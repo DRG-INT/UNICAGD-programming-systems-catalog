@@ -111,13 +111,46 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 - Databases
 - Repository Workplaces
 
-## Update Commands
+## How It Works
+
+The catalog is built in three stages:
+
+1. **Seed** — A JSON file in `catalog/seed/` defines source records with identity keys, categories, and metadata.
+2. **Enrich** — Registry fetches expand each identity with release checks, license info, and provenance. Records are carried forward across runs (DeltaLake-style merge) so the catalog only grows.
+3. **Render** — Markdown pages are generated per identity, per category, and index pages.
+
+## SQLite Database
+
+A SQLite database (`catalog/catalog.sqlite`) is generated alongside the JSON data for database-backed ingestion and recovery.
+
+| Command | Description |
+| --- | --- |
+| `all` | Enrich + render |
+| `enrich` | Fetch release data into JSON |
+| `render` | Generate Markdown from JSON |
+| `check` | Validate without fetching |
+| `sqlite` | Export JSON to SQLite |
+| `recover` | Restore JSON from SQLite |
+
+Example:
 
 ```bash
+# Full build (fetches network data)
 python3 tools/build_catalog.py all
-python3 tools/build_catalog.py enrich
-python3 tools/build_catalog.py render
-python3 tools/build_catalog.py check
+
+# No-network build (uses local data only)
+python3 tools/build_catalog.py all --no-network
+
+# Recover from SQLite if enriched_records.json is lost
+python3 tools/build_catalog.py recover
+
+# Export to SQLite only
+python3 tools/build_catalog.py sqlite
 ```
 
-The generated pages are intentionally explicit about uncertainty. Unknown release dates are kept visible with a reason, because the corpus is for operational decisions, not optimistic summaries.
+## Key Features
+
+- **No guessed dates** — Unknown release dates stay explicit with a reason
+- **Incremental upsert** — Re-runs preserve existing records, never shrink
+- **Provenance tracking** — Each record records confidence sources
+- **SQLite export** — Database-backed ingestion via UPSERT
