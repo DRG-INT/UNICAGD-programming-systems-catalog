@@ -1,6 +1,6 @@
 # Language Server
 
-Records: `7`
+Records: `26`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `7`
 
 ## Category Index
 
-[Api Abi Checker (3)](api-abi-checker.md) · [Api Doc Generator (10)](api-doc-generator.md) · [Async Runtime (7)](async-runtime.md) · [Benchmarking (5)](benchmarking.md)
-[Build System (33)](build-system.md) · [Cli (27)](cli.md) · [Codegen Codemod Refactoring (11)](codegen-codemod-refactoring.md) · [Community Reference (21)](community-reference.md)
-[Compiler (23)](compiler.md) · [Compression (7)](compression.md) · [Concurrency Parallelism (14)](concurrency-parallelism.md) · [Configuration (2)](configuration.md)
-[Container Deployment (4)](container-deployment.md) · [Coverage (8)](coverage.md) · [Cryptography (19)](cryptography.md) · [Data Science (12)](data-science.md)
-[Database Datastore (133)](database-datastore.md) · [Datetime (1)](datetime.md) · [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (8)](debugger.md)
-[Dependency Manager (6)](dependency-manager.md) · [Documentation (33)](documentation.md) · [Embedded Hardware (8)](embedded-hardware.md) · [Ffi Bindings (14)](ffi-bindings.md)
-[Filesystem Os (2)](filesystem-os.md) · [Formatter (16)](formatter.md) · [Framework (9)](framework.md) · [Fuzzer (5)](fuzzer.md)
-[Game Engine Game Dev (38)](game-engine-game-dev.md) · [Ide Editor Integration (20)](ide-editor-integration.md) · [Image Audio Dsp (47)](image-audio-dsp.md) · [Interop Bindings (7)](interop-bindings.md)
-[Interpreter Runtime (26)](interpreter-runtime.md) · [Jit Vm (15)](jit-vm.md) · **[Language Server (7)](language-server.md)** · [Language Specification (51)](language-specification.md)
-[Library (18)](library.md) · [Lint Plugin (1)](lint-plugin.md) · [Linter (18)](linter.md) · [Logging Observability (25)](logging-observability.md)
-[Machine Learning (18)](machine-learning.md) · [Math Numeric Scientific (40)](math-numeric-scientific.md) · [Memory Analyzer (1)](memory-analyzer.md) · [Message Broker (7)](message-broker.md)
-[Networking Http (87)](networking-http.md) · [Other (14)](other.md) · [Package Manager (17)](package-manager.md) · [Parser Lexer Ast (47)](parser-lexer-ast.md)
-[Precommit Ci Quality (13)](precommit-ci-quality.md) · [Profiler (11)](profiler.md) · [Project Scaffolding (3)](project-scaffolding.md) · [Registry Repository (93)](registry-repository.md)
-[Sanitizer (4)](sanitizer.md) · [Security Sast (23)](security-sast.md) · [Serialization (70)](serialization.md) · [Standard Library (7)](standard-library.md)
-[Static Analyzer (37)](static-analyzer.md) · [Templating (1)](templating.md) · [Testing Framework (31)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md)
-[Type Checker (5)](type-checker.md) · [Undefined Behavior Analyzer (101)](undefined-behavior-analyzer.md) · [Utility Library (42)](utility-library.md) · [Visualization Gui (75)](visualization-gui.md)
-[Web Framework (34)](web-framework.md)
+[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (37)](assertion-mocking.md) · [Async Runtime (113)](async-runtime.md)
+[Benchmarking (93)](benchmarking.md) · [Build System (721)](build-system.md) · [Cli (478)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (80)](community-reference.md) · [Compiler (146)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (68)](concurrency-parallelism.md) · [Configuration (93)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (152)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (517)](database-datastore.md) · [Datetime (135)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (39)](debugger.md) · [Dependency Manager (74)](dependency-manager.md) · [Documentation (73)](documentation.md)
+[Embedded Hardware (42)](embedded-hardware.md) · [Ffi Bindings (361)](ffi-bindings.md) · [Filesystem Os (1053)](filesystem-os.md) · [Formatter (511)](formatter.md)
+[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (131)](game-engine-game-dev.md) · [Ide Editor Integration (1018)](ide-editor-integration.md)
+[Image Audio Dsp (212)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (194)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+**[Language Server (26)](language-server.md)** · [Language Specification (1060)](language-specification.md) · [Library (4575)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (342)](linter.md) · [Logging Observability (315)](logging-observability.md) · [Machine Learning (533)](machine-learning.md)
+[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (71)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (817)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (236)](package-manager.md) · [Parser Lexer Ast (842)](parser-lexer-ast.md) · [Precommit Ci Quality (227)](precommit-ci-quality.md)
+[Profiler (64)](profiler.md) · [Project Scaffolding (102)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (11)](sanitizer.md)
+[Security Sast (284)](security-sast.md) · [Serialization (320)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (396)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (475)](testing-framework.md) · [Tutorial Book Styleguide (51)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1291)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (381)](visualization-gui.md) · [Web Framework (329)](web-framework.md)
 
 ## C99
 
@@ -36,6 +36,8 @@ Records: `7`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| CombinatorialSpaces | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-combinatorialspaces-8e9fbb45.md) |
+| CommonRLSpaces | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-commonrlspaces-0ddf6ccf.md) |
 | LanguageServer.jl | unknown | not_checked | [open](../records/julia-languageserver-jl-fec01545.md) |
 
 ## Rust
@@ -54,6 +56,43 @@ Records: `7`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| actions-preview.nvim | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-actions-preview-nvim-cbd68bc2.md) |
+| cmp-nvim-lsp | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-cmp-nvim-lsp-0635b295.md) |
+| distant.nvim | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-distant-nvim-24983b75.md) |
+| easy-lsp | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-easy-lsp-15d027ae.md) |
 | EmmyLua language server | unknown | not_checked | [open](../records/lua-family-emmylua-language-server-01d43d78.md) |
+| fidget.nvim | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-fidget-nvim-f92a8be4.md) |
+| flutter-tools.nvim | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-flutter-tools-nvim-0fd185d8.md) |
+| glance.nvim | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-glance-nvim-b28bc5b6.md) |
+| haskell-snippets.nvim | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-haskell-snippets-nvim-bbc03765.md) |
+| httoolsp | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-httoolsp-23c89668.md) |
+| inc-rename.nvim | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-inc-rename-nvim-901a91a1.md) |
 | Lua Language Server | unknown | not_checked | [open](../records/lua-family-lua-language-server-1c8121a1.md) |
 | LuaLS | unknown | not_checked | [open](../records/lua-family-luals-ddb361b3.md) |
+
+## Haskell
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| haskell-lsp | 0.24.0.0 | 2021-01-13T15:27:59Z | [open](../records/haskell-haskell-lsp-04b985b1.md) |
+| lsp-test | 0.18.0.0 | 2026-02-17T10:12:27Z | [open](../records/haskell-lsp-test-d5a7e9ed.md) |
+
+## Space Engines
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| NythicalNorm/VoxelSpaceProgram | partial | 2026-08-04T15:41:41Z | [open](../records/space-engines-nythicalnorm-voxelspaceprogram-60276ab4.md) |
+| qsantos/spyce | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-qsantos-spyce-36ab5cb0.md) |
+
+## Microscopy
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| tlambert03/LLSpy | partial | 2026-08-03T21:19:06Z | [open](../records/microscopy-tlambert03-llspy-f7dd5626.md) |
+
+## Telescopes
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| adoyle-h/lsp-toggle.nvim | unknown | github_latest_release_missing | [open](../records/telescopes-adoyle-h-lsp-toggle-nvim-8d7889c6.md) |
+| aznhe21/actions-preview.nvim | unknown | github_latest_release_missing | [open](../records/telescopes-aznhe21-actions-preview-nvim-d41b4fb7.md) |

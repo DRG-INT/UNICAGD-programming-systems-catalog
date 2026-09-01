@@ -1,6 +1,6 @@
 # Debugger
 
-Records: `8`
+Records: `39`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `8`
 
 ## Category Index
 
-[Api Abi Checker (3)](api-abi-checker.md) · [Api Doc Generator (10)](api-doc-generator.md) · [Async Runtime (7)](async-runtime.md) · [Benchmarking (5)](benchmarking.md)
-[Build System (33)](build-system.md) · [Cli (27)](cli.md) · [Codegen Codemod Refactoring (11)](codegen-codemod-refactoring.md) · [Community Reference (21)](community-reference.md)
-[Compiler (23)](compiler.md) · [Compression (7)](compression.md) · [Concurrency Parallelism (14)](concurrency-parallelism.md) · [Configuration (2)](configuration.md)
-[Container Deployment (4)](container-deployment.md) · [Coverage (8)](coverage.md) · [Cryptography (19)](cryptography.md) · [Data Science (12)](data-science.md)
-[Database Datastore (133)](database-datastore.md) · [Datetime (1)](datetime.md) · [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · **[Debugger (8)](debugger.md)**
-[Dependency Manager (6)](dependency-manager.md) · [Documentation (33)](documentation.md) · [Embedded Hardware (8)](embedded-hardware.md) · [Ffi Bindings (14)](ffi-bindings.md)
-[Filesystem Os (2)](filesystem-os.md) · [Formatter (16)](formatter.md) · [Framework (9)](framework.md) · [Fuzzer (5)](fuzzer.md)
-[Game Engine Game Dev (38)](game-engine-game-dev.md) · [Ide Editor Integration (20)](ide-editor-integration.md) · [Image Audio Dsp (47)](image-audio-dsp.md) · [Interop Bindings (7)](interop-bindings.md)
-[Interpreter Runtime (26)](interpreter-runtime.md) · [Jit Vm (15)](jit-vm.md) · [Language Server (7)](language-server.md) · [Language Specification (51)](language-specification.md)
-[Library (18)](library.md) · [Lint Plugin (1)](lint-plugin.md) · [Linter (18)](linter.md) · [Logging Observability (25)](logging-observability.md)
-[Machine Learning (18)](machine-learning.md) · [Math Numeric Scientific (40)](math-numeric-scientific.md) · [Memory Analyzer (1)](memory-analyzer.md) · [Message Broker (7)](message-broker.md)
-[Networking Http (87)](networking-http.md) · [Other (14)](other.md) · [Package Manager (17)](package-manager.md) · [Parser Lexer Ast (47)](parser-lexer-ast.md)
-[Precommit Ci Quality (13)](precommit-ci-quality.md) · [Profiler (11)](profiler.md) · [Project Scaffolding (3)](project-scaffolding.md) · [Registry Repository (93)](registry-repository.md)
-[Sanitizer (4)](sanitizer.md) · [Security Sast (23)](security-sast.md) · [Serialization (70)](serialization.md) · [Standard Library (7)](standard-library.md)
-[Static Analyzer (37)](static-analyzer.md) · [Templating (1)](templating.md) · [Testing Framework (31)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md)
-[Type Checker (5)](type-checker.md) · [Undefined Behavior Analyzer (101)](undefined-behavior-analyzer.md) · [Utility Library (42)](utility-library.md) · [Visualization Gui (75)](visualization-gui.md)
-[Web Framework (34)](web-framework.md)
+[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (37)](assertion-mocking.md) · [Async Runtime (113)](async-runtime.md)
+[Benchmarking (93)](benchmarking.md) · [Build System (721)](build-system.md) · [Cli (478)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (80)](community-reference.md) · [Compiler (146)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (68)](concurrency-parallelism.md) · [Configuration (93)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (152)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (517)](database-datastore.md) · [Datetime (135)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · **[Debugger (39)](debugger.md)** · [Dependency Manager (74)](dependency-manager.md) · [Documentation (73)](documentation.md)
+[Embedded Hardware (42)](embedded-hardware.md) · [Ffi Bindings (361)](ffi-bindings.md) · [Filesystem Os (1053)](filesystem-os.md) · [Formatter (511)](formatter.md)
+[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (131)](game-engine-game-dev.md) · [Ide Editor Integration (1018)](ide-editor-integration.md)
+[Image Audio Dsp (212)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (194)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1060)](language-specification.md) · [Library (4575)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (342)](linter.md) · [Logging Observability (315)](logging-observability.md) · [Machine Learning (533)](machine-learning.md)
+[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (71)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (817)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (236)](package-manager.md) · [Parser Lexer Ast (842)](parser-lexer-ast.md) · [Precommit Ci Quality (227)](precommit-ci-quality.md)
+[Profiler (64)](profiler.md) · [Project Scaffolding (102)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (11)](sanitizer.md)
+[Security Sast (284)](security-sast.md) · [Serialization (320)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (396)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (475)](testing-framework.md) · [Tutorial Book Styleguide (51)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1291)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (381)](visualization-gui.md) · [Web Framework (329)](web-framework.md)
 
 ## C99
 
@@ -39,17 +39,78 @@ Records: `8`
 | --- | --- | --- | --- |
 | Debugger.jl | unknown | not_checked | [open](../records/julia-debugger-jl-4008a432.md) |
 
+## Rust
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| debugid | 0.8.0 | 2022-04-26T11:03:07.242788Z | [open](../records/rust-debugid-9261fd14.md) |
+| more-asserts | 0.3.1 | 2022-10-01T08:33:45.677928Z | [open](../records/rust-more-asserts-547082fd.md) |
+| new_debug_unreachable | 1.0.6 | 2024-03-15T17:26:05.782555Z | [open](../records/rust-new-debug-unreachable-36e02c8b.md) |
+| opaque-debug | 0.4.0 | 2026-02-06T22:17:26.214398Z | [open](../records/rust-opaque-debug-788ae81c.md) |
+| sentry-debug-images | 0.49.2 | 2026-08-26T14:42:34.599896Z | [open](../records/rust-sentry-debug-images-c8d7d11e.md) |
+| sval_fmt | 2.22.0 | 2026-08-31T03:43:48.051998Z | [open](../records/rust-sval-fmt-a722981f.md) |
+
 ## Python
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| adb-mcp-server | 1.0.0 | 2025-05-12T03:28:15.294094Z | [open](../records/python-adb-mcp-server-8347b8fa.md) |
 | debugpy | unknown | not_checked | [open](../records/python-debugpy-6c6441e3.md) |
 | pdb | unknown | not_checked | [open](../records/python-pdb-79ae1343.md) |
+
+## Node.js/JavaScript
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| @flatfile/utils-debugger | 0.0.6 | 2024-05-02T01:50:10.847Z | [open](../records/node-js-javascript-flatfile-utils-debugger-b3ec9c7c.md) |
+| @graffy/testing | 0.19.6 | 2026-08-17T01:07:50.195Z | [open](../records/node-js-javascript-graffy-testing-b68ad75f.md) |
+| @phenomnomnominal/debug | 0.2.5 | 2021-02-05T19:47:41.063Z | [open](../records/node-js-javascript-phenomnomnominal-debug-fee07b5f.md) |
+| @probe.gl/log | 4.1.1 | 2026-02-20T19:22:44.988Z | [open](../records/node-js-javascript-probe-gl-log-6d2d59ee.md) |
+| @stacksjs/clarity | 0.3.33 | 2026-08-19T03:35:58.706Z | [open](../records/node-js-javascript-stacksjs-clarity-ea825823.md) |
+| axios-debug-log | 1.0.0 | 2022-11-15T06:01:34.120Z | [open](../records/node-js-javascript-axios-debug-log-07a28227.md) |
+| google-logging-utils | 2.0.1 | 2026-08-11T00:12:48.222Z | [open](../records/node-js-javascript-google-logging-utils-77de47f7.md) |
+| pino-debug | 4.0.2 | 2026-03-10T14:51:40.583Z | [open](../records/node-js-javascript-pino-debug-ced9ed59.md) |
+| pino-http-print | 4.0.0 | 2025-11-05T11:11:49.050Z | [open](../records/node-js-javascript-pino-http-print-56e2e7aa.md) |
 
 ## Lua family
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| BetterPrint | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-betterprint-3eee7be1.md) |
+| cartesix | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-cartesix-d3a28b06.md) |
+| debug.lua | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-debug-lua-ee19d77c.md) |
 | debugger.lua | unknown | not_checked | [open](../records/lua-family-debugger-lua-35c1fc29.md) |
 | Debugging and Profiling | unknown | not_checked | [open](../records/lua-family-debugging-and-profiling-091af0a1.md) |
+| dprint | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-dprint-e88fde94.md) |
+| dumper | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-dumper-6db95530.md) |
+| feather | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-feather-ca265c71.md) |
+| icecream | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-icecream-3fa53c2a.md) |
+| icecream-lua | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-icecream-lua-6ab86aa1.md) |
 | MobDebug | unknown | not_checked | [open](../records/lua-family-mobdebug-736f89cc.md) |
+
+## Haskell
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| tls-debug | 0.4.8 | 2019-10-15T01:03:40Z | [open](../records/haskell-tls-debug-104ac836.md) |
+
+## Telescopes
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| alxlion/eyeloupe | v.0.4.0 | 2023-10-20T08:41:34Z | [open](../records/telescopes-alxlion-eyeloupe-c5793e30.md) |
+| mogretici/nestlens | v0.14.2 | 2026-08-24T17:18:07Z | [open](../records/telescopes-mogretici-nestlens-ca5e47cb.md) |
+| omaralalwi/laravel-trash-cleaner | partial | 2026-06-22T00:21:38Z | [open](../records/telescopes-omaralalwi-laravel-trash-cleaner-15ae296c.md) |
+
+## Assembly
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| ZathuraDbg/ZathuraDbg | partial | 2026-06-21T15:05:20Z | [open](../records/assembly-zathuradbg-zathuradbg-df5d6b95.md) |
+
+## Cocoa
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| CocoaDebug/CocoaDebug | partial | 2023-06-11T12:45:10Z | [open](../records/cocoa-cocoadebug-cocoadebug-e76b4df0.md) |
+| kasketis/netfox | partial | 2024-03-21T14:08:46Z | [open](../records/cocoa-kasketis-netfox-7a32f973.md) |

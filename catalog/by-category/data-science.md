@@ -1,6 +1,6 @@
 # Data Science
 
-Records: `12`
+Records: `32`
 
 ## Navigation
 
@@ -8,28 +8,29 @@ Records: `12`
 
 ## Category Index
 
-[Api Abi Checker (3)](api-abi-checker.md) · [Api Doc Generator (10)](api-doc-generator.md) · [Async Runtime (7)](async-runtime.md) · [Benchmarking (5)](benchmarking.md)
-[Build System (33)](build-system.md) · [Cli (27)](cli.md) · [Codegen Codemod Refactoring (11)](codegen-codemod-refactoring.md) · [Community Reference (21)](community-reference.md)
-[Compiler (23)](compiler.md) · [Compression (7)](compression.md) · [Concurrency Parallelism (14)](concurrency-parallelism.md) · [Configuration (2)](configuration.md)
-[Container Deployment (4)](container-deployment.md) · [Coverage (8)](coverage.md) · [Cryptography (19)](cryptography.md) · **[Data Science (12)](data-science.md)**
-[Database Datastore (133)](database-datastore.md) · [Datetime (1)](datetime.md) · [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (8)](debugger.md)
-[Dependency Manager (6)](dependency-manager.md) · [Documentation (33)](documentation.md) · [Embedded Hardware (8)](embedded-hardware.md) · [Ffi Bindings (14)](ffi-bindings.md)
-[Filesystem Os (2)](filesystem-os.md) · [Formatter (16)](formatter.md) · [Framework (9)](framework.md) · [Fuzzer (5)](fuzzer.md)
-[Game Engine Game Dev (38)](game-engine-game-dev.md) · [Ide Editor Integration (20)](ide-editor-integration.md) · [Image Audio Dsp (47)](image-audio-dsp.md) · [Interop Bindings (7)](interop-bindings.md)
-[Interpreter Runtime (26)](interpreter-runtime.md) · [Jit Vm (15)](jit-vm.md) · [Language Server (7)](language-server.md) · [Language Specification (51)](language-specification.md)
-[Library (18)](library.md) · [Lint Plugin (1)](lint-plugin.md) · [Linter (18)](linter.md) · [Logging Observability (25)](logging-observability.md)
-[Machine Learning (18)](machine-learning.md) · [Math Numeric Scientific (40)](math-numeric-scientific.md) · [Memory Analyzer (1)](memory-analyzer.md) · [Message Broker (7)](message-broker.md)
-[Networking Http (87)](networking-http.md) · [Other (14)](other.md) · [Package Manager (17)](package-manager.md) · [Parser Lexer Ast (47)](parser-lexer-ast.md)
-[Precommit Ci Quality (13)](precommit-ci-quality.md) · [Profiler (11)](profiler.md) · [Project Scaffolding (3)](project-scaffolding.md) · [Registry Repository (93)](registry-repository.md)
-[Sanitizer (4)](sanitizer.md) · [Security Sast (23)](security-sast.md) · [Serialization (70)](serialization.md) · [Standard Library (7)](standard-library.md)
-[Static Analyzer (37)](static-analyzer.md) · [Templating (1)](templating.md) · [Testing Framework (31)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md)
-[Type Checker (5)](type-checker.md) · [Undefined Behavior Analyzer (101)](undefined-behavior-analyzer.md) · [Utility Library (42)](utility-library.md) · [Visualization Gui (75)](visualization-gui.md)
-[Web Framework (34)](web-framework.md)
+[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (37)](assertion-mocking.md) · [Async Runtime (113)](async-runtime.md)
+[Benchmarking (93)](benchmarking.md) · [Build System (721)](build-system.md) · [Cli (478)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (80)](community-reference.md) · [Compiler (146)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (68)](concurrency-parallelism.md) · [Configuration (93)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (152)](cryptography.md) · **[Data Science (32)](data-science.md)** · [Database Datastore (517)](database-datastore.md) · [Datetime (135)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (39)](debugger.md) · [Dependency Manager (74)](dependency-manager.md) · [Documentation (73)](documentation.md)
+[Embedded Hardware (42)](embedded-hardware.md) · [Ffi Bindings (361)](ffi-bindings.md) · [Filesystem Os (1053)](filesystem-os.md) · [Formatter (511)](formatter.md)
+[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (131)](game-engine-game-dev.md) · [Ide Editor Integration (1018)](ide-editor-integration.md)
+[Image Audio Dsp (212)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (194)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1060)](language-specification.md) · [Library (4575)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (342)](linter.md) · [Logging Observability (315)](logging-observability.md) · [Machine Learning (533)](machine-learning.md)
+[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (71)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (817)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (236)](package-manager.md) · [Parser Lexer Ast (842)](parser-lexer-ast.md) · [Precommit Ci Quality (227)](precommit-ci-quality.md)
+[Profiler (64)](profiler.md) · [Project Scaffolding (102)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (11)](sanitizer.md)
+[Security Sast (284)](security-sast.md) · [Serialization (320)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (396)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (475)](testing-framework.md) · [Tutorial Book Styleguide (51)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1291)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (381)](visualization-gui.md) · [Web Framework (329)](web-framework.md)
 
 ## Julia
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| BanyanDataFrames | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-banyandataframes-9458cb44.md) |
 | CategoricalArrays.jl | unknown | not_checked | [open](../records/julia-categoricalarrays-jl-cd20869a.md) |
 | DataFrames.jl | unknown | not_checked | [open](../records/julia-dataframes-jl-c257457c.md) |
 | Distributions.jl | unknown | not_checked | [open](../records/julia-distributions-jl-89313659.md) |
@@ -41,9 +42,68 @@ Records: `12`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| accudata | 1.0.1 | 2021-06-06T20:31:59.304618Z | [open](../records/python-accudata-b645a895.md) |
+| adams-beautiful-dataframes | 4.0.0 | 2025-04-24T12:24:52.081629Z | [open](../records/python-adams-beautiful-dataframes-9dd69c53.md) |
 | Dask | unknown | not_checked | [open](../records/python-dask-ba82071e.md) |
 | Ibis | unknown | not_checked | [open](../records/python-ibis-2e1b840f.md) |
 | Modin | unknown | not_checked | [open](../records/python-modin-114100c6.md) |
 | pandas | unknown | not_checked | [open](../records/python-pandas-9831121d.md) |
 | Polars | unknown | not_checked | [open](../records/python-polars-30cb4501.md) |
 | PyArrow | unknown | not_checked | [open](../records/python-pyarrow-3e27e907.md) |
+
+## Lua family
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| dataframe | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-dataframe-23544b40.md) |
+
+## R
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| AgriFusionR | 0.1.0 | 2026-08-26 20:20:08 UTC | [open](../records/r-agrifusionr-60d36eed.md) |
+| cataScience | 2.1.3 | 2026-08-28 07:01:32 UTC | [open](../records/r-catascience-c8c9bef6.md) |
+| cmahalanobis | 1.1.0 | 2026-08-31 15:00:09 UTC | [open](../records/r-cmahalanobis-73eda38f.md) |
+| daltoolbox | 1.3.777 | 2026-08-24 05:20:30 UTC | [open](../records/r-daltoolbox-727724f2.md) |
+| MultiEFM | 0.1.4 | 2026-08-04 14:00:14 UTC | [open](../records/r-multiefm-da27113b.md) |
+
+## Haskell
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| dataframe | 3.6.0.0 | 2026-08-29T20:13:37Z | [open](../records/haskell-dataframe-b6f8a1fc.md) |
+| dataframe-core | 2.5.0.1 | 2026-08-30T03:14:03Z | [open](../records/haskell-dataframe-core-afdaf954.md) |
+
+## Octave
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| dataframe | 1.2.0 | 2017-08-14 | [open](../records/octave-dataframe-fea4795b.md) |
+| tablicious | 0.4.7 | 2026-02-28 | [open](../records/octave-tablicious-843e6dc2.md) |
+
+## Magazines
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| GeneBO98/tradetally | unknown | github_search_does_not_include_release_date | [open](../records/magazines-genebo98-tradetally-aee8dd9b.md) |
+
+## WebAssembly
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| perspective-dev/perspective | v5.3.0 | 2026-08-25T18:35:58Z | [open](../records/webassembly-perspective-dev-perspective-03c75133.md) |
+
+## SAPJava
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| com.sap.cloud.sdk.plugins:usage-analytics | 3.78.0 | 2022-12-19T12:44:15+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-plugins-usage-analytics-46b83d38.md) |
+| com.sap.cloud.sdk.plugins:usage-analytics-maven-plugin | 3.78.0 | 2022-12-19T12:44:14+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-plugins-usage-analytics-maven-plugin-7d89659a.md) |
+
+## Cocoa
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| Aptabase | 0.0.6 | 2023-05-22 13:00:56 UTC | [open](../records/cocoa-aptabase-475e4e02.md) |
+| Bugsnag | 6.37.0 | 2026-08-18 10:06:41 UTC | [open](../records/cocoa-bugsnag-3d54b3f5.md) |
+| Mixpanel | 5.0.8 | 2025-02-26 22:48:59 UTC | [open](../records/cocoa-mixpanel-6b7d41ab.md) |

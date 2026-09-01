@@ -1,6 +1,6 @@
 # Message Broker
 
-Records: `7`
+Records: `29`
 
 ## Navigation
 
@@ -8,29 +8,77 @@ Records: `7`
 
 ## Category Index
 
-[Api Abi Checker (3)](api-abi-checker.md) · [Api Doc Generator (10)](api-doc-generator.md) · [Async Runtime (7)](async-runtime.md) · [Benchmarking (5)](benchmarking.md)
-[Build System (33)](build-system.md) · [Cli (27)](cli.md) · [Codegen Codemod Refactoring (11)](codegen-codemod-refactoring.md) · [Community Reference (21)](community-reference.md)
-[Compiler (23)](compiler.md) · [Compression (7)](compression.md) · [Concurrency Parallelism (14)](concurrency-parallelism.md) · [Configuration (2)](configuration.md)
-[Container Deployment (4)](container-deployment.md) · [Coverage (8)](coverage.md) · [Cryptography (19)](cryptography.md) · [Data Science (12)](data-science.md)
-[Database Datastore (133)](database-datastore.md) · [Datetime (1)](datetime.md) · [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (8)](debugger.md)
-[Dependency Manager (6)](dependency-manager.md) · [Documentation (33)](documentation.md) · [Embedded Hardware (8)](embedded-hardware.md) · [Ffi Bindings (14)](ffi-bindings.md)
-[Filesystem Os (2)](filesystem-os.md) · [Formatter (16)](formatter.md) · [Framework (9)](framework.md) · [Fuzzer (5)](fuzzer.md)
-[Game Engine Game Dev (38)](game-engine-game-dev.md) · [Ide Editor Integration (20)](ide-editor-integration.md) · [Image Audio Dsp (47)](image-audio-dsp.md) · [Interop Bindings (7)](interop-bindings.md)
-[Interpreter Runtime (26)](interpreter-runtime.md) · [Jit Vm (15)](jit-vm.md) · [Language Server (7)](language-server.md) · [Language Specification (51)](language-specification.md)
-[Library (18)](library.md) · [Lint Plugin (1)](lint-plugin.md) · [Linter (18)](linter.md) · [Logging Observability (25)](logging-observability.md)
-[Machine Learning (18)](machine-learning.md) · [Math Numeric Scientific (40)](math-numeric-scientific.md) · [Memory Analyzer (1)](memory-analyzer.md) · **[Message Broker (7)](message-broker.md)**
-[Networking Http (87)](networking-http.md) · [Other (14)](other.md) · [Package Manager (17)](package-manager.md) · [Parser Lexer Ast (47)](parser-lexer-ast.md)
-[Precommit Ci Quality (13)](precommit-ci-quality.md) · [Profiler (11)](profiler.md) · [Project Scaffolding (3)](project-scaffolding.md) · [Registry Repository (93)](registry-repository.md)
-[Sanitizer (4)](sanitizer.md) · [Security Sast (23)](security-sast.md) · [Serialization (70)](serialization.md) · [Standard Library (7)](standard-library.md)
-[Static Analyzer (37)](static-analyzer.md) · [Templating (1)](templating.md) · [Testing Framework (31)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md)
-[Type Checker (5)](type-checker.md) · [Undefined Behavior Analyzer (101)](undefined-behavior-analyzer.md) · [Utility Library (42)](utility-library.md) · [Visualization Gui (75)](visualization-gui.md)
-[Web Framework (34)](web-framework.md)
+[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (37)](assertion-mocking.md) · [Async Runtime (113)](async-runtime.md)
+[Benchmarking (93)](benchmarking.md) · [Build System (721)](build-system.md) · [Cli (478)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (80)](community-reference.md) · [Compiler (146)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (68)](concurrency-parallelism.md) · [Configuration (93)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (152)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (517)](database-datastore.md) · [Datetime (135)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (39)](debugger.md) · [Dependency Manager (74)](dependency-manager.md) · [Documentation (73)](documentation.md)
+[Embedded Hardware (42)](embedded-hardware.md) · [Ffi Bindings (361)](ffi-bindings.md) · [Filesystem Os (1053)](filesystem-os.md) · [Formatter (511)](formatter.md)
+[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (131)](game-engine-game-dev.md) · [Ide Editor Integration (1018)](ide-editor-integration.md)
+[Image Audio Dsp (212)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (194)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1060)](language-specification.md) · [Library (4575)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (342)](linter.md) · [Logging Observability (315)](logging-observability.md) · [Machine Learning (533)](machine-learning.md)
+[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (71)](memory-analyzer.md) · **[Message Broker (29)](message-broker.md)** · [Networking Http (817)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (236)](package-manager.md) · [Parser Lexer Ast (842)](parser-lexer-ast.md) · [Precommit Ci Quality (227)](precommit-ci-quality.md)
+[Profiler (64)](profiler.md) · [Project Scaffolding (102)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (11)](sanitizer.md)
+[Security Sast (284)](security-sast.md) · [Serialization (320)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (396)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (475)](testing-framework.md) · [Tutorial Book Styleguide (51)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1291)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (381)](visualization-gui.md) · [Web Framework (329)](web-framework.md)
+
+## Julia
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| aws_c_mqtt_jll | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-aws-c-mqtt-jll-8b192378.md) |
+
+## Rust
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| concurrent-queue | 2.5.0 | 2024-04-26T14:26:18.816602Z | [open](../records/rust-concurrent-queue-be84d7d6.md) |
+| crossbeam-queue | 0.3.13 | 2026-07-06T15:52:58.228649Z | [open](../records/rust-crossbeam-queue-6ce25da7.md) |
+| kqueue | 1.2.1 | 2026-08-04T14:04:27.587775Z | [open](../records/rust-kqueue-133c94cf.md) |
+| kqueue-sys | 1.1.2 | 2026-05-14T08:11:34.035502Z | [open](../records/rust-kqueue-sys-0b0fdb03.md) |
+| polling | 3.11.0 | 2025-09-14T14:00:51.946852Z | [open](../records/rust-polling-f3d01a29.md) |
+| rdkafka | 0.39.0 | 2026-01-25T16:24:28.737074Z | [open](../records/rust-rdkafka-b7aefe42.md) |
 
 ## Lua family
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| circle | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-circle-fb564990.md) |
+| diskqueue | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-diskqueue-a67e6ec5.md) |
+| dr.tap | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-dr-tap-8e0551aa.md) |
+| homie | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-homie-a368172e.md) |
 | Message Brokers | unknown | not_checked | [open](../records/lua-family-message-brokers-ef5c8b44.md) |
+
+## Haskell
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| net-mqtt | 0.8.6.4 | 2026-04-28T01:44:27Z | [open](../records/haskell-net-mqtt-a7b88a5b.md) |
+| pqueue | 1.7.0.0 | 2026-04-16T16:30:29Z | [open](../records/haskell-pqueue-ac6cbc50.md) |
+| psqueues | 0.2.8.3 | 2025-12-28T06:54:17Z | [open](../records/haskell-psqueues-b1fa6808.md) |
+| stomp-queue | 0.5.1 | 2020-12-27T12:55:57Z | [open](../records/haskell-stomp-queue-894bae3e.md) |
+
+## Octave
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| mqtt | 0.0.7 | 2026-05-24 | [open](../records/octave-mqtt-a6c2a8e3.md) |
+
+## Dart
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| background_downloader | 9.5.9 | 2026-08-29T15:37:19.988407Z | [open](../records/dart-background-downloader-c2530439.md) |
+
+## Go
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| emirpasic/gods | partial | 2025-03-12T00:01:29Z | [open](../records/go-emirpasic-gods-83b03cfe.md) |
 
 ## Transmission Protocols
 
@@ -42,3 +90,22 @@ Records: `7`
 | MQTT | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/transmission-protocols-mqtt-6c1bc678.md) |
 | NATS Protocol | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/transmission-protocols-nats-protocol-a253d579.md) |
 | STOMP | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/transmission-protocols-stomp-e2200807.md) |
+
+## Magazines
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| evolution-gaming/kafka-journal | unknown | github_search_does_not_include_release_date | [open](../records/magazines-evolution-gaming-kafka-journal-8b39d62d.md) |
+
+## Pattern language
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| piomin/sample-spring-kafka-microservices | partial | 2026-08-25T12:07:41Z | [open](../records/pattern-language-piomin-sample-spring-kafka-microservices-d91cbb54.md) |
+| uuhnaut69/saga-pattern-microservices | partial | 2026-02-19T16:02:52Z | [open](../records/pattern-language-uuhnaut69-saga-pattern-microservices-96c7cae5.md) |
+
+## SAPJava
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| com.sap.cds:cds-feature-kafka | 3.10.1 | 2025-05-16T11:26:30+00:00 | [open](../records/sapjava-com-sap-cds-cds-feature-kafka-c6858703.md) |

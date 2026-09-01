@@ -1,6 +1,6 @@
 # Tutorial Book Styleguide
 
-Records: `7`
+Records: `51`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `7`
 
 ## Category Index
 
-[Api Abi Checker (3)](api-abi-checker.md) · [Api Doc Generator (10)](api-doc-generator.md) · [Async Runtime (7)](async-runtime.md) · [Benchmarking (5)](benchmarking.md)
-[Build System (33)](build-system.md) · [Cli (27)](cli.md) · [Codegen Codemod Refactoring (11)](codegen-codemod-refactoring.md) · [Community Reference (21)](community-reference.md)
-[Compiler (23)](compiler.md) · [Compression (7)](compression.md) · [Concurrency Parallelism (14)](concurrency-parallelism.md) · [Configuration (2)](configuration.md)
-[Container Deployment (4)](container-deployment.md) · [Coverage (8)](coverage.md) · [Cryptography (19)](cryptography.md) · [Data Science (12)](data-science.md)
-[Database Datastore (133)](database-datastore.md) · [Datetime (1)](datetime.md) · [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (8)](debugger.md)
-[Dependency Manager (6)](dependency-manager.md) · [Documentation (33)](documentation.md) · [Embedded Hardware (8)](embedded-hardware.md) · [Ffi Bindings (14)](ffi-bindings.md)
-[Filesystem Os (2)](filesystem-os.md) · [Formatter (16)](formatter.md) · [Framework (9)](framework.md) · [Fuzzer (5)](fuzzer.md)
-[Game Engine Game Dev (38)](game-engine-game-dev.md) · [Ide Editor Integration (20)](ide-editor-integration.md) · [Image Audio Dsp (47)](image-audio-dsp.md) · [Interop Bindings (7)](interop-bindings.md)
-[Interpreter Runtime (26)](interpreter-runtime.md) · [Jit Vm (15)](jit-vm.md) · [Language Server (7)](language-server.md) · [Language Specification (51)](language-specification.md)
-[Library (18)](library.md) · [Lint Plugin (1)](lint-plugin.md) · [Linter (18)](linter.md) · [Logging Observability (25)](logging-observability.md)
-[Machine Learning (18)](machine-learning.md) · [Math Numeric Scientific (40)](math-numeric-scientific.md) · [Memory Analyzer (1)](memory-analyzer.md) · [Message Broker (7)](message-broker.md)
-[Networking Http (87)](networking-http.md) · [Other (14)](other.md) · [Package Manager (17)](package-manager.md) · [Parser Lexer Ast (47)](parser-lexer-ast.md)
-[Precommit Ci Quality (13)](precommit-ci-quality.md) · [Profiler (11)](profiler.md) · [Project Scaffolding (3)](project-scaffolding.md) · [Registry Repository (93)](registry-repository.md)
-[Sanitizer (4)](sanitizer.md) · [Security Sast (23)](security-sast.md) · [Serialization (70)](serialization.md) · [Standard Library (7)](standard-library.md)
-[Static Analyzer (37)](static-analyzer.md) · [Templating (1)](templating.md) · [Testing Framework (31)](testing-framework.md) · **[Tutorial Book Styleguide (7)](tutorial-book-styleguide.md)**
-[Type Checker (5)](type-checker.md) · [Undefined Behavior Analyzer (101)](undefined-behavior-analyzer.md) · [Utility Library (42)](utility-library.md) · [Visualization Gui (75)](visualization-gui.md)
-[Web Framework (34)](web-framework.md)
+[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (37)](assertion-mocking.md) · [Async Runtime (113)](async-runtime.md)
+[Benchmarking (93)](benchmarking.md) · [Build System (721)](build-system.md) · [Cli (478)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (80)](community-reference.md) · [Compiler (146)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (68)](concurrency-parallelism.md) · [Configuration (93)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (152)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (517)](database-datastore.md) · [Datetime (135)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (39)](debugger.md) · [Dependency Manager (74)](dependency-manager.md) · [Documentation (73)](documentation.md)
+[Embedded Hardware (42)](embedded-hardware.md) · [Ffi Bindings (361)](ffi-bindings.md) · [Filesystem Os (1053)](filesystem-os.md) · [Formatter (511)](formatter.md)
+[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (131)](game-engine-game-dev.md) · [Ide Editor Integration (1018)](ide-editor-integration.md)
+[Image Audio Dsp (212)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (194)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1060)](language-specification.md) · [Library (4575)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (342)](linter.md) · [Logging Observability (315)](logging-observability.md) · [Machine Learning (533)](machine-learning.md)
+[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (71)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (817)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (236)](package-manager.md) · [Parser Lexer Ast (842)](parser-lexer-ast.md) · [Precommit Ci Quality (227)](precommit-ci-quality.md)
+[Profiler (64)](profiler.md) · [Project Scaffolding (102)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (11)](sanitizer.md)
+[Security Sast (284)](security-sast.md) · [Serialization (320)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (396)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (475)](testing-framework.md) · **[Tutorial Book Styleguide (51)](tutorial-book-styleguide.md)** · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1291)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (381)](visualization-gui.md) · [Web Framework (329)](web-framework.md)
 
 ## C++23
 
@@ -32,12 +32,35 @@ Records: `7`
 | --- | --- | --- | --- |
 | C++ Core Guidelines | unknown | not_checked | [open](../records/c-23-c-core-guidelines-8e7873e6.md) |
 
+## Julia
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| Books | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-books-e878aea2.md) |
+
 ## Lua family
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| bookmark | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-bookmark-944d772b.md) |
 | Books | unknown | not_checked | [open](../records/lua-family-books-125c2ffe.md) |
+| fbtorch | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-fbtorch-0c5b7744.md) |
+| hycolor | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-hycolor-e986e428.md) |
 | Tutorials | unknown | not_checked | [open](../records/lua-family-tutorials-9e4c17d4.md) |
+
+## R
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| bookdown | 0.48 | 2026-08-28 13:30:09 UTC | [open](../records/r-bookdown-d3626540.md) |
+| dobson | 0.4.1 | 2026-08-28 09:50:31 UTC | [open](../records/r-dobson-853a14d4.md) |
+| TRSbook | 1.0.4 | 2026-08-23 10:41:08 UTC | [open](../records/r-trsbook-a6bb2d75.md) |
+
+## Dart
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| flutter_native_contact_picker | 0.0.12 | 2026-04-27T05:44:44.056318Z | [open](../records/dart-flutter-native-contact-picker-c550a1b0.md) |
 
 ## Basilisk
 
@@ -57,8 +80,104 @@ Records: `7`
 | --- | --- | --- | --- |
 | The Twelve-Factor App | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/doctrines-the-twelve-factor-app-1f8c0b14.md) |
 
+## Assets
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| fontforge/designwithfontforge.com | partial | 2026-07-16T20:17:55Z | [open](../records/assets-fontforge-designwithfontforge-com-456df33b.md) |
+| nicoverbruggen/ebook-fonts | partial | 2026-08-22T10:20:17Z | [open](../records/assets-nicoverbruggen-ebook-fonts-abce4d5b.md) |
+
+## Maps
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| joewdavies/geoblender | partial | 2026-01-11T21:49:46Z | [open](../records/maps-joewdavies-geoblender-1f240f31.md) |
+
+## Space Maps
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| CapableRobot/notebooks | partial | 2023-04-17T15:58:03Z | [open](../records/space-maps-capablerobot-notebooks-4f26269e.md) |
+
 ## Effects
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| ColinKennedy/USD-Cookbook | partial | 2024-08-17T18:16:46Z | [open](../records/effects-colinkennedy-usd-cookbook-c0dce363.md) |
+| gtibo/VFX-sketchbook-Godot-3.x | partial | 2022-10-04T12:46:16Z | [open](../records/effects-gtibo-vfx-sketchbook-godot-3-x-818c8d15.md) |
+| jtomori/vfx_good_night_reading | partial | 2022-10-24T20:20:54Z | [open](../records/effects-jtomori-vfx-good-night-reading-fcbf70e5.md) |
 | The Book of Shaders | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-the-book-of-shaders-dac50f53.md) |
+
+## Audio
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| gemengtju/Tutorial_Separation | unknown | github_latest_release_missing | [open](../records/audio-gemengtju-tutorial-separation-9e84796b.md) |
+| hollance/synth-plugin-book | unknown | github_latest_release_missing | [open](../records/audio-hollance-synth-plugin-book-483e8c79.md) |
+
+## Photography
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| textileio/textile-facebook | unknown | github_search_does_not_include_release_date | [open](../records/photography-textileio-textile-facebook-2884125a.md) |
+
+## Microscopy
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| ome-zarr-models/ome-zarr-book | partial | 2026-09-01T10:28:50Z | [open](../records/microscopy-ome-zarr-models-ome-zarr-book-c8e86dc4.md) |
+
+## Magazines
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| Paul-Ladyman/LUD-go-tutorial | unknown | github_latest_release_missing | [open](../records/magazines-paul-ladyman-lud-go-tutorial-6097738c.md) |
+| ping/libby-calibre-plugin | unknown | github_search_does_not_include_release_date | [open](../records/magazines-ping-libby-calibre-plugin-043a04c1.md) |
+
+## Assembly
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| wx-chevalier/CS-Notes | partial | 2026-05-13T10:02:49Z | [open](../records/assembly-wx-chevalier-cs-notes-c6d51bd4.md) |
+
+## Pattern language
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| bethrobson/Head-First-Design-Patterns | partial | 2023-12-05T09:09:01Z | [open](../records/pattern-language-bethrobson-head-first-design-patterns-b9cdc6a8.md) |
+| krasimir/react-in-patterns | partial | 2025-01-27T05:35:58Z | [open](../records/pattern-language-krasimir-react-in-patterns-a1f72d2b.md) |
+
+## WebAssembly
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| egghead.io: Get Started Using WebAssembly (WASM)(2017) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-egghead-io-get-started-using-webassembly-wasm-2017-45f8111f.md) |
+| Evian-Zhang/wasm-tutorial | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-evian-zhang-wasm-tutorial-8c1b630a.md) |
+| First steps with WebAssembly in Rust (2020) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-first-steps-with-webassembly-in-rust-2020-ddc73fe6.md) |
+| Getting Started With WebAssembly in Node.js (2017) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-getting-started-with-webassembly-in-node-js-2017-a056f459.md) |
+| Hands-On Webassembly: Try the Basics (2020) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-hands-on-webassembly-try-the-basics-2020-70b6b536.md) |
+| Hit the Ground Running with WebAssembly (2019) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-hit-the-ground-running-with-webassembly-2019-4441551e.md) |
+| Introduction to WebAssembly Text (2021) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-introduction-to-webassembly-text-2021-9fc61b08.md) |
+| Uno Platform Bootcamp - single-source WASM & Mobile app tutorial (2019) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-uno-platform-bootcamp-single-source-wasm-mobile-app-tutorial-2019-f54004f2.md) |
+| Using the import statement with an Emscripten-generated module in Vue.js (2020) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-using-the-import-statement-with-an-emscripten-generated-module-in-vue-js-2020-f8a4e547.md) |
+| Using WebAssembly modules in C# (2020) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-using-webassembly-modules-in-c-2020-bbb0894a.md) |
+| Wasmbyexample - Hands-On Introduction Examples and Tutorials for Webassembly | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wasmbyexample-hands-on-introduction-examples-and-tutorials-for-webassembly-203841c8.md) |
+| WebAssembly 101: a developer first steps (2017) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-webassembly-101-a-developer-first-steps-2017-3b689f23.md) |
+| Webassembly initial steps tutorial (2016) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-webassembly-initial-steps-tutorial-2016-f6fcfef7.md) |
+| WebAssembly Physics and DOM objects (2018) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-webassembly-physics-and-dom-objects-2018-3f0b9cd3.md) |
+| WebAssembly — The missing tutorial (2016) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-webassembly-the-missing-tutorial-2016-dd4eebbc.md) |
+| WebAssemblyMan – man page for WebAssembly. | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-webassemblyman-man-page-for-webassembly-b6246d90.md) |
+
+## SAPJava
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| bemariantony/bm-cap-workout | unknown | not_a_maven_coordinate | [open](../records/sapjava-bemariantony-bm-cap-workout-b007c998.md) |
+| Linda-DE/sap-cap-bookshop-java | unknown | not_a_maven_coordinate | [open](../records/sapjava-linda-de-sap-cap-bookshop-java-5217673c.md) |
+| mukhammad-pardaboev/bookstore-cap-java-app | unknown | not_a_maven_coordinate | [open](../records/sapjava-mukhammad-pardaboev-bookstore-cap-java-app-c81d9417.md) |
+
+## Swift
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| App Architecture | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-app-architecture-2914b6dd.md) |

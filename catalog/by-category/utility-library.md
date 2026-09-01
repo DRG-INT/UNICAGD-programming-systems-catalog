@@ -1,6 +1,6 @@
 # Utility Library
 
-Records: `42`
+Records: `89`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `42`
 
 ## Category Index
 
-[Api Abi Checker (3)](api-abi-checker.md) · [Api Doc Generator (10)](api-doc-generator.md) · [Async Runtime (7)](async-runtime.md) · [Benchmarking (5)](benchmarking.md)
-[Build System (33)](build-system.md) · [Cli (27)](cli.md) · [Codegen Codemod Refactoring (11)](codegen-codemod-refactoring.md) · [Community Reference (21)](community-reference.md)
-[Compiler (23)](compiler.md) · [Compression (7)](compression.md) · [Concurrency Parallelism (14)](concurrency-parallelism.md) · [Configuration (2)](configuration.md)
-[Container Deployment (4)](container-deployment.md) · [Coverage (8)](coverage.md) · [Cryptography (19)](cryptography.md) · [Data Science (12)](data-science.md)
-[Database Datastore (133)](database-datastore.md) · [Datetime (1)](datetime.md) · [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (8)](debugger.md)
-[Dependency Manager (6)](dependency-manager.md) · [Documentation (33)](documentation.md) · [Embedded Hardware (8)](embedded-hardware.md) · [Ffi Bindings (14)](ffi-bindings.md)
-[Filesystem Os (2)](filesystem-os.md) · [Formatter (16)](formatter.md) · [Framework (9)](framework.md) · [Fuzzer (5)](fuzzer.md)
-[Game Engine Game Dev (38)](game-engine-game-dev.md) · [Ide Editor Integration (20)](ide-editor-integration.md) · [Image Audio Dsp (47)](image-audio-dsp.md) · [Interop Bindings (7)](interop-bindings.md)
-[Interpreter Runtime (26)](interpreter-runtime.md) · [Jit Vm (15)](jit-vm.md) · [Language Server (7)](language-server.md) · [Language Specification (51)](language-specification.md)
-[Library (18)](library.md) · [Lint Plugin (1)](lint-plugin.md) · [Linter (18)](linter.md) · [Logging Observability (25)](logging-observability.md)
-[Machine Learning (18)](machine-learning.md) · [Math Numeric Scientific (40)](math-numeric-scientific.md) · [Memory Analyzer (1)](memory-analyzer.md) · [Message Broker (7)](message-broker.md)
-[Networking Http (87)](networking-http.md) · [Other (14)](other.md) · [Package Manager (17)](package-manager.md) · [Parser Lexer Ast (47)](parser-lexer-ast.md)
-[Precommit Ci Quality (13)](precommit-ci-quality.md) · [Profiler (11)](profiler.md) · [Project Scaffolding (3)](project-scaffolding.md) · [Registry Repository (93)](registry-repository.md)
-[Sanitizer (4)](sanitizer.md) · [Security Sast (23)](security-sast.md) · [Serialization (70)](serialization.md) · [Standard Library (7)](standard-library.md)
-[Static Analyzer (37)](static-analyzer.md) · [Templating (1)](templating.md) · [Testing Framework (31)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md)
-[Type Checker (5)](type-checker.md) · [Undefined Behavior Analyzer (101)](undefined-behavior-analyzer.md) · **[Utility Library (42)](utility-library.md)** · [Visualization Gui (75)](visualization-gui.md)
-[Web Framework (34)](web-framework.md)
+[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (37)](assertion-mocking.md) · [Async Runtime (113)](async-runtime.md)
+[Benchmarking (93)](benchmarking.md) · [Build System (721)](build-system.md) · [Cli (478)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (80)](community-reference.md) · [Compiler (146)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (68)](concurrency-parallelism.md) · [Configuration (93)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (152)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (517)](database-datastore.md) · [Datetime (135)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (39)](debugger.md) · [Dependency Manager (74)](dependency-manager.md) · [Documentation (73)](documentation.md)
+[Embedded Hardware (42)](embedded-hardware.md) · [Ffi Bindings (361)](ffi-bindings.md) · [Filesystem Os (1053)](filesystem-os.md) · [Formatter (511)](formatter.md)
+[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (131)](game-engine-game-dev.md) · [Ide Editor Integration (1018)](ide-editor-integration.md)
+[Image Audio Dsp (212)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (194)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1060)](language-specification.md) · [Library (4575)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (342)](linter.md) · [Logging Observability (315)](logging-observability.md) · [Machine Learning (533)](machine-learning.md)
+[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (71)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (817)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (236)](package-manager.md) · [Parser Lexer Ast (842)](parser-lexer-ast.md) · [Precommit Ci Quality (227)](precommit-ci-quality.md)
+[Profiler (64)](profiler.md) · [Project Scaffolding (102)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (11)](sanitizer.md)
+[Security Sast (284)](security-sast.md) · [Serialization (320)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (396)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (475)](testing-framework.md) · [Tutorial Book Styleguide (51)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1291)](undefined-behavior-analyzer.md) · **[Utility Library (89)](utility-library.md)** · [Visualization Gui (381)](visualization-gui.md) · [Web Framework (329)](web-framework.md)
 
 ## C99
 
@@ -32,21 +32,37 @@ Records: `42`
 | --- | --- | --- | --- |
 | uthash | unknown | not_checked | [open](../records/c99-uthash-44d4c411.md) |
 
+## C++23
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| LibU | unknown | awesome_list_does_not_include_release_date | [open](../records/c-23-libu-14a428fa.md) |
+
+## Julia
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| AutoEncoderToolkit | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-autoencodertoolkit-08a53c55.md) |
+
 ## Rust
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | anyhow | unknown | not_checked | [open](../records/rust-anyhow-62974ded.md) |
+| byte-tools | 0.3.1 | 2019-01-28T14:52:53.093902Z | [open](../records/rust-byte-tools-770b8805.md) |
 | bytes | unknown | not_checked | [open](../records/rust-bytes-b72b785b.md) |
+| cfg_aliases | 0.2.2 | 2026-07-16T14:57:16.699789Z | [open](../records/rust-cfg-aliases-d4bb4678.md) |
 | chrono | unknown | not_checked | [open](../records/rust-chrono-1aa355cd.md) |
 | itertools | unknown | not_checked | [open](../records/rust-itertools-006809c3.md) |
 | lazy_static | unknown | not_checked | [open](../records/rust-lazy-static-c8cc2ab5.md) |
 | once_cell | unknown | not_checked | [open](../records/rust-once-cell-f7bab0f1.md) |
 | regex | unknown | not_checked | [open](../records/rust-regex-b788de9f.md) |
+| simd_helpers | 0.1.0 | 2019-10-06T16:08:31.640539Z | [open](../records/rust-simd-helpers-71b97307.md) |
 | smallvec | unknown | not_checked | [open](../records/rust-smallvec-7e6e1826.md) |
 | thiserror | unknown | not_checked | [open](../records/rust-thiserror-94fe9358.md) |
 | time | unknown | not_checked | [open](../records/rust-time-54050569.md) |
 | uuid | unknown | not_checked | [open](../records/rust-uuid-c5fdf5ea.md) |
+| wyz | 0.6.1 | 2022-11-16T04:54:37.181940Z | [open](../records/rust-wyz-38b32715.md) |
 
 ## Python
 
@@ -86,6 +102,15 @@ Records: `42`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| ansify | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-ansify-afcc5bd4.md) |
+| arnaudleroy | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-arnaudleroy-ee7c472b.md) |
+| dromozoa-dyld | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-dromozoa-dyld-9341feff.md) |
+| dromozoa-socks | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-dromozoa-socks-b9c7870e.md) |
+| eth-secp256k1 | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-eth-secp256k1-f2c2a233.md) |
+| graph-toolkit | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-graph-toolkit-8c33df5e.md) |
+| handler-helpers | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-handler-helpers-7f14ff27.md) |
+| iptv-org-pro-url-tools | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-iptv-org-pro-url-tools-5590eee5.md) |
+| iptvplaylist-m3u-tools | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-iptvplaylist-m3u-tools-a7afe0be.md) |
 | Lua Fun | unknown | not_checked | [open](../records/lua-family-lua-fun-eedafd2c.md) |
 | lua-stdlib | unknown | not_checked | [open](../records/lua-family-lua-stdlib-42fd2edb.md) |
 | lume | unknown | not_checked | [open](../records/lua-family-lume-1f693baa.md) |
@@ -93,17 +118,119 @@ Records: `42`
 | Penlight | unknown | not_checked | [open](../records/lua-family-penlight-9b8522e8.md) |
 | Utility Belts | unknown | not_checked | [open](../records/lua-family-utility-belts-b144f3ec.md) |
 
+## R
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| copBasic | 2.2.16 | 2026-08-31 15:40:10 UTC | [open](../records/r-copbasic-5a061264.md) |
+| CurricularComplexity | 1.1.0 | 2026-08-21 05:46:55 UTC | [open](../records/r-curricularcomplexity-beb1e682.md) |
+| depictr | 0.3.0 | 2026-09-01 08:30:09 UTC | [open](../records/r-depictr-4b19a4b8.md) |
+| HelpersMG | 2026.8.24 | 2026-08-24 13:10:02 UTC | [open](../records/r-helpersmg-017f0dc5.md) |
+| ibdfindr | 0.4.0 | 2026-08-31 22:50:02 UTC | [open](../records/r-ibdfindr-298b8d9b.md) |
+| investdatar | 0.1.5 | 2026-08-21 13:40:07 UTC | [open](../records/r-investdatar-fdcfa218.md) |
+| partykit | 1.3-0 | 2026-08-22 16:50:02 UTC | [open](../records/r-partykit-6e13b008.md) |
+| snowflakeauth | 0.3.0 | 2026-08-31 22:00:02 UTC | [open](../records/r-snowflakeauth-230b41c6.md) |
+| sstvars | 1.2.5 | 2026-08-04 13:10:02 UTC | [open](../records/r-sstvars-3c4aef53.md) |
+| tabxplor | 2.0.0 | 2026-08-29 15:30:08 UTC | [open](../records/r-tabxplor-6f1d5d75.md) |
+
+## Haskell
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| utility-ht | 0.0.17.2 | 2024-07-06T11:48:43Z | [open](../records/haskell-utility-ht-7dcbd6db.md) |
+
+## Octave
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| mvn | 1.1.0 | 2013-12-30 | [open](../records/octave-mvn-d6d60747.md) |
+| odbc | 0.0.7 | 2026-05-24 | [open](../records/octave-odbc-c39662a8.md) |
+| optim | 1.6.3 | 2026-03-08 | [open](../records/octave-optim-f0eff4de.md) |
+
+## Dart
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| flutter_flavorizr | 2.6.0 | 2026-07-15T17:54:58.886322Z | [open](../records/dart-flutter-flavorizr-6e166bc8.md) |
+| maps_toolkit | 3.1.0 | 2025-01-29T10:15:39.106219Z | [open](../records/dart-maps-toolkit-8dcbb6c5.md) |
+
 ## Font Briefcase
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | fontTools | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/font-briefcase-fonttools-f6d609cf.md) |
 
+## Assets
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| peterhinch/micropython-font-to-py | partial | 2025-05-28T09:18:59Z | [open](../records/assets-peterhinch-micropython-font-to-py-1c6ba201.md) |
+
+## Maps
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| dereuromark/cakephp-geo | 3.8.0 | 2026-05-05T01:50:26Z | [open](../records/maps-dereuromark-cakephp-geo-542287c4.md) |
+| mapnik/mapnik | partial | 2026-08-28T10:05:05Z | [open](../records/maps-mapnik-mapnik-e2a47503.md) |
+
+## Space Engines
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| thkruz/ootk | partial | 2026-07-26T14:12:36Z | [open](../records/space-engines-thkruz-ootk-7d80e955.md) |
+
+## Effects
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| jtomori/vft | partial | 2019-08-23T19:43:42Z | [open](../records/effects-jtomori-vft-c6779aa1.md) |
+
 ## Photography
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| cbassa/sattools | partial | 2025-12-28T19:02:08Z | [open](../records/photography-cbassa-sattools-c329b908.md) |
 | ExifTool | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/photography-exiftool-97af4b05.md) |
+
+## Telescopes
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| m4opt/m4opt | v2.12.0 | 2026-08-28T14:35:28Z | [open](../records/telescopes-m4opt-m4opt-6b7434b6.md) |
+
+## SatCom Satellites
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| cbassa/sattools | unknown | github_latest_release_missing | [open](../records/satcom-satellites-cbassa-sattools-af822dfc.md) |
+| cn0xroot/RFSec-ToolKit | unknown | github_latest_release_missing | [open](../records/satcom-satellites-cn0xroot-rfsec-toolkit-4ac77378.md) |
+| thkruz/ootk | v7.0.3 | 2026-07-06T14:20:16Z | [open](../records/satcom-satellites-thkruz-ootk-a6870fc3.md) |
+
+## Electromagnetoscopes
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| cn0xroot/RFSec-ToolKit | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-cn0xroot-rfsec-toolkit-af5f5a3e.md) |
+
+## Magazines
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| TheAxeDude/ZiniGo | unknown | github_search_does_not_include_release_date | [open](../records/magazines-theaxedude-zinigo-53c2b956.md) |
+
+## WebAssembly
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| eliben/watgo | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-eliben-watgo-1be01e71.md) |
+| WebAssembly/wabt | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-webassembly-wabt-4c17737d.md) |
+
+## SAPJava
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| iamtiagomadeira/sap-migration-toolkit | unknown | not_a_maven_coordinate | [open](../records/sapjava-iamtiagomadeira-sap-migration-toolkit-b5f07dd8.md) |
+| KIBA-LABS/SmartUtilityManagement | unknown | not_a_maven_coordinate | [open](../records/sapjava-kiba-labs-smartutilitymanagement-924928e5.md) |
 
 ## Repository Workplaces
 

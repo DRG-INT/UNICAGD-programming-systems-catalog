@@ -1,6 +1,6 @@
 # Codegen Codemod Refactoring
 
-Records: `11`
+Records: `23`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `11`
 
 ## Category Index
 
-[Api Abi Checker (3)](api-abi-checker.md) · [Api Doc Generator (10)](api-doc-generator.md) · [Async Runtime (7)](async-runtime.md) · [Benchmarking (5)](benchmarking.md)
-[Build System (33)](build-system.md) · [Cli (27)](cli.md) · **[Codegen Codemod Refactoring (11)](codegen-codemod-refactoring.md)** · [Community Reference (21)](community-reference.md)
-[Compiler (23)](compiler.md) · [Compression (7)](compression.md) · [Concurrency Parallelism (14)](concurrency-parallelism.md) · [Configuration (2)](configuration.md)
-[Container Deployment (4)](container-deployment.md) · [Coverage (8)](coverage.md) · [Cryptography (19)](cryptography.md) · [Data Science (12)](data-science.md)
-[Database Datastore (133)](database-datastore.md) · [Datetime (1)](datetime.md) · [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (8)](debugger.md)
-[Dependency Manager (6)](dependency-manager.md) · [Documentation (33)](documentation.md) · [Embedded Hardware (8)](embedded-hardware.md) · [Ffi Bindings (14)](ffi-bindings.md)
-[Filesystem Os (2)](filesystem-os.md) · [Formatter (16)](formatter.md) · [Framework (9)](framework.md) · [Fuzzer (5)](fuzzer.md)
-[Game Engine Game Dev (38)](game-engine-game-dev.md) · [Ide Editor Integration (20)](ide-editor-integration.md) · [Image Audio Dsp (47)](image-audio-dsp.md) · [Interop Bindings (7)](interop-bindings.md)
-[Interpreter Runtime (26)](interpreter-runtime.md) · [Jit Vm (15)](jit-vm.md) · [Language Server (7)](language-server.md) · [Language Specification (51)](language-specification.md)
-[Library (18)](library.md) · [Lint Plugin (1)](lint-plugin.md) · [Linter (18)](linter.md) · [Logging Observability (25)](logging-observability.md)
-[Machine Learning (18)](machine-learning.md) · [Math Numeric Scientific (40)](math-numeric-scientific.md) · [Memory Analyzer (1)](memory-analyzer.md) · [Message Broker (7)](message-broker.md)
-[Networking Http (87)](networking-http.md) · [Other (14)](other.md) · [Package Manager (17)](package-manager.md) · [Parser Lexer Ast (47)](parser-lexer-ast.md)
-[Precommit Ci Quality (13)](precommit-ci-quality.md) · [Profiler (11)](profiler.md) · [Project Scaffolding (3)](project-scaffolding.md) · [Registry Repository (93)](registry-repository.md)
-[Sanitizer (4)](sanitizer.md) · [Security Sast (23)](security-sast.md) · [Serialization (70)](serialization.md) · [Standard Library (7)](standard-library.md)
-[Static Analyzer (37)](static-analyzer.md) · [Templating (1)](templating.md) · [Testing Framework (31)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md)
-[Type Checker (5)](type-checker.md) · [Undefined Behavior Analyzer (101)](undefined-behavior-analyzer.md) · [Utility Library (42)](utility-library.md) · [Visualization Gui (75)](visualization-gui.md)
-[Web Framework (34)](web-framework.md)
+[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (37)](assertion-mocking.md) · [Async Runtime (113)](async-runtime.md)
+[Benchmarking (93)](benchmarking.md) · [Build System (721)](build-system.md) · [Cli (478)](cli.md) · **[Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)**
+[Community Reference (80)](community-reference.md) · [Compiler (146)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (68)](concurrency-parallelism.md) · [Configuration (93)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (152)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (517)](database-datastore.md) · [Datetime (135)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (39)](debugger.md) · [Dependency Manager (74)](dependency-manager.md) · [Documentation (73)](documentation.md)
+[Embedded Hardware (42)](embedded-hardware.md) · [Ffi Bindings (361)](ffi-bindings.md) · [Filesystem Os (1053)](filesystem-os.md) · [Formatter (511)](formatter.md)
+[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (131)](game-engine-game-dev.md) · [Ide Editor Integration (1018)](ide-editor-integration.md)
+[Image Audio Dsp (212)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (194)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1060)](language-specification.md) · [Library (4575)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (342)](linter.md) · [Logging Observability (315)](logging-observability.md) · [Machine Learning (533)](machine-learning.md)
+[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (71)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (817)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (236)](package-manager.md) · [Parser Lexer Ast (842)](parser-lexer-ast.md) · [Precommit Ci Quality (227)](precommit-ci-quality.md)
+[Profiler (64)](profiler.md) · [Project Scaffolding (102)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (11)](sanitizer.md)
+[Security Sast (284)](security-sast.md) · [Serialization (320)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (396)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (475)](testing-framework.md) · [Tutorial Book Styleguide (51)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1291)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (381)](visualization-gui.md) · [Web Framework (329)](web-framework.md)
 
 ## C++23
 
@@ -33,6 +33,24 @@ Records: `11`
 | Clang LibTooling | unknown | not_checked | [open](../records/c-23-clang-libtooling-92e88670.md) |
 | clang-query | unknown | not_checked | [open](../records/c-23-clang-query-04a7b235.md) |
 | clang-rename | unknown | not_checked | [open](../records/c-23-clang-rename-82c94f22.md) |
+
+## Julia
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| AnalyticalStructureFactors | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-analyticalstructurefactors-9771efc9.md) |
+
+## Rust
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| aws-smithy-types | 1.6.2 | 2026-08-12T14:56:32.403988Z | [open](../records/rust-aws-smithy-types-0b48826d.md) |
+| cranelift-codegen | 0.135.1 | 2026-08-24T19:58:03.457027Z | [open](../records/rust-cranelift-codegen-302a3878.md) |
+| cranelift-codegen-meta | 0.135.1 | 2026-08-24T19:57:57.109443Z | [open](../records/rust-cranelift-codegen-meta-d42c17e1.md) |
+| cranelift-codegen-shared | 0.135.1 | 2026-08-24T19:57:54.241620Z | [open](../records/rust-cranelift-codegen-shared-08f5a977.md) |
+| napi-derive-backend | 6.1.2 | 2026-08-10T01:25:52.394338Z | [open](../records/rust-napi-derive-backend-b5113b72.md) |
+| phf_codegen | 0.14.0 | 2026-06-21T00:38:01.280165Z | [open](../records/rust-phf-codegen-4db9e5a5.md) |
+| string_cache_codegen | 0.11.1 | 2026-08-25T07:38:21.304440Z | [open](../records/rust-string-cache-codegen-53d8cbc0.md) |
 
 ## Node.js/JavaScript
 
@@ -54,6 +72,20 @@ Records: `11`
 | AsyncAPI Generator | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/apis-asyncapi-generator-2f56331c.md) |
 | OpenAPI Generator | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/apis-openapi-generator-ee0a851a.md) |
 | Swagger Codegen | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/apis-swagger-codegen-dbfc02b2.md) |
+
+## Pattern language
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| RefactoringGuru/design-patterns-java | partial | 2026-04-14T17:37:09Z | [open](../records/pattern-language-refactoringguru-design-patterns-java-1d4f4da3.md) |
+| RefactoringGuru/design-patterns-php | partial | 2026-08-08T06:31:32Z | [open](../records/pattern-language-refactoringguru-design-patterns-php-ff83cf85.md) |
+| RefactoringGuru/design-patterns-python | partial | 2025-06-24T14:07:23Z | [open](../records/pattern-language-refactoringguru-design-patterns-python-1b5ed9b2.md) |
+
+## SAPJava
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| com.sap.cds:cds4j-codegen | 3.10.1 | 2025-05-16T09:42:57+00:00 | [open](../records/sapjava-com-sap-cds-cds4j-codegen-dc061d91.md) |
 
 ## Repository Workplaces
 
