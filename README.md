@@ -45,7 +45,7 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 | Fetch errors recorded | 454 |
 | Target identity count | 24000 |
 
-## Language Scope
+## Languages
 
 - C99
 - C23
@@ -68,6 +68,16 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 - Basilisk
 - "aim's"
 - nix
+- Assembly
+- PHP
+- Swift
+- SAPJava
+- Cocoa
+- WebAssembly
+- Pattern language
+
+## System Categories
+
 - Doctrines
 - APIs
 - Transmission Protocols
@@ -98,13 +108,6 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 - Magazines
 - Hubs
 - Braces
-- Assembly
-- Pattern language
-- PHP
-- WebAssembly
-- SAPJava
-- Swift
-- Cocoa
 - Databases
 - Repository Workplaces
 
