@@ -1,6 +1,6 @@
 # Filesystem Os
 
-Records: `1093`
+Records: `1124`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `1093`
 ## Category Index
 
 [Api Abi Checker (176)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (120)](async-runtime.md)
-[Benchmarking (104)](benchmarking.md) · [Build System (774)](build-system.md) · [Cli (485)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (81)](community-reference.md) · [Compiler (155)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Benchmarking (106)](benchmarking.md) · [Build System (780)](build-system.md) · [Cli (488)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (81)](community-reference.md) · [Compiler (157)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (43)](compression.md)
 [Concurrency Parallelism (70)](concurrency-parallelism.md) · [Configuration (94)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (679)](database-datastore.md) · [Datetime (144)](datetime.md)
+[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (679)](database-datastore.md) · [Datetime (147)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (79)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (44)](embedded-hardware.md) · [Ffi Bindings (372)](ffi-bindings.md) · **[Filesystem Os (1093)](filesystem-os.md)** · [Formatter (528)](formatter.md)
-[Framework (44)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (135)](game-engine-game-dev.md) · [Ide Editor Integration (1074)](ide-editor-integration.md)
-[Image Audio Dsp (217)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (222)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1211)](language-specification.md) · [Library (4661)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (317)](logging-observability.md) · [Machine Learning (546)](machine-learning.md)
-[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (885)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (246)](package-manager.md) · [Parser Lexer Ast (878)](parser-lexer-ast.md) · [Precommit Ci Quality (252)](precommit-ci-quality.md)
+[Embedded Hardware (46)](embedded-hardware.md) · [Ffi Bindings (375)](ffi-bindings.md) · **[Filesystem Os (1124)](filesystem-os.md)** · [Formatter (529)](formatter.md)
+[Framework (45)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (138)](game-engine-game-dev.md) · [Ide Editor Integration (1085)](ide-editor-integration.md)
+[Image Audio Dsp (262)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1216)](language-specification.md) · [Library (4675)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (325)](logging-observability.md) · [Machine Learning (555)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (891)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (248)](package-manager.md) · [Parser Lexer Ast (885)](parser-lexer-ast.md) · [Precommit Ci Quality (253)](precommit-ci-quality.md)
 [Profiler (66)](profiler.md) · [Project Scaffolding (107)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (307)](security-sast.md) · [Serialization (362)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (406)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (486)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (282)](type-checker.md)
-[Undefined Behavior Analyzer (1336)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (392)](visualization-gui.md) · [Web Framework (375)](web-framework.md)
+[Security Sast (307)](security-sast.md) · [Serialization (362)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (413)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (487)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (282)](type-checker.md)
+[Undefined Behavior Analyzer (1344)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (399)](visualization-gui.md) · [Web Framework (377)](web-framework.md)
 
 ## C++23
 
@@ -556,7 +556,7 @@ Records: `1093`
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-08-30T15:02:19Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-01T18:21:43Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-01T19:12:47Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -742,11 +742,14 @@ Records: `1093`
 | AhmedAmrNabil/arena-rush | v1.0.1 | 2026-05-02T09:14:43Z | [open](../records/effects-ahmedamrnabil-arena-rush-d1327c86.md) |
 | aiyaapp/AiyaEffectsIOS | partial | 2021-02-02T01:20:00Z | [open](../records/effects-aiyaapp-aiyaeffectsios-74a3ed57.md) |
 | Alchemist0823/three.quarks | unknown | github_latest_release_missing | [open](../records/effects-alchemist0823-three-quarks-ef545dfc.md) |
+| AmplitudeAudio/sdk | partial | 2026-07-29T22:40:21Z | [open](../records/effects-amplitudeaudio-sdk-34ae5fe0.md) |
 | Ariakim-Taiyo/GeoFS-Shaders-Repository | unknown | github_latest_release_missing | [open](../records/effects-ariakim-taiyo-geofs-shaders-repository-e1d48b19.md) |
 | Arnklit/godot-paint-postprocessing | unknown | github_latest_release_missing | [open](../records/effects-arnklit-godot-paint-postprocessing-45e455ab.md) |
 | artyommihailovich/RealityKitPostProcessingLUT | unknown | github_latest_release_missing | [open](../records/effects-artyommihailovich-realitykitpostprocessinglut-94c47d97.md) |
+| asbott/jamgine | partial | 2024-04-27T18:15:49Z | [open](../records/effects-asbott-jamgine-6cdd35a8.md) |
 | bandaloo/merge-pass | unknown | github_latest_release_missing | [open](../records/effects-bandaloo-merge-pass-ebe955b1.md) |
 | BarneyWhiteman/p5.filterShader | v0.0.3 | 2023-08-03T04:05:24Z | [open](../records/effects-barneywhiteman-p5-filtershader-65752773.md) |
+| bartolsthoorn/NVDSP | partial | 2017-06-05T09:19:32Z | [open](../records/effects-bartolsthoorn-nvdsp-b9422f37.md) |
 | Bauxitedev/godot-motion-blur | partial | 2021-09-01T10:41:57Z | [open](../records/effects-bauxitedev-godot-motion-blur-444018fd.md) |
 | BlueSkyDefender/Depth3D | unknown | github_latest_release_missing | [open](../records/effects-blueskydefender-depth3d-f238a002.md) |
 | brogli/Kaleidoscope | unknown | github_latest_release_missing | [open](../records/effects-brogli-kaleidoscope-6214b128.md) |
@@ -761,6 +764,7 @@ Records: `1093`
 | daniel-ilett/shaders-gaussian-blur | unknown | github_latest_release_missing | [open](../records/effects-daniel-ilett-shaders-gaussian-blur-e9652c4a.md) |
 | DaveFace/UnrealRetroShaders | unknown | github_latest_release_missing | [open](../records/effects-daveface-unrealretroshaders-dbbafbb9.md) |
 | DavidPeicho/3ffects | unknown | github_latest_release_missing | [open](../records/effects-davidpeicho-3ffects-3d035698.md) |
+| ddiakopoulos/MoogLadders | partial | 2026-06-13T18:35:36Z | [open](../records/effects-ddiakopoulos-moogladders-4ccf2205.md) |
 | devkcud/VesperaFX | unknown | github_latest_release_missing | [open](../records/effects-devkcud-vesperafx-4930c1a3.md) |
 | DGerry83/CinematicShaders | 0.3.10 | 2026-08-31T00:52:26Z | [open](../records/effects-dgerry83-cinematicshaders-5f79f2ba.md) |
 | Dzyzor/godot-selective-post-processing-shader-demo | unknown | github_latest_release_missing | [open](../records/effects-dzyzor-godot-selective-post-processing-shader-demo-2adca4e9.md) |
@@ -770,11 +774,15 @@ Records: `1093`
 | ep1h/gta-sa-postfx | v1.0.0 | 2026-03-22T01:43:26Z | [open](../records/effects-ep1h-gta-sa-postfx-459bbfc3.md) |
 | Estradel/URP-Simple-Per-Object-Motion-Blur | partial | 2024-02-11T22:28:23Z | [open](../records/effects-estradel-urp-simple-per-object-motion-blur-054d0007.md) |
 | Fabric-Project/Fabric | partial | 2026-08-31T23:45:07Z | [open](../records/effects-fabric-project-fabric-9b837163.md) |
+| fedden/RenderMan | partial | 2021-12-02T21:11:26Z | [open](../records/effects-fedden-renderman-c333ed0b.md) |
 | florolf/fluxus-pp | unknown | github_latest_release_missing | [open](../records/effects-florolf-fluxus-pp-90640899.md) |
 | GarrettGunnell/Inktober-Ink-Shader | unknown | github_latest_release_missing | [open](../records/effects-garrettgunnell-inktober-ink-shader-9c674dfd.md) |
 | gdquest-demos/godot-4-VFX-assets | partial | 2026-05-16T07:28:05Z | [open](../records/effects-gdquest-demos-godot-4-vfx-assets-519bf311.md) |
+| gnuradio/gnuradio | partial | 2026-08-27T23:02:01Z | [open](../records/effects-gnuradio-gnuradio-792f9652.md) |
 | grizzlypeak3d/DJV | partial | 2026-09-01T02:45:37Z | [open](../records/effects-grizzlypeak3d-djv-a31a9ac6.md) |
+| HEnquist/camilladsp | partial | 2026-09-01T15:08:43Z | [open](../records/effects-henquist-camilladsp-d941192e.md) |
 | hexianWeb/lego-stylized-nature | partial | 2026-07-08T07:37:58Z | [open](../records/effects-hexianweb-lego-stylized-nature-cb083959.md) |
+| hifiberry/hifiberry-os | partial | 2026-09-01T19:18:13Z | [open](../records/effects-hifiberry-hifiberry-os-23434356.md) |
 | hmans/composer-suite | partial | 2026-02-27T15:45:58Z | [open](../records/effects-hmans-composer-suite-79097285.md) |
 | hughsk/voxel-colorist | unknown | github_latest_release_missing | [open](../records/effects-hughsk-voxel-colorist-4f0cd027.md) |
 | iBicha/ImageEffectGraph | unknown | github_latest_release_missing | [open](../records/effects-ibicha-imageeffectgraph-726f4f7e.md) |
@@ -782,6 +790,8 @@ Records: `1093`
 | ilialek/Pixel-Shader | unknown | github_latest_release_missing | [open](../records/effects-ilialek-pixel-shader-ab4083de.md) |
 | IndieMiao/Z-PostProcessing-HDRP | unknown | github_latest_release_missing | [open](../records/effects-indiemiao-z-postprocessing-hdrp-c2893a65.md) |
 | ItsTanPI/2DURP-GodRays | v1.0 | 2024-11-01T13:44:58Z | [open](../records/effects-itstanpi-2durp-godrays-b2feb30b.md) |
+| jagumiel/Guitar-Pedal-Effects-on-FPGA | partial | 2026-07-22T19:55:10Z | [open](../records/effects-jagumiel-guitar-pedal-effects-on-fpga-b6ef3a17.md) |
+| jatinchowdhury18/CrossroadsEffects | partial | 2020-04-08T22:47:29Z | [open](../records/effects-jatinchowdhury18-crossroadseffects-6d06792d.md) |
 | JNNGL/vanilla-shaders | partial | 2025-05-14T10:16:59Z | [open](../records/effects-jnngl-vanilla-shaders-cc2a49e8.md) |
 | JNNGL/VanillaDI | partial | 2024-07-29T14:05:45Z | [open](../records/effects-jnngl-vanilladi-e65a97e6.md) |
 | JoachimLaviolette/out-of-the-shadows | unknown | github_latest_release_missing | [open](../records/effects-joachimlaviolette-out-of-the-shadows-3ec6c947.md) |
@@ -790,8 +800,10 @@ Records: `1093`
 | Josephy5/PostProcessing-URP | Release | 2025-10-01T01:47:51Z | [open](../records/effects-josephy5-postprocessing-urp-a285173f.md) |
 | JoshRBogart/unreal_tools | partial | 2024-02-16T01:54:20Z | [open](../records/effects-joshrbogart-unreal-tools-2e3989c3.md) |
 | jpvantassel/swprepost | partial | 2024-04-29T14:51:09Z | [open](../records/effects-jpvantassel-swprepost-547d668a.md) |
+| juandagilc/Audio-Effects | partial | 2020-10-16T22:00:18Z | [open](../records/effects-juandagilc-audio-effects-a80303f1.md) |
 | Juanrod99/Godot-PS1-Shader-Mixer | unknown | github_latest_release_missing | [open](../records/effects-juanrod99-godot-ps1-shader-mixer-c5659293.md) |
 | keijiro/KinoMotion | partial | 2017-09-22T09:59:03Z | [open](../records/effects-keijiro-kinomotion-5b4e3195.md) |
+| kevinraymond/fosfora | partial | 2026-08-25T18:06:30Z | [open](../records/effects-kevinraymond-fosfora-abca78d3.md) |
 | KonradIT/gopro-linux | partial | 2024-08-11T16:30:35Z | [open](../records/effects-konradit-gopro-linux-8d431adf.md) |
 | KorinDev/Godot-Post-Process-Plugin | v0.1.1 | 2025-04-02T22:23:00Z | [open](../records/effects-korindev-godot-post-process-plugin-7b4fccc0.md) |
 | kylebueche/compositor | unknown | github_latest_release_missing | [open](../records/effects-kylebueche-compositor-53bcb2a4.md) |
@@ -799,6 +811,9 @@ Records: `1093`
 | leonaaraujo/unity-phosphor-monitor-shader | unknown | github_latest_release_missing | [open](../records/effects-leonaaraujo-unity-phosphor-monitor-shader-00361333.md) |
 | LordAlbior/UE4-Watercolor | unknown | github_latest_release_missing | [open](../records/effects-lordalbior-ue4-watercolor-20e0b210.md) |
 | Malidos/Stylized-Water-Shader | unknown | github_latest_release_missing | [open](../records/effects-malidos-stylized-water-shader-b701423a.md) |
+| martinber/noaa-apt | partial | 2024-02-10T15:41:50Z | [open](../records/effects-martinber-noaa-apt-cd098cc9.md) |
+| medusalix/MiniVST | partial | 2019-03-06T17:18:51Z | [open](../records/effects-medusalix-minivst-c855328d.md) |
+| mimium-org/mimium | partial | 2024-12-22T10:14:15Z | [open](../records/effects-mimium-org-mimium-ddf4acdd.md) |
 | MirzaBeig/Anime-Speed-Lines | partial | 2025-01-18T17:23:00Z | [open](../records/effects-mirzabeig-anime-speed-lines-363001a7.md) |
 | MirzaBeig/Post-Processing-Wireframe-Outlines | partial | 2023-06-06T00:14:55Z | [open](../records/effects-mirzabeig-post-processing-wireframe-outlines-462e6ab3.md) |
 | Mohammad9760/PostProcessing_Cookbook | unknown | github_latest_release_missing | [open](../records/effects-mohammad9760-postprocessing-cookbook-7ab73eb7.md) |
@@ -816,12 +831,18 @@ Records: `1093`
 | nvpro-samples/vk_toon_shader | unknown | github_latest_release_missing | [open](../records/effects-nvpro-samples-vk-toon-shader-7c3ffe89.md) |
 | OctoCrane/Re-Shade-Effects | unknown | github_latest_release_missing | [open](../records/effects-octocrane-re-shade-effects-d88e30f6.md) |
 | OmarShehata/webgl-outlines | unknown | github_latest_release_missing | [open](../records/effects-omarshehata-webgl-outlines-91f626e3.md) |
+| open-atmos/PyPartMC | partial | 2026-09-01T18:08:39Z | [open](../records/effects-open-atmos-pypartmc-5dde2ebe.md) |
+| open-atmos/PySDM | partial | 2026-09-01T11:28:40Z | [open](../records/effects-open-atmos-pysdm-9411c0d3.md) |
 | piellardj/post-treatment-gpu | unknown | github_latest_release_missing | [open](../records/effects-piellardj-post-treatment-gpu-28d6f1e8.md) |
 | pmndrs/postprocessing | partial | 2026-08-30T21:33:42Z | [open](../records/effects-pmndrs-postprocessing-6cffe31f.md) |
+| PossiblyAxolotl/pdParticles | partial | 2025-08-13T22:09:34Z | [open](../records/effects-possiblyaxolotl-pdparticles-1874c068.md) |
 | protyposis/Spectaculum | partial | 2024-02-21T09:28:30Z | [open](../records/effects-protyposis-spectaculum-fcac9d0d.md) |
 | QianMo/X-PostProcessing-Library | partial | 2023-07-14T17:42:11Z | [open](../records/effects-qianmo-x-postprocessing-library-3834f7d5.md) |
+| radoslawregula/reverb-algorithms | partial | 2020-02-09T11:12:27Z | [open](../records/effects-radoslawregula-reverb-algorithms-0f4a1d2f.md) |
 | ralgar/vkShade | partial | 2026-08-31T22:46:58Z | [open](../records/effects-ralgar-vkshade-027f2833.md) |
+| rockbite/talos | partial | 2026-08-18T11:17:42Z | [open](../records/effects-rockbite-talos-07105463.md) |
 | ruofeidu/MyShadertoy | unknown | github_latest_release_missing | [open](../records/effects-ruofeidu-myshadertoy-a20635d7.md) |
+| RustAudio/vst-rs | partial | 2023-06-10T11:48:20Z | [open](../records/effects-rustaudio-vst-rs-6e2ac827.md) |
 | SahilK-027/Crystal-Bird | partial | 2026-01-10T09:47:01Z | [open](../records/effects-sahilk-027-crystal-bird-c1041e89.md) |
 | Samuwhale/UE5-Painterly-Shader | unknown | github_latest_release_missing | [open](../records/effects-samuwhale-ue5-painterly-shader-0ab36e4d.md) |
 | samwhitford/threejs-ordered-dithering-effect | unknown | github_latest_release_missing | [open](../records/effects-samwhitford-threejs-ordered-dithering-effect-b4cc4740.md) |
@@ -836,6 +857,7 @@ Records: `1093`
 | TxN/UnityURP_Kuwahara | unknown | github_latest_release_missing | [open](../records/effects-txn-unityurp-kuwahara-4405b91b.md) |
 | Valax321/PostProcessEffects | 1.1.0 | 2020-08-19T00:37:28Z | [open](../records/effects-valax321-postprocesseffects-41505f34.md) |
 | Velorexe/UnityHDRP-Post-Processing-Hatching-Shader | unknown | github_latest_release_missing | [open](../records/effects-velorexe-unityhdrp-post-processing-hatching-shader-c8818a29.md) |
+| vincenzo-afk/chaos-vpn | partial | 2026-08-22T01:48:06Z | [open](../records/effects-vincenzo-afk-chaos-vpn-bcae43ad.md) |
 | waitforout/UNITY_PostProcessingShader | unknown | github_latest_release_missing | [open](../records/effects-waitforout-unity-postprocessingshader-e7cc52dc.md) |
 | wake-bikila-dev/Rose_flower | unknown | github_latest_release_missing | [open](../records/effects-wake-bikila-dev-rose-flower-5c6c7075.md) |
 | wizgrav/aframe-effects | partial | 2020-08-23T23:36:32Z | [open](../records/effects-wizgrav-aframe-effects-51b6f98f.md) |
@@ -856,7 +878,7 @@ Records: `1093`
 | fedden/RenderMan | partial | 2021-12-02T21:11:26Z | [open](../records/audio-fedden-renderman-b1df24f8.md) |
 | gnuradio/gnuradio | partial | 2026-08-27T23:02:01Z | [open](../records/audio-gnuradio-gnuradio-f6f01d2f.md) |
 | HEnquist/camilladsp | partial | 2026-09-01T15:08:43Z | [open](../records/audio-henquist-camilladsp-382264e4.md) |
-| hifiberry/hifiberry-os | partial | 2026-09-01T15:05:58Z | [open](../records/audio-hifiberry-hifiberry-os-5ddcb398.md) |
+| hifiberry/hifiberry-os | partial | 2026-09-01T19:18:13Z | [open](../records/audio-hifiberry-hifiberry-os-5ddcb398.md) |
 | jameshball/osci-render | v2.8.9.18 | 2026-04-19T21:32:42Z | [open](../records/audio-jameshball-osci-render-c76ba818.md) |
 | josephernest/SamplerBox | 2022-08-10-release | 2022-08-10T15:56:33Z | [open](../records/audio-josephernest-samplerbox-c23f8c2d.md) |
 | joshwcomeau/key-and-pad | unknown | github_latest_release_missing | [open](../records/audio-joshwcomeau-key-and-pad-da5bc43a.md) |
@@ -869,7 +891,7 @@ Records: `1093`
 | Rikorose/DeepFilterNet | partial | 2024-10-17T08:35:11Z | [open](../records/audio-rikorose-deepfilternet-659ef42c.md) |
 | rishikanthc/Scriberr | partial | 2026-06-01T03:07:49Z | [open](../records/audio-rishikanthc-scriberr-55b843d3.md) |
 | ronitsingh10/FineTune | partial | 2026-07-09T07:54:56Z | [open](../records/audio-ronitsingh10-finetune-05619c84.md) |
-| RustAudio/cpal | partial | 2026-08-31T21:31:35Z | [open](../records/audio-rustaudio-cpal-f54a68cc.md) |
+| RustAudio/cpal | partial | 2026-09-01T18:21:26Z | [open](../records/audio-rustaudio-cpal-f54a68cc.md) |
 | RustAudio/vst-rs | partial | 2023-06-10T11:48:20Z | [open](../records/audio-rustaudio-vst-rs-881f699b.md) |
 | santi-pdp/pase | unknown | github_latest_release_missing | [open](../records/audio-santi-pdp-pase-8a411669.md) |
 | SforAiDl/Neural-Voice-Cloning-With-Few-Samples | unknown | github_latest_release_missing | [open](../records/audio-sforaidl-neural-voice-cloning-with-few-samples-bfc3f554.md) |
@@ -904,7 +926,7 @@ Records: `1093`
 | Neko3000/Monotone | partial | 2022-09-25T08:34:38Z | [open](../records/photography-neko3000-monotone-6bff49ae.md) |
 | open-product-data/digital-cameras | unknown | github_search_does_not_include_release_date | [open](../records/photography-open-product-data-digital-cameras-6d723530.md) |
 | photoprism/photoprism | partial | 2026-09-01T13:36:50Z | [open](../records/photography-photoprism-photoprism-49783c79.md) |
-| PicPeak/picpeak | partial | 2026-09-01T07:34:58Z | [open](../records/photography-picpeak-picpeak-d6957174.md) |
+| PicPeak/picpeak | partial | 2026-09-01T17:22:36Z | [open](../records/photography-picpeak-picpeak-d6957174.md) |
 | pop-os/wallpapers | partial | 2025-06-24T16:00:43Z | [open](../records/photography-pop-os-wallpapers-b9bd093b.md) |
 | rampatra/photography | partial | 2025-10-28T15:29:47Z | [open](../records/photography-rampatra-photography-69cbb5ec.md) |
 | RawTherapee/RawTherapee | partial | 2026-08-28T11:33:45Z | [open](../records/photography-rawtherapee-rawtherapee-846fa44c.md) |
@@ -913,7 +935,7 @@ Records: `1093`
 | spike0en/awesome_nothing | partial | 2026-03-22T13:34:45Z | [open](../records/photography-spike0en-awesome-nothing-252f0bbc.md) |
 | waschinski/photo-stream | partial | 2026-06-23T20:05:48Z | [open](../records/photography-waschinski-photo-stream-ff2deddb.md) |
 | Yummypets/YPImagePicker | partial | 2026-07-28T15:57:49Z | [open](../records/photography-yummypets-ypimagepicker-25854b52.md) |
-| zidage/AlcedoStudio | partial | 2026-09-01T12:50:12Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
+| zidage/AlcedoStudio | partial | 2026-09-01T18:32:17Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
 
 ## Microscopy
 
@@ -926,18 +948,19 @@ Records: `1093`
 | AdaptiveParticles/LibAPR | partial | 2026-01-20T12:27:29Z | [open](../records/microscopy-adaptiveparticles-libapr-60bc20e8.md) |
 | aelefebv/nellie | partial | 2026-05-15T01:01:34Z | [open](../records/microscopy-aelefebv-nellie-6bcd4a0f.md) |
 | AllenCellModeling/aicsimageio | partial | 2025-12-01T19:17:09Z | [open](../records/microscopy-allencellmodeling-aicsimageio-bc72f7e6.md) |
+| amirhossein-kz/HiFormer | partial | 2024-03-22T00:28:20Z | [open](../records/microscopy-amirhossein-kz-hiformer-7958e1b3.md) |
 | ariel-waisman/LabelsToROIs | partial | 2021-09-11T14:17:20Z | [open](../records/microscopy-ariel-waisman-labelstorois-70803f22.md) |
 | axondeepseg/axondeepseg | partial | 2026-08-31T13:58:39Z | [open](../records/microscopy-axondeepseg-axondeepseg-0c2875c8.md) |
 | bioio-devs/bioio | partial | 2026-08-23T00:03:14Z | [open](../records/microscopy-bioio-devs-bioio-ca180c94.md) |
 | Biomedical-Imaging-Group/DeconvolutionLab2 | partial | 2019-03-09T16:40:03Z | [open](../records/microscopy-biomedical-imaging-group-deconvolutionlab2-5bd46987.md) |
 | brainglobe/brainglobe-atlasapi | partial | 2026-08-31T05:10:41Z | [open](../records/microscopy-brainglobe-brainglobe-atlasapi-1ee7f7d0.md) |
-| brainglobe/brainreg | partial | 2026-08-28T10:06:31Z | [open](../records/microscopy-brainglobe-brainreg-71a0b5b3.md) |
+| brainglobe/brainreg | partial | 2026-09-01T17:02:12Z | [open](../records/microscopy-brainglobe-brainreg-71a0b5b3.md) |
 | brainglobe/cellfinder | partial | 2026-08-22T06:31:08Z | [open](../records/microscopy-brainglobe-cellfinder-159009dc.md) |
 | chiahao3/ptyrad | partial | 2026-08-07T02:53:15Z | [open](../records/microscopy-chiahao3-ptyrad-cbe12e50.md) |
 | computational-cell-analytics/micro-sam | partial | 2026-09-01T14:50:01Z | [open](../records/microscopy-computational-cell-analytics-micro-sam-82fdbfce.md) |
 | computational-imaging/ThreeDeconv.jl | partial | 2022-02-09T16:34:42Z | [open](../records/microscopy-computational-imaging-threedeconv-jl-df595b65.md) |
 | cytomining/cytominer | partial | 2024-05-08T14:11:57Z | [open](../records/microscopy-cytomining-cytominer-c603fed1.md) |
-| cytomining/pycytominer | partial | 2026-08-27T22:18:18Z | [open](../records/microscopy-cytomining-pycytominer-f61cb1dc.md) |
+| cytomining/pycytominer | partial | 2026-09-01T16:18:20Z | [open](../records/microscopy-cytomining-pycytominer-f61cb1dc.md) |
 | dancsalo/TensorFlow-MIL | partial | 2020-08-24T19:46:19Z | [open](../records/microscopy-dancsalo-tensorflow-mil-823d26d9.md) |
 | david-hoffman/pyotf | partial | 2024-04-08T20:58:26Z | [open](../records/microscopy-david-hoffman-pyotf-f47c74b0.md) |
 | deepinv/deepinv | partial | 2026-09-01T12:12:16Z | [open](../records/microscopy-deepinv-deepinv-59141df0.md) |
@@ -946,29 +969,36 @@ Records: `1093`
 | google-research/sofima | partial | 2026-08-06T15:10:50Z | [open](../records/microscopy-google-research-sofima-72568ecb.md) |
 | gtatters/ThermImageJ | partial | 2026-06-27T21:06:25Z | [open](../records/microscopy-gtatters-thermimagej-e96d3524.md) |
 | GuillaumeMougeot/biom3d | partial | 2026-03-30T07:54:44Z | [open](../records/microscopy-guillaumemougeot-biom3d-7ae5f94d.md) |
+| Gurdon-Super-Res-Lab/Microscope-Control | partial | 2026-01-20T09:52:18Z | [open](../records/microscopy-gurdon-super-res-lab-microscope-control-fd0301f5.md) |
 | hahnec/rf-ulm | partial | 2024-09-05T08:57:56Z | [open](../records/microscopy-hahnec-rf-ulm-3db20243.md) |
-| hexane360/phaser | partial | 2026-08-31T23:15:43Z | [open](../records/microscopy-hexane360-phaser-69753666.md) |
+| hexane360/phaser | partial | 2026-09-01T16:21:38Z | [open](../records/microscopy-hexane360-phaser-69753666.md) |
 | hpgem/nanomesh | partial | 2024-06-17T12:45:05Z | [open](../records/microscopy-hpgem-nanomesh-5b10b2c1.md) |
 | HuanglabPurdue/NCS | partial | 2020-01-15T20:22:29Z | [open](../records/microscopy-huanglabpurdue-ncs-92a2d50f.md) |
 | ImSwitch/ImSwitch | partial | 2026-07-10T15:00:31Z | [open](../records/microscopy-imswitch-imswitch-c78f5160.md) |
 | jungmannlab/picasso | partial | 2026-08-31T13:05:53Z | [open](../records/microscopy-jungmannlab-picasso-7d2c2a00.md) |
+| koendv/xy-stage | partial | 2023-08-06T18:28:56Z | [open](../records/microscopy-koendv-xy-stage-a5a60592.md) |
 | LaboratoryOpticsBiosciences/FLUTE | partial | 2025-11-17T17:23:27Z | [open](../records/microscopy-laboratoryopticsbiosciences-flute-6c0dfb32.md) |
+| Lee-Gihun/MEDIAR | partial | 2024-04-01T13:35:07Z | [open](../records/microscopy-lee-gihun-mediar-98b60229.md) |
 | MatthewFilipovich/torchoptics | partial | 2026-05-13T16:10:18Z | [open](../records/microscopy-matthewfilipovich-torchoptics-d30776e7.md) |
 | MontpellierRessourcesImagerie/imagej_macros_and_scripts | partial | 2026-07-23T11:02:58Z | [open](../records/microscopy-montpellierressourcesimagerie-imagej-macros-and-scripts-78da8ed6.md) |
+| MouseLand/cellpose | partial | 2026-06-14T13:21:03Z | [open](../records/microscopy-mouseland-cellpose-503d6a0b.md) |
 | mviereck/microscopy-tools | partial | 2024-11-17T18:25:54Z | [open](../records/microscopy-mviereck-microscopy-tools-e9130466.md) |
 | MWod/ANHIR_MW | partial | 2020-12-14T19:29:20Z | [open](../records/microscopy-mwod-anhir-mw-8e055d83.md) |
 | NICALab/SUPPORT | partial | 2025-08-11T14:23:33Z | [open](../records/microscopy-nicalab-support-2b7c66f2.md) |
 | okunator/cellseg_models.pytorch | partial | 2026-07-15T20:00:36Z | [open](../records/microscopy-okunator-cellseg-models-pytorch-7f942e9c.md) |
 | Open-Science-Tools/nd2reader | partial | 2025-01-15T10:15:32Z | [open](../records/microscopy-open-science-tools-nd2reader-9f3adb23.md) |
 | openMLA/Medjed | partial | 2025-07-29T17:50:48Z | [open](../records/microscopy-openmla-medjed-0e099c83.md) |
+| openUC2/UC2-GIT | partial | 2026-08-09T17:25:59Z | [open](../records/microscopy-openuc2-uc2-git-beb1ac35.md) |
 | pvjosue/WaveBlocks | partial | 2022-11-22T17:07:44Z | [open](../records/microscopy-pvjosue-waveblocks-851e08dd.md) |
 | pycroscopy/atomai | partial | 2025-06-24T07:57:00Z | [open](../records/microscopy-pycroscopy-atomai-0ba7ef19.md) |
 | pymmcore-plus/napari-micromanager | partial | 2026-08-03T16:26:33Z | [open](../records/microscopy-pymmcore-plus-napari-micromanager-ee37e322.md) |
 | pymmcore-plus/pymmcore-plus | partial | 2026-08-03T16:28:29Z | [open](../records/microscopy-pymmcore-plus-pymmcore-plus-c09b4755.md) |
 | pymontecarlo/pymontecarlo | partial | 2022-01-16T17:02:44Z | [open](../records/microscopy-pymontecarlo-pymontecarlo-376c3fcd.md) |
 | PytorchConnectomics/pytorch_connectomics | partial | 2026-08-28T21:32:03Z | [open](../records/microscopy-pytorchconnectomics-pytorch-connectomics-6aa6d39f.md) |
+| raacampbell/openstage | partial | 2021-04-17T17:24:46Z | [open](../records/microscopy-raacampbell-openstage-800e84a5.md) |
 | rapidsai/cucim | partial | 2026-09-01T14:47:34Z | [open](../records/microscopy-rapidsai-cucim-6fd9f972.md) |
 | royerlab/cytoself | partial | 2025-08-05T18:46:40Z | [open](../records/microscopy-royerlab-cytoself-b2dff824.md) |
+| rwb27/openflexure_microscope | partial | 2019-04-30T15:12:38Z | [open](../records/microscopy-rwb27-openflexure-microscope-9f4f36b7.md) |
 | scalableminds/webknossos | partial | 2026-09-01T14:01:30Z | [open](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) |
 | seung-lab/cloud-volume | partial | 2026-08-13T01:17:15Z | [open](../records/microscopy-seung-lab-cloud-volume-388cc8e9.md) |
 | tferr/Scripts | partial | 2022-06-03T11:23:48Z | [open](../records/microscopy-tferr-scripts-25277503.md) |
@@ -977,6 +1007,7 @@ Records: `1093`
 | TIO-IKIM/CellViT | partial | 2025-07-23T06:10:25Z | [open](../records/microscopy-tio-ikim-cellvit-0ce79676.md) |
 | tlambert03/nd2 | partial | 2026-08-26T13:00:45Z | [open](../records/microscopy-tlambert03-nd2-bc5f1f25.md) |
 | yijiang1/fold_slice | partial | 2024-11-23T07:05:27Z | [open](../records/microscopy-yijiang1-fold-slice-9121d5c8.md) |
+| zabertech/zaber-examples | partial | 2026-08-25T17:26:24Z | [open](../records/microscopy-zabertech-zaber-examples-f3a62035.md) |
 | zeiss-microscopy/libCZI | partial | 2022-09-30T17:09:39Z | [open](../records/microscopy-zeiss-microscopy-libczi-168f37f0.md) |
 | zeiss-microscopy/OAD | partial | 2026-07-10T12:07:49Z | [open](../records/microscopy-zeiss-microscopy-oad-882477e7.md) |
 
@@ -984,8 +1015,8 @@ Records: `1093`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| dEskoG/rDUINOScope | v2.3.1 | 2017-09-09T08:25:13Z | [open](../records/telescopes-deskog-rduinoscope-0542432f.md) |
-| Julien-R44/adoscope | unknown | github_latest_release_missing | [open](../records/telescopes-julien-r44-adoscope-0cdd9994.md) |
+| dEskoG/rDUINOScope | partial | 2020-06-23T12:05:59Z | [open](../records/telescopes-deskog-rduinoscope-0542432f.md) |
+| Julien-R44/adoscope | partial | 2022-04-23T07:37:13Z | [open](../records/telescopes-julien-r44-adoscope-0cdd9994.md) |
 | rcos/Telescope | partial | 2023-08-30T14:57:50Z | [open](../records/telescopes-rcos-telescope-e587062a.md) |
 | vlaate/DobsonianDSC | partial | 2021-09-19T16:28:57Z | [open](../records/telescopes-vlaate-dobsoniandsc-83afe2a8.md) |
 

@@ -1,6 +1,6 @@
 # Visualization Gui
 
-Records: `392`
+Records: `399`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `392`
 ## Category Index
 
 [Api Abi Checker (176)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (120)](async-runtime.md)
-[Benchmarking (104)](benchmarking.md) · [Build System (774)](build-system.md) · [Cli (485)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (81)](community-reference.md) · [Compiler (155)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Benchmarking (106)](benchmarking.md) · [Build System (780)](build-system.md) · [Cli (488)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (81)](community-reference.md) · [Compiler (157)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (43)](compression.md)
 [Concurrency Parallelism (70)](concurrency-parallelism.md) · [Configuration (94)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (679)](database-datastore.md) · [Datetime (144)](datetime.md)
+[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (679)](database-datastore.md) · [Datetime (147)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (79)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (44)](embedded-hardware.md) · [Ffi Bindings (372)](ffi-bindings.md) · [Filesystem Os (1093)](filesystem-os.md) · [Formatter (528)](formatter.md)
-[Framework (44)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (135)](game-engine-game-dev.md) · [Ide Editor Integration (1074)](ide-editor-integration.md)
-[Image Audio Dsp (217)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (222)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1211)](language-specification.md) · [Library (4661)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (317)](logging-observability.md) · [Machine Learning (546)](machine-learning.md)
-[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (885)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (246)](package-manager.md) · [Parser Lexer Ast (878)](parser-lexer-ast.md) · [Precommit Ci Quality (252)](precommit-ci-quality.md)
+[Embedded Hardware (46)](embedded-hardware.md) · [Ffi Bindings (375)](ffi-bindings.md) · [Filesystem Os (1124)](filesystem-os.md) · [Formatter (529)](formatter.md)
+[Framework (45)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (138)](game-engine-game-dev.md) · [Ide Editor Integration (1085)](ide-editor-integration.md)
+[Image Audio Dsp (262)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1216)](language-specification.md) · [Library (4675)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (325)](logging-observability.md) · [Machine Learning (555)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (891)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (248)](package-manager.md) · [Parser Lexer Ast (885)](parser-lexer-ast.md) · [Precommit Ci Quality (253)](precommit-ci-quality.md)
 [Profiler (66)](profiler.md) · [Project Scaffolding (107)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (307)](security-sast.md) · [Serialization (362)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (406)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (486)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (282)](type-checker.md)
-[Undefined Behavior Analyzer (1336)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · **[Visualization Gui (392)](visualization-gui.md)** · [Web Framework (375)](web-framework.md)
+[Security Sast (307)](security-sast.md) · [Serialization (362)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (413)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (487)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (282)](type-checker.md)
+[Undefined Behavior Analyzer (1344)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · **[Visualization Gui (399)](visualization-gui.md)** · [Web Framework (377)](web-framework.md)
 
 ## C++23
 
@@ -431,13 +431,20 @@ Records: `392`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| alienware377/RootlessViPER4Android | partial | 2026-08-31T21:39:11Z | [open](../records/effects-alienware377-rootlessviper4android-477a4505.md) |
 | Blender Compositor | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-blender-compositor-20ae76f1.md) |
 | Cinder | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-cinder-520874a6.md) |
+| EleonoreMizo/pedalevite | partial | 2023-09-01T21:13:56Z | [open](../records/effects-eleonoremizo-pedalevite-5e300b2d.md) |
+| guitarfreak/DirectX-11-Demo | partial | 2023-10-01T08:24:36Z | [open](../records/effects-guitarfreak-directx-11-demo-bdccdbd3.md) |
 | IRCSS/Compute-Shaders-Fluid-Dynamic- | partial | 2022-03-01T12:33:39Z | [open](../records/effects-ircss-compute-shaders-fluid-dynamic-589e5149.md) |
 | keijiro/GeoVfx | partial | 2024-09-09T07:54:56Z | [open](../records/effects-keijiro-geovfx-5be82e16.md) |
 | Natron | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-natron-37c82791.md) |
+| NumberOneBot/dsssp | partial | 2026-08-12T22:46:18Z | [open](../records/effects-numberonebot-dsssp-f459bfd0.md) |
 | PixiJS Filters | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-pixijs-filters-2c7b5506.md) |
+| pschatzmann/arduino-audio-tools | partial | 2026-09-01T16:32:42Z | [open](../records/effects-pschatzmann-arduino-audio-tools-8c3c4f05.md) |
+| rsadsb/adsb_deku | partial | 2026-01-04T16:18:33Z | [open](../records/effects-rsadsb-adsb-deku-ce700c3e.md) |
 | Shadertoy | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-shadertoy-7ba0fe72.md) |
+| sp-nitech/SPTK | partial | 2026-08-25T13:37:51Z | [open](../records/effects-sp-nitech-sptk-aa69deb0.md) |
 | three.js postprocessing | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-three-js-postprocessing-124968b5.md) |
 | WorldOfZero/UnityVisualizations | partial | 2023-12-03T18:13:06Z | [open](../records/effects-worldofzero-unityvisualizations-ed9cae03.md) |
 
@@ -450,7 +457,7 @@ Records: `392`
 | bbc/peaks.js | partial | 2025-11-08T03:09:27Z | [open](../records/audio-bbc-peaks-js-ecba90fa.md) |
 | DhrBaksteen/ArduinoOPL2 | v2.1.4 | 2025-01-19T12:23:27Z | [open](../records/audio-dhrbaksteen-arduinoopl2-f259ef2c.md) |
 | dwhinham/mt32-pi | v0.13.1 | 2023-03-18T20:32:51Z | [open](../records/audio-dwhinham-mt32-pi-7a87163b.md) |
-| pschatzmann/arduino-audio-tools | partial | 2026-09-01T07:08:34Z | [open](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) |
+| pschatzmann/arduino-audio-tools | partial | 2026-09-01T16:32:42Z | [open](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) |
 | rsadsb/adsb_deku | partial | 2026-01-04T16:18:33Z | [open](../records/audio-rsadsb-adsb-deku-8c9a3700.md) |
 | unchihugo/FluentFlyout | partial | 2026-09-01T14:44:29Z | [open](../records/audio-unchihugo-fluentflyout-e2e81b2d.md) |
 | zynthian/zynthian-ui | unknown | github_latest_release_missing | [open](../records/audio-zynthian-zynthian-ui-308e1a33.md) |
@@ -478,7 +485,7 @@ Records: `392`
 | --- | --- | --- | --- |
 | BodenmillerGroup/cytomapper | partial | 2026-08-25T10:34:33Z | [open](../records/microscopy-bodenmillergroup-cytomapper-a6aa55ab.md) |
 | DylanMuir/ReadImageJROI | partial | 2019-12-13T09:00:35Z | [open](../records/microscopy-dylanmuir-readimagejroi-cdcd6e99.md) |
-| hms-dbmi/viv | @hms-dbmi/viv@0.16.1 | 2024-03-13T03:15:38Z | [open](../records/microscopy-hms-dbmi-viv-ad3c5c92.md) |
+| hms-dbmi/viv | partial | 2026-09-01T08:19:28Z | [open](../records/microscopy-hms-dbmi-viv-ad3c5c92.md) |
 | napari | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/microscopy-napari-24961023.md) |
 | scenerygraphics/sciview | partial | 2026-07-24T08:43:53Z | [open](../records/microscopy-scenerygraphics-sciview-c324a0d7.md) |
 
@@ -486,9 +493,9 @@ Records: `392`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| juanmb/nextdriver | unknown | github_latest_release_missing | [open](../records/telescopes-juanmb-nextdriver-d1392e60.md) |
+| juanmb/nextdriver | partial | 2022-02-28T13:44:12Z | [open](../records/telescopes-juanmb-nextdriver-d1392e60.md) |
 | KStars | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/telescopes-kstars-8ac0884b.md) |
-| LouisDesdoigts/dLux | v0.15.1 | 2026-07-22T23:04:55Z | [open](../records/telescopes-louisdesdoigts-dlux-10106405.md) |
+| LouisDesdoigts/dLux | partial | 2026-08-25T19:43:39Z | [open](../records/telescopes-louisdesdoigts-dlux-10106405.md) |
 | SAOImage DS9 | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/telescopes-saoimage-ds9-75c04688.md) |
 | Stellarium | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/telescopes-stellarium-4df0b7db.md) |
 
