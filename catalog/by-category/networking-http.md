@@ -1,6 +1,6 @@
 # Networking Http
 
-Records: `698`
+Records: `700`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `698`
 ## Category Index
 
 [Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
-[Benchmarking (74)](benchmarking.md) · [Build System (590)](build-system.md) · [Cli (451)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (73)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (437)](database-datastore.md) · [Datetime (104)](datetime.md)
+[Benchmarking (75)](benchmarking.md) · [Build System (596)](build-system.md) · [Cli (453)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (37)](compression.md)
+[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (75)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (441)](database-datastore.md) · [Datetime (105)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
-[Embedded Hardware (39)](embedded-hardware.md) · [Ffi Bindings (324)](ffi-bindings.md) · [Filesystem Os (761)](filesystem-os.md) · [Formatter (442)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (30)](fuzzer.md) · [Game Engine Game Dev (104)](game-engine-game-dev.md) · [Ide Editor Integration (850)](ide-editor-integration.md)
-[Image Audio Dsp (184)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (161)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (837)](language-specification.md) · [Library (3388)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (334)](linter.md) · [Logging Observability (259)](logging-observability.md) · [Machine Learning (390)](machine-learning.md)
-[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · **[Networking Http (698)](networking-http.md)**
-[Other (14)](other.md) · [Package Manager (199)](package-manager.md) · [Parser Lexer Ast (598)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
-[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
-[Security Sast (270)](security-sast.md) · [Serialization (272)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (273)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (42)](tutorial-book-styleguide.md) · [Type Checker (264)](type-checker.md)
-[Undefined Behavior Analyzer (1135)](undefined-behavior-analyzer.md) · [Utility Library (81)](utility-library.md) · [Visualization Gui (280)](visualization-gui.md) · [Web Framework (304)](web-framework.md)
+[Embedded Hardware (40)](embedded-hardware.md) · [Ffi Bindings (327)](ffi-bindings.md) · [Filesystem Os (784)](filesystem-os.md) · [Formatter (450)](formatter.md)
+[Framework (38)](framework.md) · [Fuzzer (40)](fuzzer.md) · [Game Engine Game Dev (109)](game-engine-game-dev.md) · [Ide Editor Integration (860)](ide-editor-integration.md)
+[Image Audio Dsp (186)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (162)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (24)](language-server.md) · [Language Specification (843)](language-specification.md) · [Library (3399)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (336)](linter.md) · [Logging Observability (265)](logging-observability.md) · [Machine Learning (393)](machine-learning.md)
+[Math Numeric Scientific (71)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · **[Networking Http (700)](networking-http.md)**
+[Other (14)](other.md) · [Package Manager (206)](package-manager.md) · [Parser Lexer Ast (613)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
+[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (9)](sanitizer.md)
+[Security Sast (270)](security-sast.md) · [Serialization (282)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (297)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (43)](tutorial-book-styleguide.md) · [Type Checker (271)](type-checker.md)
+[Undefined Behavior Analyzer (1203)](undefined-behavior-analyzer.md) · [Utility Library (82)](utility-library.md) · [Visualization Gui (284)](visualization-gui.md) · [Web Framework (307)](web-framework.md)
 
 ## C99
 
@@ -718,12 +718,14 @@ Records: `698`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| deepVector/geospatial-machine-learning | unknown | github_search_does_not_include_release_date | [open](../records/maps-deepvector-geospatial-machine-learning-675b1fc0.md) |
 | gboeing/osmnx | unknown | github_latest_release_missing | [open](../records/maps-gboeing-osmnx-d9d8d942.md) |
 | hrbrmstr/rgeocodio | unknown | github_latest_release_missing | [open](../records/maps-hrbrmstr-rgeocodio-8a60ba8a.md) |
 | jeremiehuchet/nominatim-java-api | v3.4 | 2019-06-19T01:53:29Z | [open](../records/maps-jeremiehuchet-nominatim-java-api-b25ea78f.md) |
 | Kitura/Kitura | 3.0.0 | 2022-09-18T06:49:13Z | [open](../records/maps-kitura-kitura-292c4565.md) |
 | Nominatim | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/maps-nominatim-7f0fa10a.md) |
 | pelias/api | v7.9.0 | 2026-07-11T14:25:38Z | [open](../records/maps-pelias-api-6b9020ab.md) |
+| retroplasma/earth-reverse-engineering | unknown | github_search_does_not_include_release_date | [open](../records/maps-retroplasma-earth-reverse-engineering-2b76b3bc.md) |
 | symfony/routing | v8.1.6 | 2026-08-30T21:43:53Z | [open](../records/maps-symfony-routing-586aa24f.md) |
 | TanStack/router | release-2026-08-26-2336 | 2026-08-26T23:36:44Z | [open](../records/maps-tanstack-router-73e029ca.md) |
 | Valhalla | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/maps-valhalla-4a328d92.md) |
@@ -779,7 +781,7 @@ Records: `698`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| peterhpark/neuroclear | v1.0.0 | 2022-03-20T16:43:40Z | [open](../records/microscopy-peterhpark-neuroclear-7179bfb8.md) |
+| peterhpark/neuroclear | partial | 2025-03-21T12:36:07Z | [open](../records/microscopy-peterhpark-neuroclear-7179bfb8.md) |
 
 ## Telescopes
 
@@ -828,15 +830,15 @@ Records: `698`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ashvardanian/less_slow.cpp | v0.11.2 | 2026-07-27T01:01:02Z | [open](../records/assembly-ashvardanian-less-slow-cpp-50768d6c.md) |
-| minio/highwayhash | v1.0.4 | 2026-03-21T05:38:40Z | [open](../records/assembly-minio-highwayhash-5634a2cc.md) |
+| ashvardanian/less_slow.cpp | partial | 2026-07-27T01:01:01Z | [open](../records/assembly-ashvardanian-less-slow-cpp-50768d6c.md) |
+| minio/highwayhash | partial | 2026-03-21T05:38:40Z | [open](../records/assembly-minio-highwayhash-5634a2cc.md) |
 
 ## Pattern language
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| GoogleCloudPlatform/ml-design-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-googlecloudplatform-ml-design-patterns-b66775d5.md) |
-| mehmetozkaya/Design-Microservices-Architecture-with-Patterns-Principles | unknown | github_latest_release_missing | [open](../records/pattern-language-mehmetozkaya-design-microservices-architecture-with-patterns-principles-c92aed23.md) |
+| GoogleCloudPlatform/ml-design-patterns | partial | 2021-04-28T23:11:45Z | [open](../records/pattern-language-googlecloudplatform-ml-design-patterns-b66775d5.md) |
+| mehmetozkaya/Design-Microservices-Architecture-with-Patterns-Principles | partial | 2026-03-09T14:57:26Z | [open](../records/pattern-language-mehmetozkaya-design-microservices-architecture-with-patterns-principles-c92aed23.md) |
 
 ## PHP
 

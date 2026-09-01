@@ -1,6 +1,6 @@
 # Build System
 
-Records: `590`
+Records: `596`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `590`
 ## Category Index
 
 [Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
-[Benchmarking (74)](benchmarking.md) · **[Build System (590)](build-system.md)** · [Cli (451)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (73)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (437)](database-datastore.md) · [Datetime (104)](datetime.md)
+[Benchmarking (75)](benchmarking.md) · **[Build System (596)](build-system.md)** · [Cli (453)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (37)](compression.md)
+[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (75)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (441)](database-datastore.md) · [Datetime (105)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
-[Embedded Hardware (39)](embedded-hardware.md) · [Ffi Bindings (324)](ffi-bindings.md) · [Filesystem Os (761)](filesystem-os.md) · [Formatter (442)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (30)](fuzzer.md) · [Game Engine Game Dev (104)](game-engine-game-dev.md) · [Ide Editor Integration (850)](ide-editor-integration.md)
-[Image Audio Dsp (184)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (161)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (837)](language-specification.md) · [Library (3388)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (334)](linter.md) · [Logging Observability (259)](logging-observability.md) · [Machine Learning (390)](machine-learning.md)
-[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (698)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (199)](package-manager.md) · [Parser Lexer Ast (598)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
-[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
-[Security Sast (270)](security-sast.md) · [Serialization (272)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (273)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (42)](tutorial-book-styleguide.md) · [Type Checker (264)](type-checker.md)
-[Undefined Behavior Analyzer (1135)](undefined-behavior-analyzer.md) · [Utility Library (81)](utility-library.md) · [Visualization Gui (280)](visualization-gui.md) · [Web Framework (304)](web-framework.md)
+[Embedded Hardware (40)](embedded-hardware.md) · [Ffi Bindings (327)](ffi-bindings.md) · [Filesystem Os (784)](filesystem-os.md) · [Formatter (450)](formatter.md)
+[Framework (38)](framework.md) · [Fuzzer (40)](fuzzer.md) · [Game Engine Game Dev (109)](game-engine-game-dev.md) · [Ide Editor Integration (860)](ide-editor-integration.md)
+[Image Audio Dsp (186)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (162)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (24)](language-server.md) · [Language Specification (843)](language-specification.md) · [Library (3399)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (336)](linter.md) · [Logging Observability (265)](logging-observability.md) · [Machine Learning (393)](machine-learning.md)
+[Math Numeric Scientific (71)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (700)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (206)](package-manager.md) · [Parser Lexer Ast (613)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
+[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (9)](sanitizer.md)
+[Security Sast (270)](security-sast.md) · [Serialization (282)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (297)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (43)](tutorial-book-styleguide.md) · [Type Checker (271)](type-checker.md)
+[Undefined Behavior Analyzer (1203)](undefined-behavior-analyzer.md) · [Utility Library (82)](utility-library.md) · [Visualization Gui (284)](visualization-gui.md) · [Web Framework (307)](web-framework.md)
 
 ## C99
 
@@ -538,6 +538,7 @@ Records: `590`
 | --- | --- | --- | --- |
 | buf.build/gen/go/kand1ss-dev/knot-ops/grpc/go | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-buf-build-gen-go-kand1ss-dev-knot-ops-grpc-go-7f01c5da.md) |
 | buf.build/gen/go/kand1ss-dev/knot-ops/protocolbuffers/go | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-buf-build-gen-go-kand1ss-dev-knot-ops-protocolbuffers-go-de985f94.md) |
+| buf.build/gen/go/meshtastic/protobufs/protocolbuffers/go | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-buf-build-gen-go-meshtastic-protobufs-protocolbuffers-go-20d3edba.md) |
 | buf.build/gen/go/realm/event/protocolbuffers/go | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-buf-build-gen-go-realm-event-protocolbuffers-go-1a840da9.md) |
 | buf.build/gen/go/realm/fabric/protocolbuffers/go | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-buf-build-gen-go-realm-fabric-protocolbuffers-go-3a27b5c5.md) |
 | buf.build/gen/go/realm/pipeline/protocolbuffers/go | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-buf-build-gen-go-realm-pipeline-protocolbuffers-go-17394d05.md) |
@@ -553,13 +554,14 @@ Records: `590`
 | github.com/espressif/esp-rainmaker-neo | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-espressif-esp-rainmaker-neo-273f971d.md) |
 | github.com/espressif/esp32-arduino-lib-builder | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-espressif-esp32-arduino-lib-builder-2032e2a7.md) |
 | github.com/Gumyr/build123d | v0.3.0 | 2026-08-30T10:07:18.967525Z | [open](../records/go-github-com-gumyr-build123d-042e26d3.md) |
+| github.com/osbuild/image-builder | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-osbuild-image-builder-77f333e8.md) |
 | go.ytsaurus.tech/library/go/core/buildinfo | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-go-ytsaurus-tech-library-go-core-buildinfo-4bb9b494.md) |
 
 ## Starlark
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Bazel | 9.2.0 | 2026-07-13T20:39:01Z | [open](../records/starlark-bazel-189ae4a2.md) |
+| Bazel | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/starlark-bazel-189ae4a2.md) |
 | bazel-contrib/rules_cuda | v0.3.0 | 2026-02-17T00:03:28Z | [open](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) |
 | bazelbuild/bazel-skylib | 1.9.2 | 2026-07-17T18:38:51Z | [open](../records/starlark-bazelbuild-bazel-skylib-6abae8f4.md) |
 | dropbox/dbx_build_tools | unknown | github_latest_release_missing | [open](../records/starlark-dropbox-dbx-build-tools-f48dff7c.md) |
@@ -572,17 +574,20 @@ Records: `590`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| domlysz/BlenderGIS | unknown | github_search_does_not_include_release_date | [open](../records/maps-domlysz-blendergis-8c375370.md) |
 | emicklei/go-restful | v3.13.0 | 2025-08-15T06:31:22Z | [open](../records/maps-emicklei-go-restful-1944b345.md) |
+| noncomputable/AgentMaps | unknown | github_search_does_not_include_release_date | [open](../records/maps-noncomputable-agentmaps-d9a25ae5.md) |
 | openaddresses/openaddresses | unknown | github_latest_release_missing | [open](../records/maps-openaddresses-openaddresses-2339fe96.md) |
 | stablekernel/aqueduct | 3.2.0 | 2019-03-07T14:52:06Z | [open](../records/maps-stablekernel-aqueduct-1173e0fd.md) |
 | stefanocudini/leaflet-layerJSON | unknown | github_latest_release_missing | [open](../records/maps-stefanocudini-leaflet-layerjson-1c3bc2fa.md) |
+| xeokit/xeokit-sdk | unknown | github_search_does_not_include_release_date | [open](../records/maps-xeokit-xeokit-sdk-9e627e27.md) |
 
 ## Space Engines
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| jasonfyw/orbital-sim | v0.9.3 | 2020-07-14T20:30:20Z | [open](../records/space-engines-jasonfyw-orbital-sim-5f33353e.md) |
-| Kraken-Space-Program/Kraken-Space-Program | unknown | github_latest_release_missing | [open](../records/space-engines-kraken-space-program-kraken-space-program-f187d7c0.md) |
+| jasonfyw/orbital-sim | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-jasonfyw-orbital-sim-5f33353e.md) |
+| Kraken-Space-Program/Kraken-Space-Program | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-kraken-space-program-kraken-space-program-f187d7c0.md) |
 
 ## Space Shuttles
 
@@ -597,6 +602,7 @@ Records: `590`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | kleineluka/junelite | 3.0.0 | 2025-08-15T07:56:04Z | [open](../records/effects-kleineluka-junelite-95d9c2fb.md) |
+| Masudbro94/python-hacked-mobile-phone- | unknown | github_latest_release_missing | [open](../records/effects-masudbro94-python-hacked-mobile-phone-f3a240c2.md) |
 | MintoTsukino/MintoShaderSuite | 1.0 | 2025-10-23T21:18:21Z | [open](../records/effects-mintotsukino-mintoshadersuite-ef86ca31.md) |
 
 ## Audio
@@ -643,8 +649,8 @@ Records: `590`
 | --- | --- | --- | --- |
 | labsyspharm/minerva-story | unknown | github_latest_release_missing | [open](../records/microscopy-labsyspharm-minerva-story-6e0a209a.md) |
 | lemonspurple/DIY-Scanning-Tunneling-Microscope | v.1.0.2 | 2026-06-08T18:08:44Z | [open](../records/microscopy-lemonspurple-diy-scanning-tunneling-microscope-5995151b.md) |
-| royerlab/napari-mcp | v0.1.0 | 2026-03-25T18:17:58Z | [open](../records/microscopy-royerlab-napari-mcp-5804742f.md) |
-| saeyslab/harpy | v0.4.4 | 2026-07-06T13:45:20Z | [open](../records/microscopy-saeyslab-harpy-13fb4e50.md) |
+| royerlab/napari-mcp | partial | 2026-03-25T18:05:52Z | [open](../records/microscopy-royerlab-napari-mcp-5804742f.md) |
+| saeyslab/harpy | partial | 2026-09-01T13:20:02Z | [open](../records/microscopy-saeyslab-harpy-13fb4e50.md) |
 
 ## Telescopes
 
@@ -699,12 +705,12 @@ Records: `590`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| burhanrashid52/WhatTodo | 2.0.2 | 2024-11-09T10:54:57Z | [open](../records/pattern-language-burhanrashid52-whattodo-e6415dc3.md) |
-| Caliburn-Micro/Caliburn.Micro | 5.0.258 | 2025-10-14T00:34:56Z | [open](../records/pattern-language-caliburn-micro-caliburn-micro-33faf6de.md) |
-| daxnet/Apworks | unknown | github_latest_release_missing | [open](../records/pattern-language-daxnet-apworks-181c8cb3.md) |
-| emonney/QuickApp | v10.21.0 | 2025-12-27T10:54:44Z | [open](../records/pattern-language-emonney-quickapp-e4e4cf84.md) |
-| FredKSchott/the-node-way | unknown | github_latest_release_missing | [open](../records/pattern-language-fredkschott-the-node-way-18a9e3cb.md) |
-| nilbuild/design-patterns-for-humans | unknown | github_latest_release_missing | [open](../records/pattern-language-nilbuild-design-patterns-for-humans-38fea4c2.md) |
+| burhanrashid52/WhatTodo | partial | 2026-02-12T14:45:30Z | [open](../records/pattern-language-burhanrashid52-whattodo-e6415dc3.md) |
+| Caliburn-Micro/Caliburn.Micro | partial | 2026-08-28T12:35:44Z | [open](../records/pattern-language-caliburn-micro-caliburn-micro-33faf6de.md) |
+| daxnet/Apworks | partial | 2017-06-13T12:44:13Z | [open](../records/pattern-language-daxnet-apworks-181c8cb3.md) |
+| emonney/QuickApp | partial | 2026-09-01T00:54:46Z | [open](../records/pattern-language-emonney-quickapp-e4e4cf84.md) |
+| FredKSchott/the-node-way | partial | 2016-01-19T21:17:10Z | [open](../records/pattern-language-fredkschott-the-node-way-18a9e3cb.md) |
+| nilbuild/design-patterns-for-humans | partial | 2024-12-02T04:54:48Z | [open](../records/pattern-language-nilbuild-design-patterns-for-humans-38fea4c2.md) |
 
 ## PHP
 

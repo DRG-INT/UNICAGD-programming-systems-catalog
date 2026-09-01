@@ -1,6 +1,6 @@
 # Parser Lexer Ast
 
-Records: `598`
+Records: `613`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `598`
 ## Category Index
 
 [Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
-[Benchmarking (74)](benchmarking.md) · [Build System (590)](build-system.md) · [Cli (451)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (73)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (437)](database-datastore.md) · [Datetime (104)](datetime.md)
+[Benchmarking (75)](benchmarking.md) · [Build System (596)](build-system.md) · [Cli (453)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (37)](compression.md)
+[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (75)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (441)](database-datastore.md) · [Datetime (105)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
-[Embedded Hardware (39)](embedded-hardware.md) · [Ffi Bindings (324)](ffi-bindings.md) · [Filesystem Os (761)](filesystem-os.md) · [Formatter (442)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (30)](fuzzer.md) · [Game Engine Game Dev (104)](game-engine-game-dev.md) · [Ide Editor Integration (850)](ide-editor-integration.md)
-[Image Audio Dsp (184)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (161)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (837)](language-specification.md) · [Library (3388)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (334)](linter.md) · [Logging Observability (259)](logging-observability.md) · [Machine Learning (390)](machine-learning.md)
-[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (698)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (199)](package-manager.md) · **[Parser Lexer Ast (598)](parser-lexer-ast.md)** · [Precommit Ci Quality (176)](precommit-ci-quality.md)
-[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
-[Security Sast (270)](security-sast.md) · [Serialization (272)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (273)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (42)](tutorial-book-styleguide.md) · [Type Checker (264)](type-checker.md)
-[Undefined Behavior Analyzer (1135)](undefined-behavior-analyzer.md) · [Utility Library (81)](utility-library.md) · [Visualization Gui (280)](visualization-gui.md) · [Web Framework (304)](web-framework.md)
+[Embedded Hardware (40)](embedded-hardware.md) · [Ffi Bindings (327)](ffi-bindings.md) · [Filesystem Os (784)](filesystem-os.md) · [Formatter (450)](formatter.md)
+[Framework (38)](framework.md) · [Fuzzer (40)](fuzzer.md) · [Game Engine Game Dev (109)](game-engine-game-dev.md) · [Ide Editor Integration (860)](ide-editor-integration.md)
+[Image Audio Dsp (186)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (162)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (24)](language-server.md) · [Language Specification (843)](language-specification.md) · [Library (3399)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (336)](linter.md) · [Logging Observability (265)](logging-observability.md) · [Machine Learning (393)](machine-learning.md)
+[Math Numeric Scientific (71)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (700)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (206)](package-manager.md) · **[Parser Lexer Ast (613)](parser-lexer-ast.md)** · [Precommit Ci Quality (176)](precommit-ci-quality.md)
+[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (9)](sanitizer.md)
+[Security Sast (270)](security-sast.md) · [Serialization (282)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (297)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (43)](tutorial-book-styleguide.md) · [Type Checker (271)](type-checker.md)
+[Undefined Behavior Analyzer (1203)](undefined-behavior-analyzer.md) · [Utility Library (82)](utility-library.md) · [Visualization Gui (284)](visualization-gui.md) · [Web Framework (307)](web-framework.md)
 
 ## C99
 
@@ -538,10 +538,20 @@ Records: `598`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ajl2718/whereabouts | 0.4.3 | 2025-12-30T04:41:31Z | [open](../records/maps-ajl2718-whereabouts-6a0a0da7.md) |
+| corteva/rioxarray | unknown | github_search_does_not_include_release_date | [open](../records/maps-corteva-rioxarray-6b4083d8.md) |
+| cyang-kth/fmm | unknown | github_search_does_not_include_release_date | [open](../records/maps-cyang-kth-fmm-087626bb.md) |
 | fabiocaccamo/FCCurrentLocationGeocoder | 1.1.11 | 2020-08-05T12:53:20Z | [open](../records/maps-fabiocaccamo-fccurrentlocationgeocoder-5749fb13.md) |
 | fabiocaccamo/FCIPAddressGeocoder | 1.4.0 | 2022-04-13T15:19:38Z | [open](../records/maps-fabiocaccamo-fcipaddressgeocoder-9d6ac7ae.md) |
+| GeoNode/geonode | unknown | github_search_does_not_include_release_date | [open](../records/maps-geonode-geonode-d052a389.md) |
+| google/earthenterprise | unknown | github_search_does_not_include_release_date | [open](../records/maps-google-earthenterprise-6d0603dd.md) |
 | gx0r/rrgeo | unknown | github_latest_release_missing | [open](../records/maps-gx0r-rrgeo-c7355924.md) |
 | klein/klein.php | v2.1.2 | 2017-02-01T23:11:27Z | [open](../records/maps-klein-klein-php-0a6b6577.md) |
+| maplibre/flutter-maplibre-gl | unknown | github_search_does_not_include_release_date | [open](../records/maps-maplibre-flutter-maplibre-gl-8bd7f64b.md) |
+| matplotlib/basemap | unknown | github_search_does_not_include_release_date | [open](../records/maps-matplotlib-basemap-6bf2476d.md) |
+| openinframap/openinframap | unknown | github_search_does_not_include_release_date | [open](../records/maps-openinframap-openinframap-46f4bfa9.md) |
+| pysheds/pysheds | unknown | github_search_does_not_include_release_date | [open](../records/maps-pysheds-pysheds-2b095809.md) |
+| raphaelquast/EOmaps | unknown | github_search_does_not_include_release_date | [open](../records/maps-raphaelquast-eomaps-126fc6aa.md) |
+| rasterio/rasterio | unknown | github_search_does_not_include_release_date | [open](../records/maps-rasterio-rasterio-4f7478cc.md) |
 | Ziptastic/ziptastic-jquery-plugin | v1.1.0 | 2016-07-17T19:52:06Z | [open](../records/maps-ziptastic-ziptastic-jquery-plugin-65e3b967.md) |
 
 ## Space Engines
@@ -549,32 +559,37 @@ Records: `598`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Arrowstar/ksptot | v1.6.10 | 2024-10-25T15:37:45Z | [open](../records/space-engines-arrowstar-ksptot-0193b8c4.md) |
-| astrobook/astrobook | unknown | github_latest_release_missing | [open](../records/space-engines-astrobook-astrobook-4e0cfd1d.md) |
+| astrobook/astrobook | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-astrobook-astrobook-4e0cfd1d.md) |
 | Astroshaper/AsteroidThermoPhysicalModels.jl | v0.2.1 | 2026-06-29T05:54:04Z | [open](../records/space-engines-astroshaper-asteroidthermophysicalmodels-jl-eb43557a.md) |
-| AVSLab/basilisk | v2.11.1 | 2026-07-27T21:31:13Z | [open](../records/space-engines-avslab-basilisk-a5a20349.md) |
-| bluescarni/piranha | unknown | github_latest_release_missing | [open](../records/space-engines-bluescarni-piranha-892e8cb6.md) |
-| ChristopherRabotin/smd | unknown | github_latest_release_missing | [open](../records/space-engines-christopherrabotin-smd-2ab7a76e.md) |
-| cisprague/Astro.IQ | unknown | github_latest_release_missing | [open](../records/space-engines-cisprague-astro-iq-88ee2214.md) |
+| AVSLab/basilisk | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-avslab-basilisk-a5a20349.md) |
+| bluescarni/piranha | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-bluescarni-piranha-892e8cb6.md) |
+| ChristopherRabotin/smd | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-christopherrabotin-smd-2ab7a76e.md) |
+| cisprague/Astro.IQ | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-cisprague-astro-iq-88ee2214.md) |
+| CS-SI/Orekit | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-cs-si-orekit-fd0e471c.md) |
 | deflorio/SpOCK | v1.7 | 2026-03-30T15:39:12Z | [open](../records/space-engines-deflorio-spock-3f3262df.md) |
-| duncaneddy/brahe | v1.7.0 | 2026-07-21T23:07:34Z | [open](../records/space-engines-duncaneddy-brahe-7ee764e2.md) |
+| DJBen/Graviton | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-djben-graviton-cc868ebf.md) |
+| duncaneddy/brahe | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-duncaneddy-brahe-7ee764e2.md) |
+| esa/dSGP4 | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-esa-dsgp4-8c05d97f.md) |
 | esa/pykep | v3.0.0 | 2026-05-23T12:00:00Z | [open](../records/space-engines-esa-pykep-de004d6c.md) |
-| GalacticDynamics/galax | v0.0.3 | 2026-08-17T20:11:12Z | [open](../records/space-engines-galacticdynamics-galax-d1c9094c.md) |
-| helgee/Astrodynamics.jl | unknown | github_latest_release_missing | [open](../records/space-engines-helgee-astrodynamics-jl-8635d55e.md) |
-| IO-Aerospace-software-engineering/Astrodynamics | 9.1.1 | 2026-07-31T19:10:48Z | [open](../records/space-engines-io-aerospace-software-engineering-astrodynamics-2179baf6.md) |
-| jacobwilliams/Fortran-Astrodynamics-Toolkit | 0.5 | 2022-08-07T18:40:39Z | [open](../records/space-engines-jacobwilliams-fortran-astrodynamics-toolkit-0fbb1aa0.md) |
-| lizard-isana/orb.js | v2.4.1 | 2024-02-12T15:51:47Z | [open](../records/space-engines-lizard-isana-orb-js-65c97be7.md) |
+| GalacticDynamics/galax | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-galacticdynamics-galax-d1c9094c.md) |
+| gunvirranu/perturb | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-gunvirranu-perturb-e116c98e.md) |
+| helgee/Astrodynamics.jl | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-helgee-astrodynamics-jl-8635d55e.md) |
+| IO-Aerospace-software-engineering/Astrodynamics | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-io-aerospace-software-engineering-astrodynamics-2179baf6.md) |
+| jacobwilliams/Fortran-Astrodynamics-Toolkit | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-jacobwilliams-fortran-astrodynamics-toolkit-0fbb1aa0.md) |
+| lizard-isana/orb.js | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-lizard-isana-orb-js-65c97be7.md) |
 | lox-space/lox | lox-space-v0.1.0-alpha.50 | 2026-08-25T09:27:56Z | [open](../records/space-engines-lox-space-lox-d5077f9a.md) |
-| MasterOgon/Aeroacoustic-Flying-Saucer-Oscillating-Resonator-CFD-Simulation-LBM- | unknown | github_latest_release_missing | [open](../records/space-engines-masterogon-aeroacoustic-flying-saucer-oscillating-resonator-cfd-simulation-lbm-88f2724c.md) |
-| onekiloparsec/SwiftAA | 3.0.0 | 2025-10-26T15:45:40Z | [open](../records/space-engines-onekiloparsec-swiftaa-dda5a441.md) |
-| poliastro/poliastro | v0.17.0 | 2022-07-11T09:07:05Z | [open](../records/space-engines-poliastro-poliastro-bebf5f35.md) |
-| pytroll/pyorbital | v1.12.1 | 2026-03-05T13:19:12Z | [open](../records/space-engines-pytroll-pyorbital-52281451.md) |
+| MasterOgon/Aeroacoustic-Flying-Saucer-Oscillating-Resonator-CFD-Simulation-LBM- | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-masterogon-aeroacoustic-flying-saucer-oscillating-resonator-cfd-simulation-lbm-88f2724c.md) |
+| onekiloparsec/SwiftAA | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-onekiloparsec-swiftaa-dda5a441.md) |
+| poliastro/poliastro | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-poliastro-poliastro-bebf5f35.md) |
+| pytroll/pyorbital | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-pytroll-pyorbital-52281451.md) |
 | qsantos/spyce | unknown | github_latest_release_missing | [open](../records/space-engines-qsantos-spyce-57b8510c.md) |
-| swtnikita50/CR3BP-MatlabLibrary | unknown | github_latest_release_missing | [open](../records/space-engines-swtnikita50-cr3bp-matlablibrary-6436b8da.md) |
-| tamaskis/planet3D-MATLAB | v5.4.0 | 2023-05-21T01:19:09Z | [open](../records/space-engines-tamaskis-planet3d-matlab-d5b68952.md) |
-| TheWand3rer/Universe | v1.3.0 | 2026-06-03T18:22:01Z | [open](../records/space-engines-thewand3rer-universe-b6822711.md) |
-| tudat-team/tudatpy | 0.6.0 | 2022-01-21T15:52:08Z | [open](../records/space-engines-tudat-team-tudatpy-44bb19c6.md) |
-| ut-astria/orbdetpy | 2.1.0 | 2022-03-30T16:58:07Z | [open](../records/space-engines-ut-astria-orbdetpy-9a9dc45c.md) |
-| ut-issl/s2e-core | v9.0.1 | 2026-08-17T07:40:25Z | [open](../records/space-engines-ut-issl-s2e-core-7effcd69.md) |
+| Space-Systems/neptune | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-space-systems-neptune-12e329ae.md) |
+| swtnikita50/CR3BP-MatlabLibrary | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-swtnikita50-cr3bp-matlablibrary-6436b8da.md) |
+| tamaskis/planet3D-MATLAB | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-tamaskis-planet3d-matlab-d5b68952.md) |
+| TheWand3rer/Universe | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-thewand3rer-universe-b6822711.md) |
+| tudat-team/tudatpy | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-tudat-team-tudatpy-44bb19c6.md) |
+| ut-astria/orbdetpy | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-ut-astria-orbdetpy-9a9dc45c.md) |
+| ut-issl/s2e-core | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-ut-issl-s2e-core-7effcd69.md) |
 
 ## Space Shuttles
 
@@ -739,15 +754,15 @@ Records: `598`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| HJLebbink/asm-dude | v2.0.1.0 | 2024-02-11T22:30:25Z | [open](../records/assembly-hjlebbink-asm-dude-98d99d19.md) |
+| HJLebbink/asm-dude | partial | 2026-08-12T22:37:10Z | [open](../records/assembly-hjlebbink-asm-dude-98d99d19.md) |
 
 ## Pattern language
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mjavascript/mastering-modular-javascript | unknown | github_latest_release_missing | [open](../records/pattern-language-mjavascript-mastering-modular-javascript-4aa5fec9.md) |
-| MrEngineer13/SnackBar | unknown | github_latest_release_missing | [open](../records/pattern-language-mrengineer13-snackbar-87dc8bd9.md) |
-| Varietyz/Disciplined-AI-Software-Development | unknown | github_latest_release_missing | [open](../records/pattern-language-varietyz-disciplined-ai-software-development-5ad8ff54.md) |
+| mjavascript/mastering-modular-javascript | partial | 2020-10-14T17:54:43Z | [open](../records/pattern-language-mjavascript-mastering-modular-javascript-4aa5fec9.md) |
+| MrEngineer13/SnackBar | partial | 2020-10-15T04:40:58Z | [open](../records/pattern-language-mrengineer13-snackbar-87dc8bd9.md) |
+| Varietyz/Disciplined-AI-Software-Development | partial | 2026-04-02T14:58:53Z | [open](../records/pattern-language-varietyz-disciplined-ai-software-development-5ad8ff54.md) |
 
 ## PHP
 

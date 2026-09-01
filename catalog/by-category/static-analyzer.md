@@ -1,6 +1,6 @@
 # Static Analyzer
 
-Records: `273`
+Records: `297`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `273`
 ## Category Index
 
 [Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
-[Benchmarking (74)](benchmarking.md) · [Build System (590)](build-system.md) · [Cli (451)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (73)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (437)](database-datastore.md) · [Datetime (104)](datetime.md)
+[Benchmarking (75)](benchmarking.md) · [Build System (596)](build-system.md) · [Cli (453)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (37)](compression.md)
+[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (75)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (441)](database-datastore.md) · [Datetime (105)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
-[Embedded Hardware (39)](embedded-hardware.md) · [Ffi Bindings (324)](ffi-bindings.md) · [Filesystem Os (761)](filesystem-os.md) · [Formatter (442)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (30)](fuzzer.md) · [Game Engine Game Dev (104)](game-engine-game-dev.md) · [Ide Editor Integration (850)](ide-editor-integration.md)
-[Image Audio Dsp (184)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (161)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (837)](language-specification.md) · [Library (3388)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (334)](linter.md) · [Logging Observability (259)](logging-observability.md) · [Machine Learning (390)](machine-learning.md)
-[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (698)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (199)](package-manager.md) · [Parser Lexer Ast (598)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
-[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
-[Security Sast (270)](security-sast.md) · [Serialization (272)](serialization.md) · [Standard Library (22)](standard-library.md) · **[Static Analyzer (273)](static-analyzer.md)**
-[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (42)](tutorial-book-styleguide.md) · [Type Checker (264)](type-checker.md)
-[Undefined Behavior Analyzer (1135)](undefined-behavior-analyzer.md) · [Utility Library (81)](utility-library.md) · [Visualization Gui (280)](visualization-gui.md) · [Web Framework (304)](web-framework.md)
+[Embedded Hardware (40)](embedded-hardware.md) · [Ffi Bindings (327)](ffi-bindings.md) · [Filesystem Os (784)](filesystem-os.md) · [Formatter (450)](formatter.md)
+[Framework (38)](framework.md) · [Fuzzer (40)](fuzzer.md) · [Game Engine Game Dev (109)](game-engine-game-dev.md) · [Ide Editor Integration (860)](ide-editor-integration.md)
+[Image Audio Dsp (186)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (162)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (24)](language-server.md) · [Language Specification (843)](language-specification.md) · [Library (3399)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (336)](linter.md) · [Logging Observability (265)](logging-observability.md) · [Machine Learning (393)](machine-learning.md)
+[Math Numeric Scientific (71)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (700)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (206)](package-manager.md) · [Parser Lexer Ast (613)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
+[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (9)](sanitizer.md)
+[Security Sast (270)](security-sast.md) · [Serialization (282)](serialization.md) · [Standard Library (22)](standard-library.md) · **[Static Analyzer (297)](static-analyzer.md)**
+[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (43)](tutorial-book-styleguide.md) · [Type Checker (271)](type-checker.md)
+[Undefined Behavior Analyzer (1203)](undefined-behavior-analyzer.md) · [Utility Library (82)](utility-library.md) · [Visualization Gui (284)](visualization-gui.md) · [Web Framework (307)](web-framework.md)
 
 ## C99
 
@@ -281,23 +281,47 @@ Records: `273`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| antvis/L7 | unknown | github_search_does_not_include_release_date | [open](../records/maps-antvis-l7-6780853b.md) |
+| c2g-dev/city2graph | unknown | github_search_does_not_include_release_date | [open](../records/maps-c2g-dev-city2graph-75122023.md) |
+| CosmiQ/solaris | unknown | github_search_does_not_include_release_date | [open](../records/maps-cosmiq-solaris-c6ba877b.md) |
+| Esri/arcgis-python-api | unknown | github_search_does_not_include_release_date | [open](../records/maps-esri-arcgis-python-api-1e7e8d6c.md) |
+| gboeing/osmnx | unknown | github_search_does_not_include_release_date | [open](../records/maps-gboeing-osmnx-e39532fb.md) |
+| gee-community/geemap | unknown | github_search_does_not_include_release_date | [open](../records/maps-gee-community-geemap-3a2ab7d7.md) |
+| GeoRetina/chat2geo | unknown | github_search_does_not_include_release_date | [open](../records/maps-georetina-chat2geo-de4bfd06.md) |
 | iamtekson/Leaflet-from-basic-to-advance | unknown | github_latest_release_missing | [open](../records/maps-iamtekson-leaflet-from-basic-to-advance-889350fe.md) |
+| jblindsay/whitebox-tools | unknown | github_search_does_not_include_release_date | [open](../records/maps-jblindsay-whitebox-tools-802abb76.md) |
+| joewdavies/awesome-frontend-gis | unknown | github_search_does_not_include_release_date | [open](../records/maps-joewdavies-awesome-frontend-gis-8dda6b78.md) |
+| mesa/mesa | unknown | github_search_does_not_include_release_date | [open](../records/maps-mesa-mesa-446ed582.md) |
+| mszell/geospatialdatascience | unknown | github_search_does_not_include_release_date | [open](../records/maps-mszell-geospatialdatascience-35957080.md) |
 | nejckorasa/instagram-analyzer | unknown | github_latest_release_missing | [open](../records/maps-nejckorasa-instagram-analyzer-17d46a85.md) |
+| opengeos/geospatial | unknown | github_search_does_not_include_release_date | [open](../records/maps-opengeos-geospatial-b11a2e45.md) |
+| opengeos/leafmap | unknown | github_search_does_not_include_release_date | [open](../records/maps-opengeos-leafmap-38d2da43.md) |
+| opengeos/python-geospatial | unknown | github_search_does_not_include_release_date | [open](../records/maps-opengeos-python-geospatial-59d57b14.md) |
+| OSGeo/grass | unknown | github_search_does_not_include_release_date | [open](../records/maps-osgeo-grass-a2300d62.md) |
+| PyPSA/atlite | unknown | github_search_does_not_include_release_date | [open](../records/maps-pypsa-atlite-a95240b0.md) |
+| sacridini/Awesome-Geospatial | unknown | github_search_does_not_include_release_date | [open](../records/maps-sacridini-awesome-geospatial-1d655569.md) |
+| sshuair/awesome-gis | unknown | github_search_does_not_include_release_date | [open](../records/maps-sshuair-awesome-gis-16f6f433.md) |
 
 ## Space Engines
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| alopezrivera/huracan | 0.9 | 2024-05-18T22:12:53Z | [open](../records/space-engines-alopezrivera-huracan-6e1c9cbf.md) |
-| arda-guler/LETALIS | R4 | 2023-09-16T14:55:06Z | [open](../records/space-engines-arda-guler-letalis-bdbe2639.md) |
-| dpad/OrbitalTrajectories.jl | v0.1.14 | 2021-06-28T14:28:50Z | [open](../records/space-engines-dpad-orbitaltrajectories-jl-29cbef22.md) |
-| egemenimre/satkit | unknown | github_latest_release_missing | [open](../records/space-engines-egemenimre-satkit-6321fc45.md) |
-| egemenimre/satmad | 0.1.2 | 2021-05-27T23:02:02Z | [open](../records/space-engines-egemenimre-satmad-1c22bd56.md) |
-| mlau154/pymead | unknown | github_latest_release_missing | [open](../records/space-engines-mlau154-pymead-00b1ba72.md) |
-| nasa/GMAT | R2026a | 2026-05-06T18:17:23Z | [open](../records/space-engines-nasa-gmat-1132ba56.md) |
-| Setuav/PyThrust | v0.2.2 | 2026-08-20T22:32:22Z | [open](../records/space-engines-setuav-pythrust-30962a6a.md) |
-| SpaceEngineerSS/EnSim | v3.0.1 | 2026-08-20T16:06:16Z | [open](../records/space-engines-spaceengineerss-ensim-911fc029.md) |
-| sylvesterkaczmarek/lunar-astrodynamics-simulation | unknown | github_latest_release_missing | [open](../records/space-engines-sylvesterkaczmarek-lunar-astrodynamics-simulation-3c0d4638.md) |
+| alfonsogonzalez/AWP | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-alfonsogonzalez-awp-f84d3aa5.md) |
+| alopezrivera/huracan | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-alopezrivera-huracan-6e1c9cbf.md) |
+| ansys/pystk | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-ansys-pystk-9e9adf00.md) |
+| arda-guler/LETALIS | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-arda-guler-letalis-bdbe2639.md) |
+| Arrowstar/ksptot | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-arrowstar-ksptot-7a1c2c0b.md) |
+| deflorio/SpOCK | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-deflorio-spock-158b80b1.md) |
+| dpad/OrbitalTrajectories.jl | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-dpad-orbitaltrajectories-jl-29cbef22.md) |
+| egemenimre/satkit | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-egemenimre-satkit-6321fc45.md) |
+| egemenimre/satmad | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-egemenimre-satmad-1c22bd56.md) |
+| esa/pykep | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-esa-pykep-ddb99a1e.md) |
+| lox-space/lox | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-lox-space-lox-0ed1c201.md) |
+| mlau154/pymead | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-mlau154-pymead-00b1ba72.md) |
+| nasa/GMAT | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-nasa-gmat-1132ba56.md) |
+| Setuav/PyThrust | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-setuav-pythrust-30962a6a.md) |
+| SpaceEngineerSS/EnSim | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-spaceengineerss-ensim-911fc029.md) |
+| sylvesterkaczmarek/lunar-astrodynamics-simulation | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-sylvesterkaczmarek-lunar-astrodynamics-simulation-3c0d4638.md) |
 
 ## Space Shuttles
 
@@ -357,8 +381,8 @@ Records: `273`
 | clEsperanto/pyclesperanto_prototype | unknown | github_latest_release_missing | [open](../records/microscopy-clesperanto-pyclesperanto-prototype-3fd5a628.md) |
 | imjoy-team/imagej.js | v0.4.0 | 2021-06-14T12:20:14Z | [open](../records/microscopy-imjoy-team-imagej-js-ab4ae7b8.md) |
 | NL-BioImaging/biomero | v2.8.2 | 2026-08-20T11:21:09Z | [open](../records/microscopy-nl-bioimaging-biomero-e59c8222.md) |
-| pycroscopy/pycroscopy | v0.63.3 | 2024-06-05T21:26:20Z | [open](../records/microscopy-pycroscopy-pycroscopy-e22f9142.md) |
-| qupath/qupath | v0.7.0 | 2026-03-02T15:07:30Z | [open](../records/microscopy-qupath-qupath-319e8bd2.md) |
+| pycroscopy/pycroscopy | partial | 2025-09-12T16:21:57Z | [open](../records/microscopy-pycroscopy-pycroscopy-e22f9142.md) |
+| qupath/qupath | partial | 2026-09-01T12:37:23Z | [open](../records/microscopy-qupath-qupath-319e8bd2.md) |
 
 ## Telescopes
 
@@ -420,14 +444,14 @@ Records: `273`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mandiant/flare-learning-hub | unknown | github_latest_release_missing | [open](../records/assembly-mandiant-flare-learning-hub-36dc67ad.md) |
+| mandiant/flare-learning-hub | partial | 2026-03-31T14:36:02Z | [open](../records/assembly-mandiant-flare-learning-hub-36dc67ad.md) |
 
 ## Pattern language
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ddd-by-examples/library | unknown | github_latest_release_missing | [open](../records/pattern-language-ddd-by-examples-library-19a9d881.md) |
-| simple-android-framework/android_design_patterns_analysis | unknown | github_latest_release_missing | [open](../records/pattern-language-simple-android-framework-android-design-patterns-analysis-d87c1f0b.md) |
+| ddd-by-examples/library | partial | 2023-07-07T21:43:17Z | [open](../records/pattern-language-ddd-by-examples-library-19a9d881.md) |
+| simple-android-framework/android_design_patterns_analysis | partial | 2023-09-26T09:34:23Z | [open](../records/pattern-language-simple-android-framework-android-design-patterns-analysis-d87c1f0b.md) |
 
 ## WebAssembly
 

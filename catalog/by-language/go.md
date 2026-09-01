@@ -1,6 +1,6 @@
 # Go
 
-Records: `758`
+Records: `838`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `758`
 ## Category Index
 
 [Api Abi Checker (127)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (33)](../by-category/assertion-mocking.md) · [Async Runtime (106)](../by-category/async-runtime.md)
-[Benchmarking (74)](../by-category/benchmarking.md) · [Build System (590)](../by-category/build-system.md) · [Cli (451)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (67)](../by-category/community-reference.md) · [Compiler (122)](../by-category/compiler.md) · [Compiler Diagnostics (18)](../by-category/compiler-diagnostics.md) · [Compression (36)](../by-category/compression.md)
-[Concurrency Parallelism (63)](../by-category/concurrency-parallelism.md) · [Configuration (73)](../by-category/configuration.md) · [Container Deployment (7)](../by-category/container-deployment.md) · [Coverage (10)](../by-category/coverage.md)
-[Cryptography (132)](../by-category/cryptography.md) · [Data Science (30)](../by-category/data-science.md) · [Database Datastore (437)](../by-category/database-datastore.md) · [Datetime (104)](../by-category/datetime.md)
+[Benchmarking (75)](../by-category/benchmarking.md) · [Build System (596)](../by-category/build-system.md) · [Cli (453)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (67)](../by-category/community-reference.md) · [Compiler (122)](../by-category/compiler.md) · [Compiler Diagnostics (18)](../by-category/compiler-diagnostics.md) · [Compression (37)](../by-category/compression.md)
+[Concurrency Parallelism (63)](../by-category/concurrency-parallelism.md) · [Configuration (75)](../by-category/configuration.md) · [Container Deployment (7)](../by-category/container-deployment.md) · [Coverage (10)](../by-category/coverage.md)
+[Cryptography (132)](../by-category/cryptography.md) · [Data Science (30)](../by-category/data-science.md) · [Database Datastore (441)](../by-category/database-datastore.md) · [Datetime (105)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (35)](../by-category/debugger.md) · [Dependency Manager (61)](../by-category/dependency-manager.md) · [Documentation (62)](../by-category/documentation.md)
-[Embedded Hardware (39)](../by-category/embedded-hardware.md) · [Ffi Bindings (324)](../by-category/ffi-bindings.md) · [Filesystem Os (761)](../by-category/filesystem-os.md) · [Formatter (442)](../by-category/formatter.md)
-[Framework (38)](../by-category/framework.md) · [Fuzzer (30)](../by-category/fuzzer.md) · [Game Engine Game Dev (104)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (850)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (184)](../by-category/image-audio-dsp.md) · [Interop Bindings (48)](../by-category/interop-bindings.md) · [Interpreter Runtime (161)](../by-category/interpreter-runtime.md) · [Jit Vm (55)](../by-category/jit-vm.md)
-[Language Server (23)](../by-category/language-server.md) · [Language Specification (837)](../by-category/language-specification.md) · [Library (3388)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (38)](../by-category/lint-rule-pack.md) · [Linter (334)](../by-category/linter.md) · [Logging Observability (259)](../by-category/logging-observability.md) · [Machine Learning (390)](../by-category/machine-learning.md)
-[Math Numeric Scientific (70)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (54)](../by-category/memory-analyzer.md) · [Message Broker (24)](../by-category/message-broker.md) · [Networking Http (698)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (199)](../by-category/package-manager.md) · [Parser Lexer Ast (598)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (176)](../by-category/precommit-ci-quality.md)
-[Profiler (58)](../by-category/profiler.md) · [Project Scaffolding (91)](../by-category/project-scaffolding.md) · [Registry Repository (105)](../by-category/registry-repository.md) · [Sanitizer (8)](../by-category/sanitizer.md)
-[Security Sast (270)](../by-category/security-sast.md) · [Serialization (272)](../by-category/serialization.md) · [Standard Library (22)](../by-category/standard-library.md) · [Static Analyzer (273)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (421)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (42)](../by-category/tutorial-book-styleguide.md) · [Type Checker (264)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1135)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (81)](../by-category/utility-library.md) · [Visualization Gui (280)](../by-category/visualization-gui.md) · [Web Framework (304)](../by-category/web-framework.md)
+[Embedded Hardware (40)](../by-category/embedded-hardware.md) · [Ffi Bindings (327)](../by-category/ffi-bindings.md) · [Filesystem Os (784)](../by-category/filesystem-os.md) · [Formatter (450)](../by-category/formatter.md)
+[Framework (38)](../by-category/framework.md) · [Fuzzer (40)](../by-category/fuzzer.md) · [Game Engine Game Dev (109)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (860)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (186)](../by-category/image-audio-dsp.md) · [Interop Bindings (48)](../by-category/interop-bindings.md) · [Interpreter Runtime (162)](../by-category/interpreter-runtime.md) · [Jit Vm (55)](../by-category/jit-vm.md)
+[Language Server (24)](../by-category/language-server.md) · [Language Specification (843)](../by-category/language-specification.md) · [Library (3399)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (38)](../by-category/lint-rule-pack.md) · [Linter (336)](../by-category/linter.md) · [Logging Observability (265)](../by-category/logging-observability.md) · [Machine Learning (393)](../by-category/machine-learning.md)
+[Math Numeric Scientific (71)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (54)](../by-category/memory-analyzer.md) · [Message Broker (24)](../by-category/message-broker.md) · [Networking Http (700)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (206)](../by-category/package-manager.md) · [Parser Lexer Ast (613)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (176)](../by-category/precommit-ci-quality.md)
+[Profiler (58)](../by-category/profiler.md) · [Project Scaffolding (91)](../by-category/project-scaffolding.md) · [Registry Repository (105)](../by-category/registry-repository.md) · [Sanitizer (9)](../by-category/sanitizer.md)
+[Security Sast (270)](../by-category/security-sast.md) · [Serialization (282)](../by-category/serialization.md) · [Standard Library (22)](../by-category/standard-library.md) · [Static Analyzer (297)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (421)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (43)](../by-category/tutorial-book-styleguide.md) · [Type Checker (271)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1203)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (82)](../by-category/utility-library.md) · [Visualization Gui (284)](../by-category/visualization-gui.md) · [Web Framework (307)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -34,6 +34,7 @@ Records: `758`
 | --- | --- | --- | --- |
 | [buf.build/gen/go/kand1ss-dev/knot-ops/grpc/go](../records/go-buf-build-gen-go-kand1ss-dev-knot-ops-grpc-go-7f01c5da.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [buf.build/gen/go/kand1ss-dev/knot-ops/protocolbuffers/go](../records/go-buf-build-gen-go-kand1ss-dev-knot-ops-protocolbuffers-go-de985f94.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [buf.build/gen/go/meshtastic/protobufs/protocolbuffers/go](../records/go-buf-build-gen-go-meshtastic-protobufs-protocolbuffers-go-20d3edba.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [buf.build/gen/go/realm/event/protocolbuffers/go](../records/go-buf-build-gen-go-realm-event-protocolbuffers-go-1a840da9.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [buf.build/gen/go/realm/fabric/protocolbuffers/go](../records/go-buf-build-gen-go-realm-fabric-protocolbuffers-go-3a27b5c5.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [buf.build/gen/go/realm/pipeline/protocolbuffers/go](../records/go-buf-build-gen-go-realm-pipeline-protocolbuffers-go-17394d05.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
@@ -49,6 +50,7 @@ Records: `758`
 | [github.com/espressif/esp-rainmaker-neo](../records/go-github-com-espressif-esp-rainmaker-neo-273f971d.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/espressif/esp32-arduino-lib-builder](../records/go-github-com-espressif-esp32-arduino-lib-builder-2032e2a7.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/Gumyr/build123d](../records/go-github-com-gumyr-build123d-042e26d3.md) | v0.3.0 | 2026-08-30T10:07:18.967525Z | registry-derived |
+| [github.com/osbuild/image-builder](../records/go-github-com-osbuild-image-builder-77f333e8.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [go.ytsaurus.tech/library/go/core/buildinfo](../records/go-go-ytsaurus-tech-library-go-core-buildinfo-4bb9b494.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 
 ### Compiler
@@ -63,11 +65,18 @@ Records: `758`
 | --- | --- | --- | --- |
 | [github.com/spinnaker/spinnaker-dependencies](../records/go-github-com-spinnaker-spinnaker-dependencies-7dc73de9.md) | v1.25.1 | 2026-08-30T11:57:41.284194Z | registry-derived |
 
+### Filesystem Os
+
+| Name | Release | Date | Source |
+| --- | --- | --- | --- |
+| [filippo.io/mostly-harmless/dockerdns](../records/go-filippo-io-mostly-harmless-dockerdns-75b5c5a5.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+
 ### Formatter
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [github.com/blacktop/x86_64-cgo](../records/go-github-com-blacktop-x86-64-cgo-c88fa131.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/Domingor/go-blackbox](../records/go-github-com-domingor-go-blackbox-635c7b8d.md) | v1.86.0 | 2026-08-30T16:31:35.009665Z | registry-derived |
 | [github.com/gilescope/rustfmt](../records/go-github-com-gilescope-rustfmt-3181c821.md) | v1.4.29 | 2026-08-30T12:55:09.408881Z | registry-derived |
 | [github.com/sarathfrancis90/sql-formatter](../records/go-github-com-sarathfrancis90-sql-formatter-27542140.md) | v15.6.1+incompatible | 2026-08-30T14:10:24.556377Z | registry-derived |
 
@@ -76,12 +85,13 @@ Records: `758`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [github.com/btc-vision/btc-runtime](../records/go-github-com-btc-vision-btc-runtime-5ca52916.md) | v1.10.6 | 2026-08-30T12:53:01.50741Z | registry-derived |
-| [github.com/btc-vision/op-vm](../records/go-github-com-btc-vision-op-vm-0f62577b.md) | v0.3.11 | 2026-08-30T14:07:59.740556Z | registry-derived |
+| [github.com/btc-vision/op-vm](../records/go-github-com-btc-vision-op-vm-0f62577b.md) | v0.3.8 | 2026-08-30T16:32:47.097658Z | registry-derived |
 | [github.com/esotericsoftware/spine-runtimes](../records/go-github-com-esotericsoftware-spine-runtimes-c9525803.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/ESousa97/gocontainerruntime](../records/go-github-com-esousa97-gocontainerruntime-719a6fd2.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [github.com/eu-digital-identity-wallet/eudi-lib-jvm-sdjwt-kt](../records/go-github-com-eu-digital-identity-wallet-eudi-lib-jvm-sdjwt-kt-96b13b26.md) | v0.11.0 | 2026-08-30T11:58:50.908365Z | registry-derived |
+| [github.com/eu-digital-identity-wallet/eudi-lib-jvm-sdjwt-kt](../records/go-github-com-eu-digital-identity-wallet-eudi-lib-jvm-sdjwt-kt-96b13b26.md) | v0.6.5 | 2026-08-30T16:30:21.233905Z | registry-derived |
 | [github.com/KusionSTack/kclvm-artifact-go](../records/go-github-com-kusionstack-kclvm-artifact-go-88461068.md) | v0.9.1 | 2026-08-30T14:10:01.964526Z | registry-derived |
 | [github.com/lightbend/kalix-jvm-sdk](../records/go-github-com-lightbend-kalix-jvm-sdk-12758329.md) | v1.0.7 | 2026-08-30T11:57:42.292594Z | registry-derived |
+| [github.com/linbit/vmshed](../records/go-github-com-linbit-vmshed-013fce3a.md) | v0.30.0 | 2026-08-30T16:30:26.079602Z | registry-derived |
 | [github.com/opencharly/plugin-vm/candy/plugin-vm](../records/go-github-com-opencharly-plugin-vm-candy-plugin-vm-421265b3.md) | v0.2026242.535 | 2026-08-30T12:55:28.589091Z | registry-derived |
 | [github.com/vmware-tanzu/kapp-controller/cli](../records/go-github-com-vmware-tanzu-kapp-controller-cli-9247a6af.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 
@@ -93,12 +103,12 @@ Records: `758`
 | [code.linenisgreat.com/madder](../records/go-code-linenisgreat-com-madder-7481ec44.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [code.linenisgreat.com/madder/go](../records/go-code-linenisgreat-com-madder-go-69f64a7e.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [codeberg.org/go-hep/hep.git](../records/go-codeberg-org-go-hep-hep-git-29878e71.md) | v0.27.0 | 2026-08-30T10:55:18.161122Z | registry-derived |
-| [codeberg.org/rimu/pyfedi](../records/go-codeberg-org-rimu-pyfedi-53519dff.md) | v1.6.15 | 2026-08-30T11:58:13.428621Z | registry-derived |
+| [codeberg.org/rimu/pyfedi](../records/go-codeberg-org-rimu-pyfedi-53519dff.md) | v1.6.9 | 2026-08-30T16:29:43.672078Z | registry-derived |
 | [git.scuroneko.dev/ScuroNeko/Laniakea](../records/go-git-scuroneko-dev-scuroneko-laniakea-6c4ff9e7.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [git.sr.ht/~sbinet/hep](../records/go-git-sr-ht-sbinet-hep-dbf72bae.md) | v0.19.0 | 2026-08-30T12:54:31.594234Z | registry-derived |
 | [gitee.com/hongzhaomin/ioc/annotation](../records/go-gitee-com-hongzhaomin-ioc-annotation-778adf40.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [gitee.com/hongzhaomin/ioc/gspring](../records/go-gitee-com-hongzhaomin-ioc-gspring-80389a91.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [gitee.com/mirrors/ansible.git](../records/go-gitee-com-mirrors-ansible-git-08ba741c.md) | v2.9.3+incompatible | 2026-08-30T11:57:50.194944Z | registry-derived |
+| [gitee.com/Mirrors/ansible.git](../records/go-gitee-com-mirrors-ansible-git-08ba741c.md) | v2.8.7+incompatible | 2026-08-30T16:31:31.087307Z | registry-derived |
 | [gitee.com/mirrors/cpython.git](../records/go-gitee-com-mirrors-cpython-git-93bf4b1f.md) | v3.4.7+incompatible | 2026-08-30T10:57:14.17359Z | registry-derived |
 | [gitee.com/mirrors_newrelic/node-newrelic](../records/go-gitee-com-mirrors-newrelic-node-newrelic-a8b8c659.md) | v1.31.0 | 2026-08-30T11:59:25.512732Z | registry-derived |
 | [gitee.com/mirrors_sendgrid/sendgrid-java](../records/go-gitee-com-mirrors-sendgrid-sendgrid-java-40cef1c3.md) | v3.0.6+incompatible | 2026-08-30T10:10:27.022297Z | registry-derived |
@@ -107,7 +117,7 @@ Records: `758`
 | [gitlab.com/sequoia-pgp/sequoia.git](../records/go-gitlab-com-sequoia-pgp-sequoia-git-723cf535.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [gitlab.com/umbrellazone/smartacme](../records/go-gitlab-com-umbrellazone-smartacme-de305f20.md) | v1.0.9 | 2026-08-30T10:07:20.216337Z | registry-derived |
 | [go.cozymore.dev/krkstops](../records/go-go-cozymore-dev-krkstops-34ccbe5a.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [go.gary.cool/go-stockutil](../records/go-go-gary-cool-go-stockutil-dd0c06ad.md) | v1.8.58 | 2026-08-30T11:58:52.391766Z | registry-derived |
+| [go.gary.cool/go-stockutil](../records/go-go-gary-cool-go-stockutil-dd0c06ad.md) | v1.8.53 | 2026-08-30T16:30:21.724665Z | registry-derived |
 | [go.lumeweb.com/portal-plugin-billing](../records/go-go-lumeweb-com-portal-plugin-billing-4d35205b.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [go.mondoo.com/cnquery](../records/go-go-mondoo-com-cnquery-5b60fa63.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [go.ytsaurus.tech/yt/admin/timbertruck](../records/go-go-ytsaurus-tech-yt-admin-timbertruck-8ce375d8.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
@@ -117,18 +127,22 @@ Records: `758`
 | [mvdan.cc/sh/moreinterp](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [paepcke.de/opnborg](../records/go-paepcke-de-opnborg-5d6e838f.md) | v0.1.193 | 2026-08-30T12:53:55.779483Z | registry-derived |
 | [piko.sh/piko/wdk/highlight/highlight_chroma](../records/go-piko-sh-piko-wdk-highlight-highlight-chroma-d02208be.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [sigs.k8s.io/Controller-Tools](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) | v0.6.1 | 2026-08-30T14:08:20.754698Z | registry-derived |
+| [rsc.io/cmd/gofixerr](../records/go-rsc-io-cmd-gofixerr-73d47a44.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [sigs.k8s.io/Controller-Tools](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) | v0.4.1 | 2026-08-30T16:32:46.540929Z | registry-derived |
+| [sigs.k8s.io/kueue/site](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 
 ### Lint Rule Pack
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [github.com/nya3jp/rules_contest](../records/go-github-com-nya3jp-rules-contest-ac991585.md) | v0.9.2 | 2026-08-30T14:07:09.963456Z | registry-derived |
+| [github.com/nya3jp/rules_contest](../records/go-github-com-nya3jp-rules-contest-ac991585.md) | v0.8.1 | 2026-08-30T16:32:16.569994Z | registry-derived |
 
 ### Linter
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [github.com/cloudfoundry/relint-ci-pools](../records/go-github-com-cloudfoundry-relint-ci-pools-b225e329.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/golangci/GolangCI-lint](../records/go-github-com-golangci-golangci-lint-3265cb67.md) | v1.64.6 | 2026-08-30T16:32:51.747217Z | registry-derived |
 | [github.com/muhammetsafak/archlint](../records/go-github-com-muhammetsafak-archlint-193c5a96.md) | v0.3.0 | 2026-08-30T10:56:48.031088Z | registry-derived |
 | [github.com/perrydunn/protolint](../records/go-github-com-perrydunn-protolint-db1d6cd2.md) | v0.23.1 | 2026-08-30T10:07:54.336789Z | registry-derived |
 | [github.com/somehow-digital/commitlint-config](../records/go-github-com-somehow-digital-commitlint-config-5472c284.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
@@ -142,7 +156,7 @@ Records: `758`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [bitbucket.org/itotcca/tx-rails](../records/go-bitbucket-org-itotcca-tx-rails-34e72343.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [gitee.com/open-mmlab/mmcv](../records/go-gitee-com-open-mmlab-mmcv-9c44c07f.md) | v1.5.1 | 2026-08-30T14:06:30.430744Z | registry-derived |
+| [gitee.com/open-mmlab/mmcv](../records/go-gitee-com-open-mmlab-mmcv-9c44c07f.md) | v1.4.7 | 2026-08-30T16:32:50.707415Z | registry-derived |
 | [gitee.com/wailsapp/wails/v3](../records/go-gitee-com-wailsapp-wails-v3-3c5b4a42.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [infinite-go.kontain.me](../records/go-infinite-go-kontain-me-84a68d60.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [latere.ai/x/ci-gate](../records/go-latere-ai-x-ci-gate-4bfeb005.md) | v0.5.0 | 2026-08-30T10:55:18.342292Z | registry-derived |
@@ -152,13 +166,20 @@ Records: `758`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [github.com/fabriziosestito/gostubpkg](../records/go-github-com-fabriziosestito-gostubpkg-7926a8e5.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/lf-edge/eve/pkg/edgeview](../records/go-github-com-lf-edge-eve-pkg-edgeview-11812df9.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/lf-edge/eve/pkg/newlog](../records/go-github-com-lf-edge-eve-pkg-newlog-a36e66cb.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/marcuss-ops/pipelinegen](../records/go-github-com-marcuss-ops-pipelinegen-0b54d563.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/microsoft/vcpkg](../records/go-github-com-microsoft-vcpkg-6c22d187.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [github.com/PKG/ERRORS](../records/go-github-com-pkg-errors-979377d8.md) | v0.5.1 | 2026-08-30T14:07:24.274099Z | registry-derived |
+| [github.com/PKG/ERRORS](../records/go-github-com-pkg-errors-979377d8.md) | v0.3.0 | 2026-08-30T16:32:15.966225Z | registry-derived |
 | [github.com/posthog/posthog/bin/hobby-installer](../records/go-github-com-posthog-posthog-bin-hobby-installer-99af5da4.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/scoopinstaller/extras](../records/go-github-com-scoopinstaller-extras-35c40db1.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/scoopinstaller/main](../records/go-github-com-scoopinstaller-main-78a58ec5.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/toitware/registry](../records/go-github-com-toitware-registry-2d4270c5.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/ukama/ukama/systems/registry/member](../records/go-github-com-ukama-ukama-systems-registry-member-f0b61358.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [gopkg.in/chainguard-images/images.v0](../records/go-gopkg-in-chainguard-images-images-v0-a97edef0.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [gopkg.in/grpc/grpc-java.v1](../records/go-gopkg-in-grpc-grpc-java-v1-2e9e13e9.md) | v1.65.1 | 2026-08-30T12:53:41.302937Z | registry-derived |
+| [sigs.k8s.io/controller-tools/pkg/loader/testmod/subdir1/submod1](../records/go-sigs-k8s-io-controller-tools-pkg-loader-testmod-subdir1-submod1-7dc68c0a.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 
 ### Parser Lexer Ast
 
@@ -183,7 +204,7 @@ Records: `758`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [github.com/continew-org/continew-starter](../records/go-github-com-continew-org-continew-starter-7691250b.md) | v2.7.2+incompatible | 2026-08-30T14:10:06.10492Z | registry-derived |
-| [github.com/micronaut-projects/micronaut-starter](../records/go-github-com-micronaut-projects-micronaut-starter-0b6baca4.md) | v4.10.10+incompatible | 2026-08-30T14:09:18.905747Z | registry-derived |
+| [github.com/micronaut-projects/micronaut-starter](../records/go-github-com-micronaut-projects-micronaut-starter-0b6baca4.md) | v4.3.2+incompatible | 2026-08-30T16:32:52.068049Z | registry-derived |
 | [github.com/unonao/kaggle-template](../records/go-github-com-unonao-kaggle-template-5bc94715.md) | v2.0.2+incompatible | 2026-08-30T14:07:56.203318Z | registry-derived |
 
 ### Sanitizer
@@ -218,26 +239,28 @@ Records: `758`
 | --- | --- | --- | --- |
 | [github.com/01org/isa-l](../records/go-github-com-01org-isa-l-8ef09eb2.md) | v2.22.0+incompatible | 2026-08-30T14:09:32.299469Z | registry-derived |
 | [github.com/1panel-dev/1Panel/agent](../records/go-github-com-1panel-dev-1panel-agent-8df4b3a6.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [github.com/2rumaki-playground/game-001-dungeon-cards](../records/go-github-com-2rumaki-playground-game-001-dungeon-cards-97fa2334.md) | v0.92.0 | 2026-08-30T14:06:37.582513Z | registry-derived |
-| [github.com/aastarcommunity/aastar-sdk](../records/go-github-com-aastarcommunity-aastar-sdk-8eafde11.md) | v0.39.0 | 2026-08-30T14:07:44.470713Z | registry-derived |
+| [github.com/2rumaki-playground/game-001-dungeon-cards](../records/go-github-com-2rumaki-playground-game-001-dungeon-cards-97fa2334.md) | v0.103.0 | 2026-08-30T16:30:21.794494Z | registry-derived |
+| [github.com/521xueweihan/github520](../records/go-github-com-521xueweihan-github520-7ec64a81.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/aastarcommunity/aastar-sdk](../records/go-github-com-aastarcommunity-aastar-sdk-8eafde11.md) | v0.37.2 | 2026-08-30T16:32:51.52343Z | registry-derived |
 | [github.com/aauth-dev/packages-js](../records/go-github-com-aauth-dev-packages-js-0063ff71.md) | v0.10.2 | 2026-08-30T10:08:54.503287Z | registry-derived |
 | [github.com/abhishek-valaboju/steve](../records/go-github-com-abhishek-valaboju-steve-6d1fcc9a.md) | v0.8.8 | 2026-08-30T15:32:18.71426Z | registry-derived |
-| [github.com/adenohitu/hisui](../records/go-github-com-adenohitu-hisui-b1d56c26.md) | v0.6.1 | 2026-08-30T14:07:11.283211Z | registry-derived |
+| [github.com/adenohitu/hisui](../records/go-github-com-adenohitu-hisui-b1d56c26.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/ADguardTeam/Adguardfilters](../records/go-github-com-adguardteam-adguardfilters-ae6619ca.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [github.com/afdesk/trivy](../records/go-github-com-afdesk-trivy-d7aecdce.md) | v0.31.3 | 2026-08-30T11:58:21.579285Z | registry-derived |
+| [github.com/afdesk/trivy](../records/go-github-com-afdesk-trivy-d7aecdce.md) | v0.30.3 | 2026-08-30T16:30:01.889723Z | registry-derived |
 | [github.com/agiledragon/gomOnkey/v2](../records/go-github-com-agiledragon-gomonkey-v2-a2d4fc0f.md) | v2.13.0 | 2026-08-30T11:57:50.446689Z | registry-derived |
 | [github.com/aidansteele/pomerium](../records/go-github-com-aidansteele-pomerium-0a71b1a9.md) | v0.0.3 | 2026-08-30T15:30:56.438849Z | registry-derived |
 | [github.com/akagiyui/go-together](../records/go-github-com-akagiyui-go-together-0675279a.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/akaitigo/reference-atlas-core](../records/go-github-com-akaitigo-reference-atlas-core-b7659f23.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/akhoury/nodebb](../records/go-github-com-akhoury-nodebb-07cd4558.md) | v1.8.2 | 2026-08-30T12:54:49.205068Z | registry-derived |
-| [github.com/aleph-im/pyaleph](../records/go-github-com-aleph-im-pyaleph-6d1cc3cc.md) | v0.1.7 | 2026-08-30T11:58:36.386235Z | registry-derived |
+| [github.com/aleph-im/pyaleph](../records/go-github-com-aleph-im-pyaleph-6d1cc3cc.md) | v0.1.2 | 2026-08-30T16:30:20.777765Z | registry-derived |
 | [github.com/alexandremahdhaoui/forge-register-spec](../records/go-github-com-alexandremahdhaoui-forge-register-spec-6b4f8530.md) | v0.45.5 | 2026-08-30T11:56:16.502522Z | registry-derived |
 | [github.com/alexandremahdhaoui/forge-revision-spec](../records/go-github-com-alexandremahdhaoui-forge-revision-spec-5a2afbc8.md) | v0.45.5 | 2026-08-30T11:56:16.940834Z | registry-derived |
+| [github.com/alexey-t/cudatext](../records/go-github-com-alexey-t-cudatext-98d7340b.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/algebraicjulia/catlab.jl](../records/go-github-com-algebraicjulia-catlab-jl-c661cefd.md) | v0.6.2 | 2026-08-30T15:31:29.711238Z | registry-derived |
 | [github.com/algotables/algotables.github.io](../records/go-github-com-algotables-algotables-github-io-8b3df959.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/aliilapro/mtprotoproxy](../records/go-github-com-aliilapro-mtprotoproxy-29a21a4e.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/aliilapro/proxy](../records/go-github-com-aliilapro-proxy-7cfae674.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [github.com/ambiretech/ambire-common](../records/go-github-com-ambiretech-ambire-common-d6d96619.md) | v1.0.12 | 2026-08-30T14:07:40.638413Z | registry-derived |
+| [github.com/ambiretech/ambire-common](../records/go-github-com-ambiretech-ambire-common-d6d96619.md) | v1.0.9 | 2026-08-30T16:31:00.671813Z | registry-derived |
 | [github.com/AnandOza/Competitive-Programming](../records/go-github-com-anandoza-competitive-programming-ea8e6750.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/andregasser/bigbone](../records/go-github-com-andregasser-bigbone-e44d2dd5.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/androidpoet/supabase-kmp](../records/go-github-com-androidpoet-supabase-kmp-1fa39c7c.md) | v0.4.0 | 2026-08-30T11:58:46.340181Z | registry-derived |
@@ -248,6 +271,7 @@ Records: `758`
 | [github.com/antonmedv/medb](../records/go-github-com-antonmedv-medb-7afd0251.md) | v1.0.0 | 2026-08-30T11:57:49.78732Z | registry-derived |
 | [github.com/apache/camel](../records/go-github-com-apache-camel-af9e6289.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/apache/datafusion](../records/go-github-com-apache-datafusion-4e8cdafb.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/apache/pdfbox](../records/go-github-com-apache-pdfbox-9d66fbf4.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/aperture-sci/loan-app/interest](../records/go-github-com-aperture-sci-loan-app-interest-15863c7d.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/aperture-sci/loan-app/loan](../records/go-github-com-aperture-sci-loan-app-loan-f0773d68.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/apollo-deploy/signal-sdks](../records/go-github-com-apollo-deploy-signal-sdks-a0ec7111.md) | v1.0.2 | 2026-08-30T12:52:03.591954Z | registry-derived |
@@ -256,8 +280,8 @@ Records: `758`
 | [github.com/approvals/ApprovalTests.Python](../records/go-github-com-approvals-approvaltests-python-4ad425c8.md) | v17.4.2+incompatible | 2026-08-30T12:55:17.532499Z | registry-derived |
 | [github.com/aquynh/capstone](../records/go-github-com-aquynh-capstone-23fa1c17.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/Arkadiyt/bounty-targets-data](../records/go-github-com-arkadiyt-bounty-targets-data-7c659bd4.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [github.com/arnica/depsguard](../records/go-github-com-arnica-depsguard-32c19113.md) | v0.1.25 | 2026-08-30T11:59:13.575966Z | registry-derived |
-| [github.com/arnidagur/qutebrowser](../records/go-github-com-arnidagur-qutebrowser-9fe989cc.md) | v1.5.1 | 2026-08-30T11:58:38.336074Z | registry-derived |
+| [github.com/arnica/depsguard](../records/go-github-com-arnica-depsguard-32c19113.md) | v0.1.20 | 2026-08-30T16:30:54.391082Z | registry-derived |
+| [github.com/arnidagur/qutebrowser](../records/go-github-com-arnidagur-qutebrowser-9fe989cc.md) | v1.3.3 | 2026-08-30T16:31:05.136432Z | registry-derived |
 | [github.com/Aswanidev-vs/goclean](../records/go-github-com-aswanidev-vs-goclean-292de094.md) | v1.1.1 | 2026-08-30T12:52:20.150288Z | registry-derived |
 | [github.com/authed-dev/authed](../records/go-github-com-authed-dev-authed-6b8bc89c.md) | v0.2.6 | 2026-08-30T11:56:35.156881Z | registry-derived |
 | [github.com/autofac/Autofac.Web](../records/go-github-com-autofac-autofac-web-4dee2bed.md) | v8.0.0+incompatible | 2026-08-30T10:10:44.327286Z | registry-derived |
@@ -265,10 +289,12 @@ Records: `758`
 | [github.com/autowp/autowp](../records/go-github-com-autowp-autowp-42c97b6e.md) | v8.67.0+incompatible | 2026-08-30T15:29:14.715649Z | registry-derived |
 | [github.com/awesome-gocui/gocui](../records/go-github-com-awesome-gocui-gocui-5b9caa2a.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/awesome-gocui/gocui/_examples](../records/go-github-com-awesome-gocui-gocui-examples-285963ba.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/aws/aws-sdk-go-V2/config](../records/go-github-com-aws-aws-sdk-go-v2-config-f96fffc5.md) | v1.33.1 | 2026-08-30T16:30:23.203309Z | registry-derived |
 | [github.com/aws/aws-sdk-go-V2/service/pinpoint](../records/go-github-com-aws-aws-sdk-go-v2-service-pinpoint-ec704828.md) | v1.43.0 | 2026-08-30T14:08:10.268934Z | registry-derived |
-| [github.com/AXT-Studio/AtCoder-InBrowser-Playground](../records/go-github-com-axt-studio-atcoder-inbrowser-playground-821588fd.md) | v1.3.1 | 2026-08-30T14:08:57.485083Z | registry-derived |
+| [github.com/axt-studio/atcoder-inbrowser-playground](../records/go-github-com-axt-studio-atcoder-inbrowser-playground-821588fd.md) | v2.0.2+incompatible | 2026-08-30T16:30:58.659028Z | registry-derived |
 | [github.com/aya-rs/aya](../records/go-github-com-aya-rs-aya-406f152e.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/azet12/KADhosts](../records/go-github-com-azet12-kadhosts-eb031fee.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/azure/aro-hcp/internal](../records/go-github-com-azure-aro-hcp-internal-bb34b6f3.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/AZURE/azure-sdk-for-go/sdk/messaging/azservicebus](../records/go-github-com-azure-azure-sdk-for-go-sdk-messaging-azservicebus-77599960.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/backendstack21/odek](../records/go-github-com-backendstack21-odek-a83fa84d.md) | v1.30.0 | 2026-08-30T10:57:24.21901Z | registry-derived |
 | [github.com/ballaerospace/cosmos](../records/go-github-com-ballaerospace-cosmos-3777e48a.md) | v3.5.2+incompatible | 2026-08-30T14:08:47.813267Z | registry-derived |
@@ -279,22 +305,25 @@ Records: `758`
 | [github.com/bluesky/ophyd-async](../records/go-github-com-bluesky-ophyd-async-c31ebe83.md) | v0.6.0 | 2026-08-30T10:10:44.906439Z | registry-derived |
 | [github.com/bluestreak01/influxdb](../records/go-github-com-bluestreak01-influxdb-5aa6e2b4.md) | v0.0.3 | 2026-08-30T11:59:31.307114Z | registry-derived |
 | [github.com/bonifaido/pomerium](../records/go-github-com-bonifaido-pomerium-5fa92425.md) | v0.7.5 | 2026-08-30T15:31:15.443833Z | registry-derived |
+| [github.com/bradley-001/k-trace](../records/go-github-com-bradley-001-k-trace-f05648ca.md) | v0.1.0 | 2026-08-30T16:30:34.539133Z | registry-derived |
 | [github.com/brookhong/surfingkeys](../records/go-github-com-brookhong-surfingkeys-c7ec944b.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/browser-use/browser-use](../records/go-github-com-browser-use-browser-use-58f6c517.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [github.com/btc-vision/opnet](../records/go-github-com-btc-vision-opnet-191aa8ae.md) | v1.8.9 | 2026-08-30T11:59:14.184534Z | registry-derived |
+| [github.com/btc-vision/opnet](../records/go-github-com-btc-vision-opnet-191aa8ae.md) | v1.8.4 | 2026-08-30T16:30:55.00479Z | registry-derived |
 | [github.com/btc-vision/opwallet](../records/go-github-com-btc-vision-opwallet-a6f9fcf6.md) | v1.0.34 | 2026-08-30T12:50:41.232683Z | registry-derived |
 | [github.com/buptcozy/koordinator](../records/go-github-com-buptcozy-koordinator-70ca9d4e.md) | v0.4.1 | 2026-08-30T15:32:13.632106Z | registry-derived |
 | [github.com/butlergroup/env_encryption_tool](../records/go-github-com-butlergroup-env-encryption-tool-d10e4ba9.md) | v0.9.2 | 2026-08-30T11:58:52.883816Z | registry-derived |
+| [github.com/cameronbrooks11/zotgo](../records/go-github-com-cameronbrooks11-zotgo-41bb6c50.md) | v0.12.0 | 2026-08-30T16:31:09.862643Z | registry-derived |
 | [github.com/canopyide/canopy](../records/go-github-com-canopyide-canopy-7518ff5d.md) | v0.10.1 | 2026-08-30T10:08:13.562753Z | registry-derived |
 | [github.com/captheavenger/thedipidis](../records/go-github-com-captheavenger-thedipidis-1c7465dc.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/cartridge-gg/controller](../records/go-github-com-cartridge-gg-controller-0dc76964.md) | v0.13.5 | 2026-08-30T15:31:54.333323Z | registry-derived |
-| [github.com/CauldronUp/cauldron](../records/go-github-com-cauldronup-cauldron-2eea246f.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/cauldronup/cauldron](../records/go-github-com-cauldronup-cauldron-2eea246f.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/causalens/dara](../records/go-github-com-causalens-dara-62b298b0.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/cert-manager/cert-manager/cmd/acmesolver](../records/go-github-com-cert-manager-cert-manager-cmd-acmesolver-9e3ed19c.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/chainapsis/oko](../records/go-github-com-chainapsis-oko-ca39ed3c.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/chaitin/MonkeyCode](../records/go-github-com-chaitin-monkeycode-198fda83.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/chaoscondensate/cli](../records/go-github-com-chaoscondensate-cli-935f993f.md) | v0.5.2 | 2026-08-30T16:32:08.962315Z | registry-derived |
 | [github.com/chronicle20/atlas/libs/atlas-object-id](../records/go-github-com-chronicle20-atlas-libs-atlas-object-id-4f26f9bf.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [github.com/cisagov/dotgov](../records/go-github-com-cisagov-dotgov-64de0826.md) | v1.197.0 | 2026-08-30T11:59:14.291773Z | registry-derived |
+| [github.com/cisagov/dotgov](../records/go-github-com-cisagov-dotgov-64de0826.md) | v1.192.0 | 2026-08-30T16:31:16.32544Z | registry-derived |
 | [github.com/cjosey/openmoc](../records/go-github-com-cjosey-openmoc-54a46c44.md) | v0.1.4 | 2026-08-30T12:55:10.079756Z | registry-derived |
 | [github.com/ClareChu/static-server](../records/go-github-com-clarechu-static-server-4755856e.md) | v0.0.9 | 2026-08-30T10:54:25.380144Z | registry-derived |
 | [github.com/cnpack/cnvcl](../records/go-github-com-cnpack-cnvcl-66cde9d3.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
@@ -304,7 +333,7 @@ Records: `758`
 | [github.com/cognesy/instructor-php](../records/go-github-com-cognesy-instructor-php-6a01c2a9.md) | v2.9.0+incompatible | 2026-08-30T11:58:18.675284Z | registry-derived |
 | [github.com/conda-forge/feedstocks](../records/go-github-com-conda-forge-feedstocks-86e66c8c.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/contentauth/c2pa-c](../records/go-github-com-contentauth-c2pa-c-d2cd917e.md) | v0.17.0 | 2026-08-30T15:31:12.03504Z | registry-derived |
-| [github.com/Cosmos/Gogoproto](../records/go-github-com-cosmos-gogoproto-5e522f06.md) | v1.5.0 | 2026-08-30T14:08:27.618059Z | registry-derived |
+| [github.com/Cosmos/Gogoproto](../records/go-github-com-cosmos-gogoproto-5e522f06.md) | v1.4.10 | 2026-08-30T16:32:48.690199Z | registry-derived |
 | [github.com/crazy-max/WindowsSpyBlocker](../records/go-github-com-crazy-max-windowsspyblocker-c92cd8e8.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/crcn/sift.js](../records/go-github-com-crcn-sift-js-50a96aa4.md) | v13.1.10+incompatible | 2026-08-30T12:53:01.624068Z | registry-derived |
 | [github.com/creamcroissant/mgpanel](../records/go-github-com-creamcroissant-mgpanel-2bab3a2d.md) | v0.1.32 | 2026-08-30T11:58:00.23807Z | registry-derived |
@@ -312,6 +341,7 @@ Records: `758`
 | [github.com/crystalnix/omaha-server](../records/go-github-com-crystalnix-omaha-server-51319b0b.md) | v0.0.16 | 2026-08-30T12:52:13.8546Z | registry-derived |
 | [github.com/csa-admin-org/csa-admin](../records/go-github-com-csa-admin-org-csa-admin-486e1a7c.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/cspotcode/ts-node](../records/go-github-com-cspotcode-ts-node-705ca408.md) | v3.2.2+incompatible | 2026-08-30T12:51:23.57632Z | registry-derived |
+| [github.com/csswizardry/ct](../records/go-github-com-csswizardry-ct-4983d4a9.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/cyanheads/imf-mcp-server](../records/go-github-com-cyanheads-imf-mcp-server-0d603b04.md) | v0.1.3 | 2026-08-30T12:54:00.527989Z | registry-derived |
 | [github.com/cyclonedx/cyclonedx-dotnet-library](../records/go-github-com-cyclonedx-cyclonedx-dotnet-library-2565fbbe.md) | v8.0.2+incompatible | 2026-08-30T15:29:55.716193Z | registry-derived |
 | [github.com/cyoda-platform/cyoda-go-spi](../records/go-github-com-cyoda-platform-cyoda-go-spi-b9c94df5.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
@@ -321,7 +351,7 @@ Records: `758`
 | [github.com/dansup/pixelfed](../records/go-github-com-dansup-pixelfed-547d62b2.md) | v0.11.11 | 2026-08-30T15:31:18.594848Z | registry-derived |
 | [github.com/danverbraganza/requests](../records/go-github-com-danverbraganza-requests-99a882e3.md) | v0.10.1 | 2026-08-30T10:08:04.036462Z | registry-derived |
 | [github.com/dasevilla/requests](../records/go-github-com-dasevilla-requests-680dc1e6.md) | v0.2.2 | 2026-08-30T10:10:59.627481Z | registry-derived |
-| [github.com/davidwu226/apollo-codegen](../records/go-github-com-davidwu226-apollo-codegen-19d205c7.md) | v0.3.3 | 2026-08-30T14:07:29.928413Z | registry-derived |
+| [github.com/davidwu226/apollo-codegen](../records/go-github-com-davidwu226-apollo-codegen-19d205c7.md) | v0.3.0 | 2026-08-30T16:32:14.479381Z | registry-derived |
 | [github.com/defacto2/server](../records/go-github-com-defacto2-server-4f4a8bc3.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/DemoMacro/docen](../records/go-github-com-demomacro-docen-570556c4.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/detro/spelunk/v2](../records/go-github-com-detro-spelunk-v2-ddce91e6.md) | v2.2.1 | 2026-08-30T15:29:08.185588Z | registry-derived |
@@ -343,6 +373,7 @@ Records: `758`
 | [github.com/DJ2LS/FreeDATA](../records/go-github-com-dj2ls-freedata-17412510.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/djc/quinn](../records/go-github-com-djc-quinn-cd191f0f.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/djspiewak/sbt-github-actions](../records/go-github-com-djspiewak-sbt-github-actions-e6175f03.md) | v0.32.0 | 2026-08-30T10:57:11.778203Z | registry-derived |
+| [github.com/dkhamsing/open-source-ios-apps](../records/go-github-com-dkhamsing-open-source-ios-apps-a1dc4710.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/docker-library/haproxy](../records/go-github-com-docker-library-haproxy-d5611bdc.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/docker/CLI](../records/go-github-com-docker-cli-8ef1e0db.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/doctor-wu/core](../records/go-github-com-doctor-wu-core-3c427c05.md) | v3.2.21+incompatible | 2026-08-30T12:50:41.046194Z | registry-derived |
@@ -403,10 +434,18 @@ Records: `758`
 | [github.com/everbird/requests](../records/go-github-com-everbird-requests-7648208d.md) | v0.13.5 | 2026-08-30T10:09:59.583484Z | registry-derived |
 | [github.com/Exonical/go-kerberos](../records/go-github-com-exonical-go-kerberos-d8236d4d.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/eyevinn/strom](../records/go-github-com-eyevinn-strom-83143b41.md) | v0.4.11 | 2026-08-30T14:06:56.822407Z | registry-derived |
+| [github.com/fables-for-robots/jobs-iroh](../records/go-github-com-fables-for-robots-jobs-iroh-4fdced32.md) | v0.31.0 | 2026-08-30T16:30:16.305015Z | registry-derived |
+| [github.com/fabric-labs/polyester-sdk-go](../records/go-github-com-fabric-labs-polyester-sdk-go-cb970d00.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/fabricesalvaire/kicad-rw](../records/go-github-com-fabricesalvaire-kicad-rw-26f0d75b.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/fabricmc/fabric-docs](../records/go-github-com-fabricmc-fabric-docs-72945550.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/fabricmc/fabric-loader](../records/go-github-com-fabricmc-fabric-loader-cd5bbb8a.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/FabricMC/fabric-loom](../records/go-github-com-fabricmc-fabric-loom-c5bb401f.md) | v1.17.20 | 2026-08-30T16:31:32.723891Z | registry-derived |
+| [github.com/fabricmc/mixin](../records/go-github-com-fabricmc-mixin-b381b4c9.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/falkcorp/audiobook-organizer](../records/go-github-com-falkcorp-audiobook-organizer-885064db.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/fallen-breath/mcdreforged](../records/go-github-com-fallen-breath-mcdreforged-c88b02f2.md) | v2.14.3+incompatible | 2026-08-30T15:31:45.322267Z | registry-derived |
-| [github.com/FATAL1TY/mashumaro](../records/go-github-com-fatal1ty-mashumaro-6178b1c0.md) | v3.8.1+incompatible | 2026-08-30T14:08:21.247513Z | registry-derived |
-| [github.com/fdebijl/opentitles.scraper](../records/go-github-com-fdebijl-opentitles-scraper-c4d758bc.md) | v1.38.0 | 2026-08-30T11:58:36.197553Z | registry-derived |
+| [github.com/faradey/madock/v4](../records/go-github-com-faradey-madock-v4-0951c9f2.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/FATAL1TY/mashumaro](../records/go-github-com-fatal1ty-mashumaro-6178b1c0.md) | v3.0.4+incompatible | 2026-08-30T16:32:49.853868Z | registry-derived |
+| [github.com/fdebijl/opentitles.scraper](../records/go-github-com-fdebijl-opentitles-scraper-c4d758bc.md) | v1.34.1 | 2026-08-30T16:30:22.606896Z | registry-derived |
 | [github.com/felixmaier1989/hubspot-php](../records/go-github-com-felixmaier1989-hubspot-php-a9d52c4c.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/fengshao1227/ccg-workflow](../records/go-github-com-fengshao1227-ccg-workflow-5c46df38.md) | v3.6.2+incompatible | 2026-08-30T10:09:59.228996Z | registry-derived |
 | [github.com/fidget-spinner/cpython](../records/go-github-com-fidget-spinner-cpython-2ad2c51e.md) | v3.4.2+incompatible | 2026-08-30T12:52:34.364058Z | registry-derived |
@@ -425,11 +464,13 @@ Records: `758`
 | [github.com/gardener/Gardener](../records/go-github-com-gardener-gardener-de30127b.md) | v1.22.4 | 2026-08-30T12:52:49.633014Z | registry-derived |
 | [github.com/gaucho-racing/mapache](../records/go-github-com-gaucho-racing-mapache-c766cbcd.md) | v3.10.2+incompatible | 2026-08-30T12:54:53.159125Z | registry-derived |
 | [github.com/geiserx/tailscale-rs](../records/go-github-com-geiserx-tailscale-rs-84a47881.md) | v0.43.2 | 2026-08-30T10:10:44.27797Z | registry-derived |
+| [github.com/gentleman-programming/gentle-ai/v2](../records/go-github-com-gentleman-programming-gentle-ai-v2-b19728fd.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/gentoo-mirror/gentoo](../records/go-github-com-gentoo-mirror-gentoo-ae6efac0.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/Gentoo/gentoo](../records/go-github-com-gentoo-gentoo-7eb152b2.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/gerege-systems/open-gerege-nexus](../records/go-github-com-gerege-systems-open-gerege-nexus-1104eb72.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/getlarge/themoltnet](../records/go-github-com-getlarge-themoltnet-ba379664.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/ghiac/agentize](../records/go-github-com-ghiac-agentize-f2ffc832.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/glowstonemc/glowstone](../records/go-github-com-glowstonemc-glowstone-f91396d9.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/gmb-lib/go-platform-kit](../records/go-github-com-gmb-lib-go-platform-kit-b6e72ef9.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/gmb-lib/go-web-eid](../records/go-github-com-gmb-lib-go-web-eid-1a06288d.md) | v0.15.2 | 2026-08-30T11:59:14.501457Z | registry-derived |
 | [github.com/gnome/evince](../records/go-github-com-gnome-evince-55bef26a.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
@@ -437,7 +478,9 @@ Records: `758`
 | [github.com/go-composites/boolean](../records/go-github-com-go-composites-boolean-de028e23.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/go-composites/number](../records/go-github-com-go-composites-number-2a7c0e71.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/go-composites/string](../records/go-github-com-go-composites-string-b8ee47b6.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/go-gfx/gfx](../records/go-github-com-go-gfx-gfx-59ed0f8e.md) | v0.18.0 | 2026-08-30T16:31:23.475172Z | registry-derived |
 | [github.com/go-git/Go-git](../records/go-github-com-go-git-go-git-fd2a7746.md) | v3.0.1+incompatible | 2026-08-30T11:58:40.273244Z | registry-derived |
+| [github.com/go-openapi/jsonreference](../records/go-github-com-go-openapi-jsonreference-9701cbe6.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/go-pdfkit/ops](../records/go-github-com-go-pdfkit-ops-4190329a.md) | v0.9.0 | 2026-08-30T12:53:00.249734Z | registry-derived |
 | [github.com/go-swagger/go-swaggeR](../records/go-github-com-go-swagger-go-swagger-8c466b8d.md) | v0.36.3 | 2026-08-30T15:32:23.231864Z | registry-derived |
 | [github.com/go-widgets/toolkit](../records/go-github-com-go-widgets-toolkit-30cbeb12.md) | v0.288.0 | 2026-08-30T12:51:09.781998Z | registry-derived |
@@ -449,17 +492,21 @@ Records: `758`
 | [github.com/google/mug](../records/go-github-com-google-mug-e6e053f4.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/Google/protobuf](../records/go-github-com-google-protobuf-c177f65d.md) | v3.25.4+incompatible | 2026-08-30T10:07:50.558407Z | registry-derived |
 | [github.com/goplus/llgo](../records/go-github-com-goplus-llgo-9f2f8085.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/Grafana/Grafana-App-Sdk](../records/go-github-com-grafana-grafana-app-sdk-2d28628f.md) | v0.15.3 | 2026-08-30T16:32:55.00317Z | registry-derived |
 | [github.com/grafana/k6-docs](../records/go-github-com-grafana-k6-docs-c48f727d.md) | v0.47.7 | 2026-08-30T14:10:31.442808Z | registry-derived |
 | [github.com/gregkonush/lab](../records/go-github-com-gregkonush-lab-9fe5e5c1.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/Hashicorp/Terraform](../records/go-github-com-hashicorp-terraform-0301b56e.md) | v0.7.13 | 2026-08-30T14:08:25.866155Z | registry-derived |
 | [github.com/heathcliff26/containers](../records/go-github-com-heathcliff26-containers-b2b0c464.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [github.com/heso-inc/heso](../records/go-github-com-heso-inc-heso-1b13f1df.md) | v0.1.3 | 2026-08-30T14:08:39.4842Z | registry-derived |
+| [github.com/heimdal/heimdal](../records/go-github-com-heimdal-heimdal-16b285a9.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/heso-inc/heso](../records/go-github-com-heso-inc-heso-1b13f1df.md) | v0.1.0 | 2026-08-30T16:32:50.584726Z | registry-derived |
 | [github.com/holepunchto/bare-url](../records/go-github-com-holepunchto-bare-url-97d4f140.md) | v1.0.1 | 2026-08-30T15:30:43.138868Z | registry-derived |
-| [github.com/home-Assistant/core](../records/go-github-com-home-assistant-core-3178128a.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/holoviz/param](../records/go-github-com-holoviz-param-59b642d6.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/home-assistant/core](../records/go-github-com-home-assistant-core-3178128a.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/HomeBREW/homebrew-core](../records/go-github-com-homebrew-homebrew-core-4d0d1148.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/hongch666/mix-web-demo](../records/go-github-com-hongch666-mix-web-demo-6416addc.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/huard/xarray](../records/go-github-com-huard-xarray-120ae1b8.md) | v0.7.0 | 2026-08-30T15:30:38.709034Z | registry-derived |
 | [github.com/huggingface/kernels](../records/go-github-com-huggingface-kernels-38f97f20.md) | v0.12.1 | 2026-08-30T11:56:35.37666Z | registry-derived |
+| [github.com/hyperium/h2](../records/go-github-com-hyperium-h2-64781b67.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/iabtechlab/uid2-operator](../records/go-github-com-iabtechlab-uid2-operator-1ed5d74f.md) | v5.70.277+incompatible | 2026-08-30T12:55:29.057107Z | registry-derived |
 | [github.com/ibm/fp-go/v2](../records/go-github-com-ibm-fp-go-v2-fd73d754.md) | v2.3.116 | 2026-08-30T10:54:01.07248Z | registry-derived |
 | [github.com/IceWhaleTech/casaos-userservice](../records/go-github-com-icewhaletech-casaos-userservice-b4ebf1da.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
@@ -479,7 +526,9 @@ Records: `758`
 | [github.com/JaNDeDoBbEleEr/oh-my-posh](../records/go-github-com-jandedobbeleer-oh-my-posh-7600e44a.md) | v29.20.1+incompatible | 2026-08-30T11:58:30.65769Z | registry-derived |
 | [github.com/jborean93/smbprotocol](../records/go-github-com-jborean93-smbprotocol-d568bb1f.md) | v1.16.0 | 2026-08-30T14:10:18.868025Z | registry-derived |
 | [github.com/jfrog/jfrog-cli-artifactory](../records/go-github-com-jfrog-jfrog-cli-artifactory-406adbdd.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/jgravelle/jcodemunch-mcp](../records/go-github-com-jgravelle-jcodemunch-mcp-faac1bb4.md) | v1.108.310 | 2026-08-30T16:32:51.589581Z | registry-derived |
 | [github.com/jhalcrow/requests](../records/go-github-com-jhalcrow-requests-1c0ad59b.md) | v0.13.5 | 2026-08-30T10:10:29.446965Z | registry-derived |
+| [github.com/jimbugwadia/kyverno](../records/go-github-com-jimbugwadia-kyverno-acacc2f5.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/jinzcdev/vscode-pintia](../records/go-github-com-jinzcdev-vscode-pintia-35080d43.md) | v0.7.3 | 2026-08-30T15:29:48.790979Z | registry-derived |
 | [github.com/jmthomas/cosmos](../records/go-github-com-jmthomas-cosmos-7274b724.md) | v4.4.2+incompatible | 2026-08-30T15:30:29.951246Z | registry-derived |
 | [github.com/job-hunter-toolkit/job-hunter-toolkit](../records/go-github-com-job-hunter-toolkit-job-hunter-toolkit-fcc8e8ef.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
@@ -492,7 +541,7 @@ Records: `758`
 | [github.com/juhas/requests](../records/go-github-com-juhas-requests-f6fadbe9.md) | v0.10.6 | 2026-08-30T10:09:57.959316Z | registry-derived |
 | [github.com/juliaCollections/OrderedCollections.jl](../records/go-github-com-juliacollections-orderedcollections-jl-c3ab6962.md) | v1.4.0 | 2026-08-30T15:31:09.448792Z | registry-derived |
 | [github.com/juliaio/mat.jl](../records/go-github-com-juliaio-mat-jl-ee6b867b.md) | v0.4.0 | 2026-08-30T15:30:54.338199Z | registry-derived |
-| [github.com/JuliaLAng/JSON.jl](../records/go-github-com-julialang-json-jl-c6eff0f9.md) | v0.7.0 | 2026-08-30T11:57:40.371526Z | registry-derived |
+| [github.com/julialang/json.jl](../records/go-github-com-julialang-json-jl-c6eff0f9.md) | v0.5.2 | 2026-08-30T16:30:56.32104Z | registry-derived |
 | [github.com/juliaparallel/dagger.jl](../records/go-github-com-juliaparallel-dagger-jl-8e9098da.md) | v0.14.4 | 2026-08-30T11:56:35.285612Z | registry-derived |
 | [github.com/just-every/code](../records/go-github-com-just-every-code-debd163d.md) | v0.6.150 | 2026-08-30T12:55:01.76007Z | registry-derived |
 | [github.com/jzbjyb/lm-calibration](../records/go-github-com-jzbjyb-lm-calibration-976c170a.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
@@ -501,7 +550,7 @@ Records: `758`
 | [github.com/Karlgw/azcfg](../records/go-github-com-karlgw-azcfg-08a9c30f.md) | v0.22.0 | 2026-08-30T12:55:22.649611Z | registry-derived |
 | [github.com/karotte128/apiutils/v2](../records/go-github-com-karotte128-apiutils-v2-c03795f3.md) | v2.0.0 | 2026-08-30T10:09:19.959004Z | registry-derived |
 | [github.com/kblok/playwright](../records/go-github-com-kblok-playwright-061d25f2.md) | v1.6.1 | 2026-08-30T12:51:16.082892Z | registry-derived |
-| [github.com/kbrgl/true-myth](../records/go-github-com-kbrgl-true-myth-e63aa010.md) | v0.8.1 | 2026-08-30T11:58:20.788733Z | registry-derived |
+| [github.com/kbrgl/true-myth](../records/go-github-com-kbrgl-true-myth-e63aa010.md) | v0.3.2 | 2026-08-30T16:29:42.503461Z | registry-derived |
 | [github.com/kbukum/gokit/connect/testutil](../records/go-github-com-kbukum-gokit-connect-testutil-b056f270.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/kdraigo/dev_sdk](../records/go-github-com-kdraigo-dev-sdk-76a1858c.md) | v1.0.5 | 2026-08-30T14:10:27.458037Z | registry-derived |
 | [github.com/kdroidfilter/nucleus](../records/go-github-com-kdroidfilter-nucleus-a6cb0f67.md) | v2.4.2+incompatible | 2026-08-30T14:09:09.343336Z | registry-derived |
@@ -531,7 +580,7 @@ Records: `758`
 | [github.com/kubernetes/node-problem-detector/test](../records/go-github-com-kubernetes-node-problem-detector-test-e1834e61.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/kumparan/cacher](../records/go-github-com-kumparan-cacher-403eb036.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/kyverno/kyverno/hack/controller-gen](../records/go-github-com-kyverno-kyverno-hack-controller-gen-b4da8e44.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [github.com/kzrnm/sourceexpander](../records/go-github-com-kzrnm-sourceexpander-11eb37a9.md) | v2.0.0+incompatible | 2026-08-30T14:07:48.084978Z | registry-derived |
+| [github.com/kzrnm/sourceexpander](../records/go-github-com-kzrnm-sourceexpander-11eb37a9.md) | v9.0.1+incompatible | 2026-08-30T16:32:45.509943Z | registry-derived |
 | [github.com/layertwo-labs/sidesail](../records/go-github-com-layertwo-labs-sidesail-e8bca6a9.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/layertwo-labs/sidesail/sidechain-orchestrator](../records/go-github-com-layertwo-labs-sidesail-sidechain-orchestrator-1d65a392.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/Layr-Labs/eigenlayer-Contracts](../records/go-github-com-layr-labs-eigenlayer-contracts-d6940a3a.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
@@ -539,8 +588,9 @@ Records: `758`
 | [github.com/ldicarlo/legifrss](../records/go-github-com-ldicarlo-legifrss-2c2c531f.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/ledgerhq/ledger-app-workflows](../records/go-github-com-ledgerhq-ledger-app-workflows-c5829625.md) | v1.62.0 | 2026-08-30T12:52:12.551818Z | registry-derived |
 | [github.com/lesismal/NBIO](../records/go-github-com-lesismal-nbio-3b4f3a45.md) | v1.5.10 | 2026-08-30T12:53:17.552999Z | registry-derived |
-| [github.com/lexmata/daimon](../records/go-github-com-lexmata-daimon-d5185897.md) | v0.15.0 | 2026-08-30T11:59:11.211284Z | registry-derived |
+| [github.com/lexmata/daimon](../records/go-github-com-lexmata-daimon-d5185897.md) | v0.2.0 | 2026-08-30T16:30:54.01942Z | registry-derived |
 | [github.com/libnice/libnice](../records/go-github-com-libnice-libnice-6605a40c.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/libretro/libretro-super](../records/go-github-com-libretro-libretro-super-bc1dae87.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/lidge-jun/opencodex](../records/go-github-com-lidge-jun-opencodex-5f1e9d8a.md) | v2.36.0+incompatible | 2026-08-30T11:58:01.072426Z | registry-derived |
 | [github.com/lihongjie0209/microservice-platform-go](../records/go-github-com-lihongjie0209-microservice-platform-go-259e877a.md) | v0.5.0 | 2026-08-30T11:58:12.425496Z | registry-derived |
 | [github.com/lihongjie0209/platform-protos](../records/go-github-com-lihongjie0209-platform-protos-f9119217.md) | v0.10.0 | 2026-08-30T11:56:59.585454Z | registry-derived |
@@ -563,7 +613,7 @@ Records: `758`
 | [github.com/MadAppGang/infrastructure](../records/go-github-com-madappgang-infrastructure-f3734eb0.md) | v4.4.1+incompatible | 2026-08-30T10:10:19.146647Z | registry-derived |
 | [github.com/madhavajay/alex](../records/go-github-com-madhavajay-alex-67d11a5c.md) | v0.1.15 | 2026-08-30T14:09:02.552036Z | registry-derived |
 | [github.com/madpsy/ka9q_ubersdr](../records/go-github-com-madpsy-ka9q-ubersdr-4c14c0c3.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [github.com/MagicStack/AsyncPG](../records/go-github-com-magicstack-asyncpg-25341917.md) | v0.8.1 | 2026-08-30T11:58:50.648629Z | registry-derived |
+| [github.com/MagicStack/AsyncPG](../records/go-github-com-magicstack-asyncpg-25341917.md) | v0.6.0 | 2026-08-30T16:30:24.152278Z | registry-derived |
 | [github.com/MahdiBaghbani/opencloudmesh-go](../records/go-github-com-mahdibaghbani-opencloudmesh-go-b2d89155.md) | v1.3.0 | 2026-08-30T15:32:14.749313Z | registry-derived |
 | [github.com/majikah/majik-file](../records/go-github-com-majikah-majik-file-97f7642e.md) | v0.1.7 | 2026-08-30T10:09:29.501328Z | registry-derived |
 | [github.com/mallardduck/dirio/api](../records/go-github-com-mallardduck-dirio-api-0da1705e.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
@@ -579,6 +629,7 @@ Records: `758`
 | [github.com/maxogden/electron-packager](../records/go-github-com-maxogden-electron-packager-c83ccfa1.md) | v11.2.0+incompatible | 2026-08-30T12:53:13.785963Z | registry-derived |
 | [github.com/mayahiro/go-tidb](../records/go-github-com-mayahiro-go-tidb-0134b18f.md) | v0.2.0 | 2026-08-30T15:30:58.323198Z | registry-derived |
 | [github.com/mcgill-nlp/instruct-qa](../records/go-github-com-mcgill-nlp-instruct-qa-899b5416.md) | v0.0.2 | 2026-08-30T15:30:29.108996Z | registry-derived |
+| [github.com/mehrtat/disposable-email-domain](../records/go-github-com-mehrtat-disposable-email-domain-8fe214b5.md) | v1.0.51 | 2026-08-30T16:29:48.881488Z | registry-derived |
 | [github.com/Mellanox/sriov-network-device-plugin](../records/go-github-com-mellanox-sriov-network-device-plugin-6474f463.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/memormaneo/whyopen](../records/go-github-com-memormaneo-whyopen-22fa68bc.md) | v0.5.0 | 2026-08-30T14:10:08.222843Z | registry-derived |
 | [github.com/miabi-io/miabi](../records/go-github-com-miabi-io-miabi-cb3b03b7.md) | v1.9.2 | 2026-08-30T10:07:52.841152Z | registry-derived |
@@ -590,6 +641,7 @@ Records: `758`
 | [github.com/microsoft/kiota-authentication-Azure-go](../records/go-github-com-microsoft-kiota-authentication-azure-go-c2226a6d.md) | v0.4.1 | 2026-08-30T11:58:50.740263Z | registry-derived |
 | [github.com/midagedev/wails/v3](../records/go-github-com-midagedev-wails-v3-0b17dc96.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/milvus-io/milvus](../records/go-github-com-milvus-io-milvus-723fbcf9.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/mindburn-labs/helm-oss/core](../records/go-github-com-mindburn-labs-helm-oss-core-7b2563d0.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/minio/minio-go/v7](../records/go-github-com-minio-minio-go-v7-e65d1e44.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/misskey-dev/misskey](../records/go-github-com-misskey-dev-misskey-f90b0abd.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/mitodl/ocw-studio](../records/go-github-com-mitodl-ocw-studio-6a059a97.md) | v0.94.1 | 2026-08-30T15:31:11.319322Z | registry-derived |
@@ -600,22 +652,30 @@ Records: `758`
 | [github.com/mondoohq/cnquery/providers/aws](../records/go-github-com-mondoohq-cnquery-providers-aws-6d3ed034.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/monijaman/go-microservices](../records/go-github-com-monijaman-go-microservices-09452be3.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/monologg/kobigbird](../records/go-github-com-monologg-kobigbird-d3fcc68c.md) | v1.0.0 | 2026-08-30T15:30:25.166538Z | registry-derived |
+| [github.com/mpi4py/mpi4py](../records/go-github-com-mpi4py-mpi4py-554a0adf.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/Mtougeron/k8s-pvc-tagger](../records/go-github-com-mtougeron-k8s-pvc-tagger-720190c8.md) | v1.0.4 | 2026-08-30T11:58:10.545497Z | registry-derived |
 | [github.com/mudler/localai](../records/go-github-com-mudler-localai-d1144ad7.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [github.com/naipia/procon-tools](../records/go-github-com-naipia-procon-tools-4746fcf9.md) | v0.5.0 | 2026-08-30T14:07:02.802228Z | registry-derived |
+| [github.com/mudler/yip](../records/go-github-com-mudler-yip-0f60e7c8.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/nadana/charplan](../records/go-github-com-nadana-charplan-869716d4.md) | v6.2.2+incompatible | 2026-08-30T16:30:53.914628Z | registry-derived |
+| [github.com/naipia/procon-tools](../records/go-github-com-naipia-procon-tools-4746fcf9.md) | v0.3.0 | 2026-08-30T16:32:14.625688Z | registry-derived |
 | [github.com/nathants/go-dynamolock](../records/go-github-com-nathants-go-dynamolock-95cf4771.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/nats-io/nats.net.v2](../records/go-github-com-nats-io-nats-net-v2-27f59ec1.md) | v2.1.0+incompatible | 2026-08-30T12:51:21.826083Z | registry-derived |
+| [github.com/NEOVim/libvterm](../records/go-github-com-neovim-libvterm-24384a59.md) | v0.1.3 | 2026-08-30T16:29:38.498455Z | registry-derived |
 | [github.com/netlify/netlify-plugin-nextjs](../records/go-github-com-netlify-netlify-plugin-nextjs-ff0c5752.md) | v1.0.6 | 2026-08-30T12:53:35.061347Z | registry-derived |
 | [github.com/ng-select/ng-select](../records/go-github-com-ng-select-ng-select-f8e605c9.md) | v24.0.4+incompatible | 2026-08-30T10:56:36.124726Z | registry-derived |
 | [github.com/ngng628/atcoder-submit-status](../records/go-github-com-ngng628-atcoder-submit-status-2d86c7a9.md) | v0.0.3 | 2026-08-30T14:06:55.074432Z | registry-derived |
 | [github.com/nicknisi/fleet](../records/go-github-com-nicknisi-fleet-b23a663c.md) | v0.18.1 | 2026-08-30T15:30:59.90976Z | registry-derived |
+| [github.com/nikicat/browser-web3-signer](../records/go-github-com-nikicat-browser-web3-signer-5c15dcd1.md) | v0.3.1 | 2026-08-30T16:32:05.550924Z | registry-derived |
+| [github.com/nikicat/browser-web3-signer/go](../records/go-github-com-nikicat-browser-web3-signer-go-41ca9f1a.md) | v0.3.1 | 2026-08-30T16:31:40.672345Z | registry-derived |
 | [github.com/Nikita-Filonov/axiom/plugins/testexplain](../records/go-github-com-nikita-filonov-axiom-plugins-testexplain-a39468f9.md) | v0.5.0 | 2026-08-30T11:57:34.595504Z | registry-derived |
-| [github.com/nix-community/NUR](../records/go-github-com-nix-community-nur-9a037fcd.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/nix-community/nur](../records/go-github-com-nix-community-nur-9a037fcd.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/nodebb/nodebb-plugin-write-api](../records/go-github-com-nodebb-nodebb-plugin-write-api-7794dbd8.md) | v5.8.5+incompatible | 2026-08-30T14:10:20.526912Z | registry-derived |
+| [github.com/nomadcxx/sysc-metrics](../records/go-github-com-nomadcxx-sysc-metrics-689bc0f7.md) | v0.1.0 | 2026-08-30T16:31:52.381877Z | registry-derived |
 | [github.com/nostr-wot/nostr-wot-sdk](../records/go-github-com-nostr-wot-nostr-wot-sdk-d40f5d73.md) | v0.4.1 | 2026-08-30T11:59:24.782997Z | registry-derived |
-| [github.com/novatecconsulting/micronaut-camunda-bpm](../records/go-github-com-novatecconsulting-micronaut-camunda-bpm-82446b75.md) | v2.8.0+incompatible | 2026-08-30T11:58:39.464754Z | registry-derived |
+| [github.com/novatecconsulting/micronaut-camunda-bpm](../records/go-github-com-novatecconsulting-micronaut-camunda-bpm-82446b75.md) | v0.17.0 | 2026-08-30T16:30:57.889479Z | registry-derived |
 | [github.com/novuhq/Novu](../records/go-github-com-novuhq-novu-329c199e.md) | v0.11.0 | 2026-08-30T10:56:56.780012Z | registry-derived |
-| [github.com/npiesco/wasmi](../records/go-github-com-npiesco-wasmi-82fa8f7d.md) | v0.26.1 | 2026-08-30T11:59:12.377732Z | registry-derived |
+| [github.com/nox-hq/nox-core](../records/go-github-com-nox-hq-nox-core-29253020.md) | v0.2.2 | 2026-08-30T16:30:21.163115Z | registry-derived |
+| [github.com/npiesco/wasmi](../records/go-github-com-npiesco-wasmi-82fa8f7d.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/nucleusframework/nucleus](../records/go-github-com-nucleusframework-nucleus-d48c10ec.md) | v1.3.5 | 2026-08-30T14:09:17.970067Z | registry-derived |
 | [github.com/nugine/s3s](../records/go-github-com-nugine-s3s-4ec87890.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/Null-nil/cosmos-sdk/store](../records/go-github-com-null-nil-cosmos-sdk-store-9c8f42c8.md) | v1.1.0 | 2026-08-30T14:10:27.085033Z | registry-derived |
@@ -627,7 +687,7 @@ Records: `758`
 | [github.com/oauth2-proxy/Oauth2-proxy/v7](../records/go-github-com-oauth2-proxy-oauth2-proxy-v7-8253856d.md) | v7.7.1 | 2026-08-30T11:56:36.212448Z | registry-derived |
 | [github.com/OCA/OpenUpgrade](../records/go-github-com-oca-openupgrade-58a7aa58.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/ocelot-social-community/ocelot-social](../records/go-github-com-ocelot-social-community-ocelot-social-584c2bd9.md) | v0.1.9 | 2026-08-30T15:31:31.477771Z | registry-derived |
-| [github.com/octokit/request](../records/go-github-com-octokit-request-399e34c6.md) | v5.3.1+incompatible | 2026-08-30T11:58:55.58808Z | registry-derived |
+| [github.com/octokit/request](../records/go-github-com-octokit-request-399e34c6.md) | v5.0.3+incompatible | 2026-08-30T16:31:30.437334Z | registry-derived |
 | [github.com/olicesx/outbound](../records/go-github-com-olicesx-outbound-d7721aff.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/olicesx/quic-go](../records/go-github-com-olicesx-quic-go-3a98699c.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/omaha-consulting/omaha-server](../records/go-github-com-omaha-consulting-omaha-server-b30c69c6.md) | v0.0.17 | 2026-08-30T11:57:48.976574Z | registry-derived |
@@ -638,9 +698,11 @@ Records: `758`
 | [github.com/open-telemetry/opentelemetry-collector-contrib/receiver/kubeletstatsreceiver](../records/go-github-com-open-telemetry-opentelemetry-collector-contrib-receiver-kubeletstatsreceiver-6aa4e49f.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/open-telemetry/opentelemetry-go/exporters/zipkin](../records/go-github-com-open-telemetry-opentelemetry-go-exporters-zipkin-9eb5c859.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/openagi2/cordcode-macbridge](../records/go-github-com-openagi2-cordcode-macbridge-5ffc6c28.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/openbkn-ai/bkn-foundry](../records/go-github-com-openbkn-ai-bkn-foundry-8db4c204.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/opencats/OpenCATS](../records/go-github-com-opencats-opencats-d3dcea60.md) | v0.11.0 | 2026-08-30T15:30:48.460054Z | registry-derived |
 | [github.com/opencharly/sdk](../records/go-github-com-opencharly-sdk-8595a67b.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/opencharly/spec](../records/go-github-com-opencharly-spec-bd6243ce.md) | v0.2026242.1042 | 2026-08-30T10:54:05.701249Z | registry-derived |
+| [github.com/openchemistry/avogadrolibs](../records/go-github-com-openchemistry-avogadrolibs-b038c36c.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/openclaw/openclaw](../records/go-github-com-openclaw-openclaw-409e7b49.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/openfoodfoundation/spree](../records/go-github-com-openfoodfoundation-spree-c49c626c.md) | v1.1.0 | 2026-08-30T12:53:22.418545Z | registry-derived |
 | [github.com/openova-io/openova/core/controllers](../records/go-github-com-openova-io-openova-core-controllers-88543adb.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
@@ -648,16 +710,17 @@ Records: `758`
 | [github.com/openova-io/openova/core/services/shared](../records/go-github-com-openova-io-openova-core-services-shared-abb1a235.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/OPENROuterTeam/go-sdk](../records/go-github-com-openrouterteam-go-sdk-714f87cf.md) | v0.7.97 | 2026-08-30T15:32:15.291395Z | registry-derived |
 | [github.com/openstack/openstack](../records/go-github-com-openstack-openstack-c6069627.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [github.com/OPENSUSE/umoci](../records/go-github-com-opensuse-umoci-97f4daa3.md) | v0.3.0 | 2026-08-30T14:08:37.002263Z | registry-derived |
+| [github.com/OPENSUSE/umoci](../records/go-github-com-opensuse-umoci-97f4daa3.md) | v0.1.0 | 2026-08-30T16:32:47.498715Z | registry-derived |
 | [github.com/openzeppelin/openzeppelin-contracts-ethereum-package](../records/go-github-com-openzeppelin-openzeppelin-contracts-ethereum-package-1b4720df.md) | v4.9.2+incompatible | 2026-08-30T12:55:28.077218Z | registry-derived |
-| [github.com/operator-framework/Operator-SDK](../records/go-github-com-operator-framework-operator-sdk-8aec339e.md) | v0.3.0 | 2026-08-30T14:06:56.117733Z | registry-derived |
-| [github.com/oplik0/nodebb](../records/go-github-com-oplik0-nodebb-8188a0ed.md) | v1.9.0 | 2026-08-30T14:06:29.429975Z | registry-derived |
+| [github.com/operator-framework/Operator-SDK](../records/go-github-com-operator-framework-operator-sdk-8aec339e.md) | v0.1.1 | 2026-08-30T16:32:17.505314Z | registry-derived |
+| [github.com/oplik0/nodebb](../records/go-github-com-oplik0-nodebb-8188a0ed.md) | v1.8.0 | 2026-08-30T16:31:27.840341Z | registry-derived |
 | [github.com/opulentfox-29/protonmail-api-client](../records/go-github-com-opulentfox-29-protonmail-api-client-cbac5d5b.md) | v2.1.0+incompatible | 2026-08-30T10:10:03.015995Z | registry-derived |
 | [github.com/opuu/termwind](../records/go-github-com-opuu-termwind-2f03c288.md) | v1.2.0 | 2026-08-30T15:30:37.494334Z | registry-derived |
 | [github.com/oscharko-dev/keiko](../records/go-github-com-oscharko-dev-keiko-119c6c72.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/Ostorlab/oxo](../records/go-github-com-ostorlab-oxo-dbc289ce.md) | v2.9.27+incompatible | 2026-08-30T12:51:57.167062Z | registry-derived |
 | [github.com/oudwins/zog](../records/go-github-com-oudwins-zog-9b862e33.md) | v0.23.0 | 2026-08-30T14:07:38.730509Z | registry-derived |
 | [github.com/owncast/owncast.github.io](../records/go-github-com-owncast-owncast-github-io-3ee8bee1.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/pablobfonseca/dotfiles](../records/go-github-com-pablobfonseca-dotfiles-9ce45b84.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/Pactus-project/pactus](../records/go-github-com-pactus-project-pactus-7eb38b11.md) | v1.6.0 | 2026-08-30T12:51:06.88174Z | registry-derived |
 | [github.com/pagopa/io-wallet-sdk](../records/go-github-com-pagopa-io-wallet-sdk-b56518a7.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/partiql/partiql-lang-kotlin](../records/go-github-com-partiql-partiql-lang-kotlin-6fb586e1.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
@@ -666,7 +729,8 @@ Records: `758`
 | [github.com/pflow-xyz/pflow-rs](../records/go-github-com-pflow-xyz-pflow-rs-18e0c060.md) | v0.2.2 | 2026-08-30T11:59:23.642663Z | registry-derived |
 | [github.com/photostructure/exiftool-vendored.js](../records/go-github-com-photostructure-exiftool-vendored-js-9dca0ac0.md) | v28.5.0+incompatible | 2026-08-30T10:10:35.990354Z | registry-derived |
 | [github.com/photostructure/photostructure-for-servers](../records/go-github-com-photostructure-photostructure-for-servers-af0063d6.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [github.com/pichalite/nodebb](../records/go-github-com-pichalite-nodebb-aa6ae578.md) | v0.6.0 | 2026-08-30T11:58:38.404721Z | registry-derived |
+| [github.com/php/php-src](../records/go-github-com-php-php-src-3482597f.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/pichalite/nodebb](../records/go-github-com-pichalite-nodebb-aa6ae578.md) | v0.5.3 | 2026-08-30T16:31:02.960887Z | registry-derived |
 | [github.com/piever/structarrays.jl](../records/go-github-com-piever-structarrays-jl-95714dbf.md) | v0.4.0 | 2026-08-30T15:30:24.514769Z | registry-derived |
 | [github.com/pion/webrtc/v4](../records/go-github-com-pion-webrtc-v4-9a3f5e49.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/pittcsc/summer2022-internships](../records/go-github-com-pittcsc-summer2022-internships-188b5a2b.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
@@ -684,19 +748,21 @@ Records: `758`
 | [github.com/protonmail/design-system](../records/go-github-com-protonmail-design-system-a4d77ba8.md) | v1.6.5 | 2026-08-30T12:54:27.998753Z | registry-derived |
 | [github.com/protonmail/proton-pack](../records/go-github-com-protonmail-proton-pack-d4fb585e.md) | v1.7.9 | 2026-08-30T10:08:26.602211Z | registry-derived |
 | [github.com/provasign/grove](../records/go-github-com-provasign-grove-80f138a5.md) | v0.40.0 | 2026-08-30T11:58:54.717559Z | registry-derived |
-| [github.com/ProxyScrape/free-proxy-list](../records/go-github-com-proxyscrape-free-proxy-list-7bb5ef8c.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/proxmint/free-proxy-list](../records/go-github-com-proxmint-free-proxy-list-40512588.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/proxyscrape/free-proxy-list](../records/go-github-com-proxyscrape-free-proxy-list-7bb5ef8c.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/proxyscraper/proxyscraper](../records/go-github-com-proxyscraper-proxyscraper-4f472039.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/PudottaPommin/golib](../records/go-github-com-pudottapommin-golib-85f5186f.md) | v0.1.3 | 2026-08-30T10:57:14.966547Z | registry-derived |
 | [github.com/pUerkitoBio/goquery](../records/go-github-com-puerkitobio-goquery-b1084de1.md) | v1.4.0 | 2026-08-30T12:50:41.984099Z | registry-derived |
 | [github.com/pulseaiclub/yaegi](../records/go-github-com-pulseaiclub-yaegi-5b6345e1.md) | v0.16.3 | 2026-08-30T10:07:33.358648Z | registry-derived |
 | [github.com/Pulumi/pulumi-aws](../records/go-github-com-pulumi-pulumi-aws-971f1ccd.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/pulumi/pulumi-azure/examples/v5](../records/go-github-com-pulumi-pulumi-azure-examples-v5-d4f72ce1.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/pulumi/pulumi-linode](../records/go-github-com-pulumi-pulumi-linode-9459b3e6.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/pulumi/pulumi-mysql](../records/go-github-com-pulumi-pulumi-mysql-a8ad19ab.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/pulumi/pulumi/tests/integration/construct_component_unknown/go](../records/go-github-com-pulumi-pulumi-tests-integration-construct-component-unknown-go-1fdad2d4.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/PySport/kloppy](../records/go-github-com-pysport-kloppy-f09bd8a7.md) | v3.0.0+incompatible | 2026-08-30T10:10:55.621824Z | registry-derived |
 | [github.com/qigao/ogrenet/iocp](../records/go-github-com-qigao-ogrenet-iocp-02f42249.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [github.com/qryxip/snowchains](../records/go-github-com-qryxip-snowchains-2161f59a.md) | v0.6.0 | 2026-08-30T14:07:19.828066Z | registry-derived |
-| [github.com/quantus-network/qp-plonky2](../records/go-github-com-quantus-network-qp-plonky2-fc6c620f.md) | v1.2.0 | 2026-08-30T11:59:11.12391Z | registry-derived |
+| [github.com/qryxip/snowchains](../records/go-github-com-qryxip-snowchains-2161f59a.md) | v0.5.2 | 2026-08-30T16:32:14.536422Z | registry-derived |
+| [github.com/quantus-network/qp-plonky2](../records/go-github-com-quantus-network-qp-plonky2-fc6c620f.md) | v1.1.2 | 2026-08-30T16:30:54.545141Z | registry-derived |
 | [github.com/quantus-network/qp-poseidon](../records/go-github-com-quantus-network-qp-poseidon-339ddff6.md) | v1.0.3 | 2026-08-30T11:59:12.128611Z | registry-derived |
 | [github.com/quarkusio/quarkus](../records/go-github-com-quarkusio-quarkus-41d5375b.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/Quay/claircore](../records/go-github-com-quay-claircore-28ec5043.md) | v1.4.3 | 2026-08-30T12:54:40.10074Z | registry-derived |
@@ -708,20 +774,26 @@ Records: `758`
 | [github.com/RaZrFalcon/resvg](../records/go-github-com-razrfalcon-resvg-45f966a1.md) | v0.38.0 | 2026-08-30T10:07:18.182561Z | registry-derived |
 | [github.com/reearth/reearth-visualizer](../records/go-github-com-reearth-reearth-visualizer-efc6d7d3.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/rememorio/trpc-agent-go/memory/sqlitevec](../records/go-github-com-rememorio-trpc-agent-go-memory-sqlitevec-fd9d6f2e.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/rhobs/rhobs-synthetics](../records/go-github-com-rhobs-rhobs-synthetics-88384da9.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/rhys-vdw/ts-auto-guard](../records/go-github-com-rhys-vdw-ts-auto-guard-8a79360d.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/ripple/payments-direct](../records/go-github-com-ripple-payments-direct-2ef576e0.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/ripple/payments-direct/sdks/go](../records/go-github-com-ripple-payments-direct-sdks-go-12cbc2e5.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/rizriyz/luvus](../records/go-github-com-rizriyz-luvus-b4248678.md) | v0.7.2 | 2026-08-30T15:31:38.970528Z | registry-derived |
 | [github.com/roc-lang/roc](../records/go-github-com-roc-lang-roc-5324cdde.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/role-play-dev/grpc-contracts](../records/go-github-com-role-play-dev-grpc-contracts-7fe52f25.md) | v0.4.0 | 2026-08-30T12:51:21.542741Z | registry-derived |
 | [github.com/rook/Rook](../records/go-github-com-rook-rook-35949431.md) | v1.17.8 | 2026-08-30T10:08:05.687937Z | registry-derived |
-| [github.com/router-for-me/CLIProxyAPI/v7](../records/go-github-com-router-for-me-cliproxyapi-v7-e3126a1f.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/roshbhatia/sysinit](../records/go-github-com-roshbhatia-sysinit-b107c29e.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/router-for-me/cliproxyapi/examples/plugin/claude-web-search-router/go](../records/go-github-com-router-for-me-cliproxyapi-examples-plugin-claude-web-search-router-go-231260c9.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/router-for-me/cliProxyApi/v7](../records/go-github-com-router-for-me-cliproxyapi-v7-e3126a1f.md) | v7.2.146 | 2026-08-30T16:30:24.037481Z | registry-derived |
 | [github.com/rucaibox/jiuzhang3.0](../records/go-github-com-rucaibox-jiuzhang3-0-6c70c0f8.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/russelldash332/autokattis](../records/go-github-com-russelldash332-autokattis-9d7c5345.md) | v1.4.10 | 2026-08-30T12:52:11.534514Z | registry-derived |
 | [github.com/rust-embedded/awesome-embedded-rust](../records/go-github-com-rust-embedded-awesome-embedded-rust-f0a67ec6.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [github.com/ryoga-exe/ac-library-zig](../records/go-github-com-ryoga-exe-ac-library-zig-c4590ddd.md) | v0.5.1 | 2026-08-30T14:07:42.978642Z | registry-derived |
+| [github.com/ryoga-exe/ac-library-zig](../records/go-github-com-ryoga-exe-ac-library-zig-c4590ddd.md) | v0.3.0 | 2026-08-30T16:32:17.164859Z | registry-derived |
 | [github.com/S-VIPER/backend](../records/go-github-com-s-viper-backend-0a1aeb02.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [github.com/safe-global/safe-wallet-monorepo](../records/go-github-com-safe-global-safe-wallet-monorepo-972a746e.md) | v1.52.0 | 2026-08-30T14:07:45.147111Z | registry-derived |
+| [github.com/safe-global/safe-wallet-monorepo](../records/go-github-com-safe-global-safe-wallet-monorepo-972a746e.md) | v1.51.3 | 2026-08-30T16:32:53.063521Z | registry-derived |
 | [github.com/saidmashhud/mashgate-public/sdk/go](../records/go-github-com-saidmashhud-mashgate-public-sdk-go-e5f4f11c.md) | v1.20.0 | 2026-08-30T12:52:34.083482Z | registry-derived |
 | [github.com/samestrin/atcr](../records/go-github-com-samestrin-atcr-ef964cff.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/samsaffron/dv](../records/go-github-com-samsaffron-dv-b3e7b979.md) | v1.0.105 | 2026-08-30T16:31:48.475754Z | registry-derived |
 | [github.com/samsaffron/term-llm](../records/go-github-com-samsaffron-term-llm-14f1ec84.md) | v0.9.10 | 2026-08-30T11:59:05.092096Z | registry-derived |
 | [github.com/samsonasik/symplify](../records/go-github-com-samsonasik-symplify-bc9f73ad.md) | v7.0.0+incompatible | 2026-08-30T12:51:13.622517Z | registry-derived |
 | [github.com/saorsa-labs/saorsa-gossip](../records/go-github-com-saorsa-labs-saorsa-gossip-299177d0.md) | v0.5.50 | 2026-08-30T11:56:35.321493Z | registry-derived |
@@ -733,6 +805,7 @@ Records: `758`
 | [github.com/schretzi/gittree](../records/go-github-com-schretzi-gittree-5cc8bf01.md) | v0.2.0 | 2026-08-30T15:30:54.140049Z | registry-derived |
 | [github.com/scriptonbasestar/dva](../records/go-github-com-scriptonbasestar-dva-5259e7a4.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/semaphoreui/semaphore](../records/go-github-com-semaphoreui-semaphore-4c5cd6aa.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/seven45/pdm-ci](../records/go-github-com-seven45-pdm-ci-cdb792e6.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/sevenworksdev/proxy-list](../records/go-github-com-sevenworksdev-proxy-list-74d41cf8.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/shannah/jdeploy](../records/go-github-com-shannah-jdeploy-6d09a688.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/shapeshift/web](../records/go-github-com-shapeshift-web-42496222.md) | v1.1039.0 | 2026-08-30T15:29:11.237542Z | registry-derived |
@@ -740,6 +813,7 @@ Records: `758`
 | [github.com/shiguredo/sora-cpp-sdk](../records/go-github-com-shiguredo-sora-cpp-sdk-01337a72.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/shrews/ansible](../records/go-github-com-shrews-ansible-bad769f0.md) | v2.8.10+incompatible | 2026-08-30T12:52:29.126043Z | registry-derived |
 | [github.com/siemens/debsbom](../records/go-github-com-siemens-debsbom-cfc38ec8.md) | v0.3.1 | 2026-08-30T15:29:51.78344Z | registry-derived |
+| [github.com/signalfx/splunk-otel-go/instrumentation/github.com/confluentinc/confluent-kafka-go/v2/kafka/splunkkafka/test](../records/go-github-com-signalfx-splunk-otel-go-instrumentation-github-com-confluentinc-confluent-kafka-go-v2-kafka-splunkkafka-test-e6513ba2.md) | v1.35.0 | 2026-08-30T16:31:21.096262Z | registry-derived |
 | [github.com/simoncropp/nodatime.bogus](../records/go-github-com-simoncropp-nodatime-bogus-e781b3c2.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/simonfxr/landcage](../records/go-github-com-simonfxr-landcage-a2e95543.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/simplifyjobs/new-grad-positions](../records/go-github-com-simplifyjobs-new-grad-positions-08fccaa3.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
@@ -749,8 +823,10 @@ Records: `758`
 | [github.com/Slack-Go/slack](../records/go-github-com-slack-go-slack-f834e957.md) | v0.7.0 | 2026-08-30T12:54:45.520046Z | registry-derived |
 | [github.com/slonopotamus/stevedore](../records/go-github-com-slonopotamus-stevedore-41fe77f5.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/snowboard-software/duckdb-go/v2](../records/go-github-com-snowboard-software-duckdb-go-v2-41b4f580.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/snowflake-labs/snowflake-cli](../records/go-github-com-snowflake-labs-snowflake-cli-f6b2b13d.md) | v3.6.0+incompatible | 2026-08-30T16:31:10.381982Z | registry-derived |
 | [github.com/soham109/cpos](../records/go-github-com-soham109-cpos-a1790393.md) | v0.1.1 | 2026-08-30T15:31:36.896669Z | registry-derived |
 | [github.com/solosw/sol-code](../records/go-github-com-solosw-sol-code-9e1a4c7e.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/someara/kitchen-dokken](../records/go-github-com-someara-kitchen-dokken-3916dc9d.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/Sonarr/Sonarr](../records/go-github-com-sonarr-sonarr-0ef31170.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/sonarsource/jstorage](../records/go-github-com-sonarsource-jstorage-be11f347.md) | v0.4.4 | 2026-08-30T10:10:59.917223Z | registry-derived |
 | [github.com/SonarSource/ocanvas](../records/go-github-com-sonarsource-ocanvas-15d6a784.md) | v2.8.9+incompatible | 2026-08-30T10:10:45.499272Z | registry-derived |
@@ -758,12 +834,12 @@ Records: `758`
 | [github.com/Sphereon-Opensource/SSI-SDK](../records/go-github-com-sphereon-opensource-ssi-sdk-05716c3f.md) | v0.32.0 | 2026-08-30T12:54:31.385742Z | registry-derived |
 | [github.com/Sphereon-Opensource/SSI-SDK-crypto-extensions](../records/go-github-com-sphereon-opensource-ssi-sdk-crypto-extensions-3c4d26e0.md) | v0.20.0 | 2026-08-30T12:55:23.028242Z | registry-derived |
 | [github.com/spulec/requests](../records/go-github-com-spulec-requests-ecb9623e.md) | v0.10.3 | 2026-08-30T10:10:29.63055Z | registry-derived |
-| [github.com/square/workflow](../records/go-github-com-square-workflow-5c7ae465.md) | v0.10.0 | 2026-08-30T14:06:37.69126Z | registry-derived |
-| [github.com/squint-cljs/squint](../records/go-github-com-squint-cljs-squint-382aaad5.md) | v0.9.179 | 2026-08-30T11:58:52.982713Z | registry-derived |
+| [github.com/square/workflow](../records/go-github-com-square-workflow-5c7ae465.md) | v0.8.1 | 2026-08-30T16:31:17.737882Z | registry-derived |
+| [github.com/squint-cljs/squint](../records/go-github-com-squint-cljs-squint-382aaad5.md) | v0.9.174 | 2026-08-30T16:30:55.783916Z | registry-derived |
 | [github.com/Sst/opencode](../records/go-github-com-sst-opencode-649ef2ea.md) | v1.18.12 | 2026-08-30T12:55:13.701842Z | registry-derived |
 | [github.com/stenzek/duckstation](../records/go-github-com-stenzek-duckstation-5949bec2.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/stephenqiu30/hotkey-server](../records/go-github-com-stephenqiu30-hotkey-server-bdaf5f8c.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [github.com/stocnet/rsiena](../records/go-github-com-stocnet-rsiena-00a3fd08.md) | v1.4.18 | 2026-08-30T14:06:55.899124Z | registry-derived |
+| [github.com/stocnet/rsiena](../records/go-github-com-stocnet-rsiena-00a3fd08.md) | v1.4.15 | 2026-08-30T16:32:16.291587Z | registry-derived |
 | [github.com/suhaibinator/srouter](../records/go-github-com-suhaibinator-srouter-47060573.md) | v1.6.2 | 2026-08-30T14:07:46.588619Z | registry-derived |
 | [github.com/sweetrpg/game-room-objects.go](../records/go-github-com-sweetrpg-game-room-objects-go-e476ea72.md) | v0.2.2 | 2026-08-30T15:30:32.995448Z | registry-derived |
 | [github.com/swimmingkiim/a2a-project](../records/go-github-com-swimmingkiim-a2a-project-3d2bb86a.md) | v2.3.0+incompatible | 2026-08-30T10:55:53.014653Z | registry-derived |
@@ -779,13 +855,17 @@ Records: `758`
 | [github.com/Tangerg/lynx](../records/go-github-com-tangerg-lynx-a8ff1456.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/Tangerg/lynx/models/huggingface](../records/go-github-com-tangerg-lynx-models-huggingface-8ff18ac7.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/Tangerg/lynx/models/xiaomi](../records/go-github-com-tangerg-lynx-models-xiaomi-cd5ebcd0.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/tangerg/scope/core](../records/go-github-com-tangerg-scope-core-c39c292b.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/tangerg/scope/models/protocol/anthropic](../records/go-github-com-tangerg-scope-models-protocol-anthropic-d723e29a.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/tangerg/scope/models/protocol/openai](../records/go-github-com-tangerg-scope-models-protocol-openai-07d5257c.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/tanjeffreyz/auto-maple](../records/go-github-com-tanjeffreyz-auto-maple-423743e4.md) | v2.2.0+incompatible | 2026-08-30T12:51:47.75339Z | registry-derived |
-| [github.com/tatyam-prime/acl-cpp-python](../records/go-github-com-tatyam-prime-acl-cpp-python-be60e4c3.md) | v0.6.1 | 2026-08-30T14:07:34.60762Z | registry-derived |
+| [github.com/tatyam-prime/acl-cpp-python](../records/go-github-com-tatyam-prime-acl-cpp-python-be60e4c3.md) | v0.5.1 | 2026-08-30T16:32:14.293081Z | registry-derived |
 | [github.com/TavoAI/tavo-go-sdk](../records/go-github-com-tavoai-tavo-go-sdk-a424b144.md) | v0.4.2 | 2026-08-30T10:55:25.974521Z | registry-derived |
 | [github.com/TavoAI/tavo-sdk](../records/go-github-com-tavoai-tavo-sdk-4ccce3d5.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/TeaOSLab/EdgeApi](../records/go-github-com-teaoslab-edgeapi-b1d4b5ad.md) | v0.4.2 | 2026-08-30T15:29:01.899691Z | registry-derived |
-| [github.com/techfort/Lokijs](../records/go-github-com-techfort-lokijs-22a62fb3.md) | v1.3.7 | 2026-08-30T14:08:55.008381Z | registry-derived |
+| [github.com/techfort/Lokijs](../records/go-github-com-techfort-lokijs-22a62fb3.md) | v1.3.4 | 2026-08-30T16:32:47.570099Z | registry-derived |
 | [github.com/tektoncd/DASHBOARD](../records/go-github-com-tektoncd-dashboard-a712508d.md) | v0.39.0 | 2026-08-30T12:53:19.173829Z | registry-derived |
+| [github.com/tektoncd/plumbing](../records/go-github-com-tektoncd-plumbing-6711861f.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/temujincalidius/fedihome](../records/go-github-com-temujincalidius-fedihome-cf109eb1.md) | v1.20.0 | 2026-08-30T15:31:29.66639Z | registry-derived |
 | [github.com/TencentBlueKing/bk-bcs/bcs-scenarios/kourse](../records/go-github-com-tencentblueking-bk-bcs-bcs-scenarios-kourse-c3a4774b.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/terry-u16/pahcer](../records/go-github-com-terry-u16-pahcer-e0370335.md) | v0.3.1 | 2026-08-30T14:07:37.368556Z | registry-derived |
@@ -805,13 +885,16 @@ Records: `758`
 | [github.com/trailofbits/pypi-attestation-models](../records/go-github-com-trailofbits-pypi-attestation-models-41ae9b0f.md) | v0.0.3 | 2026-08-30T10:55:13.020347Z | registry-derived |
 | [github.com/trashpony/veliri-lib](../records/go-github-com-trashpony-veliri-lib-0abe0462.md) | v0.0.390 | 2026-08-30T15:31:33.706169Z | registry-derived |
 | [github.com/treemap/treemap](../records/go-github-com-treemap-treemap-8293f9fe.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/trim21/neptune](../records/go-github-com-trim21-neptune-a0411de2.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/tschaub/ol-mapbox-style](../records/go-github-com-tschaub-ol-mapbox-style-d200bdcc.md) | v4.2.1+incompatible | 2026-08-30T15:32:21.419995Z | registry-derived |
 | [github.com/tsolomko/swcompression](../records/go-github-com-tsolomko-swcompression-ff99471b.md) | v2.4.2+incompatible | 2026-08-30T15:30:39.525132Z | registry-derived |
 | [github.com/tui-tools/tui-kit](../records/go-github-com-tui-tools-tui-kit-ec72d89b.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/Tutitoos/atenea](../records/go-github-com-tutitoos-atenea-26b04a55.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/tyy47/clibox](../records/go-github-com-tyy47-clibox-f748f7d1.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/uBlockOrigin/uAssets](../records/go-github-com-ublockorigin-uassets-d1c7654a.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [github.com/ubugeeei-prod/ox-content](../records/go-github-com-ubugeeei-prod-ox-content-f13a1a36.md) | v2.77.0+incompatible | 2026-08-30T14:06:59.309924Z | registry-derived |
+| [github.com/ubugeeei-prod/ox-content](../records/go-github-com-ubugeeei-prod-ox-content-f13a1a36.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/ukama/ukama/systems/messaging/api-gateway](../records/go-github-com-ukama-ukama-systems-messaging-api-gateway-1180b7b3.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
+| [github.com/ukama/ukama/systems/messaging/node-feeder](../records/go-github-com-ukama-ukama-systems-messaging-node-feeder-d4e7307e.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/ukama/ukama/systems/report/generator](../records/go-github-com-ukama-ukama-systems-report-generator-e70390cb.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/unclechu/node-deep-extend](../records/go-github-com-unclechu-node-deep-extend-989b7cc2.md) | v0.2.10 | 2026-08-30T10:10:59.520744Z | registry-derived |
 | [github.com/unicorddev/unisky](../records/go-github-com-unicorddev-unisky-837e5b26.md) | v0.0.5 | 2026-08-30T15:31:28.668105Z | registry-derived |
@@ -819,10 +902,10 @@ Records: `758`
 | [github.com/unownhash/rotomng](../records/go-github-com-unownhash-rotomng-7f05ec9c.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/uptane/ota-tuf](../records/go-github-com-uptane-ota-tuf-df7cac21.md) | v3.2.2+incompatible | 2026-08-30T15:29:54.577293Z | registry-derived |
 | [github.com/uptrace/Bun/dialect/mssqldialect](../records/go-github-com-uptrace-bun-dialect-mssqldialect-6fd6abb4.md) | v1.1.1 | 2026-08-30T14:08:21.284691Z | registry-derived |
-| [github.com/uptrace/Bun/dialect/mysqldialect](../records/go-github-com-uptrace-bun-dialect-mysqldialect-1898a0d0.md) | v1.1.1 | 2026-08-30T14:08:19.72519Z | registry-derived |
-| [github.com/uptrace/Bun/driver/sqliteshim](../records/go-github-com-uptrace-bun-driver-sqliteshim-c3936444.md) | v1.1.1 | 2026-08-30T14:08:39.48044Z | registry-derived |
-| [github.com/uptrace/Bun/extra/bundebug](../records/go-github-com-uptrace-bun-extra-bundebug-93dcdf80.md) | v1.1.1 | 2026-08-30T14:08:54.647046Z | registry-derived |
-| [github.com/uptrace/Bun/extra/bunotel](../records/go-github-com-uptrace-bun-extra-bunotel-e247fdf1.md) | v1.1.1 | 2026-08-30T14:08:36.571865Z | registry-derived |
+| [github.com/uptrace/Bun/dialect/mysqldialect](../records/go-github-com-uptrace-bun-dialect-mysqldialect-1898a0d0.md) | v1.0.25 | 2026-08-30T16:32:47.53271Z | registry-derived |
+| [github.com/uptrace/Bun/driver/sqliteshim](../records/go-github-com-uptrace-bun-driver-sqliteshim-c3936444.md) | v1.0.25 | 2026-08-30T16:32:49.734109Z | registry-derived |
+| [github.com/uptrace/Bun/extra/bundebug](../records/go-github-com-uptrace-bun-extra-bundebug-93dcdf80.md) | v1.0.25 | 2026-08-30T16:32:46.835982Z | registry-derived |
+| [github.com/uptrace/Bun/extra/bunotel](../records/go-github-com-uptrace-bun-extra-bunotel-e247fdf1.md) | v1.0.25 | 2026-08-30T16:32:48.063792Z | registry-derived |
 | [github.com/urnetwork/connect](../records/go-github-com-urnetwork-connect-771c022c.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/usethesource/rascal-maven-plugin](../records/go-github-com-usethesource-rascal-maven-plugin-99a3cb32.md) | v0.30.2 | 2026-08-30T11:57:40.892995Z | registry-derived |
 | [github.com/utelle/wxsqlite3](../records/go-github-com-utelle-wxsqlite3-0b36ba6d.md) | v4.10.1+incompatible | 2026-08-30T14:09:01.355736Z | registry-derived |
@@ -831,7 +914,7 @@ Records: `758`
 | [github.com/veeupup/databend](../records/go-github-com-veeupup-databend-b9bad626.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/vernissageapp/vernissageserver](../records/go-github-com-vernissageapp-vernissageserver-beaa0f95.md) | v1.31.0 | 2026-08-30T15:31:34.237739Z | registry-derived |
 | [github.com/verskopjet/hoard_mode_content](../records/go-github-com-verskopjet-hoard-mode-content-e9204a3d.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [github.com/vestauth/vestauth](../records/go-github-com-vestauth-vestauth-0324be33.md) | v0.1.34 | 2026-08-30T11:58:50.880263Z | registry-derived |
+| [github.com/vestauth/vestauth](../records/go-github-com-vestauth-vestauth-0324be33.md) | v0.1.29 | 2026-08-30T16:30:20.661294Z | registry-derived |
 | [github.com/vibrantgio/backdrop](../records/go-github-com-vibrantgio-backdrop-05929dc5.md) | v0.0.4 | 2026-08-30T12:54:37.768768Z | registry-derived |
 | [github.com/vibrantgio/components](../records/go-github-com-vibrantgio-components-20a8c934.md) | v1.2.1 | 2026-08-30T12:55:22.261188Z | registry-derived |
 | [github.com/vibrantgio/font](../records/go-github-com-vibrantgio-font-4dadf900.md) | v0.4.2 | 2026-08-30T12:55:07.194291Z | registry-derived |
@@ -839,10 +922,11 @@ Records: `758`
 | [github.com/vibrantgio/prism](../records/go-github-com-vibrantgio-prism-655a5964.md) | v1.2.5 | 2026-08-30T15:32:12.067313Z | registry-derived |
 | [github.com/vibrantgio/workbench](../records/go-github-com-vibrantgio-workbench-38e97b77.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/victorgarciaesgi/regle](../records/go-github-com-victorgarciaesgi-regle-042315a0.md) | v0.1.9 | 2026-08-30T10:08:28.231309Z | registry-derived |
-| [github.com/virtuslab/scala-cli-signing](../records/go-github-com-virtuslab-scala-cli-signing-7dad50c9.md) | v0.1.6 | 2026-08-30T14:06:56.933543Z | registry-derived |
+| [github.com/virtuslab/scala-cli-signing](../records/go-github-com-virtuslab-scala-cli-signing-7dad50c9.md) | v0.1.3 | 2026-08-30T16:32:19.963306Z | registry-derived |
 | [github.com/vitorpamplona/amethyst](../records/go-github-com-vitorpamplona-amethyst-7831885b.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/vlayer-xyz/vlayer](../records/go-github-com-vlayer-xyz-vlayer-56b9d237.md) | v1.0.3 | 2026-08-30T15:31:33.711201Z | registry-derived |
 | [github.com/vlm-run/vlmrun-hub](../records/go-github-com-vlm-run-vlmrun-hub-abafcc41.md) | v0.1.4 | 2026-08-30T10:08:28.493844Z | registry-derived |
+| [github.com/volschin/eebus-ha-bridge](../records/go-github-com-volschin-eebus-ha-bridge-e15c5180.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/vshulcz/deja-vu](../records/go-github-com-vshulcz-deja-vu-f0f9e335.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/w3c/webref](../records/go-github-com-w3c-webref-5604c0a0.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/wboayue/rust-ibapi](../records/go-github-com-wboayue-rust-ibapi-3f8832b3.md) | v2.11.3+incompatible | 2026-08-30T14:10:06.121958Z | registry-derived |
@@ -851,7 +935,7 @@ Records: `758`
 | [github.com/wilfred/requests](../records/go-github-com-wilfred-requests-27ce25e4.md) | v1.0.0 | 2026-08-30T10:08:07.178514Z | registry-derived |
 | [github.com/Wisdomb33r/ffch-admin](../records/go-github-com-wisdomb33r-ffch-admin-b2142a26.md) | v2.0.0+incompatible | 2026-08-30T12:54:30.293445Z | registry-derived |
 | [github.com/withastro/cli-kit](../records/go-github-com-withastro-cli-kit-11b3ce8d.md) | v0.1.5 | 2026-08-30T10:07:55.220381Z | registry-derived |
-| [github.com/wordpress-mobile/gutenberg-mobile](../records/go-github-com-wordpress-mobile-gutenberg-mobile-edf55928.md) | v1.61.1 | 2026-08-30T14:08:45.534497Z | registry-derived |
+| [github.com/wordpress-mobile/gutenberg-mobile](../records/go-github-com-wordpress-mobile-gutenberg-mobile-edf55928.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/wox-launcher/wox](../records/go-github-com-wox-launcher-wox-c324ee32.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/wso2/ballerina](../records/go-github-com-wso2-ballerina-83acd295.md) | v1.2.50 | 2026-08-30T12:54:37.185846Z | registry-derived |
 | [github.com/wso2/carbon-identity-framework](../records/go-github-com-wso2-carbon-identity-framework-bdc97867.md) | v7.7.128+incompatible | 2026-08-30T15:31:58.117646Z | registry-derived |
@@ -859,12 +943,13 @@ Records: `758`
 | [github.com/xorhub/waas](../records/go-github-com-xorhub-waas-00a3e392.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/xorhub/waas/operator](../records/go-github-com-xorhub-waas-operator-ed140a2f.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/xorhub/waas/shared](../records/go-github-com-xorhub-waas-shared-7b05cb41.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [github.com/yandex-cloud/python-sdk](../records/go-github-com-yandex-cloud-python-sdk-f30b3d8d.md) | v0.385.0 | 2026-08-30T14:06:44.362834Z | registry-derived |
+| [github.com/yaklabco/staff](../records/go-github-com-yaklabco-staff-1c2048b7.md) | v0.16.13 | 2026-08-30T16:30:20.989206Z | registry-derived |
+| [github.com/yandex-cloud/python-sdk](../records/go-github-com-yandex-cloud-python-sdk-f30b3d8d.md) | v0.382.0 | 2026-08-30T16:31:20.737084Z | registry-derived |
 | [github.com/ydixken/pgcopydb-operator](../records/go-github-com-ydixken-pgcopydb-operator-ef35cd4e.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/yelp/paasta](../records/go-github-com-yelp-paasta-84920243.md) | v0.85.51 | 2026-08-30T11:57:44.101683Z | registry-derived |
 | [github.com/yesodweb/wai](../records/go-github-com-yesodweb-wai-9c55f54c.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/Yiling-j/theine-go](../records/go-github-com-yiling-j-theine-go-e51bf995.md) | v0.2.4 | 2026-08-30T14:10:03.970925Z | registry-derived |
-| [github.com/yosupo06/dunkelheit](../records/go-github-com-yosupo06-dunkelheit-48941677.md) | v1.0.0 | 2026-08-30T14:08:02.723957Z | registry-derived |
+| [github.com/yosupo06/dunkelheit](../records/go-github-com-yosupo06-dunkelheit-48941677.md) | v0.8.0 | 2026-08-30T16:32:29.930166Z | registry-derived |
 | [github.com/YspCoder/omnigo](../records/go-github-com-yspcoder-omnigo-83f7843f.md) | v0.0.90 | 2026-08-30T12:55:03.757842Z | registry-derived |
 | [github.com/yu-min3/kensan-lab](../records/go-github-com-yu-min3-kensan-lab-633875b8.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/yuta6/atcoderstudybooster](../records/go-github-com-yuta6-atcoderstudybooster-eb85351e.md) | v0.3.1 | 2026-08-30T14:10:34.083664Z | registry-derived |

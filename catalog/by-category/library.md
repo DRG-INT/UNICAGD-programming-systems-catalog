@@ -1,6 +1,6 @@
 # Library
 
-Records: `3388`
+Records: `3399`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `3388`
 ## Category Index
 
 [Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
-[Benchmarking (74)](benchmarking.md) · [Build System (590)](build-system.md) · [Cli (451)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (73)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (437)](database-datastore.md) · [Datetime (104)](datetime.md)
+[Benchmarking (75)](benchmarking.md) · [Build System (596)](build-system.md) · [Cli (453)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (37)](compression.md)
+[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (75)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (441)](database-datastore.md) · [Datetime (105)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
-[Embedded Hardware (39)](embedded-hardware.md) · [Ffi Bindings (324)](ffi-bindings.md) · [Filesystem Os (761)](filesystem-os.md) · [Formatter (442)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (30)](fuzzer.md) · [Game Engine Game Dev (104)](game-engine-game-dev.md) · [Ide Editor Integration (850)](ide-editor-integration.md)
-[Image Audio Dsp (184)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (161)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (837)](language-specification.md) · **[Library (3388)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (334)](linter.md) · [Logging Observability (259)](logging-observability.md) · [Machine Learning (390)](machine-learning.md)
-[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (698)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (199)](package-manager.md) · [Parser Lexer Ast (598)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
-[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
-[Security Sast (270)](security-sast.md) · [Serialization (272)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (273)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (42)](tutorial-book-styleguide.md) · [Type Checker (264)](type-checker.md)
-[Undefined Behavior Analyzer (1135)](undefined-behavior-analyzer.md) · [Utility Library (81)](utility-library.md) · [Visualization Gui (280)](visualization-gui.md) · [Web Framework (304)](web-framework.md)
+[Embedded Hardware (40)](embedded-hardware.md) · [Ffi Bindings (327)](ffi-bindings.md) · [Filesystem Os (784)](filesystem-os.md) · [Formatter (450)](formatter.md)
+[Framework (38)](framework.md) · [Fuzzer (40)](fuzzer.md) · [Game Engine Game Dev (109)](game-engine-game-dev.md) · [Ide Editor Integration (860)](ide-editor-integration.md)
+[Image Audio Dsp (186)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (162)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (24)](language-server.md) · [Language Specification (843)](language-specification.md) · **[Library (3399)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (336)](linter.md) · [Logging Observability (265)](logging-observability.md) · [Machine Learning (393)](machine-learning.md)
+[Math Numeric Scientific (71)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (700)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (206)](package-manager.md) · [Parser Lexer Ast (613)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
+[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (9)](sanitizer.md)
+[Security Sast (270)](security-sast.md) · [Serialization (282)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (297)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (43)](tutorial-book-styleguide.md) · [Type Checker (271)](type-checker.md)
+[Undefined Behavior Analyzer (1203)](undefined-behavior-analyzer.md) · [Utility Library (82)](utility-library.md) · [Visualization Gui (284)](visualization-gui.md) · [Web Framework (307)](web-framework.md)
 
 ## C99
 
@@ -2932,12 +2932,12 @@ Records: `3388`
 | code.linenisgreat.com/madder | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-code-linenisgreat-com-madder-7481ec44.md) |
 | code.linenisgreat.com/madder/go | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-code-linenisgreat-com-madder-go-69f64a7e.md) |
 | codeberg.org/go-hep/hep.git | v0.27.0 | 2026-08-30T10:55:18.161122Z | [open](../records/go-codeberg-org-go-hep-hep-git-29878e71.md) |
-| codeberg.org/rimu/pyfedi | v1.6.15 | 2026-08-30T11:58:13.428621Z | [open](../records/go-codeberg-org-rimu-pyfedi-53519dff.md) |
+| codeberg.org/rimu/pyfedi | v1.6.9 | 2026-08-30T16:29:43.672078Z | [open](../records/go-codeberg-org-rimu-pyfedi-53519dff.md) |
 | git.scuroneko.dev/ScuroNeko/Laniakea | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-git-scuroneko-dev-scuroneko-laniakea-6c4ff9e7.md) |
 | git.sr.ht/~sbinet/hep | v0.19.0 | 2026-08-30T12:54:31.594234Z | [open](../records/go-git-sr-ht-sbinet-hep-dbf72bae.md) |
 | gitee.com/hongzhaomin/ioc/annotation | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gitee-com-hongzhaomin-ioc-annotation-778adf40.md) |
 | gitee.com/hongzhaomin/ioc/gspring | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gitee-com-hongzhaomin-ioc-gspring-80389a91.md) |
-| gitee.com/mirrors/ansible.git | v2.9.3+incompatible | 2026-08-30T11:57:50.194944Z | [open](../records/go-gitee-com-mirrors-ansible-git-08ba741c.md) |
+| gitee.com/Mirrors/ansible.git | v2.8.7+incompatible | 2026-08-30T16:31:31.087307Z | [open](../records/go-gitee-com-mirrors-ansible-git-08ba741c.md) |
 | gitee.com/mirrors/cpython.git | v3.4.7+incompatible | 2026-08-30T10:57:14.17359Z | [open](../records/go-gitee-com-mirrors-cpython-git-93bf4b1f.md) |
 | gitee.com/mirrors_newrelic/node-newrelic | v1.31.0 | 2026-08-30T11:59:25.512732Z | [open](../records/go-gitee-com-mirrors-newrelic-node-newrelic-a8b8c659.md) |
 | gitee.com/mirrors_sendgrid/sendgrid-java | v3.0.6+incompatible | 2026-08-30T10:10:27.022297Z | [open](../records/go-gitee-com-mirrors-sendgrid-sendgrid-java-40cef1c3.md) |
@@ -2946,7 +2946,7 @@ Records: `3388`
 | gitlab.com/sequoia-pgp/sequoia.git | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gitlab-com-sequoia-pgp-sequoia-git-723cf535.md) |
 | gitlab.com/umbrellazone/smartacme | v1.0.9 | 2026-08-30T10:07:20.216337Z | [open](../records/go-gitlab-com-umbrellazone-smartacme-de305f20.md) |
 | go.cozymore.dev/krkstops | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-go-cozymore-dev-krkstops-34ccbe5a.md) |
-| go.gary.cool/go-stockutil | v1.8.58 | 2026-08-30T11:58:52.391766Z | [open](../records/go-go-gary-cool-go-stockutil-dd0c06ad.md) |
+| go.gary.cool/go-stockutil | v1.8.53 | 2026-08-30T16:30:21.724665Z | [open](../records/go-go-gary-cool-go-stockutil-dd0c06ad.md) |
 | go.lumeweb.com/portal-plugin-billing | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-go-lumeweb-com-portal-plugin-billing-4d35205b.md) |
 | go.mondoo.com/cnquery | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-go-mondoo-com-cnquery-5b60fa63.md) |
 | go.ytsaurus.tech/yt/admin/timbertruck | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-go-ytsaurus-tech-yt-admin-timbertruck-8ce375d8.md) |
@@ -2956,7 +2956,9 @@ Records: `3388`
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | paepcke.de/opnborg | v0.1.193 | 2026-08-30T12:53:55.779483Z | [open](../records/go-paepcke-de-opnborg-5d6e838f.md) |
 | piko.sh/piko/wdk/highlight/highlight_chroma | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-piko-sh-piko-wdk-highlight-highlight-chroma-d02208be.md) |
-| sigs.k8s.io/Controller-Tools | v0.6.1 | 2026-08-30T14:08:20.754698Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
+| rsc.io/cmd/gofixerr | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-rsc-io-cmd-gofixerr-73d47a44.md) |
+| sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
+| sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 
 ## Maps
 
@@ -2974,18 +2976,24 @@ Records: `3388`
 | geolonia/normalize-japanese-addresses | v3.1.3 | 2024-12-24T02:42:36Z | [open](../records/maps-geolonia-normalize-japanese-addresses-4c5a4168.md) |
 | geopy/geopy | 2.5.0 | 2026-07-12T19:52:44Z | [open](../records/maps-geopy-geopy-3c79db47.md) |
 | georust/geocoding | unknown | github_latest_release_missing | [open](../records/maps-georust-geocoding-e4389b67.md) |
+| GGBond-GIS/Orillusion_TileEarth | unknown | github_search_does_not_include_release_date | [open](../records/maps-ggbond-gis-orillusion-tileearth-83eb2707.md) |
 | jenetics/jpx | v4.0.0 | 2026-02-22T19:54:05Z | [open](../records/maps-jenetics-jpx-9e2c8a53.md) |
 | jessecambon/tidygeocoder | v1.0.6 | 2025-03-31T20:27:26Z | [open](../records/maps-jessecambon-tidygeocoder-a662f171.md) |
 | jingjing2222/react-native-nitro-geolocation | react-native-nitro-geolocation@1.4.3 | 2026-07-17T03:49:41Z | [open](../records/maps-jingjing2222-react-native-nitro-geolocation-88c61895.md) |
 | karam-mustafa/laravel-geographical-calculator | v2.2.0 | 2022-02-08T20:08:17Z | [open](../records/maps-karam-mustafa-laravel-geographical-calculator-a47febb3.md) |
 | komoot/photon | 1.3.0 | 2026-08-07T16:05:01Z | [open](../records/maps-komoot-photon-d1651635.md) |
 | lukepighetti/fluro | 2.0.3 | 2021-03-01T19:17:43Z | [open](../records/maps-lukepighetti-fluro-c809970d.md) |
+| luxiaoxun/MapDownloader | unknown | github_search_does_not_include_release_date | [open](../records/maps-luxiaoxun-mapdownloader-0e853bb6.md) |
 | maplibre/maplibre-gl-geocoder | v1.9.4 | 2025-12-27T11:56:31Z | [open](../records/maps-maplibre-maplibre-gl-geocoder-938c4f88.md) |
+| maptalks/maptalks.js | unknown | github_search_does_not_include_release_date | [open](../records/maps-maptalks-maptalks-js-2641e64a.md) |
+| marsgis/mars3d | unknown | github_search_does_not_include_release_date | [open](../records/maps-marsgis-mars3d-3412d0d0.md) |
 | nuxt-modules/i18n | v10.6.0 | 2026-07-30T10:49:10Z | [open](../records/maps-nuxt-modules-i18n-79eea90d.md) |
 | r-spatial/mapview | v2.4.0 | 2018-04-28T09:45:58Z | [open](../records/maps-r-spatial-mapview-10b63596.md) |
 | RxChi1d/immich-geodata-zh-tw | v3.2.0 | 2026-08-18T14:10:29Z | [open](../records/maps-rxchi1d-immich-geodata-zh-tw-74f77fc7.md) |
 | sandstrom/country-bounding-boxes | unknown | github_latest_release_missing | [open](../records/maps-sandstrom-country-bounding-boxes-21886a05.md) |
+| SharpMap/SharpMap | unknown | github_search_does_not_include_release_date | [open](../records/maps-sharpmap-sharpmap-0d7d79eb.md) |
 | sildur/offline_geocoder | v0.2.1 | 2020-05-05T02:44:28Z | [open](../records/maps-sildur-offline-geocoder-f8d97b5b.md) |
+| sxguojf/three-tile | unknown | github_search_does_not_include_release_date | [open](../records/maps-sxguojf-three-tile-07dcab70.md) |
 | t-sagara/jageocoder | v2.2.1.1 | 2026-03-31T12:47:16Z | [open](../records/maps-t-sagara-jageocoder-063c720a.md) |
 | tomayac/local-reverse-geocoder | v0.16.8 | 2026-06-14T16:06:15Z | [open](../records/maps-tomayac-local-reverse-geocoder-63b2ed9a.md) |
 | wellyshen/use-places-autocomplete | v4.0.1 | 2023-08-12T16:33:30Z | [open](../records/maps-wellyshen-use-places-autocomplete-1234eb65.md) |
@@ -2995,24 +3003,24 @@ Records: `3388`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 1manprojects/one_Sgp4 | 1.1.0 | 2024-02-16T14:59:12Z | [open](../records/space-engines-1manprojects-one-sgp4-75a7c09c.md) |
-| allista/ThrottleControlledAvionics | v3.8.0.1 | 2022-04-01T15:00:27Z | [open](../records/space-engines-allista-throttlecontrolledavionics-80f1f478.md) |
+| allista/ThrottleControlledAvionics | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-allista-throttlecontrolledavionics-80f1f478.md) |
 | arasgungore/rocket-flight-simulator | unknown | github_latest_release_missing | [open](../records/space-engines-arasgungore-rocket-flight-simulator-786e98e4.md) |
 | debanjan06/SatelliteRL | unknown | github_latest_release_missing | [open](../records/space-engines-debanjan06-satelliterl-217a5bf9.md) |
 | donutTheJedi/Rocket-Launch-Simulation | unknown | github_latest_release_missing | [open](../records/space-engines-donutthejedi-rocket-launch-simulation-88cf17f4.md) |
 | egemenimre/ccsds-ndm | v3.1.1 | 2026-03-15T23:25:30Z | [open](../records/space-engines-egemenimre-ccsds-ndm-313104bb.md) |
-| FlorentF9/SatelliteSimulator | unknown | github_latest_release_missing | [open](../records/space-engines-florentf9-satellitesimulator-543a7902.md) |
+| FlorentF9/SatelliteSimulator | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-florentf9-satellitesimulator-543a7902.md) |
 | gunvirranu/perturb | v1.0.0 | 2022-05-03T05:35:59Z | [open](../records/space-engines-gunvirranu-perturb-a3eb7945.md) |
-| handong1979/orbitdynamics | unknown | github_latest_release_missing | [open](../records/space-engines-handong1979-orbitdynamics-4e599bd0.md) |
+| handong1979/orbitdynamics | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-handong1979-orbitdynamics-4e599bd0.md) |
 | jeremy-penn/Orbital_Mechanics | unknown | github_latest_release_missing | [open](../records/space-engines-jeremy-penn-orbital-mechanics-95c43646.md) |
-| jonnyhyman/PyBurn | unknown | github_latest_release_missing | [open](../records/space-engines-jonnyhyman-pyburn-6c49c451.md) |
+| jonnyhyman/PyBurn | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-jonnyhyman-pyburn-6c49c451.md) |
 | kyleniemeyer/gas-dynamics-notes | 2021.12 | 2026-07-29T17:25:09Z | [open](../records/space-engines-kyleniemeyer-gas-dynamics-notes-88f66440.md) |
-| kyleniemeyer/rocket-propulsion | 2026.03 | 2026-07-29T17:34:14Z | [open](../records/space-engines-kyleniemeyer-rocket-propulsion-880f0ccd.md) |
-| LoicViennois/KSP-DeltaV-Planner | v1.6.0 | 2026-08-24T13:45:27Z | [open](../records/space-engines-loicviennois-ksp-deltav-planner-2a9f4275.md) |
+| kyleniemeyer/rocket-propulsion | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-kyleniemeyer-rocket-propulsion-880f0ccd.md) |
+| LoicViennois/KSP-DeltaV-Planner | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-loicviennois-ksp-deltav-planner-2a9f4275.md) |
 | nmisyats/KSP-MGA-Planner | unknown | github_latest_release_missing | [open](../records/space-engines-nmisyats-ksp-mga-planner-5c02c9bb.md) |
-| podgorskiy/KeplerOrbits | unknown | github_latest_release_missing | [open](../records/space-engines-podgorskiy-keplerorbits-bce5842d.md) |
+| podgorskiy/KeplerOrbits | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-podgorskiy-keplerorbits-bce5842d.md) |
 | RocketPy-Team/RocketPy | v1.13.0 | 2026-07-22T00:23:52Z | [open](../records/space-engines-rocketpy-team-rocketpy-dc6ba7fb.md) |
-| usuaero/PyProp | unknown | github_latest_release_missing | [open](../records/space-engines-usuaero-pyprop-cf41d1df.md) |
-| wedesoft/sfsim | unknown | github_latest_release_missing | [open](../records/space-engines-wedesoft-sfsim-99e126c8.md) |
+| usuaero/PyProp | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-usuaero-pyprop-cf41d1df.md) |
+| wedesoft/sfsim | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-wedesoft-sfsim-99e126c8.md) |
 
 ## Space Shuttles
 
@@ -3061,10 +3069,13 @@ Records: `3388`
 | jnicol/particleground | unknown | github_latest_release_missing | [open](../records/effects-jnicol-particleground-b8d4252a.md) |
 | jsoverson/JavaScript-Particle-System | unknown | github_latest_release_missing | [open](../records/effects-jsoverson-javascript-particle-system-9598c75e.md) |
 | keijiro/KvantStream | unknown | github_latest_release_missing | [open](../records/effects-keijiro-kvantstream-4c4847ec.md) |
+| keijiro/ShurikenPlus | unknown | github_latest_release_missing | [open](../records/effects-keijiro-shurikenplus-602ff24f.md) |
 | pixijs-userland/particle-emitter | v5.0.8 | 2022-11-28T04:04:45Z | [open](../records/effects-pixijs-userland-particle-emitter-b76be455.md) |
 | Robert-K/gpu-particles | unknown | github_latest_release_missing | [open](../records/effects-robert-k-gpu-particles-76cd9f4d.md) |
 | skeeto/webgl-particles | unknown | github_latest_release_missing | [open](../records/effects-skeeto-webgl-particles-2b9dfa02.md) |
 | tom-mohr/particle-life-app | v1.3.1 | 2025-12-10T23:26:39Z | [open](../records/effects-tom-mohr-particle-life-app-f8f211cd.md) |
+| uzkbwza/BurstParticles2D | unknown | github_latest_release_missing | [open](../records/effects-uzkbwza-burstparticles2d-c1a8a7f4.md) |
+| zhuohan123/macaron-net | unknown | github_latest_release_missing | [open](../records/effects-zhuohan123-macaron-net-c3679568.md) |
 
 ## Audio
 
@@ -3136,7 +3147,7 @@ Records: `3388`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | BodenmillerGroup/imctools | v2.1.8 | 2021-09-12T20:12:53Z | [open](../records/microscopy-bodenmillergroup-imctools-751b7c0c.md) |
-| tlnagy/OMETIFF.jl | v0.4.5 | 2024-04-01T20:49:37Z | [open](../records/microscopy-tlnagy-ometiff-jl-cec7b6f6.md) |
+| tlnagy/OMETIFF.jl | partial | 2024-11-01T18:19:01Z | [open](../records/microscopy-tlnagy-ometiff-jl-cec7b6f6.md) |
 
 ## Telescopes
 
@@ -3299,52 +3310,52 @@ Records: `3388`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| 0xAX/asm | v1.0.1 | 2026-08-25T10:09:33Z | [open](../records/assembly-0xax-asm-c781f702.md) |
-| badamczewski/PowerUp | unknown | github_latest_release_missing | [open](../records/assembly-badamczewski-powerup-798e7cfd.md) |
-| cyrus-and/gdb-dashboard | unknown | github_latest_release_missing | [open](../records/assembly-cyrus-and-gdb-dashboard-ef48ce45.md) |
-| gurugio/lowlevelprogramming-university | unknown | github_latest_release_missing | [open](../records/assembly-gurugio-lowlevelprogramming-university-485ace99.md) |
-| mattdibi/redox-keyboard | unknown | github_latest_release_missing | [open](../records/assembly-mattdibi-redox-keyboard-e1f3e991.md) |
-| MattPD/cpplinks | unknown | github_latest_release_missing | [open](../records/assembly-mattpd-cpplinks-29eb7bcc.md) |
-| mmcloughlin/avo | v0.6.0 | 2024-01-07T21:34:13Z | [open](../records/assembly-mmcloughlin-avo-46167d30.md) |
-| mohitmishra786/amILearningEnough | unknown | github_latest_release_missing | [open](../records/assembly-mohitmishra786-amilearningenough-299c3826.md) |
-| segmentio/asm | v1.2.0 | 2022-05-01T17:40:19Z | [open](../records/assembly-segmentio-asm-07cb5069.md) |
-| Stephane-D/SGDK | v2.11 | 2025-04-02T22:08:56Z | [open](../records/assembly-stephane-d-sgdk-bad539e3.md) |
-| vvaltchev/tilck | unknown | github_latest_release_missing | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
-| yrp604/rappel | unknown | github_latest_release_missing | [open](../records/assembly-yrp604-rappel-4bf787bb.md) |
+| 0xAX/asm | partial | 2026-08-25T10:24:56Z | [open](../records/assembly-0xax-asm-c781f702.md) |
+| badamczewski/PowerUp | partial | 2024-01-25T09:23:08Z | [open](../records/assembly-badamczewski-powerup-798e7cfd.md) |
+| cyrus-and/gdb-dashboard | partial | 2026-07-17T09:53:53Z | [open](../records/assembly-cyrus-and-gdb-dashboard-ef48ce45.md) |
+| gurugio/lowlevelprogramming-university | partial | 2025-03-24T11:49:58Z | [open](../records/assembly-gurugio-lowlevelprogramming-university-485ace99.md) |
+| mattdibi/redox-keyboard | partial | 2026-05-26T18:15:22Z | [open](../records/assembly-mattdibi-redox-keyboard-e1f3e991.md) |
+| MattPD/cpplinks | partial | 2026-09-01T03:03:56Z | [open](../records/assembly-mattpd-cpplinks-29eb7bcc.md) |
+| mmcloughlin/avo | partial | 2026-09-01T05:34:18Z | [open](../records/assembly-mmcloughlin-avo-46167d30.md) |
+| mohitmishra786/amILearningEnough | partial | 2026-03-26T16:42:23Z | [open](../records/assembly-mohitmishra786-amilearningenough-299c3826.md) |
+| segmentio/asm | partial | 2026-06-25T23:26:52Z | [open](../records/assembly-segmentio-asm-07cb5069.md) |
+| Stephane-D/SGDK | partial | 2026-08-17T08:47:30Z | [open](../records/assembly-stephane-d-sgdk-bad539e3.md) |
+| vvaltchev/tilck | partial | 2026-09-01T05:32:32Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
+| yrp604/rappel | partial | 2024-03-07T04:45:15Z | [open](../records/assembly-yrp604-rappel-4bf787bb.md) |
 
 ## Pattern language
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| 3lf/design-patterns-for-humans | unknown | github_latest_release_missing | [open](../records/pattern-language-3lf-design-patterns-for-humans-d62cf116.md) |
-| AlexanderGrom/go-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-alexandergrom-go-patterns-9ab1886f.md) |
-| aritraroy/PatternLockView | unknown | github_latest_release_missing | [open](../records/pattern-language-aritraroy-patternlockview-c5e3f915.md) |
-| chuanxshi/javascript-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-chuanxshi-javascript-patterns-af9ba9d5.md) |
-| DesignPatternsPHP/DesignPatternsPHP | unknown | github_latest_release_missing | [open](../records/pattern-language-designpatternsphp-designpatternsphp-d6c926d5.md) |
-| Devinterview-io/software-architecture-interview-questions | unknown | github_latest_release_missing | [open](../records/pattern-language-devinterview-io-software-architecture-interview-questions-d0f17ef1.md) |
-| dykyi-roman/architecture | unknown | github_latest_release_missing | [open](../records/pattern-language-dykyi-roman-architecture-981b8b74.md) |
-| evoiz/Agentic-Design-Patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-evoiz-agentic-design-patterns-01a7bf2b.md) |
-| fadeevab/design-patterns-rust | unknown | github_latest_release_missing | [open](../records/pattern-language-fadeevab-design-patterns-rust-d33499f2.md) |
-| fbeline/design-patterns-JS | unknown | github_latest_release_missing | [open](../records/pattern-language-fbeline-design-patterns-js-6a6af94b.md) |
-| felangel/bloc | bloc_lint-v0.4.2 | 2026-07-04T23:45:27Z | [open](../records/pattern-language-felangel-bloc-2de5d68d.md) |
-| FengJungle/DesignPattern | unknown | github_latest_release_missing | [open](../records/pattern-language-fengjungle-designpattern-555629f0.md) |
-| Habrador/Unity-Programming-Patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-habrador-unity-programming-patterns-b7ded15d.md) |
-| iluwatar/java-design-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-iluwatar-java-design-patterns-92e5a814.md) |
-| in28minutes/camel | unknown | github_latest_release_missing | [open](../records/pattern-language-in28minutes-camel-175e126b.md) |
-| landy8530/DesignPatterns | v2.1 | 2019-05-20T14:09:15Z | [open](../records/pattern-language-landy8530-designpatterns-ec410f5c.md) |
-| lbroudoux/eip-designer | unknown | github_latest_release_missing | [open](../records/pattern-language-lbroudoux-eip-designer-c1075562.md) |
-| liu-jianhao/Cpp-Design-Patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-liu-jianhao-cpp-design-patterns-3655340d.md) |
-| lpxxn/rust-design-pattern | unknown | github_latest_release_missing | [open](../records/pattern-language-lpxxn-rust-design-pattern-8a38ac92.md) |
-| me115/design_patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-me115-design-patterns-b192fa4c.md) |
-| mkobuolys/flutter-design-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-mkobuolys-flutter-design-patterns-c7b5823e.md) |
-| monochromegane/go_design_pattern | unknown | github_latest_release_missing | [open](../records/pattern-language-monochromegane-go-design-pattern-2cfa5f43.md) |
-| Naphier/unity-design-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-naphier-unity-design-patterns-fde23726.md) |
-| ochococo/Design-Patterns-In-Swift | unknown | github_latest_release_missing | [open](../records/pattern-language-ochococo-design-patterns-in-swift-08801ce6.md) |
-| roughike/BottomBar | V2.3.1 | 2017-04-14T06:45:04Z | [open](../records/pattern-language-roughike-bottombar-94da77f0.md) |
-| sohamkamani/javascript-design-patterns-for-humans | unknown | github_latest_release_missing | [open](../records/pattern-language-sohamkamani-javascript-design-patterns-for-humans-68527519.md) |
-| Suryakant-Bharti/Important-Java-Concepts | unknown | github_latest_release_missing | [open](../records/pattern-language-suryakant-bharti-important-java-concepts-57e4737e.md) |
-| tcorral/Design-Patterns-in-Javascript | unknown | github_latest_release_missing | [open](../records/pattern-language-tcorral-design-patterns-in-javascript-cd76fa06.md) |
-| tylerlaberge/PyPattyrn | v1.2 | 2016-09-11T02:13:18Z | [open](../records/pattern-language-tylerlaberge-pypattyrn-835debda.md) |
+| 3lf/design-patterns-for-humans | partial | 2026-06-27T22:55:14Z | [open](../records/pattern-language-3lf-design-patterns-for-humans-d62cf116.md) |
+| AlexanderGrom/go-patterns | partial | 2021-04-15T17:42:30Z | [open](../records/pattern-language-alexandergrom-go-patterns-9ab1886f.md) |
+| aritraroy/PatternLockView | partial | 2022-03-03T15:17:44Z | [open](../records/pattern-language-aritraroy-patternlockview-c5e3f915.md) |
+| chuanxshi/javascript-patterns | partial | 2024-07-18T10:26:01Z | [open](../records/pattern-language-chuanxshi-javascript-patterns-af9ba9d5.md) |
+| DesignPatternsPHP/DesignPatternsPHP | partial | 2025-02-03T08:45:02Z | [open](../records/pattern-language-designpatternsphp-designpatternsphp-d6c926d5.md) |
+| Devinterview-io/software-architecture-interview-questions | partial | 2026-01-04T23:16:23Z | [open](../records/pattern-language-devinterview-io-software-architecture-interview-questions-d0f17ef1.md) |
+| dykyi-roman/architecture | partial | 2026-03-09T14:54:04Z | [open](../records/pattern-language-dykyi-roman-architecture-981b8b74.md) |
+| evoiz/Agentic-Design-Patterns | partial | 2026-07-24T14:23:04Z | [open](../records/pattern-language-evoiz-agentic-design-patterns-01a7bf2b.md) |
+| fadeevab/design-patterns-rust | partial | 2025-01-01T17:16:57Z | [open](../records/pattern-language-fadeevab-design-patterns-rust-d33499f2.md) |
+| fbeline/design-patterns-JS | partial | 2023-02-10T16:43:18Z | [open](../records/pattern-language-fbeline-design-patterns-js-6a6af94b.md) |
+| felangel/bloc | partial | 2026-08-10T16:40:08Z | [open](../records/pattern-language-felangel-bloc-2de5d68d.md) |
+| FengJungle/DesignPattern | partial | 2024-04-17T07:27:17Z | [open](../records/pattern-language-fengjungle-designpattern-555629f0.md) |
+| Habrador/Unity-Programming-Patterns | partial | 2026-04-28T12:37:06Z | [open](../records/pattern-language-habrador-unity-programming-patterns-b7ded15d.md) |
+| iluwatar/java-design-patterns | partial | 2026-08-31T22:43:02Z | [open](../records/pattern-language-iluwatar-java-design-patterns-92e5a814.md) |
+| in28minutes/camel | partial | 2024-09-05T07:23:55Z | [open](../records/pattern-language-in28minutes-camel-175e126b.md) |
+| landy8530/DesignPatterns | partial | 2022-12-16T00:46:17Z | [open](../records/pattern-language-landy8530-designpatterns-ec410f5c.md) |
+| lbroudoux/eip-designer | partial | 2016-10-05T12:51:54Z | [open](../records/pattern-language-lbroudoux-eip-designer-c1075562.md) |
+| liu-jianhao/Cpp-Design-Patterns | partial | 2024-10-11T08:12:29Z | [open](../records/pattern-language-liu-jianhao-cpp-design-patterns-3655340d.md) |
+| lpxxn/rust-design-pattern | partial | 2021-07-15T09:03:21Z | [open](../records/pattern-language-lpxxn-rust-design-pattern-8a38ac92.md) |
+| me115/design_patterns | partial | 2024-06-05T03:27:51Z | [open](../records/pattern-language-me115-design-patterns-b192fa4c.md) |
+| mkobuolys/flutter-design-patterns | partial | 2026-08-03T20:00:48Z | [open](../records/pattern-language-mkobuolys-flutter-design-patterns-c7b5823e.md) |
+| monochromegane/go_design_pattern | partial | 2019-09-19T16:27:19Z | [open](../records/pattern-language-monochromegane-go-design-pattern-2cfa5f43.md) |
+| Naphier/unity-design-patterns | partial | 2025-05-24T21:12:15Z | [open](../records/pattern-language-naphier-unity-design-patterns-fde23726.md) |
+| ochococo/Design-Patterns-In-Swift | partial | 2024-08-03T07:30:28Z | [open](../records/pattern-language-ochococo-design-patterns-in-swift-08801ce6.md) |
+| roughike/BottomBar | partial | 2021-09-16T11:19:06Z | [open](../records/pattern-language-roughike-bottombar-94da77f0.md) |
+| sohamkamani/javascript-design-patterns-for-humans | partial | 2024-01-08T05:07:39Z | [open](../records/pattern-language-sohamkamani-javascript-design-patterns-for-humans-68527519.md) |
+| Suryakant-Bharti/Important-Java-Concepts | partial | 2025-08-22T17:32:10Z | [open](../records/pattern-language-suryakant-bharti-important-java-concepts-57e4737e.md) |
+| tcorral/Design-Patterns-in-Javascript | partial | 2023-08-07T04:31:34Z | [open](../records/pattern-language-tcorral-design-patterns-in-javascript-cd76fa06.md) |
+| tylerlaberge/PyPattyrn | partial | 2024-05-26T00:24:11Z | [open](../records/pattern-language-tylerlaberge-pypattyrn-835debda.md) |
 
 ## WebAssembly
 

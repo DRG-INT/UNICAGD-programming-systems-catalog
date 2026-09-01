@@ -1,6 +1,6 @@
 # Logging Observability
 
-Records: `259`
+Records: `265`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `259`
 ## Category Index
 
 [Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
-[Benchmarking (74)](benchmarking.md) · [Build System (590)](build-system.md) · [Cli (451)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (73)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (437)](database-datastore.md) · [Datetime (104)](datetime.md)
+[Benchmarking (75)](benchmarking.md) · [Build System (596)](build-system.md) · [Cli (453)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (37)](compression.md)
+[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (75)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (441)](database-datastore.md) · [Datetime (105)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
-[Embedded Hardware (39)](embedded-hardware.md) · [Ffi Bindings (324)](ffi-bindings.md) · [Filesystem Os (761)](filesystem-os.md) · [Formatter (442)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (30)](fuzzer.md) · [Game Engine Game Dev (104)](game-engine-game-dev.md) · [Ide Editor Integration (850)](ide-editor-integration.md)
-[Image Audio Dsp (184)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (161)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (837)](language-specification.md) · [Library (3388)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (334)](linter.md) · **[Logging Observability (259)](logging-observability.md)** · [Machine Learning (390)](machine-learning.md)
-[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (698)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (199)](package-manager.md) · [Parser Lexer Ast (598)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
-[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
-[Security Sast (270)](security-sast.md) · [Serialization (272)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (273)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (42)](tutorial-book-styleguide.md) · [Type Checker (264)](type-checker.md)
-[Undefined Behavior Analyzer (1135)](undefined-behavior-analyzer.md) · [Utility Library (81)](utility-library.md) · [Visualization Gui (280)](visualization-gui.md) · [Web Framework (304)](web-framework.md)
+[Embedded Hardware (40)](embedded-hardware.md) · [Ffi Bindings (327)](ffi-bindings.md) · [Filesystem Os (784)](filesystem-os.md) · [Formatter (450)](formatter.md)
+[Framework (38)](framework.md) · [Fuzzer (40)](fuzzer.md) · [Game Engine Game Dev (109)](game-engine-game-dev.md) · [Ide Editor Integration (860)](ide-editor-integration.md)
+[Image Audio Dsp (186)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (162)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (24)](language-server.md) · [Language Specification (843)](language-specification.md) · [Library (3399)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (336)](linter.md) · **[Logging Observability (265)](logging-observability.md)** · [Machine Learning (393)](machine-learning.md)
+[Math Numeric Scientific (71)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (700)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (206)](package-manager.md) · [Parser Lexer Ast (613)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
+[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (9)](sanitizer.md)
+[Security Sast (270)](security-sast.md) · [Serialization (282)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (297)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (43)](tutorial-book-styleguide.md) · [Type Checker (271)](type-checker.md)
+[Undefined Behavior Analyzer (1203)](undefined-behavior-analyzer.md) · [Utility Library (82)](utility-library.md) · [Visualization Gui (284)](visualization-gui.md) · [Web Framework (307)](web-framework.md)
 
 ## C99
 
@@ -294,8 +294,18 @@ Records: `259`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| MLflow | v3.15.2 | 2026-08-26T08:34:31Z | [open](../records/aim-s-mlflow-1732aa2b.md) |
+| MLflow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-mlflow-1732aa2b.md) |
 | OpenTelemetry Semantic Conventions For GenAI | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-opentelemetry-semantic-conventions-for-genai-e834f611.md) |
+
+## Maps
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| CS-SI/eodag | unknown | github_search_does_not_include_release_date | [open](../records/maps-cs-si-eodag-f8cc9938.md) |
+| locationtech/jts | unknown | github_search_does_not_include_release_date | [open](../records/maps-locationtech-jts-ec55d068.md) |
+| meteoinfo/MeteoInfo | unknown | github_search_does_not_include_release_date | [open](../records/maps-meteoinfo-meteoinfo-097daf03.md) |
+| opengeos/whitebox-python | unknown | github_search_does_not_include_release_date | [open](../records/maps-opengeos-whitebox-python-32519701.md) |
+| samapriya/awesome-gee-community-datasets | unknown | github_search_does_not_include_release_date | [open](../records/maps-samapriya-awesome-gee-community-datasets-107ad1b1.md) |
 
 ## Space Engines
 
@@ -312,6 +322,7 @@ Records: `259`
 | huawei-noah/Speech-Backbones | unknown | github_latest_release_missing | [open](../records/audio-huawei-noah-speech-backbones-ae7b134d.md) |
 | mzuelch/CATs-Eurosynth | unknown | github_latest_release_missing | [open](../records/audio-mzuelch-cats-eurosynth-a6002844.md) |
 | newdigate/teensy-eurorack | v2.0-beta | 2021-02-24T18:09:25Z | [open](../records/audio-newdigate-teensy-eurorack-52a4de61.md) |
+| OpenMOSS/MOSS-TTS | unknown | github_latest_release_missing | [open](../records/audio-openmoss-moss-tts-9e9e0059.md) |
 | reales/OB-Xd | v2.20 | 2026-08-18T06:44:02Z | [open](../records/audio-reales-ob-xd-4de1e164.md) |
 | sevagh/pitch-detection | v2023.12 | 2023-12-27T13:49:09Z | [open](../records/audio-sevagh-pitch-detection-26bd609d.md) |
 | shmoergh/moduleur | v1.1.1 | 2026-03-08T19:34:18Z | [open](../records/audio-shmoergh-moduleur-a638dc17.md) |
@@ -333,7 +344,7 @@ Records: `259`
 | Dana-Farber-AIOS/pathml | v3.0.8 | 2026-08-14T02:49:28Z | [open](../records/microscopy-dana-farber-aios-pathml-b56cd566.md) |
 | flika-org/flika | unknown | github_latest_release_missing | [open](../records/microscopy-flika-org-flika-fc3890a5.md) |
 | ijpb/MorphoLibJ | MorphoLibJ_-1.6.5 | 2026-02-19T12:39:26Z | [open](../records/microscopy-ijpb-morpholibj-fb1a146e.md) |
-| UU-cellbiology/ZstackDepthColorCode | 0.0.2 | 2025-09-01T20:45:20Z | [open](../records/microscopy-uu-cellbiology-zstackdepthcolorcode-2dae5fc0.md) |
+| UU-cellbiology/ZstackDepthColorCode | partial | 2025-11-06T19:19:23Z | [open](../records/microscopy-uu-cellbiology-zstackdepthcolorcode-2dae5fc0.md) |
 
 ## Radars
 
@@ -372,8 +383,8 @@ Records: `259`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| magicpatterns/catalog | unknown | github_latest_release_missing | [open](../records/pattern-language-magicpatterns-catalog-b07f42a5.md) |
-| Unity-Technologies/game-programming-patterns-demo | unknown | github_latest_release_missing | [open](../records/pattern-language-unity-technologies-game-programming-patterns-demo-4d631e53.md) |
+| magicpatterns/catalog | partial | 2024-05-03T20:23:35Z | [open](../records/pattern-language-magicpatterns-catalog-b07f42a5.md) |
+| Unity-Technologies/game-programming-patterns-demo | partial | 2025-10-23T20:03:44Z | [open](../records/pattern-language-unity-technologies-game-programming-patterns-demo-4d631e53.md) |
 
 ## SAPJava
 

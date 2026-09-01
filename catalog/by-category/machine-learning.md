@@ -1,6 +1,6 @@
 # Machine Learning
 
-Records: `390`
+Records: `393`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `390`
 ## Category Index
 
 [Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
-[Benchmarking (74)](benchmarking.md) · [Build System (590)](build-system.md) · [Cli (451)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (73)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (437)](database-datastore.md) · [Datetime (104)](datetime.md)
+[Benchmarking (75)](benchmarking.md) · [Build System (596)](build-system.md) · [Cli (453)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (37)](compression.md)
+[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (75)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (441)](database-datastore.md) · [Datetime (105)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
-[Embedded Hardware (39)](embedded-hardware.md) · [Ffi Bindings (324)](ffi-bindings.md) · [Filesystem Os (761)](filesystem-os.md) · [Formatter (442)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (30)](fuzzer.md) · [Game Engine Game Dev (104)](game-engine-game-dev.md) · [Ide Editor Integration (850)](ide-editor-integration.md)
-[Image Audio Dsp (184)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (161)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (837)](language-specification.md) · [Library (3388)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (334)](linter.md) · [Logging Observability (259)](logging-observability.md) · **[Machine Learning (390)](machine-learning.md)**
-[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (698)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (199)](package-manager.md) · [Parser Lexer Ast (598)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
-[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
-[Security Sast (270)](security-sast.md) · [Serialization (272)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (273)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (42)](tutorial-book-styleguide.md) · [Type Checker (264)](type-checker.md)
-[Undefined Behavior Analyzer (1135)](undefined-behavior-analyzer.md) · [Utility Library (81)](utility-library.md) · [Visualization Gui (280)](visualization-gui.md) · [Web Framework (304)](web-framework.md)
+[Embedded Hardware (40)](embedded-hardware.md) · [Ffi Bindings (327)](ffi-bindings.md) · [Filesystem Os (784)](filesystem-os.md) · [Formatter (450)](formatter.md)
+[Framework (38)](framework.md) · [Fuzzer (40)](fuzzer.md) · [Game Engine Game Dev (109)](game-engine-game-dev.md) · [Ide Editor Integration (860)](ide-editor-integration.md)
+[Image Audio Dsp (186)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (162)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (24)](language-server.md) · [Language Specification (843)](language-specification.md) · [Library (3399)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (336)](linter.md) · [Logging Observability (265)](logging-observability.md) · **[Machine Learning (393)](machine-learning.md)**
+[Math Numeric Scientific (71)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (700)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (206)](package-manager.md) · [Parser Lexer Ast (613)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
+[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (9)](sanitizer.md)
+[Security Sast (270)](security-sast.md) · [Serialization (282)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (297)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (43)](tutorial-book-styleguide.md) · [Type Checker (271)](type-checker.md)
+[Undefined Behavior Analyzer (1203)](undefined-behavior-analyzer.md) · [Utility Library (82)](utility-library.md) · [Visualization Gui (284)](visualization-gui.md) · [Web Framework (307)](web-framework.md)
 
 ## C++23
 
@@ -354,7 +354,7 @@ Records: `390`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | bitbucket.org/itotcca/tx-rails | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-bitbucket-org-itotcca-tx-rails-34e72343.md) |
-| gitee.com/open-mmlab/mmcv | v1.5.1 | 2026-08-30T14:06:30.430744Z | [open](../records/go-gitee-com-open-mmlab-mmcv-9c44c07f.md) |
+| gitee.com/open-mmlab/mmcv | v1.4.7 | 2026-08-30T16:32:50.707415Z | [open](../records/go-gitee-com-open-mmlab-mmcv-9c44c07f.md) |
 | gitee.com/wailsapp/wails/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gitee-com-wailsapp-wails-v3-3c5b4a42.md) |
 | infinite-go.kontain.me | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-infinite-go-kontain-me-84a68d60.md) |
 | latere.ai/x/ci-gate | v0.5.0 | 2026-08-30T10:55:18.342292Z | [open](../records/go-latere-ai-x-ci-gate-4bfeb005.md) |
@@ -364,15 +364,17 @@ Records: `390`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Hugging Face Transformers | v5.16.1 | 2026-08-26T14:50:01Z | [open](../records/aim-s-hugging-face-transformers-9b7d820e.md) |
-| JAX | jax-v0.11.1 | 2026-08-17T20:45:31Z | [open](../records/aim-s-jax-160b4e37.md) |
-| PyTorch | v2.13.0 | 2026-07-08T17:39:58Z | [open](../records/aim-s-pytorch-ce083d68.md) |
-| TensorFlow | v2.21.0 | 2026-03-06T19:48:15Z | [open](../records/aim-s-tensorflow-128400a0.md) |
+| Hugging Face Transformers | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-hugging-face-transformers-9b7d820e.md) |
+| JAX | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-jax-160b4e37.md) |
+| PyTorch | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-pytorch-ce083d68.md) |
+| TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 
 ## Maps
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| cesiumlab/XbsjEarthUI | unknown | github_search_does_not_include_release_date | [open](../records/maps-cesiumlab-xbsjearthui-ebc31770.md) |
+| Esri/arcgis-maps-sdk-dotnet-samples | unknown | github_search_does_not_include_release_date | [open](../records/maps-esri-arcgis-maps-sdk-dotnet-samples-0c5516d2.md) |
 | heremaps/maps-api-for-javascript-examples | unknown | github_latest_release_missing | [open](../records/maps-heremaps-maps-api-for-javascript-examples-735bd309.md) |
 | jvillarejo/spyme | unknown | github_latest_release_missing | [open](../records/maps-jvillarejo-spyme-13d048c0.md) |
 | maptiler/maptiler-sdk-js | v4.1.0 | 2026-07-29T14:01:29Z | [open](../records/maps-maptiler-maptiler-sdk-js-2a5f0115.md) |
@@ -380,13 +382,14 @@ Records: `390`
 | mountain-pass/addressr | @mountainpass/addressr-react@0.7.5 | 2026-08-28T22:32:14Z | [open](../records/maps-mountain-pass-addressr-dd4eff8b.md) |
 | openeventdata/mordecai | v2.1.0 | 2020-07-16T21:37:57Z | [open](../records/maps-openeventdata-mordecai-3aa9fc97.md) |
 | sylvainjule/kirby-locator | 2.1.0 | 2025-08-04T17:19:04Z | [open](../records/maps-sylvainjule-kirby-locator-ad754d9e.md) |
+| w3reality/three-geo | unknown | github_search_does_not_include_release_date | [open](../records/maps-w3reality-three-geo-ccdac8ff.md) |
 
 ## Space Engines
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Ilya246/orbitfight | 0.11 | 2026-05-11T19:47:38Z | [open](../records/space-engines-ilya246-orbitfight-c264d320.md) |
-| rrainey/agc-mechanical-cad | unknown | github_latest_release_missing | [open](../records/space-engines-rrainey-agc-mechanical-cad-91cbee62.md) |
+| Ilya246/orbitfight | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-ilya246-orbitfight-c264d320.md) |
+| rrainey/agc-mechanical-cad | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-rrainey-agc-mechanical-cad-91cbee62.md) |
 | Space-Systems/neptune | v2025-03 | 2025-04-08T12:44:17Z | [open](../records/space-engines-space-systems-neptune-882f9fef.md) |
 
 ## Space Shuttles
@@ -493,19 +496,19 @@ Records: `390`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| gbdev/rgbds | v1.0.3 | 2026-08-01T17:09:11Z | [open](../records/assembly-gbdev-rgbds-2d9bc1c6.md) |
-| rigtorp/awesome-lockfree | unknown | github_latest_release_missing | [open](../records/assembly-rigtorp-awesome-lockfree-44d48e4b.md) |
-| tanghaibao/jcvi | unknown | github_latest_release_missing | [open](../records/assembly-tanghaibao-jcvi-74bbbc68.md) |
+| gbdev/rgbds | partial | 2026-08-25T20:13:37Z | [open](../records/assembly-gbdev-rgbds-2d9bc1c6.md) |
+| rigtorp/awesome-lockfree | partial | 2024-02-25T00:18:35Z | [open](../records/assembly-rigtorp-awesome-lockfree-44d48e4b.md) |
+| tanghaibao/jcvi | partial | 2026-08-12T13:58:34Z | [open](../records/assembly-tanghaibao-jcvi-74bbbc68.md) |
 
 ## Pattern language
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| faif/python-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-faif-python-patterns-7e2d4e06.md) |
-| mercari/ml-system-design-pattern | unknown | github_latest_release_missing | [open](../records/pattern-language-mercari-ml-system-design-pattern-049b4bc1.md) |
-| msaroufim/ml-design-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-msaroufim-ml-design-patterns-36f5df60.md) |
-| Sairyss/domain-driven-hexagon | unknown | github_latest_release_missing | [open](../records/pattern-language-sairyss-domain-driven-hexagon-1157f04a.md) |
-| shiyindaxiaojie/eden-demo-cola | unknown | github_latest_release_missing | [open](../records/pattern-language-shiyindaxiaojie-eden-demo-cola-12938f41.md) |
+| faif/python-patterns | partial | 2026-08-20T09:10:58Z | [open](../records/pattern-language-faif-python-patterns-7e2d4e06.md) |
+| mercari/ml-system-design-pattern | partial | 2021-10-07T21:57:44Z | [open](../records/pattern-language-mercari-ml-system-design-pattern-049b4bc1.md) |
+| msaroufim/ml-design-patterns | partial | 2022-06-29T00:50:58Z | [open](../records/pattern-language-msaroufim-ml-design-patterns-36f5df60.md) |
+| Sairyss/domain-driven-hexagon | partial | 2024-06-11T05:47:51Z | [open](../records/pattern-language-sairyss-domain-driven-hexagon-1157f04a.md) |
+| shiyindaxiaojie/eden-demo-cola | partial | 2026-04-28T16:31:52Z | [open](../records/pattern-language-shiyindaxiaojie-eden-demo-cola-12938f41.md) |
 
 ## WebAssembly
 

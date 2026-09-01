@@ -7,28 +7,28 @@ This catalog preserves discovered evidence and marks uncertainty explicitly. A r
 ## Category Index
 
 [Api Abi Checker (127)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (33)](by-category/assertion-mocking.md) · [Async Runtime (106)](by-category/async-runtime.md)
-[Benchmarking (74)](by-category/benchmarking.md) · [Build System (590)](by-category/build-system.md) · [Cli (451)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
-[Community Reference (67)](by-category/community-reference.md) · [Compiler (122)](by-category/compiler.md) · [Compiler Diagnostics (18)](by-category/compiler-diagnostics.md) · [Compression (36)](by-category/compression.md)
-[Concurrency Parallelism (63)](by-category/concurrency-parallelism.md) · [Configuration (73)](by-category/configuration.md) · [Container Deployment (7)](by-category/container-deployment.md) · [Coverage (10)](by-category/coverage.md)
-[Cryptography (132)](by-category/cryptography.md) · [Data Science (30)](by-category/data-science.md) · [Database Datastore (437)](by-category/database-datastore.md) · [Datetime (104)](by-category/datetime.md)
+[Benchmarking (75)](by-category/benchmarking.md) · [Build System (596)](by-category/build-system.md) · [Cli (453)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Community Reference (67)](by-category/community-reference.md) · [Compiler (122)](by-category/compiler.md) · [Compiler Diagnostics (18)](by-category/compiler-diagnostics.md) · [Compression (37)](by-category/compression.md)
+[Concurrency Parallelism (63)](by-category/concurrency-parallelism.md) · [Configuration (75)](by-category/configuration.md) · [Container Deployment (7)](by-category/container-deployment.md) · [Coverage (10)](by-category/coverage.md)
+[Cryptography (132)](by-category/cryptography.md) · [Data Science (30)](by-category/data-science.md) · [Database Datastore (441)](by-category/database-datastore.md) · [Datetime (105)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (35)](by-category/debugger.md) · [Dependency Manager (61)](by-category/dependency-manager.md) · [Documentation (62)](by-category/documentation.md)
-[Embedded Hardware (39)](by-category/embedded-hardware.md) · [Ffi Bindings (324)](by-category/ffi-bindings.md) · [Filesystem Os (761)](by-category/filesystem-os.md) · [Formatter (442)](by-category/formatter.md)
-[Framework (38)](by-category/framework.md) · [Fuzzer (30)](by-category/fuzzer.md) · [Game Engine Game Dev (104)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (850)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (184)](by-category/image-audio-dsp.md) · [Interop Bindings (48)](by-category/interop-bindings.md) · [Interpreter Runtime (161)](by-category/interpreter-runtime.md) · [Jit Vm (55)](by-category/jit-vm.md)
-[Language Server (23)](by-category/language-server.md) · [Language Specification (837)](by-category/language-specification.md) · [Library (3388)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (38)](by-category/lint-rule-pack.md) · [Linter (334)](by-category/linter.md) · [Logging Observability (259)](by-category/logging-observability.md) · [Machine Learning (390)](by-category/machine-learning.md)
-[Math Numeric Scientific (70)](by-category/math-numeric-scientific.md) · [Memory Analyzer (54)](by-category/memory-analyzer.md) · [Message Broker (24)](by-category/message-broker.md) · [Networking Http (698)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (199)](by-category/package-manager.md) · [Parser Lexer Ast (598)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (176)](by-category/precommit-ci-quality.md)
-[Profiler (58)](by-category/profiler.md) · [Project Scaffolding (91)](by-category/project-scaffolding.md) · [Registry Repository (105)](by-category/registry-repository.md) · [Sanitizer (8)](by-category/sanitizer.md)
-[Security Sast (270)](by-category/security-sast.md) · [Serialization (272)](by-category/serialization.md) · [Standard Library (22)](by-category/standard-library.md) · [Static Analyzer (273)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (421)](by-category/testing-framework.md) · [Tutorial Book Styleguide (42)](by-category/tutorial-book-styleguide.md) · [Type Checker (264)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1135)](by-category/undefined-behavior-analyzer.md) · [Utility Library (81)](by-category/utility-library.md) · [Visualization Gui (280)](by-category/visualization-gui.md) · [Web Framework (304)](by-category/web-framework.md)
+[Embedded Hardware (40)](by-category/embedded-hardware.md) · [Ffi Bindings (327)](by-category/ffi-bindings.md) · [Filesystem Os (784)](by-category/filesystem-os.md) · [Formatter (450)](by-category/formatter.md)
+[Framework (38)](by-category/framework.md) · [Fuzzer (40)](by-category/fuzzer.md) · [Game Engine Game Dev (109)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (860)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (186)](by-category/image-audio-dsp.md) · [Interop Bindings (48)](by-category/interop-bindings.md) · [Interpreter Runtime (162)](by-category/interpreter-runtime.md) · [Jit Vm (55)](by-category/jit-vm.md)
+[Language Server (24)](by-category/language-server.md) · [Language Specification (843)](by-category/language-specification.md) · [Library (3399)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (38)](by-category/lint-rule-pack.md) · [Linter (336)](by-category/linter.md) · [Logging Observability (265)](by-category/logging-observability.md) · [Machine Learning (393)](by-category/machine-learning.md)
+[Math Numeric Scientific (71)](by-category/math-numeric-scientific.md) · [Memory Analyzer (54)](by-category/memory-analyzer.md) · [Message Broker (24)](by-category/message-broker.md) · [Networking Http (700)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (206)](by-category/package-manager.md) · [Parser Lexer Ast (613)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (176)](by-category/precommit-ci-quality.md)
+[Profiler (58)](by-category/profiler.md) · [Project Scaffolding (91)](by-category/project-scaffolding.md) · [Registry Repository (105)](by-category/registry-repository.md) · [Sanitizer (9)](by-category/sanitizer.md)
+[Security Sast (270)](by-category/security-sast.md) · [Serialization (282)](by-category/serialization.md) · [Standard Library (22)](by-category/standard-library.md) · [Static Analyzer (297)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (421)](by-category/testing-framework.md) · [Tutorial Book Styleguide (43)](by-category/tutorial-book-styleguide.md) · [Type Checker (271)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (1203)](by-category/undefined-behavior-analyzer.md) · [Utility Library (82)](by-category/utility-library.md) · [Visualization Gui (284)](by-category/visualization-gui.md) · [Web Framework (307)](by-category/web-framework.md)
 
 ## Source Labels
 
 | Label | Records |
 | --- | ---: |
-| registry-derived | 11822 |
+| registry-derived | 12075 |
 | npm_registry | 1153 |
 | julia_general | 879 |
 | crates_io | 877 |
@@ -43,15 +43,15 @@ This catalog preserves discovered evidence and marks uncertainty explicitly. A r
 
 | Kind | Status | Records |
 | --- | --- | ---: |
-| github_cli_search | forge-cli-derived | 2637 |
+| github_cli_search | forge-cli-derived | 2558 |
 | npm_registry_search | registry-derived | 1458 |
 | julia_general_registry | registry-derived | 1229 |
 | crates_io | registry-derived | 1228 |
 | luarocks_root_manifest | registry-derived | 858 |
+| go_module_index | registry-derived | 838 |
 | cran_available_packages_by_date | registry-derived | 827 |
-| go_module_index | registry-derived | 758 |
+| github_repository_search | registry-derived | 724 |
 | pypi_simple_and_json_api | registry-derived | 520 |
-| github_repository_search | registry-derived | 472 |
 | model_knowledge_corpus | unverified_seed | 454 |
 | official_language_route | curated-extension-derived | 400 |
 | community_reference_markdown | curated-list-derived | 295 |
@@ -73,204 +73,204 @@ This catalog preserves discovered evidence and marks uncertainty explicitly. A r
 
 ## Fetch Errors
 
-- `HTTPError: https://api.github.com/repos/100thCoin/AccuracyCoin/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/3lf/design-patterns-for-humans/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/ADSWNJ/BaseSyncMFD/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/ADSWNJ/LagrangeMFD/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/ADSWNJ/ModuleMessagingExt/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/ADSWNJ/On_Station_Ops/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/ADSWNJ/RV_Orientation/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/ANDREWNGT/FORMFLYT/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/AIGC-Audio/AudioGPT/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/AaronJackson/vrn/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/AdityaBagad/NASA-Space-Shuttle-Missions/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/AlexanderGrom/go-patterns/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Afilmory/afilmory/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Alchemist0823/three.quarks/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/AlfredXiangWu/face_verification_experiment/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/AlterWL/Battery_SOC_Estimation/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/AndreyPanov/ApplicationCoordinator/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Armando1514/Event-Driven-Microservices-Advanced/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Astro-Rabbit/VRC_Orbiter/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Archmage83/tvapk/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Ardour/ardour/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Ariakim-Taiyo/GeoFS-Shaders-Repository/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Arnklit/godot-paint-postprocessing/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Arystos/Advanced-Outline-Shader-UE5/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/AtsushiSakai/MATLABRobotics/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/Ayatans/Machine-Learning-homework/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/BMIRDS/deepslide/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/Bahn-X/swift-composable-navigator/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/BillyDM/awesome-audio-dsp/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Biomedical-Imaging-Group/DeconvolutionLab2/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/BlueSkyDefender/Depth3D/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/Borye/machine-learning-coursera-1/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/BradenM/pydngconverter/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/Brightify/Reactant/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Captainarash/The_Holy_Book_of_X86/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/ChristopherRabotin/smd/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/CodelyTV/typescript-ddd-example/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Conquer-Space/Conquer-Space/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/DGivney/assemblytutorials/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/DJBen/Graviton/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/DavidR-21/Space-Shuttle-Reentry-Analysis/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/DesignPatternsPHP/DesignPatternsPHP/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Devinterview-io/api-design-interview-questions/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Devinterview-io/concurrency-interview-questions/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Devinterview-io/databases-interview-questions/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Devinterview-io/docker-interview-questions/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Devinterview-io/microservices-interview-questions/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Devinterview-io/software-architecture-interview-questions/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/DovAmir/awesome-design-patterns/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/E-S-Waga15/Spacecraft-Motion-Simulation/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Esri/awesome-arcgis-developers/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/CSET-Toolbox/CSET/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/CyberDeck/Unity-HDRP-LensFlares/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/DIYer22/process_raw/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/DaveFace/UnrealRetroShaders/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/DavidPeicho/3ffects/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/DylanMuir/ReadImageJROI/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Dzyzor/godot-selective-post-processing-shader-demo/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/EMBYRDEV/godot-toon-outline/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/ErickWendel/semana-javascript-expert08/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/Ewenwan/Mathematics/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/F35-Vin-Desh/FlightGear-Space-Shuttle-Simulation/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/FFmpeg/FFmpeg/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/FengJungle/DesignPattern/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Finin-Quincey/Modelling-Techniques-2/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/FlorentF9/SatelliteSimulator/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/FredKSchott/the-node-way/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/GH-X-ST/Aeronautical-Engineering-Imperial/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/GoogleCloudPlatform/ml-design-patterns/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Habrador/Unity-Programming-Patterns/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/HazyResearch/hyena-dna/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/HazyResearch/safari/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/FreeTubeApp/FreeTube/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Fubaxiusz/fubax-shaders-dev/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Fubaxiusz/fubax-shaders/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Gamua/Starling-Extension-Particle-System/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/GarrettGunnell/Inktober-Ink-Shader/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/GarrettGunnell/Post-Processing/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/GimelStudio/GimelStudio/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/GoogleContainerTools/distroless/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/HA6Bots/TikTok-Compilation-Video-Generator/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/HaveAGitGat/Tdarr/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/HiroIshida/robust-tube-mpc/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/HuangCongQing/Algorithms_MathModels/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Hunter-Github/GitScience/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/HuanglabPurdue/NCS/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/HybridRobotics/CBF-CLF-Helper/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/HybridRobotics/NMPC-DCLF-DCBF/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Izack/Deepstar/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/JDat/orbiterVncClient/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/JakubVojvoda/design-patterns-cpp/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/KOSASIH/thermal-protection-system/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/KnightOS/KnightOS/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Kraken-Space-Program/Kraken-Space-Program/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/KrishAmal/NavAR/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/IdeaSpaceVR/aframe-particle-system-component/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Image-Py/imagepy/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/IndieMiao/Z-PostProcessing-HDRP/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Jasonnor/Car-Simulator/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Jermic/awesome-aiart-pics-prompts/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/JoachimLaviolette/out-of-the-shadows/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/JoaoFranco03/photography-portfolio/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Juanrod99/Godot-PS1-Shader-Mixer/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Leviant/ScreenSpace_Ubershader/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/Linfeng-Tang/Image-Fusion/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/Lisandro79/BeatTheBookie/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/LordAlbior/UE4-Watercolor/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/LyricYang/MIMO_OFDM/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Mahmoudz/Porto/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/MWod/ANHIR_MW/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/MWod/DeepHistReg/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/MaksimKurpa/Linker/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Maratyszcza/PeachPy/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/MasterERTS/sipro-spaceshuttle/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/MasterOgon/Aeroacoustic-Flying-Saucer-Oscillating-Resonator-CFD-Simulation-LBM-/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Malidos/Stylized-Water-Shader/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Masudbro94/python-hacked-mobile-phone-/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Mathews-Tom/Agentic-Design-Patterns/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/MatiasSaibene/Antonov_An225_for_Orbiter/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/MatiasSaibene/FlightDataRecMFD_for_OpenOrbiter/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/MattPD/cpplinks/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Microservice-API-Patterns/LakesideMutual/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/MicroscPSF/MicroscPSF-Matlab/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/MicroscPSF/MicroscPSF-Py/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/MindorksOpenSource/iOS-Viper-Architecture/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Mizharrrrrhidi1818/OutlierDetectionMethod-IsolationForest-LOF-DBSCAN/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/MrEngineer13/SnackBar/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Naphier/unity-design-patterns/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/MirzaBeig/Post-Processing-Scan/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/MirzaBeig/Post-Processing-Wireframe-Outlines/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Mohammad9760/PostProcessing_Cookbook/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/NICALab/SUPPORT/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Neko3000/Monotone/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/NerdsWithAttitudes/WarpFactory/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/NixOS/hydra/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/NixOS/nix/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/NixOS/nixpkgs/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/NythicalNorm/VoxelSpaceProgram/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/OpenCageData/python-opencage-geocoder/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Orlandster/geo-on-fire/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Overv/MineAssemble/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/PDP-10/its/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/PacktPublishing/Node.js-Design-Patterns-Third-Edition/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/PlummersSoftwareLLC/TinyRetroPad/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/PrincetonUniversity/openpiton/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/QianMo/Unity-Design-Pattern/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/RandalLinden/DOOM-FX/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/RefactoringGuru/design-patterns-java/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/RefactoringGuru/design-patterns-php/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/RefactoringGuru/design-patterns-python/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/RefactoringGuru/design-patterns-typescript/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/ReneeYe/Simulation_Course_project/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Robert-Ramsayer/Apollo-s-path/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/NextLevel/NextLevel/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/NullTale/VolFx/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/OctoCrane/Re-Shade-Effects/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/OmarShehata/webgl-outlines/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/OpenMOSS/MOSS-TTS/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/QianMo/X-PostProcessing-Library/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/RandyGaul/cute_headers/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/RayXie29/Shading_Correction/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/RdenBlaauwen/RCAS-for-ReShade/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Robert-K/gpu-particles/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/SPIRIT-org/SPIRIT/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/SachinM007/NASA-Space-Shuttle-Anomaly-Detection-Sysytem/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Sairyss/domain-driven-hexagon/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Sairyss/system-design-patterns/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/SahilK-027/Digital-Brain/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/SamiPerttu/fundsp/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Samsy/Post-Processing-Hack-Editor/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Samuwhale/UE5-Painterly-Shader/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/SasaKaranovic/DIY-Camera-Slider/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/ShaoqingRen/faster_rcnn/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/Shuai-Xie/genetic-algorithm/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Sokoloff-Alex/Projects/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/SpinalHDL/VexRiscv/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Suryakant-Bharti/Important-Java-Concepts/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/SweetIQ/expostal/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/THRASTRO/ephem.js/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/SomeoneSimple/LG-R100-VR-360-Reshade/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/SonyResearch/raw_image_denoising/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/TasThief/CameraClippingShader/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/TheAlgorithms/MATLAB-Octave/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/TheHama7/SpaceArm_VirtualPrototype/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/TheSpaceDevs/Tutorials/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/ThomasJaeger/VisualMASM/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/ThomasYeoLab/CBIG/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/TruSat/trusat-orbit/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/TunSafe/TunSafe/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Unity-Technologies/game-programming-patterns-demo/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/Varietyz/Disciplined-AI-Software-Development/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/TxN/UnityURP_Kuwahara/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Velorexe/UnityHDRP-Post-Processing-Hatching-Shader/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/VideoFlint/Cabbage/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/VincentWong3/automated-driving-control/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/VincentWong3/automatic-driving-decision-and-planning-for-matlab/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/VipaiLab/Signals-and-Systems-course/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/VishalGhuge111/nakshatraX/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/WeLoveKiraboshi/SIPRO-SpaceShuttle/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/WebKit/WebKit/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Wokarol/PostProcessing-CustomEffects/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/YashBansod/Robotics-Planning-Dynamics-and-Control/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/ZJULearning/MatlabFunc/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/aashishaj/SpaceShuttle-Simulation/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/abdolrezat/TURBN-Turbine-Design/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/abishekaditya/DesignPatterns/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/adam-lynch/back-of-your-hand/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/adimiko/TransactionalBox/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/aangelopoulos/im2im-uq/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/adnanmunawar/matlab-rrt-variants/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/adriancable/8086tiny/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/aerospaceresearch/orbitdeterminator/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/afgprogrammer/Flutter-Photography-Application/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/ai-winter/matlab_motion_planning/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/akkartik/mu/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/alaaalquraan078-del/space-shuttle-anomaly-detection/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/aiff22/PyNET-Bokeh/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/aiff22/PyNET-PyTorch/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/aiff22/PyNET/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/albanie/convnet-burden/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/alecjacobson/gptoolbox/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/alexreisner/geocoder/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/alfonsogonzalez/AWP/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/aloisdeniel/flutter_geocoder/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/alti3/stk-mcp/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/alvin-tosh/Malware-Exhibit/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/alyssaxuu/motionity/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/andremichelle/openDAW/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/andrew--r/channels/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/andrewssobral/lrslibrary/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/andyzg/gallery/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/anilbas/3DMMasSTN/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/anton-liauchuk/java-interview/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/arasgungore/rocket-flight-simulator/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/aritraroy/PatternLockView/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/artembilan/microservices-patterns-spring-integration/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/asrikanth777/columbiaSpaceShuttle/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/astrobook/astrobook/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/artyommihailovich/RealityKitPostProcessingLUT/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/asantee/ethanon/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/atinesh/Coursera-Machine-Learning-Stanford/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/atlasr-org/atlasr/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/audreyfeldroy/favicon-cheat-sheet/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/avaneev/r8brain-free-src/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/avito-tech/Marshroute/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/badamczewski/PowerUp/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/bandaloo/merge-pass/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/banterle/HDR_Toolbox/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/bazelbuild/starlark/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/bazelbuild/examples/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/bcmi/Image-Harmonization-Dataset-iHarmony4/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/benjamintd/benmaps.fr/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/begeekmyfriend/yasea/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/belangeo/pyo/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/bennyhuo/Kotlin-Tutorials/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/bertinetto/siamese-fc/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/bethrobson/Head-First-Design-Patterns/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/beyonk/svelte-mapbox/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/binarylogic/settingslogic/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/blackbird71SR/Hello-World/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/blender/blender/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/blue42shade/remap/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/bluescarni/piranha/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/bluewaysw/pcgeos/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/bmadone/senior-software-engineer/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/bilibili/ijkplayer/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/bockp/Edge-Detection-project/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/brendenlake/BPL/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/brendenlake/omniglot/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/briansmith/ring/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/bytecode77/pe-union/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/brogli/Kaleidoscope/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/bzgeb/PixelatePostProcessing/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/bzgeb/PixelatePostProcessingHDRP/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/bzgeb/PixelatePostProcessingURP/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/calebj0seph/spectro/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/callmekeyboardman/Machine-Learning-Andrew-Ng/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/chalcrow/Atlantis/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/chanakaudaya/solution-architecture-patterns/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/charlessolar/eShopOnContainersDDD/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/chrislgarry/Apollo-11/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/christian-posta/envoy-microservices-patterns/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/chuanxshi/javascript-patterns/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/cirosantilli/x86-assembly-cheat/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/cirosantilli/x86-bare-metal-examples/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/cisprague/Astro.IQ/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/cjdelisle/cjdns/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/cocos2d/cocos2d-x/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/compiler-explorer/compiler-explorer/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/computerex/orbiter-mods.com/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/corkami/pics/releases/latest: HTTP Error 404: Not Found`
-- `HTTPError: https://api.github.com/repos/corkami/pocs/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/catrujilla/pyDHM/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/cbassa/sattools/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/ceciliavision/zoom-learn-zoom/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/clEsperanto/pyclesperanto_prototype/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/computational-cell-analytics/peft-sam/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/computational-imaging/ThreeDeconv.jl/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/coreprocess/linux-unattended-installation/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/coursera-dl/coursera-dl/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/crosire/reshade-shaders/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/cs-chan/Exclusively-Dark-Image-Dataset/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/cs-chan/Total-Text-Dataset/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/cszn/DnCNN/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/cszn/FFDNet/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/cszn/IRCNN/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/cszn/SRMD/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/ctjhoa/rust-learning/releases/latest: HTTP Error 404: Not Found`
 - `HTTPError: https://api.github.com/repos/cybergalactic/MSS/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/cycleuser/Stanford-CS-229/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/cydonia999/Learning_to_See_in_the_Dark_PyTorch/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/daijifeng001/R-FCN/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/dancsalo/TensorFlow-MIL/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/daneden/photos.daneden.me/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/daniel-ilett/shaders-fullscreen-outlines/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/daniel-ilett/shaders-gaussian-blur/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/danlivings/oil-painting-effect-shader-unity/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/delmic/odemis/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/denkywu/SAR-Synthetic-Aperture-Radar/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/devkcud/VesperaFX/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/dick20/MCM-ICM/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/djeedai/bevy_hanabi/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/dlaptev/RobustPCA/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/dmpop/pellicola/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/dropbox/dbx_build_tools/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/ecmadao/Coding-Guide/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/egorshest/webgl-ascii-hero/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/envoyproxy/data-plane-api/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/eszdman/PhotonCamera/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/ethz-asl/kalibr/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/evildmp/C-is-for-Camera/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/facebookincubator/reindeer/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/fastvideo/pgm2dng/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/fearofcode/bateman/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/flika-org/flika/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/florolf/fluxus-pp/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/freeman-jiang/beatsync/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/fthaler/rawhdr/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/geerlingguy/pi-timelapse/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/gnes-ai/gnes/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/googleapis/googleapis/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/googollee/eviltransform/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/guosheng/refinenet/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/hahnec/rf-ulm/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/hallvaaw/awesome-biological-image-analysis/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/hasnain7abbas/gargantua-blackhole/releases/latest: HTTP Error 404: Not Found`
 - 300 more errors omitted.
