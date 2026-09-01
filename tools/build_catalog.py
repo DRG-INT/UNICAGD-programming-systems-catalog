@@ -1655,6 +1655,7 @@ def render(source_path: Path) -> dict[str, Any]:
     write_text(CATALOG_DIR / "release-watch.md", render_release_watch(payload))
     write_text(CATALOG_DIR / "provenance.md", render_provenance(payload))
     write_text(CATALOG_DIR / "source-map.md", render_source_map(payload))
+    write_text(REPORT_MD, render_enrichment_report(payload))
     render_language_pages(records)
     render_category_pages(records)
     render_record_pages(records)
@@ -1673,6 +1674,7 @@ def render_root_readme(payload: dict[str, Any]) -> str:
     generated = payload.get("generated_at", "")
     scope = [normalize_branch(item) for item in payload.get("scope", LANGUAGE_ORDER)]
     scope = [item for item in LANGUAGE_ORDER if item in set(scope)]
+    counts = count_categories(payload.get("records", []))
     return f"""# UNICAGD Programming Systems Discovery Catalog
 
 Generated: `{generated}`
@@ -1685,6 +1687,8 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 - [Release watch](catalog/release-watch.md)
 - [Provenance and confidence](catalog/provenance.md)
 - [Source record map](catalog/source-map.md)
+
+{category_index_block(counts, "catalog/by-category/")}
 
 ## Corpus Shape
 
@@ -1723,10 +1727,13 @@ def render_catalog_index(payload: dict[str, Any]) -> str:
     for record in records:
         by_language[record["catalog_branch"]].append(record)
         by_category[record["category"]].append(record)
+    counts = count_categories(records)
     lines = [
         "# Catalog Index",
         "",
         f"Generated: `{payload.get('generated_at', '')}`",
+        "",
+        category_index_block(counts, "by-category/"),
         "",
         "## Languages",
         "",
@@ -1740,7 +1747,7 @@ def render_catalog_index(payload: dict[str, Any]) -> str:
         known = sum(1 for item in items if item["release"]["status"] == "known")
         path = f"by-language/{slugify(branch)}.md"
         lines.append(f"| {md_escape(branch)} | {len(items)} | {known} | [{md_escape(branch)}]({path}) |")
-    lines.extend(["", "## Categories", "", "| Category | Records | Page |", "| --- | ---: | --- |"])
+    lines.extend(["", "## Category Details", "", "| Category | Records | Page |", "| --- | ---: | --- |"])
     for category in sorted(by_category):
         items = by_category[category]
         path = f"by-category/{slugify(category)}.md"
@@ -1765,6 +1772,7 @@ def render_catalog_index(payload: dict[str, Any]) -> str:
 
 def render_language_pages(records: list[dict[str, Any]]) -> None:
     by_language = defaultdict(list)
+    counts = count_categories(records)
     for record in records:
         by_language[record["catalog_branch"]].append(record)
     for branch, items in by_language.items():
@@ -1775,6 +1783,12 @@ def render_language_pages(records: list[dict[str, Any]]) -> None:
             f"# {branch}",
             "",
             f"Records: `{len(items)}`",
+            "",
+            "## Navigation",
+            "",
+            f"[Catalog index](../index.md) · [Release watch](../release-watch.md)",
+            "",
+            category_index_block(counts, "../by-category/"),
             "",
             "## Categories",
             "",
@@ -1798,6 +1812,7 @@ def render_language_pages(records: list[dict[str, Any]]) -> None:
 
 def render_category_pages(records: list[dict[str, Any]]) -> None:
     by_category = defaultdict(list)
+    counts = count_categories(records)
     for record in records:
         by_category[record["category"]].append(record)
     for category, items in by_category.items():
@@ -1808,6 +1823,12 @@ def render_category_pages(records: list[dict[str, Any]]) -> None:
             f"# {label(category)}",
             "",
             f"Records: `{len(items)}`",
+            "",
+            "## Navigation",
+            "",
+            f"[Catalog index](../index.md) · [Release watch](../release-watch.md)",
+            "",
+            category_index_block(counts, "", current_category=category),
             "",
         ]
         for branch in LANGUAGE_ORDER:
@@ -1830,6 +1851,7 @@ def render_category_pages(records: list[dict[str, Any]]) -> None:
 
 def render_record_pages(records: list[dict[str, Any]]) -> None:
     related_by_branch_category = defaultdict(list)
+    counts = count_categories(records)
     for record in records:
         related_by_branch_category[(record["catalog_branch"], record["category"])].append(record)
     for record in records:
@@ -1838,10 +1860,14 @@ def render_record_pages(records: list[dict[str, Any]]) -> None:
             for item in related_by_branch_category[(record["catalog_branch"], record["category"])]
             if item["identity_key"] != record["identity_key"]
         ][:8]
-        write_text(CATALOG_DIR / "records" / f"{record['slug']}.md", render_record_page(record, related))
+        write_text(CATALOG_DIR / "records" / f"{record['slug']}.md", render_record_page(record, related, counts))
 
 
-def render_record_page(record: dict[str, Any], related: list[dict[str, Any]]) -> str:
+def render_record_page(
+    record: dict[str, Any],
+    related: list[dict[str, Any]],
+    counts: Counter[str],
+) -> str:
     rel = record.get("release", unknown_release("not_checked"))
     nightly = record.get("nightly", unknown_release("not_checked"))
     description = plain_markdown_text(record.get("description"))
@@ -1851,6 +1877,10 @@ def render_record_page(record: dict[str, Any], related: list[dict[str, Any]]) ->
     source_ids = record.get("source_record_ids", [record.get("id", "")])
     lines = [
         f"# {record['name']}",
+        "",
+        "## Navigation",
+        "",
+        record_navigation(record),
         "",
         "## Identity",
         "",
@@ -1896,6 +1926,7 @@ def render_record_page(record: dict[str, Any], related: list[dict[str, Any]]) ->
             lines.append(
                 f"| {md_escape(item['name'])} | {md_escape(label(item['category']))} | [open]({item['slug']}.md) |"
             )
+    lines.extend(["", category_index_block(counts, "../by-category/", current_category=record["category"])])
     return "\n".join(lines)
 
 
@@ -2039,6 +2070,51 @@ def bullet_list(items: list[str]) -> str:
     return "\n".join(f"- {item}" for item in items) if items else "- None"
 
 
+def count_categories(records: list[dict[str, Any]]) -> Counter[str]:
+    counts: Counter[str] = Counter()
+    for record in records:
+        category = clean_text(record.get("category"))
+        if category:
+            counts[category] += 1
+    return counts
+
+
+def chunked(items: list[str], size: int) -> list[list[str]]:
+    return [items[index : index + size] for index in range(0, len(items), size)]
+
+
+def category_index_block(
+    counts: Counter[str],
+    link_prefix: str,
+    *,
+    current_category: str = "",
+) -> str:
+    lines = ["## Category Index", ""]
+    if not counts:
+        lines.append("No category records available.")
+        return "\n".join(lines)
+    links = []
+    for category in sorted(counts):
+        text = f"{label(category)} ({counts[category]})"
+        href = f"{link_prefix}{slugify(category)}.md"
+        link_text = f"[{md_escape(text)}]({href})"
+        links.append(f"**{link_text}**" if category == current_category else link_text)
+    for group in chunked(links, 4):
+        lines.append(" · ".join(group))
+    return "\n".join(lines)
+
+
+def record_navigation(record: dict[str, Any]) -> str:
+    branch = record["catalog_branch"]
+    category = record["category"]
+    return (
+        f"[Catalog index](../index.md) · "
+        f"[Language: {md_escape(branch)}](../by-language/{slugify(branch)}.md) · "
+        f"[Category: {md_escape(label(category))}](../by-category/{slugify(category)}.md) · "
+        "[Release watch](../release-watch.md)"
+    )
+
+
 def render_release_watch(payload: dict[str, Any]) -> str:
     records = payload["records"]
     known = [item for item in records if item["release"]["status"] == "known"]
@@ -2049,6 +2125,8 @@ def render_release_watch(payload: dict[str, Any]) -> str:
         "# Release Watch",
         "",
         f"Generated: `{payload.get('generated_at', '')}`",
+        "",
+        category_index_block(count_categories(records), "by-category/"),
         "",
         "## Coverage",
         "",
@@ -2098,6 +2176,8 @@ def render_provenance(payload: dict[str, Any]) -> str:
         "",
         "This catalog preserves discovered evidence and marks uncertainty explicitly. A record with an unknown release is still useful as a tracked identity, but it is not release-authoritative until a primary source fills the release fields.",
         "",
+        category_index_block(count_categories(records), "by-category/"),
+        "",
         "## Source Labels",
         "",
         "| Label | Records |",
@@ -2128,10 +2208,13 @@ def render_provenance(payload: dict[str, Any]) -> str:
 
 def render_enrichment_report(payload: dict[str, Any]) -> str:
     stats = payload.get("statistics", {})
+    records = payload.get("records", [])
     lines = [
         "# Enrichment Report",
         "",
         f"Generated: `{payload.get('generated_at', '')}`",
+        "",
+        category_index_block(count_categories(records), "by-category/"),
         "",
         "| Metric | Count |",
         "| --- | ---: |",
@@ -2157,7 +2240,14 @@ def render_source_map(payload: dict[str, Any]) -> str:
         for source_id in record.get("source_record_ids", [record.get("id", "")]):
             rows.append((source_id, record))
     rows.sort(key=lambda item: item[0])
-    lines = ["# Source Record Map", "", "| Source record id | Identity | Page |", "| --- | --- | --- |"]
+    lines = [
+        "# Source Record Map",
+        "",
+        category_index_block(count_categories(records), "by-category/"),
+        "",
+        "| Source record id | Identity | Page |",
+        "| --- | --- | --- |",
+    ]
     for source_id, record in rows:
         lines.append(f"| `{md_escape(source_id)}` | {md_escape(record['name'])} | [open](records/{record['slug']}.md) |")
     return "\n".join(lines)
