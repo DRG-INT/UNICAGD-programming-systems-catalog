@@ -2365,7 +2365,7 @@ Records: `2174`
 | [ClimaAnalysis](../records/julia-climaanalysis-e6c9c913.md) | unknown | julia_expansion_does_not_fetch_versions_by_default | registry-derived |
 | [ClusterAnalysis](../records/julia-clusteranalysis-ac7480bf.md) | unknown | julia_expansion_does_not_fetch_versions_by_default | registry-derived |
 | [JET.jl](../records/julia-jet-jl-73a910c6.md) | 0.12.1 | julia_registry_versions_do_not_include_release_dates | catalog_seed |
-| [StaticLint.jl](../records/julia-staticlint-jl-259f8275.md) | 9.0.0 | julia_registry_versions_do_not_include_release_dates | web_verified_this_pass |
+| [StaticLint.jl](../records/julia-staticlint-jl-259f8275.md) | v9.0.0 | 2026-03-12T12:17:02Z | web_verified_this_pass |
 
 ### Testing Framework
 

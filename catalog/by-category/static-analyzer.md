@@ -45,7 +45,7 @@ Records: `68`
 | ClimaAnalysis | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-climaanalysis-e6c9c913.md) |
 | ClusterAnalysis | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-clusteranalysis-ac7480bf.md) |
 | JET.jl | 0.12.1 | julia_registry_versions_do_not_include_release_dates | [open](../records/julia-jet-jl-73a910c6.md) |
-| StaticLint.jl | 9.0.0 | julia_registry_versions_do_not_include_release_dates | [open](../records/julia-staticlint-jl-259f8275.md) |
+| StaticLint.jl | v9.0.0 | 2026-03-12T12:17:02Z | [open](../records/julia-staticlint-jl-259f8275.md) |
 
 ## Rust
 

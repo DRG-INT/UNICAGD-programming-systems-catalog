@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-01T01:59:32+00:00`
+Generated: `2026-09-01T02:14:41+00:00`
 
 ## Languages
 
@@ -9,12 +9,12 @@ Generated: `2026-09-01T01:59:32+00:00`
 | C99 | 92 | 0 | [C99](by-language/c99.md) |
 | C23 | 19 | 0 | [C23](by-language/c23.md) |
 | C++23 | 92 | 1 | [C++23](by-language/c-23.md) |
-| Julia | 2174 | 0 | [Julia](by-language/julia.md) |
+| Julia | 2174 | 1 | [Julia](by-language/julia.md) |
 | Rust | 2183 | 2170 | [Rust](by-language/rust.md) |
 | Python | 144 | 127 | [Python](by-language/python.md) |
 | Node.js/JavaScript | 2330 | 2277 | [Node.js/JavaScript](by-language/node-js-javascript.md) |
 | Node.js/TypeScript | 373 | 355 | [Node.js/TypeScript](by-language/node-js-typescript.md) |
-| Lua family | 1937 | 0 | [Lua family](by-language/lua-family.md) |
+| Lua family | 1937 | 10 | [Lua family](by-language/lua-family.md) |
 
 ## Categories
 
@@ -96,9 +96,9 @@ Generated: `2026-09-01T01:59:32+00:00`
 | C99 | 0 | 92 |
 | C23 | 0 | 19 |
 | C++23 | 1 | 91 |
-| Julia | 0 | 2174 |
+| Julia | 1 | 2173 |
 | Rust | 2170 | 13 |
 | Python | 127 | 17 |
 | Node.js/JavaScript | 2277 | 53 |
 | Node.js/TypeScript | 355 | 18 |
-| Lua family | 0 | 1937 |
+| Lua family | 10 | 1927 |

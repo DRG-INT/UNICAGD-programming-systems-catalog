@@ -1,13 +1,13 @@
 # Release Watch
 
-Generated: `2026-09-01T01:59:32+00:00`
+Generated: `2026-09-01T02:14:41+00:00`
 
 ## Coverage
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 4930 |
-| Unknown stable release | 4414 |
+| Known stable release | 4941 |
+| Unknown stable release | 4403 |
 
 ## Newest Known Stable Metadata
 
@@ -271,8 +271,8 @@ Generated: `2026-09-01T01:59:32+00:00`
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 405 |
-| github_latest_release_missing | 126 |
-| julia_registry_versions_do_not_include_release_dates | 59 |
+| github_latest_release_missing | 116 |
+| julia_registry_versions_do_not_include_release_dates | 58 |
 | npm_metadata_missing | 58 |
 | not_an_npm_package_name | 13 |
 | crate_metadata_missing | 10 |

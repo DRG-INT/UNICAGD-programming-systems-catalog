@@ -117,9 +117,9 @@ Records: `82`
 | clangd_extensions.nvim | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-clangd-extensions-nvim-36a24d4d.md) |
 | cpp-compiler-pretty-output | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-cpp-compiler-pretty-output-d5aab195.md) |
 | dromozoa-compiler | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-dromozoa-compiler-363c8d74.md) |
-| GopherLua | unknown | github_latest_release_missing | [open](../records/lua-family-gopherlua-c755efc5.md) |
+| GopherLua | v1.1.2 | 2026-04-01T00:51:01Z | [open](../records/lua-family-gopherlua-c755efc5.md) |
 | LLVM-Lua | unknown | github_latest_release_missing | [open](../records/lua-family-llvm-lua-9ef4a12f.md) |
 | lua.vm.js | unknown | github_latest_release_missing | [open](../records/lua-family-lua-vm-js-e8ada39a.md) |
-| luadec51 | unknown | github_latest_release_missing | [open](../records/lua-family-luadec51-e7e06ca1.md) |
+| luadec51 | v2.0.2 | 2014-12-04T13:39:36Z | [open](../records/lua-family-luadec51-e7e06ca1.md) |
 | LuaJIT | unknown | not_checked | [open](../records/lua-family-luajit-06502a23.md) |
 | Metalua | unknown | github_latest_release_missing | [open](../records/lua-family-metalua-999eb138.md) |

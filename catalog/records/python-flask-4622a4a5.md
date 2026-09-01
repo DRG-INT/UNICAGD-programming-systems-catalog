@@ -33,7 +33,7 @@ policy, service structure, and deployment surface.
 
 - Treat category as `web_framework` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pypi.org/pypi/Flask/json` at `2026-09-01T01:59:28+00:00`.
+- Latest stable metadata was observed from `https://pypi.org/pypi/Flask/json` at `2026-09-01T02:13:00+00:00`.
 - Preview/nightly metadata is present through channel `preview`.
 
 ## Provenance

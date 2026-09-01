@@ -25,14 +25,14 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | unknown |  |  | unknown | github_latest_release_missing |
+| stable | known | release-v41.2.4 | 2026-07-26T18:13:08Z | [https://api.github.com/repos/lua-stdlib/lua-stdlib/releases/latest](https://api.github.com/repos/lua-stdlib/lua-stdlib/releases/latest) |  |
 | preview/nightly | unknown |  |  | unknown | github_prerelease_missing |
 
 ## Engineering Notes
 
 - Treat category as `language_specification` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Stable release is unknown because `github_latest_release_missing`.
+- Latest stable metadata was observed from `https://api.github.com/repos/lua-stdlib/lua-stdlib/releases/latest` at `2026-09-01T02:14:39+00:00`.
 - Preview/nightly metadata is unknown because `github_prerelease_missing`.
 
 ## Provenance

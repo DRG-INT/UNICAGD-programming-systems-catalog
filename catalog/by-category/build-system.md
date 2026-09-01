@@ -440,4 +440,4 @@ Records: `405`
 | Lake | unknown | github_latest_release_missing | [open](../records/lua-family-lake-e318ad2d.md) |
 | Luabuild | unknown | github_latest_release_missing | [open](../records/lua-family-luabuild-d725a8c5.md) |
 | luastatic | unknown | github_latest_release_missing | [open](../records/lua-family-luastatic-8586d9a4.md) |
-| omnia | unknown | github_latest_release_missing | [open](../records/lua-family-omnia-dcd1d11c.md) |
+| omnia | omnia-0.8.0 | 2017-03-03T15:56:23Z | [open](../records/lua-family-omnia-dcd1d11c.md) |

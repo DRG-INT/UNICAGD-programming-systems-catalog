@@ -68,7 +68,7 @@ Records: `47`
 | luaffi | unknown | github_latest_release_missing | [open](../records/lua-family-luaffi-ccbd9ac9.md) |
 | LuaJIT | unknown | not_checked | [open](../records/lua-family-luajit-8413717e.md) |
 | LuaJIT FFI | unknown | not_checked | [open](../records/lua-family-luajit-ffi-38fbbe83.md) |
-| magick | unknown | github_latest_release_missing | [open](../records/lua-family-magick-fc597f1b.md) |
+| magick | v1.6.0 | 2021-02-02T22:18:25Z | [open](../records/lua-family-magick-fc597f1b.md) |
 | ProFi | unknown | not_checked | [open](../records/lua-family-profi-d4dc9358.md) |
 | SciLua | unknown | not_checked | [open](../records/lua-family-scilua-1f7b2a38.md) |
 | turbo | unknown | not_checked | [open](../records/lua-family-turbo-ac34c11f.md) |

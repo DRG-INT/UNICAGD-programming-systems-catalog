@@ -287,7 +287,7 @@ Records: `144`
 | --- | --- | --- | --- |
 | [mypy](../records/python-mypy-843396a3.md) | 2.3.1 | 2026-08-15T03:03:38.549479Z | web_verified_this_pass |
 | [pyrefly](../records/python-pyrefly-65b95645.md) | 1.2.0 | 2026-08-01T02:56:27.592235Z | web_verified_this_pass |
-| [pyright](../records/python-pyright-6e199d5e.md) | 1.1.411 | 2026-06-25T02:14:06.370056Z | web_verified_this_pass |
+| [pyright](../records/python-pyright-6e199d5e.md) | 1.1.412 | 2026-08-12T22:59:44Z | web_verified_this_pass |
 | [ty](../records/python-ty-0d00060d.md) | 0.0.77 | 2026-09-01T00:26:26.901345Z | web_verified_this_pass |
 | [Zuban](../records/python-zuban-b597053a.md) | 0.9.2 | 2026-08-26T00:20:08.970933Z | web_verified_this_pass |
 

@@ -33,7 +33,7 @@ part of service communication, clients/servers, protocol handling, and edge inte
 
 - Treat category as `networking_http` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=http&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-01T01:59:17+00:00`.
+- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=http&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-01T02:12:58+00:00`.
 - Preview/nightly metadata is unknown because `npm_search_does_not_include_dist_tags`.
 
 ## Provenance

@@ -24,15 +24,15 @@ migration safety, editor feedback, and large-codebase maintainability.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 1.1.411 | 2026-06-25T02:14:06.370056Z | [https://pypi.org/pypi/pyright/json](https://pypi.org/pypi/pyright/json) |  |
-| preview/nightly | unknown |  |  | unknown | pypi_has_no_standard_nightly_channel |
+| stable | known | 1.1.412 | 2026-08-12T22:59:44Z | [https://api.github.com/repos/microsoft/pyright/releases/latest](https://api.github.com/repos/microsoft/pyright/releases/latest) |  |
+| preview/nightly | unknown |  |  | unknown | github_prerelease_missing |
 
 ## Engineering Notes
 
 - Treat category as `type_checker` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pypi.org/pypi/pyright/json` at `2026-09-01T01:59:28+00:00`.
-- Preview/nightly metadata is unknown because `pypi_has_no_standard_nightly_channel`.
+- Latest stable metadata was observed from `https://api.github.com/repos/microsoft/pyright/releases/latest` at `2026-09-01T02:14:37+00:00`.
+- Preview/nightly metadata is unknown because `github_prerelease_missing`.
 
 ## Provenance
 

@@ -31,7 +31,7 @@ migrations, performance, and operational recovery.
 
 - Treat category as `database_datastore` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pypi.org/pypi/SQLAlchemy/json` at `2026-09-01T01:59:27+00:00`.
+- Latest stable metadata was observed from `https://pypi.org/pypi/SQLAlchemy/json` at `2026-09-01T02:12:59+00:00`.
 - Preview/nightly metadata is present through channel `preview`.
 
 ## Provenance

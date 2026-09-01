@@ -31,7 +31,7 @@ validation, regression protection, and release confidence.
 
 - Treat category as `testing_framework` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://registry.npmjs.org/tsd` at `2026-09-01T01:59:31+00:00`.
+- Latest stable metadata was observed from `https://registry.npmjs.org/tsd` at `2026-09-01T02:13:01+00:00`.
 - Preview/nightly metadata is present through channel `next`.
 
 ## Provenance

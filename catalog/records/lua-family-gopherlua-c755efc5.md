@@ -24,14 +24,14 @@ diagnostics behavior, target support, ABI expectations, and build reproducibilit
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | unknown |  |  | unknown | github_latest_release_missing |
+| stable | known | v1.1.2 | 2026-04-01T00:51:01Z | [https://api.github.com/repos/yuin/gopher-lua/releases/latest](https://api.github.com/repos/yuin/gopher-lua/releases/latest) |  |
 | preview/nightly | unknown |  |  | unknown | github_prerelease_missing |
 
 ## Engineering Notes
 
 - Treat category as `compiler` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Stable release is unknown because `github_latest_release_missing`.
+- Latest stable metadata was observed from `https://api.github.com/repos/yuin/gopher-lua/releases/latest` at `2026-09-01T02:14:38+00:00`.
 - Preview/nightly metadata is unknown because `github_prerelease_missing`.
 
 ## Provenance

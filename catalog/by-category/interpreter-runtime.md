@@ -101,10 +101,10 @@ Records: `77`
 | Implementations, Interpreters, and Bindings | unknown | not_checked | [open](../records/lua-family-implementations-interpreters-and-bindings-d921de75.md) |
 | kaitai-struct | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-kaitai-struct-b77a8e7d.md) |
 | Lua | unknown | not_checked | [open](../records/lua-family-lua-b81a71bb.md) |
-| Lua Repo | unknown | github_latest_release_missing | [open](../records/lua-family-lua-repo-f0962681.md) |
+| Lua Repo | v5.5.1 | 2026-08-05T14:00:59Z | [open](../records/lua-family-lua-repo-f0962681.md) |
 | Lua states, libraries, coroutines and memory | unknown | not_checked | [open](../records/lua-family-lua-states-libraries-coroutines-and-memory-868dff92.md) |
 | LuaBridge | unknown | github_latest_release_missing | [open](../records/lua-family-luabridge-26697e82.md) |
-| lupa | unknown | github_latest_release_missing | [open](../records/lua-family-lupa-7fb20983.md) |
-| MoonSharp | unknown | github_latest_release_missing | [open](../records/lua-family-moonsharp-72ab8fd8.md) |
-| Moonshine | unknown | github_latest_release_missing | [open](../records/lua-family-moonshine-7b7a9f41.md) |
+| lupa | lupa-2.8 | 2026-04-15T07:50:18Z | [open](../records/lua-family-lupa-7fb20983.md) |
+| MoonSharp | v2.0.0.0 | 2016-10-14T17:19:35Z | [open](../records/lua-family-moonsharp-72ab8fd8.md) |
+| Moonshine | 0.1.4 | 2014-11-14T09:28:00Z | [open](../records/lua-family-moonshine-7b7a9f41.md) |
 | UniLua | unknown | github_latest_release_missing | [open](../records/lua-family-unilua-7f3a48c1.md) |

@@ -31,7 +31,7 @@ dependency review, release awareness, and operational fit assessment.
 
 - Treat category as `filesystem_os` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://crates.io/api/v1/crates?page=12&per_page=100&sort=downloads` at `2026-09-01T01:59:15+00:00`.
+- Latest stable metadata was observed from `https://crates.io/api/v1/crates?page=12&per_page=100&sort=downloads` at `2026-09-01T02:12:58+00:00`.
 - Preview/nightly metadata is unknown because `crates_io_has_no_standard_nightly_channel`.
 
 ## Provenance

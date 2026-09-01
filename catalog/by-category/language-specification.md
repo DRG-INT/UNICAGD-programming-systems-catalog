@@ -252,8 +252,8 @@ Records: `216`
 | Lua 5.4 | unknown | not_checked | [open](../records/lua-family-lua-5-4-853736e9.md) |
 | Lua 5.5 | unknown | not_checked | [open](../records/lua-family-lua-5-5-744668a2.md) |
 | Lua Programming | unknown | not_checked | [open](../records/lua-family-lua-programming-10e128ee.md) |
-| lua-stdlib | unknown | github_latest_release_missing | [open](../records/lua-family-lua-stdlib-7c75e094.md) |
+| lua-stdlib | release-v41.2.4 | 2026-07-26T18:13:08Z | [open](../records/lua-family-lua-stdlib-7c75e094.md) |
 | MoonScript | unknown | not_checked | [open](../records/lua-family-moonscript-2fa17ff7.md) |
-| Pegasus.lua | unknown | github_latest_release_missing | [open](../records/lua-family-pegasus-lua-6012b29d.md) |
+| Pegasus.lua | v1.1.0 | 2026-03-06T11:09:46Z | [open](../records/lua-family-pegasus-lua-6012b29d.md) |
 | Penlight | unknown | github_latest_release_missing | [open](../records/lua-family-penlight-0fc80fc8.md) |
 | Reference Manual | unknown | not_checked | [open](../records/lua-family-reference-manual-12686a8e.md) |

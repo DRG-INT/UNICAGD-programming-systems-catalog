@@ -31,7 +31,7 @@ tooling, code generation, static analysis, and source transformation.
 
 - Treat category as `parser_lexer_ast` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://registry.npmjs.org/jscodeshift` at `2026-09-01T01:59:29+00:00`.
+- Latest stable metadata was observed from `https://registry.npmjs.org/jscodeshift` at `2026-09-01T02:13:01+00:00`.
 - Preview/nightly metadata is unknown because `npm_preview_tag_missing`.
 
 ## Provenance

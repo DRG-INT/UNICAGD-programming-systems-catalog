@@ -1526,6 +1526,8 @@ def enrich_records(
         updated = enriched_by_key.get(record["identity_key"], record)
         updated["slug"] = record_slug(updated)
         final_records.append(updated)
+    final_records = preserve_prior_observation_times(final_records)
+    fetch_errors = sorted(dict.fromkeys(fetcher.errors))
 
     stats = BuildStats(
         source_records=len(source_records),
@@ -1534,7 +1536,7 @@ def enrich_records(
         release_checked=len(to_enrich) if network else 0,
         release_known=sum(1 for item in final_records if item["release"]["status"] == "known"),
         release_unknown=sum(1 for item in final_records if item["release"]["status"] != "known"),
-        fetch_errors=len(fetcher.errors),
+        fetch_errors=len(fetch_errors),
     )
     payload = {
         "generated_at": now_iso(),
@@ -1545,11 +1547,64 @@ def enrich_records(
         "taxonomy": source.get("taxonomy", TAXONOMY),
         "target_records": target_records,
         "statistics": dataclasses.asdict(stats),
-        "fetch_errors": fetcher.errors[:500],
+        "fetch_errors": fetch_errors[:500],
         "records": final_records,
     }
+    payload = preserve_generated_at_if_semantically_same(payload)
     write_json(ENRICHED_JSON, payload)
     write_text(REPORT_MD, render_enrichment_report(payload))
+    return payload
+
+
+def release_without_checked_at(release: dict[str, Any]) -> dict[str, Any]:
+    return {key: value for key, value in release.items() if key != "checked_at"}
+
+
+def preserve_prior_observation_times(records: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    if not ENRICHED_JSON.exists():
+        return records
+    try:
+        previous = read_json(ENRICHED_JSON)
+    except Exception:
+        return records
+    old_by_key = {
+        record.get("identity_key"): record
+        for record in previous.get("records", [])
+        if isinstance(record, dict) and record.get("identity_key")
+    }
+    for record in records:
+        old = old_by_key.get(record.get("identity_key"))
+        if not old:
+            continue
+        for field in ("release", "nightly"):
+            current_release = record.get(field)
+            old_release = old.get(field)
+            if not isinstance(current_release, dict) or not isinstance(old_release, dict):
+                continue
+            if release_without_checked_at(current_release) == release_without_checked_at(old_release):
+                current_release["checked_at"] = old_release.get("checked_at", current_release.get("checked_at", ""))
+    return records
+
+
+def semantic_payload(payload: dict[str, Any]) -> dict[str, Any]:
+    scrubbed = json.loads(json.dumps(payload, ensure_ascii=False))
+    scrubbed.pop("generated_at", None)
+    for record in scrubbed.get("records", []):
+        for field in ("release", "nightly"):
+            if isinstance(record.get(field), dict):
+                record[field].pop("checked_at", None)
+    return scrubbed
+
+
+def preserve_generated_at_if_semantically_same(payload: dict[str, Any]) -> dict[str, Any]:
+    if not ENRICHED_JSON.exists():
+        return payload
+    try:
+        previous = read_json(ENRICHED_JSON)
+    except Exception:
+        return payload
+    if semantic_payload(previous) == semantic_payload(payload):
+        payload["generated_at"] = previous.get("generated_at", payload["generated_at"])
     return payload
 
 

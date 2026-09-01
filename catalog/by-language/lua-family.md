@@ -100,7 +100,7 @@ Records: `1937`
 | [Lake](../records/lua-family-lake-e318ad2d.md) | unknown | github_latest_release_missing | uploaded_file |
 | [Luabuild](../records/lua-family-luabuild-d725a8c5.md) | unknown | github_latest_release_missing | uploaded_file |
 | [luastatic](../records/lua-family-luastatic-8586d9a4.md) | unknown | github_latest_release_missing | uploaded_file |
-| [omnia](../records/lua-family-omnia-dcd1d11c.md) | unknown | github_latest_release_missing | uploaded_file |
+| [omnia](../records/lua-family-omnia-dcd1d11c.md) | omnia-0.8.0 | 2017-03-03T15:56:23Z | uploaded_file |
 
 ### Cli
 
@@ -156,10 +156,10 @@ Records: `1937`
 | [clangd_extensions.nvim](../records/lua-family-clangd-extensions-nvim-36a24d4d.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [cpp-compiler-pretty-output](../records/lua-family-cpp-compiler-pretty-output-d5aab195.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [dromozoa-compiler](../records/lua-family-dromozoa-compiler-363c8d74.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
-| [GopherLua](../records/lua-family-gopherlua-c755efc5.md) | unknown | github_latest_release_missing | uploaded_file |
+| [GopherLua](../records/lua-family-gopherlua-c755efc5.md) | v1.1.2 | 2026-04-01T00:51:01Z | uploaded_file |
 | [LLVM-Lua](../records/lua-family-llvm-lua-9ef4a12f.md) | unknown | github_latest_release_missing | uploaded_file |
 | [lua.vm.js](../records/lua-family-lua-vm-js-e8ada39a.md) | unknown | github_latest_release_missing | uploaded_file |
-| [luadec51](../records/lua-family-luadec51-e7e06ca1.md) | unknown | github_latest_release_missing | uploaded_file |
+| [luadec51](../records/lua-family-luadec51-e7e06ca1.md) | v2.0.2 | 2014-12-04T13:39:36Z | uploaded_file |
 | [LuaJIT](../records/lua-family-luajit-06502a23.md) | unknown | not_checked | uploaded_file |
 | [Metalua](../records/lua-family-metalua-999eb138.md) | unknown | github_latest_release_missing | uploaded_file |
 
@@ -910,12 +910,12 @@ Records: `1937`
 | [Implementations, Interpreters, and Bindings](../records/lua-family-implementations-interpreters-and-bindings-d921de75.md) | unknown | not_checked | uploaded_file |
 | [kaitai-struct](../records/lua-family-kaitai-struct-b77a8e7d.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [Lua](../records/lua-family-lua-b81a71bb.md) | unknown | not_checked | uploaded_file |
-| [Lua Repo](../records/lua-family-lua-repo-f0962681.md) | unknown | github_latest_release_missing | uploaded_file |
+| [Lua Repo](../records/lua-family-lua-repo-f0962681.md) | v5.5.1 | 2026-08-05T14:00:59Z | uploaded_file |
 | [Lua states, libraries, coroutines and memory](../records/lua-family-lua-states-libraries-coroutines-and-memory-868dff92.md) | unknown | not_checked | uploaded_file |
 | [LuaBridge](../records/lua-family-luabridge-26697e82.md) | unknown | github_latest_release_missing | uploaded_file |
-| [lupa](../records/lua-family-lupa-7fb20983.md) | unknown | github_latest_release_missing | uploaded_file |
-| [MoonSharp](../records/lua-family-moonsharp-72ab8fd8.md) | unknown | github_latest_release_missing | uploaded_file |
-| [Moonshine](../records/lua-family-moonshine-7b7a9f41.md) | unknown | github_latest_release_missing | uploaded_file |
+| [lupa](../records/lua-family-lupa-7fb20983.md) | lupa-2.8 | 2026-04-15T07:50:18Z | uploaded_file |
+| [MoonSharp](../records/lua-family-moonsharp-72ab8fd8.md) | v2.0.0.0 | 2016-10-14T17:19:35Z | uploaded_file |
+| [Moonshine](../records/lua-family-moonshine-7b7a9f41.md) | 0.1.4 | 2014-11-14T09:28:00Z | uploaded_file |
 | [UniLua](../records/lua-family-unilua-7f3a48c1.md) | unknown | github_latest_release_missing | uploaded_file |
 
 ### Jit Vm
@@ -957,7 +957,7 @@ Records: `1937`
 | [luaffi](../records/lua-family-luaffi-ccbd9ac9.md) | unknown | github_latest_release_missing | uploaded_file |
 | [LuaJIT](../records/lua-family-luajit-8413717e.md) | unknown | not_checked | catalog_seed |
 | [LuaJIT FFI](../records/lua-family-luajit-ffi-38fbbe83.md) | unknown | not_checked | uploaded_file |
-| [magick](../records/lua-family-magick-fc597f1b.md) | unknown | github_latest_release_missing | uploaded_file |
+| [magick](../records/lua-family-magick-fc597f1b.md) | v1.6.0 | 2021-02-02T22:18:25Z | uploaded_file |
 | [ProFi](../records/lua-family-profi-d4dc9358.md) | unknown | not_checked | uploaded_file |
 | [SciLua](../records/lua-family-scilua-1f7b2a38.md) | unknown | not_checked | uploaded_file |
 | [turbo](../records/lua-family-turbo-ac34c11f.md) | unknown | not_checked | uploaded_file |
@@ -1027,9 +1027,9 @@ Records: `1937`
 | [Lua 5.4](../records/lua-family-lua-5-4-853736e9.md) | unknown | not_checked | catalog_seed |
 | [Lua 5.5](../records/lua-family-lua-5-5-744668a2.md) | unknown | not_checked | catalog_seed |
 | [Lua Programming](../records/lua-family-lua-programming-10e128ee.md) | unknown | not_checked | uploaded_file |
-| [lua-stdlib](../records/lua-family-lua-stdlib-7c75e094.md) | unknown | github_latest_release_missing | uploaded_file |
+| [lua-stdlib](../records/lua-family-lua-stdlib-7c75e094.md) | release-v41.2.4 | 2026-07-26T18:13:08Z | uploaded_file |
 | [MoonScript](../records/lua-family-moonscript-2fa17ff7.md) | unknown | not_checked | uploaded_file |
-| [Pegasus.lua](../records/lua-family-pegasus-lua-6012b29d.md) | unknown | github_latest_release_missing | uploaded_file |
+| [Pegasus.lua](../records/lua-family-pegasus-lua-6012b29d.md) | v1.1.0 | 2026-03-06T11:09:46Z | uploaded_file |
 | [Penlight](../records/lua-family-penlight-0fc80fc8.md) | unknown | github_latest_release_missing | uploaded_file |
 | [Reference Manual](../records/lua-family-reference-manual-12686a8e.md) | unknown | not_checked | uploaded_file |
 

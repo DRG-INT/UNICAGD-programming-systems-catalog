@@ -8,7 +8,7 @@ Records: `229`
 | --- | --- | --- | --- |
 | mypy | 2.3.1 | 2026-08-15T03:03:38.549479Z | [open](../records/python-mypy-843396a3.md) |
 | pyrefly | 1.2.0 | 2026-08-01T02:56:27.592235Z | [open](../records/python-pyrefly-65b95645.md) |
-| pyright | 1.1.411 | 2026-06-25T02:14:06.370056Z | [open](../records/python-pyright-6e199d5e.md) |
+| pyright | 1.1.412 | 2026-08-12T22:59:44Z | [open](../records/python-pyright-6e199d5e.md) |
 | ty | 0.0.77 | 2026-09-01T00:26:26.901345Z | [open](../records/python-ty-0d00060d.md) |
 | Zuban | 0.9.2 | 2026-08-26T00:20:08.970933Z | [open](../records/python-zuban-b597053a.md) |
 

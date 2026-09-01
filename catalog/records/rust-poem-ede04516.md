@@ -31,7 +31,7 @@ policy, service structure, and deployment surface.
 
 - Treat category as `web_framework` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://crates.io/api/v1/crates/Poem` at `2026-09-01T01:59:24+00:00`.
+- Latest stable metadata was observed from `https://crates.io/api/v1/crates/Poem` at `2026-09-01T02:12:59+00:00`.
 - Preview/nightly metadata is unknown because `crates_io_has_no_standard_nightly_channel`.
 
 ## Provenance

@@ -24,15 +24,15 @@ security review, undefined-state detection, and regression prevention.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial | 9.0.0 |  | [https://raw.githubusercontent.com/JuliaRegistries/General/master/S/StaticLint/Versions.toml](https://raw.githubusercontent.com/JuliaRegistries/General/master/S/StaticLint/Versions.toml) | julia_registry_versions_do_not_include_release_dates |
-| preview/nightly | unknown |  |  | unknown | julia_registry_has_no_standard_nightly_channel |
+| stable | known | v9.0.0 | 2026-03-12T12:17:02Z | [https://api.github.com/repos/julia-vscode/StaticLint.jl/releases/latest](https://api.github.com/repos/julia-vscode/StaticLint.jl/releases/latest) |  |
+| preview/nightly | unknown |  |  | unknown | github_prerelease_missing |
 
 ## Engineering Notes
 
 - Treat category as `static_analyzer` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Stable release is unknown because `julia_registry_versions_do_not_include_release_dates`.
-- Preview/nightly metadata is unknown because `julia_registry_has_no_standard_nightly_channel`.
+- Latest stable metadata was observed from `https://api.github.com/repos/julia-vscode/StaticLint.jl/releases/latest` at `2026-09-01T02:14:36+00:00`.
+- Preview/nightly metadata is unknown because `github_prerelease_missing`.
 
 ## Provenance
 
