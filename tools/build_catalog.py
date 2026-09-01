@@ -34,6 +34,7 @@ from datetime import datetime, timedelta, timezone
 from html.parser import HTMLParser
 from pathlib import Path
 from typing import Any
+from urllib.robotparser import RobotFileParser
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -46,7 +47,9 @@ REPORT_MD = CATALOG_DIR / "enrichment_report.md"
 LICENSE_INDEX_MD = CATALOG_DIR / "license-index.md"
 HTTP_CACHE_DIR = ROOT / ".cache" / "catalog_http"
 
-USER_AGENT = "catarepo-programming-catalog/1.0 (+https://github.com/local/catarepo)"
+USER_AGENT = "catarepo-programming-catalog/1.0 (+https://github.com/DRG-INT/UNICAGD-programming-systems-catalog)"
+CRAWLER_USER_AGENT = "catarepo-programming-catalog"
+ROBOTS_CACHE_DIR = ROOT / ".cache" / "catalog_robots"
 DEFAULT_TIMEOUT = 12
 DEFAULT_TARGET_RECORDS = 24000
 DEFAULT_WORKERS = 12
@@ -2140,6 +2143,9 @@ def compact_payload_for_storage(payload: dict[str, Any]) -> dict[str, Any]:
 
 
 class HttpCache:
+    # In-memory robots.txt cache: domain -> RobotFileParser
+    _robots_cache: dict[str, RobotFileParser] = {}
+
     def __init__(
         self,
         cache_dir: Path,
@@ -2147,13 +2153,16 @@ class HttpCache:
         enabled: bool = True,
         ttl_seconds: int = 3600,
         timeout: int = DEFAULT_TIMEOUT,
+        respect_robots: bool = True,
     ) -> None:
         self.cache_dir = cache_dir
         self.enabled = enabled
         self.ttl_seconds = ttl_seconds
         self.timeout = timeout
+        self.respect_robots = respect_robots
         self.errors: list[str] = []
         self.cache_dir.mkdir(parents=True, exist_ok=True)
+        ROBOTS_CACHE_DIR.mkdir(parents=True, exist_ok=True)
 
     def _key(self, url: str) -> str:
         return hashlib.sha256(url.encode("utf-8")).hexdigest()
@@ -2161,6 +2170,49 @@ class HttpCache:
     def _paths(self, url: str) -> tuple[Path, Path]:
         digest = self._key(url)
         return self.cache_dir / f"{digest}.body", self.cache_dir / f"{digest}.json"
+
+    def _get_robots_parser(self, netloc: str) -> RobotFileParser:
+        """Fetch and parse robots.txt for a domain, with file-system caching."""
+        if netloc in self._robots_cache:
+            return self._robots_cache[netloc]
+        rp = RobotFileParser()
+        rp.set_url(f"https://{netloc}/robots.txt")
+        # Check local cache first
+        cache_path = ROBOTS_CACHE_DIR / f"{hashlib.sha256(netloc.encode()).hexdigest()}.txt"
+        if cache_path.exists():
+            try:
+                content = cache_path.read_text(encoding="utf-8", errors="replace")
+                rp.parse(content.splitlines())
+                self._robots_cache[netloc] = rp
+                return rp
+            except Exception:
+                pass
+        # Fetch robots.txt
+        try:
+            data = urllib.request.urlopen(f"https://{netloc}/robots.txt", timeout=self.timeout)
+            content = data.read().decode("utf-8", errors="replace")
+            rp.parse(content.splitlines())
+            cache_path.write_text(content, encoding="utf-8")
+        except Exception as exc:
+            # If robots.txt can't be fetched, assume allow all
+            self.errors.append(f"robots.txt fetch failed for {netloc}: {exc}")
+        self._robots_cache[netloc] = rp
+        return rp
+
+    def _is_allowed(self, url: str) -> bool:
+        """Check if URL is allowed by robots.txt."""
+        if not self.respect_robots:
+            return True
+        parsed = urllib.parse.urlparse(url)
+        if parsed.scheme not in ("http", "https"):
+            return True
+        netloc = parsed.netloc
+        rp = self._get_robots_parser(netloc)
+        allowed = rp.can_fetch(CRAWLER_USER_AGENT, url)
+        if not allowed:
+            self.errors.append(f"robots.txt denied: {url}")
+        return allowed
+
 
     def get_bytes(self, url: str, *, accept: str = "application/json") -> bytes | None:
         body_path, meta_path = self._paths(url)
@@ -2180,6 +2232,8 @@ class HttpCache:
                 pass
         if not self.enabled:
             self.errors.append(f"network disabled: {url}")
+            return None
+        if not self._is_allowed(url):
             return None
         headers = {
             "User-Agent": USER_AGENT,
