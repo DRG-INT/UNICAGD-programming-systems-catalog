@@ -45,71 +45,23 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 | Fetch errors recorded | 454 |
 | Target identity count | 24000 |
 
-## Languages
+The catalog spans programming ecosystems across the following semantic domains:
 
-- C99
-- C23
-- C++23
-- Julia
-- Rust
-- Python
-- Node.js/JavaScript
-- Node.js/TypeScript
-- Lua family
-- R
-- Haskell
-- Matlab
-- Octave
-- C-Sharp
-- bc
-- Dart
-- Go
-- Starlark
-- Basilisk
-- "aim's"
-- nix
-- Assembly
-- PHP
-- Swift
-- SAPJava
-- Cocoa
-- WebAssembly
-- Pattern language
+### 🧬 Core Programming Languages (9,141 records)
 
-## System Categories
+  High-volume ecosystems: Node.js/JavaScript, Rust, Julia, Lua family, TypeScript, Python.
 
-- Doctrines
-- APIs
-- Transmission Protocols
-- Renderers
-- Computer Graphics Software
-- Engines
-- Physics Engines
-- Game Engines
-- Icons and Logos
-- Font Briefcase
-- Assets
-- Maps
-- Space Engines
-- Space Shuttles
-- Space Maps
-- Effects
-- Audio
-- Video
-- Photography
-- Microscopy
-- Telescopes
-- Radars
-- SatCom Satellites
-- Electromagnetoscopes
-- Radio Garden Speciality
-- Repertoare Catalogs
-- Catalogs
-- Magazines
-- Hubs
-- Braces
-- Databases
-- Repository Workplaces
+### ⚛️ Systems Languages & Low-Level (251 records)
+
+  C99, C++23, C23, Starlark, nix, Basilisk, and experimental low-level systems.
+
+### 🏗️ Systems & Infrastructure (277 records)
+
+  Databases, repository workplaces, transmission protocols, APIs, doctrines, hubs, physics engines, and space systems.
+
+### 🎮 Creative, Media & Game Tech (221 records)
+
+  Assets, renderers, icons, radio gardens, effects, graphics software, game engines, fonts, maps, audio, video, and microscopy.
 
 ## How It Works
 
