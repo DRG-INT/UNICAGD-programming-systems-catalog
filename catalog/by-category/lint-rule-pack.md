@@ -1,0 +1,50 @@
+# Lint Rule Pack
+
+Records: `27`
+
+## Julia
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| ARules | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-arules-2e2da57f.md) |
+| ChainRules | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-chainrules-e69c7814.md) |
+| ChainRulesCore | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-chainrulescore-1171c427.md) |
+| ChainRulesOverloadGeneration | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-chainrulesoverloadgeneration-2a2b300c.md) |
+| ChainRulesTestUtils | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-chainrulestestutils-fa00223b.md) |
+
+## Rust
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| der | 0.8.1 | 2026-07-09T05:02:38.440237Z | [open](../records/rust-der-c6a7d37f.md) |
+| ident_case | 1.0.1 | 2019-03-18T20:07:20.426691Z | [open](../records/rust-ident-case-d5365a2e.md) |
+| konst_macro_rules | 0.2.19 | 2022-10-09T06:33:57.082659Z | [open](../records/rust-konst-macro-rules-17afdf44.md) |
+| macro_rules_attribute | 0.2.3 | 2026-07-29T15:38:21.457562Z | [open](../records/rust-macro-rules-attribute-ce9bc3b9.md) |
+| macro_rules_attribute-proc_macro | 0.2.3 | 2026-07-29T15:38:18.447690Z | [open](../records/rust-macro-rules-attribute-proc-macro-4a294dd1.md) |
+| proc-macro-crate | 3.5.0 | 2026-03-04T11:12:33.029865Z | [open](../records/rust-proc-macro-crate-2a8a4c1d.md) |
+| shell-words | 1.1.1 | 2025-12-10T20:48:28.942402Z | [open](../records/rust-shell-words-973376cd.md) |
+
+## Node.js/JavaScript
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| @einride/csp-evaluator-cli | 1.0.1 | 2025-09-09T13:42:25.689Z | [open](../records/node-js-javascript-einride-csp-evaluator-cli-e2b9843a.md) |
+| @firebase/rules-unit-testing | 5.0.2 | 2026-08-19T20:20:07.846Z | [open](../records/node-js-javascript-firebase-rules-unit-testing-81dde538.md) |
+| @muenchen/prettier-codeformat | 1.0.2 | 2024-06-12T07:03:32.680Z | [open](../records/node-js-javascript-muenchen-prettier-codeformat-4490df10.md) |
+| @prisma/cli-security-rules | 0.2.0 | 2025-04-07T15:56:08.957Z | [open](../records/node-js-javascript-prisma-cli-security-rules-a67d6ecc.md) |
+| @prisma/security-rules | 0.4.1 | 2025-04-09T20:48:51.839Z | [open](../records/node-js-javascript-prisma-security-rules-cb970935.md) |
+| @salesforce/sfdx-scanner | 4.12.0 | 2025-04-29T17:09:29.075Z | [open](../records/node-js-javascript-salesforce-sfdx-scanner-e437f623.md) |
+| firestore-security-tests | 1.4.0 | 2018-09-22T12:50:11.385Z | [open](../records/node-js-javascript-firestore-security-tests-b5496164.md) |
+| opt-cli | 1.6.0 | 2017-10-20T13:22:24.763Z | [open](../records/node-js-javascript-opt-cli-112fd8c5.md) |
+| prettier-elastic | 3.2.5 | 2024-02-18T10:12:13.182Z | [open](../records/node-js-javascript-prettier-elastic-6f3fcae3.md) |
+| prettier-plugin-firestore-rules | 0.1.5 | 2020-11-12T07:28:31.666Z | [open](../records/node-js-javascript-prettier-plugin-firestore-rules-5c3016f5.md) |
+| remark-preset-prettier | 2.0.2 | 2025-04-03T14:52:35.309Z | [open](../records/node-js-javascript-remark-preset-prettier-5fe95f03.md) |
+| rnsec | 1.3.0 | 2026-04-19T21:12:56.703Z | [open](../records/node-js-javascript-rnsec-e6b0f179.md) |
+| targaryen | 3.1.0 | 2018-05-13T11:21:43.806Z | [open](../records/node-js-javascript-targaryen-4d317749.md) |
+
+## Lua family
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| kong-authz-proxy | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-kong-authz-proxy-a72c03ea.md) |
+| kong-consumer-rate-limiting | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-kong-consumer-rate-limiting-1d5d6274.md) |

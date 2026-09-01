@@ -1,0 +1,60 @@
+# actix-service
+
+## Identity
+
+| Field | Value |
+| --- | --- |
+| Language branch | Rust |
+| Category | Async Runtime |
+| Source type | registry_expansion |
+| Verification | registry-derived |
+| Canonical URL | [https://crates.io/crates/actix-service](https://crates.io/crates/actix-service) |
+| Source record ids | crates_io-9d1efbf5fe2fbe |
+
+## System Engineer Summary
+
+Service trait and combinators for representing asynchronous request/response operations.
+
+## Operational Role
+
+For a systems engineer, actix-service belongs in the Rust inventory as part of concurrency
+scheduling, I/O throughput, cancellation, and latency management.
+
+## Release Intelligence
+
+| Channel | Status | Version | Date | Source | Reason |
+| --- | --- | --- | --- | --- | --- |
+| stable | known | 2.0.3 | 2025-03-09T17:57:51.688174Z | [https://crates.io/api/v1/crates?page=10&per_page=100&sort=downloads](https://crates.io/api/v1/crates?page=10&per_page=100&sort=downloads) |  |
+| preview/nightly | unknown |  |  | unknown | crates_io_has_no_standard_nightly_channel |
+
+## Engineering Notes
+
+- Treat category as `async_runtime` unless a later verified source gives a better classification.
+- Keep provenance attached when merging duplicate identities; source evidence is not disposable.
+- Latest stable metadata was observed from `https://crates.io/api/v1/crates?page=10&per_page=100&sort=downloads` at `2026-09-01T01:59:15+00:00`.
+- Preview/nightly metadata is unknown because `crates_io_has_no_standard_nightly_channel`.
+
+## Provenance
+
+| Kind | Status | Date | Detail |
+| --- | --- | --- | --- |
+| crates_io | registry-derived | 2026-09-01 | `{"kind": "crates_io", "retrieved": "2026-09-01", "status": "registry-derived"}` |
+
+## Evidence
+
+Evidence records merged into this identity: `1`.
+
+- `crates_io-9d1efbf5fe2fbe` from `crates_io` as `registry_expansion`
+
+## Related Records
+
+| Name | Category | Page |
+| --- | --- | --- |
+| async-channel | Async Runtime | [open](rust-async-channel-56d40cbc.md) |
+| async-compression | Async Runtime | [open](rust-async-compression-1943c86c.md) |
+| async-executor | Async Runtime | [open](rust-async-executor-bf2249ed.md) |
+| async-fs | Async Runtime | [open](rust-async-fs-73af5d3e.md) |
+| async-global-executor | Async Runtime | [open](rust-async-global-executor-51b07d47.md) |
+| async-graphql | Async Runtime | [open](rust-async-graphql-71165dd4.md) |
+| async-graphql-axum | Async Runtime | [open](rust-async-graphql-axum-eb2105bf.md) |
+| async-graphql-derive | Async Runtime | [open](rust-async-graphql-derive-69524f43.md) |

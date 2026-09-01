@@ -1,0 +1,62 @@
+# xmake
+
+## Identity
+
+| Field | Value |
+| --- | --- |
+| Language branch | C99 |
+| Category | Build System |
+| Source type | build_system |
+| Verification | unverified_seed |
+| Canonical URL | unknown |
+| Source record ids | corpus-31c53f1dc74e6c |
+
+## System Engineer Summary
+
+xmake is tracked as a build system record in the C99 branch. The source did not provide a long
+description, so this page keeps the identity, release state, provenance, and operational
+classification explicit for later enrichment.
+
+## Operational Role
+
+For a systems engineer, xmake belongs in the C99 inventory as part of build graph control, artifact
+reproducibility, cross-platform build policy, and CI integration.
+
+## Release Intelligence
+
+| Channel | Status | Version | Date | Source | Reason |
+| --- | --- | --- | --- | --- | --- |
+| stable | unknown |  |  | unknown | not_checked |
+| preview/nightly | unknown |  |  | unknown | not_checked |
+
+## Engineering Notes
+
+- Treat category as `build_system` unless a later verified source gives a better classification.
+- Keep provenance attached when merging duplicate identities; source evidence is not disposable.
+- Stable release is unknown because `not_checked`.
+- Preview/nightly metadata is unknown because `not_checked`.
+- No canonical URL is verified yet; resolve before using this as an authoritative dependency identity.
+
+## Provenance
+
+| Kind | Status | Date | Detail |
+| --- | --- | --- | --- |
+| model_knowledge_corpus | unverified_seed | 2026-09-01 | `{"as_of": "2026-09-01", "kind": "model_knowledge_corpus", "status": "unverified_seed"}` |
+
+## Evidence
+
+Evidence records merged into this identity: `1`.
+
+- `corpus-31c53f1dc74e6c` from `master_json` as `build_system`
+
+## Related Records
+
+| Name | Category | Page |
+| --- | --- | --- |
+| Autotools | Build System | [open](c99-autotools-03545f60.md) |
+| Bazel | Build System | [open](c99-bazel-b1b7c106.md) |
+| CMake | Build System | [open](c99-cmake-9046aa8a.md) |
+| Make | Build System | [open](c99-make-80a1319f.md) |
+| Meson | Build System | [open](c99-meson-c58d3eb1.md) |
+| Ninja | Build System | [open](c99-ninja-2469248b.md) |
+| Premake | Build System | [open](c99-premake-c1769fe0.md) |

@@ -1,0 +1,59 @@
+# tree-sitter
+
+## Identity
+
+| Field | Value |
+| --- | --- |
+| Language branch | C99 |
+| Category | Parser Lexer Ast |
+| Source type | parser_lexer_ast |
+| Verification | unverified_seed |
+| Canonical URL | unknown |
+| Source record ids | corpus-517445d8fc447a |
+
+## System Engineer Summary
+
+tree-sitter is tracked as a parser lexer ast record in the C99 branch. The source did not provide a
+long description, so this page keeps the identity, release state, provenance, and operational
+classification explicit for later enrichment.
+
+## Operational Role
+
+For a systems engineer, tree-sitter belongs in the C99 inventory as part of language tooling, code
+generation, static analysis, and source transformation.
+
+## Release Intelligence
+
+| Channel | Status | Version | Date | Source | Reason |
+| --- | --- | --- | --- | --- | --- |
+| stable | unknown |  |  | unknown | not_checked |
+| preview/nightly | unknown |  |  | unknown | not_checked |
+
+## Engineering Notes
+
+- Treat category as `parser_lexer_ast` unless a later verified source gives a better classification.
+- Keep provenance attached when merging duplicate identities; source evidence is not disposable.
+- Stable release is unknown because `not_checked`.
+- Preview/nightly metadata is unknown because `not_checked`.
+- No canonical URL is verified yet; resolve before using this as an authoritative dependency identity.
+
+## Provenance
+
+| Kind | Status | Date | Detail |
+| --- | --- | --- | --- |
+| model_knowledge_corpus | unverified_seed | 2026-09-01 | `{"as_of": "2026-09-01", "kind": "model_knowledge_corpus", "status": "unverified_seed"}` |
+
+## Evidence
+
+Evidence records merged into this identity: `1`.
+
+- `corpus-517445d8fc447a` from `master_json` as `parser_lexer_ast`
+
+## Related Records
+
+| Name | Category | Page |
+| --- | --- | --- |
+| Bison | Parser Lexer Ast | [open](c99-bison-7a04410b.md) |
+| Flex | Parser Lexer Ast | [open](c99-flex-27bf9754.md) |
+| libxml2 | Parser Lexer Ast | [open](c99-libxml2-b1a60753.md) |
+| re2c | Parser Lexer Ast | [open](c99-re2c-83464f14.md) |

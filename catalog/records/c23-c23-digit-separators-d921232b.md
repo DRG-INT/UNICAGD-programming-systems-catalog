@@ -1,0 +1,63 @@
+# C23 digit separators
+
+## Identity
+
+| Field | Value |
+| --- | --- |
+| Language branch | C23 |
+| Category | Language Specification |
+| Source type | language_specification |
+| Verification | unverified_seed |
+| Canonical URL | unknown |
+| Source record ids | corpus-8c6ff91d8d9b4b |
+
+## System Engineer Summary
+
+C23 digit separators is tracked as a language specification record in the C23 branch. The source did
+not provide a long description, so this page keeps the identity, release state, provenance, and
+operational classification explicit for later enrichment.
+
+## Operational Role
+
+For a systems engineer, C23 digit separators belongs in the C23 inventory as part of ecosystem
+capability mapping, dependency review, release awareness, and operational fit assessment.
+
+## Release Intelligence
+
+| Channel | Status | Version | Date | Source | Reason |
+| --- | --- | --- | --- | --- | --- |
+| stable | unknown |  |  | unknown | not_checked |
+| preview/nightly | unknown |  |  | unknown | not_checked |
+
+## Engineering Notes
+
+- Treat category as `language_specification` unless a later verified source gives a better classification.
+- Keep provenance attached when merging duplicate identities; source evidence is not disposable.
+- Stable release is unknown because `not_checked`.
+- Preview/nightly metadata is unknown because `not_checked`.
+- No canonical URL is verified yet; resolve before using this as an authoritative dependency identity.
+
+## Provenance
+
+| Kind | Status | Date | Detail |
+| --- | --- | --- | --- |
+| model_knowledge_corpus | unverified_seed | 2026-09-01 | `{"as_of": "2026-09-01", "kind": "model_knowledge_corpus", "status": "unverified_seed"}` |
+
+## Evidence
+
+Evidence records merged into this identity: `1`.
+
+- `corpus-8c6ff91d8d9b4b` from `master_json` as `language_specification`
+
+## Related Records
+
+| Name | Category | Page |
+| --- | --- | --- |
+| C23 _BitInt | Language Specification | [open](c23-c23-bitint-6c09088c.md) |
+| C23 attributes | Language Specification | [open](c23-c23-attributes-ca6fff3b.md) |
+| C23 binary literals | Language Specification | [open](c23-c23-binary-literals-5035ce9a.md) |
+| C23 char8_t | Language Specification | [open](c23-c23-char8-t-23ae7d20.md) |
+| C23 constexpr | Language Specification | [open](c23-c23-constexpr-62b0e9b1.md) |
+| C23 decimal floating types | Language Specification | [open](c23-c23-decimal-floating-types-4f03ea3e.md) |
+| C23 nullptr | Language Specification | [open](c23-c23-nullptr-02f07838.md) |
+| C23 typeof | Language Specification | [open](c23-c23-typeof-301cd571.md) |

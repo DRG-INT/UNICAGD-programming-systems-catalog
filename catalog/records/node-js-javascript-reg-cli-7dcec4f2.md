@@ -1,0 +1,61 @@
+# reg-cli
+
+## Identity
+
+| Field | Value |
+| --- | --- |
+| Language branch | Node.js/JavaScript |
+| Category | Testing Framework |
+| Source type | registry_expansion |
+| Verification | registry-derived |
+| Canonical URL | [https://www.npmjs.com/package/reg-cli](https://www.npmjs.com/package/reg-cli) |
+| Source record ids | npm_registry-ec8cc10f45f7f5 |
+
+## System Engineer Summary
+
+Visual regression testing CLI, Wasm-backed. Drop-in compatible with classic reg-cli's CLI flags,
+reg.json/junit schema, and `compare()` EventEmitter API (verified against reg-suit's processor.ts).
+
+## Operational Role
+
+For a systems engineer, reg-cli belongs in the Node.js/JavaScript inventory as part of
+unit/integration validation, regression protection, and release confidence.
+
+## Release Intelligence
+
+| Channel | Status | Version | Date | Source | Reason |
+| --- | --- | --- | --- | --- | --- |
+| stable | known | 0.19.0-rc0 | 2026-05-04T02:02:30.848Z | [https://registry.npmjs.org/-/v1/search?text=cli&size=250&quality=0.35&popularity=0.45&maintenance=0.20](https://registry.npmjs.org/-/v1/search?text=cli&size=250&quality=0.35&popularity=0.45&maintenance=0.20) |  |
+| preview/nightly | unknown |  |  | unknown | npm_search_does_not_include_dist_tags |
+
+## Engineering Notes
+
+- Treat category as `testing_framework` unless a later verified source gives a better classification.
+- Keep provenance attached when merging duplicate identities; source evidence is not disposable.
+- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=cli&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-01T01:59:17+00:00`.
+- Preview/nightly metadata is unknown because `npm_search_does_not_include_dist_tags`.
+
+## Provenance
+
+| Kind | Status | Date | Detail |
+| --- | --- | --- | --- |
+| npm_registry_search | registry-derived | 2026-09-01 | `{"kind": "npm_registry_search", "query": "cli", "retrieved": "2026-09-01", "status": "registry-derived"}` |
+
+## Evidence
+
+Evidence records merged into this identity: `1`.
+
+- `npm_registry-ec8cc10f45f7f5` from `npm_registry` as `registry_expansion`
+
+## Related Records
+
+| Name | Category | Page |
+| --- | --- | --- |
+| @1024pix/ember-testing-library | Testing Framework | [open](node-js-javascript-1024pix-ember-testing-library-263142d5.md) |
+| @airtable/blocks-testing | Testing Framework | [open](node-js-javascript-airtable-blocks-testing-62821417.md) |
+| @alfresco/adf-testing | Testing Framework | [open](node-js-javascript-alfresco-adf-testing-65808cb1.md) |
+| @apollo/react-testing | Testing Framework | [open](node-js-javascript-apollo-react-testing-111f6dbc.md) |
+| @argos-ci/browser | Testing Framework | [open](node-js-javascript-argos-ci-browser-fe19edc4.md) |
+| @argos-ci/cli | Testing Framework | [open](node-js-javascript-argos-ci-cli-0a6caec9.md) |
+| @argos-ci/core | Testing Framework | [open](node-js-javascript-argos-ci-core-16d6b998.md) |
+| @argos-ci/playwright | Testing Framework | [open](node-js-javascript-argos-ci-playwright-54b0629c.md) |

@@ -1,0 +1,61 @@
+# Test
+
+## Identity
+
+| Field | Value |
+| --- | --- |
+| Language branch | Julia |
+| Category | Testing Framework |
+| Source type | testing_framework |
+| Verification | catalog_seed |
+| Canonical URL | unknown |
+| Source record ids | master-ff433fac1448 |
+
+## System Engineer Summary
+
+Julia standard testing library
+
+## Operational Role
+
+For a systems engineer, Test belongs in the Julia inventory as part of unit/integration validation,
+regression protection, and release confidence.
+
+## Release Intelligence
+
+| Channel | Status | Version | Date | Source | Reason |
+| --- | --- | --- | --- | --- | --- |
+| stable | unknown |  |  | unknown | julia_registry_entry_missing |
+| preview/nightly | unknown |  |  | unknown | julia_registry_entry_missing |
+
+## Engineering Notes
+
+- Treat category as `testing_framework` unless a later verified source gives a better classification.
+- Keep provenance attached when merging duplicate identities; source evidence is not disposable.
+- Stable release is unknown because `julia_registry_entry_missing`.
+- Preview/nightly metadata is unknown because `julia_registry_entry_missing`.
+- No canonical URL is verified yet; resolve before using this as an authoritative dependency identity.
+
+## Provenance
+
+| Kind | Status | Date | Detail |
+| --- | --- | --- | --- |
+| model_knowledge_seed | catalog_seed | 2026-09-01 | `{"as_of": "2026-09-01", "kind": "model_knowledge_seed", "status": "catalog_seed"}` |
+
+## Evidence
+
+Evidence records merged into this identity: `1`.
+
+- `master-ff433fac1448` from `master_json` as `testing_framework`
+
+## Related Records
+
+| Name | Category | Page |
+| --- | --- | --- |
+| ACETestUtils | Testing Framework | [open](julia-acetestutils-3fb62e83.md) |
+| ActorInterfacesTests | Testing Framework | [open](julia-actorinterfacestests-1809f620.md) |
+| AdaptiveTestPlots | Testing Framework | [open](julia-adaptivetestplots-6f47b762.md) |
+| AddLatest | Testing Framework | [open](julia-addlatest-63cb8b82.md) |
+| AnnotatedTests | Testing Framework | [open](julia-annotatedtests-63cea207.md) |
+| ApproxFunBaseTest | Testing Framework | [open](julia-approxfunbasetest-72e17b4a.md) |
+| AssociatedTests | Testing Framework | [open](julia-associatedtests-efc31cf0.md) |
+| AtomsBaseTesting | Testing Framework | [open](julia-atomsbasetesting-3cdc3486.md) |

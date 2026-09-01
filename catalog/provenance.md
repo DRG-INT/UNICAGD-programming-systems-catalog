@@ -1,0 +1,232 @@
+# Provenance And Confidence
+
+This catalog preserves discovered evidence and marks uncertainty explicitly. A record with an unknown release is still useful as a tracked identity, but it is not release-authoritative until a primary source fills the release fields.
+
+## Source Labels
+
+| Label | Records |
+| --- | ---: |
+| registry-derived | 8383 |
+| unverified_seed | 452 |
+| uploaded_file | 265 |
+| catalog_seed | 226 |
+| web_verified_this_pass | 14 |
+| verified_this_pass | 4 |
+
+## Provenance Kinds
+
+| Kind | Status | Records |
+| --- | --- | ---: |
+| npm_registry_search | registry-derived | 2589 |
+| julia_general_registry | registry-derived | 2108 |
+| crates_io | registry-derived | 2105 |
+| luarocks_root_manifest | registry-derived | 1613 |
+| model_knowledge_corpus | unverified_seed | 454 |
+| uploaded_file |  | 267 |
+| model_knowledge_seed | catalog_seed | 229 |
+| web_research |  | 14 |
+| web_search | verified_this_pass | 4 |
+
+## Fetch Errors
+
+- `HTTPError: https://api.github.com/repos/fffaraz/awesome-cpp/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/julia-vscode/StaticLint.jl/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/julia-vscode/StaticLint.jl/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://crates.io/api/v1/crates/rustdoc: HTTP Error 404: Not Found`
+- `HTTPError: https://crates.io/api/v1/crates/criterion.rs: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/rust-unofficial/awesome-rust/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/rust-unofficial/awesome-rust/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://crates.io/api/v1/crates/rustc: HTTP Error 404: Not Found`
+- `HTTPError: https://crates.io/api/v1/crates/tarpaulin: HTTP Error 404: Not Found`
+- `HTTPError: https://crates.io/api/v1/crates/SeaORM: HTTP Error 404: Not Found`
+- `HTTPError: https://crates.io/api/v1/crates/afl.rs: HTTP Error 404: Not Found`
+- `HTTPError: https://crates.io/api/v1/crates/honggfuzz-rs: HTTP Error 404: Not Found`
+- `HTTPError: https://crates.io/api/v1/crates/Rust: HTTP Error 404: Not Found`
+- `HTTPError: https://crates.io/api/v1/crates/opentelemetry-rust: HTTP Error 404: Not Found`
+- `HTTPError: https://crates.io/api/v1/crates/crates.io: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/vinta/awesome-python/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/vinta/awesome-python/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://pypi.org/pypi/coverage.py/json: HTTP Error 404: Not Found`
+- `HTTPError: https://pypi.org/pypi/redis-py/json: HTTP Error 404: Not Found`
+- `HTTPError: https://pypi.org/pypi/pdb/json: HTTP Error 404: Not Found`
+- `HTTPError: https://pypi.org/pypi/venv/json: HTTP Error 404: Not Found`
+- `HTTPError: https://pypi.org/pypi/PyPy/json: HTTP Error 404: Not Found`
+- `HTTPError: https://pypi.org/pypi/CPython/json: HTTP Error 404: Not Found`
+- `HTTPError: https://pypi.org/pypi/cProfile/json: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/microsoft/pyright/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/microsoft/pyright/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://pypi.org/pypi/tomllib/json: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Vite: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/sindresorhus/awesome-nodejs/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://registry.npmjs.org/SWC: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Rollup: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Commander.js: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Webpack: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Inquirer: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/sindresorhus/awesome-nodejs/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://registry.npmjs.org/Knex: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Mongoose: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Sequelize: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Prisma: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Docusaurus: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/TypeORM: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/VitePress: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/JSDoc: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Prettier: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Node.js: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/ESLint: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/V8: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Biome: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/StandardJS: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Bunyan: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Pino: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Winston: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Axios: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Socket.IO: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Undici: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Yarn: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Espree: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Acorn: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Esprima: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Snyk: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Socket: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/SonarJS: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Ramda: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Vitest: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Luxon: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Mocha: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Jest: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Day.js: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Lodash: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/AVA: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Koa: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Prisma: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/tsquery: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/TypeORM: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Fastify: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/TypeDoc: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/NestJS: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Biome: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/TypeScript: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Kysely: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Zod: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/ArkType: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Valibot: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/Knip: HTTP Error 404: Not Found`
+- `HTTPError: https://registry.npmjs.org/NestJS: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/stevedonovan/Lake/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/stevedonovan/luabuild/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/ers35/luastatic/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/yuin/gopher-lua/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/tongson/omnia/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/stevedonovan/luabuild/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/stevedonovan/Lake/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/ers35/luastatic/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/yuin/gopher-lua/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/tongson/omnia/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/neopallium/llvm-lua/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/daurnimator/lua.vm.js/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/sztupy/luadec51/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/kikito/i18n.lua/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/fab13n/metalua/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://registry.npmjs.org/tRPC: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/neopallium/llvm-lua/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://registry.npmjs.org/Hono: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/daurnimator/lua.vm.js/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/Tieske/date/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/sztupy/luadec51/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/kikito/i18n.lua/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/h4rm/luafft/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/fab13n/metalua/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/jgm/lunamark/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/lua/lua/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/aarzilli/golua/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/vinniefalco/LuaBridge/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/Tieske/date/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/xanathar/moonsharp/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/scoder/lupa/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/h4rm/luafft/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/gamesys/moonshine/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/xebecnan/UniLua/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/jgm/lunamark/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/vinniefalco/LuaBridge/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/lua/lua/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/aarzilli/golua/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/scoder/lupa/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/xanathar/moonsharp/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/xebecnan/UniLua/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/gamesys/moonshine/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/sacek/LPegLJ/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/luafun/luafun/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/jmckaskill/luaffi/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/lua-stdlib/lua-stdlib/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/EvandroLG/pegasus.lua/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/leafo/magick/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/trixnz/vscode-lua/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/stevedonovan/Penlight/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/daurnimator/lredis/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/davidm/lua-inspect/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/sacek/LPegLJ/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/luafun/luafun/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/jmckaskill/luaffi/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/EvandroLG/pegasus.lua/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/leafo/magick/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/lua-stdlib/lua-stdlib/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/leafo/etlua/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/stevedonovan/Penlight/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/davidm/lua-inspect/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/trixnz/vscode-lua/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/daurnimator/lredis/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/bungle/lua-resty-template/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/philanc/luatweetnacl/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/Yonaba/30log/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/kikito/ansicolors.lua/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/mpeterv/luacheck/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/leafo/etlua/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/andremm/typedlua/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/andremm/lua-parser/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/philanc/luatweetnacl/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/bungle/lua-resty-template/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/stravant/LuaMinify/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/moteus/luacov-coveralls/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/bungle/awesome-resty/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/mpeterv/argparse/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/Yonaba/30log/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/love2d-community/awesome-love2d/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/andremm/typedlua/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/andremm/lua-parser/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/kikito/ansicolors.lua/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/stravant/LuaMinify/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/mpeterv/luacheck/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/kikito/bump.lua/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/moteus/luacov-coveralls/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/bungle/awesome-resty/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/mpeterv/argparse/releases?per_page=10: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/bjornbytes/graphql-lua/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/amireh/lua_cliargs/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/bjornbytes/docroc/releases/latest: HTTP Error 429: too many requests`
+- `HTTPError: https://api.github.com/repos/lefcha/concurrentlua/releases/latest: HTTP Error 403: rate limit exceeded`
+- `HTTPError: https://api.github.com/repos/love2d-community/awesome-love2d/releases?per_page=10: HTTP Error 429: too many requests`
+- `HTTPError: https://api.github.com/repos/kikito/cron.lua/releases/latest: HTTP Error 429: too many requests`
+- `HTTPError: https://api.github.com/repos/rxi/flux/releases/latest: HTTP Error 429: too many requests`
+- `HTTPError: https://api.github.com/repos/kikito/inspect.lua/releases/latest: HTTP Error 429: too many requests`
+- `HTTPError: https://api.github.com/repos/kikito/bump.lua/releases?per_page=10: HTTP Error 429: too many requests`
+- `HTTPError: https://api.github.com/repos/hawkthorne/hawkthorne-journey/releases/latest: HTTP Error 429: too many requests`
+- `HTTPError: https://api.github.com/repos/lefcha/concurrentlua/releases?per_page=10: HTTP Error 429: too many requests`
+- `HTTPError: https://api.github.com/repos/amireh/lua_cliargs/releases?per_page=10: HTTP Error 429: too many requests`
+- `HTTPError: https://api.github.com/repos/bjornbytes/docroc/releases?per_page=10: HTTP Error 429: too many requests`
+- `HTTPError: https://api.github.com/repos/kikito/cron.lua/releases?per_page=10: HTTP Error 429: too many requests`
+- `HTTPError: https://api.github.com/repos/rxi/flux/releases?per_page=10: HTTP Error 429: too many requests`
+- `HTTPError: https://api.github.com/repos/bjornbytes/graphql-lua/releases?per_page=10: HTTP Error 429: too many requests`
+- `HTTPError: https://api.github.com/repos/Yonaba/Jumper/releases/latest: HTTP Error 429: too many requests`
+- `HTTPError: https://api.github.com/repos/rxi/json.lua/releases/latest: HTTP Error 429: too many requests`
+- `HTTPError: https://api.github.com/repos/kikito/inspect.lua/releases?per_page=10: HTTP Error 429: too many requests`
+- `HTTPError: https://api.github.com/repos/Kong/kong/releases/latest: HTTP Error 429: too many requests`
+- `HTTPError: https://api.github.com/repos/hawkthorne/hawkthorne-journey/releases?per_page=10: HTTP Error 429: too many requests`
+- `HTTPError: https://api.github.com/repos/koreader/koreader/releases/latest: HTTP Error 429: too many requests`
+- `HTTPError: https://api.github.com/repos/LuaLanes/lanes/releases/latest: HTTP Error 429: too many requests`
+- `HTTPError: https://api.github.com/repos/pintsized/ledge/releases/latest: HTTP Error 429: too many requests`
+- `HTTPError: https://api.github.com/repos/rxi/lovebird/releases/latest: HTTP Error 429: too many requests`
+- `HTTPError: https://api.github.com/repos/skx/kpie/releases/latest: HTTP Error 429: too many requests`
+- `HTTPError: https://api.github.com/repos/rxi/json.lua/releases?per_page=10: HTTP Error 429: too many requests`
+- 137 more errors omitted.

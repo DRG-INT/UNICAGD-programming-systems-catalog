@@ -1,0 +1,121 @@
+# Visualization Gui
+
+Records: `93`
+
+## C++23
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| Dear ImGui | unknown | not_checked | [open](../records/c-23-dear-imgui-745deacb.md) |
+| FLTK | unknown | not_checked | [open](../records/c-23-fltk-b14913df.md) |
+| GTKmm | unknown | not_checked | [open](../records/c-23-gtkmm-fb8431ee.md) |
+| wxWidgets | unknown | not_checked | [open](../records/c-23-wxwidgets-8154a428.md) |
+
+## Julia
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| AbstractCircuitComponentRounding | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-abstractcircuitcomponentrounding-8fa9cf47.md) |
+| AbstractPlotting | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-abstractplotting-c75fff4b.md) |
+| Acquisition | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-acquisition-f18326a2.md) |
+| ActiveSetPursuit | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-activesetpursuit-42013bdd.md) |
+| AgentsPlots | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-agentsplots-e6df6b08.md) |
+| ArviZPythonPlots | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-arvizpythonplots-1f03a4f9.md) |
+| AsyPlots | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-asyplots-7796108e.md) |
+| AutomotiveVisualization | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-automotivevisualization-c33c0e78.md) |
+| BaryPlots | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-baryplots-c7e65e93.md) |
+| BasicTreePlots | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-basictreeplots-362052f2.md) |
+| BigRiverPlots | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-bigriverplots-737f87d9.md) |
+| BigRiverQTLPlots | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-bigriverqtlplots-98b166ff.md) |
+| BiochemicalVisualization | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-biochemicalvisualization-050bf5bb.md) |
+| Biplots | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-biplots-cde45acd.md) |
+| BoltzmannMachinesPlots | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-boltzmannmachinesplots-06e928c3.md) |
+| Brillouin | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-brillouin-f405084d.md) |
+| BrillouinZoneMeshes | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-brillouinzonemeshes-db0e6a7c.md) |
+| CasualPlots | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-casualplots-6e45724c.md) |
+| Chartmetric | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-chartmetric-6cc9a201.md) |
+| ChordPlots | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-chordplots-fe95f624.md) |
+| CImGui | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-cimgui-94bb851b.md) |
+| CImGui_jll | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-cimgui-jll-72a4d2fc.md) |
+| CImGuiPack_jll | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-cimguipack-jll-fdc4c27d.md) |
+| CImPlot3D_jll | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-cimplot3d-jll-9be9c4e5.md) |
+| CImPlot_jll | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-cimplot-jll-0a6ec789.md) |
+| CircuitComponentRounding | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-circuitcomponentrounding-42075a14.md) |
+| CircuitModelZoo | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-circuitmodelzoo-11256d5a.md) |
+| Circuitscape | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-circuitscape-f8bb108f.md) |
+| CircuitscapeMKLPardiso | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-circuitscapemklpardiso-4001027b.md) |
+| CMDimCircuits | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-cmdimcircuits-2dcfcd6d.md) |
+| CMPlot | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-cmplot-1ef89f65.md) |
+| Coefplots | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-coefplots-4834c3af.md) |
+| ComoniconGUI | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-comonicongui-2b2b5a8d.md) |
+| ComplexPlots | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-complexplots-66baf576.md) |
+| Makie.jl | 0.24.13 | julia_registry_versions_do_not_include_release_dates | [open](../records/julia-makie-jl-10a1e71f.md) |
+| Plots.jl | 1.41.7 | julia_registry_versions_do_not_include_release_dates | [open](../records/julia-plots-jl-799f9f36.md) |
+
+## Rust
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| anyhow | 1.0.104 | 2026-07-18T20:59:37.656167Z | [open](../records/rust-anyhow-cc216d40.md) |
+| ascii | 1.1.0 | 2022-09-18T13:04:12.231348Z | [open](../records/rust-ascii-d18e2693.md) |
+| bstr | 1.13.1 | 2026-08-10T11:12:08.883439Z | [open](../records/rust-bstr-dd1e73fc.md) |
+| cpuid-bool | 0.99.99 | 2021-05-06T23:32:28.057308Z | [open](../records/rust-cpuid-bool-fdcabe96.md) |
+| criterion-plot | 0.8.2 | 2026-02-04T10:41:23.096352Z | [open](../records/rust-criterion-plot-7b9f5798.md) |
+| dpi | 0.1.2 | 2025-05-02T07:19:18.829952Z | [open](../records/rust-dpi-438777ef.md) |
+| egui | 0.36.1 | 2026-08-07T13:09:38.919949Z | [open](../records/rust-egui-bbe081e8.md) |
+| eyre | 0.6.14 | 2026-08-11T19:47:48.521837Z | [open](../records/rust-eyre-3ea5277e.md) |
+| imagesize | 0.15.0 | 2026-07-09T17:07:45.885379Z | [open](../records/rust-imagesize-4c898833.md) |
+| pear | 0.2.9 | 2024-03-20T07:17:25.727639Z | [open](../records/rust-pear-fea63b61.md) |
+| pear_codegen | 0.2.9 | 2024-03-20T07:16:44.443260Z | [open](../records/rust-pear-codegen-454835bb.md) |
+| plotters | 0.3.7 | 2024-09-08T14:48:03.071447Z | [open](../records/rust-plotters-5b4e2788.md) |
+| plotters-backend | 0.3.7 | 2024-09-08T14:46:47.868379Z | [open](../records/rust-plotters-backend-23a9d1e4.md) |
+| plotters-svg | 0.3.7 | 2024-09-08T14:47:23.833784Z | [open](../records/rust-plotters-svg-5d0e941b.md) |
+| portable-atomic-util | 0.2.7 | 2026-04-16T15:38:33.398099Z | [open](../records/rust-portable-atomic-util-50676b77.md) |
+| quinn | 0.11.11 | 2026-06-22T09:43:28.028417Z | [open](../records/rust-quinn-3ef01818.md) |
+| quinn-proto | 0.11.17 | 2026-08-17T17:32:41.972491Z | [open](../records/rust-quinn-proto-34fe4d50.md) |
+| ruint | 1.20.0 | 2026-07-30T16:00:21.166231Z | [open](../records/rust-ruint-bed0be27.md) |
+| ruint-macro | 1.2.1 | 2024-06-03T16:39:36.769412Z | [open](../records/rust-ruint-macro-00f769ff.md) |
+| rust_decimal | 1.42.1 | 2026-06-12T01:07:42.507103Z | [open](../records/rust-rust-decimal-2395f36b.md) |
+| secp256k1 | 0.33.1 | 2026-08-29T19:42:51.505142Z | [open](../records/rust-secp256k1-22ea0bdb.md) |
+| uint | 0.10.1 | 2026-08-08T15:16:15.201900Z | [open](../records/rust-uint-473ddc9b.md) |
+| utoipa-swagger-ui | 9.0.2 | 2025-05-25T17:04:44.516422Z | [open](../records/rust-utoipa-swagger-ui-b48a6482.md) |
+| uuid | 1.26.0 | 2026-08-26T22:08:30.860532Z | [open](../records/rust-uuid-adf167cf.md) |
+| uuid-simd | 0.8.0 | 2022-12-28T03:07:07.231984Z | [open](../records/rust-uuid-simd-13531ec0.md) |
+| winsafe | 0.0.28 | 2026-07-01T15:15:19.234320Z | [open](../records/rust-winsafe-a6e0dca2.md) |
+
+## Python
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| Matplotlib | 3.11.1 | 2026-07-18T03:39:46.630205Z | [open](../records/python-matplotlib-2f42646e.md) |
+
+## Lua family
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| AbsTK | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-abstk-aa3dcec6.md) |
+| autoblock | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-autoblock-bbf3dab7.md) |
+| cmd4lua | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-cmd4lua-d5ae5c1e.md) |
+| cuid | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-cuid-f596a2fd.md) |
+| dbus_proxy | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-dbus-proxy-b0ed3e74.md) |
+| digiprime-jwt | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-digiprime-jwt-2a3a3082.md) |
+| dump | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-dump-2d156eb6.md) |
+| elua | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-elua-0687c94a.md) |
+| equinox | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-equinox-e7fa1f54.md) |
+| erento-LUA-RFC-4122-UUID-Generator | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-erento-lua-rfc-4122-uuid-generator-c03591a7.md) |
+| flexlove | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-flexlove-ebeb9345.md) |
+| flot | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-flot-ba53e5ca.md) |
+| Fluidsynth | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-fluidsynth-b741b4c0.md) |
+| fn-commands | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-fn-commands-c57252d0.md) |
+| fplot | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-fplot-cb00faf1.md) |
+| gerar_cpf_cnpj | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-gerar-cpf-cnpj-e0877aaf.md) |
+| HarryPlotter | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-harryplotter-3f5453e9.md) |
+| hc3emu | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-hc3emu-e1811624.md) |
+| hc3emu2 | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-hc3emu2-576bdd55.md) |
+| hotswap | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-hotswap-c7cf2c24.md) |
+| imgui | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-imgui-fec217bc.md) |
+| inilazy | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-inilazy-b80bd930.md) |
+| Inky | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-inky-4b2f27a7.md) |
+| kikgit | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-kikgit-57bb5f0f.md) |
+| kong | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-kong-578a07ff.md) |
+| kong-circuit-breaker | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-kong-circuit-breaker-8aa93e0d.md) |
