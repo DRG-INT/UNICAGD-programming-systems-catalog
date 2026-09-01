@@ -1,6 +1,6 @@
 # Documentation
 
-Records: `62`
+Records: `33`
 
 ## Navigation
 
@@ -8,76 +8,43 @@ Records: `62`
 
 ## Category Index
 
-[Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
-[Benchmarking (75)](benchmarking.md) · [Build System (596)](build-system.md) · [Cli (453)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (37)](compression.md)
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (75)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (441)](database-datastore.md) · [Datetime (105)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · **[Documentation (62)](documentation.md)**
-[Embedded Hardware (40)](embedded-hardware.md) · [Ffi Bindings (327)](ffi-bindings.md) · [Filesystem Os (784)](filesystem-os.md) · [Formatter (450)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (40)](fuzzer.md) · [Game Engine Game Dev (109)](game-engine-game-dev.md) · [Ide Editor Integration (860)](ide-editor-integration.md)
-[Image Audio Dsp (186)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (162)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (24)](language-server.md) · [Language Specification (843)](language-specification.md) · [Library (3399)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (336)](linter.md) · [Logging Observability (265)](logging-observability.md) · [Machine Learning (393)](machine-learning.md)
-[Math Numeric Scientific (71)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (700)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (206)](package-manager.md) · [Parser Lexer Ast (613)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
-[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (9)](sanitizer.md)
-[Security Sast (270)](security-sast.md) · [Serialization (282)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (297)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (43)](tutorial-book-styleguide.md) · [Type Checker (271)](type-checker.md)
-[Undefined Behavior Analyzer (1203)](undefined-behavior-analyzer.md) · [Utility Library (82)](utility-library.md) · [Visualization Gui (284)](visualization-gui.md) · [Web Framework (307)](web-framework.md)
-
-## Julia
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| AnythingLLMDocs | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-anythingllmdocs-156fdda4.md) |
-| AutomaticDocstrings | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-automaticdocstrings-2404d0c4.md) |
-
-## Rust
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| dlib | 0.5.3 | 2026-02-26T03:32:04.429182Z | [open](../records/rust-dlib-1eba1c49.md) |
-| integer-encoding | 4.1.0 | 2025-10-28T19:39:51.535502Z | [open](../records/rust-integer-encoding-ab2c7361.md) |
-| link-cplusplus | 1.0.12 | 2025-09-06T23:16:42.930159Z | [open](../records/rust-link-cplusplus-af42314e.md) |
-| nodrop | 0.1.14 | 2019-10-09T07:33:37.389023Z | [open](../records/rust-nodrop-3c8dad77.md) |
-| utoipa | 5.5.0 | 2026-05-04T21:20:12.912705Z | [open](../records/rust-utoipa-e8d47b9b.md) |
+[Api Abi Checker (3)](api-abi-checker.md) · [Api Doc Generator (10)](api-doc-generator.md) · [Async Runtime (7)](async-runtime.md) · [Benchmarking (5)](benchmarking.md)
+[Build System (33)](build-system.md) · [Cli (27)](cli.md) · [Codegen Codemod Refactoring (11)](codegen-codemod-refactoring.md) · [Community Reference (21)](community-reference.md)
+[Compiler (23)](compiler.md) · [Compression (7)](compression.md) · [Concurrency Parallelism (14)](concurrency-parallelism.md) · [Configuration (2)](configuration.md)
+[Container Deployment (4)](container-deployment.md) · [Coverage (8)](coverage.md) · [Cryptography (19)](cryptography.md) · [Data Science (12)](data-science.md)
+[Database Datastore (133)](database-datastore.md) · [Datetime (1)](datetime.md) · [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (8)](debugger.md)
+[Dependency Manager (6)](dependency-manager.md) · **[Documentation (33)](documentation.md)** · [Embedded Hardware (8)](embedded-hardware.md) · [Ffi Bindings (14)](ffi-bindings.md)
+[Filesystem Os (2)](filesystem-os.md) · [Formatter (16)](formatter.md) · [Framework (9)](framework.md) · [Fuzzer (5)](fuzzer.md)
+[Game Engine Game Dev (38)](game-engine-game-dev.md) · [Ide Editor Integration (20)](ide-editor-integration.md) · [Image Audio Dsp (47)](image-audio-dsp.md) · [Interop Bindings (7)](interop-bindings.md)
+[Interpreter Runtime (26)](interpreter-runtime.md) · [Jit Vm (15)](jit-vm.md) · [Language Server (7)](language-server.md) · [Language Specification (51)](language-specification.md)
+[Library (18)](library.md) · [Lint Plugin (1)](lint-plugin.md) · [Linter (18)](linter.md) · [Logging Observability (25)](logging-observability.md)
+[Machine Learning (18)](machine-learning.md) · [Math Numeric Scientific (40)](math-numeric-scientific.md) · [Memory Analyzer (1)](memory-analyzer.md) · [Message Broker (7)](message-broker.md)
+[Networking Http (87)](networking-http.md) · [Other (14)](other.md) · [Package Manager (17)](package-manager.md) · [Parser Lexer Ast (47)](parser-lexer-ast.md)
+[Precommit Ci Quality (13)](precommit-ci-quality.md) · [Profiler (11)](profiler.md) · [Project Scaffolding (3)](project-scaffolding.md) · [Registry Repository (93)](registry-repository.md)
+[Sanitizer (4)](sanitizer.md) · [Security Sast (23)](security-sast.md) · [Serialization (70)](serialization.md) · [Standard Library (7)](standard-library.md)
+[Static Analyzer (37)](static-analyzer.md) · [Templating (1)](templating.md) · [Testing Framework (31)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md)
+[Type Checker (5)](type-checker.md) · [Undefined Behavior Analyzer (101)](undefined-behavior-analyzer.md) · [Utility Library (42)](utility-library.md) · [Visualization Gui (75)](visualization-gui.md)
+[Web Framework (34)](web-framework.md)
 
 ## Python
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| aclip | 0.3.4 | 2026-04-28T04:33:19.901651Z | [open](../records/python-aclip-a08b7731.md) |
 | MkDocs | unknown | not_checked | [open](../records/python-mkdocs-bd7d9666.md) |
 
 ## Node.js/JavaScript
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| @sentry/cli | 3.7.0 | 2026-08-28T09:12:05.900Z | [open](../records/node-js-javascript-sentry-cli-0da5e1b2.md) |
-| @techdocs/cli | 1.10.8 | 2026-08-29T10:32:41.681Z | [open](../records/node-js-javascript-techdocs-cli-d77e4e4e.md) |
-| bump-cli | 2.10.1 | 2026-06-16T09:14:03.425Z | [open](../records/node-js-javascript-bump-cli-cdf340ec.md) |
 | Docusaurus | unknown | not_checked | [open](../records/node-js-javascript-docusaurus-8885f7b4.md) |
 | JSDoc | unknown | not_checked | [open](../records/node-js-javascript-jsdoc-c5678423.md) |
-| n8n-nodes-oracle-database-parameterization | 1.1.4 | 2024-03-29T18:41:18.076Z | [open](../records/node-js-javascript-n8n-nodes-oracle-database-parameterization-722345b1.md) |
-| vike-server | 1.0.25 | 2025-10-20T19:27:02.608Z | [open](../records/node-js-javascript-vike-server-2ff6a7c8.md) |
 | VitePress | unknown | not_checked | [open](../records/node-js-javascript-vitepress-9ebad3c9.md) |
 
 ## Lua family
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| doc | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-doc-7d7ea872.md) |
-| docroc | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-docroc-e8fc479c.md) |
 | Documentation | unknown | not_checked | [open](../records/lua-family-documentation-65a0fe23.md) |
-| howl | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-howl-b9ace9a6.md) |
-| iuplua-examples | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-iuplua-examples-61b39d58.md) |
-
-## R
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| xmpdf | 0.3.1 | 2026-08-25 23:20:02 UTC | [open](../records/r-xmpdf-9b9f2b98.md) |
 
 ## Starlark
 
@@ -140,52 +107,12 @@ Records: `62`
 | Shuttle Mission Simulator Records | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-shuttles-shuttle-mission-simulator-records-442c81ad.md) |
 | Space Shuttle Technical Conference | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-shuttles-space-shuttle-technical-conference-c6fb700e.md) |
 
-## Microscopy
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| HenriquesLab/NanoJ-Fluidics | v1.2.6 | 2018-12-07T13:52:34Z | [open](../records/microscopy-henriqueslab-nanoj-fluidics-3a06451e.md) |
-
-## Telescopes
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| GalSim-developers/GalSim | v2.8.5 | 2026-08-05T03:03:20Z | [open](../records/telescopes-galsim-developers-galsim-53e2cf2c.md) |
-| meridianfield/pushnav | v0.2.1 | 2026-06-25T07:11:43Z | [open](../records/telescopes-meridianfield-pushnav-d0b59adc.md) |
-
 ## SatCom Satellites
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ESA Estrack | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/satcom-satellites-esa-estrack-f10e6c42.md) |
 | NASA TDRS | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/satcom-satellites-nasa-tdrs-e2a57392.md) |
-
-## Electromagnetoscopes
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| srsran/srsRAN_4G | release_25_10 | 2026-01-26T08:20:21Z | [open](../records/electromagnetoscopes-srsran-srsran-4g-2949fc58.md) |
-| srsran/srsRAN_Project | release_25_10 | 2025-11-11T17:10:32Z | [open](../records/electromagnetoscopes-srsran-srsran-project-88eaac4d.md) |
-
-## WebAssembly
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| mdn/webassembly-examples | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-mdn-webassembly-examples-5f38752e.md) |
-
-## SAPJava
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| SAP/ai-sdk | unknown | not_a_maven_coordinate | [open](../records/sapjava-sap-ai-sdk-e8b4294c.md) |
-| SAP/cloud-sdk | cloud-sdk-js | 2020-11-09T08:10:55Z | [open](../records/sapjava-sap-cloud-sdk-dd66ae4d.md) |
-| souzamarcelo9/sap-contas-apagar-worker | unknown | not_a_maven_coordinate | [open](../records/sapjava-souzamarcelo9-sap-contas-apagar-worker-e8774582.md) |
-
-## Swift
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| krispuckett/SwiftUIShaders | 1.0.0 | 2026-06-01T22:13:53Z | [open](../records/swift-krispuckett-swiftuishaders-6b476fd5.md) |
 
 ## Databases
 
@@ -201,7 +128,6 @@ Records: `62`
 | Gitea API | unknown | official_workplace_route_requires_source_specific_release_lookup | [open](../records/repository-workplaces-gitea-api-21f55527.md) |
 | GitHub Repository Search API | unknown | official_workplace_route_requires_source_specific_release_lookup | [open](../records/repository-workplaces-github-repository-search-api-a6eddd2a.md) |
 | GitLab Projects API | unknown | official_workplace_route_requires_source_specific_release_lookup | [open](../records/repository-workplaces-gitlab-projects-api-d576550a.md) |
-| gitlab-org/rust/knowledge-graph | partial | 2026-09-01T00:21:04.159Z | [open](../records/repository-workplaces-gitlab-org-rust-knowledge-graph-33cf57d8.md) |
 | Go Dev Source Guide | unknown | official_workplace_route_requires_source_specific_release_lookup | [open](../records/repository-workplaces-go-dev-source-guide-91115b4b.md) |
 | PHP Git Access | unknown | official_workplace_route_requires_source_specific_release_lookup | [open](../records/repository-workplaces-php-git-access-a76d1614.md) |
 | Python Developer Guide | unknown | official_workplace_route_requires_source_specific_release_lookup | [open](../records/repository-workplaces-python-developer-guide-eb490df4.md) |

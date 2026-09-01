@@ -1,6 +1,6 @@
 # Embedded Hardware
 
-Records: `40`
+Records: `8`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `40`
 
 ## Category Index
 
-[Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
-[Benchmarking (75)](benchmarking.md) · [Build System (596)](build-system.md) · [Cli (453)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (37)](compression.md)
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (75)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (441)](database-datastore.md) · [Datetime (105)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
-**[Embedded Hardware (40)](embedded-hardware.md)** · [Ffi Bindings (327)](ffi-bindings.md) · [Filesystem Os (784)](filesystem-os.md) · [Formatter (450)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (40)](fuzzer.md) · [Game Engine Game Dev (109)](game-engine-game-dev.md) · [Ide Editor Integration (860)](ide-editor-integration.md)
-[Image Audio Dsp (186)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (162)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (24)](language-server.md) · [Language Specification (843)](language-specification.md) · [Library (3399)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (336)](linter.md) · [Logging Observability (265)](logging-observability.md) · [Machine Learning (393)](machine-learning.md)
-[Math Numeric Scientific (71)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (700)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (206)](package-manager.md) · [Parser Lexer Ast (613)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
-[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (9)](sanitizer.md)
-[Security Sast (270)](security-sast.md) · [Serialization (282)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (297)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (43)](tutorial-book-styleguide.md) · [Type Checker (271)](type-checker.md)
-[Undefined Behavior Analyzer (1203)](undefined-behavior-analyzer.md) · [Utility Library (82)](utility-library.md) · [Visualization Gui (284)](visualization-gui.md) · [Web Framework (307)](web-framework.md)
+[Api Abi Checker (3)](api-abi-checker.md) · [Api Doc Generator (10)](api-doc-generator.md) · [Async Runtime (7)](async-runtime.md) · [Benchmarking (5)](benchmarking.md)
+[Build System (33)](build-system.md) · [Cli (27)](cli.md) · [Codegen Codemod Refactoring (11)](codegen-codemod-refactoring.md) · [Community Reference (21)](community-reference.md)
+[Compiler (23)](compiler.md) · [Compression (7)](compression.md) · [Concurrency Parallelism (14)](concurrency-parallelism.md) · [Configuration (2)](configuration.md)
+[Container Deployment (4)](container-deployment.md) · [Coverage (8)](coverage.md) · [Cryptography (19)](cryptography.md) · [Data Science (12)](data-science.md)
+[Database Datastore (133)](database-datastore.md) · [Datetime (1)](datetime.md) · [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (8)](debugger.md)
+[Dependency Manager (6)](dependency-manager.md) · [Documentation (33)](documentation.md) · **[Embedded Hardware (8)](embedded-hardware.md)** · [Ffi Bindings (14)](ffi-bindings.md)
+[Filesystem Os (2)](filesystem-os.md) · [Formatter (16)](formatter.md) · [Framework (9)](framework.md) · [Fuzzer (5)](fuzzer.md)
+[Game Engine Game Dev (38)](game-engine-game-dev.md) · [Ide Editor Integration (20)](ide-editor-integration.md) · [Image Audio Dsp (47)](image-audio-dsp.md) · [Interop Bindings (7)](interop-bindings.md)
+[Interpreter Runtime (26)](interpreter-runtime.md) · [Jit Vm (15)](jit-vm.md) · [Language Server (7)](language-server.md) · [Language Specification (51)](language-specification.md)
+[Library (18)](library.md) · [Lint Plugin (1)](lint-plugin.md) · [Linter (18)](linter.md) · [Logging Observability (25)](logging-observability.md)
+[Machine Learning (18)](machine-learning.md) · [Math Numeric Scientific (40)](math-numeric-scientific.md) · [Memory Analyzer (1)](memory-analyzer.md) · [Message Broker (7)](message-broker.md)
+[Networking Http (87)](networking-http.md) · [Other (14)](other.md) · [Package Manager (17)](package-manager.md) · [Parser Lexer Ast (47)](parser-lexer-ast.md)
+[Precommit Ci Quality (13)](precommit-ci-quality.md) · [Profiler (11)](profiler.md) · [Project Scaffolding (3)](project-scaffolding.md) · [Registry Repository (93)](registry-repository.md)
+[Sanitizer (4)](sanitizer.md) · [Security Sast (23)](security-sast.md) · [Serialization (70)](serialization.md) · [Standard Library (7)](standard-library.md)
+[Static Analyzer (37)](static-analyzer.md) · [Templating (1)](templating.md) · [Testing Framework (31)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md)
+[Type Checker (5)](type-checker.md) · [Undefined Behavior Analyzer (101)](undefined-behavior-analyzer.md) · [Utility Library (42)](utility-library.md) · [Visualization Gui (75)](visualization-gui.md)
+[Web Framework (34)](web-framework.md)
 
 ## C99
 
@@ -35,98 +35,16 @@ Records: `40`
 | lwIP | unknown | not_checked | [open](../records/c99-lwip-230d001c.md) |
 | Zephyr C APIs | unknown | not_checked | [open](../records/c99-zephyr-c-apis-5e3b9477.md) |
 
-## Julia
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| AccerionSensorAPI_jll | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-accerionsensorapi-jll-2ee4dcd4.md) |
-| aws_c_iot_jll | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-aws-c-iot-jll-85b89475.md) |
-| BioTools | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-biotools-edfb6c24.md) |
-| BladeRFHardwareDriver_jll | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-bladerfhardwaredriver-jll-78b0a42c.md) |
-
-## Rust
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| crc32c | 0.6.8 | 2024-06-09T17:15:44.323361Z | [open](../records/rust-crc32c-0b9748cf.md) |
-| embedded-hal | 1.0.0 | 2024-01-09T21:39:43.662055Z | [open](../records/rust-embedded-hal-34e097be.md) |
-
 ## Lua family
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ads1015 | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-ads1015-c12dbf22.md) |
-| adxl345 | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-adxl345-376e5784.md) |
 | eLua | unknown | not_checked | [open](../records/lua-family-elua-6b391ec4.md) |
 | Hardware and Embedded Systems | unknown | not_checked | [open](../records/lua-family-hardware-and-embedded-systems-bbe851ca.md) |
 | NodeMCU Lua | unknown | not_checked | [open](../records/lua-family-nodemcu-lua-5be552d2.md) |
-
-## R
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| iotools | 0.4-0.1 | 2026-08-29 06:15:22 UTC | [open](../records/r-iotools-9033e8e4.md) |
-| rstudiothemes | 1.2.0 | 2026-08-28 15:40:02 UTC | [open](../records/r-rstudiothemes-1ea19ceb.md) |
-
-## Octave
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| raspi | 0.0.3 | 2022-03-21 | [open](../records/octave-raspi-9669738c.md) |
-| rtree | 0.8.2 | 2024-04-07 | [open](../records/octave-rtree-65539ec3.md) |
-
-## Maps
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| Azure-Samples/AzureMapsCodeSamples | unknown | github_search_does_not_include_release_date | [open](../records/maps-azure-samples-azuremapscodesamples-82d1a8bd.md) |
-
-## Space Engines
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| nasa/fprime | v4.3.0 | 2026-08-20T01:46:19Z | [open](../records/space-engines-nasa-fprime-0934b688.md) |
-
-## Audio
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| adplug/adplug | adplug-2.4 | 2025-04-06T20:36:23Z | [open](../records/audio-adplug-adplug-e2680a2a.md) |
-| ARM-software/CMSIS-DSP | v1.17.1 | 2026-07-16T05:03:47Z | [open](../records/audio-arm-software-cmsis-dsp-5aab5965.md) |
-| zueblin/Polaron | unknown | github_latest_release_missing | [open](../records/audio-zueblin-polaron-4f0534e8.md) |
-
-## Photography
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| ceciliavision/zoom-learn-zoom | unknown | github_latest_release_missing | [open](../records/photography-ceciliavision-zoom-learn-zoom-503d7d27.md) |
-| dorukkumkumoglu/optocamzero | unknown | github_search_does_not_include_release_date | [open](../records/photography-dorukkumkumoglu-optocamzero-fa33e18d.md) |
-| oleksiikutuzov/flipperzero-lightmeter | unknown | github_search_does_not_include_release_date | [open](../records/photography-oleksiikutuzov-flipperzero-lightmeter-74fb80aa.md) |
-| Yutani140x/saturnix-camera | v2.0 | 2026-07-09T14:27:12Z | [open](../records/photography-yutani140x-saturnix-camera-7710cd32.md) |
-
-## Radars
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| bopen/sarsen | v0.9.6 | 2026-06-23T07:55:28Z | [open](../records/radars-bopen-sarsen-20870959.md) |
-| fanweng/Udacity-Sensor-Fusion-Nanodegree | unknown | github_latest_release_missing | [open](../records/radars-fanweng-udacity-sensor-fusion-nanodegree-475e3016.md) |
-| JunshengFu/tracking-with-Extended-Kalman-Filter | unknown | github_latest_release_missing | [open](../records/radars-junshengfu-tracking-with-extended-kalman-filter-b9a78f6a.md) |
-| m6c7l/pymmw | unknown | github_latest_release_missing | [open](../records/radars-m6c7l-pymmw-dccd876e.md) |
-| mithi/fusion-ekf | unknown | github_latest_release_missing | [open](../records/radars-mithi-fusion-ekf-fce69980.md) |
-| mithi/fusion-ukf | unknown | github_latest_release_missing | [open](../records/radars-mithi-fusion-ukf-78e879a8.md) |
-| ser94mor/sensor-fusion | unknown | github_latest_release_missing | [open](../records/radars-ser94mor-sensor-fusion-a71e7296.md) |
-| tsunglung/esphome-ld2450 | unknown | github_latest_release_missing | [open](../records/radars-tsunglung-esphome-ld2450-5abf99f6.md) |
 
 ## Electromagnetoscopes
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| fulldecent/system-bus-radio | 1.0.0 | 2016-10-27T19:09:59Z | [open](../records/electromagnetoscopes-fulldecent-system-bus-radio-4aafaaaf.md) |
-| open-sdr/openwifi-hw | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-open-sdr-openwifi-hw-23742265.md) |
 | rtl-sdr | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/electromagnetoscopes-rtl-sdr-7229b2c8.md) |
-
-## Assembly
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| Maratyszcza/PeachPy | partial | 2023-09-25T15:52:52Z | [open](../records/assembly-maratyszcza-peachpy-1f352ba0.md) |

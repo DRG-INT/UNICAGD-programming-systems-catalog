@@ -1,6 +1,6 @@
 # Compression
 
-Records: `37`
+Records: `7`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `37`
 
 ## Category Index
 
-[Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
-[Benchmarking (75)](benchmarking.md) · [Build System (596)](build-system.md) · [Cli (453)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · **[Compression (37)](compression.md)**
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (75)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (441)](database-datastore.md) · [Datetime (105)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
-[Embedded Hardware (40)](embedded-hardware.md) · [Ffi Bindings (327)](ffi-bindings.md) · [Filesystem Os (784)](filesystem-os.md) · [Formatter (450)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (40)](fuzzer.md) · [Game Engine Game Dev (109)](game-engine-game-dev.md) · [Ide Editor Integration (860)](ide-editor-integration.md)
-[Image Audio Dsp (186)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (162)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (24)](language-server.md) · [Language Specification (843)](language-specification.md) · [Library (3399)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (336)](linter.md) · [Logging Observability (265)](logging-observability.md) · [Machine Learning (393)](machine-learning.md)
-[Math Numeric Scientific (71)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (700)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (206)](package-manager.md) · [Parser Lexer Ast (613)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
-[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (9)](sanitizer.md)
-[Security Sast (270)](security-sast.md) · [Serialization (282)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (297)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (43)](tutorial-book-styleguide.md) · [Type Checker (271)](type-checker.md)
-[Undefined Behavior Analyzer (1203)](undefined-behavior-analyzer.md) · [Utility Library (82)](utility-library.md) · [Visualization Gui (284)](visualization-gui.md) · [Web Framework (307)](web-framework.md)
+[Api Abi Checker (3)](api-abi-checker.md) · [Api Doc Generator (10)](api-doc-generator.md) · [Async Runtime (7)](async-runtime.md) · [Benchmarking (5)](benchmarking.md)
+[Build System (33)](build-system.md) · [Cli (27)](cli.md) · [Codegen Codemod Refactoring (11)](codegen-codemod-refactoring.md) · [Community Reference (21)](community-reference.md)
+[Compiler (23)](compiler.md) · **[Compression (7)](compression.md)** · [Concurrency Parallelism (14)](concurrency-parallelism.md) · [Configuration (2)](configuration.md)
+[Container Deployment (4)](container-deployment.md) · [Coverage (8)](coverage.md) · [Cryptography (19)](cryptography.md) · [Data Science (12)](data-science.md)
+[Database Datastore (133)](database-datastore.md) · [Datetime (1)](datetime.md) · [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (8)](debugger.md)
+[Dependency Manager (6)](dependency-manager.md) · [Documentation (33)](documentation.md) · [Embedded Hardware (8)](embedded-hardware.md) · [Ffi Bindings (14)](ffi-bindings.md)
+[Filesystem Os (2)](filesystem-os.md) · [Formatter (16)](formatter.md) · [Framework (9)](framework.md) · [Fuzzer (5)](fuzzer.md)
+[Game Engine Game Dev (38)](game-engine-game-dev.md) · [Ide Editor Integration (20)](ide-editor-integration.md) · [Image Audio Dsp (47)](image-audio-dsp.md) · [Interop Bindings (7)](interop-bindings.md)
+[Interpreter Runtime (26)](interpreter-runtime.md) · [Jit Vm (15)](jit-vm.md) · [Language Server (7)](language-server.md) · [Language Specification (51)](language-specification.md)
+[Library (18)](library.md) · [Lint Plugin (1)](lint-plugin.md) · [Linter (18)](linter.md) · [Logging Observability (25)](logging-observability.md)
+[Machine Learning (18)](machine-learning.md) · [Math Numeric Scientific (40)](math-numeric-scientific.md) · [Memory Analyzer (1)](memory-analyzer.md) · [Message Broker (7)](message-broker.md)
+[Networking Http (87)](networking-http.md) · [Other (14)](other.md) · [Package Manager (17)](package-manager.md) · [Parser Lexer Ast (47)](parser-lexer-ast.md)
+[Precommit Ci Quality (13)](precommit-ci-quality.md) · [Profiler (11)](profiler.md) · [Project Scaffolding (3)](project-scaffolding.md) · [Registry Repository (93)](registry-repository.md)
+[Sanitizer (4)](sanitizer.md) · [Security Sast (23)](security-sast.md) · [Serialization (70)](serialization.md) · [Standard Library (7)](standard-library.md)
+[Static Analyzer (37)](static-analyzer.md) · [Templating (1)](templating.md) · [Testing Framework (31)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md)
+[Type Checker (5)](type-checker.md) · [Undefined Behavior Analyzer (101)](undefined-behavior-analyzer.md) · [Utility Library (42)](utility-library.md) · [Visualization Gui (75)](visualization-gui.md)
+[Web Framework (34)](web-framework.md)
 
 ## C99
 
@@ -32,51 +32,11 @@ Records: `37`
 | --- | --- | --- | --- |
 | zlib | unknown | not_checked | [open](../records/c99-zlib-9ed22b54.md) |
 
-## Julia
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| aws_c_compression_jll | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-aws-c-compression-jll-1cf62d21.md) |
-| brotli_jll | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-brotli-jll-34da05cb.md) |
-| Bzip2_jll | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-bzip2-jll-90d294ed.md) |
-| CodecBzip2 | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-codecbzip2-555294d8.md) |
-| CodecZstd | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-codeczstd-9c2e7664.md) |
-| CompressedBeliefMDPs | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-compressedbeliefmdps-e03eb13f.md) |
-| CompressedSensing | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-compressedsensing-4b1d44cd.md) |
-| CompressedSparseBlocks | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-compressedsparseblocks-6cc330f0.md) |
-| CompressiveLearning | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-compressivelearning-5cbe31d0.md) |
-
-## Rust
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| compression-codecs | 0.4.38 | 2026-04-24T12:03:16.269620Z | [open](../records/rust-compression-codecs-b842972a.md) |
-| compression-core | 0.4.32 | 2026-04-24T12:02:56.565052Z | [open](../records/rust-compression-core-ef3f311e.md) |
-| deflate | 1.0.0 | 2021-11-10T17:02:27.957683Z | [open](../records/rust-deflate-11068d3f.md) |
-| gzip-header | 1.1.0 | 2026-04-15T23:11:04.580804Z | [open](../records/rust-gzip-header-55bb5bd8.md) |
-| leb128fmt | 0.1.0 | 2023-10-02T21:31:24.075885Z | [open](../records/rust-leb128fmt-35cf5f0f.md) |
-| libbz2-rs-sys | 0.2.5 | 2026-05-16T13:12:49.413943Z | [open](../records/rust-libbz2-rs-sys-ed662e54.md) |
-| rlp | 0.6.1 | 2024-09-11T10:15:27.498004Z | [open](../records/rust-rlp-08110052.md) |
-| roaring | 0.11.5 | 2026-08-12T17:04:50.228344Z | [open](../records/rust-roaring-2af848fc.md) |
-| sha2-asm | 0.6.4 | 2024-05-07T16:24:37.057435Z | [open](../records/rust-sha2-asm-2b033e69.md) |
-| snap | 1.1.2 | 2026-07-15T11:40:42.657953Z | [open](../records/rust-snap-7299078a.md) |
-| zip | 8.6.0 | 2026-08-11T01:53:59.789008Z | [open](../records/rust-zip-6ddb8c65.md) |
-| zopfli | 0.8.3 | 2025-10-30T14:31:25.858107Z | [open](../records/rust-zopfli-8a82cef9.md) |
-| zune-inflate | 0.2.54 | 2023-04-30T12:46:39.401773Z | [open](../records/rust-zune-inflate-34fa7b56.md) |
-
 ## Lua family
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Compression | unknown | not_checked | [open](../records/lua-family-compression-ea2b0c67.md) |
-| flyzip | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-flyzip-264356e2.md) |
-| gamecake-zip | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-gamecake-zip-56dddff9.md) |
-
-## R
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| resmush | 1.0.3 | 2026-08-25 11:20:02 UTC | [open](../records/r-resmush-f4d0c58e.md) |
 
 ## Font Briefcase
 
@@ -91,39 +51,9 @@ Records: `37`
 | Basis Universal | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/assets-basis-universal-82c0d5f1.md) |
 | SVGO | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/assets-svgo-ce984043.md) |
 
-## Space Engines
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| kyleniemeyer/gas-dynamics-notes | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-kyleniemeyer-gas-dynamics-notes-a582f926.md) |
-
-## Audio
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| xiph/opus | v1.5.2 | 2024-09-11T15:10:07Z | [open](../records/audio-xiph-opus-720976ad.md) |
-
 ## Video
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | SVT-AV1 | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/video-svt-av1-1278812b.md) |
 | x264 | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/video-x264-dd764865.md) |
-
-## Photography
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| Cognirush-Labs-LLP/icompress-win | V4.2.2 | 2026-03-27T04:07:33Z | [open](../records/photography-cognirush-labs-llp-icompress-win-28ad11a2.md) |
-
-## Radars
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| flappyimi/Radar-Basic-Algorithm | unknown | github_latest_release_missing | [open](../records/radars-flappyimi-radar-basic-algorithm-1b94a1f2.md) |
-
-## Electromagnetoscopes
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| brannondorsey/chattervox | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-brannondorsey-chattervox-af75b409.md) |

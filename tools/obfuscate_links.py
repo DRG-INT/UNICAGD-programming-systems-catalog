@@ -31,8 +31,28 @@ BRANCH = "main"
 CACHE_DIR = Path(".cache")
 REDIRECT_MAP_PATH = CACHE_DIR / "link_redirect_map.json"
 
+# Theme-based cursor blocks
 CURSOR_BLOCKS = ["▇", "▆", "▅", "▄", "▃", "▂", "▁"]
-OBFUSCATION_CHAR = "·"  # Subtle dot character for partial obfuscation
+
+# Themed obfuscation character sets
+THEMES = {
+    "default": "·∘•◦°○",           # Dot/bullet theme
+    "tech": "·¨ˆ˜ˇ^",              # Technical/accent marks
+    "greek": "αβγδεζηθ",           # Greek letters
+    "math": "∓∓∓∓∓∓∓∓",           # Mathematical operators  
+    "cyrillic": "абвгдежз",         # Cyrillic alphabet
+    "arabic": "ابتجدرزس",          # Arabic script
+    "braille": "⠃⠉⠙⠑⠋⠛⠓⠊",  # Braille patterns
+    "blocks": "░▒▓█▓▒░",            # Block density pattern
+    "arrows": "←↑→↓↖↗↘↙",           # Arrow directions
+    "stars": "★☆☆☆☆☆☆☆",           # Star patterns
+    "weather": "☀☁☂☃☄☎☑☒",       # Weather/symbols
+    "shapes": "◯◉○○○○○○",           # Circle shapes
+    "circles": "●○○○○○○○",          # Filled/hollow circles
+}
+
+# Default single character for backward compatibility
+OBFUSCATION_CHAR = "·"
 TRIGGER_CHARS = list("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789")
 
 
@@ -137,8 +157,14 @@ class LinkObfuscator:
         REDIRECT_MAP_PATH.write_text(json.dumps(sot, indent=2, sort_keys=True))
         return sot
 
-    def encode_link(self, link_text: str, local_path: str) -> str:
-        """Encode a local link with partial obfuscation using · character."""
+    def encode_link(self, link_text: str, local_path: str, theme: str = "default") -> str:
+        """Encode a local link with partial obfuscation using themed characters.
+        
+        Args:
+            link_text: Display text for the link
+            local_path: Local file path (e.g., 'catalog/by-category/rust.md')
+            theme: Obfuscation theme from THEMES dict (default, tech, greek, etc.)
+        """
         clean_path = re.sub(r'^\./', '', local_path)
         github_url = f"{REPO_URL}/blob/{BRANCH}/{clean_path}"
         
@@ -154,11 +180,14 @@ class LinkObfuscator:
             chars_to_hide = [i for i in range(len(clean_path))
                             if (i + offset) % 3 == 0 and clean_path[i] not in ('/', '.')]
         
-        # Apply partial obfuscation - replace ~33% of characters with ·
+        # Select obfuscation characters based on theme
+        obfuscation_chars = THEMES.get(theme, THEMES["default"])
+        
+        # Apply partial obfuscation - each hidden char gets a different theme character
         chars = list(clean_path)
-        for pos in chars_to_hide:
+        for i, pos in enumerate(chars_to_hide):
             if pos < len(chars):
-                chars[pos] = OBFUSCATION_CHAR
+                chars[pos] = obfuscation_chars[i % len(obfuscation_chars)]
         
         obfuscated_target = "".join(chars)
         
@@ -175,8 +204,14 @@ class LinkObfuscator:
                 return parts[1]
         return None
 
-    def process_file(self, filepath: Path, mode: str) -> bool:
-        """Process a markdown file."""
+    def process_file(self, filepath: Path, mode: str, theme: str = "default") -> bool:
+        """Process a markdown file.
+        
+        Args:
+            filepath: Path to markdown file
+            mode: 'encode', 'decode', or 'verify'
+            theme: Obfuscation theme (default, tech, greek, etc.)
+        """
         content = filepath.read_text(encoding='utf-8')
         
         if mode == 'encode':
@@ -194,7 +229,7 @@ class LinkObfuscator:
                 if 'blob/main/' in link_target:
                     return full_match
                 
-                return self.encode_link(link_text, link_target)
+                return self.encode_link(link_text, link_target, theme)
             
             new_content = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', replace_link, content)
             
@@ -222,13 +257,13 @@ class LinkObfuscator:
             return True
         return False
 
-    def process_directory(self, dir_path: str, mode: str) -> dict:
+    def process_directory(self, dir_path: str, mode: str, theme: str = "default") -> dict:
         results = {"processed": 0, "changed": 0, "errors": []}
         dir_obj = Path(dir_path)
         for md_file in dir_obj.rglob("*.md"):
             results["processed"] += 1
             try:
-                if self.process_file(md_file, mode):
+                if self.process_file(md_file, mode, theme):
                     results["changed"] += 1
             except Exception as e:
                 results["errors"].append(f"{md_file}: {e}")
@@ -272,10 +307,11 @@ class LinkObfuscator:
 
 def main():
     parser = argparse.ArgumentParser(description="Partial link obfuscation for catalog")
-    parser.add_argument("mode", choices=["encode", "decode", "verify", "sot"],
-                        help="encode: obfuscate links, decode: restore, verify: check integrity, sot: show mapping")
+    parser.add_argument("mode", choices=["encode", "decode", "verify", "sot", "themes"],
+                        help="encode: obfuscate links, decode: restore, verify: check integrity, sot: show mapping, themes: list available themes")
     parser.add_argument("paths", nargs="*", help="Files or directories to process")
     parser.add_argument("--seed", default=None, help="Build seed")
+    parser.add_argument("--theme", default="default", help="Obfuscation theme (see 'themes' command)")
     
     args = parser.parse_args()
     
@@ -284,6 +320,13 @@ def main():
             print(json.dumps(json.loads(REDIRECT_MAP_PATH.read_text()), indent=2))
         else:
             print("No SOT found. Run encode first.")
+        return
+    
+    if args.mode == "themes":
+        print("Available obfuscation themes:")
+        for name, chars in THEMES.items():
+            sample = "".join(chars[:3])
+            print(f"  {name}: {sample}")
         return
     
     obfuscator = LinkObfuscator(seed=args.seed)
@@ -300,12 +343,12 @@ def main():
     for path in args.paths:
         p = Path(path)
         if p.is_dir():
-            result = obfuscator.process_directory(str(p), args.mode)
+            result = obfuscator.process_directory(str(p), args.mode, args.theme)
             total_changed += result["changed"]
             total_processed += result["processed"]
         elif p.is_file():
             total_processed += 1
-            if obfuscator.process_file(p, args.mode):
+            if obfuscator.process_file(p, args.mode, args.theme):
                 total_changed += 1
     
     print(f"Mode: {args.mode}, Seed: {obfuscator.seed}")
