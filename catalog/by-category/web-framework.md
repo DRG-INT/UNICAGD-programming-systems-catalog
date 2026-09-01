@@ -1,6 +1,6 @@
 # Web Framework
 
-Records: `298`
+Records: `304`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `298`
 
 ## Category Index
 
-[Api Abi Checker (115)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (105)](async-runtime.md)
-[Benchmarking (73)](benchmarking.md) · [Build System (583)](build-system.md) · [Cli (450)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
+[Benchmarking (74)](benchmarking.md) · [Build System (590)](build-system.md) · [Cli (451)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (71)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (437)](database-datastore.md) · [Datetime (100)](datetime.md)
+[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (73)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (437)](database-datastore.md) · [Datetime (104)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
-[Embedded Hardware (38)](embedded-hardware.md) · [Ffi Bindings (320)](ffi-bindings.md) · [Filesystem Os (745)](filesystem-os.md) · [Formatter (441)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (24)](fuzzer.md) · [Game Engine Game Dev (103)](game-engine-game-dev.md) · [Ide Editor Integration (844)](ide-editor-integration.md)
-[Image Audio Dsp (183)](image-audio-dsp.md) · [Interop Bindings (47)](interop-bindings.md) · [Interpreter Runtime (158)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (833)](language-specification.md) · [Library (3355)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (34)](lint-rule-pack.md) · [Linter (330)](linter.md) · [Logging Observability (258)](logging-observability.md) · [Machine Learning (382)](machine-learning.md)
-[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (691)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (199)](package-manager.md) · [Parser Lexer Ast (592)](parser-lexer-ast.md) · [Precommit Ci Quality (171)](precommit-ci-quality.md)
-[Profiler (57)](profiler.md) · [Project Scaffolding (90)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
-[Security Sast (268)](security-sast.md) · [Serialization (272)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (270)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (418)](testing-framework.md) · [Tutorial Book Styleguide (42)](tutorial-book-styleguide.md) · [Type Checker (261)](type-checker.md)
-[Undefined Behavior Analyzer (996)](undefined-behavior-analyzer.md) · [Utility Library (80)](utility-library.md) · [Visualization Gui (277)](visualization-gui.md) · **[Web Framework (298)](web-framework.md)**
+[Embedded Hardware (39)](embedded-hardware.md) · [Ffi Bindings (324)](ffi-bindings.md) · [Filesystem Os (761)](filesystem-os.md) · [Formatter (442)](formatter.md)
+[Framework (38)](framework.md) · [Fuzzer (30)](fuzzer.md) · [Game Engine Game Dev (104)](game-engine-game-dev.md) · [Ide Editor Integration (850)](ide-editor-integration.md)
+[Image Audio Dsp (184)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (161)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (837)](language-specification.md) · [Library (3388)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (334)](linter.md) · [Logging Observability (259)](logging-observability.md) · [Machine Learning (390)](machine-learning.md)
+[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (698)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (199)](package-manager.md) · [Parser Lexer Ast (598)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
+[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
+[Security Sast (270)](security-sast.md) · [Serialization (272)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (273)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (42)](tutorial-book-styleguide.md) · [Type Checker (264)](type-checker.md)
+[Undefined Behavior Analyzer (1135)](undefined-behavior-analyzer.md) · [Utility Library (81)](utility-library.md) · [Visualization Gui (280)](visualization-gui.md) · **[Web Framework (304)](web-framework.md)**
 
 ## C++23
 
@@ -164,7 +164,7 @@ Records: `298`
 | @apple/app-store-server-library | 3.1.0 | 2026-05-06T01:14:11.509Z | [open](../records/node-js-javascript-apple-app-store-server-library-95022302.md) |
 | @budibase/server | 3.38.1 | 2026-05-12T06:32:35.805Z | [open](../records/node-js-javascript-budibase-server-b96430d3.md) |
 | @callstack/repack-dev-server | 5.3.0 | 2026-08-05T09:11:36.073Z | [open](../records/node-js-javascript-callstack-repack-dev-server-631ff63b.md) |
-| @capgo/cli | 8.45.1 | 2026-08-30T12:43:07.842Z | [open](../records/node-js-javascript-capgo-cli-8e98e39d.md) |
+| @capgo/cli | 8.45.2 | 2026-09-01T10:54:08.499Z | [open](../records/node-js-javascript-capgo-cli-8e98e39d.md) |
 | @cloudflare/mcp-server-cloudflare | 0.2.0 | 2025-03-14T10:41:19.350Z | [open](../records/node-js-javascript-cloudflare-mcp-server-cloudflare-3b1ce558.md) |
 | @constructive-io/graphql-server | 5.20.6 | 2026-09-01T03:16:26.189Z | [open](../records/node-js-javascript-constructive-io-graphql-server-5edba745.md) |
 | @contentful/mcp-server | 1.18.0 | 2026-08-28T20:00:14.055Z | [open](../records/node-js-javascript-contentful-mcp-server-f8c3e0db.md) |
@@ -183,6 +183,7 @@ Records: `298`
 | @hono/vite-dev-server | 0.26.1 | 2026-07-11T04:05:00.157Z | [open](../records/node-js-javascript-hono-vite-dev-server-e0c72d5b.md) |
 | @lancedb/lancedb | 0.38.0 | 2026-08-31T08:31:16.264Z | [open](../records/node-js-javascript-lancedb-lancedb-b1aa28e9.md) |
 | @launchdarkly/js-server-sdk-common | 2.20.1 | 2026-08-18T19:55:04.935Z | [open](../records/node-js-javascript-launchdarkly-js-server-sdk-common-321e695d.md) |
+| @launchdarkly/js-server-sdk-common-edge | 2.6.28 | 2026-08-18T19:54:18.515Z | [open](../records/node-js-javascript-launchdarkly-js-server-sdk-common-edge-04bd7216.md) |
 | @liff/server-api | 2.31.0 | 2026-08-31T02:45:10.018Z | [open](../records/node-js-javascript-liff-server-api-7488dbd8.md) |
 | @loadable/server | 5.16.7 | 2025-05-18T01:22:53.335Z | [open](../records/node-js-javascript-loadable-server-04f8fed4.md) |
 | @lskjs/server | 3.18.0 | 2023-11-06T19:29:34.717Z | [open](../records/node-js-javascript-lskjs-server-3674f773.md) |
@@ -207,6 +208,7 @@ Records: `298`
 | @promster/server | 16.0.0 | 2026-08-30T17:52:36.398Z | [open](../records/node-js-javascript-promster-server-55eaed1b.md) |
 | @pusher/push-notifications-server | 1.2.7 | 2024-12-20T13:42:37.180Z | [open](../records/node-js-javascript-pusher-push-notifications-server-aee43ed1.md) |
 | @react-native/dev-middleware | 0.87.1 | 2026-08-26T12:56:48.766Z | [open](../records/node-js-javascript-react-native-dev-middleware-9d6a263c.md) |
+| @react-pdf/renderer | 4.9.0 | 2026-08-27T22:59:33.090Z | [open](../records/node-js-javascript-react-pdf-renderer-c07702a0.md) |
 | @react-router/express | 8.3.1 | 2026-08-28T14:44:43.286Z | [open](../records/node-js-javascript-react-router-express-7f5f4395.md) |
 | @react-router/serve | 8.3.1 | 2026-08-28T14:44:47.025Z | [open](../records/node-js-javascript-react-router-serve-fcd29568.md) |
 | @rebasepro/server | 0.17.3 | 2026-08-31T13:20:11.463Z | [open](../records/node-js-javascript-rebasepro-server-25d1c74a.md) |
@@ -260,7 +262,7 @@ Records: `298`
 | Fastify | unknown | not_checked | [open](../records/node-js-javascript-fastify-2386771a.md) |
 | five-server | 0.5.0 | 2026-05-12T10:40:19.391Z | [open](../records/node-js-javascript-five-server-f752688a.md) |
 | hexo-server | 3.0.0 | 2022-01-03T05:07:25.018Z | [open](../records/node-js-javascript-hexo-server-999441df.md) |
-| hostinger-api-mcp | 1.52.0 | 2026-08-28T07:33:06.594Z | [open](../records/node-js-javascript-hostinger-api-mcp-72a83612.md) |
+| hostinger-api-mcp | 1.52.2 | 2026-09-01T11:33:53.689Z | [open](../records/node-js-javascript-hostinger-api-mcp-72a83612.md) |
 | is-ci | 4.1.0 | 2024-12-08T08:23:15.565Z | [open](../records/node-js-javascript-is-ci-0a428e2e.md) |
 | Koa | unknown | not_checked | [open](../records/node-js-javascript-koa-46377f86.md) |
 | livereload | 0.10.3 | 2025-08-14T00:59:25.811Z | [open](../records/node-js-javascript-livereload-1a5bba84.md) |
@@ -353,6 +355,15 @@ Records: `298`
 | --- | --- | --- | --- |
 | beamer | 1.7.0 | 2024-10-08T20:45:02.640302Z | [open](../records/dart-beamer-0ac37553.md) |
 | cached_query | 3.7.0 | 2026-05-17T19:03:16.667872Z | [open](../records/dart-cached-query-5a245dd8.md) |
+
+## Maps
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| angular-ui/ui-router | 1.1.2 | 2025-12-31T01:45:56Z | [open](../records/maps-angular-ui-ui-router-206fd635.md) |
+| cablate/mcp-google-map | v0.0.55 | 2026-08-16T12:55:41Z | [open](../records/maps-cablate-mcp-google-map-31eb1d92.md) |
+| graphhopper/graphhopper | 11.0 | 2025-10-14T14:50:34Z | [open](../records/maps-graphhopper-graphhopper-cfd324a4.md) |
+| katanemo/plano | 0.4.36 | 2026-08-19T19:29:09Z | [open](../records/maps-katanemo-plano-886a078b.md) |
 
 ## Space Engines
 

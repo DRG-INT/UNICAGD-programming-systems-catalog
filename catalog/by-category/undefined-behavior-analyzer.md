@@ -1,6 +1,6 @@
 # Undefined Behavior Analyzer
 
-Records: `996`
+Records: `1135`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `996`
 
 ## Category Index
 
-[Api Abi Checker (115)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (105)](async-runtime.md)
-[Benchmarking (73)](benchmarking.md) · [Build System (583)](build-system.md) · [Cli (450)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
+[Benchmarking (74)](benchmarking.md) · [Build System (590)](build-system.md) · [Cli (451)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (71)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (437)](database-datastore.md) · [Datetime (100)](datetime.md)
+[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (73)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (437)](database-datastore.md) · [Datetime (104)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
-[Embedded Hardware (38)](embedded-hardware.md) · [Ffi Bindings (320)](ffi-bindings.md) · [Filesystem Os (745)](filesystem-os.md) · [Formatter (441)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (24)](fuzzer.md) · [Game Engine Game Dev (103)](game-engine-game-dev.md) · [Ide Editor Integration (844)](ide-editor-integration.md)
-[Image Audio Dsp (183)](image-audio-dsp.md) · [Interop Bindings (47)](interop-bindings.md) · [Interpreter Runtime (158)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (833)](language-specification.md) · [Library (3355)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (34)](lint-rule-pack.md) · [Linter (330)](linter.md) · [Logging Observability (258)](logging-observability.md) · [Machine Learning (382)](machine-learning.md)
-[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (691)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (199)](package-manager.md) · [Parser Lexer Ast (592)](parser-lexer-ast.md) · [Precommit Ci Quality (171)](precommit-ci-quality.md)
-[Profiler (57)](profiler.md) · [Project Scaffolding (90)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
-[Security Sast (268)](security-sast.md) · [Serialization (272)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (270)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (418)](testing-framework.md) · [Tutorial Book Styleguide (42)](tutorial-book-styleguide.md) · [Type Checker (261)](type-checker.md)
-**[Undefined Behavior Analyzer (996)](undefined-behavior-analyzer.md)** · [Utility Library (80)](utility-library.md) · [Visualization Gui (277)](visualization-gui.md) · [Web Framework (298)](web-framework.md)
+[Embedded Hardware (39)](embedded-hardware.md) · [Ffi Bindings (324)](ffi-bindings.md) · [Filesystem Os (761)](filesystem-os.md) · [Formatter (442)](formatter.md)
+[Framework (38)](framework.md) · [Fuzzer (30)](fuzzer.md) · [Game Engine Game Dev (104)](game-engine-game-dev.md) · [Ide Editor Integration (850)](ide-editor-integration.md)
+[Image Audio Dsp (184)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (161)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (837)](language-specification.md) · [Library (3388)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (334)](linter.md) · [Logging Observability (259)](logging-observability.md) · [Machine Learning (390)](machine-learning.md)
+[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (698)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (199)](package-manager.md) · [Parser Lexer Ast (598)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
+[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
+[Security Sast (270)](security-sast.md) · [Serialization (272)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (273)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (42)](tutorial-book-styleguide.md) · [Type Checker (264)](type-checker.md)
+**[Undefined Behavior Analyzer (1135)](undefined-behavior-analyzer.md)** · [Utility Library (81)](utility-library.md) · [Visualization Gui (280)](visualization-gui.md) · [Web Framework (304)](web-framework.md)
 
 ## C++23
 
@@ -151,7 +151,7 @@ Records: `996`
 | @hapi/subtext | 8.1.3 | 2026-05-06T10:24:45.862Z | [open](../records/node-js-javascript-hapi-subtext-e2e3527c.md) |
 | @hubspot/cli | 8.14.0 | 2026-08-27T19:54:32.232Z | [open](../records/node-js-javascript-hubspot-cli-15179122.md) |
 | @lobehub/cli-ui | 1.13.0 | 2025-06-11T05:49:34.974Z | [open](../records/node-js-javascript-lobehub-cli-ui-0f0fa43a.md) |
-| @neaps/tide-database | 0.9.20260801 | 2026-08-01T12:13:14.613Z | [open](../records/node-js-javascript-neaps-tide-database-72059e90.md) |
+| @neaps/tide-database | 0.9.20260901 | 2026-09-01T11:21:53.644Z | [open](../records/node-js-javascript-neaps-tide-database-72059e90.md) |
 | @percy/cli | 1.32.7 | 2026-08-20T12:28:42.598Z | [open](../records/node-js-javascript-percy-cli-8f36f781.md) |
 | @pnp/logging | 4.21.0 | 2026-08-24T16:58:43.098Z | [open](../records/node-js-javascript-pnp-logging-7af90765.md) |
 | @redocly/openapi-core | 2.49.0 | 2026-08-27T11:54:19.010Z | [open](../records/node-js-javascript-redocly-openapi-core-1c72c325.md) |
@@ -358,17 +358,25 @@ Records: `996`
 | github.com/2rumaki-playground/game-001-dungeon-cards | v0.92.0 | 2026-08-30T14:06:37.582513Z | [open](../records/go-github-com-2rumaki-playground-game-001-dungeon-cards-97fa2334.md) |
 | github.com/aastarcommunity/aastar-sdk | v0.39.0 | 2026-08-30T14:07:44.470713Z | [open](../records/go-github-com-aastarcommunity-aastar-sdk-8eafde11.md) |
 | github.com/aauth-dev/packages-js | v0.10.2 | 2026-08-30T10:08:54.503287Z | [open](../records/go-github-com-aauth-dev-packages-js-0063ff71.md) |
+| github.com/abhishek-valaboju/steve | v0.8.8 | 2026-08-30T15:32:18.71426Z | [open](../records/go-github-com-abhishek-valaboju-steve-6d1fcc9a.md) |
 | github.com/adenohitu/hisui | v0.6.1 | 2026-08-30T14:07:11.283211Z | [open](../records/go-github-com-adenohitu-hisui-b1d56c26.md) |
 | github.com/ADguardTeam/Adguardfilters | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-adguardteam-adguardfilters-ae6619ca.md) |
 | github.com/afdesk/trivy | v0.31.3 | 2026-08-30T11:58:21.579285Z | [open](../records/go-github-com-afdesk-trivy-d7aecdce.md) |
 | github.com/agiledragon/gomOnkey/v2 | v2.13.0 | 2026-08-30T11:57:50.446689Z | [open](../records/go-github-com-agiledragon-gomonkey-v2-a2d4fc0f.md) |
+| github.com/aidansteele/pomerium | v0.0.3 | 2026-08-30T15:30:56.438849Z | [open](../records/go-github-com-aidansteele-pomerium-0a71b1a9.md) |
+| github.com/akagiyui/go-together | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-akagiyui-go-together-0675279a.md) |
+| github.com/akaitigo/reference-atlas-core | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-akaitigo-reference-atlas-core-b7659f23.md) |
 | github.com/akhoury/nodebb | v1.8.2 | 2026-08-30T12:54:49.205068Z | [open](../records/go-github-com-akhoury-nodebb-07cd4558.md) |
 | github.com/aleph-im/pyaleph | v0.1.7 | 2026-08-30T11:58:36.386235Z | [open](../records/go-github-com-aleph-im-pyaleph-6d1cc3cc.md) |
 | github.com/alexandremahdhaoui/forge-register-spec | v0.45.5 | 2026-08-30T11:56:16.502522Z | [open](../records/go-github-com-alexandremahdhaoui-forge-register-spec-6b4f8530.md) |
 | github.com/alexandremahdhaoui/forge-revision-spec | v0.45.5 | 2026-08-30T11:56:16.940834Z | [open](../records/go-github-com-alexandremahdhaoui-forge-revision-spec-5a2afbc8.md) |
+| github.com/algebraicjulia/catlab.jl | v0.6.2 | 2026-08-30T15:31:29.711238Z | [open](../records/go-github-com-algebraicjulia-catlab-jl-c661cefd.md) |
 | github.com/algotables/algotables.github.io | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-algotables-algotables-github-io-8b3df959.md) |
+| github.com/aliilapro/mtprotoproxy | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-aliilapro-mtprotoproxy-29a21a4e.md) |
+| github.com/aliilapro/proxy | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-aliilapro-proxy-7cfae674.md) |
 | github.com/ambiretech/ambire-common | v1.0.12 | 2026-08-30T14:07:40.638413Z | [open](../records/go-github-com-ambiretech-ambire-common-d6d96619.md) |
 | github.com/AnandOza/Competitive-Programming | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-anandoza-competitive-programming-ea8e6750.md) |
+| github.com/andregasser/bigbone | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-andregasser-bigbone-e44d2dd5.md) |
 | github.com/androidpoet/supabase-kmp | v0.4.0 | 2026-08-30T11:58:46.340181Z | [open](../records/go-github-com-androidpoet-supabase-kmp-1fa39c7c.md) |
 | github.com/angel-o/beads | v0.9.8 | 2026-08-30T12:54:23.184881Z | [open](../records/go-github-com-angel-o-beads-7462ab65.md) |
 | github.com/annetutil/gnetcli/examples/netsshsetup | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-annetutil-gnetcli-examples-netsshsetup-fa901aba.md) |
@@ -376,6 +384,7 @@ Records: `996`
 | github.com/antipopp/bun | v1.0.3 | 2026-08-30T10:09:57.915994Z | [open](../records/go-github-com-antipopp-bun-a0273661.md) |
 | github.com/antonmedv/medb | v1.0.0 | 2026-08-30T11:57:49.78732Z | [open](../records/go-github-com-antonmedv-medb-7afd0251.md) |
 | github.com/apache/camel | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-apache-camel-af9e6289.md) |
+| github.com/apache/datafusion | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-apache-datafusion-4e8cdafb.md) |
 | github.com/aperture-sci/loan-app/interest | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-aperture-sci-loan-app-interest-15863c7d.md) |
 | github.com/aperture-sci/loan-app/loan | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-aperture-sci-loan-app-loan-f0773d68.md) |
 | github.com/apollo-deploy/signal-sdks | v1.0.2 | 2026-08-30T12:52:03.591954Z | [open](../records/go-github-com-apollo-deploy-signal-sdks-a0ec7111.md) |
@@ -390,6 +399,7 @@ Records: `996`
 | github.com/authed-dev/authed | v0.2.6 | 2026-08-30T11:56:35.156881Z | [open](../records/go-github-com-authed-dev-authed-6b8bc89c.md) |
 | github.com/autofac/Autofac.Web | v8.0.0+incompatible | 2026-08-30T10:10:44.327286Z | [open](../records/go-github-com-autofac-autofac-web-4dee2bed.md) |
 | github.com/automattic/jetpack-changelogger | v3.0.2+incompatible | 2026-08-30T11:58:40.5588Z | [open](../records/go-github-com-automattic-jetpack-changelogger-21f00aef.md) |
+| github.com/autowp/autowp | v8.67.0+incompatible | 2026-08-30T15:29:14.715649Z | [open](../records/go-github-com-autowp-autowp-42c97b6e.md) |
 | github.com/awesome-gocui/gocui | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-awesome-gocui-gocui-5b9caa2a.md) |
 | github.com/awesome-gocui/gocui/_examples | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-awesome-gocui-gocui-examples-285963ba.md) |
 | github.com/aws/aws-sdk-go-V2/service/pinpoint | v1.43.0 | 2026-08-30T14:08:10.268934Z | [open](../records/go-github-com-aws-aws-sdk-go-v2-service-pinpoint-ec704828.md) |
@@ -405,14 +415,17 @@ Records: `996`
 | github.com/bitcoinknots/bitcoin | v0.5.1 | 2026-08-30T14:07:56.447057Z | [open](../records/go-github-com-bitcoinknots-bitcoin-2f17acbb.md) |
 | github.com/bluesky/ophyd-async | v0.6.0 | 2026-08-30T10:10:44.906439Z | [open](../records/go-github-com-bluesky-ophyd-async-c31ebe83.md) |
 | github.com/bluestreak01/influxdb | v0.0.3 | 2026-08-30T11:59:31.307114Z | [open](../records/go-github-com-bluestreak01-influxdb-5aa6e2b4.md) |
+| github.com/bonifaido/pomerium | v0.7.5 | 2026-08-30T15:31:15.443833Z | [open](../records/go-github-com-bonifaido-pomerium-5fa92425.md) |
 | github.com/brookhong/surfingkeys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-brookhong-surfingkeys-c7ec944b.md) |
 | github.com/browser-use/browser-use | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-browser-use-browser-use-58f6c517.md) |
 | github.com/btc-vision/opnet | v1.8.9 | 2026-08-30T11:59:14.184534Z | [open](../records/go-github-com-btc-vision-opnet-191aa8ae.md) |
 | github.com/btc-vision/opwallet | v1.0.34 | 2026-08-30T12:50:41.232683Z | [open](../records/go-github-com-btc-vision-opwallet-a6f9fcf6.md) |
+| github.com/buptcozy/koordinator | v0.4.1 | 2026-08-30T15:32:13.632106Z | [open](../records/go-github-com-buptcozy-koordinator-70ca9d4e.md) |
 | github.com/butlergroup/env_encryption_tool | v0.9.2 | 2026-08-30T11:58:52.883816Z | [open](../records/go-github-com-butlergroup-env-encryption-tool-d10e4ba9.md) |
 | github.com/canopyide/canopy | v0.10.1 | 2026-08-30T10:08:13.562753Z | [open](../records/go-github-com-canopyide-canopy-7518ff5d.md) |
 | github.com/captheavenger/thedipidis | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-captheavenger-thedipidis-1c7465dc.md) |
-| github.com/cauldronup/cauldron | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-cauldronup-cauldron-2eea246f.md) |
+| github.com/cartridge-gg/controller | v0.13.5 | 2026-08-30T15:31:54.333323Z | [open](../records/go-github-com-cartridge-gg-controller-0dc76964.md) |
+| github.com/CauldronUp/cauldron | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-cauldronup-cauldron-2eea246f.md) |
 | github.com/causalens/dara | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-causalens-dara-62b298b0.md) |
 | github.com/cert-manager/cert-manager/cmd/acmesolver | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-cert-manager-cert-manager-cmd-acmesolver-9e3ed19c.md) |
 | github.com/chainapsis/oko | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-chainapsis-oko-ca39ed3c.md) |
@@ -421,10 +434,13 @@ Records: `996`
 | github.com/cisagov/dotgov | v1.197.0 | 2026-08-30T11:59:14.291773Z | [open](../records/go-github-com-cisagov-dotgov-64de0826.md) |
 | github.com/cjosey/openmoc | v0.1.4 | 2026-08-30T12:55:10.079756Z | [open](../records/go-github-com-cjosey-openmoc-54a46c44.md) |
 | github.com/ClareChu/static-server | v0.0.9 | 2026-08-30T10:54:25.380144Z | [open](../records/go-github-com-clarechu-static-server-4755856e.md) |
+| github.com/cnpack/cnvcl | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-cnpack-cnvcl-66cde9d3.md) |
 | github.com/cocosip/sharp-abp | v2.7.3+incompatible | 2026-08-30T10:07:29.763804Z | [open](../records/go-github-com-cocosip-sharp-abp-58ba8a80.md) |
 | github.com/coderQuad/New-Grad-Positions-2022 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-coderquad-new-grad-positions-2022-fc9dbb07.md) |
+| github.com/codl/forget | v1.2.0 | 2026-08-30T15:31:29.290124Z | [open](../records/go-github-com-codl-forget-e94b3853.md) |
 | github.com/cognesy/instructor-php | v2.9.0+incompatible | 2026-08-30T11:58:18.675284Z | [open](../records/go-github-com-cognesy-instructor-php-6a01c2a9.md) |
 | github.com/conda-forge/feedstocks | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-conda-forge-feedstocks-86e66c8c.md) |
+| github.com/contentauth/c2pa-c | v0.17.0 | 2026-08-30T15:31:12.03504Z | [open](../records/go-github-com-contentauth-c2pa-c-d2cd917e.md) |
 | github.com/Cosmos/Gogoproto | v1.5.0 | 2026-08-30T14:08:27.618059Z | [open](../records/go-github-com-cosmos-gogoproto-5e522f06.md) |
 | github.com/crazy-max/WindowsSpyBlocker | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-crazy-max-windowsspyblocker-c92cd8e8.md) |
 | github.com/crcn/sift.js | v13.1.10+incompatible | 2026-08-30T12:53:01.624068Z | [open](../records/go-github-com-crcn-sift-js-50a96aa4.md) |
@@ -434,15 +450,18 @@ Records: `996`
 | github.com/csa-admin-org/csa-admin | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-csa-admin-org-csa-admin-486e1a7c.md) |
 | github.com/cspotcode/ts-node | v3.2.2+incompatible | 2026-08-30T12:51:23.57632Z | [open](../records/go-github-com-cspotcode-ts-node-705ca408.md) |
 | github.com/cyanheads/imf-mcp-server | v0.1.3 | 2026-08-30T12:54:00.527989Z | [open](../records/go-github-com-cyanheads-imf-mcp-server-0d603b04.md) |
+| github.com/cyclonedx/cyclonedx-dotnet-library | v8.0.2+incompatible | 2026-08-30T15:29:55.716193Z | [open](../records/go-github-com-cyclonedx-cyclonedx-dotnet-library-2565fbbe.md) |
 | github.com/cyoda-platform/cyoda-go-spi | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-cyoda-platform-cyoda-go-spi-b9c94df5.md) |
 | github.com/daintreehq/daintree | v0.28.0 | 2026-08-30T14:10:32.298025Z | [open](../records/go-github-com-daintreehq-daintree-7899c545.md) |
 | github.com/danaj/Math-Prime-Util | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-danaj-math-prime-util-72230453.md) |
 | github.com/danp/nspoweroutages | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-danp-nspoweroutages-a633989d.md) |
+| github.com/dansup/pixelfed | v0.11.11 | 2026-08-30T15:31:18.594848Z | [open](../records/go-github-com-dansup-pixelfed-547d62b2.md) |
 | github.com/danverbraganza/requests | v0.10.1 | 2026-08-30T10:08:04.036462Z | [open](../records/go-github-com-danverbraganza-requests-99a882e3.md) |
 | github.com/dasevilla/requests | v0.2.2 | 2026-08-30T10:10:59.627481Z | [open](../records/go-github-com-dasevilla-requests-680dc1e6.md) |
 | github.com/davidwu226/apollo-codegen | v0.3.3 | 2026-08-30T14:07:29.928413Z | [open](../records/go-github-com-davidwu226-apollo-codegen-19d205c7.md) |
 | github.com/defacto2/server | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-defacto2-server-4f4a8bc3.md) |
 | github.com/DemoMacro/docen | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-demomacro-docen-570556c4.md) |
+| github.com/detro/spelunk/v2 | v2.2.1 | 2026-08-30T15:29:08.185588Z | [open](../records/go-github-com-detro-spelunk-v2-ddce91e6.md) |
 | github.com/devolutions/psign | v0.3.0 | 2026-08-30T10:09:26.630599Z | [open](../records/go-github-com-devolutions-psign-25764e76.md) |
 | github.com/dgs-ai-team/dagents | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-dgs-ai-team-dagents-0979d793.md) |
 | github.com/dgs-ai-team/dagents/shared/config | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-dgs-ai-team-dagents-shared-config-08992467.md) |
@@ -453,6 +472,7 @@ Records: `996`
 | github.com/dhth/gobrewtest | v0.5.0 | 2026-08-30T10:10:50.931848Z | [open](../records/go-github-com-dhth-gobrewtest-d6c21982.md) |
 | github.com/diamondlightsource/hyperion | v8.7.0+incompatible | 2026-08-30T10:07:42.372293Z | [open](../records/go-github-com-diamondlightsource-hyperion-cbfd6ee5.md) |
 | github.com/digni/adomi | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-digni-adomi-767715ce.md) |
+| github.com/dimetron/pi-go | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-dimetron-pi-go-425256b0.md) |
 | github.com/dimonomid/nerdlog | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-dimonomid-nerdlog-97281672.md) |
 | github.com/dirvine/saorsa-gossip | v0.5.50 | 2026-08-30T11:56:39.048108Z | [open](../records/go-github-com-dirvine-saorsa-gossip-1c074284.md) |
 | github.com/discord-php/discordphp | v10.56.13+incompatible | 2026-08-30T12:53:27.034178Z | [open](../records/go-github-com-discord-php-discordphp-ba1807c3.md) |
@@ -489,7 +509,9 @@ Records: `996`
 | github.com/eallender/nats-ls | v0.1.1 | 2026-08-30T12:54:57.259666Z | [open](../records/go-github-com-eallender-nats-ls-c63ad9eb.md) |
 | github.com/eallion/pehe | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-eallion-pehe-88b2f39c.md) |
 | github.com/easylist/easylist | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-easylist-easylist-81e4508a.md) |
+| github.com/eclipse-edc/identityhub | v0.4.0 | 2026-08-30T15:29:48.695084Z | [open](../records/go-github-com-eclipse-edc-identityhub-818c33cd.md) |
 | github.com/edgelesssys/contrast/tools/tdx-measure | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-edgelesssys-contrast-tools-tdx-measure-eb1bac93.md) |
+| github.com/edmozley/freeitsm | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-edmozley-freeitsm-28d3858d.md) |
 | github.com/edsan845d/oapi-hinge | v0.2.0 | 2026-08-30T10:08:26.876039Z | [open](../records/go-github-com-edsan845d-oapi-hinge-4ad08e93.md) |
 | github.com/electron-cash/electron-cash | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-electron-cash-electron-cash-786e8fa4.md) |
 | github.com/elementor/hello-theme | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-elementor-hello-theme-bf984d20.md) |
@@ -498,31 +520,53 @@ Records: `996`
 | github.com/elfmz/far2l | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-elfmz-far2l-93b5eb76.md) |
 | github.com/elishacloud/dxwrapper | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-elishacloud-dxwrapper-bfacbe01.md) |
 | github.com/eljefedelrodeodeljefe/probe | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-eljefedelrodeodeljefe-probe-3e4c286a.md) |
+| github.com/ellanetworks/core | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-ellanetworks-core-7d2fad0e.md) |
+| github.com/ellanetworks/core/lppa | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-ellanetworks-core-lppa-c2d827a8.md) |
+| github.com/ellanetworks/core/ngap | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-ellanetworks-core-ngap-2c8918fb.md) |
+| github.com/ellanetworks/core/nrppa | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-ellanetworks-core-nrppa-7aa82621.md) |
+| github.com/ellanetworks/core/s1ap | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-ellanetworks-core-s1ap-533a6ff6.md) |
 | github.com/Elliottophellia/yakumo | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-elliottophellia-yakumo-dc7bb4a8.md) |
+| github.com/emacs-mirror/emacs | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-emacs-mirror-emacs-0c5a82fb.md) |
+| github.com/epatters/catlab.jl | v0.3.0 | 2026-08-30T15:30:23.587845Z | [open](../records/go-github-com-epatters-catlab-jl-5c1316ff.md) |
 | github.com/equilibriumco/pathfinder | v0.21.3 | 2026-08-30T10:09:31.271196Z | [open](../records/go-github-com-equilibriumco-pathfinder-cb4c37f8.md) |
+| github.com/es5h/projmux | v0.14.0 | 2026-08-30T15:30:31.305708Z | [open](../records/go-github-com-es5h-projmux-b41c2b73.md) |
+| github.com/esacteksab/gh-actlock | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-esacteksab-gh-actlock-44cdde48.md) |
+| github.com/esacteksab/gh-tp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-esacteksab-gh-tp-64fa54a8.md) |
+| github.com/espr1t/action | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-espr1t-action-689bccf9.md) |
+| github.com/espressif/esp-bsp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-espressif-esp-bsp-793f2982.md) |
+| github.com/espressif/esp-coredump | v1.17.0 | 2026-08-30T15:32:18.015728Z | [open](../records/go-github-com-espressif-esp-coredump-42bfd94d.md) |
 | github.com/eug1ena/bug_finder | v1.0.0 | 2026-08-30T14:07:48.120304Z | [open](../records/go-github-com-eug1ena-bug-finder-db484360.md) |
+| github.com/evanp/onepage.pub | v0.10.2 | 2026-08-30T15:30:36.766576Z | [open](../records/go-github-com-evanp-onepage-pub-e093493d.md) |
 | github.com/everbird/requests | v0.13.5 | 2026-08-30T10:09:59.583484Z | [open](../records/go-github-com-everbird-requests-7648208d.md) |
 | github.com/Exonical/go-kerberos | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-exonical-go-kerberos-d8236d4d.md) |
 | github.com/eyevinn/strom | v0.4.11 | 2026-08-30T14:06:56.822407Z | [open](../records/go-github-com-eyevinn-strom-83143b41.md) |
 | github.com/falkcorp/audiobook-organizer | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-falkcorp-audiobook-organizer-885064db.md) |
+| github.com/fallen-breath/mcdreforged | v2.14.3+incompatible | 2026-08-30T15:31:45.322267Z | [open](../records/go-github-com-fallen-breath-mcdreforged-c88b02f2.md) |
 | github.com/FATAL1TY/mashumaro | v3.8.1+incompatible | 2026-08-30T14:08:21.247513Z | [open](../records/go-github-com-fatal1ty-mashumaro-6178b1c0.md) |
 | github.com/fdebijl/opentitles.scraper | v1.38.0 | 2026-08-30T11:58:36.197553Z | [open](../records/go-github-com-fdebijl-opentitles-scraper-c4d758bc.md) |
 | github.com/felixmaier1989/hubspot-php | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-felixmaier1989-hubspot-php-a9d52c4c.md) |
 | github.com/fengshao1227/ccg-workflow | v3.6.2+incompatible | 2026-08-30T10:09:59.228996Z | [open](../records/go-github-com-fengshao1227-ccg-workflow-5c46df38.md) |
 | github.com/fidget-spinner/cpython | v3.4.2+incompatible | 2026-08-30T12:52:34.364058Z | [open](../records/go-github-com-fidget-spinner-cpython-2ad2c51e.md) |
+| github.com/financial-reports/financial-reports-python | v1.4.62 | 2026-08-30T15:31:26.76935Z | [open](../records/go-github-com-financial-reports-financial-reports-python-c36b9ed4.md) |
 | github.com/framefilter/keyroost | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-framefilter-keyroost-5eb7e451.md) |
 | github.com/frappe/telephony | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-frappe-telephony-2e7202f0.md) |
 | github.com/fredrik/requests | v0.6.1 | 2026-08-30T10:10:30.205876Z | [open](../records/go-github-com-fredrik-requests-e60e8186.md) |
 | github.com/frequency-chain/frequency | v1.16.0 | 2026-08-30T12:54:51.512769Z | [open](../records/go-github-com-frequency-chain-frequency-71602d72.md) |
+| github.com/freshrss/freshrss | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-freshrss-freshrss-0729a83e.md) |
+| github.com/frictionlessdata/framework | v4.10.5+incompatible | 2026-08-30T15:32:07.322185Z | [open](../records/go-github-com-frictionlessdata-framework-5cfc3262.md) |
 | github.com/frida/frida-qml | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-frida-frida-qml-0587b8ca.md) |
 | github.com/fuelLabs/fuel-core | v0.41.6 | 2026-08-30T14:08:57.44454Z | [open](../records/go-github-com-fuellabs-fuel-core-c548e2fd.md) |
 | github.com/gaarutyunov/goga | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-gaarutyunov-goga-4bb54024.md) |
+| github.com/gabomdq/sdl_gamecontrollerdb | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-gabomdq-sdl-gamecontrollerdb-2bda98a2.md) |
+| github.com/gamesgamesgamesgamesgames/happyview | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-gamesgamesgamesgamesgames-happyview-bf5d41a8.md) |
 | github.com/gardener/Gardener | v1.22.4 | 2026-08-30T12:52:49.633014Z | [open](../records/go-github-com-gardener-gardener-de30127b.md) |
 | github.com/gaucho-racing/mapache | v3.10.2+incompatible | 2026-08-30T12:54:53.159125Z | [open](../records/go-github-com-gaucho-racing-mapache-c766cbcd.md) |
 | github.com/geiserx/tailscale-rs | v0.43.2 | 2026-08-30T10:10:44.27797Z | [open](../records/go-github-com-geiserx-tailscale-rs-84a47881.md) |
+| github.com/gentoo-mirror/gentoo | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-gentoo-mirror-gentoo-ae6efac0.md) |
 | github.com/Gentoo/gentoo | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-gentoo-gentoo-7eb152b2.md) |
 | github.com/gerege-systems/open-gerege-nexus | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-gerege-systems-open-gerege-nexus-1104eb72.md) |
 | github.com/getlarge/themoltnet | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-getlarge-themoltnet-ba379664.md) |
+| github.com/ghiac/agentize | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-ghiac-agentize-f2ffc832.md) |
 | github.com/gmb-lib/go-platform-kit | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-gmb-lib-go-platform-kit-b6e72ef9.md) |
 | github.com/gmb-lib/go-web-eid | v0.15.2 | 2026-08-30T11:59:14.501457Z | [open](../records/go-github-com-gmb-lib-go-web-eid-1a06288d.md) |
 | github.com/gnome/evince | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-gnome-evince-55bef26a.md) |
@@ -532,8 +576,10 @@ Records: `996`
 | github.com/go-composites/string | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-go-composites-string-b8ee47b6.md) |
 | github.com/go-git/Go-git | v3.0.1+incompatible | 2026-08-30T11:58:40.273244Z | [open](../records/go-github-com-go-git-go-git-fd2a7746.md) |
 | github.com/go-pdfkit/ops | v0.9.0 | 2026-08-30T12:53:00.249734Z | [open](../records/go-github-com-go-pdfkit-ops-4190329a.md) |
+| github.com/go-swagger/go-swaggeR | v0.36.3 | 2026-08-30T15:32:23.231864Z | [open](../records/go-github-com-go-swagger-go-swagger-8c466b8d.md) |
 | github.com/go-widgets/toolkit | v0.288.0 | 2026-08-30T12:51:09.781998Z | [open](../records/go-github-com-go-widgets-toolkit-30cbeb12.md) |
 | github.com/go-widgets/tray | v0.4.0 | 2026-08-30T14:07:52.893365Z | [open](../records/go-github-com-go-widgets-tray-ee488447.md) |
+| github.com/go-xrkit/desk | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-go-xrkit-desk-9c4e70c6.md) |
 | github.com/gogpu/gogpu | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-gogpu-gogpu-930192d0.md) |
 | github.com/gomlx/goMLX | v0.28.6 | 2026-08-30T10:08:44.583833Z | [open](../records/go-github-com-gomlx-gomlx-97894f14.md) |
 | github.com/google/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-google-gvisor-9bf067a2.md) |
@@ -545,9 +591,11 @@ Records: `996`
 | github.com/Hashicorp/Terraform | v0.7.13 | 2026-08-30T14:08:25.866155Z | [open](../records/go-github-com-hashicorp-terraform-0301b56e.md) |
 | github.com/heathcliff26/containers | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-heathcliff26-containers-b2b0c464.md) |
 | github.com/heso-inc/heso | v0.1.3 | 2026-08-30T14:08:39.4842Z | [open](../records/go-github-com-heso-inc-heso-1b13f1df.md) |
+| github.com/holepunchto/bare-url | v1.0.1 | 2026-08-30T15:30:43.138868Z | [open](../records/go-github-com-holepunchto-bare-url-97d4f140.md) |
 | github.com/home-Assistant/core | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-home-assistant-core-3178128a.md) |
-| github.com/homebrew/homebrew-core | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-homebrew-homebrew-core-4d0d1148.md) |
+| github.com/HomeBREW/homebrew-core | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-homebrew-homebrew-core-4d0d1148.md) |
 | github.com/hongch666/mix-web-demo | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-hongch666-mix-web-demo-6416addc.md) |
+| github.com/huard/xarray | v0.7.0 | 2026-08-30T15:30:38.709034Z | [open](../records/go-github-com-huard-xarray-120ae1b8.md) |
 | github.com/huggingface/kernels | v0.12.1 | 2026-08-30T11:56:35.37666Z | [open](../records/go-github-com-huggingface-kernels-38f97f20.md) |
 | github.com/iabtechlab/uid2-operator | v5.70.277+incompatible | 2026-08-30T12:55:29.057107Z | [open](../records/go-github-com-iabtechlab-uid2-operator-1ed5d74f.md) |
 | github.com/ibm/fp-go/v2 | v2.3.116 | 2026-08-30T10:54:01.07248Z | [open](../records/go-github-com-ibm-fp-go-v2-fd73d754.md) |
@@ -555,7 +603,10 @@ Records: `996`
 | github.com/icholy/gritz | v0.17.0 | 2026-08-30T14:10:23.038693Z | [open](../records/go-github-com-icholy-gritz-1f0c6991.md) |
 | github.com/iNexDanger/API_BDD | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-inexdanger-api-bdd-e5bd627a.md) |
 | github.com/InfraHq/Infra | v0.0.2 | 2026-08-30T11:59:23.684325Z | [open](../records/go-github-com-infrahq-infra-6775a525.md) |
+| github.com/ingot-agent/ingot-abi | v0.1.0 | 2026-08-30T15:29:07.843681Z | [open](../records/go-github-com-ingot-agent-ingot-abi-73cad017.md) |
+| github.com/Inngest/inngestgo | v0.5.1 | 2026-08-30T15:29:50.907706Z | [open](../records/go-github-com-inngest-inngestgo-c976d6ee.md) |
 | github.com/inokawa/virtua | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-inokawa-virtua-c1af8231.md) |
+| github.com/INTEL/mkl-dnn | v3.7.1+incompatible | 2026-08-30T15:30:12.176852Z | [open](../records/go-github-com-intel-mkl-dnn-59b5c2eb.md) |
 | github.com/interop-alliance/http-signature-zcap-verify | v12.0.2+incompatible | 2026-08-30T10:09:26.06579Z | [open](../records/go-github-com-interop-alliance-http-signature-zcap-verify-da342939.md) |
 | github.com/Inverse-baryonnumber71/Destiny2-Ultimate-Trainer-2026-extreme | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-inverse-baryonnumber71-destiny2-ultimate-trainer-2026-extreme-d042cda2.md) |
 | github.com/itchyny/GOJQ | v0.11.1 | 2026-08-30T14:09:14.825147Z | [open](../records/go-github-com-itchyny-gojq-b4a2f145.md) |
@@ -566,14 +617,22 @@ Records: `996`
 | github.com/jborean93/smbprotocol | v1.16.0 | 2026-08-30T14:10:18.868025Z | [open](../records/go-github-com-jborean93-smbprotocol-d568bb1f.md) |
 | github.com/jfrog/jfrog-cli-artifactory | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-jfrog-jfrog-cli-artifactory-406adbdd.md) |
 | github.com/jhalcrow/requests | v0.13.5 | 2026-08-30T10:10:29.446965Z | [open](../records/go-github-com-jhalcrow-requests-1c0ad59b.md) |
+| github.com/jinzcdev/vscode-pintia | v0.7.3 | 2026-08-30T15:29:48.790979Z | [open](../records/go-github-com-jinzcdev-vscode-pintia-35080d43.md) |
+| github.com/jmthomas/cosmos | v4.4.2+incompatible | 2026-08-30T15:30:29.951246Z | [open](../records/go-github-com-jmthomas-cosmos-7274b724.md) |
 | github.com/job-hunter-toolkit/job-hunter-toolkit | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-job-hunter-toolkit-job-hunter-toolkit-fcc8e8ef.md) |
+| github.com/johnnymorganz/StyLua | v0.14.3 | 2026-08-30T15:31:19.5333Z | [open](../records/go-github-com-johnnymorganz-stylua-58e3e0ae.md) |
 | github.com/johnpeacock/requests | v1.0.1 | 2026-08-30T10:09:58.14484Z | [open](../records/go-github-com-johnpeacock-requests-979c583c.md) |
+| github.com/jonasgeiler/gotoolbox/goreleaser/v2 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-jonasgeiler-gotoolbox-goreleaser-v2-c67eb772.md) |
 | github.com/joschahenningsen/tum-live/worker/edge | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-joschahenningsen-tum-live-worker-edge-99477f1b.md) |
 | github.com/jsoftware/jsource | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-jsoftware-jsource-259b8d81.md) |
+| github.com/jsqlparser/jsqlparser | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-jsqlparser-jsqlparser-7a44de38.md) |
 | github.com/juhas/requests | v0.10.6 | 2026-08-30T10:09:57.959316Z | [open](../records/go-github-com-juhas-requests-f6fadbe9.md) |
+| github.com/juliaCollections/OrderedCollections.jl | v1.4.0 | 2026-08-30T15:31:09.448792Z | [open](../records/go-github-com-juliacollections-orderedcollections-jl-c3ab6962.md) |
+| github.com/juliaio/mat.jl | v0.4.0 | 2026-08-30T15:30:54.338199Z | [open](../records/go-github-com-juliaio-mat-jl-ee6b867b.md) |
 | github.com/JuliaLAng/JSON.jl | v0.7.0 | 2026-08-30T11:57:40.371526Z | [open](../records/go-github-com-julialang-json-jl-c6eff0f9.md) |
 | github.com/juliaparallel/dagger.jl | v0.14.4 | 2026-08-30T11:56:35.285612Z | [open](../records/go-github-com-juliaparallel-dagger-jl-8e9098da.md) |
 | github.com/just-every/code | v0.6.150 | 2026-08-30T12:55:01.76007Z | [open](../records/go-github-com-just-every-code-debd163d.md) |
+| github.com/jzbjyb/lm-calibration | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-jzbjyb-lm-calibration-976c170a.md) |
 | github.com/k0sproject/k0s | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-k0sproject-k0s-9a549575.md) |
 | github.com/k1Low/octocov-go-test-bench | v0.3.0 | 2026-08-30T12:53:47.165597Z | [open](../records/go-github-com-k1low-octocov-go-test-bench-7a274b74.md) |
 | github.com/Karlgw/azcfg | v0.22.0 | 2026-08-30T12:55:22.649611Z | [open](../records/go-github-com-karlgw-azcfg-08a9c30f.md) |
@@ -589,7 +648,11 @@ Records: `996`
 | github.com/keyval-dev/odigos/frontend | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-keyval-dev-odigos-frontend-b787b0b4.md) |
 | github.com/kijimad/ruins | v1.227.0 | 2026-08-30T10:08:42.867563Z | [open](../records/go-github-com-kijimad-ruins-cd43f96a.md) |
 | github.com/kingosticks/mopidy | v0.19.4 | 2026-08-30T11:56:39.76139Z | [open](../records/go-github-com-kingosticks-mopidy-060691a8.md) |
+| github.com/kintoandar/pomerium | v0.0.3 | 2026-08-30T15:31:03.583861Z | [open](../records/go-github-com-kintoandar-pomerium-277d3c45.md) |
 | github.com/kiwiism/cosmic_agents | v0.59.0 | 2026-08-30T12:50:45.602243Z | [open](../records/go-github-com-kiwiism-cosmic-agents-0632c41f.md) |
+| github.com/kleister/kleister-api | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-kleister-kleister-api-adc277b0.md) |
+| github.com/kludex/pydantic | v0.0.8 | 2026-08-30T15:30:22.543655Z | [open](../records/go-github-com-kludex-pydantic-3579376a.md) |
+| github.com/kludex/starlette | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-kludex-starlette-2ed12443.md) |
 | github.com/kmulvey/imageconvert/v2 | v2.10.0 | 2026-08-30T10:07:21.319296Z | [open](../records/go-github-com-kmulvey-imageconvert-v2-0882296b.md) |
 | github.com/Kmyk/competitive-programming-library | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-kmyk-competitive-programming-library-f0b3cfab.md) |
 | github.com/KnowageLabs/Knowage-Server | v8.1.14+incompatible | 2026-08-30T10:57:24.698474Z | [open](../records/go-github-com-knowagelabs-knowage-server-9c938839.md) |
@@ -597,15 +660,19 @@ Records: `996`
 | github.com/koikotya/ezbrainfuck | v0.1.0 | 2026-08-30T14:07:44.008096Z | [open](../records/go-github-com-koikotya-ezbrainfuck-ecbdf764.md) |
 | github.com/konflux-ci/konflux-ci | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-konflux-ci-konflux-ci-5ee7642c.md) |
 | github.com/konflux-ci/konflux-ci/operator | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-konflux-ci-konflux-ci-operator-d6e04f05.md) |
+| github.com/konih/kurator | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-konih-kurator-7bca147b.md) |
 | github.com/kozea/pyphen | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-kozea-pyphen-6fdd9937.md) |
 | github.com/kube-hpc/release-manager | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-kube-hpc-release-manager-b6d5b22b.md) |
+| github.com/kubernetes-sigs/headlamp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-kubernetes-sigs-headlamp-8c518a20.md) |
 | github.com/kubernetes/node-problem-detector | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-kubernetes-node-problem-detector-61fe1436.md) |
 | github.com/kubernetes/node-problem-detector/test | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-kubernetes-node-problem-detector-test-e1834e61.md) |
 | github.com/kumparan/cacher | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-kumparan-cacher-403eb036.md) |
+| github.com/kyverno/kyverno/hack/controller-gen | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-kyverno-kyverno-hack-controller-gen-b4da8e44.md) |
 | github.com/kzrnm/sourceexpander | v2.0.0+incompatible | 2026-08-30T14:07:48.084978Z | [open](../records/go-github-com-kzrnm-sourceexpander-11eb37a9.md) |
 | github.com/layertwo-labs/sidesail | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-layertwo-labs-sidesail-e8bca6a9.md) |
 | github.com/layertwo-labs/sidesail/sidechain-orchestrator | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-layertwo-labs-sidesail-sidechain-orchestrator-1d65a392.md) |
 | github.com/Layr-Labs/eigenlayer-Contracts | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-layr-labs-eigenlayer-contracts-d6940a3a.md) |
+| github.com/ldbv-by/bav4 | v4.4.4+incompatible | 2026-08-30T15:31:13.91893Z | [open](../records/go-github-com-ldbv-by-bav4-e1670059.md) |
 | github.com/ldicarlo/legifrss | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-ldicarlo-legifrss-2c2c531f.md) |
 | github.com/ledgerhq/ledger-app-workflows | v1.62.0 | 2026-08-30T12:52:12.551818Z | [open](../records/go-github-com-ledgerhq-ledger-app-workflows-c5829625.md) |
 | github.com/lesismal/NBIO | v1.5.10 | 2026-08-30T12:53:17.552999Z | [open](../records/go-github-com-lesismal-nbio-3b4f3a45.md) |
@@ -618,6 +685,7 @@ Records: `996`
 | github.com/liliang-cn/rdfgo/rdfio | v0.1.0 | 2026-08-30T12:51:01.854932Z | [open](../records/go-github-com-liliang-cn-rdfgo-rdfio-87f41441.md) |
 | github.com/linuxchata/fido2 | v1.0.7 | 2026-08-30T11:57:16.351619Z | [open](../records/go-github-com-linuxchata-fido2-8b6720c7.md) |
 | github.com/linuxcnc/linuxcnc | v2.6.1+incompatible | 2026-08-30T12:52:19.389802Z | [open](../records/go-github-com-linuxcnc-linuxcnc-b7a01337.md) |
+| github.com/LiteLDev/bds | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-liteldev-bds-b8ea4430.md) |
 | github.com/lobstercove/lichen | v0.5.254 | 2026-08-30T14:09:19.579366Z | [open](../records/go-github-com-lobstercove-lichen-adc2bddc.md) |
 | github.com/locker537/requests | v0.13.1 | 2026-08-30T10:09:57.74745Z | [open](../records/go-github-com-locker537-requests-bf1e9083.md) |
 | github.com/lostartefacts/tr1x | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-lostartefacts-tr1x-288a79f3.md) |
@@ -631,30 +699,44 @@ Records: `996`
 | github.com/macronut/phantomsocks | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-macronut-phantomsocks-a4637933.md) |
 | github.com/MadAppGang/infrastructure | v4.4.1+incompatible | 2026-08-30T10:10:19.146647Z | [open](../records/go-github-com-madappgang-infrastructure-f3734eb0.md) |
 | github.com/madhavajay/alex | v0.1.15 | 2026-08-30T14:09:02.552036Z | [open](../records/go-github-com-madhavajay-alex-67d11a5c.md) |
+| github.com/madpsy/ka9q_ubersdr | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-madpsy-ka9q-ubersdr-4c14c0c3.md) |
 | github.com/MagicStack/AsyncPG | v0.8.1 | 2026-08-30T11:58:50.648629Z | [open](../records/go-github-com-magicstack-asyncpg-25341917.md) |
+| github.com/MahdiBaghbani/opencloudmesh-go | v1.3.0 | 2026-08-30T15:32:14.749313Z | [open](../records/go-github-com-mahdibaghbani-opencloudmesh-go-b2d89155.md) |
 | github.com/majikah/majik-file | v0.1.7 | 2026-08-30T10:09:29.501328Z | [open](../records/go-github-com-majikah-majik-file-97f7642e.md) |
+| github.com/mallardduck/dirio/api | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-mallardduck-dirio-api-0da1705e.md) |
 | github.com/mar1eena/trb_proto | v1.0.42 | 2026-08-30T14:07:42.935853Z | [open](../records/go-github-com-mar1eena-trb-proto-84d4be97.md) |
 | github.com/margince/margince/backend | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-margince-margince-backend-8ff2af1a.md) |
 | github.com/margince/margince/composition | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-margince-margince-composition-15ad8d4a.md) |
+| github.com/martijnversluis/chordsheetjs | v2.7.1+incompatible | 2026-08-30T15:31:47.967429Z | [open](../records/go-github-com-martijnversluis-chordsheetjs-613f87a8.md) |
+| github.com/MAstodonC/kixi.stats | v0.4.2 | 2026-08-30T15:31:10.935349Z | [open](../records/go-github-com-mastodonc-kixi-stats-d7d48aaa.md) |
+| github.com/MatrixOrigin/memberlist | v0.2.0 | 2026-08-30T15:31:43.862004Z | [open](../records/go-github-com-matrixorigin-memberlist-6868482b.md) |
 | github.com/matthewlmcclure/requests | v0.13.6 | 2026-08-30T10:10:42.972173Z | [open](../records/go-github-com-matthewlmcclure-requests-25bc3375.md) |
 | github.com/mautrix/instagram | v0.1.3 | 2026-08-30T10:55:49.838152Z | [open](../records/go-github-com-mautrix-instagram-2fb88277.md) |
+| github.com/max-sixty/xarray | v0.16.2 | 2026-08-30T15:31:31.615957Z | [open](../records/go-github-com-max-sixty-xarray-25e1468f.md) |
 | github.com/maxogden/electron-packager | v11.2.0+incompatible | 2026-08-30T12:53:13.785963Z | [open](../records/go-github-com-maxogden-electron-packager-c83ccfa1.md) |
+| github.com/mayahiro/go-tidb | v0.2.0 | 2026-08-30T15:30:58.323198Z | [open](../records/go-github-com-mayahiro-go-tidb-0134b18f.md) |
+| github.com/mcgill-nlp/instruct-qa | v0.0.2 | 2026-08-30T15:30:29.108996Z | [open](../records/go-github-com-mcgill-nlp-instruct-qa-899b5416.md) |
 | github.com/Mellanox/sriov-network-device-plugin | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-mellanox-sriov-network-device-plugin-6474f463.md) |
 | github.com/memormaneo/whyopen | v0.5.0 | 2026-08-30T14:10:08.222843Z | [open](../records/go-github-com-memormaneo-whyopen-22fa68bc.md) |
 | github.com/miabi-io/miabi | v1.9.2 | 2026-08-30T10:07:52.841152Z | [open](../records/go-github-com-miabi-io-miabi-cb3b03b7.md) |
 | github.com/micahrj/clap-sys | v0.3.0 | 2026-08-30T12:53:48.153304Z | [open](../records/go-github-com-micahrj-clap-sys-86e4c0ae.md) |
+| github.com/michaelhatherly/CommonMark.jl | v0.7.0 | 2026-08-30T15:30:53.726651Z | [open](../records/go-github-com-michaelhatherly-commonmark-jl-2bffed56.md) |
 | github.com/MichelKazi/nancy | v0.0.19 | 2026-08-30T11:58:40.088347Z | [open](../records/go-github-com-michelkazi-nancy-f43491db.md) |
 | github.com/mickochow/channel | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-mickochow-channel-3d15d806.md) |
 | github.com/microsoft/DiskANN | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-microsoft-diskann-a796a004.md) |
 | github.com/microsoft/kiota-authentication-Azure-go | v0.4.1 | 2026-08-30T11:58:50.740263Z | [open](../records/go-github-com-microsoft-kiota-authentication-azure-go-c2226a6d.md) |
 | github.com/midagedev/wails/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-midagedev-wails-v3-0b17dc96.md) |
+| github.com/milvus-io/milvus | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-milvus-io-milvus-723fbcf9.md) |
 | github.com/minio/minio-go/v7 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-minio-minio-go-v7-e65d1e44.md) |
 | github.com/misskey-dev/misskey | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-misskey-dev-misskey-f90b0abd.md) |
+| github.com/mitodl/ocw-studio | v0.94.1 | 2026-08-30T15:31:11.319322Z | [open](../records/go-github-com-mitodl-ocw-studio-6a059a97.md) |
 | github.com/mitsuhiko/requests | v0.10.1 | 2026-08-30T10:10:29.265042Z | [open](../records/go-github-com-mitsuhiko-requests-3de280b0.md) |
 | github.com/mkrizek/ansible | v1.7.0 | 2026-08-30T12:53:35.968763Z | [open](../records/go-github-com-mkrizek-ansible-3e33b913.md) |
+| github.com/mkusaka/trending | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-mkusaka-trending-fef7bf67.md) |
 | github.com/mondoohq/cnquery | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-mondoohq-cnquery-31bd3ed8.md) |
 | github.com/mondoohq/cnquery/providers/aws | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-mondoohq-cnquery-providers-aws-6d3ed034.md) |
 | github.com/monijaman/go-microservices | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-monijaman-go-microservices-09452be3.md) |
+| github.com/monologg/kobigbird | v1.0.0 | 2026-08-30T15:30:25.166538Z | [open](../records/go-github-com-monologg-kobigbird-d3fcc68c.md) |
 | github.com/Mtougeron/k8s-pvc-tagger | v1.0.4 | 2026-08-30T11:58:10.545497Z | [open](../records/go-github-com-mtougeron-k8s-pvc-tagger-720190c8.md) |
 | github.com/mudler/localai | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-mudler-localai-d1144ad7.md) |
 | github.com/naipia/procon-tools | v0.5.0 | 2026-08-30T14:07:02.802228Z | [open](../records/go-github-com-naipia-procon-tools-4746fcf9.md) |
@@ -663,6 +745,7 @@ Records: `996`
 | github.com/netlify/netlify-plugin-nextjs | v1.0.6 | 2026-08-30T12:53:35.061347Z | [open](../records/go-github-com-netlify-netlify-plugin-nextjs-ff0c5752.md) |
 | github.com/ng-select/ng-select | v24.0.4+incompatible | 2026-08-30T10:56:36.124726Z | [open](../records/go-github-com-ng-select-ng-select-f8e605c9.md) |
 | github.com/ngng628/atcoder-submit-status | v0.0.3 | 2026-08-30T14:06:55.074432Z | [open](../records/go-github-com-ngng628-atcoder-submit-status-2d86c7a9.md) |
+| github.com/nicknisi/fleet | v0.18.1 | 2026-08-30T15:30:59.90976Z | [open](../records/go-github-com-nicknisi-fleet-b23a663c.md) |
 | github.com/Nikita-Filonov/axiom/plugins/testexplain | v0.5.0 | 2026-08-30T11:57:34.595504Z | [open](../records/go-github-com-nikita-filonov-axiom-plugins-testexplain-a39468f9.md) |
 | github.com/nix-community/NUR | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-nix-community-nur-9a037fcd.md) |
 | github.com/nodebb/nodebb-plugin-write-api | v5.8.5+incompatible | 2026-08-30T14:10:20.526912Z | [open](../records/go-github-com-nodebb-nodebb-plugin-write-api-7794dbd8.md) |
@@ -671,6 +754,7 @@ Records: `996`
 | github.com/novuhq/Novu | v0.11.0 | 2026-08-30T10:56:56.780012Z | [open](../records/go-github-com-novuhq-novu-329c199e.md) |
 | github.com/npiesco/wasmi | v0.26.1 | 2026-08-30T11:59:12.377732Z | [open](../records/go-github-com-npiesco-wasmi-82fa8f7d.md) |
 | github.com/nucleusframework/nucleus | v1.3.5 | 2026-08-30T14:09:17.970067Z | [open](../records/go-github-com-nucleusframework-nucleus-d48c10ec.md) |
+| github.com/nugine/s3s | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-nugine-s3s-4ec87890.md) |
 | github.com/Null-nil/cosmos-sdk/store | v1.1.0 | 2026-08-30T14:10:27.085033Z | [open](../records/go-github-com-null-nil-cosmos-sdk-store-9c8f42c8.md) |
 | github.com/Null-nil/cosmos-sdk/x/upgrade | v0.1.1 | 2026-08-30T10:55:29.031118Z | [open](../records/go-github-com-null-nil-cosmos-sdk-x-upgrade-88d72bf0.md) |
 | github.com/NVIDIA/doca-platform | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-nvidia-doca-platform-c186a84f.md) |
@@ -679,13 +763,19 @@ Records: `996`
 | github.com/oakhan3/date-fns | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-oakhan3-date-fns-529da285.md) |
 | github.com/oauth2-proxy/Oauth2-proxy/v7 | v7.7.1 | 2026-08-30T11:56:36.212448Z | [open](../records/go-github-com-oauth2-proxy-oauth2-proxy-v7-8253856d.md) |
 | github.com/OCA/OpenUpgrade | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-oca-openupgrade-58a7aa58.md) |
+| github.com/ocelot-social-community/ocelot-social | v0.1.9 | 2026-08-30T15:31:31.477771Z | [open](../records/go-github-com-ocelot-social-community-ocelot-social-584c2bd9.md) |
 | github.com/octokit/request | v5.3.1+incompatible | 2026-08-30T11:58:55.58808Z | [open](../records/go-github-com-octokit-request-399e34c6.md) |
+| github.com/olicesx/outbound | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-olicesx-outbound-d7721aff.md) |
+| github.com/olicesx/quic-go | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-olicesx-quic-go-3a98699c.md) |
 | github.com/omaha-consulting/omaha-server | v0.0.17 | 2026-08-30T11:57:48.976574Z | [open](../records/go-github-com-omaha-consulting-omaha-server-b30c69c6.md) |
 | github.com/omnituum/pqc-shared | v0.2.2 | 2026-08-30T10:09:31.022269Z | [open](../records/go-github-com-omnituum-pqc-shared-623e0873.md) |
 | github.com/onedr0p/home-ops | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-onedr0p-home-ops-069562de.md) |
 | github.com/Onflow/cadence | v0.12.7 | 2026-08-30T10:07:18.063306Z | [open](../records/go-github-com-onflow-cadence-f44f4c52.md) |
+| github.com/Onsdigital/dp-kafka/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-onsdigital-dp-kafka-v3-f80d2a8a.md) |
+| github.com/open-telemetry/opentelemetry-collector-contrib/receiver/kubeletstatsreceiver | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-open-telemetry-opentelemetry-collector-contrib-receiver-kubeletstatsreceiver-6aa4e49f.md) |
 | github.com/open-telemetry/opentelemetry-go/exporters/zipkin | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-open-telemetry-opentelemetry-go-exporters-zipkin-9eb5c859.md) |
 | github.com/openagi2/cordcode-macbridge | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-openagi2-cordcode-macbridge-5ffc6c28.md) |
+| github.com/opencats/OpenCATS | v0.11.0 | 2026-08-30T15:30:48.460054Z | [open](../records/go-github-com-opencats-opencats-d3dcea60.md) |
 | github.com/opencharly/sdk | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-opencharly-sdk-8595a67b.md) |
 | github.com/opencharly/spec | v0.2026242.1042 | 2026-08-30T10:54:05.701249Z | [open](../records/go-github-com-opencharly-spec-bd6243ce.md) |
 | github.com/openclaw/openclaw | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-openclaw-openclaw-409e7b49.md) |
@@ -693,12 +783,14 @@ Records: `996`
 | github.com/openova-io/openova/core/controllers | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-openova-io-openova-core-controllers-88543adb.md) |
 | github.com/openova-io/openova/core/services/gateway | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-openova-io-openova-core-services-gateway-04f6f099.md) |
 | github.com/openova-io/openova/core/services/shared | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-openova-io-openova-core-services-shared-abb1a235.md) |
+| github.com/OPENROuterTeam/go-sdk | v0.7.97 | 2026-08-30T15:32:15.291395Z | [open](../records/go-github-com-openrouterteam-go-sdk-714f87cf.md) |
 | github.com/openstack/openstack | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-openstack-openstack-c6069627.md) |
 | github.com/OPENSUSE/umoci | v0.3.0 | 2026-08-30T14:08:37.002263Z | [open](../records/go-github-com-opensuse-umoci-97f4daa3.md) |
 | github.com/openzeppelin/openzeppelin-contracts-ethereum-package | v4.9.2+incompatible | 2026-08-30T12:55:28.077218Z | [open](../records/go-github-com-openzeppelin-openzeppelin-contracts-ethereum-package-1b4720df.md) |
 | github.com/operator-framework/Operator-SDK | v0.3.0 | 2026-08-30T14:06:56.117733Z | [open](../records/go-github-com-operator-framework-operator-sdk-8aec339e.md) |
 | github.com/oplik0/nodebb | v1.9.0 | 2026-08-30T14:06:29.429975Z | [open](../records/go-github-com-oplik0-nodebb-8188a0ed.md) |
 | github.com/opulentfox-29/protonmail-api-client | v2.1.0+incompatible | 2026-08-30T10:10:03.015995Z | [open](../records/go-github-com-opulentfox-29-protonmail-api-client-cbac5d5b.md) |
+| github.com/opuu/termwind | v1.2.0 | 2026-08-30T15:30:37.494334Z | [open](../records/go-github-com-opuu-termwind-2f03c288.md) |
 | github.com/oscharko-dev/keiko | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-oscharko-dev-keiko-119c6c72.md) |
 | github.com/Ostorlab/oxo | v2.9.27+incompatible | 2026-08-30T12:51:57.167062Z | [open](../records/go-github-com-ostorlab-oxo-dbc289ce.md) |
 | github.com/oudwins/zog | v0.23.0 | 2026-08-30T14:07:38.730509Z | [open](../records/go-github-com-oudwins-zog-9b862e33.md) |
@@ -706,30 +798,37 @@ Records: `996`
 | github.com/Pactus-project/pactus | v1.6.0 | 2026-08-30T12:51:06.88174Z | [open](../records/go-github-com-pactus-project-pactus-7eb38b11.md) |
 | github.com/pagopa/io-wallet-sdk | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-pagopa-io-wallet-sdk-b56518a7.md) |
 | github.com/partiql/partiql-lang-kotlin | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-partiql-partiql-lang-kotlin-6fb586e1.md) |
+| github.com/patched-codes/patchwork | v0.0.103 | 2026-08-30T15:30:37.573384Z | [open](../records/go-github-com-patched-codes-patchwork-b346c1cf.md) |
 | github.com/petarov/petarov | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-petarov-petarov-3df832d9.md) |
 | github.com/pflow-xyz/pflow-rs | v0.2.2 | 2026-08-30T11:59:23.642663Z | [open](../records/go-github-com-pflow-xyz-pflow-rs-18e0c060.md) |
 | github.com/photostructure/exiftool-vendored.js | v28.5.0+incompatible | 2026-08-30T10:10:35.990354Z | [open](../records/go-github-com-photostructure-exiftool-vendored-js-9dca0ac0.md) |
 | github.com/photostructure/photostructure-for-servers | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-photostructure-photostructure-for-servers-af0063d6.md) |
 | github.com/pichalite/nodebb | v0.6.0 | 2026-08-30T11:58:38.404721Z | [open](../records/go-github-com-pichalite-nodebb-aa6ae578.md) |
+| github.com/piever/structarrays.jl | v0.4.0 | 2026-08-30T15:30:24.514769Z | [open](../records/go-github-com-piever-structarrays-jl-95714dbf.md) |
 | github.com/pion/webrtc/v4 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-pion-webrtc-v4-9a3f5e49.md) |
 | github.com/pittcsc/summer2022-internships | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-pittcsc-summer2022-internships-188b5a2b.md) |
 | github.com/pittcsc/summer2023-internships | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-pittcsc-summer2023-internships-24766028.md) |
 | github.com/pivovarit/tdocker | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-pivovarit-tdocker-4768844d.md) |
+| github.com/ponylang/ponyc | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-ponylang-ponyc-6c2db873.md) |
 | github.com/ppdragon16/outbound | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-ppdragon16-outbound-e5e2e197.md) |
 | github.com/prismorsec/immunity-agent | v1.29.0 | 2026-08-30T14:10:24.953256Z | [open](../records/go-github-com-prismorsec-immunity-agent-8d4a75a9.md) |
 | github.com/prismorsec/prismor | v1.29.0 | 2026-08-30T14:10:23.231325Z | [open](../records/go-github-com-prismorsec-prismor-08eda0c7.md) |
 | github.com/pritunl/pritunl-client/service | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-pritunl-pritunl-client-service-cbb04635.md) |
 | github.com/project-planton/project-planton | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-project-planton-project-planton-a5e4f791.md) |
 | github.com/prometheus/STATSD_EXPORTER | v0.15.0 | 2026-08-30T11:58:08.023024Z | [open](../records/go-github-com-prometheus-statsd-exporter-39380fb7.md) |
+| github.com/promptfoo/promptfoo | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-promptfoo-promptfoo-fba16a26.md) |
 | github.com/promptslab/awesome-prompt-engineering | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-promptslab-awesome-prompt-engineering-8645f6ff.md) |
 | github.com/protonmail/design-system | v1.6.5 | 2026-08-30T12:54:27.998753Z | [open](../records/go-github-com-protonmail-design-system-a4d77ba8.md) |
 | github.com/protonmail/proton-pack | v1.7.9 | 2026-08-30T10:08:26.602211Z | [open](../records/go-github-com-protonmail-proton-pack-d4fb585e.md) |
 | github.com/provasign/grove | v0.40.0 | 2026-08-30T11:58:54.717559Z | [open](../records/go-github-com-provasign-grove-80f138a5.md) |
-| github.com/proxyscrape/free-proxy-list | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-proxyscrape-free-proxy-list-7bb5ef8c.md) |
+| github.com/ProxyScrape/free-proxy-list | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-proxyscrape-free-proxy-list-7bb5ef8c.md) |
+| github.com/proxyscraper/proxyscraper | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-proxyscraper-proxyscraper-4f472039.md) |
 | github.com/PudottaPommin/golib | v0.1.3 | 2026-08-30T10:57:14.966547Z | [open](../records/go-github-com-pudottapommin-golib-85f5186f.md) |
 | github.com/pUerkitoBio/goquery | v1.4.0 | 2026-08-30T12:50:41.984099Z | [open](../records/go-github-com-puerkitobio-goquery-b1084de1.md) |
 | github.com/pulseaiclub/yaegi | v0.16.3 | 2026-08-30T10:07:33.358648Z | [open](../records/go-github-com-pulseaiclub-yaegi-5b6345e1.md) |
 | github.com/Pulumi/pulumi-aws | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-pulumi-pulumi-aws-971f1ccd.md) |
+| github.com/pulumi/pulumi-azure/examples/v5 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-pulumi-pulumi-azure-examples-v5-d4f72ce1.md) |
+| github.com/pulumi/pulumi-mysql | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-pulumi-pulumi-mysql-a8ad19ab.md) |
 | github.com/pulumi/pulumi/tests/integration/construct_component_unknown/go | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-pulumi-pulumi-tests-integration-construct-component-unknown-go-1fdad2d4.md) |
 | github.com/PySport/kloppy | v3.0.0+incompatible | 2026-08-30T10:10:55.621824Z | [open](../records/go-github-com-pysport-kloppy-f09bd8a7.md) |
 | github.com/qigao/ogrenet/iocp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-qigao-ogrenet-iocp-02f42249.md) |
@@ -745,6 +844,9 @@ Records: `996`
 | github.com/rarimo/passport-zk-circuits | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-rarimo-passport-zk-circuits-74856b17.md) |
 | github.com/RaZrFalcon/resvg | v0.38.0 | 2026-08-30T10:07:18.182561Z | [open](../records/go-github-com-razrfalcon-resvg-45f966a1.md) |
 | github.com/reearth/reearth-visualizer | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-reearth-reearth-visualizer-efc6d7d3.md) |
+| github.com/rememorio/trpc-agent-go/memory/sqlitevec | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-rememorio-trpc-agent-go-memory-sqlitevec-fd9d6f2e.md) |
+| github.com/rhys-vdw/ts-auto-guard | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-rhys-vdw-ts-auto-guard-8a79360d.md) |
+| github.com/rizriyz/luvus | v0.7.2 | 2026-08-30T15:31:38.970528Z | [open](../records/go-github-com-rizriyz-luvus-b4248678.md) |
 | github.com/roc-lang/roc | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-roc-lang-roc-5324cdde.md) |
 | github.com/role-play-dev/grpc-contracts | v0.4.0 | 2026-08-30T12:51:21.542741Z | [open](../records/go-github-com-role-play-dev-grpc-contracts-7fe52f25.md) |
 | github.com/rook/Rook | v1.17.8 | 2026-08-30T10:08:05.687937Z | [open](../records/go-github-com-rook-rook-35949431.md) |
@@ -753,6 +855,7 @@ Records: `996`
 | github.com/russelldash332/autokattis | v1.4.10 | 2026-08-30T12:52:11.534514Z | [open](../records/go-github-com-russelldash332-autokattis-9d7c5345.md) |
 | github.com/rust-embedded/awesome-embedded-rust | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-rust-embedded-awesome-embedded-rust-f0a67ec6.md) |
 | github.com/ryoga-exe/ac-library-zig | v0.5.1 | 2026-08-30T14:07:42.978642Z | [open](../records/go-github-com-ryoga-exe-ac-library-zig-c4590ddd.md) |
+| github.com/S-VIPER/backend | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-s-viper-backend-0a1aeb02.md) |
 | github.com/safe-global/safe-wallet-monorepo | v1.52.0 | 2026-08-30T14:07:45.147111Z | [open](../records/go-github-com-safe-global-safe-wallet-monorepo-972a746e.md) |
 | github.com/saidmashhud/mashgate-public/sdk/go | v1.20.0 | 2026-08-30T12:52:34.083482Z | [open](../records/go-github-com-saidmashhud-mashgate-public-sdk-go-e5f4f11c.md) |
 | github.com/samestrin/atcr | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-samestrin-atcr-ef964cff.md) |
@@ -764,13 +867,17 @@ Records: `996`
 | github.com/scarletborder/go-TouhouRecognition | v1.1.0 | 2026-08-30T10:57:09.105845Z | [open](../records/go-github-com-scarletborder-go-touhourecognition-63709623.md) |
 | github.com/scbizu/tape-go | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-scbizu-tape-go-91d641a9.md) |
 | github.com/SchemaStore/schemastore | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-schemastore-schemastore-8ac960bd.md) |
+| github.com/schretzi/gittree | v0.2.0 | 2026-08-30T15:30:54.140049Z | [open](../records/go-github-com-schretzi-gittree-5cc8bf01.md) |
 | github.com/scriptonbasestar/dva | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-scriptonbasestar-dva-5259e7a4.md) |
 | github.com/semaphoreui/semaphore | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-semaphoreui-semaphore-4c5cd6aa.md) |
 | github.com/sevenworksdev/proxy-list | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-sevenworksdev-proxy-list-74d41cf8.md) |
 | github.com/shannah/jdeploy | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-shannah-jdeploy-6d09a688.md) |
+| github.com/shapeshift/web | v1.1039.0 | 2026-08-30T15:29:11.237542Z | [open](../records/go-github-com-shapeshift-web-42496222.md) |
 | github.com/shengxiang-lin/shengxiang-lin | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-shengxiang-lin-shengxiang-lin-da353521.md) |
 | github.com/shiguredo/sora-cpp-sdk | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-shiguredo-sora-cpp-sdk-01337a72.md) |
 | github.com/shrews/ansible | v2.8.10+incompatible | 2026-08-30T12:52:29.126043Z | [open](../records/go-github-com-shrews-ansible-bad769f0.md) |
+| github.com/siemens/debsbom | v0.3.1 | 2026-08-30T15:29:51.78344Z | [open](../records/go-github-com-siemens-debsbom-cfc38ec8.md) |
+| github.com/simoncropp/nodatime.bogus | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-simoncropp-nodatime-bogus-e781b3c2.md) |
 | github.com/simonfxr/landcage | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-simonfxr-landcage-a2e95543.md) |
 | github.com/simplifyjobs/new-grad-positions | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-simplifyjobs-new-grad-positions-08fccaa3.md) |
 | github.com/simplifyjobs/summer2024-internships | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-simplifyjobs-summer2024-internships-1fa36ea9.md) |
@@ -778,6 +885,8 @@ Records: `996`
 | github.com/skypilot-org/skypilot/addons/fuse-proxy | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-skypilot-org-skypilot-addons-fuse-proxy-84daaef7.md) |
 | github.com/Slack-Go/slack | v0.7.0 | 2026-08-30T12:54:45.520046Z | [open](../records/go-github-com-slack-go-slack-f834e957.md) |
 | github.com/slonopotamus/stevedore | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-slonopotamus-stevedore-41fe77f5.md) |
+| github.com/snowboard-software/duckdb-go/v2 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-snowboard-software-duckdb-go-v2-41b4f580.md) |
+| github.com/soham109/cpos | v0.1.1 | 2026-08-30T15:31:36.896669Z | [open](../records/go-github-com-soham109-cpos-a1790393.md) |
 | github.com/solosw/sol-code | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-solosw-sol-code-9e1a4c7e.md) |
 | github.com/Sonarr/Sonarr | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-sonarr-sonarr-0ef31170.md) |
 | github.com/sonarsource/jstorage | v0.4.4 | 2026-08-30T10:10:59.917223Z | [open](../records/go-github-com-sonarsource-jstorage-be11f347.md) |
@@ -793,12 +902,15 @@ Records: `996`
 | github.com/stephenqiu30/hotkey-server | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-stephenqiu30-hotkey-server-bdaf5f8c.md) |
 | github.com/stocnet/rsiena | v1.4.18 | 2026-08-30T14:06:55.899124Z | [open](../records/go-github-com-stocnet-rsiena-00a3fd08.md) |
 | github.com/suhaibinator/srouter | v1.6.2 | 2026-08-30T14:07:46.588619Z | [open](../records/go-github-com-suhaibinator-srouter-47060573.md) |
+| github.com/sweetrpg/game-room-objects.go | v0.2.2 | 2026-08-30T15:30:32.995448Z | [open](../records/go-github-com-sweetrpg-game-room-objects-go-e476ea72.md) |
 | github.com/swimmingkiim/a2a-project | v2.3.0+incompatible | 2026-08-30T10:55:53.014653Z | [open](../records/go-github-com-swimmingkiim-a2a-project-3d2bb86a.md) |
+| github.com/symfony/oh-my-smtp-mailer | v5.4.21+incompatible | 2026-08-30T15:30:40.318482Z | [open](../records/go-github-com-symfony-oh-my-smtp-mailer-50c1a6a3.md) |
 | github.com/tabnas/csv | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-tabnas-csv-3400ada3.md) |
 | github.com/tabnas/ini | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-tabnas-ini-2e433af9.md) |
 | github.com/tabnas/jsonc | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-tabnas-jsonc-bf1133f2.md) |
 | github.com/tabnas/toml | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-tabnas-toml-1bffe4ac.md) |
 | github.com/tabnas/yaml | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-tabnas-yaml-b411f7b1.md) |
+| github.com/tailcallhq/forgecode | v0.91.0 | 2026-08-30T15:31:00.596659Z | [open](../records/go-github-com-tailcallhq-forgecode-28cb8f02.md) |
 | github.com/takachiha/acc | v1.0.0 | 2026-08-30T14:07:39.344876Z | [open](../records/go-github-com-takachiha-acc-9a5b00fc.md) |
 | github.com/talkincode/sshx | v0.12.0 | 2026-08-30T10:08:08.282848Z | [open](../records/go-github-com-talkincode-sshx-06a5c47e.md) |
 | github.com/Tangerg/lynx | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-tangerg-lynx-a8ff1456.md) |
@@ -808,13 +920,17 @@ Records: `996`
 | github.com/tatyam-prime/acl-cpp-python | v0.6.1 | 2026-08-30T14:07:34.60762Z | [open](../records/go-github-com-tatyam-prime-acl-cpp-python-be60e4c3.md) |
 | github.com/TavoAI/tavo-go-sdk | v0.4.2 | 2026-08-30T10:55:25.974521Z | [open](../records/go-github-com-tavoai-tavo-go-sdk-a424b144.md) |
 | github.com/TavoAI/tavo-sdk | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-tavoai-tavo-sdk-4ccce3d5.md) |
+| github.com/TeaOSLab/EdgeApi | v0.4.2 | 2026-08-30T15:29:01.899691Z | [open](../records/go-github-com-teaoslab-edgeapi-b1d4b5ad.md) |
 | github.com/techfort/Lokijs | v1.3.7 | 2026-08-30T14:08:55.008381Z | [open](../records/go-github-com-techfort-lokijs-22a62fb3.md) |
 | github.com/tektoncd/DASHBOARD | v0.39.0 | 2026-08-30T12:53:19.173829Z | [open](../records/go-github-com-tektoncd-dashboard-a712508d.md) |
+| github.com/temujincalidius/fedihome | v1.20.0 | 2026-08-30T15:31:29.66639Z | [open](../records/go-github-com-temujincalidius-fedihome-cf109eb1.md) |
 | github.com/TencentBlueKing/bk-bcs/bcs-scenarios/kourse | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-tencentblueking-bk-bcs-bcs-scenarios-kourse-c3a4774b.md) |
 | github.com/terry-u16/pahcer | v0.3.1 | 2026-08-30T14:07:37.368556Z | [open](../records/go-github-com-terry-u16-pahcer-e0370335.md) |
 | github.com/teselagen/graphql-sequelize | v0.10.0 | 2026-08-30T11:57:41.182506Z | [open](../records/go-github-com-teselagen-graphql-sequelize-4d159eec.md) |
 | github.com/testlogo/PRJ-myearphone | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-testlogo-prj-myearphone-ab87579c.md) |
 | github.com/tgravescs/spark | v0.5.1 | 2026-08-30T11:59:11.099162Z | [open](../records/go-github-com-tgravescs-spark-8d66b4b8.md) |
+| github.com/tigusigalpa/manus-ai-go/v2 | v2.2.1 | 2026-08-30T15:29:39.002696Z | [open](../records/go-github-com-tigusigalpa-manus-ai-go-v2-13d92d72.md) |
+| github.com/timmyagentic/awesome-agent-app-features | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-timmyagentic-awesome-agent-app-features-c3cfbb56.md) |
 | github.com/timstclair/kubernetes | v0.5.5 | 2026-08-30T10:09:03.51126Z | [open](../records/go-github-com-timstclair-kubernetes-3eb041cf.md) |
 | github.com/tinfoilsh/tinfoil-js | v0.11.0 | 2026-08-30T10:09:58.133063Z | [open](../records/go-github-com-tinfoilsh-tinfoil-js-5f75043e.md) |
 | github.com/tmoertel/requests | v0.8.6 | 2026-08-30T10:10:30.128476Z | [open](../records/go-github-com-tmoertel-requests-b785815c.md) |
@@ -824,14 +940,21 @@ Records: `996`
 | github.com/totalwindupflightsystems/consensus | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-totalwindupflightsystems-consensus-98a2359b.md) |
 | github.com/toyobayashi/wz | v0.0.10 | 2026-08-30T12:51:48.384041Z | [open](../records/go-github-com-toyobayashi-wz-e9998f79.md) |
 | github.com/trailofbits/pypi-attestation-models | v0.0.3 | 2026-08-30T10:55:13.020347Z | [open](../records/go-github-com-trailofbits-pypi-attestation-models-41ae9b0f.md) |
+| github.com/trashpony/veliri-lib | v0.0.390 | 2026-08-30T15:31:33.706169Z | [open](../records/go-github-com-trashpony-veliri-lib-0abe0462.md) |
 | github.com/treemap/treemap | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-treemap-treemap-8293f9fe.md) |
+| github.com/tschaub/ol-mapbox-style | v4.2.1+incompatible | 2026-08-30T15:32:21.419995Z | [open](../records/go-github-com-tschaub-ol-mapbox-style-d200bdcc.md) |
+| github.com/tsolomko/swcompression | v2.4.2+incompatible | 2026-08-30T15:30:39.525132Z | [open](../records/go-github-com-tsolomko-swcompression-ff99471b.md) |
 | github.com/tui-tools/tui-kit | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-tui-tools-tui-kit-ec72d89b.md) |
 | github.com/Tutitoos/atenea | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-tutitoos-atenea-26b04a55.md) |
+| github.com/tyy47/clibox | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-tyy47-clibox-f748f7d1.md) |
+| github.com/uBlockOrigin/uAssets | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-ublockorigin-uassets-d1c7654a.md) |
 | github.com/ubugeeei-prod/ox-content | v2.77.0+incompatible | 2026-08-30T14:06:59.309924Z | [open](../records/go-github-com-ubugeeei-prod-ox-content-f13a1a36.md) |
 | github.com/ukama/ukama/systems/report/generator | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-ukama-ukama-systems-report-generator-e70390cb.md) |
 | github.com/unclechu/node-deep-extend | v0.2.10 | 2026-08-30T10:10:59.520744Z | [open](../records/go-github-com-unclechu-node-deep-extend-989b7cc2.md) |
+| github.com/unicorddev/unisky | v0.0.5 | 2026-08-30T15:31:28.668105Z | [open](../records/go-github-com-unicorddev-unisky-837e5b26.md) |
 | github.com/unitaryfoundation/mitiq | v0.29.0 | 2026-08-30T12:51:10.396775Z | [open](../records/go-github-com-unitaryfoundation-mitiq-f7fa52dd.md) |
 | github.com/unownhash/rotomng | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-unownhash-rotomng-7f05ec9c.md) |
+| github.com/uptane/ota-tuf | v3.2.2+incompatible | 2026-08-30T15:29:54.577293Z | [open](../records/go-github-com-uptane-ota-tuf-df7cac21.md) |
 | github.com/uptrace/Bun/dialect/mssqldialect | v1.1.1 | 2026-08-30T14:08:21.284691Z | [open](../records/go-github-com-uptrace-bun-dialect-mssqldialect-6fd6abb4.md) |
 | github.com/uptrace/Bun/dialect/mysqldialect | v1.1.1 | 2026-08-30T14:08:19.72519Z | [open](../records/go-github-com-uptrace-bun-dialect-mysqldialect-1898a0d0.md) |
 | github.com/uptrace/Bun/driver/sqliteshim | v1.1.1 | 2026-08-30T14:08:39.48044Z | [open](../records/go-github-com-uptrace-bun-driver-sqliteshim-c3936444.md) |
@@ -843,16 +966,19 @@ Records: `996`
 | github.com/vale-cli/vale-ls | v0.3.5 | 2026-08-30T10:57:14.274618Z | [open](../records/go-github-com-vale-cli-vale-ls-bfd27752.md) |
 | github.com/vasugupta1/rssfeed | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-vasugupta1-rssfeed-43bf3913.md) |
 | github.com/veeupup/databend | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-veeupup-databend-b9bad626.md) |
+| github.com/vernissageapp/vernissageserver | v1.31.0 | 2026-08-30T15:31:34.237739Z | [open](../records/go-github-com-vernissageapp-vernissageserver-beaa0f95.md) |
 | github.com/verskopjet/hoard_mode_content | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-verskopjet-hoard-mode-content-e9204a3d.md) |
 | github.com/vestauth/vestauth | v0.1.34 | 2026-08-30T11:58:50.880263Z | [open](../records/go-github-com-vestauth-vestauth-0324be33.md) |
 | github.com/vibrantgio/backdrop | v0.0.4 | 2026-08-30T12:54:37.768768Z | [open](../records/go-github-com-vibrantgio-backdrop-05929dc5.md) |
 | github.com/vibrantgio/components | v1.2.1 | 2026-08-30T12:55:22.261188Z | [open](../records/go-github-com-vibrantgio-components-20a8c934.md) |
 | github.com/vibrantgio/font | v0.4.2 | 2026-08-30T12:55:07.194291Z | [open](../records/go-github-com-vibrantgio-font-4dadf900.md) |
 | github.com/vibrantgio/ivg | v0.1.8 | 2026-08-30T12:55:21.255273Z | [open](../records/go-github-com-vibrantgio-ivg-02f646d1.md) |
+| github.com/vibrantgio/prism | v1.2.5 | 2026-08-30T15:32:12.067313Z | [open](../records/go-github-com-vibrantgio-prism-655a5964.md) |
 | github.com/vibrantgio/workbench | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-vibrantgio-workbench-38e97b77.md) |
 | github.com/victorgarciaesgi/regle | v0.1.9 | 2026-08-30T10:08:28.231309Z | [open](../records/go-github-com-victorgarciaesgi-regle-042315a0.md) |
 | github.com/virtuslab/scala-cli-signing | v0.1.6 | 2026-08-30T14:06:56.933543Z | [open](../records/go-github-com-virtuslab-scala-cli-signing-7dad50c9.md) |
 | github.com/vitorpamplona/amethyst | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-vitorpamplona-amethyst-7831885b.md) |
+| github.com/vlayer-xyz/vlayer | v1.0.3 | 2026-08-30T15:31:33.711201Z | [open](../records/go-github-com-vlayer-xyz-vlayer-56b9d237.md) |
 | github.com/vlm-run/vlmrun-hub | v0.1.4 | 2026-08-30T10:08:28.493844Z | [open](../records/go-github-com-vlm-run-vlmrun-hub-abafcc41.md) |
 | github.com/vshulcz/deja-vu | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-vshulcz-deja-vu-f0f9e335.md) |
 | github.com/w3c/webref | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-w3c-webref-5604c0a0.md) |
@@ -865,11 +991,13 @@ Records: `996`
 | github.com/wordpress-mobile/gutenberg-mobile | v1.61.1 | 2026-08-30T14:08:45.534497Z | [open](../records/go-github-com-wordpress-mobile-gutenberg-mobile-edf55928.md) |
 | github.com/wox-launcher/wox | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-wox-launcher-wox-c324ee32.md) |
 | github.com/wso2/ballerina | v1.2.50 | 2026-08-30T12:54:37.185846Z | [open](../records/go-github-com-wso2-ballerina-83acd295.md) |
+| github.com/wso2/carbon-identity-framework | v7.7.128+incompatible | 2026-08-30T15:31:58.117646Z | [open](../records/go-github-com-wso2-carbon-identity-framework-bdc97867.md) |
 | github.com/wurst-imperium/wurst7 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-wurst-imperium-wurst7-554b5a3c.md) |
 | github.com/xorhub/waas | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-xorhub-waas-00a3e392.md) |
 | github.com/xorhub/waas/operator | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-xorhub-waas-operator-ed140a2f.md) |
 | github.com/xorhub/waas/shared | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-xorhub-waas-shared-7b05cb41.md) |
 | github.com/yandex-cloud/python-sdk | v0.385.0 | 2026-08-30T14:06:44.362834Z | [open](../records/go-github-com-yandex-cloud-python-sdk-f30b3d8d.md) |
+| github.com/ydixken/pgcopydb-operator | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-ydixken-pgcopydb-operator-ef35cd4e.md) |
 | github.com/yelp/paasta | v0.85.51 | 2026-08-30T11:57:44.101683Z | [open](../records/go-github-com-yelp-paasta-84920243.md) |
 | github.com/yesodweb/wai | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-yesodweb-wai-9c55f54c.md) |
 | github.com/Yiling-j/theine-go | v0.2.4 | 2026-08-30T14:10:03.970925Z | [open](../records/go-github-com-yiling-j-theine-go-e51bf995.md) |
@@ -880,12 +1008,14 @@ Records: `996`
 | github.com/zarusz/slimmessagebus | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-zarusz-slimmessagebus-13b4809b.md) |
 | github.com/zcashfoundation/zcash_script | v0.1.10 | 2026-08-30T12:54:30.205126Z | [open](../records/go-github-com-zcashfoundation-zcash-script-c906ed18.md) |
 | github.com/zer0-star/nim-acl | v0.4.0 | 2026-08-30T14:10:35.634225Z | [open](../records/go-github-com-zer0-star-nim-acl-48560e0f.md) |
+| github.com/zhblue/hustoj | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-zhblue-hustoj-d7e9f97e.md) |
 | github.com/zkpassport/noir_rsa | v0.4.3 | 2026-08-30T14:06:56.762114Z | [open](../records/go-github-com-zkpassport-noir-rsa-24719d93.md) |
 | github.com/zloi-user/hideip.me | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-zloi-user-hideip-me-236aa2cd.md) |
 | github.com/zzxn/gokubegate | v0.0.1 | 2026-08-30T10:08:20.141329Z | [open](../records/go-github-com-zzxn-gokubegate-9c6036f5.md) |
 | github.laiyagushi.com/anthony-chaudhary/fak | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-laiyagushi-com-anthony-chaudhary-fak-3282a80d.md) |
 | github.laiyagushi.com/Juniper/go-netconf | v0.2.0 | 2026-08-30T14:10:28.8919Z | [open](../records/go-github-laiyagushi-com-juniper-go-netconf-c7fdc901.md) |
 | github.laiyagushi.com/nemith/dothome | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-laiyagushi-com-nemith-dothome-32cd483a.md) |
+| github.laiyagushi.com/valkey-io/valkey-go | v1.0.56 | 2026-08-30T15:31:38.453275Z | [open](../records/go-github-laiyagushi-com-valkey-io-valkey-go-b2864d71.md) |
 
 ## Starlark
 
@@ -894,6 +1024,20 @@ Records: `996`
 | cruise-automation/isopod | v1.8.7 | 2022-10-20T20:43:38Z | [open](../records/starlark-cruise-automation-isopod-0fd20340.md) |
 | openrundev/openrun | v0.19.2 | 2026-08-26T01:47:42Z | [open](../records/starlark-openrundev-openrun-0f48908b.md) |
 | tidbyt/community | unknown | github_latest_release_missing | [open](../records/starlark-tidbyt-community-62c4caad.md) |
+
+## Maps
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| alexreisner/geocoder | unknown | github_latest_release_missing | [open](../records/maps-alexreisner-geocoder-9b82930d.md) |
+| apache/incubator-baremaps | v0.8.2 | 2025-02-07T12:58:44Z | [open](../records/maps-apache-incubator-baremaps-fb222b75.md) |
+| cjdelisle/cjdns | unknown | github_latest_release_missing | [open](../records/maps-cjdelisle-cjdns-4711da4a.md) |
+| dtpstat/dtp-stat-archive | unknown | github_latest_release_missing | [open](../records/maps-dtpstat-dtp-stat-archive-9e471ed5.md) |
+| FlorianBruniaux/starmapper | v0.6.9 | 2026-06-18T19:13:08Z | [open](../records/maps-florianbruniaux-starmapper-f54a32ac.md) |
+| geomoose/gm3 | v3.15.2 | 2026-06-04T03:44:39Z | [open](../records/maps-geomoose-gm3-f1e69386.md) |
+| MapServer/MapServer | rel-8-6-5 | 2026-07-10T20:23:23Z | [open](../records/maps-mapserver-mapserver-100bdea0.md) |
+| munterfi/hereR | v1.1.0 | 2025-02-21T09:26:51Z | [open](../records/maps-munterfi-herer-7bc6ec20.md) |
+| uber/h3-py | v4.5.0 | 2026-05-30T00:50:26Z | [open](../records/maps-uber-h3-py-113e2f65.md) |
 
 ## Space Engines
 
@@ -1082,22 +1226,22 @@ Records: `996`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| edubart/minicoro | partial | 2024-12-07T10:36:21Z | [open](../records/assembly-edubart-minicoro-74ca4b67.md) |
-| hlorenzi/customasm | partial | 2026-04-26T21:11:38Z | [open](../records/assembly-hlorenzi-customasm-85734886.md) |
-| vector4wang/spring-boot-quick | partial | 2026-05-16T06:22:44Z | [open](../records/assembly-vector4wang-spring-boot-quick-58ca29aa.md) |
+| edubart/minicoro | v0.1.2 | 2021-12-30T11:56:47Z | [open](../records/assembly-edubart-minicoro-74ca4b67.md) |
+| hlorenzi/customasm | v0.14.1 | 2026-04-13T22:34:52Z | [open](../records/assembly-hlorenzi-customasm-85734886.md) |
+| vector4wang/spring-boot-quick | unknown | github_latest_release_missing | [open](../records/assembly-vector4wang-spring-boot-quick-58ca29aa.md) |
 
 ## Pattern language
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| davidgf/design-patterns-in-ruby | partial | 2024-04-29T16:00:41Z | [open](../records/pattern-language-davidgf-design-patterns-in-ruby-0be7f7bd.md) |
-| design-patterns-in-ruby/design-patterns-in-ruby | partial | 2026-05-13T14:28:15Z | [open](../records/pattern-language-design-patterns-in-ruby-design-patterns-in-ruby-1cba77a2.md) |
-| ebubekirdinc/SuuCat | partial | 2024-01-21T11:27:17Z | [open](../records/pattern-language-ebubekirdinc-suucat-3c05dec3.md) |
-| JakubVojvoda/design-patterns-cpp | partial | 2024-05-12T03:24:20Z | [open](../records/pattern-language-jakubvojvoda-design-patterns-cpp-fe839e4f.md) |
-| PacktPublishing/Node.js-Design-Patterns-Third-Edition | partial | 2024-02-06T22:24:29Z | [open](../records/pattern-language-packtpublishing-node-js-design-patterns-third-edition-5b734b51.md) |
-| panaversity/learn-agentic-ai | partial | 2025-10-26T01:09:51Z | [open](../records/pattern-language-panaversity-learn-agentic-ai-144acf0e.md) |
-| vany0114/microservices-dotnetcore-docker-sf-k8s | partial | 2022-12-08T02:14:17Z | [open](../records/pattern-language-vany0114-microservices-dotnetcore-docker-sf-k8s-1b9ff838.md) |
-| xindoo/agentic-design-patterns | partial | 2026-08-30T15:44:32Z | [open](../records/pattern-language-xindoo-agentic-design-patterns-0955be64.md) |
+| davidgf/design-patterns-in-ruby | unknown | github_latest_release_missing | [open](../records/pattern-language-davidgf-design-patterns-in-ruby-0be7f7bd.md) |
+| design-patterns-in-ruby/design-patterns-in-ruby | unknown | github_latest_release_missing | [open](../records/pattern-language-design-patterns-in-ruby-design-patterns-in-ruby-1cba77a2.md) |
+| ebubekirdinc/SuuCat | unknown | github_latest_release_missing | [open](../records/pattern-language-ebubekirdinc-suucat-3c05dec3.md) |
+| JakubVojvoda/design-patterns-cpp | unknown | github_latest_release_missing | [open](../records/pattern-language-jakubvojvoda-design-patterns-cpp-fe839e4f.md) |
+| PacktPublishing/Node.js-Design-Patterns-Third-Edition | unknown | github_latest_release_missing | [open](../records/pattern-language-packtpublishing-node-js-design-patterns-third-edition-5b734b51.md) |
+| panaversity/learn-agentic-ai | unknown | github_latest_release_missing | [open](../records/pattern-language-panaversity-learn-agentic-ai-144acf0e.md) |
+| vany0114/microservices-dotnetcore-docker-sf-k8s | 2.1.0 | 2020-04-02T02:49:04Z | [open](../records/pattern-language-vany0114-microservices-dotnetcore-docker-sf-k8s-1b9ff838.md) |
+| xindoo/agentic-design-patterns | v76 | 2026-08-30T15:44:32Z | [open](../records/pattern-language-xindoo-agentic-design-patterns-0955be64.md) |
 
 ## PHP
 
@@ -1173,16 +1317,16 @@ Records: `996`
 | gitlab-examples/ruby-autodeploy | partial | 2026-01-07T14:56:29.516Z | [open](../records/repository-workplaces-gitlab-examples-ruby-autodeploy-0ea70988.md) |
 | gitlab-org/charts/gitlab-agent | partial | 2026-08-27T06:20:07.801Z | [open](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) |
 | gitlab-org/ci-cd/gitlab-runner-pod-cleanup | partial | 2026-05-15T07:38:19.652Z | [open](../records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) |
-| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-01T08:36:18.264Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
+| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-01T11:27:46.982Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
 | gitlab-org/kubernetes-gitlab-demo | partial | 2026-01-07T10:09:42.404Z | [open](../records/repository-workplaces-gitlab-org-kubernetes-gitlab-demo-d867dc50.md) |
 | glitchtip/glitchtip-helm-chart | partial | 2026-08-01T00:27:07.881Z | [open](../records/repository-workplaces-glitchtip-glitchtip-helm-chart-8da5da49.md) |
 | k3s_hetzner/k3s_hetzner | partial | 2024-05-18T14:38:11.918Z | [open](../records/repository-workplaces-k3s-hetzner-k3s-hetzner-d2927843.md) |
 | ksxack/administrator-kubernetes-junior | partial | 2025-03-09T20:49:07.418Z | [open](../records/repository-workplaces-ksxack-administrator-kubernetes-junior-6dbf6036.md) |
-| ongresinc/stackgres | partial | 2026-09-01T08:30:37.147Z | [open](../records/repository-workplaces-ongresinc-stackgres-219e17d7.md) |
+| ongresinc/stackgres | partial | 2026-09-01T10:40:28.748Z | [open](../records/repository-workplaces-ongresinc-stackgres-219e17d7.md) |
 | postgres-ai/joe | partial | 2026-08-06T01:15:25.024Z | [open](../records/repository-workplaces-postgres-ai-joe-6048f213.md) |
 | purelb/purelb | partial | 2026-05-18T16:37:02.681Z | [open](../records/repository-workplaces-purelb-purelb-96e96f02.md) |
 | toskao/descomplicandokubernetes | partial | 2021-05-02T23:21:45.279Z | [open](../records/repository-workplaces-toskao-descomplicandokubernetes-0c4ed22a.md) |
 | xavki/infrastructure-cloud-infomaniak | partial | 2026-06-21T11:05:52.720Z | [open](../records/repository-workplaces-xavki-infrastructure-cloud-infomaniak-7c2de9cf.md) |
 | xavki/tutorials-kubernetes | partial | 2026-06-21T11:07:22.889Z | [open](../records/repository-workplaces-xavki-tutorials-kubernetes-923f1a68.md) |
 | xavki/vagrant-stacks-library | partial | 2026-06-21T11:06:12.528Z | [open](../records/repository-workplaces-xavki-vagrant-stacks-library-9b9d6de1.md) |
-| yaook/operator | partial | 2026-09-01T08:32:07.819Z | [open](../records/repository-workplaces-yaook-operator-aa452dcd.md) |
+| yaook/operator | partial | 2026-09-01T11:19:23.853Z | [open](../records/repository-workplaces-yaook-operator-aa452dcd.md) |

@@ -1,6 +1,6 @@
 # Logging Observability
 
-Records: `258`
+Records: `259`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `258`
 
 ## Category Index
 
-[Api Abi Checker (115)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (105)](async-runtime.md)
-[Benchmarking (73)](benchmarking.md) · [Build System (583)](build-system.md) · [Cli (450)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
+[Benchmarking (74)](benchmarking.md) · [Build System (590)](build-system.md) · [Cli (451)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (71)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (437)](database-datastore.md) · [Datetime (100)](datetime.md)
+[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (73)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (437)](database-datastore.md) · [Datetime (104)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
-[Embedded Hardware (38)](embedded-hardware.md) · [Ffi Bindings (320)](ffi-bindings.md) · [Filesystem Os (745)](filesystem-os.md) · [Formatter (441)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (24)](fuzzer.md) · [Game Engine Game Dev (103)](game-engine-game-dev.md) · [Ide Editor Integration (844)](ide-editor-integration.md)
-[Image Audio Dsp (183)](image-audio-dsp.md) · [Interop Bindings (47)](interop-bindings.md) · [Interpreter Runtime (158)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (833)](language-specification.md) · [Library (3355)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (34)](lint-rule-pack.md) · [Linter (330)](linter.md) · **[Logging Observability (258)](logging-observability.md)** · [Machine Learning (382)](machine-learning.md)
-[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (691)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (199)](package-manager.md) · [Parser Lexer Ast (592)](parser-lexer-ast.md) · [Precommit Ci Quality (171)](precommit-ci-quality.md)
-[Profiler (57)](profiler.md) · [Project Scaffolding (90)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
-[Security Sast (268)](security-sast.md) · [Serialization (272)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (270)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (418)](testing-framework.md) · [Tutorial Book Styleguide (42)](tutorial-book-styleguide.md) · [Type Checker (261)](type-checker.md)
-[Undefined Behavior Analyzer (996)](undefined-behavior-analyzer.md) · [Utility Library (80)](utility-library.md) · [Visualization Gui (277)](visualization-gui.md) · [Web Framework (298)](web-framework.md)
+[Embedded Hardware (39)](embedded-hardware.md) · [Ffi Bindings (324)](ffi-bindings.md) · [Filesystem Os (761)](filesystem-os.md) · [Formatter (442)](formatter.md)
+[Framework (38)](framework.md) · [Fuzzer (30)](fuzzer.md) · [Game Engine Game Dev (104)](game-engine-game-dev.md) · [Ide Editor Integration (850)](ide-editor-integration.md)
+[Image Audio Dsp (184)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (161)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (837)](language-specification.md) · [Library (3388)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (334)](linter.md) · **[Logging Observability (259)](logging-observability.md)** · [Machine Learning (390)](machine-learning.md)
+[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (698)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (199)](package-manager.md) · [Parser Lexer Ast (598)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
+[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
+[Security Sast (270)](security-sast.md) · [Serialization (272)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (273)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (42)](tutorial-book-styleguide.md) · [Type Checker (264)](type-checker.md)
+[Undefined Behavior Analyzer (1135)](undefined-behavior-analyzer.md) · [Utility Library (81)](utility-library.md) · [Visualization Gui (280)](visualization-gui.md) · [Web Framework (304)](web-framework.md)
 
 ## C99
 
@@ -68,7 +68,7 @@ Records: `258`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | android_logger | 0.15.1 | 2025-06-29T18:20:22.643726Z | [open](../records/rust-android-logger-4234548c.md) |
-| arrow-schema | 59.2.0 | 2026-08-06T13:11:10.092667Z | [open](../records/rust-arrow-schema-3690b891.md) |
+| arrow-schema | 59.3.0 | 2026-09-01T10:37:46.420301Z | [open](../records/rust-arrow-schema-3690b891.md) |
 | aws-smithy-eventstream | 0.61.2 | 2026-08-12T14:57:07.339600Z | [open](../records/rust-aws-smithy-eventstream-e8e6d761.md) |
 | aws-smithy-observability | 0.3.0 | 2026-07-07T18:16:48.256708Z | [open](../records/rust-aws-smithy-observability-7204d6c5.md) |
 | aws-smithy-query | 0.62.0 | 2026-07-14T17:40:09.783215Z | [open](../records/rust-aws-smithy-query-b6654ee8.md) |
@@ -261,6 +261,7 @@ Records: `258`
 | lnmCluster | 1.0.0 | 2026-08-28 13:00:02 UTC | [open](../records/r-lnmcluster-f200fba5.md) |
 | logger | 0.4.3 | 2026-08-24 16:20:18 UTC | [open](../records/r-logger-6bd2e0a0.md) |
 | LogicForest | 2.1.5 | 2026-08-28 20:00:14 UTC | [open](../records/r-logicforest-d95cf8d4.md) |
+| logtree | 0.2.0 | 2026-09-01 10:30:10 UTC | [open](../records/r-logtree-c8fc4dc5.md) |
 | MMAD | 3.0.1 | 2026-08-31 21:20:09 UTC | [open](../records/r-mmad-60f8b2cb.md) |
 | mvboxcox | 0.1.4 | 2026-08-26 20:10:02 UTC | [open](../records/r-mvboxcox-47027b19.md) |
 | pharmr | 2.2.0 | 2026-08-31 18:30:02 UTC | [open](../records/r-pharmr-6d27372d.md) |
@@ -293,7 +294,7 @@ Records: `258`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| MLflow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-mlflow-1732aa2b.md) |
+| MLflow | v3.15.2 | 2026-08-26T08:34:31Z | [open](../records/aim-s-mlflow-1732aa2b.md) |
 | OpenTelemetry Semantic Conventions For GenAI | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-opentelemetry-semantic-conventions-for-genai-e834f611.md) |
 
 ## Space Engines
@@ -371,8 +372,8 @@ Records: `258`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| magicpatterns/catalog | partial | 2024-05-03T20:23:35Z | [open](../records/pattern-language-magicpatterns-catalog-b07f42a5.md) |
-| Unity-Technologies/game-programming-patterns-demo | partial | 2025-10-23T20:03:44Z | [open](../records/pattern-language-unity-technologies-game-programming-patterns-demo-4d631e53.md) |
+| magicpatterns/catalog | unknown | github_latest_release_missing | [open](../records/pattern-language-magicpatterns-catalog-b07f42a5.md) |
+| Unity-Technologies/game-programming-patterns-demo | unknown | github_latest_release_missing | [open](../records/pattern-language-unity-technologies-game-programming-patterns-demo-4d631e53.md) |
 
 ## SAPJava
 

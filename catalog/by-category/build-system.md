@@ -1,6 +1,6 @@
 # Build System
 
-Records: `583`
+Records: `590`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `583`
 
 ## Category Index
 
-[Api Abi Checker (115)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (105)](async-runtime.md)
-[Benchmarking (73)](benchmarking.md) · **[Build System (583)](build-system.md)** · [Cli (450)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
+[Benchmarking (74)](benchmarking.md) · **[Build System (590)](build-system.md)** · [Cli (451)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (71)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (437)](database-datastore.md) · [Datetime (100)](datetime.md)
+[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (73)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (437)](database-datastore.md) · [Datetime (104)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
-[Embedded Hardware (38)](embedded-hardware.md) · [Ffi Bindings (320)](ffi-bindings.md) · [Filesystem Os (745)](filesystem-os.md) · [Formatter (441)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (24)](fuzzer.md) · [Game Engine Game Dev (103)](game-engine-game-dev.md) · [Ide Editor Integration (844)](ide-editor-integration.md)
-[Image Audio Dsp (183)](image-audio-dsp.md) · [Interop Bindings (47)](interop-bindings.md) · [Interpreter Runtime (158)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (833)](language-specification.md) · [Library (3355)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (34)](lint-rule-pack.md) · [Linter (330)](linter.md) · [Logging Observability (258)](logging-observability.md) · [Machine Learning (382)](machine-learning.md)
-[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (691)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (199)](package-manager.md) · [Parser Lexer Ast (592)](parser-lexer-ast.md) · [Precommit Ci Quality (171)](precommit-ci-quality.md)
-[Profiler (57)](profiler.md) · [Project Scaffolding (90)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
-[Security Sast (268)](security-sast.md) · [Serialization (272)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (270)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (418)](testing-framework.md) · [Tutorial Book Styleguide (42)](tutorial-book-styleguide.md) · [Type Checker (261)](type-checker.md)
-[Undefined Behavior Analyzer (996)](undefined-behavior-analyzer.md) · [Utility Library (80)](utility-library.md) · [Visualization Gui (277)](visualization-gui.md) · [Web Framework (298)](web-framework.md)
+[Embedded Hardware (39)](embedded-hardware.md) · [Ffi Bindings (324)](ffi-bindings.md) · [Filesystem Os (761)](filesystem-os.md) · [Formatter (442)](formatter.md)
+[Framework (38)](framework.md) · [Fuzzer (30)](fuzzer.md) · [Game Engine Game Dev (104)](game-engine-game-dev.md) · [Ide Editor Integration (850)](ide-editor-integration.md)
+[Image Audio Dsp (184)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (161)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (837)](language-specification.md) · [Library (3388)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (334)](linter.md) · [Logging Observability (259)](logging-observability.md) · [Machine Learning (390)](machine-learning.md)
+[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (698)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (199)](package-manager.md) · [Parser Lexer Ast (598)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
+[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
+[Security Sast (270)](security-sast.md) · [Serialization (272)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (273)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (42)](tutorial-book-styleguide.md) · [Type Checker (264)](type-checker.md)
+[Undefined Behavior Analyzer (1135)](undefined-behavior-analyzer.md) · [Utility Library (81)](utility-library.md) · [Visualization Gui (280)](visualization-gui.md) · [Web Framework (304)](web-framework.md)
 
 ## C99
 
@@ -549,6 +549,9 @@ Records: `583`
 | buf.build/gen/go/ticctech/form/protocolbuffers/go | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-buf-build-gen-go-ticctech-form-protocolbuffers-go-481ae599.md) |
 | github.com/amp-buildpacks/leo-dist | v0.6.11 | 2026-08-30T14:06:31.158947Z | [open](../records/go-github-com-amp-buildpacks-leo-dist-b9d81c76.md) |
 | github.com/archlinuxarm/pkgbuilds | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-archlinuxarm-pkgbuilds-c2690690.md) |
+| github.com/espressif/esp-rainmaker-custom-development | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-espressif-esp-rainmaker-custom-development-e6ace292.md) |
+| github.com/espressif/esp-rainmaker-neo | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-espressif-esp-rainmaker-neo-273f971d.md) |
+| github.com/espressif/esp32-arduino-lib-builder | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-espressif-esp32-arduino-lib-builder-2032e2a7.md) |
 | github.com/Gumyr/build123d | v0.3.0 | 2026-08-30T10:07:18.967525Z | [open](../records/go-github-com-gumyr-build123d-042e26d3.md) |
 | go.ytsaurus.tech/library/go/core/buildinfo | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-go-ytsaurus-tech-library-go-core-buildinfo-4bb9b494.md) |
 
@@ -556,7 +559,7 @@ Records: `583`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Bazel | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/starlark-bazel-189ae4a2.md) |
+| Bazel | 9.2.0 | 2026-07-13T20:39:01Z | [open](../records/starlark-bazel-189ae4a2.md) |
 | bazel-contrib/rules_cuda | v0.3.0 | 2026-02-17T00:03:28Z | [open](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) |
 | bazelbuild/bazel-skylib | 1.9.2 | 2026-07-17T18:38:51Z | [open](../records/starlark-bazelbuild-bazel-skylib-6abae8f4.md) |
 | dropbox/dbx_build_tools | unknown | github_latest_release_missing | [open](../records/starlark-dropbox-dbx-build-tools-f48dff7c.md) |
@@ -564,6 +567,15 @@ Records: `583`
 | maxmcd/bramble | v0.0.3 | 2021-12-10T03:03:43Z | [open](../records/starlark-maxmcd-bramble-bcb99fb7.md) |
 | tidbyt/pixlet | v0.34.0 | 2024-09-30T19:21:03Z | [open](../records/starlark-tidbyt-pixlet-876fea90.md) |
 | u-root/gobusybox | src/v0.3.0 | 2026-06-22T14:56:58Z | [open](../records/starlark-u-root-gobusybox-136cf407.md) |
+
+## Maps
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| emicklei/go-restful | v3.13.0 | 2025-08-15T06:31:22Z | [open](../records/maps-emicklei-go-restful-1944b345.md) |
+| openaddresses/openaddresses | unknown | github_latest_release_missing | [open](../records/maps-openaddresses-openaddresses-2339fe96.md) |
+| stablekernel/aqueduct | 3.2.0 | 2019-03-07T14:52:06Z | [open](../records/maps-stablekernel-aqueduct-1173e0fd.md) |
+| stefanocudini/leaflet-layerJSON | unknown | github_latest_release_missing | [open](../records/maps-stefanocudini-leaflet-layerjson-1c3bc2fa.md) |
 
 ## Space Engines
 
@@ -687,12 +699,12 @@ Records: `583`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| burhanrashid52/WhatTodo | partial | 2026-02-12T14:45:30Z | [open](../records/pattern-language-burhanrashid52-whattodo-e6415dc3.md) |
-| Caliburn-Micro/Caliburn.Micro | partial | 2026-08-28T12:35:44Z | [open](../records/pattern-language-caliburn-micro-caliburn-micro-33faf6de.md) |
-| daxnet/Apworks | partial | 2017-06-13T12:44:13Z | [open](../records/pattern-language-daxnet-apworks-181c8cb3.md) |
-| emonney/QuickApp | partial | 2026-09-01T00:54:46Z | [open](../records/pattern-language-emonney-quickapp-e4e4cf84.md) |
-| FredKSchott/the-node-way | partial | 2016-01-19T21:17:10Z | [open](../records/pattern-language-fredkschott-the-node-way-18a9e3cb.md) |
-| nilbuild/design-patterns-for-humans | partial | 2024-12-02T04:54:48Z | [open](../records/pattern-language-nilbuild-design-patterns-for-humans-38fea4c2.md) |
+| burhanrashid52/WhatTodo | 2.0.2 | 2024-11-09T10:54:57Z | [open](../records/pattern-language-burhanrashid52-whattodo-e6415dc3.md) |
+| Caliburn-Micro/Caliburn.Micro | 5.0.258 | 2025-10-14T00:34:56Z | [open](../records/pattern-language-caliburn-micro-caliburn-micro-33faf6de.md) |
+| daxnet/Apworks | unknown | github_latest_release_missing | [open](../records/pattern-language-daxnet-apworks-181c8cb3.md) |
+| emonney/QuickApp | v10.21.0 | 2025-12-27T10:54:44Z | [open](../records/pattern-language-emonney-quickapp-e4e4cf84.md) |
+| FredKSchott/the-node-way | unknown | github_latest_release_missing | [open](../records/pattern-language-fredkschott-the-node-way-18a9e3cb.md) |
+| nilbuild/design-patterns-for-humans | unknown | github_latest_release_missing | [open](../records/pattern-language-nilbuild-design-patterns-for-humans-38fea4c2.md) |
 
 ## PHP
 

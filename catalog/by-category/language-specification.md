@@ -1,6 +1,6 @@
 # Language Specification
 
-Records: `833`
+Records: `837`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `833`
 
 ## Category Index
 
-[Api Abi Checker (115)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (105)](async-runtime.md)
-[Benchmarking (73)](benchmarking.md) · [Build System (583)](build-system.md) · [Cli (450)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
+[Benchmarking (74)](benchmarking.md) · [Build System (590)](build-system.md) · [Cli (451)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (71)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (437)](database-datastore.md) · [Datetime (100)](datetime.md)
+[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (73)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (437)](database-datastore.md) · [Datetime (104)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
-[Embedded Hardware (38)](embedded-hardware.md) · [Ffi Bindings (320)](ffi-bindings.md) · [Filesystem Os (745)](filesystem-os.md) · [Formatter (441)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (24)](fuzzer.md) · [Game Engine Game Dev (103)](game-engine-game-dev.md) · [Ide Editor Integration (844)](ide-editor-integration.md)
-[Image Audio Dsp (183)](image-audio-dsp.md) · [Interop Bindings (47)](interop-bindings.md) · [Interpreter Runtime (158)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (23)](language-server.md) · **[Language Specification (833)](language-specification.md)** · [Library (3355)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (34)](lint-rule-pack.md) · [Linter (330)](linter.md) · [Logging Observability (258)](logging-observability.md) · [Machine Learning (382)](machine-learning.md)
-[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (691)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (199)](package-manager.md) · [Parser Lexer Ast (592)](parser-lexer-ast.md) · [Precommit Ci Quality (171)](precommit-ci-quality.md)
-[Profiler (57)](profiler.md) · [Project Scaffolding (90)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
-[Security Sast (268)](security-sast.md) · [Serialization (272)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (270)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (418)](testing-framework.md) · [Tutorial Book Styleguide (42)](tutorial-book-styleguide.md) · [Type Checker (261)](type-checker.md)
-[Undefined Behavior Analyzer (996)](undefined-behavior-analyzer.md) · [Utility Library (80)](utility-library.md) · [Visualization Gui (277)](visualization-gui.md) · [Web Framework (298)](web-framework.md)
+[Embedded Hardware (39)](embedded-hardware.md) · [Ffi Bindings (324)](ffi-bindings.md) · [Filesystem Os (761)](filesystem-os.md) · [Formatter (442)](formatter.md)
+[Framework (38)](framework.md) · [Fuzzer (30)](fuzzer.md) · [Game Engine Game Dev (104)](game-engine-game-dev.md) · [Ide Editor Integration (850)](ide-editor-integration.md)
+[Image Audio Dsp (184)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (161)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (23)](language-server.md) · **[Language Specification (837)](language-specification.md)** · [Library (3388)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (334)](linter.md) · [Logging Observability (259)](logging-observability.md) · [Machine Learning (390)](machine-learning.md)
+[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (698)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (199)](package-manager.md) · [Parser Lexer Ast (598)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
+[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
+[Security Sast (270)](security-sast.md) · [Serialization (272)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (273)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (42)](tutorial-book-styleguide.md) · [Type Checker (264)](type-checker.md)
+[Undefined Behavior Analyzer (1135)](undefined-behavior-analyzer.md) · [Utility Library (81)](utility-library.md) · [Visualization Gui (280)](visualization-gui.md) · [Web Framework (304)](web-framework.md)
 
 ## C99
 
@@ -318,6 +318,7 @@ Records: `833`
 | ipeaplot | 1.0.0 | 2026-08-31 17:00:22 UTC | [open](../records/r-ipeaplot-f3ce9d27.md) |
 | llamaR | 0.2.6 | 2026-08-27 12:00:09 UTC | [open](../records/r-llamar-6bb0a48d.md) |
 | LLMing | 1.3.0 | 2026-08-27 02:30:02 UTC | [open](../records/r-llming-d2c0b725.md) |
+| mLLMCelltype | 2.0.8 | 2026-09-01 11:40:02 UTC | [open](../records/r-mllmcelltype-eb79340b.md) |
 | rollama | 0.3.1 | 2026-08-24 02:20:02 UTC | [open](../records/r-rollama-28c14d6c.md) |
 | rtiktoken | 0.11.0.3 | 2026-08-31 18:40:02 UTC | [open](../records/r-rtiktoken-9226ef4a.md) |
 | sylly.en | 0.1-4 | 2026-08-31 19:30:27 UTC | [open](../records/r-sylly-en-707d70ea.md) |
@@ -583,6 +584,14 @@ Records: `833`
 | --- | --- | --- | --- |
 | OpenType Specification | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/font-briefcase-opentype-specification-e2cb1cd1.md) |
 
+## Maps
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| chicago-justice-project/article-tagging | v1.5.0 | 2025-09-14T19:14:01Z | [open](../records/maps-chicago-justice-project-article-tagging-1148e9b3.md) |
+| leontoeides/google_maps | v3.10.0 | 2026-07-12T17:53:34Z | [open](../records/maps-leontoeides-google-maps-f8801bd0.md) |
+| open-meteo/geocoding-api | 0.4.0 | 2026-07-27T15:53:37Z | [open](../records/maps-open-meteo-geocoding-api-8d972914.md) |
+
 ## Space Shuttles
 
 | Name | Release | Date | Page |
@@ -694,110 +703,110 @@ Records: `833`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| 100thCoin/AccuracyCoin | partial | 2026-08-21T18:25:57Z | [open](../records/assembly-100thcoin-accuracycoin-a8cc820c.md) |
-| adriancable/8086tiny | partial | 2022-09-07T17:43:45Z | [open](../records/assembly-adriancable-8086tiny-c1d50ad4.md) |
-| akkartik/mu | partial | 2026-04-02T02:16:40Z | [open](../records/assembly-akkartik-mu-02abed58.md) |
-| alvin-tosh/Malware-Exhibit | partial | 2024-01-12T06:43:27Z | [open](../records/assembly-alvin-tosh-malware-exhibit-e411e5da.md) |
-| apple/swift-crypto | partial | 2026-09-01T11:06:50Z | [open](../records/assembly-apple-swift-crypto-1f447802.md) |
-| Apress/low-level-programming | partial | 2023-11-27T22:46:21Z | [open](../records/assembly-apress-low-level-programming-3b2dd27a.md) |
-| aws/aws-lc | partial | 2026-08-31T21:12:50Z | [open](../records/assembly-aws-aws-lc-29f8be23.md) |
-| below/HelloSilicon | partial | 2026-05-15T21:16:21Z | [open](../records/assembly-below-hellosilicon-8ff6614f.md) |
-| bitdump/BLHeli | partial | 2025-08-21T07:30:10Z | [open](../records/assembly-bitdump-blheli-5d346476.md) |
-| blackbird71SR/Hello-World | partial | 2024-03-02T10:40:36Z | [open](../records/assembly-blackbird71sr-hello-world-2fa43546.md) |
-| BLAKE3-team/BLAKE3 | partial | 2026-08-31T15:13:59Z | [open](../records/assembly-blake3-team-blake3-cc15f4ed.md) |
-| bluewaysw/pcgeos | partial | 2026-08-26T22:15:01Z | [open](../records/assembly-bluewaysw-pcgeos-aee787b1.md) |
-| briansmith/ring | partial | 2026-07-23T18:48:09Z | [open](../records/assembly-briansmith-ring-3a265118.md) |
-| bytecode77/pe-union | partial | 2025-06-28T10:36:18Z | [open](../records/assembly-bytecode77-pe-union-295ee237.md) |
-| cemu-project/cemu_graphic_packs | partial | 2026-07-10T22:33:37Z | [open](../records/assembly-cemu-project-cemu-graphic-packs-a02e8956.md) |
-| chrislgarry/Apollo-11 | partial | 2026-07-15T02:29:53Z | [open](../records/assembly-chrislgarry-apollo-11-bb6b16f2.md) |
-| cirosantilli/x86-assembly-cheat | partial | 2019-06-25T18:10:23Z | [open](../records/assembly-cirosantilli-x86-assembly-cheat-6fe4201b.md) |
-| cirosantilli/x86-bare-metal-examples | partial | 2022-07-18T05:40:51Z | [open](../records/assembly-cirosantilli-x86-bare-metal-examples-4f8cf123.md) |
-| corkami/pics | partial | 2024-02-18T13:37:21Z | [open](../records/assembly-corkami-pics-3e6c0218.md) |
-| corkami/pocs | partial | 2024-12-22T21:19:50Z | [open](../records/assembly-corkami-pocs-7ef21d37.md) |
-| daniel-e/tetros | partial | 2016-12-18T13:32:27Z | [open](../records/assembly-daniel-e-tetros-151a0c96.md) |
-| DGivney/assemblytutorials | partial | 2025-04-08T11:40:58Z | [open](../records/assembly-dgivney-assemblytutorials-61126c89.md) |
-| Dman95/SASM | partial | 2026-02-08T18:26:02Z | [open](../records/assembly-dman95-sasm-d1b6bc2a.md) |
-| donno2048/snake | partial | 2026-07-13T19:57:19Z | [open](../records/assembly-donno2048-snake-7b4fe8af.md) |
-| DOS-History/Paterson-Listings | partial | 2026-06-02T11:01:48Z | [open](../records/assembly-dos-history-paterson-listings-1b2b8faa.md) |
-| dspinellis/unix-history-repo | partial | 2026-01-05T16:53:18Z | [open](../records/assembly-dspinellis-unix-history-repo-77c8ee7b.md) |
-| dwelch67/raspberrypi | partial | 2023-07-14T09:07:13Z | [open](../records/assembly-dwelch67-raspberrypi-a219633c.md) |
-| ebitengine/purego | partial | 2026-09-01T10:46:21Z | [open](../records/assembly-ebitengine-purego-a5231eb8.md) |
-| espressif/esp-dl | partial | 2026-08-31T07:22:46Z | [open](../records/assembly-espressif-esp-dl-82fca433.md) |
-| fcambus/spleen | partial | 2026-08-12T15:45:38Z | [open](../records/assembly-fcambus-spleen-889e6477.md) |
-| grimdoomer/Xbox360BadUpdate | partial | 2026-08-05T23:13:44Z | [open](../records/assembly-grimdoomer-xbox360badupdate-0bdca866.md) |
-| hackclub/some-assembly-required | partial | 2026-02-02T23:13:25Z | [open](../records/assembly-hackclub-some-assembly-required-91450888.md) |
-| hasherezade/malware_training_vol1 | partial | 2024-07-01T21:59:06Z | [open](../records/assembly-hasherezade-malware-training-vol1-897623a6.md) |
-| HazyResearch/hyena-dna | partial | 2025-04-22T19:15:50Z | [open](../records/assembly-hazyresearch-hyena-dna-32e6b277.md) |
-| HazyResearch/safari | partial | 2024-06-13T21:57:14Z | [open](../records/assembly-hazyresearch-safari-ce5609e7.md) |
-| icebreaker/floppybird | partial | 2020-04-01T19:49:44Z | [open](../records/assembly-icebreaker-floppybird-0b70ef49.md) |
-| intel/optimization-manual | partial | 2024-05-03T22:09:10Z | [open](../records/assembly-intel-optimization-manual-fce59491.md) |
-| jmechner/Prince-of-Persia-Apple-II | partial | 2024-09-27T09:18:47Z | [open](../records/assembly-jmechner-prince-of-persia-apple-ii-f90e7981.md) |
-| JSsixtyfour/smashremix | partial | 2026-03-08T21:55:37Z | [open](../records/assembly-jssixtyfour-smashremix-3676fb2a.md) |
-| jthuraisamy/SysWhispers | partial | 2023-01-01T03:42:21Z | [open](../records/assembly-jthuraisamy-syswhispers-6a63ec1e.md) |
-| jthuraisamy/SysWhispers2 | partial | 2022-09-03T07:31:06Z | [open](../records/assembly-jthuraisamy-syswhispers2-a7a2bf36.md) |
-| kanaka/mal | partial | 2025-10-22T16:42:57Z | [open](../records/assembly-kanaka-mal-91648198.md) |
-| kaxap/arl | partial | 2025-05-27T21:22:15Z | [open](../records/assembly-kaxap-arl-19c4f0de.md) |
-| klauspost/reedsolomon | partial | 2026-08-19T15:50:05Z | [open](../records/assembly-klauspost-reedsolomon-2ebcc787.md) |
-| klezVirus/inceptor | partial | 2023-11-03T09:33:21Z | [open](../records/assembly-klezvirus-inceptor-3f952d37.md) |
-| KnightOS/KnightOS | partial | 2021-05-02T06:26:08Z | [open](../records/assembly-knightos-knightos-0141de07.md) |
-| leachim6/hello-world | partial | 2026-01-19T23:10:03Z | [open](../records/assembly-leachim6-hello-world-518b0b2f.md) |
-| matanki-saito/EU4dll | partial | 2026-05-29T07:10:31Z | [open](../records/assembly-matanki-saito-eu4dll-aedee506.md) |
-| microsoft/BASIC-M6502 | partial | 2025-09-03T18:39:33Z | [open](../records/assembly-microsoft-basic-m6502-66ceb6b5.md) |
-| microsoft/MS-DOS | partial | 2024-04-25T22:32:47Z | [open](../records/assembly-microsoft-ms-dos-eb2a4b43.md) |
-| mikeroyal/RISC-V-Guide | partial | 2024-01-04T22:44:46Z | [open](../records/assembly-mikeroyal-risc-v-guide-dfd455c4.md) |
-| mirrorer/libbpg | partial | 2022-01-30T03:10:24Z | [open](../records/assembly-mirrorer-libbpg-745138b3.md) |
-| mschwartz/assembly-tutorial | partial | 2026-05-03T23:34:30Z | [open](../records/assembly-mschwartz-assembly-tutorial-860de2bf.md) |
-| mtuomi/SecondReality | partial | 2022-06-27T15:45:39Z | [open](../records/assembly-mtuomi-secondreality-5c489f57.md) |
-| mytechnotalent/Reverse-Engineering | partial | 2026-08-31T13:15:08Z | [open](../records/assembly-mytechnotalent-reverse-engineering-73d01425.md) |
-| nanochess/bootOS | partial | 2026-08-01T04:58:00Z | [open](../records/assembly-nanochess-bootos-3579b41b.md) |
-| nemasu/asmttpd | partial | 2025-03-01T14:36:22Z | [open](../records/assembly-nemasu-asmttpd-9a612693.md) |
-| netwide-assembler/nasm | partial | 2026-08-19T23:47:10Z | [open](../records/assembly-netwide-assembler-nasm-7b1656d3.md) |
-| niekiran/Embedded-C | partial | 2025-06-13T11:37:25Z | [open](../records/assembly-niekiran-embedded-c-9b420b87.md) |
-| nmlgc/ReC98 | partial | 2026-03-16T22:58:36Z | [open](../records/assembly-nmlgc-rec98-693bb348.md) |
-| nornagon/jonesforth | partial | 2023-04-04T16:56:38Z | [open](../records/assembly-nornagon-jonesforth-691f782b.md) |
-| obdev/v-usb | partial | 2026-08-26T14:47:54Z | [open](../records/assembly-obdev-v-usb-977cf25b.md) |
-| openhwgroup/core-v-verif | partial | 2026-08-13T11:46:24Z | [open](../records/assembly-openhwgroup-core-v-verif-9b6682d3.md) |
-| openhwgroup/cva6 | partial | 2026-09-01T10:44:23Z | [open](../records/assembly-openhwgroup-cva6-c0f79b44.md) |
-| oriansj/stage0 | partial | 2026-06-17T03:03:21Z | [open](../records/assembly-oriansj-stage0-6791bc52.md) |
-| Overv/MineAssemble | partial | 2023-09-11T09:31:31Z | [open](../records/assembly-overv-mineassemble-4e2e626b.md) |
-| PDP-10/its | partial | 2026-08-19T16:37:56Z | [open](../records/assembly-pdp-10-its-cfa6e89a.md) |
-| pkivolowitz/asm_book | partial | 2026-04-20T01:09:10Z | [open](../records/assembly-pkivolowitz-asm-book-b080ef6b.md) |
-| PluMGMK/vbesvga.drv | partial | 2026-07-26T10:10:59Z | [open](../records/assembly-plumgmk-vbesvga-drv-17dbec94.md) |
-| PlummersSoftwareLLC/TinyRetroPad | partial | 2026-06-29T20:47:53Z | [open](../records/assembly-plummerssoftwarellc-tinyretropad-9938f18a.md) |
-| pooler/cpuminer | partial | 2023-04-05T20:58:12Z | [open](../records/assembly-pooler-cpuminer-f94e15ef.md) |
-| pret/pokecrystal | partial | 2026-08-28T22:06:49Z | [open](../records/assembly-pret-pokecrystal-513db7cc.md) |
-| pret/pokegold | partial | 2026-08-13T21:57:51Z | [open](../records/assembly-pret-pokegold-982759e3.md) |
-| pret/pokered | partial | 2026-08-27T22:16:48Z | [open](../records/assembly-pret-pokered-f921a9c0.md) |
-| pret/pokeyellow | partial | 2026-08-27T22:34:09Z | [open](../records/assembly-pret-pokeyellow-f91bcc26.md) |
-| PrincetonUniversity/openpiton | partial | 2026-02-25T17:35:46Z | [open](../records/assembly-princetonuniversity-openpiton-eceb776d.md) |
-| RandalLinden/DOOM-FX | partial | 2022-06-19T18:26:02Z | [open](../records/assembly-randallinden-doom-fx-76b45172.md) |
-| Rangi42/polishedcrystal | partial | 2026-09-01T04:14:14Z | [open](../records/assembly-rangi42-polishedcrystal-55bf1d37.md) |
-| ReturnInfinity/BareMetal | partial | 2026-06-12T19:06:32Z | [open](../records/assembly-returninfinity-baremetal-0b151ed8.md) |
-| ReturnInfinity/BareMetal-OS-legacy | partial | 2017-11-20T15:29:43Z | [open](../records/assembly-returninfinity-baremetal-os-legacy-09317d7c.md) |
-| RibShark/OmniDrive | partial | 2026-07-18T06:48:57Z | [open](../records/assembly-ribshark-omnidrive-32257d20.md) |
-| riscv-software-src/riscv-tests | partial | 2026-08-14T22:09:19Z | [open](../records/assembly-riscv-software-src-riscv-tests-77e7e3cb.md) |
-| riscv/riscv-arch-test | partial | 2026-09-01T10:09:12Z | [open](../records/assembly-riscv-riscv-arch-test-0b5f8870.md) |
-| riscvarchive/riscv-v-spec | partial | 2024-03-17T15:04:35Z | [open](../records/assembly-riscvarchive-riscv-v-spec-60c48d12.md) |
-| ROCm/MIOpen | partial | 2026-08-31T18:04:11Z | [open](../records/assembly-rocm-miopen-1181b14a.md) |
-| sam-astro/Astro8-Computer | partial | 2026-08-27T17:50:17Z | [open](../records/assembly-sam-astro-astro8-computer-d279451b.md) |
-| SheerSt/pokewilds | partial | 2026-08-16T18:48:53Z | [open](../records/assembly-sheerst-pokewilds-24e08e0a.md) |
-| sim-/tgy | partial | 2023-08-25T13:31:32Z | [open](../records/assembly-sim-tgy-fbe11e77.md) |
-| SpinalHDL/VexRiscv | partial | 2026-08-31T15:50:35Z | [open](../records/assembly-spinalhdl-vexriscv-32462403.md) |
-| tgrysztar/fasm | partial | 2026-02-24T12:17:59Z | [open](../records/assembly-tgrysztar-fasm-9d9633d5.md) |
-| tsoding/pinpog | partial | 2021-08-27T17:59:43Z | [open](../records/assembly-tsoding-pinpog-a14e3af2.md) |
-| tuhdo/sample-os | partial | 2017-09-12T04:54:16Z | [open](../records/assembly-tuhdo-sample-os-e861f8fb.md) |
-| TunSafe/TunSafe | partial | 2021-06-07T14:48:44Z | [open](../records/assembly-tunsafe-tunsafe-d136fb85.md) |
-| Unity-Technologies/com.unity.webrtc | partial | 2026-08-18T02:46:47Z | [open](../records/assembly-unity-technologies-com-unity-webrtc-4e7b1f20.md) |
-| videolan/dav1d | partial | 2026-08-14T18:18:13Z | [open](../records/assembly-videolan-dav1d-9dfd565a.md) |
-| videolan/x265 | partial | 2023-09-11T18:48:51Z | [open](../records/assembly-videolan-x265-a7ebef11.md) |
-| virtualagc/virtualagc | partial | 2026-08-31T17:12:53Z | [open](../records/assembly-virtualagc-virtualagc-45e1ca87.md) |
-| VitorVilela7/wide-snes | partial | 2023-07-03T20:54:27Z | [open](../records/assembly-vitorvilela7-wide-snes-d07bc41e.md) |
-| vxunderground/MalwareSourceCode | partial | 2026-05-30T07:11:00Z | [open](../records/assembly-vxunderground-malwaresourcecode-7c22542f.md) |
-| xiph/rav1e | partial | 2026-08-31T21:22:51Z | [open](../records/assembly-xiph-rav1e-5183562e.md) |
-| xuhongv/StudyInEsp8266 | partial | 2021-05-28T09:37:16Z | [open](../records/assembly-xuhongv-studyinesp8266-c596a5a9.md) |
-| z88dk/z88dk | partial | 2026-09-01T07:14:59Z | [open](../records/assembly-z88dk-z88dk-83b731fe.md) |
-| Zeal8bit/Zeal-8-bit-OS | partial | 2026-08-13T15:11:49Z | [open](../records/assembly-zeal8bit-zeal-8-bit-os-acb9785d.md) |
-| zladx/LADX-Disassembly | partial | 2026-08-27T18:45:27Z | [open](../records/assembly-zladx-ladx-disassembly-b62b79d3.md) |
+| 100thCoin/AccuracyCoin | unknown | github_latest_release_missing | [open](../records/assembly-100thcoin-accuracycoin-a8cc820c.md) |
+| adriancable/8086tiny | unknown | github_latest_release_missing | [open](../records/assembly-adriancable-8086tiny-c1d50ad4.md) |
+| akkartik/mu | unknown | github_latest_release_missing | [open](../records/assembly-akkartik-mu-02abed58.md) |
+| alvin-tosh/Malware-Exhibit | unknown | github_latest_release_missing | [open](../records/assembly-alvin-tosh-malware-exhibit-e411e5da.md) |
+| apple/swift-crypto | 4.5.1 | 2026-07-16T12:31:33Z | [open](../records/assembly-apple-swift-crypto-1f447802.md) |
+| Apress/low-level-programming | v1.0 | 2017-07-14T15:19:19Z | [open](../records/assembly-apress-low-level-programming-3b2dd27a.md) |
+| aws/aws-lc | v5.7.0 | 2026-08-31T19:25:53Z | [open](../records/assembly-aws-aws-lc-29f8be23.md) |
+| below/HelloSilicon | 1.3 | 2022-03-17T13:09:30Z | [open](../records/assembly-below-hellosilicon-8ff6614f.md) |
+| bitdump/BLHeli | Rev32.10 | 2023-11-12T13:21:55Z | [open](../records/assembly-bitdump-blheli-5d346476.md) |
+| blackbird71SR/Hello-World | unknown | github_latest_release_missing | [open](../records/assembly-blackbird71sr-hello-world-2fa43546.md) |
+| BLAKE3-team/BLAKE3 | 1.8.7 | 2026-08-20T09:06:20Z | [open](../records/assembly-blake3-team-blake3-cc15f4ed.md) |
+| bluewaysw/pcgeos | unknown | github_latest_release_missing | [open](../records/assembly-bluewaysw-pcgeos-aee787b1.md) |
+| briansmith/ring | unknown | github_latest_release_missing | [open](../records/assembly-briansmith-ring-3a265118.md) |
+| bytecode77/pe-union | unknown | github_latest_release_missing | [open](../records/assembly-bytecode77-pe-union-295ee237.md) |
+| cemu-project/cemu_graphic_packs | Github980 | 2026-07-10T22:33:38Z | [open](../records/assembly-cemu-project-cemu-graphic-packs-a02e8956.md) |
+| chrislgarry/Apollo-11 | unknown | github_latest_release_missing | [open](../records/assembly-chrislgarry-apollo-11-bb6b16f2.md) |
+| cirosantilli/x86-assembly-cheat | unknown | github_latest_release_missing | [open](../records/assembly-cirosantilli-x86-assembly-cheat-6fe4201b.md) |
+| cirosantilli/x86-bare-metal-examples | unknown | github_latest_release_missing | [open](../records/assembly-cirosantilli-x86-bare-metal-examples-4f8cf123.md) |
+| corkami/pics | unknown | github_latest_release_missing | [open](../records/assembly-corkami-pics-3e6c0218.md) |
+| corkami/pocs | unknown | github_latest_release_missing | [open](../records/assembly-corkami-pocs-7ef21d37.md) |
+| daniel-e/tetros | 1 | 2016-10-01T17:17:47Z | [open](../records/assembly-daniel-e-tetros-151a0c96.md) |
+| DGivney/assemblytutorials | unknown | github_latest_release_missing | [open](../records/assembly-dgivney-assemblytutorials-61126c89.md) |
+| Dman95/SASM | v3.16.0 | 2026-02-08T18:16:39Z | [open](../records/assembly-dman95-sasm-d1b6bc2a.md) |
+| donno2048/snake | v32 | 2025-10-22T18:52:59Z | [open](../records/assembly-donno2048-snake-7b4fe8af.md) |
+| DOS-History/Paterson-Listings | initial-release | 2026-04-21T23:29:53Z | [open](../records/assembly-dos-history-paterson-listings-1b2b8faa.md) |
+| dspinellis/unix-history-repo | unknown | github_latest_release_missing | [open](../records/assembly-dspinellis-unix-history-repo-77c8ee7b.md) |
+| dwelch67/raspberrypi | unknown | github_latest_release_missing | [open](../records/assembly-dwelch67-raspberrypi-a219633c.md) |
+| ebitengine/purego | v0.11.0 | 2026-09-01T10:46:50Z | [open](../records/assembly-ebitengine-purego-a5231eb8.md) |
+| espressif/esp-dl | v3.2.0 | 2025-10-23T06:23:34Z | [open](../records/assembly-espressif-esp-dl-82fca433.md) |
+| fcambus/spleen | 2.2.0 | 2026-02-01T10:54:20Z | [open](../records/assembly-fcambus-spleen-889e6477.md) |
+| grimdoomer/Xbox360BadUpdate | BadUpdate-v1.3 | 2026-08-05T23:12:45Z | [open](../records/assembly-grimdoomer-xbox360badupdate-0bdca866.md) |
+| hackclub/some-assembly-required | unknown | github_latest_release_missing | [open](../records/assembly-hackclub-some-assembly-required-91450888.md) |
+| hasherezade/malware_training_vol1 | unknown | github_latest_release_missing | [open](../records/assembly-hasherezade-malware-training-vol1-897623a6.md) |
+| HazyResearch/hyena-dna | unknown | github_latest_release_missing | [open](../records/assembly-hazyresearch-hyena-dna-32e6b277.md) |
+| HazyResearch/safari | unknown | github_latest_release_missing | [open](../records/assembly-hazyresearch-safari-ce5609e7.md) |
+| icebreaker/floppybird | unknown | github_latest_release_missing | [open](../records/assembly-icebreaker-floppybird-0b70ef49.md) |
+| intel/optimization-manual | may-2023 | 2023-05-24T22:50:37Z | [open](../records/assembly-intel-optimization-manual-fce59491.md) |
+| jmechner/Prince-of-Persia-Apple-II | unknown | github_latest_release_missing | [open](../records/assembly-jmechner-prince-of-persia-apple-ii-f90e7981.md) |
+| JSsixtyfour/smashremix | 2.0.1 | 2026-03-08T22:01:34Z | [open](../records/assembly-jssixtyfour-smashremix-3676fb2a.md) |
+| jthuraisamy/SysWhispers | unknown | github_latest_release_missing | [open](../records/assembly-jthuraisamy-syswhispers-6a63ec1e.md) |
+| jthuraisamy/SysWhispers2 | unknown | github_latest_release_missing | [open](../records/assembly-jthuraisamy-syswhispers2-a7a2bf36.md) |
+| kanaka/mal | unknown | github_latest_release_missing | [open](../records/assembly-kanaka-mal-91648198.md) |
+| kaxap/arl | unknown | github_latest_release_missing | [open](../records/assembly-kaxap-arl-19c4f0de.md) |
+| klauspost/reedsolomon | v1.14.2 | 2026-08-19T15:50:06Z | [open](../records/assembly-klauspost-reedsolomon-2ebcc787.md) |
+| klezVirus/inceptor | unknown | github_latest_release_missing | [open](../records/assembly-klezvirus-inceptor-3f952d37.md) |
+| KnightOS/KnightOS | unknown | github_latest_release_missing | [open](../records/assembly-knightos-knightos-0141de07.md) |
+| leachim6/hello-world | unknown | github_latest_release_missing | [open](../records/assembly-leachim6-hello-world-518b0b2f.md) |
+| matanki-saito/EU4dll | 93 | 2026-03-30T04:23:21Z | [open](../records/assembly-matanki-saito-eu4dll-aedee506.md) |
+| microsoft/BASIC-M6502 | unknown | github_latest_release_missing | [open](../records/assembly-microsoft-basic-m6502-66ceb6b5.md) |
+| microsoft/MS-DOS | unknown | github_latest_release_missing | [open](../records/assembly-microsoft-ms-dos-eb2a4b43.md) |
+| mikeroyal/RISC-V-Guide | unknown | github_latest_release_missing | [open](../records/assembly-mikeroyal-risc-v-guide-dfd455c4.md) |
+| mirrorer/libbpg | unknown | github_latest_release_missing | [open](../records/assembly-mirrorer-libbpg-745138b3.md) |
+| mschwartz/assembly-tutorial | unknown | github_latest_release_missing | [open](../records/assembly-mschwartz-assembly-tutorial-860de2bf.md) |
+| mtuomi/SecondReality | unknown | github_latest_release_missing | [open](../records/assembly-mtuomi-secondreality-5c489f57.md) |
+| mytechnotalent/Reverse-Engineering | unknown | github_latest_release_missing | [open](../records/assembly-mytechnotalent-reverse-engineering-73d01425.md) |
+| nanochess/bootOS | unknown | github_latest_release_missing | [open](../records/assembly-nanochess-bootos-3579b41b.md) |
+| nemasu/asmttpd | 0.4.5 | 2021-01-15T05:14:10Z | [open](../records/assembly-nemasu-asmttpd-9a612693.md) |
+| netwide-assembler/nasm | unknown | github_latest_release_missing | [open](../records/assembly-netwide-assembler-nasm-7b1656d3.md) |
+| niekiran/Embedded-C | unknown | github_latest_release_missing | [open](../records/assembly-niekiran-embedded-c-9b420b87.md) |
+| nmlgc/ReC98 | P0335 | 2026-03-16T23:22:51Z | [open](../records/assembly-nmlgc-rec98-693bb348.md) |
+| nornagon/jonesforth | unknown | github_latest_release_missing | [open](../records/assembly-nornagon-jonesforth-691f782b.md) |
+| obdev/v-usb | unknown | github_latest_release_missing | [open](../records/assembly-obdev-v-usb-977cf25b.md) |
+| openhwgroup/core-v-verif | cv32e40p_v1.8.3 | 2024-07-11T14:53:48Z | [open](../records/assembly-openhwgroup-core-v-verif-9b6682d3.md) |
+| openhwgroup/cva6 | v5.3.0 | 2025-02-03T14:45:13Z | [open](../records/assembly-openhwgroup-cva6-c0f79b44.md) |
+| oriansj/stage0 | Release_0.4.0 | 2020-11-14T18:58:50Z | [open](../records/assembly-oriansj-stage0-6791bc52.md) |
+| Overv/MineAssemble | unknown | github_latest_release_missing | [open](../records/assembly-overv-mineassemble-4e2e626b.md) |
+| PDP-10/its | unknown | github_latest_release_missing | [open](../records/assembly-pdp-10-its-cfa6e89a.md) |
+| pkivolowitz/asm_book | unknown | github_latest_release_missing | [open](../records/assembly-pkivolowitz-asm-book-b080ef6b.md) |
+| PluMGMK/vbesvga.drv | v1.0-beta4 | 2026-07-25T12:27:26Z | [open](../records/assembly-plumgmk-vbesvga-drv-17dbec94.md) |
+| PlummersSoftwareLLC/TinyRetroPad | unknown | github_latest_release_missing | [open](../records/assembly-plummerssoftwarellc-tinyretropad-9938f18a.md) |
+| pooler/cpuminer | v2.5.1 | 2020-06-25T15:50:23Z | [open](../records/assembly-pooler-cpuminer-f94e15ef.md) |
+| pret/pokecrystal | unknown | github_latest_release_missing | [open](../records/assembly-pret-pokecrystal-513db7cc.md) |
+| pret/pokegold | unknown | github_latest_release_missing | [open](../records/assembly-pret-pokegold-982759e3.md) |
+| pret/pokered | unknown | github_latest_release_missing | [open](../records/assembly-pret-pokered-f921a9c0.md) |
+| pret/pokeyellow | unknown | github_latest_release_missing | [open](../records/assembly-pret-pokeyellow-f91bcc26.md) |
+| PrincetonUniversity/openpiton | unknown | github_latest_release_missing | [open](../records/assembly-princetonuniversity-openpiton-eceb776d.md) |
+| RandalLinden/DOOM-FX | unknown | github_latest_release_missing | [open](../records/assembly-randallinden-doom-fx-76b45172.md) |
+| Rangi42/polishedcrystal | v3.2.3 | 2025-12-12T00:01:24Z | [open](../records/assembly-rangi42-polishedcrystal-55bf1d37.md) |
+| ReturnInfinity/BareMetal | 2026.04 | 2026-04-29T18:21:47Z | [open](../records/assembly-returninfinity-baremetal-0b151ed8.md) |
+| ReturnInfinity/BareMetal-OS-legacy | v0.6.1 | 2013-08-20T01:11:10Z | [open](../records/assembly-returninfinity-baremetal-os-legacy-09317d7c.md) |
+| RibShark/OmniDrive | v1.0.4 | 2026-07-18T06:48:57Z | [open](../records/assembly-ribshark-omnidrive-32257d20.md) |
+| riscv-software-src/riscv-tests | unknown | github_latest_release_missing | [open](../records/assembly-riscv-software-src-riscv-tests-77e7e3cb.md) |
+| riscv/riscv-arch-test | 4.0.0 | 2026-04-16T17:21:16Z | [open](../records/assembly-riscv-riscv-arch-test-0b5f8870.md) |
+| riscvarchive/riscv-v-spec | zvfh | 2023-05-02T22:48:45Z | [open](../records/assembly-riscvarchive-riscv-v-spec-60c48d12.md) |
+| ROCm/MIOpen | rocm-7.2.3 | 2026-05-05T13:21:01Z | [open](../records/assembly-rocm-miopen-1181b14a.md) |
+| sam-astro/Astro8-Computer | v3.4.3-alpha | 2025-01-13T19:51:03Z | [open](../records/assembly-sam-astro-astro8-computer-d279451b.md) |
+| SheerSt/pokewilds | v0.8.11 | 2024-01-17T14:35:56Z | [open](../records/assembly-sheerst-pokewilds-24e08e0a.md) |
+| sim-/tgy | 2015-09-12 | 2015-10-07T05:55:40Z | [open](../records/assembly-sim-tgy-fbe11e77.md) |
+| SpinalHDL/VexRiscv | unknown | github_latest_release_missing | [open](../records/assembly-spinalhdl-vexriscv-32462403.md) |
+| tgrysztar/fasm | unknown | github_latest_release_missing | [open](../records/assembly-tgrysztar-fasm-9d9633d5.md) |
+| tsoding/pinpog | 1.0 | 2019-07-31T19:20:52Z | [open](../records/assembly-tsoding-pinpog-a14e3af2.md) |
+| tuhdo/sample-os | unknown | github_latest_release_missing | [open](../records/assembly-tuhdo-sample-os-e861f8fb.md) |
+| TunSafe/TunSafe | unknown | github_latest_release_missing | [open](../records/assembly-tunsafe-tunsafe-d136fb85.md) |
+| Unity-Technologies/com.unity.webrtc | 3.0.0-pre.6 | 2023-07-12T05:24:27Z | [open](../records/assembly-unity-technologies-com-unity-webrtc-4e7b1f20.md) |
+| videolan/dav1d | 0.1.0 | 2018-12-15T11:25:35Z | [open](../records/assembly-videolan-dav1d-9dfd565a.md) |
+| videolan/x265 | unknown | github_latest_release_missing | [open](../records/assembly-videolan-x265-a7ebef11.md) |
+| virtualagc/virtualagc | 20221005 | 2022-10-05T10:35:22Z | [open](../records/assembly-virtualagc-virtualagc-45e1ca87.md) |
+| VitorVilela7/wide-snes | v1.11 | 2022-09-02T17:21:13Z | [open](../records/assembly-vitorvilela7-wide-snes-d07bc41e.md) |
+| vxunderground/MalwareSourceCode | unknown | github_latest_release_missing | [open](../records/assembly-vxunderground-malwaresourcecode-7c22542f.md) |
+| xiph/rav1e | v0.8.1 | 2025-06-16T09:39:26Z | [open](../records/assembly-xiph-rav1e-5183562e.md) |
+| xuhongv/StudyInEsp8266 | unknown | github_latest_release_missing | [open](../records/assembly-xuhongv-studyinesp8266-c596a5a9.md) |
+| z88dk/z88dk | v2.4 | 2025-10-02T07:36:53Z | [open](../records/assembly-z88dk-z88dk-83b731fe.md) |
+| Zeal8bit/Zeal-8-bit-OS | v0.7.0 | 2026-03-24T15:36:27Z | [open](../records/assembly-zeal8bit-zeal-8-bit-os-acb9785d.md) |
+| zladx/LADX-Disassembly | unknown | github_latest_release_missing | [open](../records/assembly-zladx-ladx-disassembly-b62b79d3.md) |
 
 ## Pattern language
 
@@ -811,11 +820,11 @@ Records: `833`
 | Effective-Java-3rd-Joshua-Bloch | unknown | awesome_list_does_not_include_release_date | [open](../records/pattern-language-effective-java-3rd-joshua-bloch-b7f829e6.md) |
 | es6 design patterns | unknown | awesome_list_does_not_include_release_date | [open](../records/pattern-language-es6-design-patterns-e6d87e08.md) |
 | humans | unknown | awesome_list_does_not_include_release_date | [open](../records/pattern-language-humans-f86f291c.md) |
-| jettbrains/-L- | partial | 2021-08-18T13:41:54Z | [open](../records/pattern-language-jettbrains-l-79bdf591.md) |
-| kauemurakami/getx_pattern | partial | 2023-01-04T12:00:45Z | [open](../records/pattern-language-kauemurakami-getx-pattern-12da1121.md) |
+| jettbrains/-L- | unknown | github_latest_release_missing | [open](../records/pattern-language-jettbrains-l-79bdf591.md) |
+| kauemurakami/getx_pattern | unknown | github_latest_release_missing | [open](../records/pattern-language-kauemurakami-getx-pattern-12da1121.md) |
 | oodesign | unknown | awesome_list_does_not_include_release_date | [open](../records/pattern-language-oodesign-a4146ecf.md) |
-| rodrigorodrigues/microservices-design-patterns | partial | 2026-08-29T19:46:03Z | [open](../records/pattern-language-rodrigorodrigues-microservices-design-patterns-379144c2.md) |
-| sanusanth/c-basic-programs | partial | 2021-07-24T11:30:02Z | [open](../records/pattern-language-sanusanth-c-basic-programs-1f309b84.md) |
+| rodrigorodrigues/microservices-design-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-rodrigorodrigues-microservices-design-patterns-379144c2.md) |
+| sanusanth/c-basic-programs | unknown | github_latest_release_missing | [open](../records/pattern-language-sanusanth-c-basic-programs-1f309b84.md) |
 | sourcemaking | unknown | awesome_list_does_not_include_release_date | [open](../records/pattern-language-sourcemaking-eb7fd693.md) |
 
 ## PHP
@@ -1076,5 +1085,5 @@ Records: `833`
 | akkuscm/akku | partial | 2026-08-08T11:48:54.040Z | [open](../records/repository-workplaces-akkuscm-akku-7c79305d.md) |
 | basile.b/dexed | partial | 2026-08-31T10:12:27.379Z | [open](../records/repository-workplaces-basile-b-dexed-aa92ba59.md) |
 | camelot/kickc | partial | 2025-06-17T06:28:35.793Z | [open](../records/repository-workplaces-camelot-kickc-2feefccb.md) |
-| gitlab-org/editor-extensions/gitlab-lsp | partial | 2026-09-01T09:36:06.346Z | [open](../records/repository-workplaces-gitlab-org-editor-extensions-gitlab-lsp-3ca66d5c.md) |
+| gitlab-org/editor-extensions/gitlab-lsp | partial | 2026-09-01T12:13:57.480Z | [open](../records/repository-workplaces-gitlab-org-editor-extensions-gitlab-lsp-3ca66d5c.md) |
 | Polly-lang/Polly | partial | 2018-04-23T08:44:56.058Z | [open](../records/repository-workplaces-polly-lang-polly-4337e87f.md) |

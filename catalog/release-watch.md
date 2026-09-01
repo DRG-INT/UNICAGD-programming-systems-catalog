@@ -1,47 +1,74 @@
 # Release Watch
 
-Generated: `2026-09-01T11:22:18+00:00`
+Generated: `2026-09-01T12:30:37+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
 ## Category Index
 
-[Api Abi Checker (115)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (33)](by-category/assertion-mocking.md) · [Async Runtime (105)](by-category/async-runtime.md)
-[Benchmarking (73)](by-category/benchmarking.md) · [Build System (583)](by-category/build-system.md) · [Cli (450)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Api Abi Checker (127)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (33)](by-category/assertion-mocking.md) · [Async Runtime (106)](by-category/async-runtime.md)
+[Benchmarking (74)](by-category/benchmarking.md) · [Build System (590)](by-category/build-system.md) · [Cli (451)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (67)](by-category/community-reference.md) · [Compiler (122)](by-category/compiler.md) · [Compiler Diagnostics (18)](by-category/compiler-diagnostics.md) · [Compression (36)](by-category/compression.md)
-[Concurrency Parallelism (63)](by-category/concurrency-parallelism.md) · [Configuration (71)](by-category/configuration.md) · [Container Deployment (7)](by-category/container-deployment.md) · [Coverage (10)](by-category/coverage.md)
-[Cryptography (132)](by-category/cryptography.md) · [Data Science (30)](by-category/data-science.md) · [Database Datastore (437)](by-category/database-datastore.md) · [Datetime (100)](by-category/datetime.md)
+[Concurrency Parallelism (63)](by-category/concurrency-parallelism.md) · [Configuration (73)](by-category/configuration.md) · [Container Deployment (7)](by-category/container-deployment.md) · [Coverage (10)](by-category/coverage.md)
+[Cryptography (132)](by-category/cryptography.md) · [Data Science (30)](by-category/data-science.md) · [Database Datastore (437)](by-category/database-datastore.md) · [Datetime (104)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (35)](by-category/debugger.md) · [Dependency Manager (61)](by-category/dependency-manager.md) · [Documentation (62)](by-category/documentation.md)
-[Embedded Hardware (38)](by-category/embedded-hardware.md) · [Ffi Bindings (320)](by-category/ffi-bindings.md) · [Filesystem Os (745)](by-category/filesystem-os.md) · [Formatter (441)](by-category/formatter.md)
-[Framework (38)](by-category/framework.md) · [Fuzzer (24)](by-category/fuzzer.md) · [Game Engine Game Dev (103)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (844)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (183)](by-category/image-audio-dsp.md) · [Interop Bindings (47)](by-category/interop-bindings.md) · [Interpreter Runtime (158)](by-category/interpreter-runtime.md) · [Jit Vm (55)](by-category/jit-vm.md)
-[Language Server (23)](by-category/language-server.md) · [Language Specification (833)](by-category/language-specification.md) · [Library (3355)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (34)](by-category/lint-rule-pack.md) · [Linter (330)](by-category/linter.md) · [Logging Observability (258)](by-category/logging-observability.md) · [Machine Learning (382)](by-category/machine-learning.md)
-[Math Numeric Scientific (70)](by-category/math-numeric-scientific.md) · [Memory Analyzer (54)](by-category/memory-analyzer.md) · [Message Broker (24)](by-category/message-broker.md) · [Networking Http (691)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (199)](by-category/package-manager.md) · [Parser Lexer Ast (592)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (171)](by-category/precommit-ci-quality.md)
-[Profiler (57)](by-category/profiler.md) · [Project Scaffolding (90)](by-category/project-scaffolding.md) · [Registry Repository (105)](by-category/registry-repository.md) · [Sanitizer (8)](by-category/sanitizer.md)
-[Security Sast (268)](by-category/security-sast.md) · [Serialization (272)](by-category/serialization.md) · [Standard Library (22)](by-category/standard-library.md) · [Static Analyzer (270)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (418)](by-category/testing-framework.md) · [Tutorial Book Styleguide (42)](by-category/tutorial-book-styleguide.md) · [Type Checker (261)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (996)](by-category/undefined-behavior-analyzer.md) · [Utility Library (80)](by-category/utility-library.md) · [Visualization Gui (277)](by-category/visualization-gui.md) · [Web Framework (298)](by-category/web-framework.md)
+[Embedded Hardware (39)](by-category/embedded-hardware.md) · [Ffi Bindings (324)](by-category/ffi-bindings.md) · [Filesystem Os (761)](by-category/filesystem-os.md) · [Formatter (442)](by-category/formatter.md)
+[Framework (38)](by-category/framework.md) · [Fuzzer (30)](by-category/fuzzer.md) · [Game Engine Game Dev (104)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (850)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (184)](by-category/image-audio-dsp.md) · [Interop Bindings (48)](by-category/interop-bindings.md) · [Interpreter Runtime (161)](by-category/interpreter-runtime.md) · [Jit Vm (55)](by-category/jit-vm.md)
+[Language Server (23)](by-category/language-server.md) · [Language Specification (837)](by-category/language-specification.md) · [Library (3388)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (38)](by-category/lint-rule-pack.md) · [Linter (334)](by-category/linter.md) · [Logging Observability (259)](by-category/logging-observability.md) · [Machine Learning (390)](by-category/machine-learning.md)
+[Math Numeric Scientific (70)](by-category/math-numeric-scientific.md) · [Memory Analyzer (54)](by-category/memory-analyzer.md) · [Message Broker (24)](by-category/message-broker.md) · [Networking Http (698)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (199)](by-category/package-manager.md) · [Parser Lexer Ast (598)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (176)](by-category/precommit-ci-quality.md)
+[Profiler (58)](by-category/profiler.md) · [Project Scaffolding (91)](by-category/project-scaffolding.md) · [Registry Repository (105)](by-category/registry-repository.md) · [Sanitizer (8)](by-category/sanitizer.md)
+[Security Sast (270)](by-category/security-sast.md) · [Serialization (272)](by-category/serialization.md) · [Standard Library (22)](by-category/standard-library.md) · [Static Analyzer (273)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (421)](by-category/testing-framework.md) · [Tutorial Book Styleguide (42)](by-category/tutorial-book-styleguide.md) · [Type Checker (264)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (1135)](by-category/undefined-behavior-analyzer.md) · [Utility Library (81)](by-category/utility-library.md) · [Visualization Gui (280)](by-category/visualization-gui.md) · [Web Framework (304)](by-category/web-framework.md)
 
 ## Coverage
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 8392 |
-| Unknown stable release | 7751 |
+| Known stable release | 8740 |
+| Unknown stable release | 7705 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| @sanity/cli | Node.js/JavaScript | Cli | 8.6.0 | 2026-09-01T12:22:06.468Z | [open](records/node-js-javascript-sanity-cli-257446f0.md) |
+| @sanity/cli-core | Node.js/JavaScript | Cli | 3.5.1 | 2026-09-01T12:21:59.010Z | [open](records/node-js-javascript-sanity-cli-core-cef78bf4.md) |
+| @lightdash/cli | Node.js/JavaScript | Cli | 2.71.3 | 2026-09-01T12:16:05.493Z | [open](records/node-js-javascript-lightdash-cli-ba24b859.md) |
+| @xemahq/biome-database-nest | Node.js/JavaScript | Interpreter Runtime | 0.22.0 | 2026-09-01T11:53:12.396Z | [open](records/node-js-javascript-xemahq-biome-database-nest-2c8095df.md) |
+| @rspack/cli | Node.js/JavaScript | Cli | 2.2.2 | 2026-09-01T11:45:15.831Z | [open](records/node-js-javascript-rspack-cli-8e6b6307.md) |
+| hostinger-api-mcp | Node.js/JavaScript | Web Framework | 1.52.2 | 2026-09-01T11:33:53.689Z | [open](records/node-js-javascript-hostinger-api-mcp-72a83612.md) |
+| @neaps/tide-database | Node.js/JavaScript | Undefined Behavior Analyzer | 0.9.20260901 | 2026-09-01T11:21:53.644Z | [open](records/node-js-javascript-neaps-tide-database-72059e90.md) |
+| i18next-cli | Node.js/JavaScript | Benchmarking | 1.72.1 | 2026-09-01T10:59:41.164Z | [open](records/node-js-javascript-i18next-cli-729ce142.md) |
+| @capgo/cli | Node.js/JavaScript | Web Framework | 8.45.2 | 2026-09-01T10:54:08.499Z | [open](records/node-js-javascript-capgo-cli-8e98e39d.md) |
+| http2 | Haskell | Networking Http | 5.4.4 | 2026-09-01T10:51:27Z | [open](records/haskell-http2-1c1cc60d.md) |
+| ebitengine/purego | Assembly | Language Specification | v0.11.0 | 2026-09-01T10:46:50Z | [open](records/assembly-ebitengine-purego-a5231eb8.md) |
+| parquet | Rust | Library | 59.3.0 | 2026-09-01T10:39:56.634282Z | [open](records/rust-parquet-b654bd75.md) |
+| @genesislcap/foundation-testing | Node.js/JavaScript | Testing Framework | 15.19.5 | 2026-09-01T10:39:09.459Z | [open](records/node-js-javascript-genesislcap-foundation-testing-9da0f708.md) |
+| arrow | Rust | Library | 59.3.0 | 2026-09-01T10:38:57.692364Z | [open](records/rust-arrow-5854bd39.md) |
+| arrow-row | Rust | Formatter | 59.3.0 | 2026-09-01T10:38:48.109866Z | [open](records/rust-arrow-row-d82ff8a4.md) |
+| arrow-string | Rust | Library | 59.3.0 | 2026-09-01T10:38:44.602087Z | [open](records/rust-arrow-string-eb4fe83c.md) |
+| arrow-arith | Rust | Library | 59.3.0 | 2026-09-01T10:38:39.568446Z | [open](records/rust-arrow-arith-4002c015.md) |
+| arrow-json | Rust | Formatter | 59.3.0 | 2026-09-01T10:38:34.132796Z | [open](records/rust-arrow-json-6fc174f5.md) |
+| arrow-csv | Rust | Formatter | 59.3.0 | 2026-09-01T10:38:29.058987Z | [open](records/rust-arrow-csv-364e5a69.md) |
+| arrow-ipc | Rust | Formatter | 59.3.0 | 2026-09-01T10:38:23.620158Z | [open](records/rust-arrow-ipc-8a349159.md) |
+| arrow-cast | Rust | Parser Lexer Ast | 59.3.0 | 2026-09-01T10:38:18.325847Z | [open](records/rust-arrow-cast-3b73debe.md) |
+| arrow-ord | Rust | Library | 59.3.0 | 2026-09-01T10:38:11.748906Z | [open](records/rust-arrow-ord-30fc1f45.md) |
+| arrow-select | Rust | Library | 59.3.0 | 2026-09-01T10:38:05.221351Z | [open](records/rust-arrow-select-e9055e7f.md) |
+| arrow-array | Rust | Library | 59.3.0 | 2026-09-01T10:37:58.426209Z | [open](records/rust-arrow-array-8a0b4819.md) |
+| arrow-data | Rust | Library | 59.3.0 | 2026-09-01T10:37:50.445216Z | [open](records/rust-arrow-data-eeddf0a2.md) |
+| arrow-schema | Rust | Logging Observability | 59.3.0 | 2026-09-01T10:37:46.420301Z | [open](records/rust-arrow-schema-3690b891.md) |
+| arrow-buffer | Rust | Library | 59.3.0 | 2026-09-01T10:37:42.795265Z | [open](records/rust-arrow-buffer-79e9f29f.md) |
+| @accio-ai/cli | Node.js/JavaScript | Cli | 0.1.54 | 2026-09-01T10:31:45.565Z | [open](records/node-js-javascript-accio-ai-cli-98437ac9.md) |
 | remotion-dev/remotion | Video | Build System | v4.0.520 | 2026-09-01T10:19:50Z | [open](records/video-remotion-dev-remotion-ab42498d.md) |
 | @remotion/studio-server | Node.js/JavaScript | Web Framework | 4.0.520 | 2026-09-01T10:13:57.721Z | [open](records/node-js-javascript-remotion-studio-server-ed620dc3.md) |
 | doctrine/mongodb-odm | PHP | Ide Editor Integration | 2.17.0 | 2026-09-01T10:03:58+00:00 | [open](records/php-doctrine-mongodb-odm-6070bed1.md) |
 | oui-data | Node.js/JavaScript | Serialization | 2.1.13 | 2026-09-01T09:35:59.150Z | [open](records/node-js-javascript-oui-data-c721fc74.md) |
 | windmill-cli | Node.js/JavaScript | Cli | 1.800.1 | 2026-09-01T09:35:47.911Z | [open](records/node-js-javascript-windmill-cli-71546be7.md) |
 | fast-content-type-parse | Node.js/JavaScript | Parser Lexer Ast | 4.0.0 | 2026-09-01T09:26:39.899Z | [open](records/node-js-javascript-fast-content-type-parse-043784a2.md) |
-| @lightdash/cli | Node.js/JavaScript | Cli | 2.68.1 | 2026-09-01T09:11:49.166Z | [open](records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | aas-standard-parser | Python | Language Specification | 0.6.7 | 2026-09-01T09:06:21.923425Z | [open](records/python-aas-standard-parser-556a520f.md) |
 | aas-http-client | Python | Networking Http | 1.2.9 | 2026-09-01T09:02:45.928850Z | [open](records/python-aas-http-client-f4b7c495.md) |
 | tricorder-mcp | Haskell | Library | 0.1.1.0 | 2026-09-01T08:57:38Z | [open](records/haskell-tricorder-mcp-95664038.md) |
@@ -53,6 +80,7 @@ Generated: `2026-09-01T11:22:18+00:00`
 | Jest | Node.js/JavaScript | Testing Framework | 30.5.1 | 2026-09-01T07:59:10.505Z | [open](records/node-js-javascript-jest-11d247aa.md) |
 | jest-cli | Node.js/JavaScript | Testing Framework | 30.5.1 | 2026-09-01T07:58:47.704Z | [open](records/node-js-javascript-jest-cli-444b4f5e.md) |
 | jest-haste-map | Node.js/JavaScript | Testing Framework | 30.5.1 | 2026-09-01T07:58:33.559Z | [open](records/node-js-javascript-jest-haste-map-e928a143.md) |
+| Dawn | Renderers | Visualization Gui | v20260831.205016 | 2026-09-01T07:47:43Z | [open](records/renderers-dawn-e113c4c1.md) |
 | modelscope/FunASR | Audio | Package Manager | v1.4.12 | 2026-09-01T07:24:49Z | [open](records/audio-modelscope-funasr-8e089427.md) |
 | @coralogix/rum-cli | Node.js/JavaScript | Cli | 1.1.49 | 2026-09-01T07:16:03.669Z | [open](records/node-js-javascript-coralogix-rum-cli-c5da80b1.md) |
 | scc | Rust | Benchmarking | 3.8.8 | 2026-09-01T07:10:33.557110Z | [open](records/rust-scc-15b2137c.md) |
@@ -67,7 +95,6 @@ Generated: `2026-09-01T11:22:18+00:00`
 | 777arc/PySDR | Electromagnetoscopes | Ide Editor Integration | 2026-09-01 | 2026-09-01T06:21:19Z | [open](records/electromagnetoscopes-777arc-pysdr-75b8d003.md) |
 | @socketsecurity/cli | Node.js/JavaScript | Security Sast | 1.1.163 | 2026-09-01T06:12:19.930Z | [open](records/node-js-javascript-socketsecurity-cli-52cf377d.md) |
 | @coana-tech/cli | Node.js/JavaScript | Cli | 15.10.28 | 2026-09-01T06:11:29.412Z | [open](records/node-js-javascript-coana-tech-cli-ce9cbfe4.md) |
-| i18next-cli | Node.js/JavaScript | Benchmarking | 1.72.0 | 2026-09-01T05:39:56.213Z | [open](records/node-js-javascript-i18next-cli-729ce142.md) |
 | locize-cli | Node.js/JavaScript | Cli | 12.7.0 | 2026-09-01T05:39:48.244Z | [open](records/node-js-javascript-locize-cli-9156d8b9.md) |
 | skymanbp/autoshade | Photography | Formatter | v1.2.0 | 2026-09-01T05:18:17Z | [open](records/photography-skymanbp-autoshade-295e9968.md) |
 | @github/copilot-language-server-linux-x64 | Node.js/JavaScript | Language Specification | 1.539.0 | 2026-09-01T04:35:18.800Z | [open](records/node-js-javascript-github-copilot-language-server-linux-x64-02307b0b.md) |
@@ -98,8 +125,22 @@ Generated: `2026-09-01T11:22:18+00:00`
 | @cloudflare/workers-types | Node.js/TypeScript | Type Checker | 5.20260901.1 | 2026-09-01T01:27:20.992Z | [open](records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) |
 | 3tears-datasources | Python | Serialization | 0.30.1 | 2026-09-01T01:25:04.918187Z | [open](records/python-3tears-datasources-cec83b63.md) |
 | chewie | Dart | Ide Editor Integration | 1.16.1 | 2026-09-01T01:22:37.748764Z | [open](records/dart-chewie-3ede5409.md) |
+| Loyalsoldier/clash-rules | Maps | Lint Rule Pack | 202609010121 | 2026-09-01T01:21:45Z | [open](records/maps-loyalsoldier-clash-rules-35bed208.md) |
+| Loyalsoldier/surge-rules | Maps | Lint Rule Pack | 202609010120 | 2026-09-01T01:20:32Z | [open](records/maps-loyalsoldier-surge-rules-7d51c30a.md) |
 | Belphemur/SoundSwitch | Audio | Fuzzer | v7.3.3 | 2026-09-01T01:19:01Z | [open](records/audio-belphemur-soundswitch-43ca702e.md) |
+| Loyalsoldier/v2ray-rules-dat | Maps | Lint Rule Pack | 202609010056 | 2026-09-01T00:56:42Z | [open](records/maps-loyalsoldier-v2ray-rules-dat-36af9fdf.md) |
 | @gltf-transform/cli | Node.js/JavaScript | Cli | 4.5.0 | 2026-09-01T00:43:18.551Z | [open](records/node-js-javascript-gltf-transform-cli-56392446.md) |
+| osmdata | R | Filesystem Os | 0.4.1 | 2026-09-01 12:00:02 UTC | [open](records/r-osmdata-d9fea34c.md) |
+| fastgbm | R | Static Analyzer | 0.6.1 | 2026-09-01 11:50:12 UTC | [open](records/r-fastgbm-ada3bf02.md) |
+| insurancerating | R | Precommit Ci Quality | 0.8.2 | 2026-09-01 11:50:02 UTC | [open](records/r-insurancerating-fcf34652.md) |
+| Keng | R | Library | 2026.9.0 | 2026-09-01 11:40:23 UTC | [open](records/r-keng-3c943f29.md) |
+| datom | R | Profiler | 0.1.1 | 2026-09-01 11:40:15 UTC | [open](records/r-datom-465d8abc.md) |
+| distspec | R | Machine Learning | 0.2.0 | 2026-09-01 11:40:09 UTC | [open](records/r-distspec-7a6e82bf.md) |
+| mLLMCelltype | R | Language Specification | 2.0.8 | 2026-09-01 11:40:02 UTC | [open](records/r-mllmcelltype-eb79340b.md) |
+| phynotype | R | Library | 0.6.2 | 2026-09-01 11:30:02 UTC | [open](records/r-phynotype-dd4d59bc.md) |
+| envnames | R | Configuration | 0.4.2 | 2026-09-01 10:30:18 UTC | [open](records/r-envnames-bb1ac672.md) |
+| logtree | R | Logging Observability | 0.2.0 | 2026-09-01 10:30:10 UTC | [open](records/r-logtree-c8fc4dc5.md) |
+| messydates | R | Datetime | 1.1.1 | 2026-09-01 10:30:03 UTC | [open](records/r-messydates-74d00e9f.md) |
 | pdftools | R | Library | 3.9.1 | 2026-09-01 10:20:02 UTC | [open](records/r-pdftools-edd0e31f.md) |
 | xpose.xtras | R | Filesystem Os | 0.2.2 | 2026-09-01 10:10:03 UTC | [open](records/r-xpose-xtras-bb40722d.md) |
 | clipp | R | Cli | 1.2.0 | 2026-09-01 09:50:12 UTC | [open](records/r-clipp-54988171.md) |
@@ -143,6 +184,7 @@ Generated: `2026-09-01T11:22:18+00:00`
 | @aws-sdk/client-codeguru-security | Node.js/JavaScript | Security Sast | 3.1123.0 | 2026-08-31T22:49:42.219Z | [open](records/node-js-javascript-aws-sdk-client-codeguru-security-dd61543a.md) |
 | @reachu/database | Node.js/JavaScript | Database Datastore | 1.0.244 | 2026-08-31T22:45:11.538Z | [open](records/node-js-javascript-reachu-database-71fc6337.md) |
 | protobuf-codegen | Rust | Serialization | 3.7.2 | 2026-08-31T22:43:24.541922Z | [open](records/rust-protobuf-codegen-85ace733.md) |
+| radarlabs/radar-sdk-js | Maps | Precommit Ci Quality | v5.1.3 | 2026-08-31T22:42:54Z | [open](records/maps-radarlabs-radar-sdk-js-03959a75.md) |
 | Lakr233/vphone-cli | Swift | Language Specification | 1.0.13 | 2026-08-31T22:34:36Z | [open](records/swift-lakr233-vphone-cli-8827d54c.md) |
 | simple-smt | Haskell | Library | 1.0.1 | 2026-08-31T22:28:21Z | [open](records/haskell-simple-smt-901983e2.md) |
 | @prosopo/types-database | Node.js/JavaScript | Database Datastore | 5.3.3 | 2026-08-31T22:04:36.182Z | [open](records/node-js-javascript-prosopo-types-database-4163c4a1.md) |
@@ -200,6 +242,7 @@ Generated: `2026-09-01T11:22:18+00:00`
 | copy_with_extension | Dart | Library | 17.1.0 | 2026-08-31T19:38:07.619098Z | [open](records/dart-copy-with-extension-01597e57.md) |
 | @astrojs/language-server | Node.js/JavaScript | Language Specification | 2.16.16 | 2026-08-31T19:37:41.058Z | [open](records/node-js-javascript-astrojs-language-server-17f2a6f3.md) |
 | wiltodelta/remove-ai-watermarks | Video | Ide Editor Integration | v0.36.0 | 2026-08-31T19:27:02Z | [open](records/video-wiltodelta-remove-ai-watermarks-ac76ecc7.md) |
+| aws/aws-lc | Assembly | Language Specification | v5.7.0 | 2026-08-31T19:25:53Z | [open](records/assembly-aws-aws-lc-29f8be23.md) |
 | @stacksjs/desktop-build | Node.js/JavaScript | Build System | 0.73.3 | 2026-08-31T19:07:37.640Z | [open](records/node-js-javascript-stacksjs-desktop-build-22b3a205.md) |
 | mockttp | Node.js/JavaScript | Undefined Behavior Analyzer | 4.6.2 | 2026-08-31T19:06:47.898Z | [open](records/node-js-javascript-mockttp-89826f51.md) |
 | @stacksjs/database | Node.js/JavaScript | Database Datastore | 0.73.3 | 2026-08-31T19:06:45.813Z | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
@@ -242,49 +285,6 @@ Generated: `2026-09-01T11:22:18+00:00`
 | @cubejs-backend/duckdb-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.31 | 2026-08-31T16:55:02.692Z | [open](records/node-js-javascript-cubejs-backend-duckdb-driver-01487aa6.md) |
 | @cubejs-backend/clickhouse-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.31 | 2026-08-31T16:54:59.422Z | [open](records/node-js-javascript-cubejs-backend-clickhouse-driver-4d0c7732.md) |
 | @cubejs-backend/bigquery-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.31 | 2026-08-31T16:54:58.951Z | [open](records/node-js-javascript-cubejs-backend-bigquery-driver-5b2b13fc.md) |
-| @cubejs-backend/testing-shared | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.31 | 2026-08-31T16:54:55.204Z | [open](records/node-js-javascript-cubejs-backend-testing-shared-ac633cbb.md) |
-| @cubejs-backend/pinot-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.31 | 2026-08-31T16:54:51.527Z | [open](records/node-js-javascript-cubejs-backend-pinot-driver-7a93e106.md) |
-| @cubejs-backend/databricks-jdbc-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.31 | 2026-08-31T16:54:51.516Z | [open](records/node-js-javascript-cubejs-backend-databricks-jdbc-driver-75fcf91d.md) |
-| @cubejs-backend/ksql-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.31 | 2026-08-31T16:54:51.494Z | [open](records/node-js-javascript-cubejs-backend-ksql-driver-8e496938.md) |
-| @cubejs-backend/druid-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.31 | 2026-08-31T16:54:51.147Z | [open](records/node-js-javascript-cubejs-backend-druid-driver-4b43d84c.md) |
-| @cubejs-backend/sqlite-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.31 | 2026-08-31T16:54:38.065Z | [open](records/node-js-javascript-cubejs-backend-sqlite-driver-1689cd48.md) |
-| @cubejs-backend/snowflake-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.31 | 2026-08-31T16:54:36.413Z | [open](records/node-js-javascript-cubejs-backend-snowflake-driver-8161f651.md) |
-| @cubejs-backend/prestodb-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.31 | 2026-08-31T16:54:34.661Z | [open](records/node-js-javascript-cubejs-backend-prestodb-driver-e59afba0.md) |
-| @cubejs-backend/oracle-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.31 | 2026-08-31T16:54:34.239Z | [open](records/node-js-javascript-cubejs-backend-oracle-driver-67860979.md) |
-| @cubejs-backend/jdbc-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.31 | 2026-08-31T16:54:30.639Z | [open](records/node-js-javascript-cubejs-backend-jdbc-driver-04d976e1.md) |
-| @w5s/prettier-config | Node.js/JavaScript | Formatter | 3.19.0 | 2026-08-31T16:46:54.394Z | [open](records/node-js-javascript-w5s-prettier-config-ba5528e4.md) |
-| @opentelemetry/instrumentation-xml-http-request | Node.js/JavaScript | Serialization | 0.222.0 | 2026-08-31T16:43:46.899Z | [open](records/node-js-javascript-opentelemetry-instrumentation-xml-http-request-941e855c.md) |
-| @opentelemetry/exporter-logs-otlp-proto | Node.js/JavaScript | Serialization | 0.222.0 | 2026-08-31T16:43:27.221Z | [open](records/node-js-javascript-opentelemetry-exporter-logs-otlp-proto-08b9a55a.md) |
-| @opentelemetry/instrumentation-http | Node.js/JavaScript | Networking Http | 0.222.0 | 2026-08-31T16:42:13.975Z | [open](records/node-js-javascript-opentelemetry-instrumentation-http-46c5cd91.md) |
-| @opentelemetry/propagator-jaeger | Node.js/JavaScript | Formatter | 2.11.0 | 2026-08-31T16:41:37.831Z | [open](records/node-js-javascript-opentelemetry-propagator-jaeger-0d713bfa.md) |
-| acryl-datahub-cloud | Python | Undefined Behavior Analyzer | 2.1.5 | 2026-08-31T16:34:41.830727Z | [open](records/python-acryl-datahub-cloud-e09f2208.md) |
-| @maxminddatabase/geolite2 | Node.js/JavaScript | Database Datastore | 1.0.294 | 2026-08-31T16:05:32.641Z | [open](records/node-js-javascript-maxminddatabase-geolite2-f679c34e.md) |
-| @taiga-ui/testing | Node.js/JavaScript | Testing Framework | 5.22.0 | 2026-08-31T16:01:43.699Z | [open](records/node-js-javascript-taiga-ui-testing-aedbf495.md) |
-| @o3r/testing | Node.js/JavaScript | Build System | 15.0.0 | 2026-08-31T15:40:13.330Z | [open](records/node-js-javascript-o3r-testing-238f6b93.md) |
-| chromatic | Node.js/JavaScript | Testing Framework | 18.7.2 | 2026-08-31T15:36:17.461Z | [open](records/node-js-javascript-chromatic-d4979463.md) |
-| ashuttl/linecast | Radars | Ide Editor Integration | v2.2.0 | 2026-08-31T15:35:03Z | [open](records/radars-ashuttl-linecast-afb4bdb7.md) |
-| @cspell/eslint-plugin | Node.js/JavaScript | Linter | 10.2.0 | 2026-08-31T15:32:52.151Z | [open](records/node-js-javascript-cspell-eslint-plugin-dc1e3d7d.md) |
-| @xemahq/biome-database-nest | Node.js/JavaScript | Interpreter Runtime | 0.21.0 | 2026-08-31T15:02:23.692Z | [open](records/node-js-javascript-xemahq-biome-database-nest-2c8095df.md) |
-| tower-http | Rust | Networking Http | 0.7.1 | 2026-08-31T14:49:25.697237Z | [open](records/rust-tower-http-3f8af071.md) |
-| @sanity/runtime-cli | Node.js/JavaScript | Interpreter Runtime | 17.11.0 | 2026-08-31T14:36:45.330Z | [open](records/node-js-javascript-sanity-runtime-cli-727107f0.md) |
-| @netlify/build | Node.js/JavaScript | Build System | 36.4.3 | 2026-08-31T14:26:14.171Z | [open](records/node-js-javascript-netlify-build-c4ef4802.md) |
-| @netlify/functions-utils | Node.js/JavaScript | Build System | 7.1.6 | 2026-08-31T14:26:09.197Z | [open](records/node-js-javascript-netlify-functions-utils-8bd712e4.md) |
-| @citizenfx/server | Node.js/JavaScript | Type Checker | 2.0.35636-1 | 2026-08-31T14:22:35.294Z | [open](records/node-js-javascript-citizenfx-server-f312c16e.md) |
-| @trackunit/graphql-build-tools | Node.js/JavaScript | Build System | 0.0.88 | 2026-08-31T14:06:16.617Z | [open](records/node-js-javascript-trackunit-graphql-build-tools-1d25313b.md) |
-| @taiga-ui/prettier-config | Node.js/JavaScript | Formatter | 0.557.0 | 2026-08-31T14:02:41.106Z | [open](records/node-js-javascript-taiga-ui-prettier-config-d5cc4ac1.md) |
-| http-message-sig | Node.js/JavaScript | Networking Http | 0.3.0 | 2026-08-31T13:58:02.473Z | [open](records/node-js-javascript-http-message-sig-11ea94e1.md) |
-| instant-cli | Node.js/JavaScript | Cli | 1.0.67 | 2026-08-31T13:57:30.277Z | [open](records/node-js-javascript-instant-cli-bd439fd8.md) |
-| electron | Node.js/JavaScript | Build System | 44.1.0 | 2026-08-31T13:54:22.166Z | [open](records/node-js-javascript-electron-195ab887.md) |
-| @contract-case/contract-case-jest | Node.js/JavaScript | Testing Framework | 0.31.2 | 2026-08-31T13:46:00.790Z | [open](records/node-js-javascript-contract-case-contract-case-jest-c98a6786.md) |
-| @contract-case/case-core | Node.js/JavaScript | Testing Framework | 0.31.2 | 2026-08-31T13:45:49.481Z | [open](records/node-js-javascript-contract-case-case-core-b9528be6.md) |
-| @contract-case/case-definition-dsl | Node.js/JavaScript | Testing Framework | 0.31.2 | 2026-08-31T13:45:47.498Z | [open](records/node-js-javascript-contract-case-case-definition-dsl-76b8823d.md) |
-| @contract-case/case-core-plugin-http | Node.js/JavaScript | Assertion Mocking | 0.31.2 | 2026-08-31T13:45:44.556Z | [open](records/node-js-javascript-contract-case-case-core-plugin-http-679f1bfb.md) |
-| @contract-case/case-core-plugin-http-dsl | Node.js/JavaScript | Networking Http | 0.31.2 | 2026-08-31T13:45:42.818Z | [open](records/node-js-javascript-contract-case-case-core-plugin-http-dsl-63d52497.md) |
-| @zenstackhq/cli | Node.js/JavaScript | Cli | 3.9.3 | 2026-08-31T13:33:50.191Z | [open](records/node-js-javascript-zenstackhq-cli-0b6ca1af.md) |
-| @zenstackhq/server | Node.js/JavaScript | Web Framework | 3.9.3 | 2026-08-31T13:33:45.418Z | [open](records/node-js-javascript-zenstackhq-server-99bce111.md) |
-| cachix | Haskell | Library | 1.12.1 | 2026-08-31T13:25:41Z | [open](records/haskell-cachix-3105767e.md) |
-| cachix-api | Haskell | Api Abi Checker | 1.12.1 | 2026-08-31T13:25:40Z | [open](records/haskell-cachix-api-422fb824.md) |
-| @rebasepro/server | Node.js/JavaScript | Web Framework | 0.17.3 | 2026-08-31T13:20:11.463Z | [open](records/node-js-javascript-rebasepro-server-25d1c74a.md) |
 
 ## Unknown Reasons
 
@@ -292,15 +292,15 @@ Generated: `2026-09-01T11:22:18+00:00`
 | --- | ---: |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
+| github_latest_release_missing | 1137 |
 | not_checked | 937 |
-| github_latest_release_missing | 885 |
 | github_search_does_not_include_release_date | 470 |
-| gh_search_reports_activity_not_release_version | 437 |
-| curated_language_route_requires_source_specific_release_lookup | 400 |
-| go_module_index_event_is_preview_or_pseudoversion | 284 |
+| go_module_index_event_is_preview_or_pseudoversion | 354 |
+| curated_language_route_requires_source_specific_release_lookup | 316 |
 | awesome_list_does_not_include_release_date | 237 |
+| gh_search_reports_activity_not_release_version | 152 |
 | not_a_maven_coordinate | 123 |
-| gitlab_projects_api_reports_activity_not_release_version | 97 |
+| gitlab_projects_api_reports_activity_not_release_version | 98 |
 | curated_database_record_requires_source_specific_release_lookup | 87 |
 | official_workplace_route_requires_source_specific_release_lookup | 59 |
 | not_a_cocoapods_name | 7 |
@@ -312,6 +312,7 @@ Generated: `2026-09-01T11:22:18+00:00`
 
 | Name | Language | Channel | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| llama.cpp | "aim's" | preview | b10734 | 2026-09-01T11:57:33Z | [open](records/aim-s-llama-cpp-9828c514.md) |
 | BestImageViewer/geeqie | Photography | preview | continuous | 2026-09-01T09:50:52Z | [open](records/photography-bestimageviewer-geeqie-eed65f97.md) |
 | metabrainz/picard | Audio | preview | release-3.0.0rc1 | 2026-09-01T08:41:59Z | [open](records/audio-metabrainz-picard-de814b29.md) |
 | StrawberryShake.Transport.Http | C-Sharp | preview | 16.7.0-p.2 | 2026-09-01T08:20:39.933+00:00 | [open](records/c-sharp-strawberryshake-transport-http-31ebee86.md) |
@@ -320,11 +321,87 @@ Generated: `2026-09-01T11:22:18+00:00`
 | EdgeTX/edgetx | Electromagnetoscopes | preview | nightly | 2026-09-01T07:16:29Z | [open](records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) |
 | acryl-datahub-cloud | Python | preview | 2.2.0rc8 | 2026-09-01T07:10:41.894524Z | [open](records/python-acryl-datahub-cloud-e09f2208.md) |
 | wiltodelta/remove-ai-watermarks | Video | preview | photo-classify-freeze-2026-08-31 | 2026-09-01T05:03:26Z | [open](records/video-wiltodelta-remove-ai-watermarks-ac76ecc7.md) |
+| Rangi42/polishedcrystal | Assembly | preview | do-not-checkout | 2026-09-01T04:14:18Z | [open](records/assembly-rangi42-polishedcrystal-55bf1d37.md) |
 | SynthstromAudible/DelugeFirmware | Audio | preview | beta | 2026-09-01T01:12:45Z | [open](records/audio-synthstromaudible-delugefirmware-4c834ea8.md) |
 | meshtastic/Meshtastic-Android | Electromagnetoscopes | preview | snapshot | 2026-08-31T21:35:59Z | [open](records/electromagnetoscopes-meshtastic-meshtastic-android-24c81b27.md) |
 | stashapp/stash | Video | preview | latest_develop | 2026-08-31T18:32:37Z | [open](records/video-stashapp-stash-6bcbde4a.md) |
 | facebookincubator/reindeer | Starlark | preview | v2026.08.31.00 | 2026-08-31T15:24:21Z | [open](records/starlark-facebookincubator-reindeer-e957d783.md) |
 | PentHertz/RF-Swift | Electromagnetoscopes | preview | v4.0.1-dev | 2026-08-31T12:27:02Z | [open](records/electromagnetoscopes-penthertz-rf-swift-91a223bf.md) |
+| jingjing2222/react-native-nitro-geolocation | Maps | preview | react-native-nitro-geolocation@2.0.0-rc.5 | 2026-08-31T02:26:02Z | [open](records/maps-jingjing2222-react-native-nitro-geolocation-88c61895.md) |
+| github.com/espressif/esp-rainmaker-neo | Go | module-preview | v0.0.0-20260828132729-d47c13718bed | 2026-08-30T15:32:23.75578Z | [open](records/go-github-com-espressif-esp-rainmaker-neo-273f971d.md) |
+| github.com/rememorio/trpc-agent-go/memory/sqlitevec | Go | module-preview | v0.0.0-20260826093142-71e672fe2772 | 2026-08-30T15:32:23.660144Z | [open](records/go-github-com-rememorio-trpc-agent-go-memory-sqlitevec-fd9d6f2e.md) |
+| github.com/akagiyui/go-together | Go | module-preview | v0.0.0-20260830152703-54de796939ce | 2026-08-30T15:32:21.052427Z | [open](records/go-github-com-akagiyui-go-together-0675279a.md) |
+| github.com/apache/datafusion | Go | module-preview | v0.0.0-20260830151857-70346d0b04b8 | 2026-08-30T15:32:20.765747Z | [open](records/go-github-com-apache-datafusion-4e8cdafb.md) |
+| github.com/espressif/esp-rainmaker-custom-development | Go | module-preview | v0.0.0-20260826103055-4737a8e5551a | 2026-08-30T15:32:20.682001Z | [open](records/go-github-com-espressif-esp-rainmaker-custom-development-e6ace292.md) |
+| github.com/espressif/esp-bsp | Go | module-preview | v0.0.0-20260813125106-2f519317d537 | 2026-08-30T15:32:17.875618Z | [open](records/go-github-com-espressif-esp-bsp-793f2982.md) |
+| github.com/Onsdigital/dp-kafka/v3 | Go | module-preview | v3.0.0-beta.2 | 2026-08-30T15:32:16.041997Z | [open](records/go-github-com-onsdigital-dp-kafka-v3-f80d2a8a.md) |
+| github.com/kludex/starlette | Go | module-preview | v0.0.0-20260830125743-39fd0ffac255 | 2026-08-30T15:32:11.170259Z | [open](records/go-github-com-kludex-starlette-2ed12443.md) |
+| github.com/espr1t/action | Go | module-preview | v0.0.0-20260821204341-a6c43ff6bfcb | 2026-08-30T15:32:10.955616Z | [open](records/go-github-com-espr1t-action-689bccf9.md) |
+| github.com/olicesx/outbound | Go | module-preview | v0.0.0-sticky-ip.0.20260830152838-4631672da525 | 2026-08-30T15:32:07.343081Z | [open](records/go-github-com-olicesx-outbound-d7721aff.md) |
+| github.com/CauldronUp/cauldron | Go | module-preview | v0.0.0-20260830152522-5b7e454a68d7 | 2026-08-30T15:32:07.183589Z | [open](records/go-github-com-cauldronup-cauldron-2eea246f.md) |
+| github.com/promptfoo/promptfoo | Go | module-preview | v0.0.0-20260830144851-9cd19241a070 | 2026-08-30T15:32:03.655198Z | [open](records/go-github-com-promptfoo-promptfoo-fba16a26.md) |
+| github.com/pittcsc/summer2023-internships | Go | module-preview | v0.0.0-20260830153102-08151c22ffde | 2026-08-30T15:32:01.741724Z | [open](records/go-github-com-pittcsc-summer2023-internships-24766028.md) |
+| github.com/proxyscraper/proxyscraper | Go | module-preview | v0.0.0-20260830133452-14c915a80fd3 | 2026-08-30T15:32:00.773617Z | [open](records/go-github-com-proxyscraper-proxyscraper-4f472039.md) |
+| github.com/tyy47/clibox | Go | module-preview | v0.0.4-0.20260830153011-508922cad83a | 2026-08-30T15:32:00.314669Z | [open](records/go-github-com-tyy47-clibox-f748f7d1.md) |
+| github.com/pulumi/pulumi-azure/examples/v5 | Go | module-preview | v5.0.0-20260828141611-9636d3b426a3 | 2026-08-30T15:32:00.004588Z | [open](records/go-github-com-pulumi-pulumi-azure-examples-v5-d4f72ce1.md) |
+| github.com/madpsy/ka9q_ubersdr | Go | module-preview | v0.0.0-20260830152854-fa7b5c27a6d1 | 2026-08-30T15:31:59.567822Z | [open](records/go-github-com-madpsy-ka9q-ubersdr-4c14c0c3.md) |
+| github.com/espressif/esp32-arduino-lib-builder | Go | module-preview | v0.0.0-20260826103007-b887bd1f75fe | 2026-08-30T15:31:57.508885Z | [open](records/go-github-com-espressif-esp32-arduino-lib-builder-2032e2a7.md) |
+| github.com/jsqlparser/jsqlparser | Go | module-preview | v0.0.0-20260830034102-e7167cc7dc15 | 2026-08-30T15:31:56.694723Z | [open](records/go-github-com-jsqlparser-jsqlparser-7a44de38.md) |
+| github.com/snowboard-software/duckdb-go/v2 | Go | module-preview | v2.6.0-9.preview | 2026-08-30T15:31:43.722294Z | [open](records/go-github-com-snowboard-software-duckdb-go-v2-41b4f580.md) |
+| github.com/ellanetworks/core/s1ap | Go | module-preview | v0.0.0-20260830151352-9c8cb198a5fe | 2026-08-30T15:31:42.105052Z | [open](records/go-github-com-ellanetworks-core-s1ap-533a6ff6.md) |
+| github.com/kleister/kleister-api | Go | module-preview | v0.0.0-20260830145853-2ba96e82f571 | 2026-08-30T15:31:41.298356Z | [open](records/go-github-com-kleister-kleister-api-adc277b0.md) |
+| github.com/aliilapro/proxy | Go | module-preview | v0.0.0-20260830153041-40a19aaa5d34 | 2026-08-30T15:31:40.00292Z | [open](records/go-github-com-aliilapro-proxy-7cfae674.md) |
+| github.com/vmware-tanzu/kapp-controller/cli | Go | module-preview | v0.0.0-20260828032610-7e3587fa416f | 2026-08-30T15:31:38.939147Z | [open](records/go-github-com-vmware-tanzu-kapp-controller-cli-9247a6af.md) |
+| github.com/aws-samples/automated-security-helper | Go | module-preview | v3.0.0-beta-20250714+incompatible | 2026-08-30T15:31:36.252474Z | [open](records/go-github-com-aws-samples-automated-security-helper-03349c19.md) |
+| github.com/go-xrkit/desk | Go | module-preview | v0.0.0-20260830151701-2d06a299ae8f | 2026-08-30T15:31:36.087652Z | [open](records/go-github-com-go-xrkit-desk-9c4e70c6.md) |
+| github.com/kyverno/kyverno/hack/controller-gen | Go | module-preview | v0.0.0-20260830080159-361d9d866f85 | 2026-08-30T15:31:24.934249Z | [open](records/go-github-com-kyverno-kyverno-hack-controller-gen-b4da8e44.md) |
+| github.com/emacs-mirror/emacs | Go | module-preview | v0.0.0-20260830143630-98165ff73e87 | 2026-08-30T15:31:24.037409Z | [open](records/go-github-com-emacs-mirror-emacs-0c5a82fb.md) |
+| github.com/somehow-digital/commitlint-config | Go | module-preview | v0.0.0-20260829194932-4a5371203744 | 2026-08-30T15:31:23.887074Z | [open](records/go-github-com-somehow-digital-commitlint-config-5472c284.md) |
+| github.com/ghiac/agentize | Go | module-preview | v0.0.0-20260830153057-93238cb39788 | 2026-08-30T15:31:23.778498Z | [open](records/go-github-com-ghiac-agentize-f2ffc832.md) |
+| github.com/simoncropp/nodatime.bogus | Go | module-preview | v0.0.0-20260829045257-75fd9d992a8b | 2026-08-30T15:31:23.747241Z | [open](records/go-github-com-simoncropp-nodatime-bogus-e781b3c2.md) |
+| github.com/ProxyScrape/free-proxy-list | Go | module-preview | v0.0.0-20260830153006-7d55f83bd4f8 | 2026-08-30T15:31:22.127978Z | [open](records/go-github-com-proxyscrape-free-proxy-list-7bb5ef8c.md) |
+| github.com/mallardduck/dirio/api | Go | module-preview | v0.0.0-20260827044240-589edf97fe4c | 2026-08-30T15:31:17.990825Z | [open](records/go-github-com-mallardduck-dirio-api-0da1705e.md) |
+| github.com/gentoo-mirror/gentoo | Go | module-preview | v0.0.0-20260830151604-30b7dc507edf | 2026-08-30T15:31:15.656389Z | [open](records/go-github-com-gentoo-mirror-gentoo-ae6efac0.md) |
+| github.com/mkusaka/trending | Go | module-preview | v0.0.0-20260830130300-d1a4b1f2a15c | 2026-08-30T15:31:10.218326Z | [open](records/go-github-com-mkusaka-trending-fef7bf67.md) |
+| github.com/esotericsoftware/spine-runtimes | Go | module-preview | v0.0.0-20260830132820-2c66cc2899b9 | 2026-08-30T15:31:06.360396Z | [open](records/go-github-com-esotericsoftware-spine-runtimes-c9525803.md) |
+| github.com/open-telemetry/opentelemetry-collector-contrib/receiver/kubeletstatsreceiver | Go | module-preview | v0.159.1-0.20260828222137-fdcff7298575 | 2026-08-30T15:31:04.191278Z | [open](records/go-github-com-open-telemetry-opentelemetry-collector-contrib-receiver-kubeletstatsreceiver-6aa4e49f.md) |
+| github.com/ESousa97/gocontainerruntime | Go | module-preview | v0.0.0-20260822223054-b770150310aa | 2026-08-30T15:30:57.842416Z | [open](records/go-github-com-esousa97-gocontainerruntime-719a6fd2.md) |
+| github.com/rhys-vdw/ts-auto-guard | Go | module-preview | v1.0.0-alpha.23 | 2026-08-30T15:30:55.184633Z | [open](records/go-github-com-rhys-vdw-ts-auto-guard-8a79360d.md) |
+| github.com/edmozley/freeitsm | Go | module-preview | v0.0.0-20260830151932-46771e4d6284 | 2026-08-30T15:30:46.15207Z | [open](records/go-github-com-edmozley-freeitsm-28d3858d.md) |
+| github.com/zhblue/hustoj | Go | module-preview | v0.0.0-20260830100752-1340a7120ddf | 2026-08-30T15:30:43.620166Z | [open](records/go-github-com-zhblue-hustoj-d7e9f97e.md) |
+| github.com/dimetron/pi-go | Go | module-preview | v0.0.87-0.20260830151251-44e9b716e5e5 | 2026-08-30T15:30:43.286742Z | [open](records/go-github-com-dimetron-pi-go-425256b0.md) |
+| github.com/andregasser/bigbone | Go | module-preview | v2.0.0-20230104.210247+incompatible | 2026-08-30T15:30:38.169963Z | [open](records/go-github-com-andregasser-bigbone-e44d2dd5.md) |
+| github.com/ellanetworks/core/ngap | Go | module-preview | v0.0.0-20260830151352-9c8cb198a5fe | 2026-08-30T15:30:35.783054Z | [open](records/go-github-com-ellanetworks-core-ngap-2c8918fb.md) |
+| github.com/akaitigo/reference-atlas-core | Go | module-preview | v0.0.0-20260830152201-0173609e7fcb | 2026-08-30T15:30:35.069434Z | [open](records/go-github-com-akaitigo-reference-atlas-core-b7659f23.md) |
+| github.com/freshrss/freshrss | Go | module-preview | v0.0.0-20260830145347-1e3385725654 | 2026-08-30T15:30:28.991172Z | [open](records/go-github-com-freshrss-freshrss-0729a83e.md) |
+| git.scuroneko.dev/ScuroNeko/Laniakea | Go | module-preview | v1.2.1-0.20260825102513-d3e4276b970e | 2026-08-30T15:30:24.264582Z | [open](records/go-git-scuroneko-dev-scuroneko-laniakea-6c4ff9e7.md) |
+| github.com/pulumi/pulumi-mysql | Go | module-preview | v3.3.2-0.20260830060519-f4f017160ecd+incompatible | 2026-08-30T15:30:22.433948Z | [open](records/go-github-com-pulumi-pulumi-mysql-a8ad19ab.md) |
+| github.com/ydixken/pgcopydb-operator | Go | module-preview | v0.11.0-rc.1 | 2026-08-30T15:30:20.133896Z | [open](records/go-github-com-ydixken-pgcopydb-operator-ef35cd4e.md) |
+| github.com/esacteksab/gh-actlock | Go | module-preview | v0.13.5-0.20260829061848-f4350d43f5c8 | 2026-08-30T15:30:18.436765Z | [open](records/go-github-com-esacteksab-gh-actlock-44cdde48.md) |
+| github.com/LiteLDev/bds | Go | module-preview | v0.0.0-20260829013536-9a6c75214b04 | 2026-08-30T15:30:17.446521Z | [open](records/go-github-com-liteldev-bds-b8ea4430.md) |
+| github.com/jonasgeiler/gotoolbox/goreleaser/v2 | Go | module-preview | v2.18.1-0.20260829164747-c0b8156d5fcb | 2026-08-30T15:30:16.433758Z | [open](records/go-github-com-jonasgeiler-gotoolbox-goreleaser-v2-c67eb772.md) |
+| mvdan.cc/sh/moreinterp | Go | module-preview | v0.0.0-20260830152850-78f60954ae10 | 2026-08-30T15:30:16.298507Z | [open](records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
+| github.com/konih/kurator | Go | module-preview | v0.15.3-0.20260830060917-1546ac5eed19 | 2026-08-30T15:30:15.302662Z | [open](records/go-github-com-konih-kurator-7bca147b.md) |
+| github.com/cnpack/cnvcl | Go | module-preview | v0.0.0-20260830131529-73d37b39c168 | 2026-08-30T15:30:15.179411Z | [open](records/go-github-com-cnpack-cnvcl-66cde9d3.md) |
+| github.com/olicesx/quic-go | Go | module-preview | v0.0.0-20260830152627-5abcdbe23c94 | 2026-08-30T15:30:10.260433Z | [open](records/go-github-com-olicesx-quic-go-3a98699c.md) |
+| github.com/esacteksab/gh-tp | Go | module-preview | v0.4.22-0.20260829062108-0dac898cd8e1 | 2026-08-30T15:30:10.237829Z | [open](records/go-github-com-esacteksab-gh-tp-64fa54a8.md) |
+| github.com/uBlockOrigin/uAssets | Go | module-preview | v0.0.0-20260830152354-0fedf581a63b | 2026-08-30T15:30:07.41149Z | [open](records/go-github-com-ublockorigin-uassets-d1c7654a.md) |
+| github.com/ponylang/ponyc | Go | module-preview | v0.0.0-20260830152607-e9c54fd877f4 | 2026-08-30T15:30:03.044137Z | [open](records/go-github-com-ponylang-ponyc-6c2db873.md) |
+| github.com/terraform-linters/tflint-ruleset-aws | Go | module-preview | v0.0.0-20260830034208-15f2bf4ff915 | 2026-08-30T15:30:02.721747Z | [open](records/go-github-com-terraform-linters-tflint-ruleset-aws-6255ffe4.md) |
+| github.com/ellanetworks/core | Go | module-preview | v0.0.0-20260830151352-9c8cb198a5fe | 2026-08-30T15:30:01.38856Z | [open](records/go-github-com-ellanetworks-core-7d2fad0e.md) |
+| github.com/gabomdq/sdl_gamecontrollerdb | Go | module-preview | v0.0.0-20260830133725-af76f5b56a18 | 2026-08-30T15:30:00.849752Z | [open](records/go-github-com-gabomdq-sdl-gamecontrollerdb-2bda98a2.md) |
+| github.com/kubernetes-sigs/headlamp | Go | module-preview | v0.0.0-20260830130441-bbf1d38cac4c | 2026-08-30T15:29:53.81013Z | [open](records/go-github-com-kubernetes-sigs-headlamp-8c518a20.md) |
+| github.com/S-VIPER/backend | Go | module-preview | v0.0.0-20260830114558-57d1182781d4 | 2026-08-30T15:29:50.591746Z | [open](records/go-github-com-s-viper-backend-0a1aeb02.md) |
+| github.com/ellanetworks/core/lppa | Go | module-preview | v0.0.0-20260830151352-9c8cb198a5fe | 2026-08-30T15:29:50.460361Z | [open](records/go-github-com-ellanetworks-core-lppa-c2d827a8.md) |
+| github.com/milvus-io/milvus | Go | module-preview | v0.10.3-0.20260830144734-6648d9371b55 | 2026-08-30T15:29:49.829547Z | [open](records/go-github-com-milvus-io-milvus-723fbcf9.md) |
+| github.com/aliilapro/mtprotoproxy | Go | module-preview | v0.0.0-20260830152505-bfdc3d8f585d | 2026-08-30T15:29:40.62176Z | [open](records/go-github-com-aliilapro-mtprotoproxy-29a21a4e.md) |
+| github.com/terraform-linters/tflint-ruleset-aws/tools/release | Go | module-preview | v0.0.0-20260830034208-15f2bf4ff915 | 2026-08-30T15:29:38.305725Z | [open](records/go-github-com-terraform-linters-tflint-ruleset-aws-tools-release-64e4e03b.md) |
+| github.com/HomeBREW/homebrew-core | Go | module-preview | v0.0.0-20260830152346-16b69425b352 | 2026-08-30T15:29:37.374206Z | [open](records/go-github-com-homebrew-homebrew-core-4d0d1148.md) |
+| github.com/ellanetworks/core/nrppa | Go | module-preview | v0.0.0-20260830151352-9c8cb198a5fe | 2026-08-30T15:29:30.841194Z | [open](records/go-github-com-ellanetworks-core-nrppa-7aa82621.md) |
+| github.com/nugine/s3s | Go | module-preview | v0.15.1-0.20260830142116-8f490f6c42e6 | 2026-08-30T15:29:24.149221Z | [open](records/go-github-com-nugine-s3s-4ec87890.md) |
+| github.com/gamesgamesgamesgamesgames/happyview | Go | module-preview | v1.6.0-dev.1 | 2026-08-30T15:29:23.136453Z | [open](records/go-github-com-gamesgamesgamesgamesgames-happyview-bf5d41a8.md) |
+| github.com/jzbjyb/lm-calibration | Go | module-preview | v0.0.0-20211117085749-76813bfce523 | 2026-08-30T15:29:13.814485Z | [open](records/go-github-com-jzbjyb-lm-calibration-976c170a.md) |
+| github.com/timmyagentic/awesome-agent-app-features | Go | module-preview | v0.1.1-0.20260830152838-f5b3e69a7a45 | 2026-08-30T15:29:11.580039Z | [open](records/go-github-com-timmyagentic-awesome-agent-app-features-c3cfbb56.md) |
 | github.com/algotables/algotables.github.io | Go | module-preview | v0.0.0-20260830140926-90336e9a8f8e | 2026-08-30T14:10:33.985726Z | [open](records/go-github-com-algotables-algotables-github-io-8b3df959.md) |
 | github.com/keyval-dev/odigos/frontend | Go | module-preview | v1.36.0-pre8.0.20260830130726-dc42c385cb25 | 2026-08-30T14:10:33.591108Z | [open](records/go-github-com-keyval-dev-odigos-frontend-b787b0b4.md) |
 | bitbucket.org/itotcca/tx-rails | Go | module-preview | v0.0.0-20260830113708-c72c03b4e257 | 2026-08-30T14:10:33.391742Z | [open](records/go-bitbucket-org-itotcca-tx-rails-34e72343.md) |
@@ -372,7 +449,6 @@ Generated: `2026-09-01T11:22:18+00:00`
 | github.com/treemap/treemap | Go | module-preview | v0.0.0-20150419084211-61edb1a9275e | 2026-08-30T14:07:51.091262Z | [open](records/go-github-com-treemap-treemap-8293f9fe.md) |
 | github.com/openova-io/openova/core/services/shared | Go | module-preview | v0.0.0-20260830140624-800d96982034 | 2026-08-30T14:07:49.604005Z | [open](records/go-github-com-openova-io-openova-core-services-shared-abb1a235.md) |
 | github.com/electron-cash/electron-cash | Go | module-preview | v0.0.0-20260830035901-bb67161b162c | 2026-08-30T14:07:48.159662Z | [open](records/go-github-com-electron-cash-electron-cash-786e8fa4.md) |
-| github.com/pittcsc/summer2023-internships | Go | module-preview | v0.0.0-20260830140102-3637137f6f47 | 2026-08-30T14:07:44.448269Z | [open](records/go-github-com-pittcsc-summer2023-internships-24766028.md) |
 | github.com/captheavenger/thedipidis | Go | module-preview | v0.0.0-20260830135854-74b5f1c00670 | 2026-08-30T14:07:43.54847Z | [open](records/go-github-com-captheavenger-thedipidis-1c7465dc.md) |
 | github.com/rucaibox/jiuzhang3.0 | Go | module-preview | v0.0.0-20240526154414-aae2f9119f57 | 2026-08-30T14:07:42.400648Z | [open](records/go-github-com-rucaibox-jiuzhang3-0-6c70c0f8.md) |
 | github.com/opencharly/sdk | Go | module-preview | v0.2026242.914-0.20260830140636-eedce16d29bc | 2026-08-30T14:07:41.993943Z | [open](records/go-github-com-opencharly-sdk-8595a67b.md) |
@@ -479,7 +555,6 @@ Generated: `2026-09-01T11:22:18+00:00`
 | golang.org/x/sys | Go | module-preview | v0.0.0-20150304232943-5b683257ff52 | 2026-08-30T11:58:17.340066Z | [open](records/go-golang-org-x-sys-cd462dbb.md) |
 | github.com/drashland/deno-drash | Go | module-preview | v3.0.1-0.20260829110640-a48a005c3731+incompatible | 2026-08-30T11:58:10.054541Z | [open](records/go-github-com-drashland-deno-drash-f328cf3e.md) |
 | modernc.org/quickjs | Go | module-preview | v0.24.3-0.20260830031014-9c020328efa6 | 2026-08-30T11:57:56.649581Z | [open](records/go-modernc-org-quickjs-953c15ce.md) |
-| github.com/proxyscrape/free-proxy-list | Go | module-preview | v0.0.0-20260830115504-bb6ace224732 | 2026-08-30T11:57:46.339033Z | [open](records/go-github-com-proxyscrape-free-proxy-list-7bb5ef8c.md) |
 | github.com/gogpu/gogpu | Go | module-preview | v0.53.2-0.20260830114211-a109e70252dd | 2026-08-30T11:57:44.235494Z | [open](records/go-github-com-gogpu-gogpu-930192d0.md) |
 | piko.sh/piko/wdk/highlight/highlight_chroma | Go | module-preview | v0.0.0-alpha.7.0.20260829054609-294ab4359d85 | 2026-08-30T11:57:42.421425Z | [open](records/go-piko-sh-piko-wdk-highlight-highlight-chroma-d02208be.md) |
 | github.com/openagi2/cordcode-macbridge | Go | module-preview | v0.1.1-0.20260828074610-224a632e032a | 2026-08-30T11:57:41.208886Z | [open](records/go-github-com-openagi2-cordcode-macbridge-5ffc6c28.md) |
@@ -487,78 +562,3 @@ Generated: `2026-09-01T11:22:18+00:00`
 | github.com/roc-lang/roc | Go | module-preview | v0.0.0-20260830114944-cbbd84541170 | 2026-08-30T11:57:33.96746Z | [open](records/go-github-com-roc-lang-roc-5324cdde.md) |
 | github.com/crazy-max/WindowsSpyBlocker | Go | module-preview | v0.0.0-20260830114819-87266541e57a | 2026-08-30T11:57:33.885579Z | [open](records/go-github-com-crazy-max-windowsspyblocker-c92cd8e8.md) |
 | github.com/qigao/ogrenet/iocp | Go | module-preview | v0.1.1-0.20260830112641-3bfcfda51f5c | 2026-08-30T11:57:32.337074Z | [open](records/go-github-com-qigao-ogrenet-iocp-02f42249.md) |
-| github.com/bingsoo420/4ch-general | Go | module-preview | v0.0.0-20260830105918-1e2a2f49f085 | 2026-08-30T11:57:30.160613Z | [open](records/go-github-com-bingsoo420-4ch-general-8abdfd41.md) |
-| github.com/Elliottophellia/yakumo | Go | module-preview | v0.0.0-20260830110159-a7d18a837dc8 | 2026-08-30T11:57:27.588898Z | [open](records/go-github-com-elliottophellia-yakumo-dc7bb4a8.md) |
-| github.com/onedr0p/home-ops | Go | module-preview | v0.0.0-20260829204302-f8491501d05e | 2026-08-30T11:57:27.325351Z | [open](records/go-github-com-onedr0p-home-ops-069562de.md) |
-| github.com/reearth/reearth-visualizer | Go | module-preview | v1.0.0-beta.16.14.0.20260826085455-eb88332905df | 2026-08-30T11:57:22.653915Z | [open](records/go-github-com-reearth-reearth-visualizer-efc6d7d3.md) |
-| github.com/archlinuxarm/pkgbuilds | Go | module-preview | v0.0.0-20260830115217-fdce997db4a3 | 2026-08-30T11:57:21.803529Z | [open](records/go-github-com-archlinuxarm-pkgbuilds-c2690690.md) |
-| github.com/brookhong/surfingkeys | Go | module-preview | v0.0.0-20260830101924-06f52e51e4fe | 2026-08-30T11:57:20.411238Z | [open](records/go-github-com-brookhong-surfingkeys-c7ec944b.md) |
-| github.com/verskopjet/hoard_mode_content | Go | module-preview | v0.0.0-20190211193449-023dde7699e8 | 2026-08-30T11:57:14.964265Z | [open](records/go-github-com-verskopjet-hoard-mode-content-e9204a3d.md) |
-| github.com/ldicarlo/legifrss | Go | module-preview | v0.0.0-20260829200342-cf5497148c8f | 2026-08-30T11:57:13.968076Z | [open](records/go-github-com-ldicarlo-legifrss-2c2c531f.md) |
-| github.com/chainapsis/oko | Go | module-preview | v0.1.2-alpha.5 | 2026-08-30T11:57:13.590903Z | [open](records/go-github-com-chainapsis-oko-ca39ed3c.md) |
-| github.com/homebrew/homebrew-core | Go | module-preview | v0.0.0-20260830114952-82d02cde5966 | 2026-08-30T11:57:13.150635Z | [open](records/go-github-com-homebrew-homebrew-core-4d0d1148.md) |
-| github.com/joschahenningsen/tum-live/worker/edge | Go | module-preview | v0.0.0-20260830083722-ff48aaed414e | 2026-08-30T11:57:07.958594Z | [open](records/go-github-com-joschahenningsen-tum-live-worker-edge-99477f1b.md) |
-| github.com/sardanioss/httpcloak | Go | module-preview | v1.7.0-beta.2 | 2026-08-30T11:57:06.792325Z | [open](records/go-github-com-sardanioss-httpcloak-a833ce2a.md) |
-| github.com/rust-embedded/awesome-embedded-rust | Go | module-preview | v0.0.0-20260828123006-180ee6402c23 | 2026-08-30T11:57:01.458174Z | [open](records/go-github-com-rust-embedded-awesome-embedded-rust-f0a67ec6.md) |
-| github.com/apache/camel | Go | module-preview | v0.0.0-20260830114824-66d37e8b3887 | 2026-08-30T11:57:00.225863Z | [open](records/go-github-com-apache-camel-af9e6289.md) |
-| github.com/z-shell/zsh-lint | Go | module-preview | v1.2.1-0.20260829112946-40356f9c5272 | 2026-08-30T11:56:50.548681Z | [open](records/go-github-com-z-shell-zsh-lint-ddf99579.md) |
-| goa.design/goa/v3 | Go | module-preview | v3.31.0-preview.1.0.20260830104908-eb6472c49e99 | 2026-08-30T11:56:33.587597Z | [open](records/go-goa-design-goa-v3-26efe1e9.md) |
-| github.com/Arkadiyt/bounty-targets-data | Go | module-preview | v0.0.0-20260830113402-6d40636173a2 | 2026-08-30T11:56:21.975226Z | [open](records/go-github-com-arkadiyt-bounty-targets-data-7c659bd4.md) |
-| github.com/nix-community/NUR | Go | module-preview | v0.0.0-20260830113758-02de613ce062 | 2026-08-30T11:56:20.420181Z | [open](records/go-github-com-nix-community-nur-9a037fcd.md) |
-| github.com/openstack/openstack | Go | module-preview | v0.0.0-20260830115532-78c8db06c84b | 2026-08-30T11:56:20.158145Z | [open](records/go-github-com-openstack-openstack-c6069627.md) |
-| github.com/openclaw/openclaw | Go | module-preview | v0.0.0-20260830115202-e5263a88d72f | 2026-08-30T11:56:12.113012Z | [open](records/go-github-com-openclaw-openclaw-409e7b49.md) |
-| github.com/DJ2LS/FreeDATA | Go | module-preview | v0.3.3-alpha.3 | 2026-08-30T10:57:29.140077Z | [open](records/go-github-com-dj2ls-freedata-17412510.md) |
-| github.com/posthog/posthog/bin/hobby-installer | Go | module-preview | v0.0.0-20260830105421-a4206631b834 | 2026-08-30T10:57:28.571097Z | [open](records/go-github-com-posthog-posthog-bin-hobby-installer-99af5da4.md) |
-| buf.build/gen/go/ticctech/entity/protocolbuffers/go | Go | module-preview | v1.29.0-20260830102230-08659920c146.1 | 2026-08-30T10:57:28.493244Z | [open](records/go-buf-build-gen-go-ticctech-entity-protocolbuffers-go-822a2f8a.md) |
-| github.com/open-telemetry/opentelemetry-go/exporters/zipkin | Go | module-preview | v1.47.0-rc.1.0.20260828211312-1ad6638a7422 | 2026-08-30T10:57:27.473677Z | [open](records/go-github-com-open-telemetry-opentelemetry-go-exporters-zipkin-9eb5c859.md) |
-| github.com/mudler/localai | Go | module-preview | v1.40.1-0.20260830073339-9c7c9974ebbe | 2026-08-30T10:57:26.883332Z | [open](records/go-github-com-mudler-localai-d1144ad7.md) |
-| github.com/mickochow/channel | Go | module-preview | v0.0.0-20260830102437-fc8c3c0dd91c | 2026-08-30T10:57:22.738382Z | [open](records/go-github-com-mickochow-channel-3d15d806.md) |
-| gopkg.in/chainguard-images/images.v0 | Go | module-preview | v0.0.0-20260830105426-021f5ec82a8d | 2026-08-30T10:57:22.278837Z | [open](records/go-gopkg-in-chainguard-images-images-v0-a97edef0.md) |
-| github.com/openova-io/openova/core/services/gateway | Go | module-preview | v0.0.0-20260830105606-c9914884aa3a | 2026-08-30T10:57:13.67881Z | [open](records/go-github-com-openova-io-openova-core-services-gateway-04f6f099.md) |
-| buf.build/gen/go/sawmills/curator/connectrpc/go | Go | module-preview | v1.14.0-20260830100832-7ba0557ec6f6.1 | 2026-08-30T10:57:12.008462Z | [open](records/go-buf-build-gen-go-sawmills-curator-connectrpc-go-2e9348ba.md) |
-| github.com/oscharko-dev/keiko | Go | module-preview | v0.3.0-beta.0 | 2026-08-30T10:57:06.237441Z | [open](records/go-github-com-oscharko-dev-keiko-119c6c72.md) |
-| github.com/defacto2/server | Go | module-preview | v1.13.7-0.20260830104239-78f9922c327f | 2026-08-30T10:57:02.642731Z | [open](records/go-github-com-defacto2-server-4f4a8bc3.md) |
-| github.com/tui-tools/tui-kit | Go | module-preview | v0.2.6-0.20260830105335-28e9677885d2 | 2026-08-30T10:57:02.019285Z | [open](records/go-github-com-tui-tools-tui-kit-ec72d89b.md) |
-| github.com/TavoAI/tavo-sdk | Go | module-preview | v0.4.1-0.20260119215743-c43b29503953 | 2026-08-30T10:56:30.618262Z | [open](records/go-github-com-tavoai-tavo-sdk-4ccce3d5.md) |
-| github.com/Mellanox/sriov-network-device-plugin | Go | module-preview | v0.0.0-20260813003558-632e092f2f21 | 2026-08-30T10:56:14.45622Z | [open](records/go-github-com-mellanox-sriov-network-device-plugin-6474f463.md) |
-| github.com/misskey-dev/misskey | Go | module-preview | v0.0.0-20260830101117-04600982f03a | 2026-08-30T10:56:09.934253Z | [open](records/go-github-com-misskey-dev-misskey-f90b0abd.md) |
-| github.com/gregkonush/lab | Go | module-preview | v0.596.1-0.20260830094345-a0d7a0dcf5c1 | 2026-08-30T10:56:03.745957Z | [open](records/go-github-com-gregkonush-lab-9fe5e5c1.md) |
-| github.com/sirupsen/logrus | Go | module-preview | v0.0.0-20161009110224-ea5eab4f4bfd | 2026-08-30T10:55:52.900604Z | [open](records/go-github-com-sirupsen-logrus-57508508.md) |
-| github.com/gerege-systems/open-gerege-nexus | Go | module-preview | v0.0.0-20260830104649-51437a97eb46 | 2026-08-30T10:55:45.915493Z | [open](records/go-github-com-gerege-systems-open-gerege-nexus-1104eb72.md) |
-| github.com/dimonomid/nerdlog | Go | module-preview | v1.10.1-0.20260830080539-cd353c7046a9 | 2026-08-30T10:55:41.069376Z | [open](records/go-github-com-dimonomid-nerdlog-97281672.md) |
-| github.com/Layr-Labs/eigenlayer-Contracts | Go | module-preview | v0.2.5-mainnet-m2-minor-eigenpod-upgrade | 2026-08-30T10:55:40.730201Z | [open](records/go-github-com-layr-labs-eigenlayer-contracts-d6940a3a.md) |
-| github.com/1panel-dev/1Panel/agent | Go | module-preview | v0.0.0-20260828102252-3c0bd051bf2a | 2026-08-30T10:55:35.745275Z | [open](records/go-github-com-1panel-dev-1panel-agent-8df4b3a6.md) |
-| github.com/gnome/evince | Go | module-preview | v0.0.0-20260830012938-8af17999e778 | 2026-08-30T10:55:34.659852Z | [open](records/go-github-com-gnome-evince-55bef26a.md) |
-| github.com/iNexDanger/API_BDD | Go | module-preview | v0.0.0-20210708230004-ed9ba7896c07 | 2026-08-30T10:55:33.96483Z | [open](records/go-github-com-inexdanger-api-bdd-e5bd627a.md) |
-| github.com/coderQuad/New-Grad-Positions-2022 | Go | module-preview | v0.0.0-20260830103141-3e02b77af3b4 | 2026-08-30T10:55:23.764515Z | [open](records/go-github-com-coderquad-new-grad-positions-2022-fc9dbb07.md) |
-| github.com/danp/nspoweroutages | Go | module-preview | v0.0.0-20260830105425-d24ff355253e | 2026-08-30T10:55:19.255904Z | [open](records/go-github-com-danp-nspoweroutages-a633989d.md) |
-| github.com/Tutitoos/atenea | Go | module-preview | v1.0.6-0.20260829180406-c07036727ee6 | 2026-08-30T10:55:18.839927Z | [open](records/go-github-com-tutitoos-atenea-26b04a55.md) |
-| github.com/simonfxr/landcage | Go | module-preview | v0.0.0-20260829180429-0ca1a4cf69fc | 2026-08-30T10:55:17.373683Z | [open](records/go-github-com-simonfxr-landcage-a2e95543.md) |
-| github.com/zarusz/slimmessagebus | Go | module-preview | v0.0.0-20260829203634-cc610c96d6be | 2026-08-30T10:55:17.234973Z | [open](records/go-github-com-zarusz-slimmessagebus-13b4809b.md) |
-| github.com/pulumi/pulumi/tests/integration/construct_component_unknown/go | Go | module-preview | v0.0.0-20260830064319-9b688f5ff3bc | 2026-08-30T10:55:16.885875Z | [open](records/go-github-com-pulumi-pulumi-tests-integration-construct-component-unknown-go-1fdad2d4.md) |
-| proto.prod.wtf/gen/go/container-platform/core/protocolbuffers/go | Go | module-preview | v1.33.0-20260827031511-94b94abce9d0.6 | 2026-08-30T10:55:15.183433Z | [open](records/go-proto-prod-wtf-gen-go-container-platform-core-protocolbuffers-go-32ee32ba.md) |
-| github.com/vshulcz/deja-vu | Go | module-preview | v0.19.2-0.20260830105316-7920a3fefc4c | 2026-08-30T10:55:07.689803Z | [open](records/go-github-com-vshulcz-deja-vu-f0f9e335.md) |
-| github.com/aperture-sci/loan-app/interest | Go | module-preview | v0.0.0-20260830103202-cd480f877275 | 2026-08-30T10:54:50.058725Z | [open](records/go-github-com-aperture-sci-loan-app-interest-15863c7d.md) |
-| github.com/nvidia/nvsentinel/janitor-provider | Go | module-preview | v0.0.0-20260828120502-0a95948f5a20 | 2026-08-30T10:54:36.551056Z | [open](records/go-github-com-nvidia-nvsentinel-janitor-provider-e730d50f.md) |
-| github.com/djc/quinn | Go | module-preview | v0.0.0-20260828175426-d5d5b978c2b8 | 2026-08-30T10:54:19.14377Z | [open](records/go-github-com-djc-quinn-cd191f0f.md) |
-| github.com/skypilot-org/skypilot/addons/fuse-proxy | Go | module-preview | v0.0.0-20260830104317-8b030ee7402e | 2026-08-30T10:54:12.575226Z | [open](records/go-github-com-skypilot-org-skypilot-addons-fuse-proxy-84daaef7.md) |
-| github.com/Pulumi/pulumi-aws | Go | module-preview | v0.16.2-dev | 2026-08-30T10:53:57.353354Z | [open](records/go-github-com-pulumi-pulumi-aws-971f1ccd.md) |
-| github.com/semaphoreui/semaphore | Go | module-preview | v0.0.0-20260830102944-000bb72d5250 | 2026-08-30T10:53:52.481686Z | [open](records/go-github-com-semaphoreui-semaphore-4c5cd6aa.md) |
-| go.cozymore.dev/krkstops | Go | module-preview | v0.0.0-20260830100146-4312f3d58c51 | 2026-08-30T10:10:59.090011Z | [open](records/go-go-cozymore-dev-krkstops-34ccbe5a.md) |
-| github.com/scriptonbasestar/dva | Go | module-preview | v0.0.0-20260830095141-1922fa5f6b7f | 2026-08-30T10:10:54.045816Z | [open](records/go-github-com-scriptonbasestar-dva-5259e7a4.md) |
-| github.com/docker/CLI | Go | module-preview | v29.0.0-rc.2+incompatible | 2026-08-30T10:10:48.73783Z | [open](records/go-github-com-docker-cli-8ef1e0db.md) |
-| github.laiyagushi.com/anthony-chaudhary/fak | Go | module-preview | v0.44.1-0.20260830095350-3d6bba5fca40 | 2026-08-30T10:10:44.651687Z | [open](records/go-github-laiyagushi-com-anthony-chaudhary-fak-3282a80d.md) |
-| github.com/tabnas/csv | Go | module-preview | v0.0.0-20260828164037-1ce324c8f311 | 2026-08-30T10:10:43.172584Z | [open](records/go-github-com-tabnas-csv-3400ada3.md) |
-| bitbucket.org/itotcca/the-situation | Go | module-preview | v0.0.0-20260830094656-8f941308b455 | 2026-08-30T10:10:40.703922Z | [open](records/go-bitbucket-org-itotcca-the-situation-6e1a8aba.md) |
-| github.com/DemoMacro/docen | Go | module-preview | v0.0.0-20260830091634-9b564185ed16 | 2026-08-30T10:10:40.233251Z | [open](records/go-github-com-demomacro-docen-570556c4.md) |
-| github.com/tabnas/ini | Go | module-preview | v0.0.0-20260828164038-2c311a303837 | 2026-08-30T10:10:28.318817Z | [open](records/go-github-com-tabnas-ini-2e433af9.md) |
-| buf.build/gen/go/ticctech/form/protocolbuffers/go | Go | module-preview | v1.36.12-20260830083437-426580316712.1 | 2026-08-30T10:10:27.481544Z | [open](records/go-buf-build-gen-go-ticctech-form-protocolbuffers-go-481ae599.md) |
-| github.com/microsoft/vcpkg | Go | module-preview | v0.0.0-20260830082050-abb6dda5cc32 | 2026-08-30T10:10:27.179383Z | [open](records/go-github-com-microsoft-vcpkg-6c22d187.md) |
-| github.com/tabnas/yaml | Go | module-preview | v0.0.0-20260828164039-a9e49c0804ce | 2026-08-30T10:10:19.713258Z | [open](records/go-github-com-tabnas-yaml-b411f7b1.md) |
-| github.com/go-composites/string | Go | module-preview | v0.0.0-20260830075418-81b029a467c7 | 2026-08-30T10:10:19.080807Z | [open](records/go-github-com-go-composites-string-b8ee47b6.md) |
-| buf.build/gen/go/ticctech/entity/bufbuild/connect-go | Go | module-preview | v1.10.0-20260830095514-5f261c6c6045.1 | 2026-08-30T10:10:18.863514Z | [open](records/go-buf-build-gen-go-ticctech-entity-bufbuild-connect-go-c1c1f0ab.md) |
-| github.com/jfrog/jfrog-cli-artifactory | Go | module-preview | v0.8.1-0.20260830100751-b80d678c35f3 | 2026-08-30T10:10:12.647297Z | [open](records/go-github-com-jfrog-jfrog-cli-artifactory-406adbdd.md) |
-| github.com/pagopa/io-wallet-sdk | Go | module-preview | v1.0.0-alpha-20260213155923 | 2026-08-30T10:10:04.953142Z | [open](records/go-github-com-pagopa-io-wallet-sdk-b56518a7.md) |
-| github.com/slonopotamus/stevedore | Go | module-preview | v0.0.0-20260827091904-029a50817a52 | 2026-08-30T10:10:03.904774Z | [open](records/go-github-com-slonopotamus-stevedore-41fe77f5.md) |
-| github.com/go-composites/boolean | Go | module-preview | v0.0.0-20260830075415-de57fb71ce4f | 2026-08-30T10:10:03.539092Z | [open](records/go-github-com-go-composites-boolean-de028e23.md) |
-| github.com/urnetwork/connect | Go | module-preview | v0.0.0-20260830072035-9f6504a235a7 | 2026-08-30T10:10:03.336108Z | [open](records/go-github-com-urnetwork-connect-771c022c.md) |

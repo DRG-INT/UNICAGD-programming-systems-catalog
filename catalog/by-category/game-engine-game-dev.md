@@ -1,6 +1,6 @@
 # Game Engine Game Dev
 
-Records: `103`
+Records: `104`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `103`
 
 ## Category Index
 
-[Api Abi Checker (115)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (105)](async-runtime.md)
-[Benchmarking (73)](benchmarking.md) · [Build System (583)](build-system.md) · [Cli (450)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
+[Benchmarking (74)](benchmarking.md) · [Build System (590)](build-system.md) · [Cli (451)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (71)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (437)](database-datastore.md) · [Datetime (100)](datetime.md)
+[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (73)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (437)](database-datastore.md) · [Datetime (104)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
-[Embedded Hardware (38)](embedded-hardware.md) · [Ffi Bindings (320)](ffi-bindings.md) · [Filesystem Os (745)](filesystem-os.md) · [Formatter (441)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (24)](fuzzer.md) · **[Game Engine Game Dev (103)](game-engine-game-dev.md)** · [Ide Editor Integration (844)](ide-editor-integration.md)
-[Image Audio Dsp (183)](image-audio-dsp.md) · [Interop Bindings (47)](interop-bindings.md) · [Interpreter Runtime (158)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (833)](language-specification.md) · [Library (3355)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (34)](lint-rule-pack.md) · [Linter (330)](linter.md) · [Logging Observability (258)](logging-observability.md) · [Machine Learning (382)](machine-learning.md)
-[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (691)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (199)](package-manager.md) · [Parser Lexer Ast (592)](parser-lexer-ast.md) · [Precommit Ci Quality (171)](precommit-ci-quality.md)
-[Profiler (57)](profiler.md) · [Project Scaffolding (90)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
-[Security Sast (268)](security-sast.md) · [Serialization (272)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (270)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (418)](testing-framework.md) · [Tutorial Book Styleguide (42)](tutorial-book-styleguide.md) · [Type Checker (261)](type-checker.md)
-[Undefined Behavior Analyzer (996)](undefined-behavior-analyzer.md) · [Utility Library (80)](utility-library.md) · [Visualization Gui (277)](visualization-gui.md) · [Web Framework (298)](web-framework.md)
+[Embedded Hardware (39)](embedded-hardware.md) · [Ffi Bindings (324)](ffi-bindings.md) · [Filesystem Os (761)](filesystem-os.md) · [Formatter (442)](formatter.md)
+[Framework (38)](framework.md) · [Fuzzer (30)](fuzzer.md) · **[Game Engine Game Dev (104)](game-engine-game-dev.md)** · [Ide Editor Integration (850)](ide-editor-integration.md)
+[Image Audio Dsp (184)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (161)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (837)](language-specification.md) · [Library (3388)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (334)](linter.md) · [Logging Observability (259)](logging-observability.md) · [Machine Learning (390)](machine-learning.md)
+[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (698)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (199)](package-manager.md) · [Parser Lexer Ast (598)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
+[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
+[Security Sast (270)](security-sast.md) · [Serialization (272)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (273)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (42)](tutorial-book-styleguide.md) · [Type Checker (264)](type-checker.md)
+[Undefined Behavior Analyzer (1135)](undefined-behavior-analyzer.md) · [Utility Library (81)](utility-library.md) · [Visualization Gui (280)](visualization-gui.md) · [Web Framework (304)](web-framework.md)
 
 ## C++23
 
@@ -123,30 +123,36 @@ Records: `103`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Box2D | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/physics-engines-box2d-237b7889.md) |
-| Bullet Physics | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/physics-engines-bullet-physics-9d2ea309.md) |
-| Chipmunk2D | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/physics-engines-chipmunk2d-2e5fd06d.md) |
-| Jolt Physics | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/physics-engines-jolt-physics-3ac5b243.md) |
-| NVIDIA PhysX | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/physics-engines-nvidia-physx-8fd4adec.md) |
-| Open Dynamics Engine | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/physics-engines-open-dynamics-engine-1018dfe4.md) |
-| Rapier | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/physics-engines-rapier-6fed13ab.md) |
+| Box2D | v3.1.1 | 2025-06-04T01:01:49Z | [open](../records/physics-engines-box2d-237b7889.md) |
+| Bullet Physics | 3.25 | 2022-04-24T23:54:27Z | [open](../records/physics-engines-bullet-physics-9d2ea309.md) |
+| Chipmunk2D | unknown | github_latest_release_missing | [open](../records/physics-engines-chipmunk2d-2e5fd06d.md) |
+| Jolt Physics | v5.6.0 | 2026-07-11T18:55:00Z | [open](../records/physics-engines-jolt-physics-3ac5b243.md) |
+| NVIDIA PhysX | ovphysx-0.5.11 | 2026-08-28T09:06:55Z | [open](../records/physics-engines-nvidia-physx-8fd4adec.md) |
+| Open Dynamics Engine | unknown | github_latest_release_missing | [open](../records/physics-engines-open-dynamics-engine-1018dfe4.md) |
+| Rapier | unknown | github_latest_release_missing | [open](../records/physics-engines-rapier-6fed13ab.md) |
 
 ## Game Engines
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Bevy | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/game-engines-bevy-60c1e426.md) |
-| Cocos2d-x | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/game-engines-cocos2d-x-e1a83bf7.md) |
-| Defold | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/game-engines-defold-d45c4b4f.md) |
-| Godot Engine | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/game-engines-godot-engine-a4802128.md) |
-| libGDX | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/game-engines-libgdx-b036892d.md) |
-| Love2D | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/game-engines-love2d-7dc38d2c.md) |
-| O3DE | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/game-engines-o3de-5c2f5359.md) |
-| Phaser | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/game-engines-phaser-b29d3acb.md) |
-| Ren'Py | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/game-engines-ren-py-e43fed33.md) |
-| Stride | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/game-engines-stride-b11d3335.md) |
+| Bevy | v0.19.1 | 2026-08-13T00:02:58Z | [open](../records/game-engines-bevy-60c1e426.md) |
+| Cocos2d-x | unknown | github_latest_release_missing | [open](../records/game-engines-cocos2d-x-e1a83bf7.md) |
+| Defold | 1.13.1 | 2026-08-17T09:41:04Z | [open](../records/game-engines-defold-d45c4b4f.md) |
+| Godot Engine | 4.7.2-stable | 2026-08-18T16:12:28Z | [open](../records/game-engines-godot-engine-a4802128.md) |
+| libGDX | 1.14.2 | 2026-06-05T08:18:26Z | [open](../records/game-engines-libgdx-b036892d.md) |
+| Love2D | 11.5 | 2023-12-03T13:39:06Z | [open](../records/game-engines-love2d-7dc38d2c.md) |
+| O3DE | 2605.0 | 2026-05-27T17:01:43Z | [open](../records/game-engines-o3de-5c2f5359.md) |
+| Phaser | v4.2.1 | 2026-07-09T14:33:40Z | [open](../records/game-engines-phaser-b29d3acb.md) |
+| Ren'Py | 8.5.3.26051504 | 2026-05-16T02:09:49Z | [open](../records/game-engines-ren-py-e43fed33.md) |
+| Stride | releases/4.3.0.2507 | 2025-11-22T14:28:09Z | [open](../records/game-engines-stride-b11d3335.md) |
 | Unity | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/game-engines-unity-4dc4dccb.md) |
 | Unreal Engine | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/game-engines-unreal-engine-1ab0de2d.md) |
+
+## Maps
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| valhalla/valhalla | 3.8.3 | 2026-07-25T00:36:54Z | [open](../records/maps-valhalla-valhalla-de56d91f.md) |
 
 ## Space Engines
 
@@ -208,14 +214,14 @@ Records: `103`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| dethrace-labs/dethrace | partial | 2026-08-18T13:12:35Z | [open](../records/assembly-dethrace-labs-dethrace-0d609365.md) |
+| dethrace-labs/dethrace | v0.10.1 | 2026-02-22T21:40:00Z | [open](../records/assembly-dethrace-labs-dethrace-0d609365.md) |
 
 ## Pattern language
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bmadone/senior-software-engineer | partial | 2026-05-09T17:38:39Z | [open](../records/pattern-language-bmadone-senior-software-engineer-96968937.md) |
-| QianMo/Unity-Design-Pattern | partial | 2020-02-06T05:00:57Z | [open](../records/pattern-language-qianmo-unity-design-pattern-dd640cdc.md) |
+| bmadone/senior-software-engineer | unknown | github_latest_release_missing | [open](../records/pattern-language-bmadone-senior-software-engineer-96968937.md) |
+| QianMo/Unity-Design-Pattern | unknown | github_latest_release_missing | [open](../records/pattern-language-qianmo-unity-design-pattern-dd640cdc.md) |
 
 ## WebAssembly
 
