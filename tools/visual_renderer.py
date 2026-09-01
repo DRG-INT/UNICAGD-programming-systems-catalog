@@ -30,11 +30,23 @@ try:
 except ImportError:
     FIGLET_AVAILABLE = False
 
-# Character density ramp for gradients
-DENSITY_RAMP = " .'`^\",:;!~*oea%#@"
+# Character density ramp for gradients (GitHub-compatible)
+DENSITY_RAMP = " .:-=+*#%@"
 
-# Extended density ramp with Unicode blocks
-BLOCK_DENSITY = " " + "░▒▓█"
+# GitHub-compatible block gradient
+BLOCK_GRADIENT = "█▓▒░ "
+
+# Step blocks for fine gradients
+BLOCK_STEPS = "▏▎▍▌▋▊▉"
+
+# Dot-like characters for obfuscation
+OBFUSCATION_DOTS = ".∘·•◦°○"
+
+# Cursor block characters for quality indicators
+CURSOR_BLOCKS = list("▇▆▅▄▃▂▁")
+
+# Trigger characters for link obfuscation
+TRIGGER_CHARS = list("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789")
 
 # Font mapping for record icons - use only available pyfiglet fonts
 FONT_ALIASES = {
@@ -65,6 +77,13 @@ FONT_ALIASES = {
     "bc": "big",
     "pattern language": "big",
 }
+
+
+# Cursor block characters for quality indicators
+CURSOR_BLOCKS = list("▇▆▅▄▃▂▁")
+
+# Trigger characters for link obfuscation
+TRIGGER_CHARS = list("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789")
 
 
 def render_header(text: str, font: str = "standard", width: int = 80) -> str:
