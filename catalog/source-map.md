@@ -8,19 +8,19 @@
 [Benchmarking (100)](by-category/benchmarking.md) · [Build System (764)](by-category/build-system.md) · [Cli (484)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (80)](by-category/community-reference.md) · [Compiler (155)](by-category/compiler.md) · [Compiler Diagnostics (22)](by-category/compiler-diagnostics.md) · [Compression (42)](by-category/compression.md)
 [Concurrency Parallelism (70)](by-category/concurrency-parallelism.md) · [Configuration (94)](by-category/configuration.md) · [Container Deployment (8)](by-category/container-deployment.md) · [Coverage (11)](by-category/coverage.md)
-[Cryptography (153)](by-category/cryptography.md) · [Data Science (32)](by-category/data-science.md) · [Database Datastore (638)](by-category/database-datastore.md) · [Datetime (143)](by-category/datetime.md)
+[Cryptography (153)](by-category/cryptography.md) · [Data Science (32)](by-category/data-science.md) · [Database Datastore (639)](by-category/database-datastore.md) · [Datetime (143)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (40)](by-category/debugger.md) · [Dependency Manager (79)](by-category/dependency-manager.md) · [Documentation (77)](by-category/documentation.md)
 [Embedded Hardware (43)](by-category/embedded-hardware.md) · [Ffi Bindings (367)](by-category/ffi-bindings.md) · [Filesystem Os (1080)](by-category/filesystem-os.md) · [Formatter (526)](by-category/formatter.md)
 [Framework (44)](by-category/framework.md) · [Fuzzer (45)](by-category/fuzzer.md) · [Game Engine Game Dev (135)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1072)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (216)](by-category/image-audio-dsp.md) · [Interop Bindings (52)](by-category/interop-bindings.md) · [Interpreter Runtime (216)](by-category/interpreter-runtime.md) · [Jit Vm (56)](by-category/jit-vm.md)
-[Language Server (26)](by-category/language-server.md) · [Language Specification (1189)](by-category/language-specification.md) · [Library (4647)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Image Audio Dsp (216)](by-category/image-audio-dsp.md) · [Interop Bindings (52)](by-category/interop-bindings.md) · [Interpreter Runtime (220)](by-category/interpreter-runtime.md) · [Jit Vm (56)](by-category/jit-vm.md)
+[Language Server (26)](by-category/language-server.md) · [Language Specification (1208)](by-category/language-specification.md) · [Library (4647)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (40)](by-category/lint-rule-pack.md) · [Linter (344)](by-category/linter.md) · [Logging Observability (317)](by-category/logging-observability.md) · [Machine Learning (544)](by-category/machine-learning.md)
 [Math Numeric Scientific (78)](by-category/math-numeric-scientific.md) · [Memory Analyzer (73)](by-category/memory-analyzer.md) · [Message Broker (31)](by-category/message-broker.md) · [Networking Http (883)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (244)](by-category/package-manager.md) · [Parser Lexer Ast (866)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (252)](by-category/precommit-ci-quality.md)
+[Other (14)](by-category/other.md) · [Package Manager (244)](by-category/package-manager.md) · [Parser Lexer Ast (867)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (252)](by-category/precommit-ci-quality.md)
 [Profiler (66)](by-category/profiler.md) · [Project Scaffolding (107)](by-category/project-scaffolding.md) · [Registry Repository (107)](by-category/registry-repository.md) · [Sanitizer (12)](by-category/sanitizer.md)
 [Security Sast (306)](by-category/security-sast.md) · [Serialization (361)](by-category/serialization.md) · [Standard Library (23)](by-category/standard-library.md) · [Static Analyzer (406)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (486)](by-category/testing-framework.md) · [Tutorial Book Styleguide (52)](by-category/tutorial-book-styleguide.md) · [Type Checker (276)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1328)](by-category/undefined-behavior-analyzer.md) · [Utility Library (89)](by-category/utility-library.md) · [Visualization Gui (389)](by-category/visualization-gui.md) · [Web Framework (372)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1329)](by-category/undefined-behavior-analyzer.md) · [Utility Library (89)](by-category/utility-library.md) · [Visualization Gui (389)](by-category/visualization-gui.md) · [Web Framework (372)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -4923,7 +4923,9 @@
 | `gitea_repositories_api-2382102455f115` | Gitea: oxm3nto/Bash-For-Basic-DevOps | [open](records/repository-workplaces-gitea-oxm3nto-bash-for-basic-devops-6deb3d49.md) |
 | `gitea_repositories_api-240dca753330ca` | Gitea: OpenSource-Auth/auth-server-backup | [open](records/repository-workplaces-gitea-opensource-auth-auth-server-backup-6d7e0f82.md) |
 | `gitea_repositories_api-26433e7f46279c` | Gitea: lunny/levelqueue | [open](records/repository-workplaces-gitea-lunny-levelqueue-396594f9.md) |
+| `gitea_repositories_api-284e067a7c36d4` | Gitea: afzal/bangladesh-struggle-for-independence | [open](records/repository-workplaces-gitea-afzal-bangladesh-struggle-for-independence-bc17a5b9.md) |
 | `gitea_repositories_api-29b26d7eb90aaf` | Gitea: galaxy-future/alist | [open](records/repository-workplaces-gitea-galaxy-future-alist-0e422fd3.md) |
+| `gitea_repositories_api-29d3abc447fe72` | Gitea: plutodoc/language-server-protocol-documentation | [open](records/repository-workplaces-gitea-plutodoc-language-server-protocol-documentation-42e6b970.md) |
 | `gitea_repositories_api-2bae5d57e8a9ed` | Gitea: best-iptv-service-provider-2026/Best-IPTV-USA-2026-Providers-Pricing-Devices-Guide | [open](records/repository-workplaces-gitea-best-iptv-service-provider-2026-best-iptv-usa-2026-providers-pricing-devices-guide-06499f89.md) |
 | `gitea_repositories_api-2e079a9c89bff7` | Gitea: Taizukii/agario-server-db | [open](records/repository-workplaces-gitea-taizukii-agario-server-db-49452ff3.md) |
 | `gitea_repositories_api-2ef2fc0cca80f5` | Gitea: lunny/weixinapp | [open](records/repository-workplaces-gitea-lunny-weixinapp-6304711b.md) |
@@ -4932,6 +4934,7 @@
 | `gitea_repositories_api-30ea926c5a6d7e` | Gitea: 0b1tadmin/1-12-2_server | [open](records/repository-workplaces-gitea-0b1tadmin-1-12-2-server-e2800008.md) |
 | `gitea_repositories_api-323ebfec2cb285` | Gitea: avagarcia000/Avagarcia-s-works | [open](records/repository-workplaces-gitea-avagarcia000-avagarcia-s-works-97423086.md) |
 | `gitea_repositories_api-32a5b875dc68f9` | Gitea: benito.rodriguez/ASCII_ROMPECABEZAS | [open](records/repository-workplaces-gitea-benito-rodriguez-ascii-rompecabezas-4bd6f9e4.md) |
+| `gitea_repositories_api-3438934e898fb5` | Gitea: mahanfr/Nmet | [open](records/repository-workplaces-gitea-mahanfr-nmet-93211b47.md) |
 | `gitea_repositories_api-352b2dd86e29d1` | Gitea: baocode0411/ascii-art | [open](records/repository-workplaces-gitea-baocode0411-ascii-art-6dc39c37.md) |
 | `gitea_repositories_api-35879635f8b65a` | Gitea: afzal/bangladesh-struggle-for-independence | [open](records/repository-workplaces-gitea-afzal-bangladesh-struggle-for-independence-572a75c0.md) |
 | `gitea_repositories_api-35b1b1e54583c7` | Gitea: kmpm/edit-server | [open](records/repository-workplaces-gitea-kmpm-edit-server-3083a1fa.md) |
@@ -4941,10 +4944,13 @@
 | `gitea_repositories_api-3969c7028a1099` | Gitea: rickyboy1234567890/ascii-art | [open](records/repository-workplaces-gitea-rickyboy1234567890-ascii-art-7a51e08b.md) |
 | `gitea_repositories_api-3ab26cc8e8e66d` | Gitea: boulahya/all_c_exercices | [open](records/repository-workplaces-gitea-boulahya-all-c-exercices-cb94baf8.md) |
 | `gitea_repositories_api-3b4e314a65814e` | Gitea: AndreyWorker312/chat-server | [open](records/repository-workplaces-gitea-andreyworker312-chat-server-e85b70ea.md) |
+| `gitea_repositories_api-3b6f7319552da8` | Gitea: RXC/Cix-Language | [open](records/repository-workplaces-gitea-rxc-cix-language-98a9a941.md) |
 | `gitea_repositories_api-3cd00bf5e01090` | Gitea: Cloud_GitDevSecOps/DevOps | [open](records/repository-workplaces-gitea-cloud-gitdevsecops-devops-a02af9b3.md) |
 | `gitea_repositories_api-3cd95565f5055d` | Gitea: dasdas/codebase-memory-mcp | [open](records/repository-workplaces-gitea-dasdas-codebase-memory-mcp-083ad75c.md) |
 | `gitea_repositories_api-3e330316d94bac` | Gitea: docker_test/db2 | [open](records/repository-workplaces-gitea-docker-test-db2-173a455c.md) |
+| `gitea_repositories_api-40ba737225f6eb` | Gitea: philosopher033427615/awesome-chatgpt-prompts | [open](records/repository-workplaces-gitea-philosopher033427615-awesome-chatgpt-prompts-99144706.md) |
 | `gitea_repositories_api-42bcf4d07cd1be` | Gitea: EasterTheBunny/ftp_server | [open](records/repository-workplaces-gitea-easterthebunny-ftp-server-4f03e8e6.md) |
+| `gitea_repositories_api-43223a8e45f02b` | Gitea: Praseodym/NaturalLanguageProcessing | [open](records/repository-workplaces-gitea-praseodym-naturallanguageprocessing-468cbaa6.md) |
 | `gitea_repositories_api-43a36b4f5602bd` | Gitea: vallu/ascii_eng | [open](records/repository-workplaces-gitea-vallu-ascii-eng-13c4106a.md) |
 | `gitea_repositories_api-479ea948259400` | Gitea: unatick/1panel-runtime-update | [open](records/repository-workplaces-gitea-unatick-1panel-runtime-update-98638045.md) |
 | `gitea_repositories_api-49b4074aa9df2a` | Gitea: bkikenski/DevOps-Demo-Project | [open](records/repository-workplaces-gitea-bkikenski-devops-demo-project-e84af9d7.md) |
@@ -4956,9 +4962,13 @@
 | `gitea_repositories_api-50af53af382bbd` | Gitea: webixbest/best-iptv-server | [open](records/repository-workplaces-gitea-webixbest-best-iptv-server-b8e49d1f.md) |
 | `gitea_repositories_api-50eee7153d01a1` | Gitea: AaronFiore/btcpayserver-docker | [open](records/repository-workplaces-gitea-aaronfiore-btcpayserver-docker-65536044.md) |
 | `gitea_repositories_api-51ce29f02f82f9` | Gitea: pogoParty/coqui-tts-server | [open](records/repository-workplaces-gitea-pogoparty-coqui-tts-server-0b3bb8e3.md) |
+| `gitea_repositories_api-5314c1a9e49c6f` | Gitea: NSIS/language-data | [open](records/repository-workplaces-gitea-nsis-language-data-b33cf1af.md) |
+| `gitea_repositories_api-563c28bf002e05` | Gitea: eq/CursorLanguageIndicator | [open](records/repository-workplaces-gitea-eq-cursorlanguageindicator-3fe5fdec.md) |
+| `gitea_repositories_api-571d149c0aa232` | Gitea: Gala_Group/GalaRuntime | [open](records/repository-workplaces-gitea-gala-group-galaruntime-c30c90ab.md) |
 | `gitea_repositories_api-57af9d3e4452e1` | Gitea: dhruv_patel/express | [open](records/repository-workplaces-gitea-dhruv-patel-express-37b47e60.md) |
 | `gitea_repositories_api-5955831f042ea6` | Gitea: APYieldFarmer/devops | [open](records/repository-workplaces-gitea-apyieldfarmer-devops-0041de3d.md) |
 | `gitea_repositories_api-5a6ab174086f25` | Gitea: ElliotRedmond/Achieve-Cisco-300-730-Certification-Success--Your-Strategic-Partner-with-CertsBoard | [open](records/repository-workplaces-gitea-elliotredmond-achieve-cisco-300-730-certification-success-your-strategic-partner-with-certsboard-45c77640.md) |
+| `gitea_repositories_api-5abad1c4e6779c` | Gitea: ML-Programs/ml-programming-language | [open](records/repository-workplaces-gitea-ml-programs-ml-programming-language-36acdbba.md) |
 | `gitea_repositories_api-5ea5bb268c0b21` | Gitea: plumbum/esim-server | [open](records/repository-workplaces-gitea-plumbum-esim-server-717006d2.md) |
 | `gitea_repositories_api-611a28154fe17f` | Gitea: afzal/bangladesh-land-law-treatise | [open](records/repository-workplaces-gitea-afzal-bangladesh-land-law-treatise-8fcb7e22.md) |
 | `gitea_repositories_api-65bf42fdc67696` | Gitea: zhangyunfei/devops | [open](records/repository-workplaces-gitea-zhangyunfei-devops-d2c588aa.md) |
@@ -4977,6 +4987,7 @@
 | `gitea_repositories_api-815bff51f30977` | Gitea: ndroid/admin_panel-server-alpacino | [open](records/repository-workplaces-gitea-ndroid-admin-panel-server-alpacino-13a7886d.md) |
 | `gitea_repositories_api-88d781cdbf4ace` | Gitea: JaffarNasir/188BET--Discover-the-Exciting-World-of-Casino-188BET | [open](records/repository-workplaces-gitea-jaffarnasir-188bet-discover-the-exciting-world-of-casino-188bet-7fdea9a1.md) |
 | `gitea_repositories_api-8d3f71dfd7e7a8` | Gitea: palmcoasty/bunkerweb | [open](records/repository-workplaces-gitea-palmcoasty-bunkerweb-ad9b3891.md) |
+| `gitea_repositories_api-8f1235617751b5` | Gitea: linusified/isjsruntime | [open](records/repository-workplaces-gitea-linusified-isjsruntime-83a73a71.md) |
 | `gitea_repositories_api-9411c7df9b9904` | Gitea: alesha228/astrum-lucis-weather-app | [open](records/repository-workplaces-gitea-alesha228-astrum-lucis-weather-app-82652e3b.md) |
 | `gitea_repositories_api-95c1d56b8e756f` | Gitea: wa-lang/wa | [open](records/repository-workplaces-gitea-wa-lang-wa-c1d6dd94.md) |
 | `gitea_repositories_api-95f135e92c2c13` | Gitea: Wyq/DevOpsT | [open](records/repository-workplaces-gitea-wyq-devopst-c5e36431.md) |
@@ -5005,6 +5016,7 @@
 | `gitea_repositories_api-b6239eaab64bfc` | Gitea: portellam3/Obsidian-workflow-docs | [open](records/repository-workplaces-gitea-portellam3-obsidian-workflow-docs-c150f9ea.md) |
 | `gitea_repositories_api-b6c8b7a61409cd` | Gitea: B27_ADDIN/B27_CIV_BATCH | [open](records/repository-workplaces-gitea-b27-addin-b27-civ-batch-5c3013c6.md) |
 | `gitea_repositories_api-b956cf2ff088c1` | Gitea: AlehBerasneu/aston_devops_intensive_2025 | [open](records/repository-workplaces-gitea-alehberasneu-aston-devops-intensive-2025-cdb47f54.md) |
+| `gitea_repositories_api-b9ebb77543f285` | Gitea: BenjaminWeisz/Open-Source-Languages | [open](records/repository-workplaces-gitea-benjaminweisz-open-source-languages-383363ee.md) |
 | `gitea_repositories_api-bda80710b8d2c6` | Gitea: lifen/devops-jobs-v2 | [open](records/repository-workplaces-gitea-lifen-devops-jobs-v2-e7e48e9b.md) |
 | `gitea_repositories_api-bdba6b93e873a1` | Gitea: tuulie/ascii-bitwise-chart-tool-for-unix-terminal | [open](records/repository-workplaces-gitea-tuulie-ascii-bitwise-chart-tool-for-unix-terminal-8d18d471.md) |
 | `gitea_repositories_api-bf4bb6b27c7e84` | Gitea: Falcon/Falcon.StoredProcedureRunner | [open](records/repository-workplaces-gitea-falcon-falcon-storedprocedurerunner-aa5c516a.md) |
@@ -5012,24 +5024,32 @@
 | `gitea_repositories_api-c1d361e320a642` | Gitea: ks2515/codecrafters-http-server-go | [open](records/repository-workplaces-gitea-ks2515-codecrafters-http-server-go-a645fafb.md) |
 | `gitea_repositories_api-c6a9b132a8074b` | Gitea: kalkabena/ASCIIlery-game | [open](records/repository-workplaces-gitea-kalkabena-asciilery-game-26745840.md) |
 | `gitea_repositories_api-c6c2203bff6b0f` | Gitea: Befaci03/collab-vm-1.2-server-bettetweak | [open](records/repository-workplaces-gitea-befaci03-collab-vm-1-2-server-bettetweak-82605f6b.md) |
+| `gitea_repositories_api-c6fd0e412bbe7c` | Gitea: MokhovEvgeniiGennadevich/2023-same-in-languages | [open](records/repository-workplaces-gitea-mokhovevgeniigennadevich-2023-same-in-languages-0f876282.md) |
 | `gitea_repositories_api-c8a640e6419763` | Gitea: sowen1023/coco-server | [open](records/repository-workplaces-gitea-sowen1023-coco-server-6922e537.md) |
+| `gitea_repositories_api-c9d98a65538594` | Gitea: catnipteaparty/empirical-reasoning-language-model | [open](records/repository-workplaces-gitea-catnipteaparty-empirical-reasoning-language-model-1e621f6a.md) |
 | `gitea_repositories_api-ca1825eda2102f` | Gitea: mspricing/bcpricing | [open](records/repository-workplaces-gitea-mspricing-bcpricing-88b14f8e.md) |
 | `gitea_repositories_api-ca90fe01efa633` | Gitea: Rayn/artificial-potential-field | [open](records/repository-workplaces-gitea-rayn-artificial-potential-field-955c1049.md) |
 | `gitea_repositories_api-cc97ff02a5cc51` | Gitea: lunny/size | [open](records/repository-workplaces-gitea-lunny-size-39ab5da8.md) |
 | `gitea_repositories_api-ccd79d0467b38d` | Gitea: serpdotai/Chat-LLaMA-8bit-LoRA | [open](records/repository-workplaces-gitea-serpdotai-chat-llama-8bit-lora-19437960.md) |
 | `gitea_repositories_api-ce6cae9f49c91a` | Gitea: tayande/ascii-art | [open](records/repository-workplaces-gitea-tayande-ascii-art-456fbf06.md) |
+| `gitea_repositories_api-d2ead82c1fbc80` | Gitea: toafubi/python-getting-started | [open](records/repository-workplaces-gitea-toafubi-python-getting-started-57a2dbf6.md) |
+| `gitea_repositories_api-d300db41961e02` | Gitea: RshBot/VC_Runtime_Research | [open](records/repository-workplaces-gitea-rshbot-vc-runtime-research-0313e8f7.md) |
 | `gitea_repositories_api-d338e3e15583a2` | Gitea: luza/ftp-server | [open](records/repository-workplaces-gitea-luza-ftp-server-ce6b9a1e.md) |
 | `gitea_repositories_api-d3bcac48b9fa9b` | Gitea: IDuckOdd/DevOps | [open](records/repository-workplaces-gitea-iduckodd-devops-024d36e6.md) |
 | `gitea_repositories_api-d3d2840b2be4f5` | Gitea: Undone7167/docker-server | [open](records/repository-workplaces-gitea-undone7167-docker-server-3f666e3a.md) |
 | `gitea_repositories_api-d4cad56f233a1e` | Gitea: adityapoonia/chaddserver | [open](records/repository-workplaces-gitea-adityapoonia-chaddserver-08e4e01b.md) |
 | `gitea_repositories_api-d4f10e6e3f8861` | Gitea: LivelyXuan/AOCserver | [open](records/repository-workplaces-gitea-livelyxuan-aocserver-f99e0d43.md) |
 | `gitea_repositories_api-d759cb35498fb3` | Gitea: best-iptv-guide/Best-IPTV-2026--Trusted-Services-Features-Pricing | [open](records/repository-workplaces-gitea-best-iptv-guide-best-iptv-2026-trusted-services-features-pricing-8139c338.md) |
+| `gitea_repositories_api-da92660375538a` | Gitea: LakshitSinghBishtTM/CoreAI-Protocol-Suite | [open](records/repository-workplaces-gitea-lakshitsinghbishttm-coreai-protocol-suite-46927b9d.md) |
 | `gitea_repositories_api-df02345f9cadfb` | Gitea: goftp/server | [open](records/repository-workplaces-gitea-goftp-server-7512c7a5.md) |
+| `gitea_repositories_api-df4967268c4f9c` | Gitea: WorldofScreenEntertainment/HTML-HyperText-Markup-Language | [open](records/repository-workplaces-gitea-worldofscreenentertainment-html-hypertext-markup-language-817a19c5.md) |
 | `gitea_repositories_api-dfb2cc7d7c46fb` | Gitea: noWie2k/basicImageDeepfakeDetector | [open](records/repository-workplaces-gitea-nowie2k-basicimagedeepfakedetector-b8c1af97.md) |
+| `gitea_repositories_api-e0af31c7ce1b82` | Gitea: ziven/Fun-ASR | [open](records/repository-workplaces-gitea-ziven-fun-asr-2454a99a.md) |
 | `gitea_repositories_api-e3d99e4a22dfc9` | Gitea: afzal/advocate-narsingdi | [open](records/repository-workplaces-gitea-afzal-advocate-narsingdi-1c730665.md) |
 | `gitea_repositories_api-e41718f91fe3d9` | Gitea: ZhuWangPeng/aping_server | [open](records/repository-workplaces-gitea-zhuwangpeng-aping-server-565043dc.md) |
 | `gitea_repositories_api-e59dab6095273c` | Gitea: RachelGardner/Devops | [open](records/repository-workplaces-gitea-rachelgardner-devops-67978e24.md) |
 | `gitea_repositories_api-e7b1f95c2ebf89` | Gitea: cryptoexplorer/AICRYPTOMINER | [open](records/repository-workplaces-gitea-cryptoexplorer-aicryptominer-63195b59.md) |
+| `gitea_repositories_api-e8b7b6640edaa3` | Gitea: machineko/SwiftCU | [open](records/repository-workplaces-gitea-machineko-swiftcu-43d07414.md) |
 | `gitea_repositories_api-ea1e01138f3722` | Gitea: trabalho/devops-app | [open](records/repository-workplaces-gitea-trabalho-devops-app-c6ffee99.md) |
 | `gitea_repositories_api-ebc5f566810589` | Gitea: Dartrolzul/b1-piscine-java | [open](records/repository-workplaces-gitea-dartrolzul-b1-piscine-java-1d0fa7a8.md) |
 | `gitea_repositories_api-ec4edd9f934476` | Gitea: NotHarshhaa/DevOps-Projects | [open](records/repository-workplaces-gitea-notharshhaa-devops-projects-5de77522.md) |
@@ -5822,6 +5842,7 @@
 | `github_search_cocoa-194d4ee648aff9` | NSHipster/nshipster.com | [open](records/cocoa-nshipster-nshipster-com-646cd4e3.md) |
 | `github_search_cocoa-1dbecb1f65346c` | dogo/SCLAlertView | [open](records/cocoa-dogo-sclalertview-73109317.md) |
 | `github_search_cocoa-1dd95fb9df4aad` | hhfa008/SwiftAI | [open](records/cocoa-hhfa008-swiftai-dadec2ef.md) |
+| `github_search_cocoa-20ae73ca4c52eb` | keycastr/keycastr | [open](records/cocoa-keycastr-keycastr-f4c776a3.md) |
 | `github_search_cocoa-21086753368236` | wmcmahan/react-native-calendar-events | [open](records/cocoa-wmcmahan-react-native-calendar-events-387e0782.md) |
 | `github_search_cocoa-212d25f0219a59` | AloneMonkey/MonkeyDev | [open](records/cocoa-alonemonkey-monkeydev-09828048.md) |
 | `github_search_cocoa-2176d23437013b` | fdzsergio/SFFocusViewLayout | [open](records/cocoa-fdzsergio-sffocusviewlayout-b221b24a.md) |
@@ -5882,6 +5903,7 @@
 | `github_search_cocoa-685b17f20e6261` | makomori/Sharaku | [open](records/cocoa-makomori-sharaku-ea65cec8.md) |
 | `github_search_cocoa-6a1f7f081330b6` | twitter/scrooge | [open](records/cocoa-twitter-scrooge-3eef7c88.md) |
 | `github_search_cocoa-6b1fad1f7c4255` | madsmtm/objc2 | [open](records/cocoa-madsmtm-objc2-ab58a215.md) |
+| `github_search_cocoa-6c32c5211ae73a` | jdg/MBProgressHUD | [open](records/cocoa-jdg-mbprogresshud-e13b5233.md) |
 | `github_search_cocoa-6cadffcf954fec` | dustturtle/RealReachability | [open](records/cocoa-dustturtle-realreachability-89a5cfc6.md) |
 | `github_search_cocoa-6e7e4ce7875767` | lovoo/NSFWDetector | [open](records/cocoa-lovoo-nsfwdetector-48ea3715.md) |
 | `github_search_cocoa-6f1c5ebe8319c0` | SVProgressHUD/SVProgressHUD | [open](records/cocoa-svprogresshud-svprogresshud-7ef7b9b2.md) |
@@ -5940,6 +5962,7 @@
 | `github_search_cocoa-c9b01b86f9280d` | saucer/saucer | [open](records/cocoa-saucer-saucer-338e12ec.md) |
 | `github_search_cocoa-cb7568fe9429d6` | emqx/CocoaMQTT | [open](records/cocoa-emqx-cocoamqtt-ef5d936b.md) |
 | `github_search_cocoa-cc4c9adb13f933` | JohnSundell/TestDrive | [open](records/cocoa-johnsundell-testdrive-98007bfc.md) |
+| `github_search_cocoa-cc4fa9e68b4e99` | Hammerspoon/hammerspoon | [open](records/cocoa-hammerspoon-hammerspoon-1d35b69a.md) |
 | `github_search_cocoa-cce68ac8cfe81b` | textmate/textmate | [open](records/cocoa-textmate-textmate-91b26640.md) |
 | `github_search_cocoa-ceecf63b4fff72` | BenEmdon/CenteredCollectionView | [open](records/cocoa-benemdon-centeredcollectionview-086c96b7.md) |
 | `github_search_cocoa-d1efd3f26fa1b8` | marcosgriselli/SwipeableTabBarController | [open](records/cocoa-marcosgriselli-swipeabletabbarcontroller-78b50143.md) |
@@ -6001,6 +6024,7 @@
 | `github_search_databases-5d09ebe61013e1` | dgraph-io/dgraph | [open](records/databases-dgraph-io-dgraph-d8a0cd12.md) |
 | `github_search_databases-63fe4f0caa36fc` | vesoft-inc/nebula | [open](records/databases-vesoft-inc-nebula-ddaede03.md) |
 | `github_search_databases-6481a23384330a` | geldata/gel | [open](records/databases-geldata-gel-a5e3c51e.md) |
+| `github_search_databases-680f7747e5a09a` | dbcli/mycli | [open](records/databases-dbcli-mycli-1357562c.md) |
 | `github_search_databases-6990c83e63759c` | prisma/prisma1 | [open](records/databases-prisma-prisma1-3cff6fc2.md) |
 | `github_search_databases-6a007c39d55878` | realm/realm-swift | [open](records/databases-realm-realm-swift-da686512.md) |
 | `github_search_databases-6b1811228d817a` | duckdb/duckdb | [open](records/databases-duckdb-duckdb-654530e3.md) |
@@ -6030,6 +6054,7 @@
 | `github_search_databases-a4f1dc844f759a` | taosdata/TDengine | [open](records/databases-taosdata-tdengine-57f74fd3.md) |
 | `github_search_databases-a9081bdbc5d0bf` | sinaptik-ai/pandas-ai | [open](records/databases-sinaptik-ai-pandas-ai-51421c6b.md) |
 | `github_search_databases-a9193d52ec88ba` | neondatabase/neon | [open](records/databases-neondatabase-neon-3c375148.md) |
+| `github_search_databases-ab02469f0cdaa3` | StarRocks/starrocks | [open](records/databases-starrocks-starrocks-fa80e1a7.md) |
 | `github_search_databases-abc378e45720f1` | citusdata/citus | [open](records/databases-citusdata-citus-5748489c.md) |
 | `github_search_databases-adb1601d0d50ed` | chartdb/chartdb | [open](records/databases-chartdb-chartdb-227bd0d2.md) |
 | `github_search_databases-b0ffff206671fc` | t8y2/dbx | [open](records/databases-t8y2-dbx-97368a4a.md) |
@@ -6050,6 +6075,7 @@
 | `github_search_databases-eb02e58c4e7101` | beekeeper-studio/beekeeper-studio | [open](records/databases-beekeeper-studio-beekeeper-studio-a999ac61.md) |
 | `github_search_databases-edd18f39dcd1d3` | googleapis/mcp-toolbox | [open](records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
 | `github_search_databases-f0bb295bbd0f33` | apache/zookeeper | [open](records/databases-apache-zookeeper-3f9970e6.md) |
+| `github_search_databases-f0ef1d3a4de08e` | manticoresoftware/manticoresearch | [open](records/databases-manticoresoftware-manticoresearch-bdec8759.md) |
 | `github_search_databases-f395aaf6482bce` | dhamaniasad/awesome-postgres | [open](records/databases-dhamaniasad-awesome-postgres-fe1c0890.md) |
 | `github_search_databases-f706a0ba6cb949` | influxdata/influxdb | [open](records/databases-influxdata-influxdb-1fb47735.md) |
 | `github_search_databases-f8fadb0b10bdfc` | Asabeneh/30-Days-Of-Python | [open](records/databases-asabeneh-30-days-of-python-d36bd185.md) |

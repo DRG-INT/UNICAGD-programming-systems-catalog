@@ -1,6 +1,6 @@
 # Repository Workplaces
 
-Records: `393`
+Records: `413`
 
 ## Navigation
 
@@ -12,19 +12,19 @@ Records: `393`
 [Benchmarking (100)](../by-category/benchmarking.md) · [Build System (764)](../by-category/build-system.md) · [Cli (484)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (80)](../by-category/community-reference.md) · [Compiler (155)](../by-category/compiler.md) · [Compiler Diagnostics (22)](../by-category/compiler-diagnostics.md) · [Compression (42)](../by-category/compression.md)
 [Concurrency Parallelism (70)](../by-category/concurrency-parallelism.md) · [Configuration (94)](../by-category/configuration.md) · [Container Deployment (8)](../by-category/container-deployment.md) · [Coverage (11)](../by-category/coverage.md)
-[Cryptography (153)](../by-category/cryptography.md) · [Data Science (32)](../by-category/data-science.md) · [Database Datastore (638)](../by-category/database-datastore.md) · [Datetime (143)](../by-category/datetime.md)
+[Cryptography (153)](../by-category/cryptography.md) · [Data Science (32)](../by-category/data-science.md) · [Database Datastore (639)](../by-category/database-datastore.md) · [Datetime (143)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (40)](../by-category/debugger.md) · [Dependency Manager (79)](../by-category/dependency-manager.md) · [Documentation (77)](../by-category/documentation.md)
 [Embedded Hardware (43)](../by-category/embedded-hardware.md) · [Ffi Bindings (367)](../by-category/ffi-bindings.md) · [Filesystem Os (1080)](../by-category/filesystem-os.md) · [Formatter (526)](../by-category/formatter.md)
 [Framework (44)](../by-category/framework.md) · [Fuzzer (45)](../by-category/fuzzer.md) · [Game Engine Game Dev (135)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1072)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (216)](../by-category/image-audio-dsp.md) · [Interop Bindings (52)](../by-category/interop-bindings.md) · [Interpreter Runtime (216)](../by-category/interpreter-runtime.md) · [Jit Vm (56)](../by-category/jit-vm.md)
-[Language Server (26)](../by-category/language-server.md) · [Language Specification (1189)](../by-category/language-specification.md) · [Library (4647)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Image Audio Dsp (216)](../by-category/image-audio-dsp.md) · [Interop Bindings (52)](../by-category/interop-bindings.md) · [Interpreter Runtime (220)](../by-category/interpreter-runtime.md) · [Jit Vm (56)](../by-category/jit-vm.md)
+[Language Server (26)](../by-category/language-server.md) · [Language Specification (1208)](../by-category/language-specification.md) · [Library (4647)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (40)](../by-category/lint-rule-pack.md) · [Linter (344)](../by-category/linter.md) · [Logging Observability (317)](../by-category/logging-observability.md) · [Machine Learning (544)](../by-category/machine-learning.md)
 [Math Numeric Scientific (78)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (73)](../by-category/memory-analyzer.md) · [Message Broker (31)](../by-category/message-broker.md) · [Networking Http (883)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (244)](../by-category/package-manager.md) · [Parser Lexer Ast (866)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (252)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (244)](../by-category/package-manager.md) · [Parser Lexer Ast (867)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (252)](../by-category/precommit-ci-quality.md)
 [Profiler (66)](../by-category/profiler.md) · [Project Scaffolding (107)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (12)](../by-category/sanitizer.md)
 [Security Sast (306)](../by-category/security-sast.md) · [Serialization (361)](../by-category/serialization.md) · [Standard Library (23)](../by-category/standard-library.md) · [Static Analyzer (406)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (486)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (52)](../by-category/tutorial-book-styleguide.md) · [Type Checker (276)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1328)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (89)](../by-category/utility-library.md) · [Visualization Gui (389)](../by-category/visualization-gui.md) · [Web Framework (372)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1329)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (89)](../by-category/utility-library.md) · [Visualization Gui (389)](../by-category/visualization-gui.md) · [Web Framework (372)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -210,7 +210,11 @@ Records: `393`
 | [freedesktop-sdk/freedesktop-sdk](../records/repository-workplaces-freedesktop-sdk-freedesktop-sdk-d7a3f323.md) | partial | 2026-09-01T15:50:14.716Z | registry-derived |
 | [Gitea: Befaci03/collab-vm-1.2-server-bettetweak](../records/repository-workplaces-gitea-befaci03-collab-vm-1-2-server-bettetweak-82605f6b.md) | partial | 2025-04-20T12:00:39Z | registry-derived |
 | [Gitea: cvmuser1000/collab-vm-1.2-server-bettetweak-better](../records/repository-workplaces-gitea-cvmuser1000-collab-vm-1-2-server-bettetweak-better-40a2c6fe.md) | partial | 2025-04-19T11:00:56Z | registry-derived |
+| [Gitea: Gala_Group/GalaRuntime](../records/repository-workplaces-gitea-gala-group-galaruntime-c30c90ab.md) | partial | 2023-09-03T18:22:16Z | registry-derived |
+| [Gitea: linusified/isjsruntime](../records/repository-workplaces-gitea-linusified-isjsruntime-83a73a71.md) | partial | 2026-05-27T10:10:37Z | registry-derived |
+| [Gitea: machineko/SwiftCU](../records/repository-workplaces-gitea-machineko-swiftcu-43d07414.md) | partial | 2024-08-07T20:00:18Z | registry-derived |
 | [Gitea: portellam2/guest-machine-guide](../records/repository-workplaces-gitea-portellam2-guest-machine-guide-87454a0c.md) | partial | 2025-04-08T02:15:44Z | registry-derived |
+| [Gitea: RshBot/VC_Runtime_Research](../records/repository-workplaces-gitea-rshbot-vc-runtime-research-0313e8f7.md) | partial | 2022-04-27T17:03:01Z | registry-derived |
 | [Gitea: unatick/1panel-runtime-update](../records/repository-workplaces-gitea-unatick-1panel-runtime-update-98638045.md) | partial | 2025-11-17T10:22:07Z | registry-derived |
 | [konstellation/kre-old](../records/repository-workplaces-konstellation-kre-old-f992c991.md) | partial | 2025-10-24T07:08:02.251Z | registry-derived |
 | [nucleoid/nucleoid](../records/repository-workplaces-nucleoid-nucleoid-b3f90f4f.md) | partial | 2021-12-01T21:17:33.517Z | registry-derived |
@@ -228,12 +232,28 @@ Records: `393`
 | [basile.b/dexed](../records/repository-workplaces-basile-b-dexed-aa92ba59.md) | partial | 2026-08-31T10:12:27.379Z | registry-derived |
 | [camelot/kickc](../records/repository-workplaces-camelot-kickc-2feefccb.md) | partial | 2025-06-17T06:28:35.793Z | registry-derived |
 | [esr/intercal](../records/repository-workplaces-esr-intercal-06f5df57.md) | partial | 2026-08-13T19:14:21.448Z | registry-derived |
+| [Gitea: afzal/bangladesh-struggle-for-independence](../records/repository-workplaces-gitea-afzal-bangladesh-struggle-for-independence-bc17a5b9.md) | partial | 2026-08-23T20:25:32Z | registry-derived |
+| [Gitea: BenjaminWeisz/Open-Source-Languages](../records/repository-workplaces-gitea-benjaminweisz-open-source-languages-383363ee.md) | partial | 2026-08-04T07:42:40Z | registry-derived |
+| [Gitea: catnipteaparty/empirical-reasoning-language-model](../records/repository-workplaces-gitea-catnipteaparty-empirical-reasoning-language-model-1e621f6a.md) | partial | 2026-05-27T07:52:18Z | registry-derived |
 | [Gitea: dasdas/codebase-memory-mcp](../records/repository-workplaces-gitea-dasdas-codebase-memory-mcp-083ad75c.md) | partial | 2026-06-19T23:31:00Z | registry-derived |
+| [Gitea: eq/CursorLanguageIndicator](../records/repository-workplaces-gitea-eq-cursorlanguageindicator-3fe5fdec.md) | partial | 2024-03-23T12:58:58Z | registry-derived |
 | [Gitea: grokmeme/gpt4free](../records/repository-workplaces-gitea-grokmeme-gpt4free-36288b9f.md) | partial | 2024-06-08T11:22:27Z | registry-derived |
+| [Gitea: LakshitSinghBishtTM/CoreAI-Protocol-Suite](../records/repository-workplaces-gitea-lakshitsinghbishttm-coreai-protocol-suite-46927b9d.md) | partial | 2026-08-26T06:20:56Z | registry-derived |
+| [Gitea: mahanfr/Nmet](../records/repository-workplaces-gitea-mahanfr-nmet-93211b47.md) | partial | 2025-12-17T10:24:43Z | registry-derived |
+| [Gitea: ML-Programs/ml-programming-language](../records/repository-workplaces-gitea-ml-programs-ml-programming-language-36acdbba.md) | partial | 2025-02-03T22:38:09Z | registry-derived |
+| [Gitea: MokhovEvgeniiGennadevich/2023-same-in-languages](../records/repository-workplaces-gitea-mokhovevgeniigennadevich-2023-same-in-languages-0f876282.md) | partial | 2023-12-18T19:59:26Z | registry-derived |
+| [Gitea: NSIS/language-data](../records/repository-workplaces-gitea-nsis-language-data-b33cf1af.md) | partial | 2021-05-09T16:06:47Z | registry-derived |
+| [Gitea: philosopher033427615/awesome-chatgpt-prompts](../records/repository-workplaces-gitea-philosopher033427615-awesome-chatgpt-prompts-99144706.md) | partial | 2024-11-13T13:12:13Z | registry-derived |
+| [Gitea: plutodoc/language-server-protocol-documentation](../records/repository-workplaces-gitea-plutodoc-language-server-protocol-documentation-42e6b970.md) | partial | 2022-05-20T08:43:19Z | registry-derived |
+| [Gitea: Praseodym/NaturalLanguageProcessing](../records/repository-workplaces-gitea-praseodym-naturallanguageprocessing-468cbaa6.md) | partial | 2023-10-14T06:36:28Z | registry-derived |
+| [Gitea: RXC/Cix-Language](../records/repository-workplaces-gitea-rxc-cix-language-98a9a941.md) | partial | 2026-04-28T14:01:37Z | registry-derived |
 | [Gitea: serpdotai/Chat-LLaMA-8bit-LoRA](../records/repository-workplaces-gitea-serpdotai-chat-llama-8bit-lora-19437960.md) | partial | 2023-05-04T12:21:52Z | registry-derived |
 | [Gitea: serpdotai/V3CTRON-vector-database-embedding-neural-search-retrieval-chatgpt-plugin](../records/repository-workplaces-gitea-serpdotai-v3ctron-vector-database-embedding-neural-search-retrieval-chatgpt-plugin-4865c7de.md) | partial | 2023-05-04T12:26:56Z | registry-derived |
+| [Gitea: toafubi/python-getting-started](../records/repository-workplaces-gitea-toafubi-python-getting-started-57a2dbf6.md) | partial | 2026-05-10T21:50:08Z | registry-derived |
 | [Gitea: tuulie/ascii-bitwise-chart-tool-for-unix-terminal](../records/repository-workplaces-gitea-tuulie-ascii-bitwise-chart-tool-for-unix-terminal-8d18d471.md) | partial | 2025-11-17T14:10:31Z | registry-derived |
 | [Gitea: wa-lang/wa](../records/repository-workplaces-gitea-wa-lang-wa-c1d6dd94.md) | partial | 2025-07-29T01:12:55Z | registry-derived |
+| [Gitea: WorldofScreenEntertainment/HTML-HyperText-Markup-Language](../records/repository-workplaces-gitea-worldofscreenentertainment-html-hypertext-markup-language-817a19c5.md) | partial | 2026-08-08T19:37:36Z | registry-derived |
+| [Gitea: ziven/Fun-ASR](../records/repository-workplaces-gitea-ziven-fun-asr-2454a99a.md) | partial | 2026-02-09T00:00:36Z | registry-derived |
 | [gitlab-org/editor-extensions/gitlab-lsp](../records/repository-workplaces-gitlab-org-editor-extensions-gitlab-lsp-3ca66d5c.md) | partial | 2026-09-01T15:19:03.603Z | registry-derived |
 | [jD91mZM2/nix-lsp](../records/repository-workplaces-jd91mzm2-nix-lsp-871a9f7e.md) | partial | 2022-08-04T13:36:44.721Z | registry-derived |
 | [Polly-lang/Polly](../records/repository-workplaces-polly-lang-polly-4337e87f.md) | partial | 2018-04-23T08:44:56.058Z | registry-derived |
