@@ -1,6 +1,6 @@
 # License Index
 
-Generated: `2026-09-01T05:07:19+00:00`
+Generated: `2026-09-01T05:22:36+00:00`
 
 This page is a license-oriented discovery view. It highlights Apache-2.0 and MIT candidates, keeps preview/nightly signals visible, and raises a backup-plan alert when the catalog cannot prove that a component fits those two license families.
 
