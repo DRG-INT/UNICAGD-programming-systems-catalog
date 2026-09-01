@@ -5,22 +5,22 @@
 ## Category Index
 
 [Api Abi Checker (176)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (41)](by-category/assertion-mocking.md) · [Async Runtime (121)](by-category/async-runtime.md)
-[Benchmarking (108)](by-category/benchmarking.md) · [Build System (790)](by-category/build-system.md) · [Cli (489)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (108)](by-category/benchmarking.md) · [Build System (790)](by-category/build-system.md) · [Cli (491)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (81)](by-category/community-reference.md) · [Compiler (157)](by-category/compiler.md) · [Compiler Diagnostics (22)](by-category/compiler-diagnostics.md) · [Compression (44)](by-category/compression.md)
 [Concurrency Parallelism (71)](by-category/concurrency-parallelism.md) · [Configuration (96)](by-category/configuration.md) · [Container Deployment (8)](by-category/container-deployment.md) · [Coverage (11)](by-category/coverage.md)
-[Cryptography (153)](by-category/cryptography.md) · [Data Science (32)](by-category/data-science.md) · [Database Datastore (681)](by-category/database-datastore.md) · [Datetime (156)](by-category/datetime.md)
+[Cryptography (153)](by-category/cryptography.md) · [Data Science (32)](by-category/data-science.md) · [Database Datastore (682)](by-category/database-datastore.md) · [Datetime (156)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (40)](by-category/debugger.md) · [Dependency Manager (80)](by-category/dependency-manager.md) · [Documentation (77)](by-category/documentation.md)
 [Embedded Hardware (47)](by-category/embedded-hardware.md) · [Ffi Bindings (376)](by-category/ffi-bindings.md) · [Filesystem Os (1138)](by-category/filesystem-os.md) · [Formatter (535)](by-category/formatter.md)
-[Framework (45)](by-category/framework.md) · [Fuzzer (48)](by-category/fuzzer.md) · [Game Engine Game Dev (139)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1101)](by-category/ide-editor-integration.md)
+[Framework (46)](by-category/framework.md) · [Fuzzer (48)](by-category/fuzzer.md) · [Game Engine Game Dev (139)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1104)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (290)](by-category/image-audio-dsp.md) · [Interop Bindings (52)](by-category/interop-bindings.md) · [Interpreter Runtime (223)](by-category/interpreter-runtime.md) · [Jit Vm (56)](by-category/jit-vm.md)
-[Language Server (26)](by-category/language-server.md) · [Language Specification (1218)](by-category/language-specification.md) · [Library (4679)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (40)](by-category/lint-rule-pack.md) · [Linter (344)](by-category/linter.md) · [Logging Observability (381)](by-category/logging-observability.md) · [Machine Learning (557)](by-category/machine-learning.md)
-[Math Numeric Scientific (78)](by-category/math-numeric-scientific.md) · [Memory Analyzer (75)](by-category/memory-analyzer.md) · [Message Broker (31)](by-category/message-broker.md) · [Networking Http (896)](by-category/networking-http.md)
+[Language Server (26)](by-category/language-server.md) · [Language Specification (1220)](by-category/language-specification.md) · [Library (4683)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (40)](by-category/lint-rule-pack.md) · [Linter (345)](by-category/linter.md) · [Logging Observability (381)](by-category/logging-observability.md) · [Machine Learning (557)](by-category/machine-learning.md)
+[Math Numeric Scientific (78)](by-category/math-numeric-scientific.md) · [Memory Analyzer (75)](by-category/memory-analyzer.md) · [Message Broker (31)](by-category/message-broker.md) · [Networking Http (897)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (254)](by-category/package-manager.md) · [Parser Lexer Ast (888)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (254)](by-category/precommit-ci-quality.md)
 [Profiler (67)](by-category/profiler.md) · [Project Scaffolding (117)](by-category/project-scaffolding.md) · [Registry Repository (107)](by-category/registry-repository.md) · [Sanitizer (12)](by-category/sanitizer.md)
 [Security Sast (308)](by-category/security-sast.md) · [Serialization (364)](by-category/serialization.md) · [Standard Library (23)](by-category/standard-library.md) · [Static Analyzer (422)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (487)](by-category/testing-framework.md) · [Tutorial Book Styleguide (52)](by-category/tutorial-book-styleguide.md) · [Type Checker (282)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1353)](by-category/undefined-behavior-analyzer.md) · [Utility Library (91)](by-category/utility-library.md) · [Visualization Gui (405)](by-category/visualization-gui.md) · [Web Framework (379)](by-category/web-framework.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (488)](by-category/testing-framework.md) · [Tutorial Book Styleguide (52)](by-category/tutorial-book-styleguide.md) · [Type Checker (283)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (1353)](by-category/undefined-behavior-analyzer.md) · [Utility Library (91)](by-category/utility-library.md) · [Visualization Gui (405)](by-category/visualization-gui.md) · [Web Framework (380)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -1161,6 +1161,7 @@
 | `cran_packages_by_date-3e04e013df7c06` | labelled | [open](records/r-labelled-b07b2d3f.md) |
 | `cran_packages_by_date-3e720fb1fc2cde` | diffuseR | [open](records/r-diffuser-6c6d30d6.md) |
 | `cran_packages_by_date-3e7b78d79f772c` | easyRasch2 | [open](records/r-easyrasch2-711ad37f.md) |
+| `cran_packages_by_date-3e857c74685dc0` | buzzMed | [open](records/r-buzzmed-5aea475d.md) |
 | `cran_packages_by_date-3ed32f47fe6e19` | vegan | [open](records/r-vegan-5ac3024c.md) |
 | `cran_packages_by_date-3edcfeee6e3e2f` | binsreg | [open](records/r-binsreg-176e864a.md) |
 | `cran_packages_by_date-3f0334f8acb690` | topologyR | [open](records/r-topologyr-35bfdebd.md) |
@@ -1172,6 +1173,7 @@
 | `cran_packages_by_date-3fa0a5b97b5e90` | BBNI | [open](records/r-bbni-df3b78d7.md) |
 | `cran_packages_by_date-3ff286ccbe4354` | gorica | [open](records/r-gorica-b7655039.md) |
 | `cran_packages_by_date-4044ee82cf4974` | spCF | [open](records/r-spcf-0ee968e4.md) |
+| `cran_packages_by_date-4091a1c42baa61` | semanticfa | [open](records/r-semanticfa-d72b58ad.md) |
 | `cran_packages_by_date-40e182c2b5e2c1` | pre | [open](records/r-pre-14669e77.md) |
 | `cran_packages_by_date-413ecc5f4e6aec` | PGM2 | [open](records/r-pgm2-36428c7c.md) |
 | `cran_packages_by_date-41523592deba46` | survalis | [open](records/r-survalis-1a651db3.md) |
@@ -2031,6 +2033,7 @@
 | `cran_packages_by_date-dbcf80c9c69204` | agecrypt | [open](records/r-agecrypt-ecdcf1cd.md) |
 | `cran_packages_by_date-dbf8a4ee3da5cd` | tidyterra | [open](records/r-tidyterra-a4faa86f.md) |
 | `cran_packages_by_date-dc551400cfbb11` | equatiomatic | [open](records/r-equatiomatic-d1f7cbbe.md) |
+| `cran_packages_by_date-dc990b390294d4` | simglm | [open](records/r-simglm-dc59b7cc.md) |
 | `cran_packages_by_date-dca58ad790b93b` | grout | [open](records/r-grout-65db2b78.md) |
 | `cran_packages_by_date-dca8b91e63636f` | ofhsyn | [open](records/r-ofhsyn-52ef6e90.md) |
 | `cran_packages_by_date-dcc9e9f2aa21ca` | SingRegKrig | [open](records/r-singregkrig-c1a818a3.md) |
@@ -11538,14 +11541,17 @@
 | `hackage_recent-1ea8333adc6eff` | kioku-migrate | [open](records/haskell-kioku-migrate-f80d609d.md) |
 | `hackage_recent-1f69dbd7dfac1e` | secretspec | [open](records/haskell-secretspec-dd9d987d.md) |
 | `hackage_recent-2c80f696145345` | kioku-core | [open](records/haskell-kioku-core-38935c2c.md) |
+| `hackage_recent-2e5eb175e39bb5` | peg-matching | [open](records/haskell-peg-matching-8b470238.md) |
 | `hackage_recent-30bbdc91959c46` | freckle-http | [open](records/haskell-freckle-http-ec27c9f6.md) |
 | `hackage_recent-35beadab7001d5` | what4-domains | [open](records/haskell-what4-domains-20a280a8.md) |
 | `hackage_recent-4a3a499751bc30` | crackNum | [open](records/haskell-cracknum-25e818dd.md) |
 | `hackage_recent-560e75fc58d6d8` | vcs-ignore | [open](records/haskell-vcs-ignore-b594cffb.md) |
+| `hackage_recent-58fa0175997b25` | rme | [open](records/haskell-rme-b14c2f66.md) |
 | `hackage_recent-5c6c989abcb5c8` | typed-peg | [open](records/haskell-typed-peg-d0f69182.md) |
 | `hackage_recent-62497183bd454a` | HMock | [open](records/haskell-hmock-98549601.md) |
 | `hackage_recent-6a3519652d8827` | kioku-api | [open](records/haskell-kioku-api-ebf3c8b4.md) |
 | `hackage_recent-6f6d58eea7fc96` | hOpenPGP | [open](records/haskell-hopenpgp-dbd93565.md) |
+| `hackage_recent-71ff2166351a35` | rme-what4 | [open](records/haskell-rme-what4-e5f70573.md) |
 | `hackage_recent-75c102beb5e066` | what4 | [open](records/haskell-what4-03a48fd1.md) |
 | `hackage_recent-7743035e5050d7` | explainable-predicates | [open](records/haskell-explainable-predicates-6549649b.md) |
 | `hackage_recent-85b70f81457859` | tricorder-mcp | [open](records/haskell-tricorder-mcp-95664038.md) |
@@ -17661,6 +17667,7 @@
 | `npm_registry-2e170d51b3ff79` | type-testing | [open](records/node-js-typescript-type-testing-4fa65126.md) |
 | `npm_registry-2e18c8dff34185` | dumb-passwords | [open](records/node-js-javascript-dumb-passwords-4af16448.md) |
 | `npm_registry-2e1c0644e88c0e` | eslint-plugin-jest-formatting | [open](records/node-js-javascript-eslint-plugin-jest-formatting-489072e7.md) |
+| `npm_registry-2e21f7dcb44ed7` | @launchdarkly/node-server-sdk-redis | [open](records/node-js-javascript-launchdarkly-node-server-sdk-redis-9016e0e8.md) |
 | `npm_registry-2e3f7496c934ea` | prettier-plugin-rust | [open](records/node-js-javascript-prettier-plugin-rust-9f819dba.md) |
 | `npm_registry-2e436073447f1d` | @percy/cli-upload | [open](records/node-js-javascript-percy-cli-upload-866db688.md) |
 | `npm_registry-2e452f896f6c2f` | ts-parse-database-url | [open](records/node-js-typescript-ts-parse-database-url-c4a747e9.md) |
@@ -17741,6 +17748,7 @@
 | `npm_registry-350f78305fcbbb` | @statoscope/cli | [open](records/node-js-javascript-statoscope-cli-1183dedd.md) |
 | `npm_registry-356559e5f34828` | tunnel | [open](records/node-js-javascript-tunnel-efffa304.md) |
 | `npm_registry-3571984443ef81` | oci-logging | [open](records/node-js-javascript-oci-logging-82dcb398.md) |
+| `npm_registry-35900e2f02539d` | @ui5/logger | [open](records/node-js-javascript-ui5-logger-9bf39db4.md) |
 | `npm_registry-35bdb2c5563b9b` | thingies | [open](records/node-js-typescript-thingies-d5a157fe.md) |
 | `npm_registry-35bfbe5f9ef54e` | better-npm-audit | [open](records/node-js-javascript-better-npm-audit-76e8e8a1.md) |
 | `npm_registry-3628edb4edd042` | @cordova/eslint-config | [open](records/node-js-javascript-cordova-eslint-config-af2fb448.md) |
@@ -17848,6 +17856,7 @@
 | `npm_registry-402157d0a7f6a5` | fetch-mock | [open](records/node-js-javascript-fetch-mock-c964ec19.md) |
 | `npm_registry-40241ffec75f59` | @stoplight/prism-http | [open](records/node-js-javascript-stoplight-prism-http-85e35ffc.md) |
 | `npm_registry-402d70a537a366` | cli-sprintf-format | [open](records/node-js-javascript-cli-sprintf-format-fc6af79f.md) |
+| `npm_registry-403d1ae3e5cf64` | @devcycle/cli | [open](records/node-js-javascript-devcycle-cli-ece13be6.md) |
 | `npm_registry-40406a1c32a33e` | @onflow/transport-http | [open](records/node-js-javascript-onflow-transport-http-a1dc0cc4.md) |
 | `npm_registry-404f63ada36c37` | @typescript/typescript-linux-ppc64 | [open](records/node-js-typescript-typescript-typescript-linux-ppc64-b1fdc13b.md) |
 | `npm_registry-404fd453b7c2c6` | method-override | [open](records/node-js-javascript-method-override-b867e757.md) |
@@ -18135,6 +18144,7 @@
 | `npm_registry-5af0c14e7ae6da` | textlint-tester | [open](records/node-js-javascript-textlint-tester-83caf5b8.md) |
 | `npm_registry-5afa81436bd182` | express-openapi-security | [open](records/node-js-javascript-express-openapi-security-0532c252.md) |
 | `npm_registry-5b0a1589127a60` | eslint-mdx | [open](records/node-js-javascript-eslint-mdx-b86f7422.md) |
+| `npm_registry-5b0ee2ea3258d8` | @nexus2520/bitbucket-mcp-server | [open](records/node-js-javascript-nexus2520-bitbucket-mcp-server-c0a72fb2.md) |
 | `npm_registry-5b2d0c6629e167` | @transcend-io/mcp-server-dsr | [open](records/node-js-javascript-transcend-io-mcp-server-dsr-76f6cb8b.md) |
 | `npm_registry-5b45c357db2240` | @vue/cli-plugin-unit-jest | [open](records/node-js-javascript-vue-cli-plugin-unit-jest-00f301fd.md) |
 | `npm_registry-5b5ed0a8b63495` | dbmate | [open](records/node-js-javascript-dbmate-a454a890.md) |
@@ -18142,6 +18152,7 @@
 | `npm_registry-5b828b36e65f19` | @google-cloud/cloudbuild | [open](records/node-js-javascript-google-cloud-cloudbuild-8d020919.md) |
 | `npm_registry-5b8d86a9784c3c` | @callstack/repack-dev-server | [open](records/node-js-javascript-callstack-repack-dev-server-631ff63b.md) |
 | `npm_registry-5b90d95b0bbb71` | mrm-task-prettier | [open](records/node-js-javascript-mrm-task-prettier-04a45817.md) |
+| `npm_registry-5ba9845d84c356` | ysk-server | [open](records/node-js-javascript-ysk-server-7ef46079.md) |
 | `npm_registry-5bb3ef409f68d9` | mime-format | [open](records/node-js-javascript-mime-format-f3157af3.md) |
 | `npm_registry-5c29c87439da3c` | next-build-id | [open](records/node-js-javascript-next-build-id-2c8a05d9.md) |
 | `npm_registry-5caf024c68582e` | parse-help | [open](records/node-js-javascript-parse-help-19e44bfd.md) |
@@ -18472,6 +18483,7 @@
 | `npm_registry-7d8b4637d35810` | @iobroker/testing | [open](records/node-js-javascript-iobroker-testing-1634fcb2.md) |
 | `npm_registry-7d906559679603` | eslint-rule-docs | [open](records/node-js-javascript-eslint-rule-docs-8d3c1dd4.md) |
 | `npm_registry-7dab7731280c55` | @exodus/prettier | [open](records/node-js-javascript-exodus-prettier-04dd5e42.md) |
+| `npm_registry-7df709d3feb599` | indian-cities-database | [open](records/node-js-javascript-indian-cities-database-c6d1105b.md) |
 | `npm_registry-7e00ffa450282f` | capacitor-plugin-security-check | [open](records/node-js-javascript-capacitor-plugin-security-check-95db7272.md) |
 | `npm_registry-7e69252b2de566` | rnsec | [open](records/node-js-javascript-rnsec-e6b0f179.md) |
 | `npm_registry-7e9e5addac21dc` | @airtable/blocks-testing | [open](records/node-js-javascript-airtable-blocks-testing-62821417.md) |
@@ -18561,6 +18573,7 @@
 | `npm_registry-85cd0c04b05fbc` | @wecom/cli | [open](records/node-js-javascript-wecom-cli-68523308.md) |
 | `npm_registry-85ce04d9aef427` | @wordpress/build | [open](records/node-js-javascript-wordpress-build-fd47d585.md) |
 | `npm_registry-85ecddc6d1853b` | @eslint-react/eslint-plugin | [open](records/node-js-javascript-eslint-react-eslint-plugin-161c00fb.md) |
+| `npm_registry-85ee81f422c7e4` | mixpanel | [open](records/node-js-javascript-mixpanel-d4d6daf4.md) |
 | `npm_registry-85fa7b1f89caad` | nexus-rpc | [open](records/node-js-typescript-nexus-rpc-8f3a0a84.md) |
 | `npm_registry-8605301a161e80` | @microsoft/sp-build-core-tasks | [open](records/node-js-javascript-microsoft-sp-build-core-tasks-d2c4cdf1.md) |
 | `npm_registry-86207ffc63883f` | @azure/core-http-compat | [open](records/node-js-javascript-azure-core-http-compat-82cb36ba.md) |
@@ -18736,6 +18749,7 @@
 | `npm_registry-966226959ce510` | prettier-config-carbon | [open](records/node-js-javascript-prettier-config-carbon-e9cd239f.md) |
 | `npm_registry-9663e1658e7e70` | tree-sitter-typescript | [open](records/node-js-typescript-tree-sitter-typescript-95efbab0.md) |
 | `npm_registry-967205a60ccdad` | medooze-media-server | [open](records/node-js-javascript-medooze-media-server-fdb7a179.md) |
+| `npm_registry-967795e79de029` | @github/copilot-language-server-win32-x64 | [open](records/node-js-javascript-github-copilot-language-server-win32-x64-bfb04d01.md) |
 | `npm_registry-967d073224021b` | cli-testing-library | [open](records/node-js-javascript-cli-testing-library-4bcc48b1.md) |
 | `npm_registry-9688efb3282705` | @adonisjs/prettier-config | [open](records/node-js-javascript-adonisjs-prettier-config-c51ea836.md) |
 | `npm_registry-9695412e78bb68` | typescript-eslint | [open](records/node-js-typescript-typescript-eslint-c8a43944.md) |
@@ -19472,6 +19486,7 @@
 | `npm_registry-dec46e18c4fd66` | eslint-plugin-testcafe | [open](records/node-js-javascript-eslint-plugin-testcafe-85c3aeeb.md) |
 | `npm_registry-dece96f8d40c16` | cdktf-cli | [open](records/node-js-javascript-cdktf-cli-894a9dc9.md) |
 | `npm_registry-df2f8096db2825` | @netlify/database-dev | [open](records/node-js-javascript-netlify-database-dev-9fc07d35.md) |
+| `npm_registry-df30ce720243a4` | @micham/sftp-mock-server | [open](records/node-js-javascript-micham-sftp-mock-server-82e00bda.md) |
 | `npm_registry-df3878692035db` | warehouse | [open](records/node-js-javascript-warehouse-f6e63362.md) |
 | `npm_registry-df98dd4466e31e` | @typescript/native-preview-linux-arm | [open](records/node-js-typescript-typescript-native-preview-linux-arm-3c94ff46.md) |
 | `npm_registry-dfcdbe782f5f09` | react-native-ts-identity-orchestration | [open](records/node-js-javascript-react-native-ts-identity-orchestration-8488f2ea.md) |
@@ -19669,6 +19684,7 @@
 | `npm_registry-f4692f3f3be72b` | @neo4j/introspector | [open](records/node-js-javascript-neo4j-introspector-6e9626fd.md) |
 | `npm_registry-f48c184daff9f7` | standardwebhooks | [open](records/node-js-typescript-standardwebhooks-3738b5e8.md) |
 | `npm_registry-f490148ea603b4` | @infisical/cli | [open](records/node-js-javascript-infisical-cli-bb5b4307.md) |
+| `npm_registry-f4a47543eb808f` | @lit-labs/ssr-dom-shim | [open](records/node-js-javascript-lit-labs-ssr-dom-shim-dbd88335.md) |
 | `npm_registry-f51678c3c9ee85` | @vue/cli-plugin-pwa | [open](records/node-js-javascript-vue-cli-plugin-pwa-da58323e.md) |
 | `npm_registry-f51cdfe5e21f77` | size-limit | [open](records/node-js-javascript-size-limit-238c48e9.md) |
 | `npm_registry-f51d2a04a39980` | eslint-etc | [open](records/node-js-typescript-eslint-etc-2c0c20cd.md) |
@@ -19751,6 +19767,7 @@
 | `npm_registry-fc2b54f5fa6796` | http-proxy | [open](records/node-js-javascript-http-proxy-74dd5c40.md) |
 | `npm_registry-fc2ef37077af2e` | box-typescript-sdk-gen | [open](records/node-js-typescript-box-typescript-sdk-gen-44c80a94.md) |
 | `npm_registry-fc33b144275541` | prisma-mock | [open](records/node-js-javascript-prisma-mock-3dd24403.md) |
+| `npm_registry-fc4fdfd1135bf9` | openai | [open](records/node-js-typescript-openai-c47e8332.md) |
 | `npm_registry-fc6282b0b154f0` | @cdklabs/deploy-time-build | [open](records/node-js-javascript-cdklabs-deploy-time-build-2a208b2a.md) |
 | `npm_registry-fc7593b0d61f1f` | @neaps/tide-database | [open](records/node-js-javascript-neaps-tide-database-72059e90.md) |
 | `npm_registry-fc80dd9c303191` | @cubejs-backend/clickhouse-driver | [open](records/node-js-javascript-cubejs-backend-clickhouse-driver-4d0c7732.md) |
@@ -21160,6 +21177,7 @@
 | `pub_dev-d33b7b74e7e459` | patterns_canvas | [open](records/dart-patterns-canvas-bd98e1c5.md) |
 | `pub_dev-d35a23d61c2467` | extended_image | [open](records/dart-extended-image-3b8bb099.md) |
 | `pub_dev-d39e9f6b3dcecf` | bloc_concurrency | [open](records/dart-bloc-concurrency-2cecb63d.md) |
+| `pub_dev-d3d46d191cf5ef` | leancode_lint | [open](records/dart-leancode-lint-61fd34ed.md) |
 | `pub_dev-d474a4c09b238f` | google_maps_flutter_web | [open](records/dart-google-maps-flutter-web-76457aaf.md) |
 | `pub_dev-d4f02369e32d7f` | google_sign_in | [open](records/dart-google-sign-in-d3b83734.md) |
 | `pub_dev-d60d4fef5e459c` | fresh | [open](records/dart-fresh-033ad62f.md) |

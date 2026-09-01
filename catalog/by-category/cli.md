@@ -1,6 +1,6 @@
 # Cli
 
-Records: `489`
+Records: `491`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `489`
 ## Category Index
 
 [Api Abi Checker (176)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (121)](async-runtime.md)
-[Benchmarking (108)](benchmarking.md) · [Build System (790)](build-system.md) · **[Cli (489)](cli.md)** · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (108)](benchmarking.md) · [Build System (790)](build-system.md) · **[Cli (491)](cli.md)** · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (81)](community-reference.md) · [Compiler (157)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (44)](compression.md)
 [Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (96)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (681)](database-datastore.md) · [Datetime (156)](datetime.md)
+[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (682)](database-datastore.md) · [Datetime (156)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (80)](dependency-manager.md) · [Documentation (77)](documentation.md)
 [Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1138)](filesystem-os.md) · [Formatter (535)](formatter.md)
-[Framework (45)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (139)](game-engine-game-dev.md) · [Ide Editor Integration (1101)](ide-editor-integration.md)
+[Framework (46)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (139)](game-engine-game-dev.md) · [Ide Editor Integration (1104)](ide-editor-integration.md)
 [Image Audio Dsp (290)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1218)](language-specification.md) · [Library (4679)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (381)](logging-observability.md) · [Machine Learning (557)](machine-learning.md)
-[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (896)](networking-http.md)
+[Language Server (26)](language-server.md) · [Language Specification (1220)](language-specification.md) · [Library (4683)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (345)](linter.md) · [Logging Observability (381)](logging-observability.md) · [Machine Learning (557)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (897)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (254)](package-manager.md) · [Parser Lexer Ast (888)](parser-lexer-ast.md) · [Precommit Ci Quality (254)](precommit-ci-quality.md)
 [Profiler (67)](profiler.md) · [Project Scaffolding (117)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (308)](security-sast.md) · [Serialization (364)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (422)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (487)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (282)](type-checker.md)
-[Undefined Behavior Analyzer (1353)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (405)](visualization-gui.md) · [Web Framework (379)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (488)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (283)](type-checker.md)
+[Undefined Behavior Analyzer (1353)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (405)](visualization-gui.md) · [Web Framework (380)](web-framework.md)
 
 ## C++23
 
@@ -283,6 +283,7 @@ Records: `489`
 | @coze/cli | 0.3.10 | 2026-08-15T12:21:18.704Z | [open](../records/node-js-javascript-coze-cli-af1badc2.md) |
 | @depot/cli | 0.0.1-cli.2.102.7 | 2026-08-24T09:25:54.823Z | [open](../records/node-js-javascript-depot-cli-a6c8806a.md) |
 | @devcontainers/cli | 0.89.0 | 2026-08-31T07:50:41.687Z | [open](../records/node-js-javascript-devcontainers-cli-6df3ec6d.md) |
+| @devcycle/cli | 6.3.2 | 2026-04-28T19:32:47.623Z | [open](../records/node-js-javascript-devcycle-cli-ece13be6.md) |
 | @devvit/cli | 0.14.2 | 2026-08-31T20:04:21.751Z | [open](../records/node-js-javascript-devvit-cli-be160bd1.md) |
 | @env0/cli | 1.0.25 | 2026-04-20T08:58:03.712Z | [open](../records/node-js-javascript-env0-cli-f8ec1602.md) |
 | @expo/cli | 57.0.21 | 2026-09-01T16:21:32.728Z | [open](../records/node-js-javascript-expo-cli-22f34048.md) |
@@ -291,8 +292,8 @@ Records: `489`
 | @fallow-cli/linux-x64-musl | 3.22.0 | 2026-09-01T19:38:36.009Z | [open](../records/node-js-javascript-fallow-cli-linux-x64-musl-ad0f87bf.md) |
 | @farmfe/cli | 1.0.5 | 2025-06-22T04:53:28.320Z | [open](../records/node-js-javascript-farmfe-cli-0b309d0f.md) |
 | @gltf-transform/cli | 4.5.0 | 2026-09-01T00:43:18.551Z | [open](../records/node-js-javascript-gltf-transform-cli-56392446.md) |
-| @google/gemini-cli | 0.57.0 | 2026-08-25T18:36:40.273Z | [open](../records/node-js-javascript-google-gemini-cli-c3ee3b5d.md) |
-| @google/gemini-cli-core | 0.57.0 | 2026-08-25T18:38:51.564Z | [open](../records/node-js-javascript-google-gemini-cli-core-7db4739b.md) |
+| @google/gemini-cli | 0.58.0 | 2026-09-01T20:50:39.295Z | [open](../records/node-js-javascript-google-gemini-cli-c3ee3b5d.md) |
+| @google/gemini-cli-core | 0.58.0 | 2026-09-01T20:50:54.396Z | [open](../records/node-js-javascript-google-gemini-cli-core-7db4739b.md) |
 | @googleworkspace/cli | 0.22.5 | 2026-03-31T18:53:36.509Z | [open](../records/node-js-javascript-googleworkspace-cli-61e43374.md) |
 | @gql.tada/cli-utils | 1.9.3 | 2026-07-25T14:36:46.564Z | [open](../records/node-js-javascript-gql-tada-cli-utils-5273b9c0.md) |
 | @graphql-hive/cli | 0.63.0 | 2026-09-01T13:44:09.800Z | [open](../records/node-js-javascript-graphql-hive-cli-d8cf3b01.md) |
@@ -304,12 +305,12 @@ Records: `489`
 | @ionic/cli-framework-output | 2.2.8 | 2023-12-19T22:38:35.365Z | [open](../records/node-js-javascript-ionic-cli-framework-output-8324bb8a.md) |
 | @ionic/cli-framework-prompts | 2.1.13 | 2023-12-19T22:38:35.436Z | [open](../records/node-js-javascript-ionic-cli-framework-prompts-5599c31f.md) |
 | @knocklabs/cli | 1.2.3 | 2026-08-13T15:12:15.170Z | [open](../records/node-js-javascript-knocklabs-cli-62154908.md) |
-| @lightdash/cli | 2.80.0 | 2026-09-01T18:51:25.418Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
+| @lightdash/cli | 2.82.0 | 2026-09-01T21:12:17.012Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | @lingui/cli | 6.6.0 | 2026-07-24T13:52:53.439Z | [open](../records/node-js-javascript-lingui-cli-343f33ec.md) |
 | @maizzle/cli | 2.0.0 | 2024-12-16T17:59:24.900Z | [open](../records/node-js-javascript-maizzle-cli-a7a13457.md) |
 | @metamask/messenger-cli | 0.2.0 | 2026-04-20T16:40:19.418Z | [open](../records/node-js-javascript-metamask-messenger-cli-15524c80.md) |
 | @microsoft/m365agentstoolkit-cli | 1.1.15 | 2026-08-12T02:14:25.632Z | [open](../records/node-js-javascript-microsoft-m365agentstoolkit-cli-3f536e69.md) |
-| @mintlify/cli | 4.0.1460 | 2026-09-01T06:59:50.405Z | [open](../records/node-js-javascript-mintlify-cli-64dbc59b.md) |
+| @mintlify/cli | 4.0.1461 | 2026-09-01T20:28:56.937Z | [open](../records/node-js-javascript-mintlify-cli-64dbc59b.md) |
 | @module-federation/cli | 2.9.0 | 2026-08-24T08:21:41.802Z | [open](../records/node-js-javascript-module-federation-cli-ad5965f3.md) |
 | @mongosh/logging | 5.2.0 | 2026-07-01T01:01:34.354Z | [open](../records/node-js-javascript-mongosh-logging-a2ed4564.md) |
 | @napi-rs/cli | 3.8.6 | 2026-08-12T03:41:01.963Z | [open](../records/node-js-javascript-napi-rs-cli-3160c98d.md) |
@@ -343,7 +344,7 @@ Records: `489`
 | @snyk/cli-interface | 2.15.0 | 2026-02-24T13:18:57.167Z | [open](../records/node-js-javascript-snyk-cli-interface-0f5589a7.md) |
 | @statoscope/cli | 5.29.0 | 2025-04-04T18:50:46.219Z | [open](../records/node-js-javascript-statoscope-cli-1183dedd.md) |
 | @stoplight/cli | 6.0.2407 | 2025-11-20T02:40:24.867Z | [open](../records/node-js-javascript-stoplight-cli-730b609f.md) |
-| @stripe/cli | 1.50.6 | 2026-08-26T18:26:42.528Z | [open](../records/node-js-javascript-stripe-cli-f2f9a188.md) |
+| @stripe/cli | 1.50.8 | 2026-09-01T20:21:41.457Z | [open](../records/node-js-javascript-stripe-cli-f2f9a188.md) |
 | @supabase/cli-linux-x64 | 2.116.0 | 2026-08-26T19:55:56.251Z | [open](../records/node-js-javascript-supabase-cli-linux-x64-04164519.md) |
 | @swc/cli | 0.8.1 | 2026-04-01T01:27:35.047Z | [open](../records/node-js-javascript-swc-cli-77c18ec0.md) |
 | @tencent-qqmail/agently-cli | 1.0.18 | 2026-08-28T07:28:58.410Z | [open](../records/node-js-javascript-tencent-qqmail-agently-cli-d0722246.md) |
@@ -351,6 +352,7 @@ Records: `489`
 | @tolgee/cli | 2.20.0 | 2026-06-25T14:50:49.892Z | [open](../records/node-js-javascript-tolgee-cli-d1f3c98e.md) |
 | @transifex/cli | 8.0.3 | 2026-09-01T08:45:43.666Z | [open](../records/node-js-javascript-transifex-cli-ffc9f4e9.md) |
 | @ui5/cli | 4.0.63 | 2026-08-31T11:50:16.595Z | [open](../records/node-js-javascript-ui5-cli-dfaea84c.md) |
+| @ui5/logger | 4.0.2 | 2025-09-11T13:14:39.975Z | [open](../records/node-js-javascript-ui5-logger-9bf39db4.md) |
 | @ui5/project | 4.0.17 | 2026-06-15T13:18:37.259Z | [open](../records/node-js-javascript-ui5-project-4c9f4023.md) |
 | @unlighthouse/cli | 0.18.0 | 2026-06-29T03:12:38.954Z | [open](../records/node-js-javascript-unlighthouse-cli-da417c2f.md) |
 | @unocss/cli | 66.9.1 | 2026-09-01T02:49:01.285Z | [open](../records/node-js-javascript-unocss-cli-c357f3f3.md) |
@@ -406,8 +408,8 @@ Records: `489`
 | lmnr-cli | 0.5.0 | 2026-08-21T15:24:37.896Z | [open](../records/node-js-javascript-lmnr-cli-446632fc.md) |
 | locize-cli | 12.7.0 | 2026-09-01T05:39:48.244Z | [open](../records/node-js-javascript-locize-cli-9156d8b9.md) |
 | meow | 14.1.0 | 2026-02-20T10:30:43.850Z | [open](../records/node-js-javascript-meow-f24d3a17.md) |
-| mint | 4.2.857 | 2026-09-01T06:59:53.473Z | [open](../records/node-js-javascript-mint-4de26fe3.md) |
-| mintlify | 4.2.857 | 2026-09-01T06:59:53.514Z | [open](../records/node-js-javascript-mintlify-3fade289.md) |
+| mint | 4.2.858 | 2026-09-01T20:29:00.324Z | [open](../records/node-js-javascript-mint-4de26fe3.md) |
+| mintlify | 4.2.858 | 2026-09-01T20:29:00.207Z | [open](../records/node-js-javascript-mintlify-3fade289.md) |
 | oclif | 5.0.0 | 2026-08-31T21:41:17.685Z | [open](../records/node-js-javascript-oclif-1e846831.md) |
 | openapi-merge-cli | 2.0.2 | 2026-08-08T02:12:42.793Z | [open](../records/node-js-javascript-openapi-merge-cli-834fc90c.md) |
 | ora | unknown | not_checked | [open](../records/node-js-javascript-ora-ad5f9a2f.md) |
@@ -514,7 +516,7 @@ Records: `489`
 | --- | --- | --- | --- |
 | esengine/DeepSeek-Reasonix | partial | 2026-09-01T18:37:57Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-01T21:00:46Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-01T22:12:18Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Assets
 

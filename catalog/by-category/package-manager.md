@@ -9,22 +9,22 @@ Records: `254`
 ## Category Index
 
 [Api Abi Checker (176)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (121)](async-runtime.md)
-[Benchmarking (108)](benchmarking.md) · [Build System (790)](build-system.md) · [Cli (489)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (108)](benchmarking.md) · [Build System (790)](build-system.md) · [Cli (491)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (81)](community-reference.md) · [Compiler (157)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (44)](compression.md)
 [Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (96)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (681)](database-datastore.md) · [Datetime (156)](datetime.md)
+[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (682)](database-datastore.md) · [Datetime (156)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (80)](dependency-manager.md) · [Documentation (77)](documentation.md)
 [Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1138)](filesystem-os.md) · [Formatter (535)](formatter.md)
-[Framework (45)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (139)](game-engine-game-dev.md) · [Ide Editor Integration (1101)](ide-editor-integration.md)
+[Framework (46)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (139)](game-engine-game-dev.md) · [Ide Editor Integration (1104)](ide-editor-integration.md)
 [Image Audio Dsp (290)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1218)](language-specification.md) · [Library (4679)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (381)](logging-observability.md) · [Machine Learning (557)](machine-learning.md)
-[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (896)](networking-http.md)
+[Language Server (26)](language-server.md) · [Language Specification (1220)](language-specification.md) · [Library (4683)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (345)](linter.md) · [Logging Observability (381)](logging-observability.md) · [Machine Learning (557)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (897)](networking-http.md)
 [Other (14)](other.md) · **[Package Manager (254)](package-manager.md)** · [Parser Lexer Ast (888)](parser-lexer-ast.md) · [Precommit Ci Quality (254)](precommit-ci-quality.md)
 [Profiler (67)](profiler.md) · [Project Scaffolding (117)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (308)](security-sast.md) · [Serialization (364)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (422)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (487)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (282)](type-checker.md)
-[Undefined Behavior Analyzer (1353)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (405)](visualization-gui.md) · [Web Framework (379)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (488)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (283)](type-checker.md)
+[Undefined Behavior Analyzer (1353)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (405)](visualization-gui.md) · [Web Framework (380)](web-framework.md)
 
 ## C99
 
@@ -55,7 +55,7 @@ Records: `254`
 | cargo-platform | 0.3.3 | 2026-04-18T14:37:47.459402Z | [open](../records/rust-cargo-platform-63e0b745.md) |
 | cargo-util-schemas | 0.14.2 | 2026-08-20T17:10:47.800660Z | [open](../records/rust-cargo-util-schemas-52eca356.md) |
 | cargo_metadata | 0.23.1 | 2025-11-12T16:08:46.727799Z | [open](../records/rust-cargo-metadata-08b46fd4.md) |
-| cargo_toml | 1.0.0 | 2026-06-24T12:02:36.104935Z | [open](../records/rust-cargo-toml-c9d5ba6f.md) |
+| cargo_toml | 1.0.1 | 2026-09-01T22:01:58.871701Z | [open](../records/rust-cargo-toml-c9d5ba6f.md) |
 | document-features | 0.2.12 | 2025-10-24T09:43:31.356480Z | [open](../records/rust-document-features-87c303ad.md) |
 | embed-resource | 3.0.11 | 2026-07-02T15:15:09.314952Z | [open](../records/rust-embed-resource-394d9ab2.md) |
 | find-msvc-tools | 0.1.11 | 2026-08-14T13:13:50.653084Z | [open](../records/rust-find-msvc-tools-14b1752c.md) |
@@ -123,7 +123,7 @@ Records: `254`
 | mercurius-integration-testing | 9.0.1 | 2024-12-26T15:52:58.790Z | [open](../records/node-js-javascript-mercurius-integration-testing-c9fd40af.md) |
 | npm | unknown | not_checked | [open](../records/node-js-javascript-npm-de75d52b.md) |
 | npm-audit-report | 8.0.0 | 2026-05-08T18:35:41.800Z | [open](../records/node-js-javascript-npm-audit-report-a8bcb76a.md) |
-| pgpm | 5.29.6 | 2026-09-01T03:16:32.824Z | [open](../records/node-js-javascript-pgpm-8b466b42.md) |
+| pgpm | 5.30.0 | 2026-09-01T20:48:37.488Z | [open](../records/node-js-javascript-pgpm-8b466b42.md) |
 | pnpm | unknown | not_checked | [open](../records/node-js-javascript-pnpm-ef3dabe2.md) |
 | prettier-plugin-pkg | 0.22.1 | 2026-03-31T05:54:07.971Z | [open](../records/node-js-javascript-prettier-plugin-pkg-c9df3d26.md) |
 | prettier-plugin-pkgsort | 0.3.0 | 2025-12-13T21:37:01.694Z | [open](../records/node-js-javascript-prettier-plugin-pkgsort-39c64fcc.md) |
@@ -337,7 +337,7 @@ Records: `254`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| google-ai-edge/mediapipe | partial | 2026-09-01T16:50:55Z | [open](../records/video-google-ai-edge-mediapipe-a0c51472.md) |
+| google-ai-edge/mediapipe | partial | 2026-09-01T21:23:30Z | [open](../records/video-google-ai-edge-mediapipe-a0c51472.md) |
 | memvid/memvid | partial | 2026-07-14T14:39:07Z | [open](../records/video-memvid-memvid-bb0d9def.md) |
 | snapotter-hq/SnapOtter | partial | 2026-08-31T16:44:04Z | [open](../records/video-snapotter-hq-snapotter-7f75c7aa.md) |
 | TeamNewPipe/NewPipe | partial | 2026-08-31T12:57:33Z | [open](../records/video-teamnewpipe-newpipe-c1ab8a41.md) |

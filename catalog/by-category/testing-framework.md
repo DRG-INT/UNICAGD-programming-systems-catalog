@@ -1,6 +1,6 @@
 # Testing Framework
 
-Records: `487`
+Records: `488`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `487`
 ## Category Index
 
 [Api Abi Checker (176)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (121)](async-runtime.md)
-[Benchmarking (108)](benchmarking.md) · [Build System (790)](build-system.md) · [Cli (489)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (108)](benchmarking.md) · [Build System (790)](build-system.md) · [Cli (491)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (81)](community-reference.md) · [Compiler (157)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (44)](compression.md)
 [Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (96)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (681)](database-datastore.md) · [Datetime (156)](datetime.md)
+[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (682)](database-datastore.md) · [Datetime (156)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (80)](dependency-manager.md) · [Documentation (77)](documentation.md)
 [Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1138)](filesystem-os.md) · [Formatter (535)](formatter.md)
-[Framework (45)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (139)](game-engine-game-dev.md) · [Ide Editor Integration (1101)](ide-editor-integration.md)
+[Framework (46)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (139)](game-engine-game-dev.md) · [Ide Editor Integration (1104)](ide-editor-integration.md)
 [Image Audio Dsp (290)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1218)](language-specification.md) · [Library (4679)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (381)](logging-observability.md) · [Machine Learning (557)](machine-learning.md)
-[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (896)](networking-http.md)
+[Language Server (26)](language-server.md) · [Language Specification (1220)](language-specification.md) · [Library (4683)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (345)](linter.md) · [Logging Observability (381)](logging-observability.md) · [Machine Learning (557)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (897)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (254)](package-manager.md) · [Parser Lexer Ast (888)](parser-lexer-ast.md) · [Precommit Ci Quality (254)](precommit-ci-quality.md)
 [Profiler (67)](profiler.md) · [Project Scaffolding (117)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (308)](security-sast.md) · [Serialization (364)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (422)](static-analyzer.md)
-[Templating (2)](templating.md) · **[Testing Framework (487)](testing-framework.md)** · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (282)](type-checker.md)
-[Undefined Behavior Analyzer (1353)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (405)](visualization-gui.md) · [Web Framework (379)](web-framework.md)
+[Templating (2)](templating.md) · **[Testing Framework (488)](testing-framework.md)** · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (283)](type-checker.md)
+[Undefined Behavior Analyzer (1353)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (405)](visualization-gui.md) · [Web Framework (380)](web-framework.md)
 
 ## C99
 
@@ -186,6 +186,7 @@ Records: `487`
 | @luigi-project/testing-utilities | 2.31.0 | 2026-06-12T10:18:43.023Z | [open](../records/node-js-javascript-luigi-project-testing-utilities-f1c63dd6.md) |
 | @lushly-dev/afd-testing | 1.0.0 | 2026-03-16T04:04:52.955Z | [open](../records/node-js-javascript-lushly-dev-afd-testing-bf2d2077.md) |
 | @marko/testing-library | 6.4.2 | 2026-07-07T15:53:42.136Z | [open](../records/node-js-javascript-marko-testing-library-f9120b0a.md) |
+| @micham/sftp-mock-server | 0.0.6 | 2022-09-19T14:36:31.016Z | [open](../records/node-js-javascript-micham-sftp-mock-server-82e00bda.md) |
 | @msw/data | 1.1.8 | 2026-08-30T13:03:12.193Z | [open](../records/node-js-javascript-msw-data-006e14b7.md) |
 | @nest/testing | 4.5.4 | 2017-12-22T21:02:54.181Z | [open](../records/node-js-javascript-nest-testing-e2c757e6.md) |
 | @nestjs-cognito/testing | 2.2.1 | 2025-11-13T17:24:12.983Z | [open](../records/node-js-javascript-nestjs-cognito-testing-0f6d2a65.md) |
@@ -226,7 +227,7 @@ Records: `487`
 | @stryker-mutator/core | 10.0.0 | 2026-08-14T16:51:22.686Z | [open](../records/node-js-javascript-stryker-mutator-core-931b4171.md) |
 | @stryker-mutator/util | 10.0.0 | 2026-08-14T16:50:09.663Z | [open](../records/node-js-javascript-stryker-mutator-util-0d4f0b82.md) |
 | @taiga-ui/testing | 5.22.0 | 2026-08-31T16:01:43.699Z | [open](../records/node-js-javascript-taiga-ui-testing-aedbf495.md) |
-| @tellescope/testing | 1.256.12 | 2026-08-25T20:32:45.978Z | [open](../records/node-js-javascript-tellescope-testing-59848a2c.md) |
+| @tellescope/testing | 1.256.13 | 2026-09-01T22:15:22.196Z | [open](../records/node-js-javascript-tellescope-testing-59848a2c.md) |
 | @testing-library/angular | 19.4.2 | 2026-08-07T14:48:19.466Z | [open](../records/node-js-javascript-testing-library-angular-00401ff1.md) |
 | @testing-library/cypress | 10.1.3 | 2026-04-29T16:38:28.373Z | [open](../records/node-js-javascript-testing-library-cypress-7b6684d4.md) |
 | @testing-library/dom | 10.4.1 | 2025-07-27T13:23:37.151Z | [open](../records/node-js-javascript-testing-library-dom-98afebf0.md) |
@@ -292,7 +293,7 @@ Records: `487`
 | fast-check | 4.9.0 | 2026-07-08T21:33:03.026Z | [open](../records/node-js-javascript-fast-check-359bc465.md) |
 | firebase-functions-test | 3.5.0 | 2026-05-08T21:21:33.788Z | [open](../records/node-js-javascript-firebase-functions-test-9cef0aad.md) |
 | fresh | 0.5.2 | 2017-09-14T05:03:12.205Z | [open](../records/node-js-javascript-fresh-e4b0551f.md) |
-| graphile-test | 5.14.2 | 2026-09-01T03:16:18.613Z | [open](../records/node-js-javascript-graphile-test-4fc9d5fb.md) |
+| graphile-test | 5.14.3 | 2026-09-01T20:48:26.445Z | [open](../records/node-js-javascript-graphile-test-4fc9d5fb.md) |
 | ink-testing-library | 4.0.0 | 2024-05-22T10:51:25.909Z | [open](../records/node-js-javascript-ink-testing-library-ff83aa69.md) |
 | is | 3.3.2 | 2025-07-19T19:13:33.146Z | [open](../records/node-js-javascript-is-8ceadfd5.md) |
 | is-lite | 2.0.0 | 2025-11-23T01:22:42.906Z | [open](../records/node-js-javascript-is-lite-b5a2333b.md) |
@@ -353,7 +354,7 @@ Records: `487`
 | simple-is | 0.2.0 | 2013-04-21T10:46:51.962Z | [open](../records/node-js-javascript-simple-is-855ba6e7.md) |
 | solidity-coverage | 0.8.17 | 2025-12-11T04:58:23.497Z | [open](../records/node-js-javascript-solidity-coverage-cc68c521.md) |
 | start-server-and-test | 3.0.12 | 2026-08-01T10:38:13.536Z | [open](../records/node-js-javascript-start-server-and-test-e5a1c78e.md) |
-| storybook-addon-vis | 4.2.4 | 2026-08-20T10:20:17.972Z | [open](../records/node-js-javascript-storybook-addon-vis-c1befa36.md) |
+| storybook-addon-vis | 4.2.5 | 2026-09-01T22:04:09.298Z | [open](../records/node-js-javascript-storybook-addon-vis-c1befa36.md) |
 | supertest | 7.2.2 | 2026-01-06T09:26:26.119Z | [open](../records/node-js-javascript-supertest-54da63ec.md) |
 | system-testing | 1.0.133 | 2026-08-24T19:59:50.915Z | [open](../records/node-js-javascript-system-testing-fb3acaec.md) |
 | testcafe | 3.7.6 | 2026-07-07T10:59:13.356Z | [open](../records/node-js-javascript-testcafe-15e8e7ec.md) |
@@ -367,7 +368,7 @@ Records: `487`
 | twig-testing-library | 1.2.0 | 2021-07-01T10:17:13.788Z | [open](../records/node-js-javascript-twig-testing-library-e67a53c6.md) |
 | typeorm-seeding | 1.6.1 | 2020-04-18T08:20:24.669Z | [open](../records/node-js-javascript-typeorm-seeding-f4bd376c.md) |
 | Vitest | 4.1.11 | 2026-08-18T14:27:07.240Z | [open](../records/node-js-javascript-vitest-607c3650.md) |
-| vitest-plugin-vis | 5.1.1 | 2026-05-14T05:10:12.181Z | [open](../records/node-js-javascript-vitest-plugin-vis-a9cafa30.md) |
+| vitest-plugin-vis | 5.1.2 | 2026-09-01T22:04:04.711Z | [open](../records/node-js-javascript-vitest-plugin-vis-a9cafa30.md) |
 | weapon-regex | 2.0.4 | 2026-07-09T13:29:56.233Z | [open](../records/node-js-javascript-weapon-regex-83a675c2.md) |
 | ws | 8.21.3 | 2026-08-07T14:10:25.816Z | [open](../records/node-js-javascript-ws-ae579d60.md) |
 | zuul | 3.12.0 | 2018-05-31T20:11:21.447Z | [open](../records/node-js-javascript-zuul-f1122392.md) |

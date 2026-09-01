@@ -1,6 +1,6 @@
 # Node.js/TypeScript
 
-Records: `383`
+Records: `384`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `383`
 ## Category Index
 
 [Api Abi Checker (176)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (41)](../by-category/assertion-mocking.md) · [Async Runtime (121)](../by-category/async-runtime.md)
-[Benchmarking (108)](../by-category/benchmarking.md) · [Build System (790)](../by-category/build-system.md) · [Cli (489)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (108)](../by-category/benchmarking.md) · [Build System (790)](../by-category/build-system.md) · [Cli (491)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (81)](../by-category/community-reference.md) · [Compiler (157)](../by-category/compiler.md) · [Compiler Diagnostics (22)](../by-category/compiler-diagnostics.md) · [Compression (44)](../by-category/compression.md)
 [Concurrency Parallelism (71)](../by-category/concurrency-parallelism.md) · [Configuration (96)](../by-category/configuration.md) · [Container Deployment (8)](../by-category/container-deployment.md) · [Coverage (11)](../by-category/coverage.md)
-[Cryptography (153)](../by-category/cryptography.md) · [Data Science (32)](../by-category/data-science.md) · [Database Datastore (681)](../by-category/database-datastore.md) · [Datetime (156)](../by-category/datetime.md)
+[Cryptography (153)](../by-category/cryptography.md) · [Data Science (32)](../by-category/data-science.md) · [Database Datastore (682)](../by-category/database-datastore.md) · [Datetime (156)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (40)](../by-category/debugger.md) · [Dependency Manager (80)](../by-category/dependency-manager.md) · [Documentation (77)](../by-category/documentation.md)
 [Embedded Hardware (47)](../by-category/embedded-hardware.md) · [Ffi Bindings (376)](../by-category/ffi-bindings.md) · [Filesystem Os (1138)](../by-category/filesystem-os.md) · [Formatter (535)](../by-category/formatter.md)
-[Framework (45)](../by-category/framework.md) · [Fuzzer (48)](../by-category/fuzzer.md) · [Game Engine Game Dev (139)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1101)](../by-category/ide-editor-integration.md)
+[Framework (46)](../by-category/framework.md) · [Fuzzer (48)](../by-category/fuzzer.md) · [Game Engine Game Dev (139)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1104)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (290)](../by-category/image-audio-dsp.md) · [Interop Bindings (52)](../by-category/interop-bindings.md) · [Interpreter Runtime (223)](../by-category/interpreter-runtime.md) · [Jit Vm (56)](../by-category/jit-vm.md)
-[Language Server (26)](../by-category/language-server.md) · [Language Specification (1218)](../by-category/language-specification.md) · [Library (4679)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (40)](../by-category/lint-rule-pack.md) · [Linter (344)](../by-category/linter.md) · [Logging Observability (381)](../by-category/logging-observability.md) · [Machine Learning (557)](../by-category/machine-learning.md)
-[Math Numeric Scientific (78)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (75)](../by-category/memory-analyzer.md) · [Message Broker (31)](../by-category/message-broker.md) · [Networking Http (896)](../by-category/networking-http.md)
+[Language Server (26)](../by-category/language-server.md) · [Language Specification (1220)](../by-category/language-specification.md) · [Library (4683)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (40)](../by-category/lint-rule-pack.md) · [Linter (345)](../by-category/linter.md) · [Logging Observability (381)](../by-category/logging-observability.md) · [Machine Learning (557)](../by-category/machine-learning.md)
+[Math Numeric Scientific (78)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (75)](../by-category/memory-analyzer.md) · [Message Broker (31)](../by-category/message-broker.md) · [Networking Http (897)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (254)](../by-category/package-manager.md) · [Parser Lexer Ast (888)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (254)](../by-category/precommit-ci-quality.md)
 [Profiler (67)](../by-category/profiler.md) · [Project Scaffolding (117)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (12)](../by-category/sanitizer.md)
 [Security Sast (308)](../by-category/security-sast.md) · [Serialization (364)](../by-category/serialization.md) · [Standard Library (23)](../by-category/standard-library.md) · [Static Analyzer (422)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (487)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (52)](../by-category/tutorial-book-styleguide.md) · [Type Checker (282)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1353)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (91)](../by-category/utility-library.md) · [Visualization Gui (405)](../by-category/visualization-gui.md) · [Web Framework (379)](../by-category/web-framework.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (488)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (52)](../by-category/tutorial-book-styleguide.md) · [Type Checker (283)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1353)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (91)](../by-category/utility-library.md) · [Visualization Gui (405)](../by-category/visualization-gui.md) · [Web Framework (380)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -212,7 +212,7 @@ Records: `383`
 | [eslint-config-airbnb-typescript](../records/node-js-typescript-eslint-config-airbnb-typescript-c6e718e1.md) | 18.0.0 | 2024-03-02T01:16:54.742Z | registry-derived |
 | [eslint-config-airbnb-typescript-prettier](../records/node-js-typescript-eslint-config-airbnb-typescript-prettier-4d643f67.md) | 5.0.0 | 2021-12-12T08:44:50.090Z | npm_registry |
 | [eslint-config-love](../records/node-js-typescript-eslint-config-love-0b70e542.md) | 155.0.0 | 2026-08-12T14:03:50.941Z | npm_registry |
-| [eslint-config-salesforce-typescript](../records/node-js-typescript-eslint-config-salesforce-typescript-0734e132.md) | 7.0.0 | 2026-08-24T15:18:02.461Z | npm_registry |
+| [eslint-config-salesforce-typescript](../records/node-js-typescript-eslint-config-salesforce-typescript-0734e132.md) | 7.0.0 | 2026-08-24T15:18:02.461Z | registry-derived |
 | [eslint-etc](../records/node-js-typescript-eslint-etc-2c0c20cd.md) | 5.2.1 | 2023-03-28T22:19:56.622Z | npm_registry |
 | [eslint-import-resolver-typescript](../records/node-js-typescript-eslint-import-resolver-typescript-1b5e277c.md) | 4.4.5 | 2026-06-01T04:17:50.360Z | registry-derived |
 | [eslint-plugin-fp-ts](../records/node-js-typescript-eslint-plugin-fp-ts-6092893f.md) | 0.5.1 | 2026-06-16T14:37:48.316Z | npm_registry |
@@ -366,7 +366,7 @@ Records: `383`
 | [@types/deep-eql](../records/node-js-typescript-types-deep-eql-8283ec96.md) | 4.0.2 | 2023-11-07T01:34:12.026Z | registry-derived |
 | [@types/ember-testing-helpers](../records/node-js-typescript-types-ember-testing-helpers-ea96fde4.md) | 0.0.9 | 2024-01-30T21:39:24.263Z | registry-derived |
 | [@types/estree](../records/node-js-typescript-types-estree-ab6e39de.md) | 1.0.9 | 2026-05-06T21:01:00.975Z | registry-derived |
-| [@types/express](../records/node-js-typescript-types-express-631736dd.md) | 5.0.6 | 2025-12-01T20:35:51.488Z | npm_registry |
+| [@types/express](../records/node-js-typescript-types-express-631736dd.md) | 5.0.6 | 2025-12-01T20:35:51.488Z | registry-derived |
 | [@types/express-http-proxy](../records/node-js-typescript-types-express-http-proxy-83852fe7.md) | 1.6.7 | 2025-07-28T23:36:45.495Z | registry-derived |
 | [@types/hast](../records/node-js-typescript-types-hast-6bca9da8.md) | 3.0.5 | 2026-07-09T11:00:14.068Z | npm_registry |
 | [@types/http-assert](../records/node-js-typescript-types-http-assert-4618fb28.md) | 1.5.6 | 2024-10-24T14:35:39.961Z | registry-derived |
@@ -428,8 +428,8 @@ Records: `383`
 | [fp-ts](../records/node-js-typescript-fp-ts-16430548.md) | 2.16.11 | 2025-08-18T14:00:30.062Z | registry-derived |
 | [fumadocs-typescript](../records/node-js-typescript-fumadocs-typescript-eb59aebd.md) | 5.3.0 | 2026-07-07T09:55:45.958Z | registry-derived |
 | [gatsby-plugin-typescript](../records/node-js-typescript-gatsby-plugin-typescript-d416e165.md) | 5.16.0 | 2026-01-26T20:27:24.845Z | registry-derived |
-| [graphology-types](../records/node-js-typescript-graphology-types-7e889b9a.md) | 0.24.8 | 2024-11-22T09:58:40.748Z | npm_registry |
-| [gts](../records/node-js-typescript-gts-aeda1c43.md) | 7.0.0 | 2025-12-15T17:44:25.825Z | npm_registry |
+| [graphology-types](../records/node-js-typescript-graphology-types-7e889b9a.md) | 0.24.8 | 2024-11-22T09:58:40.748Z | registry-derived |
+| [gts](../records/node-js-typescript-gts-aeda1c43.md) | 7.0.0 | 2025-12-15T17:44:25.825Z | registry-derived |
 | [guid-typescript](../records/node-js-typescript-guid-typescript-7944139d.md) | 1.0.9 | 2018-10-28T04:22:18.066Z | registry-derived |
 | [http-method-enum](../records/node-js-typescript-http-method-enum-0fd9abb2.md) | 1.0.0 | 2019-02-20T06:15:17.906Z | registry-derived |
 | [jaro-winkler-typescript](../records/node-js-typescript-jaro-winkler-typescript-54c43d1f.md) | 1.0.1 | 2020-09-19T13:40:23.648Z | registry-derived |
@@ -437,7 +437,7 @@ Records: `383`
 | [json-schema-to-ts](../records/node-js-typescript-json-schema-to-ts-be5fe66b.md) | 3.1.1 | 2024-08-29T16:56:23.135Z | registry-derived |
 | [json-schema-to-typescript](../records/node-js-typescript-json-schema-to-typescript-8e1c8691.md) | 16.0.0 | 2026-08-28T01:46:00.966Z | registry-derived |
 | [json-schema-to-typescript-lite](../records/node-js-typescript-json-schema-to-typescript-lite-1dfd647e.md) | 15.0.0 | 2025-07-24T09:54:52.114Z | registry-derived |
-| [json-schema-typed](../records/node-js-typescript-json-schema-typed-2030485f.md) | 8.0.2 | 2025-11-17T20:30:24.942Z | npm_registry |
+| [json-schema-typed](../records/node-js-typescript-json-schema-typed-2030485f.md) | 8.0.2 | 2025-11-17T20:30:24.942Z | registry-derived |
 | [json-typescript](../records/node-js-typescript-json-typescript-9a8203c2.md) | 1.1.2 | 2019-03-27T17:54:00.035Z | npm_registry |
 | [kafkajs-snappy-typescript](../records/node-js-typescript-kafkajs-snappy-typescript-200027c0.md) | 1.0.3 | 2024-02-28T14:36:23.651Z | registry-derived |
 | [kalshi-typescript](../records/node-js-typescript-kalshi-typescript-4b831813.md) | 3.26.0 | 2026-07-28T23:53:47.102Z | npm_registry |
@@ -447,6 +447,7 @@ Records: `383`
 | [md5-typescript](../records/node-js-typescript-md5-typescript-3633f93c.md) | 1.0.5 | 2018-03-03T21:58:24.332Z | registry-derived |
 | [micromark-util-types](../records/node-js-typescript-micromark-util-types-8da1b855.md) | 2.0.2 | 2025-02-27T13:55:27.982Z | registry-derived |
 | [nexus-rpc](../records/node-js-typescript-nexus-rpc-8f3a0a84.md) | 0.0.3 | 2026-08-21T16:35:16.060Z | registry-derived |
+| [openai](../records/node-js-typescript-openai-c47e8332.md) | 7.8.0 | 2026-08-27T16:54:24.300Z | registry-derived |
 | [openapi-typescript](../records/node-js-typescript-openapi-typescript-ae833e82.md) | 7.13.0 | 2026-02-11T16:02:25.378Z | registry-derived |
 | [openapi-typescript-fetch](../records/node-js-typescript-openapi-typescript-fetch-82e29fd9.md) | 2.2.1 | 2025-06-26T02:27:27.256Z | registry-derived |
 | [openapi-typescript-helpers](../records/node-js-typescript-openapi-typescript-helpers-2b830c8e.md) | 0.1.0 | 2026-02-11T16:02:17.105Z | registry-derived |
@@ -464,7 +465,7 @@ Records: `383`
 | [sf-symbols-typescript](../records/node-js-typescript-sf-symbols-typescript-584a19ec.md) | 2.2.0 | 2025-12-02T16:19:14.356Z | registry-derived |
 | [simple-logging-system](../records/node-js-typescript-simple-logging-system-f065ade8.md) | 1.1.0 | 2022-01-18T14:41:37.508Z | npm_registry |
 | [stack-typescript](../records/node-js-typescript-stack-typescript-02cf2600.md) | 1.0.4 | 2018-05-23T10:22:18.390Z | registry-derived |
-| [testing-conventions](../records/node-js-typescript-testing-conventions-a7bae5cf.md) | 0.0.105 | 2026-09-01T01:55:17.062Z | registry-derived |
+| [testing-conventions](../records/node-js-typescript-testing-conventions-a7bae5cf.md) | 0.0.106 | 2026-09-01T22:07:15.828Z | registry-derived |
 | [thingies](../records/node-js-typescript-thingies-d5a157fe.md) | 2.6.1 | 2026-07-26T11:15:13.101Z | registry-derived |
 | [tree-sitter-typescript](../records/node-js-typescript-tree-sitter-typescript-95efbab0.md) | 0.23.2 | 2024-11-11T02:39:43.600Z | registry-derived |
 | [ts-debounce](../records/node-js-typescript-ts-debounce-8faf490c.md) | 5.0.1 | 2026-04-21T21:47:17.065Z | registry-derived |
@@ -503,7 +504,7 @@ Records: `383`
 | [typescript-transform-paths](../records/node-js-typescript-typescript-transform-paths-44bf66fc.md) | 4.0.0 | 2026-05-17T20:31:59.125Z | registry-derived |
 | [typescript-tuple](../records/node-js-typescript-typescript-tuple-8febb596.md) | 5.0.1 | 2021-03-06T06:11:03.342Z | registry-derived |
 | [utility-types](../records/node-js-typescript-utility-types-b519937e.md) | 3.11.0 | 2024-01-18T16:51:23.522Z | registry-derived |
-| [viem](../records/node-js-typescript-viem-f5262c89.md) | 2.56.1 | 2026-08-31T08:20:47.528Z | registry-derived |
+| [viem](../records/node-js-typescript-viem-f5262c89.md) | 2.56.2 | 2026-09-01T21:01:18.890Z | registry-derived |
 | [volar-service-typescript](../records/node-js-typescript-volar-service-typescript-53ff59b0.md) | 0.0.71 | 2026-05-09T23:48:57.498Z | registry-derived |
 | [volar-service-typescript-twoslash-queries](../records/node-js-typescript-volar-service-typescript-twoslash-queries-55b6d189.md) | 0.0.71 | 2026-05-09T23:48:59.933Z | registry-derived |
 | [yuku-parser](../records/node-js-typescript-yuku-parser-d16e0e7c.md) | 0.9.3 | 2026-08-27T04:54:34.406Z | registry-derived |
