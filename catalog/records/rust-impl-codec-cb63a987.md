@@ -2,7 +2,7 @@
 
 ## Navigation
 
-[Catalog index](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../index.md) · [Language: Rust](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-language/rust.md) · [Category: Cryptography](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/cryptography.md) · [Release watch](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../release-watch.md) · [Apache/MIT license index](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../license-index.md)
+[Catalog index](../index.md) · [Language: Rust](../by-language/rust.md) · [Category: Cryptography](../by-category/cryptography.md) · [Release watch](../release-watch.md) · [Apache/MIT license index](../license-index.md)
 
 ## Identity
 
@@ -10,8 +10,8 @@
 | --- | --- |
 | Language branch | Rust |
 | Category | Cryptography |
-| Source type |  |
-| Verification | crates_io |
+| Source type | registry_expansion |
+| Verification | registry-derived |
 | Canonical URL | [https://crates.io/crates/impl-codec](https://crates.io/crates/impl-codec) |
 | Source record ids | crates_io-4c2d7de0a55508 |
 
@@ -48,41 +48,45 @@ integrity, authentication, and key-management risk.
 
 ## Provenance
 
-No provenance entries recorded.
+| Kind | Status | Date | Detail |
+| --- | --- | --- | --- |
+| crates_io | registry-derived | 2026-09-01 | `{"kind": "crates_io", "retrieved": "2026-09-01", "status": "registry-derived"}` |
 
 ## Evidence
 
-Raw evidence is compacted in `catalog/enriched_records.json` for repository-size control.
+Evidence records merged into this identity: `1`.
+
+- `crates_io-4c2d7de0a55508` from `crates_io` as `registry_expansion`
 
 ## Related Records
 
 | Name | Category | Page |
 | --- | --- | --- |
-| actix-tls | Cryptography | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/rust-actix-tls-4ede0a77.md) |
-| aes-gcm | Cryptography | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/rust-aes-gcm-13ed5a6a.md) |
-| aes-gcm-siv | Cryptography | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/rust-aes-gcm-siv-a8da08fc.md) |
-| argon2 | Cryptography | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/rust-argon2-c3cc4d9c.md) |
-| as-slice | Cryptography | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/rust-as-slice-5a5094e5.md) |
-| aws-lc-fips-sys | Cryptography | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/rust-aws-lc-fips-sys-f719e86d.md) |
-| aws-lc-rs | Cryptography | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/rust-aws-lc-rs-d5b53a9b.md) |
-| aws-lc-sys | Cryptography | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/rust-aws-lc-sys-d4004be2.md) |
+| actix-tls | Cryptography | [open](rust-actix-tls-4ede0a77.md) |
+| aes-gcm | Cryptography | [open](rust-aes-gcm-13ed5a6a.md) |
+| aes-gcm-siv | Cryptography | [open](rust-aes-gcm-siv-a8da08fc.md) |
+| argon2 | Cryptography | [open](rust-argon2-c3cc4d9c.md) |
+| as-slice | Cryptography | [open](rust-as-slice-5a5094e5.md) |
+| aws-lc-fips-sys | Cryptography | [open](rust-aws-lc-fips-sys-f719e86d.md) |
+| aws-lc-rs | Cryptography | [open](rust-aws-lc-rs-d5b53a9b.md) |
+| aws-lc-sys | Cryptography | [open](rust-aws-lc-sys-d4004be2.md) |
 
 ## Category Index
 
-[Api Abi Checker (66)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/api-abi-checker.md) · [Api Doc Generator (10)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/api-doc-generator.md) · [Assertion Mocking (31)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/assertion-mocking.md) · [Async Runtime (85)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/async-runtime.md)
-[Benchmarking (39)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/benchmarking.md) · [Build System (406)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/build-system.md) · [Cli (304)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/cli.md) · [Codegen Codemod Refactoring (19)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/codegen-codemod-refactoring.md)
-[Community Reference (51)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/community-reference.md) · [Compiler (83)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/compiler.md) · [Compiler Diagnostics (8)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/compiler-diagnostics.md) · [Compression (31)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/compression.md)
-[Concurrency Parallelism (42)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/concurrency-parallelism.md) · [Configuration (48)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/configuration.md) · [Container Deployment (6)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/container-deployment.md) · [Coverage (8)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/coverage.md)
-**[Cryptography (117)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/cryptography.md)** · [Data Science (14)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/data-science.md) · [Database Datastore (312)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/database-datastore.md) · [Datetime (44)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/dead-code-dependency-analysis.md) · [Debugger (31)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/debugger.md) · [Dependency Manager (38)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/dependency-manager.md) · [Documentation (49)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/documentation.md)
-[Embedded Hardware (16)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/embedded-hardware.md) · [Ffi Bindings (256)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/ffi-bindings.md) · [Filesystem Os (299)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/filesystem-os.md) · [Formatter (326)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/formatter.md)
-[Framework (17)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/framework.md) · [Fuzzer (10)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/fuzzer.md) · [Game Engine Game Dev (76)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/game-engine-game-dev.md) · [Ide Editor Integration (404)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/ide-editor-integration.md)
-[Image Audio Dsp (77)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/image-audio-dsp.md) · [Interop Bindings (41)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/interop-bindings.md) · [Interpreter Runtime (88)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/interpreter-runtime.md) · [Jit Vm (50)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/jit-vm.md)
-[Language Server (19)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/language-server.md) · [Language Specification (240)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/language-specification.md) · [Library (2366)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/library.md) · [Lint Plugin (1)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/lint-plugin.md)
-[Lint Rule Pack (27)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/lint-rule-pack.md) · [Linter (319)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/linter.md) · [Logging Observability (183)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/logging-observability.md) · [Machine Learning (219)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/machine-learning.md)
-[Math Numeric Scientific (58)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/math-numeric-scientific.md) · [Memory Analyzer (39)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/memory-analyzer.md) · [Message Broker (18)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/message-broker.md) · [Networking Http (449)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/networking-http.md)
-[Other (14)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/other.md) · [Package Manager (117)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/package-manager.md) · [Parser Lexer Ast (317)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (121)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/precommit-ci-quality.md)
-[Profiler (41)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/profiler.md) · [Project Scaffolding (39)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/project-scaffolding.md) · [Registry Repository (99)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/registry-repository.md) · [Sanitizer (4)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/sanitizer.md)
-[Security Sast (215)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/security-sast.md) · [Serialization (181)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/serialization.md) · [Standard Library (18)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/standard-library.md) · [Static Analyzer (68)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/static-analyzer.md)
-[Templating (2)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/templating.md) · [Testing Framework (335)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/testing-framework.md) · [Tutorial Book Styleguide (11)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/tutorial-book-styleguide.md) · [Type Checker (229)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/type-checker.md)
-[Undefined Behavior Analyzer (218)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/undefined-behavior-analyzer.md) · [Utility Library (56)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/utility-library.md) · [Visualization Gui (161)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/visualization-gui.md) · [Web Framework (199)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/web-framework.md)
+[Api Abi Checker (93)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (33)](../by-category/assertion-mocking.md) · [Async Runtime (104)](../by-category/async-runtime.md)
+[Benchmarking (58)](../by-category/benchmarking.md) · [Build System (482)](../by-category/build-system.md) · [Cli (420)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (55)](../by-category/community-reference.md) · [Compiler (106)](../by-category/compiler.md) · [Compiler Diagnostics (18)](../by-category/compiler-diagnostics.md) · [Compression (32)](../by-category/compression.md)
+[Concurrency Parallelism (59)](../by-category/concurrency-parallelism.md) · [Configuration (60)](../by-category/configuration.md) · [Container Deployment (7)](../by-category/container-deployment.md) · [Coverage (10)](../by-category/coverage.md)
+**[Cryptography (125)](../by-category/cryptography.md)** · [Data Science (26)](../by-category/data-science.md) · [Database Datastore (426)](../by-category/database-datastore.md) · [Datetime (69)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (32)](../by-category/debugger.md) · [Dependency Manager (56)](../by-category/dependency-manager.md) · [Documentation (52)](../by-category/documentation.md)
+[Embedded Hardware (21)](../by-category/embedded-hardware.md) · [Ffi Bindings (290)](../by-category/ffi-bindings.md) · [Filesystem Os (423)](../by-category/filesystem-os.md) · [Formatter (393)](../by-category/formatter.md)
+[Framework (27)](../by-category/framework.md) · [Fuzzer (19)](../by-category/fuzzer.md) · [Game Engine Game Dev (85)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (554)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (88)](../by-category/image-audio-dsp.md) · [Interop Bindings (43)](../by-category/interop-bindings.md) · [Interpreter Runtime (111)](../by-category/interpreter-runtime.md) · [Jit Vm (50)](../by-category/jit-vm.md)
+[Language Server (20)](../by-category/language-server.md) · [Language Specification (572)](../by-category/language-specification.md) · [Library (3015)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (31)](../by-category/lint-rule-pack.md) · [Linter (326)](../by-category/linter.md) · [Logging Observability (216)](../by-category/logging-observability.md) · [Machine Learning (306)](../by-category/machine-learning.md)
+[Math Numeric Scientific (68)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (51)](../by-category/memory-analyzer.md) · [Message Broker (23)](../by-category/message-broker.md) · [Networking Http (632)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (156)](../by-category/package-manager.md) · [Parser Lexer Ast (480)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (160)](../by-category/precommit-ci-quality.md)
+[Profiler (51)](../by-category/profiler.md) · [Project Scaffolding (68)](../by-category/project-scaffolding.md) · [Registry Repository (104)](../by-category/registry-repository.md) · [Sanitizer (6)](../by-category/sanitizer.md)
+[Security Sast (247)](../by-category/security-sast.md) · [Serialization (266)](../by-category/serialization.md) · [Standard Library (21)](../by-category/standard-library.md) · [Static Analyzer (203)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (401)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (32)](../by-category/tutorial-book-styleguide.md) · [Type Checker (238)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (446)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (68)](../by-category/utility-library.md) · [Visualization Gui (222)](../by-category/visualization-gui.md) · [Web Framework (277)](../by-category/web-framework.md)

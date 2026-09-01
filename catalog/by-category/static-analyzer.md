@@ -1,135 +1,315 @@
 # Static Analyzer
 
-Records: `68`
+Records: `203`
 
 ## Navigation
 
-[Catalog index](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../index.md) · [Release watch](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../release-watch.md) · [Apache/MIT license index](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../license-index.md)
+[Catalog index](../index.md) · [Release watch](../release-watch.md) · [Apache/MIT license index](../license-index.md)
 
 ## Category Index
 
-[Api Abi Checker (66)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/api-abi-checker.md) · [Api Doc Generator (10)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/api-doc-generator.md) · [Assertion Mocking (31)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/assertion-mocking.md) · [Async Runtime (85)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/async-runtime.md)
-[Benchmarking (39)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/benchmarking.md) · [Build System (406)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/build-system.md) · [Cli (304)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/cli.md) · [Codegen Codemod Refactoring (19)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/codegen-codemod-refactoring.md)
-[Community Reference (51)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/community-reference.md) · [Compiler (83)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/compiler.md) · [Compiler Diagnostics (8)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/compiler-diagnostics.md) · [Compression (31)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/compression.md)
-[Concurrency Parallelism (42)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/concurrency-parallelism.md) · [Configuration (48)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/configuration.md) · [Container Deployment (6)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/container-deployment.md) · [Coverage (8)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/coverage.md)
-[Cryptography (117)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/cryptography.md) · [Data Science (14)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/data-science.md) · [Database Datastore (312)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/database-datastore.md) · [Datetime (44)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/datetime.md)
-[Dead Code Dependency Analysis (5)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/dead-code-dependency-analysis.md) · [Debugger (31)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/debugger.md) · [Dependency Manager (38)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/dependency-manager.md) · [Documentation (49)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/documentation.md)
-[Embedded Hardware (16)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/embedded-hardware.md) · [Ffi Bindings (256)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/ffi-bindings.md) · [Filesystem Os (299)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/filesystem-os.md) · [Formatter (326)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/formatter.md)
-[Framework (17)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/framework.md) · [Fuzzer (10)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/fuzzer.md) · [Game Engine Game Dev (76)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/game-engine-game-dev.md) · [Ide Editor Integration (404)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/ide-editor-integration.md)
-[Image Audio Dsp (77)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/image-audio-dsp.md) · [Interop Bindings (41)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/interop-bindings.md) · [Interpreter Runtime (88)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/interpreter-runtime.md) · [Jit Vm (50)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/jit-vm.md)
-[Language Server (19)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/language-server.md) · [Language Specification (240)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/language-specification.md) · [Library (2366)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/library.md) · [Lint Plugin (1)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/lint-plugin.md)
-[Lint Rule Pack (27)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/lint-rule-pack.md) · [Linter (319)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/linter.md) · [Logging Observability (183)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/logging-observability.md) · [Machine Learning (219)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/machine-learning.md)
-[Math Numeric Scientific (58)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/math-numeric-scientific.md) · [Memory Analyzer (39)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/memory-analyzer.md) · [Message Broker (18)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/message-broker.md) · [Networking Http (449)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/networking-http.md)
-[Other (14)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/other.md) · [Package Manager (117)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/package-manager.md) · [Parser Lexer Ast (317)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/parser-lexer-ast.md) · [Precommit Ci Quality (121)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/precommit-ci-quality.md)
-[Profiler (41)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/profiler.md) · [Project Scaffolding (39)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/project-scaffolding.md) · [Registry Repository (99)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/registry-repository.md) · [Sanitizer (4)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/sanitizer.md)
-[Security Sast (215)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/security-sast.md) · [Serialization (181)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/serialization.md) · [Standard Library (18)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/standard-library.md) · **[Static Analyzer (68)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/static-analyzer.md)**
-[Templating (2)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/templating.md) · [Testing Framework (335)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/testing-framework.md) · [Tutorial Book Styleguide (11)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/tutorial-book-styleguide.md) · [Type Checker (229)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/type-checker.md)
-[Undefined Behavior Analyzer (218)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/undefined-behavior-analyzer.md) · [Utility Library (56)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/utility-library.md) · [Visualization Gui (161)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/visualization-gui.md) · [Web Framework (199)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/web-framework.md)
+[Api Abi Checker (93)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
+[Benchmarking (58)](benchmarking.md) · [Build System (482)](build-system.md) · [Cli (420)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (55)](community-reference.md) · [Compiler (106)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (32)](compression.md)
+[Concurrency Parallelism (59)](concurrency-parallelism.md) · [Configuration (60)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (125)](cryptography.md) · [Data Science (26)](data-science.md) · [Database Datastore (426)](database-datastore.md) · [Datetime (69)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (32)](debugger.md) · [Dependency Manager (56)](dependency-manager.md) · [Documentation (52)](documentation.md)
+[Embedded Hardware (21)](embedded-hardware.md) · [Ffi Bindings (290)](ffi-bindings.md) · [Filesystem Os (423)](filesystem-os.md) · [Formatter (393)](formatter.md)
+[Framework (27)](framework.md) · [Fuzzer (19)](fuzzer.md) · [Game Engine Game Dev (85)](game-engine-game-dev.md) · [Ide Editor Integration (554)](ide-editor-integration.md)
+[Image Audio Dsp (88)](image-audio-dsp.md) · [Interop Bindings (43)](interop-bindings.md) · [Interpreter Runtime (111)](interpreter-runtime.md) · [Jit Vm (50)](jit-vm.md)
+[Language Server (20)](language-server.md) · [Language Specification (572)](language-specification.md) · [Library (3015)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (31)](lint-rule-pack.md) · [Linter (326)](linter.md) · [Logging Observability (216)](logging-observability.md) · [Machine Learning (306)](machine-learning.md)
+[Math Numeric Scientific (68)](math-numeric-scientific.md) · [Memory Analyzer (51)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (632)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (156)](package-manager.md) · [Parser Lexer Ast (480)](parser-lexer-ast.md) · [Precommit Ci Quality (160)](precommit-ci-quality.md)
+[Profiler (51)](profiler.md) · [Project Scaffolding (68)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (6)](sanitizer.md)
+[Security Sast (247)](security-sast.md) · [Serialization (266)](serialization.md) · [Standard Library (21)](standard-library.md) · **[Static Analyzer (203)](static-analyzer.md)**
+[Templating (2)](templating.md) · [Testing Framework (401)](testing-framework.md) · [Tutorial Book Styleguide (32)](tutorial-book-styleguide.md) · [Type Checker (238)](type-checker.md)
+[Undefined Behavior Analyzer (446)](undefined-behavior-analyzer.md) · [Utility Library (68)](utility-library.md) · [Visualization Gui (222)](visualization-gui.md) · [Web Framework (277)](web-framework.md)
 
 ## C99
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Clang Static Analyzer | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/c99-clang-static-analyzer-cc386d4c.md) |
-| clang-tidy | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/c99-clang-tidy-226c97d5.md) |
-| CodeQL C/C++ | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/c99-codeql-c-c-f36f1676.md) |
-| CodeSonar | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/c99-codesonar-7c500307.md) |
-| Coverity C/C++ | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/c99-coverity-c-c-6a1535f5.md) |
-| Cppcheck | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/c99-cppcheck-c70adb22.md) |
-| Frama-C | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/c99-frama-c-a6d8f7e7.md) |
-| GCC -fanalyzer | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/c99-gcc-fanalyzer-c3c2ece8.md) |
-| PC-lint Plus | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/c99-pc-lint-plus-f00f3f1a.md) |
-| Splint | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/c99-splint-943632f5.md) |
+| Clang Static Analyzer | unknown | not_checked | [open](../records/c99-clang-static-analyzer-cc386d4c.md) |
+| clang-tidy | unknown | not_checked | [open](../records/c99-clang-tidy-226c97d5.md) |
+| CodeQL C/C++ | unknown | not_checked | [open](../records/c99-codeql-c-c-f36f1676.md) |
+| CodeSonar | unknown | not_checked | [open](../records/c99-codesonar-7c500307.md) |
+| Coverity C/C++ | unknown | not_checked | [open](../records/c99-coverity-c-c-6a1535f5.md) |
+| Cppcheck | unknown | not_checked | [open](../records/c99-cppcheck-c70adb22.md) |
+| Frama-C | unknown | not_checked | [open](../records/c99-frama-c-a6d8f7e7.md) |
+| GCC -fanalyzer | unknown | not_checked | [open](../records/c99-gcc-fanalyzer-c3c2ece8.md) |
+| PC-lint Plus | unknown | not_checked | [open](../records/c99-pc-lint-plus-f00f3f1a.md) |
+| Splint | unknown | not_checked | [open](../records/c99-splint-943632f5.md) |
 
 ## C++23
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| CodeQL C/C++ | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/c-23-codeql-c-c-9d731d9d.md) |
-| Coverity | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/c-23-coverity-ed10c96f.md) |
-| cppcheck | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/c-23-cppcheck-36a322db.md) |
-| PVS-Studio | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/c-23-pvs-studio-0ed7cf10.md) |
-| SonarQube CFamily | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/c-23-sonarqube-cfamily-224ca2e2.md) |
+| CodeQL C/C++ | unknown | not_checked | [open](../records/c-23-codeql-c-c-9d731d9d.md) |
+| Coverity | unknown | not_checked | [open](../records/c-23-coverity-ed10c96f.md) |
+| cppcheck | unknown | not_checked | [open](../records/c-23-cppcheck-36a322db.md) |
+| Dlib | unknown | awesome_list_does_not_include_release_date | [open](../records/c-23-dlib-5ff91fb3.md) |
+| PVS-Studio | unknown | not_checked | [open](../records/c-23-pvs-studio-0ed7cf10.md) |
+| SonarQube CFamily | unknown | not_checked | [open](../records/c-23-sonarqube-cfamily-224ca2e2.md) |
 
 ## Julia
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AbstractAnalysis | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/julia-abstractanalysis-4b7af24c.md) |
-| ADRIAanalysis | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/julia-adriaanalysis-4c6519a3.md) |
-| AlgorithmAnalysis | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/julia-algorithmanalysis-817eac37.md) |
-| AnalysisOfVariance | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/julia-analysisofvariance-fbd4c33c.md) |
-| ApproximationAnalysis | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/julia-approximationanalysis-27d10d98.md) |
-| BERTAnalysisGUI | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/julia-bertanalysisgui-e368ea18.md) |
-| BinningAnalysis | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/julia-binninganalysis-3ca2a97d.md) |
-| CalibrationAnalysis | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/julia-calibrationanalysis-77e9646a.md) |
-| ChemistryQuantitativeAnalysis | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/julia-chemistryquantitativeanalysis-81b528a6.md) |
-| ChemistryQuantitativeAnalysisUI | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/julia-chemistryquantitativeanalysisui-206dd423.md) |
-| CitableCorpusAnalysis | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/julia-citablecorpusanalysis-672e84a1.md) |
-| ClimaAnalysis | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/julia-climaanalysis-e6c9c913.md) |
-| ClusterAnalysis | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/julia-clusteranalysis-ac7480bf.md) |
-| JET.jl | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/julia-jet-jl-73a910c6.md) |
-| StaticLint.jl | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/julia-staticlint-jl-259f8275.md) |
+| AbstractAnalysis | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-abstractanalysis-4b7af24c.md) |
+| ADRIAanalysis | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-adriaanalysis-4c6519a3.md) |
+| AlgorithmAnalysis | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-algorithmanalysis-817eac37.md) |
+| AnalysisOfVariance | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-analysisofvariance-fbd4c33c.md) |
+| ApproximationAnalysis | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-approximationanalysis-27d10d98.md) |
+| BERTAnalysisGUI | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-bertanalysisgui-e368ea18.md) |
+| BinningAnalysis | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-binninganalysis-3ca2a97d.md) |
+| CalibrationAnalysis | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-calibrationanalysis-77e9646a.md) |
+| ChemistryQuantitativeAnalysis | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-chemistryquantitativeanalysis-81b528a6.md) |
+| ChemistryQuantitativeAnalysisUI | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-chemistryquantitativeanalysisui-206dd423.md) |
+| CitableCorpusAnalysis | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-citablecorpusanalysis-672e84a1.md) |
+| ClimaAnalysis | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-climaanalysis-e6c9c913.md) |
+| ClusterAnalysis | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-clusteranalysis-ac7480bf.md) |
+| JET.jl | unknown | not_checked | [open](../records/julia-jet-jl-73a910c6.md) |
+| StaticLint.jl | unknown | not_checked | [open](../records/julia-staticlint-jl-259f8275.md) |
 
 ## Rust
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| unscanny | 0.1.0 | 2022-04-17T13:38:15.168710Z | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/rust-unscanny-762297a7.md) |
-| wayland-scanner | 0.31.11 | 2026-07-22T20:35:37.798276Z | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/rust-wayland-scanner-34366762.md) |
+| unscanny | 0.1.0 | 2022-04-17T13:38:15.168710Z | [open](../records/rust-unscanny-762297a7.md) |
+| wayland-scanner | 0.31.11 | 2026-07-22T20:35:37.798276Z | [open](../records/rust-wayland-scanner-34366762.md) |
 
 ## Python
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| pyflakes | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/python-pyflakes-7fb7ea08.md) |
-| Radon | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/python-radon-9ba646be.md) |
+| aapt-mcp-server | 1.0.0 | 2025-05-16T06:17:18.578365Z | [open](../records/python-aapt-mcp-server-267bb369.md) |
+| ab-testing-analysis | 1.2.8 | 2023-02-25T00:10:59.904107Z | [open](../records/python-ab-testing-analysis-68cba44f.md) |
+| ab-testing-module | 3.1.7 | 2024-03-18T08:25:19.155229Z | [open](../records/python-ab-testing-module-1350d582.md) |
+| abom-cli | 0.2.0 | 2026-07-22T15:43:38.207386Z | [open](../records/python-abom-cli-eb271458.md) |
+| accounting-subject-analysis-mcp-server | 0.1.4 | 2026-01-22T09:06:45.739361Z | [open](../records/python-accounting-subject-analysis-mcp-server-efdb2354.md) |
+| aceapi-v2-client | 2.0.0 | 2026-06-14T13:08:26.417708Z | [open](../records/python-aceapi-v2-client-1c20af66.md) |
+| achibdatalib | 0.1.0 | 2024-12-23T14:52:39.456820Z | [open](../records/python-achibdatalib-cb057504.md) |
+| AcSecurity | 1.2.3 | 2024-11-12T22:22:42.008895Z | [open](../records/python-acsecurity-9ef17512.md) |
+| acti-data-analyzer | 1.0.3 | 2026-03-07T18:59:53.463034Z | [open](../records/python-acti-data-analyzer-ae5c7411.md) |
+| actions-security-analyzer | 1.4.5 | 2023-08-03T20:40:21.768903Z | [open](../records/python-actions-security-analyzer-6200aba4.md) |
+| acumen-cli | 0.2.0 | 2026-07-06T14:42:25.071007Z | [open](../records/python-acumen-cli-c62334ee.md) |
+| pyflakes | unknown | not_checked | [open](../records/python-pyflakes-7fb7ea08.md) |
+| Radon | unknown | not_checked | [open](../records/python-radon-9ba646be.md) |
 
 ## Node.js/JavaScript
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| @openclaw/clawscan | 0.1.6 | 2026-07-17T17:45:39.569Z | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/node-js-javascript-openclaw-clawscan-df9cdb25.md) |
-| @posthog/warlock | 0.2.4 | 2026-07-24T18:41:33.409Z | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/node-js-javascript-posthog-warlock-dba18ac1.md) |
-| @socketsecurity/bun-security-scanner | 1.1.2 | 2025-12-02T18:47:57.715Z | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/node-js-javascript-socketsecurity-bun-security-scanner-587b9763.md) |
-| @sperax/tool-goplus-security | 0.2.2 | 2026-08-04T02:31:52.699Z | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/node-js-javascript-sperax-tool-goplus-security-660aa149.md) |
-| @wrongstack/security-scanner | 0.317.2 | 2026-08-31T23:26:53.780Z | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/node-js-javascript-wrongstack-security-scanner-3fbb3e41.md) |
-| aira-cyber-security-ai | 2.5.2 | 2026-08-02T16:58:24.808Z | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/node-js-javascript-aira-cyber-security-ai-63b0da86.md) |
-| circle-ir | 4.9.9 | 2026-08-26T20:08:25.328Z | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/node-js-javascript-circle-ir-b722af8a.md) |
-| CodeQL JavaScript | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/node-js-javascript-codeql-javascript-df5619f1.md) |
-| github-security-mcp | 0.1.0 | 2026-03-14T21:54:15.106Z | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/node-js-javascript-github-security-mcp-9086dace.md) |
-| mri | 1.2.0 | 2021-09-12T22:35:52.359Z | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/node-js-javascript-mri-3dca6219.md) |
-| nord-secure | 2.0.2 | 2026-08-31T19:54:24.074Z | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/node-js-javascript-nord-secure-67b7894e.md) |
-| Semgrep JavaScript | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/node-js-javascript-semgrep-javascript-667d1d65.md) |
-| SonarJS | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/node-js-javascript-sonarjs-252d9793.md) |
-| truffle-security | 1.7.3 | 2020-06-18T12:07:50.273Z | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/node-js-javascript-truffle-security-84f67182.md) |
+| @openclaw/clawscan | 0.1.6 | 2026-07-17T17:45:39.569Z | [open](../records/node-js-javascript-openclaw-clawscan-df9cdb25.md) |
+| @posthog/warlock | 0.2.4 | 2026-07-24T18:41:33.409Z | [open](../records/node-js-javascript-posthog-warlock-dba18ac1.md) |
+| @socketsecurity/bun-security-scanner | 1.1.2 | 2025-12-02T18:47:57.715Z | [open](../records/node-js-javascript-socketsecurity-bun-security-scanner-587b9763.md) |
+| @sperax/tool-goplus-security | 0.2.2 | 2026-08-04T02:31:52.699Z | [open](../records/node-js-javascript-sperax-tool-goplus-security-660aa149.md) |
+| @wrongstack/security-scanner | 0.317.2 | 2026-08-31T23:26:53.780Z | [open](../records/node-js-javascript-wrongstack-security-scanner-3fbb3e41.md) |
+| aira-cyber-security-ai | 2.5.2 | 2026-08-02T16:58:24.808Z | [open](../records/node-js-javascript-aira-cyber-security-ai-63b0da86.md) |
+| circle-ir | 4.9.9 | 2026-08-26T20:08:25.328Z | [open](../records/node-js-javascript-circle-ir-b722af8a.md) |
+| CodeQL JavaScript | unknown | not_checked | [open](../records/node-js-javascript-codeql-javascript-df5619f1.md) |
+| github-security-mcp | 0.1.0 | 2026-03-14T21:54:15.106Z | [open](../records/node-js-javascript-github-security-mcp-9086dace.md) |
+| mri | 1.2.0 | 2021-09-12T22:35:52.359Z | [open](../records/node-js-javascript-mri-3dca6219.md) |
+| nord-secure | 2.0.2 | 2026-08-31T19:54:24.074Z | [open](../records/node-js-javascript-nord-secure-67b7894e.md) |
+| Semgrep JavaScript | unknown | not_checked | [open](../records/node-js-javascript-semgrep-javascript-667d1d65.md) |
+| SonarJS | unknown | not_checked | [open](../records/node-js-javascript-sonarjs-252d9793.md) |
+| truffle-security | 1.7.3 | 2020-06-18T12:07:50.273Z | [open](../records/node-js-javascript-truffle-security-84f67182.md) |
 
 ## Node.js/TypeScript
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| CodeQL TypeScript | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/node-js-typescript-codeql-typescript-d1229522.md) |
-| i18next-scanner-typescript | 1.2.1 | 2024-05-22T13:46:02.271Z | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/node-js-typescript-i18next-scanner-typescript-2d0259d7.md) |
-| Knip | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/node-js-typescript-knip-0fe711d3.md) |
-| SonarJS TypeScript | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/node-js-typescript-sonarjs-typescript-e3dd452a.md) |
-| ts-prune | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/node-js-typescript-ts-prune-21d39ce3.md) |
+| CodeQL TypeScript | unknown | not_checked | [open](../records/node-js-typescript-codeql-typescript-d1229522.md) |
+| i18next-scanner-typescript | 1.2.1 | 2024-05-22T13:46:02.271Z | [open](../records/node-js-typescript-i18next-scanner-typescript-2d0259d7.md) |
+| Knip | unknown | not_checked | [open](../records/node-js-typescript-knip-0fe711d3.md) |
+| SonarJS TypeScript | unknown | not_checked | [open](../records/node-js-typescript-sonarjs-typescript-e3dd452a.md) |
+| ts-prune | unknown | not_checked | [open](../records/node-js-typescript-ts-prune-21d39ce3.md) |
 
 ## Lua family
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| aitextwatermarkremover-tools | unknown | luarocks_manifest_page_does_not_include_version_date | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/lua-family-aitextwatermarkremover-tools-cedeabf4.md) |
-| Analysis Tools and ASTs | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/lua-family-analysis-tools-and-asts-7d84a8fc.md) |
-| digestif | unknown | luarocks_manifest_page_does_not_include_version_date | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/lua-family-digestif-514882f8.md) |
-| dromozoa-shlex | unknown | luarocks_manifest_page_does_not_include_version_date | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/lua-family-dromozoa-shlex-fd3eca87.md) |
-| globals-lua | unknown | luarocks_manifest_page_does_not_include_version_date | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/lua-family-globals-lua-77b9e911.md) |
-| lua-parser | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/lua-family-lua-parser-aaefaf05.md) |
-| luacheck | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/lua-family-luacheck-55c5c338.md) |
-| luacov | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/lua-family-luacov-2744a6ec.md) |
-| luacov-coveralls | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/lua-family-luacov-coveralls-f1fd91fa.md) |
-| LuaInspect | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/lua-family-luainspect-42e128ca.md) |
-| LuaMinify | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/lua-family-luaminify-65018d6a.md) |
-| Pallene | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/lua-family-pallene-dc2ae11c.md) |
-| Teal | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/lua-family-teal-de1347ae.md) |
-| Typed Lua | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/lua-family-typed-lua-51daa1af.md) |
-| ZeroBraneStudio | unknown | not_checked | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../records/lua-family-zerobranestudio-84ef7bad.md) |
+| aitextwatermarkremover-tools | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-aitextwatermarkremover-tools-cedeabf4.md) |
+| Analysis Tools and ASTs | unknown | not_checked | [open](../records/lua-family-analysis-tools-and-asts-7d84a8fc.md) |
+| digestif | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-digestif-514882f8.md) |
+| dromozoa-shlex | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-dromozoa-shlex-fd3eca87.md) |
+| globals-lua | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-globals-lua-77b9e911.md) |
+| lua-parser | unknown | not_checked | [open](../records/lua-family-lua-parser-aaefaf05.md) |
+| luacheck | unknown | not_checked | [open](../records/lua-family-luacheck-55c5c338.md) |
+| luacov | unknown | not_checked | [open](../records/lua-family-luacov-2744a6ec.md) |
+| luacov-coveralls | unknown | not_checked | [open](../records/lua-family-luacov-coveralls-f1fd91fa.md) |
+| LuaInspect | unknown | not_checked | [open](../records/lua-family-luainspect-42e128ca.md) |
+| LuaMinify | unknown | not_checked | [open](../records/lua-family-luaminify-65018d6a.md) |
+| Pallene | unknown | not_checked | [open](../records/lua-family-pallene-dc2ae11c.md) |
+| Teal | unknown | not_checked | [open](../records/lua-family-teal-de1347ae.md) |
+| Typed Lua | unknown | not_checked | [open](../records/lua-family-typed-lua-51daa1af.md) |
+| ZeroBraneStudio | unknown | not_checked | [open](../records/lua-family-zerobranestudio-84ef7bad.md) |
+
+## R
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| actibase | 0.5.0 | 2026-08-21 12:41:00 UTC | [open](../records/r-actibase-dde45b17.md) |
+| alcyon | 0.9.0 | 2026-08-29 22:40:08 UTC | [open](../records/r-alcyon-3efc2461.md) |
+| altmeta | 4.4 | 2026-08-21 07:20:02 UTC | [open](../records/r-altmeta-365af1ef.md) |
+| apisensr | 2.0.1 | 2026-08-28 15:40:24 UTC | [open](../records/r-apisensr-84600f94.md) |
+| APRScenario | 0.0.4.2 | 2026-08-26 08:50:17 UTC | [open](../records/r-aprscenario-8c302811.md) |
+| bayesQRsurvey | 0.3.1 | 2026-08-21 05:45:11 UTC | [open](../records/r-bayesqrsurvey-7ab4fbbb.md) |
+| bibliometrix | 5.5.0 | 2026-08-29 12:40:02 UTC | [open](../records/r-bibliometrix-954d7b97.md) |
+| blavaan | 0.6-1 | 2026-08-22 23:20:30 UTC | [open](../records/r-blavaan-0254027b.md) |
+| bmem | 2.3 | 2026-08-31 21:20:02 UTC | [open](../records/r-bmem-155466de.md) |
+| boa | 1.1.9 | 2026-08-27 13:10:08 UTC | [open](../records/r-boa-9975165f.md) |
+| bsitar | 0.4.0 | 2026-08-28 15:40:08 UTC | [open](../records/r-bsitar-395aff6c.md) |
+| cards | 0.9.0 | 2026-08-21 13:40:18 UTC | [open](../records/r-cards-ddd94f46.md) |
+| cgmguru | 1.3.0 | 2026-08-21 05:44:51 UTC | [open](../records/r-cgmguru-f2b94796.md) |
+| clinfun | 1.1.6 | 2026-08-29 12:30:12 UTC | [open](../records/r-clinfun-9832cc1d.md) |
+| CohortIncidence | 4.2.0 | 2026-08-25 14:10:02 UTC | [open](../records/r-cohortincidence-78d5283d.md) |
+| colleyRstats | 0.1.6 | 2026-08-25 21:00:19 UTC | [open](../records/r-colleyrstats-9ca12c19.md) |
+| compareGroups | 4.10.3 | 2026-08-28 10:50:02 UTC | [open](../records/r-comparegroups-582a581b.md) |
+| Compositional | 8.3 | 2026-08-21 06:30:16 UTC | [open](../records/r-compositional-4de89292.md) |
+| confidenceCurves | 0.2.1 | 2026-08-27 04:20:02 UTC | [open](../records/r-confidencecurves-97918e35.md) |
+| ConsensusCPA | 0.1.0 | 2026-08-24 14:50:13 UTC | [open](../records/r-consensuscpa-7dfcfd53.md) |
+| CopulaSCR | 1.0.2 | 2026-08-21 06:50:13 UTC | [open](../records/r-copulascr-78dd9030.md) |
+| dbscan | 1.2.6 | 2026-08-25 21:20:13 UTC | [open](../records/r-dbscan-ef4d1dc6.md) |
+| dexisensitivity | 1.0.3 | 2026-08-30 10:50:02 UTC | [open](../records/r-dexisensitivity-75615f88.md) |
+| diffwrap | 0.6-3 | 2026-08-30 09:10:19 UTC | [open](../records/r-diffwrap-0eca617e.md) |
+| DLCA | 1.1 | 2026-08-21 09:10:02 UTC | [open](../records/r-dlca-172e032d.md) |
+| dosr | 0.3.6 | 2026-08-28 07:01:14 UTC | [open](../records/r-dosr-76fff119.md) |
+| douconca | 1.2.5.1 | 2026-08-24 10:50:09 UTC | [open](../records/r-douconca-ffb3f3af.md) |
+| drmeta | 0.2.2 | 2026-08-24 19:10:02 UTC | [open](../records/r-drmeta-cc12b4a0.md) |
+| EasyPCA | 0.1.1 | 2026-08-30 10:00:22 UTC | [open](../records/r-easypca-05eeb851.md) |
+| easyRasch2 | 1.2.0 | 2026-08-23 08:30:02 UTC | [open](../records/r-easyrasch2-711ad37f.md) |
+| ecan | 0.2.2 | 2026-08-22 09:20:14 UTC | [open](../records/r-ecan-0dd1d8a0.md) |
+| EFAtools | 1.1.0 | 2026-08-21 12:20:02 UTC | [open](../records/r-efatools-98f22e4b.md) |
+| episensr | 2.2.0 | 2026-08-28 13:30:02 UTC | [open](../records/r-episensr-dfe78fa4.md) |
+| fastrda | 0.2.0 | 2026-08-21 14:30:02 UTC | [open](../records/r-fastrda-db5c6305.md) |
+| FinanceGraphs | 0.9.21 | 2026-08-28 17:00:09 UTC | [open](../records/r-financegraphs-92dc8905.md) |
+| ForeCA | 0.2.8-1 | 2026-08-23 05:00:02 UTC | [open](../records/r-foreca-3a912f7c.md) |
+| geiger | 2.0.12 | 2026-08-31 22:30:08 UTC | [open](../records/r-geiger-c11a43bf.md) |
+| gemtc | 1.1-2 | 2026-08-21 06:30:02 UTC | [open](../records/r-gemtc-650db489.md) |
+| GeoModels | 2.2.8 | 2026-08-21 05:46:27 UTC | [open](../records/r-geomodels-37c8b1f6.md) |
+| ggchangepoint | 0.4.0 | 2026-08-24 18:50:16 UTC | [open](../records/r-ggchangepoint-b265a91b.md) |
+| ggfortify | 0.4.22 | 2026-08-24 08:30:20 UTC | [open](../records/r-ggfortify-1c656f42.md) |
+| gp3sequences | 0.3.0 | 2026-08-23 10:40:25 UTC | [open](../records/r-gp3sequences-387dba1d.md) |
+| greenbook | 0.1.1 | 2026-08-24 07:30:28 UTC | [open](../records/r-greenbook-dca436d8.md) |
+| HIMA | 2.3.4 | 2026-08-30 15:20:15 UTC | [open](../records/r-hima-10835d0a.md) |
+| iCAMP | 1.8.6 | 2026-08-25 22:50:02 UTC | [open](../records/r-icamp-71d7e01b.md) |
+| ipaddress | 1.0.4 | 2026-08-31 15:50:02 UTC | [open](../records/r-ipaddress-69525d8b.md) |
+| kDGLM | 1.2.15 | 2026-08-29 12:10:29 UTC | [open](../records/r-kdglm-bd631139.md) |
+| layeranalyzer | 0.4.1 | 2026-08-28 09:50:08 UTC | [open](../records/r-layeranalyzer-22e4117f.md) |
+| lexicon | 1.3.2 | 2026-08-31 19:50:12 UTC | [open](../records/r-lexicon-15df1490.md) |
+| LMERConvenienceFunctions | 3.2 | 2026-08-24 20:10:02 UTC | [open](../records/r-lmerconveniencefunctions-f5d6409e.md) |
+| longitree | 1.0.2 | 2026-08-26 14:40:03 UTC | [open](../records/r-longitree-c659279a.md) |
+| MapperAlgo | 1.2.0 | 2026-08-31 14:40:02 UTC | [open](../records/r-mapperalgo-20f176dd.md) |
+| MDaRes | 0.0.2 | 2026-08-25 15:10:09 UTC | [open](../records/r-mdares-6e27e679.md) |
+| metalite.ae | 0.1.4 | 2026-08-29 12:10:22 UTC | [open](../records/r-metalite-ae-bd585728.md) |
+| metalite.sl | 0.1.3 | 2026-08-26 14:50:02 UTC | [open](../records/r-metalite-sl-3637a08a.md) |
+| MethScope | 1.0.4 | 2026-08-26 21:30:02 UTC | [open](../records/r-methscope-205598b3.md) |
+| misha | 5.11.23 | 2026-08-24 13:30:02 UTC | [open](../records/r-misha-a199de43.md) |
+| modEvA | 3.46 | 2026-08-28 12:20:08 UTC | [open](../records/r-modeva-4b088972.md) |
+| msma | 3.2 | 2026-08-26 08:40:02 UTC | [open](../records/r-msma-f3e3a3db.md) |
+| msPCA | 0.5.1 | 2026-08-25 10:40:08 UTC | [open](../records/r-mspca-73b2a122.md) |
+| ncar | 0.7.1 | 2026-08-27 10:50:02 UTC | [open](../records/r-ncar-da4b8318.md) |
+| nparLD | 2.3.1 | 2026-08-28 15:10:02 UTC | [open](../records/r-nparld-4e701871.md) |
+| pammtools | 0.8.1 | 2026-08-25 11:20:09 UTC | [open](../records/r-pammtools-fc1cd03d.md) |
+| PEAXAI | 1.0.3 | 2026-08-23 10:41:14 UTC | [open](../records/r-peaxai-69079a84.md) |
+| PenalReg | 0.1.0 | 2026-08-24 14:40:07 UTC | [open](../records/r-penalreg-2760d0c9.md) |
+| poLCAParallel | 1.2.9 | 2026-08-25 14:50:02 UTC | [open](../records/r-polcaparallel-c3425eb9.md) |
+| PRA | 0.6.0 | 2026-08-28 14:40:17 UTC | [open](../records/r-pra-3b950abe.md) |
+| projectLSA | 0.1.1 | 2026-08-22 09:20:08 UTC | [open](../records/r-projectlsa-83ba082e.md) |
+| projoint | 1.1.4 | 2026-08-28 19:30:02 UTC | [open](../records/r-projoint-683709d0.md) |
+| rwavelet | 0.4.2 | 2026-08-28 17:10:02 UTC | [open](../records/r-rwavelet-92b10cd9.md) |
+| sfa | 1.1.5 | 2026-08-23 18:30:02 UTC | [open](../records/r-sfa-1e69fae8.md) |
+| SimplicialComplex | 0.1.2 | 2026-08-24 18:40:50 UTC | [open](../records/r-simplicialcomplex-e22f3c43.md) |
+| SmartPK | 0.1.0 | 2026-08-24 14:40:02 UTC | [open](../records/r-smartpk-652820aa.md) |
+| SPACO | 1.0.3 | 2026-08-24 11:00:03 UTC | [open](../records/r-spaco-fa53b1e7.md) |
+| spada | 0.1.8 | 2026-08-23 11:20:02 UTC | [open](../records/r-spada-84694af7.md) |
+| spant | 4.4.0 | 2026-08-24 16:20:02 UTC | [open](../records/r-spant-3007db7a.md) |
+| spca | 1.1.3 | 2026-08-31 15:40:02 UTC | [open](../records/r-spca-c38be502.md) |
+| spsurvey | 5.7.0 | 2026-08-29 12:30:02 UTC | [open](../records/r-spsurvey-0dabd257.md) |
+| StepReg | 1.6.7 | 2026-08-31 19:31:03 UTC | [open](../records/r-stepreg-c2c60f95.md) |
+| survdnn | 1.0.0 | 2026-08-22 15:50:07 UTC | [open](../records/r-survdnn-dfef1e52.md) |
+| swash | 2.0.2 | 2026-08-30 09:40:02 UTC | [open](../records/r-swash-4105bcce.md) |
+| taxodist | 0.7.0 | 2026-08-28 23:00:02 UTC | [open](../records/r-taxodist-e4329e58.md) |
+| terra | 1.9-46 | 2026-08-22 16:30:02 UTC | [open](../records/r-terra-66a7f793.md) |
+| TreeMineR | 1.1.1 | 2026-08-28 13:30:27 UTC | [open](../records/r-treeminer-601ea7a0.md) |
+| TrialEmulation | 0.0.5 | 2026-08-25 10:50:13 UTC | [open](../records/r-trialemulation-81599ba2.md) |
+| TTE | 1.1.2 | 2026-08-28 10:00:21 UTC | [open](../records/r-tte-e19e8dec.md) |
+| unvs.med | 1.1.2 | 2026-08-23 06:30:02 UTC | [open](../records/r-unvs-med-ba7be0ce.md) |
+| xiacf | 0.6.5 | 2026-08-24 17:10:02 UTC | [open](../records/r-xiacf-d7674064.md) |
+
+## Octave
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| control | 4.2.3 | 2026-07-31 | [open](../records/octave-control-2085aed6.md) |
+| divand | 1.1.2 | 2014-06-18 | [open](../records/octave-divand-eb12547d.md) |
+| dsppack | 1.2.0 | 2026-08-02 | [open](../records/octave-dsppack-18f98831.md) |
+| fda | 1.0.0 | 2018-02-23 | [open](../records/octave-fda-1563f469.md) |
+| ltfat | 2.6.0 | 2023-09-06 | [open](../records/octave-ltfat-e99b5540.md) |
+| onsas | 0.2.5 | 2022-02-26 | [open](../records/octave-onsas-452d982c.md) |
+| queueing | 1.2.8 | 2024-05-13 | [open](../records/octave-queueing-fb131ee0.md) |
+| stk | 2.8.1 | 2023-07-01 | [open](../records/octave-stk-0d3a83e8.md) |
+| strings | 1.3.2 | 2026-08-02 | [open](../records/octave-strings-3c34288b.md) |
+| tisean | 0.2.3 | 2015-08-14 | [open](../records/octave-tisean-3ca2f22c.md) |
+| tsa | 4.6.3 | 2021-07-26 | [open](../records/octave-tsa-78ad7f84.md) |
+| velas | 1.0.6 | 2023-09-05 | [open](../records/octave-velas-af0d7959.md) |
+
+## C-Sharp
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| Microsoft.Azure.Functions.Worker.Extensions.Http.AspNetCore.Analyzers | 1.0.4 | 2025-05-21T00:07:35.553+00:00 | [open](../records/c-sharp-microsoft-azure-functions-worker-extensions-http-aspnetcore-analyzers-b57f4314.md) |
+
+## Dart
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| ai_barcode_scanner | 7.1.0 | 2025-09-27T09:26:27.134359Z | [open](../records/dart-ai-barcode-scanner-b66d3773.md) |
+| barcode_scan2 | 4.8.1 | 2026-08-13T02:21:15.413108Z | [open](../records/dart-barcode-scan2-37eae369.md) |
+| cunning_document_scanner | 3.0.2 | 2026-08-31T06:14:42.627856Z | [open](../records/dart-cunning-document-scanner-b98260f4.md) |
+
+## Space Engines
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| alopezrivera/huracan | 0.9 | 2024-05-18T22:12:53Z | [open](../records/space-engines-alopezrivera-huracan-6e1c9cbf.md) |
+| arda-guler/LETALIS | R4 | 2023-09-16T14:55:06Z | [open](../records/space-engines-arda-guler-letalis-bdbe2639.md) |
+| dpad/OrbitalTrajectories.jl | v0.1.14 | 2021-06-28T14:28:50Z | [open](../records/space-engines-dpad-orbitaltrajectories-jl-29cbef22.md) |
+| egemenimre/satkit | unknown | github_latest_release_missing | [open](../records/space-engines-egemenimre-satkit-6321fc45.md) |
+| egemenimre/satmad | 0.1.2 | 2021-05-27T23:02:02Z | [open](../records/space-engines-egemenimre-satmad-1c22bd56.md) |
+| mlau154/pymead | unknown | github_latest_release_missing | [open](../records/space-engines-mlau154-pymead-00b1ba72.md) |
+| nasa/GMAT | R2026a | 2026-05-06T18:17:23Z | [open](../records/space-engines-nasa-gmat-1132ba56.md) |
+| Setuav/PyThrust | v0.2.2 | 2026-08-20T22:32:22Z | [open](../records/space-engines-setuav-pythrust-30962a6a.md) |
+| SpaceEngineerSS/EnSim | v3.0.1 | 2026-08-20T16:06:16Z | [open](../records/space-engines-spaceengineerss-ensim-911fc029.md) |
+| sylvesterkaczmarek/lunar-astrodynamics-simulation | unknown | github_latest_release_missing | [open](../records/space-engines-sylvesterkaczmarek-lunar-astrodynamics-simulation-3c0d4638.md) |
+
+## Space Shuttles
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| DavidR-21/Space-Shuttle-Reentry-Analysis | unknown | github_latest_release_missing | [open](../records/space-shuttles-davidr-21-space-shuttle-reentry-analysis-885e7731.md) |
+| Mizharrrrrhidi1818/OutlierDetectionMethod-IsolationForest-LOF-DBSCAN | unknown | github_latest_release_missing | [open](../records/space-shuttles-mizharrrrrhidi1818-outlierdetectionmethod-isolationforest-lof-dbscan-480fa68e.md) |
+
+## Assembly
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| mandiant/flare-learning-hub | unknown | github_latest_release_missing | [open](../records/assembly-mandiant-flare-learning-hub-36dc67ad.md) |
+
+## Pattern language
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| ddd-by-examples/library | unknown | github_latest_release_missing | [open](../records/pattern-language-ddd-by-examples-library-19a9d881.md) |
+| simple-android-framework/android_design_patterns_analysis | unknown | github_latest_release_missing | [open](../records/pattern-language-simple-android-framework-android-design-patterns-analysis-d87c1f0b.md) |
+
+## Repository Workplaces
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-01T06:31:26.067Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
+| gitlab-org/gitlab | partial | 2026-09-01T06:21:56.106Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
+| gitlab-org/security-products/analyzers/container-scanning | partial | 2026-08-27T18:19:28.289Z | [open](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) |
+| mopsa/mopsa-analyzer | partial | 2026-08-23T14:57:22.050Z | [open](../records/repository-workplaces-mopsa-mopsa-analyzer-9740e96e.md) |

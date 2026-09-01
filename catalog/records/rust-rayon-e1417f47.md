@@ -2,7 +2,7 @@
 
 ## Navigation
 
-[Catalog index](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../index.md) · [Language: Rust](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-language/rust.md) · [Category: Concurrency Parallelism](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/concurrency-parallelism.md) · [Release watch](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../release-watch.md) · [Apache/MIT license index](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../license-index.md)
+[Catalog index](../index.md) · [Language: Rust](../by-language/rust.md) · [Category: Concurrency Parallelism](../by-category/concurrency-parallelism.md) · [Release watch](../release-watch.md) · [Apache/MIT license index](../license-index.md)
 
 ## Identity
 
@@ -12,8 +12,8 @@
 | Category | Concurrency Parallelism |
 | Source type | concurrency_parallelism |
 | Verification | catalog_seed |
-| Canonical URL | unknown |
-| Source record ids | master-ceac7538e56e |
+| Canonical URL | [https://crates.io/crates/rayon](https://crates.io/crates/rayon) |
+| Source record ids | master-ceac7538e56e, crates_io-8abaf94c196300 |
 
 ## System Engineer Summary
 
@@ -28,7 +28,7 @@ dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | unknown |  |  | unknown | not_checked |
+| stable | known | 1.12.0 | 2026-04-14T00:56:56.454086Z | [https://crates.io/api/v1/crates?page=3&per_page=100&sort=downloads](https://crates.io/api/v1/crates?page=3&per_page=100&sort=downloads) |  |
 | preview/nightly | unknown |  |  | unknown | not_checked |
 
 ## License And Use Alert
@@ -43,51 +43,52 @@ dependency review, release awareness, and operational fit assessment.
 
 - Treat category as `concurrency_parallelism` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Stable release is unknown because `not_checked`.
+- Latest stable metadata was observed from `https://crates.io/api/v1/crates?page=3&per_page=100&sort=downloads` at `2026-09-01T07:19:26+00:00`.
 - Preview/nightly metadata is unknown because `not_checked`.
-- No canonical URL is verified yet; resolve before using this as an authoritative dependency identity.
 
 ## Provenance
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
 | model_knowledge_seed | catalog_seed | 2026-09-01 | `{"as_of": "2026-09-01", "kind": "model_knowledge_seed", "status": "catalog_seed"}` |
+| crates_io | registry-derived | 2026-09-01 | `{"kind": "crates_io", "retrieved": "2026-09-01", "status": "registry-derived"}` |
 
 ## Evidence
 
-Evidence records merged into this identity: `1`.
+Evidence records merged into this identity: `2`.
 
 - `master-ceac7538e56e` from `master_json` as `concurrency_parallelism`
+- `crates_io-8abaf94c196300` from `crates_io` as `registry_expansion`
 
 ## Related Records
 
 | Name | Category | Page |
 | --- | --- | --- |
-| blocking | Concurrency Parallelism | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/rust-blocking-2e4670f8.md) |
-| crossbeam | Concurrency Parallelism | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/rust-crossbeam-52e023ac.md) |
-| dashmap | Concurrency Parallelism | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/rust-dashmap-df61348c.md) |
-| event-listener | Concurrency Parallelism | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/rust-event-listener-217acd9f.md) |
-| local-channel | Concurrency Parallelism | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/rust-local-channel-9b8dd9fc.md) |
-| local-waker | Concurrency Parallelism | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/rust-local-waker-a14cd2ab.md) |
-| lockfree-object-pool | Concurrency Parallelism | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/rust-lockfree-object-pool-f7ac4a3d.md) |
-| maybe-rayon | Concurrency Parallelism | [open](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/rust-maybe-rayon-50ef4904.md) |
+| blocking | Concurrency Parallelism | [open](rust-blocking-2e4670f8.md) |
+| crossbeam | Concurrency Parallelism | [open](rust-crossbeam-52e023ac.md) |
+| dashmap | Concurrency Parallelism | [open](rust-dashmap-df61348c.md) |
+| event-listener | Concurrency Parallelism | [open](rust-event-listener-217acd9f.md) |
+| local-channel | Concurrency Parallelism | [open](rust-local-channel-9b8dd9fc.md) |
+| local-waker | Concurrency Parallelism | [open](rust-local-waker-a14cd2ab.md) |
+| lockfree-object-pool | Concurrency Parallelism | [open](rust-lockfree-object-pool-f7ac4a3d.md) |
+| maybe-rayon | Concurrency Parallelism | [open](rust-maybe-rayon-50ef4904.md) |
 
 ## Category Index
 
-[Api Abi Checker (66)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/api-abi-checker.md) · [Api Doc Generator (10)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/api-doc-generator.md) · [Assertion Mocking (31)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/assertion-mocking.md) · [Async Runtime (85)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/async-runtime.md)
-[Benchmarking (39)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/benchmarking.md) · [Build System (406)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/build-system.md) · [Cli (304)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/cli.md) · [Codegen Codemod Refactoring (19)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/codegen-codemod-refactoring.md)
-[Community Reference (51)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/community-reference.md) · [Compiler (83)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/compiler.md) · [Compiler Diagnostics (8)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/compiler-diagnostics.md) · [Compression (31)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/compression.md)
-**[Concurrency Parallelism (42)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/concurrency-parallelism.md)** · [Configuration (48)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/configuration.md) · [Container Deployment (6)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/container-deployment.md) · [Coverage (8)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/coverage.md)
-[Cryptography (117)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/cryptography.md) · [Data Science (14)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/data-science.md) · [Database Datastore (312)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/database-datastore.md) · [Datetime (44)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/dead-code-dependency-analysis.md) · [Debugger (31)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/debugger.md) · [Dependency Manager (38)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/dependency-manager.md) · [Documentation (49)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/documentation.md)
-[Embedded Hardware (16)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/embedded-hardware.md) · [Ffi Bindings (256)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/ffi-bindings.md) · [Filesystem Os (299)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/filesystem-os.md) · [Formatter (326)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/formatter.md)
-[Framework (17)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/framework.md) · [Fuzzer (10)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/fuzzer.md) · [Game Engine Game Dev (76)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/game-engine-game-dev.md) · [Ide Editor Integration (404)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/ide-editor-integration.md)
-[Image Audio Dsp (77)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/image-audio-dsp.md) · [Interop Bindings (41)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/interop-bindings.md) · [Interpreter Runtime (88)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/interpreter-runtime.md) · [Jit Vm (50)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/jit-vm.md)
-[Language Server (19)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/language-server.md) · [Language Specification (240)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/language-specification.md) · [Library (2366)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/library.md) · [Lint Plugin (1)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/lint-plugin.md)
-[Lint Rule Pack (27)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/lint-rule-pack.md) · [Linter (319)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/linter.md) · [Logging Observability (183)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/logging-observability.md) · [Machine Learning (219)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/machine-learning.md)
-[Math Numeric Scientific (58)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/math-numeric-scientific.md) · [Memory Analyzer (39)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/memory-analyzer.md) · [Message Broker (18)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/message-broker.md) · [Networking Http (449)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/networking-http.md)
-[Other (14)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/other.md) · [Package Manager (117)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/package-manager.md) · [Parser Lexer Ast (317)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (121)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/precommit-ci-quality.md)
-[Profiler (41)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/profiler.md) · [Project Scaffolding (39)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/project-scaffolding.md) · [Registry Repository (99)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/registry-repository.md) · [Sanitizer (4)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/sanitizer.md)
-[Security Sast (215)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/security-sast.md) · [Serialization (181)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/serialization.md) · [Standard Library (18)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/standard-library.md) · [Static Analyzer (68)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/static-analyzer.md)
-[Templating (2)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/templating.md) · [Testing Framework (335)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/testing-framework.md) · [Tutorial Book Styleguide (11)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/tutorial-book-styleguide.md) · [Type Checker (229)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/type-checker.md)
-[Undefined Behavior Analyzer (218)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/undefined-behavior-analyzer.md) · [Utility Library (56)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/utility-library.md) · [Visualization Gui (161)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/visualization-gui.md) · [Web Framework (199)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/../by-category/web-framework.md)
+[Api Abi Checker (93)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (33)](../by-category/assertion-mocking.md) · [Async Runtime (104)](../by-category/async-runtime.md)
+[Benchmarking (58)](../by-category/benchmarking.md) · [Build System (482)](../by-category/build-system.md) · [Cli (420)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (55)](../by-category/community-reference.md) · [Compiler (106)](../by-category/compiler.md) · [Compiler Diagnostics (18)](../by-category/compiler-diagnostics.md) · [Compression (32)](../by-category/compression.md)
+**[Concurrency Parallelism (59)](../by-category/concurrency-parallelism.md)** · [Configuration (60)](../by-category/configuration.md) · [Container Deployment (7)](../by-category/container-deployment.md) · [Coverage (10)](../by-category/coverage.md)
+[Cryptography (125)](../by-category/cryptography.md) · [Data Science (26)](../by-category/data-science.md) · [Database Datastore (426)](../by-category/database-datastore.md) · [Datetime (69)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (32)](../by-category/debugger.md) · [Dependency Manager (56)](../by-category/dependency-manager.md) · [Documentation (52)](../by-category/documentation.md)
+[Embedded Hardware (21)](../by-category/embedded-hardware.md) · [Ffi Bindings (290)](../by-category/ffi-bindings.md) · [Filesystem Os (423)](../by-category/filesystem-os.md) · [Formatter (393)](../by-category/formatter.md)
+[Framework (27)](../by-category/framework.md) · [Fuzzer (19)](../by-category/fuzzer.md) · [Game Engine Game Dev (85)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (554)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (88)](../by-category/image-audio-dsp.md) · [Interop Bindings (43)](../by-category/interop-bindings.md) · [Interpreter Runtime (111)](../by-category/interpreter-runtime.md) · [Jit Vm (50)](../by-category/jit-vm.md)
+[Language Server (20)](../by-category/language-server.md) · [Language Specification (572)](../by-category/language-specification.md) · [Library (3015)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (31)](../by-category/lint-rule-pack.md) · [Linter (326)](../by-category/linter.md) · [Logging Observability (216)](../by-category/logging-observability.md) · [Machine Learning (306)](../by-category/machine-learning.md)
+[Math Numeric Scientific (68)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (51)](../by-category/memory-analyzer.md) · [Message Broker (23)](../by-category/message-broker.md) · [Networking Http (632)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (156)](../by-category/package-manager.md) · [Parser Lexer Ast (480)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (160)](../by-category/precommit-ci-quality.md)
+[Profiler (51)](../by-category/profiler.md) · [Project Scaffolding (68)](../by-category/project-scaffolding.md) · [Registry Repository (104)](../by-category/registry-repository.md) · [Sanitizer (6)](../by-category/sanitizer.md)
+[Security Sast (247)](../by-category/security-sast.md) · [Serialization (266)](../by-category/serialization.md) · [Standard Library (21)](../by-category/standard-library.md) · [Static Analyzer (203)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (401)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (32)](../by-category/tutorial-book-styleguide.md) · [Type Checker (238)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (446)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (68)](../by-category/utility-library.md) · [Visualization Gui (222)](../by-category/visualization-gui.md) · [Web Framework (277)](../by-category/web-framework.md)

@@ -2,37 +2,37 @@
 
 This catalog preserves discovered evidence and marks uncertainty explicitly. A record with an unknown release is still useful as a tracked identity, but it is not release-authoritative until a primary source fills the release fields.
 
-[Catalog index](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/index.md) · [Release watch](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/release-watch.md) · [Apache/MIT license index](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/license-index.md)
+[Catalog index](index.md) · [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md)
 
 ## Category Index
 
-[Api Abi Checker (66)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/api-abi-checker.md) · [Api Doc Generator (10)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/api-doc-generator.md) · [Assertion Mocking (31)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/assertion-mocking.md) · [Async Runtime (85)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/async-runtime.md)
-[Benchmarking (39)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/benchmarking.md) · [Build System (406)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/build-system.md) · [Cli (304)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/cli.md) · [Codegen Codemod Refactoring (19)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/codegen-codemod-refactoring.md)
-[Community Reference (51)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/community-reference.md) · [Compiler (83)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/compiler.md) · [Compiler Diagnostics (8)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/compiler-diagnostics.md) · [Compression (31)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/compression.md)
-[Concurrency Parallelism (42)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/concurrency-parallelism.md) · [Configuration (48)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/configuration.md) · [Container Deployment (6)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/container-deployment.md) · [Coverage (8)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/coverage.md)
-[Cryptography (117)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/cryptography.md) · [Data Science (14)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/data-science.md) · [Database Datastore (312)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/database-datastore.md) · [Datetime (44)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/dead-code-dependency-analysis.md) · [Debugger (31)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/debugger.md) · [Dependency Manager (38)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/dependency-manager.md) · [Documentation (49)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/documentation.md)
-[Embedded Hardware (16)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/embedded-hardware.md) · [Ffi Bindings (256)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/ffi-bindings.md) · [Filesystem Os (299)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/filesystem-os.md) · [Formatter (326)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/formatter.md)
-[Framework (17)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/framework.md) · [Fuzzer (10)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/fuzzer.md) · [Game Engine Game Dev (76)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/game-engine-game-dev.md) · [Ide Editor Integration (404)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/ide-editor-integration.md)
-[Image Audio Dsp (77)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/image-audio-dsp.md) · [Interop Bindings (41)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/interop-bindings.md) · [Interpreter Runtime (88)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/interpreter-runtime.md) · [Jit Vm (50)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/jit-vm.md)
-[Language Server (19)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/language-server.md) · [Language Specification (240)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/language-specification.md) · [Library (2366)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/library.md) · [Lint Plugin (1)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/lint-plugin.md)
-[Lint Rule Pack (27)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/lint-rule-pack.md) · [Linter (319)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/linter.md) · [Logging Observability (183)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/logging-observability.md) · [Machine Learning (219)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/machine-learning.md)
-[Math Numeric Scientific (58)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/math-numeric-scientific.md) · [Memory Analyzer (39)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/memory-analyzer.md) · [Message Broker (18)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/message-broker.md) · [Networking Http (449)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/networking-http.md)
-[Other (14)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/other.md) · [Package Manager (117)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/package-manager.md) · [Parser Lexer Ast (317)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/parser-lexer-ast.md) · [Precommit Ci Quality (121)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/precommit-ci-quality.md)
-[Profiler (41)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/profiler.md) · [Project Scaffolding (39)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/project-scaffolding.md) · [Registry Repository (99)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/registry-repository.md) · [Sanitizer (4)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/sanitizer.md)
-[Security Sast (215)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/security-sast.md) · [Serialization (181)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/serialization.md) · [Standard Library (18)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/standard-library.md) · [Static Analyzer (68)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/static-analyzer.md)
-[Templating (2)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/templating.md) · [Testing Framework (335)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/testing-framework.md) · [Tutorial Book Styleguide (11)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/tutorial-book-styleguide.md) · [Type Checker (229)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/type-checker.md)
-[Undefined Behavior Analyzer (218)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/undefined-behavior-analyzer.md) · [Utility Library (56)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/utility-library.md) · [Visualization Gui (161)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/visualization-gui.md) · [Web Framework (199)](https://github.com/DRG-INT/UNICAGD-programming-systems-catalog/blob/main/by-category/web-framework.md)
+[Api Abi Checker (93)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (33)](by-category/assertion-mocking.md) · [Async Runtime (104)](by-category/async-runtime.md)
+[Benchmarking (58)](by-category/benchmarking.md) · [Build System (482)](by-category/build-system.md) · [Cli (420)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Community Reference (55)](by-category/community-reference.md) · [Compiler (106)](by-category/compiler.md) · [Compiler Diagnostics (18)](by-category/compiler-diagnostics.md) · [Compression (32)](by-category/compression.md)
+[Concurrency Parallelism (59)](by-category/concurrency-parallelism.md) · [Configuration (60)](by-category/configuration.md) · [Container Deployment (7)](by-category/container-deployment.md) · [Coverage (10)](by-category/coverage.md)
+[Cryptography (125)](by-category/cryptography.md) · [Data Science (26)](by-category/data-science.md) · [Database Datastore (426)](by-category/database-datastore.md) · [Datetime (69)](by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (32)](by-category/debugger.md) · [Dependency Manager (56)](by-category/dependency-manager.md) · [Documentation (52)](by-category/documentation.md)
+[Embedded Hardware (21)](by-category/embedded-hardware.md) · [Ffi Bindings (290)](by-category/ffi-bindings.md) · [Filesystem Os (423)](by-category/filesystem-os.md) · [Formatter (393)](by-category/formatter.md)
+[Framework (27)](by-category/framework.md) · [Fuzzer (19)](by-category/fuzzer.md) · [Game Engine Game Dev (85)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (554)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (88)](by-category/image-audio-dsp.md) · [Interop Bindings (43)](by-category/interop-bindings.md) · [Interpreter Runtime (111)](by-category/interpreter-runtime.md) · [Jit Vm (50)](by-category/jit-vm.md)
+[Language Server (20)](by-category/language-server.md) · [Language Specification (572)](by-category/language-specification.md) · [Library (3015)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (31)](by-category/lint-rule-pack.md) · [Linter (326)](by-category/linter.md) · [Logging Observability (216)](by-category/logging-observability.md) · [Machine Learning (306)](by-category/machine-learning.md)
+[Math Numeric Scientific (68)](by-category/math-numeric-scientific.md) · [Memory Analyzer (51)](by-category/memory-analyzer.md) · [Message Broker (23)](by-category/message-broker.md) · [Networking Http (632)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (156)](by-category/package-manager.md) · [Parser Lexer Ast (480)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (160)](by-category/precommit-ci-quality.md)
+[Profiler (51)](by-category/profiler.md) · [Project Scaffolding (68)](by-category/project-scaffolding.md) · [Registry Repository (104)](by-category/registry-repository.md) · [Sanitizer (6)](by-category/sanitizer.md)
+[Security Sast (247)](by-category/security-sast.md) · [Serialization (266)](by-category/serialization.md) · [Standard Library (21)](by-category/standard-library.md) · [Static Analyzer (203)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (401)](by-category/testing-framework.md) · [Tutorial Book Styleguide (32)](by-category/tutorial-book-styleguide.md) · [Type Checker (238)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (446)](by-category/undefined-behavior-analyzer.md) · [Utility Library (68)](by-category/utility-library.md) · [Visualization Gui (222)](by-category/visualization-gui.md) · [Web Framework (277)](by-category/web-framework.md)
 
 ## Source Labels
 
 | Label | Records |
 | --- | ---: |
-| npm_registry | 2578 |
-| julia_general | 2108 |
-| crates_io | 2089 |
-| luarocks_root_manifest | 1608 |
-| registry-derived | 546 |
+| registry-derived | 8561 |
+| npm_registry | 1159 |
+| julia_general | 879 |
+| crates_io | 877 |
+| luarocks_root_manifest | 753 |
 | unverified_seed | 452 |
 | uploaded_file | 265 |
 | catalog_seed | 226 |
@@ -43,215 +43,234 @@ This catalog preserves discovered evidence and marks uncertainty explicitly. A r
 
 | Kind | Status | Records |
 | --- | --- | ---: |
+| npm_registry_search | registry-derived | 1431 |
+| julia_general_registry | registry-derived | 1229 |
+| crates_io | registry-derived | 1228 |
+| luarocks_root_manifest | registry-derived | 858 |
+| cran_available_packages_by_date | registry-derived | 792 |
+| github_cli_search | forge-cli-derived | 615 |
+| pypi_simple_and_json_api | registry-derived | 519 |
 | model_knowledge_corpus | unverified_seed | 454 |
 | official_language_route | curated-extension-derived | 400 |
+| community_reference_markdown | curated-list-derived | 295 |
 | uploaded_file |  | 267 |
 | model_knowledge_seed | catalog_seed | 229 |
+| nuget_search_api | registry-derived | 150 |
+| pub_dev_completion_and_package_api | registry-derived | 150 |
+| go_module_index | registry-derived | 150 |
+| packagist_search_and_p2_api | registry-derived | 150 |
+| gnu_octave_packages_index | registry-derived | 141 |
+| hackage_top_downloads | registry-derived | 132 |
+| gitlab_projects_api | forge-api-derived | 91 |
 | curated_database_systems | curated-extension-derived | 87 |
+| maven_central_search | registry-derived | 60 |
 | official_repository_workplace_route | curated-extension-derived | 59 |
+| cocoapods_cdn_and_trunk_api | registry-derived | 28 |
+| hackage_recent_uploads | registry-derived | 18 |
 | web_research |  | 14 |
+| github_repository_search | registry-derived | 8 |
 | web_search | verified_this_pass | 4 |
 
 ## Fetch Errors
 
-- `network disabled: https://api.github.com/search/repositories?q=%22Radio%20Garden%22%20API&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=%22Radio%20Garden%22%20android&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=%22Radio%20Garden%22%20desktop&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=%22Radio%20Garden%22%20electron&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=%22Radio%20Garden%22&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=%22radio.garden%22&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=AVSLab%20basilisk&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=Basilisk%20language%20compiler&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=NASA%20space%20shuttle%20data&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=SAP%20CAP%20Java&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=SAP%20Cloud%20SDK%20Java&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=SAP%20HANA%20Java&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=SPICE%20kernels&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=assembler%20stars%3A%3E300&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=astronomy%20sky%20map&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=audio%20effects%20dsp&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=basilisk%20astrodynamics&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=basilisk%20c%20simulation&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=bazel%20starlark%20rules%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=brace%20matching%20parser&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=bracket%20pair%20colorization&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=collection%20repertoire&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=curly%20brace%20formatter&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=design%20patterns%20stars%3A%3E1000&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=developer%20magazine&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=enterprise%20integration%20patterns%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=grammar%20braces%20parser&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=language%3AAssembly%20stars%3A%3E500&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=language%3AGo%20stars%3A%3E3000&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=language%3AMATLAB%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=language%3AMATLAB%20topic%3Acontrol-systems&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=language%3AMATLAB%20topic%3Aimage-processing&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=language%3AMATLAB%20topic%3Amachine-learning&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=language%3AMATLAB%20topic%3Amatlab&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=language%3AMATLAB%20topic%3Asignal-processing&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=language%3ANix%20stars%3A%3E1000&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=language%3AObjective-C%20stars%3A%3E1000&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=language%3AStarlark%20stars%3A%3E500&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=language%3ASwift%20stars%3A%3E1000&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=language%3AWebAssembly%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=microservices%20patterns%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=music%20repertoire%20catalog&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=orbiter%20space%20flight%20simulator&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=org%3ASAP%20Java&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=particle%20system&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=performance%20repertoire&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=planetary%20maps&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=post%20processing%20shader&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=programming%20magazine%20archive&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=radio-garden&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=radiogarden&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=repertoire%20catalog&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=score%20catalog&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=setlist%20catalog&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=shader%20effects&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=shuttle%20guidance%20navigation%20control&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=software%20architecture%20patterns%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=space%20shuttle%20simulation&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=space%20shuttle%20telemetry&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=space%20visualization&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=star%20catalog&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=syntax%20highlighter%20braces&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3A2d-game-engine%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3A3d-assets%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3A3d-game-engine%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3A3d-graphics%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aai-agent%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aanimation%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aantenna%20stars%3A%3E10&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aarm%20topic%3Aassembly&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aassembly%20stars%3A%3E300&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aasset-management%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aasset-pipeline%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aassets%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aastrodynamics%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aastronomy%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aastrophotography%20stars%3A%3E10&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aaudio%20stars%3A%3E500&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aaudio-effects%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aaudio-plugin%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Abazel%20rules%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Abioimaging%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Abrand-assets%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Abrowser-engine%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Acad%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Acamera%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Acatalog%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Accsds%20stars%3A%3E5&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Acelestial-mechanics%20stars%3A%3E10&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Acell-segmentation%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Acocoa%20stars%3A%3E200&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Acocoapods%20stars%3A%3E200&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Acollision-detection%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Acompositor%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Acomputer-graphics%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Adata-catalog%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Adata-lake%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Adatabase%20stars%3A%3E1000&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Adatabase-driver%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Adesign-system%20stars%3A%3E500&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Adsp%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aecs%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aelectromagnetics%20stars%3A%3E5&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aemoji%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aengine%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aexif%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Afavicons%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Affmpeg%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Afits%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Afluid-simulation%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Afont-manager%20stars%3A%3E10&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Afontforge%20stars%3A%3E10&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Afonts%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Afonttools%20stars%3A%3E10&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Agame-assets%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Agame-development%20stars%3A%3E500&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Agame-engine%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Agame-framework%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Agenerative-ai%20stars%3A%3E500&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Ageocoding%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Ageospatial%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Agis%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Agnss%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Agnuradio%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Ago-framework%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Ago-library%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Ago-modules%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Agolang%20stars%3A%3E1000&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Agraphics%20stars%3A%3E1000&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Ahdr%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aicon-font%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aicons%20stars%3A%3E500&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aimage-processing%20stars%3A%3E500&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aimagej%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aindex%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aindi%20stars%3A%3E10&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Ainference-server%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aios-library%20stars%3A%3E500&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Ajdbc%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Ajournal%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Allm%20stars%3A%3E500&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Alogo%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Amachine-learning%20stars%3A%3E1000&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Amagazine%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Amagnetometer%20stars%3A%3E5&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Amaps%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Amedia-processing%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Ametadata-catalog%20stars%3A%3E10&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Amicroscope%20stars%3A%3E10&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Amicroscopy%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Amodel-serving%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Amodeling%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Amysql%20stars%3A%3E500&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Anewsletter%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Anix%20stars%3A%3E500&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Anix-flakes%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Anixos%20stars%3A%3E500&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Anixpkgs%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Anosql%20stars%3A%3E500&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aobject-storage%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aobservatory%20stars%3A%3E10&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aodbc%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aolap%20stars%3A%3E200&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aome-tiff%20stars%3A%3E5&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aonnx%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aopenai%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aopengl%20stars%3A%3E500&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aopenstreetmap%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aorbital-mechanics%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Apackage-registry%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aparticle-system%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aphotography%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aphysics-engine%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aphysics-simulation%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aplanetary-science%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Apost-processing%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Apostgresql%20stars%3A%3E1000&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Apropulsion%20stars%3A%3E10&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aquery-engine%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aradar%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aradar-signal-processing%20stars%3A%3E5&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aradio%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Arag%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Araw-image%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Araytracing%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aregistry%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Aremote-sensing%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Arenderer%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Arendering-engine%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Arf%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Arigid-body-dynamics%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Ariscv%20topic%3Aassembly&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Arocket-engine%20stars%3A%3E5&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Arocket-simulation%20stars%3A%3E10&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Arouting%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Arules-engine%20stars%3A%3E100&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Asar%20stars%3A%3E20&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Asatcom%20stars%3A%3E5&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Asatellite%20stars%3A%3E50&sort=stars&order=desc&per_page=50&page=1`
-- `network disabled: https://api.github.com/search/repositories?q=topic%3Asatellite-communications%20stars%3A%3E5&sort=stars&order=desc&per_page=50&page=1`
-- 254 more errors omitted.
+- `HTTPError: https://api.github.com/repos/100thCoin/AccuracyCoin/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/3lf/design-patterns-for-humans/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/ADSWNJ/BaseSyncMFD/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/ADSWNJ/LagrangeMFD/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/ADSWNJ/ModuleMessagingExt/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/ADSWNJ/On_Station_Ops/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/ADSWNJ/RV_Orientation/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/ANDREWNGT/FORMFLYT/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/APIs-guru/openapi-directory/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/AaronJackson/vrn/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/AdityaBagad/NASA-Space-Shuttle-Missions/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/AlexanderGrom/go-patterns/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/AlfredXiangWu/face_verification_experiment/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/AlterWL/Battery_SOC_Estimation/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/AndreyPanov/ApplicationCoordinator/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Armando1514/Event-Driven-Microservices-Advanced/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Astro-Rabbit/VRC_Orbiter/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/AtsushiSakai/MATLABRobotics/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Ayatans/Machine-Learning-homework/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Bahn-X/swift-composable-navigator/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Borye/machine-learning-coursera-1/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Brightify/Reactant/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Captainarash/The_Holy_Book_of_X86/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/ChristopherRabotin/smd/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/CodelyTV/typescript-ddd-example/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Conquer-Space/Conquer-Space/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/DGivney/assemblytutorials/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/DJBen/Graviton/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/DavidR-21/Space-Shuttle-Reentry-Analysis/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/DesignPatternsPHP/DesignPatternsPHP/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Devinterview-io/api-design-interview-questions/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Devinterview-io/concurrency-interview-questions/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Devinterview-io/databases-interview-questions/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Devinterview-io/docker-interview-questions/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Devinterview-io/microservices-interview-questions/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Devinterview-io/software-architecture-interview-questions/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/DovAmir/awesome-design-patterns/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/E-S-Waga15/Spacecraft-Motion-Simulation/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Ewenwan/Mathematics/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/F35-Vin-Desh/FlightGear-Space-Shuttle-Simulation/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/FFmpeg/FFmpeg/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/FengJungle/DesignPattern/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Finin-Quincey/Modelling-Techniques-2/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/FlorentF9/SatelliteSimulator/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/FredKSchott/the-node-way/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/GH-X-ST/Aeronautical-Engineering-Imperial/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/GoogleCloudPlatform/ml-design-patterns/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Habrador/Unity-Programming-Patterns/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/HazyResearch/hyena-dna/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/HazyResearch/safari/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/HiroIshida/robust-tube-mpc/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/HuangCongQing/Algorithms_MathModels/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Hunter-Github/GitScience/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/HybridRobotics/CBF-CLF-Helper/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/HybridRobotics/NMPC-DCLF-DCBF/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Izack/Deepstar/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/JDat/orbiterVncClient/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/JakubVojvoda/design-patterns-cpp/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/KOSASIH/thermal-protection-system/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/KnightOS/KnightOS/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Kraken-Space-Program/Kraken-Space-Program/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Linfeng-Tang/Image-Fusion/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Lisandro79/BeatTheBookie/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/LyricYang/MIMO_OFDM/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Mahmoudz/Porto/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/MaksimKurpa/Linker/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Maratyszcza/PeachPy/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/MasterERTS/sipro-spaceshuttle/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/MasterOgon/Aeroacoustic-Flying-Saucer-Oscillating-Resonator-CFD-Simulation-LBM-/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Mathews-Tom/Agentic-Design-Patterns/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/MatiasSaibene/Antonov_An225_for_Orbiter/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/MatiasSaibene/FlightDataRecMFD_for_OpenOrbiter/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/MattPD/cpplinks/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Microservice-API-Patterns/LakesideMutual/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/MindorksOpenSource/iOS-Viper-Architecture/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Mizharrrrrhidi1818/OutlierDetectionMethod-IsolationForest-LOF-DBSCAN/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/MrEngineer13/SnackBar/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Naphier/unity-design-patterns/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/NerdsWithAttitudes/WarpFactory/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/NixOS/hydra/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/NixOS/nix/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/NixOS/nixpkgs/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/NythicalNorm/VoxelSpaceProgram/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Overv/MineAssemble/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/PDP-10/its/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/PacktPublishing/Node.js-Design-Patterns-Third-Edition/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/PlummersSoftwareLLC/TinyRetroPad/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/PrincetonUniversity/openpiton/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/QianMo/Unity-Design-Pattern/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/RandalLinden/DOOM-FX/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/RefactoringGuru/design-patterns-java/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/RefactoringGuru/design-patterns-php/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/RefactoringGuru/design-patterns-python/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/RefactoringGuru/design-patterns-typescript/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/ReneeYe/Simulation_Course_project/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Robert-Ramsayer/Apollo-s-path/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/SPIRIT-org/SPIRIT/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/SachinM007/NASA-Space-Shuttle-Anomaly-Detection-Sysytem/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Sairyss/domain-driven-hexagon/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Sairyss/system-design-patterns/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/ShaoqingRen/faster_rcnn/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Shuai-Xie/genetic-algorithm/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Sokoloff-Alex/Projects/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/SpinalHDL/VexRiscv/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Suryakant-Bharti/Important-Java-Concepts/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/THRASTRO/ephem.js/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/TheAlgorithms/MATLAB-Octave/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/TheHama7/SpaceArm_VirtualPrototype/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/TheSpaceDevs/Tutorials/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/ThomasJaeger/VisualMASM/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/ThomasYeoLab/CBIG/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/TruSat/trusat-orbit/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/TunSafe/TunSafe/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Unity-Technologies/game-programming-patterns-demo/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/Varietyz/Disciplined-AI-Software-Development/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/VincentWong3/automated-driving-control/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/VincentWong3/automatic-driving-decision-and-planning-for-matlab/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/VipaiLab/Signals-and-Systems-course/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/VishalGhuge111/nakshatraX/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/WeLoveKiraboshi/SIPRO-SpaceShuttle/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/WebKit/WebKit/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/YashBansod/Robotics-Planning-Dynamics-and-Control/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/ZJULearning/MatlabFunc/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/aashishaj/SpaceShuttle-Simulation/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/abdolrezat/TURBN-Turbine-Design/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/abishekaditya/DesignPatterns/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/adimiko/TransactionalBox/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/adnanmunawar/matlab-rrt-variants/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/adriancable/8086tiny/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/aerospaceresearch/orbitdeterminator/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/ai-winter/matlab_motion_planning/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/akkartik/mu/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/alaaalquraan078-del/space-shuttle-anomaly-detection/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/albanie/convnet-burden/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/alecjacobson/gptoolbox/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/alfonsogonzalez/AWP/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/alti3/stk-mcp/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/alvin-tosh/Malware-Exhibit/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/andrewssobral/lrslibrary/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/anilbas/3DMMasSTN/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/antlr/grammars-v4/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/anton-liauchuk/java-interview/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/antoninadert/Radio-Garden-Client/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/apache/accumulo/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/apache/cassandra/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/arangodb/arangodb/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/arasgungore/rocket-flight-simulator/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/aritraroy/PatternLockView/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/artembilan/microservices-patterns-spring-integration/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/asrikanth777/columbiaSpaceShuttle/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/astrobook/astrobook/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/atinesh/Coursera-Machine-Learning-Stanford/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/audreyfeldroy/favicon-cheat-sheet/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/avito-tech/Marshroute/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/badamczewski/PowerUp/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/banterle/HDR_Toolbox/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/bazelbuild/starlark/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/bcmi/Image-Harmonization-Dataset-iHarmony4/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/bertinetto/siamese-fc/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/bethrobson/Head-First-Design-Patterns/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/binarylogic/settingslogic/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/blackbird71SR/Hello-World/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/blender/blender/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/blue42shade/remap/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/bluescarni/piranha/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/bluewaysw/pcgeos/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/bmadone/senior-software-engineer/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/brendenlake/BPL/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/brendenlake/omniglot/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/briansmith/ring/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/bytecode77/pe-union/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/callmekeyboardman/Machine-Learning-Andrew-Ng/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/ceph/ceph/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/chalcrow/Atlantis/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/chanakaudaya/solution-architecture-patterns/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/charlessolar/eShopOnContainersDDD/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/chirlu/sox/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/chrislgarry/Apollo-11/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/christian-posta/envoy-microservices-patterns/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/chuanxshi/javascript-patterns/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/cirosantilli/x86-assembly-cheat/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/cirosantilli/x86-bare-metal-examples/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/cisprague/Astro.IQ/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/cockroachdb/cockroach/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/cocos2d/cocos2d-x/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/compiler-explorer/compiler-explorer/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/computerex/orbiter-mods.com/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/corkami/pics/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/corkami/pocs/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/cs-chan/Exclusively-Dark-Image-Dataset/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/cs-chan/Total-Text-Dataset/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/cszn/DnCNN/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/cszn/FFDNet/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/cszn/IRCNN/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/cszn/SRMD/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/cybergalactic/MSS/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/cycleuser/Stanford-CS-229/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/cyrus-and/gdb-dashboard/releases/latest: HTTP Error 404: Not Found`
+- `HTTPError: https://api.github.com/repos/daijifeng001/R-FCN/releases/latest: HTTP Error 404: Not Found`
+- 300 more errors omitted.
