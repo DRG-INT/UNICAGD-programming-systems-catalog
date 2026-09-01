@@ -9,22 +9,22 @@ Records: `4679`
 ## Category Index
 
 [Api Abi Checker (176)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (121)](async-runtime.md)
-[Benchmarking (106)](benchmarking.md) · [Build System (787)](build-system.md) · [Cli (488)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (81)](community-reference.md) · [Compiler (157)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (43)](compression.md)
-[Concurrency Parallelism (70)](concurrency-parallelism.md) · [Configuration (94)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (681)](database-datastore.md) · [Datetime (147)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (79)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (46)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1125)](filesystem-os.md) · [Formatter (533)](formatter.md)
-[Framework (45)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (138)](game-engine-game-dev.md) · [Ide Editor Integration (1098)](ide-editor-integration.md)
-[Image Audio Dsp (265)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1217)](language-specification.md) · **[Library (4679)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (381)](logging-observability.md) · [Machine Learning (555)](machine-learning.md)
-[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (893)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (252)](package-manager.md) · [Parser Lexer Ast (887)](parser-lexer-ast.md) · [Precommit Ci Quality (254)](precommit-ci-quality.md)
-[Profiler (67)](profiler.md) · [Project Scaffolding (116)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (308)](security-sast.md) · [Serialization (363)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (415)](static-analyzer.md)
+[Benchmarking (108)](benchmarking.md) · [Build System (790)](build-system.md) · [Cli (489)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (81)](community-reference.md) · [Compiler (157)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (44)](compression.md)
+[Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (96)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (681)](database-datastore.md) · [Datetime (156)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (80)](dependency-manager.md) · [Documentation (77)](documentation.md)
+[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1138)](filesystem-os.md) · [Formatter (535)](formatter.md)
+[Framework (45)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (139)](game-engine-game-dev.md) · [Ide Editor Integration (1101)](ide-editor-integration.md)
+[Image Audio Dsp (290)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1218)](language-specification.md) · **[Library (4679)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (381)](logging-observability.md) · [Machine Learning (557)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (896)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (254)](package-manager.md) · [Parser Lexer Ast (888)](parser-lexer-ast.md) · [Precommit Ci Quality (254)](precommit-ci-quality.md)
+[Profiler (67)](profiler.md) · [Project Scaffolding (117)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (308)](security-sast.md) · [Serialization (364)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (422)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (487)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (282)](type-checker.md)
-[Undefined Behavior Analyzer (1350)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (399)](visualization-gui.md) · [Web Framework (378)](web-framework.md)
+[Undefined Behavior Analyzer (1353)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (405)](visualization-gui.md) · [Web Framework (379)](web-framework.md)
 
 ## C99
 
@@ -3362,7 +3362,7 @@ Records: `4679`
 | hsexif | 0.6.1.10 | 2023-05-13T11:31:46Z | [open](../records/haskell-hsexif-9ebcb7b1.md) |
 | HsHTSLib | 1.9.2.2 | 2021-09-30T05:30:01Z | [open](../records/haskell-hshtslib-cf41c678.md) |
 | hslua | 2.5.0 | 2026-01-08T15:33:47Z | [open](../records/haskell-hslua-85b0c836.md) |
-| hslua-aeson | unknown | hackage_package_page_missing | [open](../records/haskell-hslua-aeson-2f5c7dc5.md) |
+| hslua-aeson | 2.3.2 | 2026-01-08T14:50:50Z | [open](../records/haskell-hslua-aeson-2f5c7dc5.md) |
 | hspec | 2.11.17 | 2026-03-04T18:01:40Z | [open](../records/haskell-hspec-e27e4b9f.md) |
 | hspec-core | 2.11.17 | 2026-03-04T18:01:50Z | [open](../records/haskell-hspec-core-269b4faa.md) |
 | hspec-discover | 2.11.17 | 2026-03-04T18:01:37Z | [open](../records/haskell-hspec-discover-6dc39843.md) |
@@ -3577,7 +3577,7 @@ Records: `4679`
 | repa-algorithms | 3.4.2.0 | 2024-12-08T21:04:37Z | [open](../records/haskell-repa-algorithms-c142edf6.md) |
 | representable-functors | 3.2.0.2 | 2013-10-13T15:00:49Z | [open](../records/haskell-representable-functors-88c15129.md) |
 | representable-tries | 3.0.2 | 2013-01-06T22:58:36Z | [open](../records/haskell-representable-tries-046f48dd.md) |
-| req | unknown | hackage_package_page_missing | [open](../records/haskell-req-a07bf631.md) |
+| req | 3.13.4 | 2024-09-29T19:50:09Z | [open](../records/haskell-req-a07bf631.md) |
 | rerebase | 1.23 | 2026-01-28T08:13:19Z | [open](../records/haskell-rerebase-8ef513f5.md) |
 | resourcet | 1.3.0 | 2022-10-23T07:13:07Z | [open](../records/haskell-resourcet-7f2f7316.md) |
 | rest-core | 0.39.0.2 | 2018-04-03T21:49:22Z | [open](../records/haskell-rest-core-a6339c70.md) |
@@ -3745,7 +3745,7 @@ Records: `4679`
 | webdriver | 0.15.0.0 | 2026-06-03T00:17:00Z | [open](../records/haskell-webdriver-495a468a.md) |
 | webkit | 0.14.2.1 | 2016-10-30T01:15:20Z | [open](../records/haskell-webkit-c33c83bf.md) |
 | weigh | 0.0.18 | 2024-11-01T15:57:20Z | [open](../records/haskell-weigh-7e021f10.md) |
-| werewolf | unknown | hackage_package_page_missing | [open](../records/haskell-werewolf-4e762a5c.md) |
+| werewolf | 1.5.2.0 | 2017-09-22T03:04:51Z | [open](../records/haskell-werewolf-4e762a5c.md) |
 | what4 | 1.8 | 2026-09-01T17:35:26Z | [open](../records/haskell-what4-03a48fd1.md) |
 | Win32 | 2.14.2.2 | 2026-05-27T18:35:08Z | [open](../records/haskell-win32-bd1767d3.md) |
 | witch | 1.4.0.0 | 2026-06-22T14:40:10Z | [open](../records/haskell-witch-ea4f02ac.md) |
@@ -4005,7 +4005,7 @@ Records: `4679`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-01T20:05:30Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-01T21:18:31Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4019,7 +4019,7 @@ Records: `4679`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-01T20:19:03Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-01T21:11:30Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -4326,7 +4326,7 @@ Records: `4679`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | afgprogrammer/Flutter-Photography-Application | partial | 2023-11-28T13:23:46Z | [open](../records/photography-afgprogrammer-flutter-photography-application-53b42786.md) |
-| alyssaxuu/screenity | partial | 2026-08-18T17:39:05Z | [open](../records/photography-alyssaxuu-screenity-3dcd34af.md) |
+| alyssaxuu/screenity | partial | 2026-09-01T21:19:58Z | [open](../records/photography-alyssaxuu-screenity-3dcd34af.md) |
 | andyzg/gallery | partial | 2024-05-24T19:43:17Z | [open](../records/photography-andyzg-gallery-707abac1.md) |
 | bmachek/lrc-immich-plugin | partial | 2026-08-21T11:22:32Z | [open](../records/photography-bmachek-lrc-immich-plugin-1ff1bb8b.md) |
 | CJT2325/CameraView | partial | 2019-06-18T13:42:24Z | [open](../records/photography-cjt2325-cameraview-689639ed.md) |
@@ -4386,44 +4386,44 @@ Records: `4679`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| acconeer/acconeer-python-exploration | unknown | github_latest_release_missing | [open](../records/radars-acconeer-acconeer-python-exploration-c570151f.md) |
-| bopen/xarray-sentinel | v0.9.6 | 2026-06-22T22:45:09Z | [open](../records/radars-bopen-xarray-sentinel-d49585c9.md) |
-| dpaulat/supercell-wx | v0.6.1-release | 2026-07-19T19:54:27Z | [open](../records/radars-dpaulat-supercell-wx-216e49cf.md) |
-| earthobservations/wetterdienst | app-v0.14.1 | 2026-08-31T21:07:26Z | [open](../records/radars-earthobservations-wetterdienst-4494a41f.md) |
-| erikliland/pyMHT | 2.0 | 2017-06-09T08:52:17Z | [open](../records/radars-erikliland-pymht-6bcd5586.md) |
-| ethanhuang13/ladybug | v1.2.2 | 2018-09-21T09:40:03Z | [open](../records/radars-ethanhuang13-ladybug-9ff29291.md) |
-| feedback-assistant/reports | unknown | github_latest_release_missing | [open](../records/radars-feedback-assistant-reports-4bc463b2.md) |
-| HamzaGhazouani/HGRippleRadarView | 0.1.1 | 2018-01-30T17:01:39Z | [open](../records/radars-hamzaghazouani-hgrippleradarview-02e426a9.md) |
-| hi-paris/deepdespeckling | v0.4 | 2024-04-09T14:40:15Z | [open](../records/radars-hi-paris-deepdespeckling-121ce4f7.md) |
-| hunterlew/mstar_deeplearning_project | unknown | github_latest_release_missing | [open](../records/radars-hunterlew-mstar-deeplearning-project-f2f00b72.md) |
-| hust201010701/XRadarView | unknown | github_latest_release_missing | [open](../records/radars-hust201010701-xradarview-d96f7593.md) |
-| jeanboydev/Android-RadarView | unknown | github_latest_release_missing | [open](../records/radars-jeanboydev-android-radarview-7a9e46b6.md) |
-| JordanSchlick/OpenStorm | 1.4.0 | 2023-11-15T07:05:23Z | [open](../records/radars-jordanschlick-openstorm-f8a3d11d.md) |
-| keenan-burnett/yeti_radar_odometry | unknown | github_latest_release_missing | [open](../records/radars-keenan-burnett-yeti-radar-odometry-e98bb6ab.md) |
-| kleok/FLOODPY | v_Oct_2024 | 2024-10-12T13:39:43Z | [open](../records/radars-kleok-floodpy-de98226d.md) |
-| lexogrine/csgo-react-hud | v2.5.2 | 2023-06-28T12:52:35Z | [open](../records/radars-lexogrine-csgo-react-hud-871ef2df.md) |
-| Marksman007577/Autonomous-Drive | unknown | github_latest_release_missing | [open](../records/radars-marksman007577-autonomous-drive-b586becf.md) |
-| moienr/TemporalGAN | unknown | github_latest_release_missing | [open](../records/radars-moienr-temporalgan-ffcc19f2.md) |
-| ngageoint/sarpy_apps | v1.1.26 | 2025-06-06T15:32:40Z | [open](../records/radars-ngageoint-sarpy-apps-53476eab.md) |
-| Nouuu/Albion-Online-OpenRadar | 2.2.3 | 2026-08-14T15:36:13Z | [open](../records/radars-nouuu-albion-online-openradar-04ea3acd.md) |
-| ntnu-arl/lidar_degeneracy_datasets | unknown | github_latest_release_missing | [open](../records/radars-ntnu-arl-lidar-degeneracy-datasets-f90e3fc8.md) |
-| odhondt/eo_tools | 2026.6.0 | 2026-06-07T19:18:56Z | [open](../records/radars-odhondt-eo-tools-bf024141.md) |
-| open-flight/openflight | unknown | github_latest_release_missing | [open](../records/radars-open-flight-openflight-76c154cb.md) |
-| opencpn-radar-pi/radar_pi | v5.5.0-beta | 2023-03-07T23:06:41Z | [open](../records/radars-opencpn-radar-pi-radar-pi-bfe54946.md) |
-| openradar/xradar | v0.12.0 | 2026-04-21T12:52:39Z | [open](../records/radars-openradar-xradar-fcfe7f38.md) |
-| PatrickTUM/SEN12MS-CR-TS | unknown | github_latest_release_missing | [open](../records/radars-patricktum-sen12ms-cr-ts-b82b98a6.md) |
-| polsartools/polsartools | 0.12.1 | 2026-06-18T02:32:04Z | [open](../records/radars-polsartools-polsartools-6851bcf5.md) |
-| Project-MANAS/ars_40X | unknown | github_latest_release_missing | [open](../records/radars-project-manas-ars-40x-9d54c780.md) |
-| Research-and-Project/mmWave_radar_tracking | unknown | github_latest_release_missing | [open](../records/radars-research-and-project-mmwave-radar-tracking-93627252.md) |
-| SAR-ARD/s1ard | v2.12.0 | 2026-04-21T09:58:06Z | [open](../records/radars-sar-ard-s1ard-a9db69ca.md) |
-| senbox-org/s1tbx | 9.0.3 | 2023-03-10T02:38:09Z | [open](../records/radars-senbox-org-s1tbx-186609d3.md) |
-| SourLen/Python-CSGO-Cheat | CSGO-Cheat-Python | 2022-07-19T21:24:18Z | [open](../records/radars-sourlen-python-csgo-cheat-b82ba10b.md) |
-| uncle-yura/esphome-ld2450 | unknown | github_latest_release_missing | [open](../records/radars-uncle-yura-esphome-ld2450-153b0a78.md) |
-| utiasASRL/hero_radar_odometry | unknown | github_latest_release_missing | [open](../records/radars-utiasasrl-hero-radar-odometry-1bc544a9.md) |
-| vbguyny/ws4kp | unknown | github_latest_release_missing | [open](../records/radars-vbguyny-ws4kp-dcbe59db.md) |
-| waterdisappear/SAR-JEPA | unknown | github_latest_release_missing | [open](../records/radars-waterdisappear-sar-jepa-5da295f9.md) |
-| waterdisappear/SARATR-X | unknown | github_latest_release_missing | [open](../records/radars-waterdisappear-saratr-x-8b96d353.md) |
-| wradlib/wradlib | 2.9.5 | 2026-07-15T07:01:20Z | [open](../records/radars-wradlib-wradlib-9f5a29a2.md) |
+| acconeer/acconeer-python-exploration | partial | 2026-08-10T14:18:17Z | [open](../records/radars-acconeer-acconeer-python-exploration-c570151f.md) |
+| bopen/xarray-sentinel | partial | 2026-08-26T14:14:32Z | [open](../records/radars-bopen-xarray-sentinel-d49585c9.md) |
+| dpaulat/supercell-wx | partial | 2026-08-31T11:30:31Z | [open](../records/radars-dpaulat-supercell-wx-216e49cf.md) |
+| earthobservations/wetterdienst | partial | 2026-09-01T20:18:22Z | [open](../records/radars-earthobservations-wetterdienst-4494a41f.md) |
+| erikliland/pyMHT | partial | 2023-09-19T11:10:15Z | [open](../records/radars-erikliland-pymht-6bcd5586.md) |
+| ethanhuang13/ladybug | partial | 2019-12-26T07:04:26Z | [open](../records/radars-ethanhuang13-ladybug-9ff29291.md) |
+| feedback-assistant/reports | partial | 2025-11-07T04:38:18Z | [open](../records/radars-feedback-assistant-reports-4bc463b2.md) |
+| HamzaGhazouani/HGRippleRadarView | partial | 2019-10-13T20:27:29Z | [open](../records/radars-hamzaghazouani-hgrippleradarview-02e426a9.md) |
+| hi-paris/deepdespeckling | partial | 2025-07-25T10:03:26Z | [open](../records/radars-hi-paris-deepdespeckling-121ce4f7.md) |
+| hunterlew/mstar_deeplearning_project | partial | 2018-03-14T03:09:57Z | [open](../records/radars-hunterlew-mstar-deeplearning-project-f2f00b72.md) |
+| hust201010701/XRadarView | partial | 2018-07-05T14:08:32Z | [open](../records/radars-hust201010701-xradarview-d96f7593.md) |
+| jeanboydev/Android-RadarView | partial | 2018-03-21T06:24:25Z | [open](../records/radars-jeanboydev-android-radarview-7a9e46b6.md) |
+| JordanSchlick/OpenStorm | partial | 2026-05-06T06:16:25Z | [open](../records/radars-jordanschlick-openstorm-f8a3d11d.md) |
+| keenan-burnett/yeti_radar_odometry | partial | 2021-12-15T01:15:28Z | [open](../records/radars-keenan-burnett-yeti-radar-odometry-e98bb6ab.md) |
+| kleok/FLOODPY | partial | 2024-10-26T21:06:07Z | [open](../records/radars-kleok-floodpy-de98226d.md) |
+| lexogrine/csgo-react-hud | partial | 2024-10-16T16:31:55Z | [open](../records/radars-lexogrine-csgo-react-hud-871ef2df.md) |
+| Marksman007577/Autonomous-Drive | partial | 2026-04-15T22:00:15Z | [open](../records/radars-marksman007577-autonomous-drive-b586becf.md) |
+| moienr/TemporalGAN | partial | 2024-08-13T08:19:30Z | [open](../records/radars-moienr-temporalgan-ffcc19f2.md) |
+| ngageoint/sarpy_apps | partial | 2025-08-19T15:16:27Z | [open](../records/radars-ngageoint-sarpy-apps-53476eab.md) |
+| Nouuu/Albion-Online-OpenRadar | partial | 2026-08-31T18:18:32Z | [open](../records/radars-nouuu-albion-online-openradar-04ea3acd.md) |
+| ntnu-arl/lidar_degeneracy_datasets | partial | 2026-02-03T12:49:37Z | [open](../records/radars-ntnu-arl-lidar-degeneracy-datasets-f90e3fc8.md) |
+| odhondt/eo_tools | partial | 2026-08-28T22:53:21Z | [open](../records/radars-odhondt-eo-tools-bf024141.md) |
+| open-flight/openflight | partial | 2026-09-01T12:22:25Z | [open](../records/radars-open-flight-openflight-76c154cb.md) |
+| opencpn-radar-pi/radar_pi | partial | 2026-08-04T01:35:42Z | [open](../records/radars-opencpn-radar-pi-radar-pi-bfe54946.md) |
+| openradar/xradar | partial | 2026-09-01T10:30:01Z | [open](../records/radars-openradar-xradar-fcfe7f38.md) |
+| PatrickTUM/SEN12MS-CR-TS | partial | 2024-01-23T17:51:20Z | [open](../records/radars-patricktum-sen12ms-cr-ts-b82b98a6.md) |
+| polsartools/polsartools | partial | 2026-08-23T07:46:19Z | [open](../records/radars-polsartools-polsartools-6851bcf5.md) |
+| Project-MANAS/ars_40X | partial | 2020-07-09T09:21:29Z | [open](../records/radars-project-manas-ars-40x-9d54c780.md) |
+| Research-and-Project/mmWave_radar_tracking | partial | 2024-12-19T01:30:23Z | [open](../records/radars-research-and-project-mmwave-radar-tracking-93627252.md) |
+| SAR-ARD/s1ard | partial | 2026-09-01T15:47:13Z | [open](../records/radars-sar-ard-s1ard-a9db69ca.md) |
+| senbox-org/s1tbx | partial | 2024-08-07T08:40:45Z | [open](../records/radars-senbox-org-s1tbx-186609d3.md) |
+| SourLen/Python-CSGO-Cheat | partial | 2023-04-30T23:09:54Z | [open](../records/radars-sourlen-python-csgo-cheat-b82ba10b.md) |
+| uncle-yura/esphome-ld2450 | partial | 2025-12-03T20:22:24Z | [open](../records/radars-uncle-yura-esphome-ld2450-153b0a78.md) |
+| utiasASRL/hero_radar_odometry | partial | 2021-12-15T01:14:30Z | [open](../records/radars-utiasasrl-hero-radar-odometry-1bc544a9.md) |
+| vbguyny/ws4kp | partial | 2025-12-17T01:25:17Z | [open](../records/radars-vbguyny-ws4kp-dcbe59db.md) |
+| waterdisappear/SAR-JEPA | partial | 2026-04-05T03:24:44Z | [open](../records/radars-waterdisappear-sar-jepa-5da295f9.md) |
+| waterdisappear/SARATR-X | partial | 2026-08-10T14:56:51Z | [open](../records/radars-waterdisappear-saratr-x-8b96d353.md) |
+| wradlib/wradlib | partial | 2026-08-14T09:25:20Z | [open](../records/radars-wradlib-wradlib-9f5a29a2.md) |
 
 ## SatCom Satellites
 

@@ -1,6 +1,6 @@
 # Static Analyzer
 
-Records: `415`
+Records: `422`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `415`
 ## Category Index
 
 [Api Abi Checker (176)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (121)](async-runtime.md)
-[Benchmarking (106)](benchmarking.md) · [Build System (787)](build-system.md) · [Cli (488)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (81)](community-reference.md) · [Compiler (157)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (43)](compression.md)
-[Concurrency Parallelism (70)](concurrency-parallelism.md) · [Configuration (94)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (681)](database-datastore.md) · [Datetime (147)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (79)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (46)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1125)](filesystem-os.md) · [Formatter (533)](formatter.md)
-[Framework (45)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (138)](game-engine-game-dev.md) · [Ide Editor Integration (1098)](ide-editor-integration.md)
-[Image Audio Dsp (265)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1217)](language-specification.md) · [Library (4679)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (381)](logging-observability.md) · [Machine Learning (555)](machine-learning.md)
-[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (893)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (252)](package-manager.md) · [Parser Lexer Ast (887)](parser-lexer-ast.md) · [Precommit Ci Quality (254)](precommit-ci-quality.md)
-[Profiler (67)](profiler.md) · [Project Scaffolding (116)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (308)](security-sast.md) · [Serialization (363)](serialization.md) · [Standard Library (23)](standard-library.md) · **[Static Analyzer (415)](static-analyzer.md)**
+[Benchmarking (108)](benchmarking.md) · [Build System (790)](build-system.md) · [Cli (489)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (81)](community-reference.md) · [Compiler (157)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (44)](compression.md)
+[Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (96)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (681)](database-datastore.md) · [Datetime (156)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (80)](dependency-manager.md) · [Documentation (77)](documentation.md)
+[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1138)](filesystem-os.md) · [Formatter (535)](formatter.md)
+[Framework (45)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (139)](game-engine-game-dev.md) · [Ide Editor Integration (1101)](ide-editor-integration.md)
+[Image Audio Dsp (290)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1218)](language-specification.md) · [Library (4679)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (381)](logging-observability.md) · [Machine Learning (557)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (896)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (254)](package-manager.md) · [Parser Lexer Ast (888)](parser-lexer-ast.md) · [Precommit Ci Quality (254)](precommit-ci-quality.md)
+[Profiler (67)](profiler.md) · [Project Scaffolding (117)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (308)](security-sast.md) · [Serialization (364)](serialization.md) · [Standard Library (23)](standard-library.md) · **[Static Analyzer (422)](static-analyzer.md)**
 [Templating (2)](templating.md) · [Testing Framework (487)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (282)](type-checker.md)
-[Undefined Behavior Analyzer (1350)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (399)](visualization-gui.md) · [Web Framework (378)](web-framework.md)
+[Undefined Behavior Analyzer (1353)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (405)](visualization-gui.md) · [Web Framework (379)](web-framework.md)
 
 ## C99
 
@@ -438,14 +438,21 @@ Records: `415`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| alecdotdev/SpectrumTool | partial | 2023-02-28T10:00:57Z | [open](../records/effects-alecdotdev-spectrumtool-9a0668a1.md) |
+| cool-japan/oxiaudio | partial | 2026-08-09T05:37:05Z | [open](../records/effects-cool-japan-oxiaudio-c3500955.md) |
+| DatanoiseTV/dsplab | partial | 2026-03-30T11:51:24Z | [open](../records/effects-datanoisetv-dsplab-010bab2b.md) |
+| DonaldSBosley/MATLAB_DSP | partial | 2014-03-12T07:24:56Z | [open](../records/effects-donaldsbosley-matlab-dsp-d6ec5804.md) |
 | EndlesslyFlowering/ReShade_HDR_shaders | 2026.02.28 | 2026-02-27T23:16:01Z | [open](../records/effects-endlesslyflowering-reshade-hdr-shaders-23b572c9.md) |
 | glotzerlab/freud | partial | 2026-08-31T12:25:58Z | [open](../records/effects-glotzerlab-freud-7097000c.md) |
 | josevcm/nfc-laboratory | partial | 2026-06-29T16:44:55Z | [open](../records/effects-josevcm-nfc-laboratory-b7b970c6.md) |
+| JuanCantu1/fpga-trumpet-dsp | partial | 2025-11-08T16:16:06Z | [open](../records/effects-juancantu1-fpga-trumpet-dsp-dbfb90e2.md) |
 | Kodaskills/bevy_retro_shaders | bevy_retro_shaders-v0.2.0 | 2026-06-26T16:15:57Z | [open](../records/effects-kodaskills-bevy-retro-shaders-ef023a67.md) |
+| kunitoki/sonic-skills | partial | 2026-05-21T06:48:52Z | [open](../records/effects-kunitoki-sonic-skills-a8d5d545.md) |
 | Lallapallooza/fast-audiomentations | partial | 2026-05-08T21:23:17Z | [open](../records/effects-lallapallooza-fast-audiomentations-41239683.md) |
 | librosa/librosa | partial | 2026-08-22T13:06:58Z | [open](../records/effects-librosa-librosa-f589e674.md) |
 | MirzaBeig/Post-Processing-Scan | partial | 2024-07-05T10:53:19Z | [open](../records/effects-mirzabeig-post-processing-scan-81ec406f.md) |
 | MTG/essentia | partial | 2026-08-27T18:31:38Z | [open](../records/effects-mtg-essentia-5260afcf.md) |
+| taberhuang/AudioEffectTools | partial | 2025-08-27T09:47:52Z | [open](../records/effects-taberhuang-audioeffecttools-cafa4109.md) |
 | yihong1120/Construction-Hazard-Detection | partial | 2026-08-27T12:51:43Z | [open](../records/effects-yihong1120-construction-hazard-detection-3100e426.md) |
 
 ## Audio
@@ -514,14 +521,14 @@ Records: `415`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ANDRVV/gapcast | v1.0.3 | 2024-07-26T14:23:04Z | [open](../records/radars-andrvv-gapcast-2f99ac58.md) |
-| chadi0x/TheBigBrother | unknown | github_latest_release_missing | [open](../records/radars-chadi0x-thebigbrother-17499a23.md) |
-| gisbi-kim/navtech-radar-slam | unknown | github_latest_release_missing | [open](../records/radars-gisbi-kim-navtech-radar-slam-ac9770d7.md) |
-| IMS-AS-LUH/sar-sim | unknown | github_latest_release_missing | [open](../records/radars-ims-as-luh-sar-sim-e1aa94e8.md) |
-| jasonmanesis/Satellite-Imagery-Datasets-Containing-Ships | unknown | github_latest_release_missing | [open](../records/radars-jasonmanesis-satellite-imagery-datasets-containing-ships-e69d613c.md) |
-| Kalit31/Land-Cover-Analysis | unknown | github_latest_release_missing | [open](../records/radars-kalit31-land-cover-analysis-bac816f9.md) |
-| SICKAG/sick_scan_xd | 3.9.0 | 2026-03-17T11:39:59Z | [open](../records/radars-sickag-sick-scan-xd-0e67e41e.md) |
-| XDeadHackerX/NetRadar | unknown | github_latest_release_missing | [open](../records/radars-xdeadhackerx-netradar-faa3dcea.md) |
+| ANDRVV/gapcast | partial | 2025-06-17T17:24:14Z | [open](../records/radars-andrvv-gapcast-2f99ac58.md) |
+| chadi0x/TheBigBrother | partial | 2026-08-13T16:37:37Z | [open](../records/radars-chadi0x-thebigbrother-17499a23.md) |
+| gisbi-kim/navtech-radar-slam | partial | 2024-05-16T04:30:26Z | [open](../records/radars-gisbi-kim-navtech-radar-slam-ac9770d7.md) |
+| IMS-AS-LUH/sar-sim | partial | 2024-03-19T15:39:59Z | [open](../records/radars-ims-as-luh-sar-sim-e1aa94e8.md) |
+| jasonmanesis/Satellite-Imagery-Datasets-Containing-Ships | partial | 2025-01-18T15:15:58Z | [open](../records/radars-jasonmanesis-satellite-imagery-datasets-containing-ships-e69d613c.md) |
+| Kalit31/Land-Cover-Analysis | partial | 2024-12-22T20:04:07Z | [open](../records/radars-kalit31-land-cover-analysis-bac816f9.md) |
+| SICKAG/sick_scan_xd | partial | 2026-08-03T09:58:07Z | [open](../records/radars-sickag-sick-scan-xd-0e67e41e.md) |
+| XDeadHackerX/NetRadar | partial | 2023-09-01T10:54:49Z | [open](../records/radars-xdeadhackerx-netradar-faa3dcea.md) |
 
 ## SatCom Satellites
 
