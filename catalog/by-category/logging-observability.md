@@ -1,6 +1,6 @@
 # Logging Observability
 
-Records: `306`
+Records: `315`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `306`
 
 ## Category Index
 
-[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (36)](assertion-mocking.md) · [Async Runtime (111)](async-runtime.md)
-[Benchmarking (90)](benchmarking.md) · [Build System (697)](build-system.md) · [Cli (474)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (78)](community-reference.md) · [Compiler (143)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
-[Concurrency Parallelism (67)](concurrency-parallelism.md) · [Configuration (92)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (150)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (514)](database-datastore.md) · [Datetime (130)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (37)](debugger.md) · [Dependency Manager (70)](dependency-manager.md) · [Documentation (71)](documentation.md)
-[Embedded Hardware (41)](embedded-hardware.md) · [Ffi Bindings (356)](ffi-bindings.md) · [Filesystem Os (1015)](filesystem-os.md) · [Formatter (496)](formatter.md)
-[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (129)](game-engine-game-dev.md) · [Ide Editor Integration (965)](ide-editor-integration.md)
-[Image Audio Dsp (198)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (188)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1042)](language-specification.md) · [Library (4510)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (339)](linter.md) · **[Logging Observability (306)](logging-observability.md)** · [Machine Learning (519)](machine-learning.md)
-[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (69)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (802)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (234)](package-manager.md) · [Parser Lexer Ast (793)](parser-lexer-ast.md) · [Precommit Ci Quality (222)](precommit-ci-quality.md)
-[Profiler (64)](profiler.md) · [Project Scaffolding (97)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (10)](sanitizer.md)
-[Security Sast (282)](security-sast.md) · [Serialization (312)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (385)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (471)](testing-framework.md) · [Tutorial Book Styleguide (50)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
-[Undefined Behavior Analyzer (1280)](undefined-behavior-analyzer.md) · [Utility Library (88)](utility-library.md) · [Visualization Gui (369)](visualization-gui.md) · [Web Framework (320)](web-framework.md)
+[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (37)](assertion-mocking.md) · [Async Runtime (113)](async-runtime.md)
+[Benchmarking (93)](benchmarking.md) · [Build System (721)](build-system.md) · [Cli (478)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (80)](community-reference.md) · [Compiler (146)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (68)](concurrency-parallelism.md) · [Configuration (93)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (152)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (517)](database-datastore.md) · [Datetime (135)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (39)](debugger.md) · [Dependency Manager (74)](dependency-manager.md) · [Documentation (73)](documentation.md)
+[Embedded Hardware (42)](embedded-hardware.md) · [Ffi Bindings (361)](ffi-bindings.md) · [Filesystem Os (1053)](filesystem-os.md) · [Formatter (511)](formatter.md)
+[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (131)](game-engine-game-dev.md) · [Ide Editor Integration (1018)](ide-editor-integration.md)
+[Image Audio Dsp (212)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (194)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1060)](language-specification.md) · [Library (4575)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (342)](linter.md) · **[Logging Observability (315)](logging-observability.md)** · [Machine Learning (533)](machine-learning.md)
+[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (71)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (817)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (236)](package-manager.md) · [Parser Lexer Ast (842)](parser-lexer-ast.md) · [Precommit Ci Quality (227)](precommit-ci-quality.md)
+[Profiler (64)](profiler.md) · [Project Scaffolding (102)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (11)](sanitizer.md)
+[Security Sast (284)](security-sast.md) · [Serialization (320)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (396)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (475)](testing-framework.md) · [Tutorial Book Styleguide (51)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1291)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (381)](visualization-gui.md) · [Web Framework (329)](web-framework.md)
 
 ## C99
 
@@ -322,20 +322,24 @@ Records: `306`
 | flutter_card_swiper | 7.2.0 | 2025-11-02T22:09:50.439540Z | [open](../records/dart-flutter-card-swiper-b126e3d6.md) |
 | flutter_file_dialog | 3.3.2 | 2026-07-24T16:59:04.690317Z | [open](../records/dart-flutter-file-dialog-37afe2d6.md) |
 | flutter_login | 7.0.0 | 2026-05-18T16:30:38.877144Z | [open](../records/dart-flutter-login-508af4c2.md) |
+| keyboard_actions | 5.0.2 | 2026-08-10T15:13:41.903477Z | [open](../records/dart-keyboard-actions-f64a5c69.md) |
+| local_auth | 3.0.2 | 2026-07-09T14:20:36.444883Z | [open](../records/dart-local-auth-dc3f9a4e.md) |
+| logger | 2.7.0 | 2026-03-15T23:38:02.269541Z | [open](../records/dart-logger-1d289d0f.md) |
+| month_picker_dialog | 6.7.2 | 2026-02-26T21:19:53.551241Z | [open](../records/dart-month-picker-dialog-fa645b69.md) |
 
 ## Go
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| influxdata/telegraf | partial | 2026-09-01T13:39:27Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
+| influxdata/telegraf | partial | 2026-09-01T15:08:32Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 2noise/ChatTTS | partial | 2026-04-10T16:33:48Z | [open](../records/aim-s-2noise-chattts-5e993170.md) |
-| langfuse/langfuse | partial | 2026-09-01T14:19:02Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
-| microsoft/semantic-kernel | partial | 2026-09-01T14:02:40Z | [open](../records/aim-s-microsoft-semantic-kernel-ef95bef0.md) |
+| langfuse/langfuse | partial | 2026-09-01T15:35:54Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
+| microsoft/semantic-kernel | partial | 2026-09-01T15:26:22Z | [open](../records/aim-s-microsoft-semantic-kernel-ef95bef0.md) |
 | MLflow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-mlflow-1732aa2b.md) |
 | OpenTelemetry Semantic Conventions For GenAI | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-opentelemetry-semantic-conventions-for-genai-e834f611.md) |
 
@@ -368,8 +372,13 @@ Records: `306`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | afrigeri/geologic-symbols-qgis | partial | 2025-03-18T21:58:20Z | [open](../records/space-maps-afrigeri-geologic-symbols-qgis-802d1149.md) |
+| bufferedName/ZSpice | partial | 2025-01-04T05:47:00Z | [open](../records/space-maps-bufferedname-zspice-ef3fa10d.md) |
 | EnvironmentOntology/envo | partial | 2026-06-29T17:01:25Z | [open](../records/space-maps-environmentontology-envo-d2072044.md) |
 | europlanet-gmap/awesome-planetary-geology | partial | 2025-06-26T16:48:20Z | [open](../records/space-maps-europlanet-gmap-awesome-planetary-geology-77531f19.md) |
+| Eyantra698Sumanto/Spice-to-Verilog-Converter | partial | 2023-05-23T09:08:37Z | [open](../records/space-maps-eyantra698sumanto-spice-to-verilog-converter-85f072c2.md) |
+| google/skywater-pdk-sky130-raw-data | partial | 2023-05-07T18:13:46Z | [open](../records/space-maps-google-skywater-pdk-sky130-raw-data-3d29ba51.md) |
+| ncas-tum/heracles | partial | 2026-07-07T16:47:06Z | [open](../records/space-maps-ncas-tum-heracles-e2511d32.md) |
+| rhovector/Cadence_Virtuoso_180nm_Projects | partial | 2020-11-21T12:44:32Z | [open](../records/space-maps-rhovector-cadence-virtuoso-180nm-projects-042f0fa7.md) |
 
 ## Effects
 
@@ -383,16 +392,16 @@ Records: `306`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| analogcode/Swift-Radio-Pro | v3.1.0 | 2026-07-04T20:18:33Z | [open](../records/audio-analogcode-swift-radio-pro-6d9ae883.md) |
+| analogcode/Swift-Radio-Pro | partial | 2026-07-05T16:45:42Z | [open](../records/audio-analogcode-swift-radio-pro-6d9ae883.md) |
 | coqui-ai/open-speech-corpora | unknown | github_latest_release_missing | [open](../records/audio-coqui-ai-open-speech-corpora-1c314385.md) |
 | huawei-noah/Speech-Backbones | unknown | github_latest_release_missing | [open](../records/audio-huawei-noah-speech-backbones-ae7b134d.md) |
 | mzuelch/CATs-Eurosynth | unknown | github_latest_release_missing | [open](../records/audio-mzuelch-cats-eurosynth-a6002844.md) |
 | newdigate/teensy-eurorack | v2.0-beta | 2021-02-24T18:09:25Z | [open](../records/audio-newdigate-teensy-eurorack-52a4de61.md) |
-| OpenMOSS/MOSS-TTS | unknown | github_latest_release_missing | [open](../records/audio-openmoss-moss-tts-9e9e0059.md) |
+| OpenMOSS/MOSS-TTS | partial | 2026-08-30T08:31:12Z | [open](../records/audio-openmoss-moss-tts-9e9e0059.md) |
 | reales/OB-Xd | v2.20 | 2026-08-18T06:44:02Z | [open](../records/audio-reales-ob-xd-4de1e164.md) |
-| sevagh/pitch-detection | v2023.12 | 2023-12-27T13:49:09Z | [open](../records/audio-sevagh-pitch-detection-26bd609d.md) |
+| sevagh/pitch-detection | partial | 2025-01-07T16:40:21Z | [open](../records/audio-sevagh-pitch-detection-26bd609d.md) |
 | shmoergh/moduleur | v1.1.1 | 2026-03-08T19:34:18Z | [open](../records/audio-shmoergh-moduleur-a638dc17.md) |
-| Yuan-ManX/audio-development-tools | unknown | github_latest_release_missing | [open](../records/audio-yuan-manx-audio-development-tools-b03ea782.md) |
+| Yuan-ManX/audio-development-tools | partial | 2025-07-11T04:13:08Z | [open](../records/audio-yuan-manx-audio-development-tools-b03ea782.md) |
 
 ## Photography
 
@@ -400,16 +409,16 @@ Records: `306`
 | --- | --- | --- | --- |
 | doom40k/photography-blog | unknown | github_search_does_not_include_release_date | [open](../records/photography-doom40k-photography-blog-347adc8b.md) |
 | fakeyanss/Hexo-Album | unknown | github_search_does_not_include_release_date | [open](../records/photography-fakeyanss-hexo-album-ca3a05d2.md) |
-| sambecker/exif-photo-blog | unknown | github_latest_release_missing | [open](../records/photography-sambecker-exif-photo-blog-fea309fc.md) |
+| sambecker/exif-photo-blog | partial | 2026-08-31T00:25:10Z | [open](../records/photography-sambecker-exif-photo-blog-fea309fc.md) |
 
 ## Microscopy
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| afermg/cp_measure | v0.2.0 | 2026-08-13T23:39:39Z | [open](../records/microscopy-afermg-cp-measure-ee9fd0ec.md) |
-| Dana-Farber-AIOS/pathml | v3.0.8 | 2026-08-14T02:49:28Z | [open](../records/microscopy-dana-farber-aios-pathml-b56cd566.md) |
-| flika-org/flika | unknown | github_latest_release_missing | [open](../records/microscopy-flika-org-flika-fc3890a5.md) |
-| ijpb/MorphoLibJ | MorphoLibJ_-1.6.5 | 2026-02-19T12:39:26Z | [open](../records/microscopy-ijpb-morpholibj-fb1a146e.md) |
+| afermg/cp_measure | partial | 2026-08-19T14:52:12Z | [open](../records/microscopy-afermg-cp-measure-ee9fd0ec.md) |
+| Dana-Farber-AIOS/pathml | partial | 2026-08-14T02:49:27Z | [open](../records/microscopy-dana-farber-aios-pathml-b56cd566.md) |
+| flika-org/flika | partial | 2026-03-04T16:01:04Z | [open](../records/microscopy-flika-org-flika-fc3890a5.md) |
+| ijpb/MorphoLibJ | partial | 2026-07-30T11:07:03Z | [open](../records/microscopy-ijpb-morpholibj-fb1a146e.md) |
 | UU-cellbiology/ZstackDepthColorCode | partial | 2025-11-06T19:19:23Z | [open](../records/microscopy-uu-cellbiology-zstackdepthcolorcode-2dae5fc0.md) |
 
 ## Radars

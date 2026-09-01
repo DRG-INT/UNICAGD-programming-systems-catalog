@@ -1,6 +1,6 @@
 # Visualization Gui
 
-Records: `369`
+Records: `381`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `369`
 
 ## Category Index
 
-[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (36)](assertion-mocking.md) · [Async Runtime (111)](async-runtime.md)
-[Benchmarking (90)](benchmarking.md) · [Build System (697)](build-system.md) · [Cli (474)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (78)](community-reference.md) · [Compiler (143)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
-[Concurrency Parallelism (67)](concurrency-parallelism.md) · [Configuration (92)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (150)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (514)](database-datastore.md) · [Datetime (130)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (37)](debugger.md) · [Dependency Manager (70)](dependency-manager.md) · [Documentation (71)](documentation.md)
-[Embedded Hardware (41)](embedded-hardware.md) · [Ffi Bindings (356)](ffi-bindings.md) · [Filesystem Os (1015)](filesystem-os.md) · [Formatter (496)](formatter.md)
-[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (129)](game-engine-game-dev.md) · [Ide Editor Integration (965)](ide-editor-integration.md)
-[Image Audio Dsp (198)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (188)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1042)](language-specification.md) · [Library (4510)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (339)](linter.md) · [Logging Observability (306)](logging-observability.md) · [Machine Learning (519)](machine-learning.md)
-[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (69)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (802)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (234)](package-manager.md) · [Parser Lexer Ast (793)](parser-lexer-ast.md) · [Precommit Ci Quality (222)](precommit-ci-quality.md)
-[Profiler (64)](profiler.md) · [Project Scaffolding (97)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (10)](sanitizer.md)
-[Security Sast (282)](security-sast.md) · [Serialization (312)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (385)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (471)](testing-framework.md) · [Tutorial Book Styleguide (50)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
-[Undefined Behavior Analyzer (1280)](undefined-behavior-analyzer.md) · [Utility Library (88)](utility-library.md) · **[Visualization Gui (369)](visualization-gui.md)** · [Web Framework (320)](web-framework.md)
+[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (37)](assertion-mocking.md) · [Async Runtime (113)](async-runtime.md)
+[Benchmarking (93)](benchmarking.md) · [Build System (721)](build-system.md) · [Cli (478)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (80)](community-reference.md) · [Compiler (146)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (68)](concurrency-parallelism.md) · [Configuration (93)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (152)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (517)](database-datastore.md) · [Datetime (135)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (39)](debugger.md) · [Dependency Manager (74)](dependency-manager.md) · [Documentation (73)](documentation.md)
+[Embedded Hardware (42)](embedded-hardware.md) · [Ffi Bindings (361)](ffi-bindings.md) · [Filesystem Os (1053)](filesystem-os.md) · [Formatter (511)](formatter.md)
+[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (131)](game-engine-game-dev.md) · [Ide Editor Integration (1018)](ide-editor-integration.md)
+[Image Audio Dsp (212)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (194)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1060)](language-specification.md) · [Library (4575)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (342)](linter.md) · [Logging Observability (315)](logging-observability.md) · [Machine Learning (533)](machine-learning.md)
+[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (71)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (817)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (236)](package-manager.md) · [Parser Lexer Ast (842)](parser-lexer-ast.md) · [Precommit Ci Quality (227)](precommit-ci-quality.md)
+[Profiler (64)](profiler.md) · [Project Scaffolding (102)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (11)](sanitizer.md)
+[Security Sast (284)](security-sast.md) · [Serialization (320)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (396)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (475)](testing-framework.md) · [Tutorial Book Styleguide (51)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1291)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · **[Visualization Gui (381)](visualization-gui.md)** · [Web Framework (329)](web-framework.md)
 
 ## C++23
 
@@ -269,6 +269,11 @@ Records: `369`
 | flutter_carousel_widget | 3.1.1 | 2026-07-02T22:06:56.199316Z | [open](../records/dart-flutter-carousel-widget-d569e2f4.md) |
 | flutter_portal | 1.1.4 | 2023-05-24T12:29:13.655367Z | [open](../records/dart-flutter-portal-831866ec.md) |
 | forui | 0.26.0 | 2026-08-24T10:32:54.853067Z | [open](../records/dart-forui-6e421179.md) |
+| injectable | 3.0.0 | 2026-04-20T12:08:05.213971Z | [open](../records/dart-injectable-bf69f8f7.md) |
+| just_waveform | 0.0.7 | 2025-03-30T13:09:38.884961Z | [open](../records/dart-just-waveform-564e0a55.md) |
+| native_device_orientation | 2.1.1 | 2026-05-30T18:12:08.359310Z | [open](../records/dart-native-device-orientation-94e1f74f.md) |
+| persistent_bottom_nav_bar_v2 | 6.4.0 | 2026-08-10T22:23:40.208953Z | [open](../records/dart-persistent-bottom-nav-bar-v2-af0b0087.md) |
+| pin_code_fields | 9.4.0 | 2026-05-20T09:53:40.015281Z | [open](../records/dart-pin-code-fields-1b47ca5f.md) |
 
 ## Go
 
@@ -396,14 +401,21 @@ Records: `369`
 | AnkitBarik/planetMagFields | partial | 2026-06-16T22:14:31Z | [open](../records/space-maps-ankitbarik-planetmagfields-901577e2.md) |
 | Askaniy/TrueColorTools | partial | 2026-08-12T14:03:43Z | [open](../records/space-maps-askaniy-truecolortools-aff640a8.md) |
 | CesiumJS | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-maps-cesiumjs-2b9855f8.md) |
+| dnemec/SPICE-Libraries | partial | 2018-08-03T00:49:47Z | [open](../records/space-maps-dnemec-spice-libraries-14b85037.md) |
+| drifter1/circuitsim | partial | 2026-03-14T13:30:19Z | [open](../records/space-maps-drifter1-circuitsim-ffe82388.md) |
 | eelab-dev/EEcircuit | partial | 2026-08-27T23:19:09Z | [open](../records/space-maps-eelab-dev-eecircuit-3d239729.md) |
 | ESA Sky | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-maps-esa-sky-507149dd.md) |
 | jrenaud90/TidalPy | partial | 2026-08-26T02:42:56Z | [open](../records/space-maps-jrenaud90-tidalpy-0ffb4285.md) |
+| kitanokitsune/gEDA-WIN | partial | 2018-07-31T13:51:54Z | [open](../records/space-maps-kitanokitsune-geda-win-cc03a86d.md) |
 | NASA Solar System Treks | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-maps-nasa-solar-system-treks-66e2186c.md) |
 | NASA WorldWind | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-maps-nasa-worldwind-a55955ab.md) |
+| PyLCARS/PySpiceExamples | partial | 2018-05-08T06:24:55Z | [open](../records/space-maps-pylcars-pyspiceexamples-51fcedc2.md) |
+| PyLCARS/Python-and-SPICE-Book | partial | 2021-01-28T07:51:03Z | [open](../records/space-maps-pylcars-python-and-spice-book-8f806ac6.md) |
 | PySpice-org/PySpice | partial | 2026-09-01T12:09:24Z | [open](../records/space-maps-pyspice-org-pyspice-c1dbd4c9.md) |
+| rafael1193/spicegui | partial | 2016-09-24T10:26:33Z | [open](../records/space-maps-rafael1193-spicegui-948a87ae.md) |
 | sksalahuddin2828/NASA | partial | 2023-07-14T09:54:38Z | [open](../records/space-maps-sksalahuddin2828-nasa-19f784af.md) |
 | Stellarium | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-maps-stellarium-721c8fc5.md) |
+| thennen/pyltspice | partial | 2025-03-06T07:55:26Z | [open](../records/space-maps-thennen-pyltspice-9637bd79.md) |
 
 ## Effects
 
@@ -425,12 +437,12 @@ Records: `369`
 | --- | --- | --- | --- |
 | ardura/Actuate | v1.4.5 | 2026-04-15T14:51:14Z | [open](../records/audio-ardura-actuate-1c5dd2e9.md) |
 | arjo129/uSpeech | v4.1.1 | 2013-12-26T04:13:13Z | [open](../records/audio-arjo129-uspeech-5eba5bde.md) |
-| bbc/peaks.js | v3.4.2 | 2024-08-15T19:46:53Z | [open](../records/audio-bbc-peaks-js-ecba90fa.md) |
+| bbc/peaks.js | partial | 2025-11-08T03:09:27Z | [open](../records/audio-bbc-peaks-js-ecba90fa.md) |
 | DhrBaksteen/ArduinoOPL2 | v2.1.4 | 2025-01-19T12:23:27Z | [open](../records/audio-dhrbaksteen-arduinoopl2-f259ef2c.md) |
 | dwhinham/mt32-pi | v0.13.1 | 2023-03-18T20:32:51Z | [open](../records/audio-dwhinham-mt32-pi-7a87163b.md) |
-| pschatzmann/arduino-audio-tools | v1.2.5 | 2026-06-23T16:51:51Z | [open](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) |
-| rsadsb/adsb_deku | v2025.05.03 | 2025-05-03T17:35:23Z | [open](../records/audio-rsadsb-adsb-deku-8c9a3700.md) |
-| unchihugo/FluentFlyout | v2.14.0 | 2026-08-12T18:07:50Z | [open](../records/audio-unchihugo-fluentflyout-e2e81b2d.md) |
+| pschatzmann/arduino-audio-tools | partial | 2026-09-01T07:08:34Z | [open](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) |
+| rsadsb/adsb_deku | partial | 2026-01-04T16:18:33Z | [open](../records/audio-rsadsb-adsb-deku-8c9a3700.md) |
+| unchihugo/FluentFlyout | partial | 2026-09-01T14:44:29Z | [open](../records/audio-unchihugo-fluentflyout-e2e81b2d.md) |
 | zynthian/zynthian-ui | unknown | github_latest_release_missing | [open](../records/audio-zynthian-zynthian-ui-308e1a33.md) |
 
 ## Video
@@ -444,9 +456,9 @@ Records: `369`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | afgprogrammer/Flutter-Photography-Application | unknown | github_search_does_not_include_release_date | [open](../records/photography-afgprogrammer-flutter-photography-application-d1b12714.md) |
-| CarVac/filmulator-gui | v0.12.0 | 2026-04-04T15:01:23Z | [open](../records/photography-carvac-filmulator-gui-7958689d.md) |
+| CarVac/filmulator-gui | partial | 2026-07-05T14:39:24Z | [open](../records/photography-carvac-filmulator-gui-7958689d.md) |
 | darktable | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/photography-darktable-643ff3aa.md) |
-| ECarry/photography-website | v2.3.0 | 2026-02-08T06:50:43Z | [open](../records/photography-ecarry-photography-website-36282ce9.md) |
+| ECarry/photography-website | partial | 2026-08-11T15:45:41Z | [open](../records/photography-ecarry-photography-website-36282ce9.md) |
 | hfiguiere/libopenraw | unknown | github_search_does_not_include_release_date | [open](../records/photography-hfiguiere-libopenraw-7e1e5568.md) |
 | RawTherapee | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/photography-rawtherapee-04b87a38.md) |
 
@@ -454,8 +466,8 @@ Records: `369`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BodenmillerGroup/cytomapper | v1.2.0 | 2020-11-19T13:09:37Z | [open](../records/microscopy-bodenmillergroup-cytomapper-a6aa55ab.md) |
-| DylanMuir/ReadImageJROI | unknown | github_latest_release_missing | [open](../records/microscopy-dylanmuir-readimagejroi-cdcd6e99.md) |
+| BodenmillerGroup/cytomapper | partial | 2026-08-25T10:34:33Z | [open](../records/microscopy-bodenmillergroup-cytomapper-a6aa55ab.md) |
+| DylanMuir/ReadImageJROI | partial | 2019-12-13T09:00:35Z | [open](../records/microscopy-dylanmuir-readimagejroi-cdcd6e99.md) |
 | hms-dbmi/viv | @hms-dbmi/viv@0.16.1 | 2024-03-13T03:15:38Z | [open](../records/microscopy-hms-dbmi-viv-ad3c5c92.md) |
 | napari | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/microscopy-napari-24961023.md) |
 | scenerygraphics/sciview | partial | 2026-07-24T08:43:53Z | [open](../records/microscopy-scenerygraphics-sciview-c324a0d7.md) |
@@ -522,7 +534,7 @@ Records: `369`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| keenthemes/reui | partial | 2026-08-20T05:19:44Z | [open](../records/pattern-language-keenthemes-reui-f3f4a8f3.md) |
+| keenthemes/reui | partial | 2026-09-01T14:41:09Z | [open](../records/pattern-language-keenthemes-reui-f3f4a8f3.md) |
 | mohuishou/go-design-pattern | partial | 2025-07-30T09:39:31Z | [open](../records/pattern-language-mohuishou-go-design-pattern-b1f024da.md) |
 
 ## WebAssembly

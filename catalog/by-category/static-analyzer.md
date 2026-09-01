@@ -1,6 +1,6 @@
 # Static Analyzer
 
-Records: `385`
+Records: `396`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `385`
 
 ## Category Index
 
-[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (36)](assertion-mocking.md) · [Async Runtime (111)](async-runtime.md)
-[Benchmarking (90)](benchmarking.md) · [Build System (697)](build-system.md) · [Cli (474)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (78)](community-reference.md) · [Compiler (143)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
-[Concurrency Parallelism (67)](concurrency-parallelism.md) · [Configuration (92)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (150)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (514)](database-datastore.md) · [Datetime (130)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (37)](debugger.md) · [Dependency Manager (70)](dependency-manager.md) · [Documentation (71)](documentation.md)
-[Embedded Hardware (41)](embedded-hardware.md) · [Ffi Bindings (356)](ffi-bindings.md) · [Filesystem Os (1015)](filesystem-os.md) · [Formatter (496)](formatter.md)
-[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (129)](game-engine-game-dev.md) · [Ide Editor Integration (965)](ide-editor-integration.md)
-[Image Audio Dsp (198)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (188)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1042)](language-specification.md) · [Library (4510)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (339)](linter.md) · [Logging Observability (306)](logging-observability.md) · [Machine Learning (519)](machine-learning.md)
-[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (69)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (802)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (234)](package-manager.md) · [Parser Lexer Ast (793)](parser-lexer-ast.md) · [Precommit Ci Quality (222)](precommit-ci-quality.md)
-[Profiler (64)](profiler.md) · [Project Scaffolding (97)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (10)](sanitizer.md)
-[Security Sast (282)](security-sast.md) · [Serialization (312)](serialization.md) · [Standard Library (23)](standard-library.md) · **[Static Analyzer (385)](static-analyzer.md)**
-[Templating (2)](templating.md) · [Testing Framework (471)](testing-framework.md) · [Tutorial Book Styleguide (50)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
-[Undefined Behavior Analyzer (1280)](undefined-behavior-analyzer.md) · [Utility Library (88)](utility-library.md) · [Visualization Gui (369)](visualization-gui.md) · [Web Framework (320)](web-framework.md)
+[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (37)](assertion-mocking.md) · [Async Runtime (113)](async-runtime.md)
+[Benchmarking (93)](benchmarking.md) · [Build System (721)](build-system.md) · [Cli (478)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (80)](community-reference.md) · [Compiler (146)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (68)](concurrency-parallelism.md) · [Configuration (93)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (152)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (517)](database-datastore.md) · [Datetime (135)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (39)](debugger.md) · [Dependency Manager (74)](dependency-manager.md) · [Documentation (73)](documentation.md)
+[Embedded Hardware (42)](embedded-hardware.md) · [Ffi Bindings (361)](ffi-bindings.md) · [Filesystem Os (1053)](filesystem-os.md) · [Formatter (511)](formatter.md)
+[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (131)](game-engine-game-dev.md) · [Ide Editor Integration (1018)](ide-editor-integration.md)
+[Image Audio Dsp (212)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (194)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1060)](language-specification.md) · [Library (4575)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (342)](linter.md) · [Logging Observability (315)](logging-observability.md) · [Machine Learning (533)](machine-learning.md)
+[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (71)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (817)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (236)](package-manager.md) · [Parser Lexer Ast (842)](parser-lexer-ast.md) · [Precommit Ci Quality (227)](precommit-ci-quality.md)
+[Profiler (64)](profiler.md) · [Project Scaffolding (102)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (11)](sanitizer.md)
+[Security Sast (284)](security-sast.md) · [Serialization (320)](serialization.md) · [Standard Library (23)](standard-library.md) · **[Static Analyzer (396)](static-analyzer.md)**
+[Templating (2)](templating.md) · [Testing Framework (475)](testing-framework.md) · [Tutorial Book Styleguide (51)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1291)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (381)](visualization-gui.md) · [Web Framework (329)](web-framework.md)
 
 ## C99
 
@@ -203,6 +203,7 @@ Records: `385`
 | fastgbm | 0.6.1 | 2026-09-01 11:50:12 UTC | [open](../records/r-fastgbm-ada3bf02.md) |
 | fastrda | 0.2.0 | 2026-08-21 14:30:02 UTC | [open](../records/r-fastrda-db5c6305.md) |
 | FinanceGraphs | 0.9.21 | 2026-08-28 17:00:09 UTC | [open](../records/r-financegraphs-92dc8905.md) |
+| FitVerse | 1.0-1 | 2026-09-01 14:20:02 UTC | [open](../records/r-fitverse-f682c108.md) |
 | ForeCA | 0.2.8-1 | 2026-08-23 05:00:02 UTC | [open](../records/r-foreca-3a912f7c.md) |
 | fsia | 1.1.2 | 2026-09-01 13:30:02 UTC | [open](../records/r-fsia-3c2c955f.md) |
 | geiger | 2.0.12 | 2026-08-31 22:30:08 UTC | [open](../records/r-geiger-c11a43bf.md) |
@@ -352,6 +353,7 @@ Records: `385`
 | barcode_scan2 | 4.8.1 | 2026-08-13T02:21:15.413108Z | [open](../records/dart-barcode-scan2-37eae369.md) |
 | cunning_document_scanner | 3.0.2 | 2026-08-31T06:14:42.627856Z | [open](../records/dart-cunning-document-scanner-b98260f4.md) |
 | flutter_zxing | 2.4.0 | 2026-09-01T14:16:56.206872Z | [open](../records/dart-flutter-zxing-a58545cd.md) |
+| mobile_scanner | 7.4.0 | 2026-07-20T06:14:20.540427Z | [open](../records/dart-mobile-scanner-cd355124.md) |
 
 ## Go
 
@@ -427,6 +429,7 @@ Records: `385`
 | gwastro/pycbc | partial | 2026-08-26T20:59:33Z | [open](../records/space-maps-gwastro-pycbc-e9254372.md) |
 | iraf-community/iraf | partial | 2026-08-29T11:09:59Z | [open](../records/space-maps-iraf-community-iraf-bdcc9cfa.md) |
 | lightkurve/lightkurve | partial | 2026-08-25T19:58:28Z | [open](../records/space-maps-lightkurve-lightkurve-8d706bd0.md) |
+| sylvesterkaczmarek/lunar-astrodynamics-simulation | partial | 2026-08-25T21:01:29Z | [open](../records/space-maps-sylvesterkaczmarek-lunar-astrodynamics-simulation-dfbba156.md) |
 
 ## Effects
 
@@ -441,32 +444,39 @@ Records: `385`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| aubio/aubio | 0.4.9 | 2019-02-27T09:00:43Z | [open](../records/audio-aubio-aubio-83afbe36.md) |
-| AudioKit/AudioKit | 5.7.2 | 2026-03-31T20:39:27Z | [open](../records/audio-audiokit-audiokit-8e968f0e.md) |
-| libAudioFlux/audioFlux | v0.1.9 | 2024-05-24T09:49:30Z | [open](../records/audio-libaudioflux-audioflux-7311838f.md) |
-| librosa/librosa | 1.0.0 | 2026-08-11T15:36:36Z | [open](../records/audio-librosa-librosa-8068a972.md) |
+| aubio/aubio | partial | 2026-04-10T16:42:19Z | [open](../records/audio-aubio-aubio-83afbe36.md) |
+| AudioKit/AudioKit | partial | 2026-07-26T06:33:02Z | [open](../records/audio-audiokit-audiokit-8e968f0e.md) |
+| josevcm/nfc-laboratory | partial | 2026-06-29T16:44:55Z | [open](../records/audio-josevcm-nfc-laboratory-8a84bc6a.md) |
+| libAudioFlux/audioFlux | partial | 2026-03-06T04:12:17Z | [open](../records/audio-libaudioflux-audioflux-7311838f.md) |
+| librosa/librosa | partial | 2026-08-22T13:06:58Z | [open](../records/audio-librosa-librosa-8068a972.md) |
 | loxodes/vna | unknown | github_latest_release_missing | [open](../records/audio-loxodes-vna-4a3e95d9.md) |
-| MTG/essentia | v2.0.1 | 2014-02-11T19:45:51Z | [open](../records/audio-mtg-essentia-165d16e9.md) |
-| tyiannak/pyAudioAnalysis | unknown | github_latest_release_missing | [open](../records/audio-tyiannak-pyaudioanalysis-cb0f7505.md) |
+| MTG/essentia | partial | 2026-08-27T18:31:38Z | [open](../records/audio-mtg-essentia-165d16e9.md) |
+| tyiannak/pyAudioAnalysis | partial | 2025-08-04T16:44:35Z | [open](../records/audio-tyiannak-pyaudioanalysis-cb0f7505.md) |
 
 ## Video
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| byjlw/video-analyzer | tune-v0.1.0 | 2026-03-20T06:16:43Z | [open](../records/video-byjlw-video-analyzer-128898c4.md) |
-| videoflow/videoflow | v0.2.10 | 2020-03-19T13:54:45Z | [open](../records/video-videoflow-videoflow-5e9a03c8.md) |
+| aetaric/checkrr | partial | 2026-07-11T16:19:17Z | [open](../records/video-aetaric-checkrr-8332117e.md) |
+| byjlw/video-analyzer | partial | 2026-04-19T19:29:05Z | [open](../records/video-byjlw-video-analyzer-128898c4.md) |
+| videoflow/videoflow | partial | 2026-07-29T17:46:39Z | [open](../records/video-videoflow-videoflow-5e9a03c8.md) |
 
 ## Photography
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| jackw01/scanlight | unknown | github_latest_release_missing | [open](../records/photography-jackw01-scanlight-ebc00536.md) |
+| dlazaro66/QRCodeReaderView | partial | 2021-06-21T04:55:28Z | [open](../records/photography-dlazaro66-qrcodereaderview-9c349462.md) |
+| jackw01/scanlight | partial | 2026-08-20T06:04:39Z | [open](../records/photography-jackw01-scanlight-ebc00536.md) |
+| jorhelp/Ingram | partial | 2026-08-19T05:04:43Z | [open](../records/photography-jorhelp-ingram-4f54c30d.md) |
 | marcinz606/NegPy | unknown | github_search_does_not_include_release_date | [open](../records/photography-marcinz606-negpy-f991191a.md) |
-| mebjas/html5-qrcode | v2.3.8 | 2023-04-15T05:48:51Z | [open](../records/photography-mebjas-html5-qrcode-543a11db.md) |
+| mebjas/html5-qrcode | partial | 2025-12-01T06:41:53Z | [open](../records/photography-mebjas-html5-qrcode-543a11db.md) |
+| moaazsidat/react-native-qrcode-scanner | partial | 2023-05-12T11:16:38Z | [open](../records/photography-moaazsidat-react-native-qrcode-scanner-e8683b24.md) |
 | ncoevoet/facet | unknown | github_search_does_not_include_release_date | [open](../records/photography-ncoevoet-facet-f48943dd.md) |
-| petrobras/GeoSlicer | v2.9.1 | 2026-08-18T18:30:07Z | [open](../records/photography-petrobras-geoslicer-d6192212.md) |
-| photonixapp/photonix | v0.24.0 | 2021-11-18T22:14:31Z | [open](../records/photography-photonixapp-photonix-0ee14fb2.md) |
-| react-native-camera/react-native-camera | v4.2.1 | 2021-09-21T19:40:03Z | [open](../records/photography-react-native-camera-react-native-camera-beed788e.md) |
+| petrobras/GeoSlicer | partial | 2026-08-18T18:30:06Z | [open](../records/photography-petrobras-geoslicer-d6192212.md) |
+| photonixapp/photonix | partial | 2026-07-21T11:06:10Z | [open](../records/photography-photonixapp-photonix-0ee14fb2.md) |
+| react-native-camera/react-native-camera | partial | 2023-06-07T10:03:10Z | [open](../records/photography-react-native-camera-react-native-camera-beed788e.md) |
+| schmich/instascan | partial | 2021-12-15T13:21:36Z | [open](../records/photography-schmich-instascan-8bf0775d.md) |
+| SharpAI/DeepCamera | partial | 2026-06-18T04:37:54Z | [open](../records/photography-sharpai-deepcamera-8f21d9df.md) |
 | stongey/PhotoRestore | unknown | github_search_does_not_include_release_date | [open](../records/photography-stongey-photorestore-e3bb2edb.md) |
 | toonoumi/FreeCCR | unknown | github_search_does_not_include_release_date | [open](../records/photography-toonoumi-freeccr-2918c356.md) |
 
@@ -474,12 +484,12 @@ Records: `385`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AICONSlab/MIRACL | v2.5.3 | 2025-12-10T18:30:01Z | [open](../records/microscopy-aiconslab-miracl-cf8be60e.md) |
-| arttumiettinen/pi2 | v4.5 | 2025-03-27T15:02:08Z | [open](../records/microscopy-arttumiettinen-pi2-7fa92455.md) |
-| bonej-org/BoneJ2 | bonej-7.2.2 | 2026-06-28T15:55:25Z | [open](../records/microscopy-bonej-org-bonej2-7a23494e.md) |
-| clEsperanto/pyclesperanto_prototype | unknown | github_latest_release_missing | [open](../records/microscopy-clesperanto-pyclesperanto-prototype-3fd5a628.md) |
-| imjoy-team/imagej.js | v0.4.0 | 2021-06-14T12:20:14Z | [open](../records/microscopy-imjoy-team-imagej-js-ab4ae7b8.md) |
-| NL-BioImaging/biomero | v2.8.2 | 2026-08-20T11:21:09Z | [open](../records/microscopy-nl-bioimaging-biomero-e59c8222.md) |
+| AICONSlab/MIRACL | partial | 2026-09-01T14:56:01Z | [open](../records/microscopy-aiconslab-miracl-cf8be60e.md) |
+| arttumiettinen/pi2 | partial | 2025-06-25T12:23:36Z | [open](../records/microscopy-arttumiettinen-pi2-7fa92455.md) |
+| bonej-org/BoneJ2 | partial | 2026-06-28T15:19:23Z | [open](../records/microscopy-bonej-org-bonej2-7a23494e.md) |
+| clEsperanto/pyclesperanto_prototype | partial | 2026-08-14T09:04:32Z | [open](../records/microscopy-clesperanto-pyclesperanto-prototype-3fd5a628.md) |
+| imjoy-team/imagej.js | partial | 2025-08-21T21:49:20Z | [open](../records/microscopy-imjoy-team-imagej-js-ab4ae7b8.md) |
+| NL-BioImaging/biomero | partial | 2026-08-31T17:31:28Z | [open](../records/microscopy-nl-bioimaging-biomero-e59c8222.md) |
 | pycroscopy/pycroscopy | partial | 2025-09-12T16:21:57Z | [open](../records/microscopy-pycroscopy-pycroscopy-e22f9142.md) |
 | qupath/qupath | partial | 2026-09-01T12:37:23Z | [open](../records/microscopy-qupath-qupath-319e8bd2.md) |
 
@@ -581,7 +591,8 @@ Records: `385`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-01T13:59:12.705Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
-| gitlab-org/gitlab | partial | 2026-09-01T13:22:39.298Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
+| gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-01T14:59:50.662Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
+| gitlab-org/gitlab | partial | 2026-09-01T15:22:41.164Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
 | gitlab-org/security-products/analyzers/container-scanning | partial | 2026-08-27T18:19:28.289Z | [open](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) |
+| gitlab-security-oss/cis/gitlabcis | partial | 2026-08-31T06:17:44.212Z | [open](../records/repository-workplaces-gitlab-security-oss-cis-gitlabcis-f7ce6047.md) |
 | mopsa/mopsa-analyzer | partial | 2026-08-23T14:57:22.050Z | [open](../records/repository-workplaces-mopsa-mopsa-analyzer-9740e96e.md) |

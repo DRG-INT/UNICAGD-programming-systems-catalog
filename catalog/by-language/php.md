@@ -1,6 +1,6 @@
 # PHP
 
-Records: `173`
+Records: `180`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `173`
 
 ## Category Index
 
-[Api Abi Checker (171)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (36)](../by-category/assertion-mocking.md) · [Async Runtime (111)](../by-category/async-runtime.md)
-[Benchmarking (90)](../by-category/benchmarking.md) · [Build System (697)](../by-category/build-system.md) · [Cli (474)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (78)](../by-category/community-reference.md) · [Compiler (143)](../by-category/compiler.md) · [Compiler Diagnostics (22)](../by-category/compiler-diagnostics.md) · [Compression (42)](../by-category/compression.md)
-[Concurrency Parallelism (67)](../by-category/concurrency-parallelism.md) · [Configuration (92)](../by-category/configuration.md) · [Container Deployment (7)](../by-category/container-deployment.md) · [Coverage (10)](../by-category/coverage.md)
-[Cryptography (150)](../by-category/cryptography.md) · [Data Science (32)](../by-category/data-science.md) · [Database Datastore (514)](../by-category/database-datastore.md) · [Datetime (130)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (37)](../by-category/debugger.md) · [Dependency Manager (70)](../by-category/dependency-manager.md) · [Documentation (71)](../by-category/documentation.md)
-[Embedded Hardware (41)](../by-category/embedded-hardware.md) · [Ffi Bindings (356)](../by-category/ffi-bindings.md) · [Filesystem Os (1015)](../by-category/filesystem-os.md) · [Formatter (496)](../by-category/formatter.md)
-[Framework (42)](../by-category/framework.md) · [Fuzzer (43)](../by-category/fuzzer.md) · [Game Engine Game Dev (129)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (965)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (198)](../by-category/image-audio-dsp.md) · [Interop Bindings (50)](../by-category/interop-bindings.md) · [Interpreter Runtime (188)](../by-category/interpreter-runtime.md) · [Jit Vm (55)](../by-category/jit-vm.md)
-[Language Server (26)](../by-category/language-server.md) · [Language Specification (1042)](../by-category/language-specification.md) · [Library (4510)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (40)](../by-category/lint-rule-pack.md) · [Linter (339)](../by-category/linter.md) · [Logging Observability (306)](../by-category/logging-observability.md) · [Machine Learning (519)](../by-category/machine-learning.md)
-[Math Numeric Scientific (76)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (69)](../by-category/memory-analyzer.md) · [Message Broker (29)](../by-category/message-broker.md) · [Networking Http (802)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (234)](../by-category/package-manager.md) · [Parser Lexer Ast (793)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (222)](../by-category/precommit-ci-quality.md)
-[Profiler (64)](../by-category/profiler.md) · [Project Scaffolding (97)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (10)](../by-category/sanitizer.md)
-[Security Sast (282)](../by-category/security-sast.md) · [Serialization (312)](../by-category/serialization.md) · [Standard Library (23)](../by-category/standard-library.md) · [Static Analyzer (385)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (471)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (50)](../by-category/tutorial-book-styleguide.md) · [Type Checker (276)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1280)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (88)](../by-category/utility-library.md) · [Visualization Gui (369)](../by-category/visualization-gui.md) · [Web Framework (320)](../by-category/web-framework.md)
+[Api Abi Checker (171)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (37)](../by-category/assertion-mocking.md) · [Async Runtime (113)](../by-category/async-runtime.md)
+[Benchmarking (93)](../by-category/benchmarking.md) · [Build System (721)](../by-category/build-system.md) · [Cli (478)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (80)](../by-category/community-reference.md) · [Compiler (146)](../by-category/compiler.md) · [Compiler Diagnostics (22)](../by-category/compiler-diagnostics.md) · [Compression (42)](../by-category/compression.md)
+[Concurrency Parallelism (68)](../by-category/concurrency-parallelism.md) · [Configuration (93)](../by-category/configuration.md) · [Container Deployment (7)](../by-category/container-deployment.md) · [Coverage (11)](../by-category/coverage.md)
+[Cryptography (152)](../by-category/cryptography.md) · [Data Science (32)](../by-category/data-science.md) · [Database Datastore (517)](../by-category/database-datastore.md) · [Datetime (135)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (39)](../by-category/debugger.md) · [Dependency Manager (74)](../by-category/dependency-manager.md) · [Documentation (73)](../by-category/documentation.md)
+[Embedded Hardware (42)](../by-category/embedded-hardware.md) · [Ffi Bindings (361)](../by-category/ffi-bindings.md) · [Filesystem Os (1053)](../by-category/filesystem-os.md) · [Formatter (511)](../by-category/formatter.md)
+[Framework (42)](../by-category/framework.md) · [Fuzzer (43)](../by-category/fuzzer.md) · [Game Engine Game Dev (131)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1018)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (212)](../by-category/image-audio-dsp.md) · [Interop Bindings (50)](../by-category/interop-bindings.md) · [Interpreter Runtime (194)](../by-category/interpreter-runtime.md) · [Jit Vm (56)](../by-category/jit-vm.md)
+[Language Server (26)](../by-category/language-server.md) · [Language Specification (1060)](../by-category/language-specification.md) · [Library (4575)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (40)](../by-category/lint-rule-pack.md) · [Linter (342)](../by-category/linter.md) · [Logging Observability (315)](../by-category/logging-observability.md) · [Machine Learning (533)](../by-category/machine-learning.md)
+[Math Numeric Scientific (76)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (71)](../by-category/memory-analyzer.md) · [Message Broker (29)](../by-category/message-broker.md) · [Networking Http (817)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (236)](../by-category/package-manager.md) · [Parser Lexer Ast (842)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (227)](../by-category/precommit-ci-quality.md)
+[Profiler (64)](../by-category/profiler.md) · [Project Scaffolding (102)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (11)](../by-category/sanitizer.md)
+[Security Sast (284)](../by-category/security-sast.md) · [Serialization (320)](../by-category/serialization.md) · [Standard Library (23)](../by-category/standard-library.md) · [Static Analyzer (396)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (475)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (51)](../by-category/tutorial-book-styleguide.md) · [Type Checker (276)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1291)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (89)](../by-category/utility-library.md) · [Visualization Gui (381)](../by-category/visualization-gui.md) · [Web Framework (329)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -69,6 +69,8 @@ Records: `173`
 | [ezsql/ezsql](../records/php-ezsql-ezsql-96ed119a.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [foolz/sphinxql-query-builder](../records/php-foolz-sphinxql-query-builder-f2a8d804.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [fpdo/fluentpdo](../records/php-fpdo-fluentpdo-a2759c4f.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [jakeasmith/http_build_url](../records/php-jakeasmith-http-build-url-ef13a8e2.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [jenssegers/mongodb](../records/php-jenssegers-mongodb-773603c1.md) | unknown | packagist_package_metadata_missing | registry-derived |
 
 ### Cli
 
@@ -149,6 +151,7 @@ Records: `173`
 | [infocyph/cachelayer](../records/php-infocyph-cachelayer-2ccc1c6b.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [intaro/custom-index-bundle](../records/php-intaro-custom-index-bundle-6f394c76.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [intaro/hstore-extension](../records/php-intaro-hstore-extension-bad5a141.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [itelmenko/laravel-mysql-logger](../records/php-itelmenko-laravel-mysql-logger-fb974a1d.md) | unknown | packagist_package_metadata_missing | registry-derived |
 
 ### Dependency Manager
 
@@ -198,6 +201,7 @@ Records: `173`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [envms/fluentpdo](../records/php-envms-fluentpdo-9b0da97e.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [jane-php/json-schema-runtime](../records/php-jane-php-json-schema-runtime-b6e744d5.md) | unknown | packagist_package_metadata_missing | registry-derived |
 
 ### Language Specification
 
@@ -283,6 +287,8 @@ Records: `173`
 | [goodwix/doctrine-json-odm](../records/php-goodwix-doctrine-json-odm-ef704a19.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [hassankhan/config](../records/php-hassankhan-config-e8dbff76.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [illuminate/json-schema](../records/php-illuminate-json-schema-fae35fa6.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [jms/serializer](../records/php-jms-serializer-51bdec17.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [jms/serializer-bundle](../records/php-jms-serializer-bundle-55d47cb4.md) | unknown | packagist_package_metadata_missing | registry-derived |
 
 ### Testing Framework
 
@@ -300,3 +306,4 @@ Records: `173`
 | [chrisboulton/php-resque](../records/php-chrisboulton-php-resque-9bd303ad.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [erik-dubbelboer/php-redis-admin](../records/php-erik-dubbelboer-php-redis-admin-e9d560c6.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [hyperf/database-pgsql-incubator](../records/php-hyperf-database-pgsql-incubator-fa82b233.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [jeremykendall/php-domain-parser](../records/php-jeremykendall-php-domain-parser-1dfe6960.md) | unknown | packagist_package_metadata_missing | registry-derived |

@@ -1,6 +1,6 @@
 # Cli
 
-Records: `474`
+Records: `478`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `474`
 
 ## Category Index
 
-[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (36)](assertion-mocking.md) · [Async Runtime (111)](async-runtime.md)
-[Benchmarking (90)](benchmarking.md) · [Build System (697)](build-system.md) · **[Cli (474)](cli.md)** · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (78)](community-reference.md) · [Compiler (143)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
-[Concurrency Parallelism (67)](concurrency-parallelism.md) · [Configuration (92)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (150)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (514)](database-datastore.md) · [Datetime (130)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (37)](debugger.md) · [Dependency Manager (70)](dependency-manager.md) · [Documentation (71)](documentation.md)
-[Embedded Hardware (41)](embedded-hardware.md) · [Ffi Bindings (356)](ffi-bindings.md) · [Filesystem Os (1015)](filesystem-os.md) · [Formatter (496)](formatter.md)
-[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (129)](game-engine-game-dev.md) · [Ide Editor Integration (965)](ide-editor-integration.md)
-[Image Audio Dsp (198)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (188)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1042)](language-specification.md) · [Library (4510)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (339)](linter.md) · [Logging Observability (306)](logging-observability.md) · [Machine Learning (519)](machine-learning.md)
-[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (69)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (802)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (234)](package-manager.md) · [Parser Lexer Ast (793)](parser-lexer-ast.md) · [Precommit Ci Quality (222)](precommit-ci-quality.md)
-[Profiler (64)](profiler.md) · [Project Scaffolding (97)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (10)](sanitizer.md)
-[Security Sast (282)](security-sast.md) · [Serialization (312)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (385)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (471)](testing-framework.md) · [Tutorial Book Styleguide (50)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
-[Undefined Behavior Analyzer (1280)](undefined-behavior-analyzer.md) · [Utility Library (88)](utility-library.md) · [Visualization Gui (369)](visualization-gui.md) · [Web Framework (320)](web-framework.md)
+[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (37)](assertion-mocking.md) · [Async Runtime (113)](async-runtime.md)
+[Benchmarking (93)](benchmarking.md) · [Build System (721)](build-system.md) · **[Cli (478)](cli.md)** · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (80)](community-reference.md) · [Compiler (146)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (68)](concurrency-parallelism.md) · [Configuration (93)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (152)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (517)](database-datastore.md) · [Datetime (135)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (39)](debugger.md) · [Dependency Manager (74)](dependency-manager.md) · [Documentation (73)](documentation.md)
+[Embedded Hardware (42)](embedded-hardware.md) · [Ffi Bindings (361)](ffi-bindings.md) · [Filesystem Os (1053)](filesystem-os.md) · [Formatter (511)](formatter.md)
+[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (131)](game-engine-game-dev.md) · [Ide Editor Integration (1018)](ide-editor-integration.md)
+[Image Audio Dsp (212)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (194)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1060)](language-specification.md) · [Library (4575)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (342)](linter.md) · [Logging Observability (315)](logging-observability.md) · [Machine Learning (533)](machine-learning.md)
+[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (71)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (817)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (236)](package-manager.md) · [Parser Lexer Ast (842)](parser-lexer-ast.md) · [Precommit Ci Quality (227)](precommit-ci-quality.md)
+[Profiler (64)](profiler.md) · [Project Scaffolding (102)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (11)](sanitizer.md)
+[Security Sast (284)](security-sast.md) · [Serialization (320)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (396)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (475)](testing-framework.md) · [Tutorial Book Styleguide (51)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1291)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (381)](visualization-gui.md) · [Web Framework (329)](web-framework.md)
 
 ## C++23
 
@@ -297,12 +297,13 @@ Records: `474`
 | @gql.tada/cli-utils | 1.9.3 | 2026-07-25T14:36:46.564Z | [open](../records/node-js-javascript-gql-tada-cli-utils-5273b9c0.md) |
 | @graphql-hive/cli | 0.63.0 | 2026-09-01T13:44:09.800Z | [open](../records/node-js-javascript-graphql-hive-cli-d8cf3b01.md) |
 | @heroku-cli/color | 2.0.8 | 2026-08-21T21:56:08.999Z | [open](../records/node-js-javascript-heroku-cli-color-819b0a80.md) |
+| @heroku-cli/command | 13.2.0 | 2026-08-25T22:11:07.406Z | [open](../records/node-js-javascript-heroku-cli-command-51da9926.md) |
 | @hibas123/logging | 2.6.1 | 2020-09-30T15:28:25.680Z | [open](../records/node-js-javascript-hibas123-logging-85c98781.md) |
 | @hono/cli | 0.1.11 | 2026-08-05T08:52:40.909Z | [open](../records/node-js-javascript-hono-cli-bc6b0c5a.md) |
 | @ionic/cli-framework | 6.0.1 | 2023-12-19T22:38:46.385Z | [open](../records/node-js-javascript-ionic-cli-framework-f85b9b0b.md) |
 | @ionic/cli-framework-output | 2.2.8 | 2023-12-19T22:38:35.365Z | [open](../records/node-js-javascript-ionic-cli-framework-output-8324bb8a.md) |
 | @knocklabs/cli | 1.2.3 | 2026-08-13T15:12:15.170Z | [open](../records/node-js-javascript-knocklabs-cli-62154908.md) |
-| @lightdash/cli | 2.72.4 | 2026-09-01T14:12:08.928Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
+| @lightdash/cli | 2.74.0 | 2026-09-01T15:34:06.364Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | @lingui/cli | 6.6.0 | 2026-07-24T13:52:53.439Z | [open](../records/node-js-javascript-lingui-cli-343f33ec.md) |
 | @maizzle/cli | 2.0.0 | 2024-12-16T17:59:24.900Z | [open](../records/node-js-javascript-maizzle-cli-a7a13457.md) |
 | @metamask/messenger-cli | 0.2.0 | 2026-04-20T16:40:19.418Z | [open](../records/node-js-javascript-metamask-messenger-cli-15524c80.md) |
@@ -493,6 +494,8 @@ Records: `474`
 | clipboard | 3.0.14 | 2026-01-09T14:44:20.764598Z | [open](../records/dart-clipboard-4496640a.md) |
 | completion | 1.0.2 | 2025-07-17T23:04:20.696556Z | [open](../records/dart-completion-9bd312cb.md) |
 | flutter_linkify | 6.0.0 | 2023-05-15T23:26:20.808993Z | [open](../records/dart-flutter-linkify-1dc0e39d.md) |
+| icons_launcher | 3.1.0 | 2026-03-22T14:23:27.340927Z | [open](../records/dart-icons-launcher-f8fe7893.md) |
+| just_audio | 0.10.6 | 2026-06-29T13:36:46.318814Z | [open](../records/dart-just-audio-dc06d149.md) |
 
 ## Go
 
@@ -506,9 +509,9 @@ Records: `474`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-01T14:20:55Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-01T15:19:22Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-01T14:14:34Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-01T15:35:37Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Assets
 
@@ -531,14 +534,20 @@ Records: `474`
 | --- | --- | --- | --- |
 | kosa12/CRTty | partial | 2026-02-13T12:31:23Z | [open](../records/effects-kosa12-crtty-860c32b6.md) |
 
+## Audio
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| ha7ilm/csdr | partial | 2024-02-06T12:13:28Z | [open](../records/audio-ha7ilm-csdr-6e5cff57.md) |
+
 ## Photography
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | oaklensart/fixxer | unknown | github_search_does_not_include_release_date | [open](../records/photography-oaklensart-fixxer-6396ddfb.md) |
 | photo-cli/photo-cli | unknown | github_search_does_not_include_release_date | [open](../records/photography-photo-cli-photo-cli-ebb0e161.md) |
-| rawnly/splash-cli | 4.1.7 | 2026-05-23T21:43:15Z | [open](../records/photography-rawnly-splash-cli-1dd2a2b8.md) |
-| yurijmikhalevich/rclip | v3.3.0 | 2026-08-02T23:04:38Z | [open](../records/photography-yurijmikhalevich-rclip-b2be5c3a.md) |
+| rawnly/splash-cli | partial | 2026-05-23T21:42:43Z | [open](../records/photography-rawnly-splash-cli-1dd2a2b8.md) |
+| yurijmikhalevich/rclip | partial | 2026-08-30T11:07:11Z | [open](../records/photography-yurijmikhalevich-rclip-b2be5c3a.md) |
 
 ## Radars
 

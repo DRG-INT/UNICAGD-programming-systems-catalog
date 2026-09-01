@@ -1,6 +1,6 @@
 # Matlab
 
-Records: `172`
+Records: `179`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `172`
 
 ## Category Index
 
-[Api Abi Checker (171)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (36)](../by-category/assertion-mocking.md) · [Async Runtime (111)](../by-category/async-runtime.md)
-[Benchmarking (90)](../by-category/benchmarking.md) · [Build System (697)](../by-category/build-system.md) · [Cli (474)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (78)](../by-category/community-reference.md) · [Compiler (143)](../by-category/compiler.md) · [Compiler Diagnostics (22)](../by-category/compiler-diagnostics.md) · [Compression (42)](../by-category/compression.md)
-[Concurrency Parallelism (67)](../by-category/concurrency-parallelism.md) · [Configuration (92)](../by-category/configuration.md) · [Container Deployment (7)](../by-category/container-deployment.md) · [Coverage (10)](../by-category/coverage.md)
-[Cryptography (150)](../by-category/cryptography.md) · [Data Science (32)](../by-category/data-science.md) · [Database Datastore (514)](../by-category/database-datastore.md) · [Datetime (130)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (37)](../by-category/debugger.md) · [Dependency Manager (70)](../by-category/dependency-manager.md) · [Documentation (71)](../by-category/documentation.md)
-[Embedded Hardware (41)](../by-category/embedded-hardware.md) · [Ffi Bindings (356)](../by-category/ffi-bindings.md) · [Filesystem Os (1015)](../by-category/filesystem-os.md) · [Formatter (496)](../by-category/formatter.md)
-[Framework (42)](../by-category/framework.md) · [Fuzzer (43)](../by-category/fuzzer.md) · [Game Engine Game Dev (129)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (965)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (198)](../by-category/image-audio-dsp.md) · [Interop Bindings (50)](../by-category/interop-bindings.md) · [Interpreter Runtime (188)](../by-category/interpreter-runtime.md) · [Jit Vm (55)](../by-category/jit-vm.md)
-[Language Server (26)](../by-category/language-server.md) · [Language Specification (1042)](../by-category/language-specification.md) · [Library (4510)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (40)](../by-category/lint-rule-pack.md) · [Linter (339)](../by-category/linter.md) · [Logging Observability (306)](../by-category/logging-observability.md) · [Machine Learning (519)](../by-category/machine-learning.md)
-[Math Numeric Scientific (76)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (69)](../by-category/memory-analyzer.md) · [Message Broker (29)](../by-category/message-broker.md) · [Networking Http (802)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (234)](../by-category/package-manager.md) · [Parser Lexer Ast (793)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (222)](../by-category/precommit-ci-quality.md)
-[Profiler (64)](../by-category/profiler.md) · [Project Scaffolding (97)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (10)](../by-category/sanitizer.md)
-[Security Sast (282)](../by-category/security-sast.md) · [Serialization (312)](../by-category/serialization.md) · [Standard Library (23)](../by-category/standard-library.md) · [Static Analyzer (385)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (471)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (50)](../by-category/tutorial-book-styleguide.md) · [Type Checker (276)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1280)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (88)](../by-category/utility-library.md) · [Visualization Gui (369)](../by-category/visualization-gui.md) · [Web Framework (320)](../by-category/web-framework.md)
+[Api Abi Checker (171)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (37)](../by-category/assertion-mocking.md) · [Async Runtime (113)](../by-category/async-runtime.md)
+[Benchmarking (93)](../by-category/benchmarking.md) · [Build System (721)](../by-category/build-system.md) · [Cli (478)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (80)](../by-category/community-reference.md) · [Compiler (146)](../by-category/compiler.md) · [Compiler Diagnostics (22)](../by-category/compiler-diagnostics.md) · [Compression (42)](../by-category/compression.md)
+[Concurrency Parallelism (68)](../by-category/concurrency-parallelism.md) · [Configuration (93)](../by-category/configuration.md) · [Container Deployment (7)](../by-category/container-deployment.md) · [Coverage (11)](../by-category/coverage.md)
+[Cryptography (152)](../by-category/cryptography.md) · [Data Science (32)](../by-category/data-science.md) · [Database Datastore (517)](../by-category/database-datastore.md) · [Datetime (135)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (39)](../by-category/debugger.md) · [Dependency Manager (74)](../by-category/dependency-manager.md) · [Documentation (73)](../by-category/documentation.md)
+[Embedded Hardware (42)](../by-category/embedded-hardware.md) · [Ffi Bindings (361)](../by-category/ffi-bindings.md) · [Filesystem Os (1053)](../by-category/filesystem-os.md) · [Formatter (511)](../by-category/formatter.md)
+[Framework (42)](../by-category/framework.md) · [Fuzzer (43)](../by-category/fuzzer.md) · [Game Engine Game Dev (131)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1018)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (212)](../by-category/image-audio-dsp.md) · [Interop Bindings (50)](../by-category/interop-bindings.md) · [Interpreter Runtime (194)](../by-category/interpreter-runtime.md) · [Jit Vm (56)](../by-category/jit-vm.md)
+[Language Server (26)](../by-category/language-server.md) · [Language Specification (1060)](../by-category/language-specification.md) · [Library (4575)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (40)](../by-category/lint-rule-pack.md) · [Linter (342)](../by-category/linter.md) · [Logging Observability (315)](../by-category/logging-observability.md) · [Machine Learning (533)](../by-category/machine-learning.md)
+[Math Numeric Scientific (76)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (71)](../by-category/memory-analyzer.md) · [Message Broker (29)](../by-category/message-broker.md) · [Networking Http (817)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (236)](../by-category/package-manager.md) · [Parser Lexer Ast (842)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (227)](../by-category/precommit-ci-quality.md)
+[Profiler (64)](../by-category/profiler.md) · [Project Scaffolding (102)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (11)](../by-category/sanitizer.md)
+[Security Sast (284)](../by-category/security-sast.md) · [Serialization (320)](../by-category/serialization.md) · [Standard Library (23)](../by-category/standard-library.md) · [Static Analyzer (396)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (475)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (51)](../by-category/tutorial-book-styleguide.md) · [Type Checker (276)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1291)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (89)](../by-category/utility-library.md) · [Visualization Gui (381)](../by-category/visualization-gui.md) · [Web Framework (329)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -59,7 +59,7 @@ Records: `172`
 | [brendenlake/omniglot](../records/matlab-brendenlake-omniglot-d8bafdf7.md) | partial | 2023-02-01T21:28:32Z | registry-derived |
 | [callmekeyboardman/Machine-Learning-Andrew-Ng](../records/matlab-callmekeyboardman-machine-learning-andrew-ng-b8bd679f.md) | partial | 2022-05-27T10:01:26Z | registry-derived |
 | [canlab/CanlabCore](../records/matlab-canlab-canlabcore-cf8d4a67.md) | partial | 2026-08-05T13:41:45Z | registry-derived |
-| [CERN/TIGRE](../records/matlab-cern-tigre-7c6bed86.md) | partial | 2026-08-14T14:30:31Z | registry-derived |
+| [CERN/TIGRE](../records/matlab-cern-tigre-7c6bed86.md) | partial | 2026-09-01T15:31:41Z | registry-derived |
 | [chebfun/chebfun](../records/matlab-chebfun-chebfun-4915fd94.md) | partial | 2026-06-23T16:12:49Z | registry-derived |
 | [chenjoya/Vehicle_Detection_Recognition](../records/matlab-chenjoya-vehicle-detection-recognition-89663468.md) | partial | 2022-06-06T09:31:11Z | registry-derived |
 | [clarkzinzow/Nonlinear-Optimization-Algorithms](../records/matlab-clarkzinzow-nonlinear-optimization-algorithms-56515550.md) | partial | 2020-11-13T00:21:44Z | registry-derived |
@@ -86,6 +86,7 @@ Records: `172`
 | [filipradenovic/cnnimageretrieval](../records/matlab-filipradenovic-cnnimageretrieval-4402bf85.md) | partial | 2022-06-02T18:54:49Z | registry-derived |
 | [Firmament-Autopilot/FMT-Model](../records/matlab-firmament-autopilot-fmt-model-e34acb3b.md) | partial | 2026-07-24T05:58:41Z | registry-derived |
 | [flatironinstitute/CaImAn-MATLAB](../records/matlab-flatironinstitute-caiman-matlab-f1d3a116.md) | partial | 2023-07-04T01:09:30Z | registry-derived |
+| [flatironinstitute/NoRMCorre](../records/matlab-flatironinstitute-normcorre-92bb4000.md) | partial | 2022-05-29T15:19:21Z | registry-derived |
 | [gibbonCode/GIBBON](../records/matlab-gibboncode-gibbon-ac6594e9.md) | partial | 2026-08-21T11:47:32Z | registry-derived |
 | [googollee/eviltransform](../records/matlab-googollee-eviltransform-da18ece5.md) | partial | 2024-01-15T01:44:21Z | registry-derived |
 | [grinsted/wavelet-coherence](../records/matlab-grinsted-wavelet-coherence-50efb1eb.md) | partial | 2022-11-20T12:50:25Z | registry-derived |
@@ -98,13 +99,17 @@ Records: `172`
 | [HuangCongQing/Algorithms_MathModels](../records/matlab-huangcongqing-algorithms-mathmodels-17eaa071.md) | partial | 2022-12-25T17:27:52Z | registry-derived |
 | [HybridRobotics/CBF-CLF-Helper](../records/matlab-hybridrobotics-cbf-clf-helper-9caed180.md) | partial | 2024-06-30T23:09:51Z | registry-derived |
 | [HybridRobotics/NMPC-DCLF-DCBF](../records/matlab-hybridrobotics-nmpc-dclf-dcbf-2bb7179e.md) | partial | 2023-11-09T10:49:58Z | registry-derived |
+| [ishit/L1Stabilizer](../records/matlab-ishit-l1stabilizer-4d94a96a.md) | partial | 2019-05-23T05:12:16Z | registry-derived |
 | [ivaquero/book-control](../records/matlab-ivaquero-book-control-40e9e278.md) | partial | 2026-08-29T02:16:52Z | registry-derived |
 | [jbhuang0604/SelfExSR](../records/matlab-jbhuang0604-selfexsr-4831bbf1.md) | partial | 2016-05-31T16:29:23Z | registry-derived |
 | [jindongwang/activityrecognition](../records/matlab-jindongwang-activityrecognition-f331c65f.md) | partial | 2019-08-20T05:46:37Z | registry-derived |
+| [jrgenerative/fixed-wing-sim](../records/matlab-jrgenerative-fixed-wing-sim-82fe39a4.md) | partial | 2017-02-28T09:10:06Z | registry-derived |
 | [jtkim-kaist/VAD](../records/matlab-jtkim-kaist-vad-91b1919c.md) | partial | 2021-06-09T07:28:56Z | registry-derived |
 | [kpzhang93/MTCNN_face_detection_alignment](../records/matlab-kpzhang93-mtcnn-face-detection-alignment-586be06a.md) | partial | 2022-10-11T07:35:47Z | registry-derived |
 | [ktekeli/audio-steganography-algorithms](../records/matlab-ktekeli-audio-steganography-algorithms-59a5ea02.md) | partial | 2023-11-07T11:06:31Z | registry-derived |
 | [kyamagu/mexopencv](../records/matlab-kyamagu-mexopencv-201dfc1f.md) | partial | 2020-10-23T01:25:05Z | registry-derived |
+| [lacerbi/optimviz](../records/matlab-lacerbi-optimviz-978d4349.md) | partial | 2022-02-24T07:33:42Z | registry-derived |
+| [lamfur07/Flight-Dynamics-and-Control-UAVs](../records/matlab-lamfur07-flight-dynamics-and-control-uavs-4a90914e.md) | partial | 2023-06-12T18:39:18Z | registry-derived |
 | [layumi/Image-Text-Embedding](../records/matlab-layumi-image-text-embedding-7ecad011.md) | partial | 2026-07-06T00:56:20Z | registry-derived |
 | [Linfeng-Tang/Image-Fusion](../records/matlab-linfeng-tang-image-fusion-8beb660a.md) | partial | 2026-08-05T02:21:06Z | registry-derived |
 | [Lisandro79/BeatTheBookie](../records/matlab-lisandro79-beatthebookie-a9ed323c.md) | partial | 2021-10-04T15:11:23Z | registry-derived |
@@ -114,6 +119,7 @@ Records: `172`
 | [martin-danelljan/ECO](../records/matlab-martin-danelljan-eco-f7ff0b42.md) | partial | 2019-10-24T11:11:11Z | registry-derived |
 | [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](../records/matlab-mathfoundationrl-book-mathematical-foundation-of-reinforcement-learning-34855485.md) | partial | 2026-08-10T06:39:05Z | registry-derived |
 | [mathworks/awesome-matlab-students](../records/matlab-mathworks-awesome-matlab-students-5d111c82.md) | partial | 2026-08-25T12:30:23Z | registry-derived |
+| [mathworks/Simscape-Battery-Electric-Vehicle-Model](../records/matlab-mathworks-simscape-battery-electric-vehicle-model-25267591.md) | partial | 2026-08-20T14:42:27Z | registry-derived |
 | [matlab-deep-learning/llms-with-matlab](../records/matlab-matlab-deep-learning-llms-with-matlab-206936ca.md) | partial | 2026-06-15T10:30:40Z | registry-derived |
 | [matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub](../records/matlab-matlab-deep-learning-matlab-deep-learning-model-hub-4365bfd4.md) | partial | 2026-04-22T16:25:38Z | registry-derived |
 | [matlab-deep-learning/reinforcement_learning_financial_trading](../records/matlab-matlab-deep-learning-reinforcement-learning-financial-trading-9b4c6e01.md) | partial | 2026-02-13T08:51:45Z | registry-derived |
@@ -127,7 +133,7 @@ Records: `172`
 | [MeowLucian/SDR_Matlab_OFDM_802.11a](../records/matlab-meowlucian-sdr-matlab-ofdm-802-11a-5ed3430a.md) | partial | 2018-04-07T01:23:52Z | registry-derived |
 | [mohammadrezwankhan/matlab-simulink-energy-lab](../records/matlab-mohammadrezwankhan-matlab-simulink-energy-lab-1613dbf1.md) | partial | 2026-08-25T06:42:08Z | registry-derived |
 | [morriswmz/doa-tools](../records/matlab-morriswmz-doa-tools-1d8c8495.md) | partial | 2018-11-07T20:47:45Z | registry-derived |
-| [mtex-toolbox/mtex](../records/matlab-mtex-toolbox-mtex-c19e6fb8.md) | partial | 2026-08-29T06:04:39Z | registry-derived |
+| [mtex-toolbox/mtex](../records/matlab-mtex-toolbox-mtex-c19e6fb8.md) | partial | 2026-09-01T15:10:32Z | registry-derived |
 | [nanahou/Awesome-Speech-Enhancement](../records/matlab-nanahou-awesome-speech-enhancement-bba57755.md) | partial | 2020-12-01T10:20:50Z | registry-derived |
 | [NerdsWithAttitudes/WarpFactory](../records/matlab-nerdswithattitudes-warpfactory-c9f05d2d.md) | partial | 2024-05-24T08:27:17Z | registry-derived |
 | [NeuroJSON/jsonlab](../records/matlab-neurojson-jsonlab-36111c60.md) | partial | 2026-08-30T17:11:32Z | registry-derived |
@@ -186,6 +192,7 @@ Records: `172`
 | [WEC-Sim/WEC-Sim](../records/matlab-wec-sim-wec-sim-864769f5.md) | partial | 2026-08-31T15:00:27Z | registry-derived |
 | [willard-yuan/cnn-for-image-retrieval](../records/matlab-willard-yuan-cnn-for-image-retrieval-8ee2e5c8.md) | partial | 2021-01-05T04:45:05Z | registry-derived |
 | [willard-yuan/hashing-baseline-for-image-retrieval](../records/matlab-willard-yuan-hashing-baseline-for-image-retrieval-d84f4db3.md) | partial | 2022-04-16T14:29:21Z | registry-derived |
+| [xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator](../records/matlab-xds0112-5g-based-system-level-integrated-sensing-and-communication-simulator-51378866.md) | partial | 2024-10-18T08:08:48Z | registry-derived |
 | [xiaoli1368/Microphone-sound-source-localization](../records/matlab-xiaoli1368-microphone-sound-source-localization-5aa810bd.md) | partial | 2019-09-09T13:05:04Z | registry-derived |
 | [XinLiGH/GyroAllan](../records/matlab-xinligh-gyroallan-dd723003.md) | partial | 2018-05-12T16:54:21Z | registry-derived |
 | [xioTechnologies/Gait-Tracking-With-x-IMU](../records/matlab-xiotechnologies-gait-tracking-with-x-imu-0e94ecc1.md) | partial | 2023-10-14T12:00:26Z | registry-derived |
