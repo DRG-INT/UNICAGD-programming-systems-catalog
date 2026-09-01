@@ -1,6 +1,6 @@
 # Package Manager
 
-Records: `206`
+Records: `234`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `206`
 
 ## Category Index
 
-[Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
-[Benchmarking (75)](benchmarking.md) · [Build System (596)](build-system.md) · [Cli (453)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (37)](compression.md)
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (75)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (441)](database-datastore.md) · [Datetime (105)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
-[Embedded Hardware (40)](embedded-hardware.md) · [Ffi Bindings (327)](ffi-bindings.md) · [Filesystem Os (784)](filesystem-os.md) · [Formatter (450)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (40)](fuzzer.md) · [Game Engine Game Dev (109)](game-engine-game-dev.md) · [Ide Editor Integration (860)](ide-editor-integration.md)
-[Image Audio Dsp (186)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (162)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (24)](language-server.md) · [Language Specification (843)](language-specification.md) · [Library (3399)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (336)](linter.md) · [Logging Observability (265)](logging-observability.md) · [Machine Learning (393)](machine-learning.md)
-[Math Numeric Scientific (71)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (700)](networking-http.md)
-[Other (14)](other.md) · **[Package Manager (206)](package-manager.md)** · [Parser Lexer Ast (613)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
-[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (9)](sanitizer.md)
-[Security Sast (270)](security-sast.md) · [Serialization (282)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (297)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (43)](tutorial-book-styleguide.md) · [Type Checker (271)](type-checker.md)
-[Undefined Behavior Analyzer (1203)](undefined-behavior-analyzer.md) · [Utility Library (82)](utility-library.md) · [Visualization Gui (284)](visualization-gui.md) · [Web Framework (307)](web-framework.md)
+[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (36)](assertion-mocking.md) · [Async Runtime (111)](async-runtime.md)
+[Benchmarking (90)](benchmarking.md) · [Build System (697)](build-system.md) · [Cli (474)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (78)](community-reference.md) · [Compiler (143)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (67)](concurrency-parallelism.md) · [Configuration (92)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (150)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (514)](database-datastore.md) · [Datetime (130)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (37)](debugger.md) · [Dependency Manager (70)](dependency-manager.md) · [Documentation (71)](documentation.md)
+[Embedded Hardware (41)](embedded-hardware.md) · [Ffi Bindings (356)](ffi-bindings.md) · [Filesystem Os (1015)](filesystem-os.md) · [Formatter (496)](formatter.md)
+[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (129)](game-engine-game-dev.md) · [Ide Editor Integration (965)](ide-editor-integration.md)
+[Image Audio Dsp (198)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (188)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1042)](language-specification.md) · [Library (4510)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (339)](linter.md) · [Logging Observability (306)](logging-observability.md) · [Machine Learning (519)](machine-learning.md)
+[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (69)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (802)](networking-http.md)
+[Other (14)](other.md) · **[Package Manager (234)](package-manager.md)** · [Parser Lexer Ast (793)](parser-lexer-ast.md) · [Precommit Ci Quality (222)](precommit-ci-quality.md)
+[Profiler (64)](profiler.md) · [Project Scaffolding (97)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (10)](sanitizer.md)
+[Security Sast (282)](security-sast.md) · [Serialization (312)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (385)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (471)](testing-framework.md) · [Tutorial Book Styleguide (50)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1280)](undefined-behavior-analyzer.md) · [Utility Library (88)](utility-library.md) · [Visualization Gui (369)](visualization-gui.md) · [Web Framework (320)](web-framework.md)
 
 ## C99
 
@@ -189,21 +189,32 @@ Records: `206`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| acR | 0.3.3 | 2026-08-20 08:42:18 UTC | [open](../records/r-acr-06483fc8.md) |
+| BNPmix | 1.2.3 | 2026-08-04 20:40:02 UTC | [open](../records/r-bnpmix-cd5f272d.md) |
 | ClassifyITS | 1.0.3 | 2026-08-25 23:20:09 UTC | [open](../records/r-classifyits-9d0d3143.md) |
 | maestro | 1.3.0 | 2026-08-31 20:30:02 UTC | [open](../records/r-maestro-cf255b9c.md) |
 | mikropml | 1.7.1 | 2026-08-28 17:10:09 UTC | [open](../records/r-mikropml-c7ef08df.md) |
 | npmv | 2.5.0 | 2026-08-28 10:30:02 UTC | [open](../records/r-npmv-f9a24775.md) |
 | pkgfilecache | 0.4.1 | 2026-08-31 22:20:02 UTC | [open](../records/r-pkgfilecache-5b2c3b65.md) |
+| pkgmd | 0.1 | 2026-08-07 16:10:10 UTC | [open](../records/r-pkgmd-82f9b690.md) |
 | pkgnet | 0.6.1 | 2026-08-31 15:00:02 UTC | [open](../records/r-pkgnet-b8bd4957.md) |
 | quickSentiment | 0.3.6 | 2026-08-28 21:30:09 UTC | [open](../records/r-quicksentiment-72972f40.md) |
 | ravepipeline | 0.2.0 | 2026-08-22 03:30:03 UTC | [open](../records/r-ravepipeline-8cdfb5b3.md) |
 | SQMtools | 1.8.1 | 2026-08-27 08:10:08 UTC | [open](../records/r-sqmtools-ebabfc15.md) |
+| tarpolyglot | 0.2.0 | 2026-08-08 10:50:02 UTC | [open](../records/r-tarpolyglot-d5263811.md) |
 
 ## Haskell
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ats-pkg | 3.5.0.3 | 2022-10-03T19:54:59Z | [open](../records/haskell-ats-pkg-cc50e091.md) |
+| cpkg | 0.2.5.8 | 2023-11-06T15:59:13Z | [open](../records/haskell-cpkg-67d267ab.md) |
+| GPipe | 2.2.5 | 2020-04-10T18:59:10Z | [open](../records/haskell-gpipe-6f68fd36.md) |
+| pipes | 4.3.16 | 2021-05-07T02:43:12Z | [open](../records/haskell-pipes-76ae72a4.md) |
+| pipes-bytestring | 2.1.7 | 2021-02-12T21:37:43Z | [open](../records/haskell-pipes-bytestring-1f37c2f8.md) |
+| pipes-text | 1.0.1 | 2022-05-26T17:17:53Z | [open](../records/haskell-pipes-text-f39907cf.md) |
+| registry | 0.6.3.3 | 2025-10-08T17:57:36Z | [open](../records/haskell-registry-b9f498cf.md) |
+| simple-pipe | 0.0.0.29 | 2015-09-29T03:12:41Z | [open](../records/haskell-simple-pipe-0fd27282.md) |
 
 ## Octave
 
@@ -243,6 +254,20 @@ Records: `206`
 | gopkg.in/grpc/grpc-java.v1 | v1.65.1 | 2026-08-30T12:53:41.302937Z | [open](../records/go-gopkg-in-grpc-grpc-java-v1-2e9e13e9.md) |
 | sigs.k8s.io/controller-tools/pkg/loader/testmod/subdir1/submod1 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-controller-tools-pkg-loader-testmod-subdir1-submod1-7dc68c0a.md) |
 
+## "aim's"
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| pathwaycom/llm-app | partial | 2026-07-05T17:59:07Z | [open](../records/aim-s-pathwaycom-llm-app-471c77f6.md) |
+
+## Assets
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| fontsource/fontsource | partial | 2026-08-31T09:31:28Z | [open](../records/assets-fontsource-fontsource-6b3b00ba.md) |
+| snapotter-hq/SnapOtter | partial | 2026-08-31T16:44:04Z | [open](../records/assets-snapotter-hq-snapotter-f5614eb5.md) |
+| spotify/klio | partial | 2024-01-10T19:37:37Z | [open](../records/assets-spotify-klio-c9106254.md) |
+
 ## Space Engines
 
 | Name | Release | Date | Page |
@@ -253,18 +278,34 @@ Records: `206`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| computerex/orbiter-mods.com | unknown | github_latest_release_missing | [open](../records/space-shuttles-computerex-orbiter-mods-com-b236249f.md) |
+| computerex/orbiter-mods.com | partial | 2026-07-18T06:53:11Z | [open](../records/space-shuttles-computerex-orbiter-mods-com-b236249f.md) |
+
+## Space Maps
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| AndrewAnnex/asap_stereo | partial | 2026-07-23T21:49:02Z | [open](../records/space-maps-andrewannex-asap-stereo-37cce249.md) |
+| spacetelescope/jwst | partial | 2026-08-31T17:13:59Z | [open](../records/space-maps-spacetelescope-jwst-eb2c4c25.md) |
 
 ## Effects
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| CyberAgentGameEntertainment/NovaShader | 3.6.0 | 2026-04-08T01:21:34Z | [open](../records/effects-cyberagentgameentertainment-novashader-cfdfe2cf.md) |
+| alexanderrichtertd/plex | partial | 2025-08-09T02:25:48Z | [open](../records/effects-alexanderrichtertd-plex-75c31e14.md) |
+| beinteractive/LWRPAmbientOcclusion | partial | 2019-10-04T22:49:34Z | [open](../records/effects-beinteractive-lwrpambientocclusion-7b85e0e3.md) |
+| CialloKing/ba-click-fx | partial | 2026-08-18T05:57:36Z | [open](../records/effects-cialloking-ba-click-fx-b842180a.md) |
+| CyberAgentGameEntertainment/NovaShader | partial | 2026-07-17T05:13:02Z | [open](../records/effects-cyberagentgameentertainment-novashader-cfdfe2cf.md) |
+| demonixis/SSGI-URP | partial | 2020-03-11T06:40:26Z | [open](../records/effects-demonixis-ssgi-urp-4db7e7d8.md) |
 | GarrettGunnell/Post-Processing | unknown | github_latest_release_missing | [open](../records/effects-garrettgunnell-post-processing-2bb2ca4a.md) |
 | hatfullr/UnityURP-AnimeStyleCelShader | unknown | github_latest_release_missing | [open](../records/effects-hatfullr-unityurp-animestylecelshader-22a00d9e.md) |
 | JosephOIbrahim/Houdini_Camera_Rig_System | v3.4 | 2026-06-11T21:16:54Z | [open](../records/effects-josephoibrahim-houdini-camera-rig-system-2f878675.md) |
+| LucaScheller/VFX-LYNX | partial | 2021-08-19T17:49:26Z | [open](../records/effects-lucascheller-vfx-lynx-86b5b87b.md) |
+| masqu3rad3/tik_manager4 | partial | 2026-07-20T15:34:34Z | [open](../records/effects-masqu3rad3-tik-manager4-ebbe1050.md) |
 | mbelyavsky/Unity-HDRP-JPEG-MP4-Compression-PostProcessing-Effect | unknown | github_latest_release_missing | [open](../records/effects-mbelyavsky-unity-hdrp-jpeg-mp4-compression-postprocessing-effect-b83437c1.md) |
+| neon8100/screenshotter | partial | 2021-11-29T18:32:34Z | [open](../records/effects-neon8100-screenshotter-321bfbf1.md) |
 | nvjob/ppsc | unknown | github_latest_release_missing | [open](../records/effects-nvjob-ppsc-40ef5bfb.md) |
+| PrismPipeline/QuiltiX | partial | 2025-07-03T17:45:40Z | [open](../records/effects-prismpipeline-quiltix-bb50e556.md) |
+| sinnwrig/URP-Fog-Volumes | partial | 2026-01-23T02:03:17Z | [open](../records/effects-sinnwrig-urp-fog-volumes-845ab6cc.md) |
 | thevoidky/custom-post-process-on-urp | unknown | github_latest_release_missing | [open](../records/effects-thevoidky-custom-post-process-on-urp-f0e94f32.md) |
 
 ## Audio
@@ -344,6 +385,7 @@ Records: `206`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | fluvio-community/fluvio | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-fluvio-community-fluvio-ea45e18f.md) |
+| wasmerio/wapm-cli | partial | 2023-03-07T11:04:22Z | [open](../records/webassembly-wasmerio-wapm-cli-a6f51cfe.md) |
 
 ## SAPJava
 
@@ -367,6 +409,7 @@ Records: `206`
 | --- | --- | --- | --- |
 | apk-tools | unknown | official_workplace_route_requires_source_specific_release_lookup | [open](../records/repository-workplaces-apk-tools-8f57bb38.md) |
 | dslackw/slpkg | partial | 2026-07-26T18:03:42.256Z | [open](../records/repository-workplaces-dslackw-slpkg-a996713a.md) |
+| gitlab-org/professional-services-automation/tools/utilities/pipeintel | partial | 2026-08-30T10:08:11.464Z | [open](../records/repository-workplaces-gitlab-org-professional-services-automation-tools-utilities-pipeintel-c5173f91.md) |
 | OpenTAP/opentap | partial | 2022-03-07T13:22:54.219Z | [open](../records/repository-workplaces-opentap-opentap-6d917c43.md) |
 | portmod/portmod | partial | 2026-04-13T02:00:36.213Z | [open](../records/repository-workplaces-portmod-portmod-a38f55d6.md) |
 | WeSuckLess/Reactor | partial | 2026-07-23T10:03:28.237Z | [open](../records/repository-workplaces-wesuckless-reactor-d2157f72.md) |

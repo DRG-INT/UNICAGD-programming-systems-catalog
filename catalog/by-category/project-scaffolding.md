@@ -1,6 +1,6 @@
 # Project Scaffolding
 
-Records: `91`
+Records: `97`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `91`
 
 ## Category Index
 
-[Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
-[Benchmarking (75)](benchmarking.md) · [Build System (596)](build-system.md) · [Cli (453)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (37)](compression.md)
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (75)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (441)](database-datastore.md) · [Datetime (105)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
-[Embedded Hardware (40)](embedded-hardware.md) · [Ffi Bindings (327)](ffi-bindings.md) · [Filesystem Os (784)](filesystem-os.md) · [Formatter (450)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (40)](fuzzer.md) · [Game Engine Game Dev (109)](game-engine-game-dev.md) · [Ide Editor Integration (860)](ide-editor-integration.md)
-[Image Audio Dsp (186)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (162)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (24)](language-server.md) · [Language Specification (843)](language-specification.md) · [Library (3399)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (336)](linter.md) · [Logging Observability (265)](logging-observability.md) · [Machine Learning (393)](machine-learning.md)
-[Math Numeric Scientific (71)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (700)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (206)](package-manager.md) · [Parser Lexer Ast (613)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
-[Profiler (58)](profiler.md) · **[Project Scaffolding (91)](project-scaffolding.md)** · [Registry Repository (105)](registry-repository.md) · [Sanitizer (9)](sanitizer.md)
-[Security Sast (270)](security-sast.md) · [Serialization (282)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (297)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (43)](tutorial-book-styleguide.md) · [Type Checker (271)](type-checker.md)
-[Undefined Behavior Analyzer (1203)](undefined-behavior-analyzer.md) · [Utility Library (82)](utility-library.md) · [Visualization Gui (284)](visualization-gui.md) · [Web Framework (307)](web-framework.md)
+[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (36)](assertion-mocking.md) · [Async Runtime (111)](async-runtime.md)
+[Benchmarking (90)](benchmarking.md) · [Build System (697)](build-system.md) · [Cli (474)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (78)](community-reference.md) · [Compiler (143)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (67)](concurrency-parallelism.md) · [Configuration (92)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (150)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (514)](database-datastore.md) · [Datetime (130)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (37)](debugger.md) · [Dependency Manager (70)](dependency-manager.md) · [Documentation (71)](documentation.md)
+[Embedded Hardware (41)](embedded-hardware.md) · [Ffi Bindings (356)](ffi-bindings.md) · [Filesystem Os (1015)](filesystem-os.md) · [Formatter (496)](formatter.md)
+[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (129)](game-engine-game-dev.md) · [Ide Editor Integration (965)](ide-editor-integration.md)
+[Image Audio Dsp (198)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (188)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1042)](language-specification.md) · [Library (4510)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (339)](linter.md) · [Logging Observability (306)](logging-observability.md) · [Machine Learning (519)](machine-learning.md)
+[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (69)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (802)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (234)](package-manager.md) · [Parser Lexer Ast (793)](parser-lexer-ast.md) · [Precommit Ci Quality (222)](precommit-ci-quality.md)
+[Profiler (64)](profiler.md) · **[Project Scaffolding (97)](project-scaffolding.md)** · [Registry Repository (107)](registry-repository.md) · [Sanitizer (10)](sanitizer.md)
+[Security Sast (282)](security-sast.md) · [Serialization (312)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (385)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (471)](testing-framework.md) · [Tutorial Book Styleguide (50)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1280)](undefined-behavior-analyzer.md) · [Utility Library (88)](utility-library.md) · [Visualization Gui (369)](visualization-gui.md) · [Web Framework (320)](web-framework.md)
 
 ## C++23
 
@@ -118,7 +118,10 @@ Records: `91`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| doctemplates | 0.11.0.1 | 2024-09-09T06:25:57Z | [open](../records/haskell-doctemplates-f7e65971.md) |
+| HStringTemplate | 0.8.8 | 2021-08-12T20:28:23Z | [open](../records/haskell-hstringtemplate-2f85c203.md) |
 | persistent-template | 2.12.0.0 | 2021-03-30T13:46:52Z | [open](../records/haskell-persistent-template-b0d3fdfa.md) |
+| template-haskell | 2.24.0.0 | 2025-12-19T11:53:31Z | [open](../records/haskell-template-haskell-105ba04a.md) |
 
 ## C-Sharp
 
@@ -149,13 +152,14 @@ Records: `91`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| jet/dotnet-templates | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-jet-dotnet-templates-2a5cfd3a.md) |
+| jet/dotnet-templates | partial | 2026-04-08T13:35:27Z | [open](../records/space-engines-jet-dotnet-templates-2a5cfd3a.md) |
 
 ## Effects
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | egorshest/webgl-ascii-hero | unknown | github_latest_release_missing | [open](../records/effects-egorshest-webgl-ascii-hero-396764a5.md) |
+| ektogamat/r3f-webgpu-starter | partial | 2025-06-24T13:23:36Z | [open](../records/effects-ektogamat-r3f-webgpu-starter-019b1d3e.md) |
 
 ## Video
 
@@ -214,6 +218,12 @@ Records: `91`
 | Swift Module Template | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-swift-module-template-48451d3a.md) |
 | SwiftGen/SwiftGen | unknown | github_search_does_not_include_release_date | [open](../records/swift-swiftgen-swiftgen-7cc10ec0.md) |
 
+## Cocoa
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| Brightify/Cuckoo | partial | 2026-07-29T19:48:26Z | [open](../records/cocoa-brightify-cuckoo-e63a8184.md) |
+
 ## Databases
 
 | Name | Release | Date | Page |
@@ -226,3 +236,4 @@ Records: `91`
 | --- | --- | --- | --- |
 | gitlab-examples/kubernetes-example | partial | 2026-01-07T14:56:26.381Z | [open](../records/repository-workplaces-gitlab-examples-kubernetes-example-eea47aba.md) |
 | to-be-continuous/kubernetes | partial | 2026-08-20T12:36:01.091Z | [open](../records/repository-workplaces-to-be-continuous-kubernetes-45c37bdd.md) |
+| to-be-continuous/mobsf | partial | 2026-07-28T15:25:37.317Z | [open](../records/repository-workplaces-to-be-continuous-mobsf-692d3965.md) |

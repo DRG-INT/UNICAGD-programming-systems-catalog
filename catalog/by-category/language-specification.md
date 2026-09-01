@@ -1,6 +1,6 @@
 # Language Specification
 
-Records: `843`
+Records: `1042`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `843`
 
 ## Category Index
 
-[Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
-[Benchmarking (75)](benchmarking.md) · [Build System (596)](build-system.md) · [Cli (453)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (37)](compression.md)
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (75)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (441)](database-datastore.md) · [Datetime (105)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
-[Embedded Hardware (40)](embedded-hardware.md) · [Ffi Bindings (327)](ffi-bindings.md) · [Filesystem Os (784)](filesystem-os.md) · [Formatter (450)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (40)](fuzzer.md) · [Game Engine Game Dev (109)](game-engine-game-dev.md) · [Ide Editor Integration (860)](ide-editor-integration.md)
-[Image Audio Dsp (186)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (162)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (24)](language-server.md) · **[Language Specification (843)](language-specification.md)** · [Library (3399)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (336)](linter.md) · [Logging Observability (265)](logging-observability.md) · [Machine Learning (393)](machine-learning.md)
-[Math Numeric Scientific (71)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (700)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (206)](package-manager.md) · [Parser Lexer Ast (613)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
-[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (9)](sanitizer.md)
-[Security Sast (270)](security-sast.md) · [Serialization (282)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (297)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (43)](tutorial-book-styleguide.md) · [Type Checker (271)](type-checker.md)
-[Undefined Behavior Analyzer (1203)](undefined-behavior-analyzer.md) · [Utility Library (82)](utility-library.md) · [Visualization Gui (284)](visualization-gui.md) · [Web Framework (307)](web-framework.md)
+[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (36)](assertion-mocking.md) · [Async Runtime (111)](async-runtime.md)
+[Benchmarking (90)](benchmarking.md) · [Build System (697)](build-system.md) · [Cli (474)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (78)](community-reference.md) · [Compiler (143)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (67)](concurrency-parallelism.md) · [Configuration (92)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (150)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (514)](database-datastore.md) · [Datetime (130)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (37)](debugger.md) · [Dependency Manager (70)](dependency-manager.md) · [Documentation (71)](documentation.md)
+[Embedded Hardware (41)](embedded-hardware.md) · [Ffi Bindings (356)](ffi-bindings.md) · [Filesystem Os (1015)](filesystem-os.md) · [Formatter (496)](formatter.md)
+[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (129)](game-engine-game-dev.md) · [Ide Editor Integration (965)](ide-editor-integration.md)
+[Image Audio Dsp (198)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (188)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (26)](language-server.md) · **[Language Specification (1042)](language-specification.md)** · [Library (4510)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (339)](linter.md) · [Logging Observability (306)](logging-observability.md) · [Machine Learning (519)](machine-learning.md)
+[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (69)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (802)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (234)](package-manager.md) · [Parser Lexer Ast (793)](parser-lexer-ast.md) · [Precommit Ci Quality (222)](precommit-ci-quality.md)
+[Profiler (64)](profiler.md) · [Project Scaffolding (97)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (10)](sanitizer.md)
+[Security Sast (282)](security-sast.md) · [Serialization (312)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (385)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (471)](testing-framework.md) · [Tutorial Book Styleguide (50)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1280)](undefined-behavior-analyzer.md) · [Utility Library (88)](utility-library.md) · [Visualization Gui (369)](visualization-gui.md) · [Web Framework (320)](web-framework.md)
 
 ## C99
 
@@ -313,8 +313,12 @@ Records: `843`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | baselinr | 0.6.0 | 2026-08-22 23:20:37 UTC | [open](../records/r-baselinr-8b5c759c.md) |
+| btw | 1.4.0 | 2026-08-05 06:10:03 UTC | [open](../records/r-btw-e6fa9ede.md) |
 | cdcanthro | 0.4.0 | 2026-08-31 15:20:03 UTC | [open](../records/r-cdcanthro-3041967b.md) |
 | csemTools | 0.2.1 | 2026-08-26 18:00:02 UTC | [open](../records/r-csemtools-c10814a5.md) |
+| DasGuptR | 2.2.0 | 2026-08-04 17:10:15 UTC | [open](../records/r-dasguptr-b4cca0fa.md) |
+| FESta | 1.0.2 | 2026-08-20 12:02:10 UTC | [open](../records/r-festa-8945089e.md) |
+| healthyAddress | 0.5.2 | 2026-08-21 06:00:18 UTC | [open](../records/r-healthyaddress-62235377.md) |
 | ipeaplot | 1.0.0 | 2026-08-31 17:00:22 UTC | [open](../records/r-ipeaplot-f3ce9d27.md) |
 | llamaR | 0.2.6 | 2026-08-27 12:00:09 UTC | [open](../records/r-llamar-6bb0a48d.md) |
 | LLMing | 1.3.0 | 2026-08-27 02:30:02 UTC | [open](../records/r-llming-d2c0b725.md) |
@@ -323,160 +327,200 @@ Records: `843`
 | rtiktoken | 0.11.0.3 | 2026-08-31 18:40:02 UTC | [open](../records/r-rtiktoken-9226ef4a.md) |
 | sylly.en | 0.1-4 | 2026-08-31 19:30:27 UTC | [open](../records/r-sylly-en-707d70ea.md) |
 
+## Haskell
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| copilot-language | 4.8 | 2026-07-08T14:00:50Z | [open](../records/haskell-copilot-language-8b8dd8fc.md) |
+| language-ats | 1.7.10.3 | 2021-01-18T22:55:30Z | [open](../records/haskell-language-ats-602673bb.md) |
+| language-c | 0.10.2 | 2026-03-11T20:44:36Z | [open](../records/haskell-language-c-a79e97b2.md) |
+| language-c-quote | 0.13.0.2 | 2024-07-02T15:24:00Z | [open](../records/haskell-language-c-quote-f44b2168.md) |
+| language-dickinson | 1.4.3.1 | 2024-05-29T03:39:07Z | [open](../records/haskell-language-dickinson-c9be602f.md) |
+| language-docker | 16.0.0 | 2026-07-29T13:38:56Z | [open](../records/haskell-language-docker-44c5293b.md) |
+| language-ecmascript | 0.19.1.0 | 2020-03-26T18:51:42Z | [open](../records/haskell-language-ecmascript-952591f7.md) |
+| language-javascript | 0.7.1.0 | 2020-03-22T08:02:52Z | [open](../records/haskell-language-javascript-4e899615.md) |
+| language-puppet | 1.5.1 | 2023-11-07T14:32:35Z | [open](../records/haskell-language-puppet-3160eb77.md) |
+| ogma-language-smv | 1.15.0 | 2026-07-22T17:51:04Z | [open](../records/haskell-ogma-language-smv-db627260.md) |
+| phonetic-languages-simplified-examples-array | 0.21.0.0 | 2022-09-13T19:37:53Z | [open](../records/haskell-phonetic-languages-simplified-examples-array-87845a00.md) |
+| shake-language-c | 0.12.0 | 2018-03-14T21:34:10Z | [open](../records/haskell-shake-language-c-1a893a50.md) |
+| yi-language | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yi-language-defafb2d.md) |
+
 ## Matlab
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AaronJackson/vrn | unknown | github_latest_release_missing | [open](../records/matlab-aaronjackson-vrn-36ac2340.md) |
-| acerbilab/bads | v1.1.3 | 2025-12-05T17:27:27Z | [open](../records/matlab-acerbilab-bads-bf0e61b1.md) |
-| acerbilab/vbmc | v1.0.12 | 2022-10-26T15:57:14Z | [open](../records/matlab-acerbilab-vbmc-a3ee0038.md) |
-| adnanmunawar/matlab-rrt-variants | unknown | github_latest_release_missing | [open](../records/matlab-adnanmunawar-matlab-rrt-variants-21140151.md) |
-| ai-winter/matlab_motion_planning | unknown | github_latest_release_missing | [open](../records/matlab-ai-winter-matlab-motion-planning-d5486b2c.md) |
-| albanie/convnet-burden | unknown | github_latest_release_missing | [open](../records/matlab-albanie-convnet-burden-4d5bb07a.md) |
-| alecjacobson/gptoolbox | unknown | github_latest_release_missing | [open](../records/matlab-alecjacobson-gptoolbox-ad516582.md) |
-| AlfredXiangWu/face_verification_experiment | unknown | github_latest_release_missing | [open](../records/matlab-alfredxiangwu-face-verification-experiment-5bc415b2.md) |
-| AlterWL/Battery_SOC_Estimation | unknown | github_latest_release_missing | [open](../records/matlab-alterwl-battery-soc-estimation-f6de4864.md) |
-| altmany/export_fig | v3.58 | 2026-08-13T13:43:22Z | [open](../records/matlab-altmany-export-fig-03c1144c.md) |
-| andrewssobral/lrslibrary | unknown | github_latest_release_missing | [open](../records/matlab-andrewssobral-lrslibrary-51e8c5ff.md) |
-| anilbas/3DMMasSTN | unknown | github_latest_release_missing | [open](../records/matlab-anilbas-3dmmasstn-e4f6319a.md) |
-| atinesh/Coursera-Machine-Learning-Stanford | unknown | github_latest_release_missing | [open](../records/matlab-atinesh-coursera-machine-learning-stanford-a3a13c5f.md) |
-| AtsushiSakai/MATLABRobotics | unknown | github_latest_release_missing | [open](../records/matlab-atsushisakai-matlabrobotics-cab1482c.md) |
-| Ayatans/Machine-Learning-homework | unknown | github_latest_release_missing | [open](../records/matlab-ayatans-machine-learning-homework-1bc0f670.md) |
-| banterle/HDR_Toolbox | unknown | github_latest_release_missing | [open](../records/matlab-banterle-hdr-toolbox-ce0c6ca0.md) |
-| bcmi/Image-Harmonization-Dataset-iHarmony4 | unknown | github_latest_release_missing | [open](../records/matlab-bcmi-image-harmonization-dataset-iharmony4-c3d10552.md) |
-| benfulcher/hctsa | v2.0.0 | 2026-08-04T06:50:21Z | [open](../records/matlab-benfulcher-hctsa-738269ba.md) |
-| bertinetto/siamese-fc | unknown | github_latest_release_missing | [open](../records/matlab-bertinetto-siamese-fc-9cb2a67f.md) |
-| BIMK/PlatEMO | v4.16 | 2026-07-19T11:20:24Z | [open](../records/matlab-bimk-platemo-b623ff0a.md) |
-| Borye/machine-learning-coursera-1 | unknown | github_latest_release_missing | [open](../records/matlab-borye-machine-learning-coursera-1-3560aed1.md) |
-| brainstorm-tools/brainstorm3 | 3.260601 | 2026-06-04T02:01:15Z | [open](../records/matlab-brainstorm-tools-brainstorm3-8639963d.md) |
-| brendenlake/BPL | unknown | github_latest_release_missing | [open](../records/matlab-brendenlake-bpl-909abb72.md) |
-| brendenlake/omniglot | unknown | github_latest_release_missing | [open](../records/matlab-brendenlake-omniglot-d8bafdf7.md) |
-| callmekeyboardman/Machine-Learning-Andrew-Ng | unknown | github_latest_release_missing | [open](../records/matlab-callmekeyboardman-machine-learning-andrew-ng-b8bd679f.md) |
-| CERN/TIGRE | v3.1.3 | 2026-03-06T14:06:38Z | [open](../records/matlab-cern-tigre-7c6bed86.md) |
-| chebfun/chebfun | v5.7.0 | 2017-06-02T09:35:42Z | [open](../records/matlab-chebfun-chebfun-4915fd94.md) |
-| cs-chan/Exclusively-Dark-Image-Dataset | unknown | github_latest_release_missing | [open](../records/matlab-cs-chan-exclusively-dark-image-dataset-f960e563.md) |
-| cs-chan/Total-Text-Dataset | unknown | github_latest_release_missing | [open](../records/matlab-cs-chan-total-text-dataset-1d6512f1.md) |
-| cszn/DnCNN | unknown | github_latest_release_missing | [open](../records/matlab-cszn-dncnn-bd37bbd1.md) |
-| cszn/FFDNet | unknown | github_latest_release_missing | [open](../records/matlab-cszn-ffdnet-d593a20d.md) |
-| cszn/IRCNN | unknown | github_latest_release_missing | [open](../records/matlab-cszn-ircnn-5ce92007.md) |
-| cszn/SRMD | unknown | github_latest_release_missing | [open](../records/matlab-cszn-srmd-1e37a165.md) |
-| cybergalactic/MSS | unknown | github_latest_release_missing | [open](../records/matlab-cybergalactic-mss-a9aab0e3.md) |
-| cycleuser/Stanford-CS-229 | unknown | github_latest_release_missing | [open](../records/matlab-cycleuser-stanford-cs-229-ac92424c.md) |
-| daijifeng001/R-FCN | unknown | github_latest_release_missing | [open](../records/matlab-daijifeng001-r-fcn-0144dda6.md) |
-| davidvarga/MBeautifier | v1.4.0 | 2025-04-17T09:40:43Z | [open](../records/matlab-davidvarga-mbeautifier-5504e7cb.md) |
-| denkywu/SAR-Synthetic-Aperture-Radar | unknown | github_latest_release_missing | [open](../records/matlab-denkywu-sar-synthetic-aperture-radar-e2231d51.md) |
-| dick20/MCM-ICM | unknown | github_latest_release_missing | [open](../records/matlab-dick20-mcm-icm-74db1c83.md) |
-| dlaptev/RobustPCA | unknown | github_latest_release_missing | [open](../records/matlab-dlaptev-robustpca-7b54e98e.md) |
-| DrCoffey/DeepSqueak | v3.1 | 2025-02-19T00:51:46Z | [open](../records/matlab-drcoffey-deepsqueak-fe8b6f20.md) |
-| ecmadao/Coding-Guide | unknown | github_latest_release_missing | [open](../records/matlab-ecmadao-coding-guide-f47d3d95.md) |
-| Ewenwan/Mathematics | unknown | github_latest_release_missing | [open](../records/matlab-ewenwan-mathematics-14aba0bf.md) |
-| fangq/iso2mesh | v1.9.8 | 2024-10-23T14:11:20Z | [open](../records/matlab-fangq-iso2mesh-3398b7c9.md) |
-| fieldtrip/fieldtrip | 20251218 | 2026-01-08T13:00:55Z | [open](../records/matlab-fieldtrip-fieldtrip-c82e0344.md) |
-| Firmament-Autopilot/FMT-Model | v1.0.0 | 2024-02-08T09:32:13Z | [open](../records/matlab-firmament-autopilot-fmt-model-e34acb3b.md) |
-| flatironinstitute/CaImAn-MATLAB | v0.7 | 2018-05-08T16:00:46Z | [open](../records/matlab-flatironinstitute-caiman-matlab-f1d3a116.md) |
-| gibbonCode/GIBBON | v3.5.0 | 2019-05-30T10:08:13Z | [open](../records/matlab-gibboncode-gibbon-ac6594e9.md) |
-| googollee/eviltransform | unknown | github_latest_release_missing | [open](../records/matlab-googollee-eviltransform-da18ece5.md) |
-| guosheng/refinenet | unknown | github_latest_release_missing | [open](../records/matlab-guosheng-refinenet-7dd39f0c.md) |
-| HiroIshida/robust-tube-mpc | unknown | github_latest_release_missing | [open](../records/matlab-hiroishida-robust-tube-mpc-ca2d06d5.md) |
-| hiroyuki-kasai/SGDLibrary | unknown | github_latest_release_missing | [open](../records/matlab-hiroyuki-kasai-sgdlibrary-7c5d9df8.md) |
-| hszhao/ICNet | unknown | github_latest_release_missing | [open](../records/matlab-hszhao-icnet-0937526f.md) |
-| HuangCongQing/Algorithms_MathModels | unknown | github_latest_release_missing | [open](../records/matlab-huangcongqing-algorithms-mathmodels-17eaa071.md) |
-| HybridRobotics/CBF-CLF-Helper | unknown | github_latest_release_missing | [open](../records/matlab-hybridrobotics-cbf-clf-helper-9caed180.md) |
-| HybridRobotics/NMPC-DCLF-DCBF | unknown | github_latest_release_missing | [open](../records/matlab-hybridrobotics-nmpc-dclf-dcbf-2bb7179e.md) |
-| jbhuang0604/SelfExSR | unknown | github_latest_release_missing | [open](../records/matlab-jbhuang0604-selfexsr-4831bbf1.md) |
-| jindongwang/activityrecognition | unknown | github_latest_release_missing | [open](../records/matlab-jindongwang-activityrecognition-f331c65f.md) |
-| jtkim-kaist/VAD | unknown | github_latest_release_missing | [open](../records/matlab-jtkim-kaist-vad-91b1919c.md) |
-| kpzhang93/MTCNN_face_detection_alignment | unknown | github_latest_release_missing | [open](../records/matlab-kpzhang93-mtcnn-face-detection-alignment-586be06a.md) |
-| ktekeli/audio-steganography-algorithms | unknown | github_latest_release_missing | [open](../records/matlab-ktekeli-audio-steganography-algorithms-59a5ea02.md) |
-| kyamagu/mexopencv | v3.4.1 | 2018-10-08T12:42:09Z | [open](../records/matlab-kyamagu-mexopencv-201dfc1f.md) |
-| layumi/Image-Text-Embedding | unknown | github_latest_release_missing | [open](../records/matlab-layumi-image-text-embedding-7ecad011.md) |
-| Linfeng-Tang/Image-Fusion | unknown | github_latest_release_missing | [open](../records/matlab-linfeng-tang-image-fusion-8beb660a.md) |
-| Lisandro79/BeatTheBookie | unknown | github_latest_release_missing | [open](../records/matlab-lisandro79-beatthebookie-a9ed323c.md) |
-| luanfujun/deep-photo-styletransfer | unknown | github_latest_release_missing | [open](../records/matlab-luanfujun-deep-photo-styletransfer-635a29ea.md) |
-| LyricYang/MIMO_OFDM | unknown | github_latest_release_missing | [open](../records/matlab-lyricyang-mimo-ofdm-e01bbb58.md) |
-| mahmoudnafifi/Exposure_Correction | unknown | github_latest_release_missing | [open](../records/matlab-mahmoudnafifi-exposure-correction-5fc16b8a.md) |
-| martin-danelljan/ECO | v1.0 | 2017-06-02T12:30:25Z | [open](../records/matlab-martin-danelljan-eco-f7ff0b42.md) |
-| MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning | unknown | github_latest_release_missing | [open](../records/matlab-mathfoundationrl-book-mathematical-foundation-of-reinforcement-learning-34855485.md) |
-| mathworks/awesome-matlab-students | V1.4 | 2024-01-26T18:42:24Z | [open](../records/matlab-mathworks-awesome-matlab-students-5d111c82.md) |
-| matlab-deep-learning/llms-with-matlab | v4.9.0 | 2026-04-15T17:22:57Z | [open](../records/matlab-matlab-deep-learning-llms-with-matlab-206936ca.md) |
-| matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub | 1.0.3 | 2024-03-27T21:08:39Z | [open](../records/matlab-matlab-deep-learning-matlab-deep-learning-model-hub-4365bfd4.md) |
-| matlab-deep-learning/transformer-models | R2023a | 2023-07-25T09:04:48Z | [open](../records/matlab-matlab-deep-learning-transformer-models-33203684.md) |
-| matlab/matlab-agentic-toolkit | 2026.08.27 | 2026-08-27T15:36:03Z | [open](../records/matlab-matlab-matlab-agentic-toolkit-29d3949c.md) |
-| matlab2tikz/matlab2tikz | v1.1.0 | 2016-10-20T20:30:54Z | [open](../records/matlab-matlab2tikz-matlab2tikz-842ae780.md) |
-| MATPOWER/matpower | 8.1 | 2025-07-13T02:31:28Z | [open](../records/matlab-matpower-matpower-c0501830.md) |
-| MatthewPeterKelly/OptimTraj | v1.7 | 2022-12-13T00:55:00Z | [open](../records/matlab-matthewpeterkelly-optimtraj-885f9771.md) |
-| mattools/matGeom | v1.2.9 | 2026-02-19T13:50:36Z | [open](../records/matlab-mattools-matgeom-cdf5fe92.md) |
-| morriswmz/doa-tools | unknown | github_latest_release_missing | [open](../records/matlab-morriswmz-doa-tools-1d8c8495.md) |
-| mtex-toolbox/mtex | mtex-7.0.0 | 2026-08-17T17:58:14Z | [open](../records/matlab-mtex-toolbox-mtex-c19e6fb8.md) |
-| nanahou/Awesome-Speech-Enhancement | unknown | github_latest_release_missing | [open](../records/matlab-nanahou-awesome-speech-enhancement-bba57755.md) |
-| NerdsWithAttitudes/WarpFactory | unknown | github_latest_release_missing | [open](../records/matlab-nerdswithattitudes-warpfactory-c9f05d2d.md) |
-| NeuroJSON/jsonlab | v2.9.8 | 2024-03-28T20:19:31Z | [open](../records/matlab-neurojson-jsonlab-36111c60.md) |
-| olzhas/rrt_toolbox | v0.0.6 | 2021-03-11T19:19:43Z | [open](../records/matlab-olzhas-rrt-toolbox-b502a12a.md) |
-| ori-mrg/robotcar-dataset-sdk | 3.1 | 2020-02-24T11:07:01Z | [open](../records/matlab-ori-mrg-robotcar-dataset-sdk-30bb9ec0.md) |
-| ox-vgg/vgg_face2 | unknown | github_latest_release_missing | [open](../records/matlab-ox-vgg-vgg-face2-8f879ce5.md) |
-| panditanvita/BTCpredictor | unknown | github_latest_release_missing | [open](../records/matlab-panditanvita-btcpredictor-daf6fdab.md) |
-| pdollar/edges | unknown | github_latest_release_missing | [open](../records/matlab-pdollar-edges-d0f7e5a4.md) |
-| pdollar/toolbox | unknown | github_latest_release_missing | [open](../records/matlab-pdollar-toolbox-c83deaf9.md) |
-| peijin94/matlabPlotCheatsheet | unknown | github_latest_release_missing | [open](../records/matlab-peijin94-matlabplotcheatsheet-9d158c73.md) |
-| peiyunh/tiny | unknown | github_latest_release_missing | [open](../records/matlab-peiyunh-tiny-c13d715f.md) |
-| personqianduixue/Math_Model | unknown | github_latest_release_missing | [open](../records/matlab-personqianduixue-math-model-250fbaeb.md) |
-| petercorke/machinevision-toolbox-matlab | unknown | github_latest_release_missing | [open](../records/matlab-petercorke-machinevision-toolbox-matlab-ed766165.md) |
-| petercorke/robotics-toolbox-matlab | untagged-72f2b675dacf28a1f078 | 2020-09-24T23:40:17Z | [open](../records/matlab-petercorke-robotics-toolbox-matlab-fe212443.md) |
-| plotly/plotly_matlab | 3.1.0 | 2026-08-07T14:27:46Z | [open](../records/matlab-plotly-plotly-matlab-b18b4f4e.md) |
-| posenhuang/deeplearningsourceseparation | v1.0 | 2020-11-26T10:07:54Z | [open](../records/matlab-posenhuang-deeplearningsourceseparation-e7362cf3.md) |
-| precise-simulation/featool-multiphysics | 1.18.1 | 2026-07-15T01:28:59Z | [open](../records/matlab-precise-simulation-featool-multiphysics-fb15a608.md) |
-| PRML/PRMLT | v2.2 | 2020-01-04T10:56:13Z | [open](../records/matlab-prml-prmlt-a210c59e.md) |
-| quguai/Smart-Algorithm | unknown | github_latest_release_missing | [open](../records/matlab-quguai-smart-algorithm-80d85df2.md) |
-| rasmusbergpalm/DeepLearnToolbox | unknown | github_latest_release_missing | [open](../records/matlab-rasmusbergpalm-deeplearntoolbox-77fdfbd8.md) |
-| ravenxrz/Mathematical-Modeling | unknown | github_latest_release_missing | [open](../records/matlab-ravenxrz-mathematical-modeling-a172a668.md) |
-| rbgirshick/rcnn | CVPR14 | 2014-05-23T18:05:15Z | [open](../records/matlab-rbgirshick-rcnn-019228f7.md) |
-| rbgirshick/voc-dpm | unknown | github_latest_release_missing | [open](../records/matlab-rbgirshick-voc-dpm-e38c983e.md) |
-| Relja/netvlad | v1.03 | 2016-03-04T17:15:19Z | [open](../records/matlab-relja-netvlad-82b8944c.md) |
-| rodralez/NaveGo | v1.4 | 2022-05-15T03:16:06Z | [open](../records/matlab-rodralez-navego-f33ae190.md) |
-| rpng/kalibr_allan | unknown | github_latest_release_missing | [open](../records/matlab-rpng-kalibr-allan-f0b0c05c.md) |
-| sccn/eeglab | unknown | github_latest_release_missing | [open](../records/matlab-sccn-eeglab-a9eb4cad.md) |
-| schneems/Octave | unknown | github_latest_release_missing | [open](../records/matlab-schneems-octave-ad3f7bee.md) |
-| SciML/SciMLBenchmarks.jl | v0.2.0 | 2026-08-27T21:43:14Z | [open](../records/matlab-sciml-scimlbenchmarks-jl-e7766b64.md) |
-| scottclowe/matlab-schemer | unknown | github_latest_release_missing | [open](../records/matlab-scottclowe-matlab-schemer-3f456174.md) |
-| scruel/Notes-ML-AndrewNg | unknown | github_latest_release_missing | [open](../records/matlab-scruel-notes-ml-andrewng-797cd94e.md) |
-| shahroudy/NTURGB-D | unknown | github_latest_release_missing | [open](../records/matlab-shahroudy-nturgb-d-b9d8f894.md) |
-| ShaoqingRen/faster_rcnn | unknown | github_latest_release_missing | [open](../records/matlab-shaoqingren-faster-rcnn-47ee65ff.md) |
-| shenshikexmu/IMUCalibration-Gesture | unknown | github_latest_release_missing | [open](../records/matlab-shenshikexmu-imucalibration-gesture-2e8dcb50.md) |
-| Shuai-Xie/genetic-algorithm | unknown | github_latest_release_missing | [open](../records/matlab-shuai-xie-genetic-algorithm-f7cb8aee.md) |
-| SPIRIT-org/SPIRIT | unknown | github_latest_release_missing | [open](../records/matlab-spirit-org-spirit-85199c7a.md) |
-| spm/spm | 25.01.02 | 2025-01-23T13:30:15Z | [open](../records/matlab-spm-spm-26c6d9ba.md) |
-| star2dust/paper-simulation | unknown | github_latest_release_missing | [open](../records/matlab-star2dust-paper-simulation-9ae3627c.md) |
-| TadasBaltrusaitis/OpenFace | OpenFace_2.2.0 | 2019-07-13T18:23:41Z | [open](../records/matlab-tadasbaltrusaitis-openface-c146853e.md) |
-| TheAlgorithms/MATLAB-Octave | unknown | github_latest_release_missing | [open](../records/matlab-thealgorithms-matlab-octave-a6461576.md) |
-| ThomasYeoLab/CBIG | unknown | github_latest_release_missing | [open](../records/matlab-thomasyeolab-cbig-84626e81.md) |
-| Time9Y/Matlab-Machine | v1.0.0 | 2024-07-30T06:31:14Z | [open](../records/matlab-time9y-matlab-machine-faf92eb5.md) |
-| torrvision/crfasrnn | unknown | github_latest_release_missing | [open](../records/matlab-torrvision-crfasrnn-d754088d.md) |
-| toshiakit/MatGPT | 2.0.6 | 2024-07-02T22:47:07Z | [open](../records/matlab-toshiakit-matgpt-c3e7e593.md) |
-| trekhleb/machine-learning-octave | unknown | github_latest_release_missing | [open](../records/matlab-trekhleb-machine-learning-octave-3c6369fc.md) |
-| ucdavis/erplab | 13.00 | 2026-04-29T18:12:24Z | [open](../records/matlab-ucdavis-erplab-9a4c4944.md) |
-| VincentWong3/automated-driving-control | unknown | github_latest_release_missing | [open](../records/matlab-vincentwong3-automated-driving-control-a56b477a.md) |
-| VincentWong3/automatic-driving-decision-and-planning-for-matlab | unknown | github_latest_release_missing | [open](../records/matlab-vincentwong3-automatic-driving-decision-and-planning-for-matlab-2c99ad30.md) |
-| VipaiLab/Signals-and-Systems-course | unknown | github_latest_release_missing | [open](../records/matlab-vipailab-signals-and-systems-course-ac1e2668.md) |
-| vkosuri/CourseraMachineLearning | unknown | github_latest_release_missing | [open](../records/matlab-vkosuri-courseramachinelearning-5a3832c9.md) |
-| votchallenge/toolkit-legacy | unknown | github_latest_release_missing | [open](../records/matlab-votchallenge-toolkit-legacy-ced48ea9.md) |
-| willard-yuan/cnn-for-image-retrieval | unknown | github_latest_release_missing | [open](../records/matlab-willard-yuan-cnn-for-image-retrieval-8ee2e5c8.md) |
-| willard-yuan/hashing-baseline-for-image-retrieval | v2.1 | 2017-04-12T13:53:07Z | [open](../records/matlab-willard-yuan-hashing-baseline-for-image-retrieval-d84f4db3.md) |
-| xiaoli1368/Microphone-sound-source-localization | unknown | github_latest_release_missing | [open](../records/matlab-xiaoli1368-microphone-sound-source-localization-5aa810bd.md) |
-| xioTechnologies/Gait-Tracking-With-x-IMU | unknown | github_latest_release_missing | [open](../records/matlab-xiotechnologies-gait-tracking-with-x-imu-0e94ecc1.md) |
-| yalmip/YALMIP | R20250626_fix2 | 2025-06-26T12:32:51Z | [open](../records/matlab-yalmip-yalmip-5944a420.md) |
-| yandld/nav_matlab | unknown | github_latest_release_missing | [open](../records/matlab-yandld-nav-matlab-a0b7707a.md) |
-| yang69/MIMO-OFDM-Wireless-Communications-with-MATLAB | unknown | github_latest_release_missing | [open](../records/matlab-yang69-mimo-ofdm-wireless-communications-with-matlab-0b2948ae.md) |
-| YashBansod/Robotics-Planning-Dynamics-and-Control | unknown | github_latest_release_missing | [open](../records/matlab-yashbansod-robotics-planning-dynamics-and-control-fe7ab4ff.md) |
-| yechengxi/LightNet | unknown | github_latest_release_missing | [open](../records/matlab-yechengxi-lightnet-9b2da162.md) |
-| yrlu/quadrotor | quadrotor | 2022-07-05T03:57:51Z | [open](../records/matlab-yrlu-quadrotor-c3ebdf94.md) |
-| yuanhao-cui/Must-Reading-on-ISAC | unknown | github_latest_release_missing | [open](../records/matlab-yuanhao-cui-must-reading-on-isac-148066f5.md) |
-| zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning | unknown | github_latest_release_missing | [open](../records/matlab-zhaohaojie1998-grey-wolf-optimizer-for-path-planning-dcc05381.md) |
-| zhihongz/awesome-low-light-image-enhancement | unknown | github_latest_release_missing | [open](../records/matlab-zhihongz-awesome-low-light-image-enhancement-c67eef21.md) |
-| zhoubolei/CAM | unknown | github_latest_release_missing | [open](../records/matlab-zhoubolei-cam-649680a3.md) |
-| zhzhanp/TCDCN-face-alignment | unknown | github_latest_release_missing | [open](../records/matlab-zhzhanp-tcdcn-face-alignment-1694eccf.md) |
-| ZJULearning/MatlabFunc | unknown | github_latest_release_missing | [open](../records/matlab-zjulearning-matlabfunc-caef56f8.md) |
-| zk00006/OpenTLD | unknown | github_latest_release_missing | [open](../records/matlab-zk00006-opentld-5cdf3778.md) |
-| zuster/EconometricsResources | unknown | github_latest_release_missing | [open](../records/matlab-zuster-econometricsresources-2aea125e.md) |
+| AaronJackson/vrn | partial | 2022-07-26T00:06:01Z | [open](../records/matlab-aaronjackson-vrn-36ac2340.md) |
+| acerbilab/bads | partial | 2025-12-05T17:27:15Z | [open](../records/matlab-acerbilab-bads-bf0e61b1.md) |
+| acerbilab/vbmc | partial | 2023-05-03T11:17:08Z | [open](../records/matlab-acerbilab-vbmc-a3ee0038.md) |
+| adnanmunawar/matlab-rrt-variants | partial | 2020-03-30T22:33:37Z | [open](../records/matlab-adnanmunawar-matlab-rrt-variants-21140151.md) |
+| ai-winter/matlab_motion_planning | partial | 2025-04-03T09:05:56Z | [open](../records/matlab-ai-winter-matlab-motion-planning-d5486b2c.md) |
+| albanie/convnet-burden | partial | 2019-01-17T11:15:00Z | [open](../records/matlab-albanie-convnet-burden-4d5bb07a.md) |
+| alecjacobson/gptoolbox | partial | 2026-08-18T20:42:17Z | [open](../records/matlab-alecjacobson-gptoolbox-ad516582.md) |
+| AlfredXiangWu/face_verification_experiment | partial | 2017-02-10T09:19:33Z | [open](../records/matlab-alfredxiangwu-face-verification-experiment-5bc415b2.md) |
+| AlterWL/Battery_SOC_Estimation | partial | 2024-04-12T05:21:24Z | [open](../records/matlab-alterwl-battery-soc-estimation-f6de4864.md) |
+| altmany/export_fig | partial | 2026-08-14T10:42:00Z | [open](../records/matlab-altmany-export-fig-03c1144c.md) |
+| andrewssobral/lrslibrary | partial | 2025-11-22T15:13:28Z | [open](../records/matlab-andrewssobral-lrslibrary-51e8c5ff.md) |
+| anilbas/3DMMasSTN | partial | 2018-04-15T13:53:28Z | [open](../records/matlab-anilbas-3dmmasstn-e4f6319a.md) |
+| atinesh/Coursera-Machine-Learning-Stanford | partial | 2026-06-06T09:33:45Z | [open](../records/matlab-atinesh-coursera-machine-learning-stanford-a3a13c5f.md) |
+| AtsushiSakai/MATLABRobotics | partial | 2018-11-10T23:36:18Z | [open](../records/matlab-atsushisakai-matlabrobotics-cab1482c.md) |
+| Ayatans/Machine-Learning-homework | partial | 2020-04-28T02:45:57Z | [open](../records/matlab-ayatans-machine-learning-homework-1bc0f670.md) |
+| banterle/HDR_Toolbox | partial | 2026-07-23T09:26:37Z | [open](../records/matlab-banterle-hdr-toolbox-ce0c6ca0.md) |
+| bcmi/Image-Harmonization-Dataset-iHarmony4 | partial | 2026-08-20T08:31:02Z | [open](../records/matlab-bcmi-image-harmonization-dataset-iharmony4-c3d10552.md) |
+| benfulcher/hctsa | partial | 2026-09-01T04:22:02Z | [open](../records/matlab-benfulcher-hctsa-738269ba.md) |
+| bertinetto/siamese-fc | partial | 2019-05-16T10:10:53Z | [open](../records/matlab-bertinetto-siamese-fc-9cb2a67f.md) |
+| BIMK/PlatEMO | partial | 2026-07-19T11:24:07Z | [open](../records/matlab-bimk-platemo-b623ff0a.md) |
+| Bobholamovic/ChangeDetectionToolbox | partial | 2021-02-24T11:02:46Z | [open](../records/matlab-bobholamovic-changedetectiontoolbox-62a06817.md) |
+| Borye/machine-learning-coursera-1 | partial | 2019-07-28T13:49:39Z | [open](../records/matlab-borye-machine-learning-coursera-1-3560aed1.md) |
+| brainstorm-tools/brainstorm3 | partial | 2026-08-25T01:11:06Z | [open](../records/matlab-brainstorm-tools-brainstorm3-8639963d.md) |
+| brendenlake/BPL | partial | 2015-12-28T20:48:56Z | [open](../records/matlab-brendenlake-bpl-909abb72.md) |
+| brendenlake/omniglot | partial | 2023-02-01T21:28:32Z | [open](../records/matlab-brendenlake-omniglot-d8bafdf7.md) |
+| callmekeyboardman/Machine-Learning-Andrew-Ng | partial | 2022-05-27T10:01:26Z | [open](../records/matlab-callmekeyboardman-machine-learning-andrew-ng-b8bd679f.md) |
+| canlab/CanlabCore | partial | 2026-08-05T13:41:45Z | [open](../records/matlab-canlab-canlabcore-cf8d4a67.md) |
+| CERN/TIGRE | partial | 2026-08-14T14:30:31Z | [open](../records/matlab-cern-tigre-7c6bed86.md) |
+| chebfun/chebfun | partial | 2026-06-23T16:12:49Z | [open](../records/matlab-chebfun-chebfun-4915fd94.md) |
+| chenjoya/Vehicle_Detection_Recognition | partial | 2022-06-06T09:31:11Z | [open](../records/matlab-chenjoya-vehicle-detection-recognition-89663468.md) |
+| clarkzinzow/Nonlinear-Optimization-Algorithms | partial | 2020-11-13T00:21:44Z | [open](../records/matlab-clarkzinzow-nonlinear-optimization-algorithms-56515550.md) |
+| cs-chan/Exclusively-Dark-Image-Dataset | partial | 2026-02-13T06:52:27Z | [open](../records/matlab-cs-chan-exclusively-dark-image-dataset-f960e563.md) |
+| cs-chan/Total-Text-Dataset | partial | 2026-08-06T06:16:29Z | [open](../records/matlab-cs-chan-total-text-dataset-1d6512f1.md) |
+| cszn/DnCNN | partial | 2021-10-09T22:04:36Z | [open](../records/matlab-cszn-dncnn-bd37bbd1.md) |
+| cszn/FFDNet | partial | 2021-10-09T22:05:04Z | [open](../records/matlab-cszn-ffdnet-d593a20d.md) |
+| cszn/IRCNN | partial | 2021-10-09T22:03:58Z | [open](../records/matlab-cszn-ircnn-5ce92007.md) |
+| cszn/SRMD | partial | 2021-10-09T22:05:35Z | [open](../records/matlab-cszn-srmd-1e37a165.md) |
+| cybergalactic/MSS | partial | 2026-08-27T12:36:13Z | [open](../records/matlab-cybergalactic-mss-a9aab0e3.md) |
+| cycleuser/Stanford-CS-229 | partial | 2022-03-01T05:11:19Z | [open](../records/matlab-cycleuser-stanford-cs-229-ac92424c.md) |
+| daijifeng001/R-FCN | partial | 2017-05-05T15:50:59Z | [open](../records/matlab-daijifeng001-r-fcn-0144dda6.md) |
+| davidvarga/MBeautifier | partial | 2025-04-17T09:40:43Z | [open](../records/matlab-davidvarga-mbeautifier-5504e7cb.md) |
+| denkywu/SAR-Synthetic-Aperture-Radar | partial | 2023-11-19T03:15:56Z | [open](../records/matlab-denkywu-sar-synthetic-aperture-radar-e2231d51.md) |
+| denkywu/Simulation-of-SAR-Imaging-Algorithm | partial | 2020-09-03T03:54:58Z | [open](../records/matlab-denkywu-simulation-of-sar-imaging-algorithm-b74c974f.md) |
+| dick20/MCM-ICM | partial | 2025-07-23T06:26:42Z | [open](../records/matlab-dick20-mcm-icm-74db1c83.md) |
+| dlaptev/RobustPCA | partial | 2018-02-21T12:51:43Z | [open](../records/matlab-dlaptev-robustpca-7b54e98e.md) |
+| DrCoffey/DeepSqueak | partial | 2026-04-08T23:15:08Z | [open](../records/matlab-drcoffey-deepsqueak-fe8b6f20.md) |
+| ecmadao/Coding-Guide | partial | 2022-07-12T04:03:24Z | [open](../records/matlab-ecmadao-coding-guide-f47d3d95.md) |
+| ethanhe42/panorama | partial | 2024-05-02T06:47:40Z | [open](../records/matlab-ethanhe42-panorama-59ee9d0a.md) |
+| Ewenwan/Mathematics | partial | 2020-09-12T02:38:03Z | [open](../records/matlab-ewenwan-mathematics-14aba0bf.md) |
+| fangq/iso2mesh | partial | 2026-08-30T20:30:23Z | [open](../records/matlab-fangq-iso2mesh-3398b7c9.md) |
+| fieldtrip/fieldtrip | partial | 2026-08-12T21:45:55Z | [open](../records/matlab-fieldtrip-fieldtrip-c82e0344.md) |
+| filipradenovic/cnnimageretrieval | partial | 2022-06-02T18:54:49Z | [open](../records/matlab-filipradenovic-cnnimageretrieval-4402bf85.md) |
+| Firmament-Autopilot/FMT-Model | partial | 2026-07-24T05:58:41Z | [open](../records/matlab-firmament-autopilot-fmt-model-e34acb3b.md) |
+| flatironinstitute/CaImAn-MATLAB | partial | 2023-07-04T01:09:30Z | [open](../records/matlab-flatironinstitute-caiman-matlab-f1d3a116.md) |
+| gibbonCode/GIBBON | partial | 2026-08-21T11:47:32Z | [open](../records/matlab-gibboncode-gibbon-ac6594e9.md) |
+| googollee/eviltransform | partial | 2024-01-15T01:44:21Z | [open](../records/matlab-googollee-eviltransform-da18ece5.md) |
+| grinsted/wavelet-coherence | partial | 2022-11-20T12:50:25Z | [open](../records/matlab-grinsted-wavelet-coherence-50efb1eb.md) |
+| Grootzz/GA-BP | partial | 2019-06-09T12:19:52Z | [open](../records/matlab-grootzz-ga-bp-4ff3da0f.md) |
+| guosheng/refinenet | partial | 2019-06-01T05:40:49Z | [open](../records/matlab-guosheng-refinenet-7dd39f0c.md) |
+| harishrithish7/Fall-Detection | partial | 2016-08-19T01:53:28Z | [open](../records/matlab-harishrithish7-fall-detection-c1937312.md) |
+| HiroIshida/robust-tube-mpc | partial | 2021-01-29T22:12:10Z | [open](../records/matlab-hiroishida-robust-tube-mpc-ca2d06d5.md) |
+| hiroyuki-kasai/SGDLibrary | partial | 2023-05-11T06:13:46Z | [open](../records/matlab-hiroyuki-kasai-sgdlibrary-7c5d9df8.md) |
+| hszhao/ICNet | partial | 2022-04-15T20:07:00Z | [open](../records/matlab-hszhao-icnet-0937526f.md) |
+| HuangCongQing/Algorithms_MathModels | partial | 2022-12-25T17:27:52Z | [open](../records/matlab-huangcongqing-algorithms-mathmodels-17eaa071.md) |
+| HybridRobotics/CBF-CLF-Helper | partial | 2024-06-30T23:09:51Z | [open](../records/matlab-hybridrobotics-cbf-clf-helper-9caed180.md) |
+| HybridRobotics/NMPC-DCLF-DCBF | partial | 2023-11-09T10:49:58Z | [open](../records/matlab-hybridrobotics-nmpc-dclf-dcbf-2bb7179e.md) |
+| ivaquero/book-control | partial | 2026-08-29T02:16:52Z | [open](../records/matlab-ivaquero-book-control-40e9e278.md) |
+| jbhuang0604/SelfExSR | partial | 2016-05-31T16:29:23Z | [open](../records/matlab-jbhuang0604-selfexsr-4831bbf1.md) |
+| jindongwang/activityrecognition | partial | 2019-08-20T05:46:37Z | [open](../records/matlab-jindongwang-activityrecognition-f331c65f.md) |
+| jtkim-kaist/VAD | partial | 2021-06-09T07:28:56Z | [open](../records/matlab-jtkim-kaist-vad-91b1919c.md) |
+| kpzhang93/MTCNN_face_detection_alignment | partial | 2022-10-11T07:35:47Z | [open](../records/matlab-kpzhang93-mtcnn-face-detection-alignment-586be06a.md) |
+| ktekeli/audio-steganography-algorithms | partial | 2023-11-07T11:06:31Z | [open](../records/matlab-ktekeli-audio-steganography-algorithms-59a5ea02.md) |
+| kyamagu/mexopencv | partial | 2020-10-23T01:25:05Z | [open](../records/matlab-kyamagu-mexopencv-201dfc1f.md) |
+| layumi/Image-Text-Embedding | partial | 2026-07-06T00:56:20Z | [open](../records/matlab-layumi-image-text-embedding-7ecad011.md) |
+| Linfeng-Tang/Image-Fusion | partial | 2026-08-05T02:21:06Z | [open](../records/matlab-linfeng-tang-image-fusion-8beb660a.md) |
+| Lisandro79/BeatTheBookie | partial | 2021-10-04T15:11:23Z | [open](../records/matlab-lisandro79-beatthebookie-a9ed323c.md) |
+| luanfujun/deep-photo-styletransfer | partial | 2021-08-02T01:07:44Z | [open](../records/matlab-luanfujun-deep-photo-styletransfer-635a29ea.md) |
+| LyricYang/MIMO_OFDM | partial | 2018-05-11T06:28:47Z | [open](../records/matlab-lyricyang-mimo-ofdm-e01bbb58.md) |
+| mahmoudnafifi/Exposure_Correction | partial | 2023-12-24T01:15:11Z | [open](../records/matlab-mahmoudnafifi-exposure-correction-5fc16b8a.md) |
+| martin-danelljan/ECO | partial | 2019-10-24T11:11:11Z | [open](../records/matlab-martin-danelljan-eco-f7ff0b42.md) |
+| MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning | partial | 2026-08-10T06:39:05Z | [open](../records/matlab-mathfoundationrl-book-mathematical-foundation-of-reinforcement-learning-34855485.md) |
+| mathworks/awesome-matlab-students | partial | 2026-08-25T12:30:23Z | [open](../records/matlab-mathworks-awesome-matlab-students-5d111c82.md) |
+| matlab-deep-learning/llms-with-matlab | partial | 2026-06-15T10:30:40Z | [open](../records/matlab-matlab-deep-learning-llms-with-matlab-206936ca.md) |
+| matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub | partial | 2026-04-22T16:25:38Z | [open](../records/matlab-matlab-deep-learning-matlab-deep-learning-model-hub-4365bfd4.md) |
+| matlab-deep-learning/reinforcement_learning_financial_trading | partial | 2026-02-13T08:51:45Z | [open](../records/matlab-matlab-deep-learning-reinforcement-learning-financial-trading-9b4c6e01.md) |
+| matlab-deep-learning/transformer-models | partial | 2023-09-19T15:43:50Z | [open](../records/matlab-matlab-deep-learning-transformer-models-33203684.md) |
+| matlab/matlab-agentic-toolkit | partial | 2026-08-27T15:34:48Z | [open](../records/matlab-matlab-matlab-agentic-toolkit-29d3949c.md) |
+| matlab2tikz/matlab2tikz | partial | 2026-05-31T18:16:01Z | [open](../records/matlab-matlab2tikz-matlab2tikz-842ae780.md) |
+| MATPOWER/matpower | partial | 2026-08-04T21:33:11Z | [open](../records/matlab-matpower-matpower-c0501830.md) |
+| MatthewPeterKelly/OptimTraj | partial | 2023-06-06T00:37:01Z | [open](../records/matlab-matthewpeterkelly-optimtraj-885f9771.md) |
+| mattools/matGeom | partial | 2026-07-20T09:06:44Z | [open](../records/matlab-mattools-matgeom-cdf5fe92.md) |
+| Mayankm96/Stereo-Odometry-SOFT | partial | 2018-11-23T17:37:38Z | [open](../records/matlab-mayankm96-stereo-odometry-soft-c49a2549.md) |
+| MeowLucian/SDR_Matlab_OFDM_802.11a | partial | 2018-04-07T01:23:52Z | [open](../records/matlab-meowlucian-sdr-matlab-ofdm-802-11a-5ed3430a.md) |
+| mohammadrezwankhan/matlab-simulink-energy-lab | partial | 2026-08-25T06:42:08Z | [open](../records/matlab-mohammadrezwankhan-matlab-simulink-energy-lab-1613dbf1.md) |
+| morriswmz/doa-tools | partial | 2018-11-07T20:47:45Z | [open](../records/matlab-morriswmz-doa-tools-1d8c8495.md) |
+| mtex-toolbox/mtex | partial | 2026-08-29T06:04:39Z | [open](../records/matlab-mtex-toolbox-mtex-c19e6fb8.md) |
+| nanahou/Awesome-Speech-Enhancement | partial | 2020-12-01T10:20:50Z | [open](../records/matlab-nanahou-awesome-speech-enhancement-bba57755.md) |
+| NerdsWithAttitudes/WarpFactory | partial | 2024-05-24T08:27:17Z | [open](../records/matlab-nerdswithattitudes-warpfactory-c9f05d2d.md) |
+| NeuroJSON/jsonlab | partial | 2026-08-30T17:11:32Z | [open](../records/matlab-neurojson-jsonlab-36111c60.md) |
+| olzhas/rrt_toolbox | partial | 2021-03-11T19:19:43Z | [open](../records/matlab-olzhas-rrt-toolbox-b502a12a.md) |
+| ori-mrg/robotcar-dataset-sdk | partial | 2022-02-25T14:24:48Z | [open](../records/matlab-ori-mrg-robotcar-dataset-sdk-30bb9ec0.md) |
+| ox-vgg/vgg_face2 | partial | 2020-02-18T15:30:05Z | [open](../records/matlab-ox-vgg-vgg-face2-8f879ce5.md) |
+| panditanvita/BTCpredictor | partial | 2018-01-07T04:40:22Z | [open](../records/matlab-panditanvita-btcpredictor-daf6fdab.md) |
+| pdollar/edges | partial | 2019-12-02T22:40:33Z | [open](../records/matlab-pdollar-edges-d0f7e5a4.md) |
+| pdollar/toolbox | partial | 2019-05-06T18:46:16Z | [open](../records/matlab-pdollar-toolbox-c83deaf9.md) |
+| peijin94/matlabPlotCheatsheet | partial | 2023-11-11T08:40:10Z | [open](../records/matlab-peijin94-matlabplotcheatsheet-9d158c73.md) |
+| peiyunh/tiny | partial | 2020-03-21T02:04:30Z | [open](../records/matlab-peiyunh-tiny-c13d715f.md) |
+| personqianduixue/Math_Model | partial | 2023-12-01T04:43:53Z | [open](../records/matlab-personqianduixue-math-model-250fbaeb.md) |
+| petercorke/machinevision-toolbox-matlab | partial | 2019-08-13T00:52:18Z | [open](../records/matlab-petercorke-machinevision-toolbox-matlab-ed766165.md) |
+| petercorke/robotics-toolbox-matlab | partial | 2023-01-01T21:23:11Z | [open](../records/matlab-petercorke-robotics-toolbox-matlab-fe212443.md) |
+| plotly/plotly_matlab | partial | 2026-09-01T09:27:12Z | [open](../records/matlab-plotly-plotly-matlab-b18b4f4e.md) |
+| posenhuang/deeplearningsourceseparation | partial | 2021-07-21T20:11:27Z | [open](../records/matlab-posenhuang-deeplearningsourceseparation-e7362cf3.md) |
+| precise-simulation/featool-multiphysics | partial | 2026-07-15T05:10:51Z | [open](../records/matlab-precise-simulation-featool-multiphysics-fb15a608.md) |
+| PRML/PRMLT | partial | 2020-03-04T13:50:30Z | [open](../records/matlab-prml-prmlt-a210c59e.md) |
+| quguai/Smart-Algorithm | partial | 2020-05-10T13:43:07Z | [open](../records/matlab-quguai-smart-algorithm-80d85df2.md) |
+| raacampbell/shadedErrorBar | partial | 2024-06-13T16:05:35Z | [open](../records/matlab-raacampbell-shadederrorbar-069a2304.md) |
+| rasmusbergpalm/DeepLearnToolbox | partial | 2018-10-13T18:08:01Z | [open](../records/matlab-rasmusbergpalm-deeplearntoolbox-77fdfbd8.md) |
+| ravenxrz/Mathematical-Modeling | partial | 2019-07-17T09:25:30Z | [open](../records/matlab-ravenxrz-mathematical-modeling-a172a668.md) |
+| rbgirshick/rcnn | partial | 2017-04-03T16:16:14Z | [open](../records/matlab-rbgirshick-rcnn-019228f7.md) |
+| rbgirshick/voc-dpm | partial | 2017-04-03T16:06:41Z | [open](../records/matlab-rbgirshick-voc-dpm-e38c983e.md) |
+| Relja/netvlad | partial | 2017-07-22T17:41:15Z | [open](../records/matlab-relja-netvlad-82b8944c.md) |
+| rodralez/NaveGo | partial | 2024-02-24T15:09:52Z | [open](../records/matlab-rodralez-navego-f33ae190.md) |
+| rpng/kalibr_allan | partial | 2020-06-21T16:54:04Z | [open](../records/matlab-rpng-kalibr-allan-f0b0c05c.md) |
+| sccn/eeglab | partial | 2026-07-22T15:49:49Z | [open](../records/matlab-sccn-eeglab-a9eb4cad.md) |
+| schneems/Octave | partial | 2021-07-02T19:34:38Z | [open](../records/matlab-schneems-octave-ad3f7bee.md) |
+| SciML/SciMLBenchmarks.jl | partial | 2026-08-31T21:07:18Z | [open](../records/matlab-sciml-scimlbenchmarks-jl-e7766b64.md) |
+| scottclowe/matlab-schemer | partial | 2023-12-13T03:58:36Z | [open](../records/matlab-scottclowe-matlab-schemer-3f456174.md) |
+| scruel/Notes-ML-AndrewNg | partial | 2024-03-18T09:18:48Z | [open](../records/matlab-scruel-notes-ml-andrewng-797cd94e.md) |
+| shahroudy/NTURGB-D | partial | 2022-02-18T07:49:02Z | [open](../records/matlab-shahroudy-nturgb-d-b9d8f894.md) |
+| ShaoqingRen/faster_rcnn | partial | 2018-07-26T04:26:32Z | [open](../records/matlab-shaoqingren-faster-rcnn-47ee65ff.md) |
+| shenshikexmu/IMUCalibration-Gesture | partial | 2024-12-12T02:43:34Z | [open](../records/matlab-shenshikexmu-imucalibration-gesture-2e8dcb50.md) |
+| Shrediquette/PIVlab | partial | 2026-08-17T07:13:25Z | [open](../records/matlab-shrediquette-pivlab-4e9fbe60.md) |
+| Shuai-Xie/genetic-algorithm | partial | 2017-08-05T18:20:10Z | [open](../records/matlab-shuai-xie-genetic-algorithm-f7cb8aee.md) |
+| SPIRIT-org/SPIRIT | partial | 2026-08-21T15:55:07Z | [open](../records/matlab-spirit-org-spirit-85199c7a.md) |
+| spm/spm | partial | 2026-08-24T06:10:13Z | [open](../records/matlab-spm-spm-26c6d9ba.md) |
+| spm/spm12 | partial | 2024-02-05T13:43:41Z | [open](../records/matlab-spm-spm12-7cee6644.md) |
+| star2dust/paper-simulation | partial | 2022-04-21T09:58:05Z | [open](../records/matlab-star2dust-paper-simulation-9ae3627c.md) |
+| SwanLab/Swan | partial | 2026-08-31T06:06:55Z | [open](../records/matlab-swanlab-swan-dd44db56.md) |
+| TadasBaltrusaitis/OpenFace | partial | 2024-06-01T00:44:07Z | [open](../records/matlab-tadasbaltrusaitis-openface-c146853e.md) |
+| TheAlgorithms/MATLAB-Octave | partial | 2023-01-23T00:40:29Z | [open](../records/matlab-thealgorithms-matlab-octave-a6461576.md) |
+| ThomasYeoLab/CBIG | partial | 2026-08-31T04:39:52Z | [open](../records/matlab-thomasyeolab-cbig-84626e81.md) |
+| Time9Y/Matlab-Machine | partial | 2025-07-22T08:10:41Z | [open](../records/matlab-time9y-matlab-machine-faf92eb5.md) |
+| torrvision/crfasrnn | partial | 2019-11-30T13:17:39Z | [open](../records/matlab-torrvision-crfasrnn-d754088d.md) |
+| toshiakit/MatGPT | partial | 2026-01-31T03:08:06Z | [open](../records/matlab-toshiakit-matgpt-c3e7e593.md) |
+| trekhleb/machine-learning-octave | partial | 2025-11-23T04:28:32Z | [open](../records/matlab-trekhleb-machine-learning-octave-3c6369fc.md) |
+| ucdavis/erplab | partial | 2026-09-01T02:16:31Z | [open](../records/matlab-ucdavis-erplab-9a4c4944.md) |
+| VincentWong3/automated-driving-control | partial | 2020-12-04T13:45:46Z | [open](../records/matlab-vincentwong3-automated-driving-control-a56b477a.md) |
+| VincentWong3/automatic-driving-decision-and-planning-for-matlab | partial | 2022-08-06T16:42:56Z | [open](../records/matlab-vincentwong3-automatic-driving-decision-and-planning-for-matlab-2c99ad30.md) |
+| VipaiLab/Signals-and-Systems-course | partial | 2022-07-16T04:20:49Z | [open](../records/matlab-vipailab-signals-and-systems-course-ac1e2668.md) |
+| vkosuri/CourseraMachineLearning | partial | 2019-08-28T14:44:00Z | [open](../records/matlab-vkosuri-courseramachinelearning-5a3832c9.md) |
+| votchallenge/toolkit-legacy | partial | 2021-04-19T15:43:16Z | [open](../records/matlab-votchallenge-toolkit-legacy-ced48ea9.md) |
+| WEC-Sim/WEC-Sim | partial | 2026-08-31T15:00:27Z | [open](../records/matlab-wec-sim-wec-sim-864769f5.md) |
+| willard-yuan/cnn-for-image-retrieval | partial | 2021-01-05T04:45:05Z | [open](../records/matlab-willard-yuan-cnn-for-image-retrieval-8ee2e5c8.md) |
+| willard-yuan/hashing-baseline-for-image-retrieval | partial | 2022-04-16T14:29:21Z | [open](../records/matlab-willard-yuan-hashing-baseline-for-image-retrieval-d84f4db3.md) |
+| xiaoli1368/Microphone-sound-source-localization | partial | 2019-09-09T13:05:04Z | [open](../records/matlab-xiaoli1368-microphone-sound-source-localization-5aa810bd.md) |
+| XinLiGH/GyroAllan | partial | 2018-05-12T16:54:21Z | [open](../records/matlab-xinligh-gyroallan-dd723003.md) |
+| xioTechnologies/Gait-Tracking-With-x-IMU | partial | 2023-10-14T12:00:26Z | [open](../records/matlab-xiotechnologies-gait-tracking-with-x-imu-0e94ecc1.md) |
+| yalmip/YALMIP | partial | 2026-08-10T09:06:41Z | [open](../records/matlab-yalmip-yalmip-5944a420.md) |
+| yandld/nav_matlab | partial | 2026-01-14T09:24:35Z | [open](../records/matlab-yandld-nav-matlab-a0b7707a.md) |
+| yang69/MIMO-OFDM-Wireless-Communications-with-MATLAB | partial | 2021-05-19T20:56:55Z | [open](../records/matlab-yang69-mimo-ofdm-wireless-communications-with-matlab-0b2948ae.md) |
+| YashBansod/Robotics-Planning-Dynamics-and-Control | partial | 2020-06-18T01:15:18Z | [open](../records/matlab-yashbansod-robotics-planning-dynamics-and-control-fe7ab4ff.md) |
+| yechengxi/LightNet | partial | 2019-04-25T14:54:07Z | [open](../records/matlab-yechengxi-lightnet-9b2da162.md) |
+| yrlu/quadrotor | partial | 2024-05-05T00:36:38Z | [open](../records/matlab-yrlu-quadrotor-c3ebdf94.md) |
+| yuanhao-cui/Must-Reading-on-ISAC | partial | 2026-01-02T07:39:10Z | [open](../records/matlab-yuanhao-cui-must-reading-on-isac-148066f5.md) |
+| zcemycl/Matlab-GAN | partial | 2023-03-22T20:45:18Z | [open](../records/matlab-zcemycl-matlab-gan-5ae6ce0f.md) |
+| zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning | partial | 2025-12-05T11:45:08Z | [open](../records/matlab-zhaohaojie1998-grey-wolf-optimizer-for-path-planning-dcc05381.md) |
+| zhihongz/awesome-low-light-image-enhancement | partial | 2026-05-12T12:34:13Z | [open](../records/matlab-zhihongz-awesome-low-light-image-enhancement-c67eef21.md) |
+| zhoubolei/CAM | partial | 2022-09-13T14:02:02Z | [open](../records/matlab-zhoubolei-cam-649680a3.md) |
+| zhzhanp/TCDCN-face-alignment | partial | 2016-10-25T06:16:44Z | [open](../records/matlab-zhzhanp-tcdcn-face-alignment-1694eccf.md) |
+| ZJULearning/MatlabFunc | partial | 2020-10-02T15:25:17Z | [open](../records/matlab-zjulearning-matlabfunc-caef56f8.md) |
+| zk00006/OpenTLD | partial | 2022-05-18T19:06:49Z | [open](../records/matlab-zk00006-opentld-5cdf3778.md) |
+| zuster/EconometricsResources | partial | 2025-11-19T07:29:19Z | [open](../records/matlab-zuster-econometricsresources-2aea125e.md) |
 
 ## Octave
 
@@ -505,34 +549,165 @@ Records: `843`
 | --- | --- | --- | --- |
 | barcode_widget | 2.0.4 | 2023-05-22T11:53:10.695921Z | [open](../records/dart-barcode-widget-99e20af5.md) |
 | dart_console | 5.1.0 | 2026-06-17T03:03:06.842076Z | [open](../records/dart-dart-console-3d82288d.md) |
+| extension | 1.0.0 | 2025-10-14T14:45:17.683629Z | [open](../records/dart-extension-a7f99b0c.md) |
+
+## Go
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| 1Panel-dev/1Panel | partial | 2026-09-01T10:15:32Z | [open](../records/go-1panel-dev-1panel-effa2b43.md) |
+| abiosoft/colima | partial | 2026-08-31T17:22:35Z | [open](../records/go-abiosoft-colima-0ac0ec4e.md) |
+| AlistGo/alist | partial | 2026-08-31T09:01:10Z | [open](../records/go-alistgo-alist-0be2effe.md) |
+| antlr/antlr4 | partial | 2026-02-16T21:29:09Z | [open](../records/go-antlr-antlr4-1390b066.md) |
+| aquasecurity/trivy | partial | 2026-09-01T14:06:07Z | [open](../records/go-aquasecurity-trivy-a759b66b.md) |
+| astaxie/build-web-application-with-golang | partial | 2024-05-12T00:47:46Z | [open](../records/go-astaxie-build-web-application-with-golang-30f88db6.md) |
+| authelia/authelia | partial | 2026-09-01T12:46:54Z | [open](../records/go-authelia-authelia-bd98b68d.md) |
+| avelino/awesome-go | partial | 2026-09-01T04:21:01Z | [open](../records/go-avelino-awesome-go-512e7dd9.md) |
+| beego/beego | partial | 2026-08-26T02:02:44Z | [open](../records/go-beego-beego-e98bc924.md) |
+| binwiederhier/ntfy | partial | 2026-08-27T20:17:06Z | [open](../records/go-binwiederhier-ntfy-973f5ef2.md) |
+| caddyserver/caddy | partial | 2026-08-31T20:20:06Z | [open](../records/go-caddyserver-caddy-982b9e5e.md) |
+| charmbracelet/bubbletea | partial | 2026-08-31T11:16:55Z | [open](../records/go-charmbracelet-bubbletea-3f1ce734.md) |
+| chubin/wttr.in | partial | 2026-08-02T16:08:37Z | [open](../records/go-chubin-wttr-in-592006b2.md) |
+| cli/cli | partial | 2026-09-01T14:17:10Z | [open](../records/go-cli-cli-c1781281.md) |
+| cockroachdb/cockroach | partial | 2026-08-26T23:11:56Z | [open](../records/go-cockroachdb-cockroach-555b82ac.md) |
+| d2lang/d2 | partial | 2026-08-31T04:56:40Z | [open](../records/go-d2lang-d2-ed192df1.md) |
+| danielmiessler/Fabric | partial | 2026-08-29T16:37:17Z | [open](../records/go-danielmiessler-fabric-e388968f.md) |
+| derailed/k9s | partial | 2026-09-01T13:29:34Z | [open](../records/go-derailed-k9s-e40d54ee.md) |
+| docker/compose | partial | 2026-09-01T09:18:07Z | [open](../records/go-docker-compose-cdd7478b.md) |
+| doocs/leetcode | partial | 2026-09-01T11:31:09Z | [open](../records/go-doocs-leetcode-2d4ea4e3.md) |
+| ehang-io/nps | partial | 2024-05-30T03:51:08Z | [open](../records/go-ehang-io-nps-346fc0a0.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-01T14:20:55Z | [open](../records/go-esengine-deepseek-reasonix-efdb9688.md) |
+| etcd-io/etcd | partial | 2026-09-01T04:54:05Z | [open](../records/go-etcd-io-etcd-7f59ae57.md) |
+| ethereum/go-ethereum | partial | 2026-09-01T11:34:20Z | [open](../records/go-ethereum-go-ethereum-805e21c2.md) |
+| evanw/esbuild | partial | 2026-08-09T17:20:12Z | [open](../records/go-evanw-esbuild-1272b34b.md) |
+| fatedier/frp | partial | 2026-08-29T14:55:32Z | [open](../records/go-fatedier-frp-1b8e4f28.md) |
+| filebrowser/filebrowser | partial | 2026-07-31T10:06:58Z | [open](../records/go-filebrowser-filebrowser-64f3a6d2.md) |
+| FiloSottile/mkcert | partial | 2024-08-13T13:37:46Z | [open](../records/go-filosottile-mkcert-a7f4c714.md) |
+| fyne-io/fyne | partial | 2026-08-31T16:02:31Z | [open](../records/go-fyne-io-fyne-a2443031.md) |
+| gin-gonic/gin | partial | 2026-08-15T05:44:19Z | [open](../records/go-gin-gonic-gin-3dbeb4bb.md) |
+| github/github-mcp-server | partial | 2026-09-01T13:23:46Z | [open](../records/go-github-github-mcp-server-23d9b9fa.md) |
+| gitleaks/gitleaks | partial | 2026-08-26T04:17:05Z | [open](../records/go-gitleaks-gitleaks-d8047052.md) |
+| glanceapp/glance | partial | 2026-08-29T13:15:55Z | [open](../records/go-glanceapp-glance-c761949a.md) |
+| go-delve/delve | partial | 2026-08-31T17:38:44Z | [open](../records/go-go-delve-delve-92f06a69.md) |
+| go-gitea/gitea | partial | 2026-09-01T06:59:58Z | [open](../records/go-go-gitea-gitea-16871751.md) |
+| go-gorm/gorm | partial | 2026-06-25T07:21:11Z | [open](../records/go-go-gorm-gorm-7ca42177.md) |
+| go-kit/kit | partial | 2024-07-19T01:40:06Z | [open](../records/go-go-kit-kit-a994b76c.md) |
+| gofiber/fiber | partial | 2026-09-01T13:27:40Z | [open](../records/go-gofiber-fiber-4a40c103.md) |
+| gogs/gogs | partial | 2026-08-26T02:52:34Z | [open](../records/go-gogs-gogs-c169645d.md) |
+| goharbor/harbor | partial | 2026-09-01T11:19:04Z | [open](../records/go-goharbor-harbor-20ad6a98.md) |
+| gohugoio/hugo | partial | 2026-09-01T13:47:21Z | [open](../records/go-gohugoio-hugo-f422f841.md) |
+| golang-standards/project-layout | partial | 2026-04-28T17:18:05Z | [open](../records/go-golang-standards-project-layout-cd4d5fd4.md) |
+| golang/go | partial | 2026-09-01T12:57:58Z | [open](../records/go-golang-go-eddbf466.md) |
+| grafana/k6 | partial | 2026-08-31T03:20:20Z | [open](../records/go-grafana-k6-ed133f82.md) |
+| grafana/loki | partial | 2026-09-01T09:12:59Z | [open](../records/go-grafana-loki-2fc58cde.md) |
+| grpc/grpc-go | partial | 2026-09-01T07:00:08Z | [open](../records/go-grpc-grpc-go-4b231603.md) |
+| halfrost/LeetCode-Go | partial | 2026-08-20T22:13:14Z | [open](../records/go-halfrost-leetcode-go-09ca25e1.md) |
+| harness/harness | partial | 2026-09-01T09:54:38Z | [open](../records/go-harness-harness-fe931205.md) |
+| hashicorp/consul | partial | 2026-09-01T12:36:39Z | [open](../records/go-hashicorp-consul-eaeec57d.md) |
+| hashicorp/terraform | partial | 2026-09-01T13:00:26Z | [open](../records/go-hashicorp-terraform-d56d30dc.md) |
+| hashicorp/vault | partial | 2026-09-01T01:23:40Z | [open](../records/go-hashicorp-vault-dff1aa81.md) |
+| helm/helm | partial | 2026-09-01T12:52:20Z | [open](../records/go-helm-helm-21c5a8ef.md) |
+| iawia002/lux | partial | 2026-03-29T18:18:56Z | [open](../records/go-iawia002-lux-752d8d70.md) |
+| IceWhaleTech/CasaOS | partial | 2025-08-06T08:54:04Z | [open](../records/go-icewhaletech-casaos-65ab04a5.md) |
+| infiniflow/ragflow | partial | 2026-09-01T13:58:29Z | [open](../records/go-infiniflow-ragflow-8c9d422d.md) |
+| istio/istio | partial | 2026-09-01T09:33:12Z | [open](../records/go-istio-istio-09ede0b7.md) |
+| jesseduffield/lazydocker | partial | 2026-04-19T02:51:06Z | [open](../records/go-jesseduffield-lazydocker-c10d50fa.md) |
+| jesseduffield/lazygit | partial | 2026-08-31T19:25:45Z | [open](../records/go-jesseduffield-lazygit-76669d5d.md) |
+| juanfont/headscale | partial | 2026-08-29T16:30:43Z | [open](../records/go-juanfont-headscale-8da9ae07.md) |
+| JuliusBrussee/caveman | partial | 2026-08-29T22:17:17Z | [open](../records/go-juliusbrussee-caveman-4aae12bd.md) |
+| junegunn/fzf | partial | 2026-08-31T10:09:46Z | [open](../records/go-junegunn-fzf-b96385b5.md) |
+| k3s-io/k3s | partial | 2026-08-28T21:31:09Z | [open](../records/go-k3s-io-k3s-db2488b2.md) |
+| kubernetes/kubernetes | partial | 2026-09-01T13:24:24Z | [open](../records/go-kubernetes-kubernetes-6b4c958b.md) |
+| kubernetes/minikube | partial | 2026-09-01T14:16:38Z | [open](../records/go-kubernetes-minikube-284bb65c.md) |
+| labstack/echo | partial | 2026-09-01T07:33:46Z | [open](../records/go-labstack-echo-87caf04e.md) |
+| MHSanaei/3x-ui | partial | 2026-08-24T13:08:28Z | [open](../records/go-mhsanaei-3x-ui-0505b860.md) |
+| micro-editor/micro | partial | 2026-09-01T00:41:04Z | [open](../records/go-micro-editor-micro-31344ae4.md) |
+| microsoft/TypeScript | partial | 2026-09-01T00:03:52Z | [open](../records/go-microsoft-typescript-263acd6d.md) |
+| milvus-io/milvus | partial | 2026-09-01T14:09:26Z | [open](../records/go-milvus-io-milvus-f58bc0a6.md) |
+| minio/minio | partial | 2026-04-24T17:54:39Z | [open](../records/go-minio-minio-db7d09c3.md) |
+| moby/moby | partial | 2026-09-01T14:08:45Z | [open](../records/go-moby-moby-d3bb719c.md) |
+| mudler/LocalAI | partial | 2026-09-01T11:00:02Z | [open](../records/go-mudler-localai-bdeac9f4.md) |
+| multica-ai/multica | partial | 2026-09-01T13:14:47Z | [open](../records/go-multica-ai-multica-2f7b6919.md) |
+| nektos/act | partial | 2026-08-09T22:50:11Z | [open](../records/go-nektos-act-ba8341d5.md) |
+| netbirdio/netbird | partial | 2026-09-01T14:20:56Z | [open](../records/go-netbirdio-netbird-358bb59e.md) |
+| netdata/netdata | partial | 2026-09-01T13:27:17Z | [open](../records/go-netdata-netdata-170b9886.md) |
+| ollama/ollama | partial | 2026-09-01T00:12:46Z | [open](../records/go-ollama-ollama-37c1cc0e.md) |
+| opentofu/opentofu | partial | 2026-09-01T05:01:01Z | [open](../records/go-opentofu-opentofu-186b8c42.md) |
+| photoprism/photoprism | partial | 2026-09-01T13:36:50Z | [open](../records/go-photoprism-photoprism-47249a2f.md) |
+| pingcap/tidb | partial | 2026-09-01T14:07:01Z | [open](../records/go-pingcap-tidb-cf9a579a.md) |
+| pocketbase/pocketbase | partial | 2026-08-28T09:28:23Z | [open](../records/go-pocketbase-pocketbase-129b5588.md) |
+| podman-container-tools/podman | partial | 2026-09-01T13:21:36Z | [open](../records/go-podman-container-tools-podman-b8d59e44.md) |
+| projectdiscovery/nuclei | partial | 2026-09-01T13:13:22Z | [open](../records/go-projectdiscovery-nuclei-166bc26c.md) |
+| prometheus/prometheus | partial | 2026-08-31T22:16:24Z | [open](../records/go-prometheus-prometheus-c7ed4827.md) |
+| pulumi/pulumi | partial | 2026-09-01T14:20:12Z | [open](../records/go-pulumi-pulumi-f407ce4b.md) |
+| QuantumNous/new-api | partial | 2026-09-01T13:53:35Z | [open](../records/go-quantumnous-new-api-3008cbdb.md) |
+| rclone/rclone | partial | 2026-09-01T13:28:23Z | [open](../records/go-rclone-rclone-8d41b979.md) |
+| restic/restic | partial | 2026-09-01T01:43:58Z | [open](../records/go-restic-restic-de039132.md) |
+| router-for-me/CLIProxyAPI | partial | 2026-09-01T12:46:48Z | [open](../records/go-router-for-me-cliproxyapi-093a59b1.md) |
+| SagerNet/sing-box | partial | 2026-09-01T14:08:33Z | [open](../records/go-sagernet-sing-box-7213e1d8.md) |
+| schollz/croc | partial | 2026-09-01T12:22:06Z | [open](../records/go-schollz-croc-63a54584.md) |
+| seaweedfs/seaweedfs | partial | 2026-09-01T07:40:52Z | [open](../records/go-seaweedfs-seaweedfs-e63ae9d7.md) |
+| sipeed/picoclaw | partial | 2026-08-27T21:13:30Z | [open](../records/go-sipeed-picoclaw-00ca996b.md) |
+| slimtoolkit/slim | partial | 2026-08-02T15:58:35Z | [open](../records/go-slimtoolkit-slim-92b8fc23.md) |
+| spf13/cobra | partial | 2026-07-11T00:43:07Z | [open](../records/go-spf13-cobra-eeac1239.md) |
+| spf13/viper | partial | 2026-01-12T21:42:47Z | [open](../records/go-spf13-viper-421b7638.md) |
+| stretchr/testify | partial | 2026-09-01T11:52:35Z | [open](../records/go-stretchr-testify-5f335906.md) |
+| syncthing/syncthing | partial | 2026-08-25T01:28:51Z | [open](../records/go-syncthing-syncthing-42b40326.md) |
+| tailscale/tailscale | partial | 2026-09-01T14:05:57Z | [open](../records/go-tailscale-tailscale-cb71aaf5.md) |
+| traefik/traefik | partial | 2026-09-01T09:54:07Z | [open](../records/go-traefik-traefik-33cdec7d.md) |
+| unknwon/the-way-to-go_ZH_CN | partial | 2024-08-14T07:04:25Z | [open](../records/go-unknwon-the-way-to-go-zh-cn-6332f5f1.md) |
+| usememos/memos | partial | 2026-09-01T13:55:34Z | [open](../records/go-usememos-memos-808cb0a7.md) |
+| v2fly/v2ray-core | partial | 2026-08-25T17:54:54Z | [open](../records/go-v2fly-v2ray-core-4115df01.md) |
+| v2ray/v2ray-core | partial | 2026-08-31T03:24:40Z | [open](../records/go-v2ray-v2ray-core-416161d0.md) |
+| wagoodman/dive | partial | 2025-12-15T17:20:36Z | [open](../records/go-wagoodman-dive-64f44bbd.md) |
+| wailsapp/wails | partial | 2026-09-01T00:33:34Z | [open](../records/go-wailsapp-wails-76753cd4.md) |
+| Wei-Shaw/sub2api | partial | 2026-09-01T09:47:34Z | [open](../records/go-wei-shaw-sub2api-b8221375.md) |
+| XIU2/CloudflareSpeedTest | partial | 2026-08-23T06:31:44Z | [open](../records/go-xiu2-cloudflarespeedtest-4441b21f.md) |
+| XTLS/Xray-core | partial | 2026-09-01T04:57:10Z | [open](../records/go-xtls-xray-core-bef74000.md) |
+| zeromicro/go-zero | partial | 2026-08-31T19:54:34Z | [open](../records/go-zeromicro-go-zero-c559d9b7.md) |
 
 ## Starlark
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bazel-contrib/rules_foreign_cc | 0.15.1 | 2025-06-24T20:18:52Z | [open](../records/starlark-bazel-contrib-rules-foreign-cc-74f543fe.md) |
-| bazel-contrib/rules_nodejs | v6.7.5 | 2026-06-24T07:29:48Z | [open](../records/starlark-bazel-contrib-rules-nodejs-6ba164bc.md) |
-| bazel-contrib/rules_python | 2.3.2 | 2026-08-22T16:23:55Z | [open](../records/starlark-bazel-contrib-rules-python-3138da4d.md) |
-| bazelbuild/examples | unknown | github_latest_release_missing | [open](../records/starlark-bazelbuild-examples-aa7ebe53.md) |
-| bazelbuild/rules_apple | 4.5.3 | 2026-04-13T18:23:32Z | [open](../records/starlark-bazelbuild-rules-apple-9bc4356d.md) |
-| bazelbuild/rules_docker | v0.26.0 | 2025-12-22T00:24:32Z | [open](../records/starlark-bazelbuild-rules-docker-9df12e7c.md) |
-| bazelbuild/rules_rust | 0.74.0 | 2026-08-28T20:08:14Z | [open](../records/starlark-bazelbuild-rules-rust-3c62960b.md) |
-| cel-expr/cel-spec | v0.25.3 | 2026-08-13T21:27:23Z | [open](../records/starlark-cel-expr-cel-spec-b2658dd8.md) |
-| envoyproxy/data-plane-api | unknown | github_latest_release_missing | [open](../records/starlark-envoyproxy-data-plane-api-7610f6c0.md) |
-| google/dotprompt | dotprompt-go-0.2.1 | 2026-07-08T22:01:19Z | [open](../records/starlark-google-dotprompt-07de9fab.md) |
-| google/fully-homomorphic-encryption | transpiler | 2025-05-13T18:20:42Z | [open](../records/starlark-google-fully-homomorphic-encryption-7e96f129.md) |
-| googleapis/googleapis | unknown | github_latest_release_missing | [open](../records/starlark-googleapis-googleapis-b2038836.md) |
-| GoogleContainerTools/distroless | unknown | github_latest_release_missing | [open](../records/starlark-googlecontainertools-distroless-b973874f.md) |
-| lucperkins/colossus | unknown | github_latest_release_missing | [open](../records/starlark-lucperkins-colossus-6d410097.md) |
+| bazel-contrib/rules_foreign_cc | partial | 2026-06-28T01:47:45Z | [open](../records/starlark-bazel-contrib-rules-foreign-cc-74f543fe.md) |
+| bazel-contrib/rules_nodejs | partial | 2026-08-27T17:01:46Z | [open](../records/starlark-bazel-contrib-rules-nodejs-6ba164bc.md) |
+| bazel-contrib/rules_python | partial | 2026-09-01T10:22:02Z | [open](../records/starlark-bazel-contrib-rules-python-3138da4d.md) |
+| bazelbuild/examples | partial | 2026-08-31T14:21:32Z | [open](../records/starlark-bazelbuild-examples-aa7ebe53.md) |
+| bazelbuild/rules_apple | partial | 2026-08-31T22:59:53Z | [open](../records/starlark-bazelbuild-rules-apple-9bc4356d.md) |
+| bazelbuild/rules_docker | partial | 2025-12-22T00:24:32Z | [open](../records/starlark-bazelbuild-rules-docker-9df12e7c.md) |
+| bazelbuild/rules_rust | partial | 2026-08-28T20:04:13Z | [open](../records/starlark-bazelbuild-rules-rust-3c62960b.md) |
+| cel-expr/cel-spec | partial | 2026-08-13T21:27:23Z | [open](../records/starlark-cel-expr-cel-spec-b2658dd8.md) |
+| envoyproxy/data-plane-api | partial | 2026-09-01T13:34:30Z | [open](../records/starlark-envoyproxy-data-plane-api-7610f6c0.md) |
+| google/dotprompt | partial | 2026-08-25T14:21:42Z | [open](../records/starlark-google-dotprompt-07de9fab.md) |
+| google/fully-homomorphic-encryption | partial | 2026-08-31T22:56:14Z | [open](../records/starlark-google-fully-homomorphic-encryption-7e96f129.md) |
+| googleapis/googleapis | partial | 2026-08-31T19:12:42Z | [open](../records/starlark-googleapis-googleapis-b2038836.md) |
+| GoogleContainerTools/distroless | partial | 2026-08-31T23:54:16Z | [open](../records/starlark-googlecontainertools-distroless-b973874f.md) |
+| lucperkins/colossus | partial | 2022-06-02T18:12:42Z | [open](../records/starlark-lucperkins-colossus-6d410097.md) |
 | Starlark Language Specification | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/starlark-starlark-language-specification-b9f4bbd9.md) |
-| starlight-go/starlight | unknown | github_latest_release_missing | [open](../records/starlark-starlight-go-starlight-59fc198b.md) |
-| withered-magic/starpls | v0.1.22 | 2025-08-30T06:08:57Z | [open](../records/starlark-withered-magic-starpls-c977be7a.md) |
+| starlight-go/starlight | partial | 2024-05-17T04:45:26Z | [open](../records/starlark-starlight-go-starlight-59fc198b.md) |
+| withered-magic/starpls | partial | 2025-12-03T01:54:57Z | [open](../records/starlark-withered-magic-starpls-c977be7a.md) |
 
 ## Basilisk
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Basilisk C | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/basilisk-basilisk-c-c9a354f5.md) |
+| sdfeer-collab/Ember | partial | 2026-08-30T06:43:04Z | [open](../records/basilisk-sdfeer-collab-ember-24183f02.md) |
+| viper-org/basilisk | partial | 2025-10-15T17:47:48Z | [open](../records/basilisk-viper-org-basilisk-0b41716c.md) |
+| ZeeSpaceMechaGNC/Open-Source-General-Basilisk-Tool-for-Coronagraphic-Pointing-Stability-Proposal-Workshop | partial | 2026-05-14T16:38:08Z | [open](../records/basilisk-zeespacemechagnc-open-source-general-basilisk-tool-for-coronagraphic-pointing-stability-proposal-workshop-1019c263.md) |
+
+## "aim's"
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| FoundationAgents/MetaGPT | partial | 2026-01-21T10:12:33Z | [open](../records/aim-s-foundationagents-metagpt-606ff019.md) |
+| HandsOnLLM/Hands-On-Large-Language-Models | partial | 2026-04-24T10:20:08Z | [open](../records/aim-s-handsonllm-hands-on-large-language-models-cb0aa8e6.md) |
+| mlabonne/llm-course | partial | 2026-02-05T13:09:26Z | [open](../records/aim-s-mlabonne-llm-course-686674f6.md) |
+| mukul975/Anthropic-Cybersecurity-Skills | partial | 2026-08-31T04:32:44Z | [open](../records/aim-s-mukul975-anthropic-cybersecurity-skills-9e0cc92c.md) |
+| p-e-w/heretic | partial | 2026-08-17T16:57:44Z | [open](../records/aim-s-p-e-w-heretic-a6b88cd3.md) |
+| sgl-project/sglang | partial | 2026-09-01T14:09:17Z | [open](../records/aim-s-sgl-project-sglang-4b12b8a7.md) |
+| yamadashy/repomix | partial | 2026-08-31T15:11:20Z | [open](../records/aim-s-yamadashy-repomix-25d6e394.md) |
 
 ## nix
 
@@ -584,16 +759,24 @@ Records: `843`
 | --- | --- | --- | --- |
 | OpenType Specification | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/font-briefcase-opentype-specification-e2cb1cd1.md) |
 
+## Assets
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| adobe-fonts/source-serif | partial | 2025-11-17T22:59:10Z | [open](../records/assets-adobe-fonts-source-serif-d174881a.md) |
+| steinbergmedia/bravura | partial | 2026-08-24T21:16:53Z | [open](../records/assets-steinbergmedia-bravura-55db3418.md) |
+
 ## Maps
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| CesiumGS/3d-tiles | unknown | github_search_does_not_include_release_date | [open](../records/maps-cesiumgs-3d-tiles-437ee108.md) |
+| CesiumGS/3d-tiles | partial | 2026-08-27T19:18:09Z | [open](../records/maps-cesiumgs-3d-tiles-437ee108.md) |
 | chicago-justice-project/article-tagging | v1.5.0 | 2025-09-14T19:14:01Z | [open](../records/maps-chicago-justice-project-article-tagging-1148e9b3.md) |
+| geopython/pygeoapi | partial | 2026-08-18T22:37:18Z | [open](../records/maps-geopython-pygeoapi-d6a22971.md) |
 | leontoeides/google_maps | v3.10.0 | 2026-07-12T17:53:34Z | [open](../records/maps-leontoeides-google-maps-f8801bd0.md) |
-| maplibre/maputnik | unknown | github_search_does_not_include_release_date | [open](../records/maps-maplibre-maputnik-9ad351fe.md) |
+| maplibre/maputnik | partial | 2026-08-31T14:08:22Z | [open](../records/maps-maplibre-maputnik-9ad351fe.md) |
 | open-meteo/geocoding-api | 0.4.0 | 2026-07-27T15:53:37Z | [open](../records/maps-open-meteo-geocoding-api-8d972914.md) |
-| opengeospatial/geoparquet | unknown | github_search_does_not_include_release_date | [open](../records/maps-opengeospatial-geoparquet-135cad2a.md) |
+| opengeospatial/geoparquet | partial | 2026-08-28T16:15:10Z | [open](../records/maps-opengeospatial-geoparquet-135cad2a.md) |
 | xeokit/xeokit-bim-viewer | unknown | github_search_does_not_include_release_date | [open](../records/maps-xeokit-xeokit-bim-viewer-397852ef.md) |
 
 ## Space Engines
@@ -607,13 +790,30 @@ Records: `843`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| lride/Heat-transfer-analysis-of-Orbiter-space-shuttle- | unknown | github_latest_release_missing | [open](../records/space-shuttles-lride-heat-transfer-analysis-of-orbiter-space-shuttle-641cc21e.md) |
+| lride/Heat-transfer-analysis-of-Orbiter-space-shuttle- | partial | 2020-02-09T02:22:27Z | [open](../records/space-shuttles-lride-heat-transfer-analysis-of-orbiter-space-shuttle-641cc21e.md) |
+
+## Space Maps
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| ad-si/Woxi | partial | 2026-09-01T14:21:57Z | [open](../records/space-maps-ad-si-woxi-ece7dd2e.md) |
+| biosshot/easyeda-copilot | partial | 2026-08-30T12:03:10Z | [open](../records/space-maps-biosshot-easyeda-copilot-429a5f5a.md) |
+| gnudatalanguage/gdl | partial | 2026-09-01T14:15:11Z | [open](../records/space-maps-gnudatalanguage-gdl-7750b9c1.md) |
+| indigo-astronomy/indigo | partial | 2026-09-01T11:34:11Z | [open](../records/space-maps-indigo-astronomy-indigo-65164658.md) |
+| spicelang/spice | partial | 2026-08-31T06:11:15Z | [open](../records/space-maps-spicelang-spice-ef246fae.md) |
+| SpiceSharp/SpiceSharp | partial | 2026-08-19T14:29:08Z | [open](../records/space-maps-spicesharp-spicesharp-a2392e92.md) |
 
 ## Effects
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| AcademySoftwareFoundation/MaterialX | partial | 2026-08-28T23:56:34Z | [open](../records/effects-academysoftwarefoundation-materialx-1f8662c9.md) |
+| AcademySoftwareFoundation/openexr | partial | 2026-08-29T04:32:32Z | [open](../records/effects-academysoftwarefoundation-openexr-76904ac6.md) |
+| AcademySoftwareFoundation/OpenPBR | partial | 2026-04-22T11:26:32Z | [open](../records/effects-academysoftwarefoundation-openpbr-358a3a7c.md) |
+| AcademySoftwareFoundation/OpenShadingLanguage | partial | 2026-08-30T01:16:02Z | [open](../records/effects-academysoftwarefoundation-openshadinglanguage-cb82500e.md) |
 | ISF | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-isf-11859d10.md) |
+| jtomori/vex_tutorial | partial | 2021-07-27T23:21:48Z | [open](../records/effects-jtomori-vex-tutorial-543cfd5a.md) |
+| OpenAssetIO/OpenAssetIO | partial | 2026-08-24T13:15:42Z | [open](../records/effects-openassetio-openassetio-4db0b510.md) |
 | plattysoft/Leonids | 1.3.2 | 2016-09-19T22:04:39Z | [open](../records/effects-plattysoft-leonids-b48ee5da.md) |
 
 ## Audio
@@ -791,7 +991,7 @@ Records: `843`
 | pret/pokeyellow | partial | 2026-08-27T22:34:09Z | [open](../records/assembly-pret-pokeyellow-f91bcc26.md) |
 | PrincetonUniversity/openpiton | partial | 2026-02-25T17:35:46Z | [open](../records/assembly-princetonuniversity-openpiton-eceb776d.md) |
 | RandalLinden/DOOM-FX | partial | 2022-06-19T18:26:02Z | [open](../records/assembly-randallinden-doom-fx-76b45172.md) |
-| Rangi42/polishedcrystal | partial | 2026-09-01T13:07:18Z | [open](../records/assembly-rangi42-polishedcrystal-55bf1d37.md) |
+| Rangi42/polishedcrystal | partial | 2026-09-01T14:07:12Z | [open](../records/assembly-rangi42-polishedcrystal-55bf1d37.md) |
 | ReturnInfinity/BareMetal | partial | 2026-06-12T19:06:32Z | [open](../records/assembly-returninfinity-baremetal-0b151ed8.md) |
 | ReturnInfinity/BareMetal-OS-legacy | partial | 2017-11-20T15:29:43Z | [open](../records/assembly-returninfinity-baremetal-os-legacy-09317d7c.md) |
 | RibShark/OmniDrive | partial | 2026-07-18T06:48:57Z | [open](../records/assembly-ribshark-omnidrive-32257d20.md) |
@@ -803,6 +1003,7 @@ Records: `843`
 | SheerSt/pokewilds | partial | 2026-08-16T18:48:53Z | [open](../records/assembly-sheerst-pokewilds-24e08e0a.md) |
 | sim-/tgy | partial | 2023-08-25T13:31:32Z | [open](../records/assembly-sim-tgy-fbe11e77.md) |
 | SpinalHDL/VexRiscv | partial | 2026-08-31T15:50:35Z | [open](../records/assembly-spinalhdl-vexriscv-32462403.md) |
+| tenderlove/asmrepl | partial | 2025-02-09T20:33:51Z | [open](../records/assembly-tenderlove-asmrepl-662f4b96.md) |
 | tgrysztar/fasm | partial | 2026-02-24T12:17:59Z | [open](../records/assembly-tgrysztar-fasm-9d9633d5.md) |
 | tsoding/pinpog | partial | 2021-08-27T17:59:43Z | [open](../records/assembly-tsoding-pinpog-a14e3af2.md) |
 | tuhdo/sample-os | partial | 2017-09-12T04:54:16Z | [open](../records/assembly-tuhdo-sample-os-e861f8fb.md) |
@@ -842,7 +1043,8 @@ Records: `843`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| guzzlehttp/ringphp | 1.1.1 | 2018-07-31T13:22:33+00:00 | [open](../records/php-guzzlehttp-ringphp-ab5e949e.md) |
+| guzzlehttp/ringphp | unknown | packagist_package_metadata_missing | [open](../records/php-guzzlehttp-ringphp-ab5e949e.md) |
+| hprose/hprose | unknown | packagist_package_metadata_missing | [open](../records/php-hprose-hprose-1ca8fdc8.md) |
 
 ## WebAssembly
 
@@ -862,10 +1064,12 @@ Records: `843`
 | binji/raw-wasm | unknown | github_latest_release_missing | [open](../records/webassembly-binji-raw-wasm-b437b0d8.md) |
 | brson/wasm-opt-rs | unknown | github_latest_release_missing | [open](../records/webassembly-brson-wasm-opt-rs-e0919bb2.md) |
 | bytecodealliance/sightglass | unknown | github_latest_release_missing | [open](../records/webassembly-bytecodealliance-sightglass-4a32272b.md) |
-| bytecodealliance/wasmtime | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-bytecodealliance-wasmtime-2e91b85a.md) |
+| bytecodealliance/wasmtime | partial | 2026-09-01T14:00:40Z | [open](../records/webassembly-bytecodealliance-wasmtime-2e91b85a.md) |
+| bytecodealliance/wit-bindgen | partial | 2026-08-28T22:01:17Z | [open](../records/webassembly-bytecodealliance-wit-bindgen-5f4cba61.md) |
 | Bytecoder - A Rich Domain Model for Java Bytecode and Framework to interpret and transpile it to other languages such as JavaScript, OpenCL or WebAssembly | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-bytecoder-a-rich-domain-model-for-java-bytecode-and-framework-to-interpret-and-transpile-it-to-other-languages-such-as-javascript-opencl-or-webassembly-ec8bb13b.md) |
 | CharlieTap/chasm | 1.7.0 | 2026-08-21T18:31:35Z | [open](../records/webassembly-charlietap-chasm-eaff8223.md) |
 | chevdor/subwasm | v0.21.3 | 2024-05-31T09:34:28Z | [open](../records/webassembly-chevdor-subwasm-3e8ba506.md) |
+| clojurewasm/ClojureWasm | partial | 2026-08-12T17:12:28Z | [open](../records/webassembly-clojurewasm-clojurewasm-154fbd90.md) |
 | ColinEberhardt/wasm-game-of-life | unknown | github_latest_release_missing | [open](../records/webassembly-colineberhardt-wasm-game-of-life-9f77cee1.md) |
 | danleh/wasabi | unknown | github_latest_release_missing | [open](../records/webassembly-danleh-wasabi-faf413b5.md) |
 | drbh/wasm-fingerprint | unknown | github_latest_release_missing | [open](../records/webassembly-drbh-wasm-fingerprint-f73040ed.md) |
@@ -886,6 +1090,7 @@ Records: `843`
 | hemashushu/practice-wasm | unknown | github_latest_release_missing | [open](../records/webassembly-hemashushu-practice-wasm-9d8379b1.md) |
 | iden3/circom | v2.2.3 | 2025-10-27T16:53:43Z | [open](../records/webassembly-iden3-circom-312705ca.md) |
 | Implex-ltd/hcaptcha-reverse | unknown | github_latest_release_missing | [open](../records/webassembly-implex-ltd-hcaptcha-reverse-64b09389.md) |
+| InsightSoftwareConsortium/ITK-Wasm | partial | 2026-09-01T02:55:51Z | [open](../records/webassembly-insightsoftwareconsortium-itk-wasm-d40bc24d.md) |
 | iRath96/webNBT | unknown | github_latest_release_missing | [open](../records/webassembly-irath96-webnbt-35ce95aa.md) |
 | JetBrains/kotlin | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-jetbrains-kotlin-df8d54fa.md) |
 | jungomi/xxhash-wasm | v1.1.0 | 2024-11-19T13:41:41Z | [open](../records/webassembly-jungomi-xxhash-wasm-49598b2a.md) |
@@ -923,10 +1128,14 @@ Records: `843`
 | sola-st/wasm-binary-security | unknown | github_latest_release_missing | [open](../records/webassembly-sola-st-wasm-binary-security-8e14a374.md) |
 | studio-lagier/heapviz | unknown | github_latest_release_missing | [open](../records/webassembly-studio-lagier-heapviz-0597ee0e.md) |
 | SwadicalRag/wasm2lua | unknown | github_latest_release_missing | [open](../records/webassembly-swadicalrag-wasm2lua-e12b40cf.md) |
+| taybenlor/runno | partial | 2026-08-01T02:02:29Z | [open](../records/webassembly-taybenlor-runno-16c17856.md) |
 | titzer/wizard-engine | unknown | github_latest_release_missing | [open](../records/webassembly-titzer-wizard-engine-a1df5cdc.md) |
 | torch2424/as-bind | 0.8.2 | 2021-08-17T19:04:23Z | [open](../records/webassembly-torch2424-as-bind-819e3646.md) |
 | torch2424/wasmboy | unknown | github_latest_release_missing | [open](../records/webassembly-torch2424-wasmboy-28e5014a.md) |
 | unoplatform/Uno.Wasm.Bootstrap | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-unoplatform-uno-wasm-bootstrap-2ef7ab44.md) |
+| vasilev/HTTP-request-from-inside-WASM | partial | 2026-03-20T13:08:46Z | [open](../records/webassembly-vasilev-http-request-from-inside-wasm-36efd908.md) |
+| vshymanskyy/awesome-wasm-tools | partial | 2026-08-11T20:14:17Z | [open](../records/webassembly-vshymanskyy-awesome-wasm-tools-577f61ea.md) |
+| wado-lang/wado | partial | 2026-09-01T14:16:30Z | [open](../records/webassembly-wado-lang-wado-97e1d85c.md) |
 | wasmerio/io-devices-lib | v0.1.3 | 2020-01-16T22:10:17Z | [open](../records/webassembly-wasmerio-io-devices-lib-0eb00bc1.md) |
 | wasmlang/awesome-wasm-zh | unknown | github_latest_release_missing | [open](../records/webassembly-wasmlang-awesome-wasm-zh-74997eab.md) |
 | WebAssembly Specification | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-webassembly-specification-1e6a4a18.md) |
@@ -956,6 +1165,8 @@ Records: `843`
 | WebAssembly/testsuite | unknown | github_latest_release_missing | [open](../records/webassembly-webassembly-testsuite-0d5622ce.md) |
 | WebAssembly/threads | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-webassembly-threads-46b610e0.md) |
 | WebAssembly/tool-conventions | unknown | github_latest_release_missing | [open](../records/webassembly-webassembly-tool-conventions-9f573a96.md) |
+| WebAssembly/wasi-io | partial | 2025-11-25T20:40:43Z | [open](../records/webassembly-webassembly-wasi-io-3a8c671d.md) |
+| WebAssembly/wasi-sockets | partial | 2025-11-25T22:55:39Z | [open](../records/webassembly-webassembly-wasi-sockets-f62237cf.md) |
 | WebAssembly/wasi-threads | unknown | github_latest_release_missing | [open](../records/webassembly-webassembly-wasi-threads-383070f9.md) |
 | WEREMSOFT/spine-raylib-runtimes | unknown | github_latest_release_missing | [open](../records/webassembly-weremsoft-spine-raylib-runtimes-02ebcc00.md) |
 | xiaoyu1998/web3.learning | unknown | github_latest_release_missing | [open](../records/webassembly-xiaoyu1998-web3-learning-3c32ead0.md) |
@@ -1082,11 +1293,28 @@ Records: `843`
 | yonaskolb/XcodeGen | unknown | github_search_does_not_include_release_date | [open](../records/swift-yonaskolb-xcodegen-903968b3.md) |
 | Zolang | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-zolang-15b560fc.md) |
 
+## Cocoa
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| AFNetworking/AFNetworking | partial | 2023-01-17T19:30:05Z | [open](../records/cocoa-afnetworking-afnetworking-b2e7cf91.md) |
+| BradLarson/GPUImage | partial | 2024-02-16T22:29:30Z | [open](../records/cocoa-bradlarson-gpuimage-287e066a.md) |
+| Esqarrouth/EZSwiftExtensions | partial | 2024-04-05T13:43:05Z | [open](../records/cocoa-esqarrouth-ezswiftextensions-cfddd979.md) |
+| gnachman/iTerm2 | partial | 2026-09-01T07:08:35Z | [open](../records/cocoa-gnachman-iterm2-9538d898.md) |
+| MustangYM/WeChatExtension-ForMac | partial | 2025-02-13T21:53:57Z | [open](../records/cocoa-mustangym-wechatextension-formac-fcd2c960.md) |
+| opa334/TrollStore | partial | 2026-04-01T09:43:17Z | [open](../records/cocoa-opa334-trollstore-db62b321.md) |
+| realm/realm-swift | partial | 2026-06-14T23:57:29Z | [open](../records/cocoa-realm-realm-swift-12631a2f.md) |
+| SnapKit/Masonry | partial | 2023-04-13T18:23:56Z | [open](../records/cocoa-snapkit-masonry-0fcd35d3.md) |
+
 ## Databases
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AI for Database | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-ai-for-database-3600e2b1.md) |
+| arangodb/arangodb | partial | 2026-09-01T14:15:58Z | [open](../records/databases-arangodb-arangodb-c8c240b5.md) |
+| Asabeneh/30-Days-Of-Python | partial | 2026-08-27T11:58:35Z | [open](../records/databases-asabeneh-30-days-of-python-d36bd185.md) |
+| huihut/interview | partial | 2025-08-24T07:01:54Z | [open](../records/databases-huihut-interview-1cd5b39c.md) |
+| LeCoupa/awesome-cheatsheets | partial | 2026-04-12T17:26:10Z | [open](../records/databases-lecoupa-awesome-cheatsheets-7dac10f2.md) |
 | pgMagic🪄 | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pgmagic-a4d9d632.md) |
 
 ## Repository Workplaces
@@ -1096,5 +1324,6 @@ Records: `843`
 | akkuscm/akku | partial | 2026-08-08T11:48:54.040Z | [open](../records/repository-workplaces-akkuscm-akku-7c79305d.md) |
 | basile.b/dexed | partial | 2026-08-31T10:12:27.379Z | [open](../records/repository-workplaces-basile-b-dexed-aa92ba59.md) |
 | camelot/kickc | partial | 2025-06-17T06:28:35.793Z | [open](../records/repository-workplaces-camelot-kickc-2feefccb.md) |
-| gitlab-org/editor-extensions/gitlab-lsp | partial | 2026-09-01T12:13:57.480Z | [open](../records/repository-workplaces-gitlab-org-editor-extensions-gitlab-lsp-3ca66d5c.md) |
+| gitlab-org/editor-extensions/gitlab-lsp | partial | 2026-09-01T14:02:17.108Z | [open](../records/repository-workplaces-gitlab-org-editor-extensions-gitlab-lsp-3ca66d5c.md) |
+| jD91mZM2/nix-lsp | partial | 2022-08-04T13:36:44.721Z | [open](../records/repository-workplaces-jd91mzm2-nix-lsp-871a9f7e.md) |
 | Polly-lang/Polly | partial | 2018-04-23T08:44:56.058Z | [open](../records/repository-workplaces-polly-lang-polly-4337e87f.md) |

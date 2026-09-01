@@ -1,6 +1,6 @@
 # Formatter
 
-Records: `450`
+Records: `496`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `450`
 
 ## Category Index
 
-[Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
-[Benchmarking (75)](benchmarking.md) · [Build System (596)](build-system.md) · [Cli (453)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (37)](compression.md)
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (75)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (441)](database-datastore.md) · [Datetime (105)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
-[Embedded Hardware (40)](embedded-hardware.md) · [Ffi Bindings (327)](ffi-bindings.md) · [Filesystem Os (784)](filesystem-os.md) · **[Formatter (450)](formatter.md)**
-[Framework (38)](framework.md) · [Fuzzer (40)](fuzzer.md) · [Game Engine Game Dev (109)](game-engine-game-dev.md) · [Ide Editor Integration (860)](ide-editor-integration.md)
-[Image Audio Dsp (186)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (162)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (24)](language-server.md) · [Language Specification (843)](language-specification.md) · [Library (3399)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (336)](linter.md) · [Logging Observability (265)](logging-observability.md) · [Machine Learning (393)](machine-learning.md)
-[Math Numeric Scientific (71)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (700)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (206)](package-manager.md) · [Parser Lexer Ast (613)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
-[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (9)](sanitizer.md)
-[Security Sast (270)](security-sast.md) · [Serialization (282)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (297)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (43)](tutorial-book-styleguide.md) · [Type Checker (271)](type-checker.md)
-[Undefined Behavior Analyzer (1203)](undefined-behavior-analyzer.md) · [Utility Library (82)](utility-library.md) · [Visualization Gui (284)](visualization-gui.md) · [Web Framework (307)](web-framework.md)
+[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (36)](assertion-mocking.md) · [Async Runtime (111)](async-runtime.md)
+[Benchmarking (90)](benchmarking.md) · [Build System (697)](build-system.md) · [Cli (474)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (78)](community-reference.md) · [Compiler (143)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (67)](concurrency-parallelism.md) · [Configuration (92)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (150)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (514)](database-datastore.md) · [Datetime (130)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (37)](debugger.md) · [Dependency Manager (70)](dependency-manager.md) · [Documentation (71)](documentation.md)
+[Embedded Hardware (41)](embedded-hardware.md) · [Ffi Bindings (356)](ffi-bindings.md) · [Filesystem Os (1015)](filesystem-os.md) · **[Formatter (496)](formatter.md)**
+[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (129)](game-engine-game-dev.md) · [Ide Editor Integration (965)](ide-editor-integration.md)
+[Image Audio Dsp (198)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (188)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1042)](language-specification.md) · [Library (4510)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (339)](linter.md) · [Logging Observability (306)](logging-observability.md) · [Machine Learning (519)](machine-learning.md)
+[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (69)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (802)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (234)](package-manager.md) · [Parser Lexer Ast (793)](parser-lexer-ast.md) · [Precommit Ci Quality (222)](precommit-ci-quality.md)
+[Profiler (64)](profiler.md) · [Project Scaffolding (97)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (10)](sanitizer.md)
+[Security Sast (282)](security-sast.md) · [Serialization (312)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (385)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (471)](testing-framework.md) · [Tutorial Book Styleguide (50)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1280)](undefined-behavior-analyzer.md) · [Utility Library (88)](utility-library.md) · [Visualization Gui (369)](visualization-gui.md) · [Web Framework (320)](web-framework.md)
 
 ## C99
 
@@ -398,23 +398,48 @@ Records: `450`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| agecrypt | 0.1.0 | 2026-08-05 08:00:07 UTC | [open](../records/r-agecrypt-ecdcf1cd.md) |
 | bain | 0.2.12 | 2026-08-24 11:20:08 UTC | [open](../records/r-bain-318aac57.md) |
+| BIDistances | 1.0.1 | 2026-08-20 23:22:16 UTC | [open](../records/r-bidistances-4d1001bb.md) |
 | cffr | 1.4.2 | 2026-08-24 12:10:02 UTC | [open](../records/r-cffr-761a4643.md) |
 | collapse | 2.1.8 | 2026-08-30 16:00:02 UTC | [open](../records/r-collapse-8082d6f3.md) |
 | CopernicusMarine | 0.4.9 | 2026-08-28 10:10:02 UTC | [open](../records/r-copernicusmarine-99a19469.md) |
 | dracor | 0.2.7 | 2026-08-24 05:10:02 UTC | [open](../records/r-dracor-8774410f.md) |
+| easyPSID | 0.1.3 | 2026-08-04 17:30:07 UTC | [open](../records/r-easypsid-c110c965.md) |
+| EBASS | 0.1.1 | 2026-08-04 09:50:07 UTC | [open](../records/r-ebass-c4bc4c3b.md) |
 | edf | 1.0.1 | 2026-08-31 14:50:02 UTC | [open](../records/r-edf-9fec92c6.md) |
 | eiIT | 0.0.2-1 | 2026-08-22 16:00:12 UTC | [open](../records/r-eiit-fe794b8d.md) |
 | gettz | 0.0.6 | 2026-08-25 12:40:26 UTC | [open](../records/r-gettz-01edb472.md) |
 | GFT | 1.0.1 | 2026-08-23 15:40:08 UTC | [open](../records/r-gft-cd30df22.md) |
+| gson | 0.2.1 | 2026-08-04 20:00:16 UTC | [open](../records/r-gson-7b22018f.md) |
 | IBclust | 1.5 | 2026-08-28 07:01:50 UTC | [open](../records/r-ibclust-e6498036.md) |
+| immunogenetr | 1.5.0 | 2026-08-19 22:10:08 UTC | [open](../records/r-immunogenetr-ce62b227.md) |
 | insight | 1.5.3 | 2026-08-25 08:50:02 UTC | [open](../records/r-insight-1f8504de.md) |
+| ip2location | 8.1.4 | 2026-08-05 08:50:02 UTC | [open](../records/r-ip2location-eb92c1a3.md) |
+| ksformat | 0.8.4 | 2026-08-21 10:00:02 UTC | [open](../records/r-ksformat-b6803455.md) |
 | learningtower | 2.0.0 | 2026-08-25 10:50:08 UTC | [open](../records/r-learningtower-5de0b769.md) |
 | liteformats | 0.2.0 | 2026-08-24 05:20:09 UTC | [open](../records/r-liteformats-501b647c.md) |
+| mlt | 1.8-2 | 2026-08-21 15:00:02 UTC | [open](../records/r-mlt-55856087.md) |
+| msigdbr | 26.1.1 | 2026-08-20 05:21:05 UTC | [open](../records/r-msigdbr-b3649ac1.md) |
+| nlmixr2save | 0.2.0 | 2026-08-05 00:20:02 UTC | [open](../records/r-nlmixr2save-13c62579.md) |
+| praznik | 13.0.0 | 2026-08-20 08:40:02 UTC | [open](../records/r-praznik-049c56ba.md) |
 | RuHere | 1.1.0 | 2026-08-27 05:10:30 UTC | [open](../records/r-ruhere-6fcd2fc0.md) |
+| safetensors | 0.3.0 | 2026-08-21 22:10:02 UTC | [open](../records/r-safetensors-d8a4565d.md) |
+| tinytable | 0.18.0 | 2026-08-20 05:20:21 UTC | [open](../records/r-tinytable-faf32ed0.md) |
 | tram | 1.4-5 | 2026-08-23 10:40:02 UTC | [open](../records/r-tram-3c8e1e4a.md) |
+| writexl | 2.0.1 | 2026-08-21 13:10:02 UTC | [open](../records/r-writexl-b26732da.md) |
 | yaml12 | 0.2.0 | 2026-08-25 07:00:03 UTC | [open](../records/r-yaml12-4d4f39f5.md) |
 | ymd | 0.1.7 | 2026-08-22 23:20:02 UTC | [open](../records/r-ymd-038e1765.md) |
+
+## Haskell
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| amazonka-cloudformation | 2.0 | 2023-07-27T21:07:01Z | [open](../records/haskell-amazonka-cloudformation-db4ba4be.md) |
+| ats-format | 0.2.0.36 | 2019-11-30T17:00:56Z | [open](../records/haskell-ats-format-a0591a36.md) |
+| bioinformatics-toolkit | 0.10.0 | 2021-11-22T16:47:05Z | [open](../records/haskell-bioinformatics-toolkit-24c32fd6.md) |
+| formatting | 7.2.0 | 2022-11-25T23:41:48Z | [open](../records/haskell-formatting-265fd9f8.md) |
+| sequence-formats | 1.11.0.2 | 2025-06-11T06:12:49Z | [open](../records/haskell-sequence-formats-57dac885.md) |
 
 ## Octave
 
@@ -457,6 +482,9 @@ Records: `450`
 | camera_web | 0.3.5+5 | 2026-08-07T00:23:32.452605Z | [open](../records/dart-camera-web-88f0b605.md) |
 | currency_text_input_formatter | 2.3.2 | 2026-08-21T11:14:05.104335Z | [open](../records/dart-currency-text-input-formatter-9b2cc3c7.md) |
 | dart_style | 3.1.13 | 2026-08-26T18:47:59.106940Z | [open](../records/dart-dart-style-096ccda0.md) |
+| easy_stepper | 1.2.0 | 2026-07-23T04:07:35.538307Z | [open](../records/dart-easy-stepper-59c82811.md) |
+| flutter_markdown_plus | 1.0.12 | 2026-07-10T13:15:36.975506Z | [open](../records/dart-flutter-markdown-plus-b685f3ff.md) |
+| flutter_multi_formatter | 2.13.11 | 2026-05-17T16:06:36.018656Z | [open](../records/dart-flutter-multi-formatter-81896931.md) |
 
 ## Go
 
@@ -466,6 +494,30 @@ Records: `450`
 | github.com/Domingor/go-blackbox | v1.86.0 | 2026-08-30T16:31:35.009665Z | [open](../records/go-github-com-domingor-go-blackbox-635c7b8d.md) |
 | github.com/gilescope/rustfmt | v1.4.29 | 2026-08-30T12:55:09.408881Z | [open](../records/go-github-com-gilescope-rustfmt-3181c821.md) |
 | github.com/sarathfrancis90/sql-formatter | v15.6.1+incompatible | 2026-08-30T14:10:24.556377Z | [open](../records/go-github-com-sarathfrancis90-sql-formatter-27542140.md) |
+| gookit/goutil | partial | 2026-08-17T14:52:38Z | [open](../records/go-gookit-goutil-3f400e93.md) |
+
+## Basilisk
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| rcsc-group/LiquidBridge2D | partial | 2026-08-20T13:16:23Z | [open](../records/basilisk-rcsc-group-liquidbridge2d-2e2309d3.md) |
+
+## "aim's"
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| BerriAI/litellm | partial | 2026-09-01T14:14:52Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| google/langextract | partial | 2026-08-27T19:23:53Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
+
+## Assets
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| aMarCruz/react-native-text-size | partial | 2024-07-17T10:20:57Z | [open](../records/assets-amarcruz-react-native-text-size-989d2e6b.md) |
+| BlackFoundryCom/InriaFonts | partial | 2021-12-08T05:49:01Z | [open](../records/assets-blackfoundrycom-inriafonts-1005f303.md) |
+| johanmattssonm/birdfont | partial | 2025-11-23T19:49:15Z | [open](../records/assets-johanmattssonm-birdfont-f317dbe1.md) |
+| KonghaYao/chinese-free-web-font-storage | partial | 2026-06-16T07:38:56Z | [open](../records/assets-konghayao-chinese-free-web-font-storage-f3c64445.md) |
+| trufont/trufont | partial | 2025-12-02T16:43:50Z | [open](../records/assets-trufont-trufont-b3154008.md) |
 
 ## Maps
 
@@ -475,7 +527,8 @@ Records: `450`
 | bugra9/gdal3.js | unknown | github_search_does_not_include_release_date | [open](../records/maps-bugra9-gdal3-js-e7b39271.md) |
 | davemlz/eemont | unknown | github_search_does_not_include_release_date | [open](../records/maps-davemlz-eemont-fb067ac2.md) |
 | plant99/felicette | unknown | github_search_does_not_include_release_date | [open](../records/maps-plant99-felicette-60be9d6d.md) |
-| proj4js/proj4js | unknown | github_search_does_not_include_release_date | [open](../records/maps-proj4js-proj4js-79ed1335.md) |
+| proj4js/proj4js | partial | 2026-08-31T07:26:28Z | [open](../records/maps-proj4js-proj4js-79ed1335.md) |
+| pyproj4/pyproj | partial | 2026-08-21T16:56:55Z | [open](../records/maps-pyproj4-pyproj-66a83255.md) |
 | sasgis/sas.planet.src | unknown | github_search_does_not_include_release_date | [open](../records/maps-sasgis-sas-planet-src-337db903.md) |
 
 ## Space Engines
@@ -483,24 +536,40 @@ Records: `450`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 1manprojects/one_Sgp4 | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-1manprojects-one-sgp4-9fd34187.md) |
-| ANDREWNGT/FORMFLYT | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-andrewngt-formflyt-d067b8e1.md) |
-| corquaid/international-space-station-APIs | v1.120.0 | 2026-07-26T09:49:46Z | [open](../records/space-engines-corquaid-international-space-station-apis-1b6be55b.md) |
-| joshuaferrara/go-satellite | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-joshuaferrara-go-satellite-2c3458c7.md) |
-| joshuaferrara/node-sgp4 | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-joshuaferrara-node-sgp4-5f71a696.md) |
+| ANDREWNGT/FORMFLYT | partial | 2022-07-15T08:42:33Z | [open](../records/space-engines-andrewngt-formflyt-d067b8e1.md) |
+| corquaid/international-space-station-APIs | partial | 2026-07-26T09:50:23Z | [open](../records/space-engines-corquaid-international-space-station-apis-1b6be55b.md) |
+| joshuaferrara/go-satellite | partial | 2023-12-20T00:45:39Z | [open](../records/space-engines-joshuaferrara-go-satellite-2c3458c7.md) |
+| joshuaferrara/node-sgp4 | partial | 2018-09-13T16:15:22Z | [open](../records/space-engines-joshuaferrara-node-sgp4-5f71a696.md) |
 
 ## Space Shuttles
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| perdlespedales/OrbiterIntegratedMotionController | unknown | github_latest_release_missing | [open](../records/space-shuttles-perdlespedales-orbiterintegratedmotioncontroller-79b6b0be.md) |
+| perdlespedales/OrbiterIntegratedMotionController | partial | 2015-09-04T19:24:08Z | [open](../records/space-shuttles-perdlespedales-orbiterintegratedmotioncontroller-79b6b0be.md) |
+
+## Space Maps
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| asdf-format/asdf | partial | 2026-08-14T17:28:47Z | [open](../records/space-maps-asdf-format-asdf-f4898a65.md) |
+| bgmeulem/luminet | partial | 2026-07-12T21:35:05Z | [open](../records/space-maps-bgmeulem-luminet-66cad96d.md) |
+| dcf21/star-charter | partial | 2026-07-24T09:49:15Z | [open](../records/space-maps-dcf21-star-charter-7d97d4d4.md) |
+| nunobrum/PyLTSpice | partial | 2026-06-20T15:13:48Z | [open](../records/space-maps-nunobrum-pyltspice-f892529e.md) |
+| nyx-space/anise | partial | 2026-08-31T11:05:27Z | [open](../records/space-maps-nyx-space-anise-dafc6fd2.md) |
 
 ## Effects
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| AcademySoftwareFoundation/OpenImageIO | partial | 2026-09-01T05:16:12Z | [open](../records/effects-academysoftwarefoundation-openimageio-0013edc0.md) |
+| AcademySoftwareFoundation/OpenTimelineIO | partial | 2026-08-07T21:08:35Z | [open](../records/effects-academysoftwarefoundation-opentimelineio-3fcbc8e9.md) |
 | HalbFettKaese/ShaderSelectorV3 | V3.0.4 | 2025-05-25T12:28:59Z | [open](../records/effects-halbfettkaese-shaderselectorv3-85677bef.md) |
 | hasnain7abbas/gargantua-blackhole | unknown | github_latest_release_missing | [open](../records/effects-hasnain7abbas-gargantua-blackhole-6026f2a1.md) |
+| kaustubh-sadekar/FunMirrors | partial | 2022-12-24T10:01:27Z | [open](../records/effects-kaustubh-sadekar-funmirrors-183ebe3a.md) |
+| markreidvfx/pyaaf2 | partial | 2024-11-25T15:32:36Z | [open](../records/effects-markreidvfx-pyaaf2-78585c3f.md) |
+| rsgalloway/pyseq | partial | 2026-08-24T02:12:28Z | [open](../records/effects-rsgalloway-pyseq-5aab54d6.md) |
 | UnterrainerInformatik/BloomEffectRenderer | 1.1.5 | 2020-01-18T23:00:33Z | [open](../records/effects-unterrainerinformatik-bloomeffectrenderer-6453010d.md) |
+| VisionDepth/VisionDepth3D | partial | 2026-08-24T12:42:52Z | [open](../records/effects-visiondepth-visiondepth3d-1f9219ad.md) |
 
 ## Audio
 
@@ -594,6 +663,12 @@ Records: `450`
 | --- | --- | --- | --- |
 | mgechev/angularjs-in-patterns | partial | 2022-07-21T07:02:12Z | [open](../records/pattern-language-mgechev-angularjs-in-patterns-5c2a1045.md) |
 
+## PHP
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| iconify/json | unknown | packagist_package_metadata_missing | [open](../records/php-iconify-json-90cf51ea.md) |
+
 ## WebAssembly
 
 | Name | Release | Date | Page |
@@ -622,11 +697,12 @@ Records: `450`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| DaveWoodCom/XCGLogger | partial | 2024-07-02T13:12:43Z | [open](../records/cocoa-davewoodcom-xcglogger-2671614e.md) |
 | Shake | 17.2.5 | 2026-05-12 13:42:29 UTC | [open](../records/cocoa-shake-6aaa6776.md) |
 
 ## Repository Workplaces
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| gitlab-org/cves | partial | 2026-09-01T11:42:39.546Z | [open](../records/repository-workplaces-gitlab-org-cves-82f80fbe.md) |
+| gitlab-org/cves | partial | 2026-09-01T14:05:57.385Z | [open](../records/repository-workplaces-gitlab-org-cves-82f80fbe.md) |
 | libosinfo/osinfo-db | partial | 2026-08-31T08:54:04.305Z | [open](../records/repository-workplaces-libosinfo-osinfo-db-c5e44ee6.md) |

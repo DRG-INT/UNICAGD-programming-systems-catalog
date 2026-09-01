@@ -1,6 +1,6 @@
 # Dependency Manager
 
-Records: `61`
+Records: `70`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `61`
 
 ## Category Index
 
-[Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
-[Benchmarking (75)](benchmarking.md) · [Build System (596)](build-system.md) · [Cli (453)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (37)](compression.md)
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (75)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (441)](database-datastore.md) · [Datetime (105)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · **[Dependency Manager (61)](dependency-manager.md)** · [Documentation (62)](documentation.md)
-[Embedded Hardware (40)](embedded-hardware.md) · [Ffi Bindings (327)](ffi-bindings.md) · [Filesystem Os (784)](filesystem-os.md) · [Formatter (450)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (40)](fuzzer.md) · [Game Engine Game Dev (109)](game-engine-game-dev.md) · [Ide Editor Integration (860)](ide-editor-integration.md)
-[Image Audio Dsp (186)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (162)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (24)](language-server.md) · [Language Specification (843)](language-specification.md) · [Library (3399)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (336)](linter.md) · [Logging Observability (265)](logging-observability.md) · [Machine Learning (393)](machine-learning.md)
-[Math Numeric Scientific (71)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (700)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (206)](package-manager.md) · [Parser Lexer Ast (613)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
-[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (9)](sanitizer.md)
-[Security Sast (270)](security-sast.md) · [Serialization (282)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (297)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (43)](tutorial-book-styleguide.md) · [Type Checker (271)](type-checker.md)
-[Undefined Behavior Analyzer (1203)](undefined-behavior-analyzer.md) · [Utility Library (82)](utility-library.md) · [Visualization Gui (284)](visualization-gui.md) · [Web Framework (307)](web-framework.md)
+[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (36)](assertion-mocking.md) · [Async Runtime (111)](async-runtime.md)
+[Benchmarking (90)](benchmarking.md) · [Build System (697)](build-system.md) · [Cli (474)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (78)](community-reference.md) · [Compiler (143)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (67)](concurrency-parallelism.md) · [Configuration (92)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (150)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (514)](database-datastore.md) · [Datetime (130)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (37)](debugger.md) · **[Dependency Manager (70)](dependency-manager.md)** · [Documentation (71)](documentation.md)
+[Embedded Hardware (41)](embedded-hardware.md) · [Ffi Bindings (356)](ffi-bindings.md) · [Filesystem Os (1015)](filesystem-os.md) · [Formatter (496)](formatter.md)
+[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (129)](game-engine-game-dev.md) · [Ide Editor Integration (965)](ide-editor-integration.md)
+[Image Audio Dsp (198)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (188)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1042)](language-specification.md) · [Library (4510)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (339)](linter.md) · [Logging Observability (306)](logging-observability.md) · [Machine Learning (519)](machine-learning.md)
+[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (69)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (802)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (234)](package-manager.md) · [Parser Lexer Ast (793)](parser-lexer-ast.md) · [Precommit Ci Quality (222)](precommit-ci-quality.md)
+[Profiler (64)](profiler.md) · [Project Scaffolding (97)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (10)](sanitizer.md)
+[Security Sast (282)](security-sast.md) · [Serialization (312)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (385)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (471)](testing-framework.md) · [Tutorial Book Styleguide (50)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1280)](undefined-behavior-analyzer.md) · [Utility Library (88)](utility-library.md) · [Visualization Gui (369)](visualization-gui.md) · [Web Framework (320)](web-framework.md)
 
 ## C99
 
@@ -102,6 +102,8 @@ Records: `61`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| attachment | 1.1.0 | 2026-08-20 05:23:51 UTC | [open](../records/r-attachment-4b2b8e69.md) |
+| getaca | 0.1.6 | 2026-09-01 14:00:02 UTC | [open](../records/r-getaca-f9f6085c.md) |
 | MultiSEp | 4.1.3 | 2026-08-27 10:30:02 UTC | [open](../records/r-multisep-81b015ca.md) |
 
 ## Dart
@@ -110,12 +112,19 @@ Records: `61`
 | --- | --- | --- | --- |
 | animate_do | 5.1.0 | 2026-04-18T23:45:53.214102Z | [open](../records/dart-animate-do-4140f3b7.md) |
 | charset_converter | 2.5.1 | 2026-07-18T14:07:38.980406Z | [open](../records/dart-charset-converter-0bea2965.md) |
+| flutter_modular | 7.1.0 | 2026-06-24T01:49:36.033719Z | [open](../records/dart-flutter-modular-3b75173e.md) |
 
 ## Go
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | github.com/spinnaker/spinnaker-dependencies | v1.25.1 | 2026-08-30T11:57:41.284194Z | [open](../records/go-github-com-spinnaker-spinnaker-dependencies-7dc73de9.md) |
+
+## "aim's"
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| rtk-ai/rtk | partial | 2026-09-01T12:22:56Z | [open](../records/aim-s-rtk-ai-rtk-ba550a2c.md) |
 
 ## nix
 
@@ -133,7 +142,14 @@ Records: `61`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| arda-guler/orbitSim3D | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-arda-guler-orbitsim3d-4c8f7b80.md) |
+| arda-guler/orbitSim3D | partial | 2025-05-03T12:11:55Z | [open](../records/space-engines-arda-guler-orbitsim3d-4c8f7b80.md) |
+
+## Effects
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| chris-gardner/usd-noodle | partial | 2022-12-11T22:35:29Z | [open](../records/effects-chris-gardner-usd-noodle-cd2d05e7.md) |
+| tumourlove/monolith | partial | 2026-08-01T12:26:15Z | [open](../records/effects-tumourlove-monolith-e13f0049.md) |
 
 ## Audio
 
@@ -164,9 +180,9 @@ Records: `61`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| cerbero/json-parser | 1.1.1 | 2025-01-17T18:43:26+00:00 | [open](../records/php-cerbero-json-parser-38e82bf8.md) |
-| cuyz/valinor | 2.6.0 | 2026-08-11T07:31:36+00:00 | [open](../records/php-cuyz-valinor-b52313eb.md) |
-| enlightn/security-checker | v2.0.0 | 2023-12-10T07:20:45+00:00 | [open](../records/php-enlightn-security-checker-f8b3659a.md) |
+| cerbero/json-parser | unknown | packagist_package_metadata_missing | [open](../records/php-cerbero-json-parser-38e82bf8.md) |
+| cuyz/valinor | unknown | packagist_package_metadata_missing | [open](../records/php-cuyz-valinor-b52313eb.md) |
+| enlightn/security-checker | unknown | packagist_package_metadata_missing | [open](../records/php-enlightn-security-checker-f8b3659a.md) |
 
 ## SAPJava
 
@@ -185,9 +201,17 @@ Records: `61`
 | SwiftUI Atom Properties | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-swiftui-atom-properties-22cdf0f1.md) |
 | Swinject/Swinject | unknown | github_search_does_not_include_release_date | [open](../records/swift-swinject-swinject-2f463f5f.md) |
 
+## Cocoa
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| Carthage/Carthage | partial | 2025-09-10T15:36:04Z | [open](../records/cocoa-carthage-carthage-6ae6cade.md) |
+| CocoaPods/CocoaPods | partial | 2026-07-06T21:36:05Z | [open](../records/cocoa-cocoapods-cocoapods-b02abfdf.md) |
+| googlesamples/unity-jar-resolver | partial | 2026-09-01T00:02:51Z | [open](../records/cocoa-googlesamples-unity-jar-resolver-c1f52085.md) |
+
 ## Repository Workplaces
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| gitlab-org/security-products/gemnasium-db | partial | 2026-09-01T07:32:50.787Z | [open](../records/repository-workplaces-gitlab-org-security-products-gemnasium-db-646d6d68.md) |
+| gitlab-org/security-products/gemnasium-db | partial | 2026-09-01T14:07:30.156Z | [open](../records/repository-workplaces-gitlab-org-security-products-gemnasium-db-646d6d68.md) |
 | gitlab-org/security-products/security-report-schemas | partial | 2026-09-01T08:25:34.110Z | [open](../records/repository-workplaces-gitlab-org-security-products-security-report-schemas-1a7d4b38.md) |

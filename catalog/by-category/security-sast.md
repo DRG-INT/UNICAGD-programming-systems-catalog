@@ -1,6 +1,6 @@
 # Security Sast
 
-Records: `270`
+Records: `282`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `270`
 
 ## Category Index
 
-[Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
-[Benchmarking (75)](benchmarking.md) · [Build System (596)](build-system.md) · [Cli (453)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (37)](compression.md)
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (75)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (441)](database-datastore.md) · [Datetime (105)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
-[Embedded Hardware (40)](embedded-hardware.md) · [Ffi Bindings (327)](ffi-bindings.md) · [Filesystem Os (784)](filesystem-os.md) · [Formatter (450)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (40)](fuzzer.md) · [Game Engine Game Dev (109)](game-engine-game-dev.md) · [Ide Editor Integration (860)](ide-editor-integration.md)
-[Image Audio Dsp (186)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (162)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (24)](language-server.md) · [Language Specification (843)](language-specification.md) · [Library (3399)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (336)](linter.md) · [Logging Observability (265)](logging-observability.md) · [Machine Learning (393)](machine-learning.md)
-[Math Numeric Scientific (71)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (700)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (206)](package-manager.md) · [Parser Lexer Ast (613)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
-[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (9)](sanitizer.md)
-**[Security Sast (270)](security-sast.md)** · [Serialization (282)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (297)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (43)](tutorial-book-styleguide.md) · [Type Checker (271)](type-checker.md)
-[Undefined Behavior Analyzer (1203)](undefined-behavior-analyzer.md) · [Utility Library (82)](utility-library.md) · [Visualization Gui (284)](visualization-gui.md) · [Web Framework (307)](web-framework.md)
+[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (36)](assertion-mocking.md) · [Async Runtime (111)](async-runtime.md)
+[Benchmarking (90)](benchmarking.md) · [Build System (697)](build-system.md) · [Cli (474)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (78)](community-reference.md) · [Compiler (143)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (67)](concurrency-parallelism.md) · [Configuration (92)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (150)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (514)](database-datastore.md) · [Datetime (130)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (37)](debugger.md) · [Dependency Manager (70)](dependency-manager.md) · [Documentation (71)](documentation.md)
+[Embedded Hardware (41)](embedded-hardware.md) · [Ffi Bindings (356)](ffi-bindings.md) · [Filesystem Os (1015)](filesystem-os.md) · [Formatter (496)](formatter.md)
+[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (129)](game-engine-game-dev.md) · [Ide Editor Integration (965)](ide-editor-integration.md)
+[Image Audio Dsp (198)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (188)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1042)](language-specification.md) · [Library (4510)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (339)](linter.md) · [Logging Observability (306)](logging-observability.md) · [Machine Learning (519)](machine-learning.md)
+[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (69)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (802)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (234)](package-manager.md) · [Parser Lexer Ast (793)](parser-lexer-ast.md) · [Precommit Ci Quality (222)](precommit-ci-quality.md)
+[Profiler (64)](profiler.md) · [Project Scaffolding (97)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (10)](sanitizer.md)
+**[Security Sast (282)](security-sast.md)** · [Serialization (312)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (385)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (471)](testing-framework.md) · [Tutorial Book Styleguide (50)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1280)](undefined-behavior-analyzer.md) · [Utility Library (88)](utility-library.md) · [Visualization Gui (369)](visualization-gui.md) · [Web Framework (320)](web-framework.md)
 
 ## Julia
 
@@ -258,12 +258,33 @@ Records: `270`
 | haproxy-impart | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-haproxy-impart-5084d2c5.md) |
 | luatweetnacl | unknown | not_checked | [open](../records/lua-family-luatweetnacl-9fe17abd.md) |
 
+## R
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| DataAudit | 0.1.0 | 2026-08-06 12:40:02 UTC | [open](../records/r-dataaudit-3683b0f1.md) |
+| dwg2geo | 0.2.4 | 2026-08-05 08:20:28 UTC | [open](../records/r-dwg2geo-7dafc3d4.md) |
+| palettecore | 0.4.1 | 2026-08-09 08:10:02 UTC | [open](../records/r-palettecore-cac75def.md) |
+
+## Haskell
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| hackage-security | 0.6.4.0 | 2026-08-03T21:28:45Z | [open](../records/haskell-hackage-security-7bc6a68b.md) |
+
 ## C-Sharp
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | OpenIddict.Client.SystemNetHttp | 7.6.1 | 2026-08-27T07:22:40.57+00:00 | [open](../records/c-sharp-openiddict-client-systemnethttp-2334d9e1.md) |
 | OpenIddict.Validation.SystemNetHttp | 7.6.1 | 2026-08-27T07:22:48.943+00:00 | [open](../records/c-sharp-openiddict-validation-systemnethttp-454cef37.md) |
+
+## Dart
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| envied | 1.3.8 | 2026-07-03T19:14:32.220764Z | [open](../records/dart-envied-a8a210f2.md) |
+| freerasp | 8.2.2 | 2026-08-26T10:35:58.238609Z | [open](../records/dart-freerasp-c30cc13f.md) |
 
 ## Go
 
@@ -272,6 +293,13 @@ Records: `270`
 | github.com/aws-samples/automated-security-helper | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-aws-samples-automated-security-helper-03349c19.md) |
 | github.com/Chronicle20/atlas/tools/packet-audit | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-chronicle20-atlas-tools-packet-audit-394b6cff.md) |
 | github.com/santhsecurity/keyhog | v0.5.73 | 2026-08-30T15:31:03.095809Z | [open](../records/go-github-com-santhsecurity-keyhog-0f9fa50f.md) |
+| unionlabs/union | partial | 2026-07-25T18:20:02Z | [open](../records/go-unionlabs-union-93d74a53.md) |
+
+## "aim's"
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| affaan-m/ECC | partial | 2026-08-31T22:18:39Z | [open](../records/aim-s-affaan-m-ecc-7e36794e.md) |
 
 ## Doctrines
 
@@ -344,12 +372,13 @@ Records: `270`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bepsvpt/secure-headers | 9.1.1 | 2026-07-21T05:27:07+00:00 | [open](../records/php-bepsvpt-secure-headers-aac6258b.md) |
+| bepsvpt/secure-headers | unknown | packagist_package_metadata_missing | [open](../records/php-bepsvpt-secure-headers-aac6258b.md) |
 
 ## WebAssembly
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| carverauto/serviceradar | partial | 2026-09-01T13:30:54Z | [open](../records/webassembly-carverauto-serviceradar-c01081ce.md) |
 | sola-st/wasm-binary-security | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-sola-st-wasm-binary-security-9e8b7e09.md) |
 
 ## SAPJava
@@ -375,10 +404,18 @@ Records: `270`
 | kishikawakatsumi/KeychainAccess | unknown | github_search_does_not_include_release_date | [open](../records/swift-kishikawakatsumi-keychainaccess-2b061829.md) |
 | maxgoedjen/secretive | unknown | github_search_does_not_include_release_date | [open](../records/swift-maxgoedjen-secretive-1285aac6.md) |
 
+## Cocoa
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| sveinbjornt/STPrivilegedTask | partial | 2025-09-06T13:18:15Z | [open](../records/cocoa-sveinbjornt-stprivilegedtask-23c96516.md) |
+
 ## Databases
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| amark/gun | partial | 2026-08-01T11:38:47Z | [open](../records/databases-amark-gun-b5e89507.md) |
+| apache/shardingsphere | partial | 2026-09-01T10:25:35Z | [open](../records/databases-apache-shardingsphere-d9ea2f58.md) |
 | Bytebase | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-bytebase-3fdd8393.md) |
 
 ## Repository Workplaces
@@ -395,11 +432,11 @@ Records: `270`
 | gitlab-org/security-products/sast | partial | 2026-01-07T10:21:52.522Z | [open](../records/repository-workplaces-gitlab-org-security-products-sast-f9f7c3e1.md) |
 | guardianproject/tormobile/NetCipher | partial | 2024-12-03T20:32:59.810Z | [open](../records/repository-workplaces-guardianproject-tormobile-netcipher-11216d9e.md) |
 | jongwons.choi/spring-boot-security-lecture | partial | 2021-10-06T10:49:45.185Z | [open](../records/repository-workplaces-jongwons-choi-spring-boot-security-lecture-e0ab9f25.md) |
-| openid/conformance-suite | partial | 2026-09-01T10:11:17.968Z | [open](../records/repository-workplaces-openid-conformance-suite-34afbe2d.md) |
+| openid/conformance-suite | partial | 2026-09-01T13:25:56.449Z | [open](../records/repository-workplaces-openid-conformance-suite-34afbe2d.md) |
 | opensecuritytraining/arch1001_x86-64_asm_code_for_class | partial | 2025-09-14T17:56:20.635Z | [open](../records/repository-workplaces-opensecuritytraining-arch1001-x86-64-asm-code-for-class-940e9a45.md) |
 | opensecuritytraining/arch1001_x86-64_asm_slides_and_subtitles | partial | 2026-05-20T19:17:22.900Z | [open](../records/repository-workplaces-opensecuritytraining-arch1001-x86-64-asm-slides-and-subtitles-01052120.md) |
 | prism-break/prism-break | partial | 2026-05-30T11:50:17.341Z | [open](../records/repository-workplaces-prism-break-prism-break-503c05ff.md) |
-| rawsec/rawsec-cybersecurity-list | partial | 2026-08-30T15:35:00.083Z | [open](../records/repository-workplaces-rawsec-rawsec-cybersecurity-list-00ece097.md) |
+| rawsec/rawsec-cybersecurity-list | partial | 2026-09-01T13:43:23.519Z | [open](../records/repository-workplaces-rawsec-rawsec-cybersecurity-list-00ece097.md) |
 | Shinobi-Systems/ShinobiCE | partial | 2026-03-16T12:22:45.336Z | [open](../records/repository-workplaces-shinobi-systems-shinobice-52eaee8b.md) |
 | spritely/goblins | partial | 2025-03-11T20:30:35.821Z | [open](../records/repository-workplaces-spritely-goblins-f5ed6a86.md) |
 | spritely/guile-goblins | partial | 2025-03-11T20:33:22.208Z | [open](../records/repository-workplaces-spritely-guile-goblins-fcb5eb63.md) |

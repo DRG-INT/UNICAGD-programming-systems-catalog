@@ -1,6 +1,6 @@
 # Documentation
 
-Records: `62`
+Records: `71`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `62`
 
 ## Category Index
 
-[Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
-[Benchmarking (75)](benchmarking.md) · [Build System (596)](build-system.md) · [Cli (453)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (37)](compression.md)
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (75)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (441)](database-datastore.md) · [Datetime (105)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · **[Documentation (62)](documentation.md)**
-[Embedded Hardware (40)](embedded-hardware.md) · [Ffi Bindings (327)](ffi-bindings.md) · [Filesystem Os (784)](filesystem-os.md) · [Formatter (450)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (40)](fuzzer.md) · [Game Engine Game Dev (109)](game-engine-game-dev.md) · [Ide Editor Integration (860)](ide-editor-integration.md)
-[Image Audio Dsp (186)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (162)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (24)](language-server.md) · [Language Specification (843)](language-specification.md) · [Library (3399)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (336)](linter.md) · [Logging Observability (265)](logging-observability.md) · [Machine Learning (393)](machine-learning.md)
-[Math Numeric Scientific (71)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (700)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (206)](package-manager.md) · [Parser Lexer Ast (613)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
-[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (9)](sanitizer.md)
-[Security Sast (270)](security-sast.md) · [Serialization (282)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (297)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (43)](tutorial-book-styleguide.md) · [Type Checker (271)](type-checker.md)
-[Undefined Behavior Analyzer (1203)](undefined-behavior-analyzer.md) · [Utility Library (82)](utility-library.md) · [Visualization Gui (284)](visualization-gui.md) · [Web Framework (307)](web-framework.md)
+[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (36)](assertion-mocking.md) · [Async Runtime (111)](async-runtime.md)
+[Benchmarking (90)](benchmarking.md) · [Build System (697)](build-system.md) · [Cli (474)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (78)](community-reference.md) · [Compiler (143)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (67)](concurrency-parallelism.md) · [Configuration (92)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (150)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (514)](database-datastore.md) · [Datetime (130)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (37)](debugger.md) · [Dependency Manager (70)](dependency-manager.md) · **[Documentation (71)](documentation.md)**
+[Embedded Hardware (41)](embedded-hardware.md) · [Ffi Bindings (356)](ffi-bindings.md) · [Filesystem Os (1015)](filesystem-os.md) · [Formatter (496)](formatter.md)
+[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (129)](game-engine-game-dev.md) · [Ide Editor Integration (965)](ide-editor-integration.md)
+[Image Audio Dsp (198)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (188)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1042)](language-specification.md) · [Library (4510)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (339)](linter.md) · [Logging Observability (306)](logging-observability.md) · [Machine Learning (519)](machine-learning.md)
+[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (69)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (802)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (234)](package-manager.md) · [Parser Lexer Ast (793)](parser-lexer-ast.md) · [Precommit Ci Quality (222)](precommit-ci-quality.md)
+[Profiler (64)](profiler.md) · [Project Scaffolding (97)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (10)](sanitizer.md)
+[Security Sast (282)](security-sast.md) · [Serialization (312)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (385)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (471)](testing-framework.md) · [Tutorial Book Styleguide (50)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1280)](undefined-behavior-analyzer.md) · [Utility Library (88)](utility-library.md) · [Visualization Gui (369)](visualization-gui.md) · [Web Framework (320)](web-framework.md)
 
 ## Julia
 
@@ -77,7 +77,16 @@ Records: `62`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| roxygen2 | 8.1.0 | 2026-08-04 20:00:02 UTC | [open](../records/r-roxygen2-b14889a4.md) |
+| tinyrox | 0.4.1 | 2026-08-04 22:50:02 UTC | [open](../records/r-tinyrox-ec93aad4.md) |
+| tinyroxygen | 0.1 | 2026-08-06 13:20:02 UTC | [open](../records/r-tinyroxygen-f1b543dc.md) |
 | xmpdf | 0.3.1 | 2026-08-25 23:20:02 UTC | [open](../records/r-xmpdf-9b9f2b98.md) |
+
+## Haskell
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| servant-docs | 0.13.1 | 2024-08-30T02:31:35Z | [open](../records/haskell-servant-docs-8ec7d155.md) |
 
 ## Starlark
 
@@ -92,6 +101,12 @@ Records: `62`
 | --- | --- | --- | --- |
 | AVSLab Basilisk Documentation | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/basilisk-avslab-basilisk-documentation-31f9f65c.md) |
 | Basilisk Examples | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/basilisk-basilisk-examples-f4223b69.md) |
+
+## "aim's"
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| Graphify-Labs/graphify | partial | 2026-08-30T15:03:47Z | [open](../records/aim-s-graphify-labs-graphify-c1b23909.md) |
 
 ## nix
 
@@ -130,6 +145,7 @@ Records: `62`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| Esri/arcgis-python-api | partial | 2026-08-06T20:34:15Z | [open](../records/maps-esri-arcgis-python-api-81b2ba91.md) |
 | OSM Wiki Map Features | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/maps-osm-wiki-map-features-2e7d7417.md) |
 
 ## Space Shuttles
@@ -139,6 +155,12 @@ Records: `62`
 | NASA Space Shuttle Overview | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-shuttles-nasa-space-shuttle-overview-8fb6d0f3.md) |
 | Shuttle Mission Simulator Records | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-shuttles-shuttle-mission-simulator-records-442c81ad.md) |
 | Space Shuttle Technical Conference | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-shuttles-space-shuttle-technical-conference-c6fb700e.md) |
+
+## Space Maps
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| GalSim-developers/GalSim | partial | 2026-08-05T03:03:20Z | [open](../records/space-maps-galsim-developers-galsim-4de2c1e3.md) |
 
 ## Microscopy
 
@@ -172,13 +194,14 @@ Records: `62`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | mdn/webassembly-examples | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-mdn-webassembly-examples-5f38752e.md) |
+| nalgeon/codapi-js | partial | 2026-08-21T05:03:47Z | [open](../records/webassembly-nalgeon-codapi-js-17b81d12.md) |
 
 ## SAPJava
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | SAP/ai-sdk | unknown | not_a_maven_coordinate | [open](../records/sapjava-sap-ai-sdk-e8b4294c.md) |
-| SAP/cloud-sdk | cloud-sdk-js | 2020-11-09T08:10:55Z | [open](../records/sapjava-sap-cloud-sdk-dd66ae4d.md) |
+| SAP/cloud-sdk | partial | 2026-09-01T11:50:19Z | [open](../records/sapjava-sap-cloud-sdk-dd66ae4d.md) |
 | souzamarcelo9/sap-contas-apagar-worker | unknown | not_a_maven_coordinate | [open](../records/sapjava-souzamarcelo9-sap-contas-apagar-worker-e8774582.md) |
 
 ## Swift
@@ -186,6 +209,12 @@ Records: `62`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | krispuckett/SwiftUIShaders | 1.0.0 | 2026-06-01T22:13:53Z | [open](../records/swift-krispuckett-swiftuishaders-6b476fd5.md) |
+
+## Cocoa
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| jverkoey/nimbus | partial | 2024-04-25T21:23:31Z | [open](../records/cocoa-jverkoey-nimbus-ecf9ed35.md) |
 
 ## Databases
 

@@ -1,6 +1,6 @@
 # Game Engine Game Dev
 
-Records: `109`
+Records: `129`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `109`
 
 ## Category Index
 
-[Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
-[Benchmarking (75)](benchmarking.md) · [Build System (596)](build-system.md) · [Cli (453)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (37)](compression.md)
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (75)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (441)](database-datastore.md) · [Datetime (105)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
-[Embedded Hardware (40)](embedded-hardware.md) · [Ffi Bindings (327)](ffi-bindings.md) · [Filesystem Os (784)](filesystem-os.md) · [Formatter (450)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (40)](fuzzer.md) · **[Game Engine Game Dev (109)](game-engine-game-dev.md)** · [Ide Editor Integration (860)](ide-editor-integration.md)
-[Image Audio Dsp (186)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (162)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (24)](language-server.md) · [Language Specification (843)](language-specification.md) · [Library (3399)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (336)](linter.md) · [Logging Observability (265)](logging-observability.md) · [Machine Learning (393)](machine-learning.md)
-[Math Numeric Scientific (71)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (700)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (206)](package-manager.md) · [Parser Lexer Ast (613)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
-[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (9)](sanitizer.md)
-[Security Sast (270)](security-sast.md) · [Serialization (282)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (297)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (43)](tutorial-book-styleguide.md) · [Type Checker (271)](type-checker.md)
-[Undefined Behavior Analyzer (1203)](undefined-behavior-analyzer.md) · [Utility Library (82)](utility-library.md) · [Visualization Gui (284)](visualization-gui.md) · [Web Framework (307)](web-framework.md)
+[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (36)](assertion-mocking.md) · [Async Runtime (111)](async-runtime.md)
+[Benchmarking (90)](benchmarking.md) · [Build System (697)](build-system.md) · [Cli (474)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (78)](community-reference.md) · [Compiler (143)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (67)](concurrency-parallelism.md) · [Configuration (92)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (150)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (514)](database-datastore.md) · [Datetime (130)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (37)](debugger.md) · [Dependency Manager (70)](dependency-manager.md) · [Documentation (71)](documentation.md)
+[Embedded Hardware (41)](embedded-hardware.md) · [Ffi Bindings (356)](ffi-bindings.md) · [Filesystem Os (1015)](filesystem-os.md) · [Formatter (496)](formatter.md)
+[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · **[Game Engine Game Dev (129)](game-engine-game-dev.md)** · [Ide Editor Integration (965)](ide-editor-integration.md)
+[Image Audio Dsp (198)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (188)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1042)](language-specification.md) · [Library (4510)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (339)](linter.md) · [Logging Observability (306)](logging-observability.md) · [Machine Learning (519)](machine-learning.md)
+[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (69)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (802)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (234)](package-manager.md) · [Parser Lexer Ast (793)](parser-lexer-ast.md) · [Precommit Ci Quality (222)](precommit-ci-quality.md)
+[Profiler (64)](profiler.md) · [Project Scaffolding (97)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (10)](sanitizer.md)
+[Security Sast (282)](security-sast.md) · [Serialization (312)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (385)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (471)](testing-framework.md) · [Tutorial Book Styleguide (50)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1280)](undefined-behavior-analyzer.md) · [Utility Library (88)](utility-library.md) · [Visualization Gui (369)](visualization-gui.md) · [Web Framework (320)](web-framework.md)
 
 ## C++23
 
@@ -105,13 +105,27 @@ Records: `109`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | evoFE | 1.0.0 | 2026-08-25 12:30:02 UTC | [open](../records/r-evofe-21bb898e.md) |
+| favr | 2.0.0 | 2026-08-20 14:10:28 UTC | [open](../records/r-favr-f965b253.md) |
+| glmbayesCore | 0.5.3 | 2026-08-05 07:30:02 UTC | [open](../records/r-glmbayescore-4ea591fe.md) |
+| MuTATE | 0.1.0 | 2026-08-21 15:40:09 UTC | [open](../records/r-mutate-ab649532.md) |
 | recipes | 1.4.0 | 2026-08-24 08:20:02 UTC | [open](../records/r-recipes-3c2cc0ff.md) |
+| RivRetrieve | 0.2.0 | 2026-08-21 19:10:02 UTC | [open](../records/r-rivretrieve-8fe2601b.md) |
+| transferegovr | 0.1.0 | 2026-08-08 11:30:08 UTC | [open](../records/r-transferegovr-48135f9d.md) |
+| VancouvR | 0.1.11 | 2026-08-19 21:50:09 UTC | [open](../records/r-vancouvr-24ec8c20.md) |
 
 ## Haskell
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | avro | 0.6.2.1 | 2024-08-04T13:32:54Z | [open](../records/haskell-avro-fd2876aa.md) |
+| free-game | 1.2 | 2022-08-29T15:14:40Z | [open](../records/haskell-free-game-a071c13e.md) |
+| pandoc-lua-engine | 0.5.4 | 2026-08-29T00:42:59Z | [open](../records/haskell-pandoc-lua-engine-5cac9b02.md) |
+
+## Dart
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| games_services | 5.3.0 | 2026-08-02T13:10:45.026697Z | [open](../records/dart-games-services-abfdd809.md) |
 
 ## Renderers
 
@@ -148,13 +162,21 @@ Records: `109`
 | Unity | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/game-engines-unity-4dc4dccb.md) |
 | Unreal Engine | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/game-engines-unreal-engine-1ab0de2d.md) |
 
+## Assets
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| harfbuzz/harfbuzz | partial | 2026-08-31T21:28:36Z | [open](../records/assets-harfbuzz-harfbuzz-d76a4fa5.md) |
+
 ## Maps
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| giswqs/qgis-earthengine-examples | unknown | github_search_does_not_include_release_date | [open](../records/maps-giswqs-qgis-earthengine-examples-a2148e6b.md) |
+| giswqs/earthengine-py-notebooks | partial | 2021-03-16T15:05:05Z | [open](../records/maps-giswqs-earthengine-py-notebooks-aaf5d96a.md) |
+| giswqs/qgis-earthengine-examples | partial | 2021-11-05T14:30:34Z | [open](../records/maps-giswqs-qgis-earthengine-examples-a2148e6b.md) |
 | luanshixia/AutoCADCodePack | unknown | github_search_does_not_include_release_date | [open](../records/maps-luanshixia-autocadcodepack-c4adb2aa.md) |
-| retroplasma/flyover-reverse-engineering | unknown | github_search_does_not_include_release_date | [open](../records/maps-retroplasma-flyover-reverse-engineering-b2d842b0.md) |
+| retroplasma/earth-reverse-engineering | partial | 2020-12-23T00:03:53Z | [open](../records/maps-retroplasma-earth-reverse-engineering-2e3f792d.md) |
+| retroplasma/flyover-reverse-engineering | partial | 2021-06-18T11:17:11Z | [open](../records/maps-retroplasma-flyover-reverse-engineering-b2d842b0.md) |
 | valhalla/valhalla | 3.8.3 | 2026-07-25T00:36:54Z | [open](../records/maps-valhalla-valhalla-de56d91f.md) |
 
 ## Space Engines
@@ -162,13 +184,13 @@ Records: `109`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Conquer-Space/Conquer-Space | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-conquer-space-conquer-space-3ac38eeb.md) |
-| GH-X-ST/Aeronautical-Engineering-Imperial | unknown | github_latest_release_missing | [open](../records/space-engines-gh-x-st-aeronautical-engineering-imperial-c20bb23e.md) |
+| GH-X-ST/Aeronautical-Engineering-Imperial | partial | 2026-07-31T15:10:12Z | [open](../records/space-engines-gh-x-st-aeronautical-engineering-imperial-c20bb23e.md) |
 
 ## Space Shuttles
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| flyingkaktus/go-to-orbit-android-simulator | unknown | github_latest_release_missing | [open](../records/space-shuttles-flyingkaktus-go-to-orbit-android-simulator-c28864e3.md) |
+| flyingkaktus/go-to-orbit-android-simulator | partial | 2022-12-18T21:40:21Z | [open](../records/space-shuttles-flyingkaktus-go-to-orbit-android-simulator-c28864e3.md) |
 | Orbiter Space Flight Simulator | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-shuttles-orbiter-space-flight-simulator-b884bd36.md) |
 | Space Shuttle Ultra | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-shuttles-space-shuttle-ultra-58e67d4a.md) |
 
@@ -176,8 +198,14 @@ Records: `109`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| appleseedhq/appleseed | partial | 2026-06-11T07:46:01Z | [open](../records/effects-appleseedhq-appleseed-7150506a.md) |
 | creativelifeform/three-nebula | v13.0.0 | 2026-08-22T06:32:58Z | [open](../records/effects-creativelifeform-three-nebula-c054525f.md) |
 | flashhawk/spp.js | v1.1.0 | 2013-11-25T15:36:47Z | [open](../records/effects-flashhawk-spp-js-ce4e0a32.md) |
+| galacean/engine-toolkit | partial | 2026-08-03T09:03:34Z | [open](../records/effects-galacean-engine-toolkit-b50ec288.md) |
+| IRCSS/Geometry-Grass-Shader | partial | 2021-04-29T08:18:36Z | [open](../records/effects-ircss-geometry-grass-shader-63d80946.md) |
+| Razakhel/RaZ | partial | 2026-08-09T20:35:24Z | [open](../records/effects-razakhel-raz-e81fb756.md) |
+| wass08/wawa-vfx | partial | 2025-09-23T03:54:16Z | [open](../records/effects-wass08-wawa-vfx-5db2d4d3.md) |
+| zenustech/zeno | partial | 2026-08-31T08:10:38Z | [open](../records/effects-zenustech-zeno-c40a1537.md) |
 
 ## Audio
 
@@ -236,7 +264,9 @@ Records: `109`
 | boa-dev/boa | v0.22 | 2026-08-28T17:16:07Z | [open](../records/webassembly-boa-dev-boa-27f5e4a0.md) |
 | ColinEberhardt/wasm-game-of-life | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-colineberhardt-wasm-game-of-life-82167b9c.md) |
 | dsekz/twitter-x-xp-forwarded-for-header | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-dsekz-twitter-x-xp-forwarded-for-header-fa8e3e36.md) |
+| obeli-sk/obelisk | partial | 2026-09-01T14:20:54Z | [open](../records/webassembly-obeli-sk-obelisk-c5fc4657.md) |
 | Porting Games to the Web with WebAssembly (2019) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-porting-games-to-the-web-with-webassembly-2019-0fa6beb2.md) |
+| wasvy-org/wasvy | partial | 2026-07-19T21:16:44Z | [open](../records/webassembly-wasvy-org-wasvy-fa0894e6.md) |
 
 ## SAPJava
 

@@ -1,6 +1,6 @@
 # Serialization
 
-Records: `282`
+Records: `312`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `282`
 
 ## Category Index
 
-[Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
-[Benchmarking (75)](benchmarking.md) · [Build System (596)](build-system.md) · [Cli (453)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (37)](compression.md)
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (75)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (441)](database-datastore.md) · [Datetime (105)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
-[Embedded Hardware (40)](embedded-hardware.md) · [Ffi Bindings (327)](ffi-bindings.md) · [Filesystem Os (784)](filesystem-os.md) · [Formatter (450)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (40)](fuzzer.md) · [Game Engine Game Dev (109)](game-engine-game-dev.md) · [Ide Editor Integration (860)](ide-editor-integration.md)
-[Image Audio Dsp (186)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (162)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (24)](language-server.md) · [Language Specification (843)](language-specification.md) · [Library (3399)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (336)](linter.md) · [Logging Observability (265)](logging-observability.md) · [Machine Learning (393)](machine-learning.md)
-[Math Numeric Scientific (71)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (700)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (206)](package-manager.md) · [Parser Lexer Ast (613)](parser-lexer-ast.md) · [Precommit Ci Quality (176)](precommit-ci-quality.md)
-[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (9)](sanitizer.md)
-[Security Sast (270)](security-sast.md) · **[Serialization (282)](serialization.md)** · [Standard Library (22)](standard-library.md) · [Static Analyzer (297)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (43)](tutorial-book-styleguide.md) · [Type Checker (271)](type-checker.md)
-[Undefined Behavior Analyzer (1203)](undefined-behavior-analyzer.md) · [Utility Library (82)](utility-library.md) · [Visualization Gui (284)](visualization-gui.md) · [Web Framework (307)](web-framework.md)
+[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (36)](assertion-mocking.md) · [Async Runtime (111)](async-runtime.md)
+[Benchmarking (90)](benchmarking.md) · [Build System (697)](build-system.md) · [Cli (474)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (78)](community-reference.md) · [Compiler (143)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (67)](concurrency-parallelism.md) · [Configuration (92)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (150)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (514)](database-datastore.md) · [Datetime (130)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (37)](debugger.md) · [Dependency Manager (70)](dependency-manager.md) · [Documentation (71)](documentation.md)
+[Embedded Hardware (41)](embedded-hardware.md) · [Ffi Bindings (356)](ffi-bindings.md) · [Filesystem Os (1015)](filesystem-os.md) · [Formatter (496)](formatter.md)
+[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (129)](game-engine-game-dev.md) · [Ide Editor Integration (965)](ide-editor-integration.md)
+[Image Audio Dsp (198)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (188)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1042)](language-specification.md) · [Library (4510)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (339)](linter.md) · [Logging Observability (306)](logging-observability.md) · [Machine Learning (519)](machine-learning.md)
+[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (69)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (802)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (234)](package-manager.md) · [Parser Lexer Ast (793)](parser-lexer-ast.md) · [Precommit Ci Quality (222)](precommit-ci-quality.md)
+[Profiler (64)](profiler.md) · [Project Scaffolding (97)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (10)](sanitizer.md)
+[Security Sast (282)](security-sast.md) · **[Serialization (312)](serialization.md)** · [Standard Library (23)](standard-library.md) · [Static Analyzer (385)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (471)](testing-framework.md) · [Tutorial Book Styleguide (50)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1280)](undefined-behavior-analyzer.md) · [Utility Library (88)](utility-library.md) · [Visualization Gui (369)](visualization-gui.md) · [Web Framework (320)](web-framework.md)
 
 ## C99
 
@@ -236,14 +236,34 @@ Records: `282`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| encharter | 0.10 | 2026-08-04 16:10:02 UTC | [open](../records/r-encharter-caacc771.md) |
+| lt | 0.3 | 2026-08-19 18:30:02 UTC | [open](../records/r-lt-213efbff.md) |
+| qbr | 1.4.0 | 2026-08-19 22:20:07 UTC | [open](../records/r-qbr-bdd32b3a.md) |
+| RcppMsgPack | 0.2.5 | 2026-08-19 16:10:09 UTC | [open](../records/r-rcppmsgpack-bf85e3d0.md) |
+| RProtoBuf | 0.4.28 | 2026-08-21 22:01:25 UTC | [open](../records/r-rprotobuf-4170b44d.md) |
+| S7schema | 0.1.2 | 2026-08-21 22:01:19 UTC | [open](../records/r-s7schema-da2b2603.md) |
 | tidyAML | 0.0.8 | 2026-08-24 18:00:02 UTC | [open](../records/r-tidyaml-819a4e07.md) |
+| XML | 3.99-0.24 | 2026-08-21 22:00:58 UTC | [open](../records/r-xml-7b7d683b.md) |
 
 ## Haskell
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| dhall-json | 1.7.12 | 2023-04-19T03:10:46Z | [open](../records/haskell-dhall-json-d0352d72.md) |
+| HaXml | 1.25.14 | 2024-12-12T12:36:15Z | [open](../records/haskell-haxml-8e99a984.md) |
+| hjsonpointer | 1.5.0 | 2018-09-30T18:32:26Z | [open](../records/haskell-hjsonpointer-e806cabf.md) |
+| hjsonschema | 1.10.0 | 2020-05-01T19:57:40Z | [open](../records/haskell-hjsonschema-585b7220.md) |
+| htoml-megaparsec | 2.1.0.5 | 2023-10-24T21:54:51Z | [open](../records/haskell-htoml-megaparsec-9c00d85a.md) |
+| hw-json | 1.3.3.1 | 2025-07-24T13:01:51Z | [open](../records/haskell-hw-json-d9e81d55.md) |
+| json-autotype | 3.1.2 | 2020-04-19T19:25:32Z | [open](../records/haskell-json-autotype-bc180b5d.md) |
+| json-spec | 1.4.0.0 | 2026-07-23T03:55:38Z | [open](../records/haskell-json-spec-15ffc1f1.md) |
+| json-stream | 0.4.6.1 | 2026-05-31T21:26:07Z | [open](../records/haskell-json-stream-9730fe11.md) |
+| jsonrpc-conduit | 0.4.1 | 2024-02-19T21:37:42Z | [open](../records/haskell-jsonrpc-conduit-e1073549.md) |
 | xml-conduit | 1.10.1.0 | 2025-11-25T20:24:41Z | [open](../records/haskell-xml-conduit-8a482c6e.md) |
+| xml-enumerator | 0.4.4.1 | 2012-01-02T19:08:45Z | [open](../records/haskell-xml-enumerator-3cb21216.md) |
+| xmlhtml | 0.2.5.4 | 2023-02-13T07:40:41Z | [open](../records/haskell-xmlhtml-cd0f4219.md) |
 | yaml | 0.11.11.2 | 2023-07-01T18:43:54Z | [open](../records/haskell-yaml-4295e288.md) |
+| yamlscript | 0.2.32.0 | 2026-08-25T14:30:47Z | [open](../records/haskell-yamlscript-f3f0625d.md) |
 
 ## Octave
 
@@ -315,18 +335,26 @@ Records: `282`
 | checked_yaml | 2.0.4 | 2025-06-05T00:41:05.969146Z | [open](../records/dart-checked-yaml-6e42ad6b.md) |
 | dart_jsonwebtoken | 3.4.1 | 2026-04-19T15:45:33.110448Z | [open](../records/dart-dart-jsonwebtoken-62b58fdc.md) |
 | dart_mappable | 4.8.0 | 2026-04-20T10:04:07.552742Z | [open](../records/dart-dart-mappable-7baa0923.md) |
+| flutter_json_view | 1.1.5 | 2024-08-14T15:24:08.672679Z | [open](../records/dart-flutter-json-view-7a7c7542.md) |
+
+## Go
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| chai2010/advanced-go-programming-book | partial | 2025-10-07T01:08:59Z | [open](../records/go-chai2010-advanced-go-programming-book-44a19e49.md) |
 
 ## Starlark
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| protoconf/protoconf | v0.2.0-alpha2 | 2025-01-21T08:08:46Z | [open](../records/starlark-protoconf-protoconf-2d2b3184.md) |
-| remarshal-project/remarshal | v2.1.4 | 2026-08-01T07:24:52Z | [open](../records/starlark-remarshal-project-remarshal-9ffddf4f.md) |
+| protoconf/protoconf | partial | 2026-09-01T11:49:16Z | [open](../records/starlark-protoconf-protoconf-2d2b3184.md) |
+| remarshal-project/remarshal | partial | 2026-08-01T07:20:07Z | [open](../records/starlark-remarshal-project-remarshal-9ffddf4f.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| headroomlabs-ai/headroom | partial | 2026-09-01T13:11:40Z | [open](../records/aim-s-headroomlabs-ai-headroom-d7859a86.md) |
 | ONNX | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-onnx-a7e4f39c.md) |
 
 ## APIs
@@ -359,7 +387,7 @@ Records: `282`
 | daohoangson/dvhcvn | unknown | github_search_does_not_include_release_date | [open](../records/maps-daohoangson-dvhcvn-5a603731.md) |
 | GEOSwift/GEOSwift | unknown | github_search_does_not_include_release_date | [open](../records/maps-geoswift-geoswift-b0eef061.md) |
 | geotools/geotools | unknown | github_search_does_not_include_release_date | [open](../records/maps-geotools-geotools-38424177.md) |
-| mbloch/mapshaper | unknown | github_search_does_not_include_release_date | [open](../records/maps-mbloch-mapshaper-c692c7a0.md) |
+| mbloch/mapshaper | partial | 2026-08-31T18:53:15Z | [open](../records/maps-mbloch-mapshaper-c692c7a0.md) |
 | openwisp/django-rest-framework-gis | unknown | github_search_does_not_include_release_date | [open](../records/maps-openwisp-django-rest-framework-gis-98d4e656.md) |
 | paulmach/orb | unknown | github_search_does_not_include_release_date | [open](../records/maps-paulmach-orb-d7fd1fed.md) |
 | Tippecanoe | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/maps-tippecanoe-38368118.md) |
@@ -370,7 +398,7 @@ Records: `282`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| RocketPy-Team/RocketSerializer | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-rocketpy-team-rocketserializer-54b18240.md) |
+| RocketPy-Team/RocketSerializer | partial | 2026-09-01T04:34:28Z | [open](../records/space-engines-rocketpy-team-rocketserializer-54b18240.md) |
 
 ## Photography
 
@@ -419,26 +447,28 @@ Records: `282`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| adhocore/jwt | v1.1.4 | 2026-05-30T08:00:33+00:00 | [open](../records/php-adhocore-jwt-2217f67d.md) |
-| aimeos/ai-client-jsonapi | 2024.10.6 | 2026-06-15T10:22:45+00:00 | [open](../records/php-aimeos-ai-client-jsonapi-dc6c0b06.md) |
-| api-platform/json-schema | v4.3.17 | 2026-07-12T06:12:00+00:00 | [open](../records/php-api-platform-json-schema-12b34fe2.md) |
-| api-platform/jsonld | v4.3.17 | 2026-07-12T06:11:49+00:00 | [open](../records/php-api-platform-jsonld-6716bfbc.md) |
-| apimatic/jsonmapper | 3.1.7 | 2025-11-06T14:46:07+00:00 | [open](../records/php-apimatic-jsonmapper-826b756c.md) |
-| artesaos/seotools | v1.4.1 | 2026-03-28T12:40:41+00:00 | [open](../records/php-artesaos-seotools-69a21a5c.md) |
-| auth0/auth0-php | 9.0.0 | 2026-08-12T13:26:16+00:00 | [open](../records/php-auth0-auth0-php-ae8ab54a.md) |
-| beste/json | 1.7.0 | 2025-09-11T23:39:55+00:00 | [open](../records/php-beste-json-8432c87b.md) |
-| boldtrn/jsonb-bundle | v1.2.0 | 2019-10-09T07:08:39+00:00 | [open](../records/php-boldtrn-jsonb-bundle-0bb02785.md) |
-| cloudcreativity/laravel-json-api | v7.3.0 | 2026-03-30T11:38:23+00:00 | [open](../records/php-cloudcreativity-laravel-json-api-89fb357e.md) |
-| codezero/laravel-unique-translation | 4.3.1 | 2024-04-17T08:31:02+00:00 | [open](../records/php-codezero-laravel-unique-translation-c1518c57.md) |
-| coduo/php-matcher | 6.0.18 | 2025-12-08T16:30:26+00:00 | [open](../records/php-coduo-php-matcher-86677283.md) |
-| danog/advanced-json-rpc | v3.2.3 | 2026-01-12T21:08:03+00:00 | [open](../records/php-danog-advanced-json-rpc-5d7c3681.md) |
-| dunglas/doctrine-json-odm | v1.5.0 | 2026-02-06T11:12:15+00:00 | [open](../records/php-dunglas-doctrine-json-odm-d7b30b39.md) |
-| felixfbecker/advanced-json-rpc | v3.2.1 | 2021-06-11T22:35:38+00:00 | [open](../records/php-felixfbecker-advanced-json-rpc-c3236b0e.md) |
-| firebase/php-jwt | v7.1.0 | 2026-06-11T17:54:29+00:00 | [open](../records/php-firebase-php-jwt-28d387bc.md) |
-| flow/jsonpath | 0.5.0 | 2019-07-15T17:23:22+00:00 | [open](../records/php-flow-jsonpath-8d58112b.md) |
-| galbar/jsonpath | 3.0 | 2023-03-05T19:46:27+00:00 | [open](../records/php-galbar-jsonpath-2222dc51.md) |
-| gesdinet/jwt-refresh-token-bundle | v3.0.0 | 2026-08-05T15:17:49+00:00 | [open](../records/php-gesdinet-jwt-refresh-token-bundle-b2601953.md) |
-| goodwix/doctrine-json-odm | v0.6.0 | 2022-01-06T12:48:56+00:00 | [open](../records/php-goodwix-doctrine-json-odm-ef704a19.md) |
+| adhocore/jwt | unknown | packagist_package_metadata_missing | [open](../records/php-adhocore-jwt-2217f67d.md) |
+| aimeos/ai-client-jsonapi | unknown | packagist_package_metadata_missing | [open](../records/php-aimeos-ai-client-jsonapi-dc6c0b06.md) |
+| api-platform/json-schema | unknown | packagist_package_metadata_missing | [open](../records/php-api-platform-json-schema-12b34fe2.md) |
+| api-platform/jsonld | unknown | packagist_package_metadata_missing | [open](../records/php-api-platform-jsonld-6716bfbc.md) |
+| apimatic/jsonmapper | unknown | packagist_package_metadata_missing | [open](../records/php-apimatic-jsonmapper-826b756c.md) |
+| artesaos/seotools | unknown | packagist_package_metadata_missing | [open](../records/php-artesaos-seotools-69a21a5c.md) |
+| auth0/auth0-php | unknown | packagist_package_metadata_missing | [open](../records/php-auth0-auth0-php-ae8ab54a.md) |
+| beste/json | unknown | packagist_package_metadata_missing | [open](../records/php-beste-json-8432c87b.md) |
+| boldtrn/jsonb-bundle | unknown | packagist_package_metadata_missing | [open](../records/php-boldtrn-jsonb-bundle-0bb02785.md) |
+| cloudcreativity/laravel-json-api | unknown | packagist_package_metadata_missing | [open](../records/php-cloudcreativity-laravel-json-api-89fb357e.md) |
+| codezero/laravel-unique-translation | unknown | packagist_package_metadata_missing | [open](../records/php-codezero-laravel-unique-translation-c1518c57.md) |
+| coduo/php-matcher | unknown | packagist_package_metadata_missing | [open](../records/php-coduo-php-matcher-86677283.md) |
+| danog/advanced-json-rpc | unknown | packagist_package_metadata_missing | [open](../records/php-danog-advanced-json-rpc-5d7c3681.md) |
+| dunglas/doctrine-json-odm | unknown | packagist_package_metadata_missing | [open](../records/php-dunglas-doctrine-json-odm-d7b30b39.md) |
+| felixfbecker/advanced-json-rpc | unknown | packagist_package_metadata_missing | [open](../records/php-felixfbecker-advanced-json-rpc-c3236b0e.md) |
+| firebase/php-jwt | unknown | packagist_package_metadata_missing | [open](../records/php-firebase-php-jwt-28d387bc.md) |
+| flow/jsonpath | unknown | packagist_package_metadata_missing | [open](../records/php-flow-jsonpath-8d58112b.md) |
+| galbar/jsonpath | unknown | packagist_package_metadata_missing | [open](../records/php-galbar-jsonpath-2222dc51.md) |
+| gesdinet/jwt-refresh-token-bundle | unknown | packagist_package_metadata_missing | [open](../records/php-gesdinet-jwt-refresh-token-bundle-b2601953.md) |
+| goodwix/doctrine-json-odm | unknown | packagist_package_metadata_missing | [open](../records/php-goodwix-doctrine-json-odm-ef704a19.md) |
+| hassankhan/config | unknown | packagist_package_metadata_missing | [open](../records/php-hassankhan-config-e8dbff76.md) |
+| illuminate/json-schema | unknown | packagist_package_metadata_missing | [open](../records/php-illuminate-json-schema-fae35fa6.md) |
 
 ## Swift
 
@@ -446,6 +476,16 @@ Records: `282`
 | --- | --- | --- | --- |
 | Ranchero-Software/NetNewsWire | unknown | github_search_does_not_include_release_date | [open](../records/swift-ranchero-software-netnewswire-c617c7bf.md) |
 | tristanhimmelman/ObjectMapper | unknown | github_search_does_not_include_release_date | [open](../records/swift-tristanhimmelman-objectmapper-b2be793a.md) |
+
+## Cocoa
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| 3breadt/dd-plist | partial | 2026-07-24T12:28:17Z | [open](../records/cocoa-3breadt-dd-plist-2a35e6c5.md) |
+| 3lvis/SwiftSync | partial | 2026-06-27T09:58:57Z | [open](../records/cocoa-3lvis-swiftsync-b91bf583.md) |
+| hhfa008/SwiftAI | partial | 2020-03-14T04:43:41Z | [open](../records/cocoa-hhfa008-swiftai-dadec2ef.md) |
+| m8labs/WidgetKit | partial | 2021-08-02T15:35:49Z | [open](../records/cocoa-m8labs-widgetkit-52747f23.md) |
+| SwiftyJSON/SwiftyJSON | partial | 2026-08-18T07:07:07Z | [open](../records/cocoa-swiftyjson-swiftyjson-10f72bb1.md) |
 
 ## Databases
 

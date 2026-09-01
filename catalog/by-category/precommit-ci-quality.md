@@ -1,6 +1,6 @@
 # Precommit Ci Quality
 
-Records: `176`
+Records: `222`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `176`
 
 ## Category Index
 
-[Api Abi Checker (127)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (106)](async-runtime.md)
-[Benchmarking (75)](benchmarking.md) · [Build System (596)](build-system.md) · [Cli (453)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (37)](compression.md)
-[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (75)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (441)](database-datastore.md) · [Datetime (105)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
-[Embedded Hardware (40)](embedded-hardware.md) · [Ffi Bindings (327)](ffi-bindings.md) · [Filesystem Os (784)](filesystem-os.md) · [Formatter (450)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (40)](fuzzer.md) · [Game Engine Game Dev (109)](game-engine-game-dev.md) · [Ide Editor Integration (860)](ide-editor-integration.md)
-[Image Audio Dsp (186)](image-audio-dsp.md) · [Interop Bindings (48)](interop-bindings.md) · [Interpreter Runtime (162)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (24)](language-server.md) · [Language Specification (843)](language-specification.md) · [Library (3399)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (38)](lint-rule-pack.md) · [Linter (336)](linter.md) · [Logging Observability (265)](logging-observability.md) · [Machine Learning (393)](machine-learning.md)
-[Math Numeric Scientific (71)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (700)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (206)](package-manager.md) · [Parser Lexer Ast (613)](parser-lexer-ast.md) · **[Precommit Ci Quality (176)](precommit-ci-quality.md)**
-[Profiler (58)](profiler.md) · [Project Scaffolding (91)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (9)](sanitizer.md)
-[Security Sast (270)](security-sast.md) · [Serialization (282)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (297)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (421)](testing-framework.md) · [Tutorial Book Styleguide (43)](tutorial-book-styleguide.md) · [Type Checker (271)](type-checker.md)
-[Undefined Behavior Analyzer (1203)](undefined-behavior-analyzer.md) · [Utility Library (82)](utility-library.md) · [Visualization Gui (284)](visualization-gui.md) · [Web Framework (307)](web-framework.md)
+[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (36)](assertion-mocking.md) · [Async Runtime (111)](async-runtime.md)
+[Benchmarking (90)](benchmarking.md) · [Build System (697)](build-system.md) · [Cli (474)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (78)](community-reference.md) · [Compiler (143)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (67)](concurrency-parallelism.md) · [Configuration (92)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (150)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (514)](database-datastore.md) · [Datetime (130)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (37)](debugger.md) · [Dependency Manager (70)](dependency-manager.md) · [Documentation (71)](documentation.md)
+[Embedded Hardware (41)](embedded-hardware.md) · [Ffi Bindings (356)](ffi-bindings.md) · [Filesystem Os (1015)](filesystem-os.md) · [Formatter (496)](formatter.md)
+[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (129)](game-engine-game-dev.md) · [Ide Editor Integration (965)](ide-editor-integration.md)
+[Image Audio Dsp (198)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (188)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1042)](language-specification.md) · [Library (4510)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (339)](linter.md) · [Logging Observability (306)](logging-observability.md) · [Machine Learning (519)](machine-learning.md)
+[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (69)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (802)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (234)](package-manager.md) · [Parser Lexer Ast (793)](parser-lexer-ast.md) · **[Precommit Ci Quality (222)](precommit-ci-quality.md)**
+[Profiler (64)](profiler.md) · [Project Scaffolding (97)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (10)](sanitizer.md)
+[Security Sast (282)](security-sast.md) · [Serialization (312)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (385)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (471)](testing-framework.md) · [Tutorial Book Styleguide (50)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1280)](undefined-behavior-analyzer.md) · [Utility Library (88)](utility-library.md) · [Visualization Gui (369)](visualization-gui.md) · [Web Framework (320)](web-framework.md)
 
 ## C++23
 
@@ -177,11 +177,16 @@ Records: `176`
 | ascribe | 0.2.0 | 2026-08-22 23:20:43 UTC | [open](../records/r-ascribe-1cbc56a4.md) |
 | AugBalWeight | 0.1.0 | 2026-08-21 12:41:17 UTC | [open](../records/r-augbalweight-55f02608.md) |
 | biomes | 0.9.4 | 2026-08-31 13:40:02 UTC | [open](../records/r-biomes-8b0e7317.md) |
+| CauMedi | 0.1.1 | 2026-08-04 13:50:12 UTC | [open](../records/r-caumedi-362f0bde.md) |
 | CVXR | 1.9.2 | 2026-08-24 05:21:00 UTC | [open](../records/r-cvxr-462b1bfb.md) |
 | decimal | 0.1.0 | 2026-08-24 12:40:09 UTC | [open](../records/r-decimal-6cb5cc69.md) |
 | fable.bayesRecon | 0.2.0 | 2026-08-21 08:20:26 UTC | [open](../records/r-fable-bayesrecon-5e5c557b.md) |
 | fcl | 0.1.5 | 2026-08-22 19:30:02 UTC | [open](../records/r-fcl-0ea3193e.md) |
+| hBayesDM | 2.0.0 | 2026-09-01 12:30:12 UTC | [open](../records/r-hbayesdm-6b8d4019.md) |
+| implicitMeasures | 1.0.0 | 2026-08-21 08:20:08 UTC | [open](../records/r-implicitmeasures-021e6566.md) |
 | insurancerating | 0.8.2 | 2026-09-01 11:50:02 UTC | [open](../records/r-insurancerating-fcf34652.md) |
+| inti | 0.7.3 | 2026-08-20 10:20:02 UTC | [open](../records/r-inti-d99c2491.md) |
+| jointNmix | 1.0-1 | 2026-08-20 04:20:02 UTC | [open](../records/r-jointnmix-5a8caaea.md) |
 | MDPtoolbox | 4.0.4 | 2026-08-31 18:40:20 UTC | [open](../records/r-mdptoolbox-919f1f57.md) |
 | mizer | 3.4.0 | 2026-08-31 16:00:03 UTC | [open](../records/r-mizer-465f8a44.md) |
 | MPCR | 2.1.2 | 2026-08-23 15:40:02 UTC | [open](../records/r-mpcr-aa443dc5.md) |
@@ -190,14 +195,47 @@ Records: `176`
 | PGM2 | 2.0.1 | 2026-08-27 08:10:15 UTC | [open](../records/r-pgm2-36428c7c.md) |
 | PointedSDMs | 2.1.6 | 2026-08-24 13:20:07 UTC | [open](../records/r-pointedsdms-2bb0b276.md) |
 | psreplicate | 0.1.1 | 2026-08-26 00:00:02 UTC | [open](../records/r-psreplicate-8c410efc.md) |
+| PTXQC | 1.1.6 | 2026-08-21 23:50:07 UTC | [open](../records/r-ptxqc-562d816f.md) |
+| rangr | 1.0.10 | 2026-08-20 05:20:52 UTC | [open](../records/r-rangr-26d7cbf2.md) |
 | reproducible | 3.2.1 | 2026-08-25 22:40:02 UTC | [open](../records/r-reproducible-b5d3cb8f.md) |
+| rjd3qr | 0.4.2 | 2026-08-07 15:40:02 UTC | [open](../records/r-rjd3qr-cde462be.md) |
+| rmoriebricklayer | 0.3.7 | 2026-08-05 06:40:02 UTC | [open](../records/r-rmoriebricklayer-b4c96417.md) |
 | rstantools | 2.7.1 | 2026-08-29 15:20:07 UTC | [open](../records/r-rstantools-9906cc46.md) |
+| rxode2 | 5.1.6 | 2026-08-04 23:00:02 UTC | [open](../records/r-rxode2-4699fd91.md) |
+| salmonMSE | 3.0.0 | 2026-08-20 10:00:02 UTC | [open](../records/r-salmonmse-8060cab1.md) |
+| scopusflow | 0.4.0 | 2026-08-21 21:00:08 UTC | [open](../records/r-scopusflow-7fbcd739.md) |
 | socialmixr | 0.7.0 | 2026-08-22 23:20:16 UTC | [open](../records/r-socialmixr-a56d8c61.md) |
 | SpaDES.core | 3.2.1 | 2026-08-29 10:20:09 UTC | [open](../records/r-spades-core-b433ef24.md) |
 | SpaDES.tools | 2.1.3 | 2026-08-28 21:30:33 UTC | [open](../records/r-spades-tools-17243d81.md) |
+| spOccupancy | 0.8.1 | 2026-08-21 05:40:18 UTC | [open](../records/r-spoccupancy-0f8184bb.md) |
+| ssddata | 2.0.0 | 2026-08-04 10:30:22 UTC | [open](../records/r-ssddata-a8bbe4b2.md) |
 | ssdtools | 2.7.0 | 2026-08-31 19:30:33 UTC | [open](../records/r-ssdtools-2af25940.md) |
 | textclassificationtutorial | 0.1.2 | 2026-08-26 19:30:02 UTC | [open](../records/r-textclassificationtutorial-84791e56.md) |
+| Usmile | 0.2.0 | 2026-08-08 12:00:11 UTC | [open](../records/r-usmile-7dbe4f54.md) |
+| vannstats | 1.6.8.16 | 2026-08-20 02:40:02 UTC | [open](../records/r-vannstats-3fba77f8.md) |
 | weightflow | 1.2.0 | 2026-08-30 03:30:02 UTC | [open](../records/r-weightflow-33ea0642.md) |
+| xsdm | 1.0.2 | 2026-08-08 14:50:02 UTC | [open](../records/r-xsdm-a68aa804.md) |
+
+## Haskell
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| acid-state | 0.16.1.4 | 2025-08-28T06:35:50Z | [open](../records/haskell-acid-state-89333a13.md) |
+| amazonka-glacier | 2.0 | 2023-07-27T21:35:59Z | [open](../records/haskell-amazonka-glacier-bf5e9739.md) |
+| ascii | 1.7.0.2 | 2025-01-21T07:12:36Z | [open](../records/haskell-ascii-98535a24.md) |
+| ascii-char | 1.0.1.0 | 2023-01-05T20:44:35Z | [open](../records/haskell-ascii-char-43df5277.md) |
+| ascii-superset | 1.3.0.2 | 2025-01-21T05:59:41Z | [open](../records/haskell-ascii-superset-d4c9fb6f.md) |
+| cimple | 0.0.32 | 2026-02-06T11:45:02Z | [open](../records/haskell-cimple-0db1f1de.md) |
+| cipher-aes | 0.2.11 | 2015-06-21T12:13:54Z | [open](../records/haskell-cipher-aes-763552c0.md) |
+| cipher-aes128 | 0.7.0.6 | 2021-10-07T17:16:59Z | [open](../records/haskell-cipher-aes128-b2a919d0.md) |
+| citeproc | 0.13.0.1 | 2026-06-01T09:03:38Z | [open](../records/haskell-citeproc-d0edae83.md) |
+| ditto-lucid | 0.4 | 2019-08-22T20:01:43Z | [open](../records/haskell-ditto-lucid-bbeabec5.md) |
+| ghcid | 1.0.0 | 2026-08-19T03:38:40Z | [open](../records/haskell-ghcid-5d2190ac.md) |
+| hercules-ci-agent | 0.10.8 | 2026-01-06T09:56:48Z | [open](../records/haskell-hercules-ci-agent-02cb3cd7.md) |
+| jacinda | 3.3.0.6 | 2026-03-15T22:47:41Z | [open](../records/haskell-jacinda-77fe1382.md) |
+| pandoc-citeproc | 0.17.0.2 | 2020-08-02T06:10:33Z | [open](../records/haskell-pandoc-citeproc-386a0fe8.md) |
+| reflex-ghci | 0.2.0.1 | 2023-08-02T16:27:21Z | [open](../records/haskell-reflex-ghci-43250d49.md) |
+| scion-browser | 0.5.0 | 2015-02-07T15:56:09Z | [open](../records/haskell-scion-browser-6e1d0996.md) |
 
 ## Dart
 
@@ -210,6 +248,7 @@ Records: `176`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | codeberg.org/socialhome/socialhome | v0.13.0 | 2026-08-30T15:31:22.105365Z | [open](../records/go-codeberg-org-socialhome-socialhome-ce21e69a.md) |
+| tmrts/go-patterns | partial | 2024-05-14T01:07:28Z | [open](../records/go-tmrts-go-patterns-62512270.md) |
 
 ## nix
 
@@ -223,10 +262,21 @@ Records: `176`
 | --- | --- | --- | --- |
 | SLSA | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/doctrines-slsa-7d2ed076.md) |
 
+## Assets
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| georgd/EB-Garamond | partial | 2024-03-16T07:42:41Z | [open](../records/assets-georgd-eb-garamond-3762ce0d.md) |
+| jaywcjlove/free-font | partial | 2026-08-04T14:44:04Z | [open](../records/assets-jaywcjlove-free-font-c0fd2de7.md) |
+| sahibjotsaggu/San-Francisco-Pro-Fonts | partial | 2023-01-29T07:38:34Z | [open](../records/assets-sahibjotsaggu-san-francisco-pro-fonts-f6ecd2be.md) |
+| sepandhaghighi/art | partial | 2026-08-31T01:32:38Z | [open](../records/assets-sepandhaghighi-art-5075f3ee.md) |
+| xero/figlet-fonts | partial | 2026-03-30T14:19:33Z | [open](../records/assets-xero-figlet-fonts-4c500777.md) |
+
 ## Maps
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| neo4j-contrib/spatial | partial | 2026-02-28T02:38:31Z | [open](../records/maps-neo4j-contrib-spatial-54e2a2d3.md) |
 | radarlabs/radar-sdk-android | 3.37.0 | 2026-08-28T16:47:16Z | [open](../records/maps-radarlabs-radar-sdk-android-43886732.md) |
 | radarlabs/radar-sdk-js | v5.1.3 | 2026-08-31T22:42:54Z | [open](../records/maps-radarlabs-radar-sdk-js-03959a75.md) |
 | radarlabs/react-native-radar | 4.36.0 | 2026-07-22T18:43:29Z | [open](../records/maps-radarlabs-react-native-radar-076f2493.md) |
@@ -235,19 +285,30 @@ Records: `176`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Conquer-Space/Conquer-Space | unknown | github_latest_release_missing | [open](../records/space-engines-conquer-space-conquer-space-a0dd07bc.md) |
-| Thomas-Loudis/georb | v2.1.8 | 2026-07-21T14:17:08Z | [open](../records/space-engines-thomas-loudis-georb-f1cd71a8.md) |
+| Conquer-Space/Conquer-Space | partial | 2026-07-09T07:40:25Z | [open](../records/space-engines-conquer-space-conquer-space-a0dd07bc.md) |
+| Thomas-Loudis/georb | partial | 2026-07-24T12:36:11Z | [open](../records/space-engines-thomas-loudis-georb-f1cd71a8.md) |
 
 ## Space Shuttles
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ADSWNJ/RV_Orientation | unknown | github_latest_release_missing | [open](../records/space-shuttles-adswnj-rv-orientation-ff008fde.md) |
+| ADSWNJ/RV_Orientation | partial | 2018-08-11T14:41:49Z | [open](../records/space-shuttles-adswnj-rv-orientation-ff008fde.md) |
+
+## Space Maps
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| amnh/HackTheSolarSystem | partial | 2019-02-11T20:42:00Z | [open](../records/space-maps-amnh-hackthesolarsystem-ac736e3e.md) |
+| js1019/NormalModes | partial | 2023-01-01T21:53:54Z | [open](../records/space-maps-js1019-normalmodes-10cca106.md) |
+| MarkWieczorek/ctplanet | partial | 2026-08-18T21:05:10Z | [open](../records/space-maps-markwieczorek-ctplanet-5a02ee6d.md) |
+| maxmahlke/rocks | partial | 2026-07-13T08:02:19Z | [open](../records/space-maps-maxmahlke-rocks-873f5e31.md) |
+| VirtualPlanetaryLaboratory/vplanet | partial | 2026-08-11T21:24:13Z | [open](../records/space-maps-virtualplanetarylaboratory-vplanet-bbbd7433.md) |
 
 ## Effects
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| Greenysmac/awesome-davinci-resolve | partial | 2026-05-20T01:43:28Z | [open](../records/effects-greenysmac-awesome-davinci-resolve-af32b542.md) |
 | keijiro/KvantSpray | unknown | github_latest_release_missing | [open](../records/effects-keijiro-kvantspray-5aa04f63.md) |
 
 ## Audio
