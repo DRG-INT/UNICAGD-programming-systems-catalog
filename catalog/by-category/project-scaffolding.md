@@ -1,6 +1,6 @@
 # Project Scaffolding
 
-Records: `84`
+Records: `90`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `84`
 
 ## Category Index
 
-[Api Abi Checker (112)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
-[Benchmarking (69)](benchmarking.md) · [Build System (563)](build-system.md) · [Cli (441)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (63)](community-reference.md) · [Compiler (111)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
-[Concurrency Parallelism (62)](concurrency-parallelism.md) · [Configuration (69)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (128)](cryptography.md) · [Data Science (29)](data-science.md) · [Database Datastore (436)](database-datastore.md) · [Datetime (96)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (59)](dependency-manager.md) · [Documentation (61)](documentation.md)
-[Embedded Hardware (36)](embedded-hardware.md) · [Ffi Bindings (312)](ffi-bindings.md) · [Filesystem Os (678)](filesystem-os.md) · [Formatter (434)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (23)](fuzzer.md) · [Game Engine Game Dev (98)](game-engine-game-dev.md) · [Ide Editor Integration (812)](ide-editor-integration.md)
-[Image Audio Dsp (168)](image-audio-dsp.md) · [Interop Bindings (46)](interop-bindings.md) · [Interpreter Runtime (138)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (825)](language-specification.md) · [Library (3295)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (33)](lint-rule-pack.md) · [Linter (328)](linter.md) · [Logging Observability (246)](logging-observability.md) · [Machine Learning (365)](machine-learning.md)
-[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (52)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (684)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (193)](package-manager.md) · [Parser Lexer Ast (583)](parser-lexer-ast.md) · [Precommit Ci Quality (168)](precommit-ci-quality.md)
-[Profiler (56)](profiler.md) · **[Project Scaffolding (84)](project-scaffolding.md)** · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
-[Security Sast (263)](security-sast.md) · [Serialization (270)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (263)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (414)](testing-framework.md) · [Tutorial Book Styleguide (39)](tutorial-book-styleguide.md) · [Type Checker (258)](type-checker.md)
-[Undefined Behavior Analyzer (901)](undefined-behavior-analyzer.md) · [Utility Library (79)](utility-library.md) · [Visualization Gui (268)](visualization-gui.md) · [Web Framework (294)](web-framework.md)
+[Api Abi Checker (115)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (105)](async-runtime.md)
+[Benchmarking (73)](benchmarking.md) · [Build System (583)](build-system.md) · [Cli (450)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
+[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (71)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (437)](database-datastore.md) · [Datetime (100)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
+[Embedded Hardware (38)](embedded-hardware.md) · [Ffi Bindings (320)](ffi-bindings.md) · [Filesystem Os (745)](filesystem-os.md) · [Formatter (441)](formatter.md)
+[Framework (38)](framework.md) · [Fuzzer (24)](fuzzer.md) · [Game Engine Game Dev (103)](game-engine-game-dev.md) · [Ide Editor Integration (844)](ide-editor-integration.md)
+[Image Audio Dsp (183)](image-audio-dsp.md) · [Interop Bindings (47)](interop-bindings.md) · [Interpreter Runtime (158)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (833)](language-specification.md) · [Library (3355)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (34)](lint-rule-pack.md) · [Linter (330)](linter.md) · [Logging Observability (258)](logging-observability.md) · [Machine Learning (382)](machine-learning.md)
+[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (691)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (199)](package-manager.md) · [Parser Lexer Ast (592)](parser-lexer-ast.md) · [Precommit Ci Quality (171)](precommit-ci-quality.md)
+[Profiler (57)](profiler.md) · **[Project Scaffolding (90)](project-scaffolding.md)** · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
+[Security Sast (268)](security-sast.md) · [Serialization (272)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (270)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (418)](testing-framework.md) · [Tutorial Book Styleguide (42)](tutorial-book-styleguide.md) · [Type Checker (261)](type-checker.md)
+[Undefined Behavior Analyzer (996)](undefined-behavior-analyzer.md) · [Utility Library (80)](utility-library.md) · [Visualization Gui (277)](visualization-gui.md) · [Web Framework (298)](web-framework.md)
 
 ## C++23
 
@@ -135,8 +135,9 @@ Records: `84`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| github.com/continew-org/continew-starter | v2.7.5+incompatible | 2026-08-30T10:57:14.368163Z | [open](../records/go-github-com-continew-org-continew-starter-7691250b.md) |
-| github.com/micronaut-projects/micronaut-starter | v2.5.7+incompatible | 2026-08-30T11:58:10.262281Z | [open](../records/go-github-com-micronaut-projects-micronaut-starter-0b6baca4.md) |
+| github.com/continew-org/continew-starter | v2.7.2+incompatible | 2026-08-30T14:10:06.10492Z | [open](../records/go-github-com-continew-org-continew-starter-7691250b.md) |
+| github.com/micronaut-projects/micronaut-starter | v4.10.10+incompatible | 2026-08-30T14:09:18.905747Z | [open](../records/go-github-com-micronaut-projects-micronaut-starter-0b6baca4.md) |
+| github.com/unonao/kaggle-template | v2.0.2+incompatible | 2026-08-30T14:07:56.203318Z | [open](../records/go-github-com-unonao-kaggle-template-5bc94715.md) |
 
 ## Space Engines
 
@@ -169,19 +170,22 @@ Records: `84`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| blogger-templates/Plus-UI-V3.7.0 | v3.7.0 | 2025-12-18T16:08:58Z | [open](../records/magazines-blogger-templates-plus-ui-v3-7-0-c6d6a0c1.md) |
+| blogger-templates/Plus-UI-V3.7.0 | unknown | github_search_does_not_include_release_date | [open](../records/magazines-blogger-templates-plus-ui-v3-7-0-c6d6a0c1.md) |
 | chrisnmorrison/revista-gatsby-blog-magazine | unknown | github_search_does_not_include_release_date | [open](../records/magazines-chrisnmorrison-revista-gatsby-blog-magazine-99fc1244.md) |
 | edgarlr/magazine | unknown | github_search_does_not_include_release_date | [open](../records/magazines-edgarlr-magazine-ca1ef2f0.md) |
+| quantixed/manuscript-templates | unknown | github_search_does_not_include_release_date | [open](../records/magazines-quantixed-manuscript-templates-0fd952ae.md) |
 | razacreative/blog-dark | unknown | github_latest_release_missing | [open](../records/magazines-razacreative-blog-dark-50487664.md) |
 | razacreative/Responsive-NavBar | unknown | github_latest_release_missing | [open](../records/magazines-razacreative-responsive-navbar-21017105.md) |
 | rstudio/rticles | unknown | github_search_does_not_include_release_date | [open](../records/magazines-rstudio-rticles-1354fe57.md) |
+| shellywhen/Journal-Response-Letter-Template-LaTeX | unknown | github_search_does_not_include_release_date | [open](../records/magazines-shellywhen-journal-response-letter-template-latex-e3622e7f.md) |
+| sunbliss/photorama | unknown | github_search_does_not_include_release_date | [open](../records/magazines-sunbliss-photorama-e8437230.md) |
 
 ## Pattern language
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| andrechristikan/ack-nestjs-boilerplate-kafka | v4.0.0 | 2023-04-07T19:06:22Z | [open](../records/pattern-language-andrechristikan-ack-nestjs-boilerplate-kafka-29c3d599.md) |
-| cobusgreyling/loop-engineering | v1.6.0 | 2026-07-20T18:42:38Z | [open](../records/pattern-language-cobusgreyling-loop-engineering-3a7d9a15.md) |
+| andrechristikan/ack-nestjs-boilerplate-kafka | partial | 2023-07-19T10:53:33Z | [open](../records/pattern-language-andrechristikan-ack-nestjs-boilerplate-kafka-29c3d599.md) |
+| cobusgreyling/loop-engineering | partial | 2026-09-01T08:02:01Z | [open](../records/pattern-language-cobusgreyling-loop-engineering-3a7d9a15.md) |
 
 ## SAPJava
 
@@ -199,8 +203,10 @@ Records: `84`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | iOS project template | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-ios-project-template-a7229a2a.md) |
+| krzysztofzablocki/Sourcery | unknown | github_search_does_not_include_release_date | [open](../records/swift-krzysztofzablocki-sourcery-82c012e3.md) |
 | Model-View-Presenter template | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-model-view-presenter-template-5ef880b0.md) |
 | Swift Module Template | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-swift-module-template-48451d3a.md) |
+| SwiftGen/SwiftGen | unknown | github_search_does_not_include_release_date | [open](../records/swift-swiftgen-swiftgen-7cc10ec0.md) |
 
 ## Databases
 

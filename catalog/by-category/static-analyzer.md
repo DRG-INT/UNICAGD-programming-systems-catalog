@@ -1,6 +1,6 @@
 # Static Analyzer
 
-Records: `263`
+Records: `270`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `263`
 
 ## Category Index
 
-[Api Abi Checker (112)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
-[Benchmarking (69)](benchmarking.md) · [Build System (563)](build-system.md) · [Cli (441)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (63)](community-reference.md) · [Compiler (111)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
-[Concurrency Parallelism (62)](concurrency-parallelism.md) · [Configuration (69)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (128)](cryptography.md) · [Data Science (29)](data-science.md) · [Database Datastore (436)](database-datastore.md) · [Datetime (96)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (59)](dependency-manager.md) · [Documentation (61)](documentation.md)
-[Embedded Hardware (36)](embedded-hardware.md) · [Ffi Bindings (312)](ffi-bindings.md) · [Filesystem Os (678)](filesystem-os.md) · [Formatter (434)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (23)](fuzzer.md) · [Game Engine Game Dev (98)](game-engine-game-dev.md) · [Ide Editor Integration (812)](ide-editor-integration.md)
-[Image Audio Dsp (168)](image-audio-dsp.md) · [Interop Bindings (46)](interop-bindings.md) · [Interpreter Runtime (138)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (825)](language-specification.md) · [Library (3295)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (33)](lint-rule-pack.md) · [Linter (328)](linter.md) · [Logging Observability (246)](logging-observability.md) · [Machine Learning (365)](machine-learning.md)
-[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (52)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (684)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (193)](package-manager.md) · [Parser Lexer Ast (583)](parser-lexer-ast.md) · [Precommit Ci Quality (168)](precommit-ci-quality.md)
-[Profiler (56)](profiler.md) · [Project Scaffolding (84)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
-[Security Sast (263)](security-sast.md) · [Serialization (270)](serialization.md) · [Standard Library (22)](standard-library.md) · **[Static Analyzer (263)](static-analyzer.md)**
-[Templating (2)](templating.md) · [Testing Framework (414)](testing-framework.md) · [Tutorial Book Styleguide (39)](tutorial-book-styleguide.md) · [Type Checker (258)](type-checker.md)
-[Undefined Behavior Analyzer (901)](undefined-behavior-analyzer.md) · [Utility Library (79)](utility-library.md) · [Visualization Gui (268)](visualization-gui.md) · [Web Framework (294)](web-framework.md)
+[Api Abi Checker (115)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (105)](async-runtime.md)
+[Benchmarking (73)](benchmarking.md) · [Build System (583)](build-system.md) · [Cli (450)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
+[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (71)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (437)](database-datastore.md) · [Datetime (100)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
+[Embedded Hardware (38)](embedded-hardware.md) · [Ffi Bindings (320)](ffi-bindings.md) · [Filesystem Os (745)](filesystem-os.md) · [Formatter (441)](formatter.md)
+[Framework (38)](framework.md) · [Fuzzer (24)](fuzzer.md) · [Game Engine Game Dev (103)](game-engine-game-dev.md) · [Ide Editor Integration (844)](ide-editor-integration.md)
+[Image Audio Dsp (183)](image-audio-dsp.md) · [Interop Bindings (47)](interop-bindings.md) · [Interpreter Runtime (158)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (833)](language-specification.md) · [Library (3355)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (34)](lint-rule-pack.md) · [Linter (330)](linter.md) · [Logging Observability (258)](logging-observability.md) · [Machine Learning (382)](machine-learning.md)
+[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (691)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (199)](package-manager.md) · [Parser Lexer Ast (592)](parser-lexer-ast.md) · [Precommit Ci Quality (171)](precommit-ci-quality.md)
+[Profiler (57)](profiler.md) · [Project Scaffolding (90)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
+[Security Sast (268)](security-sast.md) · [Serialization (272)](serialization.md) · [Standard Library (22)](standard-library.md) · **[Static Analyzer (270)](static-analyzer.md)**
+[Templating (2)](templating.md) · [Testing Framework (418)](testing-framework.md) · [Tutorial Book Styleguide (42)](tutorial-book-styleguide.md) · [Type Checker (261)](type-checker.md)
+[Undefined Behavior Analyzer (996)](undefined-behavior-analyzer.md) · [Utility Library (80)](utility-library.md) · [Visualization Gui (277)](visualization-gui.md) · [Web Framework (298)](web-framework.md)
 
 ## C99
 
@@ -314,6 +314,7 @@ Records: `263`
 | AudioKit/AudioKit | 5.7.2 | 2026-03-31T20:39:27Z | [open](../records/audio-audiokit-audiokit-8e968f0e.md) |
 | libAudioFlux/audioFlux | v0.1.9 | 2024-05-24T09:49:30Z | [open](../records/audio-libaudioflux-audioflux-7311838f.md) |
 | librosa/librosa | 1.0.0 | 2026-08-11T15:36:36Z | [open](../records/audio-librosa-librosa-8068a972.md) |
+| loxodes/vna | unknown | github_latest_release_missing | [open](../records/audio-loxodes-vna-4a3e95d9.md) |
 | MTG/essentia | v2.0.1 | 2014-02-11T19:45:51Z | [open](../records/audio-mtg-essentia-165d16e9.md) |
 | tyiannak/pyAudioAnalysis | unknown | github_latest_release_missing | [open](../records/audio-tyiannak-pyaudioanalysis-cb0f7505.md) |
 
@@ -348,8 +349,8 @@ Records: `263`
 | clEsperanto/pyclesperanto_prototype | unknown | github_latest_release_missing | [open](../records/microscopy-clesperanto-pyclesperanto-prototype-3fd5a628.md) |
 | imjoy-team/imagej.js | v0.4.0 | 2021-06-14T12:20:14Z | [open](../records/microscopy-imjoy-team-imagej-js-ab4ae7b8.md) |
 | NL-BioImaging/biomero | v2.8.2 | 2026-08-20T11:21:09Z | [open](../records/microscopy-nl-bioimaging-biomero-e59c8222.md) |
-| pycroscopy/pycroscopy | partial | 2025-09-12T16:21:57Z | [open](../records/microscopy-pycroscopy-pycroscopy-e22f9142.md) |
-| qupath/qupath | partial | 2026-09-01T07:26:51Z | [open](../records/microscopy-qupath-qupath-319e8bd2.md) |
+| pycroscopy/pycroscopy | v0.63.3 | 2024-06-05T21:26:20Z | [open](../records/microscopy-pycroscopy-pycroscopy-e22f9142.md) |
+| qupath/qupath | v0.7.0 | 2026-03-02T15:07:30Z | [open](../records/microscopy-qupath-qupath-319e8bd2.md) |
 
 ## Telescopes
 
@@ -405,24 +406,35 @@ Records: `263`
 | --- | --- | --- | --- |
 | emanemad-dev/ux-review-website | unknown | github_latest_release_missing | [open](../records/magazines-emanemad-dev-ux-review-website-030b8c54.md) |
 | Lifailon/lazyjournal | unknown | github_search_does_not_include_release_date | [open](../records/magazines-lifailon-lazyjournal-28d8daea.md) |
+| massimoaria/bibliometrix | unknown | github_search_does_not_include_release_date | [open](../records/magazines-massimoaria-bibliometrix-de0b9efa.md) |
 
 ## Assembly
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mandiant/flare-learning-hub | unknown | github_latest_release_missing | [open](../records/assembly-mandiant-flare-learning-hub-36dc67ad.md) |
+| mandiant/flare-learning-hub | partial | 2026-03-31T14:36:02Z | [open](../records/assembly-mandiant-flare-learning-hub-36dc67ad.md) |
 
 ## Pattern language
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ddd-by-examples/library | unknown | github_latest_release_missing | [open](../records/pattern-language-ddd-by-examples-library-19a9d881.md) |
-| simple-android-framework/android_design_patterns_analysis | unknown | github_latest_release_missing | [open](../records/pattern-language-simple-android-framework-android-design-patterns-analysis-d87c1f0b.md) |
+| ddd-by-examples/library | partial | 2023-07-07T21:43:17Z | [open](../records/pattern-language-ddd-by-examples-library-19a9d881.md) |
+| simple-android-framework/android_design_patterns_analysis | partial | 2023-09-26T09:34:23Z | [open](../records/pattern-language-simple-android-framework-android-design-patterns-analysis-d87c1f0b.md) |
+
+## WebAssembly
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| acieroid/wassail | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-acieroid-wassail-9938b412.md) |
+| ASSERT-KTH/slumps | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-assert-kth-slumps-32b47fde.md) |
+| danleh/wasabi | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-danleh-wasabi-20dc006b.md) |
+| Implex-ltd/hcaptcha-reverse | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-implex-ltd-hcaptcha-reverse-3ac23990.md) |
 
 ## Swift
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| AudioKit/AudioKit | unknown | github_search_does_not_include_release_date | [open](../records/swift-audiokit-audiokit-0a7c5399.md) |
 | DanielJamesTronca/SleepChartKit | v1.2.0 | 2025-10-21T20:25:27Z | [open](../records/swift-danieljamestronca-sleepchartkit-a0216cea.md) |
 
 ## Repository Workplaces

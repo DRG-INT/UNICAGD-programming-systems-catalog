@@ -1,6 +1,6 @@
 # Filesystem Os
 
-Records: `678`
+Records: `745`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `678`
 
 ## Category Index
 
-[Api Abi Checker (112)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
-[Benchmarking (69)](benchmarking.md) · [Build System (563)](build-system.md) · [Cli (441)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (63)](community-reference.md) · [Compiler (111)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
-[Concurrency Parallelism (62)](concurrency-parallelism.md) · [Configuration (69)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (128)](cryptography.md) · [Data Science (29)](data-science.md) · [Database Datastore (436)](database-datastore.md) · [Datetime (96)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (59)](dependency-manager.md) · [Documentation (61)](documentation.md)
-[Embedded Hardware (36)](embedded-hardware.md) · [Ffi Bindings (312)](ffi-bindings.md) · **[Filesystem Os (678)](filesystem-os.md)** · [Formatter (434)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (23)](fuzzer.md) · [Game Engine Game Dev (98)](game-engine-game-dev.md) · [Ide Editor Integration (812)](ide-editor-integration.md)
-[Image Audio Dsp (168)](image-audio-dsp.md) · [Interop Bindings (46)](interop-bindings.md) · [Interpreter Runtime (138)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (825)](language-specification.md) · [Library (3295)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (33)](lint-rule-pack.md) · [Linter (328)](linter.md) · [Logging Observability (246)](logging-observability.md) · [Machine Learning (365)](machine-learning.md)
-[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (52)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (684)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (193)](package-manager.md) · [Parser Lexer Ast (583)](parser-lexer-ast.md) · [Precommit Ci Quality (168)](precommit-ci-quality.md)
-[Profiler (56)](profiler.md) · [Project Scaffolding (84)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
-[Security Sast (263)](security-sast.md) · [Serialization (270)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (263)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (414)](testing-framework.md) · [Tutorial Book Styleguide (39)](tutorial-book-styleguide.md) · [Type Checker (258)](type-checker.md)
-[Undefined Behavior Analyzer (901)](undefined-behavior-analyzer.md) · [Utility Library (79)](utility-library.md) · [Visualization Gui (268)](visualization-gui.md) · [Web Framework (294)](web-framework.md)
+[Api Abi Checker (115)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (105)](async-runtime.md)
+[Benchmarking (73)](benchmarking.md) · [Build System (583)](build-system.md) · [Cli (450)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
+[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (71)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (437)](database-datastore.md) · [Datetime (100)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
+[Embedded Hardware (38)](embedded-hardware.md) · [Ffi Bindings (320)](ffi-bindings.md) · **[Filesystem Os (745)](filesystem-os.md)** · [Formatter (441)](formatter.md)
+[Framework (38)](framework.md) · [Fuzzer (24)](fuzzer.md) · [Game Engine Game Dev (103)](game-engine-game-dev.md) · [Ide Editor Integration (844)](ide-editor-integration.md)
+[Image Audio Dsp (183)](image-audio-dsp.md) · [Interop Bindings (47)](interop-bindings.md) · [Interpreter Runtime (158)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (833)](language-specification.md) · [Library (3355)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (34)](lint-rule-pack.md) · [Linter (330)](linter.md) · [Logging Observability (258)](logging-observability.md) · [Machine Learning (382)](machine-learning.md)
+[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (691)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (199)](package-manager.md) · [Parser Lexer Ast (592)](parser-lexer-ast.md) · [Precommit Ci Quality (171)](precommit-ci-quality.md)
+[Profiler (57)](profiler.md) · [Project Scaffolding (90)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
+[Security Sast (268)](security-sast.md) · [Serialization (272)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (270)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (418)](testing-framework.md) · [Tutorial Book Styleguide (42)](tutorial-book-styleguide.md) · [Type Checker (261)](type-checker.md)
+[Undefined Behavior Analyzer (996)](undefined-behavior-analyzer.md) · [Utility Library (80)](utility-library.md) · [Visualization Gui (277)](visualization-gui.md) · [Web Framework (298)](web-framework.md)
 
 ## C++23
 
@@ -537,17 +537,29 @@ Records: `678`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| akunull/piloslib | unknown | github_latest_release_missing | [open](../records/audio-akunull-piloslib-6084501c.md) |
+| AudioKit/AudioKitSynthOne | unknown | github_latest_release_missing | [open](../records/audio-audiokit-audiokitsynthone-f3e02e66.md) |
+| calf-studio-gear/calf | unknown | github_latest_release_missing | [open](../records/audio-calf-studio-gear-calf-089316e7.md) |
+| christofmuc/KnobKraft-orm | 2.9.0 | 2026-04-19T13:43:33Z | [open](../records/audio-christofmuc-knobkraft-orm-c5ee3da6.md) |
 | gnuradio/gnuradio | v3.10.12.0 | 2025-02-20T01:28:19Z | [open](../records/audio-gnuradio-gnuradio-f6f01d2f.md) |
 | HEnquist/camilladsp | v4.1.3 | 2026-04-09T19:55:09Z | [open](../records/audio-henquist-camilladsp-382264e4.md) |
 | hifiberry/hifiberry-os | unknown | github_latest_release_missing | [open](../records/audio-hifiberry-hifiberry-os-5ddcb398.md) |
+| jameshball/osci-render | v2.8.9.18 | 2026-04-19T21:32:42Z | [open](../records/audio-jameshball-osci-render-c76ba818.md) |
+| josephernest/SamplerBox | 2022-08-10-release | 2022-08-10T15:56:33Z | [open](../records/audio-josephernest-samplerbox-c23f8c2d.md) |
+| joshwcomeau/key-and-pad | unknown | github_latest_release_missing | [open](../records/audio-joshwcomeau-key-and-pad-da5bc43a.md) |
 | juce-framework/JUCE | 9.0.1 | 2026-08-10T09:58:43Z | [open](../records/audio-juce-framework-juce-7765dd0c.md) |
 | martinber/noaa-apt | v1.4.1 | 2023-11-30T02:29:45Z | [open](../records/audio-martinber-noaa-apt-c11a6202.md) |
+| microsoft/torchscale | unknown | github_latest_release_missing | [open](../records/audio-microsoft-torchscale-35290025.md) |
+| microsoft/UniSpeech | unknown | github_latest_release_missing | [open](../records/audio-microsoft-unispeech-787685ec.md) |
 | openframeworks/openFrameworks | nightly | 2026-09-01T06:36:08Z | [open](../records/audio-openframeworks-openframeworks-3c0a071e.md) |
+| polykit/pico-dco | unknown | github_latest_release_missing | [open](../records/audio-polykit-pico-dco-17364b22.md) |
 | Rikorose/DeepFilterNet | v0.5.6 | 2023-08-31T18:33:46Z | [open](../records/audio-rikorose-deepfilternet-659ef42c.md) |
 | rishikanthc/Scriberr | v1.2.0 | 2025-12-17T19:45:34Z | [open](../records/audio-rishikanthc-scriberr-55b843d3.md) |
 | ronitsingh10/FineTune | v1.9.0 | 2026-07-09T07:54:57Z | [open](../records/audio-ronitsingh10-finetune-05619c84.md) |
 | RustAudio/cpal | v0.18.2 | 2026-08-16T17:58:11Z | [open](../records/audio-rustaudio-cpal-f54a68cc.md) |
 | RustAudio/vst-rs | v0.3.0 | 2022-02-27T03:30:53Z | [open](../records/audio-rustaudio-vst-rs-881f699b.md) |
+| santi-pdp/pase | unknown | github_latest_release_missing | [open](../records/audio-santi-pdp-pase-8a411669.md) |
+| SforAiDl/Neural-Voice-Cloning-With-Few-Samples | unknown | github_latest_release_missing | [open](../records/audio-sforaidl-neural-voice-cloning-with-few-samples-bfc3f554.md) |
 | xiangyuecn/Recorder | 1.3.26070800 | 2026-07-08T15:52:59Z | [open](../records/audio-xiangyuecn-recorder-3cd39183.md) |
 
 ## Photography
@@ -630,33 +642,33 @@ Records: `678`
 | MWod/ANHIR_MW | unknown | github_latest_release_missing | [open](../records/microscopy-mwod-anhir-mw-8e055d83.md) |
 | NICALab/SUPPORT | unknown | github_latest_release_missing | [open](../records/microscopy-nicalab-support-2b7c66f2.md) |
 | okunator/cellseg_models.pytorch | v.0.1.30 | 2025-11-14T10:28:07Z | [open](../records/microscopy-okunator-cellseg-models-pytorch-7f942e9c.md) |
-| Open-Science-Tools/nd2reader | partial | 2025-01-15T10:15:32Z | [open](../records/microscopy-open-science-tools-nd2reader-9f3adb23.md) |
-| openMLA/Medjed | partial | 2025-07-29T17:50:48Z | [open](../records/microscopy-openmla-medjed-0e099c83.md) |
-| pvjosue/WaveBlocks | partial | 2022-11-22T17:07:44Z | [open](../records/microscopy-pvjosue-waveblocks-851e08dd.md) |
-| pycroscopy/atomai | partial | 2025-06-24T07:57:00Z | [open](../records/microscopy-pycroscopy-atomai-0ba7ef19.md) |
-| pymmcore-plus/napari-micromanager | partial | 2026-08-03T16:26:33Z | [open](../records/microscopy-pymmcore-plus-napari-micromanager-ee37e322.md) |
-| pymmcore-plus/pymmcore-plus | partial | 2026-08-03T16:28:29Z | [open](../records/microscopy-pymmcore-plus-pymmcore-plus-c09b4755.md) |
-| pymontecarlo/pymontecarlo | partial | 2022-01-16T17:02:44Z | [open](../records/microscopy-pymontecarlo-pymontecarlo-376c3fcd.md) |
-| PytorchConnectomics/pytorch_connectomics | partial | 2026-08-28T21:32:03Z | [open](../records/microscopy-pytorchconnectomics-pytorch-connectomics-6aa6d39f.md) |
-| rapidsai/cucim | partial | 2026-08-31T22:16:46Z | [open](../records/microscopy-rapidsai-cucim-6fd9f972.md) |
-| royerlab/cytoself | partial | 2025-08-05T18:46:40Z | [open](../records/microscopy-royerlab-cytoself-b2dff824.md) |
-| scalableminds/webknossos | partial | 2026-09-01T08:13:46Z | [open](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) |
-| seung-lab/cloud-volume | partial | 2026-08-13T01:17:15Z | [open](../records/microscopy-seung-lab-cloud-volume-388cc8e9.md) |
-| tferr/Scripts | partial | 2022-06-03T11:23:48Z | [open](../records/microscopy-tferr-scripts-25277503.md) |
-| TheDeanLab/navigate | partial | 2026-08-31T13:00:45Z | [open](../records/microscopy-thedeanlab-navigate-dc14fa5a.md) |
-| ThFriedrich/riCOM_cpp | partial | 2026-05-19T16:32:03Z | [open](../records/microscopy-thfriedrich-ricom-cpp-2338225f.md) |
-| TIO-IKIM/CellViT | partial | 2025-07-23T06:10:25Z | [open](../records/microscopy-tio-ikim-cellvit-0ce79676.md) |
-| tlambert03/nd2 | partial | 2026-08-26T13:00:45Z | [open](../records/microscopy-tlambert03-nd2-bc5f1f25.md) |
-| yijiang1/fold_slice | partial | 2024-11-23T07:05:27Z | [open](../records/microscopy-yijiang1-fold-slice-9121d5c8.md) |
-| zeiss-microscopy/libCZI | partial | 2022-09-30T17:09:39Z | [open](../records/microscopy-zeiss-microscopy-libczi-168f37f0.md) |
-| zeiss-microscopy/OAD | partial | 2026-07-10T12:07:49Z | [open](../records/microscopy-zeiss-microscopy-oad-882477e7.md) |
+| Open-Science-Tools/nd2reader | 3.3.1 | 2025-01-15T09:45:00Z | [open](../records/microscopy-open-science-tools-nd2reader-9f3adb23.md) |
+| openMLA/Medjed | unknown | github_latest_release_missing | [open](../records/microscopy-openmla-medjed-0e099c83.md) |
+| pvjosue/WaveBlocks | unknown | github_latest_release_missing | [open](../records/microscopy-pvjosue-waveblocks-851e08dd.md) |
+| pycroscopy/atomai | v0.8.1 | 2025-06-24T07:57:00Z | [open](../records/microscopy-pycroscopy-atomai-0ba7ef19.md) |
+| pymmcore-plus/napari-micromanager | v0.3.1.post1 | 2026-05-18T17:25:41Z | [open](../records/microscopy-pymmcore-plus-napari-micromanager-ee37e322.md) |
+| pymmcore-plus/pymmcore-plus | v0.18.1 | 2026-04-02T12:44:11Z | [open](../records/microscopy-pymmcore-plus-pymmcore-plus-c09b4755.md) |
+| pymontecarlo/pymontecarlo | 1.1.0 | 2022-01-03T14:33:10Z | [open](../records/microscopy-pymontecarlo-pymontecarlo-376c3fcd.md) |
+| PytorchConnectomics/pytorch_connectomics | v1.0.0 | 2025-09-28T03:27:53Z | [open](../records/microscopy-pytorchconnectomics-pytorch-connectomics-6aa6d39f.md) |
+| rapidsai/cucim | v26.08.00 | 2026-08-05T17:53:43Z | [open](../records/microscopy-rapidsai-cucim-6fd9f972.md) |
+| royerlab/cytoself | 0.1.0.0 | 2024-09-13T22:54:34Z | [open](../records/microscopy-royerlab-cytoself-b2dff824.md) |
+| scalableminds/webknossos | 26.09.1 | 2026-08-31T08:14:58Z | [open](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) |
+| seung-lab/cloud-volume | 5.3.2 | 2021-11-10T22:27:58Z | [open](../records/microscopy-seung-lab-cloud-volume-388cc8e9.md) |
+| tferr/Scripts | 1.51 | 2017-04-06T03:09:39Z | [open](../records/microscopy-tferr-scripts-25277503.md) |
+| TheDeanLab/navigate | v0.0.12 | 2026-06-02T12:20:02Z | [open](../records/microscopy-thedeanlab-navigate-dc14fa5a.md) |
+| ThFriedrich/riCOM_cpp | v0.0.4-beta | 2026-05-19T16:32:03Z | [open](../records/microscopy-thfriedrich-ricom-cpp-2338225f.md) |
+| TIO-IKIM/CellViT | unknown | github_latest_release_missing | [open](../records/microscopy-tio-ikim-cellvit-0ce79676.md) |
+| tlambert03/nd2 | v0.11.3 | 2026-03-27T19:55:40Z | [open](../records/microscopy-tlambert03-nd2-bc5f1f25.md) |
+| yijiang1/fold_slice | unknown | github_latest_release_missing | [open](../records/microscopy-yijiang1-fold-slice-9121d5c8.md) |
+| zeiss-microscopy/libCZI | unknown | github_latest_release_missing | [open](../records/microscopy-zeiss-microscopy-libczi-168f37f0.md) |
+| zeiss-microscopy/OAD | unknown | github_latest_release_missing | [open](../records/microscopy-zeiss-microscopy-oad-882477e7.md) |
 
 ## Telescopes
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| dEskoG/rDUINOScope | partial | 2020-06-23T12:05:59Z | [open](../records/telescopes-deskog-rduinoscope-0542432f.md) |
-| Julien-R44/adoscope | partial | 2022-04-23T07:37:13Z | [open](../records/telescopes-julien-r44-adoscope-0cdd9994.md) |
+| dEskoG/rDUINOScope | v2.3.1 | 2017-09-09T08:25:13Z | [open](../records/telescopes-deskog-rduinoscope-0542432f.md) |
+| Julien-R44/adoscope | unknown | github_latest_release_missing | [open](../records/telescopes-julien-r44-adoscope-0cdd9994.md) |
 | rcos/Telescope | partial | 2023-08-30T14:57:50Z | [open](../records/telescopes-rcos-telescope-e587062a.md) |
 | vlaate/DobsonianDSC | partial | 2021-09-19T16:28:57Z | [open](../records/telescopes-vlaate-dobsoniandsc-83afe2a8.md) |
 
@@ -716,8 +728,11 @@ Records: `678`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| 7LPdWcaW/GrowTracker-Android | unknown | github_search_does_not_include_release_date | [open](../records/magazines-7lpdwcaw-growtracker-android-380bd999.md) |
+| atrenton/MyJournal.Notebook | unknown | github_search_does_not_include_release_date | [open](../records/magazines-atrenton-myjournal-notebook-69c69e5d.md) |
 | BoundfoxStudios/windows-developer-unity | unknown | github_latest_release_missing | [open](../records/magazines-boundfoxstudios-windows-developer-unity-c6ab0012.md) |
 | dlh01/monthly-magazine | unknown | github_latest_release_missing | [open](../records/magazines-dlh01-monthly-magazine-75487f99.md) |
+| gkostka/lwext4 | unknown | github_search_does_not_include_release_date | [open](../records/magazines-gkostka-lwext4-ab78cb93.md) |
 | journiv/journiv-app | unknown | github_search_does_not_include_release_date | [open](../records/magazines-journiv-journiv-app-b0d9c829.md) |
 | OS2World/DEV-SAMPLES-C-ColorWheel | unknown | github_latest_release_missing | [open](../records/magazines-os2world-dev-samples-c-colorwheel-50ebb784.md) |
 | OS2World/DEV-SAMPLES-C-PM-ctrldes | 1.01 | 2023-05-22T21:49:53Z | [open](../records/magazines-os2world-dev-samples-c-pm-ctrldes-cc4b602b.md) |
@@ -733,50 +748,58 @@ Records: `678`
 | OS2World/DEV-SAMPLES-SOM-Name_Lookup_SOM | unknown | github_latest_release_missing | [open](../records/magazines-os2world-dev-samples-som-name-lookup-som-34eabd13.md) |
 | OS2World/DEV-SAMPLES-SOM-Students | unknown | github_latest_release_missing | [open](../records/magazines-os2world-dev-samples-som-students-ec413d96.md) |
 | OS2World/DRV-HRTIMER | 1.1 | 2023-08-31T00:53:56Z | [open](../records/magazines-os2world-drv-hrtimer-58f3acac.md) |
+| songtianlun/diarum | unknown | github_search_does_not_include_release_date | [open](../records/magazines-songtianlun-diarum-6ce1bdf0.md) |
 
 ## Assembly
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| dreamportdev/Osdev-Notes | v1.6 | 2026-02-21T15:32:17Z | [open](../records/assembly-dreamportdev-osdev-notes-0bc186d6.md) |
-| rwfpl/rewolf-wow64ext | v1.0.0.9 | 2017-01-17T23:24:52Z | [open](../records/assembly-rwfpl-rewolf-wow64ext-24fabb9b.md) |
-| wichtounet/thor-os | unknown | github_latest_release_missing | [open](../records/assembly-wichtounet-thor-os-cf1384c0.md) |
+| dreamportdev/Osdev-Notes | partial | 2026-08-29T00:33:45Z | [open](../records/assembly-dreamportdev-osdev-notes-0bc186d6.md) |
+| rwfpl/rewolf-wow64ext | partial | 2023-01-17T20:00:42Z | [open](../records/assembly-rwfpl-rewolf-wow64ext-24fabb9b.md) |
+| wichtounet/thor-os | partial | 2024-11-19T10:12:06Z | [open](../records/assembly-wichtounet-thor-os-cf1384c0.md) |
 
 ## Pattern language
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ackintosh/ganesha | 4.0.0 | 2025-02-22T21:52:49Z | [open](../records/pattern-language-ackintosh-ganesha-8efb6b76.md) |
-| addyosmani/essential-js-design-patterns | v1.7.0 | 2017-07-29T22:14:19Z | [open](../records/pattern-language-addyosmani-essential-js-design-patterns-55f97ad1.md) |
-| adimiko/TransactionalBox | unknown | github_latest_release_missing | [open](../records/pattern-language-adimiko-transactionalbox-3c62533f.md) |
-| anton-liauchuk/java-interview | unknown | github_latest_release_missing | [open](../records/pattern-language-anton-liauchuk-java-interview-8ff8af1a.md) |
-| Armando1514/Event-Driven-Microservices-Advanced | unknown | github_latest_release_missing | [open](../records/pattern-language-armando1514-event-driven-microservices-advanced-5fc6cb6d.md) |
-| artembilan/microservices-patterns-spring-integration | unknown | github_latest_release_missing | [open](../records/pattern-language-artembilan-microservices-patterns-spring-integration-5b5b4fe0.md) |
-| charlessolar/eShopOnContainersDDD | unknown | github_latest_release_missing | [open](../records/pattern-language-charlessolar-eshoponcontainersddd-8ba18aea.md) |
-| daohainam/microservice-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-daohainam-microservice-patterns-650b9c7c.md) |
-| daxnet/we-text | unknown | github_latest_release_missing | [open](../records/pattern-language-daxnet-we-text-6933c35d.md) |
-| Devinterview-io/microservices-interview-questions | unknown | github_latest_release_missing | [open](../records/pattern-language-devinterview-io-microservices-interview-questions-2a892b04.md) |
-| dotnetcore/CAP | v10.0.2 | 2026-08-01T13:10:07Z | [open](../records/pattern-language-dotnetcore-cap-6fcca660.md) |
-| greyblake/awesome-programming-books | unknown | github_latest_release_missing | [open](../records/pattern-language-greyblake-awesome-programming-books-3767bcb8.md) |
-| hellosatish/microservice-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-hellosatish-microservice-patterns-84e315b2.md) |
-| microservices-patterns/ftgo-application | unknown | github_latest_release_missing | [open](../records/pattern-language-microservices-patterns-ftgo-application-4b82322c.md) |
-| nemanjarogic/DesignPatternsLibrary | v8.0.0 | 2025-07-04T16:09:36Z | [open](../records/pattern-language-nemanjarogic-designpatternslibrary-6dd51b24.md) |
-| rafaelfgx/Architecture | unknown | github_latest_release_missing | [open](../records/pattern-language-rafaelfgx-architecture-0240a6d1.md) |
-| skyming/Trip-to-iOS-Design-Patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-skyming-trip-to-ios-design-patterns-ac58ff47.md) |
-| suadev/microservices-change-data-capture-with-debezium | unknown | github_latest_release_missing | [open](../records/pattern-language-suadev-microservices-change-data-capture-with-debezium-022ee30d.md) |
-| thangchung/clean-architecture-dotnet | SNAPSHOT-v0.0.3 | 2021-08-01T08:53:43Z | [open](../records/pattern-language-thangchung-clean-architecture-dotnet-2fa9afc9.md) |
-| tkssharma/nodejs-microservices-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-tkssharma-nodejs-microservices-patterns-edb30935.md) |
-| uid4oe/microservices-go-grpc | unknown | github_latest_release_missing | [open](../records/pattern-language-uid4oe-microservices-go-grpc-bab81d8d.md) |
-| wuyichen24/microservices-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-wuyichen24-microservices-patterns-a0984caf.md) |
+| ackintosh/ganesha | partial | 2026-06-20T02:01:28Z | [open](../records/pattern-language-ackintosh-ganesha-8efb6b76.md) |
+| addyosmani/essential-js-design-patterns | partial | 2021-08-01T13:59:43Z | [open](../records/pattern-language-addyosmani-essential-js-design-patterns-55f97ad1.md) |
+| adimiko/TransactionalBox | partial | 2025-10-09T20:54:33Z | [open](../records/pattern-language-adimiko-transactionalbox-3c62533f.md) |
+| anton-liauchuk/java-interview | partial | 2026-05-22T09:12:03Z | [open](../records/pattern-language-anton-liauchuk-java-interview-8ff8af1a.md) |
+| Armando1514/Event-Driven-Microservices-Advanced | partial | 2023-07-04T13:54:41Z | [open](../records/pattern-language-armando1514-event-driven-microservices-advanced-5fc6cb6d.md) |
+| artembilan/microservices-patterns-spring-integration | partial | 2023-06-09T14:52:08Z | [open](../records/pattern-language-artembilan-microservices-patterns-spring-integration-5b5b4fe0.md) |
+| charlessolar/eShopOnContainersDDD | partial | 2023-03-04T00:19:52Z | [open](../records/pattern-language-charlessolar-eshoponcontainersddd-8ba18aea.md) |
+| daohainam/microservice-patterns | partial | 2026-05-26T05:47:52Z | [open](../records/pattern-language-daohainam-microservice-patterns-650b9c7c.md) |
+| daxnet/we-text | partial | 2017-11-15T07:06:13Z | [open](../records/pattern-language-daxnet-we-text-6933c35d.md) |
+| Devinterview-io/microservices-interview-questions | partial | 2026-01-04T23:16:18Z | [open](../records/pattern-language-devinterview-io-microservices-interview-questions-2a892b04.md) |
+| dotnetcore/CAP | partial | 2026-08-01T13:10:06Z | [open](../records/pattern-language-dotnetcore-cap-6fcca660.md) |
+| greyblake/awesome-programming-books | partial | 2021-09-21T13:21:23Z | [open](../records/pattern-language-greyblake-awesome-programming-books-3767bcb8.md) |
+| hellosatish/microservice-patterns | partial | 2021-01-21T00:01:34Z | [open](../records/pattern-language-hellosatish-microservice-patterns-84e315b2.md) |
+| microservices-patterns/ftgo-application | partial | 2026-03-13T01:11:04Z | [open](../records/pattern-language-microservices-patterns-ftgo-application-4b82322c.md) |
+| nemanjarogic/DesignPatternsLibrary | partial | 2025-07-04T16:14:33Z | [open](../records/pattern-language-nemanjarogic-designpatternslibrary-6dd51b24.md) |
+| rafaelfgx/Architecture | partial | 2026-08-18T11:57:31Z | [open](../records/pattern-language-rafaelfgx-architecture-0240a6d1.md) |
+| skyming/Trip-to-iOS-Design-Patterns | partial | 2018-05-29T12:43:40Z | [open](../records/pattern-language-skyming-trip-to-ios-design-patterns-ac58ff47.md) |
+| suadev/microservices-change-data-capture-with-debezium | partial | 2020-12-07T19:50:46Z | [open](../records/pattern-language-suadev-microservices-change-data-capture-with-debezium-022ee30d.md) |
+| thangchung/clean-architecture-dotnet | partial | 2023-04-27T20:23:43Z | [open](../records/pattern-language-thangchung-clean-architecture-dotnet-2fa9afc9.md) |
+| tkssharma/nodejs-microservices-patterns | partial | 2020-11-02T17:23:41Z | [open](../records/pattern-language-tkssharma-nodejs-microservices-patterns-edb30935.md) |
+| uid4oe/microservices-go-grpc | partial | 2022-08-13T09:14:41Z | [open](../records/pattern-language-uid4oe-microservices-go-grpc-bab81d8d.md) |
+| wuyichen24/microservices-patterns | partial | 2020-07-02T06:24:04Z | [open](../records/pattern-language-wuyichen24-microservices-patterns-a0984caf.md) |
 
 ## WebAssembly
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mbasso/awesome-wasm | unknown | github_latest_release_missing | [open](../records/webassembly-mbasso-awesome-wasm-e5b53bed.md) |
+| Becavalier/Book-DISO-WebAssembly | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-becavalier-book-diso-webassembly-adda2eaf.md) |
+| binji/raw-wasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-binji-raw-wasm-c2dcf640.md) |
+| eoswindev/contract | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-eoswindev-contract-31970bee.md) |
+| ericfish/EOS-Dev-Book | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-ericfish-eos-dev-book-ab3602a2.md) |
+| HaliteChallenge/Halite-III | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-halitechallenge-halite-iii-d1e574a8.md) |
+| mafintosh/blake2b-wasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-mafintosh-blake2b-wasm-6966696b.md) |
+| mbasso/awesome-wasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-mbasso-awesome-wasm-e5b53bed.md) |
 | microsoft/fluentui-blazor | v4.14.4 | 2026-07-29T12:10:35Z | [open](../records/webassembly-microsoft-fluentui-blazor-4d2addbf.md) |
 | mosra/magnum | v2020.06 | 2020-07-02T13:05:09Z | [open](../records/webassembly-mosra-magnum-973479c6.md) |
 | The Path to Rust on the Web (2017) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-the-path-to-rust-on-the-web-2017-cfd2290b.md) |
+| torch2424/wasmboy | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-torch2424-wasmboy-1483b122.md) |
 
 ## SAPJava
 
@@ -794,22 +817,66 @@ Records: `678`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| airbnb/lottie-ios | unknown | github_search_does_not_include_release_date | [open](../records/swift-airbnb-lottie-ios-ea069736.md) |
+| altstoreio/AltStore | unknown | github_search_does_not_include_release_date | [open](../records/swift-altstoreio-altstore-169e84d3.md) |
+| apple/containerization | unknown | github_search_does_not_include_release_date | [open](../records/swift-apple-containerization-f439a10d.md) |
+| ashleymills/Reachability.swift | unknown | github_search_does_not_include_release_date | [open](../records/swift-ashleymills-reachability-swift-2be6635a.md) |
 | Awesome iOS Interview | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-awesome-ios-interview-37d2afac.md) |
 | awesome-macOS | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-awesome-macos-31e862a8.md) |
+| Caldis/Mos | unknown | github_search_does_not_include_release_date | [open](../records/swift-caldis-mos-9c22eedd.md) |
+| ChenYilong/iOSInterviewQuestions | unknown | github_search_does_not_include_release_date | [open](../records/swift-chenyilong-iosinterviewquestions-8331dfd3.md) |
 | CleanArchitectureRxSwift | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-cleanarchitecturerxswift-25af9dfb.md) |
+| CosmicMind/Material | unknown | github_search_does_not_include_release_date | [open](../records/swift-cosmicmind-material-cd01b365.md) |
 | example-ios-apps | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-example-ios-apps-4d4c80bc.md) |
+| facebook/facebook-ios-sdk | unknown | github_search_does_not_include_release_date | [open](../records/swift-facebook-facebook-ios-sdk-82cf4bfc.md) |
+| gao-sun/eul | unknown | github_search_does_not_include_release_date | [open](../records/swift-gao-sun-eul-73d27248.md) |
 | GEOSwift/GEOSwift | 11.2.0 | 2025-03-21T14:56:44Z | [open](../records/swift-geoswift-geoswift-4f0bb95b.md) |
 | guillermomuntaner/Burritos | unknown | github_latest_release_missing | [open](../records/swift-guillermomuntaner-burritos-87cfd576.md) |
+| HeroTransitions/Hero | unknown | github_search_does_not_include_release_date | [open](../records/swift-herotransitions-hero-9ca9fa5f.md) |
+| huri000/SwiftEntryKit | unknown | github_search_does_not_include_release_date | [open](../records/swift-huri000-swiftentrykit-74ba9318.md) |
+| ianyh/Amethyst | unknown | github_search_does_not_include_release_date | [open](../records/swift-ianyh-amethyst-89eb6987.md) |
+| jaywcjlove/awesome-mac | unknown | github_search_does_not_include_release_date | [open](../records/swift-jaywcjlove-awesome-mac-b01ec1ef.md) |
+| JerryZLiu/Dayflow | unknown | github_search_does_not_include_release_date | [open](../records/swift-jerryzliu-dayflow-93341cb6.md) |
+| Juanpe/SkeletonView | unknown | github_search_does_not_include_release_date | [open](../records/swift-juanpe-skeletonview-17a24b5c.md) |
+| KrishKrosh/TrackWeight | unknown | github_search_does_not_include_release_date | [open](../records/swift-krishkrosh-trackweight-930126cc.md) |
+| lihaoyun6/QuickRecorder | unknown | github_search_does_not_include_release_date | [open](../records/swift-lihaoyun6-quickrecorder-ed6f6183.md) |
+| linearmouse/linearmouse | unknown | github_search_does_not_include_release_date | [open](../records/swift-linearmouse-linearmouse-5ad2b1d0.md) |
+| LiveContainer/LiveContainer | unknown | github_search_does_not_include_release_date | [open](../records/swift-livecontainer-livecontainer-48682c47.md) |
+| Lona/Lona | unknown | github_search_does_not_include_release_date | [open](../records/swift-lona-lona-a5657888.md) |
+| lwouis/alt-tab-macos | unknown | github_search_does_not_include_release_date | [open](../records/swift-lwouis-alt-tab-macos-156d4a80.md) |
+| mac-cain13/R.swift | unknown | github_search_does_not_include_release_date | [open](../records/swift-mac-cain13-r-swift-327db026.md) |
 | MAJKFL/Welcome-Sheet | partial | 2023-01-30T18:19:17Z | [open](../records/swift-majkfl-welcome-sheet-bd2a05cc.md) |
+| marcosgriselli/ViewAnimator | unknown | github_search_does_not_include_release_date | [open](../records/swift-marcosgriselli-viewanimator-ead20c4c.md) |
+| MengTo/Spring | unknown | github_search_does_not_include_release_date | [open](../records/swift-mengto-spring-c642114a.md) |
+| milanvarady/Applite | unknown | github_search_does_not_include_release_date | [open](../records/swift-milanvarady-applite-96b822cc.md) |
+| MochiDiffusion/MochiDiffusion | unknown | github_search_does_not_include_release_date | [open](../records/swift-mochidiffusion-mochidiffusion-c998528a.md) |
+| mozilla-mobile/firefox-ios | unknown | github_search_does_not_include_release_date | [open](../records/swift-mozilla-mobile-firefox-ios-39d1ea03.md) |
+| mrkai77/Loop | unknown | github_search_does_not_include_release_date | [open](../records/swift-mrkai77-loop-0f2fe32c.md) |
+| nikitabobko/AeroSpace | unknown | github_search_does_not_include_release_date | [open](../records/swift-nikitabobko-aerospace-2da5d887.md) |
+| olucurious/Awesome-ARKit | unknown | github_search_does_not_include_release_date | [open](../records/swift-olucurious-awesome-arkit-10b43276.md) |
+| onevcat/Kingfisher | unknown | github_search_does_not_include_release_date | [open](../records/swift-onevcat-kingfisher-fc937cbe.md) |
 | open-source-ios-apps | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-open-source-ios-apps-104ed1a6.md) |
 | open-source-mac-os-apps | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-open-source-mac-os-apps-0ce8a753.md) |
+| pock/pock | unknown | github_search_does_not_include_release_date | [open](../records/swift-pock-pock-3951905e.md) |
+| Ramotion/animated-tab-bar | unknown | github_search_does_not_include_release_date | [open](../records/swift-ramotion-animated-tab-bar-eb35cb05.md) |
+| Ramotion/folding-cell | unknown | github_search_does_not_include_release_date | [open](../records/swift-ramotion-folding-cell-87d9f622.md) |
 | Reactant | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-reactant-ba7c3ea2.md) |
 | rryam/MeshingKit | partial | 2026-08-31T17:30:27Z | [open](../records/swift-rryam-meshingkit-b2db2e02.md) |
+| rxhanson/Rectangle | unknown | github_search_does_not_include_release_date | [open](../records/swift-rxhanson-rectangle-cedb03b4.md) |
+| shadowsocks/ShadowsocksX-NG | unknown | github_search_does_not_include_release_date | [open](../records/swift-shadowsocks-shadowsocksx-ng-4ddf75c0.md) |
+| signalapp/Signal-iOS | unknown | github_search_does_not_include_release_date | [open](../records/swift-signalapp-signal-ios-12189a30.md) |
 | sindresorhus/CircularProgress | partial | 2024-02-20T07:32:46Z | [open](../records/swift-sindresorhus-circularprogress-767a5c68.md) |
 | sindresorhus/KeyboardShortcuts | partial | 2026-06-17T10:24:25Z | [open](../records/swift-sindresorhus-keyboardshortcuts-53ceb22f.md) |
 | sindresorhus/macos-trash | partial | 2026-08-12T12:37:59Z | [open](../records/swift-sindresorhus-macos-trash-13c785c6.md) |
 | sindresorhus/macos-wallpaper | partial | 2026-04-19T17:15:48Z | [open](../records/swift-sindresorhus-macos-wallpaper-3179fd42.md) |
+| SnapKit/SnapKit | unknown | github_search_does_not_include_release_date | [open](../records/swift-snapkit-snapkit-842184a7.md) |
+| soapyigu/Swift-30-Projects | unknown | github_search_does_not_include_release_date | [open](../records/swift-soapyigu-swift-30-projects-c53d5056.md) |
 | StateViewController | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-stateviewcontroller-85dd22f3.md) |
+| SwiftKickMobile/SwiftMessages | unknown | github_search_does_not_include_release_date | [open](../records/swift-swiftkickmobile-swiftmessages-2192f7cd.md) |
+| TelegramMessenger/Telegram-iOS | unknown | github_search_does_not_include_release_date | [open](../records/swift-telegrammessenger-telegram-ios-f4bcfba9.md) |
+| tisfeng/Easydict | unknown | github_search_does_not_include_release_date | [open](../records/swift-tisfeng-easydict-1f84a530.md) |
+| Whisky-App/Whisky | unknown | github_search_does_not_include_release_date | [open](../records/swift-whisky-app-whisky-ec3aa391.md) |
+| xmartlabs/XLPagerTabStrip | unknown | github_search_does_not_include_release_date | [open](../records/swift-xmartlabs-xlpagertabstrip-558ae87b.md) |
 
 ## Cocoa
 

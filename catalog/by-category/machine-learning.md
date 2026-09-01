@@ -1,6 +1,6 @@
 # Machine Learning
 
-Records: `365`
+Records: `382`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `365`
 
 ## Category Index
 
-[Api Abi Checker (112)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
-[Benchmarking (69)](benchmarking.md) · [Build System (563)](build-system.md) · [Cli (441)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (63)](community-reference.md) · [Compiler (111)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
-[Concurrency Parallelism (62)](concurrency-parallelism.md) · [Configuration (69)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (128)](cryptography.md) · [Data Science (29)](data-science.md) · [Database Datastore (436)](database-datastore.md) · [Datetime (96)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (59)](dependency-manager.md) · [Documentation (61)](documentation.md)
-[Embedded Hardware (36)](embedded-hardware.md) · [Ffi Bindings (312)](ffi-bindings.md) · [Filesystem Os (678)](filesystem-os.md) · [Formatter (434)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (23)](fuzzer.md) · [Game Engine Game Dev (98)](game-engine-game-dev.md) · [Ide Editor Integration (812)](ide-editor-integration.md)
-[Image Audio Dsp (168)](image-audio-dsp.md) · [Interop Bindings (46)](interop-bindings.md) · [Interpreter Runtime (138)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (825)](language-specification.md) · [Library (3295)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (33)](lint-rule-pack.md) · [Linter (328)](linter.md) · [Logging Observability (246)](logging-observability.md) · **[Machine Learning (365)](machine-learning.md)**
-[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (52)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (684)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (193)](package-manager.md) · [Parser Lexer Ast (583)](parser-lexer-ast.md) · [Precommit Ci Quality (168)](precommit-ci-quality.md)
-[Profiler (56)](profiler.md) · [Project Scaffolding (84)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
-[Security Sast (263)](security-sast.md) · [Serialization (270)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (263)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (414)](testing-framework.md) · [Tutorial Book Styleguide (39)](tutorial-book-styleguide.md) · [Type Checker (258)](type-checker.md)
-[Undefined Behavior Analyzer (901)](undefined-behavior-analyzer.md) · [Utility Library (79)](utility-library.md) · [Visualization Gui (268)](visualization-gui.md) · [Web Framework (294)](web-framework.md)
+[Api Abi Checker (115)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (105)](async-runtime.md)
+[Benchmarking (73)](benchmarking.md) · [Build System (583)](build-system.md) · [Cli (450)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
+[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (71)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (437)](database-datastore.md) · [Datetime (100)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
+[Embedded Hardware (38)](embedded-hardware.md) · [Ffi Bindings (320)](ffi-bindings.md) · [Filesystem Os (745)](filesystem-os.md) · [Formatter (441)](formatter.md)
+[Framework (38)](framework.md) · [Fuzzer (24)](fuzzer.md) · [Game Engine Game Dev (103)](game-engine-game-dev.md) · [Ide Editor Integration (844)](ide-editor-integration.md)
+[Image Audio Dsp (183)](image-audio-dsp.md) · [Interop Bindings (47)](interop-bindings.md) · [Interpreter Runtime (158)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (833)](language-specification.md) · [Library (3355)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (34)](lint-rule-pack.md) · [Linter (330)](linter.md) · [Logging Observability (258)](logging-observability.md) · **[Machine Learning (382)](machine-learning.md)**
+[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (691)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (199)](package-manager.md) · [Parser Lexer Ast (592)](parser-lexer-ast.md) · [Precommit Ci Quality (171)](precommit-ci-quality.md)
+[Profiler (57)](profiler.md) · [Project Scaffolding (90)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
+[Security Sast (268)](security-sast.md) · [Serialization (272)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (270)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (418)](testing-framework.md) · [Tutorial Book Styleguide (42)](tutorial-book-styleguide.md) · [Type Checker (261)](type-checker.md)
+[Undefined Behavior Analyzer (996)](undefined-behavior-analyzer.md) · [Utility Library (80)](utility-library.md) · [Visualization Gui (277)](visualization-gui.md) · [Web Framework (298)](web-framework.md)
 
 ## C++23
 
@@ -352,7 +352,8 @@ Records: `365`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| gitee.com/open-mmlab/mmcv | v1.5.3 | 2026-08-30T11:58:42.474519Z | [open](../records/go-gitee-com-open-mmlab-mmcv-9c44c07f.md) |
+| bitbucket.org/itotcca/tx-rails | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-bitbucket-org-itotcca-tx-rails-34e72343.md) |
+| gitee.com/open-mmlab/mmcv | v1.5.1 | 2026-08-30T14:06:30.430744Z | [open](../records/go-gitee-com-open-mmlab-mmcv-9c44c07f.md) |
 | gitee.com/wailsapp/wails/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gitee-com-wailsapp-wails-v3-3c5b4a42.md) |
 | infinite-go.kontain.me | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-infinite-go-kontain-me-84a68d60.md) |
 | latere.ai/x/ci-gate | v0.5.0 | 2026-08-30T10:55:18.342292Z | [open](../records/go-latere-ai-x-ci-gate-4bfeb005.md) |
@@ -397,14 +398,23 @@ Records: `365`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AIGC-Audio/AudioGPT | unknown | github_latest_release_missing | [open](../records/audio-aigc-audio-audiogpt-981ac143.md) |
+| copych/AcidBox | v.1.3.3 | 2024-11-12T08:14:16Z | [open](../records/audio-copych-acidbox-f1182e91.md) |
 | DamRsn/NeuralNote | v1.1.0 | 2025-01-11T21:32:54Z | [open](../records/audio-damrsn-neuralnote-e9b5c736.md) |
 | electro-smith/DaisySP | V1.0.0 | 2024-01-08T20:21:26Z | [open](../records/audio-electro-smith-daisysp-caa53501.md) |
 | huggingface/transformers | v5.16.1 | 2026-08-26T14:50:01Z | [open](../records/audio-huggingface-transformers-9073c238.md) |
+| ictnlp/StreamSpeech | unknown | github_latest_release_missing | [open](../records/audio-ictnlp-streamspeech-abc4c0a4.md) |
 | iver56/audiomentations | v0.43.1 | 2025-09-13T11:17:29Z | [open](../records/audio-iver56-audiomentations-bf487b1d.md) |
 | lanceylai/TSWeChat | 1.0.0 | 2016-11-26T14:05:45Z | [open](../records/audio-lanceylai-tswechat-3bd4bda0.md) |
+| marcel-licence/ML_SynthTools | 2.0.0 | 2024-10-16T18:04:56Z | [open](../records/audio-marcel-licence-ml-synthtools-81b79150.md) |
 | modelscope/ClearerVoice-Studio | unknown | github_latest_release_missing | [open](../records/audio-modelscope-clearervoice-studio-eecd0125.md) |
 | openai/jukebox | unknown | github_latest_release_missing | [open](../records/audio-openai-jukebox-831d162e.md) |
+| pliang279/awesome-multimodal-ml | unknown | github_latest_release_missing | [open](../records/audio-pliang279-awesome-multimodal-ml-35fc826b.md) |
+| resemble-ai/resemble-enhance | 0.0.1 | 2023-12-14T07:49:31Z | [open](../records/audio-resemble-ai-resemble-enhance-cbd92f96.md) |
+| seaniezhao/torch_npss | v0.2.0 | 2019-07-03T10:56:32Z | [open](../records/audio-seaniezhao-torch-npss-bcd03657.md) |
+| snakers4/silero-vad | v6.2.1 | 2026-02-24T08:41:19Z | [open](../records/audio-snakers4-silero-vad-5552d692.md) |
 | speechbrain/speechbrain | v1.1.1 | 2026-08-27T13:52:38Z | [open](../records/audio-speechbrain-speechbrain-b2f2f03a.md) |
+| surikov/webaudiofont | unknown | github_latest_release_missing | [open](../records/audio-surikov-webaudiofont-0d5c1d6f.md) |
+| zya/granular | unknown | github_latest_release_missing | [open](../records/audio-zya-granular-4578072c.md) |
 
 ## Photography
 
@@ -463,31 +473,37 @@ Records: `365`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Eleven-Trading/TradeNote | unknown | github_search_does_not_include_release_date | [open](../records/magazines-eleven-trading-tradenote-55d04e82.md) |
+| fcakyon/phd-skills | unknown | github_search_does_not_include_release_date | [open](../records/magazines-fcakyon-phd-skills-152d55ed.md) |
 | kotlin-digest/weekly | unknown | github_latest_release_missing | [open](../records/magazines-kotlin-digest-weekly-a20aa634.md) |
 
 ## Assembly
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| gbdev/rgbds | v1.0.3 | 2026-08-01T17:09:11Z | [open](../records/assembly-gbdev-rgbds-2d9bc1c6.md) |
-| rigtorp/awesome-lockfree | unknown | github_latest_release_missing | [open](../records/assembly-rigtorp-awesome-lockfree-44d48e4b.md) |
-| tanghaibao/jcvi | unknown | github_latest_release_missing | [open](../records/assembly-tanghaibao-jcvi-74bbbc68.md) |
+| gbdev/rgbds | partial | 2026-08-25T20:13:37Z | [open](../records/assembly-gbdev-rgbds-2d9bc1c6.md) |
+| rigtorp/awesome-lockfree | partial | 2024-02-25T00:18:35Z | [open](../records/assembly-rigtorp-awesome-lockfree-44d48e4b.md) |
+| tanghaibao/jcvi | partial | 2026-08-12T13:58:34Z | [open](../records/assembly-tanghaibao-jcvi-74bbbc68.md) |
 
 ## Pattern language
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| faif/python-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-faif-python-patterns-7e2d4e06.md) |
-| mercari/ml-system-design-pattern | unknown | github_latest_release_missing | [open](../records/pattern-language-mercari-ml-system-design-pattern-049b4bc1.md) |
-| msaroufim/ml-design-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-msaroufim-ml-design-patterns-36f5df60.md) |
-| Sairyss/domain-driven-hexagon | unknown | github_latest_release_missing | [open](../records/pattern-language-sairyss-domain-driven-hexagon-1157f04a.md) |
-| shiyindaxiaojie/eden-demo-cola | unknown | github_latest_release_missing | [open](../records/pattern-language-shiyindaxiaojie-eden-demo-cola-12938f41.md) |
+| faif/python-patterns | partial | 2026-08-20T09:10:58Z | [open](../records/pattern-language-faif-python-patterns-7e2d4e06.md) |
+| mercari/ml-system-design-pattern | partial | 2021-10-07T21:57:44Z | [open](../records/pattern-language-mercari-ml-system-design-pattern-049b4bc1.md) |
+| msaroufim/ml-design-patterns | partial | 2022-06-29T00:50:58Z | [open](../records/pattern-language-msaroufim-ml-design-patterns-36f5df60.md) |
+| Sairyss/domain-driven-hexagon | partial | 2024-06-11T05:47:51Z | [open](../records/pattern-language-sairyss-domain-driven-hexagon-1157f04a.md) |
+| shiyindaxiaojie/eden-demo-cola | partial | 2026-04-28T16:31:52Z | [open](../records/pattern-language-shiyindaxiaojie-eden-demo-cola-12938f41.md) |
 
 ## WebAssembly
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Emscripten/HTML Integration Tips (2017) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-emscripten-html-integration-tips-2017-6038eda8.md) |
+| gxchain/gxb-core | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-gxchain-gxb-core-f1f189c6.md) |
+| multivactech/MultiVAC | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-multivactech-multivac-259ed6fc.md) |
+| shanlusun/blockchain | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-shanlusun-blockchain-88bfe92c.md) |
+| wasmlang/awesome-wasm-zh | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-wasmlang-awesome-wasm-zh-e5e641f3.md) |
+| yoyow-org/yoyow-core | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-yoyow-org-yoyow-core-98d0bb33.md) |
 
 ## SAPJava
 
@@ -509,6 +525,12 @@ Records: `365`
 | sree26365-dev/sap-abap-hana-learning | unknown | not_a_maven_coordinate | [open](../records/sapjava-sree26365-dev-sap-abap-hana-learning-95dca87e.md) |
 | zkud/sap-cap-java-advanced-dev-containers-sample | unknown | not_a_maven_coordinate | [open](../records/sapjava-zkud-sap-cap-java-advanced-dev-containers-sample-91cebb9a.md) |
 | zkud/sap-cap-java-trivial-dev-containers-sample | unknown | not_a_maven_coordinate | [open](../records/sapjava-zkud-sap-cap-java-trivial-dev-containers-sample-1710d493.md) |
+
+## Swift
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| alienator88/Pearcleaner | unknown | github_search_does_not_include_release_date | [open](../records/swift-alienator88-pearcleaner-5d6907c3.md) |
 
 ## Cocoa
 

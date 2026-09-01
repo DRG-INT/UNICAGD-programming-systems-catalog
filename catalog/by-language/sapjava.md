@@ -1,6 +1,6 @@
 # SAPJava
 
-Records: `294`
+Records: `300`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `294`
 
 ## Category Index
 
-[Api Abi Checker (112)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (33)](../by-category/assertion-mocking.md) · [Async Runtime (104)](../by-category/async-runtime.md)
-[Benchmarking (69)](../by-category/benchmarking.md) · [Build System (563)](../by-category/build-system.md) · [Cli (441)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (63)](../by-category/community-reference.md) · [Compiler (111)](../by-category/compiler.md) · [Compiler Diagnostics (18)](../by-category/compiler-diagnostics.md) · [Compression (36)](../by-category/compression.md)
-[Concurrency Parallelism (62)](../by-category/concurrency-parallelism.md) · [Configuration (69)](../by-category/configuration.md) · [Container Deployment (7)](../by-category/container-deployment.md) · [Coverage (10)](../by-category/coverage.md)
-[Cryptography (128)](../by-category/cryptography.md) · [Data Science (29)](../by-category/data-science.md) · [Database Datastore (436)](../by-category/database-datastore.md) · [Datetime (96)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (35)](../by-category/debugger.md) · [Dependency Manager (59)](../by-category/dependency-manager.md) · [Documentation (61)](../by-category/documentation.md)
-[Embedded Hardware (36)](../by-category/embedded-hardware.md) · [Ffi Bindings (312)](../by-category/ffi-bindings.md) · [Filesystem Os (678)](../by-category/filesystem-os.md) · [Formatter (434)](../by-category/formatter.md)
-[Framework (38)](../by-category/framework.md) · [Fuzzer (23)](../by-category/fuzzer.md) · [Game Engine Game Dev (98)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (812)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (168)](../by-category/image-audio-dsp.md) · [Interop Bindings (46)](../by-category/interop-bindings.md) · [Interpreter Runtime (138)](../by-category/interpreter-runtime.md) · [Jit Vm (55)](../by-category/jit-vm.md)
-[Language Server (23)](../by-category/language-server.md) · [Language Specification (825)](../by-category/language-specification.md) · [Library (3295)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (33)](../by-category/lint-rule-pack.md) · [Linter (328)](../by-category/linter.md) · [Logging Observability (246)](../by-category/logging-observability.md) · [Machine Learning (365)](../by-category/machine-learning.md)
-[Math Numeric Scientific (70)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (52)](../by-category/memory-analyzer.md) · [Message Broker (23)](../by-category/message-broker.md) · [Networking Http (684)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (193)](../by-category/package-manager.md) · [Parser Lexer Ast (583)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (168)](../by-category/precommit-ci-quality.md)
-[Profiler (56)](../by-category/profiler.md) · [Project Scaffolding (84)](../by-category/project-scaffolding.md) · [Registry Repository (105)](../by-category/registry-repository.md) · [Sanitizer (8)](../by-category/sanitizer.md)
-[Security Sast (263)](../by-category/security-sast.md) · [Serialization (270)](../by-category/serialization.md) · [Standard Library (22)](../by-category/standard-library.md) · [Static Analyzer (263)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (414)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (39)](../by-category/tutorial-book-styleguide.md) · [Type Checker (258)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (901)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (79)](../by-category/utility-library.md) · [Visualization Gui (268)](../by-category/visualization-gui.md) · [Web Framework (294)](../by-category/web-framework.md)
+[Api Abi Checker (115)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (33)](../by-category/assertion-mocking.md) · [Async Runtime (105)](../by-category/async-runtime.md)
+[Benchmarking (73)](../by-category/benchmarking.md) · [Build System (583)](../by-category/build-system.md) · [Cli (450)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (67)](../by-category/community-reference.md) · [Compiler (122)](../by-category/compiler.md) · [Compiler Diagnostics (18)](../by-category/compiler-diagnostics.md) · [Compression (36)](../by-category/compression.md)
+[Concurrency Parallelism (63)](../by-category/concurrency-parallelism.md) · [Configuration (71)](../by-category/configuration.md) · [Container Deployment (7)](../by-category/container-deployment.md) · [Coverage (10)](../by-category/coverage.md)
+[Cryptography (132)](../by-category/cryptography.md) · [Data Science (30)](../by-category/data-science.md) · [Database Datastore (437)](../by-category/database-datastore.md) · [Datetime (100)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (35)](../by-category/debugger.md) · [Dependency Manager (61)](../by-category/dependency-manager.md) · [Documentation (62)](../by-category/documentation.md)
+[Embedded Hardware (38)](../by-category/embedded-hardware.md) · [Ffi Bindings (320)](../by-category/ffi-bindings.md) · [Filesystem Os (745)](../by-category/filesystem-os.md) · [Formatter (441)](../by-category/formatter.md)
+[Framework (38)](../by-category/framework.md) · [Fuzzer (24)](../by-category/fuzzer.md) · [Game Engine Game Dev (103)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (844)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (183)](../by-category/image-audio-dsp.md) · [Interop Bindings (47)](../by-category/interop-bindings.md) · [Interpreter Runtime (158)](../by-category/interpreter-runtime.md) · [Jit Vm (55)](../by-category/jit-vm.md)
+[Language Server (23)](../by-category/language-server.md) · [Language Specification (833)](../by-category/language-specification.md) · [Library (3355)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (34)](../by-category/lint-rule-pack.md) · [Linter (330)](../by-category/linter.md) · [Logging Observability (258)](../by-category/logging-observability.md) · [Machine Learning (382)](../by-category/machine-learning.md)
+[Math Numeric Scientific (70)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (54)](../by-category/memory-analyzer.md) · [Message Broker (24)](../by-category/message-broker.md) · [Networking Http (691)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (199)](../by-category/package-manager.md) · [Parser Lexer Ast (592)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (171)](../by-category/precommit-ci-quality.md)
+[Profiler (57)](../by-category/profiler.md) · [Project Scaffolding (90)](../by-category/project-scaffolding.md) · [Registry Repository (105)](../by-category/registry-repository.md) · [Sanitizer (8)](../by-category/sanitizer.md)
+[Security Sast (268)](../by-category/security-sast.md) · [Serialization (272)](../by-category/serialization.md) · [Standard Library (22)](../by-category/standard-library.md) · [Static Analyzer (270)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (418)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (42)](../by-category/tutorial-book-styleguide.md) · [Type Checker (261)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (996)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (80)](../by-category/utility-library.md) · [Visualization Gui (277)](../by-category/visualization-gui.md) · [Web Framework (298)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -40,6 +40,9 @@ Records: `294`
 | [com.sap.cloud.sdk.datamodel:openapi-parent](../records/sapjava-com-sap-cloud-sdk-datamodel-openapi-parent-c3aa70ac.md) | 5.20.0 | 2025-06-20T16:21:46+00:00 | registry-derived |
 | [com.sap.cloud.sdk.s4hana:s4hana-api-odata](../records/sapjava-com-sap-cloud-sdk-s4hana-s4hana-api-odata-0160b9f0.md) | 4.32.0 | 2024-06-11T10:16:47+00:00 | registry-derived |
 | [com.sap.cloud.sdk.s4hana:s4hana-api-parent](../records/sapjava-com-sap-cloud-sdk-s4hana-s4hana-api-parent-b7bc6735.md) | 4.32.0 | 2024-06-11T10:16:46+00:00 | registry-derived |
+| [com.sap.cloud:neo-java-web-api](../records/sapjava-com-sap-cloud-neo-java-web-api-4a9f4296.md) | 5.24.2 | 2025-06-11T13:48:38+00:00 | registry-derived |
+| [com.sap.cloud:neo-javaee6-wp-api](../records/sapjava-com-sap-cloud-neo-javaee6-wp-api-ad7850e3.md) | 2.208.5 | 2021-05-21T08:09:57+00:00 | registry-derived |
+| [com.sap.cloud:neo-javaee7-wp-api](../records/sapjava-com-sap-cloud-neo-javaee7-wp-api-7a6c1c62.md) | 1.202.2 | 2025-06-11T13:48:34+00:00 | registry-derived |
 | [DHariharanD/sap-cap-external-services-trial](../records/sapjava-dhariharand-sap-cap-external-services-trial-e4846fa0.md) | unknown | not_a_maven_coordinate | registry-derived |
 | [habibasherif/projects-service](../records/sapjava-habibasherif-projects-service-e86db8dc.md) | unknown | not_a_maven_coordinate | registry-derived |
 | [ivancasas96/SpringBootApp-CloudFoundry](../records/sapjava-ivancasas96-springbootapp-cloudfoundry-90e33380.md) | unknown | not_a_maven_coordinate | registry-derived |
@@ -287,8 +290,11 @@ Records: `294`
 | [com.sap.cloud.yaas.service-sdk:service-sdk-servlet-support](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-servlet-support-a2a9a894.md) | 4.17.1 | 2017-10-26T05:29:53+00:00 | registry-derived |
 | [com.sap.cloud.yaas.service-sdk:service-sdk-spring-boot-archetype](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-spring-boot-archetype-bbb0488c.md) | 4.17.1 | 2017-10-26T05:29:48+00:00 | registry-derived |
 | [com.sap.cloud.yaas.service-sdk:service-sdk-superpom](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-superpom-125bbc0a.md) | 4.17.1 | 2017-10-26T05:29:55+00:00 | registry-derived |
+| [com.sap.cloud:neo-java-web-maven-plugin](../records/sapjava-com-sap-cloud-neo-java-web-maven-plugin-787647ef.md) | 5.24.2 | 2025-06-11T13:48:39+00:00 | registry-derived |
 | [com.sap.cloud:neo-java-web-sdk](../records/sapjava-com-sap-cloud-neo-java-web-sdk-2b581860.md) | 5.24.2 | 2025-06-11T13:48:36+00:00 | registry-derived |
+| [com.sap.cloud:neo-javaee6-wp-maven-plugin](../records/sapjava-com-sap-cloud-neo-javaee6-wp-maven-plugin-26d148fb.md) | 2.208.5 | 2021-05-21T08:09:58+00:00 | registry-derived |
 | [com.sap.cloud:neo-javaee6-wp-sdk](../records/sapjava-com-sap-cloud-neo-javaee6-wp-sdk-26aa38cf.md) | 2.208.5 | 2021-05-21T08:09:57+00:00 | registry-derived |
+| [com.sap.cloud:neo-javaee7-wp-maven-plugin](../records/sapjava-com-sap-cloud-neo-javaee7-wp-maven-plugin-95816c31.md) | 1.202.2 | 2025-06-11T13:48:34+00:00 | registry-derived |
 | [com.sap.cloud:neo-javaee7-wp-sdk](../records/sapjava-com-sap-cloud-neo-javaee7-wp-sdk-a7723f83.md) | 1.202.2 | 2025-06-11T13:48:33+00:00 | registry-derived |
 | [dhorions/hanacloud-messenger-bot](../records/sapjava-dhorions-hanacloud-messenger-bot-f4eceabf.md) | unknown | not_a_maven_coordinate | registry-derived |
 | [diego-izurieta/address-manager](../records/sapjava-diego-izurieta-address-manager-3c30118e.md) | unknown | not_a_maven_coordinate | registry-derived |

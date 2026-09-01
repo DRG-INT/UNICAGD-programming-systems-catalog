@@ -1,6 +1,6 @@
 # Library
 
-Records: `3295`
+Records: `3355`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `3295`
 
 ## Category Index
 
-[Api Abi Checker (112)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
-[Benchmarking (69)](benchmarking.md) · [Build System (563)](build-system.md) · [Cli (441)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (63)](community-reference.md) · [Compiler (111)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
-[Concurrency Parallelism (62)](concurrency-parallelism.md) · [Configuration (69)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (128)](cryptography.md) · [Data Science (29)](data-science.md) · [Database Datastore (436)](database-datastore.md) · [Datetime (96)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (59)](dependency-manager.md) · [Documentation (61)](documentation.md)
-[Embedded Hardware (36)](embedded-hardware.md) · [Ffi Bindings (312)](ffi-bindings.md) · [Filesystem Os (678)](filesystem-os.md) · [Formatter (434)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (23)](fuzzer.md) · [Game Engine Game Dev (98)](game-engine-game-dev.md) · [Ide Editor Integration (812)](ide-editor-integration.md)
-[Image Audio Dsp (168)](image-audio-dsp.md) · [Interop Bindings (46)](interop-bindings.md) · [Interpreter Runtime (138)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (825)](language-specification.md) · **[Library (3295)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (33)](lint-rule-pack.md) · [Linter (328)](linter.md) · [Logging Observability (246)](logging-observability.md) · [Machine Learning (365)](machine-learning.md)
-[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (52)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (684)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (193)](package-manager.md) · [Parser Lexer Ast (583)](parser-lexer-ast.md) · [Precommit Ci Quality (168)](precommit-ci-quality.md)
-[Profiler (56)](profiler.md) · [Project Scaffolding (84)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
-[Security Sast (263)](security-sast.md) · [Serialization (270)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (263)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (414)](testing-framework.md) · [Tutorial Book Styleguide (39)](tutorial-book-styleguide.md) · [Type Checker (258)](type-checker.md)
-[Undefined Behavior Analyzer (901)](undefined-behavior-analyzer.md) · [Utility Library (79)](utility-library.md) · [Visualization Gui (268)](visualization-gui.md) · [Web Framework (294)](web-framework.md)
+[Api Abi Checker (115)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (105)](async-runtime.md)
+[Benchmarking (73)](benchmarking.md) · [Build System (583)](build-system.md) · [Cli (450)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (67)](community-reference.md) · [Compiler (122)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
+[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (71)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (437)](database-datastore.md) · [Datetime (100)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
+[Embedded Hardware (38)](embedded-hardware.md) · [Ffi Bindings (320)](ffi-bindings.md) · [Filesystem Os (745)](filesystem-os.md) · [Formatter (441)](formatter.md)
+[Framework (38)](framework.md) · [Fuzzer (24)](fuzzer.md) · [Game Engine Game Dev (103)](game-engine-game-dev.md) · [Ide Editor Integration (844)](ide-editor-integration.md)
+[Image Audio Dsp (183)](image-audio-dsp.md) · [Interop Bindings (47)](interop-bindings.md) · [Interpreter Runtime (158)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (833)](language-specification.md) · **[Library (3355)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (34)](lint-rule-pack.md) · [Linter (330)](linter.md) · [Logging Observability (258)](logging-observability.md) · [Machine Learning (382)](machine-learning.md)
+[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (691)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (199)](package-manager.md) · [Parser Lexer Ast (592)](parser-lexer-ast.md) · [Precommit Ci Quality (171)](precommit-ci-quality.md)
+[Profiler (57)](profiler.md) · [Project Scaffolding (90)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
+[Security Sast (268)](security-sast.md) · [Serialization (272)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (270)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (418)](testing-framework.md) · [Tutorial Book Styleguide (42)](tutorial-book-styleguide.md) · [Type Checker (261)](type-checker.md)
+[Undefined Behavior Analyzer (996)](undefined-behavior-analyzer.md) · [Utility Library (80)](utility-library.md) · [Visualization Gui (277)](visualization-gui.md) · [Web Framework (298)](web-framework.md)
 
 ## C99
 
@@ -2932,20 +2932,26 @@ Records: `3295`
 | codeberg.org/go-hep/hep.git | v0.27.0 | 2026-08-30T10:55:18.161122Z | [open](../records/go-codeberg-org-go-hep-hep-git-29878e71.md) |
 | codeberg.org/rimu/pyfedi | v1.6.15 | 2026-08-30T11:58:13.428621Z | [open](../records/go-codeberg-org-rimu-pyfedi-53519dff.md) |
 | git.sr.ht/~sbinet/hep | v0.19.0 | 2026-08-30T12:54:31.594234Z | [open](../records/go-git-sr-ht-sbinet-hep-dbf72bae.md) |
+| gitee.com/hongzhaomin/ioc/annotation | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gitee-com-hongzhaomin-ioc-annotation-778adf40.md) |
+| gitee.com/hongzhaomin/ioc/gspring | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gitee-com-hongzhaomin-ioc-gspring-80389a91.md) |
 | gitee.com/mirrors/ansible.git | v2.9.3+incompatible | 2026-08-30T11:57:50.194944Z | [open](../records/go-gitee-com-mirrors-ansible-git-08ba741c.md) |
 | gitee.com/mirrors/cpython.git | v3.4.7+incompatible | 2026-08-30T10:57:14.17359Z | [open](../records/go-gitee-com-mirrors-cpython-git-93bf4b1f.md) |
 | gitee.com/mirrors_newrelic/node-newrelic | v1.31.0 | 2026-08-30T11:59:25.512732Z | [open](../records/go-gitee-com-mirrors-newrelic-node-newrelic-a8b8c659.md) |
 | gitee.com/mirrors_sendgrid/sendgrid-java | v3.0.6+incompatible | 2026-08-30T10:10:27.022297Z | [open](../records/go-gitee-com-mirrors-sendgrid-sendgrid-java-40cef1c3.md) |
+| gitlab.com/sequoia-pgp/sequoia | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gitlab-com-sequoia-pgp-sequoia-fcb4ecbc.md) |
 | gitlab.com/sequoia-pgp/sequoia.git | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gitlab-com-sequoia-pgp-sequoia-git-723cf535.md) |
 | gitlab.com/umbrellazone/smartacme | v1.0.9 | 2026-08-30T10:07:20.216337Z | [open](../records/go-gitlab-com-umbrellazone-smartacme-de305f20.md) |
 | go.cozymore.dev/krkstops | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-go-cozymore-dev-krkstops-34ccbe5a.md) |
 | go.gary.cool/go-stockutil | v1.8.58 | 2026-08-30T11:58:52.391766Z | [open](../records/go-go-gary-cool-go-stockutil-dd0c06ad.md) |
+| go.lumeweb.com/portal-plugin-billing | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-go-lumeweb-com-portal-plugin-billing-4d35205b.md) |
+| go.mondoo.com/cnquery | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-go-mondoo-com-cnquery-5b60fa63.md) |
 | go.ytsaurus.tech/yt/admin/timbertruck | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-go-ytsaurus-tech-yt-admin-timbertruck-8ce375d8.md) |
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
+| gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
 | paepcke.de/opnborg | v0.1.193 | 2026-08-30T12:53:55.779483Z | [open](../records/go-paepcke-de-opnborg-5d6e838f.md) |
 | piko.sh/piko/wdk/highlight/highlight_chroma | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-piko-sh-piko-wdk-highlight-highlight-chroma-d02208be.md) |
-| sigs.k8s.io/Controller-Tools | v0.8.0 | 2026-08-30T10:55:32.392877Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
+| sigs.k8s.io/Controller-Tools | v0.6.1 | 2026-08-30T14:08:20.754698Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 
 ## Space Engines
 
@@ -3023,6 +3029,41 @@ Records: `3295`
 | skeeto/webgl-particles | unknown | github_latest_release_missing | [open](../records/effects-skeeto-webgl-particles-2b9dfa02.md) |
 | tom-mohr/particle-life-app | v1.3.1 | 2025-12-10T23:26:39Z | [open](../records/effects-tom-mohr-particle-life-app-f8f211cd.md) |
 
+## Audio
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| amsynth/amsynth | release-2.0.0 | 2026-07-11T15:20:07Z | [open](../records/audio-amsynth-amsynth-67adf031.md) |
+| Atarity/diy-synths | unknown | github_latest_release_missing | [open](../records/audio-atarity-diy-synths-33f61601.md) |
+| ctag-fh-kiel/ctag-tbd | 1.0.0 | 2025-12-17T11:55:37Z | [open](../records/audio-ctag-fh-kiel-ctag-tbd-d9d6781e.md) |
+| ddlBoJack/Speech-Resources | unknown | github_latest_release_missing | [open](../records/audio-ddlbojack-speech-resources-055d28d4.md) |
+| Dewb/monome-rack | v2.2.8 | 2024-10-10T21:08:59Z | [open](../records/audio-dewb-monome-rack-500c0d4d.md) |
+| Electrotechnique/TSynth-Teensy4.1 | V2.36 | 2023-12-25T06:57:48Z | [open](../records/audio-electrotechnique-tsynth-teensy4-1-adc60514.md) |
+| ferluht/loopa | unknown | github_latest_release_missing | [open](../records/audio-ferluht-loopa-d50b3092.md) |
+| grz0zrg/fsynth | v2.0.0 | 2021-03-27T22:07:22Z | [open](../records/audio-grz0zrg-fsynth-76464e0d.md) |
+| haoheliu/voicefixer | v0.0.12 | 2021-10-07T12:28:34Z | [open](../records/audio-haoheliu-voicefixer-73d192e9.md) |
+| haoxiangsnr/Wave-U-Net-for-Speech-Enhancement | unknown | github_latest_release_missing | [open](../records/audio-haoxiangsnr-wave-u-net-for-speech-enhancement-b9e95b31.md) |
+| heuermh/lick | unknown | github_latest_release_missing | [open](../records/audio-heuermh-lick-0835e591.md) |
+| KaleidonKep99/OmniMIDI | 14.8.5.0 | 2023-09-14T08:43:02Z | [open](../records/audio-kaleidonkep99-omnimidi-9b226db7.md) |
+| katef/eurorack-cpu | unknown | github_latest_release_missing | [open](../records/audio-katef-eurorack-cpu-f2808c17.md) |
+| kofigumbs/typebeat | unknown | github_latest_release_missing | [open](../records/audio-kofigumbs-typebeat-d3874cd9.md) |
+| kometbomb/klystrack | 1.7.6 | 2019-07-06T11:23:25Z | [open](../records/audio-kometbomb-klystrack-2d9e5f49.md) |
+| Luvata/CS224N-2019 | unknown | github_latest_release_missing | [open](../records/audio-luvata-cs224n-2019-494c90e0.md) |
+| marcel-licence/esp32_basic_synth | unknown | github_latest_release_missing | [open](../records/audio-marcel-licence-esp32-basic-synth-87189e56.md) |
+| michaelkolesidis/javascript-software-synthesizer | 2.0.3 | 2023-07-02T21:18:04Z | [open](../records/audio-michaelkolesidis-javascript-software-synthesizer-eb9005f1.md) |
+| nicolas-van/sonant-x | 2.0.3 | 2024-10-08T14:01:15Z | [open](../records/audio-nicolas-van-sonant-x-77ab0696.md) |
+| petersalomonsen/javascriptmusic | v0.0.1 | 2025-09-07T14:30:20Z | [open](../records/audio-petersalomonsen-javascriptmusic-27b85ba1.md) |
+| r9y9/wavenet_vocoder | v0.1.1 | 2018-10-27T06:50:21Z | [open](../records/audio-r9y9-wavenet-vocoder-1f648aea.md) |
+| Ryuk17/SpeechAlgorithms | unknown | github_latest_release_missing | [open](../records/audio-ryuk17-speechalgorithms-d103fbd7.md) |
+| schellingb/TinySoundFont | unknown | github_latest_release_missing | [open](../records/audio-schellingb-tinysoundfont-3bc15017.md) |
+| schollz/miti | v0.6.0 | 2020-09-29T15:07:51Z | [open](../records/audio-schollz-miti-7eaf2444.md) |
+| shorepine/tulipcc | tulip | 2026-06-19T21:52:21Z | [open](../records/audio-shorepine-tulipcc-d302bec3.md) |
+| sinshu/meltysynth | unknown | github_latest_release_missing | [open](../records/audio-sinshu-meltysynth-68e9ad82.md) |
+| sinshu/rustysynth | unknown | github_latest_release_missing | [open](../records/audio-sinshu-rustysynth-f78a46e4.md) |
+| sonic-pi-net/sonic-pi | v5.0.0 | 2026-08-07T06:51:55Z | [open](../records/audio-sonic-pi-net-sonic-pi-91c19c5c.md) |
+| tiagolr/ripplerx | v1.5.19 | 2026-06-13T17:16:00Z | [open](../records/audio-tiagolr-ripplerx-a138f9a8.md) |
+| YuriSizov/gdsion | 0.7-beta8 | 2025-03-10T13:27:16Z | [open](../records/audio-yurisizov-gdsion-1ba82006.md) |
+
 ## Photography
 
 | Name | Release | Date | Page |
@@ -3058,14 +3099,14 @@ Records: `3295`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | BodenmillerGroup/imctools | v2.1.8 | 2021-09-12T20:12:53Z | [open](../records/microscopy-bodenmillergroup-imctools-751b7c0c.md) |
-| tlnagy/OMETIFF.jl | partial | 2024-11-01T18:19:01Z | [open](../records/microscopy-tlnagy-ometiff-jl-cec7b6f6.md) |
+| tlnagy/OMETIFF.jl | v0.4.5 | 2024-04-01T20:49:37Z | [open](../records/microscopy-tlnagy-ometiff-jl-cec7b6f6.md) |
 
 ## Telescopes
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| GR3YH4TT3R93/dotfiles | partial | 2025-12-29T18:28:19Z | [open](../records/telescopes-gr3yh4tt3r93-dotfiles-2a81d246.md) |
-| MITHaystack/srt-py | partial | 2024-07-02T19:26:23Z | [open](../records/telescopes-mithaystack-srt-py-1ec91517.md) |
+| GR3YH4TT3R93/dotfiles | unknown | github_latest_release_missing | [open](../records/telescopes-gr3yh4tt3r93-dotfiles-2a81d246.md) |
+| MITHaystack/srt-py | v1.1.0 | 2023-03-17T19:16:17Z | [open](../records/telescopes-mithaystack-srt-py-1ec91517.md) |
 | synfinatic/alpacascope | partial | 2025-05-13T11:50:46Z | [open](../records/telescopes-synfinatic-alpacascope-e4f80071.md) |
 | tmolteno/TART | partial | 2026-07-01T18:32:35Z | [open](../records/telescopes-tmolteno-tart-8a3c3343.md) |
 | zkwlx/DroidTelescope | partial | 2022-04-21T02:39:54Z | [open](../records/telescopes-zkwlx-droidtelescope-316d3546.md) |
@@ -3221,60 +3262,71 @@ Records: `3295`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| 0xAX/asm | v1.0.1 | 2026-08-25T10:09:33Z | [open](../records/assembly-0xax-asm-c781f702.md) |
-| badamczewski/PowerUp | unknown | github_latest_release_missing | [open](../records/assembly-badamczewski-powerup-798e7cfd.md) |
-| cyrus-and/gdb-dashboard | unknown | github_latest_release_missing | [open](../records/assembly-cyrus-and-gdb-dashboard-ef48ce45.md) |
-| gurugio/lowlevelprogramming-university | unknown | github_latest_release_missing | [open](../records/assembly-gurugio-lowlevelprogramming-university-485ace99.md) |
-| mattdibi/redox-keyboard | unknown | github_latest_release_missing | [open](../records/assembly-mattdibi-redox-keyboard-e1f3e991.md) |
-| MattPD/cpplinks | unknown | github_latest_release_missing | [open](../records/assembly-mattpd-cpplinks-29eb7bcc.md) |
-| mmcloughlin/avo | v0.6.0 | 2024-01-07T21:34:13Z | [open](../records/assembly-mmcloughlin-avo-46167d30.md) |
-| mohitmishra786/amILearningEnough | unknown | github_latest_release_missing | [open](../records/assembly-mohitmishra786-amilearningenough-299c3826.md) |
-| segmentio/asm | v1.2.0 | 2022-05-01T17:40:19Z | [open](../records/assembly-segmentio-asm-07cb5069.md) |
-| Stephane-D/SGDK | v2.11 | 2025-04-02T22:08:56Z | [open](../records/assembly-stephane-d-sgdk-bad539e3.md) |
-| vvaltchev/tilck | unknown | github_latest_release_missing | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
-| yrp604/rappel | unknown | github_latest_release_missing | [open](../records/assembly-yrp604-rappel-4bf787bb.md) |
+| 0xAX/asm | partial | 2026-08-25T10:24:56Z | [open](../records/assembly-0xax-asm-c781f702.md) |
+| badamczewski/PowerUp | partial | 2024-01-25T09:23:08Z | [open](../records/assembly-badamczewski-powerup-798e7cfd.md) |
+| cyrus-and/gdb-dashboard | partial | 2026-07-17T09:53:53Z | [open](../records/assembly-cyrus-and-gdb-dashboard-ef48ce45.md) |
+| gurugio/lowlevelprogramming-university | partial | 2025-03-24T11:49:58Z | [open](../records/assembly-gurugio-lowlevelprogramming-university-485ace99.md) |
+| mattdibi/redox-keyboard | partial | 2026-05-26T18:15:22Z | [open](../records/assembly-mattdibi-redox-keyboard-e1f3e991.md) |
+| MattPD/cpplinks | partial | 2026-09-01T03:03:56Z | [open](../records/assembly-mattpd-cpplinks-29eb7bcc.md) |
+| mmcloughlin/avo | partial | 2026-09-01T05:34:18Z | [open](../records/assembly-mmcloughlin-avo-46167d30.md) |
+| mohitmishra786/amILearningEnough | partial | 2026-03-26T16:42:23Z | [open](../records/assembly-mohitmishra786-amilearningenough-299c3826.md) |
+| segmentio/asm | partial | 2026-06-25T23:26:52Z | [open](../records/assembly-segmentio-asm-07cb5069.md) |
+| Stephane-D/SGDK | partial | 2026-08-17T08:47:30Z | [open](../records/assembly-stephane-d-sgdk-bad539e3.md) |
+| vvaltchev/tilck | partial | 2026-09-01T05:32:32Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
+| yrp604/rappel | partial | 2024-03-07T04:45:15Z | [open](../records/assembly-yrp604-rappel-4bf787bb.md) |
 
 ## Pattern language
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| 3lf/design-patterns-for-humans | unknown | github_latest_release_missing | [open](../records/pattern-language-3lf-design-patterns-for-humans-d62cf116.md) |
-| AlexanderGrom/go-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-alexandergrom-go-patterns-9ab1886f.md) |
-| aritraroy/PatternLockView | unknown | github_latest_release_missing | [open](../records/pattern-language-aritraroy-patternlockview-c5e3f915.md) |
-| chuanxshi/javascript-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-chuanxshi-javascript-patterns-af9ba9d5.md) |
-| DesignPatternsPHP/DesignPatternsPHP | unknown | github_latest_release_missing | [open](../records/pattern-language-designpatternsphp-designpatternsphp-d6c926d5.md) |
-| Devinterview-io/software-architecture-interview-questions | unknown | github_latest_release_missing | [open](../records/pattern-language-devinterview-io-software-architecture-interview-questions-d0f17ef1.md) |
-| dykyi-roman/architecture | unknown | github_latest_release_missing | [open](../records/pattern-language-dykyi-roman-architecture-981b8b74.md) |
-| evoiz/Agentic-Design-Patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-evoiz-agentic-design-patterns-01a7bf2b.md) |
-| fadeevab/design-patterns-rust | unknown | github_latest_release_missing | [open](../records/pattern-language-fadeevab-design-patterns-rust-d33499f2.md) |
-| fbeline/design-patterns-JS | unknown | github_latest_release_missing | [open](../records/pattern-language-fbeline-design-patterns-js-6a6af94b.md) |
-| felangel/bloc | bloc_lint-v0.4.2 | 2026-07-04T23:45:27Z | [open](../records/pattern-language-felangel-bloc-2de5d68d.md) |
-| FengJungle/DesignPattern | unknown | github_latest_release_missing | [open](../records/pattern-language-fengjungle-designpattern-555629f0.md) |
-| Habrador/Unity-Programming-Patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-habrador-unity-programming-patterns-b7ded15d.md) |
-| iluwatar/java-design-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-iluwatar-java-design-patterns-92e5a814.md) |
-| in28minutes/camel | unknown | github_latest_release_missing | [open](../records/pattern-language-in28minutes-camel-175e126b.md) |
-| landy8530/DesignPatterns | v2.1 | 2019-05-20T14:09:15Z | [open](../records/pattern-language-landy8530-designpatterns-ec410f5c.md) |
-| lbroudoux/eip-designer | unknown | github_latest_release_missing | [open](../records/pattern-language-lbroudoux-eip-designer-c1075562.md) |
-| liu-jianhao/Cpp-Design-Patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-liu-jianhao-cpp-design-patterns-3655340d.md) |
-| lpxxn/rust-design-pattern | unknown | github_latest_release_missing | [open](../records/pattern-language-lpxxn-rust-design-pattern-8a38ac92.md) |
-| me115/design_patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-me115-design-patterns-b192fa4c.md) |
-| mkobuolys/flutter-design-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-mkobuolys-flutter-design-patterns-c7b5823e.md) |
-| monochromegane/go_design_pattern | unknown | github_latest_release_missing | [open](../records/pattern-language-monochromegane-go-design-pattern-2cfa5f43.md) |
-| Naphier/unity-design-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-naphier-unity-design-patterns-fde23726.md) |
-| ochococo/Design-Patterns-In-Swift | unknown | github_latest_release_missing | [open](../records/pattern-language-ochococo-design-patterns-in-swift-08801ce6.md) |
-| roughike/BottomBar | V2.3.1 | 2017-04-14T06:45:04Z | [open](../records/pattern-language-roughike-bottombar-94da77f0.md) |
-| sohamkamani/javascript-design-patterns-for-humans | unknown | github_latest_release_missing | [open](../records/pattern-language-sohamkamani-javascript-design-patterns-for-humans-68527519.md) |
-| Suryakant-Bharti/Important-Java-Concepts | unknown | github_latest_release_missing | [open](../records/pattern-language-suryakant-bharti-important-java-concepts-57e4737e.md) |
-| tcorral/Design-Patterns-in-Javascript | unknown | github_latest_release_missing | [open](../records/pattern-language-tcorral-design-patterns-in-javascript-cd76fa06.md) |
-| tylerlaberge/PyPattyrn | v1.2 | 2016-09-11T02:13:18Z | [open](../records/pattern-language-tylerlaberge-pypattyrn-835debda.md) |
+| 3lf/design-patterns-for-humans | partial | 2026-06-27T22:55:14Z | [open](../records/pattern-language-3lf-design-patterns-for-humans-d62cf116.md) |
+| AlexanderGrom/go-patterns | partial | 2021-04-15T17:42:30Z | [open](../records/pattern-language-alexandergrom-go-patterns-9ab1886f.md) |
+| aritraroy/PatternLockView | partial | 2022-03-03T15:17:44Z | [open](../records/pattern-language-aritraroy-patternlockview-c5e3f915.md) |
+| chuanxshi/javascript-patterns | partial | 2024-07-18T10:26:01Z | [open](../records/pattern-language-chuanxshi-javascript-patterns-af9ba9d5.md) |
+| DesignPatternsPHP/DesignPatternsPHP | partial | 2025-02-03T08:45:02Z | [open](../records/pattern-language-designpatternsphp-designpatternsphp-d6c926d5.md) |
+| Devinterview-io/software-architecture-interview-questions | partial | 2026-01-04T23:16:23Z | [open](../records/pattern-language-devinterview-io-software-architecture-interview-questions-d0f17ef1.md) |
+| dykyi-roman/architecture | partial | 2026-03-09T14:54:04Z | [open](../records/pattern-language-dykyi-roman-architecture-981b8b74.md) |
+| evoiz/Agentic-Design-Patterns | partial | 2026-07-24T14:23:04Z | [open](../records/pattern-language-evoiz-agentic-design-patterns-01a7bf2b.md) |
+| fadeevab/design-patterns-rust | partial | 2025-01-01T17:16:57Z | [open](../records/pattern-language-fadeevab-design-patterns-rust-d33499f2.md) |
+| fbeline/design-patterns-JS | partial | 2023-02-10T16:43:18Z | [open](../records/pattern-language-fbeline-design-patterns-js-6a6af94b.md) |
+| felangel/bloc | partial | 2026-08-10T16:40:08Z | [open](../records/pattern-language-felangel-bloc-2de5d68d.md) |
+| FengJungle/DesignPattern | partial | 2024-04-17T07:27:17Z | [open](../records/pattern-language-fengjungle-designpattern-555629f0.md) |
+| Habrador/Unity-Programming-Patterns | partial | 2026-04-28T12:37:06Z | [open](../records/pattern-language-habrador-unity-programming-patterns-b7ded15d.md) |
+| iluwatar/java-design-patterns | partial | 2026-08-31T22:43:02Z | [open](../records/pattern-language-iluwatar-java-design-patterns-92e5a814.md) |
+| in28minutes/camel | partial | 2024-09-05T07:23:55Z | [open](../records/pattern-language-in28minutes-camel-175e126b.md) |
+| landy8530/DesignPatterns | partial | 2022-12-16T00:46:17Z | [open](../records/pattern-language-landy8530-designpatterns-ec410f5c.md) |
+| lbroudoux/eip-designer | partial | 2016-10-05T12:51:54Z | [open](../records/pattern-language-lbroudoux-eip-designer-c1075562.md) |
+| liu-jianhao/Cpp-Design-Patterns | partial | 2024-10-11T08:12:29Z | [open](../records/pattern-language-liu-jianhao-cpp-design-patterns-3655340d.md) |
+| lpxxn/rust-design-pattern | partial | 2021-07-15T09:03:21Z | [open](../records/pattern-language-lpxxn-rust-design-pattern-8a38ac92.md) |
+| me115/design_patterns | partial | 2024-06-05T03:27:51Z | [open](../records/pattern-language-me115-design-patterns-b192fa4c.md) |
+| mkobuolys/flutter-design-patterns | partial | 2026-08-03T20:00:48Z | [open](../records/pattern-language-mkobuolys-flutter-design-patterns-c7b5823e.md) |
+| monochromegane/go_design_pattern | partial | 2019-09-19T16:27:19Z | [open](../records/pattern-language-monochromegane-go-design-pattern-2cfa5f43.md) |
+| Naphier/unity-design-patterns | partial | 2025-05-24T21:12:15Z | [open](../records/pattern-language-naphier-unity-design-patterns-fde23726.md) |
+| ochococo/Design-Patterns-In-Swift | partial | 2024-08-03T07:30:28Z | [open](../records/pattern-language-ochococo-design-patterns-in-swift-08801ce6.md) |
+| roughike/BottomBar | partial | 2021-09-16T11:19:06Z | [open](../records/pattern-language-roughike-bottombar-94da77f0.md) |
+| sohamkamani/javascript-design-patterns-for-humans | partial | 2024-01-08T05:07:39Z | [open](../records/pattern-language-sohamkamani-javascript-design-patterns-for-humans-68527519.md) |
+| Suryakant-Bharti/Important-Java-Concepts | partial | 2025-08-22T17:32:10Z | [open](../records/pattern-language-suryakant-bharti-important-java-concepts-57e4737e.md) |
+| tcorral/Design-Patterns-in-Javascript | partial | 2023-08-07T04:31:34Z | [open](../records/pattern-language-tcorral-design-patterns-in-javascript-cd76fa06.md) |
+| tylerlaberge/PyPattyrn | partial | 2024-05-26T00:24:11Z | [open](../records/pattern-language-tylerlaberge-pypattyrn-835debda.md) |
 
 ## WebAssembly
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| as2d/as2d | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-as2d-as2d-3fc338a6.md) |
+| AssemblyScript/examples | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-assemblyscript-examples-7e243366.md) |
+| athre0z/wasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-athre0z-wasm-a5ff0f9e.md) |
+| eliben/wasm-wat-samples | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-eliben-wasm-wat-samples-fa32d6da.md) |
+| Hanks10100/wasm-examples | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-hanks10100-wasm-examples-da36e03e.md) |
 | jupyterlite/jupyterlite | v0.8.3 | 2026-08-20T14:27:35Z | [open](../records/webassembly-jupyterlite-jupyterlite-7833185c.md) |
+| Kimundi/greenwasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-kimundi-greenwasm-88dc6321.md) |
+| LingDong-/wasm-fun | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-lingdong-wasm-fun-c02d519e.md) |
+| mbebenita/WasmExplorer | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-mbebenita-wasmexplorer-39663e88.md) |
 | meshery/meshery | v1.0.68 | 2026-08-24T00:04:05Z | [open](../records/webassembly-meshery-meshery-19a90056.md) |
+| rstropek/rust-samples | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-rstropek-rust-samples-7a66305a.md) |
+| SECCON/SECCON2017_online_CTF | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-seccon-seccon2017-online-ctf-82207acc.md) |
 | svenstaro/genact | v1.5.1 | 2026-01-26T04:48:20Z | [open](../records/webassembly-svenstaro-genact-2670193d.md) |
+| torch2424/as-bind | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-torch2424-as-bind-a6b95cd1.md) |
 | wac - WebAssembly in C (x86) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wac-webassembly-in-c-x86-eec326ea.md) |
 | WASI - The WebAssembly System Interface | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wasi-the-webassembly-system-interface-2e6928ab.md) |
 | Wasm2Wat | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wasm2wat-593bb45c.md) |
@@ -3282,6 +3334,7 @@ Records: `3295`
 | Wasmer for Go | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wasmer-for-go-3d87f0b5.md) |
 | Wasmer for PHP | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wasmer-for-php-947063f4.md) |
 | Wasmer for Python | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wasmer-for-python-ffdc43ce.md) |
+| wasmerio/io-devices-lib | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-wasmerio-io-devices-lib-17434401.md) |
 | Wat2Wasm | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wat2wasm-5f2849e5.md) |
 | WebAssembly Explorer | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-webassembly-explorer-1bf9c18f.md) |
 | WebAssembly MDN | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-webassembly-mdn-f8af4661.md) |
@@ -3385,8 +3438,11 @@ Records: `3295`
 | com.sap.cloud.yaas.service-sdk:service-sdk-servlet-support | 4.17.1 | 2017-10-26T05:29:53+00:00 | [open](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-servlet-support-a2a9a894.md) |
 | com.sap.cloud.yaas.service-sdk:service-sdk-spring-boot-archetype | 4.17.1 | 2017-10-26T05:29:48+00:00 | [open](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-spring-boot-archetype-bbb0488c.md) |
 | com.sap.cloud.yaas.service-sdk:service-sdk-superpom | 4.17.1 | 2017-10-26T05:29:55+00:00 | [open](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-superpom-125bbc0a.md) |
+| com.sap.cloud:neo-java-web-maven-plugin | 5.24.2 | 2025-06-11T13:48:39+00:00 | [open](../records/sapjava-com-sap-cloud-neo-java-web-maven-plugin-787647ef.md) |
 | com.sap.cloud:neo-java-web-sdk | 5.24.2 | 2025-06-11T13:48:36+00:00 | [open](../records/sapjava-com-sap-cloud-neo-java-web-sdk-2b581860.md) |
+| com.sap.cloud:neo-javaee6-wp-maven-plugin | 2.208.5 | 2021-05-21T08:09:58+00:00 | [open](../records/sapjava-com-sap-cloud-neo-javaee6-wp-maven-plugin-26d148fb.md) |
 | com.sap.cloud:neo-javaee6-wp-sdk | 2.208.5 | 2021-05-21T08:09:57+00:00 | [open](../records/sapjava-com-sap-cloud-neo-javaee6-wp-sdk-26aa38cf.md) |
+| com.sap.cloud:neo-javaee7-wp-maven-plugin | 1.202.2 | 2025-06-11T13:48:34+00:00 | [open](../records/sapjava-com-sap-cloud-neo-javaee7-wp-maven-plugin-95816c31.md) |
 | com.sap.cloud:neo-javaee7-wp-sdk | 1.202.2 | 2025-06-11T13:48:33+00:00 | [open](../records/sapjava-com-sap-cloud-neo-javaee7-wp-sdk-a7723f83.md) |
 | dhorions/hanacloud-messenger-bot | unknown | not_a_maven_coordinate | [open](../records/sapjava-dhorions-hanacloud-messenger-bot-f4eceabf.md) |
 | diego-izurieta/address-manager | unknown | not_a_maven_coordinate | [open](../records/sapjava-diego-izurieta-address-manager-3c30118e.md) |
@@ -3416,15 +3472,24 @@ Records: `3295`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| allenwong/30DaysofSwift | unknown | github_search_does_not_include_release_date | [open](../records/swift-allenwong-30daysofswift-57c2b6b8.md) |
 | Design-Patterns-In-Swift | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-design-patterns-in-swift-980c990c.md) |
+| DevToys-app/DevToysMac | unknown | github_search_does_not_include_release_date | [open](../records/swift-devtoys-app-devtoysmac-341fa316.md) |
+| JohnCoates/Aerial | unknown | github_search_does_not_include_release_date | [open](../records/swift-johncoates-aerial-0c1a1e38.md) |
 | lukepistrol/SFSymbolsMacro | partial | 2026-02-10T21:23:29Z | [open](../records/swift-lukepistrol-sfsymbolsmacro-4ff6160a.md) |
+| mxcl/PromiseKit | unknown | github_search_does_not_include_release_date | [open](../records/swift-mxcl-promisekit-5fcd8bb0.md) |
+| newlinedotco/FlappySwift | unknown | github_search_does_not_include_release_date | [open](../records/swift-newlinedotco-flappyswift-c0129be0.md) |
 | Online Swift Playground | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-online-swift-playground-7735ae15.md) |
+| ReSwift/ReSwift | unknown | github_search_does_not_include_release_date | [open](../records/swift-reswift-reswift-732fe5d0.md) |
+| robb/Cartography | unknown | github_search_does_not_include_release_date | [open](../records/swift-robb-cartography-d7790946.md) |
 | sindresorhus/Defaults | partial | 2026-06-23T21:26:22Z | [open](../records/swift-sindresorhus-defaults-8ef3f6cc.md) |
 | sindresorhus/DockProgress | partial | 2026-01-25T06:44:12Z | [open](../records/swift-sindresorhus-dockprogress-ffab1db7.md) |
 | sindresorhus/Percentage | partial | 2026-02-02T09:33:11Z | [open](../records/swift-sindresorhus-percentage-aa64e26d.md) |
+| Stengo/DeskPad | unknown | github_search_does_not_include_release_date | [open](../records/swift-stengo-deskpad-dc88db22.md) |
 | swift-colab | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-swift-colab-635e839b.md) |
 | SwiftFiddle | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-swiftfiddle-85fbb87e.md) |
 | Swiftify | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-swiftify-b7e28e1b.md) |
+| TheBoredTeam/boring.notch | unknown | github_search_does_not_include_release_date | [open](../records/swift-theboredteam-boring-notch-f077f529.md) |
 
 ## Cocoa
 

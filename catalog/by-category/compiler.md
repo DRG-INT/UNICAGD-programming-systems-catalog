@@ -1,6 +1,6 @@
 # Compiler
 
-Records: `111`
+Records: `122`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `111`
 
 ## Category Index
 
-[Api Abi Checker (112)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
-[Benchmarking (69)](benchmarking.md) · [Build System (563)](build-system.md) · [Cli (441)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (63)](community-reference.md) · **[Compiler (111)](compiler.md)** · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
-[Concurrency Parallelism (62)](concurrency-parallelism.md) · [Configuration (69)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (128)](cryptography.md) · [Data Science (29)](data-science.md) · [Database Datastore (436)](database-datastore.md) · [Datetime (96)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (59)](dependency-manager.md) · [Documentation (61)](documentation.md)
-[Embedded Hardware (36)](embedded-hardware.md) · [Ffi Bindings (312)](ffi-bindings.md) · [Filesystem Os (678)](filesystem-os.md) · [Formatter (434)](formatter.md)
-[Framework (38)](framework.md) · [Fuzzer (23)](fuzzer.md) · [Game Engine Game Dev (98)](game-engine-game-dev.md) · [Ide Editor Integration (812)](ide-editor-integration.md)
-[Image Audio Dsp (168)](image-audio-dsp.md) · [Interop Bindings (46)](interop-bindings.md) · [Interpreter Runtime (138)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (825)](language-specification.md) · [Library (3295)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (33)](lint-rule-pack.md) · [Linter (328)](linter.md) · [Logging Observability (246)](logging-observability.md) · [Machine Learning (365)](machine-learning.md)
-[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (52)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (684)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (193)](package-manager.md) · [Parser Lexer Ast (583)](parser-lexer-ast.md) · [Precommit Ci Quality (168)](precommit-ci-quality.md)
-[Profiler (56)](profiler.md) · [Project Scaffolding (84)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
-[Security Sast (263)](security-sast.md) · [Serialization (270)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (263)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (414)](testing-framework.md) · [Tutorial Book Styleguide (39)](tutorial-book-styleguide.md) · [Type Checker (258)](type-checker.md)
-[Undefined Behavior Analyzer (901)](undefined-behavior-analyzer.md) · [Utility Library (79)](utility-library.md) · [Visualization Gui (268)](visualization-gui.md) · [Web Framework (294)](web-framework.md)
+[Api Abi Checker (115)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (105)](async-runtime.md)
+[Benchmarking (73)](benchmarking.md) · [Build System (583)](build-system.md) · [Cli (450)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (67)](community-reference.md) · **[Compiler (122)](compiler.md)** · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
+[Concurrency Parallelism (63)](concurrency-parallelism.md) · [Configuration (71)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (132)](cryptography.md) · [Data Science (30)](data-science.md) · [Database Datastore (437)](database-datastore.md) · [Datetime (100)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (61)](dependency-manager.md) · [Documentation (62)](documentation.md)
+[Embedded Hardware (38)](embedded-hardware.md) · [Ffi Bindings (320)](ffi-bindings.md) · [Filesystem Os (745)](filesystem-os.md) · [Formatter (441)](formatter.md)
+[Framework (38)](framework.md) · [Fuzzer (24)](fuzzer.md) · [Game Engine Game Dev (103)](game-engine-game-dev.md) · [Ide Editor Integration (844)](ide-editor-integration.md)
+[Image Audio Dsp (183)](image-audio-dsp.md) · [Interop Bindings (47)](interop-bindings.md) · [Interpreter Runtime (158)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (833)](language-specification.md) · [Library (3355)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (34)](lint-rule-pack.md) · [Linter (330)](linter.md) · [Logging Observability (258)](logging-observability.md) · [Machine Learning (382)](machine-learning.md)
+[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (54)](memory-analyzer.md) · [Message Broker (24)](message-broker.md) · [Networking Http (691)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (199)](package-manager.md) · [Parser Lexer Ast (592)](parser-lexer-ast.md) · [Precommit Ci Quality (171)](precommit-ci-quality.md)
+[Profiler (57)](profiler.md) · [Project Scaffolding (90)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
+[Security Sast (268)](security-sast.md) · [Serialization (272)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (270)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (418)](testing-framework.md) · [Tutorial Book Styleguide (42)](tutorial-book-styleguide.md) · [Type Checker (261)](type-checker.md)
+[Undefined Behavior Analyzer (996)](undefined-behavior-analyzer.md) · [Utility Library (80)](utility-library.md) · [Visualization Gui (277)](visualization-gui.md) · [Web Framework (298)](web-framework.md)
 
 ## C99
 
@@ -159,7 +159,7 @@ Records: `111`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| github.com/matter-labs-forks/llvm-sys.rs | v100.1.1+incompatible | 2026-08-30T10:56:48.35067Z | [open](../records/go-github-com-matter-labs-forks-llvm-sys-rs-9549beda.md) |
+| github.com/matter-labs-forks/llvm-sys.rs | v100.0.0+incompatible | 2026-08-30T14:10:29.382391Z | [open](../records/go-github-com-matter-labs-forks-llvm-sys-rs-9549beda.md) |
 
 ## Engines
 
@@ -174,6 +174,12 @@ Records: `111`
 | bluescarni/heyoka | v7.12.0 | 2026-07-16T07:56:38Z | [open](../records/space-engines-bluescarni-heyoka-0a38e447.md) |
 | bluescarni/heyoka.py | v7.12.1 | 2026-07-22T10:54:03Z | [open](../records/space-engines-bluescarni-heyoka-py-a173cf06.md) |
 
+## Audio
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| vult-dsp/vult | v0.4.15 | 2023-02-25T21:00:14Z | [open](../records/audio-vult-dsp-vult-61a05f1e.md) |
+
 ## Magazines
 
 | Name | Release | Date | Page |
@@ -184,9 +190,9 @@ Records: `111`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| compiler-explorer/compiler-explorer | unknown | github_latest_release_missing | [open](../records/assembly-compiler-explorer-compiler-explorer-99f6d9ce.md) |
-| pacak/cargo-show-asm | unknown | github_latest_release_missing | [open](../records/assembly-pacak-cargo-show-asm-9459d0cc.md) |
-| vygr/ChrysaLisp | v5.1 | 2026-08-05T16:39:34Z | [open](../records/assembly-vygr-chrysalisp-0e234f7b.md) |
+| compiler-explorer/compiler-explorer | partial | 2026-09-01T03:29:09Z | [open](../records/assembly-compiler-explorer-compiler-explorer-99f6d9ce.md) |
+| pacak/cargo-show-asm | partial | 2026-08-31T18:32:36Z | [open](../records/assembly-pacak-cargo-show-asm-9459d0cc.md) |
+| vygr/ChrysaLisp | partial | 2026-09-01T11:14:39Z | [open](../records/assembly-vygr-chrysalisp-0e234f7b.md) |
 
 ## WebAssembly
 
@@ -196,13 +202,23 @@ Records: `111`
 | Asterius - A Haskell to WebAssembly compiler | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-asterius-a-haskell-to-webassembly-compiler-4b7ccecb.md) |
 | Binaryen - Binaryen is a compiler and toolchain infrastructure library for WebAssembly, written in C++ | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-binaryen-binaryen-is-a-compiler-and-toolchain-infrastructure-library-for-webassembly-written-in-c-b9de4902.md) |
 | Emscripten - LLVM-based project that compiles C and C++ | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-emscripten-llvm-based-project-that-compiles-c-and-c-c903d9d1.md) |
-| emscripten-core/emscripten | 6.0.9 | 2026-09-01T06:25:34Z | [open](../records/webassembly-emscripten-core-emscripten-919748ea.md) |
+| emscripten-core/emscripten | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-emscripten-core-emscripten-919748ea.md) |
+| iden3/circom | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-iden3-circom-ca42a3d1.md) |
 | ilwasm - CIL to WebAssembly compiler | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-ilwasm-cil-to-webassembly-compiler-59942fe8.md) |
+| kign/c4wa | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-kign-c4wa-4fdcdc9c.md) |
+| mewz-project/wasker | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-mewz-project-wasker-952047fb.md) |
 | PPCI.wasm - PPCI Can compile wasm to machine code and run it in the Python process | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-ppci-wasm-ppci-can-compile-wasm-to-machine-code-and-run-it-in-the-python-process-fd90aa07.md) |
+| remko/waforth | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-remko-waforth-ddc3f002.md) |
+| SamGinzburg/VectorVisor | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-samginzburg-vectorvisor-5bd259b4.md) |
+| sdiehl/wasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-sdiehl-wasm-632e15fb.md) |
+| SwadicalRag/wasm2lua | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-swadicalrag-wasm2lua-9438fb13.md) |
 | TinyGo - Go for embedded devices and WebAssembly. Creates very small .wasm files. | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-tinygo-go-for-embedded-devices-and-webassembly-creates-very-small-wasm-files-2517e753.md) |
-| tinygo-org/tinygo | v0.42.0 | 2026-09-01T08:02:13Z | [open](../records/webassembly-tinygo-org-tinygo-509450fb.md) |
-| tursodatabase/turso | v0.7.2 | 2026-07-30T13:56:13Z | [open](../records/webassembly-tursodatabase-turso-a563c571.md) |
+| tinygo-org/tinygo | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-tinygo-org-tinygo-509450fb.md) |
+| titzer/wizard-engine | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-titzer-wizard-engine-a95b7825.md) |
+| tursodatabase/turso | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-tursodatabase-turso-a563c571.md) |
+| wazero/wazero | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-wazero-wazero-d7577722.md) |
 | WebAssembly for the GNU Toolchain | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-webassembly-for-the-gnu-toolchain-bcf332d8.md) |
+| WebAssembly/binaryen | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-webassembly-binaryen-0904a80e.md) |
 
 ## Repository Workplaces
 
