@@ -15,8 +15,7 @@ Usage in build_catalog.py:
 
 import io
 import os
-from pathlib import Path
-from typing import Optional, List, Tuple
+from typing import Optional
 
 try:
     from PIL import Image
@@ -39,14 +38,8 @@ BLOCK_GRADIENT = "█▓▒░ "
 # Step blocks for fine gradients
 BLOCK_STEPS = "▏▎▍▌▋▊▉"
 
-# Dot-like characters for obfuscation
-OBFUSCATION_DOTS = ".∘·•◦°○"
-
 # Cursor block characters for quality indicators
-CURSOR_BLOCKS = list("▇▆▅▄▃▂▁")
-
-# Trigger characters for link obfuscation
-TRIGGER_CHARS = list("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789")
+CURSOR_BLOCKS = ["▇", "▆", "▅", "▄", "▃", "▂", "▁", "▏", "▎", "▍", "▌", "▋", "▊", "▉"]
 
 # Font mapping for record icons - use only available pyfiglet fonts
 FONT_ALIASES = {
@@ -79,11 +72,87 @@ FONT_ALIASES = {
 }
 
 
-# Cursor block characters for quality indicators
-CURSOR_BLOCKS = list("▇▆▅▄▃▂▁")
+def render_collapsible(title: str, content: str, open_by_default: bool = False) -> str:
+    """Render a collapsible section using HTML details/summary tags.
+    
+    Args:
+        title: Title shown in the summary
+        content: Content inside the collapsible (already formatted markdown)
+        open_by_default: Whether the section starts open
+    """
+    open_attr = ' open' if open_by_default else ''
+    return f"<details{open_attr}>\n<summary><strong>{title}</strong></summary>\n\n{content}\n\n</details>"
 
-# Trigger characters for link obfuscation
-TRIGGER_CHARS = list("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789")
+
+def render_ascii_header(text: str, theme: str = "default") -> str:
+    """Render an ASCII art header for language pages using block characters.
+    
+    Args:
+        text: The heading text (e.g., language name)
+        theme: Visual theme for the header border
+    
+    Returns:
+        ASCII art header string suitable for Markdown code blocks
+    """
+    themes = {
+        "default": "═║╔╗╚╝",
+        "tech": "█▓▒░║╔╗",
+        "minimalist": "──│┌┘└",
+    }
+    chars = themes.get(theme, themes["default"])
+    top_left, top_right, bottom_left, bottom_right = chars[2], chars[3], chars[4], chars[5]
+    h_line, v_line = chars[0], chars[1]
+    
+    # Create a box header
+    width = min(max(len(text) + 8, 40), 60)
+    text_padded = text.center(width - 4)
+    
+    top = f"{top_left}{h_line * (width - 2)}{top_right}"
+    middle = f"{v_line} {text_padded} {v_line}"
+    bottom = f"{bottom_left}{h_line * (width - 2)}{bottom_right}"
+    
+    return f"{top}\n{middle}\n{bottom}"
+
+
+def render_unicode_bar(length: int = 40, filled: int = 20, style: str = "blocks") -> str:
+    """Render a Unicode gradient progress bar.
+    
+    Args:
+        length: Total length of the bar
+        filled: Number of filled characters
+        style: Style of the bar (blocks, dots, arrows, mixed)
+    
+    Returns:
+        Unicode bar string
+    """
+    styles = {
+        "blocks": ("█", "░"),
+        "dots": ("●", "○"),
+        "arrows": ("►", "○"),
+        "mixed": ("▰", "▱"),
+    }
+    filled_char, empty_char = styles.get(style, styles["blocks"])
+    filled_count = min(filled, length)
+    empty_count = length - filled_count
+    return f"{filled_char * filled_count}{empty_char * empty_count}"
+
+
+def render_robot_meta(canonical_url: str, crawl_delay: str = "10") -> str:
+    """Render robots.txt-compatible metadata for a record page.
+    
+    Args:
+        canonical_url: The canonical GitHub URL for this record
+        crawl_delay: Crawl delay in seconds
+    
+    Returns:
+        HTML meta tags string
+    """
+    return (
+        f"<!-- robots: index, follow -->\n"
+        f"<!-- canonical: {canonical_url} -->\n"
+        f"<!-- crawl-delay: {crawl_delay} -->\n"
+        f"<!-- robots.txt: compliant -->"
+    )
 
 
 def render_header(text: str, font: str = "standard", width: int = 80) -> str:
@@ -145,14 +214,13 @@ def ascii_image(
         return f"[Image: {os.path.basename(image_path)}]"
     
     try:
-        img = Image.open(image_path)
+        loaded = Image.open(image_path)
         
         if height is None:
             # Maintain aspect ratio (ASCII chars are ~2x taller than wide)
-            height = int(width * img.height / img.width * 0.5)
+            height = int(width * loaded.height / loaded.width * 0.5)
         
-        img = img.resize((width, height))
-        img = img.convert("L")  # Grayscale
+        img = loaded.resize((width, height)).convert("L")  # Grayscale
         
         pixels = list(img.getdata())
         chars = []
@@ -173,7 +241,7 @@ def ascii_image(
             lines.append("".join(chars[i:i + width]))
         
         return "\n".join(lines)
-    except Exception as e:
+    except Exception:
         return f"[Image conversion failed: {image_path}]"
 
 
@@ -186,11 +254,10 @@ def ascii_image_from_url(url: str, width: int = 60) -> str:
         import urllib.request
         with urllib.request.urlopen(url, timeout=10) as resp:
             img_data = resp.read()
-        img = Image.open(io.BytesIO(img_data))
+        loaded = Image.open(io.BytesIO(img_data))
         
-        height = int(width * img.height / img.width * 0.5)
-        img = img.resize((width, height))
-        img = img.convert("L")
+        height = int(width * loaded.height / loaded.width * 0.5)
+        img = loaded.resize((width, height)).convert("L")
         
         return _img_to_ascii(img, width, height)
     except Exception:
@@ -312,18 +379,9 @@ def render_category_banner(category: str, record_count: int, width: int = 80) ->
 
 def render_record_icon(branch: str, category: str) -> str:
     """Generate a simple icon/block for a record based on branch and category."""
-    # Use first letters of branch and category
-    branch_init = branch[0].upper() if branch else "R"
-    category_init = category[0].upper() if category else "C"
-    
     # Choose cursor block based on hash
-    hash_val = hash(branch + category) % len(CURSOR_BLOCKS)
-    
+    hash_val = hash(f"{branch}:{category}") % len(CURSOR_BLOCKS)
     return f"[{CURSOR_BLOCKS[hash_val]}]"
-
-
-# Cursor blocks for use in main build script
-CURSOR_BLOCKS = ["▇", "▆", "▅", "▄", "▃", "▂", "▁", "▏", "▎", "▍", "▌", "▋", "▊", "▉"]
 
 if __name__ == "__main__":
     # Demo

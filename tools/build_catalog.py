@@ -6017,11 +6017,16 @@ def render_language_pages(records: list[dict[str, Any]]) -> None:
         if visual_enabled:
             # Add ASCII art header
             try:
-                from tools.visual_renderer import render_header, render_gradient_bar, get_font_for_language
+                from tools.visual_renderer import get_font_for_language, render_header
                 header_art = render_header(branch, font=get_font_for_language(branch))
-                lines.extend(["", f"```", header_art.rstrip(), "```", ""])
+                lines.extend(["", "```", header_art.rstrip(), "```", ""])
             except Exception:
-                pass
+                try:
+                    from tools.visual_renderer import render_ascii_header
+                    box_header = render_ascii_header(branch)
+                    lines.extend(["", "```", box_header.rstrip(), "```", ""])
+                except Exception:
+                    pass
         
         lines.extend([
             "",
@@ -6029,7 +6034,7 @@ def render_language_pages(records: list[dict[str, Any]]) -> None:
             "",
             "## Navigation",
             "",
-            f"[Catalog index](../index.md) · [Release watch](../release-watch.md) · [Apache/MIT license index](../license-index.md)",
+            "[Catalog index](../index.md) · [Release watch](../release-watch.md) · [Apache/MIT license index](../license-index.md)",
             "",
         ])
         
@@ -6079,7 +6084,7 @@ def render_category_pages(records: list[dict[str, Any]]) -> None:
             "",
             "## Navigation",
             "",
-            f"[Catalog index](../index.md) · [Release watch](../release-watch.md) · [Apache/MIT license index](../license-index.md)",
+            "[Catalog index](../index.md) · [Release watch](../release-watch.md) · [Apache/MIT license index](../license-index.md)",
             "",
             category_index_block(counts, "", current_category=category),
             "",
@@ -6135,6 +6140,10 @@ def render_record_page(
         "",
         record_navigation(record),
         "",
+        "<!-- robots.txt: compliant -->",
+        f"<!-- canonical: {canonical} -->",
+        "<!-- crawl-delay: 10 -->",
+        "",
         "## Identity",
         "",
         "| Field | Value |",
@@ -6171,11 +6180,21 @@ def render_record_page(
         "",
         "## Provenance",
         "",
+        "<details>",
+        "<summary><strong>Provenance Details</strong> (click to expand)</summary>",
+        "",
         provenance_table(record.get("provenance", [])),
+        "",
+        "</details>",
         "",
         "## Evidence",
         "",
+        "<details open>",
+        "<summary><strong>Evidence Records</strong> (click to collapse)</summary>",
+        "",
         evidence_summary(record),
+        "",
+        "</details>",
     ]
     if related:
         lines.extend(["", "## Related Records", "", "| Name | Category | Page |", "| --- | --- | --- |"])
