@@ -1,6 +1,6 @@
 # Data Science
 
-Records: `26`
+Records: `28`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `26`
 
 ## Category Index
 
-[Api Abi Checker (100)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
-[Benchmarking (64)](benchmarking.md) · [Build System (503)](build-system.md) · [Cli (431)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (61)](community-reference.md) · [Compiler (107)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (34)](compression.md)
-[Concurrency Parallelism (61)](concurrency-parallelism.md) · [Configuration (64)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (127)](cryptography.md) · **[Data Science (26)](data-science.md)** · [Database Datastore (428)](database-datastore.md) · [Datetime (86)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (57)](dependency-manager.md) · [Documentation (57)](documentation.md)
-[Embedded Hardware (34)](embedded-hardware.md) · [Ffi Bindings (307)](ffi-bindings.md) · [Filesystem Os (544)](filesystem-os.md) · [Formatter (416)](formatter.md)
-[Framework (31)](framework.md) · [Fuzzer (20)](fuzzer.md) · [Game Engine Game Dev (93)](game-engine-game-dev.md) · [Ide Editor Integration (657)](ide-editor-integration.md)
-[Image Audio Dsp (116)](image-audio-dsp.md) · [Interop Bindings (45)](interop-bindings.md) · [Interpreter Runtime (121)](interpreter-runtime.md) · [Jit Vm (51)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (586)](language-specification.md) · [Library (3146)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (31)](lint-rule-pack.md) · [Linter (327)](linter.md) · [Logging Observability (231)](logging-observability.md) · [Machine Learning (333)](machine-learning.md)
-[Math Numeric Scientific (69)](math-numeric-scientific.md) · [Memory Analyzer (51)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (652)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (173)](package-manager.md) · [Parser Lexer Ast (560)](parser-lexer-ast.md) · [Precommit Ci Quality (163)](precommit-ci-quality.md)
-[Profiler (52)](profiler.md) · [Project Scaffolding (74)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (7)](sanitizer.md)
-[Security Sast (250)](security-sast.md) · [Serialization (268)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (245)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (407)](testing-framework.md) · [Tutorial Book Styleguide (34)](tutorial-book-styleguide.md) · [Type Checker (248)](type-checker.md)
-[Undefined Behavior Analyzer (615)](undefined-behavior-analyzer.md) · [Utility Library (73)](utility-library.md) · [Visualization Gui (240)](visualization-gui.md) · [Web Framework (285)](web-framework.md)
+[Api Abi Checker (105)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
+[Benchmarking (68)](benchmarking.md) · [Build System (529)](build-system.md) · [Cli (435)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (61)](community-reference.md) · [Compiler (107)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
+[Concurrency Parallelism (62)](concurrency-parallelism.md) · [Configuration (65)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (127)](cryptography.md) · **[Data Science (28)](data-science.md)** · [Database Datastore (429)](database-datastore.md) · [Datetime (93)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (59)](dependency-manager.md) · [Documentation (57)](documentation.md)
+[Embedded Hardware (36)](embedded-hardware.md) · [Ffi Bindings (311)](ffi-bindings.md) · [Filesystem Os (642)](filesystem-os.md) · [Formatter (428)](formatter.md)
+[Framework (35)](framework.md) · [Fuzzer (22)](fuzzer.md) · [Game Engine Game Dev (95)](game-engine-game-dev.md) · [Ide Editor Integration (790)](ide-editor-integration.md)
+[Image Audio Dsp (167)](image-audio-dsp.md) · [Interop Bindings (46)](interop-bindings.md) · [Interpreter Runtime (122)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (610)](language-specification.md) · [Library (3229)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (32)](lint-rule-pack.md) · [Linter (328)](linter.md) · [Logging Observability (236)](logging-observability.md) · [Machine Learning (351)](machine-learning.md)
+[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (52)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (676)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (188)](package-manager.md) · [Parser Lexer Ast (574)](parser-lexer-ast.md) · [Precommit Ci Quality (167)](precommit-ci-quality.md)
+[Profiler (53)](profiler.md) · [Project Scaffolding (76)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (7)](sanitizer.md)
+[Security Sast (260)](security-sast.md) · [Serialization (270)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (259)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (410)](testing-framework.md) · [Tutorial Book Styleguide (34)](tutorial-book-styleguide.md) · [Type Checker (251)](type-checker.md)
+[Undefined Behavior Analyzer (731)](undefined-behavior-analyzer.md) · [Utility Library (74)](utility-library.md) · [Visualization Gui (247)](visualization-gui.md) · [Web Framework (286)](web-framework.md)
 
 ## Julia
 
@@ -78,6 +78,13 @@ Records: `26`
 | --- | --- | --- | --- |
 | dataframe | 1.2.0 | 2017-08-14 | [open](../records/octave-dataframe-fea4795b.md) |
 | tablicious | 0.4.7 | 2026-02-28 | [open](../records/octave-tablicious-843e6dc2.md) |
+
+## SAPJava
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| com.sap.cloud.sdk.plugins:usage-analytics | 3.78.0 | 2022-12-19T12:44:15+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-plugins-usage-analytics-46b83d38.md) |
+| com.sap.cloud.sdk.plugins:usage-analytics-maven-plugin | 3.78.0 | 2022-12-19T12:44:14+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-plugins-usage-analytics-maven-plugin-7d89659a.md) |
 
 ## Cocoa
 

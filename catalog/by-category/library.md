@@ -1,6 +1,6 @@
 # Library
 
-Records: `3146`
+Records: `3229`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `3146`
 
 ## Category Index
 
-[Api Abi Checker (100)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
-[Benchmarking (64)](benchmarking.md) · [Build System (503)](build-system.md) · [Cli (431)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (61)](community-reference.md) · [Compiler (107)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (34)](compression.md)
-[Concurrency Parallelism (61)](concurrency-parallelism.md) · [Configuration (64)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (127)](cryptography.md) · [Data Science (26)](data-science.md) · [Database Datastore (428)](database-datastore.md) · [Datetime (86)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (57)](dependency-manager.md) · [Documentation (57)](documentation.md)
-[Embedded Hardware (34)](embedded-hardware.md) · [Ffi Bindings (307)](ffi-bindings.md) · [Filesystem Os (544)](filesystem-os.md) · [Formatter (416)](formatter.md)
-[Framework (31)](framework.md) · [Fuzzer (20)](fuzzer.md) · [Game Engine Game Dev (93)](game-engine-game-dev.md) · [Ide Editor Integration (657)](ide-editor-integration.md)
-[Image Audio Dsp (116)](image-audio-dsp.md) · [Interop Bindings (45)](interop-bindings.md) · [Interpreter Runtime (121)](interpreter-runtime.md) · [Jit Vm (51)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (586)](language-specification.md) · **[Library (3146)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (31)](lint-rule-pack.md) · [Linter (327)](linter.md) · [Logging Observability (231)](logging-observability.md) · [Machine Learning (333)](machine-learning.md)
-[Math Numeric Scientific (69)](math-numeric-scientific.md) · [Memory Analyzer (51)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (652)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (173)](package-manager.md) · [Parser Lexer Ast (560)](parser-lexer-ast.md) · [Precommit Ci Quality (163)](precommit-ci-quality.md)
-[Profiler (52)](profiler.md) · [Project Scaffolding (74)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (7)](sanitizer.md)
-[Security Sast (250)](security-sast.md) · [Serialization (268)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (245)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (407)](testing-framework.md) · [Tutorial Book Styleguide (34)](tutorial-book-styleguide.md) · [Type Checker (248)](type-checker.md)
-[Undefined Behavior Analyzer (615)](undefined-behavior-analyzer.md) · [Utility Library (73)](utility-library.md) · [Visualization Gui (240)](visualization-gui.md) · [Web Framework (285)](web-framework.md)
+[Api Abi Checker (105)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
+[Benchmarking (68)](benchmarking.md) · [Build System (529)](build-system.md) · [Cli (435)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (61)](community-reference.md) · [Compiler (107)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
+[Concurrency Parallelism (62)](concurrency-parallelism.md) · [Configuration (65)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (127)](cryptography.md) · [Data Science (28)](data-science.md) · [Database Datastore (429)](database-datastore.md) · [Datetime (93)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (59)](dependency-manager.md) · [Documentation (57)](documentation.md)
+[Embedded Hardware (36)](embedded-hardware.md) · [Ffi Bindings (311)](ffi-bindings.md) · [Filesystem Os (642)](filesystem-os.md) · [Formatter (428)](formatter.md)
+[Framework (35)](framework.md) · [Fuzzer (22)](fuzzer.md) · [Game Engine Game Dev (95)](game-engine-game-dev.md) · [Ide Editor Integration (790)](ide-editor-integration.md)
+[Image Audio Dsp (167)](image-audio-dsp.md) · [Interop Bindings (46)](interop-bindings.md) · [Interpreter Runtime (122)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (610)](language-specification.md) · **[Library (3229)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (32)](lint-rule-pack.md) · [Linter (328)](linter.md) · [Logging Observability (236)](logging-observability.md) · [Machine Learning (351)](machine-learning.md)
+[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (52)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (676)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (188)](package-manager.md) · [Parser Lexer Ast (574)](parser-lexer-ast.md) · [Precommit Ci Quality (167)](precommit-ci-quality.md)
+[Profiler (53)](profiler.md) · [Project Scaffolding (76)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (7)](sanitizer.md)
+[Security Sast (260)](security-sast.md) · [Serialization (270)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (259)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (410)](testing-framework.md) · [Tutorial Book Styleguide (34)](tutorial-book-styleguide.md) · [Type Checker (251)](type-checker.md)
+[Undefined Behavior Analyzer (731)](undefined-behavior-analyzer.md) · [Utility Library (74)](utility-library.md) · [Visualization Gui (247)](visualization-gui.md) · [Web Framework (286)](web-framework.md)
 
 ## C99
 
@@ -2922,12 +2922,18 @@ Records: `3146`
 | --- | --- | --- | --- |
 | bitbucket.org/itotcca/the-situation | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-bitbucket-org-itotcca-the-situation-6e1a8aba.md) |
 | codeberg.org/go-hep/hep.git | v0.27.0 | 2026-08-30T10:55:18.161122Z | [open](../records/go-codeberg-org-go-hep-hep-git-29878e71.md) |
+| codeberg.org/rimu/pyfedi | v1.6.15 | 2026-08-30T11:58:13.428621Z | [open](../records/go-codeberg-org-rimu-pyfedi-53519dff.md) |
+| gitee.com/mirrors/ansible.git | v2.9.3+incompatible | 2026-08-30T11:57:50.194944Z | [open](../records/go-gitee-com-mirrors-ansible-git-08ba741c.md) |
 | gitee.com/mirrors/cpython.git | v3.4.7+incompatible | 2026-08-30T10:57:14.17359Z | [open](../records/go-gitee-com-mirrors-cpython-git-93bf4b1f.md) |
+| gitee.com/mirrors_newrelic/node-newrelic | v1.31.0 | 2026-08-30T11:59:25.512732Z | [open](../records/go-gitee-com-mirrors-newrelic-node-newrelic-a8b8c659.md) |
 | gitee.com/mirrors_sendgrid/sendgrid-java | v3.0.6+incompatible | 2026-08-30T10:10:27.022297Z | [open](../records/go-gitee-com-mirrors-sendgrid-sendgrid-java-40cef1c3.md) |
 | gitlab.com/umbrellazone/smartacme | v1.0.9 | 2026-08-30T10:07:20.216337Z | [open](../records/go-gitlab-com-umbrellazone-smartacme-de305f20.md) |
 | go.cozymore.dev/krkstops | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-go-cozymore-dev-krkstops-34ccbe5a.md) |
-| go.gary.cool/go-stockutil | v1.8.59 | 2026-08-30T10:54:22.160144Z | [open](../records/go-go-gary-cool-go-stockutil-dd0c06ad.md) |
+| go.gary.cool/go-stockutil | v1.8.58 | 2026-08-30T11:58:52.391766Z | [open](../records/go-go-gary-cool-go-stockutil-dd0c06ad.md) |
 | go.ytsaurus.tech/yt/admin/timbertruck | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-go-ytsaurus-tech-yt-admin-timbertruck-8ce375d8.md) |
+| goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
+| golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
+| piko.sh/piko/wdk/highlight/highlight_chroma | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-piko-sh-piko-wdk-highlight-highlight-chroma-d02208be.md) |
 | sigs.k8s.io/Controller-Tools | v0.8.0 | 2026-08-30T10:55:32.392877Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 
 ## Space Engines
@@ -2989,35 +2995,69 @@ Records: `3146`
 | weasdown/gmat-shuttle-docking | unknown | github_latest_release_missing | [open](../records/space-shuttles-weasdown-gmat-shuttle-docking-f30c149a.md) |
 | weasdown/shuttle-rescue | unknown | github_latest_release_missing | [open](../records/space-shuttles-weasdown-shuttle-rescue-126f5866.md) |
 
+## Effects
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| akof1314/UnityParticleSystemPreview | v1.3 | 2025-02-21T13:45:24Z | [open](../records/effects-akof1314-unityparticlesystempreview-89de2d88.md) |
+| DanielMartinus/Konfetti | v2.0.5 | 2024-11-28T08:39:33Z | [open](../records/effects-danielmartinus-konfetti-128a0f7b.md) |
+| fearofcode/bateman | unknown | github_latest_release_missing | [open](../records/effects-fearofcode-bateman-03c24113.md) |
+| hustcc/canvas-nest.js | v2.0.1 | 2018-06-23T04:31:11Z | [open](../records/effects-hustcc-canvas-nest-js-cee46f46.md) |
+| jinatonic/confetti | 1.1.1 | 2017-12-11T21:30:00Z | [open](../records/effects-jinatonic-confetti-c85518f9.md) |
+| jnicol/particleground | unknown | github_latest_release_missing | [open](../records/effects-jnicol-particleground-b8d4252a.md) |
+| jsoverson/JavaScript-Particle-System | unknown | github_latest_release_missing | [open](../records/effects-jsoverson-javascript-particle-system-9598c75e.md) |
+| keijiro/KvantStream | unknown | github_latest_release_missing | [open](../records/effects-keijiro-kvantstream-4c4847ec.md) |
+| pixijs-userland/particle-emitter | v5.0.8 | 2022-11-28T04:04:45Z | [open](../records/effects-pixijs-userland-particle-emitter-b76be455.md) |
+| Robert-K/gpu-particles | unknown | github_latest_release_missing | [open](../records/effects-robert-k-gpu-particles-76cd9f4d.md) |
+| skeeto/webgl-particles | unknown | github_latest_release_missing | [open](../records/effects-skeeto-webgl-particles-2b9dfa02.md) |
+| tom-mohr/particle-life-app | v1.3.1 | 2025-12-10T23:26:39Z | [open](../records/effects-tom-mohr-particle-life-app-f8f211cd.md) |
+
 ## Photography
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bmachek/lrc-immich-plugin | unknown | github_search_does_not_include_release_date | [open](../records/photography-bmachek-lrc-immich-plugin-1ff1bb8b.md) |
+| afgprogrammer/Flutter-Photography-Application | unknown | github_latest_release_missing | [open](../records/photography-afgprogrammer-flutter-photography-application-53b42786.md) |
+| alyssaxuu/screenity | v4.6.6 | 2026-08-18T17:39:06Z | [open](../records/photography-alyssaxuu-screenity-3dcd34af.md) |
+| andyzg/gallery | unknown | github_latest_release_missing | [open](../records/photography-andyzg-gallery-707abac1.md) |
+| bmachek/lrc-immich-plugin | v4.3.2 | 2026-07-11T05:32:05Z | [open](../records/photography-bmachek-lrc-immich-plugin-1ff1bb8b.md) |
+| commons-app/apps-android-commons | v6.7.0 | 2026-08-18T21:01:39Z | [open](../records/photography-commons-app-apps-android-commons-ce212c3e.md) |
+| crazycodeboy/TakePhoto | v4.1.0 | 2018-04-02T12:15:15Z | [open](../records/photography-crazycodeboy-takephoto-a3e04a78.md) |
+| dorukkumkumoglu/optocamzero | v1.2.0 | 2026-07-20T00:01:53Z | [open](../records/photography-dorukkumkumoglu-optocamzero-b51f52d8.md) |
 | emorydunn/CaptureOneScripts | unknown | github_search_does_not_include_release_date | [open](../records/photography-emorydunn-captureonescripts-117cd952.md) |
-| evildmp/C-is-for-Camera | unknown | github_search_does_not_include_release_date | [open](../records/photography-evildmp-c-is-for-camera-489207b3.md) |
-| gilbitron/Splashify | unknown | github_search_does_not_include_release_date | [open](../records/photography-gilbitron-splashify-82147992.md) |
+| ethz-asl/kalibr | unknown | github_latest_release_missing | [open](../records/photography-ethz-asl-kalibr-83b49bc1.md) |
+| evildmp/C-is-for-Camera | unknown | github_latest_release_missing | [open](../records/photography-evildmp-c-is-for-camera-489207b3.md) |
+| gilbitron/Splashify | 1.3.6 | 2018-06-11T13:54:41Z | [open](../records/photography-gilbitron-splashify-82147992.md) |
 | huangsam/photohaul | unknown | github_search_does_not_include_release_date | [open](../records/photography-huangsam-photohaul-1391b651.md) |
-| meiu/meiupic | unknown | github_search_does_not_include_release_date | [open](../records/photography-meiu-meiupic-d61ca921.md) |
-| philipptrenz/photo-booth | unknown | github_search_does_not_include_release_date | [open](../records/photography-philipptrenz-photo-booth-ea2ebbf9.md) |
-| t3mujinpack/t3mujinpack | unknown | github_search_does_not_include_release_date | [open](../records/photography-t3mujinpack-t3mujinpack-05d88258.md) |
+| jeonghyeon-net/exif-frame | v0.4.100 | 2025-09-02T13:50:14Z | [open](../records/photography-jeonghyeon-net-exif-frame-0eb5693e.md) |
+| kxvn-lx/Kontax-Cam | unknown | github_latest_release_missing | [open](../records/photography-kxvn-lx-kontax-cam-04e1f89a.md) |
+| LuckSiege/PictureSelector | v3.11.2 | 2023-12-17T10:30:28Z | [open](../records/photography-lucksiege-pictureselector-42cc3cef.md) |
+| meetqy/rao-pics | v1.0.0-alpha.13 | 2024-01-02T02:55:02Z | [open](../records/photography-meetqy-rao-pics-057514e9.md) |
+| meiu/meiupic | unknown | github_latest_release_missing | [open](../records/photography-meiu-meiupic-d61ca921.md) |
+| NextLevel/NextLevel | unknown | github_latest_release_missing | [open](../records/photography-nextlevel-nextlevel-f32b041f.md) |
+| philipptrenz/photo-booth | v1.0.0 | 2018-04-15T12:58:18Z | [open](../records/photography-philipptrenz-photo-booth-ea2ebbf9.md) |
+| pokeheadroom/RENDER96-HD-TEXTURE-PACK | 1.3.26.7.7 | 2026-07-08T01:56:31Z | [open](../records/photography-pokeheadroom-render96-hd-texture-pack-b6249b4a.md) |
+| roigoatzzz/Wallsync | unknown | github_latest_release_missing | [open](../records/photography-roigoatzzz-wallsync-bd5e28ed.md) |
+| rsjaffe/MIDI2LR | v6.3.1.0 | 2026-07-30T18:58:36Z | [open](../records/photography-rsjaffe-midi2lr-75198981.md) |
+| t3mujinpack/t3mujinpack | v0.6.0 | 2020-04-13T10:35:11Z | [open](../records/photography-t3mujinpack-t3mujinpack-05d88258.md) |
+| tj/letterbox | unknown | github_latest_release_missing | [open](../records/photography-tj-letterbox-4bff8695.md) |
+| toonoumi/FreeCCR | v1.3.2 | 2026-08-09T17:38:45Z | [open](../records/photography-toonoumi-freeccr-c64ca022.md) |
 
 ## Microscopy
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | BodenmillerGroup/imctools | v2.1.8 | 2021-09-12T20:12:53Z | [open](../records/microscopy-bodenmillergroup-imctools-751b7c0c.md) |
-| tlnagy/OMETIFF.jl | v0.4.5 | 2024-04-01T20:49:37Z | [open](../records/microscopy-tlnagy-ometiff-jl-cec7b6f6.md) |
+| tlnagy/OMETIFF.jl | partial | 2024-11-01T18:19:01Z | [open](../records/microscopy-tlnagy-ometiff-jl-cec7b6f6.md) |
 
 ## Telescopes
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| GR3YH4TT3R93/dotfiles | unknown | github_latest_release_missing | [open](../records/telescopes-gr3yh4tt3r93-dotfiles-2a81d246.md) |
-| MITHaystack/srt-py | v1.1.0 | 2023-03-17T19:16:17Z | [open](../records/telescopes-mithaystack-srt-py-1ec91517.md) |
-| synfinatic/alpacascope | v2.4.1 | 2024-07-09T19:42:07Z | [open](../records/telescopes-synfinatic-alpacascope-e4f80071.md) |
-| tmolteno/TART | v2.1 | 2020-09-14T21:43:54Z | [open](../records/telescopes-tmolteno-tart-8a3c3343.md) |
-| zkwlx/DroidTelescope | unknown | github_latest_release_missing | [open](../records/telescopes-zkwlx-droidtelescope-316d3546.md) |
+| GR3YH4TT3R93/dotfiles | partial | 2025-12-29T18:28:19Z | [open](../records/telescopes-gr3yh4tt3r93-dotfiles-2a81d246.md) |
+| MITHaystack/srt-py | partial | 2024-07-02T19:26:23Z | [open](../records/telescopes-mithaystack-srt-py-1ec91517.md) |
+| synfinatic/alpacascope | partial | 2025-05-13T11:50:46Z | [open](../records/telescopes-synfinatic-alpacascope-e4f80071.md) |
+| tmolteno/TART | partial | 2026-07-01T18:32:35Z | [open](../records/telescopes-tmolteno-tart-8a3c3343.md) |
+| zkwlx/DroidTelescope | partial | 2022-04-21T02:39:54Z | [open](../records/telescopes-zkwlx-droidtelescope-316d3546.md) |
 
 ## Radars
 
@@ -3256,6 +3296,54 @@ Records: `3146`
 | com.sap.cds:sdm | 1.3.1 | 2025-05-28T11:52:52+00:00 | [open](../records/sapjava-com-sap-cds-sdm-330d4f26.md) |
 | com.sap.cds:sdm-root | 1.3.1 | 2025-05-28T11:52:52+00:00 | [open](../records/sapjava-com-sap-cds-sdm-root-9fc70120.md) |
 | com.sap.cloud.gw.xsa:java-maven-arch-odata | 1.2.8 | 2019-09-20T13:32:17+00:00 | [open](../records/sapjava-com-sap-cloud-gw-xsa-java-maven-arch-odata-6f770a0e.md) |
+| com.sap.cloud.mkt:mkt-sdk-archetypes | 1.2.0 | 2019-05-22T12:20:06+00:00 | [open](../records/sapjava-com-sap-cloud-mkt-mkt-sdk-archetypes-bbc1c534.md) |
+| com.sap.cloud.mkt:mkt-sdk-bom | 1.2.0 | 2019-05-22T12:20:45+00:00 | [open](../records/sapjava-com-sap-cloud-mkt-mkt-sdk-bom-c278ba53.md) |
+| com.sap.cloud.mkt:mkt-sdk-parent | 1.2.0 | 2019-05-22T12:20:02+00:00 | [open](../records/sapjava-com-sap-cloud-mkt-mkt-sdk-parent-9c5cc796.md) |
+| com.sap.cloud.mkt:sdk-connectivity | 1.2.0 | 2019-05-22T12:20:03+00:00 | [open](../records/sapjava-com-sap-cloud-mkt-sdk-connectivity-e32c8634.md) |
+| com.sap.cloud.pdms.sdk:pdms-sdk-parent | 1.0.0 | 2019-07-09T19:16:28+00:00 | [open](../records/sapjava-com-sap-cloud-pdms-sdk-pdms-sdk-parent-9056bc0c.md) |
+| com.sap.cloud.s4hana:sdk | 0.0.9 | 2017-09-05T11:03:24+00:00 | [open](../records/sapjava-com-sap-cloud-s4hana-sdk-529693f9.md) |
+| com.sap.cloud.s4hana:sdk-bom | 2.28.0 | 2020-02-13T08:37:42+00:00 | [open](../records/sapjava-com-sap-cloud-s4hana-sdk-bom-05f00043.md) |
+| com.sap.cloud.s4hana:sdk-modules-bom | 2.28.0 | 2020-02-13T08:38:22+00:00 | [open](../records/sapjava-com-sap-cloud-s4hana-sdk-modules-bom-db6c686d.md) |
+| com.sap.cloud.s4hana:sdk-parent | 2.28.0 | 2020-02-13T08:37:36+00:00 | [open](../records/sapjava-com-sap-cloud-s4hana-sdk-parent-71f83f15.md) |
+| com.sap.cloud.sdk.archetypes:archetypes-parent | 5.20.0 | 2025-06-20T16:21:42+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-archetypes-archetypes-parent-6c08f979.md) |
+| com.sap.cloud.sdk.archetypes:scp-cf-spring | 4.32.0 | 2024-06-11T10:16:52+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-archetypes-scp-cf-spring-31423352.md) |
+| com.sap.cloud.sdk.archetypes:scp-cf-tomee | 4.32.0 | 2024-06-11T10:16:51+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-archetypes-scp-cf-tomee-71b35bf2.md) |
+| com.sap.cloud.sdk.archetypes:scp-neo-javaee7 | 4.32.0 | 2024-06-11T10:16:51+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-archetypes-scp-neo-javaee7-68193822.md) |
+| com.sap.cloud.sdk.datamodel:datamodel-parent | 5.20.0 | 2025-06-20T16:21:43+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-datamodel-datamodel-parent-2ebf7052.md) |
+| com.sap.cloud.sdk.datamodel:messaging-parent | 3.78.0 | 2022-12-19T12:43:59+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-datamodel-messaging-parent-20b4e95d.md) |
+| com.sap.cloud.sdk.datamodel:odata-parent | 5.20.0 | 2025-06-20T16:21:47+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-datamodel-odata-parent-71a9bf00.md) |
+| com.sap.cloud.sdk.datamodel:odata-v4-parent | 5.20.0 | 2025-06-20T16:21:43+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-datamodel-odata-v4-parent-da357873.md) |
+| com.sap.cloud.sdk.datamodel:rest-parent | 3.39.0 | 2021-03-04T09:23:27+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-datamodel-rest-parent-b2a41eb4.md) |
+| com.sap.cloud.sdk.plugins:plugins-parent | 4.32.0 | 2024-06-11T10:16:50+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-plugins-plugins-parent-6f6c09a0.md) |
+| com.sap.cloud.sdk.plugins:scp-neo-maven-plugin | 4.32.0 | 2024-06-11T10:16:50+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-plugins-scp-neo-maven-plugin-08952365.md) |
+| com.sap.cloud.sdk.s4hana:s4hana-all | 4.32.0 | 2024-06-11T10:16:41+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-s4hana-s4hana-all-ad5acb30.md) |
+| com.sap.cloud.sdk.s4hana:s4hana-parent | 5.20.0 | 2025-06-20T16:21:41+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-s4hana-s4hana-parent-b580f804.md) |
+| com.sap.cloud.sdk.services:currency-conversion-parent | 3.78.0 | 2022-12-19T12:44:09+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-services-currency-conversion-parent-04418e2e.md) |
+| com.sap.cloud.sdk.services:scp-workflow-cf | 4.32.0 | 2024-06-11T10:16:55+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-services-scp-workflow-cf-29d6f9b6.md) |
+| com.sap.cloud.sdk.services:services-parent | 4.32.0 | 2024-06-11T10:16:54+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-services-services-parent-9b13b293.md) |
+| com.sap.cloud.sdk:sdk-bom | 5.20.0 | 2025-06-20T16:21:52+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-sdk-bom-ab485cee.md) |
+| com.sap.cloud.sdk:sdk-core | 5.20.0 | 2025-06-20T16:21:43+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-sdk-core-ca2c93e0.md) |
+| com.sap.cloud.sdk:sdk-modules-bom | 5.20.0 | 2025-06-20T16:21:42+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-sdk-modules-bom-7b81c301.md) |
+| com.sap.cloud.sdk:sdk-parent | 5.20.0 | 2025-06-20T16:21:52+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-sdk-parent-205d052e.md) |
+| com.sap.cloud.sdk:sdk-sjb-bom | 4.32.0 | 2024-06-11T10:16:52+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-sdk-sjb-bom-0d1ff0e9.md) |
+| com.sap.cloud.servicesdk:connectivity-odatav2-sdk3 | 1.40.11 | 2020-10-22T03:56:02+00:00 | [open](../records/sapjava-com-sap-cloud-servicesdk-connectivity-odatav2-sdk3-643bd2f0.md) |
+| com.sap.cloud.yaas.service-sdk:service-sdk-authorization | 4.17.1 | 2017-10-26T05:29:45+00:00 | [open](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-authorization-0667e663.md) |
+| com.sap.cloud.yaas.service-sdk:service-sdk-jersey-spring-archetype | 4.17.1 | 2017-10-26T05:29:47+00:00 | [open](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-jersey-spring-archetype-0dac683c.md) |
+| com.sap.cloud.yaas.service-sdk:service-sdk-jersey-spring-base-archetype | 4.17.1 | 2017-10-26T05:29:48+00:00 | [open](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-jersey-spring-base-archetype-0889191e.md) |
+| com.sap.cloud.yaas.service-sdk:service-sdk-jersey-support | 4.17.1 | 2017-10-26T05:29:49+00:00 | [open](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-jersey-support-743ebe08.md) |
+| com.sap.cloud.yaas.service-sdk:service-sdk-libraries | 4.17.1 | 2017-10-26T05:29:49+00:00 | [open](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-libraries-3d722da8.md) |
+| com.sap.cloud.yaas.service-sdk:service-sdk-libraries-project | 4.17.1 | 2017-10-26T05:29:50+00:00 | [open](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-libraries-project-dcf100ea.md) |
+| com.sap.cloud.yaas.service-sdk:service-sdk-monitoring | 4.17.1 | 2017-10-26T05:29:51+00:00 | [open](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-monitoring-0a0480b6.md) |
+| com.sap.cloud.yaas.service-sdk:service-sdk-pattern-support | 4.17.1 | 2017-10-26T05:29:51+00:00 | [open](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-pattern-support-ebe7f106.md) |
+| com.sap.cloud.yaas.service-sdk:service-sdk-ping | 4.17.1 | 2017-10-26T05:29:52+00:00 | [open](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-ping-af05c4e9.md) |
+| com.sap.cloud.yaas.service-sdk:service-sdk-plugins | 4.17.1 | 2017-10-26T05:29:53+00:00 | [open](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-plugins-536f8257.md) |
+| com.sap.cloud.yaas.service-sdk:service-sdk-project | 4.17.1 | 2017-10-26T05:29:53+00:00 | [open](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-project-ac720998.md) |
+| com.sap.cloud.yaas.service-sdk:service-sdk-servlet-support | 4.17.1 | 2017-10-26T05:29:53+00:00 | [open](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-servlet-support-a2a9a894.md) |
+| com.sap.cloud.yaas.service-sdk:service-sdk-spring-boot-archetype | 4.17.1 | 2017-10-26T05:29:48+00:00 | [open](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-spring-boot-archetype-bbb0488c.md) |
+| com.sap.cloud.yaas.service-sdk:service-sdk-superpom | 4.17.1 | 2017-10-26T05:29:55+00:00 | [open](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-superpom-125bbc0a.md) |
+| com.sap.cloud:neo-java-web-sdk | 5.24.2 | 2025-06-11T13:48:36+00:00 | [open](../records/sapjava-com-sap-cloud-neo-java-web-sdk-2b581860.md) |
+| com.sap.cloud:neo-javaee6-wp-sdk | 2.208.5 | 2021-05-21T08:09:57+00:00 | [open](../records/sapjava-com-sap-cloud-neo-javaee6-wp-sdk-26aa38cf.md) |
+| com.sap.cloud:neo-javaee7-wp-sdk | 1.202.2 | 2025-06-11T13:48:33+00:00 | [open](../records/sapjava-com-sap-cloud-neo-javaee7-wp-sdk-a7723f83.md) |
 
 ## Swift
 

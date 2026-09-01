@@ -1,6 +1,6 @@
 # Image Audio Dsp
 
-Records: `116`
+Records: `167`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `116`
 
 ## Category Index
 
-[Api Abi Checker (100)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
-[Benchmarking (64)](benchmarking.md) · [Build System (503)](build-system.md) · [Cli (431)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (61)](community-reference.md) · [Compiler (107)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (34)](compression.md)
-[Concurrency Parallelism (61)](concurrency-parallelism.md) · [Configuration (64)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (127)](cryptography.md) · [Data Science (26)](data-science.md) · [Database Datastore (428)](database-datastore.md) · [Datetime (86)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (57)](dependency-manager.md) · [Documentation (57)](documentation.md)
-[Embedded Hardware (34)](embedded-hardware.md) · [Ffi Bindings (307)](ffi-bindings.md) · [Filesystem Os (544)](filesystem-os.md) · [Formatter (416)](formatter.md)
-[Framework (31)](framework.md) · [Fuzzer (20)](fuzzer.md) · [Game Engine Game Dev (93)](game-engine-game-dev.md) · [Ide Editor Integration (657)](ide-editor-integration.md)
-**[Image Audio Dsp (116)](image-audio-dsp.md)** · [Interop Bindings (45)](interop-bindings.md) · [Interpreter Runtime (121)](interpreter-runtime.md) · [Jit Vm (51)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (586)](language-specification.md) · [Library (3146)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (31)](lint-rule-pack.md) · [Linter (327)](linter.md) · [Logging Observability (231)](logging-observability.md) · [Machine Learning (333)](machine-learning.md)
-[Math Numeric Scientific (69)](math-numeric-scientific.md) · [Memory Analyzer (51)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (652)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (173)](package-manager.md) · [Parser Lexer Ast (560)](parser-lexer-ast.md) · [Precommit Ci Quality (163)](precommit-ci-quality.md)
-[Profiler (52)](profiler.md) · [Project Scaffolding (74)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (7)](sanitizer.md)
-[Security Sast (250)](security-sast.md) · [Serialization (268)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (245)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (407)](testing-framework.md) · [Tutorial Book Styleguide (34)](tutorial-book-styleguide.md) · [Type Checker (248)](type-checker.md)
-[Undefined Behavior Analyzer (615)](undefined-behavior-analyzer.md) · [Utility Library (73)](utility-library.md) · [Visualization Gui (240)](visualization-gui.md) · [Web Framework (285)](web-framework.md)
+[Api Abi Checker (105)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
+[Benchmarking (68)](benchmarking.md) · [Build System (529)](build-system.md) · [Cli (435)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (61)](community-reference.md) · [Compiler (107)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
+[Concurrency Parallelism (62)](concurrency-parallelism.md) · [Configuration (65)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (127)](cryptography.md) · [Data Science (28)](data-science.md) · [Database Datastore (429)](database-datastore.md) · [Datetime (93)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (59)](dependency-manager.md) · [Documentation (57)](documentation.md)
+[Embedded Hardware (36)](embedded-hardware.md) · [Ffi Bindings (311)](ffi-bindings.md) · [Filesystem Os (642)](filesystem-os.md) · [Formatter (428)](formatter.md)
+[Framework (35)](framework.md) · [Fuzzer (22)](fuzzer.md) · [Game Engine Game Dev (95)](game-engine-game-dev.md) · [Ide Editor Integration (790)](ide-editor-integration.md)
+**[Image Audio Dsp (167)](image-audio-dsp.md)** · [Interop Bindings (46)](interop-bindings.md) · [Interpreter Runtime (122)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (610)](language-specification.md) · [Library (3229)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (32)](lint-rule-pack.md) · [Linter (328)](linter.md) · [Logging Observability (236)](logging-observability.md) · [Machine Learning (351)](machine-learning.md)
+[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (52)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (676)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (188)](package-manager.md) · [Parser Lexer Ast (574)](parser-lexer-ast.md) · [Precommit Ci Quality (167)](precommit-ci-quality.md)
+[Profiler (53)](profiler.md) · [Project Scaffolding (76)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (7)](sanitizer.md)
+[Security Sast (260)](security-sast.md) · [Serialization (270)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (259)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (410)](testing-framework.md) · [Tutorial Book Styleguide (34)](tutorial-book-styleguide.md) · [Type Checker (251)](type-checker.md)
+[Undefined Behavior Analyzer (731)](undefined-behavior-analyzer.md) · [Utility Library (74)](utility-library.md) · [Visualization Gui (247)](visualization-gui.md) · [Web Framework (286)](web-framework.md)
 
 ## C++23
 
@@ -149,14 +149,54 @@ Records: `116`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| alyssaxuu/screenity | v4.6.6 | 2026-08-18T17:39:06Z | [open](../records/audio-alyssaxuu-screenity-12b2e5cf.md) |
+| andremichelle/openDAW | unknown | github_latest_release_missing | [open](../records/audio-andremichelle-opendaw-ecd83ddd.md) |
+| Ardour/ardour | unknown | github_latest_release_missing | [open](../records/audio-ardour-ardour-2553c055.md) |
+| belangeo/pyo | unknown | github_latest_release_missing | [open](../records/audio-belangeo-pyo-e606cff4.md) |
+| cycfi/q | version_1.0 | 2024-08-21T18:46:54Z | [open](../records/audio-cycfi-q-42b5713b.md) |
+| DISTRHO/Cardinal | 26.02 | 2026-02-28T17:26:57Z | [open](../records/audio-distrho-cardinal-52b559a2.md) |
+| DistroAV/DistroAV | 6.2.1 | 2026-04-24T16:01:02Z | [open](../records/audio-distroav-distroav-0b30296c.md) |
 | Faust | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-faust-5ea678fe.md) |
 | FFmpeg Audio | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-ffmpeg-audio-ea69064f.md) |
+| ffmpegwasm/ffmpeg.wasm | v12.15 | 2025-01-07T10:16:16Z | [open](../records/audio-ffmpegwasm-ffmpeg-wasm-9b9d7a50.md) |
+| File-New-Project/EarTrumpet | 1.3.2.0 | 2016-06-23T08:22:18Z | [open](../records/audio-file-new-project-eartrumpet-cd979706.md) |
+| freeman-jiang/beatsync | unknown | github_latest_release_missing | [open](../records/audio-freeman-jiang-beatsync-bdcabddc.md) |
+| goldfire/howler.js | v2.2.4 | 2023-09-19T15:00:30Z | [open](../records/audio-goldfire-howler-js-a9571685.md) |
 | GStreamer | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-gstreamer-de3f1993.md) |
+| hukenovs/dsp-theory | unknown | github_latest_release_missing | [open](../records/audio-hukenovs-dsp-theory-fa2c75ff.md) |
+| jareddrayton/Audio-Plugin-Development-Resources | unknown | github_latest_release_missing | [open](../records/audio-jareddrayton-audio-plugin-development-resources-5d496c70.md) |
 | JUCE | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-juce-3f2891c9.md) |
+| katspaugh/wavesurfer.js | 8.0.0-beta.3 | 2026-08-21T11:58:22Z | [open](../records/audio-katspaugh-wavesurfer-js-cff13805.md) |
+| koel/koel | v9.11.1 | 2026-08-10T17:25:19Z | [open](../records/audio-koel-koel-f2457c0c.md) |
 | libsndfile | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-libsndfile-6065db3d.md) |
+| mackron/miniaudio | 0.11.25 | 2026-03-03T20:30:25Z | [open](../records/audio-mackron-miniaudio-78110754.md) |
+| mahmoud/awesome-python-applications | unknown | github_latest_release_missing | [open](../records/audio-mahmoud-awesome-python-applications-7548e8bd.md) |
+| michaelwillis/dragonfly-reverb | 3.2.10 | 2023-04-23T01:15:20Z | [open](../records/audio-michaelwillis-dragonfly-reverb-7aa868bf.md) |
+| miek/inspectrum | v0.4.0 | 2025-12-06T15:44:29Z | [open](../records/audio-miek-inspectrum-a2b95ec1.md) |
+| mixxxdj/mixxx | 2.5.6 | 2026-03-27T17:45:39Z | [open](../records/audio-mixxxdj-mixxx-c62cc22f.md) |
+| ModernFlyouts-Community/ModernFlyouts | 0.9.3 | 2021-04-22T10:50:10Z | [open](../records/audio-modernflyouts-community-modernflyouts-61772da5.md) |
+| Moekotori/ECHO | 26.8.2 | 2026-08-02T03:01:11Z | [open](../records/audio-moekotori-echo-a5eae6e0.md) |
+| morkt/GARbro | v1.5.44 | 2019-03-31T17:45:13Z | [open](../records/audio-morkt-garbro-79127cac.md) |
+| mpv-player/mpv | v0.41.0 | 2025-12-21T19:17:10Z | [open](../records/audio-mpv-player-mpv-42e3d95c.md) |
+| mumble-voip/mumble | v1.5.915 | 2026-07-19T22:42:36Z | [open](../records/audio-mumble-voip-mumble-d83c7a49.md) |
+| olilarkin/awesome-musicdsp | unknown | github_latest_release_missing | [open](../records/audio-olilarkin-awesome-musicdsp-8a7e6eae.md) |
+| OpenBMB/VoxCPM | 2.0.3 | 2026-05-11T11:59:20Z | [open](../records/audio-openbmb-voxcpm-031307cb.md) |
+| OxygenCobalt/Auxio | v4.1.5 | 2026-08-04T04:07:24Z | [open](../records/audio-oxygencobalt-auxio-c078449a.md) |
+| pion/webrtc | v4.2.19 | 2026-08-27T14:08:04Z | [open](../records/audio-pion-webrtc-aa742b2d.md) |
 | PipeWire | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-pipewire-00d8ecfd.md) |
 | PortAudio | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-portaudio-40a7f336.md) |
+| readbeyond/aeneas | v1.7.3 | 2017-03-16T12:50:13Z | [open](../records/audio-readbeyond-aeneas-05f471e1.md) |
+| rom1v/sndcpy | v1.1 | 2021-11-29T22:03:44Z | [open](../records/audio-rom1v-sndcpy-b4d75ce7.md) |
+| SamiPerttu/fundsp | unknown | github_latest_release_missing | [open](../records/audio-samiperttu-fundsp-dc381c0a.md) |
+| sonic-pi-net/sonic-pi | v5.0.0 | 2026-08-07T06:51:55Z | [open](../records/audio-sonic-pi-net-sonic-pi-276f12ef.md) |
 | SoX | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-sox-26fadc03.md) |
+| spotify/basic-pitch | v0.4.0 | 2024-08-16T17:16:26Z | [open](../records/audio-spotify-basic-pitch-05b329a5.md) |
+| spotify/pedalboard | v0.9.24 | 2026-07-08T18:51:12Z | [open](../records/audio-spotify-pedalboard-2950d53f.md) |
+| strawberrymusicplayer/strawberry | 1.2.28 | 2026-08-26T18:48:03Z | [open](../records/audio-strawberrymusicplayer-strawberry-65e2b7e4.md) |
+| SynthstromAudible/DelugeFirmware | release_1_2_1 | 2025-05-12T19:31:19Z | [open](../records/audio-synthstromaudible-delugefirmware-4c834ea8.md) |
+| thesofproject/sof | v2.14.3 | 2026-01-27T16:23:07Z | [open](../records/audio-thesofproject-sof-05fedbf2.md) |
+| tiagolr/ripplerx | v1.5.19 | 2026-06-13T17:16:00Z | [open](../records/audio-tiagolr-ripplerx-36b38906.md) |
+| ybayle/awesome-deep-learning-music | unknown | github_latest_release_missing | [open](../records/audio-ybayle-awesome-deep-learning-music-588a9145.md) |
 
 ## Video
 
@@ -170,13 +210,24 @@ Records: `116`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| BradenM/pydngconverter | unknown | github_latest_release_missing | [open](../records/photography-bradenm-pydngconverter-8248d4d8.md) |
+| cydonia999/Learning_to_See_in_the_Dark_PyTorch | unknown | github_latest_release_missing | [open](../records/photography-cydonia999-learning-to-see-in-the-dark-pytorch-f5a931f0.md) |
 | dcraw | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/photography-dcraw-7355fc69.md) |
-| eszdman/PhotonCamera | unknown | github_search_does_not_include_release_date | [open](../records/photography-eszdman-photoncamera-7ae407a8.md) |
-| hahnec/color-matcher | unknown | github_search_does_not_include_release_date | [open](../records/photography-hahnec-color-matcher-dc72d7d2.md) |
+| eszdman/PhotonCamera | unknown | github_latest_release_missing | [open](../records/photography-eszdman-photoncamera-7ae407a8.md) |
+| fthaler/rawhdr | unknown | github_latest_release_missing | [open](../records/photography-fthaler-rawhdr-2703a856.md) |
+| hahnec/color-matcher | v0.5.0 | 2021-08-25T10:21:09Z | [open](../records/photography-hahnec-color-matcher-dc72d7d2.md) |
+| hkk595/Resizer | v1.5 | 2018-01-30T02:02:05Z | [open](../records/photography-hkk595-resizer-069d81cb.md) |
 | jeonghyeon-net/exif-frame | unknown | github_search_does_not_include_release_date | [open](../records/photography-jeonghyeon-net-exif-frame-a9c7f2c9.md) |
 | libraw | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/photography-libraw-0c6e18ed.md) |
+| mahmoudnafifi/raw2raw | unknown | github_latest_release_missing | [open](../records/photography-mahmoudnafifi-raw2raw-81a3c46e.md) |
+| mirsadm/motioncam-decoder | unknown | github_latest_release_missing | [open](../records/photography-mirsadm-motioncam-decoder-4f70e2bd.md) |
 | OpenImageIO | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/photography-openimageio-1c46b5df.md) |
+| RayXie29/Shading_Correction | unknown | github_latest_release_missing | [open](../records/photography-rayxie29-shading-correction-2c29a276.md) |
+| SonyResearch/raw_image_denoising | unknown | github_latest_release_missing | [open](../records/photography-sonyresearch-raw-image-denoising-41683fe2.md) |
 | tj/letterbox | unknown | github_search_does_not_include_release_date | [open](../records/photography-tj-letterbox-97a32d23.md) |
+| zfedoran/dcraw.js | v1.0.3 | 2017-12-29T17:58:57Z | [open](../records/photography-zfedoran-dcraw-js-5f278232.md) |
+| zhangyi-3/Noise-Synthesis | unknown | github_latest_release_missing | [open](../records/photography-zhangyi-3-noise-synthesis-64d2638f.md) |
+| zhaotianff/ImageViewer | v1.0-beta.3 | 2025-08-29T09:54:14Z | [open](../records/photography-zhaotianff-imageviewer-de5a52af.md) |
 
 ## Microscopy
 
@@ -195,7 +246,7 @@ Records: `116`
 | imagingbook/imagingbook-calibrate | 7.2.0b | 2025-10-25T07:48:18Z | [open](../records/microscopy-imagingbook-imagingbook-calibrate-a41e2017.md) |
 | knime-ip/knip | 1.8.3 | 2020-07-07T12:58:12Z | [open](../records/microscopy-knime-ip-knip-e725872c.md) |
 | QuPath | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/microscopy-qupath-721d0946.md) |
-| thorstenwagner/ij-ridgedetection | v1.4.0 | 2017-08-20T12:15:45Z | [open](../records/microscopy-thorstenwagner-ij-ridgedetection-3fa4a868.md) |
+| thorstenwagner/ij-ridgedetection | partial | 2019-05-16T16:21:56Z | [open](../records/microscopy-thorstenwagner-ij-ridgedetection-3fa4a868.md) |
 
 ## Radars
 

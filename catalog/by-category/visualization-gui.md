@@ -1,6 +1,6 @@
 # Visualization Gui
 
-Records: `240`
+Records: `247`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `240`
 
 ## Category Index
 
-[Api Abi Checker (100)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
-[Benchmarking (64)](benchmarking.md) · [Build System (503)](build-system.md) · [Cli (431)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (61)](community-reference.md) · [Compiler (107)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (34)](compression.md)
-[Concurrency Parallelism (61)](concurrency-parallelism.md) · [Configuration (64)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (127)](cryptography.md) · [Data Science (26)](data-science.md) · [Database Datastore (428)](database-datastore.md) · [Datetime (86)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (57)](dependency-manager.md) · [Documentation (57)](documentation.md)
-[Embedded Hardware (34)](embedded-hardware.md) · [Ffi Bindings (307)](ffi-bindings.md) · [Filesystem Os (544)](filesystem-os.md) · [Formatter (416)](formatter.md)
-[Framework (31)](framework.md) · [Fuzzer (20)](fuzzer.md) · [Game Engine Game Dev (93)](game-engine-game-dev.md) · [Ide Editor Integration (657)](ide-editor-integration.md)
-[Image Audio Dsp (116)](image-audio-dsp.md) · [Interop Bindings (45)](interop-bindings.md) · [Interpreter Runtime (121)](interpreter-runtime.md) · [Jit Vm (51)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (586)](language-specification.md) · [Library (3146)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (31)](lint-rule-pack.md) · [Linter (327)](linter.md) · [Logging Observability (231)](logging-observability.md) · [Machine Learning (333)](machine-learning.md)
-[Math Numeric Scientific (69)](math-numeric-scientific.md) · [Memory Analyzer (51)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (652)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (173)](package-manager.md) · [Parser Lexer Ast (560)](parser-lexer-ast.md) · [Precommit Ci Quality (163)](precommit-ci-quality.md)
-[Profiler (52)](profiler.md) · [Project Scaffolding (74)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (7)](sanitizer.md)
-[Security Sast (250)](security-sast.md) · [Serialization (268)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (245)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (407)](testing-framework.md) · [Tutorial Book Styleguide (34)](tutorial-book-styleguide.md) · [Type Checker (248)](type-checker.md)
-[Undefined Behavior Analyzer (615)](undefined-behavior-analyzer.md) · [Utility Library (73)](utility-library.md) · **[Visualization Gui (240)](visualization-gui.md)** · [Web Framework (285)](web-framework.md)
+[Api Abi Checker (105)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
+[Benchmarking (68)](benchmarking.md) · [Build System (529)](build-system.md) · [Cli (435)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (61)](community-reference.md) · [Compiler (107)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
+[Concurrency Parallelism (62)](concurrency-parallelism.md) · [Configuration (65)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (127)](cryptography.md) · [Data Science (28)](data-science.md) · [Database Datastore (429)](database-datastore.md) · [Datetime (93)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (59)](dependency-manager.md) · [Documentation (57)](documentation.md)
+[Embedded Hardware (36)](embedded-hardware.md) · [Ffi Bindings (311)](ffi-bindings.md) · [Filesystem Os (642)](filesystem-os.md) · [Formatter (428)](formatter.md)
+[Framework (35)](framework.md) · [Fuzzer (22)](fuzzer.md) · [Game Engine Game Dev (95)](game-engine-game-dev.md) · [Ide Editor Integration (790)](ide-editor-integration.md)
+[Image Audio Dsp (167)](image-audio-dsp.md) · [Interop Bindings (46)](interop-bindings.md) · [Interpreter Runtime (122)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (610)](language-specification.md) · [Library (3229)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (32)](lint-rule-pack.md) · [Linter (328)](linter.md) · [Logging Observability (236)](logging-observability.md) · [Machine Learning (351)](machine-learning.md)
+[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (52)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (676)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (188)](package-manager.md) · [Parser Lexer Ast (574)](parser-lexer-ast.md) · [Precommit Ci Quality (167)](precommit-ci-quality.md)
+[Profiler (53)](profiler.md) · [Project Scaffolding (76)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (7)](sanitizer.md)
+[Security Sast (260)](security-sast.md) · [Serialization (270)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (259)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (410)](testing-framework.md) · [Tutorial Book Styleguide (34)](tutorial-book-styleguide.md) · [Type Checker (251)](type-checker.md)
+[Undefined Behavior Analyzer (731)](undefined-behavior-analyzer.md) · [Utility Library (74)](utility-library.md) · **[Visualization Gui (247)](visualization-gui.md)** · [Web Framework (286)](web-framework.md)
 
 ## C++23
 
@@ -210,6 +210,18 @@ Records: `240`
 | boxy | 2.3.0 | 2026-04-28T02:19:15.617520Z | [open](../records/dart-boxy-4369854b.md) |
 | diacritic | 0.1.6 | 2024-09-23T21:15:04.915375Z | [open](../records/dart-diacritic-dd68490f.md) |
 
+## Go
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| modernc.org/quickjs | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-modernc-org-quickjs-953c15ce.md) |
+
+## Starlark
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| KCarretto/paragon | v0.4.4 | 2022-02-05T05:53:22Z | [open](../records/starlark-kcarretto-paragon-6c42eaa2.md) |
+
 ## Renderers
 
 | Name | Release | Date | Page |
@@ -319,6 +331,15 @@ Records: `240`
 | Shadertoy | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-shadertoy-7ba0fe72.md) |
 | three.js postprocessing | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-three-js-postprocessing-124968b5.md) |
 
+## Audio
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| bbc/peaks.js | v3.4.2 | 2024-08-15T19:46:53Z | [open](../records/audio-bbc-peaks-js-ecba90fa.md) |
+| pschatzmann/arduino-audio-tools | v1.2.5 | 2026-06-23T16:51:51Z | [open](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) |
+| rsadsb/adsb_deku | v2025.05.03 | 2025-05-03T17:35:23Z | [open](../records/audio-rsadsb-adsb-deku-8c9a3700.md) |
+| unchihugo/FluentFlyout | v2.14.0 | 2026-08-12T18:07:50Z | [open](../records/audio-unchihugo-fluentflyout-e2e81b2d.md) |
+
 ## Video
 
 | Name | Release | Date | Page |
@@ -330,8 +351,9 @@ Records: `240`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | afgprogrammer/Flutter-Photography-Application | unknown | github_search_does_not_include_release_date | [open](../records/photography-afgprogrammer-flutter-photography-application-d1b12714.md) |
+| CarVac/filmulator-gui | v0.12.0 | 2026-04-04T15:01:23Z | [open](../records/photography-carvac-filmulator-gui-7958689d.md) |
 | darktable | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/photography-darktable-643ff3aa.md) |
-| ECarry/photography-website | unknown | github_search_does_not_include_release_date | [open](../records/photography-ecarry-photography-website-36282ce9.md) |
+| ECarry/photography-website | v2.3.0 | 2026-02-08T06:50:43Z | [open](../records/photography-ecarry-photography-website-36282ce9.md) |
 | hfiguiere/libopenraw | unknown | github_search_does_not_include_release_date | [open](../records/photography-hfiguiere-libopenraw-7e1e5568.md) |
 | RawTherapee | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/photography-rawtherapee-04b87a38.md) |
 
@@ -343,15 +365,15 @@ Records: `240`
 | DylanMuir/ReadImageJROI | unknown | github_latest_release_missing | [open](../records/microscopy-dylanmuir-readimagejroi-cdcd6e99.md) |
 | hms-dbmi/viv | @hms-dbmi/viv@0.16.1 | 2024-03-13T03:15:38Z | [open](../records/microscopy-hms-dbmi-viv-ad3c5c92.md) |
 | napari | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/microscopy-napari-24961023.md) |
-| scenerygraphics/sciview | sciview-0.4.0 | 2024-04-12T12:04:33Z | [open](../records/microscopy-scenerygraphics-sciview-c324a0d7.md) |
+| scenerygraphics/sciview | partial | 2026-07-24T08:43:53Z | [open](../records/microscopy-scenerygraphics-sciview-c324a0d7.md) |
 
 ## Telescopes
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| juanmb/nextdriver | unknown | github_latest_release_missing | [open](../records/telescopes-juanmb-nextdriver-d1392e60.md) |
+| juanmb/nextdriver | partial | 2022-02-28T13:44:12Z | [open](../records/telescopes-juanmb-nextdriver-d1392e60.md) |
 | KStars | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/telescopes-kstars-8ac0884b.md) |
-| LouisDesdoigts/dLux | v0.15.1 | 2026-07-22T23:04:55Z | [open](../records/telescopes-louisdesdoigts-dlux-10106405.md) |
+| LouisDesdoigts/dLux | partial | 2026-08-25T19:43:39Z | [open](../records/telescopes-louisdesdoigts-dlux-10106405.md) |
 | SAOImage DS9 | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/telescopes-saoimage-ds9-75c04688.md) |
 | Stellarium | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/telescopes-stellarium-4df0b7db.md) |
 

@@ -1,6 +1,6 @@
 # Language Specification
 
-Records: `586`
+Records: `610`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `586`
 
 ## Category Index
 
-[Api Abi Checker (100)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
-[Benchmarking (64)](benchmarking.md) · [Build System (503)](build-system.md) · [Cli (431)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (61)](community-reference.md) · [Compiler (107)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (34)](compression.md)
-[Concurrency Parallelism (61)](concurrency-parallelism.md) · [Configuration (64)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (127)](cryptography.md) · [Data Science (26)](data-science.md) · [Database Datastore (428)](database-datastore.md) · [Datetime (86)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (57)](dependency-manager.md) · [Documentation (57)](documentation.md)
-[Embedded Hardware (34)](embedded-hardware.md) · [Ffi Bindings (307)](ffi-bindings.md) · [Filesystem Os (544)](filesystem-os.md) · [Formatter (416)](formatter.md)
-[Framework (31)](framework.md) · [Fuzzer (20)](fuzzer.md) · [Game Engine Game Dev (93)](game-engine-game-dev.md) · [Ide Editor Integration (657)](ide-editor-integration.md)
-[Image Audio Dsp (116)](image-audio-dsp.md) · [Interop Bindings (45)](interop-bindings.md) · [Interpreter Runtime (121)](interpreter-runtime.md) · [Jit Vm (51)](jit-vm.md)
-[Language Server (23)](language-server.md) · **[Language Specification (586)](language-specification.md)** · [Library (3146)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (31)](lint-rule-pack.md) · [Linter (327)](linter.md) · [Logging Observability (231)](logging-observability.md) · [Machine Learning (333)](machine-learning.md)
-[Math Numeric Scientific (69)](math-numeric-scientific.md) · [Memory Analyzer (51)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (652)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (173)](package-manager.md) · [Parser Lexer Ast (560)](parser-lexer-ast.md) · [Precommit Ci Quality (163)](precommit-ci-quality.md)
-[Profiler (52)](profiler.md) · [Project Scaffolding (74)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (7)](sanitizer.md)
-[Security Sast (250)](security-sast.md) · [Serialization (268)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (245)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (407)](testing-framework.md) · [Tutorial Book Styleguide (34)](tutorial-book-styleguide.md) · [Type Checker (248)](type-checker.md)
-[Undefined Behavior Analyzer (615)](undefined-behavior-analyzer.md) · [Utility Library (73)](utility-library.md) · [Visualization Gui (240)](visualization-gui.md) · [Web Framework (285)](web-framework.md)
+[Api Abi Checker (105)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
+[Benchmarking (68)](benchmarking.md) · [Build System (529)](build-system.md) · [Cli (435)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (61)](community-reference.md) · [Compiler (107)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
+[Concurrency Parallelism (62)](concurrency-parallelism.md) · [Configuration (65)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (127)](cryptography.md) · [Data Science (28)](data-science.md) · [Database Datastore (429)](database-datastore.md) · [Datetime (93)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (59)](dependency-manager.md) · [Documentation (57)](documentation.md)
+[Embedded Hardware (36)](embedded-hardware.md) · [Ffi Bindings (311)](ffi-bindings.md) · [Filesystem Os (642)](filesystem-os.md) · [Formatter (428)](formatter.md)
+[Framework (35)](framework.md) · [Fuzzer (22)](fuzzer.md) · [Game Engine Game Dev (95)](game-engine-game-dev.md) · [Ide Editor Integration (790)](ide-editor-integration.md)
+[Image Audio Dsp (167)](image-audio-dsp.md) · [Interop Bindings (46)](interop-bindings.md) · [Interpreter Runtime (122)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (23)](language-server.md) · **[Language Specification (610)](language-specification.md)** · [Library (3229)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (32)](lint-rule-pack.md) · [Linter (328)](linter.md) · [Logging Observability (236)](logging-observability.md) · [Machine Learning (351)](machine-learning.md)
+[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (52)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (676)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (188)](package-manager.md) · [Parser Lexer Ast (574)](parser-lexer-ast.md) · [Precommit Ci Quality (167)](precommit-ci-quality.md)
+[Profiler (53)](profiler.md) · [Project Scaffolding (76)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (7)](sanitizer.md)
+[Security Sast (260)](security-sast.md) · [Serialization (270)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (259)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (410)](testing-framework.md) · [Tutorial Book Styleguide (34)](tutorial-book-styleguide.md) · [Type Checker (251)](type-checker.md)
+[Undefined Behavior Analyzer (731)](undefined-behavior-analyzer.md) · [Utility Library (74)](utility-library.md) · [Visualization Gui (247)](visualization-gui.md) · [Web Framework (286)](web-framework.md)
 
 ## C99
 
@@ -509,7 +509,23 @@ Records: `586`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| bazel-contrib/rules_foreign_cc | 0.15.1 | 2025-06-24T20:18:52Z | [open](../records/starlark-bazel-contrib-rules-foreign-cc-74f543fe.md) |
+| bazel-contrib/rules_nodejs | v6.7.5 | 2026-06-24T07:29:48Z | [open](../records/starlark-bazel-contrib-rules-nodejs-6ba164bc.md) |
+| bazel-contrib/rules_python | 2.3.2 | 2026-08-22T16:23:55Z | [open](../records/starlark-bazel-contrib-rules-python-3138da4d.md) |
+| bazelbuild/examples | unknown | github_latest_release_missing | [open](../records/starlark-bazelbuild-examples-aa7ebe53.md) |
+| bazelbuild/rules_apple | 4.5.3 | 2026-04-13T18:23:32Z | [open](../records/starlark-bazelbuild-rules-apple-9bc4356d.md) |
+| bazelbuild/rules_docker | v0.26.0 | 2025-12-22T00:24:32Z | [open](../records/starlark-bazelbuild-rules-docker-9df12e7c.md) |
+| bazelbuild/rules_rust | 0.74.0 | 2026-08-28T20:08:14Z | [open](../records/starlark-bazelbuild-rules-rust-3c62960b.md) |
+| cel-expr/cel-spec | v0.25.3 | 2026-08-13T21:27:23Z | [open](../records/starlark-cel-expr-cel-spec-b2658dd8.md) |
+| envoyproxy/data-plane-api | unknown | github_latest_release_missing | [open](../records/starlark-envoyproxy-data-plane-api-7610f6c0.md) |
+| google/dotprompt | dotprompt-go-0.2.1 | 2026-07-08T22:01:19Z | [open](../records/starlark-google-dotprompt-07de9fab.md) |
+| google/fully-homomorphic-encryption | transpiler | 2025-05-13T18:20:42Z | [open](../records/starlark-google-fully-homomorphic-encryption-7e96f129.md) |
+| googleapis/googleapis | unknown | github_latest_release_missing | [open](../records/starlark-googleapis-googleapis-b2038836.md) |
+| GoogleContainerTools/distroless | unknown | github_latest_release_missing | [open](../records/starlark-googlecontainertools-distroless-b973874f.md) |
+| lucperkins/colossus | unknown | github_latest_release_missing | [open](../records/starlark-lucperkins-colossus-6d410097.md) |
 | Starlark Language Specification | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/starlark-starlark-language-specification-b9f4bbd9.md) |
+| starlight-go/starlight | unknown | github_latest_release_missing | [open](../records/starlark-starlight-go-starlight-59fc198b.md) |
+| withered-magic/starpls | v0.1.22 | 2025-08-30T06:08:57Z | [open](../records/starlark-withered-magic-starpls-c977be7a.md) |
 
 ## Basilisk
 
@@ -578,6 +594,24 @@ Records: `586`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ISF | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-isf-11859d10.md) |
+| plattysoft/Leonids | 1.3.2 | 2016-09-19T22:04:39Z | [open](../records/effects-plattysoft-leonids-b48ee5da.md) |
+
+## Audio
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| chaosprint/glicol | v0.12.5 | 2022-05-11T17:34:02Z | [open](../records/audio-chaosprint-glicol-c74a5bb7.md) |
+| grame-cncm/faust | 2.85.9 | 2026-07-01T05:59:07Z | [open](../records/audio-grame-cncm-faust-d30f3de0.md) |
+| JiaoXianjun/BTLE | v0.2 | 2015-11-11T18:05:34Z | [open](../records/audio-jiaoxianjun-btle-5c3bac18.md) |
+| soul-lang/SOUL | 1.0.82 | 2021-02-05T19:12:12Z | [open](../records/audio-soul-lang-soul-4e26515a.md) |
+| supercollider/supercollider | Version-3.14.1 | 2025-11-24T05:26:41Z | [open](../records/audio-supercollider-supercollider-aa734855.md) |
+
+## Video
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| IliasHad/edit-mind | v0.30.0 | 2026-06-28T10:26:50Z | [open](../records/video-iliashad-edit-mind-9f5bd280.md) |
+| umlx5h/LLPlayer | v0.3.0 | 2026-04-19T06:15:20Z | [open](../records/video-umlx5h-llplayer-e3659d7e.md) |
 
 ## Photography
 
@@ -589,15 +623,15 @@ Records: `586`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ome/ngff | 0.5.2 | 2025-01-28T15:16:41Z | [open](../records/microscopy-ome-ngff-b50a243c.md) |
-| ome/ome-files-cpp | unknown | github_latest_release_missing | [open](../records/microscopy-ome-ome-files-cpp-dd22fb0b.md) |
+| ome/ngff | partial | 2026-09-01T06:31:23Z | [open](../records/microscopy-ome-ngff-b50a243c.md) |
+| ome/ome-files-cpp | partial | 2019-06-26T10:01:49Z | [open](../records/microscopy-ome-ome-files-cpp-dd22fb0b.md) |
 
 ## Telescopes
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ad-si/Woxi | v0.3.0 | 2026-08-06T16:42:18Z | [open](../records/telescopes-ad-si-woxi-8a8c02e7.md) |
-| Avimitin/nvim | cv2023.02.21-hotfix | 2023-02-21T07:45:10Z | [open](../records/telescopes-avimitin-nvim-96de9a1e.md) |
+| Avimitin/nvim | partial | 2026-07-28T05:10:02Z | [open](../records/telescopes-avimitin-nvim-96de9a1e.md) |
 | gnudatalanguage/gdl | v1.1.3 | 2025-12-18T17:12:41Z | [open](../records/telescopes-gnudatalanguage-gdl-37cda6a5.md) |
 
 ## Radars
@@ -725,7 +759,7 @@ Records: `586`
 | ReturnInfinity/BareMetal-OS-legacy | partial | 2017-11-20T15:29:43Z | [open](../records/assembly-returninfinity-baremetal-os-legacy-09317d7c.md) |
 | RibShark/OmniDrive | partial | 2026-07-18T06:48:57Z | [open](../records/assembly-ribshark-omnidrive-32257d20.md) |
 | riscv-software-src/riscv-tests | partial | 2026-08-14T22:09:19Z | [open](../records/assembly-riscv-software-src-riscv-tests-77e7e3cb.md) |
-| riscv/riscv-arch-test | partial | 2026-08-31T18:48:48Z | [open](../records/assembly-riscv-riscv-arch-test-0b5f8870.md) |
+| riscv/riscv-arch-test | partial | 2026-09-01T09:01:48Z | [open](../records/assembly-riscv-riscv-arch-test-0b5f8870.md) |
 | riscvarchive/riscv-v-spec | partial | 2024-03-17T15:04:35Z | [open](../records/assembly-riscvarchive-riscv-v-spec-60c48d12.md) |
 | ROCm/MIOpen | partial | 2026-08-31T18:04:11Z | [open](../records/assembly-rocm-miopen-1181b14a.md) |
 | sam-astro/Astro8-Computer | partial | 2026-08-27T17:50:17Z | [open](../records/assembly-sam-astro-astro8-computer-d279451b.md) |
