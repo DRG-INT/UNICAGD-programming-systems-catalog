@@ -1,6 +1,6 @@
 # Networking Http
 
-Records: `676`
+Records: `684`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `676`
 
 ## Category Index
 
-[Api Abi Checker (105)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
-[Benchmarking (68)](benchmarking.md) · [Build System (529)](build-system.md) · [Cli (435)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (61)](community-reference.md) · [Compiler (107)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
-[Concurrency Parallelism (62)](concurrency-parallelism.md) · [Configuration (65)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (127)](cryptography.md) · [Data Science (28)](data-science.md) · [Database Datastore (429)](database-datastore.md) · [Datetime (93)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (59)](dependency-manager.md) · [Documentation (57)](documentation.md)
-[Embedded Hardware (36)](embedded-hardware.md) · [Ffi Bindings (311)](ffi-bindings.md) · [Filesystem Os (642)](filesystem-os.md) · [Formatter (428)](formatter.md)
-[Framework (35)](framework.md) · [Fuzzer (22)](fuzzer.md) · [Game Engine Game Dev (95)](game-engine-game-dev.md) · [Ide Editor Integration (790)](ide-editor-integration.md)
-[Image Audio Dsp (167)](image-audio-dsp.md) · [Interop Bindings (46)](interop-bindings.md) · [Interpreter Runtime (122)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (610)](language-specification.md) · [Library (3229)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (32)](lint-rule-pack.md) · [Linter (328)](linter.md) · [Logging Observability (236)](logging-observability.md) · [Machine Learning (351)](machine-learning.md)
-[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (52)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · **[Networking Http (676)](networking-http.md)**
-[Other (14)](other.md) · [Package Manager (188)](package-manager.md) · [Parser Lexer Ast (574)](parser-lexer-ast.md) · [Precommit Ci Quality (167)](precommit-ci-quality.md)
-[Profiler (53)](profiler.md) · [Project Scaffolding (76)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (7)](sanitizer.md)
-[Security Sast (260)](security-sast.md) · [Serialization (270)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (259)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (410)](testing-framework.md) · [Tutorial Book Styleguide (34)](tutorial-book-styleguide.md) · [Type Checker (251)](type-checker.md)
-[Undefined Behavior Analyzer (731)](undefined-behavior-analyzer.md) · [Utility Library (74)](utility-library.md) · [Visualization Gui (247)](visualization-gui.md) · [Web Framework (286)](web-framework.md)
+[Api Abi Checker (112)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
+[Benchmarking (69)](benchmarking.md) · [Build System (563)](build-system.md) · [Cli (441)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (63)](community-reference.md) · [Compiler (111)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
+[Concurrency Parallelism (62)](concurrency-parallelism.md) · [Configuration (69)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (128)](cryptography.md) · [Data Science (29)](data-science.md) · [Database Datastore (436)](database-datastore.md) · [Datetime (96)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (59)](dependency-manager.md) · [Documentation (61)](documentation.md)
+[Embedded Hardware (36)](embedded-hardware.md) · [Ffi Bindings (312)](ffi-bindings.md) · [Filesystem Os (678)](filesystem-os.md) · [Formatter (434)](formatter.md)
+[Framework (38)](framework.md) · [Fuzzer (23)](fuzzer.md) · [Game Engine Game Dev (98)](game-engine-game-dev.md) · [Ide Editor Integration (812)](ide-editor-integration.md)
+[Image Audio Dsp (168)](image-audio-dsp.md) · [Interop Bindings (46)](interop-bindings.md) · [Interpreter Runtime (138)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (825)](language-specification.md) · [Library (3295)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (33)](lint-rule-pack.md) · [Linter (328)](linter.md) · [Logging Observability (246)](logging-observability.md) · [Machine Learning (365)](machine-learning.md)
+[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (52)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · **[Networking Http (684)](networking-http.md)**
+[Other (14)](other.md) · [Package Manager (193)](package-manager.md) · [Parser Lexer Ast (583)](parser-lexer-ast.md) · [Precommit Ci Quality (168)](precommit-ci-quality.md)
+[Profiler (56)](profiler.md) · [Project Scaffolding (84)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
+[Security Sast (263)](security-sast.md) · [Serialization (270)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (263)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (414)](testing-framework.md) · [Tutorial Book Styleguide (39)](tutorial-book-styleguide.md) · [Type Checker (258)](type-checker.md)
+[Undefined Behavior Analyzer (901)](undefined-behavior-analyzer.md) · [Utility Library (79)](utility-library.md) · [Visualization Gui (268)](visualization-gui.md) · [Web Framework (294)](web-framework.md)
 
 ## C99
 
@@ -160,7 +160,7 @@ Records: `676`
 | aad-client | 0.0.1 | 2020-12-22T23:32:19.312869Z | [open](../records/python-aad-client-293735b4.md) |
 | aananta-central-license-client | 1.0.0 | 2026-08-31T12:15:47.441735Z | [open](../records/python-aananta-central-license-client-d01463b5.md) |
 | aap-client-python | 0.1.4 | 2018-04-24T15:20:26.347570Z | [open](../records/python-aap-client-python-0d91ce77.md) |
-| aas-http-client | 1.2.8 | 2026-08-26T13:05:11.609714Z | [open](../records/python-aas-http-client-f4b7c495.md) |
+| aas-http-client | 1.2.9 | 2026-09-01T09:02:45.928850Z | [open](../records/python-aas-http-client-f4b7c495.md) |
 | aas-python-http-client | 1.0.3 | 2026-07-08T12:17:16.022669Z | [open](../records/python-aas-python-http-client-efdd910e.md) |
 | aas2openapi-client | 0.2.2 | 2023-12-08T20:28:47.623156Z | [open](../records/python-aas2openapi-client-590fb52a.md) |
 | AASMessenger_Client | 1.0.1 | 2020-04-12T15:41:11.631573Z | [open](../records/python-aasmessenger-client-dae6728f.md) |
@@ -601,7 +601,8 @@ Records: `676`
 | cloudosR | 0.2.4 | 2026-08-28 09:00:02 UTC | [open](../records/r-cloudosr-247b423e.md) |
 | corto | 1.3.1 | 2026-08-21 05:44:25 UTC | [open](../records/r-corto-147ed29b.md) |
 | curl | 8.0.0 | 2026-08-25 16:40:02 UTC | [open](../records/r-curl-474988b6.md) |
-| densemlp | 0.6.0 | 2026-08-22 01:00:13 UTC | [open](../records/r-densemlp-e5e46ec2.md) |
+| dawnn | 2.1.1 | 2026-09-01 08:40:09 UTC | [open](../records/r-dawnn-03efc84b.md) |
+| densemlp | 0.7.1 | 2026-09-01 08:30:19 UTC | [open](../records/r-densemlp-e5e46ec2.md) |
 | epidatr | 1.3.0 | 2026-08-28 14:40:02 UTC | [open](../records/r-epidatr-5f251965.md) |
 | idiographic | 0.3.4 | 2026-08-24 07:30:10 UTC | [open](../records/r-idiographic-f66087c9.md) |
 | mcptools | 1.0.2 | 2026-08-22 16:50:09 UTC | [open](../records/r-mcptools-e66aa325.md) |
@@ -615,6 +616,7 @@ Records: `676`
 | RKorAPClient | 1.3.0 | 2026-08-31 22:00:40 UTC | [open](../records/r-rkorapclient-4bacfeed.md) |
 | roads | 1.2.2 | 2026-08-31 22:00:15 UTC | [open](../records/r-roads-57016556.md) |
 | SNMA | 0.1.7 | 2026-08-26 20:30:02 UTC | [open](../records/r-snma-f6c6c753.md) |
+| tmdbR | 0.2.2 | 2026-09-01 09:00:02 UTC | [open](../records/r-tmdbr-0ee79e2b.md) |
 
 ## Haskell
 
@@ -807,19 +809,25 @@ Records: `676`
 | osmocom/gr-osmosdr | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-osmocom-gr-osmosdr-e519982e.md) |
 | osmocom/rtl-sdr | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-osmocom-rtl-sdr-3b21ada6.md) |
 
+## Magazines
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| lostdesign/linked | unknown | github_search_does_not_include_release_date | [open](../records/magazines-lostdesign-linked-d3bfd925.md) |
+
 ## Assembly
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ashvardanian/less_slow.cpp | partial | 2026-07-27T01:01:01Z | [open](../records/assembly-ashvardanian-less-slow-cpp-50768d6c.md) |
-| minio/highwayhash | partial | 2026-03-21T05:38:40Z | [open](../records/assembly-minio-highwayhash-5634a2cc.md) |
+| ashvardanian/less_slow.cpp | v0.11.2 | 2026-07-27T01:01:02Z | [open](../records/assembly-ashvardanian-less-slow-cpp-50768d6c.md) |
+| minio/highwayhash | v1.0.4 | 2026-03-21T05:38:40Z | [open](../records/assembly-minio-highwayhash-5634a2cc.md) |
 
 ## Pattern language
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| GoogleCloudPlatform/ml-design-patterns | partial | 2021-04-28T23:11:45Z | [open](../records/pattern-language-googlecloudplatform-ml-design-patterns-b66775d5.md) |
-| mehmetozkaya/Design-Microservices-Architecture-with-Patterns-Principles | partial | 2026-03-09T14:57:26Z | [open](../records/pattern-language-mehmetozkaya-design-microservices-architecture-with-patterns-principles-c92aed23.md) |
+| GoogleCloudPlatform/ml-design-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-googlecloudplatform-ml-design-patterns-b66775d5.md) |
+| mehmetozkaya/Design-Microservices-Architecture-with-Patterns-Principles | unknown | github_latest_release_missing | [open](../records/pattern-language-mehmetozkaya-design-microservices-architecture-with-patterns-principles-c92aed23.md) |
 
 ## PHP
 
@@ -846,6 +854,7 @@ Records: `676`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| a-d/SAP-cloud-sdk-java-tutorials | unknown | not_a_maven_coordinate | [open](../records/sapjava-a-d-sap-cloud-sdk-java-tutorials-f49b192f.md) |
 | com.sap.cloud.sdk.cloudplatform:cloudplatform-connectivity-scp | 4.32.0 | 2024-06-11T10:16:32+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-cloudplatform-cloudplatform-connectivity-scp-30e676fb.md) |
 | com.sap.cloud.sdk.cloudplatform:cloudplatform-connectivity-scp-neo | 4.32.0 | 2024-06-11T10:16:33+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-cloudplatform-cloudplatform-connectivity-scp-neo-cec96b6d.md) |
 | com.sap.cloud.sdk.cloudplatform:cloudplatform-core-scp-cf | 4.32.0 | 2024-06-11T10:16:40+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-cloudplatform-cloudplatform-core-scp-cf-d9647d86.md) |
@@ -858,6 +867,15 @@ Records: `676`
 | com.sap.cloud.sdk.frameworks:apache-httpclient5 | 4.32.0 | 2024-06-11T10:16:49+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-frameworks-apache-httpclient5-da06414e.md) |
 | com.sap.cloud.sdk.services:blockchain-client-fabric | 4.32.0 | 2024-06-11T10:16:54+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-services-blockchain-client-fabric-1c1137bc.md) |
 | com.sap.cloud.sdk.services:blockchain-client-multichain | 4.32.0 | 2024-06-11T10:16:53+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-services-blockchain-client-multichain-45e0c7a4.md) |
+| NotMyUid/LetsTrackJavaClient | unknown | not_a_maven_coordinate | [open](../records/sapjava-notmyuid-letstrackjavaclient-172e99b5.md) |
+| olyacherrry/CAPandSAPcloudSDK-java | unknown | not_a_maven_coordinate | [open](../records/sapjava-olyacherrry-capandsapcloudsdk-java-13294938.md) |
+| olyacherrry/CAPwithJava | unknown | not_a_maven_coordinate | [open](../records/sapjava-olyacherrry-capwithjava-9a8f1668.md) |
+
+## Swift
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| ProjectKumo/KumoApp | partial | 2026-06-05T17:08:02Z | [open](../records/swift-projectkumo-kumoapp-163c7695.md) |
 
 ## Cocoa
 

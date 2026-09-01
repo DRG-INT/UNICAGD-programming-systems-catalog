@@ -1,6 +1,6 @@
 # Filesystem Os
 
-Records: `642`
+Records: `678`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `642`
 
 ## Category Index
 
-[Api Abi Checker (105)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
-[Benchmarking (68)](benchmarking.md) · [Build System (529)](build-system.md) · [Cli (435)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (61)](community-reference.md) · [Compiler (107)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
-[Concurrency Parallelism (62)](concurrency-parallelism.md) · [Configuration (65)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (127)](cryptography.md) · [Data Science (28)](data-science.md) · [Database Datastore (429)](database-datastore.md) · [Datetime (93)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (59)](dependency-manager.md) · [Documentation (57)](documentation.md)
-[Embedded Hardware (36)](embedded-hardware.md) · [Ffi Bindings (311)](ffi-bindings.md) · **[Filesystem Os (642)](filesystem-os.md)** · [Formatter (428)](formatter.md)
-[Framework (35)](framework.md) · [Fuzzer (22)](fuzzer.md) · [Game Engine Game Dev (95)](game-engine-game-dev.md) · [Ide Editor Integration (790)](ide-editor-integration.md)
-[Image Audio Dsp (167)](image-audio-dsp.md) · [Interop Bindings (46)](interop-bindings.md) · [Interpreter Runtime (122)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (610)](language-specification.md) · [Library (3229)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (32)](lint-rule-pack.md) · [Linter (328)](linter.md) · [Logging Observability (236)](logging-observability.md) · [Machine Learning (351)](machine-learning.md)
-[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (52)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (676)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (188)](package-manager.md) · [Parser Lexer Ast (574)](parser-lexer-ast.md) · [Precommit Ci Quality (167)](precommit-ci-quality.md)
-[Profiler (53)](profiler.md) · [Project Scaffolding (76)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (7)](sanitizer.md)
-[Security Sast (260)](security-sast.md) · [Serialization (270)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (259)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (410)](testing-framework.md) · [Tutorial Book Styleguide (34)](tutorial-book-styleguide.md) · [Type Checker (251)](type-checker.md)
-[Undefined Behavior Analyzer (731)](undefined-behavior-analyzer.md) · [Utility Library (74)](utility-library.md) · [Visualization Gui (247)](visualization-gui.md) · [Web Framework (286)](web-framework.md)
+[Api Abi Checker (112)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
+[Benchmarking (69)](benchmarking.md) · [Build System (563)](build-system.md) · [Cli (441)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (63)](community-reference.md) · [Compiler (111)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
+[Concurrency Parallelism (62)](concurrency-parallelism.md) · [Configuration (69)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (128)](cryptography.md) · [Data Science (29)](data-science.md) · [Database Datastore (436)](database-datastore.md) · [Datetime (96)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (59)](dependency-manager.md) · [Documentation (61)](documentation.md)
+[Embedded Hardware (36)](embedded-hardware.md) · [Ffi Bindings (312)](ffi-bindings.md) · **[Filesystem Os (678)](filesystem-os.md)** · [Formatter (434)](formatter.md)
+[Framework (38)](framework.md) · [Fuzzer (23)](fuzzer.md) · [Game Engine Game Dev (98)](game-engine-game-dev.md) · [Ide Editor Integration (812)](ide-editor-integration.md)
+[Image Audio Dsp (168)](image-audio-dsp.md) · [Interop Bindings (46)](interop-bindings.md) · [Interpreter Runtime (138)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (825)](language-specification.md) · [Library (3295)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (33)](lint-rule-pack.md) · [Linter (328)](linter.md) · [Logging Observability (246)](logging-observability.md) · [Machine Learning (365)](machine-learning.md)
+[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (52)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (684)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (193)](package-manager.md) · [Parser Lexer Ast (583)](parser-lexer-ast.md) · [Precommit Ci Quality (168)](precommit-ci-quality.md)
+[Profiler (56)](profiler.md) · [Project Scaffolding (84)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
+[Security Sast (263)](security-sast.md) · [Serialization (270)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (263)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (414)](testing-framework.md) · [Tutorial Book Styleguide (39)](tutorial-book-styleguide.md) · [Type Checker (258)](type-checker.md)
+[Undefined Behavior Analyzer (901)](undefined-behavior-analyzer.md) · [Utility Library (79)](utility-library.md) · [Visualization Gui (268)](visualization-gui.md) · [Web Framework (294)](web-framework.md)
 
 ## C++23
 
@@ -390,6 +390,7 @@ Records: `642`
 | rifexpectile | 0.1.1 | 2026-08-31 22:00:21 UTC | [open](../records/r-rifexpectile-3bcbe5dd.md) |
 | scDHA | 1.2.4 | 2026-08-28 14:00:02 UTC | [open](../records/r-scdha-bcd8a9ef.md) |
 | VizModules | 0.4.0 | 2026-08-28 20:50:02 UTC | [open](../records/r-vizmodules-ca136fd6.md) |
+| xpose.xtras | 0.2.2 | 2026-09-01 10:10:03 UTC | [open](../records/r-xpose-xtras-bb40722d.md) |
 
 ## Octave
 
@@ -711,46 +712,83 @@ Records: `642`
 | pothosware/PothosCore | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-pothosware-pothoscore-bfc13d94.md) |
 | pothosware/SoapySDR | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-pothosware-soapysdr-c11f1141.md) |
 
+## Magazines
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| BoundfoxStudios/windows-developer-unity | unknown | github_latest_release_missing | [open](../records/magazines-boundfoxstudios-windows-developer-unity-c6ab0012.md) |
+| dlh01/monthly-magazine | unknown | github_latest_release_missing | [open](../records/magazines-dlh01-monthly-magazine-75487f99.md) |
+| journiv/journiv-app | unknown | github_search_does_not_include_release_date | [open](../records/magazines-journiv-journiv-app-b0d9c829.md) |
+| OS2World/DEV-SAMPLES-C-ColorWheel | unknown | github_latest_release_missing | [open](../records/magazines-os2world-dev-samples-c-colorwheel-50ebb784.md) |
+| OS2World/DEV-SAMPLES-C-PM-ctrldes | 1.01 | 2023-05-22T21:49:53Z | [open](../records/magazines-os2world-dev-samples-c-pm-ctrldes-cc4b602b.md) |
+| OS2World/DEV-SAMPLES-C-PM-custct | unknown | github_latest_release_missing | [open](../records/magazines-os2world-dev-samples-c-pm-custct-515356c6.md) |
+| OS2World/DEV-SAMPLES-C-PM-ListBox2 | 1.00 | 2023-06-08T16:36:07Z | [open](../records/magazines-os2world-dev-samples-c-pm-listbox2-8f2eaf5b.md) |
+| OS2World/DEV-SAMPLES-C-PM-mclb | unknown | github_latest_release_missing | [open](../records/magazines-os2world-dev-samples-c-pm-mclb-3e986314.md) |
+| OS2World/DEV-SAMPLES-C-prnt3 | unknown | github_latest_release_missing | [open](../records/magazines-os2world-dev-samples-c-prnt3-d671bbc2.md) |
+| OS2World/DEV-SAMPLES-CPP-PM-CTLCPP | unknown | github_latest_release_missing | [open](../records/magazines-os2world-dev-samples-cpp-pm-ctlcpp-e109fadd.md) |
+| OS2World/DEV-SAMPLES-EDM2-Vol2_Issue7 | unknown | github_latest_release_missing | [open](../records/magazines-os2world-dev-samples-edm2-vol2-issue7-d4b757d9.md) |
+| OS2World/DEV-SAMPLES-OS-2_Developer_Magazine | unknown | github_latest_release_missing | [open](../records/magazines-os2world-dev-samples-os-2-developer-magazine-2ca39e24.md) |
+| OS2World/DEV-SAMPLES-PC_Magazine | unknown | github_latest_release_missing | [open](../records/magazines-os2world-dev-samples-pc-magazine-c1e0c450.md) |
+| OS2World/DEV-SAMPLES-PSD-Install | unknown | github_latest_release_missing | [open](../records/magazines-os2world-dev-samples-psd-install-17655c4c.md) |
+| OS2World/DEV-SAMPLES-SOM-Name_Lookup_SOM | unknown | github_latest_release_missing | [open](../records/magazines-os2world-dev-samples-som-name-lookup-som-34eabd13.md) |
+| OS2World/DEV-SAMPLES-SOM-Students | unknown | github_latest_release_missing | [open](../records/magazines-os2world-dev-samples-som-students-ec413d96.md) |
+| OS2World/DRV-HRTIMER | 1.1 | 2023-08-31T00:53:56Z | [open](../records/magazines-os2world-drv-hrtimer-58f3acac.md) |
+
 ## Assembly
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| dreamportdev/Osdev-Notes | partial | 2026-08-29T00:33:45Z | [open](../records/assembly-dreamportdev-osdev-notes-0bc186d6.md) |
-| rwfpl/rewolf-wow64ext | partial | 2023-01-17T20:00:42Z | [open](../records/assembly-rwfpl-rewolf-wow64ext-24fabb9b.md) |
-| wichtounet/thor-os | partial | 2024-11-19T10:12:06Z | [open](../records/assembly-wichtounet-thor-os-cf1384c0.md) |
+| dreamportdev/Osdev-Notes | v1.6 | 2026-02-21T15:32:17Z | [open](../records/assembly-dreamportdev-osdev-notes-0bc186d6.md) |
+| rwfpl/rewolf-wow64ext | v1.0.0.9 | 2017-01-17T23:24:52Z | [open](../records/assembly-rwfpl-rewolf-wow64ext-24fabb9b.md) |
+| wichtounet/thor-os | unknown | github_latest_release_missing | [open](../records/assembly-wichtounet-thor-os-cf1384c0.md) |
 
 ## Pattern language
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ackintosh/ganesha | partial | 2026-06-20T02:01:28Z | [open](../records/pattern-language-ackintosh-ganesha-8efb6b76.md) |
-| addyosmani/essential-js-design-patterns | partial | 2021-08-01T13:59:43Z | [open](../records/pattern-language-addyosmani-essential-js-design-patterns-55f97ad1.md) |
-| adimiko/TransactionalBox | partial | 2025-10-09T20:54:33Z | [open](../records/pattern-language-adimiko-transactionalbox-3c62533f.md) |
-| anton-liauchuk/java-interview | partial | 2026-05-22T09:12:03Z | [open](../records/pattern-language-anton-liauchuk-java-interview-8ff8af1a.md) |
-| Armando1514/Event-Driven-Microservices-Advanced | partial | 2023-07-04T13:54:41Z | [open](../records/pattern-language-armando1514-event-driven-microservices-advanced-5fc6cb6d.md) |
-| artembilan/microservices-patterns-spring-integration | partial | 2023-06-09T14:52:08Z | [open](../records/pattern-language-artembilan-microservices-patterns-spring-integration-5b5b4fe0.md) |
-| charlessolar/eShopOnContainersDDD | partial | 2023-03-04T00:19:52Z | [open](../records/pattern-language-charlessolar-eshoponcontainersddd-8ba18aea.md) |
-| daohainam/microservice-patterns | partial | 2026-05-26T05:47:52Z | [open](../records/pattern-language-daohainam-microservice-patterns-650b9c7c.md) |
-| daxnet/we-text | partial | 2017-11-15T07:06:13Z | [open](../records/pattern-language-daxnet-we-text-6933c35d.md) |
-| Devinterview-io/microservices-interview-questions | partial | 2026-01-04T23:16:18Z | [open](../records/pattern-language-devinterview-io-microservices-interview-questions-2a892b04.md) |
-| dotnetcore/CAP | partial | 2026-08-01T13:10:06Z | [open](../records/pattern-language-dotnetcore-cap-6fcca660.md) |
-| greyblake/awesome-programming-books | partial | 2021-09-21T13:21:23Z | [open](../records/pattern-language-greyblake-awesome-programming-books-3767bcb8.md) |
-| hellosatish/microservice-patterns | partial | 2021-01-21T00:01:34Z | [open](../records/pattern-language-hellosatish-microservice-patterns-84e315b2.md) |
-| microservices-patterns/ftgo-application | partial | 2026-03-13T01:11:04Z | [open](../records/pattern-language-microservices-patterns-ftgo-application-4b82322c.md) |
-| nemanjarogic/DesignPatternsLibrary | partial | 2025-07-04T16:14:33Z | [open](../records/pattern-language-nemanjarogic-designpatternslibrary-6dd51b24.md) |
-| rafaelfgx/Architecture | partial | 2026-08-18T11:57:31Z | [open](../records/pattern-language-rafaelfgx-architecture-0240a6d1.md) |
-| skyming/Trip-to-iOS-Design-Patterns | partial | 2018-05-29T12:43:40Z | [open](../records/pattern-language-skyming-trip-to-ios-design-patterns-ac58ff47.md) |
-| suadev/microservices-change-data-capture-with-debezium | partial | 2020-12-07T19:50:46Z | [open](../records/pattern-language-suadev-microservices-change-data-capture-with-debezium-022ee30d.md) |
-| thangchung/clean-architecture-dotnet | partial | 2023-04-27T20:23:43Z | [open](../records/pattern-language-thangchung-clean-architecture-dotnet-2fa9afc9.md) |
-| tkssharma/nodejs-microservices-patterns | partial | 2020-11-02T17:23:41Z | [open](../records/pattern-language-tkssharma-nodejs-microservices-patterns-edb30935.md) |
-| uid4oe/microservices-go-grpc | partial | 2022-08-13T09:14:41Z | [open](../records/pattern-language-uid4oe-microservices-go-grpc-bab81d8d.md) |
-| wuyichen24/microservices-patterns | partial | 2020-07-02T06:24:04Z | [open](../records/pattern-language-wuyichen24-microservices-patterns-a0984caf.md) |
+| ackintosh/ganesha | 4.0.0 | 2025-02-22T21:52:49Z | [open](../records/pattern-language-ackintosh-ganesha-8efb6b76.md) |
+| addyosmani/essential-js-design-patterns | v1.7.0 | 2017-07-29T22:14:19Z | [open](../records/pattern-language-addyosmani-essential-js-design-patterns-55f97ad1.md) |
+| adimiko/TransactionalBox | unknown | github_latest_release_missing | [open](../records/pattern-language-adimiko-transactionalbox-3c62533f.md) |
+| anton-liauchuk/java-interview | unknown | github_latest_release_missing | [open](../records/pattern-language-anton-liauchuk-java-interview-8ff8af1a.md) |
+| Armando1514/Event-Driven-Microservices-Advanced | unknown | github_latest_release_missing | [open](../records/pattern-language-armando1514-event-driven-microservices-advanced-5fc6cb6d.md) |
+| artembilan/microservices-patterns-spring-integration | unknown | github_latest_release_missing | [open](../records/pattern-language-artembilan-microservices-patterns-spring-integration-5b5b4fe0.md) |
+| charlessolar/eShopOnContainersDDD | unknown | github_latest_release_missing | [open](../records/pattern-language-charlessolar-eshoponcontainersddd-8ba18aea.md) |
+| daohainam/microservice-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-daohainam-microservice-patterns-650b9c7c.md) |
+| daxnet/we-text | unknown | github_latest_release_missing | [open](../records/pattern-language-daxnet-we-text-6933c35d.md) |
+| Devinterview-io/microservices-interview-questions | unknown | github_latest_release_missing | [open](../records/pattern-language-devinterview-io-microservices-interview-questions-2a892b04.md) |
+| dotnetcore/CAP | v10.0.2 | 2026-08-01T13:10:07Z | [open](../records/pattern-language-dotnetcore-cap-6fcca660.md) |
+| greyblake/awesome-programming-books | unknown | github_latest_release_missing | [open](../records/pattern-language-greyblake-awesome-programming-books-3767bcb8.md) |
+| hellosatish/microservice-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-hellosatish-microservice-patterns-84e315b2.md) |
+| microservices-patterns/ftgo-application | unknown | github_latest_release_missing | [open](../records/pattern-language-microservices-patterns-ftgo-application-4b82322c.md) |
+| nemanjarogic/DesignPatternsLibrary | v8.0.0 | 2025-07-04T16:09:36Z | [open](../records/pattern-language-nemanjarogic-designpatternslibrary-6dd51b24.md) |
+| rafaelfgx/Architecture | unknown | github_latest_release_missing | [open](../records/pattern-language-rafaelfgx-architecture-0240a6d1.md) |
+| skyming/Trip-to-iOS-Design-Patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-skyming-trip-to-ios-design-patterns-ac58ff47.md) |
+| suadev/microservices-change-data-capture-with-debezium | unknown | github_latest_release_missing | [open](../records/pattern-language-suadev-microservices-change-data-capture-with-debezium-022ee30d.md) |
+| thangchung/clean-architecture-dotnet | SNAPSHOT-v0.0.3 | 2021-08-01T08:53:43Z | [open](../records/pattern-language-thangchung-clean-architecture-dotnet-2fa9afc9.md) |
+| tkssharma/nodejs-microservices-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-tkssharma-nodejs-microservices-patterns-edb30935.md) |
+| uid4oe/microservices-go-grpc | unknown | github_latest_release_missing | [open](../records/pattern-language-uid4oe-microservices-go-grpc-bab81d8d.md) |
+| wuyichen24/microservices-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-wuyichen24-microservices-patterns-a0984caf.md) |
 
 ## WebAssembly
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| mbasso/awesome-wasm | unknown | github_latest_release_missing | [open](../records/webassembly-mbasso-awesome-wasm-e5b53bed.md) |
+| microsoft/fluentui-blazor | v4.14.4 | 2026-07-29T12:10:35Z | [open](../records/webassembly-microsoft-fluentui-blazor-4d2addbf.md) |
+| mosra/magnum | v2020.06 | 2020-07-02T13:05:09Z | [open](../records/webassembly-mosra-magnum-973479c6.md) |
 | The Path to Rust on the Web (2017) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-the-path-to-rust-on-the-web-2017-cfd2290b.md) |
+
+## SAPJava
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| AdrianoBispo/estude-sap-cap-com-java | unknown | not_a_maven_coordinate | [open](../records/sapjava-adrianobispo-estude-sap-cap-com-java-cd237f6f.md) |
+| cap-js-community/sap-afc-sdk | v1.1.0 | 2026-07-23T15:59:37Z | [open](../records/sapjava-cap-js-community-sap-afc-sdk-ceed7a56.md) |
+| cmunozhdz/HanaEjemplos | unknown | not_a_maven_coordinate | [open](../records/sapjava-cmunozhdz-hanaejemplos-adf0cff1.md) |
+| cosminnionutt/cloud-espm-v2 | unknown | not_a_maven_coordinate | [open](../records/sapjava-cosminnionutt-cloud-espm-v2-0b22ed02.md) |
+| Hosseini1373/MultitenantApp_CF_SAP_BTP_JAVA | unknown | not_a_maven_coordinate | [open](../records/sapjava-hosseini1373-multitenantapp-cf-sap-btp-java-60965f5f.md) |
+| Marcosfarhat/centro-medico-cap-java | unknown | not_a_maven_coordinate | [open](../records/sapjava-marcosfarhat-centro-medico-cap-java-1246b3a5.md) |
+| thorstenfreitag/SAP-IoT_Train-HCP_Java_Backend | unknown | not_a_maven_coordinate | [open](../records/sapjava-thorstenfreitag-sap-iot-train-hcp-java-backend-3ba09925.md) |
 
 ## Swift
 
@@ -760,9 +798,17 @@ Records: `642`
 | awesome-macOS | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-awesome-macos-31e862a8.md) |
 | CleanArchitectureRxSwift | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-cleanarchitecturerxswift-25af9dfb.md) |
 | example-ios-apps | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-example-ios-apps-4d4c80bc.md) |
+| GEOSwift/GEOSwift | 11.2.0 | 2025-03-21T14:56:44Z | [open](../records/swift-geoswift-geoswift-4f0bb95b.md) |
+| guillermomuntaner/Burritos | unknown | github_latest_release_missing | [open](../records/swift-guillermomuntaner-burritos-87cfd576.md) |
+| MAJKFL/Welcome-Sheet | partial | 2023-01-30T18:19:17Z | [open](../records/swift-majkfl-welcome-sheet-bd2a05cc.md) |
 | open-source-ios-apps | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-open-source-ios-apps-104ed1a6.md) |
 | open-source-mac-os-apps | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-open-source-mac-os-apps-0ce8a753.md) |
 | Reactant | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-reactant-ba7c3ea2.md) |
+| rryam/MeshingKit | partial | 2026-08-31T17:30:27Z | [open](../records/swift-rryam-meshingkit-b2db2e02.md) |
+| sindresorhus/CircularProgress | partial | 2024-02-20T07:32:46Z | [open](../records/swift-sindresorhus-circularprogress-767a5c68.md) |
+| sindresorhus/KeyboardShortcuts | partial | 2026-06-17T10:24:25Z | [open](../records/swift-sindresorhus-keyboardshortcuts-53ceb22f.md) |
+| sindresorhus/macos-trash | partial | 2026-08-12T12:37:59Z | [open](../records/swift-sindresorhus-macos-trash-13c785c6.md) |
+| sindresorhus/macos-wallpaper | partial | 2026-04-19T17:15:48Z | [open](../records/swift-sindresorhus-macos-wallpaper-3179fd42.md) |
 | StateViewController | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-stateviewcontroller-85dd22f3.md) |
 
 ## Cocoa

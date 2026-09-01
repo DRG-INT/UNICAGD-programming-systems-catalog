@@ -1,6 +1,6 @@
 # Visualization Gui
 
-Records: `247`
+Records: `268`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `247`
 
 ## Category Index
 
-[Api Abi Checker (105)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
-[Benchmarking (68)](benchmarking.md) · [Build System (529)](build-system.md) · [Cli (435)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (61)](community-reference.md) · [Compiler (107)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
-[Concurrency Parallelism (62)](concurrency-parallelism.md) · [Configuration (65)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (127)](cryptography.md) · [Data Science (28)](data-science.md) · [Database Datastore (429)](database-datastore.md) · [Datetime (93)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (59)](dependency-manager.md) · [Documentation (57)](documentation.md)
-[Embedded Hardware (36)](embedded-hardware.md) · [Ffi Bindings (311)](ffi-bindings.md) · [Filesystem Os (642)](filesystem-os.md) · [Formatter (428)](formatter.md)
-[Framework (35)](framework.md) · [Fuzzer (22)](fuzzer.md) · [Game Engine Game Dev (95)](game-engine-game-dev.md) · [Ide Editor Integration (790)](ide-editor-integration.md)
-[Image Audio Dsp (167)](image-audio-dsp.md) · [Interop Bindings (46)](interop-bindings.md) · [Interpreter Runtime (122)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (610)](language-specification.md) · [Library (3229)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (32)](lint-rule-pack.md) · [Linter (328)](linter.md) · [Logging Observability (236)](logging-observability.md) · [Machine Learning (351)](machine-learning.md)
-[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (52)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (676)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (188)](package-manager.md) · [Parser Lexer Ast (574)](parser-lexer-ast.md) · [Precommit Ci Quality (167)](precommit-ci-quality.md)
-[Profiler (53)](profiler.md) · [Project Scaffolding (76)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (7)](sanitizer.md)
-[Security Sast (260)](security-sast.md) · [Serialization (270)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (259)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (410)](testing-framework.md) · [Tutorial Book Styleguide (34)](tutorial-book-styleguide.md) · [Type Checker (251)](type-checker.md)
-[Undefined Behavior Analyzer (731)](undefined-behavior-analyzer.md) · [Utility Library (74)](utility-library.md) · **[Visualization Gui (247)](visualization-gui.md)** · [Web Framework (286)](web-framework.md)
+[Api Abi Checker (112)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
+[Benchmarking (69)](benchmarking.md) · [Build System (563)](build-system.md) · [Cli (441)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (63)](community-reference.md) · [Compiler (111)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
+[Concurrency Parallelism (62)](concurrency-parallelism.md) · [Configuration (69)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (128)](cryptography.md) · [Data Science (29)](data-science.md) · [Database Datastore (436)](database-datastore.md) · [Datetime (96)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (59)](dependency-manager.md) · [Documentation (61)](documentation.md)
+[Embedded Hardware (36)](embedded-hardware.md) · [Ffi Bindings (312)](ffi-bindings.md) · [Filesystem Os (678)](filesystem-os.md) · [Formatter (434)](formatter.md)
+[Framework (38)](framework.md) · [Fuzzer (23)](fuzzer.md) · [Game Engine Game Dev (98)](game-engine-game-dev.md) · [Ide Editor Integration (812)](ide-editor-integration.md)
+[Image Audio Dsp (168)](image-audio-dsp.md) · [Interop Bindings (46)](interop-bindings.md) · [Interpreter Runtime (138)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (825)](language-specification.md) · [Library (3295)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (33)](lint-rule-pack.md) · [Linter (328)](linter.md) · [Logging Observability (246)](logging-observability.md) · [Machine Learning (365)](machine-learning.md)
+[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (52)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (684)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (193)](package-manager.md) · [Parser Lexer Ast (583)](parser-lexer-ast.md) · [Precommit Ci Quality (168)](precommit-ci-quality.md)
+[Profiler (56)](profiler.md) · [Project Scaffolding (84)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
+[Security Sast (263)](security-sast.md) · [Serialization (270)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (263)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (414)](testing-framework.md) · [Tutorial Book Styleguide (39)](tutorial-book-styleguide.md) · [Type Checker (258)](type-checker.md)
+[Undefined Behavior Analyzer (901)](undefined-behavior-analyzer.md) · [Utility Library (79)](utility-library.md) · **[Visualization Gui (268)](visualization-gui.md)** · [Web Framework (294)](web-framework.md)
 
 ## C++23
 
@@ -154,6 +154,7 @@ Records: `247`
 | autoplotly | 0.1.7 | 2026-08-22 15:10:52 UTC | [open](../records/r-autoplotly-172c221d.md) |
 | baseballr | 2.0.0 | 2026-08-26 21:50:02 UTC | [open](../records/r-baseballr-cc568f06.md) |
 | bayesplot | 1.16.0 | 2026-08-25 07:00:09 UTC | [open](../records/r-bayesplot-dfac9320.md) |
+| BsplineQuantRegGui | 0.2.2 | 2026-09-01 08:50:15 UTC | [open](../records/r-bsplinequantreggui-a0017840.md) |
 | c3 | 0.3.2 | 2026-08-25 12:50:02 UTC | [open](../records/r-c3-1fc1201b.md) |
 | canvasXpress | 1.65.2 | 2026-08-21 05:44:58 UTC | [open](../records/r-canvasxpress-4c45c030.md) |
 | circles | 0.1.2 | 2026-08-22 23:00:02 UTC | [open](../records/r-circles-bb158ae4.md) |
@@ -416,27 +417,52 @@ Records: `247`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| simon987/Much-Assembly-Required | partial | 2024-10-24T00:37:03Z | [open](../records/assembly-simon987-much-assembly-required-c15801d9.md) |
+| simon987/Much-Assembly-Required | v1.4a | 2018-02-25T13:55:08Z | [open](../records/assembly-simon987-much-assembly-required-c15801d9.md) |
 
 ## Pattern language
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| keenthemes/reui | partial | 2026-08-20T05:19:44Z | [open](../records/pattern-language-keenthemes-reui-f3f4a8f3.md) |
-| mohuishou/go-design-pattern | partial | 2025-07-30T09:39:31Z | [open](../records/pattern-language-mohuishou-go-design-pattern-b1f024da.md) |
+| keenthemes/reui | unknown | github_latest_release_missing | [open](../records/pattern-language-keenthemes-reui-f3f4a8f3.md) |
+| mohuishou/go-design-pattern | v1.0.0 | 2020-11-05T06:18:11Z | [open](../records/pattern-language-mohuishou-go-design-pattern-b1f024da.md) |
+
+## WebAssembly
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| ant-design-blazor/ant-design-blazor | 1.6.2 | 2026-06-16T22:44:34Z | [open](../records/webassembly-ant-design-blazor-ant-design-blazor-d8f0273e.md) |
+| dotnetcore/BootstrapBlazor | v10.10.0 | 2026-08-30T12:17:16Z | [open](../records/webassembly-dotnetcore-bootstrapblazor-5915f6c3.md) |
+| vugu/vugu | unknown | github_latest_release_missing | [open](../records/webassembly-vugu-vugu-38501d3e.md) |
 
 ## SAPJava
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| 17Anurag/Inventory-Management-System | unknown | not_a_maven_coordinate | [open](../records/sapjava-17anurag-inventory-management-system-7e8f8760.md) |
+| aryan-asint3/asset-management-ui5-cap-java | unknown | not_a_maven_coordinate | [open](../records/sapjava-aryan-asint3-asset-management-ui5-cap-java-2aeb5684.md) |
+| Azure-Samples/app-service-javascript-sap-cap-quickstart | unknown | not_a_maven_coordinate | [open](../records/sapjava-azure-samples-app-service-javascript-sap-cap-quickstart-ed07b42b.md) |
+| Azure-Samples/app-service-javascript-sap-cloud-sdk-quickstart | unknown | not_a_maven_coordinate | [open](../records/sapjava-azure-samples-app-service-javascript-sap-cloud-sdk-quickstart-a47547d2.md) |
+| Azure-Samples/functions-javascript-sap-cloud-sdk-quickstart | unknown | not_a_maven_coordinate | [open](../records/sapjava-azure-samples-functions-javascript-sap-cloud-sdk-quickstart-7c7403ca.md) |
+| cap-java/cds-feature-advanced-event-mesh | 1.0.2 | 2026-06-12T11:57:11Z | [open](../records/sapjava-cap-java-cds-feature-advanced-event-mesh-9f67184d.md) |
 | com.sap.cds:cds-feature-message-queuing | 3.10.1 | 2025-05-16T11:26:32+00:00 | [open](../records/sapjava-com-sap-cds-cds-feature-message-queuing-cf687023.md) |
+| learnin/sap-cap-example | unknown | not_a_maven_coordinate | [open](../records/sapjava-learnin-sap-cap-example-1ed9f2fe.md) |
+| SAP-archive/cloud-espm-v2 | v2.1 | 2017-05-08T14:15:12Z | [open](../records/sapjava-sap-archive-cloud-espm-v2-e001d6b3.md) |
 
 ## Swift
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| chris-swift-dev/AdvancedList | 8.0.0 | 2022-04-10T22:06:33Z | [open](../records/swift-chris-swift-dev-advancedlist-cb3a259f.md) |
+| daprice/Variablur | v2.0.0 | 2025-11-21T20:12:47Z | [open](../records/swift-daprice-variablur-d07bc4f2.md) |
+| Mijick/NavigationView | partial | 2025-05-14T15:36:54Z | [open](../records/swift-mijick-navigationview-fc610d99.md) |
+| moritzsternemann/SwipyCell | partial | 2023-08-30T17:36:41Z | [open](../records/swift-moritzsternemann-swipycell-ad3c37ba.md) |
+| nachonavarro/Pages | partial | 2025-12-30T17:33:37Z | [open](../records/swift-nachonavarro-pages-d3acd69d.md) |
 | ReduxUI | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-reduxui-d30c2ddb.md) |
 | SimplexArchitecture | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-simplexarchitecture-1ef672dd.md) |
+| spacenation/swiftui-charts | partial | 2021-11-27T04:37:47Z | [open](../records/swift-spacenation-swiftui-charts-664f689a.md) |
+| spacenation/swiftui-grid | partial | 2020-12-27T00:25:28Z | [open](../records/swift-spacenation-swiftui-grid-d74c0efb.md) |
+| spacenation/swiftui-shapes | partial | 2024-08-01T06:53:07Z | [open](../records/swift-spacenation-swiftui-shapes-17983445.md) |
+| VakhoKontridze/VComponents | partial | 2026-08-31T10:24:57Z | [open](../records/swift-vakhokontridze-vcomponents-baf9987a.md) |
 
 ## Cocoa
 

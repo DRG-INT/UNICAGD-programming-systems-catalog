@@ -1,6 +1,6 @@
 # Ide Editor Integration
 
-Records: `790`
+Records: `812`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `790`
 
 ## Category Index
 
-[Api Abi Checker (105)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
-[Benchmarking (68)](benchmarking.md) · [Build System (529)](build-system.md) · [Cli (435)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (61)](community-reference.md) · [Compiler (107)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
-[Concurrency Parallelism (62)](concurrency-parallelism.md) · [Configuration (65)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (127)](cryptography.md) · [Data Science (28)](data-science.md) · [Database Datastore (429)](database-datastore.md) · [Datetime (93)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (59)](dependency-manager.md) · [Documentation (57)](documentation.md)
-[Embedded Hardware (36)](embedded-hardware.md) · [Ffi Bindings (311)](ffi-bindings.md) · [Filesystem Os (642)](filesystem-os.md) · [Formatter (428)](formatter.md)
-[Framework (35)](framework.md) · [Fuzzer (22)](fuzzer.md) · [Game Engine Game Dev (95)](game-engine-game-dev.md) · **[Ide Editor Integration (790)](ide-editor-integration.md)**
-[Image Audio Dsp (167)](image-audio-dsp.md) · [Interop Bindings (46)](interop-bindings.md) · [Interpreter Runtime (122)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
-[Language Server (23)](language-server.md) · [Language Specification (610)](language-specification.md) · [Library (3229)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (32)](lint-rule-pack.md) · [Linter (328)](linter.md) · [Logging Observability (236)](logging-observability.md) · [Machine Learning (351)](machine-learning.md)
-[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (52)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (676)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (188)](package-manager.md) · [Parser Lexer Ast (574)](parser-lexer-ast.md) · [Precommit Ci Quality (167)](precommit-ci-quality.md)
-[Profiler (53)](profiler.md) · [Project Scaffolding (76)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (7)](sanitizer.md)
-[Security Sast (260)](security-sast.md) · [Serialization (270)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (259)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (410)](testing-framework.md) · [Tutorial Book Styleguide (34)](tutorial-book-styleguide.md) · [Type Checker (251)](type-checker.md)
-[Undefined Behavior Analyzer (731)](undefined-behavior-analyzer.md) · [Utility Library (74)](utility-library.md) · [Visualization Gui (247)](visualization-gui.md) · [Web Framework (286)](web-framework.md)
+[Api Abi Checker (112)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
+[Benchmarking (69)](benchmarking.md) · [Build System (563)](build-system.md) · [Cli (441)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (63)](community-reference.md) · [Compiler (111)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (36)](compression.md)
+[Concurrency Parallelism (62)](concurrency-parallelism.md) · [Configuration (69)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (128)](cryptography.md) · [Data Science (29)](data-science.md) · [Database Datastore (436)](database-datastore.md) · [Datetime (96)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (59)](dependency-manager.md) · [Documentation (61)](documentation.md)
+[Embedded Hardware (36)](embedded-hardware.md) · [Ffi Bindings (312)](ffi-bindings.md) · [Filesystem Os (678)](filesystem-os.md) · [Formatter (434)](formatter.md)
+[Framework (38)](framework.md) · [Fuzzer (23)](fuzzer.md) · [Game Engine Game Dev (98)](game-engine-game-dev.md) · **[Ide Editor Integration (812)](ide-editor-integration.md)**
+[Image Audio Dsp (168)](image-audio-dsp.md) · [Interop Bindings (46)](interop-bindings.md) · [Interpreter Runtime (138)](interpreter-runtime.md) · [Jit Vm (55)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (825)](language-specification.md) · [Library (3295)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (33)](lint-rule-pack.md) · [Linter (328)](linter.md) · [Logging Observability (246)](logging-observability.md) · [Machine Learning (365)](machine-learning.md)
+[Math Numeric Scientific (70)](math-numeric-scientific.md) · [Memory Analyzer (52)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (684)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (193)](package-manager.md) · [Parser Lexer Ast (583)](parser-lexer-ast.md) · [Precommit Ci Quality (168)](precommit-ci-quality.md)
+[Profiler (56)](profiler.md) · [Project Scaffolding (84)](project-scaffolding.md) · [Registry Repository (105)](registry-repository.md) · [Sanitizer (8)](sanitizer.md)
+[Security Sast (263)](security-sast.md) · [Serialization (270)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (263)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (414)](testing-framework.md) · [Tutorial Book Styleguide (39)](tutorial-book-styleguide.md) · [Type Checker (258)](type-checker.md)
+[Undefined Behavior Analyzer (901)](undefined-behavior-analyzer.md) · [Utility Library (79)](utility-library.md) · [Visualization Gui (268)](visualization-gui.md) · [Web Framework (294)](web-framework.md)
 
 ## C++23
 
@@ -855,6 +855,18 @@ Records: `790`
 | wenzhixin/bootstrap-table | 1.27.3 | 2026-04-23T23:57:13Z | [open](../records/electromagnetoscopes-wenzhixin-bootstrap-table-50c48a32.md) |
 | wiedehopf/tar1090 | partial | 2026-08-27T07:52:44Z | [open](../records/electromagnetoscopes-wiedehopf-tar1090-c8688d5c.md) |
 
+## Magazines
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| anvayeem-spec/personal_portfolio | unknown | github_latest_release_missing | [open](../records/magazines-anvayeem-spec-personal-portfolio-c313c07f.md) |
+| ATOSHI-ORG/atoshi-docs | unknown | github_latest_release_missing | [open](../records/magazines-atoshi-org-atoshi-docs-f8974b72.md) |
+| jessa-clark/dignified-winers | unknown | github_latest_release_missing | [open](../records/magazines-jessa-clark-dignified-winers-10548068.md) |
+| lervag/wiki.vim | unknown | github_search_does_not_include_release_date | [open](../records/magazines-lervag-wiki-vim-2ff43f08.md) |
+| Manna-Network/bitcoin_ad_agency | unknown | github_latest_release_missing | [open](../records/magazines-manna-network-bitcoin-ad-agency-f8bbb11d.md) |
+| mmarquezs/libgen-python-api | unknown | github_search_does_not_include_release_date | [open](../records/magazines-mmarquezs-libgen-python-api-47da50e4.md) |
+| uzih05/journal | unknown | github_latest_release_missing | [open](../records/magazines-uzih05-journal-00e04855.md) |
+
 ## Braces
 
 | Name | Release | Date | Page |
@@ -867,21 +879,21 @@ Records: `790`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| kovidomi/game-reversing | partial | 2023-04-05T15:11:33Z | [open](../records/assembly-kovidomi-game-reversing-eb71b6a8.md) |
-| minio/sha256-simd | partial | 2023-05-24T07:54:41Z | [open](../records/assembly-minio-sha256-simd-85e6ab78.md) |
-| ThomasJaeger/VisualMASM | partial | 2018-01-26T12:10:31Z | [open](../records/assembly-thomasjaeger-visualmasm-c78674ab.md) |
+| kovidomi/game-reversing | unknown | github_latest_release_missing | [open](../records/assembly-kovidomi-game-reversing-eb71b6a8.md) |
+| minio/sha256-simd | v1.0.1 | 2023-05-24T07:54:41Z | [open](../records/assembly-minio-sha256-simd-85e6ab78.md) |
+| ThomasJaeger/VisualMASM | unknown | github_latest_release_missing | [open](../records/assembly-thomasjaeger-visualmasm-c78674ab.md) |
 
 ## Pattern language
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| evolutionary-architecture/evolutionary-architecture-by-example | partial | 2026-08-31T20:29:06Z | [open](../records/pattern-language-evolutionary-architecture-evolutionary-architecture-by-example-8cafc9e0.md) |
-| Mahmoudz/Porto | partial | 2026-07-04T19:47:22Z | [open](../records/pattern-language-mahmoudz-porto-c8b5e119.md) |
-| mehdihadeli/awesome-software-architecture | partial | 2026-07-16T11:04:37Z | [open](../records/pattern-language-mehdihadeli-awesome-software-architecture-caec9f49.md) |
-| Microservice-API-Patterns/LakesideMutual | partial | 2025-10-13T18:11:28Z | [open](../records/pattern-language-microservice-api-patterns-lakesidemutual-c3f0fcf1.md) |
-| NoDivide/astrum | partial | 2022-05-13T22:45:05Z | [open](../records/pattern-language-nodivide-astrum-81381787.md) |
-| spring-projects/spring-integration | partial | 2026-08-31T21:07:05Z | [open](../records/pattern-language-spring-projects-spring-integration-fd457078.md) |
-| vaquarkhan/microservices-recipes-a-free-gitbook | partial | 2026-07-31T12:37:47Z | [open](../records/pattern-language-vaquarkhan-microservices-recipes-a-free-gitbook-fe8fd71a.md) |
+| evolutionary-architecture/evolutionary-architecture-by-example | v1.2.0 | 2025-05-24T07:35:30Z | [open](../records/pattern-language-evolutionary-architecture-evolutionary-architecture-by-example-8cafc9e0.md) |
+| Mahmoudz/Porto | unknown | github_latest_release_missing | [open](../records/pattern-language-mahmoudz-porto-c8b5e119.md) |
+| mehdihadeli/awesome-software-architecture | v2025-07-03 | 2025-07-11T10:29:58Z | [open](../records/pattern-language-mehdihadeli-awesome-software-architecture-caec9f49.md) |
+| Microservice-API-Patterns/LakesideMutual | unknown | github_latest_release_missing | [open](../records/pattern-language-microservice-api-patterns-lakesidemutual-c3f0fcf1.md) |
+| NoDivide/astrum | 1.9.6 | 2018-01-12T14:38:45Z | [open](../records/pattern-language-nodivide-astrum-81381787.md) |
+| spring-projects/spring-integration | v7.1.1 | 2026-08-20T14:09:42Z | [open](../records/pattern-language-spring-projects-spring-integration-fd457078.md) |
+| vaquarkhan/microservices-recipes-a-free-gitbook | unknown | github_latest_release_missing | [open](../records/pattern-language-vaquarkhan-microservices-recipes-a-free-gitbook-fe8fd71a.md) |
 
 ## PHP
 
@@ -893,7 +905,7 @@ Records: `790`
 | berlindb/core | 3.0.0 | 2026-05-28T15:34:50+00:00 | [open](../records/php-berlindb-core-b69b9ce2.md) |
 | betterapp/laravel-db-encrypter | v5.0.0 | 2025-03-09T07:37:41+00:00 | [open](../records/php-betterapp-laravel-db-encrypter-20e043c7.md) |
 | desarrolla2/cache | v2.1.3 | 2023-05-04T15:02:07+00:00 | [open](../records/php-desarrolla2-cache-914991d8.md) |
-| doctrine/mongodb-odm | 2.16.3 | 2026-07-09T13:15:55+00:00 | [open](../records/php-doctrine-mongodb-odm-6070bed1.md) |
+| doctrine/mongodb-odm | 2.17.0 | 2026-09-01T10:03:58+00:00 | [open](../records/php-doctrine-mongodb-odm-6070bed1.md) |
 | ergebnis/composer-normalize | 2.52.0 | 2026-05-15T15:39:30+00:00 | [open](../records/php-ergebnis-composer-normalize-663e0436.md) |
 | ergebnis/json | 1.6.0 | 2025-09-06T09:09:08+00:00 | [open](../records/php-ergebnis-json-08febff2.md) |
 | ergebnis/json-normalizer | 4.10.1 | 2025-09-06T09:18:29+00:00 | [open](../records/php-ergebnis-json-normalizer-f3f0ebe9.md) |
@@ -909,12 +921,24 @@ Records: `790`
 | --- | --- | --- | --- |
 | Compiling Rust to WebAssembly Guide (2017) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-compiling-rust-to-webassembly-guide-2017-e1bb57b7.md) |
 | Developer's Guide | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-developer-s-guide-17601a2c.md) |
+| pyodide/pyodide | 314.0.6 | 2026-08-25T07:00:15Z | [open](../records/webassembly-pyodide-pyodide-d60e944c.md) |
+| raysan5/raylib | 6.0 | 2026-04-23T09:55:57Z | [open](../records/webassembly-raysan5-raylib-e4097ab4.md) |
+| rhysd/vim.wasm | wasm-0.0.13 | 2019-12-30T10:11:13Z | [open](../records/webassembly-rhysd-vim-wasm-f16b1e8a.md) |
 
 ## SAPJava
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| advaitsfit/incident-management-cap-java | unknown | not_a_maven_coordinate | [open](../records/sapjava-advaitsfit-incident-management-cap-java-09a797bb.md) |
+| Arthur-Liu-boop/CAP_JAVA | unknown | not_a_maven_coordinate | [open](../records/sapjava-arthur-liu-boop-cap-java-aa3196a2.md) |
+| cabralbrcwb/incident-management | unknown | not_a_maven_coordinate | [open](../records/sapjava-cabralbrcwb-incident-management-70ceff1c.md) |
+| cap-java/cds-ai | 0.0.2-alpha | 2026-08-27T14:27:56Z | [open](../records/sapjava-cap-java-cds-ai-9b69a547.md) |
+| ckyycc/hana-topology-editor | V1.00.00 | 2019-10-27T05:39:13Z | [open](../records/sapjava-ckyycc-hana-topology-editor-d8045f61.md) |
 | com.sap.cds:cds-feature-identity | 3.10.1 | 2025-05-16T11:26:35+00:00 | [open](../records/sapjava-com-sap-cds-cds-feature-identity-d9b992ff.md) |
+| jcombs-pointblue/SAP_Hana_Collector | v1.0.0 | 2026-04-23T15:19:53Z | [open](../records/sapjava-jcombs-pointblue-sap-hana-collector-17b6fe41.md) |
+| SAP/java-integration-for-sap-mobile-services | v0.7.0 | 2023-08-07T08:54:14Z | [open](../records/sapjava-sap-java-integration-for-sap-mobile-services-1a48c7a1.md) |
+| shiAraki/incident-management_CF-to-Java | unknown | not_a_maven_coordinate | [open](../records/sapjava-shiaraki-incident-management-cf-to-java-ef08d60a.md) |
+| tekaha/saphanaacademy-tinyworld | unknown | not_a_maven_coordinate | [open](../records/sapjava-tekaha-saphanaacademy-tinyworld-b7de04a7.md) |
 
 ## Swift
 
@@ -925,12 +949,15 @@ Records: `790`
 | API Design Guidelines | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-api-design-guidelines-414cc7a0.md) |
 | Apple eBook | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-apple-ebook-f37f8153.md) |
 | Conferences.digital | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-conferences-digital-f87b2858.md) |
+| daprice/iOS-Tactile-Slider | 3.0.0 | 2021-08-21T00:14:57Z | [open](../records/swift-daprice-ios-tactile-slider-619cec50.md) |
 | Developing iOS Apps with Swift | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-developing-ios-apps-with-swift-8b66c652.md) |
 | Hacking With Swift | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-hacking-with-swift-4e5fda53.md) |
 | Introducing SwiftUI | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-introducing-swiftui-186425da.md) |
 | LinkedIn | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-linkedin-6ffadedf.md) |
 | Ray Wenderlich Tutorials, Videos, Podcasts and books | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-ray-wenderlich-tutorials-videos-podcasts-and-books-2b3a68af.md) |
 | Raywenderlich | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-raywenderlich-b3948c7d.md) |
+| sanzaru/SimpleToast | partial | 2026-02-14T17:26:06Z | [open](../records/swift-sanzaru-simpletoast-1145da94.md) |
+| spacenation/swiftui-sliders | partial | 2025-08-01T18:08:20Z | [open](../records/swift-spacenation-swiftui-sliders-3c2bf396.md) |
 | Spin | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-spin-fcbc44bd.md) |
 | Swift & SwiftUI Tutorials | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-swift-swiftui-tutorials-fabbb0ce.md) |
 | Swift Education | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-swift-education-5c1a6130.md) |
