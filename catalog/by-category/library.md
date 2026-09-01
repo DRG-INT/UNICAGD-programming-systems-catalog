@@ -1,6 +1,6 @@
 # Library
 
-Records: `3015`
+Records: `3146`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `3015`
 
 ## Category Index
 
-[Api Abi Checker (93)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
-[Benchmarking (58)](benchmarking.md) · [Build System (482)](build-system.md) · [Cli (420)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (55)](community-reference.md) · [Compiler (106)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (32)](compression.md)
-[Concurrency Parallelism (59)](concurrency-parallelism.md) · [Configuration (60)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (125)](cryptography.md) · [Data Science (26)](data-science.md) · [Database Datastore (426)](database-datastore.md) · [Datetime (69)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (32)](debugger.md) · [Dependency Manager (56)](dependency-manager.md) · [Documentation (52)](documentation.md)
-[Embedded Hardware (21)](embedded-hardware.md) · [Ffi Bindings (290)](ffi-bindings.md) · [Filesystem Os (423)](filesystem-os.md) · [Formatter (393)](formatter.md)
-[Framework (27)](framework.md) · [Fuzzer (19)](fuzzer.md) · [Game Engine Game Dev (85)](game-engine-game-dev.md) · [Ide Editor Integration (554)](ide-editor-integration.md)
-[Image Audio Dsp (88)](image-audio-dsp.md) · [Interop Bindings (43)](interop-bindings.md) · [Interpreter Runtime (111)](interpreter-runtime.md) · [Jit Vm (50)](jit-vm.md)
-[Language Server (20)](language-server.md) · [Language Specification (572)](language-specification.md) · **[Library (3015)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (31)](lint-rule-pack.md) · [Linter (326)](linter.md) · [Logging Observability (216)](logging-observability.md) · [Machine Learning (306)](machine-learning.md)
-[Math Numeric Scientific (68)](math-numeric-scientific.md) · [Memory Analyzer (51)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (632)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (156)](package-manager.md) · [Parser Lexer Ast (480)](parser-lexer-ast.md) · [Precommit Ci Quality (160)](precommit-ci-quality.md)
-[Profiler (51)](profiler.md) · [Project Scaffolding (68)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (6)](sanitizer.md)
-[Security Sast (247)](security-sast.md) · [Serialization (266)](serialization.md) · [Standard Library (21)](standard-library.md) · [Static Analyzer (203)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (401)](testing-framework.md) · [Tutorial Book Styleguide (32)](tutorial-book-styleguide.md) · [Type Checker (238)](type-checker.md)
-[Undefined Behavior Analyzer (446)](undefined-behavior-analyzer.md) · [Utility Library (68)](utility-library.md) · [Visualization Gui (222)](visualization-gui.md) · [Web Framework (277)](web-framework.md)
+[Api Abi Checker (100)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
+[Benchmarking (64)](benchmarking.md) · [Build System (503)](build-system.md) · [Cli (431)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (61)](community-reference.md) · [Compiler (107)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (34)](compression.md)
+[Concurrency Parallelism (61)](concurrency-parallelism.md) · [Configuration (64)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (127)](cryptography.md) · [Data Science (26)](data-science.md) · [Database Datastore (428)](database-datastore.md) · [Datetime (86)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (57)](dependency-manager.md) · [Documentation (57)](documentation.md)
+[Embedded Hardware (34)](embedded-hardware.md) · [Ffi Bindings (307)](ffi-bindings.md) · [Filesystem Os (544)](filesystem-os.md) · [Formatter (416)](formatter.md)
+[Framework (31)](framework.md) · [Fuzzer (20)](fuzzer.md) · [Game Engine Game Dev (93)](game-engine-game-dev.md) · [Ide Editor Integration (657)](ide-editor-integration.md)
+[Image Audio Dsp (116)](image-audio-dsp.md) · [Interop Bindings (45)](interop-bindings.md) · [Interpreter Runtime (121)](interpreter-runtime.md) · [Jit Vm (51)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (586)](language-specification.md) · **[Library (3146)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (31)](lint-rule-pack.md) · [Linter (327)](linter.md) · [Logging Observability (231)](logging-observability.md) · [Machine Learning (333)](machine-learning.md)
+[Math Numeric Scientific (69)](math-numeric-scientific.md) · [Memory Analyzer (51)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (652)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (173)](package-manager.md) · [Parser Lexer Ast (560)](parser-lexer-ast.md) · [Precommit Ci Quality (163)](precommit-ci-quality.md)
+[Profiler (52)](profiler.md) · [Project Scaffolding (74)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (7)](sanitizer.md)
+[Security Sast (250)](security-sast.md) · [Serialization (268)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (245)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (407)](testing-framework.md) · [Tutorial Book Styleguide (34)](tutorial-book-styleguide.md) · [Type Checker (248)](type-checker.md)
+[Undefined Behavior Analyzer (615)](undefined-behavior-analyzer.md) · [Utility Library (73)](utility-library.md) · [Visualization Gui (240)](visualization-gui.md) · [Web Framework (285)](web-framework.md)
 
 ## C99
 
@@ -2538,6 +2538,7 @@ Records: `3015`
 | deli | 0.1.0 | 2026-08-28 09:40:02 UTC | [open](../records/r-deli-81ac1128.md) |
 | dendroextras | 0.2.4 | 2026-08-24 05:20:24 UTC | [open](../records/r-dendroextras-9d022229.md) |
 | depmixS4 | 1.5-4 | 2026-08-24 13:40:19 UTC | [open](../records/r-depmixs4-caaa5fe0.md) |
+| detect | 0.5-2 | 2026-09-01 07:30:02 UTC | [open](../records/r-detect-8412dfa1.md) |
 | dgraphs | 0.2.0 | 2026-08-31 23:10:10 UTC | [open](../records/r-dgraphs-81082d45.md) |
 | diceR | 3.2.0 | 2026-08-25 05:20:47 UTC | [open](../records/r-dicer-f2856510.md) |
 | diegr | 0.3.1 | 2026-08-21 05:44:05 UTC | [open](../records/r-diegr-360aa032.md) |
@@ -2631,6 +2632,7 @@ Records: `3015`
 | mstudentd | 1.1.5 | 2026-08-25 15:00:02 UTC | [open](../records/r-mstudentd-7596aedf.md) |
 | mulgar | 1.0.8 | 2026-08-31 15:30:02 UTC | [open](../records/r-mulgar-9b9617c4.md) |
 | musclesyneRgies | 1.3.1 | 2026-08-26 09:00:10 UTC | [open](../records/r-musclesynergies-5b82c586.md) |
+| NHANES | 2.1.4 | 2026-09-01 08:00:08 UTC | [open](../records/r-nhanes-0e00e861.md) |
 | nhanesR | 0.1.6 | 2026-08-25 11:00:37 UTC | [open](../records/r-nhanesr-f61aeaed.md) |
 | nimble | 1.4.3 | 2026-08-22 04:30:10 UTC | [open](../records/r-nimble-55bf7876.md) |
 | nmfkc | 0.9.6 | 2026-08-25 11:00:24 UTC | [open](../records/r-nmfkc-03f45a99.md) |
@@ -2643,9 +2645,11 @@ Records: `3015`
 | overlapping | 2.5 | 2026-08-30 09:30:02 UTC | [open](../records/r-overlapping-8708a39f.md) |
 | PanelSelect | 1.0.1 | 2026-08-27 05:10:46 UTC | [open](../records/r-panelselect-c72ae5ba.md) |
 | party | 1.3-23 | 2026-08-31 22:00:26 UTC | [open](../records/r-party-c30bb407.md) |
+| pbapply | 1.7-5 | 2026-09-01 08:20:12 UTC | [open](../records/r-pbapply-449da90d.md) |
 | pCalibrate | 0.2-2 | 2026-08-26 20:40:03 UTC | [open](../records/r-pcalibrate-9dc2969a.md) |
 | phonics | 1.4.0 | 2026-08-23 11:20:08 UTC | [open](../records/r-phonics-4c3448f6.md) |
 | pizzarr | 0.2.1 | 2026-08-22 17:10:02 UTC | [open](../records/r-pizzarr-646f3135.md) |
+| poisFErobust | 2.0.1 | 2026-09-01 07:20:02 UTC | [open](../records/r-poisferobust-16b12538.md) |
 | polarzonoid | 0.4-0 | 2026-08-22 04:30:02 UTC | [open](../records/r-polarzonoid-729ef14a.md) |
 | pre | 1.1.0 | 2026-08-31 22:10:06 UTC | [open](../records/r-pre-14669e77.md) |
 | pROC | 1.19.1 | 2026-08-27 10:00:02 UTC | [open](../records/r-proc-67a5d446.md) |
@@ -2674,6 +2678,7 @@ Records: `3015`
 | semFromKeys | 0.5.2 | 2026-08-22 06:40:02 UTC | [open](../records/r-semfromkeys-de1ad150.md) |
 | seqmagick | 0.1.9 | 2026-08-30 06:30:02 UTC | [open](../records/r-seqmagick-7853840d.md) |
 | SEQTaRget | 1.4.4 | 2026-08-28 07:50:02 UTC | [open](../records/r-seqtarget-050f7cdd.md) |
+| SeuratExplorer | 0.1.8 | 2026-09-01 07:20:07 UTC | [open](../records/r-seuratexplorer-6311b262.md) |
 | sgee | 0.6-2 | 2026-08-31 19:50:02 UTC | [open](../records/r-sgee-9edd0ee9.md) |
 | SimDesign | 2.27 | 2026-08-30 05:10:45 UTC | [open](../records/r-simdesign-bfe4dc5d.md) |
 | sims | 0.0.5 | 2026-08-25 21:20:02 UTC | [open](../records/r-sims-43649431.md) |
@@ -2802,7 +2807,7 @@ Records: `3015`
 | pandoc | 3.11 | 2026-08-29T00:42:25Z | [open](../records/haskell-pandoc-53522543.md) |
 | persistent | 2.18.1.0 | 2026-01-14T23:05:56Z | [open](../records/haskell-persistent-9b1724c4.md) |
 | persistent-mongoDB | 2.13.1.0 | 2024-09-13T15:11:56Z | [open](../records/haskell-persistent-mongodb-24599212.md) |
-| phino | 0.0.111 | 2026-09-01T06:20:40Z | [open](../records/haskell-phino-0ffa79f2.md) |
+| phino | 0.0.112 | 2026-09-01T08:00:52Z | [open](../records/haskell-phino-0ffa79f2.md) |
 | purescript | 0.15.15 | 2024-02-07T18:36:40Z | [open](../records/haskell-purescript-f9558133.md) |
 | rattletrap | 14.1.4 | 2025-08-06T02:51:58Z | [open](../records/haskell-rattletrap-0b4d8210.md) |
 | reanimate | 1.1.6.0 | 2022-06-02T18:10:09Z | [open](../records/haskell-reanimate-9ff9ec55.md) |
@@ -2916,10 +2921,14 @@ Records: `3015`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | bitbucket.org/itotcca/the-situation | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-bitbucket-org-itotcca-the-situation-6e1a8aba.md) |
+| codeberg.org/go-hep/hep.git | v0.27.0 | 2026-08-30T10:55:18.161122Z | [open](../records/go-codeberg-org-go-hep-hep-git-29878e71.md) |
+| gitee.com/mirrors/cpython.git | v3.4.7+incompatible | 2026-08-30T10:57:14.17359Z | [open](../records/go-gitee-com-mirrors-cpython-git-93bf4b1f.md) |
 | gitee.com/mirrors_sendgrid/sendgrid-java | v3.0.6+incompatible | 2026-08-30T10:10:27.022297Z | [open](../records/go-gitee-com-mirrors-sendgrid-sendgrid-java-40cef1c3.md) |
 | gitlab.com/umbrellazone/smartacme | v1.0.9 | 2026-08-30T10:07:20.216337Z | [open](../records/go-gitlab-com-umbrellazone-smartacme-de305f20.md) |
 | go.cozymore.dev/krkstops | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-go-cozymore-dev-krkstops-34ccbe5a.md) |
+| go.gary.cool/go-stockutil | v1.8.59 | 2026-08-30T10:54:22.160144Z | [open](../records/go-go-gary-cool-go-stockutil-dd0c06ad.md) |
 | go.ytsaurus.tech/yt/admin/timbertruck | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-go-ytsaurus-tech-yt-admin-timbertruck-8ce375d8.md) |
+| sigs.k8s.io/Controller-Tools | v0.8.0 | 2026-08-30T10:55:32.392877Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 
 ## Space Engines
 
@@ -2980,62 +2989,213 @@ Records: `3015`
 | weasdown/gmat-shuttle-docking | unknown | github_latest_release_missing | [open](../records/space-shuttles-weasdown-gmat-shuttle-docking-f30c149a.md) |
 | weasdown/shuttle-rescue | unknown | github_latest_release_missing | [open](../records/space-shuttles-weasdown-shuttle-rescue-126f5866.md) |
 
+## Photography
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| bmachek/lrc-immich-plugin | unknown | github_search_does_not_include_release_date | [open](../records/photography-bmachek-lrc-immich-plugin-1ff1bb8b.md) |
+| emorydunn/CaptureOneScripts | unknown | github_search_does_not_include_release_date | [open](../records/photography-emorydunn-captureonescripts-117cd952.md) |
+| evildmp/C-is-for-Camera | unknown | github_search_does_not_include_release_date | [open](../records/photography-evildmp-c-is-for-camera-489207b3.md) |
+| gilbitron/Splashify | unknown | github_search_does_not_include_release_date | [open](../records/photography-gilbitron-splashify-82147992.md) |
+| huangsam/photohaul | unknown | github_search_does_not_include_release_date | [open](../records/photography-huangsam-photohaul-1391b651.md) |
+| meiu/meiupic | unknown | github_search_does_not_include_release_date | [open](../records/photography-meiu-meiupic-d61ca921.md) |
+| philipptrenz/photo-booth | unknown | github_search_does_not_include_release_date | [open](../records/photography-philipptrenz-photo-booth-ea2ebbf9.md) |
+| t3mujinpack/t3mujinpack | unknown | github_search_does_not_include_release_date | [open](../records/photography-t3mujinpack-t3mujinpack-05d88258.md) |
+
+## Microscopy
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| BodenmillerGroup/imctools | v2.1.8 | 2021-09-12T20:12:53Z | [open](../records/microscopy-bodenmillergroup-imctools-751b7c0c.md) |
+| tlnagy/OMETIFF.jl | v0.4.5 | 2024-04-01T20:49:37Z | [open](../records/microscopy-tlnagy-ometiff-jl-cec7b6f6.md) |
+
+## Telescopes
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| GR3YH4TT3R93/dotfiles | unknown | github_latest_release_missing | [open](../records/telescopes-gr3yh4tt3r93-dotfiles-2a81d246.md) |
+| MITHaystack/srt-py | v1.1.0 | 2023-03-17T19:16:17Z | [open](../records/telescopes-mithaystack-srt-py-1ec91517.md) |
+| synfinatic/alpacascope | v2.4.1 | 2024-07-09T19:42:07Z | [open](../records/telescopes-synfinatic-alpacascope-e4f80071.md) |
+| tmolteno/TART | v2.1 | 2020-09-14T21:43:54Z | [open](../records/telescopes-tmolteno-tart-8a3c3343.md) |
+| zkwlx/DroidTelescope | unknown | github_latest_release_missing | [open](../records/telescopes-zkwlx-droidtelescope-316d3546.md) |
+
+## Radars
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| acconeer/acconeer-python-exploration | unknown | github_latest_release_missing | [open](../records/radars-acconeer-acconeer-python-exploration-c570151f.md) |
+| bopen/xarray-sentinel | v0.9.6 | 2026-06-22T22:45:09Z | [open](../records/radars-bopen-xarray-sentinel-d49585c9.md) |
+| dpaulat/supercell-wx | v0.6.1-release | 2026-07-19T19:54:27Z | [open](../records/radars-dpaulat-supercell-wx-216e49cf.md) |
+| earthobservations/wetterdienst | app-v0.14.1 | 2026-08-31T21:07:26Z | [open](../records/radars-earthobservations-wetterdienst-4494a41f.md) |
+| erikliland/pyMHT | 2.0 | 2017-06-09T08:52:17Z | [open](../records/radars-erikliland-pymht-6bcd5586.md) |
+| ethanhuang13/ladybug | v1.2.2 | 2018-09-21T09:40:03Z | [open](../records/radars-ethanhuang13-ladybug-9ff29291.md) |
+| feedback-assistant/reports | unknown | github_latest_release_missing | [open](../records/radars-feedback-assistant-reports-4bc463b2.md) |
+| HamzaGhazouani/HGRippleRadarView | 0.1.1 | 2018-01-30T17:01:39Z | [open](../records/radars-hamzaghazouani-hgrippleradarview-02e426a9.md) |
+| hi-paris/deepdespeckling | v0.4 | 2024-04-09T14:40:15Z | [open](../records/radars-hi-paris-deepdespeckling-121ce4f7.md) |
+| hunterlew/mstar_deeplearning_project | unknown | github_latest_release_missing | [open](../records/radars-hunterlew-mstar-deeplearning-project-f2f00b72.md) |
+| hust201010701/XRadarView | unknown | github_latest_release_missing | [open](../records/radars-hust201010701-xradarview-d96f7593.md) |
+| jeanboydev/Android-RadarView | unknown | github_latest_release_missing | [open](../records/radars-jeanboydev-android-radarview-7a9e46b6.md) |
+| JordanSchlick/OpenStorm | 1.4.0 | 2023-11-15T07:05:23Z | [open](../records/radars-jordanschlick-openstorm-f8a3d11d.md) |
+| keenan-burnett/yeti_radar_odometry | unknown | github_latest_release_missing | [open](../records/radars-keenan-burnett-yeti-radar-odometry-e98bb6ab.md) |
+| kleok/FLOODPY | v_Oct_2024 | 2024-10-12T13:39:43Z | [open](../records/radars-kleok-floodpy-de98226d.md) |
+| lexogrine/csgo-react-hud | v2.5.2 | 2023-06-28T12:52:35Z | [open](../records/radars-lexogrine-csgo-react-hud-871ef2df.md) |
+| Marksman007577/Autonomous-Drive | unknown | github_latest_release_missing | [open](../records/radars-marksman007577-autonomous-drive-b586becf.md) |
+| moienr/TemporalGAN | unknown | github_latest_release_missing | [open](../records/radars-moienr-temporalgan-ffcc19f2.md) |
+| ngageoint/sarpy_apps | v1.1.26 | 2025-06-06T15:32:40Z | [open](../records/radars-ngageoint-sarpy-apps-53476eab.md) |
+| Nouuu/Albion-Online-OpenRadar | 2.2.3 | 2026-08-14T15:36:13Z | [open](../records/radars-nouuu-albion-online-openradar-04ea3acd.md) |
+| ntnu-arl/lidar_degeneracy_datasets | unknown | github_latest_release_missing | [open](../records/radars-ntnu-arl-lidar-degeneracy-datasets-f90e3fc8.md) |
+| odhondt/eo_tools | 2026.6.0 | 2026-06-07T19:18:56Z | [open](../records/radars-odhondt-eo-tools-bf024141.md) |
+| open-flight/openflight | unknown | github_latest_release_missing | [open](../records/radars-open-flight-openflight-76c154cb.md) |
+| opencpn-radar-pi/radar_pi | v5.5.0-beta | 2023-03-07T23:06:41Z | [open](../records/radars-opencpn-radar-pi-radar-pi-bfe54946.md) |
+| openradar/xradar | v0.12.0 | 2026-04-21T12:52:39Z | [open](../records/radars-openradar-xradar-fcfe7f38.md) |
+| PatrickTUM/SEN12MS-CR-TS | unknown | github_latest_release_missing | [open](../records/radars-patricktum-sen12ms-cr-ts-b82b98a6.md) |
+| polsartools/polsartools | 0.12.1 | 2026-06-18T02:32:04Z | [open](../records/radars-polsartools-polsartools-6851bcf5.md) |
+| Project-MANAS/ars_40X | unknown | github_latest_release_missing | [open](../records/radars-project-manas-ars-40x-9d54c780.md) |
+| Research-and-Project/mmWave_radar_tracking | unknown | github_latest_release_missing | [open](../records/radars-research-and-project-mmwave-radar-tracking-93627252.md) |
+| SAR-ARD/s1ard | v2.12.0 | 2026-04-21T09:58:06Z | [open](../records/radars-sar-ard-s1ard-a9db69ca.md) |
+| senbox-org/s1tbx | 9.0.3 | 2023-03-10T02:38:09Z | [open](../records/radars-senbox-org-s1tbx-186609d3.md) |
+| SourLen/Python-CSGO-Cheat | CSGO-Cheat-Python | 2022-07-19T21:24:18Z | [open](../records/radars-sourlen-python-csgo-cheat-b82ba10b.md) |
+| uncle-yura/esphome-ld2450 | unknown | github_latest_release_missing | [open](../records/radars-uncle-yura-esphome-ld2450-153b0a78.md) |
+| utiasASRL/hero_radar_odometry | unknown | github_latest_release_missing | [open](../records/radars-utiasasrl-hero-radar-odometry-1bc544a9.md) |
+| vbguyny/ws4kp | unknown | github_latest_release_missing | [open](../records/radars-vbguyny-ws4kp-dcbe59db.md) |
+| waterdisappear/SAR-JEPA | unknown | github_latest_release_missing | [open](../records/radars-waterdisappear-sar-jepa-5da295f9.md) |
+| waterdisappear/SARATR-X | unknown | github_latest_release_missing | [open](../records/radars-waterdisappear-saratr-x-8b96d353.md) |
+| wradlib/wradlib | 2.9.5 | 2026-07-15T07:01:20Z | [open](../records/radars-wradlib-wradlib-9f5a29a2.md) |
+
+## SatCom Satellites
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| Alexgichamba/sat-rf-sim | unknown | github_latest_release_missing | [open](../records/satcom-satellites-alexgichamba-sat-rf-sim-aa36e263.md) |
+| BitBangingBytes/gr-smart_meters | unknown | github_latest_release_missing | [open](../records/satcom-satellites-bitbangingbytes-gr-smart-meters-4a6e02bf.md) |
+| blaylockbk/goes2go | 2025.10.0 | 2025-10-17T03:41:04Z | [open](../records/satcom-satellites-blaylockbk-goes2go-6d604dc4.md) |
+| btfz-sdr/gnuradio_demo | unknown | github_latest_release_missing | [open](../records/satcom-satellites-btfz-sdr-gnuradio-demo-1b296ec6.md) |
+| csete/gpredict | v2.6 | 2026-08-16T14:09:25Z | [open](../records/satcom-satellites-csete-gpredict-00041760.md) |
+| DahnJ/EO-jobs | unknown | github_latest_release_missing | [open](../records/satcom-satellites-dahnj-eo-jobs-976e2c28.md) |
+| daniestevez/gr-satellites | v5.9.0 | 2025-12-14T08:56:50Z | [open](../records/satcom-satellites-daniestevez-gr-satellites-e33d9ffc.md) |
+| FlorentF9/SatelliteSimulator | unknown | github_latest_release_missing | [open](../records/satcom-satellites-florentf9-satellitesimulator-bfc3ba79.md) |
+| GeoTIFF/geotiff.io | unknown | github_latest_release_missing | [open](../records/satcom-satellites-geotiff-geotiff-io-083eda43.md) |
+| gnss-sdr/gnss-sdr | v0.0.21 | 2026-04-14T07:48:58Z | [open](../records/satcom-satellites-gnss-sdr-gnss-sdr-fc6d38a6.md) |
+| gqrx-sdr/gqrx | v2.17.7 | 2025-05-27T22:42:58Z | [open](../records/satcom-satellites-gqrx-sdr-gqrx-b09cf7a9.md) |
+| greatscottgadgets/gr-bluetooth | unknown | github_latest_release_missing | [open](../records/satcom-satellites-greatscottgadgets-gr-bluetooth-749a1444.md) |
+| hi-paris/deepdespeckling | v0.4 | 2024-04-09T14:40:15Z | [open](../records/satcom-satellites-hi-paris-deepdespeckling-43752fb5.md) |
+| igorauad/gr-dvbs2rx | 1.4.0 | 2023-12-01T23:24:14Z | [open](../records/satcom-satellites-igorauad-gr-dvbs2rx-f8d2fcf3.md) |
+| kscottz/PythonFromSpace | unknown | github_latest_release_missing | [open](../records/satcom-satellites-kscottz-pythonfromspace-762715ec.md) |
+| lloda/prop-618 | unknown | github_latest_release_missing | [open](../records/satcom-satellites-lloda-prop-618-ea3a5a71.md) |
+| mapbox/mbutil | unknown | github_latest_release_missing | [open](../records/satcom-satellites-mapbox-mbutil-070c5b53.md) |
+| mapbox/mercantile | 1.2.1 | 2021-10-22T20:13:31Z | [open](../records/satcom-satellites-mapbox-mercantile-4443a8d8.md) |
+| mapbox/pyskel | unknown | github_latest_release_missing | [open](../records/satcom-satellites-mapbox-pyskel-f08672d2.md) |
+| mapbox/supermercado | unknown | github_latest_release_missing | [open](../records/satcom-satellites-mapbox-supermercado-af3630f0.md) |
+| mgp25/OpenLTE | unknown | github_latest_release_missing | [open](../records/satcom-satellites-mgp25-openlte-d8c46992.md) |
+| muccc/gr-iridium | v1.0.0 | 2022-04-30T20:03:18Z | [open](../records/satcom-satellites-muccc-gr-iridium-7a8d0ed9.md) |
+| OpenSatKit/OpenSatKit | v2.2.1 | 2020-08-20T16:21:58Z | [open](../records/satcom-satellites-opensatkit-opensatkit-5cd2d22e.md) |
+| PatrickTUM/SEN12MS-CR-TS | unknown | github_latest_release_missing | [open](../records/satcom-satellites-patricktum-sen12ms-cr-ts-5c0952ab.md) |
+| pytroll/satpy | v0.60.0 | 2026-03-04T14:45:49Z | [open](../records/satcom-satellites-pytroll-satpy-9a896b49.md) |
+| robintw/Py6S | unknown | github_latest_release_missing | [open](../records/satcom-satellites-robintw-py6s-607064f7.md) |
+| rt-bishop/Look4Sat | v4.4.6 | 2026-08-13T07:56:23Z | [open](../records/satcom-satellites-rt-bishop-look4sat-0d14c7cd.md) |
+| SatDump/SatDump | 1.2.2 | 2024-11-29T15:56:47Z | [open](../records/satcom-satellites-satdump-satdump-2cfd412f.md) |
+| trishmapow/rf-jam-replay | unknown | github_latest_release_missing | [open](../records/satcom-satellites-trishmapow-rf-jam-replay-654ac757.md) |
+| TrunkRecorder/trunk-recorder | v5.2.1 | 2026-04-08T02:03:57Z | [open](../records/satcom-satellites-trunkrecorder-trunk-recorder-7832a301.md) |
+| Viva525/Cesium-Satellite | unknown | github_latest_release_missing | [open](../records/satcom-satellites-viva525-cesium-satellite-4b64584e.md) |
+| yanxian-ll/GS-SR | unknown | github_latest_release_missing | [open](../records/satcom-satellites-yanxian-ll-gs-sr-4da75cd1.md) |
+
+## Electromagnetoscopes
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| AlbrechtL/welle.io | v2.7 | 2025-03-16T21:48:49Z | [open](../records/electromagnetoscopes-albrechtl-welle-io-1ed8e849.md) |
+| BruceDevices/firmware | 1.16.1 | 2026-08-11T16:36:36Z | [open](../records/electromagnetoscopes-brucedevices-firmware-7d55bbf4.md) |
+| Bttstrp/bootstrap-switch | v3.3.4 | 2017-02-25T18:30:41Z | [open](../records/electromagnetoscopes-bttstrp-bootstrap-switch-c4659979.md) |
+| cariboulabs/cariboulite | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-cariboulabs-cariboulite-b5f93f28.md) |
+| codyd51/gypsum | 1.0 | 2024-04-13T21:44:06Z | [open](../records/electromagnetoscopes-codyd51-gypsum-e23d7a76.md) |
+| daniestevez/gr-satellites | v5.9.0 | 2025-12-14T08:56:50Z | [open](../records/electromagnetoscopes-daniestevez-gr-satellites-11887e4d.md) |
+| dslotter/HamPi | 3.0 | 2022-05-30T00:14:43Z | [open](../records/electromagnetoscopes-dslotter-hampi-80a99ee9.md) |
+| EdgeTX/edgetx | v2.12.3 | 2026-08-29T22:52:23Z | [open](../records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) |
+| eldraco/Salamandra | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-eldraco-salamandra-ba7bbc86.md) |
+| fanmingming/live | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
+| fooyin/fooyin | v0.12.6 | 2026-08-23T00:38:29Z | [open](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) |
+| git-artes/gr-tempest | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-git-artes-gr-tempest-b9f52116.md) |
+| gnss-sdr/gnss-sdr | v0.0.21 | 2026-04-14T07:48:58Z | [open](../records/electromagnetoscopes-gnss-sdr-gnss-sdr-1128bbcc.md) |
+| gnuradio/volk | v3.3.0 | 2026-02-08T15:55:16Z | [open](../records/electromagnetoscopes-gnuradio-volk-04fc44e6.md) |
+| gqrx-sdr/gqrx | v2.17.7 | 2025-05-27T22:42:58Z | [open](../records/electromagnetoscopes-gqrx-sdr-gqrx-a55e0296.md) |
+| ha7ilm/openwebrx | 0.15 | 2017-05-11T09:01:50Z | [open](../records/electromagnetoscopes-ha7ilm-openwebrx-617a3b05.md) |
+| jks-prv/Beagle_SDR_GPS | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-jks-prv-beagle-sdr-gps-fd8f8388.md) |
+| junguler/m3u-radio-music-playlists | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-junguler-m3u-radio-music-playlists-309a3992.md) |
+| Kopuz-org/kopuz | v0.16.1 | 2026-08-26T12:12:24Z | [open](../records/electromagnetoscopes-kopuz-org-kopuz-a5fa7420.md) |
+| markqvist/RNode_Firmware | 1.86 | 2026-04-24T08:52:27Z | [open](../records/electromagnetoscopes-markqvist-rnode-firmware-6437b772.md) |
+| mgp25/OpenLTE | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-mgp25-openlte-fd84bffb.md) |
+| muccc/gr-iridium | v1.0.0 | 2022-04-30T20:03:18Z | [open](../records/electromagnetoscopes-muccc-gr-iridium-826df89e.md) |
+| open-sdr/openwifi | v1.5.0 | 2025-08-06T19:27:33Z | [open](../records/electromagnetoscopes-open-sdr-openwifi-80c00ff2.md) |
+| OpenRTX/OpenRTX | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-openrtx-openrtx-82481c7a.md) |
+| pavel-demin/red-pitaya-notes | 20251012 | 2025-10-12T19:04:31Z | [open](../records/electromagnetoscopes-pavel-demin-red-pitaya-notes-00d5e113.md) |
+| pbkhrv/rtl_433-hass-addons | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-pbkhrv-rtl-433-hass-addons-cc86361b.md) |
+| portapack-mayhem/mayhem-firmware | v2.4.0 | 2026-03-24T09:54:49Z | [open](../records/electromagnetoscopes-portapack-mayhem-mayhem-firmware-cb62b83c.md) |
+| rt-bishop/Look4Sat | v4.4.6 | 2026-08-13T07:56:23Z | [open](../records/electromagnetoscopes-rt-bishop-look4sat-dfffa481.md) |
+| SatDump/SatDump | 1.2.2 | 2024-11-29T15:56:47Z | [open](../records/electromagnetoscopes-satdump-satdump-fdc13054.md) |
+| segler-alex/RadioDroid | 0.86 | 2023-09-28T20:29:41Z | [open](../records/electromagnetoscopes-segler-alex-radiodroid-e99cfdba.md) |
+| TLeconte/acarsdec | acarsdec-3.7 | 2022-08-04T20:03:42Z | [open](../records/electromagnetoscopes-tleconte-acarsdec-cdab05ad.md) |
+| TrunkRecorder/trunk-recorder | v5.2.1 | 2026-04-08T02:03:57Z | [open](../records/electromagnetoscopes-trunkrecorder-trunk-recorder-9795e5f3.md) |
+| wiedehopf/readsb | partial | 2026-08-22T14:44:23Z | [open](../records/electromagnetoscopes-wiedehopf-readsb-9832c612.md) |
+| x-extends/vxe-table | partial | 2026-09-01T02:12:13Z | [open](../records/electromagnetoscopes-x-extends-vxe-table-514497aa.md) |
+| xaelsouth/rtl-wmbus | partial | 2026-05-31T04:54:41Z | [open](../records/electromagnetoscopes-xaelsouth-rtl-wmbus-c5bb74ea.md) |
+| Xinyuan-LilyGO/LilyGo-LoRa-Series | partial | 2026-08-28T02:48:29Z | [open](../records/electromagnetoscopes-xinyuan-lilygo-lilygo-lora-series-77327c59.md) |
+
 ## Radio Garden Speciality
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| radio-garden/react-native-audio-browser | v0.2.0 | 2026-08-12T12:34:36Z | [open](../records/radio-garden-speciality-radio-garden-react-native-audio-browser-13adea36.md) |
+| radio-garden/react-native-audio-browser | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/radio-garden-speciality-radio-garden-react-native-audio-browser-13adea36.md) |
 
 ## Assembly
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| 0xAX/asm | v1.0.1 | 2026-08-25T10:09:33Z | [open](../records/assembly-0xax-asm-c781f702.md) |
-| badamczewski/PowerUp | unknown | github_latest_release_missing | [open](../records/assembly-badamczewski-powerup-798e7cfd.md) |
-| cyrus-and/gdb-dashboard | unknown | github_latest_release_missing | [open](../records/assembly-cyrus-and-gdb-dashboard-ef48ce45.md) |
-| gurugio/lowlevelprogramming-university | unknown | github_latest_release_missing | [open](../records/assembly-gurugio-lowlevelprogramming-university-485ace99.md) |
-| mattdibi/redox-keyboard | unknown | github_latest_release_missing | [open](../records/assembly-mattdibi-redox-keyboard-e1f3e991.md) |
-| MattPD/cpplinks | unknown | github_latest_release_missing | [open](../records/assembly-mattpd-cpplinks-29eb7bcc.md) |
-| mmcloughlin/avo | v0.6.0 | 2024-01-07T21:34:13Z | [open](../records/assembly-mmcloughlin-avo-46167d30.md) |
-| mohitmishra786/amILearningEnough | unknown | github_latest_release_missing | [open](../records/assembly-mohitmishra786-amilearningenough-299c3826.md) |
-| segmentio/asm | v1.2.0 | 2022-05-01T17:40:19Z | [open](../records/assembly-segmentio-asm-07cb5069.md) |
-| Stephane-D/SGDK | v2.11 | 2025-04-02T22:08:56Z | [open](../records/assembly-stephane-d-sgdk-bad539e3.md) |
-| vvaltchev/tilck | unknown | github_latest_release_missing | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
-| yrp604/rappel | unknown | github_latest_release_missing | [open](../records/assembly-yrp604-rappel-4bf787bb.md) |
+| 0xAX/asm | partial | 2026-08-25T10:24:56Z | [open](../records/assembly-0xax-asm-c781f702.md) |
+| badamczewski/PowerUp | partial | 2024-01-25T09:23:08Z | [open](../records/assembly-badamczewski-powerup-798e7cfd.md) |
+| cyrus-and/gdb-dashboard | partial | 2026-07-17T09:53:53Z | [open](../records/assembly-cyrus-and-gdb-dashboard-ef48ce45.md) |
+| gurugio/lowlevelprogramming-university | partial | 2025-03-24T11:49:58Z | [open](../records/assembly-gurugio-lowlevelprogramming-university-485ace99.md) |
+| mattdibi/redox-keyboard | partial | 2026-05-26T18:15:22Z | [open](../records/assembly-mattdibi-redox-keyboard-e1f3e991.md) |
+| MattPD/cpplinks | partial | 2026-09-01T03:03:56Z | [open](../records/assembly-mattpd-cpplinks-29eb7bcc.md) |
+| mmcloughlin/avo | partial | 2026-09-01T05:34:18Z | [open](../records/assembly-mmcloughlin-avo-46167d30.md) |
+| mohitmishra786/amILearningEnough | partial | 2026-03-26T16:42:23Z | [open](../records/assembly-mohitmishra786-amilearningenough-299c3826.md) |
+| segmentio/asm | partial | 2026-06-25T23:26:52Z | [open](../records/assembly-segmentio-asm-07cb5069.md) |
+| Stephane-D/SGDK | partial | 2026-08-17T08:47:30Z | [open](../records/assembly-stephane-d-sgdk-bad539e3.md) |
+| vvaltchev/tilck | partial | 2026-09-01T05:32:32Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
+| yrp604/rappel | partial | 2024-03-07T04:45:15Z | [open](../records/assembly-yrp604-rappel-4bf787bb.md) |
 
 ## Pattern language
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| 3lf/design-patterns-for-humans | unknown | github_latest_release_missing | [open](../records/pattern-language-3lf-design-patterns-for-humans-d62cf116.md) |
-| AlexanderGrom/go-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-alexandergrom-go-patterns-9ab1886f.md) |
-| aritraroy/PatternLockView | unknown | github_latest_release_missing | [open](../records/pattern-language-aritraroy-patternlockview-c5e3f915.md) |
-| chuanxshi/javascript-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-chuanxshi-javascript-patterns-af9ba9d5.md) |
-| DesignPatternsPHP/DesignPatternsPHP | unknown | github_latest_release_missing | [open](../records/pattern-language-designpatternsphp-designpatternsphp-d6c926d5.md) |
-| Devinterview-io/software-architecture-interview-questions | unknown | github_latest_release_missing | [open](../records/pattern-language-devinterview-io-software-architecture-interview-questions-d0f17ef1.md) |
-| dykyi-roman/architecture | unknown | github_latest_release_missing | [open](../records/pattern-language-dykyi-roman-architecture-981b8b74.md) |
-| evoiz/Agentic-Design-Patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-evoiz-agentic-design-patterns-01a7bf2b.md) |
-| fadeevab/design-patterns-rust | unknown | github_latest_release_missing | [open](../records/pattern-language-fadeevab-design-patterns-rust-d33499f2.md) |
-| fbeline/design-patterns-JS | unknown | github_latest_release_missing | [open](../records/pattern-language-fbeline-design-patterns-js-6a6af94b.md) |
-| felangel/bloc | bloc_lint-v0.4.2 | 2026-07-04T23:45:27Z | [open](../records/pattern-language-felangel-bloc-2de5d68d.md) |
-| FengJungle/DesignPattern | unknown | github_latest_release_missing | [open](../records/pattern-language-fengjungle-designpattern-555629f0.md) |
-| Habrador/Unity-Programming-Patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-habrador-unity-programming-patterns-b7ded15d.md) |
-| iluwatar/java-design-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-iluwatar-java-design-patterns-92e5a814.md) |
-| in28minutes/camel | unknown | github_latest_release_missing | [open](../records/pattern-language-in28minutes-camel-175e126b.md) |
-| landy8530/DesignPatterns | v2.1 | 2019-05-20T14:09:15Z | [open](../records/pattern-language-landy8530-designpatterns-ec410f5c.md) |
-| lbroudoux/eip-designer | unknown | github_latest_release_missing | [open](../records/pattern-language-lbroudoux-eip-designer-c1075562.md) |
-| liu-jianhao/Cpp-Design-Patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-liu-jianhao-cpp-design-patterns-3655340d.md) |
-| lpxxn/rust-design-pattern | unknown | github_latest_release_missing | [open](../records/pattern-language-lpxxn-rust-design-pattern-8a38ac92.md) |
-| me115/design_patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-me115-design-patterns-b192fa4c.md) |
-| mkobuolys/flutter-design-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-mkobuolys-flutter-design-patterns-c7b5823e.md) |
-| monochromegane/go_design_pattern | unknown | github_latest_release_missing | [open](../records/pattern-language-monochromegane-go-design-pattern-2cfa5f43.md) |
-| Naphier/unity-design-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-naphier-unity-design-patterns-fde23726.md) |
-| ochococo/Design-Patterns-In-Swift | unknown | github_latest_release_missing | [open](../records/pattern-language-ochococo-design-patterns-in-swift-08801ce6.md) |
-| roughike/BottomBar | V2.3.1 | 2017-04-14T06:45:04Z | [open](../records/pattern-language-roughike-bottombar-94da77f0.md) |
-| sohamkamani/javascript-design-patterns-for-humans | unknown | github_latest_release_missing | [open](../records/pattern-language-sohamkamani-javascript-design-patterns-for-humans-68527519.md) |
-| Suryakant-Bharti/Important-Java-Concepts | unknown | github_latest_release_missing | [open](../records/pattern-language-suryakant-bharti-important-java-concepts-57e4737e.md) |
-| tcorral/Design-Patterns-in-Javascript | unknown | github_latest_release_missing | [open](../records/pattern-language-tcorral-design-patterns-in-javascript-cd76fa06.md) |
-| tylerlaberge/PyPattyrn | v1.2 | 2016-09-11T02:13:18Z | [open](../records/pattern-language-tylerlaberge-pypattyrn-835debda.md) |
+| 3lf/design-patterns-for-humans | partial | 2026-06-27T22:55:14Z | [open](../records/pattern-language-3lf-design-patterns-for-humans-d62cf116.md) |
+| AlexanderGrom/go-patterns | partial | 2021-04-15T17:42:30Z | [open](../records/pattern-language-alexandergrom-go-patterns-9ab1886f.md) |
+| aritraroy/PatternLockView | partial | 2022-03-03T15:17:44Z | [open](../records/pattern-language-aritraroy-patternlockview-c5e3f915.md) |
+| chuanxshi/javascript-patterns | partial | 2024-07-18T10:26:01Z | [open](../records/pattern-language-chuanxshi-javascript-patterns-af9ba9d5.md) |
+| DesignPatternsPHP/DesignPatternsPHP | partial | 2025-02-03T08:45:02Z | [open](../records/pattern-language-designpatternsphp-designpatternsphp-d6c926d5.md) |
+| Devinterview-io/software-architecture-interview-questions | partial | 2026-01-04T23:16:23Z | [open](../records/pattern-language-devinterview-io-software-architecture-interview-questions-d0f17ef1.md) |
+| dykyi-roman/architecture | partial | 2026-03-09T14:54:04Z | [open](../records/pattern-language-dykyi-roman-architecture-981b8b74.md) |
+| evoiz/Agentic-Design-Patterns | partial | 2026-07-24T14:23:04Z | [open](../records/pattern-language-evoiz-agentic-design-patterns-01a7bf2b.md) |
+| fadeevab/design-patterns-rust | partial | 2025-01-01T17:16:57Z | [open](../records/pattern-language-fadeevab-design-patterns-rust-d33499f2.md) |
+| fbeline/design-patterns-JS | partial | 2023-02-10T16:43:18Z | [open](../records/pattern-language-fbeline-design-patterns-js-6a6af94b.md) |
+| felangel/bloc | partial | 2026-08-10T16:40:08Z | [open](../records/pattern-language-felangel-bloc-2de5d68d.md) |
+| FengJungle/DesignPattern | partial | 2024-04-17T07:27:17Z | [open](../records/pattern-language-fengjungle-designpattern-555629f0.md) |
+| Habrador/Unity-Programming-Patterns | partial | 2026-04-28T12:37:06Z | [open](../records/pattern-language-habrador-unity-programming-patterns-b7ded15d.md) |
+| iluwatar/java-design-patterns | partial | 2026-08-31T22:43:02Z | [open](../records/pattern-language-iluwatar-java-design-patterns-92e5a814.md) |
+| in28minutes/camel | partial | 2024-09-05T07:23:55Z | [open](../records/pattern-language-in28minutes-camel-175e126b.md) |
+| landy8530/DesignPatterns | partial | 2022-12-16T00:46:17Z | [open](../records/pattern-language-landy8530-designpatterns-ec410f5c.md) |
+| lbroudoux/eip-designer | partial | 2016-10-05T12:51:54Z | [open](../records/pattern-language-lbroudoux-eip-designer-c1075562.md) |
+| liu-jianhao/Cpp-Design-Patterns | partial | 2024-10-11T08:12:29Z | [open](../records/pattern-language-liu-jianhao-cpp-design-patterns-3655340d.md) |
+| lpxxn/rust-design-pattern | partial | 2021-07-15T09:03:21Z | [open](../records/pattern-language-lpxxn-rust-design-pattern-8a38ac92.md) |
+| me115/design_patterns | partial | 2024-06-05T03:27:51Z | [open](../records/pattern-language-me115-design-patterns-b192fa4c.md) |
+| mkobuolys/flutter-design-patterns | partial | 2026-08-03T20:00:48Z | [open](../records/pattern-language-mkobuolys-flutter-design-patterns-c7b5823e.md) |
+| monochromegane/go_design_pattern | partial | 2019-09-19T16:27:19Z | [open](../records/pattern-language-monochromegane-go-design-pattern-2cfa5f43.md) |
+| Naphier/unity-design-patterns | partial | 2025-05-24T21:12:15Z | [open](../records/pattern-language-naphier-unity-design-patterns-fde23726.md) |
+| ochococo/Design-Patterns-In-Swift | partial | 2024-08-03T07:30:28Z | [open](../records/pattern-language-ochococo-design-patterns-in-swift-08801ce6.md) |
+| roughike/BottomBar | partial | 2021-09-16T11:19:06Z | [open](../records/pattern-language-roughike-bottombar-94da77f0.md) |
+| sohamkamani/javascript-design-patterns-for-humans | partial | 2024-01-08T05:07:39Z | [open](../records/pattern-language-sohamkamani-javascript-design-patterns-for-humans-68527519.md) |
+| Suryakant-Bharti/Important-Java-Concepts | partial | 2025-08-22T17:32:10Z | [open](../records/pattern-language-suryakant-bharti-important-java-concepts-57e4737e.md) |
+| tcorral/Design-Patterns-in-Javascript | partial | 2023-08-07T04:31:34Z | [open](../records/pattern-language-tcorral-design-patterns-in-javascript-cd76fa06.md) |
+| tylerlaberge/PyPattyrn | partial | 2024-05-26T00:24:11Z | [open](../records/pattern-language-tylerlaberge-pypattyrn-835debda.md) |
 
 ## WebAssembly
 
@@ -3150,3 +3310,9 @@ Records: `3015`
 | Datomic | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-datomic-4f9c8bd8.md) |
 | pg\_back | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pg-back-2caa380c.md) |
 | pghoard | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pghoard-00e7248d.md) |
+
+## Repository Workplaces
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| nb-tech-support/devops | partial | 2025-12-25T11:27:25.191Z | [open](../records/repository-workplaces-nb-tech-support-devops-42f3c6a9.md) |

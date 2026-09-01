@@ -1,40 +1,47 @@
 # Release Watch
 
-Generated: `2026-09-01T07:24:51+00:00`
+Generated: `2026-09-01T08:26:44+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
 ## Category Index
 
-[Api Abi Checker (93)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (33)](by-category/assertion-mocking.md) · [Async Runtime (104)](by-category/async-runtime.md)
-[Benchmarking (58)](by-category/benchmarking.md) · [Build System (482)](by-category/build-system.md) · [Cli (420)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
-[Community Reference (55)](by-category/community-reference.md) · [Compiler (106)](by-category/compiler.md) · [Compiler Diagnostics (18)](by-category/compiler-diagnostics.md) · [Compression (32)](by-category/compression.md)
-[Concurrency Parallelism (59)](by-category/concurrency-parallelism.md) · [Configuration (60)](by-category/configuration.md) · [Container Deployment (7)](by-category/container-deployment.md) · [Coverage (10)](by-category/coverage.md)
-[Cryptography (125)](by-category/cryptography.md) · [Data Science (26)](by-category/data-science.md) · [Database Datastore (426)](by-category/database-datastore.md) · [Datetime (69)](by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (32)](by-category/debugger.md) · [Dependency Manager (56)](by-category/dependency-manager.md) · [Documentation (52)](by-category/documentation.md)
-[Embedded Hardware (21)](by-category/embedded-hardware.md) · [Ffi Bindings (290)](by-category/ffi-bindings.md) · [Filesystem Os (423)](by-category/filesystem-os.md) · [Formatter (393)](by-category/formatter.md)
-[Framework (27)](by-category/framework.md) · [Fuzzer (19)](by-category/fuzzer.md) · [Game Engine Game Dev (85)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (554)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (88)](by-category/image-audio-dsp.md) · [Interop Bindings (43)](by-category/interop-bindings.md) · [Interpreter Runtime (111)](by-category/interpreter-runtime.md) · [Jit Vm (50)](by-category/jit-vm.md)
-[Language Server (20)](by-category/language-server.md) · [Language Specification (572)](by-category/language-specification.md) · [Library (3015)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (31)](by-category/lint-rule-pack.md) · [Linter (326)](by-category/linter.md) · [Logging Observability (216)](by-category/logging-observability.md) · [Machine Learning (306)](by-category/machine-learning.md)
-[Math Numeric Scientific (68)](by-category/math-numeric-scientific.md) · [Memory Analyzer (51)](by-category/memory-analyzer.md) · [Message Broker (23)](by-category/message-broker.md) · [Networking Http (632)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (156)](by-category/package-manager.md) · [Parser Lexer Ast (480)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (160)](by-category/precommit-ci-quality.md)
-[Profiler (51)](by-category/profiler.md) · [Project Scaffolding (68)](by-category/project-scaffolding.md) · [Registry Repository (104)](by-category/registry-repository.md) · [Sanitizer (6)](by-category/sanitizer.md)
-[Security Sast (247)](by-category/security-sast.md) · [Serialization (266)](by-category/serialization.md) · [Standard Library (21)](by-category/standard-library.md) · [Static Analyzer (203)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (401)](by-category/testing-framework.md) · [Tutorial Book Styleguide (32)](by-category/tutorial-book-styleguide.md) · [Type Checker (238)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (446)](by-category/undefined-behavior-analyzer.md) · [Utility Library (68)](by-category/utility-library.md) · [Visualization Gui (222)](by-category/visualization-gui.md) · [Web Framework (277)](by-category/web-framework.md)
+[Api Abi Checker (100)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (33)](by-category/assertion-mocking.md) · [Async Runtime (104)](by-category/async-runtime.md)
+[Benchmarking (64)](by-category/benchmarking.md) · [Build System (503)](by-category/build-system.md) · [Cli (431)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Community Reference (61)](by-category/community-reference.md) · [Compiler (107)](by-category/compiler.md) · [Compiler Diagnostics (18)](by-category/compiler-diagnostics.md) · [Compression (34)](by-category/compression.md)
+[Concurrency Parallelism (61)](by-category/concurrency-parallelism.md) · [Configuration (64)](by-category/configuration.md) · [Container Deployment (7)](by-category/container-deployment.md) · [Coverage (10)](by-category/coverage.md)
+[Cryptography (127)](by-category/cryptography.md) · [Data Science (26)](by-category/data-science.md) · [Database Datastore (428)](by-category/database-datastore.md) · [Datetime (86)](by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (35)](by-category/debugger.md) · [Dependency Manager (57)](by-category/dependency-manager.md) · [Documentation (57)](by-category/documentation.md)
+[Embedded Hardware (34)](by-category/embedded-hardware.md) · [Ffi Bindings (307)](by-category/ffi-bindings.md) · [Filesystem Os (544)](by-category/filesystem-os.md) · [Formatter (416)](by-category/formatter.md)
+[Framework (31)](by-category/framework.md) · [Fuzzer (20)](by-category/fuzzer.md) · [Game Engine Game Dev (93)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (657)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (116)](by-category/image-audio-dsp.md) · [Interop Bindings (45)](by-category/interop-bindings.md) · [Interpreter Runtime (121)](by-category/interpreter-runtime.md) · [Jit Vm (51)](by-category/jit-vm.md)
+[Language Server (23)](by-category/language-server.md) · [Language Specification (586)](by-category/language-specification.md) · [Library (3146)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (31)](by-category/lint-rule-pack.md) · [Linter (327)](by-category/linter.md) · [Logging Observability (231)](by-category/logging-observability.md) · [Machine Learning (333)](by-category/machine-learning.md)
+[Math Numeric Scientific (69)](by-category/math-numeric-scientific.md) · [Memory Analyzer (51)](by-category/memory-analyzer.md) · [Message Broker (23)](by-category/message-broker.md) · [Networking Http (652)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (173)](by-category/package-manager.md) · [Parser Lexer Ast (560)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (163)](by-category/precommit-ci-quality.md)
+[Profiler (52)](by-category/profiler.md) · [Project Scaffolding (74)](by-category/project-scaffolding.md) · [Registry Repository (104)](by-category/registry-repository.md) · [Sanitizer (7)](by-category/sanitizer.md)
+[Security Sast (250)](by-category/security-sast.md) · [Serialization (268)](by-category/serialization.md) · [Standard Library (22)](by-category/standard-library.md) · [Static Analyzer (245)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (407)](by-category/testing-framework.md) · [Tutorial Book Styleguide (34)](by-category/tutorial-book-styleguide.md) · [Type Checker (248)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (615)](by-category/undefined-behavior-analyzer.md) · [Utility Library (73)](by-category/utility-library.md) · [Visualization Gui (240)](by-category/visualization-gui.md) · [Web Framework (285)](by-category/web-framework.md)
 
 ## Coverage
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 7341 |
-| Unknown stable release | 5849 |
+| Known stable release | 7587 |
+| Unknown stable release | 6610 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| storyblok | Node.js/JavaScript | Cli | 4.22.4 | 2026-09-01T08:12:08.956Z | [open](records/node-js-javascript-storyblok-95b9f19c.md) |
+| @jest/core | Node.js/JavaScript | Testing Framework | 30.5.1 | 2026-09-01T08:02:41.823Z | [open](records/node-js-javascript-jest-core-a19c88f3.md) |
+| phino | Haskell | Library | 0.0.112 | 2026-09-01T08:00:52Z | [open](records/haskell-phino-0ffa79f2.md) |
+| jest-watcher | Node.js/JavaScript | Testing Framework | 30.5.1 | 2026-09-01T07:59:59.411Z | [open](records/node-js-javascript-jest-watcher-91328aa7.md) |
+| Jest | Node.js/JavaScript | Testing Framework | 30.5.1 | 2026-09-01T07:59:10.505Z | [open](records/node-js-javascript-jest-11d247aa.md) |
+| jest-cli | Node.js/JavaScript | Testing Framework | 30.5.1 | 2026-09-01T07:58:47.704Z | [open](records/node-js-javascript-jest-cli-444b4f5e.md) |
+| jest-haste-map | Node.js/JavaScript | Testing Framework | 30.5.1 | 2026-09-01T07:58:33.559Z | [open](records/node-js-javascript-jest-haste-map-e928a143.md) |
 | @coralogix/rum-cli | Node.js/JavaScript | Cli | 1.1.49 | 2026-09-01T07:16:03.669Z | [open](records/node-js-javascript-coralogix-rum-cli-c5da80b1.md) |
 | scc | Rust | Benchmarking | 3.8.8 | 2026-09-01T07:10:33.557110Z | [open](records/rust-scc-15b2137c.md) |
 | mintlify | Node.js/JavaScript | Cli | 4.2.857 | 2026-09-01T06:59:53.514Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
@@ -42,8 +49,7 @@ Generated: `2026-09-01T07:24:51+00:00`
 | @mintlify/cli | Node.js/JavaScript | Cli | 4.0.1460 | 2026-09-01T06:59:50.405Z | [open](records/node-js-javascript-mintlify-cli-64dbc59b.md) |
 | date_picker_plus | Dart | Ide Editor Integration | 8.0.0 | 2026-09-01T06:46:18.740759Z | [open](records/dart-date-picker-plus-814ef4e0.md) |
 | abstract-toolserver | Python | Web Framework | 0.0.22 | 2026-09-01T06:29:31.049234Z | [open](records/python-abstract-toolserver-d8297bdb.md) |
-| phino | Haskell | Library | 0.0.111 | 2026-09-01T06:20:40Z | [open](records/haskell-phino-0ffa79f2.md) |
-| ClickHouse | Databases | Database Datastore | v26.6.4.55-stable | 2026-09-01T06:18:38Z | [open](records/databases-clickhouse-6cbe9924.md) |
+| 777arc/PySDR | Electromagnetoscopes | Ide Editor Integration | 2026-09-01 | 2026-09-01T06:21:19Z | [open](records/electromagnetoscopes-777arc-pysdr-75b8d003.md) |
 | @socketsecurity/cli | Node.js/JavaScript | Security Sast | 1.1.163 | 2026-09-01T06:12:19.930Z | [open](records/node-js-javascript-socketsecurity-cli-52cf377d.md) |
 | @coana-tech/cli | Node.js/JavaScript | Cli | 15.10.28 | 2026-09-01T06:11:29.412Z | [open](records/node-js-javascript-coana-tech-cli-ce9cbfe4.md) |
 | i18next-cli | Node.js/JavaScript | Benchmarking | 1.72.0 | 2026-09-01T05:39:56.213Z | [open](records/node-js-javascript-i18next-cli-729ce142.md) |
@@ -76,8 +82,15 @@ Generated: `2026-09-01T07:24:51+00:00`
 | 3tears-datasources | Python | Serialization | 0.30.1 | 2026-09-01T01:25:04.918187Z | [open](records/python-3tears-datasources-cec83b63.md) |
 | chewie | Dart | Ide Editor Integration | 1.16.1 | 2026-09-01T01:22:37.748764Z | [open](records/dart-chewie-3ede5409.md) |
 | @gltf-transform/cli | Node.js/JavaScript | Cli | 4.5.0 | 2026-09-01T00:43:18.551Z | [open](records/node-js-javascript-gltf-transform-cli-56392446.md) |
-| OpenImageIO | Assets | Image Audio Dsp | v3.1.17.0 | 2026-09-01T00:27:38Z | [open](records/assets-openimageio-55659ba6.md) |
-| OpenImageIO | Photography | Image Audio Dsp | v3.1.17.0 | 2026-09-01T00:27:38Z | [open](records/photography-openimageio-1c46b5df.md) |
+| pbapply | R | Library | 1.7-5 | 2026-09-01 08:20:12 UTC | [open](records/r-pbapply-449da90d.md) |
+| reactRouter | R | Web Framework | 0.2.1 | 2026-09-01 08:20:02 UTC | [open](records/r-reactrouter-331dc40d.md) |
+| NHANES | R | Library | 2.1.4 | 2026-09-01 08:00:08 UTC | [open](records/r-nhanes-0e00e861.md) |
+| confidenceSim | R | Ide Editor Integration | 0.1.1 | 2026-09-01 08:00:03 UTC | [open](records/r-confidencesim-2c03aed8.md) |
+| CausalQueries | R | Build System | 1.4.6 | 2026-09-01 07:50:09 UTC | [open](records/r-causalqueries-0904fbed.md) |
+| phontrast | R | Parser Lexer Ast | 2.4.1 | 2026-09-01 07:50:02 UTC | [open](records/r-phontrast-77ef4391.md) |
+| detect | R | Library | 0.5-2 | 2026-09-01 07:30:02 UTC | [open](records/r-detect-8412dfa1.md) |
+| SeuratExplorer | R | Library | 0.1.8 | 2026-09-01 07:20:07 UTC | [open](records/r-seuratexplorer-6311b262.md) |
+| poisFErobust | R | Library | 2.0.1 | 2026-09-01 07:20:02 UTC | [open](records/r-poisferobust-16b12538.md) |
 | outcomerate | R | Library | 1.1.0 | 2026-09-01 07:10:03 UTC | [open](records/r-outcomerate-4e117fb0.md) |
 | lobstr | R | Library | 1.2.2 | 2026-09-01 02:20:10 UTC | [open](records/r-lobstr-a91719e0.md) |
 | xportr | R | Library | 0.6.0 | 2026-09-01 02:20:02 UTC | [open](records/r-xportr-d5dc0dd7.md) |
@@ -102,6 +115,8 @@ Generated: `2026-09-01T07:24:51+00:00`
 | oclif | Node.js/JavaScript | Cli | 5.0.0 | 2026-08-31T21:41:17.685Z | [open](records/node-js-javascript-oclif-1e846831.md) |
 | @faststore/cli | Node.js/JavaScript | Parser Lexer Ast | 4.7.0 | 2026-08-31T21:22:09.303Z | [open](records/node-js-javascript-faststore-cli-98f71262.md) |
 | eslint-plugin-jsdoc | Node.js/JavaScript | Linter | 64.3.3 | 2026-08-31T21:15:17.013Z | [open](records/node-js-javascript-eslint-plugin-jsdoc-1bb1192b.md) |
+| dividebysandwich/sdroxide | SatCom Satellites | Ide Editor Integration | v1.6.2 | 2026-08-31T21:13:07Z | [open](records/satcom-satellites-dividebysandwich-sdroxide-b0d1a434.md) |
+| earthobservations/wetterdienst | Radars | Library | app-v0.14.1 | 2026-08-31T21:07:26Z | [open](records/radars-earthobservations-wetterdienst-4494a41f.md) |
 | @athenna/database | Node.js/JavaScript | Database Datastore | 5.62.0 | 2026-08-31T20:57:03.218Z | [open](records/node-js-javascript-athenna-database-561068b6.md) |
 | @seamapi/http | Node.js/TypeScript | Type Checker | 2.27.0 | 2026-08-31T20:49:08.704Z | [open](records/node-js-typescript-seamapi-http-47d27f2c.md) |
 | @opentelemetry/instrumentation-tedious | Node.js/JavaScript | Networking Http | 0.41.0 | 2026-08-31T20:42:43.702Z | [open](records/node-js-javascript-opentelemetry-instrumentation-tedious-3ed4dd82.md) |
@@ -148,7 +163,6 @@ Generated: `2026-09-01T07:24:51+00:00`
 | vcs-ignore | Haskell | Library | 0.1.0.0 | 2026-08-31T19:42:46Z | [open](records/haskell-vcs-ignore-b594cffb.md) |
 | copy_with_extension | Dart | Library | 17.1.0 | 2026-08-31T19:38:07.619098Z | [open](records/dart-copy-with-extension-01597e57.md) |
 | @astrojs/language-server | Node.js/JavaScript | Language Specification | 2.16.16 | 2026-08-31T19:37:41.058Z | [open](records/node-js-javascript-astrojs-language-server-17f2a6f3.md) |
-| aws/aws-lc | Assembly | Language Specification | v5.7.0 | 2026-08-31T19:25:53Z | [open](records/assembly-aws-aws-lc-29f8be23.md) |
 | @stacksjs/desktop-build | Node.js/JavaScript | Build System | 0.73.3 | 2026-08-31T19:07:37.640Z | [open](records/node-js-javascript-stacksjs-desktop-build-22b3a205.md) |
 | mockttp | Node.js/JavaScript | Undefined Behavior Analyzer | 4.6.2 | 2026-08-31T19:06:47.898Z | [open](records/node-js-javascript-mockttp-89826f51.md) |
 | @stacksjs/database | Node.js/JavaScript | Database Datastore | 0.73.3 | 2026-08-31T19:06:45.813Z | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
@@ -208,10 +222,10 @@ Generated: `2026-09-01T07:24:51+00:00`
 | @opentelemetry/propagator-jaeger | Node.js/JavaScript | Formatter | 2.11.0 | 2026-08-31T16:41:37.831Z | [open](records/node-js-javascript-opentelemetry-propagator-jaeger-0d713bfa.md) |
 | acryl-datahub-cloud | Python | Undefined Behavior Analyzer | 2.1.5 | 2026-08-31T16:34:41.830727Z | [open](records/python-acryl-datahub-cloud-e09f2208.md) |
 | @maxminddatabase/geolite2 | Node.js/JavaScript | Database Datastore | 1.0.294 | 2026-08-31T16:05:32.641Z | [open](records/node-js-javascript-maxminddatabase-geolite2-f679c34e.md) |
-| fontTools | Font Briefcase | Utility Library | 4.64.0 | 2026-08-31T16:02:52Z | [open](records/font-briefcase-fonttools-f6d609cf.md) |
 | @taiga-ui/testing | Node.js/JavaScript | Testing Framework | 5.22.0 | 2026-08-31T16:01:43.699Z | [open](records/node-js-javascript-taiga-ui-testing-aedbf495.md) |
 | @o3r/testing | Node.js/JavaScript | Build System | 15.0.0 | 2026-08-31T15:40:13.330Z | [open](records/node-js-javascript-o3r-testing-238f6b93.md) |
 | chromatic | Node.js/JavaScript | Testing Framework | 18.7.2 | 2026-08-31T15:36:17.461Z | [open](records/node-js-javascript-chromatic-d4979463.md) |
+| ashuttl/linecast | Radars | Ide Editor Integration | v2.2.0 | 2026-08-31T15:35:03Z | [open](records/radars-ashuttl-linecast-afb4bdb7.md) |
 | @cspell/eslint-plugin | Node.js/JavaScript | Linter | 10.2.0 | 2026-08-31T15:32:52.151Z | [open](records/node-js-javascript-cspell-eslint-plugin-dc1e3d7d.md) |
 | @xemahq/biome-database-nest | Node.js/JavaScript | Interpreter Runtime | 0.21.0 | 2026-08-31T15:02:23.692Z | [open](records/node-js-javascript-xemahq-biome-database-nest-2c8095df.md) |
 | tower-http | Rust | Networking Http | 0.7.1 | 2026-08-31T14:49:25.697237Z | [open](records/rust-tower-http-3f8af071.md) |
@@ -238,6 +252,7 @@ Generated: `2026-09-01T07:24:51+00:00`
 | @trigger.dev/build | Node.js/JavaScript | Build System | 4.5.15 | 2026-08-31T13:06:21.287Z | [open](records/node-js-javascript-trigger-dev-build-cd1c4137.md) |
 | @browserstack/mcp-server | Node.js/JavaScript | Ffi Bindings | 1.3.1 | 2026-08-31T12:58:13.835Z | [open](records/node-js-javascript-browserstack-mcp-server-28ee02d1.md) |
 | @catladder/cli | Node.js/JavaScript | Cli | 5.1.1 | 2026-08-31T12:26:03.922Z | [open](records/node-js-javascript-catladder-cli-876a5bd9.md) |
+| aananta-central-license-client | Python | Networking Http | 1.0.0 | 2026-08-31T12:15:47.441735Z | [open](records/python-aananta-central-license-client-d01463b5.md) |
 | @sap-ux/fiori-mcp-server | Node.js/JavaScript | Web Framework | 1.12.0 | 2026-08-31T12:13:41.123Z | [open](records/node-js-javascript-sap-ux-fiori-mcp-server-8a2a94b2.md) |
 | @leverege/build-tools | Node.js/JavaScript | Build System | 2.119.0 | 2026-08-31T11:58:40.505Z | [open](records/node-js-javascript-leverege-build-tools-82fbb321.md) |
 | @ui5/cli | Node.js/JavaScript | Cli | 4.0.63 | 2026-08-31T11:50:16.595Z | [open](records/node-js-javascript-ui5-cli-dfaea84c.md) |
@@ -253,15 +268,16 @@ Generated: `2026-09-01T07:24:51+00:00`
 | @transmitsecurity/platform-web-sdk | Node.js/JavaScript | Security Sast | 2.6.3 | 2026-08-31T10:40:07.365Z | [open](records/node-js-javascript-transmitsecurity-platform-web-sdk-a192430b.md) |
 | rm-build-dxf | Node.js/JavaScript | Build System | 0.1.223 | 2026-08-31T10:13:47.490Z | [open](records/node-js-javascript-rm-build-dxf-0bb9467f.md) |
 | @wp-playground/cli | Node.js/JavaScript | Cli | 3.1.52 | 2026-08-31T09:54:08.618Z | [open](records/node-js-javascript-wp-playground-cli-96d442e6.md) |
+| up42/up42-py | SatCom Satellites | Filesystem Os | v4.1.0 | 2026-08-31T09:09:58Z | [open](records/satcom-satellites-up42-up42-py-ed525448.md) |
 | eslint-plugin-perfectionist | Node.js/JavaScript | Linter | 5.11.0 | 2026-08-31T09:02:33.026Z | [open](records/node-js-javascript-eslint-plugin-perfectionist-2a8423b1.md) |
 | @remotion/studio-server | Node.js/JavaScript | Web Framework | 4.0.519 | 2026-08-31T08:39:44.183Z | [open](records/node-js-javascript-remotion-studio-server-ed620dc3.md) |
 | @lancedb/lancedb | Node.js/JavaScript | Web Framework | 0.38.0 | 2026-08-31T08:31:16.264Z | [open](records/node-js-javascript-lancedb-lancedb-b1aa28e9.md) |
 | @umijs/server | Node.js/JavaScript | Web Framework | 4.7.9 | 2026-08-31T08:21:13.374Z | [open](records/node-js-javascript-umijs-server-39ec9954.md) |
 | viem | Node.js/TypeScript | Type Checker | 2.56.1 | 2026-08-31T08:20:47.528Z | [open](records/node-js-typescript-viem-f5262c89.md) |
+| scalableminds/webknossos | Microscopy | Filesystem Os | 26.09.1 | 2026-08-31T08:14:58Z | [open](records/microscopy-scalableminds-webknossos-1ecff3e9.md) |
 | @ruvyxa/database | Node.js/JavaScript | Database Datastore | 1.1.4 | 2026-08-31T07:51:54.209Z | [open](records/node-js-javascript-ruvyxa-database-28ef5413.md) |
 | @devcontainers/cli | Node.js/JavaScript | Cli | 0.89.0 | 2026-08-31T07:50:41.687Z | [open](records/node-js-javascript-devcontainers-cli-6df3ec6d.md) |
-| LanceDB | Databases | Database Datastore | v0.38.0 | 2026-08-31T07:39:14Z | [open](records/databases-lancedb-7a268bda.md) |
-| Lucide | Icons and Logos | Visualization Gui | 1.38.0 | 2026-08-31T07:16:42Z | [open](records/icons-and-logos-lucide-5fa96a35.md) |
+| yamcs/yamcs | SatCom Satellites | Framework | yamcs-5.13.5 | 2026-08-31T06:50:37Z | [open](records/satcom-satellites-yamcs-yamcs-1a3d709e.md) |
 | bottom_picker | Dart | Datetime | 5.0.0 | 2026-08-31T06:37:49.981652Z | [open](records/dart-bottom-picker-4467bf7b.md) |
 | cunning_document_scanner | Dart | Static Analyzer | 3.0.2 | 2026-08-31T06:14:42.627856Z | [open](records/dart-cunning-document-scanner-b98260f4.md) |
 | dartssh2 | Dart | Networking Http | 4.0.0 | 2026-08-31T05:37:04.520964Z | [open](records/dart-dartssh2-1f4cac37.md) |
@@ -269,22 +285,6 @@ Generated: `2026-09-01T07:24:51+00:00`
 | @gjsify/http | Node.js/JavaScript | Networking Http | 0.45.0 | 2026-08-31T04:21:30.988Z | [open](records/node-js-javascript-gjsify-http-1598f2a7.md) |
 | value-bag | Rust | Library | 1.13.2 | 2026-08-31T03:47:34.757902Z | [open](records/rust-value-bag-883aa96a.md) |
 | value-bag-serde1 | Rust | Machine Learning | 1.14.0 | 2026-08-31T03:47:15.482389Z | [open](records/rust-value-bag-serde1-3879bd63.md) |
-| value-bag-sval2 | Rust | Machine Learning | 1.14.0 | 2026-08-31T03:46:56.641039Z | [open](records/rust-value-bag-sval2-5e70853e.md) |
-| sval_serde | Rust | Serialization | 2.22.0 | 2026-08-31T03:46:37.275644Z | [open](records/rust-sval-serde-868ac140.md) |
-| sval_nested | Rust | Library | 2.22.0 | 2026-08-31T03:46:18.522277Z | [open](records/rust-sval-nested-d524a773.md) |
-| sval_json | Rust | Serialization | 2.22.0 | 2026-08-31T03:45:59.991853Z | [open](records/rust-sval-json-2740e8e8.md) |
-| sval_buffer | Rust | Library | 2.22.0 | 2026-08-31T03:45:02.759668Z | [open](records/rust-sval-buffer-fb51269e.md) |
-| sval_ref | Rust | Community Reference | 2.22.0 | 2026-08-31T03:44:44.017451Z | [open](records/rust-sval-ref-9e9ee64e.md) |
-| sval_dynamic | Rust | Library | 2.22.0 | 2026-08-31T03:44:06.733496Z | [open](records/rust-sval-dynamic-64ed70f1.md) |
-| sval_fmt | Rust | Debugger | 2.22.0 | 2026-08-31T03:43:48.051998Z | [open](records/rust-sval-fmt-a722981f.md) |
-| sval | Rust | Library | 2.22.0 | 2026-08-31T03:43:29.264284Z | [open](records/rust-sval-319cff50.md) |
-| agenshield | Node.js/JavaScript | Security Sast | 2026.8.5 | 2026-08-31T03:26:12.125Z | [open](records/node-js-javascript-agenshield-034792e0.md) |
-| @liff/server-api | Node.js/JavaScript | Web Framework | 2.31.0 | 2026-08-31T02:45:10.018Z | [open](records/node-js-javascript-liff-server-api-7488dbd8.md) |
-| @nocobase/logger | Node.js/JavaScript | Logging Observability | 2.2.5 | 2026-08-31T02:17:46.477Z | [open](records/node-js-javascript-nocobase-logger-f94a71a3.md) |
-| @nocobase/build | Node.js/JavaScript | Build System | 2.2.5 | 2026-08-31T02:12:53.763Z | [open](records/node-js-javascript-nocobase-build-919424e6.md) |
-| desktop_drop | Dart | Library | 0.8.3 | 2026-08-31T01:54:04.964499Z | [open](records/dart-desktop-drop-d451fc5f.md) |
-| @clipboard-health/testing-core | Node.js/TypeScript | Type Checker | 2.12.2 | 2026-08-31T01:21:01.711Z | [open](records/node-js-typescript-clipboard-health-testing-core-646613ba.md) |
-| @fallow-cli/linux-x64-musl | Node.js/JavaScript | Cli | 3.21.0 | 2026-08-31T00:31:39.090Z | [open](records/node-js-javascript-fallow-cli-linux-x64-musl-ad0f87bf.md) |
 
 ## Unknown Reasons
 
@@ -293,13 +293,15 @@ Generated: `2026-09-01T07:24:51+00:00`
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
-| github_latest_release_missing | 447 |
+| github_latest_release_missing | 506 |
+| curated_language_route_requires_source_specific_release_lookup | 400 |
+| gh_search_reports_activity_not_release_version | 291 |
 | awesome_list_does_not_include_release_date | 237 |
-| curated_language_route_requires_source_specific_release_lookup | 222 |
-| gitlab_projects_api_reports_activity_not_release_version | 91 |
-| go_module_index_event_is_preview_or_pseudoversion | 78 |
+| github_search_does_not_include_release_date | 144 |
+| go_module_index_event_is_preview_or_pseudoversion | 117 |
+| gitlab_projects_api_reports_activity_not_release_version | 97 |
+| curated_database_record_requires_source_specific_release_lookup | 87 |
 | official_workplace_route_requires_source_specific_release_lookup | 59 |
-| curated_database_record_requires_source_specific_release_lookup | 43 |
 | not_a_cocoapods_name | 7 |
 | release_date_missing | 5 |
 | cocoapods_metadata_missing | 5 |
@@ -309,11 +311,56 @@ Generated: `2026-09-01T07:24:51+00:00`
 
 | Name | Language | Channel | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| EdgeTX/edgetx | Electromagnetoscopes | preview | nightly | 2026-09-01T07:16:29Z | [open](records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) |
 | acryl-datahub-cloud | Python | preview | 2.2.0rc8 | 2026-09-01T07:10:41.894524Z | [open](records/python-acryl-datahub-cloud-e09f2208.md) |
-| llama.cpp | "aim's" | preview | b10731 | 2026-09-01T05:34:08Z | [open](records/aim-s-llama-cpp-9828c514.md) |
-| Rangi42/polishedcrystal | Assembly | preview | do-not-checkout | 2026-09-01T04:14:18Z | [open](records/assembly-rangi42-polishedcrystal-55bf1d37.md) |
-| Liquibase | Databases | preview | nightly | 2026-08-31T13:55:00Z | [open](records/databases-liquibase-64f6983e.md) |
-| LanceDB | Databases | preview | v0.38.0-beta.15 | 2026-08-31T07:33:54Z | [open](records/databases-lancedb-7a268bda.md) |
+| meshtastic/Meshtastic-Android | Electromagnetoscopes | preview | snapshot | 2026-08-31T21:35:59Z | [open](records/electromagnetoscopes-meshtastic-meshtastic-android-24c81b27.md) |
+| PentHertz/RF-Swift | Electromagnetoscopes | preview | v4.0.1-dev | 2026-08-31T12:27:02Z | [open](records/electromagnetoscopes-penthertz-rf-swift-91a223bf.md) |
+| github.com/DJ2LS/FreeDATA | Go | module-preview | v0.3.3-alpha.3 | 2026-08-30T10:57:29.140077Z | [open](records/go-github-com-dj2ls-freedata-17412510.md) |
+| github.com/posthog/posthog/bin/hobby-installer | Go | module-preview | v0.0.0-20260830105421-a4206631b834 | 2026-08-30T10:57:28.571097Z | [open](records/go-github-com-posthog-posthog-bin-hobby-installer-99af5da4.md) |
+| buf.build/gen/go/ticctech/entity/protocolbuffers/go | Go | module-preview | v1.29.0-20260830102230-08659920c146.1 | 2026-08-30T10:57:28.493244Z | [open](records/go-buf-build-gen-go-ticctech-entity-protocolbuffers-go-822a2f8a.md) |
+| github.com/open-telemetry/opentelemetry-go/exporters/zipkin | Go | module-preview | v1.47.0-rc.1.0.20260828211312-1ad6638a7422 | 2026-08-30T10:57:27.473677Z | [open](records/go-github-com-open-telemetry-opentelemetry-go-exporters-zipkin-9eb5c859.md) |
+| github.com/mudler/localai | Go | module-preview | v1.40.1-0.20260830073339-9c7c9974ebbe | 2026-08-30T10:57:26.883332Z | [open](records/go-github-com-mudler-localai-d1144ad7.md) |
+| github.com/mickochow/channel | Go | module-preview | v0.0.0-20260830102437-fc8c3c0dd91c | 2026-08-30T10:57:22.738382Z | [open](records/go-github-com-mickochow-channel-3d15d806.md) |
+| gopkg.in/chainguard-images/images.v0 | Go | module-preview | v0.0.0-20260830105426-021f5ec82a8d | 2026-08-30T10:57:22.278837Z | [open](records/go-gopkg-in-chainguard-images-images-v0-a97edef0.md) |
+| github.com/veeupup/databend | Go | module-preview | v0.4.123-nightly | 2026-08-30T10:57:20.493929Z | [open](records/go-github-com-veeupup-databend-b9bad626.md) |
+| github.com/openova-io/openova/core/services/gateway | Go | module-preview | v0.0.0-20260830105606-c9914884aa3a | 2026-08-30T10:57:13.67881Z | [open](records/go-github-com-openova-io-openova-core-services-gateway-04f6f099.md) |
+| buf.build/gen/go/sawmills/curator/connectrpc/go | Go | module-preview | v1.14.0-20260830100832-7ba0557ec6f6.1 | 2026-08-30T10:57:12.008462Z | [open](records/go-buf-build-gen-go-sawmills-curator-connectrpc-go-2e9348ba.md) |
+| github.com/oscharko-dev/keiko | Go | module-preview | v0.3.0-beta.0 | 2026-08-30T10:57:06.237441Z | [open](records/go-github-com-oscharko-dev-keiko-119c6c72.md) |
+| github.com/defacto2/server | Go | module-preview | v1.13.7-0.20260830104239-78f9922c327f | 2026-08-30T10:57:02.642731Z | [open](records/go-github-com-defacto2-server-4f4a8bc3.md) |
+| github.com/tui-tools/tui-kit | Go | module-preview | v0.2.6-0.20260830105335-28e9677885d2 | 2026-08-30T10:57:02.019285Z | [open](records/go-github-com-tui-tools-tui-kit-ec72d89b.md) |
+| buf.build/gen/go/sawmills/curator/protocolbuffers/go | Go | module-preview | v1.34.1-20260830100832-7ba0557ec6f6.1 | 2026-08-30T10:56:57.199115Z | [open](records/go-buf-build-gen-go-sawmills-curator-protocolbuffers-go-c8583f5a.md) |
+| github.com/TavoAI/tavo-sdk | Go | module-preview | v0.4.1-0.20260119215743-c43b29503953 | 2026-08-30T10:56:30.618262Z | [open](records/go-github-com-tavoai-tavo-sdk-4ccce3d5.md) |
+| github.com/Mellanox/sriov-network-device-plugin | Go | module-preview | v0.0.0-20260813003558-632e092f2f21 | 2026-08-30T10:56:14.45622Z | [open](records/go-github-com-mellanox-sriov-network-device-plugin-6474f463.md) |
+| github.com/misskey-dev/misskey | Go | module-preview | v0.0.0-20260830101117-04600982f03a | 2026-08-30T10:56:09.934253Z | [open](records/go-github-com-misskey-dev-misskey-f90b0abd.md) |
+| github.com/gregkonush/lab | Go | module-preview | v0.596.1-0.20260830094345-a0d7a0dcf5c1 | 2026-08-30T10:56:03.745957Z | [open](records/go-github-com-gregkonush-lab-9fe5e5c1.md) |
+| github.com/sirupsen/logrus | Go | module-preview | v0.0.0-20161009110224-ea5eab4f4bfd | 2026-08-30T10:55:52.900604Z | [open](records/go-github-com-sirupsen-logrus-57508508.md) |
+| buf.build/gen/go/realm/fabric/protocolbuffers/go | Go | module-preview | v1.31.0-20260714134258-d2e4b848f566.2 | 2026-08-30T10:55:49.908608Z | [open](records/go-buf-build-gen-go-realm-fabric-protocolbuffers-go-3a27b5c5.md) |
+| github.com/gerege-systems/open-gerege-nexus | Go | module-preview | v0.0.0-20260830104649-51437a97eb46 | 2026-08-30T10:55:45.915493Z | [open](records/go-github-com-gerege-systems-open-gerege-nexus-1104eb72.md) |
+| github.com/dimonomid/nerdlog | Go | module-preview | v1.10.1-0.20260830080539-cd353c7046a9 | 2026-08-30T10:55:41.069376Z | [open](records/go-github-com-dimonomid-nerdlog-97281672.md) |
+| github.com/Layr-Labs/eigenlayer-Contracts | Go | module-preview | v0.2.5-mainnet-m2-minor-eigenpod-upgrade | 2026-08-30T10:55:40.730201Z | [open](records/go-github-com-layr-labs-eigenlayer-contracts-d6940a3a.md) |
+| github.com/gaarutyunov/goga | Go | module-preview | v0.0.0-20260830104900-cb900a1f5f0e | 2026-08-30T10:55:39.226441Z | [open](records/go-github-com-gaarutyunov-goga-4bb54024.md) |
+| github.com/1panel-dev/1Panel/agent | Go | module-preview | v0.0.0-20260828102252-3c0bd051bf2a | 2026-08-30T10:55:35.745275Z | [open](records/go-github-com-1panel-dev-1panel-agent-8df4b3a6.md) |
+| github.com/gnome/evince | Go | module-preview | v0.0.0-20260830012938-8af17999e778 | 2026-08-30T10:55:34.659852Z | [open](records/go-github-com-gnome-evince-55bef26a.md) |
+| github.com/iNexDanger/API_BDD | Go | module-preview | v0.0.0-20210708230004-ed9ba7896c07 | 2026-08-30T10:55:33.96483Z | [open](records/go-github-com-inexdanger-api-bdd-e5bd627a.md) |
+| buf.build/gen/go/realm/pipeline/protocolbuffers/go | Go | module-preview | v1.31.0-20260714134258-5aecf29f59ea.2 | 2026-08-30T10:55:31.680535Z | [open](records/go-buf-build-gen-go-realm-pipeline-protocolbuffers-go-17394d05.md) |
+| github.com/coderQuad/New-Grad-Positions-2022 | Go | module-preview | v0.0.0-20260830103141-3e02b77af3b4 | 2026-08-30T10:55:23.764515Z | [open](records/go-github-com-coderquad-new-grad-positions-2022-fc9dbb07.md) |
+| github.com/discord-php/discordphp | Go | module-preview | v10.56.16-0.20260829160204-47a61c78fb0b+incompatible | 2026-08-30T10:55:20.745318Z | [open](records/go-github-com-discord-php-discordphp-ba1807c3.md) |
+| github.com/danp/nspoweroutages | Go | module-preview | v0.0.0-20260830105425-d24ff355253e | 2026-08-30T10:55:19.255904Z | [open](records/go-github-com-danp-nspoweroutages-a633989d.md) |
+| github.com/Tutitoos/atenea | Go | module-preview | v1.0.6-0.20260829180406-c07036727ee6 | 2026-08-30T10:55:18.839927Z | [open](records/go-github-com-tutitoos-atenea-26b04a55.md) |
+| github.com/simonfxr/landcage | Go | module-preview | v0.0.0-20260829180429-0ca1a4cf69fc | 2026-08-30T10:55:17.373683Z | [open](records/go-github-com-simonfxr-landcage-a2e95543.md) |
+| github.com/zarusz/slimmessagebus | Go | module-preview | v0.0.0-20260829203634-cc610c96d6be | 2026-08-30T10:55:17.234973Z | [open](records/go-github-com-zarusz-slimmessagebus-13b4809b.md) |
+| github.com/pulumi/pulumi/tests/integration/construct_component_unknown/go | Go | module-preview | v0.0.0-20260830064319-9b688f5ff3bc | 2026-08-30T10:55:16.885875Z | [open](records/go-github-com-pulumi-pulumi-tests-integration-construct-component-unknown-go-1fdad2d4.md) |
+| proto.prod.wtf/gen/go/container-platform/core/protocolbuffers/go | Go | module-preview | v1.33.0-20260827031511-94b94abce9d0.6 | 2026-08-30T10:55:15.183433Z | [open](records/go-proto-prod-wtf-gen-go-container-platform-core-protocolbuffers-go-32ee32ba.md) |
+| github.com/vshulcz/deja-vu | Go | module-preview | v0.19.2-0.20260830105316-7920a3fefc4c | 2026-08-30T10:55:07.689803Z | [open](records/go-github-com-vshulcz-deja-vu-f0f9e335.md) |
+| github.com/algotables/algotables.github.io | Go | module-preview | v0.0.0-20260830105445-1725dd2bf3ed | 2026-08-30T10:54:50.413226Z | [open](records/go-github-com-algotables-algotables-github-io-8b3df959.md) |
+| github.com/aperture-sci/loan-app/interest | Go | module-preview | v0.0.0-20260830103202-cd480f877275 | 2026-08-30T10:54:50.058725Z | [open](records/go-github-com-aperture-sci-loan-app-interest-15863c7d.md) |
+| github.com/zkpassport/noir_rsa | Go | module-preview | v0.7.0-1 | 2026-08-30T10:54:49.313785Z | [open](records/go-github-com-zkpassport-noir-rsa-24719d93.md) |
+| github.com/samsaffron/term-llm | Go | module-preview | v0.9.9-0.20260830104808-9cee57392e4d | 2026-08-30T10:54:44.177898Z | [open](records/go-github-com-samsaffron-term-llm-14f1ec84.md) |
+| github.com/nvidia/nvsentinel/janitor-provider | Go | module-preview | v0.0.0-20260828120502-0a95948f5a20 | 2026-08-30T10:54:36.551056Z | [open](records/go-github-com-nvidia-nvsentinel-janitor-provider-e730d50f.md) |
+| github.com/djc/quinn | Go | module-preview | v0.0.0-20260828175426-d5d5b978c2b8 | 2026-08-30T10:54:19.14377Z | [open](records/go-github-com-djc-quinn-cd191f0f.md) |
+| github.com/skypilot-org/skypilot/addons/fuse-proxy | Go | module-preview | v0.0.0-20260830104317-8b030ee7402e | 2026-08-30T10:54:12.575226Z | [open](records/go-github-com-skypilot-org-skypilot-addons-fuse-proxy-84daaef7.md) |
+| github.com/Pulumi/pulumi-aws | Go | module-preview | v0.16.2-dev | 2026-08-30T10:53:57.353354Z | [open](records/go-github-com-pulumi-pulumi-aws-971f1ccd.md) |
+| github.com/semaphoreui/semaphore | Go | module-preview | v0.0.0-20260830102944-000bb72d5250 | 2026-08-30T10:53:52.481686Z | [open](records/go-github-com-semaphoreui-semaphore-4c5cd6aa.md) |
 | go.cozymore.dev/krkstops | Go | module-preview | v0.0.0-20260830100146-4312f3d58c51 | 2026-08-30T10:10:59.090011Z | [open](records/go-go-cozymore-dev-krkstops-34ccbe5a.md) |
 | github.com/scriptonbasestar/dva | Go | module-preview | v0.0.0-20260830095141-1922fa5f6b7f | 2026-08-30T10:10:54.045816Z | [open](records/go-github-com-scriptonbasestar-dva-5259e7a4.md) |
 | github.com/docker/CLI | Go | module-preview | v29.0.0-rc.2+incompatible | 2026-08-30T10:10:48.73783Z | [open](records/go-github-com-docker-cli-8ef1e0db.md) |
@@ -327,7 +374,6 @@ Generated: `2026-09-01T07:24:51+00:00`
 | github.com/tabnas/yaml | Go | module-preview | v0.0.0-20260828164039-a9e49c0804ce | 2026-08-30T10:10:19.713258Z | [open](records/go-github-com-tabnas-yaml-b411f7b1.md) |
 | github.com/go-composites/string | Go | module-preview | v0.0.0-20260830075418-81b029a467c7 | 2026-08-30T10:10:19.080807Z | [open](records/go-github-com-go-composites-string-b8ee47b6.md) |
 | buf.build/gen/go/ticctech/entity/bufbuild/connect-go | Go | module-preview | v1.10.0-20260830095514-5f261c6c6045.1 | 2026-08-30T10:10:18.863514Z | [open](records/go-buf-build-gen-go-ticctech-entity-bufbuild-connect-go-c1c1f0ab.md) |
-| github.com/vshulcz/deja-vu | Go | module-preview | v0.19.2-0.20260830100828-100c715a4be9 | 2026-08-30T10:10:17.73544Z | [open](records/go-github-com-vshulcz-deja-vu-f0f9e335.md) |
 | github.com/jfrog/jfrog-cli-artifactory | Go | module-preview | v0.8.1-0.20260830100751-b80d678c35f3 | 2026-08-30T10:10:12.647297Z | [open](records/go-github-com-jfrog-jfrog-cli-artifactory-406adbdd.md) |
 | github.com/pagopa/io-wallet-sdk | Go | module-preview | v1.0.0-alpha-20260213155923 | 2026-08-30T10:10:04.953142Z | [open](records/go-github-com-pagopa-io-wallet-sdk-b56518a7.md) |
 | github.com/slonopotamus/stevedore | Go | module-preview | v0.0.0-20260827091904-029a50817a52 | 2026-08-30T10:10:03.904774Z | [open](records/go-github-com-slonopotamus-stevedore-41fe77f5.md) |
@@ -335,7 +381,6 @@ Generated: `2026-09-01T07:24:51+00:00`
 | github.com/urnetwork/connect | Go | module-preview | v0.0.0-20260830072035-9f6504a235a7 | 2026-08-30T10:10:03.336108Z | [open](records/go-github-com-urnetwork-connect-771c022c.md) |
 | github.com/tabnas/jsonc | Go | module-preview | v0.0.0-20260828164038-185b96f61536 | 2026-08-30T10:10:01.811191Z | [open](records/go-github-com-tabnas-jsonc-bf1133f2.md) |
 | github.com/cauldronup/cauldron | Go | module-preview | v0.0.0-20260830095810-95d27b15d5fd | 2026-08-30T10:10:00.506695Z | [open](records/go-github-com-cauldronup-cauldron-2eea246f.md) |
-| buf.build/gen/go/realm/fabric/protocolbuffers/go | Go | module-preview | v1.35.2-20260519193554-2fbe88cf4bc7.1 | 2026-08-30T10:09:59.97973Z | [open](records/go-buf-build-gen-go-realm-fabric-protocolbuffers-go-3a27b5c5.md) |
 | github.com/jsoftware/jsource | Go | module-preview | v0.0.0-20260830075552-a3b5c3da073c | 2026-08-30T10:09:59.666226Z | [open](records/go-github-com-jsoftware-jsource-259b8d81.md) |
 | github.com/testlogo/PRJ-myearphone | Go | module-preview | v0.0.0-20260516183001-5a41640015eb | 2026-08-30T10:09:57.079541Z | [open](records/go-github-com-testlogo-prj-myearphone-ab87579c.md) |
 | github.com/NVIDIA/doca-platform | Go | module-preview | v0.0.0-20260829072553-161cc9958d43 | 2026-08-30T10:09:53.622817Z | [open](records/go-github-com-nvidia-doca-platform-c186a84f.md) |
@@ -351,7 +396,6 @@ Generated: `2026-09-01T07:24:51+00:00`
 | github.com/OCA/OpenUpgrade | Go | module-preview | v0.0.0-20260830095428-c69ad8d4ac72 | 2026-08-30T10:08:59.863277Z | [open](records/go-github-com-oca-openupgrade-58a7aa58.md) |
 | github.com/k0sproject/k0s | Go | module-preview | v0.0.0-20200827070254-47eb54b8acba | 2026-08-30T10:08:59.789546Z | [open](records/go-github-com-k0sproject-k0s-9a549575.md) |
 | github.com/konflux-ci/konflux-ci | Go | module-preview | v0.0.0-20260830092442-538d0b88270f | 2026-08-30T10:08:56.642604Z | [open](records/go-github-com-konflux-ci-konflux-ci-5ee7642c.md) |
-| buf.build/gen/go/realm/pipeline/protocolbuffers/go | Go | module-preview | v1.35.2-20260519193554-80dc826466f0.1 | 2026-08-30T10:08:53.374057Z | [open](records/go-buf-build-gen-go-realm-pipeline-protocolbuffers-go-17394d05.md) |
 | github.com/ukama/ukama/systems/report/generator | Go | module-preview | v0.0.0-20260828142625-9c418f8653c5 | 2026-08-30T10:08:48.173646Z | [open](records/go-github-com-ukama-ukama-systems-report-generator-e70390cb.md) |
 | github.com/chronicle20/atlas/libs/atlas-object-id | Go | module-preview | v0.0.0-20260830092457-577d535980c4 | 2026-08-30T10:08:47.689533Z | [open](records/go-github-com-chronicle20-atlas-libs-atlas-object-id-4f26f9bf.md) |
 | github.com/layertwo-labs/sidesail | Go | module-preview | v0.0.0-20260830044933-c62099524cfa | 2026-08-30T10:08:44.6016Z | [open](records/go-github-com-layertwo-labs-sidesail-e8bca6a9.md) |
@@ -367,19 +411,16 @@ Generated: `2026-09-01T07:24:51+00:00`
 | github.com/dgs-ai-team/dagents/shared/update | Go | module-preview | v0.0.0-20260826030041-989f071b9e42 | 2026-08-30T10:08:26.192669Z | [open](records/go-github-com-dgs-ai-team-dagents-shared-update-4d16dbbd.md) |
 | github.com/dgs-ai-team/dagents | Go | module-preview | v0.0.0-20260830082250-abfdbe433de6 | 2026-08-30T10:08:25.581821Z | [open](records/go-github-com-dgs-ai-team-dagents-0979d793.md) |
 | github.com/dgs-ai-team/dagents/shared/logfiles | Go | module-preview | v0.0.0-20260830082250-abfdbe433de6 | 2026-08-30T10:08:25.162417Z | [open](records/go-github-com-dgs-ai-team-dagents-shared-logfiles-8ba1e5ba.md) |
-| github.com/coderquad/new-grad-positions-2022 | Go | module-preview | v0.0.0-20260830100212-29f3d5e61c75 | 2026-08-30T10:08:24.990723Z | [open](records/go-github-com-coderquad-new-grad-positions-2022-fc9dbb07.md) |
 | github.com/dgs-ai-team/dagents/shared/config | Go | module-preview | v0.0.0-20260830082250-abfdbe433de6 | 2026-08-30T10:08:23.69376Z | [open](records/go-github-com-dgs-ai-team-dagents-shared-config-08992467.md) |
 | github.com/digni/adomi | Go | module-preview | v0.0.0-20260825065104-be6383525bd6 | 2026-08-30T10:08:23.256244Z | [open](records/go-github-com-digni-adomi-767715ce.md) |
 | github.com/unownhash/rotomng | Go | module-preview | v0.0.0-20260830054525-cfd407bdcd5c | 2026-08-30T10:08:22.474745Z | [open](records/go-github-com-unownhash-rotomng-7f05ec9c.md) |
 | github.com/macronut/phantomsocks | Go | module-preview | v0.0.0-20260830060241-bacc47ab623d | 2026-08-30T10:08:21.979223Z | [open](records/go-github-com-macronut-phantomsocks-a4637933.md) |
 | github.com/hongch666/mix-web-demo | Go | module-preview | v0.0.0-20260830080648-159cf89b0c40 | 2026-08-30T10:08:21.556871Z | [open](records/go-github-com-hongch666-mix-web-demo-6416addc.md) |
 | github.com/simplifyjobs/new-grad-positions | Go | module-preview | v0.0.0-20260830100212-29f3d5e61c75 | 2026-08-30T10:08:21.532295Z | [open](records/go-github-com-simplifyjobs-new-grad-positions-08fccaa3.md) |
-| gopkg.in/chainguard-images/images.v0 | Go | module-preview | v0.0.0-20260830100648-34021558df94 | 2026-08-30T10:08:12.420309Z | [open](records/go-gopkg-in-chainguard-images-images-v0-a97edef0.md) |
 | github.com/scbizu/tape-go | Go | module-preview | v0.0.0-20260830095412-960d36a7c8c1 | 2026-08-30T10:08:10.34828Z | [open](records/go-github-com-scbizu-tape-go-91d641a9.md) |
 | gitee.com/wailsapp/wails/v3 | Go | module-preview | v3.0.0-beta.13 | 2026-08-30T10:08:04.193511Z | [open](records/go-gitee-com-wailsapp-wails-v3-3c5b4a42.md) |
 | github.com/project-planton/project-planton | Go | module-preview | v0.5.19-skill.planton.20260830.1 | 2026-08-30T10:08:02.132994Z | [open](records/go-github-com-project-planton-project-planton-a5e4f791.md) |
 | github.com/openzeppelin/openzeppelin-contracts-ethereum-package | Go | module-preview | v2.1.0-rc.1+incompatible | 2026-08-30T10:07:58.96631Z | [open](records/go-github-com-openzeppelin-openzeppelin-contracts-ethereum-package-1b4720df.md) |
-| buf.build/gen/go/ticctech/entity/protocolbuffers/go | Go | module-preview | v1.31.0-20260830095514-5f261c6c6045.2 | 2026-08-30T10:07:58.679451Z | [open](records/go-buf-build-gen-go-ticctech-entity-protocolbuffers-go-822a2f8a.md) |
 | github.com/gentoo/gentoo | Go | module-preview | v0.0.0-20260830094954-27292a21ec7f | 2026-08-30T10:07:51.85901Z | [open](records/go-github-com-gentoo-gentoo-7eb152b2.md) |
 | github.com/konflux-ci/konflux-ci/operator | Go | module-preview | v0.0.0-20260830092442-538d0b88270f | 2026-08-30T10:07:51.640113Z | [open](records/go-github-com-konflux-ci-konflux-ci-operator-d6e04f05.md) |
 | github.com/Tangerg/lynx/models/huggingface | Go | module-preview | v0.0.4-0.20260830071830-de144b4783cb | 2026-08-30T10:07:49.068266Z | [open](records/go-github-com-tangerg-lynx-models-huggingface-8ff18ac7.md) |
@@ -389,31 +430,28 @@ Generated: `2026-09-01T07:24:51+00:00`
 | github.com/goplus/llgo | Go | module-preview | v1.0.2-0.20260830061335-e637682c8772 | 2026-08-30T10:07:42.010041Z | [open](records/go-github-com-goplus-llgo-9f2f8085.md) |
 | github.com/lourkeur/dshuf | Go | module-preview | v0.0.0-20260830081607-ce9e6d412446 | 2026-08-30T10:07:35.820832Z | [open](records/go-github-com-lourkeur-dshuf-7f5e97bd.md) |
 | github.com/Tangerg/lynx/models/xiaomi | Go | module-preview | v0.0.4-0.20260830071830-de144b4783cb | 2026-08-30T10:07:35.786588Z | [open](records/go-github-com-tangerg-lynx-models-xiaomi-cd5ebcd0.md) |
-| github.com/openova-io/openova/core/services/gateway | Go | module-preview | v0.0.0-20260830100012-f8b226592cb8 | 2026-08-30T10:07:35.619526Z | [open](records/go-github-com-openova-io-openova-core-services-gateway-04f6f099.md) |
 | github.com/Chronicle20/atlas/tools/packet-audit | Go | module-preview | v0.0.0-20260830092457-577d535980c4 | 2026-08-30T10:07:32.409546Z | [open](records/go-github-com-chronicle20-atlas-tools-packet-audit-394b6cff.md) |
 | github.com/docker-library/haproxy | Go | module-preview | v0.0.0-20260827163301-b71e05460e81 | 2026-08-30T10:07:20.468424Z | [open](records/go-github-com-docker-library-haproxy-d5611bdc.md) |
-| darktable | Photography | preview | nightly | 2026-08-30T00:46:25Z | [open](records/photography-darktable-643ff3aa.md) |
+| fooyin/fooyin | Electromagnetoscopes | preview | nightly | 2026-08-29T09:12:30Z | [open](records/electromagnetoscopes-fooyin-fooyin-5da32770.md) |
+| portapack-mayhem/mayhem-firmware | Electromagnetoscopes | preview | nightly-tag-2026-08-29 | 2026-08-29T00:27:57Z | [open](records/electromagnetoscopes-portapack-mayhem-mayhem-firmware-cb62b83c.md) |
 | StrawberryShake.Transport.Http | C-Sharp | preview | 16.7.0-p.1 | 2026-08-28T21:19:09.653+00:00 | [open](records/c-sharp-strawberryshake-transport-http-31ebee86.md) |
 | HotChocolate.Transport.Http | C-Sharp | preview | 16.7.0-p.1 | 2026-08-28T21:17:59.72+00:00 | [open](records/c-sharp-hotchocolate-transport-http-99c9a830.md) |
+| mendhak/gpslogger | SatCom Satellites | preview | v138-rc1 | 2026-08-28T19:43:38Z | [open](records/satcom-satellites-mendhak-gpslogger-84bde361.md) |
 | ecotone/pdo-event-sourcing | PHP | preview | 2.0.0-beta.1 | 2026-08-28T17:48:32+00:00 | [open](records/php-ecotone-pdo-event-sourcing-595186a1.md) |
-| LangChain | "aim's" | preview | langchain==1.4.0a2 | 2026-08-28T16:19:22Z | [open](records/aim-s-langchain-eed8b0c9.md) |
-| apple/swift-crypto | Assembly | preview | 5.0.0-beta.6 | 2026-08-28T09:58:32Z | [open](records/assembly-apple-swift-crypto-1f447802.md) |
-| Bazel | Starlark | preview | 8.8.0rc4 | 2026-08-27T22:41:09Z | [open](records/starlark-bazel-189ae4a2.md) |
+| jldz9/InSARHub | Radars | preview | v0.4.0rc1 | 2026-08-28T04:00:47Z | [open](records/radars-jldz9-insarhub-fdef62b9.md) |
 | appsflyer_sdk | Dart | preview | 7.0.2-rc1 | 2026-08-27T21:12:51.640106Z | [open](records/dart-appsflyer-sdk-6ae65c04.md) |
 | OpenIddict.Validation.SystemNetHttp | C-Sharp | preview | 8.0.0-preview.3.26427.30 | 2026-08-27T07:38:27.31+00:00 | [open](records/c-sharp-openiddict-validation-systemnethttp-454cef37.md) |
 | OpenIddict.Client.SystemNetHttp | C-Sharp | preview | 8.0.0-preview.3.26427.30 | 2026-08-27T07:38:25.193+00:00 | [open](records/c-sharp-openiddict-client-systemnethttp-2334d9e1.md) |
-| bluewaysw/pcgeos | Assembly | preview | CI-latest | 2026-08-26T22:15:02Z | [open](records/assembly-bluewaysw-pcgeos-aee787b1.md) |
-| FreeCAD | Computer Graphics Software | preview | weekly-2026.08.26 | 2026-08-26T01:46:26Z | [open](records/computer-graphics-software-freecad-57741bc1.md) |
-| Sharp | Assets | preview | v0.35.4-rc.0 | 2026-08-25T23:00:37Z | [open](records/assets-sharp-22f8fbb8.md) |
+| bjarneo/cliamp | Electromagnetoscopes | preview | v2.0.0-rc.2 | 2026-08-26T07:54:34Z | [open](records/electromagnetoscopes-bjarneo-cliamp-fe896688.md) |
 | custom_refresh_indicator | Dart | preview | 4.1.0-dev.1 | 2026-08-25T18:42:05.166802Z | [open](records/dart-custom-refresh-indicator-a29b1d42.md) |
-| napari | Microscopy | preview | v0.9.0rc3 | 2026-08-25T16:21:57Z | [open](records/microscopy-napari-24961023.md) |
+| gnudatalanguage/gdl | Telescopes | preview | weekly-release | 2026-08-25T10:02:14Z | [open](records/telescopes-gnudatalanguage-gdl-37cda6a5.md) |
 | aweeri/TLEscope | Space Engines | preview | nightly | 2026-08-24T11:26:22Z | [open](records/space-engines-aweeri-tlescope-54c55a54.md) |
+| aweeri/TLEscope | SatCom Satellites | preview | nightly | 2026-08-24T11:26:22Z | [open](records/satcom-satellites-aweeri-tlescope-9706f874.md) |
+| jpettitt/weather-radar-card | Radars | preview | v3.8.0-beta3 | 2026-08-23T21:31:58Z | [open](records/radars-jpettitt-weather-radar-card-0abaa4a3.md) |
 | device_preview | Dart | preview | 3.0.0-prerelease7 | 2026-08-21T21:24:25.616058Z | [open](records/dart-device-preview-08e5439c.md) |
-| spring-projects/spring-integration | Pattern language | preview | v7.2.0-M1 | 2026-08-20T14:10:23Z | [open](records/pattern-language-spring-projects-spring-integration-fd457078.md) |
+| EttusResearch/uhd | Electromagnetoscopes | preview | v4.11.0.0-rc1 | 2026-08-20T17:01:56Z | [open](records/electromagnetoscopes-ettusresearch-uhd-84596164.md) |
 | nasa/fprime | Space Engines | preview | v4.3.0b1 | 2026-08-20T00:06:55Z | [open](records/space-engines-nasa-fprime-2ac5a2cc.md) |
-| radio-garden/react-native-audio-browser | Radio Garden Speciality | preview | v0.2.0-next.15 | 2026-08-19T13:01:30Z | [open](records/radio-garden-speciality-radio-garden-react-native-audio-browser-13adea36.md) |
 | aCT-client | Python | preview | 1.1.0b1 | 2026-08-19T11:09:44.385806Z | [open](records/python-act-client-dc179257.md) |
-| RRZE-HPC/likwid | Assembly | preview | v5.5.2rc5 | 2026-08-18T13:13:11Z | [open](records/assembly-rrze-hpc-likwid-da26554d.md) |
 | Volo.Abp.Json.SystemTextJson | C-Sharp | preview | 10.7.0-rc.3 | 2026-08-18T08:30:49.363+00:00 | [open](records/c-sharp-volo-abp-json-systemtextjson-3c4368d8.md) |
 | Volo.Abp.Json.Abstractions | C-Sharp | preview | 10.7.0-rc.3 | 2026-08-18T08:30:45.917+00:00 | [open](records/c-sharp-volo-abp-json-abstractions-617e18e6.md) |
 | Volo.Abp.Json | C-Sharp | preview | 10.7.0-rc.3 | 2026-08-18T08:30:44.177+00:00 | [open](records/c-sharp-volo-abp-json-2b1f0835.md) |
@@ -421,12 +459,7 @@ Generated: `2026-09-01T07:24:51+00:00`
 | Volo.Abp.Http.Client | C-Sharp | preview | 10.7.0-rc.3 | 2026-08-18T08:30:21.907+00:00 | [open](records/c-sharp-volo-abp-http-client-66a6f386.md) |
 | Volo.Abp.Http.Abstractions | C-Sharp | preview | 10.7.0-rc.3 | 2026-08-18T08:30:19.803+00:00 | [open](records/c-sharp-volo-abp-http-abstractions-8101fd1f.md) |
 | benfulcher/hctsa | Matlab | preview | v3.0.0-alpha | 2026-08-18T06:15:28Z | [open](records/matlab-benfulcher-hctsa-738269ba.md) |
-| KTX-Software | Assets | preview | v5.0.0-rc2 | 2026-08-17T08:17:09Z | [open](records/assets-ktx-software-5adefcb0.md) |
-| Stride | Game Engines | preview | releases/4.4.0-beta5 | 2026-08-14T21:34:18Z | [open](records/game-engines-stride-b11d3335.md) |
-| OpenMetadata | Catalogs | preview | 2.0.0-rc2-release | 2026-08-13T08:08:39Z | [open](records/catalogs-openmetadata-f48d69a5.md) |
-| Ollama | "aim's" | preview | v0.32.10 | 2026-08-12T22:36:49Z | [open](records/aim-s-ollama-e5017466.md) |
-| LLVM | Engines | preview | llvmorg-23.1.0-rc3 | 2026-08-12T05:01:22Z | [open](records/engines-llvm-258ce496.md) |
-| DataHub | Catalogs | preview | v1.6.0.1rc5 | 2026-08-11T22:21:37Z | [open](records/catalogs-datahub-fc4a0261.md) |
+| clEsperanto/pyclesperanto_prototype | Microscopy | preview | 0.24.6 | 2026-08-14T08:45:53Z | [open](records/microscopy-clesperanto-pyclesperanto-prototype-3fd5a628.md) |
 | Microsoft.AspNetCore.Http.Connections.Client | C-Sharp | preview | 11.0.0-preview.7.26381.103 | 2026-08-11T16:20:25.927+00:00 | [open](records/c-sharp-microsoft-aspnetcore-http-connections-client-477eb4d4.md) |
 | Microsoft.AspNetCore.Http.Connections.Common | C-Sharp | preview | 11.0.0-preview.7.26381.103 | 2026-08-11T16:20:25.423+00:00 | [open](records/c-sharp-microsoft-aspnetcore-http-connections-common-5f4caac9.md) |
 | Microsoft.AspNetCore.JsonPatch | C-Sharp | preview | 11.0.0-preview.7.26381.103 | 2026-08-11T16:20:25.33+00:00 | [open](records/c-sharp-microsoft-aspnetcore-jsonpatch-7d9fb127.md) |
@@ -446,116 +479,85 @@ Generated: `2026-09-01T07:24:51+00:00`
 | auth0/login | PHP | preview | 8.0.0-beta.0 | 2026-08-08T11:56:37+00:00 | [open](records/php-auth0-login-2836946f.md) |
 | NATS.Client.Serializers.Json | C-Sharp | preview | 3.1.1-preview.1 | 2026-08-07T21:05:04.267+00:00 | [open](records/c-sharp-nats-client-serializers-json-0e8347cb.md) |
 | mtex-toolbox/mtex | Matlab | preview | mtex-7.0.beta.1 | 2026-08-07T18:27:51Z | [open](records/matlab-mtex-toolbox-mtex-c19e6fb8.md) |
-| Apache Arrow | Databases | preview | apache-arrow-25.0.1-rc1 | 2026-08-06T07:21:40Z | [open](records/databases-apache-arrow-de15310e.md) |
+| brainglobe/brainglobe-atlasapi | Microscopy | preview | v3.0.0rc3 | 2026-08-07T08:04:27Z | [open](records/microscopy-brainglobe-brainglobe-atlasapi-1ee7f7d0.md) |
 | auth0/auth0-php | PHP | preview | 9.0.0-beta.6 | 2026-08-05T10:57:05+00:00 | [open](records/php-auth0-auth0-php-ae8ab54a.md) |
 | acryl-datahub-actions | Python | preview | 1.7.0rc2 | 2026-08-04T17:05:56.839788Z | [open](records/python-acryl-datahub-actions-ec111777.md) |
 | acryl-datahub | Python | preview | 1.7.0rc2 | 2026-08-04T17:02:08.290175Z | [open](records/python-acryl-datahub-425b17f5.md) |
-| KServe | "aim's" | preview | v0.20.0-rc1 | 2026-08-03T23:59:49Z | [open](records/aim-s-kserve-2678b3d2.md) |
 | Refit.Newtonsoft.Json | C-Sharp | preview | 15.0.0-beta.1 | 2026-08-03T08:34:49.76+00:00 | [open](records/c-sharp-refit-newtonsoft-json-b13614e2.md) |
 | Refit.HttpClientFactory | C-Sharp | preview | 15.0.0-beta.1 | 2026-08-03T08:34:48.68+00:00 | [open](records/c-sharp-refit-httpclientfactory-6d864536.md) |
 | Refit | C-Sharp | preview | 15.0.0-beta.1 | 2026-08-03T08:34:47.76+00:00 | [open](records/c-sharp-refit-26771c60.md) |
 | abbenay-client | Python | preview | 2026.8.0a0 | 2026-08-03T06:10:29.038691Z | [open](records/python-abbenay-client-6a08d33b.md) |
-| riscv/riscv-arch-test | Assembly | preview | cert-docs-2026-07-27-09-07-107edc2 | 2026-07-27T09:07:56Z | [open](records/assembly-riscv-riscv-arch-test-0b5f8870.md) |
+| JaneliaSciComp/fileglancer | Microscopy | preview | 3.1.0a0 | 2026-07-28T14:00:43Z | [open](records/microscopy-janeliascicomp-fileglancer-a4aeb3db.md) |
 | accli | Python | preview | 2.0.0rc4 | 2026-07-27T08:22:04.898261Z | [open](records/python-accli-ad9d0021.md) |
 | adagio-cli | Python | preview | 0.1.0a8 | 2026-07-27T04:03:24.200816Z | [open](records/python-adagio-cli-3a16bc23.md) |
 | abejacli | Python | preview | 2.2.8rc2 | 2026-07-23T03:12:39.246410Z | [open](records/python-abejacli-5e72b629.md) |
-| Milvus | Databases | preview | client/v3.0.0-beta | 2026-07-19T14:35:01Z | [open](records/databases-milvus-66248b43.md) |
-| Apache HBase | Databases | preview | rel/3.0.0-beta-2 | 2026-07-17T03:48:54Z | [open](records/databases-apache-hbase-3e3c4760.md) |
-| OBS Studio | Video | preview | 32.2.0-rc2 | 2026-07-16T21:10:05Z | [open](records/video-obs-studio-6a894ae9.md) |
-| FoundationDB | Databases | preview | 7.3.79 | 2026-07-15T20:13:35Z | [open](records/databases-foundationdb-b93e335c.md) |
-| MapLibre GL JS | Maps | preview | v6.0.0-22 | 2026-07-15T12:34:12Z | [open](records/maps-maplibre-gl-js-998d9403.md) |
-| Defold | Game Engines | preview | 1.13.2-alpha | 2026-07-13T13:09:20Z | [open](records/game-engines-defold-d45c4b4f.md) |
+| merbanan/rtl_433 | Electromagnetoscopes | preview | nightly | 2026-07-14T17:00:15Z | [open](records/electromagnetoscopes-merbanan-rtl-433-2b0a4e67.md) |
 | api-platform/json-schema | PHP | preview | v5.0.0-alpha.2 | 2026-07-12T13:20:37+00:00 | [open](records/php-api-platform-json-schema-12b34fe2.md) |
 | api-platform/jsonld | PHP | preview | v5.0.0-alpha.2 | 2026-07-12T13:20:26+00:00 | [open](records/php-api-platform-jsonld-6716bfbc.md) |
 | api-platform/core | PHP | preview | v5.0.0-alpha.2 | 2026-07-12T13:20:14+00:00 | [open](records/php-api-platform-core-9c7ba182.md) |
+| NL-BioImaging/biomero | Microscopy | preview | v2.8.0-beta.4 | 2026-07-07T12:46:04Z | [open](records/microscopy-nl-bioimaging-biomero-e59c8222.md) |
+| ziatdinovmax/SciLink | Microscopy | preview | xrd-fplib-v1 | 2026-07-05T19:56:14Z | [open](records/microscopy-ziatdinovmax-scilink-c222b07f.md) |
+| sajmons/CollimationCircles | Telescopes | preview | version-5.0.0-alpha3 | 2026-07-03T19:33:52Z | [open](records/telescopes-sajmons-collimationcircles-e6bba2db.md) |
 | danielme85/laravel-log-to-db | PHP | preview | v5.0.0-alpha | 2026-07-02T17:07:19+00:00 | [open](records/php-danielme85-laravel-log-to-db-d92de2a6.md) |
 | Confluent.SchemaRegistry.Serdes.Json | C-Sharp | preview | 2.15.0-RC2 | 2026-06-30T12:48:01.567+00:00 | [open](records/c-sharp-confluent-schemaregistry-serdes-json-b13c41d5.md) |
+| meridianfield/pushnav | Telescopes | preview | v0.3.0-beta2 | 2026-06-30T12:06:34Z | [open](records/telescopes-meridianfield-pushnav-d0b59adc.md) |
 | cakephp/database | PHP | preview | 5.4.0-RC2 | 2026-06-28T02:31:23+00:00 | [open](records/php-cakephp-database-2ab6ccae.md) |
-| RawTherapee | Photography | preview | 5.13-rc1 | 2026-06-21T18:27:20Z | [open](records/photography-rawtherapee-04b87a38.md) |
 | cached_query | Dart | preview | 3.7.0-dev.0 | 2026-06-13T02:06:05.473713Z | [open](records/dart-cached-query-5a245dd8.md) |
-| Bevy | Game Engines | preview | v0.19.0-rc.3 | 2026-06-10T11:54:40Z | [open](records/game-engines-bevy-60c1e426.md) |
+| radarlabs/react-native-radar | Radars | preview | 4.32.0-beta.0 | 2026-06-11T18:29:32Z | [open](records/radars-radarlabs-react-native-radar-909ee8db.md) |
 | youinuk/control-space_scaling | Space Shuttles | preview | v1.0.0-predoi | 2026-06-09T03:15:35Z | [open](records/space-shuttles-youinuk-control-space-scaling-d7dd2e69.md) |
-| Apache Parquet | Databases | preview | apache-parquet-format-2.13.0-rc0 | 2026-06-09T02:14:22Z | [open](records/databases-apache-parquet-4e0e3d4f.md) |
+| bopen/sarsen | Radars | preview | v0.9.6rc1 | 2026-06-07T14:16:19Z | [open](records/radars-bopen-sarsen-20870959.md) |
 | chat_bubbles | Dart | preview | 2.0.0-beta.1 | 2026-06-07T09:51:54.709297Z | [open](records/dart-chat-bubbles-b6af7870.md) |
 | JWT | C-Sharp | preview | 11.1.0-beta1 | 2026-06-03T00:55:51.177+00:00 | [open](records/c-sharp-jwt-ef2e6a74.md) |
 | RestSharp.Serializers.NewtonsoftJson | C-Sharp | preview | 114.0.1-alpha.0.4 | 2026-06-02T14:50:02.87+00:00 | [open](records/c-sharp-restsharp-serializers-newtonsoftjson-08ce613b.md) |
 | Sentry | Cocoa | preview | 9.16.0-alpha.3 | 2026-06-02 12:08:51 UTC | [open](records/cocoa-sentry-5755fd31.md) |
-| MariaDB | Databases | preview | mariadb-13.0.1 | 2026-05-29T19:32:21Z | [open](records/databases-mariadb-60709be9.md) |
-| DSPy | "aim's" | preview | 3.3.0b1 | 2026-05-28T01:11:39Z | [open](records/aim-s-dspy-39e05307.md) |
+| bopen/xarray-sentinel | Radars | preview | v0.9.6rc2 | 2026-06-01T17:28:46Z | [open](records/radars-bopen-xarray-sentinel-d49585c9.md) |
 | Serilog.Settings.Configuration | C-Sharp | preview | 10.0.1-dev-02351 | 2026-05-26T22:00:56.18+00:00 | [open](records/c-sharp-serilog-settings-configuration-2c5cf048.md) |
-| MLflow | "aim's" | preview | v3.13.0rc0 | 2026-05-22T07:41:13Z | [open](records/aim-s-mlflow-1732aa2b.md) |
-| Entity Framework Core | Databases | preview | v11.0.0-preview.4 | 2026-05-12T20:57:17Z | [open](records/databases-entity-framework-core-f1a793f6.md) |
 | indy91/FlightDesignSystem | Space Shuttles | preview | 0.1.7 | 2026-05-11T17:45:00Z | [open](records/space-shuttles-indy91-flightdesignsystem-f558cebd.md) |
 | acceldata-aio-tracer | Python | preview | 0.1.0.dev1 | 2026-05-04T14:33:52.412799Z | [open](records/python-acceldata-aio-tracer-68dd7485.md) |
+| OpenRTX/OpenRTX | Electromagnetoscopes | preview | v0.4.4 | 2026-05-01T09:32:28Z | [open](records/electromagnetoscopes-openrtx-openrtx-82481c7a.md) |
+| Nouuu/Albion-Online-OpenRadar | Radars | preview | 2.2.0-beta3 | 2026-04-29T16:55:29Z | [open](records/radars-nouuu-albion-online-openradar-04ea3acd.md) |
 | 2cli | Python | preview | 2026.3a2 | 2026-04-29T07:08:58.166678Z | [open](records/python-2cli-94ee9a2f.md) |
-| felangel/bloc | Pattern language | preview | bloc_tools-v0.1.0-dev.24 | 2026-04-24T04:11:32Z | [open](records/pattern-language-felangel-bloc-2de5d68d.md) |
 | IO-Aerospace-software-engineering/Astrodynamics | Space Engines | preview | v9.0.0-preview-4 | 2026-04-02T19:57:01Z | [open](records/space-engines-io-aerospace-software-engineering-astrodynamics-2179baf6.md) |
+| g0aty/SickoMenu | Radars | preview | v4.4.1.26 | 2026-04-01T13:03:42Z | [open](records/radars-g0aty-sickomenu-ea577365.md) |
 | spm/spm | Matlab | preview | 26.01.rc1 | 2026-03-30T13:53:26Z | [open](records/matlab-spm-spm-26c6d9ba.md) |
-| Phaser | Game Engines | preview | v4.0.0-rc.7 | 2026-03-25T21:37:52Z | [open](records/game-engines-phaser-b29d3acb.md) |
 | adaptivetesting | Python | preview | 1.2b1 | 2026-03-19T11:00:39.600938Z | [open](records/python-adaptivetesting-f81fcb19.md) |
+| 3dem/relion | Microscopy | preview | 5.1.0 | 2026-03-13T09:57:29Z | [open](records/microscopy-3dem-relion-c32d1606.md) |
 | Asp.Versioning.Http | C-Sharp | preview | 10.0.0-preview.2 | 2026-03-12T14:03:06.857+00:00 | [open](records/c-sharp-asp-versioning-http-879dc84d.md) |
-| TensorFlow | "aim's" | preview | v2.21.0-rc1 | 2026-03-02T22:23:56Z | [open](records/aim-s-tensorflow-128400a0.md) |
-| Processing | Computer Graphics Software | preview | processing-1314-4.5.3 | 2026-03-02T15:08:38Z | [open](records/computer-graphics-software-processing-f616a109.md) |
-| three.js postprocessing | Effects | preview | v7.0.0-beta.16 | 2026-02-19T21:35:24Z | [open](records/effects-three-js-postprocessing-124968b5.md) |
-| QuPath | Microscopy | preview | v0.7.0-rc1 | 2026-02-17T15:45:15Z | [open](records/microscopy-qupath-721d0946.md) |
+| tomtaylor/satellite-eyes | SatCom Satellites | preview | 2.0.0-rc.2 | 2026-02-23T21:55:19Z | [open](records/satcom-satellites-tomtaylor-satellite-eyes-502e7da9.md) |
+| qupath/qupath | Microscopy | preview | v0.7.0-rc1 | 2026-02-17T15:45:15Z | [open](records/microscopy-qupath-qupath-319e8bd2.md) |
 | JsonSchema.Net.Generation | C-Sharp | preview | 7.1.0-beta2 | 2026-02-12T08:35:20.183+00:00 | [open](records/c-sharp-jsonschema-net-generation-5dce69df.md) |
 | JsonSchema.Net | C-Sharp | preview | 9.1.0-beta | 2026-02-12T07:31:16.747+00:00 | [open](records/c-sharp-jsonschema-net-43636d3f.md) |
 | ac-websocket-server | Python | preview | 1.0.dev9 | 2026-02-03T05:47:36.072617Z | [open](records/python-ac-websocket-server-435e1c64.md) |
 | Newtonsoft.Json | C-Sharp | preview | 13.0.5-beta1 | 2025-12-30T05:27:02.473+00:00 | [open](records/c-sharp-newtonsoft-json-e821fa86.md) |
 | gesdinet/jwt-refresh-token-bundle | PHP | preview | 2.0.0-beta | 2025-12-29T22:56:24+00:00 | [open](records/php-gesdinet-jwt-refresh-token-bundle-b2601953.md) |
+| IQEngine/IQEngine | SatCom Satellites | preview | 202512200500.0.0-pre-202512200500 | 2025-12-20T05:00:27Z | [open](records/satcom-satellites-iqengine-iqengine-6f49568d.md) |
+| IQEngine/IQEngine | Electromagnetoscopes | preview | 202512200500.0.0-pre-202512200500 | 2025-12-20T05:00:27Z | [open](records/electromagnetoscopes-iqengine-iqengine-a1bc73df.md) |
 | across-client | Python | preview | 0.1.dev50 | 2025-12-17T20:38:16.816041Z | [open](records/python-across-client-d4776536.md) |
+| josevcm/nfc-laboratory | Electromagnetoscopes | preview | snapshot-build | 2025-11-27T15:03:19Z | [open](records/electromagnetoscopes-josevcm-nfc-laboratory-1860e538.md) |
 | log4net.Ext.Json | C-Sharp | preview | 3.0.3-develop2156055109 | 2025-11-13T07:06:46.403+00:00 | [open](records/c-sharp-log4net-ext-json-4eb742eb.md) |
 | CacheManager.Serialization.Json | C-Sharp | preview | 3.0.0-beta-20251110.1 | 2025-11-10T13:53:56.423+00:00 | [open](records/c-sharp-cachemanager-serialization-json-78951178.md) |
 | OpenTelemetry.Instrumentation.Http | C-Sharp | preview | 1.14.0-rc.1 | 2025-11-05T16:58:02.637+00:00 | [open](records/c-sharp-opentelemetry-instrumentation-http-8d7211e2.md) |
-| Cantera | Space Engines | preview | v3.2.0b1 | 2025-11-01T17:31:49Z | [open](records/space-engines-cantera-2ade34ed.md) |
 | duncaneddy/brahe | Space Engines | preview | latest | 2025-10-24T19:09:45Z | [open](records/space-engines-duncaneddy-brahe-7ee764e2.md) |
 | dart_code_linter | Dart | preview | 3.2.0-alpha.2 | 2025-10-21T15:05:52.519880Z | [open](records/dart-dart-code-linter-df03f02e.md) |
 | acdcserver | Python | preview | 2.4.5rc6 | 2025-10-20T19:58:45.364437Z | [open](records/python-acdcserver-1d8b103a.md) |
+| rapidsai/cucim | Microscopy | preview | v25.12.00a | 2025-10-08T14:29:50Z | [open](records/microscopy-rapidsai-cucim-6fd9f972.md) |
 | Npgsql.Json.NET | C-Sharp | preview | 10.0.0-rc.1 | 2025-10-05T20:17:28.817+00:00 | [open](records/c-sharp-npgsql-json-net-128fbdee.md) |
-| Magpylib | Electromagnetoscopes | preview | 5.2.0rc1 | 2025-10-03T20:10:23Z | [open](records/electromagnetoscopes-magpylib-a6f89736.md) |
 | WireMock.Net | C-Sharp | preview | 1.14.0-preview-01 | 2025-10-03T06:58:07.327+00:00 | [open](records/c-sharp-wiremock-net-960ac410.md) |
-| gbdev/rgbds | Assembly | preview | v1.0.0-rc2 | 2025-09-30T23:35:29Z | [open](records/assembly-gbdev-rgbds-2d9bc1c6.md) |
-| Ragas | "aim's" | preview | v0.3.5rc2 | 2025-09-17T17:40:25Z | [open](records/aim-s-ragas-2b8dde5b.md) |
-| Leaflet | Maps | preview | dev | 2025-09-17T11:16:38Z | [open](records/maps-leaflet-f474f068.md) |
+| dawsonjon/PicoRX | Electromagnetoscopes | preview | v0.1.1-alpha | 2025-09-30T17:56:18Z | [open](records/electromagnetoscopes-dawsonjon-picorx-659015f9.md) |
+| aafkegros/MicroscopyNodes | Microscopy | preview | v2.2.5-beta.2 | 2025-09-25T13:27:39Z | [open](records/microscopy-aafkegros-microscopynodes-00c8daaf.md) |
 | acme-mgmtserver | Python | preview | 0.5.0b1 | 2025-09-11T15:43:58.685391Z | [open](records/python-acme-mgmtserver-a0adecfa.md) |
-| xiph/rav1e | Assembly | preview | p20250902 | 2025-09-02T21:25:36Z | [open](records/assembly-xiph-rav1e-5183562e.md) |
+| BruceDevices/firmware | Electromagnetoscopes | preview | lastRelease | 2025-09-03T00:06:04Z | [open](records/electromagnetoscopes-brucedevices-firmware-7d55bbf4.md) |
 | AWSCRT-HTTP | C-Sharp | preview | 0.6.0-rc | 2025-08-26T23:29:42.617+00:00 | [open](records/c-sharp-awscrt-http-c0c038b2.md) |
 | mlau154/pymead | Space Engines | preview | v2.0.0-beta.13 | 2025-08-24T22:59:17Z | [open](records/space-engines-mlau154-pymead-00b1ba72.md) |
 | MatiasSaibene/FlightDataRecMFD_for_OpenOrbiter | Space Shuttles | preview | 22_08_2025 | 2025-08-22T17:25:22Z | [open](records/space-shuttles-matiassaibene-flightdatarecmfd-for-openorbiter-58027b6e.md) |
-| Unity-Technologies/com.unity.webrtc | Assembly | preview | M116-20250805 | 2025-08-13T06:01:29Z | [open](records/assembly-unity-technologies-com-unity-webrtc-4e7b1f20.md) |
+| chiahao3/ptyrad | Microscopy | preview | v0.1.0b10 | 2025-07-24T01:59:20Z | [open](records/microscopy-chiahao3-ptyrad-cbe12e50.md) |
 | Steeltoe.Common.Http | C-Sharp | preview | 4.0.0-rc1 | 2025-07-21T14:56:56.51+00:00 | [open](records/c-sharp-steeltoe-common-http-701e0ff6.md) |
 | build_runner | Dart | preview | 2.6.0-dev.2 | 2025-07-16T12:22:25.196813Z | [open](records/dart-build-runner-b4f65fb4.md) |
+| fairscope/PlanktoScope | Microscopy | preview | software/v2025.0.0-alpha.3 | 2025-07-08T12:29:02Z | [open](records/microscopy-fairscope-planktoscope-9189e5a9.md) |
 | built_value_generator | Dart | preview | 8.11.0-dev | 2025-07-08T07:56:15.184563Z | [open](records/dart-built-value-generator-eced0577.md) |
 | built_value | Dart | preview | 8.11.0-dev | 2025-07-08T07:54:46.001972Z | [open](records/dart-built-value-97fbb3d3.md) |
 | Microsoft.OpenApi | C-Sharp | preview | 2.0.0-preview.31 | 2025-07-03T00:08:16.743+00:00 | [open](records/c-sharp-microsoft-openapi-439cd0f6.md) |
-| Tippecanoe | Maps | preview | test-049b082 | 2025-06-26T19:46:45Z | [open](records/maps-tippecanoe-38368118.md) |
 | StreamJsonRpc | C-Sharp | preview | 2.23.32-alpha | 2025-06-20T16:05:33.073+00:00 | [open](records/c-sharp-streamjsonrpc-0ef82e6c.md) |
 | acapy-agent-jamie-testing | Python | preview | 1.3.1rc1 | 2025-06-10T20:41:53.642536Z | [open](records/python-acapy-agent-jamie-testing-4c9c2898.md) |
 | adata-query | Python | preview | 0.1.0rc0 | 2025-05-18T20:17:18.457800Z | [open](records/python-adata-query-c9b03068.md) |
 | ProtoBufJsonConverter | C-Sharp | preview | 0.8.0-preview-01 | 2025-05-04T17:24:10.223+00:00 | [open](records/c-sharp-protobufjsonconverter-3eff6ddd.md) |
-| cycle/orm | PHP | preview | 2.11.0-RC1 | 2025-05-04T14:33:56+00:00 | [open](records/php-cycle-orm-cca30184.md) |
-| OpenAssetIO | Assets | preview | v1.0.0-rc.2.0 | 2025-04-14T14:12:04Z | [open](records/assets-openassetio-e25d57aa.md) |
-| SigDigger | Electromagnetoscopes | preview | latest | 2025-04-08T11:32:42Z | [open](records/electromagnetoscopes-sigdigger-9dac6595.md) |
-| ZiggyCreatures.FusionCache.Serialization.SystemTextJson | C-Sharp | preview | 2.2.0-preview-1 | 2025-04-06T15:38:46.817+00:00 | [open](records/c-sharp-ziggycreatures-fusioncache-serialization-systemtextjson-004a2a37.md) |
-| ZiggyCreatures.FusionCache.Serialization.NewtonsoftJson | C-Sharp | preview | 2.2.0-preview-1 | 2025-04-06T15:37:58.18+00:00 | [open](records/c-sharp-ziggycreatures-fusioncache-serialization-newtonsoftjson-44f156d3.md) |
-| Chroma | Databases | preview | latest | 2025-04-01T23:29:39Z | [open](records/databases-chroma-1dc74975.md) |
-| OpenRocket | Space Engines | preview | release-24.12.RC.01 | 2025-03-25T15:56:37Z | [open](records/space-engines-openrocket-13460a76.md) |
-| Gallopsled/pwntools | Assembly | preview | 4.15.0beta1 | 2025-03-24T12:31:25Z | [open](records/assembly-gallopsled-pwntools-731d4a01.md) |
-| Handlebars.Net.Helpers.Json | C-Sharp | preview | 2.5.0-preview-01 | 2025-03-22T07:18:25.927+00:00 | [open](records/c-sharp-handlebars-net-helpers-json-416658fa.md) |
-| druidfi/mysqldump-php | PHP | preview | 2.0.0-rc1 | 2025-03-07T04:43:24+00:00 | [open](records/php-druidfi-mysqldump-php-f81fc9a9.md) |
-| Newtonsoft.Json.Schema | C-Sharp | preview | 4.0.2-beta2 | 2025-02-16T13:32:30.583+00:00 | [open](records/c-sharp-newtonsoft-json-schema-da0e8f2e.md) |
-| amplitude_flutter | Dart | preview | 4.0.0-beta.9 | 2025-02-06T21:33:15.498623Z | [open](records/dart-amplitude-flutter-bf9e79ec.md) |
-| GNU Radio | Radars | preview | v3.10.12.0-rc1 | 2025-02-06T16:56:58Z | [open](records/radars-gnu-radio-be3f3c2f.md) |
-| GNU Radio Satellite Workflows | SatCom Satellites | preview | v3.10.12.0-rc1 | 2025-02-06T16:56:58Z | [open](records/satcom-satellites-gnu-radio-satellite-workflows-de665cfb.md) |
-| GNU Radio | Electromagnetoscopes | preview | v3.10.12.0-rc1 | 2025-02-06T16:56:58Z | [open](records/electromagnetoscopes-gnu-radio-984c5d95.md) |
-| bottom_picker | Dart | preview | 2.12.0-0.2.dev | 2025-02-04T08:54:04.600571Z | [open](records/dart-bottom-picker-4467bf7b.md) |
-| alarm | Dart | preview | 5.0.0-dev.11 | 2025-01-30T11:19:29.247344Z | [open](records/dart-alarm-390891d2.md) |
-| acryl-datahub-airflow-plugin | Python | preview | 15.0.5rc2 | 2025-01-23T12:55:32.033982Z | [open](records/python-acryl-datahub-airflow-plugin-651c1716.md) |
-| acryl-datahub-gx-plugin | Python | preview | 15.0.5rc2 | 2025-01-23T12:54:17.298599Z | [open](records/python-acryl-datahub-gx-plugin-5c879a7a.md) |
-| acryl-datahub-dagster-plugin | Python | preview | 15.0.5rc2 | 2025-01-23T12:54:16.063596Z | [open](records/python-acryl-datahub-dagster-plugin-600a40f1.md) |
-| aura/sql | PHP | preview | 6.0.0-beta1 | 2025-01-22T06:45:21+00:00 | [open](records/php-aura-sql-a7b4840d.md) |
-| Agoda.Frameworks.Http | C-Sharp | preview | 8.0.153-preview | 2025-01-12T06:22:44.597+00:00 | [open](records/c-sharp-agoda-frameworks-http-9635f4f9.md) |
-| catfan/medoo | PHP | preview | v2.2.0-beta | 2024-12-22T10:15:08+00:00 | [open](records/php-catfan-medoo-b62a84e4.md) |
-| crop_your_image | Dart | preview | 2.0.0-dev.7 | 2024-12-12T15:04:46.297849Z | [open](records/dart-crop-your-image-b15fdf42.md) |
-| OpenCV | Computer Graphics Software | preview | 5.0.0-alpha | 2024-12-05T15:54:34Z | [open](records/computer-graphics-software-opencv-176c1f8a.md) |
-| Microsoft.Azure.Functions.Worker.Extensions.Http.AspNetCore | C-Sharp | preview | 2.0.0-preview4 | 2024-10-24T00:43:49.16+00:00 | [open](records/c-sharp-microsoft-azure-functions-worker-extensions-http-aspnetcore-c0885200.md) |

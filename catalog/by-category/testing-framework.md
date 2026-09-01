@@ -1,6 +1,6 @@
 # Testing Framework
 
-Records: `401`
+Records: `407`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `401`
 
 ## Category Index
 
-[Api Abi Checker (93)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
-[Benchmarking (58)](benchmarking.md) · [Build System (482)](build-system.md) · [Cli (420)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (55)](community-reference.md) · [Compiler (106)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (32)](compression.md)
-[Concurrency Parallelism (59)](concurrency-parallelism.md) · [Configuration (60)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (125)](cryptography.md) · [Data Science (26)](data-science.md) · [Database Datastore (426)](database-datastore.md) · [Datetime (69)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (32)](debugger.md) · [Dependency Manager (56)](dependency-manager.md) · [Documentation (52)](documentation.md)
-[Embedded Hardware (21)](embedded-hardware.md) · [Ffi Bindings (290)](ffi-bindings.md) · [Filesystem Os (423)](filesystem-os.md) · [Formatter (393)](formatter.md)
-[Framework (27)](framework.md) · [Fuzzer (19)](fuzzer.md) · [Game Engine Game Dev (85)](game-engine-game-dev.md) · [Ide Editor Integration (554)](ide-editor-integration.md)
-[Image Audio Dsp (88)](image-audio-dsp.md) · [Interop Bindings (43)](interop-bindings.md) · [Interpreter Runtime (111)](interpreter-runtime.md) · [Jit Vm (50)](jit-vm.md)
-[Language Server (20)](language-server.md) · [Language Specification (572)](language-specification.md) · [Library (3015)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (31)](lint-rule-pack.md) · [Linter (326)](linter.md) · [Logging Observability (216)](logging-observability.md) · [Machine Learning (306)](machine-learning.md)
-[Math Numeric Scientific (68)](math-numeric-scientific.md) · [Memory Analyzer (51)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (632)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (156)](package-manager.md) · [Parser Lexer Ast (480)](parser-lexer-ast.md) · [Precommit Ci Quality (160)](precommit-ci-quality.md)
-[Profiler (51)](profiler.md) · [Project Scaffolding (68)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (6)](sanitizer.md)
-[Security Sast (247)](security-sast.md) · [Serialization (266)](serialization.md) · [Standard Library (21)](standard-library.md) · [Static Analyzer (203)](static-analyzer.md)
-[Templating (2)](templating.md) · **[Testing Framework (401)](testing-framework.md)** · [Tutorial Book Styleguide (32)](tutorial-book-styleguide.md) · [Type Checker (238)](type-checker.md)
-[Undefined Behavior Analyzer (446)](undefined-behavior-analyzer.md) · [Utility Library (68)](utility-library.md) · [Visualization Gui (222)](visualization-gui.md) · [Web Framework (277)](web-framework.md)
+[Api Abi Checker (100)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
+[Benchmarking (64)](benchmarking.md) · [Build System (503)](build-system.md) · [Cli (431)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (61)](community-reference.md) · [Compiler (107)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (34)](compression.md)
+[Concurrency Parallelism (61)](concurrency-parallelism.md) · [Configuration (64)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (127)](cryptography.md) · [Data Science (26)](data-science.md) · [Database Datastore (428)](database-datastore.md) · [Datetime (86)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (57)](dependency-manager.md) · [Documentation (57)](documentation.md)
+[Embedded Hardware (34)](embedded-hardware.md) · [Ffi Bindings (307)](ffi-bindings.md) · [Filesystem Os (544)](filesystem-os.md) · [Formatter (416)](formatter.md)
+[Framework (31)](framework.md) · [Fuzzer (20)](fuzzer.md) · [Game Engine Game Dev (93)](game-engine-game-dev.md) · [Ide Editor Integration (657)](ide-editor-integration.md)
+[Image Audio Dsp (116)](image-audio-dsp.md) · [Interop Bindings (45)](interop-bindings.md) · [Interpreter Runtime (121)](interpreter-runtime.md) · [Jit Vm (51)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (586)](language-specification.md) · [Library (3146)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (31)](lint-rule-pack.md) · [Linter (327)](linter.md) · [Logging Observability (231)](logging-observability.md) · [Machine Learning (333)](machine-learning.md)
+[Math Numeric Scientific (69)](math-numeric-scientific.md) · [Memory Analyzer (51)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (652)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (173)](package-manager.md) · [Parser Lexer Ast (560)](parser-lexer-ast.md) · [Precommit Ci Quality (163)](precommit-ci-quality.md)
+[Profiler (52)](profiler.md) · [Project Scaffolding (74)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (7)](sanitizer.md)
+[Security Sast (250)](security-sast.md) · [Serialization (268)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (245)](static-analyzer.md)
+[Templating (2)](templating.md) · **[Testing Framework (407)](testing-framework.md)** · [Tutorial Book Styleguide (34)](tutorial-book-styleguide.md) · [Type Checker (248)](type-checker.md)
+[Undefined Behavior Analyzer (615)](undefined-behavior-analyzer.md) · [Utility Library (73)](utility-library.md) · [Visualization Gui (240)](visualization-gui.md) · [Web Framework (285)](web-framework.md)
 
 ## C99
 
@@ -177,7 +177,7 @@ Records: `401`
 | @iobroker/testing | 5.3.0 | 2026-07-11T07:36:57.584Z | [open](../records/node-js-javascript-iobroker-testing-1634fcb2.md) |
 | @japa/runner | 5.3.0 | 2026-01-17T08:07:46.880Z | [open](../records/node-js-javascript-japa-runner-e5c110c3.md) |
 | @jest-mock/express | 3.0.0 | 2025-02-03T20:48:41.468Z | [open](../records/node-js-javascript-jest-mock-express-619dafe1.md) |
-| @jest/core | 30.5.0 | 2026-08-28T08:28:40.590Z | [open](../records/node-js-javascript-jest-core-a19c88f3.md) |
+| @jest/core | 30.5.1 | 2026-09-01T08:02:41.823Z | [open](../records/node-js-javascript-jest-core-a19c88f3.md) |
 | @jupyterlab/testing | 4.6.3 | 2026-08-10T18:58:00.612Z | [open](../records/node-js-javascript-jupyterlab-testing-28452a4e.md) |
 | @khanacademy/wonder-stuff-testing | 4.0.3 | 2025-12-01T22:29:18.939Z | [open](../records/node-js-javascript-khanacademy-wonder-stuff-testing-c588117e.md) |
 | @leaflink/dom-testing-utils | 5.3.2 | 2026-05-29T14:03:41.830Z | [open](../records/node-js-javascript-leaflink-dom-testing-utils-1cdf420f.md) |
@@ -190,6 +190,7 @@ Records: `401`
 | @nest/testing | 4.5.4 | 2017-12-22T21:02:54.181Z | [open](../records/node-js-javascript-nest-testing-e2c757e6.md) |
 | @nestjs-cognito/testing | 2.2.1 | 2025-11-13T17:24:12.983Z | [open](../records/node-js-javascript-nestjs-cognito-testing-0f6d2a65.md) |
 | @nestjs/testing | 12.0.1 | 2026-08-27T07:28:09.967Z | [open](../records/node-js-javascript-nestjs-testing-ec9819e0.md) |
+| @node-oauth/oauth2-server | 5.3.0 | 2026-04-15T05:45:58.243Z | [open](../records/node-js-javascript-node-oauth-oauth2-server-9e045210.md) |
 | @noma.to/qwik-testing-library | 1.6.0 | 2026-04-12T12:49:16.681Z | [open](../records/node-js-javascript-noma-to-qwik-testing-library-18e65cdf.md) |
 | @nomicfoundation/hardhat-chai-matchers | 3.0.0 | 2026-02-26T15:51:25.450Z | [open](../records/node-js-javascript-nomicfoundation-hardhat-chai-matchers-b44b57e3.md) |
 | @open-wc/testing | 5.0.0 | 2026-07-13T14:04:51.726Z | [open](../records/node-js-javascript-open-wc-testing-fb31caab.md) |
@@ -296,15 +297,15 @@ Records: `401`
 | is-lite | 2.0.0 | 2025-11-23T01:22:42.906Z | [open](../records/node-js-javascript-is-lite-b5a2333b.md) |
 | jasmine-core | 7.0.2 | 2026-08-20T00:34:23.573Z | [open](../records/node-js-javascript-jasmine-core-3cf10765.md) |
 | jasmine-marbles | 0.9.2 | 2022-03-02T12:24:00.575Z | [open](../records/node-js-javascript-jasmine-marbles-ad1cba1f.md) |
-| Jest | 30.5.0 | 2026-08-28T08:29:25.711Z | [open](../records/node-js-javascript-jest-11d247aa.md) |
+| Jest | 30.5.1 | 2026-09-01T07:59:10.505Z | [open](../records/node-js-javascript-jest-11d247aa.md) |
 | jest-axe | 11.0.0 | 2026-07-26T19:08:15.954Z | [open](../records/node-js-javascript-jest-axe-3c2e7480.md) |
-| jest-cli | 30.5.0 | 2026-08-28T08:28:42.096Z | [open](../records/node-js-javascript-jest-cli-444b4f5e.md) |
+| jest-cli | 30.5.1 | 2026-09-01T07:58:47.704Z | [open](../records/node-js-javascript-jest-cli-444b4f5e.md) |
 | jest-dev-server | 11.0.0 | 2024-12-21T07:50:11.146Z | [open](../records/node-js-javascript-jest-dev-server-31e5602f.md) |
 | jest-enzyme | 7.1.2 | 2019-10-29T15:42:39.287Z | [open](../records/node-js-javascript-jest-enzyme-2e9860c3.md) |
-| jest-haste-map | 30.5.0 | 2026-08-28T08:28:45.296Z | [open](../records/node-js-javascript-jest-haste-map-e928a143.md) |
+| jest-haste-map | 30.5.1 | 2026-09-01T07:58:33.559Z | [open](../records/node-js-javascript-jest-haste-map-e928a143.md) |
 | jest-image-snapshot | 6.5.2 | 2026-03-09T10:06:34.888Z | [open](../records/node-js-javascript-jest-image-snapshot-b9dddd24.md) |
 | jest-marbles | 4.0.1 | 2026-07-15T10:42:19.252Z | [open](../records/node-js-javascript-jest-marbles-a21630b7.md) |
-| jest-watcher | 30.5.0 | 2026-08-28T08:29:42.080Z | [open](../records/node-js-javascript-jest-watcher-91328aa7.md) |
+| jest-watcher | 30.5.1 | 2026-09-01T07:59:59.411Z | [open](../records/node-js-javascript-jest-watcher-91328aa7.md) |
 | js-reporters | 2.1.0 | 2021-06-06T20:53:09.721Z | [open](../records/node-js-javascript-js-reporters-4bb04f9a.md) |
 | karma-jasmine | 5.1.0 | 2022-06-16T02:44:40.545Z | [open](../records/node-js-javascript-karma-jasmine-32202ee2.md) |
 | karma-mocha | 2.0.1 | 2020-04-29T14:38:36.900Z | [open](../records/node-js-javascript-karma-mocha-fe72c082.md) |
@@ -480,8 +481,8 @@ Records: `401`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| OpenAI Evals | unknown | github_latest_release_missing | [open](../records/aim-s-openai-evals-595f42a4.md) |
-| Ragas | v0.4.3 | 2026-01-13T17:47:29Z | [open](../records/aim-s-ragas-2b8dde5b.md) |
+| OpenAI Evals | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-openai-evals-595f42a4.md) |
+| Ragas | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ragas-2b8dde5b.md) |
 
 ## Space Engines
 
@@ -490,12 +491,32 @@ Records: `401`
 | SerhiiStets/skylab | v0.2.1 | 2023-05-10T21:52:15Z | [open](../records/space-engines-serhiistets-skylab-92c5740a.md) |
 | TheSpaceDevs/spaceflightnewsapi | 4.33.0 | 2026-08-11T10:31:19Z | [open](../records/space-engines-thespacedevs-spaceflightnewsapi-044e3573.md) |
 
+## Microscopy
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| InsightSoftwareConsortium/OMEZarrOpenSciVisDatasets | v2026.02.14 | 2026-02-14T17:27:02Z | [open](../records/microscopy-insightsoftwareconsortium-omezarropenscivisdatasets-08cb1191.md) |
+
+## Radars
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| usnistgov/SimulatedRadarWaveformGenerator | V1.1 | 2021-05-10T15:44:50Z | [open](../records/radars-usnistgov-simulatedradarwaveformgenerator-d278d508.md) |
+
+## SatCom Satellites
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| avinashbot/satellite | v0.4.1 | 2016-08-21T00:45:03Z | [open](../records/satcom-satellites-avinashbot-satellite-fad7a270.md) |
+| sabbir-uoulu/open-source-5g-ntn-leo | unknown | github_latest_release_missing | [open](../records/satcom-satellites-sabbir-uoulu-open-source-5g-ntn-leo-2980cc7d.md) |
+| ungoldman/himawari-bg | v2.0.2 | 2023-01-20T23:31:35Z | [open](../records/satcom-satellites-ungoldman-himawari-bg-83627cbe.md) |
+
 ## Pattern language
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mohamed-taman/Springy-Store-Microservices | v6.2.1 | 2020-07-31T00:20:45Z | [open](../records/pattern-language-mohamed-taman-springy-store-microservices-0fe642bd.md) |
-| tuyucheng7/taketoday-tutorial4j | unknown | github_latest_release_missing | [open](../records/pattern-language-tuyucheng7-taketoday-tutorial4j-b572cc7b.md) |
+| mohamed-taman/Springy-Store-Microservices | partial | 2024-03-08T13:01:31Z | [open](../records/pattern-language-mohamed-taman-springy-store-microservices-0fe642bd.md) |
+| tuyucheng7/taketoday-tutorial4j | partial | 2024-03-30T13:38:52Z | [open](../records/pattern-language-tuyucheng7-taketoday-tutorial4j-b572cc7b.md) |
 
 ## PHP
 

@@ -1,6 +1,6 @@
 # Static Analyzer
 
-Records: `203`
+Records: `245`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `203`
 
 ## Category Index
 
-[Api Abi Checker (93)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
-[Benchmarking (58)](benchmarking.md) · [Build System (482)](build-system.md) · [Cli (420)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (55)](community-reference.md) · [Compiler (106)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (32)](compression.md)
-[Concurrency Parallelism (59)](concurrency-parallelism.md) · [Configuration (60)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (125)](cryptography.md) · [Data Science (26)](data-science.md) · [Database Datastore (426)](database-datastore.md) · [Datetime (69)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (32)](debugger.md) · [Dependency Manager (56)](dependency-manager.md) · [Documentation (52)](documentation.md)
-[Embedded Hardware (21)](embedded-hardware.md) · [Ffi Bindings (290)](ffi-bindings.md) · [Filesystem Os (423)](filesystem-os.md) · [Formatter (393)](formatter.md)
-[Framework (27)](framework.md) · [Fuzzer (19)](fuzzer.md) · [Game Engine Game Dev (85)](game-engine-game-dev.md) · [Ide Editor Integration (554)](ide-editor-integration.md)
-[Image Audio Dsp (88)](image-audio-dsp.md) · [Interop Bindings (43)](interop-bindings.md) · [Interpreter Runtime (111)](interpreter-runtime.md) · [Jit Vm (50)](jit-vm.md)
-[Language Server (20)](language-server.md) · [Language Specification (572)](language-specification.md) · [Library (3015)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (31)](lint-rule-pack.md) · [Linter (326)](linter.md) · [Logging Observability (216)](logging-observability.md) · [Machine Learning (306)](machine-learning.md)
-[Math Numeric Scientific (68)](math-numeric-scientific.md) · [Memory Analyzer (51)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (632)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (156)](package-manager.md) · [Parser Lexer Ast (480)](parser-lexer-ast.md) · [Precommit Ci Quality (160)](precommit-ci-quality.md)
-[Profiler (51)](profiler.md) · [Project Scaffolding (68)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (6)](sanitizer.md)
-[Security Sast (247)](security-sast.md) · [Serialization (266)](serialization.md) · [Standard Library (21)](standard-library.md) · **[Static Analyzer (203)](static-analyzer.md)**
-[Templating (2)](templating.md) · [Testing Framework (401)](testing-framework.md) · [Tutorial Book Styleguide (32)](tutorial-book-styleguide.md) · [Type Checker (238)](type-checker.md)
-[Undefined Behavior Analyzer (446)](undefined-behavior-analyzer.md) · [Utility Library (68)](utility-library.md) · [Visualization Gui (222)](visualization-gui.md) · [Web Framework (277)](web-framework.md)
+[Api Abi Checker (100)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
+[Benchmarking (64)](benchmarking.md) · [Build System (503)](build-system.md) · [Cli (431)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (61)](community-reference.md) · [Compiler (107)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (34)](compression.md)
+[Concurrency Parallelism (61)](concurrency-parallelism.md) · [Configuration (64)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (127)](cryptography.md) · [Data Science (26)](data-science.md) · [Database Datastore (428)](database-datastore.md) · [Datetime (86)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (57)](dependency-manager.md) · [Documentation (57)](documentation.md)
+[Embedded Hardware (34)](embedded-hardware.md) · [Ffi Bindings (307)](ffi-bindings.md) · [Filesystem Os (544)](filesystem-os.md) · [Formatter (416)](formatter.md)
+[Framework (31)](framework.md) · [Fuzzer (20)](fuzzer.md) · [Game Engine Game Dev (93)](game-engine-game-dev.md) · [Ide Editor Integration (657)](ide-editor-integration.md)
+[Image Audio Dsp (116)](image-audio-dsp.md) · [Interop Bindings (45)](interop-bindings.md) · [Interpreter Runtime (121)](interpreter-runtime.md) · [Jit Vm (51)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (586)](language-specification.md) · [Library (3146)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (31)](lint-rule-pack.md) · [Linter (327)](linter.md) · [Logging Observability (231)](logging-observability.md) · [Machine Learning (333)](machine-learning.md)
+[Math Numeric Scientific (69)](math-numeric-scientific.md) · [Memory Analyzer (51)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (652)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (173)](package-manager.md) · [Parser Lexer Ast (560)](parser-lexer-ast.md) · [Precommit Ci Quality (163)](precommit-ci-quality.md)
+[Profiler (52)](profiler.md) · [Project Scaffolding (74)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (7)](sanitizer.md)
+[Security Sast (250)](security-sast.md) · [Serialization (268)](serialization.md) · [Standard Library (22)](standard-library.md) · **[Static Analyzer (245)](static-analyzer.md)**
+[Templating (2)](templating.md) · [Testing Framework (407)](testing-framework.md) · [Tutorial Book Styleguide (34)](tutorial-book-styleguide.md) · [Type Checker (248)](type-checker.md)
+[Undefined Behavior Analyzer (615)](undefined-behavior-analyzer.md) · [Utility Library (73)](utility-library.md) · [Visualization Gui (240)](visualization-gui.md) · [Web Framework (285)](web-framework.md)
 
 ## C99
 
@@ -292,24 +292,96 @@ Records: `203`
 | DavidR-21/Space-Shuttle-Reentry-Analysis | unknown | github_latest_release_missing | [open](../records/space-shuttles-davidr-21-space-shuttle-reentry-analysis-885e7731.md) |
 | Mizharrrrrhidi1818/OutlierDetectionMethod-IsolationForest-LOF-DBSCAN | unknown | github_latest_release_missing | [open](../records/space-shuttles-mizharrrrrhidi1818-outlierdetectionmethod-isolationforest-lof-dbscan-480fa68e.md) |
 
+## Photography
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| jackw01/scanlight | unknown | github_search_does_not_include_release_date | [open](../records/photography-jackw01-scanlight-ebc00536.md) |
+| marcinz606/NegPy | unknown | github_search_does_not_include_release_date | [open](../records/photography-marcinz606-negpy-f991191a.md) |
+| ncoevoet/facet | unknown | github_search_does_not_include_release_date | [open](../records/photography-ncoevoet-facet-f48943dd.md) |
+| photonixapp/photonix | unknown | github_search_does_not_include_release_date | [open](../records/photography-photonixapp-photonix-0ee14fb2.md) |
+| stongey/PhotoRestore | unknown | github_search_does_not_include_release_date | [open](../records/photography-stongey-photorestore-e3bb2edb.md) |
+| toonoumi/FreeCCR | unknown | github_search_does_not_include_release_date | [open](../records/photography-toonoumi-freeccr-2918c356.md) |
+
+## Microscopy
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| AICONSlab/MIRACL | v2.5.3 | 2025-12-10T18:30:01Z | [open](../records/microscopy-aiconslab-miracl-cf8be60e.md) |
+| arttumiettinen/pi2 | v4.5 | 2025-03-27T15:02:08Z | [open](../records/microscopy-arttumiettinen-pi2-7fa92455.md) |
+| bonej-org/BoneJ2 | bonej-7.2.2 | 2026-06-28T15:55:25Z | [open](../records/microscopy-bonej-org-bonej2-7a23494e.md) |
+| clEsperanto/pyclesperanto_prototype | unknown | github_latest_release_missing | [open](../records/microscopy-clesperanto-pyclesperanto-prototype-3fd5a628.md) |
+| imjoy-team/imagej.js | v0.4.0 | 2021-06-14T12:20:14Z | [open](../records/microscopy-imjoy-team-imagej-js-ab4ae7b8.md) |
+| NL-BioImaging/biomero | v2.8.2 | 2026-08-20T11:21:09Z | [open](../records/microscopy-nl-bioimaging-biomero-e59c8222.md) |
+| pycroscopy/pycroscopy | v0.63.3 | 2024-06-05T21:26:20Z | [open](../records/microscopy-pycroscopy-pycroscopy-e22f9142.md) |
+| qupath/qupath | v0.7.0 | 2026-03-02T15:07:30Z | [open](../records/microscopy-qupath-qupath-319e8bd2.md) |
+
+## Telescopes
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| gwastro/pycbc | v2.10.0 | 2025-10-26T15:07:40Z | [open](../records/telescopes-gwastro-pycbc-b93b6565.md) |
+| lightkurve/lightkurve | v2.6.0 | 2026-04-16T18:20:04Z | [open](../records/telescopes-lightkurve-lightkurve-47762682.md) |
+
+## Radars
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| ANDRVV/gapcast | v1.0.3 | 2024-07-26T14:23:04Z | [open](../records/radars-andrvv-gapcast-2f99ac58.md) |
+| chadi0x/TheBigBrother | unknown | github_latest_release_missing | [open](../records/radars-chadi0x-thebigbrother-17499a23.md) |
+| gisbi-kim/navtech-radar-slam | unknown | github_latest_release_missing | [open](../records/radars-gisbi-kim-navtech-radar-slam-ac9770d7.md) |
+| IMS-AS-LUH/sar-sim | unknown | github_latest_release_missing | [open](../records/radars-ims-as-luh-sar-sim-e1aa94e8.md) |
+| jasonmanesis/Satellite-Imagery-Datasets-Containing-Ships | unknown | github_latest_release_missing | [open](../records/radars-jasonmanesis-satellite-imagery-datasets-containing-ships-e69d613c.md) |
+| Kalit31/Land-Cover-Analysis | unknown | github_latest_release_missing | [open](../records/radars-kalit31-land-cover-analysis-bac816f9.md) |
+| SICKAG/sick_scan_xd | 3.9.0 | 2026-03-17T11:39:59Z | [open](../records/radars-sickag-sick-scan-xd-0e67e41e.md) |
+| XDeadHackerX/NetRadar | unknown | github_latest_release_missing | [open](../records/radars-xdeadhackerx-netradar-faa3dcea.md) |
+
+## SatCom Satellites
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| kylebarron/deck.gl-raster | unknown | github_latest_release_missing | [open](../records/satcom-satellites-kylebarron-deck-gl-raster-e8f894a4.md) |
+| obss/sahi | 0.12.6 | 2026-08-16T22:10:28Z | [open](../records/satcom-satellites-obss-sahi-1480f6f4.md) |
+| sshuair/torchsat | v0.0.1 | 2019-09-24T15:05:01Z | [open](../records/satcom-satellites-sshuair-torchsat-b039098e.md) |
+| Unidata/gempak | 7.20.0 | 2026-01-16T19:27:07Z | [open](../records/satcom-satellites-unidata-gempak-18ff07e6.md) |
+
+## Electromagnetoscopes
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| chuot/rdio-scanner | v6.6.3 | 2022-11-25T12:37:15Z | [open](../records/electromagnetoscopes-chuot-rdio-scanner-3a797b17.md) |
+| ComThings/PandwaRF | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-comthings-pandwarf-66230deb.md) |
+| demantz/RFAnalyzer | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-demantz-rfanalyzer-3b40f3ea.md) |
+| dsward2/LocalRadio | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-dsward2-localradio-cb9fccb0.md) |
+| EarToEarOak/RTLSDR-Scanner | v1.3.2 | 2018-05-05T11:26:23Z | [open](../records/electromagnetoscopes-eartoearoak-rtlsdr-scanner-cde8a03f.md) |
+| falkenber9/falcon | v1.3.0 | 2020-11-08T08:08:33Z | [open](../records/electromagnetoscopes-falkenber9-falcon-0651a0dc.md) |
+| ghostop14/sparrow-wifi | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-ghostop14-sparrow-wifi-385fa5e7.md) |
+| josevcm/nfc-laboratory | 3.4.2 | 2025-11-28T12:07:07Z | [open](../records/electromagnetoscopes-josevcm-nfc-laboratory-1860e538.md) |
+| neural75/gqrx-scanner | v1.1.0 | 2026-06-07T23:41:12Z | [open](../records/electromagnetoscopes-neural75-gqrx-scanner-47ffd36c.md) |
+| rfquack/RFQuack | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-rfquack-rfquack-ea9f1c02.md) |
+| shajen/rtl-sdr-scanner-cpp | v1.0.5 | 2023-02-15T16:22:43Z | [open](../records/electromagnetoscopes-shajen-rtl-sdr-scanner-cpp-9483eaae.md) |
+| szpajder/dumpvdl2 | v2.7.0 | 2026-08-01T19:58:34Z | [open](../records/electromagnetoscopes-szpajder-dumpvdl2-87835e79.md) |
+| ttrftech/NanoVNA | 0.8.0 | 2020-06-19T23:17:43Z | [open](../records/electromagnetoscopes-ttrftech-nanovna-4dca7773.md) |
+| xmikos/qspectrumanalyzer | partial | 2024-04-03T20:14:12Z | [open](../records/electromagnetoscopes-xmikos-qspectrumanalyzer-57b2ff1e.md) |
+
 ## Assembly
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mandiant/flare-learning-hub | unknown | github_latest_release_missing | [open](../records/assembly-mandiant-flare-learning-hub-36dc67ad.md) |
+| mandiant/flare-learning-hub | partial | 2026-03-31T14:36:02Z | [open](../records/assembly-mandiant-flare-learning-hub-36dc67ad.md) |
 
 ## Pattern language
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ddd-by-examples/library | unknown | github_latest_release_missing | [open](../records/pattern-language-ddd-by-examples-library-19a9d881.md) |
-| simple-android-framework/android_design_patterns_analysis | unknown | github_latest_release_missing | [open](../records/pattern-language-simple-android-framework-android-design-patterns-analysis-d87c1f0b.md) |
+| ddd-by-examples/library | partial | 2023-07-07T21:43:17Z | [open](../records/pattern-language-ddd-by-examples-library-19a9d881.md) |
+| simple-android-framework/android_design_patterns_analysis | partial | 2023-09-26T09:34:23Z | [open](../records/pattern-language-simple-android-framework-android-design-patterns-analysis-d87c1f0b.md) |
 
 ## Repository Workplaces
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-01T06:31:26.067Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
-| gitlab-org/gitlab | partial | 2026-09-01T06:21:56.106Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
+| gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-01T08:09:45.497Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
+| gitlab-org/gitlab | partial | 2026-09-01T08:21:58.740Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
 | gitlab-org/security-products/analyzers/container-scanning | partial | 2026-08-27T18:19:28.289Z | [open](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) |
 | mopsa/mopsa-analyzer | partial | 2026-08-23T14:57:22.050Z | [open](../records/repository-workplaces-mopsa-mopsa-analyzer-9740e96e.md) |

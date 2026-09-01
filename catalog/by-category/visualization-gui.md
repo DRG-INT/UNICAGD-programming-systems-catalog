@@ -1,6 +1,6 @@
 # Visualization Gui
 
-Records: `222`
+Records: `240`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `222`
 
 ## Category Index
 
-[Api Abi Checker (93)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
-[Benchmarking (58)](benchmarking.md) · [Build System (482)](build-system.md) · [Cli (420)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (55)](community-reference.md) · [Compiler (106)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (32)](compression.md)
-[Concurrency Parallelism (59)](concurrency-parallelism.md) · [Configuration (60)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (125)](cryptography.md) · [Data Science (26)](data-science.md) · [Database Datastore (426)](database-datastore.md) · [Datetime (69)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (32)](debugger.md) · [Dependency Manager (56)](dependency-manager.md) · [Documentation (52)](documentation.md)
-[Embedded Hardware (21)](embedded-hardware.md) · [Ffi Bindings (290)](ffi-bindings.md) · [Filesystem Os (423)](filesystem-os.md) · [Formatter (393)](formatter.md)
-[Framework (27)](framework.md) · [Fuzzer (19)](fuzzer.md) · [Game Engine Game Dev (85)](game-engine-game-dev.md) · [Ide Editor Integration (554)](ide-editor-integration.md)
-[Image Audio Dsp (88)](image-audio-dsp.md) · [Interop Bindings (43)](interop-bindings.md) · [Interpreter Runtime (111)](interpreter-runtime.md) · [Jit Vm (50)](jit-vm.md)
-[Language Server (20)](language-server.md) · [Language Specification (572)](language-specification.md) · [Library (3015)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (31)](lint-rule-pack.md) · [Linter (326)](linter.md) · [Logging Observability (216)](logging-observability.md) · [Machine Learning (306)](machine-learning.md)
-[Math Numeric Scientific (68)](math-numeric-scientific.md) · [Memory Analyzer (51)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (632)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (156)](package-manager.md) · [Parser Lexer Ast (480)](parser-lexer-ast.md) · [Precommit Ci Quality (160)](precommit-ci-quality.md)
-[Profiler (51)](profiler.md) · [Project Scaffolding (68)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (6)](sanitizer.md)
-[Security Sast (247)](security-sast.md) · [Serialization (266)](serialization.md) · [Standard Library (21)](standard-library.md) · [Static Analyzer (203)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (401)](testing-framework.md) · [Tutorial Book Styleguide (32)](tutorial-book-styleguide.md) · [Type Checker (238)](type-checker.md)
-[Undefined Behavior Analyzer (446)](undefined-behavior-analyzer.md) · [Utility Library (68)](utility-library.md) · **[Visualization Gui (222)](visualization-gui.md)** · [Web Framework (277)](web-framework.md)
+[Api Abi Checker (100)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
+[Benchmarking (64)](benchmarking.md) · [Build System (503)](build-system.md) · [Cli (431)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (61)](community-reference.md) · [Compiler (107)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (34)](compression.md)
+[Concurrency Parallelism (61)](concurrency-parallelism.md) · [Configuration (64)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (127)](cryptography.md) · [Data Science (26)](data-science.md) · [Database Datastore (428)](database-datastore.md) · [Datetime (86)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (57)](dependency-manager.md) · [Documentation (57)](documentation.md)
+[Embedded Hardware (34)](embedded-hardware.md) · [Ffi Bindings (307)](ffi-bindings.md) · [Filesystem Os (544)](filesystem-os.md) · [Formatter (416)](formatter.md)
+[Framework (31)](framework.md) · [Fuzzer (20)](fuzzer.md) · [Game Engine Game Dev (93)](game-engine-game-dev.md) · [Ide Editor Integration (657)](ide-editor-integration.md)
+[Image Audio Dsp (116)](image-audio-dsp.md) · [Interop Bindings (45)](interop-bindings.md) · [Interpreter Runtime (121)](interpreter-runtime.md) · [Jit Vm (51)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (586)](language-specification.md) · [Library (3146)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (31)](lint-rule-pack.md) · [Linter (327)](linter.md) · [Logging Observability (231)](logging-observability.md) · [Machine Learning (333)](machine-learning.md)
+[Math Numeric Scientific (69)](math-numeric-scientific.md) · [Memory Analyzer (51)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (652)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (173)](package-manager.md) · [Parser Lexer Ast (560)](parser-lexer-ast.md) · [Precommit Ci Quality (163)](precommit-ci-quality.md)
+[Profiler (52)](profiler.md) · [Project Scaffolding (74)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (7)](sanitizer.md)
+[Security Sast (250)](security-sast.md) · [Serialization (268)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (245)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (407)](testing-framework.md) · [Tutorial Book Styleguide (34)](tutorial-book-styleguide.md) · [Type Checker (248)](type-checker.md)
+[Undefined Behavior Analyzer (615)](undefined-behavior-analyzer.md) · [Utility Library (73)](utility-library.md) · **[Visualization Gui (240)](visualization-gui.md)** · [Web Framework (285)](web-framework.md)
 
 ## C++23
 
@@ -214,73 +214,73 @@ Records: `222`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ANGLE | unknown | github_latest_release_missing | [open](../records/renderers-angle-943037ea.md) |
+| ANGLE | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/renderers-angle-943037ea.md) |
 | Blender Cycles | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/renderers-blender-cycles-c91554d8.md) |
 | Cairo Graphics | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/renderers-cairo-graphics-390dd467.md) |
-| Dawn | v20260828.215121 | 2026-08-29T07:42:07Z | [open](../records/renderers-dawn-e113c4c1.md) |
-| Filament | v1.76.0 | 2026-08-28T17:55:46Z | [open](../records/renderers-filament-e2ef2a1b.md) |
+| Dawn | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/renderers-dawn-e113c4c1.md) |
+| Filament | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/renderers-filament-e2ef2a1b.md) |
 | Mesa | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/renderers-mesa-79fde81e.md) |
 | Pixman | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/renderers-pixman-bae7808a.md) |
 | Skia | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/renderers-skia-947236ea.md) |
-| WebGPU Native | unknown | github_latest_release_missing | [open](../records/renderers-webgpu-native-f04d6b9a.md) |
-| wgpu | v30.0.1 | 2026-08-22T02:57:01Z | [open](../records/renderers-wgpu-b2e8a36b.md) |
+| WebGPU Native | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/renderers-webgpu-native-f04d6b9a.md) |
+| wgpu | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/renderers-wgpu-b2e8a36b.md) |
 
 ## Computer Graphics Software
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Blender | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-blender-a8b961fc.md) |
-| FreeCAD | 1.1.3 | 2026-07-25T04:53:36Z | [open](../records/computer-graphics-software-freecad-57741bc1.md) |
+| Blender | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/computer-graphics-software-blender-a8b961fc.md) |
+| FreeCAD | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/computer-graphics-software-freecad-57741bc1.md) |
 | GIMP | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/computer-graphics-software-gimp-628fdedd.md) |
 | Inkscape | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/computer-graphics-software-inkscape-64bf343c.md) |
 | Krita | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/computer-graphics-software-krita-acc75c47.md) |
-| OpenSCAD | openscad-2021.01 | 2021-02-07T00:14:34Z | [open](../records/computer-graphics-software-openscad-568f45c5.md) |
-| OpenSceneGraph | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-openscenegraph-7ecc79d2.md) |
+| OpenSCAD | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/computer-graphics-software-openscad-568f45c5.md) |
+| OpenSceneGraph | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/computer-graphics-software-openscenegraph-7ecc79d2.md) |
 | ParaView | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/computer-graphics-software-paraview-f1c3ead5.md) |
-| Processing | processing-1434-4.5.6 | 2026-07-20T02:02:54Z | [open](../records/computer-graphics-software-processing-f616a109.md) |
-| three.js | r185 | 2026-07-01T23:22:26Z | [open](../records/computer-graphics-software-three-js-71102148.md) |
+| Processing | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/computer-graphics-software-processing-f616a109.md) |
+| three.js | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/computer-graphics-software-three-js-71102148.md) |
 | VTK | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/computer-graphics-software-vtk-bcaddcf5.md) |
 
 ## Icons and Logos
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Bootstrap Icons | v1.13.1 | 2025-05-09T23:03:26Z | [open](../records/icons-and-logos-bootstrap-icons-4a264cc6.md) |
-| Feather Icons | v4.29.2 | 2024-05-01T05:32:42Z | [open](../records/icons-and-logos-feather-icons-44e53569.md) |
-| Font Awesome | 7.3.1 | 2026-07-15T18:15:54Z | [open](../records/icons-and-logos-font-awesome-8e4d33bb.md) |
-| Heroicons | v2.2.0 | 2024-11-18T15:32:49Z | [open](../records/icons-and-logos-heroicons-54afea1f.md) |
-| Iconify | unknown | github_latest_release_missing | [open](../records/icons-and-logos-iconify-fb7438a6.md) |
-| Lucide | 1.38.0 | 2026-08-31T07:16:42Z | [open](../records/icons-and-logos-lucide-5fa96a35.md) |
+| Bootstrap Icons | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/icons-and-logos-bootstrap-icons-4a264cc6.md) |
+| Feather Icons | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/icons-and-logos-feather-icons-44e53569.md) |
+| Font Awesome | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/icons-and-logos-font-awesome-8e4d33bb.md) |
+| Heroicons | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/icons-and-logos-heroicons-54afea1f.md) |
+| Iconify | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/icons-and-logos-iconify-fb7438a6.md) |
+| Lucide | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/icons-and-logos-lucide-5fa96a35.md) |
 | Material Symbols | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/icons-and-logos-material-symbols-e0c71f76.md) |
-| OpenMoji | 17.0.0 | 2026-04-23T07:29:44Z | [open](../records/icons-and-logos-openmoji-b9bb0f05.md) |
-| Simple Icons | 16.29.0 | 2026-08-29T01:29:38Z | [open](../records/icons-and-logos-simple-icons-24b556a1.md) |
-| Tabler Icons | v3.46.0 | 2026-07-28T21:42:34Z | [open](../records/icons-and-logos-tabler-icons-814b22b6.md) |
+| OpenMoji | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/icons-and-logos-openmoji-b9bb0f05.md) |
+| Simple Icons | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/icons-and-logos-simple-icons-24b556a1.md) |
+| Tabler Icons | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/icons-and-logos-tabler-icons-814b22b6.md) |
 
 ## Font Briefcase
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Apple Font Book | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/font-briefcase-apple-font-book-d4faa5da.md) |
-| FontForge | 20251009 | 2025-10-09T19:23:52Z | [open](../records/font-briefcase-fontforge-052a7709.md) |
+| FontForge | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/font-briefcase-fontforge-052a7709.md) |
 | FreeType | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/font-briefcase-freetype-56ad1f3a.md) |
-| HarfBuzz | 14.4.0 | 2026-08-26T19:30:27Z | [open](../records/font-briefcase-harfbuzz-bff23c07.md) |
+| HarfBuzz | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/font-briefcase-harfbuzz-bff23c07.md) |
 
 ## Assets
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | FreeType | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/assets-freetype-5b5024ee.md) |
-| HarfBuzz | 14.4.0 | 2026-08-26T19:30:27Z | [open](../records/assets-harfbuzz-3fcb7bfa.md) |
+| HarfBuzz | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/assets-harfbuzz-3fcb7bfa.md) |
 | TexturePacker | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/assets-texturepacker-1148bb30.md) |
 
 ## Maps
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Leaflet | v1.9.4 | 2023-05-18T11:12:03Z | [open](../records/maps-leaflet-f474f068.md) |
-| MapLibre GL JS | v6.6.0 | 2026-08-24T15:15:59Z | [open](../records/maps-maplibre-gl-js-998d9403.md) |
-| OpenLayers | v10.10.0 | 2026-07-27T22:33:07Z | [open](../records/maps-openlayers-32456c2c.md) |
-| QGIS | final-4_2_2 | 2026-08-28T12:11:35Z | [open](../records/maps-qgis-23704893.md) |
+| Leaflet | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/maps-leaflet-f474f068.md) |
+| MapLibre GL JS | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/maps-maplibre-gl-js-998d9403.md) |
+| OpenLayers | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/maps-openlayers-32456c2c.md) |
+| QGIS | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/maps-qgis-23704893.md) |
 
 ## Space Engines
 
@@ -302,78 +302,106 @@ Records: `222`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| CesiumJS | 1.144 | 2026-08-04T03:26:57Z | [open](../records/space-maps-cesiumjs-2b9855f8.md) |
+| CesiumJS | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-maps-cesiumjs-2b9855f8.md) |
 | ESA Sky | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-maps-esa-sky-507149dd.md) |
 | NASA Solar System Treks | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-maps-nasa-solar-system-treks-66e2186c.md) |
-| NASA WorldWind | v0.11.0 | 2022-06-24T16:13:37Z | [open](../records/space-maps-nasa-worldwind-a55955ab.md) |
-| Stellarium | v26.2 | 2026-06-24T17:37:08Z | [open](../records/space-maps-stellarium-721c8fc5.md) |
+| NASA WorldWind | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-maps-nasa-worldwind-a55955ab.md) |
+| Stellarium | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-maps-stellarium-721c8fc5.md) |
 
 ## Effects
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Blender Compositor | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-blender-compositor-20ae76f1.md) |
-| Cinder | v0.9.3 | 2025-11-02T23:09:27Z | [open](../records/effects-cinder-520874a6.md) |
-| Natron | v2.5.0 | 2022-11-26T00:48:14Z | [open](../records/effects-natron-37c82791.md) |
-| PixiJS Filters | v6.1.5 | 2025-11-29T01:55:34Z | [open](../records/effects-pixijs-filters-2c7b5506.md) |
+| Cinder | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-cinder-520874a6.md) |
+| Natron | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-natron-37c82791.md) |
+| PixiJS Filters | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-pixijs-filters-2c7b5506.md) |
 | Shadertoy | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-shadertoy-7ba0fe72.md) |
-| three.js postprocessing | v6.39.4 | 2026-07-27T22:26:39Z | [open](../records/effects-three-js-postprocessing-124968b5.md) |
+| three.js postprocessing | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-three-js-postprocessing-124968b5.md) |
 
 ## Video
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| OBS Studio | 32.2.2 | 2026-08-14T22:43:31Z | [open](../records/video-obs-studio-6a894ae9.md) |
+| OBS Studio | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/video-obs-studio-6a894ae9.md) |
 
 ## Photography
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| darktable | release-5.6.1 | 2026-08-27T07:02:41Z | [open](../records/photography-darktable-643ff3aa.md) |
-| RawTherapee | 5.13 | 2026-07-26T18:07:26Z | [open](../records/photography-rawtherapee-04b87a38.md) |
+| afgprogrammer/Flutter-Photography-Application | unknown | github_search_does_not_include_release_date | [open](../records/photography-afgprogrammer-flutter-photography-application-d1b12714.md) |
+| darktable | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/photography-darktable-643ff3aa.md) |
+| ECarry/photography-website | unknown | github_search_does_not_include_release_date | [open](../records/photography-ecarry-photography-website-36282ce9.md) |
+| hfiguiere/libopenraw | unknown | github_search_does_not_include_release_date | [open](../records/photography-hfiguiere-libopenraw-7e1e5568.md) |
+| RawTherapee | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/photography-rawtherapee-04b87a38.md) |
 
 ## Microscopy
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| napari | v0.9.0 | 2026-08-25T17:14:22Z | [open](../records/microscopy-napari-24961023.md) |
+| BodenmillerGroup/cytomapper | v1.2.0 | 2020-11-19T13:09:37Z | [open](../records/microscopy-bodenmillergroup-cytomapper-a6aa55ab.md) |
+| DylanMuir/ReadImageJROI | unknown | github_latest_release_missing | [open](../records/microscopy-dylanmuir-readimagejroi-cdcd6e99.md) |
+| hms-dbmi/viv | @hms-dbmi/viv@0.16.1 | 2024-03-13T03:15:38Z | [open](../records/microscopy-hms-dbmi-viv-ad3c5c92.md) |
+| napari | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/microscopy-napari-24961023.md) |
+| scenerygraphics/sciview | sciview-0.4.0 | 2024-04-12T12:04:33Z | [open](../records/microscopy-scenerygraphics-sciview-c324a0d7.md) |
 
 ## Telescopes
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| juanmb/nextdriver | unknown | github_latest_release_missing | [open](../records/telescopes-juanmb-nextdriver-d1392e60.md) |
 | KStars | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/telescopes-kstars-8ac0884b.md) |
+| LouisDesdoigts/dLux | v0.15.1 | 2026-07-22T23:04:55Z | [open](../records/telescopes-louisdesdoigts-dlux-10106405.md) |
 | SAOImage DS9 | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/telescopes-saoimage-ds9-75c04688.md) |
-| Stellarium | v26.2 | 2026-06-24T17:37:08Z | [open](../records/telescopes-stellarium-4df0b7db.md) |
+| Stellarium | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/telescopes-stellarium-4df0b7db.md) |
+
+## Radars
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| China131/JHChart | unknown | github_latest_release_missing | [open](../records/radars-china131-jhchart-6c337315.md) |
+| n0bel/PiClock | unknown | github_latest_release_missing | [open](../records/radars-n0bel-piclock-1539715f.md) |
+| radarsimx/radarsimpy | unknown | github_latest_release_missing | [open](../records/radars-radarsimx-radarsimpy-024e5c6c.md) |
+
+## SatCom Satellites
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| kpreid/shinysdr | unknown | github_latest_release_missing | [open](../records/satcom-satellites-kpreid-shinysdr-59c54492.md) |
+| luigifcruz/pisdr-image | v7.0.0-alpha2 | 2023-12-19T17:45:06Z | [open](../records/satcom-satellites-luigifcruz-pisdr-image-8636fb80.md) |
 
 ## Electromagnetoscopes
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Gqrx | v2.17.7 | 2025-05-27T22:42:58Z | [open](../records/electromagnetoscopes-gqrx-10a5b737.md) |
-| SigDigger | v0.3.0 | 2022-07-05T16:42:38Z | [open](../records/electromagnetoscopes-sigdigger-9dac6595.md) |
+| Gqrx | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/electromagnetoscopes-gqrx-10a5b737.md) |
+| kpreid/shinysdr | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-kpreid-shinysdr-75d6b192.md) |
+| luigifcruz/pisdr-image | v7.0.0-alpha2 | 2023-12-19T17:45:06Z | [open](../records/electromagnetoscopes-luigifcruz-pisdr-image-67058165.md) |
+| rsadsb/adsb_deku | v2025.05.03 | 2025-05-03T17:35:23Z | [open](../records/electromagnetoscopes-rsadsb-adsb-deku-b3cb2015.md) |
+| SigDigger | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/electromagnetoscopes-sigdigger-9dac6595.md) |
+| tapparelj/gr-lora_sdr | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-tapparelj-gr-lora-sdr-26e08518.md) |
 
 ## Radio Garden Speciality
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| antoninadert/Radio-Garden-Client | unknown | github_latest_release_missing | [open](../records/radio-garden-speciality-antoninadert-radio-garden-client-ca058555.md) |
-| BttrDrgn/radio.garten | v0.6.1 | 2022-05-15T19:27:21Z | [open](../records/radio-garden-speciality-bttrdrgn-radio-garten-7f0c130c.md) |
-| chermenin/radio.G | 0.1.0 | 2020-04-30T07:14:59Z | [open](../records/radio-garden-speciality-chermenin-radio-g-360dc3fc.md) |
+| antoninadert/Radio-Garden-Client | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/radio-garden-speciality-antoninadert-radio-garden-client-ca058555.md) |
+| BttrDrgn/radio.garten | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/radio-garden-speciality-bttrdrgn-radio-garten-7f0c130c.md) |
+| chermenin/radio.G | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/radio-garden-speciality-chermenin-radio-g-360dc3fc.md) |
 | Radio Garden Web App | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/radio-garden-speciality-radio-garden-web-app-5918e0b0.md) |
 
 ## Assembly
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| simon987/Much-Assembly-Required | v1.4a | 2018-02-25T13:55:08Z | [open](../records/assembly-simon987-much-assembly-required-c15801d9.md) |
+| simon987/Much-Assembly-Required | partial | 2024-10-24T00:37:03Z | [open](../records/assembly-simon987-much-assembly-required-c15801d9.md) |
 
 ## Pattern language
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| keenthemes/reui | unknown | github_latest_release_missing | [open](../records/pattern-language-keenthemes-reui-f3f4a8f3.md) |
-| mohuishou/go-design-pattern | v1.0.0 | 2020-11-05T06:18:11Z | [open](../records/pattern-language-mohuishou-go-design-pattern-b1f024da.md) |
+| keenthemes/reui | partial | 2026-08-20T05:19:44Z | [open](../records/pattern-language-keenthemes-reui-f3f4a8f3.md) |
+| mohuishou/go-design-pattern | partial | 2025-07-30T09:39:31Z | [open](../records/pattern-language-mohuishou-go-design-pattern-b1f024da.md) |
 
 ## SAPJava
 

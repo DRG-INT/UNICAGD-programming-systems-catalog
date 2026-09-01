@@ -8,23 +8,23 @@ Records: `104`
 
 ## Category Index
 
-[Api Abi Checker (93)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
-[Benchmarking (58)](benchmarking.md) · [Build System (482)](build-system.md) · [Cli (420)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (55)](community-reference.md) · [Compiler (106)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (32)](compression.md)
-[Concurrency Parallelism (59)](concurrency-parallelism.md) · [Configuration (60)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (125)](cryptography.md) · [Data Science (26)](data-science.md) · [Database Datastore (426)](database-datastore.md) · [Datetime (69)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (32)](debugger.md) · [Dependency Manager (56)](dependency-manager.md) · [Documentation (52)](documentation.md)
-[Embedded Hardware (21)](embedded-hardware.md) · [Ffi Bindings (290)](ffi-bindings.md) · [Filesystem Os (423)](filesystem-os.md) · [Formatter (393)](formatter.md)
-[Framework (27)](framework.md) · [Fuzzer (19)](fuzzer.md) · [Game Engine Game Dev (85)](game-engine-game-dev.md) · [Ide Editor Integration (554)](ide-editor-integration.md)
-[Image Audio Dsp (88)](image-audio-dsp.md) · [Interop Bindings (43)](interop-bindings.md) · [Interpreter Runtime (111)](interpreter-runtime.md) · [Jit Vm (50)](jit-vm.md)
-[Language Server (20)](language-server.md) · [Language Specification (572)](language-specification.md) · [Library (3015)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (31)](lint-rule-pack.md) · [Linter (326)](linter.md) · [Logging Observability (216)](logging-observability.md) · [Machine Learning (306)](machine-learning.md)
-[Math Numeric Scientific (68)](math-numeric-scientific.md) · [Memory Analyzer (51)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (632)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (156)](package-manager.md) · [Parser Lexer Ast (480)](parser-lexer-ast.md) · [Precommit Ci Quality (160)](precommit-ci-quality.md)
-[Profiler (51)](profiler.md) · [Project Scaffolding (68)](project-scaffolding.md) · **[Registry Repository (104)](registry-repository.md)** · [Sanitizer (6)](sanitizer.md)
-[Security Sast (247)](security-sast.md) · [Serialization (266)](serialization.md) · [Standard Library (21)](standard-library.md) · [Static Analyzer (203)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (401)](testing-framework.md) · [Tutorial Book Styleguide (32)](tutorial-book-styleguide.md) · [Type Checker (238)](type-checker.md)
-[Undefined Behavior Analyzer (446)](undefined-behavior-analyzer.md) · [Utility Library (68)](utility-library.md) · [Visualization Gui (222)](visualization-gui.md) · [Web Framework (277)](web-framework.md)
+[Api Abi Checker (100)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
+[Benchmarking (64)](benchmarking.md) · [Build System (503)](build-system.md) · [Cli (431)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (61)](community-reference.md) · [Compiler (107)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (34)](compression.md)
+[Concurrency Parallelism (61)](concurrency-parallelism.md) · [Configuration (64)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (127)](cryptography.md) · [Data Science (26)](data-science.md) · [Database Datastore (428)](database-datastore.md) · [Datetime (86)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (57)](dependency-manager.md) · [Documentation (57)](documentation.md)
+[Embedded Hardware (34)](embedded-hardware.md) · [Ffi Bindings (307)](ffi-bindings.md) · [Filesystem Os (544)](filesystem-os.md) · [Formatter (416)](formatter.md)
+[Framework (31)](framework.md) · [Fuzzer (20)](fuzzer.md) · [Game Engine Game Dev (93)](game-engine-game-dev.md) · [Ide Editor Integration (657)](ide-editor-integration.md)
+[Image Audio Dsp (116)](image-audio-dsp.md) · [Interop Bindings (45)](interop-bindings.md) · [Interpreter Runtime (121)](interpreter-runtime.md) · [Jit Vm (51)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (586)](language-specification.md) · [Library (3146)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (31)](lint-rule-pack.md) · [Linter (327)](linter.md) · [Logging Observability (231)](logging-observability.md) · [Machine Learning (333)](machine-learning.md)
+[Math Numeric Scientific (69)](math-numeric-scientific.md) · [Memory Analyzer (51)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (652)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (173)](package-manager.md) · [Parser Lexer Ast (560)](parser-lexer-ast.md) · [Precommit Ci Quality (163)](precommit-ci-quality.md)
+[Profiler (52)](profiler.md) · [Project Scaffolding (74)](project-scaffolding.md) · **[Registry Repository (104)](registry-repository.md)** · [Sanitizer (7)](sanitizer.md)
+[Security Sast (250)](security-sast.md) · [Serialization (268)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (245)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (407)](testing-framework.md) · [Tutorial Book Styleguide (34)](tutorial-book-styleguide.md) · [Type Checker (248)](type-checker.md)
+[Undefined Behavior Analyzer (615)](undefined-behavior-analyzer.md) · [Utility Library (73)](utility-library.md) · [Visualization Gui (240)](visualization-gui.md) · [Web Framework (285)](web-framework.md)
 
 ## Julia
 
@@ -76,7 +76,7 @@ Records: `104`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Bazel Central Registry | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/starlark-bazel-central-registry-4194525a.md) |
-| bazelbuild/starlark | unknown | github_latest_release_missing | [open](../records/starlark-bazelbuild-starlark-70e43d88.md) |
+| bazelbuild/starlark | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/starlark-bazelbuild-starlark-70e43d88.md) |
 
 ## Basilisk
 
@@ -94,10 +94,10 @@ Records: `104`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Nix Source Route | unknown | github_latest_release_missing | [open](../records/nix-nix-source-route-42c0577b.md) |
+| Nix Source Route | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/nix-nix-source-route-42c0577b.md) |
 | NixOS Options Search | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/nix-nixos-options-search-c44129a3.md) |
 | NixOS Packages Search | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/nix-nixos-packages-search-b6615046.md) |
-| Nixpkgs | unknown | github_latest_release_missing | [open](../records/nix-nixpkgs-35786f68.md) |
+| Nixpkgs | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/nix-nixpkgs-35786f68.md) |
 
 ## APIs
 
@@ -117,15 +117,15 @@ Records: `104`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Adobe Source Fonts | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/font-briefcase-adobe-source-fonts-d80436f5.md) |
-| Fontsource | core-v0.3.0 | 2026-07-26T04:40:33Z | [open](../records/font-briefcase-fontsource-e3f5003e.md) |
-| Google Fonts | unknown | github_latest_release_missing | [open](../records/font-briefcase-google-fonts-0f70f205.md) |
+| Fontsource | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/font-briefcase-fontsource-e3f5003e.md) |
+| Google Fonts | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/font-briefcase-google-fonts-0f70f205.md) |
 
 ## Assets
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Fontsource | core-v0.3.0 | 2026-07-26T04:40:33Z | [open](../records/assets-fontsource-c7b01bc4.md) |
-| Google Fonts | unknown | github_latest_release_missing | [open](../records/assets-google-fonts-d302d4f6.md) |
+| Fontsource | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/assets-fontsource-c7b01bc4.md) |
+| Google Fonts | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/assets-google-fonts-d302d4f6.md) |
 | OpenGameArt | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/assets-opengameart-b3f0aa07.md) |
 | Poly Haven | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/assets-poly-haven-9f29b6e3.md) |
 
@@ -178,12 +178,12 @@ Records: `104`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Backstage Software Catalog | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-backstage-software-catalog-65fa83e8.md) |
-| CKAN | ckan-2.12.0 | 2026-08-26T14:13:48Z | [open](../records/catalogs-ckan-265fba92.md) |
-| DataHub | v1.7.0 | 2026-08-04T21:34:40Z | [open](../records/catalogs-datahub-fc4a0261.md) |
+| CKAN | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-ckan-265fba92.md) |
+| DataHub | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-datahub-fc4a0261.md) |
 | Ecosyste.ms | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-ecosyste-ms-b04b4db1.md) |
 | Libraries.io | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-libraries-io-57dc438b.md) |
-| OpenAPI Directory | unknown | github_latest_release_missing | [open](../records/catalogs-openapi-directory-1693bcf6.md) |
-| OpenMetadata | 2.0.0-release | 2026-08-24T05:22:27Z | [open](../records/catalogs-openmetadata-f48d69a5.md) |
+| OpenAPI Directory | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-openapi-directory-1693bcf6.md) |
+| OpenMetadata | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-openmetadata-f48d69a5.md) |
 | SPDX License List | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-spdx-license-list-ea4e5cc6.md) |
 
 ## Hubs

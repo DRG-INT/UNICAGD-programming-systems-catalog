@@ -1,6 +1,6 @@
 # Repository Workplaces
 
-Records: `150`
+Records: `156`
 
 ## Navigation
 
@@ -8,25 +8,31 @@ Records: `150`
 
 ## Category Index
 
-[Api Abi Checker (93)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (33)](../by-category/assertion-mocking.md) · [Async Runtime (104)](../by-category/async-runtime.md)
-[Benchmarking (58)](../by-category/benchmarking.md) · [Build System (482)](../by-category/build-system.md) · [Cli (420)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (55)](../by-category/community-reference.md) · [Compiler (106)](../by-category/compiler.md) · [Compiler Diagnostics (18)](../by-category/compiler-diagnostics.md) · [Compression (32)](../by-category/compression.md)
-[Concurrency Parallelism (59)](../by-category/concurrency-parallelism.md) · [Configuration (60)](../by-category/configuration.md) · [Container Deployment (7)](../by-category/container-deployment.md) · [Coverage (10)](../by-category/coverage.md)
-[Cryptography (125)](../by-category/cryptography.md) · [Data Science (26)](../by-category/data-science.md) · [Database Datastore (426)](../by-category/database-datastore.md) · [Datetime (69)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (32)](../by-category/debugger.md) · [Dependency Manager (56)](../by-category/dependency-manager.md) · [Documentation (52)](../by-category/documentation.md)
-[Embedded Hardware (21)](../by-category/embedded-hardware.md) · [Ffi Bindings (290)](../by-category/ffi-bindings.md) · [Filesystem Os (423)](../by-category/filesystem-os.md) · [Formatter (393)](../by-category/formatter.md)
-[Framework (27)](../by-category/framework.md) · [Fuzzer (19)](../by-category/fuzzer.md) · [Game Engine Game Dev (85)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (554)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (88)](../by-category/image-audio-dsp.md) · [Interop Bindings (43)](../by-category/interop-bindings.md) · [Interpreter Runtime (111)](../by-category/interpreter-runtime.md) · [Jit Vm (50)](../by-category/jit-vm.md)
-[Language Server (20)](../by-category/language-server.md) · [Language Specification (572)](../by-category/language-specification.md) · [Library (3015)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (31)](../by-category/lint-rule-pack.md) · [Linter (326)](../by-category/linter.md) · [Logging Observability (216)](../by-category/logging-observability.md) · [Machine Learning (306)](../by-category/machine-learning.md)
-[Math Numeric Scientific (68)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (51)](../by-category/memory-analyzer.md) · [Message Broker (23)](../by-category/message-broker.md) · [Networking Http (632)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (156)](../by-category/package-manager.md) · [Parser Lexer Ast (480)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (160)](../by-category/precommit-ci-quality.md)
-[Profiler (51)](../by-category/profiler.md) · [Project Scaffolding (68)](../by-category/project-scaffolding.md) · [Registry Repository (104)](../by-category/registry-repository.md) · [Sanitizer (6)](../by-category/sanitizer.md)
-[Security Sast (247)](../by-category/security-sast.md) · [Serialization (266)](../by-category/serialization.md) · [Standard Library (21)](../by-category/standard-library.md) · [Static Analyzer (203)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (401)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (32)](../by-category/tutorial-book-styleguide.md) · [Type Checker (238)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (446)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (68)](../by-category/utility-library.md) · [Visualization Gui (222)](../by-category/visualization-gui.md) · [Web Framework (277)](../by-category/web-framework.md)
+[Api Abi Checker (100)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (33)](../by-category/assertion-mocking.md) · [Async Runtime (104)](../by-category/async-runtime.md)
+[Benchmarking (64)](../by-category/benchmarking.md) · [Build System (503)](../by-category/build-system.md) · [Cli (431)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (61)](../by-category/community-reference.md) · [Compiler (107)](../by-category/compiler.md) · [Compiler Diagnostics (18)](../by-category/compiler-diagnostics.md) · [Compression (34)](../by-category/compression.md)
+[Concurrency Parallelism (61)](../by-category/concurrency-parallelism.md) · [Configuration (64)](../by-category/configuration.md) · [Container Deployment (7)](../by-category/container-deployment.md) · [Coverage (10)](../by-category/coverage.md)
+[Cryptography (127)](../by-category/cryptography.md) · [Data Science (26)](../by-category/data-science.md) · [Database Datastore (428)](../by-category/database-datastore.md) · [Datetime (86)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (35)](../by-category/debugger.md) · [Dependency Manager (57)](../by-category/dependency-manager.md) · [Documentation (57)](../by-category/documentation.md)
+[Embedded Hardware (34)](../by-category/embedded-hardware.md) · [Ffi Bindings (307)](../by-category/ffi-bindings.md) · [Filesystem Os (544)](../by-category/filesystem-os.md) · [Formatter (416)](../by-category/formatter.md)
+[Framework (31)](../by-category/framework.md) · [Fuzzer (20)](../by-category/fuzzer.md) · [Game Engine Game Dev (93)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (657)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (116)](../by-category/image-audio-dsp.md) · [Interop Bindings (45)](../by-category/interop-bindings.md) · [Interpreter Runtime (121)](../by-category/interpreter-runtime.md) · [Jit Vm (51)](../by-category/jit-vm.md)
+[Language Server (23)](../by-category/language-server.md) · [Language Specification (586)](../by-category/language-specification.md) · [Library (3146)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (31)](../by-category/lint-rule-pack.md) · [Linter (327)](../by-category/linter.md) · [Logging Observability (231)](../by-category/logging-observability.md) · [Machine Learning (333)](../by-category/machine-learning.md)
+[Math Numeric Scientific (69)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (51)](../by-category/memory-analyzer.md) · [Message Broker (23)](../by-category/message-broker.md) · [Networking Http (652)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (173)](../by-category/package-manager.md) · [Parser Lexer Ast (560)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (163)](../by-category/precommit-ci-quality.md)
+[Profiler (52)](../by-category/profiler.md) · [Project Scaffolding (74)](../by-category/project-scaffolding.md) · [Registry Repository (104)](../by-category/registry-repository.md) · [Sanitizer (7)](../by-category/sanitizer.md)
+[Security Sast (250)](../by-category/security-sast.md) · [Serialization (268)](../by-category/serialization.md) · [Standard Library (22)](../by-category/standard-library.md) · [Static Analyzer (245)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (407)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (34)](../by-category/tutorial-book-styleguide.md) · [Type Checker (248)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (615)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (73)](../by-category/utility-library.md) · [Visualization Gui (240)](../by-category/visualization-gui.md) · [Web Framework (285)](../by-category/web-framework.md)
 
 ## Categories
+
+### Api Abi Checker
+
+| Name | Release | Date | Source |
+| --- | --- | --- | --- |
+| [LondonAppDev/recipe-app-api-devops](../records/repository-workplaces-londonappdev-recipe-app-api-devops-4fcb038e.md) | partial | 2021-03-27T13:37:31.156Z | registry-derived |
 
 ### Async Runtime
 
@@ -40,6 +46,7 @@ Records: `150`
 | --- | --- | --- | --- |
 | [davivc/gitlab-ci-google-cloud-kubernetes](../records/repository-workplaces-davivc-gitlab-ci-google-cloud-kubernetes-ae4609d3.md) | partial | 2020-04-04T19:23:06.380Z | registry-derived |
 | [HariSekhon/DevOps-Bash-tools](../records/repository-workplaces-harisekhon-devops-bash-tools-738fa927.md) | partial | 2026-08-24T03:34:03.768Z | registry-derived |
+| [r2devops/hub](../records/repository-workplaces-r2devops-hub-d00edf3f.md) | partial | 2025-01-10T11:14:45.423Z | registry-derived |
 
 ### Cli
 
@@ -63,7 +70,7 @@ Records: `150`
 | [BonsaiDen/gbc-rs](../records/repository-workplaces-bonsaiden-gbc-rs-0bcbf02a.md) | partial | 2024-12-26T20:12:02.095Z | registry-derived |
 | [BuildGrid/recc](../records/repository-workplaces-buildgrid-recc-21c7a89e.md) | partial | 2024-11-19T23:12:30.966Z | registry-derived |
 | [cznic/cc](../records/repository-workplaces-cznic-cc-89e992e6.md) | partial | 2026-07-31T08:43:58.140Z | registry-derived |
-| [freepascal.org/fpc/source](../records/repository-workplaces-freepascal-org-fpc-source-0fc2714e.md) | partial | 2026-09-01T01:54:06.550Z | registry-derived |
+| [freepascal.org/fpc/source](../records/repository-workplaces-freepascal-org-fpc-source-0fc2714e.md) | partial | 2026-09-01T07:28:29.291Z | registry-derived |
 | [piyush-kurur/compilers](../records/repository-workplaces-piyush-kurur-compilers-f7578472.md) | partial | 2026-04-06T08:37:15.222Z | registry-derived |
 | [Rich-Harris/buble](../records/repository-workplaces-rich-harris-buble-a19a38f7.md) | partial | 2023-03-27T15:48:56.639Z | registry-derived |
 | [weinholt/loko](../records/repository-workplaces-weinholt-loko-35847122.md) | partial | 2026-07-17T07:40:51.089Z | registry-derived |
@@ -87,7 +94,7 @@ Records: `150`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [gitlab-org/security-products/gemnasium-db](../records/repository-workplaces-gitlab-org-security-products-gemnasium-db-646d6d68.md) | partial | 2026-09-01T01:00:34.348Z | registry-derived |
+| [gitlab-org/security-products/gemnasium-db](../records/repository-workplaces-gitlab-org-security-products-gemnasium-db-646d6d68.md) | partial | 2026-09-01T07:32:50.787Z | registry-derived |
 | [gitlab-org/security-products/security-report-schemas](../records/repository-workplaces-gitlab-org-security-products-security-report-schemas-1a7d4b38.md) | partial | 2026-09-01T01:34:51.271Z | registry-derived |
 
 ### Documentation
@@ -144,6 +151,12 @@ Records: `150`
 | [gitlab-org/editor-extensions/gitlab-lsp](../records/repository-workplaces-gitlab-org-editor-extensions-gitlab-lsp-3ca66d5c.md) | partial | 2026-09-01T07:21:34.710Z | registry-derived |
 | [Polly-lang/Polly](../records/repository-workplaces-polly-lang-polly-4337e87f.md) | partial | 2018-04-23T08:44:56.058Z | registry-derived |
 
+### Library
+
+| Name | Release | Date | Source |
+| --- | --- | --- | --- |
+| [nb-tech-support/devops](../records/repository-workplaces-nb-tech-support-devops-42f3c6a9.md) | partial | 2025-12-25T11:27:25.191Z | registry-derived |
+
 ### Lint Rule Pack
 
 | Name | Release | Date | Source |
@@ -156,6 +169,7 @@ Records: `150`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [jrmiller82/pathfinder-2-sqlite](../records/repository-workplaces-jrmiller82-pathfinder-2-sqlite-806cf747.md) | partial | 2021-05-01T00:11:24.594Z | registry-derived |
+| [LondonAppDev/recipe-app-api-devops-starting-code](../records/repository-workplaces-londonappdev-recipe-app-api-devops-starting-code-ab68f6f2.md) | partial | 2020-03-25T20:07:45.372Z | registry-derived |
 
 ### Package Manager
 
@@ -166,6 +180,7 @@ Records: `150`
 | [OpenTAP/opentap](../records/repository-workplaces-opentap-opentap-6d917c43.md) | partial | 2022-03-07T13:22:54.219Z | registry-derived |
 | [portmod/portmod](../records/repository-workplaces-portmod-portmod-a38f55d6.md) | partial | 2026-04-13T02:00:36.213Z | registry-derived |
 | [WeSuckLess/Reactor](../records/repository-workplaces-wesuckless-reactor-d2157f72.md) | partial | 2026-07-23T10:03:28.237Z | registry-derived |
+| [xavki/become-devops-s01](../records/repository-workplaces-xavki-become-devops-s01-8ce087b3.md) | partial | 2026-06-21T11:06:52.357Z | registry-derived |
 
 ### Precommit Ci Quality
 
@@ -236,7 +251,7 @@ Records: `150`
 | [gitlab-org/security-products/sast](../records/repository-workplaces-gitlab-org-security-products-sast-f9f7c3e1.md) | partial | 2026-01-07T10:21:52.522Z | registry-derived |
 | [guardianproject/tormobile/NetCipher](../records/repository-workplaces-guardianproject-tormobile-netcipher-11216d9e.md) | partial | 2024-12-03T20:32:59.810Z | registry-derived |
 | [jongwons.choi/spring-boot-security-lecture](../records/repository-workplaces-jongwons-choi-spring-boot-security-lecture-e0ab9f25.md) | partial | 2021-10-06T10:49:45.185Z | registry-derived |
-| [openid/conformance-suite](../records/repository-workplaces-openid-conformance-suite-34afbe2d.md) | partial | 2026-09-01T05:30:48.488Z | registry-derived |
+| [openid/conformance-suite](../records/repository-workplaces-openid-conformance-suite-34afbe2d.md) | partial | 2026-09-01T07:32:40.130Z | registry-derived |
 | [opensecuritytraining/arch1001_x86-64_asm_code_for_class](../records/repository-workplaces-opensecuritytraining-arch1001-x86-64-asm-code-for-class-940e9a45.md) | partial | 2025-09-14T17:56:20.635Z | registry-derived |
 | [opensecuritytraining/arch1001_x86-64_asm_slides_and_subtitles](../records/repository-workplaces-opensecuritytraining-arch1001-x86-64-asm-slides-and-subtitles-01052120.md) | partial | 2026-05-20T19:17:22.900Z | registry-derived |
 | [prism-break/prism-break](../records/repository-workplaces-prism-break-prism-break-503c05ff.md) | partial | 2026-05-30T11:50:17.341Z | registry-derived |
@@ -251,8 +266,8 @@ Records: `150`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [gitlab-org/cluster-integration/gitlab-agent](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) | partial | 2026-09-01T06:31:26.067Z | registry-derived |
-| [gitlab-org/gitlab](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) | partial | 2026-09-01T06:21:56.106Z | registry-derived |
+| [gitlab-org/cluster-integration/gitlab-agent](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) | partial | 2026-09-01T08:09:45.497Z | registry-derived |
+| [gitlab-org/gitlab](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) | partial | 2026-09-01T08:21:58.740Z | registry-derived |
 | [gitlab-org/security-products/analyzers/container-scanning](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) | partial | 2026-08-27T18:19:28.289Z | registry-derived |
 | [mopsa/mopsa-analyzer](../records/repository-workplaces-mopsa-mopsa-analyzer-9740e96e.md) | partial | 2026-08-23T14:57:22.050Z | registry-derived |
 
@@ -267,6 +282,7 @@ Records: `150`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [ananace/charts](../records/repository-workplaces-ananace-charts-e6b30b05.md) | partial | 2026-08-18T19:05:10.639Z | registry-derived |
+| [bdowney/ansible-demo](../records/repository-workplaces-bdowney-ansible-demo-8ddaacae.md) | partial | 2024-07-24T10:07:47.956Z | registry-derived |
 | [gitlab-com/gl-infra/k8s-workloads/gitlab-com](../records/repository-workplaces-gitlab-com-gl-infra-k8s-workloads-gitlab-com-13cc554b.md) | partial | 2026-09-01T05:11:57.606Z | registry-derived |
 | [gitlab-data/data-image](../records/repository-workplaces-gitlab-data-data-image-0af0c35c.md) | partial | 2026-08-21T11:24:30.282Z | registry-derived |
 | [gitlab-examples/kubernetes-deploy](../records/repository-workplaces-gitlab-examples-kubernetes-deploy-9a43e04a.md) | partial | 2026-01-07T14:56:28.754Z | registry-derived |

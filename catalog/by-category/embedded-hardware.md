@@ -1,6 +1,6 @@
 # Embedded Hardware
 
-Records: `21`
+Records: `34`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `21`
 
 ## Category Index
 
-[Api Abi Checker (93)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
-[Benchmarking (58)](benchmarking.md) · [Build System (482)](build-system.md) · [Cli (420)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (55)](community-reference.md) · [Compiler (106)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (32)](compression.md)
-[Concurrency Parallelism (59)](concurrency-parallelism.md) · [Configuration (60)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (125)](cryptography.md) · [Data Science (26)](data-science.md) · [Database Datastore (426)](database-datastore.md) · [Datetime (69)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (32)](debugger.md) · [Dependency Manager (56)](dependency-manager.md) · [Documentation (52)](documentation.md)
-**[Embedded Hardware (21)](embedded-hardware.md)** · [Ffi Bindings (290)](ffi-bindings.md) · [Filesystem Os (423)](filesystem-os.md) · [Formatter (393)](formatter.md)
-[Framework (27)](framework.md) · [Fuzzer (19)](fuzzer.md) · [Game Engine Game Dev (85)](game-engine-game-dev.md) · [Ide Editor Integration (554)](ide-editor-integration.md)
-[Image Audio Dsp (88)](image-audio-dsp.md) · [Interop Bindings (43)](interop-bindings.md) · [Interpreter Runtime (111)](interpreter-runtime.md) · [Jit Vm (50)](jit-vm.md)
-[Language Server (20)](language-server.md) · [Language Specification (572)](language-specification.md) · [Library (3015)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (31)](lint-rule-pack.md) · [Linter (326)](linter.md) · [Logging Observability (216)](logging-observability.md) · [Machine Learning (306)](machine-learning.md)
-[Math Numeric Scientific (68)](math-numeric-scientific.md) · [Memory Analyzer (51)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (632)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (156)](package-manager.md) · [Parser Lexer Ast (480)](parser-lexer-ast.md) · [Precommit Ci Quality (160)](precommit-ci-quality.md)
-[Profiler (51)](profiler.md) · [Project Scaffolding (68)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (6)](sanitizer.md)
-[Security Sast (247)](security-sast.md) · [Serialization (266)](serialization.md) · [Standard Library (21)](standard-library.md) · [Static Analyzer (203)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (401)](testing-framework.md) · [Tutorial Book Styleguide (32)](tutorial-book-styleguide.md) · [Type Checker (238)](type-checker.md)
-[Undefined Behavior Analyzer (446)](undefined-behavior-analyzer.md) · [Utility Library (68)](utility-library.md) · [Visualization Gui (222)](visualization-gui.md) · [Web Framework (277)](web-framework.md)
+[Api Abi Checker (100)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
+[Benchmarking (64)](benchmarking.md) · [Build System (503)](build-system.md) · [Cli (431)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (61)](community-reference.md) · [Compiler (107)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (34)](compression.md)
+[Concurrency Parallelism (61)](concurrency-parallelism.md) · [Configuration (64)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (127)](cryptography.md) · [Data Science (26)](data-science.md) · [Database Datastore (428)](database-datastore.md) · [Datetime (86)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (57)](dependency-manager.md) · [Documentation (57)](documentation.md)
+**[Embedded Hardware (34)](embedded-hardware.md)** · [Ffi Bindings (307)](ffi-bindings.md) · [Filesystem Os (544)](filesystem-os.md) · [Formatter (416)](formatter.md)
+[Framework (31)](framework.md) · [Fuzzer (20)](fuzzer.md) · [Game Engine Game Dev (93)](game-engine-game-dev.md) · [Ide Editor Integration (657)](ide-editor-integration.md)
+[Image Audio Dsp (116)](image-audio-dsp.md) · [Interop Bindings (45)](interop-bindings.md) · [Interpreter Runtime (121)](interpreter-runtime.md) · [Jit Vm (51)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (586)](language-specification.md) · [Library (3146)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (31)](lint-rule-pack.md) · [Linter (327)](linter.md) · [Logging Observability (231)](logging-observability.md) · [Machine Learning (333)](machine-learning.md)
+[Math Numeric Scientific (69)](math-numeric-scientific.md) · [Memory Analyzer (51)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (652)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (173)](package-manager.md) · [Parser Lexer Ast (560)](parser-lexer-ast.md) · [Precommit Ci Quality (163)](precommit-ci-quality.md)
+[Profiler (52)](profiler.md) · [Project Scaffolding (74)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (7)](sanitizer.md)
+[Security Sast (250)](security-sast.md) · [Serialization (268)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (245)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (407)](testing-framework.md) · [Tutorial Book Styleguide (34)](tutorial-book-styleguide.md) · [Type Checker (248)](type-checker.md)
+[Undefined Behavior Analyzer (615)](undefined-behavior-analyzer.md) · [Utility Library (73)](utility-library.md) · [Visualization Gui (240)](visualization-gui.md) · [Web Framework (285)](web-framework.md)
 
 ## C99
 
@@ -75,14 +75,37 @@ Records: `21`
 | raspi | 0.0.3 | 2022-03-21 | [open](../records/octave-raspi-9669738c.md) |
 | rtree | 0.8.2 | 2024-04-07 | [open](../records/octave-rtree-65539ec3.md) |
 
+## Photography
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| dorukkumkumoglu/optocamzero | unknown | github_search_does_not_include_release_date | [open](../records/photography-dorukkumkumoglu-optocamzero-fa33e18d.md) |
+| oleksiikutuzov/flipperzero-lightmeter | unknown | github_search_does_not_include_release_date | [open](../records/photography-oleksiikutuzov-flipperzero-lightmeter-74fb80aa.md) |
+| Yutani140x/saturnix-camera | unknown | github_search_does_not_include_release_date | [open](../records/photography-yutani140x-saturnix-camera-7710cd32.md) |
+
+## Radars
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| bopen/sarsen | v0.9.6 | 2026-06-23T07:55:28Z | [open](../records/radars-bopen-sarsen-20870959.md) |
+| fanweng/Udacity-Sensor-Fusion-Nanodegree | unknown | github_latest_release_missing | [open](../records/radars-fanweng-udacity-sensor-fusion-nanodegree-475e3016.md) |
+| JunshengFu/tracking-with-Extended-Kalman-Filter | unknown | github_latest_release_missing | [open](../records/radars-junshengfu-tracking-with-extended-kalman-filter-b9a78f6a.md) |
+| m6c7l/pymmw | unknown | github_latest_release_missing | [open](../records/radars-m6c7l-pymmw-dccd876e.md) |
+| mithi/fusion-ekf | unknown | github_latest_release_missing | [open](../records/radars-mithi-fusion-ekf-fce69980.md) |
+| mithi/fusion-ukf | unknown | github_latest_release_missing | [open](../records/radars-mithi-fusion-ukf-78e879a8.md) |
+| ser94mor/sensor-fusion | unknown | github_latest_release_missing | [open](../records/radars-ser94mor-sensor-fusion-a71e7296.md) |
+| tsunglung/esphome-ld2450 | unknown | github_latest_release_missing | [open](../records/radars-tsunglung-esphome-ld2450-5abf99f6.md) |
+
 ## Electromagnetoscopes
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| rtl-sdr | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-rtl-sdr-7229b2c8.md) |
+| fulldecent/system-bus-radio | 1.0.0 | 2016-10-27T19:09:59Z | [open](../records/electromagnetoscopes-fulldecent-system-bus-radio-4aafaaaf.md) |
+| open-sdr/openwifi-hw | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-open-sdr-openwifi-hw-23742265.md) |
+| rtl-sdr | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/electromagnetoscopes-rtl-sdr-7229b2c8.md) |
 
 ## Assembly
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Maratyszcza/PeachPy | unknown | github_latest_release_missing | [open](../records/assembly-maratyszcza-peachpy-1f352ba0.md) |
+| Maratyszcza/PeachPy | partial | 2023-09-25T15:52:52Z | [open](../records/assembly-maratyszcza-peachpy-1f352ba0.md) |

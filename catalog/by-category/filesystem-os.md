@@ -1,6 +1,6 @@
 # Filesystem Os
 
-Records: `423`
+Records: `544`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `423`
 
 ## Category Index
 
-[Api Abi Checker (93)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
-[Benchmarking (58)](benchmarking.md) · [Build System (482)](build-system.md) · [Cli (420)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (55)](community-reference.md) · [Compiler (106)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (32)](compression.md)
-[Concurrency Parallelism (59)](concurrency-parallelism.md) · [Configuration (60)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (125)](cryptography.md) · [Data Science (26)](data-science.md) · [Database Datastore (426)](database-datastore.md) · [Datetime (69)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (32)](debugger.md) · [Dependency Manager (56)](dependency-manager.md) · [Documentation (52)](documentation.md)
-[Embedded Hardware (21)](embedded-hardware.md) · [Ffi Bindings (290)](ffi-bindings.md) · **[Filesystem Os (423)](filesystem-os.md)** · [Formatter (393)](formatter.md)
-[Framework (27)](framework.md) · [Fuzzer (19)](fuzzer.md) · [Game Engine Game Dev (85)](game-engine-game-dev.md) · [Ide Editor Integration (554)](ide-editor-integration.md)
-[Image Audio Dsp (88)](image-audio-dsp.md) · [Interop Bindings (43)](interop-bindings.md) · [Interpreter Runtime (111)](interpreter-runtime.md) · [Jit Vm (50)](jit-vm.md)
-[Language Server (20)](language-server.md) · [Language Specification (572)](language-specification.md) · [Library (3015)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (31)](lint-rule-pack.md) · [Linter (326)](linter.md) · [Logging Observability (216)](logging-observability.md) · [Machine Learning (306)](machine-learning.md)
-[Math Numeric Scientific (68)](math-numeric-scientific.md) · [Memory Analyzer (51)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (632)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (156)](package-manager.md) · [Parser Lexer Ast (480)](parser-lexer-ast.md) · [Precommit Ci Quality (160)](precommit-ci-quality.md)
-[Profiler (51)](profiler.md) · [Project Scaffolding (68)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (6)](sanitizer.md)
-[Security Sast (247)](security-sast.md) · [Serialization (266)](serialization.md) · [Standard Library (21)](standard-library.md) · [Static Analyzer (203)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (401)](testing-framework.md) · [Tutorial Book Styleguide (32)](tutorial-book-styleguide.md) · [Type Checker (238)](type-checker.md)
-[Undefined Behavior Analyzer (446)](undefined-behavior-analyzer.md) · [Utility Library (68)](utility-library.md) · [Visualization Gui (222)](visualization-gui.md) · [Web Framework (277)](web-framework.md)
+[Api Abi Checker (100)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
+[Benchmarking (64)](benchmarking.md) · [Build System (503)](build-system.md) · [Cli (431)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (61)](community-reference.md) · [Compiler (107)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (34)](compression.md)
+[Concurrency Parallelism (61)](concurrency-parallelism.md) · [Configuration (64)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (127)](cryptography.md) · [Data Science (26)](data-science.md) · [Database Datastore (428)](database-datastore.md) · [Datetime (86)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (57)](dependency-manager.md) · [Documentation (57)](documentation.md)
+[Embedded Hardware (34)](embedded-hardware.md) · [Ffi Bindings (307)](ffi-bindings.md) · **[Filesystem Os (544)](filesystem-os.md)** · [Formatter (416)](formatter.md)
+[Framework (31)](framework.md) · [Fuzzer (20)](fuzzer.md) · [Game Engine Game Dev (93)](game-engine-game-dev.md) · [Ide Editor Integration (657)](ide-editor-integration.md)
+[Image Audio Dsp (116)](image-audio-dsp.md) · [Interop Bindings (45)](interop-bindings.md) · [Interpreter Runtime (121)](interpreter-runtime.md) · [Jit Vm (51)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (586)](language-specification.md) · [Library (3146)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (31)](lint-rule-pack.md) · [Linter (327)](linter.md) · [Logging Observability (231)](logging-observability.md) · [Machine Learning (333)](machine-learning.md)
+[Math Numeric Scientific (69)](math-numeric-scientific.md) · [Memory Analyzer (51)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (652)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (173)](package-manager.md) · [Parser Lexer Ast (560)](parser-lexer-ast.md) · [Precommit Ci Quality (163)](precommit-ci-quality.md)
+[Profiler (52)](profiler.md) · [Project Scaffolding (74)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (7)](sanitizer.md)
+[Security Sast (250)](security-sast.md) · [Serialization (268)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (245)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (407)](testing-framework.md) · [Tutorial Book Styleguide (34)](tutorial-book-styleguide.md) · [Type Checker (248)](type-checker.md)
+[Undefined Behavior Analyzer (615)](undefined-behavior-analyzer.md) · [Utility Library (73)](utility-library.md) · [Visualization Gui (240)](visualization-gui.md) · [Web Framework (285)](web-framework.md)
 
 ## C++23
 
@@ -447,40 +447,191 @@ Records: `423`
 | SkymanOne/SpaceShuttleSimulator | release/v1.0.0 | 2020-08-03T13:02:22Z | [open](../records/space-shuttles-skymanone-spaceshuttlesimulator-33f90ec1.md) |
 | WeLoveKiraboshi/SIPRO-SpaceShuttle | unknown | github_latest_release_missing | [open](../records/space-shuttles-welovekiraboshi-sipro-spaceshuttle-eb84746e.md) |
 
+## Photography
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| aiff22/PyNET | unknown | github_search_does_not_include_release_date | [open](../records/photography-aiff22-pynet-0fb4cb17.md) |
+| aiff22/PyNET-Bokeh | unknown | github_search_does_not_include_release_date | [open](../records/photography-aiff22-pynet-bokeh-519da98d.md) |
+| aiff22/PyNET-PyTorch | unknown | github_search_does_not_include_release_date | [open](../records/photography-aiff22-pynet-pytorch-8da331a9.md) |
+| aslost/pixtale | unknown | github_search_does_not_include_release_date | [open](../records/photography-aslost-pixtale-df702412.md) |
+| carlospuenteg/File-Injector | unknown | github_search_does_not_include_release_date | [open](../records/photography-carlospuenteg-file-injector-2533177f.md) |
+| carlospuenteg/Photomosaic-Creator | unknown | github_search_does_not_include_release_date | [open](../records/photography-carlospuenteg-photomosaic-creator-b57e7ad4.md) |
+| CarVac/filmulator-gui | unknown | github_search_does_not_include_release_date | [open](../records/photography-carvac-filmulator-gui-f34a0327.md) |
+| cristibaluta/Imagin-Raw | unknown | github_search_does_not_include_release_date | [open](../records/photography-cristibaluta-imagin-raw-8980137a.md) |
+| daneden/photos.daneden.me | unknown | github_search_does_not_include_release_date | [open](../records/photography-daneden-photos-daneden-me-bf6de6aa.md) |
+| gergelysanta/PhotoMiner | unknown | github_search_does_not_include_release_date | [open](../records/photography-gergelysanta-photominer-7d3deb74.md) |
+| hanatos/vkdt | unknown | github_search_does_not_include_release_date | [open](../records/photography-hanatos-vkdt-673c0f96.md) |
+| hulk66/timeline | unknown | github_search_does_not_include_release_date | [open](../records/photography-hulk66-timeline-edac6d56.md) |
+| litten/zing-gallery | unknown | github_search_does_not_include_release_date | [open](../records/photography-litten-zing-gallery-8687fd0d.md) |
+| mauriciojost/olympus-photosync | unknown | github_search_does_not_include_release_date | [open](../records/photography-mauriciojost-olympus-photosync-e4bdd7fc.md) |
+| open-product-data/digital-cameras | unknown | github_search_does_not_include_release_date | [open](../records/photography-open-product-data-digital-cameras-6d723530.md) |
+| photoprism/photoprism | unknown | github_search_does_not_include_release_date | [open](../records/photography-photoprism-photoprism-49783c79.md) |
+| pop-os/wallpapers | unknown | github_search_does_not_include_release_date | [open](../records/photography-pop-os-wallpapers-b9bd093b.md) |
+| RawTherapee/RawTherapee | unknown | github_search_does_not_include_release_date | [open](../records/photography-rawtherapee-rawtherapee-846fa44c.md) |
+| rsjaffe/MIDI2LR | unknown | github_search_does_not_include_release_date | [open](../records/photography-rsjaffe-midi2lr-e0e7bfa5.md) |
+| SimplePhotoGallery/core | unknown | github_search_does_not_include_release_date | [open](../records/photography-simplephotogallery-core-61afec9b.md) |
+
+## Microscopy
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| 13hannes11/focus_annotator | v0.1.1 | 2022-02-25T09:22:38Z | [open](../records/microscopy-13hannes11-focus-annotator-4827ab89.md) |
+| 3dem/relion | 5.0.1 | 2025-09-22T12:24:51Z | [open](../records/microscopy-3dem-relion-c32d1606.md) |
+| aafkegros/MicroscopyNodes | v3.1.2 | 2026-08-24T13:54:42Z | [open](../records/microscopy-aafkegros-microscopynodes-00c8daaf.md) |
+| aangelopoulos/im2im-uq | unknown | github_latest_release_missing | [open](../records/microscopy-aangelopoulos-im2im-uq-cd6dde2d.md) |
+| AdaptiveParticles/LibAPR | v2.1.0 | 2022-06-16T13:08:59Z | [open](../records/microscopy-adaptiveparticles-libapr-60bc20e8.md) |
+| aelefebv/nellie | v1.0.4 | 2026-05-06T23:45:32Z | [open](../records/microscopy-aelefebv-nellie-6bcd4a0f.md) |
+| AllenCellModeling/aicsimageio | v4.13.0 | 2023-10-30T17:45:22Z | [open](../records/microscopy-allencellmodeling-aicsimageio-bc72f7e6.md) |
+| ariel-waisman/LabelsToROIs | V1.0 | 2020-12-27T00:52:19Z | [open](../records/microscopy-ariel-waisman-labelstorois-70803f22.md) |
+| axondeepseg/axondeepseg | v5.5.0 | 2026-04-15T16:20:28Z | [open](../records/microscopy-axondeepseg-axondeepseg-0c2875c8.md) |
+| bioio-devs/bioio | v3.4.0 | 2026-06-24T18:23:39Z | [open](../records/microscopy-bioio-devs-bioio-ca180c94.md) |
+| Biomedical-Imaging-Group/DeconvolutionLab2 | unknown | github_latest_release_missing | [open](../records/microscopy-biomedical-imaging-group-deconvolutionlab2-5bd46987.md) |
+| brainglobe/brainglobe-atlasapi | v3.0.1 | 2026-08-10T15:30:03Z | [open](../records/microscopy-brainglobe-brainglobe-atlasapi-1ee7f7d0.md) |
+| brainglobe/brainreg | v1.0.16 | 2026-08-28T10:06:31Z | [open](../records/microscopy-brainglobe-brainreg-71a0b5b3.md) |
+| brainglobe/cellfinder | v1.10.1 | 2026-05-21T14:24:47Z | [open](../records/microscopy-brainglobe-cellfinder-159009dc.md) |
+| chiahao3/ptyrad | v1.0.0 | 2026-06-07T04:40:32Z | [open](../records/microscopy-chiahao3-ptyrad-cbe12e50.md) |
+| computational-cell-analytics/micro-sam | v1.8.12 | 2026-08-26T12:39:12Z | [open](../records/microscopy-computational-cell-analytics-micro-sam-82fdbfce.md) |
+| computational-imaging/ThreeDeconv.jl | unknown | github_latest_release_missing | [open](../records/microscopy-computational-imaging-threedeconv-jl-df595b65.md) |
+| cytomining/cytominer | v0.2.2 | 2020-05-09T11:16:56Z | [open](../records/microscopy-cytomining-cytominer-c603fed1.md) |
+| cytomining/pycytominer | v1.7.1 | 2026-08-13T13:16:38Z | [open](../records/microscopy-cytomining-pycytominer-f61cb1dc.md) |
+| dancsalo/TensorFlow-MIL | unknown | github_latest_release_missing | [open](../records/microscopy-dancsalo-tensorflow-mil-823d26d9.md) |
+| david-hoffman/pyotf | v0.0.3 | 2022-09-07T05:38:40Z | [open](../records/microscopy-david-hoffman-pyotf-f47c74b0.md) |
+| deepinv/deepinv | v0.4.2 | 2026-08-30T08:53:17Z | [open](../records/microscopy-deepinv-deepinv-59141df0.md) |
+| delmic/odemis | unknown | github_latest_release_missing | [open](../records/microscopy-delmic-odemis-64e6d3c9.md) |
+| fairscope/PlanktoScope | software/v2025.0.0 | 2025-07-21T09:46:40Z | [open](../records/microscopy-fairscope-planktoscope-9189e5a9.md) |
+| google-research/sofima | v20240119 | 2024-01-26T17:01:00Z | [open](../records/microscopy-google-research-sofima-72568ecb.md) |
+| gtatters/ThermImageJ | v4.0 | 2026-06-27T21:06:25Z | [open](../records/microscopy-gtatters-thermimagej-e96d3524.md) |
+| GuillaumeMougeot/biom3d | v0.1.2 | 2025-10-31T09:33:03Z | [open](../records/microscopy-guillaumemougeot-biom3d-7ae5f94d.md) |
+| hahnec/rf-ulm | unknown | github_latest_release_missing | [open](../records/microscopy-hahnec-rf-ulm-3db20243.md) |
+| hexane360/phaser | v0.2 | 2025-09-05T19:10:34Z | [open](../records/microscopy-hexane360-phaser-69753666.md) |
+| hpgem/nanomesh | 0.9.1 | 2022-10-07T12:35:35Z | [open](../records/microscopy-hpgem-nanomesh-5b10b2c1.md) |
+| HuanglabPurdue/NCS | unknown | github_latest_release_missing | [open](../records/microscopy-huanglabpurdue-ncs-92a2d50f.md) |
+| ImSwitch/ImSwitch | v2.0.0 | 2023-01-16T19:46:32Z | [open](../records/microscopy-imswitch-imswitch-c78f5160.md) |
+| jungmannlab/picasso | v0.11.0 | 2026-08-20T09:06:47Z | [open](../records/microscopy-jungmannlab-picasso-7d2c2a00.md) |
+| LaboratoryOpticsBiosciences/FLUTE | v2.0.0 | 2023-09-26T09:24:08Z | [open](../records/microscopy-laboratoryopticsbiosciences-flute-6c0dfb32.md) |
+| MatthewFilipovich/torchoptics | v1.0.2 | 2026-04-02T18:32:45Z | [open](../records/microscopy-matthewfilipovich-torchoptics-d30776e7.md) |
+| MontpellierRessourcesImagerie/imagej_macros_and_scripts | v1.30 | 2026-02-11T12:42:55Z | [open](../records/microscopy-montpellierressourcesimagerie-imagej-macros-and-scripts-78da8ed6.md) |
+| mviereck/microscopy-tools | unknown | github_latest_release_missing | [open](../records/microscopy-mviereck-microscopy-tools-e9130466.md) |
+| MWod/ANHIR_MW | unknown | github_latest_release_missing | [open](../records/microscopy-mwod-anhir-mw-8e055d83.md) |
+| NICALab/SUPPORT | unknown | github_latest_release_missing | [open](../records/microscopy-nicalab-support-2b7c66f2.md) |
+| okunator/cellseg_models.pytorch | v.0.1.30 | 2025-11-14T10:28:07Z | [open](../records/microscopy-okunator-cellseg-models-pytorch-7f942e9c.md) |
+| Open-Science-Tools/nd2reader | 3.3.1 | 2025-01-15T09:45:00Z | [open](../records/microscopy-open-science-tools-nd2reader-9f3adb23.md) |
+| openMLA/Medjed | unknown | github_latest_release_missing | [open](../records/microscopy-openmla-medjed-0e099c83.md) |
+| pvjosue/WaveBlocks | unknown | github_latest_release_missing | [open](../records/microscopy-pvjosue-waveblocks-851e08dd.md) |
+| pycroscopy/atomai | v0.8.1 | 2025-06-24T07:57:00Z | [open](../records/microscopy-pycroscopy-atomai-0ba7ef19.md) |
+| pymmcore-plus/napari-micromanager | v0.3.1.post1 | 2026-05-18T17:25:41Z | [open](../records/microscopy-pymmcore-plus-napari-micromanager-ee37e322.md) |
+| pymmcore-plus/pymmcore-plus | v0.18.1 | 2026-04-02T12:44:11Z | [open](../records/microscopy-pymmcore-plus-pymmcore-plus-c09b4755.md) |
+| pymontecarlo/pymontecarlo | 1.1.0 | 2022-01-03T14:33:10Z | [open](../records/microscopy-pymontecarlo-pymontecarlo-376c3fcd.md) |
+| PytorchConnectomics/pytorch_connectomics | v1.0.0 | 2025-09-28T03:27:53Z | [open](../records/microscopy-pytorchconnectomics-pytorch-connectomics-6aa6d39f.md) |
+| rapidsai/cucim | v26.08.00 | 2026-08-05T17:53:43Z | [open](../records/microscopy-rapidsai-cucim-6fd9f972.md) |
+| royerlab/cytoself | 0.1.0.0 | 2024-09-13T22:54:34Z | [open](../records/microscopy-royerlab-cytoself-b2dff824.md) |
+| scalableminds/webknossos | 26.09.1 | 2026-08-31T08:14:58Z | [open](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) |
+| seung-lab/cloud-volume | 5.3.2 | 2021-11-10T22:27:58Z | [open](../records/microscopy-seung-lab-cloud-volume-388cc8e9.md) |
+| tferr/Scripts | 1.51 | 2017-04-06T03:09:39Z | [open](../records/microscopy-tferr-scripts-25277503.md) |
+| TheDeanLab/navigate | v0.0.12 | 2026-06-02T12:20:02Z | [open](../records/microscopy-thedeanlab-navigate-dc14fa5a.md) |
+| ThFriedrich/riCOM_cpp | v0.0.4-beta | 2026-05-19T16:32:03Z | [open](../records/microscopy-thfriedrich-ricom-cpp-2338225f.md) |
+| TIO-IKIM/CellViT | unknown | github_latest_release_missing | [open](../records/microscopy-tio-ikim-cellvit-0ce79676.md) |
+| tlambert03/nd2 | v0.11.3 | 2026-03-27T19:55:40Z | [open](../records/microscopy-tlambert03-nd2-bc5f1f25.md) |
+| yijiang1/fold_slice | unknown | github_latest_release_missing | [open](../records/microscopy-yijiang1-fold-slice-9121d5c8.md) |
+| zeiss-microscopy/libCZI | unknown | github_latest_release_missing | [open](../records/microscopy-zeiss-microscopy-libczi-168f37f0.md) |
+| zeiss-microscopy/OAD | unknown | github_latest_release_missing | [open](../records/microscopy-zeiss-microscopy-oad-882477e7.md) |
+
+## Telescopes
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| dEskoG/rDUINOScope | v2.3.1 | 2017-09-09T08:25:13Z | [open](../records/telescopes-deskog-rduinoscope-0542432f.md) |
+| Julien-R44/adoscope | unknown | github_latest_release_missing | [open](../records/telescopes-julien-r44-adoscope-0cdd9994.md) |
+| rcos/Telescope | 0.9.0 | 2022-02-03T03:12:35Z | [open](../records/telescopes-rcos-telescope-e587062a.md) |
+| vlaate/DobsonianDSC | unknown | github_latest_release_missing | [open](../records/telescopes-vlaate-dobsoniandsc-83afe2a8.md) |
+
+## Radars
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| ailab-hanyang/Radar4Motion | unknown | github_latest_release_missing | [open](../records/radars-ailab-hanyang-radar4motion-9053c2a1.md) |
+| birgander2/PyRAT | unknown | github_latest_release_missing | [open](../records/radars-birgander2-pyrat-f127a5d8.md) |
+| graphieros/vue-data-ui | v3.24.0 | 2026-08-29T15:25:51Z | [open](../records/radars-graphieros-vue-data-ui-37b47478.md) |
+| johntruckenbrodt/pyroSAR | v0.39.0 | 2026-08-28T14:30:32Z | [open](../records/radars-johntruckenbrodt-pyrosar-83ed39f7.md) |
+| Orion-AI-Lab/KuroSiwo | unknown | github_latest_release_missing | [open](../records/radars-orion-ai-lab-kurosiwo-16670f6a.md) |
+| tier4/nebula | v1.2.0 | 2026-07-30T06:12:33Z | [open](../records/radars-tier4-nebula-3760d802.md) |
+
+## SatCom Satellites
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| ainfosec/FISSURE | Python3_20260121 | 2026-01-21T15:32:40Z | [open](../records/satcom-satellites-ainfosec-fissure-2be895d2.md) |
+| aweeri/TLEscope | v3.9.2 | 2026-04-03T10:40:46Z | [open](../records/satcom-satellites-aweeri-tlescope-9706f874.md) |
+| chrieke/awesome-geospatial-companies | unknown | github_latest_release_missing | [open](../records/satcom-satellites-chrieke-awesome-geospatial-companies-81e3bd71.md) |
+| fosfor15/SatCommSystem-QPSK-OFDM-LSEstimation-TransionosphericChannel | v1.0 | 2020-07-23T20:01:36Z | [open](../records/satcom-satellites-fosfor15-satcommsystem-qpsk-ofdm-lsestimation-transionosphericchannel-8a655336.md) |
+| gnuradio/gnuradio | v3.10.12.0 | 2025-02-20T01:28:19Z | [open](../records/satcom-satellites-gnuradio-gnuradio-28a3e264.md) |
+| inigodelportillo/ITU-Rpy | 0.4.0 | 2023-02-04T23:59:14Z | [open](../records/satcom-satellites-inigodelportillo-itu-rpy-e6621ca9.md) |
+| jgrss/geowombat | v2.5.3 | 2026-08-23T11:33:53Z | [open](../records/satcom-satellites-jgrss-geowombat-9fded595.md) |
+| JuliaGeo/GDAL.jl | v1.12.0 | 2025-12-23T20:23:10Z | [open](../records/satcom-satellites-juliageo-gdal-jl-613aca42.md) |
+| martinber/noaa-apt | v1.4.1 | 2023-11-30T02:29:45Z | [open](../records/satcom-satellites-martinber-noaa-apt-d4c032f7.md) |
+| mhostetter/gr-adsb | unknown | github_latest_release_missing | [open](../records/satcom-satellites-mhostetter-gr-adsb-0a37363b.md) |
+| nullpainter/sanchez | v1.0.26.1 | 2025-06-29T00:30:15Z | [open](../records/satcom-satellites-nullpainter-sanchez-10cc31e0.md) |
+| opengeos/qgis-timelapse-plugin | v0.12.0 | 2026-06-02T13:52:08Z | [open](../records/satcom-satellites-opengeos-qgis-timelapse-plugin-8e69e131.md) |
+| oscam-emu/oscam-emu | unknown | github_latest_release_missing | [open](../records/satcom-satellites-oscam-emu-oscam-emu-d5f78941.md) |
+| oscam-emu/oscam-patched-old | oscam11757-emu801 | 2024-03-27T23:53:06Z | [open](../records/satcom-satellites-oscam-emu-oscam-patched-old-2275f675.md) |
+| pothosware/SoapySDR | unknown | github_latest_release_missing | [open](../records/satcom-satellites-pothosware-soapysdr-aec9e76e.md) |
+| The-Osint-Toolbox/Geolocation-OSINT | unknown | github_latest_release_missing | [open](../records/satcom-satellites-the-osint-toolbox-geolocation-osint-51d3da78.md) |
+| tomtaylor/satellite-eyes | 2.0.0 | 2026-02-23T23:23:38Z | [open](../records/satcom-satellites-tomtaylor-satellite-eyes-502e7da9.md) |
+| up42/up42-py | v4.1.0 | 2026-08-31T09:09:58Z | [open](../records/satcom-satellites-up42-up42-py-ed525448.md) |
+
+## Electromagnetoscopes
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| ainfosec/FISSURE | Python3_20260121 | 2026-01-21T15:32:40Z | [open](../records/electromagnetoscopes-ainfosec-fissure-685993bb.md) |
+| AlexandreRouma/SDRPlusPlus | nightly | 2022-11-22T07:27:11Z | [open](../records/electromagnetoscopes-alexandrerouma-sdrplusplus-df221116.md) |
+| ApplikeySolutions/PandoraPlayer | 1.2 | 2017-12-19T16:38:08Z | [open](../records/electromagnetoscopes-applikeysolutions-pandoraplayer-2a041af3.md) |
+| EttusResearch/uhd | v4.10.0.0 | 2026-04-27T17:13:22Z | [open](../records/electromagnetoscopes-ettusresearch-uhd-84596164.md) |
+| gnuradio/gnuradio | v3.10.12.0 | 2025-02-20T01:28:19Z | [open](../records/electromagnetoscopes-gnuradio-gnuradio-5d3da501.md) |
+| greatscottgadgets/hackrf | v2026.01.3 | 2026-01-30T04:02:01Z | [open](../records/electromagnetoscopes-greatscottgadgets-hackrf-b0325cd7.md) |
+| IgrikXD/Easy-SDR | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-igrikxd-easy-sdr-05c3fee8.md) |
+| jagrosh/MusicBot | 0.4.3 | 2024-08-05T22:08:33Z | [open](../records/electromagnetoscopes-jagrosh-musicbot-4a0a26cc.md) |
+| jopohl/urh | v2.10.0 | 2025-12-17T13:40:00Z | [open](../records/electromagnetoscopes-jopohl-urh-450dc5c5.md) |
+| lukeswitz/DragonSync-iOS | v2.2-build4.3.9 | 2026-08-19T20:15:09Z | [open](../records/electromagnetoscopes-lukeswitz-dragonsync-ios-ed374b77.md) |
+| martinber/noaa-apt | v1.4.1 | 2023-11-30T02:29:45Z | [open](../records/electromagnetoscopes-martinber-noaa-apt-5f2d5355.md) |
+| pothosware/PothosCore | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-pothosware-pothoscore-bfc13d94.md) |
+| pothosware/SoapySDR | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-pothosware-soapysdr-c11f1141.md) |
+
 ## Assembly
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| dreamportdev/Osdev-Notes | v1.6 | 2026-02-21T15:32:17Z | [open](../records/assembly-dreamportdev-osdev-notes-0bc186d6.md) |
-| rwfpl/rewolf-wow64ext | v1.0.0.9 | 2017-01-17T23:24:52Z | [open](../records/assembly-rwfpl-rewolf-wow64ext-24fabb9b.md) |
-| wichtounet/thor-os | unknown | github_latest_release_missing | [open](../records/assembly-wichtounet-thor-os-cf1384c0.md) |
+| dreamportdev/Osdev-Notes | partial | 2026-08-29T00:33:45Z | [open](../records/assembly-dreamportdev-osdev-notes-0bc186d6.md) |
+| rwfpl/rewolf-wow64ext | partial | 2023-01-17T20:00:42Z | [open](../records/assembly-rwfpl-rewolf-wow64ext-24fabb9b.md) |
+| wichtounet/thor-os | partial | 2024-11-19T10:12:06Z | [open](../records/assembly-wichtounet-thor-os-cf1384c0.md) |
 
 ## Pattern language
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ackintosh/ganesha | 4.0.0 | 2025-02-22T21:52:49Z | [open](../records/pattern-language-ackintosh-ganesha-8efb6b76.md) |
-| addyosmani/essential-js-design-patterns | v1.7.0 | 2017-07-29T22:14:19Z | [open](../records/pattern-language-addyosmani-essential-js-design-patterns-55f97ad1.md) |
-| adimiko/TransactionalBox | unknown | github_latest_release_missing | [open](../records/pattern-language-adimiko-transactionalbox-3c62533f.md) |
-| anton-liauchuk/java-interview | unknown | github_latest_release_missing | [open](../records/pattern-language-anton-liauchuk-java-interview-8ff8af1a.md) |
-| Armando1514/Event-Driven-Microservices-Advanced | unknown | github_latest_release_missing | [open](../records/pattern-language-armando1514-event-driven-microservices-advanced-5fc6cb6d.md) |
-| artembilan/microservices-patterns-spring-integration | unknown | github_latest_release_missing | [open](../records/pattern-language-artembilan-microservices-patterns-spring-integration-5b5b4fe0.md) |
-| charlessolar/eShopOnContainersDDD | unknown | github_latest_release_missing | [open](../records/pattern-language-charlessolar-eshoponcontainersddd-8ba18aea.md) |
-| daohainam/microservice-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-daohainam-microservice-patterns-650b9c7c.md) |
-| daxnet/we-text | unknown | github_latest_release_missing | [open](../records/pattern-language-daxnet-we-text-6933c35d.md) |
-| Devinterview-io/microservices-interview-questions | unknown | github_latest_release_missing | [open](../records/pattern-language-devinterview-io-microservices-interview-questions-2a892b04.md) |
-| dotnetcore/CAP | v10.0.2 | 2026-08-01T13:10:07Z | [open](../records/pattern-language-dotnetcore-cap-6fcca660.md) |
-| greyblake/awesome-programming-books | unknown | github_latest_release_missing | [open](../records/pattern-language-greyblake-awesome-programming-books-3767bcb8.md) |
-| hellosatish/microservice-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-hellosatish-microservice-patterns-84e315b2.md) |
-| microservices-patterns/ftgo-application | unknown | github_latest_release_missing | [open](../records/pattern-language-microservices-patterns-ftgo-application-4b82322c.md) |
-| nemanjarogic/DesignPatternsLibrary | v8.0.0 | 2025-07-04T16:09:36Z | [open](../records/pattern-language-nemanjarogic-designpatternslibrary-6dd51b24.md) |
-| rafaelfgx/Architecture | unknown | github_latest_release_missing | [open](../records/pattern-language-rafaelfgx-architecture-0240a6d1.md) |
-| skyming/Trip-to-iOS-Design-Patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-skyming-trip-to-ios-design-patterns-ac58ff47.md) |
-| suadev/microservices-change-data-capture-with-debezium | unknown | github_latest_release_missing | [open](../records/pattern-language-suadev-microservices-change-data-capture-with-debezium-022ee30d.md) |
-| thangchung/clean-architecture-dotnet | SNAPSHOT-v0.0.3 | 2021-08-01T08:53:43Z | [open](../records/pattern-language-thangchung-clean-architecture-dotnet-2fa9afc9.md) |
-| tkssharma/nodejs-microservices-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-tkssharma-nodejs-microservices-patterns-edb30935.md) |
-| uid4oe/microservices-go-grpc | unknown | github_latest_release_missing | [open](../records/pattern-language-uid4oe-microservices-go-grpc-bab81d8d.md) |
-| wuyichen24/microservices-patterns | unknown | github_latest_release_missing | [open](../records/pattern-language-wuyichen24-microservices-patterns-a0984caf.md) |
+| ackintosh/ganesha | partial | 2026-06-20T02:01:28Z | [open](../records/pattern-language-ackintosh-ganesha-8efb6b76.md) |
+| addyosmani/essential-js-design-patterns | partial | 2021-08-01T13:59:43Z | [open](../records/pattern-language-addyosmani-essential-js-design-patterns-55f97ad1.md) |
+| adimiko/TransactionalBox | partial | 2025-10-09T20:54:33Z | [open](../records/pattern-language-adimiko-transactionalbox-3c62533f.md) |
+| anton-liauchuk/java-interview | partial | 2026-05-22T09:12:03Z | [open](../records/pattern-language-anton-liauchuk-java-interview-8ff8af1a.md) |
+| Armando1514/Event-Driven-Microservices-Advanced | partial | 2023-07-04T13:54:41Z | [open](../records/pattern-language-armando1514-event-driven-microservices-advanced-5fc6cb6d.md) |
+| artembilan/microservices-patterns-spring-integration | partial | 2023-06-09T14:52:08Z | [open](../records/pattern-language-artembilan-microservices-patterns-spring-integration-5b5b4fe0.md) |
+| charlessolar/eShopOnContainersDDD | partial | 2023-03-04T00:19:52Z | [open](../records/pattern-language-charlessolar-eshoponcontainersddd-8ba18aea.md) |
+| daohainam/microservice-patterns | partial | 2026-05-26T05:47:52Z | [open](../records/pattern-language-daohainam-microservice-patterns-650b9c7c.md) |
+| daxnet/we-text | partial | 2017-11-15T07:06:13Z | [open](../records/pattern-language-daxnet-we-text-6933c35d.md) |
+| Devinterview-io/microservices-interview-questions | partial | 2026-01-04T23:16:18Z | [open](../records/pattern-language-devinterview-io-microservices-interview-questions-2a892b04.md) |
+| dotnetcore/CAP | partial | 2026-08-01T13:10:06Z | [open](../records/pattern-language-dotnetcore-cap-6fcca660.md) |
+| greyblake/awesome-programming-books | partial | 2021-09-21T13:21:23Z | [open](../records/pattern-language-greyblake-awesome-programming-books-3767bcb8.md) |
+| hellosatish/microservice-patterns | partial | 2021-01-21T00:01:34Z | [open](../records/pattern-language-hellosatish-microservice-patterns-84e315b2.md) |
+| microservices-patterns/ftgo-application | partial | 2026-03-13T01:11:04Z | [open](../records/pattern-language-microservices-patterns-ftgo-application-4b82322c.md) |
+| nemanjarogic/DesignPatternsLibrary | partial | 2025-07-04T16:14:33Z | [open](../records/pattern-language-nemanjarogic-designpatternslibrary-6dd51b24.md) |
+| rafaelfgx/Architecture | partial | 2026-08-18T11:57:31Z | [open](../records/pattern-language-rafaelfgx-architecture-0240a6d1.md) |
+| skyming/Trip-to-iOS-Design-Patterns | partial | 2018-05-29T12:43:40Z | [open](../records/pattern-language-skyming-trip-to-ios-design-patterns-ac58ff47.md) |
+| suadev/microservices-change-data-capture-with-debezium | partial | 2020-12-07T19:50:46Z | [open](../records/pattern-language-suadev-microservices-change-data-capture-with-debezium-022ee30d.md) |
+| thangchung/clean-architecture-dotnet | partial | 2023-04-27T20:23:43Z | [open](../records/pattern-language-thangchung-clean-architecture-dotnet-2fa9afc9.md) |
+| tkssharma/nodejs-microservices-patterns | partial | 2020-11-02T17:23:41Z | [open](../records/pattern-language-tkssharma-nodejs-microservices-patterns-edb30935.md) |
+| uid4oe/microservices-go-grpc | partial | 2022-08-13T09:14:41Z | [open](../records/pattern-language-uid4oe-microservices-go-grpc-bab81d8d.md) |
+| wuyichen24/microservices-patterns | partial | 2020-07-02T06:24:04Z | [open](../records/pattern-language-wuyichen24-microservices-patterns-a0984caf.md) |
 
 ## WebAssembly
 

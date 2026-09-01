@@ -1,6 +1,6 @@
 # Security Sast
 
-Records: `247`
+Records: `250`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `247`
 
 ## Category Index
 
-[Api Abi Checker (93)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
-[Benchmarking (58)](benchmarking.md) · [Build System (482)](build-system.md) · [Cli (420)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (55)](community-reference.md) · [Compiler (106)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (32)](compression.md)
-[Concurrency Parallelism (59)](concurrency-parallelism.md) · [Configuration (60)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
-[Cryptography (125)](cryptography.md) · [Data Science (26)](data-science.md) · [Database Datastore (426)](database-datastore.md) · [Datetime (69)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (32)](debugger.md) · [Dependency Manager (56)](dependency-manager.md) · [Documentation (52)](documentation.md)
-[Embedded Hardware (21)](embedded-hardware.md) · [Ffi Bindings (290)](ffi-bindings.md) · [Filesystem Os (423)](filesystem-os.md) · [Formatter (393)](formatter.md)
-[Framework (27)](framework.md) · [Fuzzer (19)](fuzzer.md) · [Game Engine Game Dev (85)](game-engine-game-dev.md) · [Ide Editor Integration (554)](ide-editor-integration.md)
-[Image Audio Dsp (88)](image-audio-dsp.md) · [Interop Bindings (43)](interop-bindings.md) · [Interpreter Runtime (111)](interpreter-runtime.md) · [Jit Vm (50)](jit-vm.md)
-[Language Server (20)](language-server.md) · [Language Specification (572)](language-specification.md) · [Library (3015)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (31)](lint-rule-pack.md) · [Linter (326)](linter.md) · [Logging Observability (216)](logging-observability.md) · [Machine Learning (306)](machine-learning.md)
-[Math Numeric Scientific (68)](math-numeric-scientific.md) · [Memory Analyzer (51)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (632)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (156)](package-manager.md) · [Parser Lexer Ast (480)](parser-lexer-ast.md) · [Precommit Ci Quality (160)](precommit-ci-quality.md)
-[Profiler (51)](profiler.md) · [Project Scaffolding (68)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (6)](sanitizer.md)
-**[Security Sast (247)](security-sast.md)** · [Serialization (266)](serialization.md) · [Standard Library (21)](standard-library.md) · [Static Analyzer (203)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (401)](testing-framework.md) · [Tutorial Book Styleguide (32)](tutorial-book-styleguide.md) · [Type Checker (238)](type-checker.md)
-[Undefined Behavior Analyzer (446)](undefined-behavior-analyzer.md) · [Utility Library (68)](utility-library.md) · [Visualization Gui (222)](visualization-gui.md) · [Web Framework (277)](web-framework.md)
+[Api Abi Checker (100)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (33)](assertion-mocking.md) · [Async Runtime (104)](async-runtime.md)
+[Benchmarking (64)](benchmarking.md) · [Build System (503)](build-system.md) · [Cli (431)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (61)](community-reference.md) · [Compiler (107)](compiler.md) · [Compiler Diagnostics (18)](compiler-diagnostics.md) · [Compression (34)](compression.md)
+[Concurrency Parallelism (61)](concurrency-parallelism.md) · [Configuration (64)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (10)](coverage.md)
+[Cryptography (127)](cryptography.md) · [Data Science (26)](data-science.md) · [Database Datastore (428)](database-datastore.md) · [Datetime (86)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (35)](debugger.md) · [Dependency Manager (57)](dependency-manager.md) · [Documentation (57)](documentation.md)
+[Embedded Hardware (34)](embedded-hardware.md) · [Ffi Bindings (307)](ffi-bindings.md) · [Filesystem Os (544)](filesystem-os.md) · [Formatter (416)](formatter.md)
+[Framework (31)](framework.md) · [Fuzzer (20)](fuzzer.md) · [Game Engine Game Dev (93)](game-engine-game-dev.md) · [Ide Editor Integration (657)](ide-editor-integration.md)
+[Image Audio Dsp (116)](image-audio-dsp.md) · [Interop Bindings (45)](interop-bindings.md) · [Interpreter Runtime (121)](interpreter-runtime.md) · [Jit Vm (51)](jit-vm.md)
+[Language Server (23)](language-server.md) · [Language Specification (586)](language-specification.md) · [Library (3146)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (31)](lint-rule-pack.md) · [Linter (327)](linter.md) · [Logging Observability (231)](logging-observability.md) · [Machine Learning (333)](machine-learning.md)
+[Math Numeric Scientific (69)](math-numeric-scientific.md) · [Memory Analyzer (51)](memory-analyzer.md) · [Message Broker (23)](message-broker.md) · [Networking Http (652)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (173)](package-manager.md) · [Parser Lexer Ast (560)](parser-lexer-ast.md) · [Precommit Ci Quality (163)](precommit-ci-quality.md)
+[Profiler (52)](profiler.md) · [Project Scaffolding (74)](project-scaffolding.md) · [Registry Repository (104)](registry-repository.md) · [Sanitizer (7)](sanitizer.md)
+**[Security Sast (250)](security-sast.md)** · [Serialization (268)](serialization.md) · [Standard Library (22)](standard-library.md) · [Static Analyzer (245)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (407)](testing-framework.md) · [Tutorial Book Styleguide (34)](tutorial-book-styleguide.md) · [Type Checker (248)](type-checker.md)
+[Undefined Behavior Analyzer (615)](undefined-behavior-analyzer.md) · [Utility Library (73)](utility-library.md) · [Visualization Gui (240)](visualization-gui.md) · [Web Framework (285)](web-framework.md)
 
 ## Julia
 
@@ -287,11 +287,29 @@ Records: `247`
 | OWASP SAMM | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/doctrines-owasp-samm-cf38ebef.md) |
 | OWASP Top 10 | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/doctrines-owasp-top-10-67898a48.md) |
 
+## Radars
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| ChenHongruixuan/BRIGHT | v1.0-essd | 2025-11-10T09:09:40Z | [open](../records/radars-chenhongruixuan-bright-759fa402.md) |
+
+## SatCom Satellites
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| githubsatelliteworkshops/codeql | v1.0 | 2020-05-06T16:06:48Z | [open](../records/satcom-satellites-githubsatelliteworkshops-codeql-9d99324c.md) |
+
+## Electromagnetoscopes
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| PentHertz/RF-Swift | v3.0.1 | 2026-08-20T08:55:53Z | [open](../records/electromagnetoscopes-penthertz-rf-swift-91a223bf.md) |
+
 ## Catalogs
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| OpenSSF Scorecard | v5.5.0 | 2026-04-23T21:41:36Z | [open](../records/catalogs-openssf-scorecard-808ecb37.md) |
+| OpenSSF Scorecard | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-openssf-scorecard-808ecb37.md) |
 
 ## Magazines
 
@@ -303,7 +321,7 @@ Records: `247`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| msitarzewski/AGENT-ZERO | unknown | github_latest_release_missing | [open](../records/pattern-language-msitarzewski-agent-zero-f355f990.md) |
+| msitarzewski/AGENT-ZERO | partial | 2026-03-05T16:06:47Z | [open](../records/pattern-language-msitarzewski-agent-zero-f355f990.md) |
 
 ## PHP
 
@@ -337,7 +355,7 @@ Records: `247`
 | gitlab-org/security-products/sast | partial | 2026-01-07T10:21:52.522Z | [open](../records/repository-workplaces-gitlab-org-security-products-sast-f9f7c3e1.md) |
 | guardianproject/tormobile/NetCipher | partial | 2024-12-03T20:32:59.810Z | [open](../records/repository-workplaces-guardianproject-tormobile-netcipher-11216d9e.md) |
 | jongwons.choi/spring-boot-security-lecture | partial | 2021-10-06T10:49:45.185Z | [open](../records/repository-workplaces-jongwons-choi-spring-boot-security-lecture-e0ab9f25.md) |
-| openid/conformance-suite | partial | 2026-09-01T05:30:48.488Z | [open](../records/repository-workplaces-openid-conformance-suite-34afbe2d.md) |
+| openid/conformance-suite | partial | 2026-09-01T07:32:40.130Z | [open](../records/repository-workplaces-openid-conformance-suite-34afbe2d.md) |
 | opensecuritytraining/arch1001_x86-64_asm_code_for_class | partial | 2025-09-14T17:56:20.635Z | [open](../records/repository-workplaces-opensecuritytraining-arch1001-x86-64-asm-code-for-class-940e9a45.md) |
 | opensecuritytraining/arch1001_x86-64_asm_slides_and_subtitles | partial | 2026-05-20T19:17:22.900Z | [open](../records/repository-workplaces-opensecuritytraining-arch1001-x86-64-asm-slides-and-subtitles-01052120.md) |
 | prism-break/prism-break | partial | 2026-05-30T11:50:17.341Z | [open](../records/repository-workplaces-prism-break-prism-break-503c05ff.md) |
