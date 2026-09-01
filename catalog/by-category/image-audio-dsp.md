@@ -1,6 +1,6 @@
 # Image Audio Dsp
 
-Records: `47`
+Records: `77`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `47`
 
 ## Category Index
 
-[Api Abi Checker (3)](api-abi-checker.md) · [Api Doc Generator (10)](api-doc-generator.md) · [Async Runtime (7)](async-runtime.md) · [Benchmarking (5)](benchmarking.md)
-[Build System (33)](build-system.md) · [Cli (27)](cli.md) · [Codegen Codemod Refactoring (11)](codegen-codemod-refactoring.md) · [Community Reference (21)](community-reference.md)
-[Compiler (23)](compiler.md) · [Compression (7)](compression.md) · [Concurrency Parallelism (14)](concurrency-parallelism.md) · [Configuration (2)](configuration.md)
-[Container Deployment (4)](container-deployment.md) · [Coverage (8)](coverage.md) · [Cryptography (19)](cryptography.md) · [Data Science (12)](data-science.md)
-[Database Datastore (133)](database-datastore.md) · [Datetime (1)](datetime.md) · [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (8)](debugger.md)
-[Dependency Manager (6)](dependency-manager.md) · [Documentation (33)](documentation.md) · [Embedded Hardware (8)](embedded-hardware.md) · [Ffi Bindings (14)](ffi-bindings.md)
-[Filesystem Os (2)](filesystem-os.md) · [Formatter (16)](formatter.md) · [Framework (9)](framework.md) · [Fuzzer (5)](fuzzer.md)
-[Game Engine Game Dev (38)](game-engine-game-dev.md) · [Ide Editor Integration (20)](ide-editor-integration.md) · **[Image Audio Dsp (47)](image-audio-dsp.md)** · [Interop Bindings (7)](interop-bindings.md)
-[Interpreter Runtime (26)](interpreter-runtime.md) · [Jit Vm (15)](jit-vm.md) · [Language Server (7)](language-server.md) · [Language Specification (51)](language-specification.md)
-[Library (18)](library.md) · [Lint Plugin (1)](lint-plugin.md) · [Linter (18)](linter.md) · [Logging Observability (25)](logging-observability.md)
-[Machine Learning (18)](machine-learning.md) · [Math Numeric Scientific (40)](math-numeric-scientific.md) · [Memory Analyzer (1)](memory-analyzer.md) · [Message Broker (7)](message-broker.md)
-[Networking Http (87)](networking-http.md) · [Other (14)](other.md) · [Package Manager (17)](package-manager.md) · [Parser Lexer Ast (47)](parser-lexer-ast.md)
-[Precommit Ci Quality (13)](precommit-ci-quality.md) · [Profiler (11)](profiler.md) · [Project Scaffolding (3)](project-scaffolding.md) · [Registry Repository (93)](registry-repository.md)
-[Sanitizer (4)](sanitizer.md) · [Security Sast (23)](security-sast.md) · [Serialization (70)](serialization.md) · [Standard Library (7)](standard-library.md)
-[Static Analyzer (37)](static-analyzer.md) · [Templating (1)](templating.md) · [Testing Framework (31)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md)
-[Type Checker (5)](type-checker.md) · [Undefined Behavior Analyzer (101)](undefined-behavior-analyzer.md) · [Utility Library (42)](utility-library.md) · [Visualization Gui (75)](visualization-gui.md)
-[Web Framework (34)](web-framework.md)
+[Api Abi Checker (66)](api-abi-checker.md) · [Api Doc Generator (10)](api-doc-generator.md) · [Assertion Mocking (31)](assertion-mocking.md) · [Async Runtime (85)](async-runtime.md)
+[Benchmarking (39)](benchmarking.md) · [Build System (406)](build-system.md) · [Cli (304)](cli.md) · [Codegen Codemod Refactoring (19)](codegen-codemod-refactoring.md)
+[Community Reference (51)](community-reference.md) · [Compiler (83)](compiler.md) · [Compiler Diagnostics (8)](compiler-diagnostics.md) · [Compression (31)](compression.md)
+[Concurrency Parallelism (42)](concurrency-parallelism.md) · [Configuration (48)](configuration.md) · [Container Deployment (6)](container-deployment.md) · [Coverage (8)](coverage.md)
+[Cryptography (117)](cryptography.md) · [Data Science (14)](data-science.md) · [Database Datastore (312)](database-datastore.md) · [Datetime (44)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (31)](debugger.md) · [Dependency Manager (38)](dependency-manager.md) · [Documentation (49)](documentation.md)
+[Embedded Hardware (16)](embedded-hardware.md) · [Ffi Bindings (256)](ffi-bindings.md) · [Filesystem Os (299)](filesystem-os.md) · [Formatter (326)](formatter.md)
+[Framework (17)](framework.md) · [Fuzzer (10)](fuzzer.md) · [Game Engine Game Dev (76)](game-engine-game-dev.md) · [Ide Editor Integration (404)](ide-editor-integration.md)
+**[Image Audio Dsp (77)](image-audio-dsp.md)** · [Interop Bindings (41)](interop-bindings.md) · [Interpreter Runtime (88)](interpreter-runtime.md) · [Jit Vm (50)](jit-vm.md)
+[Language Server (19)](language-server.md) · [Language Specification (240)](language-specification.md) · [Library (2366)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (27)](lint-rule-pack.md) · [Linter (319)](linter.md) · [Logging Observability (183)](logging-observability.md) · [Machine Learning (219)](machine-learning.md)
+[Math Numeric Scientific (58)](math-numeric-scientific.md) · [Memory Analyzer (39)](memory-analyzer.md) · [Message Broker (18)](message-broker.md) · [Networking Http (449)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (117)](package-manager.md) · [Parser Lexer Ast (317)](parser-lexer-ast.md) · [Precommit Ci Quality (121)](precommit-ci-quality.md)
+[Profiler (41)](profiler.md) · [Project Scaffolding (39)](project-scaffolding.md) · [Registry Repository (99)](registry-repository.md) · [Sanitizer (4)](sanitizer.md)
+[Security Sast (215)](security-sast.md) · [Serialization (181)](serialization.md) · [Standard Library (18)](standard-library.md) · [Static Analyzer (68)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (335)](testing-framework.md) · [Tutorial Book Styleguide (11)](tutorial-book-styleguide.md) · [Type Checker (229)](type-checker.md)
+[Undefined Behavior Analyzer (218)](undefined-behavior-analyzer.md) · [Utility Library (56)](utility-library.md) · [Visualization Gui (161)](visualization-gui.md) · [Web Framework (199)](web-framework.md)
 
 ## C++23
 
@@ -36,6 +36,32 @@ Records: `47`
 | OpenCV | unknown | not_checked | [open](../records/c-23-opencv-aa6fe69d.md) |
 | SDL | unknown | not_checked | [open](../records/c-23-sdl-4f8ef49a.md) |
 | SFML | unknown | not_checked | [open](../records/c-23-sfml-3b2429d1.md) |
+
+## Julia
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| AbstractImageReconstruction | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-abstractimagereconstruction-d0f365dc.md) |
+| AlignedSpans | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-alignedspans-4093c2df.md) |
+| AudioDB | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-audiodb-520db38a.md) |
+| AudioReader | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-audioreader-bc418885.md) |
+| BanyanImages | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-banyanimages-9a03fe00.md) |
+| BatchedSPDMatrices | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-batchedspdmatrices-f8115add.md) |
+| BioRecordsProcessing | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-biorecordsprocessing-77530e96.md) |
+| ChirpSignal | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-chirpsignal-dcfe7645.md) |
+| CitableImage | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-citableimage-34f8fff8.md) |
+
+## Rust
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| fax | 0.3.0 | 2026-07-13T16:45:06.159105Z | [open](../records/rust-fax-44bfc794.md) |
+| ico | 0.5.0 | 2025-11-28T15:08:54.298229Z | [open](../records/rust-ico-4cdb132a.md) |
+| image-webp | 0.2.4 | 2025-08-27T01:41:15.168634Z | [open](../records/rust-image-webp-e60625b1.md) |
+| loop9 | 0.1.5 | 2024-01-15T11:11:35.843236Z | [open](../records/rust-loop9-b2408fc4.md) |
+| signal-hook | 0.4.4 | 2026-04-04T08:08:58.259635Z | [open](../records/rust-signal-hook-5c152b8c.md) |
+| signal-hook-mio | 0.3.0 | 2026-01-01T13:30:03.607638Z | [open](../records/rust-signal-hook-mio-17a72fca.md) |
+| zune-core | 0.5.3 | 2026-08-07T20:55:44.361773Z | [open](../records/rust-zune-core-1162df7a.md) |
 
 ## Python
 
@@ -51,8 +77,22 @@ Records: `47`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| alien-signals | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-alien-signals-b7cf092e.md) |
+| ao | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-ao-5c30c7cb.md) |
+| audiodataload | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-audiodataload-e57e7a6f.md) |
+| auproc | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-auproc-0dda5b9e.md) |
+| away | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-away-c3d1059a.md) |
+| awesome-audiowheel | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-awesome-audiowheel-b32db6a9.md) |
+| awesome-pulseaudio-widget | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-awesome-pulseaudio-widget-55185af1.md) |
+| awesome-slot | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-awesome-slot-b1c2e4ed.md) |
 | Digital Signal Processing | unknown | not_checked | [open](../records/lua-family-digital-signal-processing-cff5d9fc.md) |
+| dreamega-ico-encoder | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-dreamega-ico-encoder-ab027e3c.md) |
+| dromozoa-image | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-dromozoa-image-0813baea.md) |
+| fyil | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-fyil-d9ae1da5.md) |
+| glyphify | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-glyphify-ef1c54f6.md) |
 | Image Manipulation | unknown | not_checked | [open](../records/lua-family-image-manipulation-ed1c6dcf.md) |
+| image-atlas | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-image-atlas-16fbcda5.md) |
+| indexedpng | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-indexedpng-6a68b055.md) |
 
 ## Computer Graphics Software
 

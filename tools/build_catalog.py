@@ -5330,6 +5330,7 @@ def enrich_records(
         updated["slug"] = record_slug(updated)
         final_records.append(updated)
     final_records = preserve_prior_observation_times(final_records)
+    final_records = merge_with_prior_records(final_records)
     fetch_errors = sorted(dict.fromkeys(fetcher.errors))
 
     stats = BuildStats(
@@ -5358,6 +5359,7 @@ def enrich_records(
     payload = compact_payload_for_storage(payload)
     payload = preserve_generated_at_if_semantically_same(payload)
     write_json(ENRICHED_JSON, payload)
+    export_to_sqlite(payload)
     write_text(REPORT_MD, render_enrichment_report(payload))
     return payload
 
@@ -5390,6 +5392,252 @@ def preserve_prior_observation_times(records: list[dict[str, Any]]) -> list[dict
             if release_without_checked_at(current_release) == release_without_checked_at(old_release):
                 current_release["checked_at"] = old_release.get("checked_at", current_release.get("checked_at", ""))
     return records
+
+
+def merge_with_prior_records(records: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """DeltaLake-style merge: never lose previously collected records.
+
+    Loads the existing enriched_records.json and re-introduces any records
+    that were present in the prior run but are not in the current run. This
+    ensures the catalog only grows across runs (incremental upsert pattern)
+    rather than potentially shrinking when registry results vary between runs.
+    """
+    if not ENRICHED_JSON.exists():
+        return records
+    try:
+        previous = read_json(ENRICHED_JSON)
+    except Exception:
+        return records
+    prior_records = previous.get("records", [])
+    if not prior_records:
+        return records
+    current_keys = {record.get("identity_key") for record in records}
+    carried: list[dict[str, Any]] = []
+    for prior in prior_records:
+        if isinstance(prior, dict) and prior.get("identity_key") and prior.get("identity_key") not in current_keys:
+            carried.append(prior)
+    if not carried:
+        return records
+    return records + carried
+
+
+SQLITE_DB = CATALOG_DIR / "catalog.sqlite"
+
+
+def export_to_sqlite(payload: dict[str, Any]) -> int:
+    """Export enriched records into a SQLite database for database-backed ingestion.
+
+    Uses an UPSERT (INSERT ... ON CONFLICT) pattern so incremental runs
+    update existing rows by identity_key rather than duplicating them.
+    Returns the number of rows in the records table.
+    """
+    import sqlite3
+
+    conn = sqlite3.connect(str(SQLITE_DB))
+    conn.execute("PRAGMA journal_mode=WAL")
+    conn.execute("PRAGMA synchronous=NORMAL")
+    conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS records (
+            identity_key TEXT PRIMARY KEY,
+            catalog_branch TEXT,
+            category TEXT,
+            name TEXT,
+            slug TEXT,
+            canonical_url TEXT,
+            description TEXT,
+            section TEXT,
+            subsection TEXT,
+            source TEXT,
+            source_url TEXT,
+            raw_json TEXT,
+            release_json TEXT,
+            nightly_json TEXT,
+            license_text TEXT,
+            license_family TEXT,
+            generated_at TEXT,
+            observed_at TEXT
+        )
+        """
+    )
+    conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS record_sources (
+            identity_key TEXT,
+            source_id TEXT,
+            PRIMARY KEY (identity_key, source_id)
+        )
+        """
+    )
+    conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS provenance (
+            identity_key TEXT,
+            kind TEXT,
+            status TEXT,
+            retrieved TEXT,
+            extra TEXT
+        )
+        """
+    )
+    now = now_iso()
+    inserted = 0
+    for record in payload.get("records", []):
+        key = record.get("identity_key", "")
+        release = record.get("release", {})
+        nightly = record.get("nightly", {})
+        license_text = ", ".join(record_license_values(record))
+        license_fam = license_family(record)
+        conn.execute(
+            """
+            INSERT INTO records (
+                identity_key, catalog_branch, category, name, slug,
+                canonical_url, description, section, subsection,
+                source, source_url, raw_json,
+                release_json, nightly_json,
+                license_text, license_family,
+                generated_at, observed_at
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ON CONFLICT(identity_key) DO UPDATE SET
+                catalog_branch=excluded.catalog_branch,
+                category=excluded.category,
+                name=excluded.name,
+                slug=excluded.slug,
+                canonical_url=excluded.canonical_url,
+                description=excluded.description,
+                section=excluded.section,
+                subsection=excluded.subsection,
+                source=excluded.source,
+                source_url=excluded.source_url,
+                raw_json=excluded.raw_json,
+                release_json=excluded.release_json,
+                nightly_json=excluded.nightly_json,
+                license_text=excluded.license_text,
+                license_family=excluded.license_family,
+                generated_at=excluded.generated_at,
+                observed_at=excluded.observed_at
+            """,
+            (
+                key,
+                record.get("catalog_branch", ""),
+                record.get("category", ""),
+                record.get("name", ""),
+                record.get("slug", ""),
+                record.get("canonical_url", ""),
+                record.get("description", ""),
+                record.get("section", ""),
+                record.get("subsection", "") or "",
+                record.get("source", ""),
+                record.get("source_url", ""),
+                json.dumps(record.get("raw", {}), sort_keys=True) if isinstance(record.get("raw"), dict) else "",
+                json.dumps(release, sort_keys=True),
+                json.dumps(nightly, sort_keys=True),
+                license_text,
+                license_fam,
+                now,
+                record.get("observed_at", now),
+            ),
+        )
+        for source_id in record.get("source_record_ids", [record.get("id", key)]):
+            conn.execute(
+                "INSERT OR IGNORE INTO record_sources (identity_key, source_id) VALUES (?, ?)",
+                (key, source_id),
+            )
+        for prov in record.get("provenance", []):
+            conn.execute(
+                """
+                INSERT INTO provenance (identity_key, kind, status, retrieved, extra)
+                VALUES (?, ?, ?, ?, ?)
+                """,
+                (
+                    key,
+                    prov.get("kind", ""),
+                    prov.get("status", ""),
+                    prov.get("retrieved", ""),
+                    json.dumps(prov, sort_keys=True),
+                ),
+            )
+        inserted += 1
+    conn.commit()
+    count = conn.execute("SELECT COUNT(*) FROM records").fetchone()[0]
+    conn.close()
+    return count
+
+
+def stream_records_from_sqlite() -> list[dict[str, Any]]:
+    """Read all records from the SQLite database (streaming, no full JSON load needed).
+
+    Returns records in the same shape as enriched_records.json records.
+    Useful for recovery when the JSON file is lost but the SQLite DB persists.
+    """
+    import sqlite3
+
+    if not SQLITE_DB.exists():
+        return []
+    conn = sqlite3.connect(str(SQLITE_DB))
+    conn.row_factory = sqlite3.Row
+    cursor = conn.execute(
+        """
+        SELECT identity_key, catalog_branch, category, name, slug,
+               canonical_url, description, section, subsection,
+               source, source_url, raw_json,
+               release_json, nightly_json,
+               license_text, license_family,
+               generated_at, observed_at
+        FROM records
+        ORDER BY catalog_branch, category, name
+        """
+    )
+    records: list[dict[str, Any]] = []
+    for row in cursor:
+        raw = json.loads(row["raw_json"]) if row["raw_json"] else {}
+        record = {
+            "identity_key": row["identity_key"],
+            "catalog_branch": row["catalog_branch"],
+            "category": row["category"],
+            "name": row["name"],
+            "slug": row["slug"],
+            "canonical_url": row["canonical_url"],
+            "description": row["description"],
+            "section": row["section"],
+            "subsection": row["subsection"] if row["subsection"] else None,
+            "source": row["source"],
+            "source_url": row["source_url"],
+            "raw": raw,
+            "release": json.loads(row["release_json"]) if row["release_json"] else {},
+            "nightly": json.loads(row["nightly_json"]) if row["nightly_json"] else {},
+            "license_text": row["license_text"],
+            "license_family": row["license_family"],
+            "observed_at": row["observed_at"],
+        }
+        source_ids = [r[0] for r in conn.execute("SELECT source_id FROM record_sources WHERE identity_key = ?", (row["identity_key"],)).fetchall()]
+        record["source_record_ids"] = source_ids if source_ids else [row["identity_key"]]
+        records.append(record)
+    conn.close()
+    return records
+
+
+def recover_from_sqlite(source_path: Path) -> bool:
+    """Recover enriched records from the SQLite DB if the JSON file is missing or smaller.
+
+    Returns True if recovery was performed, False otherwise.
+    """
+    if not SQLITE_DB.exists():
+        return False
+    if not ENRICHED_JSON.exists():
+        sqlite_records = stream_records_from_sqlite()
+        if not sqlite_records:
+            return False
+        payload = {
+            "generated_at": now_iso(),
+            "source_catalog": str(source_path),
+            "scope": LANGUAGE_ORDER,
+            "taxonomy": TAXONOMY,
+            "records": sqlite_records,
+        }
+        write_json(ENRICHED_JSON, compact_payload_for_storage(payload))
+        return True
+    return False
 
 
 def semantic_payload(payload: dict[str, Any]) -> dict[str, Any]:
@@ -5569,6 +5817,7 @@ def load_enriched_or_source(source_path: Path) -> dict[str, Any]:
 
 def render(source_path: Path) -> dict[str, Any]:
     payload = compact_payload_for_storage(load_enriched_or_source(source_path))
+    export_to_sqlite(payload)
     write_json(ENRICHED_JSON, payload)
     records = payload["records"]
     clean_generated_catalog()
@@ -6542,7 +6791,7 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "command",
-        choices=["render", "enrich", "all", "check"],
+        choices=["render", "enrich", "all", "check", "recover", "sqlite"],
         help="Operation to run.",
     )
     parser.add_argument(
@@ -6621,6 +6870,17 @@ def main(argv: list[str]) -> int:
         return check(source_path)
     if args.command == "check":
         return check(source_path)
+    if args.command == "recover":
+        if recover_from_sqlite(source_path):
+            print(f"Recovered records from {SQLITE_DB}")
+        else:
+            print(f"No recovery needed or {SQLITE_DB} not found.")
+        return 0
+    if args.command == "sqlite":
+        payload = load_enriched_or_source(source_path)
+        count = export_to_sqlite(payload)
+        print(f"Exported {count} records to {SQLITE_DB}")
+        return 0
     return 2
 
 

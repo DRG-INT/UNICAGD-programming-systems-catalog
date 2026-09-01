@@ -1,6 +1,6 @@
 # Undefined Behavior Analyzer
 
-Records: `101`
+Records: `218`
 
 ## Navigation
 
@@ -8,55 +8,182 @@ Records: `101`
 
 ## Category Index
 
-[Api Abi Checker (3)](api-abi-checker.md) · [Api Doc Generator (10)](api-doc-generator.md) · [Async Runtime (7)](async-runtime.md) · [Benchmarking (5)](benchmarking.md)
-[Build System (33)](build-system.md) · [Cli (27)](cli.md) · [Codegen Codemod Refactoring (11)](codegen-codemod-refactoring.md) · [Community Reference (21)](community-reference.md)
-[Compiler (23)](compiler.md) · [Compression (7)](compression.md) · [Concurrency Parallelism (14)](concurrency-parallelism.md) · [Configuration (2)](configuration.md)
-[Container Deployment (4)](container-deployment.md) · [Coverage (8)](coverage.md) · [Cryptography (19)](cryptography.md) · [Data Science (12)](data-science.md)
-[Database Datastore (133)](database-datastore.md) · [Datetime (1)](datetime.md) · [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (8)](debugger.md)
-[Dependency Manager (6)](dependency-manager.md) · [Documentation (33)](documentation.md) · [Embedded Hardware (8)](embedded-hardware.md) · [Ffi Bindings (14)](ffi-bindings.md)
-[Filesystem Os (2)](filesystem-os.md) · [Formatter (16)](formatter.md) · [Framework (9)](framework.md) · [Fuzzer (5)](fuzzer.md)
-[Game Engine Game Dev (38)](game-engine-game-dev.md) · [Ide Editor Integration (20)](ide-editor-integration.md) · [Image Audio Dsp (47)](image-audio-dsp.md) · [Interop Bindings (7)](interop-bindings.md)
-[Interpreter Runtime (26)](interpreter-runtime.md) · [Jit Vm (15)](jit-vm.md) · [Language Server (7)](language-server.md) · [Language Specification (51)](language-specification.md)
-[Library (18)](library.md) · [Lint Plugin (1)](lint-plugin.md) · [Linter (18)](linter.md) · [Logging Observability (25)](logging-observability.md)
-[Machine Learning (18)](machine-learning.md) · [Math Numeric Scientific (40)](math-numeric-scientific.md) · [Memory Analyzer (1)](memory-analyzer.md) · [Message Broker (7)](message-broker.md)
-[Networking Http (87)](networking-http.md) · [Other (14)](other.md) · [Package Manager (17)](package-manager.md) · [Parser Lexer Ast (47)](parser-lexer-ast.md)
-[Precommit Ci Quality (13)](precommit-ci-quality.md) · [Profiler (11)](profiler.md) · [Project Scaffolding (3)](project-scaffolding.md) · [Registry Repository (93)](registry-repository.md)
-[Sanitizer (4)](sanitizer.md) · [Security Sast (23)](security-sast.md) · [Serialization (70)](serialization.md) · [Standard Library (7)](standard-library.md)
-[Static Analyzer (37)](static-analyzer.md) · [Templating (1)](templating.md) · [Testing Framework (31)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md)
-[Type Checker (5)](type-checker.md) · **[Undefined Behavior Analyzer (101)](undefined-behavior-analyzer.md)** · [Utility Library (42)](utility-library.md) · [Visualization Gui (75)](visualization-gui.md)
-[Web Framework (34)](web-framework.md)
+[Api Abi Checker (66)](api-abi-checker.md) · [Api Doc Generator (10)](api-doc-generator.md) · [Assertion Mocking (31)](assertion-mocking.md) · [Async Runtime (85)](async-runtime.md)
+[Benchmarking (39)](benchmarking.md) · [Build System (406)](build-system.md) · [Cli (304)](cli.md) · [Codegen Codemod Refactoring (19)](codegen-codemod-refactoring.md)
+[Community Reference (51)](community-reference.md) · [Compiler (83)](compiler.md) · [Compiler Diagnostics (8)](compiler-diagnostics.md) · [Compression (31)](compression.md)
+[Concurrency Parallelism (42)](concurrency-parallelism.md) · [Configuration (48)](configuration.md) · [Container Deployment (6)](container-deployment.md) · [Coverage (8)](coverage.md)
+[Cryptography (117)](cryptography.md) · [Data Science (14)](data-science.md) · [Database Datastore (312)](database-datastore.md) · [Datetime (44)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (31)](debugger.md) · [Dependency Manager (38)](dependency-manager.md) · [Documentation (49)](documentation.md)
+[Embedded Hardware (16)](embedded-hardware.md) · [Ffi Bindings (256)](ffi-bindings.md) · [Filesystem Os (299)](filesystem-os.md) · [Formatter (326)](formatter.md)
+[Framework (17)](framework.md) · [Fuzzer (10)](fuzzer.md) · [Game Engine Game Dev (76)](game-engine-game-dev.md) · [Ide Editor Integration (404)](ide-editor-integration.md)
+[Image Audio Dsp (77)](image-audio-dsp.md) · [Interop Bindings (41)](interop-bindings.md) · [Interpreter Runtime (88)](interpreter-runtime.md) · [Jit Vm (50)](jit-vm.md)
+[Language Server (19)](language-server.md) · [Language Specification (240)](language-specification.md) · [Library (2366)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (27)](lint-rule-pack.md) · [Linter (319)](linter.md) · [Logging Observability (183)](logging-observability.md) · [Machine Learning (219)](machine-learning.md)
+[Math Numeric Scientific (58)](math-numeric-scientific.md) · [Memory Analyzer (39)](memory-analyzer.md) · [Message Broker (18)](message-broker.md) · [Networking Http (449)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (117)](package-manager.md) · [Parser Lexer Ast (317)](parser-lexer-ast.md) · [Precommit Ci Quality (121)](precommit-ci-quality.md)
+[Profiler (41)](profiler.md) · [Project Scaffolding (39)](project-scaffolding.md) · [Registry Repository (99)](registry-repository.md) · [Sanitizer (4)](sanitizer.md)
+[Security Sast (215)](security-sast.md) · [Serialization (181)](serialization.md) · [Standard Library (18)](standard-library.md) · [Static Analyzer (68)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (335)](testing-framework.md) · [Tutorial Book Styleguide (11)](tutorial-book-styleguide.md) · [Type Checker (229)](type-checker.md)
+**[Undefined Behavior Analyzer (218)](undefined-behavior-analyzer.md)** · [Utility Library (56)](utility-library.md) · [Visualization Gui (161)](visualization-gui.md) · [Web Framework (199)](web-framework.md)
+
+## Julia
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| BackgroundSubtraction | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-backgroundsubtraction-13697faa.md) |
+| BarnesDoubleGamma | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-barnesdoublegamma-e97ff89b.md) |
+| Bcube | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-bcube-0aac49fe.md) |
+| BcubeCGNS | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-bcubecgns-fae76283.md) |
+| BcubeGmsh | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-bcubegmsh-73f8b69b.md) |
+| BcubeVTK | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-bcubevtk-2b74270e.md) |
+| BestModelSubset | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-bestmodelsubset-fb2dbf8b.md) |
+| BQCESubroutine | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-bqcesubroutine-2226edfc.md) |
+| BubbleBath | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-bubblebath-110f6e1e.md) |
+| CommonSubexpressions | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-commonsubexpressions-baa79b9d.md) |
 
 ## Rust
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| ab_glyph_rasterizer | 0.1.10 | 2025-08-12T11:15:33.926296Z | [open](../records/rust-ab-glyph-rasterizer-464e9603.md) |
+| aho-corasick | 1.1.5 | 2026-08-03T11:44:11.111398Z | [open](../records/rust-aho-corasick-a8e674f0.md) |
+| arcstr | 1.2.0 | 2024-05-07T02:37:10.279194Z | [open](../records/rust-arcstr-eaa86f7e.md) |
+| block-modes | 0.9.1 | 2022-02-13T13:48:33.120358Z | [open](../records/rust-block-modes-f7a78757.md) |
+| bollard-stubs | 1.41.0 | 2026-05-04T11:05:20.053918Z | [open](../records/rust-bollard-stubs-cb7e5514.md) |
+| console-subscriber | 0.5.0 | 2025-10-30T11:54:09.870369Z | [open](../records/rust-console-subscriber-4a7b7eb4.md) |
+| ctutils | 0.4.2 | 2026-04-02T20:44:34.184153Z | [open](../records/rust-ctutils-aacf297f.md) |
+| dbl | 0.5.0 | 2026-02-06T17:19:56.239107Z | [open](../records/rust-dbl-08691b55.md) |
+| dlv-list | 0.6.0 | 2024-11-17T07:31:26.465286Z | [open](../records/rust-dlv-list-d6df10e8.md) |
+| duplicate | 2.0.1 | 2025-11-03T14:27:42.504558Z | [open](../records/rust-duplicate-d4ee4a41.md) |
+| elliptic-curve | 0.14.1 | 2026-06-29T02:53:52.557207Z | [open](../records/rust-elliptic-curve-12ecb102.md) |
+| enumset_derive | 0.15.0 | 2026-05-07T02:09:58.762591Z | [open](../records/rust-enumset-derive-0de422d8.md) |
+| gix-submodule | 0.34.0 | 2026-08-22T19:35:48.799958Z | [open](../records/rust-gix-submodule-852d5808.md) |
+| hickory-resolver | 0.26.1 | 2026-05-01T13:53:22.204692Z | [open](../records/rust-hickory-resolver-4c9bf89d.md) |
+| is-wsl | 0.4.0 | 2023-01-27T19:50:09.059226Z | [open](../records/rust-is-wsl-f133ee69.md) |
+| k256 | 0.14.0 | 2026-07-08T18:31:08.018952Z | [open](../records/rust-k256-437de4e7.md) |
+| k8s-openapi | 0.28.0 | 2026-06-15T04:45:14.511987Z | [open](../records/rust-k8s-openapi-830398c7.md) |
+| kube-client | 4.2.0 | 2026-07-22T08:41:30.306139Z | [open](../records/rust-kube-client-d1b5da72.md) |
+| kube-core | 4.2.0 | 2026-07-22T08:40:58.117392Z | [open](../records/rust-kube-core-a6a5882b.md) |
+| kube-derive | 4.2.0 | 2026-07-22T08:41:57.596494Z | [open](../records/rust-kube-derive-cd9926ce.md) |
+| mac | 0.1.1 | 2017-02-17T00:36:37.212039Z | [open](../records/rust-mac-1acf32ae.md) |
+| memchr | 2.8.3 | 2026-07-08T00:49:54.408285Z | [open](../records/rust-memchr-a9c9a5a3.md) |
+| memmem | 0.1.1 | 2016-05-01T10:15:48.015488Z | [open](../records/rust-memmem-cf590509.md) |
+| merlin | 3.0.0 | 2021-01-28T20:43:26.299029Z | [open](../records/rust-merlin-4baed6ed.md) |
 | Miri | unknown | not_checked | [open](../records/rust-miri-23e3e0e5.md) |
+| opentelemetry-datadog | 0.20.1 | 2026-08-05T18:36:35.800056Z | [open](../records/rust-opentelemetry-datadog-0b1f3e91.md) |
+| pem-rfc7468 | 1.0.0 | 2025-11-08T17:42:28.724565Z | [open](../records/rust-pem-rfc7468-e71b99e8.md) |
+| primitive-types | 0.14.0 | 2025-09-19T09:56:51.496269Z | [open](../records/rust-primitive-types-70b12620.md) |
+| protobuf-support | 3.7.2 | 2025-03-10T14:06:51.228752Z | [open](../records/rust-protobuf-support-ef9a96e3.md) |
+| psl-types | 2.0.11 | 2022-08-10T10:56:17.310651Z | [open](../records/rust-psl-types-b7e7ece5.md) |
+| publicsuffix | 2.3.0 | 2024-11-14T00:03:48.419706Z | [open](../records/rust-publicsuffix-6a67764a.md) |
+| rusty-fork | 0.3.1 | 2025-10-04T22:48:23.194025Z | [open](../records/rust-rusty-fork-1f1f11a0.md) |
+| sentry-tracing | 0.49.2 | 2026-08-26T14:42:47.916102Z | [open](../records/rust-sentry-tracing-b27d2800.md) |
+| spki | 0.8.0 | 2026-04-04T14:18:52.799846Z | [open](../records/rust-spki-549677c7.md) |
+| spm_precompiled | 0.1.4 | 2022-05-30T12:08:06.151975Z | [open](../records/rust-spm-precompiled-ab76ec51.md) |
+| subtle | 2.6.1 | 2024-06-24T17:25:24.458503Z | [open](../records/rust-subtle-5569b3f2.md) |
+| syntect | 5.3.0 | 2025-09-27T11:22:43.779471Z | [open](../records/rust-syntect-f7cac921.md) |
+| tiny-skia | 0.12.0 | 2026-02-02T20:46:06.263750Z | [open](../records/rust-tiny-skia-86edc02a.md) |
+| tracing-subscriber | 0.3.23 | 2026-03-13T10:04:15.571048Z | [open](../records/rust-tracing-subscriber-b942acb9.md) |
+| utf8-ranges | 1.0.5 | 2022-04-04T18:56:49.704446Z | [open](../records/rust-utf8-ranges-ea8424ea.md) |
+| zmij | 1.0.23 | 2026-07-13T12:58:53.705886Z | [open](../records/rust-zmij-e6574c03.md) |
+
+## Node.js/JavaScript
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| @arethetypeswrong/cli | 0.18.5 | 2026-07-09T22:24:30.256Z | [open](../records/node-js-javascript-arethetypeswrong-cli-ef4de260.md) |
+| @backstage/cli-module-github | 0.1.4 | 2026-07-14T11:53:11.891Z | [open](../records/node-js-javascript-backstage-cli-module-github-929a0021.md) |
+| @camunda/task-testing | 6.0.1 | 2026-08-20T10:00:32.916Z | [open](../records/node-js-javascript-camunda-task-testing-da18aa2b.md) |
+| @cubejs-backend/athena-driver | 1.7.31 | 2026-08-31T16:57:07.042Z | [open](../records/node-js-javascript-cubejs-backend-athena-driver-6bacd80a.md) |
+| @cubejs-backend/bigquery-driver | 1.7.31 | 2026-08-31T16:54:58.951Z | [open](../records/node-js-javascript-cubejs-backend-bigquery-driver-5b2b13fc.md) |
+| @cubejs-backend/clickhouse-driver | 1.7.31 | 2026-08-31T16:54:59.422Z | [open](../records/node-js-javascript-cubejs-backend-clickhouse-driver-4d0c7732.md) |
+| @cubejs-backend/databricks-jdbc-driver | 1.7.31 | 2026-08-31T16:54:51.516Z | [open](../records/node-js-javascript-cubejs-backend-databricks-jdbc-driver-75fcf91d.md) |
+| @cubejs-backend/druid-driver | 1.7.31 | 2026-08-31T16:54:51.147Z | [open](../records/node-js-javascript-cubejs-backend-druid-driver-4b43d84c.md) |
+| @cubejs-backend/duckdb-driver | 1.7.31 | 2026-08-31T16:55:02.692Z | [open](../records/node-js-javascript-cubejs-backend-duckdb-driver-01487aa6.md) |
+| @cubejs-backend/jdbc-driver | 1.7.31 | 2026-08-31T16:54:30.639Z | [open](../records/node-js-javascript-cubejs-backend-jdbc-driver-04d976e1.md) |
+| @cubejs-backend/ksql-driver | 1.7.31 | 2026-08-31T16:54:51.494Z | [open](../records/node-js-javascript-cubejs-backend-ksql-driver-8e496938.md) |
+| @cubejs-backend/materialize-driver | 1.7.31 | 2026-08-31T16:55:15.976Z | [open](../records/node-js-javascript-cubejs-backend-materialize-driver-bd47599a.md) |
+| @cubejs-backend/mysql-driver | 1.7.31 | 2026-08-31T16:57:11.629Z | [open](../records/node-js-javascript-cubejs-backend-mysql-driver-bf05660d.md) |
+| @cubejs-backend/oracle-driver | 1.7.31 | 2026-08-31T16:54:34.239Z | [open](../records/node-js-javascript-cubejs-backend-oracle-driver-67860979.md) |
+| @cubejs-backend/pinot-driver | 1.7.31 | 2026-08-31T16:54:51.527Z | [open](../records/node-js-javascript-cubejs-backend-pinot-driver-7a93e106.md) |
+| @cubejs-backend/postgres-driver | 1.7.31 | 2026-08-31T16:55:05.190Z | [open](../records/node-js-javascript-cubejs-backend-postgres-driver-10c33dff.md) |
+| @cubejs-backend/prestodb-driver | 1.7.31 | 2026-08-31T16:54:34.661Z | [open](../records/node-js-javascript-cubejs-backend-prestodb-driver-e59afba0.md) |
+| @cubejs-backend/redshift-driver | 1.7.31 | 2026-08-31T16:59:21.361Z | [open](../records/node-js-javascript-cubejs-backend-redshift-driver-5cb17bc0.md) |
+| @cubejs-backend/server | 1.7.31 | 2026-08-31T16:55:07.180Z | [open](../records/node-js-javascript-cubejs-backend-server-9616a19e.md) |
+| @cubejs-backend/snowflake-driver | 1.7.31 | 2026-08-31T16:54:36.413Z | [open](../records/node-js-javascript-cubejs-backend-snowflake-driver-8161f651.md) |
+| @cubejs-backend/sqlite-driver | 1.7.31 | 2026-08-31T16:54:38.065Z | [open](../records/node-js-javascript-cubejs-backend-sqlite-driver-1689cd48.md) |
+| @cubejs-backend/testing-shared | 1.7.31 | 2026-08-31T16:54:55.204Z | [open](../records/node-js-javascript-cubejs-backend-testing-shared-ac633cbb.md) |
+| @cubejs-backend/vertica-driver | 1.7.31 | 2026-08-31T16:55:06.716Z | [open](../records/node-js-javascript-cubejs-backend-vertica-driver-55bdb4b8.md) |
+| @hapi/subtext | 8.1.3 | 2026-05-06T10:24:45.862Z | [open](../records/node-js-javascript-hapi-subtext-e2e3527c.md) |
+| @hubspot/cli | 8.14.0 | 2026-08-27T19:54:32.232Z | [open](../records/node-js-javascript-hubspot-cli-15179122.md) |
+| @lobehub/cli-ui | 1.13.0 | 2025-06-11T05:49:34.974Z | [open](../records/node-js-javascript-lobehub-cli-ui-0f0fa43a.md) |
+| @neaps/tide-database | 0.9.20260801 | 2026-08-01T12:13:14.613Z | [open](../records/node-js-javascript-neaps-tide-database-72059e90.md) |
+| @percy/cli | 1.32.7 | 2026-08-20T12:28:42.598Z | [open](../records/node-js-javascript-percy-cli-8f36f781.md) |
+| @pnp/logging | 4.21.0 | 2026-08-24T16:58:43.098Z | [open](../records/node-js-javascript-pnp-logging-7af90765.md) |
+| @redocly/openapi-core | 2.49.0 | 2026-08-27T11:54:19.010Z | [open](../records/node-js-javascript-redocly-openapi-core-1c72c325.md) |
+| @remote-ui/testing | 1.4.6 | 2025-06-13T07:48:42.233Z | [open](../records/node-js-javascript-remote-ui-testing-259af30c.md) |
+| @subsquid/apollo-server-core | 3.14.0 | 2025-01-09T10:21:30.713Z | [open](../records/node-js-javascript-subsquid-apollo-server-core-cbb8f657.md) |
+| @subsquid/apollo-server-express | 3.14.1 | 2025-05-02T12:45:14.464Z | [open](../records/node-js-javascript-subsquid-apollo-server-express-d2da452c.md) |
+| @subsquid/logger | 1.6.0 | 2026-05-11T07:59:43.851Z | [open](../records/node-js-javascript-subsquid-logger-e4c79f0d.md) |
+| @sugarcube-sh/cli | 0.1.25 | 2026-08-24T11:03:22.047Z | [open](../records/node-js-javascript-sugarcube-sh-cli-279d85e7.md) |
+| @tauri-apps/plugin-http | 2.6.0 | 2026-08-31T11:20:18.468Z | [open](../records/node-js-javascript-tauri-apps-plugin-http-7fcc9b39.md) |
+| @temporalio/testing | 1.23.0 | 2026-08-26T03:29:31.231Z | [open](../records/node-js-javascript-temporalio-testing-01a9b62c.md) |
+| @vite-hub/database | 0.0.3 | 2026-07-31T14:37:27.013Z | [open](../records/node-js-javascript-vite-hub-database-37a8b102.md) |
+| abstract-logging | 2.0.1 | 2020-10-17T12:15:48.198Z | [open](../records/node-js-javascript-abstract-logging-e0fb44af.md) |
+| apollo-datasource-http | 0.21.0 | 2022-05-20T22:08:07.327Z | [open](../records/node-js-javascript-apollo-datasource-http-07bd8767.md) |
+| json-server | 1.0.0-beta.15 | 2026-03-23T19:40:25.325Z | [open](../records/node-js-javascript-json-server-06e43076.md) |
+| mockttp | 4.6.2 | 2026-08-31T19:06:47.898Z | [open](../records/node-js-javascript-mockttp-89826f51.md) |
+| openapi-server-url-templating | 1.3.0 | 2024-12-28T13:39:32.708Z | [open](../records/node-js-javascript-openapi-server-url-templating-fb39b925.md) |
 
 ## Lua family
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 30log | unknown | not_checked | [open](../records/lua-family-30log-518c31f7.md) |
+| AC-LuaServer | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-ac-luaserver-5d9557a8.md) |
+| aistemsplitter | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-aistemsplitter-1c666ef2.md) |
 | ansicolors | unknown | not_checked | [open](../records/lua-family-ansicolors-f9d67df1.md) |
+| api7-lua-tinyyaml | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-api7-lua-tinyyaml-bc999d3b.md) |
+| apicast-cli | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-apicast-cli-6102ddfc.md) |
 | argparse | unknown | not_checked | [open](../records/lua-family-argparse-9c28f8ab.md) |
 | awesome-love2d | unknown | not_checked | [open](../records/lua-family-awesome-love2d-b6a66dad.md) |
 | awesome-resty | unknown | not_checked | [open](../records/lua-family-awesome-resty-7e046f33.md) |
 | bump.lua | unknown | not_checked | [open](../records/lua-family-bump-lua-4a91e0cc.md) |
 | cliargs | unknown | not_checked | [open](../records/lua-family-cliargs-282ef862.md) |
 | ConcurrentLua | unknown | not_checked | [open](../records/lua-family-concurrentlua-fa7f39fd.md) |
+| copilot-cmp | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-copilot-cmp-753af2d8.md) |
+| copilot-sdk-supercharged | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-copilot-sdk-supercharged-c155c1cf.md) |
+| copilot.lua | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-copilot-lua-393c2bfb.md) |
 | Coronium | unknown | not_checked | [open](../records/lua-family-coronium-c3591b4e.md) |
 | cron.lua | unknown | not_checked | [open](../records/lua-family-cron-lua-0d249ae4.md) |
+| denque | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-denque-83050bbe.md) |
+| deq | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-deq-d971d8f2.md) |
+| deque | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-deque-b5ef2dc9.md) |
 | docroc | unknown | not_checked | [open](../records/lua-family-docroc-541a6f07.md) |
+| dromozoa-ubench | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-dromozoa-ubench-e7a9c15a.md) |
 | Drystal | unknown | not_checked | [open](../records/lua-family-drystal-2defde07.md) |
+| dub | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-dub-dffe6257.md) |
+| dublang | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-dublang-ff6797cb.md) |
+| faceless-reels-links | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-faceless-reels-links-19baa2d8.md) |
 | flux | unknown | not_checked | [open](../records/lua-family-flux-1a09f034.md) |
+| gh-md-toc | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-gh-md-toc-52a6723e.md) |
+| github | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-github-c1bd375e.md) |
+| github-nvim-theme | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-github-nvim-theme-59d22747.md) |
+| github.nvim | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-github-nvim-b22125d4.md) |
 | graphql-lua | unknown | not_checked | [open](../records/lua-family-graphql-lua-d50abe5d.md) |
 | HardonCollider | unknown | not_checked | [open](../records/lua-family-hardoncollider-222a1014.md) |
+| hfun | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-hfun-5c450432.md) |
 | HUMP | unknown | not_checked | [open](../records/lua-family-hump-0389b07e.md) |
+| hydra.nvim | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-hydra-nvim-42bcea0d.md) |
+| image_handler | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-image-handler-6049b344.md) |
 | inspect.lua | unknown | not_checked | [open](../records/lua-family-inspect-lua-dbf1bf2a.md) |
+| jnet | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-jnet-00761825.md) |
 | Journey to the Center of Hawkthorne | unknown | not_checked | [open](../records/lua-family-journey-to-the-center-of-hawkthorne-0fe578c3.md) |
 | json.lua | unknown | not_checked | [open](../records/lua-family-json-lua-a2acc951.md) |
 | Jumper | unknown | not_checked | [open](../records/lua-family-jumper-433ea2f4.md) |
 | Kong | unknown | not_checked | [open](../records/lua-family-kong-20e8bcea.md) |
+| kong-event-pub | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-kong-event-pub-b074056d.md) |
+| kong-event-pub-plugin | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-kong-event-pub-plugin-cb21bb1f.md) |
 | KoReader | unknown | not_checked | [open](../records/lua-family-koreader-d592cc89.md) |
 | kpie | unknown | not_checked | [open](../records/lua-family-kpie-f3c38937.md) |
 | lanes | unknown | not_checked | [open](../records/lua-family-lanes-b009a902.md) |
