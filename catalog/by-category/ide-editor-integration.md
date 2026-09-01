@@ -1,6 +1,6 @@
 # Ide Editor Integration
 
-Records: `1072`
+Records: `1074`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `1072`
 
 ## Category Index
 
-[Api Abi Checker (173)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (40)](assertion-mocking.md) · [Async Runtime (119)](async-runtime.md)
-[Benchmarking (100)](benchmarking.md) · [Build System (764)](build-system.md) · [Cli (484)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (80)](community-reference.md) · [Compiler (155)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Api Abi Checker (176)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (120)](async-runtime.md)
+[Benchmarking (104)](benchmarking.md) · [Build System (774)](build-system.md) · [Cli (485)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (81)](community-reference.md) · [Compiler (155)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
 [Concurrency Parallelism (70)](concurrency-parallelism.md) · [Configuration (94)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (639)](database-datastore.md) · [Datetime (143)](datetime.md)
+[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (679)](database-datastore.md) · [Datetime (144)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (79)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (43)](embedded-hardware.md) · [Ffi Bindings (367)](ffi-bindings.md) · [Filesystem Os (1080)](filesystem-os.md) · [Formatter (526)](formatter.md)
-[Framework (44)](framework.md) · [Fuzzer (45)](fuzzer.md) · [Game Engine Game Dev (135)](game-engine-game-dev.md) · **[Ide Editor Integration (1072)](ide-editor-integration.md)**
-[Image Audio Dsp (216)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (220)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1208)](language-specification.md) · [Library (4647)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (317)](logging-observability.md) · [Machine Learning (544)](machine-learning.md)
-[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (73)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (883)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (244)](package-manager.md) · [Parser Lexer Ast (867)](parser-lexer-ast.md) · [Precommit Ci Quality (252)](precommit-ci-quality.md)
+[Embedded Hardware (44)](embedded-hardware.md) · [Ffi Bindings (372)](ffi-bindings.md) · [Filesystem Os (1093)](filesystem-os.md) · [Formatter (528)](formatter.md)
+[Framework (44)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (135)](game-engine-game-dev.md) · **[Ide Editor Integration (1074)](ide-editor-integration.md)**
+[Image Audio Dsp (217)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (222)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1211)](language-specification.md) · [Library (4661)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (317)](logging-observability.md) · [Machine Learning (546)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (885)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (246)](package-manager.md) · [Parser Lexer Ast (878)](parser-lexer-ast.md) · [Precommit Ci Quality (252)](precommit-ci-quality.md)
 [Profiler (66)](profiler.md) · [Project Scaffolding (107)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (306)](security-sast.md) · [Serialization (361)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (406)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (486)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
-[Undefined Behavior Analyzer (1329)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (389)](visualization-gui.md) · [Web Framework (372)](web-framework.md)
+[Security Sast (307)](security-sast.md) · [Serialization (362)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (406)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (486)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (282)](type-checker.md)
+[Undefined Behavior Analyzer (1336)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (392)](visualization-gui.md) · [Web Framework (375)](web-framework.md)
 
 ## C++23
 
@@ -573,7 +573,7 @@ Records: `1072`
 | dart_openai | 8.0.0 | 2026-08-25T02:32:06.758945Z | [open](../records/dart-dart-openai-19e28a8a.md) |
 | date_picker_plus | 8.0.0 | 2026-09-01T06:46:18.740759Z | [open](../records/dart-date-picker-plus-814ef4e0.md) |
 | easy_sidemenu | 1.0.0 | 2026-05-21T12:51:28.082550Z | [open](../records/dart-easy-sidemenu-a3d0aba5.md) |
-| emoji_picker_flutter | 4.5.3 | 2026-07-24T05:41:16.907143Z | [open](../records/dart-emoji-picker-flutter-d4ec46ba.md) |
+| emoji_picker_flutter | 4.5.4 | 2026-09-01T16:59:48.535803Z | [open](../records/dart-emoji-picker-flutter-d4ec46ba.md) |
 | english_words | 4.0.0 | 2021-03-24T21:07:45.496950Z | [open](../records/dart-english-words-7f3794fa.md) |
 | equatable | 2.1.0 | 2026-07-05T05:06:30.203061Z | [open](../records/dart-equatable-a8232e72.md) |
 | extended_image | 10.1.0 | 2026-07-12T09:58:08.844204Z | [open](../records/dart-extended-image-3b8bb099.md) |
@@ -588,7 +588,7 @@ Records: `1072`
 | flutter_background | 1.3.1 | 2026-03-09T20:39:33.447860Z | [open](../records/dart-flutter-background-7c392887.md) |
 | flutter_box_transform | 0.4.7 | 2025-03-26T10:53:15.777522Z | [open](../records/dart-flutter-box-transform-16ba1d97.md) |
 | flutter_image_slideshow | 0.1.6 | 2023-07-02T05:42:10.674055Z | [open](../records/dart-flutter-image-slideshow-e2e6ea1f.md) |
-| flutter_lucide | 1.38.0 | 2026-08-31T19:20:02.714364Z | [open](../records/dart-flutter-lucide-ac11e8f7.md) |
+| flutter_lucide | 1.39.0 | 2026-09-01T16:54:28.996480Z | [open](../records/dart-flutter-lucide-ac11e8f7.md) |
 | flutter_nfc_kit | 3.6.2 | 2026-01-20T15:23:42.703588Z | [open](../records/dart-flutter-nfc-kit-0b36db6d.md) |
 | flutter_pdfview | 1.4.5 | 2026-08-03T08:46:40.273636Z | [open](../records/dart-flutter-pdfview-eb6c3523.md) |
 | flutter_redux | 0.10.0 | 2022-05-14T16:57:43.726716Z | [open](../records/dart-flutter-redux-e7325a5a.md) |
@@ -668,7 +668,7 @@ Records: `1072`
 | can1357/oh-my-pi | partial | 2026-09-01T15:30:35Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-08-29T11:00:38Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-01T10:47:23Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-01T15:09:05Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-01T18:12:59Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-01T11:00:02Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-01T13:16:35Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
@@ -695,10 +695,10 @@ Records: `1072`
 | kelvins/geocoder | unknown | github_latest_release_missing | [open](../records/maps-kelvins-geocoder-a12d380b.md) |
 | mesa/mesa | partial | 2026-08-31T12:00:06Z | [open](../records/maps-mesa-mesa-17eaaf0c.md) |
 | mikeroyal/Photogrammetry-Guide | partial | 2025-06-27T02:10:14Z | [open](../records/maps-mikeroyal-photogrammetry-guide-6865d45a.md) |
-| opengeos/GeoLibre | partial | 2026-09-01T14:21:58Z | [open](../records/maps-opengeos-geolibre-d27e2918.md) |
+| opengeos/GeoLibre | partial | 2026-09-01T18:20:49Z | [open](../records/maps-opengeos-geolibre-d27e2918.md) |
 | placemark/placemark | partial | 2026-08-29T23:59:40Z | [open](../records/maps-placemark-placemark-23f6cbdc.md) |
 | simon-the-shark/django-mapbox-location-field | v2.1.0 | 2024-03-18T23:36:39Z | [open](../records/maps-simon-the-shark-django-mapbox-location-field-2cac9234.md) |
-| smeijer/leaflet-geosearch | v4.4.0 | 2026-03-17T19:08:17Z | [open](../records/maps-smeijer-leaflet-geosearch-77987e2f.md) |
+| smeijer/leaflet-geosearch | partial | 2026-03-17T19:08:11Z | [open](../records/maps-smeijer-leaflet-geosearch-77987e2f.md) |
 | spatial-go/geoos | unknown | github_search_does_not_include_release_date | [open](../records/maps-spatial-go-geoos-d99e577b.md) |
 | tengge1/ShadowEditor | partial | 2026-05-25T13:48:24Z | [open](../records/maps-tengge1-shadoweditor-c0ebc0a9.md) |
 | time4tea/gopro-dashboard-overlay | partial | 2026-08-04T17:08:55Z | [open](../records/maps-time4tea-gopro-dashboard-overlay-cb658e51.md) |
@@ -717,7 +717,7 @@ Records: `1072`
 | jrenaud90/TidalPy | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-jrenaud90-tidalpy-156822c1.md) |
 | JuliaAstro/GeneralAstrodynamics.jl | partial | 2026-05-06T04:24:06Z | [open](../records/space-engines-juliaastro-generalastrodynamics-jl-7232995f.md) |
 | JuliaSpaceMissionDesign/Ephemerides.jl | partial | 2025-03-23T09:47:16Z | [open](../records/space-engines-juliaspacemissiondesign-ephemerides-jl-1c705450.md) |
-| nyx-space/nyx | partial | 2026-09-01T14:03:47Z | [open](../records/space-engines-nyx-space-nyx-f54af692.md) |
+| nyx-space/nyx | partial | 2026-09-01T15:06:21Z | [open](../records/space-engines-nyx-space-nyx-f54af692.md) |
 | Starainrt/astro | partial | 2026-08-06T04:42:42Z | [open](../records/space-engines-starainrt-astro-97e8d2a3.md) |
 | TheSpaceDevs/Tutorials | partial | 2025-05-03T08:01:41Z | [open](../records/space-engines-thespacedevs-tutorials-24f5a0d6.md) |
 | Thomas-Loudis/georb | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-thomas-loudis-georb-01fab219.md) |
@@ -1118,7 +1118,7 @@ Records: `1072`
 | mehdihadeli/awesome-software-architecture | partial | 2026-07-16T11:04:37Z | [open](../records/pattern-language-mehdihadeli-awesome-software-architecture-caec9f49.md) |
 | Microservice-API-Patterns/LakesideMutual | partial | 2025-10-13T18:11:28Z | [open](../records/pattern-language-microservice-api-patterns-lakesidemutual-c3f0fcf1.md) |
 | NoDivide/astrum | partial | 2022-05-13T22:45:05Z | [open](../records/pattern-language-nodivide-astrum-81381787.md) |
-| spring-projects/spring-integration | partial | 2026-09-01T15:26:35Z | [open](../records/pattern-language-spring-projects-spring-integration-fd457078.md) |
+| spring-projects/spring-integration | partial | 2026-09-01T18:23:22Z | [open](../records/pattern-language-spring-projects-spring-integration-fd457078.md) |
 | vaquarkhan/microservices-recipes-a-free-gitbook | partial | 2026-07-31T12:37:47Z | [open](../records/pattern-language-vaquarkhan-microservices-recipes-a-free-gitbook-fe8fd71a.md) |
 
 ## PHP
@@ -1267,11 +1267,13 @@ Records: `1072`
 | DataGrip | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-datagrip-eadfb401.md) |
 | DBConvert Streams | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-dbconvert-streams-c7b82bda.md) |
 | dbForge Edge | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-dbforge-edge-707600a6.md) |
+| dzharii/awesome-elasticsearch | partial | 2025-05-07T23:28:38Z | [open](../records/databases-dzharii-awesome-elasticsearch-81171c8b.md) |
 | facebook/rocksdb | partial | 2026-09-01T03:28:31Z | [open](../records/databases-facebook-rocksdb-a5b51900.md) |
 | Numeracy | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-numeracy-204806a1.md) |
 | OrcaQ | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-orcaq-bb6b8d52.md) |
 | pg-status | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pg-status-98905a80.md) |
 | pgbackup-sidecar | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pgbackup-sidecar-e9843914.md) |
+| skaiworldwide-oss/agensgraph | partial | 2026-08-30T23:35:51Z | [open](../records/databases-skaiworldwide-oss-agensgraph-e4229279.md) |
 | wal-g | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-wal-g-c0ac185a.md) |
 
 ## Repository Workplaces

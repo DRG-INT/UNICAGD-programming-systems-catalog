@@ -1,6 +1,6 @@
 # Fuzzer
 
-Records: `45`
+Records: `48`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `45`
 
 ## Category Index
 
-[Api Abi Checker (173)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (40)](assertion-mocking.md) · [Async Runtime (119)](async-runtime.md)
-[Benchmarking (100)](benchmarking.md) · [Build System (764)](build-system.md) · [Cli (484)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (80)](community-reference.md) · [Compiler (155)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Api Abi Checker (176)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (120)](async-runtime.md)
+[Benchmarking (104)](benchmarking.md) · [Build System (774)](build-system.md) · [Cli (485)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (81)](community-reference.md) · [Compiler (155)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
 [Concurrency Parallelism (70)](concurrency-parallelism.md) · [Configuration (94)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (639)](database-datastore.md) · [Datetime (143)](datetime.md)
+[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (679)](database-datastore.md) · [Datetime (144)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (79)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (43)](embedded-hardware.md) · [Ffi Bindings (367)](ffi-bindings.md) · [Filesystem Os (1080)](filesystem-os.md) · [Formatter (526)](formatter.md)
-[Framework (44)](framework.md) · **[Fuzzer (45)](fuzzer.md)** · [Game Engine Game Dev (135)](game-engine-game-dev.md) · [Ide Editor Integration (1072)](ide-editor-integration.md)
-[Image Audio Dsp (216)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (220)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1208)](language-specification.md) · [Library (4647)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (317)](logging-observability.md) · [Machine Learning (544)](machine-learning.md)
-[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (73)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (883)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (244)](package-manager.md) · [Parser Lexer Ast (867)](parser-lexer-ast.md) · [Precommit Ci Quality (252)](precommit-ci-quality.md)
+[Embedded Hardware (44)](embedded-hardware.md) · [Ffi Bindings (372)](ffi-bindings.md) · [Filesystem Os (1093)](filesystem-os.md) · [Formatter (528)](formatter.md)
+[Framework (44)](framework.md) · **[Fuzzer (48)](fuzzer.md)** · [Game Engine Game Dev (135)](game-engine-game-dev.md) · [Ide Editor Integration (1074)](ide-editor-integration.md)
+[Image Audio Dsp (217)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (222)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1211)](language-specification.md) · [Library (4661)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (317)](logging-observability.md) · [Machine Learning (546)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (885)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (246)](package-manager.md) · [Parser Lexer Ast (878)](parser-lexer-ast.md) · [Precommit Ci Quality (252)](precommit-ci-quality.md)
 [Profiler (66)](profiler.md) · [Project Scaffolding (107)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (306)](security-sast.md) · [Serialization (361)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (406)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (486)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
-[Undefined Behavior Analyzer (1329)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (389)](visualization-gui.md) · [Web Framework (372)](web-framework.md)
+[Security Sast (307)](security-sast.md) · [Serialization (362)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (406)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (486)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (282)](type-checker.md)
+[Undefined Behavior Analyzer (1336)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (392)](visualization-gui.md) · [Web Framework (375)](web-framework.md)
 
 ## C99
 
@@ -99,13 +99,16 @@ Records: `45`
 | banesullivan/localtileserver | unknown | github_search_does_not_include_release_date | [open](../records/maps-banesullivan-localtileserver-66c265a9.md) |
 | emikhalev/leaflet-2gis | unknown | github_latest_release_missing | [open](../records/maps-emikhalev-leaflet-2gis-256a4bf3.md) |
 | Esri/esri-leaflet-geocoder | v3.1.7 | 2026-03-24T13:40:03Z | [open](../records/maps-esri-esri-leaflet-geocoder-90d234ea.md) |
+| fleaflet/flutter_map | partial | 2026-09-01T13:20:29Z | [open](../records/maps-fleaflet-flutter-map-860f9704.md) |
 | geoman-io/leaflet-geoman | partial | 2026-08-17T11:54:00Z | [open](../records/maps-geoman-io-leaflet-geoman-fd699ba4.md) |
 | geosolutions-it/MapStore2 | unknown | github_search_does_not_include_release_date | [open](../records/maps-geosolutions-it-mapstore2-b03f8e67.md) |
 | GeoTIFF/georaster-layer-for-leaflet | unknown | github_search_does_not_include_release_date | [open](../records/maps-geotiff-georaster-layer-for-leaflet-de078a6e.md) |
 | humangeo/leaflet-dvf | partial | 2018-03-15T00:01:17Z | [open](../records/maps-humangeo-leaflet-dvf-f9b85b0b.md) |
-| Leaflet/Leaflet | partial | 2026-08-31T12:53:11Z | [open](../records/maps-leaflet-leaflet-98e4aefd.md) |
+| JamesLMilner/terra-draw | partial | 2026-08-31T12:15:18Z | [open](../records/maps-jameslmilner-terra-draw-de5cfbbe.md) |
+| Leaflet/Leaflet | partial | 2026-09-01T16:31:11Z | [open](../records/maps-leaflet-leaflet-98e4aefd.md) |
 | NICEXAI/leaflet_zh | partial | 2023-11-14T14:08:47Z | [open](../records/maps-nicexai-leaflet-zh-ce87f8c8.md) |
 | opengeos/Awesome-GEE | unknown | github_search_does_not_include_release_date | [open](../records/maps-opengeos-awesome-gee-588f3052.md) |
+| python-visualization/folium | partial | 2026-09-01T17:17:47Z | [open](../records/maps-python-visualization-folium-ce762251.md) |
 | r-spatial/mapview | unknown | github_search_does_not_include_release_date | [open](../records/maps-r-spatial-mapview-430d7bbc.md) |
 | rstudio/leaflet | partial | 2025-10-08T20:50:29Z | [open](../records/maps-rstudio-leaflet-de5ff58a.md) |
 | stefanocudini/leaflet-geojson-selector | unknown | github_latest_release_missing | [open](../records/maps-stefanocudini-leaflet-geojson-selector-4e7b0158.md) |

@@ -1,6 +1,6 @@
 # Web Framework
 
-Records: `372`
+Records: `375`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `372`
 
 ## Category Index
 
-[Api Abi Checker (173)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (40)](assertion-mocking.md) · [Async Runtime (119)](async-runtime.md)
-[Benchmarking (100)](benchmarking.md) · [Build System (764)](build-system.md) · [Cli (484)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (80)](community-reference.md) · [Compiler (155)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Api Abi Checker (176)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (120)](async-runtime.md)
+[Benchmarking (104)](benchmarking.md) · [Build System (774)](build-system.md) · [Cli (485)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (81)](community-reference.md) · [Compiler (155)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
 [Concurrency Parallelism (70)](concurrency-parallelism.md) · [Configuration (94)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (639)](database-datastore.md) · [Datetime (143)](datetime.md)
+[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (679)](database-datastore.md) · [Datetime (144)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (79)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (43)](embedded-hardware.md) · [Ffi Bindings (367)](ffi-bindings.md) · [Filesystem Os (1080)](filesystem-os.md) · [Formatter (526)](formatter.md)
-[Framework (44)](framework.md) · [Fuzzer (45)](fuzzer.md) · [Game Engine Game Dev (135)](game-engine-game-dev.md) · [Ide Editor Integration (1072)](ide-editor-integration.md)
-[Image Audio Dsp (216)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (220)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1208)](language-specification.md) · [Library (4647)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (317)](logging-observability.md) · [Machine Learning (544)](machine-learning.md)
-[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (73)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (883)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (244)](package-manager.md) · [Parser Lexer Ast (867)](parser-lexer-ast.md) · [Precommit Ci Quality (252)](precommit-ci-quality.md)
+[Embedded Hardware (44)](embedded-hardware.md) · [Ffi Bindings (372)](ffi-bindings.md) · [Filesystem Os (1093)](filesystem-os.md) · [Formatter (528)](formatter.md)
+[Framework (44)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (135)](game-engine-game-dev.md) · [Ide Editor Integration (1074)](ide-editor-integration.md)
+[Image Audio Dsp (217)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (222)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1211)](language-specification.md) · [Library (4661)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (317)](logging-observability.md) · [Machine Learning (546)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (885)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (246)](package-manager.md) · [Parser Lexer Ast (878)](parser-lexer-ast.md) · [Precommit Ci Quality (252)](precommit-ci-quality.md)
 [Profiler (66)](profiler.md) · [Project Scaffolding (107)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (306)](security-sast.md) · [Serialization (361)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (406)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (486)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
-[Undefined Behavior Analyzer (1329)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (389)](visualization-gui.md) · **[Web Framework (372)](web-framework.md)**
+[Security Sast (307)](security-sast.md) · [Serialization (362)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (406)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (486)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (282)](type-checker.md)
+[Undefined Behavior Analyzer (1336)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (392)](visualization-gui.md) · **[Web Framework (375)](web-framework.md)**
 
 ## C++23
 
@@ -168,6 +168,7 @@ Records: `372`
 | @cloudflare/mcp-server-cloudflare | 0.2.0 | 2025-03-14T10:41:19.350Z | [open](../records/node-js-javascript-cloudflare-mcp-server-cloudflare-3b1ce558.md) |
 | @constructive-io/graphql-server | 5.20.6 | 2026-09-01T03:16:26.189Z | [open](../records/node-js-javascript-constructive-io-graphql-server-5edba745.md) |
 | @contentful/mcp-server | 1.18.0 | 2026-08-28T20:00:14.055Z | [open](../records/node-js-javascript-contentful-mcp-server-f8c3e0db.md) |
+| @currents/mcp | 2.4.2 | 2026-08-16T09:54:54.234Z | [open](../records/node-js-javascript-currents-mcp-da022c62.md) |
 | @data-elements/database | 0.3.6 | 2026-08-22T04:54:10.956Z | [open](../records/node-js-javascript-data-elements-database-84055e3f.md) |
 | @devcycle/nodejs-server-sdk | 1.55.9 | 2026-08-07T19:09:44.442Z | [open](../records/node-js-javascript-devcycle-nodejs-server-sdk-6fb5776e.md) |
 | @dialetica/server | 0.1.0 | 2026-05-12T02:26:08.818Z | [open](../records/node-js-javascript-dialetica-server-c21323ac.md) |
@@ -193,6 +194,7 @@ Records: `372`
 | @modelcontextprotocol/server-everything | 2026.8.31 | 2026-08-31T20:23:50.168Z | [open](../records/node-js-javascript-modelcontextprotocol-server-everything-a9060e35.md) |
 | @modelcontextprotocol/server-filesystem | 2026.8.31 | 2026-08-31T20:25:55.419Z | [open](../records/node-js-javascript-modelcontextprotocol-server-filesystem-530b337e.md) |
 | @modelcontextprotocol/server-sequential-thinking | 2026.8.31 | 2026-08-31T20:23:44.857Z | [open](../records/node-js-javascript-modelcontextprotocol-server-sequential-thinking-6547ae3f.md) |
+| @mondaydotcomorg/atp-server | 0.26.0 | 2026-08-10T13:52:38.287Z | [open](../records/node-js-javascript-mondaydotcomorg-atp-server-97bd284f.md) |
 | @netlify/local-functions-proxy | 2.0.3 | 2025-04-04T16:54:11.784Z | [open](../records/node-js-javascript-netlify-local-functions-proxy-60ef06f4.md) |
 | @newrelic/apollo-server-plugin | 8.0.0 | 2025-07-22T20:03:48.217Z | [open](../records/node-js-javascript-newrelic-apollo-server-plugin-34e68ee7.md) |
 | @nuxt/nitro-server | 4.5.2 | 2026-08-05T16:17:56.963Z | [open](../records/node-js-javascript-nuxt-nitro-server-1fc1585d.md) |
@@ -225,14 +227,14 @@ Records: `372`
 | @storybook/server-webpack5 | 10.5.10 | 2026-08-20T11:00:58.419Z | [open](../records/node-js-javascript-storybook-server-webpack5-738ade31.md) |
 | @tanstack/react-start-rsc | 0.1.48 | 2026-08-22T22:58:16.169Z | [open](../records/node-js-javascript-tanstack-react-start-rsc-cf26d1f1.md) |
 | @toolbox-sdk/server | 1.10.0 | 2026-08-28T22:23:29.204Z | [open](../records/node-js-javascript-toolbox-sdk-server-6410dd9c.md) |
-| @transcend-io/mcp-server-admin | 0.6.7 | 2026-08-28T17:59:20.504Z | [open](../records/node-js-javascript-transcend-io-mcp-server-admin-c732016b.md) |
-| @transcend-io/mcp-server-assessment | 0.5.27 | 2026-08-28T17:59:20.913Z | [open](../records/node-js-javascript-transcend-io-mcp-server-assessment-fa3a076f.md) |
-| @transcend-io/mcp-server-consent | 0.9.3 | 2026-08-28T17:59:20.844Z | [open](../records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) |
-| @transcend-io/mcp-server-discovery | 0.5.27 | 2026-08-28T17:59:20.396Z | [open](../records/node-js-javascript-transcend-io-mcp-server-discovery-87735bfc.md) |
-| @transcend-io/mcp-server-dsr | 0.8.7 | 2026-08-28T17:59:21.047Z | [open](../records/node-js-javascript-transcend-io-mcp-server-dsr-76f6cb8b.md) |
-| @transcend-io/mcp-server-inventory | 0.7.7 | 2026-08-28T17:59:20.522Z | [open](../records/node-js-javascript-transcend-io-mcp-server-inventory-9bc583b1.md) |
-| @transcend-io/mcp-server-preferences | 0.6.7 | 2026-08-28T18:00:16.289Z | [open](../records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
-| @transcend-io/mcp-server-workflows | 0.5.27 | 2026-08-28T17:59:25.279Z | [open](../records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) |
+| @transcend-io/mcp-server-admin | 0.6.8 | 2026-09-01T17:27:02.512Z | [open](../records/node-js-javascript-transcend-io-mcp-server-admin-c732016b.md) |
+| @transcend-io/mcp-server-assessment | 0.5.28 | 2026-09-01T17:27:02.275Z | [open](../records/node-js-javascript-transcend-io-mcp-server-assessment-fa3a076f.md) |
+| @transcend-io/mcp-server-consent | 0.9.4 | 2026-09-01T17:27:02.519Z | [open](../records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) |
+| @transcend-io/mcp-server-discovery | 0.5.28 | 2026-09-01T17:27:02.559Z | [open](../records/node-js-javascript-transcend-io-mcp-server-discovery-87735bfc.md) |
+| @transcend-io/mcp-server-dsr | 0.8.8 | 2026-09-01T17:27:02.465Z | [open](../records/node-js-javascript-transcend-io-mcp-server-dsr-76f6cb8b.md) |
+| @transcend-io/mcp-server-inventory | 0.7.8 | 2026-09-01T17:27:02.010Z | [open](../records/node-js-javascript-transcend-io-mcp-server-inventory-9bc583b1.md) |
+| @transcend-io/mcp-server-preferences | 0.7.0 | 2026-09-01T17:27:57.827Z | [open](../records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
+| @transcend-io/mcp-server-workflows | 0.5.28 | 2026-09-01T17:27:07.094Z | [open](../records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) |
 | @trpc/server | 11.18.0 | 2026-06-17T22:48:25.078Z | [open](../records/node-js-javascript-trpc-server-02b69ad5.md) |
 | @turnkey/sdk-server | 8.3.0 | 2026-08-27T23:08:30.267Z | [open](../records/node-js-javascript-turnkey-sdk-server-330a2b7d.md) |
 | @ui5/mcp-server | 0.2.18 | 2026-08-13T09:15:38.219Z | [open](../records/node-js-javascript-ui5-mcp-server-ed5f5678.md) |
@@ -392,10 +394,10 @@ Records: `372`
 | angular-ui/ui-router | 1.1.2 | 2025-12-31T01:45:56Z | [open](../records/maps-angular-ui-ui-router-206fd635.md) |
 | cablate/mcp-google-map | v0.0.55 | 2026-08-16T12:55:41Z | [open](../records/maps-cablate-mcp-google-map-31eb1d92.md) |
 | go-spatial/tegola | partial | 2026-08-20T22:49:29Z | [open](../records/maps-go-spatial-tegola-0b6db6ab.md) |
-| graphhopper/graphhopper | partial | 2026-09-01T10:56:59Z | [open](../records/maps-graphhopper-graphhopper-cfd324a4.md) |
+| graphhopper/graphhopper | partial | 2026-09-01T15:12:27Z | [open](../records/maps-graphhopper-graphhopper-cfd324a4.md) |
 | katanemo/plano | 0.4.36 | 2026-08-19T19:29:09Z | [open](../records/maps-katanemo-plano-886a078b.md) |
 | lovebetterworld/gis-spicy-hot-pot | unknown | github_search_does_not_include_release_date | [open](../records/maps-lovebetterworld-gis-spicy-hot-pot-68f427a8.md) |
-| marc-shade/world-intel-mcp | partial | 2026-09-01T13:35:35Z | [open](../records/maps-marc-shade-world-intel-mcp-fdc04362.md) |
+| marc-shade/world-intel-mcp | partial | 2026-09-01T17:58:58Z | [open](../records/maps-marc-shade-world-intel-mcp-fdc04362.md) |
 | neo4j-contrib/spatial | unknown | github_search_does_not_include_release_date | [open](../records/maps-neo4j-contrib-spatial-1f247f57.md) |
 | openwisp/django-rest-framework-gis | partial | 2026-08-26T21:25:14Z | [open](../records/maps-openwisp-django-rest-framework-gis-9e3f8a0e.md) |
 
@@ -486,6 +488,7 @@ Records: `372`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| doableware/djongo | partial | 2026-09-01T12:40:36Z | [open](../records/databases-doableware-djongo-55b89aa7.md) |
 | googleapis/mcp-toolbox | partial | 2026-09-01T16:53:35Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
 | neondatabase/neon | partial | 2026-08-31T11:03:14Z | [open](../records/databases-neondatabase-neon-3c375148.md) |
 | pgrwl | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pgrwl-c69e3b71.md) |

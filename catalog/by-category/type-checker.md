@@ -1,6 +1,6 @@
 # Type Checker
 
-Records: `276`
+Records: `282`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `276`
 
 ## Category Index
 
-[Api Abi Checker (173)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (40)](assertion-mocking.md) · [Async Runtime (119)](async-runtime.md)
-[Benchmarking (100)](benchmarking.md) · [Build System (764)](build-system.md) · [Cli (484)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (80)](community-reference.md) · [Compiler (155)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Api Abi Checker (176)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (120)](async-runtime.md)
+[Benchmarking (104)](benchmarking.md) · [Build System (774)](build-system.md) · [Cli (485)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (81)](community-reference.md) · [Compiler (155)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
 [Concurrency Parallelism (70)](concurrency-parallelism.md) · [Configuration (94)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (639)](database-datastore.md) · [Datetime (143)](datetime.md)
+[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (679)](database-datastore.md) · [Datetime (144)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (79)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (43)](embedded-hardware.md) · [Ffi Bindings (367)](ffi-bindings.md) · [Filesystem Os (1080)](filesystem-os.md) · [Formatter (526)](formatter.md)
-[Framework (44)](framework.md) · [Fuzzer (45)](fuzzer.md) · [Game Engine Game Dev (135)](game-engine-game-dev.md) · [Ide Editor Integration (1072)](ide-editor-integration.md)
-[Image Audio Dsp (216)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (220)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1208)](language-specification.md) · [Library (4647)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (317)](logging-observability.md) · [Machine Learning (544)](machine-learning.md)
-[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (73)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (883)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (244)](package-manager.md) · [Parser Lexer Ast (867)](parser-lexer-ast.md) · [Precommit Ci Quality (252)](precommit-ci-quality.md)
+[Embedded Hardware (44)](embedded-hardware.md) · [Ffi Bindings (372)](ffi-bindings.md) · [Filesystem Os (1093)](filesystem-os.md) · [Formatter (528)](formatter.md)
+[Framework (44)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (135)](game-engine-game-dev.md) · [Ide Editor Integration (1074)](ide-editor-integration.md)
+[Image Audio Dsp (217)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (222)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1211)](language-specification.md) · [Library (4661)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (317)](logging-observability.md) · [Machine Learning (546)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (885)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (246)](package-manager.md) · [Parser Lexer Ast (878)](parser-lexer-ast.md) · [Precommit Ci Quality (252)](precommit-ci-quality.md)
 [Profiler (66)](profiler.md) · [Project Scaffolding (107)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (306)](security-sast.md) · [Serialization (361)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (406)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (486)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · **[Type Checker (276)](type-checker.md)**
-[Undefined Behavior Analyzer (1329)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (389)](visualization-gui.md) · [Web Framework (372)](web-framework.md)
+[Security Sast (307)](security-sast.md) · [Serialization (362)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (406)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (486)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · **[Type Checker (282)](type-checker.md)**
+[Undefined Behavior Analyzer (1336)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (392)](visualization-gui.md) · [Web Framework (375)](web-framework.md)
 
 ## Python
 
@@ -47,9 +47,10 @@ Records: `276`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | @adobe/css-tools | 4.5.0 | 2026-05-21T22:37:48.114Z | [open](../records/node-js-typescript-adobe-css-tools-f7566708.md) |
-| @anthropic-ai/sdk | 0.122.0 | 2026-08-27T20:37:04.088Z | [open](../records/node-js-typescript-anthropic-ai-sdk-505c8b05.md) |
+| @anthropic-ai/sdk | 0.123.0 | 2026-09-01T17:54:56.803Z | [open](../records/node-js-typescript-anthropic-ai-sdk-505c8b05.md) |
 | @apollo/cache-control-types | 1.0.3 | 2023-06-26T16:37:37.476Z | [open](../records/node-js-typescript-apollo-cache-control-types-cf45fb41.md) |
 | @apollo/protobufjs | 1.2.8 | 2026-04-30T19:42:18.076Z | [open](../records/node-js-typescript-apollo-protobufjs-c29bf38c.md) |
+| @apollo/utils.fetcher | 3.1.0 | 2023-11-08T18:34:59.471Z | [open](../records/node-js-typescript-apollo-utils-fetcher-ef3d3e55.md) |
 | @apollo/utils.withrequired | 3.0.0 | 2023-04-17T22:53:30.094Z | [open](../records/node-js-typescript-apollo-utils-withrequired-3d97187a.md) |
 | @ava/typescript | 7.0.0 | 2026-04-16T19:49:10.507Z | [open](../records/node-js-typescript-ava-typescript-10335da0.md) |
 | @aws-lambda-powertools/logger | 2.35.0 | 2026-08-18T10:27:23.835Z | [open](../records/node-js-typescript-aws-lambda-powertools-logger-8438a23a.md) |
@@ -121,6 +122,8 @@ Records: `276`
 | @types/cli-spinner | 0.2.3 | 2023-11-07T00:41:20.053Z | [open](../records/node-js-typescript-types-cli-spinner-edb658bc.md) |
 | @types/cli-table | 0.3.4 | 2023-11-07T00:41:34.043Z | [open](../records/node-js-typescript-types-cli-table-a95c2fe5.md) |
 | @types/connect | 3.4.38 | 2023-11-07T00:57:34.681Z | [open](../records/node-js-typescript-types-connect-b461f2b6.md) |
+| @types/d3-interpolate | 3.0.4 | 2023-11-07T19:55:36.521Z | [open](../records/node-js-typescript-types-d3-interpolate-8db89bf4.md) |
+| @types/d3-shape | 3.2.0 | 2026-08-21T21:39:11.144Z | [open](../records/node-js-typescript-types-d3-shape-cc44b831.md) |
 | @types/d3-timer | 3.0.2 | 2023-11-07T19:57:54.045Z | [open](../records/node-js-typescript-types-d3-timer-d67bb7aa.md) |
 | @types/debug | 4.1.13 | 2026-03-19T06:47:23.938Z | [open](../records/node-js-typescript-types-debug-80c14374.md) |
 | @types/deep-eql | 4.0.2 | 2023-11-07T01:34:12.026Z | [open](../records/node-js-typescript-types-deep-eql-8283ec96.md) |
@@ -304,7 +307,7 @@ Records: `276`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-01T17:17:47Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | partial | 2026-09-01T18:22:10Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Assets
 
@@ -316,8 +319,10 @@ Records: `276`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| amcharts/amcharts4 | partial | 2026-03-23T14:16:07Z | [open](../records/maps-amcharts-amcharts4-76de220f.md) |
+| f5/unovis | partial | 2026-09-01T02:34:52Z | [open](../records/maps-f5-unovis-6e8a6849.md) |
 | maptiler/maptiler-geocoding-control | v3.0.0 | 2026-04-08T02:40:31Z | [open](../records/maps-maptiler-maptiler-geocoding-control-e23c4ebb.md) |
-| openglobus/openglobus | partial | 2026-09-01T13:02:23Z | [open](../records/maps-openglobus-openglobus-566e8f9b.md) |
+| openglobus/openglobus | partial | 2026-09-01T18:06:44Z | [open](../records/maps-openglobus-openglobus-566e8f9b.md) |
 | reearth/reearth-visualizer | unknown | github_search_does_not_include_release_date | [open](../records/maps-reearth-reearth-visualizer-6966a648.md) |
 | Turfjs/turf | partial | 2026-08-31T19:10:41Z | [open](../records/maps-turfjs-turf-bcfc41fa.md) |
 | yszhao91/cga.js | unknown | github_search_does_not_include_release_date | [open](../records/maps-yszhao91-cga-js-5e6ba99c.md) |
@@ -425,4 +430,5 @@ Records: `276`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | prisma/orm | partial | 2026-09-01T17:14:32Z | [open](../records/databases-prisma-orm-d7875b44.md) |
+| rehacktive/caffeine | partial | 2022-11-30T16:19:55Z | [open](../records/databases-rehacktive-caffeine-7ba154b8.md) |
 | typeorm/typeorm | partial | 2026-09-01T17:10:30Z | [open](../records/databases-typeorm-typeorm-5d6b5459.md) |

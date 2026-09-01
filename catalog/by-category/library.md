@@ -1,6 +1,6 @@
 # Library
 
-Records: `4647`
+Records: `4661`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `4647`
 
 ## Category Index
 
-[Api Abi Checker (173)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (40)](assertion-mocking.md) · [Async Runtime (119)](async-runtime.md)
-[Benchmarking (100)](benchmarking.md) · [Build System (764)](build-system.md) · [Cli (484)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (80)](community-reference.md) · [Compiler (155)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Api Abi Checker (176)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (120)](async-runtime.md)
+[Benchmarking (104)](benchmarking.md) · [Build System (774)](build-system.md) · [Cli (485)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (81)](community-reference.md) · [Compiler (155)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
 [Concurrency Parallelism (70)](concurrency-parallelism.md) · [Configuration (94)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (639)](database-datastore.md) · [Datetime (143)](datetime.md)
+[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (679)](database-datastore.md) · [Datetime (144)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (79)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (43)](embedded-hardware.md) · [Ffi Bindings (367)](ffi-bindings.md) · [Filesystem Os (1080)](filesystem-os.md) · [Formatter (526)](formatter.md)
-[Framework (44)](framework.md) · [Fuzzer (45)](fuzzer.md) · [Game Engine Game Dev (135)](game-engine-game-dev.md) · [Ide Editor Integration (1072)](ide-editor-integration.md)
-[Image Audio Dsp (216)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (220)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1208)](language-specification.md) · **[Library (4647)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (317)](logging-observability.md) · [Machine Learning (544)](machine-learning.md)
-[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (73)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (883)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (244)](package-manager.md) · [Parser Lexer Ast (867)](parser-lexer-ast.md) · [Precommit Ci Quality (252)](precommit-ci-quality.md)
+[Embedded Hardware (44)](embedded-hardware.md) · [Ffi Bindings (372)](ffi-bindings.md) · [Filesystem Os (1093)](filesystem-os.md) · [Formatter (528)](formatter.md)
+[Framework (44)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (135)](game-engine-game-dev.md) · [Ide Editor Integration (1074)](ide-editor-integration.md)
+[Image Audio Dsp (217)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (222)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1211)](language-specification.md) · **[Library (4661)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (317)](logging-observability.md) · [Machine Learning (546)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (885)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (246)](package-manager.md) · [Parser Lexer Ast (878)](parser-lexer-ast.md) · [Precommit Ci Quality (252)](precommit-ci-quality.md)
 [Profiler (66)](profiler.md) · [Project Scaffolding (107)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (306)](security-sast.md) · [Serialization (361)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (406)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (486)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
-[Undefined Behavior Analyzer (1329)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (389)](visualization-gui.md) · [Web Framework (372)](web-framework.md)
+[Security Sast (307)](security-sast.md) · [Serialization (362)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (406)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (486)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (282)](type-checker.md)
+[Undefined Behavior Analyzer (1336)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (392)](visualization-gui.md) · [Web Framework (375)](web-framework.md)
 
 ## C99
 
@@ -2636,7 +2636,7 @@ Records: `4647`
 | greenSD | 0.2.2 | 2026-08-23 03:50:02 UTC | [open](../records/r-greensd-aa893734.md) |
 | GRIN2 | 2.1.0 | 2026-08-22 15:20:20 UTC | [open](../records/r-grin2-b6b27020.md) |
 | grip | 0.2.0 | 2026-08-31 16:10:09 UTC | [open](../records/r-grip-7f9fba98.md) |
-| grmtree | 0.2.2 | 2026-08-23 00:50:02 UTC | [open](../records/r-grmtree-7bd888b0.md) |
+| grmtree | 0.3.0 | 2026-09-01 18:20:02 UTC | [open](../records/r-grmtree-7bd888b0.md) |
 | groupedHyperframe | 0.4.5 | 2026-08-25 22:00:02 UTC | [open](../records/r-groupedhyperframe-5ac9b8b4.md) |
 | grt | 0.2.2 | 2026-08-24 09:20:02 UTC | [open](../records/r-grt-5dc177f8.md) |
 | gsDesign | 3.11.0 | 2026-08-29 15:50:02 UTC | [open](../records/r-gsdesign-d5ecfbcf.md) |
@@ -3744,6 +3744,7 @@ Records: `4647`
 | webkit | 0.14.2.1 | 2016-10-30T01:15:20Z | [open](../records/haskell-webkit-c33c83bf.md) |
 | weigh | 0.0.18 | 2024-11-01T15:57:20Z | [open](../records/haskell-weigh-7e021f10.md) |
 | werewolf | 1.5.2.0 | 2017-09-22T03:04:51Z | [open](../records/haskell-werewolf-4e762a5c.md) |
+| what4 | 1.8 | 2026-09-01T17:35:26Z | [open](../records/haskell-what4-03a48fd1.md) |
 | Win32 | 2.14.2.2 | 2026-05-27T18:35:08Z | [open](../records/haskell-win32-bd1767d3.md) |
 | witch | 1.4.0.0 | 2026-06-22T14:40:10Z | [open](../records/haskell-witch-ea4f02ac.md) |
 | witherable | 0.5 | 2024-05-17T01:15:14Z | [open](../records/haskell-witherable-b295dba2.md) |
@@ -4002,7 +4003,7 @@ Records: `4647`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-01T17:17:34Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-01T18:22:50Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4016,7 +4017,7 @@ Records: `4647`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-01T17:14:45Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-01T18:17:36Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -4080,13 +4081,18 @@ Records: `4647`
 | bilawalsidhu/gods-eye-view | partial | 2026-09-01T00:00:35Z | [open](../records/maps-bilawalsidhu-gods-eye-view-28a2a7af.md) |
 | bitlap/geocoding | v1.3.1 | 2022-09-30T09:40:27Z | [open](../records/maps-bitlap-geocoding-44bdf0ae.md) |
 | CesiumGS/cesium | partial | 2026-09-01T11:36:31Z | [open](../records/maps-cesiumgs-cesium-03600c9a.md) |
+| danielemoraschi/maplace.js | partial | 2020-05-25T22:54:13Z | [open](../records/maps-danielemoraschi-maplace-js-5adb914c.md) |
 | devxoul/URLNavigator | 2.5.1 | 2023-07-09T17:59:52Z | [open](../records/maps-devxoul-urlnavigator-5197f5f8.md) |
+| doganoo/PHPAlgorithms | partial | 2023-10-24T09:07:15Z | [open](../records/maps-doganoo-phpalgorithms-8d4e8cc7.md) |
+| eddiesigner/sketch-map-generator | partial | 2023-03-05T01:12:19Z | [open](../records/maps-eddiesigner-sketch-map-generator-09a0b543.md) |
 | florent37/RxGps | unknown | github_latest_release_missing | [open](../records/maps-florent37-rxgps-5cb02be4.md) |
 | fridays/next-routes | 1.4.2 | 2018-05-21T09:59:06Z | [open](../records/maps-fridays-next-routes-7133c5a3.md) |
+| GenericMappingTools/pygmt | partial | 2026-09-01T10:00:49Z | [open](../records/maps-genericmappingtools-pygmt-d99a13fe.md) |
 | geolonia/normalize-japanese-addresses | v3.1.3 | 2024-12-24T02:42:36Z | [open](../records/maps-geolonia-normalize-japanese-addresses-4c5a4168.md) |
 | geopy/geopy | 2.5.0 | 2026-07-12T19:52:44Z | [open](../records/maps-geopy-geopy-3c79db47.md) |
 | georust/geocoding | unknown | github_latest_release_missing | [open](../records/maps-georust-geocoding-e4389b67.md) |
 | GGBond-GIS/Orillusion_TileEarth | unknown | github_search_does_not_include_release_date | [open](../records/maps-ggbond-gis-orillusion-tileearth-83eb2707.md) |
+| google-map-react/google-map-react | partial | 2026-02-17T16:42:57Z | [open](../records/maps-google-map-react-google-map-react-1cd0afd2.md) |
 | google/earthenterprise | partial | 2023-01-04T20:30:53Z | [open](../records/maps-google-earthenterprise-ed7bdac7.md) |
 | jenetics/jpx | v4.0.0 | 2026-02-22T19:54:05Z | [open](../records/maps-jenetics-jpx-9e2c8a53.md) |
 | jessecambon/tidygeocoder | v1.0.6 | 2025-03-31T20:27:26Z | [open](../records/maps-jessecambon-tidygeocoder-a662f171.md) |
@@ -4095,6 +4101,7 @@ Records: `4647`
 | komoot/photon | 1.3.0 | 2026-08-07T16:05:01Z | [open](../records/maps-komoot-photon-d1651635.md) |
 | lukepighetti/fluro | 2.0.3 | 2021-03-01T19:17:43Z | [open](../records/maps-lukepighetti-fluro-c809970d.md) |
 | luxiaoxun/MapDownloader | unknown | github_search_does_not_include_release_date | [open](../records/maps-luxiaoxun-mapdownloader-0e853bb6.md) |
+| mapbox/mapbox-gl-js | partial | 2026-09-01T14:40:34Z | [open](../records/maps-mapbox-mapbox-gl-js-a55c74cd.md) |
 | maplibre/maplibre-gl-geocoder | v1.9.4 | 2025-12-27T11:56:31Z | [open](../records/maps-maplibre-maplibre-gl-geocoder-938c4f88.md) |
 | maptalks/maptalks.js | partial | 2026-08-25T02:36:16Z | [open](../records/maps-maptalks-maptalks-js-2641e64a.md) |
 | maptalks/maptalks.three | partial | 2026-06-02T03:01:03Z | [open](../records/maps-maptalks-maptalks-three-7e000fe0.md) |
@@ -4103,16 +4110,23 @@ Records: `4647`
 | mousebird-consulting-inc/WhirlyGlobe | partial | 2026-07-31T00:23:58Z | [open](../records/maps-mousebird-consulting-inc-whirlyglobe-3130b66b.md) |
 | nuxt-modules/i18n | v10.6.0 | 2026-07-30T10:49:10Z | [open](../records/maps-nuxt-modules-i18n-79eea90d.md) |
 | opengisch/QField | partial | 2026-09-01T01:40:22Z | [open](../records/maps-opengisch-qfield-f04d9b83.md) |
+| openlayers/openlayers | partial | 2026-08-29T10:33:38Z | [open](../records/maps-openlayers-openlayers-6d483e33.md) |
+| openmaptiles/openmaptiles | partial | 2026-07-29T12:19:41Z | [open](../records/maps-openmaptiles-openmaptiles-8add1ab5.md) |
 | paulmach/orb | partial | 2026-03-30T15:51:22Z | [open](../records/maps-paulmach-orb-8e561523.md) |
 | r-spatial/mapview | partial | 2025-09-05T07:54:41Z | [open](../records/maps-r-spatial-mapview-10b63596.md) |
+| r-tmap/tmap | partial | 2026-08-26T22:27:44Z | [open](../records/maps-r-tmap-tmap-71b21a50.md) |
+| reinterpretcat/utymap | partial | 2019-05-16T10:45:13Z | [open](../records/maps-reinterpretcat-utymap-26781f3b.md) |
 | RxChi1d/immich-geodata-zh-tw | v3.2.0 | 2026-08-18T14:10:29Z | [open](../records/maps-rxchi1d-immich-geodata-zh-tw-74f77fc7.md) |
 | sandstrom/country-bounding-boxes | unknown | github_latest_release_missing | [open](../records/maps-sandstrom-country-bounding-boxes-21886a05.md) |
 | SharpMap/SharpMap | partial | 2025-01-06T15:20:53Z | [open](../records/maps-sharpmap-sharpmap-0d7d79eb.md) |
 | sildur/offline_geocoder | v0.2.1 | 2020-05-05T02:44:28Z | [open](../records/maps-sildur-offline-geocoder-f8d97b5b.md) |
+| StrandedKitty/streets-gl | partial | 2025-08-21T19:43:43Z | [open](../records/maps-strandedkitty-streets-gl-1f0aad99.md) |
 | sxguojf/three-tile | unknown | github_search_does_not_include_release_date | [open](../records/maps-sxguojf-three-tile-07dcab70.md) |
 | t-sagara/jageocoder | v2.2.1.1 | 2026-03-31T12:47:16Z | [open](../records/maps-t-sagara-jageocoder-063c720a.md) |
 | Toblerity/Fiona | partial | 2025-02-20T23:53:44Z | [open](../records/maps-toblerity-fiona-9a13b596.md) |
 | tomayac/local-reverse-geocoder | v0.16.8 | 2026-06-14T16:06:15Z | [open](../records/maps-tomayac-local-reverse-geocoder-63b2ed9a.md) |
+| TradeMe/MapMe | partial | 2022-03-30T20:42:56Z | [open](../records/maps-trademe-mapme-ac2b1874.md) |
+| tschoffelen/react-native-map-link | partial | 2026-08-11T12:02:57Z | [open](../records/maps-tschoffelen-react-native-map-link-bdb13e21.md) |
 | tudelft3d/3dfier | partial | 2026-05-06T15:26:57Z | [open](../records/maps-tudelft3d-3dfier-6391024c.md) |
 | wellyshen/use-places-autocomplete | v4.0.1 | 2023-08-12T16:33:30Z | [open](../records/maps-wellyshen-use-places-autocomplete-1234eb65.md) |
 | yunwei37/ZJU-CS-GIS-ClassNotes | partial | 2023-06-06T14:40:14Z | [open](../records/maps-yunwei37-zju-cs-gis-classnotes-d5fd26cb.md) |
@@ -4213,7 +4227,7 @@ Records: `4647`
 | akof1314/UnityParticleSystemPreview | v1.3 | 2025-02-21T13:45:24Z | [open](../records/effects-akof1314-unityparticlesystempreview-89de2d88.md) |
 | alexadam/glitch-studio | partial | 2020-07-04T12:35:23Z | [open](../records/effects-alexadam-glitch-studio-242af220.md) |
 | alexnikop/VFEZ-godot | partial | 2025-03-22T10:05:57Z | [open](../records/effects-alexnikop-vfez-godot-37aa177c.md) |
-| CGRU/cgru | partial | 2026-09-01T14:57:11Z | [open](../records/effects-cgru-cgru-8bbfaaf5.md) |
+| CGRU/cgru | partial | 2026-09-01T18:16:10Z | [open](../records/effects-cgru-cgru-8bbfaaf5.md) |
 | cgwire/kitsu | partial | 2026-08-31T11:28:00Z | [open](../records/effects-cgwire-kitsu-2e008acc.md) |
 | DanielMartinus/Konfetti | v2.0.5 | 2024-11-28T08:39:33Z | [open](../records/effects-danielmartinus-konfetti-128a0f7b.md) |
 | danielshervheim/unity-stylized-water | partial | 2021-03-17T04:49:11Z | [open](../records/effects-danielshervheim-unity-stylized-water-31cecbdc.md) |
@@ -4223,7 +4237,7 @@ Records: `4647`
 | elringus/sprite-glow | partial | 2025-10-15T21:44:14Z | [open](../records/effects-elringus-sprite-glow-b7a43be9.md) |
 | fand/vfx-js | partial | 2026-08-11T22:45:13Z | [open](../records/effects-fand-vfx-js-267d1f85.md) |
 | fearofcode/bateman | unknown | github_latest_release_missing | [open](../records/effects-fearofcode-bateman-03c24113.md) |
-| ggarra13/mrv2 | partial | 2026-08-31T23:58:15Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |
+| ggarra13/mrv2 | partial | 2026-09-01T16:54:07Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |
 | henriquelalves/SimpleGodotCRTShader | partial | 2024-09-02T21:57:23Z | [open](../records/effects-henriquelalves-simplegodotcrtshader-0feadcb8.md) |
 | hustcc/canvas-nest.js | v2.0.1 | 2018-06-23T04:31:11Z | [open](../records/effects-hustcc-canvas-nest-js-cee46f46.md) |
 | jinatonic/confetti | 1.1.1 | 2017-12-11T21:30:00Z | [open](../records/effects-jinatonic-confetti-c85518f9.md) |
