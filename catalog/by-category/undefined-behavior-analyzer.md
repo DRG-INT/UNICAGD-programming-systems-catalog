@@ -1,6 +1,6 @@
 # Undefined Behavior Analyzer
 
-Records: `217`
+Records: `218`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `217`
 
 ## Category Index
 
-[Api Abi Checker (73)](api-abi-checker.md) · [Api Doc Generator (5)](api-doc-generator.md) · [Assertion Mocking (31)](assertion-mocking.md) · [Async Runtime (87)](async-runtime.md)
-[Benchmarking (39)](benchmarking.md) · [Build System (405)](build-system.md) · [Cli (314)](cli.md) · [Codegen Codemod Refactoring (14)](codegen-codemod-refactoring.md)
+[Api Abi Checker (66)](api-abi-checker.md) · [Api Doc Generator (5)](api-doc-generator.md) · [Assertion Mocking (31)](assertion-mocking.md) · [Async Runtime (84)](async-runtime.md)
+[Benchmarking (39)](benchmarking.md) · [Build System (405)](build-system.md) · [Cli (300)](cli.md) · [Codegen Codemod Refactoring (14)](codegen-codemod-refactoring.md)
 [Community Reference (39)](community-reference.md) · [Compiler (82)](compiler.md) · [Compiler Diagnostics (8)](compiler-diagnostics.md) · [Compression (26)](compression.md)
-[Concurrency Parallelism (42)](concurrency-parallelism.md) · [Configuration (47)](configuration.md) · [Container Deployment (2)](container-deployment.md) · [Coverage (8)](coverage.md)
-[Cryptography (116)](cryptography.md) · [Data Science (14)](data-science.md) · [Database Datastore (230)](database-datastore.md) · [Datetime (44)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (24)](debugger.md) · [Dependency Manager (35)](dependency-manager.md) · [Documentation (21)](documentation.md)
-[Embedded Hardware (15)](embedded-hardware.md) · [Ffi Bindings (258)](ffi-bindings.md) · [Filesystem Os (303)](filesystem-os.md) · [Formatter (325)](formatter.md)
-[Framework (11)](framework.md) · [Fuzzer (10)](fuzzer.md) · [Game Engine Game Dev (54)](game-engine-game-dev.md) · [Ide Editor Integration (396)](ide-editor-integration.md)
-[Image Audio Dsp (44)](image-audio-dsp.md) · [Interop Bindings (34)](interop-bindings.md) · [Interpreter Runtime (78)](interpreter-runtime.md) · [Jit Vm (48)](jit-vm.md)
-[Language Server (19)](language-server.md) · [Language Specification (216)](language-specification.md) · [Library (2390)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (28)](lint-rule-pack.md) · [Linter (320)](linter.md) · [Logging Observability (86)](logging-observability.md) · [Machine Learning (221)](machine-learning.md)
-[Math Numeric Scientific (37)](math-numeric-scientific.md) · [Memory Analyzer (40)](memory-analyzer.md) · [Message Broker (14)](message-broker.md) · [Networking Http (439)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (116)](package-manager.md) · [Parser Lexer Ast (320)](parser-lexer-ast.md) · [Precommit Ci Quality (115)](precommit-ci-quality.md)
-[Profiler (39)](profiler.md) · [Project Scaffolding (41)](project-scaffolding.md) · [Registry Repository (10)](registry-repository.md) · [Sanitizer (5)](sanitizer.md)
-[Security Sast (200)](security-sast.md) · [Serialization (158)](serialization.md) · [Standard Library (18)](standard-library.md) · [Static Analyzer (68)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (337)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md) · [Type Checker (223)](type-checker.md)
-**[Undefined Behavior Analyzer (217)](undefined-behavior-analyzer.md)** · [Utility Library (51)](utility-library.md) · [Visualization Gui (97)](visualization-gui.md) · [Web Framework (208)](web-framework.md)
+[Concurrency Parallelism (42)](concurrency-parallelism.md) · [Configuration (46)](configuration.md) · [Container Deployment (2)](container-deployment.md) · [Coverage (8)](coverage.md)
+[Cryptography (114)](cryptography.md) · [Data Science (14)](data-science.md) · [Database Datastore (225)](database-datastore.md) · [Datetime (44)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (31)](debugger.md) · [Dependency Manager (36)](dependency-manager.md) · [Documentation (21)](documentation.md)
+[Embedded Hardware (15)](embedded-hardware.md) · [Ffi Bindings (256)](ffi-bindings.md) · [Filesystem Os (299)](filesystem-os.md) · [Formatter (323)](formatter.md)
+[Framework (11)](framework.md) · [Fuzzer (10)](fuzzer.md) · [Game Engine Game Dev (54)](game-engine-game-dev.md) · [Ide Editor Integration (399)](ide-editor-integration.md)
+[Image Audio Dsp (43)](image-audio-dsp.md) · [Interop Bindings (34)](interop-bindings.md) · [Interpreter Runtime (77)](interpreter-runtime.md) · [Jit Vm (47)](jit-vm.md)
+[Language Server (19)](language-server.md) · [Language Specification (216)](language-specification.md) · [Library (2365)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (27)](lint-rule-pack.md) · [Linter (319)](linter.md) · [Logging Observability (181)](logging-observability.md) · [Machine Learning (215)](machine-learning.md)
+[Math Numeric Scientific (37)](math-numeric-scientific.md) · [Memory Analyzer (39)](memory-analyzer.md) · [Message Broker (12)](message-broker.md) · [Networking Http (423)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (116)](package-manager.md) · [Parser Lexer Ast (314)](parser-lexer-ast.md) · [Precommit Ci Quality (115)](precommit-ci-quality.md)
+[Profiler (41)](profiler.md) · [Project Scaffolding (39)](project-scaffolding.md) · [Registry Repository (10)](registry-repository.md) · [Sanitizer (4)](sanitizer.md)
+[Security Sast (202)](security-sast.md) · [Serialization (162)](serialization.md) · [Standard Library (18)](standard-library.md) · [Static Analyzer (68)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (333)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md) · [Type Checker (229)](type-checker.md)
+**[Undefined Behavior Analyzer (218)](undefined-behavior-analyzer.md)** · [Utility Library (51)](utility-library.md) · [Visualization Gui (93)](visualization-gui.md) · [Web Framework (199)](web-framework.md)
 
 ## Julia
 
@@ -87,12 +87,6 @@ Records: `217`
 | utf8-ranges | 1.0.5 | 2022-04-04T18:56:49.704446Z | [open](../records/rust-utf8-ranges-ea8424ea.md) |
 | zmij | 1.0.23 | 2026-07-13T12:58:53.705886Z | [open](../records/rust-zmij-e6574c03.md) |
 
-## Python
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| 2u-enterprise-subsidy-client | 2.2.1 | 2026-02-27T05:53:05.909119Z | [open](../records/python-2u-enterprise-subsidy-client-ddf9b0c1.md) |
-
 ## Node.js/JavaScript
 
 | Name | Release | Date | Page |
@@ -125,14 +119,17 @@ Records: `217`
 | @lobehub/cli-ui | 1.13.0 | 2025-06-11T05:49:34.974Z | [open](../records/node-js-javascript-lobehub-cli-ui-0f0fa43a.md) |
 | @neaps/tide-database | 0.9.20260801 | 2026-08-01T12:13:14.613Z | [open](../records/node-js-javascript-neaps-tide-database-72059e90.md) |
 | @percy/cli | 1.32.7 | 2026-08-20T12:28:42.598Z | [open](../records/node-js-javascript-percy-cli-8f36f781.md) |
+| @pnp/logging | 4.21.0 | 2026-08-24T16:58:43.098Z | [open](../records/node-js-javascript-pnp-logging-7af90765.md) |
 | @redocly/openapi-core | 2.49.0 | 2026-08-27T11:54:19.010Z | [open](../records/node-js-javascript-redocly-openapi-core-1c72c325.md) |
 | @remote-ui/testing | 1.4.6 | 2025-06-13T07:48:42.233Z | [open](../records/node-js-javascript-remote-ui-testing-259af30c.md) |
 | @subsquid/apollo-server-core | 3.14.0 | 2025-01-09T10:21:30.713Z | [open](../records/node-js-javascript-subsquid-apollo-server-core-cbb8f657.md) |
 | @subsquid/apollo-server-express | 3.14.1 | 2025-05-02T12:45:14.464Z | [open](../records/node-js-javascript-subsquid-apollo-server-express-d2da452c.md) |
+| @subsquid/logger | 1.6.0 | 2026-05-11T07:59:43.851Z | [open](../records/node-js-javascript-subsquid-logger-e4c79f0d.md) |
 | @sugarcube-sh/cli | 0.1.25 | 2026-08-24T11:03:22.047Z | [open](../records/node-js-javascript-sugarcube-sh-cli-279d85e7.md) |
 | @tauri-apps/plugin-http | 2.6.0 | 2026-08-31T11:20:18.468Z | [open](../records/node-js-javascript-tauri-apps-plugin-http-7fcc9b39.md) |
 | @temporalio/testing | 1.23.0 | 2026-08-26T03:29:31.231Z | [open](../records/node-js-javascript-temporalio-testing-01a9b62c.md) |
 | @vite-hub/database | 0.0.3 | 2026-07-31T14:37:27.013Z | [open](../records/node-js-javascript-vite-hub-database-37a8b102.md) |
+| abstract-logging | 2.0.1 | 2020-10-17T12:15:48.198Z | [open](../records/node-js-javascript-abstract-logging-e0fb44af.md) |
 | apollo-datasource-http | 0.21.0 | 2022-05-20T22:08:07.327Z | [open](../records/node-js-javascript-apollo-datasource-http-07bd8767.md) |
 | json-server | 1.0.0-beta.15 | 2026-03-23T19:40:25.325Z | [open](../records/node-js-javascript-json-server-06e43076.md) |
 | mockttp | 4.6.2 | 2026-08-31T19:06:47.898Z | [open](../records/node-js-javascript-mockttp-89826f51.md) |
@@ -187,7 +184,6 @@ Records: `217`
 | Kong | 3.9.3 | 2026-06-17T06:02:19Z | [open](../records/lua-family-kong-20e8bcea.md) |
 | kong-event-pub | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-kong-event-pub-b074056d.md) |
 | kong-event-pub-plugin | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-kong-event-pub-plugin-cb21bb1f.md) |
-| kong-kafka-custom-log | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-kong-kafka-custom-log-20cbb19d.md) |
 | KoReader | v2026.07.1 | 2026-08-01T11:10:30Z | [open](../records/lua-family-koreader-d592cc89.md) |
 | kpie | unknown | github_latest_release_missing | [open](../records/lua-family-kpie-f3c38937.md) |
 | lanes | v3.17.2 | 2025-10-23T06:26:07Z | [open](../records/lua-family-lanes-b009a902.md) |

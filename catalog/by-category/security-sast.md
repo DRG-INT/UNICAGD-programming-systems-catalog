@@ -1,6 +1,6 @@
 # Security Sast
 
-Records: `200`
+Records: `202`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `200`
 
 ## Category Index
 
-[Api Abi Checker (73)](api-abi-checker.md) · [Api Doc Generator (5)](api-doc-generator.md) · [Assertion Mocking (31)](assertion-mocking.md) · [Async Runtime (87)](async-runtime.md)
-[Benchmarking (39)](benchmarking.md) · [Build System (405)](build-system.md) · [Cli (314)](cli.md) · [Codegen Codemod Refactoring (14)](codegen-codemod-refactoring.md)
+[Api Abi Checker (66)](api-abi-checker.md) · [Api Doc Generator (5)](api-doc-generator.md) · [Assertion Mocking (31)](assertion-mocking.md) · [Async Runtime (84)](async-runtime.md)
+[Benchmarking (39)](benchmarking.md) · [Build System (405)](build-system.md) · [Cli (300)](cli.md) · [Codegen Codemod Refactoring (14)](codegen-codemod-refactoring.md)
 [Community Reference (39)](community-reference.md) · [Compiler (82)](compiler.md) · [Compiler Diagnostics (8)](compiler-diagnostics.md) · [Compression (26)](compression.md)
-[Concurrency Parallelism (42)](concurrency-parallelism.md) · [Configuration (47)](configuration.md) · [Container Deployment (2)](container-deployment.md) · [Coverage (8)](coverage.md)
-[Cryptography (116)](cryptography.md) · [Data Science (14)](data-science.md) · [Database Datastore (230)](database-datastore.md) · [Datetime (44)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (24)](debugger.md) · [Dependency Manager (35)](dependency-manager.md) · [Documentation (21)](documentation.md)
-[Embedded Hardware (15)](embedded-hardware.md) · [Ffi Bindings (258)](ffi-bindings.md) · [Filesystem Os (303)](filesystem-os.md) · [Formatter (325)](formatter.md)
-[Framework (11)](framework.md) · [Fuzzer (10)](fuzzer.md) · [Game Engine Game Dev (54)](game-engine-game-dev.md) · [Ide Editor Integration (396)](ide-editor-integration.md)
-[Image Audio Dsp (44)](image-audio-dsp.md) · [Interop Bindings (34)](interop-bindings.md) · [Interpreter Runtime (78)](interpreter-runtime.md) · [Jit Vm (48)](jit-vm.md)
-[Language Server (19)](language-server.md) · [Language Specification (216)](language-specification.md) · [Library (2390)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (28)](lint-rule-pack.md) · [Linter (320)](linter.md) · [Logging Observability (86)](logging-observability.md) · [Machine Learning (221)](machine-learning.md)
-[Math Numeric Scientific (37)](math-numeric-scientific.md) · [Memory Analyzer (40)](memory-analyzer.md) · [Message Broker (14)](message-broker.md) · [Networking Http (439)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (116)](package-manager.md) · [Parser Lexer Ast (320)](parser-lexer-ast.md) · [Precommit Ci Quality (115)](precommit-ci-quality.md)
-[Profiler (39)](profiler.md) · [Project Scaffolding (41)](project-scaffolding.md) · [Registry Repository (10)](registry-repository.md) · [Sanitizer (5)](sanitizer.md)
-**[Security Sast (200)](security-sast.md)** · [Serialization (158)](serialization.md) · [Standard Library (18)](standard-library.md) · [Static Analyzer (68)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (337)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md) · [Type Checker (223)](type-checker.md)
-[Undefined Behavior Analyzer (217)](undefined-behavior-analyzer.md) · [Utility Library (51)](utility-library.md) · [Visualization Gui (97)](visualization-gui.md) · [Web Framework (208)](web-framework.md)
+[Concurrency Parallelism (42)](concurrency-parallelism.md) · [Configuration (46)](configuration.md) · [Container Deployment (2)](container-deployment.md) · [Coverage (8)](coverage.md)
+[Cryptography (114)](cryptography.md) · [Data Science (14)](data-science.md) · [Database Datastore (225)](database-datastore.md) · [Datetime (44)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (31)](debugger.md) · [Dependency Manager (36)](dependency-manager.md) · [Documentation (21)](documentation.md)
+[Embedded Hardware (15)](embedded-hardware.md) · [Ffi Bindings (256)](ffi-bindings.md) · [Filesystem Os (299)](filesystem-os.md) · [Formatter (323)](formatter.md)
+[Framework (11)](framework.md) · [Fuzzer (10)](fuzzer.md) · [Game Engine Game Dev (54)](game-engine-game-dev.md) · [Ide Editor Integration (399)](ide-editor-integration.md)
+[Image Audio Dsp (43)](image-audio-dsp.md) · [Interop Bindings (34)](interop-bindings.md) · [Interpreter Runtime (77)](interpreter-runtime.md) · [Jit Vm (47)](jit-vm.md)
+[Language Server (19)](language-server.md) · [Language Specification (216)](language-specification.md) · [Library (2365)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (27)](lint-rule-pack.md) · [Linter (319)](linter.md) · [Logging Observability (181)](logging-observability.md) · [Machine Learning (215)](machine-learning.md)
+[Math Numeric Scientific (37)](math-numeric-scientific.md) · [Memory Analyzer (39)](memory-analyzer.md) · [Message Broker (12)](message-broker.md) · [Networking Http (423)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (116)](package-manager.md) · [Parser Lexer Ast (314)](parser-lexer-ast.md) · [Precommit Ci Quality (115)](precommit-ci-quality.md)
+[Profiler (41)](profiler.md) · [Project Scaffolding (39)](project-scaffolding.md) · [Registry Repository (10)](registry-repository.md) · [Sanitizer (4)](sanitizer.md)
+**[Security Sast (202)](security-sast.md)** · [Serialization (162)](serialization.md) · [Standard Library (18)](standard-library.md) · [Static Analyzer (68)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (333)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md) · [Type Checker (229)](type-checker.md)
+[Undefined Behavior Analyzer (218)](undefined-behavior-analyzer.md) · [Utility Library (51)](utility-library.md) · [Visualization Gui (93)](visualization-gui.md) · [Web Framework (199)](web-framework.md)
 
 ## Julia
 
@@ -51,7 +51,6 @@ Records: `200`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| aac-cli | 0.1.1 | 2026-08-11T08:20:45.719378Z | [open](../records/python-aac-cli-cf3e0b7c.md) |
 | Bandit | 1.9.4 | 2026-02-25T06:44:15.503849Z | [open](../records/python-bandit-d9eda56d.md) |
 | Semgrep | 1.175.0 | 2026-08-26T17:10:26.526254Z | [open](../records/python-semgrep-35add980.md) |
 
@@ -78,6 +77,7 @@ Records: `200`
 | @bedrock/security-context | 9.0.0 | 2024-08-02T00:39:01.241Z | [open](../records/node-js-javascript-bedrock-security-context-18253016.md) |
 | @bluelibs/security-bundle | 1.1.8 | 2023-02-15T08:57:39.382Z | [open](../records/node-js-javascript-bluelibs-security-bundle-96e39655.md) |
 | @burdenoff/microfe-security | 2026.510.115 | 2026-05-11T04:09:37.350Z | [open](../records/node-js-javascript-burdenoff-microfe-security-383a41df.md) |
+| @cap-js/audit-logging | 1.2.2 | 2026-06-18T09:22:30.766Z | [open](../records/node-js-javascript-cap-js-audit-logging-d5387948.md) |
 | @capacitor-community/device-security-detect | 8.0.0 | 2026-01-05T12:34:18.144Z | [open](../records/node-js-javascript-capacitor-community-device-security-detect-c36ee23d.md) |
 | @capacitor-community/security-provider | 7.0.0 | 2025-02-16T17:32:19.924Z | [open](../records/node-js-javascript-capacitor-community-security-provider-860032d2.md) |
 | @caplaz/eufy-security-scrypted | 0.4.0 | 2026-07-20T16:28:43.579Z | [open](../records/node-js-javascript-caplaz-eufy-security-scrypted-8a364aa7.md) |
@@ -123,6 +123,7 @@ Records: `200`
 | @middy/http-security-headers | 7.9.2 | 2026-08-27T23:07:12.529Z | [open](../records/node-js-javascript-middy-http-security-headers-41f7c725.md) |
 | @midwayjs/security | 4.2.2 | 2026-08-27T14:33:07.033Z | [open](../records/node-js-javascript-midwayjs-security-e6c4a666.md) |
 | @mondaydotcomorg/atp-provenance | 0.22.3 | 2026-05-05T16:06:34.542Z | [open](../records/node-js-javascript-mondaydotcomorg-atp-provenance-905fec97.md) |
+| @murumets-ee/logging | 0.60.1 | 2026-08-31T11:19:13.168Z | [open](../records/node-js-javascript-murumets-ee-logging-f85bbf33.md) |
 | @nangohq/egress | 0.71.5 | 2026-08-27T14:24:53.716Z | [open](../records/node-js-javascript-nangohq-egress-635dca67.md) |
 | @nebular/security | 17.0.0 | 2026-01-15T09:09:29.068Z | [open](../records/node-js-javascript-nebular-security-27fac67d.md) |
 | @newrelic/security-agent | 3.0.4 | 2026-05-14T07:50:29.443Z | [open](../records/node-js-javascript-newrelic-security-agent-d2475226.md) |
@@ -138,6 +139,7 @@ Records: `200`
 | @renovosolutions/cdk-aspects-library-security-group | 2.1.116 | 2025-07-01T20:06:53.587Z | [open](../records/node-js-javascript-renovosolutions-cdk-aspects-library-security-group-8e60cf4d.md) |
 | @revealui/security | 0.8.0 | 2026-08-26T16:38:17.367Z | [open](../records/node-js-javascript-revealui-security-e917cbbd.md) |
 | @ryanbekhen/cryptkhen | 3.2.0 | 2022-07-20T12:12:19.954Z | [open](../records/node-js-javascript-ryanbekhen-cryptkhen-3bf77025.md) |
+| @sap/audit-logging | 7.0.2 | 2026-06-23T10:51:27.422Z | [open](../records/node-js-javascript-sap-audit-logging-1b7c1df6.md) |
 | @sap/xssec | 4.15.0 | 2026-08-10T15:31:11.801Z | [open](../records/node-js-javascript-sap-xssec-6a65d608.md) |
 | @sleiv/react-native-app-security | 0.2.1 | 2023-11-11T15:47:34.003Z | [open](../records/node-js-javascript-sleiv-react-native-app-security-b1a72173.md) |
 | @socketsecurity/cli | 1.1.162 | 2026-08-28T11:09:12.471Z | [open](../records/node-js-javascript-socketsecurity-cli-52cf377d.md) |

@@ -4,23 +4,23 @@ This catalog preserves discovered evidence and marks uncertainty explicitly. A r
 
 ## Category Index
 
-[Api Abi Checker (73)](by-category/api-abi-checker.md) · [Api Doc Generator (5)](by-category/api-doc-generator.md) · [Assertion Mocking (31)](by-category/assertion-mocking.md) · [Async Runtime (87)](by-category/async-runtime.md)
-[Benchmarking (39)](by-category/benchmarking.md) · [Build System (405)](by-category/build-system.md) · [Cli (314)](by-category/cli.md) · [Codegen Codemod Refactoring (14)](by-category/codegen-codemod-refactoring.md)
+[Api Abi Checker (66)](by-category/api-abi-checker.md) · [Api Doc Generator (5)](by-category/api-doc-generator.md) · [Assertion Mocking (31)](by-category/assertion-mocking.md) · [Async Runtime (84)](by-category/async-runtime.md)
+[Benchmarking (39)](by-category/benchmarking.md) · [Build System (405)](by-category/build-system.md) · [Cli (300)](by-category/cli.md) · [Codegen Codemod Refactoring (14)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (39)](by-category/community-reference.md) · [Compiler (82)](by-category/compiler.md) · [Compiler Diagnostics (8)](by-category/compiler-diagnostics.md) · [Compression (26)](by-category/compression.md)
-[Concurrency Parallelism (42)](by-category/concurrency-parallelism.md) · [Configuration (47)](by-category/configuration.md) · [Container Deployment (2)](by-category/container-deployment.md) · [Coverage (8)](by-category/coverage.md)
-[Cryptography (116)](by-category/cryptography.md) · [Data Science (14)](by-category/data-science.md) · [Database Datastore (230)](by-category/database-datastore.md) · [Datetime (44)](by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (24)](by-category/debugger.md) · [Dependency Manager (35)](by-category/dependency-manager.md) · [Documentation (21)](by-category/documentation.md)
-[Embedded Hardware (15)](by-category/embedded-hardware.md) · [Ffi Bindings (258)](by-category/ffi-bindings.md) · [Filesystem Os (303)](by-category/filesystem-os.md) · [Formatter (325)](by-category/formatter.md)
-[Framework (11)](by-category/framework.md) · [Fuzzer (10)](by-category/fuzzer.md) · [Game Engine Game Dev (54)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (396)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (44)](by-category/image-audio-dsp.md) · [Interop Bindings (34)](by-category/interop-bindings.md) · [Interpreter Runtime (78)](by-category/interpreter-runtime.md) · [Jit Vm (48)](by-category/jit-vm.md)
-[Language Server (19)](by-category/language-server.md) · [Language Specification (216)](by-category/language-specification.md) · [Library (2390)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (28)](by-category/lint-rule-pack.md) · [Linter (320)](by-category/linter.md) · [Logging Observability (86)](by-category/logging-observability.md) · [Machine Learning (221)](by-category/machine-learning.md)
-[Math Numeric Scientific (37)](by-category/math-numeric-scientific.md) · [Memory Analyzer (40)](by-category/memory-analyzer.md) · [Message Broker (14)](by-category/message-broker.md) · [Networking Http (439)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (116)](by-category/package-manager.md) · [Parser Lexer Ast (320)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (115)](by-category/precommit-ci-quality.md)
-[Profiler (39)](by-category/profiler.md) · [Project Scaffolding (41)](by-category/project-scaffolding.md) · [Registry Repository (10)](by-category/registry-repository.md) · [Sanitizer (5)](by-category/sanitizer.md)
-[Security Sast (200)](by-category/security-sast.md) · [Serialization (158)](by-category/serialization.md) · [Standard Library (18)](by-category/standard-library.md) · [Static Analyzer (68)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (337)](by-category/testing-framework.md) · [Tutorial Book Styleguide (7)](by-category/tutorial-book-styleguide.md) · [Type Checker (223)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (217)](by-category/undefined-behavior-analyzer.md) · [Utility Library (51)](by-category/utility-library.md) · [Visualization Gui (97)](by-category/visualization-gui.md) · [Web Framework (208)](by-category/web-framework.md)
+[Concurrency Parallelism (42)](by-category/concurrency-parallelism.md) · [Configuration (46)](by-category/configuration.md) · [Container Deployment (2)](by-category/container-deployment.md) · [Coverage (8)](by-category/coverage.md)
+[Cryptography (114)](by-category/cryptography.md) · [Data Science (14)](by-category/data-science.md) · [Database Datastore (225)](by-category/database-datastore.md) · [Datetime (44)](by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (31)](by-category/debugger.md) · [Dependency Manager (36)](by-category/dependency-manager.md) · [Documentation (21)](by-category/documentation.md)
+[Embedded Hardware (15)](by-category/embedded-hardware.md) · [Ffi Bindings (256)](by-category/ffi-bindings.md) · [Filesystem Os (299)](by-category/filesystem-os.md) · [Formatter (323)](by-category/formatter.md)
+[Framework (11)](by-category/framework.md) · [Fuzzer (10)](by-category/fuzzer.md) · [Game Engine Game Dev (54)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (399)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (43)](by-category/image-audio-dsp.md) · [Interop Bindings (34)](by-category/interop-bindings.md) · [Interpreter Runtime (77)](by-category/interpreter-runtime.md) · [Jit Vm (47)](by-category/jit-vm.md)
+[Language Server (19)](by-category/language-server.md) · [Language Specification (216)](by-category/language-specification.md) · [Library (2365)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (27)](by-category/lint-rule-pack.md) · [Linter (319)](by-category/linter.md) · [Logging Observability (181)](by-category/logging-observability.md) · [Machine Learning (215)](by-category/machine-learning.md)
+[Math Numeric Scientific (37)](by-category/math-numeric-scientific.md) · [Memory Analyzer (39)](by-category/memory-analyzer.md) · [Message Broker (12)](by-category/message-broker.md) · [Networking Http (423)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (116)](by-category/package-manager.md) · [Parser Lexer Ast (314)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (115)](by-category/precommit-ci-quality.md)
+[Profiler (41)](by-category/profiler.md) · [Project Scaffolding (39)](by-category/project-scaffolding.md) · [Registry Repository (10)](by-category/registry-repository.md) · [Sanitizer (4)](by-category/sanitizer.md)
+[Security Sast (202)](by-category/security-sast.md) · [Serialization (162)](by-category/serialization.md) · [Standard Library (18)](by-category/standard-library.md) · [Static Analyzer (68)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (333)](by-category/testing-framework.md) · [Tutorial Book Styleguide (7)](by-category/tutorial-book-styleguide.md) · [Type Checker (229)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (218)](by-category/undefined-behavior-analyzer.md) · [Utility Library (51)](by-category/utility-library.md) · [Visualization Gui (93)](by-category/visualization-gui.md) · [Web Framework (199)](by-category/web-framework.md)
 
 ## Source Labels
 
@@ -37,14 +37,13 @@ This catalog preserves discovered evidence and marks uncertainty explicitly. A r
 
 | Kind | Status | Records |
 | --- | --- | ---: |
-| npm_registry_search | registry-derived | 2431 |
+| npm_registry_search | registry-derived | 2589 |
 | julia_general_registry | registry-derived | 2108 |
 | crates_io | registry-derived | 2105 |
-| luarocks_root_manifest | registry-derived | 1682 |
+| luarocks_root_manifest | registry-derived | 1613 |
 | model_knowledge_corpus | unverified_seed | 454 |
 | uploaded_file |  | 267 |
 | model_knowledge_seed | catalog_seed | 229 |
-| pypi_simple_and_json_api | registry-derived | 89 |
 | web_research |  | 14 |
 | web_search | verified_this_pass | 4 |
 
@@ -131,52 +130,14 @@ This catalog preserves discovered evidence and marks uncertainty explicitly. A r
 - `HTTPError: https://crates.io/api/v1/crates/rustc: HTTP Error 404: Not Found`
 - `HTTPError: https://crates.io/api/v1/crates/rustdoc: HTTP Error 404: Not Found`
 - `HTTPError: https://crates.io/api/v1/crates/tarpaulin: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/10MinPyTest/json: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/3flatline-cli/json: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/3mystic_cloud_client/json: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/3wfund-data-find/json: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/AGDatasystem/json: HTTP Error 404: Not Found`
 - `HTTPError: https://pypi.org/pypi/CPython/json: HTTP Error 404: Not Found`
 - `HTTPError: https://pypi.org/pypi/PyPy/json: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/a7n-global-cli/json: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/aa-datalib/json: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/aaaa-mcpserver4567/json: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/ab-client-generator/json: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/ab-testing-platform/json: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/acampos-cli/json: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/ace-database/json: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/acex-driver-cisco-junoscli/json: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/aclib.images/json: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/adam-cli/json: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/adcm-pytest-plugintest/json: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/add-server/json: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/admin-cli-pkg-joemon.david/json: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/adri-client/json: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/adviserserver/json: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/advisor-client/json: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/advisorserver/json: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/aegis-client/json: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/aelf-client/json: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/aemonewdata/json: HTTP Error 404: Not Found`
-- `HTTPError: https://pypi.org/pypi/aes-metadata-collector/json: HTTP Error 404: Not Found`
 - `HTTPError: https://pypi.org/pypi/cProfile/json: HTTP Error 404: Not Found`
 - `HTTPError: https://pypi.org/pypi/coverage.py/json: HTTP Error 404: Not Found`
 - `HTTPError: https://pypi.org/pypi/pdb/json: HTTP Error 404: Not Found`
 - `HTTPError: https://pypi.org/pypi/redis-py/json: HTTP Error 404: Not Found`
 - `HTTPError: https://pypi.org/pypi/tomllib/json: HTTP Error 404: Not Found`
 - `HTTPError: https://pypi.org/pypi/venv/json: HTTP Error 404: Not Found`
-- `HTTPError: https://registry.npmjs.org/-/v1/search?text=crypto&size=250&quality=0.35&popularity=0.45&maintenance=0.20: HTTP Error 429: Too Many Requests`
-- `HTTPError: https://registry.npmjs.org/-/v1/search?text=express&size=250&quality=0.35&popularity=0.45&maintenance=0.20: HTTP Error 429: Too Many Requests`
-- `HTTPError: https://registry.npmjs.org/-/v1/search?text=graphql&size=250&quality=0.35&popularity=0.45&maintenance=0.20: HTTP Error 429: Too Many Requests`
-- `HTTPError: https://registry.npmjs.org/-/v1/search?text=logging&size=250&quality=0.35&popularity=0.45&maintenance=0.20: HTTP Error 429: Too Many Requests`
-- `HTTPError: https://registry.npmjs.org/-/v1/search?text=node&size=250&quality=0.35&popularity=0.45&maintenance=0.20: HTTP Error 429: Too Many Requests`
-- `HTTPError: https://registry.npmjs.org/-/v1/search?text=orm&size=250&quality=0.35&popularity=0.45&maintenance=0.20: HTTP Error 429: Too Many Requests`
-- `HTTPError: https://registry.npmjs.org/-/v1/search?text=parser&size=250&quality=0.35&popularity=0.45&maintenance=0.20: HTTP Error 429: Too Many Requests`
-- `HTTPError: https://registry.npmjs.org/-/v1/search?text=queue&size=250&quality=0.35&popularity=0.45&maintenance=0.20: HTTP Error 429: Too Many Requests`
-- `HTTPError: https://registry.npmjs.org/-/v1/search?text=react&size=250&quality=0.35&popularity=0.45&maintenance=0.20: HTTP Error 429: Too Many Requests`
-- `HTTPError: https://registry.npmjs.org/-/v1/search?text=serialization&size=250&quality=0.35&popularity=0.45&maintenance=0.20: HTTP Error 429: Too Many Requests`
-- `HTTPError: https://registry.npmjs.org/-/v1/search?text=vite&size=250&quality=0.35&popularity=0.45&maintenance=0.20: HTTP Error 429: Too Many Requests`
-- `HTTPError: https://registry.npmjs.org/-/v1/search?text=webpack&size=250&quality=0.35&popularity=0.45&maintenance=0.20: HTTP Error 429: Too Many Requests`
 - `HTTPError: https://registry.npmjs.org/AVA: HTTP Error 404: Not Found`
 - `HTTPError: https://registry.npmjs.org/Acorn: HTTP Error 404: Not Found`
 - `HTTPError: https://registry.npmjs.org/ArkType: HTTP Error 404: Not Found`

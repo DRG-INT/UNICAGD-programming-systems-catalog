@@ -2,23 +2,23 @@
 
 ## Category Index
 
-[Api Abi Checker (73)](by-category/api-abi-checker.md) · [Api Doc Generator (5)](by-category/api-doc-generator.md) · [Assertion Mocking (31)](by-category/assertion-mocking.md) · [Async Runtime (87)](by-category/async-runtime.md)
-[Benchmarking (39)](by-category/benchmarking.md) · [Build System (405)](by-category/build-system.md) · [Cli (314)](by-category/cli.md) · [Codegen Codemod Refactoring (14)](by-category/codegen-codemod-refactoring.md)
+[Api Abi Checker (66)](by-category/api-abi-checker.md) · [Api Doc Generator (5)](by-category/api-doc-generator.md) · [Assertion Mocking (31)](by-category/assertion-mocking.md) · [Async Runtime (84)](by-category/async-runtime.md)
+[Benchmarking (39)](by-category/benchmarking.md) · [Build System (405)](by-category/build-system.md) · [Cli (300)](by-category/cli.md) · [Codegen Codemod Refactoring (14)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (39)](by-category/community-reference.md) · [Compiler (82)](by-category/compiler.md) · [Compiler Diagnostics (8)](by-category/compiler-diagnostics.md) · [Compression (26)](by-category/compression.md)
-[Concurrency Parallelism (42)](by-category/concurrency-parallelism.md) · [Configuration (47)](by-category/configuration.md) · [Container Deployment (2)](by-category/container-deployment.md) · [Coverage (8)](by-category/coverage.md)
-[Cryptography (116)](by-category/cryptography.md) · [Data Science (14)](by-category/data-science.md) · [Database Datastore (230)](by-category/database-datastore.md) · [Datetime (44)](by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (24)](by-category/debugger.md) · [Dependency Manager (35)](by-category/dependency-manager.md) · [Documentation (21)](by-category/documentation.md)
-[Embedded Hardware (15)](by-category/embedded-hardware.md) · [Ffi Bindings (258)](by-category/ffi-bindings.md) · [Filesystem Os (303)](by-category/filesystem-os.md) · [Formatter (325)](by-category/formatter.md)
-[Framework (11)](by-category/framework.md) · [Fuzzer (10)](by-category/fuzzer.md) · [Game Engine Game Dev (54)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (396)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (44)](by-category/image-audio-dsp.md) · [Interop Bindings (34)](by-category/interop-bindings.md) · [Interpreter Runtime (78)](by-category/interpreter-runtime.md) · [Jit Vm (48)](by-category/jit-vm.md)
-[Language Server (19)](by-category/language-server.md) · [Language Specification (216)](by-category/language-specification.md) · [Library (2390)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (28)](by-category/lint-rule-pack.md) · [Linter (320)](by-category/linter.md) · [Logging Observability (86)](by-category/logging-observability.md) · [Machine Learning (221)](by-category/machine-learning.md)
-[Math Numeric Scientific (37)](by-category/math-numeric-scientific.md) · [Memory Analyzer (40)](by-category/memory-analyzer.md) · [Message Broker (14)](by-category/message-broker.md) · [Networking Http (439)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (116)](by-category/package-manager.md) · [Parser Lexer Ast (320)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (115)](by-category/precommit-ci-quality.md)
-[Profiler (39)](by-category/profiler.md) · [Project Scaffolding (41)](by-category/project-scaffolding.md) · [Registry Repository (10)](by-category/registry-repository.md) · [Sanitizer (5)](by-category/sanitizer.md)
-[Security Sast (200)](by-category/security-sast.md) · [Serialization (158)](by-category/serialization.md) · [Standard Library (18)](by-category/standard-library.md) · [Static Analyzer (68)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (337)](by-category/testing-framework.md) · [Tutorial Book Styleguide (7)](by-category/tutorial-book-styleguide.md) · [Type Checker (223)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (217)](by-category/undefined-behavior-analyzer.md) · [Utility Library (51)](by-category/utility-library.md) · [Visualization Gui (97)](by-category/visualization-gui.md) · [Web Framework (208)](by-category/web-framework.md)
+[Concurrency Parallelism (42)](by-category/concurrency-parallelism.md) · [Configuration (46)](by-category/configuration.md) · [Container Deployment (2)](by-category/container-deployment.md) · [Coverage (8)](by-category/coverage.md)
+[Cryptography (114)](by-category/cryptography.md) · [Data Science (14)](by-category/data-science.md) · [Database Datastore (225)](by-category/database-datastore.md) · [Datetime (44)](by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (31)](by-category/debugger.md) · [Dependency Manager (36)](by-category/dependency-manager.md) · [Documentation (21)](by-category/documentation.md)
+[Embedded Hardware (15)](by-category/embedded-hardware.md) · [Ffi Bindings (256)](by-category/ffi-bindings.md) · [Filesystem Os (299)](by-category/filesystem-os.md) · [Formatter (323)](by-category/formatter.md)
+[Framework (11)](by-category/framework.md) · [Fuzzer (10)](by-category/fuzzer.md) · [Game Engine Game Dev (54)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (399)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (43)](by-category/image-audio-dsp.md) · [Interop Bindings (34)](by-category/interop-bindings.md) · [Interpreter Runtime (77)](by-category/interpreter-runtime.md) · [Jit Vm (47)](by-category/jit-vm.md)
+[Language Server (19)](by-category/language-server.md) · [Language Specification (216)](by-category/language-specification.md) · [Library (2365)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (27)](by-category/lint-rule-pack.md) · [Linter (319)](by-category/linter.md) · [Logging Observability (181)](by-category/logging-observability.md) · [Machine Learning (215)](by-category/machine-learning.md)
+[Math Numeric Scientific (37)](by-category/math-numeric-scientific.md) · [Memory Analyzer (39)](by-category/memory-analyzer.md) · [Message Broker (12)](by-category/message-broker.md) · [Networking Http (423)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (116)](by-category/package-manager.md) · [Parser Lexer Ast (314)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (115)](by-category/precommit-ci-quality.md)
+[Profiler (41)](by-category/profiler.md) · [Project Scaffolding (39)](by-category/project-scaffolding.md) · [Registry Repository (10)](by-category/registry-repository.md) · [Sanitizer (4)](by-category/sanitizer.md)
+[Security Sast (202)](by-category/security-sast.md) · [Serialization (162)](by-category/serialization.md) · [Standard Library (18)](by-category/standard-library.md) · [Static Analyzer (68)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (333)](by-category/testing-framework.md) · [Tutorial Book Styleguide (7)](by-category/tutorial-book-styleguide.md) · [Type Checker (229)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (218)](by-category/undefined-behavior-analyzer.md) · [Utility Library (51)](by-category/utility-library.md) · [Visualization Gui (93)](by-category/visualization-gui.md) · [Web Framework (199)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -4966,7 +4966,6 @@
 | `luarocks_root_manifest-019ea6ff85e773` | access-token-introspection | [open](records/lua-family-access-token-introspection-6c4174ae.md) |
 | `luarocks_root_manifest-01cf89f57d6a59` | annoy | [open](records/lua-family-annoy-92628a8b.md) |
 | `luarocks_root_manifest-01fb2f8dc55229` | bit | [open](records/lua-family-bit-890f44d7.md) |
-| `luarocks_root_manifest-0200f9a695df9e` | kong-openidconnect-code-flow-v3 | [open](records/lua-family-kong-openidconnect-code-flow-v3-fd41ba21.md) |
 | `luarocks_root_manifest-022d3611b9e04a` | heirline.nvim | [open](records/lua-family-heirline-nvim-2a584b01.md) |
 | `luarocks_root_manifest-0255d2bf3f9373` | edgy.nvim | [open](records/lua-family-edgy-nvim-77e64bde.md) |
 | `luarocks_root_manifest-02567885122f18` | cffi-lua | [open](records/lua-family-cffi-lua-cdce7e95.md) |
@@ -4975,7 +4974,6 @@
 | `luarocks_root_manifest-036806ddc283b1` | hash-code | [open](records/lua-family-hash-code-1e10be04.md) |
 | `luarocks_root_manifest-0370e3789ef060` | Eat | [open](records/lua-family-eat-9256d72f.md) |
 | `luarocks_root_manifest-038667f5026dc0` | computer-craft-tl-type | [open](records/lua-family-computer-craft-tl-type-28461225.md) |
-| `luarocks_root_manifest-03cd8683661e83` | kong-oauth2-ext | [open](records/lua-family-kong-oauth2-ext-54d6a230.md) |
 | `luarocks_root_manifest-041d249b0a174f` | gobo-awesome-screenlock | [open](records/lua-family-gobo-awesome-screenlock-9932d441.md) |
 | `luarocks_root_manifest-0486930275be14` | inotify | [open](records/lua-family-inotify-6a3aa0af.md) |
 | `luarocks_root_manifest-049e3eee0350ce` | cmark | [open](records/lua-family-cmark-5bba1753.md) |
@@ -4999,7 +4997,6 @@
 | `luarocks_root_manifest-073b833d1cb61c` | high-str.nvim | [open](records/lua-family-high-str-nvim-5e6718ad.md) |
 | `luarocks_root_manifest-076f0ca11038c6` | dkjson | [open](records/lua-family-dkjson-9a13e976.md) |
 | `luarocks_root_manifest-079529eb2e8fe0` | intconvert | [open](records/lua-family-intconvert-036569c2.md) |
-| `luarocks_root_manifest-07a058c862ca8b` | kong-log-google | [open](records/lua-family-kong-log-google-e55cc701.md) |
 | `luarocks_root_manifest-07c612a497bb8f` | http-codec | [open](records/lua-family-http-codec-ace6b7e6.md) |
 | `luarocks_root_manifest-07f290b8767bf8` | cloud | [open](records/lua-family-cloud-cd213810.md) |
 | `luarocks_root_manifest-0842908e6ce20e` | graphql | [open](records/lua-family-graphql-29446ded.md) |
@@ -5023,7 +5020,6 @@
 | `luarocks_root_manifest-0a5126b1d4154a` | cloud_storage | [open](records/lua-family-cloud-storage-a43eb757.md) |
 | `luarocks_root_manifest-0a6a8128521b3e` | class | [open](records/lua-family-class-6e9fd73b.md) |
 | `luarocks_root_manifest-0a9e28fe441619` | kcp2 | [open](records/lua-family-kcp2-669ea7ae.md) |
-| `luarocks_root_manifest-0aa11db8e07e4d` | kong-oidc-google-groups | [open](records/lua-family-kong-oidc-google-groups-13b41736.md) |
 | `luarocks_root_manifest-0aa2ba82390c36` | base45 | [open](records/lua-family-base45-d67fe629.md) |
 | `luarocks_root_manifest-0ab981da919508` | k-stream | [open](records/lua-family-k-stream-432fa8f2.md) |
 | `luarocks_root_manifest-0ad88a7214855d` | inc-rename.nvim | [open](records/lua-family-inc-rename-nvim-901a91a1.md) |
@@ -5055,7 +5051,6 @@
 | `luarocks_root_manifest-0e7e7a68380288` | adopure.nvim | [open](records/lua-family-adopure-nvim-fd64a44a.md) |
 | `luarocks_root_manifest-0e8a0e9fc04f9c` | git-blame.nvim | [open](records/lua-family-git-blame-nvim-7a4c5a88.md) |
 | `luarocks_root_manifest-0eb040ce5331d3` | cx-gumbo | [open](records/lua-family-cx-gumbo-40464e00.md) |
-| `luarocks_root_manifest-0ebe8474caa649` | kong-oidc-adfs | [open](records/lua-family-kong-oidc-adfs-a6e1529a.md) |
 | `luarocks_root_manifest-0f35f7e39c1136` | indentmini.nvim | [open](records/lua-family-indentmini-nvim-71005713.md) |
 | `luarocks_root_manifest-0f862ee528cecc` | ipdb | [open](records/lua-family-ipdb-022601e9.md) |
 | `luarocks_root_manifest-0f921f52146bf4` | harpoon | [open](records/lua-family-harpoon-5bc1224a.md) |
@@ -5081,7 +5076,6 @@
 | `luarocks_root_manifest-13bfbf4d51fe4b` | error | [open](records/lua-family-error-913234ad.md) |
 | `luarocks_root_manifest-13f7ae8edd3986` | atlas-oai | [open](records/lua-family-atlas-oai-f03ee11a.md) |
 | `luarocks_root_manifest-14052f017ffb50` | clone-lite | [open](records/lua-family-clone-lite-6999a1fd.md) |
-| `luarocks_root_manifest-141858cf8844fa` | kong-lua-avro | [open](records/lua-family-kong-lua-avro-7c1580e6.md) |
 | `luarocks_root_manifest-143fdff19a70c4` | baton-tl-type | [open](records/lua-family-baton-tl-type-c451b818.md) |
 | `luarocks_root_manifest-144c42a8af2541` | hologo | [open](records/lua-family-hologo-9ac1f5e1.md) |
 | `luarocks_root_manifest-14602626724588` | cosy-client | [open](records/lua-family-cosy-client-9ce1d305.md) |
@@ -5089,7 +5083,6 @@
 | `luarocks_root_manifest-14db67f1714666` | ip2whois | [open](records/lua-family-ip2whois-571d9084.md) |
 | `luarocks_root_manifest-15099b96a1a7e8` | bitarray | [open](records/lua-family-bitarray-2f887fdb.md) |
 | `luarocks_root_manifest-151a203bc29e8a` | crayon | [open](records/lua-family-crayon-d858d2d9.md) |
-| `luarocks_root_manifest-159160d74b0b6f` | kong-plugin-api-transformer | [open](records/lua-family-kong-plugin-api-transformer-b0c59349.md) |
 | `luarocks_root_manifest-15c3dc24f6dd9e` | filemod | [open](records/lua-family-filemod-8aa38743.md) |
 | `luarocks_root_manifest-15d39ff02f17a4` | glass | [open](records/lua-family-glass-f4d52936.md) |
 | `luarocks_root_manifest-16199343cdb79b` | gemlib | [open](records/lua-family-gemlib-7640649a.md) |
@@ -5126,7 +5119,6 @@
 | `luarocks_root_manifest-1a69ba73113a1d` | decomposition | [open](records/lua-family-decomposition-d43933e6.md) |
 | `luarocks_root_manifest-1a8120bb31c593` | atveryend | [open](records/lua-family-atveryend-d5da99d5.md) |
 | `luarocks_root_manifest-1a9abe7a461238` | gobo-awesome | [open](records/lua-family-gobo-awesome-81a43fd6.md) |
-| `luarocks_root_manifest-1aa5be613e351c` | kong-oidc-consumer | [open](records/lua-family-kong-oidc-consumer-e234299b.md) |
 | `luarocks_root_manifest-1aaf8d1af5783e` | iptvplaylist-m3u-tools | [open](records/lua-family-iptvplaylist-m3u-tools-a7afe0be.md) |
 | `luarocks_root_manifest-1ab2f4f824779c` | io-tofile | [open](records/lua-family-io-tofile-0d119be8.md) |
 | `luarocks_root_manifest-1ae29f3eb1787a` | external-oid | [open](records/lua-family-external-oid-fc2352bd.md) |
@@ -5172,7 +5164,6 @@
 | `luarocks_root_manifest-2146bbb5aa2ab1` | bgcrypto-hmac | [open](records/lua-family-bgcrypto-hmac-0e041331.md) |
 | `luarocks_root_manifest-214908a2eb56ed` | app_scheduler | [open](records/lua-family-app-scheduler-9e92acf9.md) |
 | `luarocks_root_manifest-2152b036902dcb` | foldtext.nvim | [open](records/lua-family-foldtext-nvim-a629419e.md) |
-| `luarocks_root_manifest-216d4ca359debf` | kong-plugin-amqp-rpc | [open](records/lua-family-kong-plugin-amqp-rpc-dde6c7e9.md) |
 | `luarocks_root_manifest-21826bd27d6e2d` | ccc.nvim | [open](records/lua-family-ccc-nvim-5e0c2ae5.md) |
 | `luarocks_root_manifest-218659b6396980` | hop.nvim | [open](records/lua-family-hop-nvim-474554c4.md) |
 | `luarocks_root_manifest-21d549fca4be97` | daemonparts | [open](records/lua-family-daemonparts-efd4b03f.md) |
@@ -5203,7 +5194,6 @@
 | `luarocks_root_manifest-267d11ef68c86f` | fhirformats | [open](records/lua-family-fhirformats-2534f438.md) |
 | `luarocks_root_manifest-27035bf91a3937` | dromozoa-commons | [open](records/lua-family-dromozoa-commons-5b5b46fe.md) |
 | `luarocks_root_manifest-27187b57c45431` | cprint | [open](records/lua-family-cprint-27ef0ab3.md) |
-| `luarocks_root_manifest-272ac25113c904` | kong-lib-logger | [open](records/lua-family-kong-lib-logger-233a9832.md) |
 | `luarocks_root_manifest-27d44cb9d5c8c3` | copilot.lua | [open](records/lua-family-copilot-lua-393c2bfb.md) |
 | `luarocks_root_manifest-27e2114d3d35be` | CopasTimer | [open](records/lua-family-copastimer-24e56ef3.md) |
 | `luarocks_root_manifest-27e218aac2d27e` | cutorch | [open](records/lua-family-cutorch-22d56a23.md) |
@@ -5268,7 +5258,6 @@
 | `luarocks_root_manifest-31360753eb51e4` | jabs.nvim | [open](records/lua-family-jabs-nvim-78272782.md) |
 | `luarocks_root_manifest-314158cc93faf5` | bplist-parser-lua | [open](records/lua-family-bplist-parser-lua-ea71d211.md) |
 | `luarocks_root_manifest-31529a06acbd2d` | doma | [open](records/lua-family-doma-caf56306.md) |
-| `luarocks_root_manifest-317fc88f14010f` | kong-oidc-forward-host | [open](records/lua-family-kong-oidc-forward-host-cb3beaf0.md) |
 | `luarocks_root_manifest-318fe321d7e32f` | c3 | [open](records/lua-family-c3-ecf6d415.md) |
 | `luarocks_root_manifest-31986f11ebe9a1` | blink-cmp-ghostty | [open](records/lua-family-blink-cmp-ghostty-e333102a.md) |
 | `luarocks_root_manifest-319d8d1466e259` | hx-lua-simdjson | [open](records/lua-family-hx-lua-simdjson-31ec80ed.md) |
@@ -5282,7 +5271,6 @@
 | `luarocks_root_manifest-32739fc2be0601` | kiwi | [open](records/lua-family-kiwi-31ed83cd.md) |
 | `luarocks_root_manifest-327b41926c7589` | chatgpt.nvim | [open](records/lua-family-chatgpt-nvim-6920843c.md) |
 | `luarocks_root_manifest-329e2058396bc8` | contract | [open](records/lua-family-contract-64cff3fe.md) |
-| `luarocks_root_manifest-32ada1180c440f` | kong-keycloak | [open](records/lua-family-kong-keycloak-7e2bf116.md) |
 | `luarocks_root_manifest-32f64c1eeac4de` | ffi-hyperparser | [open](records/lua-family-ffi-hyperparser-920a6798.md) |
 | `luarocks_root_manifest-333c6609da38a1` | api7-lua-resty-dns-client | [open](records/lua-family-api7-lua-resty-dns-client-f9e4221d.md) |
 | `luarocks_root_manifest-333e7a55ea3e16` | Faketorio | [open](records/lua-family-faketorio-5bb950db.md) |
@@ -5321,7 +5309,6 @@
 | `luarocks_root_manifest-37ee5993e84082` | edge | [open](records/lua-family-edge-81c59e19.md) |
 | `luarocks_root_manifest-38081fe538f475` | easyjevko.lua | [open](records/lua-family-easyjevko-lua-a7fadeea.md) |
 | `luarocks_root_manifest-384f3017fa6993` | hasher | [open](records/lua-family-hasher-606f3ce2.md) |
-| `luarocks_root_manifest-385e3feae46de2` | kong-jwt2header-vphoa342 | [open](records/lua-family-kong-jwt2header-vphoa342-66c6d38c.md) |
 | `luarocks_root_manifest-386f397840961a` | cwnu-drcom | [open](records/lua-family-cwnu-drcom-d7daeafc.md) |
 | `luarocks_root_manifest-38de654bd36c93` | ip2proxy | [open](records/lua-family-ip2proxy-4a787506.md) |
 | `luarocks_root_manifest-39626cbee7511c` | complementree.nvim | [open](records/lua-family-complementree-nvim-846721ae.md) |
@@ -5334,10 +5321,8 @@
 | `luarocks_root_manifest-3a295b819a1cca` | gemcheck | [open](records/lua-family-gemcheck-a17a3fe2.md) |
 | `luarocks_root_manifest-3a42c491c33936` | gwa-kong-endpoint | [open](records/lua-family-gwa-kong-endpoint-8891b3d1.md) |
 | `luarocks_root_manifest-3a771d9c8d8b0e` | grpc-client-nginx-module | [open](records/lua-family-grpc-client-nginx-module-750c9749.md) |
-| `luarocks_root_manifest-3aa743155f4bd8` | Kong-LuaSec | [open](records/lua-family-kong-luasec-03aa5084.md) |
 | `luarocks_root_manifest-3aac7c7864a631` | coro-fs | [open](records/lua-family-coro-fs-1401319e.md) |
 | `luarocks_root_manifest-3ac58439b1cadb` | continuity | [open](records/lua-family-continuity-dbdfc124.md) |
-| `luarocks_root_manifest-3ada2f4945b63e` | kong-phantom-token | [open](records/lua-family-kong-phantom-token-123cc1e7.md) |
 | `luarocks_root_manifest-3b3e0e0baf1a8e` | array | [open](records/lua-family-array-cd29da2d.md) |
 | `luarocks_root_manifest-3b407f197dfabf` | delaunay | [open](records/lua-family-delaunay-2ec7209d.md) |
 | `luarocks_root_manifest-3b868dda728074` | alien-signals | [open](records/lua-family-alien-signals-b7cf092e.md) |
@@ -5352,14 +5337,12 @@
 | `luarocks_root_manifest-3e026cb6fc8df2` | bk-tree | [open](records/lua-family-bk-tree-3b3ab854.md) |
 | `luarocks_root_manifest-3e15158cd6d369` | copy_with_context | [open](records/lua-family-copy-with-context-5b3fb6ff.md) |
 | `luarocks_root_manifest-3e23180d23c593` | globals-lua | [open](records/lua-family-globals-lua-77b9e911.md) |
-| `luarocks_root_manifest-3e2f9a1a8a44a7` | kong-jwt2header | [open](records/lua-family-kong-jwt2header-d1185a0f.md) |
 | `luarocks_root_manifest-3e69e7772eec65` | ezserv | [open](records/lua-family-ezserv-906a79d8.md) |
 | `luarocks_root_manifest-3e6b5acd898a1b` | elfmap | [open](records/lua-family-elfmap-d4a14acd.md) |
 | `luarocks_root_manifest-3ea1410b3bf9e5` | kong-auth-request-trans | [open](records/lua-family-kong-auth-request-trans-ddd66275.md) |
 | `luarocks_root_manifest-3eaf408b399291` | aes_everywhere | [open](records/lua-family-aes-everywhere-5b4ac641.md) |
 | `luarocks_root_manifest-3eb71dc83963df` | dialog | [open](records/lua-family-dialog-90afa8b3.md) |
 | `luarocks_root_manifest-3eba261eb31d44` | hotswap-http | [open](records/lua-family-hotswap-http-567398e2.md) |
-| `luarocks_root_manifest-3ebe2826142e40` | kong-oidc-auth-akshay | [open](records/lua-family-kong-oidc-auth-akshay-c2cb45c3.md) |
 | `luarocks_root_manifest-3f2dca9935245c` | danetool | [open](records/lua-family-danetool-cb390eaa.md) |
 | `luarocks_root_manifest-3f5bcfc1121fe9` | CognitioLogger | [open](records/lua-family-cognitiologger-a17a644e.md) |
 | `luarocks_root_manifest-3fa954794f5d42` | auto-theme.nvim | [open](records/lua-family-auto-theme-nvim-e84aae19.md) |
@@ -5374,7 +5357,6 @@
 | `luarocks_root_manifest-410732a4d8abc3` | fun-alloyed | [open](records/lua-family-fun-alloyed-f3b00eb2.md) |
 | `luarocks_root_manifest-411cc69feba88b` | Anarchy32 | [open](records/lua-family-anarchy32-01c14b49.md) |
 | `luarocks_root_manifest-41596df3ece35b` | jeejah | [open](records/lua-family-jeejah-642f1db1.md) |
-| `luarocks_root_manifest-417f7e7cd7bdec` | kong-lua-resty-http | [open](records/lua-family-kong-lua-resty-http-941d9c87.md) |
 | `luarocks_root_manifest-4194861f96da63` | chrome-devtools-client | [open](records/lua-family-chrome-devtools-client-6f359729.md) |
 | `luarocks_root_manifest-41d08b155e5a0b` | ahoicpp.nvim | [open](records/lua-family-ahoicpp-nvim-79d7628d.md) |
 | `luarocks_root_manifest-41fbdeea0c795f` | bgcrypto-aes | [open](records/lua-family-bgcrypto-aes-0825098f.md) |
@@ -5407,8 +5389,6 @@
 | `luarocks_root_manifest-45f80f8ea554b5` | chandra-toml | [open](records/lua-family-chandra-toml-81123d9d.md) |
 | `luarocks_root_manifest-461913224df2f1` | haskell-snippets.nvim | [open](records/lua-family-haskell-snippets-nvim-bbc03765.md) |
 | `luarocks_root_manifest-464c419dd3332b` | clopt | [open](records/lua-family-clopt-a67b5cdc.md) |
-| `luarocks_root_manifest-469966afa6238f` | kong-plugin-api-gateway-jurnal | [open](records/lua-family-kong-plugin-api-gateway-jurnal-a8e8faac.md) |
-| `luarocks_root_manifest-46cddf85fbe4e1` | kong-plugin-api-version | [open](records/lua-family-kong-plugin-api-version-511bd0eb.md) |
 | `luarocks_root_manifest-46d86dce7f942a` | AsciiCursor-Lua | [open](records/lua-family-asciicursor-lua-712a8bbb.md) |
 | `luarocks_root_manifest-46f22eae9174b1` | kong-client | [open](records/lua-family-kong-client-168b8f12.md) |
 | `luarocks_root_manifest-46fd8527c47de8` | bitness | [open](records/lua-family-bitness-614044f3.md) |
@@ -5420,13 +5400,11 @@
 | `luarocks_root_manifest-484f12fa4470cf` | kemi-test-suite | [open](records/lua-family-kemi-test-suite-acf8119c.md) |
 | `luarocks_root_manifest-48710b97eca79f` | kling4-app | [open](records/lua-family-kling4-app-86a2c923.md) |
 | `luarocks_root_manifest-48833df3b51504` | gonapps-url-router | [open](records/lua-family-gonapps-url-router-ed6cc04b.md) |
-| `luarocks_root_manifest-4890381d611b38` | kong-plugin-acp | [open](records/lua-family-kong-plugin-acp-63ce8517.md) |
 | `luarocks_root_manifest-48b29229ee99fb` | auproc | [open](records/lua-family-auproc-0dda5b9e.md) |
 | `luarocks_root_manifest-48bce00471d2a9` | CGILua | [open](records/lua-family-cgilua-39660023.md) |
 | `luarocks_root_manifest-48f165449b9758` | bpfaas | [open](records/lua-family-bpfaas-179ffbf4.md) |
 | `luarocks_root_manifest-4939f2c427925a` | ff-lua | [open](records/lua-family-ff-lua-b541e7a9.md) |
 | `luarocks_root_manifest-499654b99a13ef` | kikgit | [open](records/lua-family-kikgit-57bb5f0f.md) |
-| `luarocks_root_manifest-49a9ffcbd1d4d3` | kong-oauth-proxy | [open](records/lua-family-kong-oauth-proxy-e4e6d980.md) |
 | `luarocks_root_manifest-49ff9df620db72` | gentags.nvim | [open](records/lua-family-gentags-nvim-e4012879.md) |
 | `luarocks_root_manifest-4a1a687bafd8e4` | external-auth | [open](records/lua-family-external-auth-5c96edfe.md) |
 | `luarocks_root_manifest-4a30b1e1527009` | dawn | [open](records/lua-family-dawn-1a512844.md) |
@@ -5443,7 +5421,6 @@
 | `luarocks_root_manifest-4c067735a50c35` | beemovie | [open](records/lua-family-beemovie-1164173d.md) |
 | `luarocks_root_manifest-4c0fb4124b5031` | hlchunk.nvim | [open](records/lua-family-hlchunk-nvim-2cc4812c.md) |
 | `luarocks_root_manifest-4c185df26afa52` | cparser | [open](records/lua-family-cparser-656629e6.md) |
-| `luarocks_root_manifest-4c548a47799e14` | kong-lua-sandbox | [open](records/lua-family-kong-lua-sandbox-8f37ba94.md) |
 | `luarocks_root_manifest-4c69948f83ad14` | filehook | [open](records/lua-family-filehook-82f1c7bc.md) |
 | `luarocks_root_manifest-4c7b8d3de6c1fd` | flit.nvim | [open](records/lua-family-flit-nvim-8ba54c4c.md) |
 | `luarocks_root_manifest-4ca8a87a1be357` | cincau | [open](records/lua-family-cincau-39ff00dd.md) |
@@ -5453,7 +5430,6 @@
 | `luarocks_root_manifest-4cf70216389872` | AesFileEncrypt | [open](records/lua-family-aesfileencrypt-206e6762.md) |
 | `luarocks_root_manifest-4d0c64e78eb4f6` | hardhat.nvim | [open](records/lua-family-hardhat-nvim-ca4fc6b3.md) |
 | `luarocks_root_manifest-4d25cb32659ae5` | copilot-cmp | [open](records/lua-family-copilot-cmp-753af2d8.md) |
-| `luarocks_root_manifest-4d5536fa337f2a` | kong-plugin-abac | [open](records/lua-family-kong-plugin-abac-a5e3d438.md) |
 | `luarocks_root_manifest-4d723d9834c539` | getcwd | [open](records/lua-family-getcwd-c55253d0.md) |
 | `luarocks_root_manifest-4d8b6c76402b28` | alt-getopt | [open](records/lua-family-alt-getopt-8b5384e3.md) |
 | `luarocks_root_manifest-4d9048399e93e9` | centreon-stream-connectors-lib | [open](records/lua-family-centreon-stream-connectors-lib-3b210190.md) |
@@ -5474,7 +5450,6 @@
 | `luarocks_root_manifest-504ff08faa4427` | gemini-omni-ai | [open](records/lua-family-gemini-omni-ai-196c2e66.md) |
 | `luarocks_root_manifest-5059e3afe26dde` | httoolsp | [open](records/lua-family-httoolsp-23c89668.md) |
 | `luarocks_root_manifest-50890bc3a93ad3` | gonapps-url-encoder | [open](records/lua-family-gonapps-url-encoder-8827be4f.md) |
-| `luarocks_root_manifest-5089d0a5aa3771` | kong-oidc-v3 | [open](records/lua-family-kong-oidc-v3-05d47464.md) |
 | `luarocks_root_manifest-5095797b787ef1` | gemfetchr | [open](records/lua-family-gemfetchr-74db78ea.md) |
 | `luarocks_root_manifest-50d09a21b647c3` | cyan | [open](records/lua-family-cyan-c39fe8e3.md) |
 | `luarocks_root_manifest-50d976665ea112` | emojify | [open](records/lua-family-emojify-405fce30.md) |
@@ -5487,12 +5462,10 @@
 | `luarocks_root_manifest-521c9df7cb16d7` | babel | [open](records/lua-family-babel-4651219e.md) |
 | `luarocks_root_manifest-5232f97900d725` | commander.nvim | [open](records/lua-family-commander-nvim-8b886070.md) |
 | `luarocks_root_manifest-5241456232c6a7` | infwarerr | [open](records/lua-family-infwarerr-d846b171.md) |
-| `luarocks_root_manifest-52b19ee42fbcdc` | kong-https-redirect | [open](records/lua-family-kong-https-redirect-c1bd183a.md) |
 | `luarocks_root_manifest-52b58d84486a4b` | argcheck | [open](records/lua-family-argcheck-16afde2e.md) |
 | `luarocks_root_manifest-52ef2149dd55a0` | ftcsv | [open](records/lua-family-ftcsv-7d10a37d.md) |
 | `luarocks_root_manifest-53c61f34b44efc` | hnetxt-lua | [open](records/lua-family-hnetxt-lua-c1d55908.md) |
 | `luarocks_root_manifest-54050759be63e8` | diffs.nvim | [open](records/lua-family-diffs-nvim-3a53b60e.md) |
-| `luarocks_root_manifest-542e18228dc540` | kong-oidc-auth | [open](records/lua-family-kong-oidc-auth-e3df664c.md) |
 | `luarocks_root_manifest-545201039e7f24` | dromozoa-http | [open](records/lua-family-dromozoa-http-3ef5cc88.md) |
 | `luarocks_root_manifest-546033c629e245` | comvita-kong-oidc | [open](records/lua-family-comvita-kong-oidc-5c173f9c.md) |
 | `luarocks_root_manifest-5477fa6eca6fff` | blackjack | [open](records/lua-family-blackjack-a256ffb1.md) |
@@ -5510,7 +5483,6 @@
 | `luarocks_root_manifest-55ffbc84eb9fd2` | kong-forward-proxy | [open](records/lua-family-kong-forward-proxy-ee64ca9d.md) |
 | `luarocks_root_manifest-5614536f00aac5` | atbegshi | [open](records/lua-family-atbegshi-f43308e3.md) |
 | `luarocks_root_manifest-5626e4c8f51620` | benchy | [open](records/lua-family-benchy-498fc131.md) |
-| `luarocks_root_manifest-5633e7693ec271` | kong-lua-ffi-zlib | [open](records/lua-family-kong-lua-ffi-zlib-59f5a93e.md) |
 | `luarocks_root_manifest-564512515ce4fa` | etlua | [open](records/lua-family-etlua-c0c05473.md) |
 | `luarocks_root_manifest-564975e7c95194` | compat52 | [open](records/lua-family-compat52-538d6e1c.md) |
 | `luarocks_root_manifest-56501382cea8af` | fork3-sc-lua-resty-auto-ssl | [open](records/lua-family-fork3-sc-lua-resty-auto-ssl-e03bda8f.md) |
@@ -5518,7 +5490,6 @@
 | `luarocks_root_manifest-56626b892d4ab8` | ArluqTools | [open](records/lua-family-arluqtools-20515685.md) |
 | `luarocks_root_manifest-567cacf827995b` | http-codes.nvim | [open](records/lua-family-http-codes-nvim-951439ae.md) |
 | `luarocks_root_manifest-56a35302cdd4f3` | epstopdf-pkg | [open](records/lua-family-epstopdf-pkg-b654c55b.md) |
-| `luarocks_root_manifest-5714a60d0cef61` | kong-path-whitelist | [open](records/lua-family-kong-path-whitelist-e00b1a63.md) |
 | `luarocks_root_manifest-572afec452a233` | imagine20-com | [open](records/lua-family-imagine20-com-0717b354.md) |
 | `luarocks_root_manifest-57a2f023210e7b` | chroma | [open](records/lua-family-chroma-cc286b91.md) |
 | `luarocks_root_manifest-57cf7e5d71f1c1` | codec | [open](records/lua-family-codec-0a2b8891.md) |
@@ -5582,12 +5553,10 @@
 | `luarocks_root_manifest-609aece2dbc4e2` | jwt | [open](records/lua-family-jwt-bf959f0c.md) |
 | `luarocks_root_manifest-60bde0c47f7327` | adal-lua | [open](records/lua-family-adal-lua-4c94daa0.md) |
 | `luarocks_root_manifest-60f6cf27df3d56` | gamecake-wire | [open](records/lua-family-gamecake-wire-15a0b788.md) |
-| `luarocks_root_manifest-6106e584828a6d` | kong-oidc-plugin | [open](records/lua-family-kong-oidc-plugin-410fc6ce.md) |
 | `luarocks_root_manifest-610d8a4d10c066` | blitz-extensions | [open](records/lua-family-blitz-extensions-9af3c890.md) |
 | `luarocks_root_manifest-615cddb5d00b69` | cwtest | [open](records/lua-family-cwtest-73421c8b.md) |
 | `luarocks_root_manifest-618c0312ac271d` | alib.eventbus | [open](records/lua-family-alib-eventbus-e95d633c.md) |
 | `luarocks_root_manifest-61abd7774bc5b0` | bitazard | [open](records/lua-family-bitazard-b9f8804b.md) |
-| `luarocks_root_manifest-61adebe6a1f7db` | kong-oidc-maryucha | [open](records/lua-family-kong-oidc-maryucha-74f49765.md) |
 | `luarocks_root_manifest-61b8f50bdb31cc` | gesture.nvim | [open](records/lua-family-gesture-nvim-eb5ecd15.md) |
 | `luarocks_root_manifest-61ddb1e3f83479` | hyprmorph | [open](records/lua-family-hyprmorph-56ced00c.md) |
 | `luarocks_root_manifest-61e83a1a3a9e11` | howl | [open](records/lua-family-howl-b9ace9a6.md) |
@@ -5611,7 +5580,6 @@
 | `luarocks_root_manifest-659a948b68d7aa` | etoolbox | [open](records/lua-family-etoolbox-d9f5a06f.md) |
 | `luarocks_root_manifest-65b58f78ce52b1` | http | [open](records/lua-family-http-39d79070.md) |
 | `luarocks_root_manifest-65e3e1966f77df` | co2 | [open](records/lua-family-co2-ea33b42f.md) |
-| `luarocks_root_manifest-65fa224c02af05` | kong-jwt-firebase | [open](records/lua-family-kong-jwt-firebase-1af89408.md) |
 | `luarocks_root_manifest-660ec67c341106` | dropthe | [open](records/lua-family-dropthe-ae8450a1.md) |
 | `luarocks_root_manifest-66cd57dbfdf6d6` | iuplua-all | [open](records/lua-family-iuplua-all-331232a5.md) |
 | `luarocks_root_manifest-67a9df39154a4c` | amqp-client-rpc | [open](records/lua-family-amqp-client-rpc-17c56254.md) |
@@ -5631,7 +5599,6 @@
 | `luarocks_root_manifest-69863f2fbcb532` | cv | [open](records/lua-family-cv-500db48b.md) |
 | `luarocks_root_manifest-69aae03ab32a25` | cli | [open](records/lua-family-cli-911c4578.md) |
 | `luarocks_root_manifest-69b6822b0bdb11` | argon2 | [open](records/lua-family-argon2-5403f62b.md) |
-| `luarocks_root_manifest-69d988ab9fb714` | kong-kafka-custom-log | [open](records/lua-family-kong-kafka-custom-log-20cbb19d.md) |
 | `luarocks_root_manifest-6a431fdb8fd135` | autossl | [open](records/lua-family-autossl-83cb63a5.md) |
 | `luarocks_root_manifest-6a49c92197c786` | annotate | [open](records/lua-family-annotate-ea33f84e.md) |
 | `luarocks_root_manifest-6a5b842e700f39` | external-oauth2 | [open](records/lua-family-external-oauth2-213e656a.md) |
@@ -5657,7 +5624,6 @@
 | `luarocks_root_manifest-6d1b39f8f5a2fb` | instant.nvim | [open](records/lua-family-instant-nvim-d9004b3c.md) |
 | `luarocks_root_manifest-6d43ceb7cfd9bd` | copas-ev | [open](records/lua-family-copas-ev-4d037497.md) |
 | `luarocks_root_manifest-6d474deb72baa8` | gversion | [open](records/lua-family-gversion-1ded0ace.md) |
-| `luarocks_root_manifest-6da393fe59e9b9` | kong-lapis | [open](records/lua-family-kong-lapis-d4c9cdcc.md) |
 | `luarocks_root_manifest-6dad6215908006` | kminser | [open](records/lua-family-kminser-0730a294.md) |
 | `luarocks_root_manifest-6de2b279125d6a` | comment-box.nvim | [open](records/lua-family-comment-box-nvim-ab3b6621.md) |
 | `luarocks_root_manifest-6de5f368915ece` | date | [open](records/lua-family-date-6c1341e8.md) |
@@ -5701,7 +5667,6 @@
 | `luarocks_root_manifest-73489f0d5c7fe8` | cassandra | [open](records/lua-family-cassandra-b11b46af.md) |
 | `luarocks_root_manifest-737b41797445d9` | apply_patch_failed | [open](records/lua-family-apply-patch-failed-3c0be7f3.md) |
 | `luarocks_root_manifest-7392f978cd54e5` | bump-tl-type | [open](records/lua-family-bump-tl-type-42e709e1.md) |
-| `luarocks_root_manifest-73b826e63fdf85` | kong-influxdb | [open](records/lua-family-kong-influxdb-282fe1f6.md) |
 | `luarocks_root_manifest-73b8ed741bfc05` | git-worktree.nvim | [open](records/lua-family-git-worktree-nvim-1f403822.md) |
 | `luarocks_root_manifest-73fd5e875b735c` | ctrl-oidc-transformer | [open](records/lua-family-ctrl-oidc-transformer-d5ae2d71.md) |
 | `luarocks_root_manifest-740c628602e5f6` | hneutil-lua | [open](records/lua-family-hneutil-lua-d7c1ea29.md) |
@@ -5820,7 +5785,6 @@
 | `luarocks_root_manifest-84d24960e01638` | grail | [open](records/lua-family-grail-e8874c98.md) |
 | `luarocks_root_manifest-851a4e4c7a8f82` | buildkite-test-collector | [open](records/lua-family-buildkite-test-collector-778bd3bd.md) |
 | `luarocks_root_manifest-85cb19e933b7ac` | dyana | [open](records/lua-family-dyana-f8299ed9.md) |
-| `luarocks_root_manifest-862f6e6f86ddc5` | kong-plugin-Abtesting | [open](records/lua-family-kong-plugin-abtesting-a437a1e9.md) |
 | `luarocks_root_manifest-86599789a80700` | ezenv | [open](records/lua-family-ezenv-048c46cc.md) |
 | `luarocks_root_manifest-866da231911298` | eja | [open](records/lua-family-eja-47a603c0.md) |
 | `luarocks_root_manifest-8691f2916662e7` | filekit | [open](records/lua-family-filekit-f5dffc07.md) |
@@ -5879,7 +5843,6 @@
 | `luarocks_root_manifest-8db75d617f2cde` | deeptrace | [open](records/lua-family-deeptrace-d01a630c.md) |
 | `luarocks_root_manifest-8dbf1c9d3f420c` | ipcrypt | [open](records/lua-family-ipcrypt-0b97bf27.md) |
 | `luarocks_root_manifest-8df13ce0df52ce` | gpt-image-2-app | [open](records/lua-family-gpt-image-2-app-5814b30b.md) |
-| `luarocks_root_manifest-8df81042210e90` | kong-openid-connect | [open](records/lua-family-kong-openid-connect-956d0071.md) |
 | `luarocks_root_manifest-8dfa8db5092d77` | dromozoa-zmq | [open](records/lua-family-dromozoa-zmq-e1b577a8.md) |
 | `luarocks_root_manifest-8e132c5a68afb7` | ctablestack | [open](records/lua-family-ctablestack-6d7a99c9.md) |
 | `luarocks_root_manifest-8e1ce37139a427` | carray | [open](records/lua-family-carray-c6e42363.md) |
@@ -5896,7 +5859,6 @@
 | `luarocks_root_manifest-8fc9d576d71722` | argparse | [open](records/lua-family-argparse-52341100.md) |
 | `luarocks_root_manifest-8fcd1f5a339538` | fx | [open](records/lua-family-fx-c7e7eb22.md) |
 | `luarocks_root_manifest-8fd66be6caea1c` | jumper | [open](records/lua-family-jumper-81df9517.md) |
-| `luarocks_root_manifest-8fdd429c752582` | kong-pgmoon | [open](records/lua-family-kong-pgmoon-a84a7e10.md) |
 | `luarocks_root_manifest-9019df8fe88394` | imgui | [open](records/lua-family-imgui-fec217bc.md) |
 | `luarocks_root_manifest-901be46991ecfb` | ballerina.nvim | [open](records/lua-family-ballerina-nvim-c9654d98.md) |
 | `luarocks_root_manifest-904817d7f131e1` | cpml | [open](records/lua-family-cpml-8f02bae3.md) |
@@ -5969,7 +5931,6 @@
 | `luarocks_root_manifest-9a722bd6042dd3` | isa | [open](records/lua-family-isa-a4e249b9.md) |
 | `luarocks_root_manifest-9ad442f160b935` | elfutils | [open](records/lua-family-elfutils-d2a81a28.md) |
 | `luarocks_root_manifest-9ad5cae3eff3eb` | data | [open](records/lua-family-data-c8f957f3.md) |
-| `luarocks_root_manifest-9b3f08a96c8f47` | Kong-Path-Rewrite | [open](records/lua-family-kong-path-rewrite-4ad1cf86.md) |
 | `luarocks_root_manifest-9b682e1ec7d73e` | faker | [open](records/lua-family-faker-66f1fc11.md) |
 | `luarocks_root_manifest-9b921dfc7703e7` | altdoc | [open](records/lua-family-altdoc-716ffd1e.md) |
 | `luarocks_root_manifest-9ba28bb0e38429` | homie45 | [open](records/lua-family-homie45-5d70d29f.md) |
@@ -5999,7 +5960,6 @@
 | `luarocks_root_manifest-9e643b75038d61` | johngrib.hammerspoon.winmove | [open](records/lua-family-johngrib-hammerspoon-winmove-f9ea4fd2.md) |
 | `luarocks_root_manifest-9e87f6b4663b11` | hello-world | [open](records/lua-family-hello-world-dda3d164.md) |
 | `luarocks_root_manifest-9ea783557d2309` | ai.nvim | [open](records/lua-family-ai-nvim-eefc0913.md) |
-| `luarocks_root_manifest-9ecb1f3bfad241` | kong-path-based-routing | [open](records/lua-family-kong-path-based-routing-2723d6df.md) |
 | `luarocks_root_manifest-9ecdb01f591368` | clipboard-image.nvim | [open](records/lua-family-clipboard-image-nvim-d786b7df.md) |
 | `luarocks_root_manifest-9f152d1bfcac20` | hotpot.nvim | [open](records/lua-family-hotpot-nvim-4217991d.md) |
 | `luarocks_root_manifest-9f1bed603828c0` | cosy-instance | [open](records/lua-family-cosy-instance-bcee6744.md) |
@@ -6119,7 +6079,6 @@
 | `luarocks_root_manifest-af1fbf3d8b3db2` | hungarian | [open](records/lua-family-hungarian-658a2845.md) |
 | `luarocks_root_manifest-af53733ddbb765` | dump | [open](records/lua-family-dump-2d156eb6.md) |
 | `luarocks_root_manifest-b00a69988a283f` | bufdelete.nvim | [open](records/lua-family-bufdelete-nvim-feacc398.md) |
-| `luarocks_root_manifest-b011972e8d6b8d` | kong-payload-size-limiting | [open](records/lua-family-kong-payload-size-limiting-462b81b5.md) |
 | `luarocks_root_manifest-b037a1c7dce230` | grapheme | [open](records/lua-family-grapheme-dc674e8c.md) |
 | `luarocks_root_manifest-b03e5f03bcde13` | dwarfspec | [open](records/lua-family-dwarfspec-3784163e.md) |
 | `luarocks_root_manifest-b0495dcf8c2d3a` | bump | [open](records/lua-family-bump-0521426c.md) |
@@ -6130,7 +6089,6 @@
 | `luarocks_root_manifest-b117fe6b2d50db` | feed.nvim | [open](records/lua-family-feed-nvim-98a471e4.md) |
 | `luarocks_root_manifest-b11ec276f575de` | geezifylua | [open](records/lua-family-geezifylua-6a86b759.md) |
 | `luarocks_root_manifest-b156f279a948ee` | codeium.nvim | [open](records/lua-family-codeium-nvim-d905664a.md) |
-| `luarocks_root_manifest-b15c530a1391db` | kong-oidc-by-prashanth | [open](records/lua-family-kong-oidc-by-prashanth-aeddf78f.md) |
 | `luarocks_root_manifest-b1600d6f547443` | AbacatePaySDK | [open](records/lua-family-abacatepaysdk-c8a5cfc8.md) |
 | `luarocks_root_manifest-b1807f115e1e35` | dromozoa-parser | [open](records/lua-family-dromozoa-parser-6957510b.md) |
 | `luarocks_root_manifest-b1f3549d6b26a6` | jsonschema-gitless | [open](records/lua-family-jsonschema-gitless-5f8af00e.md) |
@@ -6140,7 +6098,6 @@
 | `luarocks_root_manifest-b26d9dbe5966ce` | dlopen | [open](records/lua-family-dlopen-b45872a2.md) |
 | `luarocks_root_manifest-b27eefe70f5a7f` | kong-event-pub | [open](records/lua-family-kong-event-pub-b074056d.md) |
 | `luarocks_root_manifest-b2a20013074448` | cycle-cache | [open](records/lua-family-cycle-cache-c6ae8948.md) |
-| `luarocks_root_manifest-b2c06d8240fddc` | kong-plugin-add-header-to-request | [open](records/lua-family-kong-plugin-add-header-to-request-84d4643b.md) |
 | `luarocks_root_manifest-b32765b020965e` | heaps | [open](records/lua-family-heaps-4b3de13b.md) |
 | `luarocks_root_manifest-b33a012eddf0e4` | iswap.nvim | [open](records/lua-family-iswap-nvim-3571f779.md) |
 | `luarocks_root_manifest-b3559d2dd0b403` | cartesix | [open](records/lua-family-cartesix-d3a28b06.md) |
@@ -6184,7 +6141,6 @@
 | `luarocks_root_manifest-b881fbe4f93a85` | jevko.lua | [open](records/lua-family-jevko-lua-3d7c32d6.md) |
 | `luarocks_root_manifest-b8b14ac8af12ee` | deviant | [open](records/lua-family-deviant-bb6832fa.md) |
 | `luarocks_root_manifest-b8b9ebe958500c` | io-fileno | [open](records/lua-family-io-fileno-980846cd.md) |
-| `luarocks_root_manifest-b8d2e214ce89eb` | kong-openid-v3 | [open](records/lua-family-kong-openid-v3-cc648ef4.md) |
 | `luarocks_root_manifest-b8e18e7f2dbf0e` | Eccles | [open](records/lua-family-eccles-123beea0.md) |
 | `luarocks_root_manifest-b90a64e2be5c7a` | flux-2-ai-app | [open](records/lua-family-flux-2-ai-app-4d435d74.md) |
 | `luarocks_root_manifest-b97b6468b56fdc` | arweave | [open](records/lua-family-arweave-9d5902fa.md) |
@@ -6194,7 +6150,6 @@
 | `luarocks_root_manifest-ba05d1d322cc5e` | eff | [open](records/lua-family-eff-bbdf5978.md) |
 | `luarocks_root_manifest-ba11430c7052b3` | dbus_proxy | [open](records/lua-family-dbus-proxy-b0ed3e74.md) |
 | `luarocks_root_manifest-ba187faf74668f` | createtable | [open](records/lua-family-createtable-154e2b57.md) |
-| `luarocks_root_manifest-ba219a2a544c95` | kong-lua-resty-kafka | [open](records/lua-family-kong-lua-resty-kafka-7d315582.md) |
 | `luarocks_root_manifest-ba7213595fb8fe` | gc_metatable | [open](records/lua-family-gc-metatable-01015534.md) |
 | `luarocks_root_manifest-ba82b30b544198` | claude-image-app | [open](records/lua-family-claude-image-app-cc4a0601.md) |
 | `luarocks_root_manifest-baa14f1afd2dff` | bit32 | [open](records/lua-family-bit32-db08638d.md) |
@@ -6206,7 +6161,6 @@
 | `luarocks_root_manifest-bbd4a6c78d1036` | dromozoa-calendar | [open](records/lua-family-dromozoa-calendar-9962678c.md) |
 | `luarocks_root_manifest-bbec6c869f88f8` | embedders.sile | [open](records/lua-family-embedders-sile-c181df8d.md) |
 | `luarocks_root_manifest-bbfd5b223ab1d7` | fib-recursion | [open](records/lua-family-fib-recursion-74c5f12a.md) |
-| `luarocks_root_manifest-bc0ab0626bf66a` | kong-opa-plugin | [open](records/lua-family-kong-opa-plugin-ab2a9d8c.md) |
 | `luarocks_root_manifest-bc0beafb41cd6d` | form-multipart | [open](records/lua-family-form-multipart-83f07a80.md) |
 | `luarocks_root_manifest-bc24e3575f0143` | geo-fencing | [open](records/lua-family-geo-fencing-a002eed1.md) |
 | `luarocks_root_manifest-bc28d47cc3901f` | emitter.tl | [open](records/lua-family-emitter-tl-0421071b.md) |
@@ -6234,12 +6188,10 @@
 | `luarocks_root_manifest-bf8ef14d7a05ef` | graphics-cfg | [open](records/lua-family-graphics-cfg-155b5204.md) |
 | `luarocks_root_manifest-bf9e070adbc0d7` | iwi | [open](records/lua-family-iwi-0f2c844e.md) |
 | `luarocks_root_manifest-bfa0f4777e3f0d` | add | [open](records/lua-family-add-c5dc5a71.md) |
-| `luarocks_root_manifest-bfad1776ecfb9c` | kong-o2b-ticketing | [open](records/lua-family-kong-o2b-ticketing-9bab5c15.md) |
 | `luarocks_root_manifest-c00e30cafc8bc0` | dialplan | [open](records/lua-family-dialplan-3d23dc16.md) |
 | `luarocks_root_manifest-c0429dbe3b9914` | gamecake-kissfft | [open](records/lua-family-gamecake-kissfft-2ff7bd00.md) |
 | `luarocks_root_manifest-c0547079ab4328` | adf2md | [open](records/lua-family-adf2md-d4583830.md) |
 | `luarocks_root_manifest-c072ab1b8e4faa` | hotswap-lfs | [open](records/lua-family-hotswap-lfs-d52c487c.md) |
-| `luarocks_root_manifest-c0a512959c720d` | kong-oidc | [open](records/lua-family-kong-oidc-95bc78d4.md) |
 | `luarocks_root_manifest-c0d9b64341f86b` | amber-apigw | [open](records/lua-family-amber-apigw-ae6efaf4.md) |
 | `luarocks_root_manifest-c0ef7cb6303fd3` | aitextwatermarkremover-tools | [open](records/lua-family-aitextwatermarkremover-tools-cedeabf4.md) |
 | `luarocks_root_manifest-c107da2b4c95a3` | glow.nvim | [open](records/lua-family-glow-nvim-aee7b969.md) |
@@ -6254,21 +6206,18 @@
 | `luarocks_root_manifest-c274770110b3b0` | bufferline.nvim | [open](records/lua-family-bufferline-nvim-d29771c8.md) |
 | `luarocks_root_manifest-c27c99d5526728` | example | [open](records/lua-family-example-7af6ff60.md) |
 | `luarocks_root_manifest-c2f25f2715c12e` | com.logiceditor.fork.LXSH | [open](records/lua-family-com-logiceditor-fork-lxsh-28d6634f.md) |
-| `luarocks_root_manifest-c408053c026357` | kong-lua-resty-jwt | [open](records/lua-family-kong-lua-resty-jwt-28a685fe.md) |
 | `luarocks_root_manifest-c415b919762b4a` | fcgi | [open](records/lua-family-fcgi-01fef315.md) |
 | `luarocks_root_manifest-c483981d04f0a2` | kong-egress-proxy | [open](records/lua-family-kong-egress-proxy-ff5cf687.md) |
 | `luarocks_root_manifest-c4b1b9a2e75408` | ber | [open](records/lua-family-ber-f77814b3.md) |
 | `luarocks_root_manifest-c4e298f27c5a8a` | iresty-nginx-lua-prometheus | [open](records/lua-family-iresty-nginx-lua-prometheus-06be8a1b.md) |
 | `luarocks_root_manifest-c4e2ed2ada18ef` | guess-indent.nvim | [open](records/lua-family-guess-indent-nvim-e9abddc8.md) |
 | `luarocks_root_manifest-c5263067eefa14` | chrono | [open](records/lua-family-chrono-1b3701b9.md) |
-| `luarocks_root_manifest-c5265a2d7fe089` | kong-kafka-log-plus | [open](records/lua-family-kong-kafka-log-plus-da2dd84f.md) |
 | `luarocks_root_manifest-c53498c036f64e` | bitlib | [open](records/lua-family-bitlib-0e6af0dd.md) |
 | `luarocks_root_manifest-c587901a48129c` | glance.nvim | [open](records/lua-family-glance-nvim-b28bc5b6.md) |
 | `luarocks_root_manifest-c58e273c2d09b5` | chaboksms | [open](records/lua-family-chaboksms-792ea10c.md) |
 | `luarocks_root_manifest-c59045c88aed44` | canola-collection | [open](records/lua-family-canola-collection-c662ec85.md) |
 | `luarocks_root_manifest-c5afc8f995e4d5` | convert-charsets | [open](records/lua-family-convert-charsets-34db0996.md) |
 | `luarocks_root_manifest-c5c175ee0f534b` | hectorm-fork-http | [open](records/lua-family-hectorm-fork-http-730959d8.md) |
-| `luarocks_root_manifest-c5e8b8b692f161` | kong-lua-resty-redis-connector | [open](records/lua-family-kong-lua-resty-redis-connector-5eb15960.md) |
 | `luarocks_root_manifest-c63930b4c62960` | astrocarto-org | [open](records/lua-family-astrocarto-org-bbf192d9.md) |
 | `luarocks_root_manifest-c65bf2d8e8691b` | ipqs-db-reader | [open](records/lua-family-ipqs-db-reader-f8710f22.md) |
 | `luarocks_root_manifest-c6e1a8d7bd7bde` | hgateway-sdk | [open](records/lua-family-hgateway-sdk-236376e3.md) |
@@ -6278,7 +6227,6 @@
 | `luarocks_root_manifest-c7c9063110a4cd` | brightness | [open](records/lua-family-brightness-c111227f.md) |
 | `luarocks_root_manifest-c7f53aad3f8019` | ioex | [open](records/lua-family-ioex-0eb48e60.md) |
 | `luarocks_root_manifest-c7f63dad0221ab` | fourier | [open](records/lua-family-fourier-afe95fd6.md) |
-| `luarocks_root_manifest-c7fb86a53d8028` | kong-plugin-amqp | [open](records/lua-family-kong-plugin-amqp-2915101f.md) |
 | `luarocks_root_manifest-c7fe1dcbe93667` | giturlparser | [open](records/lua-family-giturlparser-49ab6f20.md) |
 | `luarocks_root_manifest-c813b5129ca00a` | dromozoa-regexp | [open](records/lua-family-dromozoa-regexp-5f6583f7.md) |
 | `luarocks_root_manifest-c820d428b2ab6b` | ccrunx | [open](records/lua-family-ccrunx-124e2de2.md) |
@@ -6305,8 +6253,6 @@
 | `luarocks_root_manifest-cacaf5a42c0252` | gitlink.nvim | [open](records/lua-family-gitlink-nvim-fb1bcd8b.md) |
 | `luarocks_root_manifest-cad78b3a8ce342` | faceless-reels-links | [open](records/lua-family-faceless-reels-links-19baa2d8.md) |
 | `luarocks_root_manifest-caefd084c0b9ac` | cfg | [open](records/lua-family-cfg-638bc5f9.md) |
-| `luarocks_root_manifest-cb1a735cfd3193` | kong-plugin-acl-keycloak | [open](records/lua-family-kong-plugin-acl-keycloak-80333908.md) |
-| `luarocks_root_manifest-cb29d81f2f337c` | kong-plugin-acme | [open](records/lua-family-kong-plugin-acme-efa776f1.md) |
 | `luarocks_root_manifest-cbca08d5d461bf` | cw | [open](records/lua-family-cw-357ac92c.md) |
 | `luarocks_root_manifest-cc2ed67afe1b2d` | fsrouter | [open](records/lua-family-fsrouter-996a0bba.md) |
 | `luarocks_root_manifest-cc3492cad78fa3` | byteask.nvim | [open](records/lua-family-byteask-nvim-a73a8d35.md) |
@@ -6328,7 +6274,6 @@
 | `luarocks_root_manifest-ce0a13e566e0c2` | coro-http-luv | [open](records/lua-family-coro-http-luv-f2bf4a58.md) |
 | `luarocks_root_manifest-ce25de864087b8` | atmos | [open](records/lua-family-atmos-8b547020.md) |
 | `luarocks_root_manifest-ce2d83e6123ee6` | injarg | [open](records/lua-family-injarg-6f3e7835.md) |
-| `luarocks_root_manifest-ce42d80a84f4b2` | kong-oidc-test | [open](records/lua-family-kong-oidc-test-4ba90163.md) |
 | `luarocks_root_manifest-ce72fc2769a8d3` | bear | [open](records/lua-family-bear-d4d9f8fd.md) |
 | `luarocks_root_manifest-cf6f4854306951` | form | [open](records/lua-family-form-3ccd1e4f.md) |
 | `luarocks_root_manifest-cf7693e640bc50` | harpseal | [open](records/lua-family-harpseal-c41e733a.md) |
@@ -6352,7 +6297,6 @@
 | `luarocks_root_manifest-d37ef859acc59d` | awesomewm-autostart | [open](records/lua-family-awesomewm-autostart-4c2012b1.md) |
 | `luarocks_root_manifest-d396c999448060` | evo | [open](records/lua-family-evo-aaa74414.md) |
 | `luarocks_root_manifest-d3b15bd585ed56` | io-write | [open](records/lua-family-io-write-bf3c348f.md) |
-| `luarocks_root_manifest-d3bb7898266c81` | kong-oidc-ng | [open](records/lua-family-kong-oidc-ng-648a01ca.md) |
 | `luarocks_root_manifest-d3bec4c649b63a` | forget | [open](records/lua-family-forget-89a29e70.md) |
 | `luarocks_root_manifest-d3ccca6f2a3785` | bint | [open](records/lua-family-bint-17614521.md) |
 | `luarocks_root_manifest-d401252139db60` | artemis | [open](records/lua-family-artemis-93c75f47.md) |
@@ -6372,7 +6316,6 @@
 | `luarocks_root_manifest-d6aa4d9777f8c6` | errno | [open](records/lua-family-errno-f8099883.md) |
 | `luarocks_root_manifest-d6b2d6b00cd7e0` | distant.nvim | [open](records/lua-family-distant-nvim-24983b75.md) |
 | `luarocks_root_manifest-d6e3aa9935dcaf` | kong-cluster-drain | [open](records/lua-family-kong-cluster-drain-662b1e8c.md) |
-| `luarocks_root_manifest-d6e4b525790d46` | kong-plugin-add-header | [open](records/lua-family-kong-plugin-add-header-be9584bc.md) |
 | `luarocks_root_manifest-d6e7444e712944` | fast-faker | [open](records/lua-family-fast-faker-f8d820a4.md) |
 | `luarocks_root_manifest-d71413efddef30` | amqp | [open](records/lua-family-amqp-ff04986d.md) |
 | `luarocks_root_manifest-d71e883cba21af` | ffiex | [open](records/lua-family-ffiex-b4b69a9b.md) |
@@ -6403,10 +6346,8 @@
 | `luarocks_root_manifest-daff1f1e3060de` | hello | [open](records/lua-family-hello-7444d9eb.md) |
 | `luarocks_root_manifest-db25466f6514ba` | classe | [open](records/lua-family-classe-5dea0596.md) |
 | `luarocks_root_manifest-db2efc754de00f` | Data2String | [open](records/lua-family-data2string-89001445.md) |
-| `luarocks_root_manifest-db92e06c28363d` | kong-oidc-v2 | [open](records/lua-family-kong-oidc-v2-12e46042.md) |
 | `luarocks_root_manifest-db937c829c9949` | barbecue.nvim | [open](records/lua-family-barbecue-nvim-32e4808e.md) |
 | `luarocks_root_manifest-dbb3e62910753f` | depgraph | [open](records/lua-family-depgraph-06273e16.md) |
-| `luarocks_root_manifest-dbb612380125ce` | kong-mtls-validate | [open](records/lua-family-kong-mtls-validate-262c3658.md) |
 | `luarocks_root_manifest-dc29aacc519b25` | icu | [open](records/lua-family-icu-96131aea.md) |
 | `luarocks_root_manifest-dc415558e00948` | gabby-lua | [open](records/lua-family-gabby-lua-26a4442a.md) |
 | `luarocks_root_manifest-dc8b23ef814cef` | amalg | [open](records/lua-family-amalg-957d4df7.md) |
@@ -6418,7 +6359,6 @@
 | `luarocks_root_manifest-dd7dce38dab331` | alpha-nvim | [open](records/lua-family-alpha-nvim-abade896.md) |
 | `luarocks_root_manifest-ddb1f52caceb1e` | api7-lua-resty-redis-connector | [open](records/lua-family-api7-lua-resty-redis-connector-169e2330.md) |
 | `luarocks_root_manifest-de2209cbb66c1c` | getenv | [open](records/lua-family-getenv-8833380e.md) |
-| `luarocks_root_manifest-de30f21f291301` | kong-ip-location | [open](records/lua-family-kong-ip-location-381cac0c.md) |
 | `luarocks_root_manifest-de3a52b6247d2e` | hexterm | [open](records/lua-family-hexterm-f1ccef17.md) |
 | `luarocks_root_manifest-de9624a21c990d` | a6s.nvim | [open](records/lua-family-a6s-nvim-18695648.md) |
 | `luarocks_root_manifest-deae1f21d18693` | kong-easter-eggs | [open](records/lua-family-kong-easter-eggs-29af3992.md) |
@@ -6435,7 +6375,6 @@
 | `luarocks_root_manifest-e05642bd444bbe` | fcitx5-ui.nvim | [open](records/lua-family-fcitx5-ui-nvim-20a4b51a.md) |
 | `luarocks_root_manifest-e0594893ccdd0b` | image-atlas | [open](records/lua-family-image-atlas-16fbcda5.md) |
 | `luarocks_root_manifest-e071f8751f0ecb` | import-cost.nvim | [open](records/lua-family-import-cost-nvim-f72bff42.md) |
-| `luarocks_root_manifest-e08126d632a436` | kong-mocking-advanced | [open](records/lua-family-kong-mocking-advanced-24d056b3.md) |
 | `luarocks_root_manifest-e0821ccb65c6b4` | autoclose.nvim | [open](records/lua-family-autoclose-nvim-3f15dc88.md) |
 | `luarocks_root_manifest-e08b0a6742e258` | decide | [open](records/lua-family-decide-3b8f2951.md) |
 | `luarocks_root_manifest-e0d45f561daa7e` | beamer | [open](records/lua-family-beamer-0e41dd4c.md) |
@@ -6493,7 +6432,6 @@
 | `luarocks_root_manifest-e9825f34e49ca6` | goto-preview | [open](records/lua-family-goto-preview-7a494f50.md) |
 | `luarocks_root_manifest-e98adb763ff286` | busted-jsonl | [open](records/lua-family-busted-jsonl-0c5a0cb4.md) |
 | `luarocks_root_manifest-e9a76ad91fc91c` | enapter-ucm | [open](records/lua-family-enapter-ucm-1288b661.md) |
-| `luarocks_root_manifest-e9afb0566130a4` | kong-jwt-claim-headers | [open](records/lua-family-kong-jwt-claim-headers-ba1a22f8.md) |
 | `luarocks_root_manifest-e9c374a693a9f0` | HarryPlotter | [open](records/lua-family-harryplotter-3f5453e9.md) |
 | `luarocks_root_manifest-e9eb9d15915946` | coro-wrapper | [open](records/lua-family-coro-wrapper-58dfe1db.md) |
 | `luarocks_root_manifest-e9f11b3050a678` | chalk | [open](records/lua-family-chalk-fbf46ebe.md) |
@@ -6528,7 +6466,6 @@
 | `luarocks_root_manifest-eebe2d819558c9` | families | [open](records/lua-family-families-724f9d14.md) |
 | `luarocks_root_manifest-eed0a01ab813c2` | fullscript-kong-oidc | [open](records/lua-family-fullscript-kong-oidc-7668e549.md) |
 | `luarocks_root_manifest-eed7bece43cd50` | binarystream | [open](records/lua-family-binarystream-5238b177.md) |
-| `luarocks_root_manifest-eede6adde54d09` | kong-path-allow | [open](records/lua-family-kong-path-allow-cc4ff489.md) |
 | `luarocks_root_manifest-eedf11d53efd05` | call | [open](records/lua-family-call-644a8878.md) |
 | `luarocks_root_manifest-ef0236d80c57e5` | Cosmo | [open](records/lua-family-cosmo-81a1e0fd.md) |
 | `luarocks_root_manifest-ef21dc7d73e000` | base58 | [open](records/lua-family-base58-dc8a68f1.md) |
@@ -6542,8 +6479,6 @@
 | `luarocks_root_manifest-f0947e660b0971` | flowlio-ai | [open](records/lua-family-flowlio-ai-fd416ec1.md) |
 | `luarocks_root_manifest-f0a45b18a8def1` | duck-nvim | [open](records/lua-family-duck-nvim-016320f9.md) |
 | `luarocks_root_manifest-f0d80fb67d838d` | auth-plugin-configr | [open](records/lua-family-auth-plugin-configr-e8761c43.md) |
-| `luarocks_root_manifest-f0f34617857a2f` | kong-plugin-add-headers | [open](records/lua-family-kong-plugin-add-headers-0211a488.md) |
-| `luarocks_root_manifest-f0faabb174841e` | kong-jwt2header-raftx24 | [open](records/lua-family-kong-jwt2header-raftx24-86f81985.md) |
 | `luarocks_root_manifest-f103217f5ae87c` | htmlparser | [open](records/lua-family-htmlparser-1711ad28.md) |
 | `luarocks_root_manifest-f12625b6126ccf` | azy.nvim | [open](records/lua-family-azy-nvim-a7d326af.md) |
 | `luarocks_root_manifest-f12bb9dde2b3aa` | bamboo.nvim | [open](records/lua-family-bamboo-nvim-ff1625d2.md) |
@@ -6572,7 +6507,6 @@
 | `luarocks_root_manifest-f4d67f8aee3722` | brigid | [open](records/lua-family-brigid-258863f9.md) |
 | `luarocks_root_manifest-f4e5caab59f60b` | http_server | [open](records/lua-family-http-server-f028246b.md) |
 | `luarocks_root_manifest-f51b95fc2c2e91` | commonmark | [open](records/lua-family-commonmark-a52a5d2c.md) |
-| `luarocks_root_manifest-f53b32ac2701a2` | kong-kafka-log | [open](records/lua-family-kong-kafka-log-5f75529f.md) |
 | `luarocks_root_manifest-f582586eab6450` | gleam-lua | [open](records/lua-family-gleam-lua-a98effce.md) |
 | `luarocks_root_manifest-f5a0e2000a107c` | finally | [open](records/lua-family-finally-ce7ca323.md) |
 | `luarocks_root_manifest-f5ac2532d89a3a` | canceler | [open](records/lua-family-canceler-230b2a76.md) |
@@ -6591,11 +6525,9 @@
 | `luarocks_root_manifest-f76f358f65c111` | gxs-auth | [open](records/lua-family-gxs-auth-0853731f.md) |
 | `luarocks_root_manifest-f77a85de8eaacf` | chat.nvim | [open](records/lua-family-chat-nvim-b6d0377c.md) |
 | `luarocks_root_manifest-f77ae51739ffb2` | dromozoa-compiler | [open](records/lua-family-dromozoa-compiler-363c8d74.md) |
-| `luarocks_root_manifest-f796d7b02fd049` | kong-opa | [open](records/lua-family-kong-opa-fec02bb8.md) |
 | `luarocks_root_manifest-f797c3121f3576` | gamecake-tardis | [open](records/lua-family-gamecake-tardis-0a717ebf.md) |
 | `luarocks_root_manifest-f7c650f6fef0d4` | ccrunx-image | [open](records/lua-family-ccrunx-image-6fb59a10.md) |
 | `luarocks_root_manifest-f823e32a6b0f9e` | gitlinker.nvim | [open](records/lua-family-gitlinker-nvim-613e7fe9.md) |
-| `luarocks_root_manifest-f84fecec55dec7` | kong-plugin-api-key-access-control | [open](records/lua-family-kong-plugin-api-key-access-control-3c340dc8.md) |
 | `luarocks_root_manifest-f8af208dd8942b` | expadom | [open](records/lua-family-expadom-8db5e519.md) |
 | `luarocks_root_manifest-f8e1677dfed7ec` | awesome-freedesktop | [open](records/lua-family-awesome-freedesktop-e8e9eff5.md) |
 | `luarocks_root_manifest-f8e2044e895010` | autohydraz | [open](records/lua-family-autohydraz-95a1ea4a.md) |
@@ -6611,7 +6543,6 @@
 | `luarocks_root_manifest-fb7457adc41323` | indexedpng | [open](records/lua-family-indexedpng-6a68b055.md) |
 | `luarocks_root_manifest-fb8762c161408c` | com.logiceditor.fork.crc32 | [open](records/lua-family-com-logiceditor-fork-crc32-f46ce2b1.md) |
 | `luarocks_root_manifest-fb912448733b24` | HelloLuarocks | [open](records/lua-family-helloluarocks-0fb3d970.md) |
-| `luarocks_root_manifest-fbc6941b5795a0` | kong-oidc-ws-rbac | [open](records/lua-family-kong-oidc-ws-rbac-9b260545.md) |
 | `luarocks_root_manifest-fbd0ca7db2eb04` | bencode | [open](records/lua-family-bencode-0ea2b6af.md) |
 | `luarocks_root_manifest-fc45760751c671` | cc-teal | [open](records/lua-family-cc-teal-10ac307d.md) |
 | `luarocks_root_manifest-fc5c4b210ee689` | fmtstr | [open](records/lua-family-fmtstr-31df1d2c.md) |
@@ -6899,12 +6830,14 @@
 | `npm_registry-01e734551651e3` | prettier-quick | [open](records/node-js-javascript-prettier-quick-335e2f8f.md) |
 | `npm_registry-01ebae9970394f` | @ganintegrity/prettier-config | [open](records/node-js-javascript-ganintegrity-prettier-config-5beefee3.md) |
 | `npm_registry-022969c07a84f3` | @vscode/sandbox-runtime | [open](records/node-js-javascript-vscode-sandbox-runtime-7698def6.md) |
+| `npm_registry-025ad4c1bbca8c` | cls-proxify | [open](records/node-js-javascript-cls-proxify-27c2e107.md) |
 | `npm_registry-025ca49bc27c34` | eslint-plugin-segment-security | [open](records/node-js-javascript-eslint-plugin-segment-security-1f6409d1.md) |
 | `npm_registry-02666f16dfa706` | md5-typescript | [open](records/node-js-typescript-md5-typescript-3633f93c.md) |
 | `npm_registry-028b129df9a40e` | parse-headers | [open](records/node-js-javascript-parse-headers-4f4bea79.md) |
 | `npm_registry-0294fa01987131` | typescript-plugin-css-modules | [open](records/node-js-typescript-typescript-plugin-css-modules-f37fdd9b.md) |
 | `npm_registry-029b44e961c459` | @trigger.dev/build | [open](records/node-js-javascript-trigger-dev-build-cd1c4137.md) |
 | `npm_registry-029c53886d79eb` | @ghostery/trackerdb | [open](records/node-js-javascript-ghostery-trackerdb-5dd64d2a.md) |
+| `npm_registry-02aa689179e508` | ionic-logging-service | [open](records/node-js-javascript-ionic-logging-service-6338e5a6.md) |
 | `npm_registry-02bc7a3e0be71a` | lusca | [open](records/node-js-javascript-lusca-c190fdc0.md) |
 | `npm_registry-02d07296fb577e` | @turbo/linux-arm64 | [open](records/node-js-javascript-turbo-linux-arm64-35013446.md) |
 | `npm_registry-02f98b3816cfa8` | jest-enzyme | [open](records/node-js-javascript-jest-enzyme-2e9860c3.md) |
@@ -6918,6 +6851,7 @@
 | `npm_registry-03d9bd89ba5fb8` | @nuxt/cli | [open](records/node-js-javascript-nuxt-cli-f015cf50.md) |
 | `npm_registry-03dc1347a98c71` | @aleph-alpha/prettier-config-frontend | [open](records/node-js-javascript-aleph-alpha-prettier-config-frontend-e7e612ee.md) |
 | `npm_registry-03e2394acf698b` | @unhead/bundler | [open](records/node-js-javascript-unhead-bundler-cf7fff1e.md) |
+| `npm_registry-03f412ec4b5d54` | @hibas123/logging | [open](records/node-js-javascript-hibas123-logging-85c98781.md) |
 | `npm_registry-0416199a7dd90f` | @toolbox-sdk/server | [open](records/node-js-javascript-toolbox-sdk-server-6410dd9c.md) |
 | `npm_registry-04450062e604ac` | prettier-plugin-slidev | [open](records/node-js-javascript-prettier-plugin-slidev-fc7f18ee.md) |
 | `npm_registry-044e23bc765711` | @payloadcms/drizzle | [open](records/node-js-javascript-payloadcms-drizzle-2f19cf5b.md) |
@@ -6936,10 +6870,12 @@
 | `npm_registry-067aa7d9bb8fdc` | nice-grpc-server-reflection | [open](records/node-js-javascript-nice-grpc-server-reflection-9e04e3b6.md) |
 | `npm_registry-06b4dfb26cb99c` | @backstage/cli-module-migrate | [open](records/node-js-javascript-backstage-cli-module-migrate-92ee8753.md) |
 | `npm_registry-06c628050a5daa` | passport-http-bearer | [open](records/node-js-javascript-passport-http-bearer-80670eed.md) |
+| `npm_registry-06d728f821506d` | @google-cloud/logging-bunyan | [open](records/node-js-javascript-google-cloud-logging-bunyan-56a334a2.md) |
 | `npm_registry-06f29180a63b6a` | @cubejs-backend/ksql-driver | [open](records/node-js-javascript-cubejs-backend-ksql-driver-8e496938.md) |
 | `npm_registry-06f79ec08bae8a` | webdav-server | [open](records/node-js-javascript-webdav-server-cd484fd8.md) |
 | `npm_registry-071ce350b53023` | micri | [open](records/node-js-javascript-micri-b1b94b79.md) |
 | `npm_registry-073dda1f4116ee` | @graphql-codegen/typescript-resolvers | [open](records/node-js-typescript-graphql-codegen-typescript-resolvers-f7c66dad.md) |
+| `npm_registry-074e93fe71a4df` | @cap-js/audit-logging | [open](records/node-js-javascript-cap-js-audit-logging-d5387948.md) |
 | `npm_registry-07558094b384f1` | react-test-config | [open](records/node-js-javascript-react-test-config-242388d1.md) |
 | `npm_registry-0766e92a402c16` | @nodearch/cli | [open](records/node-js-javascript-nodearch-cli-688b2067.md) |
 | `npm_registry-076cbc9da0ce26` | @cypress/request | [open](records/node-js-javascript-cypress-request-1a554a17.md) |
@@ -7016,15 +6952,18 @@
 | `npm_registry-0e65ab724811b1` | deep-eql | [open](records/node-js-javascript-deep-eql-322ba5f8.md) |
 | `npm_registry-0e66c0e9431a7c` | eslint-plugin-regex | [open](records/node-js-javascript-eslint-plugin-regex-bcb617e3.md) |
 | `npm_registry-0e6af1a7e5ee12` | babel-plugin-macros | [open](records/node-js-javascript-babel-plugin-macros-2b1fe666.md) |
+| `npm_registry-0e72d372f3d9f8` | axios-debug-log | [open](records/node-js-javascript-axios-debug-log-07a28227.md) |
 | `npm_registry-0e8ea6b3a270ed` | prettier-tslint | [open](records/node-js-typescript-prettier-tslint-8cec4350.md) |
 | `npm_registry-0ea2453e85110d` | oci-databasemigration | [open](records/node-js-javascript-oci-databasemigration-75576e9b.md) |
 | `npm_registry-0ea8128b06e3a0` | @backstage/cli-module-auth | [open](records/node-js-javascript-backstage-cli-module-auth-a9ad6c6b.md) |
+| `npm_registry-0ebf4436af3031` | @subsquid/logger | [open](records/node-js-javascript-subsquid-logger-e4c79f0d.md) |
 | `npm_registry-0ecf3b6ffc6318` | @wordpress/prettier-config | [open](records/node-js-javascript-wordpress-prettier-config-abcde91b.md) |
 | `npm_registry-0ef6295678806c` | http_ece | [open](records/node-js-javascript-http-ece-cb4c250a.md) |
 | `npm_registry-0f1aec3a33d7fa` | @opentelemetry/instrumentation-redis | [open](records/node-js-javascript-opentelemetry-instrumentation-redis-4dfe6bde.md) |
 | `npm_registry-0f26e17dac60cc` | @deephaven/prettier-config | [open](records/node-js-javascript-deephaven-prettier-config-d61fa375.md) |
 | `npm_registry-0f2fd384a035bf` | fumadocs-typescript | [open](records/node-js-typescript-fumadocs-typescript-eb59aebd.md) |
 | `npm_registry-0f35923893fca7` | jiti | [open](records/node-js-typescript-jiti-ca2d06b1.md) |
+| `npm_registry-0f448ec3da3303` | @hocuspocus/extension-logger | [open](records/node-js-javascript-hocuspocus-extension-logger-91eb77f2.md) |
 | `npm_registry-0f73b70c5b1e0f` | @apidevtools/swagger-methods | [open](records/node-js-javascript-apidevtools-swagger-methods-971e6ccd.md) |
 | `npm_registry-0fae933ae4f256` | @brightlayer-ui/prettier-config | [open](records/node-js-javascript-brightlayer-ui-prettier-config-a6539f50.md) |
 | `npm_registry-0fcb6e052730d4` | @nestjs/cli | [open](records/node-js-javascript-nestjs-cli-f43d760a.md) |
@@ -7036,6 +6975,7 @@
 | `npm_registry-10485ea9a8d2ff` | ag-grid-testing | [open](records/node-js-javascript-ag-grid-testing-18866aa9.md) |
 | `npm_registry-1049ffadc96d53` | opt-cli | [open](records/node-js-javascript-opt-cli-112fd8c5.md) |
 | `npm_registry-104ac409feefaa` | ESLint | [open](records/node-js-javascript-eslint-1dbc1c3d.md) |
+| `npm_registry-108c41ead16d71` | lighthouse-logger | [open](records/node-js-javascript-lighthouse-logger-a833353d.md) |
 | `npm_registry-109da345865559` | prettier-eslint | [open](records/node-js-javascript-prettier-eslint-f0067058.md) |
 | `npm_registry-10e5430e0babe3` | eslint-plugin-browser-security | [open](records/node-js-javascript-eslint-plugin-browser-security-14198305.md) |
 | `npm_registry-10f8fb2aa01706` | less-openui5 | [open](records/node-js-javascript-less-openui5-3c8f69e5.md) |
@@ -7045,8 +6985,10 @@
 | `npm_registry-11509a677a644f` | ember-cli-preprocess-registry | [open](records/node-js-javascript-ember-cli-preprocess-registry-edb5fe8a.md) |
 | `npm_registry-116658710e6e51` | eslint-config-prettier | [open](records/node-js-javascript-eslint-config-prettier-4a222ff5.md) |
 | `npm_registry-1174e71c2fd032` | @types/mdast | [open](records/node-js-typescript-types-mdast-ec074f5c.md) |
+| `npm_registry-1198168421372b` | @metamask-previews/logging-controller | [open](records/node-js-javascript-metamask-previews-logging-controller-d36e718c.md) |
 | `npm_registry-11c4a5fa323853` | @prisma/language-server | [open](records/node-js-javascript-prisma-language-server-e4ebd39b.md) |
 | `npm_registry-11cbdf78c3a736` | @npm-questionpro/wick-ui-prettier-config | [open](records/node-js-javascript-npm-questionpro-wick-ui-prettier-config-edd1ae3d.md) |
+| `npm_registry-1207446bb54fda` | @rsdk/logging | [open](records/node-js-javascript-rsdk-logging-f178a051.md) |
 | `npm_registry-1237b1f6216138` | babel-plugin-transform-react-remove-prop-types | [open](records/node-js-javascript-babel-plugin-transform-react-remove-prop-types-e97f5c96.md) |
 | `npm_registry-124080386a601a` | database-updates | [open](records/node-js-javascript-database-updates-56b1559f.md) |
 | `npm_registry-12558067d94e4a` | windmill-cli | [open](records/node-js-javascript-windmill-cli-71546be7.md) |
@@ -7063,6 +7005,7 @@
 | `npm_registry-1323f2970298b4` | eufy-security-client | [open](records/node-js-javascript-eufy-security-client-c71e9b2b.md) |
 | `npm_registry-134014d43c70ac` | @darabonba/typescript | [open](records/node-js-typescript-darabonba-typescript-62d89134.md) |
 | `npm_registry-1369f8b61b36ef` | lodash._basevalues | [open](records/node-js-javascript-lodash-basevalues-1d8c602d.md) |
+| `npm_registry-1374dc9f1e75af` | @croct/logging | [open](records/node-js-javascript-croct-logging-2e83c24a.md) |
 | `npm_registry-1376a796375a67` | @testing-library/react-native | [open](records/node-js-javascript-testing-library-react-native-7bafb331.md) |
 | `npm_registry-137adf2e7a55bb` | relay-test-utils | [open](records/node-js-javascript-relay-test-utils-4eaeabd8.md) |
 | `npm_registry-13a28e7a33c094` | eslint-config-standard-jsx | [open](records/node-js-javascript-eslint-config-standard-jsx-a8b07ce8.md) |
@@ -7070,7 +7013,9 @@
 | `npm_registry-13e31d78574701` | eslint-plugin-es | [open](records/node-js-javascript-eslint-plugin-es-46a9c5ae.md) |
 | `npm_registry-13e79d30a8392c` | security | [open](records/node-js-javascript-security-a05fa77e.md) |
 | `npm_registry-13f5cb1277b33f` | @lightdash/cli | [open](records/node-js-javascript-lightdash-cli-ba24b859.md) |
+| `npm_registry-141919309aa34b` | @e280/sten | [open](records/node-js-javascript-e280-sten-f258adeb.md) |
 | `npm_registry-142fb3173d074a` | @studiometa/prettier-config | [open](records/node-js-javascript-studiometa-prettier-config-4ccebbbb.md) |
+| `npm_registry-143e4df2163837` | @loglayer/transport-datadog | [open](records/node-js-javascript-loglayer-transport-datadog-9bc8f128.md) |
 | `npm_registry-14511be355d0dc` | eslint-plugin-node-security | [open](records/node-js-javascript-eslint-plugin-node-security-abc03048.md) |
 | `npm_registry-14533fa0c01ac3` | eslint-plugin-prettier-vue | [open](records/node-js-javascript-eslint-plugin-prettier-vue-3ba0e558.md) |
 | `npm_registry-14561c2e362068` | @matter-server/ws-client | [open](records/node-js-javascript-matter-server-ws-client-b27d342f.md) |
@@ -7085,6 +7030,7 @@
 | `npm_registry-15253378339838` | protobufjs | [open](records/node-js-typescript-protobufjs-c24c258e.md) |
 | `npm_registry-1527844f720467` | mysql-memory-server | [open](records/node-js-javascript-mysql-memory-server-0530429f.md) |
 | `npm_registry-1538c3de35d455` | kalshi-typescript | [open](records/node-js-typescript-kalshi-typescript-4b831813.md) |
+| `npm_registry-1542bee9077284` | express-requests-logger | [open](records/node-js-javascript-express-requests-logger-17551a83.md) |
 | `npm_registry-154682b8caddd1` | @proteinjs/reflection-build | [open](records/node-js-javascript-proteinjs-reflection-build-81afe7e9.md) |
 | `npm_registry-15485ab0245f0e` | prettier-plugin-hermes-parser | [open](records/node-js-javascript-prettier-plugin-hermes-parser-b1e1eebf.md) |
 | `npm_registry-1555b7e637f8a9` | @percy/selenium-webdriver | [open](records/node-js-javascript-percy-selenium-webdriver-9f80bd32.md) |
@@ -7101,11 +7047,13 @@
 | `npm_registry-1649c0805421f6` | @osskit/prettier-config | [open](records/node-js-javascript-osskit-prettier-config-2a40fe8e.md) |
 | `npm_registry-165d21348c611a` | @tolgee/cli | [open](records/node-js-javascript-tolgee-cli-d1f3c98e.md) |
 | `npm_registry-1671360903782f` | bash-language-server | [open](records/node-js-javascript-bash-language-server-d49ee5f7.md) |
+| `npm_registry-16804b7dfeeed9` | @boost/log | [open](records/node-js-javascript-boost-log-dfb358ab.md) |
 | `npm_registry-16a06d33df905f` | http-mitm-proxy | [open](records/node-js-javascript-http-mitm-proxy-9ed355a8.md) |
 | `npm_registry-16f149bf24e836` | @leaflink/dom-testing-utils | [open](records/node-js-javascript-leaflink-dom-testing-utils-1cdf420f.md) |
 | `npm_registry-16f6825dd8e62b` | @ui5/mcp-server | [open](records/node-js-javascript-ui5-mcp-server-ed5f5678.md) |
 | `npm_registry-16fb4e8c8315d7` | @sap-ux/fiori-mcp-server | [open](records/node-js-javascript-sap-ux-fiori-mcp-server-8a2a94b2.md) |
 | `npm_registry-170bdc2efb233d` | vite-tsconfig-paths | [open](records/node-js-typescript-vite-tsconfig-paths-199c6b4f.md) |
+| `npm_registry-17382384e90ca2` | browser-bunyan | [open](records/node-js-javascript-browser-bunyan-2acc61f8.md) |
 | `npm_registry-17500f60e5434c` | react-native-ts-authentication | [open](records/node-js-javascript-react-native-ts-authentication-1181f0e0.md) |
 | `npm_registry-1774db13c4dbf7` | oci-globallydistributeddatabase | [open](records/node-js-javascript-oci-globallydistributeddatabase-bfdb3ade.md) |
 | `npm_registry-177a7349480ef5` | tslint-angular-security | [open](records/node-js-javascript-tslint-angular-security-57204f3c.md) |
@@ -7120,6 +7068,7 @@
 | `npm_registry-1812bc27cc4bb4` | http-cache-middleware | [open](records/node-js-javascript-http-cache-middleware-b998fdf3.md) |
 | `npm_registry-1820021b88ab64` | @rushstack/rush-amazon-s3-build-cache-plugin | [open](records/node-js-javascript-rushstack-rush-amazon-s3-build-cache-plugin-e5d7b6a2.md) |
 | `npm_registry-182b6b03f8d1f7` | @amplitude/experiment-node-server | [open](records/node-js-javascript-amplitude-experiment-node-server-fbcf3912.md) |
+| `npm_registry-1832185104995c` | slonik | [open](records/node-js-javascript-slonik-3be1daa0.md) |
 | `npm_registry-183c62b7261e62` | @percy/appium-app | [open](records/node-js-javascript-percy-appium-app-cbe82335.md) |
 | `npm_registry-186918b909fb39` | @lit-labs/testing | [open](records/node-js-javascript-lit-labs-testing-d60ae5c5.md) |
 | `npm_registry-18af78321e54d1` | @unocss/eslint-plugin | [open](records/node-js-javascript-unocss-eslint-plugin-75c7c785.md) |
@@ -7147,11 +7096,14 @@
 | `npm_registry-1aa6f14ca1e832` | securehybridapptesting | [open](records/node-js-javascript-securehybridapptesting-18eca19f.md) |
 | `npm_registry-1adce1bbbcf3fe` | @netlify/local-functions-proxy | [open](records/node-js-javascript-netlify-local-functions-proxy-60ef06f4.md) |
 | `npm_registry-1aea53b191e18d` | embedded-postgres | [open](records/node-js-javascript-embedded-postgres-81b10610.md) |
+| `npm_registry-1b255fea462bac` | heimdalljs-logger | [open](records/node-js-javascript-heimdalljs-logger-a0e3422a.md) |
+| `npm_registry-1b3642a6185885` | named-logs | [open](records/node-js-javascript-named-logs-9bbd0df8.md) |
 | `npm_registry-1b51fd8552d431` | @rollup/plugin-typescript | [open](records/node-js-typescript-rollup-plugin-typescript-f04c897d.md) |
 | `npm_registry-1b5691362cee99` | prettier-plugin-pkg | [open](records/node-js-javascript-prettier-plugin-pkg-c9df3d26.md) |
 | `npm_registry-1b686c8dd8e8d6` | @sentry-internal/server-utils | [open](records/node-js-javascript-sentry-internal-server-utils-a01f24ba.md) |
 | `npm_registry-1b832af22d33d4` | ts-debounce | [open](records/node-js-typescript-ts-debounce-8faf490c.md) |
 | `npm_registry-1b8b86347faf3f` | aurelia-testing | [open](records/node-js-javascript-aurelia-testing-d45a261e.md) |
+| `npm_registry-1ba8c9bcdc7e5d` | frog | [open](records/node-js-javascript-frog-c83b0c51.md) |
 | `npm_registry-1bac7f0d4eba4c` | @leancodepl/prettier-config | [open](records/node-js-javascript-leancodepl-prettier-config-490fbd6d.md) |
 | `npm_registry-1bae1d88cb2b37` | @react-native/eslint-config | [open](records/node-js-javascript-react-native-eslint-config-a4e2f01b.md) |
 | `npm_registry-1bb30f24b5b6b1` | Vite | [open](records/node-js-javascript-vite-241844ca.md) |
@@ -7174,15 +7126,19 @@
 | `npm_registry-1dd1c48eb7209b` | @stripe/cli | [open](records/node-js-javascript-stripe-cli-f2f9a188.md) |
 | `npm_registry-1ddde15b9a22dd` | @newrelic/security-agent | [open](records/node-js-javascript-newrelic-security-agent-d2475226.md) |
 | `npm_registry-1ddeebffc26ab8` | @comunica/actor-http-fetch | [open](records/node-js-javascript-comunica-actor-http-fetch-e8b274f9.md) |
+| `npm_registry-1e011d17c95bb9` | @google-cloud/logging-min | [open](records/node-js-javascript-google-cloud-logging-min-531ca996.md) |
 | `npm_registry-1e055da695e449` | database-js-mysql | [open](records/node-js-javascript-database-js-mysql-7f76b22a.md) |
 | `npm_registry-1e58da1849978d` | codeceptjs-dbhelper | [open](records/node-js-javascript-codeceptjs-dbhelper-2297da0e.md) |
 | `npm_registry-1ebcbfe03428d6` | @apollo/server-gateway-interface | [open](records/node-js-javascript-apollo-server-gateway-interface-242837fc.md) |
 | `npm_registry-1ed3239c4bdb12` | eslint-interactive | [open](records/node-js-javascript-eslint-interactive-e4fedb95.md) |
 | `npm_registry-1edb37bf1f94a4` | @gltf-transform/cli | [open](records/node-js-javascript-gltf-transform-cli-56392446.md) |
+| `npm_registry-1ef720a4b1d82b` | google-logging-utils | [open](records/node-js-javascript-google-logging-utils-77de47f7.md) |
 | `npm_registry-1f182186c09348` | @turnkey/webauthn-stamper | [open](records/node-js-javascript-turnkey-webauthn-stamper-5e47fd7c.md) |
+| `npm_registry-1f2af6a4c797f7` | slf | [open](records/node-js-javascript-slf-d3a9769c.md) |
 | `npm_registry-1f5b21fd8dbf9e` | @postman/tunnel-agent | [open](records/node-js-javascript-postman-tunnel-agent-35b427d1.md) |
 | `npm_registry-1f5fa2efdfb96a` | server-destroy | [open](records/node-js-javascript-server-destroy-b5d1e648.md) |
 | `npm_registry-1f80d60d895241` | @jackietreeh0rn/homebridge-blink-security | [open](records/node-js-javascript-jackietreeh0rn-homebridge-blink-security-20d7c668.md) |
+| `npm_registry-1f82df322998cd` | @loglayer/transport-pino | [open](records/node-js-javascript-loglayer-transport-pino-6a268bf7.md) |
 | `npm_registry-1f91290fe6778c` | cli-simple-table | [open](records/node-js-javascript-cli-simple-table-5aad5bbc.md) |
 | `npm_registry-1f9329727c078a` | livekit-server-sdk | [open](records/node-js-javascript-livekit-server-sdk-36c69b7e.md) |
 | `npm_registry-1fa27cda7d944f` | eslint-plugin-react-web-api | [open](records/node-js-javascript-eslint-plugin-react-web-api-175843b7.md) |
@@ -7205,6 +7161,7 @@
 | `npm_registry-2153d3a1459441` | @babel/helper-builder-react-jsx | [open](records/node-js-javascript-babel-helper-builder-react-jsx-e53542ed.md) |
 | `npm_registry-2158311c12f9fe` | @redux-saga/testing-utils | [open](records/node-js-javascript-redux-saga-testing-utils-600a4a68.md) |
 | `npm_registry-215c96d9cc081b` | @prettier/plugin-xml | [open](records/node-js-javascript-prettier-plugin-xml-23b3c42e.md) |
+| `npm_registry-2185276ff97cea` | log-driver | [open](records/node-js-javascript-log-driver-94c5a6b7.md) |
 | `npm_registry-218b49cf6509e4` | @typescript/typescript-linux-s390x | [open](records/node-js-typescript-typescript-typescript-linux-s390x-0c277f30.md) |
 | `npm_registry-2198aecc9e8fab` | @luigi-project/testing-utilities | [open](records/node-js-javascript-luigi-project-testing-utilities-f1c63dd6.md) |
 | `npm_registry-21992bf4d67351` | eslint-config-turbo | [open](records/node-js-javascript-eslint-config-turbo-91983904.md) |
@@ -7217,6 +7174,7 @@
 | `npm_registry-2207494f7dc5c4` | ngx-translate-testing | [open](records/node-js-javascript-ngx-translate-testing-45664b62.md) |
 | `npm_registry-2242a3d5ef42e6` | dsn-parser | [open](records/node-js-javascript-dsn-parser-36d98f75.md) |
 | `npm_registry-226754fe547c5d` | @opentelemetry/instrumentation-http | [open](records/node-js-javascript-opentelemetry-instrumentation-http-46c5cd91.md) |
+| `npm_registry-2267c94067192c` | @pnp/logging | [open](records/node-js-javascript-pnp-logging-7af90765.md) |
 | `npm_registry-228591c72a9620` | @agentx-fast/security | [open](records/node-js-javascript-agentx-fast-security-197d4f6d.md) |
 | `npm_registry-22ad2c6a7d0259` | @cubejs-backend/bigquery-driver | [open](records/node-js-javascript-cubejs-backend-bigquery-driver-5b2b13fc.md) |
 | `npm_registry-22b8fb5200864e` | @sunrun-security/sr-sec-ts-sns-logger | [open](records/node-js-typescript-sunrun-security-sr-sec-ts-sns-logger-d2a945db.md) |
@@ -7229,13 +7187,17 @@
 | `npm_registry-234b08d853a63e` | @nezam.ai/runtime-js-database | [open](records/node-js-javascript-nezam-ai-runtime-js-database-4e22a0f7.md) |
 | `npm_registry-2382266e7d091a` | @percy/cypress | [open](records/node-js-javascript-percy-cypress-f70f3e03.md) |
 | `npm_registry-2382597ddfcfc7` | @cornerstonejs/codec-openjph | [open](records/node-js-javascript-cornerstonejs-codec-openjph-66c5e93b.md) |
+| `npm_registry-238889384c9f57` | @libp2p/logger | [open](records/node-js-javascript-libp2p-logger-03de2873.md) |
 | `npm_registry-238bf4045ad571` | database-js-common | [open](records/node-js-javascript-database-js-common-bcacc2b7.md) |
+| `npm_registry-238c65f5bd158b` | captains-log | [open](records/node-js-javascript-captains-log-d420d7bf.md) |
 | `npm_registry-23985f2118469c` | @types/eslint | [open](records/node-js-typescript-types-eslint-b0e8ba85.md) |
 | `npm_registry-239d2b3454265d` | scenario-mock-server | [open](records/node-js-javascript-scenario-mock-server-f050837e.md) |
 | `npm_registry-23a2de628863fa` | prettier-plugin-erb | [open](records/node-js-javascript-prettier-plugin-erb-c681002c.md) |
 | `npm_registry-23aade8b76a6cc` | @stacksjs/database | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
 | `npm_registry-23be11f1bace85` | @nrwl/cli | [open](records/node-js-javascript-nrwl-cli-a2fcaff6.md) |
+| `npm_registry-23c4dcae3a137a` | @logtape/logtape | [open](records/node-js-javascript-logtape-logtape-47aa4902.md) |
 | `npm_registry-23cf2aae7f6716` | prettier-html-templates | [open](records/node-js-javascript-prettier-html-templates-5c8f2937.md) |
+| `npm_registry-23fbcfa9e206b9` | @vechain/sdk-logging | [open](records/node-js-javascript-vechain-sdk-logging-1f3c19e1.md) |
 | `npm_registry-240aae4df9bcbb` | @ember/test-helpers | [open](records/node-js-javascript-ember-test-helpers-4de3b607.md) |
 | `npm_registry-240fa8ca2d23c0` | @strapi/database | [open](records/node-js-javascript-strapi-database-c0f9aa77.md) |
 | `npm_registry-2446d74cbb955c` | dbinfoz | [open](records/node-js-javascript-dbinfoz-b21656b6.md) |
@@ -7269,6 +7231,7 @@
 | `npm_registry-26fe282d706ea6` | @logux/server | [open](records/node-js-javascript-logux-server-52acd2a3.md) |
 | `npm_registry-27120f9083d06b` | prettier-plugin-edgejs | [open](records/node-js-javascript-prettier-plugin-edgejs-e11ae46c.md) |
 | `npm_registry-273097fe40ed36` | @sentry/server-utils | [open](records/node-js-javascript-sentry-server-utils-6969bfc8.md) |
+| `npm_registry-274248bc2a8c86` | koa-pino-logger | [open](records/node-js-javascript-koa-pino-logger-9d7f3d40.md) |
 | `npm_registry-2792da409c4940` | @contract-case/case-definition-dsl | [open](records/node-js-javascript-contract-case-case-definition-dsl-76b8823d.md) |
 | `npm_registry-27a79235e3e8f2` | @redocly/mock-server | [open](records/node-js-javascript-redocly-mock-server-e03ee3f4.md) |
 | `npm_registry-27b64c60f823ce` | tuple-database | [open](records/node-js-javascript-tuple-database-32f6feb3.md) |
@@ -7279,6 +7242,7 @@
 | `npm_registry-280280c9268470` | @harperfast/integration-testing | [open](records/node-js-javascript-harperfast-integration-testing-74df7215.md) |
 | `npm_registry-2826b049c2a17e` | @valora/prettier-config | [open](records/node-js-javascript-valora-prettier-config-b3d160c7.md) |
 | `npm_registry-2841aee588fd4a` | cli-list | [open](records/node-js-javascript-cli-list-7bdddc61.md) |
+| `npm_registry-2845b2788fe34c` | lws-request-monitor | [open](records/node-js-javascript-lws-request-monitor-14ea0e68.md) |
 | `npm_registry-284fc31c25cad0` | @transcend-io/mcp-server-inventory | [open](records/node-js-javascript-transcend-io-mcp-server-inventory-9bc583b1.md) |
 | `npm_registry-2860d2fb4bd379` | @cubejs-backend/vertica-driver | [open](records/node-js-javascript-cubejs-backend-vertica-driver-55bdb4b8.md) |
 | `npm_registry-28baea796ee110` | har-schema | [open](records/node-js-javascript-har-schema-879e7fa1.md) |
@@ -7353,6 +7317,7 @@
 | `npm_registry-2e5be47b925f08` | @discord/intl-message-database-linux-x64-musl | [open](records/node-js-javascript-discord-intl-message-database-linux-x64-musl-e2238082.md) |
 | `npm_registry-2e62f1a20535ca` | should-http | [open](records/node-js-javascript-should-http-c069ca1b.md) |
 | `npm_registry-2e70f25419c592` | opennextjs-cloudflare | [open](records/node-js-javascript-opennextjs-cloudflare-42e932e6.md) |
+| `npm_registry-2e8cee68c4746f` | @adobe/helix-log | [open](records/node-js-javascript-adobe-helix-log-45ce7dc4.md) |
 | `npm_registry-2e947a6e381cfa` | @types/http-server | [open](records/node-js-typescript-types-http-server-3566037a.md) |
 | `npm_registry-2ee47bd5787c62` | eslint-plugin-jsdoc | [open](records/node-js-javascript-eslint-plugin-jsdoc-1bb1192b.md) |
 | `npm_registry-2f1dc16aff88a2` | circle-ir | [open](records/node-js-javascript-circle-ir-b722af8a.md) |
@@ -7363,6 +7328,7 @@
 | `npm_registry-2f83afb0bd9b58` | react-hooks-testing-library | [open](records/node-js-javascript-react-hooks-testing-library-634ba4d5.md) |
 | `npm_registry-2f8beab9d6c172` | apollo-server-testing | [open](records/node-js-javascript-apollo-server-testing-28477bb5.md) |
 | `npm_registry-2fc10d1e0bea41` | @sentry/cli-linux-arm | [open](records/node-js-javascript-sentry-cli-linux-arm-5ed1afae.md) |
+| `npm_registry-2fdce376de163e` | @relaycorp/pino-cloud | [open](records/node-js-javascript-relaycorp-pino-cloud-19140352.md) |
 | `npm_registry-30358293449d0b` | @percy/cli-command | [open](records/node-js-javascript-percy-cli-command-d44d97d1.md) |
 | `npm_registry-30810bf86c875d` | @yottameta/yotta-security-audit | [open](records/node-js-javascript-yottameta-yotta-security-audit-d6d852a7.md) |
 | `npm_registry-308f770329d3a2` | apollo-link-batch-http | [open](records/node-js-javascript-apollo-link-batch-http-240bcb9e.md) |
@@ -7410,6 +7376,7 @@
 | `npm_registry-33d57991cea0c3` | testing | [open](records/node-js-javascript-testing-3ac55664.md) |
 | `npm_registry-33f21c10b362e6` | @onekeyfe/hd-transport-http | [open](records/node-js-javascript-onekeyfe-hd-transport-http-f0d7fe79.md) |
 | `npm_registry-340a895351d2a0` | @redocly/openapi-core | [open](records/node-js-javascript-redocly-openapi-core-1c72c325.md) |
+| `npm_registry-34200b3309999c` | log | [open](records/node-js-javascript-log-70188b82.md) |
 | `npm_registry-3437a16c21627e` | level | [open](records/node-js-javascript-level-68ee3625.md) |
 | `npm_registry-343941909636fb` | queue-typescript | [open](records/node-js-typescript-queue-typescript-b794d850.md) |
 | `npm_registry-346c722fc6b69c` | @dontdoit/security | [open](records/node-js-javascript-dontdoit-security-a1a2315d.md) |
@@ -7422,6 +7389,7 @@
 | `npm_registry-350210b4e7b034` | @types/debug | [open](records/node-js-typescript-types-debug-80c14374.md) |
 | `npm_registry-350f78305fcbbb` | @statoscope/cli | [open](records/node-js-javascript-statoscope-cli-1183dedd.md) |
 | `npm_registry-356559e5f34828` | tunnel | [open](records/node-js-javascript-tunnel-efffa304.md) |
+| `npm_registry-3571984443ef81` | oci-logging | [open](records/node-js-javascript-oci-logging-82dcb398.md) |
 | `npm_registry-35bdb2c5563b9b` | thingies | [open](records/node-js-typescript-thingies-d5a157fe.md) |
 | `npm_registry-35bfbe5f9ef54e` | better-npm-audit | [open](records/node-js-javascript-better-npm-audit-76e8e8a1.md) |
 | `npm_registry-3628edb4edd042` | @cordova/eslint-config | [open](records/node-js-javascript-cordova-eslint-config-af2fb448.md) |
@@ -7460,6 +7428,7 @@
 | `npm_registry-39493e65b9c6c0` | eslint-plugin-vitest-globals | [open](records/node-js-javascript-eslint-plugin-vitest-globals-4fbd760f.md) |
 | `npm_registry-397e3efd1993ae` | vike-server | [open](records/node-js-javascript-vike-server-2ff6a7c8.md) |
 | `npm_registry-3990a3245a51fd` | @backstage/cli | [open](records/node-js-javascript-backstage-cli-a88e309b.md) |
+| `npm_registry-39c26e877c861e` | @decaf-ts/logging | [open](records/node-js-javascript-decaf-ts-logging-613180b2.md) |
 | `npm_registry-3a382d03e343d1` | @tradle/react-native-http | [open](records/node-js-javascript-tradle-react-native-http-58f291cc.md) |
 | `npm_registry-3a3b6f2fac3946` | @shopify/eslint-plugin | [open](records/node-js-javascript-shopify-eslint-plugin-da6ca165.md) |
 | `npm_registry-3a564a8c1eecd5` | scrypted-eufy-security | [open](records/node-js-javascript-scrypted-eufy-security-86566ab2.md) |
@@ -7481,12 +7450,14 @@
 | `npm_registry-3c016fb9ef270c` | @typescript-eslint/types | [open](records/node-js-typescript-typescript-eslint-types-3c8390f0.md) |
 | `npm_registry-3c623e0f6a907f` | @turbo/windows-64 | [open](records/node-js-javascript-turbo-windows-64-f13c1d1e.md) |
 | `npm_registry-3c7e5db929f8ac` | cdktn-cli | [open](records/node-js-javascript-cdktn-cli-39c1a49b.md) |
+| `npm_registry-3c876bee7cf8f1` | @js-soft/logging-abstractions | [open](records/node-js-javascript-js-soft-logging-abstractions-d8b4f542.md) |
 | `npm_registry-3ca37b7ddb423a` | pouchdb | [open](records/node-js-javascript-pouchdb-d0670929.md) |
 | `npm_registry-3cb19bd35c578e` | @googleworkspace/cli | [open](records/node-js-javascript-googleworkspace-cli-61e43374.md) |
 | `npm_registry-3cd79334249cb4` | @opentelemetry/exporter-logs-otlp-proto | [open](records/node-js-javascript-opentelemetry-exporter-logs-otlp-proto-08b9a55a.md) |
 | `npm_registry-3ce902c9b701c1` | hdb | [open](records/node-js-javascript-hdb-4cb3aca9.md) |
 | `npm_registry-3cebafdd48595f` | jest-image-snapshot | [open](records/node-js-javascript-jest-image-snapshot-b9dddd24.md) |
 | `npm_registry-3cedacd094ea15` | structured-headers | [open](records/node-js-javascript-structured-headers-06c81359.md) |
+| `npm_registry-3cfe0dc67d32e7` | node-loggly-bulk | [open](records/node-js-javascript-node-loggly-bulk-d4af5ebe.md) |
 | `npm_registry-3d70af820f98a6` | @angular/cli | [open](records/node-js-javascript-angular-cli-8e368136.md) |
 | `npm_registry-3d813482d2d650` | @backstage/cli-module-info | [open](records/node-js-javascript-backstage-cli-module-info-a4c2c9d6.md) |
 | `npm_registry-3d8ab417de9159` | @maizzle/cli | [open](records/node-js-javascript-maizzle-cli-a7a13457.md) |
@@ -7503,12 +7474,15 @@
 | `npm_registry-3e1c39e80b0596` | vscode-languageserver-protocol | [open](records/node-js-javascript-vscode-languageserver-protocol-52ae5259.md) |
 | `npm_registry-3e22914eb806bf` | umd | [open](records/node-js-javascript-umd-35045ea1.md) |
 | `npm_registry-3e28cbdb3b6c7a` | @unocss/cli | [open](records/node-js-javascript-unocss-cli-c357f3f3.md) |
+| `npm_registry-3e2a2916b9ed77` | loglayer | [open](records/node-js-javascript-loglayer-d0b60ecd.md) |
 | `npm_registry-3e882adb7e8283` | graphology-types | [open](records/node-js-typescript-graphology-types-7e889b9a.md) |
 | `npm_registry-3ef6cf80f2e153` | websql | [open](records/node-js-javascript-websql-43de3791.md) |
 | `npm_registry-3efe681489042e` | @maxminddatabase/geolite2 | [open](records/node-js-javascript-maxminddatabase-geolite2-f679c34e.md) |
 | `npm_registry-3f17ec291a0cbd` | eslint-config-eslint | [open](records/node-js-javascript-eslint-config-eslint-e0af9401.md) |
 | `npm_registry-3f1b61829ab05b` | eslint-plugin-jsonc | [open](records/node-js-javascript-eslint-plugin-jsonc-b56db610.md) |
+| `npm_registry-3f4c13d9dc2594` | winston-cloud-logging | [open](records/node-js-javascript-winston-cloud-logging-ea2f428d.md) |
 | `npm_registry-3f570e296eac81` | etag | [open](records/node-js-javascript-etag-fe6e290a.md) |
+| `npm_registry-3f59b41fed37fe` | @twin.org/logging-models | [open](records/node-js-javascript-twin-org-logging-models-d6fe7e19.md) |
 | `npm_registry-3f6f5a791a26b1` | sparql-http-client | [open](records/node-js-javascript-sparql-http-client-a995b980.md) |
 | `npm_registry-3f7db203ba00ba` | @balena/lint | [open](records/node-js-javascript-balena-lint-2bf3a36c.md) |
 | `npm_registry-3f878f0134ef9b` | eslint-plugin-ui-testing | [open](records/node-js-javascript-eslint-plugin-ui-testing-3c6c9a8c.md) |
@@ -7517,6 +7491,7 @@
 | `npm_registry-3fe31ad9ecfc3a` | @mysten/prettier-plugin-move | [open](records/node-js-javascript-mysten-prettier-plugin-move-8bfd9954.md) |
 | `npm_registry-3fe8c5839b5649` | prettier-basic | [open](records/node-js-javascript-prettier-basic-d0526d86.md) |
 | `npm_registry-3ff26dad8f42c6` | @types/eslint-plugin-jsx-a11y | [open](records/node-js-typescript-types-eslint-plugin-jsx-a11y-d11e3662.md) |
+| `npm_registry-400707629f1e82` | @osaas/logging | [open](records/node-js-javascript-osaas-logging-a32f9eaa.md) |
 | `npm_registry-400dcda4bfdfd2` | @aptos-labs/aptos-cli | [open](records/node-js-javascript-aptos-labs-aptos-cli-8128fa9d.md) |
 | `npm_registry-402157d0a7f6a5` | fetch-mock | [open](records/node-js-javascript-fetch-mock-c964ec19.md) |
 | `npm_registry-40241ffec75f59` | @stoplight/prism-http | [open](records/node-js-javascript-stoplight-prism-http-85e35ffc.md) |
@@ -7532,6 +7507,7 @@
 | `npm_registry-40b245759bb88c` | @furystack/security | [open](records/node-js-javascript-furystack-security-7342fc59.md) |
 | `npm_registry-40b543a1b7179b` | http-errors | [open](records/node-js-javascript-http-errors-3c01fee2.md) |
 | `npm_registry-40c30f5cfeacb9` | buildcheck | [open](records/node-js-javascript-buildcheck-88724d3d.md) |
+| `npm_registry-40d7349baefc08` | @codification/cutwater-logging | [open](records/node-js-javascript-codification-cutwater-logging-b091a381.md) |
 | `npm_registry-40e0eca5323472` | @tombatossals/chords-db | [open](records/node-js-javascript-tombatossals-chords-db-e0051de1.md) |
 | `npm_registry-40e20413fba677` | @wdio/xvfb | [open](records/node-js-javascript-wdio-xvfb-e9e46e8a.md) |
 | `npm_registry-4102032510b740` | eslint-plugin-mocha | [open](records/node-js-javascript-eslint-plugin-mocha-c96ba1e6.md) |
@@ -7561,6 +7537,7 @@
 | `npm_registry-434aa6bb81cd1e` | @vdemedes/prettier-config | [open](records/node-js-javascript-vdemedes-prettier-config-951f8db5.md) |
 | `npm_registry-4355290f24b9aa` | @better-typescript-lib/es6 | [open](records/node-js-typescript-better-typescript-lib-es6-7f487972.md) |
 | `npm_registry-43837f08dc51d7` | pac-proxy-agent | [open](records/node-js-javascript-pac-proxy-agent-1e677445.md) |
+| `npm_registry-43d2de9f85993b` | glogg | [open](records/node-js-javascript-glogg-ee9c8809.md) |
 | `npm_registry-43e54b34189f2a` | sentinel-ast | [open](records/node-js-javascript-sentinel-ast-c85c2c77.md) |
 | `npm_registry-43efa98d1374cf` | prettier-plugin-svelte | [open](records/node-js-javascript-prettier-plugin-svelte-50c48e22.md) |
 | `npm_registry-441f31672e236b` | @transifex/cli | [open](records/node-js-javascript-transifex-cli-ffc9f4e9.md) |
@@ -7578,7 +7555,9 @@
 | `npm_registry-454649a0096efa` | @techdocs/cli | [open](records/node-js-javascript-techdocs-cli-d77e4e4e.md) |
 | `npm_registry-458311249aef0b` | dmdb | [open](records/node-js-javascript-dmdb-b0877ac1.md) |
 | `npm_registry-45b0984816c6de` | prettier-config-xo | [open](records/node-js-javascript-prettier-config-xo-5499a639.md) |
+| `npm_registry-45dd0422daf77d` | @logtail/core | [open](records/node-js-javascript-logtail-core-4904c429.md) |
 | `npm_registry-45f33b0c5e48b2` | eslint-plugin-security-node | [open](records/node-js-javascript-eslint-plugin-security-node-99d5ea53.md) |
+| `npm_registry-46128a216ba530` | karma-mocha-reporter | [open](records/node-js-javascript-karma-mocha-reporter-77823c81.md) |
 | `npm_registry-4627a75df8311a` | @locker/babel-plugin-transform-unforgeables | [open](records/node-js-javascript-locker-babel-plugin-transform-unforgeables-aa73fcc7.md) |
 | `npm_registry-463d79455c2b41` | http-https | [open](records/node-js-javascript-http-https-58f472a3.md) |
 | `npm_registry-463eda1c81bcee` | http-status-codes | [open](records/node-js-javascript-http-status-codes-151527e8.md) |
@@ -7591,6 +7570,7 @@
 | `npm_registry-46981a5e0ce76c` | @typescript-eslint/typescript-estree | [open](records/node-js-typescript-typescript-eslint-typescript-estree-fb811420.md) |
 | `npm_registry-469e5ca75c5695` | @types/react-dom | [open](records/node-js-typescript-types-react-dom-124a9238.md) |
 | `npm_registry-46a5ae67608d5e` | @commercetools/http-user-agent | [open](records/node-js-javascript-commercetools-http-user-agent-9006cccf.md) |
+| `npm_registry-46be6e96262091` | @sap/audit-logging | [open](records/node-js-javascript-sap-audit-logging-1b7c1df6.md) |
 | `npm_registry-46d00c9826b0a7` | @poppinss/prompts | [open](records/node-js-javascript-poppinss-prompts-4a71453e.md) |
 | `npm_registry-46e6a68b146151` | rehype-remove-meta-http-equiv | [open](records/node-js-javascript-rehype-remove-meta-http-equiv-0b2c7dab.md) |
 | `npm_registry-46ffed818a64ed` | prettier-plugin-codeowners | [open](records/node-js-javascript-prettier-plugin-codeowners-4a28b3f1.md) |
@@ -7609,6 +7589,7 @@
 | `npm_registry-47ed98540f1442` | memory-level | [open](records/node-js-javascript-memory-level-91370d3d.md) |
 | `npm_registry-48041ecef7b598` | local-web-server | [open](records/node-js-javascript-local-web-server-ac235137.md) |
 | `npm_registry-481350157e88a3` | @web/dev-server-esbuild | [open](records/node-js-javascript-web-dev-server-esbuild-4e6c71d8.md) |
+| `npm_registry-48280268a9492e` | loglevelnext | [open](records/node-js-javascript-loglevelnext-8db54747.md) |
 | `npm_registry-482aecc76139a5` | @ip-location-db/geolite2-city | [open](records/node-js-javascript-ip-location-db-geolite2-city-4d763e20.md) |
 | `npm_registry-482b3e1cfef8a7` | @backstage/eslint-plugin | [open](records/node-js-javascript-backstage-eslint-plugin-1393138f.md) |
 | `npm_registry-483818c26f51e9` | content-security-policy-merger | [open](records/node-js-javascript-content-security-policy-merger-18c9c948.md) |
@@ -7635,6 +7616,7 @@
 | `npm_registry-4a5fd4df4f372f` | eslint-formatter-gitlab | [open](records/node-js-javascript-eslint-formatter-gitlab-1bc5f0ea.md) |
 | `npm_registry-4a7a5f5f8891c3` | @fallow-cli/linux-x64-gnu | [open](records/node-js-javascript-fallow-cli-linux-x64-gnu-c24edc1b.md) |
 | `npm_registry-4a855b0c4dbac8` | @opentelemetry/propagator-jaeger | [open](records/node-js-javascript-opentelemetry-propagator-jaeger-0d713bfa.md) |
+| `npm_registry-4abd41566e6995` | @loglayer/transport-datadog-browser-logs | [open](records/node-js-javascript-loglayer-transport-datadog-browser-logs-014b290c.md) |
 | `npm_registry-4adaf677289e65` | build | [open](records/node-js-javascript-build-c8465960.md) |
 | `npm_registry-4ae3402046a5a3` | devicetree-language-server | [open](records/node-js-javascript-devicetree-language-server-f94b42f7.md) |
 | `npm_registry-4aeaadad387712` | playwright-testing-library | [open](records/node-js-javascript-playwright-testing-library-85614bd4.md) |
@@ -7681,6 +7663,7 @@
 | `npm_registry-4efa1cbce053fd` | @uniweb/build | [open](records/node-js-javascript-uniweb-build-739917ab.md) |
 | `npm_registry-4efcc7ec544047` | ospec | [open](records/node-js-javascript-ospec-f0172c41.md) |
 | `npm_registry-4f168df70f07ec` | @eslint/js | [open](records/node-js-javascript-eslint-js-c83f2528.md) |
+| `npm_registry-4f1f10c101a0c4` | connect-logger | [open](records/node-js-javascript-connect-logger-d7502fab.md) |
 | `npm_registry-4f2930096d4193` | @tursodatabase/database-wasm-common | [open](records/node-js-javascript-tursodatabase-database-wasm-common-36a7cffd.md) |
 | `npm_registry-4f49b937cf8431` | eslint-plugin-fp-ts | [open](records/node-js-typescript-eslint-plugin-fp-ts-6092893f.md) |
 | `npm_registry-4f70b24ff45df0` | prettier-check | [open](records/node-js-javascript-prettier-check-7db55ae8.md) |
@@ -7688,6 +7671,7 @@
 | `npm_registry-4fa8cce23163c6` | nord-secure | [open](records/node-js-javascript-nord-secure-67b7894e.md) |
 | `npm_registry-4fd940225f76c1` | trpc-cli | [open](records/node-js-javascript-trpc-cli-c1c4e806.md) |
 | `npm_registry-4fe0c61776fd29` | @vuepress/cli | [open](records/node-js-javascript-vuepress-cli-05e066d3.md) |
+| `npm_registry-4febf52d970315` | @vscode-logging/types | [open](records/node-js-javascript-vscode-logging-types-b04a20c8.md) |
 | `npm_registry-4ff4dc39b8b4ed` | @flmngr/flmngr-server-node-express | [open](records/node-js-javascript-flmngr-flmngr-server-node-express-d6079e7a.md) |
 | `npm_registry-5048289c215abb` | typed-rest-client | [open](records/node-js-typescript-typed-rest-client-f0090a5f.md) |
 | `npm_registry-509ccddb8278a0` | node-downloader-helper | [open](records/node-js-javascript-node-downloader-helper-9d98c75e.md) |
@@ -7697,6 +7681,7 @@
 | `npm_registry-50e8c7546f8765` | @aws-sdk/client-database-migration-service | [open](records/node-js-javascript-aws-sdk-client-database-migration-service-058f4424.md) |
 | `npm_registry-50f0d835162156` | openapi-typescript-codegen | [open](records/node-js-typescript-openapi-typescript-codegen-074e8d0d.md) |
 | `npm_registry-5112330e477a04` | @ionic/prettier-config | [open](records/node-js-javascript-ionic-prettier-config-716afacf.md) |
+| `npm_registry-511dd770f1fa1b` | typescript-logging-log4ts-style | [open](records/node-js-typescript-typescript-logging-log4ts-style-82218981.md) |
 | `npm_registry-5135579b41f760` | @google-cloud/security-center | [open](records/node-js-javascript-google-cloud-security-center-efea160f.md) |
 | `npm_registry-5149e49548d6b4` | @salesforce/sfdx-scanner | [open](records/node-js-javascript-salesforce-sfdx-scanner-e437f623.md) |
 | `npm_registry-51a9f8d612e991` | superagent | [open](records/node-js-javascript-superagent-8c008c3e.md) |
@@ -7706,6 +7691,7 @@
 | `npm_registry-5227595538bcaa` | lil-http-terminator | [open](records/node-js-javascript-lil-http-terminator-780fad67.md) |
 | `npm_registry-5255be5022f8fe` | eslint-plugin-functional | [open](records/node-js-typescript-eslint-plugin-functional-173fe893.md) |
 | `npm_registry-52988b1394d397` | @nocobase/build | [open](records/node-js-javascript-nocobase-build-919424e6.md) |
+| `npm_registry-52cd0609fbd81e` | lws-log | [open](records/node-js-javascript-lws-log-66810421.md) |
 | `npm_registry-52d2666ba8df87` | @types/testing-library__jasmine-dom | [open](records/node-js-typescript-types-testing-library-jasmine-dom-1662f7be.md) |
 | `npm_registry-52e39fa5e62721` | hexo-server | [open](records/node-js-javascript-hexo-server-999441df.md) |
 | `npm_registry-53023f236141a8` | @gql.tada/cli-utils | [open](records/node-js-javascript-gql-tada-cli-utils-5273b9c0.md) |
@@ -7725,17 +7711,20 @@
 | `npm_registry-54f0410a14dfc9` | @locker/shared-dom | [open](records/node-js-javascript-locker-shared-dom-5c9edda9.md) |
 | `npm_registry-54fe1412573bed` | @ksmithut/prettier-standard | [open](records/node-js-javascript-ksmithut-prettier-standard-6a3869d4.md) |
 | `npm_registry-55093452de4925` | @feathersjs/adapter-commons | [open](records/node-js-javascript-feathersjs-adapter-commons-7a45c587.md) |
+| `npm_registry-550a20571e21f7` | @helyx/module-logging | [open](records/node-js-javascript-helyx-module-logging-2d53e05d.md) |
 | `npm_registry-550a93d56e0a84` | @typespec/http | [open](records/node-js-javascript-typespec-http-a3ff49d1.md) |
 | `npm_registry-550ea86cfb479a` | @cypress/vite-dev-server | [open](records/node-js-javascript-cypress-vite-dev-server-63171d7c.md) |
 | `npm_registry-551e2efa460cb0` | @stylistic/eslint-plugin-ts | [open](records/node-js-typescript-stylistic-eslint-plugin-ts-ad9cdd54.md) |
 | `npm_registry-55582d7ff4d073` | @sperax/tool-goplus-security | [open](records/node-js-javascript-sperax-tool-goplus-security-660aa149.md) |
 | `npm_registry-555be3cb3db799` | cypress-rspack-dev-server | [open](records/node-js-javascript-cypress-rspack-dev-server-13b6a8da.md) |
+| `npm_registry-556fe6ccdf7f53` | @google-cloud/logging-api | [open](records/node-js-javascript-google-cloud-logging-api-ce2af288.md) |
 | `npm_registry-5570493e3c8904` | @vibecodeapp/cloud-studio | [open](records/node-js-javascript-vibecodeapp-cloud-studio-0a3f34bf.md) |
 | `npm_registry-5571266e3eab3e` | @typescript/native-preview-win32-arm64 | [open](records/node-js-typescript-typescript-native-preview-win32-arm64-585cab9b.md) |
 | `npm_registry-557b4abc0ae7c2` | @babel/plugin-syntax-typescript | [open](records/node-js-typescript-babel-plugin-syntax-typescript-f6dbb30b.md) |
 | `npm_registry-55a191694e82b2` | send | [open](records/node-js-javascript-send-5645056b.md) |
 | `npm_registry-55bce13b0ff551` | @total-typescript/shoehorn | [open](records/node-js-typescript-total-typescript-shoehorn-755303d0.md) |
 | `npm_registry-55c7b58c8c02ce` | Undici | [open](records/node-js-javascript-undici-80071b99.md) |
+| `npm_registry-562332b82fd796` | @loglayer/transport | [open](records/node-js-javascript-loglayer-transport-3e421e07.md) |
 | `npm_registry-565f2167effdcc` | @stacks/prettier-config | [open](records/node-js-javascript-stacks-prettier-config-53199282.md) |
 | `npm_registry-565f421fce6a4a` | http-signature | [open](records/node-js-javascript-http-signature-010c3fda.md) |
 | `npm_registry-566504bed73969` | commist | [open](records/node-js-javascript-commist-8ede5190.md) |
@@ -7758,6 +7747,7 @@
 | `npm_registry-5831f465e2f1a4` | react-native-builder-bob | [open](records/node-js-javascript-react-native-builder-bob-a204903c.md) |
 | `npm_registry-58594c3c24ab6a` | bycf | [open](records/node-js-javascript-bycf-0f7b77be.md) |
 | `npm_registry-585b0d8c73f15b` | @napi-rs/cli | [open](records/node-js-javascript-napi-rs-cli-3160c98d.md) |
+| `npm_registry-58615e20d28481` | better-logging | [open](records/node-js-javascript-better-logging-be9eeab3.md) |
 | `npm_registry-5879d51ba06248` | cookie-parser | [open](records/node-js-javascript-cookie-parser-e6a8c657.md) |
 | `npm_registry-5885e03306a08d` | conditional-type-checks | [open](records/node-js-typescript-conditional-type-checks-8c0493a4.md) |
 | `npm_registry-58a215bbe70a98` | gulp-typescript | [open](records/node-js-typescript-gulp-typescript-9e522868.md) |
@@ -7790,6 +7780,7 @@
 | `npm_registry-5b2d0c6629e167` | @transcend-io/mcp-server-dsr | [open](records/node-js-javascript-transcend-io-mcp-server-dsr-76f6cb8b.md) |
 | `npm_registry-5b45c357db2240` | @vue/cli-plugin-unit-jest | [open](records/node-js-javascript-vue-cli-plugin-unit-jest-00f301fd.md) |
 | `npm_registry-5b5ed0a8b63495` | dbmate | [open](records/node-js-javascript-dbmate-a454a890.md) |
+| `npm_registry-5b7626a672336d` | @mongosh/logging | [open](records/node-js-javascript-mongosh-logging-a2ed4564.md) |
 | `npm_registry-5b828b36e65f19` | @google-cloud/cloudbuild | [open](records/node-js-javascript-google-cloud-cloudbuild-8d020919.md) |
 | `npm_registry-5b8d86a9784c3c` | @callstack/repack-dev-server | [open](records/node-js-javascript-callstack-repack-dev-server-631ff63b.md) |
 | `npm_registry-5b90d95b0bbb71` | mrm-task-prettier | [open](records/node-js-javascript-mrm-task-prettier-04a45817.md) |
@@ -7806,11 +7797,13 @@
 | `npm_registry-5d4c0e90401eb3` | alive-server | [open](records/node-js-javascript-alive-server-096c66be.md) |
 | `npm_registry-5d6eb2fb202eae` | oclif | [open](records/node-js-javascript-oclif-1e846831.md) |
 | `npm_registry-5dbad7d8d40ce9` | @digital8/security-registers-backend-ts-sdk | [open](records/node-js-javascript-digital8-security-registers-backend-ts-sdk-633039f3.md) |
+| `npm_registry-5dbd51f9e68913` | @dodobrands/frontlogger | [open](records/node-js-javascript-dodobrands-frontlogger-ab1b835f.md) |
 | `npm_registry-5e1d76f0207245` | gulp | [open](records/node-js-javascript-gulp-d04c3a8f.md) |
 | `npm_registry-5e3d08da1561e5` | @eslint-react/eslint | [open](records/node-js-javascript-eslint-react-eslint-5f79c29e.md) |
 | `npm_registry-5e45fcc0a5aa8e` | oauth2-server | [open](records/node-js-javascript-oauth2-server-6670efea.md) |
 | `npm_registry-5e66eee2448cc3` | @types/http-cache-semantics | [open](records/node-js-typescript-types-http-cache-semantics-7cf8865c.md) |
 | `npm_registry-5e68e5c40ff8db` | @caspeco/prettier-config | [open](records/node-js-javascript-caspeco-prettier-config-1c6320c8.md) |
+| `npm_registry-5e837536f1056f` | @superbuilders/slog | [open](records/node-js-javascript-superbuilders-slog-5374711a.md) |
 | `npm_registry-5e8b0a174d82be` | @1024pix/ember-testing-library | [open](records/node-js-javascript-1024pix-ember-testing-library-263142d5.md) |
 | `npm_registry-5e9c34eebe0047` | strict-url-sanitise | [open](records/node-js-javascript-strict-url-sanitise-39ef6368.md) |
 | `npm_registry-5eaba3ded2adc1` | @apollo/cache-control-types | [open](records/node-js-typescript-apollo-cache-control-types-cf45fb41.md) |
@@ -7818,6 +7811,7 @@
 | `npm_registry-5ee98da36cd689` | ftp-response-parser | [open](records/node-js-javascript-ftp-response-parser-792753fb.md) |
 | `npm_registry-5f2ca0b8e4fc47` | targaryen | [open](records/node-js-javascript-targaryen-4d317749.md) |
 | `npm_registry-5f42a8f22c55df` | @react-native/eslint-plugin | [open](records/node-js-javascript-react-native-eslint-plugin-9bdc4b2a.md) |
+| `npm_registry-5f4567aa7c01a0` | @google-cloud/logging | [open](records/node-js-javascript-google-cloud-logging-0415f938.md) |
 | `npm_registry-5f469a4c263c31` | @argos-ci/browser | [open](records/node-js-javascript-argos-ci-browser-fe19edc4.md) |
 | `npm_registry-5f4cfaef59acf3` | @golevelup/ts-jest | [open](records/node-js-javascript-golevelup-ts-jest-8e9a6da8.md) |
 | `npm_registry-5f530f2983e3c1` | prettier-plugin-firestore-rules | [open](records/node-js-javascript-prettier-plugin-firestore-rules-5c3016f5.md) |
@@ -7834,8 +7828,10 @@
 | `npm_registry-608cc734b9f49f` | redocly | [open](records/node-js-javascript-redocly-8a442454.md) |
 | `npm_registry-60f170977f23a3` | @backstage/cli-module-test-jest | [open](records/node-js-javascript-backstage-cli-module-test-jest-01ef3bd6.md) |
 | `npm_registry-60f9d54391a6b7` | @accounter/server | [open](records/node-js-javascript-accounter-server-29485588.md) |
+| `npm_registry-6175dd60b0cc25` | aurelia-logging | [open](records/node-js-javascript-aurelia-logging-e537f5f6.md) |
 | `npm_registry-617d03d771d341` | @babel/helper-builder-react-jsx-experimental | [open](records/node-js-javascript-babel-helper-builder-react-jsx-experimental-6349cce8.md) |
 | `npm_registry-617f1974b169aa` | @accio-ai/cli | [open](records/node-js-javascript-accio-ai-cli-98437ac9.md) |
+| `npm_registry-618c2f4c3f29c6` | typescript-logging-category-style | [open](records/node-js-typescript-typescript-logging-category-style-e5c9a903.md) |
 | `npm_registry-61a03f87eb4f89` | prettier-plugin-pkgsort | [open](records/node-js-javascript-prettier-plugin-pkgsort-39c64fcc.md) |
 | `npm_registry-61d8b3707ad15f` | hermes-compiler | [open](records/node-js-javascript-hermes-compiler-8dbe74b2.md) |
 | `npm_registry-61e5ee4ca652e6` | @modelcontextprotocol/server | [open](records/node-js-typescript-modelcontextprotocol-server-982407a5.md) |
@@ -7858,6 +7854,7 @@
 | `npm_registry-63745ff349263c` | @arethetypeswrong/cli | [open](records/node-js-javascript-arethetypeswrong-cli-ef4de260.md) |
 | `npm_registry-637a68fc14e5c0` | polyfills-db | [open](records/node-js-javascript-polyfills-db-a1617c25.md) |
 | `npm_registry-6429953b374938` | @react-native/typescript-config | [open](records/node-js-typescript-react-native-typescript-config-d64a00e7.md) |
+| `npm_registry-64513a399407bd` | axios-logger | [open](records/node-js-javascript-axios-logger-83ca938a.md) |
 | `npm_registry-64590681b6716c` | @tailwindcss/language-server | [open](records/node-js-javascript-tailwindcss-language-server-97ba1480.md) |
 | `npm_registry-646400bdc26a44` | grunt-prettier | [open](records/node-js-javascript-grunt-prettier-10164f57.md) |
 | `npm_registry-64668c4a001cb1` | prettier-plugin-nginx | [open](records/node-js-javascript-prettier-plugin-nginx-95f8d923.md) |
@@ -7925,6 +7922,7 @@
 | `npm_registry-6a39187af8dc09` | pushstate-server | [open](records/node-js-javascript-pushstate-server-e4f6f274.md) |
 | `npm_registry-6aba878cb6fbbf` | @bomb.sh/tab | [open](records/node-js-javascript-bomb-sh-tab-f325bd04.md) |
 | `npm_registry-6ac21927e1704b` | @types/d3-timer | [open](records/node-js-typescript-types-d3-timer-d67bb7aa.md) |
+| `npm_registry-6aeb874fbe52d0` | @nextgis/logging | [open](records/node-js-javascript-nextgis-logging-12f97ecb.md) |
 | `npm_registry-6afdd15e868112` | @vtex/prettier-config | [open](records/node-js-javascript-vtex-prettier-config-97b5b705.md) |
 | `npm_registry-6b0fc532fd17b1` | @stricli/core | [open](records/node-js-javascript-stricli-core-d8d51ee5.md) |
 | `npm_registry-6b3b12e23d0b3a` | @typescript-eslint/utils | [open](records/node-js-typescript-typescript-eslint-utils-436ccc8c.md) |
@@ -7947,12 +7945,14 @@
 | `npm_registry-6c75b974d6be9a` | @types/server-destroy | [open](records/node-js-typescript-types-server-destroy-b9f4d71c.md) |
 | `npm_registry-6c85fedef2c89f` | node-git-server | [open](records/node-js-javascript-node-git-server-66706502.md) |
 | `npm_registry-6c885af8e01a56` | http-z | [open](records/node-js-javascript-http-z-27d9e148.md) |
+| `npm_registry-6c8ff71bb510ea` | pino-debug | [open](records/node-js-javascript-pino-debug-ced9ed59.md) |
 | `npm_registry-6c9779a0a5f114` | @aws-amplify/deployed-backend-client | [open](records/node-js-javascript-aws-amplify-deployed-backend-client-e7cf3524.md) |
 | `npm_registry-6c9c7eb5bdcda1` | @types/ms | [open](records/node-js-typescript-types-ms-4a9c12e9.md) |
 | `npm_registry-6cc1d93ab2972a` | redux-saga-testing | [open](records/node-js-javascript-redux-saga-testing-ef2e9f57.md) |
 | `npm_registry-6cc665961cf569` | @asyncapi/modelina-cli | [open](records/node-js-javascript-asyncapi-modelina-cli-33ff0f83.md) |
 | `npm_registry-6d0bd359c7e5e1` | defender-base-client | [open](records/node-js-javascript-defender-base-client-93c12eb2.md) |
 | `npm_registry-6d13b8aa52b354` | prettier-plugin-yaml | [open](records/node-js-javascript-prettier-plugin-yaml-431c7a7c.md) |
+| `npm_registry-6d5cbc2f32f2f3` | fable-log | [open](records/node-js-javascript-fable-log-a7502461.md) |
 | `npm_registry-6d930428e1cccc` | @transmitsecurity/platform-web-sdk | [open](records/node-js-javascript-transmitsecurity-platform-web-sdk-a192430b.md) |
 | `npm_registry-6d937b6195f942` | @react-native-community/eslint-config | [open](records/node-js-javascript-react-native-community-eslint-config-19d70204.md) |
 | `npm_registry-6d953260a7e747` | nodemailer-build-attachment | [open](records/node-js-javascript-nodemailer-build-attachment-78f92e00.md) |
@@ -7991,6 +7991,7 @@
 | `npm_registry-70837fbde32bb5` | @hapi/shot | [open](records/node-js-javascript-hapi-shot-c57100bd.md) |
 | `npm_registry-70839d427613aa` | @storybook/preset-server-webpack | [open](records/node-js-javascript-storybook-preset-server-webpack-041828bc.md) |
 | `npm_registry-70912e66c0839a` | level-read-stream | [open](records/node-js-javascript-level-read-stream-39844aca.md) |
+| `npm_registry-70b0c63512cd43` | grunt-remove-logging | [open](records/node-js-javascript-grunt-remove-logging-3d82ca92.md) |
 | `npm_registry-70b1d2a8cf766e` | @guardian/prettier | [open](records/node-js-typescript-guardian-prettier-83f46317.md) |
 | `npm_registry-70b2ce69c1ef6d` | tslint-plugin-prettier | [open](records/node-js-javascript-tslint-plugin-prettier-04e44cb1.md) |
 | `npm_registry-70b71d627bbcee` | @typescript/typescript-darwin-x64 | [open](records/node-js-typescript-typescript-typescript-darwin-x64-083d7f86.md) |
@@ -8005,6 +8006,7 @@
 | `npm_registry-7254e76391baf2` | http-reasons | [open](records/node-js-javascript-http-reasons-897bee63.md) |
 | `npm_registry-726a2188a48664` | ts-morph | [open](records/node-js-typescript-ts-morph-f2a06d0c.md) |
 | `npm_registry-726d69ef93fe4b` | prettier-plugin-go-template | [open](records/node-js-javascript-prettier-plugin-go-template-45050609.md) |
+| `npm_registry-728269862656a3` | loggly | [open](records/node-js-javascript-loggly-f69b4b1d.md) |
 | `npm_registry-728923ac0b3eb4` | @netlify/build-info | [open](records/node-js-javascript-netlify-build-info-ff288519.md) |
 | `npm_registry-729133e1459914` | http-encoding | [open](records/node-js-javascript-http-encoding-07116fd2.md) |
 | `npm_registry-7293c585e20464` | @rogue-security/sdk | [open](records/node-js-typescript-rogue-security-sdk-7b0f298e.md) |
@@ -8023,9 +8025,11 @@
 | `npm_registry-748d67dda6da06` | nodemailer-fetch | [open](records/node-js-javascript-nodemailer-fetch-dbd4324a.md) |
 | `npm_registry-74fe80ed645087` | typescript-logging | [open](records/node-js-typescript-typescript-logging-392738b6.md) |
 | `npm_registry-750fde2d45fc0a` | @vercel/gatsby-plugin-vercel-builder | [open](records/node-js-javascript-vercel-gatsby-plugin-vercel-builder-b85ae594.md) |
+| `npm_registry-751fa35c1cbf0e` | aurelia-logging-console | [open](records/node-js-javascript-aurelia-logging-console-c4ab6220.md) |
 | `npm_registry-75214976e2f307` | @vue/eslint-config-prettier | [open](records/node-js-javascript-vue-eslint-config-prettier-a4b2f7dd.md) |
 | `npm_registry-7538d9c9ed0be8` | @prisma/security-rules | [open](records/node-js-javascript-prisma-security-rules-cb970935.md) |
 | `npm_registry-7555f6bf7cb7e3` | @hapi/content | [open](records/node-js-javascript-hapi-content-345f5772.md) |
+| `npm_registry-757b04653b8a27` | @nocobase/logger | [open](records/node-js-javascript-nocobase-logger-f94a71a3.md) |
 | `npm_registry-758d7c0a74ecd9` | @angular/build | [open](records/node-js-javascript-angular-build-0312e2da.md) |
 | `npm_registry-75a46fa7738708` | @cubejs-backend/databricks-jdbc-driver | [open](records/node-js-javascript-cubejs-backend-databricks-jdbc-driver-75fcf91d.md) |
 | `npm_registry-75a8ebaeb3ab1a` | @nx/eslint-plugin | [open](records/node-js-javascript-nx-eslint-plugin-4b4a3954.md) |
@@ -8059,8 +8063,11 @@
 | `npm_registry-78a61817c67fe1` | prettier-plugin-stylus | [open](records/node-js-javascript-prettier-plugin-stylus-095c1d5e.md) |
 | `npm_registry-78c0cadff0bbae` | react-native-cli | [open](records/node-js-javascript-react-native-cli-d8041a38.md) |
 | `npm_registry-78c60d000b8eab` | @catladder/cli | [open](records/node-js-javascript-catladder-cli-876a5bd9.md) |
+| `npm_registry-7906a4cc3f4933` | @alexaegis/logging | [open](records/node-js-javascript-alexaegis-logging-21c1d928.md) |
 | `npm_registry-79562d2c054606` | @langchain/qdrant | [open](records/node-js-javascript-langchain-qdrant-7d109ca3.md) |
 | `npm_registry-7967c8f057f5f9` | ember-cli-test-loader | [open](records/node-js-javascript-ember-cli-test-loader-18d22555.md) |
+| `npm_registry-797f38252177cb` | @expo/server-logging | [open](records/node-js-javascript-expo-server-logging-1aaff272.md) |
+| `npm_registry-79a06aa3f14de0` | @googleapis/logging | [open](records/node-js-javascript-googleapis-logging-a3dc9682.md) |
 | `npm_registry-79aa6dfc283953` | @vue/cli-plugin-vuex | [open](records/node-js-javascript-vue-cli-plugin-vuex-cb88a48b.md) |
 | `npm_registry-79b565801f32d6` | @eslint/json | [open](records/node-js-javascript-eslint-json-b5c015c8.md) |
 | `npm_registry-79bb95e1f74657` | @opentelemetry/instrumentation-cassandra-driver | [open](records/node-js-javascript-opentelemetry-instrumentation-cassandra-driver-acd55d4a.md) |
@@ -8075,12 +8082,15 @@
 | `npm_registry-7a7dc2ade45b72` | cli-table3 | [open](records/node-js-javascript-cli-table3-ecf4a414.md) |
 | `npm_registry-7ab26249434ca0` | classic-level | [open](records/node-js-javascript-classic-level-f798fa64.md) |
 | `npm_registry-7aceb43324feab` | @spotify/prettier-config | [open](records/node-js-javascript-spotify-prettier-config-c934bf08.md) |
+| `npm_registry-7afae6d5257a05` | py-logging | [open](records/node-js-javascript-py-logging-c8a83632.md) |
 | `npm_registry-7b0653bb247c1f` | typescript-transform-paths | [open](records/node-js-typescript-typescript-transform-paths-44bf66fc.md) |
+| `npm_registry-7b217ec3f69b20` | electron-log | [open](records/node-js-javascript-electron-log-b1d074e1.md) |
 | `npm_registry-7b3b28a7fc3a0e` | http-method-enum | [open](records/node-js-typescript-http-method-enum-0fd9abb2.md) |
 | `npm_registry-7b3ce03a11d0a5` | Vitest | [open](records/node-js-javascript-vitest-607c3650.md) |
 | `npm_registry-7b6a3f221c22ac` | @subsquid/apollo-server-core | [open](records/node-js-javascript-subsquid-apollo-server-core-cbb8f657.md) |
 | `npm_registry-7b8a3512b024a4` | @comunica/actor-http-proxy | [open](records/node-js-javascript-comunica-actor-http-proxy-7953c313.md) |
 | `npm_registry-7ba53e23d74e39` | eslint-plugin-nuxt | [open](records/node-js-javascript-eslint-plugin-nuxt-02819898.md) |
+| `npm_registry-7bab9177af647c` | @logtape/elysia | [open](records/node-js-javascript-logtape-elysia-468073e5.md) |
 | `npm_registry-7bb516afd85f53` | @googlemaps/typescript-guards | [open](records/node-js-typescript-googlemaps-typescript-guards-e9aee3c3.md) |
 | `npm_registry-7bb70dfec9c325` | graphql-http-transformer | [open](records/node-js-javascript-graphql-http-transformer-24b0ab76.md) |
 | `npm_registry-7bb850c64c3475` | stack-typescript | [open](records/node-js-typescript-stack-typescript-02cf2600.md) |
@@ -8094,6 +8104,7 @@
 | `npm_registry-7ca7b132bcbe15` | http-message-sig | [open](records/node-js-javascript-http-message-sig-11ea94e1.md) |
 | `npm_registry-7cca2b46c1c475` | apollo-language-server | [open](records/node-js-javascript-apollo-language-server-bd297afa.md) |
 | `npm_registry-7ce8e5300eaf16` | office-addin-lint | [open](records/node-js-javascript-office-addin-lint-45ac0624.md) |
+| `npm_registry-7cee23bea94135` | lambda-log | [open](records/node-js-javascript-lambda-log-51524cf9.md) |
 | `npm_registry-7cefffedc91c82` | prettier-config-mx | [open](records/node-js-javascript-prettier-config-mx-9539d884.md) |
 | `npm_registry-7d2e35077f0458` | @webtorrent/http-node | [open](records/node-js-javascript-webtorrent-http-node-19d6206e.md) |
 | `npm_registry-7d2ea748284183` | http-graceful-shutdown | [open](records/node-js-javascript-http-graceful-shutdown-bab876d3.md) |
@@ -8122,6 +8133,7 @@
 | `npm_registry-7fbfa59a506c07` | @warp-drive/build-config | [open](records/node-js-javascript-warp-drive-build-config-456a9b4e.md) |
 | `npm_registry-7fc50ac3aa30ff` | prettier-plugin-multiline-arrays | [open](records/node-js-javascript-prettier-plugin-multiline-arrays-8112132a.md) |
 | `npm_registry-7febe3b1ef5a0b` | @dxos/echo-schema | [open](records/node-js-javascript-dxos-echo-schema-33a61d15.md) |
+| `npm_registry-7fee4e60b6430a` | cf-nodejs-logging-support | [open](records/node-js-javascript-cf-nodejs-logging-support-e5373450.md) |
 | `npm_registry-7ff7dc2e749eb3` | @mashroom/mashroom-security-provider-openid-connect | [open](records/node-js-javascript-mashroom-mashroom-security-provider-openid-connect-681c30f0.md) |
 | `npm_registry-800df21e6757b9` | @effect/vitest | [open](records/node-js-javascript-effect-vitest-5aabba6b.md) |
 | `npm_registry-8010f4ba9adfc3` | eslint-config-prettier-standard | [open](records/node-js-javascript-eslint-config-prettier-standard-d5219fcb.md) |
@@ -8137,6 +8149,7 @@
 | `npm_registry-81196ceb61d655` | @octokit/types | [open](records/node-js-typescript-octokit-types-1dc649aa.md) |
 | `npm_registry-811ef545a75d8f` | mocha-chai-jest-snapshot | [open](records/node-js-javascript-mocha-chai-jest-snapshot-c741c970.md) |
 | `npm_registry-8127abd433f71a` | @opentelemetry/instrumentation-koa | [open](records/node-js-javascript-opentelemetry-instrumentation-koa-9ce13529.md) |
+| `npm_registry-8143a8742401dc` | @wdio/logger | [open](records/node-js-javascript-wdio-logger-c2188cae.md) |
 | `npm_registry-816de57506d800` | @temporalio/testing | [open](records/node-js-javascript-temporalio-testing-01a9b62c.md) |
 | `npm_registry-8178cf4bb1adbd` | @sitecore-content-sdk/cli | [open](records/node-js-javascript-sitecore-content-sdk-cli-681aeaba.md) |
 | `npm_registry-81904e081b98d5` | typescript-strict-plugin | [open](records/node-js-typescript-typescript-strict-plugin-9bc12807.md) |
@@ -8166,6 +8179,7 @@
 | `npm_registry-8433f020dbd0f0` | gaxios | [open](records/node-js-javascript-gaxios-e5cc049d.md) |
 | `npm_registry-844358e9a40e12` | karma-jasmine | [open](records/node-js-javascript-karma-jasmine-32202ee2.md) |
 | `npm_registry-8449c86c6556c8` | @socketsecurity/socket-patch | [open](records/node-js-javascript-socketsecurity-socket-patch-992a1d25.md) |
+| `npm_registry-844dfb4893ecee` | @logtape/drizzle-orm | [open](records/node-js-javascript-logtape-drizzle-orm-bab0e1a5.md) |
 | `npm_registry-845bb53c7e184d` | @botpress/cli | [open](records/node-js-javascript-botpress-cli-669f749d.md) |
 | `npm_registry-8467422c223220` | @lovable.dev/vite-plugin-dev-server-bridge | [open](records/node-js-javascript-lovable-dev-vite-plugin-dev-server-bridge-eade17bd.md) |
 | `npm_registry-84997bc880da67` | cosmiconfig-typescript-loader | [open](records/node-js-typescript-cosmiconfig-typescript-loader-61e8927e.md) |
@@ -8193,6 +8207,7 @@
 | `npm_registry-866c2cfc5448ca` | @remotion/studio-server | [open](records/node-js-javascript-remotion-studio-server-ed620dc3.md) |
 | `npm_registry-86852874147817` | @js-soft/docdb-access-abstractions | [open](records/node-js-javascript-js-soft-docdb-access-abstractions-609120b9.md) |
 | `npm_registry-86cdda5647be81` | micromark-build | [open](records/node-js-javascript-micromark-build-e46b1102.md) |
+| `npm_registry-86d6e3deac8132` | @storybook/telemetry | [open](records/node-js-javascript-storybook-telemetry-dbe2239b.md) |
 | `npm_registry-86dfb80f641fcb` | @cedarjs/api-server | [open](records/node-js-javascript-cedarjs-api-server-0ec0ed14.md) |
 | `npm_registry-86e577574b4375` | parse-server | [open](records/node-js-javascript-parse-server-ccf3124b.md) |
 | `npm_registry-86e8a86bf4e2df` | bats | [open](records/node-js-javascript-bats-fbd083a0.md) |
@@ -8225,21 +8240,26 @@
 | `npm_registry-89b388713381bd` | @openzeppelin/defender-sdk-base-client | [open](records/node-js-javascript-openzeppelin-defender-sdk-base-client-6a4f1ceb.md) |
 | `npm_registry-89d011d7e0101d` | @eslint/core | [open](records/node-js-javascript-eslint-core-7e1d5558.md) |
 | `npm_registry-89e0ac4d1890d4` | @promster/server | [open](records/node-js-javascript-promster-server-55eaed1b.md) |
+| `npm_registry-89ee6a36da3908` | note-down | [open](records/node-js-javascript-note-down-679d23c1.md) |
 | `npm_registry-8a0f23a1cb5cba` | @elysiajs/server-timing | [open](records/node-js-javascript-elysiajs-server-timing-caa6934b.md) |
+| `npm_registry-8a487447da0e24` | @google-cloud/pino-logging-gcp-config | [open](records/node-js-javascript-google-cloud-pino-logging-gcp-config-f7a37938.md) |
 | `npm_registry-8a53af8c7c67dd` | @ryanbekhen/cryptkhen | [open](records/node-js-javascript-ryanbekhen-cryptkhen-3bf77025.md) |
 | `npm_registry-8a6057b046de0c` | ts-interface-checker | [open](records/node-js-typescript-ts-interface-checker-c50f15a6.md) |
 | `npm_registry-8a91d3f7c59099` | @storybook/server | [open](records/node-js-javascript-storybook-server-d1f8c89a.md) |
 | `npm_registry-8a9fc02d207a16` | eslint-import-resolver-alias | [open](records/node-js-javascript-eslint-import-resolver-alias-41f848a6.md) |
 | `npm_registry-8b021c13d97f88` | supabase | [open](records/node-js-javascript-supabase-83be2a37.md) |
 | `npm_registry-8b3d99ee8bdcda` | webpack-hot-server-middleware | [open](records/node-js-javascript-webpack-hot-server-middleware-5d8d3b37.md) |
+| `npm_registry-8bd9977067cafb` | @elastic/ecs-helpers | [open](records/node-js-javascript-elastic-ecs-helpers-8d648081.md) |
 | `npm_registry-8bebd51a9f5224` | buffer-builder | [open](records/node-js-javascript-buffer-builder-445c2866.md) |
 | `npm_registry-8c00b5730fcd3c` | eslint-plugin-vuejs-accessibility | [open](records/node-js-javascript-eslint-plugin-vuejs-accessibility-455da44e.md) |
 | `npm_registry-8c1d4aa0acaa60` | guid-typescript | [open](records/node-js-typescript-guid-typescript-7944139d.md) |
+| `npm_registry-8c39905fc31123` | @twin.org/logging-service | [open](records/node-js-javascript-twin-org-logging-service-909855f5.md) |
 | `npm_registry-8c43d6f2491099` | @inngest/test | [open](records/node-js-javascript-inngest-test-8b100cd2.md) |
 | `npm_registry-8c59e9ae6a929d` | @testing-library/svelte-core | [open](records/node-js-javascript-testing-library-svelte-core-82087efb.md) |
 | `npm_registry-8c5fd558fd35ea` | @paulcbetts/mime-db | [open](records/node-js-javascript-paulcbetts-mime-db-019b03f1.md) |
 | `npm_registry-8c73ad8cac4db9` | napi-build-utils | [open](records/node-js-javascript-napi-build-utils-a231f0b5.md) |
 | `npm_registry-8c80190af3692d` | @herb-tools/tailwind-class-sorter | [open](records/node-js-javascript-herb-tools-tailwind-class-sorter-e6fba774.md) |
+| `npm_registry-8c801efed702f1` | @companieshouse/structured-logging-node | [open](records/node-js-javascript-companieshouse-structured-logging-node-50dae39c.md) |
 | `npm_registry-8c81275e091ca4` | is | [open](records/node-js-javascript-is-8ceadfd5.md) |
 | `npm_registry-8cb06d296a46a7` | @types/babel__core | [open](records/node-js-typescript-types-babel-core-8f38efcf.md) |
 | `npm_registry-8cd42387f82c7b` | @angular-builders/custom-esbuild | [open](records/node-js-javascript-angular-builders-custom-esbuild-a3f7e789.md) |
@@ -8276,6 +8296,7 @@
 | `npm_registry-8ff559273dc0d6` | lowdb | [open](records/node-js-javascript-lowdb-e827db74.md) |
 | `npm_registry-90084a41c8d840` | @arkstack/database | [open](records/node-js-javascript-arkstack-database-828f146a.md) |
 | `npm_registry-901edaded85b52` | proxy-middleware | [open](records/node-js-javascript-proxy-middleware-e3797e57.md) |
+| `npm_registry-904216a47d9011` | serverless-logging-config | [open](records/node-js-javascript-serverless-logging-config-d94d1c13.md) |
 | `npm_registry-9069c5d670e2a3` | @sentry/cli-win32-x64 | [open](records/node-js-javascript-sentry-cli-win32-x64-d335bd61.md) |
 | `npm_registry-906f6a6ce51e59` | eslint-plugin-deprecation | [open](records/node-js-javascript-eslint-plugin-deprecation-7267773e.md) |
 | `npm_registry-90b4df7b5f8d62` | http-response-object | [open](records/node-js-javascript-http-response-object-b645cc49.md) |
@@ -8324,6 +8345,7 @@
 | `npm_registry-947537f54c3b3a` | @remix-run/data-table-postgres | [open](records/node-js-javascript-remix-run-data-table-postgres-53a6ca39.md) |
 | `npm_registry-948f4fb416a88b` | @shelf/prettier-config | [open](records/node-js-javascript-shelf-prettier-config-8646d7f1.md) |
 | `npm_registry-9496d17fcbf20d` | @cloudflare/workers-types | [open](records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) |
+| `npm_registry-949e287dbbe219` | get-logger | [open](records/node-js-javascript-get-logger-ace9188b.md) |
 | `npm_registry-94b036ac5b729e` | promptfoo | [open](records/node-js-javascript-promptfoo-abf6f009.md) |
 | `npm_registry-94cd582d0ed769` | node-json-db | [open](records/node-js-javascript-node-json-db-3561199d.md) |
 | `npm_registry-94cdc5cc31ee61` | @rad-security/mcp-server | [open](records/node-js-javascript-rad-security-mcp-server-d0ac79d5.md) |
@@ -8343,6 +8365,7 @@
 | `npm_registry-962788c893d5b9` | check-prettier | [open](records/node-js-javascript-check-prettier-8f7db215.md) |
 | `npm_registry-963c48efba9fb1` | eslint-plugin-vuetify | [open](records/node-js-javascript-eslint-plugin-vuetify-00f148c4.md) |
 | `npm_registry-964ae2b8205e0c` | unified-prettier | [open](records/node-js-javascript-unified-prettier-04bf7619.md) |
+| `npm_registry-964ff9e80a16a6` | next-logger | [open](records/node-js-javascript-next-logger-c9e9ac18.md) |
 | `npm_registry-96555b8f1738a4` | @types/unist | [open](records/node-js-typescript-types-unist-81182905.md) |
 | `npm_registry-965ea3b85b823e` | @commercetools/sdk-middleware-http | [open](records/node-js-javascript-commercetools-sdk-middleware-http-f71385c3.md) |
 | `npm_registry-966226959ce510` | prettier-config-carbon | [open](records/node-js-javascript-prettier-config-carbon-e9cd239f.md) |
@@ -8374,10 +8397,12 @@
 | `npm_registry-9823342784df44` | eslint-plugin-react-native | [open](records/node-js-javascript-eslint-plugin-react-native-3aff02c9.md) |
 | `npm_registry-982753067ba9fe` | @ngx-translate/http-loader | [open](records/node-js-javascript-ngx-translate-http-loader-60bffd66.md) |
 | `npm_registry-983be8b1bfbf8d` | @bluelibs/security-bundle | [open](records/node-js-javascript-bluelibs-security-bundle-96e39655.md) |
+| `npm_registry-983feb975b7638` | @optimizely/js-sdk-logging | [open](records/node-js-javascript-optimizely-js-sdk-logging-634637cc.md) |
 | `npm_registry-98504980d3eac6` | @stigg/node-server-sdk | [open](records/node-js-javascript-stigg-node-server-sdk-50fbbd0a.md) |
 | `npm_registry-985a4a57c6c32e` | node-opcua-address-space-for-conformance-testing | [open](records/node-js-javascript-node-opcua-address-space-for-conformance-testing-e25f7a6d.md) |
 | `npm_registry-9860671a1b2f2b` | @forsakringskassan/prettier-config | [open](records/node-js-javascript-forsakringskassan-prettier-config-fd4fa15b.md) |
 | `npm_registry-9883fa37517986` | ocache | [open](records/node-js-javascript-ocache-52cbc8bb.md) |
+| `npm_registry-98a4c191bccc98` | @pothos/plugin-tracing | [open](records/node-js-javascript-pothos-plugin-tracing-c1fb670b.md) |
 | `npm_registry-98ffbd4777c3cd` | prettier-plugin-solidity | [open](records/node-js-javascript-prettier-plugin-solidity-18866f02.md) |
 | `npm_registry-991d242fc87444` | @nestjs-cognito/testing | [open](records/node-js-javascript-nestjs-cognito-testing-0f6d2a65.md) |
 | `npm_registry-9928af90a4e055` | koas-security | [open](records/node-js-javascript-koas-security-4d07d03d.md) |
@@ -8392,12 +8417,14 @@
 | `npm_registry-99e1171b5d3fe4` | tree-sitter-cli | [open](records/node-js-javascript-tree-sitter-cli-908a6756.md) |
 | `npm_registry-9a0f7735faf892` | bare-tls | [open](records/node-js-javascript-bare-tls-5cd998ad.md) |
 | `npm_registry-9a30c0c72cd981` | @vercel/cli-exec | [open](records/node-js-javascript-vercel-cli-exec-8a3b557a.md) |
+| `npm_registry-9a31439ec7b4a6` | exframe-logger | [open](records/node-js-javascript-exframe-logger-850a2819.md) |
 | `npm_registry-9a320158a2ce6d` | codeceptjs | [open](records/node-js-javascript-codeceptjs-c62ce818.md) |
 | `npm_registry-9a508f92773df9` | @renovosolutions/cdk-aspects-library-security-group | [open](records/node-js-javascript-renovosolutions-cdk-aspects-library-security-group-8e60cf4d.md) |
 | `npm_registry-9aa948cd71b9aa` | opencv-build | [open](records/node-js-javascript-opencv-build-422064fe.md) |
 | `npm_registry-9abe8d5afdac61` | @exodus/account-security | [open](records/node-js-javascript-exodus-account-security-df3d68e4.md) |
 | `npm_registry-9ac587def3149c` | choose-security | [open](records/node-js-javascript-choose-security-cf1d991a.md) |
 | `npm_registry-9ac7358b4fe016` | eslint-plugin-canonical | [open](records/node-js-javascript-eslint-plugin-canonical-fd324fc5.md) |
+| `npm_registry-9b19ffa243fc07` | @logtape/hono | [open](records/node-js-javascript-logtape-hono-d28cafd2.md) |
 | `npm_registry-9b28594bb1247b` | @typescript-eslint/project-service | [open](records/node-js-typescript-typescript-eslint-project-service-73575b8a.md) |
 | `npm_registry-9b52832f1ff109` | vite-plugin-csp-guard | [open](records/node-js-javascript-vite-plugin-csp-guard-2759aa86.md) |
 | `npm_registry-9b607a2f765264` | ngx-indexed-db | [open](records/node-js-javascript-ngx-indexed-db-4b565975.md) |
@@ -8432,6 +8459,7 @@
 | `npm_registry-9d7f54301244ad` | webpack-build-notifier | [open](records/node-js-javascript-webpack-build-notifier-2ff2a8a3.md) |
 | `npm_registry-9d929776999e3c` | vice-security | [open](records/node-js-javascript-vice-security-90226f4d.md) |
 | `npm_registry-9da5fa1d19d7bb` | @sentry/cli-win32-i686 | [open](records/node-js-javascript-sentry-cli-win32-i686-972737fc.md) |
+| `npm_registry-9db0e86c2f6461` | @types/splunk-logging | [open](records/node-js-typescript-types-splunk-logging-73db23cc.md) |
 | `npm_registry-9dbcb4d6cdb1c0` | eslint-plugin-prettier-internal-rules | [open](records/node-js-javascript-eslint-plugin-prettier-internal-rules-7d4b2acf.md) |
 | `npm_registry-9dd0e848065d03` | mutation-testing-report-schema | [open](records/node-js-javascript-mutation-testing-report-schema-1335602b.md) |
 | `npm_registry-9de26eb99024be` | redis-server | [open](records/node-js-javascript-redis-server-7727dbce.md) |
@@ -8447,6 +8475,8 @@
 | `npm_registry-9efd6821f7551e` | @storybook/addon-vitest | [open](records/node-js-javascript-storybook-addon-vitest-61ff1281.md) |
 | `npm_registry-9f0f51947904e7` | @bugsnag/cli | [open](records/node-js-javascript-bugsnag-cli-4642b53f.md) |
 | `npm_registry-9f5d2c9c0fc905` | @contract-case/case-core | [open](records/node-js-javascript-contract-case-case-core-b9528be6.md) |
+| `npm_registry-9fa1237e3713ef` | bunyan-gcp-logging | [open](records/node-js-javascript-bunyan-gcp-logging-5b7271e3.md) |
+| `npm_registry-9fd8e5719635f6` | @account-kit/logging | [open](records/node-js-javascript-account-kit-logging-9349c4a1.md) |
 | `npm_registry-9ff1947c686ba6` | helmet | [open](records/node-js-javascript-helmet-d86ee6b0.md) |
 | `npm_registry-a038df04f98092` | @pact-foundation/pact-cli | [open](records/node-js-javascript-pact-foundation-pact-cli-9a91dd36.md) |
 | `npm_registry-a03bfd76544c56` | @typescript/typescript-aix-ppc64 | [open](records/node-js-typescript-typescript-typescript-aix-ppc64-77e509a6.md) |
@@ -8468,6 +8498,7 @@
 | `npm_registry-a21022d92c4f76` | @netlify/cache-utils | [open](records/node-js-javascript-netlify-cache-utils-2f27260e.md) |
 | `npm_registry-a2145f98c8e7dc` | @devcycle/nodejs-server-sdk | [open](records/node-js-javascript-devcycle-nodejs-server-sdk-6fb5776e.md) |
 | `npm_registry-a2193ec1f2b6d7` | @better-typescript-lib/es2023 | [open](records/node-js-typescript-better-typescript-lib-es2023-b15e1f94.md) |
+| `npm_registry-a21c4e3c3d924f` | simple-logging-system | [open](records/node-js-typescript-simple-logging-system-f065ade8.md) |
 | `npm_registry-a284751549decd` | @fastify/ajv-compiler | [open](records/node-js-javascript-fastify-ajv-compiler-9021b0f7.md) |
 | `npm_registry-a2a207086d6afe` | @caplaz/eufy-security-scrypted | [open](records/node-js-javascript-caplaz-eufy-security-scrypted-8a364aa7.md) |
 | `npm_registry-a2bbde4956bc11` | http-parser-js | [open](records/node-js-javascript-http-parser-js-b2b1e587.md) |
@@ -8513,6 +8544,7 @@
 | `npm_registry-a66da635d2a196` | @reown/appkit | [open](records/node-js-javascript-reown-appkit-05039372.md) |
 | `npm_registry-a69fcc3fe43194` | gulp-eslint | [open](records/node-js-javascript-gulp-eslint-a6e7609c.md) |
 | `npm_registry-a6b5e57513c328` | prettier-plugin-jsdoc | [open](records/node-js-javascript-prettier-plugin-jsdoc-ba19dc08.md) |
+| `npm_registry-a6e32b2a698a92` | logging | [open](records/node-js-javascript-logging-3d67d203.md) |
 | `npm_registry-a6f31f74b64f61` | mintlify | [open](records/node-js-javascript-mintlify-3fade289.md) |
 | `npm_registry-a73688577bdca3` | babel-plugin-const-enum | [open](records/node-js-typescript-babel-plugin-const-enum-7f98f1fc.md) |
 | `npm_registry-a73bab5b7e6c2c` | reassure | [open](records/node-js-javascript-reassure-eba5b3f1.md) |
@@ -8522,6 +8554,7 @@
 | `npm_registry-a7792f76c52bb7` | @backstage/cli-module-new | [open](records/node-js-javascript-backstage-cli-module-new-2c05e228.md) |
 | `npm_registry-a77b12c4f345ef` | http-cache-semantics | [open](records/node-js-javascript-http-cache-semantics-cc6e6359.md) |
 | `npm_registry-a7b4a4b45e0db3` | @react-native/community-cli-plugin | [open](records/node-js-javascript-react-native-community-cli-plugin-1ae28880.md) |
+| `npm_registry-a7d2c42dcf1da5` | @loopback/logging | [open](records/node-js-javascript-loopback-logging-dfddedba.md) |
 | `npm_registry-a7d7cfbe01cb53` | cli-table-redemption | [open](records/node-js-javascript-cli-table-redemption-7acfd7c3.md) |
 | `npm_registry-a7dcb2fe00b5f9` | cmake-js | [open](records/node-js-javascript-cmake-js-4a5572f9.md) |
 | `npm_registry-a7f0af754cd056` | ember-template-lint-plugin-prettier | [open](records/node-js-javascript-ember-template-lint-plugin-prettier-5949dca3.md) |
@@ -8544,6 +8577,7 @@
 | `npm_registry-a901a481b9ec17` | @anthropic-ai/sdk | [open](records/node-js-typescript-anthropic-ai-sdk-505c8b05.md) |
 | `npm_registry-a930981088f3e4` | @types/qs | [open](records/node-js-typescript-types-qs-fa245579.md) |
 | `npm_registry-a9379748c6045a` | @sveltejs/acorn-typescript | [open](records/node-js-typescript-sveltejs-acorn-typescript-5bdf4a10.md) |
+| `npm_registry-a942d09fe092b5` | abstract-logging | [open](records/node-js-javascript-abstract-logging-e0fb44af.md) |
 | `npm_registry-a94a424caf294f` | react-refresh-typescript | [open](records/node-js-typescript-react-refresh-typescript-1c7a6e53.md) |
 | `npm_registry-a94cad3145bdc7` | lodash._isiterateecall | [open](records/node-js-javascript-lodash-isiterateecall-51a57a82.md) |
 | `npm_registry-a9c4490fa24f9d` | csp_evaluator | [open](records/node-js-javascript-csp-evaluator-3860589a.md) |
@@ -8562,6 +8596,7 @@
 | `npm_registry-aaf179a87a0bf6` | prettier-plugin-jsdoc-type | [open](records/node-js-javascript-prettier-plugin-jsdoc-type-94095545.md) |
 | `npm_registry-ab093e5ffebdc0` | firestore-security-tests | [open](records/node-js-javascript-firestore-security-tests-b5496164.md) |
 | `npm_registry-ab0a7bf3bcd7ce` | @wdio/appium-service | [open](records/node-js-javascript-wdio-appium-service-4e12b589.md) |
+| `npm_registry-ab269069a399f9` | micro-ftch | [open](records/node-js-javascript-micro-ftch-5c8c84b2.md) |
 | `npm_registry-ab2c81fed6f04e` | @middy/http-security-headers | [open](records/node-js-javascript-middy-http-security-headers-41f7c725.md) |
 | `npm_registry-ab2fb4182b4bda` | astro-eslint-parser | [open](records/node-js-javascript-astro-eslint-parser-8c559a7c.md) |
 | `npm_registry-ab2fe8ce74dd43` | @agent-qofeno/security | [open](records/node-js-javascript-agent-qofeno-security-8e9aa8b2.md) |
@@ -8570,6 +8605,7 @@
 | `npm_registry-ab6e0d9a861e6b` | chromatic | [open](records/node-js-javascript-chromatic-d4979463.md) |
 | `npm_registry-aba943ec2d1fb4` | @tanstack/react-start-rsc | [open](records/node-js-javascript-tanstack-react-start-rsc-cf26d1f1.md) |
 | `npm_registry-abf385acf181a2` | datadog-metrics | [open](records/node-js-javascript-datadog-metrics-756d6cdb.md) |
+| `npm_registry-ac1201e43f0ec1` | logdna | [open](records/node-js-javascript-logdna-598a560c.md) |
 | `npm_registry-ac33a90b56563b` | @tellescope/testing | [open](records/node-js-javascript-tellescope-testing-59848a2c.md) |
 | `npm_registry-ac7940d83e9f34` | ts-invariant | [open](records/node-js-typescript-ts-invariant-1fd1fa80.md) |
 | `npm_registry-ac874334bd431a` | @atomic-testing/dom-core | [open](records/node-js-javascript-atomic-testing-dom-core-0cf77348.md) |
@@ -8581,6 +8617,7 @@
 | `npm_registry-ad14ce90abf23f` | @workflow/typescript-plugin | [open](records/node-js-typescript-workflow-typescript-plugin-fd9aa683.md) |
 | `npm_registry-ad23200d2e9792` | @rsbuild/core | [open](records/node-js-javascript-rsbuild-core-81024905.md) |
 | `npm_registry-ad6eb2614d1327` | json-schema-typed | [open](records/node-js-typescript-json-schema-typed-2030485f.md) |
+| `npm_registry-ad730f1ebec4dc` | @seek/logger | [open](records/node-js-javascript-seek-logger-e2d8a715.md) |
 | `npm_registry-ad95501099e874` | @amplitude/ampli | [open](records/node-js-javascript-amplitude-ampli-69d1d68a.md) |
 | `npm_registry-ad976bed3c19eb` | mongodb-mcp-server | [open](records/node-js-javascript-mongodb-mcp-server-f834c764.md) |
 | `npm_registry-ad98ca100d9481` | http-cookie-agent | [open](records/node-js-javascript-http-cookie-agent-99f20bbf.md) |
@@ -8609,6 +8646,7 @@
 | `npm_registry-af761fcbbebba3` | @umijs/server | [open](records/node-js-javascript-umijs-server-39ec9954.md) |
 | `npm_registry-af8493870cf87d` | nest-commander-testing | [open](records/node-js-javascript-nest-commander-testing-0dd53d26.md) |
 | `npm_registry-af8c902ae3f816` | next-http-proxy-middleware | [open](records/node-js-javascript-next-http-proxy-middleware-1f6cada2.md) |
+| `npm_registry-afa8c2e4e8f7a6` | @murumets-ee/logging | [open](records/node-js-javascript-murumets-ee-logging-f85bbf33.md) |
 | `npm_registry-afcf1384eee139` | @react-native-community/cli | [open](records/node-js-javascript-react-native-community-cli-6fa03e7d.md) |
 | `npm_registry-afffaeae1eb7a0` | eslint-plugin-electron-security | [open](records/node-js-javascript-eslint-plugin-electron-security-f0d776e4.md) |
 | `npm_registry-b002bee60d3fea` | @cubejs-backend/oracle-driver | [open](records/node-js-javascript-cubejs-backend-oracle-driver-67860979.md) |
@@ -8618,6 +8656,7 @@
 | `npm_registry-b06ea34ff9a572` | @w5s/prettier-config | [open](records/node-js-javascript-w5s-prettier-config-ba5528e4.md) |
 | `npm_registry-b07512595e7326` | ueberdb2 | [open](records/node-js-javascript-ueberdb2-6da7eb4c.md) |
 | `npm_registry-b07d1a0b5591e3` | @typescript/vfs | [open](records/node-js-typescript-typescript-vfs-4c81cc97.md) |
+| `npm_registry-b0bee9c3dff35f` | triple-beam | [open](records/node-js-javascript-triple-beam-7395e89e.md) |
 | `npm_registry-b0c2c4f65260bc` | node-gyp-build | [open](records/node-js-javascript-node-gyp-build-408a3d9a.md) |
 | `npm_registry-b0e7aaa9b5919b` | prettier_d_slim | [open](records/node-js-javascript-prettier-d-slim-00b7322a.md) |
 | `npm_registry-b11135ed4e070f` | @stoplight/cli | [open](records/node-js-javascript-stoplight-cli-730b609f.md) |
@@ -8629,6 +8668,7 @@
 | `npm_registry-b16d065f2ae763` | @mondaydotcomorg/browserslist-config | [open](records/node-js-javascript-mondaydotcomorg-browserslist-config-02bd07d7.md) |
 | `npm_registry-b18e48cfa72156` | @typescript/typescript-openbsd-arm64 | [open](records/node-js-typescript-typescript-typescript-openbsd-arm64-70dd59c5.md) |
 | `npm_registry-b1b6751a827c01` | standard-http-error | [open](records/node-js-javascript-standard-http-error-e688b18a.md) |
+| `npm_registry-b1f9ec6dabd3e2` | @stream-io/logger | [open](records/node-js-javascript-stream-io-logger-e259fd5f.md) |
 | `npm_registry-b24bc7a93863c0` | anypoint-cli-command | [open](records/node-js-javascript-anypoint-cli-command-8ffeaa57.md) |
 | `npm_registry-b25c522e2c11b0` | @bemi-io/drizzle | [open](records/node-js-javascript-bemi-io-drizzle-decc4ae9.md) |
 | `npm_registry-b26a9d8b69fde6` | angularjs-testing-library | [open](records/node-js-javascript-angularjs-testing-library-65743e7b.md) |
@@ -8638,6 +8678,8 @@
 | `npm_registry-b2933fce5abb08` | @cap-js/sqlite | [open](records/node-js-javascript-cap-js-sqlite-e799c5a7.md) |
 | `npm_registry-b29f5fa8f0241b` | @farcaster/miniapp-sdk | [open](records/node-js-javascript-farcaster-miniapp-sdk-626ae0e3.md) |
 | `npm_registry-b2b40d9f18bca6` | @cordisjs/plugin-database | [open](records/node-js-javascript-cordisjs-plugin-database-a459846b.md) |
+| `npm_registry-b2d9a813eff0e8` | @atomist/skill-logging | [open](records/node-js-javascript-atomist-skill-logging-36e03b5a.md) |
+| `npm_registry-b2ddc1fb87319b` | @workleap/logging | [open](records/node-js-javascript-workleap-logging-c86a0999.md) |
 | `npm_registry-b2fd08e223a588` | @opentelemetry/instrumentation-typeorm | [open](records/node-js-javascript-opentelemetry-instrumentation-typeorm-faeeb0b6.md) |
 | `npm_registry-b302e58624361f` | @aparajita/capacitor-biometric-auth | [open](records/node-js-javascript-aparajita-capacitor-biometric-auth-2db2e357.md) |
 | `npm_registry-b3103098aac3d8` | @lmc-eu/prettier-config | [open](records/node-js-javascript-lmc-eu-prettier-config-29a42691.md) |
@@ -8649,13 +8691,17 @@
 | `npm_registry-b35224f1f42be4` | tzdata | [open](records/node-js-javascript-tzdata-361160de.md) |
 | `npm_registry-b36834e3949bf3` | @emotion/server | [open](records/node-js-javascript-emotion-server-fd817bde.md) |
 | `npm_registry-b3699137f0bf68` | @wdio/cucumber-framework | [open](records/node-js-javascript-wdio-cucumber-framework-3fd5daaf.md) |
+| `npm_registry-b37c099d7a66b1` | @loglayer/transport-google-cloud-logging | [open](records/node-js-javascript-loglayer-transport-google-cloud-logging-7066def0.md) |
 | `npm_registry-b37e1f5c37c03b` | @loopback/build | [open](records/node-js-typescript-loopback-build-5ce86ee9.md) |
+| `npm_registry-b39d7953bc8550` | splunk-logging | [open](records/node-js-javascript-splunk-logging-a18c9556.md) |
 | `npm_registry-b3bbed852ec064` | @microsoft/eslint-formatter-sarif | [open](records/node-js-javascript-microsoft-eslint-formatter-sarif-b90f9dff.md) |
 | `npm_registry-b3e7d1d6f8875d` | @flmngr/flmngr-server-node | [open](records/node-js-javascript-flmngr-flmngr-server-node-56d18ed6.md) |
+| `npm_registry-b3fafdbaf78674` | prettysize | [open](records/node-js-javascript-prettysize-e123605e.md) |
 | `npm_registry-b40599ee355f0a` | ssn-validator | [open](records/node-js-javascript-ssn-validator-02a19838.md) |
 | `npm_registry-b40698789f1dc8` | redstone-prettier-config | [open](records/node-js-javascript-redstone-prettier-config-79c0822b.md) |
 | `npm_registry-b408f46ae1a60a` | @types/smtp-server | [open](records/node-js-typescript-types-smtp-server-8ea7362c.md) |
 | `npm_registry-b41c03e5ff3bb3` | i18next-http-middleware | [open](records/node-js-javascript-i18next-http-middleware-eb0b9150.md) |
+| `npm_registry-b42cb982682aa3` | @nr1e/logging | [open](records/node-js-javascript-nr1e-logging-78cd4595.md) |
 | `npm_registry-b43f05a03b9daa` | typescript-coverage-report | [open](records/node-js-typescript-typescript-coverage-report-de2a3cf0.md) |
 | `npm_registry-b44c5f5a1d6694` | @redocly/respect-core | [open](records/node-js-javascript-redocly-respect-core-7f77cb1b.md) |
 | `npm_registry-b470fc9f13651e` | @burdenoff/microfe-security | [open](records/node-js-javascript-burdenoff-microfe-security-383a41df.md) |
@@ -8664,6 +8710,7 @@
 | `npm_registry-b4ac0a49ae4bc7` | @poppanator/http-constants | [open](records/node-js-javascript-poppanator-http-constants-9d081a66.md) |
 | `npm_registry-b4c5ff58188f41` | @vitest/eslint-plugin | [open](records/node-js-javascript-vitest-eslint-plugin-aaec7a17.md) |
 | `npm_registry-b4cd062b7f53c6` | agent-cli-detector | [open](records/node-js-javascript-agent-cli-detector-e314b24b.md) |
+| `npm_registry-b4d4ebb23a2843` | @stacksjs/logging | [open](records/node-js-javascript-stacksjs-logging-4cf23af5.md) |
 | `npm_registry-b4f8150bf384ea` | @google/gemini-cli | [open](records/node-js-javascript-google-gemini-cli-c3ee3b5d.md) |
 | `npm_registry-b501afba17e5d7` | expo-server-sdk | [open](records/node-js-javascript-expo-server-sdk-2135e11d.md) |
 | `npm_registry-b50b10ec5950d3` | @sap/xssec | [open](records/node-js-javascript-sap-xssec-6a65d608.md) |
@@ -8680,22 +8727,29 @@
 | `npm_registry-b6224fcb558823` | @cubejs-backend/pinot-driver | [open](records/node-js-javascript-cubejs-backend-pinot-driver-7a93e106.md) |
 | `npm_registry-b62a23457161e3` | @middy/http-response-serializer | [open](records/node-js-javascript-middy-http-response-serializer-1c8cf446.md) |
 | `npm_registry-b63c6cf964bfe1` | stylelint-prettier | [open](records/node-js-javascript-stylelint-prettier-0726e18e.md) |
+| `npm_registry-b63e75042b2fca` | @tryghost/logging | [open](records/node-js-javascript-tryghost-logging-0633b988.md) |
+| `npm_registry-b653622cdb22ae` | @loglayer/hono | [open](records/node-js-javascript-loglayer-hono-413a0ef7.md) |
 | `npm_registry-b6923ed05fb8db` | typescript-cp | [open](records/node-js-typescript-typescript-cp-0a62d28e.md) |
 | `npm_registry-b6aea45a29d2ef` | yaml-eslint-parser | [open](records/node-js-javascript-yaml-eslint-parser-8de3f6cd.md) |
+| `npm_registry-b6afd965460ea0` | @rocicorp/logger | [open](records/node-js-javascript-rocicorp-logger-9b9a855b.md) |
 | `npm_registry-b6f24dffa95f19` | @mixer/parallel-prettier | [open](records/node-js-javascript-mixer-parallel-prettier-2b955eea.md) |
 | `npm_registry-b758c7bfef2c9c` | vite-plugin-content-security-policy | [open](records/node-js-javascript-vite-plugin-content-security-policy-2d265d49.md) |
 | `npm_registry-b77117dfe77c90` | @types/pg | [open](records/node-js-typescript-types-pg-3ea8aec8.md) |
 | `npm_registry-b7780ef4ab3b0b` | @usehercules/eslint-plugin | [open](records/node-js-javascript-usehercules-eslint-plugin-70fa5382.md) |
+| `npm_registry-b7c172623f7114` | @contrast/logger | [open](records/node-js-javascript-contrast-logger-a68ffedd.md) |
 | `npm_registry-b7f949b7287c68` | eslint-formatter-kakoune | [open](records/node-js-javascript-eslint-formatter-kakoune-2704d92a.md) |
+| `npm_registry-b81c9773b0fbac` | @sap-ux/logger | [open](records/node-js-javascript-sap-ux-logger-bf2d987c.md) |
 | `npm_registry-b836c91fbc3d73` | @prisma/cli-security-rules | [open](records/node-js-javascript-prisma-cli-security-rules-a67d6ecc.md) |
 | `npm_registry-b83baa5bebd66c` | @openfeature/core | [open](records/node-js-javascript-openfeature-core-e3b3a0d0.md) |
 | `npm_registry-b84983c362316e` | clone-response | [open](records/node-js-javascript-clone-response-79ac95e4.md) |
 | `npm_registry-b84a34de980434` | chrome-devtools-mcp | [open](records/node-js-javascript-chrome-devtools-mcp-3aba1a23.md) |
 | `npm_registry-b854d5680fa42f` | ember-cli-terser | [open](records/node-js-javascript-ember-cli-terser-4cb969c7.md) |
 | `npm_registry-b8689b562d5516` | @fusionauth/typescript-client | [open](records/node-js-typescript-fusionauth-typescript-client-dc7b25ad.md) |
+| `npm_registry-b892771a337fdd` | loglevel | [open](records/node-js-javascript-loglevel-469530b4.md) |
 | `npm_registry-b8b6bcab5ececc` | eslint-json-compat-utils | [open](records/node-js-javascript-eslint-json-compat-utils-386b4032.md) |
 | `npm_registry-b8cb8e3d347c90` | pg-protocol | [open](records/node-js-typescript-pg-protocol-542522dc.md) |
 | `npm_registry-b8ef626d15819f` | @itwin/build-tools | [open](records/node-js-javascript-itwin-build-tools-94081f5f.md) |
+| `npm_registry-b91b7db486fdb3` | opentok-solutions-logging | [open](records/node-js-javascript-opentok-solutions-logging-75650ad4.md) |
 | `npm_registry-b929448ea81f84` | @aerogear/security | [open](records/node-js-javascript-aerogear-security-3e4955aa.md) |
 | `npm_registry-b934d33492aa58` | @prettier/plugin-pug | [open](records/node-js-javascript-prettier-plugin-pug-ac43b13a.md) |
 | `npm_registry-b9568c849c0179` | @firebase/rules-unit-testing | [open](records/node-js-javascript-firebase-rules-unit-testing-81dde538.md) |
@@ -8708,6 +8762,7 @@
 | `npm_registry-ba69a20adebd31` | typescript-miscellaneous | [open](records/node-js-typescript-typescript-miscellaneous-76dbf136.md) |
 | `npm_registry-ba70fa3535aa61` | @matter-server/dashboard | [open](records/node-js-javascript-matter-server-dashboard-b2554d68.md) |
 | `npm_registry-ba81ef648139d2` | @contentful/mcp-server | [open](records/node-js-javascript-contentful-mcp-server-f8c3e0db.md) |
+| `npm_registry-ba8494325397ba` | @web/browser-logs | [open](records/node-js-javascript-web-browser-logs-9820e98e.md) |
 | `npm_registry-ba854aff2fa174` | @apollo/protobufjs | [open](records/node-js-typescript-apollo-protobufjs-c29bf38c.md) |
 | `npm_registry-ba9118ef31d4c6` | @sentry/cli-win32-arm64 | [open](records/node-js-javascript-sentry-cli-win32-arm64-99fb88fa.md) |
 | `npm_registry-ba988f35d4e379` | solhint-plugin-prettier | [open](records/node-js-javascript-solhint-plugin-prettier-cb50c313.md) |
@@ -8720,6 +8775,7 @@
 | `npm_registry-bb412ae208d073` | gts | [open](records/node-js-typescript-gts-aeda1c43.md) |
 | `npm_registry-bb80b035879365` | @supabase/cli-linux-x64 | [open](records/node-js-javascript-supabase-cli-linux-x64-04164519.md) |
 | `npm_registry-bb87c167e2171d` | koa-helmet | [open](records/node-js-javascript-koa-helmet-df7185d5.md) |
+| `npm_registry-bb8c33d7c8267a` | @probe.gl/log | [open](records/node-js-javascript-probe-gl-log-6d2d59ee.md) |
 | `npm_registry-bb97d3221e653d` | @aws-amplify/graphql-http-transformer | [open](records/node-js-javascript-aws-amplify-graphql-http-transformer-8ede633f.md) |
 | `npm_registry-bbb2fb09df0791` | @data-elements/database | [open](records/node-js-javascript-data-elements-database-84055e3f.md) |
 | `npm_registry-bbcee5b0a31692` | plasmo | [open](records/node-js-javascript-plasmo-4a007950.md) |
@@ -8759,6 +8815,7 @@
 | `npm_registry-beb7e84b420c44` | http-deceiver | [open](records/node-js-javascript-http-deceiver-e2acb0e7.md) |
 | `npm_registry-bf11abbd34e44c` | @markuplint/cli-utils | [open](records/node-js-javascript-markuplint-cli-utils-7177a9a3.md) |
 | `npm_registry-bf27d9d1dae317` | helmet-csp | [open](records/node-js-javascript-helmet-csp-01b72313.md) |
+| `npm_registry-bf37cb34a6b14f` | @jitsi/logger | [open](records/node-js-javascript-jitsi-logger-a6ac563c.md) |
 | `npm_registry-bf3e93b276af50` | @ianvs/prettier-plugin-sort-imports | [open](records/node-js-javascript-ianvs-prettier-plugin-sort-imports-2792cb99.md) |
 | `npm_registry-bf4bec48811595` | @typescript-eslint/visitor-keys | [open](records/node-js-typescript-typescript-eslint-visitor-keys-6cfd9c00.md) |
 | `npm_registry-bf624ce75dd470` | eslint-plugin-angular | [open](records/node-js-javascript-eslint-plugin-angular-de40b551.md) |
@@ -8780,6 +8837,7 @@
 | `npm_registry-c11517c55b59a7` | @react-router/serve | [open](records/node-js-javascript-react-router-serve-fcd29568.md) |
 | `npm_registry-c18b1227137345` | eslint-plugin-mobx | [open](records/node-js-javascript-eslint-plugin-mobx-7c8e409f.md) |
 | `npm_registry-c1a6efbce2aca1` | n8n-nodes-oracle-database-parameterization | [open](records/node-js-javascript-n8n-nodes-oracle-database-parameterization-722345b1.md) |
+| `npm_registry-c1cf530c89198f` | morgan-body | [open](records/node-js-javascript-morgan-body-41f98b4b.md) |
 | `npm_registry-c1d1cb8edd1492` | toml-eslint-parser | [open](records/node-js-javascript-toml-eslint-parser-f8f9c5ff.md) |
 | `npm_registry-c1d5a8e5dca0e9` | @jupyterlab/buildutils | [open](records/node-js-javascript-jupyterlab-buildutils-a31144bc.md) |
 | `npm_registry-c1f29ebe1ea271` | minato | [open](records/node-js-javascript-minato-fe4375bd.md) |
@@ -8829,6 +8887,7 @@
 | `npm_registry-c8760a93b95b8f` | azure-iot-security-x509 | [open](records/node-js-javascript-azure-iot-security-x509-1afd404e.md) |
 | `npm_registry-c87f9d9675a357` | responselike | [open](records/node-js-javascript-responselike-e243aa26.md) |
 | `npm_registry-c897d90a54a98b` | @metaplex-foundation/umi-http-fetch | [open](records/node-js-javascript-metaplex-foundation-umi-http-fetch-0b2716d0.md) |
+| `npm_registry-c8e9bf676c6b50` | @tinkoff/logger | [open](records/node-js-javascript-tinkoff-logger-a5e0ce36.md) |
 | `npm_registry-c90eae9c98c6d7` | ts-transformer-testing-library | [open](records/node-js-typescript-ts-transformer-testing-library-7987e056.md) |
 | `npm_registry-c9388d6a8bfe6f` | bin-build | [open](records/node-js-javascript-bin-build-4613c67e.md) |
 | `npm_registry-c94a8c9467df12` | @transcend-io/mcp-server-preferences | [open](records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
@@ -8890,6 +8949,7 @@
 | `npm_registry-cfd3e6630ecfe1` | @react-router/express | [open](records/node-js-javascript-react-router-express-7f5f4395.md) |
 | `npm_registry-cfe228edaa3816` | graphile-utils | [open](records/node-js-javascript-graphile-utils-44e6633a.md) |
 | `npm_registry-d00f6d360cf944` | json-schema-to-ts | [open](records/node-js-typescript-json-schema-to-ts-be5fe66b.md) |
+| `npm_registry-d01194706e190e` | @axiomhq/logging | [open](records/node-js-javascript-axiomhq-logging-1a778042.md) |
 | `npm_registry-d0209d48eab87c` | @atomic-testing/playwright | [open](records/node-js-javascript-atomic-testing-playwright-2dd5d8af.md) |
 | `npm_registry-d020dcaf487459` | @types/body-parser | [open](records/node-js-typescript-types-body-parser-95928b02.md) |
 | `npm_registry-d0364aa1f09fa3` | @nodable/entities | [open](records/node-js-javascript-nodable-entities-869bfdd0.md) |
@@ -8920,6 +8980,7 @@
 | `npm_registry-d25c5dd75d4ac0` | @contrast/distringuish | [open](records/node-js-javascript-contrast-distringuish-973afdaa.md) |
 | `npm_registry-d275fef4870e9b` | @apla/clickhouse | [open](records/node-js-javascript-apla-clickhouse-1f13f09f.md) |
 | `npm_registry-d27c5c11dbddca` | @mashroom/mashroom-security-provider-ldap | [open](records/node-js-javascript-mashroom-mashroom-security-provider-ldap-a20aeb4f.md) |
+| `npm_registry-d297f7547098e0` | @tauri-apps/plugin-log | [open](records/node-js-javascript-tauri-apps-plugin-log-2be10d86.md) |
 | `npm_registry-d2c90b890c3536` | @cubejs-backend/duckdb-driver | [open](records/node-js-javascript-cubejs-backend-duckdb-driver-01487aa6.md) |
 | `npm_registry-d2f756789eba13` | fast-xml-parser | [open](records/node-js-javascript-fast-xml-parser-a671482d.md) |
 | `npm_registry-d31cfc033102c0` | @trivago/prettier-plugin-sort-imports | [open](records/node-js-javascript-trivago-prettier-plugin-sort-imports-3d1fcff8.md) |
@@ -8931,6 +8992,7 @@
 | `npm_registry-d36942b25ac68b` | @nivinjoseph/n-sec | [open](records/node-js-javascript-nivinjoseph-n-sec-a294e9f9.md) |
 | `npm_registry-d37a8e51dc7afd` | sharedb-mongo | [open](records/node-js-javascript-sharedb-mongo-27ec74b7.md) |
 | `npm_registry-d3ae524e7313da` | @mockoon/commons-server | [open](records/node-js-javascript-mockoon-commons-server-ece091a0.md) |
+| `npm_registry-d3e3845ef65627` | pino-cloud-logging | [open](records/node-js-javascript-pino-cloud-logging-b19acc32.md) |
 | `npm_registry-d4309d8613127c` | @storybook/react-docgen-typescript-plugin | [open](records/node-js-typescript-storybook-react-docgen-typescript-plugin-f9e86dc7.md) |
 | `npm_registry-d43a86f05c9afe` | openapi-typescript | [open](records/node-js-typescript-openapi-typescript-ae833e82.md) |
 | `npm_registry-d454095cb83b1d` | @azure/static-web-apps-cli | [open](records/node-js-javascript-azure-static-web-apps-cli-27f1f5ff.md) |
@@ -8951,16 +9013,21 @@
 | `npm_registry-d5d1ded739f350` | @html-eslint/types | [open](records/node-js-javascript-html-eslint-types-c46976fd.md) |
 | `npm_registry-d5e0eefcb6a2ad` | @opentelemetry/instrumentation-xml-http-request | [open](records/node-js-javascript-opentelemetry-instrumentation-xml-http-request-941e855c.md) |
 | `npm_registry-d5f4b1a95ce680` | secure-filters | [open](records/node-js-javascript-secure-filters-337f157f.md) |
+| `npm_registry-d6186e34d8acd5` | @logtail/tools | [open](records/node-js-javascript-logtail-tools-50328777.md) |
 | `npm_registry-d621a3db9a86af` | fathom-typescript | [open](records/node-js-typescript-fathom-typescript-1dba6c2d.md) |
+| `npm_registry-d62eadef0a4d8a` | @betomorrow/logging-core | [open](records/node-js-javascript-betomorrow-logging-core-82fb4415.md) |
 | `npm_registry-d63b41c1f9a4eb` | @ez4/database | [open](records/node-js-javascript-ez4-database-a64d6baa.md) |
+| `npm_registry-d66b9478e4c140` | vega-logging | [open](records/node-js-javascript-vega-logging-9b4cb741.md) |
 | `npm_registry-d691c6e605a9fe` | cli-cursor | [open](records/node-js-javascript-cli-cursor-05d44734.md) |
 | `npm_registry-d6d281af86d8ce` | @eslint/config-helpers | [open](records/node-js-javascript-eslint-config-helpers-4e1a9d5a.md) |
 | `npm_registry-d708e001dd641e` | @standardnotes/security | [open](records/node-js-javascript-standardnotes-security-25261d32.md) |
+| `npm_registry-d743b58c7cc015` | bunyan | [open](records/node-js-javascript-bunyan-ea9211d6.md) |
 | `npm_registry-d774bff359795f` | rollup-plugin-prettier | [open](records/node-js-javascript-rollup-plugin-prettier-8b47e5a5.md) |
 | `npm_registry-d79ace844f264c` | @knapsack/prettier-config | [open](records/node-js-javascript-knapsack-prettier-config-18f1d770.md) |
 | `npm_registry-d7b6c3f68a633e` | @cubejs-backend/druid-driver | [open](records/node-js-javascript-cubejs-backend-druid-driver-4b43d84c.md) |
 | `npm_registry-d7bb4264812e7c` | @taquito/http-utils | [open](records/node-js-javascript-taquito-http-utils-f75d23ea.md) |
 | `npm_registry-d7cde7e1168467` | supertest | [open](records/node-js-javascript-supertest-54da63ec.md) |
+| `npm_registry-d7d2d38c0476d0` | @loglayer/transport-sentry | [open](records/node-js-javascript-loglayer-transport-sentry-fbe0a7fb.md) |
 | `npm_registry-d7eec428ec6ac2` | @adobe/css-tools | [open](records/node-js-typescript-adobe-css-tools-f7566708.md) |
 | `npm_registry-d7f2506e05d538` | @nicolo-ribaudo/eslint-scope-5-internals | [open](records/node-js-javascript-nicolo-ribaudo-eslint-scope-5-internals-044a6265.md) |
 | `npm_registry-d80b0ecc87a9b5` | @salesforce/eslint-plugin-aura | [open](records/node-js-javascript-salesforce-eslint-plugin-aura-715451ef.md) |
@@ -8995,6 +9062,7 @@
 | `npm_registry-dbc3871058819c` | @variamosple/variamos-security | [open](records/node-js-javascript-variamosple-variamos-security-3bef3d4d.md) |
 | `npm_registry-dbcde93ba25130` | eslint-plugin-i18next | [open](records/node-js-javascript-eslint-plugin-i18next-d5b7e9ea.md) |
 | `npm_registry-dbea1c99d41831` | mint | [open](records/node-js-javascript-mint-4de26fe3.md) |
+| `npm_registry-dc08bb4a84c93a` | @app-config/logging | [open](records/node-js-javascript-app-config-logging-de663aca.md) |
 | `npm_registry-dc0a251e0ce7fe` | @coralogix/rum-cli | [open](records/node-js-javascript-coralogix-rum-cli-c5da80b1.md) |
 | `npm_registry-dc5ab32b19a687` | type-fest | [open](records/node-js-typescript-type-fest-05e5048b.md) |
 | `npm_registry-dc61bbcab97388` | @camunda/task-testing | [open](records/node-js-javascript-camunda-task-testing-da18aa2b.md) |
@@ -9039,6 +9107,8 @@
 | `npm_registry-e0542365e30b98` | @ui5/project | [open](records/node-js-javascript-ui5-project-4c9f4023.md) |
 | `npm_registry-e07556d7b0239f` | Jest | [open](records/node-js-javascript-jest-11d247aa.md) |
 | `npm_registry-e080537c173f12` | webpack-build-utils | [open](records/node-js-javascript-webpack-build-utils-7e1b9878.md) |
+| `npm_registry-e0834ffadfca21` | cloud-pine | [open](records/node-js-javascript-cloud-pine-a980d34e.md) |
+| `npm_registry-e088421a91a0f4` | @flatfile/utils-debugger | [open](records/node-js-javascript-flatfile-utils-debugger-b3ec9c7c.md) |
 | `npm_registry-e09ddce31d18ff` | bare-http-parser | [open](records/node-js-javascript-bare-http-parser-ca448c3b.md) |
 | `npm_registry-e0e650f121354d` | json-schema-to-typescript | [open](records/node-js-typescript-json-schema-to-typescript-8e1c8691.md) |
 | `npm_registry-e0f41c15a09837` | @cloudflare/util-http | [open](records/node-js-javascript-cloudflare-util-http-2d4a7ac2.md) |
@@ -9057,7 +9127,9 @@
 | `npm_registry-e338c6836dcd31` | wx-server-sdk | [open](records/node-js-javascript-wx-server-sdk-fd8232be.md) |
 | `npm_registry-e369916ba2c062` | prettier-plugin-scaffdog | [open](records/node-js-javascript-prettier-plugin-scaffdog-b2cbb459.md) |
 | `npm_registry-e374c611f35323` | testem | [open](records/node-js-javascript-testem-adf12a00.md) |
+| `npm_registry-e3abd3f1a7d8a1` | @thi.ng/logger | [open](records/node-js-javascript-thi-ng-logger-eecb78cf.md) |
 | `npm_registry-e3b9690aa06372` | apollo-server-module-graphiql | [open](records/node-js-javascript-apollo-server-module-graphiql-868b59df.md) |
+| `npm_registry-e3be18d7dc972d` | @remix-run/logger-middleware | [open](records/node-js-javascript-remix-run-logger-middleware-847e9243.md) |
 | `npm_registry-e3bfa50799ae8e` | @sentry/cli | [open](records/node-js-javascript-sentry-cli-0da5e1b2.md) |
 | `npm_registry-e3d2bcb7b226a6` | @iobroker/db-states-jsonl | [open](records/node-js-javascript-iobroker-db-states-jsonl-84e6ba4b.md) |
 | `npm_registry-e3d47b5030d646` | livereload | [open](records/node-js-javascript-livereload-1a5bba84.md) |
@@ -9067,10 +9139,12 @@
 | `npm_registry-e4224c1394606b` | eslint-config-airbnb-typescript-prettier | [open](records/node-js-typescript-eslint-config-airbnb-typescript-prettier-4d643f67.md) |
 | `npm_registry-e426dc40c81980` | @open-mercato/scheduler | [open](records/node-js-javascript-open-mercato-scheduler-e556979e.md) |
 | `npm_registry-e440dc4d220707` | prettier-plugin-apex | [open](records/node-js-javascript-prettier-plugin-apex-89804b40.md) |
+| `npm_registry-e46d4ff5657ef8` | @qvac/logging | [open](records/node-js-javascript-qvac-logging-02d35d63.md) |
 | `npm_registry-e485ffaedf194e` | eslint-plugin-vue | [open](records/node-js-javascript-eslint-plugin-vue-9d1631b5.md) |
 | `npm_registry-e48d87fafe690d` | eslint-config-airbnb | [open](records/node-js-javascript-eslint-config-airbnb-8e6c61d8.md) |
 | `npm_registry-e48e8f62e19bb4` | @miksu/prettier | [open](records/node-js-javascript-miksu-prettier-56fc7e12.md) |
 | `npm_registry-e48ed6cbc08a36` | @firebase/database-compat | [open](records/node-js-javascript-firebase-database-compat-b3021f32.md) |
+| `npm_registry-e4a188b48b7ab9` | @expo/bunyan | [open](records/node-js-javascript-expo-bunyan-45e8d57d.md) |
 | `npm_registry-e4b06415fc49e6` | apollo-datasource-http | [open](records/node-js-javascript-apollo-datasource-http-07bd8767.md) |
 | `npm_registry-e4d80d68056c0b` | prettier-plugin-antlers | [open](records/node-js-javascript-prettier-plugin-antlers-a47eda56.md) |
 | `npm_registry-e4e43f348fc0a0` | sequelize-auto | [open](records/node-js-javascript-sequelize-auto-9f8a10e0.md) |
@@ -9079,8 +9153,10 @@
 | `npm_registry-e5141c7f6907bf` | @locker/trusted-types | [open](records/node-js-javascript-locker-trusted-types-ae9844ce.md) |
 | `npm_registry-e523fc865c61bc` | eslint-config-google | [open](records/node-js-javascript-eslint-config-google-77759efc.md) |
 | `npm_registry-e5256210def95f` | @e2b/cli | [open](records/node-js-javascript-e2b-cli-0629f4ac.md) |
+| `npm_registry-e528820bf86bd6` | gulp-remove-logging | [open](records/node-js-javascript-gulp-remove-logging-ff637b18.md) |
 | `npm_registry-e55031d9266e4c` | @graphql-eslint/eslint-plugin | [open](records/node-js-javascript-graphql-eslint-eslint-plugin-480805fb.md) |
 | `npm_registry-e577010b52e146` | @better-typescript-lib/es5 | [open](records/node-js-typescript-better-typescript-lib-es5-f63ebea0.md) |
+| `npm_registry-e5b785dcaa03aa` | @metamask/logging-controller | [open](records/node-js-javascript-metamask-logging-controller-2c78fe60.md) |
 | `npm_registry-e5c5bac2976a43` | @testing-library/webdriverio | [open](records/node-js-javascript-testing-library-webdriverio-5c4a7761.md) |
 | `npm_registry-e60e729894ff27` | @browserstack/mcp-server | [open](records/node-js-javascript-browserstack-mcp-server-28ee02d1.md) |
 | `npm_registry-e60f2fd3e4e344` | openapi-server-url-templating | [open](records/node-js-javascript-openapi-server-url-templating-fb39b925.md) |
@@ -9099,6 +9175,7 @@
 | `npm_registry-e73021bd4eb381` | argue-cli | [open](records/node-js-javascript-argue-cli-9c0b89c0.md) |
 | `npm_registry-e7328ad0a0310e` | eslint-plugin-astro | [open](records/node-js-javascript-eslint-plugin-astro-ed588791.md) |
 | `npm_registry-e7365bacdb040e` | @backstage/cli-module-github | [open](records/node-js-javascript-backstage-cli-module-github-929a0021.md) |
+| `npm_registry-e74277ecc27383` | kerium | [open](records/node-js-javascript-kerium-d830d1f6.md) |
 | `npm_registry-e77a781d5df271` | @percy/playwright | [open](records/node-js-javascript-percy-playwright-732244e2.md) |
 | `npm_registry-e795bc8e2d83a3` | @microsoft/eslint-plugin-sdl | [open](records/node-js-javascript-microsoft-eslint-plugin-sdl-f5041a5d.md) |
 | `npm_registry-e7aa000b6c7d57` | eslint-plugin-mdx | [open](records/node-js-javascript-eslint-plugin-mdx-60c805ad.md) |
@@ -9106,6 +9183,7 @@
 | `npm_registry-e7d93e2e282d08` | @types/json-schema | [open](records/node-js-typescript-types-json-schema-fc9096cf.md) |
 | `npm_registry-e8407ea96df6d6` | @langchain/pinecone | [open](records/node-js-javascript-langchain-pinecone-dd6c7dda.md) |
 | `npm_registry-e85416e25d7460` | accessibility-checker | [open](records/node-js-javascript-accessibility-checker-d6b9f1ad.md) |
+| `npm_registry-e866b7bf9262ca` | @stacksjs/clarity | [open](records/node-js-javascript-stacksjs-clarity-ea825823.md) |
 | `npm_registry-e86f16ed911b83` | @storm-software/testing-tools | [open](records/node-js-javascript-storm-software-testing-tools-3111101a.md) |
 | `npm_registry-e87afac4c7f786` | @lushly-dev/afd-testing | [open](records/node-js-javascript-lushly-dev-afd-testing-bf2d2077.md) |
 | `npm_registry-e89c370fa13699` | @ottocode/database | [open](records/node-js-javascript-ottocode-database-e1edbc5d.md) |
@@ -9121,13 +9199,16 @@
 | `npm_registry-e95a5c109deb1d` | @carbon/ibm-security | [open](records/node-js-javascript-carbon-ibm-security-c20acef5.md) |
 | `npm_registry-e96ba3baa0caf7` | @comunica/bus-http-invalidate | [open](records/node-js-javascript-comunica-bus-http-invalidate-4f0477c5.md) |
 | `npm_registry-e97123bf3f198a` | eslint-plugin-filenames | [open](records/node-js-javascript-eslint-plugin-filenames-1525e78c.md) |
+| `npm_registry-e9796ee21b7d6b` | @salesforce/bunyan | [open](records/node-js-javascript-salesforce-bunyan-73009aae.md) |
 | `npm_registry-e993628f6ecf5b` | egg-security | [open](records/node-js-javascript-egg-security-d130f4e5.md) |
 | `npm_registry-e9cadb816d0f4a` | centra | [open](records/node-js-javascript-centra-a0003045.md) |
 | `npm_registry-e9d5d8057fed1e` | http-message-parser | [open](records/node-js-javascript-http-message-parser-82ad395b.md) |
 | `npm_registry-e9d8c0a39d0ac3` | webpack-hot-middleware | [open](records/node-js-javascript-webpack-hot-middleware-971d9dc2.md) |
+| `npm_registry-e9e090474a251c` | koa-logger | [open](records/node-js-javascript-koa-logger-5f6df09d.md) |
 | `npm_registry-e9ef4afc8f7b14` | appium-uiautomator2-server | [open](records/node-js-javascript-appium-uiautomator2-server-156ed7d4.md) |
 | `npm_registry-ea1baa292b312d` | handlebars | [open](records/node-js-javascript-handlebars-9b6742c8.md) |
 | `npm_registry-ea3e05e017c80e` | eslint-plugin-cypress | [open](records/node-js-javascript-eslint-plugin-cypress-19f031c6.md) |
+| `npm_registry-ea7d86ce213446` | @sap/logging | [open](records/node-js-javascript-sap-logging-c02ac4fa.md) |
 | `npm_registry-eab6efec33d4f7` | acorn-typescript | [open](records/node-js-typescript-acorn-typescript-8a3c641b.md) |
 | `npm_registry-eaefaef2e457e1` | @graphql-codegen/typescript-operations | [open](records/node-js-typescript-graphql-codegen-typescript-operations-925915b6.md) |
 | `npm_registry-eb17438b861a2c` | ubiq-security-fpe | [open](records/node-js-javascript-ubiq-security-fpe-89313e04.md) |
@@ -9178,10 +9259,12 @@
 | `npm_registry-f063d8be2a4af3` | viem | [open](records/node-js-typescript-viem-f5262c89.md) |
 | `npm_registry-f068119fab9a84` | cognium-dev | [open](records/node-js-javascript-cognium-dev-400370c9.md) |
 | `npm_registry-f06c85f73cc78d` | @unified-latex/unified-latex-prettier | [open](records/node-js-javascript-unified-latex-unified-latex-prettier-b331e98e.md) |
+| `npm_registry-f077b5004ad804` | @google-cloud/logging-winston | [open](records/node-js-javascript-google-cloud-logging-winston-50705ad7.md) |
 | `npm_registry-f094d7fa7d5b23` | liferay-npm-build-tools-common | [open](records/node-js-javascript-liferay-npm-build-tools-common-6145e00c.md) |
 | `npm_registry-f0ae8d0ed4b0d8` | lodash._basecopy | [open](records/node-js-javascript-lodash-basecopy-1957ca99.md) |
 | `npm_registry-f0be4545b3036d` | @tsd/typescript | [open](records/node-js-typescript-tsd-typescript-c631c6e7.md) |
 | `npm_registry-f12b5c36c11afb` | @nebular/security | [open](records/node-js-javascript-nebular-security-27fac67d.md) |
+| `npm_registry-f12cd90618aee0` | @jenkins-cd/logging | [open](records/node-js-javascript-jenkins-cd-logging-8ea2f7b6.md) |
 | `npm_registry-f13c60d4f2166c` | prettier-config-standard | [open](records/node-js-javascript-prettier-config-standard-231aa6f0.md) |
 | `npm_registry-f158bdd28d25a3` | @maxmind/geoip2-node | [open](records/node-js-javascript-maxmind-geoip2-node-660dceef.md) |
 | `npm_registry-f178b48eb9c008` | ember-cli-content-security-policy | [open](records/node-js-javascript-ember-cli-content-security-policy-09da6a7a.md) |
@@ -9198,6 +9281,7 @@
 | `npm_registry-f35427a605ed0d` | @salesforce/cli | [open](records/node-js-javascript-salesforce-cli-b9219aa7.md) |
 | `npm_registry-f3b2262e74b9de` | @cap-js/postgres | [open](records/node-js-javascript-cap-js-postgres-649c229f.md) |
 | `npm_registry-f3e608e12f5489` | typescript-retry-decorator | [open](records/node-js-typescript-typescript-retry-decorator-fa1e36aa.md) |
+| `npm_registry-f40efe9c83bd08` | @plandek-utils/logging | [open](records/node-js-typescript-plandek-utils-logging-83d4cb73.md) |
 | `npm_registry-f42053f00d1acf` | @redwoodjs/testing | [open](records/node-js-javascript-redwoodjs-testing-d84db9e5.md) |
 | `npm_registry-f421887f6d3aff` | @types/pouchdb-adapter-http | [open](records/node-js-typescript-types-pouchdb-adapter-http-47ddb025.md) |
 | `npm_registry-f4630944b854f0` | @asciidoctor/cli | [open](records/node-js-javascript-asciidoctor-cli-118e50d8.md) |
@@ -9217,6 +9301,7 @@
 | `npm_registry-f57a00213e7f5b` | sitemap | [open](records/node-js-javascript-sitemap-e51256d2.md) |
 | `npm_registry-f57f47a0d71111` | build-array | [open](records/node-js-javascript-build-array-01800605.md) |
 | `npm_registry-f58264c38f4465` | @prettier/plugin-php | [open](records/node-js-javascript-prettier-plugin-php-962b74cd.md) |
+| `npm_registry-f5932e4a495cbf` | @logdna/logger | [open](records/node-js-javascript-logdna-logger-8cd3e46c.md) |
 | `npm_registry-f5a6f5ab0e675e` | @firebase/database | [open](records/node-js-javascript-firebase-database-9026faf8.md) |
 | `npm_registry-f5b4cff4546806` | @serverless/cli | [open](records/node-js-javascript-serverless-cli-8421a4ad.md) |
 | `npm_registry-f5f90e84280079` | @melandlabs/security | [open](records/node-js-javascript-melandlabs-security-bc7776ff.md) |
@@ -9226,6 +9311,7 @@
 | `npm_registry-f6ac6300308608` | create-server | [open](records/node-js-javascript-create-server-2a6e22a2.md) |
 | `npm_registry-f6b5b72e1e1efc` | @socketsecurity/cli | [open](records/node-js-javascript-socketsecurity-cli-52cf377d.md) |
 | `npm_registry-f70e3f6244b3d4` | @vue/eslint-config-standard | [open](records/node-js-javascript-vue-eslint-config-standard-c8b12ca2.md) |
+| `npm_registry-f70e6ebfb819a5` | @aws-lambda-powertools/logger | [open](records/node-js-typescript-aws-lambda-powertools-logger-8438a23a.md) |
 | `npm_registry-f70f2e4e2abe8d` | @turbo/darwin-arm64 | [open](records/node-js-javascript-turbo-darwin-arm64-4c8b11b7.md) |
 | `npm_registry-f71adc82094402` | eslint-plugin-no-unsanitized | [open](records/node-js-javascript-eslint-plugin-no-unsanitized-e6ade009.md) |
 | `npm_registry-f71b78d1c22ea1` | oci-database | [open](records/node-js-javascript-oci-database-cacbd435.md) |
@@ -9234,8 +9320,10 @@
 | `npm_registry-f747d8111070f3` | @eslint-react/core | [open](records/node-js-javascript-eslint-react-core-2b0555c8.md) |
 | `npm_registry-f759a2dcc23500` | @sap/generator-add-hdb-module | [open](records/node-js-javascript-sap-generator-add-hdb-module-4f2a0349.md) |
 | `npm_registry-f76bd4071c8dcb` | @react-native-firebase/database | [open](records/node-js-javascript-react-native-firebase-database-0450b342.md) |
+| `npm_registry-f76e4aed2e8c6f` | @phenomnomnominal/debug | [open](records/node-js-javascript-phenomnomnominal-debug-fee07b5f.md) |
 | `npm_registry-f7918b02195a42` | apollo-link-http-common | [open](records/node-js-javascript-apollo-link-http-common-6c166cc4.md) |
 | `npm_registry-f7956830f1a31e` | @cubejs-backend/prestodb-driver | [open](records/node-js-javascript-cubejs-backend-prestodb-driver-e59afba0.md) |
+| `npm_registry-f7c4ac9fd78a59` | @logtail/browser | [open](records/node-js-javascript-logtail-browser-7c05d370.md) |
 | `npm_registry-f7e2505d95013f` | sirv-cli | [open](records/node-js-javascript-sirv-cli-9894321a.md) |
 | `npm_registry-f7ebf07e81a4a5` | @discord/intl-message-database-linux-x64-gnu | [open](records/node-js-javascript-discord-intl-message-database-linux-x64-gnu-2eb201f1.md) |
 | `npm_registry-f8205218d88cfc` | solium-plugin-security | [open](records/node-js-javascript-solium-plugin-security-74919c7e.md) |
@@ -9297,6 +9385,7 @@
 | `npm_registry-fdeaece7db00dd` | webpack-cli | [open](records/node-js-javascript-webpack-cli-7374b543.md) |
 | `npm_registry-fe00e6b9a715db` | @types/eslint-plugin-prettier | [open](records/node-js-typescript-types-eslint-plugin-prettier-8744c9d2.md) |
 | `npm_registry-fe268b0a3f38a0` | @types/yargs | [open](records/node-js-typescript-types-yargs-a57a2ee7.md) |
+| `npm_registry-fe4bbbe4a6dd7b` | @slack/logger | [open](records/node-js-javascript-slack-logger-f92f9230.md) |
 | `npm_registry-fe5112f974dd15` | @types/chai | [open](records/node-js-typescript-types-chai-099189a2.md) |
 | `npm_registry-fe6996e22855eb` | eslint-type-tracer | [open](records/node-js-javascript-eslint-type-tracer-3c1099db.md) |
 | `npm_registry-fe87b9bc0d6dd4` | @midwayjs/security | [open](records/node-js-javascript-midwayjs-security-e6c4a666.md) |
@@ -9316,95 +9405,6 @@
 | `npm_registry-ffea04f6608dbf` | langium | [open](records/node-js-javascript-langium-8b002555.md) |
 | `npm_registry-fff49350eeb091` | @typescript/typescript-win32-x64 | [open](records/node-js-typescript-typescript-typescript-win32-x64-2d281af3.md) |
 | `npm_registry-fff5f3e4a0cdc0` | @pollyjs/adapter-node-http | [open](records/node-js-javascript-pollyjs-adapter-node-http-c04b9974.md) |
-| `pypi_simple-02849e5de2960a` | aac-datasets | [open](records/python-aac-datasets-eef11055.md) |
-| `pypi_simple-05eae112d55942` | 0xlog-cli | [open](records/python-0xlog-cli-3fed72d8.md) |
-| `pypi_simple-064549dce39309` | a3d-cli | [open](records/python-a3d-cli-b2f828ab.md) |
-| `pypi_simple-08073f6e328d88` | a5-client-utils | [open](records/python-a5-client-utils-7b43453a.md) |
-| `pypi_simple-0bde15d966a7a0` | a2a-lint | [open](records/python-a2a-lint-b2dea2f2.md) |
-| `pypi_simple-0d7f4ae0e78bce` | 4lt7ab-grimoire-cli | [open](records/python-4lt7ab-grimoire-cli-ca95aa16.md) |
-| `pypi_simple-0f315039c2e4b6` | 3tears-datasources | [open](records/python-3tears-datasources-cec83b63.md) |
-| `pypi_simple-19ce19ff4ea5e0` | 3s-cnes-client | [open](records/python-3s-cnes-client-e942ea4b.md) |
-| `pypi_simple-1a78f8aa45ecfc` | aad-fastapi-dl37 | [open](records/python-aad-fastapi-dl37-f84f55d3.md) |
-| `pypi_simple-1ca01a434a53cb` | a207-clinical-calc-mcp | [open](records/python-a207-clinical-calc-mcp-1fbfa403.md) |
-| `pypi_simple-1e7f56fdb45800` | aaep-cli-debug | [open](records/python-aaep-cli-debug-e734708a.md) |
-| `pypi_simple-1f47c30b3dcc5d` | aac-cli | [open](records/python-aac-cli-cf3e0b7c.md) |
-| `pypi_simple-207e5c94acdd82` | a2a-protocol-mcp-server | [open](records/python-a2a-protocol-mcp-server-5aa9396b.md) |
-| `pypi_simple-21d48e05536b9d` | 101703311-Missing-Data | [open](records/python-101703311-missing-data-f6320cdf.md) |
-| `pypi_simple-26a964c376b007` | 42formatter | [open](records/python-42formatter-7a87ad62.md) |
-| `pypi_simple-346deac392d957` | 131228_pytest_1 | [open](records/python-131228-pytest-1-48f3856a.md) |
-| `pypi_simple-37d09c10e3cccf` | 10xscale-agentflow-cli | [open](records/python-10xscale-agentflow-cli-a2a4d2c3.md) |
-| `pypi_simple-3afcf2c0eaf2bd` | aadc-cli | [open](records/python-aadc-cli-65ca9e72.md) |
-| `pypi_simple-3b3eb2958a8ced` | 5e-database-sqlite | [open](records/python-5e-database-sqlite-6880124c.md) |
-| `pypi_simple-4052bd1f60dfb4` | a10-neutronclient | [open](records/python-a10-neutronclient-4b22742d.md) |
-| `pypi_simple-4059840d65f036` | a2a-cli | [open](records/python-a2a-cli-f5ec3bc6.md) |
-| `pypi_simple-421a3671f48e9d` | a13n-logging | [open](records/python-a13n-logging-04c73f7f.md) |
-| `pypi_simple-42bad6a05a9a2a` | a8logging | [open](records/python-a8logging-075ce2a6.md) |
-| `pypi_simple-46d7ddb97cc5e9` | a11ykit-cli | [open](records/python-a11ykit-cli-ab7c9ac7.md) |
-| `pypi_simple-4d585286d30d1a` | aad-fastapi-dlg | [open](records/python-aad-fastapi-dlg-6fbb8ff4.md) |
-| `pypi_simple-4ded720f78d407` | a2a-server | [open](records/python-a2a-server-7f6e9e7a.md) |
-| `pypi_simple-564f3ad79b6696` | 32r4-cli-demo | [open](records/python-32r4-cli-demo-7bac3e2e.md) |
-| `pypi_simple-566389a3812e0c` | 115cli | [open](records/python-115cli-d3ad685d.md) |
-| `pypi_simple-57c9e2de586b93` | 1c-formsserver | [open](records/python-1c-formsserver-ca01be90.md) |
-| `pypi_simple-5aab96ea384576` | a5-client | [open](records/python-a5-client-d7f468fa.md) |
-| `pypi_simple-5b4eec0e257325` | aad-fastapi | [open](records/python-aad-fastapi-92d291e1.md) |
-| `pypi_simple-5b8da225e06004` | 3s-cadsus-client | [open](records/python-3s-cadsus-client-2591c19d.md) |
-| `pypi_simple-5db0b8ac1d86df` | 2048-cli | [open](records/python-2048-cli-430abf2d.md) |
-| `pypi_simple-610f9f7b1c9606` | 100cli | [open](records/python-100cli-b49971ec.md) |
-| `pypi_simple-638cc019b7fe6b` | aaa-ml-datasets-course | [open](records/python-aaa-ml-datasets-course-7d3d2931.md) |
-| `pypi_simple-63c4db087ff457` | 5mghost-shared-client | [open](records/python-5mghost-shared-client-a787ac0e.md) |
-| `pypi_simple-6419c9dbfc96bd` | 3xcode-cli | [open](records/python-3xcode-cli-fc8041ba.md) |
-| `pypi_simple-677ea6609e2224` | aa-cli | [open](records/python-aa-cli-ba61556b.md) |
-| `pypi_simple-6a6b51ae412a47` | aamva-parser | [open](records/python-aamva-parser-d80f34b1.md) |
-| `pypi_simple-6aed6dc65d186d` | 0x-sra-client | [open](records/python-0x-sra-client-9195d9dc.md) |
-| `pypi_simple-6d2f0c8bdb4193` | aap-client-python | [open](records/python-aap-client-python-0d91ce77.md) |
-| `pypi_simple-77afa5359e5aa9` | aa-mcp-server | [open](records/python-aa-mcp-server-96792d67.md) |
-| `pypi_simple-785e8f83bb7ff7` | 3Di-cmd-client | [open](records/python-3di-cmd-client-ddc7fc67.md) |
-| `pypi_simple-7b7f8dc840d18a` | a2a-mcp-server | [open](records/python-a2a-mcp-server-d917d291.md) |
-| `pypi_simple-7bfca251fb24c3` | a2c-cli | [open](records/python-a2c-cli-ff36ddc1.md) |
-| `pypi_simple-7f56c00e3d680d` | 2u-enterprise-subsidy-client | [open](records/python-2u-enterprise-subsidy-client-ddf9b0c1.md) |
-| `pypi_simple-8e485bc998a943` | a2a-client-handler | [open](records/python-a2a-client-handler-99931843.md) |
-| `pypi_simple-8fbd45dc18fcd4` | 15five-django-ajax-selects | [open](records/python-15five-django-ajax-selects-f64bc4c4.md) |
-| `pypi_simple-90695144de2f23` | a3ddddocr-client | [open](records/python-a3ddddocr-client-760e12f7.md) |
-| `pypi_simple-96c73263b0c3c7` | 2cli | [open](records/python-2cli-94ee9a2f.md) |
-| `pypi_simple-9a316265444050` | aaclient | [open](records/python-aaclient-0ec81ae6.md) |
-| `pypi_simple-9aee83855b7786` | A-Api-Server | [open](records/python-a-api-server-b3dac2ee.md) |
-| `pypi_simple-a223e9d1055e93` | 1password-cli | [open](records/python-1password-cli-509376c1.md) |
-| `pypi_simple-a80f2847cec2d8` | 8x-esystem-reports-data-warehouse-api-python-sdk | [open](records/python-8x-esystem-reports-data-warehouse-api-python-sdk-c354f86e.md) |
-| `pypi_simple-a8814c6500a17b` | 3dcitydb-mcp-server | [open](records/python-3dcitydb-mcp-server-83ade52b.md) |
-| `pypi_simple-a96b6ada85a979` | a2cli | [open](records/python-a2cli-b0a61c78.md) |
-| `pypi_simple-abd51394731df3` | aaiclick | [open](records/python-aaiclick-d32fb6a8.md) |
-| `pypi_simple-ad0d20fafa66fa` | a3m-mcp-server | [open](records/python-a3m-mcp-server-8eb37a60.md) |
-| `pypi_simple-b01a0e13e9e4d0` | 999tls-client | [open](records/python-999tls-client-ca1a7a77.md) |
-| `pypi_simple-b51af2a0c6cd38` | a-a-chat-cli | [open](records/python-a-a-chat-cli-efbca619.md) |
-| `pypi_simple-b8e061791ca685` | 2nd-opinion-cli | [open](records/python-2nd-opinion-cli-35bd7fe4.md) |
-| `pypi_simple-ba330f663fb5d1` | a2a-client-172ai | [open](records/python-a2a-client-172ai-947547b6.md) |
-| `pypi_simple-bb1b73ac29ddab` | a2f-client | [open](records/python-a2f-client-bbc29f50.md) |
-| `pypi_simple-bbd860bd0aab4f` | 5gasp-cli | [open](records/python-5gasp-cli-e19869ba.md) |
-| `pypi_simple-bc1f0d87aadfcd` | a2a-proxy-server | [open](records/python-a2a-proxy-server-cabd6de9.md) |
-| `pypi_simple-bca2bbc68b2873` | a13n-envd-client | [open](records/python-a13n-envd-client-afbd2571.md) |
-| `pypi_simple-be9e3184155079` | aad-fastapi-dorlugasigal | [open](records/python-aad-fastapi-dorlugasigal-ccf19501.md) |
-| `pypi_simple-c10847717016f9` | a2abase-cli | [open](records/python-a2abase-cli-0de7482c.md) |
-| `pypi_simple-c22098760025a0` | aa-fastapi-template | [open](records/python-aa-fastapi-template-93ab8d59.md) |
-| `pypi_simple-c2ce5beeb6a8d8` | 42videobricks-python-client | [open](records/python-42videobricks-python-client-1e5ab597.md) |
-| `pypi_simple-c338515ab06f1e` | 41datastructure | [open](records/python-41datastructure-0cd860a9.md) |
-| `pypi_simple-c6268f3cf2a05a` | aaaahorodatage | [open](records/python-aaaahorodatage-7df21b06.md) |
-| `pypi_simple-c798b9e5becc08` | 360monitoringcli | [open](records/python-360monitoringcli-a1f7d510.md) |
-| `pypi_simple-cb28676b7e3a64` | aad-client | [open](records/python-aad-client-293735b4.md) |
-| `pypi_simple-cc91cea8912474` | 2u-enterprise-data | [open](records/python-2u-enterprise-data-a63cd741.md) |
-| `pypi_simple-ce4175211bc622` | aa-discord-ping-formatter | [open](records/python-aa-discord-ping-formatter-9fd00922.md) |
-| `pypi_simple-d223bff320544e` | aafp-database-connection | [open](records/python-aafp-database-connection-9c6f264d.md) |
-| `pypi_simple-d343230872f254` | a2a-registry-client | [open](records/python-a2a-registry-client-c6468fb8.md) |
-| `pypi_simple-d9dbdf43f29925` | a2a-client-toolkit | [open](records/python-a2a-client-toolkit-50f2f5f4.md) |
-| `pypi_simple-dab3f85129732b` | 00-renjing-mcp-server-pypi | [open](records/python-00-renjing-mcp-server-pypi-c1ac61b2.md) |
-| `pypi_simple-dabc94156f125e` | a2aclient | [open](records/python-a2aclient-d5e26eeb.md) |
-| `pypi_simple-dc8e6cc4cebdb0` | AaioAsync | [open](records/python-aaioasync-56a17fed.md) |
-| `pypi_simple-e37215038333af` | 4logik-python-rest-client | [open](records/python-4logik-python-rest-client-40e93ae5.md) |
-| `pypi_simple-ee0b6fbcfec30b` | 3s-rnds-client | [open](records/python-3s-rnds-client-1985b6b8.md) |
-| `pypi_simple-ef3e8887eab1aa` | 0latency-cli | [open](records/python-0latency-cli-5fe7ae21.md) |
-| `pypi_simple-f02c03f89e5832` | 1c-format | [open](records/python-1c-format-c49b77b4.md) |
-| `pypi_simple-f0ec3f08b2cd91` | 0-core-client | [open](records/python-0-core-client-d544454c.md) |
-| `pypi_simple-fd27df4aa21126` | 2captcha-python-async | [open](records/python-2captcha-python-async-60dc26a4.md) |
-| `pypi_simple-fd6985cbfa9816` | a2a-agent-mcpserver-generator | [open](records/python-a2a-agent-mcpserver-generator-6ee8871e.md) |
 | `web-14f1a2874b22b9` | Awesome Rust | [open](records/rust-awesome-rust-04ac02c1.md) |
 | `web-a8ce17c538eca5` | Awesome C++ | [open](records/c-23-awesome-c-d8d6411b.md) |
 | `web-aa6f49e850695f` | Awesome Python | [open](records/python-awesome-python-0c4311cf.md) |
