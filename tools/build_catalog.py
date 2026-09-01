@@ -6002,6 +6002,8 @@ def render_catalog_index(payload: dict[str, Any]) -> str:
 def render_language_pages(records: list[dict[str, Any]]) -> None:
     by_language = defaultdict(list)
     counts = count_categories(records)
+    visual_enabled = os.environ.get("VISUAL_RENDER", "0") == "1"
+    
     for record in records:
         by_language[record["catalog_branch"]].append(record)
     for branch, items in by_language.items():
@@ -6010,6 +6012,18 @@ def render_language_pages(records: list[dict[str, Any]]) -> None:
             by_category[record["category"]].append(record)
         lines = [
             f"# {branch}",
+        ]
+        
+        if visual_enabled:
+            # Add ASCII art header
+            try:
+                from tools.visual_renderer import render_header, render_gradient_bar, get_font_for_language
+                header_art = render_header(branch, font=get_font_for_language(branch))
+                lines.extend(["", f"```", header_art.rstrip(), "```", ""])
+            except Exception:
+                pass
+        
+        lines.extend([
             "",
             f"Records: `{len(items)}`",
             "",
@@ -6017,11 +6031,21 @@ def render_language_pages(records: list[dict[str, Any]]) -> None:
             "",
             f"[Catalog index](../index.md) · [Release watch](../release-watch.md) · [Apache/MIT license index](../license-index.md)",
             "",
+        ])
+        
+        if visual_enabled:
+            try:
+                from tools.visual_renderer import render_gradient_bar
+                lines.extend([f"```\n{render_gradient_bar(60)}\n```", ""])
+            except Exception:
+                pass
+        
+        lines.extend([
             category_index_block(counts, "../by-category/"),
             "",
             "## Categories",
             "",
-        ]
+        ])
         for category in sorted(by_category):
             category_items = by_category[category]
             lines.append(f"### {label(category)}")
