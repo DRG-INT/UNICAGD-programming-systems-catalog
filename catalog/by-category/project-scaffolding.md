@@ -1,6 +1,6 @@
 # Project Scaffolding
 
-Records: `107`
+Records: `116`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `107`
 
 ## Category Index
 
-[Api Abi Checker (176)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (120)](async-runtime.md)
-[Benchmarking (106)](benchmarking.md) · [Build System (780)](build-system.md) · [Cli (488)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (176)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (121)](async-runtime.md)
+[Benchmarking (106)](benchmarking.md) · [Build System (787)](build-system.md) · [Cli (488)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (81)](community-reference.md) · [Compiler (157)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (43)](compression.md)
 [Concurrency Parallelism (70)](concurrency-parallelism.md) · [Configuration (94)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (679)](database-datastore.md) · [Datetime (147)](datetime.md)
+[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (681)](database-datastore.md) · [Datetime (147)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (79)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (46)](embedded-hardware.md) · [Ffi Bindings (375)](ffi-bindings.md) · [Filesystem Os (1124)](filesystem-os.md) · [Formatter (529)](formatter.md)
-[Framework (45)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (138)](game-engine-game-dev.md) · [Ide Editor Integration (1085)](ide-editor-integration.md)
-[Image Audio Dsp (262)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1216)](language-specification.md) · [Library (4675)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (325)](logging-observability.md) · [Machine Learning (555)](machine-learning.md)
-[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (891)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (248)](package-manager.md) · [Parser Lexer Ast (885)](parser-lexer-ast.md) · [Precommit Ci Quality (253)](precommit-ci-quality.md)
-[Profiler (66)](profiler.md) · **[Project Scaffolding (107)](project-scaffolding.md)** · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (307)](security-sast.md) · [Serialization (362)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (413)](static-analyzer.md)
+[Embedded Hardware (46)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1125)](filesystem-os.md) · [Formatter (533)](formatter.md)
+[Framework (45)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (138)](game-engine-game-dev.md) · [Ide Editor Integration (1098)](ide-editor-integration.md)
+[Image Audio Dsp (265)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1217)](language-specification.md) · [Library (4679)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (381)](logging-observability.md) · [Machine Learning (555)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (893)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (252)](package-manager.md) · [Parser Lexer Ast (887)](parser-lexer-ast.md) · [Precommit Ci Quality (254)](precommit-ci-quality.md)
+[Profiler (67)](profiler.md) · **[Project Scaffolding (116)](project-scaffolding.md)** · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (308)](security-sast.md) · [Serialization (363)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (415)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (487)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (282)](type-checker.md)
-[Undefined Behavior Analyzer (1344)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (399)](visualization-gui.md) · [Web Framework (377)](web-framework.md)
+[Undefined Behavior Analyzer (1350)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (399)](visualization-gui.md) · [Web Framework (378)](web-framework.md)
 
 ## C++23
 
@@ -168,7 +168,16 @@ Records: `107`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ashwith/pyMOSChar | partial | 2017-06-30T21:19:59Z | [open](../records/space-maps-ashwith-pymoschar-60053eb3.md) |
+| d-wwei/CC-Codex-Gemini-companion-starter | partial | 2026-03-11T15:24:36Z | [open](../records/space-maps-d-wwei-cc-codex-gemini-companion-starter-244fd72c.md) |
+| greglobinski/gatsby-starter-mini-catalog | partial | 2018-08-17T20:01:15Z | [open](../records/space-maps-greglobinski-gatsby-starter-mini-catalog-6fffbf07.md) |
+| IBM-Cloud/watson-starter-apps | partial | 2017-01-23T22:13:49Z | [open](../records/space-maps-ibm-cloud-watson-starter-apps-8269d634.md) |
+| johnpolacek/styled-starter | partial | 2018-09-02T13:46:29Z | [open](../records/space-maps-johnpolacek-styled-starter-213f2daf.md) |
+| johnpolacek/styled-starter-basic | partial | 2018-09-01T17:02:27Z | [open](../records/space-maps-johnpolacek-styled-starter-basic-483af579.md) |
 | maximus0411/BorisChernyClaudeMarkdown | partial | 2026-09-01T07:00:47Z | [open](../records/space-maps-maximus0411-borischernyclaudemarkdown-88d34dbb.md) |
+| MohirM/game-catalog-starter | partial | 2021-05-04T00:21:07Z | [open](../records/space-maps-mohirm-game-catalog-starter-90f2ab48.md) |
+| parthmax2/genai-starter-pack | partial | 2026-06-20T08:56:38Z | [open](../records/space-maps-parthmax2-genai-starter-pack-2912dc43.md) |
+| strapi/strapi-starter-gatsby-catalog | partial | 2022-03-28T16:02:17Z | [open](../records/space-maps-strapi-strapi-starter-gatsby-catalog-686dc0a0.md) |
+| zhubn123/catalog-spring-boot-starter | partial | 2026-04-09T07:17:37Z | [open](../records/space-maps-zhubn123-catalog-spring-boot-starter-0f3bf1ec.md) |
 
 ## Effects
 
@@ -212,7 +221,7 @@ Records: `107`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | andrechristikan/ack-nestjs-boilerplate-kafka | partial | 2023-07-19T10:53:33Z | [open](../records/pattern-language-andrechristikan-ack-nestjs-boilerplate-kafka-29c3d599.md) |
-| cobusgreyling/loop-engineering | partial | 2026-09-01T08:02:01Z | [open](../records/pattern-language-cobusgreyling-loop-engineering-3a7d9a15.md) |
+| cobusgreyling/loop-engineering | partial | 2026-09-01T20:00:57Z | [open](../records/pattern-language-cobusgreyling-loop-engineering-3a7d9a15.md) |
 
 ## PHP
 

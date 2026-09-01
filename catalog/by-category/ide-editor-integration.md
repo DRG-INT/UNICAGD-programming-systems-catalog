@@ -1,6 +1,6 @@
 # Ide Editor Integration
 
-Records: `1085`
+Records: `1098`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `1085`
 
 ## Category Index
 
-[Api Abi Checker (176)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (120)](async-runtime.md)
-[Benchmarking (106)](benchmarking.md) · [Build System (780)](build-system.md) · [Cli (488)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (176)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (121)](async-runtime.md)
+[Benchmarking (106)](benchmarking.md) · [Build System (787)](build-system.md) · [Cli (488)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (81)](community-reference.md) · [Compiler (157)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (43)](compression.md)
 [Concurrency Parallelism (70)](concurrency-parallelism.md) · [Configuration (94)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (679)](database-datastore.md) · [Datetime (147)](datetime.md)
+[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (681)](database-datastore.md) · [Datetime (147)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (79)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (46)](embedded-hardware.md) · [Ffi Bindings (375)](ffi-bindings.md) · [Filesystem Os (1124)](filesystem-os.md) · [Formatter (529)](formatter.md)
-[Framework (45)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (138)](game-engine-game-dev.md) · **[Ide Editor Integration (1085)](ide-editor-integration.md)**
-[Image Audio Dsp (262)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1216)](language-specification.md) · [Library (4675)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (325)](logging-observability.md) · [Machine Learning (555)](machine-learning.md)
-[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (891)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (248)](package-manager.md) · [Parser Lexer Ast (885)](parser-lexer-ast.md) · [Precommit Ci Quality (253)](precommit-ci-quality.md)
-[Profiler (66)](profiler.md) · [Project Scaffolding (107)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (307)](security-sast.md) · [Serialization (362)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (413)](static-analyzer.md)
+[Embedded Hardware (46)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1125)](filesystem-os.md) · [Formatter (533)](formatter.md)
+[Framework (45)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (138)](game-engine-game-dev.md) · **[Ide Editor Integration (1098)](ide-editor-integration.md)**
+[Image Audio Dsp (265)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1217)](language-specification.md) · [Library (4679)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (381)](logging-observability.md) · [Machine Learning (555)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (893)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (252)](package-manager.md) · [Parser Lexer Ast (887)](parser-lexer-ast.md) · [Precommit Ci Quality (254)](precommit-ci-quality.md)
+[Profiler (67)](profiler.md) · [Project Scaffolding (116)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (308)](security-sast.md) · [Serialization (363)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (415)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (487)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (282)](type-checker.md)
-[Undefined Behavior Analyzer (1344)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (399)](visualization-gui.md) · [Web Framework (377)](web-framework.md)
+[Undefined Behavior Analyzer (1350)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (399)](visualization-gui.md) · [Web Framework (378)](web-framework.md)
 
 ## C++23
 
@@ -205,6 +205,7 @@ Records: `1085`
 | @z_ai/mcp-server | 0.1.5 | 2026-08-27T06:27:11.056Z | [open](../records/node-js-javascript-z-ai-mcp-server-777e60ea.md) |
 | agent-cli-detector | 0.1.7 | 2026-08-24T21:31:53.199Z | [open](../records/node-js-javascript-agent-cli-detector-e314b24b.md) |
 | angular-http-server | 1.12.0 | 2023-08-29T05:36:26.375Z | [open](../records/node-js-javascript-angular-http-server-870f5c0d.md) |
+| domino | 2.1.8 | 2026-08-19T16:11:35.816Z | [open](../records/node-js-javascript-domino-631ec950.md) |
 | expo-server-sdk | 7.2.0 | 2026-08-24T06:35:13.660Z | [open](../records/node-js-javascript-expo-server-sdk-2135e11d.md) |
 | expo-sqlite | 57.0.2 | 2026-08-26T19:56:48.653Z | [open](../records/node-js-javascript-expo-sqlite-49d6a6b7.md) |
 | flexbiz-server | 15.0.0 | 2026-08-21T10:55:46.759Z | [open](../records/node-js-javascript-flexbiz-server-0ecf4848.md) |
@@ -214,6 +215,7 @@ Records: `1085`
 | mocha-chai-jest-snapshot | 1.1.7 | 2025-08-17T12:31:48.562Z | [open](../records/node-js-javascript-mocha-chai-jest-snapshot-c741c970.md) |
 | p-locate | 7.0.0 | 2026-02-03T07:57:49.916Z | [open](../records/node-js-javascript-p-locate-193a12c0.md) |
 | sandbox-cli-detector | 0.2.0 | 2026-07-18T14:59:21.605Z | [open](../records/node-js-javascript-sandbox-cli-detector-5b3d5b6c.md) |
+| server-dom-shim | 1.1.0 | 2025-12-25T02:14:03.314Z | [open](../records/node-js-javascript-server-dom-shim-2f11a18e.md) |
 | shadow-dom-testing-library | 1.14.1 | 2026-07-22T00:51:12.522Z | [open](../records/node-js-javascript-shadow-dom-testing-library-0e1eb139.md) |
 | web3-providers-http | 4.2.0 | 2024-08-22T15:57:27.312Z | [open](../records/node-js-javascript-web3-providers-http-0a9f3508.md) |
 | y-mongodb-provider | 0.2.1 | 2025-05-29T15:47:28.828Z | [open](../records/node-js-javascript-y-mongodb-provider-d90a525d.md) |
@@ -665,7 +667,7 @@ Records: `1085`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-01T10:30:45Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-01T19:14:19Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-01T20:01:15Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-08-29T11:00:38Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-01T10:47:23Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-01T18:12:59Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
@@ -739,14 +741,18 @@ Records: `1085`
 | --- | --- | --- | --- |
 | ace-dev-pixel/StargazerAR | partial | 2025-09-14T14:29:14Z | [open](../records/space-maps-ace-dev-pixel-stargazerar-e0b868d3.md) |
 | Aldenhovel/bleu-rouge-meteor-cider-spice-eval4imagecaption | partial | 2023-02-17T16:05:12Z | [open](../records/space-maps-aldenhovel-bleu-rouge-meteor-cider-spice-eval4imagecaption-a9840e82.md) |
+| contao-catalog/fieldtype_ajaxrating | partial | 2012-04-03T16:05:44Z | [open](../records/space-maps-contao-catalog-fieldtype-ajaxrating-d07acc6a.md) |
 | Dyalwayshappy/Spice_personal | partial | 2026-04-10T05:56:55Z | [open](../records/space-maps-dyalwayshappy-spice-personal-fbe6d648.md) |
 | Etxx321/StarDoctor | partial | 2022-03-19T22:52:20Z | [open](../records/space-maps-etxx321-stardoctor-155ae108.md) |
 | google/skywater-pdk-libs-sky130_fd_pr | partial | 2024-03-09T01:52:11Z | [open](../records/space-maps-google-skywater-pdk-libs-sky130-fd-pr-63b6c072.md) |
+| hst12/Starfield-Creations-Mod-Manager-and-Catalog-Fixer | partial | 2026-08-30T19:28:45Z | [open](../records/space-maps-hst12-starfield-creations-mod-manager-and-catalog-fixer-9348012f.md) |
 | JuliaSpaceMissionDesign/Ephemerides.jl | partial | 2025-03-23T09:47:16Z | [open](../records/space-maps-juliaspacemissiondesign-ephemerides-jl-b8ea4e8a.md) |
 | MuMashhour/NE555-SPICE-Model | partial | 2023-03-30T13:55:49Z | [open](../records/space-maps-mumashhour-ne555-spice-model-b48aca64.md) |
 | MWATelescope/mwa_hyperdrive | partial | 2026-09-01T06:54:51Z | [open](../records/space-maps-mwatelescope-mwa-hyperdrive-ec8debf1.md) |
 | nyx-space/nyx | partial | 2026-09-01T15:06:21Z | [open](../records/space-maps-nyx-space-nyx-2403bcdd.md) |
 | Radio-Source/RadioSkyMap | partial | 2026-08-31T15:27:13Z | [open](../records/space-maps-radio-source-radioskymap-b6524398.md) |
+| rdellamonica/S2-gr-mock-catalogue | partial | 2023-05-30T08:27:15Z | [open](../records/space-maps-rdellamonica-s2-gr-mock-catalogue-0bf2a0fc.md) |
+| SamWeise/SatelliteSim | partial | 2015-10-05T19:35:51Z | [open](../records/space-maps-samweise-satellitesim-37429206.md) |
 | Starainrt/astro | partial | 2026-08-06T04:42:42Z | [open](../records/space-maps-starainrt-astro-d0ab8502.md) |
 | sunpy/sunraster | partial | 2026-09-01T11:09:54Z | [open](../records/space-maps-sunpy-sunraster-4da3251a.md) |
 | ut-astria/AstriaGraph | partial | 2019-06-18T19:27:20Z | [open](../records/space-maps-ut-astria-astriagraph-1842285f.md) |
@@ -757,6 +763,7 @@ Records: `1085`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 777arc/PySDR | partial | 2026-09-01T14:56:23Z | [open](../records/effects-777arc-pysdr-8eef8c53.md) |
+| Akascape/ShaderToyVid | partial | 2023-11-28T10:25:45Z | [open](../records/effects-akascape-shadertoyvid-707b6609.md) |
 | AlbertoSabater/Robust-and-efficient-post-processing-for-video-object-detection | partial | 2023-04-03T13:29:41Z | [open](../records/effects-albertosabater-robust-and-efficient-post-processing-for-video-object-detection-344c2f6e.md) |
 | ArseniyMirniy/Godot-4-Color-Correction-and-Screen-Effects | partial | 2026-09-01T04:18:21Z | [open](../records/effects-arseniymirniy-godot-4-color-correction-and-screen-effects-6a7812f0.md) |
 | Arystos/Advanced-Outline-Shader-UE5 | unknown | github_latest_release_missing | [open](../records/effects-arystos-advanced-outline-shader-ue5-5e6152c6.md) |
@@ -800,11 +807,12 @@ Records: `1085`
 | danilogcrf2-oss/ESP32Synth | 2.4.6 | 2026-08-30T15:16:20Z | [open](../records/audio-danilogcrf2-oss-esp32synth-7a58d4c6.md) |
 | deniscerri/ytdlnis | partial | 2026-08-31T16:05:33Z | [open](../records/audio-deniscerri-ytdlnis-096edb21.md) |
 | everythingwillbetakenaway/DX7-Supercollider | partial | 2026-01-08T20:53:58Z | [open](../records/audio-everythingwillbetakenaway-dx7-supercollider-316ba0b4.md) |
+| FORARTfe/HyMPS | partial | 2026-08-27T06:22:53Z | [open](../records/audio-forartfe-hymps-4bad0b4a.md) |
 | Jounce/Surge | partial | 2023-07-20T14:04:23Z | [open](../records/audio-jounce-surge-6a48b789.md) |
 | kyleneideck/BackgroundMusic | partial | 2026-06-10T08:58:49Z | [open](../records/audio-kyleneideck-backgroundmusic-87dcd90a.md) |
 | leandromoreira/digital_video_introduction | partial | 2026-07-25T00:29:55Z | [open](../records/audio-leandromoreira-digital-video-introduction-1602f29a.md) |
 | mediacms-io/mediacms | partial | 2026-08-25T13:49:34Z | [open](../records/audio-mediacms-io-mediacms-6c0d1227.md) |
-| mpv-android/mpv-android | partial | 2026-08-31T19:56:18Z | [open](../records/audio-mpv-android-mpv-android-66cc1973.md) |
+| mpv-android/mpv-android | partial | 2026-09-01T20:12:35Z | [open](../records/audio-mpv-android-mpv-android-66cc1973.md) |
 | OpenMOSS/MOSS-TTS | unknown | github_latest_release_missing | [open](../records/audio-openmoss-moss-tts-97a3ba07.md) |
 | probonopd/MiniDexed | 2025-07-30 | 2025-07-30T04:40:06Z | [open](../records/audio-probonopd-minidexed-5507dcd2.md) |
 | qTox/qTox | partial | 2025-02-16T14:21:41Z | [open](../records/audio-qtox-qtox-1eef801f.md) |
@@ -835,7 +843,9 @@ Records: `1085`
 | butterproject/butter-desktop | partial | 2020-11-01T15:53:26Z | [open](../records/video-butterproject-butter-desktop-f80d7924.md) |
 | bytedance/xgplayer | partial | 2026-08-28T02:58:51Z | [open](../records/video-bytedance-xgplayer-9ecd2731.md) |
 | charmbracelet/vhs | partial | 2026-09-01T07:25:31Z | [open](../records/video-charmbracelet-vhs-73243bfa.md) |
+| ChunmingHe/awesome-diffusion-models-in-low-level-vision | partial | 2025-02-23T18:03:03Z | [open](../records/video-chunminghe-awesome-diffusion-models-in-low-level-vision-08bebf93.md) |
 | clappr/clappr | partial | 2026-09-01T12:39:48Z | [open](../records/video-clappr-clappr-333fe5f1.md) |
+| ClipsAI/clipsai | partial | 2024-01-17T13:31:25Z | [open](../records/video-clipsai-clipsai-bbfd305f.md) |
 | codeforreal1/compressO | partial | 2026-08-17T12:39:47Z | [open](../records/video-codeforreal1-compresso-1c95379f.md) |
 | coursera-dl/coursera-dl | partial | 2024-05-11T21:24:57Z | [open](../records/video-coursera-dl-coursera-dl-b7282acf.md) |
 | ctjhoa/rust-learning | partial | 2026-05-29T08:20:56Z | [open](../records/video-ctjhoa-rust-learning-b7cc48f4.md) |
@@ -858,7 +868,7 @@ Records: `1085`
 | HA6Bots/TikTok-Compilation-Video-Generator | partial | 2024-08-04T13:44:11Z | [open](../records/video-ha6bots-tiktok-compilation-video-generator-2f38a80d.md) |
 | haasn/libplacebo | partial | 2026-09-01T11:12:15Z | [open](../records/video-haasn-libplacebo-801cca80.md) |
 | HeiSir2014/M3U8-Downloader | partial | 2025-03-19T15:28:29Z | [open](../records/video-heisir2014-m3u8-downloader-23d9af39.md) |
-| heygen-com/hyperframes | partial | 2026-09-01T19:02:02Z | [open](../records/video-heygen-com-hyperframes-39e19bfa.md) |
+| heygen-com/hyperframes | partial | 2026-09-01T20:19:30Z | [open](../records/video-heygen-com-hyperframes-39e19bfa.md) |
 | Hunlongyu/ZY-Player | partial | 2023-02-09T06:33:07Z | [open](../records/video-hunlongyu-zy-player-c74fadea.md) |
 | hybridgroup/gocv | partial | 2026-05-28T08:16:03Z | [open](../records/video-hybridgroup-gocv-daa4c904.md) |
 | iawia002/lux | partial | 2026-03-29T18:18:56Z | [open](../records/video-iawia002-lux-e7456e22.md) |
@@ -867,13 +877,15 @@ Records: `1085`
 | insidegui/WWDC | partial | 2026-06-17T20:11:54Z | [open](../records/video-insidegui-wwdc-29ce13c6.md) |
 | intel/libva | partial | 2026-07-31T09:06:23Z | [open](../records/video-intel-libva-f6047e5d.md) |
 | ivpusic/react-native-image-crop-picker | partial | 2026-01-21T23:31:48Z | [open](../records/video-ivpusic-react-native-image-crop-picker-c50f1406.md) |
+| jashandeep-sohi/webcam-filters | partial | 2023-12-25T21:41:27Z | [open](../records/video-jashandeep-sohi-webcam-filters-113e77a3.md) |
 | jinwchoi/awesome-action-recognition | partial | 2023-05-13T17:00:12Z | [open](../records/video-jinwchoi-awesome-action-recognition-59e99e67.md) |
 | lagmoellertim/unsilence | partial | 2023-03-28T04:57:13Z | [open](../records/video-lagmoellertim-unsilence-d47dc940.md) |
 | leandromoreira/digital_video_introduction | partial | 2026-07-25T00:29:55Z | [open](../records/video-leandromoreira-digital-video-introduction-2ec5ca3b.md) |
 | leandromoreira/ffmpeg-libav-tutorial | partial | 2026-06-18T14:18:13Z | [open](../records/video-leandromoreira-ffmpeg-libav-tutorial-e71d8bef.md) |
 | letoram/arcan | partial | 2026-07-29T00:15:26Z | [open](../records/video-letoram-arcan-3898f949.md) |
+| linzzzzzz/openclip | partial | 2026-08-24T06:16:38Z | [open](../records/video-linzzzzzz-openclip-e0a60aa0.md) |
 | live-keys/livekeys | partial | 2023-11-13T16:00:01Z | [open](../records/video-live-keys-livekeys-78b56f29.md) |
-| livekit/livekit | partial | 2026-09-01T19:11:18Z | [open](../records/video-livekit-livekit-aee37f0f.md) |
+| livekit/livekit | partial | 2026-09-01T20:05:26Z | [open](../records/video-livekit-livekit-aee37f0f.md) |
 | LuckSiege/PictureSelector | partial | 2024-05-11T03:14:44Z | [open](../records/video-lucksiege-pictureselector-fce76f06.md) |
 | mafiosnik777/enhancr | partial | 2024-01-15T16:08:08Z | [open](../records/video-mafiosnik777-enhancr-3d2ed149.md) |
 | mahmoud/awesome-python-applications | partial | 2026-07-11T16:46:22Z | [open](../records/video-mahmoud-awesome-python-applications-e09dad04.md) |
@@ -904,7 +916,7 @@ Records: `1085`
 | OpenShot/openshot-qt | partial | 2026-09-01T03:31:09Z | [open](../records/video-openshot-openshot-qt-c99a1faa.md) |
 | ORB-HD/deface | partial | 2024-10-13T21:56:24Z | [open](../records/video-orb-hd-deface-821a4649.md) |
 | ossrs/srs | partial | 2026-08-26T15:30:55Z | [open](../records/video-ossrs-srs-c3ecdeaf.md) |
-| owncast/owncast | partial | 2026-09-01T18:43:56Z | [open](../records/video-owncast-owncast-b3a35889.md) |
+| owncast/owncast | partial | 2026-09-01T19:45:59Z | [open](../records/video-owncast-owncast-b3a35889.md) |
 | pion/webrtc | partial | 2026-09-01T02:50:40Z | [open](../records/video-pion-webrtc-db831169.md) |
 | prouast/heartbeat | partial | 2026-03-02T04:39:18Z | [open](../records/video-prouast-heartbeat-a2923779.md) |
 | qTox/qTox | partial | 2025-02-16T14:21:41Z | [open](../records/video-qtox-qtox-a43b9736.md) |
@@ -960,11 +972,12 @@ Records: `1085`
 | fastvideo/pgm2dng | partial | 2026-07-21T05:55:54Z | [open](../records/photography-fastvideo-pgm2dng-d1583b9e.md) |
 | geerlingguy/pi-timelapse | unknown | github_search_does_not_include_release_date | [open](../records/photography-geerlingguy-pi-timelapse-b66cdb8a.md) |
 | GimelStudio/GimelStudio | partial | 2026-06-18T03:36:38Z | [open](../records/photography-gimelstudio-gimelstudio-c971959d.md) |
+| hjdhjd/homebridge-unifi-protect | partial | 2026-07-19T20:47:25Z | [open](../records/photography-hjdhjd-homebridge-unifi-protect-782e9500.md) |
 | hkk595/Resizer | unknown | github_search_does_not_include_release_date | [open](../records/photography-hkk595-resizer-84d16447.md) |
 | jim-easterbrook/Photini | unknown | github_search_does_not_include_release_date | [open](../records/photography-jim-easterbrook-photini-6784c4d4.md) |
 | jyjblrd/3D-Printed-Film-Video-Camera | unknown | github_search_does_not_include_release_date | [open](../records/photography-jyjblrd-3d-printed-film-video-camera-cbe2ee7c.md) |
 | kxvn-lx/Kontax-Cam | unknown | github_search_does_not_include_release_date | [open](../records/photography-kxvn-lx-kontax-cam-32050bac.md) |
-| lbalazscs/Pixelitor | partial | 2026-09-01T17:01:46Z | [open](../records/photography-lbalazscs-pixelitor-3a1b5cdf.md) |
+| lbalazscs/Pixelitor | partial | 2026-09-01T19:44:20Z | [open](../records/photography-lbalazscs-pixelitor-3a1b5cdf.md) |
 | ncruces/RethinkRAW | unknown | github_search_does_not_include_release_date | [open](../records/photography-ncruces-rethinkraw-a0dbdde6.md) |
 | NextLevel/NextLevel | unknown | github_search_does_not_include_release_date | [open](../records/photography-nextlevel-nextlevel-e27b735b.md) |
 | nv-tlabs/vipe | partial | 2026-08-17T23:14:20Z | [open](../records/photography-nv-tlabs-vipe-115cedae.md) |

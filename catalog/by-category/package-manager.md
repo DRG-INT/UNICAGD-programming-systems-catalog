@@ -1,6 +1,6 @@
 # Package Manager
 
-Records: `248`
+Records: `252`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `248`
 
 ## Category Index
 
-[Api Abi Checker (176)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (120)](async-runtime.md)
-[Benchmarking (106)](benchmarking.md) · [Build System (780)](build-system.md) · [Cli (488)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (176)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (121)](async-runtime.md)
+[Benchmarking (106)](benchmarking.md) · [Build System (787)](build-system.md) · [Cli (488)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (81)](community-reference.md) · [Compiler (157)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (43)](compression.md)
 [Concurrency Parallelism (70)](concurrency-parallelism.md) · [Configuration (94)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (679)](database-datastore.md) · [Datetime (147)](datetime.md)
+[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (681)](database-datastore.md) · [Datetime (147)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (79)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (46)](embedded-hardware.md) · [Ffi Bindings (375)](ffi-bindings.md) · [Filesystem Os (1124)](filesystem-os.md) · [Formatter (529)](formatter.md)
-[Framework (45)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (138)](game-engine-game-dev.md) · [Ide Editor Integration (1085)](ide-editor-integration.md)
-[Image Audio Dsp (262)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1216)](language-specification.md) · [Library (4675)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (325)](logging-observability.md) · [Machine Learning (555)](machine-learning.md)
-[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (891)](networking-http.md)
-[Other (14)](other.md) · **[Package Manager (248)](package-manager.md)** · [Parser Lexer Ast (885)](parser-lexer-ast.md) · [Precommit Ci Quality (253)](precommit-ci-quality.md)
-[Profiler (66)](profiler.md) · [Project Scaffolding (107)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (307)](security-sast.md) · [Serialization (362)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (413)](static-analyzer.md)
+[Embedded Hardware (46)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1125)](filesystem-os.md) · [Formatter (533)](formatter.md)
+[Framework (45)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (138)](game-engine-game-dev.md) · [Ide Editor Integration (1098)](ide-editor-integration.md)
+[Image Audio Dsp (265)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1217)](language-specification.md) · [Library (4679)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (381)](logging-observability.md) · [Machine Learning (555)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (893)](networking-http.md)
+[Other (14)](other.md) · **[Package Manager (252)](package-manager.md)** · [Parser Lexer Ast (887)](parser-lexer-ast.md) · [Precommit Ci Quality (254)](precommit-ci-quality.md)
+[Profiler (67)](profiler.md) · [Project Scaffolding (116)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (308)](security-sast.md) · [Serialization (363)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (415)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (487)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (282)](type-checker.md)
-[Undefined Behavior Analyzer (1344)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (399)](visualization-gui.md) · [Web Framework (377)](web-framework.md)
+[Undefined Behavior Analyzer (1350)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (399)](visualization-gui.md) · [Web Framework (378)](web-framework.md)
 
 ## C99
 
@@ -110,7 +110,7 @@ Records: `248`
 | @stoplight/prism-cli | 5.16.0 | 2026-07-17T08:02:36.635Z | [open](../records/node-js-javascript-stoplight-prism-cli-5e01c147.md) |
 | @transmute/security-context | 0.7.0-unstable.82 | 2023-12-06T23:41:48.389Z | [open](../records/node-js-javascript-transmute-security-context-11df38c8.md) |
 | @tryghost/logging | 5.4.1 | 2026-08-26T02:14:50.686Z | [open](../records/node-js-javascript-tryghost-logging-0633b988.md) |
-| @tryghost/server | 3.1.11 | 2026-08-26T02:15:35.493Z | [open](../records/node-js-javascript-tryghost-server-914387f6.md) |
+| @tryghost/server | 3.1.13 | 2026-09-01T19:36:57.320Z | [open](../records/node-js-javascript-tryghost-server-914387f6.md) |
 | @vltpkg/security-archive | 1.0.7 | 2026-08-28T20:46:36.667Z | [open](../records/node-js-javascript-vltpkg-security-archive-8f7805a6.md) |
 | @webiny/app-security | 5.44.0 | 2026-01-15T15:33:41.164Z | [open](../records/node-js-javascript-webiny-app-security-3dc692de.md) |
 | agent-security-scanner-mcp | 4.5.9 | 2026-08-06T01:55:27.453Z | [open](../records/node-js-javascript-agent-security-scanner-mcp-1c8d9216.md) |
@@ -293,7 +293,11 @@ Records: `248`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AndrewAnnex/asap_stereo | partial | 2026-07-23T21:49:02Z | [open](../records/space-maps-andrewannex-asap-stereo-37cce249.md) |
+| athob/py-ananke | partial | 2026-08-10T23:30:51Z | [open](../records/space-maps-athob-py-ananke-ac3b22bc.md) |
+| daddykev/stardust-distro | partial | 2025-09-03T23:13:59Z | [open](../records/space-maps-daddykev-stardust-distro-1e09e701.md) |
+| daddykev/stardust-dsp | partial | 2025-09-03T18:15:54Z | [open](../records/space-maps-daddykev-stardust-dsp-ad11bf31.md) |
 | NeelPatra/Micro-Cap-12-Archive | partial | 2026-01-11T06:50:17Z | [open](../records/space-maps-neelpatra-micro-cap-12-archive-cb3664f9.md) |
+| Snowflake-Labs/sfguide-getting-started-with-snowpipe-streaming-apache-iceberg-snowflake-open-catalog | partial | 2025-06-09T17:11:17Z | [open](../records/space-maps-snowflake-labs-sfguide-getting-started-with-snowpipe-streaming-apache-iceberg-snowflake-open-catalog-300e96a6.md) |
 | spacetelescope/jwst | partial | 2026-09-01T16:26:26Z | [open](../records/space-maps-spacetelescope-jwst-eb2c4c25.md) |
 
 ## Effects
@@ -325,7 +329,7 @@ Records: `248`
 | Archie3d/aeolus_plugin | v0.3.0 | 2025-05-31T13:17:36Z | [open](../records/audio-archie3d-aeolus-plugin-c1d397f6.md) |
 | Audio4Linux/JDSP4Linux | partial | 2026-08-29T16:29:46Z | [open](../records/audio-audio4linux-jdsp4linux-effd41ab.md) |
 | collidingScopes/arpeggiator | unknown | github_latest_release_missing | [open](../records/audio-collidingscopes-arpeggiator-f2da818f.md) |
-| modelscope/FunASR | partial | 2026-09-01T19:15:13Z | [open](../records/audio-modelscope-funasr-8e089427.md) |
+| modelscope/FunASR | partial | 2026-09-01T19:59:02Z | [open](../records/audio-modelscope-funasr-8e089427.md) |
 
 ## Video
 
@@ -355,7 +359,7 @@ Records: `248`
 | hallvaaw/awesome-biological-image-analysis | partial | 2026-09-01T08:44:58Z | [open](../records/microscopy-hallvaaw-awesome-biological-image-analysis-b00b91fa.md) |
 | lachlanchen/OpenHI | partial | 2026-04-27T01:39:28Z | [open](../records/microscopy-lachlanchen-openhi-6563c12a.md) |
 | nf-core/mcmicro | partial | 2026-09-01T12:58:34Z | [open](../records/microscopy-nf-core-mcmicro-5fb60926.md) |
-| nf-core/spatialvi | partial | 2026-09-01T16:00:27Z | [open](../records/microscopy-nf-core-spatialvi-764d8d93.md) |
+| nf-core/spatialvi | partial | 2026-09-01T19:33:06Z | [open](../records/microscopy-nf-core-spatialvi-764d8d93.md) |
 | SPerrott22/Deepcell-to-QuPath | partial | 2025-04-26T00:18:52Z | [open](../records/microscopy-sperrott22-deepcell-to-qupath-1da4c7e2.md) |
 
 ## Telescopes

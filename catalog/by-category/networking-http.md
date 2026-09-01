@@ -1,6 +1,6 @@
 # Networking Http
 
-Records: `891`
+Records: `893`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `891`
 
 ## Category Index
 
-[Api Abi Checker (176)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (120)](async-runtime.md)
-[Benchmarking (106)](benchmarking.md) · [Build System (780)](build-system.md) · [Cli (488)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (176)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (121)](async-runtime.md)
+[Benchmarking (106)](benchmarking.md) · [Build System (787)](build-system.md) · [Cli (488)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (81)](community-reference.md) · [Compiler (157)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (43)](compression.md)
 [Concurrency Parallelism (70)](concurrency-parallelism.md) · [Configuration (94)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (679)](database-datastore.md) · [Datetime (147)](datetime.md)
+[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (681)](database-datastore.md) · [Datetime (147)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (79)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (46)](embedded-hardware.md) · [Ffi Bindings (375)](ffi-bindings.md) · [Filesystem Os (1124)](filesystem-os.md) · [Formatter (529)](formatter.md)
-[Framework (45)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (138)](game-engine-game-dev.md) · [Ide Editor Integration (1085)](ide-editor-integration.md)
-[Image Audio Dsp (262)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1216)](language-specification.md) · [Library (4675)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (325)](logging-observability.md) · [Machine Learning (555)](machine-learning.md)
-[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · **[Networking Http (891)](networking-http.md)**
-[Other (14)](other.md) · [Package Manager (248)](package-manager.md) · [Parser Lexer Ast (885)](parser-lexer-ast.md) · [Precommit Ci Quality (253)](precommit-ci-quality.md)
-[Profiler (66)](profiler.md) · [Project Scaffolding (107)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (307)](security-sast.md) · [Serialization (362)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (413)](static-analyzer.md)
+[Embedded Hardware (46)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1125)](filesystem-os.md) · [Formatter (533)](formatter.md)
+[Framework (45)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (138)](game-engine-game-dev.md) · [Ide Editor Integration (1098)](ide-editor-integration.md)
+[Image Audio Dsp (265)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1217)](language-specification.md) · [Library (4679)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (381)](logging-observability.md) · [Machine Learning (555)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · **[Networking Http (893)](networking-http.md)**
+[Other (14)](other.md) · [Package Manager (252)](package-manager.md) · [Parser Lexer Ast (887)](parser-lexer-ast.md) · [Precommit Ci Quality (254)](precommit-ci-quality.md)
+[Profiler (67)](profiler.md) · [Project Scaffolding (116)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (308)](security-sast.md) · [Serialization (363)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (415)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (487)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (282)](type-checker.md)
-[Undefined Behavior Analyzer (1344)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (399)](visualization-gui.md) · [Web Framework (377)](web-framework.md)
+[Undefined Behavior Analyzer (1350)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (399)](visualization-gui.md) · [Web Framework (378)](web-framework.md)
 
 ## C99
 
@@ -250,7 +250,7 @@ Records: `891`
 | @adonisjs/http-server | 9.3.0 | 2026-08-24T08:01:55.704Z | [open](../records/node-js-javascript-adonisjs-http-server-c6d0fa46.md) |
 | @algolia/requester-node-http | 5.57.0 | 2026-08-18T12:48:46.149Z | [open](../records/node-js-javascript-algolia-requester-node-http-0ff5a2d6.md) |
 | @aws-amplify/graphql-http-transformer | 3.0.23 | 2026-07-13T21:18:20.438Z | [open](../records/node-js-javascript-aws-amplify-graphql-http-transformer-8ede633f.md) |
-| @aws-sdk/client-database-migration-service | 3.1123.0 | 2026-08-31T22:50:09.123Z | [open](../records/node-js-javascript-aws-sdk-client-database-migration-service-058f4424.md) |
+| @aws-sdk/client-database-migration-service | 3.1124.0 | 2026-09-01T18:52:40.378Z | [open](../records/node-js-javascript-aws-sdk-client-database-migration-service-058f4424.md) |
 | @azure/core-http-compat | 2.5.0 | 2026-07-13T21:38:57.674Z | [open](../records/node-js-javascript-azure-core-http-compat-82cb36ba.md) |
 | @cedarjs/api-server | 6.0.1 | 2026-08-29T05:33:02.047Z | [open](../records/node-js-javascript-cedarjs-api-server-0ec0ed14.md) |
 | @cloudflare/util-http | 2.0.19 | 2026-06-30T12:53:46.901Z | [open](../records/node-js-javascript-cloudflare-util-http-2d4a7ac2.md) |
@@ -429,11 +429,11 @@ Records: `891`
 | node-loggly-bulk | 4.0.2 | 2024-08-14T13:35:42.160Z | [open](../records/node-js-javascript-node-loggly-bulk-d4af5ebe.md) |
 | nodemailer-fetch | 2.1.0 | 2016-10-08T22:04:13.734Z | [open](../records/node-js-javascript-nodemailer-fetch-dbd4324a.md) |
 | ocache | 0.3.0 | 2026-08-18T15:03:00.536Z | [open](../records/node-js-javascript-ocache-52cbc8bb.md) |
-| oci-database | 2.140.0 | 2026-08-25T15:30:39.715Z | [open](../records/node-js-javascript-oci-database-cacbd435.md) |
-| oci-databasemanagement | 2.140.0 | 2026-08-25T15:10:09.436Z | [open](../records/node-js-javascript-oci-databasemanagement-d3d2cf4c.md) |
-| oci-databasemigration | 2.140.0 | 2026-08-25T15:06:31.867Z | [open](../records/node-js-javascript-oci-databasemigration-75576e9b.md) |
-| oci-databasetools | 2.140.0 | 2026-08-25T15:08:17.250Z | [open](../records/node-js-javascript-oci-databasetools-e0fdb2b7.md) |
-| oci-distributeddatabase | 2.140.0 | 2026-08-25T15:10:17.550Z | [open](../records/node-js-javascript-oci-distributeddatabase-15271789.md) |
+| oci-database | 2.140.1 | 2026-09-01T18:40:16.874Z | [open](../records/node-js-javascript-oci-database-cacbd435.md) |
+| oci-databasemanagement | 2.140.1 | 2026-09-01T18:36:52.755Z | [open](../records/node-js-javascript-oci-databasemanagement-d3d2cf4c.md) |
+| oci-databasemigration | 2.140.1 | 2026-09-01T18:36:40.831Z | [open](../records/node-js-javascript-oci-databasemigration-75576e9b.md) |
+| oci-databasetools | 2.140.1 | 2026-09-01T18:33:52.479Z | [open](../records/node-js-javascript-oci-databasetools-e0fdb2b7.md) |
+| oci-distributeddatabase | 2.140.1 | 2026-09-01T18:39:31.660Z | [open](../records/node-js-javascript-oci-distributeddatabase-15271789.md) |
 | oci-globallydistributeddatabase | 2.124.0 | 2026-01-27T17:59:44.286Z | [open](../records/node-js-javascript-oci-globallydistributeddatabase-bfdb3ade.md) |
 | oci-logging | 2.140.0 | 2026-08-25T15:06:09.604Z | [open](../records/node-js-javascript-oci-logging-82dcb398.md) |
 | original-url | 1.2.3 | 2019-04-14T08:14:30.398Z | [open](../records/node-js-javascript-original-url-cffbd3bd.md) |
@@ -854,10 +854,12 @@ Records: `891`
 | Corsinvest/cv4pve-vdi | partial | 2026-07-30T17:05:15Z | [open](../records/space-maps-corsinvest-cv4pve-vdi-bc170682.md) |
 | electerm/electerm | partial | 2026-09-01T12:12:10Z | [open](../records/space-maps-electerm-electerm-8c5dc479.md) |
 | FreeRDP/Remmina | partial | 2026-02-08T19:09:55Z | [open](../records/space-maps-freerdp-remmina-5536d2a1.md) |
+| fujiaze/Gaia-DR3-DR3SP-Client-C | partial | 2026-07-24T09:41:47Z | [open](../records/space-maps-fujiaze-gaia-dr3-dr3sp-client-c-536e618d.md) |
 | JamesDavid/Overhead | partial | 2026-07-21T04:41:21Z | [open](../records/space-maps-jamesdavid-overhead-e7ed8b99.md) |
 | muayyad-alsadi/containerized-xorg-spice | partial | 2018-04-16T06:54:42Z | [open](../records/space-maps-muayyad-alsadi-containerized-xorg-spice-1c5813eb.md) |
 | nkovacne/ovirt-desktop-client | partial | 2022-04-25T07:12:21Z | [open](../records/space-maps-nkovacne-ovirt-desktop-client-a0cb4753.md) |
 | sakakun/Proxmox-Desktop-Client | partial | 2024-12-25T20:44:16Z | [open](../records/space-maps-sakakun-proxmox-desktop-client-c28ef961.md) |
+| thetnaungwin/NewStarEcommerce | partial | 2025-09-30T04:55:22Z | [open](../records/space-maps-thetnaungwin-newstarecommerce-4b2c4f06.md) |
 
 ## Effects
 

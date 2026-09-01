@@ -4,23 +4,23 @@
 
 ## Category Index
 
-[Api Abi Checker (176)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (41)](by-category/assertion-mocking.md) · [Async Runtime (120)](by-category/async-runtime.md)
-[Benchmarking (106)](by-category/benchmarking.md) · [Build System (780)](by-category/build-system.md) · [Cli (488)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Api Abi Checker (176)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (41)](by-category/assertion-mocking.md) · [Async Runtime (121)](by-category/async-runtime.md)
+[Benchmarking (106)](by-category/benchmarking.md) · [Build System (787)](by-category/build-system.md) · [Cli (488)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (81)](by-category/community-reference.md) · [Compiler (157)](by-category/compiler.md) · [Compiler Diagnostics (22)](by-category/compiler-diagnostics.md) · [Compression (43)](by-category/compression.md)
 [Concurrency Parallelism (70)](by-category/concurrency-parallelism.md) · [Configuration (94)](by-category/configuration.md) · [Container Deployment (8)](by-category/container-deployment.md) · [Coverage (11)](by-category/coverage.md)
-[Cryptography (153)](by-category/cryptography.md) · [Data Science (32)](by-category/data-science.md) · [Database Datastore (679)](by-category/database-datastore.md) · [Datetime (147)](by-category/datetime.md)
+[Cryptography (153)](by-category/cryptography.md) · [Data Science (32)](by-category/data-science.md) · [Database Datastore (681)](by-category/database-datastore.md) · [Datetime (147)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (40)](by-category/debugger.md) · [Dependency Manager (79)](by-category/dependency-manager.md) · [Documentation (77)](by-category/documentation.md)
-[Embedded Hardware (46)](by-category/embedded-hardware.md) · [Ffi Bindings (375)](by-category/ffi-bindings.md) · [Filesystem Os (1124)](by-category/filesystem-os.md) · [Formatter (529)](by-category/formatter.md)
-[Framework (45)](by-category/framework.md) · [Fuzzer (48)](by-category/fuzzer.md) · [Game Engine Game Dev (138)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1085)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (262)](by-category/image-audio-dsp.md) · [Interop Bindings (52)](by-category/interop-bindings.md) · [Interpreter Runtime (223)](by-category/interpreter-runtime.md) · [Jit Vm (56)](by-category/jit-vm.md)
-[Language Server (26)](by-category/language-server.md) · [Language Specification (1216)](by-category/language-specification.md) · [Library (4675)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (40)](by-category/lint-rule-pack.md) · [Linter (344)](by-category/linter.md) · [Logging Observability (325)](by-category/logging-observability.md) · [Machine Learning (555)](by-category/machine-learning.md)
-[Math Numeric Scientific (78)](by-category/math-numeric-scientific.md) · [Memory Analyzer (75)](by-category/memory-analyzer.md) · [Message Broker (31)](by-category/message-broker.md) · [Networking Http (891)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (248)](by-category/package-manager.md) · [Parser Lexer Ast (885)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (253)](by-category/precommit-ci-quality.md)
-[Profiler (66)](by-category/profiler.md) · [Project Scaffolding (107)](by-category/project-scaffolding.md) · [Registry Repository (107)](by-category/registry-repository.md) · [Sanitizer (12)](by-category/sanitizer.md)
-[Security Sast (307)](by-category/security-sast.md) · [Serialization (362)](by-category/serialization.md) · [Standard Library (23)](by-category/standard-library.md) · [Static Analyzer (413)](by-category/static-analyzer.md)
+[Embedded Hardware (46)](by-category/embedded-hardware.md) · [Ffi Bindings (376)](by-category/ffi-bindings.md) · [Filesystem Os (1125)](by-category/filesystem-os.md) · [Formatter (533)](by-category/formatter.md)
+[Framework (45)](by-category/framework.md) · [Fuzzer (48)](by-category/fuzzer.md) · [Game Engine Game Dev (138)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1098)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (265)](by-category/image-audio-dsp.md) · [Interop Bindings (52)](by-category/interop-bindings.md) · [Interpreter Runtime (223)](by-category/interpreter-runtime.md) · [Jit Vm (56)](by-category/jit-vm.md)
+[Language Server (26)](by-category/language-server.md) · [Language Specification (1217)](by-category/language-specification.md) · [Library (4679)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (40)](by-category/lint-rule-pack.md) · [Linter (344)](by-category/linter.md) · [Logging Observability (381)](by-category/logging-observability.md) · [Machine Learning (555)](by-category/machine-learning.md)
+[Math Numeric Scientific (78)](by-category/math-numeric-scientific.md) · [Memory Analyzer (75)](by-category/memory-analyzer.md) · [Message Broker (31)](by-category/message-broker.md) · [Networking Http (893)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (252)](by-category/package-manager.md) · [Parser Lexer Ast (887)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (254)](by-category/precommit-ci-quality.md)
+[Profiler (67)](by-category/profiler.md) · [Project Scaffolding (116)](by-category/project-scaffolding.md) · [Registry Repository (107)](by-category/registry-repository.md) · [Sanitizer (12)](by-category/sanitizer.md)
+[Security Sast (308)](by-category/security-sast.md) · [Serialization (363)](by-category/serialization.md) · [Standard Library (23)](by-category/standard-library.md) · [Static Analyzer (415)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (487)](by-category/testing-framework.md) · [Tutorial Book Styleguide (52)](by-category/tutorial-book-styleguide.md) · [Type Checker (282)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1344)](by-category/undefined-behavior-analyzer.md) · [Utility Library (91)](by-category/utility-library.md) · [Visualization Gui (399)](by-category/visualization-gui.md) · [Web Framework (377)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1350)](by-category/undefined-behavior-analyzer.md) · [Utility Library (91)](by-category/utility-library.md) · [Visualization Gui (399)](by-category/visualization-gui.md) · [Web Framework (378)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -1223,6 +1223,7 @@
 | `cran_packages_by_date-49a8e6b6e5adfb` | underdisp | [open](records/r-underdisp-8acbbf10.md) |
 | `cran_packages_by_date-49ee5f0762a881` | mcptools | [open](records/r-mcptools-e66aa325.md) |
 | `cran_packages_by_date-4a0b364fd6458f` | shapviz | [open](records/r-shapviz-d4cf00e1.md) |
+| `cran_packages_by_date-4a46273c9e9162` | shiftR | [open](records/r-shiftr-e102e904.md) |
 | `cran_packages_by_date-4a9f3c5e649d8b` | bsitar | [open](records/r-bsitar-395aff6c.md) |
 | `cran_packages_by_date-4ab3701ded5e9c` | Qindex | [open](records/r-qindex-6006e0ca.md) |
 | `cran_packages_by_date-4aea91986734e0` | mcmcr | [open](records/r-mcmcr-cc22b27e.md) |
@@ -1313,6 +1314,7 @@
 | `cran_packages_by_date-5975010b09b3c0` | EBASS | [open](records/r-ebass-c4bc4c3b.md) |
 | `cran_packages_by_date-59838a2cbb7533` | eClosure | [open](records/r-eclosure-6c42b83a.md) |
 | `cran_packages_by_date-599ba0ee152687` | sixtyfour | [open](records/r-sixtyfour-6f2b80b4.md) |
+| `cran_packages_by_date-59c67f9ecf68a6` | rush | [open](records/r-rush-d3668ebf.md) |
 | `cran_packages_by_date-59eff60ec7fad6` | OptimalBinningWoE | [open](records/r-optimalbinningwoe-106ae38f.md) |
 | `cran_packages_by_date-5a005c62c1d143` | qbr | [open](records/r-qbr-bdd32b3a.md) |
 | `cran_packages_by_date-5a494a2c8c3b63` | rmarkdown | [open](records/r-rmarkdown-04ee49af.md) |
@@ -1345,6 +1347,7 @@
 | `cran_packages_by_date-5e05ab28b6f5d1` | decimal | [open](records/r-decimal-6cb5cc69.md) |
 | `cran_packages_by_date-5e3024028afc9b` | huito | [open](records/r-huito-a585f96e.md) |
 | `cran_packages_by_date-5e30ce2a5e674c` | SpaDES.tools | [open](records/r-spades-tools-17243d81.md) |
+| `cran_packages_by_date-5e5f7ad8803f25` | inshiny | [open](records/r-inshiny-20edbf18.md) |
 | `cran_packages_by_date-5e73943f52da7e` | UBStats | [open](records/r-ubstats-cdc72adb.md) |
 | `cran_packages_by_date-5e8b8e00b4030b` | wbstats | [open](records/r-wbstats-89f8dcf3.md) |
 | `cran_packages_by_date-5ec1adaf4b4982` | tractor.base | [open](records/r-tractor-base-bf878a87.md) |
@@ -1873,6 +1876,7 @@
 | `cran_packages_by_date-be2a0802084c69` | harness | [open](records/r-harness-46815bd7.md) |
 | `cran_packages_by_date-be3eef176a89bb` | umweltapir | [open](records/r-umweltapir-7baf56ab.md) |
 | `cran_packages_by_date-be4163f7cc5e23` | rEDM | [open](records/r-redm-cbe51e4d.md) |
+| `cran_packages_by_date-be541daf5cf193` | xtdml | [open](records/r-xtdml-bfc97d6e.md) |
 | `cran_packages_by_date-be7445bc418c7c` | AstraeaDB | [open](records/r-astraeadb-a63f29d0.md) |
 | `cran_packages_by_date-beaa320f6d25b1` | CDMConnector | [open](records/r-cdmconnector-84a814d3.md) |
 | `cran_packages_by_date-befda52d835682` | compIndexBuilder | [open](records/r-compindexbuilder-dd8a292d.md) |
@@ -2135,6 +2139,7 @@
 | `cran_packages_by_date-eb8f6940e631c5` | rcontroll | [open](records/r-rcontroll-3db49076.md) |
 | `cran_packages_by_date-eb9c2eac6a6b83` | lrstat | [open](records/r-lrstat-d346572b.md) |
 | `cran_packages_by_date-eca33821d3a8c2` | contactsurveys | [open](records/r-contactsurveys-358899f8.md) |
+| `cran_packages_by_date-ed2d347250e8ed` | LUCIDus | [open](records/r-lucidus-62988eed.md) |
 | `cran_packages_by_date-ed445b56f66c5b` | apache.sedona | [open](records/r-apache-sedona-fb35d634.md) |
 | `cran_packages_by_date-ed6533cd681fd8` | safetensors | [open](records/r-safetensors-d8a4565d.md) |
 | `cran_packages_by_date-ed68854b58072f` | RiskPortfolios | [open](records/r-riskportfolios-e0204ca1.md) |
@@ -5497,6 +5502,7 @@
 | `github_search_audio-0522ba9924484c` | ijnekenamay/M8HeadlessStaging | [open](records/audio-ijnekenamay-m8headlessstaging-af5b7ae5.md) |
 | `github_search_audio-07095bcebd843b` | monadgroup/axiom | [open](records/audio-monadgroup-axiom-6c13a95f.md) |
 | `github_search_audio-074c6c1d7a1eda` | DhrBaksteen/ArduinoOPL2 | [open](records/audio-dhrbaksteen-arduinoopl2-f259ef2c.md) |
+| `github_search_audio-081cc0e94bd9bb` | increpare/bfxr2 | [open](records/audio-increpare-bfxr2-16674ccc.md) |
 | `github_search_audio-0a495e2e193cb6` | ferluht/loopa | [open](records/audio-ferluht-loopa-d50b3092.md) |
 | `github_search_audio-0ad757dc699972` | tiagolr/ripplerx | [open](records/audio-tiagolr-ripplerx-36b38906.md) |
 | `github_search_audio-0af5faf739b8bc` | dotnet/Silk.NET | [open](records/audio-dotnet-silk-net-d83f3a2e.md) |
@@ -5570,6 +5576,7 @@
 | `github_search_audio-3aa7d0d36eec5b` | vidstack/player | [open](records/audio-vidstack-player-23ff4d11.md) |
 | `github_search_audio-3d1589e86c1349` | bitfieldaudio/OTTO | [open](records/audio-bitfieldaudio-otto-3f40ed1a.md) |
 | `github_search_audio-3dab9dd69f2d10` | mumble-voip/mumble | [open](records/audio-mumble-voip-mumble-d83c7a49.md) |
+| `github_search_audio-3de7e59f49f174` | npisanti/ofxPDSP | [open](records/audio-npisanti-ofxpdsp-71b17c19.md) |
 | `github_search_audio-3e39998661a28f` | MikeMorenoDSP/LIRA-8 | [open](records/audio-mikemorenodsp-lira-8-251c75e9.md) |
 | `github_search_audio-3e66ad3e0d35c5` | ffAudio/Frequalizer | [open](records/audio-ffaudio-frequalizer-1c4a9f6a.md) |
 | `github_search_audio-3fa534bda76479` | akunull/piloslib | [open](records/audio-akunull-piloslib-6084501c.md) |
@@ -5604,6 +5611,7 @@
 | `github_search_audio-55049f1a4e7de1` | breizhn/DTLN | [open](records/audio-breizhn-dtln-2ae9e899.md) |
 | `github_search_audio-55702e463a7327` | audacity/audacity | [open](records/audio-audacity-audacity-76dd21d8.md) |
 | `github_search_audio-562350b5396b1d` | dwhinham/mt32-pi | [open](records/audio-dwhinham-mt32-pi-7a87163b.md) |
+| `github_search_audio-5700b7c2c6c02e` | FORARTfe/HyMPS | [open](records/audio-forartfe-hymps-4bad0b4a.md) |
 | `github_search_audio-590b3359953990` | analogcode/Swift-Radio-Pro | [open](records/audio-analogcode-swift-radio-pro-6d9ae883.md) |
 | `github_search_audio-5b7d2bd49e53c7` | Atarity/diy-synths | [open](records/audio-atarity-diy-synths-33f61601.md) |
 | `github_search_audio-5bae0c0983fc94` | iver56/torch-audiomentations | [open](records/audio-iver56-torch-audiomentations-c42fa5d3.md) |
@@ -5665,6 +5673,7 @@
 | `github_search_audio-8edf70d6b63fe5` | lanceylai/TSWeChat | [open](records/audio-lanceylai-tswechat-3bd4bda0.md) |
 | `github_search_audio-90ab01e7ca19c4` | Audio-WestlakeU/FullSubNet | [open](records/audio-audio-westlakeu-fullsubnet-8d1a3912.md) |
 | `github_search_audio-9212b8b426955f` | michaelwillis/dragonfly-reverb | [open](records/audio-michaelwillis-dragonfly-reverb-7aa868bf.md) |
+| `github_search_audio-928a70a86bd1c0` | yandexdataschool/speech_course | [open](records/audio-yandexdataschool-speech-course-6265981b.md) |
 | `github_search_audio-92930f720c855a` | xiph/rnnoise | [open](records/audio-xiph-rnnoise-29e1b10e.md) |
 | `github_search_audio-92deccddcaf029` | zynthian/zynthian-ui | [open](records/audio-zynthian-zynthian-ui-308e1a33.md) |
 | `github_search_audio-92e3c0b4a8498b` | mzuelch/CATs-Eurosynth | [open](records/audio-mzuelch-cats-eurosynth-a6002844.md) |
@@ -6394,6 +6403,7 @@
 | `github_search_effects-71cfb996e63cd1` | UnityTechnologies/ATerribleKingdom | [open](records/effects-unitytechnologies-aterriblekingdom-540a631e.md) |
 | `github_search_effects-72399e51a905f3` | supriya-project/supriya | [open](records/effects-supriya-project-supriya-d075f962.md) |
 | `github_search_effects-724996b1e2ad56` | Kodaskills/bevy_retro_shaders | [open](records/effects-kodaskills-bevy-retro-shaders-ef023a67.md) |
+| `github_search_effects-72c2aa7776a673` | setchi/Unity-Effects | [open](records/effects-setchi-unity-effects-cd6f53d4.md) |
 | `github_search_effects-738eb42a940140` | MrKepzie/Natron | [open](records/effects-mrkepzie-natron-996a2a53.md) |
 | `github_search_effects-73dafbd4758221` | jagumiel/Guitar-Pedal-Effects-on-FPGA | [open](records/effects-jagumiel-guitar-pedal-effects-on-fpga-b6ef3a17.md) |
 | `github_search_effects-73f6296d78bcbf` | AcademySoftwareFoundation/openvdb | [open](records/effects-academysoftwarefoundation-openvdb-fbe81c11.md) |
@@ -6458,6 +6468,7 @@
 | `github_search_effects-91d1fb50fc45dc` | Robert-K/gpu-particles | [open](records/effects-robert-k-gpu-particles-76cd9f4d.md) |
 | `github_search_effects-93300f9c988351` | wake-bikila-dev/Rose_flower | [open](records/effects-wake-bikila-dev-rose-flower-5c6c7075.md) |
 | `github_search_effects-93925ceed239cf` | zephyo/2D-Unity-Experiments | [open](records/effects-zephyo-2d-unity-experiments-6c2d9179.md) |
+| `github_search_effects-93dc1946456f66` | Akascape/ShaderToyVid | [open](records/effects-akascape-shadertoyvid-707b6609.md) |
 | `github_search_effects-954a3f56387ac5` | lincollincol/AudioTool | [open](records/effects-lincollincol-audiotool-5994abcc.md) |
 | `github_search_effects-9555fab9a01154` | cansik/processing-postfx | [open](records/effects-cansik-processing-postfx-3d2f44fc.md) |
 | `github_search_effects-9560c918d608e3` | SuperKogito/pydiogment | [open](records/effects-superkogito-pydiogment-ee1478f0.md) |
@@ -6558,6 +6569,7 @@
 | `github_search_effects-d3552c0abccbb8` | hughsk/voxel-colorist | [open](records/effects-hughsk-voxel-colorist-4f0cd027.md) |
 | `github_search_effects-d5691c4301c2fa` | Samuwhale/UE5-Painterly-Shader | [open](records/effects-samuwhale-ue5-painterly-shader-0ab36e4d.md) |
 | `github_search_effects-d6600a06f20585` | Lallapallooza/fast-audiomentations | [open](records/effects-lallapallooza-fast-audiomentations-41239683.md) |
+| `github_search_effects-d66506a6e80dbc` | curly-brace/godot_force_shield_shader | [open](records/effects-curly-brace-godot-force-shield-shader-79c0ff60.md) |
 | `github_search_effects-d713b045dbd006` | markreidvfx/pyaaf2 | [open](records/effects-markreidvfx-pyaaf2-78585c3f.md) |
 | `github_search_effects-d7a6cdee5a0f65` | vfxpro99/usd-build-club | [open](records/effects-vfxpro99-usd-build-club-cb12f272.md) |
 | `github_search_effects-d821e99fbf666a` | glotzerlab/hoomd-examples | [open](records/effects-glotzerlab-hoomd-examples-8b82445a.md) |
@@ -8153,6 +8165,7 @@
 | `github_search_photography-1538c8be3b4157` | hanatos/vkdt | [open](records/photography-hanatos-vkdt-673c0f96.md) |
 | `github_search_photography-15ed3a06d245fb` | markusthiel/lumio | [open](records/photography-markusthiel-lumio-24d2fd8b.md) |
 | `github_search_photography-16d30dba446afe` | jdisho/Papr | [open](records/photography-jdisho-papr-d97d54b2.md) |
+| `github_search_photography-1750f84506f9be` | ankitdhall/lidar_camera_calibration | [open](records/photography-ankitdhall-lidar-camera-calibration-71522045.md) |
 | `github_search_photography-183c33c39d3275` | eszdman/PhotonCamera | [open](records/photography-eszdman-photoncamera-7ae407a8.md) |
 | `github_search_photography-18468a1fc1bb50` | nv-tlabs/vipe | [open](records/photography-nv-tlabs-vipe-115cedae.md) |
 | `github_search_photography-187f0fbcdf2c67` | Jermic/awesome-aiart-pics-prompts | [open](records/photography-jermic-awesome-aiart-pics-prompts-7d7d38d2.md) |
@@ -8178,6 +8191,7 @@
 | `github_search_photography-28a20d9f0166e6` | toonoumi/FreeCCR | [open](records/photography-toonoumi-freeccr-c64ca022.md) |
 | `github_search_photography-2915b1826e3641` | mv-lab/nilut | [open](records/photography-mv-lab-nilut-866ec3fa.md) |
 | `github_search_photography-29f979ab07b60f` | pedrodiamel/colorchecker-detection | [open](records/photography-pedrodiamel-colorchecker-detection-02116cb9.md) |
+| `github_search_photography-2a2c5ca1b71eca` | scottlamb/moonfire-nvr | [open](records/photography-scottlamb-moonfire-nvr-a6399221.md) |
 | `github_search_photography-2aba1567ce2284` | Cognirush-Labs-LLP/icompress-win | [open](records/photography-cognirush-labs-llp-icompress-win-28ad11a2.md) |
 | `github_search_photography-2c2ac3d3d74a91` | afgprogrammer/Flutter-Photography-Application | [open](records/photography-afgprogrammer-flutter-photography-application-d1b12714.md) |
 | `github_search_photography-309221703df348` | fakeyanss/Hexo-Album | [open](records/photography-fakeyanss-hexo-album-ca3a05d2.md) |
@@ -8330,6 +8344,7 @@
 | `github_search_photography-c47b73fec167be` | ECarry/photography-website | [open](records/photography-ecarry-photography-website-36282ce9.md) |
 | `github_search_photography-c4984834b27a37` | ceciliavision/zoom-learn-zoom | [open](records/photography-ceciliavision-zoom-learn-zoom-503d7d27.md) |
 | `github_search_photography-c4ab723882a0d7` | kalanda/photoduino | [open](records/photography-kalanda-photoduino-07947f97.md) |
+| `github_search_photography-c4daa614047345` | hjdhjd/homebridge-unifi-protect | [open](records/photography-hjdhjd-homebridge-unifi-protect-782e9500.md) |
 | `github_search_photography-c549112fae98de` | dividebysandwich/LightningView | [open](records/photography-dividebysandwich-lightningview-edad5607.md) |
 | `github_search_photography-c6226991e33201` | jmathai/elodie | [open](records/photography-jmathai-elodie-960b91b7.md) |
 | `github_search_photography-c635da208d866c` | CarVac/filmulator-gui | [open](records/photography-carvac-filmulator-gui-f34a0327.md) |
@@ -8370,6 +8385,7 @@
 | `github_search_photography-ebcb81ba0e88ab` | GimelStudio/GimelStudio | [open](records/photography-gimelstudio-gimelstudio-c971959d.md) |
 | `github_search_photography-ec105a3ac61f83` | kepengxu/RealCamNet | [open](records/photography-kepengxu-realcamnet-aaafb86d.md) |
 | `github_search_photography-ecac393d17694a` | aiff22/PyNET-Bokeh | [open](records/photography-aiff22-pynet-bokeh-16cbc735.md) |
+| `github_search_photography-ed7eff10ce9130` | cowtoolz/webcamize | [open](records/photography-cowtoolz-webcamize-b9f0b629.md) |
 | `github_search_photography-edf1d34d440f78` | philipptrenz/photo-booth | [open](records/photography-philipptrenz-photo-booth-ea2ebbf9.md) |
 | `github_search_photography-ee600e22b33ec4` | SuboptimalEng/orbital | [open](records/photography-suboptimaleng-orbital-a7a00a6b.md) |
 | `github_search_photography-ee9befcc339005` | rsjaffe/MIDI2LR | [open](records/photography-rsjaffe-midi2lr-75198981.md) |
@@ -8969,11 +8985,15 @@
 | `github_search_space_maps-0077dea92cbbaf` | cosmonium/cosmonium | [open](records/space-maps-cosmonium-cosmonium-df2f2e69.md) |
 | `github_search_space_maps-0131e40d303b3e` | SpiceSharp/SpiceSharpParser | [open](records/space-maps-spicesharp-spicesharpparser-20f4c337.md) |
 | `github_search_space_maps-01ed90adf49f9f` | Tzepes/Apollo-sMap | [open](records/space-maps-tzepes-apollo-smap-5e3ea668.md) |
+| `github_search_space_maps-023d0a7bc989fc` | steveberardi/starplot-hyg | [open](records/space-maps-steveberardi-starplot-hyg-5d291a7f.md) |
 | `github_search_space_maps-04349484b0bd64` | jarogumulec/perseidy | [open](records/space-maps-jarogumulec-perseidy-606b759b.md) |
 | `github_search_space_maps-0496990212770d` | js1019/NormalModes | [open](records/space-maps-js1019-normalmodes-10cca106.md) |
+| `github_search_space_maps-05b763ac348e7d` | eggplantbren/StarStudded | [open](records/space-maps-eggplantbren-starstudded-bffc81b7.md) |
 | `github_search_space_maps-07779a343a90c5` | astro-roro/Astro-Coverage-Planner | [open](records/space-maps-astro-roro-astro-coverage-planner-54f72bba.md) |
+| `github_search_space_maps-07c599eb273884` | Azure-Samples/data-catalog-dotnet-service-principal-get-started | [open](records/space-maps-azure-samples-data-catalog-dotnet-service-principal-get-started-85f4f283.md) |
 | `github_search_space_maps-07ef177e391078` | nekitmm/starnet | [open](records/space-maps-nekitmm-starnet-873afb0c.md) |
 | `github_search_space_maps-0823cce057c44b` | 0xCoto/Virgo | [open](records/space-maps-0xcoto-virgo-032ae2e8.md) |
+| `github_search_space_maps-0880b1178c0cf7` | steveberardi/starplot-hyperleda | [open](records/space-maps-steveberardi-starplot-hyperleda-cd28bdcf.md) |
 | `github_search_space_maps-09a99e2ae22b0f` | nikosarcevic/HEP-ASTRO-COSMO | [open](records/space-maps-nikosarcevic-hep-astro-cosmo-76d87559.md) |
 | `github_search_space_maps-09e6d1c9f95916` | AnkitBarik/planetMagFields | [open](records/space-maps-ankitbarik-planetmagfields-901577e2.md) |
 | `github_search_space_maps-0a18e1fc334640` | ace-dev-pixel/StargazerAR | [open](records/space-maps-ace-dev-pixel-stargazerar-e0b868d3.md) |
@@ -8981,12 +9001,16 @@
 | `github_search_space_maps-0a25a116d02768` | hannorein/rebound | [open](records/space-maps-hannorein-rebound-85ac231e.md) |
 | `github_search_space_maps-0a4ad2aecf39a4` | roe-dl/weewx-skymap-almanac | [open](records/space-maps-roe-dl-weewx-skymap-almanac-57e37b7b.md) |
 | `github_search_space_maps-0a84230cdd25f9` | maxmahlke/rocks | [open](records/space-maps-maxmahlke-rocks-873f5e31.md) |
+| `github_search_space_maps-0a9b44e8b1cb6f` | IBM-Cloud/watson-starter-apps | [open](records/space-maps-ibm-cloud-watson-starter-apps-8269d634.md) |
 | `github_search_space_maps-0ad71b0a88b5e0` | ys-ll/uniterm | [open](records/space-maps-ys-ll-uniterm-72dda292.md) |
 | `github_search_space_maps-0afb08c919f129` | nunobrum/spicelib | [open](records/space-maps-nunobrum-spicelib-f827eef9.md) |
+| `github_search_space_maps-0ca64c6d54bdde` | johnpolacek/styled-starter-basic | [open](records/space-maps-johnpolacek-styled-starter-basic-483af579.md) |
 | `github_search_space_maps-0d48120c5b55e5` | afrigeri/geologic-symbols-qgis | [open](records/space-maps-afrigeri-geologic-symbols-qgis-802d1149.md) |
 | `github_search_space_maps-0dbb90602f0de7` | bluescarni/heyoka.py | [open](records/space-maps-bluescarni-heyoka-py-7446afa8.md) |
 | `github_search_space_maps-0ee570539d8079` | sunpy/sunpy | [open](records/space-maps-sunpy-sunpy-8e44c814.md) |
 | `github_search_space_maps-0f7b321b443826` | theCapypara/field-monitor | [open](records/space-maps-thecapypara-field-monitor-8098ae3c.md) |
+| `github_search_space_maps-10781e1800d2c5` | ngwnos/gaia-dr3-chunked | [open](records/space-maps-ngwnos-gaia-dr3-chunked-2ae19cdd.md) |
+| `github_search_space_maps-11c056582c9eed` | RashmikaDushan/GalaNor-ExoSky | [open](records/space-maps-rashmikadushan-galanor-exosky-8d7e4320.md) |
 | `github_search_space_maps-122eb8315edcbb` | electron-lang/electron | [open](records/space-maps-electron-lang-electron-98fd3718.md) |
 | `github_search_space_maps-12389fd56d84c2` | natashabatalha/picaso | [open](records/space-maps-natashabatalha-picaso-5a86c662.md) |
 | `github_search_space_maps-125fb51bf9160b` | NyanCAD/Mosaic | [open](records/space-maps-nyancad-mosaic-169a54ac.md) |
@@ -8995,26 +9019,34 @@
 | `github_search_space_maps-147d0414b363ef` | ut-astria/AstriaGraph | [open](records/space-maps-ut-astria-astriagraph-1842285f.md) |
 | `github_search_space_maps-15cd3caa5d78f3` | dnemec/SPICE-Libraries | [open](records/space-maps-dnemec-spice-libraries-14b85037.md) |
 | `github_search_space_maps-164577239f0a00` | eleanorlutz/moon_geology_atlas_of_space | [open](records/space-maps-eleanorlutz-moon-geology-atlas-of-space-dee865df.md) |
+| `github_search_space_maps-16a618cb8cdf1b` | fujiaze/Gaia-DR3-DR3SP-Client-C | [open](records/space-maps-fujiaze-gaia-dr3-dr3sp-client-c-536e618d.md) |
 | `github_search_space_maps-16c91fd1870874` | ofrohn/d3-celestial | [open](records/space-maps-ofrohn-d3-celestial-15afcceb.md) |
 | `github_search_space_maps-1799413e0553a4` | kjnapier/spacerocks | [open](records/space-maps-kjnapier-spacerocks-5b53cf7c.md) |
 | `github_search_space_maps-1824f615322f00` | VirtualPlanetaryLaboratory/vplanet | [open](records/space-maps-virtualplanetarylaboratory-vplanet-bbbd7433.md) |
 | `github_search_space_maps-193988c9e8763e` | CapableRobot/notebooks | [open](records/space-maps-capablerobot-notebooks-4f26269e.md) |
+| `github_search_space_maps-1b0d09737868bc` | Bebe-dev/starwars-catalogue | [open](records/space-maps-bebe-dev-starwars-catalogue-5f75d1e9.md) |
 | `github_search_space_maps-1bb798d34149fc` | mattiaverga/OpenNGC | [open](records/space-maps-mattiaverga-openngc-81d8c304.md) |
 | `github_search_space_maps-1bf57580084c54` | biosshot/easyeda-copilot | [open](records/space-maps-biosshot-easyeda-copilot-429a5f5a.md) |
+| `github_search_space_maps-1c20ad29f557a5` | ssc-ai/sstrc7 | [open](records/space-maps-ssc-ai-sstrc7-2c337719.md) |
+| `github_search_space_maps-1c7670c3d55426` | iuliagalatan/Star-Catalogue-App | [open](records/space-maps-iuliagalatan-star-catalogue-app-1d0839a1.md) |
 | `github_search_space_maps-1c9065e6a24aaa` | PyLCARS/PySpiceExamples | [open](records/space-maps-pylcars-pyspiceexamples-51fcedc2.md) |
 | `github_search_space_maps-1c9290fe28d8f6` | LupinThidr/spicecompanion | [open](records/space-maps-lupinthidr-spicecompanion-e0d8477b.md) |
 | `github_search_space_maps-1d5945dbfd5298` | gammapy/gammapy | [open](records/space-maps-gammapy-gammapy-86bd1df5.md) |
+| `github_search_space_maps-1dedacbf9ddd9e` | sourcey/startup-credits | [open](records/space-maps-sourcey-startup-credits-5a9b1ade.md) |
 | `github_search_space_maps-2083fa51d0b607` | PyLCARS/Python-and-SPICE-Book | [open](records/space-maps-pylcars-python-and-spice-book-8f806ac6.md) |
 | `github_search_space_maps-2093fd81a23234` | boltma/Scalable-FeFET | [open](records/space-maps-boltma-scalable-fefet-6d27101e.md) |
+| `github_search_space_maps-209d297b352cba` | zeetstar/stremio-imax-catalog | [open](records/space-maps-zeetstar-stremio-imax-catalog-c2e1e908.md) |
 | `github_search_space_maps-20d519641eeaf1` | danieljprice/phantom | [open](records/space-maps-danieljprice-phantom-726925e7.md) |
 | `github_search_space_maps-20e254dcd4a7a5` | ashwith/pyMOSChar | [open](records/space-maps-ashwith-pymoschar-60053eb3.md) |
 | `github_search_space_maps-2211b6d009a5e2` | cds-astro/ipyaladin | [open](records/space-maps-cds-astro-ipyaladin-0124a143.md) |
 | `github_search_space_maps-228df4e9b99871` | OpenSpace/OpenSpace | [open](records/space-maps-openspace-openspace-9ad65878.md) |
 | `github_search_space_maps-229a170b37de58` | celestiamobile/AndroidCelestia | [open](records/space-maps-celestiamobile-androidcelestia-6426e506.md) |
 | `github_search_space_maps-237aa02284aa51` | sksalahuddin2828/NASA | [open](records/space-maps-sksalahuddin2828-nasa-19f784af.md) |
+| `github_search_space_maps-24726b8623f9f8` | gabriel-brito/starwars-catalogue | [open](records/space-maps-gabriel-brito-starwars-catalogue-a8c14e00.md) |
 | `github_search_space_maps-24d63ade7a9fe2` | GregoireHENRY/rust-spice | [open](records/space-maps-gregoirehenry-rust-spice-cc677ccb.md) |
 | `github_search_space_maps-251438d28caebd` | lgbouma/tessmaps | [open](records/space-maps-lgbouma-tessmaps-b001b2d5.md) |
 | `github_search_space_maps-2638a901136645` | spacetelescope/jwst | [open](records/space-maps-spacetelescope-jwst-eb2c4c25.md) |
+| `github_search_space_maps-265211e6a72a49` | dirien/stop-building-portals-start-building-conversations | [open](records/space-maps-dirien-stop-building-portals-start-building-conversations-fe9e289e.md) |
 | `github_search_space_maps-267785dae336db` | Corsinvest/cv4pve-pepper | [open](records/space-maps-corsinvest-cv4pve-pepper-2a1e34fc.md) |
 | `github_search_space_maps-28bff172b9053f` | PySpice-org/PySpice | [open](records/space-maps-pyspice-org-pyspice-c1dbd4c9.md) |
 | `github_search_space_maps-2916d190673fa1` | EnvironmentOntology/envo | [open](records/space-maps-environmentontology-envo-d2072044.md) |
@@ -9022,12 +9054,19 @@
 | `github_search_space_maps-2b6cb036d820f1` | bluescarni/obake | [open](records/space-maps-bluescarni-obake-8bbfd519.md) |
 | `github_search_space_maps-2c2c1e0c242151` | Iraeis/circe | [open](records/space-maps-iraeis-circe-f13ef4ad.md) |
 | `github_search_space_maps-2d59175e66c167` | akashlevy/pyxbar | [open](records/space-maps-akashlevy-pyxbar-e80e79bd.md) |
+| `github_search_space_maps-2e6de225c1e09b` | arcsecond-io/standard-stars-catalogues | [open](records/space-maps-arcsecond-io-standard-stars-catalogues-92d84e53.md) |
 | `github_search_space_maps-2ea7e28dd13d50` | asdf-format/asdf | [open](records/space-maps-asdf-format-asdf-f4898a65.md) |
+| `github_search_space_maps-2eed8e42075813` | lcx366/STARQUERY | [open](records/space-maps-lcx366-starquery-cde2c8fd.md) |
+| `github_search_space_maps-2f3ee9d2423b29` | zkbt/the-earlier-version-of-the-friendly-stars | [open](records/space-maps-zkbt-the-earlier-version-of-the-friendly-stars-e65beea8.md) |
 | `github_search_space_maps-2f92ed8ba2e126` | JuliaAstro/SPICE.jl | [open](records/space-maps-juliaastro-spice-jl-78081df8.md) |
 | `github_search_space_maps-30e2b075772e84` | sunpy/sunraster | [open](records/space-maps-sunpy-sunraster-4da3251a.md) |
 | `github_search_space_maps-31089b8b4123c9` | henrysky/astroNN | [open](records/space-maps-henrysky-astronn-8d13e7e1.md) |
 | `github_search_space_maps-31940cd3ac7a80` | steveberardi/starplot | [open](records/space-maps-steveberardi-starplot-f953a72c.md) |
+| `github_search_space_maps-319f6f1dca4b71` | daddykev/stardust-distro | [open](records/space-maps-daddykev-stardust-distro-1e09e701.md) |
+| `github_search_space_maps-32f97aba4d3602` | Snowflake-Labs/sfguide-getting-started-with-snowpipe-streaming-apache-iceberg-snowflake-open-catalog | [open](records/space-maps-snowflake-labs-sfguide-getting-started-with-snowpipe-streaming-apache-iceberg-snowflake-open-catalog-300e96a6.md) |
 | `github_search_space_maps-33171938d1ee1d` | Rishi-0904/Interactive-Sky-Map | [open](records/space-maps-rishi-0904-interactive-sky-map-e21aa122.md) |
+| `github_search_space_maps-33de9756147280` | reboucasericka/swapi-integration-app | [open](records/space-maps-reboucasericka-swapi-integration-app-f3c6d99d.md) |
+| `github_search_space_maps-343f50c9445332` | nedemsky/stars-catalog | [open](records/space-maps-nedemsky-stars-catalog-c6bde4b3.md) |
 | `github_search_space_maps-34cb86c628c30a` | PyAutoLabs/PyAutoLens | [open](records/space-maps-pyautolabs-pyautolens-72f61a3c.md) |
 | `github_search_space_maps-34efea49cdd79f` | esheldon/fitsio | [open](records/space-maps-esheldon-fitsio-659317e6.md) |
 | `github_search_space_maps-35376ea2b0424a` | oaslananka/kicad-studio-kit | [open](records/space-maps-oaslananka-kicad-studio-kit-b96a6649.md) |
@@ -9036,18 +9075,23 @@
 | `github_search_space_maps-374bf630e00a6b` | muayyad-alsadi/containerized-xorg-spice | [open](records/space-maps-muayyad-alsadi-containerized-xorg-spice-1c5813eb.md) |
 | `github_search_space_maps-37d76d1c31b29c` | astropy/astroquery | [open](records/space-maps-astropy-astroquery-b186d616.md) |
 | `github_search_space_maps-38139adbe46592` | mperrin/poppy | [open](records/space-maps-mperrin-poppy-fcd1ffe4.md) |
+| `github_search_space_maps-384aaf323a6b08` | daria-kawecka/star-wars-catalogue | [open](records/space-maps-daria-kawecka-star-wars-catalogue-df928ac2.md) |
 | `github_search_space_maps-38574ef75660ab` | piyushbag/awesome-pcb-workflow | [open](records/space-maps-piyushbag-awesome-pcb-workflow-c664561e.md) |
 | `github_search_space_maps-3a621d52e3128f` | anahita1dua/Mini-Planetarium | [open](records/space-maps-anahita1dua-mini-planetarium-51de1c6d.md) |
 | `github_search_space_maps-3aa51b46d1bfcb` | JoeyDelp/JoSIM | [open](records/space-maps-joeydelp-josim-e0fd6fb1.md) |
+| `github_search_space_maps-3c239074401ff0` | RayKitajima/StarlightCatalogService | [open](records/space-maps-raykitajima-starlightcatalogservice-3d0a059b.md) |
 | `github_search_space_maps-3d080e3c6ed5ed` | kpobrien/JosephsonCircuits.jl | [open](records/space-maps-kpobrien-josephsoncircuits-jl-35ef4f9d.md) |
 | `github_search_space_maps-3e8f874ebcc3cc` | rjsmethurst/ebvpy | [open](records/space-maps-rjsmethurst-ebvpy-15ff9477.md) |
 | `github_search_space_maps-3f8d51436dc4b7` | skyportal/skyportal | [open](records/space-maps-skyportal-skyportal-0f6b084a.md) |
 | `github_search_space_maps-40e16b9c198740` | ErsaGunTosun/astro-map | [open](records/space-maps-ersaguntosun-astro-map-38dc3a61.md) |
+| `github_search_space_maps-4159945c5788b2` | nickschoey/starwars | [open](records/space-maps-nickschoey-starwars-de85e166.md) |
 | `github_search_space_maps-420cc604b34211` | Stellarium/stellarium | [open](records/space-maps-stellarium-stellarium-9881eb0a.md) |
+| `github_search_space_maps-421ececb8a0ac5` | 339598u5uut/CatalogStarWars | [open](records/space-maps-339598u5uut-catalogstarwars-942b196e.md) |
 | `github_search_space_maps-43151e45d3b1c6` | Alex-Broughton/sky-mapper | [open](records/space-maps-alex-broughton-sky-mapper-55636494.md) |
 | `github_search_space_maps-43e7bedc0e5de5` | GalSim-developers/GalSim | [open](records/space-maps-galsim-developers-galsim-4de2c1e3.md) |
 | `github_search_space_maps-4408906bc5ddab` | Dyalwayshappy/Spice_personal | [open](records/space-maps-dyalwayshappy-spice-personal-fbe6d648.md) |
 | `github_search_space_maps-4447e42c49c58a` | nasa/apod-api | [open](records/space-maps-nasa-apod-api-f0e086d7.md) |
+| `github_search_space_maps-44f4c0f38062b6` | zhubn123/catalog-spring-boot-starter | [open](records/space-maps-zhubn123-catalog-spring-boot-starter-0f3bf1ec.md) |
 | `github_search_space_maps-456e26cae4e917` | MWATelescope/mwa_hyperdrive | [open](records/space-maps-mwatelescope-mwa-hyperdrive-ec8debf1.md) |
 | `github_search_space_maps-4629379849b79c` | lenstronomy/lenstronomy | [open](records/space-maps-lenstronomy-lenstronomy-9b7bddbc.md) |
 | `github_search_space_maps-464c0c9dec4f5d` | Torxgewinde/BrowserBox | [open](records/space-maps-torxgewinde-browserbox-af5122ad.md) |
@@ -9064,6 +9108,8 @@
 | `github_search_space_maps-4e7a4bb338bb98` | sakakun/Proxmox-Desktop-Client | [open](records/space-maps-sakakun-proxmox-desktop-client-c28ef961.md) |
 | `github_search_space_maps-4e8228f3b305bd` | astropy-learn/astropy-tutorials | [open](records/space-maps-astropy-learn-astropy-tutorials-275724b5.md) |
 | `github_search_space_maps-4e9cf218bb05be` | PlasmaPy/PlasmaPy | [open](records/space-maps-plasmapy-plasmapy-38af8e3b.md) |
+| `github_search_space_maps-4fede3e15d0ea8` | Fozimat/star-movie | [open](records/space-maps-fozimat-star-movie-c508ba3f.md) |
+| `github_search_space_maps-50531bde06d663` | Quarior/Star-Wars-catalogs-for-Space-Engine | [open](records/space-maps-quarior-star-wars-catalogs-for-space-engine-acfd1c94.md) |
 | `github_search_space_maps-50802e138ae731` | fjankowsk/skymap | [open](records/space-maps-fjankowsk-skymap-e196b303.md) |
 | `github_search_space_maps-5089081265cbe7` | rafabelokurows/staRmaps | [open](records/space-maps-rafabelokurows-starmaps-fceb7d6a.md) |
 | `github_search_space_maps-518b18fc0ca0bc` | eleanorlutz/asteroids_atlas_of_space | [open](records/space-maps-eleanorlutz-asteroids-atlas-of-space-891428a6.md) |
@@ -9072,13 +9118,21 @@
 | `github_search_space_maps-5274c14f0f30bf` | Cognitohazard/ltspice-mcp | [open](records/space-maps-cognitohazard-ltspice-mcp-ccd6f8ba.md) |
 | `github_search_space_maps-53d8be8f51ac12` | SAOImageDS9/SAOImageDS9 | [open](records/space-maps-saoimageds9-saoimageds9-ed0b1fd7.md) |
 | `github_search_space_maps-546901d30cc9e5` | Rohit-singh-github/Cosmic-resume | [open](records/space-maps-rohit-singh-github-cosmic-resume-55310cad.md) |
+| `github_search_space_maps-54788bf8e4f4c7` | agentstation/starmap | [open](records/space-maps-agentstation-starmap-8fdcd317.md) |
 | `github_search_space_maps-5512fd63c39c2e` | maximus0411/BorisChernyClaudeMarkdown | [open](records/space-maps-maximus0411-borischernyclaudemarkdown-88d34dbb.md) |
 | `github_search_space_maps-55a29e7ba463b5` | saurvs/astro-rust | [open](records/space-maps-saurvs-astro-rust-b959f43f.md) |
+| `github_search_space_maps-56b2860bc5d7e8` | bobbyjim/Starships | [open](records/space-maps-bobbyjim-starships-d41e33f2.md) |
+| `github_search_space_maps-56cd4c0cab7570` | steveberardi/starplot-milkyway | [open](records/space-maps-steveberardi-starplot-milkyway-750e88d7.md) |
 | `github_search_space_maps-573d6aafbed562` | hedhyw/spice3f5 | [open](records/space-maps-hedhyw-spice3f5-51b16424.md) |
 | `github_search_space_maps-585ad457f8faa1` | Radio-Source/RadioSkyMap | [open](records/space-maps-radio-source-radioskymap-b6524398.md) |
+| `github_search_space_maps-59b28295bc8050` | Arnav8452/galactic-star-catalogue | [open](records/space-maps-arnav8452-galactic-star-catalogue-0eface0b.md) |
 | `github_search_space_maps-5a610b03da91d5` | gwastro/PyCBC-Tutorials | [open](records/space-maps-gwastro-pycbc-tutorials-3de1b807.md) |
 | `github_search_space_maps-5af6ac2b087bba` | kbrault/stardome | [open](records/space-maps-kbrault-stardome-23bdfa43.md) |
 | `github_search_space_maps-5b865c9b11981f` | iraf-community/iraf | [open](records/space-maps-iraf-community-iraf-bdcc9cfa.md) |
+| `github_search_space_maps-5be8d96a0a911f` | appsilva/Starship-Catalogue | [open](records/space-maps-appsilva-starship-catalogue-f6a2f944.md) |
+| `github_search_space_maps-5ce62c94ad130e` | backlundtransform/ExoPlanetService | [open](records/space-maps-backlundtransform-exoplanetservice-e567cb26.md) |
+| `github_search_space_maps-5cfc7920a7ae9d` | Quasarkiste487/starCatalogue | [open](records/space-maps-quasarkiste487-starcatalogue-553c179d.md) |
+| `github_search_space_maps-5dc2aac44a260d` | mcgillca/focus-star-catalog | [open](records/space-maps-mcgillca-focus-star-catalog-8fdeb7f1.md) |
 | `github_search_space_maps-5e2502ecb24c50` | sylvesterkaczmarek/lunar-astrodynamics-simulation | [open](records/space-maps-sylvesterkaczmarek-lunar-astrodynamics-simulation-dfbba156.md) |
 | `github_search_space_maps-5e5d9cd3d3f099` | minaskar/pocomc | [open](records/space-maps-minaskar-pocomc-4a3fd6eb.md) |
 | `github_search_space_maps-5e90b816192196` | rkaczorek/astroberry-server | [open](records/space-maps-rkaczorek-astroberry-server-c1d7c3c4.md) |
@@ -9086,21 +9140,33 @@
 | `github_search_space_maps-5ec74d541e6bde` | jyotisham/jyotisha | [open](records/space-maps-jyotisham-jyotisha-889f81ce.md) |
 | `github_search_space_maps-5eea3459f04363` | habibamaher/StarMapBH | [open](records/space-maps-habibamaher-starmapbh-e2d419c9.md) |
 | `github_search_space_maps-5ef9b759a03169` | eleanorlutz/topography_atlas_of_space | [open](records/space-maps-eleanorlutz-topography-atlas-of-space-753b942a.md) |
+| `github_search_space_maps-5f81c7f17de58c` | daddykev/stardust-dsp | [open](records/space-maps-daddykev-stardust-dsp-ad11bf31.md) |
 | `github_search_space_maps-5f9f9654bebb09` | sczesla/PyAstronomy | [open](records/space-maps-sczesla-pyastronomy-b77e4fb4.md) |
 | `github_search_space_maps-6017458f5219a3` | adrn/gala | [open](records/space-maps-adrn-gala-39adb199.md) |
+| `github_search_space_maps-6023d27a1674ab` | marufujisaki/stargirl | [open](records/space-maps-marufujisaki-stargirl-503ff893.md) |
 | `github_search_space_maps-607e1d4212bf39` | matiahasmasan/nightSky | [open](records/space-maps-matiahasmasan-nightsky-b162f393.md) |
+| `github_search_space_maps-612e50107e51d4` | mkelley/calviacat | [open](records/space-maps-mkelley-calviacat-75b5baef.md) |
 | `github_search_space_maps-65b7e3e4832009` | MartinAstro/GravNN | [open](records/space-maps-martinastro-gravnn-49487825.md) |
 | `github_search_space_maps-660885b143044a` | spicelang/spice | [open](records/space-maps-spicelang-spice-ef246fae.md) |
 | `github_search_space_maps-66df9d2002b385` | thennen/pyltspice | [open](records/space-maps-thennen-pyltspice-9637bd79.md) |
+| `github_search_space_maps-67de1d1964c7fe` | d-wwei/CC-Codex-Gemini-companion-starter | [open](records/space-maps-d-wwei-cc-codex-gemini-companion-starter-244fd72c.md) |
+| `github_search_space_maps-67e9bf154ae29e` | AmeeJoshi-MCA/azure-databricks-end-to-end-retail-lakehouse | [open](records/space-maps-ameejoshi-mca-azure-databricks-end-to-end-retail-lakehouse-3f5d8c5a.md) |
 | `github_search_space_maps-68596ebb5cca66` | ATTron/astroz | [open](records/space-maps-attron-astroz-5fb43fe1.md) |
 | `github_search_space_maps-6bebbe53263777` | ad-si/Woxi | [open](records/space-maps-ad-si-woxi-ece7dd2e.md) |
 | `github_search_space_maps-6c6fba7c7dbb92` | Eyantra698Sumanto/Spice-to-Verilog-Converter | [open](records/space-maps-eyantra698sumanto-spice-to-verilog-converter-85f072c2.md) |
+| `github_search_space_maps-6d6ad4f2ae1fe3` | EmmaDawsonDev/starwars-catalog | [open](records/space-maps-emmadawsondev-starwars-catalog-cbab6e24.md) |
 | `github_search_space_maps-6d82a377d52e01` | amnh/HackTheSolarSystem | [open](records/space-maps-amnh-hackthesolarsystem-ac736e3e.md) |
 | `github_search_space_maps-6db7cf75415837` | JohnVV/MyCelestiaBuild | [open](records/space-maps-johnvv-mycelestiabuild-0063b9fa.md) |
+| `github_search_space_maps-6e31b5350d892f` | huang-sh/Starling | [open](records/space-maps-huang-sh-starling-afb288b5.md) |
+| `github_search_space_maps-6e5cd868106149` | ghzgod/unraid-modern-appstore | [open](records/space-maps-ghzgod-unraid-modern-appstore-162cd9ad.md) |
+| `github_search_space_maps-6e677d31838791` | GabrielMoreiradeSouza/STAR-WARS-CATALOG | [open](records/space-maps-gabrielmoreiradesouza-star-wars-catalog-ba9d374f.md) |
 | `github_search_space_maps-6eafb7d9ff868c` | TimInTech/proxmox-manager | [open](records/space-maps-timintech-proxmox-manager-59fcc9e7.md) |
 | `github_search_space_maps-6f76d392bd0a5f` | arda-guler/Kozmoworks | [open](records/space-maps-arda-guler-kozmoworks-da5d973a.md) |
+| `github_search_space_maps-6f97fe64dc22e9` | greglobinski/gatsby-starter-mini-catalog | [open](records/space-maps-greglobinski-gatsby-starter-mini-catalog-6fffbf07.md) |
+| `github_search_space_maps-6fa132956994d6` | giselamarque/StarTwinkle | [open](records/space-maps-giselamarque-startwinkle-064a5525.md) |
 | `github_search_space_maps-71e1385dbd7127` | spacetelescope/poppy | [open](records/space-maps-spacetelescope-poppy-ae2bd07f.md) |
 | `github_search_space_maps-721c68f52b25ba` | GaetanoLongo/PowerElectronics | [open](records/space-maps-gaetanolongo-powerelectronics-afb0849d.md) |
+| `github_search_space_maps-7227b92dc040fa` | strapi/strapi-starter-gatsby-catalog | [open](records/space-maps-strapi-strapi-starter-gatsby-catalog-686dc0a0.md) |
 | `github_search_space_maps-72cc1972006de7` | nyx-space/anise | [open](records/space-maps-nyx-space-anise-dafc6fd2.md) |
 | `github_search_space_maps-74a5378ce2f496` | mars-sim/mars-sim | [open](records/space-maps-mars-sim-mars-sim-54bf76f4.md) |
 | `github_search_space_maps-7551a3fe82d14c` | amozdan/mwdmlut | [open](records/space-maps-amozdan-mwdmlut-05761067.md) |
@@ -9108,41 +9174,61 @@
 | `github_search_space_maps-796d41a28c1cd7` | Teddy-van-Jerry/ngspice-cmos | [open](records/space-maps-teddy-van-jerry-ngspice-cmos-803ed73b.md) |
 | `github_search_space_maps-797653f9b5c16e` | ZZCjas/StarSeeker | [open](records/space-maps-zzcjas-starseeker-72ab03d2.md) |
 | `github_search_space_maps-799a15b9df83be` | peteanderson80/coco-caption | [open](records/space-maps-peteanderson80-coco-caption-9e729876.md) |
+| `github_search_space_maps-79e04f46c36eea` | IcyDawn/Nearby_Star_Catalog | [open](records/space-maps-icydawn-nearby-star-catalog-1f3e6698.md) |
 | `github_search_space_maps-7a6e7a836647bb` | FreeRDP/Remmina | [open](records/space-maps-freerdp-remmina-5536d2a1.md) |
 | `github_search_space_maps-7c0d0c7a3f63d1` | nyx-space/nyx | [open](records/space-maps-nyx-space-nyx-2403bcdd.md) |
+| `github_search_space_maps-7cdf9f721aedff` | aduboisforge/Bright-Star-Catalog-JSON | [open](records/space-maps-aduboisforge-bright-star-catalog-json-56a2faf5.md) |
 | `github_search_space_maps-7dd6bb5df0166e` | mawinkler/astroweather | [open](records/space-maps-mawinkler-astroweather-c9e5dc5a.md) |
 | `github_search_space_maps-7e2d28c47a6927` | NeuroFan/Algorithmic-SAR-ADC-simulation-files | [open](records/space-maps-neurofan-algorithmic-sar-adc-simulation-files-e65efc0f.md) |
+| `github_search_space_maps-7eefd31826d96c` | samibajwaisking/Nvidia-Agent-Core | [open](records/space-maps-samibajwaisking-nvidia-agent-core-b95a3c34.md) |
 | `github_search_space_maps-7f6456edd3a478` | dfm/celerite | [open](records/space-maps-dfm-celerite-b3cf4ae5.md) |
 | `github_search_space_maps-7fc0f0b04744c3` | makalin/skypin | [open](records/space-maps-makalin-skypin-ecae670c.md) |
+| `github_search_space_maps-801f1b0d9d0656` | slhale/kapao-wds | [open](records/space-maps-slhale-kapao-wds-df392391.md) |
 | `github_search_space_maps-804111e92c52ba` | lightkurve/lightkurve | [open](records/space-maps-lightkurve-lightkurve-8d706bd0.md) |
 | `github_search_space_maps-81b4b5acb567c2` | jsimonetti/go-spice | [open](records/space-maps-jsimonetti-go-spice-e37ca038.md) |
+| `github_search_space_maps-81bb51a281b2e6` | sot/proseco | [open](records/space-maps-sot-proseco-d0a6cdc6.md) |
 | `github_search_space_maps-81cf7418ae3bf1` | yymao/adstex | [open](records/space-maps-yymao-adstex-f9d15ffa.md) |
 | `github_search_space_maps-828b45623aab54` | sgherbst/sky130-hello-world | [open](records/space-maps-sgherbst-sky130-hello-world-b3b77dc9.md) |
 | `github_search_space_maps-82c96e2a3a2ce8` | omarreis/vsop2013 | [open](records/space-maps-omarreis-vsop2013-bf6eea6b.md) |
+| `github_search_space_maps-8632eea7b43b8a` | Biendeo/SingStar-PS2-Catalog | [open](records/space-maps-biendeo-singstar-ps2-catalog-384fffb1.md) |
+| `github_search_space_maps-87555dc262d3ca` | DJBen/StarryNight | [open](records/space-maps-djben-starrynight-1234566b.md) |
 | `github_search_space_maps-87a01a6de92105` | vedika-io/xalen-ephemeris | [open](records/space-maps-vedika-io-xalen-ephemeris-eb150185.md) |
 | `github_search_space_maps-882b543e2dd3b5` | jasonsturges/lunarphase-js | [open](records/space-maps-jasonsturges-lunarphase-js-e8551ded.md) |
+| `github_search_space_maps-897b51f37798a3` | On1ari/starwars-catalog | [open](records/space-maps-on1ari-starwars-catalog-cb6bee5c.md) |
 | `github_search_space_maps-89a9def2ad10d3` | maruf009sultan/Horizon-API-Explorer | [open](records/space-maps-maruf009sultan-horizon-api-explorer-9c7a9ea7.md) |
 | `github_search_space_maps-8a20c2cee3c86a` | jrenaud90/TidalPy | [open](records/space-maps-jrenaud90-tidalpy-0ffb4285.md) |
 | `github_search_space_maps-8a6bb5a4227cbc` | daynix/qxl-wddm-dod | [open](records/space-maps-daynix-qxl-wddm-dod-4c577c77.md) |
+| `github_search_space_maps-8b06b65523cf13` | RobertoIA/Hertzsprung-Russell | [open](records/space-maps-robertoia-hertzsprung-russell-f83d3e79.md) |
 | `github_search_space_maps-8b4e111d3c7d8a` | Aldenhovel/bleu-rouge-meteor-cider-spice-eval4imagecaption | [open](records/space-maps-aldenhovel-bleu-rouge-meteor-cider-spice-eval4imagecaption-a9840e82.md) |
 | `github_search_space_maps-8d22333c7bbd53` | amusecode/amuse | [open](records/space-maps-amusecode-amuse-93ebdbaf.md) |
+| `github_search_space_maps-8d7fd5d826cfe2` | AbdSalehh/Restaurant-Catalogue | [open](records/space-maps-abdsalehh-restaurant-catalogue-bad8a0b6.md) |
 | `github_search_space_maps-8da5028b1b74bb` | quickemu-project/quickgui | [open](records/space-maps-quickemu-project-quickgui-2716fce1.md) |
 | `github_search_space_maps-8e6b067d263e14` | AndrewAnnex/SpiceyPy | [open](records/space-maps-andrewannex-spiceypy-a29f5459.md) |
 | `github_search_space_maps-8e7a03630fd553` | onekiloparsec/SwiftAA | [open](records/space-maps-onekiloparsec-swiftaa-c029890e.md) |
 | `github_search_space_maps-8ef5441f0bfcd6` | tmarhguy/alu | [open](records/space-maps-tmarhguy-alu-f4e33402.md) |
+| `github_search_space_maps-906aa80ae324ad` | hst12/Starfield-Creations-Mod-Manager-and-Catalog-Fixer | [open](records/space-maps-hst12-starfield-creations-mod-manager-and-catalog-fixer-9348012f.md) |
 | `github_search_space_maps-90950c1a55e193` | quatrope/astroalign | [open](records/space-maps-quatrope-astroalign-f4b1a188.md) |
 | `github_search_space_maps-913ae293e4a75b` | nathan-osman/go-sunrise | [open](records/space-maps-nathan-osman-go-sunrise-8394ff76.md) |
+| `github_search_space_maps-9175475cfec517` | contao-catalog/fieldtype_ajaxrating | [open](records/space-maps-contao-catalog-fieldtype-ajaxrating-d07acc6a.md) |
 | `github_search_space_maps-91b5136c7f13ad` | drifter1/circuitsim | [open](records/space-maps-drifter1-circuitsim-ffe82388.md) |
 | `github_search_space_maps-91b6fde95c3928` | ACADLab/SPICEPilot | [open](records/space-maps-acadlab-spicepilot-26ac7adc.md) |
 | `github_search_space_maps-95218ffd3bc751` | lethalbit/kicad-pdk-libs | [open](records/space-maps-lethalbit-kicad-pdk-libs-9dc269af.md) |
+| `github_search_space_maps-9586024e29b6af` | markyip/RAWviewer | [open](records/space-maps-markyip-rawviewer-74c8b933.md) |
 | `github_search_space_maps-969e0122d316b0` | peaclab/PACT | [open](records/space-maps-peaclab-pact-b52cc5c7.md) |
+| `github_search_space_maps-970f08d50f458c` | frontecs/starcatalog | [open](records/space-maps-frontecs-starcatalog-74052b3a.md) |
 | `github_search_space_maps-9872578e512d6d` | google/skywater-pdk-sky130-raw-data | [open](records/space-maps-google-skywater-pdk-sky130-raw-data-3d29ba51.md) |
+| `github_search_space_maps-9939670e3a399b` | MoTahaAboHeiba/E-Commerce-Lakehouse-Using-Databricks | [open](records/space-maps-motahaaboheiba-e-commerce-lakehouse-using-databricks-dd224fa3.md) |
+| `github_search_space_maps-9a1acddd678a4b` | Azure-Samples/data-catalog-dotnet-get-started | [open](records/space-maps-azure-samples-data-catalog-dotnet-get-started-511df8fa.md) |
+| `github_search_space_maps-9a5bdef8532fc5` | sametcn99/my-stars-atlas | [open](records/space-maps-sametcn99-my-stars-atlas-26dfd7e9.md) |
 | `github_search_space_maps-9be85d58ef9810` | dr-mod/little-sun-gazer | [open](records/space-maps-dr-mod-little-sun-gazer-6a68ed5e.md) |
 | `github_search_space_maps-9c0f707e3d8d84` | aaronwmorris/indi-allsky | [open](records/space-maps-aaronwmorris-indi-allsky-b7f86b59.md) |
 | `github_search_space_maps-9ca96fcf502161` | Etxx321/StarDoctor | [open](records/space-maps-etxx321-stardoctor-155ae108.md) |
+| `github_search_space_maps-9da6c172078ba0` | henrysky/stellarium_star_catalogs | [open](records/space-maps-henrysky-stellarium-star-catalogs-85cad6d9.md) |
 | `github_search_space_maps-9ec3f4dfdf2354` | opensourcevdi/osvdi | [open](records/space-maps-opensourcevdi-osvdi-1f0aad73.md) |
 | `github_search_space_maps-9f7eb09c60d6d7` | ut-astria/orbdetpy | [open](records/space-maps-ut-astria-orbdetpy-25bb3549.md) |
 | `github_search_space_maps-a06efe366daa03` | kicad-spice-library/KiCad-Spice-Library | [open](records/space-maps-kicad-spice-library-kicad-spice-library-c131200a.md) |
+| `github_search_space_maps-a16ddd432b2b3b` | JessePepple/Azure-Databricks-End-to-End-DataEngineering-Project-With-Azure-Devops | [open](records/space-maps-jessepepple-azure-databricks-end-to-end-dataengineering-project-with-azure-devops-7ee3bd07.md) |
+| `github_search_space_maps-a1e523a91a0ccd` | frostoven/BSC5P-JSON-XYZ | [open](records/space-maps-frostoven-bsc5p-json-xyz-d3ca9508.md) |
 | `github_search_space_maps-a243fa6c052d90` | astropy/astropy | [open](records/space-maps-astropy-astropy-ff2da165.md) |
 | `github_search_space_maps-a2aa4c9d659fb9` | NeelPatra/Micro-Cap-12-Archive | [open](records/space-maps-neelpatra-micro-cap-12-archive-cb3664f9.md) |
 | `github_search_space_maps-a34f3d99f62235` | rhovector/Cadence_Virtuoso_180nm_Projects | [open](records/space-maps-rhovector-cadence-virtuoso-180nm-projects-042f0fa7.md) |
@@ -9150,28 +9236,38 @@
 | `github_search_space_maps-a4ad68d0782beb` | gwastro/pycbc | [open](records/space-maps-gwastro-pycbc-e9254372.md) |
 | `github_search_space_maps-a5567659272542` | casaluca/SkyMapper | [open](records/space-maps-casaluca-skymapper-9ba430d3.md) |
 | `github_search_space_maps-a5da363b1e88fb` | nunobrum/PyLTSpice | [open](records/space-maps-nunobrum-pyltspice-f892529e.md) |
+| `github_search_space_maps-a7d6e7890b697f` | javitocor/Star-Wars-Catalogue | [open](records/space-maps-javitocor-star-wars-catalogue-675e1c1f.md) |
 | `github_search_space_maps-a909fc2b0f0503` | JamesDavid/Overhead | [open](records/space-maps-jamesdavid-overhead-e7ed8b99.md) |
 | `github_search_space_maps-a9d22f771e1946` | exoplanet-dev/exoplanet | [open](records/space-maps-exoplanet-dev-exoplanet-7ee411d6.md) |
 | `github_search_space_maps-ac78475ce688c1` | Xyce/Xyce | [open](records/space-maps-xyce-xyce-c2cc2219.md) |
 | `github_search_space_maps-ad45603308e207` | alfy7/LTspice-Basics | [open](records/space-maps-alfy7-ltspice-basics-eb1c9dba.md) |
+| `github_search_space_maps-b1275e70b20aa9` | uiucsn/ztf-dr-vars | [open](records/space-maps-uiucsn-ztf-dr-vars-c3c36c56.md) |
 | `github_search_space_maps-b1374f825fe29d` | eleanorlutz/western_constellations_atlas_of_space | [open](records/space-maps-eleanorlutz-western-constellations-atlas-of-space-e52af9c6.md) |
 | `github_search_space_maps-b1462c6527bf8c` | yt-project/yt | [open](records/space-maps-yt-project-yt-526e1be7.md) |
 | `github_search_space_maps-b28efc0d824815` | astrorigin/pyswisseph | [open](records/space-maps-astrorigin-pyswisseph-af6f961a.md) |
 | `github_search_space_maps-b30ea69b344cca` | jobovy/galpy | [open](records/space-maps-jobovy-galpy-3ddf61a7.md) |
 | `github_search_space_maps-b347f5445ee4cb` | nkovacne/ovirt-desktop-client | [open](records/space-maps-nkovacne-ovirt-desktop-client-a0cb4753.md) |
+| `github_search_space_maps-b3d2fdc249c0a0` | leenkcool/Blue-Whale-Harness | [open](records/space-maps-leenkcool-blue-whale-harness-c45019bb.md) |
 | `github_search_space_maps-b42ed92445633d` | JuliaSpaceMissionDesign/Ephemerides.jl | [open](records/space-maps-juliaspacemissiondesign-ephemerides-jl-b8ea4e8a.md) |
+| `github_search_space_maps-b4b34bf7cf0aef` | D-plus/Star-Wars | [open](records/space-maps-d-plus-star-wars-84016317.md) |
 | `github_search_space_maps-b4fddd6e91b11d` | quickemu-project/quickemu | [open](records/space-maps-quickemu-project-quickemu-e4a188e4.md) |
 | `github_search_space_maps-b51740116e1585` | smmariquit/atlas-of-my-skies | [open](records/space-maps-smmariquit-atlas-of-my-skies-ee81d2fb.md) |
+| `github_search_space_maps-b60548703bbb51` | zhang2023-byte/stella-hvs | [open](records/space-maps-zhang2023-byte-stella-hvs-abf9c894.md) |
 | `github_search_space_maps-b6350ac3d79e0e` | commenthol/astronomia | [open](records/space-maps-commenthol-astronomia-226c6abd.md) |
 | `github_search_space_maps-b64c05c8137643` | dixieflatline76/Spice | [open](records/space-maps-dixieflatline76-spice-800b944f.md) |
 | `github_search_space_maps-b67ed01389aefb` | rafael1193/spicegui | [open](records/space-maps-rafael1193-spicegui-948a87ae.md) |
 | `github_search_space_maps-b6990ac40eb6b9` | Jesssullivan/darkmap.phasi.space | [open](records/space-maps-jesssullivan-darkmap-phasi-space-f1e6fa55.md) |
 | `github_search_space_maps-b7e23adb93830f` | andriy-bilynskyy/sdr-trx | [open](records/space-maps-andriy-bilynskyy-sdr-trx-7f2f1a01.md) |
+| `github_search_space_maps-b9989a9e5f3cb5` | thetnaungwin/NewStarEcommerce | [open](records/space-maps-thetnaungwin-newstarecommerce-4b2c4f06.md) |
+| `github_search_space_maps-ba3dbce92fef76` | MohirM/game-catalog-starter | [open](records/space-maps-mohirm-game-catalog-starter-90f2ab48.md) |
 | `github_search_space_maps-bbdb3b8a99876e` | gameswhit/lumen-astronomy-app | [open](records/space-maps-gameswhit-lumen-astronomy-app-47307371.md) |
+| `github_search_space_maps-bc3dc95c76ffd0` | atthecodeface/star-catalog-rs | [open](records/space-maps-atthecodeface-star-catalog-rs-baf5fe7c.md) |
 | `github_search_space_maps-bcd1f6a26236bb` | bgmeulem/luminet | [open](records/space-maps-bgmeulem-luminet-66cad96d.md) |
 | `github_search_space_maps-bce197a19de88a` | matthewholman/assist | [open](records/space-maps-matthewholman-assist-a129a17a.md) |
 | `github_search_space_maps-bd789ebfd41e02` | dEskoG/rDUINOScope | [open](records/space-maps-deskog-rduinoscope-01775dc3.md) |
+| `github_search_space_maps-bd9f3f314ff5f1` | rdellamonica/S2-gr-mock-catalogue | [open](records/space-maps-rdellamonica-s2-gr-mock-catalogue-0bf2a0fc.md) |
 | `github_search_space_maps-bdeaf8f4ebcc74` | arturania/cspice | [open](records/space-maps-arturania-cspice-0baa86fe.md) |
+| `github_search_space_maps-bf488de5bf7cb3` | TavaresLuc/star-wars-vehicle-catalog | [open](records/space-maps-tavaresluc-star-wars-vehicle-catalog-e8cf98d0.md) |
 | `github_search_space_maps-bf6941db1f86d7` | Starainrt/astro | [open](records/space-maps-starainrt-astro-d0ab8502.md) |
 | `github_search_space_maps-c074878c691e4a` | wezelball/radio_planner | [open](records/space-maps-wezelball-radio-planner-1fc993cc.md) |
 | `github_search_space_maps-c1c970ea04d5a4` | taylorcoffelt/macos-docker | [open](records/space-maps-taylorcoffelt-macos-docker-a9af7764.md) |
@@ -9182,15 +9278,18 @@
 | `github_search_space_maps-c3bc606057f639` | ivoyager/planetarium | [open](records/space-maps-ivoyager-planetarium-cd8798de.md) |
 | `github_search_space_maps-c8f30933e833bf` | jeff-regier/Celeste.jl | [open](records/space-maps-jeff-regier-celeste-jl-2c4a4fe5.md) |
 | `github_search_space_maps-c9ce700e543a1e` | bufferedName/ZSpice | [open](records/space-maps-bufferedname-zspice-ef3fa10d.md) |
+| `github_search_space_maps-cb2437940da0ea` | dj-ryan/sat-sight-view | [open](records/space-maps-dj-ryan-sat-sight-view-115ba8db.md) |
 | `github_search_space_maps-cb49d427d5d9d3` | AndrewAnnex/asap_stereo | [open](records/space-maps-andrewannex-asap-stereo-37cce249.md) |
 | `github_search_space_maps-cc3f0f2c28b439` | google/skywater-pdk-libs-sky130_fd_pr | [open](records/space-maps-google-skywater-pdk-libs-sky130-fd-pr-63b6c072.md) |
 | `github_search_space_maps-cd423828a70944` | adxorg/astrodynx | [open](records/space-maps-adxorg-astrodynx-cf2b2504.md) |
+| `github_search_space_maps-cd6f5a9883344d` | felpfsf/star-wars-catalog | [open](records/space-maps-felpfsf-star-wars-catalog-970b5446.md) |
 | `github_search_space_maps-cdb117c6cfd300` | ChristopherRabotin/smd | [open](records/space-maps-christopherrabotin-smd-c6b850c6.md) |
 | `github_search_space_maps-ce7f91a14659b8` | electerm/electerm | [open](records/space-maps-electerm-electerm-8c5dc479.md) |
 | `github_search_space_maps-ce8c447362bbcc` | eelab-dev/EEcircuit | [open](records/space-maps-eelab-dev-eecircuit-3d239729.md) |
 | `github_search_space_maps-cfbada2b175e34` | escape2020/school2021 | [open](records/space-maps-escape2020-school2021-422cd7b7.md) |
 | `github_search_space_maps-cff7abe306fe47` | wangleihitcs/CaptionMetrics | [open](records/space-maps-wangleihitcs-captionmetrics-bfbcb149.md) |
 | `github_search_space_maps-d00cc3ffc010ac` | vaibhaviagnihotri2006-gif/SkyCast-Weather-App | [open](records/space-maps-vaibhaviagnihotri2006-gif-skycast-weather-app-2e163095.md) |
+| `github_search_space_maps-d02407a732416f` | johanley/star-catalog | [open](records/space-maps-johanley-star-catalog-4d6586fe.md) |
 | `github_search_space_maps-d0af9aab995115` | jagi/meteor-astronomy | [open](records/space-maps-jagi-meteor-astronomy-04405382.md) |
 | `github_search_space_maps-d1c4e7da31cdfa` | gmagno/spyci | [open](records/space-maps-gmagno-spyci-9ac918aa.md) |
 | `github_search_space_maps-d2fdca3251c808` | kitanokitsune/gEDA-WIN | [open](records/space-maps-kitanokitsune-geda-win-cc03a86d.md) |
@@ -9198,6 +9297,8 @@
 | `github_search_space_maps-d407db77877fc5` | jens-maus/thinRoot | [open](records/space-maps-jens-maus-thinroot-b9a7b737.md) |
 | `github_search_space_maps-d4e21c335d4886` | thisrares/astronomy-tools | [open](records/space-maps-thisrares-astronomy-tools-b3f511cc.md) |
 | `github_search_space_maps-d56d4434b7a9f6` | AstroAure/Astronomy-observations | [open](records/space-maps-astroaure-astronomy-observations-cc742c6e.md) |
+| `github_search_space_maps-d7e86236ffb32a` | johnpolacek/styled-starter | [open](records/space-maps-johnpolacek-styled-starter-213f2daf.md) |
+| `github_search_space_maps-d83af78bc4002d` | steveberardi/starplot-constellations | [open](records/space-maps-steveberardi-starplot-constellations-b5258e60.md) |
 | `github_search_space_maps-d8990c0e780dd3` | Askaniy/TrueColorTools | [open](records/space-maps-askaniy-truecolortools-aff640a8.md) |
 | `github_search_space_maps-d8d7ea1f9050cb` | dr-guangtou/taotie | [open](records/space-maps-dr-guangtou-taotie-e886229e.md) |
 | `github_search_space_maps-d97b0a1d26d1f6` | Corsinvest/cv4pve-vdi | [open](records/space-maps-corsinvest-cv4pve-vdi-bc170682.md) |
@@ -9206,6 +9307,7 @@
 | `github_search_space_maps-dce3320f350568` | StingraySoftware/stingray | [open](records/space-maps-stingraysoftware-stingray-96dfde34.md) |
 | `github_search_space_maps-dd3ce75712e45f` | Starlink/starlink | [open](records/space-maps-starlink-starlink-7f05c3ed.md) |
 | `github_search_space_maps-de376a3a1136b3` | indigo-astronomy/indigo | [open](records/space-maps-indigo-astronomy-indigo-65164658.md) |
+| `github_search_space_maps-de9b4a94c27dac` | athob/py-ananke | [open](records/space-maps-athob-py-ananke-ac3b22bc.md) |
 | `github_search_space_maps-df68eb34fdde39` | SpiceSharp/SpiceSharp | [open](records/space-maps-spicesharp-spicesharp-a2392e92.md) |
 | `github_search_space_maps-e0538092411ee1` | clanker-lover/spicebridge | [open](records/space-maps-clanker-lover-spicebridge-3afc4a84.md) |
 | `github_search_space_maps-e0d8772dde4341` | hyqzz/Solar-Wanderer | [open](records/space-maps-hyqzz-solar-wanderer-0da77410.md) |
@@ -9219,28 +9321,42 @@
 | `github_search_space_maps-e58d13224fbfb4` | MESAHub/mesa | [open](records/space-maps-mesahub-mesa-0abd6bf7.md) |
 | `github_search_space_maps-e5b58e00d6353a` | NAKULMAK05/AstroBuddy | [open](records/space-maps-nakulmak05-astrobuddy-393a853b.md) |
 | `github_search_space_maps-e6e26c8990ce6e` | ncas-tum/heracles | [open](records/space-maps-ncas-tum-heracles-e2511d32.md) |
+| `github_search_space_maps-e719f33d37548c` | Carbon-Arc/metabase-starrocks-driver | [open](records/space-maps-carbon-arc-metabase-starrocks-driver-a0963ed4.md) |
+| `github_search_space_maps-e79bf223aaabee` | SamWeise/SatelliteSim | [open](records/space-maps-samweise-satellitesim-37429206.md) |
+| `github_search_space_maps-e8df95369f659a` | stellayazilim/mcp-starlight | [open](records/space-maps-stellayazilim-mcp-starlight-b273f1fa.md) |
 | `github_search_space_maps-ea07bc13a05359` | trehn/termtrack | [open](records/space-maps-trehn-termtrack-47c1cdd9.md) |
 | `github_search_space_maps-ea9ec30848ffc3` | Xyce/XDM | [open](records/space-maps-xyce-xdm-4fd824bb.md) |
 | `github_search_space_maps-ec508ea8a69432` | poliastro/poliastro | [open](records/space-maps-poliastro-poliastro-d7649ab9.md) |
+| `github_search_space_maps-eca84123ab1d03` | gergely-sajo/star-wars-catalog | [open](records/space-maps-gergely-sajo-star-wars-catalog-6f047b2e.md) |
 | `github_search_space_maps-ed765f93a846f0` | dcf21/star-charter | [open](records/space-maps-dcf21-star-charter-7d97d4d4.md) |
+| `github_search_space_maps-ede8ad4c559dae` | yayasaikou1/StarCatalogue | [open](records/space-maps-yayasaikou1-starcatalogue-6c356413.md) |
+| `github_search_space_maps-ee1cc24baaa9a3` | jonathansick/starplex | [open](records/space-maps-jonathansick-starplex-44c11af0.md) |
+| `github_search_space_maps-ee6638c9a4016e` | olganedelcu/catalog-star-wars | [open](records/space-maps-olganedelcu-catalog-star-wars-614cc377.md) |
+| `github_search_space_maps-eed489aaf8694c` | Spooffit/star_wars | [open](records/space-maps-spooffit-star-wars-0cdbb857.md) |
+| `github_search_space_maps-eeec4b6e69757a` | MARS02isfromMARS/Star-Catalogue- | [open](records/space-maps-mars02isfrommars-star-catalogue-397158fb.md) |
 | `github_search_space_maps-efca0d9f850110` | eleanorlutz/mars_geology_atlas_of_space | [open](records/space-maps-eleanorlutz-mars-geology-atlas-of-space-a4013c70.md) |
 | `github_search_space_maps-efcfe1fbb71082` | MuMashhour/NE555-SPICE-Model | [open](records/space-maps-mumashhour-ne555-spice-model-b48aca64.md) |
 | `github_search_space_maps-eff4fb30cc9512` | Yu-Yang-Li/StarWhisper | [open](records/space-maps-yu-yang-li-starwhisper-90b14985.md) |
+| `github_search_space_maps-f2062c47f9da46` | proxygo/catalogo-de-filmes-star-wars | [open](records/space-maps-proxygo-catalogo-de-filmes-star-wars-8eefd151.md) |
 | `github_search_space_maps-f25865cbfc63f1` | zonia3000/SkySphere | [open](records/space-maps-zonia3000-skysphere-8ac54af6.md) |
 | `github_search_space_maps-f39da7823d125f` | tbonnardel/rigel | [open](records/space-maps-tbonnardel-rigel-9d53d779.md) |
 | `github_search_space_maps-f4d30cc87e4de9` | ahkab/ahkab | [open](records/space-maps-ahkab-ahkab-bcc3f39f.md) |
 | `github_search_space_maps-f561fde9178aa3` | polatory/polatory | [open](records/space-maps-polatory-polatory-c8cfead9.md) |
 | `github_search_space_maps-f69bece3bf26e5` | astropy/photutils | [open](records/space-maps-astropy-photutils-f03aef0e.md) |
 | `github_search_space_maps-f73d9929cc6581` | timotejroiko/sweph | [open](records/space-maps-timotejroiko-sweph-3c4d7684.md) |
+| `github_search_space_maps-f7621d80bd5f5c` | liulei/gaia_ship | [open](records/space-maps-liulei-gaia-ship-4d910ed2.md) |
 | `github_search_space_maps-f9a420dab4fa9f` | ortk95/planetmapper | [open](records/space-maps-ortk95-planetmapper-82aea8d2.md) |
 | `github_search_space_maps-f9fe7b70a5bcef` | ppp-one/astra | [open](records/space-maps-ppp-one-astra-9c6eaad7.md) |
 | `github_search_space_maps-faaa53a407e232` | nasa-gcn/gcn.nasa.gov | [open](records/space-maps-nasa-gcn-gcn-nasa-gov-9c9cadae.md) |
+| `github_search_space_maps-fab3703b3cc08f` | Jhoosier79/EGS-Star-Catalogue-exporter | [open](records/space-maps-jhoosier79-egs-star-catalogue-exporter-b00803d1.md) |
+| `github_search_space_maps-fba6748c2496b3` | parthmax2/genai-starter-pack | [open](records/space-maps-parthmax2-genai-starter-pack-2912dc43.md) |
 | `github_search_space_maps-fc6109ab059e9c` | Fourmilab/YourSky | [open](records/space-maps-fourmilab-yoursky-1dc9c1d2.md) |
 | `github_search_space_maps-fd6a63c1384412` | a7bdev/falak | [open](records/space-maps-a7bdev-falak-0cc64905.md) |
 | `github_search_space_maps-fde8c2da20e08b` | f18m/netlist-viewer | [open](records/space-maps-f18m-netlist-viewer-746fce4d.md) |
 | `github_search_space_maps-fe236e914ba1b9` | leoheck/sublime-spice | [open](records/space-maps-leoheck-sublime-spice-f7ab45e4.md) |
 | `github_search_space_maps-ff1b43b1c16cd9` | bluescarni/piranha | [open](records/space-maps-bluescarni-piranha-7164b429.md) |
 | `github_search_space_maps-ff4340a14afbcc` | CelestiaProject/Celestia | [open](records/space-maps-celestiaproject-celestia-77ed9958.md) |
+| `github_search_space_maps-ff909e424b1eee` | brettonw/YaleBrightStarCatalog | [open](records/space-maps-brettonw-yalebrightstarcatalog-67a240ba.md) |
 | `github_search_space_shuttles-06d883544c511a` | syalejandrino/Sattelite-Shooting-Simulation-Game | [open](records/space-shuttles-syalejandrino-sattelite-shooting-simulation-game-4cf52498.md) |
 | `github_search_space_shuttles-0a85642df8448c` | trodlop/space-shuttle-launch-simulation | [open](records/space-shuttles-trodlop-space-shuttle-launch-simulation-6524d698.md) |
 | `github_search_space_shuttles-0da2eeb35308db` | MatiasSaibene/Antonov_An225_for_Orbiter | [open](records/space-shuttles-matiassaibene-antonov-an225-for-orbiter-30f8b7da.md) |
@@ -9870,6 +9986,7 @@
 | `github_search_video-555b7e6c342449` | Doikki/DKVideoPlayer | [open](records/video-doikki-dkvideoplayer-613e3cc6.md) |
 | `github_search_video-564acf6ede9fef` | datarhei/restreamer | [open](records/video-datarhei-restreamer-ebfeeaad.md) |
 | `github_search_video-578862dff70915` | MartinDelophy/ai-video-editor | [open](records/video-martindelophy-ai-video-editor-7a392cf1.md) |
+| `github_search_video-5852592409f970` | ChunmingHe/awesome-diffusion-models-in-low-level-vision | [open](records/video-chunminghe-awesome-diffusion-models-in-low-level-vision-08bebf93.md) |
 | `github_search_video-589d52feaf6625` | coursera-dl/coursera-dl | [open](records/video-coursera-dl-coursera-dl-b7282acf.md) |
 | `github_search_video-59adc3a6aab01e` | FreeTubeApp/FreeTube | [open](records/video-freetubeapp-freetube-f7bd248f.md) |
 | `github_search_video-5a47d7eab4216c` | codeforreal1/compressO | [open](records/video-codeforreal1-compresso-1c95379f.md) |
@@ -9929,6 +10046,7 @@
 | `github_search_video-a571b6d38d2c3e` | Hunlongyu/ZY-Player | [open](records/video-hunlongyu-zy-player-c74fadea.md) |
 | `github_search_video-a655d92c8e460f` | umlx5h/LLPlayer | [open](records/video-umlx5h-llplayer-e3659d7e.md) |
 | `github_search_video-a69f506819734c` | leandromoreira/digital_video_introduction | [open](records/video-leandromoreira-digital-video-introduction-2ec5ca3b.md) |
+| `github_search_video-a7ef67afb8ba99` | linzzzzzz/openclip | [open](records/video-linzzzzzz-openclip-e0a60aa0.md) |
 | `github_search_video-a9d248239e7de9` | haasn/libplacebo | [open](records/video-haasn-libplacebo-801cca80.md) |
 | `github_search_video-ad389f8fecd211` | alyssaxuu/screenity | [open](records/video-alyssaxuu-screenity-950c051f.md) |
 | `github_search_video-ad6ed71e1edc43` | TEN-framework/ten-framework | [open](records/video-ten-framework-ten-framework-1dad98e0.md) |
@@ -9940,6 +10058,7 @@
 | `github_search_video-b7be4388ede6f7` | insidegui/WWDC | [open](records/video-insidegui-wwdc-29ce13c6.md) |
 | `github_search_video-bb04540dc1e454` | mafiosnik777/enhancr | [open](records/video-mafiosnik777-enhancr-3d2ed149.md) |
 | `github_search_video-bc50d1c955da20` | mahmoud/awesome-python-applications | [open](records/video-mahmoud-awesome-python-applications-e09dad04.md) |
+| `github_search_video-bc8e5c405ad2a3` | jashandeep-sohi/webcam-filters | [open](records/video-jashandeep-sohi-webcam-filters-113e77a3.md) |
 | `github_search_video-bea6f5c1c5bec8` | miru-project/miru-app | [open](records/video-miru-project-miru-app-f4628505.md) |
 | `github_search_video-c3db280f6818c3` | 4gray/iptvnator | [open](records/video-4gray-iptvnator-5303edee.md) |
 | `github_search_video-c6956849628e43` | bennyhuo/Kotlin-Tutorials | [open](records/video-bennyhuo-kotlin-tutorials-d23521e7.md) |
@@ -9970,6 +10089,7 @@
 | `github_search_video-e86296f6e19bec` | mediacms-io/mediacms | [open](records/video-mediacms-io-mediacms-1d97b718.md) |
 | `github_search_video-e8cdd45d96e54e` | vvo/gifify | [open](records/video-vvo-gifify-9d97ccc2.md) |
 | `github_search_video-e929faead0bd87` | MasayukiSuda/GPUVideo-android | [open](records/video-masayukisuda-gpuvideo-android-ac773872.md) |
+| `github_search_video-ea1d92a7a67e13` | ClipsAI/clipsai | [open](records/video-clipsai-clipsai-bbfd305f.md) |
 | `github_search_video-eaf0335acfc2d5` | Djdefrag/QualityScaler | [open](records/video-djdefrag-qualityscaler-57d43b25.md) |
 | `github_search_video-eb6b793b8eefbf` | jinwchoi/awesome-action-recognition | [open](records/video-jinwchoi-awesome-action-recognition-59e99e67.md) |
 | `github_search_video-ec8a8560edcde3` | tejaswigowda/ffmpeg-webCLI | [open](records/video-tejaswigowda-ffmpeg-webcli-fe1492d5.md) |
@@ -11329,6 +11449,7 @@
 | `hackage_recent-35beadab7001d5` | what4-domains | [open](records/haskell-what4-domains-20a280a8.md) |
 | `hackage_recent-4a3a499751bc30` | crackNum | [open](records/haskell-cracknum-25e818dd.md) |
 | `hackage_recent-560e75fc58d6d8` | vcs-ignore | [open](records/haskell-vcs-ignore-b594cffb.md) |
+| `hackage_recent-5c6c989abcb5c8` | typed-peg | [open](records/haskell-typed-peg-d0f69182.md) |
 | `hackage_recent-62497183bd454a` | HMock | [open](records/haskell-hmock-98549601.md) |
 | `hackage_recent-6a3519652d8827` | kioku-api | [open](records/haskell-kioku-api-ebf3c8b4.md) |
 | `hackage_recent-6f6d58eea7fc96` | hOpenPGP | [open](records/haskell-hopenpgp-dbd93565.md) |
@@ -17828,6 +17949,7 @@
 | `npm_registry-5149e49548d6b4` | @salesforce/sfdx-scanner | [open](records/node-js-javascript-salesforce-sfdx-scanner-e437f623.md) |
 | `npm_registry-51a9f8d612e991` | superagent | [open](records/node-js-javascript-superagent-8c008c3e.md) |
 | `npm_registry-51d7274ba8b077` | csp-helper | [open](records/node-js-javascript-csp-helper-087a2f74.md) |
+| `npm_registry-51d730805c8e46` | server-dom-shim | [open](records/node-js-javascript-server-dom-shim-2f11a18e.md) |
 | `npm_registry-5215391477b6d1` | @contract-case/case-core-plugin-http | [open](records/node-js-javascript-contract-case-case-core-plugin-http-679f1bfb.md) |
 | `npm_registry-521e1942cb729e` | @doyensec/electronegativity | [open](records/node-js-javascript-doyensec-electronegativity-1aca1d84.md) |
 | `npm_registry-5227595538bcaa` | lil-http-terminator | [open](records/node-js-javascript-lil-http-terminator-780fad67.md) |
@@ -19180,6 +19302,7 @@
 | `npm_registry-d62eadef0a4d8a` | @betomorrow/logging-core | [open](records/node-js-javascript-betomorrow-logging-core-82fb4415.md) |
 | `npm_registry-d63b41c1f9a4eb` | @ez4/database | [open](records/node-js-javascript-ez4-database-a64d6baa.md) |
 | `npm_registry-d66b9478e4c140` | vega-logging | [open](records/node-js-javascript-vega-logging-9b4cb741.md) |
+| `npm_registry-d683918a80daad` | domino | [open](records/node-js-javascript-domino-631ec950.md) |
 | `npm_registry-d691c6e605a9fe` | cli-cursor | [open](records/node-js-javascript-cli-cursor-05d44734.md) |
 | `npm_registry-d6d281af86d8ce` | @eslint/config-helpers | [open](records/node-js-javascript-eslint-config-helpers-4e1a9d5a.md) |
 | `npm_registry-d708e001dd641e` | @standardnotes/security | [open](records/node-js-javascript-standardnotes-security-25261d32.md) |

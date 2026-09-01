@@ -1,6 +1,6 @@
 # Video
 
-Records: `179`
+Records: `183`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `179`
 
 ## Category Index
 
-[Api Abi Checker (176)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (41)](../by-category/assertion-mocking.md) · [Async Runtime (120)](../by-category/async-runtime.md)
-[Benchmarking (106)](../by-category/benchmarking.md) · [Build System (780)](../by-category/build-system.md) · [Cli (488)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Api Abi Checker (176)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (41)](../by-category/assertion-mocking.md) · [Async Runtime (121)](../by-category/async-runtime.md)
+[Benchmarking (106)](../by-category/benchmarking.md) · [Build System (787)](../by-category/build-system.md) · [Cli (488)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (81)](../by-category/community-reference.md) · [Compiler (157)](../by-category/compiler.md) · [Compiler Diagnostics (22)](../by-category/compiler-diagnostics.md) · [Compression (43)](../by-category/compression.md)
 [Concurrency Parallelism (70)](../by-category/concurrency-parallelism.md) · [Configuration (94)](../by-category/configuration.md) · [Container Deployment (8)](../by-category/container-deployment.md) · [Coverage (11)](../by-category/coverage.md)
-[Cryptography (153)](../by-category/cryptography.md) · [Data Science (32)](../by-category/data-science.md) · [Database Datastore (679)](../by-category/database-datastore.md) · [Datetime (147)](../by-category/datetime.md)
+[Cryptography (153)](../by-category/cryptography.md) · [Data Science (32)](../by-category/data-science.md) · [Database Datastore (681)](../by-category/database-datastore.md) · [Datetime (147)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (40)](../by-category/debugger.md) · [Dependency Manager (79)](../by-category/dependency-manager.md) · [Documentation (77)](../by-category/documentation.md)
-[Embedded Hardware (46)](../by-category/embedded-hardware.md) · [Ffi Bindings (375)](../by-category/ffi-bindings.md) · [Filesystem Os (1124)](../by-category/filesystem-os.md) · [Formatter (529)](../by-category/formatter.md)
-[Framework (45)](../by-category/framework.md) · [Fuzzer (48)](../by-category/fuzzer.md) · [Game Engine Game Dev (138)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1085)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (262)](../by-category/image-audio-dsp.md) · [Interop Bindings (52)](../by-category/interop-bindings.md) · [Interpreter Runtime (223)](../by-category/interpreter-runtime.md) · [Jit Vm (56)](../by-category/jit-vm.md)
-[Language Server (26)](../by-category/language-server.md) · [Language Specification (1216)](../by-category/language-specification.md) · [Library (4675)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (40)](../by-category/lint-rule-pack.md) · [Linter (344)](../by-category/linter.md) · [Logging Observability (325)](../by-category/logging-observability.md) · [Machine Learning (555)](../by-category/machine-learning.md)
-[Math Numeric Scientific (78)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (75)](../by-category/memory-analyzer.md) · [Message Broker (31)](../by-category/message-broker.md) · [Networking Http (891)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (248)](../by-category/package-manager.md) · [Parser Lexer Ast (885)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (253)](../by-category/precommit-ci-quality.md)
-[Profiler (66)](../by-category/profiler.md) · [Project Scaffolding (107)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (12)](../by-category/sanitizer.md)
-[Security Sast (307)](../by-category/security-sast.md) · [Serialization (362)](../by-category/serialization.md) · [Standard Library (23)](../by-category/standard-library.md) · [Static Analyzer (413)](../by-category/static-analyzer.md)
+[Embedded Hardware (46)](../by-category/embedded-hardware.md) · [Ffi Bindings (376)](../by-category/ffi-bindings.md) · [Filesystem Os (1125)](../by-category/filesystem-os.md) · [Formatter (533)](../by-category/formatter.md)
+[Framework (45)](../by-category/framework.md) · [Fuzzer (48)](../by-category/fuzzer.md) · [Game Engine Game Dev (138)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1098)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (265)](../by-category/image-audio-dsp.md) · [Interop Bindings (52)](../by-category/interop-bindings.md) · [Interpreter Runtime (223)](../by-category/interpreter-runtime.md) · [Jit Vm (56)](../by-category/jit-vm.md)
+[Language Server (26)](../by-category/language-server.md) · [Language Specification (1217)](../by-category/language-specification.md) · [Library (4679)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (40)](../by-category/lint-rule-pack.md) · [Linter (344)](../by-category/linter.md) · [Logging Observability (381)](../by-category/logging-observability.md) · [Machine Learning (555)](../by-category/machine-learning.md)
+[Math Numeric Scientific (78)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (75)](../by-category/memory-analyzer.md) · [Message Broker (31)](../by-category/message-broker.md) · [Networking Http (893)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (252)](../by-category/package-manager.md) · [Parser Lexer Ast (887)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (254)](../by-category/precommit-ci-quality.md)
+[Profiler (67)](../by-category/profiler.md) · [Project Scaffolding (116)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (12)](../by-category/sanitizer.md)
+[Security Sast (308)](../by-category/security-sast.md) · [Serialization (363)](../by-category/serialization.md) · [Standard Library (23)](../by-category/standard-library.md) · [Static Analyzer (415)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (487)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (52)](../by-category/tutorial-book-styleguide.md) · [Type Checker (282)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1344)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (91)](../by-category/utility-library.md) · [Visualization Gui (399)](../by-category/visualization-gui.md) · [Web Framework (377)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1350)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (91)](../by-category/utility-library.md) · [Visualization Gui (399)](../by-category/visualization-gui.md) · [Web Framework (378)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -33,11 +33,11 @@ Records: `179`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [HaveAGitGat/Tdarr](../records/video-haveagitgat-tdarr-91bd4936.md) | partial | 2026-08-05T07:37:45Z | registry-derived |
-| [livekit/agents](../records/video-livekit-agents-1122d840.md) | partial | 2026-09-01T18:35:24Z | registry-derived |
+| [livekit/agents](../records/video-livekit-agents-1122d840.md) | partial | 2026-09-01T20:16:53Z | registry-derived |
 | [nova-video-player/aos-AVP](../records/video-nova-video-player-aos-avp-927babe3.md) | partial | 2026-08-30T18:34:21Z | registry-derived |
 | [OlafenwaMoses/ImageAI](../records/video-olafenwamoses-imageai-614f65e4.md) | partial | 2024-08-03T09:45:20Z | registry-derived |
 | [pipeless-ai/pipeless](../records/video-pipeless-ai-pipeless-5f6c8d4f.md) | partial | 2024-05-08T10:13:19Z | registry-derived |
-| [remotion-dev/remotion](../records/video-remotion-dev-remotion-ab42498d.md) | partial | 2026-09-01T15:18:23Z | registry-derived |
+| [remotion-dev/remotion](../records/video-remotion-dev-remotion-ab42498d.md) | partial | 2026-09-01T19:59:31Z | registry-derived |
 | [TheNickOfTime/handbrake-web](../records/video-thenickoftime-handbrake-web-5a475b6c.md) | partial | 2026-03-27T02:31:22Z | registry-derived |
 | [VideoFlint/Cabbage](../records/video-videoflint-cabbage-bf78fd50.md) | partial | 2023-11-08T00:02:29Z | registry-derived |
 
@@ -74,7 +74,9 @@ Records: `179`
 | [butterproject/butter-desktop](../records/video-butterproject-butter-desktop-f80d7924.md) | partial | 2020-11-01T15:53:26Z | registry-derived |
 | [bytedance/xgplayer](../records/video-bytedance-xgplayer-9ecd2731.md) | partial | 2026-08-28T02:58:51Z | registry-derived |
 | [charmbracelet/vhs](../records/video-charmbracelet-vhs-73243bfa.md) | partial | 2026-09-01T07:25:31Z | registry-derived |
+| [ChunmingHe/awesome-diffusion-models-in-low-level-vision](../records/video-chunminghe-awesome-diffusion-models-in-low-level-vision-08bebf93.md) | partial | 2025-02-23T18:03:03Z | registry-derived |
 | [clappr/clappr](../records/video-clappr-clappr-333fe5f1.md) | partial | 2026-09-01T12:39:48Z | registry-derived |
+| [ClipsAI/clipsai](../records/video-clipsai-clipsai-bbfd305f.md) | partial | 2024-01-17T13:31:25Z | registry-derived |
 | [codeforreal1/compressO](../records/video-codeforreal1-compresso-1c95379f.md) | partial | 2026-08-17T12:39:47Z | registry-derived |
 | [coursera-dl/coursera-dl](../records/video-coursera-dl-coursera-dl-b7282acf.md) | partial | 2024-05-11T21:24:57Z | registry-derived |
 | [ctjhoa/rust-learning](../records/video-ctjhoa-rust-learning-b7cc48f4.md) | partial | 2026-05-29T08:20:56Z | registry-derived |
@@ -97,7 +99,7 @@ Records: `179`
 | [HA6Bots/TikTok-Compilation-Video-Generator](../records/video-ha6bots-tiktok-compilation-video-generator-2f38a80d.md) | partial | 2024-08-04T13:44:11Z | registry-derived |
 | [haasn/libplacebo](../records/video-haasn-libplacebo-801cca80.md) | partial | 2026-09-01T11:12:15Z | registry-derived |
 | [HeiSir2014/M3U8-Downloader](../records/video-heisir2014-m3u8-downloader-23d9af39.md) | partial | 2025-03-19T15:28:29Z | registry-derived |
-| [heygen-com/hyperframes](../records/video-heygen-com-hyperframes-39e19bfa.md) | partial | 2026-09-01T19:02:02Z | registry-derived |
+| [heygen-com/hyperframes](../records/video-heygen-com-hyperframes-39e19bfa.md) | partial | 2026-09-01T20:19:30Z | registry-derived |
 | [Hunlongyu/ZY-Player](../records/video-hunlongyu-zy-player-c74fadea.md) | partial | 2023-02-09T06:33:07Z | registry-derived |
 | [hybridgroup/gocv](../records/video-hybridgroup-gocv-daa4c904.md) | partial | 2026-05-28T08:16:03Z | registry-derived |
 | [iawia002/lux](../records/video-iawia002-lux-e7456e22.md) | partial | 2026-03-29T18:18:56Z | registry-derived |
@@ -106,13 +108,15 @@ Records: `179`
 | [insidegui/WWDC](../records/video-insidegui-wwdc-29ce13c6.md) | partial | 2026-06-17T20:11:54Z | registry-derived |
 | [intel/libva](../records/video-intel-libva-f6047e5d.md) | partial | 2026-07-31T09:06:23Z | registry-derived |
 | [ivpusic/react-native-image-crop-picker](../records/video-ivpusic-react-native-image-crop-picker-c50f1406.md) | partial | 2026-01-21T23:31:48Z | registry-derived |
+| [jashandeep-sohi/webcam-filters](../records/video-jashandeep-sohi-webcam-filters-113e77a3.md) | partial | 2023-12-25T21:41:27Z | registry-derived |
 | [jinwchoi/awesome-action-recognition](../records/video-jinwchoi-awesome-action-recognition-59e99e67.md) | partial | 2023-05-13T17:00:12Z | registry-derived |
 | [lagmoellertim/unsilence](../records/video-lagmoellertim-unsilence-d47dc940.md) | partial | 2023-03-28T04:57:13Z | registry-derived |
 | [leandromoreira/digital_video_introduction](../records/video-leandromoreira-digital-video-introduction-2ec5ca3b.md) | partial | 2026-07-25T00:29:55Z | registry-derived |
 | [leandromoreira/ffmpeg-libav-tutorial](../records/video-leandromoreira-ffmpeg-libav-tutorial-e71d8bef.md) | partial | 2026-06-18T14:18:13Z | registry-derived |
 | [letoram/arcan](../records/video-letoram-arcan-3898f949.md) | partial | 2026-07-29T00:15:26Z | registry-derived |
+| [linzzzzzz/openclip](../records/video-linzzzzzz-openclip-e0a60aa0.md) | partial | 2026-08-24T06:16:38Z | registry-derived |
 | [live-keys/livekeys](../records/video-live-keys-livekeys-78b56f29.md) | partial | 2023-11-13T16:00:01Z | registry-derived |
-| [livekit/livekit](../records/video-livekit-livekit-aee37f0f.md) | partial | 2026-09-01T19:11:18Z | registry-derived |
+| [livekit/livekit](../records/video-livekit-livekit-aee37f0f.md) | partial | 2026-09-01T20:05:26Z | registry-derived |
 | [LuckSiege/PictureSelector](../records/video-lucksiege-pictureselector-fce76f06.md) | partial | 2024-05-11T03:14:44Z | registry-derived |
 | [mafiosnik777/enhancr](../records/video-mafiosnik777-enhancr-3d2ed149.md) | partial | 2024-01-15T16:08:08Z | registry-derived |
 | [mahmoud/awesome-python-applications](../records/video-mahmoud-awesome-python-applications-e09dad04.md) | partial | 2026-07-11T16:46:22Z | registry-derived |
@@ -143,7 +147,7 @@ Records: `179`
 | [OpenShot/openshot-qt](../records/video-openshot-openshot-qt-c99a1faa.md) | partial | 2026-09-01T03:31:09Z | registry-derived |
 | [ORB-HD/deface](../records/video-orb-hd-deface-821a4649.md) | partial | 2024-10-13T21:56:24Z | registry-derived |
 | [ossrs/srs](../records/video-ossrs-srs-c3ecdeaf.md) | partial | 2026-08-26T15:30:55Z | registry-derived |
-| [owncast/owncast](../records/video-owncast-owncast-b3a35889.md) | partial | 2026-09-01T18:43:56Z | registry-derived |
+| [owncast/owncast](../records/video-owncast-owncast-b3a35889.md) | partial | 2026-09-01T19:45:59Z | registry-derived |
 | [pion/webrtc](../records/video-pion-webrtc-db831169.md) | partial | 2026-09-01T02:50:40Z | registry-derived |
 | [prouast/heartbeat](../records/video-prouast-heartbeat-a2923779.md) | partial | 2026-03-02T04:39:18Z | registry-derived |
 | [qTox/qTox](../records/video-qtox-qtox-a43b9736.md) | partial | 2025-02-16T14:21:41Z | registry-derived |
@@ -272,13 +276,13 @@ Records: `179`
 | [mediago-dev/mediago](../records/video-mediago-dev-mediago-0cd9405a.md) | partial | 2026-08-29T10:56:03Z | registry-derived |
 | [modelscope/FunClip](../records/video-modelscope-funclip-7124bb3f.md) | partial | 2026-09-01T06:36:58Z | registry-derived |
 | [MrS0m30n3/youtube-dl-gui](../records/video-mrs0m30n3-youtube-dl-gui-b78c733b.md) | partial | 2022-12-06T17:12:44Z | registry-derived |
-| [namidaco/namida](../records/video-namidaco-namida-7a28ae53.md) | partial | 2026-08-31T03:35:46Z | registry-derived |
+| [namidaco/namida](../records/video-namidaco-namida-7a28ae53.md) | partial | 2026-09-01T19:34:08Z | registry-derived |
 | [OpenShot/libopenshot](../records/video-openshot-libopenshot-313927ae.md) | partial | 2026-08-31T22:03:58Z | registry-derived |
 | [patrikhuber/4dface](../records/video-patrikhuber-4dface-650983e0.md) | partial | 2018-12-10T15:49:06Z | registry-derived |
 | [RayVentura/ShortGPT](../records/video-rayventura-shortgpt-d64f25d3.md) | partial | 2025-02-10T19:33:18Z | registry-derived |
 | [RelevanceAI/vectorhub](../records/video-relevanceai-vectorhub-f9a3ca53.md) | partial | 2024-08-20T01:25:01Z | registry-derived |
 | [smacke/ffsubsync](../records/video-smacke-ffsubsync-c6a306cc.md) | partial | 2026-07-24T04:53:31Z | registry-derived |
-| [Tyrrrz/YoutubeDownloader](../records/video-tyrrrz-youtubedownloader-ba91af3d.md) | partial | 2026-08-26T11:47:17Z | registry-derived |
+| [Tyrrrz/YoutubeDownloader](../records/video-tyrrrz-youtubedownloader-ba91af3d.md) | partial | 2026-09-01T19:36:01Z | registry-derived |
 | [wang-bin/QtAV](../records/video-wang-bin-qtav-0a690b81.md) | partial | 2025-08-15T16:20:01Z | registry-derived |
 
 ### Visualization Gui

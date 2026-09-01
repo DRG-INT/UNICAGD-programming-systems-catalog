@@ -1,6 +1,6 @@
 # Formatter
 
-Records: `529`
+Records: `533`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `529`
 
 ## Category Index
 
-[Api Abi Checker (176)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (120)](async-runtime.md)
-[Benchmarking (106)](benchmarking.md) · [Build System (780)](build-system.md) · [Cli (488)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (176)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (121)](async-runtime.md)
+[Benchmarking (106)](benchmarking.md) · [Build System (787)](build-system.md) · [Cli (488)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (81)](community-reference.md) · [Compiler (157)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (43)](compression.md)
 [Concurrency Parallelism (70)](concurrency-parallelism.md) · [Configuration (94)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (679)](database-datastore.md) · [Datetime (147)](datetime.md)
+[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (681)](database-datastore.md) · [Datetime (147)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (79)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (46)](embedded-hardware.md) · [Ffi Bindings (375)](ffi-bindings.md) · [Filesystem Os (1124)](filesystem-os.md) · **[Formatter (529)](formatter.md)**
-[Framework (45)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (138)](game-engine-game-dev.md) · [Ide Editor Integration (1085)](ide-editor-integration.md)
-[Image Audio Dsp (262)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1216)](language-specification.md) · [Library (4675)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (325)](logging-observability.md) · [Machine Learning (555)](machine-learning.md)
-[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (891)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (248)](package-manager.md) · [Parser Lexer Ast (885)](parser-lexer-ast.md) · [Precommit Ci Quality (253)](precommit-ci-quality.md)
-[Profiler (66)](profiler.md) · [Project Scaffolding (107)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (307)](security-sast.md) · [Serialization (362)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (413)](static-analyzer.md)
+[Embedded Hardware (46)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1125)](filesystem-os.md) · **[Formatter (533)](formatter.md)**
+[Framework (45)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (138)](game-engine-game-dev.md) · [Ide Editor Integration (1098)](ide-editor-integration.md)
+[Image Audio Dsp (265)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1217)](language-specification.md) · [Library (4679)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (381)](logging-observability.md) · [Machine Learning (555)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (893)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (252)](package-manager.md) · [Parser Lexer Ast (887)](parser-lexer-ast.md) · [Precommit Ci Quality (254)](precommit-ci-quality.md)
+[Profiler (67)](profiler.md) · [Project Scaffolding (116)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (308)](security-sast.md) · [Serialization (363)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (415)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (487)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (282)](type-checker.md)
-[Undefined Behavior Analyzer (1344)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (399)](visualization-gui.md) · [Web Framework (377)](web-framework.md)
+[Undefined Behavior Analyzer (1350)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (399)](visualization-gui.md) · [Web Framework (378)](web-framework.md)
 
 ## C99
 
@@ -250,7 +250,7 @@ Records: `529`
 | @theholocron/prettier-config | 7.29.0 | 2026-08-31T04:26:37.800Z | [open](../records/node-js-javascript-theholocron-prettier-config-cede3ed6.md) |
 | @tidio/prettier-config | 2.3.1 | 2023-10-23T07:39:44.898Z | [open](../records/node-js-javascript-tidio-prettier-config-bc65ebac.md) |
 | @trivago/prettier-plugin-sort-imports | 6.0.2 | 2026-01-07T08:13:56.357Z | [open](../records/node-js-javascript-trivago-prettier-plugin-sort-imports-3d1fcff8.md) |
-| @tryghost/database-info | 2.3.10 | 2026-08-26T02:15:14.268Z | [open](../records/node-js-javascript-tryghost-database-info-d1eda67d.md) |
+| @tryghost/database-info | 2.3.12 | 2026-09-01T19:36:31.024Z | [open](../records/node-js-javascript-tryghost-database-info-d1eda67d.md) |
 | @tsrx/prettier-plugin | 0.3.128 | 2026-08-27T16:41:13.750Z | [open](../records/node-js-javascript-tsrx-prettier-plugin-19a105c3.md) |
 | @unified-latex/unified-latex-prettier | 1.8.4 | 2026-04-03T19:58:12.098Z | [open](../records/node-js-javascript-unified-latex-unified-latex-prettier-b331e98e.md) |
 | @valora/prettier-config | 0.0.1 | 2021-10-18T17:05:03.045Z | [open](../records/node-js-javascript-valora-prettier-config-b3d160c7.md) |
@@ -526,7 +526,7 @@ Records: `529`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-01T19:18:07Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-01T20:19:48Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-08-27T19:23:53Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Assets
@@ -573,9 +573,12 @@ Records: `529`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ACADLab/SPICEPilot | partial | 2026-04-02T17:29:41Z | [open](../records/space-maps-acadlab-spicepilot-26ac7adc.md) |
+| aduboisforge/Bright-Star-Catalog-JSON | partial | 2021-07-26T19:07:41Z | [open](../records/space-maps-aduboisforge-bright-star-catalog-json-56a2faf5.md) |
 | asdf-format/asdf | partial | 2026-09-01T17:55:32Z | [open](../records/space-maps-asdf-format-asdf-f4898a65.md) |
 | bgmeulem/luminet | partial | 2026-07-12T21:35:05Z | [open](../records/space-maps-bgmeulem-luminet-66cad96d.md) |
+| D-plus/Star-Wars | partial | 2023-01-07T12:47:11Z | [open](../records/space-maps-d-plus-star-wars-84016317.md) |
 | dcf21/star-charter | partial | 2026-07-24T09:49:15Z | [open](../records/space-maps-dcf21-star-charter-7d97d4d4.md) |
+| MoTahaAboHeiba/E-Commerce-Lakehouse-Using-Databricks | partial | 2026-03-22T17:14:16Z | [open](../records/space-maps-motahaaboheiba-e-commerce-lakehouse-using-databricks-dd224fa3.md) |
 | nunobrum/PyLTSpice | partial | 2026-06-20T15:13:48Z | [open](../records/space-maps-nunobrum-pyltspice-f892529e.md) |
 | nyx-space/anise | partial | 2026-08-31T11:05:27Z | [open](../records/space-maps-nyx-space-anise-dafc6fd2.md) |
 | Xyce/XDM | partial | 2024-02-15T05:27:51Z | [open](../records/space-maps-xyce-xdm-4fd824bb.md) |
@@ -615,6 +618,7 @@ Records: `529`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| ankitdhall/lidar_camera_calibration | partial | 2025-10-16T18:17:31Z | [open](../records/photography-ankitdhall-lidar-camera-calibration-71522045.md) |
 | blakeblackshear/frigate | partial | 2026-08-31T21:56:46Z | [open](../records/photography-blakeblackshear-frigate-ea8ac18c.md) |
 | d2phap/ImageGlass | partial | 2026-09-01T13:18:57Z | [open](../records/photography-d2phap-imageglass-ec40014f.md) |
 | dnglab/dnglab | partial | 2026-08-30T14:57:26Z | [open](../records/photography-dnglab-dnglab-05d113bb.md) |
@@ -634,7 +638,7 @@ Records: `529`
 | catrujilla/pyDHM | partial | 2025-09-16T21:49:38Z | [open](../records/microscopy-catrujilla-pydhm-45508b54.md) |
 | cgohlke/roifile | partial | 2026-07-30T01:48:11Z | [open](../records/microscopy-cgohlke-roifile-2f114ba6.md) |
 | Euro-BioImaging/BatchConvert | partial | 2025-03-14T10:23:22Z | [open](../records/microscopy-euro-bioimaging-batchconvert-38646f25.md) |
-| fideus-labs/ngff-zarr | partial | 2026-09-01T19:07:14Z | [open](../records/microscopy-fideus-labs-ngff-zarr-384efdbf.md) |
+| fideus-labs/ngff-zarr | partial | 2026-09-01T20:08:01Z | [open](../records/microscopy-fideus-labs-ngff-zarr-384efdbf.md) |
 | imaging-formats/ome-types | partial | 2026-04-02T01:45:48Z | [open](../records/microscopy-imaging-formats-ome-types-d7936d3b.md) |
 | pymmcore-plus/ome-writers | partial | 2026-07-01T11:25:58Z | [open](../records/microscopy-pymmcore-plus-ome-writers-2a308f87.md) |
 
