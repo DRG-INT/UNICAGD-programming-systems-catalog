@@ -1,6 +1,6 @@
 # Ide Editor Integration
 
-Records: `1018`
+Records: `1072`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `1018`
 
 ## Category Index
 
-[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (37)](assertion-mocking.md) · [Async Runtime (113)](async-runtime.md)
-[Benchmarking (93)](benchmarking.md) · [Build System (721)](build-system.md) · [Cli (478)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (80)](community-reference.md) · [Compiler (146)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
-[Concurrency Parallelism (68)](concurrency-parallelism.md) · [Configuration (93)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (152)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (517)](database-datastore.md) · [Datetime (135)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (39)](debugger.md) · [Dependency Manager (74)](dependency-manager.md) · [Documentation (73)](documentation.md)
-[Embedded Hardware (42)](embedded-hardware.md) · [Ffi Bindings (361)](ffi-bindings.md) · [Filesystem Os (1053)](filesystem-os.md) · [Formatter (511)](formatter.md)
-[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (131)](game-engine-game-dev.md) · **[Ide Editor Integration (1018)](ide-editor-integration.md)**
-[Image Audio Dsp (212)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (194)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1060)](language-specification.md) · [Library (4575)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (342)](linter.md) · [Logging Observability (315)](logging-observability.md) · [Machine Learning (533)](machine-learning.md)
-[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (71)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (817)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (236)](package-manager.md) · [Parser Lexer Ast (842)](parser-lexer-ast.md) · [Precommit Ci Quality (227)](precommit-ci-quality.md)
-[Profiler (64)](profiler.md) · [Project Scaffolding (102)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (11)](sanitizer.md)
-[Security Sast (284)](security-sast.md) · [Serialization (320)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (396)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (475)](testing-framework.md) · [Tutorial Book Styleguide (51)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
-[Undefined Behavior Analyzer (1291)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (381)](visualization-gui.md) · [Web Framework (329)](web-framework.md)
+[Api Abi Checker (173)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (40)](assertion-mocking.md) · [Async Runtime (119)](async-runtime.md)
+[Benchmarking (100)](benchmarking.md) · [Build System (764)](build-system.md) · [Cli (484)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (80)](community-reference.md) · [Compiler (155)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (70)](concurrency-parallelism.md) · [Configuration (94)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (638)](database-datastore.md) · [Datetime (143)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (79)](dependency-manager.md) · [Documentation (77)](documentation.md)
+[Embedded Hardware (43)](embedded-hardware.md) · [Ffi Bindings (367)](ffi-bindings.md) · [Filesystem Os (1080)](filesystem-os.md) · [Formatter (526)](formatter.md)
+[Framework (44)](framework.md) · [Fuzzer (45)](fuzzer.md) · [Game Engine Game Dev (135)](game-engine-game-dev.md) · **[Ide Editor Integration (1072)](ide-editor-integration.md)**
+[Image Audio Dsp (216)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (216)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1189)](language-specification.md) · [Library (4647)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (317)](logging-observability.md) · [Machine Learning (544)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (73)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (883)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (244)](package-manager.md) · [Parser Lexer Ast (866)](parser-lexer-ast.md) · [Precommit Ci Quality (252)](precommit-ci-quality.md)
+[Profiler (66)](profiler.md) · [Project Scaffolding (107)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (306)](security-sast.md) · [Serialization (361)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (406)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (486)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1328)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (389)](visualization-gui.md) · [Web Framework (372)](web-framework.md)
 
 ## C++23
 
@@ -621,6 +621,36 @@ Records: `1018`
 | photo_view | 0.15.0 | 2024-04-17T21:10:06.324115Z | [open](../records/dart-photo-view-57a30e6c.md) |
 | postgrest | 2.9.1 | 2026-08-05T08:47:45.204815Z | [open](../records/dart-postgrest-159001a6.md) |
 | pro_image_editor | 13.3.1 | 2026-08-11T10:15:43.034767Z | [open](../records/dart-pro-image-editor-ca6b5a34.md) |
+| pro_video_editor | 2.11.3 | 2026-08-15T14:07:31.352906Z | [open](../records/dart-pro-video-editor-f2637419.md) |
+| profanity_filter | 2.0.0 | 2021-06-29T16:50:08.536195Z | [open](../records/dart-profanity-filter-9c55e3a5.md) |
+| saver_gallery | 5.1.0 | 2026-05-29T08:05:20.881418Z | [open](../records/dart-saver-gallery-bfdf1959.md) |
+| scroll_pos | 0.5.0 | 2023-10-19T09:36:37.355391Z | [open](../records/dart-scroll-pos-a1e2742a.md) |
+| sidebarx | 0.17.2 | 2025-07-30T00:04:18.117688Z | [open](../records/dart-sidebarx-36995d2c.md) |
+| simple_gradient_text | 1.4.0 | 2026-01-03T18:27:12.162763Z | [open](../records/dart-simple-gradient-text-0ad641c7.md) |
+| slang_flutter | 4.19.0 | 2026-08-06T13:02:46.249302Z | [open](../records/dart-slang-flutter-3493da82.md) |
+| slide_countdown | 2.0.2 | 2024-11-25T08:32:52.447716Z | [open](../records/dart-slide-countdown-9380f5b5.md) |
+| slide_to_act | 2.0.2 | 2023-09-26T09:04:48.355585Z | [open](../records/dart-slide-to-act-6e2f7a75.md) |
+| slider_button | 3.1.0 | 2026-01-28T13:19:21.814740Z | [open](../records/dart-slider-button-a7a54c4d.md) |
+| spider | 4.2.3 | 2025-10-08T19:08:25.537907Z | [open](../records/dart-spider-7496c995.md) |
+| split_view | 3.2.2 | 2026-02-16T15:09:21.065428Z | [open](../records/dart-split-view-81535742.md) |
+| sqlite3 | 3.5.2 | 2026-08-19T21:57:37.453986Z | [open](../records/dart-sqlite3-cf60b60a.md) |
+| state_notifier | 1.0.0 | 2023-08-16T08:43:47.501227Z | [open](../records/dart-state-notifier-b2b0cfaf.md) |
+| syncfusion_flutter_calendar | 34.2.6 | 2026-09-01T15:34:39.596673Z | [open](../records/dart-syncfusion-flutter-calendar-66492223.md) |
+| syncfusion_flutter_gauges | 34.2.6 | 2026-09-01T15:27:41.738096Z | [open](../records/dart-syncfusion-flutter-gauges-b33b7a95.md) |
+| syncfusion_flutter_sliders | 34.2.6 | 2026-09-01T15:35:18.044483Z | [open](../records/dart-syncfusion-flutter-sliders-f5899f4c.md) |
+| textfield_tags | 3.0.1 | 2024-03-11T12:38:40.646355Z | [open](../records/dart-textfield-tags-1eed8b40.md) |
+| tutorial_coach_mark | 1.3.4 | 2026-08-28T02:18:57.092684Z | [open](../records/dart-tutorial-coach-mark-cb470fcd.md) |
+| unicons | 3.0.0 | 2024-08-27T00:11:02.581226Z | [open](../records/dart-unicons-d639eca1.md) |
+| universal_html | 2.3.0 | 2025-11-16T22:50:23.829282Z | [open](../records/dart-universal-html-c7f48f59.md) |
+| video_player | 2.14.0 | 2026-08-11T18:46:12.558899Z | [open](../records/dart-video-player-b42e6f02.md) |
+| video_player_media_kit | 2.0.0 | 2025-11-14T21:58:27.459652Z | [open](../records/dart-video-player-media-kit-714ef1cc.md) |
+| video_trimmer | 5.0.0 | 2025-04-27T09:05:57.999755Z | [open](../records/dart-video-trimmer-2dac0791.md) |
+| web_socket_channel | 3.0.3 | 2025-04-17T20:42:13.656396Z | [open](../records/dart-web-socket-channel-58a96f99.md) |
+| webview_flutter | 4.14.1 | 2026-07-07T17:29:37.749395Z | [open](../records/dart-webview-flutter-b004aabf.md) |
+| webview_flutter_android | 4.14.1 | 2026-08-28T04:11:56.208948Z | [open](../records/dart-webview-flutter-android-ddfb8dc0.md) |
+| webview_flutter_wkwebview | 3.26.1 | 2026-08-28T04:12:02.898242Z | [open](../records/dart-webview-flutter-wkwebview-b7875ae2.md) |
+| wechat_assets_picker | 10.1.3 | 2026-07-19T10:13:52.440929Z | [open](../records/dart-wechat-assets-picker-9f9a493d.md) |
+| wolt_modal_sheet | 0.11.0 | 2025-02-02T08:13:04.995969Z | [open](../records/dart-wolt-modal-sheet-b359d7ff.md) |
 
 ## Go
 
@@ -1070,10 +1100,13 @@ Records: `1018`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| eatonphil/x86e | partial | 2023-01-03T20:16:21Z | [open](../records/assembly-eatonphil-x86e-a3d2b156.md) |
 | kovidomi/game-reversing | partial | 2023-04-05T15:11:33Z | [open](../records/assembly-kovidomi-game-reversing-eb71b6a8.md) |
+| mikeroyal/Assembly-Guide | partial | 2022-01-02T23:58:29Z | [open](../records/assembly-mikeroyal-assembly-guide-e4afccda.md) |
 | minio/sha256-simd | partial | 2023-05-24T07:54:41Z | [open](../records/assembly-minio-sha256-simd-85e6ab78.md) |
 | robalb/x86-64-playground | partial | 2026-01-18T19:17:26Z | [open](../records/assembly-robalb-x86-64-playground-c440c3c0.md) |
 | sehugg/8bitworkshop | partial | 2026-09-01T09:32:09Z | [open](../records/assembly-sehugg-8bitworkshop-62e01cd8.md) |
+| Specy/asm-editor | partial | 2026-08-31T13:00:24Z | [open](../records/assembly-specy-asm-editor-c3b9e30b.md) |
 | ThomasJaeger/VisualMASM | partial | 2018-01-26T12:10:31Z | [open](../records/assembly-thomasjaeger-visualmasm-c78674ab.md) |
 
 ## Pattern language
@@ -1108,6 +1141,20 @@ Records: `1018`
 | fresh/doctrine-enum-bundle | unknown | packagist_package_metadata_missing | [open](../records/php-fresh-doctrine-enum-bundle-9904dafd.md) |
 | fza/mysql-doctrine-levenshtein-function | unknown | packagist_package_metadata_missing | [open](../records/php-fza-mysql-doctrine-levenshtein-function-0d025840.md) |
 | guzzlehttp/psr7 | unknown | packagist_package_metadata_missing | [open](../records/php-guzzlehttp-psr7-bdaca48c.md) |
+| josiasmontag/laravel-redis-mock | unknown | packagist_package_metadata_missing | [open](../records/php-josiasmontag-laravel-redis-mock-8816255e.md) |
+| laminas/laminas-json | unknown | packagist_package_metadata_missing | [open](../records/php-laminas-laminas-json-881c7b42.md) |
+| league/glide | unknown | packagist_package_metadata_missing | [open](../records/php-league-glide-b588a7f3.md) |
+| nette/http | unknown | packagist_package_metadata_missing | [open](../records/php-nette-http-330045c5.md) |
+| opensoft/doctrine-postgres-types | unknown | packagist_package_metadata_missing | [open](../records/php-opensoft-doctrine-postgres-types-1f091a98.md) |
+| psr/http-server-handler | unknown | packagist_package_metadata_missing | [open](../records/php-psr-http-server-handler-72848de9.md) |
+| psr/http-server-middleware | unknown | packagist_package_metadata_missing | [open](../records/php-psr-http-server-middleware-85cca190.md) |
+| sabre/http | unknown | packagist_package_metadata_missing | [open](../records/php-sabre-http-dc1adc6c.md) |
+| semsol/arc2 | unknown | packagist_package_metadata_missing | [open](../records/php-semsol-arc2-a56c62ea.md) |
+| symfony/http-client | unknown | packagist_package_metadata_missing | [open](../records/php-symfony-http-client-935938fb.md) |
+| symfony/http-kernel | unknown | packagist_package_metadata_missing | [open](../records/php-symfony-http-kernel-c8ae710d.md) |
+| ukko/phpredis-phpdoc | unknown | packagist_package_metadata_missing | [open](../records/php-ukko-phpredis-phpdoc-d044663a.md) |
+| vimeo/php-mysql-engine | unknown | packagist_package_metadata_missing | [open](../records/php-vimeo-php-mysql-engine-62349442.md) |
+| zendframework/zend-json | unknown | packagist_package_metadata_missing | [open](../records/php-zendframework-zend-json-3d99c0da.md) |
 
 ## WebAssembly
 
@@ -1231,5 +1278,12 @@ Records: `1018`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| Gitea: best-iptv-guide/Best-IPTV-2026--Trusted-Services-Features-Pricing | partial | 2026-08-14T08:36:45Z | [open](../records/repository-workplaces-gitea-best-iptv-guide-best-iptv-2026-trusted-services-features-pricing-8139c338.md) |
+| Gitea: best-iptv-service-provider-2026/Best-IPTV-USA-2026-Providers-Pricing-Devices-Guide | partial | 2026-08-31T07:03:33Z | [open](../records/repository-workplaces-gitea-best-iptv-service-provider-2026-best-iptv-usa-2026-providers-pricing-devices-guide-06499f89.md) |
+| Gitea: best_iptv_2026/Best-IPTV-Service-Features-Pricing-and-Provider-Guide | partial | 2026-08-26T12:23:19Z | [open](../records/repository-workplaces-gitea-best-iptv-2026-best-iptv-service-features-pricing-and-provider-guide-b9885a99.md) |
+| Gitea: IdeaCentral/AI-Observer-experiment | partial | 2026-02-04T08:06:38Z | [open](../records/repository-workplaces-gitea-ideacentral-ai-observer-experiment-6c2dbdf4.md) |
+| Gitea: lgh06/APIJSON | partial | 2023-12-29T05:53:26Z | [open](../records/repository-workplaces-gitea-lgh06-apijson-d0a8c67b.md) |
+| Gitea: nesin/audacity | partial | 2023-10-08T03:00:49Z | [open](../records/repository-workplaces-gitea-nesin-audacity-f5afbba1.md) |
+| Gitea: portellam1/auto-xorg | partial | 2025-06-05T02:32:02Z | [open](../records/repository-workplaces-gitea-portellam1-auto-xorg-fa98ab13.md) |
 | GitHub Codespaces | unknown | official_workplace_route_requires_source_specific_release_lookup | [open](../records/repository-workplaces-github-codespaces-f941dff2.md) |
 | TortoiseSVN | unknown | official_workplace_route_requires_source_specific_release_lookup | [open](../records/repository-workplaces-tortoisesvn-4a41fae3.md) |

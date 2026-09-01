@@ -1,6 +1,6 @@
 # Visualization Gui
 
-Records: `381`
+Records: `389`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `381`
 
 ## Category Index
 
-[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (37)](assertion-mocking.md) · [Async Runtime (113)](async-runtime.md)
-[Benchmarking (93)](benchmarking.md) · [Build System (721)](build-system.md) · [Cli (478)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (80)](community-reference.md) · [Compiler (146)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
-[Concurrency Parallelism (68)](concurrency-parallelism.md) · [Configuration (93)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (152)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (517)](database-datastore.md) · [Datetime (135)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (39)](debugger.md) · [Dependency Manager (74)](dependency-manager.md) · [Documentation (73)](documentation.md)
-[Embedded Hardware (42)](embedded-hardware.md) · [Ffi Bindings (361)](ffi-bindings.md) · [Filesystem Os (1053)](filesystem-os.md) · [Formatter (511)](formatter.md)
-[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (131)](game-engine-game-dev.md) · [Ide Editor Integration (1018)](ide-editor-integration.md)
-[Image Audio Dsp (212)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (194)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1060)](language-specification.md) · [Library (4575)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (342)](linter.md) · [Logging Observability (315)](logging-observability.md) · [Machine Learning (533)](machine-learning.md)
-[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (71)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (817)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (236)](package-manager.md) · [Parser Lexer Ast (842)](parser-lexer-ast.md) · [Precommit Ci Quality (227)](precommit-ci-quality.md)
-[Profiler (64)](profiler.md) · [Project Scaffolding (102)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (11)](sanitizer.md)
-[Security Sast (284)](security-sast.md) · [Serialization (320)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (396)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (475)](testing-framework.md) · [Tutorial Book Styleguide (51)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
-[Undefined Behavior Analyzer (1291)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · **[Visualization Gui (381)](visualization-gui.md)** · [Web Framework (329)](web-framework.md)
+[Api Abi Checker (173)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (40)](assertion-mocking.md) · [Async Runtime (119)](async-runtime.md)
+[Benchmarking (100)](benchmarking.md) · [Build System (764)](build-system.md) · [Cli (484)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (80)](community-reference.md) · [Compiler (155)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (70)](concurrency-parallelism.md) · [Configuration (94)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (638)](database-datastore.md) · [Datetime (143)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (79)](dependency-manager.md) · [Documentation (77)](documentation.md)
+[Embedded Hardware (43)](embedded-hardware.md) · [Ffi Bindings (367)](ffi-bindings.md) · [Filesystem Os (1080)](filesystem-os.md) · [Formatter (526)](formatter.md)
+[Framework (44)](framework.md) · [Fuzzer (45)](fuzzer.md) · [Game Engine Game Dev (135)](game-engine-game-dev.md) · [Ide Editor Integration (1072)](ide-editor-integration.md)
+[Image Audio Dsp (216)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (216)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1189)](language-specification.md) · [Library (4647)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (317)](logging-observability.md) · [Machine Learning (544)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (73)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (883)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (244)](package-manager.md) · [Parser Lexer Ast (866)](parser-lexer-ast.md) · [Precommit Ci Quality (252)](precommit-ci-quality.md)
+[Profiler (66)](profiler.md) · [Project Scaffolding (107)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (306)](security-sast.md) · [Serialization (361)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (406)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (486)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1328)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · **[Visualization Gui (389)](visualization-gui.md)** · [Web Framework (372)](web-framework.md)
 
 ## C++23
 
@@ -203,6 +203,7 @@ Records: `381`
 | see | 0.14.2 | 2026-09-01 12:30:02 UTC | [open](../records/r-see-a2b3e480.md) |
 | shapviz | 0.10.4 | 2026-08-31 15:10:02 UTC | [open](../records/r-shapviz-d4cf00e1.md) |
 | shinyglass | 0.2.0 | 2026-08-21 05:40:42 UTC | [open](../records/r-shinyglass-ac8dcf7d.md) |
+| SimpleUpset | 0.1.6 | 2026-09-01 15:50:02 UTC | [open](../records/r-simpleupset-c56c376c.md) |
 | socviz | 2.0.0 | 2026-08-21 12:40:02 UTC | [open](../records/r-socviz-38c1d0b7.md) |
 | tidyterra | 1.3.0 | 2026-08-24 08:30:02 UTC | [open](../records/r-tidyterra-a4faa86f.md) |
 | upsetly | 0.1.1 | 2026-08-07 10:40:02 UTC | [open](../records/r-upsetly-404ef593.md) |
@@ -274,12 +275,18 @@ Records: `381`
 | native_device_orientation | 2.1.1 | 2026-05-30T18:12:08.359310Z | [open](../records/dart-native-device-orientation-94e1f74f.md) |
 | persistent_bottom_nav_bar_v2 | 6.4.0 | 2026-08-10T22:23:40.208953Z | [open](../records/dart-persistent-bottom-nav-bar-v2-af0b0087.md) |
 | pin_code_fields | 9.4.0 | 2026-05-20T09:53:40.015281Z | [open](../records/dart-pin-code-fields-1b47ca5f.md) |
+| scaled_app | 2.3.2 | 2026-08-18T15:26:31.052429Z | [open](../records/dart-scaled-app-83e99a29.md) |
+| shadcn_ui | 0.56.2 | 2026-08-26T12:16:31.773316Z | [open](../records/dart-shadcn-ui-58fde214.md) |
+| sizer | 3.1.3 | 2025-08-26T09:28:34.030481Z | [open](../records/dart-sizer-a32a470d.md) |
+| skeletonizer | 2.1.3 | 2026-02-13T07:42:20.195362Z | [open](../records/dart-skeletonizer-cfc381b3.md) |
+| smooth_page_indicator | 3.0.0 | 2026-08-21T21:31:58.921064Z | [open](../records/dart-smooth-page-indicator-c9646ffc.md) |
 
 ## Go
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | inancgumus/learngo | partial | 2025-06-24T23:03:52Z | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
+| kungfusheep/glyph | partial | 2026-08-28T16:49:36Z | [open](../records/go-kungfusheep-glyph-15af0f04.md) |
 | modernc.org/quickjs | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-modernc-org-quickjs-953c15ce.md) |
 | piquette/finance-go | partial | 2023-08-07T03:39:03Z | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
 
@@ -527,6 +534,7 @@ Records: `381`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| gh-nomad/nmd | partial | 2021-12-26T00:44:17Z | [open](../records/assembly-gh-nomad-nmd-edbb6cb6.md) |
 | guitmz/virii | partial | 2026-03-29T21:39:51Z | [open](../records/assembly-guitmz-virii-ed6ff028.md) |
 | simon987/Much-Assembly-Required | partial | 2024-10-24T00:37:03Z | [open](../records/assembly-simon987-much-assembly-required-c15801d9.md) |
 
@@ -534,7 +542,7 @@ Records: `381`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| keenthemes/reui | partial | 2026-09-01T14:41:09Z | [open](../records/pattern-language-keenthemes-reui-f3f4a8f3.md) |
+| keenthemes/reui | partial | 2026-09-01T16:01:00Z | [open](../records/pattern-language-keenthemes-reui-f3f4a8f3.md) |
 | mohuishou/go-design-pattern | partial | 2025-07-30T09:39:31Z | [open](../records/pattern-language-mohuishou-go-design-pattern-b1f024da.md) |
 
 ## WebAssembly

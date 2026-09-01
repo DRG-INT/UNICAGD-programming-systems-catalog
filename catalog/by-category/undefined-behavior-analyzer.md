@@ -1,6 +1,6 @@
 # Undefined Behavior Analyzer
 
-Records: `1291`
+Records: `1328`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `1291`
 
 ## Category Index
 
-[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (37)](assertion-mocking.md) · [Async Runtime (113)](async-runtime.md)
-[Benchmarking (93)](benchmarking.md) · [Build System (721)](build-system.md) · [Cli (478)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (80)](community-reference.md) · [Compiler (146)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
-[Concurrency Parallelism (68)](concurrency-parallelism.md) · [Configuration (93)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (152)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (517)](database-datastore.md) · [Datetime (135)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (39)](debugger.md) · [Dependency Manager (74)](dependency-manager.md) · [Documentation (73)](documentation.md)
-[Embedded Hardware (42)](embedded-hardware.md) · [Ffi Bindings (361)](ffi-bindings.md) · [Filesystem Os (1053)](filesystem-os.md) · [Formatter (511)](formatter.md)
-[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (131)](game-engine-game-dev.md) · [Ide Editor Integration (1018)](ide-editor-integration.md)
-[Image Audio Dsp (212)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (194)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1060)](language-specification.md) · [Library (4575)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (342)](linter.md) · [Logging Observability (315)](logging-observability.md) · [Machine Learning (533)](machine-learning.md)
-[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (71)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (817)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (236)](package-manager.md) · [Parser Lexer Ast (842)](parser-lexer-ast.md) · [Precommit Ci Quality (227)](precommit-ci-quality.md)
-[Profiler (64)](profiler.md) · [Project Scaffolding (102)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (11)](sanitizer.md)
-[Security Sast (284)](security-sast.md) · [Serialization (320)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (396)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (475)](testing-framework.md) · [Tutorial Book Styleguide (51)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
-**[Undefined Behavior Analyzer (1291)](undefined-behavior-analyzer.md)** · [Utility Library (89)](utility-library.md) · [Visualization Gui (381)](visualization-gui.md) · [Web Framework (329)](web-framework.md)
+[Api Abi Checker (173)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (40)](assertion-mocking.md) · [Async Runtime (119)](async-runtime.md)
+[Benchmarking (100)](benchmarking.md) · [Build System (764)](build-system.md) · [Cli (484)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (80)](community-reference.md) · [Compiler (155)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (70)](concurrency-parallelism.md) · [Configuration (94)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (638)](database-datastore.md) · [Datetime (143)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (79)](dependency-manager.md) · [Documentation (77)](documentation.md)
+[Embedded Hardware (43)](embedded-hardware.md) · [Ffi Bindings (367)](ffi-bindings.md) · [Filesystem Os (1080)](filesystem-os.md) · [Formatter (526)](formatter.md)
+[Framework (44)](framework.md) · [Fuzzer (45)](fuzzer.md) · [Game Engine Game Dev (135)](game-engine-game-dev.md) · [Ide Editor Integration (1072)](ide-editor-integration.md)
+[Image Audio Dsp (216)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (216)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1189)](language-specification.md) · [Library (4647)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (317)](logging-observability.md) · [Machine Learning (544)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (73)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (883)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (244)](package-manager.md) · [Parser Lexer Ast (866)](parser-lexer-ast.md) · [Precommit Ci Quality (252)](precommit-ci-quality.md)
+[Profiler (66)](profiler.md) · [Project Scaffolding (107)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (306)](security-sast.md) · [Serialization (361)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (406)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (486)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+**[Undefined Behavior Analyzer (1328)](undefined-behavior-analyzer.md)** · [Utility Library (89)](utility-library.md) · [Visualization Gui (389)](visualization-gui.md) · [Web Framework (372)](web-framework.md)
 
 ## C++23
 
@@ -384,12 +384,18 @@ Records: `1291`
 | flag | 7.0.2 | 2025-09-22T14:56:48.958120Z | [open](../records/dart-flag-b191281d.md) |
 | flutter_flavor | 3.1.4 | 2024-12-06T22:43:41.546267Z | [open](../records/dart-flutter-flavor-f7a568dd.md) |
 | modal_progress_hud_nsn | 0.5.1 | 2024-01-21T07:54:41.686829Z | [open](../records/dart-modal-progress-hud-nsn-5d7f93e8.md) |
+| pub_semver | 2.2.1 | 2026-08-28T20:42:44.331700Z | [open](../records/dart-pub-semver-311cc40d.md) |
+| pub_updater | 0.6.0 | 2026-08-10T12:08:52.057791Z | [open](../records/dart-pub-updater-eeee5445.md) |
+| sanitize_html | 2.2.0 | 2026-07-07T07:22:53.369966Z | [open](../records/dart-sanitize-html-f669c89d.md) |
+| timelines_plus | 2.0.1 | 2026-08-08T10:53:08.430443Z | [open](../records/dart-timelines-plus-cb88566a.md) |
+| youtube_player_flutter | 10.0.1 | 2026-05-30T19:55:50.265482Z | [open](../records/dart-youtube-player-flutter-84549174.md) |
+| youtube_player_iframe | 6.0.2 | 2026-05-30T19:55:44.807495Z | [open](../records/dart-youtube-player-iframe-d238710c.md) |
 
 ## Go
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bluenviron/mediamtx | partial | 2026-09-01T05:00:48Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
+| bluenviron/mediamtx | partial | 2026-09-01T15:58:16Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
 | dariubs/GoBooks | partial | 2026-07-13T16:08:02Z | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
 | eryajf/learning-weekly | partial | 2026-08-27T15:27:30Z | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
 | github.com/01org/isa-l | v2.22.0+incompatible | 2026-08-30T14:09:32.299469Z | [open](../records/go-github-com-01org-isa-l-8ef09eb2.md) |
@@ -1119,9 +1125,11 @@ Records: `1291`
 | github.laiyagushi.com/Juniper/go-netconf | v0.2.0 | 2026-08-30T14:10:28.8919Z | [open](../records/go-github-laiyagushi-com-juniper-go-netconf-c7fdc901.md) |
 | github.laiyagushi.com/nemith/dothome | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-laiyagushi-com-nemith-dothome-32cd483a.md) |
 | github.laiyagushi.com/valkey-io/valkey-go | v1.0.56 | 2026-08-30T15:31:38.453275Z | [open](../records/go-github-laiyagushi-com-valkey-io-valkey-go-b2864d71.md) |
+| jfrog/gocenter | partial | 2021-05-14T11:38:26Z | [open](../records/go-jfrog-gocenter-404e69f1.md) |
 | labring/sealos | partial | 2026-09-01T07:32:46Z | [open](../records/go-labring-sealos-594e5269.md) |
 | uber-go/guide | partial | 2026-04-15T15:10:48Z | [open](../records/go-uber-go-guide-c330b782.md) |
 | uber-go/zap | partial | 2026-08-31T18:59:30Z | [open](../records/go-uber-go-zap-07ea12d8.md) |
+| unpoller/unifi | partial | 2026-09-01T12:00:24Z | [open](../records/go-unpoller-unifi-0809cf4a.md) |
 
 ## Starlark
 
@@ -1142,7 +1150,7 @@ Records: `1291`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bytedance/deer-flow | partial | 2026-09-01T15:24:49Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
+| bytedance/deer-flow | partial | 2026-09-01T16:33:22Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
 | sansan0/TrendRadar | partial | 2026-07-17T13:54:28Z | [open](../records/aim-s-sansan0-trendradar-72e65ee1.md) |
 | TencentCloud/TencentDB-Agent-Memory | partial | 2026-08-31T07:35:24Z | [open](../records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
 
@@ -1389,7 +1397,10 @@ Records: `1291`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | edubart/minicoro | partial | 2024-12-07T10:36:21Z | [open](../records/assembly-edubart-minicoro-74ca4b67.md) |
+| franeklubi/dino | partial | 2021-08-21T14:21:23Z | [open](../records/assembly-franeklubi-dino-8d3e9c1a.md) |
 | hlorenzi/customasm | partial | 2026-04-26T21:11:38Z | [open](../records/assembly-hlorenzi-customasm-85734886.md) |
+| IDouble/x86-Assembly-Reverse-Engineering | partial | 2024-03-01T20:10:00Z | [open](../records/assembly-idouble-x86-assembly-reverse-engineering-fc5247ea.md) |
+| tenderlove/fisk | partial | 2023-04-07T23:47:40Z | [open](../records/assembly-tenderlove-fisk-358e54fe.md) |
 | vector4wang/spring-boot-quick | partial | 2026-05-16T06:22:44Z | [open](../records/assembly-vector4wang-spring-boot-quick-58ca29aa.md) |
 
 ## Pattern language
@@ -1413,6 +1424,12 @@ Records: `1291`
 | erik-dubbelboer/php-redis-admin | unknown | packagist_package_metadata_missing | [open](../records/php-erik-dubbelboer-php-redis-admin-e9d560c6.md) |
 | hyperf/database-pgsql-incubator | unknown | packagist_package_metadata_missing | [open](../records/php-hyperf-database-pgsql-incubator-fa82b233.md) |
 | jeremykendall/php-domain-parser | unknown | packagist_package_metadata_missing | [open](../records/php-jeremykendall-php-domain-parser-1dfe6960.md) |
+| mix/redis-subscriber | unknown | packagist_package_metadata_missing | [open](../records/php-mix-redis-subscriber-5bb558f8.md) |
+| resque/php-resque | unknown | packagist_package_metadata_missing | [open](../records/php-resque-php-resque-ff1ab564.md) |
+| rhubarbgroup/redis-cache | unknown | packagist_package_metadata_missing | [open](../records/php-rhubarbgroup-redis-cache-73088f85.md) |
+| teamtnt/laravel-scout-tntsearch-driver | unknown | packagist_package_metadata_missing | [open](../records/php-teamtnt-laravel-scout-tntsearch-driver-09954290.md) |
+| typesense/typesense-php | unknown | packagist_package_metadata_missing | [open](../records/php-typesense-typesense-php-32ad1fb3.md) |
+| zordius/lightncandy | unknown | packagist_package_metadata_missing | [open](../records/php-zordius-lightncandy-07e506c8.md) |
 
 ## WebAssembly
 
@@ -1487,10 +1504,22 @@ Records: `1291`
 | --- | --- | --- | --- |
 | ananace/charts | partial | 2026-08-18T19:05:10.639Z | [open](../records/repository-workplaces-ananace-charts-e6b30b05.md) |
 | bdowney/ansible-demo | partial | 2024-07-24T10:07:47.956Z | [open](../records/repository-workplaces-bdowney-ansible-demo-8ddaacae.md) |
+| castlecraft/erpnext_kubernetes | partial | 2021-10-03T22:08:14.620Z | [open](../records/repository-workplaces-castlecraft-erpnext-kubernetes-f8edadde.md) |
+| cloud-versity/rancher-k3s-first-steps | partial | 2023-01-16T15:40:21.810Z | [open](../records/repository-workplaces-cloud-versity-rancher-k3s-first-steps-c86f160c.md) |
+| Gitea: admpub/ftpserver | partial | 2021-04-10T13:14:49Z | [open](../records/repository-workplaces-gitea-admpub-ftpserver-f1e4497d.md) |
+| Gitea: avevlad/act | partial | 2024-03-07T15:42:26Z | [open](../records/repository-workplaces-gitea-avevlad-act-716d3cec.md) |
+| Gitea: IDuckOdd/DevOps | partial | 2024-11-21T10:31:12Z | [open](../records/repository-workplaces-gitea-iduckodd-devops-024d36e6.md) |
+| Gitea: NotHarshhaa/DevOps-Projects | partial | 2026-07-30T18:39:38Z | [open](../records/repository-workplaces-gitea-notharshhaa-devops-projects-5de77522.md) |
+| Gitea: palmcoasty/bunkerweb | partial | 2026-03-21T05:53:26Z | [open](../records/repository-workplaces-gitea-palmcoasty-bunkerweb-ad9b3891.md) |
+| Gitea: Putogiteademierda/21eyay8qeyciubaya | partial | 2026-04-06T22:30:46Z | [open](../records/repository-workplaces-gitea-putogiteademierda-21eyay8qeyciubaya-2ed450c9.md) |
+| Gitea: quxiaorui/action-send-mail | partial | 2024-02-26T12:43:08Z | [open](../records/repository-workplaces-gitea-quxiaorui-action-send-mail-a8703907.md) |
+| Gitea: we8tguivdbsd/21eyay8qeyciubaya | partial | 2026-06-20T21:36:03Z | [open](../records/repository-workplaces-gitea-we8tguivdbsd-21eyay8qeyciubaya-47fe49cc.md) |
+| Gitea: zaccesss/.profile | partial | 2026-09-01T14:55:39Z | [open](../records/repository-workplaces-gitea-zaccesss-profile-898ffe18.md) |
 | gitlab-com/gl-infra/k8s-workloads/gitlab-com | partial | 2026-09-01T14:32:21.917Z | [open](../records/repository-workplaces-gitlab-com-gl-infra-k8s-workloads-gitlab-com-13cc554b.md) |
 | gitlab-data/data-image | partial | 2026-08-21T11:24:30.282Z | [open](../records/repository-workplaces-gitlab-data-data-image-0af0c35c.md) |
 | gitlab-examples/kubernetes-deploy | partial | 2026-01-07T14:56:28.754Z | [open](../records/repository-workplaces-gitlab-examples-kubernetes-deploy-9a43e04a.md) |
 | gitlab-examples/ruby-autodeploy | partial | 2026-01-07T14:56:29.516Z | [open](../records/repository-workplaces-gitlab-examples-ruby-autodeploy-0ea70988.md) |
+| gitlab-org/caproni | partial | 2026-09-01T16:30:04.922Z | [open](../records/repository-workplaces-gitlab-org-caproni-40271619.md) |
 | gitlab-org/charts/gitlab-agent | partial | 2026-08-27T06:20:07.801Z | [open](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) |
 | gitlab-org/ci-cd/gitlab-runner-pod-cleanup | partial | 2026-05-15T07:38:19.652Z | [open](../records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) |
 | gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-01T14:07:45.952Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
@@ -1498,16 +1527,24 @@ Records: `1291`
 | glitchtip/glitchtip-helm-chart | partial | 2026-08-01T00:27:07.881Z | [open](../records/repository-workplaces-glitchtip-glitchtip-helm-chart-8da5da49.md) |
 | just.insane/kubernetes | partial | 2019-12-24T04:31:25.427Z | [open](../records/repository-workplaces-just-insane-kubernetes-b3dc8533.md) |
 | k3s_hetzner/k3s_hetzner | partial | 2024-05-18T14:38:11.918Z | [open](../records/repository-workplaces-k3s-hetzner-k3s-hetzner-d2927843.md) |
+| kargo-ci/kubernetes-sigs-kubespray | partial | 2026-09-01T14:07:58.840Z | [open](../records/repository-workplaces-kargo-ci-kubernetes-sigs-kubespray-bd6a5638.md) |
 | ksxack/administrator-kubernetes-junior | partial | 2025-03-09T20:49:07.418Z | [open](../records/repository-workplaces-ksxack-administrator-kubernetes-junior-6dbf6036.md) |
 | lavitto/typo3-form-to-database | partial | 2026-01-28T10:30:57.005Z | [open](../records/repository-workplaces-lavitto-typo3-form-to-database-83392b7e.md) |
+| learndevopseasy/troubleshoot/kubernetes-apps | partial | 2024-12-18T10:50:49.219Z | [open](../records/repository-workplaces-learndevopseasy-troubleshoot-kubernetes-apps-43ef407e.md) |
+| MatthiasLohr/hcloud-csi-driver-helm-chart | partial | 2024-10-15T10:14:59.095Z | [open](../records/repository-workplaces-matthiaslohr-hcloud-csi-driver-helm-chart-6cb7d216.md) |
+| mt-ag-k8s-training-course/kubernetesexercises | partial | 2026-05-31T18:14:32.353Z | [open](../records/repository-workplaces-mt-ag-k8s-training-course-kubernetesexercises-8c51245a.md) |
+| mts-teta-public/devops-tools | partial | 2022-09-20T14:05:32.817Z | [open](../records/repository-workplaces-mts-teta-public-devops-tools-0ec6239d.md) |
 | nanuchi/bootcamp-kubernetes | partial | 2024-05-08T20:14:25.618Z | [open](../records/repository-workplaces-nanuchi-bootcamp-kubernetes-14dcba8c.md) |
 | ongresinc/stackgres | partial | 2026-09-01T14:58:15.645Z | [open](../records/repository-workplaces-ongresinc-stackgres-219e17d7.md) |
 | postgres-ai/joe | partial | 2026-08-06T01:15:25.024Z | [open](../records/repository-workplaces-postgres-ai-joe-6048f213.md) |
 | purelb/purelb | partial | 2026-05-18T16:37:02.681Z | [open](../records/repository-workplaces-purelb-purelb-96e96f02.md) |
 | rocha.public/cursos/jenkins-em-larga-escala | partial | 2018-04-27T17:12:30.554Z | [open](../records/repository-workplaces-rocha-public-cursos-jenkins-em-larga-escala-11be6109.md) |
+| ska-telescope/ska-skampi | partial | 2026-03-25T16:00:39.469Z | [open](../records/repository-workplaces-ska-telescope-ska-skampi-cd36a126.md) |
 | toskao/descomplicandokubernetes | partial | 2021-05-02T23:21:45.279Z | [open](../records/repository-workplaces-toskao-descomplicandokubernetes-0c4ed22a.md) |
 | xavki/devopsland | partial | 2026-06-21T11:05:48.789Z | [open](../records/repository-workplaces-xavki-devopsland-282c7f5f.md) |
 | xavki/infrastructure-cloud-infomaniak | partial | 2026-06-21T11:05:52.720Z | [open](../records/repository-workplaces-xavki-infrastructure-cloud-infomaniak-7c2de9cf.md) |
 | xavki/tutorials-kubernetes | partial | 2026-06-21T11:07:22.889Z | [open](../records/repository-workplaces-xavki-tutorials-kubernetes-923f1a68.md) |
+| xavki/tutorials-kubernetes-v2 | partial | 2026-06-21T11:05:47.441Z | [open](../records/repository-workplaces-xavki-tutorials-kubernetes-v2-f5262aef.md) |
+| xavki/tutorials-terraform | partial | 2026-06-21T11:06:39.325Z | [open](../records/repository-workplaces-xavki-tutorials-terraform-293992cc.md) |
 | xavki/vagrant-stacks-library | partial | 2026-06-21T11:06:12.528Z | [open](../records/repository-workplaces-xavki-vagrant-stacks-library-9b9d6de1.md) |
-| yaook/operator | partial | 2026-09-01T13:09:15.590Z | [open](../records/repository-workplaces-yaook-operator-aa452dcd.md) |
+| yaook/operator | partial | 2026-09-01T15:59:41.685Z | [open](../records/repository-workplaces-yaook-operator-aa452dcd.md) |

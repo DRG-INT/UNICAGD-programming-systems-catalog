@@ -4,23 +4,23 @@
 
 ## Category Index
 
-[Api Abi Checker (171)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (37)](by-category/assertion-mocking.md) · [Async Runtime (113)](by-category/async-runtime.md)
-[Benchmarking (93)](by-category/benchmarking.md) · [Build System (721)](by-category/build-system.md) · [Cli (478)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
-[Community Reference (80)](by-category/community-reference.md) · [Compiler (146)](by-category/compiler.md) · [Compiler Diagnostics (22)](by-category/compiler-diagnostics.md) · [Compression (42)](by-category/compression.md)
-[Concurrency Parallelism (68)](by-category/concurrency-parallelism.md) · [Configuration (93)](by-category/configuration.md) · [Container Deployment (7)](by-category/container-deployment.md) · [Coverage (11)](by-category/coverage.md)
-[Cryptography (152)](by-category/cryptography.md) · [Data Science (32)](by-category/data-science.md) · [Database Datastore (517)](by-category/database-datastore.md) · [Datetime (135)](by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (39)](by-category/debugger.md) · [Dependency Manager (74)](by-category/dependency-manager.md) · [Documentation (73)](by-category/documentation.md)
-[Embedded Hardware (42)](by-category/embedded-hardware.md) · [Ffi Bindings (361)](by-category/ffi-bindings.md) · [Filesystem Os (1053)](by-category/filesystem-os.md) · [Formatter (511)](by-category/formatter.md)
-[Framework (42)](by-category/framework.md) · [Fuzzer (43)](by-category/fuzzer.md) · [Game Engine Game Dev (131)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1018)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (212)](by-category/image-audio-dsp.md) · [Interop Bindings (50)](by-category/interop-bindings.md) · [Interpreter Runtime (194)](by-category/interpreter-runtime.md) · [Jit Vm (56)](by-category/jit-vm.md)
-[Language Server (26)](by-category/language-server.md) · [Language Specification (1060)](by-category/language-specification.md) · [Library (4575)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (40)](by-category/lint-rule-pack.md) · [Linter (342)](by-category/linter.md) · [Logging Observability (315)](by-category/logging-observability.md) · [Machine Learning (533)](by-category/machine-learning.md)
-[Math Numeric Scientific (76)](by-category/math-numeric-scientific.md) · [Memory Analyzer (71)](by-category/memory-analyzer.md) · [Message Broker (29)](by-category/message-broker.md) · [Networking Http (817)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (236)](by-category/package-manager.md) · [Parser Lexer Ast (842)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (227)](by-category/precommit-ci-quality.md)
-[Profiler (64)](by-category/profiler.md) · [Project Scaffolding (102)](by-category/project-scaffolding.md) · [Registry Repository (107)](by-category/registry-repository.md) · [Sanitizer (11)](by-category/sanitizer.md)
-[Security Sast (284)](by-category/security-sast.md) · [Serialization (320)](by-category/serialization.md) · [Standard Library (23)](by-category/standard-library.md) · [Static Analyzer (396)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (475)](by-category/testing-framework.md) · [Tutorial Book Styleguide (51)](by-category/tutorial-book-styleguide.md) · [Type Checker (276)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1291)](by-category/undefined-behavior-analyzer.md) · [Utility Library (89)](by-category/utility-library.md) · [Visualization Gui (381)](by-category/visualization-gui.md) · [Web Framework (329)](by-category/web-framework.md)
+[Api Abi Checker (173)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (40)](by-category/assertion-mocking.md) · [Async Runtime (119)](by-category/async-runtime.md)
+[Benchmarking (100)](by-category/benchmarking.md) · [Build System (764)](by-category/build-system.md) · [Cli (484)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Community Reference (80)](by-category/community-reference.md) · [Compiler (155)](by-category/compiler.md) · [Compiler Diagnostics (22)](by-category/compiler-diagnostics.md) · [Compression (42)](by-category/compression.md)
+[Concurrency Parallelism (70)](by-category/concurrency-parallelism.md) · [Configuration (94)](by-category/configuration.md) · [Container Deployment (8)](by-category/container-deployment.md) · [Coverage (11)](by-category/coverage.md)
+[Cryptography (153)](by-category/cryptography.md) · [Data Science (32)](by-category/data-science.md) · [Database Datastore (638)](by-category/database-datastore.md) · [Datetime (143)](by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (40)](by-category/debugger.md) · [Dependency Manager (79)](by-category/dependency-manager.md) · [Documentation (77)](by-category/documentation.md)
+[Embedded Hardware (43)](by-category/embedded-hardware.md) · [Ffi Bindings (367)](by-category/ffi-bindings.md) · [Filesystem Os (1080)](by-category/filesystem-os.md) · [Formatter (526)](by-category/formatter.md)
+[Framework (44)](by-category/framework.md) · [Fuzzer (45)](by-category/fuzzer.md) · [Game Engine Game Dev (135)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1072)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (216)](by-category/image-audio-dsp.md) · [Interop Bindings (52)](by-category/interop-bindings.md) · [Interpreter Runtime (216)](by-category/interpreter-runtime.md) · [Jit Vm (56)](by-category/jit-vm.md)
+[Language Server (26)](by-category/language-server.md) · [Language Specification (1189)](by-category/language-specification.md) · [Library (4647)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (40)](by-category/lint-rule-pack.md) · [Linter (344)](by-category/linter.md) · [Logging Observability (317)](by-category/logging-observability.md) · [Machine Learning (544)](by-category/machine-learning.md)
+[Math Numeric Scientific (78)](by-category/math-numeric-scientific.md) · [Memory Analyzer (73)](by-category/memory-analyzer.md) · [Message Broker (31)](by-category/message-broker.md) · [Networking Http (883)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (244)](by-category/package-manager.md) · [Parser Lexer Ast (866)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (252)](by-category/precommit-ci-quality.md)
+[Profiler (66)](by-category/profiler.md) · [Project Scaffolding (107)](by-category/project-scaffolding.md) · [Registry Repository (107)](by-category/registry-repository.md) · [Sanitizer (12)](by-category/sanitizer.md)
+[Security Sast (306)](by-category/security-sast.md) · [Serialization (361)](by-category/serialization.md) · [Standard Library (23)](by-category/standard-library.md) · [Static Analyzer (406)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (486)](by-category/testing-framework.md) · [Tutorial Book Styleguide (52)](by-category/tutorial-book-styleguide.md) · [Type Checker (276)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (1328)](by-category/undefined-behavior-analyzer.md) · [Utility Library (89)](by-category/utility-library.md) · [Visualization Gui (389)](by-category/visualization-gui.md) · [Web Framework (372)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -1030,6 +1030,7 @@
 | `cran_packages_by_date-273df106ce8bb6` | evoFE | [open](records/r-evofe-21bb898e.md) |
 | `cran_packages_by_date-282de0117b0c48` | rankingQ | [open](records/r-rankingq-dcabb7ee.md) |
 | `cran_packages_by_date-2845a881918a43` | clipp | [open](records/r-clipp-54988171.md) |
+| `cran_packages_by_date-28512217134303` | SimpleUpset | [open](records/r-simpleupset-c56c376c.md) |
 | `cran_packages_by_date-286759c2e5a8ee` | ExpDesignR | [open](records/r-expdesignr-ca6d468b.md) |
 | `cran_packages_by_date-287882bea78496` | rix | [open](records/r-rix-fccc1330.md) |
 | `cran_packages_by_date-287c38c0038714` | edfinr | [open](records/r-edfinr-795a1ce1.md) |
@@ -1851,6 +1852,7 @@
 | `cran_packages_by_date-ba526b492801ea` | logger | [open](records/r-logger-6bd2e0a0.md) |
 | `cran_packages_by_date-ba554ecacedb79` | RobustMetrics | [open](records/r-robustmetrics-05df165d.md) |
 | `cran_packages_by_date-babcfa35a5f581` | ggm | [open](records/r-ggm-6ef30c61.md) |
+| `cran_packages_by_date-bacb75e8391c7a` | kstMatrix | [open](records/r-kstmatrix-b1aac5cc.md) |
 | `cran_packages_by_date-badeee2f141267` | tinyrox | [open](records/r-tinyrox-ec93aad4.md) |
 | `cran_packages_by_date-badf60082c1f11` | tidyEmoji | [open](records/r-tidyemoji-c99524d1.md) |
 | `cran_packages_by_date-bb0c2cb7804005` | psreplicate | [open](records/r-psreplicate-8c410efc.md) |
@@ -2096,6 +2098,7 @@
 | `cran_packages_by_date-e4f8999643bac8` | prospectr | [open](records/r-prospectr-12af5640.md) |
 | `cran_packages_by_date-e4ff6ddb923e32` | multichainr | [open](records/r-multichainr-a64dc4d0.md) |
 | `cran_packages_by_date-e50a5f57e2bc5e` | glmbayesCore | [open](records/r-glmbayescore-4ea591fe.md) |
+| `cran_packages_by_date-e588c5ac249184` | occCite | [open](records/r-occcite-1c3f2ee1.md) |
 | `cran_packages_by_date-e5a85936d60354` | gbif.range | [open](records/r-gbif-range-527eaf4d.md) |
 | `cran_packages_by_date-e5dd365da02e7a` | reactRouter | [open](records/r-reactrouter-331dc40d.md) |
 | `cran_packages_by_date-e6155a81157a95` | pagedown | [open](records/r-pagedown-0f6fe140.md) |
@@ -2126,6 +2129,7 @@
 | `cran_packages_by_date-eb29e544fbd46d` | RCtest | [open](records/r-rctest-0fc77196.md) |
 | `cran_packages_by_date-eb34bc3c7495a1` | metalite.ae | [open](records/r-metalite-ae-bd585728.md) |
 | `cran_packages_by_date-eb3685dca2dd98` | Familia | [open](records/r-familia-05e7de00.md) |
+| `cran_packages_by_date-eb3d351637d5d1` | gseries | [open](records/r-gseries-a7e7405a.md) |
 | `cran_packages_by_date-eb59637cd1477c` | citcdf | [open](records/r-citcdf-34c124c6.md) |
 | `cran_packages_by_date-eb8f6940e631c5` | rcontroll | [open](records/r-rcontroll-3db49076.md) |
 | `cran_packages_by_date-eb9c2eac6a6b83` | lrstat | [open](records/r-lrstat-d346572b.md) |
@@ -4894,6 +4898,149 @@
 | `curated_repository_workplace_routes-faf78b41bfba06` | Gerrit Code Review | [open](records/repository-workplaces-gerrit-code-review-eb4dd8f3.md) |
 | `curated_repository_workplace_routes-fd8c5357b92387` | GitLab CLI | [open](records/repository-workplaces-gitlab-cli-56a6b9f6.md) |
 | `curated_repository_workplace_routes-ff2bb58901aedc` | Codeberg | [open](records/repository-workplaces-codeberg-5d24942a.md) |
+| `gitea_repositories_api-036ecd3b142d1d` | Gitea: intsigdev/devops | [open](records/repository-workplaces-gitea-intsigdev-devops-1aca4b40.md) |
+| `gitea_repositories_api-0682940a9e6154` | Gitea: VitorDiv/devops-pipeline | [open](records/repository-workplaces-gitea-vitordiv-devops-pipeline-b7f831c7.md) |
+| `gitea_repositories_api-06a7bea14e1822` | Gitea: Azuma/ASCII-To-Hexadecimal | [open](records/repository-workplaces-gitea-azuma-ascii-to-hexadecimal-a6c9bbae.md) |
+| `gitea_repositories_api-07f9c7c2b63628` | Gitea: ks/devops | [open](records/repository-workplaces-gitea-ks-devops-df7f89af.md) |
+| `gitea_repositories_api-0861871ec70a0e` | Gitea: katyByrden/Devops | [open](records/repository-workplaces-gitea-katybyrden-devops-c415bfbf.md) |
+| `gitea_repositories_api-091cfe94cb6d70` | Gitea: nesin/audacity | [open](records/repository-workplaces-gitea-nesin-audacity-f5afbba1.md) |
+| `gitea_repositories_api-096cbe37d5ee18` | Gitea: 0x61nas/aarty | [open](records/repository-workplaces-gitea-0x61nas-aarty-6aeebbea.md) |
+| `gitea_repositories_api-0c3be4e6d7eaa5` | Gitea: Putogiteademierda/21eyay8qeyciubaya | [open](records/repository-workplaces-gitea-putogiteademierda-21eyay8qeyciubaya-2ed450c9.md) |
+| `gitea_repositories_api-11b1fe1f19ca13` | Gitea: otiozee/ascii-arts | [open](records/repository-workplaces-gitea-otiozee-ascii-arts-c7240f27.md) |
+| `gitea_repositories_api-14ce3154aae5fb` | Gitea: mo3az/-piscine-go | [open](records/repository-workplaces-gitea-mo3az-piscine-go-38535a48.md) |
+| `gitea_repositories_api-1702030cecfacf` | Gitea: IdeaCentral/AI-Observer-experiment | [open](records/repository-workplaces-gitea-ideacentral-ai-observer-experiment-6c2dbdf4.md) |
+| `gitea_repositories_api-1771632b41cafa` | Gitea: sbwml/alist | [open](records/repository-workplaces-gitea-sbwml-alist-2d556110.md) |
+| `gitea_repositories_api-17c57f3c07e034` | Gitea: otiozee/ascii-art | [open](records/repository-workplaces-gitea-otiozee-ascii-art-ce13f575.md) |
+| `gitea_repositories_api-1a5e07a59e769c` | Gitea: sillyguodong/asciicast_test | [open](records/repository-workplaces-gitea-sillyguodong-asciicast-test-bbac7031.md) |
+| `gitea_repositories_api-1bdbba75a5668e` | Gitea: portellam2/guest-machine-guide | [open](records/repository-workplaces-gitea-portellam2-guest-machine-guide-87454a0c.md) |
+| `gitea_repositories_api-1dd2e8fddba91b` | Gitea: we8tguivdbsd/21eyay8qeyciubaya | [open](records/repository-workplaces-gitea-we8tguivdbsd-21eyay8qeyciubaya-47fe49cc.md) |
+| `gitea_repositories_api-1e0c4db1b84530` | Gitea: sivajothi/DevOpsDemo | [open](records/repository-workplaces-gitea-sivajothi-devopsdemo-8506bea8.md) |
+| `gitea_repositories_api-1e7f3dd451cbce` | Gitea: zaccesss/.profile | [open](records/repository-workplaces-gitea-zaccesss-profile-898ffe18.md) |
+| `gitea_repositories_api-20cb1290203ad6` | Gitea: Vikt0ria0/devops | [open](records/repository-workplaces-gitea-vikt0ria0-devops-876b86c8.md) |
+| `gitea_repositories_api-20f70df7394377` | Gitea: rammiah/caddy | [open](records/repository-workplaces-gitea-rammiah-caddy-a558d1df.md) |
+| `gitea_repositories_api-214672a1e76cf3` | Gitea: TableTab/config-server | [open](records/repository-workplaces-gitea-tabletab-config-server-4dc7a6c4.md) |
+| `gitea_repositories_api-222ed8fa32113b` | Gitea: goftp/ftpd | [open](records/repository-workplaces-gitea-goftp-ftpd-baae7a51.md) |
+| `gitea_repositories_api-2382102455f115` | Gitea: oxm3nto/Bash-For-Basic-DevOps | [open](records/repository-workplaces-gitea-oxm3nto-bash-for-basic-devops-6deb3d49.md) |
+| `gitea_repositories_api-240dca753330ca` | Gitea: OpenSource-Auth/auth-server-backup | [open](records/repository-workplaces-gitea-opensource-auth-auth-server-backup-6d7e0f82.md) |
+| `gitea_repositories_api-26433e7f46279c` | Gitea: lunny/levelqueue | [open](records/repository-workplaces-gitea-lunny-levelqueue-396594f9.md) |
+| `gitea_repositories_api-29b26d7eb90aaf` | Gitea: galaxy-future/alist | [open](records/repository-workplaces-gitea-galaxy-future-alist-0e422fd3.md) |
+| `gitea_repositories_api-2bae5d57e8a9ed` | Gitea: best-iptv-service-provider-2026/Best-IPTV-USA-2026-Providers-Pricing-Devices-Guide | [open](records/repository-workplaces-gitea-best-iptv-service-provider-2026-best-iptv-usa-2026-providers-pricing-devices-guide-06499f89.md) |
+| `gitea_repositories_api-2e079a9c89bff7` | Gitea: Taizukii/agario-server-db | [open](records/repository-workplaces-gitea-taizukii-agario-server-db-49452ff3.md) |
+| `gitea_repositories_api-2ef2fc0cca80f5` | Gitea: lunny/weixinapp | [open](records/repository-workplaces-gitea-lunny-weixinapp-6304711b.md) |
+| `gitea_repositories_api-2f7da69ec16bd6` | Gitea: sinus/admin_panel-server-alpacino | [open](records/repository-workplaces-gitea-sinus-admin-panel-server-alpacino-60f62c2b.md) |
+| `gitea_repositories_api-3020d39d3163fd` | Gitea: blancheturner/aws-dva-c02-aws-certified-developer-associate-dumps | [open](records/repository-workplaces-gitea-blancheturner-aws-dva-c02-aws-certified-developer-associate-dumps-d826dd96.md) |
+| `gitea_repositories_api-30ea926c5a6d7e` | Gitea: 0b1tadmin/1-12-2_server | [open](records/repository-workplaces-gitea-0b1tadmin-1-12-2-server-e2800008.md) |
+| `gitea_repositories_api-323ebfec2cb285` | Gitea: avagarcia000/Avagarcia-s-works | [open](records/repository-workplaces-gitea-avagarcia000-avagarcia-s-works-97423086.md) |
+| `gitea_repositories_api-32a5b875dc68f9` | Gitea: benito.rodriguez/ASCII_ROMPECABEZAS | [open](records/repository-workplaces-gitea-benito-rodriguez-ascii-rompecabezas-4bd6f9e4.md) |
+| `gitea_repositories_api-352b2dd86e29d1` | Gitea: baocode0411/ascii-art | [open](records/repository-workplaces-gitea-baocode0411-ascii-art-6dc39c37.md) |
+| `gitea_repositories_api-35879635f8b65a` | Gitea: afzal/bangladesh-struggle-for-independence | [open](records/repository-workplaces-gitea-afzal-bangladesh-struggle-for-independence-572a75c0.md) |
+| `gitea_repositories_api-35b1b1e54583c7` | Gitea: kmpm/edit-server | [open](records/repository-workplaces-gitea-kmpm-edit-server-3083a1fa.md) |
+| `gitea_repositories_api-3619673890bb95` | Gitea: awdscan/awdscanserver | [open](records/repository-workplaces-gitea-awdscan-awdscanserver-8258eaa2.md) |
+| `gitea_repositories_api-3628d0353c6902` | Gitea: OpenSource-Auth/auth-server-v2-backup | [open](records/repository-workplaces-gitea-opensource-auth-auth-server-v2-backup-26ca45ac.md) |
+| `gitea_repositories_api-3909461f3195d0` | Gitea: ksaleem/bh-piscine | [open](records/repository-workplaces-gitea-ksaleem-bh-piscine-f22b43f5.md) |
+| `gitea_repositories_api-3969c7028a1099` | Gitea: rickyboy1234567890/ascii-art | [open](records/repository-workplaces-gitea-rickyboy1234567890-ascii-art-7a51e08b.md) |
+| `gitea_repositories_api-3ab26cc8e8e66d` | Gitea: boulahya/all_c_exercices | [open](records/repository-workplaces-gitea-boulahya-all-c-exercices-cb94baf8.md) |
+| `gitea_repositories_api-3b4e314a65814e` | Gitea: AndreyWorker312/chat-server | [open](records/repository-workplaces-gitea-andreyworker312-chat-server-e85b70ea.md) |
+| `gitea_repositories_api-3cd00bf5e01090` | Gitea: Cloud_GitDevSecOps/DevOps | [open](records/repository-workplaces-gitea-cloud-gitdevsecops-devops-a02af9b3.md) |
+| `gitea_repositories_api-3cd95565f5055d` | Gitea: dasdas/codebase-memory-mcp | [open](records/repository-workplaces-gitea-dasdas-codebase-memory-mcp-083ad75c.md) |
+| `gitea_repositories_api-3e330316d94bac` | Gitea: docker_test/db2 | [open](records/repository-workplaces-gitea-docker-test-db2-173a455c.md) |
+| `gitea_repositories_api-42bcf4d07cd1be` | Gitea: EasterTheBunny/ftp_server | [open](records/repository-workplaces-gitea-easterthebunny-ftp-server-4f03e8e6.md) |
+| `gitea_repositories_api-43a36b4f5602bd` | Gitea: vallu/ascii_eng | [open](records/repository-workplaces-gitea-vallu-ascii-eng-13c4106a.md) |
+| `gitea_repositories_api-479ea948259400` | Gitea: unatick/1panel-runtime-update | [open](records/repository-workplaces-gitea-unatick-1panel-runtime-update-98638045.md) |
+| `gitea_repositories_api-49b4074aa9df2a` | Gitea: bkikenski/DevOps-Demo-Project | [open](records/repository-workplaces-gitea-bkikenski-devops-demo-project-e84af9d7.md) |
+| `gitea_repositories_api-4b20fd095d8526` | Gitea: KartikSharma2442/Artificial | [open](records/repository-workplaces-gitea-kartiksharma2442-artificial-dec5f16f.md) |
+| `gitea_repositories_api-4b80b3f7279505` | Gitea: bgszz/BelajarDevops | [open](records/repository-workplaces-gitea-bgszz-belajardevops-9d059931.md) |
+| `gitea_repositories_api-4ba3f272fe77b5` | Gitea: freezmeinster/apisix-docker | [open](records/repository-workplaces-gitea-freezmeinster-apisix-docker-88600e8a.md) |
+| `gitea_repositories_api-4eb10eb65ce335` | Gitea: tionis/external-lfs-server-bug | [open](records/repository-workplaces-gitea-tionis-external-lfs-server-bug-4e705431.md) |
+| `gitea_repositories_api-508fe856a67a5b` | Gitea: zhangxian/Data-Server | [open](records/repository-workplaces-gitea-zhangxian-data-server-d4f062f7.md) |
+| `gitea_repositories_api-50af53af382bbd` | Gitea: webixbest/best-iptv-server | [open](records/repository-workplaces-gitea-webixbest-best-iptv-server-b8e49d1f.md) |
+| `gitea_repositories_api-50eee7153d01a1` | Gitea: AaronFiore/btcpayserver-docker | [open](records/repository-workplaces-gitea-aaronfiore-btcpayserver-docker-65536044.md) |
+| `gitea_repositories_api-51ce29f02f82f9` | Gitea: pogoParty/coqui-tts-server | [open](records/repository-workplaces-gitea-pogoparty-coqui-tts-server-0b3bb8e3.md) |
+| `gitea_repositories_api-57af9d3e4452e1` | Gitea: dhruv_patel/express | [open](records/repository-workplaces-gitea-dhruv-patel-express-37b47e60.md) |
+| `gitea_repositories_api-5955831f042ea6` | Gitea: APYieldFarmer/devops | [open](records/repository-workplaces-gitea-apyieldfarmer-devops-0041de3d.md) |
+| `gitea_repositories_api-5a6ab174086f25` | Gitea: ElliotRedmond/Achieve-Cisco-300-730-Certification-Success--Your-Strategic-Partner-with-CertsBoard | [open](records/repository-workplaces-gitea-elliotredmond-achieve-cisco-300-730-certification-success-your-strategic-partner-with-certsboard-45c77640.md) |
+| `gitea_repositories_api-5ea5bb268c0b21` | Gitea: plumbum/esim-server | [open](records/repository-workplaces-gitea-plumbum-esim-server-717006d2.md) |
+| `gitea_repositories_api-611a28154fe17f` | Gitea: afzal/bangladesh-land-law-treatise | [open](records/repository-workplaces-gitea-afzal-bangladesh-land-law-treatise-8fcb7e22.md) |
+| `gitea_repositories_api-65bf42fdc67696` | Gitea: zhangyunfei/devops | [open](records/repository-workplaces-gitea-zhangyunfei-devops-d2c588aa.md) |
+| `gitea_repositories_api-6ce58a05f5e528` | Gitea: KirilKirilov96/devops | [open](records/repository-workplaces-gitea-kirilkirilov96-devops-9f15a57e.md) |
+| `gitea_repositories_api-6d3d70cdb15315` | Gitea: guywhodiesfirst/devops-lab-4 | [open](records/repository-workplaces-gitea-guywhodiesfirst-devops-lab-4-3086fefe.md) |
+| `gitea_repositories_api-6d725a656d9125` | Gitea: lgh06/APIJSON | [open](records/repository-workplaces-gitea-lgh06-apijson-d0a8c67b.md) |
+| `gitea_repositories_api-6de045c964171a` | Gitea: rhutvik14/Artificial-intelligence-Functions | [open](records/repository-workplaces-gitea-rhutvik14-artificial-intelligence-functions-c89281bb.md) |
+| `gitea_repositories_api-6ea03c3b39c21f` | Gitea: cvmuser1000/collab-vm-1.2-server-bettetweak-better | [open](records/repository-workplaces-gitea-cvmuser1000-collab-vm-1-2-server-bettetweak-better-40a2c6fe.md) |
+| `gitea_repositories_api-6fdf902a716516` | Gitea: grokmeme/gpt4free | [open](records/repository-workplaces-gitea-grokmeme-gpt4free-36288b9f.md) |
+| `gitea_repositories_api-72869bb801a199` | Gitea: yuhaozi2/aigc-platform-server | [open](records/repository-workplaces-gitea-yuhaozi2-aigc-platform-server-55f2ef02.md) |
+| `gitea_repositories_api-74920c0b34d10b` | Gitea: quxiaorui/action-send-mail | [open](records/repository-workplaces-gitea-quxiaorui-action-send-mail-a8703907.md) |
+| `gitea_repositories_api-757450376a9b00` | Gitea: huangxinyu/devops-demo | [open](records/repository-workplaces-gitea-huangxinyu-devops-demo-9b696c75.md) |
+| `gitea_repositories_api-7ce6355c72efb4` | Gitea: mustang2247/common-admin-server | [open](records/repository-workplaces-gitea-mustang2247-common-admin-server-7e0a4a21.md) |
+| `gitea_repositories_api-7e014f60286511` | Gitea: betartib/apiserver | [open](records/repository-workplaces-gitea-betartib-apiserver-7fe40dbb.md) |
+| `gitea_repositories_api-7fb31d0b751222` | Gitea: hasanalperen/devops | [open](records/repository-workplaces-gitea-hasanalperen-devops-99a75b26.md) |
+| `gitea_repositories_api-815bff51f30977` | Gitea: ndroid/admin_panel-server-alpacino | [open](records/repository-workplaces-gitea-ndroid-admin-panel-server-alpacino-13a7886d.md) |
+| `gitea_repositories_api-88d781cdbf4ace` | Gitea: JaffarNasir/188BET--Discover-the-Exciting-World-of-Casino-188BET | [open](records/repository-workplaces-gitea-jaffarnasir-188bet-discover-the-exciting-world-of-casino-188bet-7fdea9a1.md) |
+| `gitea_repositories_api-8d3f71dfd7e7a8` | Gitea: palmcoasty/bunkerweb | [open](records/repository-workplaces-gitea-palmcoasty-bunkerweb-ad9b3891.md) |
+| `gitea_repositories_api-9411c7df9b9904` | Gitea: alesha228/astrum-lucis-weather-app | [open](records/repository-workplaces-gitea-alesha228-astrum-lucis-weather-app-82652e3b.md) |
+| `gitea_repositories_api-95c1d56b8e756f` | Gitea: wa-lang/wa | [open](records/repository-workplaces-gitea-wa-lang-wa-c1d6dd94.md) |
+| `gitea_repositories_api-95f135e92c2c13` | Gitea: Wyq/DevOpsT | [open](records/repository-workplaces-gitea-wyq-devopst-c5e36431.md) |
+| `gitea_repositories_api-96a9f4c928445c` | Gitea: franklxw/action-setup | [open](records/repository-workplaces-gitea-franklxw-action-setup-ed18751e.md) |
+| `gitea_repositories_api-96db2b11bda1fd` | Gitea: baocode0411/ascii-art-web | [open](records/repository-workplaces-gitea-baocode0411-ascii-art-web-e9dce736.md) |
+| `gitea_repositories_api-99ce2ca23c3031` | Gitea: arvin.zhang/findserver | [open](records/repository-workplaces-gitea-arvin-zhang-findserver-7ce28e17.md) |
+| `gitea_repositories_api-9e42560a81f347` | Gitea: lunny/weixinpay | [open](records/repository-workplaces-gitea-lunny-weixinpay-043d3749.md) |
+| `gitea_repositories_api-9ea4ff87247a7a` | Gitea: martinjohny167/cdevops-jenkins | [open](records/repository-workplaces-gitea-martinjohny167-cdevops-jenkins-19670642.md) |
+| `gitea_repositories_api-a00dbee876b49a` | Gitea: Elight-dotcom/devops | [open](records/repository-workplaces-gitea-elight-dotcom-devops-fedd520e.md) |
+| `gitea_repositories_api-a10171661b24d0` | Gitea: portellam1/auto-xorg | [open](records/repository-workplaces-gitea-portellam1-auto-xorg-fa98ab13.md) |
+| `gitea_repositories_api-a13ff44ad3c452` | Gitea: serpdotai/V3CTRON-vector-database-embedding-neural-search-retrieval-chatgpt-plugin | [open](records/repository-workplaces-gitea-serpdotai-v3ctron-vector-database-embedding-neural-search-retrieval-chatgpt-plugin-4865c7de.md) |
+| `gitea_repositories_api-a5aa9b3652cc57` | Gitea: ZhuWangPeng/base_api_server | [open](records/repository-workplaces-gitea-zhuwangpeng-base-api-server-3ed56e09.md) |
+| `gitea_repositories_api-a69bbd45a051e1` | Gitea: nhanpt/config-server-test | [open](records/repository-workplaces-gitea-nhanpt-config-server-test-694815eb.md) |
+| `gitea_repositories_api-a7df55b5d167d8` | Gitea: panda99/devops | [open](records/repository-workplaces-gitea-panda99-devops-762f09f8.md) |
+| `gitea_repositories_api-a8787d0e3ffb8e` | Gitea: IvanDorokhov/DevOps | [open](records/repository-workplaces-gitea-ivandorokhov-devops-5c18814f.md) |
+| `gitea_repositories_api-aa8a617d3c23a5` | Gitea: Gangavarapu/BOA-VISA-ConfigServer | [open](records/repository-workplaces-gitea-gangavarapu-boa-visa-configserver-08d8af85.md) |
+| `gitea_repositories_api-ab79882ce5f23b` | Gitea: LorenzoSoncini/auth-server | [open](records/repository-workplaces-gitea-lorenzosoncini-auth-server-ec34a1c3.md) |
+| `gitea_repositories_api-ad4c0f02e9dead` | Gitea: liangruisen/action-setup | [open](records/repository-workplaces-gitea-liangruisen-action-setup-434563ff.md) |
+| `gitea_repositories_api-ae92fccb3b2395` | Gitea: siva-praneeth/demo-service-devops | [open](records/repository-workplaces-gitea-siva-praneeth-demo-service-devops-c5281f19.md) |
+| `gitea_repositories_api-b06feab9cc42fb` | Gitea: cristiancuastumal/Agencia-de-viajes | [open](records/repository-workplaces-gitea-cristiancuastumal-agencia-de-viajes-5cfc5e24.md) |
+| `gitea_repositories_api-b0e53fd7a4bfbb` | Gitea: best_iptv_2026/Best-IPTV-Service-Features-Pricing-and-Provider-Guide | [open](records/repository-workplaces-gitea-best-iptv-2026-best-iptv-service-features-pricing-and-provider-guide-b9885a99.md) |
+| `gitea_repositories_api-b13058b51dc0d6` | Gitea: Betsy/Aplicacion | [open](records/repository-workplaces-gitea-betsy-aplicacion-781d4ca4.md) |
+| `gitea_repositories_api-b2747c5d9e6e51` | Gitea: qiushaocloud/code-server-docker | [open](records/repository-workplaces-gitea-qiushaocloud-code-server-docker-21f8a493.md) |
+| `gitea_repositories_api-b2f1b9bfac3517` | Gitea: arvin.zhang/ftpserver | [open](records/repository-workplaces-gitea-arvin-zhang-ftpserver-63abbca5.md) |
+| `gitea_repositories_api-b42affe7feecbd` | Gitea: admpub/ftpserver | [open](records/repository-workplaces-gitea-admpub-ftpserver-f1e4497d.md) |
+| `gitea_repositories_api-b6239eaab64bfc` | Gitea: portellam3/Obsidian-workflow-docs | [open](records/repository-workplaces-gitea-portellam3-obsidian-workflow-docs-c150f9ea.md) |
+| `gitea_repositories_api-b6c8b7a61409cd` | Gitea: B27_ADDIN/B27_CIV_BATCH | [open](records/repository-workplaces-gitea-b27-addin-b27-civ-batch-5c3013c6.md) |
+| `gitea_repositories_api-b956cf2ff088c1` | Gitea: AlehBerasneu/aston_devops_intensive_2025 | [open](records/repository-workplaces-gitea-alehberasneu-aston-devops-intensive-2025-cdb47f54.md) |
+| `gitea_repositories_api-bda80710b8d2c6` | Gitea: lifen/devops-jobs-v2 | [open](records/repository-workplaces-gitea-lifen-devops-jobs-v2-e7e48e9b.md) |
+| `gitea_repositories_api-bdba6b93e873a1` | Gitea: tuulie/ascii-bitwise-chart-tool-for-unix-terminal | [open](records/repository-workplaces-gitea-tuulie-ascii-bitwise-chart-tool-for-unix-terminal-8d18d471.md) |
+| `gitea_repositories_api-bf4bb6b27c7e84` | Gitea: Falcon/Falcon.StoredProcedureRunner | [open](records/repository-workplaces-gitea-falcon-falcon-storedprocedurerunner-aa5c516a.md) |
+| `gitea_repositories_api-bf57441a08e9f0` | Gitea: DeFiLego/devops | [open](records/repository-workplaces-gitea-defilego-devops-855ec672.md) |
+| `gitea_repositories_api-c1d361e320a642` | Gitea: ks2515/codecrafters-http-server-go | [open](records/repository-workplaces-gitea-ks2515-codecrafters-http-server-go-a645fafb.md) |
+| `gitea_repositories_api-c6a9b132a8074b` | Gitea: kalkabena/ASCIIlery-game | [open](records/repository-workplaces-gitea-kalkabena-asciilery-game-26745840.md) |
+| `gitea_repositories_api-c6c2203bff6b0f` | Gitea: Befaci03/collab-vm-1.2-server-bettetweak | [open](records/repository-workplaces-gitea-befaci03-collab-vm-1-2-server-bettetweak-82605f6b.md) |
+| `gitea_repositories_api-c8a640e6419763` | Gitea: sowen1023/coco-server | [open](records/repository-workplaces-gitea-sowen1023-coco-server-6922e537.md) |
+| `gitea_repositories_api-ca1825eda2102f` | Gitea: mspricing/bcpricing | [open](records/repository-workplaces-gitea-mspricing-bcpricing-88b14f8e.md) |
+| `gitea_repositories_api-ca90fe01efa633` | Gitea: Rayn/artificial-potential-field | [open](records/repository-workplaces-gitea-rayn-artificial-potential-field-955c1049.md) |
+| `gitea_repositories_api-cc97ff02a5cc51` | Gitea: lunny/size | [open](records/repository-workplaces-gitea-lunny-size-39ab5da8.md) |
+| `gitea_repositories_api-ccd79d0467b38d` | Gitea: serpdotai/Chat-LLaMA-8bit-LoRA | [open](records/repository-workplaces-gitea-serpdotai-chat-llama-8bit-lora-19437960.md) |
+| `gitea_repositories_api-ce6cae9f49c91a` | Gitea: tayande/ascii-art | [open](records/repository-workplaces-gitea-tayande-ascii-art-456fbf06.md) |
+| `gitea_repositories_api-d338e3e15583a2` | Gitea: luza/ftp-server | [open](records/repository-workplaces-gitea-luza-ftp-server-ce6b9a1e.md) |
+| `gitea_repositories_api-d3bcac48b9fa9b` | Gitea: IDuckOdd/DevOps | [open](records/repository-workplaces-gitea-iduckodd-devops-024d36e6.md) |
+| `gitea_repositories_api-d3d2840b2be4f5` | Gitea: Undone7167/docker-server | [open](records/repository-workplaces-gitea-undone7167-docker-server-3f666e3a.md) |
+| `gitea_repositories_api-d4cad56f233a1e` | Gitea: adityapoonia/chaddserver | [open](records/repository-workplaces-gitea-adityapoonia-chaddserver-08e4e01b.md) |
+| `gitea_repositories_api-d4f10e6e3f8861` | Gitea: LivelyXuan/AOCserver | [open](records/repository-workplaces-gitea-livelyxuan-aocserver-f99e0d43.md) |
+| `gitea_repositories_api-d759cb35498fb3` | Gitea: best-iptv-guide/Best-IPTV-2026--Trusted-Services-Features-Pricing | [open](records/repository-workplaces-gitea-best-iptv-guide-best-iptv-2026-trusted-services-features-pricing-8139c338.md) |
+| `gitea_repositories_api-df02345f9cadfb` | Gitea: goftp/server | [open](records/repository-workplaces-gitea-goftp-server-7512c7a5.md) |
+| `gitea_repositories_api-dfb2cc7d7c46fb` | Gitea: noWie2k/basicImageDeepfakeDetector | [open](records/repository-workplaces-gitea-nowie2k-basicimagedeepfakedetector-b8c1af97.md) |
+| `gitea_repositories_api-e3d99e4a22dfc9` | Gitea: afzal/advocate-narsingdi | [open](records/repository-workplaces-gitea-afzal-advocate-narsingdi-1c730665.md) |
+| `gitea_repositories_api-e41718f91fe3d9` | Gitea: ZhuWangPeng/aping_server | [open](records/repository-workplaces-gitea-zhuwangpeng-aping-server-565043dc.md) |
+| `gitea_repositories_api-e59dab6095273c` | Gitea: RachelGardner/Devops | [open](records/repository-workplaces-gitea-rachelgardner-devops-67978e24.md) |
+| `gitea_repositories_api-e7b1f95c2ebf89` | Gitea: cryptoexplorer/AICRYPTOMINER | [open](records/repository-workplaces-gitea-cryptoexplorer-aicryptominer-63195b59.md) |
+| `gitea_repositories_api-ea1e01138f3722` | Gitea: trabalho/devops-app | [open](records/repository-workplaces-gitea-trabalho-devops-app-c6ffee99.md) |
+| `gitea_repositories_api-ebc5f566810589` | Gitea: Dartrolzul/b1-piscine-java | [open](records/repository-workplaces-gitea-dartrolzul-b1-piscine-java-1d0fa7a8.md) |
+| `gitea_repositories_api-ec4edd9f934476` | Gitea: NotHarshhaa/DevOps-Projects | [open](records/repository-workplaces-gitea-notharshhaa-devops-projects-5de77522.md) |
+| `gitea_repositories_api-ee374d3a9c0979` | Gitea: powerpjvip/download_server | [open](records/repository-workplaces-gitea-powerpjvip-download-server-6cbd8270.md) |
+| `gitea_repositories_api-f028ba13ef74b5` | Gitea: bancethreeleocico/bancethreeleocico | [open](records/repository-workplaces-gitea-bancethreeleocico-bancethreeleocico-7a3e0761.md) |
+| `gitea_repositories_api-f67693e30cd14f` | Gitea: avevlad/act | [open](records/repository-workplaces-gitea-avevlad-act-716d3cec.md) |
+| `gitea_repositories_api-f6a90dd0095731` | Gitea: evgeniy-antonyuk/DocSpace-server | [open](records/repository-workplaces-gitea-evgeniy-antonyuk-docspace-server-e16c0ba8.md) |
+| `gitea_repositories_api-f8364cbac80e0c` | Gitea: martinliu/DevOpsChina | [open](records/repository-workplaces-gitea-martinliu-devopschina-b08aaad7.md) |
+| `gitea_repositories_api-f91b34695076cf` | Gitea: TanThibault/DevOps | [open](records/repository-workplaces-gitea-tanthibault-devops-0375ab8c.md) |
+| `gitea_repositories_api-fd05230da7b4c3` | Gitea: 3rd/gitea | [open](records/repository-workplaces-gitea-3rd-gitea-57181cad.md) |
+| `gitea_repositories_api-fdde8c0dae2ca8` | Gitea: JiXieShi/AutoOpenServer | [open](records/repository-workplaces-gitea-jixieshi-autoopenserver-b6d1b860.md) |
 | `github_search_aims-00a4ebef580424` | rtk-ai/rtk | [open](records/aim-s-rtk-ai-rtk-ba550a2c.md) |
 | `github_search_aims-02d30e8095136b` | pathwaycom/llm-app | [open](records/aim-s-pathwaycom-llm-app-471c77f6.md) |
 | `github_search_aims-06064d6a3cab76` | HKUDS/Vibe-Trading | [open](records/aim-s-hkuds-vibe-trading-eb525e68.md) |
@@ -5004,14 +5151,18 @@
 | `github_search_assembly-083e58072bf854` | HexHive/retrowrite | [open](records/assembly-hexhive-retrowrite-c7fefa2b.md) |
 | `github_search_assembly-0a93f58d73b93c` | pooler/cpuminer | [open](records/assembly-pooler-cpuminer-f94e15ef.md) |
 | `github_search_assembly-0cd9da2dbb2c4c` | cyrus-and/gdb-dashboard | [open](records/assembly-cyrus-and-gdb-dashboard-ef48ce45.md) |
+| `github_search_assembly-0eee93dabcfe73` | 0xADE1A1DE/AssemblyLine | [open](records/assembly-0xade1a1de-assemblyline-114a6144.md) |
 | `github_search_assembly-0f19142719cf03` | awaescher/Fusion | [open](records/assembly-awaescher-fusion-614ef7c1.md) |
 | `github_search_assembly-10008dd3256660` | simon987/Much-Assembly-Required | [open](records/assembly-simon987-much-assembly-required-c15801d9.md) |
 | `github_search_assembly-1082f7a815891c` | needle-tools/compilation-visualizer | [open](records/assembly-needle-tools-compilation-visualizer-d3781e62.md) |
 | `github_search_assembly-10a1ce85701f52` | guitmz/virii | [open](records/assembly-guitmz-virii-ed6ff028.md) |
 | `github_search_assembly-113823984496e2` | z88dk/z88dk | [open](records/assembly-z88dk-z88dk-83b731fe.md) |
 | `github_search_assembly-115cb9a0278f31` | RibShark/OmniDrive | [open](records/assembly-ribshark-omnidrive-32257d20.md) |
+| `github_search_assembly-120f3a4181ce4c` | illegalstudio/elephc | [open](records/assembly-illegalstudio-elephc-5fbaada8.md) |
 | `github_search_assembly-12b50b9178ba32` | pret/pokegold | [open](records/assembly-pret-pokegold-982759e3.md) |
 | `github_search_assembly-1451e7b9fa6c7c` | JSsixtyfour/smashremix | [open](records/assembly-jssixtyfour-smashremix-3676fb2a.md) |
+| `github_search_assembly-15118297c76261` | danielkrupinski/Inflame | [open](records/assembly-danielkrupinski-inflame-6316c79b.md) |
+| `github_search_assembly-1604ff82106e62` | meribold/btry | [open](records/assembly-meribold-btry-acc80abb.md) |
 | `github_search_assembly-1877cd7e0a6b73` | akkartik/mu | [open](records/assembly-akkartik-mu-02abed58.md) |
 | `github_search_assembly-18f41aa98ed7dd` | compiler-explorer/compiler-explorer | [open](records/assembly-compiler-explorer-compiler-explorer-99f6d9ce.md) |
 | `github_search_assembly-19a42594b0f721` | TunSafe/TunSafe | [open](records/assembly-tunsafe-tunsafe-d136fb85.md) |
@@ -5021,6 +5172,7 @@
 | `github_search_assembly-20739bbae96f41` | rigtorp/awesome-lockfree | [open](records/assembly-rigtorp-awesome-lockfree-44d48e4b.md) |
 | `github_search_assembly-213e4eac0d001c` | PDP-10/its | [open](records/assembly-pdp-10-its-cfa6e89a.md) |
 | `github_search_assembly-2540346d133fc1` | mtuomi/SecondReality | [open](records/assembly-mtuomi-secondreality-5c489f57.md) |
+| `github_search_assembly-26757f01b3b3dd` | tgrysztar/fasmg | [open](records/assembly-tgrysztar-fasmg-1281abcb.md) |
 | `github_search_assembly-285e75dd65388e` | vvaltchev/tilck | [open](records/assembly-vvaltchev-tilck-455a611e.md) |
 | `github_search_assembly-28704ab2f2c683` | Zeal8bit/Zeal-8-bit-OS | [open](records/assembly-zeal8bit-zeal-8-bit-os-acb9785d.md) |
 | `github_search_assembly-28b9a3d73b700e` | hugsy/cemu | [open](records/assembly-hugsy-cemu-5b812782.md) |
@@ -5033,9 +5185,13 @@
 | `github_search_assembly-2ee9b632a09b68` | OpenRakis/Spice86 | [open](records/assembly-openrakis-spice86-2cdaf101.md) |
 | `github_search_assembly-2efbea45b2f31d` | chrislgarry/Apollo-11 | [open](records/assembly-chrislgarry-apollo-11-bb6b16f2.md) |
 | `github_search_assembly-2f0202c21e1477` | vector4wang/spring-boot-quick | [open](records/assembly-vector4wang-spring-boot-quick-58ca29aa.md) |
+| `github_search_assembly-31b60678cfda81` | yds12/x64-roadmap | [open](records/assembly-yds12-x64-roadmap-3b9663e2.md) |
+| `github_search_assembly-33d62dde14915a` | io12/BootMine | [open](records/assembly-io12-bootmine-85e26922.md) |
 | `github_search_assembly-361123d5434259` | ashvardanian/NumKong | [open](records/assembly-ashvardanian-numkong-bff1efd3.md) |
+| `github_search_assembly-36f201bc1ada54` | eatonphil/x86e | [open](records/assembly-eatonphil-x86e-a3d2b156.md) |
 | `github_search_assembly-38499739fe5ef5` | dreamportdev/Osdev-Notes | [open](records/assembly-dreamportdev-osdev-notes-0bc186d6.md) |
 | `github_search_assembly-3902764140208d` | microsoft/BASIC-M6502 | [open](records/assembly-microsoft-basic-m6502-66ceb6b5.md) |
+| `github_search_assembly-3ab5262517da40` | DQNEO/minigo | [open](records/assembly-dqneo-minigo-2d87e4eb.md) |
 | `github_search_assembly-3b4195744ce6fa` | dwelch67/raspberrypi | [open](records/assembly-dwelch67-raspberrypi-a219633c.md) |
 | `github_search_assembly-3be1c0546fe6ae` | briansmith/ring | [open](records/assembly-briansmith-ring-3a265118.md) |
 | `github_search_assembly-3c608226afff5f` | mikeroyal/RISC-V-Guide | [open](records/assembly-mikeroyal-risc-v-guide-dfd455c4.md) |
@@ -5047,12 +5203,17 @@
 | `github_search_assembly-41cace1bd72985` | PlummersSoftwareLLC/TinyRetroPad | [open](records/assembly-plummerssoftwarellc-tinyretropad-9938f18a.md) |
 | `github_search_assembly-43f6ceeff5ae7d` | mirrorer/libbpg | [open](records/assembly-mirrorer-libbpg-745138b3.md) |
 | `github_search_assembly-446dd753906123` | OWASP/ZSC | [open](records/assembly-owasp-zsc-566fd5f9.md) |
+| `github_search_assembly-45b5f8ac49eb87` | jofrfu/tinyTPU | [open](records/assembly-jofrfu-tinytpu-55706d65.md) |
+| `github_search_assembly-47049ad5b2212f` | RRZE-HPC/OSACA | [open](records/assembly-rrze-hpc-osaca-67fcadc4.md) |
 | `github_search_assembly-498b64ad8d5f89` | KnightOS/KnightOS | [open](records/assembly-knightos-knightos-0141de07.md) |
 | `github_search_assembly-4a16224f8bf5ca` | blackbird71SR/Hello-World | [open](records/assembly-blackbird71sr-hello-world-2fa43546.md) |
 | `github_search_assembly-4aeea5e75a80a1` | below/HelloSilicon | [open](records/assembly-below-hellosilicon-8ff6614f.md) |
 | `github_search_assembly-4c5bc5aeab7bbd` | vygr/ChrysaLisp | [open](records/assembly-vygr-chrysalisp-0e234f7b.md) |
+| `github_search_assembly-4d81d7e709bd59` | XXIIVV/oscean | [open](records/assembly-xxiivv-oscean-5e954d22.md) |
 | `github_search_assembly-4d8d8b6dab1ba4` | HazyResearch/hyena-dna | [open](records/assembly-hazyresearch-hyena-dna-32e6b277.md) |
+| `github_search_assembly-4decd4e92c1c2d` | vonsim/vonsim | [open](records/assembly-vonsim-vonsim-6a8ef78f.md) |
 | `github_search_assembly-4f6552284ed525` | EgeBalci/amber | [open](records/assembly-egebalci-amber-f47feef1.md) |
+| `github_search_assembly-4fdf3aaaca9926` | tboox/vm86 | [open](records/assembly-tboox-vm86-b9f240c2.md) |
 | `github_search_assembly-4ff94f5fc9b3c9` | PaddlePaddle/FlyCV | [open](records/assembly-paddlepaddle-flycv-f974ea6f.md) |
 | `github_search_assembly-5203b5deba4395` | espressif/esp-dl | [open](records/assembly-espressif-esp-dl-82fca433.md) |
 | `github_search_assembly-5497337657214f` | hasherezade/malware_training_vol1 | [open](records/assembly-hasherezade-malware-training-vol1-897623a6.md) |
@@ -5074,9 +5235,11 @@
 | `github_search_assembly-638d220d647015` | ujjwal-kr/system-programming-roadmap | [open](records/assembly-ujjwal-kr-system-programming-roadmap-128f664f.md) |
 | `github_search_assembly-66780b5adbf20c` | kaxap/arl | [open](records/assembly-kaxap-arl-19c4f0de.md) |
 | `github_search_assembly-68e7ee195f7284` | tgrysztar/fasm | [open](records/assembly-tgrysztar-fasm-9d9633d5.md) |
+| `github_search_assembly-69487b430f153a` | ClementTsang/rustcc | [open](records/assembly-clementtsang-rustcc-81a87799.md) |
 | `github_search_assembly-6a84b4e1bf478b` | SpinalHDL/VexRiscv | [open](records/assembly-spinalhdl-vexriscv-32462403.md) |
 | `github_search_assembly-6abc7c3e9d0b71` | netwide-assembler/nasm | [open](records/assembly-netwide-assembler-nasm-7b1656d3.md) |
 | `github_search_assembly-6d011e690d010d` | JustasMasiulis/inline_syscall | [open](records/assembly-justasmasiulis-inline-syscall-0c8a798a.md) |
+| `github_search_assembly-6d0f9978d829e0` | Specy/asm-editor | [open](records/assembly-specy-asm-editor-c3b9e30b.md) |
 | `github_search_assembly-6db95e5743d88f` | cirosantilli/x86-assembly-cheat | [open](records/assembly-cirosantilli-x86-assembly-cheat-6fe4201b.md) |
 | `github_search_assembly-6e0285a97d7fbe` | matanki-saito/EU4dll | [open](records/assembly-matanki-saito-eu4dll-aedee506.md) |
 | `github_search_assembly-6fb7aed70637dd` | fcambus/spleen | [open](records/assembly-fcambus-spleen-889e6477.md) |
@@ -5085,6 +5248,8 @@
 | `github_search_assembly-72512a256e4cc5` | Unity-Technologies/com.unity.webrtc | [open](records/assembly-unity-technologies-com-unity-webrtc-4e7b1f20.md) |
 | `github_search_assembly-728ed7eadfe1a0` | adriancable/8086tiny | [open](records/assembly-adriancable-8086tiny-c1d50ad4.md) |
 | `github_search_assembly-73e754a2afd809` | wgtdkp/wgtcc | [open](records/assembly-wgtdkp-wgtcc-991c7fcc.md) |
+| `github_search_assembly-73f2779f8d73ca` | snowsnowsnows/EagleVM | [open](records/assembly-snowsnowsnows-eaglevm-dafb0015.md) |
+| `github_search_assembly-743c842131a6bd` | IDouble/x86-Assembly-Reverse-Engineering | [open](records/assembly-idouble-x86-assembly-reverse-engineering-fc5247ea.md) |
 | `github_search_assembly-75e8508a36c0d2` | minio/highwayhash | [open](records/assembly-minio-highwayhash-5634a2cc.md) |
 | `github_search_assembly-7607be9518fcc6` | Apress/low-level-programming | [open](records/assembly-apress-low-level-programming-3b2dd27a.md) |
 | `github_search_assembly-764ced6f555880` | openhwgroup/cva6 | [open](records/assembly-openhwgroup-cva6-c0f79b44.md) |
@@ -5092,15 +5257,21 @@
 | `github_search_assembly-7e13c61c108632` | RandalLinden/DOOM-FX | [open](records/assembly-randallinden-doom-fx-76b45172.md) |
 | `github_search_assembly-7e5a415d04c8a3` | pacak/cargo-show-asm | [open](records/assembly-pacak-cargo-show-asm-9459d0cc.md) |
 | `github_search_assembly-7ed78950c00a77` | CensoredUsername/dynasm-rs | [open](records/assembly-censoredusername-dynasm-rs-c02f4bf6.md) |
+| `github_search_assembly-7fa932a5cb003d` | shikaan/osle | [open](records/assembly-shikaan-osle-a280853b.md) |
 | `github_search_assembly-80447d80f49cba` | pret/pokeyellow | [open](records/assembly-pret-pokeyellow-f91bcc26.md) |
+| `github_search_assembly-810008b41b38f9` | mikeroyal/Assembly-Guide | [open](records/assembly-mikeroyal-assembly-guide-e4afccda.md) |
 | `github_search_assembly-81c12270e2e614` | wichtounet/thor-os | [open](records/assembly-wichtounet-thor-os-cf1384c0.md) |
+| `github_search_assembly-8287faeb020a78` | gh-nomad/nmd | [open](records/assembly-gh-nomad-nmd-edbb6cb6.md) |
 | `github_search_assembly-833d7fc5d4d709` | Maratyszcza/PeachPy | [open](records/assembly-maratyszcza-peachpy-1f352ba0.md) |
 | `github_search_assembly-84844effbb49fa` | daniel-e/tetros | [open](records/assembly-daniel-e-tetros-151a0c96.md) |
 | `github_search_assembly-85dd0b3a89e969` | obdev/v-usb | [open](records/assembly-obdev-v-usb-977cf25b.md) |
+| `github_search_assembly-85e9c04edc8608` | allogic/KDBG | [open](records/assembly-allogic-kdbg-1f6c6448.md) |
 | `github_search_assembly-865e9fac95ca30` | hlorenzi/customasm | [open](records/assembly-hlorenzi-customasm-85734886.md) |
 | `github_search_assembly-867b81693068f9` | ReturnInfinity/BareMetal-OS-legacy | [open](records/assembly-returninfinity-baremetal-os-legacy-09317d7c.md) |
 | `github_search_assembly-88687aa7f2e15c` | tuhdo/sample-os | [open](records/assembly-tuhdo-sample-os-e861f8fb.md) |
 | `github_search_assembly-886c6015755bb2` | MattPD/cpplinks | [open](records/assembly-mattpd-cpplinks-29eb7bcc.md) |
+| `github_search_assembly-88d0a2d55b25ed` | ajkhoury/UEFI-Bootkit | [open](records/assembly-ajkhoury-uefi-bootkit-3307a09a.md) |
+| `github_search_assembly-893dd2088993fb` | maniekx86/stillalive-os | [open](records/assembly-maniekx86-stillalive-os-3b900496.md) |
 | `github_search_assembly-8940ca913897e4` | jmechner/Prince-of-Persia-Apple-II | [open](records/assembly-jmechner-prince-of-persia-apple-ii-f90e7981.md) |
 | `github_search_assembly-8d3ac3d0a3c413` | apple/swift-crypto | [open](records/assembly-apple-swift-crypto-1f447802.md) |
 | `github_search_assembly-8e4cbbf9e53bef` | zladx/LADX-Disassembly | [open](records/assembly-zladx-ladx-disassembly-b62b79d3.md) |
@@ -5111,6 +5282,7 @@
 | `github_search_assembly-944d98a63b8b00` | tenderlove/asmrepl | [open](records/assembly-tenderlove-asmrepl-662f4b96.md) |
 | `github_search_assembly-957826479afbf6` | microsoft/MS-DOS | [open](records/assembly-microsoft-ms-dos-eb2a4b43.md) |
 | `github_search_assembly-966881defa85d1` | nmlgc/ReC98 | [open](records/assembly-nmlgc-rec98-693bb348.md) |
+| `github_search_assembly-97300769704e78` | cch123/asm-cli | [open](records/assembly-cch123-asm-cli-b6f3f924.md) |
 | `github_search_assembly-98dd48fc2cd257` | SheerSt/pokewilds | [open](records/assembly-sheerst-pokewilds-24e08e0a.md) |
 | `github_search_assembly-99d9b91d5e7e58` | oriansj/stage0 | [open](records/assembly-oriansj-stage0-6791bc52.md) |
 | `github_search_assembly-9c88504c246398` | pret/pokered | [open](records/assembly-pret-pokered-f921a9c0.md) |
@@ -5124,12 +5296,15 @@
 | `github_search_assembly-a4de8eb40ec14b` | KolibriOS/kolibrios | [open](records/assembly-kolibrios-kolibrios-ceca7961.md) |
 | `github_search_assembly-a53557dd782d47` | grimdoomer/Xbox360BadUpdate | [open](records/assembly-grimdoomer-xbox360badupdate-0bdca866.md) |
 | `github_search_assembly-a58ace0a336e4f` | mytechnotalent/Hacking-Windows | [open](records/assembly-mytechnotalent-hacking-windows-8a5a66d0.md) |
+| `github_search_assembly-a5c8c093c305cc` | ruanjue/wtdbg2 | [open](records/assembly-ruanjue-wtdbg2-f7600312.md) |
 | `github_search_assembly-a5cf8933edf1ae` | klezVirus/inceptor | [open](records/assembly-klezvirus-inceptor-3f952d37.md) |
+| `github_search_assembly-a62a47bb9bf8a3` | emproof-com/nyxstone | [open](records/assembly-emproof-com-nyxstone-2e6c50f8.md) |
 | `github_search_assembly-a67e836df9527e` | decompme/decomp.me | [open](records/assembly-decompme-decomp-me-72e4eec1.md) |
 | `github_search_assembly-a685ee58887c59` | pret/pokecrystal | [open](records/assembly-pret-pokecrystal-513db7cc.md) |
 | `github_search_assembly-a68a47f84d3465` | kovidomi/game-reversing | [open](records/assembly-kovidomi-game-reversing-eb71b6a8.md) |
 | `github_search_assembly-a9020ab5740834` | bluewaysw/pcgeos | [open](records/assembly-bluewaysw-pcgeos-aee787b1.md) |
 | `github_search_assembly-aa343943fc4788` | donno2048/snake | [open](records/assembly-donno2048-snake-7b4fe8af.md) |
+| `github_search_assembly-abfc40d783657f` | ibara/8088ify | [open](records/assembly-ibara-8088ify-7b5d5d90.md) |
 | `github_search_assembly-b4002d8c1a8ccb` | nemasu/asmttpd | [open](records/assembly-nemasu-asmttpd-9a612693.md) |
 | `github_search_assembly-b5a548dd5b36af` | badamczewski/PowerUp | [open](records/assembly-badamczewski-powerup-798e7cfd.md) |
 | `github_search_assembly-b8acd699038636` | dethrace-labs/dethrace | [open](records/assembly-dethrace-labs-dethrace-0d609365.md) |
@@ -5141,13 +5316,18 @@
 | `github_search_assembly-c0a009bf3a8ccd` | segmentio/asm | [open](records/assembly-segmentio-asm-07cb5069.md) |
 | `github_search_assembly-c32234512ff2a0` | sehugg/8bitworkshop | [open](records/assembly-sehugg-8bitworkshop-62e01cd8.md) |
 | `github_search_assembly-c36f3bc1fee6e3` | alvin-tosh/Malware-Exhibit | [open](records/assembly-alvin-tosh-malware-exhibit-e411e5da.md) |
+| `github_search_assembly-c45199bee95890` | Kazhuu/asm2cfg | [open](records/assembly-kazhuu-asm2cfg-8e13ec12.md) |
 | `github_search_assembly-c49c1fd87e64b4` | Idov31/Cronos | [open](records/assembly-idov31-cronos-d87fafd3.md) |
 | `github_search_assembly-c668f0b50711fd` | x86byte/RE-MA-Roadmap | [open](records/assembly-x86byte-re-ma-roadmap-041535bd.md) |
+| `github_search_assembly-c66d89995251f1` | WindowsNT/asm | [open](records/assembly-windowsnt-asm-00dbedd0.md) |
 | `github_search_assembly-c77dcafa274e0b` | DavidBuchanan314/dlinject | [open](records/assembly-davidbuchanan314-dlinject-0540056f.md) |
 | `github_search_assembly-c9c8143f5c16f7` | videolan/dav1d | [open](records/assembly-videolan-dav1d-9dfd565a.md) |
+| `github_search_assembly-caaa2f3f46faae` | takenobu-hs/cpu-assembly-examples | [open](records/assembly-takenobu-hs-cpu-assembly-examples-b5867112.md) |
+| `github_search_assembly-ccb572f473ed9a` | marcpaq/arpilisp | [open](records/assembly-marcpaq-arpilisp-7fd5fe93.md) |
 | `github_search_assembly-cd8e99c9b254cb` | PluMGMK/vbesvga.drv | [open](records/assembly-plumgmk-vbesvga-drv-17dbec94.md) |
 | `github_search_assembly-d0918eccf9da46` | sam-astro/Astro8-Computer | [open](records/assembly-sam-astro-astro8-computer-d279451b.md) |
 | `github_search_assembly-d22862768cf48e` | niekiran/Embedded-C | [open](records/assembly-niekiran-embedded-c-9b420b87.md) |
+| `github_search_assembly-d2be7f4761d742` | grassator/mass | [open](records/assembly-grassator-mass-293a8da9.md) |
 | `github_search_assembly-d3720a8255149d` | mandiant/flare-learning-hub | [open](records/assembly-mandiant-flare-learning-hub-36dc67ad.md) |
 | `github_search_assembly-d5620f0ca190f1` | hackclub/some-assembly-required | [open](records/assembly-hackclub-some-assembly-required-91450888.md) |
 | `github_search_assembly-d58910870ce227` | bitdump/BLHeli | [open](records/assembly-bitdump-blheli-5d346476.md) |
@@ -5163,16 +5343,24 @@
 | `github_search_assembly-e16ac739c86c8a` | jthuraisamy/SysWhispers | [open](records/assembly-jthuraisamy-syswhispers-6a63ec1e.md) |
 | `github_search_assembly-e5a53bd52962a1` | sim-/tgy | [open](records/assembly-sim-tgy-fbe11e77.md) |
 | `github_search_assembly-e8c636c4e33ed3` | ashvardanian/less_slow.cpp | [open](records/assembly-ashvardanian-less-slow-cpp-50768d6c.md) |
+| `github_search_assembly-e94b4e5cffb03c` | enkomio/sacara | [open](records/assembly-enkomio-sacara-11257b8d.md) |
 | `github_search_assembly-eb481738ae04c0` | carloslack/KoviD | [open](records/assembly-carloslack-kovid-05c9a038.md) |
 | `github_search_assembly-ebb3da967b8fb5` | Dman95/SASM | [open](records/assembly-dman95-sasm-d1b6bc2a.md) |
 | `github_search_assembly-ee4bc4afb34b7f` | klauspost/reedsolomon | [open](records/assembly-klauspost-reedsolomon-2ebcc787.md) |
 | `github_search_assembly-ee730f8d8e7c60` | ReturnInfinity/BareMetal | [open](records/assembly-returninfinity-baremetal-0b151ed8.md) |
 | `github_search_assembly-efd4f7b5d1bd03` | RRZE-HPC/likwid | [open](records/assembly-rrze-hpc-likwid-da26554d.md) |
+| `github_search_assembly-f09839e91dd11b` | TienNHM/ebooks | [open](records/assembly-tiennhm-ebooks-37d5a6c9.md) |
+| `github_search_assembly-f2d3b1298973e9` | Mati365/ts-c-compiler | [open](records/assembly-mati365-ts-c-compiler-bc7fb5c3.md) |
 | `github_search_assembly-f3715dbeb300ae` | wargio/r2dec-js | [open](records/assembly-wargio-r2dec-js-b98d3015.md) |
 | `github_search_assembly-f4b5e993f39063` | mytechnotalent/Reverse-Engineering | [open](records/assembly-mytechnotalent-reverse-engineering-73d01425.md) |
 | `github_search_assembly-f4fc0fc3518e34` | leachim6/hello-world | [open](records/assembly-leachim6-hello-world-518b0b2f.md) |
 | `github_search_assembly-f50b4347ddb81b` | DGivney/assemblytutorials | [open](records/assembly-dgivney-assemblytutorials-61126c89.md) |
 | `github_search_assembly-fbe761438514fd` | yrp604/rappel | [open](records/assembly-yrp604-rappel-4bf787bb.md) |
+| `github_search_assembly-fc9ba04cf691e7` | franeklubi/dino | [open](records/assembly-franeklubi-dino-8d3e9c1a.md) |
+| `github_search_assembly-fcc75a231cffeb` | Fedjmike/mini-c | [open](records/assembly-fedjmike-mini-c-295a2fc0.md) |
+| `github_search_assembly-fd59d9d8467d5e` | enkomio/thematrix | [open](records/assembly-enkomio-thematrix-8cd2748c.md) |
+| `github_search_assembly-fe089d52b19de7` | tenderlove/fisk | [open](records/assembly-tenderlove-fisk-358e54fe.md) |
+| `github_search_assembly-ffe2bcae765c64` | jishanshaikh4/8086-cheatsheet | [open](records/assembly-jishanshaikh4-8086-cheatsheet-66f8dab8.md) |
 | `github_search_assets-00013559d790c1` | nuxt-modules/google-fonts | [open](records/assets-nuxt-modules-google-fonts-ff39da19.md) |
 | `github_search_assets-0426241fffeec2` | Figma-Linux/figma-linux-font-helper | [open](records/assets-figma-linux-figma-linux-font-helper-926a2b9d.md) |
 | `github_search_assets-080063002d5492` | expo/google-fonts | [open](records/assets-expo-google-fonts-27084e7a.md) |
@@ -6308,13 +6496,17 @@
 | `github_search_go-0fc79c2cd03526` | nats-io/nats-server | [open](records/go-nats-io-nats-server-a11f8ca6.md) |
 | `github_search_go-11ef939b94d614` | glanceapp/glance | [open](records/go-glanceapp-glance-c761949a.md) |
 | `github_search_go-15edcc5c3c6b88` | istio/istio | [open](records/go-istio-istio-09ede0b7.md) |
+| `github_search_go-164fc663beea45` | ggwhite/go-masker | [open](records/go-ggwhite-go-masker-2ecaacf4.md) |
 | `github_search_go-16b25eda5694bc` | emirpasic/gods | [open](records/go-emirpasic-gods-83b03cfe.md) |
 | `github_search_go-178ac5f1ddb101` | micro/go-micro | [open](records/go-micro-go-micro-af542d9e.md) |
 | `github_search_go-17baead8657702` | dariubs/GoBooks | [open](records/go-dariubs-gobooks-0b7963ea.md) |
 | `github_search_go-1860bdc46c91c4` | ethereum/go-ethereum | [open](records/go-ethereum-go-ethereum-805e21c2.md) |
 | `github_search_go-1a8639b0850e32` | ollama/ollama | [open](records/go-ollama-ollama-37c1cc0e.md) |
 | `github_search_go-1b2e4cf1660147` | pranshuparmar/witr | [open](records/go-pranshuparmar-witr-b0667e49.md) |
+| `github_search_go-1b73395cd0d1ad` | dobyte/due | [open](records/go-dobyte-due-642c6a6f.md) |
+| `github_search_go-1c414ce94cf86c` | CorentinGS/chess | [open](records/go-corentings-chess-b4035143.md) |
 | `github_search_go-1d200c42086790` | cli/cli | [open](records/go-cli-cli-c1781281.md) |
+| `github_search_go-1d6b5e29e81d51` | tigalabs/tigago | [open](records/go-tigalabs-tigago-6e360e88.md) |
 | `github_search_go-20df7c105639f6` | praetorian-inc/nerva | [open](records/go-praetorian-inc-nerva-a2849190.md) |
 | `github_search_go-218a6750eb8373` | ehang-io/nps | [open](records/go-ehang-io-nps-346fc0a0.md) |
 | `github_search_go-2280e7ef16ee25` | milvus-io/milvus | [open](records/go-milvus-io-milvus-f58bc0a6.md) |
@@ -6322,14 +6514,17 @@
 | `github_search_go-24cde77bd40b45` | traefik/traefik | [open](records/go-traefik-traefik-33cdec7d.md) |
 | `github_search_go-29ea4a7a727d3f` | vxcontrol/pentagi | [open](records/go-vxcontrol-pentagi-a8d06839.md) |
 | `github_search_go-2c7d9d1b94ef7d` | aquasecurity/trivy | [open](records/go-aquasecurity-trivy-a759b66b.md) |
+| `github_search_go-2ec0cf8ae0a5bc` | gosom/scrapemate | [open](records/go-gosom-scrapemate-536afe4d.md) |
 | `github_search_go-3015433ff97a01` | wagoodman/dive | [open](records/go-wagoodman-dive-64f44bbd.md) |
 | `github_search_go-308e522e2fb741` | jesseduffield/lazydocker | [open](records/go-jesseduffield-lazydocker-c10d50fa.md) |
 | `github_search_go-316ee9f0ca66d0` | charmbracelet/bubbletea | [open](records/go-charmbracelet-bubbletea-3f1ce734.md) |
 | `github_search_go-31f827fe574d79` | inancgumus/learngo | [open](records/go-inancgumus-learngo-aa01cb96.md) |
 | `github_search_go-331262a1bce93c` | beego/beego | [open](records/go-beego-beego-e98bc924.md) |
 | `github_search_go-35221869d39c92` | go-gorm/gorm | [open](records/go-go-gorm-gorm-7ca42177.md) |
+| `github_search_go-36589951a45937` | Narasimha1997/ratelimiter | [open](records/go-narasimha1997-ratelimiter-5630e795.md) |
 | `github_search_go-38cf05a7120f17` | hashicorp/terraform | [open](records/go-hashicorp-terraform-d56d30dc.md) |
 | `github_search_go-39c77863ee931f` | 1Panel-dev/1Panel | [open](records/go-1panel-dev-1panel-effa2b43.md) |
+| `github_search_go-3a99db8355bfa6` | Narasimha1997/fake-sms | [open](records/go-narasimha1997-fake-sms-a5b0fe59.md) |
 | `github_search_go-3b94272616dab3` | tailscale/tailscale | [open](records/go-tailscale-tailscale-cb71aaf5.md) |
 | `github_search_go-3dcf860f995807` | quii/learn-go-with-tests | [open](records/go-quii-learn-go-with-tests-f9d484c4.md) |
 | `github_search_go-3eb2e52539793d` | unionlabs/union | [open](records/go-unionlabs-union-93d74a53.md) |
@@ -6340,9 +6535,11 @@
 | `github_search_go-44231db9285cf8` | halfrost/LeetCode-Go | [open](records/go-halfrost-leetcode-go-09ca25e1.md) |
 | `github_search_go-446b9d09e99c2c` | projectdiscovery/nuclei | [open](records/go-projectdiscovery-nuclei-166bc26c.md) |
 | `github_search_go-44c5e662338095` | SagerNet/sing-box | [open](records/go-sagernet-sing-box-7213e1d8.md) |
+| `github_search_go-46f28d3346a996` | fonini/go-pix | [open](records/go-fonini-go-pix-248a70d6.md) |
 | `github_search_go-47cc147ec666e3` | gorilla/mux | [open](records/go-gorilla-mux-27a938a4.md) |
 | `github_search_go-48db15bf3cdd34` | AlistGo/alist | [open](records/go-alistgo-alist-0be2effe.md) |
 | `github_search_go-4927dd20d249f0` | grafana/k6 | [open](records/go-grafana-k6-ed133f82.md) |
+| `github_search_go-499d46847797cc` | yincongcyincong/mcp-client-go | [open](records/go-yincongcyincong-mcp-client-go-551e8f66.md) |
 | `github_search_go-4a1378698d0cbc` | eryajf/learning-weekly | [open](records/go-eryajf-learning-weekly-a4ad8741.md) |
 | `github_search_go-4a39f2828d2733` | cockroachdb/cockroach | [open](records/go-cockroachdb-cockroach-555b82ac.md) |
 | `github_search_go-508ed396ec04a8` | practical-tutorials/project-based-learning | [open](records/go-practical-tutorials-project-based-learning-1fb7ef81.md) |
@@ -6356,13 +6553,17 @@
 | `github_search_go-5bc225bb099581` | ChimeraCoder/anaconda | [open](records/go-chimeracoder-anaconda-6a61e747.md) |
 | `github_search_go-5c27bc06d39830` | spf13/cobra | [open](records/go-spf13-cobra-eeac1239.md) |
 | `github_search_go-5d93bebb39ceef` | mattermost/mattermost | [open](records/go-mattermost-mattermost-f0d9650a.md) |
+| `github_search_go-5de8f5918de1dd` | unpoller/unifi | [open](records/go-unpoller-unifi-0809cf4a.md) |
 | `github_search_go-5e31e13ab10a68` | chubin/wttr.in | [open](records/go-chubin-wttr-in-592006b2.md) |
 | `github_search_go-600211e9dc0208` | github/github-mcp-server | [open](records/go-github-github-mcp-server-23d9b9fa.md) |
+| `github_search_go-607219f99d59df` | ryancurrah/gomodguard | [open](records/go-ryancurrah-gomodguard-40ec0b46.md) |
 | `github_search_go-613e4a5b00bc83` | GopeedLab/gopeed | [open](records/go-gopeedlab-gopeed-1855093c.md) |
 | `github_search_go-62f89c4d4cfaf5` | danielmiessler/Fabric | [open](records/go-danielmiessler-fabric-e388968f.md) |
 | `github_search_go-63e3ded016f4d6` | AdguardTeam/AdGuardHome | [open](records/go-adguardteam-adguardhome-7d76b56d.md) |
 | `github_search_go-6693d16dabac59` | mudler/LocalAI | [open](records/go-mudler-localai-bdeac9f4.md) |
+| `github_search_go-6b5010572c9a3c` | sohaha/zlsgo | [open](records/go-sohaha-zlsgo-804fc40e.md) |
 | `github_search_go-6d412063fb1fec` | grafana/loki | [open](records/go-grafana-loki-2fc58cde.md) |
+| `github_search_go-6d9c88aa7338ef` | CycloneDX/cyclonedx-gomod | [open](records/go-cyclonedx-cyclonedx-gomod-24572c1d.md) |
 | `github_search_go-6f6ca1f4e955f9` | chai2010/advanced-go-programming-book | [open](records/go-chai2010-advanced-go-programming-book-44a19e49.md) |
 | `github_search_go-7157f8b71b076b` | FiloSottile/mkcert | [open](records/go-filosottile-mkcert-a7f4c714.md) |
 | `github_search_go-735726e8ee2c32` | Infisical/infisical | [open](records/go-infisical-infisical-a6ff8f22.md) |
@@ -6376,22 +6577,30 @@
 | `github_search_go-77438af5971a10` | go-gitea/gitea | [open](records/go-go-gitea-gitea-16871751.md) |
 | `github_search_go-7819702da40470` | spicetify/cli | [open](records/go-spicetify-cli-b8e26c00.md) |
 | `github_search_go-795a78167768d7` | pocketbase/pocketbase | [open](records/go-pocketbase-pocketbase-129b5588.md) |
+| `github_search_go-7a194ed55e7075` | kungfusheep/glyph | [open](records/go-kungfusheep-glyph-15af0f04.md) |
 | `github_search_go-7a623232934f93` | go-ffmt/ffmt | [open](records/go-go-ffmt-ffmt-70684860.md) |
+| `github_search_go-7c15c60be66ddf` | psampaz/go-mod-outdated | [open](records/go-psampaz-go-mod-outdated-c4ff2713.md) |
 | `github_search_go-7c41032d6e16a0` | syncthing/syncthing | [open](records/go-syncthing-syncthing-42b40326.md) |
 | `github_search_go-7c9d246cd52f38` | XIU2/CloudflareSpeedTest | [open](records/go-xiu2-cloudflarespeedtest-4441b21f.md) |
+| `github_search_go-808c6a8f04ca9a` | nelthaarion/breeze | [open](records/go-nelthaarion-breeze-919adbb5.md) |
 | `github_search_go-81d0b5a621a265` | zeromicro/go-zero | [open](records/go-zeromicro-go-zero-c559d9b7.md) |
 | `github_search_go-82916f16b290c7` | filebrowser/filebrowser | [open](records/go-filebrowser-filebrowser-64f3a6d2.md) |
 | `github_search_go-82ab44d1fb18b7` | fatedier/frp | [open](records/go-fatedier-frp-1b8e4f28.md) |
+| `github_search_go-82b6d2d395b772` | mmonterroca/docxgo | [open](records/go-mmonterroca-docxgo-56eccfba.md) |
+| `github_search_go-82f04e48a5f754` | mind1949/googletrans | [open](records/go-mind1949-googletrans-baf3d88f.md) |
 | `github_search_go-838a4acd815771` | xiaolincoder/CS-Base | [open](records/go-xiaolincoder-cs-base-74618079.md) |
 | `github_search_go-851656b94d7000` | piquette/finance-go | [open](records/go-piquette-finance-go-e7f50ebc.md) |
 | `github_search_go-86276a29565aa6` | golang/go | [open](records/go-golang-go-eddbf466.md) |
 | `github_search_go-866604ca57e9e5` | flipped-aurora/gin-vue-admin | [open](records/go-flipped-aurora-gin-vue-admin-734f09c8.md) |
 | `github_search_go-86937c382cedcc` | moby/moby | [open](records/go-moby-moby-d3bb719c.md) |
+| `github_search_go-877fd96825f9ee` | gomods/athens | [open](records/go-gomods-athens-5ff0b837.md) |
 | `github_search_go-87de7dcb1a7d5e` | bluenviron/mediamtx | [open](records/go-bluenviron-mediamtx-aebc3b64.md) |
 | `github_search_go-8bb5e6c86a7181` | caddyserver/caddy | [open](records/go-caddyserver-caddy-982b9e5e.md) |
+| `github_search_go-8bb60349ea1ad9` | jfrog/gocenter | [open](records/go-jfrog-gocenter-404e69f1.md) |
 | `github_search_go-90515c921698b7` | microsoft/TypeScript | [open](records/go-microsoft-typescript-263acd6d.md) |
 | `github_search_go-9178ba15f4e644` | kubernetes/kubernetes | [open](records/go-kubernetes-kubernetes-6b4c958b.md) |
 | `github_search_go-91fba0d29ce3e5` | photoprism/photoprism | [open](records/go-photoprism-photoprism-47249a2f.md) |
+| `github_search_go-926d6089a3a13d` | confetti-framework/confetti | [open](records/go-confetti-framework-confetti-741312c7.md) |
 | `github_search_go-92f1787c607afb` | derailed/k9s | [open](records/go-derailed-k9s-e40d54ee.md) |
 | `github_search_go-932897a5618df4` | multica-ai/multica | [open](records/go-multica-ai-multica-2f7b6919.md) |
 | `github_search_go-9481278740e337` | uber-go/zap | [open](records/go-uber-go-zap-07ea12d8.md) |
@@ -6402,6 +6611,7 @@
 | `github_search_go-962d909685aaad` | gookit/goutil | [open](records/go-gookit-goutil-3f400e93.md) |
 | `github_search_go-96540a5e9fe2d1` | authelia/authelia | [open](records/go-authelia-authelia-bd98b68d.md) |
 | `github_search_go-978c89e55a5e08` | jesseduffield/lazygit | [open](records/go-jesseduffield-lazygit-76669d5d.md) |
+| `github_search_go-97c6901c84230c` | codoworks/go-boilerplate | [open](records/go-codoworks-go-boilerplate-64f37da7.md) |
 | `github_search_go-98df708b5ce19c` | prometheus/prometheus | [open](records/go-prometheus-prometheus-c7ed4827.md) |
 | `github_search_go-9a4b3439c17d6b` | influxdata/telegraf | [open](records/go-influxdata-telegraf-cc811069.md) |
 | `github_search_go-9afb4aec339da2` | gofr-dev/gofr | [open](records/go-gofr-dev-gofr-9cdbe495.md) |
@@ -6445,6 +6655,7 @@
 | `github_search_go-d2125f585a3973` | minio/minio | [open](records/go-minio-minio-db7d09c3.md) |
 | `github_search_go-d2766c415f4e7c` | grpc/grpc-go | [open](records/go-grpc-grpc-go-4b231603.md) |
 | `github_search_go-d3071ad545cff7` | gofiber/fiber | [open](records/go-gofiber-fiber-4a40c103.md) |
+| `github_search_go-d33cd2212950ad` | jeffotoni/quick | [open](records/go-jeffotoni-quick-3e9e02ab.md) |
 | `github_search_go-d38c502b39afd0` | Tencent/WeKnora | [open](records/go-tencent-weknora-254a9260.md) |
 | `github_search_go-d3ee0f563af528` | mattermost-community/focalboard | [open](records/go-mattermost-community-focalboard-3d60a2cd.md) |
 | `github_search_go-d424c73b8d6429` | helm/helm | [open](records/go-helm-helm-21c5a8ef.md) |
@@ -6460,10 +6671,15 @@
 | `github_search_go-dd63505b700e7e` | router-for-me/CLIProxyAPI | [open](records/go-router-for-me-cliproxyapi-093a59b1.md) |
 | `github_search_go-dd85a95785ab3f` | yorukot/superfile | [open](records/go-yorukot-superfile-1e2c0bb7.md) |
 | `github_search_go-e08f00b2a3719f` | d2lang/d2 | [open](records/go-d2lang-d2-ed192df1.md) |
+| `github_search_go-e152b330158c71` | chaindead/modup | [open](records/go-chaindead-modup-f7ee1de4.md) |
 | `github_search_go-e3b6fccc45112c` | abiosoft/colima | [open](records/go-abiosoft-colima-0ac0ec4e.md) |
+| `github_search_go-e4f8c4492bc218` | oxequa/grace | [open](records/go-oxequa-grace-a2ea7491.md) |
 | `github_search_go-e71da90dcc42a0` | labring/sealos | [open](records/go-labring-sealos-594e5269.md) |
 | `github_search_go-e970c94ea630ed` | slimtoolkit/slim | [open](records/go-slimtoolkit-slim-92b8fc23.md) |
+| `github_search_go-e972af93013ae0` | JGLTechnologies/gin-rate-limit | [open](records/go-jgltechnologies-gin-rate-limit-c93a4f16.md) |
+| `github_search_go-eac20782911006` | PacktWorkshops/The-Go-Workshop | [open](records/go-packtworkshops-the-go-workshop-010b2ee6.md) |
 | `github_search_go-eb31201536cb73` | kubernetes/minikube | [open](records/go-kubernetes-minikube-284bb65c.md) |
+| `github_search_go-eb778dc641a20f` | bufanyun/hotgo | [open](records/go-bufanyun-hotgo-bf57dfd4.md) |
 | `github_search_go-ee15ed69a3a9df` | samber/lo | [open](records/go-samber-lo-293e189e.md) |
 | `github_search_go-eedb8be0b2732a` | gravitational/teleport | [open](records/go-gravitational-teleport-6a32fe26.md) |
 | `github_search_go-f0a2e1d0a8df55` | opentofu/opentofu | [open](records/go-opentofu-opentofu-186b8c42.md) |
@@ -6471,10 +6687,15 @@
 | `github_search_go-f1eec01c43288d` | koss-null/FuncFrog | [open](records/go-koss-null-funcfrog-bf807e0c.md) |
 | `github_search_go-f2eb35cfc59840` | netdata/netdata | [open](records/go-netdata-netdata-170b9886.md) |
 | `github_search_go-f325d0728ca745` | gohugoio/hugo | [open](records/go-gohugoio-hugo-f422f841.md) |
+| `github_search_go-f36ec4530c441a` | phuctm97/go-restful | [open](records/go-phuctm97-go-restful-8f3f1208.md) |
 | `github_search_go-f4186e6d30650b` | pulumi/pulumi | [open](records/go-pulumi-pulumi-f407ce4b.md) |
+| `github_search_go-f4344ea20d3224` | gogf/gf | [open](records/go-gogf-gf-cf9bbe8f.md) |
 | `github_search_go-f588849af9c9ab` | hashicorp/consul | [open](records/go-hashicorp-consul-eaeec57d.md) |
+| `github_search_go-f7c09184b7566b` | gethugothemes/hugo-modules | [open](records/go-gethugothemes-hugo-modules-1f48ce7f.md) |
+| `github_search_go-fa2c2212bc4c55` | Mindinventory/Golang-Project-Structure | [open](records/go-mindinventory-golang-project-structure-c6e24a0b.md) |
 | `github_search_go-fc9204b082d37e` | unknwon/the-way-to-go_ZH_CN | [open](records/go-unknwon-the-way-to-go-zh-cn-6332f5f1.md) |
 | `github_search_go-fefbcdfa73ca85` | gorilla/websocket | [open](records/go-gorilla-websocket-b72dd879.md) |
+| `github_search_go-ff04aa269744b7` | gbrlsnchs/jwt | [open](records/go-gbrlsnchs-jwt-9cb26411.md) |
 | `github_search_magazines-01cdf1d6b339d5` | samuelmeuli/mini-diary | [open](records/magazines-samuelmeuli-mini-diary-55a97725.md) |
 | `github_search_magazines-04cdad72e53548` | thuang136/DeveloperMagazine | [open](records/magazines-thuang136-developermagazine-86d0075f.md) |
 | `github_search_magazines-05c4c9e41e272c` | daryllxd/lifelong-learning | [open](records/magazines-daryllxd-lifelong-learning-9f4c2b9f.md) |
@@ -6998,106 +7219,166 @@
 | `github_search_maps-fdc7005ab6b431` | naturalatlas/node-gdal | [open](records/maps-naturalatlas-node-gdal-bc3c7bb2.md) |
 | `github_search_maps-fdecc6d90f3819` | GeoNode/geonode | [open](records/maps-geonode-geonode-d052a389.md) |
 | `github_search_maps-fe998da3f354f6` | bugra9/gdal3.js | [open](records/maps-bugra9-gdal3-js-e7b39271.md) |
+| `github_search_matlab-0106cef26ad2c1` | caiotavares/spectrum-sensing | [open](records/matlab-caiotavares-spectrum-sensing-56be35eb.md) |
+| `github_search_matlab-0544b3eda09c67` | CodeByPinar/Earthquake_Prediction_Analysis_Project | [open](records/matlab-codebypinar-earthquake-prediction-analysis-project-c9d8a598.md) |
 | `github_search_matlab-062d35e972cb3b` | SPIRIT-org/SPIRIT | [open](records/matlab-spirit-org-spirit-85199c7a.md) |
 | `github_search_matlab-064c9d17190bbe` | layumi/Image-Text-Embedding | [open](records/matlab-layumi-image-text-embedding-7ecad011.md) |
+| `github_search_matlab-07687ee37bc4dd` | bertinetto/cfnet | [open](records/matlab-bertinetto-cfnet-658a3dfe.md) |
+| `github_search_matlab-07f46519b71dff` | lab-midas/ismrm-moco-workshop | [open](records/matlab-lab-midas-ismrm-moco-workshop-9d9fbbf2.md) |
 | `github_search_matlab-0826de0ceeef7f` | jbhuang0604/SelfExSR | [open](records/matlab-jbhuang0604-selfexsr-4831bbf1.md) |
 | `github_search_matlab-08b3b035c98048` | SwanLab/Swan | [open](records/matlab-swanlab-swan-dd44db56.md) |
+| `github_search_matlab-0956484a252d5e` | hubertgabrys/DicomToolboxMatlab | [open](records/matlab-hubertgabrys-dicomtoolboxmatlab-17f61dc8.md) |
+| `github_search_matlab-095dc2a7fb2894` | Eternity-Myth/MachineLearing-Homework | [open](records/matlab-eternity-myth-machinelearing-homework-aea2ead3.md) |
 | `github_search_matlab-0c61b4e42e4610` | plotly/plotly_matlab | [open](records/matlab-plotly-plotly-matlab-b18b4f4e.md) |
+| `github_search_matlab-0db1898781cf22` | gcunhase/Emotional-Video-to-Audio-with-ANFIS-DeepRNN | [open](records/matlab-gcunhase-emotional-video-to-audio-with-anfis-deeprnn-42d45ac4.md) |
+| `github_search_matlab-0dcdb1566777f0` | Hamid-Nasiri/VMD-MFRFNN | [open](records/matlab-hamid-nasiri-vmd-mfrfnn-f198fa7c.md) |
 | `github_search_matlab-0dd409246064fe` | VipaiLab/Signals-and-Systems-course | [open](records/matlab-vipailab-signals-and-systems-course-ac1e2668.md) |
 | `github_search_matlab-1059dcf2e2155c` | matlab-deep-learning/reinforcement_learning_financial_trading | [open](records/matlab-matlab-deep-learning-reinforcement-learning-financial-trading-9b4c6e01.md) |
+| `github_search_matlab-1273760e42c774` | STMicroelectronics/st-mems-machine-learning-core | [open](records/matlab-stmicroelectronics-st-mems-machine-learning-core-3ba547a2.md) |
 | `github_search_matlab-14464da72fb3a0` | ShaoqingRen/faster_rcnn | [open](records/matlab-shaoqingren-faster-rcnn-47ee65ff.md) |
 | `github_search_matlab-1589db615c4d98` | spm/spm12 | [open](records/matlab-spm-spm12-7cee6644.md) |
 | `github_search_matlab-15a79d943e4207` | Shuai-Xie/genetic-algorithm | [open](records/matlab-shuai-xie-genetic-algorithm-f7cb8aee.md) |
+| `github_search_matlab-15d5ec845b471c` | ethz-pes/AI-mag | [open](records/matlab-ethz-pes-ai-mag-5ed37dd9.md) |
+| `github_search_matlab-169461453e7389` | Charleswyt/audio_steganalysis_ml | [open](records/matlab-charleswyt-audio-steganalysis-ml-b1f72059.md) |
+| `github_search_matlab-16c735428b10c8` | wanbin-song/BatteryMachineLearning | [open](records/matlab-wanbin-song-batterymachinelearning-1ed3d68f.md) |
 | `github_search_matlab-19376f955b1d8c` | HiroIshida/robust-tube-mpc | [open](records/matlab-hiroishida-robust-tube-mpc-ca2d06d5.md) |
 | `github_search_matlab-19bcf32829e407` | xiaoli1368/Microphone-sound-source-localization | [open](records/matlab-xiaoli1368-microphone-sound-source-localization-5aa810bd.md) |
+| `github_search_matlab-1a8e0182e12f86` | yujmo/CZU_MHAD | [open](records/matlab-yujmo-czu-mhad-a94337c9.md) |
 | `github_search_matlab-1aa197c202cce0` | cszn/IRCNN | [open](records/matlab-cszn-ircnn-5ce92007.md) |
+| `github_search_matlab-1c7c083c69aa80` | ayrna/orca | [open](records/matlab-ayrna-orca-3c3bbfa2.md) |
+| `github_search_matlab-1cb1def7d3c0d7` | rnissel/FBMC | [open](records/matlab-rnissel-fbmc-4016bf9a.md) |
 | `github_search_matlab-1d434edcbd4751` | clarkzinzow/Nonlinear-Optimization-Algorithms | [open](records/matlab-clarkzinzow-nonlinear-optimization-algorithms-56515550.md) |
 | `github_search_matlab-1d8f87f93b7032` | HybridRobotics/CBF-CLF-Helper | [open](records/matlab-hybridrobotics-cbf-clf-helper-9caed180.md) |
+| `github_search_matlab-1e7c2c49eea4d6` | baidut/BIMEF | [open](records/matlab-baidut-bimef-148fd500.md) |
+| `github_search_matlab-203850527edbb4` | perrysou/GNSS_SDR | [open](records/matlab-perrysou-gnss-sdr-e83da634.md) |
 | `github_search_matlab-2156821253387a` | fangq/iso2mesh | [open](records/matlab-fangq-iso2mesh-3398b7c9.md) |
+| `github_search_matlab-216cc37e159a96` | thorstone25/qups | [open](records/matlab-thorstone25-qups-f392192b.md) |
+| `github_search_matlab-21ac11ffb6d1c0` | garethjns/Kaggle-EEG | [open](records/matlab-garethjns-kaggle-eeg-d2cd0a4a.md) |
 | `github_search_matlab-226025eacf9f1e` | cszn/DnCNN | [open](records/matlab-cszn-dncnn-bd37bbd1.md) |
 | `github_search_matlab-22f17f878721e3` | spm/spm | [open](records/matlab-spm-spm-26c6d9ba.md) |
 | `github_search_matlab-232259dd930995` | harishrithish7/Fall-Detection | [open](records/matlab-harishrithish7-fall-detection-c1937312.md) |
 | `github_search_matlab-23fb8c912fe200` | pdollar/edges | [open](records/matlab-pdollar-edges-d0f7e5a4.md) |
+| `github_search_matlab-2560b733238c59` | stk-kriging/stk | [open](records/matlab-stk-kriging-stk-e204e601.md) |
 | `github_search_matlab-25c1404cdfb199` | matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub | [open](records/matlab-matlab-deep-learning-matlab-deep-learning-model-hub-4365bfd4.md) |
 | `github_search_matlab-27183be588fcbc` | rodralez/NaveGo | [open](records/matlab-rodralez-navego-f33ae190.md) |
 | `github_search_matlab-27c75c4e454e93` | MatthewPeterKelly/OptimTraj | [open](records/matlab-matthewpeterkelly-optimtraj-885f9771.md) |
 | `github_search_matlab-28c0497bfd1039` | acerbilab/vbmc | [open](records/matlab-acerbilab-vbmc-a3ee0038.md) |
 | `github_search_matlab-2ce54297070ffb` | ori-mrg/robotcar-dataset-sdk | [open](records/matlab-ori-mrg-robotcar-dataset-sdk-30bb9ec0.md) |
 | `github_search_matlab-2d28ea87f523bd` | davidvarga/MBeautifier | [open](records/matlab-davidvarga-mbeautifier-5504e7cb.md) |
+| `github_search_matlab-2e9e182e371154` | PhDP/mlbop | [open](records/matlab-phdp-mlbop-6ec06cc9.md) |
+| `github_search_matlab-2fe073e82dce07` | MartinHahner/FoggySynscapes | [open](records/matlab-martinhahner-foggysynscapes-42c8d9f2.md) |
 | `github_search_matlab-30b256b8746f68` | canlab/CanlabCore | [open](records/matlab-canlab-canlabcore-cf8d4a67.md) |
 | `github_search_matlab-316bc2e7de8aa8` | dlaptev/RobustPCA | [open](records/matlab-dlaptev-robustpca-7b54e98e.md) |
 | `github_search_matlab-31b22f2a91616c` | ecmadao/Coding-Guide | [open](records/matlab-ecmadao-coding-guide-f47d3d95.md) |
+| `github_search_matlab-3273428c5d2814` | JarFraud/FraudDetection | [open](records/matlab-jarfraud-frauddetection-0d5e4dd7.md) |
 | `github_search_matlab-359300c2f3d079` | ishit/L1Stabilizer | [open](records/matlab-ishit-l1stabilizer-4d94a96a.md) |
 | `github_search_matlab-36c5b4da62a2e5` | zuster/EconometricsResources | [open](records/matlab-zuster-econometricsresources-2aea125e.md) |
 | `github_search_matlab-3935fcc648b772` | mathworks/Simscape-Battery-Electric-Vehicle-Model | [open](records/matlab-mathworks-simscape-battery-electric-vehicle-model-25267591.md) |
+| `github_search_matlab-3ada420c2b3428` | okbalefthanded/bci_toolbox | [open](records/matlab-okbalefthanded-bci-toolbox-4ba10aff.md) |
 | `github_search_matlab-3ae469eb39a279` | AaronJackson/vrn | [open](records/matlab-aaronjackson-vrn-36ac2340.md) |
+| `github_search_matlab-3c594d81367396` | PrasannaNatarajan/Coursera-Machine-Learning-Andrew-NG | [open](records/matlab-prasannanatarajan-coursera-machine-learning-andrew-ng-0130cf0a.md) |
 | `github_search_matlab-3ce655d18fe980` | daijifeng001/R-FCN | [open](records/matlab-daijifeng001-r-fcn-0144dda6.md) |
 | `github_search_matlab-3d33fd3c304f3f` | scruel/Notes-ML-AndrewNg | [open](records/matlab-scruel-notes-ml-andrewng-797cd94e.md) |
+| `github_search_matlab-3df6911039b936` | hiroyuki-kasai/GDLibrary | [open](records/matlab-hiroyuki-kasai-gdlibrary-e35cc684.md) |
 | `github_search_matlab-3f0488fa112562` | yandld/nav_matlab | [open](records/matlab-yandld-nav-matlab-a0b7707a.md) |
 | `github_search_matlab-402102622882bd` | dick20/MCM-ICM | [open](records/matlab-dick20-mcm-icm-74db1c83.md) |
+| `github_search_matlab-4029d51f06d54e` | zlpure/Machine-Learning--Coursera | [open](records/matlab-zlpure-machine-learning-coursera-f9cfb3cb.md) |
+| `github_search_matlab-41d79650ee6087` | alexanderlerch/ACA-Code | [open](records/matlab-alexanderlerch-aca-code-8bf7ff2b.md) |
 | `github_search_matlab-41f9499e0fe126` | zhzhanp/TCDCN-face-alignment | [open](records/matlab-zhzhanp-tcdcn-face-alignment-1694eccf.md) |
 | `github_search_matlab-4238b8f5d61e37` | Shrediquette/PIVlab | [open](records/matlab-shrediquette-pivlab-4e9fbe60.md) |
 | `github_search_matlab-42725f3b9e304e` | DrCoffey/DeepSqueak | [open](records/matlab-drcoffey-deepsqueak-fe8b6f20.md) |
+| `github_search_matlab-42ed86ed163cbe` | khanhnamle1994/neural-nets | [open](records/matlab-khanhnamle1994-neural-nets-fffd1161.md) |
 | `github_search_matlab-43efe809bc55cb` | shenshikexmu/IMUCalibration-Gesture | [open](records/matlab-shenshikexmu-imucalibration-gesture-2e8dcb50.md) |
 | `github_search_matlab-44ff7f72687908` | olzhas/rrt_toolbox | [open](records/matlab-olzhas-rrt-toolbox-b502a12a.md) |
 | `github_search_matlab-4538d6e6ce9ea3` | Grootzz/GA-BP | [open](records/matlab-grootzz-ga-bp-4ff3da0f.md) |
 | `github_search_matlab-457557285b13c5` | Mayankm96/Stereo-Odometry-SOFT | [open](records/matlab-mayankm96-stereo-odometry-soft-c49a2549.md) |
 | `github_search_matlab-47061770d7d90c` | albanie/convnet-burden | [open](records/matlab-albanie-convnet-burden-4d5bb07a.md) |
 | `github_search_matlab-47706a25d7da4c` | votchallenge/toolkit-legacy | [open](records/matlab-votchallenge-toolkit-legacy-ced48ea9.md) |
+| `github_search_matlab-49790050f51ada` | braph-software/BRAPH-2 | [open](records/matlab-braph-software-braph-2-7160692d.md) |
 | `github_search_matlab-4a1413befb6030` | ravenxrz/Mathematical-Modeling | [open](records/matlab-ravenxrz-mathematical-modeling-a172a668.md) |
 | `github_search_matlab-4a4a1c48d2c283` | ivaquero/book-control | [open](records/matlab-ivaquero-book-control-40e9e278.md) |
+| `github_search_matlab-4b2a2fc2516c6c` | liugang1234567/CR-PNN | [open](records/matlab-liugang1234567-cr-pnn-d21223a2.md) |
 | `github_search_matlab-4bd8171b44c18f` | toshiakit/MatGPT | [open](records/matlab-toshiakit-matgpt-c3e7e593.md) |
 | `github_search_matlab-4c7db084c8705d` | PRML/PRMLT | [open](records/matlab-prml-prmlt-a210c59e.md) |
 | `github_search_matlab-4d5638cd592510` | VincentWong3/automated-driving-control | [open](records/matlab-vincentwong3-automated-driving-control-a56b477a.md) |
+| `github_search_matlab-4ddc237f8cb1b3` | ltfat/ltfat | [open](records/matlab-ltfat-ltfat-fdb19b53.md) |
 | `github_search_matlab-4f1579aaa45114` | star2dust/paper-simulation | [open](records/matlab-star2dust-paper-simulation-9ae3627c.md) |
 | `github_search_matlab-50018441e114b2` | personqianduixue/Math_Model | [open](records/matlab-personqianduixue-math-model-250fbaeb.md) |
 | `github_search_matlab-51129bb62aacc2` | filipradenovic/cnnimageretrieval | [open](records/matlab-filipradenovic-cnnimageretrieval-4402bf85.md) |
 | `github_search_matlab-51639bff9dd2b1` | nanahou/Awesome-Speech-Enhancement | [open](records/matlab-nanahou-awesome-speech-enhancement-bba57755.md) |
+| `github_search_matlab-51c34a442baa26` | ultralytics/magellan | [open](records/matlab-ultralytics-magellan-3c103d74.md) |
+| `github_search_matlab-5214b5585336cb` | khanhnamle1994/machine-learning | [open](records/matlab-khanhnamle1994-machine-learning-da1affda.md) |
 | `github_search_matlab-53277d05c10470` | VincentWong3/automatic-driving-decision-and-planning-for-matlab | [open](records/matlab-vincentwong3-automatic-driving-decision-and-planning-for-matlab-2c99ad30.md) |
 | `github_search_matlab-5490a0f49bd359` | yalmip/YALMIP | [open](records/matlab-yalmip-yalmip-5944a420.md) |
 | `github_search_matlab-54d796f56e91dd` | Ayatans/Machine-Learning-homework | [open](records/matlab-ayatans-machine-learning-homework-1bc0f670.md) |
 | `github_search_matlab-557993eb03669d` | zhoubolei/CAM | [open](records/matlab-zhoubolei-cam-649680a3.md) |
 | `github_search_matlab-569e8dd4508306` | WEC-Sim/WEC-Sim | [open](records/matlab-wec-sim-wec-sim-864769f5.md) |
 | `github_search_matlab-56a5649b1f7bed` | jrgenerative/fixed-wing-sim | [open](records/matlab-jrgenerative-fixed-wing-sim-82fe39a4.md) |
+| `github_search_matlab-56bd0bec242a42` | gudbrandtandberg/CPSC540Project | [open](records/matlab-gudbrandtandberg-cpsc540project-3e5466f1.md) |
 | `github_search_matlab-56c9eab809ba71` | Time9Y/Matlab-Machine | [open](records/matlab-time9y-matlab-machine-faf92eb5.md) |
+| `github_search_matlab-59284ec756018e` | terencetaothucb/TBSI-Sunwoda-Battery-Dataset | [open](records/matlab-terencetaothucb-tbsi-sunwoda-battery-dataset-e60958c8.md) |
+| `github_search_matlab-5936e614f9ed1d` | dlopezg/mvpalab | [open](records/matlab-dlopezg-mvpalab-8a098d11.md) |
 | `github_search_matlab-59537e110c839e` | Borye/machine-learning-coursera-1 | [open](records/matlab-borye-machine-learning-coursera-1-3560aed1.md) |
+| `github_search_matlab-5a5501481f31ef` | m-r-s/hearingaid-prototype | [open](records/matlab-m-r-s-hearingaid-prototype-1ca66334.md) |
+| `github_search_matlab-5d3446f8741608` | Hamid-Nasiri/Recurrent-Fuzzy-Neural-Network | [open](records/matlab-hamid-nasiri-recurrent-fuzzy-neural-network-3f4f04cf.md) |
 | `github_search_matlab-5d5693a2c53ec9` | scottclowe/matlab-schemer | [open](records/matlab-scottclowe-matlab-schemer-3f456174.md) |
 | `github_search_matlab-5f878aa771d07b` | andrewssobral/lrslibrary | [open](records/matlab-andrewssobral-lrslibrary-51e8c5ff.md) |
+| `github_search_matlab-5fb3ff755a79b8` | jjjllxx/nus-neural-networks-ee5904-me5404 | [open](records/matlab-jjjllxx-nus-neural-networks-ee5904-me5404-98f8af69.md) |
+| `github_search_matlab-607b27b1cc9e27` | DrugowitschLab/VBLinLogit | [open](records/matlab-drugowitschlab-vblinlogit-882a754f.md) |
 | `github_search_matlab-61d1be69eb3355` | atinesh/Coursera-Machine-Learning-Stanford | [open](records/matlab-atinesh-coursera-machine-learning-stanford-a3a13c5f.md) |
 | `github_search_matlab-62b8504e65db83` | brainstorm-tools/brainstorm3 | [open](records/matlab-brainstorm-tools-brainstorm3-8639963d.md) |
 | `github_search_matlab-6338670632eb93` | LyricYang/MIMO_OFDM | [open](records/matlab-lyricyang-mimo-ofdm-e01bbb58.md) |
 | `github_search_matlab-63561ed6b1adb3` | matlab-deep-learning/llms-with-matlab | [open](records/matlab-matlab-deep-learning-llms-with-matlab-206936ca.md) |
 | `github_search_matlab-63aeb22f3d8d25` | ucdavis/erplab | [open](records/matlab-ucdavis-erplab-9a4c4944.md) |
+| `github_search_matlab-64db30ae02533a` | OpenOCL/OpenOCL | [open](records/matlab-openocl-openocl-422ec187.md) |
 | `github_search_matlab-67fbcd11116e0b` | sccn/eeglab | [open](records/matlab-sccn-eeglab-a9eb4cad.md) |
+| `github_search_matlab-683897440f6ba2` | rmarquis/coursera-machinelearning | [open](records/matlab-rmarquis-coursera-machinelearning-fdcd33d9.md) |
+| `github_search_matlab-686104f0297982` | DSPKM/DSPKM | [open](records/matlab-dspkm-dspkm-15360a9c.md) |
+| `github_search_matlab-6940996ac7fd4f` | huiwenzhang/ml-in-action | [open](records/matlab-huiwenzhang-ml-in-action-8b1d764b.md) |
 | `github_search_matlab-69e7c90c3fd05b` | ktekeli/audio-steganography-algorithms | [open](records/matlab-ktekeli-audio-steganography-algorithms-59a5ea02.md) |
 | `github_search_matlab-6b3b1605e87e65` | posenhuang/deeplearningsourceseparation | [open](records/matlab-posenhuang-deeplearningsourceseparation-e7362cf3.md) |
 | `github_search_matlab-6b8f1a23577346` | lamfur07/Flight-Dynamics-and-Control-UAVs | [open](records/matlab-lamfur07-flight-dynamics-and-control-uavs-4a90914e.md) |
 | `github_search_matlab-6bdfd5154161b9` | Relja/netvlad | [open](records/matlab-relja-netvlad-82b8944c.md) |
 | `github_search_matlab-6cc43caf92e01f` | banterle/HDR_Toolbox | [open](records/matlab-banterle-hdr-toolbox-ce0c6ca0.md) |
 | `github_search_matlab-6d1fce502fe8e7` | jtkim-kaist/VAD | [open](records/matlab-jtkim-kaist-vad-91b1919c.md) |
+| `github_search_matlab-6d35e1ab1d2c9a` | MarineBioAcousticsRC/Triton | [open](records/matlab-marinebioacousticsrc-triton-24e50bbb.md) |
+| `github_search_matlab-6ebef9ea0894f1` | SteveLuH/tiadc-mismatch-model | [open](records/matlab-steveluh-tiadc-mismatch-model-8a0a686a.md) |
 | `github_search_matlab-71cb1591797518` | petercorke/robotics-toolbox-matlab | [open](records/matlab-petercorke-robotics-toolbox-matlab-fe212443.md) |
+| `github_search_matlab-739cafc461082c` | rnissel/Channel-Estimation | [open](records/matlab-rnissel-channel-estimation-291e02ec.md) |
 | `github_search_matlab-75f91e084dc8a5` | grinsted/wavelet-coherence | [open](records/matlab-grinsted-wavelet-coherence-50efb1eb.md) |
 | `github_search_matlab-77a6e7207a39b2` | ZJULearning/MatlabFunc | [open](records/matlab-zjulearning-matlabfunc-caef56f8.md) |
 | `github_search_matlab-77b67e276633ae` | XinLiGH/GyroAllan | [open](records/matlab-xinligh-gyroallan-dd723003.md) |
+| `github_search_matlab-78c1b8fe32103e` | wubaoyuan/Lpbox-ADMM | [open](records/matlab-wubaoyuan-lpbox-admm-37351c33.md) |
 | `github_search_matlab-79b3baba9afaab` | SciML/SciMLBenchmarks.jl | [open](records/matlab-sciml-scimlbenchmarks-jl-e7766b64.md) |
 | `github_search_matlab-7a560852b98f14` | Ewenwan/Mathematics | [open](records/matlab-ewenwan-mathematics-14aba0bf.md) |
 | `github_search_matlab-7ac971368191f1` | Firmament-Autopilot/FMT-Model | [open](records/matlab-firmament-autopilot-fmt-model-e34acb3b.md) |
+| `github_search_matlab-7bf082660da6af` | alinionutpopa/dmhs | [open](records/matlab-alinionutpopa-dmhs-02f06925.md) |
 | `github_search_matlab-7c2683be40f9ee` | MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning | [open](records/matlab-mathfoundationrl-book-mathematical-foundation-of-reinforcement-learning-34855485.md) |
 | `github_search_matlab-7c8258509682af` | martin-danelljan/ECO | [open](records/matlab-martin-danelljan-eco-f7ff0b42.md) |
+| `github_search_matlab-7c8fdacaf867e8` | jyf588/lrle | [open](records/matlab-jyf588-lrle-f2ec97bb.md) |
 | `github_search_matlab-7d3b07089bb5b0` | adnanmunawar/matlab-rrt-variants | [open](records/matlab-adnanmunawar-matlab-rrt-variants-21140151.md) |
+| `github_search_matlab-7db8d4e87d980f` | godmoves/basic_nn_in_matlab | [open](records/matlab-godmoves-basic-nn-in-matlab-4af9aff5.md) |
 | `github_search_matlab-7dd61c9f04ae9f` | gibbonCode/GIBBON | [open](records/matlab-gibboncode-gibbon-ac6594e9.md) |
 | `github_search_matlab-7edf3aa5954de2` | anilbas/3DMMasSTN | [open](records/matlab-anilbas-3dmmasstn-e4f6319a.md) |
+| `github_search_matlab-7f6ecfa14b2a14` | vsmolyakov/ml | [open](records/matlab-vsmolyakov-ml-cf705914.md) |
+| `github_search_matlab-7fcc648502100c` | Zheng-Meng/Tracking-Control | [open](records/matlab-zheng-meng-tracking-control-23291d6f.md) |
 | `github_search_matlab-8020061d211839` | cs-chan/Total-Text-Dataset | [open](records/matlab-cs-chan-total-text-dataset-1d6512f1.md) |
+| `github_search_matlab-80bb43682102fd` | lzz19980125/awesome-time-series-segmentation-papers | [open](records/matlab-lzz19980125-awesome-time-series-segmentation-papers-c7af1a9e.md) |
 | `github_search_matlab-818c9851907815` | bcmi/Image-Harmonization-Dataset-iHarmony4 | [open](records/matlab-bcmi-image-harmonization-dataset-iharmony4-c3d10552.md) |
 | `github_search_matlab-81abb6d42dd4c9` | mahmoudnafifi/Exposure_Correction | [open](records/matlab-mahmoudnafifi-exposure-correction-5fc16b8a.md) |
 | `github_search_matlab-81d87d2efda08b` | mattools/matGeom | [open](records/matlab-mattools-matgeom-cdf5fe92.md) |
 | `github_search_matlab-821bb30f39668e` | luanfujun/deep-photo-styletransfer | [open](records/matlab-luanfujun-deep-photo-styletransfer-635a29ea.md) |
+| `github_search_matlab-82eb9d764d7b73` | Critical-Infrastructure-Systems-Lab/Multi-objective-feature-selection | [open](records/matlab-critical-infrastructure-systems-lab-multi-objective-feature-selection-a35e51f8.md) |
+| `github_search_matlab-83169642f2510b` | JingweiToo/Whale-Optimization-Algorithm-for-Feature-Selection | [open](records/matlab-jingweitoo-whale-optimization-algorithm-for-feature-selection-48ca7e7c.md) |
 | `github_search_matlab-83d00bdd20a96b` | hszhao/ICNet | [open](records/matlab-hszhao-icnet-0937526f.md) |
 | `github_search_matlab-844b5e499f3c82` | zk00006/OpenTLD | [open](records/matlab-zk00006-opentld-5cdf3778.md) |
+| `github_search_matlab-852c9342f5fd2c` | deyjishnu/digit-recognition | [open](records/matlab-deyjishnu-digit-recognition-bebd63b1.md) |
+| `github_search_matlab-86032f19366310` | NYU-DiffusionMRI/SMI | [open](records/matlab-nyu-diffusionmri-smi-5dabd7af.md) |
 | `github_search_matlab-86999ec68ed324` | alecjacobson/gptoolbox | [open](records/matlab-alecjacobson-gptoolbox-ad516582.md) |
 | `github_search_matlab-86be34f763fab5` | ai-winter/matlab_motion_planning | [open](records/matlab-ai-winter-matlab-motion-planning-d5486b2c.md) |
 | `github_search_matlab-871b469840ca94` | xioTechnologies/Gait-Tracking-With-x-IMU | [open](records/matlab-xiotechnologies-gait-tracking-with-x-imu-0e94ecc1.md) |
 | `github_search_matlab-87c823bb35a0bd` | Lisandro79/BeatTheBookie | [open](records/matlab-lisandro79-beatthebookie-a9ed323c.md) |
+| `github_search_matlab-89be44cfb0883b` | ultralytics/miniTimeCube | [open](records/matlab-ultralytics-minitimecube-2e723266.md) |
 | `github_search_matlab-8c4107e4ff163b` | Linfeng-Tang/Image-Fusion | [open](records/matlab-linfeng-tang-image-fusion-8beb660a.md) |
 | `github_search_matlab-8c5c09333199d8` | callmekeyboardman/Machine-Learning-Andrew-Ng | [open](records/matlab-callmekeyboardman-machine-learning-andrew-ng-b8bd679f.md) |
 | `github_search_matlab-8d839d5052dff5` | cycleuser/Stanford-CS-229 | [open](records/matlab-cycleuser-stanford-cs-229-ac92424c.md) |
@@ -7108,47 +7389,76 @@
 | `github_search_matlab-93a944c131bbbc` | brendenlake/BPL | [open](records/matlab-brendenlake-bpl-909abb72.md) |
 | `github_search_matlab-949352c6bc60d5` | mtex-toolbox/mtex | [open](records/matlab-mtex-toolbox-mtex-c19e6fb8.md) |
 | `github_search_matlab-94e214b3e87e46` | rbgirshick/voc-dpm | [open](records/matlab-rbgirshick-voc-dpm-e38c983e.md) |
+| `github_search_matlab-956eb1693ade5e` | zi-w/Max-value-Entropy-Search | [open](records/matlab-zi-w-max-value-entropy-search-8a1016f8.md) |
 | `github_search_matlab-956fcd1db7d067` | Bobholamovic/ChangeDetectionToolbox | [open](records/matlab-bobholamovic-changedetectiontoolbox-62a06817.md) |
 | `github_search_matlab-96ba6deac508dc` | CERN/TIGRE | [open](records/matlab-cern-tigre-7c6bed86.md) |
 | `github_search_matlab-96ebdc7f0cdca8` | willard-yuan/cnn-for-image-retrieval | [open](records/matlab-willard-yuan-cnn-for-image-retrieval-8ee2e5c8.md) |
 | `github_search_matlab-983bc0f8a0732c` | NerdsWithAttitudes/WarpFactory | [open](records/matlab-nerdswithattitudes-warpfactory-c9f05d2d.md) |
+| `github_search_matlab-9a201f58615f53` | JingweiToo/Binary-Grey-Wolf-Optimization-for-Feature-Selection | [open](records/matlab-jingweitoo-binary-grey-wolf-optimization-for-feature-selection-054f710b.md) |
 | `github_search_matlab-9b9ef9a860513a` | rpng/kalibr_allan | [open](records/matlab-rpng-kalibr-allan-f0b0c05c.md) |
+| `github_search_matlab-9c9fa40638a49c` | greyhatguy007/MachineLearningAndrewNG | [open](records/matlab-greyhatguy007-machinelearningandrewng-8afb78b6.md) |
+| `github_search_matlab-9cc68cad3cf741` | matteonerini/ml-based-csi-feedback | [open](records/matlab-matteonerini-ml-based-csi-feedback-93efead0.md) |
 | `github_search_matlab-9ce6d74507abbc` | raacampbell/shadedErrorBar | [open](records/matlab-raacampbell-shadederrorbar-069a2304.md) |
 | `github_search_matlab-9ed5616b5a50d8` | xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator | [open](records/matlab-xds0112-5g-based-system-level-integrated-sensing-and-communication-simulator-51378866.md) |
+| `github_search_matlab-a1c3741ef9706e` | Ashleshk/Machine-Learning-Stanford-Andrew-Ng | [open](records/matlab-ashleshk-machine-learning-stanford-andrew-ng-6c9e75b4.md) |
+| `github_search_matlab-a27685d0632ab8` | mikeroyal/MATLAB-Guide | [open](records/matlab-mikeroyal-matlab-guide-ce86917d.md) |
 | `github_search_matlab-a37b1ebd75840d` | peijin94/matlabPlotCheatsheet | [open](records/matlab-peijin94-matlabplotcheatsheet-9d158c73.md) |
 | `github_search_matlab-a39d024ab63fe3` | TadasBaltrusaitis/OpenFace | [open](records/matlab-tadasbaltrusaitis-openface-c146853e.md) |
+| `github_search_matlab-a4b830ee9c9e72` | utkuufuk/coursera-machine-learning | [open](records/matlab-utkuufuk-coursera-machine-learning-8676f292.md) |
 | `github_search_matlab-a4d4d63636eeeb` | cszn/SRMD | [open](records/matlab-cszn-srmd-1e37a165.md) |
 | `github_search_matlab-a56f8ec99d9b4e` | shahroudy/NTURGB-D | [open](records/matlab-shahroudy-nturgb-d-b9d8f894.md) |
+| `github_search_matlab-a57dd3bc0fccc5` | Rc-W024/SAR_Ship_detection_CFAR | [open](records/matlab-rc-w024-sar-ship-detection-cfar-4e33b0e8.md) |
 | `github_search_matlab-a59c53347d9868` | zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning | [open](records/matlab-zhaohaojie1998-grey-wolf-optimizer-for-path-planning-dcc05381.md) |
 | `github_search_matlab-a5b1e37e103f85` | fieldtrip/fieldtrip | [open](records/matlab-fieldtrip-fieldtrip-c82e0344.md) |
+| `github_search_matlab-a6ed6eb51136de` | steven2358/kafbox | [open](records/matlab-steven2358-kafbox-3e080a4d.md) |
 | `github_search_matlab-a74e915424081f` | panditanvita/BTCpredictor | [open](records/matlab-panditanvita-btcpredictor-daf6fdab.md) |
+| `github_search_matlab-a8ff92c554e1f9` | moranzcw/AndrewNg-Machine-Learning-NOTES | [open](records/matlab-moranzcw-andrewng-machine-learning-notes-4a3f9206.md) |
 | `github_search_matlab-aa39db56465ef6` | cs-chan/Exclusively-Dark-Image-Dataset | [open](records/matlab-cs-chan-exclusively-dark-image-dataset-f960e563.md) |
 | `github_search_matlab-aa54ca74cf0303` | quguai/Smart-Algorithm | [open](records/matlab-quguai-smart-algorithm-80d85df2.md) |
 | `github_search_matlab-aabbff9db2fe25` | denkywu/Simulation-of-SAR-Imaging-Algorithm | [open](records/matlab-denkywu-simulation-of-sar-imaging-algorithm-b74c974f.md) |
 | `github_search_matlab-ab37f4ed766403` | cszn/FFDNet | [open](records/matlab-cszn-ffdnet-d593a20d.md) |
 | `github_search_matlab-ac973eb5ca4240` | kpzhang93/MTCNN_face_detection_alignment | [open](records/matlab-kpzhang93-mtcnn-face-detection-alignment-586be06a.md) |
+| `github_search_matlab-ae279c58e7abcb` | ultralytics/functions-matlab | [open](records/matlab-ultralytics-functions-matlab-7687d566.md) |
+| `github_search_matlab-ae35644dbd3742` | iqiukp/Gaussian-Process-Regression | [open](records/matlab-iqiukp-gaussian-process-regression-ac5169d4.md) |
 | `github_search_matlab-aefd8e595710a0` | trekhleb/machine-learning-octave | [open](records/matlab-trekhleb-machine-learning-octave-3c6369fc.md) |
 | `github_search_matlab-b030e1afb4d80e` | kyamagu/mexopencv | [open](records/matlab-kyamagu-mexopencv-201dfc1f.md) |
+| `github_search_matlab-b05f1728cbe092` | steven2358/sklearn-matlab | [open](records/matlab-steven2358-sklearn-matlab-a0f0759a.md) |
 | `github_search_matlab-b1526ee42333dd` | yang69/MIMO-OFDM-Wireless-Communications-with-MATLAB | [open](records/matlab-yang69-mimo-ofdm-wireless-communications-with-matlab-0b2948ae.md) |
 | `github_search_matlab-b1757f0c5fd4c7` | matlab/matlab-agentic-toolkit | [open](records/matlab-matlab-matlab-agentic-toolkit-29d3949c.md) |
+| `github_search_matlab-b25983973c8b36` | Eric-Bradford/TS-EMO | [open](records/matlab-eric-bradford-ts-emo-d3f187cb.md) |
+| `github_search_matlab-b264f7d946fa4e` | RoyiAvital/StackExchangeCodes | [open](records/matlab-royiavital-stackexchangecodes-57e5c5da.md) |
+| `github_search_matlab-b3a3984f78b8db` | gemengtju/Tutorial_Separation | [open](records/matlab-gemengtju-tutorial-separation-6bf26d97.md) |
+| `github_search_matlab-b45a5d87f046b9` | hiroyuki-kasai/RSOpt | [open](records/matlab-hiroyuki-kasai-rsopt-cc4772d1.md) |
 | `github_search_matlab-b4dfee95045819` | pdollar/toolbox | [open](records/matlab-pdollar-toolbox-c83deaf9.md) |
 | `github_search_matlab-b4e41476ce33e9` | peiyunh/tiny | [open](records/matlab-peiyunh-tiny-c13d715f.md) |
 | `github_search_matlab-b531f964563e6f` | ox-vgg/vgg_face2 | [open](records/matlab-ox-vgg-vgg-face2-8f879ce5.md) |
+| `github_search_matlab-b56d395bfc39a2` | pirofti/ksvd_reg | [open](records/matlab-pirofti-ksvd-reg-c446bc4b.md) |
+| `github_search_matlab-b7dbabf7bba323` | pradlanka/malini | [open](records/matlab-pradlanka-malini-95986595.md) |
 | `github_search_matlab-ba6eefe14e69d5` | lacerbi/optimviz | [open](records/matlab-lacerbi-optimviz-978d4349.md) |
 | `github_search_matlab-bbd6882138ddb0` | matlab-deep-learning/transformer-models | [open](records/matlab-matlab-deep-learning-transformer-models-33203684.md) |
 | `github_search_matlab-bbf8b59ed27f51` | torrvision/crfasrnn | [open](records/matlab-torrvision-crfasrnn-d754088d.md) |
 | `github_search_matlab-bc2306f1228d25` | yechengxi/LightNet | [open](records/matlab-yechengxi-lightnet-9b2da162.md) |
+| `github_search_matlab-bc8b5c5c03f377` | JingweiToo/EMG-Feature-Extraction-Toolbox | [open](records/matlab-jingweitoo-emg-feature-extraction-toolbox-22a6bcf2.md) |
+| `github_search_matlab-bcf3a8edba825f` | hiroyuki-kasai/SparseGDLibrary | [open](records/matlab-hiroyuki-kasai-sparsegdlibrary-068c2050.md) |
+| `github_search_matlab-beadbfa65bbdbf` | bertinetto/staple | [open](records/matlab-bertinetto-staple-d5a45a59.md) |
 | `github_search_matlab-c1b0cb8bc97583` | googollee/eviltransform | [open](records/matlab-googollee-eviltransform-da18ece5.md) |
 | `github_search_matlab-c1edca2edec156` | mohammadrezwankhan/matlab-simulink-energy-lab | [open](records/matlab-mohammadrezwankhan-matlab-simulink-energy-lab-1613dbf1.md) |
 | `github_search_matlab-c1f148e11d3365` | chebfun/chebfun | [open](records/matlab-chebfun-chebfun-4915fd94.md) |
 | `github_search_matlab-c20d32e508d204` | bertinetto/siamese-fc | [open](records/matlab-bertinetto-siamese-fc-9cb2a67f.md) |
 | `github_search_matlab-c2bc33645e088a` | brendenlake/omniglot | [open](records/matlab-brendenlake-omniglot-d8bafdf7.md) |
+| `github_search_matlab-c2e9232f10873d` | brianwade1/actor_critic_quadcopter | [open](records/matlab-brianwade1-actor-critic-quadcopter-293cfd51.md) |
+| `github_search_matlab-c4029a6a58f69e` | SrirajBehera/Machine-Learning-Andrew-Ng | [open](records/matlab-srirajbehera-machine-learning-andrew-ng-f3d85a93.md) |
 | `github_search_matlab-c4fafc677c41a2` | MeowLucian/SDR_Matlab_OFDM_802.11a | [open](records/matlab-meowlucian-sdr-matlab-ofdm-802-11a-5ed3430a.md) |
 | `github_search_matlab-c4fb52fac8b608` | HuangCongQing/Algorithms_MathModels | [open](records/matlab-huangcongqing-algorithms-mathmodels-17eaa071.md) |
+| `github_search_matlab-c4fc06ca0c6999` | baidut/OpenCE | [open](records/matlab-baidut-opence-da08b629.md) |
 | `github_search_matlab-c55b0195d0d38f` | rasmusbergpalm/DeepLearnToolbox | [open](records/matlab-rasmusbergpalm-deeplearntoolbox-77fdfbd8.md) |
 | `github_search_matlab-c55d64d1a7a683` | willard-yuan/hashing-baseline-for-image-retrieval | [open](records/matlab-willard-yuan-hashing-baseline-for-image-retrieval-d84f4db3.md) |
+| `github_search_matlab-c568d13fb9acba` | hongyuXie/MachineLearning | [open](records/matlab-hongyuxie-machinelearning-8512a4eb.md) |
 | `github_search_matlab-ca95f5a6818b0d` | YashBansod/Robotics-Planning-Dynamics-and-Control | [open](records/matlab-yashbansod-robotics-planning-dynamics-and-control-fe7ab4ff.md) |
+| `github_search_matlab-cb99a344e41926` | hiroyuki-kasai/OLSTEC | [open](records/matlab-hiroyuki-kasai-olstec-9e67d5e7.md) |
 | `github_search_matlab-ccb1cb5e11c550` | jindongwang/activityrecognition | [open](records/matlab-jindongwang-activityrecognition-f331c65f.md) |
+| `github_search_matlab-ce645c078b9bcd` | eminSerin/NBS-Predict | [open](records/matlab-eminserin-nbs-predict-84e5ae97.md) |
+| `github_search_matlab-cece7d0019782d` | peterhcharlton/ppg-beats | [open](records/matlab-peterhcharlton-ppg-beats-0bcd24b3.md) |
 | `github_search_matlab-d0c20099a43f03` | guosheng/refinenet | [open](records/matlab-guosheng-refinenet-7dd39f0c.md) |
 | `github_search_matlab-d10cc64e009e35` | chenjoya/Vehicle_Detection_Recognition | [open](records/matlab-chenjoya-vehicle-detection-recognition-89663468.md) |
 | `github_search_matlab-d1586dda5e8bfa` | NeuroJSON/jsonlab | [open](records/matlab-neurojson-jsonlab-36111c60.md) |
@@ -7158,10 +7468,15 @@
 | `github_search_matlab-d5c37845d93bff` | ThomasYeoLab/CBIG | [open](records/matlab-thomasyeolab-cbig-84626e81.md) |
 | `github_search_matlab-d6767a61629085` | BIMK/PlatEMO | [open](records/matlab-bimk-platemo-b623ff0a.md) |
 | `github_search_matlab-d8ab9571e2e3b2` | hiroyuki-kasai/SGDLibrary | [open](records/matlab-hiroyuki-kasai-sgdlibrary-7c5d9df8.md) |
+| `github_search_matlab-d923eee6f9f565` | lintingbin/machine-learning-ex | [open](records/matlab-lintingbin-machine-learning-ex-d3e0e2d6.md) |
+| `github_search_matlab-d96518e38774e5` | giorgosmamakoukas/MemoryEfficientStableLDS | [open](records/matlab-giorgosmamakoukas-memoryefficientstablelds-79f99155.md) |
 | `github_search_matlab-d997c9c63ce522` | acerbilab/bads | [open](records/matlab-acerbilab-bads-bf0e61b1.md) |
+| `github_search_matlab-daba9542491d1f` | tallamjr/barberbook | [open](records/matlab-tallamjr-barberbook-847c17a0.md) |
+| `github_search_matlab-db3369919f05b2` | tahmidzbr/Human-Activities-Gestures-Recognition-using-Channel-State-Information-CSI-of-IEEE-802.11n | [open](records/matlab-tahmidzbr-human-activities-gestures-recognition-using-channel-state-information-csi-of-ieee-802-11n-c257a8cd.md) |
 | `github_search_matlab-dc5eba98db8143` | yrlu/quadrotor | [open](records/matlab-yrlu-quadrotor-c3ebdf94.md) |
 | `github_search_matlab-dd09cbeb01a68d` | AlterWL/Battery_SOC_Estimation | [open](records/matlab-alterwl-battery-soc-estimation-f6de4864.md) |
 | `github_search_matlab-dd28a2ccfc986a` | flatironinstitute/NoRMCorre | [open](records/matlab-flatironinstitute-normcorre-92bb4000.md) |
+| `github_search_matlab-dfbe14d52fa83a` | AlanRace/SpectralAnalysis | [open](records/matlab-alanrace-spectralanalysis-f38df761.md) |
 | `github_search_matlab-e203c39e60d985` | AlfredXiangWu/face_verification_experiment | [open](records/matlab-alfredxiangwu-face-verification-experiment-5bc415b2.md) |
 | `github_search_matlab-e2957a2a867ef9` | petercorke/machinevision-toolbox-matlab | [open](records/matlab-petercorke-machinevision-toolbox-matlab-ed766165.md) |
 | `github_search_matlab-e4181486417669` | matlab2tikz/matlab2tikz | [open](records/matlab-matlab2tikz-matlab2tikz-842ae780.md) |
@@ -7169,12 +7484,23 @@
 | `github_search_matlab-e51f5cb9636acf` | flatironinstitute/CaImAn-MATLAB | [open](records/matlab-flatironinstitute-caiman-matlab-f1d3a116.md) |
 | `github_search_matlab-e71f072f19ac1f` | mathworks/awesome-matlab-students | [open](records/matlab-mathworks-awesome-matlab-students-5d111c82.md) |
 | `github_search_matlab-ecb3671b8fb303` | denkywu/SAR-Synthetic-Aperture-Radar | [open](records/matlab-denkywu-sar-synthetic-aperture-radar-e2231d51.md) |
+| `github_search_matlab-ecfbe385fd684e` | matzewolf/kMeans | [open](records/matlab-matzewolf-kmeans-84e776ee.md) |
+| `github_search_matlab-ed938ab07ddd58` | ghamut/automated-venture-capitalist | [open](records/matlab-ghamut-automated-venture-capitalist-52f49054.md) |
+| `github_search_matlab-ee031824b9f810` | ZPGuiGroupWhu/ClusteringDirectionCentrality | [open](records/matlab-zpguigroupwhu-clusteringdirectioncentrality-5bac6f84.md) |
+| `github_search_matlab-ee1e7fec93a4ef` | wang-boyu/coursera-machine-learning | [open](records/matlab-wang-boyu-coursera-machine-learning-2a5962f3.md) |
+| `github_search_matlab-ef470085ae64db` | manthanthakker/speakerIdentificationNeuralNetworks | [open](records/matlab-manthanthakker-speakeridentificationneuralnetworks-84d6d974.md) |
+| `github_search_matlab-f47e3b30dbc934` | mahmoudnafifi/WB_sRGB | [open](records/matlab-mahmoudnafifi-wb-srgb-cd32a6ab.md) |
+| `github_search_matlab-f4c9f5d77c4903` | JingweiToo/EEG-Feature-Extraction-Toolbox | [open](records/matlab-jingweitoo-eeg-feature-extraction-toolbox-a1e6d2b7.md) |
+| `github_search_matlab-f4d31b5bbccc3e` | Zheng-Meng/Reservoir-Computing-and-Hyperparameter-Optimization | [open](records/matlab-zheng-meng-reservoir-computing-and-hyperparameter-optimization-35f02c6e.md) |
 | `github_search_matlab-f4d9cc27c047f8` | benfulcher/hctsa | [open](records/matlab-benfulcher-hctsa-738269ba.md) |
 | `github_search_matlab-f50e522c0f4f09` | AtsushiSakai/MATLABRobotics | [open](records/matlab-atsushisakai-matlabrobotics-cab1482c.md) |
+| `github_search_matlab-f53d98d08cf92c` | loserChen/Coursera-MachineLearning | [open](records/matlab-loserchen-coursera-machinelearning-da3884b4.md) |
 | `github_search_matlab-f5649a58db17a0` | rbgirshick/rcnn | [open](records/matlab-rbgirshick-rcnn-019228f7.md) |
 | `github_search_matlab-f5febf7d0c28d2` | MATPOWER/matpower | [open](records/matlab-matpower-matpower-c0501830.md) |
 | `github_search_matlab-f60dcc980d55a5` | cybergalactic/MSS | [open](records/matlab-cybergalactic-mss-a9aab0e3.md) |
 | `github_search_matlab-f8053738810a31` | HybridRobotics/NMPC-DCLF-DCBF | [open](records/matlab-hybridrobotics-nmpc-dclf-dcbf-2bb7179e.md) |
+| `github_search_matlab-f875eeb7b70625` | smousavi05/Seismic-Features-For-Machine-Learning | [open](records/matlab-smousavi05-seismic-features-for-machine-learning-b23e397b.md) |
+| `github_search_matlab-f910e0b2307111` | JingweiToo/Wrapper-Feature-Selection-Toolbox | [open](records/matlab-jingweitoo-wrapper-feature-selection-toolbox-e5f831f5.md) |
 | `github_search_matlab-fa9faf22e07479` | morriswmz/doa-tools | [open](records/matlab-morriswmz-doa-tools-1d8c8495.md) |
 | `github_search_matlab-fec630b2e7230f` | altmany/export_fig | [open](records/matlab-altmany-export-fig-03c1144c.md) |
 | `github_search_microscopy-01770fb9465da7` | afermg/cp_measure | [open](records/microscopy-afermg-cp-measure-ee9fd0ec.md) |
@@ -9611,55 +9937,92 @@
 | `github_search_webassembly-ff43482badc701` | wasmerio/wasmer-js | [open](records/webassembly-wasmerio-wasmer-js-3c26a73b.md) |
 | `github_search_webassembly-fff9f43d235315` | deislabs/spiderlightning | [open](records/webassembly-deislabs-spiderlightning-806ab4a3.md) |
 | `gitlab_projects_api-008fd7eda39e52` | barrel-db/barrel-platform | [open](records/repository-workplaces-barrel-db-barrel-platform-c0ea9b49.md) |
+| `gitlab_projects_api-00acd7c49a2c7c` | gitlab-org/security-products/dependency-scanning | [open](records/repository-workplaces-gitlab-org-security-products-dependency-scanning-3f274c86.md) |
 | `gitlab_projects_api-03f958e87c2ec9` | freedesktop-sdk/freedesktop-sdk | [open](records/repository-workplaces-freedesktop-sdk-freedesktop-sdk-d7a3f323.md) |
+| `gitlab_projects_api-05fcf3182ea199` | re-volt/rvgl-launcher | [open](records/repository-workplaces-re-volt-rvgl-launcher-79fbfb0a.md) |
 | `gitlab_projects_api-07f9df5bbefbee` | exploit-database/exploitdb | [open](records/repository-workplaces-exploit-database-exploitdb-f78a49a7.md) |
 | `gitlab_projects_api-09993bb1f4ce9a` | r2devops/documentation | [open](records/repository-workplaces-r2devops-documentation-e24995af.md) |
+| `gitlab_projects_api-0a7e2e7ec04d04` | castlecraft/erpnext_kubernetes | [open](records/repository-workplaces-castlecraft-erpnext-kubernetes-f8edadde.md) |
 | `gitlab_projects_api-0b7cf77c0214ec` | xavki/become-devops-s01 | [open](records/repository-workplaces-xavki-become-devops-s01-8ce087b3.md) |
 | `gitlab_projects_api-0d270b91cd09e8` | ataraxialinux/ataraxia | [open](records/repository-workplaces-ataraxialinux-ataraxia-2c1d6174.md) |
 | `gitlab_projects_api-0d4e3eafd4810a` | just.insane/kubernetes | [open](records/repository-workplaces-just-insane-kubernetes-b3dc8533.md) |
 | `gitlab_projects_api-0ec32849aa549d` | jrmiller82/pathfinder-2-sqlite | [open](records/repository-workplaces-jrmiller82-pathfinder-2-sqlite-806cf747.md) |
 | `gitlab_projects_api-10df29863b2598` | prism-break/prism-break | [open](records/repository-workplaces-prism-break-prism-break-503c05ff.md) |
+| `gitlab_projects_api-120bdf6b6eab54` | icecap-project/icecap | [open](records/repository-workplaces-icecap-project-icecap-186fdf2b.md) |
+| `gitlab_projects_api-139d76b2348214` | qvex/vex-rt | [open](records/repository-workplaces-qvex-vex-rt-86c278e7.md) |
 | `gitlab_projects_api-141957e93f7c4f` | gitlab-org/ci-cd/gitlab-runner-pod-cleanup | [open](records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) |
+| `gitlab_projects_api-154c6fcebd260c` | andreyorst/fenneldoc | [open](records/repository-workplaces-andreyorst-fenneldoc-ae269a8d.md) |
+| `gitlab_projects_api-162ef133387547` | sofreeus/introtodevops | [open](records/repository-workplaces-sofreeus-introtodevops-27fc9ae4.md) |
 | `gitlab_projects_api-18669d7cc7c6d8` | gitlab-examples/ruby-autodeploy | [open](records/repository-workplaces-gitlab-examples-ruby-autodeploy-0ea70988.md) |
+| `gitlab_projects_api-196f7d3f67107b` | hsleisink/banshee | [open](records/repository-workplaces-hsleisink-banshee-aad045c2.md) |
+| `gitlab_projects_api-1c6414ef15dd8b` | cloud-versity/rancher-k3s-first-steps | [open](records/repository-workplaces-cloud-versity-rancher-k3s-first-steps-c86f160c.md) |
 | `gitlab_projects_api-1d842632a95712` | cznic/cc | [open](records/repository-workplaces-cznic-cc-89e992e6.md) |
 | `gitlab_projects_api-1f0b7e4d28298e` | HariSekhon/DevOps-Bash-tools | [open](records/repository-workplaces-harisekhon-devops-bash-tools-738fa927.md) |
+| `gitlab_projects_api-2094a8debbcc17` | xavki/tutorials-terraform | [open](records/repository-workplaces-xavki-tutorials-terraform-293992cc.md) |
+| `gitlab_projects_api-21d4e68b268328` | lu-ci/sigma/apex-sigma | [open](records/repository-workplaces-lu-ci-sigma-apex-sigma-c11a60ff.md) |
+| `gitlab_projects_api-22dd6b347a6c4e` | hacklunch/ntsclient | [open](records/repository-workplaces-hacklunch-ntsclient-f3896676.md) |
 | `gitlab_projects_api-237c9e25837c42` | spritely/goblins | [open](records/repository-workplaces-spritely-goblins-f5ed6a86.md) |
 | `gitlab_projects_api-23f0b42c9ae860` | spritely/guile-goblins | [open](records/repository-workplaces-spritely-guile-goblins-fcb5eb63.md) |
+| `gitlab_projects_api-24ac2196148471` | konstellation/kre-old | [open](records/repository-workplaces-konstellation-kre-old-f992c991.md) |
 | `gitlab_projects_api-24f88191822e9a` | DerLinkshaender/csv2xlsx | [open](records/repository-workplaces-derlinkshaender-csv2xlsx-bd2e77a2.md) |
+| `gitlab_projects_api-26346d7af8f34c` | ska-telescope/ska-skampi | [open](records/repository-workplaces-ska-telescope-ska-skampi-cd36a126.md) |
+| `gitlab_projects_api-2b0569e766b936` | styx-lang/styx | [open](records/repository-workplaces-styx-lang-styx-2a4ad5fc.md) |
+| `gitlab_projects_api-2beacf54f52d2f` | quietkerb/steamplayprefix | [open](records/repository-workplaces-quietkerb-steamplayprefix-11cb52d3.md) |
 | `gitlab_projects_api-2e92c029d144e1` | gitlab-org/professional-services-automation/tools/utilities/pipeintel | [open](records/repository-workplaces-gitlab-org-professional-services-automation-tools-utilities-pipeintel-c5173f91.md) |
+| `gitlab_projects_api-2f577c103f32fe` | gitlab-org/caproni | [open](records/repository-workplaces-gitlab-org-caproni-40271619.md) |
 | `gitlab_projects_api-3256f54191e795` | supremesonicbrazil/GBML | [open](records/repository-workplaces-supremesonicbrazil-gbml-903e6031.md) |
 | `gitlab_projects_api-325d57d73e5bc2` | kara.moe/karaokebase | [open](records/repository-workplaces-kara-moe-karaokebase-267a238d.md) |
 | `gitlab_projects_api-32e0eb71f5ff33` | cespedes/ltrace | [open](records/repository-workplaces-cespedes-ltrace-7df92cd8.md) |
+| `gitlab_projects_api-33213a7358d0a7` | riot.ai/NoteRiot | [open](records/repository-workplaces-riot-ai-noteriot-9fadeb02.md) |
 | `gitlab_projects_api-334d9e19f7177e` | trapper-project/trapper | [open](records/repository-workplaces-trapper-project-trapper-13637998.md) |
+| `gitlab_projects_api-33ec9c4e458244` | nucleoid/nucleoid | [open](records/repository-workplaces-nucleoid-nucleoid-b3f90f4f.md) |
 | `gitlab_projects_api-354495f03c8735` | postgres-ai/nancy | [open](records/repository-workplaces-postgres-ai-nancy-b72b9a50.md) |
 | `gitlab_projects_api-35dbc4514e291a` | openid/conformance-suite | [open](records/repository-workplaces-openid-conformance-suite-34afbe2d.md) |
+| `gitlab_projects_api-36dfa745dba084` | comunidade-cloud/aws/atualizar-ip-no-security-group | [open](records/repository-workplaces-comunidade-cloud-aws-atualizar-ip-no-security-group-2b0060ed.md) |
+| `gitlab_projects_api-3b0b1f8b33cf32` | yakshaving.art/alertsnitch | [open](records/repository-workplaces-yakshaving-art-alertsnitch-0835bee1.md) |
+| `gitlab_projects_api-3de790dc60baea` | ubports/development/core/flatpak/ubuntu-touch-flatpak-runtime | [open](records/repository-workplaces-ubports-development-core-flatpak-ubuntu-touch-flatpak-runtime-bc132755.md) |
 | `gitlab_projects_api-403c4c21817a5d` | sandro.lechner/aula-devops-fundamentals | [open](records/repository-workplaces-sandro-lechner-aula-devops-fundamentals-4052fbb6.md) |
 | `gitlab_projects_api-40e98ec6f0f9e9` | dmfay/pdot | [open](records/repository-workplaces-dmfay-pdot-56b85913.md) |
+| `gitlab_projects_api-446fefde470a37` | opensecuritytraining/vulns1001_c_implementation_vulns_slides_and_subtitles | [open](records/repository-workplaces-opensecuritytraining-vulns1001-c-implementation-vulns-slides-and-subtitles-6ddf88cb.md) |
 | `gitlab_projects_api-44c87b9188d943` | yaook/operator | [open](records/repository-workplaces-yaook-operator-aa452dcd.md) |
 | `gitlab_projects_api-462d8c8a9e3803` | gitlab-org/charts/gitlab-agent | [open](records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) |
+| `gitlab_projects_api-46324f0700e138` | ngalog-gitlab/openapi_security_scanner | [open](records/repository-workplaces-ngalog-gitlab-openapi-security-scanner-30036c82.md) |
+| `gitlab_projects_api-4663cdb0a08093` | internet-cleanup-foundation/web-security-map | [open](records/repository-workplaces-internet-cleanup-foundation-web-security-map-8627947d.md) |
+| `gitlab_projects_api-4852e8a325e3e2` | projectofst/el-sw/opensource/software10e | [open](records/repository-workplaces-projectofst-el-sw-opensource-software10e-dd1c6b07.md) |
 | `gitlab_projects_api-492af360238927` | pixinsight/PJSR | [open](records/repository-workplaces-pixinsight-pjsr-ea42f187.md) |
+| `gitlab_projects_api-494742a6d4c250` | gutocarvalho/devops-tips | [open](records/repository-workplaces-gutocarvalho-devops-tips-cb4777e6.md) |
 | `gitlab_projects_api-4b61fbbc423795` | BonsaiDen/gbc-rs | [open](records/repository-workplaces-bonsaiden-gbc-rs-0bcbf02a.md) |
 | `gitlab_projects_api-4cd469c10b3b22` | to-be-continuous/mobsf | [open](records/repository-workplaces-to-be-continuous-mobsf-692d3965.md) |
+| `gitlab_projects_api-4dbe2095507d60` | palmapps/jwt-spring-security-demo | [open](records/repository-workplaces-palmapps-jwt-spring-security-demo-674caee6.md) |
 | `gitlab_projects_api-4e9246080591bb` | BuildGrid/recc | [open](records/repository-workplaces-buildgrid-recc-21c7a89e.md) |
 | `gitlab_projects_api-4ef00904052e69` | depesz/pgWikiDont | [open](records/repository-workplaces-depesz-pgwikidont-4a32d6e0.md) |
 | `gitlab_projects_api-4f24f34f664506` | OpenTAP/opentap | [open](records/repository-workplaces-opentap-opentap-6d917c43.md) |
 | `gitlab_projects_api-4f410f0e13f03d` | nb-tech-support/devops | [open](records/repository-workplaces-nb-tech-support-devops-42f3c6a9.md) |
+| `gitlab_projects_api-4ff22db30a3e93` | xavki/tutorials-kubernetes-v2 | [open](records/repository-workplaces-xavki-tutorials-kubernetes-v2-f5262aef.md) |
+| `gitlab_projects_api-50f304c398fa80` | guided-explorations/aws/cloudformation/cloudformation-deploy | [open](records/repository-workplaces-guided-explorations-aws-cloudformation-cloudformation-deploy-2aca98f3.md) |
 | `gitlab_projects_api-52936944b699de` | exploit-database/exploitdb-papers | [open](records/repository-workplaces-exploit-database-exploitdb-papers-7796424e.md) |
+| `gitlab_projects_api-5653721191f949` | W4Games/cloud/database | [open](records/repository-workplaces-w4games-cloud-database-8600d8c3.md) |
 | `gitlab_projects_api-57e07d5b7d8850` | Polly-lang/Polly | [open](records/repository-workplaces-polly-lang-polly-4337e87f.md) |
+| `gitlab_projects_api-5ab45e2e286357` | albertito/chasquid | [open](records/repository-workplaces-albertito-chasquid-e1db3cbd.md) |
 | `gitlab_projects_api-5c8a0fb32f3f68` | ananace/charts | [open](records/repository-workplaces-ananace-charts-e6b30b05.md) |
 | `gitlab_projects_api-5dcf83028c5c2f` | radiobrowser/radio-database | [open](records/repository-workplaces-radiobrowser-radio-database-bfa28291.md) |
 | `gitlab_projects_api-5f51e4bed39111` | exploit-database/exploitdb-bin-sploits | [open](records/repository-workplaces-exploit-database-exploitdb-bin-sploits-c736210d.md) |
 | `gitlab_projects_api-5fe2b0f82b49e9` | postgres-ai/custom-images | [open](records/repository-workplaces-postgres-ai-custom-images-45d426ed.md) |
+| `gitlab_projects_api-62aacdc440ffdd` | kargo-ci/kubernetes-sigs-kubespray | [open](records/repository-workplaces-kargo-ci-kubernetes-sigs-kubespray-bd6a5638.md) |
 | `gitlab_projects_api-63dbf4f59b0ef9` | rocha.public/cursos/jenkins-em-larga-escala | [open](records/repository-workplaces-rocha-public-cursos-jenkins-em-larga-escala-11be6109.md) |
 | `gitlab_projects_api-648b80bb78cc21` | portmod/portmod | [open](records/repository-workplaces-portmod-portmod-a38f55d6.md) |
 | `gitlab_projects_api-685a160521a27b` | lavitto/typo3-form-to-database | [open](records/repository-workplaces-lavitto-typo3-form-to-database-83392b7e.md) |
+| `gitlab_projects_api-6b6baba0246bef` | xavki/tutorials-postgresql | [open](records/repository-workplaces-xavki-tutorials-postgresql-a1210284.md) |
+| `gitlab_projects_api-6d58d956c69895` | dalibo/pg_migrate | [open](records/repository-workplaces-dalibo-pg-migrate-f66a654f.md) |
 | `gitlab_projects_api-6ee8408a71b33e` | gitlab-org/security-products/dast | [open](records/repository-workplaces-gitlab-org-security-products-dast-90dd5672.md) |
 | `gitlab_projects_api-6f882f514e5955` | bg-utp-repository/devops-y-control-de-versiones-git | [open](records/repository-workplaces-bg-utp-repository-devops-y-control-de-versiones-git-1435df7e.md) |
 | `gitlab_projects_api-7400d9cc0d5528` | znixian/luajit-decompiler | [open](records/repository-workplaces-znixian-luajit-decompiler-0609facc.md) |
 | `gitlab_projects_api-747938457184c8` | LondonAppDev/recipe-app-api-devops-starting-code | [open](records/repository-workplaces-londonappdev-recipe-app-api-devops-starting-code-ab68f6f2.md) |
 | `gitlab_projects_api-75b6c9b32b42ec` | LondonAppDev/recipe-app-api-proxy | [open](records/repository-workplaces-londonappdev-recipe-app-api-proxy-34f38c15.md) |
 | `gitlab_projects_api-79a430cf0b4cd4` | k3s_hetzner/k3s_hetzner | [open](records/repository-workplaces-k3s-hetzner-k3s-hetzner-d2927843.md) |
+| `gitlab_projects_api-7aa79e7f3c1c28` | YottaDB/DBMS/YDBOcto | [open](records/repository-workplaces-yottadb-dbms-ydbocto-18c870f3.md) |
 | `gitlab_projects_api-7ac251b89086bc` | ClearURLs/rules | [open](records/repository-workplaces-clearurls-rules-bff01361.md) |
+| `gitlab_projects_api-7b540c4680156f` | arturbosch/detekt | [open](records/repository-workplaces-arturbosch-detekt-56d0535b.md) |
 | `gitlab_projects_api-7b709023a7c4ab` | cznic/libc | [open](records/repository-workplaces-cznic-libc-3b834450.md) |
 | `gitlab_projects_api-7e421cd184f044` | gitlab-examples/kubernetes-example | [open](records/repository-workplaces-gitlab-examples-kubernetes-example-eea47aba.md) |
 | `gitlab_projects_api-7e6146e4dcee58` | piyush-kurur/compilers | [open](records/repository-workplaces-piyush-kurur-compilers-f7578472.md) |
@@ -9668,32 +10031,50 @@
 | `gitlab_projects_api-81a212cb685483` | mopsa/mopsa-analyzer | [open](records/repository-workplaces-mopsa-mopsa-analyzer-9740e96e.md) |
 | `gitlab_projects_api-8416f5f720c9a7` | bdowney/ansible-demo | [open](records/repository-workplaces-bdowney-ansible-demo-8ddaacae.md) |
 | `gitlab_projects_api-8647dee94d46f8` | toskao/descomplicandokubernetes | [open](records/repository-workplaces-toskao-descomplicandokubernetes-0c4ed22a.md) |
+| `gitlab_projects_api-8720eca4b51ed0` | SiLA2/sila_csharp | [open](records/repository-workplaces-sila2-sila-csharp-d6b0c07b.md) |
+| `gitlab_projects_api-87d2636efea6ca` | gitlab-org/advisories-community | [open](records/repository-workplaces-gitlab-org-advisories-community-621603ca.md) |
 | `gitlab_projects_api-88d54fcfb6ac8e` | gitlab-org/security-products/analyzers/container-scanning | [open](records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) |
 | `gitlab_projects_api-8abc3ef83fda3b` | gitlab-org/cloud-native/gitlab-operator | [open](records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
+| `gitlab_projects_api-8bc23c622c86a3` | Reference-Standard-M/rsm | [open](records/repository-workplaces-reference-standard-m-rsm-bb68fa26.md) |
+| `gitlab_projects_api-8bc795a4c71a7f` | juliendehos/nix42b | [open](records/repository-workplaces-juliendehos-nix42b-fe0574e7.md) |
 | `gitlab_projects_api-92cecddc4cf531` | gitlab-security-oss/cis/gitlabcis | [open](records/repository-workplaces-gitlab-security-oss-cis-gitlabcis-f7ce6047.md) |
+| `gitlab_projects_api-9384fe1fe85e9b` | learndevopseasy/troubleshoot/kubernetes-apps | [open](records/repository-workplaces-learndevopseasy-troubleshoot-kubernetes-apps-43ef407e.md) |
+| `gitlab_projects_api-9512e3d13a48ca` | juliedavila/software-factory-security-framework | [open](records/repository-workplaces-juliedavila-software-factory-security-framework-4ce32b0d.md) |
 | `gitlab_projects_api-957bc9edc5eb83` | postgres-ai/joe | [open](records/repository-workplaces-postgres-ai-joe-6048f213.md) |
 | `gitlab_projects_api-961eb8ac896e06` | LondonAppDev/recipe-app-api-devops | [open](records/repository-workplaces-londonappdev-recipe-app-api-devops-4fcb038e.md) |
+| `gitlab_projects_api-96e279228efa0d` | xavki/tutorials-raspberry-tips | [open](records/repository-workplaces-xavki-tutorials-raspberry-tips-bf803ae3.md) |
 | `gitlab_projects_api-9730482f9cb1d7` | baixingwang/devops-user-service | [open](records/repository-workplaces-baixingwang-devops-user-service-33f0ca48.md) |
 | `gitlab_projects_api-9c91aee455092b` | arm-hpc/training/arm-sve-tools | [open](records/repository-workplaces-arm-hpc-training-arm-sve-tools-21f1b9fd.md) |
+| `gitlab_projects_api-9e55dc9459fcc3` | guided-explorations/ci-components/checkov-iac-sast | [open](records/repository-workplaces-guided-explorations-ci-components-checkov-iac-sast-fb5e85c0.md) |
+| `gitlab_projects_api-9e78feea58f07f` | mts-teta-public/devops-tools | [open](records/repository-workplaces-mts-teta-public-devops-tools-0ec6239d.md) |
 | `gitlab_projects_api-9f287f0cce6138` | nanuchi/bootcamp-kubernetes | [open](records/repository-workplaces-nanuchi-bootcamp-kubernetes-14dcba8c.md) |
 | `gitlab_projects_api-a08797da96221a` | xavki/vagrant-stacks-library | [open](records/repository-workplaces-xavki-vagrant-stacks-library-9b9d6de1.md) |
 | `gitlab_projects_api-a0c5e7cd33576c` | ongresinc/stackgres | [open](records/repository-workplaces-ongresinc-stackgres-219e17d7.md) |
 | `gitlab_projects_api-a196fc2b733551` | mindsphere/devops-demo | [open](records/repository-workplaces-mindsphere-devops-demo-a54808d3.md) |
+| `gitlab_projects_api-a552abbc7e293b` | peachtech/peach-fuzzer-community | [open](records/repository-workplaces-peachtech-peach-fuzzer-community-e1ee7aba.md) |
 | `gitlab_projects_api-a650b6759b93c6` | dslackw/slpkg | [open](records/repository-workplaces-dslackw-slpkg-a996713a.md) |
+| `gitlab_projects_api-a7b04d77e2b5c5` | depesz/Versioning | [open](records/repository-workplaces-depesz-versioning-c737c869.md) |
+| `gitlab_projects_api-a971ca697c0559` | mt-ag-k8s-training-course/kubernetesexercises | [open](records/repository-workplaces-mt-ag-k8s-training-course-kubernetesexercises-8c51245a.md) |
 | `gitlab_projects_api-a993c2906073b0` | gitlab-org/security-products/gemnasium-db | [open](records/repository-workplaces-gitlab-org-security-products-gemnasium-db-646d6d68.md) |
 | `gitlab_projects_api-a9ee43611803b8` | ksxack/administrator-kubernetes-junior | [open](records/repository-workplaces-ksxack-administrator-kubernetes-junior-6dbf6036.md) |
 | `gitlab_projects_api-aa9fca8a9bf53d` | cznic/sqlite | [open](records/repository-workplaces-cznic-sqlite-e2eb3927.md) |
 | `gitlab_projects_api-ac1c9a7d38137c` | r2devops/hub | [open](records/repository-workplaces-r2devops-hub-d00edf3f.md) |
 | `gitlab_projects_api-ad26980ed4f34e` | xavki/devopsland | [open](records/repository-workplaces-xavki-devopsland-282c7f5f.md) |
+| `gitlab_projects_api-ae53be73300186` | sharkattack/express-authentication | [open](records/repository-workplaces-sharkattack-express-authentication-f9842a77.md) |
+| `gitlab_projects_api-af0a5be5362e8a` | gitlab-da/tutorials/security-and-governance/devsecops/simply-vulnerable-notes | [open](records/repository-workplaces-gitlab-da-tutorials-security-and-governance-devsecops-simply-vulnerable-notes-6335e24d.md) |
 | `gitlab_projects_api-af2615051725ae` | cznic/ql | [open](records/repository-workplaces-cznic-ql-298bf64a.md) |
+| `gitlab_projects_api-af9e557b12756c` | esr/intercal | [open](records/repository-workplaces-esr-intercal-06f5df57.md) |
 | `gitlab_projects_api-b053bf88ebe8e6` | xavki/infrastructure-cloud-infomaniak | [open](records/repository-workplaces-xavki-infrastructure-cloud-infomaniak-7c2de9cf.md) |
 | `gitlab_projects_api-b15d4f7218da9c` | Rich-Harris/buble | [open](records/repository-workplaces-rich-harris-buble-a19a38f7.md) |
+| `gitlab_projects_api-b219dc99e08949` | Project-FiFo/DalmatinerDB/dalmatinerdb | [open](records/repository-workplaces-project-fifo-dalmatinerdb-dalmatinerdb-5025c1a4.md) |
 | `gitlab_projects_api-b50d3638538d5c` | postgres-ai/database-lab | [open](records/repository-workplaces-postgres-ai-database-lab-87d74ca8.md) |
+| `gitlab_projects_api-b9d7cbf5fcff37` | vijai/SqliteDBViewer | [open](records/repository-workplaces-vijai-sqlitedbviewer-11e8b1d5.md) |
 | `gitlab_projects_api-bc76b19ff8b479` | davivc/gitlab-ci-google-cloud-kubernetes | [open](records/repository-workplaces-davivc-gitlab-ci-google-cloud-kubernetes-ae4609d3.md) |
 | `gitlab_projects_api-bcaeefb393deac` | Shinobi-Systems/ShinobiCE | [open](records/repository-workplaces-shinobi-systems-shinobice-52eaee8b.md) |
 | `gitlab_projects_api-bcb113f9b6a751` | expliot_framework/expliot | [open](records/repository-workplaces-expliot-framework-expliot-032905f5.md) |
 | `gitlab_projects_api-bcedc5c4f1f714` | gitlab-com/gl-infra/k8s-workloads/gitlab-com | [open](records/repository-workplaces-gitlab-com-gl-infra-k8s-workloads-gitlab-com-13cc554b.md) |
 | `gitlab_projects_api-bd42c820a6cc69` | thenewoil/website | [open](records/repository-workplaces-thenewoil-website-307e663b.md) |
+| `gitlab_projects_api-c0312f487d7a5b` | dfffffff/gcc6809 | [open](records/repository-workplaces-dfffffff-gcc6809-15bef404.md) |
 | `gitlab_projects_api-c239b22e6b9fc5` | amrron/setup-scripts | [open](records/repository-workplaces-amrron-setup-scripts-ba1a0bf0.md) |
 | `gitlab_projects_api-c7a3234bd8042d` | basile.b/dexed | [open](records/repository-workplaces-basile-b-dexed-aa92ba59.md) |
 | `gitlab_projects_api-ca385a203cbda6` | gitlab-data/data-image | [open](records/repository-workplaces-gitlab-data-data-image-0af0c35c.md) |
@@ -9701,33 +10082,49 @@
 | `gitlab_projects_api-caffb7b73684c3` | opensecuritytraining/arch1001_x86-64_asm_slides_and_subtitles | [open](records/repository-workplaces-opensecuritytraining-arch1001-x86-64-asm-slides-and-subtitles-01052120.md) |
 | `gitlab_projects_api-cb83e823d61f44` | WeSuckLess/Reactor | [open](records/repository-workplaces-wesuckless-reactor-d2157f72.md) |
 | `gitlab_projects_api-cbe91b45a27128` | LondonAppDev/recipe-app-api-devops-course-material | [open](records/repository-workplaces-londonappdev-recipe-app-api-devops-course-material-ee134a2d.md) |
+| `gitlab_projects_api-cd57c535850eca` | nvidia/networking/bluefield/doca-sample-applications | [open](records/repository-workplaces-nvidia-networking-bluefield-doca-sample-applications-ea0809c7.md) |
 | `gitlab_projects_api-d19d14ce773940` | akkuscm/akku | [open](records/repository-workplaces-akkuscm-akku-7c79305d.md) |
 | `gitlab_projects_api-d281ee3dc231f1` | jD91mZM2/nix-lsp | [open](records/repository-workplaces-jd91mzm2-nix-lsp-871a9f7e.md) |
 | `gitlab_projects_api-d2cf29da9d9558` | d7security/d7security | [open](records/repository-workplaces-d7security-d7security-e5301244.md) |
+| `gitlab_projects_api-d3b13d8384b3ae` | Screwtapello/isa65xx | [open](records/repository-workplaces-screwtapello-isa65xx-d8b56520.md) |
 | `gitlab_projects_api-d452384e904bca` | gitlab-org/security-products/security-report-schemas | [open](records/repository-workplaces-gitlab-org-security-products-security-report-schemas-1a7d4b38.md) |
 | `gitlab_projects_api-d5c098bf8428ed` | gitlab-examples/security/security-reports | [open](records/repository-workplaces-gitlab-examples-security-security-reports-4aa4a872.md) |
+| `gitlab_projects_api-d78c9554caafba` | CircuitSwan/hacker-con-birds-of-a-feather | [open](records/repository-workplaces-circuitswan-hacker-con-birds-of-a-feather-c3c74363.md) |
 | `gitlab_projects_api-d7b073bc384366` | ProfaneDB/ProfaneDB | [open](records/repository-workplaces-profanedb-profanedb-135545c0.md) |
 | `gitlab_projects_api-d83a4f8a68f405` | guardianproject/tormobile/NetCipher | [open](records/repository-workplaces-guardianproject-tormobile-netcipher-11216d9e.md) |
+| `gitlab_projects_api-d875f239436416` | W1nst0n/personal-security-checklist | [open](records/repository-workplaces-w1nst0n-personal-security-checklist-199ce38f.md) |
 | `gitlab_projects_api-da7ccf9812cf2a` | camelot/kickc | [open](records/repository-workplaces-camelot-kickc-2feefccb.md) |
 | `gitlab_projects_api-dd39da1827614e` | jongwons.choi/spring-boot-security-lecture | [open](records/repository-workplaces-jongwons-choi-spring-boot-security-lecture-e0ab9f25.md) |
+| `gitlab_projects_api-de29bf121f1166` | W1nst0n/universal-android-debloater-rs | [open](records/repository-workplaces-w1nst0n-universal-android-debloater-rs-f24c99d6.md) |
 | `gitlab_projects_api-df0b3d855fec64` | bullbytes/scala-js-example | [open](records/repository-workplaces-bullbytes-scala-js-example-f737433c.md) |
 | `gitlab_projects_api-e0313d270df322` | gitlab-org/kubernetes-gitlab-demo | [open](records/repository-workplaces-gitlab-org-kubernetes-gitlab-demo-d867dc50.md) |
 | `gitlab_projects_api-e13b2cc47ea6ad` | gitlab-examples/kubernetes-deploy | [open](records/repository-workplaces-gitlab-examples-kubernetes-deploy-9a43e04a.md) |
 | `gitlab_projects_api-e226aaea35e70e` | freepascal.org/fpc/source | [open](records/repository-workplaces-freepascal-org-fpc-source-0fc2714e.md) |
 | `gitlab_projects_api-e2a0e83665152f` | gitlab-org/security-products/sast | [open](records/repository-workplaces-gitlab-org-security-products-sast-f9f7c3e1.md) |
 | `gitlab_projects_api-e30c4891795976` | opensecuritytraining/arch1001_x86-64_asm_code_for_class | [open](records/repository-workplaces-opensecuritytraining-arch1001-x86-64-asm-code-for-class-940e9a45.md) |
+| `gitlab_projects_api-e6e9c60febb765` | dwrodri/bash_irc_quotes | [open](records/repository-workplaces-dwrodri-bash-irc-quotes-bf5971a9.md) |
 | `gitlab_projects_api-e6fcc36ce1d746` | libosinfo/osinfo-db | [open](records/repository-workplaces-libosinfo-osinfo-db-c5e44ee6.md) |
+| `gitlab_projects_api-e7febd6a3c9390` | crystal-forge/crystal-forge | [open](records/repository-workplaces-crystal-forge-crystal-forge-e00632e7.md) |
 | `gitlab_projects_api-e8d05f7e8776e5` | glitchtip/glitchtip-helm-chart | [open](records/repository-workplaces-glitchtip-glitchtip-helm-chart-8da5da49.md) |
+| `gitlab_projects_api-ea96d46fda38d2` | tim-m89/clr-haskell | [open](records/repository-workplaces-tim-m89-clr-haskell-792ab2ac.md) |
+| `gitlab_projects_api-ec6de6b028d172` | gitlab-org/analytics-section/siphon | [open](records/repository-workplaces-gitlab-org-analytics-section-siphon-6ac6dc22.md) |
 | `gitlab_projects_api-eedde6e087f712` | grownetics/devops | [open](records/repository-workplaces-grownetics-devops-bfb0955b.md) |
 | `gitlab_projects_api-f169857a306281` | yamagoya/jmdictdb | [open](records/repository-workplaces-yamagoya-jmdictdb-6aa61a7b.md) |
+| `gitlab_projects_api-f23f299bb953bb` | gitlab-org/security-products/ci-templates | [open](records/repository-workplaces-gitlab-org-security-products-ci-templates-d92c848a.md) |
+| `gitlab_projects_api-f422413d5c3a7f` | MatthiasLohr/hcloud-csi-driver-helm-chart | [open](records/repository-workplaces-matthiaslohr-hcloud-csi-driver-helm-chart-6cb7d216.md) |
 | `gitlab_projects_api-f4603881b8b4fa` | components/sast | [open](records/repository-workplaces-components-sast-06739183.md) |
 | `gitlab_projects_api-f670ad80aeb8bd` | W1nst0n/universal-android-debloater | [open](records/repository-workplaces-w1nst0n-universal-android-debloater-e704dc31.md) |
 | `gitlab_projects_api-f6c556e13fada3` | gitlab-org/gitlab | [open](records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
+| `gitlab_projects_api-f76f4298f31a80` | lock3/clang | [open](records/repository-workplaces-lock3-clang-c4e5749d.md) |
+| `gitlab_projects_api-f7950f57f4f6cc` | techcareer/techcareer_middle_devops | [open](records/repository-workplaces-techcareer-techcareer-middle-devops-700c603e.md) |
+| `gitlab_projects_api-f812e52d77f5b7` | hgraca/app-mapper | [open](records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) |
 | `gitlab_projects_api-f8443299ae307f` | weinholt/loko | [open](records/repository-workplaces-weinholt-loko-35847122.md) |
 | `gitlab_projects_api-f865b75816c862` | xavki/tutorials-kubernetes | [open](records/repository-workplaces-xavki-tutorials-kubernetes-923f1a68.md) |
 | `gitlab_projects_api-f8d5303dad253b` | gitlab-org/editor-extensions/gitlab-lsp | [open](records/repository-workplaces-gitlab-org-editor-extensions-gitlab-lsp-3ca66d5c.md) |
 | `gitlab_projects_api-f9e0b539f65b53` | rawsec/rawsec-cybersecurity-list | [open](records/repository-workplaces-rawsec-rawsec-cybersecurity-list-00ece097.md) |
 | `gitlab_projects_api-fa004776b2d2d3` | to-be-continuous/kubernetes | [open](records/repository-workplaces-to-be-continuous-kubernetes-45c37bdd.md) |
+| `gitlab_projects_api-fa68513f2de019` | alasca.cloud/tarook/tarook | [open](records/repository-workplaces-alasca-cloud-tarook-tarook-a7045027.md) |
+| `gitlab_projects_api-fa804ba99bafd4` | Arszilla/kali-i3 | [open](records/repository-workplaces-arszilla-kali-i3-77ac7a53.md) |
 | `gitlab_projects_api-fc91244fc3b8dd` | banana-hackers/store-db | [open](records/repository-workplaces-banana-hackers-store-db-85eabcc9.md) |
 | `gitlab_projects_api-fecbd8d2cf023e` | gitlab-org/cluster-integration/gitlab-agent | [open](records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
 | `go_module_index-000072c012dc74` | codeberg.org/go-hep/hep.git | [open](records/go-codeberg-org-go-hep-hep-git-29878e71.md) |
@@ -10578,6 +10975,7 @@
 | `hackage_recent-560e75fc58d6d8` | vcs-ignore | [open](records/haskell-vcs-ignore-b594cffb.md) |
 | `hackage_recent-6a3519652d8827` | kioku-api | [open](records/haskell-kioku-api-ebf3c8b4.md) |
 | `hackage_recent-6f6d58eea7fc96` | hOpenPGP | [open](records/haskell-hopenpgp-dbd93565.md) |
+| `hackage_recent-7743035e5050d7` | explainable-predicates | [open](records/haskell-explainable-predicates-6549649b.md) |
 | `hackage_recent-85b70f81457859` | tricorder-mcp | [open](records/haskell-tricorder-mcp-95664038.md) |
 | `hackage_recent-93412bbaff519b` | kioku-migrations | [open](records/haskell-kioku-migrations-2c5f56b2.md) |
 | `hackage_recent-9f61f155d7bee9` | rzk | [open](records/haskell-rzk-4d91c2de.md) |
@@ -19097,84 +19495,227 @@
 | `octave_packages_index-fe4f8bfa49a5d1` | windows | [open](records/octave-windows-a528d71c.md) |
 | `octave_packages_index-fe64e3e3909321` | mboct-mbdyn-pkg | [open](records/octave-mboct-mbdyn-pkg-225b3a13.md) |
 | `octave_packages_index-fe8817ae34d1eb` | csg-dataset | [open](records/octave-csg-dataset-dde70fca.md) |
+| `packagist_search-0013087ed13bd5` | json-mapper/json-mapper | [open](records/php-json-mapper-json-mapper-26b59d7b.md) |
+| `packagist_search-00f67aa6e46b04` | sad_spirit/pg_wrapper | [open](records/php-sad-spirit-pg-wrapper-995e57f3.md) |
 | `packagist_search-02197ab26f39be` | apimatic/jsonmapper | [open](records/php-apimatic-jsonmapper-826b756c.md) |
+| `packagist_search-02eb0264945334` | vrana/adminer | [open](records/php-vrana-adminer-3044f9d5.md) |
+| `packagist_search-0358c05e6ab192` | zendframework/zend-diactoros | [open](records/php-zendframework-zend-diactoros-7fe29681.md) |
+| `packagist_search-0397ca81d2b9f8` | odan/phinx-migrations-generator | [open](records/php-odan-phinx-migrations-generator-b2b7cbde.md) |
 | `packagist_search-054f71d4eb2eec` | adhocore/jwt | [open](records/php-adhocore-jwt-2217f67d.md) |
+| `packagist_search-058c4b07532687` | sentry/sentry | [open](records/php-sentry-sentry-e24752c2.md) |
+| `packagist_search-0605061147c506` | spatie/laravel-database-mail-templates | [open](records/php-spatie-laravel-database-mail-templates-5a744c02.md) |
+| `packagist_search-06903f48272d9b` | jquery-form/form | [open](records/php-jquery-form-form-433c3891.md) |
 | `packagist_search-07c3d71466ca95` | atlas/query | [open](records/php-atlas-query-bc40393d.md) |
 | `packagist_search-09b0334594c0f6` | fza/mysql-doctrine-levenshtein-function | [open](records/php-fza-mysql-doctrine-levenshtein-function-0d025840.md) |
+| `packagist_search-0a67993ed856d4` | justinrainbow/json-schema | [open](records/php-justinrainbow-json-schema-e4e9b80b.md) |
+| `packagist_search-0ad3a51b8e9172` | xethron/migrations-generator | [open](records/php-xethron-migrations-generator-bc6d82d9.md) |
 | `packagist_search-0bb00bdc824e18` | halaxa/json-machine | [open](records/php-halaxa-json-machine-bc71d01f.md) |
 | `packagist_search-0beec5a9cc0414` | api-platform/core | [open](records/php-api-platform-core-9c7ba182.md) |
+| `packagist_search-0c0a833b5279ea` | resque/php-resque | [open](records/php-resque-php-resque-ff1ab564.md) |
 | `packagist_search-0c1fdb365ef40f` | greenlion/php-sql-parser | [open](records/php-greenlion-php-sql-parser-ea960c02.md) |
+| `packagist_search-0c89f17cebb42e` | predis/predis | [open](records/php-predis-predis-432594fc.md) |
+| `packagist_search-0ca601d1ee9423` | phpbu/phpbu | [open](records/php-phpbu-phpbu-7877f620.md) |
+| `packagist_search-0cb645f1c147e6` | symfony/http-foundation | [open](records/php-symfony-http-foundation-e0b5e66d.md) |
+| `packagist_search-0d0050b35a857a` | jwadhams/json-logic-php | [open](records/php-jwadhams-json-logic-php-c041e588.md) |
+| `packagist_search-0d094a442557ba` | kigkonsult/icalcreator | [open](records/php-kigkonsult-icalcreator-4d88cb23.md) |
+| `packagist_search-0d47a30e80e48c` | ruckusing/ruckusing-migrations | [open](records/php-ruckusing-ruckusing-migrations-c8060d00.md) |
+| `packagist_search-0f7eb32d342ad5` | spatie/schema-org | [open](records/php-spatie-schema-org-8b24ad7a.md) |
+| `packagist_search-100dc51ba72593` | lukascivil/treewalker | [open](records/php-lukascivil-treewalker-4e8353a4.md) |
 | `packagist_search-115d20016e2a25` | clouddueling/mysqldump-php | [open](records/php-clouddueling-mysqldump-php-6f8042b5.md) |
+| `packagist_search-117d3ba06c8f4f` | nettrine/dbal | [open](records/php-nettrine-dbal-21ec0977.md) |
+| `packagist_search-1190f665b86839` | tigrov/yii2-pgsql | [open](records/php-tigrov-yii2-pgsql-15acef5c.md) |
+| `packagist_search-1193c3611e9ae1` | spiritix/lada-cache | [open](records/php-spiritix-lada-cache-2a11d1c1.md) |
 | `packagist_search-11a30e0c57fd48` | dg/dibi | [open](records/php-dg-dibi-68233193.md) |
+| `packagist_search-121f8443ac1e0d` | ml/json-ld | [open](records/php-ml-json-ld-e2747906.md) |
+| `packagist_search-12b14a9178adba` | marktopper/doctrine-dbal-timestamp-type | [open](records/php-marktopper-doctrine-dbal-timestamp-type-a62103b2.md) |
+| `packagist_search-1325be65ae8c41` | mezzio/mezzio | [open](records/php-mezzio-mezzio-3c631e15.md) |
+| `packagist_search-1587e8d997cc71` | php-curl-class/php-curl-class | [open](records/php-php-curl-class-php-curl-class-b9592d9a.md) |
 | `packagist_search-17a07284f11db7` | fruitcake/php-cors | [open](records/php-fruitcake-php-cors-9d2fc866.md) |
 | `packagist_search-19441175157787` | aura/sql | [open](records/php-aura-sql-a7b4840d.md) |
+| `packagist_search-194e15c8b839b3` | propel/propel1 | [open](records/php-propel-propel1-7f515659.md) |
+| `packagist_search-1a12ef0e558218` | scienta/doctrine-json-functions | [open](records/php-scienta-doctrine-json-functions-8ba85c2b.md) |
 | `packagist_search-1a7692b5959df7` | geocoder-php/common-http | [open](records/php-geocoder-php-common-http-089b8627.md) |
+| `packagist_search-1b0610407f7dc1` | php-http/message-factory | [open](records/php-php-http-message-factory-77a10592.md) |
 | `packagist_search-1b06f94eb67f5f` | doctrine/phpcr-bundle | [open](records/php-doctrine-phpcr-bundle-d4f6cb1e.md) |
+| `packagist_search-1b4538cabc666d` | swaggest/json-schema | [open](records/php-swaggest-json-schema-d3758b41.md) |
 | `packagist_search-1c1a4b799f3d1c` | amphp/websocket-client | [open](records/php-amphp-websocket-client-ce34b86d.md) |
+| `packagist_search-1c2516b527ddb3` | tpetry/laravel-postgresql-enhanced | [open](records/php-tpetry-laravel-postgresql-enhanced-b452dff5.md) |
 | `packagist_search-1d659ea22db885` | infocyph/dblayer | [open](records/php-infocyph-dblayer-42978eb1.md) |
 | `packagist_search-1dddbc0cae1d63` | itelmenko/laravel-mysql-logger | [open](records/php-itelmenko-laravel-mysql-logger-fb974a1d.md) |
+| `packagist_search-1eb086dfbfad03` | prettus/l5-repository | [open](records/php-prettus-l5-repository-90bc6d5e.md) |
 | `packagist_search-1f2062d3536cce` | artesaos/seotools | [open](records/php-artesaos-seotools-69a21a5c.md) |
+| `packagist_search-1f6af1e1939123` | phpfastcache/phpfastcache | [open](records/php-phpfastcache-phpfastcache-25a0c04e.md) |
+| `packagist_search-1f7d6c5642469e` | pomm-project/model-manager | [open](records/php-pomm-project-model-manager-0ce6a5fe.md) |
+| `packagist_search-1feaa295110758` | josiasmontag/laravel-redis-mock | [open](records/php-josiasmontag-laravel-redis-mock-8816255e.md) |
+| `packagist_search-1ff5d67440e986` | kreait/firebase-php | [open](records/php-kreait-firebase-php-08e35745.md) |
+| `packagist_search-1ff98363d7e7a8` | partitech/doctrine-pgvector | [open](records/php-partitech-doctrine-pgvector-31fffc7f.md) |
+| `packagist_search-2051025c005727` | t1nkl/postgres-pgbouncer-extension | [open](records/php-t1nkl-postgres-pgbouncer-extension-4b33a642.md) |
+| `packagist_search-20af5603bc0d56` | srmklive/paypal | [open](records/php-srmklive-paypal-31cdb6f4.md) |
 | `packagist_search-213d538d2734a7` | fig/link-util | [open](records/php-fig-link-util-247088e8.md) |
+| `packagist_search-2195f88c07166f` | league/uri | [open](records/php-league-uri-593be2da.md) |
 | `packagist_search-21ac9aea8a39ed` | fpdo/fluentpdo | [open](records/php-fpdo-fluentpdo-a2759c4f.md) |
+| `packagist_search-23323a9fd48c19` | phpunit/dbunit | [open](records/php-phpunit-dbunit-7e156610.md) |
+| `packagist_search-234d6889979eef` | pomm-project/pomm-symfony-bridge | [open](records/php-pomm-project-pomm-symfony-bridge-0a8b5adb.md) |
+| `packagist_search-235b445b81c7e9` | luxifer/doctrine-functions | [open](records/php-luxifer-doctrine-functions-ee7d45c7.md) |
+| `packagist_search-236e8b4871282b` | vimeo/php-mysql-engine | [open](records/php-vimeo-php-mysql-engine-62349442.md) |
+| `packagist_search-239d338f93184b` | phpredis/phpredis | [open](records/php-phpredis-phpredis-926805c1.md) |
 | `packagist_search-239e944814fef9` | jeremykendall/php-domain-parser | [open](records/php-jeremykendall-php-domain-parser-1dfe6960.md) |
+| `packagist_search-23a5a055e1d26c` | mongodb/laravel-mongodb | [open](records/php-mongodb-laravel-mongodb-ed68fcd9.md) |
 | `packagist_search-25533177da3083` | cyppe/laravel-batch-jobs-redis-driver | [open](records/php-cyppe-laravel-batch-jobs-redis-driver-925be53a.md) |
 | `packagist_search-25d9d0eeaab88f` | cybercog/laravel-clickhouse | [open](records/php-cybercog-laravel-clickhouse-03bf04d3.md) |
 | `packagist_search-26c1074bd9962f` | guzzle/guzzle | [open](records/php-guzzle-guzzle-82525725.md) |
+| `packagist_search-2863fc7eb41bf7` | rbdwllr/reallysimplejwt | [open](records/php-rbdwllr-reallysimplejwt-c1a368e9.md) |
 | `packagist_search-29c9cc7170a95c` | colinodell/json5 | [open](records/php-colinodell-json5-439a1c99.md) |
+| `packagist_search-2a797fc741135e` | kalnoy/nestedset | [open](records/php-kalnoy-nestedset-3c3000a9.md) |
+| `packagist_search-2a7d3311b2c363` | patchlevel/rango | [open](records/php-patchlevel-rango-f87ba9d6.md) |
+| `packagist_search-2b67276f533ce2` | swissup/module-search-mysql-legacy | [open](records/php-swissup-module-search-mysql-legacy-c2a43050.md) |
+| `packagist_search-2bab841320cc92` | kriswallsmith/buzz | [open](records/php-kriswallsmith-buzz-4635f804.md) |
+| `packagist_search-2bee42ecedbbcd` | tpetry/php-mysql-explain | [open](records/php-tpetry-php-mysql-explain-d330ac02.md) |
 | `packagist_search-2dd78f140ae431` | api-platform/jsonld | [open](records/php-api-platform-jsonld-6716bfbc.md) |
 | `packagist_search-2defb951b13069` | iamcal/sql-parser | [open](records/php-iamcal-sql-parser-5374a7b3.md) |
+| `packagist_search-2e929560e73c81` | kirschbaum-development/eloquent-power-joins | [open](records/php-kirschbaum-development-eloquent-power-joins-cc67826d.md) |
+| `packagist_search-2f75573cf1cc0d` | thingengineer/mysqli-database-class | [open](records/php-thingengineer-mysqli-database-class-6caf1d6d.md) |
 | `packagist_search-2f840bb5e3fade` | firebase/php-jwt | [open](records/php-firebase-php-jwt-28d387bc.md) |
+| `packagist_search-308bc3a69db0c0` | rybakit/phive-queue | [open](records/php-rybakit-phive-queue-abf3f454.md) |
 | `packagist_search-313cdff81db815` | flow-php/etl-adapter-postgresql | [open](records/php-flow-php-etl-adapter-postgresql-352ac499.md) |
+| `packagist_search-3180007d1573bc` | joshcam/mysqli-database-class | [open](records/php-joshcam-mysqli-database-class-a9546d1e.md) |
 | `packagist_search-31e80a962e3081` | bvanhoekelen/performance | [open](records/php-bvanhoekelen-performance-d856679b.md) |
+| `packagist_search-3200b66b3b44d4` | nette/http | [open](records/php-nette-http-330045c5.md) |
+| `packagist_search-32224ffdbe4fc8` | romanzipp/laravel-queue-monitor | [open](records/php-romanzipp-laravel-queue-monitor-f6c6b771.md) |
+| `packagist_search-325a81ab125a68` | laminas/laminas-db | [open](records/php-laminas-laminas-db-23ec055d.md) |
+| `packagist_search-334995e1369f2d` | nightowl/agent | [open](records/php-nightowl-agent-75f8bf6c.md) |
+| `packagist_search-336d3a2b395385` | psr/link | [open](records/php-psr-link-eb89bd05.md) |
+| `packagist_search-3395b31d088efd` | sonata-project/doctrine-extensions | [open](records/php-sonata-project-doctrine-extensions-1bb8bcce.md) |
+| `packagist_search-34686fcebb4d6c` | snc/redis-bundle | [open](records/php-snc-redis-bundle-c79c6a6a.md) |
 | `packagist_search-347abfb97b35b2` | alcaeus/mongo-php-adapter | [open](records/php-alcaeus-mongo-php-adapter-ad0d4c6d.md) |
+| `packagist_search-347e6360e0bb51` | nette/database | [open](records/php-nette-database-511f0848.md) |
 | `packagist_search-3512f536963634` | doctrine/data-fixtures | [open](records/php-doctrine-data-fixtures-1b25e705.md) |
 | `packagist_search-354ffeef64054c` | ergebnis/json | [open](records/php-ergebnis-json-08febff2.md) |
+| `packagist_search-3624f51ca7833f` | lichtner/fluentpdo | [open](records/php-lichtner-fluentpdo-8329b7d5.md) |
+| `packagist_search-368a08b0ae18d5` | react/http | [open](records/php-react-http-8032846a.md) |
+| `packagist_search-372aa80071406f` | php-http/guzzle6-adapter | [open](records/php-php-http-guzzle6-adapter-39d9bc00.md) |
 | `packagist_search-3739f330171a0a` | delight-im/db | [open](records/php-delight-im-db-8daad52c.md) |
 | `packagist_search-376965c8ecb7ea` | adodb/adodb-php | [open](records/php-adodb-adodb-php-7c797a72.md) |
+| `packagist_search-38e80a5a69ae0f` | stechstudio/laravel-ssh-tunnel | [open](records/php-stechstudio-laravel-ssh-tunnel-885e4722.md) |
+| `packagist_search-3b6616a94e2abf` | marcin-orlowski/laravel-api-response-builder | [open](records/php-marcin-orlowski-laravel-api-response-builder-91443313.md) |
+| `packagist_search-3c637656f113ae` | kitloong/laravel-migrations-generator | [open](records/php-kitloong-laravel-migrations-generator-a6a02fbd.md) |
 | `packagist_search-3ed4dee4092856` | clancats/hydrahon | [open](records/php-clancats-hydrahon-6afcd625.md) |
+| `packagist_search-3f99b2b653bef1` | mashape/unirest-php | [open](records/php-mashape-unirest-php-91a81352.md) |
 | `packagist_search-407c0d0b77c74d` | amphp/redis | [open](records/php-amphp-redis-23416eb5.md) |
+| `packagist_search-41ed12d3835415` | opis/json-schema | [open](records/php-opis-json-schema-3e4f6cc8.md) |
+| `packagist_search-41fc481ccc8150` | smi2/phpclickhouse | [open](records/php-smi2-phpclickhouse-1694f82f.md) |
 | `packagist_search-42609f53eba458` | iconify/json | [open](records/php-iconify-json-90cf51ea.md) |
 | `packagist_search-428319e32b824e` | erik-dubbelboer/php-redis-admin | [open](records/php-erik-dubbelboer-php-redis-admin-e9d560c6.md) |
 | `packagist_search-43b0c85a765419` | jane-php/json-schema-runtime | [open](records/php-jane-php-json-schema-runtime-b6e744d5.md) |
 | `packagist_search-43d30caedebaa8` | event-engine/php-postgres-document-store | [open](records/php-event-engine-php-postgres-document-store-428ee4d2.md) |
 | `packagist_search-446e389c61c3b8` | ezsql/ezsql | [open](records/php-ezsql-ezsql-96ed119a.md) |
 | `packagist_search-44b7e7d40cb451` | davedevelopment/phpmig | [open](records/php-davedevelopment-phpmig-1ef95245.md) |
+| `packagist_search-4538832b144a54` | symfony/http-kernel | [open](records/php-symfony-http-kernel-c8ae710d.md) |
+| `packagist_search-4548102dd8bace` | react/mysql | [open](records/php-react-mysql-6b6a67ec.md) |
 | `packagist_search-4561322119e9f3` | intaro/hstore-extension | [open](records/php-intaro-hstore-extension-bad5a141.md) |
 | `packagist_search-462523476887da` | ifsnop/mysqldump-php | [open](records/php-ifsnop-mysqldump-php-1613aeb3.md) |
+| `packagist_search-46254f591b3da1` | spatie/valuestore | [open](records/php-spatie-valuestore-1ea1a29f.md) |
 | `packagist_search-47868dc6b2e304` | gctc-ntgc/laravel-scout-postgres-tsvector | [open](records/php-gctc-ntgc-laravel-scout-postgres-tsvector-e71b4f05.md) |
+| `packagist_search-479d44c505b952` | spiral/roadrunner-http | [open](records/php-spiral-roadrunner-http-bd96a5b6.md) |
 | `packagist_search-48b881dec7cf19` | cachewerk/relay | [open](records/php-cachewerk-relay-fd3b6a06.md) |
+| `packagist_search-498e8fb3e66b0c` | mtdowling/jmespath.php | [open](records/php-mtdowling-jmespath-php-68ef74bd.md) |
+| `packagist_search-49d8efac214afe` | symfony/http-client-contracts | [open](records/php-symfony-http-client-contracts-f68b996b.md) |
+| `packagist_search-4a12dea3f190fc` | league/openapi-psr7-validator | [open](records/php-league-openapi-psr7-validator-792a5b40.md) |
+| `packagist_search-4a547f458cbb96` | nanson/yii2-postgis | [open](records/php-nanson-yii2-postgis-6ddf02eb.md) |
+| `packagist_search-4adf2a14d1b20a` | workerman/redis-queue | [open](records/php-workerman-redis-queue-78173705.md) |
+| `packagist_search-4aeda49299bc97` | psr/http-factory | [open](records/php-psr-http-factory-50650fcb.md) |
+| `packagist_search-4b72a6726db808` | mysql-workbench-schema-exporter/mysql-workbench-schema-exporter | [open](records/php-mysql-workbench-schema-exporter-mysql-workbench-schema-exporter-df02abc9.md) |
 | `packagist_search-4b97bfeb2dce6a` | amphp/http-server | [open](records/php-amphp-http-server-fc178c38.md) |
+| `packagist_search-4bc63beb1eb305` | kitar/laravel-dynamodb | [open](records/php-kitar-laravel-dynamodb-e55ad8fd.md) |
 | `packagist_search-4bfc23c8bc2cee` | amphp/http | [open](records/php-amphp-http-d35d6e59.md) |
+| `packagist_search-4c397738f010f9` | workerman/mysql | [open](records/php-workerman-mysql-a03072d8.md) |
+| `packagist_search-4cf46cdb9ac208` | silverstripe/postgresql | [open](records/php-silverstripe-postgresql-8abfc6a5.md) |
+| `packagist_search-4dab37a17f643e` | wikimedia/composer-merge-plugin | [open](records/php-wikimedia-composer-merge-plugin-a6914da8.md) |
+| `packagist_search-4df0d68af7fb2a` | lchrusciel/api-test-case | [open](records/php-lchrusciel-api-test-case-b764f954.md) |
 | `packagist_search-4ef23a862e6fb2` | dg/mysql-dump | [open](records/php-dg-mysql-dump-3721c8b3.md) |
+| `packagist_search-506f7bdbe05993` | nikolaposa/rate-limit | [open](records/php-nikolaposa-rate-limit-e33c73a3.md) |
+| `packagist_search-5140b5bdc31254` | symfony/ai-store | [open](records/php-symfony-ai-store-946c031c.md) |
 | `packagist_search-5148d72bba75b8` | amphp/http-client | [open](records/php-amphp-http-client-81576c4b.md) |
 | `packagist_search-519a9c5113f1a2` | ergebnis/composer-normalize | [open](records/php-ergebnis-composer-normalize-663e0436.md) |
 | `packagist_search-51cc73b53840c7` | betterapp/laravel-db-encrypter | [open](records/php-betterapp-laravel-db-encrypter-20e043c7.md) |
 | `packagist_search-51d4bddc4ae5ec` | hyperf/database-pgsql-incubator | [open](records/php-hyperf-database-pgsql-incubator-fa82b233.md) |
 | `packagist_search-521cb2f1339595` | envms/fluentpdo | [open](records/php-envms-fluentpdo-9b0da97e.md) |
+| `packagist_search-5276c7498bc541` | nicolaslopezj/searchable | [open](records/php-nicolaslopezj-searchable-cd16f739.md) |
+| `packagist_search-52ea0d9e574326` | yiisoft/db-pgsql | [open](records/php-yiisoft-db-pgsql-5c04bd7f.md) |
+| `packagist_search-539a3c07c1ee4f` | matthiasmullie/scrapbook | [open](records/php-matthiasmullie-scrapbook-8df0c9f8.md) |
+| `packagist_search-53ed466423a7ca` | nilportugues/sql-query-builder | [open](records/php-nilportugues-sql-query-builder-476733ea.md) |
+| `packagist_search-540d109b9734db` | phootwork/collection | [open](records/php-phootwork-collection-79743681.md) |
 | `packagist_search-5429d04217f899` | colinmollenhour/php-redis-session-abstract | [open](records/php-colinmollenhour-php-redis-session-abstract-d27c499e.md) |
+| `packagist_search-5443fafcdf8b8b` | league/uri-interfaces | [open](records/php-league-uri-interfaces-bc5d7a7b.md) |
+| `packagist_search-548f63b2203d15` | kkomelin/laravel-translatable-string-exporter | [open](records/php-kkomelin-laravel-translatable-string-exporter-bb29c7cb.md) |
 | `packagist_search-56207564360e9e` | felixfbecker/advanced-json-rpc | [open](records/php-felixfbecker-advanced-json-rpc-c3236b0e.md) |
+| `packagist_search-56389683549893` | tpetry/laravel-mysql-explain | [open](records/php-tpetry-laravel-mysql-explain-332c5cb3.md) |
+| `packagist_search-566368c3cdfa99` | php-http/stopwatch-plugin | [open](records/php-php-http-stopwatch-plugin-317d69fa.md) |
+| `packagist_search-56bb3bfffc5865` | ramadan/custom-fresh | [open](records/php-ramadan-custom-fresh-4161943f.md) |
 | `packagist_search-572abdad743e4c` | friendsofsymfony/http-cache-bundle | [open](records/php-friendsofsymfony-http-cache-bundle-5a46936d.md) |
+| `packagist_search-57fdda9e81a029` | vcian/laravel-db-auditor | [open](records/php-vcian-laravel-db-auditor-b65c99b5.md) |
+| `packagist_search-5830d390c510c5` | kodus/sql-split | [open](records/php-kodus-sql-split-7f3c3843.md) |
 | `packagist_search-583e4047c4e36c` | crell/serde | [open](records/php-crell-serde-afcac737.md) |
+| `packagist_search-58fc472ed248e6` | semsol/arc2 | [open](records/php-semsol-arc2-a56c62ea.md) |
 | `packagist_search-598b75f320c06c` | facile-it/doctrine-mysql-come-back | [open](records/php-facile-it-doctrine-mysql-come-back-83ad3b2f.md) |
 | `packagist_search-5be79e68b0545f` | danielme85/laravel-log-to-db | [open](records/php-danielme85-laravel-log-to-db-d92de2a6.md) |
 | `packagist_search-5c5880bc3b09ce` | flow/jsonpath | [open](records/php-flow-jsonpath-8d58112b.md) |
 | `packagist_search-5d4443caf9cfce` | intaro/custom-index-bundle | [open](records/php-intaro-custom-index-bundle-6f394c76.md) |
 | `packagist_search-5d5576fed22929` | dama/doctrine-test-bundle | [open](records/php-dama-doctrine-test-bundle-4431d726.md) |
+| `packagist_search-5d9f0feb35c829` | simplon/mysql | [open](records/php-simplon-mysql-269f586b.md) |
 | `packagist_search-5db504f19e0206` | illuminate/database | [open](records/php-illuminate-database-33972059.md) |
 | `packagist_search-5dc939b573d1f3` | ecotone/pdo-event-sourcing | [open](records/php-ecotone-pdo-event-sourcing-595186a1.md) |
+| `packagist_search-5eee26d663a193` | symfony/routing | [open](records/php-symfony-routing-cc8136f9.md) |
 | `packagist_search-602fa68b97871c` | hassankhan/config | [open](records/php-hassankhan-config-e8dbff76.md) |
+| `packagist_search-60a9a6a58f4f2c` | jv2222/ezsql | [open](records/php-jv2222-ezsql-2785846a.md) |
+| `packagist_search-60d98f80924e70` | tpetry/laravel-query-expressions | [open](records/php-tpetry-laravel-query-expressions-63bdd853.md) |
+| `packagist_search-617b84038aa127` | symfony/redis-messenger | [open](records/php-symfony-redis-messenger-51144e05.md) |
+| `packagist_search-61a5890cf187fd` | utopia-php/database | [open](records/php-utopia-php-database-d83a00f7.md) |
 | `packagist_search-622fe354ada881` | easyswoole/mysqli | [open](records/php-easyswoole-mysqli-e0a059d6.md) |
+| `packagist_search-62c82d10138bda` | ymigval/laravel-model-cache | [open](records/php-ymigval-laravel-model-cache-ba95ee04.md) |
+| `packagist_search-62d80a58204fc2` | popphp/pop-db | [open](records/php-popphp-pop-db-53f4314c.md) |
+| `packagist_search-62f20804692300` | seinopsys/postgresql-database-class | [open](records/php-seinopsys-postgresql-database-class-d8d59f7f.md) |
 | `packagist_search-63034f50fba387` | ergebnis/json-pointer | [open](records/php-ergebnis-json-pointer-cd0f2282.md) |
+| `packagist_search-6309f8a4cbfb9e` | psr/http-server-middleware | [open](records/php-psr-http-server-middleware-85cca190.md) |
+| `packagist_search-6349f3aa284bfa` | oro/doctrine-extensions | [open](records/php-oro-doctrine-extensions-91992e72.md) |
+| `packagist_search-63d0a950ff21f0` | netresearch/jsonmapper | [open](records/php-netresearch-jsonmapper-d5829247.md) |
 | `packagist_search-6445347810c529` | dimsav/laravel-translatable | [open](records/php-dimsav-laravel-translatable-65fc53e5.md) |
 | `packagist_search-6446f48945450c` | cycle/orm | [open](records/php-cycle-orm-cca30184.md) |
+| `packagist_search-652a56de6096cd` | swaggest/json-diff | [open](records/php-swaggest-json-diff-a3d362a1.md) |
+| `packagist_search-65d46fb2fa0da1` | monolog/monolog | [open](records/php-monolog-monolog-1118a746.md) |
 | `packagist_search-65f02ba54f92c1` | colshrapnel/safemysql | [open](records/php-colshrapnel-safemysql-08737e8f.md) |
+| `packagist_search-6625a8a77114c0` | simplethings/entity-audit-bundle | [open](records/php-simplethings-entity-audit-bundle-48023dbc.md) |
+| `packagist_search-66692b6969d421` | opensoft/doctrine-postgres-types | [open](records/php-opensoft-doctrine-postgres-types-1f091a98.md) |
 | `packagist_search-685ad47bdb6815` | franzose/closure-table | [open](records/php-franzose-closure-table-be4e2b17.md) |
+| `packagist_search-6870d2ac6736af` | typesense/typesense-php | [open](records/php-typesense-typesense-php-32ad1fb3.md) |
+| `packagist_search-68e35d31222f9f` | makinacorpus/query-builder | [open](records/php-makinacorpus-query-builder-9bee5941.md) |
+| `packagist_search-6917d1453b43af` | laravel-lang/common | [open](records/php-laravel-lang-common-3d06c5b7.md) |
+| `packagist_search-6937b19bd9e3a2` | mpdf/psr-http-message-shim | [open](records/php-mpdf-psr-http-message-shim-d05bb1d0.md) |
 | `packagist_search-699a141182d43a` | fresh/doctrine-enum-bundle | [open](records/php-fresh-doctrine-enum-bundle-9904dafd.md) |
+| `packagist_search-69c68beb444fc0` | riverline/multipart-parser | [open](records/php-riverline-multipart-parser-935cc77f.md) |
+| `packagist_search-6a7353e35f0949` | paragonie/ciphersweet | [open](records/php-paragonie-ciphersweet-a9b4501f.md) |
+| `packagist_search-6ad9ced1645959` | php-http/curl-client | [open](records/php-php-http-curl-client-e0fc78ef.md) |
 | `packagist_search-6b048428dff585` | cheprasov/php-redis-client | [open](records/php-cheprasov-php-redis-client-215f144c.md) |
 | `packagist_search-6b0618412c2f2f` | hprose/hprose | [open](records/php-hprose-hprose-1ca8fdc8.md) |
 | `packagist_search-6be8600fe347c0` | doctrine/migrations | [open](records/php-doctrine-migrations-dee1bc21.md) |
+| `packagist_search-6dc8064dca16d2` | psr/http-client | [open](records/php-psr-http-client-bfa9b46c.md) |
+| `packagist_search-6f696003d3c1d1` | symfony/psr-http-message-bridge | [open](records/php-symfony-psr-http-message-bridge-38073700.md) |
 | `packagist_search-6f706aac283c16` | cakephp/database | [open](records/php-cakephp-database-2ab6ccae.md) |
+| `packagist_search-70014e7ecd11a6` | pcrov/jsonreader | [open](records/php-pcrov-jsonreader-fceb8491.md) |
+| `packagist_search-70679f32d02208` | php-jsonpointer/php-jsonpointer | [open](records/php-php-jsonpointer-php-jsonpointer-cebe5176.md) |
+| `packagist_search-70722ae6c786fc` | laravel-doctrine/orm | [open](records/php-laravel-doctrine-orm-48ed6b43.md) |
+| `packagist_search-715bdbf0626a3c` | pomm/pomm | [open](records/php-pomm-pomm-c24dec15.md) |
 | `packagist_search-71ad08e8dad41b` | edamov/pushok | [open](records/php-edamov-pushok-7ffe198c.md) |
+| `packagist_search-7247731a4dcc08` | yab/laravel-scout-mysql-driver | [open](records/php-yab-laravel-scout-mysql-driver-9af018fa.md) |
+| `packagist_search-72ce22d0d50655` | php-http/logger-plugin | [open](records/php-php-http-logger-plugin-a1279b94.md) |
+| `packagist_search-731b602ca3bc08` | php-vcr/php-vcr | [open](records/php-php-vcr-php-vcr-c1e12283.md) |
+| `packagist_search-7381675238aca9` | tommyknocker/pdo-database-class | [open](records/php-tommyknocker-pdo-database-class-8d91baaa.md) |
+| `packagist_search-73899ea813416c` | mobiledetect/mobiledetectlib | [open](records/php-mobiledetect-mobiledetectlib-ad7fbbaa.md) |
+| `packagist_search-738fa77ca2a7f3` | paragonie/csp-builder | [open](records/php-paragonie-csp-builder-e0897f86.md) |
+| `packagist_search-73a2d560056f63` | symfony/http-client | [open](records/php-symfony-http-client-935938fb.md) |
+| `packagist_search-73bc1342e2bb35` | uma/redis-session-handler | [open](records/php-uma-redis-session-handler-e01512d2.md) |
+| `packagist_search-73fdaac804ec09` | kreait/laravel-firebase | [open](records/php-kreait-laravel-firebase-379cbbb2.md) |
+| `packagist_search-74596ec2caabc4` | setbased/php-audit | [open](records/php-setbased-php-audit-a876d972.md) |
 | `packagist_search-7476ab22187eb4` | genealabs/laravel-optimized-postgres | [open](records/php-genealabs-laravel-optimized-postgres-63e886b9.md) |
 | `packagist_search-74b2b15b01b3db` | helmich/phpunit-json-assert | [open](records/php-helmich-phpunit-json-assert-8371100c.md) |
 | `packagist_search-7534e6e47fbb96` | desarrolla2/cache | [open](records/php-desarrolla2-cache-914991d8.md) |
@@ -19184,82 +19725,214 @@
 | `packagist_search-79e0e240f0503f` | enqueue/redis | [open](records/php-enqueue-redis-d85b3f06.md) |
 | `packagist_search-79e4a9366098dd` | danog/advanced-json-rpc | [open](records/php-danog-advanced-json-rpc-5d7c3681.md) |
 | `packagist_search-7b69b994b6ff3c` | creof/doctrine2-spatial | [open](records/php-creof-doctrine2-spatial-64887f8f.md) |
+| `packagist_search-7b885eed74714c` | robmorgan/phinx | [open](records/php-robmorgan-phinx-b91e27f3.md) |
+| `packagist_search-7c439e85f4b532` | mikehenrty/thin-pdo-wrapper | [open](records/php-mikehenrty-thin-pdo-wrapper-4d191be5.md) |
+| `packagist_search-7d75b81571d1c7` | willdurand/jsonp-callback-validator | [open](records/php-willdurand-jsonp-callback-validator-e6c17b3a.md) |
+| `packagist_search-7e5dad3f65cebf` | kdyby/redis | [open](records/php-kdyby-redis-4d6dcac6.md) |
+| `packagist_search-7eb4ed7ab122e7` | violet/streaming-json-encoder | [open](records/php-violet-streaming-json-encoder-7cf75e37.md) |
+| `packagist_search-7f400fe0889995` | shipmonk/doctrine-mysql-index-hints | [open](records/php-shipmonk-doctrine-mysql-index-hints-ef71703d.md) |
+| `packagist_search-7f58f538fd4f43` | psr/http-server-handler | [open](records/php-psr-http-server-handler-72848de9.md) |
+| `packagist_search-8270e4b911b20c` | pomm-project/pomm-bundle | [open](records/php-pomm-project-pomm-bundle-2ec2702b.md) |
 | `packagist_search-8315533952b4da` | guzzlehttp/psr7 | [open](records/php-guzzlehttp-psr7-bdaca48c.md) |
+| `packagist_search-83341300cf856f` | softcreatr/jsonpath | [open](records/php-softcreatr-jsonpath-ea8c86ed.md) |
 | `packagist_search-838a3e9a2cf614` | baum/baum | [open](records/php-baum-baum-8c52a975.md) |
+| `packagist_search-83bb5881b06883` | symfony/web-link | [open](records/php-symfony-web-link-f93f202b.md) |
+| `packagist_search-8414a70a6b21d2` | web-token/jwt-framework | [open](records/php-web-token-jwt-framework-3b6bafa5.md) |
+| `packagist_search-84ac5a545f6cb8` | stefangabos/zebra_session | [open](records/php-stefangabos-zebra-session-01f22254.md) |
 | `packagist_search-85ad86e1b4ddbb` | bosnadev/database | [open](records/php-bosnadev-database-57d642fb.md) |
 | `packagist_search-869d39f28455b0` | dflydev/fig-cookies | [open](records/php-dflydev-fig-cookies-8c9de25d.md) |
 | `packagist_search-8767587606578a` | ddmaster/postgre-search-bundle | [open](records/php-ddmaster-postgre-search-bundle-bc9e1b20.md) |
+| `packagist_search-87f80d9815c908` | seld/jsonlint | [open](records/php-seld-jsonlint-ca4a9cd2.md) |
+| `packagist_search-8807658110f8a0` | yiisoft/db | [open](records/php-yiisoft-db-093a2d3f.md) |
+| `packagist_search-882e80783a5b8f` | laudis/neo4j-php-client | [open](records/php-laudis-neo4j-php-client-1ded9f36.md) |
 | `packagist_search-883a4fddf94ea5` | cheprasov/php-redis-lock | [open](records/php-cheprasov-php-redis-lock-a59d8b83.md) |
+| `packagist_search-8913b1ce5bcc58` | nelmio/security-bundle | [open](records/php-nelmio-security-bundle-c1ae4a9d.md) |
+| `packagist_search-8953bc9c26324f` | vpominchuk/laravel-mysql-use-index-scope | [open](records/php-vpominchuk-laravel-mysql-use-index-scope-a8d72406.md) |
+| `packagist_search-8b8888b84757bb` | plannr/laravel-fast-refresh-database | [open](records/php-plannr-laravel-fast-refresh-database-a09e1ac5.md) |
 | `packagist_search-8b9026f6dc8a3b` | bepsvpt/secure-headers | [open](records/php-bepsvpt-secure-headers-aac6258b.md) |
+| `packagist_search-8bc45a33340166` | wildbit/postmark-php | [open](records/php-wildbit-postmark-php-ec56c007.md) |
 | `packagist_search-8bd66db1c41355` | colinmollenhour/magento-redis-session | [open](records/php-colinmollenhour-magento-redis-session-92f0e733.md) |
+| `packagist_search-8c4e69394ee705` | rhubarbgroup/redis-cache | [open](records/php-rhubarbgroup-redis-cache-73088f85.md) |
 | `packagist_search-8c5d0104797ab0` | cloudcreativity/laravel-json-api | [open](records/php-cloudcreativity-laravel-json-api-89fb357e.md) |
+| `packagist_search-8c6b0479d07f71` | rmccue/requests | [open](records/php-rmccue-requests-25e894d0.md) |
+| `packagist_search-8dafb42288cd98` | spatie/laravel-http-logger | [open](records/php-spatie-laravel-http-logger-dc282dd4.md) |
+| `packagist_search-8e14136c473b23` | wazaari/monolog-mysql | [open](records/php-wazaari-monolog-mysql-db23bd79.md) |
+| `packagist_search-8e189ab5e6181c` | phpmyadmin/phpmyadmin | [open](records/php-phpmyadmin-phpmyadmin-449ed072.md) |
+| `packagist_search-8edf854ee08faa` | pecee/pixie | [open](records/php-pecee-pixie-da5b1db3.md) |
+| `packagist_search-8fd73637c2d4b9` | laravel-lang/json-fallback | [open](records/php-laravel-lang-json-fallback-e2aa1d32.md) |
+| `packagist_search-904ddb7e447516` | kg-bot/laravel-localization-to-vue | [open](records/php-kg-bot-laravel-localization-to-vue-23319f5b.md) |
 | `packagist_search-918982b9f67405` | codezero/laravel-unique-translation | [open](records/php-codezero-laravel-unique-translation-c1518c57.md) |
 | `packagist_search-9197155b191bef` | contributte/redis | [open](records/php-contributte-redis-588fae9b.md) |
+| `packagist_search-92ed84b5cdf154` | laravelbook/ardent | [open](records/php-laravelbook-ardent-367290df.md) |
 | `packagist_search-92ef85dbd58fdc` | chrisboulton/php-resque | [open](records/php-chrisboulton-php-resque-9bd303ad.md) |
 | `packagist_search-92f056b5f30833` | coduo/php-matcher | [open](records/php-coduo-php-matcher-86677283.md) |
+| `packagist_search-939d0e420aec22` | zenorocha/clipboardjs | [open](records/php-zenorocha-clipboardjs-9de60cd3.md) |
 | `packagist_search-93a97794aa9c1d` | foolz/sphinxql-query-builder | [open](records/php-foolz-sphinxql-query-builder-f2a8d804.md) |
+| `packagist_search-93b6e3db242e3d` | nocarrier/hal | [open](records/php-nocarrier-hal-c7a2f325.md) |
+| `packagist_search-94158b05db6df4` | jonaspauleta/scout-postgres | [open](records/php-jonaspauleta-scout-postgres-b930655e.md) |
 | `packagist_search-94b3f2dd253c3b` | cache/redis-adapter | [open](records/php-cache-redis-adapter-829ec424.md) |
+| `packagist_search-94e995fee2c6f4` | sentry/sentry-laravel | [open](records/php-sentry-sentry-laravel-0b204dcb.md) |
+| `packagist_search-95c87fa25800b2` | namoshek/laravel-redis-sentinel | [open](records/php-namoshek-laravel-redis-sentinel-de0df3e6.md) |
+| `packagist_search-9600938e861260` | mpyw/laravel-database-advisory-lock | [open](records/php-mpyw-laravel-database-advisory-lock-b3e478f5.md) |
+| `packagist_search-969b2a85e3fffd` | macfja/redisearch | [open](records/php-macfja-redisearch-b901efab.md) |
 | `packagist_search-9703ca6cdee632` | flagception/database-activator | [open](records/php-flagception-database-activator-0b680ed6.md) |
+| `packagist_search-9785398a465142` | pomm-project/foundation | [open](records/php-pomm-project-foundation-0113f4ad.md) |
+| `packagist_search-979576a7a2cda9` | pmatseykanets/laravel-scout-postgres | [open](records/php-pmatseykanets-laravel-scout-postgres-cd338bbb.md) |
 | `packagist_search-97fbead4a021eb` | flow-php/postgresql | [open](records/php-flow-php-postgresql-59482fb5.md) |
 | `packagist_search-98a4f846e40e69` | clue/ndjson-react | [open](records/php-clue-ndjson-react-33d3df36.md) |
+| `packagist_search-98bc9bcae4fb69` | nyholm/dsn | [open](records/php-nyholm-dsn-bbbaf9cc.md) |
+| `packagist_search-99b379e1190de4` | rah/danpu | [open](records/php-rah-danpu-a4ad92c6.md) |
+| `packagist_search-99e4ddd9aa443d` | laminas/laminas-httphandlerrunner | [open](records/php-laminas-laminas-httphandlerrunner-3529398e.md) |
 | `packagist_search-9ad106c44a14a2` | cycle/database | [open](records/php-cycle-database-4c2ca6db.md) |
 | `packagist_search-9ae29e9f57f5ee` | heyosseus/vacuum | [open](records/php-heyosseus-vacuum-58e7dceb.md) |
 | `packagist_search-9ba7d1556e32aa` | beberlei/doctrineextensions | [open](records/php-beberlei-doctrineextensions-98ec0d50.md) |
+| `packagist_search-9c24697b849769` | nahid/jsonq | [open](records/php-nahid-jsonq-448c88bc.md) |
 | `packagist_search-9c2e98298ce3ae` | illuminate/http | [open](records/php-illuminate-http-d6684101.md) |
+| `packagist_search-9cda0a077ae6ea` | sonata-project/cache | [open](records/php-sonata-project-cache-4b7383ff.md) |
+| `packagist_search-9d754a09df923a` | orangehill/iseed | [open](records/php-orangehill-iseed-268429e1.md) |
 | `packagist_search-9d79a7d85e2740` | dg/adminer | [open](records/php-dg-adminer-db0d0065.md) |
 | `packagist_search-9e87330c12cfae` | grimzy/laravel-mysql-spatial | [open](records/php-grimzy-laravel-mysql-spatial-da4c5240.md) |
+| `packagist_search-9e8a8127d6ef21` | php-open-source-saver/jwt-auth | [open](records/php-php-open-source-saver-jwt-auth-36479751.md) |
+| `packagist_search-9f2cf43196f823` | spatie/laravel-json-api-paginate | [open](records/php-spatie-laravel-json-api-paginate-804681c1.md) |
+| `packagist_search-9f5a8ca95b6502` | markhilton/monolog-mysql | [open](records/php-markhilton-monolog-mysql-9ec8d097.md) |
 | `packagist_search-9fb735d66c5eb9` | aura/sqlquery | [open](records/php-aura-sqlquery-18182d51.md) |
 | `packagist_search-a18936e712d151` | datto/json-rpc | [open](records/php-datto-json-rpc-18bf5447.md) |
 | `packagist_search-a1b70ef540582d` | guzzlehttp/guzzle | [open](records/php-guzzlehttp-guzzle-8c3344ec.md) |
+| `packagist_search-a31020eaddab9c` | spatie/db-dumper | [open](records/php-spatie-db-dumper-9aea25f6.md) |
+| `packagist_search-a3372859b6ce44` | nette/utils | [open](records/php-nette-utils-bd91eee8.md) |
+| `packagist_search-a340a09068ae00` | php-http/httplug | [open](records/php-php-http-httplug-b4ccf6d5.md) |
 | `packagist_search-a5300629148445` | api-platform/json-schema | [open](records/php-api-platform-json-schema-12b34fe2.md) |
 | `packagist_search-a6ba44cd603dc3` | jms/serializer-bundle | [open](records/php-jms-serializer-bundle-55d47cb4.md) |
 | `packagist_search-a83abf0f1217e0` | dshafik/php7-mysql-shim | [open](records/php-dshafik-php7-mysql-shim-bf7e43fb.md) |
 | `packagist_search-a8647f61d7adf4` | beste/json | [open](records/php-beste-json-8432c87b.md) |
 | `packagist_search-a8dffb4ec84bd0` | dg/adminer-custom | [open](records/php-dg-adminer-custom-5ca2de1c.md) |
 | `packagist_search-a9b35df6fa6a7b` | dekor/php-array-table | [open](records/php-dekor-php-array-table-39b979f5.md) |
+| `packagist_search-aa39da481972df` | nette/nette | [open](records/php-nette-nette-b634c78e.md) |
 | `packagist_search-aafd7639eb8410` | galbar/jsonpath | [open](records/php-galbar-jsonpath-2222dc51.md) |
 | `packagist_search-ab37fa23ffeb85` | cerbero/json-parser | [open](records/php-cerbero-json-parser-38e82bf8.md) |
 | `packagist_search-ab7520e29ee76d` | auth0/auth0-php | [open](records/php-auth0-auth0-php-ae8ab54a.md) |
 | `packagist_search-abffc706162155` | doctrine/mongodb-odm | [open](records/php-doctrine-mongodb-odm-6070bed1.md) |
 | `packagist_search-ac93b89bee0e2e` | clue/redis-react | [open](records/php-clue-redis-react-72ed1fe7.md) |
+| `packagist_search-acd170080cbeb9` | timacdonald/json-api | [open](records/php-timacdonald-json-api-1a03aab9.md) |
 | `packagist_search-acd7e4571b2214` | amphp/postgres | [open](records/php-amphp-postgres-91a1ac9b.md) |
 | `packagist_search-ad02385f59721f` | arvenil/ninja-mutex | [open](records/php-arvenil-ninja-mutex-ade0fdd0.md) |
+| `packagist_search-ad67df00438e4e` | laminas/laminas-json | [open](records/php-laminas-laminas-json-881c7b42.md) |
+| `packagist_search-ad7eac0b2db2ee` | yiisoft/yii2-redis | [open](records/php-yiisoft-yii2-redis-f53bf6ae.md) |
+| `packagist_search-ae9922e64c9d94` | linkorb/database-manager | [open](records/php-linkorb-database-manager-eb08c33a.md) |
 | `packagist_search-b0388ed50064c6` | illuminate/redis | [open](records/php-illuminate-redis-db7236b4.md) |
+| `packagist_search-b03f732b32a808` | yiisoft/yii2-queue | [open](records/php-yiisoft-yii2-queue-53e1fa57.md) |
 | `packagist_search-b2762fc8b75ecb` | astrotomic/laravel-translatable | [open](records/php-astrotomic-laravel-translatable-1fee3363.md) |
+| `packagist_search-b281022717251c` | kevinrob/guzzle-cache-middleware | [open](records/php-kevinrob-guzzle-cache-middleware-e2205305.md) |
 | `packagist_search-b2b205fb7ab5b3` | apix/cache | [open](records/php-apix-cache-40354d2a.md) |
 | `packagist_search-b48fbda348607b` | belamov/postgres-range | [open](records/php-belamov-postgres-range-79a3d88f.md) |
+| `packagist_search-b4f3f51344f4c0` | sentry/sentry-symfony | [open](records/php-sentry-sentry-symfony-abd1898f.md) |
 | `packagist_search-b500632fb57778` | clue/redis-protocol | [open](records/php-clue-redis-protocol-224f7bce.md) |
+| `packagist_search-b5733c849d0f3d` | nunomaduro/pao | [open](records/php-nunomaduro-pao-58ddb2fb.md) |
+| `packagist_search-b5bf6447318ec7` | sonata-project/entity-audit-bundle | [open](records/php-sonata-project-entity-audit-bundle-d317a63e.md) |
+| `packagist_search-b5d553d8b409a7` | zordius/lightncandy | [open](records/php-zordius-lightncandy-07e506c8.md) |
 | `packagist_search-b5d727b5869961` | amphp/websocket | [open](records/php-amphp-websocket-1122914c.md) |
 | `packagist_search-b5f7f4491391cd` | colinmollenhour/cache-backend-redis | [open](records/php-colinmollenhour-cache-backend-redis-10e5358b.md) |
 | `packagist_search-b6ca1884e70922` | catfan/medoo | [open](records/php-catfan-medoo-b62a84e4.md) |
+| `packagist_search-b73d1af49cf5ed` | pushery/webhooks-for-laravel | [open](records/php-pushery-webhooks-for-laravel-fa13f170.md) |
 | `packagist_search-b7b52f92372d70` | hyperf/redis | [open](records/php-hyperf-redis-c5c44cf8.md) |
+| `packagist_search-b814316acc7dbb` | zendframework/zend-json | [open](records/php-zendframework-zend-json-3d99c0da.md) |
+| `packagist_search-b8be7f0e4ec33d` | syslogic/doctrine-json-functions | [open](records/php-syslogic-doctrine-json-functions-2a79bdd9.md) |
+| `packagist_search-b93fee65da93ed` | staudenmeir/eloquent-json-relations | [open](records/php-staudenmeir-eloquent-json-relations-2ca47f67.md) |
+| `packagist_search-b95873d5494a47` | laravel/pao | [open](records/php-laravel-pao-b15b4327.md) |
 | `packagist_search-ba052c001d5b7f` | doctrine/orm | [open](records/php-doctrine-orm-87e60240.md) |
+| `packagist_search-ba29bfffc96c56` | laravel-clickhouse/laravel-clickhouse | [open](records/php-laravel-clickhouse-laravel-clickhouse-da9cc5f9.md) |
+| `packagist_search-ba2e1f7c9f6ee4` | onecentlin/laravel-adminer | [open](records/php-onecentlin-laravel-adminer-fa06aa5e.md) |
 | `packagist_search-ba3cee9b9b75f2` | dibi/dibi | [open](records/php-dibi-dibi-14a7a723.md) |
+| `packagist_search-babc748deb6fbc` | pear/console_getopt | [open](records/php-pear-console-getopt-277b755a.md) |
+| `packagist_search-bb2df4f83cab25` | yiisoft/yii2-httpclient | [open](records/php-yiisoft-yii2-httpclient-eab09a71.md) |
 | `packagist_search-bb5162a526889a` | boldtrn/jsonb-bundle | [open](records/php-boldtrn-jsonb-bundle-0bb02785.md) |
+| `packagist_search-bd1053f7e2879e` | namshi/jose | [open](records/php-namshi-jose-070b0e9e.md) |
 | `packagist_search-bdae65bb06dc95` | ergebnis/json-schema-validator | [open](records/php-ergebnis-json-schema-validator-b6b15096.md) |
 | `packagist_search-bdb3a0bc352bf9` | gesdinet/jwt-refresh-token-bundle | [open](records/php-gesdinet-jwt-refresh-token-bundle-b2601953.md) |
+| `packagist_search-bdc005f60ea0cf` | marcelgwerder/laravel-api-handler | [open](records/php-marcelgwerder-laravel-api-handler-4e7a8c76.md) |
+| `packagist_search-bdeda121d0d7e0` | php-http/multipart-stream-builder | [open](records/php-php-http-multipart-stream-builder-3d5e1d84.md) |
 | `packagist_search-be09bd54396e5e` | jenssegers/mongodb | [open](records/php-jenssegers-mongodb-773603c1.md) |
 | `packagist_search-be4a266f92c688` | ergebnis/json-normalizer | [open](records/php-ergebnis-json-normalizer-f3f0ebe9.md) |
+| `packagist_search-be70a9ba6752a6` | slim/psr7 | [open](records/php-slim-psr7-5b4653d6.md) |
+| `packagist_search-becccd70fe87c9` | mevdschee/php-crud-api | [open](records/php-mevdschee-php-crud-api-eb9b7458.md) |
 | `packagist_search-bedcd55befd3c6` | aimeos/ai-client-jsonapi | [open](records/php-aimeos-ai-client-jsonapi-dc6c0b06.md) |
+| `packagist_search-bedeaef22114ed` | mongodb/mongodb-extension | [open](records/php-mongodb-mongodb-extension-09492336.md) |
 | `packagist_search-bf8a1af7ad689a` | fileeye/mimemap | [open](records/php-fileeye-mimemap-ec22ea76.md) |
+| `packagist_search-c025dcfabc3fde` | psr/http-message | [open](records/php-psr-http-message-ad43f3a8.md) |
+| `packagist_search-c042d7ed82f3d2` | yadakhov/insert-on-duplicate-key | [open](records/php-yadakhov-insert-on-duplicate-key-07c18b9a.md) |
 | `packagist_search-c078cde0392080` | doctrine/doctrine-bundle | [open](records/php-doctrine-doctrine-bundle-c909c68e.md) |
+| `packagist_search-c0956eebf69ce9` | zendesk/zendesk_api_client_php | [open](records/php-zendesk-zendesk-api-client-php-b7dfb3ab.md) |
+| `packagist_search-c188468538a839` | sad_spirit/pg_builder | [open](records/php-sad-spirit-pg-builder-60fd7a5f.md) |
+| `packagist_search-c1d55f1ad06143` | workerman/workerman | [open](records/php-workerman-workerman-355412a8.md) |
+| `packagist_search-c2eb32277aa8f9` | martin-georgiev/postgresql-for-doctrine | [open](records/php-martin-georgiev-postgresql-for-doctrine-ea48f018.md) |
+| `packagist_search-c2ec6e1b811d82` | php-http/client-common | [open](records/php-php-http-client-common-65ca5aea.md) |
+| `packagist_search-c2f765343a9ee1` | williamdes/mariadb-mysql-kbs | [open](records/php-williamdes-mariadb-mysql-kbs-aae2ca23.md) |
 | `packagist_search-c34eb468fed947` | ircmaxell/password-compat | [open](records/php-ircmaxell-password-compat-9b5a9f32.md) |
+| `packagist_search-c3d120e1c0884f` | tedivm/stash | [open](records/php-tedivm-stash-a7a1de23.md) |
+| `packagist_search-c44bd1522d8526` | php-http/httplug-bundle | [open](records/php-php-http-httplug-bundle-78bb959b.md) |
+| `packagist_search-c5fa1ddcc1e6eb` | orptech/laravel-migration-partition | [open](records/php-orptech-laravel-migration-partition-5c1f5b18.md) |
+| `packagist_search-c69eac03dcec5c` | mongodb/mongodb | [open](records/php-mongodb-mongodb-167c6016.md) |
+| `packagist_search-c6d5744da68b4a` | usmanhalalit/pixie | [open](records/php-usmanhalalit-pixie-5c5a6eea.md) |
+| `packagist_search-c6f4b30f6db1b5` | spatie/laravel-translation-loader | [open](records/php-spatie-laravel-translation-loader-7287e8cc.md) |
 | `packagist_search-c74e6a7168e7d9` | enlightn/security-checker | [open](records/php-enlightn-security-checker-f8b3659a.md) |
+| `packagist_search-c99fbca0ef7cf8` | ramsey/uuid-doctrine | [open](records/php-ramsey-uuid-doctrine-a89cf9b1.md) |
+| `packagist_search-c9dbda1a35a0ef` | mledoze/countries | [open](records/php-mledoze-countries-dc28ff6e.md) |
 | `packagist_search-ca188dd4f47513` | dunglas/doctrine-json-odm | [open](records/php-dunglas-doctrine-json-odm-d7b30b39.md) |
 | `packagist_search-ca3ae7d22bbdd3` | devnoiseconsulting/laravel-scout-postgres-tsvector | [open](records/php-devnoiseconsulting-laravel-scout-postgres-tsvector-f3f6a48a.md) |
+| `packagist_search-cad64cc192a06b` | sofa/eloquence | [open](records/php-sofa-eloquence-02c17a86.md) |
+| `packagist_search-cbe25cc1afaf1d` | tcdent/php-restclient | [open](records/php-tcdent-php-restclient-87944374.md) |
+| `packagist_search-ccea9eeb766914` | teamtnt/laravel-scout-tntsearch-driver | [open](records/php-teamtnt-laravel-scout-tntsearch-driver-09954290.md) |
+| `packagist_search-ccf32ac1e180bb` | league/fractal | [open](records/php-league-fractal-674ce28d.md) |
+| `packagist_search-cd73a7923a8634` | league/glide | [open](records/php-league-glide-b588a7f3.md) |
+| `packagist_search-ce75affb6bdee4` | tymon/jwt-auth | [open](records/php-tymon-jwt-auth-f925cd65.md) |
+| `packagist_search-ce7ea65dee4315` | zircote/swagger-php | [open](records/php-zircote-swagger-php-70bf3417.md) |
+| `packagist_search-ce865d46466e64` | php-http/discovery | [open](records/php-php-http-discovery-c75d64f0.md) |
+| `packagist_search-cea89ed204098b` | krowinski/php-mysql-replication | [open](records/php-krowinski-php-mysql-replication-7ce2777c.md) |
 | `packagist_search-ceb98d708b569b` | doctrine/cache | [open](records/php-doctrine-cache-2770b9eb.md) |
+| `packagist_search-cf15b1dd6632e4` | phpmyadmin/sql-parser | [open](records/php-phpmyadmin-sql-parser-27df2145.md) |
+| `packagist_search-d03e5079c2704f` | stevencorona/opcache-json | [open](records/php-stevencorona-opcache-json-58a2b890.md) |
+| `packagist_search-d0e6bd5147e345` | kartik-v/yii2-export | [open](records/php-kartik-v-yii2-export-d0718c10.md) |
+| `packagist_search-d139c3327feb4d` | nategood/httpful | [open](records/php-nategood-httpful-374afacb.md) |
+| `packagist_search-d17d7d8d7bb867` | ukko/phpredis-phpdoc | [open](records/php-ukko-phpredis-phpdoc-d044663a.md) |
 | `packagist_search-d33fdc1040dc49` | codeception/module-phpbrowser | [open](records/php-codeception-module-phpbrowser-4f1fc3bc.md) |
+| `packagist_search-d35de4536f511d` | mmucklo/queue-bundle | [open](records/php-mmucklo-queue-bundle-24f20cc5.md) |
+| `packagist_search-d403ebad7d2988` | nilportugues/sql-query-formatter | [open](records/php-nilportugues-sql-query-formatter-cbf8ab7c.md) |
+| `packagist_search-d405487e4d4c1e` | neomerx/json-api | [open](records/php-neomerx-json-api-f422028c.md) |
+| `packagist_search-d47dfa18aa2ee9` | laravel-json-api/laravel | [open](records/php-laravel-json-api-laravel-2b29699f.md) |
+| `packagist_search-d4e0ae0b14b4e9` | linkage/doctrine-postgresql-tstzrange | [open](records/php-linkage-doctrine-postgresql-tstzrange-1df40381.md) |
+| `packagist_search-d58f7be3a0acc2` | php-jsonpatch/php-jsonpatch | [open](records/php-php-jsonpatch-php-jsonpatch-dfa1285b.md) |
+| `packagist_search-d5d7bd2c63d7a3` | spatie/laravel-backup | [open](records/php-spatie-laravel-backup-64d81588.md) |
 | `packagist_search-d688882d4cf7f0` | druidfi/mysqldump-php | [open](records/php-druidfi-mysqldump-php-f81fc9a9.md) |
+| `packagist_search-d6c31640264610` | umbrellio/laravel-ltree | [open](records/php-umbrellio-laravel-ltree-fa185c07.md) |
+| `packagist_search-d74cb157e4cc5d` | mix/redis-subscriber | [open](records/php-mix-redis-subscriber-5bb558f8.md) |
 | `packagist_search-d76f8d6cc958cd` | fig/http-message-util | [open](records/php-fig-http-message-util-23ee2d56.md) |
+| `packagist_search-d7d8e0bf4cd03f` | leantime/leantime | [open](records/php-leantime-leantime-a6136153.md) |
 | `packagist_search-d899c7239c5608` | friendsofsymfony/http-cache | [open](records/php-friendsofsymfony-http-cache-ea0d26a5.md) |
+| `packagist_search-da4ba79b1d2cc7` | symfony/security-http | [open](records/php-symfony-security-http-c022bb52.md) |
+| `packagist_search-db09c3414bb00a` | php-http/message | [open](records/php-php-http-message-b978816d.md) |
+| `packagist_search-dced70e6bea325` | swow/swow | [open](records/php-swow-swow-1b9231f8.md) |
+| `packagist_search-dd533396de3f11` | matomo/cache | [open](records/php-matomo-cache-1a661037.md) |
 | `packagist_search-ddb4d64f97ec11` | auth0/login | [open](records/php-auth0-login-2836946f.md) |
+| `packagist_search-dec488c47c0a9d` | malkusch/lock | [open](records/php-malkusch-lock-1cba933d.md) |
+| `packagist_search-df51a8bac7b65a` | m6web/redis-mock | [open](records/php-m6web-redis-mock-3d041fbc.md) |
 | `packagist_search-df7e21a8c6405a` | amphp/mysql | [open](records/php-amphp-mysql-5dfe818a.md) |
 | `packagist_search-e0567d961a37bc` | jakeasmith/http_build_url | [open](records/php-jakeasmith-http-build-url-ef13a8e2.md) |
+| `packagist_search-e091af5f945e79` | pomm-project/cli | [open](records/php-pomm-project-cli-146d0fdd.md) |
 | `packagist_search-e09337e0d52127` | berlindb/core | [open](records/php-berlindb-core-b69b9ce2.md) |
+| `packagist_search-e3a01bd05e05fb` | symfony-cmf/routing | [open](records/php-symfony-cmf-routing-ab21d7c4.md) |
 | `packagist_search-e4d6aceec2dcae` | doctrine/mongodb | [open](records/php-doctrine-mongodb-7fbc730a.md) |
+| `packagist_search-e4f57913d1e3a9` | maxmind-db/reader | [open](records/php-maxmind-db-reader-9447323f.md) |
 | `packagist_search-e5212c539e7d87` | guzzlehttp/ringphp | [open](records/php-guzzlehttp-ringphp-ab5e949e.md) |
+| `packagist_search-e5631e293d5981` | longitude-one/doctrine-spatial | [open](records/php-longitude-one-doctrine-spatial-52da2d6a.md) |
+| `packagist_search-e64061d509e8fc` | lcobucci/jwt | [open](records/php-lcobucci-jwt-cbc39996.md) |
+| `packagist_search-e658d525932149` | symfony-cmf/routing-bundle | [open](records/php-symfony-cmf-routing-bundle-3b6cd970.md) |
+| `packagist_search-e6770518e78ab8` | symfony/ai-postgres-store | [open](records/php-symfony-ai-postgres-store-660e04ef.md) |
+| `packagist_search-e699ce9de61e19` | opsway/doctrine-dbal-postgresql | [open](records/php-opsway-doctrine-dbal-postgresql-5a919fa6.md) |
 | `packagist_search-e6d3f56461bcfe` | jms/serializer | [open](records/php-jms-serializer-51bdec17.md) |
 | `packagist_search-e72e46180acd20` | allanpichardo/mysql-vector | [open](records/php-allanpichardo-mysql-vector-5720137f.md) |
+| `packagist_search-e73f2dc0fd31de` | jsor/doctrine-postgis | [open](records/php-jsor-doctrine-postgis-11d0d04c.md) |
+| `packagist_search-e82a0d9396d587` | symfony/serializer | [open](records/php-symfony-serializer-134a9b77.md) |
+| `packagist_search-ea44ecccb91035` | qbbr/pgsql-doctrine-random-function | [open](records/php-qbbr-pgsql-doctrine-random-function-cefb671d.md) |
 | `packagist_search-eabaaa1494bebf` | doctrine/dbal | [open](records/php-doctrine-dbal-ec67d707.md) |
 | `packagist_search-eacd287a654a8f` | illuminate/json-schema | [open](records/php-illuminate-json-schema-fae35fa6.md) |
 | `packagist_search-eb0517786e35cb` | awssat/laravel-visits | [open](records/php-awssat-laravel-visits-4eed0cc7.md) |
@@ -19267,21 +19940,44 @@
 | `packagist_search-ec63a1598e8c51` | colinmollenhour/credis | [open](records/php-colinmollenhour-credis-caa10dda.md) |
 | `packagist_search-ecec239d3b36c3` | cebe/php-openapi | [open](records/php-cebe-php-openapi-c412045f.md) |
 | `packagist_search-edebfe30687477` | eightpoints/guzzle-bundle | [open](records/php-eightpoints-guzzle-bundle-0ec077c3.md) |
+| `packagist_search-ee1589de43861a` | voryx/pgasync | [open](records/php-voryx-pgasync-f09494e6.md) |
+| `packagist_search-ee1860987f8f0b` | stancl/tenancy | [open](records/php-stancl-tenancy-7d5f5b34.md) |
+| `packagist_search-ee2a470bf19ba3` | php-http/promise | [open](records/php-php-http-promise-0c73dde2.md) |
+| `packagist_search-ef15a0748dc4c3` | yiisoft/db-mysql | [open](records/php-yiisoft-db-mysql-78eed699.md) |
+| `packagist_search-ef6140bc4965e3` | php-http/cache-plugin | [open](records/php-php-http-cache-plugin-cbbc38fb.md) |
 | `packagist_search-ef92fa88b35fae` | atk4/data | [open](records/php-atk4-data-610bf0c1.md) |
 | `packagist_search-f0144b15cc97c9` | infocyph/cachelayer | [open](records/php-infocyph-cachelayer-2ccc1c6b.md) |
 | `packagist_search-f055a9653d9380` | aura/sqlschema | [open](records/php-aura-sqlschema-5e7e6c07.md) |
+| `packagist_search-f106609282ee38` | kreait/firebase-bundle | [open](records/php-kreait-firebase-bundle-14f36a02.md) |
 | `packagist_search-f110f3335d07c0` | hyperf/database-pgsql | [open](records/php-hyperf-database-pgsql-795c9abc.md) |
+| `packagist_search-f34b340bfe83a7` | salsify/json-streaming-parser | [open](records/php-salsify-json-streaming-parser-a28c7f02.md) |
 | `packagist_search-f37d981f1ba978` | goodwix/doctrine-json-odm | [open](records/php-goodwix-doctrine-json-odm-ef704a19.md) |
+| `packagist_search-f424008c71bead` | opis/database | [open](records/php-opis-database-90f06ec2.md) |
+| `packagist_search-f4263c09164609` | php-http/guzzle7-adapter | [open](records/php-php-http-guzzle7-adapter-f379963c.md) |
 | `packagist_search-f458e623f97da7` | ergebnis/json-printer | [open](records/php-ergebnis-json-printer-b7fbbe90.md) |
 | `packagist_search-f48a8a24e573cb` | doctrine/mongodb | [open](records/php-doctrine-mongodb-e4fd450a.md) |
+| `packagist_search-f5857a96a9b99f` | topthink/think-orm | [open](records/php-topthink-think-orm-8bc7105b.md) |
 | `packagist_search-f6fdbb8c2cc2ce` | http-interop/http-factory-guzzle | [open](records/php-http-interop-http-factory-guzzle-66251638.md) |
 | `packagist_search-f744a997d48b7d` | cuyz/valinor | [open](records/php-cuyz-valinor-b52313eb.md) |
+| `packagist_search-f84aa870cc2619` | lanin/laravel-api-debugger | [open](records/php-lanin-laravel-api-debugger-7a8c5e7d.md) |
+| `packagist_search-f8e9f60b1bcd43` | quickbooks/v3-php-sdk | [open](records/php-quickbooks-v3-php-sdk-ca2a5352.md) |
+| `packagist_search-fa6984e6ac608c` | sabre/http | [open](records/php-sabre-http-dc1adc6c.md) |
+| `packagist_search-fb2fdce7b3ab92` | spatie/laravel-db-snapshots | [open](records/php-spatie-laravel-db-snapshots-be1c9f55.md) |
+| `packagist_search-fb38b21f387764` | laminas/laminas-diactoros | [open](records/php-laminas-laminas-diactoros-84fd206b.md) |
+| `packagist_search-fb9fea82016f5f` | sendgrid/php-http-client | [open](records/php-sendgrid-php-http-client-31a1c09f.md) |
+| `packagist_search-fc2d3cfa961348` | zbateson/mb-wrapper | [open](records/php-zbateson-mb-wrapper-afcd306c.md) |
+| `packagist_search-fc458f1be6203d` | sunaoka/php-postgresql-errors | [open](records/php-sunaoka-php-postgresql-errors-24db2120.md) |
+| `packagist_search-fc50a775847d53` | sergeytsalkov/meekrodb | [open](records/php-sergeytsalkov-meekrodb-283e0055.md) |
+| `packagist_search-fed32f93031564` | laminas/laminas-cache-storage-adapter-redis | [open](records/php-laminas-laminas-cache-storage-adapter-redis-718dde94.md) |
+| `packagist_search-feeecd56a59091` | umbrellio/laravel-pg-extensions | [open](records/php-umbrellio-laravel-pg-extensions-6e6ce7fa.md) |
 | `packagist_search-ff8716aa590017` | devtheorem/peachy-sql | [open](records/php-devtheorem-peachy-sql-ebe11428.md) |
+| `pub_dev-00013e43e11853` | sentry_dio | [open](records/dart-sentry-dio-7067a5da.md) |
 | `pub_dev-0004949f20f2ec` | logger | [open](records/dart-logger-1d289d0f.md) |
 | `pub_dev-0022a83b7692b1` | local_auth | [open](records/dart-local-auth-dc3f9a4e.md) |
 | `pub_dev-00365abed0a721` | flutter_easyloading | [open](records/dart-flutter-easyloading-11a37cc7.md) |
 | `pub_dev-005d17bbd01df6` | flutter_staggered_animations | [open](records/dart-flutter-staggered-animations-5498ba65.md) |
 | `pub_dev-007526166d1576` | openai_dart | [open](records/dart-openai-dart-c91b874d.md) |
+| `pub_dev-0075b6765bae75` | shadcn_ui | [open](records/dart-shadcn-ui-58fde214.md) |
 | `pub_dev-00f5d5ba606549` | ffi | [open](records/dart-ffi-db803997.md) |
 | `pub_dev-0100b53a63c239` | hive_ce | [open](records/dart-hive-ce-4ae295fe.md) |
 | `pub_dev-0119102f019af7` | flutter_stripe | [open](records/dart-flutter-stripe-1b0fa295.md) |
@@ -19294,50 +19990,76 @@
 | `pub_dev-02c7870759c565` | mason_cli | [open](records/dart-mason-cli-a49cc7e6.md) |
 | `pub_dev-032fb968bb4f91` | flutter_layout_grid | [open](records/dart-flutter-layout-grid-23c565b3.md) |
 | `pub_dev-035188128e9275` | mocktail_image_network | [open](records/dart-mocktail-image-network-c3ed3d2f.md) |
+| `pub_dev-036f808454c159` | syncfusion_flutter_datagrid | [open](records/dart-syncfusion-flutter-datagrid-9d656fc2.md) |
+| `pub_dev-037fe98571a5ac` | string_validator | [open](records/dart-string-validator-052c753f.md) |
 | `pub_dev-04507ab6937239` | pay | [open](records/dart-pay-8e52269a.md) |
 | `pub_dev-04cbab71e67152` | data_table_2 | [open](records/dart-data-table-2-e89e4902.md) |
 | `pub_dev-04e6787b17a17b` | injectable | [open](records/dart-injectable-bf69f8f7.md) |
 | `pub_dev-05508b2804b5c0` | firebase_auth | [open](records/dart-firebase-auth-42fcd098.md) |
+| `pub_dev-05c61266010e4f` | swipable_stack | [open](records/dart-swipable-stack-6e11d828.md) |
 | `pub_dev-061d290b477322` | auto_animated | [open](records/dart-auto-animated-99e73092.md) |
+| `pub_dev-064b9353ff5d0a` | scrollview_observer | [open](records/dart-scrollview-observer-6ede0195.md) |
 | `pub_dev-066fd30541934b` | permission_handler | [open](records/dart-permission-handler-bab0280b.md) |
+| `pub_dev-0674a9e4b33ddd` | test | [open](records/dart-test-85687c3f.md) |
 | `pub_dev-067f9f20e5b4d8` | loading_animation_widget | [open](records/dart-loading-animation-widget-92378805.md) |
 | `pub_dev-083402a9417606` | lottie | [open](records/dart-lottie-c1813caa.md) |
+| `pub_dev-083637ffe54d8c` | pub_api_client | [open](records/dart-pub-api-client-1ee51880.md) |
 | `pub_dev-084917156996bd` | firebase_remote_config | [open](records/dart-firebase-remote-config-e1fb45c5.md) |
 | `pub_dev-08a9d1fb8fd666` | bot_toast | [open](records/dart-bot-toast-b7903dbd.md) |
+| `pub_dev-08bdaed38d355d` | timeline_tile | [open](records/dart-timeline-tile-7ab52b0b.md) |
+| `pub_dev-0976965b50aea0` | supabase | [open](records/dart-supabase-71cdb3aa.md) |
+| `pub_dev-09db1a167139b6` | swipe_to | [open](records/dart-swipe-to-a0725013.md) |
 | `pub_dev-0a3804dedf7a1c` | dio_cache_interceptor | [open](records/dart-dio-cache-interceptor-2454806a.md) |
+| `pub_dev-0a7b79191235ca` | slang_flutter | [open](records/dart-slang-flutter-3493da82.md) |
 | `pub_dev-0ab66e78244cc4` | connectivity_plus | [open](records/dart-connectivity-plus-b6bb009b.md) |
 | `pub_dev-0b52a7fdd35685` | flutter_email_sender | [open](records/dart-flutter-email-sender-6c7e45e3.md) |
 | `pub_dev-0b602b10a9012d` | fade_shimmer | [open](records/dart-fade-shimmer-30594321.md) |
+| `pub_dev-0b7f013737fc64` | qr | [open](records/dart-qr-c5ecb48e.md) |
 | `pub_dev-0b99ef6e8d059e` | beamer | [open](records/dart-beamer-0ac37553.md) |
 | `pub_dev-0c215b908b7014` | google_mobile_ads | [open](records/dart-google-mobile-ads-7cf9a186.md) |
 | `pub_dev-0c572547a08d6b` | json_serializable | [open](records/dart-json-serializable-376b4f22.md) |
+| `pub_dev-0c81a843d863df` | step_progress_indicator | [open](records/dart-step-progress-indicator-6570906c.md) |
 | `pub_dev-0d1381496b20be` | package_info_plus | [open](records/dart-package-info-plus-5847efcc.md) |
+| `pub_dev-0d15409e7e083d` | smart_auth | [open](records/dart-smart-auth-74338502.md) |
 | `pub_dev-0d27fee48156b7` | flutter_plugin_android_lifecycle | [open](records/dart-flutter-plugin-android-lifecycle-fbbb1a0e.md) |
 | `pub_dev-0e57a6f0daed26` | darq | [open](records/dart-darq-8accdc4c.md) |
 | `pub_dev-0ef5cff9579b46` | pin_code_fields | [open](records/dart-pin-code-fields-1b47ca5f.md) |
+| `pub_dev-0fda9895e01e50` | supabase_flutter | [open](records/dart-supabase-flutter-7645000e.md) |
+| `pub_dev-1026b74eaeae40` | sprung | [open](records/dart-sprung-e8d88d04.md) |
 | `pub_dev-109b0cbbb80884` | flutter_appauth | [open](records/dart-flutter-appauth-5be855e9.md) |
 | `pub_dev-113444e7d2c687` | in_app_purchase | [open](records/dart-in-app-purchase-565f22cd.md) |
 | `pub_dev-114fd9d2a05ce3` | fading_edge_scrollview | [open](records/dart-fading-edge-scrollview-c42827f6.md) |
 | `pub_dev-11561ada2b42ee` | loading_animations | [open](records/dart-loading-animations-ffc0560d.md) |
+| `pub_dev-115a6950b1c8d7` | responsive_framework | [open](records/dart-responsive-framework-944a2c3b.md) |
+| `pub_dev-12cd6303171ebc` | swagger_parser | [open](records/dart-swagger-parser-440e5e1f.md) |
+| `pub_dev-14f57083c25d81` | source_gen | [open](records/dart-source-gen-b8cdc44c.md) |
 | `pub_dev-153fbb1c1ed776` | dropdown_button2 | [open](records/dart-dropdown-button2-8b8f8671.md) |
 | `pub_dev-160b9d72dedf8a` | pdf | [open](records/dart-pdf-6f8414fe.md) |
 | `pub_dev-1655ed41095057` | flutter_mailer | [open](records/dart-flutter-mailer-71b24718.md) |
 | `pub_dev-167924fd26c12c` | pedometer | [open](records/dart-pedometer-f76f34de.md) |
 | `pub_dev-16f7abc74ee8e1` | alchemist | [open](records/dart-alchemist-fcb4ed9e.md) |
 | `pub_dev-17128459a3758f` | in_app_update | [open](records/dart-in-app-update-0266d7cc.md) |
+| `pub_dev-17189017be2374` | shelf | [open](records/dart-shelf-418952dd.md) |
 | `pub_dev-174c7eefce95e4` | dlibphonenumber | [open](records/dart-dlibphonenumber-fca8a84d.md) |
+| `pub_dev-174d6f06c0f2b0` | wakelock_plus | [open](records/dart-wakelock-plus-6f9dd55a.md) |
 | `pub_dev-17afd4498faca8` | built_value | [open](records/dart-built-value-97fbb3d3.md) |
 | `pub_dev-188bc52c5be262` | audio_session | [open](records/dart-audio-session-d63e9aca.md) |
 | `pub_dev-18cfa11c78feb8` | oauth2 | [open](records/dart-oauth2-d6aceeb7.md) |
 | `pub_dev-1903c99f07faac` | flutter_pdfview | [open](records/dart-flutter-pdfview-eb6c3523.md) |
 | `pub_dev-19bdac72e9b64b` | flutter_parsed_text | [open](records/dart-flutter-parsed-text-49895c4e.md) |
 | `pub_dev-1b2d546b9c246e` | clipboard | [open](records/dart-clipboard-4496640a.md) |
+| `pub_dev-1b3356098886ba` | stop_watch_timer | [open](records/dart-stop-watch-timer-ab4a5380.md) |
 | `pub_dev-1baf048b644b46` | cli_completion | [open](records/dart-cli-completion-ce0d62f2.md) |
 | `pub_dev-1c7ed88c044e6d` | another_flushbar | [open](records/dart-another-flushbar-37336a0b.md) |
+| `pub_dev-1cf1087d274c96` | zxing2 | [open](records/dart-zxing2-1aa8948b.md) |
 | `pub_dev-1d206976d0d2e7` | emoji_picker_flutter | [open](records/dart-emoji-picker-flutter-d4ec46ba.md) |
+| `pub_dev-1d45675070a553` | process | [open](records/dart-process-1b3a9eba.md) |
 | `pub_dev-1d6f2e3f758e55` | chewie | [open](records/dart-chewie-3ede5409.md) |
+| `pub_dev-1e15e166b2fc71` | timeago | [open](records/dart-timeago-c0b0cd7d.md) |
 | `pub_dev-1e43c194b94ab2` | envied | [open](records/dart-envied-a8a210f2.md) |
 | `pub_dev-1e755c0e5e6f6e` | flutter_context_menu | [open](records/dart-flutter-context-menu-72bfc330.md) |
+| `pub_dev-1ed1861259c209` | shelf_proxy | [open](records/dart-shelf-proxy-f273567e.md) |
+| `pub_dev-1ef92d46f4c7ee` | syncfusion_flutter_datepicker | [open](records/dart-syncfusion-flutter-datepicker-f07357eb.md) |
 | `pub_dev-1f3a651f718ea9` | animated_flip_counter | [open](records/dart-animated-flip-counter-b9395f17.md) |
 | `pub_dev-1f9c75a7268c56` | camera | [open](records/dart-camera-01cb47c6.md) |
 | `pub_dev-1fd270508cfc78` | material_ui | [open](records/dart-material-ui-3ba68105.md) |
@@ -19345,6 +20067,7 @@
 | `pub_dev-1fe039251c1520` | image_size_getter | [open](records/dart-image-size-getter-9f40d0ef.md) |
 | `pub_dev-1ff4514c9b1176` | image_picker_for_web | [open](records/dart-image-picker-for-web-9e267aa4.md) |
 | `pub_dev-20246d44fa88b0` | macos_ui | [open](records/dart-macos-ui-eb5ff8b4.md) |
+| `pub_dev-203a9a8b705773` | syncfusion_flutter_calendar | [open](records/dart-syncfusion-flutter-calendar-66492223.md) |
 | `pub_dev-2071e27611f9af` | external_path | [open](records/dart-external-path-343d57b4.md) |
 | `pub_dev-214e09b83d22c9` | barcode_widget | [open](records/dart-barcode-widget-99e20af5.md) |
 | `pub_dev-21e2b3f964dbdc` | printing | [open](records/dart-printing-434f5074.md) |
@@ -19352,35 +20075,54 @@
 | `pub_dev-2226c1d36d6455` | multicast_dns | [open](records/dart-multicast-dns-4b99bc9e.md) |
 | `pub_dev-22281da95b97ea` | carousel_slider | [open](records/dart-carousel-slider-269a177b.md) |
 | `pub_dev-22b506622e66ba` | amplitude_flutter | [open](records/dart-amplitude-flutter-bf9e79ec.md) |
+| `pub_dev-23ee021d6345f9` | shimmer | [open](records/dart-shimmer-c3a4181c.md) |
+| `pub_dev-242725afa83bcc` | share_plus | [open](records/dart-share-plus-e39aced6.md) |
 | `pub_dev-24300b37924b5e` | flutter_native_splash | [open](records/dart-flutter-native-splash-9bf23954.md) |
 | `pub_dev-244f3d0b435aa1` | bluetooth_low_energy | [open](records/dart-bluetooth-low-energy-8c54f975.md) |
+| `pub_dev-25eb7b0120d604` | super_clipboard | [open](records/dart-super-clipboard-9cdc3a7c.md) |
+| `pub_dev-261728b77ef1f4` | restart_app | [open](records/dart-restart-app-3ced8d2c.md) |
+| `pub_dev-2646f4acb382fe` | readmore | [open](records/dart-readmore-e081a267.md) |
 | `pub_dev-267174f962628c` | marquee | [open](records/dart-marquee-cc41c071.md) |
 | `pub_dev-2680dc41e0549a` | decimal | [open](records/dart-decimal-702c7499.md) |
+| `pub_dev-268a3b5e239a86` | widgetbook | [open](records/dart-widgetbook-2f3d1f04.md) |
 | `pub_dev-26e77f28804cd0` | maplibre_gl | [open](records/dart-maplibre-gl-c2a8383e.md) |
+| `pub_dev-271e288b8dcde4` | saver_gallery | [open](records/dart-saver-gallery-bfdf1959.md) |
 | `pub_dev-2756afb990da20` | gaimon | [open](records/dart-gaimon-908dccd6.md) |
 | `pub_dev-2985c87e74c27c` | jose | [open](records/dart-jose-db6e5c50.md) |
+| `pub_dev-29dd7cadb3675a` | slang | [open](records/dart-slang-f760648f.md) |
+| `pub_dev-29f05dd3503978` | scaled_app | [open](records/dart-scaled-app-83e99a29.md) |
+| `pub_dev-2a2147f1201aba` | shamsi_date | [open](records/dart-shamsi-date-34466f5e.md) |
 | `pub_dev-2a48b6f56e25ac` | flutter_keychain | [open](records/dart-flutter-keychain-1114ea7d.md) |
 | `pub_dev-2aa2788861d0af` | flag | [open](records/dart-flag-b191281d.md) |
 | `pub_dev-2af2f78036087d` | material_color_utilities | [open](records/dart-material-color-utilities-88181653.md) |
 | `pub_dev-2b776bee440733` | easy_debounce | [open](records/dart-easy-debounce-35dcff74.md) |
+| `pub_dev-2c67ddbfb0a1d9` | pub_updater | [open](records/dart-pub-updater-eeee5445.md) |
 | `pub_dev-2c8a0192e652f2` | boolean_selector | [open](records/dart-boolean-selector-fec28f23.md) |
+| `pub_dev-2c9804cfdbc517` | typewritertext | [open](records/dart-typewritertext-0221e3f3.md) |
 | `pub_dev-2cb40832010a09` | args | [open](records/dart-args-8edaa41c.md) |
 | `pub_dev-2dcd2a0d381aa7` | markdown | [open](records/dart-markdown-59282e69.md) |
 | `pub_dev-2f9c4e2a733b0c` | dart_code_linter | [open](records/dart-dart-code-linter-df03f02e.md) |
+| `pub_dev-2fe4188464b353` | protobuf | [open](records/dart-protobuf-7bdc6c86.md) |
+| `pub_dev-301d8a74a2d688` | random_string | [open](records/dart-random-string-25ebde51.md) |
 | `pub_dev-304d753ba57748` | equatable | [open](records/dart-equatable-a8232e72.md) |
 | `pub_dev-3064621f054604` | battery_plus | [open](records/dart-battery-plus-d0854517.md) |
 | `pub_dev-30a686be20a8dc` | flutter_tts | [open](records/dart-flutter-tts-c525b76d.md) |
+| `pub_dev-3154d32eb48123` | super_drag_and_drop | [open](records/dart-super-drag-and-drop-53d051f4.md) |
 | `pub_dev-318611e935212e` | flutter_chat_types | [open](records/dart-flutter-chat-types-ec6976cf.md) |
+| `pub_dev-31c2979cd573e3` | tutorial_coach_mark | [open](records/dart-tutorial-coach-mark-cb470fcd.md) |
 | `pub_dev-3248f70037b7bc` | charset_converter | [open](records/dart-charset-converter-0bea2965.md) |
 | `pub_dev-329c6b23472a9f` | blur | [open](records/dart-blur-5bf1c763.md) |
 | `pub_dev-32a46fbe5f1f94` | calendar_view | [open](records/dart-calendar-view-9c4f778e.md) |
 | `pub_dev-32bcef2b43fcda` | background_fetch | [open](records/dart-background-fetch-067d8a7f.md) |
+| `pub_dev-32dfa0cf61431d` | result_dart | [open](records/dart-result-dart-a50a0a99.md) |
 | `pub_dev-32f0b8b89d2013` | multi_select_flutter | [open](records/dart-multi-select-flutter-843e1d5e.md) |
 | `pub_dev-33391971128f73` | dartssh2 | [open](records/dart-dartssh2-1f4cac37.md) |
 | `pub_dev-3358faf76ffa7d` | freezed_annotation | [open](records/dart-freezed-annotation-347ba8e6.md) |
+| `pub_dev-34000bde8244b9` | responsive_sizer | [open](records/dart-responsive-sizer-622dec2f.md) |
 | `pub_dev-3412d8e4fa8501` | font_awesome_flutter | [open](records/dart-font-awesome-flutter-17151ce6.md) |
 | `pub_dev-342c9c031e5c19` | dotted_border | [open](records/dart-dotted-border-ae7e47fe.md) |
 | `pub_dev-345708a69d1f56` | back_button_interceptor | [open](records/dart-back-button-interceptor-a1769376.md) |
+| `pub_dev-34fc511c707c11` | sqlite_async | [open](records/dart-sqlite-async-0a8b1bbc.md) |
 | `pub_dev-3517b8a8dcfd50` | flutter_reorderable_grid_view | [open](records/dart-flutter-reorderable-grid-view-619a01d2.md) |
 | `pub_dev-35243435a8cc0c` | copy_with_extension | [open](records/dart-copy-with-extension-01597e57.md) |
 | `pub_dev-354c2c3e371d76` | intl | [open](records/dart-intl-d90bad2b.md) |
@@ -19388,37 +20130,55 @@
 | `pub_dev-356f5e170fe10f` | isolate_manager | [open](records/dart-isolate-manager-0f2d39a3.md) |
 | `pub_dev-3651e74c3990d2` | image_picker | [open](records/dart-image-picker-bafe6f90.md) |
 | `pub_dev-366619f0d616b1` | phone_numbers_parser | [open](records/dart-phone-numbers-parser-b6b27fe8.md) |
+| `pub_dev-3669fa0b350e52` | relic | [open](records/dart-relic-b80c75b5.md) |
 | `pub_dev-373c16c465e6b7` | date_format | [open](records/dart-date-format-63d05f25.md) |
 | `pub_dev-377285f82e8edb` | octo_image | [open](records/dart-octo-image-6a0d9ae2.md) |
 | `pub_dev-37fdb7dc79a0da` | flex_seed_scheme | [open](records/dart-flex-seed-scheme-73abd8ce.md) |
 | `pub_dev-38130a83b27e99` | flutter_expandable_fab | [open](records/dart-flutter-expandable-fab-5b85b63f.md) |
 | `pub_dev-381ac0767f3389` | android_alarm_manager_plus | [open](records/dart-android-alarm-manager-plus-eb77010e.md) |
+| `pub_dev-382d0743acab30` | yaml | [open](records/dart-yaml-c12cbf97.md) |
+| `pub_dev-39423cbb390f00` | quick_actions | [open](records/dart-quick-actions-42f45037.md) |
 | `pub_dev-398a6827f29963` | animated_toggle_switch | [open](records/dart-animated-toggle-switch-7cbfa487.md) |
 | `pub_dev-39c977c782fe59` | device_preview | [open](records/dart-device-preview-08e5439c.md) |
+| `pub_dev-3aa28a3ffb4cbe` | whatsapp_unilink | [open](records/dart-whatsapp-unilink-ee99d63c.md) |
 | `pub_dev-3b1a1eb5aa0670` | path_provider_windows | [open](records/dart-path-provider-windows-615b50f3.md) |
 | `pub_dev-3b9d04c00da6b0` | google_ml_kit | [open](records/dart-google-ml-kit-174f08d9.md) |
+| `pub_dev-3bedf1ba28e16c` | soft_edge_blur | [open](records/dart-soft-edge-blur-87c56283.md) |
 | `pub_dev-3c3179fcf83bdd` | cronet_http | [open](records/dart-cronet-http-fcdb99c2.md) |
 | `pub_dev-3c3a1a12b26667` | auto_size_text_field | [open](records/dart-auto-size-text-field-70dc8951.md) |
+| `pub_dev-3c8b62a59663cf` | upgrader | [open](records/dart-upgrader-5d278f88.md) |
+| `pub_dev-3c9a8ae14537b6` | shelf_web_socket | [open](records/dart-shelf-web-socket-c6ffc916.md) |
 | `pub_dev-3cff2a734df76b` | arkit_plugin | [open](records/dart-arkit-plugin-b18fbe65.md) |
 | `pub_dev-3d605dfe4fb13e` | cunning_document_scanner | [open](records/dart-cunning-document-scanner-b98260f4.md) |
 | `pub_dev-3db8febed453df` | grinder | [open](records/dart-grinder-82627f10.md) |
 | `pub_dev-3e0a79965e4f66` | form_builder_validators | [open](records/dart-form-builder-validators-8678e197.md) |
+| `pub_dev-3e6933074ffc9e` | squadron | [open](records/dart-squadron-a3436752.md) |
+| `pub_dev-3ef8fa519826d7` | vibration | [open](records/dart-vibration-0db0fe53.md) |
 | `pub_dev-3f130e07f2cc68` | hive_ce_flutter | [open](records/dart-hive-ce-flutter-f634c06d.md) |
 | `pub_dev-3f2bb1490b9c72` | flutter_login | [open](records/dart-flutter-login-508af4c2.md) |
+| `pub_dev-4055526aec69ab` | profanity_filter | [open](records/dart-profanity-filter-9c55e3a5.md) |
 | `pub_dev-40837f8dc33dcd` | leak_tracker | [open](records/dart-leak-tracker-9b65ce16.md) |
+| `pub_dev-40e481fa1d426a` | tray_manager | [open](records/dart-tray-manager-fd52c41f.md) |
+| `pub_dev-40ea41f9da3e6f` | xdg_directories | [open](records/dart-xdg-directories-2f244eb1.md) |
 | `pub_dev-413280794b3424` | confetti | [open](records/dart-confetti-dc49ae1e.md) |
 | `pub_dev-41878bc88b795f` | after_layout | [open](records/dart-after-layout-944651a2.md) |
 | `pub_dev-4199f8c216c4ee` | open_file | [open](records/dart-open-file-f921d48c.md) |
+| `pub_dev-41dce4b4052c6a` | universal_io | [open](records/dart-universal-io-b5ae3ebe.md) |
 | `pub_dev-41ed1b6f48b540` | patrol | [open](records/dart-patrol-393eae62.md) |
 | `pub_dev-42dea4251bd068` | audio_waveforms | [open](records/dart-audio-waveforms-57440b11.md) |
 | `pub_dev-42f45c2fd04e84` | animated_text_kit | [open](records/dart-animated-text-kit-23439ecd.md) |
+| `pub_dev-43908f2199c3f7` | synchronized | [open](records/dart-synchronized-efe2aca5.md) |
 | `pub_dev-4396aca0d55e2a` | dart_console | [open](records/dart-dart-console-3d82288d.md) |
+| `pub_dev-43da7b37e4e162` | reflectable | [open](records/dart-reflectable-edefe93e.md) |
 | `pub_dev-456c6050f4dee8` | flutter_localization | [open](records/dart-flutter-localization-8dc1d50f.md) |
+| `pub_dev-45c70795300470` | uuid | [open](records/dart-uuid-7d468e88.md) |
 | `pub_dev-45c8432ba8043d` | flutter_svg | [open](records/dart-flutter-svg-da91afe8.md) |
 | `pub_dev-45ccab5abd6d3c` | badges | [open](records/dart-badges-d4d2fe6d.md) |
 | `pub_dev-45db70a92a8304` | macos_window_utils | [open](records/dart-macos-window-utils-4bdbb53a.md) |
 | `pub_dev-45fd69037837c5` | mime | [open](records/dart-mime-2d675013.md) |
+| `pub_dev-46328d35b6d57f` | toastification | [open](records/dart-toastification-3431842e.md) |
 | `pub_dev-466c3b2c8f0a93` | plugin_platform_interface | [open](records/dart-plugin-platform-interface-b633e09c.md) |
+| `pub_dev-466ca09bbd1bf6` | top_snackbar_flutter | [open](records/dart-top-snackbar-flutter-52e91539.md) |
 | `pub_dev-476af9ee18315e` | amplify_flutter | [open](records/dart-amplify-flutter-9413a448.md) |
 | `pub_dev-479f4d1ffad577` | animations | [open](records/dart-animations-52350458.md) |
 | `pub_dev-47e7cbe36ff236` | jovial_svg | [open](records/dart-jovial-svg-c6414cb6.md) |
@@ -19426,6 +20186,7 @@
 | `pub_dev-48b6e88474184b` | loader_overlay | [open](records/dart-loader-overlay-73331022.md) |
 | `pub_dev-48cafd03c829bb` | flutter_foreground_task | [open](records/dart-flutter-foreground-task-0774b21a.md) |
 | `pub_dev-48f373a7fa8fce` | change_case | [open](records/dart-change-case-c7b30550.md) |
+| `pub_dev-499d2f41f97ddb` | provider | [open](records/dart-provider-2bbb98af.md) |
 | `pub_dev-499eb814d24f93` | accessibility_tools | [open](records/dart-accessibility-tools-02c388e7.md) |
 | `pub_dev-49be0da53f1cb7` | cron | [open](records/dart-cron-b2accb33.md) |
 | `pub_dev-49d537473fe689` | auto_route | [open](records/dart-auto-route-2d5a27b9.md) |
@@ -19435,6 +20196,7 @@
 | `pub_dev-49fbbfcce8dc30` | better_player | [open](records/dart-better-player-084ef311.md) |
 | `pub_dev-4a04e831dc7dfe` | debounce_throttle | [open](records/dart-debounce-throttle-3ff62299.md) |
 | `pub_dev-4a30ea7409600e` | flutter_image_compress | [open](records/dart-flutter-image-compress-1b3cabe6.md) |
+| `pub_dev-4ac1b08d48b5d0` | syncfusion_flutter_gauges | [open](records/dart-syncfusion-flutter-gauges-b33b7a95.md) |
 | `pub_dev-4b4e76a718d261` | dropdown_search | [open](records/dart-dropdown-search-4ffe6c19.md) |
 | `pub_dev-4b85d04a69a754` | async | [open](records/dart-async-c11b24b8.md) |
 | `pub_dev-4bc6e6a2996914` | filesize | [open](records/dart-filesize-b87d74c1.md) |
@@ -19444,14 +20206,20 @@
 | `pub_dev-4caaf23e05b493` | markdown_widget | [open](records/dart-markdown-widget-8de7bc84.md) |
 | `pub_dev-4cd9258ddede31` | gap | [open](records/dart-gap-f187b138.md) |
 | `pub_dev-4cdeaaa2ce2d11` | bonsoir | [open](records/dart-bonsoir-bb5da73a.md) |
+| `pub_dev-4d3d79e3c9fa87` | xterm | [open](records/dart-xterm-d0caf7a1.md) |
 | `pub_dev-4d850e4a4021c0` | network_info_plus | [open](records/dart-network-info-plus-7d241e16.md) |
+| `pub_dev-4d8aca73c4c4f4` | webview_flutter | [open](records/dart-webview-flutter-b004aabf.md) |
+| `pub_dev-4d9d412655f8e6` | toggle_switch | [open](records/dart-toggle-switch-13aded3a.md) |
+| `pub_dev-4dc50dd7553194` | very_good_analysis | [open](records/dart-very-good-analysis-8f0f073a.md) |
 | `pub_dev-4ddc7d2ac7b3f1` | mobile_scanner | [open](records/dart-mobile-scanner-cd355124.md) |
 | `pub_dev-500e3e088e5cbf` | postgrest | [open](records/dart-postgrest-159001a6.md) |
 | `pub_dev-50aeaecd3b8f21` | file | [open](records/dart-file-4190940c.md) |
 | `pub_dev-5171be8395f76f` | currency_text_input_formatter | [open](records/dart-currency-text-input-formatter-9b2cc3c7.md) |
+| `pub_dev-51ebc52ee9f552` | sqflite_common_ffi | [open](records/dart-sqflite-common-ffi-53b37f78.md) |
 | `pub_dev-51f594aeb3d9b4` | flutter_native_contact_picker | [open](records/dart-flutter-native-contact-picker-c550a1b0.md) |
 | `pub_dev-528a776b7487ef` | print_bluetooth_thermal | [open](records/dart-print-bluetooth-thermal-a609b9b7.md) |
 | `pub_dev-533c6b990c6b32` | chopper | [open](records/dart-chopper-2b118141.md) |
+| `pub_dev-54d806865a10e1` | shared_preferences | [open](records/dart-shared-preferences-2c01bae0.md) |
 | `pub_dev-54f93607a9bf2b` | location | [open](records/dart-location-a6df9df7.md) |
 | `pub_dev-5577be201201eb` | fl_chart | [open](records/dart-fl-chart-23dbfd47.md) |
 | `pub_dev-55fa0526098450` | form_validator | [open](records/dart-form-validator-8463224f.md) |
@@ -19464,12 +20232,16 @@
 | `pub_dev-57382b49f9b999` | cue | [open](records/dart-cue-4be55d38.md) |
 | `pub_dev-573edb4ce7bb0e` | go_router | [open](records/dart-go-router-065a77a1.md) |
 | `pub_dev-5771ebfa6b48fe` | health | [open](records/dart-health-09eb0719.md) |
+| `pub_dev-57d289faf2085f` | web | [open](records/dart-web-7dac46d3.md) |
 | `pub_dev-584cddfc300bb0` | hashlib | [open](records/dart-hashlib-081cb826.md) |
+| `pub_dev-5864a9b8e529de` | sqlite3_flutter_libs | [open](records/dart-sqlite3-flutter-libs-9b6fee4a.md) |
 | `pub_dev-58c0a06578f6f0` | built_value_generator | [open](records/dart-built-value-generator-eced0577.md) |
 | `pub_dev-58cb9834626cad` | jwt_decoder | [open](records/dart-jwt-decoder-c7f7df96.md) |
 | `pub_dev-58f8f181069365` | cupertino_http | [open](records/dart-cupertino-http-0ecff711.md) |
+| `pub_dev-59ac5a5684c528` | video_player | [open](records/dart-video-player-b42e6f02.md) |
 | `pub_dev-5a9f6967e90347` | intersperse | [open](records/dart-intersperse-4999230c.md) |
 | `pub_dev-5b090b00cbd6d2` | image_gallery_saver_plus | [open](records/dart-image-gallery-saver-plus-3aab341a.md) |
+| `pub_dev-5c3620e518ab1e` | receive_sharing_intent | [open](records/dart-receive-sharing-intent-9c1ad31c.md) |
 | `pub_dev-5d1139d7f03263` | build_verify | [open](records/dart-build-verify-097ea7f1.md) |
 | `pub_dev-5d2fa33ddf1600` | flutter_rating_bar | [open](records/dart-flutter-rating-bar-f389dc78.md) |
 | `pub_dev-5d5c2cbab355a5` | pro_image_editor | [open](records/dart-pro-image-editor-ca6b5a34.md) |
@@ -19479,36 +20251,55 @@
 | `pub_dev-5fbffebabd5b78` | html | [open](records/dart-html-bbe6825a.md) |
 | `pub_dev-5fc3820ac7ad51` | melos | [open](records/dart-melos-0e0dc54e.md) |
 | `pub_dev-608739c6df4abf` | add_2_calendar | [open](records/dart-add-2-calendar-3ac9ecfa.md) |
+| `pub_dev-610757e2fc2c73` | web_socket | [open](records/dart-web-socket-e0804191.md) |
 | `pub_dev-616d4dc7f9ec91` | flutter_archive | [open](records/dart-flutter-archive-76cccd83.md) |
+| `pub_dev-61a20f1072318c` | resizable_widget | [open](records/dart-resizable-widget-456eea53.md) |
 | `pub_dev-61e45df3a5a2f5` | bottom_picker | [open](records/dart-bottom-picker-4467bf7b.md) |
 | `pub_dev-62cd9a3a8e0b89` | curved_navigation_bar | [open](records/dart-curved-navigation-bar-de42be19.md) |
+| `pub_dev-631be31e89e15c` | super_text_layout | [open](records/dart-super-text-layout-7230b32d.md) |
 | `pub_dev-633754968aca5e` | photo_view | [open](records/dart-photo-view-57a30e6c.md) |
 | `pub_dev-6350d063031435` | pedantic_mono | [open](records/dart-pedantic-mono-d91c4612.md) |
 | `pub_dev-63d84ccf67d05e` | custom_refresh_indicator | [open](records/dart-custom-refresh-indicator-a29b1d42.md) |
 | `pub_dev-64b7aefa6c6d70` | clarity_flutter | [open](records/dart-clarity-flutter-b01cb39f.md) |
 | `pub_dev-6529ae7216afb7` | marionette_flutter | [open](records/dart-marionette-flutter-df61f361.md) |
 | `pub_dev-6544b4d2fe25eb` | flutter_overlay_window | [open](records/dart-flutter-overlay-window-09130bb1.md) |
+| `pub_dev-656efa4d9c52e8` | sembast | [open](records/dart-sembast-fa8ed2b5.md) |
+| `pub_dev-658eaf2c059c84` | wechat_assets_picker | [open](records/dart-wechat-assets-picker-9f9a493d.md) |
+| `pub_dev-65f0105aa4c7ea` | shelf_hotreload | [open](records/dart-shelf-hotreload-10e34ca5.md) |
 | `pub_dev-6647bb8c6f429a` | elegant_notification | [open](records/dart-elegant-notification-fce2cf11.md) |
 | `pub_dev-66c7cdebf69d55` | country_code_picker | [open](records/dart-country-code-picker-cf4a7636.md) |
 | `pub_dev-676bc139cd74f5` | horizontal_data_table | [open](records/dart-horizontal-data-table-dd00eff1.md) |
+| `pub_dev-69171d5c265e4c` | rate_limiter | [open](records/dart-rate-limiter-ad013fae.md) |
+| `pub_dev-69df3253450c8e` | reactive_forms | [open](records/dart-reactive-forms-f831966a.md) |
+| `pub_dev-6aeaae3dbf185a` | skeletonizer | [open](records/dart-skeletonizer-cfc381b3.md) |
 | `pub_dev-6b0744d69b044a` | dio_cookie_manager | [open](records/dart-dio-cookie-manager-ade1bd6a.md) |
 | `pub_dev-6b19f2286f184c` | app_settings | [open](records/dart-app-settings-349b8e3c.md) |
 | `pub_dev-6b43c16c42329c` | logging | [open](records/dart-logging-d435eb63.md) |
+| `pub_dev-6b5aa36243dfd4` | string_similarity | [open](records/dart-string-similarity-e200b080.md) |
 | `pub_dev-6bd3f618df91ed` | flutter_linkify | [open](records/dart-flutter-linkify-1dc0e39d.md) |
 | `pub_dev-6be531cbcdb25c` | nsd | [open](records/dart-nsd-793b759f.md) |
 | `pub_dev-6bed881eee8983` | flutter_local_notifications | [open](records/dart-flutter-local-notifications-2c4ccd3c.md) |
 | `pub_dev-6bf9dc010efedd` | event_bus | [open](records/dart-event-bus-25046185.md) |
+| `pub_dev-6c2fd18f701063` | shadcn_flutter | [open](records/dart-shadcn-flutter-263a57b3.md) |
 | `pub_dev-6ca328f244a3b1` | maps_toolkit | [open](records/dart-maps-toolkit-8dcbb6c5.md) |
 | `pub_dev-6cbce484c26ac2` | flutter_polyline_points | [open](records/dart-flutter-polyline-points-9ed7b1af.md) |
 | `pub_dev-6d048f23db48f9` | month_picker_dialog | [open](records/dart-month-picker-dialog-fa645b69.md) |
+| `pub_dev-6d5620ae890d74` | stack_trace | [open](records/dart-stack-trace-b647609e.md) |
+| `pub_dev-6d5dbee202dbc9` | universal_ble | [open](records/dart-universal-ble-63469fae.md) |
 | `pub_dev-6db815ba07519f` | flutter_nfc_kit | [open](records/dart-flutter-nfc-kit-0b36db6d.md) |
 | `pub_dev-6e0bdaaf316d1c` | flutter_cache_manager | [open](records/dart-flutter-cache-manager-e8954766.md) |
 | `pub_dev-6f23923f659503` | navigation_history_observer | [open](records/dart-navigation-history-observer-07230379.md) |
 | `pub_dev-6f53a89329c1cc` | mqtt_client | [open](records/dart-mqtt-client-1a5d947d.md) |
+| `pub_dev-6f86a316ae30ac` | talker_flutter | [open](records/dart-talker-flutter-15872e0b.md) |
+| `pub_dev-6fd264ca3da662` | stomp_dart_client | [open](records/dart-stomp-dart-client-031129cf.md) |
 | `pub_dev-7039a19fbcbd7e` | dotted_line | [open](records/dart-dotted-line-61fd1fd5.md) |
+| `pub_dev-708b83f5a4f2d3` | settings_ui | [open](records/dart-settings-ui-79e1c954.md) |
 | `pub_dev-714ad4156d8bd4` | flutter_slidable | [open](records/dart-flutter-slidable-1a507b9d.md) |
 | `pub_dev-716d49a58e0c5c` | mcp_dart | [open](records/dart-mcp-dart-e4e4a04b.md) |
+| `pub_dev-729c1aed00b675` | sensors_plus | [open](records/dart-sensors-plus-5fe40260.md) |
+| `pub_dev-732c7ce953ccc3` | xml | [open](records/dart-xml-239fe746.md) |
 | `pub_dev-735f8b102fec28` | pinch_zoom | [open](records/dart-pinch-zoom-95207c4b.md) |
+| `pub_dev-73f26bcbffcc7d` | sqlite3 | [open](records/dart-sqlite3-cf60b60a.md) |
 | `pub_dev-7458f40de5352b` | json_annotation | [open](records/dart-json-annotation-596efc12.md) |
 | `pub_dev-74dcd58ef760bf` | map_launcher | [open](records/dart-map-launcher-b6e3d657.md) |
 | `pub_dev-74f1c7fb9cb84b` | chat_bubbles | [open](records/dart-chat-bubbles-b6af7870.md) |
@@ -19517,27 +20308,37 @@
 | `pub_dev-7639f98c5803f2` | in_app_review | [open](records/dart-in-app-review-69c67c0e.md) |
 | `pub_dev-76659931a3b444` | flutter_advanced_switch | [open](records/dart-flutter-advanced-switch-bfed6ea0.md) |
 | `pub_dev-76a4fd353a15a3` | android_intent_plus | [open](records/dart-android-intent-plus-0c9e162b.md) |
+| `pub_dev-76c2a266d644da` | smooth_sheets | [open](records/dart-smooth-sheets-c675e8a6.md) |
 | `pub_dev-76d60d83200d8c` | flutter_secure_storage | [open](records/dart-flutter-secure-storage-a8388f0a.md) |
 | `pub_dev-7725954d432078` | facebook_app_events | [open](records/dart-facebook-app-events-811bd067.md) |
 | `pub_dev-773370a120c567` | delayed_display | [open](records/dart-delayed-display-9522bd15.md) |
 | `pub_dev-774cfeb316f1ae` | open_store | [open](records/dart-open-store-1f0bcd35.md) |
 | `pub_dev-774d9ec46538f1` | firebase_crashlytics | [open](records/dart-firebase-crashlytics-4ed788b1.md) |
 | `pub_dev-77b54237ed7ad2` | json_path | [open](records/dart-json-path-b66a6801.md) |
+| `pub_dev-7816e5b88c4106` | recase | [open](records/dart-recase-845d043a.md) |
 | `pub_dev-7849909c014e61` | ionicons | [open](records/dart-ionicons-f135b4db.md) |
+| `pub_dev-78ed97e15d24b5` | signals | [open](records/dart-signals-615e82a1.md) |
 | `pub_dev-7967cac117d38a` | fimber | [open](records/dart-fimber-7a3085d6.md) |
+| `pub_dev-7996ac767fb9ad` | scoped_model | [open](records/dart-scoped-model-40d20a21.md) |
 | `pub_dev-7a686b47286f1b` | flutter_bloc | [open](records/dart-flutter-bloc-8878cc64.md) |
+| `pub_dev-7ae560a2f02d09` | purchases_ui_flutter | [open](records/dart-purchases-ui-flutter-327852a3.md) |
 | `pub_dev-7b2c55898638b2` | hotreloader | [open](records/dart-hotreloader-3a9c783b.md) |
 | `pub_dev-7c0a4e2b097aae` | pdfx | [open](records/dart-pdfx-c59b7b9f.md) |
 | `pub_dev-7c2a0669fff111` | neat_periodic_task | [open](records/dart-neat-periodic-task-de71793c.md) |
+| `pub_dev-7caea53b9ca94a` | widgets_to_image | [open](records/dart-widgets-to-image-4a008614.md) |
 | `pub_dev-7cf4f0d0f01c83` | app_links | [open](records/dart-app-links-97fd4e93.md) |
+| `pub_dev-7d2f1aa776cbdc` | slide_to_act | [open](records/dart-slide-to-act-6e2f7a75.md) |
 | `pub_dev-7d691416f91cb6` | ai_barcode_scanner | [open](records/dart-ai-barcode-scanner-b66d3773.md) |
 | `pub_dev-7d973937e59017` | games_services | [open](records/dart-games-services-abfdd809.md) |
 | `pub_dev-7dc1963c57b04d` | dart_frog | [open](records/dart-dart-frog-5b77c559.md) |
 | `pub_dev-7ece06268b6747` | platform_info | [open](records/dart-platform-info-946f0d42.md) |
 | `pub_dev-7eeb600f7f7606` | flutter_callkit_incoming | [open](records/dart-flutter-callkit-incoming-30032dd9.md) |
+| `pub_dev-7eeffc283b1ffc` | web_socket_client | [open](records/dart-web-socket-client-17fdc8af.md) |
 | `pub_dev-7f57650ec78403` | audioplayers | [open](records/dart-audioplayers-9d09bcb1.md) |
 | `pub_dev-7f581b264aa572` | meta | [open](records/dart-meta-acd5de95.md) |
+| `pub_dev-803d8ec1938e86` | tint | [open](records/dart-tint-19ca5cba.md) |
 | `pub_dev-805f85c22341ed` | flutter_background | [open](records/dart-flutter-background-7c392887.md) |
+| `pub_dev-809fae0a6df2dc` | unicons | [open](records/dart-unicons-d639eca1.md) |
 | `pub_dev-80b082f9e032ce` | otp_text_field | [open](records/dart-otp-text-field-901968f1.md) |
 | `pub_dev-8117669094c20b` | drift_flutter | [open](records/dart-drift-flutter-475023b9.md) |
 | `pub_dev-816a8058acc28a` | firebase_messaging | [open](records/dart-firebase-messaging-eb0d3a3d.md) |
@@ -19552,6 +20353,7 @@
 | `pub_dev-846b948df12fcf` | http_multi_server | [open](records/dart-http-multi-server-1de3951e.md) |
 | `pub_dev-848ef667c771c1` | flutter_floating_bottom_bar | [open](records/dart-flutter-floating-bottom-bar-d416bc9d.md) |
 | `pub_dev-84a54723111a6a` | file_selector | [open](records/dart-file-selector-149a7717.md) |
+| `pub_dev-8532b2099d8b22` | responsive_builder | [open](records/dart-responsive-builder-abb95edb.md) |
 | `pub_dev-8551cd9bc76863` | fresh_dio | [open](records/dart-fresh-dio-4940ddb5.md) |
 | `pub_dev-869725fa238db2` | ffigen | [open](records/dart-ffigen-8dcba7ed.md) |
 | `pub_dev-882a930d0f861a` | flutter_confetti | [open](records/dart-flutter-confetti-c1757fda.md) |
@@ -19561,44 +20363,65 @@
 | `pub_dev-8b07e863c5cba0` | flutter_screenutil | [open](records/dart-flutter-screenutil-38e7bb20.md) |
 | `pub_dev-8b165713003834` | hydrated_bloc | [open](records/dart-hydrated-bloc-0f403041.md) |
 | `pub_dev-8b5bbad13941df` | ansicolor | [open](records/dart-ansicolor-7e0a279b.md) |
+| `pub_dev-8b869ab74e8b55` | volume_controller | [open](records/dart-volume-controller-22f56c30.md) |
 | `pub_dev-8cc629c3823e28` | checked_yaml | [open](records/dart-checked-yaml-6e42ad6b.md) |
 | `pub_dev-8dc546520e50ed` | package_rename | [open](records/dart-package-rename-37869553.md) |
 | `pub_dev-8de1287c062ecb` | home_widget | [open](records/dart-home-widget-2e919e24.md) |
 | `pub_dev-8e9fad828c88cb` | haptic_feedback | [open](records/dart-haptic-feedback-8728a0cb.md) |
 | `pub_dev-8ed3ed38ea5b45` | google_api_availability | [open](records/dart-google-api-availability-b4b6739c.md) |
+| `pub_dev-8fb708f42bbf68` | wolt_modal_sheet | [open](records/dart-wolt-modal-sheet-b359d7ff.md) |
 | `pub_dev-904b43938137fb` | flutter_widget_from_html_core | [open](records/dart-flutter-widget-from-html-core-326a4f17.md) |
+| `pub_dev-91335d08b1e4d2` | progressive_blur | [open](records/dart-progressive-blur-22370531.md) |
 | `pub_dev-913d8f1bedc0b9` | no_screenshot | [open](records/dart-no-screenshot-4edb4ec9.md) |
+| `pub_dev-91a49c11115772` | web3dart | [open](records/dart-web3dart-8ee0b27e.md) |
+| `pub_dev-921ea7d69f2db7` | shelf_static | [open](records/dart-shelf-static-7c78abe9.md) |
 | `pub_dev-925781ed50d7ce` | network_image_mock | [open](records/dart-network-image-mock-24c76058.md) |
+| `pub_dev-925b66a9805ff5` | win32_registry | [open](records/dart-win32-registry-ea72a820.md) |
 | `pub_dev-927d7f9aaeeae5` | intl_phone_number_input | [open](records/dart-intl-phone-number-input-dcfa5905.md) |
 | `pub_dev-92b51d78a4648a` | flutter_sticky_header | [open](records/dart-flutter-sticky-header-ab8ef4cf.md) |
 | `pub_dev-92ef967ccebf13` | path_provider | [open](records/dart-path-provider-09c217d6.md) |
 | `pub_dev-92fd51fc7e96e2` | firebase_core | [open](records/dart-firebase-core-23c5aa1c.md) |
 | `pub_dev-9304af9dc045bc` | image | [open](records/dart-image-cc352620.md) |
+| `pub_dev-935d764bb1bd23` | sqflite_common | [open](records/dart-sqflite-common-296faecb.md) |
 | `pub_dev-938fc112b31160` | csslib | [open](records/dart-csslib-4ea6544b.md) |
+| `pub_dev-93d69ef5f56e29` | shimmer_animation | [open](records/dart-shimmer-animation-abb9b77d.md) |
+| `pub_dev-93e686fd0cf434` | split_view | [open](records/dart-split-view-81535742.md) |
 | `pub_dev-93ec767decd828` | archive | [open](records/dart-archive-707387f9.md) |
 | `pub_dev-94d8d64f8e7d32` | alarm | [open](records/dart-alarm-390891d2.md) |
 | `pub_dev-952ab442bbcf21` | noise_meter | [open](records/dart-noise-meter-3d349e18.md) |
 | `pub_dev-954d6859f80d08` | kiwi | [open](records/dart-kiwi-1b8f8bc5.md) |
 | `pub_dev-958963c8cb0358` | built_collection | [open](records/dart-built-collection-43882319.md) |
+| `pub_dev-95a994afd20c5d` | pub_semver | [open](records/dart-pub-semver-311cc40d.md) |
+| `pub_dev-95d94216ac5d34` | syncfusion_flutter_pdf | [open](records/dart-syncfusion-flutter-pdf-cb009e7a.md) |
 | `pub_dev-95f109f1bd7138` | liquid_glass_widgets | [open](records/dart-liquid-glass-widgets-8954060d.md) |
 | `pub_dev-95fa22aea479cb` | email_validator | [open](records/dart-email-validator-7199344b.md) |
+| `pub_dev-96262c79378bf0` | vector_math | [open](records/dart-vector-math-844a77e9.md) |
+| `pub_dev-9645601922ee23` | reorderables | [open](records/dart-reorderables-5b9096b0.md) |
 | `pub_dev-9672b32ccb83de` | flutter_widget_from_html | [open](records/dart-flutter-widget-from-html-955cd78c.md) |
 | `pub_dev-96e9ae27cfec5b` | blurhash_dart | [open](records/dart-blurhash-dart-d4cabd9f.md) |
+| `pub_dev-971e5c02ca35d8` | slider_button | [open](records/dart-slider-button-a7a54c4d.md) |
 | `pub_dev-971fa8e75d31b5` | pluto_grid | [open](records/dart-pluto-grid-da5d9973.md) |
 | `pub_dev-97202767d9e264` | google_maps_flutter | [open](records/dart-google-maps-flutter-7474cf08.md) |
+| `pub_dev-97560af58b8b26` | speech_to_text | [open](records/dart-speech-to-text-cbab6b04.md) |
 | `pub_dev-9780fc7306760a` | live_activities | [open](records/dart-live-activities-40c95df6.md) |
 | `pub_dev-97d4c8cf6ec55a` | gpt_markdown | [open](records/dart-gpt-markdown-f85170ca.md) |
+| `pub_dev-98206e98368ae7` | youtube_player_flutter | [open](records/dart-youtube-player-flutter-84549174.md) |
 | `pub_dev-992ccc76c1fe58` | convert | [open](records/dart-convert-19a9b213.md) |
 | `pub_dev-994742c1686cf4` | eva_icons_flutter | [open](records/dart-eva-icons-flutter-d1cb9162.md) |
 | `pub_dev-998603d6e84013` | fleather | [open](records/dart-fleather-4068eb80.md) |
+| `pub_dev-9b2165a55d3e43` | video_trimmer | [open](records/dart-video-trimmer-2dac0791.md) |
 | `pub_dev-9b29e169ed5b66` | localstorage | [open](records/dart-localstorage-e3529975.md) |
+| `pub_dev-9b4cd65b920dfa` | simple_gradient_text | [open](records/dart-simple-gradient-text-0ad641c7.md) |
 | `pub_dev-9b85da375f525d` | nfc_manager | [open](records/dart-nfc-manager-047d9f2f.md) |
+| `pub_dev-9b9bea96693245` | web_socket_channel | [open](records/dart-web-socket-channel-58a96f99.md) |
 | `pub_dev-9bdf14b4aa10ac` | numberpicker | [open](records/dart-numberpicker-4c9fa040.md) |
+| `pub_dev-9be56af1ed2ef3` | pro_video_editor | [open](records/dart-pro-video-editor-f2637419.md) |
 | `pub_dev-9c36c07ec0d801` | password_strength | [open](records/dart-password-strength-b5d13c5b.md) |
 | `pub_dev-9c3a05b9149f92` | auto_size_text | [open](records/dart-auto-size-text-f4c6ba6d.md) |
 | `pub_dev-9ca7387d6c93ea` | flutter_markdown_plus | [open](records/dart-flutter-markdown-plus-b685f3ff.md) |
 | `pub_dev-9d0d1dd6cedf19` | country_picker | [open](records/dart-country-picker-941aa2ad.md) |
 | `pub_dev-9d5a43ec69906b` | loading_indicator | [open](records/dart-loading-indicator-4dc70ef9.md) |
+| `pub_dev-9dab6cf69491b6` | shorebird_code_push | [open](records/dart-shorebird-code-push-a71fad3e.md) |
 | `pub_dev-9dacb6061c792a` | native_dio_adapter | [open](records/dart-native-dio-adapter-36a2a5ca.md) |
 | `pub_dev-9dc7a7eb0e440f` | mobx | [open](records/dart-mobx-3afe582d.md) |
 | `pub_dev-9e64a1c0edafdb` | objectbox | [open](records/dart-objectbox-5043af58.md) |
@@ -19612,10 +20435,13 @@
 | `pub_dev-9fc7e35cba833d` | flutter_lucide | [open](records/dart-flutter-lucide-ac11e8f7.md) |
 | `pub_dev-a079d077e73a3f` | app_badge_plus | [open](records/dart-app-badge-plus-a51749d2.md) |
 | `pub_dev-a15f9cbbadef1f` | model_viewer_plus | [open](records/dart-model-viewer-plus-15773a8a.md) |
+| `pub_dev-a164d15975fc1a` | sign_in_with_apple | [open](records/dart-sign-in-with-apple-a24f910f.md) |
 | `pub_dev-a1a3132c576648` | freerasp | [open](records/dart-freerasp-c30cc13f.md) |
 | `pub_dev-a1d97a81329bf9` | background_downloader | [open](records/dart-background-downloader-c2530439.md) |
+| `pub_dev-a21e06d9d22646` | yandex_mapkit | [open](records/dart-yandex-mapkit-503f3088.md) |
 | `pub_dev-a24b795856b364` | http_parser | [open](records/dart-http-parser-b9f650ad.md) |
 | `pub_dev-a257446d5ff0d5` | bloc | [open](records/dart-bloc-ed8789d6.md) |
+| `pub_dev-a29fc8671f342b` | yaml_edit | [open](records/dart-yaml-edit-865a9bd8.md) |
 | `pub_dev-a2a65808ae3588` | flame | [open](records/dart-flame-2c7a7d0b.md) |
 | `pub_dev-a3c65f0effe0a7` | phone_form_field | [open](records/dart-phone-form-field-834d5a98.md) |
 | `pub_dev-a4470b708fe892` | flutter_volume_controller | [open](records/dart-flutter-volume-controller-ac55c56d.md) |
@@ -19623,13 +20449,19 @@
 | `pub_dev-a5cb2b42d29790` | freezed | [open](records/dart-freezed-eb25c993.md) |
 | `pub_dev-a6a040a36b39b7` | amplify_storage_s3 | [open](records/dart-amplify-storage-s3-16e3df4b.md) |
 | `pub_dev-a6c0884b332557` | glass_kit | [open](records/dart-glass-kit-43af6224.md) |
+| `pub_dev-a6c1b02538d41c` | swipeable_page_route | [open](records/dart-swipeable-page-route-1f4c394d.md) |
 | `pub_dev-a76529e32cbf94` | flutter_esc_pos_utils | [open](records/dart-flutter-esc-pos-utils-02a6caea.md) |
 | `pub_dev-a79241220232cb` | lint | [open](records/dart-lint-6875e6f7.md) |
 | `pub_dev-a7b9bed029e195` | google_mlkit_text_recognition | [open](records/dart-google-mlkit-text-recognition-fe22e58b.md) |
 | `pub_dev-a7c6c73e7441f7` | oauth2_client | [open](records/dart-oauth2-client-05467e74.md) |
+| `pub_dev-a7f83989899710` | tap_debouncer | [open](records/dart-tap-debouncer-321e725c.md) |
+| `pub_dev-a8644494ccf192` | qr_flutter | [open](records/dart-qr-flutter-1ca2e5e2.md) |
+| `pub_dev-a89c3c0fde402d` | siri_wave | [open](records/dart-siri-wave-cbc2e05c.md) |
 | `pub_dev-a8e72ad6044d2b` | path | [open](records/dart-path-2731d538.md) |
 | `pub_dev-a9100c59726e52` | card_swiper | [open](records/dart-card-swiper-95bdde2b.md) |
 | `pub_dev-a9b0b522bd2324` | dart_ping | [open](records/dart-dart-ping-a16cc4da.md) |
+| `pub_dev-aaaae51d15e56d` | sqflite | [open](records/dart-sqflite-095e3684.md) |
+| `pub_dev-aacf357c91d70a` | string_scanner | [open](records/dart-string-scanner-05017d50.md) |
 | `pub_dev-aba4d77c022fc9` | flex_color_scheme | [open](records/dart-flex-color-scheme-aa9a0a84.md) |
 | `pub_dev-abdb57ad04e7ed` | postgres | [open](records/dart-postgres-36d0d96d.md) |
 | `pub_dev-ac40d8735a0bc4` | extension_google_sign_in_as_googleapis_auth | [open](records/dart-extension-google-sign-in-as-googleapis-auth-f3388a7b.md) |
@@ -19638,8 +20470,11 @@
 | `pub_dev-ad833d1f752c3f` | flutter_blurhash | [open](records/dart-flutter-blurhash-9f17cd53.md) |
 | `pub_dev-aed87c64ba9e2f` | phone_state | [open](records/dart-phone-state-a05f01ce.md) |
 | `pub_dev-af9d91b39a8ae8` | flutter_contacts | [open](records/dart-flutter-contacts-06b4e09a.md) |
+| `pub_dev-afdd6bd4278400` | sanitize_html | [open](records/dart-sanitize-html-f669c89d.md) |
+| `pub_dev-b174533ed28f42` | retry | [open](records/dart-retry-e99e010e.md) |
 | `pub_dev-b2d706cbaaf6e2` | flutter_typeahead | [open](records/dart-flutter-typeahead-6e58d63b.md) |
 | `pub_dev-b2e7df35072360` | flutter_portal | [open](records/dart-flutter-portal-831866ec.md) |
+| `pub_dev-b3c341e1a62ae5` | screen_protector | [open](records/dart-screen-protector-172ebf39.md) |
 | `pub_dev-b477cb72d73923` | enum_to_string | [open](records/dart-enum-to-string-d311278a.md) |
 | `pub_dev-b48888304bb38d` | android_id | [open](records/dart-android-id-378af004.md) |
 | `pub_dev-b4d8b2c8b03521` | date_picker_plus | [open](records/dart-date-picker-plus-814ef4e0.md) |
@@ -19647,29 +20482,44 @@
 | `pub_dev-b540ecb637b19d` | easy_sidemenu | [open](records/dart-easy-sidemenu-a3d0aba5.md) |
 | `pub_dev-b5646acc2ad186` | pocketbase | [open](records/dart-pocketbase-7d21c636.md) |
 | `pub_dev-b62daaa73d5471` | injector | [open](records/dart-injector-fd195535.md) |
+| `pub_dev-b6eaf601bd7d36` | simple_animations | [open](records/dart-simple-animations-d7ac0aeb.md) |
 | `pub_dev-b728daec8e69f3` | firebase_app_check | [open](records/dart-firebase-app-check-9cf7f68c.md) |
+| `pub_dev-b72b729f141623` | watcher | [open](records/dart-watcher-8e3e2ffe.md) |
 | `pub_dev-b780e970047e4c` | internet_connection_checker | [open](records/dart-internet-connection-checker-d8081760.md) |
+| `pub_dev-b7b5ccde75be72` | url_launcher | [open](records/dart-url-launcher-1192add2.md) |
 | `pub_dev-b7c9f88e5821d0` | flutter_file_dialog | [open](records/dart-flutter-file-dialog-37afe2d6.md) |
 | `pub_dev-b7d616c494529a` | flutter_flavor | [open](records/dart-flutter-flavor-f7a568dd.md) |
 | `pub_dev-b7e26e63ddff65` | build_runner | [open](records/dart-build-runner-b4f65fb4.md) |
 | `pub_dev-b7eb562fdcc7a4` | dio | [open](records/dart-dio-5cdd32c7.md) |
 | `pub_dev-b7f88ff42c0f2c` | flutter_hooks | [open](records/dart-flutter-hooks-fffe3680.md) |
+| `pub_dev-b7f93e17b78c3e` | screen_brightness | [open](records/dart-screen-brightness-e5dc2075.md) |
+| `pub_dev-b9312407a2acc9` | smooth_page_indicator | [open](records/dart-smooth-page-indicator-c9646ffc.md) |
 | `pub_dev-b96e3eac95bb0e` | characters | [open](records/dart-characters-0ae9b5fc.md) |
 | `pub_dev-b9bdd2a7de9e0d` | flutter_map | [open](records/dart-flutter-map-642872b5.md) |
 | `pub_dev-ba0e12cd957846` | mask_text_input_formatter | [open](records/dart-mask-text-input-formatter-380693a2.md) |
+| `pub_dev-ba8449c00aa588` | window_manager | [open](records/dart-window-manager-f904494f.md) |
+| `pub_dev-ba8608418b1e07` | shelf_router_generator | [open](records/dart-shelf-router-generator-67af5531.md) |
+| `pub_dev-bab784483bbc30` | video_player_media_kit | [open](records/dart-video-player-media-kit-714ef1cc.md) |
 | `pub_dev-bad5f47bd4e9f1` | fwfh_webview | [open](records/dart-fwfh-webview-d3af7d13.md) |
+| `pub_dev-baf4bc1643a1de` | win32 | [open](records/dart-win32-46245332.md) |
 | `pub_dev-bb416f0cac613e` | copy_with_extension_gen | [open](records/dart-copy-with-extension-gen-9b9a7911.md) |
 | `pub_dev-bb92cc25b9d94e` | brasil_fields | [open](records/dart-brasil-fields-a5208df0.md) |
 | `pub_dev-bbbdd6019b527f` | diacritic | [open](records/dart-diacritic-dd68490f.md) |
 | `pub_dev-bc3572bd0cc64b` | mailer | [open](records/dart-mailer-bc4c38b4.md) |
+| `pub_dev-bc4bb79eb8a8b1` | talker_dio_logger | [open](records/dart-talker-dio-logger-98ace870.md) |
 | `pub_dev-bd0e42d50f9f1e` | modal_progress_hud_nsn | [open](records/dart-modal-progress-hud-nsn-5d7f93e8.md) |
+| `pub_dev-bd39753c7fe550` | textfield_tags | [open](records/dart-textfield-tags-1eed8b40.md) |
 | `pub_dev-bd7a3191ed0059` | faker | [open](records/dart-faker-9cdcba3b.md) |
 | `pub_dev-bd7e32bc2ef740` | flutter_image_slideshow | [open](records/dart-flutter-image-slideshow-e2e6ea1f.md) |
+| `pub_dev-bd8c9e9f26c2c9` | source_span | [open](records/dart-source-span-6c147716.md) |
 | `pub_dev-bd93a5a1826f3a` | hooks | [open](records/dart-hooks-b993cc25.md) |
 | `pub_dev-bda60727907e4b` | photo_manager | [open](records/dart-photo-manager-329b0817.md) |
+| `pub_dev-bdd0fcad24d699` | universal_platform | [open](records/dart-universal-platform-f7db08cb.md) |
 | `pub_dev-be2768edcc2c43` | mason | [open](records/dart-mason-0b698eae.md) |
+| `pub_dev-be2b3566962d13` | state_notifier | [open](records/dart-state-notifier-b2b0cfaf.md) |
 | `pub_dev-be5c3726b598a4` | auto_injector | [open](records/dart-auto-injector-f55dd145.md) |
 | `pub_dev-be869ba194065d` | multiple_result | [open](records/dart-multiple-result-2ed4d985.md) |
+| `pub_dev-bf66c2fb24090b` | stream_transform | [open](records/dart-stream-transform-5556e404.md) |
 | `pub_dev-c0c2eb3d65bc80` | cloud_firestore | [open](records/dart-cloud-firestore-26db8741.md) |
 | `pub_dev-c14af21466ebce` | flutter_slider_drawer | [open](records/dart-flutter-slider-drawer-7926feb7.md) |
 | `pub_dev-c191a4c629cfda` | openid_client | [open](records/dart-openid-client-a8195f4d.md) |
@@ -19682,31 +20532,46 @@
 | `pub_dev-c3a8b7f53b0a2e` | dart_ipify | [open](records/dart-dart-ipify-46e606ea.md) |
 | `pub_dev-c403aac2601fbf` | jiffy | [open](records/dart-jiffy-c60b6c1d.md) |
 | `pub_dev-c46a2d9f4aac2b` | flutter_json_view | [open](records/dart-flutter-json-view-7a7c7542.md) |
+| `pub_dev-c50f1c7d87b08b` | two_dimensional_scrollables | [open](records/dart-two-dimensional-scrollables-bca4862e.md) |
+| `pub_dev-c563e8182ff3c5` | very_good_cli | [open](records/dart-very-good-cli-30812194.md) |
 | `pub_dev-c5e4c310535964` | flutter_carousel_widget | [open](records/dart-flutter-carousel-widget-d569e2f4.md) |
 | `pub_dev-c5ebc84722b64f` | expandable_page_view | [open](records/dart-expandable-page-view-2a25e965.md) |
 | `pub_dev-c623a5a302ecbb` | gradient_borders | [open](records/dart-gradient-borders-683c1654.md) |
 | `pub_dev-c6559a56f26f42` | io | [open](records/dart-io-e2bb3508.md) |
 | `pub_dev-c6ebea822d5799` | app_tracking_transparency | [open](records/dart-app-tracking-transparency-f6c48d69.md) |
 | `pub_dev-c7c42bc2a48723` | dots_indicator | [open](records/dart-dots-indicator-d2a61ac9.md) |
+| `pub_dev-c7ed08afc71c0f` | super_tooltip | [open](records/dart-super-tooltip-f56943ac.md) |
+| `pub_dev-c7ff5a000b7746` | shelf_router | [open](records/dart-shelf-router-963492ce.md) |
 | `pub_dev-c90d082c49bf7c` | lints | [open](records/dart-lints-423e1c89.md) |
+| `pub_dev-c92850d13fc697` | queue | [open](records/dart-queue-31aae422.md) |
 | `pub_dev-c96ba8d080816c` | animate_do | [open](records/dart-animate-do-4140f3b7.md) |
 | `pub_dev-c98f47f47c13b5` | pinput | [open](records/dart-pinput-7e72c012.md) |
 | `pub_dev-c9b882c5c69aeb` | carousel_slider_plus | [open](records/dart-carousel-slider-plus-7a585f72.md) |
+| `pub_dev-ca1c3010c953f3` | wave | [open](records/dart-wave-066edf2b.md) |
+| `pub_dev-ca77706eb3da96` | searchable_listview | [open](records/dart-searchable-listview-3fa3ca85.md) |
+| `pub_dev-caaf61791fb467` | syncfusion_flutter_signaturepad | [open](records/dart-syncfusion-flutter-signaturepad-49407b36.md) |
 | `pub_dev-caeb220a8666c5` | powersync | [open](records/dart-powersync-6dce0081.md) |
 | `pub_dev-cb0b998063c046` | cross_file | [open](records/dart-cross-file-7027fd13.md) |
 | `pub_dev-cb92419700ac08` | liquid_glass_easy | [open](records/dart-liquid-glass-easy-9878fe8a.md) |
+| `pub_dev-cdabcd87562be8` | signature | [open](records/dart-signature-3293e04c.md) |
 | `pub_dev-ce81cbcb159808` | boxy | [open](records/dart-boxy-4369854b.md) |
 | `pub_dev-ce8e7ee0b72520` | csv | [open](records/dart-csv-ced97579.md) |
+| `pub_dev-cf517115e7abaf` | syncfusion_flutter_sliders | [open](records/dart-syncfusion-flutter-sliders-f5899f4c.md) |
 | `pub_dev-cf932aa29a65ed` | animated_size_and_fade | [open](records/dart-animated-size-and-fade-15eb5f44.md) |
 | `pub_dev-cff4b061473b46` | keyboard_dismisser | [open](records/dart-keyboard-dismisser-fef62632.md) |
 | `pub_dev-d02b56907849cb` | extended_masked_text | [open](records/dart-extended-masked-text-6f73ae07.md) |
+| `pub_dev-d06c231494fcd3` | showcaseview | [open](records/dart-showcaseview-0f397506.md) |
 | `pub_dev-d105283c5f5ec6` | flutter_gemma | [open](records/dart-flutter-gemma-9a6dbd9b.md) |
+| `pub_dev-d11ccd38c50b2c` | webview_flutter_plus | [open](records/dart-webview-flutter-plus-cc041bef.md) |
 | `pub_dev-d18689044b4246` | inview_notifier_list | [open](records/dart-inview-notifier-list-35c6c1d7.md) |
 | `pub_dev-d1ab9638e52e4e` | flutter_modular | [open](records/dart-flutter-modular-3b75173e.md) |
 | `pub_dev-d1b3cd54cc0d63` | form_builder_extra_fields | [open](records/dart-form-builder-extra-fields-efc7fb23.md) |
 | `pub_dev-d1d5202f67724a` | checks | [open](records/dart-checks-a600eaef.md) |
 | `pub_dev-d1e0503e8ddb7b` | file_picker | [open](records/dart-file-picker-09b00b4c.md) |
 | `pub_dev-d1fc83f27bfb89` | latlong2 | [open](records/dart-latlong2-55982d8d.md) |
+| `pub_dev-d233cc6a1eb1e9` | universal_html | [open](records/dart-universal-html-c7f48f59.md) |
+| `pub_dev-d260f45c29afca` | webview_flutter_wkwebview | [open](records/dart-webview-flutter-wkwebview-b7875ae2.md) |
+| `pub_dev-d311ff3cfad944` | riverpod | [open](records/dart-riverpod-35d443f6.md) |
 | `pub_dev-d32b9cd893b9ab` | crypto | [open](records/dart-crypto-97f7ee8e.md) |
 | `pub_dev-d33b7b74e7e459` | patterns_canvas | [open](records/dart-patterns-canvas-bd98e1c5.md) |
 | `pub_dev-d35a23d61c2467` | extended_image | [open](records/dart-extended-image-3b8bb099.md) |
@@ -19723,23 +20588,30 @@
 | `pub_dev-d7b527d51f36ad` | native_device_orientation | [open](records/dart-native-device-orientation-94e1f74f.md) |
 | `pub_dev-d7b701e018734c` | keyboard_actions | [open](records/dart-keyboard-actions-f64a5c69.md) |
 | `pub_dev-d7beff6e997b00` | basics | [open](records/dart-basics-67691afc.md) |
+| `pub_dev-d844b6beb79e43` | timezone | [open](records/dart-timezone-b9205c53.md) |
 | `pub_dev-d900171e402a9b` | just_waveform | [open](records/dart-just-waveform-564e0a55.md) |
+| `pub_dev-d9ae4db348f5b7` | replay_bloc | [open](records/dart-replay-bloc-86e061a0.md) |
 | `pub_dev-d9ae67a188745e` | introduction_screen | [open](records/dart-introduction-screen-08d53b87.md) |
 | `pub_dev-d9c246a83965e2` | flutter_colorpicker | [open](records/dart-flutter-colorpicker-02ba48b0.md) |
 | `pub_dev-da19118eebe01a` | flutter_lints | [open](records/dart-flutter-lints-e4a57b3e.md) |
 | `pub_dev-da25849d269a8f` | country_flags | [open](records/dart-country-flags-f2fc09d1.md) |
+| `pub_dev-da56aef6fd7a52` | record | [open](records/dart-record-1756f10d.md) |
 | `pub_dev-da798c7b7f1791` | flutter_animate | [open](records/dart-flutter-animate-680cfc40.md) |
 | `pub_dev-db1d0161871e01` | popover | [open](records/dart-popover-71635d2c.md) |
 | `pub_dev-db58c8600508b3` | nested | [open](records/dart-nested-832b721c.md) |
+| `pub_dev-dd418094780821` | sidebarx | [open](records/dart-sidebarx-36995d2c.md) |
 | `pub_dev-dd99cf9eb168a2` | appinio_swiper | [open](records/dart-appinio-swiper-82166c51.md) |
 | `pub_dev-de962477f61546` | mongo_dart | [open](records/dart-mongo-dart-2703015a.md) |
+| `pub_dev-dee6f054839b52` | sign_in_button | [open](records/dart-sign-in-button-f2011f46.md) |
 | `pub_dev-deef1a29c52ec7` | easy_stepper | [open](records/dart-easy-stepper-59c82811.md) |
 | `pub_dev-def049acf44581` | appcheck | [open](records/dart-appcheck-5f4039b6.md) |
 | `pub_dev-df45d1afe553e4` | dart_style | [open](records/dart-dart-style-096ccda0.md) |
 | `pub_dev-df5c81eeb56de2` | code_builder | [open](records/dart-code-builder-303d50aa.md) |
 | `pub_dev-dff40003c051f6` | flex_color_picker | [open](records/dart-flex-color-picker-044375d9.md) |
 | `pub_dev-e0aff45c9a2979` | cookie_jar | [open](records/dart-cookie-jar-15d415a7.md) |
+| `pub_dev-e0f97b8f3e8808` | time | [open](records/dart-time-5710b74e.md) |
 | `pub_dev-e0feeea07825bf` | flutter_flavorizr | [open](records/dart-flutter-flavorizr-6e166bc8.md) |
+| `pub_dev-e126591435afb7` | socket_io_client | [open](records/dart-socket-io-client-86cc0b29.md) |
 | `pub_dev-e18156cac413a7` | html_unescape | [open](records/dart-html-unescape-8c54a750.md) |
 | `pub_dev-e1a7aa73b16dd9` | flutter_calendar_carousel | [open](records/dart-flutter-calendar-carousel-db33e07d.md) |
 | `pub_dev-e20fad69ed9451` | desktop_webview_window | [open](records/dart-desktop-webview-window-7445595d.md) |
@@ -19755,23 +20627,31 @@
 | `pub_dev-e756c5a303d00b` | dynamic_color | [open](records/dart-dynamic-color-11eb3505.md) |
 | `pub_dev-e75f72860ad3a9` | flutter_multi_formatter | [open](records/dart-flutter-multi-formatter-81896931.md) |
 | `pub_dev-e78b29f41993c9` | modal_bottom_sheet | [open](records/dart-modal-bottom-sheet-1cc2c687.md) |
+| `pub_dev-e7d397566d123b` | talker_logger | [open](records/dart-talker-logger-e07e4b90.md) |
 | `pub_dev-e7fbdae833131f` | flutter_scene | [open](records/dart-flutter-scene-87bec71b.md) |
 | `pub_dev-e8a473d191779e` | hooks_riverpod | [open](records/dart-hooks-riverpod-d2564e23.md) |
+| `pub_dev-e8dfb51145e686` | slide_countdown | [open](records/dart-slide-countdown-9380f5b5.md) |
 | `pub_dev-e9256d7559a8f8` | firebase_performance | [open](records/dart-firebase-performance-92ff4c46.md) |
 | `pub_dev-ea3a6a6a34ec4b` | flutter_gen_runner | [open](records/dart-flutter-gen-runner-361e1f84.md) |
 | `pub_dev-ea45796491b321` | device_info_plus | [open](records/dart-device-info-plus-23fdc08b.md) |
+| `pub_dev-ea718a1eb50c91` | talker | [open](records/dart-talker-ebcdd995.md) |
 | `pub_dev-eabb90f22ffeac` | flutter_form_builder | [open](records/dart-flutter-form-builder-e0cfd341.md) |
 | `pub_dev-eaf1b102cfa1eb` | crop_image | [open](records/dart-crop-image-8c48b5bf.md) |
 | `pub_dev-eaf997ab9b8e84` | either_dart | [open](records/dart-either-dart-c265fd95.md) |
+| `pub_dev-ec1739471631d7` | scroll_pos | [open](records/dart-scroll-pos-a1e2742a.md) |
 | `pub_dev-ed4cb9c9b4fdb8` | firebase_ui_firestore | [open](records/dart-firebase-ui-firestore-a48e9db9.md) |
 | `pub_dev-ed952d2d6e3f90` | flutter_line_sdk | [open](records/dart-flutter-line-sdk-41ee7db1.md) |
 | `pub_dev-ee1683a39d1658` | flutter_windowmanager | [open](records/dart-flutter-windowmanager-b0abec2c.md) |
 | `pub_dev-ee3a6b8a1eebdf` | floating | [open](records/dart-floating-77544969.md) |
 | `pub_dev-ef5a948c0de085` | group_button | [open](records/dart-group-button-f8cec6c4.md) |
 | `pub_dev-efbdf819af415e` | flutter_card_swiper | [open](records/dart-flutter-card-swiper-b126e3d6.md) |
+| `pub_dev-efc190b16667a0` | swipe_image_gallery | [open](records/dart-swipe-image-gallery-53a5284f.md) |
 | `pub_dev-f0ea963ed1fd27` | forui | [open](records/dart-forui-6e421179.md) |
+| `pub_dev-f0fb11f50a07d8` | strings | [open](records/dart-strings-333d042d.md) |
 | `pub_dev-f0fbdf9d260b4b` | flutter_zxing | [open](records/dart-flutter-zxing-a58545cd.md) |
+| `pub_dev-f11e2f5feea260` | webview_flutter_android | [open](records/dart-webview-flutter-android-ddfb8dc0.md) |
 | `pub_dev-f19323cf0769bc` | infinite_scroll_pagination | [open](records/dart-infinite-scroll-pagination-db046ae2.md) |
+| `pub_dev-f1a380e85376ac` | puppeteer | [open](records/dart-puppeteer-51dd17f5.md) |
 | `pub_dev-f27384731c9be7` | pigeon | [open](records/dart-pigeon-1863b3b2.md) |
 | `pub_dev-f278e3b3ba41a0` | persistent_bottom_nav_bar_v2 | [open](records/dart-persistent-bottom-nav-bar-v2-af0b0087.md) |
 | `pub_dev-f2b47f45d2e56c` | flutter_soloud | [open](records/dart-flutter-soloud-5770bd43.md) |
@@ -19780,6 +20660,7 @@
 | `pub_dev-f56ea092ba213a` | desktop_multi_window | [open](records/dart-desktop-multi-window-74d8f387.md) |
 | `pub_dev-f59726d6b36a81` | flutter_timezone | [open](records/dart-flutter-timezone-80d10085.md) |
 | `pub_dev-f625579a87bfdd` | flutter_keyboard_visibility | [open](records/dart-flutter-keyboard-visibility-b5ffcede.md) |
+| `pub_dev-f68927ca0d0279` | spider | [open](records/dart-spider-7496c995.md) |
 | `pub_dev-f77c2dd0170e72` | ota_update | [open](records/dart-ota-update-433715f9.md) |
 | `pub_dev-f7a0d1f88cb3bb` | blurrycontainer | [open](records/dart-blurrycontainer-d85ac9dc.md) |
 | `pub_dev-f8ce62b9da1d8d` | adaptive_action_sheet | [open](records/dart-adaptive-action-sheet-a034d505.md) |
@@ -19790,10 +20671,14 @@
 | `pub_dev-fa22c71a1a8168` | googleapis_auth | [open](records/dart-googleapis-auth-360eabdf.md) |
 | `pub_dev-fa63fc3c7ee7dc` | flutter_tilt | [open](records/dart-flutter-tilt-aed1989b.md) |
 | `pub_dev-fb52e77bb273ae` | camera_android_camerax | [open](records/dart-camera-android-camerax-5a28610b.md) |
+| `pub_dev-fbc1035d5edc19` | timelines_plus | [open](records/dart-timelines-plus-cb88566a.md) |
 | `pub_dev-fc2f574a578dda` | flutter_udid | [open](records/dart-flutter-udid-80c330fc.md) |
 | `pub_dev-fc7b1d66357578` | ntp | [open](records/dart-ntp-a806ad9a.md) |
 | `pub_dev-fc8de7fdc52e6e` | http | [open](records/dart-http-91b64b35.md) |
+| `pub_dev-fcb29b6e2640f6` | sizer | [open](records/dart-sizer-a32a470d.md) |
 | `pub_dev-fcb79330946e3b` | oktoast | [open](records/dart-oktoast-695e2783.md) |
+| `pub_dev-fcc9c7da3acc07` | youtube_player_iframe | [open](records/dart-youtube-player-iframe-d238710c.md) |
+| `pub_dev-fd04484eba95d2` | sentry | [open](records/dart-sentry-27c4653e.md) |
 | `pub_dev-fd3ffe7e3f235d` | calendar_date_picker2 | [open](records/dart-calendar-date-picker2-ddfedab4.md) |
 | `pub_dev-fdfd74da735cf5` | just_audio | [open](records/dart-just-audio-dc06d149.md) |
 | `pub_dev-fdfe339ae9516a` | lpinyin | [open](records/dart-lpinyin-0dfde073.md) |

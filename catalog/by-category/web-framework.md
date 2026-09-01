@@ -1,6 +1,6 @@
 # Web Framework
 
-Records: `329`
+Records: `372`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `329`
 
 ## Category Index
 
-[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (37)](assertion-mocking.md) · [Async Runtime (113)](async-runtime.md)
-[Benchmarking (93)](benchmarking.md) · [Build System (721)](build-system.md) · [Cli (478)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (80)](community-reference.md) · [Compiler (146)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
-[Concurrency Parallelism (68)](concurrency-parallelism.md) · [Configuration (93)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (152)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (517)](database-datastore.md) · [Datetime (135)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (39)](debugger.md) · [Dependency Manager (74)](dependency-manager.md) · [Documentation (73)](documentation.md)
-[Embedded Hardware (42)](embedded-hardware.md) · [Ffi Bindings (361)](ffi-bindings.md) · [Filesystem Os (1053)](filesystem-os.md) · [Formatter (511)](formatter.md)
-[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (131)](game-engine-game-dev.md) · [Ide Editor Integration (1018)](ide-editor-integration.md)
-[Image Audio Dsp (212)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (194)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1060)](language-specification.md) · [Library (4575)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (342)](linter.md) · [Logging Observability (315)](logging-observability.md) · [Machine Learning (533)](machine-learning.md)
-[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (71)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (817)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (236)](package-manager.md) · [Parser Lexer Ast (842)](parser-lexer-ast.md) · [Precommit Ci Quality (227)](precommit-ci-quality.md)
-[Profiler (64)](profiler.md) · [Project Scaffolding (102)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (11)](sanitizer.md)
-[Security Sast (284)](security-sast.md) · [Serialization (320)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (396)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (475)](testing-framework.md) · [Tutorial Book Styleguide (51)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
-[Undefined Behavior Analyzer (1291)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (381)](visualization-gui.md) · **[Web Framework (329)](web-framework.md)**
+[Api Abi Checker (173)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (40)](assertion-mocking.md) · [Async Runtime (119)](async-runtime.md)
+[Benchmarking (100)](benchmarking.md) · [Build System (764)](build-system.md) · [Cli (484)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (80)](community-reference.md) · [Compiler (155)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (70)](concurrency-parallelism.md) · [Configuration (94)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (638)](database-datastore.md) · [Datetime (143)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (79)](dependency-manager.md) · [Documentation (77)](documentation.md)
+[Embedded Hardware (43)](embedded-hardware.md) · [Ffi Bindings (367)](ffi-bindings.md) · [Filesystem Os (1080)](filesystem-os.md) · [Formatter (526)](formatter.md)
+[Framework (44)](framework.md) · [Fuzzer (45)](fuzzer.md) · [Game Engine Game Dev (135)](game-engine-game-dev.md) · [Ide Editor Integration (1072)](ide-editor-integration.md)
+[Image Audio Dsp (216)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (216)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1189)](language-specification.md) · [Library (4647)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (317)](logging-observability.md) · [Machine Learning (544)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (73)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (883)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (244)](package-manager.md) · [Parser Lexer Ast (866)](parser-lexer-ast.md) · [Precommit Ci Quality (252)](precommit-ci-quality.md)
+[Profiler (66)](profiler.md) · [Project Scaffolding (107)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (306)](security-sast.md) · [Serialization (361)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (406)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (486)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1328)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (389)](visualization-gui.md) · **[Web Framework (372)](web-framework.md)**
 
 ## C++23
 
@@ -367,11 +367,16 @@ Records: `329`
 | navigation_history_observer | 1.1.1 | 2024-04-17T08:27:30.593848Z | [open](../records/dart-navigation-history-observer-07230379.md) |
 | neat_periodic_task | 2.0.1 | 2023-04-28T11:10:11.705986Z | [open](../records/dart-neat-periodic-task-de71793c.md) |
 | powersync | 2.3.3 | 2026-07-28T11:44:14.328377Z | [open](../records/dart-powersync-6dce0081.md) |
+| scrollview_observer | 1.27.1 | 2026-08-22T08:47:37.282864Z | [open](../records/dart-scrollview-observer-6ede0195.md) |
+| shelf | 1.4.2 | 2024-06-21T17:47:04.083038Z | [open](../records/dart-shelf-418952dd.md) |
+| shelf_router | 1.1.4 | 2023-05-03T19:25:10.348546Z | [open](../records/dart-shelf-router-963492ce.md) |
+| shelf_static | 1.1.3 | 2024-09-06T16:01:03.025091Z | [open](../records/dart-shelf-static-7c78abe9.md) |
 
 ## Go
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| JGLTechnologies/gin-rate-limit | partial | 2026-08-14T03:34:23Z | [open](../records/go-jgltechnologies-gin-rate-limit-c93a4f16.md) |
 | openfaas/faas | partial | 2026-07-02T09:09:13Z | [open](../records/go-openfaas-faas-7fddd6b7.md) |
 
 ## Assets
@@ -439,6 +444,13 @@ Records: `329`
 | russmiles/life-preserver-introductory-article-developer-magazine | unknown | github_latest_release_missing | [open](../records/magazines-russmiles-life-preserver-introductory-article-developer-magazine-18492317.md) |
 | sergeyyarkov/digital-store | unknown | github_search_does_not_include_release_date | [open](../records/magazines-sergeyyarkov-digital-store-9dc6b702.md) |
 
+## PHP
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| symfony-cmf/routing | unknown | packagist_package_metadata_missing | [open](../records/php-symfony-cmf-routing-ab21d7c4.md) |
+| tpetry/laravel-query-expressions | unknown | packagist_package_metadata_missing | [open](../records/php-tpetry-laravel-query-expressions-63bdd853.md) |
+
 ## WebAssembly
 
 | Name | Release | Date | Page |
@@ -484,3 +496,39 @@ Records: `329`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | cznic/sqlite | partial | 2026-09-01T14:49:36.033Z | [open](../records/repository-workplaces-cznic-sqlite-e2eb3927.md) |
+| Gitea: 0b1tadmin/1-12-2_server | partial | 2025-06-14T00:38:06Z | [open](../records/repository-workplaces-gitea-0b1tadmin-1-12-2-server-e2800008.md) |
+| Gitea: adityapoonia/chaddserver | partial | 2023-10-21T13:44:55Z | [open](../records/repository-workplaces-gitea-adityapoonia-chaddserver-08e4e01b.md) |
+| Gitea: AndreyWorker312/chat-server | partial | 2025-04-21T16:11:23Z | [open](../records/repository-workplaces-gitea-andreyworker312-chat-server-e85b70ea.md) |
+| Gitea: arvin.zhang/findserver | partial | 2020-04-19T09:55:11Z | [open](../records/repository-workplaces-gitea-arvin-zhang-findserver-7ce28e17.md) |
+| Gitea: arvin.zhang/ftpserver | partial | 2020-04-19T09:52:51Z | [open](../records/repository-workplaces-gitea-arvin-zhang-ftpserver-63abbca5.md) |
+| Gitea: betartib/apiserver | partial | 2020-02-24T21:59:33Z | [open](../records/repository-workplaces-gitea-betartib-apiserver-7fe40dbb.md) |
+| Gitea: Falcon/Falcon.StoredProcedureRunner | partial | 2022-01-10T06:44:26Z | [open](../records/repository-workplaces-gitea-falcon-falcon-storedprocedurerunner-aa5c516a.md) |
+| Gitea: galaxy-future/alist | partial | 2023-08-15T10:17:45Z | [open](../records/repository-workplaces-gitea-galaxy-future-alist-0e422fd3.md) |
+| Gitea: Gangavarapu/BOA-VISA-ConfigServer | partial | 2024-06-14T06:00:34Z | [open](../records/repository-workplaces-gitea-gangavarapu-boa-visa-configserver-08d8af85.md) |
+| Gitea: goftp/ftpd | partial | 2023-05-09T06:36:46Z | [open](../records/repository-workplaces-gitea-goftp-ftpd-baae7a51.md) |
+| Gitea: goftp/server | partial | 2026-04-19T01:50:37Z | [open](../records/repository-workplaces-gitea-goftp-server-7512c7a5.md) |
+| Gitea: JiXieShi/AutoOpenServer | partial | 2022-01-06T10:27:41Z | [open](../records/repository-workplaces-gitea-jixieshi-autoopenserver-b6d1b860.md) |
+| Gitea: kmpm/edit-server | partial | 2023-11-22T14:40:03Z | [open](../records/repository-workplaces-gitea-kmpm-edit-server-3083a1fa.md) |
+| Gitea: LivelyXuan/AOCserver | partial | 2026-05-10T08:27:00Z | [open](../records/repository-workplaces-gitea-livelyxuan-aocserver-f99e0d43.md) |
+| Gitea: LorenzoSoncini/auth-server | partial | 2026-02-21T07:24:16Z | [open](../records/repository-workplaces-gitea-lorenzosoncini-auth-server-ec34a1c3.md) |
+| Gitea: luza/ftp-server | partial | 2019-10-17T20:46:08Z | [open](../records/repository-workplaces-gitea-luza-ftp-server-ce6b9a1e.md) |
+| Gitea: mustang2247/common-admin-server | partial | 2022-11-29T02:57:01Z | [open](../records/repository-workplaces-gitea-mustang2247-common-admin-server-7e0a4a21.md) |
+| Gitea: ndroid/admin_panel-server-alpacino | partial | 2024-07-27T11:32:16Z | [open](../records/repository-workplaces-gitea-ndroid-admin-panel-server-alpacino-13a7886d.md) |
+| Gitea: OpenSource-Auth/auth-server-backup | partial | 2025-12-30T04:23:49Z | [open](../records/repository-workplaces-gitea-opensource-auth-auth-server-backup-6d7e0f82.md) |
+| Gitea: OpenSource-Auth/auth-server-v2-backup | partial | 2026-04-20T04:49:04Z | [open](../records/repository-workplaces-gitea-opensource-auth-auth-server-v2-backup-26ca45ac.md) |
+| Gitea: plumbum/esim-server | partial | 2025-06-04T10:08:57Z | [open](../records/repository-workplaces-gitea-plumbum-esim-server-717006d2.md) |
+| Gitea: pogoParty/coqui-tts-server | partial | 2024-01-14T11:32:04Z | [open](../records/repository-workplaces-gitea-pogoparty-coqui-tts-server-0b3bb8e3.md) |
+| Gitea: powerpjvip/download_server | partial | 2024-09-13T04:43:05Z | [open](../records/repository-workplaces-gitea-powerpjvip-download-server-6cbd8270.md) |
+| Gitea: qiushaocloud/code-server-docker | partial | 2023-06-18T02:09:21Z | [open](../records/repository-workplaces-gitea-qiushaocloud-code-server-docker-21f8a493.md) |
+| Gitea: sbwml/alist | partial | 2025-04-08T12:23:19Z | [open](../records/repository-workplaces-gitea-sbwml-alist-2d556110.md) |
+| Gitea: sinus/admin_panel-server-alpacino | partial | 2024-10-02T10:17:11Z | [open](../records/repository-workplaces-gitea-sinus-admin-panel-server-alpacino-60f62c2b.md) |
+| Gitea: sowen1023/coco-server | partial | 2025-09-04T05:03:35Z | [open](../records/repository-workplaces-gitea-sowen1023-coco-server-6922e537.md) |
+| Gitea: TableTab/config-server | partial | 2024-02-15T03:42:12Z | [open](../records/repository-workplaces-gitea-tabletab-config-server-4dc7a6c4.md) |
+| Gitea: Taizukii/agario-server-db | partial | 2025-08-29T03:36:51Z | [open](../records/repository-workplaces-gitea-taizukii-agario-server-db-49452ff3.md) |
+| Gitea: tionis/external-lfs-server-bug | partial | 2024-09-05T20:41:42Z | [open](../records/repository-workplaces-gitea-tionis-external-lfs-server-bug-4e705431.md) |
+| Gitea: Undone7167/docker-server | partial | 2025-01-10T13:39:28Z | [open](../records/repository-workplaces-gitea-undone7167-docker-server-3f666e3a.md) |
+| Gitea: webixbest/best-iptv-server | partial | 2026-08-08T10:59:01Z | [open](../records/repository-workplaces-gitea-webixbest-best-iptv-server-b8e49d1f.md) |
+| Gitea: yuhaozi2/aigc-platform-server | partial | 2026-01-22T08:40:18Z | [open](../records/repository-workplaces-gitea-yuhaozi2-aigc-platform-server-55f2ef02.md) |
+| Gitea: zhangxian/Data-Server | partial | 2026-01-22T05:53:13Z | [open](../records/repository-workplaces-gitea-zhangxian-data-server-d4f062f7.md) |
+| Gitea: ZhuWangPeng/aping_server | partial | 2022-12-29T03:50:29Z | [open](../records/repository-workplaces-gitea-zhuwangpeng-aping-server-565043dc.md) |
+| Gitea: ZhuWangPeng/base_api_server | partial | 2022-11-23T07:57:17Z | [open](../records/repository-workplaces-gitea-zhuwangpeng-base-api-server-3ed56e09.md) |

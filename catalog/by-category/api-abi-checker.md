@@ -1,6 +1,6 @@
 # Api Abi Checker
 
-Records: `171`
+Records: `173`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `171`
 
 ## Category Index
 
-**[Api Abi Checker (171)](api-abi-checker.md)** · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (37)](assertion-mocking.md) · [Async Runtime (113)](async-runtime.md)
-[Benchmarking (93)](benchmarking.md) · [Build System (721)](build-system.md) · [Cli (478)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (80)](community-reference.md) · [Compiler (146)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
-[Concurrency Parallelism (68)](concurrency-parallelism.md) · [Configuration (93)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (152)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (517)](database-datastore.md) · [Datetime (135)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (39)](debugger.md) · [Dependency Manager (74)](dependency-manager.md) · [Documentation (73)](documentation.md)
-[Embedded Hardware (42)](embedded-hardware.md) · [Ffi Bindings (361)](ffi-bindings.md) · [Filesystem Os (1053)](filesystem-os.md) · [Formatter (511)](formatter.md)
-[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (131)](game-engine-game-dev.md) · [Ide Editor Integration (1018)](ide-editor-integration.md)
-[Image Audio Dsp (212)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (194)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1060)](language-specification.md) · [Library (4575)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (342)](linter.md) · [Logging Observability (315)](logging-observability.md) · [Machine Learning (533)](machine-learning.md)
-[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (71)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (817)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (236)](package-manager.md) · [Parser Lexer Ast (842)](parser-lexer-ast.md) · [Precommit Ci Quality (227)](precommit-ci-quality.md)
-[Profiler (64)](profiler.md) · [Project Scaffolding (102)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (11)](sanitizer.md)
-[Security Sast (284)](security-sast.md) · [Serialization (320)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (396)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (475)](testing-framework.md) · [Tutorial Book Styleguide (51)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
-[Undefined Behavior Analyzer (1291)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (381)](visualization-gui.md) · [Web Framework (329)](web-framework.md)
+**[Api Abi Checker (173)](api-abi-checker.md)** · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (40)](assertion-mocking.md) · [Async Runtime (119)](async-runtime.md)
+[Benchmarking (100)](benchmarking.md) · [Build System (764)](build-system.md) · [Cli (484)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (80)](community-reference.md) · [Compiler (155)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (70)](concurrency-parallelism.md) · [Configuration (94)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (638)](database-datastore.md) · [Datetime (143)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (79)](dependency-manager.md) · [Documentation (77)](documentation.md)
+[Embedded Hardware (43)](embedded-hardware.md) · [Ffi Bindings (367)](ffi-bindings.md) · [Filesystem Os (1080)](filesystem-os.md) · [Formatter (526)](formatter.md)
+[Framework (44)](framework.md) · [Fuzzer (45)](fuzzer.md) · [Game Engine Game Dev (135)](game-engine-game-dev.md) · [Ide Editor Integration (1072)](ide-editor-integration.md)
+[Image Audio Dsp (216)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (216)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1189)](language-specification.md) · [Library (4647)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (317)](logging-observability.md) · [Machine Learning (544)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (73)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (883)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (244)](package-manager.md) · [Parser Lexer Ast (866)](parser-lexer-ast.md) · [Precommit Ci Quality (252)](precommit-ci-quality.md)
+[Profiler (66)](profiler.md) · [Project Scaffolding (107)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (306)](security-sast.md) · [Serialization (361)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (406)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (486)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1328)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (389)](visualization-gui.md) · [Web Framework (372)](web-framework.md)
 
 ## C99
 
@@ -70,7 +70,7 @@ Records: `171`
 | icu_collections | 2.3.0 | 2026-08-13T23:28:40.279341Z | [open](../records/rust-icu-collections-f1051597.md) |
 | icu_normalizer | 2.3.0 | 2026-08-13T23:28:56.931089Z | [open](../records/rust-icu-normalizer-6bdbe494.md) |
 | instability | 0.3.13 | 2026-08-03T09:53:41.672161Z | [open](../records/rust-instability-7526f160.md) |
-| libredox | 0.1.21 | 2026-08-27T17:46:43.748050Z | [open](../records/rust-libredox-9e706cf6.md) |
+| libredox | 0.1.23 | 2026-09-01T16:28:56.798096Z | [open](../records/rust-libredox-9e706cf6.md) |
 | lock_api | 0.4.14 | 2025-10-03T23:33:12.850087Z | [open](../records/rust-lock-api-c382907c.md) |
 | maybe-uninit | 2.0.0 | 2019-07-10T13:41:31.043470Z | [open](../records/rust-maybe-uninit-89e94b0f.md) |
 | ndk-context | 0.1.1 | 2022-04-19T14:40:07.603632Z | [open](../records/rust-ndk-context-3995eb76.md) |
@@ -184,6 +184,7 @@ Records: `171`
 | flutter_gen | 5.15.0 | 2026-07-13T16:59:17.817637Z | [open](../records/dart-flutter-gen-7700f9d0.md) |
 | flutter_gen_runner | 5.15.0 | 2026-07-13T16:59:34.119165Z | [open](../records/dart-flutter-gen-runner-361e1f84.md) |
 | google_maps | 8.3.0 | 2026-07-28T20:22:21.160518Z | [open](../records/dart-google-maps-a659a2b2.md) |
+| puppeteer | 3.26.0 | 2026-08-13T10:31:00.188058Z | [open](../records/dart-puppeteer-51dd17f5.md) |
 
 ## Basilisk
 
@@ -308,6 +309,7 @@ Records: `171`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| Gitea: freezmeinster/apisix-docker | partial | 2025-04-16T10:37:44Z | [open](../records/repository-workplaces-gitea-freezmeinster-apisix-docker-88600e8a.md) |
 | LondonAppDev/recipe-app-api-devops | partial | 2021-03-27T13:37:31.156Z | [open](../records/repository-workplaces-londonappdev-recipe-app-api-devops-4fcb038e.md) |
 | LondonAppDev/recipe-app-api-devops-course-material | partial | 2024-02-20T04:36:56.852Z | [open](../records/repository-workplaces-londonappdev-recipe-app-api-devops-course-material-ee134a2d.md) |
 | LondonAppDev/recipe-app-api-proxy | partial | 2020-04-29T20:16:05.638Z | [open](../records/repository-workplaces-londonappdev-recipe-app-api-proxy-34f38c15.md) |

@@ -1,6 +1,6 @@
 # Precommit Ci Quality
 
-Records: `227`
+Records: `252`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `227`
 
 ## Category Index
 
-[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (37)](assertion-mocking.md) · [Async Runtime (113)](async-runtime.md)
-[Benchmarking (93)](benchmarking.md) · [Build System (721)](build-system.md) · [Cli (478)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (80)](community-reference.md) · [Compiler (146)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
-[Concurrency Parallelism (68)](concurrency-parallelism.md) · [Configuration (93)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (152)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (517)](database-datastore.md) · [Datetime (135)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (39)](debugger.md) · [Dependency Manager (74)](dependency-manager.md) · [Documentation (73)](documentation.md)
-[Embedded Hardware (42)](embedded-hardware.md) · [Ffi Bindings (361)](ffi-bindings.md) · [Filesystem Os (1053)](filesystem-os.md) · [Formatter (511)](formatter.md)
-[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (131)](game-engine-game-dev.md) · [Ide Editor Integration (1018)](ide-editor-integration.md)
-[Image Audio Dsp (212)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (194)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1060)](language-specification.md) · [Library (4575)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (342)](linter.md) · [Logging Observability (315)](logging-observability.md) · [Machine Learning (533)](machine-learning.md)
-[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (71)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (817)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (236)](package-manager.md) · [Parser Lexer Ast (842)](parser-lexer-ast.md) · **[Precommit Ci Quality (227)](precommit-ci-quality.md)**
-[Profiler (64)](profiler.md) · [Project Scaffolding (102)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (11)](sanitizer.md)
-[Security Sast (284)](security-sast.md) · [Serialization (320)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (396)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (475)](testing-framework.md) · [Tutorial Book Styleguide (51)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
-[Undefined Behavior Analyzer (1291)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (381)](visualization-gui.md) · [Web Framework (329)](web-framework.md)
+[Api Abi Checker (173)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (40)](assertion-mocking.md) · [Async Runtime (119)](async-runtime.md)
+[Benchmarking (100)](benchmarking.md) · [Build System (764)](build-system.md) · [Cli (484)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (80)](community-reference.md) · [Compiler (155)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (70)](concurrency-parallelism.md) · [Configuration (94)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (638)](database-datastore.md) · [Datetime (143)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (79)](dependency-manager.md) · [Documentation (77)](documentation.md)
+[Embedded Hardware (43)](embedded-hardware.md) · [Ffi Bindings (367)](ffi-bindings.md) · [Filesystem Os (1080)](filesystem-os.md) · [Formatter (526)](formatter.md)
+[Framework (44)](framework.md) · [Fuzzer (45)](fuzzer.md) · [Game Engine Game Dev (135)](game-engine-game-dev.md) · [Ide Editor Integration (1072)](ide-editor-integration.md)
+[Image Audio Dsp (216)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (216)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1189)](language-specification.md) · [Library (4647)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (317)](logging-observability.md) · [Machine Learning (544)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (73)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (883)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (244)](package-manager.md) · [Parser Lexer Ast (866)](parser-lexer-ast.md) · **[Precommit Ci Quality (252)](precommit-ci-quality.md)**
+[Profiler (66)](profiler.md) · [Project Scaffolding (107)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (306)](security-sast.md) · [Serialization (361)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (406)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (486)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1328)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (389)](visualization-gui.md) · [Web Framework (372)](web-framework.md)
 
 ## C++23
 
@@ -191,6 +191,7 @@ Records: `227`
 | mizer | 3.4.0 | 2026-08-31 16:00:03 UTC | [open](../records/r-mizer-465f8a44.md) |
 | MPCR | 2.1.2 | 2026-08-23 15:40:02 UTC | [open](../records/r-mpcr-aa443dc5.md) |
 | MuPETFlow | 0.1.2 | 2026-08-25 20:50:11 UTC | [open](../records/r-mupetflow-577c92de.md) |
+| occCite | 0.6.3 | 2026-09-01 16:00:02 UTC | [open](../records/r-occcite-1c3f2ee1.md) |
 | OpenRange | 0.0.2 | 2026-08-25 07:10:02 UTC | [open](../records/r-openrange-562b7182.md) |
 | PGM2 | 2.0.1 | 2026-08-27 08:10:15 UTC | [open](../records/r-pgm2-36428c7c.md) |
 | PointedSDMs | 2.1.6 | 2026-08-24 13:20:07 UTC | [open](../records/r-pointedsdms-2bb0b276.md) |
@@ -243,6 +244,8 @@ Records: `227`
 | --- | --- | --- | --- |
 | animated_flip_counter | 0.3.4 | 2024-04-02T00:13:33.110163Z | [open](../records/dart-animated-flip-counter-b9395f17.md) |
 | infinite_carousel | 1.1.1 | 2024-02-16T23:27:48.143487Z | [open](../records/dart-infinite-carousel-fae7c921.md) |
+| restart_app | 1.9.1 | 2026-08-15T18:50:36.368226Z | [open](../records/dart-restart-app-3ced8d2c.md) |
+| sign_in_button | 5.0.0 | 2026-05-18T15:35:22.222767Z | [open](../records/dart-sign-in-button-f2011f46.md) |
 
 ## Go
 
@@ -394,6 +397,28 @@ Records: `227`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Gitea Actions | unknown | official_workplace_route_requires_source_specific_release_lookup | [open](../records/repository-workplaces-gitea-actions-1ac1fc74.md) |
+| Gitea: afzal/bangladesh-land-law-treatise | partial | 2026-08-23T21:20:24Z | [open](../records/repository-workplaces-gitea-afzal-bangladesh-land-law-treatise-8fcb7e22.md) |
+| Gitea: avagarcia000/Avagarcia-s-works | partial | 2025-12-24T07:23:17Z | [open](../records/repository-workplaces-gitea-avagarcia000-avagarcia-s-works-97423086.md) |
+| Gitea: B27_ADDIN/B27_CIV_BATCH | partial | 2024-07-24T15:59:54Z | [open](../records/repository-workplaces-gitea-b27-addin-b27-civ-batch-5c3013c6.md) |
+| Gitea: bancethreeleocico/bancethreeleocico | partial | 2026-01-03T08:45:06Z | [open](../records/repository-workplaces-gitea-bancethreeleocico-bancethreeleocico-7a3e0761.md) |
+| Gitea: baocode0411/ascii-art | partial | 2023-11-29T17:21:51Z | [open](../records/repository-workplaces-gitea-baocode0411-ascii-art-6dc39c37.md) |
+| Gitea: baocode0411/ascii-art-web | partial | 2023-11-29T19:17:48Z | [open](../records/repository-workplaces-gitea-baocode0411-ascii-art-web-e9dce736.md) |
+| Gitea: benito.rodriguez/ASCII_ROMPECABEZAS | partial | 2025-02-17T14:33:32Z | [open](../records/repository-workplaces-gitea-benito-rodriguez-ascii-rompecabezas-4bd6f9e4.md) |
+| Gitea: Betsy/Aplicacion | partial | 2023-08-22T00:00:25Z | [open](../records/repository-workplaces-gitea-betsy-aplicacion-781d4ca4.md) |
+| Gitea: blancheturner/aws-dva-c02-aws-certified-developer-associate-dumps | partial | 2025-05-13T06:39:43Z | [open](../records/repository-workplaces-gitea-blancheturner-aws-dva-c02-aws-certified-developer-associate-dumps-d826dd96.md) |
+| Gitea: boulahya/all_c_exercices | partial | 2024-11-11T03:18:39Z | [open](../records/repository-workplaces-gitea-boulahya-all-c-exercices-cb94baf8.md) |
+| Gitea: Dartrolzul/b1-piscine-java | partial | 2024-02-19T14:43:31Z | [open](../records/repository-workplaces-gitea-dartrolzul-b1-piscine-java-1d0fa7a8.md) |
+| Gitea: JaffarNasir/188BET--Discover-the-Exciting-World-of-Casino-188BET | partial | 2025-11-23T07:54:13Z | [open](../records/repository-workplaces-gitea-jaffarnasir-188bet-discover-the-exciting-world-of-casino-188bet-7fdea9a1.md) |
+| Gitea: KartikSharma2442/Artificial | partial | 2025-05-28T04:03:23Z | [open](../records/repository-workplaces-gitea-kartiksharma2442-artificial-dec5f16f.md) |
+| Gitea: ksaleem/bh-piscine | partial | 2023-09-03T10:22:11Z | [open](../records/repository-workplaces-gitea-ksaleem-bh-piscine-f22b43f5.md) |
+| Gitea: mo3az/-piscine-go | partial | 2025-04-15T22:47:43Z | [open](../records/repository-workplaces-gitea-mo3az-piscine-go-38535a48.md) |
+| Gitea: mspricing/bcpricing | partial | 2025-09-04T07:23:18Z | [open](../records/repository-workplaces-gitea-mspricing-bcpricing-88b14f8e.md) |
+| Gitea: otiozee/ascii-art | partial | 2026-04-27T21:08:35Z | [open](../records/repository-workplaces-gitea-otiozee-ascii-art-ce13f575.md) |
+| Gitea: otiozee/ascii-arts | partial | 2026-05-20T14:12:23Z | [open](../records/repository-workplaces-gitea-otiozee-ascii-arts-c7240f27.md) |
+| Gitea: Rayn/artificial-potential-field | partial | 2026-03-19T16:32:21Z | [open](../records/repository-workplaces-gitea-rayn-artificial-potential-field-955c1049.md) |
+| Gitea: rhutvik14/Artificial-intelligence-Functions | partial | 2025-08-29T07:01:21Z | [open](../records/repository-workplaces-gitea-rhutvik14-artificial-intelligence-functions-c89281bb.md) |
+| Gitea: rickyboy1234567890/ascii-art | partial | 2026-03-06T11:55:57Z | [open](../records/repository-workplaces-gitea-rickyboy1234567890-ascii-art-7a51e08b.md) |
+| Gitea: tayande/ascii-art | partial | 2026-05-13T12:20:01Z | [open](../records/repository-workplaces-gitea-tayande-ascii-art-456fbf06.md) |
 | GitHub Actions | unknown | official_workplace_route_requires_source_specific_release_lookup | [open](../records/repository-workplaces-github-actions-a5e8e062.md) |
 | GitLab CI/CD | unknown | official_workplace_route_requires_source_specific_release_lookup | [open](../records/repository-workplaces-gitlab-ci-cd-ec3ff9c9.md) |
 | sourcehut builds | unknown | official_workplace_route_requires_source_specific_release_lookup | [open](../records/repository-workplaces-sourcehut-builds-1369111b.md) |

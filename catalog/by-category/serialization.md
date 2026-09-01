@@ -1,6 +1,6 @@
 # Serialization
 
-Records: `320`
+Records: `361`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `320`
 
 ## Category Index
 
-[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (37)](assertion-mocking.md) · [Async Runtime (113)](async-runtime.md)
-[Benchmarking (93)](benchmarking.md) · [Build System (721)](build-system.md) · [Cli (478)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (80)](community-reference.md) · [Compiler (146)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
-[Concurrency Parallelism (68)](concurrency-parallelism.md) · [Configuration (93)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (152)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (517)](database-datastore.md) · [Datetime (135)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (39)](debugger.md) · [Dependency Manager (74)](dependency-manager.md) · [Documentation (73)](documentation.md)
-[Embedded Hardware (42)](embedded-hardware.md) · [Ffi Bindings (361)](ffi-bindings.md) · [Filesystem Os (1053)](filesystem-os.md) · [Formatter (511)](formatter.md)
-[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (131)](game-engine-game-dev.md) · [Ide Editor Integration (1018)](ide-editor-integration.md)
-[Image Audio Dsp (212)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (194)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1060)](language-specification.md) · [Library (4575)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (342)](linter.md) · [Logging Observability (315)](logging-observability.md) · [Machine Learning (533)](machine-learning.md)
-[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (71)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (817)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (236)](package-manager.md) · [Parser Lexer Ast (842)](parser-lexer-ast.md) · [Precommit Ci Quality (227)](precommit-ci-quality.md)
-[Profiler (64)](profiler.md) · [Project Scaffolding (102)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (11)](sanitizer.md)
-[Security Sast (284)](security-sast.md) · **[Serialization (320)](serialization.md)** · [Standard Library (23)](standard-library.md) · [Static Analyzer (396)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (475)](testing-framework.md) · [Tutorial Book Styleguide (51)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
-[Undefined Behavior Analyzer (1291)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (381)](visualization-gui.md) · [Web Framework (329)](web-framework.md)
+[Api Abi Checker (173)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (40)](assertion-mocking.md) · [Async Runtime (119)](async-runtime.md)
+[Benchmarking (100)](benchmarking.md) · [Build System (764)](build-system.md) · [Cli (484)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (80)](community-reference.md) · [Compiler (155)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (70)](concurrency-parallelism.md) · [Configuration (94)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (638)](database-datastore.md) · [Datetime (143)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (79)](dependency-manager.md) · [Documentation (77)](documentation.md)
+[Embedded Hardware (43)](embedded-hardware.md) · [Ffi Bindings (367)](ffi-bindings.md) · [Filesystem Os (1080)](filesystem-os.md) · [Formatter (526)](formatter.md)
+[Framework (44)](framework.md) · [Fuzzer (45)](fuzzer.md) · [Game Engine Game Dev (135)](game-engine-game-dev.md) · [Ide Editor Integration (1072)](ide-editor-integration.md)
+[Image Audio Dsp (216)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (216)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1189)](language-specification.md) · [Library (4647)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (317)](logging-observability.md) · [Machine Learning (544)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (73)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (883)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (244)](package-manager.md) · [Parser Lexer Ast (866)](parser-lexer-ast.md) · [Precommit Ci Quality (252)](precommit-ci-quality.md)
+[Profiler (66)](profiler.md) · [Project Scaffolding (107)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (306)](security-sast.md) · **[Serialization (361)](serialization.md)** · [Standard Library (23)](standard-library.md) · [Static Analyzer (406)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (486)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1328)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (389)](visualization-gui.md) · [Web Framework (372)](web-framework.md)
 
 ## C99
 
@@ -237,7 +237,7 @@ Records: `320`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | encharter | 0.10 | 2026-08-04 16:10:02 UTC | [open](../records/r-encharter-caacc771.md) |
-| lt | 0.3 | 2026-08-19 18:30:02 UTC | [open](../records/r-lt-213efbff.md) |
+| lt | 0.4 | 2026-09-01 16:00:08 UTC | [open](../records/r-lt-213efbff.md) |
 | qbr | 1.4.0 | 2026-08-19 22:20:07 UTC | [open](../records/r-qbr-bdd32b3a.md) |
 | RcppMsgPack | 0.2.5 | 2026-08-19 16:10:09 UTC | [open](../records/r-rcppmsgpack-bf85e3d0.md) |
 | RProtoBuf | 0.4.28 | 2026-08-21 22:01:25 UTC | [open](../records/r-rprotobuf-4170b44d.md) |
@@ -342,6 +342,8 @@ Records: `320`
 | json_serializable | 6.14.1 | 2026-07-30T18:09:35.070157Z | [open](../records/dart-json-serializable-376b4f22.md) |
 | jwt_decoder | 2.0.1 | 2021-03-26T20:34:30.505536Z | [open](../records/dart-jwt-decoder-c7f7df96.md) |
 | maplibre_gl | 0.27.0 | 2026-08-19T16:03:56.668219Z | [open](../records/dart-maplibre-gl-c2a8383e.md) |
+| slang | 4.19.0 | 2026-08-06T13:01:17.257108Z | [open](../records/dart-slang-f760648f.md) |
+| yaml_edit | 2.2.4 | 2026-02-13T07:12:23.296061Z | [open](../records/dart-yaml-edit-865a9bd8.md) |
 
 ## Go
 
@@ -353,7 +355,7 @@ Records: `320`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| protoconf/protoconf | partial | 2026-09-01T15:25:06Z | [open](../records/starlark-protoconf-protoconf-2d2b3184.md) |
+| protoconf/protoconf | partial | 2026-09-01T16:16:53Z | [open](../records/starlark-protoconf-protoconf-2d2b3184.md) |
 | remarshal-project/remarshal | partial | 2026-08-01T07:20:07Z | [open](../records/starlark-remarshal-project-remarshal-9ffddf4f.md) |
 
 ## "aim's"
@@ -477,6 +479,45 @@ Records: `320`
 | illuminate/json-schema | unknown | packagist_package_metadata_missing | [open](../records/php-illuminate-json-schema-fae35fa6.md) |
 | jms/serializer | unknown | packagist_package_metadata_missing | [open](../records/php-jms-serializer-51bdec17.md) |
 | jms/serializer-bundle | unknown | packagist_package_metadata_missing | [open](../records/php-jms-serializer-bundle-55d47cb4.md) |
+| jquery-form/form | unknown | packagist_package_metadata_missing | [open](../records/php-jquery-form-form-433c3891.md) |
+| json-mapper/json-mapper | unknown | packagist_package_metadata_missing | [open](../records/php-json-mapper-json-mapper-26b59d7b.md) |
+| justinrainbow/json-schema | unknown | packagist_package_metadata_missing | [open](../records/php-justinrainbow-json-schema-e4e9b80b.md) |
+| kkomelin/laravel-translatable-string-exporter | unknown | packagist_package_metadata_missing | [open](../records/php-kkomelin-laravel-translatable-string-exporter-bb29c7cb.md) |
+| laravel-json-api/laravel | unknown | packagist_package_metadata_missing | [open](../records/php-laravel-json-api-laravel-2b29699f.md) |
+| laravel-lang/json-fallback | unknown | packagist_package_metadata_missing | [open](../records/php-laravel-lang-json-fallback-e2aa1d32.md) |
+| lcobucci/jwt | unknown | packagist_package_metadata_missing | [open](../records/php-lcobucci-jwt-cbc39996.md) |
+| league/fractal | unknown | packagist_package_metadata_missing | [open](../records/php-league-fractal-674ce28d.md) |
+| martin-georgiev/postgresql-for-doctrine | unknown | packagist_package_metadata_missing | [open](../records/php-martin-georgiev-postgresql-for-doctrine-ea48f018.md) |
+| ml/json-ld | unknown | packagist_package_metadata_missing | [open](../records/php-ml-json-ld-e2747906.md) |
+| mledoze/countries | unknown | packagist_package_metadata_missing | [open](../records/php-mledoze-countries-dc28ff6e.md) |
+| mtdowling/jmespath.php | unknown | packagist_package_metadata_missing | [open](../records/php-mtdowling-jmespath-php-68ef74bd.md) |
+| nahid/jsonq | unknown | packagist_package_metadata_missing | [open](../records/php-nahid-jsonq-448c88bc.md) |
+| namshi/jose | unknown | packagist_package_metadata_missing | [open](../records/php-namshi-jose-070b0e9e.md) |
+| neomerx/json-api | unknown | packagist_package_metadata_missing | [open](../records/php-neomerx-json-api-f422028c.md) |
+| netresearch/jsonmapper | unknown | packagist_package_metadata_missing | [open](../records/php-netresearch-jsonmapper-d5829247.md) |
+| nette/utils | unknown | packagist_package_metadata_missing | [open](../records/php-nette-utils-bd91eee8.md) |
+| opis/json-schema | unknown | packagist_package_metadata_missing | [open](../records/php-opis-json-schema-3e4f6cc8.md) |
+| php-jsonpatch/php-jsonpatch | unknown | packagist_package_metadata_missing | [open](../records/php-php-jsonpatch-php-jsonpatch-dfa1285b.md) |
+| php-jsonpointer/php-jsonpointer | unknown | packagist_package_metadata_missing | [open](../records/php-php-jsonpointer-php-jsonpointer-cebe5176.md) |
+| php-open-source-saver/jwt-auth | unknown | packagist_package_metadata_missing | [open](../records/php-php-open-source-saver-jwt-auth-36479751.md) |
+| rbdwllr/reallysimplejwt | unknown | packagist_package_metadata_missing | [open](../records/php-rbdwllr-reallysimplejwt-c1a368e9.md) |
+| scienta/doctrine-json-functions | unknown | packagist_package_metadata_missing | [open](../records/php-scienta-doctrine-json-functions-8ba85c2b.md) |
+| softcreatr/jsonpath | unknown | packagist_package_metadata_missing | [open](../records/php-softcreatr-jsonpath-ea8c86ed.md) |
+| sonata-project/doctrine-extensions | unknown | packagist_package_metadata_missing | [open](../records/php-sonata-project-doctrine-extensions-1bb8bcce.md) |
+| spatie/laravel-json-api-paginate | unknown | packagist_package_metadata_missing | [open](../records/php-spatie-laravel-json-api-paginate-804681c1.md) |
+| spatie/valuestore | unknown | packagist_package_metadata_missing | [open](../records/php-spatie-valuestore-1ea1a29f.md) |
+| staudenmeir/eloquent-json-relations | unknown | packagist_package_metadata_missing | [open](../records/php-staudenmeir-eloquent-json-relations-2ca47f67.md) |
+| stevencorona/opcache-json | unknown | packagist_package_metadata_missing | [open](../records/php-stevencorona-opcache-json-58a2b890.md) |
+| swaggest/json-diff | unknown | packagist_package_metadata_missing | [open](../records/php-swaggest-json-diff-a3d362a1.md) |
+| swaggest/json-schema | unknown | packagist_package_metadata_missing | [open](../records/php-swaggest-json-schema-d3758b41.md) |
+| syslogic/doctrine-json-functions | unknown | packagist_package_metadata_missing | [open](../records/php-syslogic-doctrine-json-functions-2a79bdd9.md) |
+| tcdent/php-restclient | unknown | packagist_package_metadata_missing | [open](../records/php-tcdent-php-restclient-87944374.md) |
+| timacdonald/json-api | unknown | packagist_package_metadata_missing | [open](../records/php-timacdonald-json-api-1a03aab9.md) |
+| tymon/jwt-auth | unknown | packagist_package_metadata_missing | [open](../records/php-tymon-jwt-auth-f925cd65.md) |
+| violet/streaming-json-encoder | unknown | packagist_package_metadata_missing | [open](../records/php-violet-streaming-json-encoder-7cf75e37.md) |
+| web-token/jwt-framework | unknown | packagist_package_metadata_missing | [open](../records/php-web-token-jwt-framework-3b6bafa5.md) |
+| wikimedia/composer-merge-plugin | unknown | packagist_package_metadata_missing | [open](../records/php-wikimedia-composer-merge-plugin-a6914da8.md) |
+| willdurand/jsonp-callback-validator | unknown | packagist_package_metadata_missing | [open](../records/php-willdurand-jsonp-callback-validator-e6c17b3a.md) |
 
 ## Swift
 

@@ -1,6 +1,6 @@
 # Assembly
 
-Records: `179`
+Records: `220`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `179`
 
 ## Category Index
 
-[Api Abi Checker (171)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (37)](../by-category/assertion-mocking.md) · [Async Runtime (113)](../by-category/async-runtime.md)
-[Benchmarking (93)](../by-category/benchmarking.md) · [Build System (721)](../by-category/build-system.md) · [Cli (478)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (80)](../by-category/community-reference.md) · [Compiler (146)](../by-category/compiler.md) · [Compiler Diagnostics (22)](../by-category/compiler-diagnostics.md) · [Compression (42)](../by-category/compression.md)
-[Concurrency Parallelism (68)](../by-category/concurrency-parallelism.md) · [Configuration (93)](../by-category/configuration.md) · [Container Deployment (7)](../by-category/container-deployment.md) · [Coverage (11)](../by-category/coverage.md)
-[Cryptography (152)](../by-category/cryptography.md) · [Data Science (32)](../by-category/data-science.md) · [Database Datastore (517)](../by-category/database-datastore.md) · [Datetime (135)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (39)](../by-category/debugger.md) · [Dependency Manager (74)](../by-category/dependency-manager.md) · [Documentation (73)](../by-category/documentation.md)
-[Embedded Hardware (42)](../by-category/embedded-hardware.md) · [Ffi Bindings (361)](../by-category/ffi-bindings.md) · [Filesystem Os (1053)](../by-category/filesystem-os.md) · [Formatter (511)](../by-category/formatter.md)
-[Framework (42)](../by-category/framework.md) · [Fuzzer (43)](../by-category/fuzzer.md) · [Game Engine Game Dev (131)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1018)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (212)](../by-category/image-audio-dsp.md) · [Interop Bindings (50)](../by-category/interop-bindings.md) · [Interpreter Runtime (194)](../by-category/interpreter-runtime.md) · [Jit Vm (56)](../by-category/jit-vm.md)
-[Language Server (26)](../by-category/language-server.md) · [Language Specification (1060)](../by-category/language-specification.md) · [Library (4575)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (40)](../by-category/lint-rule-pack.md) · [Linter (342)](../by-category/linter.md) · [Logging Observability (315)](../by-category/logging-observability.md) · [Machine Learning (533)](../by-category/machine-learning.md)
-[Math Numeric Scientific (76)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (71)](../by-category/memory-analyzer.md) · [Message Broker (29)](../by-category/message-broker.md) · [Networking Http (817)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (236)](../by-category/package-manager.md) · [Parser Lexer Ast (842)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (227)](../by-category/precommit-ci-quality.md)
-[Profiler (64)](../by-category/profiler.md) · [Project Scaffolding (102)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (11)](../by-category/sanitizer.md)
-[Security Sast (284)](../by-category/security-sast.md) · [Serialization (320)](../by-category/serialization.md) · [Standard Library (23)](../by-category/standard-library.md) · [Static Analyzer (396)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (475)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (51)](../by-category/tutorial-book-styleguide.md) · [Type Checker (276)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1291)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (89)](../by-category/utility-library.md) · [Visualization Gui (381)](../by-category/visualization-gui.md) · [Web Framework (329)](../by-category/web-framework.md)
+[Api Abi Checker (173)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (40)](../by-category/assertion-mocking.md) · [Async Runtime (119)](../by-category/async-runtime.md)
+[Benchmarking (100)](../by-category/benchmarking.md) · [Build System (764)](../by-category/build-system.md) · [Cli (484)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (80)](../by-category/community-reference.md) · [Compiler (155)](../by-category/compiler.md) · [Compiler Diagnostics (22)](../by-category/compiler-diagnostics.md) · [Compression (42)](../by-category/compression.md)
+[Concurrency Parallelism (70)](../by-category/concurrency-parallelism.md) · [Configuration (94)](../by-category/configuration.md) · [Container Deployment (8)](../by-category/container-deployment.md) · [Coverage (11)](../by-category/coverage.md)
+[Cryptography (153)](../by-category/cryptography.md) · [Data Science (32)](../by-category/data-science.md) · [Database Datastore (638)](../by-category/database-datastore.md) · [Datetime (143)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (40)](../by-category/debugger.md) · [Dependency Manager (79)](../by-category/dependency-manager.md) · [Documentation (77)](../by-category/documentation.md)
+[Embedded Hardware (43)](../by-category/embedded-hardware.md) · [Ffi Bindings (367)](../by-category/ffi-bindings.md) · [Filesystem Os (1080)](../by-category/filesystem-os.md) · [Formatter (526)](../by-category/formatter.md)
+[Framework (44)](../by-category/framework.md) · [Fuzzer (45)](../by-category/fuzzer.md) · [Game Engine Game Dev (135)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1072)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (216)](../by-category/image-audio-dsp.md) · [Interop Bindings (52)](../by-category/interop-bindings.md) · [Interpreter Runtime (216)](../by-category/interpreter-runtime.md) · [Jit Vm (56)](../by-category/jit-vm.md)
+[Language Server (26)](../by-category/language-server.md) · [Language Specification (1189)](../by-category/language-specification.md) · [Library (4647)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (40)](../by-category/lint-rule-pack.md) · [Linter (344)](../by-category/linter.md) · [Logging Observability (317)](../by-category/logging-observability.md) · [Machine Learning (544)](../by-category/machine-learning.md)
+[Math Numeric Scientific (78)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (73)](../by-category/memory-analyzer.md) · [Message Broker (31)](../by-category/message-broker.md) · [Networking Http (883)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (244)](../by-category/package-manager.md) · [Parser Lexer Ast (866)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (252)](../by-category/precommit-ci-quality.md)
+[Profiler (66)](../by-category/profiler.md) · [Project Scaffolding (107)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (12)](../by-category/sanitizer.md)
+[Security Sast (306)](../by-category/security-sast.md) · [Serialization (361)](../by-category/serialization.md) · [Standard Library (23)](../by-category/standard-library.md) · [Static Analyzer (406)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (486)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (52)](../by-category/tutorial-book-styleguide.md) · [Type Checker (276)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1328)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (89)](../by-category/utility-library.md) · [Visualization Gui (389)](../by-category/visualization-gui.md) · [Web Framework (372)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -39,6 +39,7 @@ Records: `179`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [Kazhuu/asm2cfg](../records/assembly-kazhuu-asm2cfg-8e13ec12.md) | partial | 2024-04-01T13:23:47Z | registry-derived |
 | [konatabrk/shellen](../records/assembly-konatabrk-shellen-8b37e63c.md) | partial | 2021-02-26T15:22:26Z | registry-derived |
 | [raphamorim/gameboy](../records/assembly-raphamorim-gameboy-4d569a64.md) | partial | 2025-08-04T18:57:27Z | registry-derived |
 
@@ -46,10 +47,16 @@ Records: `179`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [ClementTsang/rustcc](../records/assembly-clementtsang-rustcc-81a87799.md) | partial | 2025-06-04T05:05:13Z | registry-derived |
 | [compiler-explorer/compiler-explorer](../records/assembly-compiler-explorer-compiler-explorer-99f6d9ce.md) | partial | 2026-09-01T03:29:09Z | registry-derived |
+| [DQNEO/minigo](../records/assembly-dqneo-minigo-2d87e4eb.md) | partial | 2021-02-16T16:05:25Z | registry-derived |
+| [emproof-com/nyxstone](../records/assembly-emproof-com-nyxstone-2e6c50f8.md) | partial | 2026-06-05T16:43:08Z | registry-derived |
+| [Fedjmike/mini-c](../records/assembly-fedjmike-mini-c-295a2fc0.md) | partial | 2022-04-15T08:24:14Z | registry-derived |
 | [HexHive/retrowrite](../records/assembly-hexhive-retrowrite-c7fefa2b.md) | partial | 2025-04-26T16:48:55Z | registry-derived |
+| [illegalstudio/elephc](../records/assembly-illegalstudio-elephc-5fbaada8.md) | partial | 2026-09-01T16:32:25Z | registry-derived |
 | [joexbayer/RetrOS-32](../records/assembly-joexbayer-retros-32-b6c205a2.md) | partial | 2026-02-22T16:07:58Z | registry-derived |
 | [JustasMasiulis/inline_syscall](../records/assembly-justasmasiulis-inline-syscall-0c8a798a.md) | partial | 2024-06-21T00:26:33Z | registry-derived |
+| [Mati365/ts-c-compiler](../records/assembly-mati365-ts-c-compiler-bc7fb5c3.md) | partial | 2026-08-11T06:13:10Z | registry-derived |
 | [pacak/cargo-show-asm](../records/assembly-pacak-cargo-show-asm-9459d0cc.md) | partial | 2026-08-31T18:32:36Z | registry-derived |
 | [ujjwal-kr/system-programming-roadmap](../records/assembly-ujjwal-kr-system-programming-roadmap-128f664f.md) | partial | 2026-08-29T03:34:53Z | registry-derived |
 | [vygr/ChrysaLisp](../records/assembly-vygr-chrysalisp-0e234f7b.md) | partial | 2026-09-01T13:55:01Z | registry-derived |
@@ -78,6 +85,7 @@ Records: `179`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [jofrfu/tinyTPU](../records/assembly-jofrfu-tinytpu-55706d65.md) | partial | 2019-01-05T19:20:15Z | registry-derived |
 | [Maratyszcza/PeachPy](../records/assembly-maratyszcza-peachpy-1f352ba0.md) | partial | 2023-09-25T15:52:52Z | registry-derived |
 
 ### Ffi Bindings
@@ -94,10 +102,14 @@ Records: `179`
 | --- | --- | --- | --- |
 | [carloslack/KoviD](../records/assembly-carloslack-kovid-05c9a038.md) | partial | 2026-05-31T15:05:07Z | registry-derived |
 | [dreamportdev/Osdev-Notes](../records/assembly-dreamportdev-osdev-notes-0bc186d6.md) | partial | 2026-08-29T00:33:45Z | registry-derived |
+| [maniekx86/stillalive-os](../records/assembly-maniekx86-stillalive-os-3b900496.md) | partial | 2025-09-16T11:55:24Z | registry-derived |
 | [OpenRakis/Spice86](../records/assembly-openrakis-spice86-2cdaf101.md) | partial | 2026-08-31T19:29:47Z | registry-derived |
 | [owent/libcopp](../records/assembly-owent-libcopp-45c438d7.md) | partial | 2026-01-20T11:34:32Z | registry-derived |
 | [rwfpl/rewolf-wow64ext](../records/assembly-rwfpl-rewolf-wow64ext-24fabb9b.md) | partial | 2023-01-17T20:00:42Z | registry-derived |
+| [shikaan/osle](../records/assembly-shikaan-osle-a280853b.md) | partial | 2026-03-07T20:30:09Z | registry-derived |
 | [wichtounet/thor-os](../records/assembly-wichtounet-thor-os-cf1384c0.md) | partial | 2024-11-19T10:12:06Z | registry-derived |
+| [WindowsNT/asm](../records/assembly-windowsnt-asm-00dbedd0.md) | partial | 2025-05-10T09:55:30Z | registry-derived |
+| [XXIIVV/oscean](../records/assembly-xxiivv-oscean-5e954d22.md) | partial | 2026-08-30T19:12:48Z | registry-derived |
 | [yhs0602/Android-Disassembler](../records/assembly-yhs0602-android-disassembler-1d409abc.md) | partial | 2026-03-22T07:00:35Z | registry-derived |
 
 ### Framework
@@ -106,33 +118,50 @@ Records: `179`
 | --- | --- | --- | --- |
 | [Gallopsled/pwntools](../records/assembly-gallopsled-pwntools-731d4a01.md) | partial | 2026-08-30T07:24:25Z | registry-derived |
 
+### Fuzzer
+
+| Name | Release | Date | Source |
+| --- | --- | --- | --- |
+| [ruanjue/wtdbg2](../records/assembly-ruanjue-wtdbg2-f7600312.md) | partial | 2023-09-27T07:41:16Z | registry-derived |
+
 ### Game Engine Game Dev
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [decompme/decomp.me](../records/assembly-decompme-decomp-me-72e4eec1.md) | partial | 2026-09-01T13:33:39Z | registry-derived |
 | [dethrace-labs/dethrace](../records/assembly-dethrace-labs-dethrace-0d609365.md) | partial | 2026-08-18T13:12:35Z | registry-derived |
+| [io12/BootMine](../records/assembly-io12-bootmine-85e26922.md) | partial | 2021-01-21T04:53:31Z | registry-derived |
+| [tgrysztar/fasmg](../records/assembly-tgrysztar-fasmg-1281abcb.md) | partial | 2026-07-19T09:21:17Z | registry-derived |
 
 ### Ide Editor Integration
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [eatonphil/x86e](../records/assembly-eatonphil-x86e-a3d2b156.md) | partial | 2023-01-03T20:16:21Z | registry-derived |
 | [kovidomi/game-reversing](../records/assembly-kovidomi-game-reversing-eb71b6a8.md) | partial | 2023-04-05T15:11:33Z | registry-derived |
+| [mikeroyal/Assembly-Guide](../records/assembly-mikeroyal-assembly-guide-e4afccda.md) | partial | 2022-01-02T23:58:29Z | registry-derived |
 | [minio/sha256-simd](../records/assembly-minio-sha256-simd-85e6ab78.md) | partial | 2023-05-24T07:54:41Z | registry-derived |
 | [robalb/x86-64-playground](../records/assembly-robalb-x86-64-playground-c440c3c0.md) | partial | 2026-01-18T19:17:26Z | registry-derived |
 | [sehugg/8bitworkshop](../records/assembly-sehugg-8bitworkshop-62e01cd8.md) | partial | 2026-09-01T09:32:09Z | registry-derived |
+| [Specy/asm-editor](../records/assembly-specy-asm-editor-c3b9e30b.md) | partial | 2026-08-31T13:00:24Z | registry-derived |
 | [ThomasJaeger/VisualMASM](../records/assembly-thomasjaeger-visualmasm-c78674ab.md) | partial | 2018-01-26T12:10:31Z | registry-derived |
 
 ### Interpreter Runtime
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [allogic/KDBG](../records/assembly-allogic-kdbg-1f6c6448.md) | partial | 2022-09-12T23:01:55Z | registry-derived |
+| [enkomio/sacara](../records/assembly-enkomio-sacara-11257b8d.md) | partial | 2019-12-17T13:52:47Z | registry-derived |
 | [justinmeiners/lc3-vm](../records/assembly-justinmeiners-lc3-vm-4d906562.md) | partial | 2026-04-02T04:27:34Z | registry-derived |
+| [marcpaq/arpilisp](../records/assembly-marcpaq-arpilisp-7fd5fe93.md) | partial | 2024-11-26T17:45:18Z | registry-derived |
+| [snowsnowsnows/EagleVM](../records/assembly-snowsnowsnows-eaglevm-dafb0015.md) | partial | 2024-12-20T20:58:52Z | registry-derived |
+| [tboox/vm86](../records/assembly-tboox-vm86-b9f240c2.md) | partial | 2021-11-02T02:36:13Z | registry-derived |
 
 ### Language Specification
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [0xADE1A1DE/AssemblyLine](../records/assembly-0xade1a1de-assemblyline-114a6144.md) | partial | 2025-02-10T03:28:23Z | registry-derived |
 | [100thCoin/AccuracyCoin](../records/assembly-100thcoin-accuracycoin-a8cc820c.md) | partial | 2026-08-21T18:25:57Z | registry-derived |
 | [adriancable/8086tiny](../records/assembly-adriancable-8086tiny-c1d50ad4.md) | partial | 2022-09-07T17:43:45Z | registry-derived |
 | [akkartik/mu](../records/assembly-akkartik-mu-02abed58.md) | partial | 2026-04-02T02:16:40Z | registry-derived |
@@ -147,6 +176,7 @@ Records: `179`
 | [bluewaysw/pcgeos](../records/assembly-bluewaysw-pcgeos-aee787b1.md) | partial | 2026-08-26T22:15:01Z | registry-derived |
 | [briansmith/ring](../records/assembly-briansmith-ring-3a265118.md) | partial | 2026-07-23T18:48:09Z | registry-derived |
 | [bytecode77/pe-union](../records/assembly-bytecode77-pe-union-295ee237.md) | partial | 2025-06-28T10:36:18Z | registry-derived |
+| [cch123/asm-cli](../records/assembly-cch123-asm-cli-b6f3f924.md) | partial | 2019-01-20T08:58:33Z | registry-derived |
 | [cemu-project/cemu_graphic_packs](../records/assembly-cemu-project-cemu-graphic-packs-a02e8956.md) | partial | 2026-07-10T22:33:37Z | registry-derived |
 | [chrislgarry/Apollo-11](../records/assembly-chrislgarry-apollo-11-bb6b16f2.md) | partial | 2026-07-15T02:29:53Z | registry-derived |
 | [cirosantilli/x86-assembly-cheat](../records/assembly-cirosantilli-x86-assembly-cheat-6fe4201b.md) | partial | 2019-06-25T18:10:23Z | registry-derived |
@@ -154,6 +184,7 @@ Records: `179`
 | [corkami/pics](../records/assembly-corkami-pics-3e6c0218.md) | partial | 2024-02-18T13:37:21Z | registry-derived |
 | [corkami/pocs](../records/assembly-corkami-pocs-7ef21d37.md) | partial | 2024-12-22T21:19:50Z | registry-derived |
 | [daniel-e/tetros](../records/assembly-daniel-e-tetros-151a0c96.md) | partial | 2016-12-18T13:32:27Z | registry-derived |
+| [danielkrupinski/Inflame](../records/assembly-danielkrupinski-inflame-6316c79b.md) | partial | 2022-06-29T19:31:47Z | registry-derived |
 | [DGivney/assemblytutorials](../records/assembly-dgivney-assemblytutorials-61126c89.md) | partial | 2025-04-08T11:40:58Z | registry-derived |
 | [Dman95/SASM](../records/assembly-dman95-sasm-d1b6bc2a.md) | partial | 2026-02-08T18:26:02Z | registry-derived |
 | [donno2048/snake](../records/assembly-donno2048-snake-7b4fe8af.md) | partial | 2026-07-13T19:57:19Z | registry-derived |
@@ -163,11 +194,13 @@ Records: `179`
 | [ebitengine/purego](../records/assembly-ebitengine-purego-a5231eb8.md) | partial | 2026-09-01T10:46:21Z | registry-derived |
 | [espressif/esp-dl](../records/assembly-espressif-esp-dl-82fca433.md) | partial | 2026-08-31T07:22:46Z | registry-derived |
 | [fcambus/spleen](../records/assembly-fcambus-spleen-889e6477.md) | partial | 2026-08-12T15:45:38Z | registry-derived |
+| [grassator/mass](../records/assembly-grassator-mass-293a8da9.md) | partial | 2023-10-03T22:05:30Z | registry-derived |
 | [grimdoomer/Xbox360BadUpdate](../records/assembly-grimdoomer-xbox360badupdate-0bdca866.md) | partial | 2026-08-05T23:13:44Z | registry-derived |
 | [hackclub/some-assembly-required](../records/assembly-hackclub-some-assembly-required-91450888.md) | partial | 2026-02-02T23:13:25Z | registry-derived |
 | [hasherezade/malware_training_vol1](../records/assembly-hasherezade-malware-training-vol1-897623a6.md) | partial | 2024-07-01T21:59:06Z | registry-derived |
 | [HazyResearch/hyena-dna](../records/assembly-hazyresearch-hyena-dna-32e6b277.md) | partial | 2025-04-22T19:15:50Z | registry-derived |
 | [HazyResearch/safari](../records/assembly-hazyresearch-safari-ce5609e7.md) | partial | 2024-06-13T21:57:14Z | registry-derived |
+| [ibara/8088ify](../records/assembly-ibara-8088ify-7b5d5d90.md) | partial | 2022-02-26T14:22:41Z | registry-derived |
 | [icebreaker/floppybird](../records/assembly-icebreaker-floppybird-0b70ef49.md) | partial | 2020-04-01T19:49:44Z | registry-derived |
 | [intel/optimization-manual](../records/assembly-intel-optimization-manual-fce59491.md) | partial | 2024-05-03T22:09:10Z | registry-derived |
 | [jmechner/Prince-of-Persia-Apple-II](../records/assembly-jmechner-prince-of-persia-apple-ii-f90e7981.md) | partial | 2024-09-27T09:18:47Z | registry-derived |
@@ -196,7 +229,7 @@ Records: `179`
 | [nornagon/jonesforth](../records/assembly-nornagon-jonesforth-691f782b.md) | partial | 2023-04-04T16:56:38Z | registry-derived |
 | [obdev/v-usb](../records/assembly-obdev-v-usb-977cf25b.md) | partial | 2026-08-26T14:47:54Z | registry-derived |
 | [openhwgroup/core-v-verif](../records/assembly-openhwgroup-core-v-verif-9b6682d3.md) | partial | 2026-08-13T11:46:24Z | registry-derived |
-| [openhwgroup/cva6](../records/assembly-openhwgroup-cva6-c0f79b44.md) | partial | 2026-09-01T15:30:32Z | registry-derived |
+| [openhwgroup/cva6](../records/assembly-openhwgroup-cva6-c0f79b44.md) | partial | 2026-09-01T16:30:08Z | registry-derived |
 | [oriansj/stage0](../records/assembly-oriansj-stage0-6791bc52.md) | partial | 2026-06-17T03:03:21Z | registry-derived |
 | [Overv/MineAssemble](../records/assembly-overv-mineassemble-4e2e626b.md) | partial | 2023-09-11T09:31:31Z | registry-derived |
 | [PDP-10/its](../records/assembly-pdp-10-its-cfa6e89a.md) | partial | 2026-08-19T16:37:56Z | registry-derived |
@@ -210,12 +243,12 @@ Records: `179`
 | [pret/pokeyellow](../records/assembly-pret-pokeyellow-f91bcc26.md) | partial | 2026-08-27T22:34:09Z | registry-derived |
 | [PrincetonUniversity/openpiton](../records/assembly-princetonuniversity-openpiton-eceb776d.md) | partial | 2026-02-25T17:35:46Z | registry-derived |
 | [RandalLinden/DOOM-FX](../records/assembly-randallinden-doom-fx-76b45172.md) | partial | 2022-06-19T18:26:02Z | registry-derived |
-| [Rangi42/polishedcrystal](../records/assembly-rangi42-polishedcrystal-55bf1d37.md) | partial | 2026-09-01T15:36:19Z | registry-derived |
+| [Rangi42/polishedcrystal](../records/assembly-rangi42-polishedcrystal-55bf1d37.md) | partial | 2026-09-01T16:39:52Z | registry-derived |
 | [ReturnInfinity/BareMetal](../records/assembly-returninfinity-baremetal-0b151ed8.md) | partial | 2026-06-12T19:06:32Z | registry-derived |
 | [ReturnInfinity/BareMetal-OS-legacy](../records/assembly-returninfinity-baremetal-os-legacy-09317d7c.md) | partial | 2017-11-20T15:29:43Z | registry-derived |
 | [RibShark/OmniDrive](../records/assembly-ribshark-omnidrive-32257d20.md) | partial | 2026-07-18T06:48:57Z | registry-derived |
 | [riscv-software-src/riscv-tests](../records/assembly-riscv-software-src-riscv-tests-77e7e3cb.md) | partial | 2026-08-14T22:09:19Z | registry-derived |
-| [riscv/riscv-arch-test](../records/assembly-riscv-riscv-arch-test-0b5f8870.md) | partial | 2026-09-01T15:27:10Z | registry-derived |
+| [riscv/riscv-arch-test](../records/assembly-riscv-riscv-arch-test-0b5f8870.md) | partial | 2026-09-01T15:48:59Z | registry-derived |
 | [riscvarchive/riscv-v-spec](../records/assembly-riscvarchive-riscv-v-spec-60c48d12.md) | partial | 2024-03-17T15:04:35Z | registry-derived |
 | [ROCm/MIOpen](../records/assembly-rocm-miopen-1181b14a.md) | partial | 2026-08-31T18:04:11Z | registry-derived |
 | [sam-astro/Astro8-Computer](../records/assembly-sam-astro-astro8-computer-d279451b.md) | partial | 2026-08-27T17:50:17Z | registry-derived |
@@ -244,18 +277,23 @@ Records: `179`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [0xAX/asm](../records/assembly-0xax-asm-c781f702.md) | partial | 2026-08-25T10:24:56Z | registry-derived |
+| [ajkhoury/UEFI-Bootkit](../records/assembly-ajkhoury-uefi-bootkit-3307a09a.md) | partial | 2019-08-29T14:16:09Z | registry-derived |
 | [badamczewski/PowerUp](../records/assembly-badamczewski-powerup-798e7cfd.md) | partial | 2024-01-25T09:23:08Z | registry-derived |
 | [CensoredUsername/dynasm-rs](../records/assembly-censoredusername-dynasm-rs-c02f4bf6.md) | partial | 2026-07-22T23:36:48Z | registry-derived |
 | [cyrus-and/gdb-dashboard](../records/assembly-cyrus-and-gdb-dashboard-ef48ce45.md) | partial | 2026-07-17T09:53:53Z | registry-derived |
 | [gurugio/lowlevelprogramming-university](../records/assembly-gurugio-lowlevelprogramming-university-485ace99.md) | partial | 2025-03-24T11:49:58Z | registry-derived |
 | [mattdibi/redox-keyboard](../records/assembly-mattdibi-redox-keyboard-e1f3e991.md) | partial | 2026-05-26T18:15:22Z | registry-derived |
 | [MattPD/cpplinks](../records/assembly-mattpd-cpplinks-29eb7bcc.md) | partial | 2026-09-01T03:03:56Z | registry-derived |
+| [meribold/btry](../records/assembly-meribold-btry-acc80abb.md) | partial | 2026-08-02T18:34:33Z | registry-derived |
 | [mmcloughlin/avo](../records/assembly-mmcloughlin-avo-46167d30.md) | partial | 2026-09-01T05:34:18Z | registry-derived |
 | [mohitmishra786/amILearningEnough](../records/assembly-mohitmishra786-amilearningenough-299c3826.md) | partial | 2026-03-26T16:42:23Z | registry-derived |
 | [ReturnInfinity/Pure64](../records/assembly-returninfinity-pure64-67a8cce1.md) | partial | 2026-06-12T19:29:07Z | registry-derived |
 | [segmentio/asm](../records/assembly-segmentio-asm-07cb5069.md) | partial | 2026-06-25T23:26:52Z | registry-derived |
 | [Stephane-D/SGDK](../records/assembly-stephane-d-sgdk-bad539e3.md) | partial | 2026-08-17T08:47:30Z | registry-derived |
+| [takenobu-hs/cpu-assembly-examples](../records/assembly-takenobu-hs-cpu-assembly-examples-b5867112.md) | partial | 2024-05-19T06:55:01Z | registry-derived |
+| [vonsim/vonsim](../records/assembly-vonsim-vonsim-6a8ef78f.md) | partial | 2026-05-29T02:08:00Z | registry-derived |
 | [vvaltchev/tilck](../records/assembly-vvaltchev-tilck-455a611e.md) | partial | 2026-09-01T05:32:32Z | registry-derived |
+| [yds12/x64-roadmap](../records/assembly-yds12-x64-roadmap-3b9663e2.md) | partial | 2020-07-16T15:54:20Z | registry-derived |
 | [yrp604/rappel](../records/assembly-yrp604-rappel-4bf787bb.md) | partial | 2024-03-07T04:45:15Z | registry-derived |
 
 ### Machine Learning
@@ -263,6 +301,7 @@ Records: `179`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [gbdev/rgbds](../records/assembly-gbdev-rgbds-2d9bc1c6.md) | partial | 2026-08-25T20:13:37Z | registry-derived |
+| [jishanshaikh4/8086-cheatsheet](../records/assembly-jishanshaikh4-8086-cheatsheet-66f8dab8.md) | partial | 2022-10-02T05:33:54Z | registry-derived |
 | [rigtorp/awesome-lockfree](../records/assembly-rigtorp-awesome-lockfree-44d48e4b.md) | partial | 2024-02-25T00:18:35Z | registry-derived |
 | [tanghaibao/jcvi](../records/assembly-tanghaibao-jcvi-74bbbc68.md) | partial | 2026-08-12T13:58:34Z | registry-derived |
 
@@ -306,15 +345,18 @@ Records: `179`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [enkomio/thematrix](../records/assembly-enkomio-thematrix-8cd2748c.md) | partial | 2022-09-19T10:15:39Z | registry-derived |
 | [Idov31/Cronos](../records/assembly-idov31-cronos-d87fafd3.md) | partial | 2023-09-26T18:06:10Z | registry-derived |
 | [mandiant/flare-learning-hub](../records/assembly-mandiant-flare-learning-hub-36dc67ad.md) | partial | 2026-03-31T14:36:02Z | registry-derived |
 | [mohitmishra786/reversingBits](../records/assembly-mohitmishra786-reversingbits-a3d9abef.md) | partial | 2025-07-21T19:05:45Z | registry-derived |
+| [RRZE-HPC/OSACA](../records/assembly-rrze-hpc-osaca-67fcadc4.md) | partial | 2026-08-06T15:16:35Z | registry-derived |
 | [x86byte/RE-MA-Roadmap](../records/assembly-x86byte-re-ma-roadmap-041535bd.md) | partial | 2025-10-02T15:10:10Z | registry-derived |
 
 ### Tutorial Book Styleguide
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [TienNHM/ebooks](../records/assembly-tiennhm-ebooks-37d5a6c9.md) | partial | 2026-07-04T17:48:59Z | registry-derived |
 | [wx-chevalier/CS-Notes](../records/assembly-wx-chevalier-cs-notes-c6d51bd4.md) | partial | 2026-05-13T10:02:49Z | registry-derived |
 
 ### Undefined Behavior Analyzer
@@ -322,12 +364,16 @@ Records: `179`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [edubart/minicoro](../records/assembly-edubart-minicoro-74ca4b67.md) | partial | 2024-12-07T10:36:21Z | registry-derived |
+| [franeklubi/dino](../records/assembly-franeklubi-dino-8d3e9c1a.md) | partial | 2021-08-21T14:21:23Z | registry-derived |
 | [hlorenzi/customasm](../records/assembly-hlorenzi-customasm-85734886.md) | partial | 2026-04-26T21:11:38Z | registry-derived |
+| [IDouble/x86-Assembly-Reverse-Engineering](../records/assembly-idouble-x86-assembly-reverse-engineering-fc5247ea.md) | partial | 2024-03-01T20:10:00Z | registry-derived |
+| [tenderlove/fisk](../records/assembly-tenderlove-fisk-358e54fe.md) | partial | 2023-04-07T23:47:40Z | registry-derived |
 | [vector4wang/spring-boot-quick](../records/assembly-vector4wang-spring-boot-quick-58ca29aa.md) | partial | 2026-05-16T06:22:44Z | registry-derived |
 
 ### Visualization Gui
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [gh-nomad/nmd](../records/assembly-gh-nomad-nmd-edbb6cb6.md) | partial | 2021-12-26T00:44:17Z | registry-derived |
 | [guitmz/virii](../records/assembly-guitmz-virii-ed6ff028.md) | partial | 2026-03-29T21:39:51Z | registry-derived |
 | [simon987/Much-Assembly-Required](../records/assembly-simon987-much-assembly-required-c15801d9.md) | partial | 2024-10-24T00:37:03Z | registry-derived |

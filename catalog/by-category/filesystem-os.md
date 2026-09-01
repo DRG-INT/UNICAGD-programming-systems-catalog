@@ -1,6 +1,6 @@
 # Filesystem Os
 
-Records: `1053`
+Records: `1080`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `1053`
 
 ## Category Index
 
-[Api Abi Checker (171)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (37)](assertion-mocking.md) · [Async Runtime (113)](async-runtime.md)
-[Benchmarking (93)](benchmarking.md) · [Build System (721)](build-system.md) · [Cli (478)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (80)](community-reference.md) · [Compiler (146)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
-[Concurrency Parallelism (68)](concurrency-parallelism.md) · [Configuration (93)](configuration.md) · [Container Deployment (7)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (152)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (517)](database-datastore.md) · [Datetime (135)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (39)](debugger.md) · [Dependency Manager (74)](dependency-manager.md) · [Documentation (73)](documentation.md)
-[Embedded Hardware (42)](embedded-hardware.md) · [Ffi Bindings (361)](ffi-bindings.md) · **[Filesystem Os (1053)](filesystem-os.md)** · [Formatter (511)](formatter.md)
-[Framework (42)](framework.md) · [Fuzzer (43)](fuzzer.md) · [Game Engine Game Dev (131)](game-engine-game-dev.md) · [Ide Editor Integration (1018)](ide-editor-integration.md)
-[Image Audio Dsp (212)](image-audio-dsp.md) · [Interop Bindings (50)](interop-bindings.md) · [Interpreter Runtime (194)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1060)](language-specification.md) · [Library (4575)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (342)](linter.md) · [Logging Observability (315)](logging-observability.md) · [Machine Learning (533)](machine-learning.md)
-[Math Numeric Scientific (76)](math-numeric-scientific.md) · [Memory Analyzer (71)](memory-analyzer.md) · [Message Broker (29)](message-broker.md) · [Networking Http (817)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (236)](package-manager.md) · [Parser Lexer Ast (842)](parser-lexer-ast.md) · [Precommit Ci Quality (227)](precommit-ci-quality.md)
-[Profiler (64)](profiler.md) · [Project Scaffolding (102)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (11)](sanitizer.md)
-[Security Sast (284)](security-sast.md) · [Serialization (320)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (396)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (475)](testing-framework.md) · [Tutorial Book Styleguide (51)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
-[Undefined Behavior Analyzer (1291)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (381)](visualization-gui.md) · [Web Framework (329)](web-framework.md)
+[Api Abi Checker (173)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (40)](assertion-mocking.md) · [Async Runtime (119)](async-runtime.md)
+[Benchmarking (100)](benchmarking.md) · [Build System (764)](build-system.md) · [Cli (484)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (80)](community-reference.md) · [Compiler (155)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (42)](compression.md)
+[Concurrency Parallelism (70)](concurrency-parallelism.md) · [Configuration (94)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (638)](database-datastore.md) · [Datetime (143)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (79)](dependency-manager.md) · [Documentation (77)](documentation.md)
+[Embedded Hardware (43)](embedded-hardware.md) · [Ffi Bindings (367)](ffi-bindings.md) · **[Filesystem Os (1080)](filesystem-os.md)** · [Formatter (526)](formatter.md)
+[Framework (44)](framework.md) · [Fuzzer (45)](fuzzer.md) · [Game Engine Game Dev (135)](game-engine-game-dev.md) · [Ide Editor Integration (1072)](ide-editor-integration.md)
+[Image Audio Dsp (216)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (216)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (26)](language-server.md) · [Language Specification (1189)](language-specification.md) · [Library (4647)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (344)](linter.md) · [Logging Observability (317)](logging-observability.md) · [Machine Learning (544)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (73)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (883)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (244)](package-manager.md) · [Parser Lexer Ast (866)](parser-lexer-ast.md) · [Precommit Ci Quality (252)](precommit-ci-quality.md)
+[Profiler (66)](profiler.md) · [Project Scaffolding (107)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (306)](security-sast.md) · [Serialization (361)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (406)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (486)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (276)](type-checker.md)
+[Undefined Behavior Analyzer (1328)](undefined-behavior-analyzer.md) · [Utility Library (89)](utility-library.md) · [Visualization Gui (389)](visualization-gui.md) · [Web Framework (372)](web-framework.md)
 
 ## C++23
 
@@ -526,6 +526,25 @@ Records: `1053`
 | phone_state | 4.0.1 | 2026-07-15T10:12:30.945046Z | [open](../records/dart-phone-state-a05f01ce.md) |
 | pluto_grid | 8.1.0 | 2025-12-12T06:29:40.165191Z | [open](../records/dart-pluto-grid-da5d9973.md) |
 | printing | 5.15.0 | 2026-06-16T19:52:56.957463Z | [open](../records/dart-printing-434f5074.md) |
+| purchases_ui_flutter | 10.10.1 | 2026-08-27T17:37:03.941654Z | [open](../records/dart-purchases-ui-flutter-327852a3.md) |
+| quick_actions | 1.1.0 | 2024-12-11T19:16:51.194445Z | [open](../records/dart-quick-actions-42f45037.md) |
+| receive_sharing_intent | 1.9.0 | 2026-06-24T22:10:16.281163Z | [open](../records/dart-receive-sharing-intent-9c1ad31c.md) |
+| searchable_listview | 2.19.5 | 2026-05-30T11:19:25.055881Z | [open](../records/dart-searchable-listview-3fa3ca85.md) |
+| sensors_plus | 7.1.0 | 2026-06-26T12:35:16.768644Z | [open](../records/dart-sensors-plus-5fe40260.md) |
+| share_plus | 13.3.0 | 2026-07-23T21:32:59.660054Z | [open](../records/dart-share-plus-e39aced6.md) |
+| shared_preferences | 2.5.5 | 2026-03-25T19:23:39.961636Z | [open](../records/dart-shared-preferences-2c01bae0.md) |
+| sign_in_with_apple | 8.2.0 | 2026-08-27T11:42:37.872720Z | [open](../records/dart-sign-in-with-apple-a24f910f.md) |
+| speech_to_text | 7.4.0 | 2026-05-19T19:26:03.322540Z | [open](../records/dart-speech-to-text-cbab6b04.md) |
+| string_validator | 1.2.0 | 2025-06-27T03:16:40.071522Z | [open](../records/dart-string-validator-052c753f.md) |
+| super_drag_and_drop | 0.9.1 | 2025-06-11T11:42:57.647809Z | [open](../records/dart-super-drag-and-drop-53d051f4.md) |
+| syncfusion_flutter_pdf | 34.2.6 | 2026-09-01T15:36:11.783093Z | [open](../records/dart-syncfusion-flutter-pdf-cb009e7a.md) |
+| typewritertext | 3.0.9 | 2024-09-14T08:02:08.110460Z | [open](../records/dart-typewritertext-0221e3f3.md) |
+| universal_ble | 2.2.0 | 2026-08-28T11:14:48.416200Z | [open](../records/dart-universal-ble-63469fae.md) |
+| vibration | 3.2.0 | 2026-06-12T21:14:53.196549Z | [open](../records/dart-vibration-0db0fe53.md) |
+| wakelock_plus | 1.8.0 | 2026-09-01T00:55:50.915326Z | [open](../records/dart-wakelock-plus-6f9dd55a.md) |
+| watcher | 1.2.1 | 2026-01-08T07:30:04.790936Z | [open](../records/dart-watcher-8e3e2ffe.md) |
+| window_manager | 0.5.2 | 2026-07-04T15:26:18.818367Z | [open](../records/dart-window-manager-f904494f.md) |
+| yandex_mapkit | 4.3.0 | 2026-07-21T13:38:55.571114Z | [open](../records/dart-yandex-mapkit-503f3088.md) |
 
 ## Go
 
@@ -534,9 +553,10 @@ Records: `1053`
 | filippo.io/mostly-harmless/dockerdns | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-filippo-io-mostly-harmless-dockerdns-75b5c5a5.md) |
 | ginuerzh/gost | partial | 2026-08-30T10:02:45Z | [open](../records/go-ginuerzh-gost-9e6fc76a.md) |
 | go-kratos/kratos | partial | 2026-08-19T05:14:19Z | [open](../records/go-go-kratos-kratos-75d15f10.md) |
+| gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-08-30T15:02:19Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-01T15:21:24Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-01T16:12:27Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -1040,10 +1060,14 @@ Records: `1053`
 | --- | --- | --- | --- |
 | carloslack/KoviD | partial | 2026-05-31T15:05:07Z | [open](../records/assembly-carloslack-kovid-05c9a038.md) |
 | dreamportdev/Osdev-Notes | partial | 2026-08-29T00:33:45Z | [open](../records/assembly-dreamportdev-osdev-notes-0bc186d6.md) |
+| maniekx86/stillalive-os | partial | 2025-09-16T11:55:24Z | [open](../records/assembly-maniekx86-stillalive-os-3b900496.md) |
 | OpenRakis/Spice86 | partial | 2026-08-31T19:29:47Z | [open](../records/assembly-openrakis-spice86-2cdaf101.md) |
 | owent/libcopp | partial | 2026-01-20T11:34:32Z | [open](../records/assembly-owent-libcopp-45c438d7.md) |
 | rwfpl/rewolf-wow64ext | partial | 2023-01-17T20:00:42Z | [open](../records/assembly-rwfpl-rewolf-wow64ext-24fabb9b.md) |
+| shikaan/osle | partial | 2026-03-07T20:30:09Z | [open](../records/assembly-shikaan-osle-a280853b.md) |
 | wichtounet/thor-os | partial | 2024-11-19T10:12:06Z | [open](../records/assembly-wichtounet-thor-os-cf1384c0.md) |
+| WindowsNT/asm | partial | 2025-05-10T09:55:30Z | [open](../records/assembly-windowsnt-asm-00dbedd0.md) |
+| XXIIVV/oscean | partial | 2026-08-30T19:12:48Z | [open](../records/assembly-xxiivv-oscean-5e954d22.md) |
 | yhs0602/Android-Disassembler | partial | 2026-03-22T07:00:35Z | [open](../records/assembly-yhs0602-android-disassembler-1d409abc.md) |
 
 ## Pattern language
@@ -1253,3 +1277,6 @@ Records: `1053`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | bg-utp-repository/devops-y-control-de-versiones-git | partial | 2020-10-29T18:11:13.493Z | [open](../records/repository-workplaces-bg-utp-repository-devops-y-control-de-versiones-git-1435df7e.md) |
+| Gitea: afzal/advocate-narsingdi | partial | 2026-08-23T20:28:48Z | [open](../records/repository-workplaces-gitea-afzal-advocate-narsingdi-1c730665.md) |
+| Gitea: afzal/bangladesh-struggle-for-independence | partial | 2026-08-23T20:25:32Z | [open](../records/repository-workplaces-gitea-afzal-bangladesh-struggle-for-independence-572a75c0.md) |
+| Gitea: sivajothi/DevOpsDemo | partial | 2025-06-02T08:13:14Z | [open](../records/repository-workplaces-gitea-sivajothi-devopsdemo-8506bea8.md) |
