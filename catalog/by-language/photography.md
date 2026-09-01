@@ -14,7 +14,7 @@ Records: `264`
 [Concurrency Parallelism (71)](../by-category/concurrency-parallelism.md) · [Configuration (96)](../by-category/configuration.md) · [Container Deployment (8)](../by-category/container-deployment.md) · [Coverage (11)](../by-category/coverage.md)
 [Cryptography (153)](../by-category/cryptography.md) · [Data Science (32)](../by-category/data-science.md) · [Database Datastore (682)](../by-category/database-datastore.md) · [Datetime (156)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (40)](../by-category/debugger.md) · [Dependency Manager (80)](../by-category/dependency-manager.md) · [Documentation (77)](../by-category/documentation.md)
-[Embedded Hardware (47)](../by-category/embedded-hardware.md) · [Ffi Bindings (376)](../by-category/ffi-bindings.md) · [Filesystem Os (1138)](../by-category/filesystem-os.md) · [Formatter (535)](../by-category/formatter.md)
+[Embedded Hardware (47)](../by-category/embedded-hardware.md) · [Ffi Bindings (376)](../by-category/ffi-bindings.md) · [Filesystem Os (1139)](../by-category/filesystem-os.md) · [Formatter (535)](../by-category/formatter.md)
 [Framework (46)](../by-category/framework.md) · [Fuzzer (48)](../by-category/fuzzer.md) · [Game Engine Game Dev (139)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1104)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (290)](../by-category/image-audio-dsp.md) · [Interop Bindings (52)](../by-category/interop-bindings.md) · [Interpreter Runtime (223)](../by-category/interpreter-runtime.md) · [Jit Vm (56)](../by-category/jit-vm.md)
 [Language Server (26)](../by-category/language-server.md) · [Language Specification (1220)](../by-category/language-specification.md) · [Library (4683)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
@@ -155,14 +155,14 @@ Records: `264`
 | [spike0en/awesome_nothing](../records/photography-spike0en-awesome-nothing-252f0bbc.md) | partial | 2026-03-22T13:34:45Z | registry-derived |
 | [waschinski/photo-stream](../records/photography-waschinski-photo-stream-ff2deddb.md) | partial | 2026-06-23T20:05:48Z | registry-derived |
 | [Yummypets/YPImagePicker](../records/photography-yummypets-ypimagepicker-25854b52.md) | partial | 2026-07-28T15:57:49Z | registry-derived |
-| [zidage/AlcedoStudio](../records/photography-zidage-alcedostudio-7b939307.md) | partial | 2026-09-01T21:05:05Z | registry-derived |
+| [zidage/AlcedoStudio](../records/photography-zidage-alcedostudio-7b939307.md) | partial | 2026-09-01T22:28:57Z | registry-derived |
 
 ### Formatter
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [ankitdhall/lidar_camera_calibration](../records/photography-ankitdhall-lidar-camera-calibration-71522045.md) | partial | 2025-10-16T18:17:31Z | registry-derived |
-| [blakeblackshear/frigate](../records/photography-blakeblackshear-frigate-ea8ac18c.md) | partial | 2026-09-01T21:10:49Z | registry-derived |
+| [blakeblackshear/frigate](../records/photography-blakeblackshear-frigate-ea8ac18c.md) | partial | 2026-09-01T21:24:19Z | registry-derived |
 | [d2phap/ImageGlass](../records/photography-d2phap-imageglass-ec40014f.md) | partial | 2026-09-01T13:18:57Z | registry-derived |
 | [dnglab/dnglab](../records/photography-dnglab-dnglab-05d113bb.md) | partial | 2026-08-30T14:57:26Z | registry-derived |
 | [jark006/JarkViewer](../records/photography-jark006-jarkviewer-384c10ce.md) | partial | 2026-06-30T18:46:05Z | registry-derived |
@@ -171,7 +171,7 @@ Records: `264`
 | [libjxl/libjxl](../records/photography-libjxl-libjxl-3d901151.md) | partial | 2026-09-01T15:54:09Z | registry-derived |
 | [mz2/Carpaccio](../records/photography-mz2-carpaccio-47bb21ca.md) | partial | 2023-06-10T06:49:52Z | registry-derived |
 | [QQxiaoming/YUVviewer](../records/photography-qqxiaoming-yuvviewer-c08a90b9.md) | partial | 2026-06-27T03:38:01Z | registry-derived |
-| [skymanbp/autoshade](../records/photography-skymanbp-autoshade-295e9968.md) | partial | 2026-09-01T17:29:22Z | registry-derived |
+| [skymanbp/autoshade](../records/photography-skymanbp-autoshade-295e9968.md) | partial | 2026-09-01T23:01:37Z | registry-derived |
 
 ### Game Engine Game Dev
 

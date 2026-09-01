@@ -14,7 +14,7 @@ Records: `4683`
 [Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (96)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (682)](database-datastore.md) · [Datetime (156)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (80)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1138)](filesystem-os.md) · [Formatter (535)](formatter.md)
+[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1139)](filesystem-os.md) · [Formatter (535)](formatter.md)
 [Framework (46)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (139)](game-engine-game-dev.md) · [Ide Editor Integration (1104)](ide-editor-integration.md)
 [Image Audio Dsp (290)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
 [Language Server (26)](language-server.md) · [Language Specification (1220)](language-specification.md) · **[Library (4683)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
@@ -4009,7 +4009,7 @@ Records: `4683`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-01T22:17:42Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-01T23:14:55Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4023,7 +4023,7 @@ Records: `4683`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-01T21:57:48Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-01T23:12:19Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -4392,8 +4392,8 @@ Records: `4683`
 | --- | --- | --- | --- |
 | acconeer/acconeer-python-exploration | partial | 2026-08-10T14:18:17Z | [open](../records/radars-acconeer-acconeer-python-exploration-c570151f.md) |
 | bopen/xarray-sentinel | partial | 2026-08-26T14:14:32Z | [open](../records/radars-bopen-xarray-sentinel-d49585c9.md) |
-| dpaulat/supercell-wx | partial | 2026-08-31T11:30:31Z | [open](../records/radars-dpaulat-supercell-wx-216e49cf.md) |
-| earthobservations/wetterdienst | partial | 2026-09-01T20:18:22Z | [open](../records/radars-earthobservations-wetterdienst-4494a41f.md) |
+| dpaulat/supercell-wx | partial | 2026-09-01T22:58:49Z | [open](../records/radars-dpaulat-supercell-wx-216e49cf.md) |
+| earthobservations/wetterdienst | partial | 2026-09-01T21:39:27Z | [open](../records/radars-earthobservations-wetterdienst-4494a41f.md) |
 | erikliland/pyMHT | partial | 2023-09-19T11:10:15Z | [open](../records/radars-erikliland-pymht-6bcd5586.md) |
 | ethanhuang13/ladybug | partial | 2019-12-26T07:04:26Z | [open](../records/radars-ethanhuang13-ladybug-9ff29291.md) |
 | feedback-assistant/reports | partial | 2025-11-07T04:38:18Z | [open](../records/radars-feedback-assistant-reports-4bc463b2.md) |
@@ -4433,75 +4433,75 @@ Records: `4683`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Alexgichamba/sat-rf-sim | unknown | github_latest_release_missing | [open](../records/satcom-satellites-alexgichamba-sat-rf-sim-aa36e263.md) |
-| BitBangingBytes/gr-smart_meters | unknown | github_latest_release_missing | [open](../records/satcom-satellites-bitbangingbytes-gr-smart-meters-4a6e02bf.md) |
-| blaylockbk/goes2go | 2025.10.0 | 2025-10-17T03:41:04Z | [open](../records/satcom-satellites-blaylockbk-goes2go-6d604dc4.md) |
-| btfz-sdr/gnuradio_demo | unknown | github_latest_release_missing | [open](../records/satcom-satellites-btfz-sdr-gnuradio-demo-1b296ec6.md) |
-| csete/gpredict | v2.6 | 2026-08-16T14:09:25Z | [open](../records/satcom-satellites-csete-gpredict-00041760.md) |
-| DahnJ/EO-jobs | unknown | github_latest_release_missing | [open](../records/satcom-satellites-dahnj-eo-jobs-976e2c28.md) |
-| daniestevez/gr-satellites | v5.9.0 | 2025-12-14T08:56:50Z | [open](../records/satcom-satellites-daniestevez-gr-satellites-e33d9ffc.md) |
-| FlorentF9/SatelliteSimulator | unknown | github_latest_release_missing | [open](../records/satcom-satellites-florentf9-satellitesimulator-bfc3ba79.md) |
-| GeoTIFF/geotiff.io | unknown | github_latest_release_missing | [open](../records/satcom-satellites-geotiff-geotiff-io-083eda43.md) |
-| gnss-sdr/gnss-sdr | v0.0.21 | 2026-04-14T07:48:58Z | [open](../records/satcom-satellites-gnss-sdr-gnss-sdr-fc6d38a6.md) |
-| gqrx-sdr/gqrx | v2.17.7 | 2025-05-27T22:42:58Z | [open](../records/satcom-satellites-gqrx-sdr-gqrx-b09cf7a9.md) |
-| greatscottgadgets/gr-bluetooth | unknown | github_latest_release_missing | [open](../records/satcom-satellites-greatscottgadgets-gr-bluetooth-749a1444.md) |
-| hi-paris/deepdespeckling | v0.4 | 2024-04-09T14:40:15Z | [open](../records/satcom-satellites-hi-paris-deepdespeckling-43752fb5.md) |
-| igorauad/gr-dvbs2rx | 1.4.0 | 2023-12-01T23:24:14Z | [open](../records/satcom-satellites-igorauad-gr-dvbs2rx-f8d2fcf3.md) |
-| kscottz/PythonFromSpace | unknown | github_latest_release_missing | [open](../records/satcom-satellites-kscottz-pythonfromspace-762715ec.md) |
-| lloda/prop-618 | unknown | github_latest_release_missing | [open](../records/satcom-satellites-lloda-prop-618-ea3a5a71.md) |
-| mapbox/mbutil | unknown | github_latest_release_missing | [open](../records/satcom-satellites-mapbox-mbutil-070c5b53.md) |
-| mapbox/mercantile | 1.2.1 | 2021-10-22T20:13:31Z | [open](../records/satcom-satellites-mapbox-mercantile-4443a8d8.md) |
-| mapbox/pyskel | unknown | github_latest_release_missing | [open](../records/satcom-satellites-mapbox-pyskel-f08672d2.md) |
-| mapbox/supermercado | unknown | github_latest_release_missing | [open](../records/satcom-satellites-mapbox-supermercado-af3630f0.md) |
-| mgp25/OpenLTE | unknown | github_latest_release_missing | [open](../records/satcom-satellites-mgp25-openlte-d8c46992.md) |
-| muccc/gr-iridium | v1.0.0 | 2022-04-30T20:03:18Z | [open](../records/satcom-satellites-muccc-gr-iridium-7a8d0ed9.md) |
-| OpenSatKit/OpenSatKit | v2.2.1 | 2020-08-20T16:21:58Z | [open](../records/satcom-satellites-opensatkit-opensatkit-5cd2d22e.md) |
-| PatrickTUM/SEN12MS-CR-TS | unknown | github_latest_release_missing | [open](../records/satcom-satellites-patricktum-sen12ms-cr-ts-5c0952ab.md) |
-| pytroll/satpy | v0.60.0 | 2026-03-04T14:45:49Z | [open](../records/satcom-satellites-pytroll-satpy-9a896b49.md) |
-| robintw/Py6S | unknown | github_latest_release_missing | [open](../records/satcom-satellites-robintw-py6s-607064f7.md) |
-| rt-bishop/Look4Sat | v4.4.6 | 2026-08-13T07:56:23Z | [open](../records/satcom-satellites-rt-bishop-look4sat-0d14c7cd.md) |
-| SatDump/SatDump | 1.2.2 | 2024-11-29T15:56:47Z | [open](../records/satcom-satellites-satdump-satdump-2cfd412f.md) |
-| trishmapow/rf-jam-replay | unknown | github_latest_release_missing | [open](../records/satcom-satellites-trishmapow-rf-jam-replay-654ac757.md) |
-| TrunkRecorder/trunk-recorder | v5.2.1 | 2026-04-08T02:03:57Z | [open](../records/satcom-satellites-trunkrecorder-trunk-recorder-7832a301.md) |
-| Viva525/Cesium-Satellite | unknown | github_latest_release_missing | [open](../records/satcom-satellites-viva525-cesium-satellite-4b64584e.md) |
-| yanxian-ll/GS-SR | unknown | github_latest_release_missing | [open](../records/satcom-satellites-yanxian-ll-gs-sr-4da75cd1.md) |
+| Alexgichamba/sat-rf-sim | partial | 2023-03-27T19:39:45Z | [open](../records/satcom-satellites-alexgichamba-sat-rf-sim-aa36e263.md) |
+| BitBangingBytes/gr-smart_meters | partial | 2023-09-25T14:44:10Z | [open](../records/satcom-satellites-bitbangingbytes-gr-smart-meters-4a6e02bf.md) |
+| blaylockbk/goes2go | partial | 2026-06-17T05:07:20Z | [open](../records/satcom-satellites-blaylockbk-goes2go-6d604dc4.md) |
+| btfz-sdr/gnuradio_demo | partial | 2026-08-28T08:54:09Z | [open](../records/satcom-satellites-btfz-sdr-gnuradio-demo-1b296ec6.md) |
+| csete/gpredict | partial | 2026-08-16T15:12:21Z | [open](../records/satcom-satellites-csete-gpredict-00041760.md) |
+| DahnJ/EO-jobs | partial | 2026-06-15T01:11:51Z | [open](../records/satcom-satellites-dahnj-eo-jobs-976e2c28.md) |
+| daniestevez/gr-satellites | partial | 2026-08-20T06:26:31Z | [open](../records/satcom-satellites-daniestevez-gr-satellites-e33d9ffc.md) |
+| FlorentF9/SatelliteSimulator | partial | 2017-05-20T12:18:18Z | [open](../records/satcom-satellites-florentf9-satellitesimulator-bfc3ba79.md) |
+| GeoTIFF/geotiff.io | partial | 2025-12-31T10:58:25Z | [open](../records/satcom-satellites-geotiff-geotiff-io-083eda43.md) |
+| gnss-sdr/gnss-sdr | partial | 2026-09-01T21:10:19Z | [open](../records/satcom-satellites-gnss-sdr-gnss-sdr-fc6d38a6.md) |
+| gqrx-sdr/gqrx | partial | 2026-08-06T20:55:38Z | [open](../records/satcom-satellites-gqrx-sdr-gqrx-b09cf7a9.md) |
+| greatscottgadgets/gr-bluetooth | partial | 2024-08-16T15:27:08Z | [open](../records/satcom-satellites-greatscottgadgets-gr-bluetooth-749a1444.md) |
+| hi-paris/deepdespeckling | partial | 2025-07-25T10:03:26Z | [open](../records/satcom-satellites-hi-paris-deepdespeckling-43752fb5.md) |
+| igorauad/gr-dvbs2rx | partial | 2024-07-28T17:06:04Z | [open](../records/satcom-satellites-igorauad-gr-dvbs2rx-f8d2fcf3.md) |
+| kscottz/PythonFromSpace | partial | 2018-02-20T03:58:20Z | [open](../records/satcom-satellites-kscottz-pythonfromspace-762715ec.md) |
+| lloda/prop-618 | partial | 2024-01-19T13:57:31Z | [open](../records/satcom-satellites-lloda-prop-618-ea3a5a71.md) |
+| mapbox/mbutil | partial | 2025-10-07T19:18:13Z | [open](../records/satcom-satellites-mapbox-mbutil-070c5b53.md) |
+| mapbox/mercantile | partial | 2026-06-29T14:59:51Z | [open](../records/satcom-satellites-mapbox-mercantile-4443a8d8.md) |
+| mapbox/pyskel | partial | 2026-06-29T15:08:15Z | [open](../records/satcom-satellites-mapbox-pyskel-f08672d2.md) |
+| mapbox/supermercado | partial | 2026-06-29T15:17:44Z | [open](../records/satcom-satellites-mapbox-supermercado-af3630f0.md) |
+| mgp25/OpenLTE | partial | 2021-02-21T19:34:29Z | [open](../records/satcom-satellites-mgp25-openlte-d8c46992.md) |
+| muccc/gr-iridium | partial | 2026-07-02T09:26:47Z | [open](../records/satcom-satellites-muccc-gr-iridium-7a8d0ed9.md) |
+| OpenSatKit/OpenSatKit | partial | 2024-03-25T19:50:49Z | [open](../records/satcom-satellites-opensatkit-opensatkit-5cd2d22e.md) |
+| PatrickTUM/SEN12MS-CR-TS | partial | 2024-01-23T17:51:20Z | [open](../records/satcom-satellites-patricktum-sen12ms-cr-ts-5c0952ab.md) |
+| pytroll/satpy | partial | 2026-08-31T18:36:52Z | [open](../records/satcom-satellites-pytroll-satpy-9a896b49.md) |
+| robintw/Py6S | partial | 2025-10-22T23:09:34Z | [open](../records/satcom-satellites-robintw-py6s-607064f7.md) |
+| rt-bishop/Look4Sat | partial | 2026-08-21T12:11:30Z | [open](../records/satcom-satellites-rt-bishop-look4sat-0d14c7cd.md) |
+| SatDump/SatDump | partial | 2026-09-01T19:03:29Z | [open](../records/satcom-satellites-satdump-satdump-2cfd412f.md) |
+| trishmapow/rf-jam-replay | partial | 2019-06-10T22:09:28Z | [open](../records/satcom-satellites-trishmapow-rf-jam-replay-654ac757.md) |
+| TrunkRecorder/trunk-recorder | partial | 2026-09-01T12:59:38Z | [open](../records/satcom-satellites-trunkrecorder-trunk-recorder-7832a301.md) |
+| Viva525/Cesium-Satellite | partial | 2023-02-21T11:26:35Z | [open](../records/satcom-satellites-viva525-cesium-satellite-4b64584e.md) |
+| yanxian-ll/GS-SR | partial | 2025-10-13T06:25:52Z | [open](../records/satcom-satellites-yanxian-ll-gs-sr-4da75cd1.md) |
 
 ## Electromagnetoscopes
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AlbrechtL/welle.io | v2.7 | 2025-03-16T21:48:49Z | [open](../records/electromagnetoscopes-albrechtl-welle-io-1ed8e849.md) |
+| AlbrechtL/welle.io | partial | 2026-08-13T16:00:11Z | [open](../records/electromagnetoscopes-albrechtl-welle-io-1ed8e849.md) |
 | BruceDevices/firmware | 1.16.1 | 2026-08-11T16:36:36Z | [open](../records/electromagnetoscopes-brucedevices-firmware-7d55bbf4.md) |
 | Bttstrp/bootstrap-switch | v3.3.4 | 2017-02-25T18:30:41Z | [open](../records/electromagnetoscopes-bttstrp-bootstrap-switch-c4659979.md) |
-| cariboulabs/cariboulite | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-cariboulabs-cariboulite-b5f93f28.md) |
-| codyd51/gypsum | 1.0 | 2024-04-13T21:44:06Z | [open](../records/electromagnetoscopes-codyd51-gypsum-e23d7a76.md) |
-| daniestevez/gr-satellites | v5.9.0 | 2025-12-14T08:56:50Z | [open](../records/electromagnetoscopes-daniestevez-gr-satellites-11887e4d.md) |
-| dslotter/HamPi | 3.0 | 2022-05-30T00:14:43Z | [open](../records/electromagnetoscopes-dslotter-hampi-80a99ee9.md) |
+| cariboulabs/cariboulite | partial | 2025-07-24T17:35:47Z | [open](../records/electromagnetoscopes-cariboulabs-cariboulite-b5f93f28.md) |
+| codyd51/gypsum | partial | 2024-04-15T17:30:55Z | [open](../records/electromagnetoscopes-codyd51-gypsum-e23d7a76.md) |
+| daniestevez/gr-satellites | partial | 2026-08-20T06:26:31Z | [open](../records/electromagnetoscopes-daniestevez-gr-satellites-11887e4d.md) |
+| dslotter/HamPi | partial | 2024-04-17T07:14:11Z | [open](../records/electromagnetoscopes-dslotter-hampi-80a99ee9.md) |
 | EdgeTX/edgetx | v2.12.3 | 2026-08-29T22:52:23Z | [open](../records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) |
-| eldraco/Salamandra | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-eldraco-salamandra-ba7bbc86.md) |
+| eldraco/Salamandra | partial | 2021-01-11T15:40:06Z | [open](../records/electromagnetoscopes-eldraco-salamandra-ba7bbc86.md) |
 | fanmingming/live | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
 | fooyin/fooyin | v0.12.6 | 2026-08-23T00:38:29Z | [open](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) |
-| git-artes/gr-tempest | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-git-artes-gr-tempest-b9f52116.md) |
-| gnss-sdr/gnss-sdr | v0.0.21 | 2026-04-14T07:48:58Z | [open](../records/electromagnetoscopes-gnss-sdr-gnss-sdr-1128bbcc.md) |
-| gnuradio/volk | v3.3.0 | 2026-02-08T15:55:16Z | [open](../records/electromagnetoscopes-gnuradio-volk-04fc44e6.md) |
-| gqrx-sdr/gqrx | v2.17.7 | 2025-05-27T22:42:58Z | [open](../records/electromagnetoscopes-gqrx-sdr-gqrx-a55e0296.md) |
-| ha7ilm/openwebrx | 0.15 | 2017-05-11T09:01:50Z | [open](../records/electromagnetoscopes-ha7ilm-openwebrx-617a3b05.md) |
-| jks-prv/Beagle_SDR_GPS | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-jks-prv-beagle-sdr-gps-fd8f8388.md) |
+| git-artes/gr-tempest | partial | 2025-02-10T16:57:09Z | [open](../records/electromagnetoscopes-git-artes-gr-tempest-b9f52116.md) |
+| gnss-sdr/gnss-sdr | partial | 2026-09-01T21:10:19Z | [open](../records/electromagnetoscopes-gnss-sdr-gnss-sdr-1128bbcc.md) |
+| gnuradio/volk | partial | 2026-08-25T19:50:57Z | [open](../records/electromagnetoscopes-gnuradio-volk-04fc44e6.md) |
+| gqrx-sdr/gqrx | partial | 2026-08-06T20:55:38Z | [open](../records/electromagnetoscopes-gqrx-sdr-gqrx-a55e0296.md) |
+| ha7ilm/openwebrx | partial | 2024-06-16T14:28:22Z | [open](../records/electromagnetoscopes-ha7ilm-openwebrx-617a3b05.md) |
+| jks-prv/Beagle_SDR_GPS | partial | 2024-12-03T02:40:57Z | [open](../records/electromagnetoscopes-jks-prv-beagle-sdr-gps-fd8f8388.md) |
 | junguler/m3u-radio-music-playlists | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-junguler-m3u-radio-music-playlists-309a3992.md) |
 | Kopuz-org/kopuz | v0.16.1 | 2026-08-26T12:12:24Z | [open](../records/electromagnetoscopes-kopuz-org-kopuz-a5fa7420.md) |
 | markqvist/RNode_Firmware | 1.86 | 2026-04-24T08:52:27Z | [open](../records/electromagnetoscopes-markqvist-rnode-firmware-6437b772.md) |
-| mgp25/OpenLTE | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-mgp25-openlte-fd84bffb.md) |
-| muccc/gr-iridium | v1.0.0 | 2022-04-30T20:03:18Z | [open](../records/electromagnetoscopes-muccc-gr-iridium-826df89e.md) |
-| open-sdr/openwifi | v1.5.0 | 2025-08-06T19:27:33Z | [open](../records/electromagnetoscopes-open-sdr-openwifi-80c00ff2.md) |
+| mgp25/OpenLTE | partial | 2021-02-21T19:34:29Z | [open](../records/electromagnetoscopes-mgp25-openlte-fd84bffb.md) |
+| muccc/gr-iridium | partial | 2026-07-02T09:26:47Z | [open](../records/electromagnetoscopes-muccc-gr-iridium-826df89e.md) |
+| open-sdr/openwifi | partial | 2026-08-25T11:02:34Z | [open](../records/electromagnetoscopes-open-sdr-openwifi-80c00ff2.md) |
 | OpenRTX/OpenRTX | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-openrtx-openrtx-82481c7a.md) |
-| pavel-demin/red-pitaya-notes | 20251012 | 2025-10-12T19:04:31Z | [open](../records/electromagnetoscopes-pavel-demin-red-pitaya-notes-00d5e113.md) |
-| pbkhrv/rtl_433-hass-addons | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-pbkhrv-rtl-433-hass-addons-cc86361b.md) |
-| portapack-mayhem/mayhem-firmware | v2.4.0 | 2026-03-24T09:54:49Z | [open](../records/electromagnetoscopes-portapack-mayhem-mayhem-firmware-cb62b83c.md) |
-| rt-bishop/Look4Sat | v4.4.6 | 2026-08-13T07:56:23Z | [open](../records/electromagnetoscopes-rt-bishop-look4sat-dfffa481.md) |
-| SatDump/SatDump | 1.2.2 | 2024-11-29T15:56:47Z | [open](../records/electromagnetoscopes-satdump-satdump-fdc13054.md) |
+| pavel-demin/red-pitaya-notes | partial | 2026-08-29T19:11:52Z | [open](../records/electromagnetoscopes-pavel-demin-red-pitaya-notes-00d5e113.md) |
+| pbkhrv/rtl_433-hass-addons | partial | 2026-06-26T12:07:44Z | [open](../records/electromagnetoscopes-pbkhrv-rtl-433-hass-addons-cc86361b.md) |
+| portapack-mayhem/mayhem-firmware | partial | 2026-08-29T00:27:56Z | [open](../records/electromagnetoscopes-portapack-mayhem-mayhem-firmware-cb62b83c.md) |
+| rt-bishop/Look4Sat | partial | 2026-08-21T12:11:30Z | [open](../records/electromagnetoscopes-rt-bishop-look4sat-dfffa481.md) |
+| SatDump/SatDump | partial | 2026-09-01T19:03:29Z | [open](../records/electromagnetoscopes-satdump-satdump-fdc13054.md) |
 | segler-alex/RadioDroid | 0.86 | 2023-09-28T20:29:41Z | [open](../records/electromagnetoscopes-segler-alex-radiodroid-e99cfdba.md) |
-| TLeconte/acarsdec | acarsdec-3.7 | 2022-08-04T20:03:42Z | [open](../records/electromagnetoscopes-tleconte-acarsdec-cdab05ad.md) |
-| TrunkRecorder/trunk-recorder | v5.2.1 | 2026-04-08T02:03:57Z | [open](../records/electromagnetoscopes-trunkrecorder-trunk-recorder-9795e5f3.md) |
+| TLeconte/acarsdec | partial | 2025-07-31T10:36:21Z | [open](../records/electromagnetoscopes-tleconte-acarsdec-cdab05ad.md) |
+| TrunkRecorder/trunk-recorder | partial | 2026-09-01T12:59:38Z | [open](../records/electromagnetoscopes-trunkrecorder-trunk-recorder-9795e5f3.md) |
 | wiedehopf/readsb | partial | 2026-08-22T14:44:23Z | [open](../records/electromagnetoscopes-wiedehopf-readsb-9832c612.md) |
 | x-extends/vxe-table | partial | 2026-09-01T02:12:13Z | [open](../records/electromagnetoscopes-x-extends-vxe-table-514497aa.md) |
 | xaelsouth/rtl-wmbus | partial | 2026-05-31T04:54:41Z | [open](../records/electromagnetoscopes-xaelsouth-rtl-wmbus-c5bb74ea.md) |

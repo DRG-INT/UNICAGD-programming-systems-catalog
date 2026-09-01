@@ -14,7 +14,7 @@ Records: `156`
 [Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (96)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (682)](database-datastore.md) · **[Datetime (156)](datetime.md)**
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (80)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1138)](filesystem-os.md) · [Formatter (535)](formatter.md)
+[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1139)](filesystem-os.md) · [Formatter (535)](formatter.md)
 [Framework (46)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (139)](game-engine-game-dev.md) · [Ide Editor Integration (1104)](ide-editor-integration.md)
 [Image Audio Dsp (290)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
 [Language Server (26)](language-server.md) · [Language Specification (1220)](language-specification.md) · [Library (4683)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -251,18 +251,18 @@ Records: `156`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| filipsPL/autowx2 | 0.1.6 | 2019-01-24T08:14:44Z | [open](../records/satcom-satellites-filipspl-autowx2-f68452a6.md) |
-| jakiestfu/himawari.js | unknown | github_latest_release_missing | [open](../records/satcom-satellites-jakiestfu-himawari-js-87bf981c.md) |
-| JohnZiangas/Link-Budget-Modeling-for-Q-Band-LEO-Satellite-Communications-with-Adaptive-Coding-and-Modulation | unknown | github_latest_release_missing | [open](../records/satcom-satellites-johnziangas-link-budget-modeling-for-q-band-leo-satellite-communications-with-adaptive-coding-and-modulation-72b8f9a2.md) |
-| sammmlow/ORBITM | 1.0 | 2021-04-15T07:24:31Z | [open](../records/satcom-satellites-sammmlow-orbitm-b6893fc7.md) |
-| VSainteuf/lightweight-temporal-attention-pytorch | unknown | github_latest_release_missing | [open](../records/satcom-satellites-vsainteuf-lightweight-temporal-attention-pytorch-11bc2e8f.md) |
+| filipsPL/autowx2 | partial | 2026-07-04T19:02:09Z | [open](../records/satcom-satellites-filipspl-autowx2-f68452a6.md) |
+| jakiestfu/himawari.js | partial | 2021-11-06T19:36:12Z | [open](../records/satcom-satellites-jakiestfu-himawari-js-87bf981c.md) |
+| JohnZiangas/Link-Budget-Modeling-for-Q-Band-LEO-Satellite-Communications-with-Adaptive-Coding-and-Modulation | partial | 2025-09-16T14:04:30Z | [open](../records/satcom-satellites-johnziangas-link-budget-modeling-for-q-band-leo-satellite-communications-with-adaptive-coding-and-modulation-72b8f9a2.md) |
+| sammmlow/ORBITM | partial | 2024-04-12T22:12:38Z | [open](../records/satcom-satellites-sammmlow-orbitm-b6893fc7.md) |
+| VSainteuf/lightweight-temporal-attention-pytorch | partial | 2020-07-03T18:16:39Z | [open](../records/satcom-satellites-vsainteuf-lightweight-temporal-attention-pytorch-11bc2e8f.md) |
 
 ## Electromagnetoscopes
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| 30hours/blah2 | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-30hours-blah2-83893ba5.md) |
-| watson/airplanejs | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-watson-airplanejs-12c7de1f.md) |
+| 30hours/blah2 | partial | 2026-02-21T00:29:08Z | [open](../records/electromagnetoscopes-30hours-blah2-83893ba5.md) |
+| watson/airplanejs | partial | 2019-05-28T13:57:11Z | [open](../records/electromagnetoscopes-watson-airplanejs-12c7de1f.md) |
 
 ## WebAssembly
 

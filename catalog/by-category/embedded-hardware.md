@@ -14,7 +14,7 @@ Records: `47`
 [Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (96)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (682)](database-datastore.md) · [Datetime (156)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (80)](dependency-manager.md) · [Documentation (77)](documentation.md)
-**[Embedded Hardware (47)](embedded-hardware.md)** · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1138)](filesystem-os.md) · [Formatter (535)](formatter.md)
+**[Embedded Hardware (47)](embedded-hardware.md)** · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1139)](filesystem-os.md) · [Formatter (535)](formatter.md)
 [Framework (46)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (139)](game-engine-game-dev.md) · [Ide Editor Integration (1104)](ide-editor-integration.md)
 [Image Audio Dsp (290)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
 [Language Server (26)](language-server.md) · [Language Specification (1220)](language-specification.md) · [Library (4683)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -138,7 +138,7 @@ Records: `47`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | fulldecent/system-bus-radio | 1.0.0 | 2016-10-27T19:09:59Z | [open](../records/electromagnetoscopes-fulldecent-system-bus-radio-4aafaaaf.md) |
-| open-sdr/openwifi-hw | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-open-sdr-openwifi-hw-23742265.md) |
+| open-sdr/openwifi-hw | partial | 2025-09-23T06:57:55Z | [open](../records/electromagnetoscopes-open-sdr-openwifi-hw-23742265.md) |
 | rtl-sdr | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/electromagnetoscopes-rtl-sdr-7229b2c8.md) |
 
 ## Assembly

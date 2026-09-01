@@ -14,7 +14,7 @@ Records: `405`
 [Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (96)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (682)](database-datastore.md) · [Datetime (156)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (80)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1138)](filesystem-os.md) · [Formatter (535)](formatter.md)
+[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1139)](filesystem-os.md) · [Formatter (535)](formatter.md)
 [Framework (46)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (139)](game-engine-game-dev.md) · [Ide Editor Integration (1104)](ide-editor-integration.md)
 [Image Audio Dsp (290)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
 [Language Server (26)](language-server.md) · [Language Specification (1220)](language-specification.md) · [Library (4683)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -517,19 +517,19 @@ Records: `405`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| kpreid/shinysdr | unknown | github_latest_release_missing | [open](../records/satcom-satellites-kpreid-shinysdr-59c54492.md) |
-| luigifcruz/pisdr-image | v7.0.0-alpha2 | 2023-12-19T17:45:06Z | [open](../records/satcom-satellites-luigifcruz-pisdr-image-8636fb80.md) |
+| kpreid/shinysdr | partial | 2020-09-17T04:34:50Z | [open](../records/satcom-satellites-kpreid-shinysdr-59c54492.md) |
+| luigifcruz/pisdr-image | partial | 2024-01-25T23:31:05Z | [open](../records/satcom-satellites-luigifcruz-pisdr-image-8636fb80.md) |
 
 ## Electromagnetoscopes
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Gqrx | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/electromagnetoscopes-gqrx-10a5b737.md) |
-| kpreid/shinysdr | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-kpreid-shinysdr-75d6b192.md) |
-| luigifcruz/pisdr-image | v7.0.0-alpha2 | 2023-12-19T17:45:06Z | [open](../records/electromagnetoscopes-luigifcruz-pisdr-image-67058165.md) |
-| rsadsb/adsb_deku | v2025.05.03 | 2025-05-03T17:35:23Z | [open](../records/electromagnetoscopes-rsadsb-adsb-deku-b3cb2015.md) |
+| kpreid/shinysdr | partial | 2020-09-17T04:34:50Z | [open](../records/electromagnetoscopes-kpreid-shinysdr-75d6b192.md) |
+| luigifcruz/pisdr-image | partial | 2024-01-25T23:31:05Z | [open](../records/electromagnetoscopes-luigifcruz-pisdr-image-67058165.md) |
+| rsadsb/adsb_deku | partial | 2026-01-04T16:18:33Z | [open](../records/electromagnetoscopes-rsadsb-adsb-deku-b3cb2015.md) |
 | SigDigger | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/electromagnetoscopes-sigdigger-9dac6595.md) |
-| tapparelj/gr-lora_sdr | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-tapparelj-gr-lora-sdr-26e08518.md) |
+| tapparelj/gr-lora_sdr | partial | 2026-01-05T15:46:12Z | [open](../records/electromagnetoscopes-tapparelj-gr-lora-sdr-26e08518.md) |
 
 ## Radio Garden Speciality
 

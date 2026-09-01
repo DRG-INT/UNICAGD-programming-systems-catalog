@@ -14,7 +14,7 @@ Records: `290`
 [Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (96)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (682)](database-datastore.md) · [Datetime (156)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (80)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1138)](filesystem-os.md) · [Formatter (535)](formatter.md)
+[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1139)](filesystem-os.md) · [Formatter (535)](formatter.md)
 [Framework (46)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (139)](game-engine-game-dev.md) · [Ide Editor Integration (1104)](ide-editor-integration.md)
 **[Image Audio Dsp (290)](image-audio-dsp.md)** · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
 [Language Server (26)](language-server.md) · [Language Specification (1220)](language-specification.md) · [Library (4683)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -391,29 +391,29 @@ Records: `290`
 | GNU Radio | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/radars-gnu-radio-be3f3c2f.md) |
 | nasir6/py_cfar | partial | 2019-07-18T14:49:15Z | [open](../records/radars-nasir6-py-cfar-fb389018.md) |
 | odhondt/ndsar | partial | 2019-06-05T08:22:21Z | [open](../records/radars-odhondt-ndsar-356519ee.md) |
-| xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator | unknown | github_latest_release_missing | [open](../records/radars-xds0112-5g-based-system-level-integrated-sensing-and-communication-simulator-e6456eeb.md) |
+| xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator | partial | 2024-10-18T08:08:48Z | [open](../records/radars-xds0112-5g-based-system-level-integrated-sensing-and-communication-simulator-e6456eeb.md) |
 
 ## SatCom Satellites
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| dernasherbrezon/r2cloud | unknown | github_latest_release_missing | [open](../records/satcom-satellites-dernasherbrezon-r2cloud-d7412eaf.md) |
+| dernasherbrezon/r2cloud | partial | 2026-08-09T12:11:09Z | [open](../records/satcom-satellites-dernasherbrezon-r2cloud-d7412eaf.md) |
 | GNU Radio Satellite Workflows | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/satcom-satellites-gnu-radio-satellite-workflows-de665cfb.md) |
 | gr-satellites | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/satcom-satellites-gr-satellites-b6e76f51.md) |
-| jayin92/Skyfall-GS | unknown | github_latest_release_missing | [open](../records/satcom-satellites-jayin92-skyfall-gs-e8526276.md) |
-| lennart-rth/Live-Earth-Wallpapers | v3.4.4 | 2025-07-02T22:57:14Z | [open](../records/satcom-satellites-lennart-rth-live-earth-wallpapers-8a410278.md) |
-| rogerxujiang/dstl_unet | unknown | github_latest_release_missing | [open](../records/satcom-satellites-rogerxujiang-dstl-unet-473fcdd4.md) |
-| sam210723/xrit-rx | v1.3.1 | 2020-10-21T13:01:49Z | [open](../records/satcom-satellites-sam210723-xrit-rx-626364af.md) |
-| Xerbo/aptdec | v1.8.0 | 2023-01-22T14:34:00Z | [open](../records/satcom-satellites-xerbo-aptdec-2da9f6b3.md) |
+| jayin92/Skyfall-GS | partial | 2026-06-20T17:04:54Z | [open](../records/satcom-satellites-jayin92-skyfall-gs-e8526276.md) |
+| lennart-rth/Live-Earth-Wallpapers | partial | 2026-06-24T20:43:10Z | [open](../records/satcom-satellites-lennart-rth-live-earth-wallpapers-8a410278.md) |
+| rogerxujiang/dstl_unet | partial | 2017-10-18T23:29:27Z | [open](../records/satcom-satellites-rogerxujiang-dstl-unet-473fcdd4.md) |
+| sam210723/xrit-rx | partial | 2024-06-15T07:16:13Z | [open](../records/satcom-satellites-sam210723-xrit-rx-626364af.md) |
+| Xerbo/aptdec | partial | 2023-11-30T14:02:26Z | [open](../records/satcom-satellites-xerbo-aptdec-2da9f6b3.md) |
 
 ## Electromagnetoscopes
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| emidan19/deep-tempest | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-emidan19-deep-tempest-2244295b.md) |
+| emidan19/deep-tempest | partial | 2025-05-28T14:13:19Z | [open](../records/electromagnetoscopes-emidan19-deep-tempest-2244295b.md) |
 | GNU Radio | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/electromagnetoscopes-gnu-radio-984c5d95.md) |
-| Mictronics/multi-sdr-gps-sim | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-mictronics-multi-sdr-gps-sim-a3c72c37.md) |
-| miek/inspectrum | v0.4.0 | 2025-12-06T15:44:29Z | [open](../records/electromagnetoscopes-miek-inspectrum-db6d4384.md) |
+| Mictronics/multi-sdr-gps-sim | partial | 2025-01-17T08:08:19Z | [open](../records/electromagnetoscopes-mictronics-multi-sdr-gps-sim-a3c72c37.md) |
+| miek/inspectrum | partial | 2025-12-06T15:44:29Z | [open](../records/electromagnetoscopes-miek-inspectrum-db6d4384.md) |
 
 ## Magazines
 

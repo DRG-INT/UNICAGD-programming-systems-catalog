@@ -14,7 +14,7 @@ Records: `36`
 [Concurrency Parallelism (71)](../by-category/concurrency-parallelism.md) · [Configuration (96)](../by-category/configuration.md) · [Container Deployment (8)](../by-category/container-deployment.md) · [Coverage (11)](../by-category/coverage.md)
 [Cryptography (153)](../by-category/cryptography.md) · [Data Science (32)](../by-category/data-science.md) · [Database Datastore (682)](../by-category/database-datastore.md) · [Datetime (156)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (40)](../by-category/debugger.md) · [Dependency Manager (80)](../by-category/dependency-manager.md) · [Documentation (77)](../by-category/documentation.md)
-[Embedded Hardware (47)](../by-category/embedded-hardware.md) · [Ffi Bindings (376)](../by-category/ffi-bindings.md) · [Filesystem Os (1138)](../by-category/filesystem-os.md) · [Formatter (535)](../by-category/formatter.md)
+[Embedded Hardware (47)](../by-category/embedded-hardware.md) · [Ffi Bindings (376)](../by-category/ffi-bindings.md) · [Filesystem Os (1139)](../by-category/filesystem-os.md) · [Formatter (535)](../by-category/formatter.md)
 [Framework (46)](../by-category/framework.md) · [Fuzzer (48)](../by-category/fuzzer.md) · [Game Engine Game Dev (139)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1104)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (290)](../by-category/image-audio-dsp.md) · [Interop Bindings (52)](../by-category/interop-bindings.md) · [Interpreter Runtime (223)](../by-category/interpreter-runtime.md) · [Jit Vm (56)](../by-category/jit-vm.md)
 [Language Server (26)](../by-category/language-server.md) · [Language Specification (1220)](../by-category/language-specification.md) · [Library (4683)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
@@ -109,7 +109,7 @@ Records: `36`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [0xIonRod/learning-basilisk](../records/basilisk-0xionrod-learning-basilisk-3b9428f3.md) | partial | 2023-06-28T06:42:25Z | registry-derived |
-| [AVSLab/basilisk](../records/basilisk-avslab-basilisk-3f9dd832.md) | partial | 2026-09-01T20:37:01Z | registry-derived |
+| [AVSLab/basilisk](../records/basilisk-avslab-basilisk-3f9dd832.md) | partial | 2026-09-01T22:52:43Z | registry-derived |
 | [CarterBalow/avs-lab-work](../records/basilisk-carterbalow-avs-lab-work-c0f5c66b.md) | partial | 2026-08-27T00:37:57Z | registry-derived |
 | [DISCOWER/bsk-msgs](../records/basilisk-discower-bsk-msgs-80974f96.md) | partial | 2026-07-02T20:47:18Z | registry-derived |
 | [DISCOWER/bsk-ros2-bridge](../records/basilisk-discower-bsk-ros2-bridge-ff7c49fa.md) | partial | 2026-08-25T16:24:45Z | registry-derived |

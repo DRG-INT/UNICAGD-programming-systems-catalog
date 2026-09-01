@@ -14,7 +14,7 @@ Records: `1353`
 [Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (96)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (682)](database-datastore.md) · [Datetime (156)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (80)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1138)](filesystem-os.md) · [Formatter (535)](formatter.md)
+[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1139)](filesystem-os.md) · [Formatter (535)](formatter.md)
 [Framework (46)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (139)](game-engine-game-dev.md) · [Ide Editor Integration (1104)](ide-editor-integration.md)
 [Image Audio Dsp (290)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
 [Language Server (26)](language-server.md) · [Language Specification (1220)](language-specification.md) · [Library (4683)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -1348,27 +1348,27 @@ Records: `1353`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| alanbjohnston/CubeSatSim | v2.2 | 2026-01-28T22:05:43Z | [open](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) |
-| jvde-github/AIS-catcher | v0.70 | 2026-06-19T21:02:40Z | [open](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) |
-| libcsp/libcsp | v2.1 | 2025-10-11T09:35:53Z | [open](../records/satcom-satellites-libcsp-libcsp-abe29c50.md) |
-| raceintospace/raceintospace | v2.0.0 | 2025-03-27T17:48:52Z | [open](../records/satcom-satellites-raceintospace-raceintospace-aabc64c6.md) |
-| sam210723/orbcomm-rx | unknown | github_latest_release_missing | [open](../records/satcom-satellites-sam210723-orbcomm-rx-ccf42f9d.md) |
-| thebaldgeek/thebaldgeek.github.io | unknown | github_latest_release_missing | [open](../records/satcom-satellites-thebaldgeek-thebaldgeek-github-io-2494b7a4.md) |
+| alanbjohnston/CubeSatSim | partial | 2026-09-01T18:16:41Z | [open](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) |
+| jvde-github/AIS-catcher | partial | 2026-09-01T20:31:50Z | [open](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) |
+| libcsp/libcsp | partial | 2026-08-26T05:31:12Z | [open](../records/satcom-satellites-libcsp-libcsp-abe29c50.md) |
+| raceintospace/raceintospace | partial | 2026-09-01T21:25:22Z | [open](../records/satcom-satellites-raceintospace-raceintospace-aabc64c6.md) |
+| sam210723/orbcomm-rx | partial | 2019-12-23T06:01:41Z | [open](../records/satcom-satellites-sam210723-orbcomm-rx-ccf42f9d.md) |
+| thebaldgeek/thebaldgeek.github.io | partial | 2025-10-25T19:14:36Z | [open](../records/satcom-satellites-thebaldgeek-thebaldgeek-github-io-2494b7a4.md) |
 
 ## Electromagnetoscopes
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 720kb/radiobox.css | 1.0.1 | 2016-09-15T06:55:57Z | [open](../records/electromagnetoscopes-720kb-radiobox-css-3e1ebc91.md) |
-| cjcliffe/CubicSDR | 0.2.7 | 2022-02-05T10:57:47Z | [open](../records/electromagnetoscopes-cjcliffe-cubicsdr-4d39607b.md) |
-| f4exb/sdrangel | v7.27.2 | 2026-08-19T18:33:00Z | [open](../records/electromagnetoscopes-f4exb-sdrangel-2939271b.md) |
+| cjcliffe/CubicSDR | partial | 2026-09-01T01:40:51Z | [open](../records/electromagnetoscopes-cjcliffe-cubicsdr-4d39607b.md) |
+| f4exb/sdrangel | partial | 2026-08-30T10:08:39Z | [open](../records/electromagnetoscopes-f4exb-sdrangel-2939271b.md) |
 | greatscottgadgets/ubertooth | 2020-12-R1 | 2020-12-25T21:59:36Z | [open](../records/electromagnetoscopes-greatscottgadgets-ubertooth-28bac228.md) |
-| jvde-github/AIS-catcher | v0.70 | 2026-06-19T21:02:40Z | [open](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) |
-| kismetwireless/kismet | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-kismetwireless-kismet-abff54d8.md) |
+| jvde-github/AIS-catcher | partial | 2026-09-01T20:31:50Z | [open](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) |
+| kismetwireless/kismet | partial | 2026-09-01T15:36:57Z | [open](../records/electromagnetoscopes-kismetwireless-kismet-abff54d8.md) |
 | LargeModGames/spotatui | v0.41.0 | 2026-08-10T20:56:02Z | [open](../records/electromagnetoscopes-largemodgames-spotatui-27906be2.md) |
 | Moosync/Moosync-electron | v10.3.2 | 2024-01-31T06:34:22Z | [open](../records/electromagnetoscopes-moosync-moosync-electron-6b29db05.md) |
-| RedhawkSDR/redhawk | 2.3.2 | 2023-03-03T18:07:25Z | [open](../records/electromagnetoscopes-redhawksdr-redhawk-394b8fa1.md) |
-| Thom-x/docker-fr24feed-piaware-dump1090 | 2.8.0 | 2026-05-28T09:35:48Z | [open](../records/electromagnetoscopes-thom-x-docker-fr24feed-piaware-dump1090-77ea9789.md) |
+| RedhawkSDR/redhawk | partial | 2023-05-12T19:01:24Z | [open](../records/electromagnetoscopes-redhawksdr-redhawk-394b8fa1.md) |
+| Thom-x/docker-fr24feed-piaware-dump1090 | partial | 2026-08-03T18:05:22Z | [open](../records/electromagnetoscopes-thom-x-docker-fr24feed-piaware-dump1090-77ea9789.md) |
 
 ## Magazines
 

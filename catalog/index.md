@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-01T22:21:02+00:00`
+Generated: `2026-09-01T23:17:54+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -12,7 +12,7 @@ Generated: `2026-09-01T22:21:02+00:00`
 [Concurrency Parallelism (71)](by-category/concurrency-parallelism.md) · [Configuration (96)](by-category/configuration.md) · [Container Deployment (8)](by-category/container-deployment.md) · [Coverage (11)](by-category/coverage.md)
 [Cryptography (153)](by-category/cryptography.md) · [Data Science (32)](by-category/data-science.md) · [Database Datastore (682)](by-category/database-datastore.md) · [Datetime (156)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (40)](by-category/debugger.md) · [Dependency Manager (80)](by-category/dependency-manager.md) · [Documentation (77)](by-category/documentation.md)
-[Embedded Hardware (47)](by-category/embedded-hardware.md) · [Ffi Bindings (376)](by-category/ffi-bindings.md) · [Filesystem Os (1138)](by-category/filesystem-os.md) · [Formatter (535)](by-category/formatter.md)
+[Embedded Hardware (47)](by-category/embedded-hardware.md) · [Ffi Bindings (376)](by-category/ffi-bindings.md) · [Filesystem Os (1139)](by-category/filesystem-os.md) · [Formatter (535)](by-category/formatter.md)
 [Framework (46)](by-category/framework.md) · [Fuzzer (48)](by-category/fuzzer.md) · [Game Engine Game Dev (139)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1104)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (290)](by-category/image-audio-dsp.md) · [Interop Bindings (52)](by-category/interop-bindings.md) · [Interpreter Runtime (223)](by-category/interpreter-runtime.md) · [Jit Vm (56)](by-category/jit-vm.md)
 [Language Server (26)](by-category/language-server.md) · [Language Specification (1220)](by-category/language-specification.md) · [Library (4683)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
@@ -70,8 +70,8 @@ Generated: `2026-09-01T22:21:02+00:00`
 | Microscopy | 179 | 0 | [Microscopy](by-language/microscopy.md) |
 | Telescopes | 149 | 0 | [Telescopes](by-language/telescopes.md) |
 | Radars | 149 | 0 | [Radars](by-language/radars.md) |
-| SatCom Satellites | 150 | 74 | [SatCom Satellites](by-language/satcom-satellites.md) |
-| Electromagnetoscopes | 138 | 88 | [Electromagnetoscopes](by-language/electromagnetoscopes.md) |
+| SatCom Satellites | 151 | 0 | [SatCom Satellites](by-language/satcom-satellites.md) |
+| Electromagnetoscopes | 138 | 23 | [Electromagnetoscopes](by-language/electromagnetoscopes.md) |
 | Radio Garden Speciality | 15 | 0 | [Radio Garden Speciality](by-language/radio-garden-speciality.md) |
 | Repertoare Catalogs | 8 | 0 | [Repertoare Catalogs](by-language/repertoare-catalogs.md) |
 | Catalogs | 10 | 0 | [Catalogs](by-language/catalogs.md) |
@@ -118,7 +118,7 @@ Generated: `2026-09-01T22:21:02+00:00`
 | Documentation | 77 | [documentation](by-category/documentation.md) |
 | Embedded Hardware | 47 | [embedded_hardware](by-category/embedded-hardware.md) |
 | Ffi Bindings | 376 | [ffi_bindings](by-category/ffi-bindings.md) |
-| Filesystem Os | 1138 | [filesystem_os](by-category/filesystem-os.md) |
+| Filesystem Os | 1139 | [filesystem_os](by-category/filesystem-os.md) |
 | Formatter | 535 | [formatter](by-category/formatter.md) |
 | Framework | 46 | [framework](by-category/framework.md) |
 | Fuzzer | 48 | [fuzzer](by-category/fuzzer.md) |
@@ -207,8 +207,8 @@ Generated: `2026-09-01T22:21:02+00:00`
 | Microscopy | 0 | 179 |
 | Telescopes | 0 | 149 |
 | Radars | 0 | 149 |
-| SatCom Satellites | 74 | 76 |
-| Electromagnetoscopes | 88 | 50 |
+| SatCom Satellites | 0 | 151 |
+| Electromagnetoscopes | 23 | 115 |
 | Radio Garden Speciality | 0 | 15 |
 | Repertoare Catalogs | 0 | 8 |
 | Catalogs | 0 | 10 |

@@ -14,7 +14,7 @@ Records: `1104`
 [Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (96)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (682)](database-datastore.md) · [Datetime (156)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (80)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1138)](filesystem-os.md) · [Formatter (535)](formatter.md)
+[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1139)](filesystem-os.md) · [Formatter (535)](formatter.md)
 [Framework (46)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (139)](game-engine-game-dev.md) · **[Ide Editor Integration (1104)](ide-editor-integration.md)**
 [Image Audio Dsp (290)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
 [Language Server (26)](language-server.md) · [Language Specification (1220)](language-specification.md) · [Library (4683)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -670,7 +670,7 @@ Records: `1104`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-01T10:30:45Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-01T20:36:42Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-01T23:14:29Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-08-29T11:00:38Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-01T10:47:23Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-01T21:08:42Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
@@ -866,7 +866,7 @@ Records: `1104`
 | Doikki/DKVideoPlayer | partial | 2024-06-03T02:41:30Z | [open](../records/video-doikki-dkvideoplayer-613e3cc6.md) |
 | ErickWendel/semana-javascript-expert08 | partial | 2025-01-07T14:32:57Z | [open](../records/video-erickwendel-semana-javascript-expert08-10b9c0ec.md) |
 | f0e/blur | partial | 2026-09-01T17:01:01Z | [open](../records/video-f0e-blur-7f222224.md) |
-| FFmpeg/FFmpeg | partial | 2026-09-01T12:29:14Z | [open](../records/video-ffmpeg-ffmpeg-9c6919a8.md) |
+| FFmpeg/FFmpeg | partial | 2026-09-01T22:49:33Z | [open](../records/video-ffmpeg-ffmpeg-9c6919a8.md) |
 | ffmpegwasm/ffmpeg.wasm | partial | 2026-02-01T08:35:30Z | [open](../records/video-ffmpegwasm-ffmpeg-wasm-d150b28e.md) |
 | gnes-ai/gnes | partial | 2019-10-31T11:36:15Z | [open](../records/video-gnes-ai-gnes-9dcb0deb.md) |
 | gwuhaolin/livego | partial | 2025-12-05T02:41:24Z | [open](../records/video-gwuhaolin-livego-af7f6b08.md) |
@@ -874,7 +874,7 @@ Records: `1104`
 | HA6Bots/TikTok-Compilation-Video-Generator | partial | 2024-08-04T13:44:11Z | [open](../records/video-ha6bots-tiktok-compilation-video-generator-2f38a80d.md) |
 | haasn/libplacebo | partial | 2026-09-01T11:12:15Z | [open](../records/video-haasn-libplacebo-801cca80.md) |
 | HeiSir2014/M3U8-Downloader | partial | 2025-03-19T15:28:29Z | [open](../records/video-heisir2014-m3u8-downloader-23d9af39.md) |
-| heygen-com/hyperframes | partial | 2026-09-01T21:03:30Z | [open](../records/video-heygen-com-hyperframes-39e19bfa.md) |
+| heygen-com/hyperframes | partial | 2026-09-01T23:15:05Z | [open](../records/video-heygen-com-hyperframes-39e19bfa.md) |
 | Hunlongyu/ZY-Player | partial | 2023-02-09T06:33:07Z | [open](../records/video-hunlongyu-zy-player-c74fadea.md) |
 | hybridgroup/gocv | partial | 2026-05-28T08:16:03Z | [open](../records/video-hybridgroup-gocv-daa4c904.md) |
 | iawia002/lux | partial | 2026-03-29T18:18:56Z | [open](../records/video-iawia002-lux-e7456e22.md) |
@@ -922,7 +922,7 @@ Records: `1104`
 | OpenShot/openshot-qt | partial | 2026-09-01T03:31:09Z | [open](../records/video-openshot-openshot-qt-c99a1faa.md) |
 | ORB-HD/deface | partial | 2024-10-13T21:56:24Z | [open](../records/video-orb-hd-deface-821a4649.md) |
 | ossrs/srs | partial | 2026-08-26T15:30:55Z | [open](../records/video-ossrs-srs-c3ecdeaf.md) |
-| owncast/owncast | partial | 2026-09-01T19:45:59Z | [open](../records/video-owncast-owncast-b3a35889.md) |
+| owncast/owncast | partial | 2026-09-01T23:13:00Z | [open](../records/video-owncast-owncast-b3a35889.md) |
 | pion/webrtc | partial | 2026-09-01T02:50:40Z | [open](../records/video-pion-webrtc-db831169.md) |
 | prouast/heartbeat | partial | 2026-03-02T04:39:18Z | [open](../records/video-prouast-heartbeat-a2923779.md) |
 | qTox/qTox | partial | 2025-02-16T14:21:41Z | [open](../records/video-qtox-qtox-a43b9736.md) |
@@ -950,7 +950,7 @@ Records: `1104`
 | whitphx/streamlit-webrtc | partial | 2026-09-01T21:51:38Z | [open](../records/video-whitphx-streamlit-webrtc-b3307bc7.md) |
 | williamyang1991/FRESCO | partial | 2024-05-24T10:29:17Z | [open](../records/video-williamyang1991-fresco-b6f6c186.md) |
 | williamyang1991/Rerender_A_Video | partial | 2024-03-09T12:34:21Z | [open](../records/video-williamyang1991-rerender-a-video-348cf4ec.md) |
-| wiltodelta/remove-ai-watermarks | partial | 2026-09-01T18:37:41Z | [open](../records/video-wiltodelta-remove-ai-watermarks-ac76ecc7.md) |
+| wiltodelta/remove-ai-watermarks | partial | 2026-09-01T22:43:27Z | [open](../records/video-wiltodelta-remove-ai-watermarks-ac76ecc7.md) |
 | wxbool/video-srt-windows | partial | 2023-03-10T05:03:22Z | [open](../records/video-wxbool-video-srt-windows-660989b7.md) |
 | WyattBlue/auto-editor | partial | 2026-08-25T22:23:53Z | [open](../records/video-wyattblue-auto-editor-c71dc819.md) |
 | x007xyz/flycut | partial | 2024-10-10T08:23:42Z | [open](../records/video-x007xyz-flycut-195646ac.md) |
@@ -1077,7 +1077,7 @@ Records: `1104`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ashuttl/linecast | partial | 2026-09-01T21:20:14Z | [open](../records/radars-ashuttl-linecast-afb4bdb7.md) |
+| ashuttl/linecast | partial | 2026-09-01T22:24:35Z | [open](../records/radars-ashuttl-linecast-afb4bdb7.md) |
 | bellingcat/sar-interference-tracker | partial | 2022-02-23T13:57:03Z | [open](../records/radars-bellingcat-sar-interference-tracker-8efa36c7.md) |
 | bellingcat/umbra-open-data-tracker | partial | 2026-08-03T14:44:41Z | [open](../records/radars-bellingcat-umbra-open-data-tracker-b56dce91.md) |
 | CyanideCN/PyCINRAD | partial | 2026-06-26T10:45:59Z | [open](../records/radars-cyanidecn-pycinrad-fe2b1f00.md) |
@@ -1087,19 +1087,19 @@ Records: `1104`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bellingcat/sar-interference-tracker | unknown | github_latest_release_missing | [open](../records/satcom-satellites-bellingcat-sar-interference-tracker-812a2aa7.md) |
-| cbassa/stvid | unknown | github_latest_release_missing | [open](../records/satcom-satellites-cbassa-stvid-b0821bf9.md) |
-| CScorza/GEOINTInvestigation | unknown | github_latest_release_missing | [open](../records/satcom-satellites-cscorza-geointinvestigation-97ccfead.md) |
-| dividebysandwich/sdroxide | v1.6.2 | 2026-08-31T21:13:07Z | [open](../records/satcom-satellites-dividebysandwich-sdroxide-b0d1a434.md) |
-| sabbir-uoulu/open-source-5g-ntn | v1.0.0 | 2026-06-08T06:18:11Z | [open](../records/satcom-satellites-sabbir-uoulu-open-source-5g-ntn-bc3690cb.md) |
+| bellingcat/sar-interference-tracker | partial | 2022-02-23T13:57:03Z | [open](../records/satcom-satellites-bellingcat-sar-interference-tracker-812a2aa7.md) |
+| cbassa/stvid | partial | 2026-06-14T12:26:58Z | [open](../records/satcom-satellites-cbassa-stvid-b0821bf9.md) |
+| CScorza/GEOINTInvestigation | partial | 2025-08-08T09:23:42Z | [open](../records/satcom-satellites-cscorza-geointinvestigation-97ccfead.md) |
+| dividebysandwich/sdroxide | partial | 2026-09-01T20:48:49Z | [open](../records/satcom-satellites-dividebysandwich-sdroxide-b0d1a434.md) |
+| sabbir-uoulu/open-source-5g-ntn | partial | 2026-08-22T18:43:43Z | [open](../records/satcom-satellites-sabbir-uoulu-open-source-5g-ntn-bc3690cb.md) |
 
 ## Electromagnetoscopes
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| 777arc/PySDR | 2026-09-01 | 2026-09-01T06:21:19Z | [open](../records/electromagnetoscopes-777arc-pysdr-75b8d003.md) |
-| AresValley/Artemis | v4.2.0 | 2026-07-18T16:03:00Z | [open](../records/electromagnetoscopes-aresvalley-artemis-b7d5042b.md) |
-| JonaNorman/HDRSample | 1.0 | 2023-10-07T06:18:58Z | [open](../records/electromagnetoscopes-jonanorman-hdrsample-ac827086.md) |
+| 777arc/PySDR | partial | 2026-09-01T14:56:23Z | [open](../records/electromagnetoscopes-777arc-pysdr-75b8d003.md) |
+| AresValley/Artemis | partial | 2026-07-22T21:31:27Z | [open](../records/electromagnetoscopes-aresvalley-artemis-b7d5042b.md) |
+| JonaNorman/HDRSample | partial | 2024-08-01T09:01:08Z | [open](../records/electromagnetoscopes-jonanorman-hdrsample-ac827086.md) |
 | wenzhixin/bootstrap-table | 1.27.3 | 2026-04-23T23:57:13Z | [open](../records/electromagnetoscopes-wenzhixin-bootstrap-table-50c48a32.md) |
 | wiedehopf/tar1090 | partial | 2026-08-27T07:52:44Z | [open](../records/electromagnetoscopes-wiedehopf-tar1090-c8688d5c.md) |
 

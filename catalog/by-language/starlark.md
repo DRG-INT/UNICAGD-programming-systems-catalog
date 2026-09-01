@@ -14,7 +14,7 @@ Records: `69`
 [Concurrency Parallelism (71)](../by-category/concurrency-parallelism.md) · [Configuration (96)](../by-category/configuration.md) · [Container Deployment (8)](../by-category/container-deployment.md) · [Coverage (11)](../by-category/coverage.md)
 [Cryptography (153)](../by-category/cryptography.md) · [Data Science (32)](../by-category/data-science.md) · [Database Datastore (682)](../by-category/database-datastore.md) · [Datetime (156)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (40)](../by-category/debugger.md) · [Dependency Manager (80)](../by-category/dependency-manager.md) · [Documentation (77)](../by-category/documentation.md)
-[Embedded Hardware (47)](../by-category/embedded-hardware.md) · [Ffi Bindings (376)](../by-category/ffi-bindings.md) · [Filesystem Os (1138)](../by-category/filesystem-os.md) · [Formatter (535)](../by-category/formatter.md)
+[Embedded Hardware (47)](../by-category/embedded-hardware.md) · [Ffi Bindings (376)](../by-category/ffi-bindings.md) · [Filesystem Os (1139)](../by-category/filesystem-os.md) · [Formatter (535)](../by-category/formatter.md)
 [Framework (46)](../by-category/framework.md) · [Fuzzer (48)](../by-category/fuzzer.md) · [Game Engine Game Dev (139)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1104)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (290)](../by-category/image-audio-dsp.md) · [Interop Bindings (52)](../by-category/interop-bindings.md) · [Interpreter Runtime (223)](../by-category/interpreter-runtime.md) · [Jit Vm (56)](../by-category/jit-vm.md)
 [Language Server (26)](../by-category/language-server.md) · [Language Specification (1220)](../by-category/language-specification.md) · [Library (4683)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
@@ -33,8 +33,8 @@ Records: `69`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [adobe/rules_gitops](../records/starlark-adobe-rules-gitops-09140ed0.md) | partial | 2026-08-30T23:32:18Z | registry-derived |
-| [aspect-build/rules_js](../records/starlark-aspect-build-rules-js-fd75b379.md) | partial | 2026-09-01T22:10:30Z | registry-derived |
-| [aspect-build/rules_py](../records/starlark-aspect-build-rules-py-910f4833.md) | partial | 2026-09-01T22:09:43Z | registry-derived |
+| [aspect-build/rules_js](../records/starlark-aspect-build-rules-js-fd75b379.md) | partial | 2026-09-01T23:07:05Z | registry-derived |
+| [aspect-build/rules_py](../records/starlark-aspect-build-rules-py-910f4833.md) | partial | 2026-09-01T22:59:27Z | registry-derived |
 | [Bazel](../records/starlark-bazel-189ae4a2.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [bazel-contrib/bazel-lib](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) | partial | 2026-09-01T18:10:00Z | registry-derived |
 | [bazel-contrib/rules_cuda](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) | partial | 2026-09-01T16:33:31Z | registry-derived |
@@ -107,7 +107,7 @@ Records: `69`
 | --- | --- | --- | --- |
 | [bazel-contrib/rules_foreign_cc](../records/starlark-bazel-contrib-rules-foreign-cc-74f543fe.md) | partial | 2026-06-28T01:47:45Z | registry-derived |
 | [bazel-contrib/rules_nodejs](../records/starlark-bazel-contrib-rules-nodejs-6ba164bc.md) | partial | 2026-09-01T16:15:55Z | registry-derived |
-| [bazel-contrib/rules_python](../records/starlark-bazel-contrib-rules-python-3138da4d.md) | partial | 2026-09-01T10:22:02Z | registry-derived |
+| [bazel-contrib/rules_python](../records/starlark-bazel-contrib-rules-python-3138da4d.md) | partial | 2026-09-01T22:30:26Z | registry-derived |
 | [bazelbuild/examples](../records/starlark-bazelbuild-examples-aa7ebe53.md) | partial | 2026-08-31T14:21:32Z | registry-derived |
 | [bazelbuild/rules_apple](../records/starlark-bazelbuild-rules-apple-9bc4356d.md) | partial | 2026-09-01T22:13:44Z | registry-derived |
 | [bazelbuild/rules_docker](../records/starlark-bazelbuild-rules-docker-9df12e7c.md) | partial | 2025-12-22T00:24:32Z | registry-derived |
@@ -140,7 +140,7 @@ Records: `69`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [protoconf/protoconf](../records/starlark-protoconf-protoconf-2d2b3184.md) | partial | 2026-09-01T22:18:44Z | registry-derived |
+| [protoconf/protoconf](../records/starlark-protoconf-protoconf-2d2b3184.md) | partial | 2026-09-01T22:21:39Z | registry-derived |
 | [remarshal-project/remarshal](../records/starlark-remarshal-project-remarshal-9ffddf4f.md) | partial | 2026-08-01T07:20:07Z | registry-derived |
 
 ### Undefined Behavior Analyzer

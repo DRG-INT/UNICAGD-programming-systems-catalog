@@ -14,7 +14,7 @@ Records: `381`
 [Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (96)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (682)](database-datastore.md) · [Datetime (156)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (80)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1138)](filesystem-os.md) · [Formatter (535)](formatter.md)
+[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1139)](filesystem-os.md) · [Formatter (535)](formatter.md)
 [Framework (46)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (139)](game-engine-game-dev.md) · [Ide Editor Integration (1104)](ide-editor-integration.md)
 [Image Audio Dsp (290)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
 [Language Server (26)](language-server.md) · [Language Specification (1220)](language-specification.md) · [Library (4683)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -340,8 +340,8 @@ Records: `381`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 2noise/ChatTTS | partial | 2026-04-10T16:33:48Z | [open](../records/aim-s-2noise-chattts-5e993170.md) |
-| langfuse/langfuse | partial | 2026-09-01T22:07:41Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
-| microsoft/semantic-kernel | partial | 2026-09-01T21:20:24Z | [open](../records/aim-s-microsoft-semantic-kernel-ef95bef0.md) |
+| langfuse/langfuse | partial | 2026-09-01T22:53:45Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
+| microsoft/semantic-kernel | partial | 2026-09-01T22:19:03Z | [open](../records/aim-s-microsoft-semantic-kernel-ef95bef0.md) |
 | MLflow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-mlflow-1732aa2b.md) |
 | OpenTelemetry Semantic Conventions For GenAI | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-opentelemetry-semantic-conventions-for-genai-e834f611.md) |
 
@@ -497,18 +497,18 @@ Records: `381`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ANG13T/SatIntel | unknown | github_latest_release_missing | [open](../records/satcom-satellites-ang13t-satintel-b65eedb1.md) |
-| mendhak/gpslogger | v137 | 2026-08-14T08:24:31Z | [open](../records/satcom-satellites-mendhak-gpslogger-84bde361.md) |
-| sam210723/COMS-1 | unknown | github_latest_release_missing | [open](../records/satcom-satellites-sam210723-coms-1-fe0ec3b6.md) |
-| sgoudelis/ground-station | v0.8.3 | 2026-08-29T18:35:37Z | [open](../records/satcom-satellites-sgoudelis-ground-station-5494598a.md) |
+| ANG13T/SatIntel | partial | 2024-03-15T16:29:23Z | [open](../records/satcom-satellites-ang13t-satintel-b65eedb1.md) |
+| mendhak/gpslogger | partial | 2026-08-31T07:06:11Z | [open](../records/satcom-satellites-mendhak-gpslogger-84bde361.md) |
+| sam210723/COMS-1 | partial | 2019-08-03T07:17:39Z | [open](../records/satcom-satellites-sam210723-coms-1-fe0ec3b6.md) |
+| sgoudelis/ground-station | partial | 2026-09-01T18:54:48Z | [open](../records/satcom-satellites-sgoudelis-ground-station-5494598a.md) |
 
 ## Electromagnetoscopes
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | analogcode/Swift-Radio-Pro | v3.1.0 | 2026-07-04T20:18:33Z | [open](../records/electromagnetoscopes-analogcode-swift-radio-pro-46d0d487.md) |
-| analogdevicesinc/plutosdr-fw | v0.39 | 2024-10-15T08:45:31Z | [open](../records/electromagnetoscopes-analogdevicesinc-plutosdr-fw-c02de597.md) |
-| sgoudelis/ground-station | v0.8.3 | 2026-08-29T18:35:37Z | [open](../records/electromagnetoscopes-sgoudelis-ground-station-36e5d6db.md) |
+| analogdevicesinc/plutosdr-fw | partial | 2026-08-13T21:21:29Z | [open](../records/electromagnetoscopes-analogdevicesinc-plutosdr-fw-c02de597.md) |
+| sgoudelis/ground-station | partial | 2026-09-01T18:54:48Z | [open](../records/electromagnetoscopes-sgoudelis-ground-station-36e5d6db.md) |
 
 ## Magazines
 

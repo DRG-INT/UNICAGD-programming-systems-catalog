@@ -14,7 +14,7 @@ Records: `897`
 [Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (96)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (682)](database-datastore.md) · [Datetime (156)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (80)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1138)](filesystem-os.md) · [Formatter (535)](formatter.md)
+[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1139)](filesystem-os.md) · [Formatter (535)](formatter.md)
 [Framework (46)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (139)](game-engine-game-dev.md) · [Ide Editor Integration (1104)](ide-editor-integration.md)
 [Image Audio Dsp (290)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
 [Language Server (26)](language-server.md) · [Language Specification (1220)](language-specification.md) · [Library (4683)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -755,8 +755,8 @@ Records: `897`
 | ChimeraCoder/anaconda | partial | 2024-01-28T15:07:20Z | [open](../records/go-chimeracoder-anaconda-6a61e747.md) |
 | g3n/engine | partial | 2026-08-01T16:23:05Z | [open](../records/go-g3n-engine-0b367039.md) |
 | go-resty/resty | partial | 2026-07-26T00:45:12Z | [open](../records/go-go-resty-resty-9cfada1b.md) |
-| redis/go-redis | partial | 2026-09-01T21:05:27Z | [open](../records/go-redis-go-redis-fe715a04.md) |
-| spicetify/cli | partial | 2026-09-01T12:42:37Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
+| redis/go-redis | partial | 2026-09-01T22:40:57Z | [open](../records/go-redis-go-redis-fe715a04.md) |
+| spicetify/cli | partial | 2026-09-01T23:10:31Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
 | teler-sh/teler-waf | partial | 2025-03-18T01:40:27Z | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
 | xiaolincoder/CS-Base | partial | 2024-11-27T06:32:13Z | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
 | yincongcyincong/mcp-client-go | partial | 2025-09-09T09:54:40Z | [open](../records/go-yincongcyincong-mcp-client-go-551e8f66.md) |
@@ -934,22 +934,22 @@ Records: `897`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| airframesio/xng | v0.21.0 | 2026-06-19T05:28:42Z | [open](../records/satcom-satellites-airframesio-xng-5cd5b6f4.md) |
-| ameraner/dsen2-cr | unknown | github_latest_release_missing | [open](../records/satcom-satellites-ameraner-dsen2-cr-ac4429cc.md) |
-| dotchance/nodalarc | unknown | github_latest_release_missing | [open](../records/satcom-satellites-dotchance-nodalarc-405a4881.md) |
-| Muhammaduazir69/ns3-ntn-toolkit | v2.0.2 | 2026-06-04T21:39:28Z | [open](../records/satcom-satellites-muhammaduazir69-ns3-ntn-toolkit-5e9691a1.md) |
-| osmocom/gr-osmosdr | unknown | github_latest_release_missing | [open](../records/satcom-satellites-osmocom-gr-osmosdr-87d71d7c.md) |
-| SatCom-TELMA/MA-DRL_Routing_Simulator | unknown | github_latest_release_missing | [open](../records/satcom-satellites-satcom-telma-ma-drl-routing-simulator-149f4099.md) |
+| airframesio/xng | partial | 2026-08-20T18:33:26Z | [open](../records/satcom-satellites-airframesio-xng-5cd5b6f4.md) |
+| ameraner/dsen2-cr | partial | 2026-01-26T16:29:38Z | [open](../records/satcom-satellites-ameraner-dsen2-cr-ac4429cc.md) |
+| dotchance/nodalarc | partial | 2026-08-29T05:10:49Z | [open](../records/satcom-satellites-dotchance-nodalarc-405a4881.md) |
+| Muhammaduazir69/ns3-ntn-toolkit | partial | 2026-08-28T00:01:01Z | [open](../records/satcom-satellites-muhammaduazir69-ns3-ntn-toolkit-5e9691a1.md) |
+| osmocom/gr-osmosdr | partial | 2026-08-22T23:11:47Z | [open](../records/satcom-satellites-osmocom-gr-osmosdr-87d71d7c.md) |
+| SatCom-TELMA/MA-DRL_Routing_Simulator | partial | 2026-05-31T02:31:27Z | [open](../records/satcom-satellites-satcom-telma-ma-drl-routing-simulator-149f4099.md) |
 | SatNOGS Client | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/satcom-satellites-satnogs-client-7b421507.md) |
-| yeliqseu/tcp-lte-sat | unknown | github_latest_release_missing | [open](../records/satcom-satellites-yeliqseu-tcp-lte-sat-ae528824.md) |
+| yeliqseu/tcp-lte-sat | partial | 2023-07-27T09:05:23Z | [open](../records/satcom-satellites-yeliqseu-tcp-lte-sat-ae528824.md) |
 
 ## Electromagnetoscopes
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | liamcottle/reticulum-meshchat | v2.4.0 | 2026-07-06T09:48:17Z | [open](../records/electromagnetoscopes-liamcottle-reticulum-meshchat-06a9395e.md) |
-| osmocom/gr-osmosdr | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-osmocom-gr-osmosdr-e519982e.md) |
-| osmocom/rtl-sdr | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-osmocom-rtl-sdr-3b21ada6.md) |
+| osmocom/gr-osmosdr | partial | 2026-08-22T23:11:47Z | [open](../records/electromagnetoscopes-osmocom-gr-osmosdr-e519982e.md) |
+| osmocom/rtl-sdr | partial | 2026-08-11T22:46:48Z | [open](../records/electromagnetoscopes-osmocom-rtl-sdr-3b21ada6.md) |
 
 ## Magazines
 

@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-01T22:21:02+00:00`
+Generated: `2026-09-01T23:17:54+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -12,7 +12,7 @@ Generated: `2026-09-01T22:21:02+00:00`
 [Concurrency Parallelism (71)](by-category/concurrency-parallelism.md) · [Configuration (96)](by-category/configuration.md) · [Container Deployment (8)](by-category/container-deployment.md) · [Coverage (11)](by-category/coverage.md)
 [Cryptography (153)](by-category/cryptography.md) · [Data Science (32)](by-category/data-science.md) · [Database Datastore (682)](by-category/database-datastore.md) · [Datetime (156)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (40)](by-category/debugger.md) · [Dependency Manager (80)](by-category/dependency-manager.md) · [Documentation (77)](by-category/documentation.md)
-[Embedded Hardware (47)](by-category/embedded-hardware.md) · [Ffi Bindings (376)](by-category/ffi-bindings.md) · [Filesystem Os (1138)](by-category/filesystem-os.md) · [Formatter (535)](by-category/formatter.md)
+[Embedded Hardware (47)](by-category/embedded-hardware.md) · [Ffi Bindings (376)](by-category/ffi-bindings.md) · [Filesystem Os (1139)](by-category/filesystem-os.md) · [Formatter (535)](by-category/formatter.md)
 [Framework (46)](by-category/framework.md) · [Fuzzer (48)](by-category/fuzzer.md) · [Game Engine Game Dev (139)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1104)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (290)](by-category/image-audio-dsp.md) · [Interop Bindings (52)](by-category/interop-bindings.md) · [Interpreter Runtime (223)](by-category/interpreter-runtime.md) · [Jit Vm (56)](by-category/jit-vm.md)
 [Language Server (26)](by-category/language-server.md) · [Language Specification (1220)](by-category/language-specification.md) · [Library (4683)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
@@ -28,8 +28,8 @@ Generated: `2026-09-01T22:21:02+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10041 |
-| Unknown stable release | 11708 |
+| Known stable release | 9902 |
+| Unknown stable release | 11848 |
 
 ## Newest Known Stable Metadata
 
@@ -205,7 +205,6 @@ Generated: `2026-09-01T22:21:02+00:00`
 | flutter_webrtc | Dart | Filesystem Os | 1.6.1 | 2026-09-01T06:50:58.044646Z | [open](records/dart-flutter-webrtc-afeba3f1.md) |
 | date_picker_plus | Dart | Ide Editor Integration | 8.0.0 | 2026-09-01T06:46:18.740759Z | [open](records/dart-date-picker-plus-814ef4e0.md) |
 | abstract-toolserver | Python | Web Framework | 0.0.22 | 2026-09-01T06:29:31.049234Z | [open](records/python-abstract-toolserver-d8297bdb.md) |
-| 777arc/PySDR | Electromagnetoscopes | Ide Editor Integration | 2026-09-01 | 2026-09-01T06:21:19Z | [open](records/electromagnetoscopes-777arc-pysdr-75b8d003.md) |
 | @socketsecurity/cli | Node.js/JavaScript | Security Sast | 1.1.163 | 2026-09-01T06:12:19.930Z | [open](records/node-js-javascript-socketsecurity-cli-52cf377d.md) |
 | locize-cli | Node.js/JavaScript | Cli | 12.7.0 | 2026-09-01T05:39:48.244Z | [open](records/node-js-javascript-locize-cli-9156d8b9.md) |
 | @github/copilot-language-server-win32-x64 | Node.js/JavaScript | Language Specification | 1.539.0 | 2026-09-01T04:35:48.750Z | [open](records/node-js-javascript-github-copilot-language-server-win32-x64-bfb04d01.md) |
@@ -285,20 +284,21 @@ Generated: `2026-09-01T22:21:02+00:00`
 | logtree | R | Logging Observability | 0.2.0 | 2026-09-01 10:30:10 UTC | [open](records/r-logtree-c8fc4dc5.md) |
 | messydates | R | Datetime | 1.1.1 | 2026-09-01 10:30:03 UTC | [open](records/r-messydates-74d00e9f.md) |
 | pdftools | R | Library | 3.9.1 | 2026-09-01 10:20:02 UTC | [open](records/r-pdftools-edd0e31f.md) |
+| xpose.xtras | R | Filesystem Os | 0.2.2 | 2026-09-01 10:10:03 UTC | [open](records/r-xpose-xtras-bb40722d.md) |
 
 ## Unknown Reasons
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 3872 |
+| gh_search_reports_activity_not_release_version | 4112 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
 | github_search_does_not_include_release_date | 573 |
 | packagist_package_metadata_missing | 475 |
-| github_latest_release_missing | 430 |
 | go_module_index_event_is_preview_or_pseudoversion | 414 |
 | curated_language_route_requires_source_specific_release_lookup | 400 |
+| github_latest_release_missing | 330 |
 | awesome_list_does_not_include_release_date | 237 |
 | gitlab_projects_api_reports_activity_not_release_version | 191 |
 | gitea_search_api_reports_activity_not_release_version | 163 |
@@ -325,7 +325,6 @@ Generated: `2026-09-01T22:21:02+00:00`
 | meshtastic/Meshtastic-Android | Electromagnetoscopes | preview | snapshot | 2026-08-31T21:35:59Z | [open](records/electromagnetoscopes-meshtastic-meshtastic-android-24c81b27.md) |
 | sentry_dio | Dart | preview | 10.0.0-alpha.4 | 2026-08-31T19:18:19.459084Z | [open](records/dart-sentry-dio-7067a5da.md) |
 | sentry | Dart | preview | 10.0.0-alpha.4 | 2026-08-31T19:18:09.202960Z | [open](records/dart-sentry-27c4653e.md) |
-| PentHertz/RF-Swift | Electromagnetoscopes | preview | v4.0.1-dev | 2026-08-31T12:27:02Z | [open](records/electromagnetoscopes-penthertz-rf-swift-91a223bf.md) |
 | kalender | Dart | preview | 0.29.0-dev.1 | 2026-08-31T09:58:01.412806Z | [open](records/dart-kalender-10f50158.md) |
 | jingjing2222/react-native-nitro-geolocation | Maps | preview | react-native-nitro-geolocation@2.0.0-rc.5 | 2026-08-31T02:26:02Z | [open](records/maps-jingjing2222-react-native-nitro-geolocation-88c61895.md) |
 | flex_color_picker | Dart | preview | 4.0.0-dev.1 | 2026-08-30T20:10:45.213493Z | [open](records/dart-flex-color-picker-044375d9.md) |
@@ -565,3 +564,4 @@ Generated: `2026-09-01T22:21:02+00:00`
 | github.com/vibrantgio/workbench | Go | module-preview | v0.0.0-20260830112549-a3e36b4de823 | 2026-08-30T12:52:55.908471Z | [open](records/go-github-com-vibrantgio-workbench-38e97b77.md) |
 | github.com/kumparan/cacher | Go | module-preview | v1.23.1-0.20260830125208-962ffb391b33 | 2026-08-30T12:52:41.579585Z | [open](records/go-github-com-kumparan-cacher-403eb036.md) |
 | github.com/owncast/owncast.github.io | Go | module-preview | v0.0.0-20260830123035-4bb9d3b3d755 | 2026-08-30T12:52:38.437753Z | [open](records/go-github-com-owncast-owncast-github-io-3ee8bee1.md) |
+| github.com/nvidia/gpu-operator | Go | module-preview | v1.8.3-0.20260828222311-fa49ea63b839 | 2026-08-30T12:52:25.491476Z | [open](records/go-github-com-nvidia-gpu-operator-f8ad7b02.md) |

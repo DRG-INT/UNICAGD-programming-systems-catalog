@@ -14,7 +14,7 @@ Records: `488`
 [Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (96)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (682)](database-datastore.md) · [Datetime (156)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (80)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1138)](filesystem-os.md) · [Formatter (535)](formatter.md)
+[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1139)](filesystem-os.md) · [Formatter (535)](formatter.md)
 [Framework (46)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (139)](game-engine-game-dev.md) · [Ide Editor Integration (1104)](ide-editor-integration.md)
 [Image Audio Dsp (290)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
 [Language Server (26)](language-server.md) · [Language Specification (1220)](language-specification.md) · [Library (4683)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -601,9 +601,9 @@ Records: `488`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| avinashbot/satellite | v0.4.1 | 2016-08-21T00:45:03Z | [open](../records/satcom-satellites-avinashbot-satellite-fad7a270.md) |
-| sabbir-uoulu/open-source-5g-ntn-leo | unknown | github_latest_release_missing | [open](../records/satcom-satellites-sabbir-uoulu-open-source-5g-ntn-leo-2980cc7d.md) |
-| ungoldman/himawari-bg | v2.0.2 | 2023-01-20T23:31:35Z | [open](../records/satcom-satellites-ungoldman-himawari-bg-83627cbe.md) |
+| avinashbot/satellite | partial | 2021-03-23T16:32:03Z | [open](../records/satcom-satellites-avinashbot-satellite-fad7a270.md) |
+| sabbir-uoulu/open-source-5g-ntn-leo | partial | 2026-08-22T20:32:54Z | [open](../records/satcom-satellites-sabbir-uoulu-open-source-5g-ntn-leo-2980cc7d.md) |
+| ungoldman/himawari-bg | partial | 2025-11-21T02:03:16Z | [open](../records/satcom-satellites-ungoldman-himawari-bg-83627cbe.md) |
 
 ## Pattern language
 

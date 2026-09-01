@@ -14,7 +14,7 @@ Records: `81`
 [Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (96)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (682)](database-datastore.md) · [Datetime (156)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (80)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1138)](filesystem-os.md) · [Formatter (535)](formatter.md)
+[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1139)](filesystem-os.md) · [Formatter (535)](formatter.md)
 [Framework (46)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (139)](game-engine-game-dev.md) · [Ide Editor Integration (1104)](ide-editor-integration.md)
 [Image Audio Dsp (290)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
 [Language Server (26)](language-server.md) · [Language Specification (1220)](language-specification.md) · [Library (4683)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -185,13 +185,13 @@ Records: `81`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| barbeau/awesome-gnss | unknown | github_latest_release_missing | [open](../records/satcom-satellites-barbeau-awesome-gnss-88de2a98.md) |
+| barbeau/awesome-gnss | partial | 2026-08-23T17:30:11Z | [open](../records/satcom-satellites-barbeau-awesome-gnss-88de2a98.md) |
 
 ## Electromagnetoscopes
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| W00t3k/Awesome-Cellular-Hacking | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-w00t3k-awesome-cellular-hacking-8e70c8fe.md) |
+| W00t3k/Awesome-Cellular-Hacking | partial | 2026-08-28T17:45:58Z | [open](../records/electromagnetoscopes-w00t3k-awesome-cellular-hacking-8e70c8fe.md) |
 
 ## Magazines
 

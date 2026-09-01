@@ -14,7 +14,7 @@ Records: `422`
 [Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (96)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (682)](database-datastore.md) · [Datetime (156)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (80)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1138)](filesystem-os.md) · [Formatter (535)](formatter.md)
+[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1139)](filesystem-os.md) · [Formatter (535)](formatter.md)
 [Framework (46)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (139)](game-engine-game-dev.md) · [Ide Editor Integration (1104)](ide-editor-integration.md)
 [Image Audio Dsp (290)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
 [Language Server (26)](language-server.md) · [Language Specification (1220)](language-specification.md) · [Library (4683)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -534,28 +534,28 @@ Records: `422`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| kylebarron/deck.gl-raster | unknown | github_latest_release_missing | [open](../records/satcom-satellites-kylebarron-deck-gl-raster-e8f894a4.md) |
-| obss/sahi | 0.12.6 | 2026-08-16T22:10:28Z | [open](../records/satcom-satellites-obss-sahi-1480f6f4.md) |
-| sshuair/torchsat | v0.0.1 | 2019-09-24T15:05:01Z | [open](../records/satcom-satellites-sshuair-torchsat-b039098e.md) |
-| Unidata/gempak | 7.20.0 | 2026-01-16T19:27:07Z | [open](../records/satcom-satellites-unidata-gempak-18ff07e6.md) |
+| kylebarron/deck.gl-raster | partial | 2026-01-07T22:03:42Z | [open](../records/satcom-satellites-kylebarron-deck-gl-raster-e8f894a4.md) |
+| obss/sahi | partial | 2026-08-22T20:39:30Z | [open](../records/satcom-satellites-obss-sahi-1480f6f4.md) |
+| sshuair/torchsat | partial | 2020-08-30T14:03:49Z | [open](../records/satcom-satellites-sshuair-torchsat-b039098e.md) |
+| Unidata/gempak | partial | 2026-07-01T06:19:27Z | [open](../records/satcom-satellites-unidata-gempak-18ff07e6.md) |
 
 ## Electromagnetoscopes
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| chuot/rdio-scanner | v6.6.3 | 2022-11-25T12:37:15Z | [open](../records/electromagnetoscopes-chuot-rdio-scanner-3a797b17.md) |
-| ComThings/PandwaRF | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-comthings-pandwarf-66230deb.md) |
-| demantz/RFAnalyzer | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-demantz-rfanalyzer-3b40f3ea.md) |
-| dsward2/LocalRadio | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-dsward2-localradio-cb9fccb0.md) |
-| EarToEarOak/RTLSDR-Scanner | v1.3.2 | 2018-05-05T11:26:23Z | [open](../records/electromagnetoscopes-eartoearoak-rtlsdr-scanner-cde8a03f.md) |
-| falkenber9/falcon | v1.3.0 | 2020-11-08T08:08:33Z | [open](../records/electromagnetoscopes-falkenber9-falcon-0651a0dc.md) |
-| ghostop14/sparrow-wifi | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-ghostop14-sparrow-wifi-385fa5e7.md) |
-| josevcm/nfc-laboratory | 3.4.2 | 2025-11-28T12:07:07Z | [open](../records/electromagnetoscopes-josevcm-nfc-laboratory-1860e538.md) |
-| neural75/gqrx-scanner | v1.1.0 | 2026-06-07T23:41:12Z | [open](../records/electromagnetoscopes-neural75-gqrx-scanner-47ffd36c.md) |
-| rfquack/RFQuack | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-rfquack-rfquack-ea9f1c02.md) |
-| shajen/rtl-sdr-scanner-cpp | v1.0.5 | 2023-02-15T16:22:43Z | [open](../records/electromagnetoscopes-shajen-rtl-sdr-scanner-cpp-9483eaae.md) |
-| szpajder/dumpvdl2 | v2.7.0 | 2026-08-01T19:58:34Z | [open](../records/electromagnetoscopes-szpajder-dumpvdl2-87835e79.md) |
-| ttrftech/NanoVNA | 0.8.0 | 2020-06-19T23:17:43Z | [open](../records/electromagnetoscopes-ttrftech-nanovna-4dca7773.md) |
+| chuot/rdio-scanner | partial | 2026-08-27T10:18:42Z | [open](../records/electromagnetoscopes-chuot-rdio-scanner-3a797b17.md) |
+| ComThings/PandwaRF | partial | 2025-06-30T14:58:47Z | [open](../records/electromagnetoscopes-comthings-pandwarf-66230deb.md) |
+| demantz/RFAnalyzer | partial | 2026-04-28T06:10:38Z | [open](../records/electromagnetoscopes-demantz-rfanalyzer-3b40f3ea.md) |
+| dsward2/LocalRadio | partial | 2026-07-03T02:36:04Z | [open](../records/electromagnetoscopes-dsward2-localradio-cb9fccb0.md) |
+| EarToEarOak/RTLSDR-Scanner | partial | 2018-12-05T21:57:35Z | [open](../records/electromagnetoscopes-eartoearoak-rtlsdr-scanner-cde8a03f.md) |
+| falkenber9/falcon | partial | 2023-10-13T12:50:06Z | [open](../records/electromagnetoscopes-falkenber9-falcon-0651a0dc.md) |
+| ghostop14/sparrow-wifi | partial | 2026-07-20T20:57:41Z | [open](../records/electromagnetoscopes-ghostop14-sparrow-wifi-385fa5e7.md) |
+| josevcm/nfc-laboratory | partial | 2026-06-29T16:44:55Z | [open](../records/electromagnetoscopes-josevcm-nfc-laboratory-1860e538.md) |
+| neural75/gqrx-scanner | partial | 2026-06-30T23:46:19Z | [open](../records/electromagnetoscopes-neural75-gqrx-scanner-47ffd36c.md) |
+| rfquack/RFQuack | partial | 2024-12-23T21:53:48Z | [open](../records/electromagnetoscopes-rfquack-rfquack-ea9f1c02.md) |
+| shajen/rtl-sdr-scanner-cpp | partial | 2026-06-19T05:53:15Z | [open](../records/electromagnetoscopes-shajen-rtl-sdr-scanner-cpp-9483eaae.md) |
+| szpajder/dumpvdl2 | partial | 2026-08-01T19:58:06Z | [open](../records/electromagnetoscopes-szpajder-dumpvdl2-87835e79.md) |
+| ttrftech/NanoVNA | partial | 2020-11-11T21:02:22Z | [open](../records/electromagnetoscopes-ttrftech-nanovna-4dca7773.md) |
 | xmikos/qspectrumanalyzer | partial | 2024-04-03T20:14:12Z | [open](../records/electromagnetoscopes-xmikos-qspectrumanalyzer-57b2ff1e.md) |
 
 ## Magazines

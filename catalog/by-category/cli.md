@@ -14,7 +14,7 @@ Records: `491`
 [Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (96)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (682)](database-datastore.md) · [Datetime (156)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (80)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1138)](filesystem-os.md) · [Formatter (535)](formatter.md)
+[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1139)](filesystem-os.md) · [Formatter (535)](formatter.md)
 [Framework (46)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (139)](game-engine-game-dev.md) · [Ide Editor Integration (1104)](ide-editor-integration.md)
 [Image Audio Dsp (290)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
 [Language Server (26)](language-server.md) · [Language Specification (1220)](language-specification.md) · [Library (4683)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -516,7 +516,7 @@ Records: `491`
 | --- | --- | --- | --- |
 | esengine/DeepSeek-Reasonix | partial | 2026-09-01T18:37:57Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-01T22:12:18Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-01T22:42:21Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Assets
 
@@ -568,9 +568,9 @@ Records: `491`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| daleroberts/bv | unknown | github_latest_release_missing | [open](../records/satcom-satellites-daleroberts-bv-07c48359.md) |
-| mapbox/mapbox-cli-py | 0.1.0 | 2015-12-14T18:29:01Z | [open](../records/satcom-satellites-mapbox-mapbox-cli-py-aa4771ac.md) |
-| trehn/termtrack | unknown | github_latest_release_missing | [open](../records/satcom-satellites-trehn-termtrack-8fc15287.md) |
+| daleroberts/bv | partial | 2017-01-17T03:08:40Z | [open](../records/satcom-satellites-daleroberts-bv-07c48359.md) |
+| mapbox/mapbox-cli-py | partial | 2025-02-12T15:38:29Z | [open](../records/satcom-satellites-mapbox-mapbox-cli-py-aa4771ac.md) |
+| trehn/termtrack | partial | 2026-01-28T01:20:28Z | [open](../records/satcom-satellites-trehn-termtrack-8fc15287.md) |
 
 ## Electromagnetoscopes
 
@@ -578,7 +578,7 @@ Records: `491`
 | --- | --- | --- | --- |
 | bjarneo/cliamp | v1.63.2 | 2026-08-13T17:46:00Z | [open](../records/electromagnetoscopes-bjarneo-cliamp-fe896688.md) |
 | geo-tp/ESP32-Bit-Pirate | v1.7 | 2026-08-06T14:43:09Z | [open](../records/electromagnetoscopes-geo-tp-esp32-bit-pirate-08880f73.md) |
-| ha7ilm/csdr | 0.15 | 2017-05-11T09:05:49Z | [open](../records/electromagnetoscopes-ha7ilm-csdr-3ab2ab01.md) |
+| ha7ilm/csdr | partial | 2024-02-06T12:13:28Z | [open](../records/electromagnetoscopes-ha7ilm-csdr-3ab2ab01.md) |
 
 ## Radio Garden Speciality
 

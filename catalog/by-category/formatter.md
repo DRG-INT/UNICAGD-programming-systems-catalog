@@ -14,7 +14,7 @@ Records: `535`
 [Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (96)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (682)](database-datastore.md) · [Datetime (156)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (80)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1138)](filesystem-os.md) · **[Formatter (535)](formatter.md)**
+[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1139)](filesystem-os.md) · **[Formatter (535)](formatter.md)**
 [Framework (46)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (139)](game-engine-game-dev.md) · [Ide Editor Integration (1104)](ide-editor-integration.md)
 [Image Audio Dsp (290)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
 [Language Server (26)](language-server.md) · [Language Specification (1220)](language-specification.md) · [Library (4683)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -526,7 +526,7 @@ Records: `535`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-01T22:18:55Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-01T23:13:29Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-08-27T19:23:53Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Assets
@@ -621,7 +621,7 @@ Records: `535`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ankitdhall/lidar_camera_calibration | partial | 2025-10-16T18:17:31Z | [open](../records/photography-ankitdhall-lidar-camera-calibration-71522045.md) |
-| blakeblackshear/frigate | partial | 2026-09-01T21:10:49Z | [open](../records/photography-blakeblackshear-frigate-ea8ac18c.md) |
+| blakeblackshear/frigate | partial | 2026-09-01T21:24:19Z | [open](../records/photography-blakeblackshear-frigate-ea8ac18c.md) |
 | d2phap/ImageGlass | partial | 2026-09-01T13:18:57Z | [open](../records/photography-d2phap-imageglass-ec40014f.md) |
 | dnglab/dnglab | partial | 2026-08-30T14:57:26Z | [open](../records/photography-dnglab-dnglab-05d113bb.md) |
 | jark006/JarkViewer | partial | 2026-06-30T18:46:05Z | [open](../records/photography-jark006-jarkviewer-384c10ce.md) |
@@ -630,7 +630,7 @@ Records: `535`
 | libjxl/libjxl | partial | 2026-09-01T15:54:09Z | [open](../records/photography-libjxl-libjxl-3d901151.md) |
 | mz2/Carpaccio | partial | 2023-06-10T06:49:52Z | [open](../records/photography-mz2-carpaccio-47bb21ca.md) |
 | QQxiaoming/YUVviewer | partial | 2026-06-27T03:38:01Z | [open](../records/photography-qqxiaoming-yuvviewer-c08a90b9.md) |
-| skymanbp/autoshade | partial | 2026-09-01T17:29:22Z | [open](../records/photography-skymanbp-autoshade-295e9968.md) |
+| skymanbp/autoshade | partial | 2026-09-01T23:01:37Z | [open](../records/photography-skymanbp-autoshade-295e9968.md) |
 
 ## Microscopy
 
@@ -640,7 +640,7 @@ Records: `535`
 | catrujilla/pyDHM | partial | 2025-09-16T21:49:38Z | [open](../records/microscopy-catrujilla-pydhm-45508b54.md) |
 | cgohlke/roifile | partial | 2026-07-30T01:48:11Z | [open](../records/microscopy-cgohlke-roifile-2f114ba6.md) |
 | Euro-BioImaging/BatchConvert | partial | 2025-03-14T10:23:22Z | [open](../records/microscopy-euro-bioimaging-batchconvert-38646f25.md) |
-| fideus-labs/ngff-zarr | partial | 2026-09-01T21:05:54Z | [open](../records/microscopy-fideus-labs-ngff-zarr-384efdbf.md) |
+| fideus-labs/ngff-zarr | partial | 2026-09-01T22:28:39Z | [open](../records/microscopy-fideus-labs-ngff-zarr-384efdbf.md) |
 | imaging-formats/ome-types | partial | 2026-04-02T01:45:48Z | [open](../records/microscopy-imaging-formats-ome-types-d7936d3b.md) |
 | pymmcore-plus/ome-writers | partial | 2026-07-01T11:25:58Z | [open](../records/microscopy-pymmcore-plus-ome-writers-2a308f87.md) |
 
@@ -663,15 +663,15 @@ Records: `535`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| joshuaferrara/go-satellite | 0.1.0 | 2022-06-11T18:08:22Z | [open](../records/satcom-satellites-joshuaferrara-go-satellite-adf32609.md) |
-| opensatelliteproject/OpenSatelliteProject | unknown | github_latest_release_missing | [open](../records/satcom-satellites-opensatelliteproject-opensatelliteproject-a627e533.md) |
+| joshuaferrara/go-satellite | partial | 2023-12-20T00:45:39Z | [open](../records/satcom-satellites-joshuaferrara-go-satellite-adf32609.md) |
+| opensatelliteproject/OpenSatelliteProject | partial | 2018-06-08T06:07:29Z | [open](../records/satcom-satellites-opensatelliteproject-opensatelliteproject-a627e533.md) |
 
 ## Electromagnetoscopes
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| nicespoon/retro-adsb-radar | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-nicespoon-retro-adsb-radar-1e8ed8aa.md) |
-| opensatelliteproject/OpenSatelliteProject | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-opensatelliteproject-opensatelliteproject-51450e2b.md) |
+| nicespoon/retro-adsb-radar | partial | 2026-07-24T10:18:06Z | [open](../records/electromagnetoscopes-nicespoon-retro-adsb-radar-1e8ed8aa.md) |
+| opensatelliteproject/OpenSatelliteProject | partial | 2018-06-08T06:07:29Z | [open](../records/electromagnetoscopes-opensatelliteproject-opensatelliteproject-51450e2b.md) |
 
 ## Magazines
 
