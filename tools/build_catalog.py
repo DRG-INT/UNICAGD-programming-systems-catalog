@@ -4524,7 +4524,7 @@ def expand_github_cli_repositories(
     limit: int,
     source: str,
 ) -> list[dict[str, Any]]:
-    if limit <= 0 or shutil.which("gh") is None:
+    if limit <= 0 or shutil.which("gh") is None or not fetcher.enabled:
         return []
     env = os.environ.copy()
     if env.get("GITHUB_TOKEN") and not env.get("GH_TOKEN"):
@@ -4829,9 +4829,9 @@ def expand_records(
         "sapjava_github": min(300, max(0, expansion_goal // 55)),
         "cocoapods": min(80, max(0, expansion_goal // 300)),
         "cocoa_github": min(500, max(0, expansion_goal // 35)),
-        "database_static": min(len(DATABASE_SYSTEM_RECORDS), max(0, expansion_goal // 50)),
+        "database_static": len(DATABASE_SYSTEM_RECORDS),
         "database_github": min(1200, max(0, expansion_goal // 12)),
-        "curated_language_routes": min(len(ADDITIONAL_CURATED_LANGUAGE_RECORDS), max(0, expansion_goal // 120)),
+        "curated_language_routes": len(ADDITIONAL_CURATED_LANGUAGE_RECORDS),
         "starlark_github": min(350, max(0, expansion_goal // 45)),
         "basilisk_github": min(80, max(0, expansion_goal // 200)),
         "nix_github": min(600, max(0, expansion_goal // 25)),
@@ -4861,7 +4861,7 @@ def expand_records(
         "repertoare_catalogs_github": min(220, max(0, expansion_goal // 70)),
         "catalogs_github": min(500, max(0, expansion_goal // 32)),
         "magazines_github": min(220, max(0, expansion_goal // 70)),
-        "workplace_routes": min(len(REPOSITORY_WORKPLACE_RECORDS), max(0, expansion_goal // 80)),
+        "workplace_routes": len(REPOSITORY_WORKPLACE_RECORDS),
         "gitlab_projects": min(300, max(0, expansion_goal // 45)),
         "gitea_repositories": min(200, max(0, expansion_goal // 60)),
         "aims_github": min(900, max(0, expansion_goal // 18)),
@@ -5300,7 +5300,7 @@ def enrich_records(
     source = merged_source_payload(source_path)
     source_records = [normalize_input_record(item) for item in source.get("records", [])]
     fetcher = HttpCache(HTTP_CACHE_DIR, enabled=network, ttl_seconds=cache_ttl)
-    expansions = expand_records(source_records, fetcher, target_records) if network else []
+    expansions = expand_records(source_records, fetcher, target_records)
     combined = source_records + expansions
     merged = merge_records(combined)
 

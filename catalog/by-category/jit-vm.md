@@ -1,99 +1,62 @@
 # Jit Vm
 
-Records: `47`
+Records: `15`
 
 ## Navigation
 
-[Catalog index](../index.md) · [Release watch](../release-watch.md)
+[Catalog index](../index.md) · [Release watch](../release-watch.md) · [Apache/MIT license index](../license-index.md)
 
 ## Category Index
 
-[Api Abi Checker (66)](api-abi-checker.md) · [Api Doc Generator (5)](api-doc-generator.md) · [Assertion Mocking (31)](assertion-mocking.md) · [Async Runtime (84)](async-runtime.md)
-[Benchmarking (39)](benchmarking.md) · [Build System (405)](build-system.md) · [Cli (300)](cli.md) · [Codegen Codemod Refactoring (14)](codegen-codemod-refactoring.md)
-[Community Reference (39)](community-reference.md) · [Compiler (82)](compiler.md) · [Compiler Diagnostics (8)](compiler-diagnostics.md) · [Compression (26)](compression.md)
-[Concurrency Parallelism (42)](concurrency-parallelism.md) · [Configuration (46)](configuration.md) · [Container Deployment (2)](container-deployment.md) · [Coverage (8)](coverage.md)
-[Cryptography (114)](cryptography.md) · [Data Science (14)](data-science.md) · [Database Datastore (225)](database-datastore.md) · [Datetime (44)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (31)](debugger.md) · [Dependency Manager (36)](dependency-manager.md) · [Documentation (21)](documentation.md)
-[Embedded Hardware (15)](embedded-hardware.md) · [Ffi Bindings (256)](ffi-bindings.md) · [Filesystem Os (299)](filesystem-os.md) · [Formatter (323)](formatter.md)
-[Framework (11)](framework.md) · [Fuzzer (10)](fuzzer.md) · [Game Engine Game Dev (54)](game-engine-game-dev.md) · [Ide Editor Integration (399)](ide-editor-integration.md)
-[Image Audio Dsp (43)](image-audio-dsp.md) · [Interop Bindings (34)](interop-bindings.md) · [Interpreter Runtime (77)](interpreter-runtime.md) · **[Jit Vm (47)](jit-vm.md)**
-[Language Server (19)](language-server.md) · [Language Specification (216)](language-specification.md) · [Library (2365)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (27)](lint-rule-pack.md) · [Linter (319)](linter.md) · [Logging Observability (181)](logging-observability.md) · [Machine Learning (215)](machine-learning.md)
-[Math Numeric Scientific (37)](math-numeric-scientific.md) · [Memory Analyzer (39)](memory-analyzer.md) · [Message Broker (12)](message-broker.md) · [Networking Http (423)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (116)](package-manager.md) · [Parser Lexer Ast (314)](parser-lexer-ast.md) · [Precommit Ci Quality (115)](precommit-ci-quality.md)
-[Profiler (41)](profiler.md) · [Project Scaffolding (39)](project-scaffolding.md) · [Registry Repository (10)](registry-repository.md) · [Sanitizer (4)](sanitizer.md)
-[Security Sast (202)](security-sast.md) · [Serialization (162)](serialization.md) · [Standard Library (18)](standard-library.md) · [Static Analyzer (68)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (333)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md) · [Type Checker (229)](type-checker.md)
-[Undefined Behavior Analyzer (218)](undefined-behavior-analyzer.md) · [Utility Library (51)](utility-library.md) · [Visualization Gui (93)](visualization-gui.md) · [Web Framework (199)](web-framework.md)
-
-## Julia
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| AsmJit_jll | unknown | julia_expansion_does_not_fetch_versions_by_default | [open](../records/julia-asmjit-jll-0d97f002.md) |
-
-## Rust
-
-| Name | Release | Date | Page |
-| --- | --- | --- | --- |
-| jiter | 0.16.0 | 2026-06-29T13:00:36.309208Z | [open](../records/rust-jiter-a28e89ca.md) |
-| rand_jitter | 0.6.1 | 2026-05-16T12:53:42.708080Z | [open](../records/rust-rand-jitter-7c3cff93.md) |
+[Api Abi Checker (3)](api-abi-checker.md) · [Api Doc Generator (10)](api-doc-generator.md) · [Async Runtime (7)](async-runtime.md) · [Benchmarking (5)](benchmarking.md)
+[Build System (33)](build-system.md) · [Cli (27)](cli.md) · [Codegen Codemod Refactoring (11)](codegen-codemod-refactoring.md) · [Community Reference (21)](community-reference.md)
+[Compiler (23)](compiler.md) · [Compression (7)](compression.md) · [Concurrency Parallelism (14)](concurrency-parallelism.md) · [Configuration (2)](configuration.md)
+[Container Deployment (4)](container-deployment.md) · [Coverage (8)](coverage.md) · [Cryptography (19)](cryptography.md) · [Data Science (12)](data-science.md)
+[Database Datastore (133)](database-datastore.md) · [Datetime (1)](datetime.md) · [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (8)](debugger.md)
+[Dependency Manager (6)](dependency-manager.md) · [Documentation (33)](documentation.md) · [Embedded Hardware (8)](embedded-hardware.md) · [Ffi Bindings (14)](ffi-bindings.md)
+[Filesystem Os (2)](filesystem-os.md) · [Formatter (16)](formatter.md) · [Framework (9)](framework.md) · [Fuzzer (5)](fuzzer.md)
+[Game Engine Game Dev (38)](game-engine-game-dev.md) · [Ide Editor Integration (20)](ide-editor-integration.md) · [Image Audio Dsp (47)](image-audio-dsp.md) · [Interop Bindings (7)](interop-bindings.md)
+[Interpreter Runtime (26)](interpreter-runtime.md) · **[Jit Vm (15)](jit-vm.md)** · [Language Server (7)](language-server.md) · [Language Specification (51)](language-specification.md)
+[Library (18)](library.md) · [Lint Plugin (1)](lint-plugin.md) · [Linter (18)](linter.md) · [Logging Observability (25)](logging-observability.md)
+[Machine Learning (18)](machine-learning.md) · [Math Numeric Scientific (40)](math-numeric-scientific.md) · [Memory Analyzer (1)](memory-analyzer.md) · [Message Broker (7)](message-broker.md)
+[Networking Http (87)](networking-http.md) · [Other (14)](other.md) · [Package Manager (17)](package-manager.md) · [Parser Lexer Ast (47)](parser-lexer-ast.md)
+[Precommit Ci Quality (13)](precommit-ci-quality.md) · [Profiler (11)](profiler.md) · [Project Scaffolding (3)](project-scaffolding.md) · [Registry Repository (93)](registry-repository.md)
+[Sanitizer (4)](sanitizer.md) · [Security Sast (23)](security-sast.md) · [Serialization (70)](serialization.md) · [Standard Library (7)](standard-library.md)
+[Static Analyzer (37)](static-analyzer.md) · [Templating (1)](templating.md) · [Testing Framework (31)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md)
+[Type Checker (5)](type-checker.md) · [Undefined Behavior Analyzer (101)](undefined-behavior-analyzer.md) · [Utility Library (42)](utility-library.md) · [Visualization Gui (75)](visualization-gui.md)
+[Web Framework (34)](web-framework.md)
 
 ## Python
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| PyPy | unknown | pypi_metadata_missing | [open](../records/python-pypy-2d0d4217.md) |
+| PyPy | unknown | not_checked | [open](../records/python-pypy-2d0d4217.md) |
 
 ## Node.js/JavaScript
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| @aparajita/capacitor-biometric-auth | 10.0.0 | 2026-02-09T18:35:56.718Z | [open](../records/node-js-javascript-aparajita-capacitor-biometric-auth-2db2e357.md) |
-| @jitsi/logger | 2.1.1 | 2025-09-16T20:51:29.930Z | [open](../records/node-js-javascript-jitsi-logger-a6ac563c.md) |
-| V8 | unknown | npm_metadata_missing | [open](../records/node-js-javascript-v8-6ecebe90.md) |
+| V8 | unknown | not_checked | [open](../records/node-js-javascript-v8-6ecebe90.md) |
 
 ## Lua family
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| __gc | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-gc-f8e16a71.md) |
-| api7-lua-resty-jwt | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-api7-lua-resty-jwt-5e67b3d7.md) |
-| argon2-ffi | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-argon2-ffi-681d8e58.md) |
-| aspect | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-aspect-aa2f34be.md) |
-| bcrypt-ffi | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-bcrypt-ffi-db081c63.md) |
-| bitser | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-bitser-31d0e69f.md) |
-| brightness | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-brightness-c111227f.md) |
-| brotli-ffi | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-brotli-ffi-acd8dfcd.md) |
-| cairo-luajit-ffi | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-cairo-luajit-ffi-2450866d.md) |
-| chrono | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-chrono-1b3701b9.md) |
-| cincau | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-cincau-39ff00dd.md) |
-| cv | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-cv-500db48b.md) |
-| debugger | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-debugger-519ebb17.md) |
-| DisLua | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-dislua-f2f7e923.md) |
-| ffi-bzlib | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-ffi-bzlib-a6c1aad9.md) |
-| ffi-mmkv | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-ffi-mmkv-dd95d669.md) |
-| ffiex | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-ffiex-b4b69a9b.md) |
-| fi-luajit | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-fi-luajit-5c5762d7.md) |
-| fswatch-ffi | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-fswatch-ffi-5f00874f.md) |
-| fun | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-fun-1d76a085.md) |
-| fun-alloyed | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-fun-alloyed-f3b00eb2.md) |
-| giflib | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-giflib-b3d34edf.md) |
-| gomaxmagick | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-gomaxmagick-7ab342f8.md) |
-| illarn-utils | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-illarn-utils-735a73b9.md) |
-| ion7-core | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-ion7-core-09b4b9ac.md) |
-| ion7-grammar | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-ion7-grammar-0d9fecd4.md) |
-| jsonnet | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-jsonnet-d63ffe83.md) |
-| jsonschema-mocker | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-jsonschema-mocker-df689d3c.md) |
-| jwt-jitsi | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-jwt-jitsi-f0ba3a22.md) |
-| kiwi | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-kiwi-31ed83cd.md) |
-| LPegLJ | unknown | github_latest_release_missing | [open](../records/lua-family-lpeglj-ac8d5399.md) |
-| Lua Fun | unknown | github_latest_release_missing | [open](../records/lua-family-lua-fun-a1e39a8c.md) |
-| luaffi | unknown | github_latest_release_missing | [open](../records/lua-family-luaffi-ccbd9ac9.md) |
+| LPegLJ | unknown | not_checked | [open](../records/lua-family-lpeglj-ac8d5399.md) |
+| Lua Fun | unknown | not_checked | [open](../records/lua-family-lua-fun-a1e39a8c.md) |
+| luaffi | unknown | not_checked | [open](../records/lua-family-luaffi-ccbd9ac9.md) |
 | LuaJIT | unknown | not_checked | [open](../records/lua-family-luajit-8413717e.md) |
 | LuaJIT FFI | unknown | not_checked | [open](../records/lua-family-luajit-ffi-38fbbe83.md) |
-| magick | v1.6.0 | 2021-02-02T22:18:25Z | [open](../records/lua-family-magick-fc597f1b.md) |
+| magick | unknown | not_checked | [open](../records/lua-family-magick-fc597f1b.md) |
 | ProFi | unknown | not_checked | [open](../records/lua-family-profi-d4dc9358.md) |
 | SciLua | unknown | not_checked | [open](../records/lua-family-scilua-1f7b2a38.md) |
 | turbo | unknown | not_checked | [open](../records/lua-family-turbo-ac34c11f.md) |
 | Worp | unknown | not_checked | [open](../records/lua-family-worp-696eaaff.md) |
+
+## Engines
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| JavaScriptCore | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/engines-javascriptcore-c893a928.md) |
+| SpiderMonkey | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/engines-spidermonkey-578732b1.md) |
+| V8 | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/engines-v8-5c32f69e.md) |
