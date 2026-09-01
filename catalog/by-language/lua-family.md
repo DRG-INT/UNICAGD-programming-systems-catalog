@@ -1,6 +1,6 @@
 # Lua family
 
-Records: `1937`
+Records: `2006`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `1937`
 
 ## Category Index
 
-[Api Abi Checker (66)](../by-category/api-abi-checker.md) · [Api Doc Generator (5)](../by-category/api-doc-generator.md) · [Assertion Mocking (31)](../by-category/assertion-mocking.md) · [Async Runtime (84)](../by-category/async-runtime.md)
-[Benchmarking (39)](../by-category/benchmarking.md) · [Build System (405)](../by-category/build-system.md) · [Cli (300)](../by-category/cli.md) · [Codegen Codemod Refactoring (14)](../by-category/codegen-codemod-refactoring.md)
+[Api Abi Checker (73)](../by-category/api-abi-checker.md) · [Api Doc Generator (5)](../by-category/api-doc-generator.md) · [Assertion Mocking (31)](../by-category/assertion-mocking.md) · [Async Runtime (87)](../by-category/async-runtime.md)
+[Benchmarking (39)](../by-category/benchmarking.md) · [Build System (405)](../by-category/build-system.md) · [Cli (314)](../by-category/cli.md) · [Codegen Codemod Refactoring (14)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (39)](../by-category/community-reference.md) · [Compiler (82)](../by-category/compiler.md) · [Compiler Diagnostics (8)](../by-category/compiler-diagnostics.md) · [Compression (26)](../by-category/compression.md)
-[Concurrency Parallelism (42)](../by-category/concurrency-parallelism.md) · [Configuration (46)](../by-category/configuration.md) · [Container Deployment (2)](../by-category/container-deployment.md) · [Coverage (8)](../by-category/coverage.md)
-[Cryptography (114)](../by-category/cryptography.md) · [Data Science (14)](../by-category/data-science.md) · [Database Datastore (225)](../by-category/database-datastore.md) · [Datetime (44)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (31)](../by-category/debugger.md) · [Dependency Manager (36)](../by-category/dependency-manager.md) · [Documentation (21)](../by-category/documentation.md)
-[Embedded Hardware (15)](../by-category/embedded-hardware.md) · [Ffi Bindings (256)](../by-category/ffi-bindings.md) · [Filesystem Os (299)](../by-category/filesystem-os.md) · [Formatter (324)](../by-category/formatter.md)
-[Framework (11)](../by-category/framework.md) · [Fuzzer (10)](../by-category/fuzzer.md) · [Game Engine Game Dev (54)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (399)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (43)](../by-category/image-audio-dsp.md) · [Interop Bindings (34)](../by-category/interop-bindings.md) · [Interpreter Runtime (77)](../by-category/interpreter-runtime.md) · [Jit Vm (47)](../by-category/jit-vm.md)
-[Language Server (19)](../by-category/language-server.md) · [Language Specification (216)](../by-category/language-specification.md) · [Library (2365)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (27)](../by-category/lint-rule-pack.md) · [Linter (318)](../by-category/linter.md) · [Logging Observability (181)](../by-category/logging-observability.md) · [Machine Learning (215)](../by-category/machine-learning.md)
-[Math Numeric Scientific (37)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (39)](../by-category/memory-analyzer.md) · [Message Broker (12)](../by-category/message-broker.md) · [Networking Http (423)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (116)](../by-category/package-manager.md) · [Parser Lexer Ast (314)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (115)](../by-category/precommit-ci-quality.md)
-[Profiler (41)](../by-category/profiler.md) · [Project Scaffolding (38)](../by-category/project-scaffolding.md) · [Registry Repository (10)](../by-category/registry-repository.md) · [Sanitizer (4)](../by-category/sanitizer.md)
-[Security Sast (203)](../by-category/security-sast.md) · [Serialization (162)](../by-category/serialization.md) · [Standard Library (18)](../by-category/standard-library.md) · [Static Analyzer (68)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (333)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (7)](../by-category/tutorial-book-styleguide.md) · [Type Checker (229)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (218)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (51)](../by-category/utility-library.md) · [Visualization Gui (93)](../by-category/visualization-gui.md) · [Web Framework (199)](../by-category/web-framework.md)
+[Concurrency Parallelism (42)](../by-category/concurrency-parallelism.md) · [Configuration (47)](../by-category/configuration.md) · [Container Deployment (2)](../by-category/container-deployment.md) · [Coverage (8)](../by-category/coverage.md)
+[Cryptography (116)](../by-category/cryptography.md) · [Data Science (14)](../by-category/data-science.md) · [Database Datastore (230)](../by-category/database-datastore.md) · [Datetime (44)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (24)](../by-category/debugger.md) · [Dependency Manager (35)](../by-category/dependency-manager.md) · [Documentation (21)](../by-category/documentation.md)
+[Embedded Hardware (15)](../by-category/embedded-hardware.md) · [Ffi Bindings (258)](../by-category/ffi-bindings.md) · [Filesystem Os (303)](../by-category/filesystem-os.md) · [Formatter (325)](../by-category/formatter.md)
+[Framework (11)](../by-category/framework.md) · [Fuzzer (10)](../by-category/fuzzer.md) · [Game Engine Game Dev (54)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (396)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (44)](../by-category/image-audio-dsp.md) · [Interop Bindings (34)](../by-category/interop-bindings.md) · [Interpreter Runtime (78)](../by-category/interpreter-runtime.md) · [Jit Vm (48)](../by-category/jit-vm.md)
+[Language Server (19)](../by-category/language-server.md) · [Language Specification (216)](../by-category/language-specification.md) · [Library (2390)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (28)](../by-category/lint-rule-pack.md) · [Linter (320)](../by-category/linter.md) · [Logging Observability (86)](../by-category/logging-observability.md) · [Machine Learning (221)](../by-category/machine-learning.md)
+[Math Numeric Scientific (37)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (40)](../by-category/memory-analyzer.md) · [Message Broker (14)](../by-category/message-broker.md) · [Networking Http (439)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (116)](../by-category/package-manager.md) · [Parser Lexer Ast (320)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (115)](../by-category/precommit-ci-quality.md)
+[Profiler (39)](../by-category/profiler.md) · [Project Scaffolding (41)](../by-category/project-scaffolding.md) · [Registry Repository (10)](../by-category/registry-repository.md) · [Sanitizer (5)](../by-category/sanitizer.md)
+[Security Sast (200)](../by-category/security-sast.md) · [Serialization (158)](../by-category/serialization.md) · [Standard Library (18)](../by-category/standard-library.md) · [Static Analyzer (68)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (337)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (7)](../by-category/tutorial-book-styleguide.md) · [Type Checker (223)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (217)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (51)](../by-category/utility-library.md) · [Visualization Gui (97)](../by-category/visualization-gui.md) · [Web Framework (208)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -55,6 +55,13 @@ Records: `1937`
 | [imp-appsec-connector](../records/lua-family-imp-appsec-connector-6afa4ea8.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [Inline](../records/lua-family-inline-08a0a206.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [ipapi-lua](../records/lua-family-ipapi-lua-974b1a65.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-oauth-proxy](../records/lua-family-kong-oauth-proxy-e4e6d980.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-opa-plugin](../records/lua-family-kong-opa-plugin-ab2a9d8c.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-phantom-token](../records/lua-family-kong-phantom-token-123cc1e7.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-plugin-acp](../records/lua-family-kong-plugin-acp-63ce8517.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-plugin-add-header](../records/lua-family-kong-plugin-add-header-be9584bc.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-plugin-api-gateway-jurnal](../records/lua-family-kong-plugin-api-gateway-jurnal-a8e8faac.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-plugin-api-key-access-control](../records/lua-family-kong-plugin-api-key-access-control-3c340dc8.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 
 ### Assertion Mocking
 
@@ -65,6 +72,7 @@ Records: `1937`
 | [du-mocks](../records/lua-family-du-mocks-01ae8c46.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [dummyddnetpp](../records/lua-family-dummyddnetpp-9f106965.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [fakeredis](../records/lua-family-fakeredis-10bc18e2.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-mocking-advanced](../records/lua-family-kong-mocking-advanced-24d056b3.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 
 ### Async Runtime
 
@@ -290,6 +298,8 @@ Records: `1937`
 | [hotswap-hash](../records/lua-family-hotswap-hash-77dce2a2.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [ipcrypt](../records/lua-family-ipcrypt-0b97bf27.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [jumbleberry-auto-ssl](../records/lua-family-jumbleberry-auto-ssl-64ffb373.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-mtls-validate](../records/lua-family-kong-mtls-validate-262c3658.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-plugin-acme](../records/lua-family-kong-plugin-acme-efa776f1.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 
 ### Data Science
 
@@ -316,6 +326,9 @@ Records: `1937`
 | [fredy](../records/lua-family-fredy-ee385f3e.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [grasp](../records/lua-family-grasp-c2e5efdb.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [ipqs-db-reader](../records/lua-family-ipqs-db-reader-f8710f22.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-ip-location](../records/lua-family-kong-ip-location-381cac0c.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-lua-resty-redis-connector](../records/lua-family-kong-lua-resty-redis-connector-5eb15960.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-pgmoon](../records/lua-family-kong-pgmoon-a84a7e10.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [lua-resty-redis](../records/lua-family-lua-resty-redis-c3192ca1.md) | unknown | not_checked | unverified_seed |
 | [lua-source-301](../records/lua-family-lua-source-301-2bf30dc0.md) | unknown | not_checked | uploaded_file |
 | [LuaSQL](../records/lua-family-luasql-a29cbad6.md) | unknown | not_checked | unverified_seed |
@@ -460,6 +473,7 @@ Records: `1937`
 | [kong-cluster-drain](../records/lua-family-kong-cluster-drain-662b1e8c.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [kong-egress-proxy](../records/lua-family-kong-egress-proxy-ff5cf687.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [kong-http-to-https-redirect](../records/lua-family-kong-http-to-https-redirect-2e174725.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-lua-avro](../records/lua-family-kong-lua-avro-7c1580e6.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [Lua Unofficial FAQ](../records/lua-family-lua-unofficial-faq-1f4e9326.md) | unknown | not_checked | uploaded_file |
 | [lua-l](../records/lua-family-lua-l-1a379611.md) | unknown | not_checked | uploaded_file |
 | [LuaBridge](../records/lua-family-luabridge-8ebeb9a3.md) | unknown | not_checked | unverified_seed |
@@ -526,6 +540,10 @@ Records: `1937`
 | [jps](../records/lua-family-jps-2a9df431.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [kong-api-composition](../records/lua-family-kong-api-composition-7a379ad3.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [kong-dynamic-upstream](../records/lua-family-kong-dynamic-upstream-35533071.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-oidc-forward-host](../records/lua-family-kong-oidc-forward-host-cb3beaf0.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-path-allow](../records/lua-family-kong-path-allow-cc4ff489.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [Kong-Path-Rewrite](../records/lua-family-kong-path-rewrite-4ad1cf86.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-path-whitelist](../records/lua-family-kong-path-whitelist-e00b1a63.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [lua-fenster](../records/lua-family-lua-fenster-9c134879.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [lua-fensteraudio](../records/lua-family-lua-fensteraudio-d13d992c.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [LuaFileSystem](../records/lua-family-luafilesystem-714397c8.md) | unknown | not_checked | catalog_seed |
@@ -872,6 +890,7 @@ Records: `1937`
 | [knap](../records/lua-family-knap-54487eae.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [kong-custom-error-handlers](../records/lua-family-kong-custom-error-handlers-cabade76.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [kong-external-oauth](../records/lua-family-kong-external-oauth-e16ca24d.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [Kong-LuaSec](../records/lua-family-kong-luasec-03aa5084.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [Lua Development Tools](../records/lua-family-lua-development-tools-cd865b7c.md) | unknown | not_checked | uploaded_file |
 | [Lua for IDEA](../records/lua-family-lua-for-idea-50248507.md) | unknown | not_checked | uploaded_file |
 | [Lua Workshop Talks](../records/lua-family-lua-workshop-talks-2dbf48e8.md) | unknown | not_checked | uploaded_file |
@@ -933,6 +952,7 @@ Records: `1937`
 | [guardrail.lua](../records/lua-family-guardrail-lua-a14cb683.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [Implementations, Interpreters, and Bindings](../records/lua-family-implementations-interpreters-and-bindings-d921de75.md) | unknown | not_checked | uploaded_file |
 | [kaitai-struct](../records/lua-family-kaitai-struct-b77a8e7d.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-path-based-routing](../records/lua-family-kong-path-based-routing-2723d6df.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [Lua](../records/lua-family-lua-b81a71bb.md) | unknown | not_checked | uploaded_file |
 | [Lua Repo](../records/lua-family-lua-repo-f0962681.md) | v5.5.1 | 2026-08-05T14:00:59Z | uploaded_file |
 | [Lua states, libraries, coroutines and memory](../records/lua-family-lua-states-libraries-coroutines-and-memory-868dff92.md) | unknown | not_checked | uploaded_file |
@@ -976,6 +996,8 @@ Records: `1937`
 | [jsonschema-mocker](../records/lua-family-jsonschema-mocker-df689d3c.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [jwt-jitsi](../records/lua-family-jwt-jitsi-f0ba3a22.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [kiwi](../records/lua-family-kiwi-31ed83cd.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-lua-ffi-zlib](../records/lua-family-kong-lua-ffi-zlib-59f5a93e.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-lua-resty-jwt](../records/lua-family-kong-lua-resty-jwt-28a685fe.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [LPegLJ](../records/lua-family-lpeglj-ac8d5399.md) | unknown | github_latest_release_missing | uploaded_file |
 | [Lua Fun](../records/lua-family-lua-fun-a1e39a8c.md) | unknown | github_latest_release_missing | uploaded_file |
 | [luaffi](../records/lua-family-luaffi-ccbd9ac9.md) | unknown | github_latest_release_missing | uploaded_file |
@@ -1506,6 +1528,29 @@ Records: `1937`
 | [kong-forward-proxy](../records/lua-family-kong-forward-proxy-ee64ca9d.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [kong-forwarded-user-auth](../records/lua-family-kong-forwarded-user-auth-bb3c7847.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [kong-google-recaptcha-plugin](../records/lua-family-kong-google-recaptcha-plugin-1e2357ae.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-jwt-firebase](../records/lua-family-kong-jwt-firebase-1af89408.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-keycloak](../records/lua-family-kong-keycloak-7e2bf116.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-lua-sandbox](../records/lua-family-kong-lua-sandbox-8f37ba94.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-o2b-ticketing](../records/lua-family-kong-o2b-ticketing-9bab5c15.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-oauth2-ext](../records/lua-family-kong-oauth2-ext-54d6a230.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-oidc](../records/lua-family-kong-oidc-95bc78d4.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-oidc-adfs](../records/lua-family-kong-oidc-adfs-a6e1529a.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-oidc-auth](../records/lua-family-kong-oidc-auth-e3df664c.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-oidc-auth-akshay](../records/lua-family-kong-oidc-auth-akshay-c2cb45c3.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-oidc-by-prashanth](../records/lua-family-kong-oidc-by-prashanth-aeddf78f.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-oidc-google-groups](../records/lua-family-kong-oidc-google-groups-13b41736.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-oidc-maryucha](../records/lua-family-kong-oidc-maryucha-74f49765.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-oidc-ng](../records/lua-family-kong-oidc-ng-648a01ca.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-oidc-plugin](../records/lua-family-kong-oidc-plugin-410fc6ce.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-oidc-v2](../records/lua-family-kong-oidc-v2-12e46042.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-oidc-v3](../records/lua-family-kong-oidc-v3-05d47464.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-oidc-ws-rbac](../records/lua-family-kong-oidc-ws-rbac-9b260545.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-opa](../records/lua-family-kong-opa-fec02bb8.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-openid-connect](../records/lua-family-kong-openid-connect-956d0071.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-openid-v3](../records/lua-family-kong-openid-v3-cc648ef4.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-openidconnect-code-flow-v3](../records/lua-family-kong-openidconnect-code-flow-v3-fd41ba21.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-payload-size-limiting](../records/lua-family-kong-payload-size-limiting-462b81b5.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-plugin-acl-keycloak](../records/lua-family-kong-plugin-acl-keycloak-80333908.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 
 ### Lint Rule Pack
 
@@ -1525,7 +1570,7 @@ Records: `1937`
 | [luacheck](../records/lua-family-luacheck-f60b1257.md) | unknown | not_checked | catalog_seed |
 | [LuaInspect](../records/lua-family-luainspect-4f34f4fc.md) | unknown | github_latest_release_missing | uploaded_file |
 | [Selene](../records/lua-family-selene-771ba61d.md) | unknown | not_checked | catalog_seed |
-| [vscode-lua](../records/lua-family-vscode-lua-96a38461.md) | unknown | github_latest_release_missing | uploaded_file |
+| [vscode-lua](../records/lua-family-vscode-lua-96a38461.md) | v0.12.4 | 2018-04-16T19:28:03Z | uploaded_file |
 
 ### Logging Observability
 
@@ -1543,6 +1588,9 @@ Records: `1937`
 | [illarn-tween](../records/lua-family-illarn-tween-4e4b0121.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [kong-error-log](../records/lua-family-kong-error-log-03e87f05.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [kong-file-log-exclusion](../records/lua-family-kong-file-log-exclusion-27889f1b.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-influxdb](../records/lua-family-kong-influxdb-282fe1f6.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-lib-logger](../records/lua-family-kong-lib-logger-233a9832.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-log-google](../records/lua-family-kong-log-google-e55cc701.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [Logging](../records/lua-family-logging-8ecdf365.md) | unknown | not_checked | uploaded_file |
 
 ### Machine Learning
@@ -1584,6 +1632,11 @@ Records: `1937`
 | [io-wait](../records/lua-family-io-wait-5d1bf054.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [ioc](../records/lua-family-ioc-fba2f090.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [knife](../records/lua-family-knife-d2e960c8.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-jwt-claim-headers](../records/lua-family-kong-jwt-claim-headers-ba1a22f8.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-jwt2header](../records/lua-family-kong-jwt2header-d1185a0f.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-jwt2header-raftx24](../records/lua-family-kong-jwt2header-raftx24-86f81985.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-jwt2header-vphoa342](../records/lua-family-kong-jwt2header-vphoa342-66c6d38c.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-oidc-consumer](../records/lua-family-kong-oidc-consumer-e234299b.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [lua-source-129](../records/lua-family-lua-source-129-36f21488.md) | unknown | not_checked | uploaded_file |
 
 ### Math Numeric Scientific
@@ -1614,6 +1667,8 @@ Records: `1937`
 | [diskqueue](../records/lua-family-diskqueue-a67e6ec5.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [dr.tap](../records/lua-family-dr-tap-8e0551aa.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [homie](../records/lua-family-homie-a368172e.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-kafka-log](../records/lua-family-kong-kafka-log-5f75529f.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-kafka-log-plus](../records/lua-family-kong-kafka-log-plus-da2dd84f.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [Message Brokers](../records/lua-family-message-brokers-ef5c8b44.md) | unknown | not_checked | uploaded_file |
 
 ### Networking Http
@@ -1706,6 +1761,11 @@ Records: `1937`
 | [kong-force-https](../records/lua-family-kong-force-https-86f6da80.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [kong-force-ssl](../records/lua-family-kong-force-ssl-d396660b.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [kong-http-to-https](../records/lua-family-kong-http-to-https-edd2c167.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-https-redirect](../records/lua-family-kong-https-redirect-c1bd183a.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-lua-resty-http](../records/lua-family-kong-lua-resty-http-941d9c87.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-lua-resty-kafka](../records/lua-family-kong-lua-resty-kafka-7d315582.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-plugin-amqp](../records/lua-family-kong-plugin-amqp-2915101f.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-plugin-amqp-rpc](../records/lua-family-kong-plugin-amqp-rpc-dde6c7e9.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [Lapis](../records/lua-family-lapis-67de798c.md) | unknown | not_checked | uploaded_file |
 | [Learn Lua in 15 Minutes](../records/lua-family-learn-lua-in-15-minutes-4b2417dd.md) | unknown | not_checked | uploaded_file |
 | [Learning Lua from JS](../records/lua-family-learning-lua-from-js-a97195df.md) | unknown | not_checked | uploaded_file |
@@ -1867,6 +1927,7 @@ Records: `1937`
 | [jumper](../records/lua-family-jumper-81df9517.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [Kapo](../records/lua-family-kapo-d215a997.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [kong-easter-eggs](../records/lua-family-kong-easter-eggs-29af3992.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-plugin-api-transformer](../records/lua-family-kong-plugin-api-transformer-b0c59349.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [LPeg](../records/lua-family-lpeg-c2b45f5e.md) | unknown | not_checked | uploaded_file |
 | [LPegLabel](../records/lua-family-lpeglabel-65309a20.md) | unknown | not_checked | unverified_seed |
 | [Lua 5.3 Glossary](../records/lua-family-lua-5-3-glossary-5b9f7c7a.md) | unknown | not_checked | uploaded_file |
@@ -1925,7 +1986,7 @@ Records: `1937`
 | [etlua](../records/lua-family-etlua-c0c05473.md) | unknown | github_latest_release_missing | uploaded_file |
 | [gimlet-render](../records/lua-family-gimlet-render-a5d799e1.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [htmlua](../records/lua-family-htmlua-b208eef9.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
-| [lua-resty-template](../records/lua-family-lua-resty-template-0fc83c30.md) | unknown | github_latest_release_missing | uploaded_file |
+| [lua-resty-template](../records/lua-family-lua-resty-template-0fc83c30.md) | v2.0 | 2020-02-24T11:40:01Z | uploaded_file |
 | [lustache](../records/lua-family-lustache-40f189f8.md) | unknown | not_checked | uploaded_file |
 
 ### Registry Repository
@@ -1944,7 +2005,7 @@ Records: `1937`
 | [audit-log](../records/lua-family-audit-log-8b3ec16e.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [exasol-virtual-schema-common-lua](../records/lua-family-exasol-virtual-schema-common-lua-e41c1314.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [haproxy-impart](../records/lua-family-haproxy-impart-5084d2c5.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
-| [luatweetnacl](../records/lua-family-luatweetnacl-9fe17abd.md) | unknown | github_latest_release_missing | uploaded_file |
+| [luatweetnacl](../records/lua-family-luatweetnacl-9fe17abd.md) | v0.5 | 2017-08-05T19:23:24Z | uploaded_file |
 
 ### Serialization
 
@@ -1994,10 +2055,10 @@ Records: `1937`
 | [digestif](../records/lua-family-digestif-514882f8.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [dromozoa-shlex](../records/lua-family-dromozoa-shlex-fd3eca87.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [globals-lua](../records/lua-family-globals-lua-77b9e911.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
-| [lua-parser](../records/lua-family-lua-parser-aaefaf05.md) | unknown | github_latest_release_missing | uploaded_file |
-| [luacheck](../records/lua-family-luacheck-55c5c338.md) | unknown | github_latest_release_missing | uploaded_file |
+| [lua-parser](../records/lua-family-lua-parser-aaefaf05.md) | v1.0.4 | 2025-03-11T15:35:22Z | uploaded_file |
+| [luacheck](../records/lua-family-luacheck-55c5c338.md) | 0.23.0 | 2018-09-18T20:13:04Z | uploaded_file |
 | [luacov](../records/lua-family-luacov-2744a6ec.md) | unknown | not_checked | uploaded_file |
-| [luacov-coveralls](../records/lua-family-luacov-coveralls-f1fd91fa.md) | unknown | github_latest_release_missing | uploaded_file |
+| [luacov-coveralls](../records/lua-family-luacov-coveralls-f1fd91fa.md) | v0.2.3 | 2021-01-17T08:44:11Z | uploaded_file |
 | [LuaInspect](../records/lua-family-luainspect-42e128ca.md) | unknown | not_checked | unverified_seed |
 | [LuaMinify](../records/lua-family-luaminify-65018d6a.md) | unknown | github_latest_release_missing | uploaded_file |
 | [Pallene](../records/lua-family-pallene-dc2ae11c.md) | unknown | not_checked | unverified_seed |
@@ -2045,6 +2106,8 @@ Records: `1937`
 | [jestronaut](../records/lua-family-jestronaut-9646fd2e.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [kah](../records/lua-family-kah-afa08e8a.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [kemi-test-suite](../records/lua-family-kemi-test-suite-acf8119c.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-oidc-test](../records/lua-family-kong-oidc-test-4ba90163.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-plugin-Abtesting](../records/lua-family-kong-plugin-abtesting-a437a1e9.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [luaunit](../records/lua-family-luaunit-d1e793fc.md) | unknown | not_checked | unverified_seed |
 | [lust](../records/lua-family-lust-47a338ad.md) | unknown | not_checked | unverified_seed |
 | [telescope](../records/lua-family-telescope-ae7297ba.md) | unknown | not_checked | unverified_seed |
@@ -2077,17 +2140,17 @@ Records: `1937`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [30log](../records/lua-family-30log-518c31f7.md) | unknown | github_latest_release_missing | uploaded_file |
+| [30log](../records/lua-family-30log-518c31f7.md) | 30log-1.3.0-1 | 2016-10-24T13:56:07Z | uploaded_file |
 | [AC-LuaServer](../records/lua-family-ac-luaserver-5d9557a8.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [aistemsplitter](../records/lua-family-aistemsplitter-1c666ef2.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [ansicolors](../records/lua-family-ansicolors-f9d67df1.md) | unknown | github_latest_release_missing | uploaded_file |
 | [api7-lua-tinyyaml](../records/lua-family-api7-lua-tinyyaml-bc999d3b.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [apicast-cli](../records/lua-family-apicast-cli-6102ddfc.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
-| [argparse](../records/lua-family-argparse-9c28f8ab.md) | unknown | github_latest_release_missing | uploaded_file |
+| [argparse](../records/lua-family-argparse-9c28f8ab.md) | 0.6.0 | 2018-04-13T19:17:35Z | uploaded_file |
 | [awesome-love2d](../records/lua-family-awesome-love2d-b6a66dad.md) | unknown | github_latest_release_missing | uploaded_file |
 | [awesome-resty](../records/lua-family-awesome-resty-7e046f33.md) | unknown | github_latest_release_missing | uploaded_file |
-| [bump.lua](../records/lua-family-bump-lua-4a91e0cc.md) | unknown | github_latest_release_missing | uploaded_file |
-| [cliargs](../records/lua-family-cliargs-282ef862.md) | unknown | github_latest_release_missing | uploaded_file |
+| [bump.lua](../records/lua-family-bump-lua-4a91e0cc.md) | demo-2.0.0 | 2014-06-01T18:19:04Z | uploaded_file |
+| [cliargs](../records/lua-family-cliargs-282ef862.md) | v3.0.2 | 2023-12-18T12:09:56Z | uploaded_file |
 | [ConcurrentLua](../records/lua-family-concurrentlua-fa7f39fd.md) | unknown | github_latest_release_missing | uploaded_file |
 | [copilot-cmp](../records/lua-family-copilot-cmp-753af2d8.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [copilot-sdk-supercharged](../records/lua-family-copilot-sdk-supercharged-c155c1cf.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
@@ -2097,7 +2160,7 @@ Records: `1937`
 | [denque](../records/lua-family-denque-83050bbe.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [deq](../records/lua-family-deq-d971d8f2.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [deque](../records/lua-family-deque-b5ef2dc9.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
-| [docroc](../records/lua-family-docroc-541a6f07.md) | unknown | github_latest_release_missing | uploaded_file |
+| [docroc](../records/lua-family-docroc-541a6f07.md) | v0.1.0 | 2015-12-25T21:35:49Z | uploaded_file |
 | [dromozoa-ubench](../records/lua-family-dromozoa-ubench-e7a9c15a.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [Drystal](../records/lua-family-drystal-2defde07.md) | unknown | not_checked | uploaded_file |
 | [dub](../records/lua-family-dub-dffe6257.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
@@ -2116,46 +2179,47 @@ Records: `1937`
 | [image_handler](../records/lua-family-image-handler-6049b344.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [inspect.lua](../records/lua-family-inspect-lua-dbf1bf2a.md) | unknown | github_latest_release_missing | uploaded_file |
 | [jnet](../records/lua-family-jnet-00761825.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
-| [Journey to the Center of Hawkthorne](../records/lua-family-journey-to-the-center-of-hawkthorne-0fe578c3.md) | unknown | github_latest_release_missing | uploaded_file |
-| [json.lua](../records/lua-family-json-lua-a2acc951.md) | unknown | github_latest_release_missing | uploaded_file |
-| [Jumper](../records/lua-family-jumper-433ea2f4.md) | unknown | github_latest_release_missing | uploaded_file |
-| [Kong](../records/lua-family-kong-20e8bcea.md) | unknown | github_latest_release_missing | uploaded_file |
+| [Journey to the Center of Hawkthorne](../records/lua-family-journey-to-the-center-of-hawkthorne-0fe578c3.md) | v1.1.0 | 2024-11-22T21:58:55Z | uploaded_file |
+| [json.lua](../records/lua-family-json-lua-a2acc951.md) | v0.1.2 | 2019-06-21T21:45:50Z | uploaded_file |
+| [Jumper](../records/lua-family-jumper-433ea2f4.md) | jumper-1.8.1-1 | 2014-03-24T14:07:25Z | uploaded_file |
+| [Kong](../records/lua-family-kong-20e8bcea.md) | 3.9.3 | 2026-06-17T06:02:19Z | uploaded_file |
 | [kong-event-pub](../records/lua-family-kong-event-pub-b074056d.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [kong-event-pub-plugin](../records/lua-family-kong-event-pub-plugin-cb21bb1f.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
-| [KoReader](../records/lua-family-koreader-d592cc89.md) | unknown | github_latest_release_missing | uploaded_file |
+| [kong-kafka-custom-log](../records/lua-family-kong-kafka-custom-log-20cbb19d.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [KoReader](../records/lua-family-koreader-d592cc89.md) | v2026.07.1 | 2026-08-01T11:10:30Z | uploaded_file |
 | [kpie](../records/lua-family-kpie-f3c38937.md) | unknown | github_latest_release_missing | uploaded_file |
-| [lanes](../records/lua-family-lanes-b009a902.md) | unknown | github_latest_release_missing | uploaded_file |
+| [lanes](../records/lua-family-lanes-b009a902.md) | v3.17.2 | 2025-10-23T06:26:07Z | uploaded_file |
 | [LDoc](../records/lua-family-ldoc-a672bda6.md) | unknown | not_checked | uploaded_file |
-| [ledge](../records/lua-family-ledge-9f115079.md) | unknown | github_latest_release_missing | uploaded_file |
+| [ledge](../records/lua-family-ledge-9f115079.md) | v2.3.0 | 2020-01-06T15:55:00Z | uploaded_file |
 | [llthreads](../records/lua-family-llthreads-f4d815df.md) | unknown | github_latest_release_missing | uploaded_file |
-| [llthreads2](../records/lua-family-llthreads2-bf82c254.md) | unknown | github_latest_release_missing | uploaded_file |
+| [llthreads2](../records/lua-family-llthreads2-bf82c254.md) | v0.1.5 | 2018-10-04T06:37:14Z | uploaded_file |
 | [Locco](../records/lua-family-locco-37bbf7dc.md) | unknown | not_checked | uploaded_file |
 | [lovebird](../records/lua-family-lovebird-04e5943c.md) | unknown | github_latest_release_missing | uploaded_file |
-| [lpeg_patterns](../records/lua-family-lpeg-patterns-ed1267f9.md) | unknown | github_latest_release_missing | uploaded_file |
-| [LPegLabel](../records/lua-family-lpeglabel-e4f13582.md) | unknown | github_latest_release_missing | uploaded_file |
+| [lpeg_patterns](../records/lua-family-lpeg-patterns-ed1267f9.md) | v0.5 | 2018-07-15T12:19:48Z | uploaded_file |
+| [LPegLabel](../records/lua-family-lpeglabel-e4f13582.md) | v1.6.2-1 | 2023-05-02T17:27:51Z | uploaded_file |
 | [Lua Missions](../records/lua-family-lua-missions-6cd50def.md) | unknown | github_latest_release_missing | uploaded_file |
 | [Lua Users Foundation](../records/lua-family-lua-users-foundation-cc900f2a.md) | unknown | not_checked | uploaded_file |
 | [lua-cjson](../records/lua-family-lua-cjson-3a4f16fd.md) | unknown | github_latest_release_missing | uploaded_file |
 | [lua-cmsgpack](../records/lua-family-lua-cmsgpack-84b6e374.md) | unknown | github_latest_release_missing | uploaded_file |
-| [lua-cURLv3](../records/lua-family-lua-curlv3-635634a6.md) | unknown | github_latest_release_missing | uploaded_file |
-| [lua-http](../records/lua-family-lua-http-78cee659.md) | unknown | github_latest_release_missing | uploaded_file |
+| [lua-cURLv3](../records/lua-family-lua-curlv3-635634a6.md) | v0.3.13 | 2021-08-12T04:55:29Z | uploaded_file |
+| [lua-http](../records/lua-family-lua-http-78cee659.md) | v0.4 | 2021-02-05T15:57:07Z | uploaded_file |
 | [lua-lockbox](../records/lua-family-lua-lockbox-9699e4bc.md) | unknown | github_latest_release_missing | uploaded_file |
-| [lua-log](../records/lua-family-lua-log-71e853b8.md) | unknown | github_latest_release_missing | uploaded_file |
+| [lua-log](../records/lua-family-lua-log-71e853b8.md) | v0.1.6 | 2016-09-15T13:47:16Z | uploaded_file |
 | [lua-MessagePack](../records/lua-family-lua-messagepack-4077de66.md) | unknown | github_latest_release_missing | uploaded_file |
 | [lua-mode](../records/lua-family-lua-mode-1552bde6.md) | unknown | github_latest_release_missing | uploaded_file |
-| [lua-path](../records/lua-family-lua-path-6673244e.md) | unknown | github_latest_release_missing | uploaded_file |
+| [lua-path](../records/lua-family-lua-path-6673244e.md) | v0.3.1 | 2019-12-08T09:03:43Z | uploaded_file |
 | [lua-pb](../records/lua-family-lua-pb-22143d33.md) | unknown | github_latest_release_missing | uploaded_file |
-| [lua-resty-cassandra](../records/lua-family-lua-resty-cassandra-84531dbd.md) | unknown | github_latest_release_missing | uploaded_file |
-| [lua-resty-http](../records/lua-family-lua-resty-http-be4fac77.md) | unknown | github_latest_release_missing | uploaded_file |
+| [lua-resty-cassandra](../records/lua-family-lua-resty-cassandra-84531dbd.md) | v0.1 | 2014-07-26T14:54:32Z | uploaded_file |
+| [lua-resty-http](../records/lua-family-lua-resty-http-be4fac77.md) | v0.18.0 | 2026-07-06T13:27:30Z | uploaded_file |
 | [lua-resty-kafka](../records/lua-family-lua-resty-kafka-8c4ebb55.md) | unknown | github_latest_release_missing | uploaded_file |
 | [lua-resty-mysql](../records/lua-family-lua-resty-mysql-a16c4313.md) | unknown | github_latest_release_missing | uploaded_file |
 | [lua-resty-rabbitmqstomp](../records/lua-family-lua-resty-rabbitmqstomp-57278255.md) | unknown | github_latest_release_missing | uploaded_file |
-| [lua-resty-redis](../records/lua-family-lua-resty-redis-bd9f9fb0.md) | unknown | github_latest_release_missing | uploaded_file |
+| [lua-resty-redis](../records/lua-family-lua-resty-redis-bd9f9fb0.md) | v0.29 | 2020-10-09T07:49:31Z | uploaded_file |
 | [lua-source-170](../records/lua-family-lua-source-170-d071735b.md) | unknown | not_checked | uploaded_file |
 | [lua-term](../records/lua-family-lua-term-ddf2e840.md) | unknown | github_latest_release_missing | uploaded_file |
 | [lua-websockets](../records/lua-family-lua-websockets-54d436eb.md) | unknown | github_latest_release_missing | uploaded_file |
 | [lua-zip](../records/lua-family-lua-zip-966cdded.md) | unknown | github_latest_release_missing | uploaded_file |
-| [lua-zlib](../records/lua-family-lua-zlib-a5cb70ce.md) | unknown | github_latest_release_missing | uploaded_file |
+| [lua-zlib](../records/lua-family-lua-zlib-a5cb70ce.md) | v1.4 | 2026-01-04T00:28:06Z | uploaded_file |
 | [lua-zmq](../records/lua-family-lua-zmq-702ba4e0.md) | unknown | github_latest_release_missing | uploaded_file |
 | [Lua: Good, bad, and ugly parts](../records/lua-family-lua-good-bad-and-ugly-parts-11af6603.md) | unknown | not_checked | uploaded_file |
 | [LuaCrypto](../records/lua-family-luacrypto-a4b17a83.md) | unknown | github_latest_release_missing | uploaded_file |
@@ -2163,41 +2227,41 @@ Records: `1937`
 | [luajson](../records/lua-family-luajson-7cb08278.md) | unknown | github_latest_release_missing | uploaded_file |
 | [luakit](../records/lua-family-luakit-011ea2f4.md) | unknown | not_checked | uploaded_file |
 | [LuaLogging](../records/lua-family-lualogging-d5b47771.md) | unknown | github_latest_release_missing | uploaded_file |
-| [luaossl](../records/lua-family-luaossl-a7db285a.md) | unknown | github_latest_release_missing | uploaded_file |
-| [luaposix](../records/lua-family-luaposix-d32e22ae.md) | unknown | github_latest_release_missing | uploaded_file |
-| [luaproc](../records/lua-family-luaproc-26001aa4.md) | unknown | github_latest_release_missing | uploaded_file |
-| [LuaSocket](../records/lua-family-luasocket-fc5265fd.md) | unknown | github_latest_release_missing | uploaded_file |
+| [luaossl](../records/lua-family-luaossl-a7db285a.md) | rel-20250929 | 2025-09-29T12:13:59Z | uploaded_file |
+| [luaposix](../records/lua-family-luaposix-d32e22ae.md) | v36.3 | 2025-02-16T20:32:14Z | uploaded_file |
+| [luaproc](../records/lua-family-luaproc-26001aa4.md) | 1.0-4 | 2015-10-03T13:25:40Z | uploaded_file |
+| [LuaSocket](../records/lua-family-luasocket-fc5265fd.md) | v3.1.0 | 2022-07-27T07:11:39Z | uploaded_file |
 | [LuaSQL](../records/lua-family-luasql-82ddaa2a.md) | unknown | not_checked | uploaded_file |
-| [luassert](../records/lua-family-luassert-692ebd30.md) | unknown | github_latest_release_missing | uploaded_file |
+| [luassert](../records/lua-family-luassert-692ebd30.md) | v1.9.0 | 2022-08-23T21:13:32Z | uploaded_file |
 | [luatrace](../records/lua-family-luatrace-b471f9a9.md) | unknown | github_latest_release_missing | uploaded_file |
-| [luatx](../records/lua-family-luatx-43f2fb20.md) | unknown | github_latest_release_missing | uploaded_file |
+| [luatx](../records/lua-family-luatx-43f2fb20.md) | v0.4-1 | 2017-12-14T00:43:31Z | uploaded_file |
 | [LuLPeg](../records/lua-family-lulpeg-7496df9d.md) | unknown | github_latest_release_missing | uploaded_file |
-| [lume](../records/lua-family-lume-156f9a00.md) | unknown | github_latest_release_missing | uploaded_file |
+| [lume](../records/lua-family-lume-156f9a00.md) | v2.3.0 | 2017-05-06T07:23:36Z | uploaded_file |
 | [Lumen](../records/lua-family-lumen-8d93dd3b.md) | unknown | github_latest_release_missing | uploaded_file |
-| [lurker](../records/lua-family-lurker-a1491e60.md) | unknown | github_latest_release_missing | uploaded_file |
-| [lust](../records/lua-family-lust-53b16bdd.md) | unknown | github_latest_release_missing | uploaded_file |
-| [luvit](../records/lua-family-luvit-3dd9e530.md) | unknown | github_latest_release_missing | uploaded_file |
+| [lurker](../records/lua-family-lurker-a1491e60.md) | v1.0.1 | 2014-03-10T21:15:10Z | uploaded_file |
+| [lust](../records/lua-family-lust-53b16bdd.md) | v0.2.0 | 2023-08-22T20:44:58Z | uploaded_file |
+| [luvit](../records/lua-family-luvit-3dd9e530.md) | 2.18.1 | 2021-11-19T01:32:04Z | uploaded_file |
 | [LXSH](../records/lua-family-lxsh-690ad612.md) | unknown | github_latest_release_missing | uploaded_file |
-| [lyaml](../records/lua-family-lyaml-3b835afa.md) | unknown | github_latest_release_missing | uploaded_file |
-| [lzmq](../records/lua-family-lzmq-77ad104a.md) | unknown | github_latest_release_missing | uploaded_file |
-| [Mari0](../records/lua-family-mari0-aa7f5df4.md) | unknown | github_latest_release_missing | uploaded_file |
+| [lyaml](../records/lua-family-lyaml-3b835afa.md) | v6.2.9 | 2026-07-25T18:31:00Z | uploaded_file |
+| [lzmq](../records/lua-family-lzmq-77ad104a.md) | v0.4.4 | 2017-07-24T13:15:38Z | uploaded_file |
+| [Mari0](../records/lua-family-mari0-aa7f5df4.md) | 1.6.2 | 2018-09-15T16:16:23Z | uploaded_file |
 | [Microlight](../records/lua-family-microlight-9da15c3f.md) | unknown | github_latest_release_missing | uploaded_file |
 | [middleclass](../records/lua-family-middleclass-05ebc0e7.md) | unknown | github_latest_release_missing | uploaded_file |
 | [MobDebug](../records/lua-family-mobdebug-683d1cf4.md) | unknown | github_latest_release_missing | uploaded_file |
-| [Moses](../records/lua-family-moses-539ba468.md) | unknown | github_latest_release_missing | uploaded_file |
-| [NoobHub](../records/lua-family-noobhub-1ae119a0.md) | unknown | github_latest_release_missing | uploaded_file |
+| [Moses](../records/lua-family-moses-539ba468.md) | Moses-2.1.0-1 | 2018-09-16T09:51:09Z | uploaded_file |
+| [NoobHub](../records/lua-family-noobhub-1ae119a0.md) | v1.0.0 | 2016-10-28T20:53:50Z | uploaded_file |
 | [Olivine style guide](../records/lua-family-olivine-style-guide-4191dfe3.md) | unknown | github_latest_release_missing | uploaded_file |
 | [OpenResty GitHub Organization](../records/lua-family-openresty-github-organization-04a5b99a.md) | unknown | not_checked | uploaded_file |
 | [PacPac](../records/lua-family-pacpac-70bfc782.md) | unknown | github_latest_release_missing | uploaded_file |
-| [pgmoon](../records/lua-family-pgmoon-31caeec3.md) | unknown | github_latest_release_missing | uploaded_file |
+| [pgmoon](../records/lua-family-pgmoon-31caeec3.md) | v1.18.0 | 2026-08-11T14:59:30Z | uploaded_file |
 | [punchdrunk.js](../records/lua-family-punchdrunk-js-c322e63d.md) | unknown | github_latest_release_missing | uploaded_file |
 | [redis-lua](../records/lua-family-redis-lua-f21fa0f3.md) | unknown | github_latest_release_missing | uploaded_file |
-| [RxLua](../records/lua-family-rxlua-a1d30915.md) | unknown | github_latest_release_missing | uploaded_file |
-| [say](../records/lua-family-say-77ab67e5.md) | unknown | github_latest_release_missing | uploaded_file |
+| [RxLua](../records/lua-family-rxlua-a1d30915.md) | v0.0.3 | 2017-06-24T20:15:00Z | uploaded_file |
+| [say](../records/lua-family-say-77ab67e5.md) | v1.4.1 | 2022-08-27T08:23:04Z | uploaded_file |
 | [Ser](../records/lua-family-ser-c0c2963c.md) | unknown | github_latest_release_missing | uploaded_file |
 | [serpent](../records/lua-family-serpent-7d079378.md) | unknown | github_latest_release_missing | uploaded_file |
-| [SLAXML](../records/lua-family-slaxml-ec95d510.md) | unknown | github_latest_release_missing | uploaded_file |
-| [StackTracePlus](../records/lua-family-stacktraceplus-102fc47b.md) | unknown | github_latest_release_missing | uploaded_file |
+| [SLAXML](../records/lua-family-slaxml-ec95d510.md) | v0.8 | 2023-01-01T01:38:06Z | uploaded_file |
+| [StackTracePlus](../records/lua-family-stacktraceplus-102fc47b.md) | 0.1.2-1 | 2015-01-20T13:17:20Z | uploaded_file |
 | [telescope](../records/lua-family-telescope-f14cba5d.md) | unknown | github_latest_release_missing | uploaded_file |
 | [termtris](../records/lua-family-termtris-691bd60f.md) | unknown | github_latest_release_missing | uploaded_file |
 | [tween.lua](../records/lua-family-tween-lua-a84b7869.md) | unknown | github_latest_release_missing | uploaded_file |
@@ -2252,6 +2316,10 @@ Records: `1937`
 | [kikgit](../records/lua-family-kikgit-57bb5f0f.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [kong](../records/lua-family-kong-578a07ff.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [kong-circuit-breaker](../records/lua-family-kong-circuit-breaker-8aa93e0d.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-plugin-abac](../records/lua-family-kong-plugin-abac-a5e3d438.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-plugin-add-header-to-request](../records/lua-family-kong-plugin-add-header-to-request-84d4643b.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-plugin-add-headers](../records/lua-family-kong-plugin-add-headers-0211a488.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-plugin-api-version](../records/lua-family-kong-plugin-api-version-511bd0eb.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 
 ### Web Framework
 
@@ -2270,6 +2338,7 @@ Records: `1937`
 | [jsregexp](../records/lua-family-jsregexp-6cb8db24.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [kong-advanced-router](../records/lua-family-kong-advanced-router-32e2de59.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [kong-auth-key-jwt-server](../records/lua-family-kong-auth-key-jwt-server-de95aa74.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
+| [kong-lapis](../records/lua-family-kong-lapis-d4c9cdcc.md) | unknown | luarocks_manifest_page_does_not_include_version_date | registry-derived |
 | [Lapis](../records/lua-family-lapis-d301e93f.md) | unknown | not_checked | unverified_seed |
 | [OpenResty](../records/lua-family-openresty-0b4d680f.md) | unknown | not_checked | catalog_seed |
 | [Pegasus.lua](../records/lua-family-pegasus-lua-0e3051d2.md) | unknown | not_checked | unverified_seed |

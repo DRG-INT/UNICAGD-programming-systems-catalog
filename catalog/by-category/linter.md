@@ -1,6 +1,6 @@
 # Linter
 
-Records: `318`
+Records: `320`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `318`
 
 ## Category Index
 
-[Api Abi Checker (66)](api-abi-checker.md) · [Api Doc Generator (5)](api-doc-generator.md) · [Assertion Mocking (31)](assertion-mocking.md) · [Async Runtime (84)](async-runtime.md)
-[Benchmarking (39)](benchmarking.md) · [Build System (405)](build-system.md) · [Cli (300)](cli.md) · [Codegen Codemod Refactoring (14)](codegen-codemod-refactoring.md)
+[Api Abi Checker (73)](api-abi-checker.md) · [Api Doc Generator (5)](api-doc-generator.md) · [Assertion Mocking (31)](assertion-mocking.md) · [Async Runtime (87)](async-runtime.md)
+[Benchmarking (39)](benchmarking.md) · [Build System (405)](build-system.md) · [Cli (314)](cli.md) · [Codegen Codemod Refactoring (14)](codegen-codemod-refactoring.md)
 [Community Reference (39)](community-reference.md) · [Compiler (82)](compiler.md) · [Compiler Diagnostics (8)](compiler-diagnostics.md) · [Compression (26)](compression.md)
-[Concurrency Parallelism (42)](concurrency-parallelism.md) · [Configuration (46)](configuration.md) · [Container Deployment (2)](container-deployment.md) · [Coverage (8)](coverage.md)
-[Cryptography (114)](cryptography.md) · [Data Science (14)](data-science.md) · [Database Datastore (225)](database-datastore.md) · [Datetime (44)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (31)](debugger.md) · [Dependency Manager (36)](dependency-manager.md) · [Documentation (21)](documentation.md)
-[Embedded Hardware (15)](embedded-hardware.md) · [Ffi Bindings (256)](ffi-bindings.md) · [Filesystem Os (299)](filesystem-os.md) · [Formatter (324)](formatter.md)
-[Framework (11)](framework.md) · [Fuzzer (10)](fuzzer.md) · [Game Engine Game Dev (54)](game-engine-game-dev.md) · [Ide Editor Integration (399)](ide-editor-integration.md)
-[Image Audio Dsp (43)](image-audio-dsp.md) · [Interop Bindings (34)](interop-bindings.md) · [Interpreter Runtime (77)](interpreter-runtime.md) · [Jit Vm (47)](jit-vm.md)
-[Language Server (19)](language-server.md) · [Language Specification (216)](language-specification.md) · [Library (2365)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (27)](lint-rule-pack.md) · **[Linter (318)](linter.md)** · [Logging Observability (181)](logging-observability.md) · [Machine Learning (215)](machine-learning.md)
-[Math Numeric Scientific (37)](math-numeric-scientific.md) · [Memory Analyzer (39)](memory-analyzer.md) · [Message Broker (12)](message-broker.md) · [Networking Http (423)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (116)](package-manager.md) · [Parser Lexer Ast (314)](parser-lexer-ast.md) · [Precommit Ci Quality (115)](precommit-ci-quality.md)
-[Profiler (41)](profiler.md) · [Project Scaffolding (38)](project-scaffolding.md) · [Registry Repository (10)](registry-repository.md) · [Sanitizer (4)](sanitizer.md)
-[Security Sast (203)](security-sast.md) · [Serialization (162)](serialization.md) · [Standard Library (18)](standard-library.md) · [Static Analyzer (68)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (333)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md) · [Type Checker (229)](type-checker.md)
-[Undefined Behavior Analyzer (218)](undefined-behavior-analyzer.md) · [Utility Library (51)](utility-library.md) · [Visualization Gui (93)](visualization-gui.md) · [Web Framework (199)](web-framework.md)
+[Concurrency Parallelism (42)](concurrency-parallelism.md) · [Configuration (47)](configuration.md) · [Container Deployment (2)](container-deployment.md) · [Coverage (8)](coverage.md)
+[Cryptography (116)](cryptography.md) · [Data Science (14)](data-science.md) · [Database Datastore (230)](database-datastore.md) · [Datetime (44)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (24)](debugger.md) · [Dependency Manager (35)](dependency-manager.md) · [Documentation (21)](documentation.md)
+[Embedded Hardware (15)](embedded-hardware.md) · [Ffi Bindings (258)](ffi-bindings.md) · [Filesystem Os (303)](filesystem-os.md) · [Formatter (325)](formatter.md)
+[Framework (11)](framework.md) · [Fuzzer (10)](fuzzer.md) · [Game Engine Game Dev (54)](game-engine-game-dev.md) · [Ide Editor Integration (396)](ide-editor-integration.md)
+[Image Audio Dsp (44)](image-audio-dsp.md) · [Interop Bindings (34)](interop-bindings.md) · [Interpreter Runtime (78)](interpreter-runtime.md) · [Jit Vm (48)](jit-vm.md)
+[Language Server (19)](language-server.md) · [Language Specification (216)](language-specification.md) · [Library (2390)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (28)](lint-rule-pack.md) · **[Linter (320)](linter.md)** · [Logging Observability (86)](logging-observability.md) · [Machine Learning (221)](machine-learning.md)
+[Math Numeric Scientific (37)](math-numeric-scientific.md) · [Memory Analyzer (40)](memory-analyzer.md) · [Message Broker (14)](message-broker.md) · [Networking Http (439)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (116)](package-manager.md) · [Parser Lexer Ast (320)](parser-lexer-ast.md) · [Precommit Ci Quality (115)](precommit-ci-quality.md)
+[Profiler (39)](profiler.md) · [Project Scaffolding (41)](project-scaffolding.md) · [Registry Repository (10)](registry-repository.md) · [Sanitizer (5)](sanitizer.md)
+[Security Sast (200)](security-sast.md) · [Serialization (158)](serialization.md) · [Standard Library (18)](standard-library.md) · [Static Analyzer (68)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (337)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md) · [Type Checker (223)](type-checker.md)
+[Undefined Behavior Analyzer (217)](undefined-behavior-analyzer.md) · [Utility Library (51)](utility-library.md) · [Visualization Gui (97)](visualization-gui.md) · [Web Framework (208)](web-framework.md)
 
 ## C99
 
@@ -57,6 +57,7 @@ Records: `318`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| a2a-lint | 0.1.1 | 2026-07-11T15:03:09.691706Z | [open](../records/python-a2a-lint-b2dea2f2.md) |
 | Flake8 | 7.3.0 | 2025-06-20T19:31:35.838627Z | [open](../records/python-flake8-b7395a8a.md) |
 | pycodestyle | 2.14.0 | 2025-06-20T18:49:48.750360Z | [open](../records/python-pycodestyle-f955257a.md) |
 | Pylint | 4.0.8 | 2026-08-29T12:21:59.188570Z | [open](../records/python-pylint-34b79593.md) |
@@ -141,8 +142,8 @@ Records: `318`
 | @stylistic/eslint-plugin-js | 4.4.1 | 2025-06-04T05:14:56.961Z | [open](../records/node-js-javascript-stylistic-eslint-plugin-js-34683e20.md) |
 | @stylistic/eslint-plugin-jsx | 4.4.1 | 2025-06-04T05:15:02.024Z | [open](../records/node-js-javascript-stylistic-eslint-plugin-jsx-ac506080.md) |
 | @tanstack/eslint-plugin-query | 5.102.8 | 2026-08-27T16:07:09.822Z | [open](../records/node-js-javascript-tanstack-eslint-plugin-query-816a5a9d.md) |
-| @unocss/eslint-config | 66.8.1 | 2026-08-21T05:28:26.503Z | [open](../records/node-js-javascript-unocss-eslint-config-25100ab0.md) |
-| @unocss/eslint-plugin | 66.8.1 | 2026-08-21T05:27:52.154Z | [open](../records/node-js-javascript-unocss-eslint-plugin-75c7c785.md) |
+| @unocss/eslint-config | 66.9.1 | 2026-09-01T02:48:38.741Z | [open](../records/node-js-javascript-unocss-eslint-config-25100ab0.md) |
+| @unocss/eslint-plugin | 66.9.1 | 2026-09-01T02:48:12.936Z | [open](../records/node-js-javascript-unocss-eslint-plugin-75c7c785.md) |
 | @usehercules/eslint-plugin | 1.0.41 | 2026-04-22T02:49:40.684Z | [open](../records/node-js-javascript-usehercules-eslint-plugin-70fa5382.md) |
 | @vitest/eslint-plugin | 1.6.27 | 2026-08-10T02:34:20.099Z | [open](../records/node-js-javascript-vitest-eslint-plugin-aaec7a17.md) |
 | @vue/cli-plugin-eslint | 5.0.9 | 2025-08-21T10:57:04.013Z | [open](../records/node-js-javascript-vue-cli-plugin-eslint-f697316e.md) |
@@ -192,7 +193,7 @@ Records: `318`
 | eslint-plugin-ava | 17.0.1 | 2026-06-13T10:59:57.485Z | [open](../records/node-js-javascript-eslint-plugin-ava-c2364395.md) |
 | eslint-plugin-babel | 5.3.1 | 2020-06-30T03:06:47.459Z | [open](../records/node-js-javascript-eslint-plugin-babel-bd91318f.md) |
 | eslint-plugin-boundaries | 7.2.0 | 2026-08-09T18:46:08.498Z | [open](../records/node-js-javascript-eslint-plugin-boundaries-954e9197.md) |
-| eslint-plugin-browser-security | 2.0.6 | 2026-08-25T17:58:47.179Z | [open](../records/node-js-javascript-eslint-plugin-browser-security-14198305.md) |
+| eslint-plugin-browser-security | 2.0.7 | 2026-09-01T02:29:43.692Z | [open](../records/node-js-javascript-eslint-plugin-browser-security-14198305.md) |
 | eslint-plugin-canonical | 5.1.3 | 2025-01-06T22:02:32.264Z | [open](../records/node-js-javascript-eslint-plugin-canonical-fd324fc5.md) |
 | eslint-plugin-command | 4.0.0 | 2026-07-31T04:38:09.766Z | [open](../records/node-js-javascript-eslint-plugin-command-eca5520b.md) |
 | eslint-plugin-cypress | 7.0.1 | 2026-08-22T20:48:04.001Z | [open](../records/node-js-javascript-eslint-plugin-cypress-19f031c6.md) |
@@ -206,6 +207,7 @@ Records: `318`
 | eslint-plugin-eslint-plugin | 7.6.2 | 2026-08-16T08:53:51.479Z | [open](../records/node-js-javascript-eslint-plugin-eslint-plugin-c17c7cb8.md) |
 | eslint-plugin-etc | 2.0.3 | 2023-05-10T08:19:24.291Z | [open](../records/node-js-javascript-eslint-plugin-etc-004cf836.md) |
 | eslint-plugin-expo | 1.1.0 | 2026-06-25T19:35:31.373Z | [open](../records/node-js-javascript-eslint-plugin-expo-851f4854.md) |
+| eslint-plugin-express-security | 3.1.3 | 2026-08-25T03:08:42.008Z | [open](../records/node-js-javascript-eslint-plugin-express-security-1e5a5d89.md) |
 | eslint-plugin-file-progress | 4.0.0-beta.1 | 2026-03-30T07:23:45.099Z | [open](../records/node-js-javascript-eslint-plugin-file-progress-6d370f60.md) |
 | eslint-plugin-filenames | 1.3.2 | 2018-06-13T17:55:52.218Z | [open](../records/node-js-javascript-eslint-plugin-filenames-1525e78c.md) |
 | eslint-plugin-flowtype | 8.0.3 | 2021-10-29T00:01:52.254Z | [open](../records/node-js-javascript-eslint-plugin-flowtype-e177f586.md) |
@@ -382,4 +384,4 @@ Records: `318`
 | luacheck | unknown | not_checked | [open](../records/lua-family-luacheck-f60b1257.md) |
 | LuaInspect | unknown | github_latest_release_missing | [open](../records/lua-family-luainspect-4f34f4fc.md) |
 | Selene | unknown | not_checked | [open](../records/lua-family-selene-771ba61d.md) |
-| vscode-lua | unknown | github_latest_release_missing | [open](../records/lua-family-vscode-lua-96a38461.md) |
+| vscode-lua | v0.12.4 | 2018-04-16T19:28:03Z | [open](../records/lua-family-vscode-lua-96a38461.md) |

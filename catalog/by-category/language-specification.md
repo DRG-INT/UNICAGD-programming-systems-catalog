@@ -8,23 +8,23 @@ Records: `216`
 
 ## Category Index
 
-[Api Abi Checker (66)](api-abi-checker.md) · [Api Doc Generator (5)](api-doc-generator.md) · [Assertion Mocking (31)](assertion-mocking.md) · [Async Runtime (84)](async-runtime.md)
-[Benchmarking (39)](benchmarking.md) · [Build System (405)](build-system.md) · [Cli (300)](cli.md) · [Codegen Codemod Refactoring (14)](codegen-codemod-refactoring.md)
+[Api Abi Checker (73)](api-abi-checker.md) · [Api Doc Generator (5)](api-doc-generator.md) · [Assertion Mocking (31)](assertion-mocking.md) · [Async Runtime (87)](async-runtime.md)
+[Benchmarking (39)](benchmarking.md) · [Build System (405)](build-system.md) · [Cli (314)](cli.md) · [Codegen Codemod Refactoring (14)](codegen-codemod-refactoring.md)
 [Community Reference (39)](community-reference.md) · [Compiler (82)](compiler.md) · [Compiler Diagnostics (8)](compiler-diagnostics.md) · [Compression (26)](compression.md)
-[Concurrency Parallelism (42)](concurrency-parallelism.md) · [Configuration (46)](configuration.md) · [Container Deployment (2)](container-deployment.md) · [Coverage (8)](coverage.md)
-[Cryptography (114)](cryptography.md) · [Data Science (14)](data-science.md) · [Database Datastore (225)](database-datastore.md) · [Datetime (44)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (31)](debugger.md) · [Dependency Manager (36)](dependency-manager.md) · [Documentation (21)](documentation.md)
-[Embedded Hardware (15)](embedded-hardware.md) · [Ffi Bindings (256)](ffi-bindings.md) · [Filesystem Os (299)](filesystem-os.md) · [Formatter (324)](formatter.md)
-[Framework (11)](framework.md) · [Fuzzer (10)](fuzzer.md) · [Game Engine Game Dev (54)](game-engine-game-dev.md) · [Ide Editor Integration (399)](ide-editor-integration.md)
-[Image Audio Dsp (43)](image-audio-dsp.md) · [Interop Bindings (34)](interop-bindings.md) · [Interpreter Runtime (77)](interpreter-runtime.md) · [Jit Vm (47)](jit-vm.md)
-[Language Server (19)](language-server.md) · **[Language Specification (216)](language-specification.md)** · [Library (2365)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (27)](lint-rule-pack.md) · [Linter (318)](linter.md) · [Logging Observability (181)](logging-observability.md) · [Machine Learning (215)](machine-learning.md)
-[Math Numeric Scientific (37)](math-numeric-scientific.md) · [Memory Analyzer (39)](memory-analyzer.md) · [Message Broker (12)](message-broker.md) · [Networking Http (423)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (116)](package-manager.md) · [Parser Lexer Ast (314)](parser-lexer-ast.md) · [Precommit Ci Quality (115)](precommit-ci-quality.md)
-[Profiler (41)](profiler.md) · [Project Scaffolding (38)](project-scaffolding.md) · [Registry Repository (10)](registry-repository.md) · [Sanitizer (4)](sanitizer.md)
-[Security Sast (203)](security-sast.md) · [Serialization (162)](serialization.md) · [Standard Library (18)](standard-library.md) · [Static Analyzer (68)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (333)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md) · [Type Checker (229)](type-checker.md)
-[Undefined Behavior Analyzer (218)](undefined-behavior-analyzer.md) · [Utility Library (51)](utility-library.md) · [Visualization Gui (93)](visualization-gui.md) · [Web Framework (199)](web-framework.md)
+[Concurrency Parallelism (42)](concurrency-parallelism.md) · [Configuration (47)](configuration.md) · [Container Deployment (2)](container-deployment.md) · [Coverage (8)](coverage.md)
+[Cryptography (116)](cryptography.md) · [Data Science (14)](data-science.md) · [Database Datastore (230)](database-datastore.md) · [Datetime (44)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (24)](debugger.md) · [Dependency Manager (35)](dependency-manager.md) · [Documentation (21)](documentation.md)
+[Embedded Hardware (15)](embedded-hardware.md) · [Ffi Bindings (258)](ffi-bindings.md) · [Filesystem Os (303)](filesystem-os.md) · [Formatter (325)](formatter.md)
+[Framework (11)](framework.md) · [Fuzzer (10)](fuzzer.md) · [Game Engine Game Dev (54)](game-engine-game-dev.md) · [Ide Editor Integration (396)](ide-editor-integration.md)
+[Image Audio Dsp (44)](image-audio-dsp.md) · [Interop Bindings (34)](interop-bindings.md) · [Interpreter Runtime (78)](interpreter-runtime.md) · [Jit Vm (48)](jit-vm.md)
+[Language Server (19)](language-server.md) · **[Language Specification (216)](language-specification.md)** · [Library (2390)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (28)](lint-rule-pack.md) · [Linter (320)](linter.md) · [Logging Observability (86)](logging-observability.md) · [Machine Learning (221)](machine-learning.md)
+[Math Numeric Scientific (37)](math-numeric-scientific.md) · [Memory Analyzer (40)](memory-analyzer.md) · [Message Broker (14)](message-broker.md) · [Networking Http (439)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (116)](package-manager.md) · [Parser Lexer Ast (320)](parser-lexer-ast.md) · [Precommit Ci Quality (115)](precommit-ci-quality.md)
+[Profiler (39)](profiler.md) · [Project Scaffolding (41)](project-scaffolding.md) · [Registry Repository (10)](registry-repository.md) · [Sanitizer (5)](sanitizer.md)
+[Security Sast (200)](security-sast.md) · [Serialization (158)](serialization.md) · [Standard Library (18)](standard-library.md) · [Static Analyzer (68)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (337)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md) · [Type Checker (223)](type-checker.md)
+[Undefined Behavior Analyzer (217)](undefined-behavior-analyzer.md) · [Utility Library (51)](utility-library.md) · [Visualization Gui (97)](visualization-gui.md) · [Web Framework (208)](web-framework.md)
 
 ## C99
 
@@ -132,6 +132,13 @@ Records: `216`
 | xdg | 3.0.0 | 2025-05-04T10:42:18.850350Z | [open](../records/rust-xdg-0b210f90.md) |
 | xdg-home | 1.3.0 | 2024-08-09T16:07:03.131017Z | [open](../records/rust-xdg-home-5879a09c.md) |
 
+## Python
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| 0x-sra-client | 4.0.0 | 2019-12-03T22:24:33.162134Z | [open](../records/python-0x-sra-client-9195d9dc.md) |
+| 3dcitydb-mcp-server | 0.2.2 | 2026-06-01T21:35:02.552948Z | [open](../records/python-3dcitydb-mcp-server-83ade52b.md) |
+
 ## Node.js/JavaScript
 
 | Name | Release | Date | Page |
@@ -141,17 +148,15 @@ Records: `216`
 | @embroider/macros | 1.20.6 | 2026-08-05T18:22:24.239Z | [open](../records/node-js-javascript-embroider-macros-29a00721.md) |
 | @eslint/js | 10.0.1 | 2026-02-06T22:34:56.290Z | [open](../records/node-js-javascript-eslint-js-c83f2528.md) |
 | @eslint/markdown | 8.0.3 | 2026-07-01T13:28:44.339Z | [open](../records/node-js-javascript-eslint-markdown-397a0750.md) |
-| @github/copilot-language-server-darwin-arm64 | 1.537.2 | 2026-09-01T00:10:56.564Z | [open](../records/node-js-javascript-github-copilot-language-server-darwin-arm64-20bcc86b.md) |
-| @github/copilot-language-server-linux-x64 | 1.537.2 | 2026-09-01T00:11:53.570Z | [open](../records/node-js-javascript-github-copilot-language-server-linux-x64-02307b0b.md) |
+| @github/copilot-language-server-darwin-arm64 | 1.538.0 | 2026-09-01T03:03:46.705Z | [open](../records/node-js-javascript-github-copilot-language-server-darwin-arm64-20bcc86b.md) |
+| @github/copilot-language-server-linux-x64 | 1.538.0 | 2026-09-01T03:04:35.777Z | [open](../records/node-js-javascript-github-copilot-language-server-linux-x64-02307b0b.md) |
 | @ksmithut/prettier-standard | 0.2.0 | 2023-10-17T02:41:25.662Z | [open](../records/node-js-javascript-ksmithut-prettier-standard-6a3869d4.md) |
 | @locker/shared | 0.27.9 | 2026-08-31T20:02:13.460Z | [open](../records/node-js-javascript-locker-shared-c4a9bfa0.md) |
 | @nezam.ai/runtime-js-database | 0.1.5 | 2026-08-16T08:38:50.876Z | [open](../records/node-js-javascript-nezam-ai-runtime-js-database-4e22a0f7.md) |
-| @nr1e/logging | 2.0.1 | 2026-02-16T20:53:39.169Z | [open](../records/node-js-javascript-nr1e-logging-78cd4595.md) |
 | @prettier/plugin-ruby | 4.0.4 | 2023-12-12T19:16:51.240Z | [open](../records/node-js-javascript-prettier-plugin-ruby-0635bfc1.md) |
 | @prisma/language-server | 31.12.0 | 2026-08-26T13:23:01.234Z | [open](../records/node-js-javascript-prisma-language-server-e4ebd39b.md) |
 | @salesforce/soql-language-server | 1.1.0 | 2026-03-10T20:05:45.186Z | [open](../records/node-js-javascript-salesforce-soql-language-server-539c245d.md) |
 | @sapphire/prettier-config | 2.0.0 | 2023-07-21T16:26:55.637Z | [open](../records/node-js-javascript-sapphire-prettier-config-faec12a0.md) |
-| @seek/logger | 12.1.0 | 2026-07-22T05:09:10.790Z | [open](../records/node-js-javascript-seek-logger-e2d8a715.md) |
 | @standardnotes/security | 1.17.4 | 2024-06-18T10:07:54.657Z | [open](../records/node-js-javascript-standardnotes-security-25261d32.md) |
 | @stdlib/error-tools-database | 0.4.1 | 2026-02-08T04:38:49.422Z | [open](../records/node-js-javascript-stdlib-error-tools-database-53bb7f8d.md) |
 | @tailwindcss/language-server | 0.16.0 | 2026-07-17T15:29:14.288Z | [open](../records/node-js-javascript-tailwindcss-language-server-97ba1480.md) |

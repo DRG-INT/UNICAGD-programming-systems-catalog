@@ -1,6 +1,6 @@
 # Web Framework
 
-Records: `199`
+Records: `208`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `199`
 
 ## Category Index
 
-[Api Abi Checker (66)](api-abi-checker.md) · [Api Doc Generator (5)](api-doc-generator.md) · [Assertion Mocking (31)](assertion-mocking.md) · [Async Runtime (84)](async-runtime.md)
-[Benchmarking (39)](benchmarking.md) · [Build System (405)](build-system.md) · [Cli (300)](cli.md) · [Codegen Codemod Refactoring (14)](codegen-codemod-refactoring.md)
+[Api Abi Checker (73)](api-abi-checker.md) · [Api Doc Generator (5)](api-doc-generator.md) · [Assertion Mocking (31)](assertion-mocking.md) · [Async Runtime (87)](async-runtime.md)
+[Benchmarking (39)](benchmarking.md) · [Build System (405)](build-system.md) · [Cli (314)](cli.md) · [Codegen Codemod Refactoring (14)](codegen-codemod-refactoring.md)
 [Community Reference (39)](community-reference.md) · [Compiler (82)](compiler.md) · [Compiler Diagnostics (8)](compiler-diagnostics.md) · [Compression (26)](compression.md)
-[Concurrency Parallelism (42)](concurrency-parallelism.md) · [Configuration (46)](configuration.md) · [Container Deployment (2)](container-deployment.md) · [Coverage (8)](coverage.md)
-[Cryptography (114)](cryptography.md) · [Data Science (14)](data-science.md) · [Database Datastore (225)](database-datastore.md) · [Datetime (44)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (31)](debugger.md) · [Dependency Manager (36)](dependency-manager.md) · [Documentation (21)](documentation.md)
-[Embedded Hardware (15)](embedded-hardware.md) · [Ffi Bindings (256)](ffi-bindings.md) · [Filesystem Os (299)](filesystem-os.md) · [Formatter (324)](formatter.md)
-[Framework (11)](framework.md) · [Fuzzer (10)](fuzzer.md) · [Game Engine Game Dev (54)](game-engine-game-dev.md) · [Ide Editor Integration (399)](ide-editor-integration.md)
-[Image Audio Dsp (43)](image-audio-dsp.md) · [Interop Bindings (34)](interop-bindings.md) · [Interpreter Runtime (77)](interpreter-runtime.md) · [Jit Vm (47)](jit-vm.md)
-[Language Server (19)](language-server.md) · [Language Specification (216)](language-specification.md) · [Library (2365)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (27)](lint-rule-pack.md) · [Linter (318)](linter.md) · [Logging Observability (181)](logging-observability.md) · [Machine Learning (215)](machine-learning.md)
-[Math Numeric Scientific (37)](math-numeric-scientific.md) · [Memory Analyzer (39)](memory-analyzer.md) · [Message Broker (12)](message-broker.md) · [Networking Http (423)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (116)](package-manager.md) · [Parser Lexer Ast (314)](parser-lexer-ast.md) · [Precommit Ci Quality (115)](precommit-ci-quality.md)
-[Profiler (41)](profiler.md) · [Project Scaffolding (38)](project-scaffolding.md) · [Registry Repository (10)](registry-repository.md) · [Sanitizer (4)](sanitizer.md)
-[Security Sast (203)](security-sast.md) · [Serialization (162)](serialization.md) · [Standard Library (18)](standard-library.md) · [Static Analyzer (68)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (333)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md) · [Type Checker (229)](type-checker.md)
-[Undefined Behavior Analyzer (218)](undefined-behavior-analyzer.md) · [Utility Library (51)](utility-library.md) · [Visualization Gui (93)](visualization-gui.md) · **[Web Framework (199)](web-framework.md)**
+[Concurrency Parallelism (42)](concurrency-parallelism.md) · [Configuration (47)](configuration.md) · [Container Deployment (2)](container-deployment.md) · [Coverage (8)](coverage.md)
+[Cryptography (116)](cryptography.md) · [Data Science (14)](data-science.md) · [Database Datastore (230)](database-datastore.md) · [Datetime (44)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (24)](debugger.md) · [Dependency Manager (35)](dependency-manager.md) · [Documentation (21)](documentation.md)
+[Embedded Hardware (15)](embedded-hardware.md) · [Ffi Bindings (258)](ffi-bindings.md) · [Filesystem Os (303)](filesystem-os.md) · [Formatter (325)](formatter.md)
+[Framework (11)](framework.md) · [Fuzzer (10)](fuzzer.md) · [Game Engine Game Dev (54)](game-engine-game-dev.md) · [Ide Editor Integration (396)](ide-editor-integration.md)
+[Image Audio Dsp (44)](image-audio-dsp.md) · [Interop Bindings (34)](interop-bindings.md) · [Interpreter Runtime (78)](interpreter-runtime.md) · [Jit Vm (48)](jit-vm.md)
+[Language Server (19)](language-server.md) · [Language Specification (216)](language-specification.md) · [Library (2390)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (28)](lint-rule-pack.md) · [Linter (320)](linter.md) · [Logging Observability (86)](logging-observability.md) · [Machine Learning (221)](machine-learning.md)
+[Math Numeric Scientific (37)](math-numeric-scientific.md) · [Memory Analyzer (40)](memory-analyzer.md) · [Message Broker (14)](message-broker.md) · [Networking Http (439)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (116)](package-manager.md) · [Parser Lexer Ast (320)](parser-lexer-ast.md) · [Precommit Ci Quality (115)](precommit-ci-quality.md)
+[Profiler (39)](profiler.md) · [Project Scaffolding (41)](project-scaffolding.md) · [Registry Repository (10)](registry-repository.md) · [Sanitizer (5)](sanitizer.md)
+[Security Sast (200)](security-sast.md) · [Serialization (158)](serialization.md) · [Standard Library (18)](standard-library.md) · [Static Analyzer (68)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (337)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md) · [Type Checker (223)](type-checker.md)
+[Undefined Behavior Analyzer (217)](undefined-behavior-analyzer.md) · [Utility Library (51)](utility-library.md) · [Visualization Gui (97)](visualization-gui.md) · **[Web Framework (208)](web-framework.md)**
 
 ## C++23
 
@@ -74,6 +74,15 @@ Records: `199`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| 00-renjing-mcp-server-pypi | 0.1.0 | 2026-05-22T08:37:17.259671Z | [open](../records/python-00-renjing-mcp-server-pypi-c1ac61b2.md) |
+| 15five-django-ajax-selects | 1.5.2.155 | 2017-05-15T22:37:10.777355Z | [open](../records/python-15five-django-ajax-selects-f64bc4c4.md) |
+| 1c-formsserver | 0.20260729 | 2026-07-29T08:36:41.142711Z | [open](../records/python-1c-formsserver-ca01be90.md) |
+| A-Api-Server | 1.3.0 | 2025-10-29T03:24:14.059253Z | [open](../records/python-a-api-server-b3dac2ee.md) |
+| a2a-agent-mcpserver-generator | 0.1.2 | 2025-05-23T02:37:56.420793Z | [open](../records/python-a2a-agent-mcpserver-generator-6ee8871e.md) |
+| a2a-mcp-server | 0.1.5 | 2025-06-18T07:23:41.953142Z | [open](../records/python-a2a-mcp-server-d917d291.md) |
+| a2a-protocol-mcp-server | 0.1.0 | 2026-03-20T10:50:50.446791Z | [open](../records/python-a2a-protocol-mcp-server-5aa9396b.md) |
+| a2a-proxy-server | 0.1.3 | 2025-04-28T23:48:51.442085Z | [open](../records/python-a2a-proxy-server-cabd6de9.md) |
+| aa-mcp-server | 0.1.0 | 2026-05-04T16:01:38.444473Z | [open](../records/python-aa-mcp-server-96792d67.md) |
 | aiohttp | 3.14.3 | 2026-07-23T01:57:27.037320Z | [open](../records/python-aiohttp-7ff48487.md) |
 | Bottle | 0.13.4 | 2025-06-15T10:08:59.439923Z | [open](../records/python-bottle-57369310.md) |
 | CherryPy | 18.10.0 | 2024-06-14T15:25:37.192114Z | [open](../records/python-cherrypy-92c7948b.md) |
@@ -106,7 +115,7 @@ Records: `199`
 | @callstack/repack-dev-server | 5.3.0 | 2026-08-05T09:11:36.073Z | [open](../records/node-js-javascript-callstack-repack-dev-server-631ff63b.md) |
 | @capgo/cli | 8.45.1 | 2026-08-30T12:43:07.842Z | [open](../records/node-js-javascript-capgo-cli-8e98e39d.md) |
 | @cloudflare/mcp-server-cloudflare | 0.2.0 | 2025-03-14T10:41:19.350Z | [open](../records/node-js-javascript-cloudflare-mcp-server-cloudflare-3b1ce558.md) |
-| @constructive-io/graphql-server | 5.20.5 | 2026-08-31T04:35:15.884Z | [open](../records/node-js-javascript-constructive-io-graphql-server-5edba745.md) |
+| @constructive-io/graphql-server | 5.20.6 | 2026-09-01T03:16:26.189Z | [open](../records/node-js-javascript-constructive-io-graphql-server-5edba745.md) |
 | @contentful/mcp-server | 1.18.0 | 2026-08-28T20:00:14.055Z | [open](../records/node-js-javascript-contentful-mcp-server-f8c3e0db.md) |
 | @data-elements/database | 0.3.6 | 2026-08-22T04:54:10.956Z | [open](../records/node-js-javascript-data-elements-database-84055e3f.md) |
 | @devcycle/nodejs-server-sdk | 1.55.9 | 2026-08-07T19:09:44.442Z | [open](../records/node-js-javascript-devcycle-nodejs-server-sdk-6fb5776e.md) |
@@ -194,7 +203,6 @@ Records: `199`
 | es-dev-server | 2.1.0 | 2021-01-18T21:36:54.178Z | [open](../records/node-js-javascript-es-dev-server-02f41bcc.md) |
 | expo-server | 57.0.3 | 2026-08-14T14:22:51.084Z | [open](../records/node-js-javascript-expo-server-ef9c49be.md) |
 | Express | 3.0.1 | 2016-12-07T21:27:27.679Z | [open](../records/node-js-javascript-express-e2432eae.md) |
-| express-requests-logger | 4.0.3 | 2025-04-14T13:41:11.320Z | [open](../records/node-js-javascript-express-requests-logger-17551a83.md) |
 | Fastify | unknown | npm_metadata_missing | [open](../records/node-js-javascript-fastify-2386771a.md) |
 | five-server | 0.5.0 | 2026-05-12T10:40:19.391Z | [open](../records/node-js-javascript-five-server-f752688a.md) |
 | hexo-server | 3.0.0 | 2022-01-03T05:07:25.018Z | [open](../records/node-js-javascript-hexo-server-999441df.md) |
@@ -255,6 +263,7 @@ Records: `199`
 | jsregexp | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-jsregexp-6cb8db24.md) |
 | kong-advanced-router | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-kong-advanced-router-32e2de59.md) |
 | kong-auth-key-jwt-server | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-kong-auth-key-jwt-server-de95aa74.md) |
+| kong-lapis | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-kong-lapis-d4c9cdcc.md) |
 | Lapis | unknown | not_checked | [open](../records/lua-family-lapis-d301e93f.md) |
 | OpenResty | unknown | not_checked | [open](../records/lua-family-openresty-0b4d680f.md) |
 | Pegasus.lua | unknown | not_checked | [open](../records/lua-family-pegasus-lua-0e3051d2.md) |

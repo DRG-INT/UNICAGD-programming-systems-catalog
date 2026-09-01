@@ -1,6 +1,6 @@
 # Undefined Behavior Analyzer
 
-Records: `218`
+Records: `217`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `218`
 
 ## Category Index
 
-[Api Abi Checker (66)](api-abi-checker.md) · [Api Doc Generator (5)](api-doc-generator.md) · [Assertion Mocking (31)](assertion-mocking.md) · [Async Runtime (84)](async-runtime.md)
-[Benchmarking (39)](benchmarking.md) · [Build System (405)](build-system.md) · [Cli (300)](cli.md) · [Codegen Codemod Refactoring (14)](codegen-codemod-refactoring.md)
+[Api Abi Checker (73)](api-abi-checker.md) · [Api Doc Generator (5)](api-doc-generator.md) · [Assertion Mocking (31)](assertion-mocking.md) · [Async Runtime (87)](async-runtime.md)
+[Benchmarking (39)](benchmarking.md) · [Build System (405)](build-system.md) · [Cli (314)](cli.md) · [Codegen Codemod Refactoring (14)](codegen-codemod-refactoring.md)
 [Community Reference (39)](community-reference.md) · [Compiler (82)](compiler.md) · [Compiler Diagnostics (8)](compiler-diagnostics.md) · [Compression (26)](compression.md)
-[Concurrency Parallelism (42)](concurrency-parallelism.md) · [Configuration (46)](configuration.md) · [Container Deployment (2)](container-deployment.md) · [Coverage (8)](coverage.md)
-[Cryptography (114)](cryptography.md) · [Data Science (14)](data-science.md) · [Database Datastore (225)](database-datastore.md) · [Datetime (44)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (31)](debugger.md) · [Dependency Manager (36)](dependency-manager.md) · [Documentation (21)](documentation.md)
-[Embedded Hardware (15)](embedded-hardware.md) · [Ffi Bindings (256)](ffi-bindings.md) · [Filesystem Os (299)](filesystem-os.md) · [Formatter (324)](formatter.md)
-[Framework (11)](framework.md) · [Fuzzer (10)](fuzzer.md) · [Game Engine Game Dev (54)](game-engine-game-dev.md) · [Ide Editor Integration (399)](ide-editor-integration.md)
-[Image Audio Dsp (43)](image-audio-dsp.md) · [Interop Bindings (34)](interop-bindings.md) · [Interpreter Runtime (77)](interpreter-runtime.md) · [Jit Vm (47)](jit-vm.md)
-[Language Server (19)](language-server.md) · [Language Specification (216)](language-specification.md) · [Library (2365)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (27)](lint-rule-pack.md) · [Linter (318)](linter.md) · [Logging Observability (181)](logging-observability.md) · [Machine Learning (215)](machine-learning.md)
-[Math Numeric Scientific (37)](math-numeric-scientific.md) · [Memory Analyzer (39)](memory-analyzer.md) · [Message Broker (12)](message-broker.md) · [Networking Http (423)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (116)](package-manager.md) · [Parser Lexer Ast (314)](parser-lexer-ast.md) · [Precommit Ci Quality (115)](precommit-ci-quality.md)
-[Profiler (41)](profiler.md) · [Project Scaffolding (38)](project-scaffolding.md) · [Registry Repository (10)](registry-repository.md) · [Sanitizer (4)](sanitizer.md)
-[Security Sast (203)](security-sast.md) · [Serialization (162)](serialization.md) · [Standard Library (18)](standard-library.md) · [Static Analyzer (68)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (333)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md) · [Type Checker (229)](type-checker.md)
-**[Undefined Behavior Analyzer (218)](undefined-behavior-analyzer.md)** · [Utility Library (51)](utility-library.md) · [Visualization Gui (93)](visualization-gui.md) · [Web Framework (199)](web-framework.md)
+[Concurrency Parallelism (42)](concurrency-parallelism.md) · [Configuration (47)](configuration.md) · [Container Deployment (2)](container-deployment.md) · [Coverage (8)](coverage.md)
+[Cryptography (116)](cryptography.md) · [Data Science (14)](data-science.md) · [Database Datastore (230)](database-datastore.md) · [Datetime (44)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (24)](debugger.md) · [Dependency Manager (35)](dependency-manager.md) · [Documentation (21)](documentation.md)
+[Embedded Hardware (15)](embedded-hardware.md) · [Ffi Bindings (258)](ffi-bindings.md) · [Filesystem Os (303)](filesystem-os.md) · [Formatter (325)](formatter.md)
+[Framework (11)](framework.md) · [Fuzzer (10)](fuzzer.md) · [Game Engine Game Dev (54)](game-engine-game-dev.md) · [Ide Editor Integration (396)](ide-editor-integration.md)
+[Image Audio Dsp (44)](image-audio-dsp.md) · [Interop Bindings (34)](interop-bindings.md) · [Interpreter Runtime (78)](interpreter-runtime.md) · [Jit Vm (48)](jit-vm.md)
+[Language Server (19)](language-server.md) · [Language Specification (216)](language-specification.md) · [Library (2390)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (28)](lint-rule-pack.md) · [Linter (320)](linter.md) · [Logging Observability (86)](logging-observability.md) · [Machine Learning (221)](machine-learning.md)
+[Math Numeric Scientific (37)](math-numeric-scientific.md) · [Memory Analyzer (40)](memory-analyzer.md) · [Message Broker (14)](message-broker.md) · [Networking Http (439)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (116)](package-manager.md) · [Parser Lexer Ast (320)](parser-lexer-ast.md) · [Precommit Ci Quality (115)](precommit-ci-quality.md)
+[Profiler (39)](profiler.md) · [Project Scaffolding (41)](project-scaffolding.md) · [Registry Repository (10)](registry-repository.md) · [Sanitizer (5)](sanitizer.md)
+[Security Sast (200)](security-sast.md) · [Serialization (158)](serialization.md) · [Standard Library (18)](standard-library.md) · [Static Analyzer (68)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (337)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md) · [Type Checker (223)](type-checker.md)
+**[Undefined Behavior Analyzer (217)](undefined-behavior-analyzer.md)** · [Utility Library (51)](utility-library.md) · [Visualization Gui (97)](visualization-gui.md) · [Web Framework (208)](web-framework.md)
 
 ## Julia
 
@@ -87,6 +87,12 @@ Records: `218`
 | utf8-ranges | 1.0.5 | 2022-04-04T18:56:49.704446Z | [open](../records/rust-utf8-ranges-ea8424ea.md) |
 | zmij | 1.0.23 | 2026-07-13T12:58:53.705886Z | [open](../records/rust-zmij-e6574c03.md) |
 
+## Python
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| 2u-enterprise-subsidy-client | 2.2.1 | 2026-02-27T05:53:05.909119Z | [open](../records/python-2u-enterprise-subsidy-client-ddf9b0c1.md) |
+
 ## Node.js/JavaScript
 
 | Name | Release | Date | Page |
@@ -119,17 +125,14 @@ Records: `218`
 | @lobehub/cli-ui | 1.13.0 | 2025-06-11T05:49:34.974Z | [open](../records/node-js-javascript-lobehub-cli-ui-0f0fa43a.md) |
 | @neaps/tide-database | 0.9.20260801 | 2026-08-01T12:13:14.613Z | [open](../records/node-js-javascript-neaps-tide-database-72059e90.md) |
 | @percy/cli | 1.32.7 | 2026-08-20T12:28:42.598Z | [open](../records/node-js-javascript-percy-cli-8f36f781.md) |
-| @pnp/logging | 4.21.0 | 2026-08-24T16:58:43.098Z | [open](../records/node-js-javascript-pnp-logging-7af90765.md) |
 | @redocly/openapi-core | 2.49.0 | 2026-08-27T11:54:19.010Z | [open](../records/node-js-javascript-redocly-openapi-core-1c72c325.md) |
 | @remote-ui/testing | 1.4.6 | 2025-06-13T07:48:42.233Z | [open](../records/node-js-javascript-remote-ui-testing-259af30c.md) |
 | @subsquid/apollo-server-core | 3.14.0 | 2025-01-09T10:21:30.713Z | [open](../records/node-js-javascript-subsquid-apollo-server-core-cbb8f657.md) |
 | @subsquid/apollo-server-express | 3.14.1 | 2025-05-02T12:45:14.464Z | [open](../records/node-js-javascript-subsquid-apollo-server-express-d2da452c.md) |
-| @subsquid/logger | 1.6.0 | 2026-05-11T07:59:43.851Z | [open](../records/node-js-javascript-subsquid-logger-e4c79f0d.md) |
 | @sugarcube-sh/cli | 0.1.25 | 2026-08-24T11:03:22.047Z | [open](../records/node-js-javascript-sugarcube-sh-cli-279d85e7.md) |
 | @tauri-apps/plugin-http | 2.6.0 | 2026-08-31T11:20:18.468Z | [open](../records/node-js-javascript-tauri-apps-plugin-http-7fcc9b39.md) |
 | @temporalio/testing | 1.23.0 | 2026-08-26T03:29:31.231Z | [open](../records/node-js-javascript-temporalio-testing-01a9b62c.md) |
 | @vite-hub/database | 0.0.3 | 2026-07-31T14:37:27.013Z | [open](../records/node-js-javascript-vite-hub-database-37a8b102.md) |
-| abstract-logging | 2.0.1 | 2020-10-17T12:15:48.198Z | [open](../records/node-js-javascript-abstract-logging-e0fb44af.md) |
 | apollo-datasource-http | 0.21.0 | 2022-05-20T22:08:07.327Z | [open](../records/node-js-javascript-apollo-datasource-http-07bd8767.md) |
 | json-server | 1.0.0-beta.15 | 2026-03-23T19:40:25.325Z | [open](../records/node-js-javascript-json-server-06e43076.md) |
 | mockttp | 4.6.2 | 2026-08-31T19:06:47.898Z | [open](../records/node-js-javascript-mockttp-89826f51.md) |
@@ -139,17 +142,17 @@ Records: `218`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| 30log | unknown | github_latest_release_missing | [open](../records/lua-family-30log-518c31f7.md) |
+| 30log | 30log-1.3.0-1 | 2016-10-24T13:56:07Z | [open](../records/lua-family-30log-518c31f7.md) |
 | AC-LuaServer | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-ac-luaserver-5d9557a8.md) |
 | aistemsplitter | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-aistemsplitter-1c666ef2.md) |
 | ansicolors | unknown | github_latest_release_missing | [open](../records/lua-family-ansicolors-f9d67df1.md) |
 | api7-lua-tinyyaml | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-api7-lua-tinyyaml-bc999d3b.md) |
 | apicast-cli | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-apicast-cli-6102ddfc.md) |
-| argparse | unknown | github_latest_release_missing | [open](../records/lua-family-argparse-9c28f8ab.md) |
+| argparse | 0.6.0 | 2018-04-13T19:17:35Z | [open](../records/lua-family-argparse-9c28f8ab.md) |
 | awesome-love2d | unknown | github_latest_release_missing | [open](../records/lua-family-awesome-love2d-b6a66dad.md) |
 | awesome-resty | unknown | github_latest_release_missing | [open](../records/lua-family-awesome-resty-7e046f33.md) |
-| bump.lua | unknown | github_latest_release_missing | [open](../records/lua-family-bump-lua-4a91e0cc.md) |
-| cliargs | unknown | github_latest_release_missing | [open](../records/lua-family-cliargs-282ef862.md) |
+| bump.lua | demo-2.0.0 | 2014-06-01T18:19:04Z | [open](../records/lua-family-bump-lua-4a91e0cc.md) |
+| cliargs | v3.0.2 | 2023-12-18T12:09:56Z | [open](../records/lua-family-cliargs-282ef862.md) |
 | ConcurrentLua | unknown | github_latest_release_missing | [open](../records/lua-family-concurrentlua-fa7f39fd.md) |
 | copilot-cmp | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-copilot-cmp-753af2d8.md) |
 | copilot-sdk-supercharged | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-copilot-sdk-supercharged-c155c1cf.md) |
@@ -159,7 +162,7 @@ Records: `218`
 | denque | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-denque-83050bbe.md) |
 | deq | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-deq-d971d8f2.md) |
 | deque | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-deque-b5ef2dc9.md) |
-| docroc | unknown | github_latest_release_missing | [open](../records/lua-family-docroc-541a6f07.md) |
+| docroc | v0.1.0 | 2015-12-25T21:35:49Z | [open](../records/lua-family-docroc-541a6f07.md) |
 | dromozoa-ubench | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-dromozoa-ubench-e7a9c15a.md) |
 | Drystal | unknown | not_checked | [open](../records/lua-family-drystal-2defde07.md) |
 | dub | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-dub-dffe6257.md) |
@@ -178,46 +181,47 @@ Records: `218`
 | image_handler | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-image-handler-6049b344.md) |
 | inspect.lua | unknown | github_latest_release_missing | [open](../records/lua-family-inspect-lua-dbf1bf2a.md) |
 | jnet | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-jnet-00761825.md) |
-| Journey to the Center of Hawkthorne | unknown | github_latest_release_missing | [open](../records/lua-family-journey-to-the-center-of-hawkthorne-0fe578c3.md) |
-| json.lua | unknown | github_latest_release_missing | [open](../records/lua-family-json-lua-a2acc951.md) |
-| Jumper | unknown | github_latest_release_missing | [open](../records/lua-family-jumper-433ea2f4.md) |
-| Kong | unknown | github_latest_release_missing | [open](../records/lua-family-kong-20e8bcea.md) |
+| Journey to the Center of Hawkthorne | v1.1.0 | 2024-11-22T21:58:55Z | [open](../records/lua-family-journey-to-the-center-of-hawkthorne-0fe578c3.md) |
+| json.lua | v0.1.2 | 2019-06-21T21:45:50Z | [open](../records/lua-family-json-lua-a2acc951.md) |
+| Jumper | jumper-1.8.1-1 | 2014-03-24T14:07:25Z | [open](../records/lua-family-jumper-433ea2f4.md) |
+| Kong | 3.9.3 | 2026-06-17T06:02:19Z | [open](../records/lua-family-kong-20e8bcea.md) |
 | kong-event-pub | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-kong-event-pub-b074056d.md) |
 | kong-event-pub-plugin | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-kong-event-pub-plugin-cb21bb1f.md) |
-| KoReader | unknown | github_latest_release_missing | [open](../records/lua-family-koreader-d592cc89.md) |
+| kong-kafka-custom-log | unknown | luarocks_manifest_page_does_not_include_version_date | [open](../records/lua-family-kong-kafka-custom-log-20cbb19d.md) |
+| KoReader | v2026.07.1 | 2026-08-01T11:10:30Z | [open](../records/lua-family-koreader-d592cc89.md) |
 | kpie | unknown | github_latest_release_missing | [open](../records/lua-family-kpie-f3c38937.md) |
-| lanes | unknown | github_latest_release_missing | [open](../records/lua-family-lanes-b009a902.md) |
+| lanes | v3.17.2 | 2025-10-23T06:26:07Z | [open](../records/lua-family-lanes-b009a902.md) |
 | LDoc | unknown | not_checked | [open](../records/lua-family-ldoc-a672bda6.md) |
-| ledge | unknown | github_latest_release_missing | [open](../records/lua-family-ledge-9f115079.md) |
+| ledge | v2.3.0 | 2020-01-06T15:55:00Z | [open](../records/lua-family-ledge-9f115079.md) |
 | llthreads | unknown | github_latest_release_missing | [open](../records/lua-family-llthreads-f4d815df.md) |
-| llthreads2 | unknown | github_latest_release_missing | [open](../records/lua-family-llthreads2-bf82c254.md) |
+| llthreads2 | v0.1.5 | 2018-10-04T06:37:14Z | [open](../records/lua-family-llthreads2-bf82c254.md) |
 | Locco | unknown | not_checked | [open](../records/lua-family-locco-37bbf7dc.md) |
 | lovebird | unknown | github_latest_release_missing | [open](../records/lua-family-lovebird-04e5943c.md) |
-| lpeg_patterns | unknown | github_latest_release_missing | [open](../records/lua-family-lpeg-patterns-ed1267f9.md) |
-| LPegLabel | unknown | github_latest_release_missing | [open](../records/lua-family-lpeglabel-e4f13582.md) |
+| lpeg_patterns | v0.5 | 2018-07-15T12:19:48Z | [open](../records/lua-family-lpeg-patterns-ed1267f9.md) |
+| LPegLabel | v1.6.2-1 | 2023-05-02T17:27:51Z | [open](../records/lua-family-lpeglabel-e4f13582.md) |
 | Lua Missions | unknown | github_latest_release_missing | [open](../records/lua-family-lua-missions-6cd50def.md) |
 | Lua Users Foundation | unknown | not_checked | [open](../records/lua-family-lua-users-foundation-cc900f2a.md) |
 | lua-cjson | unknown | github_latest_release_missing | [open](../records/lua-family-lua-cjson-3a4f16fd.md) |
 | lua-cmsgpack | unknown | github_latest_release_missing | [open](../records/lua-family-lua-cmsgpack-84b6e374.md) |
-| lua-cURLv3 | unknown | github_latest_release_missing | [open](../records/lua-family-lua-curlv3-635634a6.md) |
-| lua-http | unknown | github_latest_release_missing | [open](../records/lua-family-lua-http-78cee659.md) |
+| lua-cURLv3 | v0.3.13 | 2021-08-12T04:55:29Z | [open](../records/lua-family-lua-curlv3-635634a6.md) |
+| lua-http | v0.4 | 2021-02-05T15:57:07Z | [open](../records/lua-family-lua-http-78cee659.md) |
 | lua-lockbox | unknown | github_latest_release_missing | [open](../records/lua-family-lua-lockbox-9699e4bc.md) |
-| lua-log | unknown | github_latest_release_missing | [open](../records/lua-family-lua-log-71e853b8.md) |
+| lua-log | v0.1.6 | 2016-09-15T13:47:16Z | [open](../records/lua-family-lua-log-71e853b8.md) |
 | lua-MessagePack | unknown | github_latest_release_missing | [open](../records/lua-family-lua-messagepack-4077de66.md) |
 | lua-mode | unknown | github_latest_release_missing | [open](../records/lua-family-lua-mode-1552bde6.md) |
-| lua-path | unknown | github_latest_release_missing | [open](../records/lua-family-lua-path-6673244e.md) |
+| lua-path | v0.3.1 | 2019-12-08T09:03:43Z | [open](../records/lua-family-lua-path-6673244e.md) |
 | lua-pb | unknown | github_latest_release_missing | [open](../records/lua-family-lua-pb-22143d33.md) |
-| lua-resty-cassandra | unknown | github_latest_release_missing | [open](../records/lua-family-lua-resty-cassandra-84531dbd.md) |
-| lua-resty-http | unknown | github_latest_release_missing | [open](../records/lua-family-lua-resty-http-be4fac77.md) |
+| lua-resty-cassandra | v0.1 | 2014-07-26T14:54:32Z | [open](../records/lua-family-lua-resty-cassandra-84531dbd.md) |
+| lua-resty-http | v0.18.0 | 2026-07-06T13:27:30Z | [open](../records/lua-family-lua-resty-http-be4fac77.md) |
 | lua-resty-kafka | unknown | github_latest_release_missing | [open](../records/lua-family-lua-resty-kafka-8c4ebb55.md) |
 | lua-resty-mysql | unknown | github_latest_release_missing | [open](../records/lua-family-lua-resty-mysql-a16c4313.md) |
 | lua-resty-rabbitmqstomp | unknown | github_latest_release_missing | [open](../records/lua-family-lua-resty-rabbitmqstomp-57278255.md) |
-| lua-resty-redis | unknown | github_latest_release_missing | [open](../records/lua-family-lua-resty-redis-bd9f9fb0.md) |
+| lua-resty-redis | v0.29 | 2020-10-09T07:49:31Z | [open](../records/lua-family-lua-resty-redis-bd9f9fb0.md) |
 | lua-source-170 | unknown | not_checked | [open](../records/lua-family-lua-source-170-d071735b.md) |
 | lua-term | unknown | github_latest_release_missing | [open](../records/lua-family-lua-term-ddf2e840.md) |
 | lua-websockets | unknown | github_latest_release_missing | [open](../records/lua-family-lua-websockets-54d436eb.md) |
 | lua-zip | unknown | github_latest_release_missing | [open](../records/lua-family-lua-zip-966cdded.md) |
-| lua-zlib | unknown | github_latest_release_missing | [open](../records/lua-family-lua-zlib-a5cb70ce.md) |
+| lua-zlib | v1.4 | 2026-01-04T00:28:06Z | [open](../records/lua-family-lua-zlib-a5cb70ce.md) |
 | lua-zmq | unknown | github_latest_release_missing | [open](../records/lua-family-lua-zmq-702ba4e0.md) |
 | Lua: Good, bad, and ugly parts | unknown | not_checked | [open](../records/lua-family-lua-good-bad-and-ugly-parts-11af6603.md) |
 | LuaCrypto | unknown | github_latest_release_missing | [open](../records/lua-family-luacrypto-a4b17a83.md) |
@@ -225,41 +229,41 @@ Records: `218`
 | luajson | unknown | github_latest_release_missing | [open](../records/lua-family-luajson-7cb08278.md) |
 | luakit | unknown | not_checked | [open](../records/lua-family-luakit-011ea2f4.md) |
 | LuaLogging | unknown | github_latest_release_missing | [open](../records/lua-family-lualogging-d5b47771.md) |
-| luaossl | unknown | github_latest_release_missing | [open](../records/lua-family-luaossl-a7db285a.md) |
-| luaposix | unknown | github_latest_release_missing | [open](../records/lua-family-luaposix-d32e22ae.md) |
-| luaproc | unknown | github_latest_release_missing | [open](../records/lua-family-luaproc-26001aa4.md) |
-| LuaSocket | unknown | github_latest_release_missing | [open](../records/lua-family-luasocket-fc5265fd.md) |
+| luaossl | rel-20250929 | 2025-09-29T12:13:59Z | [open](../records/lua-family-luaossl-a7db285a.md) |
+| luaposix | v36.3 | 2025-02-16T20:32:14Z | [open](../records/lua-family-luaposix-d32e22ae.md) |
+| luaproc | 1.0-4 | 2015-10-03T13:25:40Z | [open](../records/lua-family-luaproc-26001aa4.md) |
+| LuaSocket | v3.1.0 | 2022-07-27T07:11:39Z | [open](../records/lua-family-luasocket-fc5265fd.md) |
 | LuaSQL | unknown | not_checked | [open](../records/lua-family-luasql-82ddaa2a.md) |
-| luassert | unknown | github_latest_release_missing | [open](../records/lua-family-luassert-692ebd30.md) |
+| luassert | v1.9.0 | 2022-08-23T21:13:32Z | [open](../records/lua-family-luassert-692ebd30.md) |
 | luatrace | unknown | github_latest_release_missing | [open](../records/lua-family-luatrace-b471f9a9.md) |
-| luatx | unknown | github_latest_release_missing | [open](../records/lua-family-luatx-43f2fb20.md) |
+| luatx | v0.4-1 | 2017-12-14T00:43:31Z | [open](../records/lua-family-luatx-43f2fb20.md) |
 | LuLPeg | unknown | github_latest_release_missing | [open](../records/lua-family-lulpeg-7496df9d.md) |
-| lume | unknown | github_latest_release_missing | [open](../records/lua-family-lume-156f9a00.md) |
+| lume | v2.3.0 | 2017-05-06T07:23:36Z | [open](../records/lua-family-lume-156f9a00.md) |
 | Lumen | unknown | github_latest_release_missing | [open](../records/lua-family-lumen-8d93dd3b.md) |
-| lurker | unknown | github_latest_release_missing | [open](../records/lua-family-lurker-a1491e60.md) |
-| lust | unknown | github_latest_release_missing | [open](../records/lua-family-lust-53b16bdd.md) |
-| luvit | unknown | github_latest_release_missing | [open](../records/lua-family-luvit-3dd9e530.md) |
+| lurker | v1.0.1 | 2014-03-10T21:15:10Z | [open](../records/lua-family-lurker-a1491e60.md) |
+| lust | v0.2.0 | 2023-08-22T20:44:58Z | [open](../records/lua-family-lust-53b16bdd.md) |
+| luvit | 2.18.1 | 2021-11-19T01:32:04Z | [open](../records/lua-family-luvit-3dd9e530.md) |
 | LXSH | unknown | github_latest_release_missing | [open](../records/lua-family-lxsh-690ad612.md) |
-| lyaml | unknown | github_latest_release_missing | [open](../records/lua-family-lyaml-3b835afa.md) |
-| lzmq | unknown | github_latest_release_missing | [open](../records/lua-family-lzmq-77ad104a.md) |
-| Mari0 | unknown | github_latest_release_missing | [open](../records/lua-family-mari0-aa7f5df4.md) |
+| lyaml | v6.2.9 | 2026-07-25T18:31:00Z | [open](../records/lua-family-lyaml-3b835afa.md) |
+| lzmq | v0.4.4 | 2017-07-24T13:15:38Z | [open](../records/lua-family-lzmq-77ad104a.md) |
+| Mari0 | 1.6.2 | 2018-09-15T16:16:23Z | [open](../records/lua-family-mari0-aa7f5df4.md) |
 | Microlight | unknown | github_latest_release_missing | [open](../records/lua-family-microlight-9da15c3f.md) |
 | middleclass | unknown | github_latest_release_missing | [open](../records/lua-family-middleclass-05ebc0e7.md) |
 | MobDebug | unknown | github_latest_release_missing | [open](../records/lua-family-mobdebug-683d1cf4.md) |
-| Moses | unknown | github_latest_release_missing | [open](../records/lua-family-moses-539ba468.md) |
-| NoobHub | unknown | github_latest_release_missing | [open](../records/lua-family-noobhub-1ae119a0.md) |
+| Moses | Moses-2.1.0-1 | 2018-09-16T09:51:09Z | [open](../records/lua-family-moses-539ba468.md) |
+| NoobHub | v1.0.0 | 2016-10-28T20:53:50Z | [open](../records/lua-family-noobhub-1ae119a0.md) |
 | Olivine style guide | unknown | github_latest_release_missing | [open](../records/lua-family-olivine-style-guide-4191dfe3.md) |
 | OpenResty GitHub Organization | unknown | not_checked | [open](../records/lua-family-openresty-github-organization-04a5b99a.md) |
 | PacPac | unknown | github_latest_release_missing | [open](../records/lua-family-pacpac-70bfc782.md) |
-| pgmoon | unknown | github_latest_release_missing | [open](../records/lua-family-pgmoon-31caeec3.md) |
+| pgmoon | v1.18.0 | 2026-08-11T14:59:30Z | [open](../records/lua-family-pgmoon-31caeec3.md) |
 | punchdrunk.js | unknown | github_latest_release_missing | [open](../records/lua-family-punchdrunk-js-c322e63d.md) |
 | redis-lua | unknown | github_latest_release_missing | [open](../records/lua-family-redis-lua-f21fa0f3.md) |
-| RxLua | unknown | github_latest_release_missing | [open](../records/lua-family-rxlua-a1d30915.md) |
-| say | unknown | github_latest_release_missing | [open](../records/lua-family-say-77ab67e5.md) |
+| RxLua | v0.0.3 | 2017-06-24T20:15:00Z | [open](../records/lua-family-rxlua-a1d30915.md) |
+| say | v1.4.1 | 2022-08-27T08:23:04Z | [open](../records/lua-family-say-77ab67e5.md) |
 | Ser | unknown | github_latest_release_missing | [open](../records/lua-family-ser-c0c2963c.md) |
 | serpent | unknown | github_latest_release_missing | [open](../records/lua-family-serpent-7d079378.md) |
-| SLAXML | unknown | github_latest_release_missing | [open](../records/lua-family-slaxml-ec95d510.md) |
-| StackTracePlus | unknown | github_latest_release_missing | [open](../records/lua-family-stacktraceplus-102fc47b.md) |
+| SLAXML | v0.8 | 2023-01-01T01:38:06Z | [open](../records/lua-family-slaxml-ec95d510.md) |
+| StackTracePlus | 0.1.2-1 | 2015-01-20T13:17:20Z | [open](../records/lua-family-stacktraceplus-102fc47b.md) |
 | telescope | unknown | github_latest_release_missing | [open](../records/lua-family-telescope-f14cba5d.md) |
 | termtris | unknown | github_latest_release_missing | [open](../records/lua-family-termtris-691bd60f.md) |
 | tween.lua | unknown | github_latest_release_missing | [open](../records/lua-family-tween-lua-a84b7869.md) |

@@ -8,23 +8,23 @@ Records: `405`
 
 ## Category Index
 
-[Api Abi Checker (66)](api-abi-checker.md) · [Api Doc Generator (5)](api-doc-generator.md) · [Assertion Mocking (31)](assertion-mocking.md) · [Async Runtime (84)](async-runtime.md)
-[Benchmarking (39)](benchmarking.md) · **[Build System (405)](build-system.md)** · [Cli (300)](cli.md) · [Codegen Codemod Refactoring (14)](codegen-codemod-refactoring.md)
+[Api Abi Checker (73)](api-abi-checker.md) · [Api Doc Generator (5)](api-doc-generator.md) · [Assertion Mocking (31)](assertion-mocking.md) · [Async Runtime (87)](async-runtime.md)
+[Benchmarking (39)](benchmarking.md) · **[Build System (405)](build-system.md)** · [Cli (314)](cli.md) · [Codegen Codemod Refactoring (14)](codegen-codemod-refactoring.md)
 [Community Reference (39)](community-reference.md) · [Compiler (82)](compiler.md) · [Compiler Diagnostics (8)](compiler-diagnostics.md) · [Compression (26)](compression.md)
-[Concurrency Parallelism (42)](concurrency-parallelism.md) · [Configuration (46)](configuration.md) · [Container Deployment (2)](container-deployment.md) · [Coverage (8)](coverage.md)
-[Cryptography (114)](cryptography.md) · [Data Science (14)](data-science.md) · [Database Datastore (225)](database-datastore.md) · [Datetime (44)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (31)](debugger.md) · [Dependency Manager (36)](dependency-manager.md) · [Documentation (21)](documentation.md)
-[Embedded Hardware (15)](embedded-hardware.md) · [Ffi Bindings (256)](ffi-bindings.md) · [Filesystem Os (299)](filesystem-os.md) · [Formatter (324)](formatter.md)
-[Framework (11)](framework.md) · [Fuzzer (10)](fuzzer.md) · [Game Engine Game Dev (54)](game-engine-game-dev.md) · [Ide Editor Integration (399)](ide-editor-integration.md)
-[Image Audio Dsp (43)](image-audio-dsp.md) · [Interop Bindings (34)](interop-bindings.md) · [Interpreter Runtime (77)](interpreter-runtime.md) · [Jit Vm (47)](jit-vm.md)
-[Language Server (19)](language-server.md) · [Language Specification (216)](language-specification.md) · [Library (2365)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (27)](lint-rule-pack.md) · [Linter (318)](linter.md) · [Logging Observability (181)](logging-observability.md) · [Machine Learning (215)](machine-learning.md)
-[Math Numeric Scientific (37)](math-numeric-scientific.md) · [Memory Analyzer (39)](memory-analyzer.md) · [Message Broker (12)](message-broker.md) · [Networking Http (423)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (116)](package-manager.md) · [Parser Lexer Ast (314)](parser-lexer-ast.md) · [Precommit Ci Quality (115)](precommit-ci-quality.md)
-[Profiler (41)](profiler.md) · [Project Scaffolding (38)](project-scaffolding.md) · [Registry Repository (10)](registry-repository.md) · [Sanitizer (4)](sanitizer.md)
-[Security Sast (203)](security-sast.md) · [Serialization (162)](serialization.md) · [Standard Library (18)](standard-library.md) · [Static Analyzer (68)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (333)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md) · [Type Checker (229)](type-checker.md)
-[Undefined Behavior Analyzer (218)](undefined-behavior-analyzer.md) · [Utility Library (51)](utility-library.md) · [Visualization Gui (93)](visualization-gui.md) · [Web Framework (199)](web-framework.md)
+[Concurrency Parallelism (42)](concurrency-parallelism.md) · [Configuration (47)](configuration.md) · [Container Deployment (2)](container-deployment.md) · [Coverage (8)](coverage.md)
+[Cryptography (116)](cryptography.md) · [Data Science (14)](data-science.md) · [Database Datastore (230)](database-datastore.md) · [Datetime (44)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (24)](debugger.md) · [Dependency Manager (35)](dependency-manager.md) · [Documentation (21)](documentation.md)
+[Embedded Hardware (15)](embedded-hardware.md) · [Ffi Bindings (258)](ffi-bindings.md) · [Filesystem Os (303)](filesystem-os.md) · [Formatter (325)](formatter.md)
+[Framework (11)](framework.md) · [Fuzzer (10)](fuzzer.md) · [Game Engine Game Dev (54)](game-engine-game-dev.md) · [Ide Editor Integration (396)](ide-editor-integration.md)
+[Image Audio Dsp (44)](image-audio-dsp.md) · [Interop Bindings (34)](interop-bindings.md) · [Interpreter Runtime (78)](interpreter-runtime.md) · [Jit Vm (48)](jit-vm.md)
+[Language Server (19)](language-server.md) · [Language Specification (216)](language-specification.md) · [Library (2390)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (28)](lint-rule-pack.md) · [Linter (320)](linter.md) · [Logging Observability (86)](logging-observability.md) · [Machine Learning (221)](machine-learning.md)
+[Math Numeric Scientific (37)](math-numeric-scientific.md) · [Memory Analyzer (40)](memory-analyzer.md) · [Message Broker (14)](message-broker.md) · [Networking Http (439)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (116)](package-manager.md) · [Parser Lexer Ast (320)](parser-lexer-ast.md) · [Precommit Ci Quality (115)](precommit-ci-quality.md)
+[Profiler (39)](profiler.md) · [Project Scaffolding (41)](project-scaffolding.md) · [Registry Repository (10)](registry-repository.md) · [Sanitizer (5)](sanitizer.md)
+[Security Sast (200)](security-sast.md) · [Serialization (158)](serialization.md) · [Standard Library (18)](standard-library.md) · [Static Analyzer (68)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (337)](testing-framework.md) · [Tutorial Book Styleguide (7)](tutorial-book-styleguide.md) · [Type Checker (223)](type-checker.md)
+[Undefined Behavior Analyzer (217)](undefined-behavior-analyzer.md) · [Utility Library (51)](utility-library.md) · [Visualization Gui (97)](visualization-gui.md) · [Web Framework (208)](web-framework.md)
 
 ## C99
 
@@ -135,6 +135,8 @@ Records: `405`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| a2a-client-toolkit | 0.1.7 | 2025-06-24T01:01:08.457232Z | [open](../records/python-a2a-client-toolkit-50f2f5f4.md) |
+| aadc-cli | 1.0.9.6 | 2025-12-07T08:24:32.757273Z | [open](../records/python-aadc-cli-65ca9e72.md) |
 | build | 1.6.0 | 2026-08-27T21:01:16.458736Z | [open](../records/python-build-a87757ae.md) |
 | meson-python | 0.20.0 | 2026-06-10T19:42:52.132468Z | [open](../records/python-meson-python-18d89356.md) |
 | PDM | 2.29.0 | 2026-08-29T10:18:48.361727Z | [open](../records/python-pdm-076dbfc7.md) |
@@ -256,7 +258,6 @@ Records: `405`
 | @storybook/builder-vite | 10.5.10 | 2026-08-20T10:46:45.946Z | [open](../records/node-js-javascript-storybook-builder-vite-d3228f2e.md) |
 | @storybook/builder-webpack5 | 10.5.10 | 2026-08-20T10:44:47.315Z | [open](../records/node-js-javascript-storybook-builder-webpack5-12d93d01.md) |
 | @stricli/core | 1.3.0 | 2026-07-16T13:35:29.297Z | [open](../records/node-js-javascript-stricli-core-d8d51ee5.md) |
-| @superbuilders/slog | 4.0.7 | 2026-07-13T21:24:40.086Z | [open](../records/node-js-javascript-superbuilders-slog-5374711a.md) |
 | @sveltejs/kit | 2.70.3 | 2026-08-18T15:02:00.715Z | [open](../records/node-js-javascript-sveltejs-kit-44afc8ef.md) |
 | @sveltejs/package | 2.5.8 | 2026-06-02T19:41:20.315Z | [open](../records/node-js-javascript-sveltejs-package-baae77e4.md) |
 | @tamagui/build | 2.7.7 | 2026-08-15T00:25:45.641Z | [open](../records/node-js-javascript-tamagui-build-c2f126f8.md) |
@@ -276,7 +277,6 @@ Records: `405`
 | @unhead/bundler | 3.4.0 | 2026-08-21T16:24:52.475Z | [open](../records/node-js-javascript-unhead-bundler-cf7fff1e.md) |
 | @uniweb/build | 0.30.0 | 2026-08-29T19:59:18.288Z | [open](../records/node-js-javascript-uniweb-build-739917ab.md) |
 | @vercel/gatsby-plugin-vercel-builder | 2.2.50 | 2026-08-29T01:03:37.548Z | [open](../records/node-js-javascript-vercel-gatsby-plugin-vercel-builder-b85ae594.md) |
-| @vidstack/react | 0.6.15 | 2024-04-19T07:25:48.130Z | [open](../records/node-js-javascript-vidstack-react-e7808738.md) |
 | @voxgig/build | 4.16.0 | 2026-08-29T00:41:03.191Z | [open](../records/node-js-javascript-voxgig-build-524dbdf8.md) |
 | @vue/compat | 3.5.42 | 2026-08-27T05:47:36.385Z | [open](../records/node-js-javascript-vue-compat-d0b97399.md) |
 | @warp-drive-mirror/build-config | 5.8.2 | 2026-04-17T06:47:08.782Z | [open](../records/node-js-javascript-warp-drive-mirror-build-config-4b3b01b1.md) |
@@ -318,6 +318,7 @@ Records: `405`
 | ember-cli-deploy-build | 3.0.0 | 2023-06-04T19:35:04.002Z | [open](../records/node-js-javascript-ember-cli-deploy-build-9f6d022f.md) |
 | ember-cli-lodash-subset | 2.0.1 | 2017-06-30T14:44:17.986Z | [open](../records/node-js-javascript-ember-cli-lodash-subset-7888f42f.md) |
 | emberjs-build | 0.20.1 | 2017-04-22T16:16:38.095Z | [open](../records/node-js-javascript-emberjs-build-cf398d9d.md) |
+| ensure-posix-path | 1.1.1 | 2019-02-04T01:21:16.625Z | [open](../records/node-js-javascript-ensure-posix-path-1903704e.md) |
 | esbuild | 0.28.2 | 2026-08-08T20:00:55.454Z | [open](../records/node-js-javascript-esbuild-7e8cb937.md) |
 | esbuild-loader | 4.5.0 | 2026-06-15T05:12:58.253Z | [open](../records/node-js-javascript-esbuild-loader-118aa4ed.md) |
 | eslint-template-visitor | 2.3.2 | 2021-02-18T04:08:22.651Z | [open](../records/node-js-javascript-eslint-template-visitor-42b54acd.md) |
@@ -378,7 +379,6 @@ Records: `405`
 | on-build-webpack | 0.1.0 | 2014-10-11T15:09:21.919Z | [open](../records/node-js-javascript-on-build-webpack-9b72571b.md) |
 | opencv-build | 0.1.9 | 2019-09-08T13:37:19.396Z | [open](../records/node-js-javascript-opencv-build-422064fe.md) |
 | pdfjs-dist | 6.3.289 | 2026-08-29T12:52:28.054Z | [open](../records/node-js-javascript-pdfjs-dist-525990f0.md) |
-| pino-cloud-logging | 1.0.6 | 2022-09-03T18:17:05.430Z | [open](../records/node-js-javascript-pino-cloud-logging-b19acc32.md) |
 | pkg-prebuilds | 1.1.0 | 2026-06-19T18:22:48.124Z | [open](../records/node-js-javascript-pkg-prebuilds-4b182d77.md) |
 | polymer-build | 3.1.4 | 2019-04-26T21:52:13.778Z | [open](../records/node-js-javascript-polymer-build-4ee37604.md) |
 | prettier-config-xo | 3.0.0 | 2026-08-23T21:37:12.747Z | [open](../records/node-js-javascript-prettier-config-xo-5499a639.md) |
