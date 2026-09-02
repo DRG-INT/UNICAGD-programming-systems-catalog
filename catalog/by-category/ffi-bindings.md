@@ -1,6 +1,6 @@
 # Ffi Bindings
 
-Records: `387`
+Records: `388`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `387`
 
 ## Category Index
 
-[Api Abi Checker (185)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (123)](async-runtime.md)
-[Benchmarking (110)](benchmarking.md) · [Build System (813)](build-system.md) · [Cli (501)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (85)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
-[Concurrency Parallelism (72)](concurrency-parallelism.md) · [Configuration (100)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (155)](cryptography.md) · [Data Science (33)](data-science.md) · [Database Datastore (714)](database-datastore.md) · [Datetime (158)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (85)](dependency-manager.md) · [Documentation (88)](documentation.md)
-[Embedded Hardware (49)](embedded-hardware.md) · **[Ffi Bindings (387)](ffi-bindings.md)** · [Filesystem Os (1197)](filesystem-os.md) · [Formatter (545)](formatter.md)
-[Framework (47)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (157)](game-engine-game-dev.md) · [Ide Editor Integration (1133)](ide-editor-integration.md)
-[Image Audio Dsp (300)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (227)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1230)](language-specification.md) · [Library (4824)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (388)](logging-observability.md) · [Machine Learning (584)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (77)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (916)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (263)](package-manager.md) · [Parser Lexer Ast (905)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
+[Api Abi Checker (187)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (124)](async-runtime.md)
+[Benchmarking (115)](benchmarking.md) · [Build System (821)](build-system.md) · [Cli (501)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (85)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+[Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (100)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (155)](cryptography.md) · [Data Science (33)](data-science.md) · [Database Datastore (753)](database-datastore.md) · [Datetime (158)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (88)](documentation.md)
+[Embedded Hardware (49)](embedded-hardware.md) · **[Ffi Bindings (388)](ffi-bindings.md)** · [Filesystem Os (1199)](filesystem-os.md) · [Formatter (546)](formatter.md)
+[Framework (48)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (157)](game-engine-game-dev.md) · [Ide Editor Integration (1138)](ide-editor-integration.md)
+[Image Audio Dsp (300)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (230)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1233)](language-specification.md) · [Library (4835)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (390)](logging-observability.md) · [Machine Learning (584)](machine-learning.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (85)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (919)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (271)](package-manager.md) · [Parser Lexer Ast (917)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
 [Profiler (72)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (311)](security-sast.md) · [Serialization (368)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (438)](static-analyzer.md)
+[Security Sast (312)](security-sast.md) · [Serialization (369)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (440)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (496)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (290)](type-checker.md)
-[Undefined Behavior Analyzer (1380)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (414)](visualization-gui.md) · [Web Framework (391)](web-framework.md)
+[Undefined Behavior Analyzer (1385)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (414)](visualization-gui.md) · [Web Framework (401)](web-framework.md)
 
 ## C++23
 
@@ -410,13 +410,13 @@ Records: `387`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| crazycapivara/h3-r | v3.7.1 | 2021-06-23T14:56:36Z | [open](../records/maps-crazycapivara-h3-r-7a69cf02.md) |
+| crazycapivara/h3-r | partial | 2022-08-08T08:04:12Z | [open](../records/maps-crazycapivara-h3-r-7a69cf02.md) |
 | Gaia3D/mago-3d-tiler | unknown | github_search_does_not_include_release_date | [open](../records/maps-gaia3d-mago-3d-tiler-ef3c4fa4.md) |
 | geoserver/geoserver | partial | 2026-09-01T16:17:12Z | [open](../records/maps-geoserver-geoserver-be5dd005.md) |
 | geotools/geotools | partial | 2026-09-01T17:51:13Z | [open](../records/maps-geotools-geotools-a7928212.md) |
 | naturalatlas/node-gdal | partial | 2024-09-03T21:32:11Z | [open](../records/maps-naturalatlas-node-gdal-bc3c7bb2.md) |
-| rtuszik/photon-docker | 2.4.0 | 2026-08-17T18:44:15Z | [open](../records/maps-rtuszik-photon-docker-df6fa4fc.md) |
-| SweetIQ/expostal | unknown | github_latest_release_missing | [open](../records/maps-sweetiq-expostal-ee383b88.md) |
+| rtuszik/photon-docker | partial | 2026-08-30T03:58:55Z | [open](../records/maps-rtuszik-photon-docker-df6fa4fc.md) |
+| SweetIQ/expostal | partial | 2023-07-23T09:55:31Z | [open](../records/maps-sweetiq-expostal-ee383b88.md) |
 | tjukanovt/30DayMapChallenge | partial | 2026-08-26T18:59:03Z | [open](../records/maps-tjukanovt-30daymapchallenge-a44707f4.md) |
 | twpayne/go-geom | partial | 2026-08-19T19:57:18Z | [open](../records/maps-twpayne-go-geom-0868b72a.md) |
 
@@ -578,6 +578,7 @@ Records: `387`
 | mongodb/mongo-csharp-driver | partial | 2026-08-28T19:50:23Z | [open](../records/databases-mongodb-mongo-csharp-driver-9f56565d.md) |
 | mongodb/node-mongodb-native | partial | 2026-09-01T13:45:46Z | [open](../records/databases-mongodb-node-mongodb-native-de777c0a.md) |
 | oracle/docker-images | partial | 2026-08-31T15:37:38Z | [open](../records/databases-oracle-docker-images-69ec5f43.md) |
+| parthsarthi03/raptor | partial | 2024-09-03T08:34:31Z | [open](../records/databases-parthsarthi03-raptor-aabfb858.md) |
 | sqlitebrowser/sqlitebrowser | partial | 2026-08-29T22:43:38Z | [open](../records/databases-sqlitebrowser-sqlitebrowser-30722f99.md) |
 | trinodb/trino | partial | 2026-09-01T17:17:25Z | [open](../records/databases-trinodb-trino-b6fa58b4.md) |
 

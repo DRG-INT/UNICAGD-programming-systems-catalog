@@ -1,6 +1,6 @@
 # Serialization
 
-Records: `368`
+Records: `369`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `368`
 
 ## Category Index
 
-[Api Abi Checker (185)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (123)](async-runtime.md)
-[Benchmarking (110)](benchmarking.md) · [Build System (813)](build-system.md) · [Cli (501)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (85)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
-[Concurrency Parallelism (72)](concurrency-parallelism.md) · [Configuration (100)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (155)](cryptography.md) · [Data Science (33)](data-science.md) · [Database Datastore (714)](database-datastore.md) · [Datetime (158)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (85)](dependency-manager.md) · [Documentation (88)](documentation.md)
-[Embedded Hardware (49)](embedded-hardware.md) · [Ffi Bindings (387)](ffi-bindings.md) · [Filesystem Os (1197)](filesystem-os.md) · [Formatter (545)](formatter.md)
-[Framework (47)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (157)](game-engine-game-dev.md) · [Ide Editor Integration (1133)](ide-editor-integration.md)
-[Image Audio Dsp (300)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (227)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1230)](language-specification.md) · [Library (4824)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (388)](logging-observability.md) · [Machine Learning (584)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (77)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (916)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (263)](package-manager.md) · [Parser Lexer Ast (905)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
+[Api Abi Checker (187)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (124)](async-runtime.md)
+[Benchmarking (115)](benchmarking.md) · [Build System (821)](build-system.md) · [Cli (501)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (85)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+[Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (100)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (155)](cryptography.md) · [Data Science (33)](data-science.md) · [Database Datastore (753)](database-datastore.md) · [Datetime (158)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (88)](documentation.md)
+[Embedded Hardware (49)](embedded-hardware.md) · [Ffi Bindings (388)](ffi-bindings.md) · [Filesystem Os (1199)](filesystem-os.md) · [Formatter (546)](formatter.md)
+[Framework (48)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (157)](game-engine-game-dev.md) · [Ide Editor Integration (1138)](ide-editor-integration.md)
+[Image Audio Dsp (300)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (230)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1233)](language-specification.md) · [Library (4835)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (390)](logging-observability.md) · [Machine Learning (584)](machine-learning.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (85)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (919)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (271)](package-manager.md) · [Parser Lexer Ast (917)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
 [Profiler (72)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (311)](security-sast.md) · **[Serialization (368)](serialization.md)** · [Standard Library (24)](standard-library.md) · [Static Analyzer (438)](static-analyzer.md)
+[Security Sast (312)](security-sast.md) · **[Serialization (369)](serialization.md)** · [Standard Library (24)](standard-library.md) · [Static Analyzer (440)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (496)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (290)](type-checker.md)
-[Undefined Behavior Analyzer (1380)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (414)](visualization-gui.md) · [Web Framework (391)](web-framework.md)
+[Undefined Behavior Analyzer (1385)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (414)](visualization-gui.md) · [Web Framework (401)](web-framework.md)
 
 ## C99
 
@@ -172,7 +172,7 @@ Records: `368`
 | msgpackr | unknown | not_checked | [open](../records/node-js-javascript-msgpackr-97305d61.md) |
 | next-logger | 5.0.2 | 2025-10-08T08:07:39.079Z | [open](../records/node-js-javascript-next-logger-c9e9ac18.md) |
 | node-json-db | 2.6.0 | 2026-03-10T13:22:31.927Z | [open](../records/node-js-javascript-node-json-db-3561199d.md) |
-| oui-data | 2.1.13 | 2026-09-01T09:35:59.150Z | [open](../records/node-js-javascript-oui-data-c721fc74.md) |
+| oui-data | 2.1.14 | 2026-09-02T09:01:14.674Z | [open](../records/node-js-javascript-oui-data-c721fc74.md) |
 | protobuf.js | unknown | not_checked | [open](../records/node-js-javascript-protobuf-js-e25225b4.md) |
 | serverless-logging-config | 1.0.2 | 2024-01-05T19:41:41.282Z | [open](../records/node-js-javascript-serverless-logging-config-d94d1c13.md) |
 | sharedb | 6.0.2 | 2026-08-25T10:52:32.035Z | [open](../records/node-js-javascript-sharedb-65f97f47.md) |
@@ -365,7 +365,7 @@ Records: `368`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| headroomlabs-ai/headroom | partial | 2026-09-01T13:11:40Z | [open](../records/aim-s-headroomlabs-ai-headroom-d7859a86.md) |
+| headroomlabs-ai/headroom | partial | 2026-09-02T10:14:46Z | [open](../records/aim-s-headroomlabs-ai-headroom-d7859a86.md) |
 | ONNX | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-onnx-a7e4f39c.md) |
 
 ## APIs
@@ -561,5 +561,6 @@ Records: `368`
 | Apache Avro | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-apache-avro-547a0b9e.md) |
 | Apache ORC | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-apache-orc-a9582620.md) |
 | Apache Parquet | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-apache-parquet-4e0e3d4f.md) |
+| ArcadeData/arcadedb | partial | 2026-09-02T10:08:42Z | [open](../records/databases-arcadedata-arcadedb-23b789da.md) |
 | CSV | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-csv-8eb9b7a8.md) |
 | JSON Lines | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-json-lines-b2bf7401.md) |

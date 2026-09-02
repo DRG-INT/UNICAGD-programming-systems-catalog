@@ -8,23 +8,23 @@ Records: `300`
 
 ## Category Index
 
-[Api Abi Checker (185)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (123)](async-runtime.md)
-[Benchmarking (110)](benchmarking.md) · [Build System (813)](build-system.md) · [Cli (501)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (85)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
-[Concurrency Parallelism (72)](concurrency-parallelism.md) · [Configuration (100)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (155)](cryptography.md) · [Data Science (33)](data-science.md) · [Database Datastore (714)](database-datastore.md) · [Datetime (158)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (85)](dependency-manager.md) · [Documentation (88)](documentation.md)
-[Embedded Hardware (49)](embedded-hardware.md) · [Ffi Bindings (387)](ffi-bindings.md) · [Filesystem Os (1197)](filesystem-os.md) · [Formatter (545)](formatter.md)
-[Framework (47)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (157)](game-engine-game-dev.md) · [Ide Editor Integration (1133)](ide-editor-integration.md)
-**[Image Audio Dsp (300)](image-audio-dsp.md)** · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (227)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1230)](language-specification.md) · [Library (4824)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (388)](logging-observability.md) · [Machine Learning (584)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (77)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (916)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (263)](package-manager.md) · [Parser Lexer Ast (905)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
+[Api Abi Checker (187)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (124)](async-runtime.md)
+[Benchmarking (115)](benchmarking.md) · [Build System (821)](build-system.md) · [Cli (501)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (85)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+[Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (100)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (155)](cryptography.md) · [Data Science (33)](data-science.md) · [Database Datastore (753)](database-datastore.md) · [Datetime (158)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (88)](documentation.md)
+[Embedded Hardware (49)](embedded-hardware.md) · [Ffi Bindings (388)](ffi-bindings.md) · [Filesystem Os (1199)](filesystem-os.md) · [Formatter (546)](formatter.md)
+[Framework (48)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (157)](game-engine-game-dev.md) · [Ide Editor Integration (1138)](ide-editor-integration.md)
+**[Image Audio Dsp (300)](image-audio-dsp.md)** · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (230)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1233)](language-specification.md) · [Library (4835)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (390)](logging-observability.md) · [Machine Learning (584)](machine-learning.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (85)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (919)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (271)](package-manager.md) · [Parser Lexer Ast (917)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
 [Profiler (72)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (311)](security-sast.md) · [Serialization (368)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (438)](static-analyzer.md)
+[Security Sast (312)](security-sast.md) · [Serialization (369)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (440)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (496)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (290)](type-checker.md)
-[Undefined Behavior Analyzer (1380)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (414)](visualization-gui.md) · [Web Framework (391)](web-framework.md)
+[Undefined Behavior Analyzer (1385)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (414)](visualization-gui.md) · [Web Framework (401)](web-framework.md)
 
 ## C++23
 
@@ -268,7 +268,7 @@ Records: `300`
 | AudioKit/ROMPlayer | unknown | github_latest_release_missing | [open](../records/audio-audiokit-romplayer-2b98bcd6.md) |
 | belangeo/pyo | partial | 2026-07-20T17:13:45Z | [open](../records/audio-belangeo-pyo-e606cff4.md) |
 | brettbuddin/shaden | unknown | github_latest_release_missing | [open](../records/audio-brettbuddin-shaden-872f0f42.md) |
-| cycfi/q | partial | 2026-08-29T12:46:35Z | [open](../records/audio-cycfi-q-42b5713b.md) |
+| cycfi/q | partial | 2026-09-02T10:02:40Z | [open](../records/audio-cycfi-q-42b5713b.md) |
 | danfrz/PLEBTracker | unknown | github_latest_release_missing | [open](../records/audio-danfrz-plebtracker-06b1bf3d.md) |
 | DBraun/DawDreamer | v0.9.0 | 2026-08-12T17:01:55Z | [open](../records/audio-dbraun-dawdreamer-ff34815f.md) |
 | DISTRHO/Cardinal | partial | 2026-07-28T11:06:35Z | [open](../records/audio-distrho-cardinal-52b559a2.md) |
@@ -288,7 +288,7 @@ Records: `300`
 | jareddrayton/Audio-Plugin-Development-Resources | partial | 2022-11-01T15:35:25Z | [open](../records/audio-jareddrayton-audio-plugin-development-resources-5d496c70.md) |
 | JUCE | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-juce-3f2891c9.md) |
 | JuliaDSP/DSP.jl | partial | 2026-08-25T10:58:30Z | [open](../records/audio-juliadsp-dsp-jl-4e524896.md) |
-| katspaugh/wavesurfer.js | partial | 2026-08-21T11:58:21Z | [open](../records/audio-katspaugh-wavesurfer-js-cff13805.md) |
+| katspaugh/wavesurfer.js | partial | 2026-09-02T10:23:46Z | [open](../records/audio-katspaugh-wavesurfer-js-cff13805.md) |
 | koel/koel | partial | 2026-09-01T22:52:59Z | [open](../records/audio-koel-koel-f2457c0c.md) |
 | libsndfile | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-libsndfile-6065db3d.md) |
 | mackron/miniaudio | partial | 2026-08-19T22:07:12Z | [open](../records/audio-mackron-miniaudio-78110754.md) |

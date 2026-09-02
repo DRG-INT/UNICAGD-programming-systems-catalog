@@ -1,6 +1,6 @@
 # Package Manager
 
-Records: `263`
+Records: `271`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `263`
 
 ## Category Index
 
-[Api Abi Checker (185)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (123)](async-runtime.md)
-[Benchmarking (110)](benchmarking.md) · [Build System (813)](build-system.md) · [Cli (501)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (85)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
-[Concurrency Parallelism (72)](concurrency-parallelism.md) · [Configuration (100)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (155)](cryptography.md) · [Data Science (33)](data-science.md) · [Database Datastore (714)](database-datastore.md) · [Datetime (158)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (85)](dependency-manager.md) · [Documentation (88)](documentation.md)
-[Embedded Hardware (49)](embedded-hardware.md) · [Ffi Bindings (387)](ffi-bindings.md) · [Filesystem Os (1197)](filesystem-os.md) · [Formatter (545)](formatter.md)
-[Framework (47)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (157)](game-engine-game-dev.md) · [Ide Editor Integration (1133)](ide-editor-integration.md)
-[Image Audio Dsp (300)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (227)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1230)](language-specification.md) · [Library (4824)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (388)](logging-observability.md) · [Machine Learning (584)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (77)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (916)](networking-http.md)
-[Other (14)](other.md) · **[Package Manager (263)](package-manager.md)** · [Parser Lexer Ast (905)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
+[Api Abi Checker (187)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (124)](async-runtime.md)
+[Benchmarking (115)](benchmarking.md) · [Build System (821)](build-system.md) · [Cli (501)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (85)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+[Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (100)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (155)](cryptography.md) · [Data Science (33)](data-science.md) · [Database Datastore (753)](database-datastore.md) · [Datetime (158)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (88)](documentation.md)
+[Embedded Hardware (49)](embedded-hardware.md) · [Ffi Bindings (388)](ffi-bindings.md) · [Filesystem Os (1199)](filesystem-os.md) · [Formatter (546)](formatter.md)
+[Framework (48)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (157)](game-engine-game-dev.md) · [Ide Editor Integration (1138)](ide-editor-integration.md)
+[Image Audio Dsp (300)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (230)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1233)](language-specification.md) · [Library (4835)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (390)](logging-observability.md) · [Machine Learning (584)](machine-learning.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (85)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (919)](networking-http.md)
+[Other (14)](other.md) · **[Package Manager (271)](package-manager.md)** · [Parser Lexer Ast (917)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
 [Profiler (72)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (311)](security-sast.md) · [Serialization (368)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (438)](static-analyzer.md)
+[Security Sast (312)](security-sast.md) · [Serialization (369)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (440)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (496)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (290)](type-checker.md)
-[Undefined Behavior Analyzer (1380)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (414)](visualization-gui.md) · [Web Framework (391)](web-framework.md)
+[Undefined Behavior Analyzer (1385)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (414)](visualization-gui.md) · [Web Framework (401)](web-framework.md)
 
 ## C99
 
@@ -282,6 +282,13 @@ Records: `263`
 | snapotter-hq/SnapOtter | partial | 2026-08-31T16:44:04Z | [open](../records/assets-snapotter-hq-snapotter-f5614eb5.md) |
 | spotify/klio | partial | 2024-01-10T19:37:37Z | [open](../records/assets-spotify-klio-c9106254.md) |
 
+## Maps
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| pathintegral-institute/mcpm.sh | partial | 2026-08-22T16:02:39Z | [open](../records/maps-pathintegral-institute-mcpm-sh-3ca68074.md) |
+| smg-project/smg | partial | 2026-09-02T09:04:14Z | [open](../records/maps-smg-project-smg-842075fb.md) |
+
 ## Space Engines
 
 | Name | Release | Date | Page |
@@ -315,7 +322,7 @@ Records: `263`
 | Audio4Linux/JDSP4Linux | partial | 2026-08-29T16:29:46Z | [open](../records/effects-audio4linux-jdsp4linux-e90e4af9.md) |
 | beinteractive/LWRPAmbientOcclusion | partial | 2019-10-04T22:49:34Z | [open](../records/effects-beinteractive-lwrpambientocclusion-7b85e0e3.md) |
 | CialloKing/ba-click-fx | partial | 2026-08-18T05:57:36Z | [open](../records/effects-cialloking-ba-click-fx-b842180a.md) |
-| CyberAgentGameEntertainment/NovaShader | partial | 2026-07-17T05:13:02Z | [open](../records/effects-cyberagentgameentertainment-novashader-cfdfe2cf.md) |
+| CyberAgentGameEntertainment/NovaShader | partial | 2026-09-02T09:17:59Z | [open](../records/effects-cyberagentgameentertainment-novashader-cfdfe2cf.md) |
 | demonixis/SSGI-URP | partial | 2020-03-11T06:40:26Z | [open](../records/effects-demonixis-ssgi-urp-4db7e7d8.md) |
 | GarrettGunnell/Post-Processing | unknown | github_latest_release_missing | [open](../records/effects-garrettgunnell-post-processing-2bb2ca4a.md) |
 | GeorgePyralis/dsp-audio-fx | partial | 2026-03-13T11:59:59Z | [open](../records/effects-georgepyralis-dsp-audio-fx-f597d4dc.md) |
@@ -337,7 +344,7 @@ Records: `263`
 | Archie3d/aeolus_plugin | v0.3.0 | 2025-05-31T13:17:36Z | [open](../records/audio-archie3d-aeolus-plugin-c1d397f6.md) |
 | Audio4Linux/JDSP4Linux | partial | 2026-08-29T16:29:46Z | [open](../records/audio-audio4linux-jdsp4linux-effd41ab.md) |
 | collidingScopes/arpeggiator | unknown | github_latest_release_missing | [open](../records/audio-collidingscopes-arpeggiator-f2da818f.md) |
-| modelscope/FunASR | partial | 2026-09-02T08:35:59Z | [open](../records/audio-modelscope-funasr-8e089427.md) |
+| modelscope/FunASR | partial | 2026-09-02T10:21:27Z | [open](../records/audio-modelscope-funasr-8e089427.md) |
 
 ## Video
 
@@ -434,6 +441,12 @@ Records: `263`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | CodisLabs/codis | partial | 2024-04-15T03:46:45Z | [open](../records/databases-codislabs-codis-2fbfa490.md) |
+| doobidoo/mcp-memory-service | partial | 2026-09-02T06:00:50Z | [open](../records/databases-doobidoo-mcp-memory-service-1f3af65d.md) |
+| memvid/memvid | partial | 2026-07-14T14:39:07Z | [open](../records/databases-memvid-memvid-85e03b2f.md) |
+| oramasearch/orama | partial | 2026-08-04T00:12:46Z | [open](../records/databases-oramasearch-orama-c7b7d315.md) |
+| pathwaycom/llm-app | partial | 2026-07-05T17:59:07Z | [open](../records/databases-pathwaycom-llm-app-200fc9af.md) |
+| pchunduri6/rag-demystified | partial | 2024-01-26T04:49:00Z | [open](../records/databases-pchunduri6-rag-demystified-4f769fe6.md) |
+| PrithivirajDamodaran/FlashRank | partial | 2026-07-11T08:06:27Z | [open](../records/databases-prithivirajdamodaran-flashrank-be447af3.md) |
 
 ## Repository Workplaces
 

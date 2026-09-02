@@ -1,6 +1,6 @@
 # Library
 
-Records: `4824`
+Records: `4835`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `4824`
 
 ## Category Index
 
-[Api Abi Checker (185)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (123)](async-runtime.md)
-[Benchmarking (110)](benchmarking.md) · [Build System (813)](build-system.md) · [Cli (501)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (85)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
-[Concurrency Parallelism (72)](concurrency-parallelism.md) · [Configuration (100)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (155)](cryptography.md) · [Data Science (33)](data-science.md) · [Database Datastore (714)](database-datastore.md) · [Datetime (158)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (85)](dependency-manager.md) · [Documentation (88)](documentation.md)
-[Embedded Hardware (49)](embedded-hardware.md) · [Ffi Bindings (387)](ffi-bindings.md) · [Filesystem Os (1197)](filesystem-os.md) · [Formatter (545)](formatter.md)
-[Framework (47)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (157)](game-engine-game-dev.md) · [Ide Editor Integration (1133)](ide-editor-integration.md)
-[Image Audio Dsp (300)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (227)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1230)](language-specification.md) · **[Library (4824)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (388)](logging-observability.md) · [Machine Learning (584)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (77)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (916)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (263)](package-manager.md) · [Parser Lexer Ast (905)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
+[Api Abi Checker (187)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (124)](async-runtime.md)
+[Benchmarking (115)](benchmarking.md) · [Build System (821)](build-system.md) · [Cli (501)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (85)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+[Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (100)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (155)](cryptography.md) · [Data Science (33)](data-science.md) · [Database Datastore (753)](database-datastore.md) · [Datetime (158)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (88)](documentation.md)
+[Embedded Hardware (49)](embedded-hardware.md) · [Ffi Bindings (388)](ffi-bindings.md) · [Filesystem Os (1199)](filesystem-os.md) · [Formatter (546)](formatter.md)
+[Framework (48)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (157)](game-engine-game-dev.md) · [Ide Editor Integration (1138)](ide-editor-integration.md)
+[Image Audio Dsp (300)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (230)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1233)](language-specification.md) · **[Library (4835)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (390)](logging-observability.md) · [Machine Learning (584)](machine-learning.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (85)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (919)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (271)](package-manager.md) · [Parser Lexer Ast (917)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
 [Profiler (72)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (311)](security-sast.md) · [Serialization (368)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (438)](static-analyzer.md)
+[Security Sast (312)](security-sast.md) · [Serialization (369)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (440)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (496)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (290)](type-checker.md)
-[Undefined Behavior Analyzer (1380)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (414)](visualization-gui.md) · [Web Framework (391)](web-framework.md)
+[Undefined Behavior Analyzer (1385)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (414)](visualization-gui.md) · [Web Framework (401)](web-framework.md)
 
 ## C99
 
@@ -2764,6 +2764,7 @@ Records: `4824`
 | ofhsyn | 0.1.3 | 2026-08-26 21:10:02 UTC | [open](../records/r-ofhsyn-52ef6e90.md) |
 | OmopSketch | 1.1.1 | 2026-08-27 11:10:02 UTC | [open](../records/r-omopsketch-b6fdfd3a.md) |
 | opencltools | 0.8.3 | 2026-08-04 18:00:07 UTC | [open](../records/r-opencltools-f7374199.md) |
+| openxlsx | 4.2.9 | 2026-09-02 09:30:02 UTC | [open](../records/r-openxlsx-beaffd1b.md) |
 | openxlsx2 | 1.29 | 2026-08-20 13:20:31 UTC | [open](../records/r-openxlsx2-a62c52cb.md) |
 | OptOTrials | 1.0.3 | 2026-08-31 18:20:02 UTC | [open](../records/r-optotrials-101aa30e.md) |
 | orgutils | 0.5-4 | 2026-08-21 05:41:26 UTC | [open](../records/r-orgutils-e9494b03.md) |
@@ -4043,7 +4044,7 @@ Records: `4824`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-02T06:34:38Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-02T10:02:04Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4144,62 +4145,72 @@ Records: `4824`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| aloisdeniel/flutter_geocoder | unknown | github_latest_release_missing | [open](../records/maps-aloisdeniel-flutter-geocoder-eddbba0f.md) |
-| atlasr-org/atlasr | unknown | github_latest_release_missing | [open](../records/maps-atlasr-org-atlasr-8221ab2a.md) |
+| aloisdeniel/flutter_geocoder | partial | 2024-03-07T02:45:30Z | [open](../records/maps-aloisdeniel-flutter-geocoder-eddbba0f.md) |
+| atlasr-org/atlasr | partial | 2018-12-05T08:36:40Z | [open](../records/maps-atlasr-org-atlasr-8221ab2a.md) |
 | Azure-Samples/AzureMapsCodeSamples | 252537 | 2020-12-16T00:55:05Z | [open](../records/maps-azure-samples-azuremapscodesamples-5d2f6f06.md) |
-| benjamintd/benmaps.fr | unknown | github_latest_release_missing | [open](../records/maps-benjamintd-benmaps-fr-83f6558a.md) |
-| beyonk/svelte-mapbox | unknown | github_latest_release_missing | [open](../records/maps-beyonk-svelte-mapbox-83bbf675.md) |
+| benjamintd/benmaps.fr | partial | 2023-10-19T06:42:40Z | [open](../records/maps-benjamintd-benmaps-fr-83f6558a.md) |
+| beyonk/svelte-mapbox | partial | 2026-08-01T01:32:40Z | [open](../records/maps-beyonk-svelte-mapbox-83bbf675.md) |
 | bilawalsidhu/gods-eye-view | partial | 2026-09-01T19:42:55Z | [open](../records/maps-bilawalsidhu-gods-eye-view-28a2a7af.md) |
-| bitlap/geocoding | v1.3.1 | 2022-09-30T09:40:27Z | [open](../records/maps-bitlap-geocoding-44bdf0ae.md) |
+| bitlap/geocoding | partial | 2025-07-23T16:20:19Z | [open](../records/maps-bitlap-geocoding-44bdf0ae.md) |
+| bizz84/nested-navigation-demo-flutter | partial | 2023-01-11T17:32:58Z | [open](../records/maps-bizz84-nested-navigation-demo-flutter-a397d085.md) |
 | CesiumGS/cesium | partial | 2026-09-01T23:28:50Z | [open](../records/maps-cesiumgs-cesium-03600c9a.md) |
+| codezero-be/laravel-localized-routes | partial | 2024-03-17T22:44:54Z | [open](../records/maps-codezero-be-laravel-localized-routes-62cd131a.md) |
 | danielemoraschi/maplace.js | partial | 2020-05-25T22:54:13Z | [open](../records/maps-danielemoraschi-maplace-js-5adb914c.md) |
-| devxoul/URLNavigator | 2.5.1 | 2023-07-09T17:59:52Z | [open](../records/maps-devxoul-urlnavigator-5197f5f8.md) |
+| devxoul/URLNavigator | partial | 2024-05-24T16:28:03Z | [open](../records/maps-devxoul-urlnavigator-5197f5f8.md) |
 | doganoo/PHPAlgorithms | partial | 2023-10-24T09:07:15Z | [open](../records/maps-doganoo-phpalgorithms-8d4e8cc7.md) |
 | eddiesigner/sketch-map-generator | partial | 2023-03-05T01:12:19Z | [open](../records/maps-eddiesigner-sketch-map-generator-09a0b543.md) |
-| florent37/RxGps | unknown | github_latest_release_missing | [open](../records/maps-florent37-rxgps-5cb02be4.md) |
-| fridays/next-routes | 1.4.2 | 2018-05-21T09:59:06Z | [open](../records/maps-fridays-next-routes-7133c5a3.md) |
+| florent37/RxGps | partial | 2018-12-05T16:36:01Z | [open](../records/maps-florent37-rxgps-5cb02be4.md) |
+| fridays/next-routes | partial | 2024-08-06T05:50:49Z | [open](../records/maps-fridays-next-routes-7133c5a3.md) |
 | GenericMappingTools/pygmt | partial | 2026-09-01T10:00:49Z | [open](../records/maps-genericmappingtools-pygmt-d99a13fe.md) |
-| geolonia/normalize-japanese-addresses | v3.1.3 | 2024-12-24T02:42:36Z | [open](../records/maps-geolonia-normalize-japanese-addresses-4c5a4168.md) |
-| geopy/geopy | 2.5.0 | 2026-07-12T19:52:44Z | [open](../records/maps-geopy-geopy-3c79db47.md) |
-| georust/geocoding | unknown | github_latest_release_missing | [open](../records/maps-georust-geocoding-e4389b67.md) |
+| geolonia/normalize-japanese-addresses | partial | 2026-08-24T14:12:45Z | [open](../records/maps-geolonia-normalize-japanese-addresses-4c5a4168.md) |
+| geopy/geopy | partial | 2026-07-12T19:49:44Z | [open](../records/maps-geopy-geopy-3c79db47.md) |
+| georust/geocoding | partial | 2026-05-16T12:30:18Z | [open](../records/maps-georust-geocoding-e4389b67.md) |
 | GGBond-GIS/Orillusion_TileEarth | unknown | github_search_does_not_include_release_date | [open](../records/maps-ggbond-gis-orillusion-tileearth-83eb2707.md) |
+| gmazoyer/looking-glass | partial | 2026-06-28T22:07:21Z | [open](../records/maps-gmazoyer-looking-glass-3c738182.md) |
+| gnu4cn/ccna60d | partial | 2026-07-27T09:31:30Z | [open](../records/maps-gnu4cn-ccna60d-e5501048.md) |
 | google-map-react/google-map-react | partial | 2026-02-17T16:42:57Z | [open](../records/maps-google-map-react-google-map-react-1cd0afd2.md) |
 | google/earthenterprise | partial | 2023-01-04T20:30:53Z | [open](../records/maps-google-earthenterprise-ed7bdac7.md) |
-| jenetics/jpx | v4.0.0 | 2026-02-22T19:54:05Z | [open](../records/maps-jenetics-jpx-9e2c8a53.md) |
-| jessecambon/tidygeocoder | v1.0.6 | 2025-03-31T20:27:26Z | [open](../records/maps-jessecambon-tidygeocoder-a662f171.md) |
-| jingjing2222/react-native-nitro-geolocation | react-native-nitro-geolocation@1.4.3 | 2026-07-17T03:49:41Z | [open](../records/maps-jingjing2222-react-native-nitro-geolocation-88c61895.md) |
-| karam-mustafa/laravel-geographical-calculator | v2.2.0 | 2022-02-08T20:08:17Z | [open](../records/maps-karam-mustafa-laravel-geographical-calculator-a47febb3.md) |
-| komoot/photon | 1.3.0 | 2026-08-07T16:05:01Z | [open](../records/maps-komoot-photon-d1651635.md) |
-| lukepighetti/fluro | 2.0.3 | 2021-03-01T19:17:43Z | [open](../records/maps-lukepighetti-fluro-c809970d.md) |
+| jenetics/jpx | partial | 2026-02-22T20:21:22Z | [open](../records/maps-jenetics-jpx-9e2c8a53.md) |
+| jessecambon/tidygeocoder | partial | 2026-02-18T15:18:12Z | [open](../records/maps-jessecambon-tidygeocoder-a662f171.md) |
+| jingjing2222/react-native-nitro-geolocation | partial | 2026-08-31T02:26:01Z | [open](../records/maps-jingjing2222-react-native-nitro-geolocation-88c61895.md) |
+| juxt/bidi | partial | 2023-03-15T10:46:57Z | [open](../records/maps-juxt-bidi-4ad5a334.md) |
+| karam-mustafa/laravel-geographical-calculator | partial | 2023-06-03T12:13:40Z | [open](../records/maps-karam-mustafa-laravel-geographical-calculator-a47febb3.md) |
+| komoot/photon | partial | 2026-08-18T15:45:42Z | [open](../records/maps-komoot-photon-d1651635.md) |
+| lukepighetti/fluro | partial | 2023-03-22T17:54:12Z | [open](../records/maps-lukepighetti-fluro-c809970d.md) |
 | luxiaoxun/MapDownloader | unknown | github_search_does_not_include_release_date | [open](../records/maps-luxiaoxun-mapdownloader-0e853bb6.md) |
 | mapbox/mapbox-gl-js | partial | 2026-09-01T14:40:34Z | [open](../records/maps-mapbox-mapbox-gl-js-a55c74cd.md) |
-| maplibre/maplibre-gl-geocoder | v1.9.4 | 2025-12-27T11:56:31Z | [open](../records/maps-maplibre-maplibre-gl-geocoder-938c4f88.md) |
+| maplibre/maplibre-gl-geocoder | partial | 2026-08-31T16:43:44Z | [open](../records/maps-maplibre-maplibre-gl-geocoder-938c4f88.md) |
 | maptalks/maptalks.js | partial | 2026-08-25T02:36:16Z | [open](../records/maps-maptalks-maptalks-js-2641e64a.md) |
 | maptalks/maptalks.three | partial | 2026-06-02T03:01:03Z | [open](../records/maps-maptalks-maptalks-three-7e000fe0.md) |
 | marsgis/mars3d | partial | 2026-06-03T12:02:08Z | [open](../records/maps-marsgis-mars3d-3412d0d0.md) |
+| mefechoel/svelte-navigator | partial | 2024-08-13T09:17:59Z | [open](../records/maps-mefechoel-svelte-navigator-7045dd2a.md) |
 | microg/GmsCore | partial | 2026-08-27T22:45:06Z | [open](../records/maps-microg-gmscore-65eebaeb.md) |
+| motis-project/motis | partial | 2026-08-31T20:10:35Z | [open](../records/maps-motis-project-motis-8ff172f1.md) |
 | mousebird-consulting-inc/WhirlyGlobe | partial | 2026-07-31T00:23:58Z | [open](../records/maps-mousebird-consulting-inc-whirlyglobe-3130b66b.md) |
-| nuxt-modules/i18n | v10.6.0 | 2026-07-30T10:49:10Z | [open](../records/maps-nuxt-modules-i18n-79eea90d.md) |
+| nuxt-modules/i18n | partial | 2026-09-02T04:27:00Z | [open](../records/maps-nuxt-modules-i18n-79eea90d.md) |
 | opengisch/QField | partial | 2026-09-02T00:06:36Z | [open](../records/maps-opengisch-qfield-f04d9b83.md) |
 | openlayers/openlayers | partial | 2026-08-29T10:33:38Z | [open](../records/maps-openlayers-openlayers-6d483e33.md) |
 | openmaptiles/openmaptiles | partial | 2026-07-29T12:19:41Z | [open](../records/maps-openmaptiles-openmaptiles-8add1ab5.md) |
 | paulmach/orb | partial | 2026-03-30T15:51:22Z | [open](../records/maps-paulmach-orb-8e561523.md) |
+| peering-manager/peering-manager | partial | 2026-09-02T06:59:36Z | [open](../records/maps-peering-manager-peering-manager-c6df99fc.md) |
 | r-spatial/mapview | partial | 2025-09-05T07:54:41Z | [open](../records/maps-r-spatial-mapview-10b63596.md) |
 | r-tmap/tmap | partial | 2026-08-26T22:27:44Z | [open](../records/maps-r-tmap-tmap-71b21a50.md) |
 | reinterpretcat/utymap | partial | 2019-05-16T10:45:13Z | [open](../records/maps-reinterpretcat-utymap-26781f3b.md) |
-| RxChi1d/immich-geodata-zh-tw | v3.2.0 | 2026-08-18T14:10:29Z | [open](../records/maps-rxchi1d-immich-geodata-zh-tw-74f77fc7.md) |
-| sandstrom/country-bounding-boxes | unknown | github_latest_release_missing | [open](../records/maps-sandstrom-country-bounding-boxes-21886a05.md) |
+| RxChi1d/immich-geodata-zh-tw | partial | 2026-09-02T02:30:07Z | [open](../records/maps-rxchi1d-immich-geodata-zh-tw-74f77fc7.md) |
+| sandstrom/country-bounding-boxes | partial | 2020-02-06T08:52:09Z | [open](../records/maps-sandstrom-country-bounding-boxes-21886a05.md) |
 | SharpMap/SharpMap | partial | 2025-01-06T15:20:53Z | [open](../records/maps-sharpmap-sharpmap-0d7d79eb.md) |
-| sildur/offline_geocoder | v0.2.1 | 2020-05-05T02:44:28Z | [open](../records/maps-sildur-offline-geocoder-f8d97b5b.md) |
+| sildur/offline_geocoder | partial | 2024-05-16T22:10:21Z | [open](../records/maps-sildur-offline-geocoder-f8d97b5b.md) |
 | StrandedKitty/streets-gl | partial | 2025-08-21T19:43:43Z | [open](../records/maps-strandedkitty-streets-gl-1f0aad99.md) |
 | sxguojf/three-tile | unknown | github_search_does_not_include_release_date | [open](../records/maps-sxguojf-three-tile-07dcab70.md) |
-| t-sagara/jageocoder | v2.2.1.1 | 2026-03-31T12:47:16Z | [open](../records/maps-t-sagara-jageocoder-063c720a.md) |
+| t-sagara/jageocoder | partial | 2026-04-21T08:07:10Z | [open](../records/maps-t-sagara-jageocoder-063c720a.md) |
+| tatethurston/nextjs-routes | partial | 2025-03-17T01:11:20Z | [open](../records/maps-tatethurston-nextjs-routes-af0bb3ff.md) |
 | Toblerity/Fiona | partial | 2025-02-20T23:53:44Z | [open](../records/maps-toblerity-fiona-9a13b596.md) |
-| tomayac/local-reverse-geocoder | v0.16.8 | 2026-06-14T16:06:15Z | [open](../records/maps-tomayac-local-reverse-geocoder-63b2ed9a.md) |
+| tomayac/local-reverse-geocoder | partial | 2026-06-14T16:06:15Z | [open](../records/maps-tomayac-local-reverse-geocoder-63b2ed9a.md) |
 | TradeMe/MapMe | partial | 2022-03-30T20:42:56Z | [open](../records/maps-trademe-mapme-ac2b1874.md) |
 | tschoffelen/react-native-map-link | partial | 2026-08-11T12:02:57Z | [open](../records/maps-tschoffelen-react-native-map-link-bdb13e21.md) |
 | tudelft3d/3dfier | partial | 2026-05-06T15:26:57Z | [open](../records/maps-tudelft3d-3dfier-6391024c.md) |
-| wellyshen/use-places-autocomplete | v4.0.1 | 2023-08-12T16:33:30Z | [open](../records/maps-wellyshen-use-places-autocomplete-1234eb65.md) |
+| v2fly/geoip | partial | 2026-08-14T02:25:34Z | [open](../records/maps-v2fly-geoip-426d00c9.md) |
+| wellyshen/use-places-autocomplete | partial | 2025-04-02T14:39:17Z | [open](../records/maps-wellyshen-use-places-autocomplete-1234eb65.md) |
 | yunwei37/ZJU-CS-GIS-ClassNotes | partial | 2023-06-06T14:40:14Z | [open](../records/maps-yunwei37-zju-cs-gis-classnotes-d5fd26cb.md) |
 | zouyaoji/vue-cesium | partial | 2026-07-30T16:59:10Z | [open](../records/maps-zouyaoji-vue-cesium-751f2ada.md) |
 
@@ -4313,7 +4324,7 @@ Records: `4824`
 | fand/vfx-js | partial | 2026-08-11T22:45:13Z | [open](../records/effects-fand-vfx-js-267d1f85.md) |
 | fearofcode/bateman | unknown | github_latest_release_missing | [open](../records/effects-fearofcode-bateman-03c24113.md) |
 | GabrielSCabrera/nBody | partial | 2024-03-31T14:11:02Z | [open](../records/effects-gabrielscabrera-nbody-387acb4c.md) |
-| ggarra13/mrv2 | partial | 2026-09-01T23:08:57Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |
+| ggarra13/mrv2 | partial | 2026-09-02T09:29:35Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |
 | glotzerlab/hoomd-blue | partial | 2026-08-31T12:28:52Z | [open](../records/effects-glotzerlab-hoomd-blue-5217e991.md) |
 | glotzerlab/hoomd-examples | partial | 2026-08-31T13:19:32Z | [open](../records/effects-glotzerlab-hoomd-examples-8b82445a.md) |
 | henriquelalves/SimpleGodotCRTShader | partial | 2024-09-02T21:57:23Z | [open](../records/effects-henriquelalves-simplegodotcrtshader-0feadcb8.md) |
@@ -4339,7 +4350,7 @@ Records: `4824`
 | keijiro/VfxPyro | partial | 2020-10-22T16:21:02Z | [open](../records/effects-keijiro-vfxpyro-726c4673.md) |
 | miickel/flutter_particle_clock | partial | 2023-03-19T15:48:27Z | [open](../records/effects-miickel-flutter-particle-clock-00b2a89b.md) |
 | mvilledieu/shadertoy-react | partial | 2023-03-07T00:26:39Z | [open](../records/effects-mvilledieu-shadertoy-react-ce4d2733.md) |
-| MysteryPancake/Houdini-Fun | partial | 2026-09-01T09:09:08Z | [open](../records/effects-mysterypancake-houdini-fun-2e70635d.md) |
+| MysteryPancake/Houdini-Fun | partial | 2026-09-02T07:17:09Z | [open](../records/effects-mysterypancake-houdini-fun-2e70635d.md) |
 | nolangz/3D-Chladni | partial | 2026-07-18T11:40:22Z | [open](../records/effects-nolangz-3d-chladni-45d7a880.md) |
 | ntsc-rs/ntsc-rs | partial | 2026-08-01T23:20:07Z | [open](../records/effects-ntsc-rs-ntsc-rs-7ace46da.md) |
 | OYsun/AE-Element | partial | 2019-03-28T08:23:57Z | [open](../records/effects-oysun-ae-element-e496f20a.md) |

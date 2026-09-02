@@ -1,6 +1,6 @@
 # Interpreter Runtime
 
-Records: `227`
+Records: `230`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `227`
 
 ## Category Index
 
-[Api Abi Checker (185)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (123)](async-runtime.md)
-[Benchmarking (110)](benchmarking.md) · [Build System (813)](build-system.md) · [Cli (501)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (85)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
-[Concurrency Parallelism (72)](concurrency-parallelism.md) · [Configuration (100)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (155)](cryptography.md) · [Data Science (33)](data-science.md) · [Database Datastore (714)](database-datastore.md) · [Datetime (158)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (85)](dependency-manager.md) · [Documentation (88)](documentation.md)
-[Embedded Hardware (49)](embedded-hardware.md) · [Ffi Bindings (387)](ffi-bindings.md) · [Filesystem Os (1197)](filesystem-os.md) · [Formatter (545)](formatter.md)
-[Framework (47)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (157)](game-engine-game-dev.md) · [Ide Editor Integration (1133)](ide-editor-integration.md)
-[Image Audio Dsp (300)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · **[Interpreter Runtime (227)](interpreter-runtime.md)** · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1230)](language-specification.md) · [Library (4824)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (388)](logging-observability.md) · [Machine Learning (584)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (77)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (916)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (263)](package-manager.md) · [Parser Lexer Ast (905)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
+[Api Abi Checker (187)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (124)](async-runtime.md)
+[Benchmarking (115)](benchmarking.md) · [Build System (821)](build-system.md) · [Cli (501)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (85)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+[Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (100)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (155)](cryptography.md) · [Data Science (33)](data-science.md) · [Database Datastore (753)](database-datastore.md) · [Datetime (158)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (88)](documentation.md)
+[Embedded Hardware (49)](embedded-hardware.md) · [Ffi Bindings (388)](ffi-bindings.md) · [Filesystem Os (1199)](filesystem-os.md) · [Formatter (546)](formatter.md)
+[Framework (48)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (157)](game-engine-game-dev.md) · [Ide Editor Integration (1138)](ide-editor-integration.md)
+[Image Audio Dsp (300)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · **[Interpreter Runtime (230)](interpreter-runtime.md)** · [Jit Vm (56)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1233)](language-specification.md) · [Library (4835)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (390)](logging-observability.md) · [Machine Learning (584)](machine-learning.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (85)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (919)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (271)](package-manager.md) · [Parser Lexer Ast (917)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
 [Profiler (72)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (311)](security-sast.md) · [Serialization (368)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (438)](static-analyzer.md)
+[Security Sast (312)](security-sast.md) · [Serialization (369)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (440)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (496)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (290)](type-checker.md)
-[Undefined Behavior Analyzer (1380)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (414)](visualization-gui.md) · [Web Framework (391)](web-framework.md)
+[Undefined Behavior Analyzer (1385)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (414)](visualization-gui.md) · [Web Framework (401)](web-framework.md)
 
 ## C++23
 
@@ -237,6 +237,12 @@ Records: `227`
 | SOF3/include-flate | partial | 2026-08-27T05:12:39Z | [open](../records/assets-sof3-include-flate-7e9f140c.md) |
 | vypdev/stringcare-android | partial | 2026-03-19T23:07:41Z | [open](../records/assets-vypdev-stringcare-android-addbb923.md) |
 
+## Maps
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| openmessaging/openmessaging-java | partial | 2026-01-26T21:33:00Z | [open](../records/maps-openmessaging-openmessaging-java-12fdcd31.md) |
+
 ## Space Shuttles
 
 | Name | Release | Date | Page |
@@ -414,7 +420,9 @@ Records: `227`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| activeloopai/deeplake | partial | 2026-05-21T15:28:00Z | [open](../records/databases-activeloopai-deeplake-8b22558d.md) |
 | guang19/framework-learning | partial | 2022-09-08T01:20:10Z | [open](../records/databases-guang19-framework-learning-16651c7a.md) |
+| langchain4j/langchain4j | partial | 2026-09-02T10:05:14Z | [open](../records/databases-langchain4j-langchain4j-478395e2.md) |
 | objectbox/objectbox-java | partial | 2026-08-03T10:42:55Z | [open](../records/databases-objectbox-objectbox-java-aa127825.md) |
 | pubkey/rxdb | partial | 2026-09-01T23:03:59Z | [open](../records/databases-pubkey-rxdb-d6f509c0.md) |
 
@@ -426,7 +434,7 @@ Records: `227`
 | cespedes/ltrace | partial | 2026-09-01T23:27:40.828Z | [open](../records/repository-workplaces-cespedes-ltrace-7df92cd8.md) |
 | cznic/libc | partial | 2026-09-01T19:33:12.971Z | [open](../records/repository-workplaces-cznic-libc-3b834450.md) |
 | DerLinkshaender/csv2xlsx | partial | 2023-01-23T21:54:27.769Z | [open](../records/repository-workplaces-derlinkshaender-csv2xlsx-bd2e77a2.md) |
-| freedesktop-sdk/freedesktop-sdk | partial | 2026-09-02T02:35:03.343Z | [open](../records/repository-workplaces-freedesktop-sdk-freedesktop-sdk-d7a3f323.md) |
+| freedesktop-sdk/freedesktop-sdk | partial | 2026-09-02T09:29:04.009Z | [open](../records/repository-workplaces-freedesktop-sdk-freedesktop-sdk-d7a3f323.md) |
 | Gitea: Befaci03/collab-vm-1.2-server-bettetweak | partial | 2025-04-20T12:00:39Z | [open](../records/repository-workplaces-gitea-befaci03-collab-vm-1-2-server-bettetweak-82605f6b.md) |
 | Gitea: cvmuser1000/collab-vm-1.2-server-bettetweak-better | partial | 2025-04-19T11:00:56Z | [open](../records/repository-workplaces-gitea-cvmuser1000-collab-vm-1-2-server-bettetweak-better-40a2c6fe.md) |
 | Gitea: Gala_Group/GalaRuntime | partial | 2023-09-03T18:22:16Z | [open](../records/repository-workplaces-gitea-gala-group-galaruntime-c30c90ab.md) |
