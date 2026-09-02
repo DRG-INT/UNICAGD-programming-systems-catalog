@@ -8,18 +8,18 @@
 [Benchmarking (110)](by-category/benchmarking.md) · [Build System (813)](by-category/build-system.md) · [Cli (501)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (85)](by-category/community-reference.md) · [Compiler (170)](by-category/compiler.md) · [Compiler Diagnostics (22)](by-category/compiler-diagnostics.md) · [Compression (45)](by-category/compression.md)
 [Concurrency Parallelism (72)](by-category/concurrency-parallelism.md) · [Configuration (100)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (11)](by-category/coverage.md)
-[Cryptography (155)](by-category/cryptography.md) · [Data Science (32)](by-category/data-science.md) · [Database Datastore (714)](by-category/database-datastore.md) · [Datetime (158)](by-category/datetime.md)
+[Cryptography (155)](by-category/cryptography.md) · [Data Science (33)](by-category/data-science.md) · [Database Datastore (714)](by-category/database-datastore.md) · [Datetime (158)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (41)](by-category/debugger.md) · [Dependency Manager (85)](by-category/dependency-manager.md) · [Documentation (88)](by-category/documentation.md)
 [Embedded Hardware (49)](by-category/embedded-hardware.md) · [Ffi Bindings (387)](by-category/ffi-bindings.md) · [Filesystem Os (1197)](by-category/filesystem-os.md) · [Formatter (545)](by-category/formatter.md)
 [Framework (47)](by-category/framework.md) · [Fuzzer (48)](by-category/fuzzer.md) · [Game Engine Game Dev (157)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1133)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (300)](by-category/image-audio-dsp.md) · [Interop Bindings (52)](by-category/interop-bindings.md) · [Interpreter Runtime (227)](by-category/interpreter-runtime.md) · [Jit Vm (56)](by-category/jit-vm.md)
-[Language Server (27)](by-category/language-server.md) · [Language Specification (1229)](by-category/language-specification.md) · [Library (4824)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (40)](by-category/lint-rule-pack.md) · [Linter (346)](by-category/linter.md) · [Logging Observability (388)](by-category/logging-observability.md) · [Machine Learning (583)](by-category/machine-learning.md)
+[Language Server (27)](by-category/language-server.md) · [Language Specification (1230)](by-category/language-specification.md) · [Library (4824)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (40)](by-category/lint-rule-pack.md) · [Linter (346)](by-category/linter.md) · [Logging Observability (388)](by-category/logging-observability.md) · [Machine Learning (584)](by-category/machine-learning.md)
 [Math Numeric Scientific (79)](by-category/math-numeric-scientific.md) · [Memory Analyzer (77)](by-category/memory-analyzer.md) · [Message Broker (31)](by-category/message-broker.md) · [Networking Http (916)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (263)](by-category/package-manager.md) · [Parser Lexer Ast (905)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (262)](by-category/precommit-ci-quality.md)
 [Profiler (72)](by-category/profiler.md) · [Project Scaffolding (118)](by-category/project-scaffolding.md) · [Registry Repository (107)](by-category/registry-repository.md) · [Sanitizer (12)](by-category/sanitizer.md)
-[Security Sast (311)](by-category/security-sast.md) · [Serialization (368)](by-category/serialization.md) · [Standard Library (24)](by-category/standard-library.md) · [Static Analyzer (437)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (495)](by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](by-category/tutorial-book-styleguide.md) · [Type Checker (290)](by-category/type-checker.md)
+[Security Sast (311)](by-category/security-sast.md) · [Serialization (368)](by-category/serialization.md) · [Standard Library (24)](by-category/standard-library.md) · [Static Analyzer (438)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (496)](by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](by-category/tutorial-book-styleguide.md) · [Type Checker (290)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1380)](by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](by-category/utility-library.md) · [Visualization Gui (414)](by-category/visualization-gui.md) · [Web Framework (391)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
@@ -1147,6 +1147,7 @@
 | `cran_packages_by_date-3adfd1b7361556` | LugsailGR | [open](records/r-lugsailgr-72958e54.md) |
 | `cran_packages_by_date-3ae4c8987f7bd8` | CVXR | [open](records/r-cvxr-462b1bfb.md) |
 | `cran_packages_by_date-3b1b2ff87ef3f6` | GMCM | [open](records/r-gmcm-018565ae.md) |
+| `cran_packages_by_date-3b21d930e53f7a` | gtDesign | [open](records/r-gtdesign-4e0ecad7.md) |
 | `cran_packages_by_date-3b293bad124e4c` | sstn | [open](records/r-sstn-1202bc33.md) |
 | `cran_packages_by_date-3b492d68d9c5a9` | socviz | [open](records/r-socviz-38c1d0b7.md) |
 | `cran_packages_by_date-3b798adeeb89d1` | ruv | [open](records/r-ruv-95beb863.md) |
@@ -1333,6 +1334,7 @@
 | `cran_packages_by_date-5aff92eb51e388` | glydraw | [open](records/r-glydraw-99d285eb.md) |
 | `cran_packages_by_date-5b1f8be017560f` | sdbuildR | [open](records/r-sdbuildr-c6b71d56.md) |
 | `cran_packages_by_date-5b710638602972` | BayesURTrend | [open](records/r-bayesurtrend-bed6ca25.md) |
+| `cran_packages_by_date-5bba071d8db090` | fozziejoin | [open](records/r-fozziejoin-60790e9f.md) |
 | `cran_packages_by_date-5bc6b4d1a6a091` | IssueTrackeR | [open](records/r-issuetracker-9cf3dee2.md) |
 | `cran_packages_by_date-5c085ffa80e08d` | wordorientation | [open](records/r-wordorientation-c5224f0f.md) |
 | `cran_packages_by_date-5c31f32178e363` | apisensr | [open](records/r-apisensr-84600f94.md) |
@@ -1406,6 +1408,7 @@
 | `cran_packages_by_date-68087a728d297c` | crbcc | [open](records/r-crbcc-984c1e62.md) |
 | `cran_packages_by_date-6814a0b0669b90` | plssem | [open](records/r-plssem-cb6700e8.md) |
 | `cran_packages_by_date-685b375d426949` | copBasic | [open](records/r-copbasic-5a061264.md) |
+| `cran_packages_by_date-687a714ba80d6c` | mcmodule | [open](records/r-mcmodule-de36b014.md) |
 | `cran_packages_by_date-68902ed71e82a2` | Orangutan | [open](records/r-orangutan-7f61e853.md) |
 | `cran_packages_by_date-68a2b24e47af6b` | competitiontoolbox | [open](records/r-competitiontoolbox-319a586f.md) |
 | `cran_packages_by_date-68ac49c0d17567` | PoultryEconR | [open](records/r-poultryeconr-377e37fa.md) |
@@ -1899,6 +1902,7 @@
 | `cran_packages_by_date-c09d501c09aa33` | irtbem2pl | [open](records/r-irtbem2pl-5ecd21da.md) |
 | `cran_packages_by_date-c0dd5f0797226e` | liteformats | [open](records/r-liteformats-501b647c.md) |
 | `cran_packages_by_date-c155d702ca3268` | npmv | [open](records/r-npmv-f9a24775.md) |
+| `cran_packages_by_date-c158fa552a1ad8` | taxify | [open](records/r-taxify-01df7d05.md) |
 | `cran_packages_by_date-c1aa3d1c9cb712` | nysOpenData | [open](records/r-nysopendata-2ba9227b.md) |
 | `cran_packages_by_date-c1bebddb235156` | BayesQRCount | [open](records/r-bayesqrcount-49447662.md) |
 | `cran_packages_by_date-c1dba902e23e2c` | gghotelling | [open](records/r-gghotelling-e5ce48cb.md) |
@@ -8021,6 +8025,7 @@
 | `github_search_matlab-3273428c5d2814` | JarFraud/FraudDetection | [open](records/matlab-jarfraud-frauddetection-0d5e4dd7.md) |
 | `github_search_matlab-359300c2f3d079` | ishit/L1Stabilizer | [open](records/matlab-ishit-l1stabilizer-4d94a96a.md) |
 | `github_search_matlab-36c5b4da62a2e5` | zuster/EconometricsResources | [open](records/matlab-zuster-econometricsresources-2aea125e.md) |
+| `github_search_matlab-3845f1fd7e7eeb` | robotology/whole-body-controllers | [open](records/matlab-robotology-whole-body-controllers-7cb841b7.md) |
 | `github_search_matlab-3935fcc648b772` | mathworks/Simscape-Battery-Electric-Vehicle-Model | [open](records/matlab-mathworks-simscape-battery-electric-vehicle-model-25267591.md) |
 | `github_search_matlab-3ada420c2b3428` | okbalefthanded/bci_toolbox | [open](records/matlab-okbalefthanded-bci-toolbox-4ba10aff.md) |
 | `github_search_matlab-3ae469eb39a279` | AaronJackson/vrn | [open](records/matlab-aaronjackson-vrn-36ac2340.md) |
