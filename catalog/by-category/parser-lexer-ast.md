@@ -600,7 +600,7 @@ Records: `905`
 | gogf/gf | partial | 2026-08-26T09:32:40Z | [open](../records/go-gogf-gf-cf9bbe8f.md) |
 | gomods/athens | partial | 2026-08-21T04:15:07Z | [open](../records/go-gomods-athens-5ff0b837.md) |
 | GopeedLab/gopeed | partial | 2026-09-02T06:29:49Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
-| gravitational/teleport | partial | 2026-09-02T08:09:37Z | [open](../records/go-gravitational-teleport-6a32fe26.md) |
+| gravitational/teleport | partial | 2026-09-02T08:26:07Z | [open](../records/go-gravitational-teleport-6a32fe26.md) |
 | HyNetworks/hysteria | partial | 2026-08-31T06:55:46Z | [open](../records/go-hynetworks-hysteria-6f37132d.md) |
 | kovidgoyal/kitty | partial | 2026-09-02T04:44:46Z | [open](../records/go-kovidgoyal-kitty-9cff0795.md) |
 | praetorian-inc/nerva | partial | 2026-08-28T20:39:13Z | [open](../records/go-praetorian-inc-nerva-a2849190.md) |
@@ -956,7 +956,7 @@ Records: `905`
 | sunpy/sunpy | partial | 2026-09-01T13:34:19Z | [open](../records/telescopes-sunpy-sunpy-52ba6b6e.md) |
 | trehn/termtrack | partial | 2026-01-28T01:20:28Z | [open](../records/telescopes-trehn-termtrack-6877d137.md) |
 | vedika-io/xalen-ephemeris | partial | 2026-07-02T21:33:33Z | [open](../records/telescopes-vedika-io-xalen-ephemeris-c0e77623.md) |
-| yt-project/yt | partial | 2026-09-01T21:47:05Z | [open](../records/telescopes-yt-project-yt-9a71f88e.md) |
+| yt-project/yt | partial | 2026-09-02T08:28:26Z | [open](../records/telescopes-yt-project-yt-9a71f88e.md) |
 | Yu-Yang-Li/StarWhisper | partial | 2026-08-19T10:58:11Z | [open](../records/telescopes-yu-yang-li-starwhisper-3056022a.md) |
 
 ## Radars

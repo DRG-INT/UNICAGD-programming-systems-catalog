@@ -33,7 +33,7 @@ contracts, migration safety, editor feedback, and large-codebase maintainability
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-08-31T12:17:50Z | gh search repos topic:video stars:>500 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-02T07:32:09Z | gh search repos topic:video stars:>500 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert

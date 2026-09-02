@@ -559,7 +559,7 @@ Records: `1197`
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-08-30T15:02:19Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-02T07:36:38Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-02T09:15:26Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -784,7 +784,7 @@ Records: `1197`
 | c8r/lab | partial | 2018-06-26T22:56:31Z | [open](../records/effects-c8r-lab-db3d29d3.md) |
 | c8r/x0 | partial | 2019-11-06T18:22:27Z | [open](../records/effects-c8r-x0-40ed9160.md) |
 | cage-kiosk/cage | partial | 2026-08-18T08:01:02Z | [open](../records/effects-cage-kiosk-cage-38b27c00.md) |
-| canonical/mir | partial | 2026-09-01T21:23:29Z | [open](../records/effects-canonical-mir-4ddd8316.md) |
+| canonical/mir | partial | 2026-09-02T08:28:37Z | [open](../records/effects-canonical-mir-4ddd8316.md) |
 | cansik/processing-postfx | 1.2 | 2017-06-14T07:17:01Z | [open](../records/effects-cansik-processing-postfx-3d2f44fc.md) |
 | coryleach/UnityPostProcessing | 1.0.0 | 2019-09-23T05:38:00Z | [open](../records/effects-coryleach-unitypostprocessing-0847dfd6.md) |
 | crosire/reshade-shaders | unknown | github_latest_release_missing | [open](../records/effects-crosire-reshade-shaders-edf78e8d.md) |
@@ -816,7 +816,7 @@ Records: `1197`
 | grizzlypeak3d/DJV | partial | 2026-09-02T02:18:17Z | [open](../records/effects-grizzlypeak3d-djv-a31a9ac6.md) |
 | HEnquist/camilladsp | partial | 2026-09-01T15:08:43Z | [open](../records/effects-henquist-camilladsp-d941192e.md) |
 | hexianWeb/lego-stylized-nature | partial | 2026-07-08T07:37:58Z | [open](../records/effects-hexianweb-lego-stylized-nature-cb083959.md) |
-| hifiberry/hifiberry-os | partial | 2026-09-01T19:18:13Z | [open](../records/effects-hifiberry-hifiberry-os-23434356.md) |
+| hifiberry/hifiberry-os | partial | 2026-09-02T09:00:56Z | [open](../records/effects-hifiberry-hifiberry-os-23434356.md) |
 | hmans/composer-suite | partial | 2026-02-27T15:45:58Z | [open](../records/effects-hmans-composer-suite-79097285.md) |
 | hughsk/voxel-colorist | unknown | github_latest_release_missing | [open](../records/effects-hughsk-voxel-colorist-4f0cd027.md) |
 | hyprwm/Hyprland | partial | 2026-09-01T18:14:39Z | [open](../records/effects-hyprwm-hyprland-ab213774.md) |
@@ -841,7 +841,7 @@ Records: `1197`
 | Juanrod99/Godot-PS1-Shader-Mixer | unknown | github_latest_release_missing | [open](../records/effects-juanrod99-godot-ps1-shader-mixer-c5659293.md) |
 | keijiro/KinoMotion | partial | 2017-09-22T09:59:03Z | [open](../records/effects-keijiro-kinomotion-5b4e3195.md) |
 | kevinraymond/fosfora | partial | 2026-08-25T18:06:30Z | [open](../records/effects-kevinraymond-fosfora-abca78d3.md) |
-| klange/toaruos | partial | 2026-09-01T22:59:23Z | [open](../records/effects-klange-toaruos-177b4062.md) |
+| klange/toaruos | partial | 2026-09-02T05:33:12Z | [open](../records/effects-klange-toaruos-177b4062.md) |
 | KonradIT/gopro-linux | partial | 2024-08-11T16:30:35Z | [open](../records/effects-konradit-gopro-linux-8d431adf.md) |
 | KorinDev/Godot-Post-Process-Plugin | v0.1.1 | 2025-04-02T22:23:00Z | [open](../records/effects-korindev-godot-post-process-plugin-7b4fccc0.md) |
 | kylebueche/compositor | unknown | github_latest_release_missing | [open](../records/effects-kylebueche-compositor-53bcb2a4.md) |
@@ -851,7 +851,7 @@ Records: `1197`
 | lotos-linux/hypr-dock | partial | 2026-03-14T22:51:39Z | [open](../records/effects-lotos-linux-hypr-dock-30a70bd7.md) |
 | malbiruk/driftwm | partial | 2026-08-26T09:43:51Z | [open](../records/effects-malbiruk-driftwm-7fb2ce7f.md) |
 | Malidos/Stylized-Water-Shader | unknown | github_latest_release_missing | [open](../records/effects-malidos-stylized-water-shader-b701423a.md) |
-| mangowm/mango | partial | 2026-09-02T01:21:57Z | [open](../records/effects-mangowm-mango-e98f7439.md) |
+| mangowm/mango | partial | 2026-09-02T05:41:56Z | [open](../records/effects-mangowm-mango-e98f7439.md) |
 | MarieLynneBlock/RealTimeAudioSignalProcessing-Faust | partial | 2019-06-05T19:15:07Z | [open](../records/effects-marielynneblock-realtimeaudiosignalprocessing-faust-184135f0.md) |
 | martinber/noaa-apt | partial | 2024-02-10T15:41:50Z | [open](../records/effects-martinber-noaa-apt-cd098cc9.md) |
 | medusalix/MiniVST | partial | 2019-03-06T17:18:51Z | [open](../records/effects-medusalix-minivst-c855328d.md) |
@@ -933,7 +933,7 @@ Records: `1197`
 | fedden/RenderMan | partial | 2021-12-02T21:11:26Z | [open](../records/audio-fedden-renderman-b1df24f8.md) |
 | gnuradio/gnuradio | partial | 2026-08-27T23:02:01Z | [open](../records/audio-gnuradio-gnuradio-f6f01d2f.md) |
 | HEnquist/camilladsp | partial | 2026-09-01T15:08:43Z | [open](../records/audio-henquist-camilladsp-382264e4.md) |
-| hifiberry/hifiberry-os | partial | 2026-09-01T19:18:13Z | [open](../records/audio-hifiberry-hifiberry-os-5ddcb398.md) |
+| hifiberry/hifiberry-os | partial | 2026-09-02T09:00:56Z | [open](../records/audio-hifiberry-hifiberry-os-5ddcb398.md) |
 | jameshball/osci-render | v2.8.9.18 | 2026-04-19T21:32:42Z | [open](../records/audio-jameshball-osci-render-c76ba818.md) |
 | josephernest/SamplerBox | 2022-08-10-release | 2022-08-10T15:56:33Z | [open](../records/audio-josephernest-samplerbox-c23f8c2d.md) |
 | joshwcomeau/key-and-pad | unknown | github_latest_release_missing | [open](../records/audio-joshwcomeau-key-and-pad-da5bc43a.md) |
@@ -965,7 +965,7 @@ Records: `1197`
 | aslost/pixtale | partial | 2026-09-01T14:07:49Z | [open](../records/photography-aslost-pixtale-df702412.md) |
 | Awalz/SwiftyCam | partial | 2022-02-04T10:24:45Z | [open](../records/photography-awalz-swiftycam-8b6b12a3.md) |
 | awxkee/avif.swift | partial | 2026-04-29T10:30:31Z | [open](../records/photography-awxkee-avif-swift-72b07b3d.md) |
-| Bitpainter75/FerrumPix | partial | 2026-09-02T08:22:26Z | [open](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) |
+| Bitpainter75/FerrumPix | partial | 2026-09-02T08:28:56Z | [open](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) |
 | carina-studio/PixelViewer | partial | 2026-08-31T10:17:12Z | [open](../records/photography-carina-studio-pixelviewer-70d11532.md) |
 | carlospuenteg/File-Injector | partial | 2022-11-18T00:20:21Z | [open](../records/photography-carlospuenteg-file-injector-2533177f.md) |
 | carlospuenteg/Photomosaic-Creator | unknown | github_search_does_not_include_release_date | [open](../records/photography-carlospuenteg-photomosaic-creator-b57e7ad4.md) |
@@ -987,7 +987,7 @@ Records: `1197`
 | niklasr22/BrightIntosh | partial | 2026-08-21T14:03:41Z | [open](../records/photography-niklasr22-brightintosh-a739a56f.md) |
 | open-product-data/digital-cameras | unknown | github_search_does_not_include_release_date | [open](../records/photography-open-product-data-digital-cameras-6d723530.md) |
 | photoprism/photoprism | partial | 2026-09-01T13:36:50Z | [open](../records/photography-photoprism-photoprism-49783c79.md) |
-| PicPeak/picpeak | partial | 2026-09-02T08:23:28Z | [open](../records/photography-picpeak-picpeak-d6957174.md) |
+| PicPeak/picpeak | partial | 2026-09-02T08:56:37Z | [open](../records/photography-picpeak-picpeak-d6957174.md) |
 | pop-os/wallpapers | partial | 2025-06-24T16:00:43Z | [open](../records/photography-pop-os-wallpapers-b9bd093b.md) |
 | rampatra/photography | partial | 2025-10-28T15:29:47Z | [open](../records/photography-rampatra-photography-69cbb5ec.md) |
 | RawTherapee/RawTherapee | partial | 2026-08-28T11:33:45Z | [open](../records/photography-rawtherapee-rawtherapee-846fa44c.md) |
@@ -1062,7 +1062,7 @@ Records: `1197`
 | rapidsai/cucim | partial | 2026-09-01T14:47:34Z | [open](../records/microscopy-rapidsai-cucim-6fd9f972.md) |
 | royerlab/cytoself | partial | 2025-08-05T18:46:40Z | [open](../records/microscopy-royerlab-cytoself-b2dff824.md) |
 | rwb27/openflexure_microscope | partial | 2019-04-30T15:12:38Z | [open](../records/microscopy-rwb27-openflexure-microscope-9f4f36b7.md) |
-| scalableminds/webknossos | partial | 2026-09-02T07:50:44Z | [open](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) |
+| scalableminds/webknossos | partial | 2026-09-02T09:01:39Z | [open](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) |
 | seung-lab/cloud-volume | partial | 2026-08-13T01:17:15Z | [open](../records/microscopy-seung-lab-cloud-volume-388cc8e9.md) |
 | tferr/Scripts | partial | 2022-06-03T11:23:48Z | [open](../records/microscopy-tferr-scripts-25277503.md) |
 | TheDeanLab/navigate | partial | 2026-08-31T13:00:45Z | [open](../records/microscopy-thedeanlab-navigate-dc14fa5a.md) |

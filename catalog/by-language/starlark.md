@@ -46,7 +46,7 @@ Records: `69`
 | [bazelbuild/bazel-skylib](../records/starlark-bazelbuild-bazel-skylib-6abae8f4.md) | partial | 2026-09-01T20:37:47Z | registry-derived |
 | [bazelbuild/rules_cc](../records/starlark-bazelbuild-rules-cc-39327329.md) | partial | 2026-08-27T11:48:48Z | registry-derived |
 | [bazelbuild/rules_closure](../records/starlark-bazelbuild-rules-closure-5adb8287.md) | partial | 2026-04-03T21:28:30Z | registry-derived |
-| [bazelbuild/rules_java](../records/starlark-bazelbuild-rules-java-690a4936.md) | partial | 2026-09-01T10:11:53Z | registry-derived |
+| [bazelbuild/rules_java](../records/starlark-bazelbuild-rules-java-690a4936.md) | partial | 2026-09-02T09:02:35Z | registry-derived |
 | [bazelbuild/rules_k8s](../records/starlark-bazelbuild-rules-k8s-80683477.md) | partial | 2023-05-12T13:44:37Z | registry-derived |
 | [bazelbuild/rules_swift](../records/starlark-bazelbuild-rules-swift-3968ab89.md) | partial | 2026-09-02T05:19:41Z | registry-derived |
 | [bazelbuild/rules_typescript](../records/starlark-bazelbuild-rules-typescript-5c12b5d3.md) | partial | 2020-10-23T14:44:49Z | registry-derived |

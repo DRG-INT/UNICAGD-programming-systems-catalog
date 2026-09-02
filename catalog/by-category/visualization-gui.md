@@ -452,7 +452,7 @@ Records: `414`
 | Natron | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-natron-37c82791.md) |
 | NumberOneBot/dsssp | partial | 2026-08-12T22:46:18Z | [open](../records/effects-numberonebot-dsssp-f459bfd0.md) |
 | PixiJS Filters | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-pixijs-filters-2c7b5506.md) |
-| pschatzmann/arduino-audio-tools | partial | 2026-09-01T16:32:42Z | [open](../records/effects-pschatzmann-arduino-audio-tools-8c3c4f05.md) |
+| pschatzmann/arduino-audio-tools | partial | 2026-09-02T09:01:58Z | [open](../records/effects-pschatzmann-arduino-audio-tools-8c3c4f05.md) |
 | rsadsb/adsb_deku | partial | 2026-01-04T16:18:33Z | [open](../records/effects-rsadsb-adsb-deku-ce700c3e.md) |
 | Shadertoy | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-shadertoy-7ba0fe72.md) |
 | simmsb/dsp-stuff | partial | 2024-08-21T12:39:57Z | [open](../records/effects-simmsb-dsp-stuff-7a20636f.md) |
@@ -471,7 +471,7 @@ Records: `414`
 | bbc/peaks.js | partial | 2025-11-08T03:09:27Z | [open](../records/audio-bbc-peaks-js-ecba90fa.md) |
 | DhrBaksteen/ArduinoOPL2 | v2.1.4 | 2025-01-19T12:23:27Z | [open](../records/audio-dhrbaksteen-arduinoopl2-f259ef2c.md) |
 | dwhinham/mt32-pi | v0.13.1 | 2023-03-18T20:32:51Z | [open](../records/audio-dwhinham-mt32-pi-7a87163b.md) |
-| pschatzmann/arduino-audio-tools | partial | 2026-09-01T16:32:42Z | [open](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) |
+| pschatzmann/arduino-audio-tools | partial | 2026-09-02T09:01:58Z | [open](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) |
 | rsadsb/adsb_deku | partial | 2026-01-04T16:18:33Z | [open](../records/audio-rsadsb-adsb-deku-8c9a3700.md) |
 | unchihugo/FluentFlyout | partial | 2026-09-01T14:44:29Z | [open](../records/audio-unchihugo-fluentflyout-e2e81b2d.md) |
 | zynthian/zynthian-ui | unknown | github_latest_release_missing | [open](../records/audio-zynthian-zynthian-ui-308e1a33.md) |

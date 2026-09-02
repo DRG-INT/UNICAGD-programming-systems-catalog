@@ -247,7 +247,7 @@ Records: `300`
 | SuperKogito/pydiogment | partial | 2023-07-06T21:48:22Z | [open](../records/effects-superkogito-pydiogment-ee1478f0.md) |
 | SuperKogito/spafe | partial | 2025-03-20T16:16:12Z | [open](../records/effects-superkogito-spafe-ee3f7bf4.md) |
 | SynthstromAudible/DelugeFirmware | partial | 2026-09-01T10:08:20Z | [open](../records/effects-synthstromaudible-delugefirmware-0ce74020.md) |
-| thesofproject/sof | partial | 2026-09-01T14:27:11Z | [open](../records/effects-thesofproject-sof-2250f8c2.md) |
+| thesofproject/sof | partial | 2026-09-02T08:45:14Z | [open](../records/effects-thesofproject-sof-2250f8c2.md) |
 | tiagolr/ripplerx | partial | 2026-08-13T12:36:29Z | [open](../records/effects-tiagolr-ripplerx-f333e2b5.md) |
 | xdsopl/robot36 | partial | 2025-11-11T10:06:19Z | [open](../records/effects-xdsopl-robot36-6c1d230b.md) |
 | yandexdataschool/speech_course | partial | 2026-05-18T13:35:01Z | [open](../records/effects-yandexdataschool-speech-course-e5e7c301.md) |
@@ -326,7 +326,7 @@ Records: `300`
 | SuperKogito/spafe | partial | 2025-03-20T16:16:12Z | [open](../records/audio-superkogito-spafe-354360b4.md) |
 | surge-synthesizer/surge | Nightly | 2024-08-07T14:35:52Z | [open](../records/audio-surge-synthesizer-surge-87b5aeea.md) |
 | SynthstromAudible/DelugeFirmware | partial | 2026-09-01T10:08:20Z | [open](../records/audio-synthstromaudible-delugefirmware-4c834ea8.md) |
-| thesofproject/sof | partial | 2026-09-01T14:27:11Z | [open](../records/audio-thesofproject-sof-05fedbf2.md) |
+| thesofproject/sof | partial | 2026-09-02T08:45:14Z | [open](../records/audio-thesofproject-sof-05fedbf2.md) |
 | tiagolr/ripplerx | partial | 2026-08-13T12:36:29Z | [open](../records/audio-tiagolr-ripplerx-36b38906.md) |
 | xdsopl/robot36 | partial | 2025-11-11T10:06:19Z | [open](../records/audio-xdsopl-robot36-6b99e83d.md) |
 | yandexdataschool/speech_course | partial | 2026-05-18T13:35:01Z | [open](../records/audio-yandexdataschool-speech-course-6265981b.md) |

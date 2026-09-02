@@ -32,7 +32,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 5.20.0 | 2025-06-20T16:21:52+00:00 | [https://search.maven.org/solrsearch/select?q=sap%20cloud%20sdk&rows=100&wt=json](https://search.maven.org/solrsearch/select?q=sap%20cloud%20sdk&rows=100&wt=json) |  |
+| stable | known | 5.20.0 | 2025-06-20T16:21:52+00:00 | [https://search.maven.org/solrsearch/select?q=g%3A%22com.sap.cloud.sdk%22&rows=100&wt=json](https://search.maven.org/solrsearch/select?q=g%3A%22com.sap.cloud.sdk%22&rows=100&wt=json) |  |
 | preview/nightly | unknown |  |  | unknown | maven_central_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 - Treat category as `library` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://search.maven.org/solrsearch/select?q=sap%20cloud%20sdk&rows=100&wt=json` at `2026-09-02T08:22:30+00:00`.
+- Latest stable metadata was observed from `https://search.maven.org/solrsearch/select?q=g%3A%22com.sap.cloud.sdk%22&rows=100&wt=json` at `2026-09-02T09:20:31+00:00`.
 - Preview/nightly metadata is unknown because `maven_central_search_has_no_standard_nightly_channel`.
 
 ## Provenance
@@ -57,7 +57,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| maven_central_search | registry-derived | 2026-09-02 | `{"kind": "maven_central_search", "query": "sap cloud sdk", "retrieved": "2026-09-02", "status": "registry-derived"}` |
+| maven_central_search | registry-derived | 2026-09-02 | `{"kind": "maven_central_search", "query": "g:\"com.sap.cloud.sdk\"", "retrieved": "2026-09-02", "status": "registry-derived"}` |
 
 </details>
 

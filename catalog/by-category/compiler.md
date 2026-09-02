@@ -216,14 +216,14 @@ Records: `170`
 | --- | --- | --- | --- |
 | keijiro/BurstWig | partial | 2026-05-23T05:22:18Z | [open](../records/effects-keijiro-burstwig-d809abc3.md) |
 | vult-dsp/vult | partial | 2026-08-29T19:33:27Z | [open](../records/effects-vult-dsp-vult-c30a44c0.md) |
-| Wasted-Audio/hvcc | partial | 2026-09-01T06:35:51Z | [open](../records/effects-wasted-audio-hvcc-ddd2831a.md) |
+| Wasted-Audio/hvcc | partial | 2026-09-02T08:37:55Z | [open](../records/effects-wasted-audio-hvcc-ddd2831a.md) |
 
 ## Audio
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | vult-dsp/vult | partial | 2026-08-29T19:33:27Z | [open](../records/audio-vult-dsp-vult-61a05f1e.md) |
-| Wasted-Audio/hvcc | partial | 2026-09-01T06:35:51Z | [open](../records/audio-wasted-audio-hvcc-6c62ec1c.md) |
+| Wasted-Audio/hvcc | partial | 2026-09-02T08:37:55Z | [open](../records/audio-wasted-audio-hvcc-6c62ec1c.md) |
 
 ## Magazines
 

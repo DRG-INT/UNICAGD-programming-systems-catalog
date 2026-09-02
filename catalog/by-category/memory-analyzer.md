@@ -132,8 +132,8 @@ Records: `77`
 | gitleaks/gitleaks | partial | 2026-08-26T04:17:05Z | [open](../records/aim-s-gitleaks-gitleaks-942f477b.md) |
 | mem0ai/mem0 | partial | 2026-09-01T17:30:53Z | [open](../records/aim-s-mem0ai-mem0-1e2f6f8a.md) |
 | MemPalace/mempalace | partial | 2026-09-02T00:28:43Z | [open](../records/aim-s-mempalace-mempalace-24dc978a.md) |
-| vllm-project/vllm | partial | 2026-09-02T08:18:41Z | [open](../records/aim-s-vllm-project-vllm-5af67423.md) |
-| zhayujie/CowAgent | partial | 2026-09-01T12:23:18Z | [open](../records/aim-s-zhayujie-cowagent-fa45ff55.md) |
+| vllm-project/vllm | partial | 2026-09-02T09:16:06Z | [open](../records/aim-s-vllm-project-vllm-5af67423.md) |
+| zhayujie/CowAgent | partial | 2026-09-02T09:08:28Z | [open](../records/aim-s-zhayujie-cowagent-fa45ff55.md) |
 
 ## Maps
 

@@ -42,7 +42,7 @@ Records: `179`
 | [labsyspharm/minerva-story](../records/microscopy-labsyspharm-minerva-story-6e0a209a.md) | partial | 2024-05-08T18:52:37Z | registry-derived |
 | [lemonspurple/DIY-Scanning-Tunneling-Microscope](../records/microscopy-lemonspurple-diy-scanning-tunneling-microscope-5995151b.md) | partial | 2026-06-08T18:08:44Z | registry-derived |
 | [royerlab/napari-mcp](../records/microscopy-royerlab-napari-mcp-5804742f.md) | partial | 2026-03-25T18:05:52Z | registry-derived |
-| [saeyslab/harpy](../records/microscopy-saeyslab-harpy-13fb4e50.md) | partial | 2026-09-01T13:41:09Z | registry-derived |
+| [saeyslab/harpy](../records/microscopy-saeyslab-harpy-13fb4e50.md) | partial | 2026-09-02T09:12:41Z | registry-derived |
 
 ### Database Datastore
 
@@ -139,7 +139,7 @@ Records: `179`
 | [rapidsai/cucim](../records/microscopy-rapidsai-cucim-6fd9f972.md) | partial | 2026-09-01T14:47:34Z | registry-derived |
 | [royerlab/cytoself](../records/microscopy-royerlab-cytoself-b2dff824.md) | partial | 2025-08-05T18:46:40Z | registry-derived |
 | [rwb27/openflexure_microscope](../records/microscopy-rwb27-openflexure-microscope-9f4f36b7.md) | partial | 2019-04-30T15:12:38Z | registry-derived |
-| [scalableminds/webknossos](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) | partial | 2026-09-02T07:50:44Z | registry-derived |
+| [scalableminds/webknossos](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) | partial | 2026-09-02T09:01:39Z | registry-derived |
 | [seung-lab/cloud-volume](../records/microscopy-seung-lab-cloud-volume-388cc8e9.md) | partial | 2026-08-13T01:17:15Z | registry-derived |
 | [tferr/Scripts](../records/microscopy-tferr-scripts-25277503.md) | partial | 2022-06-03T11:23:48Z | registry-derived |
 | [TheDeanLab/navigate](../records/microscopy-thedeanlab-navigate-dc14fa5a.md) | partial | 2026-08-31T13:00:45Z | registry-derived |

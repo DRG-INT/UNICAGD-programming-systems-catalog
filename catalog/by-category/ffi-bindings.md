@@ -398,7 +398,7 @@ Records: `387`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | hiyouga/LlamaFactory | partial | 2026-09-02T07:52:23Z | [open](../records/aim-s-hiyouga-llamafactory-ad4fa468.md) |
-| iOfficeAI/AionUi | partial | 2026-09-02T07:59:59Z | [open](../records/aim-s-iofficeai-aionui-ae4168e1.md) |
+| iOfficeAI/AionUi | partial | 2026-09-02T09:01:43Z | [open](../records/aim-s-iofficeai-aionui-ae4168e1.md) |
 
 ## Assets
 
@@ -527,7 +527,7 @@ Records: `387`
 | --- | --- | --- | --- |
 | ashvardanian/NumKong | partial | 2026-09-01T21:38:13Z | [open](../records/assembly-ashvardanian-numkong-bff1efd3.md) |
 | awaescher/Fusion | partial | 2022-09-01T06:28:12Z | [open](../records/assembly-awaescher-fusion-614ef7c1.md) |
-| KolibriOS/kolibrios | partial | 2026-09-01T19:51:29Z | [open](../records/assembly-kolibrios-kolibrios-ceca7961.md) |
+| KolibriOS/kolibrios | partial | 2026-09-02T08:26:14Z | [open](../records/assembly-kolibrios-kolibrios-ceca7961.md) |
 
 ## Pattern language
 

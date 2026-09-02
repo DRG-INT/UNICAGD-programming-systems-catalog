@@ -40,7 +40,7 @@ part of service communication, clients/servers, protocol handling, and edge inte
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT/X11 |
+| Evidence | MIT + file LICENSE |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

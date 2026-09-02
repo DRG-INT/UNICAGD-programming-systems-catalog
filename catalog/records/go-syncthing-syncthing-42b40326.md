@@ -39,9 +39,9 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | Mozilla Public License 2.0; https://api.github.com/licenses/mpl-2.0 |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | Mixed license review |
+| Evidence | Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0; Mozilla Public License 2.0; https://api.github.com/licenses/mpl-2.0 |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 

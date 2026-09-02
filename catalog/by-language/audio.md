@@ -76,7 +76,7 @@ Records: `314`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [vult-dsp/vult](../records/audio-vult-dsp-vult-61a05f1e.md) | partial | 2026-08-29T19:33:27Z | registry-derived |
-| [Wasted-Audio/hvcc](../records/audio-wasted-audio-hvcc-6c62ec1c.md) | partial | 2026-09-01T06:35:51Z | registry-derived |
+| [Wasted-Audio/hvcc](../records/audio-wasted-audio-hvcc-6c62ec1c.md) | partial | 2026-09-02T08:37:55Z | registry-derived |
 
 ### Compression
 
@@ -95,7 +95,7 @@ Records: `314`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [metabrainz/picard](../records/audio-metabrainz-picard-de814b29.md) | partial | 2026-09-01T21:27:08Z | registry-derived |
+| [metabrainz/picard](../records/audio-metabrainz-picard-de814b29.md) | partial | 2026-09-02T06:37:26Z | registry-derived |
 
 ### Datetime
 
@@ -147,7 +147,7 @@ Records: `314`
 | [fedden/RenderMan](../records/audio-fedden-renderman-b1df24f8.md) | partial | 2021-12-02T21:11:26Z | registry-derived |
 | [gnuradio/gnuradio](../records/audio-gnuradio-gnuradio-f6f01d2f.md) | partial | 2026-08-27T23:02:01Z | registry-derived |
 | [HEnquist/camilladsp](../records/audio-henquist-camilladsp-382264e4.md) | partial | 2026-09-01T15:08:43Z | registry-derived |
-| [hifiberry/hifiberry-os](../records/audio-hifiberry-hifiberry-os-5ddcb398.md) | partial | 2026-09-01T19:18:13Z | registry-derived |
+| [hifiberry/hifiberry-os](../records/audio-hifiberry-hifiberry-os-5ddcb398.md) | partial | 2026-09-02T09:00:56Z | registry-derived |
 | [jameshball/osci-render](../records/audio-jameshball-osci-render-c76ba818.md) | v2.8.9.18 | 2026-04-19T21:32:42Z | registry-derived |
 | [josephernest/SamplerBox](../records/audio-josephernest-samplerbox-c23f8c2d.md) | 2022-08-10-release | 2022-08-10T15:56:33Z | registry-derived |
 | [joshwcomeau/key-and-pad](../records/audio-joshwcomeau-key-and-pad-da5bc43a.md) | unknown | github_latest_release_missing | registry-derived |
@@ -196,7 +196,7 @@ Records: `314`
 | --- | --- | --- | --- |
 | [777arc/PySDR](../records/audio-777arc-pysdr-e43c1cf4.md) | partial | 2026-09-01T14:56:23Z | registry-derived |
 | [alyssaxuu/motionity](../records/audio-alyssaxuu-motionity-3c2fb703.md) | partial | 2022-09-12T02:06:50Z | registry-derived |
-| [audacity/audacity](../records/audio-audacity-audacity-76dd21d8.md) | partial | 2026-09-01T16:24:57Z | registry-derived |
+| [audacity/audacity](../records/audio-audacity-audacity-76dd21d8.md) | partial | 2026-09-02T09:14:51Z | registry-derived |
 | [bitgapp/eqMac](../records/audio-bitgapp-eqmac-bb6a049e.md) | partial | 2026-04-24T14:53:15Z | registry-derived |
 | [danilogcrf2-oss/ESP32Synth](../records/audio-danilogcrf2-oss-esp32synth-7a58d4c6.md) | 2.4.6 | 2026-08-30T15:16:20Z | registry-derived |
 | [deniscerri/ytdlnis](../records/audio-deniscerri-ytdlnis-096edb21.md) | partial | 2026-08-31T16:05:33Z | registry-derived |
@@ -289,7 +289,7 @@ Records: `314`
 | [SuperKogito/spafe](../records/audio-superkogito-spafe-354360b4.md) | partial | 2025-03-20T16:16:12Z | registry-derived |
 | [surge-synthesizer/surge](../records/audio-surge-synthesizer-surge-87b5aeea.md) | Nightly | 2024-08-07T14:35:52Z | registry-derived |
 | [SynthstromAudible/DelugeFirmware](../records/audio-synthstromaudible-delugefirmware-4c834ea8.md) | partial | 2026-09-01T10:08:20Z | registry-derived |
-| [thesofproject/sof](../records/audio-thesofproject-sof-05fedbf2.md) | partial | 2026-09-01T14:27:11Z | registry-derived |
+| [thesofproject/sof](../records/audio-thesofproject-sof-05fedbf2.md) | partial | 2026-09-02T08:45:14Z | registry-derived |
 | [tiagolr/ripplerx](../records/audio-tiagolr-ripplerx-36b38906.md) | partial | 2026-08-13T12:36:29Z | registry-derived |
 | [xdsopl/robot36](../records/audio-xdsopl-robot36-6b99e83d.md) | partial | 2025-11-11T10:06:19Z | registry-derived |
 | [yandexdataschool/speech_course](../records/audio-yandexdataschool-speech-course-6265981b.md) | partial | 2026-05-18T13:35:01Z | registry-derived |
@@ -385,7 +385,7 @@ Records: `314`
 | [copych/AcidBox](../records/audio-copych-acidbox-f1182e91.md) | v.1.3.3 | 2024-11-12T08:14:16Z | registry-derived |
 | [DamRsn/NeuralNote](../records/audio-damrsn-neuralnote-e9b5c736.md) | partial | 2025-01-16T10:00:44Z | registry-derived |
 | [electro-smith/DaisySP](../records/audio-electro-smith-daisysp-caa53501.md) | partial | 2025-05-29T04:37:29Z | registry-derived |
-| [huggingface/transformers](../records/audio-huggingface-transformers-9073c238.md) | partial | 2026-09-02T04:31:34Z | registry-derived |
+| [huggingface/transformers](../records/audio-huggingface-transformers-9073c238.md) | partial | 2026-09-02T08:49:51Z | registry-derived |
 | [ictnlp/StreamSpeech](../records/audio-ictnlp-streamspeech-abc4c0a4.md) | unknown | github_latest_release_missing | registry-derived |
 | [iver56/audiomentations](../records/audio-iver56-audiomentations-bf487b1d.md) | partial | 2026-04-13T22:04:14Z | registry-derived |
 | [lanceylai/TSWeChat](../records/audio-lanceylai-tswechat-3bd4bda0.md) | partial | 2019-07-28T08:57:46Z | registry-derived |
@@ -394,7 +394,7 @@ Records: `314`
 | [modelscope/ClearerVoice-Studio](../records/audio-modelscope-clearervoice-studio-eecd0125.md) | partial | 2025-08-14T08:26:31Z | registry-derived |
 | [openai/jukebox](../records/audio-openai-jukebox-831d162e.md) | partial | 2024-06-19T05:14:24Z | registry-derived |
 | [pliang279/awesome-multimodal-ml](../records/audio-pliang279-awesome-multimodal-ml-35fc826b.md) | unknown | github_latest_release_missing | registry-derived |
-| [rern/rAudio](../records/audio-rern-raudio-af65d72c.md) | partial | 2026-09-02T05:14:59Z | registry-derived |
+| [rern/rAudio](../records/audio-rern-raudio-af65d72c.md) | partial | 2026-09-02T09:07:36Z | registry-derived |
 | [resemble-ai/resemble-enhance](../records/audio-resemble-ai-resemble-enhance-cbd92f96.md) | 0.0.1 | 2023-12-14T07:49:31Z | registry-derived |
 | [seaniezhao/torch_npss](../records/audio-seaniezhao-torch-npss-bcd03657.md) | v0.2.0 | 2019-07-03T10:56:32Z | registry-derived |
 | [snakers4/silero-vad](../records/audio-snakers4-silero-vad-5552d692.md) | v6.2.1 | 2026-02-24T08:41:19Z | registry-derived |
@@ -415,7 +415,7 @@ Records: `314`
 | [Anjok07/ultimatevocalremovergui](../records/audio-anjok07-ultimatevocalremovergui-7c0f051c.md) | partial | 2025-03-13T21:44:03Z | registry-derived |
 | [apohl79/audiogridder](../records/audio-apohl79-audiogridder-b399a5d3.md) | partial | 2024-07-31T08:38:20Z | registry-derived |
 | [drethage/speech-denoising-wavenet](../records/audio-drethage-speech-denoising-wavenet-dd81add3.md) | unknown | github_latest_release_missing | registry-derived |
-| [FFmpeg/FFmpeg](../records/audio-ffmpeg-ffmpeg-e29098d1.md) | partial | 2026-09-02T02:48:55Z | registry-derived |
+| [FFmpeg/FFmpeg](../records/audio-ffmpeg-ffmpeg-e29098d1.md) | partial | 2026-09-02T07:24:10Z | registry-derived |
 | [mpc-hc/mpc-hc](../records/audio-mpc-hc-mpc-hc-6f555179.md) | partial | 2020-04-24T11:04:40Z | registry-derived |
 | [r9y9/deepvoice3_pytorch](../records/audio-r9y9-deepvoice3-pytorch-c125e8f5.md) | v0.1.0 | 2018-10-27T07:06:49Z | registry-derived |
 | [roc-streaming/roc-toolkit](../records/audio-roc-streaming-roc-toolkit-714e5d70.md) | partial | 2026-08-24T16:27:50Z | registry-derived |
@@ -429,7 +429,7 @@ Records: `314`
 | [Archie3d/aeolus_plugin](../records/audio-archie3d-aeolus-plugin-c1d397f6.md) | v0.3.0 | 2025-05-31T13:17:36Z | registry-derived |
 | [Audio4Linux/JDSP4Linux](../records/audio-audio4linux-jdsp4linux-effd41ab.md) | partial | 2026-08-29T16:29:46Z | registry-derived |
 | [collidingScopes/arpeggiator](../records/audio-collidingscopes-arpeggiator-f2da818f.md) | unknown | github_latest_release_missing | registry-derived |
-| [modelscope/FunASR](../records/audio-modelscope-funasr-8e089427.md) | partial | 2026-09-02T04:08:21Z | registry-derived |
+| [modelscope/FunASR](../records/audio-modelscope-funasr-8e089427.md) | partial | 2026-09-02T08:35:59Z | registry-derived |
 
 ### Parser Lexer Ast
 
@@ -491,7 +491,7 @@ Records: `314`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [seehiong/noteflow](../records/audio-seehiong-noteflow-25a87e06.md) | unknown | github_latest_release_missing | registry-derived |
-| [Vanilagy/mediabunny](../records/audio-vanilagy-mediabunny-c14130e8.md) | partial | 2026-08-31T12:17:50Z | registry-derived |
+| [Vanilagy/mediabunny](../records/audio-vanilagy-mediabunny-c14130e8.md) | partial | 2026-09-02T07:32:09Z | registry-derived |
 
 ### Undefined Behavior Analyzer
 
@@ -520,7 +520,7 @@ Records: `314`
 | [bbc/peaks.js](../records/audio-bbc-peaks-js-ecba90fa.md) | partial | 2025-11-08T03:09:27Z | registry-derived |
 | [DhrBaksteen/ArduinoOPL2](../records/audio-dhrbaksteen-arduinoopl2-f259ef2c.md) | v2.1.4 | 2025-01-19T12:23:27Z | registry-derived |
 | [dwhinham/mt32-pi](../records/audio-dwhinham-mt32-pi-7a87163b.md) | v0.13.1 | 2023-03-18T20:32:51Z | registry-derived |
-| [pschatzmann/arduino-audio-tools](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) | partial | 2026-09-01T16:32:42Z | registry-derived |
+| [pschatzmann/arduino-audio-tools](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) | partial | 2026-09-02T09:01:58Z | registry-derived |
 | [rsadsb/adsb_deku](../records/audio-rsadsb-adsb-deku-8c9a3700.md) | partial | 2026-01-04T16:18:33Z | registry-derived |
 | [unchihugo/FluentFlyout](../records/audio-unchihugo-fluentflyout-e2e81b2d.md) | partial | 2026-09-01T14:44:29Z | registry-derived |
 | [zynthian/zynthian-ui](../records/audio-zynthian-zynthian-ui-308e1a33.md) | unknown | github_latest_release_missing | registry-derived |
