@@ -1,6 +1,6 @@
 # Networking Http
 
-Records: `905`
+Records: `906`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `905`
 ## Category Index
 
 [Api Abi Checker (180)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (122)](async-runtime.md)
-[Benchmarking (110)](benchmarking.md) · [Build System (803)](build-system.md) · [Cli (491)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (110)](benchmarking.md) · [Build System (803)](build-system.md) · [Cli (492)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (83)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
 [Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (97)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (154)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (687)](database-datastore.md) · [Datetime (157)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (83)](dependency-manager.md) · [Documentation (80)](documentation.md)
-[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (379)](ffi-bindings.md) · [Filesystem Os (1160)](filesystem-os.md) · [Formatter (542)](formatter.md)
-[Framework (47)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (153)](game-engine-game-dev.md) · [Ide Editor Integration (1114)](ide-editor-integration.md)
+[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (380)](ffi-bindings.md) · [Filesystem Os (1160)](filesystem-os.md) · [Formatter (542)](formatter.md)
+[Framework (47)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (153)](game-engine-game-dev.md) · [Ide Editor Integration (1115)](ide-editor-integration.md)
 [Image Audio Dsp (292)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (227)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
 [Language Server (27)](language-server.md) · [Language Specification (1223)](language-specification.md) · [Library (4765)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (386)](logging-observability.md) · [Machine Learning (572)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (76)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · **[Networking Http (905)](networking-http.md)**
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (76)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · **[Networking Http (906)](networking-http.md)**
 [Other (14)](other.md) · [Package Manager (260)](package-manager.md) · [Parser Lexer Ast (895)](parser-lexer-ast.md) · [Precommit Ci Quality (259)](precommit-ci-quality.md)
 [Profiler (68)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (311)](security-sast.md) · [Serialization (367)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (426)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (492)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (286)](type-checker.md)
-[Undefined Behavior Analyzer (1361)](undefined-behavior-analyzer.md) · [Utility Library (92)](utility-library.md) · [Visualization Gui (413)](visualization-gui.md) · [Web Framework (387)](web-framework.md)
+[Undefined Behavior Analyzer (1361)](undefined-behavior-analyzer.md) · [Utility Library (92)](utility-library.md) · [Visualization Gui (413)](visualization-gui.md) · [Web Framework (388)](web-framework.md)
 
 ## C99
 
@@ -269,6 +269,7 @@ Records: `905`
 | @digitalbazaar/http-client | 4.4.0 | 2026-08-06T22:49:33.660Z | [open](../records/node-js-javascript-digitalbazaar-http-client-80de7a7d.md) |
 | @digitalcredentials/http-client | 5.0.4 | 2024-09-01T21:50:59.571Z | [open](../records/node-js-javascript-digitalcredentials-http-client-748b2938.md) |
 | @flexbase/http-client-middleware | 2.0.13 | 2023-10-23T15:45:48.355Z | [open](../records/node-js-javascript-flexbase-http-client-middleware-bc4086d1.md) |
+| @fluidframework/server-services-client | 7.0.1 | 2026-04-17T22:38:54.870Z | [open](../records/node-js-javascript-fluidframework-server-services-client-fd603803.md) |
 | @gjsify/http | 0.45.0 | 2026-08-31T04:21:30.988Z | [open](../records/node-js-javascript-gjsify-http-1598f2a7.md) |
 | @google-cloud/logging | 12.0.1 | 2026-08-12T18:24:28.980Z | [open](../records/node-js-javascript-google-cloud-logging-0415f938.md) |
 | @google-cloud/logging-api | 0.3.0 | 2026-08-10T17:32:59.810Z | [open](../records/node-js-javascript-google-cloud-logging-api-ce2af288.md) |
@@ -893,7 +894,7 @@ Records: `905`
 | Anjok07/ultimatevocalremovergui | partial | 2025-03-13T21:44:03Z | [open](../records/audio-anjok07-ultimatevocalremovergui-7c0f051c.md) |
 | apohl79/audiogridder | partial | 2024-07-31T08:38:20Z | [open](../records/audio-apohl79-audiogridder-b399a5d3.md) |
 | drethage/speech-denoising-wavenet | unknown | github_latest_release_missing | [open](../records/audio-drethage-speech-denoising-wavenet-dd81add3.md) |
-| FFmpeg/FFmpeg | partial | 2026-09-01T12:29:14Z | [open](../records/audio-ffmpeg-ffmpeg-e29098d1.md) |
+| FFmpeg/FFmpeg | partial | 2026-09-01T22:49:33Z | [open](../records/audio-ffmpeg-ffmpeg-e29098d1.md) |
 | mpc-hc/mpc-hc | partial | 2020-04-24T11:04:40Z | [open](../records/audio-mpc-hc-mpc-hc-6f555179.md) |
 | r9y9/deepvoice3_pytorch | v0.1.0 | 2018-10-27T07:06:49Z | [open](../records/audio-r9y9-deepvoice3-pytorch-c125e8f5.md) |
 | roc-streaming/roc-toolkit | partial | 2026-08-24T16:27:50Z | [open](../records/audio-roc-streaming-roc-toolkit-714e5d70.md) |

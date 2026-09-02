@@ -5,22 +5,22 @@
 ## Category Index
 
 [Api Abi Checker (180)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (41)](by-category/assertion-mocking.md) · [Async Runtime (122)](by-category/async-runtime.md)
-[Benchmarking (110)](by-category/benchmarking.md) · [Build System (803)](by-category/build-system.md) · [Cli (491)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (110)](by-category/benchmarking.md) · [Build System (803)](by-category/build-system.md) · [Cli (492)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (83)](by-category/community-reference.md) · [Compiler (170)](by-category/compiler.md) · [Compiler Diagnostics (22)](by-category/compiler-diagnostics.md) · [Compression (45)](by-category/compression.md)
 [Concurrency Parallelism (71)](by-category/concurrency-parallelism.md) · [Configuration (97)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (11)](by-category/coverage.md)
 [Cryptography (154)](by-category/cryptography.md) · [Data Science (32)](by-category/data-science.md) · [Database Datastore (687)](by-category/database-datastore.md) · [Datetime (157)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (41)](by-category/debugger.md) · [Dependency Manager (83)](by-category/dependency-manager.md) · [Documentation (80)](by-category/documentation.md)
-[Embedded Hardware (47)](by-category/embedded-hardware.md) · [Ffi Bindings (379)](by-category/ffi-bindings.md) · [Filesystem Os (1160)](by-category/filesystem-os.md) · [Formatter (542)](by-category/formatter.md)
-[Framework (47)](by-category/framework.md) · [Fuzzer (48)](by-category/fuzzer.md) · [Game Engine Game Dev (153)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1114)](by-category/ide-editor-integration.md)
+[Embedded Hardware (47)](by-category/embedded-hardware.md) · [Ffi Bindings (380)](by-category/ffi-bindings.md) · [Filesystem Os (1160)](by-category/filesystem-os.md) · [Formatter (542)](by-category/formatter.md)
+[Framework (47)](by-category/framework.md) · [Fuzzer (48)](by-category/fuzzer.md) · [Game Engine Game Dev (153)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1115)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (292)](by-category/image-audio-dsp.md) · [Interop Bindings (52)](by-category/interop-bindings.md) · [Interpreter Runtime (227)](by-category/interpreter-runtime.md) · [Jit Vm (56)](by-category/jit-vm.md)
 [Language Server (27)](by-category/language-server.md) · [Language Specification (1223)](by-category/language-specification.md) · [Library (4765)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (40)](by-category/lint-rule-pack.md) · [Linter (346)](by-category/linter.md) · [Logging Observability (386)](by-category/logging-observability.md) · [Machine Learning (572)](by-category/machine-learning.md)
-[Math Numeric Scientific (79)](by-category/math-numeric-scientific.md) · [Memory Analyzer (76)](by-category/memory-analyzer.md) · [Message Broker (31)](by-category/message-broker.md) · [Networking Http (905)](by-category/networking-http.md)
+[Math Numeric Scientific (79)](by-category/math-numeric-scientific.md) · [Memory Analyzer (76)](by-category/memory-analyzer.md) · [Message Broker (31)](by-category/message-broker.md) · [Networking Http (906)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (260)](by-category/package-manager.md) · [Parser Lexer Ast (895)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (259)](by-category/precommit-ci-quality.md)
 [Profiler (68)](by-category/profiler.md) · [Project Scaffolding (118)](by-category/project-scaffolding.md) · [Registry Repository (107)](by-category/registry-repository.md) · [Sanitizer (12)](by-category/sanitizer.md)
 [Security Sast (311)](by-category/security-sast.md) · [Serialization (367)](by-category/serialization.md) · [Standard Library (24)](by-category/standard-library.md) · [Static Analyzer (426)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (492)](by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](by-category/tutorial-book-styleguide.md) · [Type Checker (286)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1361)](by-category/undefined-behavior-analyzer.md) · [Utility Library (92)](by-category/utility-library.md) · [Visualization Gui (413)](by-category/visualization-gui.md) · [Web Framework (387)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1361)](by-category/undefined-behavior-analyzer.md) · [Utility Library (92)](by-category/utility-library.md) · [Visualization Gui (413)](by-category/visualization-gui.md) · [Web Framework (388)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -17921,6 +17921,7 @@
 | `npm_registry-2c7750ff4272f9` | request-compose | [open](records/node-js-javascript-request-compose-d38c4b0e.md) |
 | `npm_registry-2c8e67385aa4c8` | @opentelemetry/instrumentation-oracledb | [open](records/node-js-javascript-opentelemetry-instrumentation-oracledb-9cb7ba6c.md) |
 | `npm_registry-2c9c1ce2f84dd8` | jasmine-marbles | [open](records/node-js-javascript-jasmine-marbles-ad1cba1f.md) |
+| `npm_registry-2caf0397b3193e` | ra-data-json-server | [open](records/node-js-javascript-ra-data-json-server-08269826.md) |
 | `npm_registry-2cd87b2d9e4621` | @backstage/cli-module-maintenance | [open](records/node-js-javascript-backstage-cli-module-maintenance-67e55bb0.md) |
 | `npm_registry-2ce939c49f7d86` | @better-typescript-lib/es2015 | [open](records/node-js-typescript-better-typescript-lib-es2015-582671b7.md) |
 | `npm_registry-2cf51cc0123d88` | @typescript/native-preview-linux-x64 | [open](records/node-js-typescript-typescript-native-preview-linux-x64-b9a3d50f.md) |
@@ -18470,6 +18471,7 @@
 | `npm_registry-608cc734b9f49f` | redocly | [open](records/node-js-javascript-redocly-8a442454.md) |
 | `npm_registry-60f170977f23a3` | @backstage/cli-module-test-jest | [open](records/node-js-javascript-backstage-cli-module-test-jest-01ef3bd6.md) |
 | `npm_registry-60f9d54391a6b7` | @accounter/server | [open](records/node-js-javascript-accounter-server-29485588.md) |
+| `npm_registry-616f2a89b9da37` | server-cli-only | [open](records/node-js-javascript-server-cli-only-17eb2673.md) |
 | `npm_registry-6175dd60b0cc25` | aurelia-logging | [open](records/node-js-javascript-aurelia-logging-e537f5f6.md) |
 | `npm_registry-617d03d771d341` | @babel/helper-builder-react-jsx-experimental | [open](records/node-js-javascript-babel-helper-builder-react-jsx-experimental-6349cce8.md) |
 | `npm_registry-617f1974b169aa` | @accio-ai/cli | [open](records/node-js-javascript-accio-ai-cli-98437ac9.md) |
@@ -19375,6 +19377,7 @@
 | `npm_registry-b50b10ec5950d3` | @sap/xssec | [open](records/node-js-javascript-sap-xssec-6a65d608.md) |
 | `npm_registry-b5129afa3e2471` | eufy-security-ws | [open](records/node-js-javascript-eufy-security-ws-a7e5ae6c.md) |
 | `npm_registry-b52f85718b2b42` | @hono/vite-build | [open](records/node-js-javascript-hono-vite-build-05657f08.md) |
+| `npm_registry-b5408ce90b2d74` | @reflag/cli | [open](records/node-js-javascript-reflag-cli-d57e61f7.md) |
 | `npm_registry-b56922ea871f02` | websql-configurable | [open](records/node-js-javascript-websql-configurable-6a76b98d.md) |
 | `npm_registry-b5772aace70dae` | @reown/appkit-utils | [open](records/node-js-javascript-reown-appkit-utils-f23511e3.md) |
 | `npm_registry-b57cff7738862e` | @tursodatabase/database-linux-arm64-gnu | [open](records/node-js-javascript-tursodatabase-database-linux-arm64-gnu-fa47c769.md) |
@@ -19816,6 +19819,7 @@
 | `npm_registry-e48ed6cbc08a36` | @firebase/database-compat | [open](records/node-js-javascript-firebase-database-compat-b3021f32.md) |
 | `npm_registry-e4a188b48b7ab9` | @expo/bunyan | [open](records/node-js-javascript-expo-bunyan-45e8d57d.md) |
 | `npm_registry-e4b06415fc49e6` | apollo-datasource-http | [open](records/node-js-javascript-apollo-datasource-http-07bd8767.md) |
+| `npm_registry-e4bed677adddea` | @upstash/qstash-cli | [open](records/node-js-javascript-upstash-qstash-cli-ac11fa1b.md) |
 | `npm_registry-e4d80d68056c0b` | prettier-plugin-antlers | [open](records/node-js-javascript-prettier-plugin-antlers-a47eda56.md) |
 | `npm_registry-e4e43f348fc0a0` | sequelize-auto | [open](records/node-js-javascript-sequelize-auto-9f8a10e0.md) |
 | `npm_registry-e4f240e2f4bda1` | @angular-eslint/schematics | [open](records/node-js-javascript-angular-eslint-schematics-a7992b2f.md) |
@@ -19830,6 +19834,7 @@
 | `npm_registry-e5c5bac2976a43` | @testing-library/webdriverio | [open](records/node-js-javascript-testing-library-webdriverio-5c4a7761.md) |
 | `npm_registry-e60e729894ff27` | @browserstack/mcp-server | [open](records/node-js-javascript-browserstack-mcp-server-28ee02d1.md) |
 | `npm_registry-e60f2fd3e4e344` | openapi-server-url-templating | [open](records/node-js-javascript-openapi-server-url-templating-fb39b925.md) |
+| `npm_registry-e62ad44010c227` | @fluidframework/server-services-client | [open](records/node-js-javascript-fluidframework-server-services-client-fd603803.md) |
 | `npm_registry-e62cb96450e497` | zipkin-transport-http | [open](records/node-js-javascript-zipkin-transport-http-584091df.md) |
 | `npm_registry-e639d608a9760c` | inflation | [open](records/node-js-javascript-inflation-bc252e80.md) |
 | `npm_registry-e63e4d1162952a` | prettier-config-udemy-website | [open](records/node-js-javascript-prettier-config-udemy-website-4b940b50.md) |
