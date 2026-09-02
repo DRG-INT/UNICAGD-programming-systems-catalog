@@ -4,12 +4,12 @@
 
 ## Category Index
 
-[Api Abi Checker (185)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (41)](by-category/assertion-mocking.md) · [Async Runtime (122)](by-category/async-runtime.md)
-[Benchmarking (110)](by-category/benchmarking.md) · [Build System (812)](by-category/build-system.md) · [Cli (501)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Api Abi Checker (185)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (41)](by-category/assertion-mocking.md) · [Async Runtime (123)](by-category/async-runtime.md)
+[Benchmarking (110)](by-category/benchmarking.md) · [Build System (813)](by-category/build-system.md) · [Cli (501)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (85)](by-category/community-reference.md) · [Compiler (170)](by-category/compiler.md) · [Compiler Diagnostics (22)](by-category/compiler-diagnostics.md) · [Compression (45)](by-category/compression.md)
 [Concurrency Parallelism (72)](by-category/concurrency-parallelism.md) · [Configuration (100)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (11)](by-category/coverage.md)
-[Cryptography (155)](by-category/cryptography.md) · [Data Science (32)](by-category/data-science.md) · [Database Datastore (690)](by-category/database-datastore.md) · [Datetime (158)](by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (41)](by-category/debugger.md) · [Dependency Manager (85)](by-category/dependency-manager.md) · [Documentation (80)](by-category/documentation.md)
+[Cryptography (155)](by-category/cryptography.md) · [Data Science (32)](by-category/data-science.md) · [Database Datastore (714)](by-category/database-datastore.md) · [Datetime (158)](by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (41)](by-category/debugger.md) · [Dependency Manager (85)](by-category/dependency-manager.md) · [Documentation (88)](by-category/documentation.md)
 [Embedded Hardware (49)](by-category/embedded-hardware.md) · [Ffi Bindings (387)](by-category/ffi-bindings.md) · [Filesystem Os (1197)](by-category/filesystem-os.md) · [Formatter (545)](by-category/formatter.md)
 [Framework (47)](by-category/framework.md) · [Fuzzer (48)](by-category/fuzzer.md) · [Game Engine Game Dev (157)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1133)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (300)](by-category/image-audio-dsp.md) · [Interop Bindings (52)](by-category/interop-bindings.md) · [Interpreter Runtime (227)](by-category/interpreter-runtime.md) · [Jit Vm (56)](by-category/jit-vm.md)
@@ -20,7 +20,7 @@
 [Profiler (72)](by-category/profiler.md) · [Project Scaffolding (118)](by-category/project-scaffolding.md) · [Registry Repository (107)](by-category/registry-repository.md) · [Sanitizer (12)](by-category/sanitizer.md)
 [Security Sast (311)](by-category/security-sast.md) · [Serialization (368)](by-category/serialization.md) · [Standard Library (24)](by-category/standard-library.md) · [Static Analyzer (437)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (495)](by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](by-category/tutorial-book-styleguide.md) · [Type Checker (290)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1379)](by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](by-category/utility-library.md) · [Visualization Gui (414)](by-category/visualization-gui.md) · [Web Framework (391)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1380)](by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](by-category/utility-library.md) · [Visualization Gui (414)](by-category/visualization-gui.md) · [Web Framework (391)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -4927,18 +4927,25 @@
 | `gitea_repositories_api-0910b256edd5c4` | Gitea: Code-Technologies/shared-library | [open](records/repository-workplaces-gitea-code-technologies-shared-library-0ebeb069.md) |
 | `gitea_repositories_api-091cfe94cb6d70` | Gitea: nesin/audacity | [open](records/repository-workplaces-gitea-nesin-audacity-f5afbba1.md) |
 | `gitea_repositories_api-096cbe37d5ee18` | Gitea: 0x61nas/aarty | [open](records/repository-workplaces-gitea-0x61nas-aarty-6aeebbea.md) |
+| `gitea_repositories_api-09c1c10756d29b` | Gitea: OurTaiko/taiko-song-database-cn | [open](records/repository-workplaces-gitea-ourtaiko-taiko-song-database-cn-3611ca9f.md) |
 | `gitea_repositories_api-0c3be4e6d7eaa5` | Gitea: Putogiteademierda/21eyay8qeyciubaya | [open](records/repository-workplaces-gitea-putogiteademierda-21eyay8qeyciubaya-2ed450c9.md) |
 | `gitea_repositories_api-0d26a180a99d87` | Gitea: sljdcvddvvvc/maoism-library-mlm | [open](records/repository-workplaces-gitea-sljdcvddvvvc-maoism-library-mlm-bfcc05db.md) |
 | `gitea_repositories_api-0e19a1fd30092d` | Gitea: wild/library | [open](records/repository-workplaces-gitea-wild-library-9e923406.md) |
 | `gitea_repositories_api-0f3b27c03ab491` | Gitea: yueyue5201314/jadx | [open](records/repository-workplaces-gitea-yueyue5201314-jadx-4298d1a3.md) |
+| `gitea_repositories_api-10a0290feac386` | Gitea: emmanuel559559/MalwareDatabase | [open](records/repository-workplaces-gitea-emmanuel559559-malwaredatabase-4fd5193e.md) |
 | `gitea_repositories_api-10dbba4c167d0a` | Gitea: Opsdff/RiviLib | [open](records/repository-workplaces-gitea-opsdff-rivilib-b63af9b3.md) |
 | `gitea_repositories_api-11b1fe1f19ca13` | Gitea: otiozee/ascii-arts | [open](records/repository-workplaces-gitea-otiozee-ascii-arts-c7240f27.md) |
+| `gitea_repositories_api-146d3dbff9b919` | Gitea: liangyuanpeng/etcd | [open](records/repository-workplaces-gitea-liangyuanpeng-etcd-e0dead7c.md) |
 | `gitea_repositories_api-14ce3154aae5fb` | Gitea: mo3az/-piscine-go | [open](records/repository-workplaces-gitea-mo3az-piscine-go-38535a48.md) |
 | `gitea_repositories_api-162711bb66283a` | Gitea: xiaox/New-Library-Demo | [open](records/repository-workplaces-gitea-xiaox-new-library-demo-8a583b6a.md) |
+| `gitea_repositories_api-169bdcfb7ee66c` | Gitea: TF/180-hello-database | [open](records/repository-workplaces-gitea-tf-180-hello-database-db3e0ca0.md) |
 | `gitea_repositories_api-1702030cecfacf` | Gitea: IdeaCentral/AI-Observer-experiment | [open](records/repository-workplaces-gitea-ideacentral-ai-observer-experiment-6c2dbdf4.md) |
 | `gitea_repositories_api-1713da42007644` | Gitea: h005723021/GoLibraryMemo | [open](records/repository-workplaces-gitea-h005723021-golibrarymemo-c23e8118.md) |
+| `gitea_repositories_api-17431832032d00` | Gitea: TOPK3K/Extension-api-documentation | [open](records/repository-workplaces-gitea-topk3k-extension-api-documentation-fe1e6c7e.md) |
 | `gitea_repositories_api-1771632b41cafa` | Gitea: sbwml/alist | [open](records/repository-workplaces-gitea-sbwml-alist-2d556110.md) |
 | `gitea_repositories_api-17c57f3c07e034` | Gitea: otiozee/ascii-art | [open](records/repository-workplaces-gitea-otiozee-ascii-art-ce13f575.md) |
+| `gitea_repositories_api-182b0b76f3673e` | Gitea: kriper2005/OP5Documentation | [open](records/repository-workplaces-gitea-kriper2005-op5documentation-ef340f06.md) |
+| `gitea_repositories_api-1a46dc32a88959` | Gitea: artemikevse/database.py | [open](records/repository-workplaces-gitea-artemikevse-database-py-d191c26c.md) |
 | `gitea_repositories_api-1a5e07a59e769c` | Gitea: sillyguodong/asciicast_test | [open](records/repository-workplaces-gitea-sillyguodong-asciicast-test-bbac7031.md) |
 | `gitea_repositories_api-1bdbba75a5668e` | Gitea: portellam2/guest-machine-guide | [open](records/repository-workplaces-gitea-portellam2-guest-machine-guide-87454a0c.md) |
 | `gitea_repositories_api-1dd2e8fddba91b` | Gitea: we8tguivdbsd/21eyay8qeyciubaya | [open](records/repository-workplaces-gitea-we8tguivdbsd-21eyay8qeyciubaya-47fe49cc.md) |
@@ -4946,13 +4953,17 @@
 | `gitea_repositories_api-1e7f3dd451cbce` | Gitea: zaccesss/.profile | [open](records/repository-workplaces-gitea-zaccesss-profile-898ffe18.md) |
 | `gitea_repositories_api-1f108b5496a5bb` | Gitea: pablaofficeal/PGT-compilers | [open](records/repository-workplaces-gitea-pablaofficeal-pgt-compilers-8084127d.md) |
 | `gitea_repositories_api-20cb1290203ad6` | Gitea: Vikt0ria0/devops | [open](records/repository-workplaces-gitea-vikt0ria0-devops-876b86c8.md) |
+| `gitea_repositories_api-20dc30ea00f3e1` | Gitea: Leeminseo03/database_project | [open](records/repository-workplaces-gitea-leeminseo03-database-project-db1c25af.md) |
 | `gitea_repositories_api-20f70df7394377` | Gitea: rammiah/caddy | [open](records/repository-workplaces-gitea-rammiah-caddy-a558d1df.md) |
 | `gitea_repositories_api-214672a1e76cf3` | Gitea: TableTab/config-server | [open](records/repository-workplaces-gitea-tabletab-config-server-4dc7a6c4.md) |
 | `gitea_repositories_api-222ed8fa32113b` | Gitea: goftp/ftpd | [open](records/repository-workplaces-gitea-goftp-ftpd-baae7a51.md) |
 | `gitea_repositories_api-2382102455f115` | Gitea: oxm3nto/Bash-For-Basic-DevOps | [open](records/repository-workplaces-gitea-oxm3nto-bash-for-basic-devops-6deb3d49.md) |
 | `gitea_repositories_api-240dca753330ca` | Gitea: OpenSource-Auth/auth-server-backup | [open](records/repository-workplaces-gitea-opensource-auth-auth-server-backup-6d7e0f82.md) |
+| `gitea_repositories_api-242fff0b5720a5` | Gitea: Sarah95/documentation | [open](records/repository-workplaces-gitea-sarah95-documentation-7f7ba1e8.md) |
 | `gitea_repositories_api-245d3d4560126d` | Gitea: lemonade7oe/awesome-go | [open](records/repository-workplaces-gitea-lemonade7oe-awesome-go-07d858b5.md) |
 | `gitea_repositories_api-26433e7f46279c` | Gitea: lunny/levelqueue | [open](records/repository-workplaces-gitea-lunny-levelqueue-396594f9.md) |
+| `gitea_repositories_api-26978ecb4d6396` | Gitea: Leeminseo/database_project | [open](records/repository-workplaces-gitea-leeminseo-database-project-c2f8cf6b.md) |
+| `gitea_repositories_api-2716987559a012` | Gitea: gofulljs/gitbook | [open](records/repository-workplaces-gitea-gofulljs-gitbook-d20d2f95.md) |
 | `gitea_repositories_api-284e067a7c36d4` | Gitea: afzal/bangladesh-struggle-for-independence | [open](records/repository-workplaces-gitea-afzal-bangladesh-struggle-for-independence-bc17a5b9.md) |
 | `gitea_repositories_api-291b81494c2ec8` | Gitea: deepim/flatbuffers | [open](records/repository-workplaces-gitea-deepim-flatbuffers-d97eab34.md) |
 | `gitea_repositories_api-29b26d7eb90aaf` | Gitea: galaxy-future/alist | [open](records/repository-workplaces-gitea-galaxy-future-alist-0e422fd3.md) |
@@ -4967,6 +4978,7 @@
 | `gitea_repositories_api-31d2f1ad7abdce` | Gitea: deathrashed/Icons | [open](records/repository-workplaces-gitea-deathrashed-icons-f8903c51.md) |
 | `gitea_repositories_api-323ebfec2cb285` | Gitea: avagarcia000/Avagarcia-s-works | [open](records/repository-workplaces-gitea-avagarcia000-avagarcia-s-works-97423086.md) |
 | `gitea_repositories_api-32a5b875dc68f9` | Gitea: benito.rodriguez/ASCII_ROMPECABEZAS | [open](records/repository-workplaces-gitea-benito-rodriguez-ascii-rompecabezas-4bd6f9e4.md) |
+| `gitea_repositories_api-33abefde34ff2a` | Gitea: ryan-winkler/ryanwinkler | [open](records/repository-workplaces-gitea-ryan-winkler-ryanwinkler-c5f906a1.md) |
 | `gitea_repositories_api-3438934e898fb5` | Gitea: mahanfr/Nmet | [open](records/repository-workplaces-gitea-mahanfr-nmet-93211b47.md) |
 | `gitea_repositories_api-3508a39be4f806` | Gitea: corricca/elibrary-publication-analyze | [open](records/repository-workplaces-gitea-corricca-elibrary-publication-analyze-a3fc096b.md) |
 | `gitea_repositories_api-352b2dd86e29d1` | Gitea: baocode0411/ascii-art | [open](records/repository-workplaces-gitea-baocode0411-ascii-art-6dc39c37.md) |
@@ -4985,6 +4997,7 @@
 | `gitea_repositories_api-3cd95565f5055d` | Gitea: dasdas/codebase-memory-mcp | [open](records/repository-workplaces-gitea-dasdas-codebase-memory-mcp-083ad75c.md) |
 | `gitea_repositories_api-3e330316d94bac` | Gitea: docker_test/db2 | [open](records/repository-workplaces-gitea-docker-test-db2-173a455c.md) |
 | `gitea_repositories_api-40ba737225f6eb` | Gitea: philosopher033427615/awesome-chatgpt-prompts | [open](records/repository-workplaces-gitea-philosopher033427615-awesome-chatgpt-prompts-99144706.md) |
+| `gitea_repositories_api-42349d5f6d4e11` | Gitea: burichevaaaaaa/ExamDataBase | [open](records/repository-workplaces-gitea-burichevaaaaaa-examdatabase-2b6e0971.md) |
 | `gitea_repositories_api-42bcf4d07cd1be` | Gitea: EasterTheBunny/ftp_server | [open](records/repository-workplaces-gitea-easterthebunny-ftp-server-4f03e8e6.md) |
 | `gitea_repositories_api-43223a8e45f02b` | Gitea: Praseodym/NaturalLanguageProcessing | [open](records/repository-workplaces-gitea-praseodym-naturallanguageprocessing-468cbaa6.md) |
 | `gitea_repositories_api-43a36b4f5602bd` | Gitea: vallu/ascii_eng | [open](records/repository-workplaces-gitea-vallu-ascii-eng-13c4106a.md) |
@@ -5013,8 +5026,12 @@
 | `gitea_repositories_api-5a6ab174086f25` | Gitea: ElliotRedmond/Achieve-Cisco-300-730-Certification-Success--Your-Strategic-Partner-with-CertsBoard | [open](records/repository-workplaces-gitea-elliotredmond-achieve-cisco-300-730-certification-success-your-strategic-partner-with-certsboard-45c77640.md) |
 | `gitea_repositories_api-5abad1c4e6779c` | Gitea: ML-Programs/ml-programming-language | [open](records/repository-workplaces-gitea-ml-programs-ml-programming-language-36acdbba.md) |
 | `gitea_repositories_api-5ea5bb268c0b21` | Gitea: plumbum/esim-server | [open](records/repository-workplaces-gitea-plumbum-esim-server-717006d2.md) |
+| `gitea_repositories_api-5f21c5b024fef1` | Gitea: Cloud_GitDevSecOps/Database | [open](records/repository-workplaces-gitea-cloud-gitdevsecops-database-98cecc5c.md) |
 | `gitea_repositories_api-611a28154fe17f` | Gitea: afzal/bangladesh-land-law-treatise | [open](records/repository-workplaces-gitea-afzal-bangladesh-land-law-treatise-8fcb7e22.md) |
 | `gitea_repositories_api-62ebd61584fbcd` | Gitea: lgh06/docker-library_docs | [open](records/repository-workplaces-gitea-lgh06-docker-library-docs-f3d39561.md) |
+| `gitea_repositories_api-632a5f65e202ff` | Gitea: songyeongbin/databaseclass | [open](records/repository-workplaces-gitea-songyeongbin-databaseclass-ecff2ec4.md) |
+| `gitea_repositories_api-634b019db42e2f` | Gitea: wends155/student_database | [open](records/repository-workplaces-gitea-wends155-student-database-2d9a97d6.md) |
+| `gitea_repositories_api-64d42b855b8e36` | Gitea: EchORM/ormdantic | [open](records/repository-workplaces-gitea-echorm-ormdantic-10c1ef15.md) |
 | `gitea_repositories_api-65bf42fdc67696` | Gitea: zhangyunfei/devops | [open](records/repository-workplaces-gitea-zhangyunfei-devops-d2c588aa.md) |
 | `gitea_repositories_api-6712e16f1f072f` | Gitea: pitchayapink/Signtrust-automate-browser-library | [open](records/repository-workplaces-gitea-pitchayapink-signtrust-automate-browser-library-16f46cdc.md) |
 | `gitea_repositories_api-67387b90664563` | Gitea: pmr-inanepain/dumper | [open](records/repository-workplaces-gitea-pmr-inanepain-dumper-dad7dfd7.md) |
@@ -5024,6 +5041,7 @@
 | `gitea_repositories_api-6b99f84d2bf2f2` | Gitea: selvakumar-netaji/Library-Management-KAHE | [open](records/repository-workplaces-gitea-selvakumar-netaji-library-management-kahe-5a8b602c.md) |
 | `gitea_repositories_api-6ccc27a5540ccb` | Gitea: RiceField-Plugins/LibraryDependencies | [open](records/repository-workplaces-gitea-ricefield-plugins-librarydependencies-4aaea462.md) |
 | `gitea_repositories_api-6ce58a05f5e528` | Gitea: KirilKirilov96/devops | [open](records/repository-workplaces-gitea-kirilkirilov96-devops-9f15a57e.md) |
+| `gitea_repositories_api-6cfa830bf6e4fe` | Gitea: DongHyeokChoi/DATABASE-PROJECT | [open](records/repository-workplaces-gitea-donghyeokchoi-database-project-e7fb6743.md) |
 | `gitea_repositories_api-6d3d70cdb15315` | Gitea: guywhodiesfirst/devops-lab-4 | [open](records/repository-workplaces-gitea-guywhodiesfirst-devops-lab-4-3086fefe.md) |
 | `gitea_repositories_api-6d725a656d9125` | Gitea: lgh06/APIJSON | [open](records/repository-workplaces-gitea-lgh06-apijson-d0a8c67b.md) |
 | `gitea_repositories_api-6d7cd5d8a807dd` | Gitea: ericLemanissier/conan-center-index | [open](records/repository-workplaces-gitea-ericlemanissier-conan-center-index-4400d1d7.md) |
@@ -5034,18 +5052,24 @@
 | `gitea_repositories_api-74920c0b34d10b` | Gitea: quxiaorui/action-send-mail | [open](records/repository-workplaces-gitea-quxiaorui-action-send-mail-a8703907.md) |
 | `gitea_repositories_api-757450376a9b00` | Gitea: huangxinyu/devops-demo | [open](records/repository-workplaces-gitea-huangxinyu-devops-demo-9b696c75.md) |
 | `gitea_repositories_api-76123716c8f1a1` | Gitea: vercel/next.js | [open](records/repository-workplaces-gitea-vercel-next-js-d9788e8f.md) |
+| `gitea_repositories_api-76ff4f91ef4c5f` | Gitea: lipu07/Database_Latency_Assignment | [open](records/repository-workplaces-gitea-lipu07-database-latency-assignment-b0900d8c.md) |
+| `gitea_repositories_api-78dd54f764cada` | Gitea: hibrik/behavioral_database | [open](records/repository-workplaces-gitea-hibrik-behavioral-database-cbbf5c42.md) |
 | `gitea_repositories_api-7a60711b8f8615` | Gitea: pmr-inanepain/cache | [open](records/repository-workplaces-gitea-pmr-inanepain-cache-148f78a6.md) |
+| `gitea_repositories_api-7b9589f5cd81a7` | Gitea: burichevaaaaaa/KP_DataBase_AdvertisingCompany | [open](records/repository-workplaces-gitea-burichevaaaaaa-kp-database-advertisingcompany-a4324f44.md) |
 | `gitea_repositories_api-7ce6355c72efb4` | Gitea: mustang2247/common-admin-server | [open](records/repository-workplaces-gitea-mustang2247-common-admin-server-7e0a4a21.md) |
 | `gitea_repositories_api-7e014f60286511` | Gitea: betartib/apiserver | [open](records/repository-workplaces-gitea-betartib-apiserver-7fe40dbb.md) |
 | `gitea_repositories_api-7e52272a23ccd0` | Gitea: GiteaAi/iiab | [open](records/repository-workplaces-gitea-giteaai-iiab-82c43685.md) |
 | `gitea_repositories_api-7fb31d0b751222` | Gitea: hasanalperen/devops | [open](records/repository-workplaces-gitea-hasanalperen-devops-99a75b26.md) |
+| `gitea_repositories_api-801290563cc304` | Gitea: id03s/database | [open](records/repository-workplaces-gitea-id03s-database-feb3f933.md) |
 | `gitea_repositories_api-815bff51f30977` | Gitea: ndroid/admin_panel-server-alpacino | [open](records/repository-workplaces-gitea-ndroid-admin-panel-server-alpacino-13a7886d.md) |
 | `gitea_repositories_api-8383d1e63d392c` | Gitea: zishuo/mpp | [open](records/repository-workplaces-gitea-zishuo-mpp-c4a1956d.md) |
+| `gitea_repositories_api-839241ab2882d5` | Gitea: shikanime/documentation | [open](records/repository-workplaces-gitea-shikanime-documentation-40af38e4.md) |
 | `gitea_repositories_api-87e5faa942b577` | Gitea: ArceusXArchivezx/GUI-LIBRARY | [open](records/repository-workplaces-gitea-arceusxarchivezx-gui-library-db1c459a.md) |
 | `gitea_repositories_api-88d781cdbf4ace` | Gitea: JaffarNasir/188BET--Discover-the-Exciting-World-of-Casino-188BET | [open](records/repository-workplaces-gitea-jaffarnasir-188bet-discover-the-exciting-world-of-casino-188bet-7fdea9a1.md) |
 | `gitea_repositories_api-8d3f71dfd7e7a8` | Gitea: palmcoasty/bunkerweb | [open](records/repository-workplaces-gitea-palmcoasty-bunkerweb-ad9b3891.md) |
 | `gitea_repositories_api-8f1235617751b5` | Gitea: linusified/isjsruntime | [open](records/repository-workplaces-gitea-linusified-isjsruntime-83a73a71.md) |
 | `gitea_repositories_api-8f9c00798ee87c` | Gitea: 6lin/sbcl | [open](records/repository-workplaces-gitea-6lin-sbcl-f57192a2.md) |
+| `gitea_repositories_api-914c5d2fc4879f` | Gitea: yeyuanjie/gorm-oracle | [open](records/repository-workplaces-gitea-yeyuanjie-gorm-oracle-4b6b7053.md) |
 | `gitea_repositories_api-9411c7df9b9904` | Gitea: alesha228/astrum-lucis-weather-app | [open](records/repository-workplaces-gitea-alesha228-astrum-lucis-weather-app-82652e3b.md) |
 | `gitea_repositories_api-95c1d56b8e756f` | Gitea: wa-lang/wa | [open](records/repository-workplaces-gitea-wa-lang-wa-c1d6dd94.md) |
 | `gitea_repositories_api-95f135e92c2c13` | Gitea: Wyq/DevOpsT | [open](records/repository-workplaces-gitea-wyq-devopst-c5e36431.md) |
@@ -5058,6 +5082,7 @@
 | `gitea_repositories_api-a09ce26d589e93` | Gitea: decheverri123/flutter_library | [open](records/repository-workplaces-gitea-decheverri123-flutter-library-197bd7c2.md) |
 | `gitea_repositories_api-a10171661b24d0` | Gitea: portellam1/auto-xorg | [open](records/repository-workplaces-gitea-portellam1-auto-xorg-fa98ab13.md) |
 | `gitea_repositories_api-a13ff44ad3c452` | Gitea: serpdotai/V3CTRON-vector-database-embedding-neural-search-retrieval-chatgpt-plugin | [open](records/repository-workplaces-gitea-serpdotai-v3ctron-vector-database-embedding-neural-search-retrieval-chatgpt-plugin-4865c7de.md) |
+| `gitea_repositories_api-a32bd443569edc` | Gitea: NSIS/Documentation | [open](records/repository-workplaces-gitea-nsis-documentation-3abb6d8c.md) |
 | `gitea_repositories_api-a5aa9b3652cc57` | Gitea: ZhuWangPeng/base_api_server | [open](records/repository-workplaces-gitea-zhuwangpeng-base-api-server-3ed56e09.md) |
 | `gitea_repositories_api-a69bbd45a051e1` | Gitea: nhanpt/config-server-test | [open](records/repository-workplaces-gitea-nhanpt-config-server-test-694815eb.md) |
 | `gitea_repositories_api-a7df55b5d167d8` | Gitea: panda99/devops | [open](records/repository-workplaces-gitea-panda99-devops-762f09f8.md) |
@@ -5066,6 +5091,8 @@
 | `gitea_repositories_api-aa8a617d3c23a5` | Gitea: Gangavarapu/BOA-VISA-ConfigServer | [open](records/repository-workplaces-gitea-gangavarapu-boa-visa-configserver-08d8af85.md) |
 | `gitea_repositories_api-ab79882ce5f23b` | Gitea: LorenzoSoncini/auth-server | [open](records/repository-workplaces-gitea-lorenzosoncini-auth-server-ec34a1c3.md) |
 | `gitea_repositories_api-ab9812b65881ec` | Gitea: FLARECC/librarys | [open](records/repository-workplaces-gitea-flarecc-librarys-c2df93ae.md) |
+| `gitea_repositories_api-ac152be54bd6c3` | Gitea: WeLovePaperAPI/documentation | [open](records/repository-workplaces-gitea-welovepaperapi-documentation-89d69f6a.md) |
+| `gitea_repositories_api-ad2cade7f3e54f` | Gitea: ozzora9/dataBaseProject | [open](records/repository-workplaces-gitea-ozzora9-databaseproject-6a849e42.md) |
 | `gitea_repositories_api-ad4c0f02e9dead` | Gitea: liangruisen/action-setup | [open](records/repository-workplaces-gitea-liangruisen-action-setup-434563ff.md) |
 | `gitea_repositories_api-ae92fccb3b2395` | Gitea: siva-praneeth/demo-service-devops | [open](records/repository-workplaces-gitea-siva-praneeth-demo-service-devops-c5281f19.md) |
 | `gitea_repositories_api-b06feab9cc42fb` | Gitea: cristiancuastumal/Agencia-de-viajes | [open](records/repository-workplaces-gitea-cristiancuastumal-agencia-de-viajes-5cfc5e24.md) |
@@ -5077,6 +5104,8 @@
 | `gitea_repositories_api-b61bdc2c3377d6` | Gitea: er_man/ithb_e_library | [open](records/repository-workplaces-gitea-er-man-ithb-e-library-67ebcdf7.md) |
 | `gitea_repositories_api-b6239eaab64bfc` | Gitea: portellam3/Obsidian-workflow-docs | [open](records/repository-workplaces-gitea-portellam3-obsidian-workflow-docs-c150f9ea.md) |
 | `gitea_repositories_api-b6c8b7a61409cd` | Gitea: B27_ADDIN/B27_CIV_BATCH | [open](records/repository-workplaces-gitea-b27-addin-b27-civ-batch-5c3013c6.md) |
+| `gitea_repositories_api-b79c051aba8aaa` | Gitea: RealNoFake/MalwareDatabase | [open](records/repository-workplaces-gitea-realnofake-malwaredatabase-d5a49ed9.md) |
+| `gitea_repositories_api-b7c54baf670782` | Gitea: komp/db | [open](records/repository-workplaces-gitea-komp-db-7ea1b8a0.md) |
 | `gitea_repositories_api-b956cf2ff088c1` | Gitea: AlehBerasneu/aston_devops_intensive_2025 | [open](records/repository-workplaces-gitea-alehberasneu-aston-devops-intensive-2025-cdb47f54.md) |
 | `gitea_repositories_api-b9ebb77543f285` | Gitea: BenjaminWeisz/Open-Source-Languages | [open](records/repository-workplaces-gitea-benjaminweisz-open-source-languages-383363ee.md) |
 | `gitea_repositories_api-bda80710b8d2c6` | Gitea: lifen/devops-jobs-v2 | [open](records/repository-workplaces-gitea-lifen-devops-jobs-v2-e7e48e9b.md) |
@@ -5085,6 +5114,7 @@
 | `gitea_repositories_api-bf4bb6b27c7e84` | Gitea: Falcon/Falcon.StoredProcedureRunner | [open](records/repository-workplaces-gitea-falcon-falcon-storedprocedurerunner-aa5c516a.md) |
 | `gitea_repositories_api-bf57441a08e9f0` | Gitea: DeFiLego/devops | [open](records/repository-workplaces-gitea-defilego-devops-855ec672.md) |
 | `gitea_repositories_api-c1d361e320a642` | Gitea: ks2515/codecrafters-http-server-go | [open](records/repository-workplaces-gitea-ks2515-codecrafters-http-server-go-a645fafb.md) |
+| `gitea_repositories_api-c399d3c1da216f` | Gitea: Hyperling/example-android-database-room | [open](records/repository-workplaces-gitea-hyperling-example-android-database-room-2d3454bf.md) |
 | `gitea_repositories_api-c6a9b132a8074b` | Gitea: kalkabena/ASCIIlery-game | [open](records/repository-workplaces-gitea-kalkabena-asciilery-game-26745840.md) |
 | `gitea_repositories_api-c6c2203bff6b0f` | Gitea: Befaci03/collab-vm-1.2-server-bettetweak | [open](records/repository-workplaces-gitea-befaci03-collab-vm-1-2-server-bettetweak-82605f6b.md) |
 | `gitea_repositories_api-c6fd0e412bbe7c` | Gitea: MokhovEvgeniiGennadevich/2023-same-in-languages | [open](records/repository-workplaces-gitea-mokhovevgeniigennadevich-2023-same-in-languages-0f876282.md) |
@@ -5098,6 +5128,7 @@
 | `gitea_repositories_api-cc97ff02a5cc51` | Gitea: lunny/size | [open](records/repository-workplaces-gitea-lunny-size-39ab5da8.md) |
 | `gitea_repositories_api-ccd79d0467b38d` | Gitea: serpdotai/Chat-LLaMA-8bit-LoRA | [open](records/repository-workplaces-gitea-serpdotai-chat-llama-8bit-lora-19437960.md) |
 | `gitea_repositories_api-ce6cae9f49c91a` | Gitea: tayande/ascii-art | [open](records/repository-workplaces-gitea-tayande-ascii-art-456fbf06.md) |
+| `gitea_repositories_api-cfc7f5d5a2fa39` | Gitea: Anaya56/ElectricPowerSteering_ECU_EPS_Documentation | [open](records/repository-workplaces-gitea-anaya56-electricpowersteering-ecu-eps-documentation-a1f789e2.md) |
 | `gitea_repositories_api-d08d823458b562` | Gitea: Pankajp1997/shared-library | [open](records/repository-workplaces-gitea-pankajp1997-shared-library-cdd24cb3.md) |
 | `gitea_repositories_api-d29341a04eb4d2` | Gitea: Poera/arm-none-eabi-gcc-action | [open](records/repository-workplaces-gitea-poera-arm-none-eabi-gcc-action-a30d50ca.md) |
 | `gitea_repositories_api-d2ead82c1fbc80` | Gitea: toafubi/python-getting-started | [open](records/repository-workplaces-gitea-toafubi-python-getting-started-57a2dbf6.md) |
@@ -5105,6 +5136,7 @@
 | `gitea_repositories_api-d338e3e15583a2` | Gitea: luza/ftp-server | [open](records/repository-workplaces-gitea-luza-ftp-server-ce6b9a1e.md) |
 | `gitea_repositories_api-d3bcac48b9fa9b` | Gitea: IDuckOdd/DevOps | [open](records/repository-workplaces-gitea-iduckodd-devops-024d36e6.md) |
 | `gitea_repositories_api-d3d2840b2be4f5` | Gitea: Undone7167/docker-server | [open](records/repository-workplaces-gitea-undone7167-docker-server-3f666e3a.md) |
+| `gitea_repositories_api-d46b06d81ea3b8` | Gitea: ziying/database | [open](records/repository-workplaces-gitea-ziying-database-e5dcf680.md) |
 | `gitea_repositories_api-d4cad56f233a1e` | Gitea: adityapoonia/chaddserver | [open](records/repository-workplaces-gitea-adityapoonia-chaddserver-08e4e01b.md) |
 | `gitea_repositories_api-d4f10e6e3f8861` | Gitea: LivelyXuan/AOCserver | [open](records/repository-workplaces-gitea-livelyxuan-aocserver-f99e0d43.md) |
 | `gitea_repositories_api-d759cb35498fb3` | Gitea: best-iptv-guide/Best-IPTV-2026--Trusted-Services-Features-Pricing | [open](records/repository-workplaces-gitea-best-iptv-guide-best-iptv-2026-trusted-services-features-pricing-8139c338.md) |
@@ -5112,6 +5144,7 @@
 | `gitea_repositories_api-df02345f9cadfb` | Gitea: goftp/server | [open](records/repository-workplaces-gitea-goftp-server-7512c7a5.md) |
 | `gitea_repositories_api-df4967268c4f9c` | Gitea: WorldofScreenEntertainment/HTML-HyperText-Markup-Language | [open](records/repository-workplaces-gitea-worldofscreenentertainment-html-hypertext-markup-language-817a19c5.md) |
 | `gitea_repositories_api-dfb2cc7d7c46fb` | Gitea: noWie2k/basicImageDeepfakeDetector | [open](records/repository-workplaces-gitea-nowie2k-basicimagedeepfakedetector-b8c1af97.md) |
+| `gitea_repositories_api-e0263043465bd7` | Gitea: halawnss/database | [open](records/repository-workplaces-gitea-halawnss-database-3e1004b8.md) |
 | `gitea_repositories_api-e0af31c7ce1b82` | Gitea: ziven/Fun-ASR | [open](records/repository-workplaces-gitea-ziven-fun-asr-2454a99a.md) |
 | `gitea_repositories_api-e354edd86ce562` | Gitea: catdog100/zlcompiler | [open](records/repository-workplaces-gitea-catdog100-zlcompiler-cde7bc6e.md) |
 | `gitea_repositories_api-e3d99e4a22dfc9` | Gitea: afzal/advocate-narsingdi | [open](records/repository-workplaces-gitea-afzal-advocate-narsingdi-1c730665.md) |
@@ -5123,6 +5156,7 @@
 | `gitea_repositories_api-ea1e01138f3722` | Gitea: trabalho/devops-app | [open](records/repository-workplaces-gitea-trabalho-devops-app-c6ffee99.md) |
 | `gitea_repositories_api-ebc5f566810589` | Gitea: Dartrolzul/b1-piscine-java | [open](records/repository-workplaces-gitea-dartrolzul-b1-piscine-java-1d0fa7a8.md) |
 | `gitea_repositories_api-ec4edd9f934476` | Gitea: NotHarshhaa/DevOps-Projects | [open](records/repository-workplaces-gitea-notharshhaa-devops-projects-5de77522.md) |
+| `gitea_repositories_api-ed4e8f14899a84` | Gitea: THE-RZ1/Ultimate-RAT-Collection | [open](records/repository-workplaces-gitea-the-rz1-ultimate-rat-collection-110c48bf.md) |
 | `gitea_repositories_api-ee374d3a9c0979` | Gitea: powerpjvip/download_server | [open](records/repository-workplaces-gitea-powerpjvip-download-server-6cbd8270.md) |
 | `gitea_repositories_api-f028ba13ef74b5` | Gitea: bancethreeleocico/bancethreeleocico | [open](records/repository-workplaces-gitea-bancethreeleocico-bancethreeleocico-7a3e0761.md) |
 | `gitea_repositories_api-f168d38e57cf3c` | Gitea: freezmeinster/apisix-docker | [open](records/repository-workplaces-gitea-freezmeinster-apisix-docker-bea35cd6.md) |
@@ -5135,6 +5169,7 @@
 | `gitea_repositories_api-f90274f507d638` | Gitea: kasymchik070/LibraryProject | [open](records/repository-workplaces-gitea-kasymchik070-libraryproject-1ce53dfd.md) |
 | `gitea_repositories_api-f91b34695076cf` | Gitea: TanThibault/DevOps | [open](records/repository-workplaces-gitea-tanthibault-devops-0375ab8c.md) |
 | `gitea_repositories_api-f9df116997e030` | Gitea: keraarr/Library | [open](records/repository-workplaces-gitea-keraarr-library-8108e77d.md) |
+| `gitea_repositories_api-fac0f9722deab8` | Gitea: msk21/database_project | [open](records/repository-workplaces-gitea-msk21-database-project-4698ed5c.md) |
 | `gitea_repositories_api-fb34d3140ffa88` | Gitea: DUR/bmx-ng-bin | [open](records/repository-workplaces-gitea-dur-bmx-ng-bin-5816e362.md) |
 | `gitea_repositories_api-fd05230da7b4c3` | Gitea: 3rd/gitea | [open](records/repository-workplaces-gitea-3rd-gitea-57181cad.md) |
 | `gitea_repositories_api-fdde8c0dae2ca8` | Gitea: JiXieShi/AutoOpenServer | [open](records/repository-workplaces-gitea-jixieshi-autoopenserver-b6d1b860.md) |

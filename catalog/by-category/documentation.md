@@ -1,6 +1,6 @@
 # Documentation
 
-Records: `80`
+Records: `88`
 
 ## Navigation
 
@@ -8,12 +8,12 @@ Records: `80`
 
 ## Category Index
 
-[Api Abi Checker (185)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (122)](async-runtime.md)
-[Benchmarking (110)](benchmarking.md) · [Build System (812)](build-system.md) · [Cli (501)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (185)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (123)](async-runtime.md)
+[Benchmarking (110)](benchmarking.md) · [Build System (813)](build-system.md) · [Cli (501)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (85)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
 [Concurrency Parallelism (72)](concurrency-parallelism.md) · [Configuration (100)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (155)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (690)](database-datastore.md) · [Datetime (158)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (85)](dependency-manager.md) · **[Documentation (80)](documentation.md)**
+[Cryptography (155)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (714)](database-datastore.md) · [Datetime (158)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (85)](dependency-manager.md) · **[Documentation (88)](documentation.md)**
 [Embedded Hardware (49)](embedded-hardware.md) · [Ffi Bindings (387)](ffi-bindings.md) · [Filesystem Os (1197)](filesystem-os.md) · [Formatter (545)](formatter.md)
 [Framework (47)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (157)](game-engine-game-dev.md) · [Ide Editor Integration (1133)](ide-editor-integration.md)
 [Image Audio Dsp (300)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (227)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
@@ -24,7 +24,7 @@ Records: `80`
 [Profiler (72)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (311)](security-sast.md) · [Serialization (368)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (437)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (495)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (290)](type-checker.md)
-[Undefined Behavior Analyzer (1379)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (414)](visualization-gui.md) · [Web Framework (391)](web-framework.md)
+[Undefined Behavior Analyzer (1380)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (414)](visualization-gui.md) · [Web Framework (391)](web-framework.md)
 
 ## Julia
 
@@ -243,9 +243,17 @@ Records: `80`
 | --- | --- | --- | --- |
 | Gerrit API | unknown | official_workplace_route_requires_source_specific_release_lookup | [open](../records/repository-workplaces-gerrit-api-eab54e1c.md) |
 | Gitea API | unknown | official_workplace_route_requires_source_specific_release_lookup | [open](../records/repository-workplaces-gitea-api-21f55527.md) |
+| Gitea: Anaya56/ElectricPowerSteering_ECU_EPS_Documentation | partial | 2025-05-10T20:04:19Z | [open](../records/repository-workplaces-gitea-anaya56-electricpowersteering-ecu-eps-documentation-a1f789e2.md) |
 | Gitea: evgeniy-antonyuk/DocSpace-server | partial | 2025-08-13T12:26:53Z | [open](../records/repository-workplaces-gitea-evgeniy-antonyuk-docspace-server-e16c0ba8.md) |
+| Gitea: gofulljs/gitbook | partial | 2024-05-13T10:05:55Z | [open](../records/repository-workplaces-gitea-gofulljs-gitbook-d20d2f95.md) |
+| Gitea: kriper2005/OP5Documentation | partial | 2023-12-21T04:28:19Z | [open](../records/repository-workplaces-gitea-kriper2005-op5documentation-ef340f06.md) |
 | Gitea: lgh06/docker-library_docs | partial | 2023-12-27T05:37:32Z | [open](../records/repository-workplaces-gitea-lgh06-docker-library-docs-f3d39561.md) |
+| Gitea: NSIS/Documentation | partial | 2020-11-25T08:43:59Z | [open](../records/repository-workplaces-gitea-nsis-documentation-3abb6d8c.md) |
 | Gitea: portellam3/Obsidian-workflow-docs | partial | 2025-04-08T17:54:07Z | [open](../records/repository-workplaces-gitea-portellam3-obsidian-workflow-docs-c150f9ea.md) |
+| Gitea: Sarah95/documentation | partial | 2021-04-01T12:20:15Z | [open](../records/repository-workplaces-gitea-sarah95-documentation-7f7ba1e8.md) |
+| Gitea: shikanime/documentation | partial | 2023-10-22T16:10:24Z | [open](../records/repository-workplaces-gitea-shikanime-documentation-40af38e4.md) |
+| Gitea: TOPK3K/Extension-api-documentation | partial | 2025-01-09T16:17:09Z | [open](../records/repository-workplaces-gitea-topk3k-extension-api-documentation-fe1e6c7e.md) |
+| Gitea: WeLovePaperAPI/documentation | partial | 2026-03-24T21:40:52Z | [open](../records/repository-workplaces-gitea-welovepaperapi-documentation-89d69f6a.md) |
 | GitHub Repository Search API | unknown | official_workplace_route_requires_source_specific_release_lookup | [open](../records/repository-workplaces-github-repository-search-api-a6eddd2a.md) |
 | GitLab Projects API | unknown | official_workplace_route_requires_source_specific_release_lookup | [open](../records/repository-workplaces-gitlab-projects-api-d576550a.md) |
 | gitlab-org/rust/knowledge-graph | partial | 2026-09-01T00:21:04.159Z | [open](../records/repository-workplaces-gitlab-org-rust-knowledge-graph-33cf57d8.md) |
