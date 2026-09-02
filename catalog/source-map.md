@@ -4,23 +4,23 @@
 
 ## Category Index
 
-[Api Abi Checker (176)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (41)](by-category/assertion-mocking.md) · [Async Runtime (121)](by-category/async-runtime.md)
-[Benchmarking (108)](by-category/benchmarking.md) · [Build System (790)](by-category/build-system.md) · [Cli (491)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
-[Community Reference (81)](by-category/community-reference.md) · [Compiler (157)](by-category/compiler.md) · [Compiler Diagnostics (22)](by-category/compiler-diagnostics.md) · [Compression (44)](by-category/compression.md)
-[Concurrency Parallelism (71)](by-category/concurrency-parallelism.md) · [Configuration (96)](by-category/configuration.md) · [Container Deployment (8)](by-category/container-deployment.md) · [Coverage (11)](by-category/coverage.md)
-[Cryptography (153)](by-category/cryptography.md) · [Data Science (32)](by-category/data-science.md) · [Database Datastore (682)](by-category/database-datastore.md) · [Datetime (156)](by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (40)](by-category/debugger.md) · [Dependency Manager (80)](by-category/dependency-manager.md) · [Documentation (77)](by-category/documentation.md)
-[Embedded Hardware (47)](by-category/embedded-hardware.md) · [Ffi Bindings (376)](by-category/ffi-bindings.md) · [Filesystem Os (1139)](by-category/filesystem-os.md) · [Formatter (535)](by-category/formatter.md)
-[Framework (46)](by-category/framework.md) · [Fuzzer (48)](by-category/fuzzer.md) · [Game Engine Game Dev (139)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1104)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (290)](by-category/image-audio-dsp.md) · [Interop Bindings (52)](by-category/interop-bindings.md) · [Interpreter Runtime (223)](by-category/interpreter-runtime.md) · [Jit Vm (56)](by-category/jit-vm.md)
-[Language Server (26)](by-category/language-server.md) · [Language Specification (1220)](by-category/language-specification.md) · [Library (4683)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (40)](by-category/lint-rule-pack.md) · [Linter (345)](by-category/linter.md) · [Logging Observability (381)](by-category/logging-observability.md) · [Machine Learning (557)](by-category/machine-learning.md)
-[Math Numeric Scientific (78)](by-category/math-numeric-scientific.md) · [Memory Analyzer (75)](by-category/memory-analyzer.md) · [Message Broker (31)](by-category/message-broker.md) · [Networking Http (897)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (254)](by-category/package-manager.md) · [Parser Lexer Ast (888)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (254)](by-category/precommit-ci-quality.md)
-[Profiler (67)](by-category/profiler.md) · [Project Scaffolding (117)](by-category/project-scaffolding.md) · [Registry Repository (107)](by-category/registry-repository.md) · [Sanitizer (12)](by-category/sanitizer.md)
-[Security Sast (308)](by-category/security-sast.md) · [Serialization (364)](by-category/serialization.md) · [Standard Library (23)](by-category/standard-library.md) · [Static Analyzer (422)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (488)](by-category/testing-framework.md) · [Tutorial Book Styleguide (52)](by-category/tutorial-book-styleguide.md) · [Type Checker (283)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1353)](by-category/undefined-behavior-analyzer.md) · [Utility Library (91)](by-category/utility-library.md) · [Visualization Gui (405)](by-category/visualization-gui.md) · [Web Framework (380)](by-category/web-framework.md)
+[Api Abi Checker (179)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (41)](by-category/assertion-mocking.md) · [Async Runtime (122)](by-category/async-runtime.md)
+[Benchmarking (109)](by-category/benchmarking.md) · [Build System (802)](by-category/build-system.md) · [Cli (491)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Community Reference (83)](by-category/community-reference.md) · [Compiler (159)](by-category/compiler.md) · [Compiler Diagnostics (22)](by-category/compiler-diagnostics.md) · [Compression (45)](by-category/compression.md)
+[Concurrency Parallelism (71)](by-category/concurrency-parallelism.md) · [Configuration (97)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (11)](by-category/coverage.md)
+[Cryptography (154)](by-category/cryptography.md) · [Data Science (32)](by-category/data-science.md) · [Database Datastore (687)](by-category/database-datastore.md) · [Datetime (157)](by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (40)](by-category/debugger.md) · [Dependency Manager (82)](by-category/dependency-manager.md) · [Documentation (79)](by-category/documentation.md)
+[Embedded Hardware (47)](by-category/embedded-hardware.md) · [Ffi Bindings (379)](by-category/ffi-bindings.md) · [Filesystem Os (1159)](by-category/filesystem-os.md) · [Formatter (541)](by-category/formatter.md)
+[Framework (46)](by-category/framework.md) · [Fuzzer (48)](by-category/fuzzer.md) · [Game Engine Game Dev (152)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1114)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (292)](by-category/image-audio-dsp.md) · [Interop Bindings (52)](by-category/interop-bindings.md) · [Interpreter Runtime (227)](by-category/interpreter-runtime.md) · [Jit Vm (56)](by-category/jit-vm.md)
+[Language Server (27)](by-category/language-server.md) · [Language Specification (1221)](by-category/language-specification.md) · [Library (4746)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (40)](by-category/lint-rule-pack.md) · [Linter (346)](by-category/linter.md) · [Logging Observability (385)](by-category/logging-observability.md) · [Machine Learning (568)](by-category/machine-learning.md)
+[Math Numeric Scientific (78)](by-category/math-numeric-scientific.md) · [Memory Analyzer (75)](by-category/memory-analyzer.md) · [Message Broker (31)](by-category/message-broker.md) · [Networking Http (904)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (260)](by-category/package-manager.md) · [Parser Lexer Ast (893)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (259)](by-category/precommit-ci-quality.md)
+[Profiler (68)](by-category/profiler.md) · [Project Scaffolding (118)](by-category/project-scaffolding.md) · [Registry Repository (107)](by-category/registry-repository.md) · [Sanitizer (12)](by-category/sanitizer.md)
+[Security Sast (311)](by-category/security-sast.md) · [Serialization (367)](by-category/serialization.md) · [Standard Library (23)](by-category/standard-library.md) · [Static Analyzer (424)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (492)](by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](by-category/tutorial-book-styleguide.md) · [Type Checker (286)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (1360)](by-category/undefined-behavior-analyzer.md) · [Utility Library (92)](by-category/utility-library.md) · [Visualization Gui (412)](by-category/visualization-gui.md) · [Web Framework (386)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -1782,6 +1782,7 @@
 | `cran_packages_by_date-a914e09745bfc1` | hexDensity | [open](records/r-hexdensity-4fa0b9a1.md) |
 | `cran_packages_by_date-a9215020004b99` | projectLSA | [open](records/r-projectlsa-83ba082e.md) |
 | `cran_packages_by_date-a92269fd12e551` | BIGpopA | [open](records/r-bigpopa-a13b955e.md) |
+| `cran_packages_by_date-a9a65dc0625a75` | Ruido | [open](records/r-ruido-8640bf30.md) |
 | `cran_packages_by_date-a9e38990eb1f25` | subincomeR | [open](records/r-subincomer-918df686.md) |
 | `cran_packages_by_date-a9f83598f13155` | dann | [open](records/r-dann-a22b2209.md) |
 | `cran_packages_by_date-aa136c0d3ff101` | autoslider.core | [open](records/r-autoslider-core-50e0c8df.md) |
@@ -2030,6 +2031,7 @@
 | `cran_packages_by_date-db10cd5853c0f3` | scimesh | [open](records/r-scimesh-91e77ee3.md) |
 | `cran_packages_by_date-db41f092d10613` | crossfit | [open](records/r-crossfit-b4f4ed36.md) |
 | `cran_packages_by_date-db9b2e589e45b3` | MFF | [open](records/r-mff-84f3fe81.md) |
+| `cran_packages_by_date-dbba65c3f4cdbc` | tabpfn | [open](records/r-tabpfn-607c04e5.md) |
 | `cran_packages_by_date-dbcf80c9c69204` | agecrypt | [open](records/r-agecrypt-ecdcf1cd.md) |
 | `cran_packages_by_date-dbf8a4ee3da5cd` | tidyterra | [open](records/r-tidyterra-a4faa86f.md) |
 | `cran_packages_by_date-dc551400cfbb11` | equatiomatic | [open](records/r-equatiomatic-d1f7cbbe.md) |
@@ -5391,112 +5393,267 @@
 | `github_search_assembly-fe089d52b19de7` | tenderlove/fisk | [open](records/assembly-tenderlove-fisk-358e54fe.md) |
 | `github_search_assembly-ffe2bcae765c64` | jishanshaikh4/8086-cheatsheet | [open](records/assembly-jishanshaikh4-8086-cheatsheet-66f8dab8.md) |
 | `github_search_assets-00013559d790c1` | nuxt-modules/google-fonts | [open](records/assets-nuxt-modules-google-fonts-ff39da19.md) |
+| `github_search_assets-0027e521e8271a` | Shelf-nu/shelf.nu | [open](records/assets-shelf-nu-shelf-nu-2414163a.md) |
+| `github_search_assets-01829854afaff7` | django-cms/django-sekizai | [open](records/assets-django-cms-django-sekizai-0360a0be.md) |
+| `github_search_assets-0303cddb97e8d2` | ashe23/ProjectCleaner | [open](records/assets-ashe23-projectcleaner-d29fe2cd.md) |
 | `github_search_assets-0426241fffeec2` | Figma-Linux/figma-linux-font-helper | [open](records/assets-figma-linux-figma-linux-font-helper-926a2b9d.md) |
+| `github_search_assets-05dbf71fccce21` | malyginvladimir/CQF | [open](records/assets-malyginvladimir-cqf-b2edbdcb.md) |
+| `github_search_assets-068aa6511b8dfc` | Scope-IT/marksman | [open](records/assets-scope-it-marksman-74cd9533.md) |
+| `github_search_assets-0697b677b79c14` | wangyoucao577/go-release-action | [open](records/assets-wangyoucao577-go-release-action-9d67f6de.md) |
+| `github_search_assets-06bd01e5223b1c` | brightdigit/Speculid | [open](records/assets-brightdigit-speculid-c90bd3d1.md) |
+| `github_search_assets-06e250376f08fb` | mirror4869/material-workbench | [open](records/assets-mirror4869-material-workbench-813a4383.md) |
 | `github_search_assets-080063002d5492` | expo/google-fonts | [open](records/assets-expo-google-fonts-27084e7a.md) |
 | `github_search_assets-0856c0cb0bd327` | robhagemans/hoard-of-bitfonts | [open](records/assets-robhagemans-hoard-of-bitfonts-783a8c69.md) |
+| `github_search_assets-09920836921f6a` | Brian-Jiang/SmartReference | [open](records/assets-brian-jiang-smartreference-a178adf2.md) |
 | `github_search_assets-0a8e6c1f1ca15f` | DrXie/OSFCC | [open](records/assets-drxie-osfcc-22529e95.md) |
 | `github_search_assets-0be9170c4b1294` | jz5/FORM-UDPGothic | [open](records/assets-jz5-form-udpgothic-dd95d908.md) |
+| `github_search_assets-0c4c00b3e974b0` | mopsicus/umi | [open](records/assets-mopsicus-umi-c2834937.md) |
+| `github_search_assets-0ff01d1b0992ce` | hqjs/hq | [open](records/assets-hqjs-hq-4376b515.md) |
 | `github_search_assets-106a269df0f38d` | weiweihuanghuang/Work-Sans | [open](records/assets-weiweihuanghuang-work-sans-9e5609e3.md) |
+| `github_search_assets-107bcbf7f11025` | LongOnly/Quantitative-Notebooks | [open](records/assets-longonly-quantitative-notebooks-855b8424.md) |
 | `github_search_assets-110473e3987cc5` | ilikerobots/polyicon | [open](records/assets-ilikerobots-polyicon-947a45ce.md) |
+| `github_search_assets-111761b6fd1f15` | Specifyapp/parsers | [open](records/assets-specifyapp-parsers-804be31e.md) |
+| `github_search_assets-117ba489fe7b1a` | felladrin/game-development-resources-list | [open](records/assets-felladrin-game-development-resources-list-6087f418.md) |
 | `github_search_assets-11ad24db05c927` | morgan3d/quadplay | [open](records/assets-morgan3d-quadplay-717f54c6.md) |
 | `github_search_assets-11c38eac93a5c6` | sepandhaghighi/art | [open](records/assets-sepandhaghighi-art-5075f3ee.md) |
 | `github_search_assets-123b1a14211dad` | ranesr/SwiftIcons | [open](records/assets-ranesr-swifticons-3b328e34.md) |
+| `github_search_assets-124eb8b7309d60` | open-uem/openuem-console | [open](records/assets-open-uem-openuem-console-a9008fdb.md) |
 | `github_search_assets-1281f5e2136b62` | SerCeMan/fontogen | [open](records/assets-serceman-fontogen-287e1552.md) |
+| `github_search_assets-1410ecdcd5ed56` | HotpotDesign/Game-Assets-And-Resources | [open](records/assets-hotpotdesign-game-assets-and-resources-94fd43a7.md) |
 | `github_search_assets-1470cb27d7871a` | qwerasd205/AnnotationMono | [open](records/assets-qwerasd205-annotationmono-39d157d9.md) |
 | `github_search_assets-1573cd563e7486` | fonttools/fonttools | [open](records/assets-fonttools-fonttools-a4b5432b.md) |
+| `github_search_assets-166e0fdcd7fbb8` | Shipu/themevel | [open](records/assets-shipu-themevel-792b0d04.md) |
+| `github_search_assets-17b02fef789ea9` | pgaultier/yii2-webpack | [open](records/assets-pgaultier-yii2-webpack-ca18eec8.md) |
+| `github_search_assets-184300ca7dffc2` | hec-ovi/text-to-3D-skill | [open](records/assets-hec-ovi-text-to-3d-skill-3ef6fa92.md) |
+| `github_search_assets-18f7f7751dd06e` | projectdiscovery/awesome-search-queries | [open](records/assets-projectdiscovery-awesome-search-queries-b4756398.md) |
+| `github_search_assets-1b1d458cb9a7d1` | pcjbird/AssetsExtractor | [open](records/assets-pcjbird-assetsextractor-31eb98f9.md) |
+| `github_search_assets-1b37cc4e4c82d8` | VanekPetr/investment-funnel | [open](records/assets-vanekpetr-investment-funnel-c0d50ba2.md) |
 | `github_search_assets-1b58358d681b48` | harfbuzz/harfbuzz | [open](records/assets-harfbuzz-harfbuzz-d76a4fa5.md) |
+| `github_search_assets-1de9ce31586ca7` | grokability/jamf2snipe | [open](records/assets-grokability-jamf2snipe-ecf4667c.md) |
+| `github_search_assets-1eef3639385e30` | RxLaboratory/Ramses | [open](records/assets-rxlaboratory-ramses-1288791f.md) |
 | `github_search_assets-1f217360d8e493` | Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project | [open](records/assets-fitzgerald-porthmouth-koenigsegg-plangothic-project-5165c4c3.md) |
 | `github_search_assets-20865f64acccce` | Chenyu-otf/chenyuluoyan_thin | [open](records/assets-chenyu-otf-chenyuluoyan-thin-17cf141a.md) |
+| `github_search_assets-213db633f59449` | DragonCherry/AssetsPickerViewController | [open](records/assets-dragoncherry-assetspickerviewcontroller-291d781d.md) |
 | `github_search_assets-22a0b3e64e5b94` | ZWolken/PingFang | [open](records/assets-zwolken-pingfang-20165d6d.md) |
 | `github_search_assets-243f98c1c97299` | brabadu/awesome-fonts | [open](records/assets-brabadu-awesome-fonts-b7ce3727.md) |
 | `github_search_assets-259f06079eaca0` | owl4ce/dotfiles | [open](records/assets-owl4ce-dotfiles-7b7a4401.md) |
+| `github_search_assets-26ec2c9ade0987` | brunomikoski/ScriptableObjectCollection | [open](records/assets-brunomikoski-scriptableobjectcollection-2d789cfa.md) |
 | `github_search_assets-2708466b49e686` | spoqa/spoqa-han-sans | [open](records/assets-spoqa-spoqa-han-sans-01644b72.md) |
 | `github_search_assets-28a0614bfaf168` | JeffersonQin/YuzuMarker.FontDetection | [open](records/assets-jeffersonqin-yuzumarker-fontdetection-c21fcdcb.md) |
+| `github_search_assets-28c2054d9ee145` | AhmadHassan-BTed/EQAI | [open](records/assets-ahmadhassan-bted-eqai-ab6e6928.md) |
+| `github_search_assets-2986da8897f0eb` | itflow-org/itflow | [open](records/assets-itflow-org-itflow-94ed9c35.md) |
+| `github_search_assets-29cb7967b44e45` | OCSInventory-NG/OCSInventory-Server | [open](records/assets-ocsinventory-ng-ocsinventory-server-75ffaffe.md) |
 | `github_search_assets-29da7ad3afa92b` | takushun-wu/WenJinMincho | [open](records/assets-takushun-wu-wenjinmincho-84d3befd.md) |
 | `github_search_assets-29deacedf6252f` | adobe-fonts/source-serif | [open](records/assets-adobe-fonts-source-serif-d174881a.md) |
+| `github_search_assets-2c23b9da58e76a` | hustvl/GaussianDreamerPro | [open](records/assets-hustvl-gaussiandreamerpro-3b33b5ad.md) |
 | `github_search_assets-2c5fbd75ec4baf` | mngshm/rxfetch | [open](records/assets-mngshm-rxfetch-4c26ed0b.md) |
+| `github_search_assets-2cb76818c8aad5` | Nieobie/game-icon-pack | [open](records/assets-nieobie-game-icon-pack-89be2753.md) |
+| `github_search_assets-2db18d56dc1970` | gdquest-demos/godot-shaders | [open](records/assets-gdquest-demos-godot-shaders-b9248320.md) |
+| `github_search_assets-2e0bc1afa465bd` | agargaro/three.ez | [open](records/assets-agargaro-three-ez-87325b86.md) |
+| `github_search_assets-2e90d56c1214d8` | frappe/erpnext | [open](records/assets-frappe-erpnext-d9e1ae16.md) |
 | `github_search_assets-2ef89bbf55268e` | adobe-fonts/source-code-pro | [open](records/assets-adobe-fonts-source-code-pro-f411f452.md) |
 | `github_search_assets-2efa73fa40f893` | omeryusufyagci/fast-music-remover | [open](records/assets-omeryusufyagci-fast-music-remover-e8de33c8.md) |
+| `github_search_assets-323b5e8d23cd93` | vulture-s/arkiv | [open](records/assets-vulture-s-arkiv-be252330.md) |
+| `github_search_assets-329db7da5f3067` | AhmadIbrahiim/Website-downloader | [open](records/assets-ahmadibrahiim-website-downloader-2c002ee5.md) |
 | `github_search_assets-3361e7e2106afa` | unjs/fontaine | [open](records/assets-unjs-fontaine-adf8d9fd.md) |
+| `github_search_assets-349571de938642` | skeeks-semenov/yii2-assets-auto-compress | [open](records/assets-skeeks-semenov-yii2-assets-auto-compress-394e4c0e.md) |
+| `github_search_assets-3495b5f87bc2a2` | choojs/bankai | [open](records/assets-choojs-bankai-afda3485.md) |
+| `github_search_assets-34a983340b712b` | assimp/assimp | [open](records/assets-assimp-assimp-e26f9fa8.md) |
 | `github_search_assets-34bcf40bae465d` | Gaafar/dev-fonts | [open](records/assets-gaafar-dev-fonts-6d11b6eb.md) |
 | `github_search_assets-3510f5fc77649c` | vorillaz/devicons | [open](records/assets-vorillaz-devicons-ab704e06.md) |
+| `github_search_assets-35edb2d92a276d` | TocConsulting/awsmap | [open](records/assets-tocconsulting-awsmap-83a45572.md) |
+| `github_search_assets-36869b8d95522e` | ZM-Kimu/Blue-Archive-Asset-Downloader | [open](records/assets-zm-kimu-blue-archive-asset-downloader-54e09fdc.md) |
+| `github_search_assets-3718e453fbcead` | pelengami/unity-moveable-linerenderer | [open](records/assets-pelengami-unity-moveable-linerenderer-39efc1de.md) |
+| `github_search_assets-371ba914d77be5` | vleue/bevy_embedded_assets | [open](records/assets-vleue-bevy-embedded-assets-6e05ddb9.md) |
+| `github_search_assets-3bfb784a381cba` | locus84/Locus-Bundle-System | [open](records/assets-locus84-locus-bundle-system-464ddf27.md) |
+| `github_search_assets-3c56de0f8dcee4` | nebulabroadcast/nebula | [open](records/assets-nebulabroadcast-nebula-a341ae60.md) |
 | `github_search_assets-3cecb76e89b82a` | yashlamba/handwrite | [open](records/assets-yashlamba-handwrite-5509e3e4.md) |
+| `github_search_assets-3dd6649f2896ec` | ShaigroRB/freetchio | [open](records/assets-shaigrorb-freetchio-fa6ad739.md) |
 | `github_search_assets-3fdb036b349fb9` | FlutterGen/flutter_gen | [open](records/assets-fluttergen-flutter-gen-9d76f93b.md) |
+| `github_search_assets-40efcaabb0ccb1` | OpenCSGs/csghub | [open](records/assets-opencsgs-csghub-88ed3839.md) |
 | `github_search_assets-41fb331a60de0f` | indestructible-type/Jost | [open](records/assets-indestructible-type-jost-bad148c7.md) |
+| `github_search_assets-42c3661e64bc81` | pelengami/unity-abstract-wire | [open](records/assets-pelengami-unity-abstract-wire-bc098746.md) |
+| `github_search_assets-42e9d63291f2e1` | bestpractical/rt | [open](records/assets-bestpractical-rt-8129d040.md) |
+| `github_search_assets-43ed24ec506ce3` | flutter-dev/asset_generator | [open](records/assets-flutter-dev-asset-generator-4817bab4.md) |
 | `github_search_assets-446c0c70c2193f` | beizhedenglong/weird-fonts | [open](records/assets-beizhedenglong-weird-fonts-065d7383.md) |
 | `github_search_assets-44acc14e2e82b1` | segecey/SwiftIconFont | [open](records/assets-segecey-swifticonfont-20851835.md) |
+| `github_search_assets-44b7a59cf75a9d` | KnifeXRage/Godot-Secure | [open](records/assets-knifexrage-godot-secure-27dbfc11.md) |
+| `github_search_assets-44e2c0d9d29308` | archaicvirus/TreeGenerator | [open](records/assets-archaicvirus-treegenerator-3aab4963.md) |
+| `github_search_assets-46bab13114dbf1` | stevinz/awesome-game-engine-dev | [open](records/assets-stevinz-awesome-game-engine-dev-15eb20b6.md) |
+| `github_search_assets-4797ca2fa7901f` | stackql/stackql | [open](records/assets-stackql-stackql-a79374b7.md) |
 | `github_search_assets-483a23d78bc9db` | hypernewbie/VEFontCache | [open](records/assets-hypernewbie-vefontcache-ea3c2eca.md) |
+| `github_search_assets-4860e20af1c854` | Void8Bit/Pixel-Perfect-AI-Art-Converter | [open](records/assets-void8bit-pixel-perfect-ai-art-converter-89eefbe1.md) |
 | `github_search_assets-492a6da03ae300` | epilys/gerb | [open](records/assets-epilys-gerb-11b0ad1a.md) |
 | `github_search_assets-4c3d296e90609b` | kreativekorp/bitsnpicas | [open](records/assets-kreativekorp-bitsnpicas-684fd881.md) |
 | `github_search_assets-4c8da79e33dbce` | Jolg42/awesome-typography | [open](records/assets-jolg42-awesome-typography-4ebaa57a.md) |
+| `github_search_assets-4cb34d63fd660c` | kristiker/source1import | [open](records/assets-kristiker-source1import-382cf47f.md) |
 | `github_search_assets-4d5e24b49c8b61` | quiple/galmuri | [open](records/assets-quiple-galmuri-cb71a160.md) |
+| `github_search_assets-4dbf7e9df1ccf9` | django-webpack/django-webpack-loader | [open](records/assets-django-webpack-django-webpack-loader-61d7c881.md) |
+| `github_search_assets-4de24f5f87792d` | 4d49/scene-library | [open](records/assets-4d49-scene-library-1a7b8783.md) |
 | `github_search_assets-4f81ca00549fb0` | microsoft/maker.js | [open](records/assets-microsoft-maker-js-f91ce860.md) |
+| `github_search_assets-506725e9b22164` | donnikitos/vite-plugin-php | [open](records/assets-donnikitos-vite-plugin-php-5390082f.md) |
+| `github_search_assets-532851bf61b695` | fourgames/resources | [open](records/assets-fourgames-resources-96067fd2.md) |
 | `github_search_assets-54cb6459e3eb9d` | wanteddev/wanted-sans | [open](records/assets-wanteddev-wanted-sans-d20700fb.md) |
 | `github_search_assets-5584ceb298a57b` | raymond-w-ko/creep2 | [open](records/assets-raymond-w-ko-creep2-d82480c7.md) |
+| `github_search_assets-5649621b0c5261` | trickest/insiders | [open](records/assets-trickest-insiders-50e57fb3.md) |
+| `github_search_assets-56fb31ec9a9625` | nbyiansec/sskit | [open](records/assets-nbyiansec-sskit-5a2ec66f.md) |
+| `github_search_assets-5812267cdaf6f0` | jackTabsCode/asphalt | [open](records/assets-jacktabscode-asphalt-d4ce529a.md) |
+| `github_search_assets-5874fb5689d932` | KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0 | [open](records/assets-kaykit-game-assets-kaykit-city-builder-bits-1-0-6c52227b.md) |
+| `github_search_assets-598364f615ceb2` | masqu3rad3/tik_manager4 | [open](records/assets-masqu3rad3-tik-manager4-08a085d6.md) |
+| `github_search_assets-59e4cb7365adda` | MarSeventh/CloudFlare-ImgBed | [open](records/assets-marseventh-cloudflare-imgbed-2006c876.md) |
 | `github_search_assets-5a81a2c6ab5c83` | ubuwaits/beautiful-web-type | [open](records/assets-ubuwaits-beautiful-web-type-2b29254d.md) |
+| `github_search_assets-5af357ceda580b` | edmozley/freeitsm | [open](records/assets-edmozley-freeitsm-6938af39.md) |
+| `github_search_assets-5ba3fee32e3a48` | letianzj/QuantResearch | [open](records/assets-letianzj-quantresearch-61864c0e.md) |
+| `github_search_assets-5c2ff848216f08` | EYamanS/texel-studio | [open](records/assets-eyamans-texel-studio-907f9579.md) |
+| `github_search_assets-5df8903e94a9c8` | zetavg/Inventory | [open](records/assets-zetavg-inventory-57fc850b.md) |
+| `github_search_assets-5e7a0852882721` | netalertx/NetAlertX | [open](records/assets-netalertx-netalertx-6a9014bd.md) |
+| `github_search_assets-602c89dbc74dc1` | fortitudo-tech/fortitudo.tech | [open](records/assets-fortitudo-tech-fortitudo-tech-d827e5a7.md) |
+| `github_search_assets-603f7acbba0de2` | darwinex/dwxconnect | [open](records/assets-darwinex-dwxconnect-17a92fc5.md) |
+| `github_search_assets-60b26af90e3c40` | vypdev/stringcare-android | [open](records/assets-vypdev-stringcare-android-addbb923.md) |
+| `github_search_assets-60b5de55055460` | sinclairzx81/typescript-bundle | [open](records/assets-sinclairzx81-typescript-bundle-f3078d7e.md) |
+| `github_search_assets-636d3f16f6b186` | assetic-php/assetic | [open](records/assets-assetic-php-assetic-8cd8ecc8.md) |
 | `github_search_assets-63b3c32e7194b2` | internet-development/www-server-mono | [open](records/assets-internet-development-www-server-mono-b5773f46.md) |
+| `github_search_assets-6643c99af69369` | edcasillas/unity-missing-references-finder | [open](records/assets-edcasillas-unity-missing-references-finder-df72b315.md) |
 | `github_search_assets-677a91b42e6d53` | opensourcedesign/fonts | [open](records/assets-opensourcedesign-fonts-b0aeea5a.md) |
+| `github_search_assets-67c6eea9620d20` | lexlex47/game-art-prompt-kit | [open](records/assets-lexlex47-game-art-prompt-kit-5f7247b1.md) |
+| `github_search_assets-696f85e0932ea7` | ogxd/project-curator | [open](records/assets-ogxd-project-curator-975298c7.md) |
+| `github_search_assets-6a53cc2e2b96b5` | SawyerRensel/Transmogrifier | [open](records/assets-sawyerrensel-transmogrifier-c1c40840.md) |
 | `github_search_assets-6d61f0801b5ece` | braver/programmingfonts | [open](records/assets-braver-programmingfonts-fb0cf6c0.md) |
+| `github_search_assets-6ee4e96fce78c6` | adobe/asset-share-commons | [open](records/assets-adobe-asset-share-commons-3e73fd7b.md) |
 | `github_search_assets-7029232b69a915` | fontra/fontra | [open](records/assets-fontra-fontra-5752503b.md) |
+| `github_search_assets-730e9dbabb8cb7` | fortitudo-tech/pcrm-book | [open](records/assets-fortitudo-tech-pcrm-book-466a5af2.md) |
+| `github_search_assets-76933b18c2b718` | xausky/UnityModManager | [open](records/assets-xausky-unitymodmanager-25e4a9f1.md) |
+| `github_search_assets-7851776c29fd2e` | ToxSam/open-source-3D-assets | [open](records/assets-toxsam-open-source-3d-assets-95695625.md) |
+| `github_search_assets-7897d7ab357e74` | innogames/asset-relations-viewer | [open](records/assets-innogames-asset-relations-viewer-a43484fb.md) |
 | `github_search_assets-7d00edcc35b8b8` | trufont/trufont | [open](records/assets-trufont-trufont-b3154008.md) |
+| `github_search_assets-7d0c181e4ab4cd` | imadr/Unity-game-hacking | [open](records/assets-imadr-unity-game-hacking-14ce1631.md) |
 | `github_search_assets-7d88b3a6e3fb59` | sdushantha/fontpreview | [open](records/assets-sdushantha-fontpreview-6415a3c7.md) |
+| `github_search_assets-7e6e9adf085602` | tschm/pyhrp | [open](records/assets-tschm-pyhrp-3c7c1465.md) |
 | `github_search_assets-7f3377f42bc790` | alexmyczko/fnt | [open](records/assets-alexmyczko-fnt-c8afcb60.md) |
 | `github_search_assets-7fafe5ad97210e` | orioncactus/pretendard | [open](records/assets-orioncactus-pretendard-01cef4f9.md) |
+| `github_search_assets-7fde97bcd662bd` | IBAX-io/go-ibax | [open](records/assets-ibax-io-go-ibax-680bc3d4.md) |
+| `github_search_assets-8191508d26831c` | rmrevin/yii2-fontawesome | [open](records/assets-rmrevin-yii2-fontawesome-37981861.md) |
+| `github_search_assets-82af7cac9f77cb` | Zerek-Cheng/Simple-Assets-Platform | [open](records/assets-zerek-cheng-simple-assets-platform-168b7de4.md) |
+| `github_search_assets-8357b0f33eb431` | PixelRubro/ParallaxerSystemForUnity | [open](records/assets-pixelrubro-parallaxersystemforunity-8df9f352.md) |
+| `github_search_assets-88b8582bd64c5f` | myssal/Reverse-1999-CN-Asset | [open](records/assets-myssal-reverse-1999-cn-asset-e867fc60.md) |
 | `github_search_assets-88fd1a89348f12` | fontsource/fontsource | [open](records/assets-fontsource-fontsource-6b3b00ba.md) |
 | `github_search_assets-8921fd560ca7f3` | snapotter-hq/SnapOtter | [open](records/assets-snapotter-hq-snapotter-f5614eb5.md) |
+| `github_search_assets-892df2e05d2964` | WilberGroup/airdrop | [open](records/assets-wilbergroup-airdrop-bb2aa3fa.md) |
+| `github_search_assets-89f080014e6951` | kiraio-moe/Schale-Archive | [open](records/assets-kiraio-moe-schale-archive-e83bbecb.md) |
 | `github_search_assets-8bc89d53198729` | IdreesInc/Miracode | [open](records/assets-idreesinc-miracode-ce50fdc0.md) |
 | `github_search_assets-8c9cd9fd64e71d` | coollabsio/fonts | [open](records/assets-coollabsio-fonts-296495e3.md) |
 | `github_search_assets-8d5dc35d39079c` | peterhinch/micropython-font-to-py | [open](records/assets-peterhinch-micropython-font-to-py-1c6ba201.md) |
+| `github_search_assets-8ea4b3b9863564` | shirotech/webpack-cdn-plugin | [open](records/assets-shirotech-webpack-cdn-plugin-33dc4a24.md) |
+| `github_search_assets-8fbffb93e2f383` | NiklasEi/bevy_common_assets | [open](records/assets-niklasei-bevy-common-assets-87d9fbf2.md) |
 | `github_search_assets-8fda82af7f0974` | fabrizioschiavi/pragmatapro | [open](records/assets-fabrizioschiavi-pragmatapro-3c04a566.md) |
 | `github_search_assets-90a00a539ed8e9` | Partyb0ssishere/cef-fonts-cjk | [open](records/assets-partyb0ssishere-cef-fonts-cjk-1bdae5fe.md) |
+| `github_search_assets-918c2a04429a6a` | aitrados/aitrados-api | [open](records/assets-aitrados-aitrados-api-5d44cc6c.md) |
+| `github_search_assets-921a57aa70ae71` | rakugoteam/Rakugo-archive | [open](records/assets-rakugoteam-rakugo-archive-00d9824b.md) |
 | `github_search_assets-923925cfe46330` | justvanrossum/fontgoggles | [open](records/assets-justvanrossum-fontgoggles-12b888dd.md) |
+| `github_search_assets-92b245cb2191f6` | raphaelhanneken/iconizer | [open](records/assets-raphaelhanneken-iconizer-867b9d26.md) |
+| `github_search_assets-92d92d8a2f45da` | Qftm/Information_Collection_Handbook | [open](records/assets-qftm-information-collection-handbook-97112bf4.md) |
+| `github_search_assets-937abd89e3f68b` | KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0 | [open](records/assets-kaykit-game-assets-kaykit-character-pack-adventures-1-0-ce073061.md) |
+| `github_search_assets-93ebf1f1ef4494` | openremote/openremote | [open](records/assets-openremote-openremote-92db2618.md) |
+| `github_search_assets-962a95b50ac1aa` | varchashva/LetsMapYourNetwork | [open](records/assets-varchashva-letsmapyournetwork-17553d39.md) |
 | `github_search_assets-975fb6de6d2ed1` | steinbergmedia/bravura | [open](records/assets-steinbergmedia-bravura-55db3418.md) |
 | `github_search_assets-9897190068a896` | FontManager/font-manager | [open](records/assets-fontmanager-font-manager-b4a35494.md) |
+| `github_search_assets-98a580770a1d0f` | symfony/assetic-bundle | [open](records/assets-symfony-assetic-bundle-4dada5ec.md) |
+| `github_search_assets-98cc958bcd4f00` | RumenDamyanov/php-assets | [open](records/assets-rumendamyanov-php-assets-2b4a9229.md) |
 | `github_search_assets-999ffe84f29eac` | javierbyte/brutalita | [open](records/assets-javierbyte-brutalita-1566daf1.md) |
+| `github_search_assets-9b2a9883a543ee` | fxpio/composer-asset-plugin | [open](records/assets-fxpio-composer-asset-plugin-635834f8.md) |
+| `github_search_assets-9b95272e150913` | StefanoCecere/awesome-opensource-unity | [open](records/assets-stefanocecere-awesome-opensource-unity-3e1c06c4.md) |
 | `github_search_assets-9d89e4fc212aab` | jakemarsh/CostumeKit | [open](records/assets-jakemarsh-costumekit-c6e45613.md) |
 | `github_search_assets-9d9aaf67fc74eb` | chrissimpkins/codeface | [open](records/assets-chrissimpkins-codeface-3d2581d5.md) |
+| `github_search_assets-9e0266c8785568` | wellingfeng/UltraGameStudio | [open](records/assets-wellingfeng-ultragamestudio-910851af.md) |
+| `github_search_assets-9e23f5a98f4816` | mopsicus/uis | [open](records/assets-mopsicus-uis-65c71459.md) |
+| `github_search_assets-9fb4866cf517b9` | czyzby/gdx-skins | [open](records/assets-czyzby-gdx-skins-ff760b10.md) |
+| `github_search_assets-a106e350dc215e` | rykener/django-manifest-loader | [open](records/assets-rykener-django-manifest-loader-feff5b7a.md) |
+| `github_search_assets-a136232fdf81a5` | projectdiscovery/cloudlist | [open](records/assets-projectdiscovery-cloudlist-3b29358e.md) |
+| `github_search_assets-a17228fed01cf7` | adrische/quant-jobs-zurich | [open](records/assets-adrische-quant-jobs-zurich-97eab795.md) |
 | `github_search_assets-a24b7e77a92f94` | NextLevel/NextLevelSessionExporter | [open](records/assets-nextlevel-nextlevelsessionexporter-78e508f7.md) |
+| `github_search_assets-a2b2f36b15fb82` | marcelontime/spriteforge | [open](records/assets-marcelontime-spriteforge-6e3c3356.md) |
 | `github_search_assets-a3e64a44251278` | marcologous/Open-Sauce-Fonts | [open](records/assets-marcologous-open-sauce-fonts-5e251995.md) |
 | `github_search_assets-a66612c0450d01` | aMarCruz/react-native-text-size | [open](records/assets-amarcruz-react-native-text-size-989d2e6b.md) |
 | `github_search_assets-a6931a405b25ba` | TakWolf/fusion-pixel-font | [open](records/assets-takwolf-fusion-pixel-font-02635494.md) |
+| `github_search_assets-a70c1c58d6886a` | Anmol-Baranwal/Awesome-Illustrations-4Projects | [open](records/assets-anmol-baranwal-awesome-illustrations-4projects-38c87dd7.md) |
+| `github_search_assets-a8bdb78da1bcda` | DataGerry/DataGerry | [open](records/assets-datagerry-datagerry-dd6aa820.md) |
 | `github_search_assets-a9e537c9550c76` | TakWolf/ark-pixel-font | [open](records/assets-takwolf-ark-pixel-font-22f9b9cc.md) |
 | `github_search_assets-aa39b5f6661a61` | bluemix/Tourism-Demo | [open](records/assets-bluemix-tourism-demo-44ec27b4.md) |
 | `github_search_assets-ac2783d2bee4ba` | sahibjotsaggu/San-Francisco-Pro-Fonts | [open](records/assets-sahibjotsaggu-san-francisco-pro-fonts-f6ecd2be.md) |
+| `github_search_assets-ad0b91eeab7825` | XJINE/Unity_TransparentWindowManager | [open](records/assets-xjine-unity-transparentwindowmanager-b13011e6.md) |
 | `github_search_assets-ad0d4e21b1a11f` | rektdeckard/departure-mono | [open](records/assets-rektdeckard-departure-mono-2cee23db.md) |
+| `github_search_assets-b0a92a9d18a45f` | ArturSepp/QuantInvestStrats | [open](records/assets-artursepp-quantinveststrats-a7a51697.md) |
+| `github_search_assets-b10075036f38aa` | FlexyTools/Flexy.AssetRefs | [open](records/assets-flexytools-flexy-assetrefs-ec4cd6a1.md) |
+| `github_search_assets-b25485bb4f070f` | didiatworkz/screenly-ose-monitoring | [open](records/assets-didiatworkz-screenly-ose-monitoring-f088cdd0.md) |
+| `github_search_assets-b25bdefc09f554` | EliteQuant/EliteQuant | [open](records/assets-elitequant-elitequant-ccb04f35.md) |
 | `github_search_assets-b27e818deecef8` | openinary/openinary | [open](records/assets-openinary-openinary-b4fee09b.md) |
 | `github_search_assets-b482000445f542` | d3ward/toolz | [open](records/assets-d3ward-toolz-1f9ecb7c.md) |
+| `github_search_assets-b730051d10ee66` | sourcentis/mercator | [open](records/assets-sourcentis-mercator-b6bbd504.md) |
+| `github_search_assets-b74959b4011d11` | skfolio/skfolio | [open](records/assets-skfolio-skfolio-6087932e.md) |
+| `github_search_assets-b76c373df76482` | sparklinlabs/superpowers-asset-packs | [open](records/assets-sparklinlabs-superpowers-asset-packs-d172a84e.md) |
 | `github_search_assets-b79cfc49a89846` | spotify/klio | [open](records/assets-spotify-klio-c9106254.md) |
+| `github_search_assets-b9c0e3d0b65d39` | NiklasEi/bevy_asset_loader | [open](records/assets-niklasei-bevy-asset-loader-a1543a25.md) |
+| `github_search_assets-b9cc9bac986428` | teamgravitydev/gamedev-free-resources | [open](records/assets-teamgravitydev-gamedev-free-resources-737103b1.md) |
 | `github_search_assets-bb68e1029e42ee` | cormullion/juliamono | [open](records/assets-cormullion-juliamono-bec7c369.md) |
+| `github_search_assets-bb75aa1f646cc6` | Stolz/Assets | [open](records/assets-stolz-assets-4cbc05d6.md) |
 | `github_search_assets-bcf28ab660bb8c` | jonathonf/solbera-dnd-fonts | [open](records/assets-jonathonf-solbera-dnd-fonts-bd36b525.md) |
 | `github_search_assets-bd3916dae6ad95` | jaywcjlove/free-font | [open](records/assets-jaywcjlove-free-font-c0fd2de7.md) |
 | `github_search_assets-be955a61f6db82` | nicoverbruggen/ebook-fonts | [open](records/assets-nicoverbruggen-ebook-fonts-abce4d5b.md) |
 | `github_search_assets-bf70eec5ef5892` | googlefonts/gftools | [open](records/assets-googlefonts-gftools-a07fff0e.md) |
 | `github_search_assets-bfc5704fbcc538` | tejaswigowda/ffmpeg-webCLI | [open](records/assets-tejaswigowda-ffmpeg-webcli-e2d7593b.md) |
+| `github_search_assets-c084e9ed3093c0` | martinhodler/unity-aseprite-importer | [open](records/assets-martinhodler-unity-aseprite-importer-30b49df4.md) |
 | `github_search_assets-c0c6112f96c3b9` | georgd/EB-Garamond | [open](records/assets-georgd-eb-garamond-3762ce0d.md) |
+| `github_search_assets-c0e4497e4a7633` | simonphillips-1010/jimi | [open](records/assets-simonphillips-1010-jimi-138dd6d5.md) |
+| `github_search_assets-c2a9780c59a679` | parcel-bundler/parcel | [open](records/assets-parcel-bundler-parcel-b4cac5ec.md) |
 | `github_search_assets-c2ae66c16beba2` | nuxt/fonts | [open](records/assets-nuxt-fonts-4b6c47fa.md) |
 | `github_search_assets-c50fee06655a07` | BlackFoundryCom/InriaFonts | [open](records/assets-blackfoundrycom-inriafonts-1005f303.md) |
+| `github_search_assets-c5472161fcbcc7` | trunk-rs/trunk | [open](records/assets-trunk-rs-trunk-f44489e2.md) |
+| `github_search_assets-c7893d6c99b6ca` | rickytan/RTImageAssets | [open](records/assets-rickytan-rtimageassets-a0bd94f3.md) |
 | `github_search_assets-c888dc8886f205` | IdreesInc/Monocraft | [open](records/assets-idreesinc-monocraft-2e4bbd56.md) |
 | `github_search_assets-ca35e06fcceb7a` | M5ez/M5ez | [open](records/assets-m5ez-m5ez-6aee584f.md) |
+| `github_search_assets-cc17082419f91b` | dogoncouch/LogESP | [open](records/assets-dogoncouch-logesp-487d8edc.md) |
+| `github_search_assets-cdf86f127b7af3` | jonrau1/ElectricEye | [open](records/assets-jonrau1-electriceye-8cc6fea7.md) |
 | `github_search_assets-ce4d28ddac5f07` | jaywcjlove/svgtofont | [open](records/assets-jaywcjlove-svgtofont-883be0c7.md) |
 | `github_search_assets-cf217b3460ce0c` | itgalaxy/webfont | [open](records/assets-itgalaxy-webfont-497adeb1.md) |
 | `github_search_assets-cf857a57a2c7e9` | fontforge/designwithfontforge.com | [open](records/assets-fontforge-designwithfontforge-com-456df33b.md) |
 | `github_search_assets-d0b177c76f149a` | ryanoasis/nerd-fonts | [open](records/assets-ryanoasis-nerd-fonts-0fc4ace5.md) |
+| `github_search_assets-d0d826471ffacb` | chenjie1219/cartool | [open](records/assets-chenjie1219-cartool-95f8ff66.md) |
+| `github_search_assets-d2640ea0694e53` | Grashjs/cmms | [open](records/assets-grashjs-cmms-7ea7d7e3.md) |
 | `github_search_assets-d3af2526a2138d` | justfont/open-huninn-font | [open](records/assets-justfont-open-huninn-font-7bee933f.md) |
 | `github_search_assets-d662623dfbfc45` | system-fonts/modern-font-stacks | [open](records/assets-system-fonts-modern-font-stacks-431ff0c6.md) |
+| `github_search_assets-d80aea4a11cf4a` | envygeeks/jekyll-assets | [open](records/assets-envygeeks-jekyll-assets-ba6d3cdb.md) |
+| `github_search_assets-d820c422cc2bd2` | listyque/TACTIC-Handler | [open](records/assets-listyque-tactic-handler-4eac647f.md) |
+| `github_search_assets-d9487243817ddb` | dolag233/Serpent | [open](records/assets-dolag233-serpent-ea2f129d.md) |
+| `github_search_assets-daeb7fbe858219` | bluwy/svelte-preprocess-import-assets | [open](records/assets-bluwy-svelte-preprocess-import-assets-0e5b89b7.md) |
 | `github_search_assets-dbe343ff6059e5` | johanmattssonm/birdfont | [open](records/assets-johanmattssonm-birdfont-f317dbe1.md) |
 | `github_search_assets-dcc5388329380a` | feat-agency/vite-plugin-webfont-dl | [open](records/assets-feat-agency-vite-plugin-webfont-dl-c573e2b6.md) |
 | `github_search_assets-dd08a6b5cf2764` | coreyhu/Urbanist | [open](records/assets-coreyhu-urbanist-36280d51.md) |
+| `github_search_assets-e01d69bf6bff77` | marcelscruz/dev-resources | [open](records/assets-marcelscruz-dev-resources-f1007139.md) |
 | `github_search_assets-e3f96e60b5df6c` | Numbersf/MakeFontsGreatAgain | [open](records/assets-numbersf-makefontsgreatagain-5c928149.md) |
 | `github_search_assets-e438cfa7e38bb7` | adobe-fonts/source-sans | [open](records/assets-adobe-fonts-source-sans-0a0aa01d.md) |
 | `github_search_assets-e48ceb3e9c0646` | lucemia/typed-ffmpeg | [open](records/assets-lucemia-typed-ffmpeg-b38dabb5.md) |
 | `github_search_assets-e5fb036049b8a1` | KonghaYao/chinese-free-web-font-storage | [open](records/assets-konghayao-chinese-free-web-font-storage-f3c64445.md) |
+| `github_search_assets-e70879994d30d5` | kindlyops/havengrc | [open](records/assets-kindlyops-havengrc-3cabc9b4.md) |
+| `github_search_assets-e948689ec87c53` | HurtzDonutStudios/ai-forge-mcp | [open](records/assets-hurtzdonutstudios-ai-forge-mcp-7ad47a86.md) |
+| `github_search_assets-e977e30529ea42` | SOF3/include-flate | [open](records/assets-sof3-include-flate-7e9f140c.md) |
 | `github_search_assets-ea5f08ce866365` | neverpanic/google-font-download | [open](records/assets-neverpanic-google-font-download-4f3e2bda.md) |
+| `github_search_assets-ec495f3602937a` | all-iver/shapes2d | [open](records/assets-all-iver-shapes2d-173160ec.md) |
 | `github_search_assets-ede382f0b445b6` | githubnext/monaspace | [open](records/assets-githubnext-monaspace-701f8aac.md) |
 | `github_search_assets-efbd5f80db4331` | jenskutilek/FiraSystemFontReplacement | [open](records/assets-jenskutilek-firasystemfontreplacement-f5c1bfcf.md) |
+| `github_search_assets-f04da9d77b71c9` | freshOS/AssetChecker | [open](records/assets-freshos-assetchecker-f5602918.md) |
+| `github_search_assets-f10d491428c164` | OCSInventory-NG/OCSInventory-ocsreports | [open](records/assets-ocsinventory-ng-ocsinventory-ocsreports-d328f3d5.md) |
+| `github_search_assets-f2da2e4c46a06b` | freeCodeCamp/assets | [open](records/assets-freecodecamp-assets-7ebe91ce.md) |
+| `github_search_assets-f44d269f38b78f` | tbillington/bevy_toon_shader | [open](records/assets-tbillington-bevy-toon-shader-251332ff.md) |
 | `github_search_assets-f5133bf736cc94` | noirblancrouge/YoungSerif | [open](records/assets-noirblancrouge-youngserif-1744f7ac.md) |
+| `github_search_assets-f5571b3633dc74` | levinzonr/godot-asset-placer | [open](records/assets-levinzonr-godot-asset-placer-8d39dc8a.md) |
 | `github_search_assets-f5af12a39bdca8` | pixel-point/fontpie | [open](records/assets-pixel-point-fontpie-114fa423.md) |
+| `github_search_assets-f72b861b61783b` | fscorrupt/posterizarr | [open](records/assets-fscorrupt-posterizarr-76ea15df.md) |
 | `github_search_assets-f83c4b8bf24b82` | xero/figlet-fonts | [open](records/assets-xero-figlet-fonts-4c500777.md) |
 | `github_search_assets-f9b8c1ed6f21fe` | simonsmh/notocjk | [open](records/assets-simonsmh-notocjk-15d1c280.md) |
+| `github_search_assets-fb0632f2d83348` | thesandboxgame/sandbox-smart-contracts | [open](records/assets-thesandboxgame-sandbox-smart-contracts-ed6f6d6d.md) |
+| `github_search_assets-fd324468ab7aac` | grokability/snipe-it | [open](records/assets-grokability-snipe-it-46ebe61f.md) |
+| `github_search_assets-fea73acbe67878` | hiqdev/asset-packagist | [open](records/assets-hiqdev-asset-packagist-ef04a544.md) |
+| `github_search_assets-ff2fa5cb454438` | agit8or1/clientst0r | [open](records/assets-agit8or1-clientst0r-68b602b6.md) |
 | `github_search_audio-0133e43f06b558` | librosa/librosa | [open](records/audio-librosa-librosa-8068a972.md) |
 | `github_search_audio-024b7cc7ae04cd` | libAudioFlux/audioFlux | [open](records/audio-libaudioflux-audioflux-7311838f.md) |
 | `github_search_audio-02c194b4f65388` | kfrlib/kfr | [open](records/audio-kfrlib-kfr-16ccf88e.md) |
@@ -6026,6 +6183,7 @@
 | `github_search_databases-14e6f9894287d1` | olric-data/olric | [open](records/databases-olric-data-olric-b5a4b5e3.md) |
 | `github_search_databases-156dc93a384cb7` | typeorm/typeorm | [open](records/databases-typeorm-typeorm-5d6b5459.md) |
 | `github_search_databases-15942235cb5636` | apache/incubator-pegasus | [open](records/databases-apache-incubator-pegasus-7ce631b5.md) |
+| `github_search_databases-15c3cd3eb95c84` | Nozbe/WatermelonDB | [open](records/databases-nozbe-watermelondb-40dcc1ed.md) |
 | `github_search_databases-173f2525a41a05` | CodisLabs/codis | [open](records/databases-codislabs-codis-2fbfa490.md) |
 | `github_search_databases-1a1b9465512a7d` | mongodb/mongo-ruby-driver | [open](records/databases-mongodb-mongo-ruby-driver-094f2530.md) |
 | `github_search_databases-2229870d0af028` | sqlmapproject/sqlmap | [open](records/databases-sqlmapproject-sqlmap-11b3c1ea.md) |
@@ -6046,6 +6204,7 @@
 | `github_search_databases-39590bd011c66d` | eosphoros-ai/DB-GPT | [open](records/databases-eosphoros-ai-db-gpt-f51d8c14.md) |
 | `github_search_databases-3a6c8fab00902c` | distributedio/titan | [open](records/databases-distributedio-titan-2725f29d.md) |
 | `github_search_databases-3b3ce37b2ba7b2` | madd86/awesome-system-design | [open](records/databases-madd86-awesome-system-design-0804bf87.md) |
+| `github_search_databases-3be1e7a4e5461b` | Tencent/wcdb | [open](records/databases-tencent-wcdb-5041db9d.md) |
 | `github_search_databases-3ca2f28cbeedac` | redis/redis | [open](records/databases-redis-redis-110f7316.md) |
 | `github_search_databases-3d455502cc0de4` | questdb/questdb | [open](records/databases-questdb-questdb-cb22f378.md) |
 | `github_search_databases-3dc0ee8f904031` | OtterMind/Chat2DB | [open](records/databases-ottermind-chat2db-a37fa72f.md) |
@@ -6073,6 +6232,7 @@
 | `github_search_databases-5d09ebe61013e1` | dgraph-io/dgraph | [open](records/databases-dgraph-io-dgraph-d8a0cd12.md) |
 | `github_search_databases-5e835793d419cf` | dzharii/awesome-elasticsearch | [open](records/databases-dzharii-awesome-elasticsearch-81171c8b.md) |
 | `github_search_databases-5eea95ea213802` | codingo/NoSQLMap | [open](records/databases-codingo-nosqlmap-92ab6758.md) |
+| `github_search_databases-5f0420bb944d11` | The-Vibe-Company/quivr | [open](records/databases-the-vibe-company-quivr-58a307c7.md) |
 | `github_search_databases-6110aa6d454161` | Netflix/dynomite | [open](records/databases-netflix-dynomite-bbdaecf5.md) |
 | `github_search_databases-63fe4f0caa36fc` | vesoft-inc/nebula | [open](records/databases-vesoft-inc-nebula-ddaede03.md) |
 | `github_search_databases-6481a23384330a` | geldata/gel | [open](records/databases-geldata-gel-a5e3c51e.md) |
@@ -6082,7 +6242,6 @@
 | `github_search_databases-6a007c39d55878` | realm/realm-swift | [open](records/databases-realm-realm-swift-da686512.md) |
 | `github_search_databases-6ab2bae0df60dc` | PoloDB/PoloDB | [open](records/databases-polodb-polodb-e3557cfb.md) |
 | `github_search_databases-6b1811228d817a` | duckdb/duckdb | [open](records/databases-duckdb-duckdb-654530e3.md) |
-| `github_search_databases-6ba7c46ce115d6` | The-Vibe-Company/Quivr | [open](records/databases-the-vibe-company-quivr-58a307c7.md) |
 | `github_search_databases-6c298c308b3be1` | skaiworldwide-oss/agensgraph | [open](records/databases-skaiworldwide-oss-agensgraph-e4229279.md) |
 | `github_search_databases-6cf8be11b0c2d0` | dynamodb-toolbox/dynamodb-toolbox | [open](records/databases-dynamodb-toolbox-dynamodb-toolbox-ae559802.md) |
 | `github_search_databases-7011f049242dfa` | boltdb/bolt | [open](records/databases-boltdb-bolt-1e1b16b8.md) |
@@ -6111,6 +6270,7 @@
 | `github_search_databases-8dde1b9f780f96` | spatie/laravel-schemaless-attributes | [open](records/databases-spatie-laravel-schemaless-attributes-b47e28be.md) |
 | `github_search_databases-8eda9f08a2d947` | ClickHouse/ClickHouse | [open](records/databases-clickhouse-clickhouse-9258f880.md) |
 | `github_search_databases-8fdedf98dac203` | debezium/debezium | [open](records/databases-debezium-debezium-a3d23ff7.md) |
+| `github_search_databases-9067a57703ba14` | realm/realm-java | [open](records/databases-realm-realm-java-af8bcf7b.md) |
 | `github_search_databases-90c5f70f6f7d53` | oxnr/awesome-bigdata | [open](records/databases-oxnr-awesome-bigdata-a2984bc7.md) |
 | `github_search_databases-910de046e533a9` | apache/cassandra-nodejs-driver | [open](records/databases-apache-cassandra-nodejs-driver-80b85a13.md) |
 | `github_search_databases-925042344b3da6` | trinodb/trino | [open](records/databases-trinodb-trino-b6fa58b4.md) |
@@ -6154,6 +6314,7 @@
 | `github_search_databases-d3b6fc1a69f2b7` | dbcli/pgcli | [open](records/databases-dbcli-pgcli-df04d56c.md) |
 | `github_search_databases-d8320fc71f3d14` | symisc/unqlite | [open](records/databases-symisc-unqlite-1ec3a767.md) |
 | `github_search_databases-d8a3c4786456b1` | chroma-core/chroma | [open](records/databases-chroma-core-chroma-4683632f.md) |
+| `github_search_databases-dad1ac7dc6ac38` | gristlabs/grist-core | [open](records/databases-gristlabs-grist-core-d8e14d49.md) |
 | `github_search_databases-dafdc74080fdc1` | valkey-io/valkey | [open](records/databases-valkey-io-valkey-076b87d0.md) |
 | `github_search_databases-dd7491905f6520` | griddb/griddb | [open](records/databases-griddb-griddb-b48b6432.md) |
 | `github_search_databases-e392945e56f0ba` | OpenAtomFoundation/pikiwidb | [open](records/databases-openatomfoundation-pikiwidb-007b1f05.md) |
@@ -11557,7 +11718,6 @@
 | `hackage_recent-7743035e5050d7` | explainable-predicates | [open](records/haskell-explainable-predicates-6549649b.md) |
 | `hackage_recent-85b70f81457859` | tricorder-mcp | [open](records/haskell-tricorder-mcp-95664038.md) |
 | `hackage_recent-93412bbaff519b` | kioku-migrations | [open](records/haskell-kioku-migrations-2c5f56b2.md) |
-| `hackage_recent-9f61f155d7bee9` | rzk | [open](records/haskell-rzk-4d91c2de.md) |
 | `hackage_recent-c27fe6ee52d5b4` | kioku-cli | [open](records/haskell-kioku-cli-1c907a92.md) |
 | `hackage_recent-c6a78aab59f2d5` | hopenpgp-tools | [open](records/haskell-hopenpgp-tools-39a59dde.md) |
 | `hackage_recent-cbc663b7bd9cb1` | Agda | [open](records/haskell-agda-2052f829.md) |
@@ -11588,6 +11748,7 @@
 | `hackage_top_downloads-05c101d650cd81` | atomic-primops | [open](records/haskell-atomic-primops-38c4ce12.md) |
 | `hackage_top_downloads-05d3552eb91bee` | gps | [open](records/haskell-gps-53eaa99a.md) |
 | `hackage_top_downloads-05e05d6f627c60` | reflex | [open](records/haskell-reflex-933bf097.md) |
+| `hackage_top_downloads-05e136b5d7007d` | contiguous | [open](records/haskell-contiguous-fe933ed4.md) |
 | `hackage_top_downloads-062269298ce3cf` | rhine | [open](records/haskell-rhine-8fecfcf4.md) |
 | `hackage_top_downloads-0653753877863a` | pretty-show | [open](records/haskell-pretty-show-beb74204.md) |
 | `hackage_top_downloads-06784859b6049e` | morte | [open](records/haskell-morte-3fcbb796.md) |
@@ -11655,6 +11816,7 @@
 | `hackage_top_downloads-10d1b247fcbf35` | hstatistics | [open](records/haskell-hstatistics-add5c465.md) |
 | `hackage_top_downloads-114a695c22d484` | microlens-th | [open](records/haskell-microlens-th-dd935abc.md) |
 | `hackage_top_downloads-11839bc7ddfaea` | cookie | [open](records/haskell-cookie-2a48f6b1.md) |
+| `hackage_top_downloads-1193a2b98aa27f` | json-feed | [open](records/haskell-json-feed-b77272e1.md) |
 | `hackage_top_downloads-11a93eb67e4e7e` | HDBC | [open](records/haskell-hdbc-6b262f07.md) |
 | `hackage_top_downloads-11e9d1c65ae781` | test-framework | [open](records/haskell-test-framework-fa8f43e5.md) |
 | `hackage_top_downloads-1214560bac0faf` | exact-pi | [open](records/haskell-exact-pi-231cfafe.md) |
@@ -11692,6 +11854,7 @@
 | `hackage_top_downloads-19b0d89e8b8566` | fix-imports | [open](records/haskell-fix-imports-a06174ac.md) |
 | `hackage_top_downloads-19b3f08054a6d8` | uuid | [open](records/haskell-uuid-e1bcd164.md) |
 | `hackage_top_downloads-19c0bee289653b` | zeolite-lang | [open](records/haskell-zeolite-lang-121149cb.md) |
+| `hackage_top_downloads-19d9bb12653a6e` | mmzk-typeid | [open](records/haskell-mmzk-typeid-3ea027d6.md) |
 | `hackage_top_downloads-1a144fb675a4a9` | vinyl | [open](records/haskell-vinyl-41f42141.md) |
 | `hackage_top_downloads-1a5a941c1596d5` | dhall-nix | [open](records/haskell-dhall-nix-b198fdc8.md) |
 | `hackage_top_downloads-1a67f43a9aecc6` | gi-javascriptcore | [open](records/haskell-gi-javascriptcore-3cc4a760.md) |
@@ -11722,6 +11885,7 @@
 | `hackage_top_downloads-1ebaef164047d1` | dynamic-plot | [open](records/haskell-dynamic-plot-79f52881.md) |
 | `hackage_top_downloads-1ebe34887af132` | monad-logger | [open](records/haskell-monad-logger-05ede053.md) |
 | `hackage_top_downloads-1f2d967734faeb` | cabal-macosx | [open](records/haskell-cabal-macosx-c2f02600.md) |
+| `hackage_top_downloads-1f32ff1b275534` | tasty-hunit | [open](records/haskell-tasty-hunit-99be5032.md) |
 | `hackage_top_downloads-1f35fdf8893cd0` | apiary | [open](records/haskell-apiary-099546ad.md) |
 | `hackage_top_downloads-1f758426901af3` | lawful-conversions | [open](records/haskell-lawful-conversions-19933cf1.md) |
 | `hackage_top_downloads-1f98ca54f876f3` | Frames | [open](records/haskell-frames-86177212.md) |
@@ -11744,6 +11908,7 @@
 | `hackage_top_downloads-241a705140c820` | copilot-language | [open](records/haskell-copilot-language-8b8dd8fc.md) |
 | `hackage_top_downloads-2425a031285eab` | operational | [open](records/haskell-operational-5c931d40.md) |
 | `hackage_top_downloads-2426dcda55b72c` | foundation | [open](records/haskell-foundation-943b3b7d.md) |
+| `hackage_top_downloads-244cec213b4422` | amazonka-datapipeline | [open](records/haskell-amazonka-datapipeline-28ac905e.md) |
 | `hackage_top_downloads-24bccfd9d0bb16` | crypto-api | [open](records/haskell-crypto-api-b5bf9680.md) |
 | `hackage_top_downloads-24c5ae99dd9301` | util | [open](records/haskell-util-d4fe2fe2.md) |
 | `hackage_top_downloads-24d32b67b8b46e` | potoki | [open](records/haskell-potoki-46cbb511.md) |
@@ -11794,6 +11959,7 @@
 | `hackage_top_downloads-2ec4155e1f6064` | cairo | [open](records/haskell-cairo-061b9b85.md) |
 | `hackage_top_downloads-2ecf2b786b8e32` | rainbow | [open](records/haskell-rainbow-88ef19a2.md) |
 | `hackage_top_downloads-2edeac92cf61b8` | web-routes | [open](records/haskell-web-routes-5f0f5a1b.md) |
+| `hackage_top_downloads-2ee73da05c8228` | prometheus | [open](records/haskell-prometheus-116e37de.md) |
 | `hackage_top_downloads-2f63863d1777c4` | json-autotype | [open](records/haskell-json-autotype-bc180b5d.md) |
 | `hackage_top_downloads-2fb2ced75e2bd6` | xml-enumerator | [open](records/haskell-xml-enumerator-3cb21216.md) |
 | `hackage_top_downloads-2fcb49b1cb79e0` | bytestring-trie | [open](records/haskell-bytestring-trie-fc4506c9.md) |
@@ -11834,6 +12000,7 @@
 | `hackage_top_downloads-36c752587a9a87` | gtk-sni-tray | [open](records/haskell-gtk-sni-tray-5b5119d7.md) |
 | `hackage_top_downloads-3708b47b2224e3` | ghc-paths | [open](records/haskell-ghc-paths-9ed20f5d.md) |
 | `hackage_top_downloads-370f7a3a0ed4c8` | snap | [open](records/haskell-snap-cbca65a0.md) |
+| `hackage_top_downloads-37635f01b4ecd0` | accelerate | [open](records/haskell-accelerate-62d57afc.md) |
 | `hackage_top_downloads-377e8e81a58586` | unliftio | [open](records/haskell-unliftio-b34041c9.md) |
 | `hackage_top_downloads-37dc49a753670a` | cimple | [open](records/haskell-cimple-0db1f1de.md) |
 | `hackage_top_downloads-37fef7302cf0cc` | hip | [open](records/haskell-hip-e625ab54.md) |
@@ -11864,6 +12031,7 @@
 | `hackage_top_downloads-3ca536e2c9f7be` | syb-with-class | [open](records/haskell-syb-with-class-f21f0b9f.md) |
 | `hackage_top_downloads-3cb9e60284563c` | http3 | [open](records/haskell-http3-d8356eb7.md) |
 | `hackage_top_downloads-3ce6f0498a29be` | MonadRandom | [open](records/haskell-monadrandom-a53ebbd9.md) |
+| `hackage_top_downloads-3d29956c8fa37c` | http-conduit-downloader | [open](records/haskell-http-conduit-downloader-47c86d46.md) |
 | `hackage_top_downloads-3d37ff7faa6ac6` | crypto-enigma | [open](records/haskell-crypto-enigma-a5b67071.md) |
 | `hackage_top_downloads-3d7e9f46dffdff` | ghc-exactprint | [open](records/haskell-ghc-exactprint-fecd74ca.md) |
 | `hackage_top_downloads-3d7fb945485e4c` | archlinux | [open](records/haskell-archlinux-b3826fbf.md) |
@@ -11877,11 +12045,13 @@
 | `hackage_top_downloads-3eb4aa7f4b3531` | amazonka-cloudsearch | [open](records/haskell-amazonka-cloudsearch-413ff336.md) |
 | `hackage_top_downloads-3f0def9e5fe71d` | HaskellNet-SSL | [open](records/haskell-haskellnet-ssl-f3a47f13.md) |
 | `hackage_top_downloads-3f16dec269d71f` | haddock-library | [open](records/haskell-haddock-library-345347cd.md) |
+| `hackage_top_downloads-3f54ee1a0e8f6e` | stm-containers | [open](records/haskell-stm-containers-cb0cc3e8.md) |
 | `hackage_top_downloads-3fecfe4aa2d1d3` | amazonka-lambda | [open](records/haskell-amazonka-lambda-135e96c5.md) |
 | `hackage_top_downloads-4017a73a3e6bc8` | fay-base | [open](records/haskell-fay-base-1d4efbd2.md) |
 | `hackage_top_downloads-402f90e4cfb59e` | staversion | [open](records/haskell-staversion-640a4ba7.md) |
 | `hackage_top_downloads-4050fd3108eae7` | scotty | [open](records/haskell-scotty-f82d02fe.md) |
 | `hackage_top_downloads-40b3e24a3f6057` | logging-effect | [open](records/haskell-logging-effect-3e66cfc8.md) |
+| `hackage_top_downloads-40bfa8ae7c6686` | gi-poppler | [open](records/haskell-gi-poppler-eea64604.md) |
 | `hackage_top_downloads-40ccfa0687bf2b` | sbv | [open](records/haskell-sbv-937d1d8f.md) |
 | `hackage_top_downloads-41214325d05af0` | QuickCheck | [open](records/haskell-quickcheck-8ec34707.md) |
 | `hackage_top_downloads-41430d3928d06e` | eventstore | [open](records/haskell-eventstore-efc2a066.md) |
@@ -11911,8 +12081,10 @@
 | `hackage_top_downloads-493d6436805031` | reflex-dom | [open](records/haskell-reflex-dom-7346af6f.md) |
 | `hackage_top_downloads-493e31e516aae3` | aeson-diff | [open](records/haskell-aeson-diff-adc67c55.md) |
 | `hackage_top_downloads-494c8b898a2b1f` | semigroups | [open](records/haskell-semigroups-1dd26ce3.md) |
+| `hackage_top_downloads-497f041509e7f7` | docker | [open](records/haskell-docker-fa6a1a31.md) |
 | `hackage_top_downloads-49c9ce92385991` | th-abstraction | [open](records/haskell-th-abstraction-d36f6793.md) |
 | `hackage_top_downloads-4a47f0f19fac66` | pontarius-xmpp | [open](records/haskell-pontarius-xmpp-5a5fc4ed.md) |
+| `hackage_top_downloads-4a97dafcaaef54` | modern-uri | [open](records/haskell-modern-uri-8f10b66b.md) |
 | `hackage_top_downloads-4ab425fd9bfeae` | turtle | [open](records/haskell-turtle-b1c7d396.md) |
 | `hackage_top_downloads-4b3f2fcebb16d9` | trifecta | [open](records/haskell-trifecta-b5f6d0a8.md) |
 | `hackage_top_downloads-4b7d4f43de1675` | linear | [open](records/haskell-linear-48aa332b.md) |
@@ -11969,6 +12141,7 @@
 | `hackage_top_downloads-5619b1b3b90ffa` | ditto-lucid | [open](records/haskell-ditto-lucid-bbeabec5.md) |
 | `hackage_top_downloads-56792c8b4a569e` | beam-sqlite | [open](records/haskell-beam-sqlite-31ef3c68.md) |
 | `hackage_top_downloads-569594a8a59d35` | exceptions | [open](records/haskell-exceptions-50aed5a3.md) |
+| `hackage_top_downloads-56ef2ec48c566f` | amazonka-cloudfront | [open](records/haskell-amazonka-cloudfront-c03cfbda.md) |
 | `hackage_top_downloads-56f59f9f6609d3` | leveldb-haskell | [open](records/haskell-leveldb-haskell-5c384854.md) |
 | `hackage_top_downloads-57073b355e755b` | file-embed | [open](records/haskell-file-embed-9cfa8d01.md) |
 | `hackage_top_downloads-576a07f83d4b60` | derive | [open](records/haskell-derive-cbe1790f.md) |
@@ -11978,6 +12151,7 @@
 | `hackage_top_downloads-58475aa506674f` | ChasingBottoms | [open](records/haskell-chasingbottoms-4911a581.md) |
 | `hackage_top_downloads-588a63bb589844` | uuagc | [open](records/haskell-uuagc-4cd89ac6.md) |
 | `hackage_top_downloads-58b46ecfe4afaf` | gi-gdkx11 | [open](records/haskell-gi-gdkx11-ea1f8672.md) |
+| `hackage_top_downloads-58e068510a9214` | focus | [open](records/haskell-focus-74f10748.md) |
 | `hackage_top_downloads-597478fa36a2f9` | ghc-lib | [open](records/haskell-ghc-lib-dd1fe600.md) |
 | `hackage_top_downloads-5986e40573d01b` | uhc-util | [open](records/haskell-uhc-util-3bab919a.md) |
 | `hackage_top_downloads-598edbaea83321` | strive | [open](records/haskell-strive-fa5eae55.md) |
@@ -12059,6 +12233,7 @@
 | `hackage_top_downloads-69efb661fd9acc` | persistent-postgresql | [open](records/haskell-persistent-postgresql-db4d59f4.md) |
 | `hackage_top_downloads-6a261930475c51` | doctemplates | [open](records/haskell-doctemplates-f7e65971.md) |
 | `hackage_top_downloads-6a4eee5c4791f0` | encoding | [open](records/haskell-encoding-3dd6bfab.md) |
+| `hackage_top_downloads-6a5ebd5f92d781` | llvm-ffi | [open](records/haskell-llvm-ffi-67c78302.md) |
 | `hackage_top_downloads-6a6320ec4ef0fb` | amazonka-sns | [open](records/haskell-amazonka-sns-e3d547ea.md) |
 | `hackage_top_downloads-6af75edc93623d` | Stream | [open](records/haskell-stream-5cadb34c.md) |
 | `hackage_top_downloads-6b01c9d9c4a731` | web-routes-th | [open](records/haskell-web-routes-th-c58d3520.md) |
@@ -12067,10 +12242,12 @@
 | `hackage_top_downloads-6ba132c34978d0` | http-api-data | [open](records/haskell-http-api-data-0a92e255.md) |
 | `hackage_top_downloads-6be5a95d9ac615` | hasbolt | [open](records/haskell-hasbolt-b1423b6f.md) |
 | `hackage_top_downloads-6c7d8101992a51` | hledger-ui | [open](records/haskell-hledger-ui-8c0b5874.md) |
+| `hackage_top_downloads-6cc22b06e262f8` | lsp-types | [open](records/haskell-lsp-types-f97ca895.md) |
 | `hackage_top_downloads-6cef19827c206f` | regex-applicative | [open](records/haskell-regex-applicative-9f078ac9.md) |
 | `hackage_top_downloads-6cfea1842caad7` | fourmolu | [open](records/haskell-fourmolu-ee33ffe1.md) |
 | `hackage_top_downloads-6d21f3efd0bdf1` | yesod-static | [open](records/haskell-yesod-static-f6ffdea6.md) |
 | `hackage_top_downloads-6d2895b9c47135` | code-conjure | [open](records/haskell-code-conjure-1c3de465.md) |
+| `hackage_top_downloads-6d3002ec9d86e0` | cql-io | [open](records/haskell-cql-io-101e88d5.md) |
 | `hackage_top_downloads-6d4cc4a46e578b` | logict | [open](records/haskell-logict-915a27ee.md) |
 | `hackage_top_downloads-6d6788425961f4` | amqp | [open](records/haskell-amqp-4ec1a44d.md) |
 | `hackage_top_downloads-6dca57e51c5fa5` | gi-gstvideo | [open](records/haskell-gi-gstvideo-66f4ee23.md) |
@@ -12101,6 +12278,7 @@
 | `hackage_top_downloads-73e546d4a400dc` | hakyll | [open](records/haskell-hakyll-9fae876c.md) |
 | `hackage_top_downloads-740704d9d3a8f7` | protocol-buffers-descriptor | [open](records/haskell-protocol-buffers-descriptor-e1b12908.md) |
 | `hackage_top_downloads-7421c97f75ffd7` | cgrep | [open](records/haskell-cgrep-b481f087.md) |
+| `hackage_top_downloads-742df61e060ebe` | makefile | [open](records/haskell-makefile-8d573282.md) |
 | `hackage_top_downloads-744efb7880e9e2` | hlibgit2 | [open](records/haskell-hlibgit2-63abc9d4.md) |
 | `hackage_top_downloads-747194a6f207fe` | amazonka-ecs | [open](records/haskell-amazonka-ecs-d53ae8ea.md) |
 | `hackage_top_downloads-7471d1a556c501` | pusher-http-haskell | [open](records/haskell-pusher-http-haskell-23a5be3d.md) |
@@ -12110,6 +12288,7 @@
 | `hackage_top_downloads-74c11a7d6c45f2` | utxorpc | [open](records/haskell-utxorpc-ee06b459.md) |
 | `hackage_top_downloads-74f46d9ccfb478` | monadLib | [open](records/haskell-monadlib-cea5c926.md) |
 | `hackage_top_downloads-752a71e6d8dc2c` | antiope-sns | [open](records/haskell-antiope-sns-36488703.md) |
+| `hackage_top_downloads-757244da65c9c0` | shakespeare-js | [open](records/haskell-shakespeare-js-b7253ad7.md) |
 | `hackage_top_downloads-7620a4d6cba2d4` | hw-polysemy | [open](records/haskell-hw-polysemy-30c8fd90.md) |
 | `hackage_top_downloads-764cb04b12b900` | x509-store | [open](records/haskell-x509-store-9276af08.md) |
 | `hackage_top_downloads-7657c96a4cd608` | cipher-aes | [open](records/haskell-cipher-aes-763552c0.md) |
@@ -12172,6 +12351,8 @@
 | `hackage_top_downloads-826db0f963d92f` | amazonka-importexport | [open](records/haskell-amazonka-importexport-41502bf7.md) |
 | `hackage_top_downloads-834d0ef6fee56a` | fast-logger | [open](records/haskell-fast-logger-01a4c6d1.md) |
 | `hackage_top_downloads-8372fca5bd7d07` | language-dickinson | [open](records/haskell-language-dickinson-c9be602f.md) |
+| `hackage_top_downloads-8382adc2be8a99` | data-object-yaml | [open](records/haskell-data-object-yaml-cba0e157.md) |
+| `hackage_top_downloads-83e3932f8236eb` | casadi-bindings | [open](records/haskell-casadi-bindings-c15428aa.md) |
 | `hackage_top_downloads-83e8a041893354` | hpqtypes-extras | [open](records/haskell-hpqtypes-extras-c3745fd4.md) |
 | `hackage_top_downloads-83f928385d62ee` | core-data | [open](records/haskell-core-data-3284e782.md) |
 | `hackage_top_downloads-8424079c06945d` | type-unary | [open](records/haskell-type-unary-0d99f93a.md) |
@@ -12232,13 +12413,16 @@
 | `hackage_top_downloads-8dfefb1e32de83` | flow | [open](records/haskell-flow-94d8370f.md) |
 | `hackage_top_downloads-8e23a246faf52e` | fuzzytime | [open](records/haskell-fuzzytime-891215e2.md) |
 | `hackage_top_downloads-8e377661e91f2f` | comonads-fd | [open](records/haskell-comonads-fd-a5aeaa4e.md) |
+| `hackage_top_downloads-8e4be87d9a4b31` | stm-chans | [open](records/haskell-stm-chans-f62ef089.md) |
 | `hackage_top_downloads-8f01ba2036f725` | cipher-aes128 | [open](records/haskell-cipher-aes128-b2a919d0.md) |
 | `hackage_top_downloads-8f20ff6cce515f` | idris | [open](records/haskell-idris-47fb0b3c.md) |
 | `hackage_top_downloads-8f4844d9d361d1` | espial | [open](records/haskell-espial-cb4d1603.md) |
 | `hackage_top_downloads-8fa41fdd260b23` | cachix-api | [open](records/haskell-cachix-api-422fb824.md) |
+| `hackage_top_downloads-8fd4be705da6c6` | wai-handler-devel | [open](records/haskell-wai-handler-devel-ce6044d9.md) |
 | `hackage_top_downloads-8fe8039f4e3746` | hourglass | [open](records/haskell-hourglass-ed0a22e4.md) |
 | `hackage_top_downloads-9052529a7ed756` | text-zipper | [open](records/haskell-text-zipper-6676f63d.md) |
 | `hackage_top_downloads-9074f5a2bb9bbb` | hls-graph | [open](records/haskell-hls-graph-dfa7953b.md) |
+| `hackage_top_downloads-90855a0fa4762a` | bzlib-conduit | [open](records/haskell-bzlib-conduit-07300eee.md) |
 | `hackage_top_downloads-90c132ac05dc45` | scc | [open](records/haskell-scc-f184b20e.md) |
 | `hackage_top_downloads-90d5dcdbfa655b` | yesod-persistent | [open](records/haskell-yesod-persistent-425557b9.md) |
 | `hackage_top_downloads-910e86b69e72a8` | authenticate | [open](records/haskell-authenticate-cc9917f2.md) |
@@ -12249,6 +12433,7 @@
 | `hackage_top_downloads-91fc93043aaba0` | sqlite-simple | [open](records/haskell-sqlite-simple-7933d0f4.md) |
 | `hackage_top_downloads-922b0e77f7c39f` | svg-tree | [open](records/haskell-svg-tree-45f1d86d.md) |
 | `hackage_top_downloads-923f61dfb785d1` | thyme | [open](records/haskell-thyme-cdcbe3fa.md) |
+| `hackage_top_downloads-9253ca43a09d19` | lucid | [open](records/haskell-lucid-ffdb028e.md) |
 | `hackage_top_downloads-92582f99671a25` | amazonka-kms | [open](records/haskell-amazonka-kms-6e5b994e.md) |
 | `hackage_top_downloads-92668334a3c492` | process | [open](records/haskell-process-566788a5.md) |
 | `hackage_top_downloads-92eb2038890b77` | wumpus-basic | [open](records/haskell-wumpus-basic-02c7359d.md) |
@@ -12274,6 +12459,7 @@
 | `hackage_top_downloads-96b1330988979d` | monoidmap | [open](records/haskell-monoidmap-e5b6790b.md) |
 | `hackage_top_downloads-96b3417cf2523f` | functor-combinators | [open](records/haskell-functor-combinators-0539c05e.md) |
 | `hackage_top_downloads-96f33bbd0e4741` | distributive | [open](records/haskell-distributive-726c611e.md) |
+| `hackage_top_downloads-9721c64ec53640` | cabal2spec | [open](records/haskell-cabal2spec-3bb1f831.md) |
 | `hackage_top_downloads-9735ec80df627b` | ad | [open](records/haskell-ad-e7ef2c59.md) |
 | `hackage_top_downloads-975b88484834fb` | ngx-export-tools | [open](records/haskell-ngx-export-tools-2d83bbc7.md) |
 | `hackage_top_downloads-979d51680ae12c` | mmsyn7h | [open](records/haskell-mmsyn7h-0ebc5037.md) |
@@ -12285,14 +12471,17 @@
 | `hackage_top_downloads-98b736595b7e92` | highlighting-kate | [open](records/haskell-highlighting-kate-c1ae7403.md) |
 | `hackage_top_downloads-990d0b9553340d` | amazonka-cloudwatch-logs | [open](records/haskell-amazonka-cloudwatch-logs-0f3cd488.md) |
 | `hackage_top_downloads-991039d520c34c` | cabal-debian | [open](records/haskell-cabal-debian-c48365af.md) |
+| `hackage_top_downloads-99265aa72a7502` | stm-io-hooks | [open](records/haskell-stm-io-hooks-d9954e35.md) |
 | `hackage_top_downloads-9957e2a1cd8a43` | uniplate | [open](records/haskell-uniplate-190820f4.md) |
 | `hackage_top_downloads-9a0b63586c1a81` | parsec | [open](records/haskell-parsec-f2ad9855.md) |
 | `hackage_top_downloads-9a24f89ab96de0` | cachix | [open](records/haskell-cachix-3105767e.md) |
 | `hackage_top_downloads-9ace705d29f1b1` | checkers | [open](records/haskell-checkers-815b1dc8.md) |
+| `hackage_top_downloads-9b290fa9e680ca` | pinch | [open](records/haskell-pinch-801ed692.md) |
 | `hackage_top_downloads-9b57f366e9776a` | BNFC | [open](records/haskell-bnfc-51024674.md) |
 | `hackage_top_downloads-9b5f0a7938289b` | profiteur | [open](records/haskell-profiteur-df91a9ef.md) |
 | `hackage_top_downloads-9b6b68dddb08b3` | dotenv | [open](records/haskell-dotenv-163ffcfd.md) |
 | `hackage_top_downloads-9b797bd6d99740` | scientific | [open](records/haskell-scientific-166dc88d.md) |
+| `hackage_top_downloads-9b7ee923219a61` | pinboard | [open](records/haskell-pinboard-08e346f1.md) |
 | `hackage_top_downloads-9b963a70181fa6` | websockets | [open](records/haskell-websockets-dd52de9c.md) |
 | `hackage_top_downloads-9b9dfd094dc1fc` | recursion-schemes | [open](records/haskell-recursion-schemes-3e70a332.md) |
 | `hackage_top_downloads-9ba3c222d95ea5` | syntactic | [open](records/haskell-syntactic-b5d8e11b.md) |
@@ -12310,6 +12499,7 @@
 | `hackage_top_downloads-9ef17ec42535a9` | cabal-install | [open](records/haskell-cabal-install-304fb0da.md) |
 | `hackage_top_downloads-9f47cccbc7d718` | comonad-transformers | [open](records/haskell-comonad-transformers-392f047c.md) |
 | `hackage_top_downloads-9f4c4b33039a3b` | yesod-dsl | [open](records/haskell-yesod-dsl-b95826c9.md) |
+| `hackage_top_downloads-9f61f155d7bee9` | rzk | [open](records/haskell-rzk-4d91c2de.md) |
 | `hackage_top_downloads-9f85c3cad94f5b` | zip | [open](records/haskell-zip-3da7792f.md) |
 | `hackage_top_downloads-a00b08ea8a489a` | prettyprinter-ansi-terminal | [open](records/haskell-prettyprinter-ansi-terminal-f8e428da.md) |
 | `hackage_top_downloads-a0256dd697e710` | plot | [open](records/haskell-plot-14b7e52a.md) |
@@ -12386,6 +12576,7 @@
 | `hackage_top_downloads-ace226d5a4ab8b` | ghcid | [open](records/haskell-ghcid-5d2190ac.md) |
 | `hackage_top_downloads-ad3f319d53fc1e` | parallel | [open](records/haskell-parallel-07a103a4.md) |
 | `hackage_top_downloads-ad43dbd643843d` | parser-combinators | [open](records/haskell-parser-combinators-9d3b1bcf.md) |
+| `hackage_top_downloads-ad9bc3042bee0d` | greskell | [open](records/haskell-greskell-a215ca33.md) |
 | `hackage_top_downloads-adfddf3ef129d5` | twitter-conduit | [open](records/haskell-twitter-conduit-fffb2d48.md) |
 | `hackage_top_downloads-adff47a27e0936` | ipython-kernel | [open](records/haskell-ipython-kernel-ff5dc0de.md) |
 | `hackage_top_downloads-ae10114e37a4f7` | bluefin-internal | [open](records/haskell-bluefin-internal-be13a89f.md) |
@@ -12403,11 +12594,13 @@
 | `hackage_top_downloads-b0b195c6d857ba` | ghc-typelits-natnormalise | [open](records/haskell-ghc-typelits-natnormalise-9fe1a232.md) |
 | `hackage_top_downloads-b10162a380c2ae` | viewprof | [open](records/haskell-viewprof-abda2e71.md) |
 | `hackage_top_downloads-b105a109b6f915` | aws | [open](records/haskell-aws-7ac753f9.md) |
+| `hackage_top_downloads-b10a9f88ecc4e0` | incipit | [open](records/haskell-incipit-d7c4947d.md) |
 | `hackage_top_downloads-b1114d51eabb1a` | storablevector | [open](records/haskell-storablevector-8d4ed7fc.md) |
 | `hackage_top_downloads-b1f8c4258223f3` | basement | [open](records/haskell-basement-3a9c0a30.md) |
 | `hackage_top_downloads-b2122bee0a63f0` | gi-soup | [open](records/haskell-gi-soup-515a441b.md) |
 | `hackage_top_downloads-b251bb6e95491b` | semiring-num | [open](records/haskell-semiring-num-9a7f01d3.md) |
 | `hackage_top_downloads-b26dac7276aabd` | madlang | [open](records/haskell-madlang-09c94135.md) |
+| `hackage_top_downloads-b28ecf495550f2` | ghc-compat | [open](records/haskell-ghc-compat-66154c5f.md) |
 | `hackage_top_downloads-b29c8ff3a6d355` | aivika-experiment-chart | [open](records/haskell-aivika-experiment-chart-48bbe912.md) |
 | `hackage_top_downloads-b2b35b05310fdd` | ip | [open](records/haskell-ip-118c89fa.md) |
 | `hackage_top_downloads-b2c5311c13dbf7` | regex-with-pcre | [open](records/haskell-regex-with-pcre-c4ec38e1.md) |
@@ -12442,6 +12635,7 @@
 | `hackage_top_downloads-b9d3ec59d760f4` | iproute | [open](records/haskell-iproute-15ff5a66.md) |
 | `hackage_top_downloads-ba09408d33272c` | transformers-base | [open](records/haskell-transformers-base-6e502f88.md) |
 | `hackage_top_downloads-ba3cc6a75a9b37` | stm-conduit | [open](records/haskell-stm-conduit-78ea6d3b.md) |
+| `hackage_top_downloads-baaa60b2290eb8` | transient-universe | [open](records/haskell-transient-universe-a8372c5c.md) |
 | `hackage_top_downloads-bb47148faf16ba` | OneTuple | [open](records/haskell-onetuple-91e34ca7.md) |
 | `hackage_top_downloads-bc1d5e2cc19aa8` | persistent-template | [open](records/haskell-persistent-template-b0d3fdfa.md) |
 | `hackage_top_downloads-bc41702d9d503f` | hnix | [open](records/haskell-hnix-c2074b72.md) |
@@ -12466,6 +12660,7 @@
 | `hackage_top_downloads-bfc69c700051ca` | gtk3 | [open](records/haskell-gtk3-d47bc009.md) |
 | `hackage_top_downloads-bfc76a7d8d9495` | copilot-libraries | [open](records/haskell-copilot-libraries-cdc14724.md) |
 | `hackage_top_downloads-c0765893f04270` | amazonka-cloudformation | [open](records/haskell-amazonka-cloudformation-db4ba4be.md) |
+| `hackage_top_downloads-c086307f65c909` | microlens-mtl | [open](records/haskell-microlens-mtl-07c0a888.md) |
 | `hackage_top_downloads-c0dbbc45b52a37` | validation | [open](records/haskell-validation-a2f3703c.md) |
 | `hackage_top_downloads-c1168f5bfd7628` | clafer | [open](records/haskell-clafer-4a5446e5.md) |
 | `hackage_top_downloads-c12fa5bd34af81` | leksah | [open](records/haskell-leksah-eb8b0898.md) |
@@ -12480,12 +12675,14 @@
 | `hackage_top_downloads-c3520c32017449` | seonbi | [open](records/haskell-seonbi-0252c3bc.md) |
 | `hackage_top_downloads-c3f3a92e688b38` | texmath | [open](records/haskell-texmath-1f2c97e9.md) |
 | `hackage_top_downloads-c41609c47cb6c1` | capnp | [open](records/haskell-capnp-94510ce4.md) |
+| `hackage_top_downloads-c470d2cdc82b7b` | call | [open](records/haskell-call-d3e99ee8.md) |
 | `hackage_top_downloads-c47560d4f32f48` | postgres-websockets | [open](records/haskell-postgres-websockets-331d0d0b.md) |
 | `hackage_top_downloads-c4a994a2c11be7` | shelltestrunner | [open](records/haskell-shelltestrunner-fa7b5020.md) |
 | `hackage_top_downloads-c4a9f13d8ec187` | yesod-platform | [open](records/haskell-yesod-platform-cc0166b2.md) |
 | `hackage_top_downloads-c4aac55d90ac24` | jose | [open](records/haskell-jose-6857ae66.md) |
 | `hackage_top_downloads-c4e4557e50d3c4` | language-c-quote | [open](records/haskell-language-c-quote-f44b2168.md) |
 | `hackage_top_downloads-c4e91f32e4ea63` | tlynx | [open](records/haskell-tlynx-f5f96866.md) |
+| `hackage_top_downloads-c538d5c0be070e` | lattices | [open](records/haskell-lattices-98931ff0.md) |
 | `hackage_top_downloads-c560758a70a6c4` | safe | [open](records/haskell-safe-4fc9287a.md) |
 | `hackage_top_downloads-c57aaa16577d3c` | gi-gio | [open](records/haskell-gi-gio-a6fc96f3.md) |
 | `hackage_top_downloads-c62278901a58d9` | language-c | [open](records/haskell-language-c-a79e97b2.md) |
@@ -12543,9 +12740,11 @@
 | `hackage_top_downloads-d00ec45a476e8a` | synthesizer-core | [open](records/haskell-synthesizer-core-892f4041.md) |
 | `hackage_top_downloads-d08897b4b10ca9` | ghc-events | [open](records/haskell-ghc-events-41d220a8.md) |
 | `hackage_top_downloads-d0a14eefc0445b` | gio | [open](records/haskell-gio-5d968dcc.md) |
+| `hackage_top_downloads-d0a871d8c0ca5b` | http-reverse-proxy | [open](records/haskell-http-reverse-proxy-de9c60e2.md) |
 | `hackage_top_downloads-d15aa0ca76063d` | snap-core | [open](records/haskell-snap-core-866c653a.md) |
 | `hackage_top_downloads-d15d0af35401f7` | containers | [open](records/haskell-containers-50dfba8c.md) |
 | `hackage_top_downloads-d18aac0d46e9b0` | llvm-hs | [open](records/haskell-llvm-hs-29f904c8.md) |
+| `hackage_top_downloads-d19520ec803bdd` | safecopy | [open](records/haskell-safecopy-074678af.md) |
 | `hackage_top_downloads-d1f56ea5d902bf` | store | [open](records/haskell-store-cc7f89a8.md) |
 | `hackage_top_downloads-d2082a458fb820` | log-domain | [open](records/haskell-log-domain-0b40df0a.md) |
 | `hackage_top_downloads-d264010946302e` | JuicyPixels | [open](records/haskell-juicypixels-8f568e01.md) |
@@ -12588,10 +12787,13 @@
 | `hackage_top_downloads-d872aa0886fea6` | diversity | [open](records/haskell-diversity-55aa79f6.md) |
 | `hackage_top_downloads-d8f91d7fdddadf` | hxt | [open](records/haskell-hxt-e93aea08.md) |
 | `hackage_top_downloads-d9794be231b074` | hasql-optparse-applicative | [open](records/haskell-hasql-optparse-applicative-66e350d8.md) |
+| `hackage_top_downloads-d980fa7ff33cfb` | RefSerialize | [open](records/haskell-refserialize-62669b0f.md) |
 | `hackage_top_downloads-d9d7148b21366a` | hledger | [open](records/haskell-hledger-1353ec65.md) |
 | `hackage_top_downloads-d9d94c61cddda5` | unix | [open](records/haskell-unix-1234aa26.md) |
 | `hackage_top_downloads-d9ee8240a2c6fb` | postgresql-binary | [open](records/haskell-postgresql-binary-954cd497.md) |
+| `hackage_top_downloads-da2d230a306357` | safe-exceptions | [open](records/haskell-safe-exceptions-d9668855.md) |
 | `hackage_top_downloads-da2dbe4a860dd6` | retry | [open](records/haskell-retry-e8e435e8.md) |
+| `hackage_top_downloads-da5d811f8301bb` | hslogger | [open](records/haskell-hslogger-134b1e63.md) |
 | `hackage_top_downloads-da776cb287fe81` | protocol-buffers | [open](records/haskell-protocol-buffers-7819b26d.md) |
 | `hackage_top_downloads-daa95f60e97cbe` | unfoldable | [open](records/haskell-unfoldable-7f5d5f9c.md) |
 | `hackage_top_downloads-daaa12ee4a039e` | oeis | [open](records/haskell-oeis-6573c6d5.md) |
@@ -12604,6 +12806,7 @@
 | `hackage_top_downloads-dcbf142063bfe0` | selda | [open](records/haskell-selda-c29bd3d4.md) |
 | `hackage_top_downloads-dcdce6702c99ce` | hsdev | [open](records/haskell-hsdev-bfa96a09.md) |
 | `hackage_top_downloads-dce4c56db3f7c2` | base-compat-batteries | [open](records/haskell-base-compat-batteries-6b1ffde2.md) |
+| `hackage_top_downloads-dd70b4d591f896` | regex-posix | [open](records/haskell-regex-posix-7b5a5d6c.md) |
 | `hackage_top_downloads-dd93edfd2fdbfd` | resourcet | [open](records/haskell-resourcet-7f2f7316.md) |
 | `hackage_top_downloads-ddbef175360d67` | amazonka-directconnect | [open](records/haskell-amazonka-directconnect-afeb1f47.md) |
 | `hackage_top_downloads-de4700ccf4fe07` | gi-pango | [open](records/haskell-gi-pango-20d36b99.md) |
@@ -12645,6 +12848,7 @@
 | `hackage_top_downloads-e6266c0f236bfd` | diagrams-rasterific | [open](records/haskell-diagrams-rasterific-bc87d3f7.md) |
 | `hackage_top_downloads-e65950ba4e4f1e` | tls-debug | [open](records/haskell-tls-debug-104ac836.md) |
 | `hackage_top_downloads-e6a533da5f2e92` | hspec-meta | [open](records/haskell-hspec-meta-c320ba84.md) |
+| `hackage_top_downloads-e70ff03ed8f7de` | hgeometry | [open](records/haskell-hgeometry-71986ff5.md) |
 | `hackage_top_downloads-e7121f94b5d510` | concurrent-extra | [open](records/haskell-concurrent-extra-f6c795d1.md) |
 | `hackage_top_downloads-e7219770b6fec9` | aeson-typescript | [open](records/haskell-aeson-typescript-16cdfc28.md) |
 | `hackage_top_downloads-e78afc887a5da5` | calamity | [open](records/haskell-calamity-7fdcad11.md) |
@@ -12659,6 +12863,7 @@
 | `hackage_top_downloads-e8caf67356dc30` | incremental-parser | [open](records/haskell-incremental-parser-f69d6041.md) |
 | `hackage_top_downloads-e8e06a8dbe0188` | hsexif | [open](records/haskell-hsexif-9ebcb7b1.md) |
 | `hackage_top_downloads-e8e4b7d20248cd` | rest-core | [open](records/haskell-rest-core-a6339c70.md) |
+| `hackage_top_downloads-e94b88096271ee` | ihaskell-hvega | [open](records/haskell-ihaskell-hvega-f9d2bf54.md) |
 | `hackage_top_downloads-e96fef15488e1e` | bluefin | [open](records/haskell-bluefin-ca9dd322.md) |
 | `hackage_top_downloads-e99035925dadc3` | serialport | [open](records/haskell-serialport-c2e6214a.md) |
 | `hackage_top_downloads-e9c1d8223cd51d` | antiope-sqs | [open](records/haskell-antiope-sqs-1c2fe3a2.md) |
@@ -12691,9 +12896,11 @@
 | `hackage_top_downloads-ee3255efab7376` | time-manager | [open](records/haskell-time-manager-bdfdb062.md) |
 | `hackage_top_downloads-ee9e2e2331980e` | cabal-rpm | [open](records/haskell-cabal-rpm-f9343ee9.md) |
 | `hackage_top_downloads-eea39cdd6a7695` | GLFW-b | [open](records/haskell-glfw-b-3d4d58ab.md) |
+| `hackage_top_downloads-eeaeea44573f8e` | polysemy-test | [open](records/haskell-polysemy-test-c2be84ef.md) |
 | `hackage_top_downloads-eedb21d81e1a9e` | yesod-auth-oauth2 | [open](records/haskell-yesod-auth-oauth2-62200243.md) |
 | `hackage_top_downloads-eedc4cbb1cf4f5` | lackey | [open](records/haskell-lackey-fb40410e.md) |
 | `hackage_top_downloads-efc64c55f6b984` | authenticate-oauth | [open](records/haskell-authenticate-oauth-8820e0d6.md) |
+| `hackage_top_downloads-efd1762c1263b1` | dhall-bash | [open](records/haskell-dhall-bash-7d552040.md) |
 | `hackage_top_downloads-f045cea013fc52` | hsc3 | [open](records/haskell-hsc3-e86ea7a3.md) |
 | `hackage_top_downloads-f050a22d629e2a` | prednote | [open](records/haskell-prednote-3691ee83.md) |
 | `hackage_top_downloads-f08d91766bff13` | transient | [open](records/haskell-transient-c89f21cb.md) |
@@ -12709,6 +12916,7 @@
 | `hackage_top_downloads-f21f89465fe715` | clash-ghc | [open](records/haskell-clash-ghc-ceb2a556.md) |
 | `hackage_top_downloads-f29dafff16adc1` | bytestring | [open](records/haskell-bytestring-38df8b50.md) |
 | `hackage_top_downloads-f2ccb3d32605e5` | utf8-string | [open](records/haskell-utf8-string-c33ae58d.md) |
+| `hackage_top_downloads-f2e2bec3567181` | aws-lambda-haskell-runtime | [open](records/haskell-aws-lambda-haskell-runtime-33ac5842.md) |
 | `hackage_top_downloads-f3294dbfd1d77d` | cabal2nix | [open](records/haskell-cabal2nix-b41005cb.md) |
 | `hackage_top_downloads-f3fec80def708e` | plugins | [open](records/haskell-plugins-1103fc5c.md) |
 | `hackage_top_downloads-f40f3d5879381e` | ansi-terminal-game | [open](records/haskell-ansi-terminal-game-a0833edf.md) |
@@ -12722,6 +12930,7 @@
 | `hackage_top_downloads-f5541160ca1173` | tmp-postgres | [open](records/haskell-tmp-postgres-a3d9fc1b.md) |
 | `hackage_top_downloads-f5bc94df6410d5` | one-liner | [open](records/haskell-one-liner-410c9444.md) |
 | `hackage_top_downloads-f5e361b5b8a04b` | cabal2arch | [open](records/haskell-cabal2arch-eec90b00.md) |
+| `hackage_top_downloads-f5eddf3d3608f9` | polysemy-log-co | [open](records/haskell-polysemy-log-co-dd34e738.md) |
 | `hackage_top_downloads-f6093d77670ee4` | stm-hamt | [open](records/haskell-stm-hamt-c6154f90.md) |
 | `hackage_top_downloads-f6c26037ec91af` | reanimate-svg | [open](records/haskell-reanimate-svg-de6ded56.md) |
 | `hackage_top_downloads-f6e02739e68cca` | influxdb | [open](records/haskell-influxdb-0b88f69b.md) |
@@ -12740,6 +12949,7 @@
 | `hackage_top_downloads-fa7b270ac0ad71` | stratosphere | [open](records/haskell-stratosphere-6fdf30e9.md) |
 | `hackage_top_downloads-fa7d5bb8f51be8` | wyvern-diagrams | [open](records/haskell-wyvern-diagrams-ee8b93bc.md) |
 | `hackage_top_downloads-fa85deb5a1dfe7` | http-client | [open](records/haskell-http-client-33254f6a.md) |
+| `hackage_top_downloads-fac8db23943a96` | rest-snap | [open](records/haskell-rest-snap-89a5c103.md) |
 | `hackage_top_downloads-fae972bd9a5b08` | gi-gtk | [open](records/haskell-gi-gtk-11df0ffb.md) |
 | `hackage_top_downloads-fb19f71846c2c4` | fltkhs | [open](records/haskell-fltkhs-d6079f23.md) |
 | `hackage_top_downloads-fb3073a750ee09` | pgdl | [open](records/haskell-pgdl-6b04d821.md) |
@@ -12755,6 +12965,7 @@
 | `hackage_top_downloads-fcd56e1f7e07ed` | composite-ekg | [open](records/haskell-composite-ekg-b61833d1.md) |
 | `hackage_top_downloads-fce357b3f65b4a` | unix-bytestring | [open](records/haskell-unix-bytestring-51f87c48.md) |
 | `hackage_top_downloads-fce87ca3263390` | dl-fedora | [open](records/haskell-dl-fedora-c9a9e9ea.md) |
+| `hackage_top_downloads-fcf7e62af72fe9` | table-layout | [open](records/haskell-table-layout-976bcbcc.md) |
 | `hackage_top_downloads-fd2e8932ff8528` | elynx-markov | [open](records/haskell-elynx-markov-09f06d0e.md) |
 | `hackage_top_downloads-fd3755c5d787cf` | tasty-dejafu | [open](records/haskell-tasty-dejafu-32431045.md) |
 | `hackage_top_downloads-fd688e58bcd64a` | haskell-lsp | [open](records/haskell-haskell-lsp-04b985b1.md) |
@@ -12762,6 +12973,7 @@
 | `hackage_top_downloads-fd9bbb0be77976` | language-javascript | [open](records/haskell-language-javascript-4e899615.md) |
 | `hackage_top_downloads-fdc40c00aebbf0` | gi-gst | [open](records/haskell-gi-gst-7f172659.md) |
 | `hackage_top_downloads-fdca816bd73ab5` | ghc | [open](records/haskell-ghc-8342aedc.md) |
+| `hackage_top_downloads-fdf4631c52d531` | lapack | [open](records/haskell-lapack-91d0781a.md) |
 | `hackage_top_downloads-fdfadc3ee3187d` | wx | [open](records/haskell-wx-accf9216.md) |
 | `hackage_top_downloads-fe016bd30d7e50` | glib | [open](records/haskell-glib-a57c79d0.md) |
 | `hackage_top_downloads-fe9ed49dcc4a04` | http2-client | [open](records/haskell-http2-client-0455174f.md) |
@@ -17215,6 +17427,7 @@
 | `npm_registry-04d6746ac6229c` | @vue/server-renderer | [open](records/node-js-javascript-vue-server-renderer-b47ab9e0.md) |
 | `npm_registry-04eba36dbd1b9c` | bootstrap.native | [open](records/node-js-typescript-bootstrap-native-527c3847.md) |
 | `npm_registry-052a93f7e324a9` | @opentelemetry/instrumentation-pg | [open](records/node-js-javascript-opentelemetry-instrumentation-pg-28a4d0f9.md) |
+| `npm_registry-0553be7d785aa7` | @use-voltra/server | [open](records/node-js-javascript-use-voltra-server-0e9559b5.md) |
 | `npm_registry-057f61b363ab08` | @eslint/config-inspector | [open](records/node-js-javascript-eslint-config-inspector-e9d360f4.md) |
 | `npm_registry-05becf67480bf0` | @fluid-tools/build-cli | [open](records/node-js-javascript-fluid-tools-build-cli-9572bf5e.md) |
 | `npm_registry-062b4b0a0e01fc` | prettier-plugin-kotlin | [open](records/node-js-javascript-prettier-plugin-kotlin-94e74bc9.md) |
@@ -17805,6 +18018,7 @@
 | `npm_registry-3b1589bb9e8808` | harden-react-markdown | [open](records/node-js-javascript-harden-react-markdown-446ce01b.md) |
 | `npm_registry-3b5335bf048b87` | @sap/hana-database-explorer | [open](records/node-js-javascript-sap-hana-database-explorer-afd40f71.md) |
 | `npm_registry-3b7baddef33f3f` | tiny-worker | [open](records/node-js-javascript-tiny-worker-6925212f.md) |
+| `npm_registry-3b90ed9f83343d` | @types/geojson | [open](records/node-js-typescript-types-geojson-32879780.md) |
 | `npm_registry-3b9d527e59a934` | text-security | [open](records/node-js-javascript-text-security-c86f8ecf.md) |
 | `npm_registry-3ba7778edc9ea1` | ember-cli-flash | [open](records/node-js-javascript-ember-cli-flash-ebbe6400.md) |
 | `npm_registry-3ba87ec7188d93` | eslint-plugin-react-server-components | [open](records/node-js-javascript-eslint-plugin-react-server-components-4e9aa017.md) |
@@ -18372,6 +18586,7 @@
 | `npm_registry-716bf1365a3a02` | eslint-plugin-react-debug | [open](records/node-js-javascript-eslint-plugin-react-debug-169f2498.md) |
 | `npm_registry-71996520d765a5` | hasura-cli | [open](records/node-js-javascript-hasura-cli-57d5f1d7.md) |
 | `npm_registry-71c1b54bfa27b4` | lodash.last | [open](records/node-js-javascript-lodash-last-0dafa18e.md) |
+| `npm_registry-7204f283382240` | @akbarsafari00/bonyan-database | [open](records/node-js-javascript-akbarsafari00-bonyan-database-1d8beae5.md) |
 | `npm_registry-7206a189a87721` | fresh | [open](records/node-js-javascript-fresh-e4b0551f.md) |
 | `npm_registry-72110f69b7ea57` | @percy/cli-exec | [open](records/node-js-javascript-percy-cli-exec-36de9cf7.md) |
 | `npm_registry-721be916adf181` | @eslint/plugin-kit | [open](records/node-js-javascript-eslint-plugin-kit-c452375b.md) |
@@ -18526,6 +18741,7 @@
 | `npm_registry-8143a8742401dc` | @wdio/logger | [open](records/node-js-javascript-wdio-logger-c2188cae.md) |
 | `npm_registry-816de57506d800` | @temporalio/testing | [open](records/node-js-javascript-temporalio-testing-01a9b62c.md) |
 | `npm_registry-8178cf4bb1adbd` | @sitecore-content-sdk/cli | [open](records/node-js-javascript-sitecore-content-sdk-cli-681aeaba.md) |
+| `npm_registry-8178f7f0ad1912` | @launchdarkly/node-server-sdk-dynamodb | [open](records/node-js-javascript-launchdarkly-node-server-sdk-dynamodb-3fac3645.md) |
 | `npm_registry-81904e081b98d5` | typescript-strict-plugin | [open](records/node-js-typescript-typescript-strict-plugin-9bc12807.md) |
 | `npm_registry-81a556b667d88a` | @types/babel__generator | [open](records/node-js-typescript-types-babel-generator-81cbab8e.md) |
 | `npm_registry-81a7812f93acf6` | @trpc/server | [open](records/node-js-javascript-trpc-server-02b69ad5.md) |
@@ -18877,6 +19093,7 @@
 | `npm_registry-a183706153e6e3` | @libp2p/http | [open](records/node-js-javascript-libp2p-http-0bfb4b2b.md) |
 | `npm_registry-a1a1ea8698959a` | @styled/typescript-styled-plugin | [open](records/node-js-typescript-styled-typescript-styled-plugin-fade40b5.md) |
 | `npm_registry-a1d3027ad775ee` | eslint-plugin-safe-kysely | [open](records/node-js-javascript-eslint-plugin-safe-kysely-27d31db5.md) |
+| `npm_registry-a1fe076606b36b` | trpc-ui | [open](records/node-js-javascript-trpc-ui-7118f8c9.md) |
 | `npm_registry-a21022d92c4f76` | @netlify/cache-utils | [open](records/node-js-javascript-netlify-cache-utils-2f27260e.md) |
 | `npm_registry-a2145f98c8e7dc` | @devcycle/nodejs-server-sdk | [open](records/node-js-javascript-devcycle-nodejs-server-sdk-6fb5776e.md) |
 | `npm_registry-a2193ec1f2b6d7` | @better-typescript-lib/es2023 | [open](records/node-js-typescript-better-typescript-lib-es2023-b15e1f94.md) |
@@ -19290,6 +19507,7 @@
 | `npm_registry-ca6d7b671b8f20` | @grafana/eslint-config | [open](records/node-js-javascript-grafana-eslint-config-747f65e6.md) |
 | `npm_registry-ca8a2b4da2fa2d` | father-build | [open](records/node-js-javascript-father-build-278250d6.md) |
 | `npm_registry-caee462e7681eb` | @walletconnect/http-connection | [open](records/node-js-javascript-walletconnect-http-connection-adb0832c.md) |
+| `npm_registry-caf4bf3a8436a5` | isomorphic-timers-promises | [open](records/node-js-javascript-isomorphic-timers-promises-cc52742d.md) |
 | `npm_registry-cb1c84fea86d1c` | prettier-plugin-tailwindcss-canonical-classes | [open](records/node-js-javascript-prettier-plugin-tailwindcss-canonical-classes-d83bff4c.md) |
 | `npm_registry-cb330a7c09a248` | @graphql-codegen/typescript | [open](records/node-js-typescript-graphql-codegen-typescript-5cacdebe.md) |
 | `npm_registry-cb3a23c3e81045` | @knocklabs/cli | [open](records/node-js-javascript-knocklabs-cli-62154908.md) |
@@ -20644,6 +20862,7 @@
 | `pub_dev-17189017be2374` | shelf | [open](records/dart-shelf-418952dd.md) |
 | `pub_dev-174c7eefce95e4` | dlibphonenumber | [open](records/dart-dlibphonenumber-fca8a84d.md) |
 | `pub_dev-174d6f06c0f2b0` | wakelock_plus | [open](records/dart-wakelock-plus-6f9dd55a.md) |
+| `pub_dev-17a09c72abbe64` | ffmpeg_kit_flutter_new | [open](records/dart-ffmpeg-kit-flutter-new-e600e8b3.md) |
 | `pub_dev-17afd4498faca8` | built_value | [open](records/dart-built-value-97fbb3d3.md) |
 | `pub_dev-188bc52c5be262` | audio_session | [open](records/dart-audio-session-d63e9aca.md) |
 | `pub_dev-18cfa11c78feb8` | oauth2 | [open](records/dart-oauth2-d6aceeb7.md) |
@@ -20652,6 +20871,7 @@
 | `pub_dev-1b2d546b9c246e` | clipboard | [open](records/dart-clipboard-4496640a.md) |
 | `pub_dev-1b3356098886ba` | stop_watch_timer | [open](records/dart-stop-watch-timer-ab4a5380.md) |
 | `pub_dev-1baf048b644b46` | cli_completion | [open](records/dart-cli-completion-ce0d62f2.md) |
+| `pub_dev-1c614a13b87ff1` | custom_lint | [open](records/dart-custom-lint-a4c140cd.md) |
 | `pub_dev-1c7ed88c044e6d` | another_flushbar | [open](records/dart-another-flushbar-37336a0b.md) |
 | `pub_dev-1cf1087d274c96` | zxing2 | [open](records/dart-zxing2-1aa8948b.md) |
 | `pub_dev-1d206976d0d2e7` | emoji_picker_flutter | [open](records/dart-emoji-picker-flutter-d4ec46ba.md) |
@@ -20693,6 +20913,7 @@
 | `pub_dev-2985c87e74c27c` | jose | [open](records/dart-jose-db6e5c50.md) |
 | `pub_dev-29dd7cadb3675a` | slang | [open](records/dart-slang-f760648f.md) |
 | `pub_dev-29f05dd3503978` | scaled_app | [open](records/dart-scaled-app-83e99a29.md) |
+| `pub_dev-2a14eb1380c52c` | installed_apps | [open](records/dart-installed-apps-23c31879.md) |
 | `pub_dev-2a2147f1201aba` | shamsi_date | [open](records/dart-shamsi-date-34466f5e.md) |
 | `pub_dev-2a48b6f56e25ac` | flutter_keychain | [open](records/dart-flutter-keychain-1114ea7d.md) |
 | `pub_dev-2aa2788861d0af` | flag | [open](records/dart-flag-b191281d.md) |
@@ -20922,6 +21143,7 @@
 | `pub_dev-78ed97e15d24b5` | signals | [open](records/dart-signals-615e82a1.md) |
 | `pub_dev-7967cac117d38a` | fimber | [open](records/dart-fimber-7a3085d6.md) |
 | `pub_dev-7996ac767fb9ad` | scoped_model | [open](records/dart-scoped-model-40d20a21.md) |
+| `pub_dev-7a4a8bcd535552` | internet_connection_checker_plus | [open](records/dart-internet-connection-checker-plus-8a2fce34.md) |
 | `pub_dev-7a686b47286f1b` | flutter_bloc | [open](records/dart-flutter-bloc-8878cc64.md) |
 | `pub_dev-7ae560a2f02d09` | purchases_ui_flutter | [open](records/dart-purchases-ui-flutter-327852a3.md) |
 | `pub_dev-7b2c55898638b2` | hotreloader | [open](records/dart-hotreloader-3a9c783b.md) |
@@ -20971,6 +21193,7 @@
 | `pub_dev-8de1287c062ecb` | home_widget | [open](records/dart-home-widget-2e919e24.md) |
 | `pub_dev-8e9fad828c88cb` | haptic_feedback | [open](records/dart-haptic-feedback-8728a0cb.md) |
 | `pub_dev-8ed3ed38ea5b45` | google_api_availability | [open](records/dart-google-api-availability-b4b6739c.md) |
+| `pub_dev-8f8e1054fce877` | cryptography | [open](records/dart-cryptography-262b11cd.md) |
 | `pub_dev-8fb708f42bbf68` | wolt_modal_sheet | [open](records/dart-wolt-modal-sheet-b359d7ff.md) |
 | `pub_dev-904b43938137fb` | flutter_widget_from_html_core | [open](records/dart-flutter-widget-from-html-core-326a4f17.md) |
 | `pub_dev-91335d08b1e4d2` | progressive_blur | [open](records/dart-progressive-blur-22370531.md) |
@@ -21027,6 +21250,8 @@
 | `pub_dev-9dacb6061c792a` | native_dio_adapter | [open](records/dart-native-dio-adapter-36a2a5ca.md) |
 | `pub_dev-9dc7a7eb0e440f` | mobx | [open](records/dart-mobx-3afe582d.md) |
 | `pub_dev-9e64a1c0edafdb` | objectbox | [open](records/dart-objectbox-5043af58.md) |
+| `pub_dev-9e6ad69eebb18f` | better_player_plus | [open](records/dart-better-player-plus-f2e721c7.md) |
+| `pub_dev-9e7a491e9d8d0b` | pasteboard | [open](records/dart-pasteboard-fc86cbcb.md) |
 | `pub_dev-9e8eb42303c307` | more | [open](records/dart-more-f3092b4e.md) |
 | `pub_dev-9eaab84e80c79e` | mocktail | [open](records/dart-mocktail-0f6c34ef.md) |
 | `pub_dev-9ec8d37ff34b46` | dart_mappable | [open](records/dart-dart-mappable-7baa0923.md) |
@@ -21069,6 +21294,7 @@
 | `pub_dev-ac40d8735a0bc4` | extension_google_sign_in_as_googleapis_auth | [open](records/dart-extension-google-sign-in-as-googleapis-auth-f3388a7b.md) |
 | `pub_dev-ac565d1abec683` | flutter_rust_bridge | [open](records/dart-flutter-rust-bridge-2c8c964c.md) |
 | `pub_dev-ac799a2cdc2a43` | completion | [open](records/dart-completion-9bd312cb.md) |
+| `pub_dev-ace2283f8e9081` | get | [open](records/dart-get-e3ee2ea4.md) |
 | `pub_dev-ad833d1f752c3f` | flutter_blurhash | [open](records/dart-flutter-blurhash-9f17cd53.md) |
 | `pub_dev-aed87c64ba9e2f` | phone_state | [open](records/dart-phone-state-a05f01ce.md) |
 | `pub_dev-af9d91b39a8ae8` | flutter_contacts | [open](records/dart-flutter-contacts-06b4e09a.md) |
@@ -21144,6 +21370,7 @@
 | `pub_dev-c7c42bc2a48723` | dots_indicator | [open](records/dart-dots-indicator-d2a61ac9.md) |
 | `pub_dev-c7ed08afc71c0f` | super_tooltip | [open](records/dart-super-tooltip-f56943ac.md) |
 | `pub_dev-c7ff5a000b7746` | shelf_router | [open](records/dart-shelf-router-963492ce.md) |
+| `pub_dev-c8e9a9ee32286c` | file_saver | [open](records/dart-file-saver-af793c1e.md) |
 | `pub_dev-c90d082c49bf7c` | lints | [open](records/dart-lints-423e1c89.md) |
 | `pub_dev-c92850d13fc697` | queue | [open](records/dart-queue-31aae422.md) |
 | `pub_dev-c96ba8d080816c` | animate_do | [open](records/dart-animate-do-4140f3b7.md) |
@@ -21155,6 +21382,7 @@
 | `pub_dev-caeb220a8666c5` | powersync | [open](records/dart-powersync-6dce0081.md) |
 | `pub_dev-cb0b998063c046` | cross_file | [open](records/dart-cross-file-7027fd13.md) |
 | `pub_dev-cb92419700ac08` | liquid_glass_easy | [open](records/dart-liquid-glass-easy-9878fe8a.md) |
+| `pub_dev-cbd1f703c89196` | purchases_flutter | [open](records/dart-purchases-flutter-f414c649.md) |
 | `pub_dev-cdabcd87562be8` | signature | [open](records/dart-signature-3293e04c.md) |
 | `pub_dev-ce81cbcb159808` | boxy | [open](records/dart-boxy-4369854b.md) |
 | `pub_dev-ce8e7ee0b72520` | csv | [open](records/dart-csv-ced97579.md) |
@@ -21163,6 +21391,7 @@
 | `pub_dev-cff4b061473b46` | keyboard_dismisser | [open](records/dart-keyboard-dismisser-fef62632.md) |
 | `pub_dev-d02b56907849cb` | extended_masked_text | [open](records/dart-extended-masked-text-6f73ae07.md) |
 | `pub_dev-d06c231494fcd3` | showcaseview | [open](records/dart-showcaseview-0f397506.md) |
+| `pub_dev-d0a7c06da993bd` | syncfusion_flutter_core | [open](records/dart-syncfusion-flutter-core-028b51a1.md) |
 | `pub_dev-d105283c5f5ec6` | flutter_gemma | [open](records/dart-flutter-gemma-9a6dbd9b.md) |
 | `pub_dev-d11ccd38c50b2c` | webview_flutter_plus | [open](records/dart-webview-flutter-plus-cc041bef.md) |
 | `pub_dev-d18689044b4246` | inview_notifier_list | [open](records/dart-inview-notifier-list-35c6c1d7.md) |
@@ -21202,8 +21431,10 @@
 | `pub_dev-da798c7b7f1791` | flutter_animate | [open](records/dart-flutter-animate-680cfc40.md) |
 | `pub_dev-db1d0161871e01` | popover | [open](records/dart-popover-71635d2c.md) |
 | `pub_dev-db58c8600508b3` | nested | [open](records/dart-nested-832b721c.md) |
+| `pub_dev-dc92f4d9b096aa` | syncfusion_flutter_charts | [open](records/dart-syncfusion-flutter-charts-053e31ff.md) |
 | `pub_dev-dd418094780821` | sidebarx | [open](records/dart-sidebarx-36995d2c.md) |
 | `pub_dev-dd99cf9eb168a2` | appinio_swiper | [open](records/dart-appinio-swiper-82166c51.md) |
+| `pub_dev-de0db61de8b348` | get_it | [open](records/dart-get-it-db7ae310.md) |
 | `pub_dev-de962477f61546` | mongo_dart | [open](records/dart-mongo-dart-2703015a.md) |
 | `pub_dev-dee6f054839b52` | sign_in_button | [open](records/dart-sign-in-button-f2011f46.md) |
 | `pub_dev-deef1a29c52ec7` | easy_stepper | [open](records/dart-easy-stepper-59c82811.md) |
@@ -21214,9 +21445,11 @@
 | `pub_dev-e0aff45c9a2979` | cookie_jar | [open](records/dart-cookie-jar-15d415a7.md) |
 | `pub_dev-e0f97b8f3e8808` | time | [open](records/dart-time-5710b74e.md) |
 | `pub_dev-e0feeea07825bf` | flutter_flavorizr | [open](records/dart-flutter-flavorizr-6e166bc8.md) |
+| `pub_dev-e11342a8df7a00` | serverpod | [open](records/dart-serverpod-0a3f0ad3.md) |
 | `pub_dev-e126591435afb7` | socket_io_client | [open](records/dart-socket-io-client-86cc0b29.md) |
 | `pub_dev-e18156cac413a7` | html_unescape | [open](records/dart-html-unescape-8c54a750.md) |
 | `pub_dev-e1a7aa73b16dd9` | flutter_calendar_carousel | [open](records/dart-flutter-calendar-carousel-db33e07d.md) |
+| `pub_dev-e1be6af4068b5f` | drift | [open](records/dart-drift-2c8ff8ba.md) |
 | `pub_dev-e20fad69ed9451` | desktop_webview_window | [open](records/dart-desktop-webview-window-7445595d.md) |
 | `pub_dev-e2470a6b5ae2ce` | go_router_builder | [open](records/dart-go-router-builder-3e19193c.md) |
 | `pub_dev-e24ec75e3d537f` | mesh | [open](records/dart-mesh-85cfe4ca.md) |
@@ -21249,6 +21482,7 @@
 | `pub_dev-ef5a948c0de085` | group_button | [open](records/dart-group-button-f8cec6c4.md) |
 | `pub_dev-efbdf819af415e` | flutter_card_swiper | [open](records/dart-flutter-card-swiper-b126e3d6.md) |
 | `pub_dev-efc190b16667a0` | swipe_image_gallery | [open](records/dart-swipe-image-gallery-53a5284f.md) |
+| `pub_dev-f01e52bc35248a` | git | [open](records/dart-git-ae3ce986.md) |
 | `pub_dev-f0ea963ed1fd27` | forui | [open](records/dart-forui-6e421179.md) |
 | `pub_dev-f0fb11f50a07d8` | strings | [open](records/dart-strings-333d042d.md) |
 | `pub_dev-f0fbdf9d260b4b` | flutter_zxing | [open](records/dart-flutter-zxing-a58545cd.md) |
@@ -21268,6 +21502,7 @@
 | `pub_dev-f7a0d1f88cb3bb` | blurrycontainer | [open](records/dart-blurrycontainer-d85ac9dc.md) |
 | `pub_dev-f8ce62b9da1d8d` | adaptive_action_sheet | [open](records/dart-adaptive-action-sheet-a034d505.md) |
 | `pub_dev-f8f6d02859ae45` | math_expressions | [open](records/dart-math-expressions-fae133ac.md) |
+| `pub_dev-f99a1d7d5aa9cf` | screenshot | [open](records/dart-screenshot-1783622b.md) |
 | `pub_dev-f99edd2a2b5bf9` | page_transition | [open](records/dart-page-transition-335c2aec.md) |
 | `pub_dev-f9b483f38f7a56` | mailto | [open](records/dart-mailto-cb9893e5.md) |
 | `pub_dev-fa01fc9b91fa8f` | crop_your_image | [open](records/dart-crop-your-image-b15fdf42.md) |
@@ -21291,6 +21526,7 @@
 | `pub_dev-fea1a7f954b5ef` | geocoding | [open](records/dart-geocoding-5696dc4a.md) |
 | `pub_dev-ff327161bc9f26` | grpc | [open](records/dart-grpc-b233bbd9.md) |
 | `pub_dev-ffbf6bfe1995ee` | flutter_box_transform | [open](records/dart-flutter-box-transform-16ba1d97.md) |
+| `pub_dev-fff117860fd124` | flutter_smart_dialog | [open](records/dart-flutter-smart-dialog-db5844a9.md) |
 | `pypi_simple-00d0e6eae577c9` | aaznutii-messenger-client | [open](records/python-aaznutii-messenger-client-96b3195f.md) |
 | `pypi_simple-01615f3b14455a` | acryl-datahub-airflow-plugin-hcc-clean | [open](records/python-acryl-datahub-airflow-plugin-hcc-clean-6369e09d.md) |
 | `pypi_simple-01f553469e844d` | acclimatise | [open](records/python-acclimatise-ce4f3750.md) |

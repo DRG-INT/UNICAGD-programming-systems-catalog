@@ -1,6 +1,6 @@
 # Logging Observability
 
-Records: `381`
+Records: `385`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `381`
 
 ## Category Index
 
-[Api Abi Checker (176)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (121)](async-runtime.md)
-[Benchmarking (108)](benchmarking.md) · [Build System (790)](build-system.md) · [Cli (491)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (81)](community-reference.md) · [Compiler (157)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (44)](compression.md)
-[Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (96)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (682)](database-datastore.md) · [Datetime (156)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (80)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1139)](filesystem-os.md) · [Formatter (535)](formatter.md)
-[Framework (46)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (139)](game-engine-game-dev.md) · [Ide Editor Integration (1104)](ide-editor-integration.md)
-[Image Audio Dsp (290)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1220)](language-specification.md) · [Library (4683)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (345)](linter.md) · **[Logging Observability (381)](logging-observability.md)** · [Machine Learning (557)](machine-learning.md)
-[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (897)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (254)](package-manager.md) · [Parser Lexer Ast (888)](parser-lexer-ast.md) · [Precommit Ci Quality (254)](precommit-ci-quality.md)
-[Profiler (67)](profiler.md) · [Project Scaffolding (117)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (308)](security-sast.md) · [Serialization (364)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (422)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (488)](testing-framework.md) · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (283)](type-checker.md)
-[Undefined Behavior Analyzer (1353)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (405)](visualization-gui.md) · [Web Framework (380)](web-framework.md)
+[Api Abi Checker (179)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (122)](async-runtime.md)
+[Benchmarking (109)](benchmarking.md) · [Build System (802)](build-system.md) · [Cli (491)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (83)](community-reference.md) · [Compiler (159)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+[Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (97)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (154)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (687)](database-datastore.md) · [Datetime (157)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (82)](dependency-manager.md) · [Documentation (79)](documentation.md)
+[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (379)](ffi-bindings.md) · [Filesystem Os (1159)](filesystem-os.md) · [Formatter (541)](formatter.md)
+[Framework (46)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (152)](game-engine-game-dev.md) · [Ide Editor Integration (1114)](ide-editor-integration.md)
+[Image Audio Dsp (292)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (227)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1221)](language-specification.md) · [Library (4746)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (346)](linter.md) · **[Logging Observability (385)](logging-observability.md)** · [Machine Learning (568)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (904)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (260)](package-manager.md) · [Parser Lexer Ast (893)](parser-lexer-ast.md) · [Precommit Ci Quality (259)](precommit-ci-quality.md)
+[Profiler (68)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (311)](security-sast.md) · [Serialization (367)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (424)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (492)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (286)](type-checker.md)
+[Undefined Behavior Analyzer (1360)](undefined-behavior-analyzer.md) · [Utility Library (92)](utility-library.md) · [Visualization Gui (412)](visualization-gui.md) · [Web Framework (386)](web-framework.md)
 
 ## C99
 
@@ -281,6 +281,7 @@ Records: `381`
 | rcatfish | 1.0.5 | 2026-08-20 10:30:02 UTC | [open](../records/r-rcatfish-1590ad35.md) |
 | resemble | 3.0.1 | 2026-08-31 16:30:02 UTC | [open](../records/r-resemble-e664c62d.md) |
 | RPesto | 0.1.5 | 2026-08-04 00:10:02 UTC | [open](../records/r-rpesto-b896b7d5.md) |
+| Ruido | 1.1.0 | 2026-09-01 23:00:02 UTC | [open](../records/r-ruido-8640bf30.md) |
 | SLGP | 1.1.0 | 2026-08-21 23:40:02 UTC | [open](../records/r-slgp-66ec205d.md) |
 | tidygedcom | 0.2.0 | 2026-09-01 08:50:08 UTC | [open](../records/r-tidygedcom-43e8e561.md) |
 | TKCat | 1.2.3 | 2026-08-20 13:02:12 UTC | [open](../records/r-tkcat-7e744a91.md) |
@@ -296,6 +297,7 @@ Records: `381`
 | casr-logbook | 0.7.2 | 2025-05-30T00:04:20Z | [open](../records/haskell-casr-logbook-9fe3c9ac.md) |
 | co-log | 0.7.0.0 | 2025-04-06T15:04:40Z | [open](../records/haskell-co-log-55f5df31.md) |
 | co-log-core | 0.3.2.7 | 2026-05-27T15:26:39Z | [open](../records/haskell-co-log-core-a63fd83a.md) |
+| hslogger | 1.3.2.0 | 2025-08-31T04:37:46Z | [open](../records/haskell-hslogger-134b1e63.md) |
 | log-domain | 0.13.2 | 2021-11-16T01:43:03Z | [open](../records/haskell-log-domain-0b40df0a.md) |
 | log-warper | 1.9.0 | 2020-03-04T18:50:32Z | [open](../records/haskell-log-warper-e0ca6ea7.md) |
 | logfloat | 0.14.0.2 | 2026-02-28T23:39:53Z | [open](../records/haskell-logfloat-ecb44e29.md) |
@@ -303,6 +305,7 @@ Records: `381`
 | logict | 0.8.2.0 | 2024-11-13T23:10:32Z | [open](../records/haskell-logict-915a27ee.md) |
 | monad-logger | 0.3.42 | 2025-03-10T08:59:44Z | [open](../records/haskell-monad-logger-05ede053.md) |
 | polysemy-log | 0.11.2.0 | 2026-05-03T11:32:32Z | [open](../records/haskell-polysemy-log-12f342fb.md) |
+| polysemy-log-co | 0.11.2.0 | 2026-05-03T11:32:33Z | [open](../records/haskell-polysemy-log-co-dd34e738.md) |
 | wai-logger | 2.5.0 | 2024-10-11T08:25:29Z | [open](../records/haskell-wai-logger-12c9d42e.md) |
 
 ## Octave
@@ -349,6 +352,7 @@ Records: `381`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| raphaelhanneken/iconizer | partial | 2023-05-23T19:05:30Z | [open](../records/assets-raphaelhanneken-iconizer-867b9d26.md) |
 | unjs/fontaine | partial | 2026-09-01T03:58:50Z | [open](../records/assets-unjs-fontaine-adf8d9fd.md) |
 | vorillaz/devicons | partial | 2026-05-10T21:43:36Z | [open](../records/assets-vorillaz-devicons-ab704e06.md) |
 

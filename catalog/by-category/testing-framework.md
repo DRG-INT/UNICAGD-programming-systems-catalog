@@ -1,6 +1,6 @@
 # Testing Framework
 
-Records: `488`
+Records: `492`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `488`
 
 ## Category Index
 
-[Api Abi Checker (176)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (121)](async-runtime.md)
-[Benchmarking (108)](benchmarking.md) · [Build System (790)](build-system.md) · [Cli (491)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (81)](community-reference.md) · [Compiler (157)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (44)](compression.md)
-[Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (96)](configuration.md) · [Container Deployment (8)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (153)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (682)](database-datastore.md) · [Datetime (156)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (80)](dependency-manager.md) · [Documentation (77)](documentation.md)
-[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (376)](ffi-bindings.md) · [Filesystem Os (1139)](filesystem-os.md) · [Formatter (535)](formatter.md)
-[Framework (46)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (139)](game-engine-game-dev.md) · [Ide Editor Integration (1104)](ide-editor-integration.md)
-[Image Audio Dsp (290)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (223)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (26)](language-server.md) · [Language Specification (1220)](language-specification.md) · [Library (4683)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (345)](linter.md) · [Logging Observability (381)](logging-observability.md) · [Machine Learning (557)](machine-learning.md)
-[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (897)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (254)](package-manager.md) · [Parser Lexer Ast (888)](parser-lexer-ast.md) · [Precommit Ci Quality (254)](precommit-ci-quality.md)
-[Profiler (67)](profiler.md) · [Project Scaffolding (117)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (308)](security-sast.md) · [Serialization (364)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (422)](static-analyzer.md)
-[Templating (2)](templating.md) · **[Testing Framework (488)](testing-framework.md)** · [Tutorial Book Styleguide (52)](tutorial-book-styleguide.md) · [Type Checker (283)](type-checker.md)
-[Undefined Behavior Analyzer (1353)](undefined-behavior-analyzer.md) · [Utility Library (91)](utility-library.md) · [Visualization Gui (405)](visualization-gui.md) · [Web Framework (380)](web-framework.md)
+[Api Abi Checker (179)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (122)](async-runtime.md)
+[Benchmarking (109)](benchmarking.md) · [Build System (802)](build-system.md) · [Cli (491)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (83)](community-reference.md) · [Compiler (159)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+[Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (97)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (154)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (687)](database-datastore.md) · [Datetime (157)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (82)](dependency-manager.md) · [Documentation (79)](documentation.md)
+[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (379)](ffi-bindings.md) · [Filesystem Os (1159)](filesystem-os.md) · [Formatter (541)](formatter.md)
+[Framework (46)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (152)](game-engine-game-dev.md) · [Ide Editor Integration (1114)](ide-editor-integration.md)
+[Image Audio Dsp (292)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (227)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1221)](language-specification.md) · [Library (4746)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (385)](logging-observability.md) · [Machine Learning (568)](machine-learning.md)
+[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (904)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (260)](package-manager.md) · [Parser Lexer Ast (893)](parser-lexer-ast.md) · [Precommit Ci Quality (259)](precommit-ci-quality.md)
+[Profiler (68)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (311)](security-sast.md) · [Serialization (367)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (424)](static-analyzer.md)
+[Templating (2)](templating.md) · **[Testing Framework (492)](testing-framework.md)** · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (286)](type-checker.md)
+[Undefined Behavior Analyzer (1360)](undefined-behavior-analyzer.md) · [Utility Library (92)](utility-library.md) · [Visualization Gui (412)](visualization-gui.md) · [Web Framework (386)](web-framework.md)
 
 ## C99
 
@@ -354,7 +354,7 @@ Records: `488`
 | simple-is | 0.2.0 | 2013-04-21T10:46:51.962Z | [open](../records/node-js-javascript-simple-is-855ba6e7.md) |
 | solidity-coverage | 0.8.17 | 2025-12-11T04:58:23.497Z | [open](../records/node-js-javascript-solidity-coverage-cc68c521.md) |
 | start-server-and-test | 3.0.12 | 2026-08-01T10:38:13.536Z | [open](../records/node-js-javascript-start-server-and-test-e5a1c78e.md) |
-| storybook-addon-vis | 4.2.5 | 2026-09-01T22:04:09.298Z | [open](../records/node-js-javascript-storybook-addon-vis-c1befa36.md) |
+| storybook-addon-vis | 4.2.6 | 2026-09-01T22:17:23.845Z | [open](../records/node-js-javascript-storybook-addon-vis-c1befa36.md) |
 | supertest | 7.2.2 | 2026-01-06T09:26:26.119Z | [open](../records/node-js-javascript-supertest-54da63ec.md) |
 | system-testing | 1.0.133 | 2026-08-24T19:59:50.915Z | [open](../records/node-js-javascript-system-testing-fb3acaec.md) |
 | testcafe | 3.7.6 | 2026-07-07T10:59:13.356Z | [open](../records/node-js-javascript-testcafe-15e8e7ec.md) |
@@ -364,11 +364,12 @@ Records: `488`
 | testing-library-selector | 0.3.1 | 2023-10-10T08:40:46.255Z | [open](../records/node-js-javascript-testing-library-selector-38bf20ea.md) |
 | testing-library-table-queries | 0.5.0 | 2025-05-18T17:38:00.578Z | [open](../records/node-js-javascript-testing-library-table-queries-da107543.md) |
 | timekeeper | 2.3.1 | 2023-07-26T12:18:31.131Z | [open](../records/node-js-javascript-timekeeper-3f0058ec.md) |
+| trpc-ui | 1.0.15 | 2025-03-17T02:41:08.103Z | [open](../records/node-js-javascript-trpc-ui-7118f8c9.md) |
 | tstyche | 7.2.3 | 2026-08-22T04:38:27.089Z | [open](../records/node-js-javascript-tstyche-2294e4ce.md) |
 | twig-testing-library | 1.2.0 | 2021-07-01T10:17:13.788Z | [open](../records/node-js-javascript-twig-testing-library-e67a53c6.md) |
 | typeorm-seeding | 1.6.1 | 2020-04-18T08:20:24.669Z | [open](../records/node-js-javascript-typeorm-seeding-f4bd376c.md) |
 | Vitest | 4.1.11 | 2026-08-18T14:27:07.240Z | [open](../records/node-js-javascript-vitest-607c3650.md) |
-| vitest-plugin-vis | 5.1.2 | 2026-09-01T22:04:04.711Z | [open](../records/node-js-javascript-vitest-plugin-vis-a9cafa30.md) |
+| vitest-plugin-vis | 5.1.3 | 2026-09-01T22:17:18.882Z | [open](../records/node-js-javascript-vitest-plugin-vis-a9cafa30.md) |
 | weapon-regex | 2.0.4 | 2026-07-09T13:29:56.233Z | [open](../records/node-js-javascript-weapon-regex-83a675c2.md) |
 | ws | 8.21.3 | 2026-08-07T14:10:25.816Z | [open](../records/node-js-javascript-ws-ae579d60.md) |
 | zuul | 3.12.0 | 2018-05-31T20:11:21.447Z | [open](../records/node-js-javascript-zuul-f1122392.md) |
@@ -482,6 +483,7 @@ Records: `488`
 | distributed-process-tests | 0.5.2 | 2025-02-05T01:57:07Z | [open](../records/haskell-distributed-process-tests-fb4ba8e2.md) |
 | doctest | 0.25.0 | 2026-05-03T17:07:23Z | [open](../records/haskell-doctest-30d37480.md) |
 | hls-test-utils | 2.14.0.0 | 2026-04-27T06:48:04Z | [open](../records/haskell-hls-test-utils-92298e45.md) |
+| polysemy-test | 0.11.0.1 | 2026-04-27T14:41:34Z | [open](../records/haskell-polysemy-test-c2be84ef.md) |
 | shelltestrunner | 1.11 | 2025-11-18T08:57:22Z | [open](../records/haskell-shelltestrunner-fa7b5020.md) |
 | streaming-bytestring | 0.3.4 | 2025-02-11T09:33:05Z | [open](../records/haskell-streaming-bytestring-78cfcae5.md) |
 | sydtest | 0.29.0.0 | 2026-08-19T09:22:20Z | [open](../records/haskell-sydtest-4ee551d3.md) |
@@ -545,7 +547,9 @@ Records: `488`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | braver/programmingfonts | partial | 2026-08-30T17:46:59Z | [open](../records/assets-braver-programmingfonts-fb0cf6c0.md) |
+| fortitudo-tech/fortitudo.tech | partial | 2026-08-20T07:58:46Z | [open](../records/assets-fortitudo-tech-fortitudo-tech-d827e5a7.md) |
 | marcologous/Open-Sauce-Fonts | partial | 2026-05-11T21:22:36Z | [open](../records/assets-marcologous-open-sauce-fonts-5e251995.md) |
+| VanekPetr/investment-funnel | partial | 2026-09-01T02:14:40Z | [open](../records/assets-vanekpetr-investment-funnel-c0d50ba2.md) |
 
 ## Maps
 
@@ -667,8 +671,8 @@ Records: `488`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| invertase/react-native-firebase | partial | 2026-09-01T12:37:09Z | [open](../records/databases-invertase-react-native-firebase-bdf40bbb.md) |
-| netdata/netdata | partial | 2026-09-01T14:29:30Z | [open](../records/databases-netdata-netdata-c3fa5bcb.md) |
+| invertase/react-native-firebase | partial | 2026-09-01T19:26:27Z | [open](../records/databases-invertase-react-native-firebase-bdf40bbb.md) |
+| netdata/netdata | partial | 2026-09-02T00:23:09Z | [open](../records/databases-netdata-netdata-c3fa5bcb.md) |
 
 ## Repository Workplaces
 
