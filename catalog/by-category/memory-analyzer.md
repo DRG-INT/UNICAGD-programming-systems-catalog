@@ -130,10 +130,10 @@ Records: `85`
 | --- | --- | --- | --- |
 | asgeirtj/system_prompts_leaks | partial | 2026-09-01T20:12:45Z | [open](../records/aim-s-asgeirtj-system-prompts-leaks-c743049d.md) |
 | gitleaks/gitleaks | partial | 2026-08-26T04:17:05Z | [open](../records/aim-s-gitleaks-gitleaks-942f477b.md) |
-| mem0ai/mem0 | partial | 2026-09-02T11:51:31Z | [open](../records/aim-s-mem0ai-mem0-1e2f6f8a.md) |
+| mem0ai/mem0 | partial | 2026-09-02T13:19:10Z | [open](../records/aim-s-mem0ai-mem0-1e2f6f8a.md) |
 | MemPalace/mempalace | partial | 2026-09-02T00:28:43Z | [open](../records/aim-s-mempalace-mempalace-24dc978a.md) |
-| vllm-project/vllm | partial | 2026-09-02T11:09:29Z | [open](../records/aim-s-vllm-project-vllm-5af67423.md) |
-| zhayujie/CowAgent | partial | 2026-09-02T12:05:15Z | [open](../records/aim-s-zhayujie-cowagent-fa45ff55.md) |
+| vllm-project/vllm | partial | 2026-09-02T12:55:15Z | [open](../records/aim-s-vllm-project-vllm-5af67423.md) |
+| zhayujie/CowAgent | partial | 2026-09-02T12:32:15Z | [open](../records/aim-s-zhayujie-cowagent-fa45ff55.md) |
 
 ## Maps
 

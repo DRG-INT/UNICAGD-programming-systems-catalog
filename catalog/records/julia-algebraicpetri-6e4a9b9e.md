@@ -39,9 +39,9 @@ numerical runtime constraints, and data/deployment interfaces.
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Unknown license |
+| Evidence | https://stocksharp.com/en/en/products/eula/ |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 

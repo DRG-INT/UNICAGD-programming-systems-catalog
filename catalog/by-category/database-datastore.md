@@ -374,7 +374,7 @@ Records: `753`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| gofr-dev/gofr | partial | 2026-09-02T11:35:20Z | [open](../records/go-gofr-dev-gofr-9cdbe495.md) |
+| gofr-dev/gofr | partial | 2026-09-02T13:19:20Z | [open](../records/go-gofr-dev-gofr-9cdbe495.md) |
 
 ## "aim's"
 
@@ -433,7 +433,7 @@ Records: `753`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| metabrainz/picard | partial | 2026-09-02T06:37:26Z | [open](../records/audio-metabrainz-picard-de814b29.md) |
+| metabrainz/picard | partial | 2026-09-02T12:29:44Z | [open](../records/audio-metabrainz-picard-de814b29.md) |
 
 ## Photography
 

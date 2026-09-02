@@ -21,7 +21,8 @@
 
 ## System Engineer Summary
 
-A powerful debugging and monitoring tool for Hono applications, inspired by Laravel Telescope
+Laravel Telescope-style debugging for Hono — plus an MCP server so your AI agent can read the app's
+live requests, exceptions and queries
 
 ## Operational Role
 
@@ -32,7 +33,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-02T11:18:36Z | gh search repos topic:telescope stars:>10 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-02T13:16:20Z | gh search repos topic:telescope stars:>10 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert

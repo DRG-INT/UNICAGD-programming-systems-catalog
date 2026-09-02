@@ -171,7 +171,7 @@ Records: `363`
 | [niklasr22/BrightIntosh](../records/photography-niklasr22-brightintosh-a739a56f.md) | partial | 2026-08-21T14:03:41Z | registry-derived |
 | [open-product-data/digital-cameras](../records/photography-open-product-data-digital-cameras-6d723530.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [photoprism/photoprism](../records/photography-photoprism-photoprism-49783c79.md) | partial | 2026-09-01T13:36:50Z | registry-derived |
-| [PicPeak/picpeak](../records/photography-picpeak-picpeak-d6957174.md) | partial | 2026-09-02T08:56:37Z | registry-derived |
+| [PicPeak/picpeak](../records/photography-picpeak-picpeak-d6957174.md) | partial | 2026-09-02T13:16:37Z | registry-derived |
 | [pop-os/wallpapers](../records/photography-pop-os-wallpapers-b9bd093b.md) | partial | 2025-06-24T16:00:43Z | registry-derived |
 | [rampatra/photography](../records/photography-rampatra-photography-69cbb5ec.md) | partial | 2025-10-28T15:29:47Z | registry-derived |
 | [RawTherapee/RawTherapee](../records/photography-rawtherapee-rawtherapee-846fa44c.md) | partial | 2026-08-28T11:33:45Z | registry-derived |
@@ -189,7 +189,7 @@ Records: `363`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [ankitdhall/lidar_camera_calibration](../records/photography-ankitdhall-lidar-camera-calibration-71522045.md) | partial | 2025-10-16T18:17:31Z | registry-derived |
-| [blakeblackshear/frigate](../records/photography-blakeblackshear-frigate-ea8ac18c.md) | partial | 2026-09-02T01:17:39Z | registry-derived |
+| [blakeblackshear/frigate](../records/photography-blakeblackshear-frigate-ea8ac18c.md) | partial | 2026-09-02T13:21:34Z | registry-derived |
 | [d2phap/ImageGlass](../records/photography-d2phap-imageglass-ec40014f.md) | partial | 2026-09-01T13:18:57Z | registry-derived |
 | [dnglab/dnglab](../records/photography-dnglab-dnglab-05d113bb.md) | partial | 2026-08-30T14:57:26Z | registry-derived |
 | [google/libultrahdr](../records/photography-google-libultrahdr-51251004.md) | partial | 2026-08-21T20:45:54Z | registry-derived |
@@ -445,7 +445,7 @@ Records: `363`
 | [cdgriffith/FastFlix](../records/photography-cdgriffith-fastflix-7fb4169b.md) | partial | 2026-05-19T03:06:49Z | registry-derived |
 | [dmpop/pellicola](../records/photography-dmpop-pellicola-756cb6c8.md) | partial | 2025-05-27T11:09:48Z | registry-derived |
 | [iammatthias/com](../records/photography-iammatthias-com-e27dacc6.md) | partial | 2026-08-27T13:53:07Z | registry-derived |
-| [jim-easterbrook/Photini](../records/photography-jim-easterbrook-photini-e6016870.md) | partial | 2026-09-02T08:20:29Z | registry-derived |
+| [jim-easterbrook/Photini](../records/photography-jim-easterbrook-photini-e6016870.md) | partial | 2026-09-02T12:35:37Z | registry-derived |
 | [kydecker/astro-photo-grid](../records/photography-kydecker-astro-photo-grid-8e515209.md) | partial | 2026-08-11T01:32:56Z | registry-derived |
 | [lunohodov/awesome-astrophotography](../records/photography-lunohodov-awesome-astrophotography-2e7b7b64.md) | partial | 2026-06-11T04:43:54Z | registry-derived |
 | [Naxela/The_Lightmapper](../records/photography-naxela-the-lightmapper-5258d55d.md) | partial | 2026-07-18T22:24:35Z | registry-derived |
@@ -559,7 +559,7 @@ Records: `363`
 | [mangeshghodke/DreamPlayer](../records/photography-mangeshghodke-dreamplayer-c6fbb5e1.md) | partial | 2026-09-02T06:23:58Z | registry-derived |
 | [moul-co/moul](../records/photography-moul-co-moul-2cca2d07.md) | partial | 2024-01-09T09:14:39Z | registry-derived |
 | [mv-lab/nilut](../records/photography-mv-lab-nilut-866ec3fa.md) | partial | 2024-01-29T10:38:23Z | registry-derived |
-| [ncoevoet/facet](../records/photography-ncoevoet-facet-9042db71.md) | partial | 2026-09-02T11:19:07Z | registry-derived |
+| [ncoevoet/facet](../records/photography-ncoevoet-facet-9042db71.md) | partial | 2026-09-02T13:01:01Z | registry-derived |
 | [outdoorbits/little-backup-box](../records/photography-outdoorbits-little-backup-box-04af0fc7.md) | partial | 2026-09-01T18:51:22Z | registry-derived |
 | [peerpx/peerpx](../records/photography-peerpx-peerpx-8179ea23.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [photostructure/photostructure-for-servers](../records/photography-photostructure-photostructure-for-servers-8374efcc.md) | unknown | github_search_does_not_include_release_date | registry-derived |
@@ -599,4 +599,4 @@ Records: `363`
 | [photostructure/photostructure-for-servers](../records/photography-photostructure-photostructure-for-servers-8302af34.md) | partial | 2026-08-26T16:23:33Z | registry-derived |
 | [photoview/photoview](../records/photography-photoview-photoview-7180706a.md) | partial | 2026-08-29T16:15:10Z | registry-derived |
 | [sambecker/exif-photo-blog](../records/photography-sambecker-exif-photo-blog-d29b9b52.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [Webreaper/Damselfly](../records/photography-webreaper-damselfly-df92802c.md) | partial | 2026-08-24T16:13:15Z | registry-derived |
+| [Webreaper/Damselfly](../records/photography-webreaper-damselfly-df92802c.md) | partial | 2026-09-02T12:05:12Z | registry-derived |

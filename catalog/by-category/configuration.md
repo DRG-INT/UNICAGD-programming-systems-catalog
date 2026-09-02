@@ -219,7 +219,7 @@ Records: `100`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mytechnotalent/Hacking-Windows | partial | 2026-09-01T12:10:47Z | [open](../records/assembly-mytechnotalent-hacking-windows-8a5a66d0.md) |
+| mytechnotalent/Hacking-Windows | partial | 2026-09-02T13:03:49Z | [open](../records/assembly-mytechnotalent-hacking-windows-8a5a66d0.md) |
 
 ## Pattern language
 

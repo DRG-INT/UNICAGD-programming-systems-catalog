@@ -39,9 +39,9 @@ of build graph control, artifact reproducibility, cross-platform build policy, a
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | Apache-2.0 |
+| Evidence | {"key": "", "name": "", "url": ""}; Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
+| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes
 

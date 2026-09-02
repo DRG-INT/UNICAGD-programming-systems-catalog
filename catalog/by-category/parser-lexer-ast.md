@@ -881,7 +881,7 @@ Records: `918`
 | kayrockscreenprinting/ultramaster_kr106 | v2.5.13 | 2026-05-07T15:55:59Z | [open](../records/audio-kayrockscreenprinting-ultramaster-kr106-706fda18.md) |
 | kfrlib/kfr | partial | 2026-08-19T17:28:01Z | [open](../records/audio-kfrlib-kfr-16ccf88e.md) |
 | m1ckc3s/procedural-sounds | unknown | github_latest_release_missing | [open](../records/audio-m1ckc3s-procedural-sounds-dbbd8e64.md) |
-| marton78/pffft | partial | 2026-08-28T11:40:55Z | [open](../records/audio-marton78-pffft-c4ec5a52.md) |
+| marton78/pffft | partial | 2026-09-02T12:26:39Z | [open](../records/audio-marton78-pffft-c4ec5a52.md) |
 | peastman/sso | v4.0 | 2024-12-24T03:28:20Z | [open](../records/audio-peastman-sso-158443d0.md) |
 | sergree/matchering | partial | 2026-07-08T14:37:52Z | [open](../records/audio-sergree-matchering-c548e8ba.md) |
 | SFML/SFML | partial | 2026-08-30T18:11:27Z | [open](../records/audio-sfml-sfml-5e33b791.md) |
@@ -896,7 +896,7 @@ Records: `918`
 | cdgriffith/FastFlix | partial | 2026-05-19T03:06:49Z | [open](../records/photography-cdgriffith-fastflix-7fb4169b.md) |
 | dmpop/pellicola | partial | 2025-05-27T11:09:48Z | [open](../records/photography-dmpop-pellicola-756cb6c8.md) |
 | iammatthias/com | partial | 2026-08-27T13:53:07Z | [open](../records/photography-iammatthias-com-e27dacc6.md) |
-| jim-easterbrook/Photini | partial | 2026-09-02T08:20:29Z | [open](../records/photography-jim-easterbrook-photini-e6016870.md) |
+| jim-easterbrook/Photini | partial | 2026-09-02T12:35:37Z | [open](../records/photography-jim-easterbrook-photini-e6016870.md) |
 | kydecker/astro-photo-grid | partial | 2026-08-11T01:32:56Z | [open](../records/photography-kydecker-astro-photo-grid-8e515209.md) |
 | lunohodov/awesome-astrophotography | partial | 2026-06-11T04:43:54Z | [open](../records/photography-lunohodov-awesome-astrophotography-2e7b7b64.md) |
 | Naxela/The_Lightmapper | partial | 2026-07-18T22:24:35Z | [open](../records/photography-naxela-the-lightmapper-5258d55d.md) |
@@ -952,7 +952,7 @@ Records: `918`
 | nekitmm/starnet | partial | 2022-09-12T22:34:37Z | [open](../records/telescopes-nekitmm-starnet-50130f9b.md) |
 | OpenAstroTech/OpenAstroTracker | partial | 2025-02-21T15:40:41Z | [open](../records/telescopes-openastrotech-openastrotracker-3176cfcc.md) |
 | PlasmaPy/PlasmaPy | partial | 2026-08-31T18:37:46Z | [open](../records/telescopes-plasmapy-plasmapy-dcb9bd68.md) |
-| ppp-one/astra | partial | 2026-08-26T14:12:40Z | [open](../records/telescopes-ppp-one-astra-58695d7f.md) |
+| ppp-one/astra | partial | 2026-09-02T12:10:18Z | [open](../records/telescopes-ppp-one-astra-58695d7f.md) |
 | rkaczorek/astroberry-server | partial | 2026-02-11T12:01:25Z | [open](../records/telescopes-rkaczorek-astroberry-server-f5249e84.md) |
 | sanderblue/solar-system-threejs | partial | 2022-12-07T17:32:03Z | [open](../records/telescopes-sanderblue-solar-system-threejs-9534bfd9.md) |
 | saurvs/astro-rust | partial | 2019-10-20T01:17:04Z | [open](../records/telescopes-saurvs-astro-rust-3d0d6b1c.md) |

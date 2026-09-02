@@ -338,15 +338,15 @@ Records: `391`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| influxdata/telegraf | partial | 2026-09-01T15:08:32Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
+| influxdata/telegraf | partial | 2026-09-02T12:45:53Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 2noise/ChatTTS | partial | 2026-04-10T16:33:48Z | [open](../records/aim-s-2noise-chattts-5e993170.md) |
-| langfuse/langfuse | partial | 2026-09-02T12:25:05Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
-| microsoft/semantic-kernel | partial | 2026-09-01T22:19:03Z | [open](../records/aim-s-microsoft-semantic-kernel-ef95bef0.md) |
+| langfuse/langfuse | partial | 2026-09-02T13:20:53Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
+| microsoft/semantic-kernel | partial | 2026-09-02T13:19:07Z | [open](../records/aim-s-microsoft-semantic-kernel-ef95bef0.md) |
 | MLflow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-mlflow-1732aa2b.md) |
 | OpenTelemetry Semantic Conventions For GenAI | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-opentelemetry-semantic-conventions-for-genai-e834f611.md) |
 

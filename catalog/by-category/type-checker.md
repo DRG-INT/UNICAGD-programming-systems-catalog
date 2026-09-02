@@ -312,7 +312,7 @@ Records: `290`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-02T12:09:35Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | partial | 2026-09-02T13:19:17Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Assets
 

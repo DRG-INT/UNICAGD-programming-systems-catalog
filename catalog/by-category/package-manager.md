@@ -344,7 +344,7 @@ Records: `271`
 | Archie3d/aeolus_plugin | v0.3.0 | 2025-05-31T13:17:36Z | [open](../records/audio-archie3d-aeolus-plugin-c1d397f6.md) |
 | Audio4Linux/JDSP4Linux | partial | 2026-08-29T16:29:46Z | [open](../records/audio-audio4linux-jdsp4linux-effd41ab.md) |
 | collidingScopes/arpeggiator | unknown | github_latest_release_missing | [open](../records/audio-collidingscopes-arpeggiator-f2da818f.md) |
-| modelscope/FunASR | partial | 2026-09-02T10:59:31Z | [open](../records/audio-modelscope-funasr-8e089427.md) |
+| modelscope/FunASR | partial | 2026-09-02T12:45:31Z | [open](../records/audio-modelscope-funasr-8e089427.md) |
 
 ## Video
 

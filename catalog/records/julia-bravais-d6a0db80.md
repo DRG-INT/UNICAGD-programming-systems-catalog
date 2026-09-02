@@ -40,7 +40,7 @@ runtime constraints, and data/deployment interfaces.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT |
+| Evidence | MIT; https://www.nuget.org/packages/Microsoft.AspNetCore.SignalR.Protocols.NewtonsoftJson/10.0.11/license |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

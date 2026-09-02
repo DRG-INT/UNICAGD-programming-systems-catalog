@@ -288,7 +288,7 @@ Records: `300`
 | jareddrayton/Audio-Plugin-Development-Resources | partial | 2022-11-01T15:35:25Z | [open](../records/audio-jareddrayton-audio-plugin-development-resources-5d496c70.md) |
 | JUCE | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-juce-3f2891c9.md) |
 | JuliaDSP/DSP.jl | partial | 2026-08-25T10:58:30Z | [open](../records/audio-juliadsp-dsp-jl-4e524896.md) |
-| katspaugh/wavesurfer.js | partial | 2026-09-02T10:54:09Z | [open](../records/audio-katspaugh-wavesurfer-js-cff13805.md) |
+| katspaugh/wavesurfer.js | partial | 2026-09-02T11:45:52Z | [open](../records/audio-katspaugh-wavesurfer-js-cff13805.md) |
 | koel/koel | partial | 2026-09-01T22:52:59Z | [open](../records/audio-koel-koel-f2457c0c.md) |
 | libsndfile | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-libsndfile-6065db3d.md) |
 | mackron/miniaudio | partial | 2026-08-19T22:07:12Z | [open](../records/audio-mackron-miniaudio-78110754.md) |
@@ -305,12 +305,12 @@ Records: `300`
 | novoic/surfboard | unknown | github_latest_release_missing | [open](../records/audio-novoic-surfboard-0947802a.md) |
 | npisanti/ofxPDSP | partial | 2024-08-09T02:07:03Z | [open](../records/audio-npisanti-ofxpdsp-71b17c19.md) |
 | olilarkin/awesome-musicdsp | partial | 2026-05-30T16:10:00Z | [open](../records/audio-olilarkin-awesome-musicdsp-8a7e6eae.md) |
-| OpenBMB/VoxCPM | partial | 2026-08-26T02:42:07Z | [open](../records/audio-openbmb-voxcpm-031307cb.md) |
+| OpenBMB/VoxCPM | partial | 2026-09-02T12:12:35Z | [open](../records/audio-openbmb-voxcpm-031307cb.md) |
 | orottier/web-audio-api-rs | partial | 2026-08-15T12:02:49Z | [open](../records/audio-orottier-web-audio-api-rs-b1a3cc71.md) |
 | OxygenCobalt/Auxio | partial | 2026-08-30T15:18:59Z | [open](../records/audio-oxygencobalt-auxio-c078449a.md) |
 | pavel-demin/red-pitaya-notes | partial | 2026-08-29T19:11:52Z | [open](../records/audio-pavel-demin-red-pitaya-notes-e5be73d9.md) |
 | philburk/jsyn | v17.2.0 | 2025-06-29T21:59:54Z | [open](../records/audio-philburk-jsyn-78aebd02.md) |
-| pion/webrtc | partial | 2026-09-01T02:50:40Z | [open](../records/audio-pion-webrtc-aa742b2d.md) |
+| pion/webrtc | partial | 2026-09-02T13:01:54Z | [open](../records/audio-pion-webrtc-aa742b2d.md) |
 | PipeWire | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-pipewire-00d8ecfd.md) |
 | PortAudio | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-portaudio-40a7f336.md) |
 | r9y9/pysptk | partial | 2024-07-16T11:33:16Z | [open](../records/audio-r9y9-pysptk-bef7db25.md) |

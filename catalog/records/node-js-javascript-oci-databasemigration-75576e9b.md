@@ -39,9 +39,9 @@ service communication, clients/servers, protocol handling, and edge integration.
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT + file LICENSE |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Apache-2.0 |
+| Evidence | (UPL-1.0 OR Apache-2.0) |
+| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes
 

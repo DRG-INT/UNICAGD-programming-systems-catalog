@@ -529,7 +529,7 @@ Records: `547`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-02T12:12:28Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-02T13:21:06Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-08-27T19:23:53Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Assets
@@ -617,7 +617,7 @@ Records: `547`
 | ExistentialAudio/BlackHole | partial | 2026-08-11T23:33:14Z | [open](../records/audio-existentialaudio-blackhole-14b406da.md) |
 | MikeMorenoDSP/LIRA-8 | v1.0.8 | 2020-09-29T15:56:37Z | [open](../records/audio-mikemorenodsp-lira-8-251c75e9.md) |
 | pdeljanov/Symphonia | partial | 2026-08-13T03:19:51Z | [open](../records/audio-pdeljanov-symphonia-b302ab81.md) |
-| pytorch/audio | partial | 2026-09-01T11:36:41Z | [open](../records/audio-pytorch-audio-d02c37b9.md) |
+| pytorch/audio | partial | 2026-09-02T12:36:49Z | [open](../records/audio-pytorch-audio-d02c37b9.md) |
 
 ## Video
 
@@ -630,7 +630,7 @@ Records: `547`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ankitdhall/lidar_camera_calibration | partial | 2025-10-16T18:17:31Z | [open](../records/photography-ankitdhall-lidar-camera-calibration-71522045.md) |
-| blakeblackshear/frigate | partial | 2026-09-02T01:17:39Z | [open](../records/photography-blakeblackshear-frigate-ea8ac18c.md) |
+| blakeblackshear/frigate | partial | 2026-09-02T13:21:34Z | [open](../records/photography-blakeblackshear-frigate-ea8ac18c.md) |
 | d2phap/ImageGlass | partial | 2026-09-01T13:18:57Z | [open](../records/photography-d2phap-imageglass-ec40014f.md) |
 | dnglab/dnglab | partial | 2026-08-30T14:57:26Z | [open](../records/photography-dnglab-dnglab-05d113bb.md) |
 | google/libultrahdr | partial | 2026-08-21T20:45:54Z | [open](../records/photography-google-libultrahdr-51251004.md) |
@@ -651,7 +651,7 @@ Records: `547`
 | catrujilla/pyDHM | partial | 2025-09-16T21:49:38Z | [open](../records/microscopy-catrujilla-pydhm-45508b54.md) |
 | cgohlke/roifile | partial | 2026-07-30T01:48:11Z | [open](../records/microscopy-cgohlke-roifile-2f114ba6.md) |
 | Euro-BioImaging/BatchConvert | partial | 2025-03-14T10:23:22Z | [open](../records/microscopy-euro-bioimaging-batchconvert-38646f25.md) |
-| fideus-labs/ngff-zarr | partial | 2026-09-01T22:28:39Z | [open](../records/microscopy-fideus-labs-ngff-zarr-384efdbf.md) |
+| fideus-labs/ngff-zarr | partial | 2026-09-02T12:17:39Z | [open](../records/microscopy-fideus-labs-ngff-zarr-384efdbf.md) |
 | imaging-formats/ome-types | partial | 2026-04-02T01:45:48Z | [open](../records/microscopy-imaging-formats-ome-types-d7936d3b.md) |
 | pymmcore-plus/ome-writers | partial | 2026-07-01T11:25:58Z | [open](../records/microscopy-pymmcore-plus-ome-writers-2a308f87.md) |
 

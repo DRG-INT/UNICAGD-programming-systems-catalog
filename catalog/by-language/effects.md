@@ -567,7 +567,7 @@ Records: `608`
 | [fearofcode/bateman](../records/effects-fearofcode-bateman-03c24113.md) | unknown | github_latest_release_missing | registry-derived |
 | [GabrielSCabrera/nBody](../records/effects-gabrielscabrera-nbody-387acb4c.md) | partial | 2024-03-31T14:11:02Z | registry-derived |
 | [ggarra13/mrv2](../records/effects-ggarra13-mrv2-5b1bc07b.md) | partial | 2026-09-02T09:29:35Z | registry-derived |
-| [glotzerlab/hoomd-blue](../records/effects-glotzerlab-hoomd-blue-5217e991.md) | partial | 2026-08-31T12:28:52Z | registry-derived |
+| [glotzerlab/hoomd-blue](../records/effects-glotzerlab-hoomd-blue-5217e991.md) | partial | 2026-09-02T10:33:09Z | registry-derived |
 | [glotzerlab/hoomd-examples](../records/effects-glotzerlab-hoomd-examples-8b82445a.md) | partial | 2026-08-31T13:19:32Z | registry-derived |
 | [henriquelalves/SimpleGodotCRTShader](../records/effects-henriquelalves-simplegodotcrtshader-0feadcb8.md) | partial | 2024-09-02T21:57:23Z | registry-derived |
 | [Humprt/particula](../records/effects-humprt-particula-c6b87b55.md) | partial | 2025-04-13T09:22:08Z | registry-derived |
@@ -833,7 +833,7 @@ Records: `608`
 | [Natron](../records/effects-natron-37c82791.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [NumberOneBot/dsssp](../records/effects-numberonebot-dsssp-f459bfd0.md) | partial | 2026-08-12T22:46:18Z | registry-derived |
 | [PixiJS Filters](../records/effects-pixijs-filters-2c7b5506.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
-| [pschatzmann/arduino-audio-tools](../records/effects-pschatzmann-arduino-audio-tools-8c3c4f05.md) | partial | 2026-09-02T09:01:58Z | registry-derived |
+| [pschatzmann/arduino-audio-tools](../records/effects-pschatzmann-arduino-audio-tools-8c3c4f05.md) | partial | 2026-09-02T11:58:33Z | registry-derived |
 | [rsadsb/adsb_deku](../records/effects-rsadsb-adsb-deku-ce700c3e.md) | partial | 2026-01-04T16:18:33Z | registry-derived |
 | [Shadertoy](../records/effects-shadertoy-7ba0fe72.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [simmsb/dsp-stuff](../records/effects-simmsb-dsp-stuff-7a20636f.md) | partial | 2024-08-21T12:39:57Z | registry-derived |

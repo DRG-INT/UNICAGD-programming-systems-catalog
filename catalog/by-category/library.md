@@ -4052,7 +4052,7 @@ Records: `4843`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-02T10:45:36Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-02T12:58:47Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4333,7 +4333,7 @@ Records: `4843`
 | fearofcode/bateman | unknown | github_latest_release_missing | [open](../records/effects-fearofcode-bateman-03c24113.md) |
 | GabrielSCabrera/nBody | partial | 2024-03-31T14:11:02Z | [open](../records/effects-gabrielscabrera-nbody-387acb4c.md) |
 | ggarra13/mrv2 | partial | 2026-09-02T09:29:35Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |
-| glotzerlab/hoomd-blue | partial | 2026-08-31T12:28:52Z | [open](../records/effects-glotzerlab-hoomd-blue-5217e991.md) |
+| glotzerlab/hoomd-blue | partial | 2026-09-02T10:33:09Z | [open](../records/effects-glotzerlab-hoomd-blue-5217e991.md) |
 | glotzerlab/hoomd-examples | partial | 2026-08-31T13:19:32Z | [open](../records/effects-glotzerlab-hoomd-examples-8b82445a.md) |
 | henriquelalves/SimpleGodotCRTShader | partial | 2024-09-02T21:57:23Z | [open](../records/effects-henriquelalves-simplegodotcrtshader-0feadcb8.md) |
 | Humprt/particula | partial | 2025-04-13T09:22:08Z | [open](../records/effects-humprt-particula-c6b87b55.md) |

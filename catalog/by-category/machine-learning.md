@@ -473,16 +473,16 @@ Records: `584`
 | HKUDS/Vibe-Trading | partial | 2026-09-02T09:32:29Z | [open](../records/aim-s-hkuds-vibe-trading-eb525e68.md) |
 | Hugging Face Transformers | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-hugging-face-transformers-9b7d820e.md) |
 | ItzCrazyKns/Vane | partial | 2026-09-01T14:12:12Z | [open](../records/aim-s-itzcrazykns-vane-331d2e53.md) |
-| janhq/jan | partial | 2026-09-02T08:20:52Z | [open](../records/aim-s-janhq-jan-f71b49a2.md) |
+| janhq/jan | partial | 2026-09-02T13:14:05Z | [open](../records/aim-s-janhq-jan-f71b49a2.md) |
 | JAX | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-jax-160b4e37.md) |
 | jeecgboot/JeecgBoot | partial | 2026-09-01T02:15:32Z | [open](../records/aim-s-jeecgboot-jeecgboot-4bd956b2.md) |
-| JuliusBrussee/caveman | partial | 2026-09-02T09:58:23Z | [open](../records/aim-s-juliusbrussee-caveman-aee4c811.md) |
+| JuliusBrussee/caveman | partial | 2026-09-02T13:16:02Z | [open](../records/aim-s-juliusbrussee-caveman-aee4c811.md) |
 | JushBJJ/Mr.-Ranedeer-AI-Tutor | partial | 2025-09-30T08:08:00Z | [open](../records/aim-s-jushbjj-mr-ranedeer-ai-tutor-1c9ffb63.md) |
 | langchain-ai/langchain | partial | 2026-09-02T08:37:59Z | [open](../records/aim-s-langchain-ai-langchain-8b6774eb.md) |
 | linshenkx/prompt-optimizer | partial | 2026-08-26T08:07:53Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
 | lyogavin/airllm | partial | 2026-09-02T06:28:51Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-02T03:33:26Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | partial | 2026-09-02T12:21:53Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| NousResearch/hermes-agent | partial | 2026-09-02T13:21:12Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
 | onyx-dot-app/onyx | partial | 2026-09-02T10:17:16Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-02T02:12:21Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-02T00:50:20Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
@@ -496,7 +496,7 @@ Records: `584`
 | TauricResearch/TradingAgents | partial | 2026-09-01T05:38:45Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | partial | 2026-09-02T12:26:04Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| unslothai/unsloth | partial | 2026-09-02T13:15:12Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
 | VectifyAI/PageIndex | partial | 2026-09-02T11:39:38Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
 | virgiliojr94/book-to-skill | partial | 2026-09-01T14:51:58Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 
@@ -590,7 +590,7 @@ Records: `584`
 | copych/AcidBox | v.1.3.3 | 2024-11-12T08:14:16Z | [open](../records/audio-copych-acidbox-f1182e91.md) |
 | DamRsn/NeuralNote | partial | 2025-01-16T10:00:44Z | [open](../records/audio-damrsn-neuralnote-e9b5c736.md) |
 | electro-smith/DaisySP | partial | 2025-05-29T04:37:29Z | [open](../records/audio-electro-smith-daisysp-caa53501.md) |
-| huggingface/transformers | partial | 2026-09-02T11:05:32Z | [open](../records/audio-huggingface-transformers-9073c238.md) |
+| huggingface/transformers | partial | 2026-09-02T13:19:59Z | [open](../records/audio-huggingface-transformers-9073c238.md) |
 | ictnlp/StreamSpeech | unknown | github_latest_release_missing | [open](../records/audio-ictnlp-streamspeech-abc4c0a4.md) |
 | iver56/audiomentations | partial | 2026-04-13T22:04:14Z | [open](../records/audio-iver56-audiomentations-bf487b1d.md) |
 | lanceylai/TSWeChat | partial | 2019-07-28T08:57:46Z | [open](../records/audio-lanceylai-tswechat-3bd4bda0.md) |
@@ -599,7 +599,7 @@ Records: `584`
 | modelscope/ClearerVoice-Studio | partial | 2025-08-14T08:26:31Z | [open](../records/audio-modelscope-clearervoice-studio-eecd0125.md) |
 | openai/jukebox | partial | 2024-06-19T05:14:24Z | [open](../records/audio-openai-jukebox-831d162e.md) |
 | pliang279/awesome-multimodal-ml | unknown | github_latest_release_missing | [open](../records/audio-pliang279-awesome-multimodal-ml-35fc826b.md) |
-| rern/rAudio | partial | 2026-09-02T11:11:44Z | [open](../records/audio-rern-raudio-af65d72c.md) |
+| rern/rAudio | partial | 2026-09-02T12:58:03Z | [open](../records/audio-rern-raudio-af65d72c.md) |
 | resemble-ai/resemble-enhance | 0.0.1 | 2023-12-14T07:49:31Z | [open](../records/audio-resemble-ai-resemble-enhance-cbd92f96.md) |
 | seaniezhao/torch_npss | v0.2.0 | 2019-07-03T10:56:32Z | [open](../records/audio-seaniezhao-torch-npss-bcd03657.md) |
 | snakers4/silero-vad | v6.2.1 | 2026-02-24T08:41:19Z | [open](../records/audio-snakers4-silero-vad-5552d692.md) |

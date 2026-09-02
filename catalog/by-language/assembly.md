@@ -67,7 +67,7 @@ Records: `220`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [mytechnotalent/Hacking-Windows](../records/assembly-mytechnotalent-hacking-windows-8a5a66d0.md) | partial | 2026-09-01T12:10:47Z | registry-derived |
+| [mytechnotalent/Hacking-Windows](../records/assembly-mytechnotalent-hacking-windows-8a5a66d0.md) | partial | 2026-09-02T13:03:49Z | registry-derived |
 
 ### Debugger
 
@@ -142,7 +142,7 @@ Records: `220`
 | [mikeroyal/Assembly-Guide](../records/assembly-mikeroyal-assembly-guide-e4afccda.md) | partial | 2022-01-02T23:58:29Z | registry-derived |
 | [minio/sha256-simd](../records/assembly-minio-sha256-simd-85e6ab78.md) | partial | 2023-05-24T07:54:41Z | registry-derived |
 | [robalb/x86-64-playground](../records/assembly-robalb-x86-64-playground-c440c3c0.md) | partial | 2026-01-18T19:17:26Z | registry-derived |
-| [sehugg/8bitworkshop](../records/assembly-sehugg-8bitworkshop-62e01cd8.md) | partial | 2026-09-01T09:32:09Z | registry-derived |
+| [sehugg/8bitworkshop](../records/assembly-sehugg-8bitworkshop-62e01cd8.md) | partial | 2026-09-02T13:00:03Z | registry-derived |
 | [Specy/asm-editor](../records/assembly-specy-asm-editor-c3b9e30b.md) | partial | 2026-09-01T20:50:10Z | registry-derived |
 | [ThomasJaeger/VisualMASM](../records/assembly-thomasjaeger-visualmasm-c78674ab.md) | partial | 2018-01-26T12:10:31Z | registry-derived |
 
@@ -220,7 +220,7 @@ Records: `220`
 | [mirrorer/libbpg](../records/assembly-mirrorer-libbpg-745138b3.md) | partial | 2022-01-30T03:10:24Z | registry-derived |
 | [mschwartz/assembly-tutorial](../records/assembly-mschwartz-assembly-tutorial-860de2bf.md) | partial | 2026-05-03T23:34:30Z | registry-derived |
 | [mtuomi/SecondReality](../records/assembly-mtuomi-secondreality-5c489f57.md) | partial | 2022-06-27T15:45:39Z | registry-derived |
-| [mytechnotalent/Reverse-Engineering](../records/assembly-mytechnotalent-reverse-engineering-73d01425.md) | partial | 2026-09-01T12:12:38Z | registry-derived |
+| [mytechnotalent/Reverse-Engineering](../records/assembly-mytechnotalent-reverse-engineering-73d01425.md) | partial | 2026-09-02T13:03:24Z | registry-derived |
 | [nanochess/bootOS](../records/assembly-nanochess-bootos-3579b41b.md) | partial | 2026-08-01T04:58:00Z | registry-derived |
 | [nemasu/asmttpd](../records/assembly-nemasu-asmttpd-9a612693.md) | partial | 2025-03-01T14:36:22Z | registry-derived |
 | [netwide-assembler/nasm](../records/assembly-netwide-assembler-nasm-7b1656d3.md) | partial | 2026-08-19T23:47:10Z | registry-derived |
@@ -248,7 +248,7 @@ Records: `220`
 | [ReturnInfinity/BareMetal-OS-legacy](../records/assembly-returninfinity-baremetal-os-legacy-09317d7c.md) | partial | 2017-11-20T15:29:43Z | registry-derived |
 | [RibShark/OmniDrive](../records/assembly-ribshark-omnidrive-32257d20.md) | partial | 2026-07-18T06:48:57Z | registry-derived |
 | [riscv-software-src/riscv-tests](../records/assembly-riscv-software-src-riscv-tests-77e7e3cb.md) | partial | 2026-08-14T22:09:19Z | registry-derived |
-| [riscv/riscv-arch-test](../records/assembly-riscv-riscv-arch-test-0b5f8870.md) | partial | 2026-09-02T08:59:38Z | registry-derived |
+| [riscv/riscv-arch-test](../records/assembly-riscv-riscv-arch-test-0b5f8870.md) | partial | 2026-09-02T13:03:15Z | registry-derived |
 | [riscvarchive/riscv-v-spec](../records/assembly-riscvarchive-riscv-v-spec-60c48d12.md) | partial | 2024-03-17T15:04:35Z | registry-derived |
 | [ROCm/MIOpen](../records/assembly-rocm-miopen-1181b14a.md) | partial | 2026-09-02T04:06:12Z | registry-derived |
 | [sam-astro/Astro8-Computer](../records/assembly-sam-astro-astro8-computer-d279451b.md) | partial | 2026-08-27T17:50:17Z | registry-derived |

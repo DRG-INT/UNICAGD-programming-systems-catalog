@@ -129,7 +129,7 @@ Records: `56`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | jitsi/jitsi | partial | 2026-06-02T16:42:03Z | [open](../records/video-jitsi-jitsi-d268b078.md) |
-| jitsi/jitsi-meet | partial | 2026-09-02T00:04:57Z | [open](../records/video-jitsi-jitsi-meet-a39e115b.md) |
+| jitsi/jitsi-meet | partial | 2026-09-02T12:53:02Z | [open](../records/video-jitsi-jitsi-meet-a39e115b.md) |
 
 ## Electromagnetoscopes
 

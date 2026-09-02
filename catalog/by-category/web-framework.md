@@ -459,7 +459,7 @@ Records: `401`
 | photostructure/photostructure-for-servers | partial | 2026-08-26T16:23:33Z | [open](../records/photography-photostructure-photostructure-for-servers-8302af34.md) |
 | photoview/photoview | partial | 2026-08-29T16:15:10Z | [open](../records/photography-photoview-photoview-7180706a.md) |
 | sambecker/exif-photo-blog | unknown | github_search_does_not_include_release_date | [open](../records/photography-sambecker-exif-photo-blog-d29b9b52.md) |
-| Webreaper/Damselfly | partial | 2026-08-24T16:13:15Z | [open](../records/photography-webreaper-damselfly-df92802c.md) |
+| Webreaper/Damselfly | partial | 2026-09-02T12:05:12Z | [open](../records/photography-webreaper-damselfly-df92802c.md) |
 
 ## Radars
 

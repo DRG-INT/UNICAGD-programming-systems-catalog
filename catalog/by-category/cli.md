@@ -517,9 +517,9 @@ Records: `501`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-02T11:15:02Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-02T12:57:15Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-02T12:25:42Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-02T13:19:44Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Assets
 

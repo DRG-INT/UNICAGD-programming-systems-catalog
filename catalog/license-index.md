@@ -1,6 +1,6 @@
 # License Index
 
-Generated: `2026-09-02T12:28:05+00:00`
+Generated: `2026-09-02T13:23:00+00:00`
 
 This page is a license-oriented discovery view. It highlights Apache-2.0 and MIT candidates, keeps preview/nightly signals visible, and raises a backup-plan alert when the catalog cannot prove that a component fits those two license families.
 
@@ -28,12 +28,12 @@ This page is a license-oriented discovery view. It highlights Apache-2.0 and MIT
 
 | Family | Records |
 | --- | ---: |
-| Unknown license | 14143 |
-| MIT | 4415 |
-| Backup plan required | 2057 |
-| Apache-2.0 | 1319 |
-| Other permissive | 493 |
-| Mixed license review | 89 |
+| Unknown license | 13997 |
+| MIT | 4510 |
+| Backup plan required | 2037 |
+| Apache-2.0 | 1357 |
+| Other permissive | 515 |
+| Mixed license review | 100 |
 
 ## Apache-2.0 Showcase
 
@@ -45,11 +45,13 @@ Apache-2.0 is useful for projects that want permissive reuse plus an explicit pa
 | --- | --- | --- | --- | --- | --- |
 | [@sap-ux/fiori-mcp-server](records/node-js-javascript-sap-ux-fiori-mcp-server-8a2a94b2.md) | Node.js/JavaScript | Web Framework | 1.12.1 | 2026-09-02T11:02:29.002Z | Apache-2.0 |
 | [@transcend-io/mcp-server-preferences](records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) | Node.js/JavaScript | Web Framework | 0.7.1 | 2026-09-02T03:52:07.796Z | Apache-2.0 |
+| [@transcend-io/mcp-server-workflows](records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) | Node.js/JavaScript | Web Framework | 0.5.29 | 2026-09-02T03:50:35.894Z | Apache-2.0 |
 | [@transcend-io/mcp-server-consent](records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) | Node.js/JavaScript | Web Framework | 0.9.5 | 2026-09-02T03:50:31.917Z | Apache-2.0 |
 | [@transcend-io/mcp-server-assessment](records/node-js-javascript-transcend-io-mcp-server-assessment-fa3a076f.md) | Node.js/JavaScript | Web Framework | 0.5.29 | 2026-09-02T03:50:31.799Z | Apache-2.0 |
 | [@transcend-io/mcp-server-discovery](records/node-js-javascript-transcend-io-mcp-server-discovery-87735bfc.md) | Node.js/JavaScript | Web Framework | 0.5.29 | 2026-09-02T03:50:31.683Z | Apache-2.0 |
 | [@transcend-io/mcp-server-inventory](records/node-js-javascript-transcend-io-mcp-server-inventory-9bc583b1.md) | Node.js/JavaScript | Web Framework | 0.7.9 | 2026-09-02T03:50:31.438Z | Apache-2.0 |
 | [@transcend-io/mcp-server-dsr](records/node-js-javascript-transcend-io-mcp-server-dsr-76f6cb8b.md) | Node.js/JavaScript | Web Framework | 0.8.9 | 2026-09-02T03:50:31.332Z | Apache-2.0 |
+| [@transcend-io/mcp-server-admin](records/node-js-javascript-transcend-io-mcp-server-admin-c732016b.md) | Node.js/JavaScript | Web Framework | 0.6.9 | 2026-09-02T03:50:31.038Z | Apache-2.0 |
 | [openai](records/node-js-typescript-openai-c47e8332.md) | Node.js/TypeScript | Type Checker | 7.9.0 | 2026-09-02T01:39:46.214Z | Apache-2.0 |
 | [@cloudflare/workers-types](records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) | Node.js/TypeScript | Type Checker | 5.20260902.1 | 2026-09-02T01:19:49.590Z | MIT OR Apache-2.0 |
 | [windmill-cli](records/node-js-javascript-windmill-cli-71546be7.md) | Node.js/JavaScript | Cli | 1.801.0 | 2026-09-01T23:02:06.807Z | Apache 2.0 |
@@ -59,12 +61,14 @@ Apache-2.0 is useful for projects that want permissive reuse plus an explicit pa
 | [oci-database](records/node-js-javascript-oci-database-cacbd435.md) | Node.js/JavaScript | Networking Http | 2.140.1 | 2026-09-01T18:40:16.874Z | (UPL-1.0 OR Apache-2.0) |
 | [oci-distributeddatabase](records/node-js-javascript-oci-distributeddatabase-15271789.md) | Node.js/JavaScript | Networking Http | 2.140.1 | 2026-09-01T18:39:31.660Z | (UPL-1.0 OR Apache-2.0) |
 | [oci-databasemanagement](records/node-js-javascript-oci-databasemanagement-d3d2cf4c.md) | Node.js/JavaScript | Networking Http | 2.140.1 | 2026-09-01T18:36:52.755Z | (UPL-1.0 OR Apache-2.0) |
+| [oci-databasemigration](records/node-js-javascript-oci-databasemigration-75576e9b.md) | Node.js/JavaScript | Networking Http | 2.140.1 | 2026-09-01T18:36:40.831Z | (UPL-1.0 OR Apache-2.0) |
 | [oci-databasetools](records/node-js-javascript-oci-databasetools-e0fdb2b7.md) | Node.js/JavaScript | Networking Http | 2.140.1 | 2026-09-01T18:33:52.479Z | (UPL-1.0 OR Apache-2.0) |
 | [@iabtechlabtcf/testing](records/node-js-javascript-iabtechlabtcf-testing-999f222a.md) | Node.js/JavaScript | Testing Framework | 1.5.22 | 2026-09-01T18:14:14.773Z | Apache-2.0 |
 | [@cubejs-backend/redshift-driver](records/node-js-javascript-cubejs-backend-redshift-driver-5cb17bc0.md) | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.32 | 2026-09-01T18:10:34.311Z | Apache-2.0 |
 | [@cubejs-backend/mysql-driver](records/node-js-javascript-cubejs-backend-mysql-driver-bf05660d.md) | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.32 | 2026-09-01T18:10:25.485Z | Apache-2.0 |
 | [@cubejs-backend/athena-driver](records/node-js-javascript-cubejs-backend-athena-driver-6bacd80a.md) | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.32 | 2026-09-01T18:10:20.680Z | Apache-2.0 |
 | [@cubejs-backend/materialize-driver](records/node-js-javascript-cubejs-backend-materialize-driver-bd47599a.md) | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.32 | 2026-09-01T18:09:42.127Z | Apache-2.0 |
+| [@cubejs-backend/server](records/node-js-javascript-cubejs-backend-server-9616a19e.md) | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.32 | 2026-09-01T18:09:33.748Z | Apache-2.0 |
 | [@cubejs-backend/vertica-driver](records/node-js-javascript-cubejs-backend-vertica-driver-55bdb4b8.md) | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.32 | 2026-09-01T18:09:33.696Z | Apache-2.0 |
 | [@cubejs-backend/duckdb-driver](records/node-js-javascript-cubejs-backend-duckdb-driver-01487aa6.md) | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.32 | 2026-09-01T18:09:29.613Z | Apache-2.0 |
 | [@cubejs-backend/bigquery-driver](records/node-js-javascript-cubejs-backend-bigquery-driver-5b2b13fc.md) | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.32 | 2026-09-01T18:09:25.603Z | Apache-2.0 |
@@ -75,12 +79,13 @@ Apache-2.0 is useful for projects that want permissive reuse plus an explicit pa
 | [@cubejs-backend/ksql-driver](records/node-js-javascript-cubejs-backend-ksql-driver-8e496938.md) | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.32 | 2026-09-01T18:09:17.066Z | Apache-2.0 |
 | [@cubejs-backend/druid-driver](records/node-js-javascript-cubejs-backend-druid-driver-4b43d84c.md) | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.32 | 2026-09-01T18:09:17.064Z | Apache-2.0 |
 | [@cubejs-backend/sqlite-driver](records/node-js-javascript-cubejs-backend-sqlite-driver-1689cd48.md) | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.32 | 2026-09-01T18:09:02.540Z | Apache-2.0 |
-| [@cubejs-backend/snowflake-driver](records/node-js-javascript-cubejs-backend-snowflake-driver-8161f651.md) | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.32 | 2026-09-01T18:09:02.024Z | Apache-2.0 |
 | [@cubejs-backend/prestodb-driver](records/node-js-javascript-cubejs-backend-prestodb-driver-e59afba0.md) | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.32 | 2026-09-01T18:08:59.690Z | Apache-2.0 |
+| [@cubejs-backend/oracle-driver](records/node-js-javascript-cubejs-backend-oracle-driver-67860979.md) | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.32 | 2026-09-01T18:08:59.046Z | Apache-2.0 |
 | [@cubejs-backend/hive-driver](records/node-js-javascript-cubejs-backend-hive-driver-465861fe.md) | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.32 | 2026-09-01T18:08:55.314Z | Apache-2.0 |
 | [@cubejs-backend/jdbc-driver](records/node-js-javascript-cubejs-backend-jdbc-driver-04d976e1.md) | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.32 | 2026-09-01T18:08:55.143Z | Apache-2.0 |
 | [@playwright/cli](records/node-js-javascript-playwright-cli-e8cfd942.md) | Node.js/JavaScript | Cli | 0.1.19 | 2026-09-01T16:19:56.878Z | Apache-2.0 |
 | [@capgo/cli](records/node-js-javascript-capgo-cli-8e98e39d.md) | Node.js/JavaScript | Web Framework | 8.45.3 | 2026-09-01T15:12:47.908Z | Apache 2.0 |
+| [@ghostery/trackerdb](records/node-js-javascript-ghostery-trackerdb-5dd64d2a.md) | Node.js/JavaScript | Database Datastore | 1.0.945 | 2026-09-01T14:40:53.880Z | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
 | [@react-aria/test-utils](records/node-js-javascript-react-aria-test-utils-ef51a2d5.md) | Node.js/JavaScript | Testing Framework | 1.0.0-rc.1 | 2026-09-01T14:24:42.369Z | Apache-2.0 |
 | [matrix-js-sdk](records/node-js-javascript-matrix-js-sdk-95218c67.md) | Node.js/JavaScript | Networking Http | 42.3.0 | 2026-09-01T14:10:07.996Z | Apache-2.0 |
 | [@prosopo/types-database](records/node-js-javascript-prosopo-types-database-4163c4a1.md) | Node.js/JavaScript | Database Datastore | 5.3.4 | 2026-09-01T13:58:19.234Z | Apache-2.0 |
@@ -120,10 +125,10 @@ Apache-2.0 is useful for projects that want permissive reuse plus an explicit pa
 | [@tauri-apps/plugin-http](records/node-js-javascript-tauri-apps-plugin-http-7fcc9b39.md) | Node.js/JavaScript | Undefined Behavior Analyzer | 2.6.0 | 2026-08-31T11:20:18.468Z | MIT OR Apache-2.0 |
 | [@lancedb/lancedb](records/node-js-javascript-lancedb-lancedb-b1aa28e9.md) | Node.js/JavaScript | Web Framework | 0.38.0 | 2026-08-31T08:31:16.264Z | Apache-2.0 |
 | [@ruvyxa/database](records/node-js-javascript-ruvyxa-database-28ef5413.md) | Node.js/JavaScript | Database Datastore | 1.1.4 | 2026-08-31T07:51:54.209Z | Apache-2.0 |
-| [sval_ref](records/rust-sval-ref-9e9ee64e.md) | Rust | Community Reference | 2.22.0 | 2026-08-31T03:44:44.017451Z | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
 | [roads](records/r-roads-57016556.md) | R | Networking Http | 1.2.2 | 2026-08-31 22:00:15 UTC | Apache License (>= 2) |
 | [ssdtools](records/r-ssdtools-2af25940.md) | R | Precommit Ci Quality | 2.7.0 | 2026-08-31 19:30:33 UTC | Apache License (== 2.0) \| file LICENSE |
 | [rdborrow](records/r-rdborrow-95d341d6.md) | R | Library | 0.0.4.0 | 2026-08-31 14:00:10 UTC | Apache License (>= 2) |
+| [miso](records/haskell-miso-6e93c710.md) | Haskell | Library | 1.13.0.0 | 2026-08-30T22:19:35Z | Apache License 2.0 |
 | [websql-configurable](records/node-js-javascript-websql-configurable-6a76b98d.md) | Node.js/JavaScript | Database Datastore | 4.0.0 | 2026-08-30T16:48:42.333Z | Apache-2.0 |
 | [github.com/vibrantgio/ivg](records/go-github-com-vibrantgio-ivg-02f646d1.md) | Go | Undefined Behavior Analyzer | v0.1.8 | 2026-08-30T12:55:21.255273Z | Apache-2.0; License :: OSI Approved :: Apache Software License |
 | [github.com/Wisdomb33r/ffch-admin](records/go-github-com-wisdomb33r-ffch-admin-b2142a26.md) | Go | Undefined Behavior Analyzer | v2.0.0+incompatible | 2026-08-30T12:54:30.293445Z | License :: OSI Approved :: Apache Software License |
@@ -161,7 +166,6 @@ Apache-2.0 is useful for projects that want permissive reuse plus an explicit pa
 | [acryl-datahub-dagster-plugin](records/python-acryl-datahub-dagster-plugin-600a40f1.md) | Python | Package Manager | 1.7.0.7 | 2026-08-26T13:47:42.863841Z | Apache-2.0 |
 | [acryl-datahub-airflow-plugin](records/python-acryl-datahub-airflow-plugin-651c1716.md) | Python | Package Manager | 1.7.0.7 | 2026-08-26T13:47:37.877570Z | Apache-2.0 |
 | [@prisma/language-server](records/node-js-javascript-prisma-language-server-e4ebd39b.md) | Node.js/JavaScript | Language Specification | 31.12.0 | 2026-08-26T13:23:01.234Z | Apache-2.0 |
-| [@a2a-js/sdk](records/node-js-javascript-a2a-js-sdk-4257c158.md) | Node.js/JavaScript | Networking Http | 1.1.0 | 2026-08-26T09:43:13.556Z | Apache-2.0 |
 | [@prisma/cli-engine](records/node-js-javascript-prisma-cli-engine-db893fc5.md) | Node.js/JavaScript | Cli | 0.3.0 | 2026-08-26T07:13:21.842Z | Apache-2.0 |
 | [node-media-server](records/node-js-javascript-node-media-server-61ce0684.md) | Node.js/JavaScript | Web Framework | 4.3.2 | 2026-08-26T01:31:37.978Z | Apache-2.0 |
 | [textclassificationtutorial](records/r-textclassificationtutorial-84791e56.md) | R | Precommit Ci Quality | 0.1.2 | 2026-08-26 19:30:02 UTC | Apache License (>= 2) |
@@ -186,8 +190,10 @@ Apache-2.0 is useful for projects that want permissive reuse plus an explicit pa
 | [TrialEmulation](records/r-trialemulation-81599ba2.md) | R | Static Analyzer | 0.0.5 | 2026-08-25 10:50:13 UTC | Apache License (>= 2) |
 | [typescript-native-bridge](records/node-js-typescript-typescript-native-bridge-239029dd.md) | Node.js/TypeScript | Build System | 6.0.3-bridge.15.tsgo.7.0.2 | 2026-08-24T19:11:01.733Z | Apache-2.0 |
 | [eslint-config-salesforce-typescript](records/node-js-typescript-eslint-config-salesforce-typescript-0734e132.md) | Node.js/TypeScript | Linter | 7.0.0 | 2026-08-24T15:18:02.461Z | Apache-2.0 |
+| [gaxios](records/node-js-javascript-gaxios-e5cc049d.md) | Node.js/JavaScript | Networking Http | 8.0.0 | 2026-08-24T14:19:54.004Z | Apache-2.0 |
 | [meshery/meshery](records/webassembly-meshery-meshery-19a90056.md) | WebAssembly | Library | v1.0.68 | 2026-08-24T00:04:05Z | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
 | [Familia](records/r-familia-05e7de00.md) | R | Library | 2.0.0 | 2026-08-24 15:50:11 UTC | Apache License (>= 2) |
+| [misha](records/r-misha-a199de43.md) | R | Static Analyzer | 5.11.23 | 2026-08-24 13:30:02 UTC | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
 | [umweltapir](records/r-umweltapir-7baf56ab.md) | R | Api Abi Checker | 0.2.2 | 2026-08-24 11:20:02 UTC | MIT + file LICENSE \| Apache License 2.0 |
 | [reapeR](records/r-reaper-ae0c85d5.md) | R | Library | 0.2.0 | 2026-08-24 10:10:02 UTC | Apache License (>= 2) |
 | [CVXR](records/r-cvxr-462b1bfb.md) | R | Precommit Ci Quality | 1.9.2 | 2026-08-24 05:21:00 UTC | Apache License 2.0 \| file LICENSE |
@@ -213,7 +219,6 @@ Apache-2.0 is useful for projects that want permissive reuse plus an explicit pa
 | [PatientProfiles](records/r-patientprofiles-18c49f4a.md) | R | Ide Editor Integration | 1.6.1 | 2026-08-21 22:01:40 UTC | Apache License (>= 2) |
 | [S7schema](records/r-s7schema-da2b2603.md) | R | Serialization | 0.1.2 | 2026-08-21 22:01:19 UTC | Apache License (>= 2) |
 | [BIGpopA](records/r-bigpopa-a13b955e.md) | R | Filesystem Os | 2.0.0 | 2026-08-21 21:50:57 UTC | Apache License (>= 2) |
-| [DrugUtilisation](records/r-drugutilisation-4f591066.md) | R | Library | 1.3.1 | 2026-08-21 21:50:50 UTC | Apache License (>= 2) |
 | [cards](records/r-cards-ddd94f46.md) | R | Static Analyzer | 0.9.0 | 2026-08-21 13:40:18 UTC | Apache License 2.0 |
 | [Modeler](records/r-modeler-4dbf9177.md) | R | Machine Learning | 3.4.10 | 2026-08-21 11:20:07 UTC | Apache License (== 2.0) |
 | [arcpbf](records/r-arcpbf-628ea622.md) | R | Library | 0.3.0 | 2026-08-21 10:50:02 UTC | Apache License (>= 2) |
@@ -224,18 +229,17 @@ Apache-2.0 is useful for projects that want permissive reuse plus an explicit pa
 | [rxdb](records/node-js-javascript-rxdb-0e0bafcb.md) | Node.js/JavaScript | Networking Http | 17.5.0 | 2026-08-20T12:56:24.916Z | Apache-2.0 |
 | [typescript-language-server](records/node-js-typescript-typescript-language-server-4a5db2a4.md) | Node.js/TypeScript | Language Specification | 6.0.0 | 2026-08-20T06:14:48.324Z | Apache-2.0 |
 | [convex-test](records/node-js-javascript-convex-test-7a685bbc.md) | Node.js/JavaScript | Testing Framework | 0.0.56 | 2026-08-20T00:31:25.277Z | Apache-2.0 |
-| [admiralneuro](records/r-admiralneuro-64d97e33.md) | R | Filesystem Os | 0.3.0 | 2026-08-20 22:52:08 UTC | Apache License (>= 2) |
+| [admiralneuro](records/r-admiralneuro-64d97e33.md) | R | Filesystem Os | 0.3.0 | 2026-08-20 22:52:08 UTC | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
 | [lava](records/r-lava-bd3f9778.md) | R | Library | 1.9.3 | 2026-08-20 09:20:18 UTC | Apache License (== 2.0) |
+| [smerc](records/r-smerc-6063f40a.md) | R | Library | 1.8.6 | 2026-08-20 05:20:27 UTC | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
 | [@firebase/database](records/node-js-javascript-firebase-database-9026faf8.md) | Node.js/JavaScript | Database Datastore | 1.1.5 | 2026-08-19T20:22:19.028Z | Apache-2.0 |
 | [@firebase/rules-unit-testing](records/node-js-javascript-firebase-rules-unit-testing-81dde538.md) | Node.js/JavaScript | Lint Rule Pack | 5.0.2 | 2026-08-19T20:20:07.846Z | Apache-2.0 |
 | [@firebase/database-compat](records/node-js-javascript-firebase-database-compat-b3021f32.md) | Node.js/JavaScript | Database Datastore | 2.1.7 | 2026-08-19T20:19:23.862Z | Apache-2.0 |
 | [@firebase/database-types](records/node-js-javascript-firebase-database-types-6818da5b.md) | Node.js/JavaScript | Database Datastore | 1.0.22 | 2026-08-19T20:19:20.004Z | Apache-2.0 |
 | [@sitecore-content-sdk/cli](records/node-js-javascript-sitecore-content-sdk-cli-681aeaba.md) | Node.js/JavaScript | Cli | 2.2.1 | 2026-08-19T18:37:30.838Z | Apache-2.0 |
-| [futhark](records/haskell-futhark-b843b095.md) | Haskell | Library | 0.27.1 | 2026-08-19T12:15:41Z | Apache License (>= 2) |
 | [@salesforce/cli](records/node-js-javascript-salesforce-cli-b9219aa7.md) | Node.js/JavaScript | Cli | 2.149.9 | 2026-08-19T02:45:50.935Z | Apache-2.0 |
 | [openaq](records/r-openaq-e65c28b0.md) | R | Machine Learning | 1.1.0 | 2026-08-19 23:30:02 UTC | Apache License (== 2.0) |
 | [surveytable](records/r-surveytable-877aeb24.md) | R | Machine Learning | 0.10.0 | 2026-08-19 20:10:03 UTC | Apache License (>= 2) |
-| [@launchdarkly/node-server-sdk-redis](records/node-js-javascript-launchdarkly-node-server-sdk-redis-9016e0e8.md) | Node.js/JavaScript | Ide Editor Integration | 4.2.36 | 2026-08-18T19:56:59.738Z | Apache-2.0 |
 | [@launchdarkly/node-server-sdk-dynamodb](records/node-js-javascript-launchdarkly-node-server-sdk-dynamodb-3fac3645.md) | Node.js/JavaScript | Ide Editor Integration | 6.2.37 | 2026-08-18T19:56:38.441Z | Apache-2.0 |
 | [@launchdarkly/vercel-server-sdk](records/node-js-javascript-launchdarkly-vercel-server-sdk-18e8bdb3.md) | Node.js/JavaScript | Ide Editor Integration | 1.3.55 | 2026-08-18T19:55:41.397Z | Apache-2.0 |
 | [@launchdarkly/node-server-sdk](records/node-js-javascript-launchdarkly-node-server-sdk-ee82236b.md) | Node.js/JavaScript | Ide Editor Integration | 9.13.1 | 2026-08-18T19:55:32.194Z | Apache-2.0 |
@@ -248,6 +252,7 @@ Apache-2.0 is useful for projects that want permissive reuse plus an explicit pa
 | [@backstage/cli-module-migrate](records/node-js-javascript-backstage-cli-module-migrate-92ee8753.md) | Node.js/JavaScript | Cli | 0.2.1 | 2026-08-18T16:13:02.859Z | Apache-2.0 |
 | [@backstage/cli-module-lint](records/node-js-javascript-backstage-cli-module-lint-334bd0fc.md) | Node.js/JavaScript | Linter | 0.1.5 | 2026-08-18T16:12:57.628Z | Apache-2.0 |
 | [@backstage/cli-module-config](records/node-js-javascript-backstage-cli-module-config-8a87692b.md) | Node.js/JavaScript | Cli | 0.1.6 | 2026-08-18T16:12:51.776Z | Apache-2.0 |
+| [@backstage/cli-module-build](records/node-js-javascript-backstage-cli-module-build-bae18963.md) | Node.js/JavaScript | Build System | 0.1.7 | 2026-08-18T16:12:47.831Z | Apache-2.0 |
 | [@backstage/cli-defaults](records/node-js-javascript-backstage-cli-defaults-65de2921.md) | Node.js/JavaScript | Cli | 0.1.5 | 2026-08-18T16:12:42.370Z | Apache-2.0 |
 | [@backstage/cli](records/node-js-javascript-backstage-cli-a88e309b.md) | Node.js/JavaScript | Cli | 0.36.5 | 2026-08-18T16:12:37.391Z | Apache-2.0 |
 | [Apache.Avro](records/c-sharp-apache-avro-c14620d8.md) | C-Sharp | Language Specification | 1.12.2 | 2026-08-18T09:48:16.867+00:00 | https://www.nuget.org/packages/Apache.Avro/1.12.2/license |
@@ -260,39 +265,34 @@ Apache-2.0 is useful for projects that want permissive reuse plus an explicit pa
 | [@smithy/protocol-http](records/node-js-javascript-smithy-protocol-http-fddabc16.md) | Node.js/JavaScript | Package Manager | 5.6.2 | 2026-08-15T17:25:07.575Z | Apache-2.0 |
 | [WireMock.Net](records/c-sharp-wiremock-net-960ac410.md) | C-Sharp | Testing Framework | 2.15.0 | 2026-08-15T09:28:21.177+00:00 | Apache-2.0; https://www.nuget.org/packages/WireMock.Net/2.15.0/license |
 | [@molecule/api-database-sqlite](records/node-js-javascript-molecule-api-database-sqlite-91bd91b1.md) | Node.js/JavaScript | Ide Editor Integration | 1.0.3 | 2026-08-15T04:44:36.606Z | Apache-2.0 |
-| [@tamagui/build](records/node-js-javascript-tamagui-build-c2f126f8.md) | Node.js/JavaScript | Build System | 2.7.7 | 2026-08-15T00:25:45.641Z | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
-| [hdb](records/node-js-javascript-hdb-4cb3aca9.md) | Node.js/JavaScript | Networking Http | 2.29.6 | 2026-08-14T17:00:18.746Z | Apache License (>= 2) |
+| [hdb](records/node-js-javascript-hdb-4cb3aca9.md) | Node.js/JavaScript | Networking Http | 2.29.6 | 2026-08-14T17:00:18.746Z | Apache-2.0 |
 | [@stryker-mutator/core](records/node-js-javascript-stryker-mutator-core-931b4171.md) | Node.js/JavaScript | Testing Framework | 10.0.0 | 2026-08-14T16:51:22.686Z | Apache-2.0 |
 | [@stryker-mutator/api](records/node-js-javascript-stryker-mutator-api-9d1e2dd0.md) | Node.js/JavaScript | Testing Framework | 10.0.0 | 2026-08-14T16:51:10.145Z | Apache-2.0 |
 | [@stryker-mutator/util](records/node-js-javascript-stryker-mutator-util-0d4f0b82.md) | Node.js/JavaScript | Testing Framework | 10.0.0 | 2026-08-14T16:50:09.663Z | Apache-2.0 |
+| [@stryker-mutator/typescript-checker](records/node-js-typescript-stryker-mutator-typescript-checker-670d818f.md) | Node.js/TypeScript | Type Checker | 10.0.0 | 2026-08-14T16:49:21.639Z | Apache-2.0 |
 | [@ui5/builder](records/node-js-javascript-ui5-builder-40769d53.md) | Node.js/JavaScript | Build System | 4.3.1 | 2026-08-14T13:41:53.055Z | Apache-2.0 |
 | [@dbml/cli](records/node-js-javascript-dbml-cli-25f17ce6.md) | Node.js/JavaScript | Formatter | 10.1.1 | 2026-08-14T07:36:59.038Z | Apache-2.0 |
 | [appium-uiautomator2-server](records/node-js-javascript-appium-uiautomator2-server-156ed7d4.md) | Node.js/JavaScript | Web Framework | 10.6.2 | 2026-08-14T04:23:00.085Z | Apache-2.0 |
 | [Automattic/harper](records/webassembly-automattic-harper-ac075554.md) | WebAssembly | Parser Lexer Ast | v2.8.0 | 2026-08-13T18:09:36Z | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
 | [hookdeck-cli](records/node-js-javascript-hookdeck-cli-f0ecb616.md) | Node.js/JavaScript | Cli | 2.5.0 | 2026-08-13T12:17:17.074Z | Apache-2.0 |
 | [actions-http-helper](records/python-actions-http-helper-8b75100f.md) | Python | Networking Http | 1.0.0 | 2026-08-13T11:46:09.248963Z | Apache-2.0; License :: OSI Approved :: Apache Software License |
-| [@deepnote/database-integrations](records/node-js-javascript-deepnote-database-integrations-94391db4.md) | Node.js/JavaScript | Database Datastore | 1.6.0 | 2026-08-13T11:25:10.087Z | Apache-2.0 |
 | [@ui5/mcp-server](records/node-js-javascript-ui5-mcp-server-ed5f5678.md) | Node.js/JavaScript | Web Framework | 0.2.18 | 2026-08-13T09:15:38.219Z | Apache-2.0 |
 | [WebAssembly/binaryen](records/webassembly-webassembly-binaryen-c806271b.md) | WebAssembly | Language Specification | version_132 | 2026-08-12T21:53:49Z | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
 | [@heroku/mcp-server](records/node-js-javascript-heroku-mcp-server-1d60d18d.md) | Node.js/JavaScript | Web Framework | 1.2.6 | 2026-08-11T18:12:17.926Z | Apache-2.0 |
-| [futures-sink](records/rust-futures-sink-a842c4a4.md) | Rust | Async Runtime | 0.3.34 | 2026-08-11T12:13:06.160611Z | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
 | [mongodb-mcp-server](records/node-js-javascript-mongodb-mcp-server-f834c764.md) | Node.js/JavaScript | Web Framework | 2.1.0 | 2026-08-10T12:18:03.267Z | Apache-2.0 |
 | [palettecore](records/r-palettecore-cac75def.md) | R | Security Sast | 0.4.1 | 2026-08-09 08:10:02 UTC | Apache License (>= 2) |
+| [libsqlite3-sys](records/rust-libsqlite3-sys-a5d91c97.md) | Rust | Ffi Bindings | 0.38.2 | 2026-08-08T14:21:30.774453Z | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
+| [web-sys](records/rust-web-sys-f4d4d76b.md) | Rust | Ffi Bindings | 0.3.104 | 2026-08-08T00:57:03.760573Z | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
 | [diffuseR](records/r-diffuser-6c6d30d6.md) | R | Library | 0.2.2 | 2026-08-08 12:40:02 UTC | Apache License (>= 2) |
 | [matter-server](records/node-js-javascript-matter-server-239f0299.md) | Node.js/JavaScript | Networking Http | 1.4.0 | 2026-08-07T08:52:35.642Z | Apache-2.0 |
 | [@matter-server/dashboard](records/node-js-javascript-matter-server-dashboard-b2554d68.md) | Node.js/JavaScript | Web Framework | 1.4.0 | 2026-08-07T08:52:20.210Z | Apache-2.0 |
 | [@matter-server/ws-client](records/node-js-javascript-matter-server-ws-client-b27d342f.md) | Node.js/JavaScript | Networking Http | 1.4.0 | 2026-08-07T08:52:11.391Z | Apache-2.0 |
 | [tinycache](records/r-tinycache-2162daa2.md) | R | Memory Analyzer | 0.1 | 2026-08-07 16:50:02 UTC | Apache License 2.0 |
 | [IncrementalityTEST](records/r-incrementalitytest-522341d8.md) | R | Testing Framework | 0.1.1 | 2026-08-07 16:30:25 UTC | Apache License (>= 2) |
+| [RegCalib](records/r-regcalib-30de2731.md) | R | Library | 0.1.0 | 2026-08-07 16:30:20 UTC | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
 | [tinyroxygen](records/r-tinyroxygen-f1b543dc.md) | R | Documentation | 0.1 | 2026-08-06 13:20:02 UTC | Apache License 2.0 |
+| [corteza](records/r-corteza-4c231385.md) | R | Interpreter Runtime | 0.7.1 | 2026-08-05 09:20:22 UTC | Apache License (>= 2) |
 | [apache.sedona](records/r-apache-sedona-fb35d634.md) | R | Library | 1.9.1 | 2026-08-05 08:00:02 UTC | Apache License 2.0 |
-| [adata-plus](records/python-adata-plus-372305d4.md) | Python | Library | 3.0.8 | 2026-08-04T07:44:56.559805Z | Apache License; License :: OSI Approved :: Apache Software License |
-| [@molecule/api-database](records/node-js-javascript-molecule-api-database-979879ec.md) | Node.js/JavaScript | Database Datastore | 1.0.1 | 2026-08-04T02:40:01.172Z | Apache-2.0 |
-| [nanoarrow](records/r-nanoarrow-5edf0220.md) | R | Library | 0.9.0 | 2026-08-04 23:50:08 UTC | Apache License (>= 2) |
-| [pensar](records/r-pensar-3281ddcb.md) | R | Machine Learning | 0.7.0 | 2026-08-04 23:50:02 UTC | Apache License (>= 2) |
-| [mx.client](records/r-mx-client-9357f9db.md) | R | Networking Http | 0.2.0 | 2026-08-04 22:10:08 UTC | Apache License (>= 2) |
-| [mx.crypto](records/r-mx-crypto-b14a1d72.md) | R | Cryptography | 0.2.1 | 2026-08-04 22:10:02 UTC | MIT + file LICENSE \| Apache License 2.0 |
-| [ssddata](records/r-ssddata-a8bbe4b2.md) | R | Precommit Ci Quality | 2.0.0 | 2026-08-04 10:30:22 UTC | Apache License (== 2.0) |
 
 ### Apache Preview And Nightly Signals
 
@@ -310,7 +310,6 @@ Apache-2.0 is useful for projects that want permissive reuse plus an explicit pa
 | [Confluent.SchemaRegistry.Serdes.Json](records/c-sharp-confluent-schemaregistry-serdes-json-b13c41d5.md) | C-Sharp | Package Manager | 2.15.0-RC2 | 2026-06-30T12:48:01.567+00:00 | Apache-2.0; https://www.nuget.org/packages/Confluent.SchemaRegistry.Serdes.Json/2.15.0/license |
 | [RestSharp.Serializers.NewtonsoftJson](records/c-sharp-restsharp-serializers-newtonsoftjson-08ce613b.md) | C-Sharp | Serialization | 114.0.1-alpha.0.4 | 2026-06-02T14:50:02.87+00:00 | Apache-2.0; https://www.nuget.org/packages/RestSharp.Serializers.NewtonsoftJson/114.0.0/license |
 | [apple/containerization](records/swift-apple-containerization-17cc55a1.md) | Swift | Language Specification | 0.33.3 | 2026-06-01T21:23:41Z | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
-| [Serilog.Settings.Configuration](records/c-sharp-serilog-settings-configuration-2c5cf048.md) | C-Sharp | Serialization | 10.0.1-dev-02351 | 2026-05-26T22:00:56.18+00:00 | Apache-2.0; https://www.nuget.org/packages/Serilog.Settings.Configuration/10.0.1/license |
 | [fluvio-community/fluvio](records/webassembly-fluvio-community-fluvio-e10afd5e.md) | WebAssembly | Community Reference | dev | 2026-05-14T14:55:15Z | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
 | [log4net.Ext.Json](records/c-sharp-log4net-ext-json-4eb742eb.md) | C-Sharp | Serialization | 3.0.3-develop2156055109 | 2025-11-13T07:06:46.403+00:00 | Apache-2.0; https://www.nuget.org/packages/log4net.Ext.Json/3.0.3/license |
 | [CacheManager.Serialization.Json](records/c-sharp-cachemanager-serialization-json-78951178.md) | C-Sharp | Standard Library | 3.0.0-beta-20251110.1 | 2025-11-10T13:53:56.423+00:00 | Apache-2.0; https://www.nuget.org/packages/CacheManager.Serialization.Json/3.0.0/license |
@@ -324,8 +323,10 @@ Apache-2.0 is useful for projects that want permissive reuse plus an explicit pa
 | [acryl-datahub-gx-plugin](records/python-acryl-datahub-gx-plugin-5c879a7a.md) | Python | Undefined Behavior Analyzer | 15.0.5rc2 | 2025-01-23T12:54:17.298599Z | Apache-2.0 |
 | [acryl-datahub-dagster-plugin](records/python-acryl-datahub-dagster-plugin-600a40f1.md) | Python | Package Manager | 15.0.5rc2 | 2025-01-23T12:54:16.063596Z | Apache-2.0 |
 | [Serilog.Formatting.Compact.Reader](records/c-sharp-serilog-formatting-compact-reader-e6a31e9c.md) | C-Sharp | Formatter | 4.1.0-dev-00085 | 2024-08-05T07:01:05.413+00:00 | Apache-2.0; https://www.nuget.org/packages/Serilog.Formatting.Compact.Reader/4.0.0/license; https://www.nuget.org/packages/Serilog.Formatting.Compact.Reader/4.1.0-dev-00085/license |
+| [Serilog.Formatting.Compact](records/c-sharp-serilog-formatting-compact-303a3085.md) | C-Sharp | Formatter | 3.0.0-dev-00980 | 2024-06-09T21:33:37.497+00:00 | Apache-2.0; https://www.nuget.org/packages/Serilog.Formatting.Compact/3.0.0/license |
 | [adata](records/python-adata-3edf3f67.md) | Python | Library | 2.0.1b0 | 2024-04-17T10:57:19.222812Z | Apache License; License :: OSI Approved :: MIT License |
 | [Serilog.Sinks.Http](records/c-sharp-serilog-sinks-http-1227fcb6.md) | C-Sharp | Networking Http | 9.0.0-beta.2 | 2024-03-27T06:07:00.383+00:00 | Apache-2.0; https://www.nuget.org/packages/Serilog.Sinks.Http/9.2.1/license |
+| [GottaGetSwifty/CodableWrappers](records/swift-gottagetswifty-codablewrappers-2321bbf2.md) | Swift | Build System | 3.0.0-alpha-release-2 | 2024-02-27T03:07:19Z | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
 | [DigitalPhonetics/IMS-Toucan](records/audio-digitalphonetics-ims-toucan-96508b32.md) | Audio | Language Specification | v2.asvspoof | 2023-12-01T15:40:39Z | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
 | [Destructurama.JsonNet](records/c-sharp-destructurama-jsonnet-df566599.md) | C-Sharp | Serialization | 2.0.1-dev-00038 | 2023-10-31T06:34:49.453+00:00 | Apache-2.0; https://www.nuget.org/packages/Destructurama.JsonNet/4.0.2/license |
 | [acryl-datahub-tc](records/python-acryl-datahub-tc-66d2584e.md) | Python | Undefined Behavior Analyzer | 0.10.2rc1 | 2023-05-31T19:14:30.948891Z | Apache License 2.0; License :: OSI Approved; License :: OSI Approved :: Apache Software License |
@@ -347,7 +348,14 @@ Apache-2.0 is useful for projects that want permissive reuse plus an explicit pa
 | [Microsoft.Owin.Host.HttpListener](records/c-sharp-microsoft-owin-host-httplistener-3fd5e028.md) | C-Sharp | Networking Http | 4.0.0-preview1 | 2017-11-21T17:20:52.47+00:00 | Apache-2.0; https://www.nuget.org/packages/Microsoft.Owin.Host.HttpListener/4.2.3/license |
 | [Quartz.Serialization.Json](records/c-sharp-quartz-serialization-json-94354436.md) | C-Sharp | Serialization | 3.0.0-beta1 | 2017-10-08T10:53:29.083+00:00 | Apache-2.0; https://www.nuget.org/packages/Quartz.Serialization.Json/3.20.0/license |
 | [aditam.server](records/python-aditam-server-4309ede4.md) | Python | Web Framework | 0.1b1 | 2008-06-10T19:52:50Z | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
-| [futhark](records/haskell-futhark-b843b095.md) | Haskell | Library | 0.7.3 | hackage_candidate_date_missing | Apache License (>= 2) |
+| [nemesis](records/haskell-nemesis-4b60e676.md) | Haskell | Library | 2018.1.27 | hackage_candidate_date_missing | Apache License (== 2.0) |
+| [miso](records/haskell-miso-6e93c710.md) | Haskell | Library | 0.11.0.0 | hackage_candidate_date_missing | Apache License 2.0 |
+| [hiedb](records/haskell-hiedb-bbdd9469.md) | Haskell | Library | 0.1.0.0 | hackage_candidate_date_missing | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
+| [grid](records/haskell-grid-9e0cf1f8.md) | Haskell | Library | 7.8.11 | hackage_candidate_date_missing | Apache-2.0 |
+| [gi-glib](records/haskell-gi-glib-9fbc23dc.md) | Haskell | Library | 0.0.2 | hackage_candidate_date_missing | Apache-2.0 |
+| [ghc-typelits-knownnat](records/haskell-ghc-typelits-knownnat-5af32812.md) | Haskell | Library | 0.4 | hackage_candidate_date_missing | Apache-2.0 |
+| [ghc-boot-th](records/haskell-ghc-boot-th-e7ca5908.md) | Haskell | Library | 8.2.2 | hackage_candidate_date_missing | Apache-2.0 |
+| [antiope-messages](records/haskell-antiope-messages-d8568985.md) | Haskell | Library | 7.0.1 | hackage_candidate_date_missing | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
 
 ## MIT Showcase
 
@@ -357,6 +365,7 @@ MIT is useful for compact permissive reuse where the main operational requiremen
 
 | Name | Language | Category | Version | Date | License Evidence |
 | --- | --- | --- | --- | --- | --- |
+| [grapesy](records/haskell-grapesy-9ecbf2e2.md) | Haskell | Library | 1.2.0 | 2026-09-02T12:23:06Z | MIT |
 | [@lvce-editor/server](records/node-js-javascript-lvce-editor-server-2144b1dd.md) | Node.js/JavaScript | Ide Editor Integration | 0.111.20 | 2026-09-02T11:46:14.413Z | MIT |
 | [@lightdash/cli](records/node-js-javascript-lightdash-cli-ba24b859.md) | Node.js/JavaScript | Cli | 2.89.0 | 2026-09-02T11:42:12.748Z | MIT |
 | [@netlify/database](records/node-js-typescript-netlify-database-f6babfde.md) | Node.js/TypeScript | Type Checker | 2.0.1 | 2026-09-02T10:47:18.446Z | MIT |
@@ -375,7 +384,6 @@ MIT is useful for compact permissive reuse where the main operational requiremen
 | [@stacksjs/database](records/node-js-javascript-stacksjs-database-6ccea6c0.md) | Node.js/JavaScript | Database Datastore | 0.74.2 | 2026-09-02T04:17:57.622Z | MIT |
 | [@stacksjs/testing](records/node-js-javascript-stacksjs-testing-57469937.md) | Node.js/JavaScript | Testing Framework | 0.74.2 | 2026-09-02T04:14:13.480Z | MIT |
 | [@stacksjs/http](records/node-js-javascript-stacksjs-http-63b8b8cd.md) | Node.js/JavaScript | Networking Http | 0.74.2 | 2026-09-02T04:12:39.506Z | MIT |
-| [@transcend-io/mcp-server-admin](records/node-js-javascript-transcend-io-mcp-server-admin-c732016b.md) | Node.js/JavaScript | Web Framework | 0.6.9 | 2026-09-02T03:50:31.038Z | MIT + file LICENSE |
 | [@unocss/cli](records/node-js-javascript-unocss-cli-c357f3f3.md) | Node.js/JavaScript | Cli | 66.9.2 | 2026-09-02T03:03:06.544Z | MIT |
 | [viem](records/node-js-typescript-viem-f5262c89.md) | Node.js/TypeScript | Type Checker | 2.56.3 | 2026-09-02T02:28:20.378Z | MIT |
 | [@constructive-io/graphql-server](records/node-js-javascript-constructive-io-graphql-server-5edba745.md) | Node.js/JavaScript | Web Framework | 5.20.8 | 2026-09-02T02:26:47.346Z | MIT |
@@ -384,6 +392,7 @@ MIT is useful for compact permissive reuse where the main operational requiremen
 | [@shopify/cli](records/node-js-javascript-shopify-cli-44d77c3d.md) | Node.js/JavaScript | Build System | 4.7.1 | 2026-09-02T00:09:42.906Z | MIT |
 | [AgriDataTools](records/r-agridatatools-fdfeb5da.md) | R | Static Analyzer | 0.2.1 | 2026-09-02 12:20:33 UTC | MIT + file LICENSE |
 | [Waypoint](records/r-waypoint-702cd622.md) | R | Formatter | 2.0.1 | 2026-09-02 12:20:10 UTC | MIT + file LICENSE |
+| [mwana](records/r-mwana-39842d32.md) | R | Static Analyzer | 0.2.5 | 2026-09-02 12:20:02 UTC | MIT License; https://api.github.com/licenses/mit |
 | [biopalette](records/r-biopalette-b123d8b5.md) | R | Visualization Gui | 0.2.2 | 2026-09-02 12:10:02 UTC | MIT + file LICENSE |
 | [flexsynth](records/r-flexsynth-370c1a4a.md) | R | Library | 0.2.1 | 2026-09-02 12:00:02 UTC | MIT + file LICENSE |
 | [ltgsmd](records/r-ltgsmd-ac71ea7e.md) | R | Library | 0.2.2 | 2026-09-02 11:30:09 UTC | MIT + file LICENSE |
@@ -392,7 +401,9 @@ MIT is useful for compact permissive reuse where the main operational requiremen
 | [openxlsx](records/r-openxlsx-beaffd1b.md) | R | Library | 4.2.9 | 2026-09-02 09:30:02 UTC | MIT + file LICENSE |
 | [reviser](records/r-reviser-80bdb9d4.md) | R | Datetime | 0.3.0 | 2026-09-02 08:30:02 UTC | MIT + file LICENSE |
 | [taxify](records/r-taxify-01df7d05.md) | R | Machine Learning | 0.5.0 | 2026-09-02 07:10:02 UTC | MIT + file LICENSE |
+| [fozziejoin](records/r-fozziejoin-60790e9f.md) | R | Data Science | 0.0.16 | 2026-09-02 07:00:02 UTC | MIT + file LICENSE |
 | [tidylearn](records/r-tidylearn-1cebf31c.md) | R | Filesystem Os | 0.5.0 | 2026-09-02 06:20:02 UTC | MIT + file LICENSE |
+| [readODS](records/r-readods-0f703511.md) | R | Library | 2.3.6 | 2026-09-02 05:20:13 UTC | MIT License; https://api.github.com/licenses/mit |
 | [valdr](records/r-valdr-721ab055.md) | R | Api Abi Checker | 4.0.0 | 2026-09-02 05:20:02 UTC | MIT + file LICENSE |
 | [testing-conventions](records/node-js-typescript-testing-conventions-a7bae5cf.md) | Node.js/TypeScript | Type Checker | 0.0.111 | 2026-09-01T23:24:47.391Z | MIT |
 | [@tellescope/testing](records/node-js-javascript-tellescope-testing-59848a2c.md) | Node.js/JavaScript | Testing Framework | 1.256.13 | 2026-09-01T22:15:22.196Z | MIT |
@@ -409,16 +420,17 @@ MIT is useful for compact permissive reuse where the main operational requiremen
 | [@fallow-cli/linux-x64-gnu](records/node-js-javascript-fallow-cli-linux-x64-gnu-c24edc1b.md) | Node.js/JavaScript | Cli | 3.22.0 | 2026-09-01T19:38:15.594Z | MIT |
 | [@tryghost/server](records/node-js-javascript-tryghost-server-914387f6.md) | Node.js/JavaScript | Package Manager | 3.1.13 | 2026-09-01T19:36:57.320Z | MIT |
 | [@tryghost/database-info](records/node-js-javascript-tryghost-database-info-d1eda67d.md) | Node.js/JavaScript | Formatter | 2.3.12 | 2026-09-01T19:36:31.024Z | MIT |
-| [oci-databasemigration](records/node-js-javascript-oci-databasemigration-75576e9b.md) | Node.js/JavaScript | Networking Http | 2.140.1 | 2026-09-01T18:36:40.831Z | MIT + file LICENSE |
 | [@usebruno/cli](records/node-js-javascript-usebruno-cli-61be65ea.md) | Node.js/JavaScript | Cli | 4.1.0 | 2026-09-01T18:00:53.653Z | MIT |
 | [@anthropic-ai/sdk](records/node-js-typescript-anthropic-ai-sdk-505c8b05.md) | Node.js/TypeScript | Type Checker | 0.123.0 | 2026-09-01T17:54:56.803Z | MIT |
 | [@larksuite/cli](records/node-js-javascript-larksuite-cli-442a55c5.md) | Node.js/JavaScript | Ffi Bindings | 1.0.93 | 2026-09-01T17:02:32.658Z | MIT |
 | [@expo/cli](records/node-js-javascript-expo-cli-22f34048.md) | Node.js/JavaScript | Cli | 57.0.21 | 2026-09-01T16:21:32.728Z | MIT |
+| [git-annex](records/haskell-git-annex-d8d84f4e.md) | Haskell | Library | 10.20260901 | 2026-09-01T15:29:09Z | MIT |
 | [@lwc/engine-server](records/node-js-javascript-lwc-engine-server-cb6ffd2a.md) | Node.js/JavaScript | Web Framework | 9.4.2 | 2026-09-01T15:06:20.636Z | MIT |
 | [@octanejs/testing-library](records/node-js-javascript-octanejs-testing-library-4634f05b.md) | Node.js/JavaScript | Testing Framework | 0.1.48 | 2026-09-01T14:40:21.400Z | MIT License; https://api.github.com/licenses/mit |
 | [cypress](records/node-js-javascript-cypress-8aa475c3.md) | Node.js/JavaScript | Testing Framework | 16.0.0 | 2026-09-01T14:33:18.616Z | MIT |
 | [@graphql-hive/cli](records/node-js-javascript-graphql-hive-cli-d8cf3b01.md) | Node.js/JavaScript | Cli | 0.63.0 | 2026-09-01T13:44:09.800Z | MIT |
 | [@sanity/cli](records/node-js-javascript-sanity-cli-257446f0.md) | Node.js/JavaScript | Cli | 8.7.0 | 2026-09-01T13:43:14.610Z | MIT |
+| [@sanity/cli-core](records/node-js-javascript-sanity-cli-core-cef78bf4.md) | Node.js/JavaScript | Cli | 3.6.0 | 2026-09-01T13:43:08.476Z | MIT |
 | [argue-cli](records/node-js-javascript-argue-cli-9c0b89c0.md) | Node.js/JavaScript | Parser Lexer Ast | 3.2.0 | 2026-09-01T12:58:04.098Z | MIT |
 | [ra-data-json-server](records/node-js-javascript-ra-data-json-server-08269826.md) | Node.js/JavaScript | Ide Editor Integration | 5.15.2 | 2026-09-01T12:12:51.438Z | MIT |
 | [@rspack/cli](records/node-js-javascript-rspack-cli-8e6b6307.md) | Node.js/JavaScript | Cli | 2.2.2 | 2026-09-01T11:45:15.831Z | MIT |
@@ -439,6 +451,7 @@ MIT is useful for compact permissive reuse where the main operational requiremen
 | [@github/copilot-language-server-win32-x64](records/node-js-javascript-github-copilot-language-server-win32-x64-bfb04d01.md) | Node.js/JavaScript | Language Specification | 1.539.0 | 2026-09-01T04:35:48.750Z | MIT |
 | [@github/copilot-language-server-linux-x64](records/node-js-javascript-github-copilot-language-server-linux-x64-02307b0b.md) | Node.js/JavaScript | Language Specification | 1.539.0 | 2026-09-01T04:35:18.800Z | MIT |
 | [@github/copilot-language-server-darwin-arm64](records/node-js-javascript-github-copilot-language-server-darwin-arm64-20bcc86b.md) | Node.js/JavaScript | Language Specification | 1.539.0 | 2026-09-01T04:34:25.036Z | MIT |
+| [kioku-core](records/haskell-kioku-core-38935c2c.md) | Haskell | Library | 0.5.2.0 | 2026-09-01T03:56:37Z | MIT + file LICENSE |
 | [sharp-cli](records/node-js-javascript-sharp-cli-50cbdcef.md) | Node.js/JavaScript | Cli | 6.1.0 | 2026-09-01T03:15:16.777Z | MIT |
 | [@gltf-transform/cli](records/node-js-javascript-gltf-transform-cli-56392446.md) | Node.js/JavaScript | Cli | 4.5.0 | 2026-09-01T00:43:18.551Z | MIT |
 | [Ruido](records/r-ruido-8640bf30.md) | R | Logging Observability | 1.1.0 | 2026-09-01 23:00:02 UTC | MIT + file LICENSE |
@@ -457,7 +470,9 @@ MIT is useful for compact permissive reuse where the main operational requiremen
 | [fastgbm](records/r-fastgbm-ada3bf02.md) | R | Static Analyzer | 0.6.1 | 2026-09-01 11:50:12 UTC | MIT + file LICENSE |
 | [datom](records/r-datom-465d8abc.md) | R | Profiler | 0.1.1 | 2026-09-01 11:40:15 UTC | MIT + file LICENSE |
 | [distspec](records/r-distspec-7a6e82bf.md) | R | Machine Learning | 0.2.0 | 2026-09-01 11:40:09 UTC | MIT + file LICENSE |
+| [mLLMCelltype](records/r-mllmcelltype-eb79340b.md) | R | Language Specification | 2.0.8 | 2026-09-01 11:40:02 UTC | MIT + file LICENSE |
 | [phynotype](records/r-phynotype-dd4d59bc.md) | R | Library | 0.6.2 | 2026-09-01 11:30:02 UTC | MIT + file LICENSE |
+| [logtree](records/r-logtree-c8fc4dc5.md) | R | Logging Observability | 0.2.0 | 2026-09-01 10:30:10 UTC | MIT + file LICENSE |
 | [messydates](records/r-messydates-74d00e9f.md) | R | Datetime | 1.1.1 | 2026-09-01 10:30:03 UTC | MIT + file LICENSE |
 | [pdftools](records/r-pdftools-edd0e31f.md) | R | Library | 3.9.1 | 2026-09-01 10:20:02 UTC | MIT + file LICENSE |
 | [xpose.xtras](records/r-xpose-xtras-bb40722d.md) | R | Filesystem Os | 0.2.2 | 2026-09-01 10:10:03 UTC | MIT + file LICENSE |
@@ -465,6 +480,7 @@ MIT is useful for compact permissive reuse where the main operational requiremen
 | [urbstatdata](records/r-urbstatdata-de4dc874.md) | R | Configuration | 0.1.0 | 2026-09-01 08:50:02 UTC | MIT + file LICENSE |
 | [deOpenData](records/r-deopendata-debcc022.md) | R | Api Abi Checker | 0.1.0 | 2026-09-01 08:40:02 UTC | MIT + file LICENSE |
 | [densemlp](records/r-densemlp-e5e46ec2.md) | R | Networking Http | 0.7.1 | 2026-09-01 08:30:19 UTC | MIT + file LICENSE |
+| [depictr](records/r-depictr-4b19a4b8.md) | R | Utility Library | 0.3.0 | 2026-09-01 08:30:09 UTC | MIT + file LICENSE |
 | [theoryforge](records/r-theoryforge-6d7e484b.md) | R | Library | 0.6.0 | 2026-09-01 08:30:02 UTC | MIT + file LICENSE |
 | [reactRouter](records/r-reactrouter-331dc40d.md) | R | Web Framework | 0.2.1 | 2026-09-01 08:20:02 UTC | MIT + file LICENSE |
 | [confidenceSim](records/r-confidencesim-2c03aed8.md) | R | Ide Editor Integration | 0.1.1 | 2026-09-01 08:00:03 UTC | MIT + file LICENSE |
@@ -479,12 +495,15 @@ MIT is useful for compact permissive reuse where the main operational requiremen
 | [@faststore/cli](records/node-js-javascript-faststore-cli-98f71262.md) | Node.js/JavaScript | Parser Lexer Ast | 4.7.0 | 2026-08-31T21:22:09.303Z | MIT |
 | [@athenna/database](records/node-js-javascript-athenna-database-561068b6.md) | Node.js/JavaScript | Database Datastore | 5.62.0 | 2026-08-31T20:57:03.218Z | MIT |
 | [@expo/build-tools](records/node-js-javascript-expo-build-tools-780fc9ec.md) | Node.js/JavaScript | Standard Library | 23.2.0 | 2026-08-31T20:27:28.121Z | MIT License; https://api.github.com/licenses/mit |
+| [@modelcontextprotocol/server-memory](records/node-js-javascript-modelcontextprotocol-server-memory-654a2423.md) | Node.js/JavaScript | Memory Analyzer | 2026.8.31 | 2026-08-31T20:23:48.078Z | MIT License; https://api.github.com/licenses/mit |
 | [@locker/shared-url](records/node-js-javascript-locker-shared-url-c6990be7.md) | Node.js/JavaScript | Security Sast | 0.27.9 | 2026-08-31T20:03:11.787Z | MIT License; https://api.github.com/licenses/mit |
 | [@astrojs/language-server](records/node-js-javascript-astrojs-language-server-17f2a6f3.md) | Node.js/JavaScript | Language Specification | 2.16.16 | 2026-08-31T19:37:41.058Z | MIT |
 | [@stacksjs/logging](records/node-js-javascript-stacksjs-logging-4cf23af5.md) | Node.js/JavaScript | Logging Observability | 0.73.3 | 2026-08-31T19:06:12.031Z | MIT License; https://api.github.com/licenses/mit |
 | [@remix-run/data-table-sqlite](records/node-js-javascript-remix-run-data-table-sqlite-0532449b.md) | Node.js/JavaScript | Database Datastore | 0.6.1 | 2026-08-31T18:57:23.626Z | MIT |
-| [@remix-run/data-table-postgres](records/node-js-javascript-remix-run-data-table-postgres-53a6ca39.md) | Node.js/JavaScript | Database Datastore | 0.5.1 | 2026-08-31T18:57:17.239Z | MIT |
+| [@remix-run/data-table-postgres](records/node-js-javascript-remix-run-data-table-postgres-53a6ca39.md) | Node.js/JavaScript | Database Datastore | 0.5.1 | 2026-08-31T18:57:17.239Z | MIT License; https://api.github.com/licenses/mit |
 | [@remix-run/data-table-mysql](records/node-js-javascript-remix-run-data-table-mysql-c95cb540.md) | Node.js/JavaScript | Database Datastore | 0.5.1 | 2026-08-31T18:57:10.691Z | MIT |
+| [gitit](records/haskell-gitit-49fab674.md) | Haskell | Library | 0.16.0.1 | 2026-08-31T18:07:48Z | MIT |
+| [nest-commander-testing](records/node-js-javascript-nest-commander-testing-0dd53d26.md) | Node.js/JavaScript | Build System | 3.6.0 | 2026-08-31T17:23:29.980Z | MIT |
 | [@typescript-eslint/visitor-keys](records/node-js-typescript-typescript-eslint-visitor-keys-6cfd9c00.md) | Node.js/TypeScript | Linter | 8.69.0 | 2026-08-31T17:11:56.546Z | MIT |
 | [@typescript-eslint/eslint-plugin](records/node-js-typescript-typescript-eslint-eslint-plugin-ca0a1205.md) | Node.js/TypeScript | Linter | 8.69.0 | 2026-08-31T17:10:34.452Z | MIT |
 | [@typescript-eslint/type-utils](records/node-js-typescript-typescript-eslint-type-utils-08cc431d.md) | Node.js/TypeScript | Linter | 8.69.0 | 2026-08-31T17:09:51.270Z | MIT |
@@ -506,7 +525,7 @@ MIT is useful for compact permissive reuse where the main operational requiremen
 | [@devcontainers/cli](records/node-js-javascript-devcontainers-cli-6df3ec6d.md) | Node.js/JavaScript | Cli | 0.89.0 | 2026-08-31T07:50:41.687Z | MIT |
 | [@gjsify/http](records/node-js-javascript-gjsify-http-1598f2a7.md) | Node.js/JavaScript | Networking Http | 0.45.0 | 2026-08-31T04:21:30.988Z | MIT |
 | [value-bag-sval2](records/rust-value-bag-sval2-5e70853e.md) | Rust | Machine Learning | 1.14.0 | 2026-08-31T03:46:56.641039Z | MIT + file LICENSE |
-| [dgraphs](records/r-dgraphs-81082d45.md) | R | Library | 0.2.0 | 2026-08-31 23:10:10 UTC | MIT + file LICENSE |
+| [dgraphs](records/r-dgraphs-81082d45.md) | R | Library | 0.2.0 | 2026-08-31 23:10:10 UTC | MIT License; https://api.github.com/licenses/mit |
 | [tikatuwq](records/r-tikatuwq-3449ba3d.md) | R | Configuration | 0.10.0 | 2026-08-31 23:10:02 UTC | MIT + file LICENSE |
 | [linf](records/r-linf-fb151a95.md) | R | Community Reference | 0.3.0 | 2026-08-31 23:00:02 UTC | MIT + file LICENSE |
 | [RapidFuzz](records/r-rapidfuzz-9d11599d.md) | R | Fuzzer | 1.1.1 | 2026-08-31 22:40:02 UTC | MIT + file LICENSE |
@@ -518,6 +537,7 @@ MIT is useful for compact permissive reuse where the main operational requiremen
 | [OptimalBinningWoE](records/r-optimalbinningwoe-106ae38f.md) | R | Ide Editor Integration | 1.13.5 | 2026-08-31 22:00:47 UTC | MIT + file LICENSE |
 | [badp](records/r-badp-d37d1be2.md) | R | Library | 0.6.1 | 2026-08-31 22:00:32 UTC | MIT + file LICENSE |
 | [rifexpectile](records/r-rifexpectile-3bcbe5dd.md) | R | Filesystem Os | 0.1.1 | 2026-08-31 22:00:21 UTC | MIT + file LICENSE |
+| [ruv](records/r-ruv-95beb863.md) | R | Library | 0.9.7.2 | 2026-08-31 22:00:08 UTC | MIT License; https://api.github.com/licenses/mit |
 | [snowflakeauth](records/r-snowflakeauth-230b41c6.md) | R | Utility Library | 0.3.0 | 2026-08-31 22:00:02 UTC | MIT + file LICENSE |
 | [maestro](records/r-maestro-cf255b9c.md) | R | Package Manager | 1.3.0 | 2026-08-31 20:30:02 UTC | MIT + file LICENSE |
 | [ggalttext](records/r-ggalttext-f7b926ad.md) | R | Build System | 0.4.0 | 2026-08-31 20:00:02 UTC | MIT + file LICENSE |
@@ -536,7 +556,7 @@ MIT is useful for compact permissive reuse where the main operational requiremen
 | [ipaddress](records/r-ipaddress-69525d8b.md) | R | Static Analyzer | 1.0.4 | 2026-08-31 15:50:02 UTC | MIT + file LICENSE |
 | [mulgar](records/r-mulgar-9b9617c4.md) | R | Library | 1.0.8 | 2026-08-31 15:30:02 UTC | MIT + file LICENSE |
 | [edf](records/r-edf-9fec92c6.md) | R | Formatter | 1.0.1 | 2026-08-31 14:50:02 UTC | MIT + file LICENSE |
-| [MapperAlgo](records/r-mapperalgo-20f176dd.md) | R | Static Analyzer | 1.2.0 | 2026-08-31 14:40:02 UTC | MIT + file LICENSE |
+| [MapperAlgo](records/r-mapperalgo-20f176dd.md) | R | Static Analyzer | 1.2.0 | 2026-08-31 14:40:02 UTC | MIT License; https://api.github.com/licenses/mit |
 | [gpci](records/r-gpci-11704d6f.md) | R | Ide Editor Integration | 0.1.0 | 2026-08-31 12:30:02 UTC | MIT + file LICENSE |
 | [MFF](records/r-mff-84f3fe81.md) | R | Fuzzer | 0.2.4 | 2026-08-31 11:50:02 UTC | MIT + file LICENSE |
 | [type-fest](records/node-js-typescript-type-fest-05e5048b.md) | Node.js/TypeScript | Type Checker | 5.9.0 | 2026-08-30T23:58:44.656Z | (MIT OR CC0-1.0) |
@@ -581,6 +601,7 @@ MIT is useful for compact permissive reuse where the main operational requiremen
 | [zarr](records/r-zarr-e90e14d2.md) | R | Library | 0.5.0 | 2026-08-30 05:10:02 UTC | MIT + file LICENSE |
 | [weightflow](records/r-weightflow-33ea0642.md) | R | Precommit Ci Quality | 1.2.0 | 2026-08-30 03:30:02 UTC | MIT + file LICENSE |
 | [keyring](records/rust-keyring-a2184be9.md) | Rust | Library | 4.2.0 | 2026-08-29T23:48:56.175457Z | MIT |
+| [@wdio/appium-service](records/node-js-javascript-wdio-appium-service-4e12b589.md) | Node.js/JavaScript | Web Framework | 9.31.5 | 2026-08-29T23:13:09.081Z | MIT |
 | [@wdio/cucumber-framework](records/node-js-javascript-wdio-cucumber-framework-3fd5daaf.md) | Node.js/JavaScript | Testing Framework | 9.31.5 | 2026-08-29T23:12:02.907Z | MIT |
 | [@wdio/mocha-framework](records/node-js-javascript-wdio-mocha-framework-8a114d96.md) | Node.js/JavaScript | Testing Framework | 9.31.5 | 2026-08-29T23:12:02.813Z | MIT |
 | [@inversifyjs/http-core](records/node-js-javascript-inversifyjs-http-core-781ae4c4.md) | Node.js/JavaScript | Networking Http | 5.5.2 | 2026-08-29T19:33:33.882Z | MIT |
@@ -594,24 +615,12 @@ MIT is useful for compact permissive reuse where the main operational requiremen
 | [minex](records/r-minex-a53683b5.md) | R | Machine Learning | 0.2.0 | 2026-08-29 22:40:02 UTC | MIT + file LICENSE |
 | [mellio](records/r-mellio-cc9fd6ad.md) | R | Library | 1.1.0 | 2026-08-29 20:40:02 UTC | MIT + file LICENSE |
 | [huggingfaceR](records/r-huggingfacer-fa882b6e.md) | R | Library | 2.2.0 | 2026-08-29 18:10:02 UTC | MIT + file LICENSE |
-| [tidydann](records/r-tidydann-4dd8e221.md) | R | Undefined Behavior Analyzer | 1.0.2 | 2026-08-29 18:00:02 UTC | MIT + file LICENSE |
-| [cox.rvph](records/r-cox-rvph-ebf0e677.md) | R | Library | 0.2.0 | 2026-08-29 17:30:02 UTC | MIT + file LICENSE |
-| [GetTDData](records/r-gettddata-da30d6d0.md) | R | Library | 1.7.0 | 2026-08-29 16:50:02 UTC | MIT + file LICENSE |
-| [autograph](records/r-autograph-5a30a6ee.md) | R | Visualization Gui | 1.2.2 | 2026-08-29 14:20:02 UTC | MIT + file LICENSE |
-| [AzureAuth](records/r-azureauth-1e1a78fc.md) | R | Filesystem Os | 1.3.5 | 2026-08-29 13:20:07 UTC | MIT + file LICENSE |
-| [twoCoprimary](records/r-twocoprimary-5cb68aee.md) | R | Library | 1.1.0 | 2026-08-29 04:40:03 UTC | MIT + file LICENSE |
-| [aaiclick](records/python-aaiclick-d32fb6a8.md) | Python | Cli | 0.0.24 | 2026-08-28T20:47:23.579604Z | MIT; License :: OSI Approved :: MIT License |
-| [standardwebhooks](records/node-js-typescript-standardwebhooks-3738b5e8.md) | Node.js/TypeScript | Language Specification | 1.1.1 | 2026-08-28T20:44:17.913Z | MIT |
-| [@logux/server](records/node-js-javascript-logux-server-52acd2a3.md) | Node.js/JavaScript | Build System | 0.16.1 | 2026-08-28T19:05:50.698Z | MIT |
-| [@botpress/cli](records/node-js-javascript-botpress-cli-669f749d.md) | Node.js/JavaScript | Cli | 7.1.3 | 2026-08-28T17:52:58.562Z | MIT |
-| [vscode-languageserver](records/node-js-javascript-vscode-languageserver-6666ecf3.md) | Node.js/JavaScript | Language Specification | 10.1.1 | 2026-08-28T17:46:26.789Z | MIT |
-| [boa-dev/boa](records/webassembly-boa-dev-boa-27f5e4a0.md) | WebAssembly | Game Engine Game Dev | v0.22 | 2026-08-28T17:16:07Z | MIT License; https://api.github.com/licenses/mit |
-| [StrawberryShake.Transport.Http](records/c-sharp-strawberryshake-transport-http-31ebee86.md) | C-Sharp | Networking Http | 16.6.2 | 2026-08-28T14:47:40.517+00:00 | MIT; https://www.nuget.org/packages/StrawberryShake.Transport.Http/16.6.2/license; https://www.nuget.org/packages/StrawberryShake.Transport.Http/16.1.4/license |
 
 ### MIT Preview And Nightly Signals
 
 | Name | Language | Category | Version | Date | License Evidence |
 | --- | --- | --- | --- | --- | --- |
+| [supabase](records/dart-supabase-71cdb3aa.md) | Dart | Build System | 3.0.0-dev.2 | 2026-09-01T13:45:10.535587Z | MIT + file LICENSE |
 | [StrawberryShake.Transport.Http](records/c-sharp-strawberryshake-transport-http-31ebee86.md) | C-Sharp | Networking Http | 16.7.0-p.2 | 2026-09-01T08:20:39.933+00:00 | MIT; https://www.nuget.org/packages/StrawberryShake.Transport.Http/16.6.2/license; https://www.nuget.org/packages/StrawberryShake.Transport.Http/16.1.4/license |
 | [HotChocolate.Transport.Http](records/c-sharp-hotchocolate-transport-http-99c9a830.md) | C-Sharp | Networking Http | 16.7.0-p.2 | 2026-09-01T08:19:12.06+00:00 | MIT; https://www.nuget.org/packages/HotChocolate.Transport.Http/16.6.2/license; https://www.nuget.org/packages/HotChocolate.Transport.Http/16.1.4/license |
 | [github.com/esotericsoftware/spine-runtimes](records/go-github-com-esotericsoftware-spine-runtimes-c9525803.md) | Go | Interpreter Runtime | v0.0.0-20260830132820-2c66cc2899b9 | 2026-08-30T15:31:06.360396Z | MIT License; https://api.github.com/licenses/mit |
@@ -672,9 +681,8 @@ MIT is useful for compact permissive reuse where the main operational requiremen
 | [Microsoft.IdentityModel.JsonWebTokens](records/c-sharp-microsoft-identitymodel-jsonwebtokens-5ea5b0ed.md) | C-Sharp | Ide Editor Integration | 8.0.0-preview1 | 2024-06-19T14:54:29.223+00:00 | MIT; https://www.nuget.org/packages/Microsoft.IdentityModel.JsonWebTokens/8.22.0/license |
 | [Flurl.Http.Newtonsoft](records/c-sharp-flurl-http-newtonsoft-d05af846.md) | C-Sharp | Serialization | 0.9.0-pre3 | 2023-12-08T23:02:50.82+00:00 | MIT; https://www.nuget.org/packages/Flurl.Http.Newtonsoft/0.9.1/license |
 | [NJsonSchema.CodeGeneration](records/c-sharp-njsonschema-codegeneration-23101d76.md) | C-Sharp | Serialization | 11.0.0-preview008 | 2023-12-08T15:19:27.813+00:00 | MIT; https://www.nuget.org/packages/NJsonSchema.CodeGeneration/11.6.1/license |
-| [NJsonSchema.Yaml](records/c-sharp-njsonschema-yaml-93f74217.md) | C-Sharp | Serialization | 11.0.0-preview008 | 2023-12-08T15:19:27.23+00:00 | MIT; https://www.nuget.org/packages/NJsonSchema.Yaml/11.6.1/license |
+| [NJsonSchema.Yaml](records/c-sharp-njsonschema-yaml-93f74217.md) | C-Sharp | Serialization | 11.0.0-preview008 | 2023-12-08T15:19:27.23+00:00 | MIT License; https://api.github.com/licenses/mit |
 | [NJsonSchema.Annotations](records/c-sharp-njsonschema-annotations-f53c118a.md) | C-Sharp | Serialization | 11.0.0-preview008 | 2023-12-08T15:19:26.45+00:00 | MIT; https://www.nuget.org/packages/NJsonSchema.Annotations/11.6.1/license |
-| [NJsonSchema.NewtonsoftJson](records/c-sharp-njsonschema-newtonsoftjson-c452ef31.md) | C-Sharp | Serialization | 11.0.0-preview008 | 2023-12-08T15:19:25.797+00:00 | MIT; https://www.nuget.org/packages/NJsonSchema.NewtonsoftJson/11.6.1/license |
 | [NJsonSchema](records/c-sharp-njsonschema-8d934c37.md) | C-Sharp | Serialization | 11.0.0-preview008 | 2023-12-08T15:19:25.227+00:00 | MIT; https://www.nuget.org/packages/NJsonSchema/11.6.1/license |
 | [Flurl.Http](records/c-sharp-flurl-http-db137a55.md) | C-Sharp | Testing Framework | 4.0.0-pre7 | 2023-12-08T05:51:09.867+00:00 | MIT; https://www.nuget.org/packages/Flurl.Http/4.0.2/license |
 | [accern-data](records/python-accern-data-fede6d4e.md) | Python | Networking Http | 0.2.1rc1 | 2023-06-22T12:08:03.452850Z | MIT; License :: OSI Approved :: MIT License |
@@ -690,6 +698,7 @@ MIT is useful for compact permissive reuse where the main operational requiremen
 | [Macross.Json.Extensions](records/c-sharp-macross-json-extensions-50ac23a8.md) | C-Sharp | Ide Editor Integration | 3.0.0-beta2 | 2022-06-08T23:29:44.29+00:00 | MIT; https://www.nuget.org/packages/Macross.Json.Extensions/3.0.0/license |
 | [acmeasync](records/python-acmeasync-1b5be5c0.md) | Python | Async Runtime | 0.1.5a0 | 2021-10-13T22:08:31.753356Z | MIT; License :: OSI Approved :: MIT License |
 | [Microsoft.Azure.Functions.Worker.Extensions.Http](records/c-sharp-microsoft-azure-functions-worker-extensions-http-7397a241.md) | C-Sharp | Networking Http | 3.0.12-preview1 | 2021-02-24T23:14:42.877+00:00 | MIT; https://www.nuget.org/packages/Microsoft.Azure.Functions.Worker.Extensions.Http/3.3.0/license |
+| [3Di-cmd-client](records/python-3di-cmd-client-ddc7fc67.md) | Python | Networking Http | 0.0.1b0 | 2020-12-18T11:16:42.655449Z | MIT license; License :: OSI Approved :: BSD License |
 | [GraphQL.SystemTextJson](records/c-sharp-graphql-systemtextjson-65048319.md) | C-Sharp | Serialization | 3.0.0-preview-1719 | 2020-08-17T22:25:59.14+00:00 | MIT; https://www.nuget.org/packages/GraphQL.SystemTextJson/8.8.5/license |
 | [GraphQL.NewtonsoftJson](records/c-sharp-graphql-newtonsoftjson-7a2c26ed.md) | C-Sharp | Serialization | 3.0.0-preview-1719 | 2020-08-17T22:25:37.94+00:00 | MIT; https://www.nuget.org/packages/GraphQL.NewtonsoftJson/8.8.5/license |
 | [GraphQL](records/c-sharp-graphql-6d2ddb9b.md) | C-Sharp | Serialization | 3.0.0-preview-1719 | 2020-08-17T22:22:32.243+00:00 | MIT; https://www.nuget.org/packages/GraphQL/8.8.5/license |
@@ -704,7 +713,39 @@ MIT is useful for compact permissive reuse where the main operational requiremen
 | [RichardSzalay.MockHttp](records/c-sharp-richardszalay-mockhttp-4f55fe95.md) | C-Sharp | Testing Framework | 1.0.1.79-pre | 2016-07-05T00:25:13.437+00:00 | MIT; https://www.nuget.org/packages/RichardSzalay.MockHttp/7.1.0/license |
 | [arjo129/uSpeech](records/audio-arjo129-uspeech-5eba5bde.md) | Audio | Visualization Gui | v4.2-alpha | 2014-02-23T12:04:19Z | MIT License; https://api.github.com/licenses/mit |
 | [doctrine/mongodb](records/php-doctrine-mongodb-7fbc730a.md) | PHP | Database Datastore | 1.0.0-BETA3 | 2012-12-05T16:15:17+00:00 | MIT |
-| [esqueleto](records/haskell-esqueleto-3fe820ef.md) | Haskell | Library | 3.6.0.0 | hackage_candidate_date_missing | MIT + file LICENSE |
+| [wide-word](records/haskell-wide-word-daf89454.md) | Haskell | Ide Editor Integration | 0.1.0.7 | hackage_candidate_date_missing | MIT License; https://api.github.com/licenses/mit |
+| [structured-cli](records/haskell-structured-cli-8fa57dd4.md) | Haskell | Cli | 0.9.0.2 | hackage_candidate_date_missing | MIT License; https://api.github.com/licenses/mit |
+| [stomp-queue](records/haskell-stomp-queue-894bae3e.md) | Haskell | Message Broker | 0.0.5 | hackage_candidate_date_missing | MIT License; https://api.github.com/licenses/mit |
+| [spatial-math](records/haskell-spatial-math-575f8b81.md) | Haskell | Math Numeric Scientific | 0.5.0.0 | hackage_candidate_date_missing | MIT License; https://api.github.com/licenses/mit |
+| [oeis](records/haskell-oeis-6573c6d5.md) | Haskell | Library | 0.3.7 | hackage_candidate_date_missing | MIT + file LICENSE |
+| [numhask](records/haskell-numhask-7a3f56f0.md) | Haskell | Library | 0.8.1.0 | hackage_candidate_date_missing | MIT + file LICENSE |
+| [morte](records/haskell-morte-3fcbb796.md) | Haskell | Library | 1.6.12 | hackage_candidate_date_missing | MIT + file LICENSE |
+| [monoid-extras](records/haskell-monoid-extras-750e6e7a.md) | Haskell | Library | 0.3.3.3 | hackage_candidate_date_missing | MIT + file LICENSE |
+| [microlens-th](records/haskell-microlens-th-dd935abc.md) | Haskell | Library | 0.4.3.11 | hackage_candidate_date_missing | MIT + file LICENSE |
+| [MicroHs](records/haskell-microhs-e727bfa5.md) | Haskell | Library | 0.8 | hackage_candidate_date_missing | MIT + file LICENSE |
+| [jwt](records/haskell-jwt-4df02d6d.md) | Haskell | Library | 0.8.1 | hackage_candidate_date_missing | MIT + file LICENSE |
+| [jsaddle-wasm](records/haskell-jsaddle-wasm-fea36c48.md) | Haskell | Library | 0.0.1.0 | hackage_candidate_date_missing | MIT + file LICENSE |
+| [io-classes](records/haskell-io-classes-39c4927a.md) | Haskell | Library | 1.0.0.0 | hackage_candidate_date_missing | MIT + file LICENSE |
+| [hasktags](records/haskell-hasktags-a69abe48.md) | Haskell | Library | 0.72.0 | hackage_candidate_date_missing | MIT License; https://api.github.com/licenses/mit |
+| [haskell-src-exts](records/haskell-haskell-src-exts-7ffb1093.md) | Haskell | Library | 1.17.0 | hackage_candidate_date_missing | MIT License; https://api.github.com/licenses/mit |
+| [happstack-hsp](records/haskell-happstack-hsp-926dd339.md) | Haskell | Library | 7.3.7.4 | hackage_candidate_date_missing | MIT |
+| [haddock-library](records/haskell-haddock-library-345347cd.md) | Haskell | Library | 1.0.0 | hackage_candidate_date_missing | MIT |
+| [hackport](records/haskell-hackport-776bfe87.md) | Haskell | Library | 0.5.6 | hackage_candidate_date_missing | MIT |
+| [graphviz](records/haskell-graphviz-7c88476b.md) | Haskell | Library | 2999.20.0.1 | hackage_candidate_date_missing | MIT |
+| [Glob](records/haskell-glob-e0163457.md) | Haskell | Library | 0.9.0 | hackage_candidate_date_missing | MIT |
+| [gll](records/haskell-gll-7f0510fb.md) | Haskell | Library | 0.4.0.13 | hackage_candidate_date_missing | MIT |
+| [glirc](records/haskell-glirc-1d89d9d6.md) | Haskell | Library | 2.23 | hackage_candidate_date_missing | MIT |
+| [glib](records/haskell-glib-a57c79d0.md) | Haskell | Library | 0.12.5.0 | hackage_candidate_date_missing | MIT |
+| [gitit](records/haskell-gitit-49fab674.md) | Haskell | Library | 0.12.3 | hackage_candidate_date_missing | MIT |
+| [git-monitor](records/haskell-git-monitor-7427df5a.md) | Haskell | Library | 3.2.1 | hackage_candidate_date_missing | MIT |
+| [ginger](records/haskell-ginger-cd861a68.md) | Haskell | Library | 0.8.2.0 | hackage_candidate_date_missing | MIT |
+| [gi-gdkpixbuf](records/haskell-gi-gdkpixbuf-3784a9d6.md) | Haskell | Library | 2.0.16 | hackage_candidate_date_missing | MIT |
+| [gi-atk](records/haskell-gi-atk-0faca589.md) | Haskell | Library | 2.0.15 | hackage_candidate_date_missing | MIT |
+| [ghc-prof](records/haskell-ghc-prof-4bb84f7f.md) | Haskell | Library | 1.4.0 | hackage_candidate_date_missing | MIT |
+| [ghc-exactprint](records/haskell-ghc-exactprint-fecd74ca.md) | Haskell | Library | 0.2 | hackage_candidate_date_missing | MIT |
+| [ghc](records/haskell-ghc-8342aedc.md) | Haskell | Library | 0 | hackage_candidate_date_missing | MIT |
+| [cabal-debian](records/haskell-cabal-debian-c48365af.md) | Haskell | Library | 4.36.1 | hackage_candidate_date_missing | MIT License; https://api.github.com/licenses/mit |
+| [brittany](records/haskell-brittany-98f0dfd2.md) | Haskell | Library | 0.12.0.0 | hackage_candidate_date_missing | MIT License; https://api.github.com/licenses/mit |
 
 ## Backup Plan Alerts
 
@@ -714,7 +755,6 @@ Use this section before architecture decisions. If a dependency is restricted, m
 | --- | --- | --- | --- | --- | --- |
 | compiler-explorer/compiler-explorer | Assembly | Compiler | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/assembly-compiler-explorer-compiler-explorer-99f6d9ce.md) |
 | fcambus/spleen | Assembly | Language Specification | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/assembly-fcambus-spleen-889e6477.md) |
-| Idov31/Cronos | Assembly | Static Analyzer | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/assembly-idov31-cronos-d87fafd3.md) |
 | nanochess/bootOS | Assembly | Language Specification | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/assembly-nanochess-bootos-3579b41b.md) |
 | tanghaibao/jcvi | Assembly | Machine Learning | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/assembly-tanghaibao-jcvi-74bbbc68.md) |
 | videolan/dav1d | Assembly | Language Specification | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/assembly-videolan-dav1d-9dfd565a.md) |
@@ -723,12 +763,15 @@ Use this section before architecture decisions. If a dependency is restricted, m
 | aMarCruz/react-native-text-size | Assets | Formatter | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/assets-amarcruz-react-native-text-size-989d2e6b.md) |
 | flutter-dev/asset_generator | Assets | Undefined Behavior Analyzer | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/assets-flutter-dev-asset-generator-4817bab4.md) |
 | neverpanic/google-font-download | Assets | Filesystem Os | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/assets-neverpanic-google-font-download-4f3e2bda.md) |
+| Audio4Linux/JDSP4Linux | Audio | Package Manager | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/audio-audio4linux-jdsp4linux-effd41ab.md) |
 | grz0zrg/fsynth | Audio | Library | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/audio-grz0zrg-fsynth-76464e0d.md) |
 | pytorch/audio | Audio | Formatter | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/audio-pytorch-audio-d02c37b9.md) |
+| tyiannak/pyAudioAnalysis | Audio | Static Analyzer | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/audio-tyiannak-pyaudioanalysis-cb0f7505.md) |
 | HouzuoGuo/tiedot | Databases | Database Datastore | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/databases-houzuoguo-tiedot-a106fef2.md) |
 | rajajain08/particles_flutter | Effects | Machine Learning | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/effects-rajajain08-particles-flutter-2925862d.md) |
 | ralgar/vkShade | Effects | Filesystem Os | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/effects-ralgar-vkshade-027f2833.md) |
 | styx-emulator/styx-emulator | Effects | Image Audio Dsp | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/effects-styx-emulator-styx-emulator-3aad5453.md) |
+| Yuan-ManX/SouPyX | Effects | Image Audio Dsp | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/effects-yuan-manx-soupyx-67ca911c.md) |
 | chai2010/advanced-go-programming-book | Go | Serialization | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/go-chai2010-advanced-go-programming-book-44a19e49.md) |
 | g3n/engine | Go | Networking Http | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/go-g3n-engine-0b367039.md) |
 | github.com/TavoAI/tavo-sdk | Go | Undefined Behavior Analyzer | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/go-github-com-tavoai-tavo-sdk-4ccce3d5.md) |
@@ -737,8 +780,11 @@ Use this section before architecture decisions. If a dependency is restricted, m
 | gorilla/websocket | Go | Ide Editor Integration | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/go-gorilla-websocket-b72dd879.md) |
 | redis/go-redis | Go | Networking Http | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/go-redis-go-redis-fe715a04.md) |
 | restic/restic | Go | Language Specification | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/go-restic-restic-de039132.md) |
-| CachedDicts | Julia | Library | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/julia-cacheddicts-941e6384.md) |
-| CommandLiner | Julia | Library | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/julia-commandliner-922f1b99.md) |
+| hedgehog | Haskell | Library | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/haskell-hedgehog-db580c82.md) |
+| AstroEpochs | Julia | Parser Lexer Ast | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/julia-astroepochs-f4ee7c48.md) |
+| Cadnip | Julia | Library | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/julia-cadnip-5a0ec9d4.md) |
+| CodeTools | Julia | Library | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/julia-codetools-28bc75cf.md) |
+| CoherentNoise | Julia | Library | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/julia-coherentnoise-b08c32f9.md) |
 | finita | Lua family | Library | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/lua-family-finita-4eb66a7b.md) |
 | bermufine/dcmp | Magazines | Language Specification | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/magazines-bermufine-dcmp-7dbdeb3d.md) |
 | Leaflet/Leaflet | Maps | Fuzzer | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/maps-leaflet-leaflet-98e4aefd.md) |
@@ -762,8 +808,12 @@ Use this section before architecture decisions. If a dependency is restricted, m
 | imagej/napari-imagej | Microscopy | Image Audio Dsp | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/microscopy-imagej-napari-imagej-b450d378.md) |
 | imagingbook/imagingbook-calibrate | Microscopy | Image Audio Dsp | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/microscopy-imagingbook-imagingbook-calibrate-a41e2017.md) |
 | imagingbook/imagingbook-public | Microscopy | Undefined Behavior Analyzer | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/microscopy-imagingbook-imagingbook-public-35b63f87.md) |
+| lens-biophotonics/ZetaStitcher | Microscopy | Parser Lexer Ast | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/microscopy-lens-biophotonics-zetastitcher-daabfc39.md) |
 | scenerygraphics/sciview | Microscopy | Visualization Gui | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/microscopy-scenerygraphics-sciview-c324a0d7.md) |
 | eslint-plugin-rxjs | Node.js/JavaScript | Linter | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/node-js-javascript-eslint-plugin-rxjs-75fb73c5.md) |
+| mock-xmlhttprequest | Node.js/JavaScript | Testing Framework | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/node-js-javascript-mock-xmlhttprequest-493440e6.md) |
+| dbacinski/Design-Patterns-In-Kotlin | Pattern language | Precommit Ci Quality | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/pattern-language-dbacinski-design-patterns-in-kotlin-3eecbd7b.md) |
+| ochococo/Design-Patterns-In-Swift | Pattern language | Library | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/pattern-language-ochococo-design-patterns-in-swift-08801ce6.md) |
 | Awalz/SwiftyCam | Photography | Filesystem Os | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/photography-awalz-swiftycam-8b6b12a3.md) |
 | cowtoolz/webcamize | Photography | Filesystem Os | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/photography-cowtoolz-webcamize-b9f0b629.md) |
 | hanatos/vkdt | Photography | Filesystem Os | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/photography-hanatos-vkdt-673c0f96.md) |
@@ -785,8 +835,10 @@ Use this section before architecture decisions. If a dependency is restricted, m
 | adi-env-parser | Python | Parser Lexer Ast | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/python-adi-env-parser-76721c05.md) |
 | adk-database-memory | Python | Memory Analyzer | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/python-adk-database-memory-d490dc6c.md) |
 | adminlte-django | Python | Ffi Bindings | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/python-adminlte-django-26e3a96e.md) |
+| nimble | R | Library | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/r-nimble-55bf7876.md) |
 | nimbleExtra | R | Static Analyzer | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/r-nimbleextra-ba87668a.md) |
 | nimbleMacros | R | Filesystem Os | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/r-nimblemacros-731a53b0.md) |
+| rankingQ | R | Library | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/r-rankingq-dcabb7ee.md) |
 | cargo-util-schemas | Rust | Package Manager | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/rust-cargo-util-schemas-52eca356.md) |
 | enumset | Rust | Library | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/rust-enumset-e2efbf00.md) |
 | joshuaferrara/go-satellite | SatCom Satellites | Formatter | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/satcom-satellites-joshuaferrara-go-satellite-adf32609.md) |
@@ -794,7 +846,7 @@ Use this section before architecture decisions. If a dependency is restricted, m
 | sunpy/sunpy | Space Maps | Parser Lexer Ast | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/space-maps-sunpy-sunpy-8e44c814.md) |
 | sunpy/sunraster | Space Maps | Ide Editor Integration | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/space-maps-sunpy-sunraster-4da3251a.md) |
 | emgre/projectmercury | Space Shuttles | Library | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/space-shuttles-emgre-projectmercury-4f40d27f.md) |
-| rules-proto-grpc/rules_proto_grpc | Starlark | Build System | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/starlark-rules-proto-grpc-rules-proto-grpc-990904d1.md) |
+| u-root/gobusybox | Starlark | Build System | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/starlark-u-root-gobusybox-136cf407.md) |
 | insidegui/WWDC | Swift | Language Specification | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/swift-insidegui-wwdc-577016c9.md) |
 | sunpy/sunpy | Telescopes | Parser Lexer Ast | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/telescopes-sunpy-sunpy-52ba6b6e.md) |
 | insidegui/WWDC | Video | Ide Editor Integration | Mixed license review | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. | [open](records/video-insidegui-wwdc-29ce13c6.md) |
@@ -818,6 +870,7 @@ Use this section before architecture decisions. If a dependency is restricted, m
 | CensoredUsername/dynasm-rs | Assembly | Library | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/assembly-censoredusername-dynasm-rs-c02f4bf6.md) |
 | dethrace-labs/dethrace | Assembly | Game Engine Game Dev | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/assembly-dethrace-labs-dethrace-0d609365.md) |
 | gurugio/lowlevelprogramming-university | Assembly | Library | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/assembly-gurugio-lowlevelprogramming-university-485ace99.md) |
+| Idov31/Cronos | Assembly | Static Analyzer | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/assembly-idov31-cronos-d87fafd3.md) |
 | JLospinoso/gargoyle | Assembly | Memory Analyzer | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/assembly-jlospinoso-gargoyle-fe9d5c10.md) |
 | KolibriOS/kolibrios | Assembly | Ffi Bindings | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/assembly-kolibrios-kolibrios-ceca7961.md) |
 | nemasu/asmttpd | Assembly | Language Specification | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/assembly-nemasu-asmttpd-9a612693.md) |
@@ -875,7 +928,6 @@ Use this section before architecture decisions. If a dependency is restricted, m
 | Archie3d/aeolus_plugin | Audio | Package Manager | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/audio-archie3d-aeolus-plugin-c1d397f6.md) |
 | ardura/Actuate | Audio | Visualization Gui | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/audio-ardura-actuate-1c5dd2e9.md) |
 | aubio/aubio | Audio | Static Analyzer | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/audio-aubio-aubio-83afbe36.md) |
-| Audio4Linux/JDSP4Linux | Audio | Package Manager | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/audio-audio4linux-jdsp4linux-effd41ab.md) |
 | bbc/peaks.js | Audio | Visualization Gui | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/audio-bbc-peaks-js-ecba90fa.md) |
 | belangeo/pyo | Audio | Image Audio Dsp | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/audio-belangeo-pyo-e606cff4.md) |
 | Belphemur/SoundSwitch | Audio | Fuzzer | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/audio-belphemur-soundswitch-43ca702e.md) |
@@ -890,8 +942,6 @@ Use this section before architecture decisions. If a dependency is restricted, m
 | DistroAV/DistroAV | Audio | Image Audio Dsp | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/audio-distroav-distroav-0b30296c.md) |
 | dwhinham/mt32-pi | Audio | Visualization Gui | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/audio-dwhinham-mt32-pi-7a87163b.md) |
 | eegsynth/eegsynth | Audio | Datetime | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/audio-eegsynth-eegsynth-119d0208.md) |
-| everythingwillbetakenaway/DX7-Supercollider | Audio | Ide Editor Integration | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/audio-everythingwillbetakenaway-dx7-supercollider-316ba0b4.md) |
-| ferluht/loopa | Audio | Library | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/audio-ferluht-loopa-d50b3092.md) |
 | FluidSynth/fluidsynth | Audio | Language Specification | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/audio-fluidsynth-fluidsynth-59e20ded.md) |
 | FORARTfe/HyMPS | Audio | Ide Editor Integration | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/audio-forartfe-hymps-4bad0b4a.md) |
 | gnuradio/gnuradio | Audio | Filesystem Os | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/audio-gnuradio-gnuradio-f6f01d2f.md) |
@@ -948,11 +998,9 @@ Use this section before architecture decisions. If a dependency is restricted, m
 | Vanilagy/mediabunny | Audio | Type Checker | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/audio-vanilagy-mediabunny-c14130e8.md) |
 | VASTDynamics/Vaporizer2 | Audio | Undefined Behavior Analyzer | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/audio-vastdynamics-vaporizer2-569707f6.md) |
 | Wasted-Audio/hvcc | Audio | Compiler | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/audio-wasted-audio-hvcc-6c62ec1c.md) |
+| zynaddsubfx/zynaddsubfx | Audio | Undefined Behavior Analyzer | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/audio-zynaddsubfx-zynaddsubfx-a0495cd0.md) |
 | zynthian/zynthian-ui | Audio | Visualization Gui | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/audio-zynthian-zynthian-ui-308e1a33.md) |
-| C++ Core Guidelines | C++23 | Tutorial Book Styleguide | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/c-23-c-core-guidelines-8e7873e6.md) |
-| ISO/IEC 14882:2024 | C++23 | Language Specification | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/c-23-iso-iec-14882-2024-7fd5a245.md) |
-| OpenCV | C++23 | Image Audio Dsp | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/c-23-opencv-aa6fe69d.md) |
-| SDL | C++23 | Image Audio Dsp | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/c-23-sdl-4f8ef49a.md) |
+| bgfx | C++23 | Game Engine Game Dev | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/c-23-bgfx-c557d27d.md) |
 | Volo.Abp.Http | C-Sharp | Project Scaffolding | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/c-sharp-volo-abp-http-0026b564.md) |
 | Volo.Abp.Http.Abstractions | C-Sharp | Project Scaffolding | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/c-sharp-volo-abp-http-abstractions-8101fd1f.md) |
 | Volo.Abp.Http.Client | C-Sharp | Project Scaffolding | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/c-sharp-volo-abp-http-client-66a6f386.md) |
@@ -970,6 +1018,7 @@ Use this section before architecture decisions. If a dependency is restricted, m
 | textmate/textmate | Cocoa | Ide Editor Integration | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/cocoa-textmate-textmate-91b26640.md) |
 | wordpress-mobile/AztecEditor-iOS | Cocoa | Ide Editor Integration | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/cocoa-wordpress-mobile-azteceditor-ios-ce242705.md) |
 | wordpress-mobile/WordPress-iOS | Cocoa | Ffi Bindings | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) |
+| riverpod | Dart | Build System | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/dart-riverpod-35d443f6.md) |
 | chartdb/chartdb | Databases | Ide Editor Integration | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/databases-chartdb-chartdb-227bd0d2.md) |
 | citusdata/citus | Databases | Database Datastore | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/databases-citusdata-citus-5748489c.md) |
 | codingo/NoSQLMap | Databases | Database Datastore | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/databases-codingo-nosqlmap-92ab6758.md) |
@@ -1004,14 +1053,6 @@ Use this section before architecture decisions. If a dependency is restricted, m
 | torodb/stampede | Databases | Build System | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/databases-torodb-stampede-a9676e19.md) |
 | valeriansaliou/sonic | Databases | Parser Lexer Ast | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/databases-valeriansaliou-sonic-919a601d.md) |
 | vasu-devs/JustHireMe | Databases | Database Datastore | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/databases-vasu-devs-justhireme-b00ae36b.md) |
-| OWASP SAMM | Doctrines | Security Sast | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/doctrines-owasp-samm-cf38ebef.md) |
-| afx1337/afxAudioEffects | Effects | Image Audio Dsp | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/effects-afx1337-afxaudioeffects-d02ac96d.md) |
-| AlbertoSabater/Robust-and-efficient-post-processing-for-video-object-detection | Effects | Ide Editor Integration | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/effects-albertosabater-robust-and-efficient-post-processing-for-video-object-detection-344c2f6e.md) |
-| aldebaro/dsp-audio | Effects | Image Audio Dsp | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/effects-aldebaro-dsp-audio-1b6cfc46.md) |
-| alienware377/RootlessViPER4Android | Effects | Visualization Gui | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/effects-alienware377-rootlessviper4android-477a4505.md) |
-| ampactor-labs/sonido | Effects | Machine Learning | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/effects-ampactor-labs-sonido-bed68043.md) |
-| amsynth/amsynth | Effects | Image Audio Dsp | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/effects-amsynth-amsynth-8b3d3dde.md) |
-| appliedapp/rusty_lights | Effects | Package Manager | Backup plan required | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. | [open](records/effects-appliedapp-rusty-lights-c67cc805.md) |
 
 ## Practical Selection Checklist
 

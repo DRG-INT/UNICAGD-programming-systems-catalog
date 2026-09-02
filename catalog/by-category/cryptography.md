@@ -216,7 +216,7 @@ Records: `155`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ente/ente | partial | 2026-09-02T12:21:50Z | [open](../records/go-ente-ente-f02441bb.md) |
+| ente/ente | partial | 2026-09-02T13:11:42Z | [open](../records/go-ente-ente-f02441bb.md) |
 
 ## Transmission Protocols
 

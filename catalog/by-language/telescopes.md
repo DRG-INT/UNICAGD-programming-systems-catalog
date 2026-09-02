@@ -232,7 +232,7 @@ Records: `149`
 | [nekitmm/starnet](../records/telescopes-nekitmm-starnet-50130f9b.md) | partial | 2022-09-12T22:34:37Z | registry-derived |
 | [OpenAstroTech/OpenAstroTracker](../records/telescopes-openastrotech-openastrotracker-3176cfcc.md) | partial | 2025-02-21T15:40:41Z | registry-derived |
 | [PlasmaPy/PlasmaPy](../records/telescopes-plasmapy-plasmapy-dcb9bd68.md) | partial | 2026-08-31T18:37:46Z | registry-derived |
-| [ppp-one/astra](../records/telescopes-ppp-one-astra-58695d7f.md) | partial | 2026-08-26T14:12:40Z | registry-derived |
+| [ppp-one/astra](../records/telescopes-ppp-one-astra-58695d7f.md) | partial | 2026-09-02T12:10:18Z | registry-derived |
 | [rkaczorek/astroberry-server](../records/telescopes-rkaczorek-astroberry-server-f5249e84.md) | partial | 2026-02-11T12:01:25Z | registry-derived |
 | [sanderblue/solar-system-threejs](../records/telescopes-sanderblue-solar-system-threejs-9534bfd9.md) | partial | 2022-12-07T17:32:03Z | registry-derived |
 | [saurvs/astro-rust](../records/telescopes-saurvs-astro-rust-3d0d6b1c.md) | partial | 2019-10-20T01:17:04Z | registry-derived |
@@ -287,7 +287,7 @@ Records: `149`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [iamtelescope/telescope](../records/telescopes-iamtelescope-telescope-3d9294c3.md) | partial | 2026-05-08T13:06:09Z | registry-derived |
-| [Jubstaaa/hono-telescope](../records/telescopes-jubstaaa-hono-telescope-327995c1.md) | partial | 2026-09-02T11:18:36Z | registry-derived |
+| [Jubstaaa/hono-telescope](../records/telescopes-jubstaaa-hono-telescope-327995c1.md) | partial | 2026-09-02T13:16:20Z | registry-derived |
 | [nvim-telescope/telescope-github.nvim](../records/telescopes-nvim-telescope-telescope-github-nvim-5e97e37e.md) | partial | 2026-01-20T05:13:22Z | registry-derived |
 | [rlch/github-notifications.nvim](../records/telescopes-rlch-github-notifications-nvim-185a6c78.md) | partial | 2023-06-15T02:27:51Z | registry-derived |
 
