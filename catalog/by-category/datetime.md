@@ -165,7 +165,7 @@ Records: `158`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| livekit/livekit | partial | 2026-09-02T08:17:49Z | [open](../records/go-livekit-livekit-1b3e6406.md) |
+| livekit/livekit | partial | 2026-09-02T10:46:16Z | [open](../records/go-livekit-livekit-1b3e6406.md) |
 
 ## Assets
 

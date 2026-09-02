@@ -364,7 +364,7 @@ Records: `440`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| career-ops-hq/career-ops | partial | 2026-09-02T10:19:28Z | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
+| career-ops-hq/career-ops | partial | 2026-09-02T11:19:05Z | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
 | codeberg.org/momar/simple-scan-server | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-codeberg-org-momar-simple-scan-server-8e5010e0.md) |
 
 ## "aim's"
@@ -516,7 +516,7 @@ Records: `440`
 | clEsperanto/pyclesperanto_prototype | partial | 2026-08-14T09:04:32Z | [open](../records/microscopy-clesperanto-pyclesperanto-prototype-3fd5a628.md) |
 | imjoy-team/imagej.js | partial | 2025-08-21T21:49:20Z | [open](../records/microscopy-imjoy-team-imagej-js-ab4ae7b8.md) |
 | jherkenhoff/STM | partial | 2021-08-02T15:53:42Z | [open](../records/microscopy-jherkenhoff-stm-3928a3ac.md) |
-| NL-BioImaging/biomero | partial | 2026-09-01T15:50:27Z | [open](../records/microscopy-nl-bioimaging-biomero-e59c8222.md) |
+| NL-BioImaging/biomero | partial | 2026-09-02T10:00:24Z | [open](../records/microscopy-nl-bioimaging-biomero-e59c8222.md) |
 | ome/EMBO-Practical-Course-2023 | partial | 2023-09-10T15:36:11Z | [open](../records/microscopy-ome-embo-practical-course-2023-0359e30c.md) |
 | pycroscopy/pycroscopy | partial | 2025-09-12T16:21:57Z | [open](../records/microscopy-pycroscopy-pycroscopy-e22f9142.md) |
 | qupath/qupath | partial | 2026-09-01T12:37:23Z | [open](../records/microscopy-qupath-qupath-319e8bd2.md) |

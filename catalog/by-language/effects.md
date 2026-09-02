@@ -446,7 +446,7 @@ Records: `608`
 | [chenwj1989/pafx](../records/effects-chenwj1989-pafx-ac1e16fc.md) | partial | 2026-06-09T09:49:35Z | registry-derived |
 | [cutterbl/SoundTouchJS](../records/effects-cutterbl-soundtouchjs-471a5022.md) | partial | 2026-08-03T17:39:09Z | registry-derived |
 | [cycfi/hz_audio_to_midi](../records/effects-cycfi-hz-audio-to-midi-a8cbfec4.md) | partial | 2024-10-12T07:14:24Z | registry-derived |
-| [cycfi/q](../records/effects-cycfi-q-adb0f6f9.md) | partial | 2026-08-29T12:46:35Z | registry-derived |
+| [cycfi/q](../records/effects-cycfi-q-adb0f6f9.md) | partial | 2026-09-02T10:02:40Z | registry-derived |
 | [danielraffel/pulp-classic-effects](../records/effects-danielraffel-pulp-classic-effects-7b197f0e.md) | partial | 2026-07-27T01:54:17Z | registry-derived |
 | [DiffAPF/torchcomp](../records/effects-diffapf-torchcomp-c6e61558.md) | partial | 2026-02-10T13:08:21Z | registry-derived |
 | [digitaldanny/AudioEffectsGlove](../records/effects-digitaldanny-audioeffectsglove-48108d52.md) | partial | 2021-05-21T02:02:26Z | registry-derived |

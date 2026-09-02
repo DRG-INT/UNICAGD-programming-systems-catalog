@@ -1155,7 +1155,7 @@ Records: `1385`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bytedance/deer-flow | partial | 2026-09-02T09:05:36Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
+| bytedance/deer-flow | partial | 2026-09-02T11:16:56Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
 | sansan0/TrendRadar | partial | 2026-07-17T13:54:28Z | [open](../records/aim-s-sansan0-trendradar-72e65ee1.md) |
 | TencentCloud/TencentDB-Agent-Memory | partial | 2026-08-31T07:35:24Z | [open](../records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
 
@@ -1289,7 +1289,7 @@ Records: `1385`
 | code-charity/youtube | partial | 2026-08-29T03:21:18Z | [open](../records/video-code-charity-youtube-413818e8.md) |
 | cookpete/react-player | partial | 2025-11-13T19:27:44Z | [open](../records/video-cookpete-react-player-4ee05d0c.md) |
 | datarhei/restreamer | partial | 2026-05-22T06:57:59Z | [open](../records/video-datarhei-restreamer-ebfeeaad.md) |
-| FreeTubeApp/FreeTube | partial | 2026-09-02T08:51:44Z | [open](../records/video-freetubeapp-freetube-f7bd248f.md) |
+| FreeTubeApp/FreeTube | partial | 2026-09-02T10:51:34Z | [open](../records/video-freetubeapp-freetube-f7bd248f.md) |
 | iv-org/invidious | partial | 2026-08-28T21:50:40Z | [open](../records/video-iv-org-invidious-b8d2acca.md) |
 | mediaelement/mediaelement | partial | 2026-05-12T09:15:03Z | [open](../records/video-mediaelement-mediaelement-f79e452d.md) |
 | mediago-dev/mediago | partial | 2026-08-29T10:56:03Z | [open](../records/video-mediago-dev-mediago-0cd9405a.md) |
@@ -1318,7 +1318,7 @@ Records: `1385`
 | mangeshghodke/DreamPlayer | partial | 2026-09-02T06:23:58Z | [open](../records/photography-mangeshghodke-dreamplayer-c6fbb5e1.md) |
 | moul-co/moul | partial | 2024-01-09T09:14:39Z | [open](../records/photography-moul-co-moul-2cca2d07.md) |
 | mv-lab/nilut | partial | 2024-01-29T10:38:23Z | [open](../records/photography-mv-lab-nilut-866ec3fa.md) |
-| ncoevoet/facet | partial | 2026-09-01T14:04:52Z | [open](../records/photography-ncoevoet-facet-9042db71.md) |
+| ncoevoet/facet | partial | 2026-09-02T11:19:07Z | [open](../records/photography-ncoevoet-facet-9042db71.md) |
 | outdoorbits/little-backup-box | partial | 2026-09-01T18:51:22Z | [open](../records/photography-outdoorbits-little-backup-box-04af0fc7.md) |
 | peerpx/peerpx | unknown | github_search_does_not_include_release_date | [open](../records/photography-peerpx-peerpx-8179ea23.md) |
 | photostructure/photostructure-for-servers | unknown | github_search_does_not_include_release_date | [open](../records/photography-photostructure-photostructure-for-servers-8374efcc.md) |
@@ -1349,7 +1349,7 @@ Records: `1385`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | iamtelescope/telescope | partial | 2026-05-08T13:06:09Z | [open](../records/telescopes-iamtelescope-telescope-3d9294c3.md) |
-| Jubstaaa/hono-telescope | partial | 2026-09-02T09:06:34Z | [open](../records/telescopes-jubstaaa-hono-telescope-327995c1.md) |
+| Jubstaaa/hono-telescope | partial | 2026-09-02T11:18:36Z | [open](../records/telescopes-jubstaaa-hono-telescope-327995c1.md) |
 | nvim-telescope/telescope-github.nvim | partial | 2026-01-20T05:13:22Z | [open](../records/telescopes-nvim-telescope-telescope-github-nvim-5e97e37e.md) |
 | rlch/github-notifications.nvim | partial | 2023-06-15T02:27:51Z | [open](../records/telescopes-rlch-github-notifications-nvim-185a6c78.md) |
 

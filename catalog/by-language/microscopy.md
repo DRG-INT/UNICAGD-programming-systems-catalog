@@ -94,7 +94,7 @@ Records: `179`
 | [bioio-devs/bioio](../records/microscopy-bioio-devs-bioio-ca180c94.md) | partial | 2026-08-23T00:03:14Z | registry-derived |
 | [Biomedical-Imaging-Group/DeconvolutionLab2](../records/microscopy-biomedical-imaging-group-deconvolutionlab2-5bd46987.md) | partial | 2019-03-09T16:40:03Z | registry-derived |
 | [brainglobe/brainglobe-atlasapi](../records/microscopy-brainglobe-brainglobe-atlasapi-1ee7f7d0.md) | partial | 2026-08-31T05:10:41Z | registry-derived |
-| [brainglobe/brainreg](../records/microscopy-brainglobe-brainreg-71a0b5b3.md) | partial | 2026-09-01T17:02:12Z | registry-derived |
+| [brainglobe/brainreg](../records/microscopy-brainglobe-brainreg-71a0b5b3.md) | partial | 2026-09-02T10:54:30Z | registry-derived |
 | [brainglobe/cellfinder](../records/microscopy-brainglobe-cellfinder-159009dc.md) | partial | 2026-08-22T06:31:08Z | registry-derived |
 | [chiahao3/ptyrad](../records/microscopy-chiahao3-ptyrad-cbe12e50.md) | partial | 2026-08-07T02:53:15Z | registry-derived |
 | [computational-cell-analytics/micro-sam](../records/microscopy-computational-cell-analytics-micro-sam-82fdbfce.md) | partial | 2026-09-02T05:29:12Z | registry-derived |
@@ -139,7 +139,7 @@ Records: `179`
 | [rapidsai/cucim](../records/microscopy-rapidsai-cucim-6fd9f972.md) | partial | 2026-09-01T14:47:34Z | registry-derived |
 | [royerlab/cytoself](../records/microscopy-royerlab-cytoself-b2dff824.md) | partial | 2025-08-05T18:46:40Z | registry-derived |
 | [rwb27/openflexure_microscope](../records/microscopy-rwb27-openflexure-microscope-9f4f36b7.md) | partial | 2019-04-30T15:12:38Z | registry-derived |
-| [scalableminds/webknossos](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) | partial | 2026-09-02T09:01:39Z | registry-derived |
+| [scalableminds/webknossos](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) | partial | 2026-09-02T11:19:21Z | registry-derived |
 | [seung-lab/cloud-volume](../records/microscopy-seung-lab-cloud-volume-388cc8e9.md) | partial | 2026-08-13T01:17:15Z | registry-derived |
 | [tferr/Scripts](../records/microscopy-tferr-scripts-25277503.md) | partial | 2022-06-03T11:23:48Z | registry-derived |
 | [TheDeanLab/navigate](../records/microscopy-thedeanlab-navigate-dc14fa5a.md) | partial | 2026-08-31T13:00:45Z | registry-derived |
@@ -290,7 +290,7 @@ Records: `179`
 | [clEsperanto/pyclesperanto_prototype](../records/microscopy-clesperanto-pyclesperanto-prototype-3fd5a628.md) | partial | 2026-08-14T09:04:32Z | registry-derived |
 | [imjoy-team/imagej.js](../records/microscopy-imjoy-team-imagej-js-ab4ae7b8.md) | partial | 2025-08-21T21:49:20Z | registry-derived |
 | [jherkenhoff/STM](../records/microscopy-jherkenhoff-stm-3928a3ac.md) | partial | 2021-08-02T15:53:42Z | registry-derived |
-| [NL-BioImaging/biomero](../records/microscopy-nl-bioimaging-biomero-e59c8222.md) | partial | 2026-09-01T15:50:27Z | registry-derived |
+| [NL-BioImaging/biomero](../records/microscopy-nl-bioimaging-biomero-e59c8222.md) | partial | 2026-09-02T10:00:24Z | registry-derived |
 | [ome/EMBO-Practical-Course-2023](../records/microscopy-ome-embo-practical-course-2023-0359e30c.md) | partial | 2023-09-10T15:36:11Z | registry-derived |
 | [pycroscopy/pycroscopy](../records/microscopy-pycroscopy-pycroscopy-e22f9142.md) | partial | 2025-09-12T16:21:57Z | registry-derived |
 | [qupath/qupath](../records/microscopy-qupath-qupath-319e8bd2.md) | partial | 2026-09-01T12:37:23Z | registry-derived |

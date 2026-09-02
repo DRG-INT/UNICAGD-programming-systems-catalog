@@ -4044,7 +4044,7 @@ Records: `4835`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-02T10:02:04Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-02T10:45:36Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4487,7 +4487,7 @@ Records: `4835`
 | acconeer/acconeer-python-exploration | partial | 2026-08-10T14:18:17Z | [open](../records/radars-acconeer-acconeer-python-exploration-c570151f.md) |
 | bopen/xarray-sentinel | partial | 2026-08-26T14:14:32Z | [open](../records/radars-bopen-xarray-sentinel-d49585c9.md) |
 | dpaulat/supercell-wx | partial | 2026-09-01T22:58:49Z | [open](../records/radars-dpaulat-supercell-wx-216e49cf.md) |
-| earthobservations/wetterdienst | partial | 2026-09-02T06:28:12Z | [open](../records/radars-earthobservations-wetterdienst-4494a41f.md) |
+| earthobservations/wetterdienst | partial | 2026-09-02T10:04:47Z | [open](../records/radars-earthobservations-wetterdienst-4494a41f.md) |
 | erikliland/pyMHT | partial | 2023-09-19T11:10:15Z | [open](../records/radars-erikliland-pymht-6bcd5586.md) |
 | ethanhuang13/ladybug | partial | 2019-12-26T07:04:26Z | [open](../records/radars-ethanhuang13-ladybug-9ff29291.md) |
 | feedback-assistant/reports | partial | 2025-11-07T04:38:18Z | [open](../records/radars-feedback-assistant-reports-4bc463b2.md) |
@@ -4506,7 +4506,7 @@ Records: `4835`
 | Nouuu/Albion-Online-OpenRadar | partial | 2026-08-31T18:18:32Z | [open](../records/radars-nouuu-albion-online-openradar-04ea3acd.md) |
 | ntnu-arl/lidar_degeneracy_datasets | partial | 2026-02-03T12:49:37Z | [open](../records/radars-ntnu-arl-lidar-degeneracy-datasets-f90e3fc8.md) |
 | odhondt/eo_tools | partial | 2026-08-28T22:53:21Z | [open](../records/radars-odhondt-eo-tools-bf024141.md) |
-| open-flight/openflight | partial | 2026-09-01T12:22:25Z | [open](../records/radars-open-flight-openflight-76c154cb.md) |
+| open-flight/openflight | partial | 2026-09-02T09:16:14Z | [open](../records/radars-open-flight-openflight-76c154cb.md) |
 | opencpn-radar-pi/radar_pi | partial | 2026-08-04T01:35:42Z | [open](../records/radars-opencpn-radar-pi-radar-pi-bfe54946.md) |
 | openradar/xradar | partial | 2026-09-01T10:30:01Z | [open](../records/radars-openradar-xradar-fcfe7f38.md) |
 | PatrickTUM/SEN12MS-CR-TS | partial | 2024-01-23T17:51:20Z | [open](../records/radars-patricktum-sen12ms-cr-ts-b82b98a6.md) |

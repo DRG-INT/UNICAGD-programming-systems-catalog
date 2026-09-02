@@ -115,7 +115,7 @@ Records: `149`
 | --- | --- | --- | --- |
 | [ailab-hanyang/Radar4Motion](../records/radars-ailab-hanyang-radar4motion-9053c2a1.md) | partial | 2025-06-15T09:01:50Z | registry-derived |
 | [birgander2/PyRAT](../records/radars-birgander2-pyrat-f127a5d8.md) | partial | 2025-01-16T15:20:10Z | registry-derived |
-| [graphieros/vue-data-ui](../records/radars-graphieros-vue-data-ui-37b47478.md) | partial | 2026-08-30T08:57:47Z | registry-derived |
+| [graphieros/vue-data-ui](../records/radars-graphieros-vue-data-ui-37b47478.md) | partial | 2026-09-02T10:46:26Z | registry-derived |
 | [johntruckenbrodt/pyroSAR](../records/radars-johntruckenbrodt-pyrosar-83ed39f7.md) | partial | 2026-08-28T14:30:32Z | registry-derived |
 | [Orion-AI-Lab/KuroSiwo](../records/radars-orion-ai-lab-kurosiwo-16670f6a.md) | partial | 2026-07-16T11:37:33Z | registry-derived |
 | [tier4/nebula](../records/radars-tier4-nebula-3760d802.md) | partial | 2026-08-02T00:21:19Z | registry-derived |
@@ -149,7 +149,7 @@ Records: `149`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ashuttl/linecast](../records/radars-ashuttl-linecast-afb4bdb7.md) | partial | 2026-09-02T03:11:32Z | registry-derived |
+| [ashuttl/linecast](../records/radars-ashuttl-linecast-afb4bdb7.md) | partial | 2026-09-02T11:16:23Z | registry-derived |
 | [bellingcat/sar-interference-tracker](../records/radars-bellingcat-sar-interference-tracker-8efa36c7.md) | partial | 2022-02-23T13:57:03Z | registry-derived |
 | [bellingcat/umbra-open-data-tracker](../records/radars-bellingcat-umbra-open-data-tracker-b56dce91.md) | partial | 2026-08-03T14:44:41Z | registry-derived |
 | [CyanideCN/PyCINRAD](../records/radars-cyanidecn-pycinrad-fe2b1f00.md) | partial | 2026-06-26T10:45:59Z | registry-derived |
@@ -187,7 +187,7 @@ Records: `149`
 | [acconeer/acconeer-python-exploration](../records/radars-acconeer-acconeer-python-exploration-c570151f.md) | partial | 2026-08-10T14:18:17Z | registry-derived |
 | [bopen/xarray-sentinel](../records/radars-bopen-xarray-sentinel-d49585c9.md) | partial | 2026-08-26T14:14:32Z | registry-derived |
 | [dpaulat/supercell-wx](../records/radars-dpaulat-supercell-wx-216e49cf.md) | partial | 2026-09-01T22:58:49Z | registry-derived |
-| [earthobservations/wetterdienst](../records/radars-earthobservations-wetterdienst-4494a41f.md) | partial | 2026-09-02T06:28:12Z | registry-derived |
+| [earthobservations/wetterdienst](../records/radars-earthobservations-wetterdienst-4494a41f.md) | partial | 2026-09-02T10:04:47Z | registry-derived |
 | [erikliland/pyMHT](../records/radars-erikliland-pymht-6bcd5586.md) | partial | 2023-09-19T11:10:15Z | registry-derived |
 | [ethanhuang13/ladybug](../records/radars-ethanhuang13-ladybug-9ff29291.md) | partial | 2019-12-26T07:04:26Z | registry-derived |
 | [feedback-assistant/reports](../records/radars-feedback-assistant-reports-4bc463b2.md) | partial | 2025-11-07T04:38:18Z | registry-derived |
@@ -206,7 +206,7 @@ Records: `149`
 | [Nouuu/Albion-Online-OpenRadar](../records/radars-nouuu-albion-online-openradar-04ea3acd.md) | partial | 2026-08-31T18:18:32Z | registry-derived |
 | [ntnu-arl/lidar_degeneracy_datasets](../records/radars-ntnu-arl-lidar-degeneracy-datasets-f90e3fc8.md) | partial | 2026-02-03T12:49:37Z | registry-derived |
 | [odhondt/eo_tools](../records/radars-odhondt-eo-tools-bf024141.md) | partial | 2026-08-28T22:53:21Z | registry-derived |
-| [open-flight/openflight](../records/radars-open-flight-openflight-76c154cb.md) | partial | 2026-09-01T12:22:25Z | registry-derived |
+| [open-flight/openflight](../records/radars-open-flight-openflight-76c154cb.md) | partial | 2026-09-02T09:16:14Z | registry-derived |
 | [opencpn-radar-pi/radar_pi](../records/radars-opencpn-radar-pi-radar-pi-bfe54946.md) | partial | 2026-08-04T01:35:42Z | registry-derived |
 | [openradar/xradar](../records/radars-openradar-xradar-fcfe7f38.md) | partial | 2026-09-01T10:30:01Z | registry-derived |
 | [PatrickTUM/SEN12MS-CR-TS](../records/radars-patricktum-sen12ms-cr-ts-b82b98a6.md) | partial | 2024-01-23T17:51:20Z | registry-derived |

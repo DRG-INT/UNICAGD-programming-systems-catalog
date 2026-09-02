@@ -32,7 +32,7 @@ Records: `149`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [OpenSpace/OpenSpace](../records/telescopes-openspace-openspace-9cf8076b.md) | partial | 2026-09-02T08:34:53Z | registry-derived |
+| [OpenSpace/OpenSpace](../records/telescopes-openspace-openspace-9cf8076b.md) | partial | 2026-09-02T10:05:51Z | registry-derived |
 | [Shatur/neovim-cmake](../records/telescopes-shatur-neovim-cmake-ad8d2155.md) | partial | 2022-09-10T14:58:46Z | registry-derived |
 
 ### Debugger
@@ -162,7 +162,7 @@ Records: `149`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ad-si/Woxi](../records/telescopes-ad-si-woxi-8a8c02e7.md) | partial | 2026-09-02T09:04:09Z | registry-derived |
+| [ad-si/Woxi](../records/telescopes-ad-si-woxi-8a8c02e7.md) | partial | 2026-09-02T10:53:18Z | registry-derived |
 | [Avimitin/nvim](../records/telescopes-avimitin-nvim-96de9a1e.md) | partial | 2026-07-28T05:10:02Z | registry-derived |
 | [gnudatalanguage/gdl](../records/telescopes-gnudatalanguage-gdl-37cda6a5.md) | partial | 2026-09-02T08:13:03Z | registry-derived |
 
@@ -236,7 +236,7 @@ Records: `149`
 | [rkaczorek/astroberry-server](../records/telescopes-rkaczorek-astroberry-server-f5249e84.md) | partial | 2026-02-11T12:01:25Z | registry-derived |
 | [sanderblue/solar-system-threejs](../records/telescopes-sanderblue-solar-system-threejs-9534bfd9.md) | partial | 2022-12-07T17:32:03Z | registry-derived |
 | [saurvs/astro-rust](../records/telescopes-saurvs-astro-rust-3d0d6b1c.md) | partial | 2019-10-20T01:17:04Z | registry-derived |
-| [Sigmyne/SuperNOVAS](../records/telescopes-sigmyne-supernovas-c1bcbf75.md) | partial | 2026-08-13T09:40:07Z | registry-derived |
+| [Sigmyne/SuperNOVAS](../records/telescopes-sigmyne-supernovas-c1bcbf75.md) | partial | 2026-09-02T10:07:59Z | registry-derived |
 | [spacetelescope/poppy](../records/telescopes-spacetelescope-poppy-8fcb0fc5.md) | partial | 2026-08-26T14:23:04Z | registry-derived |
 | [Stellarium/stellarium](../records/telescopes-stellarium-stellarium-a274d765.md) | partial | 2026-09-01T21:05:52Z | registry-derived |
 | [sunpy/sunpy](../records/telescopes-sunpy-sunpy-52ba6b6e.md) | partial | 2026-09-01T13:34:19Z | registry-derived |
@@ -287,7 +287,7 @@ Records: `149`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [iamtelescope/telescope](../records/telescopes-iamtelescope-telescope-3d9294c3.md) | partial | 2026-05-08T13:06:09Z | registry-derived |
-| [Jubstaaa/hono-telescope](../records/telescopes-jubstaaa-hono-telescope-327995c1.md) | partial | 2026-09-02T09:06:34Z | registry-derived |
+| [Jubstaaa/hono-telescope](../records/telescopes-jubstaaa-hono-telescope-327995c1.md) | partial | 2026-09-02T11:18:36Z | registry-derived |
 | [nvim-telescope/telescope-github.nvim](../records/telescopes-nvim-telescope-telescope-github-nvim-5e97e37e.md) | partial | 2026-01-20T05:13:22Z | registry-derived |
 | [rlch/github-notifications.nvim](../records/telescopes-rlch-github-notifications-nvim-185a6c78.md) | partial | 2023-06-15T02:27:51Z | registry-derived |
 

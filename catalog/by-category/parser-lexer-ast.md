@@ -955,7 +955,7 @@ Records: `917`
 | rkaczorek/astroberry-server | partial | 2026-02-11T12:01:25Z | [open](../records/telescopes-rkaczorek-astroberry-server-f5249e84.md) |
 | sanderblue/solar-system-threejs | partial | 2022-12-07T17:32:03Z | [open](../records/telescopes-sanderblue-solar-system-threejs-9534bfd9.md) |
 | saurvs/astro-rust | partial | 2019-10-20T01:17:04Z | [open](../records/telescopes-saurvs-astro-rust-3d0d6b1c.md) |
-| Sigmyne/SuperNOVAS | partial | 2026-08-13T09:40:07Z | [open](../records/telescopes-sigmyne-supernovas-c1bcbf75.md) |
+| Sigmyne/SuperNOVAS | partial | 2026-09-02T10:07:59Z | [open](../records/telescopes-sigmyne-supernovas-c1bcbf75.md) |
 | spacetelescope/poppy | partial | 2026-08-26T14:23:04Z | [open](../records/telescopes-spacetelescope-poppy-8fcb0fc5.md) |
 | Stellarium/stellarium | partial | 2026-09-01T21:05:52Z | [open](../records/telescopes-stellarium-stellarium-a274d765.md) |
 | sunpy/sunpy | partial | 2026-09-01T13:34:19Z | [open](../records/telescopes-sunpy-sunpy-52ba6b6e.md) |

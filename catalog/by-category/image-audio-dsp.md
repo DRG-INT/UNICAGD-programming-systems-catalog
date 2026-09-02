@@ -188,7 +188,7 @@ Records: `300`
 | chenwj1989/pafx | partial | 2026-06-09T09:49:35Z | [open](../records/effects-chenwj1989-pafx-ac1e16fc.md) |
 | cutterbl/SoundTouchJS | partial | 2026-08-03T17:39:09Z | [open](../records/effects-cutterbl-soundtouchjs-471a5022.md) |
 | cycfi/hz_audio_to_midi | partial | 2024-10-12T07:14:24Z | [open](../records/effects-cycfi-hz-audio-to-midi-a8cbfec4.md) |
-| cycfi/q | partial | 2026-08-29T12:46:35Z | [open](../records/effects-cycfi-q-adb0f6f9.md) |
+| cycfi/q | partial | 2026-09-02T10:02:40Z | [open](../records/effects-cycfi-q-adb0f6f9.md) |
 | danielraffel/pulp-classic-effects | partial | 2026-07-27T01:54:17Z | [open](../records/effects-danielraffel-pulp-classic-effects-7b197f0e.md) |
 | DiffAPF/torchcomp | partial | 2026-02-10T13:08:21Z | [open](../records/effects-diffapf-torchcomp-c6e61558.md) |
 | digitaldanny/AudioEffectsGlove | partial | 2021-05-21T02:02:26Z | [open](../records/effects-digitaldanny-audioeffectsglove-48108d52.md) |
@@ -288,7 +288,7 @@ Records: `300`
 | jareddrayton/Audio-Plugin-Development-Resources | partial | 2022-11-01T15:35:25Z | [open](../records/audio-jareddrayton-audio-plugin-development-resources-5d496c70.md) |
 | JUCE | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-juce-3f2891c9.md) |
 | JuliaDSP/DSP.jl | partial | 2026-08-25T10:58:30Z | [open](../records/audio-juliadsp-dsp-jl-4e524896.md) |
-| katspaugh/wavesurfer.js | partial | 2026-09-02T10:23:46Z | [open](../records/audio-katspaugh-wavesurfer-js-cff13805.md) |
+| katspaugh/wavesurfer.js | partial | 2026-09-02T10:54:09Z | [open](../records/audio-katspaugh-wavesurfer-js-cff13805.md) |
 | koel/koel | partial | 2026-09-01T22:52:59Z | [open](../records/audio-koel-koel-f2457c0c.md) |
 | libsndfile | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-libsndfile-6065db3d.md) |
 | mackron/miniaudio | partial | 2026-08-19T22:07:12Z | [open](../records/audio-mackron-miniaudio-78110754.md) |
