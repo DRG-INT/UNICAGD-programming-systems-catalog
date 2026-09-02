@@ -17,9 +17,9 @@ Records: `397`
 [Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (557)](formatter.md)
 [Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1166)](ide-editor-integration.md)
 [Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4901)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4903)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · **[Logging Observability (397)](logging-observability.md)** · [Machine Learning (596)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (926)](networking-http.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (927)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (930)](parser-lexer-ast.md) · [Precommit Ci Quality (265)](precommit-ci-quality.md)
 [Profiler (74)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (316)](security-sast.md) · [Serialization (371)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (455)](static-analyzer.md)
@@ -340,14 +340,14 @@ Records: `397`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| influxdata/telegraf | partial | 2026-09-02T16:29:51Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
+| influxdata/telegraf | partial | 2026-09-02T17:49:36Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 2noise/ChatTTS | partial | 2026-04-10T16:33:48Z | [open](../records/aim-s-2noise-chattts-5e993170.md) |
-| langfuse/langfuse | partial | 2026-09-02T17:16:10Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
+| langfuse/langfuse | partial | 2026-09-02T18:16:38Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
 | microsoft/semantic-kernel | partial | 2026-09-02T17:18:38Z | [open](../records/aim-s-microsoft-semantic-kernel-ef95bef0.md) |
 | MLflow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-mlflow-1732aa2b.md) |
 | OpenTelemetry Semantic Conventions For GenAI | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-opentelemetry-semantic-conventions-for-genai-e834f611.md) |
@@ -487,7 +487,7 @@ Records: `397`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| afermg/cp_measure | partial | 2026-08-19T14:52:12Z | [open](../records/microscopy-afermg-cp-measure-ee9fd0ec.md) |
+| afermg/cp_measure | partial | 2026-09-02T17:06:45Z | [open](../records/microscopy-afermg-cp-measure-ee9fd0ec.md) |
 | BiologyTools/BioImager | partial | 2026-06-19T10:01:50Z | [open](../records/microscopy-biologytools-bioimager-62b82291.md) |
 | Dana-Farber-AIOS/pathml | partial | 2026-08-14T02:49:27Z | [open](../records/microscopy-dana-farber-aios-pathml-b56cd566.md) |
 | flika-org/flika | partial | 2026-03-04T16:01:04Z | [open](../records/microscopy-flika-org-flika-fc3890a5.md) |

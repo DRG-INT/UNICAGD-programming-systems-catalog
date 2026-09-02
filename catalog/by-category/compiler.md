@@ -17,9 +17,9 @@ Records: `171`
 [Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (557)](formatter.md)
 [Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1166)](ide-editor-integration.md)
 [Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4901)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4903)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (596)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (926)](networking-http.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (927)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (930)](parser-lexer-ast.md) · [Precommit Ci Quality (265)](precommit-ci-quality.md)
 [Profiler (74)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (316)](security-sast.md) · [Serialization (371)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (455)](static-analyzer.md)
@@ -223,7 +223,7 @@ Records: `171`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | vult-dsp/vult | partial | 2026-08-29T19:33:27Z | [open](../records/audio-vult-dsp-vult-61a05f1e.md) |
-| Wasted-Audio/hvcc | partial | 2026-09-02T08:37:55Z | [open](../records/audio-wasted-audio-hvcc-6c62ec1c.md) |
+| Wasted-Audio/hvcc | partial | 2026-09-02T13:38:34Z | [open](../records/audio-wasted-audio-hvcc-6c62ec1c.md) |
 
 ## Magazines
 
@@ -236,7 +236,7 @@ Records: `171`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ClementTsang/rustcc | partial | 2025-06-04T05:05:13Z | [open](../records/assembly-clementtsang-rustcc-81a87799.md) |
-| compiler-explorer/compiler-explorer | partial | 2026-09-02T17:01:55Z | [open](../records/assembly-compiler-explorer-compiler-explorer-99f6d9ce.md) |
+| compiler-explorer/compiler-explorer | partial | 2026-09-02T18:24:55Z | [open](../records/assembly-compiler-explorer-compiler-explorer-99f6d9ce.md) |
 | DQNEO/minigo | partial | 2021-02-16T16:05:25Z | [open](../records/assembly-dqneo-minigo-2d87e4eb.md) |
 | emproof-com/nyxstone | partial | 2026-06-05T16:43:08Z | [open](../records/assembly-emproof-com-nyxstone-2e6c50f8.md) |
 | Fedjmike/mini-c | partial | 2022-04-15T08:24:14Z | [open](../records/assembly-fedjmike-mini-c-295a2fc0.md) |

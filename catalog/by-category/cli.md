@@ -17,9 +17,9 @@ Records: `508`
 [Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (557)](formatter.md)
 [Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1166)](ide-editor-integration.md)
 [Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4901)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4903)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (596)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (926)](networking-http.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (927)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (930)](parser-lexer-ast.md) · [Precommit Ci Quality (265)](precommit-ci-quality.md)
 [Profiler (74)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (316)](security-sast.md) · [Serialization (371)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (455)](static-analyzer.md)
@@ -306,12 +306,12 @@ Records: `508`
 | @ionic/cli-framework-output | 2.2.8 | 2023-12-19T22:38:35.365Z | [open](../records/node-js-javascript-ionic-cli-framework-output-8324bb8a.md) |
 | @ionic/cli-framework-prompts | 2.1.13 | 2023-12-19T22:38:35.436Z | [open](../records/node-js-javascript-ionic-cli-framework-prompts-5599c31f.md) |
 | @knocklabs/cli | 1.2.3 | 2026-08-13T15:12:15.170Z | [open](../records/node-js-javascript-knocklabs-cli-62154908.md) |
-| @lightdash/cli | 2.96.0 | 2026-09-02T15:17:47.173Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
+| @lightdash/cli | 2.97.1 | 2026-09-02T18:16:24.568Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | @lingui/cli | 6.6.0 | 2026-07-24T13:52:53.439Z | [open](../records/node-js-javascript-lingui-cli-343f33ec.md) |
 | @maizzle/cli | 2.0.0 | 2024-12-16T17:59:24.900Z | [open](../records/node-js-javascript-maizzle-cli-a7a13457.md) |
 | @metamask/messenger-cli | 0.2.0 | 2026-04-20T16:40:19.418Z | [open](../records/node-js-javascript-metamask-messenger-cli-15524c80.md) |
 | @microsoft/m365agentstoolkit-cli | 1.1.15 | 2026-08-12T02:14:25.632Z | [open](../records/node-js-javascript-microsoft-m365agentstoolkit-cli-3f536e69.md) |
-| @mintlify/cli | 4.0.1463 | 2026-09-02T04:36:34.319Z | [open](../records/node-js-javascript-mintlify-cli-64dbc59b.md) |
+| @mintlify/cli | 4.0.1465 | 2026-09-02T18:12:22.274Z | [open](../records/node-js-javascript-mintlify-cli-64dbc59b.md) |
 | @module-federation/cli | 2.9.0 | 2026-08-24T08:21:41.802Z | [open](../records/node-js-javascript-module-federation-cli-ad5965f3.md) |
 | @mongosh/logging | 5.2.0 | 2026-07-01T01:01:34.354Z | [open](../records/node-js-javascript-mongosh-logging-a2ed4564.md) |
 | @napi-rs/cli | 3.9.0 | 2026-09-02T16:11:20.951Z | [open](../records/node-js-javascript-napi-rs-cli-3160c98d.md) |
@@ -412,8 +412,8 @@ Records: `508`
 | lmnr-cli | 0.5.0 | 2026-08-21T15:24:37.896Z | [open](../records/node-js-javascript-lmnr-cli-446632fc.md) |
 | locize-cli | 12.7.0 | 2026-09-01T05:39:48.244Z | [open](../records/node-js-javascript-locize-cli-9156d8b9.md) |
 | meow | 14.1.0 | 2026-02-20T10:30:43.850Z | [open](../records/node-js-javascript-meow-f24d3a17.md) |
-| mint | 4.2.860 | 2026-09-02T04:36:37.518Z | [open](../records/node-js-javascript-mint-4de26fe3.md) |
-| mintlify | 4.2.860 | 2026-09-02T04:36:37.878Z | [open](../records/node-js-javascript-mintlify-3fade289.md) |
+| mint | 4.2.862 | 2026-09-02T18:12:26.060Z | [open](../records/node-js-javascript-mint-4de26fe3.md) |
+| mintlify | 4.2.862 | 2026-09-02T18:12:25.722Z | [open](../records/node-js-javascript-mintlify-3fade289.md) |
 | oclif | 5.0.0 | 2026-08-31T21:41:17.685Z | [open](../records/node-js-javascript-oclif-1e846831.md) |
 | openapi-merge-cli | 2.0.2 | 2026-08-08T02:12:42.793Z | [open](../records/node-js-javascript-openapi-merge-cli-834fc90c.md) |
 | ora | unknown | not_checked | [open](../records/node-js-javascript-ora-ad5f9a2f.md) |
@@ -520,7 +520,7 @@ Records: `508`
 | --- | --- | --- | --- |
 | esengine/DeepSeek-Reasonix | partial | 2026-09-02T16:35:54Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-02T17:18:18Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-02T18:20:11Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Assets
 

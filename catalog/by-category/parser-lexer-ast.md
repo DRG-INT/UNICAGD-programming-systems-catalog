@@ -17,9 +17,9 @@ Records: `930`
 [Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (557)](formatter.md)
 [Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1166)](ide-editor-integration.md)
 [Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4901)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4903)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (596)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (926)](networking-http.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (927)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (278)](package-manager.md) · **[Parser Lexer Ast (930)](parser-lexer-ast.md)** · [Precommit Ci Quality (265)](precommit-ci-quality.md)
 [Profiler (74)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (316)](security-sast.md) · [Serialization (371)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (455)](static-analyzer.md)
@@ -622,7 +622,7 @@ Records: `930`
 | --- | --- | --- | --- |
 | 0xIonRod/learning-basilisk | partial | 2023-06-28T06:42:25Z | [open](../records/basilisk-0xionrod-learning-basilisk-3b9428f3.md) |
 | AVSLab/basilisk | partial | 2026-09-02T16:07:23Z | [open](../records/basilisk-avslab-basilisk-3f9dd832.md) |
-| CarterBalow/avs-lab-work | partial | 2026-09-02T01:44:52Z | [open](../records/basilisk-carterbalow-avs-lab-work-c0f5c66b.md) |
+| CarterBalow/avs-lab-work | partial | 2026-09-02T17:52:11Z | [open](../records/basilisk-carterbalow-avs-lab-work-c0f5c66b.md) |
 | DISCOWER/bsk-msgs | partial | 2026-07-02T20:47:18Z | [open](../records/basilisk-discower-bsk-msgs-80974f96.md) |
 | DISCOWER/bsk-ros2-bridge | partial | 2026-08-25T16:24:45Z | [open](../records/basilisk-discower-bsk-ros2-bridge-ff7c49fa.md) |
 | ephraim71/basilisk-rs | partial | 2026-09-01T05:25:48Z | [open](../records/basilisk-ephraim71-basilisk-rs-faa4890f.md) |
@@ -636,7 +636,7 @@ Records: `930`
 | --- | --- | --- | --- |
 | AstrBotDevs/AstrBot | partial | 2026-09-02T14:32:48Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
 | HKUDS/LightRAG | partial | 2026-09-02T16:52:03Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
-| labring/FastGPT | partial | 2026-09-02T15:56:51Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
+| labring/FastGPT | partial | 2026-09-02T17:35:31Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Assets
 
@@ -878,7 +878,7 @@ Records: `930`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | adefossez/julius | partial | 2026-06-03T15:55:19Z | [open](../records/audio-adefossez-julius-332f2bf3.md) |
-| avaneev/r8brain-free-src | partial | 2026-08-17T01:27:01Z | [open](../records/audio-avaneev-r8brain-free-src-df39a53a.md) |
+| avaneev/r8brain-free-src | partial | 2026-09-02T17:58:46Z | [open](../records/audio-avaneev-r8brain-free-src-df39a53a.md) |
 | huggingface/distil-whisper | partial | 2025-01-08T10:09:47Z | [open](../records/audio-huggingface-distil-whisper-4612ba97.md) |
 | iver56/torch-audiomentations | partial | 2025-11-24T20:07:26Z | [open](../records/audio-iver56-torch-audiomentations-c42fa5d3.md) |
 | kayrockscreenprinting/ultramaster_kr106 | v2.5.13 | 2026-05-07T15:55:59Z | [open](../records/audio-kayrockscreenprinting-ultramaster-kr106-706fda18.md) |

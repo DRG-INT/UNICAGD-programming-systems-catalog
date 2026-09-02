@@ -17,9 +17,9 @@ Records: `265`
 [Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (557)](formatter.md)
 [Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1166)](ide-editor-integration.md)
 [Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4901)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4903)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (596)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (926)](networking-http.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (927)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (930)](parser-lexer-ast.md) · **[Precommit Ci Quality (265)](precommit-ci-quality.md)**
 [Profiler (74)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (316)](security-sast.md) · [Serialization (371)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (455)](static-analyzer.md)
@@ -337,7 +337,7 @@ Records: `265`
 | --- | --- | --- | --- |
 | besscroft/PicImpact | partial | 2026-07-03T13:33:00Z | [open](../records/photography-besscroft-picimpact-0dc1368b.md) |
 | boltgolt/howdy | partial | 2025-07-29T10:07:27Z | [open](../records/photography-boltgolt-howdy-772dcbb3.md) |
-| marcinz606/NegPy | partial | 2026-09-02T08:25:51Z | [open](../records/photography-marcinz606-negpy-13e4113f.md) |
+| marcinz606/NegPy | partial | 2026-09-02T14:58:48Z | [open](../records/photography-marcinz606-negpy-13e4113f.md) |
 | ramokz/phantom-camera | partial | 2026-09-01T20:36:49Z | [open](../records/photography-ramokz-phantom-camera-07b158cf.md) |
 | showmewebcam/showmewebcam | partial | 2024-08-14T16:42:44Z | [open](../records/photography-showmewebcam-showmewebcam-cd9dcd31.md) |
 | SpecialKO/SpecialK | partial | 2026-08-31T22:39:56Z | [open](../records/photography-specialko-specialk-d14b8655.md) |

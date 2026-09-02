@@ -17,9 +17,9 @@ Records: `69`
 [Embedded Hardware (50)](../by-category/embedded-hardware.md) · [Ffi Bindings (393)](../by-category/ffi-bindings.md) · [Filesystem Os (1231)](../by-category/filesystem-os.md) · [Formatter (557)](../by-category/formatter.md)
 [Framework (51)](../by-category/framework.md) · [Fuzzer (48)](../by-category/fuzzer.md) · [Game Engine Game Dev (159)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1166)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (310)](../by-category/image-audio-dsp.md) · [Interop Bindings (56)](../by-category/interop-bindings.md) · [Interpreter Runtime (236)](../by-category/interpreter-runtime.md) · [Jit Vm (56)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1245)](../by-category/language-specification.md) · [Library (4901)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1245)](../by-category/language-specification.md) · [Library (4903)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (41)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (397)](../by-category/logging-observability.md) · [Machine Learning (596)](../by-category/machine-learning.md)
-[Math Numeric Scientific (79)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (86)](../by-category/memory-analyzer.md) · [Message Broker (34)](../by-category/message-broker.md) · [Networking Http (926)](../by-category/networking-http.md)
+[Math Numeric Scientific (79)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (86)](../by-category/memory-analyzer.md) · [Message Broker (34)](../by-category/message-broker.md) · [Networking Http (927)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (278)](../by-category/package-manager.md) · [Parser Lexer Ast (930)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (265)](../by-category/precommit-ci-quality.md)
 [Profiler (74)](../by-category/profiler.md) · [Project Scaffolding (120)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (12)](../by-category/sanitizer.md)
 [Security Sast (316)](../by-category/security-sast.md) · [Serialization (371)](../by-category/serialization.md) · [Standard Library (24)](../by-category/standard-library.md) · [Static Analyzer (455)](../by-category/static-analyzer.md)
@@ -33,15 +33,15 @@ Records: `69`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [adobe/rules_gitops](../records/starlark-adobe-rules-gitops-09140ed0.md) | partial | 2026-08-30T23:32:18Z | registry-derived |
-| [aspect-build/rules_js](../records/starlark-aspect-build-rules-js-fd75b379.md) | partial | 2026-09-02T15:58:24Z | registry-derived |
+| [aspect-build/rules_js](../records/starlark-aspect-build-rules-js-fd75b379.md) | partial | 2026-09-02T17:29:06Z | registry-derived |
 | [aspect-build/rules_py](../records/starlark-aspect-build-rules-py-910f4833.md) | partial | 2026-09-01T22:59:27Z | registry-derived |
 | [Bazel](../records/starlark-bazel-189ae4a2.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
-| [bazel-contrib/bazel-lib](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) | partial | 2026-09-02T16:11:30Z | registry-derived |
+| [bazel-contrib/bazel-lib](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) | partial | 2026-09-02T17:30:29Z | registry-derived |
 | [bazel-contrib/rules_cuda](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) | partial | 2026-09-02T02:05:57Z | registry-derived |
 | [bazel-contrib/rules_dotnet](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) | partial | 2026-09-02T11:40:11Z | registry-derived |
 | [bazel-contrib/rules_go](../records/starlark-bazel-contrib-rules-go-4b6a62de.md) | partial | 2026-09-02T17:18:51Z | registry-derived |
 | [bazel-contrib/rules_img](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) | partial | 2026-09-02T15:40:17Z | registry-derived |
-| [bazel-contrib/rules_kotlin](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) | partial | 2026-09-02T08:18:03Z | registry-derived |
+| [bazel-contrib/rules_kotlin](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) | partial | 2026-09-02T17:55:57Z | registry-derived |
 | [bazel-contrib/rules_scala](../records/starlark-bazel-contrib-rules-scala-d92d7813.md) | partial | 2026-09-02T16:40:24Z | registry-derived |
 | [bazelbuild/bazel-skylib](../records/starlark-bazelbuild-bazel-skylib-6abae8f4.md) | partial | 2026-09-01T20:37:47Z | registry-derived |
 | [bazelbuild/rules_cc](../records/starlark-bazelbuild-rules-cc-39327329.md) | partial | 2026-09-02T17:11:47Z | registry-derived |
@@ -50,7 +50,7 @@ Records: `69`
 | [bazelbuild/rules_k8s](../records/starlark-bazelbuild-rules-k8s-80683477.md) | partial | 2023-05-12T13:44:37Z | registry-derived |
 | [bazelbuild/rules_swift](../records/starlark-bazelbuild-rules-swift-3968ab89.md) | partial | 2026-09-02T05:19:41Z | registry-derived |
 | [bazelbuild/rules_typescript](../records/starlark-bazelbuild-rules-typescript-5c12b5d3.md) | partial | 2020-10-23T14:44:49Z | registry-derived |
-| [cgrindel/rules_swift_package_manager](../records/starlark-cgrindel-rules-swift-package-manager-e9bd76cb.md) | partial | 2026-09-02T14:38:49Z | registry-derived |
+| [cgrindel/rules_swift_package_manager](../records/starlark-cgrindel-rules-swift-package-manager-e9bd76cb.md) | partial | 2026-09-02T18:16:55Z | registry-derived |
 | [dropbox/dbx_build_tools](../records/starlark-dropbox-dbx-build-tools-f48dff7c.md) | partial | 2023-08-16T17:42:36Z | registry-derived |
 | [facebookincubator/reindeer](../records/starlark-facebookincubator-reindeer-e957d783.md) | partial | 2026-09-02T03:24:17Z | registry-derived |
 | [jin/awesome-bazel](../records/starlark-jin-awesome-bazel-fd38a6d9.md) | partial | 2024-11-13T07:46:30Z | registry-derived |
@@ -107,17 +107,17 @@ Records: `69`
 | --- | --- | --- | --- |
 | [bazel-contrib/rules_foreign_cc](../records/starlark-bazel-contrib-rules-foreign-cc-74f543fe.md) | partial | 2026-06-28T01:47:45Z | registry-derived |
 | [bazel-contrib/rules_nodejs](../records/starlark-bazel-contrib-rules-nodejs-6ba164bc.md) | partial | 2026-09-01T16:15:55Z | registry-derived |
-| [bazel-contrib/rules_python](../records/starlark-bazel-contrib-rules-python-3138da4d.md) | partial | 2026-09-02T14:35:37Z | registry-derived |
+| [bazel-contrib/rules_python](../records/starlark-bazel-contrib-rules-python-3138da4d.md) | partial | 2026-09-02T18:01:40Z | registry-derived |
 | [bazelbuild/examples](../records/starlark-bazelbuild-examples-aa7ebe53.md) | partial | 2026-08-31T14:21:32Z | registry-derived |
 | [bazelbuild/rules_apple](../records/starlark-bazelbuild-rules-apple-9bc4356d.md) | partial | 2026-09-01T22:13:44Z | registry-derived |
 | [bazelbuild/rules_docker](../records/starlark-bazelbuild-rules-docker-9df12e7c.md) | partial | 2025-12-22T00:24:32Z | registry-derived |
-| [bazelbuild/rules_rust](../records/starlark-bazelbuild-rules-rust-3c62960b.md) | partial | 2026-09-02T17:06:03Z | registry-derived |
+| [bazelbuild/rules_rust](../records/starlark-bazelbuild-rules-rust-3c62960b.md) | partial | 2026-09-02T17:23:01Z | registry-derived |
 | [cel-expr/cel-spec](../records/starlark-cel-expr-cel-spec-b2658dd8.md) | partial | 2026-08-13T21:27:23Z | registry-derived |
 | [envoyproxy/data-plane-api](../records/starlark-envoyproxy-data-plane-api-7610f6c0.md) | partial | 2026-09-02T17:12:44Z | registry-derived |
 | [google/dotprompt](../records/starlark-google-dotprompt-07de9fab.md) | partial | 2026-08-25T14:21:42Z | registry-derived |
 | [google/fully-homomorphic-encryption](../records/starlark-google-fully-homomorphic-encryption-7e96f129.md) | partial | 2026-08-31T22:56:14Z | registry-derived |
 | [googleapis/googleapis](../records/starlark-googleapis-googleapis-b2038836.md) | partial | 2026-09-01T21:57:51Z | registry-derived |
-| [GoogleContainerTools/distroless](../records/starlark-googlecontainertools-distroless-b973874f.md) | partial | 2026-09-01T21:33:48Z | registry-derived |
+| [GoogleContainerTools/distroless](../records/starlark-googlecontainertools-distroless-b973874f.md) | partial | 2026-09-02T18:03:14Z | registry-derived |
 | [lucperkins/colossus](../records/starlark-lucperkins-colossus-6d410097.md) | partial | 2022-06-02T18:12:42Z | registry-derived |
 | [Starlark Language Specification](../records/starlark-starlark-language-specification-b9f4bbd9.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [starlight-go/starlight](../records/starlark-starlight-go-starlight-59fc198b.md) | partial | 2024-05-17T04:45:26Z | registry-derived |
@@ -140,7 +140,7 @@ Records: `69`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [protoconf/protoconf](../records/starlark-protoconf-protoconf-2d2b3184.md) | partial | 2026-09-02T15:08:22Z | registry-derived |
+| [protoconf/protoconf](../records/starlark-protoconf-protoconf-2d2b3184.md) | partial | 2026-09-02T17:54:41Z | registry-derived |
 | [remarshal-project/remarshal](../records/starlark-remarshal-project-remarshal-9ffddf4f.md) | partial | 2026-08-01T07:20:07Z | registry-derived |
 
 ### Undefined Behavior Analyzer

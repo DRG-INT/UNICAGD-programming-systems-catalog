@@ -17,9 +17,9 @@ Records: `278`
 [Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (557)](formatter.md)
 [Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1166)](ide-editor-integration.md)
 [Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4901)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4903)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (596)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (926)](networking-http.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (927)](networking-http.md)
 [Other (14)](other.md) · **[Package Manager (278)](package-manager.md)** · [Parser Lexer Ast (930)](parser-lexer-ast.md) · [Precommit Ci Quality (265)](precommit-ci-quality.md)
 [Profiler (74)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (316)](security-sast.md) · [Serialization (371)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (455)](static-analyzer.md)
@@ -321,7 +321,7 @@ Records: `278`
 | appliedapp/rusty_lights | partial | 2026-05-04T20:20:12Z | [open](../records/effects-appliedapp-rusty-lights-c67cc805.md) |
 | Audio4Linux/JDSP4Linux | partial | 2026-08-29T16:29:46Z | [open](../records/effects-audio4linux-jdsp4linux-e90e4af9.md) |
 | beinteractive/LWRPAmbientOcclusion | partial | 2019-10-04T22:49:34Z | [open](../records/effects-beinteractive-lwrpambientocclusion-7b85e0e3.md) |
-| CialloKing/ba-click-fx | partial | 2026-08-18T05:57:36Z | [open](../records/effects-cialloking-ba-click-fx-b842180a.md) |
+| CialloKing/ba-click-fx | partial | 2026-09-02T18:07:45Z | [open](../records/effects-cialloking-ba-click-fx-b842180a.md) |
 | CyberAgentGameEntertainment/NovaShader | partial | 2026-09-02T09:17:59Z | [open](../records/effects-cyberagentgameentertainment-novashader-cfdfe2cf.md) |
 | demonixis/SSGI-URP | partial | 2020-03-11T06:40:26Z | [open](../records/effects-demonixis-ssgi-urp-4db7e7d8.md) |
 | GarrettGunnell/Post-Processing | unknown | github_latest_release_missing | [open](../records/effects-garrettgunnell-post-processing-2bb2ca4a.md) |
@@ -344,13 +344,13 @@ Records: `278`
 | Archie3d/aeolus_plugin | v0.3.0 | 2025-05-31T13:17:36Z | [open](../records/audio-archie3d-aeolus-plugin-c1d397f6.md) |
 | Audio4Linux/JDSP4Linux | partial | 2026-08-29T16:29:46Z | [open](../records/audio-audio4linux-jdsp4linux-effd41ab.md) |
 | collidingScopes/arpeggiator | unknown | github_latest_release_missing | [open](../records/audio-collidingscopes-arpeggiator-f2da818f.md) |
-| modelscope/FunASR | partial | 2026-09-02T12:45:31Z | [open](../records/audio-modelscope-funasr-8e089427.md) |
+| modelscope/FunASR | partial | 2026-09-02T16:43:41Z | [open](../records/audio-modelscope-funasr-8e089427.md) |
 
 ## Video
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| google-ai-edge/mediapipe | partial | 2026-09-02T09:33:33Z | [open](../records/video-google-ai-edge-mediapipe-a0c51472.md) |
+| google-ai-edge/mediapipe | partial | 2026-09-02T13:33:42Z | [open](../records/video-google-ai-edge-mediapipe-a0c51472.md) |
 | memvid/memvid | partial | 2026-07-14T14:39:07Z | [open](../records/video-memvid-memvid-bb0d9def.md) |
 | snapotter-hq/SnapOtter | partial | 2026-08-31T16:44:04Z | [open](../records/video-snapotter-hq-snapotter-7f75c7aa.md) |
 | TeamNewPipe/NewPipe | partial | 2026-08-31T12:57:33Z | [open](../records/video-teamnewpipe-newpipe-c1ab8a41.md) |

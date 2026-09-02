@@ -17,9 +17,9 @@ Records: `183`
 [Embedded Hardware (50)](../by-category/embedded-hardware.md) · [Ffi Bindings (393)](../by-category/ffi-bindings.md) · [Filesystem Os (1231)](../by-category/filesystem-os.md) · [Formatter (557)](../by-category/formatter.md)
 [Framework (51)](../by-category/framework.md) · [Fuzzer (48)](../by-category/fuzzer.md) · [Game Engine Game Dev (159)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1166)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (310)](../by-category/image-audio-dsp.md) · [Interop Bindings (56)](../by-category/interop-bindings.md) · [Interpreter Runtime (236)](../by-category/interpreter-runtime.md) · [Jit Vm (56)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1245)](../by-category/language-specification.md) · [Library (4901)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1245)](../by-category/language-specification.md) · [Library (4903)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (41)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (397)](../by-category/logging-observability.md) · [Machine Learning (596)](../by-category/machine-learning.md)
-[Math Numeric Scientific (79)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (86)](../by-category/memory-analyzer.md) · [Message Broker (34)](../by-category/message-broker.md) · [Networking Http (926)](../by-category/networking-http.md)
+[Math Numeric Scientific (79)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (86)](../by-category/memory-analyzer.md) · [Message Broker (34)](../by-category/message-broker.md) · [Networking Http (927)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (278)](../by-category/package-manager.md) · [Parser Lexer Ast (930)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (265)](../by-category/precommit-ci-quality.md)
 [Profiler (74)](../by-category/profiler.md) · [Project Scaffolding (120)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (12)](../by-category/sanitizer.md)
 [Security Sast (316)](../by-category/security-sast.md) · [Serialization (371)](../by-category/serialization.md) · [Standard Library (24)](../by-category/standard-library.md) · [Static Analyzer (455)](../by-category/static-analyzer.md)
@@ -33,11 +33,11 @@ Records: `183`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [HaveAGitGat/Tdarr](../records/video-haveagitgat-tdarr-91bd4936.md) | partial | 2026-08-05T07:37:45Z | registry-derived |
-| [livekit/agents](../records/video-livekit-agents-1122d840.md) | partial | 2026-09-02T10:04:16Z | registry-derived |
+| [livekit/agents](../records/video-livekit-agents-1122d840.md) | partial | 2026-09-02T18:24:06Z | registry-derived |
 | [nova-video-player/aos-AVP](../records/video-nova-video-player-aos-avp-927babe3.md) | partial | 2026-08-30T18:34:21Z | registry-derived |
 | [OlafenwaMoses/ImageAI](../records/video-olafenwamoses-imageai-614f65e4.md) | partial | 2024-08-03T09:45:20Z | registry-derived |
 | [pipeless-ai/pipeless](../records/video-pipeless-ai-pipeless-5f6c8d4f.md) | partial | 2024-05-08T10:13:19Z | registry-derived |
-| [remotion-dev/remotion](../records/video-remotion-dev-remotion-ab42498d.md) | partial | 2026-09-02T12:51:29Z | registry-derived |
+| [remotion-dev/remotion](../records/video-remotion-dev-remotion-ab42498d.md) | partial | 2026-09-02T17:28:45Z | registry-derived |
 | [TheNickOfTime/handbrake-web](../records/video-thenickoftime-handbrake-web-5a475b6c.md) | partial | 2026-03-27T02:31:22Z | registry-derived |
 | [VideoFlint/Cabbage](../records/video-videoflint-cabbage-bf78fd50.md) | partial | 2023-11-08T00:02:29Z | registry-derived |
 
@@ -67,7 +67,7 @@ Records: `183`
 | [Archmage83/tvapk](../records/video-archmage83-tvapk-f1570f1b.md) | partial | 2026-08-12T01:43:48Z | registry-derived |
 | [bacalhau-project/bacalhau](../records/video-bacalhau-project-bacalhau-f12bfb54.md) | partial | 2026-09-02T05:14:27Z | registry-derived |
 | [bennyhuo/Kotlin-Tutorials](../records/video-bennyhuo-kotlin-tutorials-d23521e7.md) | partial | 2023-11-03T08:45:12Z | registry-derived |
-| [bigbluebutton/bigbluebutton](../records/video-bigbluebutton-bigbluebutton-9d135955.md) | partial | 2026-09-02T13:09:37Z | registry-derived |
+| [bigbluebutton/bigbluebutton](../records/video-bigbluebutton-bigbluebutton-9d135955.md) | partial | 2026-09-02T18:04:34Z | registry-derived |
 | [bilibili/ijkplayer](../records/video-bilibili-ijkplayer-8848a788.md) | partial | 2024-08-13T00:53:33Z | registry-derived |
 | [bloc97/Anime4K](../records/video-bloc97-anime4k-cec365ea.md) | partial | 2024-08-17T12:09:12Z | registry-derived |
 | [Breakthrough/PySceneDetect](../records/video-breakthrough-pyscenedetect-277ed8b0.md) | partial | 2026-08-28T00:20:20Z | registry-derived |
@@ -99,11 +99,11 @@ Records: `183`
 | [HA6Bots/TikTok-Compilation-Video-Generator](../records/video-ha6bots-tiktok-compilation-video-generator-2f38a80d.md) | partial | 2024-08-04T13:44:11Z | registry-derived |
 | [haasn/libplacebo](../records/video-haasn-libplacebo-801cca80.md) | partial | 2026-09-01T11:12:15Z | registry-derived |
 | [HeiSir2014/M3U8-Downloader](../records/video-heisir2014-m3u8-downloader-23d9af39.md) | partial | 2025-03-19T15:28:29Z | registry-derived |
-| [heygen-com/hyperframes](../records/video-heygen-com-hyperframes-39e19bfa.md) | partial | 2026-09-02T11:07:49Z | registry-derived |
+| [heygen-com/hyperframes](../records/video-heygen-com-hyperframes-39e19bfa.md) | partial | 2026-09-02T15:15:11Z | registry-derived |
 | [Hunlongyu/ZY-Player](../records/video-hunlongyu-zy-player-c74fadea.md) | partial | 2023-02-09T06:33:07Z | registry-derived |
 | [hybridgroup/gocv](../records/video-hybridgroup-gocv-daa4c904.md) | partial | 2026-05-28T08:16:03Z | registry-derived |
 | [iawia002/lux](../records/video-iawia002-lux-e7456e22.md) | partial | 2026-03-29T18:18:56Z | registry-derived |
-| [iina/iina](../records/video-iina-iina-8432935b.md) | partial | 2026-09-02T07:51:02Z | registry-derived |
+| [iina/iina](../records/video-iina-iina-8432935b.md) | partial | 2026-09-02T18:10:02Z | registry-derived |
 | [imputnet/cobalt](../records/video-imputnet-cobalt-e93bf65d.md) | partial | 2026-04-06T11:59:56Z | registry-derived |
 | [insidegui/WWDC](../records/video-insidegui-wwdc-29ce13c6.md) | partial | 2026-06-17T20:11:54Z | registry-derived |
 | [intel/libva](../records/video-intel-libva-f6047e5d.md) | partial | 2026-07-31T09:06:23Z | registry-derived |
@@ -116,7 +116,7 @@ Records: `183`
 | [letoram/arcan](../records/video-letoram-arcan-3898f949.md) | partial | 2026-07-29T00:15:26Z | registry-derived |
 | [linzzzzzz/openclip](../records/video-linzzzzzz-openclip-e0a60aa0.md) | partial | 2026-08-24T06:16:38Z | registry-derived |
 | [live-keys/livekeys](../records/video-live-keys-livekeys-78b56f29.md) | partial | 2023-11-13T16:00:01Z | registry-derived |
-| [livekit/livekit](../records/video-livekit-livekit-aee37f0f.md) | partial | 2026-09-02T11:35:33Z | registry-derived |
+| [livekit/livekit](../records/video-livekit-livekit-aee37f0f.md) | partial | 2026-09-02T16:06:02Z | registry-derived |
 | [LuckSiege/PictureSelector](../records/video-lucksiege-pictureselector-fce76f06.md) | partial | 2024-05-11T03:14:44Z | registry-derived |
 | [mafiosnik777/enhancr](../records/video-mafiosnik777-enhancr-3d2ed149.md) | partial | 2024-01-15T16:08:08Z | registry-derived |
 | [mahmoud/awesome-python-applications](../records/video-mahmoud-awesome-python-applications-e09dad04.md) | partial | 2026-07-11T16:46:22Z | registry-derived |
@@ -132,7 +132,7 @@ Records: `183`
 | [miru-project/miru-app](../records/video-miru-project-miru-app-f4628505.md) | partial | 2025-12-05T14:04:55Z | registry-derived |
 | [mltframework/mlt](../records/video-mltframework-mlt-5c98791c.md) | partial | 2026-09-01T21:32:20Z | registry-derived |
 | [mpc-hc/mpc-hc](../records/video-mpc-hc-mpc-hc-f58c3ebd.md) | partial | 2020-04-24T11:04:40Z | registry-derived |
-| [mpv-player/mpv](../records/video-mpv-player-mpv-9d355e25.md) | partial | 2026-09-01T19:06:56Z | registry-derived |
+| [mpv-player/mpv](../records/video-mpv-player-mpv-9d355e25.md) | partial | 2026-09-02T16:45:50Z | registry-derived |
 | [mpvnet-player/mpv.net](../records/video-mpvnet-player-mpv-net-f7891972.md) | partial | 2026-02-09T13:12:05Z | registry-derived |
 | [muxinc/next-video](../records/video-muxinc-next-video-fad94498.md) | partial | 2026-06-09T05:23:11Z | registry-derived |
 | [nadermx/backgroundremover](../records/video-nadermx-backgroundremover-3433b177.md) | partial | 2026-07-10T01:20:32Z | registry-derived |
@@ -148,10 +148,10 @@ Records: `183`
 | [ORB-HD/deface](../records/video-orb-hd-deface-821a4649.md) | partial | 2024-10-13T21:56:24Z | registry-derived |
 | [ossrs/srs](../records/video-ossrs-srs-c3ecdeaf.md) | partial | 2026-08-26T15:30:55Z | registry-derived |
 | [owncast/owncast](../records/video-owncast-owncast-b3a35889.md) | partial | 2026-09-02T12:13:10Z | registry-derived |
-| [pion/webrtc](../records/video-pion-webrtc-db831169.md) | partial | 2026-09-02T13:01:54Z | registry-derived |
+| [pion/webrtc](../records/video-pion-webrtc-db831169.md) | partial | 2026-09-02T15:47:11Z | registry-derived |
 | [prouast/heartbeat](../records/video-prouast-heartbeat-a2923779.md) | partial | 2026-03-02T04:39:18Z | registry-derived |
 | [qTox/qTox](../records/video-qtox-qtox-a43b9736.md) | partial | 2025-02-16T14:21:41Z | registry-derived |
-| [roboflow/supervision](../records/video-roboflow-supervision-d2860bef.md) | partial | 2026-09-02T12:08:07Z | registry-derived |
+| [roboflow/supervision](../records/video-roboflow-supervision-d2860bef.md) | partial | 2026-09-02T17:59:47Z | registry-derived |
 | [ruanjx/VideoLab](../records/video-ruanjx-videolab-b746cf80.md) | partial | 2022-10-31T11:48:35Z | registry-derived |
 | [s60sc/ESP32-CAM_MJPEG2SD](../records/video-s60sc-esp32-cam-mjpeg2sd-8d8f86e0.md) | partial | 2026-08-29T01:04:03Z | registry-derived |
 | [sachinchoolur/lightGallery](../records/video-sachinchoolur-lightgallery-231948f3.md) | partial | 2026-08-07T09:02:04Z | registry-derived |
@@ -168,14 +168,14 @@ Records: `183`
 | [tnfe/FFCreator](../records/video-tnfe-ffcreator-f994c068.md) | partial | 2024-12-19T07:43:53Z | registry-derived |
 | [toki-plus/video-mover](../records/video-toki-plus-video-mover-dc872fea.md) | partial | 2026-08-08T10:37:36Z | registry-derived |
 | [video-db/Director](../records/video-video-db-director-a5b28891.md) | partial | 2026-01-23T15:34:16Z | registry-derived |
-| [video-dev/hls.js](../records/video-video-dev-hls-js-963d08ad.md) | partial | 2026-09-02T11:54:22Z | registry-derived |
+| [video-dev/hls.js](../records/video-video-dev-hls-js-963d08ad.md) | partial | 2026-09-02T14:26:47Z | registry-derived |
 | [videojs/video.js](../records/video-videojs-video-js-0736e49a.md) | partial | 2026-08-03T10:03:33Z | registry-derived |
 | [vvo/gifify](../records/video-vvo-gifify-9d97ccc2.md) | partial | 2025-07-25T14:50:41Z | registry-derived |
 | [wassgha/rescript](../records/video-wassgha-rescript-b391e946.md) | partial | 2026-09-01T00:20:04Z | registry-derived |
 | [whitphx/streamlit-webrtc](../records/video-whitphx-streamlit-webrtc-b3307bc7.md) | partial | 2026-09-01T21:51:38Z | registry-derived |
 | [williamyang1991/FRESCO](../records/video-williamyang1991-fresco-b6f6c186.md) | partial | 2024-05-24T10:29:17Z | registry-derived |
 | [williamyang1991/Rerender_A_Video](../records/video-williamyang1991-rerender-a-video-348cf4ec.md) | partial | 2024-03-09T12:34:21Z | registry-derived |
-| [wiltodelta/remove-ai-watermarks](../records/video-wiltodelta-remove-ai-watermarks-ac76ecc7.md) | partial | 2026-09-02T08:48:50Z | registry-derived |
+| [wiltodelta/remove-ai-watermarks](../records/video-wiltodelta-remove-ai-watermarks-ac76ecc7.md) | partial | 2026-09-02T17:09:49Z | registry-derived |
 | [wxbool/video-srt-windows](../records/video-wxbool-video-srt-windows-660989b7.md) | partial | 2023-03-10T05:03:22Z | registry-derived |
 | [WyattBlue/auto-editor](../records/video-wyattblue-auto-editor-c71dc819.md) | partial | 2026-08-25T22:23:53Z | registry-derived |
 | [x007xyz/flycut](../records/video-x007xyz-flycut-195646ac.md) | partial | 2024-10-10T08:23:42Z | registry-derived |
@@ -206,14 +206,14 @@ Records: `183`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [jitsi/jitsi](../records/video-jitsi-jitsi-d268b078.md) | partial | 2026-06-02T16:42:03Z | registry-derived |
-| [jitsi/jitsi-meet](../records/video-jitsi-jitsi-meet-a39e115b.md) | partial | 2026-09-02T12:53:02Z | registry-derived |
+| [jitsi/jitsi-meet](../records/video-jitsi-jitsi-meet-a39e115b.md) | partial | 2026-09-02T18:17:45Z | registry-derived |
 
 ### Language Specification
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [IliasHad/edit-mind](../records/video-iliashad-edit-mind-9f5bd280.md) | partial | 2026-06-30T10:28:37Z | registry-derived |
-| [tomaszzmuda/Xabe.FFmpeg](../records/video-tomaszzmuda-xabe-ffmpeg-140813bd.md) | partial | 2026-09-01T14:46:49Z | registry-derived |
+| [tomaszzmuda/Xabe.FFmpeg](../records/video-tomaszzmuda-xabe-ffmpeg-140813bd.md) | partial | 2026-09-02T17:07:02Z | registry-derived |
 | [umlx5h/LLPlayer](../records/video-umlx5h-llplayer-e3659d7e.md) | partial | 2026-07-19T12:20:10Z | registry-derived |
 
 ### Networking Http
@@ -226,7 +226,7 @@ Records: `183`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [google-ai-edge/mediapipe](../records/video-google-ai-edge-mediapipe-a0c51472.md) | partial | 2026-09-02T09:33:33Z | registry-derived |
+| [google-ai-edge/mediapipe](../records/video-google-ai-edge-mediapipe-a0c51472.md) | partial | 2026-09-02T13:33:42Z | registry-derived |
 | [memvid/memvid](../records/video-memvid-memvid-bb0d9def.md) | partial | 2026-07-14T14:39:07Z | registry-derived |
 | [snapotter-hq/SnapOtter](../records/video-snapotter-hq-snapotter-7f75c7aa.md) | partial | 2026-08-31T16:44:04Z | registry-derived |
 | [TeamNewPipe/NewPipe](../records/video-teamnewpipe-newpipe-c1ab8a41.md) | partial | 2026-08-31T12:57:33Z | registry-derived |

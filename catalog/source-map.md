@@ -13,9 +13,9 @@
 [Embedded Hardware (50)](by-category/embedded-hardware.md) · [Ffi Bindings (393)](by-category/ffi-bindings.md) · [Filesystem Os (1231)](by-category/filesystem-os.md) · [Formatter (557)](by-category/formatter.md)
 [Framework (51)](by-category/framework.md) · [Fuzzer (48)](by-category/fuzzer.md) · [Game Engine Game Dev (159)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1166)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (310)](by-category/image-audio-dsp.md) · [Interop Bindings (56)](by-category/interop-bindings.md) · [Interpreter Runtime (236)](by-category/interpreter-runtime.md) · [Jit Vm (56)](by-category/jit-vm.md)
-[Language Server (27)](by-category/language-server.md) · [Language Specification (1245)](by-category/language-specification.md) · [Library (4901)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (27)](by-category/language-server.md) · [Language Specification (1245)](by-category/language-specification.md) · [Library (4903)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (41)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (397)](by-category/logging-observability.md) · [Machine Learning (596)](by-category/machine-learning.md)
-[Math Numeric Scientific (79)](by-category/math-numeric-scientific.md) · [Memory Analyzer (86)](by-category/memory-analyzer.md) · [Message Broker (34)](by-category/message-broker.md) · [Networking Http (926)](by-category/networking-http.md)
+[Math Numeric Scientific (79)](by-category/math-numeric-scientific.md) · [Memory Analyzer (86)](by-category/memory-analyzer.md) · [Message Broker (34)](by-category/message-broker.md) · [Networking Http (927)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (278)](by-category/package-manager.md) · [Parser Lexer Ast (930)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (265)](by-category/precommit-ci-quality.md)
 [Profiler (74)](by-category/profiler.md) · [Project Scaffolding (120)](by-category/project-scaffolding.md) · [Registry Repository (107)](by-category/registry-repository.md) · [Sanitizer (12)](by-category/sanitizer.md)
 [Security Sast (316)](by-category/security-sast.md) · [Serialization (371)](by-category/serialization.md) · [Standard Library (24)](by-category/standard-library.md) · [Static Analyzer (455)](by-category/static-analyzer.md)
@@ -852,6 +852,7 @@
 | `cran_packages_by_date-0744683ef5169c` | openxlsx2 | [open](records/r-openxlsx2-a62c52cb.md) |
 | `cran_packages_by_date-076e32df3ded19` | obr | [open](records/r-obr-f807cecb.md) |
 | `cran_packages_by_date-078d615dc6e61c` | ipwCoxCSV | [open](records/r-ipwcoxcsv-b16370f8.md) |
+| `cran_packages_by_date-079fbfc09552bb` | scTenifoldKnk | [open](records/r-sctenifoldknk-b575fffe.md) |
 | `cran_packages_by_date-07a30626f97a52` | BsplineQuantRegGui | [open](records/r-bsplinequantreggui-a0017840.md) |
 | `cran_packages_by_date-07cc04b7791881` | TKApprox | [open](records/r-tkapprox-a5646e86.md) |
 | `cran_packages_by_date-07d12d4d957b3e` | metaselection | [open](records/r-metaselection-253eae2d.md) |
@@ -1209,6 +1210,7 @@
 | `cran_packages_by_date-433aa4d40d0c81` | NeuroDataSets | [open](records/r-neurodatasets-37640e04.md) |
 | `cran_packages_by_date-43eef2aac12def` | cffr | [open](records/r-cffr-761a4643.md) |
 | `cran_packages_by_date-4455b860449ba5` | flexmix | [open](records/r-flexmix-3ed505d7.md) |
+| `cran_packages_by_date-4455e17a50a06f` | RcppClassicExamples | [open](records/r-rcppclassicexamples-6ab58c03.md) |
 | `cran_packages_by_date-447948f7c4bb36` | Ropj | [open](records/r-ropj-cedce78b.md) |
 | `cran_packages_by_date-448ac52672e352` | BCodifSIS | [open](records/r-bcodifsis-88334453.md) |
 | `cran_packages_by_date-44c594892758aa` | ggchangepoint | [open](records/r-ggchangepoint-b265a91b.md) |
@@ -1412,6 +1414,7 @@
 | `cran_packages_by_date-65edadf278e82c` | CurricularComplexity | [open](records/r-curricularcomplexity-beb1e682.md) |
 | `cran_packages_by_date-65f51aa7c1d3b0` | scoringfunctions | [open](records/r-scoringfunctions-b700979d.md) |
 | `cran_packages_by_date-667ac313bad182` | QuickJSR | [open](records/r-quickjsr-03e86b31.md) |
+| `cran_packages_by_date-6680d8a75c36b1` | sphereclust | [open](records/r-sphereclust-e2d8f607.md) |
 | `cran_packages_by_date-66d596f49b7261` | GLSME | [open](records/r-glsme-1efd9625.md) |
 | `cran_packages_by_date-670d5d0ae9839c` | mixedBayes | [open](records/r-mixedbayes-0f969f6f.md) |
 | `cran_packages_by_date-6731500f51254a` | ggforestplotR | [open](records/r-ggforestplotr-6cb2e8d1.md) |

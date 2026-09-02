@@ -17,9 +17,9 @@ Records: `608`
 [Embedded Hardware (50)](../by-category/embedded-hardware.md) · [Ffi Bindings (393)](../by-category/ffi-bindings.md) · [Filesystem Os (1231)](../by-category/filesystem-os.md) · [Formatter (557)](../by-category/formatter.md)
 [Framework (51)](../by-category/framework.md) · [Fuzzer (48)](../by-category/fuzzer.md) · [Game Engine Game Dev (159)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1166)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (310)](../by-category/image-audio-dsp.md) · [Interop Bindings (56)](../by-category/interop-bindings.md) · [Interpreter Runtime (236)](../by-category/interpreter-runtime.md) · [Jit Vm (56)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1245)](../by-category/language-specification.md) · [Library (4901)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1245)](../by-category/language-specification.md) · [Library (4903)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (41)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (397)](../by-category/logging-observability.md) · [Machine Learning (596)](../by-category/machine-learning.md)
-[Math Numeric Scientific (79)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (86)](../by-category/memory-analyzer.md) · [Message Broker (34)](../by-category/message-broker.md) · [Networking Http (926)](../by-category/networking-http.md)
+[Math Numeric Scientific (79)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (86)](../by-category/memory-analyzer.md) · [Message Broker (34)](../by-category/message-broker.md) · [Networking Http (927)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (278)](../by-category/package-manager.md) · [Parser Lexer Ast (930)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (265)](../by-category/precommit-ci-quality.md)
 [Profiler (74)](../by-category/profiler.md) · [Project Scaffolding (120)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (12)](../by-category/sanitizer.md)
 [Security Sast (316)](../by-category/security-sast.md) · [Serialization (371)](../by-category/serialization.md) · [Standard Library (24)](../by-category/standard-library.md) · [Static Analyzer (455)](../by-category/static-analyzer.md)
@@ -127,7 +127,7 @@ Records: `608`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [AntonPalmqvist/physically-based-api](../records/effects-antonpalmqvist-physically-based-api-fde296f6.md) | partial | 2026-09-02T04:51:07Z | registry-derived |
+| [AntonPalmqvist/physically-based-api](../records/effects-antonpalmqvist-physically-based-api-fde296f6.md) | partial | 2026-09-02T15:48:52Z | registry-derived |
 
 ### Datetime
 
@@ -303,7 +303,7 @@ Records: `608`
 | [protyposis/Spectaculum](../records/effects-protyposis-spectaculum-fcac9d0d.md) | partial | 2024-02-21T09:28:30Z | registry-derived |
 | [QianMo/X-PostProcessing-Library](../records/effects-qianmo-x-postprocessing-library-3834f7d5.md) | partial | 2023-07-14T17:42:11Z | registry-derived |
 | [radoslawregula/reverb-algorithms](../records/effects-radoslawregula-reverb-algorithms-0f4a1d2f.md) | partial | 2020-02-09T11:12:27Z | registry-derived |
-| [ralgar/vkShade](../records/effects-ralgar-vkshade-027f2833.md) | partial | 2026-08-31T22:46:58Z | registry-derived |
+| [ralgar/vkShade](../records/effects-ralgar-vkshade-027f2833.md) | partial | 2026-09-02T18:22:12Z | registry-derived |
 | [rcalixte/awesome-wayland](../records/effects-rcalixte-awesome-wayland-4cc39bd2.md) | partial | 2026-08-30T19:00:18Z | registry-derived |
 | [robclouth/noise-canvas](../records/effects-robclouth-noise-canvas-171ca6d8.md) | partial | 2026-08-25T09:29:49Z | registry-derived |
 | [rockbite/talos](../records/effects-rockbite-talos-07105463.md) | partial | 2026-08-18T11:17:42Z | registry-derived |
@@ -343,7 +343,7 @@ Records: `608`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [AcademySoftwareFoundation/OpenImageIO](../records/effects-academysoftwarefoundation-openimageio-0013edc0.md) | partial | 2026-09-02T08:33:28Z | registry-derived |
+| [AcademySoftwareFoundation/OpenImageIO](../records/effects-academysoftwarefoundation-openimageio-0013edc0.md) | partial | 2026-09-02T15:40:44Z | registry-derived |
 | [AcademySoftwareFoundation/OpenTimelineIO](../records/effects-academysoftwarefoundation-opentimelineio-3fcbc8e9.md) | partial | 2026-08-07T21:08:35Z | registry-derived |
 | [blackout1471/AmpStudio](../records/effects-blackout1471-ampstudio-a1b4a947.md) | partial | 2023-12-22T18:49:11Z | registry-derived |
 | [Frikallo/SonicSynth](../records/effects-frikallo-sonicsynth-5f25bf87.md) | partial | 2023-05-19T05:38:57Z | registry-derived |
@@ -385,7 +385,7 @@ Records: `608`
 | [Razakhel/RaZ](../records/effects-razakhel-raz-e81fb756.md) | partial | 2026-08-09T20:35:24Z | registry-derived |
 | [SUSTech-CANStudio/bullet-storm-unity](../records/effects-sustech-canstudio-bullet-storm-unity-6f9bf2e8.md) | partial | 2021-04-21T18:51:00Z | registry-derived |
 | [wass08/wawa-vfx](../records/effects-wass08-wawa-vfx-5db2d4d3.md) | partial | 2025-09-23T03:54:16Z | registry-derived |
-| [zenustech/zeno](../records/effects-zenustech-zeno-c40a1537.md) | partial | 2026-08-31T08:10:38Z | registry-derived |
+| [zenustech/zeno](../records/effects-zenustech-zeno-c40a1537.md) | partial | 2026-09-02T12:27:47Z | registry-derived |
 
 ### Ide Editor Integration
 
@@ -422,7 +422,7 @@ Records: `608`
 | [RdenBlaauwen/RCAS-for-ReShade](../records/effects-rdenblaauwen-rcas-for-reshade-d195ca4b.md) | unknown | github_latest_release_missing | registry-derived |
 | [Samsy/Post-Processing-Hack-Editor](../records/effects-samsy-post-processing-hack-editor-ff1c3a5c.md) | unknown | github_latest_release_missing | registry-derived |
 | [shamadee/web-dsp](../records/effects-shamadee-web-dsp-a3bd15e7.md) | partial | 2017-06-05T05:36:36Z | registry-derived |
-| [sideeffects/SideFXLabs](../records/effects-sideeffects-sidefxlabs-13175f93.md) | partial | 2026-09-02T04:01:19Z | registry-derived |
+| [sideeffects/SideFXLabs](../records/effects-sideeffects-sidefxlabs-13175f93.md) | partial | 2026-09-02T16:33:37Z | registry-derived |
 | [Souloist/audio-effects](../records/effects-souloist-audio-effects-d98c525b.md) | partial | 2016-04-13T03:06:04Z | registry-derived |
 | [supriya-project/supriya](../records/effects-supriya-project-supriya-d075f962.md) | partial | 2026-09-02T01:26:58Z | registry-derived |
 | [taco-group/SparkVSR](../records/effects-taco-group-sparkvsr-646d164d.md) | partial | 2026-08-03T04:15:33Z | registry-derived |
@@ -668,7 +668,7 @@ Records: `608`
 | [appliedapp/rusty_lights](../records/effects-appliedapp-rusty-lights-c67cc805.md) | partial | 2026-05-04T20:20:12Z | registry-derived |
 | [Audio4Linux/JDSP4Linux](../records/effects-audio4linux-jdsp4linux-e90e4af9.md) | partial | 2026-08-29T16:29:46Z | registry-derived |
 | [beinteractive/LWRPAmbientOcclusion](../records/effects-beinteractive-lwrpambientocclusion-7b85e0e3.md) | partial | 2019-10-04T22:49:34Z | registry-derived |
-| [CialloKing/ba-click-fx](../records/effects-cialloking-ba-click-fx-b842180a.md) | partial | 2026-08-18T05:57:36Z | registry-derived |
+| [CialloKing/ba-click-fx](../records/effects-cialloking-ba-click-fx-b842180a.md) | partial | 2026-09-02T18:07:45Z | registry-derived |
 | [CyberAgentGameEntertainment/NovaShader](../records/effects-cyberagentgameentertainment-novashader-cfdfe2cf.md) | partial | 2026-09-02T09:17:59Z | registry-derived |
 | [demonixis/SSGI-URP](../records/effects-demonixis-ssgi-urp-4db7e7d8.md) | partial | 2020-03-11T06:40:26Z | registry-derived |
 | [GarrettGunnell/Post-Processing](../records/effects-garrettgunnell-post-processing-2bb2ca4a.md) | unknown | github_latest_release_missing | registry-derived |
@@ -788,7 +788,7 @@ Records: `608`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [alexirae/unreal-audio-dsp-collection-UE5](../records/effects-alexirae-unreal-audio-dsp-collection-ue5-a5ff9e29.md) | partial | 2026-06-27T21:05:39Z | registry-derived |
-| [aws-deadline/deadline-cloud](../records/effects-aws-deadline-deadline-cloud-9cbaa801.md) | partial | 2026-09-01T15:57:41Z | registry-derived |
+| [aws-deadline/deadline-cloud](../records/effects-aws-deadline-deadline-cloud-9cbaa801.md) | partial | 2026-09-02T17:42:58Z | registry-derived |
 | [benjojo/dubstep-data](../records/effects-benjojo-dubstep-data-f40ca662.md) | partial | 2018-05-21T18:07:11Z | registry-derived |
 | [BillyDM/awesome-audio-dsp](../records/effects-billydm-awesome-audio-dsp-a5cff982.md) | partial | 2026-08-20T03:10:10Z | registry-derived |
 | [braedonsaunders/openstudio](../records/effects-braedonsaunders-openstudio-43bdd073.md) | partial | 2026-05-13T23:00:35Z | registry-derived |
@@ -797,7 +797,7 @@ Records: `608`
 | [cmajor-lang/cmajor](../records/effects-cmajor-lang-cmajor-4dc0a78b.md) | partial | 2026-07-29T13:08:46Z | registry-derived |
 | [CompleteUnityDeveloper/Laser-Defender-Original](../records/effects-completeunitydeveloper-laser-defender-original-c8db6005.md) | partial | 2018-08-14T11:29:55Z | registry-derived |
 | [CustomPhase/CP_SSSSS](../records/effects-customphase-cp-sssss-c1aa7a17.md) | partial | 2019-05-26T11:39:20Z | registry-derived |
-| [devanshutak25/3d-resources](../records/effects-devanshutak25-3d-resources-06f6f596.md) | partial | 2026-09-01T13:21:01Z | registry-derived |
+| [devanshutak25/3d-resources](../records/effects-devanshutak25-3d-resources-06f6f596.md) | partial | 2026-09-02T17:39:01Z | registry-derived |
 | [Fubaxiusz/fubax-shaders](../records/effects-fubaxiusz-fubax-shaders-14b8761d.md) | unknown | github_latest_release_missing | registry-derived |
 | [Fubaxiusz/fubax-shaders-dev](../records/effects-fubaxiusz-fubax-shaders-dev-ae2a8b6d.md) | unknown | github_latest_release_missing | registry-derived |
 | [halilkaandogan/kaaninhos-mp3](../records/effects-halilkaandogan-kaaninhos-mp3-cb8cac1b.md) | partial | 2026-08-20T19:09:07Z | registry-derived |

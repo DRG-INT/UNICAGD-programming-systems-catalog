@@ -17,9 +17,9 @@ Records: `159`
 [Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (557)](formatter.md)
 [Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · **[Game Engine Game Dev (159)](game-engine-game-dev.md)** · [Ide Editor Integration (1166)](ide-editor-integration.md)
 [Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4901)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4903)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (596)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (926)](networking-http.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (927)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (930)](parser-lexer-ast.md) · [Precommit Ci Quality (265)](precommit-ci-quality.md)
 [Profiler (74)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (316)](security-sast.md) · [Serialization (371)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (455)](static-analyzer.md)
@@ -222,7 +222,7 @@ Records: `159`
 | Razakhel/RaZ | partial | 2026-08-09T20:35:24Z | [open](../records/effects-razakhel-raz-e81fb756.md) |
 | SUSTech-CANStudio/bullet-storm-unity | partial | 2021-04-21T18:51:00Z | [open](../records/effects-sustech-canstudio-bullet-storm-unity-6f9bf2e8.md) |
 | wass08/wawa-vfx | partial | 2025-09-23T03:54:16Z | [open](../records/effects-wass08-wawa-vfx-5db2d4d3.md) |
-| zenustech/zeno | partial | 2026-08-31T08:10:38Z | [open](../records/effects-zenustech-zeno-c40a1537.md) |
+| zenustech/zeno | partial | 2026-09-02T12:27:47Z | [open](../records/effects-zenustech-zeno-c40a1537.md) |
 
 ## Audio
 

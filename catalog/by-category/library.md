@@ -1,6 +1,6 @@
 # Library
 
-Records: `4901`
+Records: `4903`
 
 ## Navigation
 
@@ -17,9 +17,9 @@ Records: `4901`
 [Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (557)](formatter.md)
 [Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1166)](ide-editor-integration.md)
 [Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · **[Library (4901)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · **[Library (4903)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (596)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (926)](networking-http.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (927)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (930)](parser-lexer-ast.md) · [Precommit Ci Quality (265)](precommit-ci-quality.md)
 [Profiler (74)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (316)](security-sast.md) · [Serialization (371)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (455)](static-analyzer.md)
@@ -2813,6 +2813,7 @@ Records: `4901`
 | rcompanion | 2.5.4 | 2026-08-20 05:20:43 UTC | [open](../records/r-rcompanion-9895bbbc.md) |
 | rcontroll | 0.1.3 | 2026-08-04 08:40:08 UTC | [open](../records/r-rcontroll-3db49076.md) |
 | RCppAD | 1.20260000.0 | 2026-08-07 16:10:22 UTC | [open](../records/r-rcppad-87e98746.md) |
+| RcppClassicExamples | 0.1.5 | 2026-09-02 17:20:07 UTC | [open](../records/r-rcppclassicexamples-6ab58c03.md) |
 | rdborrow | 0.0.4.0 | 2026-08-31 14:00:10 UTC | [open](../records/r-rdborrow-95d341d6.md) |
 | Rdrw | 1.0.4 | 2026-08-20 10:32:10 UTC | [open](../records/r-rdrw-1a52ca94.md) |
 | readODS | 2.3.6 | 2026-09-02 05:20:13 UTC | [open](../records/r-readods-0f703511.md) |
@@ -2877,6 +2878,7 @@ Records: `4901`
 | sov | 2.0.0 | 2026-08-21 05:40:36 UTC | [open](../records/r-sov-a35583b7.md) |
 | spatialrisk | 0.8.2 | 2026-09-01 12:40:02 UTC | [open](../records/r-spatialrisk-4fdef109.md) |
 | spCF | 0.2.1 | 2026-08-28 17:40:02 UTC | [open](../records/r-spcf-0ee968e4.md) |
+| sphereclust | 1.1 | 2026-09-02 18:10:03 UTC | [open](../records/r-sphereclust-e2d8f607.md) |
 | sportsR | 0.1.0 | 2026-08-26 20:20:02 UTC | [open](../records/r-sportsr-078e5fcc.md) |
 | sps | 0.7.0 | 2026-08-31 16:10:02 UTC | [open](../records/r-sps-a05fe89c.md) |
 | sreg | 2.1.0 | 2026-08-22 11:20:02 UTC | [open](../records/r-sreg-141364e5.md) |
@@ -4059,7 +4061,7 @@ Records: `4901`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-02T17:16:52Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-02T17:57:47Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4073,7 +4075,7 @@ Records: `4901`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-02T17:01:52Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-02T17:47:50Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -4734,7 +4736,7 @@ Records: `4901`
 | Stephane-D/SGDK | partial | 2026-08-17T08:47:30Z | [open](../records/assembly-stephane-d-sgdk-bad539e3.md) |
 | takenobu-hs/cpu-assembly-examples | partial | 2024-05-19T06:55:01Z | [open](../records/assembly-takenobu-hs-cpu-assembly-examples-b5867112.md) |
 | vonsim/vonsim | partial | 2026-05-29T02:08:00Z | [open](../records/assembly-vonsim-vonsim-6a8ef78f.md) |
-| vvaltchev/tilck | partial | 2026-09-02T05:59:30Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
+| vvaltchev/tilck | partial | 2026-09-02T18:03:19Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
 | yds12/x64-roadmap | partial | 2020-07-16T15:54:20Z | [open](../records/assembly-yds12-x64-roadmap-3b9663e2.md) |
 | yrp604/rappel | partial | 2024-03-07T04:45:15Z | [open](../records/assembly-yrp604-rappel-4bf787bb.md) |
 

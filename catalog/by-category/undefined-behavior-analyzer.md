@@ -17,9 +17,9 @@ Records: `1407`
 [Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (557)](formatter.md)
 [Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1166)](ide-editor-integration.md)
 [Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4901)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4903)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (596)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (926)](networking-http.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (927)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (930)](parser-lexer-ast.md) · [Precommit Ci Quality (265)](precommit-ci-quality.md)
 [Profiler (74)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (316)](security-sast.md) · [Serialization (371)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (455)](static-analyzer.md)
@@ -1241,7 +1241,7 @@ Records: `1407`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | alexirae/unreal-audio-dsp-collection-UE5 | partial | 2026-06-27T21:05:39Z | [open](../records/effects-alexirae-unreal-audio-dsp-collection-ue5-a5ff9e29.md) |
-| aws-deadline/deadline-cloud | partial | 2026-09-01T15:57:41Z | [open](../records/effects-aws-deadline-deadline-cloud-9cbaa801.md) |
+| aws-deadline/deadline-cloud | partial | 2026-09-02T17:42:58Z | [open](../records/effects-aws-deadline-deadline-cloud-9cbaa801.md) |
 | benjojo/dubstep-data | partial | 2018-05-21T18:07:11Z | [open](../records/effects-benjojo-dubstep-data-f40ca662.md) |
 | BillyDM/awesome-audio-dsp | partial | 2026-08-20T03:10:10Z | [open](../records/effects-billydm-awesome-audio-dsp-a5cff982.md) |
 | braedonsaunders/openstudio | partial | 2026-05-13T23:00:35Z | [open](../records/effects-braedonsaunders-openstudio-43bdd073.md) |
@@ -1250,7 +1250,7 @@ Records: `1407`
 | cmajor-lang/cmajor | partial | 2026-07-29T13:08:46Z | [open](../records/effects-cmajor-lang-cmajor-4dc0a78b.md) |
 | CompleteUnityDeveloper/Laser-Defender-Original | partial | 2018-08-14T11:29:55Z | [open](../records/effects-completeunitydeveloper-laser-defender-original-c8db6005.md) |
 | CustomPhase/CP_SSSSS | partial | 2019-05-26T11:39:20Z | [open](../records/effects-customphase-cp-sssss-c1aa7a17.md) |
-| devanshutak25/3d-resources | partial | 2026-09-01T13:21:01Z | [open](../records/effects-devanshutak25-3d-resources-06f6f596.md) |
+| devanshutak25/3d-resources | partial | 2026-09-02T17:39:01Z | [open](../records/effects-devanshutak25-3d-resources-06f6f596.md) |
 | Fubaxiusz/fubax-shaders | unknown | github_latest_release_missing | [open](../records/effects-fubaxiusz-fubax-shaders-14b8761d.md) |
 | Fubaxiusz/fubax-shaders-dev | unknown | github_latest_release_missing | [open](../records/effects-fubaxiusz-fubax-shaders-dev-ae2a8b6d.md) |
 | halilkaandogan/kaaninhos-mp3 | partial | 2026-08-20T19:09:07Z | [open](../records/effects-halilkaandogan-kaaninhos-mp3-cb8cac1b.md) |
@@ -1310,7 +1310,7 @@ Records: `1407`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Afilmory/afilmory | partial | 2026-09-02T06:06:17Z | [open](../records/photography-afilmory-afilmory-bc0398b6.md) |
+| Afilmory/afilmory | partial | 2026-09-02T16:37:03Z | [open](../records/photography-afilmory-afilmory-bc0398b6.md) |
 | baidut/BIMEF | partial | 2019-03-16T15:23:45Z | [open](../records/photography-baidut-bimef-5aec88db.md) |
 | CanHub/Android-Image-Cropper | partial | 2026-04-28T07:09:28Z | [open](../records/photography-canhub-android-image-cropper-809e8be6.md) |
 | dougdonohoe/ddphotos | partial | 2026-09-02T01:37:34Z | [open](../records/photography-dougdonohoe-ddphotos-39c5aac3.md) |
@@ -1322,7 +1322,7 @@ Records: `1407`
 | mangeshghodke/DreamPlayer | partial | 2026-09-02T06:23:58Z | [open](../records/photography-mangeshghodke-dreamplayer-c6fbb5e1.md) |
 | moul-co/moul | partial | 2024-01-09T09:14:39Z | [open](../records/photography-moul-co-moul-2cca2d07.md) |
 | mv-lab/nilut | partial | 2024-01-29T10:38:23Z | [open](../records/photography-mv-lab-nilut-866ec3fa.md) |
-| ncoevoet/facet | partial | 2026-09-02T13:01:01Z | [open](../records/photography-ncoevoet-facet-9042db71.md) |
+| ncoevoet/facet | partial | 2026-09-02T16:38:40Z | [open](../records/photography-ncoevoet-facet-9042db71.md) |
 | outdoorbits/little-backup-box | partial | 2026-09-01T18:51:22Z | [open](../records/photography-outdoorbits-little-backup-box-04af0fc7.md) |
 | peerpx/peerpx | unknown | github_search_does_not_include_release_date | [open](../records/photography-peerpx-peerpx-8179ea23.md) |
 | photostructure/photostructure-for-servers | unknown | github_search_does_not_include_release_date | [open](../records/photography-photostructure-photostructure-for-servers-8374efcc.md) |
@@ -1343,7 +1343,7 @@ Records: `1407`
 | chanzuckerberg/napari-hub | partial | 2026-03-06T00:55:27Z | [open](../records/microscopy-chanzuckerberg-napari-hub-082ae11f.md) |
 | czbiohub-sf/iohub | partial | 2026-09-01T17:23:33Z | [open](../records/microscopy-czbiohub-sf-iohub-5a760ae0.md) |
 | imagingbook/imagingbook-public | partial | 2026-03-12T18:03:59Z | [open](../records/microscopy-imagingbook-imagingbook-public-35b63f87.md) |
-| JaneliaSciComp/fileglancer | partial | 2026-09-02T16:14:32Z | [open](../records/microscopy-janeliascicomp-fileglancer-a4aeb3db.md) |
+| JaneliaSciComp/fileglancer | partial | 2026-09-02T18:25:04Z | [open](../records/microscopy-janeliascicomp-fileglancer-a4aeb3db.md) |
 | mbalatsko/opencv-rolling-ball | partial | 2022-06-21T21:15:02Z | [open](../records/microscopy-mbalatsko-opencv-rolling-ball-64eeb75a.md) |
 | Mmasoud1/HistoJS | partial | 2024-02-29T14:38:53Z | [open](../records/microscopy-mmasoud1-histojs-cfc6aaff.md) |
 | MWod/DeepHistReg | partial | 2025-04-04T15:16:42Z | [open](../records/microscopy-mwod-deephistreg-fe9489ee.md) |

@@ -17,9 +17,9 @@ Records: `418`
 [Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (557)](formatter.md)
 [Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1166)](ide-editor-integration.md)
 [Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4901)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4903)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (596)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (926)](networking-http.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (927)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (930)](parser-lexer-ast.md) · [Precommit Ci Quality (265)](precommit-ci-quality.md)
 [Profiler (74)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (316)](security-sast.md) · [Serialization (371)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (455)](static-analyzer.md)
@@ -472,9 +472,9 @@ Records: `418`
 | bbc/peaks.js | partial | 2025-11-08T03:09:27Z | [open](../records/audio-bbc-peaks-js-ecba90fa.md) |
 | DhrBaksteen/ArduinoOPL2 | v2.1.4 | 2025-01-19T12:23:27Z | [open](../records/audio-dhrbaksteen-arduinoopl2-f259ef2c.md) |
 | dwhinham/mt32-pi | v0.13.1 | 2023-03-18T20:32:51Z | [open](../records/audio-dwhinham-mt32-pi-7a87163b.md) |
-| pschatzmann/arduino-audio-tools | partial | 2026-09-02T11:58:33Z | [open](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) |
+| pschatzmann/arduino-audio-tools | partial | 2026-09-02T15:31:31Z | [open](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) |
 | rsadsb/adsb_deku | partial | 2026-01-04T16:18:33Z | [open](../records/audio-rsadsb-adsb-deku-8c9a3700.md) |
-| unchihugo/FluentFlyout | partial | 2026-09-01T14:44:29Z | [open](../records/audio-unchihugo-fluentflyout-e2e81b2d.md) |
+| unchihugo/FluentFlyout | partial | 2026-09-02T13:40:35Z | [open](../records/audio-unchihugo-fluentflyout-e2e81b2d.md) |
 | zynthian/zynthian-ui | unknown | github_latest_release_missing | [open](../records/audio-zynthian-zynthian-ui-308e1a33.md) |
 
 ## Video
