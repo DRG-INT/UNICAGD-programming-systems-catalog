@@ -8,23 +8,23 @@ Records: `415`
 
 ## Category Index
 
-[Api Abi Checker (188)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (124)](async-runtime.md)
-[Benchmarking (115)](benchmarking.md) · [Build System (821)](build-system.md) · [Cli (501)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (85)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+[Api Abi Checker (190)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (125)](async-runtime.md)
+[Benchmarking (119)](benchmarking.md) · [Build System (825)](build-system.md) · [Cli (503)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (88)](community-reference.md) · [Compiler (171)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
 [Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (100)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (155)](cryptography.md) · [Data Science (33)](data-science.md) · [Database Datastore (753)](database-datastore.md) · [Datetime (158)](datetime.md)
+[Cryptography (156)](cryptography.md) · [Data Science (33)](data-science.md) · [Database Datastore (754)](database-datastore.md) · [Datetime (160)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (88)](documentation.md)
-[Embedded Hardware (49)](embedded-hardware.md) · [Ffi Bindings (388)](ffi-bindings.md) · [Filesystem Os (1200)](filesystem-os.md) · [Formatter (547)](formatter.md)
-[Framework (48)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (157)](game-engine-game-dev.md) · [Ide Editor Integration (1139)](ide-editor-integration.md)
-[Image Audio Dsp (300)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (231)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1233)](language-specification.md) · [Library (4843)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (391)](logging-observability.md) · [Machine Learning (584)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (85)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (920)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (271)](package-manager.md) · [Parser Lexer Ast (918)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
-[Profiler (72)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (313)](security-sast.md) · [Serialization (369)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (442)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (497)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (290)](type-checker.md)
-[Undefined Behavior Analyzer (1386)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · **[Visualization Gui (415)](visualization-gui.md)** · [Web Framework (401)](web-framework.md)
+[Embedded Hardware (49)](embedded-hardware.md) · [Ffi Bindings (388)](ffi-bindings.md) · [Filesystem Os (1213)](filesystem-os.md) · [Formatter (548)](formatter.md)
+[Framework (49)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1145)](ide-editor-integration.md)
+[Image Audio Dsp (301)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (234)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1237)](language-specification.md) · [Library (4859)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (394)](logging-observability.md) · [Machine Learning (594)](machine-learning.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (32)](message-broker.md) · [Networking Http (923)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (271)](package-manager.md) · [Parser Lexer Ast (926)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
+[Profiler (72)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (313)](security-sast.md) · [Serialization (370)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (445)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (498)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (292)](type-checker.md)
+[Undefined Behavior Analyzer (1400)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · **[Visualization Gui (415)](visualization-gui.md)** · [Web Framework (411)](web-framework.md)
 
 ## C++23
 
@@ -371,7 +371,7 @@ Records: `415`
 | martinhodler/unity-aseprite-importer | partial | 2024-03-03T05:09:03Z | [open](../records/assets-martinhodler-unity-aseprite-importer-30b49df4.md) |
 | mopsicus/uis | partial | 2026-06-04T08:08:04Z | [open](../records/assets-mopsicus-uis-65c71459.md) |
 | quiple/galmuri | partial | 2026-08-22T05:48:41Z | [open](../records/assets-quiple-galmuri-cb71a160.md) |
-| Shelf-nu/shelf.nu | partial | 2026-09-01T17:23:41Z | [open](../records/assets-shelf-nu-shelf-nu-2414163a.md) |
+| Shelf-nu/shelf.nu | partial | 2026-09-02T13:10:46Z | [open](../records/assets-shelf-nu-shelf-nu-2414163a.md) |
 | skfolio/skfolio | partial | 2026-08-31T14:45:55Z | [open](../records/assets-skfolio-skfolio-6087932e.md) |
 | TexturePacker | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/assets-texturepacker-1148bb30.md) |
 
@@ -574,9 +574,9 @@ Records: `415`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ant-design-blazor/ant-design-blazor | 1.6.2 | 2026-06-16T22:44:34Z | [open](../records/webassembly-ant-design-blazor-ant-design-blazor-d8f0273e.md) |
-| dotnetcore/BootstrapBlazor | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-dotnetcore-bootstrapblazor-5915f6c3.md) |
-| vugu/vugu | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-vugu-vugu-38501d3e.md) |
+| ant-design-blazor/ant-design-blazor | partial | 2026-09-01T14:26:03Z | [open](../records/webassembly-ant-design-blazor-ant-design-blazor-d8f0273e.md) |
+| dotnetcore/BootstrapBlazor | partial | 2026-09-02T12:17:28Z | [open](../records/webassembly-dotnetcore-bootstrapblazor-5915f6c3.md) |
+| vugu/vugu | partial | 2026-09-01T16:39:00Z | [open](../records/webassembly-vugu-vugu-38501d3e.md) |
 | xiaoyu1998/web3.learning | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-xiaoyu1998-web3-learning-35c3e808.md) |
 
 ## SAPJava
@@ -597,8 +597,8 @@ Records: `415`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| chris-swift-dev/AdvancedList | 8.0.0 | 2022-04-10T22:06:33Z | [open](../records/swift-chris-swift-dev-advancedlist-cb3a259f.md) |
-| daprice/Variablur | v2.0.0 | 2025-11-21T20:12:47Z | [open](../records/swift-daprice-variablur-d07bc4f2.md) |
+| chris-swift-dev/AdvancedList | partial | 2022-06-06T19:13:46Z | [open](../records/swift-chris-swift-dev-advancedlist-cb3a259f.md) |
+| daprice/Variablur | partial | 2025-11-21T20:12:47Z | [open](../records/swift-daprice-variablur-d07bc4f2.md) |
 | hackiftekhar/IQKeyboardManager | unknown | github_search_does_not_include_release_date | [open](../records/swift-hackiftekhar-iqkeyboardmanager-270f7036.md) |
 | lexrus/LTMorphingLabel | unknown | github_search_does_not_include_release_date | [open](../records/swift-lexrus-ltmorphinglabel-4dc8c4ca.md) |
 | Mijick/NavigationView | partial | 2025-05-14T15:36:54Z | [open](../records/swift-mijick-navigationview-fc610d99.md) |

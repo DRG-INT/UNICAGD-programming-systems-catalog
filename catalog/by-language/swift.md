@@ -1,6 +1,6 @@
 # Swift
 
-Records: `347`
+Records: `364`
 
 ## Navigation
 
@@ -8,39 +8,46 @@ Records: `347`
 
 ## Category Index
 
-[Api Abi Checker (188)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (41)](../by-category/assertion-mocking.md) · [Async Runtime (124)](../by-category/async-runtime.md)
-[Benchmarking (115)](../by-category/benchmarking.md) · [Build System (821)](../by-category/build-system.md) · [Cli (501)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (85)](../by-category/community-reference.md) · [Compiler (170)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (45)](../by-category/compression.md)
+[Api Abi Checker (190)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (41)](../by-category/assertion-mocking.md) · [Async Runtime (125)](../by-category/async-runtime.md)
+[Benchmarking (119)](../by-category/benchmarking.md) · [Build System (825)](../by-category/build-system.md) · [Cli (503)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (88)](../by-category/community-reference.md) · [Compiler (171)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (45)](../by-category/compression.md)
 [Concurrency Parallelism (73)](../by-category/concurrency-parallelism.md) · [Configuration (100)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (11)](../by-category/coverage.md)
-[Cryptography (155)](../by-category/cryptography.md) · [Data Science (33)](../by-category/data-science.md) · [Database Datastore (753)](../by-category/database-datastore.md) · [Datetime (158)](../by-category/datetime.md)
+[Cryptography (156)](../by-category/cryptography.md) · [Data Science (33)](../by-category/data-science.md) · [Database Datastore (754)](../by-category/database-datastore.md) · [Datetime (160)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (41)](../by-category/debugger.md) · [Dependency Manager (87)](../by-category/dependency-manager.md) · [Documentation (88)](../by-category/documentation.md)
-[Embedded Hardware (49)](../by-category/embedded-hardware.md) · [Ffi Bindings (388)](../by-category/ffi-bindings.md) · [Filesystem Os (1200)](../by-category/filesystem-os.md) · [Formatter (547)](../by-category/formatter.md)
-[Framework (48)](../by-category/framework.md) · [Fuzzer (48)](../by-category/fuzzer.md) · [Game Engine Game Dev (157)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1139)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (300)](../by-category/image-audio-dsp.md) · [Interop Bindings (52)](../by-category/interop-bindings.md) · [Interpreter Runtime (231)](../by-category/interpreter-runtime.md) · [Jit Vm (56)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1233)](../by-category/language-specification.md) · [Library (4843)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (41)](../by-category/lint-rule-pack.md) · [Linter (346)](../by-category/linter.md) · [Logging Observability (391)](../by-category/logging-observability.md) · [Machine Learning (584)](../by-category/machine-learning.md)
-[Math Numeric Scientific (79)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (85)](../by-category/memory-analyzer.md) · [Message Broker (31)](../by-category/message-broker.md) · [Networking Http (920)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (271)](../by-category/package-manager.md) · [Parser Lexer Ast (918)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (262)](../by-category/precommit-ci-quality.md)
-[Profiler (72)](../by-category/profiler.md) · [Project Scaffolding (118)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (12)](../by-category/sanitizer.md)
-[Security Sast (313)](../by-category/security-sast.md) · [Serialization (369)](../by-category/serialization.md) · [Standard Library (24)](../by-category/standard-library.md) · [Static Analyzer (442)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (497)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](../by-category/tutorial-book-styleguide.md) · [Type Checker (290)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1386)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](../by-category/utility-library.md) · [Visualization Gui (415)](../by-category/visualization-gui.md) · [Web Framework (401)](../by-category/web-framework.md)
+[Embedded Hardware (49)](../by-category/embedded-hardware.md) · [Ffi Bindings (388)](../by-category/ffi-bindings.md) · [Filesystem Os (1213)](../by-category/filesystem-os.md) · [Formatter (548)](../by-category/formatter.md)
+[Framework (49)](../by-category/framework.md) · [Fuzzer (48)](../by-category/fuzzer.md) · [Game Engine Game Dev (159)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1145)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (301)](../by-category/image-audio-dsp.md) · [Interop Bindings (52)](../by-category/interop-bindings.md) · [Interpreter Runtime (234)](../by-category/interpreter-runtime.md) · [Jit Vm (56)](../by-category/jit-vm.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1237)](../by-category/language-specification.md) · [Library (4859)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (41)](../by-category/lint-rule-pack.md) · [Linter (346)](../by-category/linter.md) · [Logging Observability (394)](../by-category/logging-observability.md) · [Machine Learning (594)](../by-category/machine-learning.md)
+[Math Numeric Scientific (79)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (86)](../by-category/memory-analyzer.md) · [Message Broker (32)](../by-category/message-broker.md) · [Networking Http (923)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (271)](../by-category/package-manager.md) · [Parser Lexer Ast (926)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (262)](../by-category/precommit-ci-quality.md)
+[Profiler (72)](../by-category/profiler.md) · [Project Scaffolding (120)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (12)](../by-category/sanitizer.md)
+[Security Sast (313)](../by-category/security-sast.md) · [Serialization (370)](../by-category/serialization.md) · [Standard Library (24)](../by-category/standard-library.md) · [Static Analyzer (445)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (498)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](../by-category/tutorial-book-styleguide.md) · [Type Checker (292)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1400)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](../by-category/utility-library.md) · [Visualization Gui (415)](../by-category/visualization-gui.md) · [Web Framework (411)](../by-category/web-framework.md)
 
 ## Categories
+
+### Async Runtime
+
+| Name | Release | Date | Source |
+| --- | --- | --- | --- |
+| [swift-server/async-http-client](../records/swift-swift-server-async-http-client-45f1da28.md) | partial | 2026-09-01T09:35:51Z | registry-derived |
 
 ### Benchmarking
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [apple/swift-nio](../records/swift-apple-swift-nio-a7333055.md) | unknown | github_search_does_not_include_release_date | registry-derived |
+| [apple/swift-nio](../records/swift-apple-swift-nio-a7333055.md) | partial | 2026-09-01T11:10:23Z | registry-derived |
 | [ordo-one/benchmark](../records/swift-ordo-one-benchmark-1abb4df6.md) | partial | 2026-07-24T09:37:23Z | registry-derived |
+| [rarestype/swift-json](../records/swift-rarestype-swift-json-07634c5a.md) | partial | 2026-08-29T22:33:17Z | registry-derived |
 
 ### Build System
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [altic-dev/FluidVoice](../records/swift-altic-dev-fluidvoice-6306d9c1.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [GottaGetSwifty/CodableWrappers](../records/swift-gottagetswifty-codablewrappers-2321bbf2.md) | 3.1.0 | 2025-01-07T06:47:41Z | registry-derived |
+| [GottaGetSwifty/CodableWrappers](../records/swift-gottagetswifty-codablewrappers-2321bbf2.md) | partial | 2025-07-14T18:57:59Z | registry-derived |
 | [groue/GRDB.swift](../records/swift-groue-grdb-swift-b95b3c97.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [IBAnimatable/IBAnimatable](../records/swift-ibanimatable-ibanimatable-d1d4f6a1.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [ninjaprox/NVActivityIndicatorView](../records/swift-ninjaprox-nvactivityindicatorview-50c765a4.md) | unknown | github_search_does_not_include_release_date | registry-derived |
@@ -56,13 +63,14 @@ Records: `347`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [Clipy/Clipy](../records/swift-clipy-clipy-22576c18.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [dominikmartn/ProgressiveBlurHeader](../records/swift-dominikmartn-progressiveblurheader-f06e99dc.md) | unknown | github_latest_release_missing | registry-derived |
+| [dominikmartn/ProgressiveBlurHeader](../records/swift-dominikmartn-progressiveblurheader-f06e99dc.md) | partial | 2026-04-09T05:08:23Z | registry-derived |
 | [farzaa/clicky](../records/swift-farzaa-clicky-84d448bb.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [Ji4n1ng/OpenInTerminal](../records/swift-ji4n1ng-openinterminal-ec16926b.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [Lakr233/vphone-cli](../records/swift-lakr233-vphone-cli-e35c2eae.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [lapfelix/BluetoothConnector](../records/swift-lapfelix-bluetoothconnector-9024c5af.md) | partial | 2026-07-19T00:02:39Z | registry-derived |
 | [mas-cli/mas](../records/swift-mas-cli-mas-b7913336.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [p0deje/Maccy](../records/swift-p0deje-maccy-a0af33c6.md) | unknown | github_search_does_not_include_release_date | registry-derived |
+| [tw93/Mole](../records/swift-tw93-mole-8d180f51.md) | partial | 2026-09-01T15:24:55Z | registry-derived |
 | [XcodesOrg/XcodesApp](../records/swift-xcodesorg-xcodesapp-30834dbe.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 
 ### Community Reference
@@ -76,7 +84,7 @@ Records: `347`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [jaywcjlove/PermissionFlow](../records/swift-jaywcjlove-permissionflow-44ca9e55.md) | v2.11.2 | 2026-08-16T15:56:40Z | registry-derived |
+| [jaywcjlove/PermissionFlow](../records/swift-jaywcjlove-permissionflow-44ca9e55.md) | partial | 2026-08-16T15:56:32Z | registry-derived |
 | [lucasbrown/swiftui-visual-effects](../records/swift-lucasbrown-swiftui-visual-effects-ebfcc1d4.md) | partial | 2020-09-09T16:25:34Z | registry-derived |
 | [sindresorhus/Settings](../records/swift-sindresorhus-settings-0df3359d.md) | partial | 2025-11-10T17:10:41Z | registry-derived |
 
@@ -109,7 +117,7 @@ Records: `347`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [krispuckett/SwiftUIShaders](../records/swift-krispuckett-swiftuishaders-6b476fd5.md) | 1.0.0 | 2026-06-01T22:13:53Z | registry-derived |
+| [krispuckett/SwiftUIShaders](../records/swift-krispuckett-swiftuishaders-6b476fd5.md) | partial | 2026-06-01T22:53:44Z | registry-derived |
 
 ### Ffi Bindings
 
@@ -132,11 +140,12 @@ Records: `347`
 | [ChenYilong/iOSInterviewQuestions](../records/swift-chenyilong-iosinterviewquestions-8331dfd3.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [CleanArchitectureRxSwift](../records/swift-cleanarchitecturerxswift-25af9dfb.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 | [CosmicMind/Material](../records/swift-cosmicmind-material-cd01b365.md) | unknown | github_search_does_not_include_release_date | registry-derived |
+| [dkhamsing/open-source-ios-apps](../records/swift-dkhamsing-open-source-ios-apps-108f495a.md) | partial | 2026-09-02T12:46:48Z | registry-derived |
 | [example-ios-apps](../records/swift-example-ios-apps-4d4c80bc.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 | [facebook/facebook-ios-sdk](../records/swift-facebook-facebook-ios-sdk-82cf4bfc.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [gao-sun/eul](../records/swift-gao-sun-eul-73d27248.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [GEOSwift/GEOSwift](../records/swift-geoswift-geoswift-4f0bb95b.md) | 11.2.0 | 2025-03-21T14:56:44Z | registry-derived |
-| [guillermomuntaner/Burritos](../records/swift-guillermomuntaner-burritos-87cfd576.md) | unknown | github_latest_release_missing | registry-derived |
+| [GEOSwift/GEOSwift](../records/swift-geoswift-geoswift-4f0bb95b.md) | partial | 2025-11-09T19:17:58Z | registry-derived |
+| [guillermomuntaner/Burritos](../records/swift-guillermomuntaner-burritos-87cfd576.md) | partial | 2022-10-14T08:27:41Z | registry-derived |
 | [HeroTransitions/Hero](../records/swift-herotransitions-hero-9ca9fa5f.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [huri000/SwiftEntryKit](../records/swift-huri000-swiftentrykit-74ba9318.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [ianyh/Amethyst](../records/swift-ianyh-amethyst-89eb6987.md) | unknown | github_search_does_not_include_release_date | registry-derived |
@@ -216,13 +225,14 @@ Records: `347`
 | [CodeEditApp/CodeEdit](../records/swift-codeeditapp-codeedit-1846e1cc.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [Conferences.digital](../records/swift-conferences-digital-f87b2858.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 | [coteditor/CotEditor](../records/swift-coteditor-coteditor-be4bdb2d.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [daprice/iOS-Tactile-Slider](../records/swift-daprice-ios-tactile-slider-619cec50.md) | 3.0.0 | 2021-08-21T00:14:57Z | registry-derived |
+| [daprice/iOS-Tactile-Slider](../records/swift-daprice-ios-tactile-slider-619cec50.md) | partial | 2023-07-27T09:38:34Z | registry-derived |
 | [Developing iOS Apps with Swift](../records/swift-developing-ios-apps-with-swift-8b66c652.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 | [dwarvesf/hidden](../records/swift-dwarvesf-hidden-7bea80af.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [Hacking With Swift](../records/swift-hacking-with-swift-4e5fda53.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 | [iina/iina](../records/swift-iina-iina-6c424098.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [insidegui/WWDC](../records/swift-insidegui-wwdc-3785aec6.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [Introducing SwiftUI](../records/swift-introducing-swiftui-186425da.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
+| [Jinxiansen/Awesome-Server-Side-Swift](../records/swift-jinxiansen-awesome-server-side-swift-0df7be5c.md) | partial | 2019-08-24T12:35:03Z | registry-derived |
 | [Kitura/Kitura](../records/swift-kitura-kitura-b9df34b7.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [LinkedIn](../records/swift-linkedin-6ffadedf.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 | [Mortennn/Dozer](../records/swift-mortennn-dozer-4c177fd7.md) | unknown | github_search_does_not_include_release_date | registry-derived |
@@ -263,69 +273,70 @@ Records: `347`
 | [supertone-inc/supertonic](../records/swift-supertone-inc-supertonic-88cf1d73.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [swift-vim](../records/swift-swift-vim-0c86a86b.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 | [utmapp/UTM](../records/swift-utmapp-utm-a248b985.md) | unknown | github_search_does_not_include_release_date | registry-derived |
+| [vapor-community/vapor-aws-lambda-runtime](../records/swift-vapor-community-vapor-aws-lambda-runtime-99d3d03d.md) | partial | 2021-10-23T19:32:37Z | registry-derived |
 
 ### Language Specification
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [About Swift](../records/swift-about-swift-8bde498c.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
-| [airbnb/lottie-ios](../records/swift-airbnb-lottie-ios-63aa9a28.md) | 4.6.1 | 2026-06-13T16:30:00Z | registry-derived |
-| [Alamofire/Alamofire](../records/swift-alamofire-alamofire-33377646.md) | 5.12.0 | 2026-05-05T01:44:54Z | registry-derived |
-| [alienator88/Pearcleaner](../records/swift-alienator88-pearcleaner-bea02e76.md) | 5.4.3 | 2025-11-26T23:18:50Z | registry-derived |
-| [allenwong/30DaysofSwift](../records/swift-allenwong-30daysofswift-c4ccdfef.md) | unknown | github_latest_release_missing | registry-derived |
-| [altic-dev/FluidVoice](../records/swift-altic-dev-fluidvoice-f4158d5b.md) | v1.6.9 | 2026-08-18T08:01:44Z | registry-derived |
-| [altstoreio/AltStore](../records/swift-altstoreio-altstore-27603fa2.md) | unknown | github_latest_release_missing | registry-derived |
-| [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](../records/swift-apphousekitchen-aldente-battery-care-and-monitoring-af6d47ab.md) | 1.38.1 | 2026-08-03T12:39:37Z | registry-derived |
-| [apple/container](../records/swift-apple-container-01bf22c8.md) | 1.3.1 | 2026-08-29T00:24:57Z | registry-derived |
-| [apple/containerization](../records/swift-apple-containerization-17cc55a1.md) | unknown | github_latest_release_missing | registry-derived |
-| [AudioKit/AudioKit](../records/swift-audiokit-audiokit-f0ff74d0.md) | 5.7.2 | 2026-03-31T20:39:27Z | registry-derived |
+| [airbnb/lottie-ios](../records/swift-airbnb-lottie-ios-63aa9a28.md) | partial | 2026-07-08T13:57:38Z | registry-derived |
+| [Alamofire/Alamofire](../records/swift-alamofire-alamofire-33377646.md) | partial | 2026-08-31T19:30:24Z | registry-derived |
+| [alienator88/Pearcleaner](../records/swift-alienator88-pearcleaner-bea02e76.md) | partial | 2026-06-22T18:49:18Z | registry-derived |
+| [allenwong/30DaysofSwift](../records/swift-allenwong-30daysofswift-c4ccdfef.md) | partial | 2022-05-21T17:40:30Z | registry-derived |
+| [altic-dev/FluidVoice](../records/swift-altic-dev-fluidvoice-f4158d5b.md) | partial | 2026-09-02T03:55:54Z | registry-derived |
+| [altstoreio/AltStore](../records/swift-altstoreio-altstore-27603fa2.md) | partial | 2026-07-14T19:06:27Z | registry-derived |
+| [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](../records/swift-apphousekitchen-aldente-battery-care-and-monitoring-af6d47ab.md) | partial | 2026-08-03T12:39:37Z | registry-derived |
+| [apple/container](../records/swift-apple-container-01bf22c8.md) | partial | 2026-09-01T23:55:18Z | registry-derived |
+| [apple/containerization](../records/swift-apple-containerization-17cc55a1.md) | partial | 2026-09-02T02:25:13Z | registry-derived |
+| [AudioKit/AudioKit](../records/swift-audiokit-audiokit-f0ff74d0.md) | partial | 2026-07-26T06:33:02Z | registry-derived |
 | [Awesome Swift Education](../records/swift-awesome-swift-education-c6fd9bb7.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
-| [c-villain/SwipeActions](../records/swift-c-villain-swipeactions-c44ea5a0.md) | 0.4.1 | 2024-09-28T09:49:54Z | registry-derived |
-| [Caldis/Mos](../records/swift-caldis-mos-36177327.md) | 4.2.1 | 2026-05-31T14:49:55Z | registry-derived |
-| [Carthage/Carthage](../records/swift-carthage-carthage-30cdc1f9.md) | 0.40.0 | 2024-09-09T14:53:24Z | registry-derived |
-| [ChartsOrg/Charts](../records/swift-chartsorg-charts-0664a9e9.md) | 5.1.0 | 2024-02-16T04:08:54Z | registry-derived |
-| [ChenYilong/iOSInterviewQuestions](../records/swift-chenyilong-iosinterviewquestions-1b086e68.md) | unknown | github_latest_release_missing | registry-derived |
-| [Clipy/Clipy](../records/swift-clipy-clipy-177823aa.md) | 1.3.0 | 2026-06-20T06:59:51Z | registry-derived |
-| [CodeEditApp/CodeEdit](../records/swift-codeeditapp-codeedit-ff3ae319.md) | v0.3.6 | 2025-08-26T20:35:39Z | registry-derived |
-| [CosmicMind/Material](../records/swift-cosmicmind-material-db65888a.md) | 3.1.8 | 2019-09-23T14:10:03Z | registry-derived |
-| [DevToys-app/DevToysMac](../records/swift-devtoys-app-devtoysmac-580e5f88.md) | 0.0.11 | 2022-09-18T04:24:22Z | registry-derived |
-| [dwarvesf/hidden](../records/swift-dwarvesf-hidden-f5516832.md) | v1.10 | 2026-03-03T13:49:12Z | registry-derived |
-| [exelban/stats](../records/swift-exelban-stats-903c8254.md) | v3.0.14 | 2026-08-30T08:54:15Z | registry-derived |
-| [Finb/Bark](../records/swift-finb-bark-47359efd.md) | unknown | github_latest_release_missing | registry-derived |
-| [FlineDev/TranslateKitSDK](../records/swift-flinedev-translatekitsdk-dc82594f.md) | 1.3.0 | 2025-09-01T13:11:49Z | registry-derived |
-| [gao-sun/eul](../records/swift-gao-sun-eul-2666ac59.md) | v1.6.2 | 2021-08-05T03:32:04Z | registry-derived |
+| [c-villain/SwipeActions](../records/swift-c-villain-swipeactions-c44ea5a0.md) | partial | 2024-09-28T09:49:54Z | registry-derived |
+| [Caldis/Mos](../records/swift-caldis-mos-36177327.md) | partial | 2026-08-20T16:42:32Z | registry-derived |
+| [Carthage/Carthage](../records/swift-carthage-carthage-30cdc1f9.md) | partial | 2025-09-10T15:36:04Z | registry-derived |
+| [ChartsOrg/Charts](../records/swift-chartsorg-charts-0664a9e9.md) | partial | 2026-03-07T05:36:26Z | registry-derived |
+| [ChenYilong/iOSInterviewQuestions](../records/swift-chenyilong-iosinterviewquestions-1b086e68.md) | partial | 2026-08-05T08:18:58Z | registry-derived |
+| [Clipy/Clipy](../records/swift-clipy-clipy-177823aa.md) | partial | 2026-09-01T02:34:51Z | registry-derived |
+| [CodeEditApp/CodeEdit](../records/swift-codeeditapp-codeedit-ff3ae319.md) | partial | 2026-08-18T21:24:35Z | registry-derived |
+| [CosmicMind/Material](../records/swift-cosmicmind-material-db65888a.md) | partial | 2022-05-16T17:39:01Z | registry-derived |
+| [DevToys-app/DevToysMac](../records/swift-devtoys-app-devtoysmac-580e5f88.md) | partial | 2024-05-03T04:09:41Z | registry-derived |
+| [dwarvesf/hidden](../records/swift-dwarvesf-hidden-f5516832.md) | partial | 2026-06-15T19:25:30Z | registry-derived |
+| [exelban/stats](../records/swift-exelban-stats-903c8254.md) | partial | 2026-08-31T15:35:29Z | registry-derived |
+| [Finb/Bark](../records/swift-finb-bark-47359efd.md) | partial | 2026-09-01T06:47:33Z | registry-derived |
+| [FlineDev/TranslateKitSDK](../records/swift-flinedev-translatekitsdk-dc82594f.md) | partial | 2026-02-17T13:49:14Z | registry-derived |
+| [gao-sun/eul](../records/swift-gao-sun-eul-2666ac59.md) | partial | 2024-05-25T22:59:12Z | registry-derived |
 | [Getting Started](../records/swift-getting-started-b45bb483.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 | [Google](../records/swift-google-1822cfe6.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
-| [hackiftekhar/IQKeyboardManager](../records/swift-hackiftekhar-iqkeyboardmanager-18116034.md) | 8.0.3 | 2026-05-25T15:03:55Z | registry-derived |
-| [HeroTransitions/Hero](../records/swift-herotransitions-hero-5bacf3ae.md) | 1.6.4 | 2025-01-23T20:29:21Z | registry-derived |
-| [ianyh/Amethyst](../records/swift-ianyh-amethyst-73e82312.md) | v0.24.3 | 2026-04-02T02:54:03Z | registry-derived |
-| [iina/iina](../records/swift-iina-iina-fa66094c.md) | v1.4.4 | 2026-06-24T19:34:20Z | registry-derived |
-| [insidegui/WWDC](../records/swift-insidegui-wwdc-577016c9.md) | 7.5 | 2024-06-07T16:49:11Z | registry-derived |
-| [ipader/SwiftGuide](../records/swift-ipader-swiftguide-9e486914.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [jaywcjlove/awesome-mac](../records/swift-jaywcjlove-awesome-mac-78b4937e.md) | v2.1.0 | 2026-03-30T16:52:39Z | registry-derived |
-| [JohnCoates/Aerial](../records/swift-johncoates-aerial-d1d85df4.md) | v3.6.3 | 2025-08-12T15:58:24Z | registry-derived |
-| [jordanbaird/Ice](../records/swift-jordanbaird-ice-cbd56144.md) | 0.11.12 | 2024-10-29T19:29:03Z | registry-derived |
-| [Juanpe/SkeletonView](../records/swift-juanpe-skeletonview-1a92cf44.md) | 1.31.0 | 2024-04-18T11:15:12Z | registry-derived |
-| [kickstarter/ios-oss](../records/swift-kickstarter-ios-oss-52b132cb.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [kodecocodes/swift-algorithm-club](../records/swift-kodecocodes-swift-algorithm-club-e9dbf72c.md) | unknown | github_latest_release_missing | registry-derived |
-| [KrishKrosh/TrackWeight](../records/swift-krishkrosh-trackweight-dd829cdd.md) | 20250727-023051 | 2025-07-27T02:30:54Z | registry-derived |
-| [krzyzanowskim/CryptoSwift](../records/swift-krzyzanowskim-cryptoswift-c5d8c7eb.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [Lakr233/vphone-cli](../records/swift-lakr233-vphone-cli-8827d54c.md) | 1.0.13 | 2026-08-31T22:34:36Z | registry-derived |
+| [hackiftekhar/IQKeyboardManager](../records/swift-hackiftekhar-iqkeyboardmanager-18116034.md) | partial | 2026-05-25T14:09:39Z | registry-derived |
+| [HeroTransitions/Hero](../records/swift-herotransitions-hero-5bacf3ae.md) | partial | 2025-01-23T20:27:30Z | registry-derived |
+| [ianyh/Amethyst](../records/swift-ianyh-amethyst-73e82312.md) | partial | 2026-08-19T13:38:37Z | registry-derived |
+| [iina/iina](../records/swift-iina-iina-fa66094c.md) | partial | 2026-09-02T14:11:56Z | registry-derived |
+| [insidegui/WWDC](../records/swift-insidegui-wwdc-577016c9.md) | partial | 2026-06-17T20:11:54Z | registry-derived |
+| [ipader/SwiftGuide](../records/swift-ipader-swiftguide-9e486914.md) | partial | 2026-08-22T01:31:55Z | registry-derived |
+| [jaywcjlove/awesome-mac](../records/swift-jaywcjlove-awesome-mac-78b4937e.md) | partial | 2026-09-02T01:49:05Z | registry-derived |
+| [JohnCoates/Aerial](../records/swift-johncoates-aerial-d1d85df4.md) | partial | 2026-05-16T13:55:52Z | registry-derived |
+| [jordanbaird/Ice](../records/swift-jordanbaird-ice-cbd56144.md) | partial | 2025-09-20T20:28:17Z | registry-derived |
+| [Juanpe/SkeletonView](../records/swift-juanpe-skeletonview-1a92cf44.md) | partial | 2026-06-23T17:39:57Z | registry-derived |
+| [kickstarter/ios-oss](../records/swift-kickstarter-ios-oss-52b132cb.md) | partial | 2026-09-02T08:15:22Z | registry-derived |
+| [kodecocodes/swift-algorithm-club](../records/swift-kodecocodes-swift-algorithm-club-e9dbf72c.md) | partial | 2024-12-06T07:03:07Z | registry-derived |
+| [KrishKrosh/TrackWeight](../records/swift-krishkrosh-trackweight-dd829cdd.md) | partial | 2025-07-27T02:34:55Z | registry-derived |
+| [krzyzanowskim/CryptoSwift](../records/swift-krzyzanowskim-cryptoswift-c5d8c7eb.md) | partial | 2026-08-19T14:45:33Z | registry-derived |
+| [Lakr233/vphone-cli](../records/swift-lakr233-vphone-cli-8827d54c.md) | partial | 2026-08-31T22:34:35Z | registry-derived |
 | [LiveContainer/LiveContainer](../records/swift-livecontainer-livecontainer-df088e07.md) | partial | 2026-08-30T14:53:23Z | registry-derived |
 | [lwouis/alt-tab-macos](../records/swift-lwouis-alt-tab-macos-ffbd7980.md) | partial | 2026-08-19T09:20:08Z | registry-derived |
 | [mac-cain13/R.swift](../records/swift-mac-cain13-r-swift-576f6e69.md) | partial | 2025-04-01T13:18:36Z | registry-derived |
-| [manaflow-ai/cmux](../records/swift-manaflow-ai-cmux-97abd3fc.md) | partial | 2026-09-01T10:24:35Z | registry-derived |
+| [manaflow-ai/cmux](../records/swift-manaflow-ai-cmux-97abd3fc.md) | partial | 2026-09-02T14:21:32Z | registry-derived |
 | [mas-cli/mas](../records/swift-mas-cli-mas-eeeb85cb.md) | partial | 2026-08-31T13:20:08Z | registry-derived |
 | [maxgoedjen/secretive](../records/swift-maxgoedjen-secretive-c206b7a6.md) | partial | 2026-08-19T08:42:13Z | registry-derived |
 | [MengTo/Spring](../records/swift-mengto-spring-21bd886d.md) | partial | 2023-07-03T14:28:34Z | registry-derived |
 | [MonitorControl/MonitorControl](../records/swift-monitorcontrol-monitorcontrol-71ba7549.md) | partial | 2026-08-31T16:37:52Z | registry-derived |
 | [Mortennn/Dozer](../records/swift-mortennn-dozer-5a851823.md) | partial | 2023-11-30T13:45:27Z | registry-derived |
 | [Moya/Moya](../records/swift-moya-moya-934d110e.md) | partial | 2026-07-14T22:07:40Z | registry-derived |
-| [mozilla-mobile/firefox-ios](../records/swift-mozilla-mobile-firefox-ios-2083324a.md) | partial | 2026-09-01T09:15:11Z | registry-derived |
+| [mozilla-mobile/firefox-ios](../records/swift-mozilla-mobile-firefox-ios-2083324a.md) | partial | 2026-09-02T13:49:59Z | registry-derived |
 | [mrkai77/Loop](../records/swift-mrkai77-loop-00f0d1de.md) | partial | 2026-08-31T08:27:18Z | registry-derived |
 | [mxcl/PromiseKit](../records/swift-mxcl-promisekit-231b3051.md) | partial | 2026-06-03T18:37:03Z | registry-derived |
 | [newlinedotco/FlappySwift](../records/swift-newlinedotco-flappyswift-4860e4e2.md) | partial | 2023-04-29T03:44:50Z | registry-derived |
-| [nicklockwood/SwiftFormat](../records/swift-nicklockwood-swiftformat-5173cf3f.md) | partial | 2026-08-31T02:30:43Z | registry-derived |
+| [nicklockwood/SwiftFormat](../records/swift-nicklockwood-swiftformat-5173cf3f.md) | partial | 2026-09-02T08:14:55Z | registry-derived |
 | [nikitabobko/AeroSpace](../records/swift-nikitabobko-aerospace-c0101588.md) | partial | 2026-08-10T16:54:22Z | registry-derived |
 | [ninjaprox/NVActivityIndicatorView](../records/swift-ninjaprox-nvactivityindicatorview-44bb39ff.md) | partial | 2026-03-18T02:19:26Z | registry-derived |
 | [ochococo/Design-Patterns-In-Swift](../records/swift-ochococo-design-patterns-in-swift-43f28d47.md) | partial | 2024-08-03T07:30:28Z | registry-derived |
@@ -341,7 +352,7 @@ Records: `347`
 | [Quick/Quick](../records/swift-quick-quick-8f2cd6d5.md) | partial | 2026-05-18T15:19:28Z | registry-derived |
 | [Ramotion/animated-tab-bar](../records/swift-ramotion-animated-tab-bar-e7d5c534.md) | partial | 2022-01-26T02:40:50Z | registry-derived |
 | [Ramotion/folding-cell](../records/swift-ramotion-folding-cell-544464cb.md) | partial | 2024-04-28T23:42:52Z | registry-derived |
-| [Ranchero-Software/NetNewsWire](../records/swift-ranchero-software-netnewswire-c2cd38c6.md) | partial | 2026-09-01T03:56:06Z | registry-derived |
+| [Ranchero-Software/NetNewsWire](../records/swift-ranchero-software-netnewswire-c2cd38c6.md) | partial | 2026-09-02T04:50:09Z | registry-derived |
 | [ReactiveCocoa/ReactiveCocoa](../records/swift-reactivecocoa-reactivecocoa-baece3c9.md) | partial | 2025-09-12T03:55:10Z | registry-derived |
 | [ReactiveX/RxSwift](../records/swift-reactivex-rxswift-cb25896d.md) | partial | 2026-08-15T09:20:08Z | registry-derived |
 | [realm/SwiftLint](../records/swift-realm-swiftlint-518b83d8.md) | partial | 2026-09-01T08:09:12Z | registry-derived |
@@ -352,31 +363,31 @@ Records: `347`
 | [signalapp/Signal-iOS](../records/swift-signalapp-signal-ios-0d959372.md) | partial | 2026-08-31T19:06:35Z | registry-derived |
 | [Sjj1024/PakePlus-iOS](../records/swift-sjj1024-pakeplus-ios-409d4afd.md) | partial | 2026-07-12T03:04:16Z | registry-derived |
 | [SnapKit/SnapKit](../records/swift-snapkit-snapkit-4ec7288d.md) | partial | 2026-07-13T10:50:19Z | registry-derived |
-| [steipete/CodexBar](../records/swift-steipete-codexbar-e82c17bf.md) | partial | 2026-09-01T10:18:11Z | registry-derived |
-| [stephencelis/SQLite.swift](../records/swift-stephencelis-sqlite-swift-38539634.md) | unknown | github_search_does_not_include_release_date | registry-derived |
+| [steipete/CodexBar](../records/swift-steipete-codexbar-e82c17bf.md) | partial | 2026-09-02T14:14:14Z | registry-derived |
+| [stephencelis/SQLite.swift](../records/swift-stephencelis-sqlite-swift-38539634.md) | partial | 2026-08-29T10:03:46Z | registry-derived |
 | [sunnyyoung/WeChatTweak](../records/swift-sunnyyoung-wechattweak-3fbdc99c.md) | partial | 2026-02-08T13:28:22Z | registry-derived |
 | [supertone-inc/supertonic](../records/swift-supertone-inc-supertonic-2a29d827.md) | partial | 2026-07-24T04:00:17Z | registry-derived |
 | [swift-package-manager](../records/swift-swift-package-manager-f64ded6a.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 | [SwifterSwift/SwifterSwift](../records/swift-swifterswift-swifterswift-6473bf68.md) | partial | 2026-08-09T05:41:29Z | registry-derived |
 | [SwiftGen/SwiftGen](../records/swift-swiftgen-swiftgen-b6a9b03e.md) | partial | 2026-04-16T08:20:58Z | registry-derived |
-| [swiftlang/swift](../records/swift-swiftlang-swift-af9d2442.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [swiftlang/swift-package-manager](../records/swift-swiftlang-swift-package-manager-a5f8ce45.md) | unknown | github_search_does_not_include_release_date | registry-derived |
+| [swiftlang/swift](../records/swift-swiftlang-swift-af9d2442.md) | partial | 2026-09-02T13:31:29Z | registry-derived |
+| [swiftlang/swift-package-manager](../records/swift-swiftlang-swift-package-manager-a5f8ce45.md) | partial | 2026-09-02T14:09:55Z | registry-derived |
 | [SwiftUIX/SwiftUIX](../records/swift-swiftuix-swiftuix-7730751d.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [SwiftyJSON/SwiftyJSON](../records/swift-swiftyjson-swiftyjson-7752246a.md) | partial | 2026-08-18T07:07:07Z | registry-derived |
 | [TelegramMessenger/Telegram-iOS](../records/swift-telegrammessenger-telegram-ios-919c5962.md) | partial | 2026-07-21T04:34:53Z | registry-derived |
-| [thaw-app/Thaw](../records/swift-thaw-app-thaw-925be275.md) | partial | 2026-09-01T08:08:04Z | registry-derived |
+| [thaw-app/Thaw](../records/swift-thaw-app-thaw-925be275.md) | partial | 2026-09-02T12:13:49Z | registry-derived |
 | [TheBoredTeam/boring.notch](../records/swift-theboredteam-boring-notch-97c99eb2.md) | partial | 2026-08-30T07:24:40Z | registry-derived |
-| [tisfeng/Easydict](../records/swift-tisfeng-easydict-efdf4df7.md) | partial | 2026-08-31T15:30:27Z | registry-derived |
+| [tisfeng/Easydict](../records/swift-tisfeng-easydict-efdf4df7.md) | partial | 2026-09-02T12:19:18Z | registry-derived |
 | [toptal/gitignore.io](../records/swift-toptal-gitignore-io-af3ffa2e.md) | partial | 2024-12-23T15:12:40Z | registry-derived |
 | [tristanhimmelman/ObjectMapper](../records/swift-tristanhimmelman-objectmapper-35c64bc7.md) | partial | 2024-05-02T13:32:48Z | registry-derived |
-| [utmapp/UTM](../records/swift-utmapp-utm-cd8eae5c.md) | partial | 2026-09-01T05:28:36Z | registry-derived |
-| [vapor/vapor](../records/swift-vapor-vapor-45f6fc70.md) | partial | 2026-08-31T21:08:34Z | registry-derived |
+| [utmapp/UTM](../records/swift-utmapp-utm-cd8eae5c.md) | partial | 2026-09-02T05:14:37Z | registry-derived |
+| [vapor/vapor](../records/swift-vapor-vapor-45f6fc70.md) | partial | 2026-09-02T13:52:13Z | registry-derived |
 | [vim-polyglot](../records/swift-vim-polyglot-4e647549.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
-| [vorssaintapp/vorssaint-utils](../records/swift-vorssaintapp-vorssaint-utils-6c9bd080.md) | partial | 2026-09-01T03:17:10Z | registry-derived |
-| [vsouza/awesome-ios](../records/swift-vsouza-awesome-ios-2f790b50.md) | unknown | github_search_does_not_include_release_date | registry-derived |
+| [vorssaintapp/vorssaint-utils](../records/swift-vorssaintapp-vorssaint-utils-6c9bd080.md) | partial | 2026-09-02T14:06:13Z | registry-derived |
+| [vsouza/awesome-ios](../records/swift-vsouza-awesome-ios-2f790b50.md) | partial | 2026-08-27T19:34:29Z | registry-derived |
 | [Whisky-App/Whisky](../records/swift-whisky-app-whisky-01ab3144.md) | partial | 2025-05-11T17:50:04Z | registry-derived |
 | [xmartlabs/Eureka](../records/swift-xmartlabs-eureka-4485a2d3.md) | partial | 2024-09-12T17:04:03Z | registry-derived |
-| [yonaskolb/XcodeGen](../records/swift-yonaskolb-xcodegen-903968b3.md) | unknown | github_search_does_not_include_release_date | registry-derived |
+| [yonaskolb/XcodeGen](../records/swift-yonaskolb-xcodegen-903968b3.md) | partial | 2026-07-16T06:42:48Z | registry-derived |
 | [Zolang](../records/swift-zolang-15b560fc.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 
 ### Library
@@ -426,6 +437,7 @@ Records: `347`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [apple/swift-system-metrics](../records/swift-apple-swift-system-metrics-823d84b7.md) | partial | 2026-08-27T18:13:20Z | registry-derived |
 | [osaurus-ai/osaurus](../records/swift-osaurus-ai-osaurus-5748ca92.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 
 ### Networking Http
@@ -451,7 +463,7 @@ Records: `347`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [glushchenko/fsnotes](../records/swift-glushchenko-fsnotes-0cb5321f.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [JohnSundell/Splash](../records/swift-johnsundell-splash-a6f46b01.md) | 0.16.0 | 2021-06-14T12:57:32Z | registry-derived |
+| [JohnSundell/Splash](../records/swift-johnsundell-splash-a6f46b01.md) | partial | 2024-05-27T11:18:15Z | registry-derived |
 | [MastodonKit/MastodonKit](../records/swift-mastodonkit-mastodonkit-916ae82f.md) | partial | 2023-03-14T06:19:09Z | registry-derived |
 | [Mijick/Popups](../records/swift-mijick-popups-69766df9.md) | partial | 2025-10-22T18:52:37Z | registry-derived |
 | [omaralbeik/Drops](../records/swift-omaralbeik-drops-db7497c5.md) | partial | 2024-10-11T16:52:22Z | registry-derived |
@@ -493,6 +505,7 @@ Records: `347`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [Ranchero-Software/NetNewsWire](../records/swift-ranchero-software-netnewswire-c617c7bf.md) | unknown | github_search_does_not_include_release_date | registry-derived |
+| [swift-extras/swift-extras-json](../records/swift-swift-extras-swift-extras-json-d7e2b1de.md) | partial | 2021-01-12T21:34:32Z | registry-derived |
 | [tristanhimmelman/ObjectMapper](../records/swift-tristanhimmelman-objectmapper-b2be793a.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 
 ### Static Analyzer
@@ -500,7 +513,7 @@ Records: `347`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [AudioKit/AudioKit](../records/swift-audiokit-audiokit-0a7c5399.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [DanielJamesTronca/SleepChartKit](../records/swift-danieljamestronca-sleepchartkit-a0216cea.md) | v1.2.0 | 2025-10-21T20:25:27Z | registry-derived |
+| [DanielJamesTronca/SleepChartKit](../records/swift-danieljamestronca-sleepchartkit-a0216cea.md) | partial | 2025-10-21T20:22:16Z | registry-derived |
 
 ### Testing Framework
 
@@ -522,6 +535,7 @@ Records: `347`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [2FastLabs/agent-squad](../records/swift-2fastlabs-agent-squad-f20b0f0c.md) | unknown | github_search_does_not_include_release_date | registry-derived |
+| [NativeScript/NativeScript](../records/swift-nativescript-nativescript-2f4e3a6a.md) | partial | 2026-09-02T13:47:07Z | registry-derived |
 
 ### Undefined Behavior Analyzer
 
@@ -544,8 +558,8 @@ Records: `347`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [chris-swift-dev/AdvancedList](../records/swift-chris-swift-dev-advancedlist-cb3a259f.md) | 8.0.0 | 2022-04-10T22:06:33Z | registry-derived |
-| [daprice/Variablur](../records/swift-daprice-variablur-d07bc4f2.md) | v2.0.0 | 2025-11-21T20:12:47Z | registry-derived |
+| [chris-swift-dev/AdvancedList](../records/swift-chris-swift-dev-advancedlist-cb3a259f.md) | partial | 2022-06-06T19:13:46Z | registry-derived |
+| [daprice/Variablur](../records/swift-daprice-variablur-d07bc4f2.md) | partial | 2025-11-21T20:12:47Z | registry-derived |
 | [hackiftekhar/IQKeyboardManager](../records/swift-hackiftekhar-iqkeyboardmanager-270f7036.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [lexrus/LTMorphingLabel](../records/swift-lexrus-ltmorphinglabel-4dc8c4ca.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [Mijick/NavigationView](../records/swift-mijick-navigationview-fc610d99.md) | partial | 2025-05-14T15:36:54Z | registry-derived |
@@ -562,5 +576,13 @@ Records: `347`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [alchemy-swift/alchemy](../records/swift-alchemy-swift-alchemy-6ca3c9b1.md) | partial | 2025-11-07T23:57:58Z | registry-derived |
+| [apple/swift-log](../records/swift-apple-swift-log-9120ca11.md) | partial | 2026-08-27T17:23:38Z | registry-derived |
+| [apple/swift-metrics](../records/swift-apple-swift-metrics-38873b0e.md) | partial | 2026-08-31T09:36:38Z | registry-derived |
+| [ArtSabintsev/Guitar](../records/swift-artsabintsev-guitar-edf44630.md) | partial | 2024-06-20T02:03:44Z | registry-derived |
+| [brokenhandsio/swift-webauthn](../records/swift-brokenhandsio-swift-webauthn-17084b06.md) | partial | 2026-07-04T01:31:20Z | registry-derived |
+| [choefele/AlexaSkillsKit](../records/swift-choefele-alexaskillskit-239f89f5.md) | partial | 2018-02-14T20:32:59Z | registry-derived |
+| [choefele/swift-lambda-app](../records/swift-choefele-swift-lambda-app-887314ca.md) | partial | 2017-02-06T17:30:30Z | registry-derived |
+| [jakeheis/Shout](../records/swift-jakeheis-shout-67672dd3.md) | partial | 2024-06-10T10:19:47Z | registry-derived |
 | [ReactiveX/RxSwift](../records/swift-reactivex-rxswift-c67a8309.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [sindresorhus/Regex](../records/swift-sindresorhus-regex-523dd181.md) | partial | 2025-09-11T23:31:28Z | registry-derived |

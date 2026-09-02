@@ -1,6 +1,6 @@
 # Interpreter Runtime
 
-Records: `231`
+Records: `234`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `231`
 
 ## Category Index
 
-[Api Abi Checker (188)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (124)](async-runtime.md)
-[Benchmarking (115)](benchmarking.md) · [Build System (821)](build-system.md) · [Cli (501)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (85)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+[Api Abi Checker (190)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (125)](async-runtime.md)
+[Benchmarking (119)](benchmarking.md) · [Build System (825)](build-system.md) · [Cli (503)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (88)](community-reference.md) · [Compiler (171)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
 [Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (100)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (155)](cryptography.md) · [Data Science (33)](data-science.md) · [Database Datastore (753)](database-datastore.md) · [Datetime (158)](datetime.md)
+[Cryptography (156)](cryptography.md) · [Data Science (33)](data-science.md) · [Database Datastore (754)](database-datastore.md) · [Datetime (160)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (88)](documentation.md)
-[Embedded Hardware (49)](embedded-hardware.md) · [Ffi Bindings (388)](ffi-bindings.md) · [Filesystem Os (1200)](filesystem-os.md) · [Formatter (547)](formatter.md)
-[Framework (48)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (157)](game-engine-game-dev.md) · [Ide Editor Integration (1139)](ide-editor-integration.md)
-[Image Audio Dsp (300)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · **[Interpreter Runtime (231)](interpreter-runtime.md)** · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1233)](language-specification.md) · [Library (4843)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (391)](logging-observability.md) · [Machine Learning (584)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (85)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (920)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (271)](package-manager.md) · [Parser Lexer Ast (918)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
-[Profiler (72)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (313)](security-sast.md) · [Serialization (369)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (442)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (497)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (290)](type-checker.md)
-[Undefined Behavior Analyzer (1386)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (415)](visualization-gui.md) · [Web Framework (401)](web-framework.md)
+[Embedded Hardware (49)](embedded-hardware.md) · [Ffi Bindings (388)](ffi-bindings.md) · [Filesystem Os (1213)](filesystem-os.md) · [Formatter (548)](formatter.md)
+[Framework (49)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1145)](ide-editor-integration.md)
+[Image Audio Dsp (301)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · **[Interpreter Runtime (234)](interpreter-runtime.md)** · [Jit Vm (56)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1237)](language-specification.md) · [Library (4859)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (394)](logging-observability.md) · [Machine Learning (594)](machine-learning.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (32)](message-broker.md) · [Networking Http (923)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (271)](package-manager.md) · [Parser Lexer Ast (926)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
+[Profiler (72)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (313)](security-sast.md) · [Serialization (370)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (445)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (498)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (292)](type-checker.md)
+[Undefined Behavior Analyzer (1400)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (415)](visualization-gui.md) · [Web Framework (411)](web-framework.md)
 
 ## C++23
 
@@ -187,7 +187,7 @@ Records: `231`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| asdf-vm/asdf | partial | 2026-09-01T13:58:03Z | [open](../records/go-asdf-vm-asdf-7c8e1c48.md) |
+| asdf-vm/asdf | partial | 2026-09-02T14:14:15Z | [open](../records/go-asdf-vm-asdf-7c8e1c48.md) |
 | github.com/btc-vision/btc-runtime | v1.10.6 | 2026-08-30T12:53:01.50741Z | [open](../records/go-github-com-btc-vision-btc-runtime-5ca52916.md) |
 | github.com/btc-vision/op-vm | v0.3.8 | 2026-08-30T16:32:47.097658Z | [open](../records/go-github-com-btc-vision-op-vm-0f62577b.md) |
 | github.com/esotericsoftware/spine-runtimes | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-esotericsoftware-spine-runtimes-c9525803.md) |
@@ -323,7 +323,8 @@ Records: `231`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| nasif43/devmag | unknown | github_latest_release_missing | [open](../records/magazines-nasif43-devmag-ad55760c.md) |
+| jvm-bloggers/jvm-bloggers | partial | 2026-07-02T18:52:47Z | [open](../records/magazines-jvm-bloggers-jvm-bloggers-87768bc4.md) |
+| nasif43/devmag | partial | 2024-02-20T11:57:21Z | [open](../records/magazines-nasif43-devmag-ad55760c.md) |
 
 ## Assembly
 
@@ -349,11 +350,11 @@ Records: `231`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Asmble - WebAssembly on the JVM | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-asmble-webassembly-on-the-jvm-df4793be.md) |
-| astrid-runtime/astrid | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-astrid-runtime-astrid-00366bc4.md) |
+| astrid-runtime/astrid | partial | 2026-09-02T13:19:22Z | [open](../records/webassembly-astrid-runtime-astrid-00366bc4.md) |
 | boa-dev/boa | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-boa-dev-boa-f27788a8.md) |
 | bytecodealliance/StarlingMonkey | partial | 2026-07-20T14:59:48Z | [open](../records/webassembly-bytecodealliance-starlingmonkey-d2a5789c.md) |
 | bytecodealliance/wasmtime-go | partial | 2026-08-20T19:30:30Z | [open](../records/webassembly-bytecodealliance-wasmtime-go-59c92af6.md) |
-| capstone-engine/capstone | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-capstone-engine-capstone-6ab35549.md) |
+| capstone-engine/capstone | partial | 2026-09-02T13:48:51Z | [open](../records/webassembly-capstone-engine-capstone-6ab35549.md) |
 | CharlieTap/chasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-charlietap-chasm-199c3c2f.md) |
 | chevdor/subwasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-chevdor-subwasm-777bc49e.md) |
 | faasm/faasm | partial | 2025-12-23T17:03:48Z | [open](../records/webassembly-faasm-faasm-25e74d15.md) |
@@ -361,23 +362,24 @@ Records: `231`
 | fizzy - Fast, deterministic, and pedantic WebAssembly interpreter written in clean C++17 | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-fizzy-fast-deterministic-and-pedantic-webassembly-interpreter-written-in-clean-c-17-a2857ea8.md) |
 | hemashushu/practice-wasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-hemashushu-practice-wasm-af9b64ef.md) |
 | kanaka/mal | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-kanaka-mal-bd74d373.md) |
-| leaningtech/webvm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-leaningtech-webvm-e3518757.md) |
+| leaningtech/webvm | partial | 2026-08-27T13:53:21Z | [open](../records/webassembly-leaningtech-webvm-e3518757.md) |
 | libraries/pywasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-libraries-pywasm-371c9f97.md) |
 | lifthrasiir/wah | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-lifthrasiir-wah-6064c64b.md) |
-| lunatic-solutions/lunatic | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-lunatic-solutions-lunatic-b2983cdd.md) |
+| lunatic-solutions/lunatic | partial | 2025-03-29T18:30:22Z | [open](../records/webassembly-lunatic-solutions-lunatic-b2983cdd.md) |
 | makepad/stitch | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-makepad-stitch-24ff8709.md) |
 | naqvis/wasmer-crystal | partial | 2026-05-18T10:05:09Z | [open](../records/webassembly-naqvis-wasmer-crystal-1e14c8b9.md) |
 | qrdate/tinywasi | partial | 2022-03-27T10:59:01Z | [open](../records/webassembly-qrdate-tinywasi-3dc1de87.md) |
 | rdunnington/bytebox | partial | 2026-06-08T00:58:21Z | [open](../records/webassembly-rdunnington-bytebox-718ba3d6.md) |
 | remko/uxn.wasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-remko-uxn-wasm-81ebab05.md) |
+| rivet-dev/agentos | partial | 2026-09-02T10:45:38Z | [open](../records/webassembly-rivet-dev-agentos-6c03f7ec.md) |
 | runtimeverification/wasm-semantics | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-runtimeverification-wasm-semantics-45d67936.md) |
 | Samsung/walrus | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-samsung-walrus-1892cda8.md) |
 | unoplatform/uno | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-unoplatform-uno-9db0f4f0.md) |
 | wamr - WebAssembly Micro Runtime (WAMR) is an AOT/JIT/interpreter focusing on small footprint | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wamr-webassembly-micro-runtime-wamr-is-an-aot-jit-interpreter-focusing-on-small-footprint-358da7f6.md) |
-| wasm-micro-runtime/wasm-micro-runtime | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-wasm-micro-runtime-wasm-micro-runtime-0baaf623.md) |
+| wasm-micro-runtime/wasm-micro-runtime | partial | 2026-09-02T09:43:12Z | [open](../records/webassembly-wasm-micro-runtime-wasm-micro-runtime-0baaf623.md) |
 | wasm3 - The fastest WebAssembly interpreter (x86, x64, ARM, MIPS, Xtensa) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wasm3-the-fastest-webassembly-interpreter-x86-x64-arm-mips-xtensa-05225f2f.md) |
-| wasm3/wasm3 | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-wasm3-wasm3-d6e345d2.md) |
-| WasmEdge/WasmEdge | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-wasmedge-wasmedge-e72c64d1.md) |
+| wasm3/wasm3 | partial | 2026-09-02T14:10:50Z | [open](../records/webassembly-wasm3-wasm3-d6e345d2.md) |
+| WasmEdge/WasmEdge | partial | 2026-09-02T14:16:41Z | [open](../records/webassembly-wasmedge-wasmedge-e72c64d1.md) |
 | Wasmer - Standalone JIT WebAssembly Runtime | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wasmer-standalone-jit-webassembly-runtime-c5c74d5d.md) |
 | wasmi-labs/wasmi | partial | 2026-09-01T11:50:21Z | [open](../records/webassembly-wasmi-labs-wasmi-2de8afe8.md) |
 | wazero/wazero | partial | 2026-08-29T08:42:55Z | [open](../records/webassembly-wazero-wazero-e01a87a9.md) |
@@ -406,6 +408,7 @@ Records: `231`
 | supertone-inc/supertonic | unknown | github_search_does_not_include_release_date | [open](../records/swift-supertone-inc-supertonic-88cf1d73.md) |
 | swift-vim | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-swift-vim-0c86a86b.md) |
 | utmapp/UTM | unknown | github_search_does_not_include_release_date | [open](../records/swift-utmapp-utm-a248b985.md) |
+| vapor-community/vapor-aws-lambda-runtime | partial | 2021-10-23T19:32:37Z | [open](../records/swift-vapor-community-vapor-aws-lambda-runtime-99d3d03d.md) |
 
 ## Cocoa
 
@@ -424,7 +427,7 @@ Records: `231`
 | guang19/framework-learning | partial | 2022-09-08T01:20:10Z | [open](../records/databases-guang19-framework-learning-16651c7a.md) |
 | langchain4j/langchain4j | partial | 2026-09-02T10:05:14Z | [open](../records/databases-langchain4j-langchain4j-478395e2.md) |
 | objectbox/objectbox-java | partial | 2026-08-03T10:42:55Z | [open](../records/databases-objectbox-objectbox-java-aa127825.md) |
-| pubkey/rxdb | partial | 2026-09-01T23:03:59Z | [open](../records/databases-pubkey-rxdb-d6f509c0.md) |
+| pubkey/rxdb | partial | 2026-09-02T12:01:22Z | [open](../records/databases-pubkey-rxdb-d6f509c0.md) |
 
 ## Repository Workplaces
 
@@ -434,7 +437,7 @@ Records: `231`
 | cespedes/ltrace | partial | 2026-09-01T23:27:40.828Z | [open](../records/repository-workplaces-cespedes-ltrace-7df92cd8.md) |
 | cznic/libc | partial | 2026-09-02T11:01:53.748Z | [open](../records/repository-workplaces-cznic-libc-3b834450.md) |
 | DerLinkshaender/csv2xlsx | partial | 2023-01-23T21:54:27.769Z | [open](../records/repository-workplaces-derlinkshaender-csv2xlsx-bd2e77a2.md) |
-| freedesktop-sdk/freedesktop-sdk | partial | 2026-09-02T10:44:57.769Z | [open](../records/repository-workplaces-freedesktop-sdk-freedesktop-sdk-d7a3f323.md) |
+| freedesktop-sdk/freedesktop-sdk | partial | 2026-09-02T14:19:07.439Z | [open](../records/repository-workplaces-freedesktop-sdk-freedesktop-sdk-d7a3f323.md) |
 | Gitea: Befaci03/collab-vm-1.2-server-bettetweak | partial | 2025-04-20T12:00:39Z | [open](../records/repository-workplaces-gitea-befaci03-collab-vm-1-2-server-bettetweak-82605f6b.md) |
 | Gitea: cvmuser1000/collab-vm-1.2-server-bettetweak-better | partial | 2025-04-19T11:00:56Z | [open](../records/repository-workplaces-gitea-cvmuser1000-collab-vm-1-2-server-bettetweak-better-40a2c6fe.md) |
 | Gitea: Gala_Group/GalaRuntime | partial | 2023-09-03T18:22:16Z | [open](../records/repository-workplaces-gitea-gala-group-galaruntime-c30c90ab.md) |

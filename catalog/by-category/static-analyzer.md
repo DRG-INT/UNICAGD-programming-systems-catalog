@@ -1,6 +1,6 @@
 # Static Analyzer
 
-Records: `442`
+Records: `445`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `442`
 
 ## Category Index
 
-[Api Abi Checker (188)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (124)](async-runtime.md)
-[Benchmarking (115)](benchmarking.md) · [Build System (821)](build-system.md) · [Cli (501)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (85)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+[Api Abi Checker (190)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (125)](async-runtime.md)
+[Benchmarking (119)](benchmarking.md) · [Build System (825)](build-system.md) · [Cli (503)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (88)](community-reference.md) · [Compiler (171)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
 [Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (100)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (155)](cryptography.md) · [Data Science (33)](data-science.md) · [Database Datastore (753)](database-datastore.md) · [Datetime (158)](datetime.md)
+[Cryptography (156)](cryptography.md) · [Data Science (33)](data-science.md) · [Database Datastore (754)](database-datastore.md) · [Datetime (160)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (88)](documentation.md)
-[Embedded Hardware (49)](embedded-hardware.md) · [Ffi Bindings (388)](ffi-bindings.md) · [Filesystem Os (1200)](filesystem-os.md) · [Formatter (547)](formatter.md)
-[Framework (48)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (157)](game-engine-game-dev.md) · [Ide Editor Integration (1139)](ide-editor-integration.md)
-[Image Audio Dsp (300)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (231)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1233)](language-specification.md) · [Library (4843)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (391)](logging-observability.md) · [Machine Learning (584)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (85)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (920)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (271)](package-manager.md) · [Parser Lexer Ast (918)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
-[Profiler (72)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (313)](security-sast.md) · [Serialization (369)](serialization.md) · [Standard Library (24)](standard-library.md) · **[Static Analyzer (442)](static-analyzer.md)**
-[Templating (2)](templating.md) · [Testing Framework (497)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (290)](type-checker.md)
-[Undefined Behavior Analyzer (1386)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (415)](visualization-gui.md) · [Web Framework (401)](web-framework.md)
+[Embedded Hardware (49)](embedded-hardware.md) · [Ffi Bindings (388)](ffi-bindings.md) · [Filesystem Os (1213)](filesystem-os.md) · [Formatter (548)](formatter.md)
+[Framework (49)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1145)](ide-editor-integration.md)
+[Image Audio Dsp (301)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (234)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1237)](language-specification.md) · [Library (4859)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (394)](logging-observability.md) · [Machine Learning (594)](machine-learning.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (32)](message-broker.md) · [Networking Http (923)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (271)](package-manager.md) · [Parser Lexer Ast (926)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
+[Profiler (72)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (313)](security-sast.md) · [Serialization (370)](serialization.md) · [Standard Library (24)](standard-library.md) · **[Static Analyzer (445)](static-analyzer.md)**
+[Templating (2)](templating.md) · [Testing Framework (498)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (292)](type-checker.md)
+[Undefined Behavior Analyzer (1400)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (415)](visualization-gui.md) · [Web Framework (411)](web-framework.md)
 
 ## C99
 
@@ -174,7 +174,7 @@ Records: `442`
 | cheddar | 0.1-640 | 2026-08-20 14:32:27 UTC | [open](../records/r-cheddar-748c38d1.md) |
 | clinfun | 1.1.6 | 2026-08-29 12:30:12 UTC | [open](../records/r-clinfun-9832cc1d.md) |
 | CohortIncidence | 4.2.0 | 2026-08-25 14:10:02 UTC | [open](../records/r-cohortincidence-78d5283d.md) |
-| colleyRstats | 0.1.6 | 2026-08-25 21:00:19 UTC | [open](../records/r-colleyrstats-9ca12c19.md) |
+| colleyRstats | 0.2.0 | 2026-09-02 12:50:02 UTC | [open](../records/r-colleyrstats-9ca12c19.md) |
 | commons | 0.0.1 | 2026-08-07 15:50:02 UTC | [open](../records/r-commons-0692a512.md) |
 | compareGroups | 4.10.3 | 2026-08-28 10:50:02 UTC | [open](../records/r-comparegroups-582a581b.md) |
 | Compositional | 8.3 | 2026-08-21 06:30:16 UTC | [open](../records/r-compositional-4de89292.md) |
@@ -288,6 +288,7 @@ Records: `442`
 | sentopics | 1.0.0 | 2026-08-21 13:20:02 UTC | [open](../records/r-sentopics-595fcb0b.md) |
 | sfa | 1.1.5 | 2026-08-23 18:30:02 UTC | [open](../records/r-sfa-1e69fae8.md) |
 | shiftR | 1.6 | 2026-09-01 19:20:02 UTC | [open](../records/r-shiftr-e102e904.md) |
+| ShrinkageTrees | 2.1.0 | 2026-09-02 14:00:02 UTC | [open](../records/r-shrinkagetrees-5286b024.md) |
 | SimplicialComplex | 0.1.2 | 2026-08-24 18:40:50 UTC | [open](../records/r-simplicialcomplex-e22f3c43.md) |
 | smaa | 0.3-4 | 2026-08-21 06:40:02 UTC | [open](../records/r-smaa-f335f1f5.md) |
 | SmartPK | 0.1.0 | 2026-08-24 14:40:02 UTC | [open](../records/r-smartpk-652820aa.md) |
@@ -306,6 +307,7 @@ Records: `442`
 | taxodist | 0.7.0 | 2026-08-28 23:00:02 UTC | [open](../records/r-taxodist-e4329e58.md) |
 | terra | 1.9-46 | 2026-08-22 16:30:02 UTC | [open](../records/r-terra-66a7f793.md) |
 | themescopeR | 0.1.1 | 2026-08-20 14:10:02 UTC | [open](../records/r-themescoper-eedc4e53.md) |
+| tidyposterior | 1.1.0 | 2026-09-02 13:30:03 UTC | [open](../records/r-tidyposterior-19a88e56.md) |
 | tidyweather | 0.3.0 | 2026-08-20 10:40:02 UTC | [open](../records/r-tidyweather-eeace04c.md) |
 | tipse | 2.1 | 2026-08-21 09:20:02 UTC | [open](../records/r-tipse-5a2f3e43.md) |
 | topologyR | 0.3.0 | 2026-08-20 00:20:02 UTC | [open](../records/r-topologyr-35bfdebd.md) |
@@ -379,7 +381,7 @@ Records: `442`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ArturSepp/QuantInvestStrats | partial | 2026-09-01T20:26:12Z | [open](../records/assets-artursepp-quantinveststrats-a7a51697.md) |
+| ArturSepp/QuantInvestStrats | partial | 2026-09-02T04:11:29Z | [open](../records/assets-artursepp-quantinveststrats-a7a51697.md) |
 | letianzj/QuantResearch | partial | 2023-08-26T12:16:05Z | [open](../records/assets-letianzj-quantresearch-61864c0e.md) |
 
 ## Maps
@@ -396,7 +398,7 @@ Records: `442`
 | iamtekson/Leaflet-from-basic-to-advance | unknown | github_latest_release_missing | [open](../records/maps-iamtekson-leaflet-from-basic-to-advance-889350fe.md) |
 | jblindsay/whitebox-tools | partial | 2026-05-26T15:31:03Z | [open](../records/maps-jblindsay-whitebox-tools-802abb76.md) |
 | joewdavies/awesome-frontend-gis | unknown | github_search_does_not_include_release_date | [open](../records/maps-joewdavies-awesome-frontend-gis-8dda6b78.md) |
-| keplergl/kepler.gl | partial | 2026-09-02T00:08:33Z | [open](../records/maps-keplergl-kepler-gl-672b222c.md) |
+| keplergl/kepler.gl | partial | 2026-09-02T12:47:25Z | [open](../records/maps-keplergl-kepler-gl-672b222c.md) |
 | mesa/mesa | unknown | github_search_does_not_include_release_date | [open](../records/maps-mesa-mesa-446ed582.md) |
 | mszell/geospatialdatascience | unknown | github_search_does_not_include_release_date | [open](../records/maps-mszell-geospatialdatascience-35957080.md) |
 | nejckorasa/instagram-analyzer | partial | 2020-06-05T19:09:36Z | [open](../records/maps-nejckorasa-instagram-analyzer-17d46a85.md) |
@@ -592,6 +594,7 @@ Records: `442`
 | emanemad-dev/ux-review-website | unknown | github_latest_release_missing | [open](../records/magazines-emanemad-dev-ux-review-website-030b8c54.md) |
 | Lifailon/lazyjournal | unknown | github_search_does_not_include_release_date | [open](../records/magazines-lifailon-lazyjournal-28d8daea.md) |
 | massimoaria/bibliometrix | unknown | github_search_does_not_include_release_date | [open](../records/magazines-massimoaria-bibliometrix-de0b9efa.md) |
+| TalEliyahu/awesome-security-newsletters | partial | 2026-07-26T07:35:03Z | [open](../records/magazines-taleliyahu-awesome-security-newsletters-16430f65.md) |
 
 ## Assembly
 
@@ -625,7 +628,7 @@ Records: `442`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AudioKit/AudioKit | unknown | github_search_does_not_include_release_date | [open](../records/swift-audiokit-audiokit-0a7c5399.md) |
-| DanielJamesTronca/SleepChartKit | v1.2.0 | 2025-10-21T20:25:27Z | [open](../records/swift-danieljamestronca-sleepchartkit-a0216cea.md) |
+| DanielJamesTronca/SleepChartKit | partial | 2025-10-21T20:22:16Z | [open](../records/swift-danieljamestronca-sleepchartkit-a0216cea.md) |
 
 ## Cocoa
 
@@ -647,8 +650,8 @@ Records: `442`
 | Gitea: awdscan/awdscanserver | partial | 2025-10-06T13:47:16Z | [open](../records/repository-workplaces-gitea-awdscan-awdscanserver-8258eaa2.md) |
 | Gitea: corricca/elibrary-publication-analyzer | partial | 2026-01-29T19:57:29Z | [open](../records/repository-workplaces-gitea-corricca-elibrary-publication-analyzer-3d1b67ed.md) |
 | Gitea: ImageProcessing-ElectronicPublications/imthreshold | partial | 2023-10-26T10:52:14Z | [open](../records/repository-workplaces-gitea-imageprocessing-electronicpublications-imthreshold-a87c44af.md) |
-| gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-02T12:26:06.441Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
-| gitlab-org/gitlab | partial | 2026-09-02T11:29:06.763Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
+| gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-02T13:36:56.985Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
+| gitlab-org/gitlab | partial | 2026-09-02T13:29:19.425Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
 | gitlab-org/security-products/analyzers/container-scanning | partial | 2026-08-27T18:19:28.289Z | [open](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) |
 | gitlab-security-oss/cis/gitlabcis | partial | 2026-09-01T20:35:39.553Z | [open](../records/repository-workplaces-gitlab-security-oss-cis-gitlabcis-f7ce6047.md) |
 | hgraca/app-mapper | partial | 2026-09-01T08:04:56.232Z | [open](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) |

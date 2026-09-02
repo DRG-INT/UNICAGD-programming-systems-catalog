@@ -4,23 +4,23 @@
 
 ## Category Index
 
-[Api Abi Checker (188)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (41)](by-category/assertion-mocking.md) · [Async Runtime (124)](by-category/async-runtime.md)
-[Benchmarking (115)](by-category/benchmarking.md) · [Build System (821)](by-category/build-system.md) · [Cli (501)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
-[Community Reference (85)](by-category/community-reference.md) · [Compiler (170)](by-category/compiler.md) · [Compiler Diagnostics (23)](by-category/compiler-diagnostics.md) · [Compression (45)](by-category/compression.md)
+[Api Abi Checker (190)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (41)](by-category/assertion-mocking.md) · [Async Runtime (125)](by-category/async-runtime.md)
+[Benchmarking (119)](by-category/benchmarking.md) · [Build System (825)](by-category/build-system.md) · [Cli (503)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Community Reference (88)](by-category/community-reference.md) · [Compiler (171)](by-category/compiler.md) · [Compiler Diagnostics (23)](by-category/compiler-diagnostics.md) · [Compression (45)](by-category/compression.md)
 [Concurrency Parallelism (73)](by-category/concurrency-parallelism.md) · [Configuration (100)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (11)](by-category/coverage.md)
-[Cryptography (155)](by-category/cryptography.md) · [Data Science (33)](by-category/data-science.md) · [Database Datastore (753)](by-category/database-datastore.md) · [Datetime (158)](by-category/datetime.md)
+[Cryptography (156)](by-category/cryptography.md) · [Data Science (33)](by-category/data-science.md) · [Database Datastore (754)](by-category/database-datastore.md) · [Datetime (160)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (41)](by-category/debugger.md) · [Dependency Manager (87)](by-category/dependency-manager.md) · [Documentation (88)](by-category/documentation.md)
-[Embedded Hardware (49)](by-category/embedded-hardware.md) · [Ffi Bindings (388)](by-category/ffi-bindings.md) · [Filesystem Os (1200)](by-category/filesystem-os.md) · [Formatter (547)](by-category/formatter.md)
-[Framework (48)](by-category/framework.md) · [Fuzzer (48)](by-category/fuzzer.md) · [Game Engine Game Dev (157)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1139)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (300)](by-category/image-audio-dsp.md) · [Interop Bindings (52)](by-category/interop-bindings.md) · [Interpreter Runtime (231)](by-category/interpreter-runtime.md) · [Jit Vm (56)](by-category/jit-vm.md)
-[Language Server (27)](by-category/language-server.md) · [Language Specification (1233)](by-category/language-specification.md) · [Library (4843)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (41)](by-category/lint-rule-pack.md) · [Linter (346)](by-category/linter.md) · [Logging Observability (391)](by-category/logging-observability.md) · [Machine Learning (584)](by-category/machine-learning.md)
-[Math Numeric Scientific (79)](by-category/math-numeric-scientific.md) · [Memory Analyzer (85)](by-category/memory-analyzer.md) · [Message Broker (31)](by-category/message-broker.md) · [Networking Http (920)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (271)](by-category/package-manager.md) · [Parser Lexer Ast (918)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (262)](by-category/precommit-ci-quality.md)
-[Profiler (72)](by-category/profiler.md) · [Project Scaffolding (118)](by-category/project-scaffolding.md) · [Registry Repository (107)](by-category/registry-repository.md) · [Sanitizer (12)](by-category/sanitizer.md)
-[Security Sast (313)](by-category/security-sast.md) · [Serialization (369)](by-category/serialization.md) · [Standard Library (24)](by-category/standard-library.md) · [Static Analyzer (442)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (497)](by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](by-category/tutorial-book-styleguide.md) · [Type Checker (290)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1386)](by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](by-category/utility-library.md) · [Visualization Gui (415)](by-category/visualization-gui.md) · [Web Framework (401)](by-category/web-framework.md)
+[Embedded Hardware (49)](by-category/embedded-hardware.md) · [Ffi Bindings (388)](by-category/ffi-bindings.md) · [Filesystem Os (1213)](by-category/filesystem-os.md) · [Formatter (548)](by-category/formatter.md)
+[Framework (49)](by-category/framework.md) · [Fuzzer (48)](by-category/fuzzer.md) · [Game Engine Game Dev (159)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1145)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (301)](by-category/image-audio-dsp.md) · [Interop Bindings (52)](by-category/interop-bindings.md) · [Interpreter Runtime (234)](by-category/interpreter-runtime.md) · [Jit Vm (56)](by-category/jit-vm.md)
+[Language Server (27)](by-category/language-server.md) · [Language Specification (1237)](by-category/language-specification.md) · [Library (4859)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (41)](by-category/lint-rule-pack.md) · [Linter (346)](by-category/linter.md) · [Logging Observability (394)](by-category/logging-observability.md) · [Machine Learning (594)](by-category/machine-learning.md)
+[Math Numeric Scientific (79)](by-category/math-numeric-scientific.md) · [Memory Analyzer (86)](by-category/memory-analyzer.md) · [Message Broker (32)](by-category/message-broker.md) · [Networking Http (923)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (271)](by-category/package-manager.md) · [Parser Lexer Ast (926)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (262)](by-category/precommit-ci-quality.md)
+[Profiler (72)](by-category/profiler.md) · [Project Scaffolding (120)](by-category/project-scaffolding.md) · [Registry Repository (107)](by-category/registry-repository.md) · [Sanitizer (12)](by-category/sanitizer.md)
+[Security Sast (313)](by-category/security-sast.md) · [Serialization (370)](by-category/serialization.md) · [Standard Library (24)](by-category/standard-library.md) · [Static Analyzer (445)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (498)](by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](by-category/tutorial-book-styleguide.md) · [Type Checker (292)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (1400)](by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](by-category/utility-library.md) · [Visualization Gui (415)](by-category/visualization-gui.md) · [Web Framework (411)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -808,6 +808,7 @@
 | `cran_packages_by_date-001da9fcc15d41` | cvar | [open](records/r-cvar-51573d53.md) |
 | `cran_packages_by_date-00381d7199cc07` | cochranSize | [open](records/r-cochransize-e5bc40a4.md) |
 | `cran_packages_by_date-0099965e918ff1` | encharter | [open](records/r-encharter-caacc771.md) |
+| `cran_packages_by_date-00fd024f765a54` | mapsf | [open](records/r-mapsf-bf1548c0.md) |
 | `cran_packages_by_date-0152d86d1c8b74` | ewoc | [open](records/r-ewoc-7ca76613.md) |
 | `cran_packages_by_date-0183f803bdfdc0` | MYIS | [open](records/r-myis-c6fc6f9a.md) |
 | `cran_packages_by_date-01abb2694e52fc` | markovchain | [open](records/r-markovchain-c93d8c55.md) |
@@ -901,6 +902,7 @@
 | `cran_packages_by_date-110431ad4221e1` | grmtree | [open](records/r-grmtree-7bd888b0.md) |
 | `cran_packages_by_date-11153dc8214b16` | miapack | [open](records/r-miapack-d6f599dd.md) |
 | `cran_packages_by_date-115861d9328c19` | rstudiothemes | [open](records/r-rstudiothemes-1ea19ceb.md) |
+| `cran_packages_by_date-11c9f63341c86c` | RegressionFactory | [open](records/r-regressionfactory-8a939d6d.md) |
 | `cran_packages_by_date-11d3de950b28ec` | gpboost | [open](records/r-gpboost-42fd1cfb.md) |
 | `cran_packages_by_date-11f7278acc6f90` | spatialrisk | [open](records/r-spatialrisk-4fdef109.md) |
 | `cran_packages_by_date-1229a673c070cc` | cropwatMUL | [open](records/r-cropwatmul-97b344f9.md) |
@@ -930,6 +932,7 @@
 | `cran_packages_by_date-1593ade9d81bee` | MR.RGM | [open](records/r-mr-rgm-9061ddf6.md) |
 | `cran_packages_by_date-159aa383c461db` | mlt | [open](records/r-mlt-55856087.md) |
 | `cran_packages_by_date-159c0a14fa193c` | tinycodet | [open](records/r-tinycodet-0f7d4981.md) |
+| `cran_packages_by_date-15a184903b37ba` | ExperimentalDesignGeneratorandRandomiser | [open](records/r-experimentaldesigngeneratorandrandomiser-c207090b.md) |
 | `cran_packages_by_date-15a62159903cbf` | SEQTaRget | [open](records/r-seqtarget-050f7cdd.md) |
 | `cran_packages_by_date-15cbb446cda9e3` | gtregression | [open](records/r-gtregression-df58d522.md) |
 | `cran_packages_by_date-15da2cee84d3dd` | slim | [open](records/r-slim-ed629f98.md) |
@@ -1381,6 +1384,7 @@
 | `cran_packages_by_date-6125bcda9ab7d7` | glmertree | [open](records/r-glmertree-db33ddb0.md) |
 | `cran_packages_by_date-612b9ed26f9d50` | f1pits | [open](records/r-f1pits-b8d3a939.md) |
 | `cran_packages_by_date-6150062fdb25fd` | AgriDataTools | [open](records/r-agridatatools-fdfeb5da.md) |
+| `cran_packages_by_date-6195536ecf3843` | ShrinkageTrees | [open](records/r-shrinkagetrees-5286b024.md) |
 | `cran_packages_by_date-61e32c34ddb443` | DasGuptR | [open](records/r-dasguptr-b4cca0fa.md) |
 | `cran_packages_by_date-6205fb750fb58a` | DPComb | [open](records/r-dpcomb-ea26f266.md) |
 | `cran_packages_by_date-62169dd178e2e3` | maq | [open](records/r-maq-b64e2c22.md) |
@@ -1642,6 +1646,7 @@
 | `cran_packages_by_date-8bd8cbd4546c4f` | pkgnet | [open](records/r-pkgnet-b8bd4957.md) |
 | `cran_packages_by_date-8c0d77dcecbd17` | mlbench | [open](records/r-mlbench-db52e54e.md) |
 | `cran_packages_by_date-8c367979bb31c7` | accelEE | [open](records/r-accelee-c7401b49.md) |
+| `cran_packages_by_date-8c500bce9c8409` | rollcast | [open](records/r-rollcast-7f4a8d19.md) |
 | `cran_packages_by_date-8c74fd4ffb37c7` | ftsspec | [open](records/r-ftsspec-22de4146.md) |
 | `cran_packages_by_date-8c9dec223cf9b0` | ggchord | [open](records/r-ggchord-af5847b7.md) |
 | `cran_packages_by_date-8cad6606c8a3c5` | FastJM | [open](records/r-fastjm-411c995d.md) |
@@ -2036,6 +2041,7 @@
 | `cran_packages_by_date-d503772c97d295` | rangr | [open](records/r-rangr-26d7cbf2.md) |
 | `cran_packages_by_date-d5630745cb51ef` | stt.api | [open](records/r-stt-api-1a5481b0.md) |
 | `cran_packages_by_date-d5ae1602bc3493` | lstar | [open](records/r-lstar-1d648436.md) |
+| `cran_packages_by_date-d5d70b77a849df` | tidyposterior | [open](records/r-tidyposterior-19a88e56.md) |
 | `cran_packages_by_date-d5e23fb91746bb` | MethScope | [open](records/r-methscope-205598b3.md) |
 | `cran_packages_by_date-d5f8f20e14f3a4` | clinfun | [open](records/r-clinfun-9832cc1d.md) |
 | `cran_packages_by_date-d62423951186ce` | K4Rumah | [open](records/r-k4rumah-f3ddf53d.md) |
@@ -2133,6 +2139,7 @@
 | `cran_packages_by_date-e3fde6260e2b4d` | FBMS | [open](records/r-fbms-13f6b6e2.md) |
 | `cran_packages_by_date-e404f1dd88d971` | PNC | [open](records/r-pnc-bb3998ca.md) |
 | `cran_packages_by_date-e4341fc6d26389` | targeted | [open](records/r-targeted-461a4a21.md) |
+| `cran_packages_by_date-e461b6617530ab` | alphavantagepf | [open](records/r-alphavantagepf-39564484.md) |
 | `cran_packages_by_date-e46d4d4798e3f4` | httr | [open](records/r-httr-6a5f3fd7.md) |
 | `cran_packages_by_date-e4ca652e503a5e` | grangers | [open](records/r-grangers-d6500269.md) |
 | `cran_packages_by_date-e4ebd815c289df` | secrfunc | [open](records/r-secrfunc-1289d629.md) |
@@ -7505,9 +7512,14 @@
 | `github_search_go-fc9204b082d37e` | unknwon/the-way-to-go_ZH_CN | [open](records/go-unknwon-the-way-to-go-zh-cn-6332f5f1.md) |
 | `github_search_go-fefbcdfa73ca85` | gorilla/websocket | [open](records/go-gorilla-websocket-b72dd879.md) |
 | `github_search_go-ff04aa269744b7` | gbrlsnchs/jwt | [open](records/go-gbrlsnchs-jwt-9cb26411.md) |
+| `github_search_magazines-0127b48f8cc70b` | braziljs/weekly | [open](records/magazines-braziljs-weekly-013dd57e.md) |
 | `github_search_magazines-01cdf1d6b339d5` | samuelmeuli/mini-diary | [open](records/magazines-samuelmeuli-mini-diary-55a97725.md) |
+| `github_search_magazines-02ca27357eaeee` | BohdanPetryshyn/formzero | [open](records/magazines-bohdanpetryshyn-formzero-ba3eff6c.md) |
 | `github_search_magazines-04cdad72e53548` | thuang136/DeveloperMagazine | [open](records/magazines-thuang136-developermagazine-86d0075f.md) |
+| `github_search_magazines-055b51a6d9a144` | arneb/django-campaign | [open](records/magazines-arneb-django-campaign-acca3d0d.md) |
 | `github_search_magazines-05c4c9e41e272c` | daryllxd/lifelong-learning | [open](records/magazines-daryllxd-lifelong-learning-9f4c2b9f.md) |
+| `github_search_magazines-06c94058af6407` | emailmonday/Cerberus | [open](records/magazines-emailmonday-cerberus-362169d4.md) |
+| `github_search_magazines-06d68caf89b871` | rust-lang/this-week-in-rust | [open](records/magazines-rust-lang-this-week-in-rust-d3a86fd4.md) |
 | `github_search_magazines-0720c119f86e8c` | mollerse/frp-article | [open](records/magazines-mollerse-frp-article-64784a13.md) |
 | `github_search_magazines-09f565f416ec2b` | TryGhost/Ease | [open](records/magazines-tryghost-ease-bf44bd31.md) |
 | `github_search_magazines-0a8bf3192ae09a` | crsh/papaja | [open](records/magazines-crsh-papaja-c74bdec2.md) |
@@ -7515,14 +7527,24 @@
 | `github_search_magazines-0b5735dff97671` | OS2World/DEV-SAMPLES-C-PM-mclb | [open](records/magazines-os2world-dev-samples-c-pm-mclb-3e986314.md) |
 | `github_search_magazines-0c15efbb1e3687` | godofredoninja/simply | [open](records/magazines-godofredoninja-simply-0f8a6624.md) |
 | `github_search_magazines-0d7399f892e8ba` | stefanbc/Asgar | [open](records/magazines-stefanbc-asgar-0b7791d7.md) |
+| `github_search_magazines-0de0337f9edcb0` | skerkour/markdown-ninja | [open](records/magazines-skerkour-markdown-ninja-d48946d3.md) |
+| `github_search_magazines-0f262717cfd93e` | unkn0w/disposable-email-domain-list | [open](records/magazines-unkn0w-disposable-email-domain-list-54a50054.md) |
+| `github_search_magazines-1050c6849947cf` | data-is-plural/newsletter-archive | [open](records/magazines-data-is-plural-newsletter-archive-9aa39972.md) |
 | `github_search_magazines-1166b38ff7e161` | WantongC/journal-adapt-writing-skill | [open](records/magazines-wantongc-journal-adapt-writing-skill-cbbecfea.md) |
 | `github_search_magazines-1208430f7585ef` | ATOSHI-ORG/atoshi-docs | [open](records/magazines-atoshi-org-atoshi-docs-f8974b72.md) |
+| `github_search_magazines-12469445eab4b5` | ts-backend-meetup-ts/meetup | [open](records/magazines-ts-backend-meetup-ts-meetup-05df58f1.md) |
 | `github_search_magazines-125c859cd84495` | OS2World/DEV-SAMPLES-OS-2_Developer_Magazine | [open](records/magazines-os2world-dev-samples-os-2-developer-magazine-2ca39e24.md) |
+| `github_search_magazines-12de2fbd1faeaf` | rust-osdev/homepage | [open](records/magazines-rust-osdev-homepage-c79e05e0.md) |
 | `github_search_magazines-140ededf51d71d` | blogger-templates/Plus-UI-V3.7.0 | [open](records/magazines-blogger-templates-plus-ui-v3-7-0-c6d6a0c1.md) |
+| `github_search_magazines-1425c81adf2bf6` | TryGhost/Source | [open](records/magazines-tryghost-source-8e1152fe.md) |
 | `github_search_magazines-15097161aa4314` | brycewang-stanford/Awesome-Journal-Skills | [open](records/magazines-brycewang-stanford-awesome-journal-skills-ea63d997.md) |
 | `github_search_magazines-155c3c886c3a7c` | aviaryan/SublimeNotebook | [open](records/magazines-aviaryan-sublimenotebook-f87d1a57.md) |
+| `github_search_magazines-160ea99ec85d17` | zudochkin/awesome-newsletters | [open](records/magazines-zudochkin-awesome-newsletters-ab51d3fc.md) |
+| `github_search_magazines-16f3296832bcd9` | oskardudycz/ArchitectureWeekly | [open](records/magazines-oskardudycz-architectureweekly-33cb66f1.md) |
 | `github_search_magazines-17143bf8a713af` | jendrikseipp/rednotebook | [open](records/magazines-jendrikseipp-rednotebook-5d8d4f11.md) |
 | `github_search_magazines-17f87867eb50d8` | Manna-Network/bitcoin_ad_agency | [open](records/magazines-manna-network-bitcoin-ad-agency-f8bbb11d.md) |
+| `github_search_magazines-18f14942fc0af2` | haskellweekly/haskellweekly | [open](records/magazines-haskellweekly-haskellweekly-2d16522a.md) |
+| `github_search_magazines-18f845498c9b45` | Notifuse/notifuse | [open](records/magazines-notifuse-notifuse-f68915ee.md) |
 | `github_search_magazines-197dd5b62f4b40` | ningoink/open-source-magazine | [open](records/magazines-ningoink-open-source-magazine-9862f636.md) |
 | `github_search_magazines-199adedfcb634b` | hackerschoice/THC-Archive | [open](records/magazines-hackerschoice-thc-archive-f9e52549.md) |
 | `github_search_magazines-1ae2bfed6dc579` | ikoanti/LLMs.txt-News-Blog-AI-Inspector | [open](records/magazines-ikoanti-llms-txt-news-blog-ai-inspector-a0fb994d.md) |
@@ -7540,42 +7562,68 @@
 | `github_search_magazines-270425185dc137` | wix-incubator/DLT | [open](records/magazines-wix-incubator-dlt-1845863c.md) |
 | `github_search_magazines-2714a55c93286c` | ping/libby-calibre-plugin | [open](records/magazines-ping-libby-calibre-plugin-043a04c1.md) |
 | `github_search_magazines-27a8d4ba50bd69` | TryGhost/Edge | [open](records/magazines-tryghost-edge-ec3db7e3.md) |
+| `github_search_magazines-284122e5977c61` | mat-nolen/tldr-radio | [open](records/magazines-mat-nolen-tldr-radio-65ac5e2c.md) |
+| `github_search_magazines-29d87437f74a49` | business-science/free_r_tips | [open](records/magazines-business-science-free-r-tips-64f5375c.md) |
 | `github_search_magazines-29e8bf80ad6814` | Aryia-Behroziuan/References | [open](records/magazines-aryia-behroziuan-references-f63a5617.md) |
+| `github_search_magazines-2b2d60ef7a3cdd` | chinesehuazhou/python-weekly | [open](records/magazines-chinesehuazhou-python-weekly-a2ded07c.md) |
 | `github_search_magazines-2b46f737054c7b` | collective/icalendar | [open](records/magazines-collective-icalendar-8d6e8512.md) |
+| `github_search_magazines-307f76a40dcbfc` | superleeyom/my-feed-OPML | [open](records/magazines-superleeyom-my-feed-opml-7829b043.md) |
 | `github_search_magazines-3167e8349f02fb` | hehonghui/the-hot-tech-blogs | [open](records/magazines-hehonghui-the-hot-tech-blogs-1f95e24f.md) |
 | `github_search_magazines-32997f2c82c8a4` | aviaryan/VSCodeNotebook | [open](records/magazines-aviaryan-vscodenotebook-49fbf0bb.md) |
 | `github_search_magazines-3326b25f6dad06` | SrirangaDigital/gipa | [open](records/magazines-srirangadigital-gipa-be5566ac.md) |
 | `github_search_magazines-3529bc9b3c566a` | uzih05/journal | [open](records/magazines-uzih05-journal-00e04855.md) |
 | `github_search_magazines-366887ad304bc9` | TryGhost/Massively | [open](records/magazines-tryghost-massively-019faf67.md) |
 | `github_search_magazines-379ae88dddb7b6` | songtianlun/diarum | [open](records/magazines-songtianlun-diarum-6ce1bdf0.md) |
+| `github_search_magazines-3be61401681a2b` | bestxtools/weekly-cn | [open](records/magazines-bestxtools-weekly-cn-0e05b725.md) |
 | `github_search_magazines-3ca17ff2373ed8` | JacobEvelyn/friends | [open](records/magazines-jacobevelyn-friends-2a09eafd.md) |
 | `github_search_magazines-3d4981e43e88f8` | TryGhost/Casper | [open](records/magazines-tryghost-casper-cbc6e40f.md) |
+| `github_search_magazines-3d9eb2c2942dd9` | Baroshem/nuxt-newsletter | [open](records/magazines-baroshem-nuxt-newsletter-d3e6f5cd.md) |
+| `github_search_magazines-3f64264c1d8c3d` | unkn0w/unknownews | [open](records/magazines-unkn0w-unknownews-59a85c8f.md) |
 | `github_search_magazines-4010e7ea160b43` | Rafase282/My-FreeCodeCamp-Code | [open](records/magazines-rafase282-my-freecodecamp-code-1981ce75.md) |
 | `github_search_magazines-421d28b8274e15` | emanemad-dev/ux-review-website | [open](records/magazines-emanemad-dev-ux-review-website-030b8c54.md) |
 | `github_search_magazines-4278df9d6cbe51` | russmiles/life-preserver-introductory-article-developer-magazine | [open](records/magazines-russmiles-life-preserver-introductory-article-developer-magazine-18492317.md) |
 | `github_search_magazines-43376034a8733c` | Abdo-Hussien/Magazine-System | [open](records/magazines-abdo-hussien-magazine-system-99fd7e1b.md) |
+| `github_search_magazines-435f4fcb07074e` | lcomplete/TechShare | [open](records/magazines-lcomplete-techshare-7971ab4d.md) |
 | `github_search_magazines-4818dc82149d0b` | lokeshreddy007/freedom-of-education | [open](records/magazines-lokeshreddy007-freedom-of-education-1e75f90b.md) |
 | `github_search_magazines-4933d0b7bef569` | edgarlr/magazine | [open](records/magazines-edgarlr-magazine-ca1ef2f0.md) |
 | `github_search_magazines-4a576ac388281e` | bindthegap/bindthegap.github.io | [open](records/magazines-bindthegap-bindthegap-github-io-fd1d4194.md) |
 | `github_search_magazines-4afd1e33266c6e` | anvayeem-spec/personal_portfolio | [open](records/magazines-anvayeem-spec-personal-portfolio-c313c07f.md) |
+| `github_search_magazines-4c9c96bbb55453` | Sandglaz/maktoub | [open](records/magazines-sandglaz-maktoub-4bc281dd.md) |
 | `github_search_magazines-4d70713505919a` | 7LPdWcaW/GrowTracker-Android | [open](records/magazines-7lpdwcaw-growtracker-android-380bd999.md) |
 | `github_search_magazines-4daedda1f5e175` | Vkiselev1984/brandMagazine | [open](records/magazines-vkiselev1984-brandmagazine-5861e615.md) |
+| `github_search_magazines-4df7a4057714e7` | BlogBowl/BlogBowl | [open](records/magazines-blogbowl-blogbowl-ec5b7830.md) |
+| `github_search_magazines-4eb7e0ac418992` | pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks | [open](records/magazines-pramit-marattha-fullstack-projects-frontend-with-react-and-backend-with-various-stacks-326b7cda.md) |
+| `github_search_magazines-4f112b45d1d368` | OutreachStud-io/studio | [open](records/magazines-outreachstud-io-studio-9a231d39.md) |
+| `github_search_magazines-502dc6b9f64b48` | haskellweekly/haskellweekly.github.io | [open](records/magazines-haskellweekly-haskellweekly-github-io-889fd571.md) |
 | `github_search_magazines-53c7c170293828` | TryGhost/Ruby | [open](records/magazines-tryghost-ruby-e22f8483.md) |
 | `github_search_magazines-54ca654d717fac` | OS2World/DEV-SAMPLES-C-PM-edctl1 | [open](records/magazines-os2world-dev-samples-c-pm-edctl1-621e7007.md) |
+| `github_search_magazines-558f6c9898415b` | iOS-Goodies/iOS-Goodies | [open](records/magazines-ios-goodies-ios-goodies-158d5e0d.md) |
 | `github_search_magazines-598035ac408678` | FRNT-dev/FRNT | [open](records/magazines-frnt-dev-frnt-b937225f.md) |
+| `github_search_magazines-5c0e33bd0c2bd8` | mindori/linkpress | [open](records/magazines-mindori-linkpress-ed13907c.md) |
+| `github_search_magazines-5c54d35515c089` | NathanGeerinck/laravel-newsletter | [open](records/magazines-nathangeerinck-laravel-newsletter-f4022f65.md) |
 | `github_search_magazines-5dbc1b6fc1cad5` | api-evangelist/vox-media | [open](records/magazines-api-evangelist-vox-media-808b1be2.md) |
 | `github_search_magazines-6179013ff065c3` | WesternFriend/westernfriend.org | [open](records/magazines-westernfriend-westernfriend-org-43c3421f.md) |
+| `github_search_magazines-62c2264bf74d18` | knadh/listmonk | [open](records/magazines-knadh-listmonk-78416411.md) |
 | `github_search_magazines-62f5d6a18ffc14` | wilder-minds/CodeRazorPages | [open](records/magazines-wilder-minds-coderazorpages-6ebbb742.md) |
 | `github_search_magazines-6332a3a84a3254` | OS2World/DEV-SAMPLES-SOM-Name_Lookup_SOM | [open](records/magazines-os2world-dev-samples-som-name-lookup-som-34eabd13.md) |
 | `github_search_magazines-6407b14980f040` | nasif43/devmag | [open](records/magazines-nasif43-devmag-ad55760c.md) |
 | `github_search_magazines-64d3a892ccea29` | rubin55/gdm-examples | [open](records/magazines-rubin55-gdm-examples-a96bfaf6.md) |
 | `github_search_magazines-67917ba92de142` | lervag/wiki.vim | [open](records/magazines-lervag-wiki-vim-2ff43f08.md) |
+| `github_search_magazines-67abd4ba01eaf2` | tj/news-api | [open](records/magazines-tj-news-api-1cb02c1f.md) |
 | `github_search_magazines-6855975874f1af` | akka/akka-persistence-jdbc | [open](records/magazines-akka-akka-persistence-jdbc-422551b6.md) |
 | `github_search_magazines-6ac776cd58c813` | TryGhost/London | [open](records/magazines-tryghost-london-a1950ab3.md) |
 | `github_search_magazines-6d8e2deb8c689a` | kotlin-digest/weekly | [open](records/magazines-kotlin-digest-weekly-a20aa634.md) |
+| `github_search_magazines-6f2b7de7fb1424` | pmoskovi/kafka-learning-resources | [open](records/magazines-pmoskovi-kafka-learning-resources-bd3ddacf.md) |
 | `github_search_magazines-712d4d29526438` | jrnl-org/jrnl | [open](records/magazines-jrnl-org-jrnl-c7f0a1c9.md) |
 | `github_search_magazines-72526d473c8bbe` | Yashikar/iostraininginstituteinchennai | [open](records/magazines-yashikar-iostraininginstituteinchennai-83d6cb28.md) |
+| `github_search_magazines-74acfa8f1d3356` | forwardemail/forwardemail.net | [open](records/magazines-forwardemail-forwardemail-net-fd72fd0d.md) |
+| `github_search_magazines-74da53f1c085f9` | mikeckennedy/listmonk | [open](records/magazines-mikeckennedy-listmonk-b97a2a8b.md) |
+| `github_search_magazines-752dad5c64be9a` | TalEliyahu/awesome-security-newsletters | [open](records/magazines-taleliyahu-awesome-security-newsletters-16430f65.md) |
+| `github_search_magazines-761bf425ed1f12` | hatnote/weeklypedia | [open](records/magazines-hatnote-weeklypedia-1bfb7caa.md) |
+| `github_search_magazines-76f516e224ae09` | jvm-bloggers/jvm-bloggers | [open](records/magazines-jvm-bloggers-jvm-bloggers-87768bc4.md) |
+| `github_search_magazines-7a835fc5b59aac` | spatie/Mailcoach | [open](records/magazines-spatie-mailcoach-b99f99d2.md) |
 | `github_search_magazines-7cb28bfc61bf93` | OS2World/DEV-SAMPLES-C-PM-custct | [open](records/magazines-os2world-dev-samples-c-pm-custct-515356c6.md) |
+| `github_search_magazines-7cb79477bd5d3a` | kujian/frontendDaily | [open](records/magazines-kujian-frontenddaily-cd11d2ae.md) |
 | `github_search_magazines-7d1bdd456dffdf` | brandonp2412/Quitter | [open](records/magazines-brandonp2412-quitter-639e86aa.md) |
 | `github_search_magazines-7f843f48d68ec9` | ReScience/ReScience | [open](records/magazines-rescience-rescience-6e84e985.md) |
 | `github_search_magazines-813ef91cb274de` | AmmarAbouZor/tui-journal | [open](records/magazines-ammarabouzor-tui-journal-e8a3ec22.md) |
@@ -7583,29 +7631,41 @@
 | `github_search_magazines-8292f7c0c502ba` | rstudio/rticles | [open](records/magazines-rstudio-rticles-1354fe57.md) |
 | `github_search_magazines-84b93636506228` | MagazineduWebdesign/MagazineduWebdesign.github.io | [open](records/magazines-magazineduwebdesign-magazineduwebdesign-github-io-b16a7ce8.md) |
 | `github_search_magazines-862fa5e07e2d9c` | sunbliss/photorama | [open](records/magazines-sunbliss-photorama-e8437230.md) |
+| `github_search_magazines-891c36261c707a` | ayushi7rawat/Ultimate-Python-Resource-Hub | [open](records/magazines-ayushi7rawat-ultimate-python-resource-hub-7be0a988.md) |
+| `github_search_magazines-8982c6becf8d87` | dyweb/weekly | [open](records/magazines-dyweb-weekly-376bb2c0.md) |
 | `github_search_magazines-8a257765fceb95` | TryGhost/Editorial | [open](records/magazines-tryghost-editorial-24923224.md) |
 | `github_search_magazines-8aa3e73ad88a07` | jabbalaci/Linux-Voice-issues | [open](records/magazines-jabbalaci-linux-voice-issues-a36759b2.md) |
 | `github_search_magazines-8c99f3b9984578` | TryGhost/Dawn | [open](records/magazines-tryghost-dawn-9b37e74e.md) |
+| `github_search_magazines-8ca6d2f6103cd0` | putyourlightson/craft-campaign | [open](records/magazines-putyourlightson-craft-campaign-2bf1cbbc.md) |
 | `github_search_magazines-8cb1646e1293ed` | dlh01/monthly-magazine | [open](records/magazines-dlh01-monthly-magazine-75487f99.md) |
 | `github_search_magazines-8dcd6d6d66c7f9` | MGlarman/ameRevisedv4 | [open](records/magazines-mglarman-amerevisedv4-4b483fe0.md) |
 | `github_search_magazines-8df5ce3f3c3acd` | rdrv/technical-challenge-react-exame | [open](records/magazines-rdrv-technical-challenge-react-exame-f4542770.md) |
 | `github_search_magazines-8e869252e14452` | alexellis/explorerrobot | [open](records/magazines-alexellis-explorerrobot-4a62e07a.md) |
 | `github_search_magazines-8e9a24ff131993` | angea/pocorgtfo | [open](records/magazines-angea-pocorgtfo-be08ccee.md) |
 | `github_search_magazines-8f2893dae892fd` | pentix/qjournalctl | [open](records/magazines-pentix-qjournalctl-c3bf77ef.md) |
+| `github_search_magazines-926ae8d93ef152` | TangSY/dailydawn | [open](records/magazines-tangsy-dailydawn-1123cfbc.md) |
 | `github_search_magazines-958401e20a81cb` | TryGhost/Source | [open](records/magazines-tryghost-source-b70e1161.md) |
 | `github_search_magazines-96ac225d76b355` | OS2World/DRV-HRTIMER | [open](records/magazines-os2world-drv-hrtimer-58f3acac.md) |
 | `github_search_magazines-96e002e17e089a` | kotlin-magazine/kotlin-magazine | [open](records/magazines-kotlin-magazine-kotlin-magazine-07c7909d.md) |
+| `github_search_magazines-9782d4f8a3fced` | mnayef95/Android-Weekly | [open](records/magazines-mnayef95-android-weekly-9281b694.md) |
+| `github_search_magazines-97f115f8a06bd3` | spatie/laravel-newsletter | [open](records/magazines-spatie-laravel-newsletter-fd258262.md) |
 | `github_search_magazines-99e43267cb8b5b` | hashirshoaeb/star_book | [open](records/magazines-hashirshoaeb-star-book-7ed3063e.md) |
 | `github_search_magazines-9acb8c9be6352b` | bytecascade11/isamueldev | [open](records/magazines-bytecascade11-isamueldev-d4ea6d6d.md) |
 | `github_search_magazines-9b39178d52d412` | OS2World/DEV-SAMPLES-C-ColorWheel | [open](records/magazines-os2world-dev-samples-c-colorwheel-50ebb784.md) |
+| `github_search_magazines-9b642fe811d8a0` | i365dev/LetterDrop | [open](records/magazines-i365dev-letterdrop-b7eb2ba6.md) |
+| `github_search_magazines-9cf8cf42e5dd9a` | Billionmail/BillionMail | [open](records/magazines-billionmail-billionmail-b720415b.md) |
 | `github_search_magazines-a04d053e78aaf8` | Mahesh-Landge/Play-Store-App-Review-Analysis-Capstone-Project-1-Mahesh-Landge | [open](records/magazines-mahesh-landge-play-store-app-review-analysis-capstone-project-1-mahesh-landge-a9b39ae5.md) |
 | `github_search_magazines-a085ef814e723b` | gregja/sql4curious | [open](records/magazines-gregja-sql4curious-f0eb1da0.md) |
 | `github_search_magazines-a1f160b256a586` | makramjandar/NoOps-Yes-Back2Bash | [open](records/magazines-makramjandar-noops-yes-back2bash-61f2e7d8.md) |
 | `github_search_magazines-a2c2ed862296b3` | joergi/MagPiDownloader | [open](records/magazines-joergi-magpidownloader-f5caa517.md) |
+| `github_search_magazines-a5d49ecbb77cd5` | mkiser/WTFJHT | [open](records/magazines-mkiser-wtfjht-b71d6874.md) |
 | `github_search_magazines-a6463ddec0bc43` | journiv/journiv-app | [open](records/magazines-journiv-journiv-app-b0d9c829.md) |
+| `github_search_magazines-a7e59b72c4e3f5` | bahdotsh/blogr | [open](records/magazines-bahdotsh-blogr-a26c09e7.md) |
 | `github_search_magazines-a8f32b0f2d2321` | chrisnmorrison/revista-gatsby-blog-magazine | [open](records/magazines-chrisnmorrison-revista-gatsby-blog-magazine-99fc1244.md) |
 | `github_search_magazines-a9ef86112493f3` | pomirleanu/PHP-5-Zend-study-guide-2ndEd | [open](records/magazines-pomirleanu-php-5-zend-study-guide-2nded-068fd5f2.md) |
+| `github_search_magazines-aa8aa2243b34f2` | phpList/phplist3 | [open](records/magazines-phplist-phplist3-2541a7c7.md) |
 | `github_search_magazines-abc21179d7a798` | sergeyyarkov/digital-store | [open](records/magazines-sergeyyarkov-digital-store-9dc6b702.md) |
+| `github_search_magazines-abc8000febd40a` | SwiftWeekly/swiftweekly.github.io | [open](records/magazines-swiftweekly-swiftweekly-github-io-8f5db8c4.md) |
 | `github_search_magazines-ac5ad865b4e331` | OS2World/DEV-SAMPLES-CPP-PM-CTLCPP | [open](records/magazines-os2world-dev-samples-cpp-pm-ctlcpp-e109fadd.md) |
 | `github_search_magazines-ad5f8166331c9d` | MediaExpres/magazin-paine | [open](records/magazines-mediaexpres-magazin-paine-f0d1c4b5.md) |
 | `github_search_magazines-ad8f03d9711e5c` | atrenton/MyJournal.Notebook | [open](records/magazines-atrenton-myjournal-notebook-69c69e5d.md) |
@@ -7614,6 +7674,7 @@
 | `github_search_magazines-b055d79dc83593` | TryGhost/Dope | [open](records/magazines-tryghost-dope-f0fa28be.md) |
 | `github_search_magazines-b0928f7c33acdb` | quantixed/manuscript-templates | [open](records/magazines-quantixed-manuscript-templates-0fd952ae.md) |
 | `github_search_magazines-b0cf8884a5ab90` | victornnaji/HacktoberMagazine | [open](records/magazines-victornnaji-hacktobermagazine-6d3d065f.md) |
+| `github_search_magazines-b12ac9cfe4e8a0` | TryGhost/Themes | [open](records/magazines-tryghost-themes-8b8724da.md) |
 | `github_search_magazines-b14502b4ea5725` | gkostka/lwext4 | [open](records/magazines-gkostka-lwext4-ab78cb93.md) |
 | `github_search_magazines-b28ba52b3dd3f4` | OS2World/DEV-SAMPLES-EDM2-Vol2_Issue7 | [open](records/magazines-os2world-dev-samples-edm2-vol2-issue7-d4b757d9.md) |
 | `github_search_magazines-b33fcaf63db8d2` | DenserMeerkat/June | [open](records/magazines-densermeerkat-june-9f006367.md) |
@@ -7622,43 +7683,70 @@
 | `github_search_magazines-b4c98963d8c597` | razacreative/blog-dark | [open](records/magazines-razacreative-blog-dark-50487664.md) |
 | `github_search_magazines-b4e7ac3cf6cea3` | skyme5/magzdb | [open](records/magazines-skyme5-magzdb-1a11262d.md) |
 | `github_search_magazines-b75a31317bf507` | OS2World/DEV-SAMPLES-C-prnt3 | [open](records/magazines-os2world-dev-samples-c-prnt3-d671bbc2.md) |
+| `github_search_magazines-b8753516b9bbcc` | saadmk11/django-newsfeed | [open](records/magazines-saadmk11-django-newsfeed-0b109e3a.md) |
 | `github_search_magazines-b93212d2960802` | Aryia-Behroziuan/Other-sources | [open](records/magazines-aryia-behroziuan-other-sources-4fbf9749.md) |
 | `github_search_magazines-ba5b67103076f0` | celerforge/freenote | [open](records/magazines-celerforge-freenote-5061a273.md) |
 | `github_search_magazines-ba7469108c5621` | OS2World/DEV-SAMPLES-PC_Magazine | [open](records/magazines-os2world-dev-samples-pc-magazine-c1e0c450.md) |
+| `github_search_magazines-ba87e71ef386d3` | ElliotKillick/rss2newsletter | [open](records/magazines-elliotkillick-rss2newsletter-2594c02c.md) |
 | `github_search_magazines-bbd48ea2b84079` | evolution-gaming/kafka-journal | [open](records/magazines-evolution-gaming-kafka-journal-8b39d62d.md) |
+| `github_search_magazines-bd752de41859d3` | rust-gamedev/rust-gamedev.github.io | [open](records/magazines-rust-gamedev-rust-gamedev-github-io-a7f949a1.md) |
 | `github_search_magazines-bda6d5f4253f82` | openjournals/joss | [open](records/magazines-openjournals-joss-843100bc.md) |
 | `github_search_magazines-bdf75f1b2e53e6` | mindori/linkpress | [open](records/magazines-mindori-linkpress-58a6b2c5.md) |
+| `github_search_magazines-be36433353226c` | TomBener/stay-away-from-wechat | [open](records/magazines-tombener-stay-away-from-wechat-1558b5c8.md) |
 | `github_search_magazines-c1f9470504dc69` | appml/neutrinote | [open](records/magazines-appml-neutrinote-0348cb9f.md) |
+| `github_search_magazines-c26342c50a7812` | ryanking13/awesome-korean-newsletters | [open](records/magazines-ryanking13-awesome-korean-newsletters-8d11a1ba.md) |
 | `github_search_magazines-c2c73f4954a50f` | OS2World/DEV-SAMPLES-C-PM-ListBox2 | [open](records/magazines-os2world-dev-samples-c-pm-listbox2-8f2eaf5b.md) |
 | `github_search_magazines-c35b0fc30d4ed6` | petterh/range-slider | [open](records/magazines-petterh-range-slider-f875d29f.md) |
 | `github_search_magazines-c4825c793807e9` | schollz/gojot | [open](records/magazines-schollz-gojot-d3f97729.md) |
 | `github_search_magazines-c4a6702a5830eb` | laminmcamara/build-magazine | [open](records/magazines-laminmcamara-build-magazine-20001ace.md) |
+| `github_search_magazines-c5af88836e7fa2` | ma2za/python-substack | [open](records/magazines-ma2za-python-substack-1a850e06.md) |
 | `github_search_magazines-c8637e5c18aea6` | TryGhost/Alto | [open](records/magazines-tryghost-alto-4eb3cc9f.md) |
+| `github_search_magazines-c8a5b445a3dbc3` | garrrikkotua/morningly | [open](records/magazines-garrrikkotua-morningly-39d4abf3.md) |
 | `github_search_magazines-caabab3390d46f` | fcakyon/phd-skills | [open](records/magazines-fcakyon-phd-skills-152d55ed.md) |
+| `github_search_magazines-cac23be4f2a507` | agnitas-org/openemm | [open](records/magazines-agnitas-org-openemm-fcd3cf07.md) |
 | `github_search_magazines-cba4cc9d613eb6` | lelong37/msdn-spa-primer | [open](records/magazines-lelong37-msdn-spa-primer-c79ae5bd.md) |
+| `github_search_magazines-cc38383ab729b3` | webpro/awesome-newsletters | [open](records/magazines-webpro-awesome-newsletters-571cf561.md) |
 | `github_search_magazines-ce3ee1ef803742` | GeneBO98/tradetally | [open](records/magazines-genebo98-tradetally-aee8dd9b.md) |
 | `github_search_magazines-ce5b3c4bac1760` | BoundfoxStudios/windows-developer-unity | [open](records/magazines-boundfoxstudios-windows-developer-unity-c6ab0012.md) |
 | `github_search_magazines-d0029e30ca31bd` | shining1984/PL-Compiler-Resource | [open](records/magazines-shining1984-pl-compiler-resource-0aa8b0f1.md) |
 | `github_search_magazines-d014817d22bf2b` | lostdesign/linked | [open](records/magazines-lostdesign-linked-d3bfd925.md) |
 | `github_search_magazines-d1eb04e07e81ff` | ajaymnk/open-electronics | [open](records/magazines-ajaymnk-open-electronics-049b0b24.md) |
+| `github_search_magazines-d301f77e875ea0` | stlin256/OpenHomepage-V2 | [open](records/magazines-stlin256-openhomepage-v2-7462e2f1.md) |
+| `github_search_magazines-d3df7f3aa8e5fb` | consoledotdev/home | [open](records/magazines-consoledotdev-home-c006fbdc.md) |
 | `github_search_magazines-d4040362297900` | zineland/zine | [open](records/magazines-zineland-zine-e845a0d6.md) |
 | `github_search_magazines-d412b37e708333` | tomoTaka01/BindingExampleExercise | [open](records/magazines-tomotaka01-bindingexampleexercise-770b6a16.md) |
 | `github_search_magazines-d4a524f984fcc7` | OS2World/DEV-SAMPLES-PSD-Install | [open](records/magazines-os2world-dev-samples-psd-install-17655c4c.md) |
+| `github_search_magazines-d534bc363240a3` | je-suis-tm/web-scraping | [open](records/magazines-je-suis-tm-web-scraping-d55ae274.md) |
 | `github_search_magazines-d5b0fc5a0c4210` | icodemag/icodemag.github.io | [open](records/magazines-icodemag-icodemag-github-io-2b554d80.md) |
+| `github_search_magazines-da1a685e0ee5f7` | GrapesJS/mjml | [open](records/magazines-grapesjs-mjml-98e8c883.md) |
+| `github_search_magazines-db3d6710cd8f60` | dcodesdev/LetterSpace | [open](records/magazines-dcodesdev-letterspace-64787355.md) |
+| `github_search_magazines-dc14d09100b8a0` | alternbits/awesome-ai-newsletters | [open](records/magazines-alternbits-awesome-ai-newsletters-f1aa7990.md) |
 | `github_search_magazines-dcafd1be5236af` | fluent-plugins-nursery/fluent-plugin-systemd | [open](records/magazines-fluent-plugins-nursery-fluent-plugin-systemd-41131fe9.md) |
+| `github_search_magazines-de78cb47e67a80` | berrysauce/microletter | [open](records/magazines-berrysauce-microletter-edb280fb.md) |
+| `github_search_magazines-de7de085239f68` | TryGhost/Edition | [open](records/magazines-tryghost-edition-30f487ea.md) |
 | `github_search_magazines-dea12bd63c8576` | gillkyle/sol-journal | [open](records/magazines-gillkyle-sol-journal-5e3d3b58.md) |
+| `github_search_magazines-df44fd6ae39b08` | bytemain/mail2rss | [open](records/magazines-bytemain-mail2rss-7ce072c5.md) |
 | `github_search_magazines-e310bff49359bb` | TryGhost/Wave | [open](records/magazines-tryghost-wave-7da5b2a4.md) |
 | `github_search_magazines-e5448ef7b23282` | ousmanabakar/Responsive-Web-Design-freecodecamp | [open](records/magazines-ousmanabakar-responsive-web-design-freecodecamp-719d13d8.md) |
 | `github_search_magazines-e5afabe8da1a6f` | mmarquezs/libgen-python-api | [open](records/magazines-mmarquezs-libgen-python-api-47da50e4.md) |
 | `github_search_magazines-e6b42fead1dc16` | massimoaria/bibliometrix | [open](records/magazines-massimoaria-bibliometrix-de0b9efa.md) |
+| `github_search_magazines-e7867f6950d940` | marcomoauro/substack-mcp | [open](records/magazines-marcomoauro-substack-mcp-6ff94f70.md) |
 | `github_search_magazines-e7f2a41b89c52f` | GitJournal/GitJournal | [open](records/magazines-gitjournal-gitjournal-ce79e461.md) |
 | `github_search_magazines-eae1076631d89e` | TheAxeDude/ZiniGo | [open](records/magazines-theaxedude-zinigo-53c2b956.md) |
+| `github_search_magazines-ecfdb7c1749ce6` | jazzband/django-newsletter | [open](records/magazines-jazzband-django-newsletter-e0a873c3.md) |
+| `github_search_magazines-edf568d102f12e` | sgermosen/xReader | [open](records/magazines-sgermosen-xreader-5a8bf3da.md) |
 | `github_search_magazines-ee58aa40b3f81c` | openlibhums/janeway | [open](records/magazines-openlibhums-janeway-b53e06a3.md) |
 | `github_search_magazines-f0f195552ed0a3` | chunfeilung/bonaparticle | [open](records/magazines-chunfeilung-bonaparticle-41052ee7.md) |
+| `github_search_magazines-f3cf4fe06d500f` | Anyway-FM/Anyway.Post | [open](records/magazines-anyway-fm-anyway-post-39e4bff5.md) |
 | `github_search_magazines-f462185f6d73e7` | triforkams/sdj-angular-article | [open](records/magazines-triforkams-sdj-angular-article-2bad380f.md) |
+| `github_search_magazines-f713b49ac6f5b1` | eduardosasso/bullish | [open](records/magazines-eduardosasso-bullish-a9fc0358.md) |
+| `github_search_magazines-f86824f08ff42e` | GauthierNelkinsky/ShipShipShip | [open](records/magazines-gauthiernelkinsky-shipshipship-7babedc1.md) |
 | `github_search_magazines-fa7c3de40ecf41` | Eleven-Trading/TradeNote | [open](records/magazines-eleven-trading-tradenote-55d04e82.md) |
 | `github_search_magazines-fdc622944d9612` | godofredoninja/Mapache | [open](records/magazines-godofredoninja-mapache-0df28441.md) |
+| `github_search_magazines-fdc735b1fefd49` | TryGhost/Journal | [open](records/magazines-tryghost-journal-0be492cf.md) |
 | `github_search_magazines-fe05fb9f8db504` | rdrv/technical-challenge-wordpress-exame | [open](records/magazines-rdrv-technical-challenge-wordpress-exame-33c80f1a.md) |
+| `github_search_magazines-ff5fe64aaadd22` | alaskasquirrel/Email-newsletter-RSS | [open](records/magazines-alaskasquirrel-email-newsletter-rss-42168746.md) |
+| `github_search_magazines-fff189a5a5125b` | FiltersHeroes/PolishAnnoyanceFilters | [open](records/magazines-filtersheroes-polishannoyancefilters-7c5a5ef3.md) |
 | `github_search_maps-0114b1d76c7cc3` | lovebetterworld/gis-spicy-hot-pot | [open](records/maps-lovebetterworld-gis-spicy-hot-pot-68f427a8.md) |
 | `github_search_maps-0168275f9945ed` | randyzwitch/streamlit-folium | [open](records/maps-randyzwitch-streamlit-folium-fb03280d.md) |
 | `github_search_maps-02296dab4c6fbe` | jcubic/wayne | [open](records/maps-jcubic-wayne-706674a0.md) |
@@ -10266,6 +10354,7 @@
 | `github_search_swift-065b05760f5739` | AppHouseKitchen/AlDente-Battery_Care_and_Monitoring | [open](records/swift-apphousekitchen-aldente-battery-care-and-monitoring-e11a4577.md) |
 | `github_search_swift-075f7925f555ab` | daprice/iOS-Tactile-Slider | [open](records/swift-daprice-ios-tactile-slider-619cec50.md) |
 | `github_search_swift-078ea89c6979c6` | Dimillian/IceCubesApp | [open](records/swift-dimillian-icecubesapp-9d130079.md) |
+| `github_search_swift-09a0a3439ba6af` | apple/swift-log | [open](records/swift-apple-swift-log-9120ca11.md) |
 | `github_search_swift-0b51ad8fb6ee59` | AppHouseKitchen/AlDente-Battery_Care_and_Monitoring | [open](records/swift-apphousekitchen-aldente-battery-care-and-monitoring-af6d47ab.md) |
 | `github_search_swift-0b6eab6770424f` | ChartsOrg/Charts | [open](records/swift-chartsorg-charts-0664a9e9.md) |
 | `github_search_swift-0b828fa8a0d2e8` | exelban/stats | [open](records/swift-exelban-stats-903c8254.md) |
@@ -10285,6 +10374,8 @@
 | `github_search_swift-123c5a0680be5b` | jordanbaird/Ice | [open](records/swift-jordanbaird-ice-8cede194.md) |
 | `github_search_swift-12a445ad5e2ff5` | linearmouse/linearmouse | [open](records/swift-linearmouse-linearmouse-5ad2b1d0.md) |
 | `github_search_swift-1340d380ef19d2` | ZhgChgLi/ZMarkupParser | [open](records/swift-zhgchgli-zmarkupparser-c212d4d4.md) |
+| `github_search_swift-136a1c55bd34f3` | ArtSabintsev/Guitar | [open](records/swift-artsabintsev-guitar-edf44630.md) |
+| `github_search_swift-1517089b3ecb80` | choefele/swift-lambda-app | [open](records/swift-choefele-swift-lambda-app-887314ca.md) |
 | `github_search_swift-153b7d91b6f848` | Juanpe/SkeletonView | [open](records/swift-juanpe-skeletonview-1a92cf44.md) |
 | `github_search_swift-1572c3a72b3103` | supertone-inc/supertonic | [open](records/swift-supertone-inc-supertonic-88cf1d73.md) |
 | `github_search_swift-1578f4edf85248` | MonitorControl/MonitorControl | [open](records/swift-monitorcontrol-monitorcontrol-71ba7549.md) |
@@ -10304,8 +10395,10 @@
 | `github_search_swift-1feb07ee37c24a` | JohnCoates/Aerial | [open](records/swift-johncoates-aerial-0c1a1e38.md) |
 | `github_search_swift-200f9d0308227c` | VakhoKontridze/VComponents | [open](records/swift-vakhokontridze-vcomponents-baf9987a.md) |
 | `github_search_swift-222d7c987d3379` | dominikmartn/ProgressiveBlurHeader | [open](records/swift-dominikmartn-progressiveblurheader-f06e99dc.md) |
+| `github_search_swift-22772de187ad9c` | tw93/Mole | [open](records/swift-tw93-mole-8d180f51.md) |
 | `github_search_swift-22988c652830c5` | jaywcjlove/PermissionFlow | [open](records/swift-jaywcjlove-permissionflow-44ca9e55.md) |
 | `github_search_swift-23166eee63ffdd` | OpenEmu/OpenEmu | [open](records/swift-openemu-openemu-a2136e46.md) |
+| `github_search_swift-23afd48832f9a1` | apple/swift-metrics | [open](records/swift-apple-swift-metrics-38873b0e.md) |
 | `github_search_swift-23c70e2a950e0f` | mozilla-mobile/firefox-ios | [open](records/swift-mozilla-mobile-firefox-ios-2083324a.md) |
 | `github_search_swift-23d848a8ee847e` | robb/Cartography | [open](records/swift-robb-cartography-d7790946.md) |
 | `github_search_swift-247f8d624ff180` | sindresorhus/Percentage | [open](records/swift-sindresorhus-percentage-aa64e26d.md) |
@@ -10335,6 +10428,8 @@
 | `github_search_swift-397bfe1d8c5b4a` | nikitabobko/AeroSpace | [open](records/swift-nikitabobko-aerospace-2da5d887.md) |
 | `github_search_swift-3a38a3fd440a6b` | rryam/MeshingKit | [open](records/swift-rryam-meshingkit-b2db2e02.md) |
 | `github_search_swift-3a4de99988e779` | bitgapp/eqMac | [open](records/swift-bitgapp-eqmac-613131da.md) |
+| `github_search_swift-3c058c755480f3` | vapor-community/vapor-aws-lambda-runtime | [open](records/swift-vapor-community-vapor-aws-lambda-runtime-99d3d03d.md) |
+| `github_search_swift-3d27ed84907802` | Jinxiansen/Awesome-Server-Side-Swift | [open](records/swift-jinxiansen-awesome-server-side-swift-0df7be5c.md) |
 | `github_search_swift-3fcf632fdf4f2d` | marcosgriselli/ViewAnimator | [open](records/swift-marcosgriselli-viewanimator-ead20c4c.md) |
 | `github_search_swift-40253a453eaf4d` | spacenation/swiftui-sliders | [open](records/swift-spacenation-swiftui-sliders-3c2bf396.md) |
 | `github_search_swift-405d670d18b758` | HeroTransitions/Hero | [open](records/swift-herotransitions-hero-9ca9fa5f.md) |
@@ -10352,6 +10447,7 @@
 | `github_search_swift-48b9a5864fda8c` | kodecocodes/swift-algorithm-club | [open](records/swift-kodecocodes-swift-algorithm-club-e9dbf72c.md) |
 | `github_search_swift-4991168d5a6241` | xmartlabs/Eureka | [open](records/swift-xmartlabs-eureka-8c5efc8b.md) |
 | `github_search_swift-4aaf28b6288e06` | ashleymills/Reachability.swift | [open](records/swift-ashleymills-reachability-swift-2be6635a.md) |
+| `github_search_swift-4abfd29125a608` | dkhamsing/open-source-ios-apps | [open](records/swift-dkhamsing-open-source-ios-apps-108f495a.md) |
 | `github_search_swift-4b2aecb76b8b03` | Clipy/Clipy | [open](records/swift-clipy-clipy-177823aa.md) |
 | `github_search_swift-4cd9d6317f9843` | apple/container | [open](records/swift-apple-container-01bf22c8.md) |
 | `github_search_swift-4d0d7958400c9b` | tisfeng/Easydict | [open](records/swift-tisfeng-easydict-efdf4df7.md) |
@@ -10392,6 +10488,7 @@
 | `github_search_swift-6c04491e633a96` | MengTo/Spring | [open](records/swift-mengto-spring-c642114a.md) |
 | `github_search_swift-6c530d38791552` | toptal/gitignore.io | [open](records/swift-toptal-gitignore-io-af3ffa2e.md) |
 | `github_search_swift-6e4d1c152da2cb` | hackiftekhar/IQKeyboardManager | [open](records/swift-hackiftekhar-iqkeyboardmanager-18116034.md) |
+| `github_search_swift-6faf320628a91a` | brokenhandsio/swift-webauthn | [open](records/swift-brokenhandsio-swift-webauthn-17084b06.md) |
 | `github_search_swift-6fe22a3c3d849d` | ronitsingh10/FineTune | [open](records/swift-ronitsingh10-finetune-1c7fcd89.md) |
 | `github_search_swift-7044ba6e1c4adc` | omaralbeik/Drops | [open](records/swift-omaralbeik-drops-db7497c5.md) |
 | `github_search_swift-705dc81930ba60` | pock/pock | [open](records/swift-pock-pock-addec24a.md) |
@@ -10404,6 +10501,7 @@
 | `github_search_swift-72290b62db71af` | krzysztofzablocki/Sourcery | [open](records/swift-krzysztofzablocki-sourcery-82c012e3.md) |
 | `github_search_swift-7237ef4023fe22` | ipader/SwiftGuide | [open](records/swift-ipader-swiftguide-9e486914.md) |
 | `github_search_swift-72602537da139b` | WenchaoD/FSPagerView | [open](records/swift-wenchaod-fspagerview-40bff089.md) |
+| `github_search_swift-72c17aab2ebe18` | NativeScript/NativeScript | [open](records/swift-nativescript-nativescript-2f4e3a6a.md) |
 | `github_search_swift-72e13f54413cdb` | ReactiveX/RxSwift | [open](records/swift-reactivex-rxswift-c67a8309.md) |
 | `github_search_swift-739a826afaae0e` | ochococo/Design-Patterns-In-Swift | [open](records/swift-ochococo-design-patterns-in-swift-43f28d47.md) |
 | `github_search_swift-73d4a137b027d4` | apple/containerization | [open](records/swift-apple-containerization-f439a10d.md) |
@@ -10414,6 +10512,7 @@
 | `github_search_swift-7891c0640d519d` | PerfectlySoft/Perfect | [open](records/swift-perfectlysoft-perfect-0628deb7.md) |
 | `github_search_swift-7a137105fac4ec` | airbnb/lottie-ios | [open](records/swift-airbnb-lottie-ios-ea069736.md) |
 | `github_search_swift-7eed3559508525` | jordanbaird/Ice | [open](records/swift-jordanbaird-ice-cbd56144.md) |
+| `github_search_swift-7f9ea2ec756738` | alchemy-swift/alchemy | [open](records/swift-alchemy-swift-alchemy-6ca3c9b1.md) |
 | `github_search_swift-7ff33ef62173b3` | vorssaintapp/vorssaint-utils | [open](records/swift-vorssaintapp-vorssaint-utils-2cb8bbc0.md) |
 | `github_search_swift-80a203f8e4d67a` | seemoo-lab/openhaystack | [open](records/swift-seemoo-lab-openhaystack-1e661f46.md) |
 | `github_search_swift-810d97ee0b6bfa` | KrishKrosh/TrackWeight | [open](records/swift-krishkrosh-trackweight-dd829cdd.md) |
@@ -10424,8 +10523,10 @@
 | `github_search_swift-879f1f3d94b1f6` | Stengo/DeskPad | [open](records/swift-stengo-deskpad-dc88db22.md) |
 | `github_search_swift-8a02a1a3afe74c` | Ramotion/folding-cell | [open](records/swift-ramotion-folding-cell-87d9f622.md) |
 | `github_search_swift-8b161ba95012e9` | Sjj1024/PakePlus-iOS | [open](records/swift-sjj1024-pakeplus-ios-084bb884.md) |
+| `github_search_swift-8b8c401bc53db5` | swift-server/async-http-client | [open](records/swift-swift-server-async-http-client-45f1da28.md) |
 | `github_search_swift-8c520f0341b9ad` | Mortennn/Dozer | [open](records/swift-mortennn-dozer-5a851823.md) |
 | `github_search_swift-8d5337c854023b` | ianyh/Amethyst | [open](records/swift-ianyh-amethyst-89eb6987.md) |
+| `github_search_swift-8ddbb86b2176f7` | swift-extras/swift-extras-json | [open](records/swift-swift-extras-swift-extras-json-d7e2b1de.md) |
 | `github_search_swift-8e0b9c165c88d8` | airbnb/lottie-ios | [open](records/swift-airbnb-lottie-ios-63aa9a28.md) |
 | `github_search_swift-8e385d995ba62d` | Whisky-App/Whisky | [open](records/swift-whisky-app-whisky-01ab3144.md) |
 | `github_search_swift-8eabe7fb65b05d` | GEOSwift/GEOSwift | [open](records/swift-geoswift-geoswift-4f0bb95b.md) |
@@ -10451,6 +10552,7 @@
 | `github_search_swift-a1ac53ef71d92c` | darrylmorley/whatcable | [open](records/swift-darrylmorley-whatcable-e1568d44.md) |
 | `github_search_swift-a3d33e400b0a47` | hackiftekhar/IQKeyboardManager | [open](records/swift-hackiftekhar-iqkeyboardmanager-270f7036.md) |
 | `github_search_swift-a4feafb01791a8` | SwiftGen/SwiftGen | [open](records/swift-swiftgen-swiftgen-b6a9b03e.md) |
+| `github_search_swift-a5b518f21f16d4` | choefele/AlexaSkillsKit | [open](records/swift-choefele-alexaskillskit-239f89f5.md) |
 | `github_search_swift-a5f0bd845079fd` | Whisky-App/Whisky | [open](records/swift-whisky-app-whisky-ec3aa391.md) |
 | `github_search_swift-a7719a557864c6` | onevcat/Kingfisher | [open](records/swift-onevcat-kingfisher-fc937cbe.md) |
 | `github_search_swift-a7f87d9e26ff48` | SnapKit/SnapKit | [open](records/swift-snapkit-snapkit-842184a7.md) |
@@ -10465,6 +10567,7 @@
 | `github_search_swift-b0980cc0c8ce57` | nikitabobko/AeroSpace | [open](records/swift-nikitabobko-aerospace-c0101588.md) |
 | `github_search_swift-b1152c0970585e` | ochococo/Design-Patterns-In-Swift | [open](records/swift-ochococo-design-patterns-in-swift-3f09d09a.md) |
 | `github_search_swift-b16acb8bfe0fc0` | utmapp/UTM | [open](records/swift-utmapp-utm-cd8eae5c.md) |
+| `github_search_swift-b1733ec8e670ca` | jakeheis/Shout | [open](records/swift-jakeheis-shout-67672dd3.md) |
 | `github_search_swift-b2e5a69d2d6b47` | gao-sun/eul | [open](records/swift-gao-sun-eul-73d27248.md) |
 | `github_search_swift-b4981b798160f0` | nachonavarro/Pages | [open](records/swift-nachonavarro-pages-d3acd69d.md) |
 | `github_search_swift-b551c1d664aceb` | sanzaru/SimpleToast | [open](records/swift-sanzaru-simpletoast-1145da94.md) |
@@ -10495,6 +10598,7 @@
 | `github_search_swift-cc9659029df834` | manaflow-ai/cmux | [open](records/swift-manaflow-ai-cmux-394b6166.md) |
 | `github_search_swift-cd8c37b9b56c5f` | daprice/Variablur | [open](records/swift-daprice-variablur-d07bc4f2.md) |
 | `github_search_swift-ce3c620107271e` | swiftlang/swift-package-manager | [open](records/swift-swiftlang-swift-package-manager-a5f8ce45.md) |
+| `github_search_swift-ce55728e4e15c9` | rarestype/swift-json | [open](records/swift-rarestype-swift-json-07634c5a.md) |
 | `github_search_swift-ce64032607d1e2` | AudioKit/AudioKit | [open](records/swift-audiokit-audiokit-0a7c5399.md) |
 | `github_search_swift-cecc16e8b5e602` | groue/GRDB.swift | [open](records/swift-groue-grdb-swift-b95b3c97.md) |
 | `github_search_swift-ceefc3971c05bf` | sindresorhus/DockProgress | [open](records/swift-sindresorhus-dockprogress-ffab1db7.md) |
@@ -10537,6 +10641,7 @@
 | `github_search_swift-ed8f496f3efeb2` | lwouis/alt-tab-macos | [open](records/swift-lwouis-alt-tab-macos-ffbd7980.md) |
 | `github_search_swift-edf27ed2f0631c` | mas-cli/mas | [open](records/swift-mas-cli-mas-b7913336.md) |
 | `github_search_swift-ef61bf73613de1` | TelegramMessenger/Telegram-iOS | [open](records/swift-telegrammessenger-telegram-ios-919c5962.md) |
+| `github_search_swift-f11272b093a562` | apple/swift-system-metrics | [open](records/swift-apple-swift-system-metrics-823d84b7.md) |
 | `github_search_swift-f14c2ea39cae25` | ChenYilong/iOSInterviewQuestions | [open](records/swift-chenyilong-iosinterviewquestions-1b086e68.md) |
 | `github_search_swift-f2be2315aac7f3` | Mijick/Camera | [open](records/swift-mijick-camera-ba7e7b8b.md) |
 | `github_search_swift-f463f2cbaa90bd` | tisfeng/Easydict | [open](records/swift-tisfeng-easydict-1f84a530.md) |
@@ -10875,6 +10980,7 @@
 | `github_search_webassembly-06acf67e6478ea` | TokamakUI/Tokamak | [open](records/webassembly-tokamakui-tokamak-0097025f.md) |
 | `github_search_webassembly-071409b0826697` | FastVM/Web49 | [open](records/webassembly-fastvm-web49-1f2e17c8.md) |
 | `github_search_webassembly-077c99063d0ba2` | AssemblyScript/examples | [open](records/webassembly-assemblyscript-examples-43e3dc9c.md) |
+| `github_search_webassembly-08f337ac542b97` | rivet-dev/agentos | [open](records/webassembly-rivet-dev-agentos-6c03f7ec.md) |
 | `github_search_webassembly-0945da43a9e0f8` | spinframework/spin | [open](records/webassembly-spinframework-spin-bc703583.md) |
 | `github_search_webassembly-0a26d64a3da7c7` | JetBrains/compose-multiplatform | [open](records/webassembly-jetbrains-compose-multiplatform-11636c4e.md) |
 | `github_search_webassembly-0be5d458235f5c` | yoyow-org/yoyow-core | [open](records/webassembly-yoyow-org-yoyow-core-98d0bb33.md) |
@@ -10897,6 +11003,7 @@
 | `github_search_webassembly-1bab904d34c01a` | dsekz/twitter-x-xp-forwarded-for-header | [open](records/webassembly-dsekz-twitter-x-xp-forwarded-for-header-26d2930a.md) |
 | `github_search_webassembly-1d3507452e0811` | PollRobots/scheme | [open](records/webassembly-pollrobots-scheme-ed5cd29c.md) |
 | `github_search_webassembly-1de6acbba84e5a` | mosra/magnum | [open](records/webassembly-mosra-magnum-973479c6.md) |
+| `github_search_webassembly-1ee3d32f229884` | silvia-odwyer/photon | [open](records/webassembly-silvia-odwyer-photon-8c214d80.md) |
 | `github_search_webassembly-20d11cb9802c29` | LingDong-/wasm-fun | [open](records/webassembly-lingdong-wasm-fun-c02d519e.md) |
 | `github_search_webassembly-210d7c8e882db8` | WebAssembly/exception-handling | [open](records/webassembly-webassembly-exception-handling-8f6731bf.md) |
 | `github_search_webassembly-21636dd5672b29` | SwiftTUI/swift-tui | [open](records/webassembly-swifttui-swift-tui-ed1cb3aa.md) |
@@ -10921,6 +11028,7 @@
 | `github_search_webassembly-307d87ddbb6537` | sdiehl/wasm | [open](records/webassembly-sdiehl-wasm-aebcaea5.md) |
 | `github_search_webassembly-31b1d66b074924` | WebAssembly/relaxed-simd | [open](records/webassembly-webassembly-relaxed-simd-bc2b7543.md) |
 | `github_search_webassembly-32e585a2c330ba` | wasmerio/io-devices-lib | [open](records/webassembly-wasmerio-io-devices-lib-0eb00bc1.md) |
+| `github_search_webassembly-33ecf0ad4de389` | nihui/opencv-mobile | [open](records/webassembly-nihui-opencv-mobile-2cbef6f5.md) |
 | `github_search_webassembly-342112b7fce4de` | WebAssembly/interface-types | [open](records/webassembly-webassembly-interface-types-ecb8be0b.md) |
 | `github_search_webassembly-351435be21a4b9` | bytecodealliance/wasmtime-go | [open](records/webassembly-bytecodealliance-wasmtime-go-59c92af6.md) |
 | `github_search_webassembly-35965b22f6a1c3` | mitchellh/libxev | [open](records/webassembly-mitchellh-libxev-2da389e7.md) |
@@ -10928,6 +11036,7 @@
 | `github_search_webassembly-365904bae0d3b6` | capstone-engine/capstone | [open](records/webassembly-capstone-engine-capstone-6ab35549.md) |
 | `github_search_webassembly-366b865fe95f64` | tursodatabase/libsql | [open](records/webassembly-tursodatabase-libsql-4c64b1cc.md) |
 | `github_search_webassembly-368c48c6e59dd1` | studio-lagier/heapviz | [open](records/webassembly-studio-lagier-heapviz-0597ee0e.md) |
+| `github_search_webassembly-369a2758f272c2` | ballercat/walt | [open](records/webassembly-ballercat-walt-6804b42b.md) |
 | `github_search_webassembly-3707256bd79002` | bytecodealliance/lucet | [open](records/webassembly-bytecodealliance-lucet-9e0dc166.md) |
 | `github_search_webassembly-3733ebb7d6998a` | xiangechen/chili3d | [open](records/webassembly-xiangechen-chili3d-024832bd.md) |
 | `github_search_webassembly-381afd04a76009` | libraries/pywasm | [open](records/webassembly-libraries-pywasm-3cfb5d94.md) |
@@ -11007,11 +11116,13 @@
 | `github_search_webassembly-6625e56fd8890e` | boa-dev/boa | [open](records/webassembly-boa-dev-boa-f27788a8.md) |
 | `github_search_webassembly-675965fa337878` | rollup/rollup-plugin-wasm | [open](records/webassembly-rollup-rollup-plugin-wasm-0bbe45cd.md) |
 | `github_search_webassembly-6939a9350e2b0c` | vshymanskyy/awesome-wasm-tools | [open](records/webassembly-vshymanskyy-awesome-wasm-tools-577f61ea.md) |
+| `github_search_webassembly-693dd2fe4e9e9c` | thi-ng/umbrella | [open](records/webassembly-thi-ng-umbrella-b00549ee.md) |
 | `github_search_webassembly-6999cca3ca2ce2` | deislabs/wasi-experimental-http | [open](records/webassembly-deislabs-wasi-experimental-http-bee04041.md) |
 | `github_search_webassembly-699cd87ae5a76d` | WebAssembly/binaryen | [open](records/webassembly-webassembly-binaryen-0904a80e.md) |
 | `github_search_webassembly-699ff2ad507c51` | WebAssembly/spec | [open](records/webassembly-webassembly-spec-7424219f.md) |
 | `github_search_webassembly-69ba47b651d470` | SECCON/SECCON2017_online_CTF | [open](records/webassembly-seccon-seccon2017-online-ctf-0a20cf39.md) |
 | `github_search_webassembly-69dfe120e384e2` | lunatic-solutions/lunatic | [open](records/webassembly-lunatic-solutions-lunatic-b2983cdd.md) |
+| `github_search_webassembly-6a12b051a902a1` | esimov/pigo | [open](records/webassembly-esimov-pigo-47c4c3e9.md) |
 | `github_search_webassembly-6bbbaf630399ff` | vasilev/HTTP-request-from-inside-WASM | [open](records/webassembly-vasilev-http-request-from-inside-wasm-36efd908.md) |
 | `github_search_webassembly-6c20119e425cad` | dotnetcore/BootstrapBlazor | [open](records/webassembly-dotnetcore-bootstrapblazor-5915f6c3.md) |
 | `github_search_webassembly-6c99a30b358221` | HaliteChallenge/Halite-III | [open](records/webassembly-halitechallenge-halite-iii-d1e574a8.md) |
@@ -11024,6 +11135,7 @@
 | `github_search_webassembly-728048828849d5` | ericfish/EOS-Dev-Book | [open](records/webassembly-ericfish-eos-dev-book-fd02a88b.md) |
 | `github_search_webassembly-7570b49a625846` | wasmlang/awesome-wasm-zh | [open](records/webassembly-wasmlang-awesome-wasm-zh-e5e641f3.md) |
 | `github_search_webassembly-786bfc9e63bb1f` | eliben/wasm-wat-samples | [open](records/webassembly-eliben-wasm-wat-samples-92ef4bd8.md) |
+| `github_search_webassembly-79bdededfa4c31` | seed-rs/seed | [open](records/webassembly-seed-rs-seed-42f38c62.md) |
 | `github_search_webassembly-7ae367b6950303` | yoyow-org/yoyow-core | [open](records/webassembly-yoyow-org-yoyow-core-cea33c7a.md) |
 | `github_search_webassembly-7cb17d4c77d85c` | athre0z/wasm | [open](records/webassembly-athre0z-wasm-a5ff0f9e.md) |
 | `github_search_webassembly-7cdd49a9a23319` | containerd/runwasi | [open](records/webassembly-containerd-runwasi-89bfe7e6.md) |
@@ -11032,6 +11144,7 @@
 | `github_search_webassembly-7d7bcda11102d2` | naqvis/wasmer-crystal | [open](records/webassembly-naqvis-wasmer-crystal-1e14c8b9.md) |
 | `github_search_webassembly-7dd200de2ab132` | kelnishi/WACS | [open](records/webassembly-kelnishi-wacs-7b55aa48.md) |
 | `github_search_webassembly-7eced7f34ea2dd` | WebAssembly/js-promise-integration | [open](records/webassembly-webassembly-js-promise-integration-a2f637ab.md) |
+| `github_search_webassembly-7f3edb24c55f98` | unum-cloud/USearch | [open](records/webassembly-unum-cloud-usearch-c7ae11cc.md) |
 | `github_search_webassembly-82f2703a555268` | KhronosGroupArchives/Basis-Universal-Transcoders | [open](records/webassembly-khronosgrouparchives-basis-universal-transcoders-5be15dfa.md) |
 | `github_search_webassembly-83e5e2360c5c32` | toyobayashi/emnapi | [open](records/webassembly-toyobayashi-emnapi-9dae3d7d.md) |
 | `github_search_webassembly-84a853569ab0bc` | therecipe/qt | [open](records/webassembly-therecipe-qt-fd9f7ce6.md) |
@@ -11040,8 +11153,10 @@
 | `github_search_webassembly-89a54a3e202eff` | WebAssembly/tail-call | [open](records/webassembly-webassembly-tail-call-79ee1733.md) |
 | `github_search_webassembly-8a94415b7d2d57` | rhysd/vim.wasm | [open](records/webassembly-rhysd-vim-wasm-f16b1e8a.md) |
 | `github_search_webassembly-8bb5f1885192e0` | eliben/wasm-wat-samples | [open](records/webassembly-eliben-wasm-wat-samples-fa32d6da.md) |
+| `github_search_webassembly-8bce99416985c1` | grain-lang/grain | [open](records/webassembly-grain-lang-grain-612ed58b.md) |
 | `github_search_webassembly-8c61fd424301ca` | WEREMSOFT/spine-raylib-runtimes | [open](records/webassembly-weremsoft-spine-raylib-runtimes-10c81a49.md) |
 | `github_search_webassembly-8d9ce7cf46a562` | brson/wasm-opt-rs | [open](records/webassembly-brson-wasm-opt-rs-e0919bb2.md) |
+| `github_search_webassembly-8dd9fa70317184` | appcypher/awesome-wasm-langs | [open](records/webassembly-appcypher-awesome-wasm-langs-71e918d7.md) |
 | `github_search_webassembly-8fe9fb712f68b4` | SwadicalRag/wasm2lua | [open](records/webassembly-swadicalrag-wasm2lua-96d79163.md) |
 | `github_search_webassembly-9037ff522304c2` | bytecodealliance/StarlingMonkey | [open](records/webassembly-bytecodealliance-starlingmonkey-d2a5789c.md) |
 | `github_search_webassembly-906265f9d10f1f` | mtharrison/wasm-raytracer | [open](records/webassembly-mtharrison-wasm-raytracer-a3b3c328.md) |
@@ -11070,6 +11185,7 @@
 | `github_search_webassembly-a1b7cfdace16f1` | ASSERT-KTH/slumps | [open](records/webassembly-assert-kth-slumps-32b47fde.md) |
 | `github_search_webassembly-a1ed1f0e837d8a` | unoplatform/uno | [open](records/webassembly-unoplatform-uno-0c5b85c2.md) |
 | `github_search_webassembly-a288c11a4ba59c` | iden3/circom | [open](records/webassembly-iden3-circom-ca42a3d1.md) |
+| `github_search_webassembly-a418f57ae6e36e` | plotters-rs/plotters | [open](records/webassembly-plotters-rs-plotters-3cdf5bbe.md) |
 | `github_search_webassembly-a510ef1d77d99c` | binji/raw-wasm | [open](records/webassembly-binji-raw-wasm-b437b0d8.md) |
 | `github_search_webassembly-a5f7966115355e` | zwasm/zwasm | [open](records/webassembly-zwasm-zwasm-63408ac4.md) |
 | `github_search_webassembly-a732df55aeca57` | remko/uxn.wasm | [open](records/webassembly-remko-uxn-wasm-51293d13.md) |
@@ -11084,9 +11200,11 @@
 | `github_search_webassembly-b20c4f42b4e4dc` | WebAssembly/simd | [open](records/webassembly-webassembly-simd-d6e14515.md) |
 | `github_search_webassembly-b226e1ee36d278` | xiaoyu1998/web3.learning | [open](records/webassembly-xiaoyu1998-web3-learning-3c32ead0.md) |
 | `github_search_webassembly-b24d2aa1a5e15a` | WebAssembly/wasi-io | [open](records/webassembly-webassembly-wasi-io-3a8c671d.md) |
+| `github_search_webassembly-b3c063436c5552` | koute/stdweb | [open](records/webassembly-koute-stdweb-1ac99d5a.md) |
 | `github_search_webassembly-b426a3f408c904` | WebAssembly/wasi-sockets | [open](records/webassembly-webassembly-wasi-sockets-f62237cf.md) |
 | `github_search_webassembly-b5d4f58b554ac0` | torch2424/as-bind | [open](records/webassembly-torch2424-as-bind-819e3646.md) |
 | `github_search_webassembly-b61e4bb3981c39` | WebAssembly/shared-everything-threads | [open](records/webassembly-webassembly-shared-everything-threads-3d9b5750.md) |
+| `github_search_webassembly-b6efca85325b3b` | AmbientRun/Ambient | [open](records/webassembly-ambientrun-ambient-cf0678b7.md) |
 | `github_search_webassembly-b78c65ea15abdd` | danleh/wasabi | [open](records/webassembly-danleh-wasabi-faf413b5.md) |
 | `github_search_webassembly-b7ca0c77b55164` | austintheriot/hand-crafted-wasm | [open](records/webassembly-austintheriot-hand-crafted-wasm-d154ce34.md) |
 | `github_search_webassembly-b82dab59d15572` | kanaka/mal | [open](records/webassembly-kanaka-mal-bd74d373.md) |
@@ -11129,6 +11247,7 @@
 | `github_search_webassembly-d3522564388958` | GoogleChromeLabs/wasi-fs-access | [open](records/webassembly-googlechromelabs-wasi-fs-access-942c70b3.md) |
 | `github_search_webassembly-d54342cfd1517c` | leptos-rs/leptos | [open](records/webassembly-leptos-rs-leptos-831793ba.md) |
 | `github_search_webassembly-d684f23a78df24` | meshery/meshery | [open](records/webassembly-meshery-meshery-7b46f863.md) |
+| `github_search_webassembly-d69cf7cced0ff5` | OGRECave/ogre | [open](records/webassembly-ogrecave-ogre-e3987e47.md) |
 | `github_search_webassembly-d7334da3efaa3e` | kanaka/mal | [open](records/webassembly-kanaka-mal-077545d0.md) |
 | `github_search_webassembly-d7e624b9a26e59` | Evil0ctal/WeChat-Channels-Video-File-Decryption | [open](records/webassembly-evil0ctal-wechat-channels-video-file-decryption-48e9aa68.md) |
 | `github_search_webassembly-d841280f16890e` | Implex-ltd/hcaptcha-reverse | [open](records/webassembly-implex-ltd-hcaptcha-reverse-3ac23990.md) |
@@ -11168,10 +11287,12 @@
 | `github_search_webassembly-f635d45f2c5a8d` | InsightSoftwareConsortium/ITK-Wasm | [open](records/webassembly-insightsoftwareconsortium-itk-wasm-d40bc24d.md) |
 | `github_search_webassembly-f6cfbd55fd91a0` | microsoft/fluentui-blazor | [open](records/webassembly-microsoft-fluentui-blazor-55347491.md) |
 | `github_search_webassembly-f85a92d3b23fdb` | WebAssembly/wasi-http | [open](records/webassembly-webassembly-wasi-http-ad3f0d17.md) |
+| `github_search_webassembly-f86cec1f54e450` | cloudflare/workers-rs | [open](records/webassembly-cloudflare-workers-rs-938fd17c.md) |
 | `github_search_webassembly-fa490a6fe929fa` | bytecodealliance/wasi-rs | [open](records/webassembly-bytecodealliance-wasi-rs-ab5ac60a.md) |
 | `github_search_webassembly-fad9af3076fb4c` | WebAssembly/tool-conventions | [open](records/webassembly-webassembly-tool-conventions-9f573a96.md) |
 | `github_search_webassembly-fc093630b595fb` | PeterHuZQ/EOS-Dapp | [open](records/webassembly-peterhuzq-eos-dapp-4e03fdd8.md) |
 | `github_search_webassembly-fc787b092f57f8` | lifthrasiir/wah | [open](records/webassembly-lifthrasiir-wah-6064c64b.md) |
+| `github_search_webassembly-fdf246c8f99c8f` | MaxBittker/sandspiel | [open](records/webassembly-maxbittker-sandspiel-36849093.md) |
 | `github_search_webassembly-fe6296dd4a7aa2` | yamt/toywasm | [open](records/webassembly-yamt-toywasm-6f3ac5c3.md) |
 | `github_search_webassembly-fefc7a8a771a4f` | mewz-project/wasker | [open](records/webassembly-mewz-project-wasker-7c5f55a2.md) |
 | `github_search_webassembly-ff421f880f305b` | wasmi-labs/wasmi | [open](records/webassembly-wasmi-labs-wasmi-2de8afe8.md) |
@@ -12218,7 +12339,7 @@
 | `hackage_recent-30bbdc91959c46` | freckle-http | [open](records/haskell-freckle-http-ec27c9f6.md) |
 | `hackage_recent-35beadab7001d5` | what4-domains | [open](records/haskell-what4-domains-20a280a8.md) |
 | `hackage_recent-3cb9e60284563c` | http3 | [open](records/haskell-http3-d8356eb7.md) |
-| `hackage_recent-4a3a499751bc30` | crackNum | [open](records/haskell-cracknum-25e818dd.md) |
+| `hackage_recent-46b32631c78307` | sydtest | [open](records/haskell-sydtest-4ee551d3.md) |
 | `hackage_recent-560e75fc58d6d8` | vcs-ignore | [open](records/haskell-vcs-ignore-b594cffb.md) |
 | `hackage_recent-58fa0175997b25` | rme | [open](records/haskell-rme-b14c2f66.md) |
 | `hackage_recent-5c6c989abcb5c8` | typed-peg | [open](records/haskell-typed-peg-d0f69182.md) |
@@ -12228,15 +12349,16 @@
 | `hackage_recent-71ff2166351a35` | rme-what4 | [open](records/haskell-rme-what4-e5f70573.md) |
 | `hackage_recent-75c102beb5e066` | what4 | [open](records/haskell-what4-03a48fd1.md) |
 | `hackage_recent-7743035e5050d7` | explainable-predicates | [open](records/haskell-explainable-predicates-6549649b.md) |
+| `hackage_recent-7e6eeb91445d92` | aihc-parser | [open](records/haskell-aihc-parser-d88ae54b.md) |
 | `hackage_recent-85b70f81457859` | tricorder-mcp | [open](records/haskell-tricorder-mcp-95664038.md) |
 | `hackage_recent-93412bbaff519b` | kioku-migrations | [open](records/haskell-kioku-migrations-2c5f56b2.md) |
 | `hackage_recent-9d97fd66e22732` | grpc-spec | [open](records/haskell-grpc-spec-b01344ad.md) |
 | `hackage_recent-c27fe6ee52d5b4` | kioku-cli | [open](records/haskell-kioku-cli-1c907a92.md) |
 | `hackage_recent-c6a78aab59f2d5` | hopenpgp-tools | [open](records/haskell-hopenpgp-tools-39a59dde.md) |
-| `hackage_recent-cbc663b7bd9cb1` | Agda | [open](records/haskell-agda-2052f829.md) |
 | `hackage_recent-d7916c7293d7b2` | ghc-tcplugin-api | [open](records/haskell-ghc-tcplugin-api-7a5e533e.md) |
 | `hackage_recent-de5657564350b6` | simple-smt | [open](records/haskell-simple-smt-901983e2.md) |
 | `hackage_recent-de7c98a54142d2` | git-annex | [open](records/haskell-git-annex-d8d84f4e.md) |
+| `hackage_recent-f6957e818cba3b` | hdf5 | [open](records/haskell-hdf5-eab0aa96.md) |
 | `hackage_top_downloads-00203d525269ef` | telegram-api | [open](records/haskell-telegram-api-b35e4b3f.md) |
 | `hackage_top_downloads-00a2c4372c9069` | zlib | [open](records/haskell-zlib-2a0db053.md) |
 | `hackage_top_downloads-00cc01f04a70b0` | gi-gstbase | [open](records/haskell-gi-gstbase-c350854a.md) |
@@ -12581,7 +12703,6 @@
 | `hackage_top_downloads-45fa43bc1e0435` | tools-yj | [open](records/haskell-tools-yj-fc25263a.md) |
 | `hackage_top_downloads-4681929c3e3061` | yesod-auth-fb | [open](records/haskell-yesod-auth-fb-631f8d06.md) |
 | `hackage_top_downloads-46a6ff8669ac86` | auto-update | [open](records/haskell-auto-update-ee958d60.md) |
-| `hackage_top_downloads-46b32631c78307` | sydtest | [open](records/haskell-sydtest-4ee551d3.md) |
 | `hackage_top_downloads-4720290a2d53d4` | HList | [open](records/haskell-hlist-03c5718b.md) |
 | `hackage_top_downloads-47a050427acf1d` | log-warper | [open](records/haskell-log-warper-e0ca6ea7.md) |
 | `hackage_top_downloads-47dfa1f69ec0ad` | zeromq4-haskell | [open](records/haskell-zeromq4-haskell-8f1953e2.md) |
@@ -12594,6 +12715,7 @@
 | `hackage_top_downloads-494c8b898a2b1f` | semigroups | [open](records/haskell-semigroups-1dd26ce3.md) |
 | `hackage_top_downloads-497f041509e7f7` | docker | [open](records/haskell-docker-fa6a1a31.md) |
 | `hackage_top_downloads-49c9ce92385991` | th-abstraction | [open](records/haskell-th-abstraction-d36f6793.md) |
+| `hackage_top_downloads-4a3a499751bc30` | crackNum | [open](records/haskell-cracknum-25e818dd.md) |
 | `hackage_top_downloads-4a47f0f19fac66` | pontarius-xmpp | [open](records/haskell-pontarius-xmpp-5a5fc4ed.md) |
 | `hackage_top_downloads-4a97dafcaaef54` | modern-uri | [open](records/haskell-modern-uri-8f10b66b.md) |
 | `hackage_top_downloads-4ab425fd9bfeae` | turtle | [open](records/haskell-turtle-b1c7d396.md) |
@@ -13227,6 +13349,7 @@
 | `hackage_top_downloads-ca98f93b8d10d9` | taffybar | [open](records/haskell-taffybar-a815d4bc.md) |
 | `hackage_top_downloads-cb055713ceafa5` | DSH | [open](records/haskell-dsh-1fca6e37.md) |
 | `hackage_top_downloads-cb3d563e3a1582` | tar-conduit | [open](records/haskell-tar-conduit-bb615e63.md) |
+| `hackage_top_downloads-cbc663b7bd9cb1` | Agda | [open](records/haskell-agda-2052f829.md) |
 | `hackage_top_downloads-cbe39c493e2410` | aeson-extra | [open](records/haskell-aeson-extra-08fc94a1.md) |
 | `hackage_top_downloads-cc14cc7987a11a` | classy-prelude-conduit | [open](records/haskell-classy-prelude-conduit-4b67512e.md) |
 | `hackage_top_downloads-cc4f343ad0f134` | bytes | [open](records/haskell-bytes-8cec052e.md) |
@@ -18359,6 +18482,7 @@
 | `npm_registry-2afa43d8528037` | @types/oauth2-server | [open](records/node-js-typescript-types-oauth2-server-b283557e.md) |
 | `npm_registry-2b27812d8d9cec` | @antfu/eslint-config | [open](records/node-js-javascript-antfu-eslint-config-acdc37fc.md) |
 | `npm_registry-2b432c2a45098f` | @angular-devkit/architect | [open](records/node-js-javascript-angular-devkit-architect-d0ac1a3f.md) |
+| `npm_registry-2b581aaaa632a9` | ruvector | [open](records/node-js-javascript-ruvector-f8081b3a.md) |
 | `npm_registry-2b5eaf39bf8b7b` | @types/lodash | [open](records/node-js-typescript-types-lodash-2fdbea40.md) |
 | `npm_registry-2b6c275dff4115` | @loopback/http-server | [open](records/node-js-javascript-loopback-http-server-b6f12f06.md) |
 | `npm_registry-2b92729d8432f2` | http-call | [open](records/node-js-javascript-http-call-35f88cc2.md) |
@@ -18856,6 +18980,7 @@
 | `npm_registry-58f048304bd47a` | svelte-eslint-parser | [open](records/node-js-javascript-svelte-eslint-parser-6b0182ef.md) |
 | `npm_registry-59070aeca77c7b` | y-mongodb-provider | [open](records/node-js-javascript-y-mongodb-provider-d90a525d.md) |
 | `npm_registry-592da70e1aa7c2` | @gjsify/http | [open](records/node-js-javascript-gjsify-http-1598f2a7.md) |
+| `npm_registry-593e5de48a5630` | @cubejs-backend/mssql-driver | [open](records/node-js-javascript-cubejs-backend-mssql-driver-74d7c0f0.md) |
 | `npm_registry-594fef390b526e` | @types/express | [open](records/node-js-typescript-types-express-631736dd.md) |
 | `npm_registry-597ea6d9e5f4b3` | ky | [open](records/node-js-javascript-ky-b1bbc883.md) |
 | `npm_registry-5980cc36951fb2` | content-type | [open](records/node-js-javascript-content-type-3b23af00.md) |
@@ -19391,6 +19516,7 @@
 | `npm_registry-8d732e7a52e798` | matrix-js-sdk | [open](records/node-js-javascript-matrix-js-sdk-95218c67.md) |
 | `npm_registry-8dad71744f97c3` | hookdeck-cli | [open](records/node-js-javascript-hookdeck-cli-f0ecb616.md) |
 | `npm_registry-8ddfdf93049c2c` | @amaster.ai/pi-security | [open](records/node-js-javascript-amaster-ai-pi-security-58337460.md) |
+| `npm_registry-8df534d245f0f8` | @use-voltra/ios-server | [open](records/node-js-javascript-use-voltra-ios-server-52aaeb6b.md) |
 | `npm_registry-8df6ce7cdfe9f7` | @pandabox/prettier-plugin | [open](records/node-js-javascript-pandabox-prettier-plugin-e9ac0533.md) |
 | `npm_registry-8e4ea3d7f8c02f` | @schuchard/prettier | [open](records/node-js-javascript-schuchard-prettier-2037c3f8.md) |
 | `npm_registry-8e5438b08757e8` | eslint-plugin-office-addins | [open](records/node-js-javascript-eslint-plugin-office-addins-f132d068.md) |
@@ -19825,6 +19951,7 @@
 | `npm_registry-b40599ee355f0a` | ssn-validator | [open](records/node-js-javascript-ssn-validator-02a19838.md) |
 | `npm_registry-b40698789f1dc8` | redstone-prettier-config | [open](records/node-js-javascript-redstone-prettier-config-79c0822b.md) |
 | `npm_registry-b408f46ae1a60a` | @types/smtp-server | [open](records/node-js-typescript-types-smtp-server-8ea7362c.md) |
+| `npm_registry-b41058e518d4ea` | caseless | [open](records/node-js-javascript-caseless-678ec914.md) |
 | `npm_registry-b41c03e5ff3bb3` | i18next-http-middleware | [open](records/node-js-javascript-i18next-http-middleware-eb0b9150.md) |
 | `npm_registry-b42cb982682aa3` | @nr1e/logging | [open](records/node-js-javascript-nr1e-logging-78cd4595.md) |
 | `npm_registry-b43f05a03b9daa` | typescript-coverage-report | [open](records/node-js-typescript-typescript-coverage-report-de2a3cf0.md) |
