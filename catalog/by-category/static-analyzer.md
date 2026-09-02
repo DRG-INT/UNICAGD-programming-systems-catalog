@@ -1,6 +1,6 @@
 # Static Analyzer
 
-Records: `448`
+Records: `455`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `448`
 
 ## Category Index
 
-[Api Abi Checker (190)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (42)](assertion-mocking.md) · [Async Runtime (129)](async-runtime.md)
-[Benchmarking (123)](benchmarking.md) · [Build System (827)](build-system.md) · [Cli (507)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (191)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (42)](assertion-mocking.md) · [Async Runtime (129)](async-runtime.md)
+[Benchmarking (126)](benchmarking.md) · [Build System (827)](build-system.md) · [Cli (508)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (88)](community-reference.md) · [Compiler (171)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
-[Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (101)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (156)](cryptography.md) · [Data Science (34)](data-science.md) · [Database Datastore (774)](database-datastore.md) · [Datetime (160)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (88)](documentation.md)
-[Embedded Hardware (49)](embedded-hardware.md) · [Ffi Bindings (390)](ffi-bindings.md) · [Filesystem Os (1220)](filesystem-os.md) · [Formatter (548)](formatter.md)
-[Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1149)](ide-editor-integration.md)
-[Image Audio Dsp (301)](image-audio-dsp.md) · [Interop Bindings (55)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1241)](language-specification.md) · [Library (4877)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (594)](machine-learning.md)
+[Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (102)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (156)](cryptography.md) · [Data Science (34)](data-science.md) · [Database Datastore (774)](database-datastore.md) · [Datetime (161)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (89)](documentation.md)
+[Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (556)](formatter.md)
+[Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1166)](ide-editor-integration.md)
+[Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1244)](language-specification.md) · [Library (4899)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (595)](machine-learning.md)
 [Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (926)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (928)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
-[Profiler (73)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (314)](security-sast.md) · [Serialization (370)](serialization.md) · [Standard Library (24)](standard-library.md) · **[Static Analyzer (448)](static-analyzer.md)**
-[Templating (2)](templating.md) · [Testing Framework (501)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (292)](type-checker.md)
-[Undefined Behavior Analyzer (1403)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (415)](visualization-gui.md) · [Web Framework (415)](web-framework.md)
+[Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (929)](parser-lexer-ast.md) · [Precommit Ci Quality (265)](precommit-ci-quality.md)
+[Profiler (74)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (316)](security-sast.md) · [Serialization (371)](serialization.md) · [Standard Library (24)](standard-library.md) · **[Static Analyzer (455)](static-analyzer.md)**
+[Templating (2)](templating.md) · [Testing Framework (502)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (292)](type-checker.md)
+[Undefined Behavior Analyzer (1407)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (418)](visualization-gui.md) · [Web Framework (418)](web-framework.md)
 
 ## C99
 
@@ -369,7 +369,7 @@ Records: `448`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| career-ops-hq/career-ops | partial | 2026-09-02T15:13:47Z | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
+| career-ops-hq/career-ops | partial | 2026-09-02T15:31:21Z | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
 | codeberg.org/momar/simple-scan-server | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-codeberg-org-momar-simple-scan-server-8e5010e0.md) |
 
 ## "aim's"
@@ -497,10 +497,14 @@ Records: `448`
 | --- | --- | --- | --- |
 | bluescan/tacentview | partial | 2026-08-10T08:53:43Z | [open](../records/photography-bluescan-tacentview-36115ac1.md) |
 | dlazaro66/QRCodeReaderView | partial | 2021-06-21T04:55:28Z | [open](../records/photography-dlazaro66-qrcodereaderview-9c349462.md) |
+| GrapheneOS/Camera | partial | 2026-09-01T20:43:08Z | [open](../records/photography-grapheneos-camera-e6336699.md) |
+| hyperoslo/BarcodeScanner | partial | 2024-07-29T16:11:57Z | [open](../records/photography-hyperoslo-barcodescanner-b1f848d8.md) |
 | jackw01/scanlight | partial | 2026-08-20T06:04:39Z | [open](../records/photography-jackw01-scanlight-ebc00536.md) |
 | jorhelp/Ingram | partial | 2026-08-19T05:04:43Z | [open](../records/photography-jorhelp-ingram-4f54c30d.md) |
 | marcinz606/NegPy | unknown | github_search_does_not_include_release_date | [open](../records/photography-marcinz606-negpy-f991191a.md) |
 | mebjas/html5-qrcode | partial | 2025-12-01T06:41:53Z | [open](../records/photography-mebjas-html5-qrcode-543a11db.md) |
+| mikebuss/MTBBarcodeScanner | partial | 2020-10-01T00:31:34Z | [open](../records/photography-mikebuss-mtbbarcodescanner-cfa2f7e4.md) |
+| MK-Ware/Forensic-Tools | partial | 2019-09-12T12:38:16Z | [open](../records/photography-mk-ware-forensic-tools-3fbe9061.md) |
 | moaazsidat/react-native-qrcode-scanner | partial | 2023-05-12T11:16:38Z | [open](../records/photography-moaazsidat-react-native-qrcode-scanner-e8683b24.md) |
 | ncoevoet/facet | unknown | github_search_does_not_include_release_date | [open](../records/photography-ncoevoet-facet-f48943dd.md) |
 | petrobras/GeoSlicer | partial | 2026-08-18T18:30:06Z | [open](../records/photography-petrobras-geoslicer-d6192212.md) |
@@ -508,8 +512,11 @@ Records: `448`
 | react-native-camera/react-native-camera | partial | 2023-06-07T10:03:10Z | [open](../records/photography-react-native-camera-react-native-camera-beed788e.md) |
 | schmich/instascan | partial | 2021-12-15T13:21:36Z | [open](../records/photography-schmich-instascan-8bf0775d.md) |
 | SharpAI/DeepCamera | partial | 2026-06-18T04:37:54Z | [open](../records/photography-sharpai-deepcamera-8f21d9df.md) |
+| shouzhong/Scanner | partial | 2022-04-07T09:09:19Z | [open](../records/photography-shouzhong-scanner-dbf4df82.md) |
 | stongey/PhotoRestore | unknown | github_search_does_not_include_release_date | [open](../records/photography-stongey-photorestore-e3bb2edb.md) |
 | toonoumi/FreeCCR | unknown | github_search_does_not_include_release_date | [open](../records/photography-toonoumi-freeccr-2918c356.md) |
+| vladmandic/pigallery | partial | 2023-01-02T00:36:18Z | [open](../records/photography-vladmandic-pigallery-09114cf5.md) |
+| wiidede/exif-gallery-nuxt | partial | 2026-07-01T17:30:55Z | [open](../records/photography-wiidede-exif-gallery-nuxt-718a78c5.md) |
 
 ## Microscopy
 
@@ -521,7 +528,7 @@ Records: `448`
 | clEsperanto/pyclesperanto_prototype | partial | 2026-08-14T09:04:32Z | [open](../records/microscopy-clesperanto-pyclesperanto-prototype-3fd5a628.md) |
 | imjoy-team/imagej.js | partial | 2025-08-21T21:49:20Z | [open](../records/microscopy-imjoy-team-imagej-js-ab4ae7b8.md) |
 | jherkenhoff/STM | partial | 2021-08-02T15:53:42Z | [open](../records/microscopy-jherkenhoff-stm-3928a3ac.md) |
-| NL-BioImaging/biomero | partial | 2026-09-02T10:00:24Z | [open](../records/microscopy-nl-bioimaging-biomero-e59c8222.md) |
+| NL-BioImaging/biomero | partial | 2026-09-02T14:27:59Z | [open](../records/microscopy-nl-bioimaging-biomero-e59c8222.md) |
 | ome/EMBO-Practical-Course-2023 | partial | 2023-09-10T15:36:11Z | [open](../records/microscopy-ome-embo-practical-course-2023-0359e30c.md) |
 | pycroscopy/pycroscopy | partial | 2025-09-12T16:21:57Z | [open](../records/microscopy-pycroscopy-pycroscopy-e22f9142.md) |
 | qupath/qupath | partial | 2026-09-01T12:37:23Z | [open](../records/microscopy-qupath-qupath-319e8bd2.md) |

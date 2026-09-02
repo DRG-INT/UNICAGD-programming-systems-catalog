@@ -1,6 +1,6 @@
 # Filesystem Os
 
-Records: `1220`
+Records: `1231`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `1220`
 
 ## Category Index
 
-[Api Abi Checker (190)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (42)](assertion-mocking.md) · [Async Runtime (129)](async-runtime.md)
-[Benchmarking (123)](benchmarking.md) · [Build System (827)](build-system.md) · [Cli (507)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (191)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (42)](assertion-mocking.md) · [Async Runtime (129)](async-runtime.md)
+[Benchmarking (126)](benchmarking.md) · [Build System (827)](build-system.md) · [Cli (508)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (88)](community-reference.md) · [Compiler (171)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
-[Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (101)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (156)](cryptography.md) · [Data Science (34)](data-science.md) · [Database Datastore (774)](database-datastore.md) · [Datetime (160)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (88)](documentation.md)
-[Embedded Hardware (49)](embedded-hardware.md) · [Ffi Bindings (390)](ffi-bindings.md) · **[Filesystem Os (1220)](filesystem-os.md)** · [Formatter (548)](formatter.md)
-[Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1149)](ide-editor-integration.md)
-[Image Audio Dsp (301)](image-audio-dsp.md) · [Interop Bindings (55)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1241)](language-specification.md) · [Library (4877)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (594)](machine-learning.md)
+[Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (102)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (156)](cryptography.md) · [Data Science (34)](data-science.md) · [Database Datastore (774)](database-datastore.md) · [Datetime (161)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (89)](documentation.md)
+[Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · **[Filesystem Os (1231)](filesystem-os.md)** · [Formatter (556)](formatter.md)
+[Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1166)](ide-editor-integration.md)
+[Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1244)](language-specification.md) · [Library (4899)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (595)](machine-learning.md)
 [Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (926)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (928)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
-[Profiler (73)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (314)](security-sast.md) · [Serialization (370)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (448)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (501)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (292)](type-checker.md)
-[Undefined Behavior Analyzer (1403)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (415)](visualization-gui.md) · [Web Framework (415)](web-framework.md)
+[Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (929)](parser-lexer-ast.md) · [Precommit Ci Quality (265)](precommit-ci-quality.md)
+[Profiler (74)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (316)](security-sast.md) · [Serialization (371)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (455)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (502)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (292)](type-checker.md)
+[Undefined Behavior Analyzer (1407)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (418)](visualization-gui.md) · [Web Framework (418)](web-framework.md)
 
 ## C++23
 
@@ -559,7 +559,7 @@ Records: `1220`
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-08-30T15:02:19Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-02T15:20:38Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-02T16:10:53Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -963,6 +963,7 @@ Records: `1220`
 | aiff22/PyNET-Bokeh | unknown | github_search_does_not_include_release_date | [open](../records/photography-aiff22-pynet-bokeh-519da98d.md) |
 | aiff22/PyNET-PyTorch | partial | 2025-08-23T12:56:55Z | [open](../records/photography-aiff22-pynet-pytorch-8da331a9.md) |
 | AlkaidLab/foundation-sunshine | partial | 2026-09-02T05:52:32Z | [open](../records/photography-alkaidlab-foundation-sunshine-96ec5220.md) |
+| Apparence-io/CamerAwesome | partial | 2026-04-08T20:22:58Z | [open](../records/photography-apparence-io-camerawesome-6dfa91a5.md) |
 | ashesbloom/LocalLens | partial | 2026-08-22T13:22:23Z | [open](../records/photography-ashesbloom-locallens-fde40cf9.md) |
 | aslost/pixtale | partial | 2026-09-01T14:07:49Z | [open](../records/photography-aslost-pixtale-df702412.md) |
 | Awalz/SwiftyCam | partial | 2022-02-04T10:24:45Z | [open](../records/photography-awalz-swiftycam-8b6b12a3.md) |
@@ -974,8 +975,11 @@ Records: `1220`
 | CarVac/filmulator-gui | unknown | github_search_does_not_include_release_date | [open](../records/photography-carvac-filmulator-gui-f34a0327.md) |
 | cowtoolz/webcamize | partial | 2026-05-25T19:55:50Z | [open](../records/photography-cowtoolz-webcamize-b9f0b629.md) |
 | cristibaluta/Imagin-Raw | unknown | github_search_does_not_include_release_date | [open](../records/photography-cristibaluta-imagin-raw-8980137a.md) |
+| d2phap/ExifGlass | partial | 2026-07-15T12:39:57Z | [open](../records/photography-d2phap-exifglass-231d5626.md) |
 | daneden/photos.daneden.me | partial | 2026-04-11T04:37:49Z | [open](../records/photography-daneden-photos-daneden-me-bf6de6aa.md) |
 | DIYer22/process_raw | partial | 2023-03-11T05:29:15Z | [open](../records/photography-diyer22-process-raw-60b5b580.md) |
+| fabiocaccamo/FCFileManager | partial | 2026-04-22T14:30:34Z | [open](../records/photography-fabiocaccamo-fcfilemanager-4df2c7db.md) |
+| feloex/GoogleTakeoutFixer | partial | 2026-05-02T19:22:10Z | [open](../records/photography-feloex-googletakeoutfixer-ab28bf0f.md) |
 | GEEKiDoS/bitblt-hdr | partial | 2026-05-14T04:13:50Z | [open](../records/photography-geekidos-bitblt-hdr-d6f3d105.md) |
 | gergelysanta/PhotoMiner | partial | 2025-02-09T13:08:04Z | [open](../records/photography-gergelysanta-photominer-7d3deb74.md) |
 | HaishinKit/HaishinKit.swift | partial | 2026-08-30T12:17:41Z | [open](../records/photography-haishinkit-haishinkit-swift-ee473b6b.md) |
@@ -983,6 +987,9 @@ Records: `1220`
 | hulk66/timeline | unknown | github_search_does_not_include_release_date | [open](../records/photography-hulk66-timeline-edac6d56.md) |
 | jdisho/Papr | partial | 2020-09-17T16:39:35Z | [open](../records/photography-jdisho-papr-d97d54b2.md) |
 | Josh015/Alloy | partial | 2018-04-17T06:39:28Z | [open](../records/photography-josh015-alloy-50db76bd.md) |
+| k3b/APhotoManager | partial | 2025-08-14T08:52:22Z | [open](../records/photography-k3b-aphotomanager-721733de.md) |
+| LibrePhotos/librephotos | partial | 2026-08-31T10:52:43Z | [open](../records/photography-librephotos-librephotos-2e3ae4eb.md) |
+| LibrePhotos/librephotos-frontend | partial | 2026-04-23T06:26:59Z | [open](../records/photography-librephotos-librephotos-frontend-6aacba74.md) |
 | litten/zing-gallery | partial | 2018-01-25T09:53:32Z | [open](../records/photography-litten-zing-gallery-8687fd0d.md) |
 | mauriciojost/olympus-photosync | unknown | github_search_does_not_include_release_date | [open](../records/photography-mauriciojost-olympus-photosync-e4bdd7fc.md) |
 | Neko3000/Monotone | partial | 2022-09-25T08:34:38Z | [open](../records/photography-neko3000-monotone-6bff49ae.md) |
@@ -995,11 +1002,15 @@ Records: `1220`
 | RawTherapee/RawTherapee | partial | 2026-08-28T11:33:45Z | [open](../records/photography-rawtherapee-rawtherapee-846fa44c.md) |
 | rsjaffe/MIDI2LR | unknown | github_search_does_not_include_release_date | [open](../records/photography-rsjaffe-midi2lr-e0e7bfa5.md) |
 | SimplePhotoGallery/core | unknown | github_search_does_not_include_release_date | [open](../records/photography-simplephotogallery-core-61afec9b.md) |
+| SixLabors/ImageSharp | partial | 2026-08-24T09:30:29Z | [open](../records/photography-sixlabors-imagesharp-6de2ffc1.md) |
 | spike0en/awesome_nothing | partial | 2026-03-22T13:34:45Z | [open](../records/photography-spike0en-awesome-nothing-252f0bbc.md) |
 | starkdmi/BrightXDR | partial | 2025-12-17T12:16:04Z | [open](../records/photography-starkdmi-brightxdr-ed480395.md) |
+| szTheory/exifcleaner | partial | 2026-08-31T13:03:50Z | [open](../records/photography-sztheory-exifcleaner-b20ea9b2.md) |
 | waschinski/photo-stream | partial | 2026-06-23T20:05:48Z | [open](../records/photography-waschinski-photo-stream-ff2deddb.md) |
 | wkjarosz/hdrview | partial | 2026-09-02T06:30:10Z | [open](../records/photography-wkjarosz-hdrview-37a29874.md) |
+| wsl2ls/iOS_Tips | partial | 2022-08-28T19:02:32Z | [open](../records/photography-wsl2ls-ios-tips-4b0e1ffa.md) |
 | Yummypets/YPImagePicker | partial | 2026-07-28T15:57:49Z | [open](../records/photography-yummypets-ypimagepicker-25854b52.md) |
+| zapdos-labs/unblink | partial | 2026-03-09T09:42:25Z | [open](../records/photography-zapdos-labs-unblink-0845b1a9.md) |
 | zidage/AlcedoStudio | partial | 2026-09-01T23:22:15Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
 
 ## Microscopy
@@ -1028,7 +1039,7 @@ Records: `1220`
 | cytomining/pycytominer | partial | 2026-09-01T21:45:06Z | [open](../records/microscopy-cytomining-pycytominer-f61cb1dc.md) |
 | dancsalo/TensorFlow-MIL | partial | 2020-08-24T19:46:19Z | [open](../records/microscopy-dancsalo-tensorflow-mil-823d26d9.md) |
 | david-hoffman/pyotf | partial | 2024-04-08T20:58:26Z | [open](../records/microscopy-david-hoffman-pyotf-f47c74b0.md) |
-| deepinv/deepinv | partial | 2026-09-01T12:12:16Z | [open](../records/microscopy-deepinv-deepinv-59141df0.md) |
+| deepinv/deepinv | partial | 2026-09-02T13:47:02Z | [open](../records/microscopy-deepinv-deepinv-59141df0.md) |
 | delmic/odemis | partial | 2026-09-02T07:11:00Z | [open](../records/microscopy-delmic-odemis-64e6d3c9.md) |
 | fairscope/PlanktoScope | partial | 2026-09-01T09:18:07Z | [open](../records/microscopy-fairscope-planktoscope-9189e5a9.md) |
 | google-research/sofima | partial | 2026-08-06T15:10:50Z | [open](../records/microscopy-google-research-sofima-72568ecb.md) |
@@ -1064,7 +1075,7 @@ Records: `1220`
 | rapidsai/cucim | partial | 2026-09-01T14:47:34Z | [open](../records/microscopy-rapidsai-cucim-6fd9f972.md) |
 | royerlab/cytoself | partial | 2025-08-05T18:46:40Z | [open](../records/microscopy-royerlab-cytoself-b2dff824.md) |
 | rwb27/openflexure_microscope | partial | 2019-04-30T15:12:38Z | [open](../records/microscopy-rwb27-openflexure-microscope-9f4f36b7.md) |
-| scalableminds/webknossos | partial | 2026-09-02T13:00:04Z | [open](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) |
+| scalableminds/webknossos | partial | 2026-09-02T15:24:42Z | [open](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) |
 | seung-lab/cloud-volume | partial | 2026-08-13T01:17:15Z | [open](../records/microscopy-seung-lab-cloud-volume-388cc8e9.md) |
 | tferr/Scripts | partial | 2022-06-03T11:23:48Z | [open](../records/microscopy-tferr-scripts-25277503.md) |
 | TheDeanLab/navigate | partial | 2026-08-31T13:00:45Z | [open](../records/microscopy-thedeanlab-navigate-dc14fa5a.md) |
