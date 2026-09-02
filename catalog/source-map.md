@@ -5,22 +5,22 @@
 ## Category Index
 
 [Api Abi Checker (198)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (42)](by-category/assertion-mocking.md) · [Async Runtime (131)](by-category/async-runtime.md)
-[Benchmarking (152)](by-category/benchmarking.md) · [Build System (858)](by-category/build-system.md) · [Cli (516)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
-[Community Reference (89)](by-category/community-reference.md) · [Compiler (172)](by-category/compiler.md) · [Compiler Diagnostics (23)](by-category/compiler-diagnostics.md) · [Compression (45)](by-category/compression.md)
+[Benchmarking (152)](by-category/benchmarking.md) · [Build System (858)](by-category/build-system.md) · [Cli (518)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Community Reference (90)](by-category/community-reference.md) · [Compiler (172)](by-category/compiler.md) · [Compiler Diagnostics (23)](by-category/compiler-diagnostics.md) · [Compression (45)](by-category/compression.md)
 [Concurrency Parallelism (74)](by-category/concurrency-parallelism.md) · [Configuration (105)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (13)](by-category/coverage.md)
 [Cryptography (158)](by-category/cryptography.md) · [Data Science (34)](by-category/data-science.md) · [Database Datastore (778)](by-category/database-datastore.md) · [Datetime (166)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (41)](by-category/debugger.md) · [Dependency Manager (90)](by-category/dependency-manager.md) · [Documentation (92)](by-category/documentation.md)
 [Embedded Hardware (51)](by-category/embedded-hardware.md) · [Ffi Bindings (395)](by-category/ffi-bindings.md) · [Filesystem Os (1271)](by-category/filesystem-os.md) · [Formatter (570)](by-category/formatter.md)
 [Framework (51)](by-category/framework.md) · [Fuzzer (48)](by-category/fuzzer.md) · [Game Engine Game Dev (162)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1241)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (310)](by-category/image-audio-dsp.md) · [Interop Bindings (56)](by-category/interop-bindings.md) · [Interpreter Runtime (240)](by-category/interpreter-runtime.md) · [Jit Vm (58)](by-category/jit-vm.md)
-[Language Server (27)](by-category/language-server.md) · [Language Specification (1257)](by-category/language-specification.md) · [Library (5009)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Image Audio Dsp (312)](by-category/image-audio-dsp.md) · [Interop Bindings (56)](by-category/interop-bindings.md) · [Interpreter Runtime (240)](by-category/interpreter-runtime.md) · [Jit Vm (58)](by-category/jit-vm.md)
+[Language Server (27)](by-category/language-server.md) · [Language Specification (1257)](by-category/language-specification.md) · [Library (5011)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (42)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (461)](by-category/logging-observability.md) · [Machine Learning (613)](by-category/machine-learning.md)
 [Math Numeric Scientific (82)](by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](by-category/memory-analyzer.md) · [Message Broker (34)](by-category/message-broker.md) · [Networking Http (941)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (399)](by-category/package-manager.md) · [Parser Lexer Ast (947)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (268)](by-category/precommit-ci-quality.md)
 [Profiler (76)](by-category/profiler.md) · [Project Scaffolding (124)](by-category/project-scaffolding.md) · [Registry Repository (107)](by-category/registry-repository.md) · [Sanitizer (13)](by-category/sanitizer.md)
-[Security Sast (324)](by-category/security-sast.md) · [Serialization (374)](by-category/serialization.md) · [Standard Library (24)](by-category/standard-library.md) · [Static Analyzer (463)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (507)](by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](by-category/tutorial-book-styleguide.md) · [Type Checker (293)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1443)](by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](by-category/utility-library.md) · [Visualization Gui (427)](by-category/visualization-gui.md) · [Web Framework (428)](by-category/web-framework.md)
+[Security Sast (324)](by-category/security-sast.md) · [Serialization (374)](by-category/serialization.md) · [Standard Library (24)](by-category/standard-library.md) · [Static Analyzer (464)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (508)](by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](by-category/tutorial-book-styleguide.md) · [Type Checker (293)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (1443)](by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](by-category/utility-library.md) · [Visualization Gui (427)](by-category/visualization-gui.md) · [Web Framework (429)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -876,6 +876,7 @@
 | `cran_packages_by_date-0a71d6e93f3321` | glcdp | [open](records/r-glcdp-348db18b.md) |
 | `cran_packages_by_date-0ac3b0a1844e36` | nmfkc | [open](records/r-nmfkc-03f45a99.md) |
 | `cran_packages_by_date-0ae570689845db` | roads | [open](records/r-roads-57016556.md) |
+| `cran_packages_by_date-0af300864897ee` | BivKLD | [open](records/r-bivkld-f8a06bc5.md) |
 | `cran_packages_by_date-0b6d40f3ec1a0d` | CausalState | [open](records/r-causalstate-3d54ad2d.md) |
 | `cran_packages_by_date-0baff75eb3be4f` | c3 | [open](records/r-c3-1fc1201b.md) |
 | `cran_packages_by_date-0bc35b7087dceb` | scov | [open](records/r-scov-c80bd944.md) |
@@ -1309,6 +1310,7 @@
 | `cran_packages_by_date-54e7c5f7c138c3` | rasch | [open](records/r-rasch-8b8cfca8.md) |
 | `cran_packages_by_date-552f9a2ea386ca` | linl | [open](records/r-linl-02b38623.md) |
 | `cran_packages_by_date-553ba956f31059` | LSJM | [open](records/r-lsjm-ae2f327c.md) |
+| `cran_packages_by_date-553d8a09494cab` | gasper | [open](records/r-gasper-765e7234.md) |
 | `cran_packages_by_date-554e30f1105ba8` | margEVT | [open](records/r-margevt-b141cef5.md) |
 | `cran_packages_by_date-556aa4f6ba0e60` | episensr | [open](records/r-episensr-dfe78fa4.md) |
 | `cran_packages_by_date-5585d61d881c81` | vannstats | [open](records/r-vannstats-3fba77f8.md) |
@@ -1611,6 +1613,7 @@
 | `cran_packages_by_date-847de6759703d3` | EDIutils | [open](records/r-ediutils-613f36b0.md) |
 | `cran_packages_by_date-84aba603066200` | stepcount | [open](records/r-stepcount-2583c11b.md) |
 | `cran_packages_by_date-84f3b02f1a8605` | cardinalfda | [open](records/r-cardinalfda-cb361987.md) |
+| `cran_packages_by_date-855e18da4007ff` | circumplex | [open](records/r-circumplex-e80741d7.md) |
 | `cran_packages_by_date-856bd54d0833fe` | policytree | [open](records/r-policytree-989effd3.md) |
 | `cran_packages_by_date-859fdc5bcb7ee3` | RaCE.NMA | [open](records/r-race-nma-5c8d438d.md) |
 | `cran_packages_by_date-859fe936f87af2` | PanelSelect | [open](records/r-panelselect-c72ae5ba.md) |
@@ -1727,6 +1730,7 @@
 | `cran_packages_by_date-98d9292262c4e7` | tteICE | [open](records/r-tteice-b5c6268f.md) |
 | `cran_packages_by_date-98e4bbfae11e9b` | yulab.utils | [open](records/r-yulab-utils-b3bd7d5c.md) |
 | `cran_packages_by_date-98ea7711876105` | qtsa | [open](records/r-qtsa-c66cce00.md) |
+| `cran_packages_by_date-98fb76e59f8b04` | dScoreTest | [open](records/r-dscoretest-8924c911.md) |
 | `cran_packages_by_date-991fb789d44860` | vayr | [open](records/r-vayr-1f6d5cd3.md) |
 | `cran_packages_by_date-99559c0a2aa425` | fipp | [open](records/r-fipp-d7a8c719.md) |
 | `cran_packages_by_date-99691bf2d05614` | NeutroBasicDesignsAnalysis | [open](records/r-neutrobasicdesignsanalysis-d8530265.md) |
@@ -1908,6 +1912,7 @@
 | `cran_packages_by_date-bacb75e8391c7a` | kstMatrix | [open](records/r-kstmatrix-b1aac5cc.md) |
 | `cran_packages_by_date-badeee2f141267` | tinyrox | [open](records/r-tinyrox-ec93aad4.md) |
 | `cran_packages_by_date-badf60082c1f11` | tidyEmoji | [open](records/r-tidyemoji-c99524d1.md) |
+| `cran_packages_by_date-bafb74202cc10e` | scalednap | [open](records/r-scalednap-a05091ee.md) |
 | `cran_packages_by_date-bb0c2cb7804005` | psreplicate | [open](records/r-psreplicate-8c410efc.md) |
 | `cran_packages_by_date-bb689488d587be` | MLE | [open](records/r-mle-1229959b.md) |
 | `cran_packages_by_date-bba6a2cd673499` | tinytiger | [open](records/r-tinytiger-07329421.md) |
@@ -2003,6 +2008,7 @@
 | `cran_packages_by_date-cc34a34eb9be15` | arrow | [open](records/r-arrow-c7f7de58.md) |
 | `cran_packages_by_date-cc914e2d3805a3` | dbscan | [open](records/r-dbscan-ef4d1dc6.md) |
 | `cran_packages_by_date-cccb46e9c668ce` | autodb | [open](records/r-autodb-5e6d39a0.md) |
+| `cran_packages_by_date-ccd2755cc0fc68` | rcicr | [open](records/r-rcicr-8cd8aead.md) |
 | `cran_packages_by_date-ccd6b353b21ca5` | sgee | [open](records/r-sgee-9edd0ee9.md) |
 | `cran_packages_by_date-cd3a2a22bf36bf` | jellyfisher | [open](records/r-jellyfisher-1a627722.md) |
 | `cran_packages_by_date-cd4f603612cf18` | climenu | [open](records/r-climenu-9b1e8f47.md) |
@@ -2216,6 +2222,7 @@
 | `cran_packages_by_date-ef026438a35d0c` | EmpiricalDynamics | [open](records/r-empiricaldynamics-7b4496a1.md) |
 | `cran_packages_by_date-ef37f92e934b08` | rollama | [open](records/r-rollama-28c14d6c.md) |
 | `cran_packages_by_date-ef8f7311eef0e8` | healthiar | [open](records/r-healthiar-08b8fbd7.md) |
+| `cran_packages_by_date-efd05ff32bc747` | brulee | [open](records/r-brulee-b0699596.md) |
 | `cran_packages_by_date-efd6a7c3ed93a7` | gmvarkit | [open](records/r-gmvarkit-788988b3.md) |
 | `cran_packages_by_date-efe2ec1d641182` | goodpractice | [open](records/r-goodpractice-b188b70b.md) |
 | `cran_packages_by_date-f091fc48b4a71d` | gp3tools | [open](records/r-gp3tools-3fb3dda5.md) |
@@ -13265,6 +13272,7 @@
 | `hackage_recent-93412bbaff519b` | kioku-migrations | [open](records/haskell-kioku-migrations-2c5f56b2.md) |
 | `hackage_recent-9d97fd66e22732` | grpc-spec | [open](records/haskell-grpc-spec-b01344ad.md) |
 | `hackage_recent-c27fe6ee52d5b4` | kioku-cli | [open](records/haskell-kioku-cli-1c907a92.md) |
+| `hackage_recent-c6a78aab59f2d5` | hopenpgp-tools | [open](records/haskell-hopenpgp-tools-39a59dde.md) |
 | `hackage_recent-caaad4e7e9d8e0` | servant-ede | [open](records/haskell-servant-ede-265a6dc2.md) |
 | `hackage_recent-de5657564350b6` | simple-smt | [open](records/haskell-simple-smt-901983e2.md) |
 | `hackage_recent-f6957e818cba3b` | hdf5 | [open](records/haskell-hdf5-eab0aa96.md) |
@@ -14235,7 +14243,6 @@
 | `hackage_top_downloads-c68d119370a175` | language-ats | [open](records/haskell-language-ats-602673bb.md) |
 | `hackage_top_downloads-c68d2c51752e7c` | tracing | [open](records/haskell-tracing-ffb111c3.md) |
 | `hackage_top_downloads-c6a433e54ac734` | template-haskell | [open](records/haskell-template-haskell-105ba04a.md) |
-| `hackage_top_downloads-c6a78aab59f2d5` | hopenpgp-tools | [open](records/haskell-hopenpgp-tools-39a59dde.md) |
 | `hackage_top_downloads-c6a99f25db336e` | citeproc | [open](records/haskell-citeproc-d0edae83.md) |
 | `hackage_top_downloads-c6bf3f32570634` | jacinda | [open](records/haskell-jacinda-77fe1382.md) |
 | `hackage_top_downloads-c6da77e4d5c2f2` | dhall | [open](records/haskell-dhall-1d6993a7.md) |
@@ -19348,6 +19355,7 @@
 | `npm_registry-266d974e9c344b` | @fedify/testing | [open](records/node-js-javascript-fedify-testing-fe851537.md) |
 | `npm_registry-269ae15646af77` | @turnkey/sdk-server | [open](records/node-js-javascript-turnkey-sdk-server-330a2b7d.md) |
 | `npm_registry-269ea196640908` | graphql-sse | [open](records/node-js-javascript-graphql-sse-4e53170e.md) |
+| `npm_registry-26b691ac4e7ea7` | @marp-team/marp-cli | [open](records/node-js-javascript-marp-team-marp-cli-b69e1548.md) |
 | `npm_registry-26c979a2e49f25` | @launchdarkly/node-server-sdk | [open](records/node-js-javascript-launchdarkly-node-server-sdk-ee82236b.md) |
 | `npm_registry-26fe282d706ea6` | @logux/server | [open](records/node-js-javascript-logux-server-52acd2a3.md) |
 | `npm_registry-27120f9083d06b` | prettier-plugin-edgejs | [open](records/node-js-javascript-prettier-plugin-edgejs-e11ae46c.md) |
@@ -20028,6 +20036,7 @@
 | `npm_registry-665da09dae43f9` | kysely-codegen | [open](records/node-js-typescript-kysely-codegen-e1b61328.md) |
 | `npm_registry-66783a57eff272` | @liff/server-api | [open](records/node-js-javascript-liff-server-api-7488dbd8.md) |
 | `npm_registry-6693d3de7905ef` | follow-redirects | [open](records/node-js-javascript-follow-redirects-4bf3d14b.md) |
+| `npm_registry-66a9ef433d3d4b` | grunt-contrib-connect | [open](records/node-js-javascript-grunt-contrib-connect-096e0682.md) |
 | `npm_registry-66beaf1433f9b1` | xorma | [open](records/node-js-javascript-xorma-11e77c2a.md) |
 | `npm_registry-66c79c90032195` | truffle-security | [open](records/node-js-javascript-truffle-security-84f67182.md) |
 | `npm_registry-66e8e474353742` | @shopify/prettier-config | [open](records/node-js-javascript-shopify-prettier-config-d077d7f4.md) |
@@ -20584,6 +20593,7 @@
 | `npm_registry-9a31439ec7b4a6` | exframe-logger | [open](records/node-js-javascript-exframe-logger-850a2819.md) |
 | `npm_registry-9a320158a2ce6d` | codeceptjs | [open](records/node-js-javascript-codeceptjs-c62ce818.md) |
 | `npm_registry-9a508f92773df9` | @renovosolutions/cdk-aspects-library-security-group | [open](records/node-js-javascript-renovosolutions-cdk-aspects-library-security-group-8e60cf4d.md) |
+| `npm_registry-9a525569bb1463` | skillflag | [open](records/node-js-javascript-skillflag-14ceadb2.md) |
 | `npm_registry-9aa948cd71b9aa` | opencv-build | [open](records/node-js-javascript-opencv-build-422064fe.md) |
 | `npm_registry-9abe8d5afdac61` | @exodus/account-security | [open](records/node-js-javascript-exodus-account-security-df3d68e4.md) |
 | `npm_registry-9ac587def3149c` | choose-security | [open](records/node-js-javascript-choose-security-cf1d991a.md) |

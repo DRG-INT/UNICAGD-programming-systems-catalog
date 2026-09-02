@@ -1,6 +1,6 @@
 # Testing Framework
 
-Records: `507`
+Records: `508`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `507`
 ## Category Index
 
 [Api Abi Checker (198)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (42)](assertion-mocking.md) · [Async Runtime (131)](async-runtime.md)
-[Benchmarking (152)](benchmarking.md) · [Build System (858)](build-system.md) · [Cli (516)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (89)](community-reference.md) · [Compiler (172)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+[Benchmarking (152)](benchmarking.md) · [Build System (858)](build-system.md) · [Cli (518)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (90)](community-reference.md) · [Compiler (172)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
 [Concurrency Parallelism (74)](concurrency-parallelism.md) · [Configuration (105)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (13)](coverage.md)
 [Cryptography (158)](cryptography.md) · [Data Science (34)](data-science.md) · [Database Datastore (778)](database-datastore.md) · [Datetime (166)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (90)](dependency-manager.md) · [Documentation (92)](documentation.md)
 [Embedded Hardware (51)](embedded-hardware.md) · [Ffi Bindings (395)](ffi-bindings.md) · [Filesystem Os (1271)](filesystem-os.md) · [Formatter (570)](formatter.md)
 [Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (162)](game-engine-game-dev.md) · [Ide Editor Integration (1241)](ide-editor-integration.md)
-[Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (240)](interpreter-runtime.md) · [Jit Vm (58)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1257)](language-specification.md) · [Library (5009)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Image Audio Dsp (312)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (240)](interpreter-runtime.md) · [Jit Vm (58)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1257)](language-specification.md) · [Library (5011)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (461)](logging-observability.md) · [Machine Learning (613)](machine-learning.md)
 [Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (941)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (399)](package-manager.md) · [Parser Lexer Ast (947)](parser-lexer-ast.md) · [Precommit Ci Quality (268)](precommit-ci-quality.md)
 [Profiler (76)](profiler.md) · [Project Scaffolding (124)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (324)](security-sast.md) · [Serialization (374)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (463)](static-analyzer.md)
-[Templating (2)](templating.md) · **[Testing Framework (507)](testing-framework.md)** · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (293)](type-checker.md)
-[Undefined Behavior Analyzer (1443)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (427)](visualization-gui.md) · [Web Framework (428)](web-framework.md)
+[Security Sast (324)](security-sast.md) · [Serialization (374)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (464)](static-analyzer.md)
+[Templating (2)](templating.md) · **[Testing Framework (508)](testing-framework.md)** · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (293)](type-checker.md)
+[Undefined Behavior Analyzer (1443)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (427)](visualization-gui.md) · [Web Framework (429)](web-framework.md)
 
 ## C99
 
@@ -174,7 +174,7 @@ Records: `507`
 | @harnessio/react-api-testing-service-client | 0.4.0 | 2026-07-23T13:19:47.347Z | [open](../records/node-js-javascript-harnessio-react-api-testing-service-client-a9acdedb.md) |
 | @iabtechlabtcf/testing | 1.5.22 | 2026-09-01T18:14:14.773Z | [open](../records/node-js-javascript-iabtechlabtcf-testing-999f222a.md) |
 | @inngest/test | 1.0.0 | 2026-03-25T14:11:16.511Z | [open](../records/node-js-javascript-inngest-test-8b100cd2.md) |
-| @inquirer/testing | 3.3.11 | 2026-08-26T23:04:25.080Z | [open](../records/node-js-javascript-inquirer-testing-6655503f.md) |
+| @inquirer/testing | 3.3.12 | 2026-09-02T21:53:40.797Z | [open](../records/node-js-javascript-inquirer-testing-6655503f.md) |
 | @iobroker/testing | 5.3.0 | 2026-07-11T07:36:57.584Z | [open](../records/node-js-javascript-iobroker-testing-1634fcb2.md) |
 | @japa/runner | 5.3.0 | 2026-01-17T08:07:46.880Z | [open](../records/node-js-javascript-japa-runner-e5c110c3.md) |
 | @jest-mock/express | 3.0.0 | 2025-02-03T20:48:41.468Z | [open](../records/node-js-javascript-jest-mock-express-619dafe1.md) |
@@ -437,6 +437,7 @@ Records: `507`
 | DAGassist | 0.3.0 | 2026-08-19 13:20:02 UTC | [open](../records/r-dagassist-b248a183.md) |
 | DiscreteTests | 0.5.1 | 2026-09-02 05:20:53 UTC | [open](../records/r-discretetests-c4aa034b.md) |
 | DPComb | 1.0.1 | 2026-08-22 16:30:22 UTC | [open](../records/r-dpcomb-ea26f266.md) |
+| dScoreTest | 1.0.0 | 2026-09-02 20:20:02 UTC | [open](../records/r-dscoretest-8924c911.md) |
 | ebrahim.gof | 2.6.0 | 2026-08-28 09:50:24 UTC | [open](../records/r-ebrahim-gof-516fb9cc.md) |
 | exactGMH | 0.1.0 | 2026-08-09 08:10:06 UTC | [open](../records/r-exactgmh-bf67ee38.md) |
 | exametrika | 2.0.0 | 2026-08-20 10:50:02 UTC | [open](../records/r-exametrika-201c952f.md) |
@@ -493,7 +494,7 @@ Records: `507`
 | test-framework-quickcheck2 | 0.3.0.7 | 2026-01-05T13:43:55Z | [open](../records/haskell-test-framework-quickcheck2-52913538.md) |
 | unix-bytestring | 0.4.0.4 | 2026-02-27T00:53:34Z | [open](../records/haskell-unix-bytestring-51f87c48.md) |
 | wai-test | 3.0.0 | 2014-06-09T07:43:33Z | [open](../records/haskell-wai-test-6f3e611d.md) |
-| yesod-test | 1.7.0.3 | 2026-07-29T08:45:39Z | [open](../records/haskell-yesod-test-b573e9e5.md) |
+| yesod-test | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yesod-test-b573e9e5.md) |
 
 ## Octave
 
