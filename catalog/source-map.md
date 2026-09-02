@@ -5,7 +5,7 @@
 ## Category Index
 
 [Api Abi Checker (180)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (41)](by-category/assertion-mocking.md) · [Async Runtime (122)](by-category/async-runtime.md)
-[Benchmarking (110)](by-category/benchmarking.md) · [Build System (806)](by-category/build-system.md) · [Cli (495)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (110)](by-category/benchmarking.md) · [Build System (806)](by-category/build-system.md) · [Cli (497)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (83)](by-category/community-reference.md) · [Compiler (170)](by-category/compiler.md) · [Compiler Diagnostics (22)](by-category/compiler-diagnostics.md) · [Compression (45)](by-category/compression.md)
 [Concurrency Parallelism (71)](by-category/concurrency-parallelism.md) · [Configuration (99)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (11)](by-category/coverage.md)
 [Cryptography (154)](by-category/cryptography.md) · [Data Science (32)](by-category/data-science.md) · [Database Datastore (687)](by-category/database-datastore.md) · [Datetime (157)](by-category/datetime.md)
@@ -19,8 +19,8 @@
 [Other (14)](by-category/other.md) · [Package Manager (260)](by-category/package-manager.md) · [Parser Lexer Ast (899)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (259)](by-category/precommit-ci-quality.md)
 [Profiler (68)](by-category/profiler.md) · [Project Scaffolding (118)](by-category/project-scaffolding.md) · [Registry Repository (107)](by-category/registry-repository.md) · [Sanitizer (12)](by-category/sanitizer.md)
 [Security Sast (311)](by-category/security-sast.md) · [Serialization (367)](by-category/serialization.md) · [Standard Library (24)](by-category/standard-library.md) · [Static Analyzer (426)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (492)](by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](by-category/tutorial-book-styleguide.md) · [Type Checker (286)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1362)](by-category/undefined-behavior-analyzer.md) · [Utility Library (92)](by-category/utility-library.md) · [Visualization Gui (413)](by-category/visualization-gui.md) · [Web Framework (388)](by-category/web-framework.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (492)](by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](by-category/tutorial-book-styleguide.md) · [Type Checker (287)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (1364)](by-category/undefined-behavior-analyzer.md) · [Utility Library (92)](by-category/utility-library.md) · [Visualization Gui (413)](by-category/visualization-gui.md) · [Web Framework (390)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -17645,6 +17645,7 @@
 | `npm_registry-10ffe82b23fd78` | @electron-toolkit/eslint-config-prettier | [open](records/node-js-javascript-electron-toolkit-eslint-config-prettier-baa015e9.md) |
 | `npm_registry-1107e6182242a7` | @opentelemetry/instrumentation-connect | [open](records/node-js-javascript-opentelemetry-instrumentation-connect-21684af5.md) |
 | `npm_registry-1115ae12de1416` | @doist/prettier-config | [open](records/node-js-javascript-doist-prettier-config-45f71ae8.md) |
+| `npm_registry-114b09fb9563e2` | @github/copilot-linux-x64 | [open](records/node-js-javascript-github-copilot-linux-x64-e1103f2c.md) |
 | `npm_registry-11509a677a644f` | ember-cli-preprocess-registry | [open](records/node-js-javascript-ember-cli-preprocess-registry-edb5fe8a.md) |
 | `npm_registry-116658710e6e51` | eslint-config-prettier | [open](records/node-js-javascript-eslint-config-prettier-4a222ff5.md) |
 | `npm_registry-1174e71c2fd032` | @types/mdast | [open](records/node-js-typescript-types-mdast-ec074f5c.md) |
@@ -17783,6 +17784,7 @@
 | `npm_registry-1cc28aafab1327` | eslint-plugin-rxjs | [open](records/node-js-javascript-eslint-plugin-rxjs-75fb73c5.md) |
 | `npm_registry-1cef7f504964c2` | @mongodb-js/prettier-config-devtools | [open](records/node-js-javascript-mongodb-js-prettier-config-devtools-bddb39af.md) |
 | `npm_registry-1d5752e023011e` | @gql2ts/language-typescript | [open](records/node-js-typescript-gql2ts-language-typescript-25517491.md) |
+| `npm_registry-1d5c121e2f1e59` | agent-browser | [open](records/node-js-javascript-agent-browser-995918db.md) |
 | `npm_registry-1d6a241e24c18b` | typescript-prettier-language-service | [open](records/node-js-typescript-typescript-prettier-language-service-d4b35281.md) |
 | `npm_registry-1dbc490b92e46d` | resend-cli | [open](records/node-js-javascript-resend-cli-6d949c1a.md) |
 | `npm_registry-1dc3562d28e5d5` | @angular-eslint/eslint-plugin | [open](records/node-js-javascript-angular-eslint-eslint-plugin-eac8712f.md) |
@@ -18374,6 +18376,7 @@
 | `npm_registry-52e39fa5e62721` | hexo-server | [open](records/node-js-javascript-hexo-server-999441df.md) |
 | `npm_registry-52ff62f9661af0` | @launchdarkly/js-server-sdk-common-edge | [open](records/node-js-javascript-launchdarkly-js-server-sdk-common-edge-04bd7216.md) |
 | `npm_registry-53023f236141a8` | @gql.tada/cli-utils | [open](records/node-js-javascript-gql-tada-cli-utils-5273b9c0.md) |
+| `npm_registry-530a2435c16d30` | @teppeis/multimaps | [open](records/node-js-typescript-teppeis-multimaps-5ad7022a.md) |
 | `npm_registry-5348307db19e99` | mock-typeorm | [open](records/node-js-javascript-mock-typeorm-8b859e7e.md) |
 | `npm_registry-534ffe163e1427` | @angular-helpers/security | [open](records/node-js-javascript-angular-helpers-security-6de6f357.md) |
 | `npm_registry-536b91832548b4` | @crxjs/vite-plugin | [open](records/node-js-javascript-crxjs-vite-plugin-41b68e38.md) |
@@ -18509,6 +18512,7 @@
 | `npm_registry-608cc734b9f49f` | redocly | [open](records/node-js-javascript-redocly-8a442454.md) |
 | `npm_registry-60f170977f23a3` | @backstage/cli-module-test-jest | [open](records/node-js-javascript-backstage-cli-module-test-jest-01ef3bd6.md) |
 | `npm_registry-60f9d54391a6b7` | @accounter/server | [open](records/node-js-javascript-accounter-server-29485588.md) |
+| `npm_registry-610e20ec40a1f1` | s3rver | [open](records/node-js-javascript-s3rver-d2172bc3.md) |
 | `npm_registry-616f2a89b9da37` | server-cli-only | [open](records/node-js-javascript-server-cli-only-17eb2673.md) |
 | `npm_registry-6175dd60b0cc25` | aurelia-logging | [open](records/node-js-javascript-aurelia-logging-e537f5f6.md) |
 | `npm_registry-617d03d771d341` | @babel/helper-builder-react-jsx-experimental | [open](records/node-js-javascript-babel-helper-builder-react-jsx-experimental-6349cce8.md) |
@@ -18527,6 +18531,7 @@
 | `npm_registry-6296ee598e3029` | Axios | [open](records/node-js-javascript-axios-46fe1d82.md) |
 | `npm_registry-629fd9d9df3948` | @cubejs-backend/athena-driver | [open](records/node-js-javascript-cubejs-backend-athena-driver-6bacd80a.md) |
 | `npm_registry-62c535725166fc` | cli-usage | [open](records/node-js-javascript-cli-usage-22eceb7d.md) |
+| `npm_registry-62e8d374976157` | @supabase/mcp-server-supabase | [open](records/node-js-javascript-supabase-mcp-server-supabase-7cd0f08b.md) |
 | `npm_registry-62f437ec6b20d1` | @turf/random | [open](records/node-js-javascript-turf-random-c19c1086.md) |
 | `npm_registry-62fe3fb174a41d` | wordnet-db | [open](records/node-js-javascript-wordnet-db-84c40f56.md) |
 | `npm_registry-63276fdfe837a5` | @rspack/cli | [open](records/node-js-javascript-rspack-cli-8e6b6307.md) |
@@ -18625,6 +18630,7 @@
 | `npm_registry-6c39e89dc88dd6` | @agentback/security | [open](records/node-js-javascript-agentback-security-0423f5a1.md) |
 | `npm_registry-6c3d524192c59d` | eas-build-cache-provider | [open](records/node-js-javascript-eas-build-cache-provider-8dac2ea1.md) |
 | `npm_registry-6c4f4f837edc84` | @socketsecurity/bun-security-scanner | [open](records/node-js-javascript-socketsecurity-bun-security-scanner-587b9763.md) |
+| `npm_registry-6c66fa464d834e` | @cubejs-backend/hive-driver | [open](records/node-js-javascript-cubejs-backend-hive-driver-465861fe.md) |
 | `npm_registry-6c75b974d6be9a` | @types/server-destroy | [open](records/node-js-typescript-types-server-destroy-b9f4d71c.md) |
 | `npm_registry-6c85fedef2c89f` | node-git-server | [open](records/node-js-javascript-node-git-server-66706502.md) |
 | `npm_registry-6c885af8e01a56` | http-z | [open](records/node-js-javascript-http-z-27d9e148.md) |
@@ -19999,6 +20005,7 @@
 | `npm_registry-f40efe9c83bd08` | @plandek-utils/logging | [open](records/node-js-typescript-plandek-utils-logging-83d4cb73.md) |
 | `npm_registry-f42053f00d1acf` | @redwoodjs/testing | [open](records/node-js-javascript-redwoodjs-testing-d84db9e5.md) |
 | `npm_registry-f421887f6d3aff` | @types/pouchdb-adapter-http | [open](records/node-js-typescript-types-pouchdb-adapter-http-47ddb025.md) |
+| `npm_registry-f43cf5f47ce9e8` | @supabase/cli-linux-x64-musl | [open](records/node-js-javascript-supabase-cli-linux-x64-musl-49b40394.md) |
 | `npm_registry-f4630944b854f0` | @asciidoctor/cli | [open](records/node-js-javascript-asciidoctor-cli-118e50d8.md) |
 | `npm_registry-f466c20e7d53dc` | zipcodes | [open](records/node-js-javascript-zipcodes-04dcf476.md) |
 | `npm_registry-f4692f3f3be72b` | @neo4j/introspector | [open](records/node-js-javascript-neo4j-introspector-6e9626fd.md) |

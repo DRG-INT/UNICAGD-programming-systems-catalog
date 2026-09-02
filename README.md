@@ -1,6 +1,6 @@
 # UNICAGD Programming Systems Discovery Catalog
 
-Generated: `2026-09-02T03:21:30+00:00`
+Generated: `2026-09-02T04:24:52+00:00`
 
 This repository is a Markdown explorer for a systems-engineering programming corpus. It preserves the master JSON seed, expands it with registry-derived ecosystem records, and tracks release metadata without guessing unknown dates.
 
@@ -15,7 +15,7 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 ## Category Index
 
 [Api Abi Checker (180)](catalog/by-category/api-abi-checker.md) · [Api Doc Generator (12)](catalog/by-category/api-doc-generator.md) · [Assertion Mocking (41)](catalog/by-category/assertion-mocking.md) · [Async Runtime (122)](catalog/by-category/async-runtime.md)
-[Benchmarking (110)](catalog/by-category/benchmarking.md) · [Build System (806)](catalog/by-category/build-system.md) · [Cli (495)](catalog/by-category/cli.md) · [Codegen Codemod Refactoring (23)](catalog/by-category/codegen-codemod-refactoring.md)
+[Benchmarking (110)](catalog/by-category/benchmarking.md) · [Build System (806)](catalog/by-category/build-system.md) · [Cli (497)](catalog/by-category/cli.md) · [Codegen Codemod Refactoring (23)](catalog/by-category/codegen-codemod-refactoring.md)
 [Community Reference (83)](catalog/by-category/community-reference.md) · [Compiler (170)](catalog/by-category/compiler.md) · [Compiler Diagnostics (22)](catalog/by-category/compiler-diagnostics.md) · [Compression (45)](catalog/by-category/compression.md)
 [Concurrency Parallelism (71)](catalog/by-category/concurrency-parallelism.md) · [Configuration (99)](catalog/by-category/configuration.md) · [Container Deployment (9)](catalog/by-category/container-deployment.md) · [Coverage (11)](catalog/by-category/coverage.md)
 [Cryptography (154)](catalog/by-category/cryptography.md) · [Data Science (32)](catalog/by-category/data-science.md) · [Database Datastore (687)](catalog/by-category/database-datastore.md) · [Datetime (157)](catalog/by-category/datetime.md)
@@ -29,20 +29,20 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 [Other (14)](catalog/by-category/other.md) · [Package Manager (260)](catalog/by-category/package-manager.md) · [Parser Lexer Ast (899)](catalog/by-category/parser-lexer-ast.md) · [Precommit Ci Quality (259)](catalog/by-category/precommit-ci-quality.md)
 [Profiler (68)](catalog/by-category/profiler.md) · [Project Scaffolding (118)](catalog/by-category/project-scaffolding.md) · [Registry Repository (107)](catalog/by-category/registry-repository.md) · [Sanitizer (12)](catalog/by-category/sanitizer.md)
 [Security Sast (311)](catalog/by-category/security-sast.md) · [Serialization (367)](catalog/by-category/serialization.md) · [Standard Library (24)](catalog/by-category/standard-library.md) · [Static Analyzer (426)](catalog/by-category/static-analyzer.md)
-[Templating (2)](catalog/by-category/templating.md) · [Testing Framework (492)](catalog/by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](catalog/by-category/tutorial-book-styleguide.md) · [Type Checker (286)](catalog/by-category/type-checker.md)
-[Undefined Behavior Analyzer (1362)](catalog/by-category/undefined-behavior-analyzer.md) · [Utility Library (92)](catalog/by-category/utility-library.md) · [Visualization Gui (413)](catalog/by-category/visualization-gui.md) · [Web Framework (388)](catalog/by-category/web-framework.md)
+[Templating (2)](catalog/by-category/templating.md) · [Testing Framework (492)](catalog/by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](catalog/by-category/tutorial-book-styleguide.md) · [Type Checker (287)](catalog/by-category/type-checker.md)
+[Undefined Behavior Analyzer (1364)](catalog/by-category/undefined-behavior-analyzer.md) · [Utility Library (92)](catalog/by-category/utility-library.md) · [Visualization Gui (413)](catalog/by-category/visualization-gui.md) · [Web Framework (390)](catalog/by-category/web-framework.md)
 
 ## Corpus Shape
 
 | Metric | Count |
 | --- | ---: |
 | Source records | 968 |
-| Canonical identity pages | 22087 |
+| Canonical identity pages | 22094 |
 | Expansion records added | 8605 |
 | Release checks attempted | 1200 |
-| Known stable release fields | 9985 |
+| Known stable release fields | 9992 |
 | Unknown stable release fields | 12102 |
-| Fetch errors recorded | 1003 |
+| Fetch errors recorded | 1001 |
 | Target identity count | 24000 |
 
 ## Language Scope

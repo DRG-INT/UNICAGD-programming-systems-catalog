@@ -1,6 +1,6 @@
 # Undefined Behavior Analyzer
 
-Records: `1362`
+Records: `1364`
 
 ## Navigation
 
@@ -9,7 +9,7 @@ Records: `1362`
 ## Category Index
 
 [Api Abi Checker (180)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (122)](async-runtime.md)
-[Benchmarking (110)](benchmarking.md) · [Build System (806)](build-system.md) · [Cli (495)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (110)](benchmarking.md) · [Build System (806)](build-system.md) · [Cli (497)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (83)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
 [Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (99)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (154)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (687)](database-datastore.md) · [Datetime (157)](datetime.md)
@@ -23,8 +23,8 @@ Records: `1362`
 [Other (14)](other.md) · [Package Manager (260)](package-manager.md) · [Parser Lexer Ast (899)](parser-lexer-ast.md) · [Precommit Ci Quality (259)](precommit-ci-quality.md)
 [Profiler (68)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (311)](security-sast.md) · [Serialization (367)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (426)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (492)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (286)](type-checker.md)
-**[Undefined Behavior Analyzer (1362)](undefined-behavior-analyzer.md)** · [Utility Library (92)](utility-library.md) · [Visualization Gui (413)](visualization-gui.md) · [Web Framework (388)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (492)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (287)](type-checker.md)
+**[Undefined Behavior Analyzer (1364)](undefined-behavior-analyzer.md)** · [Utility Library (92)](utility-library.md) · [Visualization Gui (413)](visualization-gui.md) · [Web Framework (390)](web-framework.md)
 
 ## C++23
 
@@ -133,6 +133,7 @@ Records: `1362`
 | @cubejs-backend/databricks-jdbc-driver | 1.7.32 | 2026-09-01T18:09:17.189Z | [open](../records/node-js-javascript-cubejs-backend-databricks-jdbc-driver-75fcf91d.md) |
 | @cubejs-backend/druid-driver | 1.7.32 | 2026-09-01T18:09:17.064Z | [open](../records/node-js-javascript-cubejs-backend-druid-driver-4b43d84c.md) |
 | @cubejs-backend/duckdb-driver | 1.7.32 | 2026-09-01T18:09:29.613Z | [open](../records/node-js-javascript-cubejs-backend-duckdb-driver-01487aa6.md) |
+| @cubejs-backend/hive-driver | 1.7.32 | 2026-09-01T18:08:55.314Z | [open](../records/node-js-javascript-cubejs-backend-hive-driver-465861fe.md) |
 | @cubejs-backend/jdbc-driver | 1.7.32 | 2026-09-01T18:08:55.143Z | [open](../records/node-js-javascript-cubejs-backend-jdbc-driver-04d976e1.md) |
 | @cubejs-backend/ksql-driver | 1.7.32 | 2026-09-01T18:09:17.066Z | [open](../records/node-js-javascript-cubejs-backend-ksql-driver-8e496938.md) |
 | @cubejs-backend/materialize-driver | 1.7.32 | 2026-09-01T18:09:42.127Z | [open](../records/node-js-javascript-cubejs-backend-materialize-driver-bd47599a.md) |
@@ -148,6 +149,7 @@ Records: `1362`
 | @cubejs-backend/testing-shared | 1.7.32 | 2026-09-01T18:09:21.107Z | [open](../records/node-js-javascript-cubejs-backend-testing-shared-ac633cbb.md) |
 | @cubejs-backend/vertica-driver | 1.7.32 | 2026-09-01T18:09:33.696Z | [open](../records/node-js-javascript-cubejs-backend-vertica-driver-55bdb4b8.md) |
 | @feature-hub/server-request | 3.9.0 | 2026-07-01T12:35:23.733Z | [open](../records/node-js-javascript-feature-hub-server-request-69cc8dc3.md) |
+| @github/copilot-linux-x64 | 1.0.82 | 2026-08-29T23:41:23.674Z | [open](../records/node-js-javascript-github-copilot-linux-x64-e1103f2c.md) |
 | @hapi/subtext | 8.1.3 | 2026-05-06T10:24:45.862Z | [open](../records/node-js-javascript-hapi-subtext-e2e3527c.md) |
 | @hubspot/cli | 8.14.0 | 2026-08-27T19:54:32.232Z | [open](../records/node-js-javascript-hubspot-cli-15179122.md) |
 | @lobehub/cli-ui | 1.13.0 | 2025-06-11T05:49:34.974Z | [open](../records/node-js-javascript-lobehub-cli-ui-0f0fa43a.md) |
@@ -1129,7 +1131,7 @@ Records: `1362`
 | github.laiyagushi.com/nemith/dothome | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-laiyagushi-com-nemith-dothome-32cd483a.md) |
 | github.laiyagushi.com/valkey-io/valkey-go | v1.0.56 | 2026-08-30T15:31:38.453275Z | [open](../records/go-github-laiyagushi-com-valkey-io-valkey-go-b2864d71.md) |
 | jfrog/gocenter | partial | 2021-05-14T11:38:26Z | [open](../records/go-jfrog-gocenter-404e69f1.md) |
-| labring/sealos | partial | 2026-09-01T07:32:46Z | [open](../records/go-labring-sealos-594e5269.md) |
+| labring/sealos | partial | 2026-09-02T04:02:35Z | [open](../records/go-labring-sealos-594e5269.md) |
 | uber-go/guide | partial | 2026-04-15T15:10:48Z | [open](../records/go-uber-go-guide-c330b782.md) |
 | uber-go/zap | partial | 2026-08-31T18:59:30Z | [open](../records/go-uber-go-zap-07ea12d8.md) |
 | unpoller/unifi | partial | 2026-09-01T12:00:24Z | [open](../records/go-unpoller-unifi-0809cf4a.md) |
@@ -1153,7 +1155,7 @@ Records: `1362`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bytedance/deer-flow | partial | 2026-09-02T02:25:37Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
+| bytedance/deer-flow | partial | 2026-09-02T03:54:40Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
 | sansan0/TrendRadar | partial | 2026-07-17T13:54:28Z | [open](../records/aim-s-sansan0-trendradar-72e65ee1.md) |
 | TencentCloud/TencentDB-Agent-Memory | partial | 2026-08-31T07:35:24Z | [open](../records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
 
@@ -1221,7 +1223,7 @@ Records: `1362`
 | labtroll/KiCad-Simulations | partial | 2024-03-12T16:05:29Z | [open](../records/space-maps-labtroll-kicad-simulations-df486005.md) |
 | leenkcool/Blue-Whale-Harness | partial | 2026-09-01T11:28:25Z | [open](../records/space-maps-leenkcool-blue-whale-harness-c45019bb.md) |
 | leoheck/sublime-spice | partial | 2020-01-21T17:34:46Z | [open](../records/space-maps-leoheck-sublime-spice-f7ab45e4.md) |
-| MESAHub/mesa | partial | 2026-09-01T19:13:34Z | [open](../records/space-maps-mesahub-mesa-0abd6bf7.md) |
+| MESAHub/mesa | partial | 2026-09-02T02:26:24Z | [open](../records/space-maps-mesahub-mesa-0abd6bf7.md) |
 | rhannequin/astronoby | partial | 2026-08-30T07:55:28Z | [open](../records/space-maps-rhannequin-astronoby-ced172a0.md) |
 | Rohit-singh-github/Cosmic-resume | partial | 2026-08-12T22:41:00Z | [open](../records/space-maps-rohit-singh-github-cosmic-resume-55310cad.md) |
 | sametcn99/my-stars-atlas | partial | 2026-08-15T00:06:02Z | [open](../records/space-maps-sametcn99-my-stars-atlas-26dfd7e9.md) |

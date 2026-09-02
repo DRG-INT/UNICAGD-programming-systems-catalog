@@ -1,6 +1,6 @@
 # Cli
 
-Records: `495`
+Records: `497`
 
 ## Navigation
 
@@ -9,7 +9,7 @@ Records: `495`
 ## Category Index
 
 [Api Abi Checker (180)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (122)](async-runtime.md)
-[Benchmarking (110)](benchmarking.md) · [Build System (806)](build-system.md) · **[Cli (495)](cli.md)** · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (110)](benchmarking.md) · [Build System (806)](build-system.md) · **[Cli (497)](cli.md)** · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (83)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
 [Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (99)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (154)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (687)](database-datastore.md) · [Datetime (157)](datetime.md)
@@ -23,8 +23,8 @@ Records: `495`
 [Other (14)](other.md) · [Package Manager (260)](package-manager.md) · [Parser Lexer Ast (899)](parser-lexer-ast.md) · [Precommit Ci Quality (259)](precommit-ci-quality.md)
 [Profiler (68)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (311)](security-sast.md) · [Serialization (367)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (426)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (492)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (286)](type-checker.md)
-[Undefined Behavior Analyzer (1362)](undefined-behavior-analyzer.md) · [Utility Library (92)](utility-library.md) · [Visualization Gui (413)](visualization-gui.md) · [Web Framework (388)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (492)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (287)](type-checker.md)
+[Undefined Behavior Analyzer (1364)](undefined-behavior-analyzer.md) · [Utility Library (92)](utility-library.md) · [Visualization Gui (413)](visualization-gui.md) · [Web Framework (390)](web-framework.md)
 
 ## C++23
 
@@ -347,6 +347,7 @@ Records: `495`
 | @stoplight/cli | 6.0.2407 | 2025-11-20T02:40:24.867Z | [open](../records/node-js-javascript-stoplight-cli-730b609f.md) |
 | @stripe/cli | 1.50.8 | 2026-09-01T20:21:41.457Z | [open](../records/node-js-javascript-stripe-cli-f2f9a188.md) |
 | @supabase/cli-linux-x64 | 2.116.0 | 2026-08-26T19:55:56.251Z | [open](../records/node-js-javascript-supabase-cli-linux-x64-04164519.md) |
+| @supabase/cli-linux-x64-musl | 2.116.0 | 2026-08-26T19:50:45.214Z | [open](../records/node-js-javascript-supabase-cli-linux-x64-musl-49b40394.md) |
 | @swc/cli | 0.8.1 | 2026-04-01T01:27:35.047Z | [open](../records/node-js-javascript-swc-cli-77c18ec0.md) |
 | @tencent-qqmail/agently-cli | 1.0.18 | 2026-08-28T07:28:58.410Z | [open](../records/node-js-javascript-tencent-qqmail-agently-cli-d0722246.md) |
 | @theia/cli | 1.75.0 | 2026-08-27T13:52:30.824Z | [open](../records/node-js-javascript-theia-cli-056bda35.md) |
@@ -356,7 +357,7 @@ Records: `495`
 | @ui5/logger | 4.0.2 | 2025-09-11T13:14:39.975Z | [open](../records/node-js-javascript-ui5-logger-9bf39db4.md) |
 | @ui5/project | 4.0.17 | 2026-06-15T13:18:37.259Z | [open](../records/node-js-javascript-ui5-project-4c9f4023.md) |
 | @unlighthouse/cli | 0.18.0 | 2026-06-29T03:12:38.954Z | [open](../records/node-js-javascript-unlighthouse-cli-da417c2f.md) |
-| @unocss/cli | 66.9.1 | 2026-09-01T02:49:01.285Z | [open](../records/node-js-javascript-unocss-cli-c357f3f3.md) |
+| @unocss/cli | 66.9.2 | 2026-09-02T03:03:06.544Z | [open](../records/node-js-javascript-unocss-cli-c357f3f3.md) |
 | @usebruno/cli | 4.1.0 | 2026-09-01T18:00:53.653Z | [open](../records/node-js-javascript-usebruno-cli-61be65ea.md) |
 | @vercel/cli-exec | 1.0.1 | 2026-08-03T22:24:21.265Z | [open](../records/node-js-javascript-vercel-cli-exec-8a3b557a.md) |
 | @vue/cli-plugin-babel | 5.0.9 | 2025-08-21T10:57:06.051Z | [open](../records/node-js-javascript-vue-cli-plugin-babel-94e74e64.md) |
@@ -369,6 +370,7 @@ Records: `495`
 | @webpack-cli/generators | 3.0.7 | 2023-06-07T18:23:19.435Z | [open](../records/node-js-javascript-webpack-cli-generators-f0799e5d.md) |
 | @wp-playground/cli | 3.1.52 | 2026-08-31T09:54:08.618Z | [open](../records/node-js-javascript-wp-playground-cli-96d442e6.md) |
 | @zenstackhq/cli | 3.9.3 | 2026-08-31T13:33:50.191Z | [open](../records/node-js-javascript-zenstackhq-cli-0b6ca1af.md) |
+| agent-browser | 0.36.0 | 2026-09-01T04:39:36.798Z | [open](../records/node-js-javascript-agent-browser-995918db.md) |
 | babar | 0.2.3 | 2022-09-09T13:25:48.023Z | [open](../records/node-js-javascript-babar-65661923.md) |
 | byterover-cli | 3.16.1 | 2026-05-27T08:59:35.235Z | [open](../records/node-js-javascript-byterover-cli-00175d9a.md) |
 | cdktf-cli | 0.21.0 | 2025-06-04T16:46:10.094Z | [open](../records/node-js-javascript-cdktf-cli-894a9dc9.md) |
@@ -515,9 +517,9 @@ Records: `495`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-02T02:48:02Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-02T04:19:48Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-02T03:17:40Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-02T04:13:32Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Assets
 

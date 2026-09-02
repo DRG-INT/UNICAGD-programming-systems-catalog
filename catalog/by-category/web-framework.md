@@ -1,6 +1,6 @@
 # Web Framework
 
-Records: `388`
+Records: `390`
 
 ## Navigation
 
@@ -9,7 +9,7 @@ Records: `388`
 ## Category Index
 
 [Api Abi Checker (180)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (122)](async-runtime.md)
-[Benchmarking (110)](benchmarking.md) · [Build System (806)](build-system.md) · [Cli (495)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (110)](benchmarking.md) · [Build System (806)](build-system.md) · [Cli (497)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (83)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
 [Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (99)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (154)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (687)](database-datastore.md) · [Datetime (157)](datetime.md)
@@ -23,8 +23,8 @@ Records: `388`
 [Other (14)](other.md) · [Package Manager (260)](package-manager.md) · [Parser Lexer Ast (899)](parser-lexer-ast.md) · [Precommit Ci Quality (259)](precommit-ci-quality.md)
 [Profiler (68)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (311)](security-sast.md) · [Serialization (367)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (426)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (492)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (286)](type-checker.md)
-[Undefined Behavior Analyzer (1362)](undefined-behavior-analyzer.md) · [Utility Library (92)](utility-library.md) · [Visualization Gui (413)](visualization-gui.md) · **[Web Framework (388)](web-framework.md)**
+[Templating (2)](templating.md) · [Testing Framework (492)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (287)](type-checker.md)
+[Undefined Behavior Analyzer (1364)](undefined-behavior-analyzer.md) · [Utility Library (92)](utility-library.md) · [Visualization Gui (413)](visualization-gui.md) · **[Web Framework (390)](web-framework.md)**
 
 ## C++23
 
@@ -226,16 +226,17 @@ Records: `388`
 | @spawnco/server | 0.0.62 | 2026-06-04T23:48:25.052Z | [open](../records/node-js-javascript-spawnco-server-c6c2a2be.md) |
 | @storybook/preset-server-webpack | 10.5.10 | 2026-08-20T10:44:33.867Z | [open](../records/node-js-javascript-storybook-preset-server-webpack-041828bc.md) |
 | @storybook/server-webpack5 | 10.5.10 | 2026-08-20T11:00:58.419Z | [open](../records/node-js-javascript-storybook-server-webpack5-738ade31.md) |
+| @supabase/mcp-server-supabase | 0.11.0 | 2026-08-20T13:05:14.569Z | [open](../records/node-js-javascript-supabase-mcp-server-supabase-7cd0f08b.md) |
 | @tanstack/react-start-rsc | 0.1.48 | 2026-08-22T22:58:16.169Z | [open](../records/node-js-javascript-tanstack-react-start-rsc-cf26d1f1.md) |
 | @toolbox-sdk/server | 1.10.0 | 2026-08-28T22:23:29.204Z | [open](../records/node-js-javascript-toolbox-sdk-server-6410dd9c.md) |
-| @transcend-io/mcp-server-admin | 0.6.8 | 2026-09-01T17:27:02.512Z | [open](../records/node-js-javascript-transcend-io-mcp-server-admin-c732016b.md) |
-| @transcend-io/mcp-server-assessment | 0.5.28 | 2026-09-01T17:27:02.275Z | [open](../records/node-js-javascript-transcend-io-mcp-server-assessment-fa3a076f.md) |
-| @transcend-io/mcp-server-consent | 0.9.4 | 2026-09-01T17:27:02.519Z | [open](../records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) |
-| @transcend-io/mcp-server-discovery | 0.5.28 | 2026-09-01T17:27:02.559Z | [open](../records/node-js-javascript-transcend-io-mcp-server-discovery-87735bfc.md) |
-| @transcend-io/mcp-server-dsr | 0.8.8 | 2026-09-01T17:27:02.465Z | [open](../records/node-js-javascript-transcend-io-mcp-server-dsr-76f6cb8b.md) |
-| @transcend-io/mcp-server-inventory | 0.7.8 | 2026-09-01T17:27:02.010Z | [open](../records/node-js-javascript-transcend-io-mcp-server-inventory-9bc583b1.md) |
-| @transcend-io/mcp-server-preferences | 0.7.0 | 2026-09-01T17:27:57.827Z | [open](../records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
-| @transcend-io/mcp-server-workflows | 0.5.28 | 2026-09-01T17:27:07.094Z | [open](../records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) |
+| @transcend-io/mcp-server-admin | 0.6.9 | 2026-09-02T03:50:31.038Z | [open](../records/node-js-javascript-transcend-io-mcp-server-admin-c732016b.md) |
+| @transcend-io/mcp-server-assessment | 0.5.29 | 2026-09-02T03:50:31.799Z | [open](../records/node-js-javascript-transcend-io-mcp-server-assessment-fa3a076f.md) |
+| @transcend-io/mcp-server-consent | 0.9.5 | 2026-09-02T03:50:31.917Z | [open](../records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) |
+| @transcend-io/mcp-server-discovery | 0.5.29 | 2026-09-02T03:50:31.683Z | [open](../records/node-js-javascript-transcend-io-mcp-server-discovery-87735bfc.md) |
+| @transcend-io/mcp-server-dsr | 0.8.9 | 2026-09-02T03:50:31.332Z | [open](../records/node-js-javascript-transcend-io-mcp-server-dsr-76f6cb8b.md) |
+| @transcend-io/mcp-server-inventory | 0.7.9 | 2026-09-02T03:50:31.438Z | [open](../records/node-js-javascript-transcend-io-mcp-server-inventory-9bc583b1.md) |
+| @transcend-io/mcp-server-preferences | 0.7.1 | 2026-09-02T03:52:07.796Z | [open](../records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
+| @transcend-io/mcp-server-workflows | 0.5.29 | 2026-09-02T03:50:35.894Z | [open](../records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) |
 | @trpc/server | 11.18.0 | 2026-06-17T22:48:25.078Z | [open](../records/node-js-javascript-trpc-server-02b69ad5.md) |
 | @turnkey/sdk-server | 8.3.0 | 2026-08-27T23:08:30.267Z | [open](../records/node-js-javascript-turnkey-sdk-server-330a2b7d.md) |
 | @ui5/mcp-server | 0.2.18 | 2026-08-13T09:15:38.219Z | [open](../records/node-js-javascript-ui5-mcp-server-ed5f5678.md) |
@@ -285,6 +286,7 @@ Records: `388`
 | pglite-server | 0.1.5 | 2026-02-07T15:42:23.150Z | [open](../records/node-js-javascript-pglite-server-99d33674.md) |
 | pushstate-server | 3.1.0 | 2019-02-12T15:15:42.853Z | [open](../records/node-js-javascript-pushstate-server-e4f6f274.md) |
 | redis-server | 1.2.2 | 2018-06-12T20:09:10.417Z | [open](../records/node-js-javascript-redis-server-7727dbce.md) |
+| s3rver | 3.7.1 | 2021-10-03T16:52:40.766Z | [open](../records/node-js-javascript-s3rver-d2172bc3.md) |
 | send | 1.2.1 | 2025-12-15T19:36:11.862Z | [open](../records/node-js-javascript-send-5645056b.md) |
 | server | 1.0.42 | 2025-07-11T14:05:12.837Z | [open](../records/node-js-javascript-server-127ad304.md) |
 | server-cli-only | 0.3.2 | 2024-04-30T11:09:03.373Z | [open](../records/node-js-javascript-server-cli-only-17eb2673.md) |

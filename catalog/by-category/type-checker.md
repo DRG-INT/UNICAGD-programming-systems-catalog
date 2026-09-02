@@ -1,6 +1,6 @@
 # Type Checker
 
-Records: `286`
+Records: `287`
 
 ## Navigation
 
@@ -9,7 +9,7 @@ Records: `286`
 ## Category Index
 
 [Api Abi Checker (180)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (122)](async-runtime.md)
-[Benchmarking (110)](benchmarking.md) · [Build System (806)](build-system.md) · [Cli (495)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (110)](benchmarking.md) · [Build System (806)](build-system.md) · [Cli (497)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (83)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
 [Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (99)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (154)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (687)](database-datastore.md) · [Datetime (157)](datetime.md)
@@ -23,8 +23,8 @@ Records: `286`
 [Other (14)](other.md) · [Package Manager (260)](package-manager.md) · [Parser Lexer Ast (899)](parser-lexer-ast.md) · [Precommit Ci Quality (259)](precommit-ci-quality.md)
 [Profiler (68)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (311)](security-sast.md) · [Serialization (367)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (426)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (492)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · **[Type Checker (286)](type-checker.md)**
-[Undefined Behavior Analyzer (1362)](undefined-behavior-analyzer.md) · [Utility Library (92)](utility-library.md) · [Visualization Gui (413)](visualization-gui.md) · [Web Framework (388)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (492)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · **[Type Checker (287)](type-checker.md)**
+[Undefined Behavior Analyzer (1364)](undefined-behavior-analyzer.md) · [Utility Library (92)](utility-library.md) · [Visualization Gui (413)](visualization-gui.md) · [Web Framework (390)](web-framework.md)
 
 ## Python
 
@@ -108,6 +108,7 @@ Records: `286`
 | @sunrun-security/sr-sec-ts-sns-logger | 2.2.1 | 2026-05-25T21:22:58.629Z | [open](../records/node-js-typescript-sunrun-security-sr-sec-ts-sns-logger-d2a945db.md) |
 | @sveltejs/acorn-typescript | 1.0.13 | 2026-08-13T11:13:58.374Z | [open](../records/node-js-typescript-sveltejs-acorn-typescript-5bdf4a10.md) |
 | @tapjs/typescript | 3.5.11 | 2026-07-27T18:51:14.779Z | [open](../records/node-js-typescript-tapjs-typescript-f4208721.md) |
+| @teppeis/multimaps | 3.0.0 | 2023-03-19T08:24:59.389Z | [open](../records/node-js-typescript-teppeis-multimaps-5ad7022a.md) |
 | @tokenizer/token | 0.3.0 | 2021-07-12T18:56:47.869Z | [open](../records/node-js-typescript-tokenizer-token-6604ba2a.md) |
 | @total-typescript/shoehorn | 0.1.2 | 2024-02-26T15:26:40.706Z | [open](../records/node-js-typescript-total-typescript-shoehorn-755303d0.md) |
 | @total-typescript/ts-reset | 0.6.1 | 2024-09-02T18:55:44.698Z | [open](../records/node-js-typescript-total-typescript-ts-reset-5a9e804c.md) |
@@ -309,7 +310,7 @@ Records: `286`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-02T03:18:41Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | partial | 2026-09-02T04:19:17Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Assets
 

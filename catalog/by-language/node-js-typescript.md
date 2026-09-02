@@ -1,6 +1,6 @@
 # Node.js/TypeScript
 
-Records: `385`
+Records: `386`
 
 ## Navigation
 
@@ -9,7 +9,7 @@ Records: `385`
 ## Category Index
 
 [Api Abi Checker (180)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (41)](../by-category/assertion-mocking.md) · [Async Runtime (122)](../by-category/async-runtime.md)
-[Benchmarking (110)](../by-category/benchmarking.md) · [Build System (806)](../by-category/build-system.md) · [Cli (495)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (110)](../by-category/benchmarking.md) · [Build System (806)](../by-category/build-system.md) · [Cli (497)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (83)](../by-category/community-reference.md) · [Compiler (170)](../by-category/compiler.md) · [Compiler Diagnostics (22)](../by-category/compiler-diagnostics.md) · [Compression (45)](../by-category/compression.md)
 [Concurrency Parallelism (71)](../by-category/concurrency-parallelism.md) · [Configuration (99)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (11)](../by-category/coverage.md)
 [Cryptography (154)](../by-category/cryptography.md) · [Data Science (32)](../by-category/data-science.md) · [Database Datastore (687)](../by-category/database-datastore.md) · [Datetime (157)](../by-category/datetime.md)
@@ -23,8 +23,8 @@ Records: `385`
 [Other (14)](../by-category/other.md) · [Package Manager (260)](../by-category/package-manager.md) · [Parser Lexer Ast (899)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (259)](../by-category/precommit-ci-quality.md)
 [Profiler (68)](../by-category/profiler.md) · [Project Scaffolding (118)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (12)](../by-category/sanitizer.md)
 [Security Sast (311)](../by-category/security-sast.md) · [Serialization (367)](../by-category/serialization.md) · [Standard Library (24)](../by-category/standard-library.md) · [Static Analyzer (426)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (492)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](../by-category/tutorial-book-styleguide.md) · [Type Checker (286)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1362)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (92)](../by-category/utility-library.md) · [Visualization Gui (413)](../by-category/visualization-gui.md) · [Web Framework (388)](../by-category/web-framework.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (492)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](../by-category/tutorial-book-styleguide.md) · [Type Checker (287)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1364)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (92)](../by-category/utility-library.md) · [Visualization Gui (413)](../by-category/visualization-gui.md) · [Web Framework (390)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -328,7 +328,7 @@ Records: `385`
 | [@qdrant/openapi-typescript-fetch](../records/node-js-typescript-qdrant-openapi-typescript-fetch-8442ae1b.md) | 1.2.6 | 2024-03-04T14:16:40.865Z | registry-derived |
 | [@quilted/typescript](../records/node-js-typescript-quilted-typescript-aa1bac7c.md) | 0.4.2 | 2024-08-24T02:59:43.301Z | npm_registry |
 | [@react-native/typescript-config](../records/node-js-typescript-react-native-typescript-config-d64a00e7.md) | 0.87.1 | 2026-08-26T12:54:13.078Z | registry-derived |
-| [@react-pdf/types](../records/node-js-typescript-react-pdf-types-3b6469e9.md) | 2.14.0 | 2026-08-27T22:59:02.722Z | npm_registry |
+| [@react-pdf/types](../records/node-js-typescript-react-pdf-types-3b6469e9.md) | 2.14.0 | 2026-08-27T22:59:02.722Z | registry-derived |
 | [@rmp135/sql-ts](../records/node-js-typescript-rmp135-sql-ts-e9702cf0.md) | 2.2.0 | 2024-11-23T10:34:50.489Z | registry-derived |
 | [@rnx-kit/types-plugin-typescript](../records/node-js-typescript-rnx-kit-types-plugin-typescript-bb0636b5.md) | 1.0.0 | 2026-02-19T13:25:01.771Z | registry-derived |
 | [@rogue-security/sdk](../records/node-js-typescript-rogue-security-sdk-7b0f298e.md) | 1.0.0 | 2026-06-25T16:51:18.865Z | npm_registry |
@@ -345,6 +345,7 @@ Records: `385`
 | [@sunrun-security/sr-sec-ts-sns-logger](../records/node-js-typescript-sunrun-security-sr-sec-ts-sns-logger-d2a945db.md) | 2.2.1 | 2026-05-25T21:22:58.629Z | npm_registry |
 | [@sveltejs/acorn-typescript](../records/node-js-typescript-sveltejs-acorn-typescript-5bdf4a10.md) | 1.0.13 | 2026-08-13T11:13:58.374Z | registry-derived |
 | [@tapjs/typescript](../records/node-js-typescript-tapjs-typescript-f4208721.md) | 3.5.11 | 2026-07-27T18:51:14.779Z | registry-derived |
+| [@teppeis/multimaps](../records/node-js-typescript-teppeis-multimaps-5ad7022a.md) | 3.0.0 | 2023-03-19T08:24:59.389Z | registry-derived |
 | [@tokenizer/token](../records/node-js-typescript-tokenizer-token-6604ba2a.md) | 0.3.0 | 2021-07-12T18:56:47.869Z | registry-derived |
 | [@total-typescript/shoehorn](../records/node-js-typescript-total-typescript-shoehorn-755303d0.md) | 0.1.2 | 2024-02-26T15:26:40.706Z | registry-derived |
 | [@total-typescript/ts-reset](../records/node-js-typescript-total-typescript-ts-reset-5a9e804c.md) | 0.6.1 | 2024-09-02T18:55:44.698Z | registry-derived |
@@ -353,7 +354,7 @@ Records: `385`
 | [@types/babel__generator](../records/node-js-typescript-types-babel-generator-81cbab8e.md) | 7.27.0 | 2025-04-03T16:02:42.530Z | registry-derived |
 | [@types/babel__traverse](../records/node-js-typescript-types-babel-traverse-424865b2.md) | 7.28.0 | 2025-07-31T21:02:31.553Z | registry-derived |
 | [@types/body-parser](../records/node-js-typescript-types-body-parser-95928b02.md) | 1.19.6 | 2025-06-07T02:15:26.399Z | npm_registry |
-| [@types/chai](../records/node-js-typescript-types-chai-099189a2.md) | 5.2.3 | 2025-10-20T23:32:43.277Z | npm_registry |
+| [@types/chai](../records/node-js-typescript-types-chai-099189a2.md) | 5.2.3 | 2025-10-20T23:32:43.277Z | registry-derived |
 | [@types/cli-color](../records/node-js-typescript-types-cli-color-32bac493.md) | 2.0.6 | 2023-11-20T23:51:47.621Z | registry-derived |
 | [@types/cli-progress](../records/node-js-typescript-types-cli-progress-f9d70957.md) | 3.11.6 | 2024-07-06T14:07:15.266Z | registry-derived |
 | [@types/cli-spinner](../records/node-js-typescript-types-cli-spinner-edb658bc.md) | 0.2.3 | 2023-11-07T00:41:20.053Z | registry-derived |
@@ -369,7 +370,7 @@ Records: `385`
 | [@types/express](../records/node-js-typescript-types-express-631736dd.md) | 5.0.6 | 2025-12-01T20:35:51.488Z | registry-derived |
 | [@types/express-http-proxy](../records/node-js-typescript-types-express-http-proxy-83852fe7.md) | 1.6.7 | 2025-07-28T23:36:45.495Z | registry-derived |
 | [@types/geojson](../records/node-js-typescript-types-geojson-32879780.md) | 7946.0.16 | 2025-01-23T18:37:01.847Z | registry-derived |
-| [@types/hast](../records/node-js-typescript-types-hast-6bca9da8.md) | 3.0.5 | 2026-07-09T11:00:14.068Z | npm_registry |
+| [@types/hast](../records/node-js-typescript-types-hast-6bca9da8.md) | 3.0.5 | 2026-07-09T11:00:14.068Z | registry-derived |
 | [@types/http-assert](../records/node-js-typescript-types-http-assert-4618fb28.md) | 1.5.6 | 2024-10-24T14:35:39.961Z | registry-derived |
 | [@types/http-cache-semantics](../records/node-js-typescript-types-http-cache-semantics-7cf8865c.md) | 4.2.0 | 2026-01-27T09:06:17.247Z | registry-derived |
 | [@types/http-errors](../records/node-js-typescript-types-http-errors-abfb4d9b.md) | 2.0.5 | 2025-06-07T02:17:33.428Z | registry-derived |

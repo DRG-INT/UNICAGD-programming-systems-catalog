@@ -1,13 +1,13 @@
 # Catalog Index
 
-Generated: `2026-09-02T03:21:30+00:00`
+Generated: `2026-09-02T04:24:52+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
 ## Category Index
 
 [Api Abi Checker (180)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (41)](by-category/assertion-mocking.md) · [Async Runtime (122)](by-category/async-runtime.md)
-[Benchmarking (110)](by-category/benchmarking.md) · [Build System (806)](by-category/build-system.md) · [Cli (495)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (110)](by-category/benchmarking.md) · [Build System (806)](by-category/build-system.md) · [Cli (497)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (83)](by-category/community-reference.md) · [Compiler (170)](by-category/compiler.md) · [Compiler Diagnostics (22)](by-category/compiler-diagnostics.md) · [Compression (45)](by-category/compression.md)
 [Concurrency Parallelism (71)](by-category/concurrency-parallelism.md) · [Configuration (99)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (11)](by-category/coverage.md)
 [Cryptography (154)](by-category/cryptography.md) · [Data Science (32)](by-category/data-science.md) · [Database Datastore (687)](by-category/database-datastore.md) · [Datetime (157)](by-category/datetime.md)
@@ -21,8 +21,8 @@ Generated: `2026-09-02T03:21:30+00:00`
 [Other (14)](by-category/other.md) · [Package Manager (260)](by-category/package-manager.md) · [Parser Lexer Ast (899)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (259)](by-category/precommit-ci-quality.md)
 [Profiler (68)](by-category/profiler.md) · [Project Scaffolding (118)](by-category/project-scaffolding.md) · [Registry Repository (107)](by-category/registry-repository.md) · [Sanitizer (12)](by-category/sanitizer.md)
 [Security Sast (311)](by-category/security-sast.md) · [Serialization (367)](by-category/serialization.md) · [Standard Library (24)](by-category/standard-library.md) · [Static Analyzer (426)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (492)](by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](by-category/tutorial-book-styleguide.md) · [Type Checker (286)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1362)](by-category/undefined-behavior-analyzer.md) · [Utility Library (92)](by-category/utility-library.md) · [Visualization Gui (413)](by-category/visualization-gui.md) · [Web Framework (388)](by-category/web-framework.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (492)](by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](by-category/tutorial-book-styleguide.md) · [Type Checker (287)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (1364)](by-category/undefined-behavior-analyzer.md) · [Utility Library (92)](by-category/utility-library.md) · [Visualization Gui (413)](by-category/visualization-gui.md) · [Web Framework (390)](by-category/web-framework.md)
 
 ## Languages
 
@@ -34,8 +34,8 @@ Generated: `2026-09-02T03:21:30+00:00`
 | Julia | 2174 | 0 | [Julia](by-language/julia.md) |
 | Rust | 2183 | 2105 | [Rust](by-language/rust.md) |
 | Python | 664 | 516 | [Python](by-language/python.md) |
-| Node.js/JavaScript | 2380 | 2303 | [Node.js/JavaScript](by-language/node-js-javascript.md) |
-| Node.js/TypeScript | 385 | 345 | [Node.js/TypeScript](by-language/node-js-typescript.md) |
+| Node.js/JavaScript | 2386 | 2309 | [Node.js/JavaScript](by-language/node-js-javascript.md) |
+| Node.js/TypeScript | 386 | 346 | [Node.js/TypeScript](by-language/node-js-typescript.md) |
 | Lua family | 1937 | 0 | [Lua family](by-language/lua-family.md) |
 | R | 1451 | 1451 | [R](by-language/r.md) |
 | Haskell | 1290 | 1278 | [Haskell](by-language/haskell.md) |
@@ -98,7 +98,7 @@ Generated: `2026-09-02T03:21:30+00:00`
 | Async Runtime | 122 | [async_runtime](by-category/async-runtime.md) |
 | Benchmarking | 110 | [benchmarking](by-category/benchmarking.md) |
 | Build System | 806 | [build_system](by-category/build-system.md) |
-| Cli | 495 | [cli](by-category/cli.md) |
+| Cli | 497 | [cli](by-category/cli.md) |
 | Codegen Codemod Refactoring | 23 | [codegen_codemod_refactoring](by-category/codegen-codemod-refactoring.md) |
 | Community Reference | 83 | [community_reference](by-category/community-reference.md) |
 | Compiler | 170 | [compiler](by-category/compiler.md) |
@@ -155,11 +155,11 @@ Generated: `2026-09-02T03:21:30+00:00`
 | Templating | 2 | [templating](by-category/templating.md) |
 | Testing Framework | 492 | [testing_framework](by-category/testing-framework.md) |
 | Tutorial Book Styleguide | 53 | [tutorial_book_styleguide](by-category/tutorial-book-styleguide.md) |
-| Type Checker | 286 | [type_checker](by-category/type-checker.md) |
-| Undefined Behavior Analyzer | 1362 | [undefined_behavior_analyzer](by-category/undefined-behavior-analyzer.md) |
+| Type Checker | 287 | [type_checker](by-category/type-checker.md) |
+| Undefined Behavior Analyzer | 1364 | [undefined_behavior_analyzer](by-category/undefined-behavior-analyzer.md) |
 | Utility Library | 92 | [utility_library](by-category/utility-library.md) |
 | Visualization Gui | 413 | [visualization_gui](by-category/visualization-gui.md) |
-| Web Framework | 388 | [web_framework](by-category/web-framework.md) |
+| Web Framework | 390 | [web_framework](by-category/web-framework.md) |
 
 ## High-Signal Release Coverage
 
@@ -171,8 +171,8 @@ Generated: `2026-09-02T03:21:30+00:00`
 | Julia | 0 | 2174 |
 | Rust | 2105 | 78 |
 | Python | 516 | 148 |
-| Node.js/JavaScript | 2303 | 77 |
-| Node.js/TypeScript | 345 | 40 |
+| Node.js/JavaScript | 2309 | 77 |
+| Node.js/TypeScript | 346 | 40 |
 | Lua family | 0 | 1937 |
 | R | 1451 | 0 |
 | Haskell | 1278 | 12 |
