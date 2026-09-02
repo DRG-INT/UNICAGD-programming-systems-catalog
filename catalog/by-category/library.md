@@ -1,6 +1,6 @@
 # Library
 
-Records: `4765`
+Records: `4824`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `4765`
 
 ## Category Index
 
-[Api Abi Checker (180)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (122)](async-runtime.md)
-[Benchmarking (110)](benchmarking.md) · [Build System (806)](build-system.md) · [Cli (497)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (83)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
-[Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (99)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (154)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (687)](database-datastore.md) · [Datetime (157)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (83)](dependency-manager.md) · [Documentation (80)](documentation.md)
-[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (380)](ffi-bindings.md) · [Filesystem Os (1181)](filesystem-os.md) · [Formatter (542)](formatter.md)
-[Framework (47)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (153)](game-engine-game-dev.md) · [Ide Editor Integration (1117)](ide-editor-integration.md)
-[Image Audio Dsp (292)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (227)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1223)](language-specification.md) · **[Library (4765)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (386)](logging-observability.md) · [Machine Learning (574)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (76)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (906)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (260)](package-manager.md) · [Parser Lexer Ast (899)](parser-lexer-ast.md) · [Precommit Ci Quality (259)](precommit-ci-quality.md)
-[Profiler (68)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (311)](security-sast.md) · [Serialization (367)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (426)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (492)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (287)](type-checker.md)
-[Undefined Behavior Analyzer (1364)](undefined-behavior-analyzer.md) · [Utility Library (92)](utility-library.md) · [Visualization Gui (413)](visualization-gui.md) · [Web Framework (390)](web-framework.md)
+[Api Abi Checker (185)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (122)](async-runtime.md)
+[Benchmarking (110)](benchmarking.md) · [Build System (812)](build-system.md) · [Cli (501)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (85)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+[Concurrency Parallelism (72)](concurrency-parallelism.md) · [Configuration (100)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (155)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (690)](database-datastore.md) · [Datetime (158)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (85)](dependency-manager.md) · [Documentation (80)](documentation.md)
+[Embedded Hardware (49)](embedded-hardware.md) · [Ffi Bindings (387)](ffi-bindings.md) · [Filesystem Os (1197)](filesystem-os.md) · [Formatter (545)](formatter.md)
+[Framework (47)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (157)](game-engine-game-dev.md) · [Ide Editor Integration (1133)](ide-editor-integration.md)
+[Image Audio Dsp (300)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (227)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1229)](language-specification.md) · **[Library (4824)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (388)](logging-observability.md) · [Machine Learning (583)](machine-learning.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (77)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (916)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (263)](package-manager.md) · [Parser Lexer Ast (905)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
+[Profiler (72)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (311)](security-sast.md) · [Serialization (368)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (437)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (495)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (290)](type-checker.md)
+[Undefined Behavior Analyzer (1379)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (414)](visualization-gui.md) · [Web Framework (391)](web-framework.md)
 
 ## C99
 
@@ -2748,6 +2748,7 @@ Records: `4765`
 | neo2R | 3.1.1 | 2026-08-05 08:20:02 UTC | [open](../records/r-neo2r-0608c5a7.md) |
 | NHANES | 2.1.4 | 2026-09-01 08:00:08 UTC | [open](../records/r-nhanes-0e00e861.md) |
 | nhanesR | 0.1.6 | 2026-08-25 11:00:37 UTC | [open](../records/r-nhanesr-f61aeaed.md) |
+| nhdplusTools | 1.5.2 | 2026-09-02 05:20:25 UTC | [open](../records/r-nhdplustools-0680e4dc.md) |
 | nimble | 1.4.3 | 2026-08-22 04:30:10 UTC | [open](../records/r-nimble-55bf7876.md) |
 | nlme | 3.1-170 | 2026-07-15 12:14:44 UTC | [open](../records/r-nlme-dce5918b.md) |
 | nlmixr2 | 7.0.1 | 2026-08-05 00:20:08 UTC | [open](../records/r-nlmixr2-adfec204.md) |
@@ -2804,6 +2805,7 @@ Records: `4765`
 | RCppAD | 1.20260000.0 | 2026-08-07 16:10:22 UTC | [open](../records/r-rcppad-87e98746.md) |
 | rdborrow | 0.0.4.0 | 2026-08-31 14:00:10 UTC | [open](../records/r-rdborrow-95d341d6.md) |
 | Rdrw | 1.0.4 | 2026-08-20 10:32:10 UTC | [open](../records/r-rdrw-1a52ca94.md) |
+| readODS | 2.3.6 | 2026-09-02 05:20:13 UTC | [open](../records/r-readods-0f703511.md) |
 | reapeR | 0.2.0 | 2026-08-24 10:10:02 UTC | [open](../records/r-reaper-ae0c85d5.md) |
 | rebmix | 2.17.2 | 2026-08-20 13:20:22 UTC | [open](../records/r-rebmix-1011ed08.md) |
 | ReDaMoR | 1.0.1 | 2026-08-21 05:45:49 UTC | [open](../records/r-redamor-e80f9347.md) |
@@ -4041,7 +4043,7 @@ Records: `4765`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-02T05:03:26Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-02T05:52:24Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4392,33 +4394,51 @@ Records: `4765`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| 7gxycn08/PyAutoActions | partial | 2026-05-22T09:28:04Z | [open](../records/photography-7gxycn08-pyautoactions-6830a146.md) |
 | afgprogrammer/Flutter-Photography-Application | partial | 2023-11-28T13:23:46Z | [open](../records/photography-afgprogrammer-flutter-photography-application-53b42786.md) |
 | alyssaxuu/screenity | partial | 2026-09-01T21:19:58Z | [open](../records/photography-alyssaxuu-screenity-3dcd34af.md) |
 | andyzg/gallery | partial | 2024-05-24T19:43:17Z | [open](../records/photography-andyzg-gallery-707abac1.md) |
+| ardov/hdr-web | partial | 2026-05-22T14:13:56Z | [open](../records/photography-ardov-hdr-web-cd66c2b2.md) |
+| bean-mhm/flim | partial | 2025-11-22T20:35:08Z | [open](../records/photography-bean-mhm-flim-533c21b0.md) |
 | bmachek/lrc-immich-plugin | partial | 2026-08-21T11:22:32Z | [open](../records/photography-bmachek-lrc-immich-plugin-1ff1bb8b.md) |
+| cadik/TMS | partial | 2026-06-01T11:50:00Z | [open](../records/photography-cadik-tms-33b35c97.md) |
+| Carrottor/WWPlayer | partial | 2026-08-29T23:32:45Z | [open](../records/photography-carrottor-wwplayer-d12266b7.md) |
 | CJT2325/CameraView | partial | 2019-06-18T13:42:24Z | [open](../records/photography-cjt2325-cameraview-689639ed.md) |
+| colorjs/color-space | partial | 2026-08-21T14:16:27Z | [open](../records/photography-colorjs-color-space-61c0254c.md) |
 | commons-app/apps-android-commons | partial | 2026-09-01T09:25:13Z | [open](../records/photography-commons-app-apps-android-commons-ce212c3e.md) |
 | crazycodeboy/TakePhoto | partial | 2019-08-26T09:42:27Z | [open](../records/photography-crazycodeboy-takephoto-a3e04a78.md) |
 | dorukkumkumoglu/optocamzero | partial | 2026-08-16T08:16:43Z | [open](../records/photography-dorukkumkumoglu-optocamzero-b51f52d8.md) |
+| dyphire/mpv-scripts | partial | 2026-08-17T07:06:53Z | [open](../records/photography-dyphire-mpv-scripts-38561f26.md) |
 | emorydunn/CaptureOneScripts | unknown | github_search_does_not_include_release_date | [open](../records/photography-emorydunn-captureonescripts-117cd952.md) |
 | ethz-asl/kalibr | partial | 2024-03-30T19:42:29Z | [open](../records/photography-ethz-asl-kalibr-83b49bc1.md) |
 | evildmp/C-is-for-Camera | partial | 2024-05-23T17:23:26Z | [open](../records/photography-evildmp-c-is-for-camera-489207b3.md) |
 | florent37/CameraFragment | partial | 2020-08-06T14:11:49Z | [open](../records/photography-florent37-camerafragment-c53ceb9f.md) |
+| FrozenBurning/Text2Light | partial | 2023-05-05T03:22:22Z | [open](../records/photography-frozenburning-text2light-01db8a68.md) |
 | gilbitron/Splashify | partial | 2018-06-11T13:59:50Z | [open](../records/photography-gilbitron-splashify-82147992.md) |
 | google/cameraview | partial | 2020-02-08T13:20:53Z | [open](../records/photography-google-cameraview-f7228a30.md) |
 | huangsam/photohaul | unknown | github_search_does_not_include_release_date | [open](../records/photography-huangsam-photohaul-1391b651.md) |
 | HuTianQi/SmartOpenCV | partial | 2020-04-28T12:34:36Z | [open](../records/photography-hutianqi-smartopencv-fb7be8c7.md) |
+| iuroc/bilidown | partial | 2026-08-07T15:26:14Z | [open](../records/photography-iuroc-bilidown-e402296a.md) |
 | jeonghyeon-net/exif-frame | partial | 2026-05-06T17:15:29Z | [open](../records/photography-jeonghyeon-net-exif-frame-0eb5693e.md) |
 | JurajNyiri/HomeAssistant-Tapo-Control | partial | 2026-08-29T22:09:46Z | [open](../records/photography-jurajnyiri-homeassistant-tapo-control-998b0d7e.md) |
 | kxvn-lx/Kontax-Cam | partial | 2021-05-20T03:41:28Z | [open](../records/photography-kxvn-lx-kontax-cam-04e1f89a.md) |
+| libgd/libgd | partial | 2026-08-25T03:30:44Z | [open](../records/photography-libgd-libgd-5dfe91f8.md) |
 | LuckSiege/PictureSelector | partial | 2024-05-11T03:14:44Z | [open](../records/photography-lucksiege-pictureselector-42cc3cef.md) |
+| lyckantropen/moonlight_hdr_launcher | partial | 2024-06-29T10:42:48Z | [open](../records/photography-lyckantropen-moonlight-hdr-launcher-a7997341.md) |
+| McNopper/EGL | partial | 2026-08-01T18:15:48Z | [open](../records/photography-mcnopper-egl-83a16f1c.md) |
 | meetqy/rao-pics | partial | 2026-08-26T12:06:52Z | [open](../records/photography-meetqy-rao-pics-057514e9.md) |
 | meiu/meiupic | partial | 2021-07-07T16:28:33Z | [open](../records/photography-meiu-meiupic-d61ca921.md) |
 | motioneye-project/motioneye | partial | 2026-08-29T11:19:03Z | [open](../records/photography-motioneye-project-motioneye-6759b14c.md) |
+| mustakshif/Asri | partial | 2026-08-30T13:45:17Z | [open](../records/photography-mustakshif-asri-d6fbc7e4.md) |
+| natural-harmonia-gropius/hdr-toys | partial | 2026-09-01T13:22:22Z | [open](../records/photography-natural-harmonia-gropius-hdr-toys-165c3563.md) |
 | NextLevel/NextLevel | partial | 2026-06-08T04:57:05Z | [open](../records/photography-nextlevel-nextlevel-f32b041f.md) |
+| Panzerschrek/Square-Wheel | partial | 2026-02-26T19:24:22Z | [open](../records/photography-panzerschrek-square-wheel-e8747134.md) |
+| pezcode/Cluster | partial | 2022-06-25T17:17:17Z | [open](../records/photography-pezcode-cluster-aadc3dd4.md) |
 | philipptrenz/photo-booth | partial | 2021-03-30T07:46:20Z | [open](../records/photography-philipptrenz-photo-booth-ea2ebbf9.md) |
 | pokeheadroom/RENDER96-HD-TEXTURE-PACK | partial | 2026-08-31T02:54:35Z | [open](../records/photography-pokeheadroom-render96-hd-texture-pack-b6249b4a.md) |
 | RedApparat/Fotoapparat | partial | 2023-10-26T03:07:30Z | [open](../records/photography-redapparat-fotoapparat-83bc00f9.md) |
+| res2k/HDRTray | partial | 2026-05-19T20:35:58Z | [open](../records/photography-res2k-hdrtray-ff9ae8bf.md) |
+| riju/WebCamera | partial | 2022-09-21T10:06:22Z | [open](../records/photography-riju-webcamera-7c85664b.md) |
 | roigoatzzz/Wallsync | partial | 2026-08-11T01:20:00Z | [open](../records/photography-roigoatzzz-wallsync-bd5e28ed.md) |
 | rsjaffe/MIDI2LR | partial | 2026-07-30T19:02:41Z | [open](../records/photography-rsjaffe-midi2lr-75198981.md) |
 | t3mujinpack/t3mujinpack | partial | 2025-04-02T17:19:29Z | [open](../records/photography-t3mujinpack-t3mujinpack-05d88258.md) |
@@ -4456,7 +4476,7 @@ Records: `4765`
 | acconeer/acconeer-python-exploration | partial | 2026-08-10T14:18:17Z | [open](../records/radars-acconeer-acconeer-python-exploration-c570151f.md) |
 | bopen/xarray-sentinel | partial | 2026-08-26T14:14:32Z | [open](../records/radars-bopen-xarray-sentinel-d49585c9.md) |
 | dpaulat/supercell-wx | partial | 2026-09-01T22:58:49Z | [open](../records/radars-dpaulat-supercell-wx-216e49cf.md) |
-| earthobservations/wetterdienst | partial | 2026-09-01T21:39:27Z | [open](../records/radars-earthobservations-wetterdienst-4494a41f.md) |
+| earthobservations/wetterdienst | partial | 2026-09-02T06:28:12Z | [open](../records/radars-earthobservations-wetterdienst-4494a41f.md) |
 | erikliland/pyMHT | partial | 2023-09-19T11:10:15Z | [open](../records/radars-erikliland-pymht-6bcd5586.md) |
 | ethanhuang13/ladybug | partial | 2019-12-26T07:04:26Z | [open](../records/radars-ethanhuang13-ladybug-9ff29291.md) |
 | feedback-assistant/reports | partial | 2025-11-07T04:38:18Z | [open](../records/radars-feedback-assistant-reports-4bc463b2.md) |
@@ -4534,35 +4554,36 @@ Records: `4765`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlbrechtL/welle.io | partial | 2026-08-13T16:00:11Z | [open](../records/electromagnetoscopes-albrechtl-welle-io-1ed8e849.md) |
-| BruceDevices/firmware | 1.16.1 | 2026-08-11T16:36:36Z | [open](../records/electromagnetoscopes-brucedevices-firmware-7d55bbf4.md) |
-| Bttstrp/bootstrap-switch | v3.3.4 | 2017-02-25T18:30:41Z | [open](../records/electromagnetoscopes-bttstrp-bootstrap-switch-c4659979.md) |
+| BruceDevices/firmware | partial | 2026-08-31T14:33:45Z | [open](../records/electromagnetoscopes-brucedevices-firmware-7d55bbf4.md) |
+| Bttstrp/bootstrap-switch | partial | 2021-10-05T21:37:19Z | [open](../records/electromagnetoscopes-bttstrp-bootstrap-switch-c4659979.md) |
 | cariboulabs/cariboulite | partial | 2025-07-24T17:35:47Z | [open](../records/electromagnetoscopes-cariboulabs-cariboulite-b5f93f28.md) |
 | codyd51/gypsum | partial | 2024-04-15T17:30:55Z | [open](../records/electromagnetoscopes-codyd51-gypsum-e23d7a76.md) |
 | daniestevez/gr-satellites | partial | 2026-08-20T06:26:31Z | [open](../records/electromagnetoscopes-daniestevez-gr-satellites-11887e4d.md) |
 | dslotter/HamPi | partial | 2024-04-17T07:14:11Z | [open](../records/electromagnetoscopes-dslotter-hampi-80a99ee9.md) |
-| EdgeTX/edgetx | v2.12.3 | 2026-08-29T22:52:23Z | [open](../records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) |
+| EdgeTX/edgetx | partial | 2026-09-02T03:49:42Z | [open](../records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) |
 | eldraco/Salamandra | partial | 2021-01-11T15:40:06Z | [open](../records/electromagnetoscopes-eldraco-salamandra-ba7bbc86.md) |
-| fanmingming/live | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
-| fooyin/fooyin | v0.12.6 | 2026-08-23T00:38:29Z | [open](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) |
+| fanmingming/live | partial | 2026-09-02T02:50:27Z | [open](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
+| fooyin/fooyin | partial | 2026-09-01T21:30:34Z | [open](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) |
 | git-artes/gr-tempest | partial | 2025-02-10T16:57:09Z | [open](../records/electromagnetoscopes-git-artes-gr-tempest-b9f52116.md) |
 | gnss-sdr/gnss-sdr | partial | 2026-09-01T21:10:19Z | [open](../records/electromagnetoscopes-gnss-sdr-gnss-sdr-1128bbcc.md) |
 | gnuradio/volk | partial | 2026-08-25T19:50:57Z | [open](../records/electromagnetoscopes-gnuradio-volk-04fc44e6.md) |
 | gqrx-sdr/gqrx | partial | 2026-08-06T20:55:38Z | [open](../records/electromagnetoscopes-gqrx-sdr-gqrx-a55e0296.md) |
 | ha7ilm/openwebrx | partial | 2024-06-16T14:28:22Z | [open](../records/electromagnetoscopes-ha7ilm-openwebrx-617a3b05.md) |
 | jks-prv/Beagle_SDR_GPS | partial | 2024-12-03T02:40:57Z | [open](../records/electromagnetoscopes-jks-prv-beagle-sdr-gps-fd8f8388.md) |
-| junguler/m3u-radio-music-playlists | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-junguler-m3u-radio-music-playlists-309a3992.md) |
-| Kopuz-org/kopuz | v0.16.1 | 2026-08-26T12:12:24Z | [open](../records/electromagnetoscopes-kopuz-org-kopuz-a5fa7420.md) |
-| markqvist/RNode_Firmware | 1.86 | 2026-04-24T08:52:27Z | [open](../records/electromagnetoscopes-markqvist-rnode-firmware-6437b772.md) |
+| junguler/m3u-radio-music-playlists | partial | 2026-08-23T22:44:12Z | [open](../records/electromagnetoscopes-junguler-m3u-radio-music-playlists-309a3992.md) |
+| Kopuz-org/kopuz | partial | 2026-09-01T17:06:06Z | [open](../records/electromagnetoscopes-kopuz-org-kopuz-a5fa7420.md) |
+| markqvist/RNode_Firmware | partial | 2026-04-24T10:26:45Z | [open](../records/electromagnetoscopes-markqvist-rnode-firmware-6437b772.md) |
 | mgp25/OpenLTE | partial | 2021-02-21T19:34:29Z | [open](../records/electromagnetoscopes-mgp25-openlte-fd84bffb.md) |
 | muccc/gr-iridium | partial | 2026-07-02T09:26:47Z | [open](../records/electromagnetoscopes-muccc-gr-iridium-826df89e.md) |
 | open-sdr/openwifi | partial | 2026-08-25T11:02:34Z | [open](../records/electromagnetoscopes-open-sdr-openwifi-80c00ff2.md) |
-| OpenRTX/OpenRTX | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-openrtx-openrtx-82481c7a.md) |
+| OpenRTX/OpenRTX | partial | 2026-08-15T17:39:05Z | [open](../records/electromagnetoscopes-openrtx-openrtx-82481c7a.md) |
 | pavel-demin/red-pitaya-notes | partial | 2026-08-29T19:11:52Z | [open](../records/electromagnetoscopes-pavel-demin-red-pitaya-notes-00d5e113.md) |
 | pbkhrv/rtl_433-hass-addons | partial | 2026-06-26T12:07:44Z | [open](../records/electromagnetoscopes-pbkhrv-rtl-433-hass-addons-cc86361b.md) |
 | portapack-mayhem/mayhem-firmware | partial | 2026-08-29T00:27:56Z | [open](../records/electromagnetoscopes-portapack-mayhem-mayhem-firmware-cb62b83c.md) |
 | rt-bishop/Look4Sat | partial | 2026-08-21T12:11:30Z | [open](../records/electromagnetoscopes-rt-bishop-look4sat-dfffa481.md) |
 | SatDump/SatDump | partial | 2026-09-01T19:03:29Z | [open](../records/electromagnetoscopes-satdump-satdump-fdc13054.md) |
-| segler-alex/RadioDroid | 0.86 | 2023-09-28T20:29:41Z | [open](../records/electromagnetoscopes-segler-alex-radiodroid-e99cfdba.md) |
+| segler-alex/RadioDroid | partial | 2024-06-26T20:46:45Z | [open](../records/electromagnetoscopes-segler-alex-radiodroid-e99cfdba.md) |
+| simpeg/simpeg | partial | 2026-08-31T16:05:18Z | [open](../records/electromagnetoscopes-simpeg-simpeg-90f40ef7.md) |
 | TLeconte/acarsdec | partial | 2025-07-31T10:36:21Z | [open](../records/electromagnetoscopes-tleconte-acarsdec-cdab05ad.md) |
 | TrunkRecorder/trunk-recorder | partial | 2026-09-01T12:59:38Z | [open](../records/electromagnetoscopes-trunkrecorder-trunk-recorder-9795e5f3.md) |
 | wiedehopf/readsb | partial | 2026-08-22T14:44:23Z | [open](../records/electromagnetoscopes-wiedehopf-readsb-9832c612.md) |
@@ -4574,7 +4595,45 @@ Records: `4765`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| abrahammg/radio_garden_extractor | partial | 2023-05-18T10:31:55Z | [open](../records/radio-garden-speciality-abrahammg-radio-garden-extractor-1a7c7fcf.md) |
+| akashshrestha21/Radio-Garden | partial | 2017-12-02T00:54:23Z | [open](../records/radio-garden-speciality-akashshrestha21-radio-garden-59ee183e.md) |
+| Anvesh-Vishwakarma/Radio.garden | partial | 2026-07-11T13:42:55Z | [open](../records/radio-garden-speciality-anvesh-vishwakarma-radio-garden-297cf677.md) |
+| anxzxz/radiogarden | partial | 2026-01-24T16:48:01Z | [open](../records/radio-garden-speciality-anxzxz-radiogarden-50474431.md) |
+| billyx86/radio-garden-clone | partial | 2026-08-27T03:05:40Z | [open](../records/radio-garden-speciality-billyx86-radio-garden-clone-95c13869.md) |
+| doni7brandao/jardim | partial | 2018-09-25T18:21:45Z | [open](../records/radio-garden-speciality-doni7brandao-jardim-dd16238d.md) |
+| Florence422/radio_gadern_app | partial | 2025-11-08T19:42:01Z | [open](../records/radio-garden-speciality-florence422-radio-gadern-app-ea7d5581.md) |
+| frealgagu/archlinux.radio-garden | partial | 2021-08-20T00:43:26Z | [open](../records/radio-garden-speciality-frealgagu-archlinux-radio-garden-1dc58d96.md) |
+| FriedrichWerner/RadioGardenRaspberryPI | partial | 2021-02-21T11:36:47Z | [open](../records/radio-garden-speciality-friedrichwerner-radiogardenraspberrypi-79fda0d9.md) |
+| Funelas/Stream-Monitoring---Radio-Garden | partial | 2025-10-09T06:32:18Z | [open](../records/radio-garden-speciality-funelas-stream-monitoring-radio-garden-d7e2f07d.md) |
+| griko/radio-garden-scrapper | partial | 2024-06-26T11:27:36Z | [open](../records/radio-garden-speciality-griko-radio-garden-scrapper-2953dba2.md) |
+| harsh-sreehari/radio-world | partial | 2025-09-29T14:16:01Z | [open](../records/radio-garden-speciality-harsh-sreehari-radio-world-e4c62c3f.md) |
+| jabahum/RadioGarden-Mobile-App | partial | 2022-02-14T16:55:59Z | [open](../records/radio-garden-speciality-jabahum-radiogarden-mobile-app-9e7f7233.md) |
+| jatinscodingproject/radio_garden | partial | 2026-08-05T16:53:51Z | [open](../records/radio-garden-speciality-jatinscodingproject-radio-garden-447e85b5.md) |
+| JJ-Dynamite/radiogarden | partial | 2026-06-28T01:01:14Z | [open](../records/radio-garden-speciality-jj-dynamite-radiogarden-11b0bde9.md) |
+| kieroff/radio_garden_extension | partial | 2026-02-15T01:28:57Z | [open](../records/radio-garden-speciality-kieroff-radio-garden-extension-d407f131.md) |
+| KiPSOFT/radiogardenbot | partial | 2022-01-24T15:00:22Z | [open](../records/radio-garden-speciality-kipsoft-radiogardenbot-b505a0e6.md) |
+| LumenGNU/radio_garden_plst | partial | 2024-05-18T18:36:12Z | [open](../records/radio-garden-speciality-lumengnu-radio-garden-plst-6c213270.md) |
+| mcplayer9999/radio-garden-m3u | partial | 2019-10-06T10:48:41Z | [open](../records/radio-garden-speciality-mcplayer9999-radio-garden-m3u-3e0cf1da.md) |
+| MichaelAdane/geo-politics-war-map- | partial | 2026-04-04T11:44:03Z | [open](../records/radio-garden-speciality-michaeladane-geo-politics-war-map-a99a7e42.md) |
+| mohamedtaghayen/radio-garden-reimagined | partial | 2026-04-26T06:48:56Z | [open](../records/radio-garden-speciality-mohamedtaghayen-radio-garden-reimagined-6d467978.md) |
+| moonbagel35/sproutbot | partial | 2026-06-05T20:59:23Z | [open](../records/radio-garden-speciality-moonbagel35-sproutbot-0c193b1f.md) |
+| murpee/Radio-Garden | partial | 2026-07-22T10:06:17Z | [open](../records/radio-garden-speciality-murpee-radio-garden-f484543b.md) |
+| Newmanlira/RadioGarden | partial | 2025-10-28T15:59:17Z | [open](../records/radio-garden-speciality-newmanlira-radiogarden-e1f23f08.md) |
+| oddkob/like_radio_garden | partial | 2026-04-20T11:22:22Z | [open](../records/radio-garden-speciality-oddkob-like-radio-garden-54eb6ba0.md) |
+| Oliver-animations/radiogarden | partial | 2025-08-15T10:53:59Z | [open](../records/radio-garden-speciality-oliver-animations-radiogarden-cfbddf8c.md) |
+| pensieriusati/radiogarden | partial | 2023-12-12T17:32:46Z | [open](../records/radio-garden-speciality-pensieriusati-radiogarden-ed56dd30.md) |
+| Racer404/radioGardenSele | partial | 2025-12-14T06:21:43Z | [open](../records/radio-garden-speciality-racer404-radiogardensele-bf415865.md) |
 | radio-garden/react-native-audio-browser | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/radio-garden-speciality-radio-garden-react-native-audio-browser-13adea36.md) |
+| RadioGardenTurkeyFan/RadioGarden | partial | 2025-07-11T07:39:29Z | [open](../records/radio-garden-speciality-radiogardenturkeyfan-radiogarden-d0a13a16.md) |
+| RichardBrown1/RadioGardenDiscordBot | partial | 2020-07-26T15:20:54Z | [open](../records/radio-garden-speciality-richardbrown1-radiogardendiscordbot-12a85824.md) |
+| sahilypatel/radio-orbit | partial | 2026-05-06T07:02:08Z | [open](../records/radio-garden-speciality-sahilypatel-radio-orbit-709734ff.md) |
+| SimonTingle/Radio-Garden-Clone | partial | 2026-01-04T21:41:57Z | [open](../records/radio-garden-speciality-simontingle-radio-garden-clone-9636ce07.md) |
+| Simuratli/radiogarden | partial | 2024-03-14T11:00:40Z | [open](../records/radio-garden-speciality-simuratli-radiogarden-9881ccaf.md) |
+| Sneethan/streamseed | partial | 2024-12-11T22:03:55Z | [open](../records/radio-garden-speciality-sneethan-streamseed-87bb657d.md) |
+| tropicalstream/TapGarden | partial | 2026-06-28T23:16:42Z | [open](../records/radio-garden-speciality-tropicalstream-tapgarden-4a6b1c02.md) |
+| uniquelipu/Radio-Garden | partial | 2017-12-23T05:02:19Z | [open](../records/radio-garden-speciality-uniquelipu-radio-garden-c642de91.md) |
+| uthylearncode/radio-garden | partial | 2025-10-18T04:57:58Z | [open](../records/radio-garden-speciality-uthylearncode-radio-garden-c76b7124.md) |
+| wrecker/radio-garden-feed | partial | 2023-10-21T07:52:27Z | [open](../records/radio-garden-speciality-wrecker-radio-garden-feed-d7519be3.md) |
 
 ## Magazines
 
@@ -4616,7 +4675,7 @@ Records: `4765`
 | Stephane-D/SGDK | partial | 2026-08-17T08:47:30Z | [open](../records/assembly-stephane-d-sgdk-bad539e3.md) |
 | takenobu-hs/cpu-assembly-examples | partial | 2024-05-19T06:55:01Z | [open](../records/assembly-takenobu-hs-cpu-assembly-examples-b5867112.md) |
 | vonsim/vonsim | partial | 2026-05-29T02:08:00Z | [open](../records/assembly-vonsim-vonsim-6a8ef78f.md) |
-| vvaltchev/tilck | partial | 2026-09-02T05:09:15Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
+| vvaltchev/tilck | partial | 2026-09-02T05:59:30Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
 | yds12/x64-roadmap | partial | 2020-07-16T15:54:20Z | [open](../records/assembly-yds12-x64-roadmap-3b9663e2.md) |
 | yrp604/rappel | partial | 2024-03-07T04:45:15Z | [open](../records/assembly-yrp604-rappel-4bf787bb.md) |
 

@@ -1,6 +1,6 @@
 # Ide Editor Integration
 
-Records: `1117`
+Records: `1133`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `1117`
 
 ## Category Index
 
-[Api Abi Checker (180)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (122)](async-runtime.md)
-[Benchmarking (110)](benchmarking.md) · [Build System (806)](build-system.md) · [Cli (497)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (83)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
-[Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (99)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (154)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (687)](database-datastore.md) · [Datetime (157)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (83)](dependency-manager.md) · [Documentation (80)](documentation.md)
-[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (380)](ffi-bindings.md) · [Filesystem Os (1181)](filesystem-os.md) · [Formatter (542)](formatter.md)
-[Framework (47)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (153)](game-engine-game-dev.md) · **[Ide Editor Integration (1117)](ide-editor-integration.md)**
-[Image Audio Dsp (292)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (227)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1223)](language-specification.md) · [Library (4765)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (386)](logging-observability.md) · [Machine Learning (574)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (76)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (906)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (260)](package-manager.md) · [Parser Lexer Ast (899)](parser-lexer-ast.md) · [Precommit Ci Quality (259)](precommit-ci-quality.md)
-[Profiler (68)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (311)](security-sast.md) · [Serialization (367)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (426)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (492)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (287)](type-checker.md)
-[Undefined Behavior Analyzer (1364)](undefined-behavior-analyzer.md) · [Utility Library (92)](utility-library.md) · [Visualization Gui (413)](visualization-gui.md) · [Web Framework (390)](web-framework.md)
+[Api Abi Checker (185)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (122)](async-runtime.md)
+[Benchmarking (110)](benchmarking.md) · [Build System (812)](build-system.md) · [Cli (501)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (85)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+[Concurrency Parallelism (72)](concurrency-parallelism.md) · [Configuration (100)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (155)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (690)](database-datastore.md) · [Datetime (158)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (85)](dependency-manager.md) · [Documentation (80)](documentation.md)
+[Embedded Hardware (49)](embedded-hardware.md) · [Ffi Bindings (387)](ffi-bindings.md) · [Filesystem Os (1197)](filesystem-os.md) · [Formatter (545)](formatter.md)
+[Framework (47)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (157)](game-engine-game-dev.md) · **[Ide Editor Integration (1133)](ide-editor-integration.md)**
+[Image Audio Dsp (300)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (227)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1229)](language-specification.md) · [Library (4824)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (388)](logging-observability.md) · [Machine Learning (583)](machine-learning.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (77)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (916)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (263)](package-manager.md) · [Parser Lexer Ast (905)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
+[Profiler (72)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (311)](security-sast.md) · [Serialization (368)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (437)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (495)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (290)](type-checker.md)
+[Undefined Behavior Analyzer (1379)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (414)](visualization-gui.md) · [Web Framework (391)](web-framework.md)
 
 ## C++23
 
@@ -193,6 +193,7 @@ Records: `1117`
 | @lit-labs/ssr-dom-shim | 1.6.0 | 2026-05-14T03:55:57.027Z | [open](../records/node-js-javascript-lit-labs-ssr-dom-shim-dbd88335.md) |
 | @lvce-editor/server | 0.111.19 | 2026-09-01T22:42:50.221Z | [open](../records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
 | @mixmark-io/domino | 2.2.0 | 2024-04-06T21:31:29.908Z | [open](../records/node-js-javascript-mixmark-io-domino-4b01c450.md) |
+| @molecule/api-database-sqlite | 1.0.3 | 2026-08-15T04:44:36.606Z | [open](../records/node-js-javascript-molecule-api-database-sqlite-91bd91b1.md) |
 | @nexrender/database-redis | 1.60.10 | 2025-01-24T12:30:12.941Z | [open](../records/node-js-javascript-nexrender-database-redis-d7ab502c.md) |
 | @portone/server-sdk | 0.19.0 | 2026-01-22T05:17:09.220Z | [open](../records/node-js-javascript-portone-server-sdk-1c059404.md) |
 | @prosopo/database | 4.0.26 | 2026-09-01T13:58:08.356Z | [open](../records/node-js-javascript-prosopo-database-9a77dbd4.md) |
@@ -676,7 +677,7 @@ Records: `1117`
 | can1357/oh-my-pi | partial | 2026-09-02T05:15:25Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-08-29T11:00:38Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-02T03:31:11Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-02T05:13:09Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-02T06:21:55Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-02T05:05:47Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-01T19:11:07Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
@@ -980,6 +981,7 @@ Records: `1117`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | adriankraemer/Immich-Viewer | unknown | github_search_does_not_include_release_date | [open](../records/photography-adriankraemer-immich-viewer-3a912465.md) |
+| alibaba/CicadaPlayer | partial | 2024-09-25T02:32:00Z | [open](../records/photography-alibaba-cicadaplayer-4017a4a7.md) |
 | Alphabet1671/JPG-Framer | unknown | github_search_does_not_include_release_date | [open](../records/photography-alphabet1671-jpg-framer-3933b038.md) |
 | aserbao/AndroidCamera | partial | 2024-08-13T09:07:29Z | [open](../records/photography-aserbao-androidcamera-c57cfd08.md) |
 | CameraKit/camerakit-android | partial | 2023-08-08T13:23:27Z | [open](../records/photography-camerakit-camerakit-android-e9d9e241.md) |
@@ -987,14 +989,21 @@ Records: `1117`
 | copicseal/copicseal | unknown | github_search_does_not_include_release_date | [open](../records/photography-copicseal-copicseal-b0bf1efa.md) |
 | coreprocess/linux-unattended-installation | partial | 2023-02-01T02:36:50Z | [open](../records/photography-coreprocess-linux-unattended-installation-f53db419.md) |
 | dividebysandwich/LightningView | partial | 2026-07-05T16:03:15Z | [open](../records/photography-dividebysandwich-lightningview-edad5607.md) |
+| dmarnerides/hdr-expandnet | partial | 2021-03-02T09:15:13Z | [open](../records/photography-dmarnerides-hdr-expandnet-7a4e2be3.md) |
 | drewnoakes/metadata-extractor | partial | 2026-07-28T04:25:06Z | [open](../records/photography-drewnoakes-metadata-extractor-0d5413a2.md) |
+| DXC-0/linux-hdr-guide | partial | 2026-08-29T13:10:41Z | [open](../records/photography-dxc-0-linux-hdr-guide-28bec654.md) |
+| fastvideo/gpu-camera-sample | partial | 2026-07-21T07:04:25Z | [open](../records/photography-fastvideo-gpu-camera-sample-c92051d3.md) |
 | fastvideo/pgm2dng | partial | 2026-07-21T05:55:54Z | [open](../records/photography-fastvideo-pgm2dng-d1583b9e.md) |
 | geerlingguy/pi-timelapse | unknown | github_search_does_not_include_release_date | [open](../records/photography-geerlingguy-pi-timelapse-b66cdb8a.md) |
 | GimelStudio/GimelStudio | partial | 2026-06-18T03:36:38Z | [open](../records/photography-gimelstudio-gimelstudio-c971959d.md) |
+| guanyingc/DeepHDRVideo | partial | 2026-03-16T14:48:31Z | [open](../records/photography-guanyingc-deephdrvideo-b6233de5.md) |
 | hjdhjd/homebridge-unifi-protect | partial | 2026-07-19T20:47:25Z | [open](../records/photography-hjdhjd-homebridge-unifi-protect-782e9500.md) |
 | hkk595/Resizer | unknown | github_search_does_not_include_release_date | [open](../records/photography-hkk595-resizer-84d16447.md) |
+| itsjoshpark/FrontRow | partial | 2026-08-26T22:33:57Z | [open](../records/photography-itsjoshpark-frontrow-d4819387.md) |
 | jim-easterbrook/Photini | unknown | github_search_does_not_include_release_date | [open](../records/photography-jim-easterbrook-photini-6784c4d4.md) |
+| JonaNorman/HDRSample | partial | 2024-08-01T09:01:08Z | [open](../records/photography-jonanorman-hdrsample-57930af4.md) |
 | jyjblrd/3D-Printed-Film-Video-Camera | unknown | github_search_does_not_include_release_date | [open](../records/photography-jyjblrd-3d-printed-film-video-camera-cbe2ee7c.md) |
+| kmcclive/tricycle | partial | 2022-12-08T06:25:25Z | [open](../records/photography-kmcclive-tricycle-e54dad7e.md) |
 | kxvn-lx/Kontax-Cam | unknown | github_search_does_not_include_release_date | [open](../records/photography-kxvn-lx-kontax-cam-32050bac.md) |
 | lbalazscs/Pixelitor | partial | 2026-09-01T19:44:20Z | [open](../records/photography-lbalazscs-pixelitor-3a1b5cdf.md) |
 | ncruces/RethinkRAW | unknown | github_search_does_not_include_release_date | [open](../records/photography-ncruces-rethinkraw-a0dbdde6.md) |
@@ -1012,10 +1021,13 @@ Records: `1117`
 | SasaKaranovic/DIY-Camera-Slider | partial | 2025-03-02T02:19:18Z | [open](../records/photography-sasakaranovic-diy-camera-slider-db4a5c42.md) |
 | shenmintao/Raw-Alchemy | partial | 2026-07-14T08:26:47Z | [open](../records/photography-shenmintao-raw-alchemy-4749893d.md) |
 | spike0en/awesome_nothing | unknown | github_search_does_not_include_release_date | [open](../records/photography-spike0en-awesome-nothing-9d5baec7.md) |
+| test-full-band/tfb-video | partial | 2024-12-14T19:18:09Z | [open](../records/photography-test-full-band-tfb-video-4f53f9ac.md) |
 | thumbsup/thumbsup | partial | 2026-02-28T02:10:14Z | [open](../records/photography-thumbsup-thumbsup-c22883cd.md) |
+| woelper/oculante | partial | 2026-08-31T22:33:46Z | [open](../records/photography-woelper-oculante-7408791d.md) |
 | xemle/home-gallery | partial | 2026-06-25T21:41:23Z | [open](../records/photography-xemle-home-gallery-5b6dd9db.md) |
 | yuehaowang/bilarf | partial | 2024-09-14T21:43:30Z | [open](../records/photography-yuehaowang-bilarf-ff8bd822.md) |
 | zidage/AlcedoStudio | unknown | github_search_does_not_include_release_date | [open](../records/photography-zidage-alcedostudio-0233770d.md) |
+| zmz125000/LocalViewer | partial | 2026-09-01T04:53:17Z | [open](../records/photography-zmz125000-localviewer-1d07cc54.md) |
 
 ## Microscopy
 
@@ -1113,8 +1125,17 @@ Records: `1117`
 | 777arc/PySDR | partial | 2026-09-01T14:56:23Z | [open](../records/electromagnetoscopes-777arc-pysdr-75b8d003.md) |
 | AresValley/Artemis | partial | 2026-07-22T21:31:27Z | [open](../records/electromagnetoscopes-aresvalley-artemis-b7d5042b.md) |
 | JonaNorman/HDRSample | partial | 2024-08-01T09:01:08Z | [open](../records/electromagnetoscopes-jonanorman-hdrsample-ac827086.md) |
-| wenzhixin/bootstrap-table | 1.27.3 | 2026-04-23T23:57:13Z | [open](../records/electromagnetoscopes-wenzhixin-bootstrap-table-50c48a32.md) |
+| wenzhixin/bootstrap-table | partial | 2026-09-02T00:00:34Z | [open](../records/electromagnetoscopes-wenzhixin-bootstrap-table-50c48a32.md) |
 | wiedehopf/tar1090 | partial | 2026-08-27T07:52:44Z | [open](../records/electromagnetoscopes-wiedehopf-tar1090-c8688d5c.md) |
+
+## Radio Garden Speciality
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| charlesvestal/schwung-radiogarden | partial | 2026-08-31T10:02:46Z | [open](../records/radio-garden-speciality-charlesvestal-schwung-radiogarden-57692352.md) |
+| Playzapyt/radio-globe-listener | partial | 2025-05-31T17:52:44Z | [open](../records/radio-garden-speciality-playzapyt-radio-globe-listener-e4cb92c7.md) |
+| r1ft1/radio-garden.nvim | partial | 2026-04-06T15:38:34Z | [open](../records/radio-garden-speciality-r1ft1-radio-garden-nvim-1a7960af.md) |
+| uthylearncode/Radio-world | partial | 2025-10-18T04:55:01Z | [open](../records/radio-garden-speciality-uthylearncode-radio-world-eaa0a15b.md) |
 
 ## Magazines
 

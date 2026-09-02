@@ -1,6 +1,6 @@
 # Image Audio Dsp
 
-Records: `292`
+Records: `300`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `292`
 
 ## Category Index
 
-[Api Abi Checker (180)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (122)](async-runtime.md)
-[Benchmarking (110)](benchmarking.md) · [Build System (806)](build-system.md) · [Cli (497)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (83)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
-[Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (99)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (154)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (687)](database-datastore.md) · [Datetime (157)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (83)](dependency-manager.md) · [Documentation (80)](documentation.md)
-[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (380)](ffi-bindings.md) · [Filesystem Os (1181)](filesystem-os.md) · [Formatter (542)](formatter.md)
-[Framework (47)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (153)](game-engine-game-dev.md) · [Ide Editor Integration (1117)](ide-editor-integration.md)
-**[Image Audio Dsp (292)](image-audio-dsp.md)** · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (227)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1223)](language-specification.md) · [Library (4765)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (386)](logging-observability.md) · [Machine Learning (574)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (76)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (906)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (260)](package-manager.md) · [Parser Lexer Ast (899)](parser-lexer-ast.md) · [Precommit Ci Quality (259)](precommit-ci-quality.md)
-[Profiler (68)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (311)](security-sast.md) · [Serialization (367)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (426)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (492)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (287)](type-checker.md)
-[Undefined Behavior Analyzer (1364)](undefined-behavior-analyzer.md) · [Utility Library (92)](utility-library.md) · [Visualization Gui (413)](visualization-gui.md) · [Web Framework (390)](web-framework.md)
+[Api Abi Checker (185)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (122)](async-runtime.md)
+[Benchmarking (110)](benchmarking.md) · [Build System (812)](build-system.md) · [Cli (501)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (85)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+[Concurrency Parallelism (72)](concurrency-parallelism.md) · [Configuration (100)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (155)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (690)](database-datastore.md) · [Datetime (158)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (85)](dependency-manager.md) · [Documentation (80)](documentation.md)
+[Embedded Hardware (49)](embedded-hardware.md) · [Ffi Bindings (387)](ffi-bindings.md) · [Filesystem Os (1197)](filesystem-os.md) · [Formatter (545)](formatter.md)
+[Framework (47)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (157)](game-engine-game-dev.md) · [Ide Editor Integration (1133)](ide-editor-integration.md)
+**[Image Audio Dsp (300)](image-audio-dsp.md)** · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (227)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1229)](language-specification.md) · [Library (4824)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (388)](logging-observability.md) · [Machine Learning (583)](machine-learning.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (77)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (916)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (263)](package-manager.md) · [Parser Lexer Ast (905)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
+[Profiler (72)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (311)](security-sast.md) · [Serialization (368)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (437)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (495)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (290)](type-checker.md)
+[Undefined Behavior Analyzer (1379)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (414)](visualization-gui.md) · [Web Framework (391)](web-framework.md)
 
 ## C++23
 
@@ -345,7 +345,10 @@ Records: `292`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexLittlejohn/ALCameraViewController | partial | 2022-07-01T08:06:36Z | [open](../records/photography-alexlittlejohn-alcameraviewcontroller-74f1a492.md) |
+| banterle/HDR_Toolbox | partial | 2026-07-23T09:26:37Z | [open](../records/photography-banterle-hdr-toolbox-7502cc31.md) |
 | BradenM/pydngconverter | partial | 2026-08-31T18:15:27Z | [open](../records/photography-bradenm-pydngconverter-8248d4d8.md) |
+| colour-science/colour-hdri | partial | 2026-08-31T22:49:55Z | [open](../records/photography-colour-science-colour-hdri-473b7b85.md) |
+| compphoto/IntrinsicHDR | partial | 2024-11-10T23:39:36Z | [open](../records/photography-compphoto-intrinsichdr-0866e054.md) |
 | cydonia999/Learning_to_See_in_the_Dark_PyTorch | partial | 2019-06-06T06:08:55Z | [open](../records/photography-cydonia999-learning-to-see-in-the-dark-pytorch-f5a931f0.md) |
 | dcraw | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/photography-dcraw-7355fc69.md) |
 | eszdman/PhotonCamera | partial | 2026-08-29T17:24:07Z | [open](../records/photography-eszdman-photoncamera-7ae407a8.md) |
@@ -353,13 +356,18 @@ Records: `292`
 | hahnec/color-matcher | partial | 2026-02-24T20:43:21Z | [open](../records/photography-hahnec-color-matcher-dc72d7d2.md) |
 | hkk595/Resizer | partial | 2022-01-24T21:50:19Z | [open](../records/photography-hkk595-resizer-069d81cb.md) |
 | jeonghyeon-net/exif-frame | unknown | github_search_does_not_include_release_date | [open](../records/photography-jeonghyeon-net-exif-frame-a9c7f2c9.md) |
+| kopaka1822/ImageViewer | partial | 2026-03-27T09:59:56Z | [open](../records/photography-kopaka1822-imageviewer-b8ce6b87.md) |
 | libraw | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/photography-libraw-0c6e18ed.md) |
 | mahmoudnafifi/raw2raw | partial | 2023-02-25T23:17:01Z | [open](../records/photography-mahmoudnafifi-raw2raw-81a3c46e.md) |
 | mirsadm/motioncam-decoder | partial | 2026-08-31T08:43:22Z | [open](../records/photography-mirsadm-motioncam-decoder-4f70e2bd.md) |
 | OpenImageIO | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/photography-openimageio-1c46b5df.md) |
+| ray075hl/singleLDR2HDR | partial | 2025-01-07T02:22:51Z | [open](../records/photography-ray075hl-singleldr2hdr-49562d8c.md) |
 | RayXie29/Shading_Correction | partial | 2019-03-18T09:42:41Z | [open](../records/photography-rayxie29-shading-correction-2c29a276.md) |
 | SonyResearch/raw_image_denoising | partial | 2025-06-18T13:35:08Z | [open](../records/photography-sonyresearch-raw-image-denoising-41683fe2.md) |
+| soumik12345/Zero-DCE | partial | 2021-09-21T17:48:39Z | [open](../records/photography-soumik12345-zero-dce-3b108f11.md) |
+| SpecialKO/SKIV | partial | 2026-08-17T20:39:58Z | [open](../records/photography-specialko-skiv-ce478d80.md) |
 | tj/letterbox | unknown | github_search_does_not_include_release_date | [open](../records/photography-tj-letterbox-97a32d23.md) |
+| Tom94/tev | partial | 2026-08-23T05:03:42Z | [open](../records/photography-tom94-tev-6cd73e6b.md) |
 | zfedoran/dcraw.js | partial | 2024-08-19T17:17:55Z | [open](../records/photography-zfedoran-dcraw-js-5f278232.md) |
 | zhangyi-3/Noise-Synthesis | partial | 2026-01-16T13:49:15Z | [open](../records/photography-zhangyi-3-noise-synthesis-64d2638f.md) |
 | zhaotianff/ImageViewer | partial | 2025-09-10T01:09:19Z | [open](../records/photography-zhaotianff-imageviewer-de5a52af.md) |

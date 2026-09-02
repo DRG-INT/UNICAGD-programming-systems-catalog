@@ -1,6 +1,6 @@
 # Static Analyzer
 
-Records: `426`
+Records: `437`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `426`
 
 ## Category Index
 
-[Api Abi Checker (180)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (122)](async-runtime.md)
-[Benchmarking (110)](benchmarking.md) · [Build System (806)](build-system.md) · [Cli (497)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (83)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
-[Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (99)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (154)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (687)](database-datastore.md) · [Datetime (157)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (83)](dependency-manager.md) · [Documentation (80)](documentation.md)
-[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (380)](ffi-bindings.md) · [Filesystem Os (1181)](filesystem-os.md) · [Formatter (542)](formatter.md)
-[Framework (47)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (153)](game-engine-game-dev.md) · [Ide Editor Integration (1117)](ide-editor-integration.md)
-[Image Audio Dsp (292)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (227)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1223)](language-specification.md) · [Library (4765)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (386)](logging-observability.md) · [Machine Learning (574)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (76)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (906)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (260)](package-manager.md) · [Parser Lexer Ast (899)](parser-lexer-ast.md) · [Precommit Ci Quality (259)](precommit-ci-quality.md)
-[Profiler (68)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (311)](security-sast.md) · [Serialization (367)](serialization.md) · [Standard Library (24)](standard-library.md) · **[Static Analyzer (426)](static-analyzer.md)**
-[Templating (2)](templating.md) · [Testing Framework (492)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (287)](type-checker.md)
-[Undefined Behavior Analyzer (1364)](undefined-behavior-analyzer.md) · [Utility Library (92)](utility-library.md) · [Visualization Gui (413)](visualization-gui.md) · [Web Framework (390)](web-framework.md)
+[Api Abi Checker (185)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (122)](async-runtime.md)
+[Benchmarking (110)](benchmarking.md) · [Build System (812)](build-system.md) · [Cli (501)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (85)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+[Concurrency Parallelism (72)](concurrency-parallelism.md) · [Configuration (100)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (155)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (690)](database-datastore.md) · [Datetime (158)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (85)](dependency-manager.md) · [Documentation (80)](documentation.md)
+[Embedded Hardware (49)](embedded-hardware.md) · [Ffi Bindings (387)](ffi-bindings.md) · [Filesystem Os (1197)](filesystem-os.md) · [Formatter (545)](formatter.md)
+[Framework (47)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (157)](game-engine-game-dev.md) · [Ide Editor Integration (1133)](ide-editor-integration.md)
+[Image Audio Dsp (300)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (227)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1229)](language-specification.md) · [Library (4824)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (388)](logging-observability.md) · [Machine Learning (583)](machine-learning.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (77)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (916)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (263)](package-manager.md) · [Parser Lexer Ast (905)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
+[Profiler (72)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (311)](security-sast.md) · [Serialization (368)](serialization.md) · [Standard Library (24)](standard-library.md) · **[Static Analyzer (437)](static-analyzer.md)**
+[Templating (2)](templating.md) · [Testing Framework (495)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (290)](type-checker.md)
+[Undefined Behavior Analyzer (1379)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (414)](visualization-gui.md) · [Web Framework (391)](web-framework.md)
 
 ## C99
 
@@ -227,6 +227,7 @@ Records: `426`
 | longitree | 1.0.2 | 2026-08-26 14:40:03 UTC | [open](../records/r-longitree-c659279a.md) |
 | MAIVE | 0.2.5 | 2026-08-20 05:24:11 UTC | [open](../records/r-maive-11b3eb41.md) |
 | MapperAlgo | 1.2.0 | 2026-08-31 14:40:02 UTC | [open](../records/r-mapperalgo-20f176dd.md) |
+| MatrixEQTL | 2.4 | 2026-09-02 05:20:47 UTC | [open](../records/r-matrixeqtl-33a324a1.md) |
 | MDaRes | 0.0.2 | 2026-08-25 15:10:09 UTC | [open](../records/r-mdares-6e27e679.md) |
 | metafrontier | 0.3.1 | 2026-08-19 11:40:02 UTC | [open](../records/r-metafrontier-852ebb1e.md) |
 | metalite.ae | 0.1.4 | 2026-08-29 12:10:22 UTC | [open](../records/r-metalite-ae-bd585728.md) |
@@ -487,6 +488,7 @@ Records: `426`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| bluescan/tacentview | partial | 2026-08-10T08:53:43Z | [open](../records/photography-bluescan-tacentview-36115ac1.md) |
 | dlazaro66/QRCodeReaderView | partial | 2021-06-21T04:55:28Z | [open](../records/photography-dlazaro66-qrcodereaderview-9c349462.md) |
 | jackw01/scanlight | partial | 2026-08-20T06:04:39Z | [open](../records/photography-jackw01-scanlight-ebc00536.md) |
 | jorhelp/Ingram | partial | 2026-08-19T05:04:43Z | [open](../records/photography-jorhelp-ingram-4f54c30d.md) |
@@ -557,13 +559,27 @@ Records: `426`
 | EarToEarOak/RTLSDR-Scanner | partial | 2018-12-05T21:57:35Z | [open](../records/electromagnetoscopes-eartoearoak-rtlsdr-scanner-cde8a03f.md) |
 | falkenber9/falcon | partial | 2023-10-13T12:50:06Z | [open](../records/electromagnetoscopes-falkenber9-falcon-0651a0dc.md) |
 | ghostop14/sparrow-wifi | partial | 2026-07-20T20:57:41Z | [open](../records/electromagnetoscopes-ghostop14-sparrow-wifi-385fa5e7.md) |
+| goxr3plus/XR3Player | partial | 2025-04-28T15:23:01Z | [open](../records/electromagnetoscopes-goxr3plus-xr3player-24e271ed.md) |
+| hvianna/audioMotion.js | partial | 2026-07-18T21:38:36Z | [open](../records/electromagnetoscopes-hvianna-audiomotion-js-caf647f0.md) |
 | josevcm/nfc-laboratory | partial | 2026-06-29T16:44:55Z | [open](../records/electromagnetoscopes-josevcm-nfc-laboratory-1860e538.md) |
+| justcallmekoko/Arduino-FastLED-Music-Visualizer | partial | 2021-01-07T17:16:46Z | [open](../records/electromagnetoscopes-justcallmekoko-arduino-fastled-music-visualizer-22fa6d40.md) |
+| markjay4k/Audio-Spectrum-Analyzer-in-Python | partial | 2024-07-14T21:56:42Z | [open](../records/electromagnetoscopes-markjay4k-audio-spectrum-analyzer-in-python-f916783d.md) |
 | neural75/gqrx-scanner | partial | 2026-06-30T23:46:19Z | [open](../records/electromagnetoscopes-neural75-gqrx-scanner-47ffd36c.md) |
+| rbn42/panon | partial | 2023-10-02T11:57:27Z | [open](../records/electromagnetoscopes-rbn42-panon-1725c9fd.md) |
 | rfquack/RFQuack | partial | 2024-12-23T21:53:48Z | [open](../records/electromagnetoscopes-rfquack-rfquack-ea9f1c02.md) |
 | shajen/rtl-sdr-scanner-cpp | partial | 2026-06-19T05:53:15Z | [open](../records/electromagnetoscopes-shajen-rtl-sdr-scanner-cpp-9483eaae.md) |
 | szpajder/dumpvdl2 | partial | 2026-08-01T19:58:06Z | [open](../records/electromagnetoscopes-szpajder-dumpvdl2-87835e79.md) |
+| tlecomte/friture | partial | 2026-09-01T04:24:15Z | [open](../records/electromagnetoscopes-tlecomte-friture-49f41869.md) |
 | ttrftech/NanoVNA | partial | 2020-11-11T21:02:22Z | [open](../records/electromagnetoscopes-ttrftech-nanovna-4dca7773.md) |
+| wayou/HTML5_Audio_Visualizer | partial | 2022-01-11T07:57:58Z | [open](../records/electromagnetoscopes-wayou-html5-audio-visualizer-cc08c93d.md) |
 | xmikos/qspectrumanalyzer | partial | 2024-04-03T20:14:12Z | [open](../records/electromagnetoscopes-xmikos-qspectrumanalyzer-57b2ff1e.md) |
+| xmikos/soapy_power | partial | 2024-06-22T16:31:16Z | [open](../records/electromagnetoscopes-xmikos-soapy-power-d5fb272e.md) |
+
+## Radio Garden Speciality
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| Piruz-m/Smart-Weather-Station | partial | 2020-06-25T01:46:44Z | [open](../records/radio-garden-speciality-piruz-m-smart-weather-station-9885257d.md) |
 
 ## Magazines
 
@@ -621,8 +637,8 @@ Records: `426`
 | Gitea: awdscan/awdscanserver | partial | 2025-10-06T13:47:16Z | [open](../records/repository-workplaces-gitea-awdscan-awdscanserver-8258eaa2.md) |
 | Gitea: corricca/elibrary-publication-analyzer | partial | 2026-01-29T19:57:29Z | [open](../records/repository-workplaces-gitea-corricca-elibrary-publication-analyzer-3d1b67ed.md) |
 | Gitea: ImageProcessing-ElectronicPublications/imthreshold | partial | 2023-10-26T10:52:14Z | [open](../records/repository-workplaces-gitea-imageprocessing-electronicpublications-imthreshold-a87c44af.md) |
-| gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-01T22:33:15.883Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
-| gitlab-org/gitlab | partial | 2026-09-02T03:26:55.805Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
+| gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-02T06:11:22.331Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
+| gitlab-org/gitlab | partial | 2026-09-02T06:27:17.782Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
 | gitlab-org/security-products/analyzers/container-scanning | partial | 2026-08-27T18:19:28.289Z | [open](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) |
 | gitlab-security-oss/cis/gitlabcis | partial | 2026-09-01T20:35:39.553Z | [open](../records/repository-workplaces-gitlab-security-oss-cis-gitlabcis-f7ce6047.md) |
 | hgraca/app-mapper | partial | 2026-09-01T08:04:56.232Z | [open](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) |
