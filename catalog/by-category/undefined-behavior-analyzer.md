@@ -1143,7 +1143,7 @@ Records: `1443`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | cruise-automation/isopod | partial | 2023-11-17T05:24:18Z | [open](../records/starlark-cruise-automation-isopod-0fd20340.md) |
-| openrundev/openrun | partial | 2026-09-02T21:40:49Z | [open](../records/starlark-openrundev-openrun-0f48908b.md) |
+| openrundev/openrun | partial | 2026-09-02T23:08:18Z | [open](../records/starlark-openrundev-openrun-0f48908b.md) |
 | tidbyt/community | partial | 2026-08-28T05:00:24Z | [open](../records/starlark-tidbyt-community-62c4caad.md) |
 
 ## Basilisk
@@ -1378,7 +1378,7 @@ Records: `1443`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | iamtelescope/telescope | partial | 2026-05-08T13:06:09Z | [open](../records/telescopes-iamtelescope-telescope-3d9294c3.md) |
-| Jubstaaa/hono-telescope | partial | 2026-09-02T13:39:26Z | [open](../records/telescopes-jubstaaa-hono-telescope-327995c1.md) |
+| Jubstaaa/hono-telescope | partial | 2026-09-02T22:21:25Z | [open](../records/telescopes-jubstaaa-hono-telescope-327995c1.md) |
 | nvim-telescope/telescope-github.nvim | partial | 2026-01-20T05:13:22Z | [open](../records/telescopes-nvim-telescope-telescope-github-nvim-5e97e37e.md) |
 | rlch/github-notifications.nvim | partial | 2023-06-15T02:27:51Z | [open](../records/telescopes-rlch-github-notifications-nvim-185a6c78.md) |
 
@@ -1389,7 +1389,7 @@ Records: `1443`
 | Abhinandan-Kushwaha/react-native-gifted-charts | partial | 2026-08-10T13:33:24Z | [open](../records/radars-abhinandan-kushwaha-react-native-gifted-charts-cbd803da.md) |
 | br1sk/brisk | partial | 2022-07-22T17:31:33Z | [open](../records/radars-br1sk-brisk-7db4230b.md) |
 | dan11003/CFEAR_Radarodometry_code_public | partial | 2024-10-17T19:30:06Z | [open](../records/radars-dan11003-cfear-radarodometry-code-public-11fea8df.md) |
-| jldz9/InSARHub | partial | 2026-09-02T19:52:50Z | [open](../records/radars-jldz9-insarhub-fdef62b9.md) |
+| jldz9/InSARHub | partial | 2026-09-02T20:59:47Z | [open](../records/radars-jldz9-insarhub-fdef62b9.md) |
 | olliestephenson/dpm-rnn-public | partial | 2021-07-30T20:55:47Z | [open](../records/radars-olliestephenson-dpm-rnn-public-af4e7b49.md) |
 | webandras/gee_s1_sar_wetlands | partial | 2020-05-26T23:32:54Z | [open](../records/radars-webandras-gee-s1-sar-wetlands-46abf8d9.md) |
 
@@ -1398,7 +1398,7 @@ Records: `1443`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | alanbjohnston/CubeSatSim | partial | 2026-09-01T18:16:41Z | [open](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) |
-| jvde-github/AIS-catcher | partial | 2026-09-01T20:31:50Z | [open](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) |
+| jvde-github/AIS-catcher | partial | 2026-09-02T22:21:15Z | [open](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) |
 | libcsp/libcsp | partial | 2026-08-26T05:31:12Z | [open](../records/satcom-satellites-libcsp-libcsp-abe29c50.md) |
 | raceintospace/raceintospace | partial | 2026-09-01T21:25:22Z | [open](../records/satcom-satellites-raceintospace-raceintospace-aabc64c6.md) |
 | sam210723/orbcomm-rx | partial | 2019-12-23T06:01:41Z | [open](../records/satcom-satellites-sam210723-orbcomm-rx-ccf42f9d.md) |
@@ -1412,9 +1412,9 @@ Records: `1443`
 | cjcliffe/CubicSDR | partial | 2026-09-02T02:19:48Z | [open](../records/electromagnetoscopes-cjcliffe-cubicsdr-4d39607b.md) |
 | f4exb/sdrangel | partial | 2026-08-30T10:08:39Z | [open](../records/electromagnetoscopes-f4exb-sdrangel-2939271b.md) |
 | greatscottgadgets/ubertooth | partial | 2026-03-19T15:58:24Z | [open](../records/electromagnetoscopes-greatscottgadgets-ubertooth-28bac228.md) |
-| jvde-github/AIS-catcher | partial | 2026-09-01T20:31:50Z | [open](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) |
+| jvde-github/AIS-catcher | partial | 2026-09-02T22:21:15Z | [open](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) |
 | kismetwireless/kismet | partial | 2026-09-01T15:36:57Z | [open](../records/electromagnetoscopes-kismetwireless-kismet-abff54d8.md) |
-| LargeModGames/spotatui | partial | 2026-09-02T20:13:05Z | [open](../records/electromagnetoscopes-largemodgames-spotatui-27906be2.md) |
+| LargeModGames/spotatui | partial | 2026-09-02T21:37:52Z | [open](../records/electromagnetoscopes-largemodgames-spotatui-27906be2.md) |
 | Moosync/Moosync-electron | partial | 2025-03-06T13:43:37Z | [open](../records/electromagnetoscopes-moosync-moosync-electron-6b29db05.md) |
 | RedhawkSDR/redhawk | partial | 2023-05-12T19:01:24Z | [open](../records/electromagnetoscopes-redhawksdr-redhawk-394b8fa1.md) |
 | Thom-x/docker-fr24feed-piaware-dump1090 | partial | 2026-08-03T18:05:22Z | [open](../records/electromagnetoscopes-thom-x-docker-fr24feed-piaware-dump1090-77ea9789.md) |

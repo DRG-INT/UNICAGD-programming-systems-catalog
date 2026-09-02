@@ -90,14 +90,14 @@ Records: `179`
 | [AllenCellModeling/aicsimageio](../records/microscopy-allencellmodeling-aicsimageio-bc72f7e6.md) | partial | 2025-12-01T19:17:09Z | registry-derived |
 | [amirhossein-kz/HiFormer](../records/microscopy-amirhossein-kz-hiformer-7958e1b3.md) | partial | 2024-03-22T00:28:20Z | registry-derived |
 | [ariel-waisman/LabelsToROIs](../records/microscopy-ariel-waisman-labelstorois-70803f22.md) | partial | 2021-09-11T14:17:20Z | registry-derived |
-| [axondeepseg/axondeepseg](../records/microscopy-axondeepseg-axondeepseg-0c2875c8.md) | partial | 2026-08-31T13:58:39Z | registry-derived |
+| [axondeepseg/axondeepseg](../records/microscopy-axondeepseg-axondeepseg-0c2875c8.md) | partial | 2026-09-02T21:59:28Z | registry-derived |
 | [bioio-devs/bioio](../records/microscopy-bioio-devs-bioio-ca180c94.md) | partial | 2026-08-23T00:03:14Z | registry-derived |
 | [Biomedical-Imaging-Group/DeconvolutionLab2](../records/microscopy-biomedical-imaging-group-deconvolutionlab2-5bd46987.md) | partial | 2019-03-09T16:40:03Z | registry-derived |
 | [brainglobe/brainglobe-atlasapi](../records/microscopy-brainglobe-brainglobe-atlasapi-1ee7f7d0.md) | partial | 2026-09-02T19:50:42Z | registry-derived |
 | [brainglobe/brainreg](../records/microscopy-brainglobe-brainreg-71a0b5b3.md) | partial | 2026-09-02T13:19:22Z | registry-derived |
 | [brainglobe/cellfinder](../records/microscopy-brainglobe-cellfinder-159009dc.md) | partial | 2026-08-22T06:31:08Z | registry-derived |
 | [chiahao3/ptyrad](../records/microscopy-chiahao3-ptyrad-cbe12e50.md) | partial | 2026-08-07T02:53:15Z | registry-derived |
-| [computational-cell-analytics/micro-sam](../records/microscopy-computational-cell-analytics-micro-sam-82fdbfce.md) | partial | 2026-09-02T18:05:34Z | registry-derived |
+| [computational-cell-analytics/micro-sam](../records/microscopy-computational-cell-analytics-micro-sam-82fdbfce.md) | partial | 2026-09-02T20:53:58Z | registry-derived |
 | [computational-imaging/ThreeDeconv.jl](../records/microscopy-computational-imaging-threedeconv-jl-df595b65.md) | partial | 2022-02-09T16:34:42Z | registry-derived |
 | [cytomining/cytominer](../records/microscopy-cytomining-cytominer-c603fed1.md) | partial | 2024-05-08T14:11:57Z | registry-derived |
 | [cytomining/pycytominer](../records/microscopy-cytomining-pycytominer-f61cb1dc.md) | partial | 2026-09-02T18:32:09Z | registry-derived |
@@ -134,7 +134,7 @@ Records: `179`
 | [pymmcore-plus/napari-micromanager](../records/microscopy-pymmcore-plus-napari-micromanager-ee37e322.md) | partial | 2026-08-03T16:26:33Z | registry-derived |
 | [pymmcore-plus/pymmcore-plus](../records/microscopy-pymmcore-plus-pymmcore-plus-c09b4755.md) | partial | 2026-08-03T16:28:29Z | registry-derived |
 | [pymontecarlo/pymontecarlo](../records/microscopy-pymontecarlo-pymontecarlo-376c3fcd.md) | partial | 2022-01-16T17:02:44Z | registry-derived |
-| [PytorchConnectomics/pytorch_connectomics](../records/microscopy-pytorchconnectomics-pytorch-connectomics-6aa6d39f.md) | partial | 2026-09-02T17:10:00Z | registry-derived |
+| [PytorchConnectomics/pytorch_connectomics](../records/microscopy-pytorchconnectomics-pytorch-connectomics-6aa6d39f.md) | partial | 2026-09-02T20:29:53Z | registry-derived |
 | [raacampbell/openstage](../records/microscopy-raacampbell-openstage-800e84a5.md) | partial | 2021-04-17T17:24:46Z | registry-derived |
 | [rapidsai/cucim](../records/microscopy-rapidsai-cucim-6fd9f972.md) | partial | 2026-09-01T14:47:34Z | registry-derived |
 | [royerlab/cytoself](../records/microscopy-royerlab-cytoself-b2dff824.md) | partial | 2025-08-05T18:46:40Z | registry-derived |
@@ -159,7 +159,7 @@ Records: `179`
 | [catrujilla/pyDHM](../records/microscopy-catrujilla-pydhm-45508b54.md) | partial | 2025-09-16T21:49:38Z | registry-derived |
 | [cgohlke/roifile](../records/microscopy-cgohlke-roifile-2f114ba6.md) | partial | 2026-07-30T01:48:11Z | registry-derived |
 | [Euro-BioImaging/BatchConvert](../records/microscopy-euro-bioimaging-batchconvert-38646f25.md) | partial | 2025-03-14T10:23:22Z | registry-derived |
-| [fideus-labs/ngff-zarr](../records/microscopy-fideus-labs-ngff-zarr-384efdbf.md) | partial | 2026-09-02T19:24:15Z | registry-derived |
+| [fideus-labs/ngff-zarr](../records/microscopy-fideus-labs-ngff-zarr-384efdbf.md) | partial | 2026-09-02T22:34:55Z | registry-derived |
 | [imaging-formats/ome-types](../records/microscopy-imaging-formats-ome-types-d7936d3b.md) | partial | 2026-04-02T01:45:48Z | registry-derived |
 | [pymmcore-plus/ome-writers](../records/microscopy-pymmcore-plus-ome-writers-2a308f87.md) | partial | 2026-07-01T11:25:58Z | registry-derived |
 

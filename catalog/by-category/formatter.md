@@ -530,7 +530,7 @@ Records: `570`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-02T22:20:05Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-02T23:17:02Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-08-27T19:23:53Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Font Briefcase
@@ -644,7 +644,7 @@ Records: `570`
 | --- | --- | --- | --- |
 | AlenVelocity/wa-sticker-formatter | partial | 2026-08-10T19:22:06Z | [open](../records/photography-alenvelocity-wa-sticker-formatter-09b95bf0.md) |
 | ankitdhall/lidar_camera_calibration | partial | 2025-10-16T18:17:31Z | [open](../records/photography-ankitdhall-lidar-camera-calibration-71522045.md) |
-| blakeblackshear/frigate | partial | 2026-09-02T15:39:30Z | [open](../records/photography-blakeblackshear-frigate-ea8ac18c.md) |
+| blakeblackshear/frigate | partial | 2026-09-02T20:39:04Z | [open](../records/photography-blakeblackshear-frigate-ea8ac18c.md) |
 | blakeblackshear/frigate-hass-integration | partial | 2026-08-28T22:20:35Z | [open](../records/photography-blakeblackshear-frigate-hass-integration-49b84b9e.md) |
 | d2phap/ImageGlass | partial | 2026-09-02T14:30:00Z | [open](../records/photography-d2phap-imageglass-ec40014f.md) |
 | dnglab/dnglab | partial | 2026-08-30T14:57:26Z | [open](../records/photography-dnglab-dnglab-05d113bb.md) |
@@ -662,7 +662,7 @@ Records: `570`
 | mz2/Carpaccio | partial | 2023-06-10T06:49:52Z | [open](../records/photography-mz2-carpaccio-47bb21ca.md) |
 | QQxiaoming/YUVviewer | partial | 2026-06-27T03:38:01Z | [open](../records/photography-qqxiaoming-yuvviewer-c08a90b9.md) |
 | rfrench/gify | partial | 2023-03-08T22:03:16Z | [open](../records/photography-rfrench-gify-e7a0c938.md) |
-| skymanbp/autoshade | partial | 2026-09-02T20:11:25Z | [open](../records/photography-skymanbp-autoshade-295e9968.md) |
+| skymanbp/autoshade | partial | 2026-09-02T21:07:21Z | [open](../records/photography-skymanbp-autoshade-295e9968.md) |
 
 ## Microscopy
 
@@ -672,7 +672,7 @@ Records: `570`
 | catrujilla/pyDHM | partial | 2025-09-16T21:49:38Z | [open](../records/microscopy-catrujilla-pydhm-45508b54.md) |
 | cgohlke/roifile | partial | 2026-07-30T01:48:11Z | [open](../records/microscopy-cgohlke-roifile-2f114ba6.md) |
 | Euro-BioImaging/BatchConvert | partial | 2025-03-14T10:23:22Z | [open](../records/microscopy-euro-bioimaging-batchconvert-38646f25.md) |
-| fideus-labs/ngff-zarr | partial | 2026-09-02T19:24:15Z | [open](../records/microscopy-fideus-labs-ngff-zarr-384efdbf.md) |
+| fideus-labs/ngff-zarr | partial | 2026-09-02T22:34:55Z | [open](../records/microscopy-fideus-labs-ngff-zarr-384efdbf.md) |
 | imaging-formats/ome-types | partial | 2026-04-02T01:45:48Z | [open](../records/microscopy-imaging-formats-ome-types-d7936d3b.md) |
 | pymmcore-plus/ome-writers | partial | 2026-07-01T11:25:58Z | [open](../records/microscopy-pymmcore-plus-ome-writers-2a308f87.md) |
 

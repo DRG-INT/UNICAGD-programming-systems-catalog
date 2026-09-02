@@ -328,7 +328,7 @@ Records: `151`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [alanbjohnston/CubeSatSim](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) | partial | 2026-09-01T18:16:41Z | registry-derived |
-| [jvde-github/AIS-catcher](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) | partial | 2026-09-01T20:31:50Z | registry-derived |
+| [jvde-github/AIS-catcher](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) | partial | 2026-09-02T22:21:15Z | registry-derived |
 | [libcsp/libcsp](../records/satcom-satellites-libcsp-libcsp-abe29c50.md) | partial | 2026-08-26T05:31:12Z | registry-derived |
 | [raceintospace/raceintospace](../records/satcom-satellites-raceintospace-raceintospace-aabc64c6.md) | partial | 2026-09-01T21:25:22Z | registry-derived |
 | [sam210723/orbcomm-rx](../records/satcom-satellites-sam210723-orbcomm-rx-ccf42f9d.md) | partial | 2019-12-23T06:01:41Z | registry-derived |

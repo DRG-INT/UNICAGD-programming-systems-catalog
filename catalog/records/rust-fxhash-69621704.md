@@ -40,7 +40,7 @@ generation, static analysis, and source transformation.
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | SEE LICENSE IN LICENSE |
+| Evidence | unknown |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes

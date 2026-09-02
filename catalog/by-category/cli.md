@@ -514,7 +514,7 @@ Records: `518`
 | --- | --- | --- | --- |
 | golang-migrate/migrate | partial | 2026-08-31T23:57:55Z | [open](../records/go-golang-migrate-migrate-c00bf5c0.md) |
 | JanDeDobbeleer/oh-my-posh | partial | 2026-09-02T00:08:16Z | [open](../records/go-jandedobbeleer-oh-my-posh-0e751a91.md) |
-| yorukot/superfile | partial | 2026-08-30T17:43:12Z | [open](../records/go-yorukot-superfile-1e2c0bb7.md) |
+| yorukot/superfile | partial | 2026-09-02T22:29:21Z | [open](../records/go-yorukot-superfile-1e2c0bb7.md) |
 
 ## "aim's"
 
@@ -522,7 +522,7 @@ Records: `518`
 | --- | --- | --- | --- |
 | esengine/DeepSeek-Reasonix | partial | 2026-09-02T21:29:39Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-02T22:19:00Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-02T22:27:00Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Font Briefcase
 

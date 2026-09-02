@@ -358,7 +358,7 @@ Records: `312`
 | Dhaval2404/ImagePicker | partial | 2023-10-22T09:30:15Z | [open](../records/photography-dhaval2404-imagepicker-a5a68c94.md) |
 | dlemstra/Magick.NET | partial | 2026-09-02T13:04:56Z | [open](../records/photography-dlemstra-magick-net-d1b88e65.md) |
 | esafirm/android-image-picker | partial | 2024-07-24T01:49:10Z | [open](../records/photography-esafirm-android-image-picker-894942a1.md) |
-| eszdman/PhotonCamera | partial | 2026-08-29T17:24:07Z | [open](../records/photography-eszdman-photoncamera-7ae407a8.md) |
+| eszdman/PhotonCamera | partial | 2026-09-02T21:16:24Z | [open](../records/photography-eszdman-photoncamera-7ae407a8.md) |
 | Exiv2/exiv2 | partial | 2026-09-02T15:39:33Z | [open](../records/photography-exiv2-exiv2-ece25806.md) |
 | fthaler/rawhdr | partial | 2023-08-11T13:20:44Z | [open](../records/photography-fthaler-rawhdr-2703a856.md) |
 | hahnec/color-matcher | partial | 2026-02-24T20:43:21Z | [open](../records/photography-hahnec-color-matcher-dc72d7d2.md) |

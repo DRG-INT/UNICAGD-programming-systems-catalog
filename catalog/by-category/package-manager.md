@@ -420,7 +420,7 @@ Records: `399`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AzuraCast/AzuraCast | partial | 2026-08-31T19:07:58Z | [open](../records/electromagnetoscopes-azuracast-azuracast-24484a93.md) |
+| AzuraCast/AzuraCast | partial | 2026-09-02T21:37:03Z | [open](../records/electromagnetoscopes-azuracast-azuracast-24484a93.md) |
 
 ## Repertoare Catalogs
 

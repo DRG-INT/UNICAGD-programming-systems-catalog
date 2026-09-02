@@ -559,7 +559,7 @@ Records: `1271`
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-08-30T15:02:19Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-02T21:38:10Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-02T22:56:18Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -581,7 +581,7 @@ Records: `1271`
 | Fosowl/agenticSeek | partial | 2026-08-11T14:14:08Z | [open](../records/aim-s-fosowl-agenticseek-3f73fd5c.md) |
 | microsoft/graphrag | partial | 2026-09-02T01:41:10Z | [open](../records/aim-s-microsoft-graphrag-16e521eb.md) |
 | NirDiamant/RAG_Techniques | partial | 2026-08-29T08:59:28Z | [open](../records/aim-s-nirdiamant-rag-techniques-681ed394.md) |
-| ollama/ollama | partial | 2026-09-02T22:07:30Z | [open](../records/aim-s-ollama-ollama-8b858f45.md) |
+| ollama/ollama | partial | 2026-09-02T22:23:13Z | [open](../records/aim-s-ollama-ollama-8b858f45.md) |
 
 ## Font Briefcase
 
@@ -1000,7 +1000,7 @@ Records: `1271`
 | aslost/pixtale | partial | 2026-09-01T14:07:49Z | [open](../records/photography-aslost-pixtale-df702412.md) |
 | Awalz/SwiftyCam | partial | 2022-02-04T10:24:45Z | [open](../records/photography-awalz-swiftycam-8b6b12a3.md) |
 | awxkee/avif.swift | partial | 2026-04-29T10:30:31Z | [open](../records/photography-awxkee-avif-swift-72b07b3d.md) |
-| Bitpainter75/FerrumPix | partial | 2026-09-02T20:08:31Z | [open](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) |
+| Bitpainter75/FerrumPix | partial | 2026-09-02T22:51:53Z | [open](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) |
 | carina-studio/PixelViewer | partial | 2026-08-31T10:17:12Z | [open](../records/photography-carina-studio-pixelviewer-70d11532.md) |
 | carlospuenteg/File-Injector | partial | 2022-11-18T00:20:21Z | [open](../records/photography-carlospuenteg-file-injector-2533177f.md) |
 | carlospuenteg/Photomosaic-Creator | unknown | github_search_does_not_include_release_date | [open](../records/photography-carlospuenteg-photomosaic-creator-b57e7ad4.md) |
@@ -1043,7 +1043,7 @@ Records: `1271`
 | wsl2ls/iOS_Tips | partial | 2022-08-28T19:02:32Z | [open](../records/photography-wsl2ls-ios-tips-4b0e1ffa.md) |
 | Yummypets/YPImagePicker | partial | 2026-07-28T15:57:49Z | [open](../records/photography-yummypets-ypimagepicker-25854b52.md) |
 | zapdos-labs/unblink | partial | 2026-03-09T09:42:25Z | [open](../records/photography-zapdos-labs-unblink-0845b1a9.md) |
-| zidage/AlcedoStudio | partial | 2026-09-01T23:22:15Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
+| zidage/AlcedoStudio | partial | 2026-09-02T23:13:36Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
 
 ## Microscopy
 
@@ -1058,14 +1058,14 @@ Records: `1271`
 | AllenCellModeling/aicsimageio | partial | 2025-12-01T19:17:09Z | [open](../records/microscopy-allencellmodeling-aicsimageio-bc72f7e6.md) |
 | amirhossein-kz/HiFormer | partial | 2024-03-22T00:28:20Z | [open](../records/microscopy-amirhossein-kz-hiformer-7958e1b3.md) |
 | ariel-waisman/LabelsToROIs | partial | 2021-09-11T14:17:20Z | [open](../records/microscopy-ariel-waisman-labelstorois-70803f22.md) |
-| axondeepseg/axondeepseg | partial | 2026-08-31T13:58:39Z | [open](../records/microscopy-axondeepseg-axondeepseg-0c2875c8.md) |
+| axondeepseg/axondeepseg | partial | 2026-09-02T21:59:28Z | [open](../records/microscopy-axondeepseg-axondeepseg-0c2875c8.md) |
 | bioio-devs/bioio | partial | 2026-08-23T00:03:14Z | [open](../records/microscopy-bioio-devs-bioio-ca180c94.md) |
 | Biomedical-Imaging-Group/DeconvolutionLab2 | partial | 2019-03-09T16:40:03Z | [open](../records/microscopy-biomedical-imaging-group-deconvolutionlab2-5bd46987.md) |
 | brainglobe/brainglobe-atlasapi | partial | 2026-09-02T19:50:42Z | [open](../records/microscopy-brainglobe-brainglobe-atlasapi-1ee7f7d0.md) |
 | brainglobe/brainreg | partial | 2026-09-02T13:19:22Z | [open](../records/microscopy-brainglobe-brainreg-71a0b5b3.md) |
 | brainglobe/cellfinder | partial | 2026-08-22T06:31:08Z | [open](../records/microscopy-brainglobe-cellfinder-159009dc.md) |
 | chiahao3/ptyrad | partial | 2026-08-07T02:53:15Z | [open](../records/microscopy-chiahao3-ptyrad-cbe12e50.md) |
-| computational-cell-analytics/micro-sam | partial | 2026-09-02T18:05:34Z | [open](../records/microscopy-computational-cell-analytics-micro-sam-82fdbfce.md) |
+| computational-cell-analytics/micro-sam | partial | 2026-09-02T20:53:58Z | [open](../records/microscopy-computational-cell-analytics-micro-sam-82fdbfce.md) |
 | computational-imaging/ThreeDeconv.jl | partial | 2022-02-09T16:34:42Z | [open](../records/microscopy-computational-imaging-threedeconv-jl-df595b65.md) |
 | cytomining/cytominer | partial | 2024-05-08T14:11:57Z | [open](../records/microscopy-cytomining-cytominer-c603fed1.md) |
 | cytomining/pycytominer | partial | 2026-09-02T18:32:09Z | [open](../records/microscopy-cytomining-pycytominer-f61cb1dc.md) |
@@ -1102,7 +1102,7 @@ Records: `1271`
 | pymmcore-plus/napari-micromanager | partial | 2026-08-03T16:26:33Z | [open](../records/microscopy-pymmcore-plus-napari-micromanager-ee37e322.md) |
 | pymmcore-plus/pymmcore-plus | partial | 2026-08-03T16:28:29Z | [open](../records/microscopy-pymmcore-plus-pymmcore-plus-c09b4755.md) |
 | pymontecarlo/pymontecarlo | partial | 2022-01-16T17:02:44Z | [open](../records/microscopy-pymontecarlo-pymontecarlo-376c3fcd.md) |
-| PytorchConnectomics/pytorch_connectomics | partial | 2026-09-02T17:10:00Z | [open](../records/microscopy-pytorchconnectomics-pytorch-connectomics-6aa6d39f.md) |
+| PytorchConnectomics/pytorch_connectomics | partial | 2026-09-02T20:29:53Z | [open](../records/microscopy-pytorchconnectomics-pytorch-connectomics-6aa6d39f.md) |
 | raacampbell/openstage | partial | 2021-04-17T17:24:46Z | [open](../records/microscopy-raacampbell-openstage-800e84a5.md) |
 | rapidsai/cucim | partial | 2026-09-01T14:47:34Z | [open](../records/microscopy-rapidsai-cucim-6fd9f972.md) |
 | royerlab/cytoself | partial | 2025-08-05T18:46:40Z | [open](../records/microscopy-royerlab-cytoself-b2dff824.md) |

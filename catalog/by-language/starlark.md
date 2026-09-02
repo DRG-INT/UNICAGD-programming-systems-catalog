@@ -33,8 +33,8 @@ Records: `69`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [adobe/rules_gitops](../records/starlark-adobe-rules-gitops-09140ed0.md) | partial | 2026-08-30T23:32:18Z | registry-derived |
-| [aspect-build/rules_js](../records/starlark-aspect-build-rules-js-fd75b379.md) | partial | 2026-09-02T22:12:44Z | registry-derived |
-| [aspect-build/rules_py](../records/starlark-aspect-build-rules-py-910f4833.md) | partial | 2026-09-02T22:15:49Z | registry-derived |
+| [aspect-build/rules_js](../records/starlark-aspect-build-rules-js-fd75b379.md) | partial | 2026-09-02T23:06:56Z | registry-derived |
+| [aspect-build/rules_py](../records/starlark-aspect-build-rules-py-910f4833.md) | partial | 2026-09-02T23:07:40Z | registry-derived |
 | [Bazel](../records/starlark-bazel-189ae4a2.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [bazel-contrib/bazel-lib](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) | partial | 2026-09-02T17:30:29Z | registry-derived |
 | [bazel-contrib/rules_cuda](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) | partial | 2026-09-02T21:43:28Z | registry-derived |
@@ -64,7 +64,7 @@ Records: `69`
 | [stackb/rules_proto](../records/starlark-stackb-rules-proto-b9dcde4f.md) | partial | 2026-09-01T16:32:19Z | registry-derived |
 | [tidbyt/pixlet](../records/starlark-tidbyt-pixlet-876fea90.md) | partial | 2026-08-30T04:50:35Z | registry-derived |
 | [tweag/rules_haskell](../records/starlark-tweag-rules-haskell-f813b994.md) | partial | 2026-09-02T01:33:13Z | registry-derived |
-| [tweag/rules_nixpkgs](../records/starlark-tweag-rules-nixpkgs-ae7e2699.md) | partial | 2026-09-02T15:56:36Z | registry-derived |
+| [tweag/rules_nixpkgs](../records/starlark-tweag-rules-nixpkgs-ae7e2699.md) | partial | 2026-09-02T23:15:36Z | registry-derived |
 | [typedb/bazel-distribution](../records/starlark-typedb-bazel-distribution-95f6acb1.md) | partial | 2026-09-01T14:54:08Z | registry-derived |
 | [u-root/gobusybox](../records/starlark-u-root-gobusybox-136cf407.md) | partial | 2026-06-22T15:14:39Z | registry-derived |
 
@@ -107,7 +107,7 @@ Records: `69`
 | --- | --- | --- | --- |
 | [bazel-contrib/rules_foreign_cc](../records/starlark-bazel-contrib-rules-foreign-cc-74f543fe.md) | partial | 2026-06-28T01:47:45Z | registry-derived |
 | [bazel-contrib/rules_nodejs](../records/starlark-bazel-contrib-rules-nodejs-6ba164bc.md) | partial | 2026-09-01T16:15:55Z | registry-derived |
-| [bazel-contrib/rules_python](../records/starlark-bazel-contrib-rules-python-3138da4d.md) | partial | 2026-09-02T21:57:27Z | registry-derived |
+| [bazel-contrib/rules_python](../records/starlark-bazel-contrib-rules-python-3138da4d.md) | partial | 2026-09-02T23:15:31Z | registry-derived |
 | [bazelbuild/examples](../records/starlark-bazelbuild-examples-aa7ebe53.md) | partial | 2026-08-31T14:21:32Z | registry-derived |
 | [bazelbuild/rules_apple](../records/starlark-bazelbuild-rules-apple-9bc4356d.md) | partial | 2026-09-01T22:13:44Z | registry-derived |
 | [bazelbuild/rules_docker](../records/starlark-bazelbuild-rules-docker-9df12e7c.md) | partial | 2025-12-22T00:24:32Z | registry-derived |
@@ -115,7 +115,7 @@ Records: `69`
 | [cel-expr/cel-spec](../records/starlark-cel-expr-cel-spec-b2658dd8.md) | partial | 2026-08-13T21:27:23Z | registry-derived |
 | [envoyproxy/data-plane-api](../records/starlark-envoyproxy-data-plane-api-7610f6c0.md) | partial | 2026-09-02T19:35:29Z | registry-derived |
 | [google/dotprompt](../records/starlark-google-dotprompt-07de9fab.md) | partial | 2026-08-25T14:21:42Z | registry-derived |
-| [google/fully-homomorphic-encryption](../records/starlark-google-fully-homomorphic-encryption-7e96f129.md) | partial | 2026-09-02T21:04:04Z | registry-derived |
+| [google/fully-homomorphic-encryption](../records/starlark-google-fully-homomorphic-encryption-7e96f129.md) | partial | 2026-09-02T22:55:36Z | registry-derived |
 | [googleapis/googleapis](../records/starlark-googleapis-googleapis-b2038836.md) | partial | 2026-09-02T22:00:48Z | registry-derived |
 | [GoogleContainerTools/distroless](../records/starlark-googlecontainertools-distroless-b973874f.md) | partial | 2026-09-02T18:03:14Z | registry-derived |
 | [lucperkins/colossus](../records/starlark-lucperkins-colossus-6d410097.md) | partial | 2022-06-02T18:12:42Z | registry-derived |
@@ -148,7 +148,7 @@ Records: `69`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [cruise-automation/isopod](../records/starlark-cruise-automation-isopod-0fd20340.md) | partial | 2023-11-17T05:24:18Z | registry-derived |
-| [openrundev/openrun](../records/starlark-openrundev-openrun-0f48908b.md) | partial | 2026-09-02T21:40:49Z | registry-derived |
+| [openrundev/openrun](../records/starlark-openrundev-openrun-0f48908b.md) | partial | 2026-09-02T23:08:18Z | registry-derived |
 | [tidbyt/community](../records/starlark-tidbyt-community-62c4caad.md) | partial | 2026-08-28T05:00:24Z | registry-derived |
 
 ### Visualization Gui

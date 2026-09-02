@@ -301,7 +301,7 @@ Records: `324`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| affaan-m/ECC | partial | 2026-09-02T22:14:15Z | [open](../records/aim-s-affaan-m-ecc-7e36794e.md) |
+| affaan-m/ECC | partial | 2026-09-02T23:14:40Z | [open](../records/aim-s-affaan-m-ecc-7e36794e.md) |
 
 ## Doctrines
 
@@ -371,7 +371,7 @@ Records: `324`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| PentHertz/RF-Swift | partial | 2026-09-02T17:35:00Z | [open](../records/electromagnetoscopes-penthertz-rf-swift-91a223bf.md) |
+| PentHertz/RF-Swift | partial | 2026-09-02T21:42:39Z | [open](../records/electromagnetoscopes-penthertz-rf-swift-91a223bf.md) |
 
 ## Repertoare Catalogs
 

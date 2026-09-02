@@ -350,7 +350,7 @@ Records: `268`
 | --- | --- | --- | --- |
 | besscroft/PicImpact | partial | 2026-07-03T13:33:00Z | [open](../records/photography-besscroft-picimpact-0dc1368b.md) |
 | boltgolt/howdy | partial | 2025-07-29T10:07:27Z | [open](../records/photography-boltgolt-howdy-772dcbb3.md) |
-| marcinz606/NegPy | partial | 2026-09-02T19:59:43Z | [open](../records/photography-marcinz606-negpy-13e4113f.md) |
+| marcinz606/NegPy | partial | 2026-09-02T20:37:51Z | [open](../records/photography-marcinz606-negpy-13e4113f.md) |
 | ramokz/phantom-camera | partial | 2026-09-01T20:36:49Z | [open](../records/photography-ramokz-phantom-camera-07b158cf.md) |
 | showmewebcam/showmewebcam | partial | 2024-08-14T16:42:44Z | [open](../records/photography-showmewebcam-showmewebcam-cd9dcd31.md) |
 | SpecialKO/SpecialK | partial | 2026-08-31T22:39:56Z | [open](../records/photography-specialko-specialk-d14b8655.md) |

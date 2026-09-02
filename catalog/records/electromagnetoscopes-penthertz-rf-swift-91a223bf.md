@@ -34,16 +34,16 @@ supply-chain review, vulnerability detection, and release gate enforcement.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-02T17:35:00Z | gh search repos topic:sdr stars:>100 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-02T21:42:39Z | gh search repos topic:sdr stars:>100 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | Backup plan required |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 

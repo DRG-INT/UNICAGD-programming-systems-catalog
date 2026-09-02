@@ -39,9 +39,9 @@ validation, regression protection, and release confidence.
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT; https://www.nuget.org/packages/GraphQL.Client.Serializer.SystemTextJson/6.1.0/license |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Apache-2.0 |
+| Evidence | Apache-2.0 |
+| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes
 
