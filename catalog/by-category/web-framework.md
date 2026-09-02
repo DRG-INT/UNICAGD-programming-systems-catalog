@@ -13,14 +13,14 @@ Records: `418`
 [Community Reference (88)](community-reference.md) · [Compiler (171)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
 [Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (102)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (156)](cryptography.md) · [Data Science (34)](data-science.md) · [Database Datastore (774)](database-datastore.md) · [Datetime (161)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (89)](documentation.md)
-[Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (556)](formatter.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (90)](documentation.md)
+[Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (557)](formatter.md)
 [Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1166)](ide-editor-integration.md)
 [Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1244)](language-specification.md) · [Library (4899)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (595)](machine-learning.md)
+[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4901)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (596)](machine-learning.md)
 [Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (926)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (929)](parser-lexer-ast.md) · [Precommit Ci Quality (265)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (930)](parser-lexer-ast.md) · [Precommit Ci Quality (265)](precommit-ci-quality.md)
 [Profiler (74)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (316)](security-sast.md) · [Serialization (371)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (455)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (502)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (292)](type-checker.md)
@@ -164,7 +164,7 @@ Records: `418`
 | @apple/app-store-server-library | 3.1.0 | 2026-05-06T01:14:11.509Z | [open](../records/node-js-javascript-apple-app-store-server-library-95022302.md) |
 | @budibase/server | 3.38.1 | 2026-05-12T06:32:35.805Z | [open](../records/node-js-javascript-budibase-server-b96430d3.md) |
 | @callstack/repack-dev-server | 5.3.0 | 2026-08-05T09:11:36.073Z | [open](../records/node-js-javascript-callstack-repack-dev-server-631ff63b.md) |
-| @capgo/cli | 8.45.3 | 2026-09-01T15:12:47.908Z | [open](../records/node-js-javascript-capgo-cli-8e98e39d.md) |
+| @capgo/cli | 8.46.0 | 2026-09-02T16:22:08.144Z | [open](../records/node-js-javascript-capgo-cli-8e98e39d.md) |
 | @cloudflare/mcp-server-cloudflare | 0.2.0 | 2025-03-14T10:41:19.350Z | [open](../records/node-js-javascript-cloudflare-mcp-server-cloudflare-3b1ce558.md) |
 | @constructive-io/graphql-server | 5.20.8 | 2026-09-02T02:26:47.346Z | [open](../records/node-js-javascript-constructive-io-graphql-server-5edba745.md) |
 | @contentful/mcp-server | 1.19.0 | 2026-09-01T20:20:27.760Z | [open](../records/node-js-javascript-contentful-mcp-server-f8c3e0db.md) |
@@ -242,7 +242,7 @@ Records: `418`
 | @turnkey/sdk-server | 8.3.0 | 2026-08-27T23:08:30.267Z | [open](../records/node-js-javascript-turnkey-sdk-server-330a2b7d.md) |
 | @ui5/mcp-server | 0.2.18 | 2026-08-13T09:15:38.219Z | [open](../records/node-js-javascript-ui5-mcp-server-ed5f5678.md) |
 | @ui5/server | 4.0.15 | 2026-03-25T10:16:54.548Z | [open](../records/node-js-javascript-ui5-server-bf90217b.md) |
-| @umijs/server | 4.7.10 | 2026-09-02T09:24:49.341Z | [open](../records/node-js-javascript-umijs-server-39ec9954.md) |
+| @umijs/server | 4.7.11 | 2026-09-02T16:23:21.973Z | [open](../records/node-js-javascript-umijs-server-39ec9954.md) |
 | @unlighthouse/server | 0.18.0 | 2026-06-29T03:12:35.459Z | [open](../records/node-js-javascript-unlighthouse-server-42feedd7.md) |
 | @upstash/context7-mcp | 4.0.4 | 2026-08-28T09:59:14.422Z | [open](../records/node-js-javascript-upstash-context7-mcp-f62fb753.md) |
 | @use-voltra/ios-server | 2.2.0 | 2026-08-03T13:16:07.085Z | [open](../records/node-js-javascript-use-voltra-ios-server-52aaeb6b.md) |
@@ -370,7 +370,7 @@ Records: `418`
 | --- | --- | --- | --- |
 | beamer | 1.7.0 | 2024-10-08T20:45:02.640302Z | [open](../records/dart-beamer-0ac37553.md) |
 | cached_query | 3.7.0 | 2026-05-17T19:03:16.667872Z | [open](../records/dart-cached-query-5a245dd8.md) |
-| go_router | 18.0.0 | 2026-08-24T16:01:44.516703Z | [open](../records/dart-go-router-065a77a1.md) |
+| go_router | 18.0.1 | 2026-09-02T16:21:54.510350Z | [open](../records/dart-go-router-065a77a1.md) |
 | math_expressions | 3.2.0 | 2026-07-29T09:28:21.143785Z | [open](../records/dart-math-expressions-fae133ac.md) |
 | meta | 1.19.0 | 2026-07-09T12:54:28.000531Z | [open](../records/dart-meta-acd5de95.md) |
 | navigation_history_observer | 1.1.1 | 2024-04-17T08:27:30.593848Z | [open](../records/dart-navigation-history-observer-07230379.md) |

@@ -13,14 +13,14 @@ Records: `87`
 [Community Reference (88)](community-reference.md) · [Compiler (171)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
 [Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (102)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (156)](cryptography.md) · [Data Science (34)](data-science.md) · [Database Datastore (774)](database-datastore.md) · [Datetime (161)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · **[Dependency Manager (87)](dependency-manager.md)** · [Documentation (89)](documentation.md)
-[Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (556)](formatter.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · **[Dependency Manager (87)](dependency-manager.md)** · [Documentation (90)](documentation.md)
+[Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (557)](formatter.md)
 [Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1166)](ide-editor-integration.md)
 [Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1244)](language-specification.md) · [Library (4899)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (595)](machine-learning.md)
+[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4901)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (596)](machine-learning.md)
 [Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (926)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (929)](parser-lexer-ast.md) · [Precommit Ci Quality (265)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (930)](parser-lexer-ast.md) · [Precommit Ci Quality (265)](precommit-ci-quality.md)
 [Profiler (74)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (316)](security-sast.md) · [Serialization (371)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (455)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (502)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (292)](type-checker.md)
@@ -131,7 +131,7 @@ Records: `87`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| rtk-ai/rtk | partial | 2026-09-02T13:34:50Z | [open](../records/aim-s-rtk-ai-rtk-ba550a2c.md) |
+| rtk-ai/rtk | partial | 2026-09-02T17:07:12Z | [open](../records/aim-s-rtk-ai-rtk-ba550a2c.md) |
 
 ## nix
 
@@ -250,5 +250,5 @@ Records: `87`
 | --- | --- | --- | --- |
 | Gitea: RiceField-Plugins/LibraryDependencies | partial | 2022-06-09T18:49:38Z | [open](../records/repository-workplaces-gitea-ricefield-plugins-librarydependencies-4aaea462.md) |
 | gitlab-org/security-products/dependency-scanning | partial | 2026-01-07T10:21:59.705Z | [open](../records/repository-workplaces-gitlab-org-security-products-dependency-scanning-3f274c86.md) |
-| gitlab-org/security-products/gemnasium-db | partial | 2026-09-02T14:27:41.012Z | [open](../records/repository-workplaces-gitlab-org-security-products-gemnasium-db-646d6d68.md) |
+| gitlab-org/security-products/gemnasium-db | partial | 2026-09-02T15:28:08.036Z | [open](../records/repository-workplaces-gitlab-org-security-products-gemnasium-db-646d6d68.md) |
 | gitlab-org/security-products/security-report-schemas | partial | 2026-09-02T12:31:27.706Z | [open](../records/repository-workplaces-gitlab-org-security-products-security-report-schemas-1a7d4b38.md) |

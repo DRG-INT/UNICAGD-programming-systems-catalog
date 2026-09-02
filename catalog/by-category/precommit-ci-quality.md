@@ -13,14 +13,14 @@ Records: `265`
 [Community Reference (88)](community-reference.md) · [Compiler (171)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
 [Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (102)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (156)](cryptography.md) · [Data Science (34)](data-science.md) · [Database Datastore (774)](database-datastore.md) · [Datetime (161)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (89)](documentation.md)
-[Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (556)](formatter.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (90)](documentation.md)
+[Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (557)](formatter.md)
 [Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1166)](ide-editor-integration.md)
 [Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1244)](language-specification.md) · [Library (4899)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (595)](machine-learning.md)
+[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4901)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (596)](machine-learning.md)
 [Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (926)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (929)](parser-lexer-ast.md) · **[Precommit Ci Quality (265)](precommit-ci-quality.md)**
+[Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (930)](parser-lexer-ast.md) · **[Precommit Ci Quality (265)](precommit-ci-quality.md)**
 [Profiler (74)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (316)](security-sast.md) · [Serialization (371)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (455)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (502)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (292)](type-checker.md)
@@ -187,7 +187,7 @@ Records: `265`
 | insurancerating | 0.8.2 | 2026-09-01 11:50:02 UTC | [open](../records/r-insurancerating-fcf34652.md) |
 | inti | 0.7.3 | 2026-08-20 10:20:02 UTC | [open](../records/r-inti-d99c2491.md) |
 | jointNmix | 1.0-1 | 2026-08-20 04:20:02 UTC | [open](../records/r-jointnmix-5a8caaea.md) |
-| LUCIDus | 3.2.0 | 2026-09-01 18:30:02 UTC | [open](../records/r-lucidus-62988eed.md) |
+| LUCIDus | 3.2.1 | 2026-09-02 17:10:14 UTC | [open](../records/r-lucidus-62988eed.md) |
 | MDPtoolbox | 4.0.4 | 2026-08-31 18:40:20 UTC | [open](../records/r-mdptoolbox-919f1f57.md) |
 | mizer | 3.4.0 | 2026-08-31 16:00:03 UTC | [open](../records/r-mizer-465f8a44.md) |
 | MPCR | 2.1.2 | 2026-08-23 15:40:02 UTC | [open](../records/r-mpcr-aa443dc5.md) |

@@ -13,14 +13,14 @@ Records: `316`
 [Community Reference (88)](community-reference.md) · [Compiler (171)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
 [Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (102)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (156)](cryptography.md) · [Data Science (34)](data-science.md) · [Database Datastore (774)](database-datastore.md) · [Datetime (161)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (89)](documentation.md)
-[Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (556)](formatter.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (90)](documentation.md)
+[Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (557)](formatter.md)
 [Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1166)](ide-editor-integration.md)
 [Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1244)](language-specification.md) · [Library (4899)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (595)](machine-learning.md)
+[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4901)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (596)](machine-learning.md)
 [Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (926)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (929)](parser-lexer-ast.md) · [Precommit Ci Quality (265)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (930)](parser-lexer-ast.md) · [Precommit Ci Quality (265)](precommit-ci-quality.md)
 [Profiler (74)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 **[Security Sast (316)](security-sast.md)** · [Serialization (371)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (455)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (502)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (292)](type-checker.md)
@@ -481,7 +481,7 @@ Records: `316`
 | palmapps/jwt-spring-security-demo | partial | 2019-02-23T10:05:23.454Z | [open](../records/repository-workplaces-palmapps-jwt-spring-security-demo-674caee6.md) |
 | peachtech/peach-fuzzer-community | partial | 2021-03-30T17:59:40.973Z | [open](../records/repository-workplaces-peachtech-peach-fuzzer-community-e1ee7aba.md) |
 | prism-break/prism-break | partial | 2026-05-30T11:50:17.341Z | [open](../records/repository-workplaces-prism-break-prism-break-503c05ff.md) |
-| rawsec/rawsec-cybersecurity-list | partial | 2026-09-02T10:46:27.745Z | [open](../records/repository-workplaces-rawsec-rawsec-cybersecurity-list-00ece097.md) |
+| rawsec/rawsec-cybersecurity-list | partial | 2026-09-02T16:51:54.256Z | [open](../records/repository-workplaces-rawsec-rawsec-cybersecurity-list-00ece097.md) |
 | riot.ai/NoteRiot | partial | 2024-03-25T22:54:03.551Z | [open](../records/repository-workplaces-riot-ai-noteriot-9fadeb02.md) |
 | Shinobi-Systems/ShinobiCE | partial | 2026-03-16T12:22:45.336Z | [open](../records/repository-workplaces-shinobi-systems-shinobice-52eaee8b.md) |
 | spritely/goblins | partial | 2025-03-11T20:30:35.821Z | [open](../records/repository-workplaces-spritely-goblins-f5ed6a86.md) |

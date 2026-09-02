@@ -13,14 +13,14 @@ Records: `171`
 [Community Reference (88)](community-reference.md) · **[Compiler (171)](compiler.md)** · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
 [Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (102)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (156)](cryptography.md) · [Data Science (34)](data-science.md) · [Database Datastore (774)](database-datastore.md) · [Datetime (161)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (89)](documentation.md)
-[Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (556)](formatter.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (90)](documentation.md)
+[Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (557)](formatter.md)
 [Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1166)](ide-editor-integration.md)
 [Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1244)](language-specification.md) · [Library (4899)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (595)](machine-learning.md)
+[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4901)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (596)](machine-learning.md)
 [Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (926)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (929)](parser-lexer-ast.md) · [Precommit Ci Quality (265)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (930)](parser-lexer-ast.md) · [Precommit Ci Quality (265)](precommit-ci-quality.md)
 [Profiler (74)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (316)](security-sast.md) · [Serialization (371)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (455)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (502)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (292)](type-checker.md)
@@ -236,12 +236,12 @@ Records: `171`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ClementTsang/rustcc | partial | 2025-06-04T05:05:13Z | [open](../records/assembly-clementtsang-rustcc-81a87799.md) |
-| compiler-explorer/compiler-explorer | partial | 2026-09-01T19:48:07Z | [open](../records/assembly-compiler-explorer-compiler-explorer-99f6d9ce.md) |
+| compiler-explorer/compiler-explorer | partial | 2026-09-02T17:01:55Z | [open](../records/assembly-compiler-explorer-compiler-explorer-99f6d9ce.md) |
 | DQNEO/minigo | partial | 2021-02-16T16:05:25Z | [open](../records/assembly-dqneo-minigo-2d87e4eb.md) |
 | emproof-com/nyxstone | partial | 2026-06-05T16:43:08Z | [open](../records/assembly-emproof-com-nyxstone-2e6c50f8.md) |
 | Fedjmike/mini-c | partial | 2022-04-15T08:24:14Z | [open](../records/assembly-fedjmike-mini-c-295a2fc0.md) |
 | HexHive/retrowrite | partial | 2025-04-26T16:48:55Z | [open](../records/assembly-hexhive-retrowrite-c7fefa2b.md) |
-| illegalstudio/elephc | partial | 2026-09-02T12:16:20Z | [open](../records/assembly-illegalstudio-elephc-5fbaada8.md) |
+| illegalstudio/elephc | partial | 2026-09-02T17:02:09Z | [open](../records/assembly-illegalstudio-elephc-5fbaada8.md) |
 | joexbayer/RetrOS-32 | partial | 2026-02-22T16:07:58Z | [open](../records/assembly-joexbayer-retros-32-b6c205a2.md) |
 | JustasMasiulis/inline_syscall | partial | 2024-06-21T00:26:33Z | [open](../records/assembly-justasmasiulis-inline-syscall-0c8a798a.md) |
 | Mati365/ts-c-compiler | partial | 2026-08-11T06:13:10Z | [open](../records/assembly-mati365-ts-c-compiler-bc7fb5c3.md) |
@@ -313,6 +313,6 @@ Records: `171`
 | lock3/clang | partial | 2020-07-10T21:06:33.530Z | [open](../records/repository-workplaces-lock3-clang-c4e5749d.md) |
 | piyush-kurur/compilers | partial | 2026-04-06T08:37:15.222Z | [open](../records/repository-workplaces-piyush-kurur-compilers-f7578472.md) |
 | Rich-Harris/buble | partial | 2023-03-27T15:48:56.639Z | [open](../records/repository-workplaces-rich-harris-buble-a19a38f7.md) |
-| styx-lang/styx | partial | 2026-09-01T21:30:52.908Z | [open](../records/repository-workplaces-styx-lang-styx-2a4ad5fc.md) |
+| styx-lang/styx | partial | 2026-09-02T16:46:49.220Z | [open](../records/repository-workplaces-styx-lang-styx-2a4ad5fc.md) |
 | weinholt/loko | partial | 2026-07-17T07:40:51.089Z | [open](../records/repository-workplaces-weinholt-loko-35847122.md) |
 | znixian/luajit-decompiler | partial | 2022-12-25T19:35:29.899Z | [open](../records/repository-workplaces-znixian-luajit-decompiler-0609facc.md) |

@@ -1,6 +1,6 @@
 # Library
 
-Records: `4899`
+Records: `4901`
 
 ## Navigation
 
@@ -13,14 +13,14 @@ Records: `4899`
 [Community Reference (88)](community-reference.md) · [Compiler (171)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
 [Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (102)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (156)](cryptography.md) · [Data Science (34)](data-science.md) · [Database Datastore (774)](database-datastore.md) · [Datetime (161)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (89)](documentation.md)
-[Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (556)](formatter.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (90)](documentation.md)
+[Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (557)](formatter.md)
 [Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1166)](ide-editor-integration.md)
 [Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1244)](language-specification.md) · **[Library (4899)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (595)](machine-learning.md)
+[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · **[Library (4901)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (596)](machine-learning.md)
 [Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (926)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (929)](parser-lexer-ast.md) · [Precommit Ci Quality (265)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (930)](parser-lexer-ast.md) · [Precommit Ci Quality (265)](precommit-ci-quality.md)
 [Profiler (74)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (316)](security-sast.md) · [Serialization (371)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (455)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (502)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (292)](type-checker.md)
@@ -2662,6 +2662,7 @@ Records: `4899`
 | immundata | 0.1.0 | 2026-08-26 10:00:02 UTC | [open](../records/r-immundata-d9bb0b0d.md) |
 | ImpAdaptType2Censor | 0.1.0 | 2026-08-07 15:30:02 UTC | [open](../records/r-impadapttype2censor-a27e40a6.md) |
 | impala | 0.1.4 | 2026-08-21 19:30:02 UTC | [open](../records/r-impala-1a70f4d8.md) |
+| imuGAP | 0.2.0 | 2026-09-02 15:30:14 UTC | [open](../records/r-imugap-ee3c6f14.md) |
 | inedemogR | 0.1.0 | 2026-08-23 10:30:08 UTC | [open](../records/r-inedemogr-02ea5f8b.md) |
 | INLAtools | 0.1.5 | 2026-08-31 19:31:16 UTC | [open](../records/r-inlatools-e8756d19.md) |
 | inshiny | 0.1.5 | 2026-09-01 19:20:08 UTC | [open](../records/r-inshiny-20edbf18.md) |
@@ -2887,6 +2888,7 @@ Records: `4899`
 | statim | 0.1.0 | 2026-08-07 19:50:02 UTC | [open](../records/r-statim-3ea1aa87.md) |
 | StealLikeBayes | 2.0 | 2026-08-31 17:20:08 UTC | [open](../records/r-steallikebayes-5f1304ec.md) |
 | stepcount | 0.6.0 | 2026-08-21 16:00:02 UTC | [open](../records/r-stepcount-2583c11b.md) |
+| stminsights | 0.4.4 | 2026-09-02 17:10:02 UTC | [open](../records/r-stminsights-f09a2b1e.md) |
 | stow | 0.3.0 | 2026-08-30 10:00:02 UTC | [open](../records/r-stow-cec84993.md) |
 | stringfish | 0.19.2 | 2026-08-04 10:30:17 UTC | [open](../records/r-stringfish-d0711b33.md) |
 | stringmagic | 1.3.0 | 2026-08-04 10:30:09 UTC | [open](../records/r-stringmagic-a36f1ddc.md) |
@@ -4057,7 +4059,7 @@ Records: `4899`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-02T16:18:10Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-02T17:16:52Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4071,7 +4073,7 @@ Records: `4899`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-02T16:13:52Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-02T17:01:52Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 

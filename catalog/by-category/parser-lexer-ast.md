@@ -1,6 +1,6 @@
 # Parser Lexer Ast
 
-Records: `929`
+Records: `930`
 
 ## Navigation
 
@@ -13,14 +13,14 @@ Records: `929`
 [Community Reference (88)](community-reference.md) · [Compiler (171)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
 [Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (102)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (156)](cryptography.md) · [Data Science (34)](data-science.md) · [Database Datastore (774)](database-datastore.md) · [Datetime (161)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (89)](documentation.md)
-[Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (556)](formatter.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (90)](documentation.md)
+[Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (557)](formatter.md)
 [Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1166)](ide-editor-integration.md)
 [Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1244)](language-specification.md) · [Library (4899)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (595)](machine-learning.md)
+[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4901)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (596)](machine-learning.md)
 [Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (926)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (278)](package-manager.md) · **[Parser Lexer Ast (929)](parser-lexer-ast.md)** · [Precommit Ci Quality (265)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (278)](package-manager.md) · **[Parser Lexer Ast (930)](parser-lexer-ast.md)** · [Precommit Ci Quality (265)](precommit-ci-quality.md)
 [Profiler (74)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (316)](security-sast.md) · [Serialization (371)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (455)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (502)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (292)](type-checker.md)
@@ -444,7 +444,7 @@ Records: `929`
 | --- | --- | --- | --- |
 | astgrepr | 0.1.2 | 2026-08-04 14:40:02 UTC | [open](../records/r-astgrepr-717ef2ee.md) |
 | AstraeaDB | 0.2.1 | 2026-08-21 13:50:28 UTC | [open](../records/r-astraeadb-a63f29d0.md) |
-| autotune | 0.1.0 | 2026-08-21 13:40:26 UTC | [open](../records/r-autotune-87ff0a0b.md) |
+| autotune | 0.1.1 | 2026-09-02 16:20:02 UTC | [open](../records/r-autotune-87ff0a0b.md) |
 | AvatarTLA | 0.1.0 | 2026-09-01 14:00:29 UTC | [open](../records/r-avatartla-9df744dd.md) |
 | bage | 0.10.10 | 2026-08-21 23:10:02 UTC | [open](../records/r-bage-1bc306ca.md) |
 | bridgr | 1.0.0 | 2026-08-21 13:10:24 UTC | [open](../records/r-bridgr-c1e6771e.md) |
@@ -512,6 +512,7 @@ Records: `929`
 | terralink | 1.8.2 | 2026-08-22 02:40:02 UTC | [open](../records/r-terralink-1d6a726e.md) |
 | topocast | 0.0.5 | 2026-08-07 17:20:08 UTC | [open](../records/r-topocast-e37272e6.md) |
 | tplyr2 | 0.2.0 | 2026-08-08 12:00:02 UTC | [open](../records/r-tplyr2-30670dc5.md) |
+| tscv | 1.0.1 | 2026-09-02 15:50:02 UTC | [open](../records/r-tscv-ac64a352.md) |
 | uaparserjs | 0.4.1 | 2026-08-28 10:00:02 UTC | [open](../records/r-uaparserjs-32bee147.md) |
 | WeightedROC | 2026.8.27 | 2026-08-28 07:01:45 UTC | [open](../records/r-weightedroc-c77b2b5b.md) |
 
@@ -634,7 +635,7 @@ Records: `929`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AstrBotDevs/AstrBot | partial | 2026-09-02T14:32:48Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
-| HKUDS/LightRAG | partial | 2026-09-02T14:13:46Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
+| HKUDS/LightRAG | partial | 2026-09-02T16:52:03Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
 | labring/FastGPT | partial | 2026-09-02T15:56:51Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Assets

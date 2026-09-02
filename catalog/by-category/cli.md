@@ -13,14 +13,14 @@ Records: `508`
 [Community Reference (88)](community-reference.md) · [Compiler (171)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
 [Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (102)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (156)](cryptography.md) · [Data Science (34)](data-science.md) · [Database Datastore (774)](database-datastore.md) · [Datetime (161)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (89)](documentation.md)
-[Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (556)](formatter.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (90)](documentation.md)
+[Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (557)](formatter.md)
 [Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1166)](ide-editor-integration.md)
 [Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1244)](language-specification.md) · [Library (4899)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (595)](machine-learning.md)
+[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4901)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (596)](machine-learning.md)
 [Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (926)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (929)](parser-lexer-ast.md) · [Precommit Ci Quality (265)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (930)](parser-lexer-ast.md) · [Precommit Ci Quality (265)](precommit-ci-quality.md)
 [Profiler (74)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (316)](security-sast.md) · [Serialization (371)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (455)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (502)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (292)](type-checker.md)
@@ -314,7 +314,7 @@ Records: `508`
 | @mintlify/cli | 4.0.1463 | 2026-09-02T04:36:34.319Z | [open](../records/node-js-javascript-mintlify-cli-64dbc59b.md) |
 | @module-federation/cli | 2.9.0 | 2026-08-24T08:21:41.802Z | [open](../records/node-js-javascript-module-federation-cli-ad5965f3.md) |
 | @mongosh/logging | 5.2.0 | 2026-07-01T01:01:34.354Z | [open](../records/node-js-javascript-mongosh-logging-a2ed4564.md) |
-| @napi-rs/cli | 3.8.6 | 2026-08-12T03:41:01.963Z | [open](../records/node-js-javascript-napi-rs-cli-3160c98d.md) |
+| @napi-rs/cli | 3.9.0 | 2026-09-02T16:11:20.951Z | [open](../records/node-js-javascript-napi-rs-cli-3160c98d.md) |
 | @nodearch/cli | 2.2.8 | 2025-09-25T13:07:35.786Z | [open](../records/node-js-javascript-nodearch-cli-688b2067.md) |
 | @nuxt/cli | 3.37.0 | 2026-07-14T10:47:22.645Z | [open](../records/node-js-javascript-nuxt-cli-f015cf50.md) |
 | @openapi-codegen/cli | 3.1.0 | 2025-02-20T10:09:40.664Z | [open](../records/node-js-javascript-openapi-codegen-cli-d161549d.md) |
@@ -346,7 +346,7 @@ Records: `508`
 | @snyk/cli-interface | 2.15.0 | 2026-02-24T13:18:57.167Z | [open](../records/node-js-javascript-snyk-cli-interface-0f5589a7.md) |
 | @statoscope/cli | 5.29.0 | 2025-04-04T18:50:46.219Z | [open](../records/node-js-javascript-statoscope-cli-1183dedd.md) |
 | @stoplight/cli | 6.0.2407 | 2025-11-20T02:40:24.867Z | [open](../records/node-js-javascript-stoplight-cli-730b609f.md) |
-| @stripe/cli | 1.50.8 | 2026-09-01T20:21:41.457Z | [open](../records/node-js-javascript-stripe-cli-f2f9a188.md) |
+| @stripe/cli | 1.50.9 | 2026-09-02T16:18:06.986Z | [open](../records/node-js-javascript-stripe-cli-f2f9a188.md) |
 | @supabase/cli-linux-x64 | 2.116.0 | 2026-08-26T19:55:56.251Z | [open](../records/node-js-javascript-supabase-cli-linux-x64-04164519.md) |
 | @supabase/cli-linux-x64-musl | 2.116.0 | 2026-08-26T19:50:45.214Z | [open](../records/node-js-javascript-supabase-cli-linux-x64-musl-49b40394.md) |
 | @swc/cli | 0.8.1 | 2026-04-01T01:27:35.047Z | [open](../records/node-js-javascript-swc-cli-77c18ec0.md) |
@@ -518,9 +518,9 @@ Records: `508`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-02T16:15:34Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-02T16:35:54Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-02T16:10:51Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-02T17:18:18Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Assets
 
