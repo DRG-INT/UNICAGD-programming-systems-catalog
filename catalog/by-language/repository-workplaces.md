@@ -101,7 +101,7 @@ Records: `522`
 | [lock3/clang](../records/repository-workplaces-lock3-clang-c4e5749d.md) | partial | 2020-07-10T21:06:33.530Z | registry-derived |
 | [piyush-kurur/compilers](../records/repository-workplaces-piyush-kurur-compilers-f7578472.md) | partial | 2026-04-06T08:37:15.222Z | registry-derived |
 | [Rich-Harris/buble](../records/repository-workplaces-rich-harris-buble-a19a38f7.md) | partial | 2023-03-27T15:48:56.639Z | registry-derived |
-| [styx-lang/styx](../records/repository-workplaces-styx-lang-styx-2a4ad5fc.md) | partial | 2026-09-02T16:46:49.220Z | registry-derived |
+| [styx-lang/styx](../records/repository-workplaces-styx-lang-styx-2a4ad5fc.md) | partial | 2026-09-02T19:40:39.068Z | registry-derived |
 | [weinholt/loko](../records/repository-workplaces-weinholt-loko-35847122.md) | partial | 2026-07-17T07:40:51.089Z | registry-derived |
 | [znixian/luajit-decompiler](../records/repository-workplaces-znixian-luajit-decompiler-0609facc.md) | partial | 2022-12-25T19:35:29.899Z | registry-derived |
 

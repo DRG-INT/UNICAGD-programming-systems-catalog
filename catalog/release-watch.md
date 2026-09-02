@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-02T20:23:11+00:00`
+Generated: `2026-09-02T21:19:10+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -41,6 +41,7 @@ Generated: `2026-09-02T20:23:11+00:00`
 | @sazabi/cli | Node.js/JavaScript | Cli | 1.5.0 | 2026-09-02T19:35:29.717Z | [open](records/node-js-javascript-sazabi-cli-62177a0a.md) |
 | @lightdash/cli | Node.js/JavaScript | Cli | 2.100.0 | 2026-09-02T19:24:10.334Z | [open](records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | servant-ede | Haskell | Library | 1.0.0.0 | 2026-09-02T19:18:40Z | [open](records/haskell-servant-ede-265a6dc2.md) |
+| powersync | Dart | Web Framework | 2.4.0 | 2026-09-02T19:18:31.615548Z | [open](records/dart-powersync-6dce0081.md) |
 | yamlstar | Haskell | Serialization | 0.1.19.0 | 2026-09-02T19:17:00Z | [open](records/haskell-yamlstar-bc72bee8.md) |
 | ktx-font | Haskell | Library | 0.2.0.0 | 2026-09-02T19:06:58Z | [open](records/haskell-ktx-font-8c048a63.md) |
 | @aws-sdk/client-database-migration-service | Node.js/JavaScript | Networking Http | 3.1125.0 | 2026-09-02T18:48:52.862Z | [open](records/node-js-javascript-aws-sdk-client-database-migration-service-058f4424.md) |
@@ -284,7 +285,6 @@ Generated: `2026-09-02T20:23:11+00:00`
 | syncfusion_flutter_datepicker | Dart | Datetime | 34.2.6 | 2026-09-01T15:27:56.717062Z | [open](records/dart-syncfusion-flutter-datepicker-f07357eb.md) |
 | syncfusion_flutter_gauges | Dart | Ide Editor Integration | 34.2.6 | 2026-09-01T15:27:41.738096Z | [open](records/dart-syncfusion-flutter-gauges-b33b7a95.md) |
 | syncfusion_flutter_charts | Dart | Benchmarking | 34.2.6 | 2026-09-01T15:27:22.023383Z | [open](records/dart-syncfusion-flutter-charts-053e31ff.md) |
-| smallvec | Rust | Library | 1.16.0 | 2026-09-01T15:26:29.894397Z | [open](records/rust-smallvec-fae87076.md) |
 
 ## Unknown Reasons
 

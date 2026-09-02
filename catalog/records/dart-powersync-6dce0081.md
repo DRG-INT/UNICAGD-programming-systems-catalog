@@ -32,7 +32,7 @@ middleware policy, service structure, and deployment surface.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 2.3.3 | 2026-07-28T11:44:14.328377Z | [https://pub.dev/api/packages/powersync](https://pub.dev/api/packages/powersync) |  |
+| stable | known | 2.4.0 | 2026-09-02T19:18:31.615548Z | [https://pub.dev/api/packages/powersync](https://pub.dev/api/packages/powersync) |  |
 | preview | known | 2.0.0-wip.0 | 2026-04-10T08:05:42.367835Z | [https://pub.dev/api/packages/powersync](https://pub.dev/api/packages/powersync) |  |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ middleware policy, service structure, and deployment surface.
 
 - Treat category as `web_framework` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pub.dev/api/packages/powersync` at `2026-09-01T15:35:58+00:00`.
+- Latest stable metadata was observed from `https://pub.dev/api/packages/powersync` at `2026-09-02T21:18:06+00:00`.
 - Preview/nightly metadata is present through channel `preview`.
 
 ## Provenance

@@ -1003,7 +1003,7 @@ Records: `737`
 | [meta](../records/dart-meta-acd5de95.md) | 1.19.0 | 2026-07-09T12:54:28.000531Z | registry-derived |
 | [navigation_history_observer](../records/dart-navigation-history-observer-07230379.md) | 1.1.1 | 2024-04-17T08:27:30.593848Z | registry-derived |
 | [neat_periodic_task](../records/dart-neat-periodic-task-de71793c.md) | 2.0.1 | 2023-04-28T11:10:11.705986Z | registry-derived |
-| [powersync](../records/dart-powersync-6dce0081.md) | 2.3.3 | 2026-07-28T11:44:14.328377Z | registry-derived |
+| [powersync](../records/dart-powersync-6dce0081.md) | 2.4.0 | 2026-09-02T19:18:31.615548Z | registry-derived |
 | [scrollview_observer](../records/dart-scrollview-observer-6ede0195.md) | 1.27.1 | 2026-08-22T08:47:37.282864Z | registry-derived |
 | [serverpod](../records/dart-serverpod-0a3f0ad3.md) | 3.4.13 | 2026-08-28T02:02:39.222494Z | registry-derived |
 | [shelf](../records/dart-shelf-418952dd.md) | 1.4.2 | 2024-06-21T17:47:04.083038Z | registry-derived |
