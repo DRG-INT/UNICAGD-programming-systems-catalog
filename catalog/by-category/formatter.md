@@ -1,6 +1,6 @@
 # Formatter
 
-Records: `557`
+Records: `569`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `557`
 
 ## Category Index
 
-[Api Abi Checker (191)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (42)](assertion-mocking.md) · [Async Runtime (129)](async-runtime.md)
-[Benchmarking (126)](benchmarking.md) · [Build System (827)](build-system.md) · [Cli (508)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (88)](community-reference.md) · [Compiler (171)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
-[Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (102)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (156)](cryptography.md) · [Data Science (34)](data-science.md) · [Database Datastore (774)](database-datastore.md) · [Datetime (161)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (90)](documentation.md)
-[Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · **[Formatter (557)](formatter.md)**
-[Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1166)](ide-editor-integration.md)
-[Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4903)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (596)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (927)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (930)](parser-lexer-ast.md) · [Precommit Ci Quality (265)](precommit-ci-quality.md)
-[Profiler (74)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (316)](security-sast.md) · [Serialization (371)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (455)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (502)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (292)](type-checker.md)
-[Undefined Behavior Analyzer (1407)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (418)](visualization-gui.md) · [Web Framework (418)](web-framework.md)
+[Api Abi Checker (196)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (42)](assertion-mocking.md) · [Async Runtime (129)](async-runtime.md)
+[Benchmarking (150)](benchmarking.md) · [Build System (852)](build-system.md) · [Cli (515)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (89)](community-reference.md) · [Compiler (172)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+[Concurrency Parallelism (74)](concurrency-parallelism.md) · [Configuration (104)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (13)](coverage.md)
+[Cryptography (158)](cryptography.md) · [Data Science (34)](data-science.md) · [Database Datastore (777)](database-datastore.md) · [Datetime (163)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (89)](dependency-manager.md) · [Documentation (92)](documentation.md)
+[Embedded Hardware (51)](embedded-hardware.md) · [Ffi Bindings (395)](ffi-bindings.md) · [Filesystem Os (1262)](filesystem-os.md) · **[Formatter (569)](formatter.md)**
+[Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (161)](game-engine-game-dev.md) · [Ide Editor Integration (1195)](ide-editor-integration.md)
+[Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (240)](interpreter-runtime.md) · [Jit Vm (57)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1255)](language-specification.md) · [Library (4988)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (458)](logging-observability.md) · [Machine Learning (609)](machine-learning.md)
+[Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (87)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (931)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (399)](package-manager.md) · [Parser Lexer Ast (946)](parser-lexer-ast.md) · [Precommit Ci Quality (267)](precommit-ci-quality.md)
+[Profiler (76)](profiler.md) · [Project Scaffolding (124)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Security Sast (322)](security-sast.md) · [Serialization (373)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (463)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (506)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (292)](type-checker.md)
+[Undefined Behavior Analyzer (1434)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (425)](visualization-gui.md) · [Web Framework (423)](web-framework.md)
 
 ## C99
 
@@ -530,8 +530,19 @@ Records: `557`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-02T18:23:26Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-02T19:16:36Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-08-27T19:23:53Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
+
+## Font Briefcase
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| aui/font-spider | partial | 2022-12-30T18:18:29Z | [open](../records/font-briefcase-aui-font-spider-a2f342c9.md) |
+| awesometoolbox/otf2ttf | partial | 2019-09-10T06:54:07Z | [open](../records/font-briefcase-awesometoolbox-otf2ttf-ccda9c3a.md) |
+| BlackFoundryCom/InriaFonts | partial | 2021-12-08T05:49:01Z | [open](../records/font-briefcase-blackfoundrycom-inriafonts-807e09e2.md) |
+| kokokuo/scraper-fourone-jobs | partial | 2022-12-08T05:49:51Z | [open](../records/font-briefcase-kokokuo-scraper-fourone-jobs-469cbe70.md) |
+| rbanffy/3270font | partial | 2026-02-13T04:07:55Z | [open](../records/font-briefcase-rbanffy-3270font-bb4cce98.md) |
+| SixLabors/Fonts | partial | 2026-08-11T23:23:35Z | [open](../records/font-briefcase-sixlabors-fonts-14452040.md) |
 
 ## Assets
 
@@ -546,7 +557,7 @@ Records: `557`
 | NiklasEi/bevy_common_assets | partial | 2026-06-21T16:55:02Z | [open](../records/assets-niklasei-bevy-common-assets-87d9fbf2.md) |
 | Qftm/Information_Collection_Handbook | partial | 2023-03-08T14:10:29Z | [open](../records/assets-qftm-information-collection-handbook-97112bf4.md) |
 | SawyerRensel/Transmogrifier | partial | 2026-07-16T00:26:47Z | [open](../records/assets-sawyerrensel-transmogrifier-c1c40840.md) |
-| sourcentis/mercator | partial | 2026-09-02T08:43:46Z | [open](../records/assets-sourcentis-mercator-b6bbd504.md) |
+| sourcentis/mercator | partial | 2026-09-02T15:09:49Z | [open](../records/assets-sourcentis-mercator-b6bbd504.md) |
 | trufont/trufont | partial | 2025-12-02T16:43:50Z | [open](../records/assets-trufont-trufont-b3154008.md) |
 
 ## Maps
@@ -558,7 +569,7 @@ Records: `557`
 | davemlz/eemont | unknown | github_search_does_not_include_release_date | [open](../records/maps-davemlz-eemont-fb067ac2.md) |
 | plant99/felicette | unknown | github_search_does_not_include_release_date | [open](../records/maps-plant99-felicette-60be9d6d.md) |
 | proj4js/proj4js | partial | 2026-08-31T07:26:28Z | [open](../records/maps-proj4js-proj4js-79ed1335.md) |
-| pyproj4/pyproj | partial | 2026-08-21T16:56:55Z | [open](../records/maps-pyproj4-pyproj-66a83255.md) |
+| pyproj4/pyproj | partial | 2026-09-02T17:31:36Z | [open](../records/maps-pyproj4-pyproj-66a83255.md) |
 | sasgis/sas.planet.src | unknown | github_search_does_not_include_release_date | [open](../records/maps-sasgis-sas-planet-src-337db903.md) |
 | zohaibbashir/Google-Maps-Scrapper | partial | 2026-05-18T19:25:40Z | [open](../records/maps-zohaibbashir-google-maps-scrapper-773b18f2.md) |
 
@@ -693,11 +704,27 @@ Records: `557`
 | nicespoon/retro-adsb-radar | partial | 2026-07-24T10:18:06Z | [open](../records/electromagnetoscopes-nicespoon-retro-adsb-radar-1e8ed8aa.md) |
 | opensatelliteproject/OpenSatelliteProject | partial | 2018-06-08T06:07:29Z | [open](../records/electromagnetoscopes-opensatelliteproject-opensatelliteproject-51450e2b.md) |
 
+## Repertoare Catalogs
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| benory/Concert-database-website | partial | 2025-12-06T20:26:03Z | [open](../records/repertoare-catalogs-benory-concert-database-website-07737f0b.md) |
+| calewolf/Repertoire_App | partial | 2019-12-08T04:29:55Z | [open](../records/repertoare-catalogs-calewolf-repertoire-app-32ab141a.md) |
+
+## Catalogs
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| ihsn/nada | partial | 2026-09-01T22:07:33Z | [open](../records/catalogs-ihsn-nada-e8df2a6b.md) |
+
 ## Magazines
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| crsh/papaja | unknown | github_search_does_not_include_release_date | [open](../records/magazines-crsh-papaja-c74bdec2.md) |
+| crsh/papaja | partial | 2026-09-02T10:19:32Z | [open](../records/magazines-crsh-papaja-c74bdec2.md) |
+| systemd/systemd-netlogd | partial | 2026-03-25T15:28:57Z | [open](../records/magazines-systemd-systemd-netlogd-8b0a1dd3.md) |
+| unixwzrd/oobabooga-macOS | partial | 2025-02-12T18:02:15Z | [open](../records/magazines-unixwzrd-oobabooga-macos-58b65075.md) |
+| vitogit/sorter | partial | 2020-05-12T20:33:13Z | [open](../records/magazines-vitogit-sorter-2a724fef.md) |
 
 ## Braces
 
@@ -739,7 +766,7 @@ Records: `557`
 | anoop-pande-23/Supplier-information-portal | unknown | not_a_maven_coordinate | [open](../records/sapjava-anoop-pande-23-supplier-information-portal-25d0a6a5.md) |
 | santhosh0000000/ETL_SAP-HDFS | unknown | not_a_maven_coordinate | [open](../records/sapjava-santhosh0000000-etl-sap-hdfs-63dea297.md) |
 | santhosh0000000/ETL_sap_hive | unknown | not_a_maven_coordinate | [open](../records/sapjava-santhosh0000000-etl-sap-hive-d456012e.md) |
-| SAP/jfrevents | unknown | not_a_maven_coordinate | [open](../records/sapjava-sap-jfrevents-92736fde.md) |
+| SAP/jfrevents | partial | 2026-08-17T13:16:22Z | [open](../records/sapjava-sap-jfrevents-92736fde.md) |
 
 ## Swift
 

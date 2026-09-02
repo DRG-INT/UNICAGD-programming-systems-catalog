@@ -1,6 +1,6 @@
 # Benchmarking
 
-Records: `126`
+Records: `150`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `126`
 
 ## Category Index
 
-[Api Abi Checker (191)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (42)](assertion-mocking.md) · [Async Runtime (129)](async-runtime.md)
-**[Benchmarking (126)](benchmarking.md)** · [Build System (827)](build-system.md) · [Cli (508)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (88)](community-reference.md) · [Compiler (171)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
-[Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (102)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (156)](cryptography.md) · [Data Science (34)](data-science.md) · [Database Datastore (774)](database-datastore.md) · [Datetime (161)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (90)](documentation.md)
-[Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (557)](formatter.md)
-[Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1166)](ide-editor-integration.md)
-[Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1245)](language-specification.md) · [Library (4903)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (596)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (927)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (930)](parser-lexer-ast.md) · [Precommit Ci Quality (265)](precommit-ci-quality.md)
-[Profiler (74)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (316)](security-sast.md) · [Serialization (371)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (455)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (502)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (292)](type-checker.md)
-[Undefined Behavior Analyzer (1407)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (418)](visualization-gui.md) · [Web Framework (418)](web-framework.md)
+[Api Abi Checker (196)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (42)](assertion-mocking.md) · [Async Runtime (129)](async-runtime.md)
+**[Benchmarking (150)](benchmarking.md)** · [Build System (852)](build-system.md) · [Cli (515)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (89)](community-reference.md) · [Compiler (172)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+[Concurrency Parallelism (74)](concurrency-parallelism.md) · [Configuration (104)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (13)](coverage.md)
+[Cryptography (158)](cryptography.md) · [Data Science (34)](data-science.md) · [Database Datastore (777)](database-datastore.md) · [Datetime (163)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (89)](dependency-manager.md) · [Documentation (92)](documentation.md)
+[Embedded Hardware (51)](embedded-hardware.md) · [Ffi Bindings (395)](ffi-bindings.md) · [Filesystem Os (1262)](filesystem-os.md) · [Formatter (569)](formatter.md)
+[Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (161)](game-engine-game-dev.md) · [Ide Editor Integration (1195)](ide-editor-integration.md)
+[Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (240)](interpreter-runtime.md) · [Jit Vm (57)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1255)](language-specification.md) · [Library (4988)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (458)](logging-observability.md) · [Machine Learning (609)](machine-learning.md)
+[Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (87)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (931)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (399)](package-manager.md) · [Parser Lexer Ast (946)](parser-lexer-ast.md) · [Precommit Ci Quality (267)](precommit-ci-quality.md)
+[Profiler (76)](profiler.md) · [Project Scaffolding (124)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Security Sast (322)](security-sast.md) · [Serialization (373)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (463)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (506)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (292)](type-checker.md)
+[Undefined Behavior Analyzer (1434)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (425)](visualization-gui.md) · [Web Framework (423)](web-framework.md)
 
 ## C++23
 
@@ -144,6 +144,12 @@ Records: `126`
 | --- | --- | --- | --- |
 | milvus-io/milvus | partial | 2026-09-02T17:25:30Z | [open](../records/aim-s-milvus-io-milvus-54ee327d.md) |
 
+## Font Briefcase
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| feat-agency/vite-plugin-webfont-dl | partial | 2026-08-13T06:54:54Z | [open](../records/font-briefcase-feat-agency-vite-plugin-webfont-dl-51c21c63.md) |
+
 ## Assets
 
 | Name | Release | Date | Page |
@@ -231,6 +237,34 @@ Records: `126`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | luigifcruz/CyberEther | partial | 2026-08-29T16:33:33Z | [open](../records/electromagnetoscopes-luigifcruz-cyberether-9a732794.md) |
+
+## Repertoare Catalogs
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| annademis/Anna-Demis | partial | 2026-09-01T10:43:22Z | [open](../records/repertoare-catalogs-annademis-anna-demis-858c2127.md) |
+| araujotja/ensaio_pro_app | partial | 2026-06-29T23:32:30Z | [open](../records/repertoare-catalogs-araujotja-ensaio-pro-app-64bf28aa.md) |
+| costagannac/butwhatshouldiplay | partial | 2024-11-19T09:11:21Z | [open](../records/repertoare-catalogs-costagannac-butwhatshouldiplay-5dd9e9fa.md) |
+| cwrowley/organ | partial | 2026-05-11T04:41:52Z | [open](../records/repertoare-catalogs-cwrowley-organ-c3e04e11.md) |
+| dream434/gofuzz | partial | 2026-01-05T22:17:30Z | [open](../records/repertoare-catalogs-dream434-gofuzz-e972d2ef.md) |
+| duemig/Stanford-Project-Predicting-stock-prices-using-a-LSTM-Network | partial | 2023-07-11T16:44:23Z | [open](../records/repertoare-catalogs-duemig-stanford-project-predicting-stock-prices-using-a-lstm-network-a9a03ded.md) |
+| EarnFounders/GraphPerf2023 | partial | 2023-12-14T11:01:17Z | [open](../records/repertoare-catalogs-earnfounders-graphperf2023-151d4542.md) |
+| enbacon/music-buddy | partial | 2022-12-11T09:17:27Z | [open](../records/repertoare-catalogs-enbacon-music-buddy-209190b3.md) |
+| enbacon/music-buddy-back-end | partial | 2022-12-30T18:51:46Z | [open](../records/repertoare-catalogs-enbacon-music-buddy-back-end-9fe03966.md) |
+| FortuneThorGame/Fortune-Thor-Game | partial | 2026-06-23T11:47:56Z | [open](../records/repertoare-catalogs-fortunethorgame-fortune-thor-game-bac23805.md) |
+| hammclovnaggnell/chess-repertoire | partial | 2026-02-18T17:20:34Z | [open](../records/repertoare-catalogs-hammclovnaggnell-chess-repertoire-36d6e6a5.md) |
+| JamesGlare/Holo_gen_models | partial | 2019-10-05T12:47:22Z | [open](../records/repertoare-catalogs-jamesglare-holo-gen-models-b9f8f500.md) |
+| KanduriC/demo_reproducibility_kanduricetal2021 | partial | 2022-03-25T11:27:35Z | [open](../records/repertoare-catalogs-kanduric-demo-reproducibility-kanduricetal2021-1652c380.md) |
+| marshallswain/song-book-api | partial | 2017-12-14T17:23:16Z | [open](../records/repertoare-catalogs-marshallswain-song-book-api-9e3ddeb4.md) |
+| marshallswain/song-book-vue | partial | 2017-12-23T23:56:06Z | [open](../records/repertoare-catalogs-marshallswain-song-book-vue-c793b244.md) |
+| mashu/LineageCollapse.jl | partial | 2026-05-19T05:17:07Z | [open](../records/repertoare-catalogs-mashu-lineagecollapse-jl-6b1c71d0.md) |
+| mattbertorg1/21m-410-vocal-repertoire-and-performance-african-american-composers_7007df1d8dba43548145d1c67a0fb499 | partial | 2021-04-26T17:58:53Z | [open](../records/repertoare-catalogs-mattbertorg1-21m-410-vocal-repertoire-and-performance-african-american-composers-7007df1d8dba43548145d1c67a0fb499-88e6858c.md) |
+| ncreighton/music-practice-instrument-tracker-notion | partial | 2026-05-23T21:38:53Z | [open](../records/repertoare-catalogs-ncreighton-music-practice-instrument-tracker-notion-b6d1b327.md) |
+| ouvroir/perfs | partial | 2022-06-20T22:00:17Z | [open](../records/repertoare-catalogs-ouvroir-perfs-fe7a5eca.md) |
+| pianoenergy/repertoire-manager-releases | partial | 2025-10-20T15:16:44Z | [open](../records/repertoare-catalogs-pianoenergy-repertoire-manager-releases-3f77c322.md) |
+| t8-ev/YaleSeniorProject | partial | 2026-02-05T05:56:24Z | [open](../records/repertoare-catalogs-t8-ev-yaleseniorproject-2d10e4c1.md) |
+| Vincent-Antoine/mega-compressor | partial | 2024-12-02T11:27:27Z | [open](../records/repertoare-catalogs-vincent-antoine-mega-compressor-f7b75d28.md) |
+| vladkrakhmalev/Songix-Beta | partial | 2024-02-19T11:15:00Z | [open](../records/repertoare-catalogs-vladkrakhmalev-songix-beta-462862bc.md) |
 
 ## Magazines
 

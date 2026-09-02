@@ -1,6 +1,6 @@
 # Language Specification
 
-Records: `1245`
+Records: `1255`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `1245`
 
 ## Category Index
 
-[Api Abi Checker (191)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (42)](assertion-mocking.md) · [Async Runtime (129)](async-runtime.md)
-[Benchmarking (126)](benchmarking.md) · [Build System (827)](build-system.md) · [Cli (508)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (88)](community-reference.md) · [Compiler (171)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
-[Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (102)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (156)](cryptography.md) · [Data Science (34)](data-science.md) · [Database Datastore (774)](database-datastore.md) · [Datetime (161)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (90)](documentation.md)
-[Embedded Hardware (50)](embedded-hardware.md) · [Ffi Bindings (393)](ffi-bindings.md) · [Filesystem Os (1231)](filesystem-os.md) · [Formatter (557)](formatter.md)
-[Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1166)](ide-editor-integration.md)
-[Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · **[Language Specification (1245)](language-specification.md)** · [Library (4903)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (596)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (927)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (930)](parser-lexer-ast.md) · [Precommit Ci Quality (265)](precommit-ci-quality.md)
-[Profiler (74)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (316)](security-sast.md) · [Serialization (371)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (455)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (502)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (292)](type-checker.md)
-[Undefined Behavior Analyzer (1407)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (418)](visualization-gui.md) · [Web Framework (418)](web-framework.md)
+[Api Abi Checker (196)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (42)](assertion-mocking.md) · [Async Runtime (129)](async-runtime.md)
+[Benchmarking (150)](benchmarking.md) · [Build System (852)](build-system.md) · [Cli (515)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (89)](community-reference.md) · [Compiler (172)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+[Concurrency Parallelism (74)](concurrency-parallelism.md) · [Configuration (104)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (13)](coverage.md)
+[Cryptography (158)](cryptography.md) · [Data Science (34)](data-science.md) · [Database Datastore (777)](database-datastore.md) · [Datetime (163)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (89)](dependency-manager.md) · [Documentation (92)](documentation.md)
+[Embedded Hardware (51)](embedded-hardware.md) · [Ffi Bindings (395)](ffi-bindings.md) · [Filesystem Os (1262)](filesystem-os.md) · [Formatter (569)](formatter.md)
+[Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (161)](game-engine-game-dev.md) · [Ide Editor Integration (1195)](ide-editor-integration.md)
+[Image Audio Dsp (310)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (240)](interpreter-runtime.md) · [Jit Vm (57)](jit-vm.md)
+[Language Server (27)](language-server.md) · **[Language Specification (1255)](language-specification.md)** · [Library (4988)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (458)](logging-observability.md) · [Machine Learning (609)](machine-learning.md)
+[Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (87)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (931)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (399)](package-manager.md) · [Parser Lexer Ast (946)](parser-lexer-ast.md) · [Precommit Ci Quality (267)](precommit-ci-quality.md)
+[Profiler (76)](profiler.md) · [Project Scaffolding (124)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Security Sast (322)](security-sast.md) · [Serialization (373)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (463)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (506)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (292)](type-checker.md)
+[Undefined Behavior Analyzer (1434)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (425)](visualization-gui.md) · [Web Framework (423)](web-framework.md)
 
 ## C99
 
@@ -346,7 +346,7 @@ Records: `1245`
 | ogma-language-smv | 1.15.0 | 2026-07-22T17:51:04Z | [open](../records/haskell-ogma-language-smv-db627260.md) |
 | phonetic-languages-simplified-examples-array | 0.21.0.0 | 2022-09-13T19:37:53Z | [open](../records/haskell-phonetic-languages-simplified-examples-array-87845a00.md) |
 | shake-language-c | 0.12.0 | 2018-03-14T21:34:10Z | [open](../records/haskell-shake-language-c-1a893a50.md) |
-| yi-language | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yi-language-defafb2d.md) |
+| yi-language | 0.19.2 | 2024-10-25T11:56:36Z | [open](../records/haskell-yi-language-defafb2d.md) |
 
 ## Matlab
 
@@ -678,15 +678,15 @@ Records: `1245`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| 1Panel-dev/1Panel | partial | 2026-09-02T10:23:38Z | [open](../records/go-1panel-dev-1panel-effa2b43.md) |
-| abiosoft/colima | partial | 2026-08-31T17:22:35Z | [open](../records/go-abiosoft-colima-0ac0ec4e.md) |
-| AlistGo/alist | partial | 2026-09-02T04:42:18Z | [open](../records/go-alistgo-alist-0be2effe.md) |
-| antlr/antlr4 | partial | 2026-02-16T21:29:09Z | [open](../records/go-antlr-antlr4-1390b066.md) |
-| aquasecurity/trivy | partial | 2026-09-02T11:49:30Z | [open](../records/go-aquasecurity-trivy-a759b66b.md) |
-| astaxie/build-web-application-with-golang | partial | 2024-05-12T00:47:46Z | [open](../records/go-astaxie-build-web-application-with-golang-30f88db6.md) |
-| authelia/authelia | partial | 2026-09-02T11:46:31Z | [open](../records/go-authelia-authelia-bd98b68d.md) |
-| avelino/awesome-go | partial | 2026-09-02T18:07:32Z | [open](../records/go-avelino-awesome-go-512e7dd9.md) |
-| beego/beego | partial | 2026-09-02T05:21:06Z | [open](../records/go-beego-beego-e98bc924.md) |
+| 1Panel-dev/1Panel | unknown | not_a_go_module_path | [open](../records/go-1panel-dev-1panel-effa2b43.md) |
+| abiosoft/colima | unknown | not_a_go_module_path | [open](../records/go-abiosoft-colima-0ac0ec4e.md) |
+| AlistGo/alist | unknown | not_a_go_module_path | [open](../records/go-alistgo-alist-0be2effe.md) |
+| antlr/antlr4 | unknown | not_a_go_module_path | [open](../records/go-antlr-antlr4-1390b066.md) |
+| aquasecurity/trivy | unknown | not_a_go_module_path | [open](../records/go-aquasecurity-trivy-a759b66b.md) |
+| astaxie/build-web-application-with-golang | unknown | not_a_go_module_path | [open](../records/go-astaxie-build-web-application-with-golang-30f88db6.md) |
+| authelia/authelia | unknown | not_a_go_module_path | [open](../records/go-authelia-authelia-bd98b68d.md) |
+| avelino/awesome-go | unknown | not_a_go_module_path | [open](../records/go-avelino-awesome-go-512e7dd9.md) |
+| beego/beego | unknown | not_a_go_module_path | [open](../records/go-beego-beego-e98bc924.md) |
 | binwiederhier/ntfy | partial | 2026-09-01T21:50:08Z | [open](../records/go-binwiederhier-ntfy-973f5ef2.md) |
 | caddyserver/caddy | partial | 2026-09-02T08:14:31Z | [open](../records/go-caddyserver-caddy-982b9e5e.md) |
 | charmbracelet/bubbletea | partial | 2026-09-01T17:42:30Z | [open](../records/go-charmbracelet-bubbletea-3f1ce734.md) |
@@ -699,7 +699,7 @@ Records: `1245`
 | docker/compose | partial | 2026-09-02T16:56:20Z | [open](../records/go-docker-compose-cdd7478b.md) |
 | doocs/leetcode | partial | 2026-09-02T05:11:03Z | [open](../records/go-doocs-leetcode-2d4ea4e3.md) |
 | ehang-io/nps | partial | 2024-05-30T03:51:08Z | [open](../records/go-ehang-io-nps-346fc0a0.md) |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-02T16:35:54Z | [open](../records/go-esengine-deepseek-reasonix-efdb9688.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-02T18:37:22Z | [open](../records/go-esengine-deepseek-reasonix-efdb9688.md) |
 | etcd-io/etcd | partial | 2026-09-02T07:48:29Z | [open](../records/go-etcd-io-etcd-7f59ae57.md) |
 | ethereum/go-ethereum | partial | 2026-09-02T11:17:40Z | [open](../records/go-ethereum-go-ethereum-805e21c2.md) |
 | evanw/esbuild | partial | 2026-08-09T17:20:12Z | [open](../records/go-evanw-esbuild-1272b34b.md) |
@@ -715,7 +715,7 @@ Records: `1245`
 | go-gitea/gitea | partial | 2026-09-02T17:36:22Z | [open](../records/go-go-gitea-gitea-16871751.md) |
 | go-gorm/gorm | partial | 2026-06-25T07:21:11Z | [open](../records/go-go-gorm-gorm-7ca42177.md) |
 | go-kit/kit | partial | 2024-07-19T01:40:06Z | [open](../records/go-go-kit-kit-a994b76c.md) |
-| gofiber/fiber | partial | 2026-09-02T15:53:03Z | [open](../records/go-gofiber-fiber-4a40c103.md) |
+| gofiber/fiber | partial | 2026-09-02T18:54:17Z | [open](../records/go-gofiber-fiber-4a40c103.md) |
 | gogs/gogs | partial | 2026-08-26T02:52:34Z | [open](../records/go-gogs-gogs-c169645d.md) |
 | goharbor/harbor | partial | 2026-09-02T04:10:29Z | [open](../records/go-goharbor-harbor-20ad6a98.md) |
 | gohugoio/hugo | partial | 2026-09-02T13:50:10Z | [open](../records/go-gohugoio-hugo-f422f841.md) |
@@ -727,9 +727,9 @@ Records: `1245`
 | halfrost/LeetCode-Go | partial | 2026-09-02T17:50:47Z | [open](../records/go-halfrost-leetcode-go-09ca25e1.md) |
 | harness/harness | partial | 2026-09-01T09:54:38Z | [open](../records/go-harness-harness-fe931205.md) |
 | hashicorp/consul | partial | 2026-09-02T15:26:50Z | [open](../records/go-hashicorp-consul-eaeec57d.md) |
-| hashicorp/terraform | partial | 2026-09-02T18:13:21Z | [open](../records/go-hashicorp-terraform-d56d30dc.md) |
-| hashicorp/vault | partial | 2026-09-02T18:02:44Z | [open](../records/go-hashicorp-vault-dff1aa81.md) |
-| helm/helm | partial | 2026-09-02T18:02:18Z | [open](../records/go-helm-helm-21c5a8ef.md) |
+| hashicorp/terraform | partial | 2026-09-02T18:53:29Z | [open](../records/go-hashicorp-terraform-d56d30dc.md) |
+| hashicorp/vault | partial | 2026-09-02T19:02:37Z | [open](../records/go-hashicorp-vault-dff1aa81.md) |
+| helm/helm | partial | 2026-09-02T18:45:02Z | [open](../records/go-helm-helm-21c5a8ef.md) |
 | iawia002/lux | partial | 2026-03-29T18:18:56Z | [open](../records/go-iawia002-lux-752d8d70.md) |
 | IceWhaleTech/CasaOS | partial | 2025-08-06T08:54:04Z | [open](../records/go-icewhaletech-casaos-65ab04a5.md) |
 | infiniflow/ragflow | partial | 2026-09-02T13:29:01Z | [open](../records/go-infiniflow-ragflow-8c9d422d.md) |
@@ -739,11 +739,11 @@ Records: `1245`
 | juanfont/headscale | partial | 2026-09-02T11:34:04Z | [open](../records/go-juanfont-headscale-8da9ae07.md) |
 | JuliusBrussee/caveman | partial | 2026-09-02T13:48:52Z | [open](../records/go-juliusbrussee-caveman-4aae12bd.md) |
 | junegunn/fzf | partial | 2026-08-31T10:09:46Z | [open](../records/go-junegunn-fzf-b96385b5.md) |
-| k3s-io/k3s | partial | 2026-09-02T16:56:19Z | [open](../records/go-k3s-io-k3s-db2488b2.md) |
+| k3s-io/k3s | partial | 2026-09-02T18:51:51Z | [open](../records/go-k3s-io-k3s-db2488b2.md) |
 | kubernetes/kubernetes | partial | 2026-09-02T16:38:21Z | [open](../records/go-kubernetes-kubernetes-6b4c958b.md) |
 | kubernetes/minikube | partial | 2026-09-02T08:26:47Z | [open](../records/go-kubernetes-minikube-284bb65c.md) |
 | labstack/echo | partial | 2026-09-02T05:43:10Z | [open](../records/go-labstack-echo-87caf04e.md) |
-| MHSanaei/3x-ui | partial | 2026-09-02T18:22:50Z | [open](../records/go-mhsanaei-3x-ui-0505b860.md) |
+| MHSanaei/3x-ui | partial | 2026-09-02T19:12:07Z | [open](../records/go-mhsanaei-3x-ui-0505b860.md) |
 | micro-editor/micro | partial | 2026-09-02T00:35:49Z | [open](../records/go-micro-editor-micro-31344ae4.md) |
 | microsoft/TypeScript | partial | 2026-09-02T17:54:39Z | [open](../records/go-microsoft-typescript-263acd6d.md) |
 | milvus-io/milvus | partial | 2026-09-02T17:25:30Z | [open](../records/go-milvus-io-milvus-f58bc0a6.md) |
@@ -752,12 +752,12 @@ Records: `1245`
 | mudler/LocalAI | partial | 2026-09-02T11:58:24Z | [open](../records/go-mudler-localai-bdeac9f4.md) |
 | multica-ai/multica | partial | 2026-09-02T11:06:02Z | [open](../records/go-multica-ai-multica-2f7b6919.md) |
 | nektos/act | partial | 2026-08-09T22:50:11Z | [open](../records/go-nektos-act-ba8341d5.md) |
-| netbirdio/netbird | partial | 2026-09-02T17:07:25Z | [open](../records/go-netbirdio-netbird-358bb59e.md) |
+| netbirdio/netbird | partial | 2026-09-02T19:15:26Z | [open](../records/go-netbirdio-netbird-358bb59e.md) |
 | netdata/netdata | partial | 2026-09-02T17:15:29Z | [open](../records/go-netdata-netdata-170b9886.md) |
-| ollama/ollama | partial | 2026-09-02T18:23:14Z | [open](../records/go-ollama-ollama-37c1cc0e.md) |
+| ollama/ollama | partial | 2026-09-02T19:14:06Z | [open](../records/go-ollama-ollama-37c1cc0e.md) |
 | opentofu/opentofu | partial | 2026-09-02T15:03:20Z | [open](../records/go-opentofu-opentofu-186b8c42.md) |
 | photoprism/photoprism | partial | 2026-09-01T13:36:50Z | [open](../records/go-photoprism-photoprism-47249a2f.md) |
-| pingcap/tidb | partial | 2026-09-02T18:21:40Z | [open](../records/go-pingcap-tidb-cf9a579a.md) |
+| pingcap/tidb | partial | 2026-09-02T19:07:28Z | [open](../records/go-pingcap-tidb-cf9a579a.md) |
 | pocketbase/pocketbase | partial | 2026-09-02T13:14:09Z | [open](../records/go-pocketbase-pocketbase-129b5588.md) |
 | podman-container-tools/podman | partial | 2026-09-02T16:22:39Z | [open](../records/go-podman-container-tools-podman-b8d59e44.md) |
 | projectdiscovery/nuclei | partial | 2026-09-02T18:18:29Z | [open](../records/go-projectdiscovery-nuclei-166bc26c.md) |
@@ -769,7 +769,7 @@ Records: `1245`
 | router-for-me/CLIProxyAPI | partial | 2026-09-02T17:33:19Z | [open](../records/go-router-for-me-cliproxyapi-093a59b1.md) |
 | SagerNet/sing-box | partial | 2026-09-02T15:23:04Z | [open](../records/go-sagernet-sing-box-7213e1d8.md) |
 | schollz/croc | partial | 2026-09-01T12:22:06Z | [open](../records/go-schollz-croc-63a54584.md) |
-| seaweedfs/seaweedfs | partial | 2026-09-02T17:12:57Z | [open](../records/go-seaweedfs-seaweedfs-e63ae9d7.md) |
+| seaweedfs/seaweedfs | partial | 2026-09-02T19:12:18Z | [open](../records/go-seaweedfs-seaweedfs-e63ae9d7.md) |
 | sipeed/picoclaw | partial | 2026-08-27T21:13:30Z | [open](../records/go-sipeed-picoclaw-00ca996b.md) |
 | slimtoolkit/slim | partial | 2026-08-02T15:58:35Z | [open](../records/go-slimtoolkit-slim-92b8fc23.md) |
 | spf13/cobra | partial | 2026-07-11T00:43:07Z | [open](../records/go-spf13-cobra-eeac1239.md) |
@@ -830,7 +830,7 @@ Records: `1245`
 | mlabonne/llm-course | partial | 2026-02-05T13:09:26Z | [open](../records/aim-s-mlabonne-llm-course-686674f6.md) |
 | mukul975/Anthropic-Cybersecurity-Skills | partial | 2026-08-31T04:32:44Z | [open](../records/aim-s-mukul975-anthropic-cybersecurity-skills-9e0cc92c.md) |
 | p-e-w/heretic | partial | 2026-09-02T01:44:18Z | [open](../records/aim-s-p-e-w-heretic-a6b88cd3.md) |
-| sgl-project/sglang | partial | 2026-09-02T18:02:25Z | [open](../records/aim-s-sgl-project-sglang-4b12b8a7.md) |
+| sgl-project/sglang | partial | 2026-09-02T19:05:50Z | [open](../records/aim-s-sgl-project-sglang-4b12b8a7.md) |
 | yamadashy/repomix | partial | 2026-09-02T14:40:30Z | [open](../records/aim-s-yamadashy-repomix-25d6e394.md) |
 
 ## nix
@@ -881,7 +881,10 @@ Records: `1245`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| Alhadis/language-fontforge | partial | 2026-08-24T03:04:31Z | [open](../records/font-briefcase-alhadis-language-fontforge-7ebac743.md) |
+| ms-studio/karmilla | partial | 2020-11-20T01:14:57Z | [open](../records/font-briefcase-ms-studio-karmilla-090c0b77.md) |
 | OpenType Specification | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/font-briefcase-opentype-specification-e2cb1cd1.md) |
+| Pal3love/otRebuilder | partial | 2019-06-25T06:14:17Z | [open](../records/font-briefcase-pal3love-otrebuilder-5b42959a.md) |
 
 ## Assets
 
@@ -889,6 +892,7 @@ Records: `1245`
 | --- | --- | --- | --- |
 | adobe-fonts/source-serif | partial | 2025-11-17T22:59:10Z | [open](../records/assets-adobe-fonts-source-serif-d174881a.md) |
 | darwinex/dwxconnect | partial | 2025-05-25T07:44:34Z | [open](../records/assets-darwinex-dwxconnect-17a92fc5.md) |
+| OpenAssetIO/OpenAssetIO | partial | 2026-08-24T13:15:42Z | [open](../records/assets-openassetio-openassetio-90739a90.md) |
 | steinbergmedia/bravura | partial | 2026-08-24T21:16:53Z | [open](../records/assets-steinbergmedia-bravura-55db3418.md) |
 
 ## Maps
@@ -900,7 +904,7 @@ Records: `1245`
 | geopython/pygeoapi | partial | 2026-08-18T22:37:18Z | [open](../records/maps-geopython-pygeoapi-d6a22971.md) |
 | jczic/MicroWebSrv | partial | 2023-01-17T12:18:00Z | [open](../records/maps-jczic-microwebsrv-507914eb.md) |
 | leontoeides/google_maps | partial | 2026-07-12T17:53:34Z | [open](../records/maps-leontoeides-google-maps-f8801bd0.md) |
-| maplibre/maputnik | partial | 2026-08-31T14:08:22Z | [open](../records/maps-maplibre-maputnik-9ad351fe.md) |
+| maplibre/maputnik | partial | 2026-09-02T15:46:51Z | [open](../records/maps-maplibre-maputnik-9ad351fe.md) |
 | open-meteo/geocoding-api | partial | 2026-08-27T14:31:59Z | [open](../records/maps-open-meteo-geocoding-api-8d972914.md) |
 | opengeospatial/geoparquet | partial | 2026-08-28T16:15:10Z | [open](../records/maps-opengeospatial-geoparquet-135cad2a.md) |
 | xeokit/xeokit-bim-viewer | unknown | github_search_does_not_include_release_date | [open](../records/maps-xeokit-xeokit-bim-viewer-397852ef.md) |
@@ -1034,11 +1038,21 @@ Records: `1245`
 | jonasrmichel/radio-garden-openapi | partial | 2021-12-30T20:22:29Z | [open](../records/radio-garden-speciality-jonasrmichel-radio-garden-openapi-7e02eadb.md) |
 | ZoltCyber/file.js | partial | 2014-02-26T10:08:19Z | [open](../records/radio-garden-speciality-zoltcyber-file-js-199ca939.md) |
 
+## Repertoare Catalogs
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| Electronick79/ndossantos-COMP-596-Web-Application-Development | partial | 2022-02-01T07:11:57Z | [open](../records/repertoare-catalogs-electronick79-ndossantos-comp-596-web-application-development-0e6dc95b.md) |
+| jettbrains/-L- | partial | 2021-08-18T13:41:54Z | [open](../records/repertoare-catalogs-jettbrains-l-592aea7e.md) |
+| kalpanajagtap/Bharatnatyam | partial | 2018-11-29T10:19:02Z | [open](../records/repertoare-catalogs-kalpanajagtap-bharatnatyam-11ca2e93.md) |
+
 ## Catalogs
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| acode/cli | partial | 2023-09-21T07:08:12Z | [open](../records/catalogs-acode-cli-1ebd111e.md) |
 | Schema.org | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-schema-org-e6f3f640.md) |
+| vercel/components.build | partial | 2026-08-20T09:04:44Z | [open](../records/catalogs-vercel-components-build-c3f9ff05.md) |
 
 ## Magazines
 
@@ -1050,7 +1064,8 @@ Records: `1245`
 | haskellweekly/haskellweekly | partial | 2026-08-27T11:26:08Z | [open](../records/magazines-haskellweekly-haskellweekly-2d16522a.md) |
 | haskellweekly/haskellweekly.github.io | partial | 2019-10-16T02:20:59Z | [open](../records/magazines-haskellweekly-haskellweekly-github-io-889fd571.md) |
 | ikoanti/LLMs.txt-News-Blog-AI-Inspector | unknown | github_latest_release_missing | [open](../records/magazines-ikoanti-llms-txt-news-blog-ai-inspector-a0fb994d.md) |
-| northword/zotero-format-metadata | unknown | github_search_does_not_include_release_date | [open](../records/magazines-northword-zotero-format-metadata-96843849.md) |
+| iwasakishuto/Translation-Gummy | partial | 2023-04-24T15:46:05Z | [open](../records/magazines-iwasakishuto-translation-gummy-b98e5037.md) |
+| northword/zotero-format-metadata | partial | 2026-09-01T12:07:46Z | [open](../records/magazines-northword-zotero-format-metadata-96843849.md) |
 | ousmanabakar/Responsive-Web-Design-freecodecamp | unknown | github_latest_release_missing | [open](../records/magazines-ousmanabakar-responsive-web-design-freecodecamp-719d13d8.md) |
 | shining1984/PL-Compiler-Resource | unknown | github_search_does_not_include_release_date | [open](../records/magazines-shining1984-pl-compiler-resource-0aa8b0f1.md) |
 | Yashikar/iostraininginstituteinchennai | unknown | github_latest_release_missing | [open](../records/magazines-yashikar-iostraininginstituteinchennai-83d6cb28.md) |
@@ -1231,7 +1246,7 @@ Records: `1245`
 | binji/raw-wasm | partial | 2023-11-15T08:22:06Z | [open](../records/webassembly-binji-raw-wasm-b437b0d8.md) |
 | brson/wasm-opt-rs | partial | 2024-03-31T11:55:41Z | [open](../records/webassembly-brson-wasm-opt-rs-e0919bb2.md) |
 | bytecodealliance/sightglass | partial | 2026-08-25T02:58:26Z | [open](../records/webassembly-bytecodealliance-sightglass-4a32272b.md) |
-| bytecodealliance/wasmtime | partial | 2026-09-01T20:45:38Z | [open](../records/webassembly-bytecodealliance-wasmtime-2e91b85a.md) |
+| bytecodealliance/wasmtime | partial | 2026-09-02T18:45:22Z | [open](../records/webassembly-bytecodealliance-wasmtime-2e91b85a.md) |
 | bytecodealliance/wit-bindgen | partial | 2026-08-28T22:01:17Z | [open](../records/webassembly-bytecodealliance-wit-bindgen-5f4cba61.md) |
 | Bytecoder - A Rich Domain Model for Java Bytecode and Framework to interpret and transpile it to other languages such as JavaScript, OpenCL or WebAssembly | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-bytecoder-a-rich-domain-model-for-java-bytecode-and-framework-to-interpret-and-transpile-it-to-other-languages-such-as-javascript-opencl-or-webassembly-ec8bb13b.md) |
 | CharlieTap/chasm | partial | 2026-08-30T08:01:40Z | [open](../records/webassembly-charlietap-chasm-eaff8223.md) |
@@ -1259,7 +1274,7 @@ Records: `1245`
 | Implex-ltd/hcaptcha-reverse | partial | 2025-09-26T18:48:51Z | [open](../records/webassembly-implex-ltd-hcaptcha-reverse-64b09389.md) |
 | InsightSoftwareConsortium/ITK-Wasm | partial | 2026-09-01T02:55:51Z | [open](../records/webassembly-insightsoftwareconsortium-itk-wasm-d40bc24d.md) |
 | iRath96/webNBT | partial | 2022-04-29T17:48:51Z | [open](../records/webassembly-irath96-webnbt-35ce95aa.md) |
-| JetBrains/kotlin | partial | 2026-09-02T14:21:09Z | [open](../records/webassembly-jetbrains-kotlin-df8d54fa.md) |
+| JetBrains/kotlin | partial | 2026-09-02T19:18:55Z | [open](../records/webassembly-jetbrains-kotlin-df8d54fa.md) |
 | jungomi/xxhash-wasm | partial | 2024-11-19T13:37:31Z | [open](../records/webassembly-jungomi-xxhash-wasm-49598b2a.md) |
 | KhronosGroupArchives/Basis-Universal-Transcoders | partial | 2023-07-17T12:09:33Z | [open](../records/webassembly-khronosgrouparchives-basis-universal-transcoders-5be15dfa.md) |
 | kign/c4wa | partial | 2022-01-29T06:17:26Z | [open](../records/webassembly-kign-c4wa-49154407.md) |
@@ -1300,14 +1315,14 @@ Records: `1245`
 | titzer/wizard-engine | partial | 2026-09-01T20:24:09Z | [open](../records/webassembly-titzer-wizard-engine-a1df5cdc.md) |
 | torch2424/as-bind | partial | 2024-01-21T09:47:18Z | [open](../records/webassembly-torch2424-as-bind-819e3646.md) |
 | torch2424/wasmboy | partial | 2023-03-04T02:32:59Z | [open](../records/webassembly-torch2424-wasmboy-28e5014a.md) |
-| unoplatform/Uno.Wasm.Bootstrap | partial | 2026-08-13T11:04:44Z | [open](../records/webassembly-unoplatform-uno-wasm-bootstrap-2ef7ab44.md) |
+| unoplatform/Uno.Wasm.Bootstrap | partial | 2026-09-02T19:05:12Z | [open](../records/webassembly-unoplatform-uno-wasm-bootstrap-2ef7ab44.md) |
 | vasilev/HTTP-request-from-inside-WASM | partial | 2026-03-20T13:08:46Z | [open](../records/webassembly-vasilev-http-request-from-inside-wasm-36efd908.md) |
 | vshymanskyy/awesome-wasm-tools | partial | 2026-08-11T20:14:17Z | [open](../records/webassembly-vshymanskyy-awesome-wasm-tools-577f61ea.md) |
 | wado-lang/wado | partial | 2026-09-01T14:16:30Z | [open](../records/webassembly-wado-lang-wado-97e1d85c.md) |
 | wasmerio/io-devices-lib | partial | 2023-05-07T10:44:06Z | [open](../records/webassembly-wasmerio-io-devices-lib-0eb00bc1.md) |
 | wasmlang/awesome-wasm-zh | partial | 2024-10-12T14:06:50Z | [open](../records/webassembly-wasmlang-awesome-wasm-zh-74997eab.md) |
 | WebAssembly Specification | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-webassembly-specification-1e6a4a18.md) |
-| WebAssembly/binaryen | partial | 2026-09-02T10:28:38Z | [open](../records/webassembly-webassembly-binaryen-c806271b.md) |
+| WebAssembly/binaryen | partial | 2026-09-02T19:05:44Z | [open](../records/webassembly-webassembly-binaryen-c806271b.md) |
 | WebAssembly/bulk-memory-operations | partial | 2021-03-31T19:39:05Z | [open](../records/webassembly-webassembly-bulk-memory-operations-f1fe84ec.md) |
 | WebAssembly/component-model | partial | 2026-08-31T23:27:30Z | [open](../records/webassembly-webassembly-component-model-3e95f841.md) |
 | WebAssembly/esm-integration | partial | 2026-05-12T22:53:06Z | [open](../records/webassembly-webassembly-esm-integration-b2b03065.md) |
@@ -1351,7 +1366,7 @@ Records: `1245`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | About Swift | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-about-swift-8bde498c.md) |
-| airbnb/lottie-ios | partial | 2026-07-08T13:57:38Z | [open](../records/swift-airbnb-lottie-ios-63aa9a28.md) |
+| airbnb/lottie-ios | partial | 2026-09-02T17:51:00Z | [open](../records/swift-airbnb-lottie-ios-63aa9a28.md) |
 | Alamofire/Alamofire | partial | 2026-08-31T19:30:24Z | [open](../records/swift-alamofire-alamofire-33377646.md) |
 | alienator88/Pearcleaner | partial | 2026-06-22T18:49:18Z | [open](../records/swift-alienator88-pearcleaner-bea02e76.md) |
 | allenwong/30DaysofSwift | partial | 2022-05-21T17:40:30Z | [open](../records/swift-allenwong-30daysofswift-c4ccdfef.md) |
@@ -1359,7 +1374,7 @@ Records: `1245`
 | altstoreio/AltStore | partial | 2026-07-14T19:06:27Z | [open](../records/swift-altstoreio-altstore-27603fa2.md) |
 | AppHouseKitchen/AlDente-Battery_Care_and_Monitoring | partial | 2026-08-03T12:39:37Z | [open](../records/swift-apphousekitchen-aldente-battery-care-and-monitoring-af6d47ab.md) |
 | apple/container | partial | 2026-09-01T23:55:18Z | [open](../records/swift-apple-container-01bf22c8.md) |
-| apple/containerization | partial | 2026-09-02T02:25:13Z | [open](../records/swift-apple-containerization-17cc55a1.md) |
+| apple/containerization | partial | 2026-09-02T17:22:12Z | [open](../records/swift-apple-containerization-17cc55a1.md) |
 | AudioKit/AudioKit | partial | 2026-07-26T06:33:02Z | [open](../records/swift-audiokit-audiokit-f0ff74d0.md) |
 | Awesome Swift Education | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-awesome-swift-education-c6fd9bb7.md) |
 | c-villain/SwipeActions | partial | 2024-09-28T09:49:54Z | [open](../records/swift-c-villain-swipeactions-c44ea5a0.md) |
@@ -1372,7 +1387,7 @@ Records: `1245`
 | CosmicMind/Material | partial | 2022-05-16T17:39:01Z | [open](../records/swift-cosmicmind-material-db65888a.md) |
 | DevToys-app/DevToysMac | partial | 2024-05-03T04:09:41Z | [open](../records/swift-devtoys-app-devtoysmac-580e5f88.md) |
 | dwarvesf/hidden | partial | 2026-06-15T19:25:30Z | [open](../records/swift-dwarvesf-hidden-f5516832.md) |
-| exelban/stats | partial | 2026-08-31T15:35:29Z | [open](../records/swift-exelban-stats-903c8254.md) |
+| exelban/stats | partial | 2026-09-02T16:19:38Z | [open](../records/swift-exelban-stats-903c8254.md) |
 | Finb/Bark | partial | 2026-09-01T06:47:33Z | [open](../records/swift-finb-bark-47359efd.md) |
 | FlineDev/TranslateKitSDK | partial | 2026-02-17T13:49:14Z | [open](../records/swift-flinedev-translatekitsdk-dc82594f.md) |
 | gao-sun/eul | partial | 2024-05-25T22:59:12Z | [open](../records/swift-gao-sun-eul-2666ac59.md) |
@@ -1381,14 +1396,14 @@ Records: `1245`
 | hackiftekhar/IQKeyboardManager | partial | 2026-05-25T14:09:39Z | [open](../records/swift-hackiftekhar-iqkeyboardmanager-18116034.md) |
 | HeroTransitions/Hero | partial | 2025-01-23T20:27:30Z | [open](../records/swift-herotransitions-hero-5bacf3ae.md) |
 | ianyh/Amethyst | partial | 2026-08-19T13:38:37Z | [open](../records/swift-ianyh-amethyst-73e82312.md) |
-| iina/iina | partial | 2026-09-02T14:11:56Z | [open](../records/swift-iina-iina-fa66094c.md) |
+| iina/iina | partial | 2026-09-02T18:10:02Z | [open](../records/swift-iina-iina-fa66094c.md) |
 | insidegui/WWDC | partial | 2026-06-17T20:11:54Z | [open](../records/swift-insidegui-wwdc-577016c9.md) |
 | ipader/SwiftGuide | partial | 2026-08-22T01:31:55Z | [open](../records/swift-ipader-swiftguide-9e486914.md) |
 | jaywcjlove/awesome-mac | partial | 2026-09-02T01:49:05Z | [open](../records/swift-jaywcjlove-awesome-mac-78b4937e.md) |
 | JohnCoates/Aerial | partial | 2026-05-16T13:55:52Z | [open](../records/swift-johncoates-aerial-d1d85df4.md) |
 | jordanbaird/Ice | partial | 2025-09-20T20:28:17Z | [open](../records/swift-jordanbaird-ice-cbd56144.md) |
 | Juanpe/SkeletonView | partial | 2026-06-23T17:39:57Z | [open](../records/swift-juanpe-skeletonview-1a92cf44.md) |
-| kickstarter/ios-oss | partial | 2026-09-02T08:15:22Z | [open](../records/swift-kickstarter-ios-oss-52b132cb.md) |
+| kickstarter/ios-oss | partial | 2026-09-02T15:49:11Z | [open](../records/swift-kickstarter-ios-oss-52b132cb.md) |
 | kodecocodes/swift-algorithm-club | partial | 2024-12-06T07:03:07Z | [open](../records/swift-kodecocodes-swift-algorithm-club-e9dbf72c.md) |
 | KrishKrosh/TrackWeight | partial | 2025-07-27T02:34:55Z | [open](../records/swift-krishkrosh-trackweight-dd829cdd.md) |
 | krzyzanowskim/CryptoSwift | partial | 2026-08-19T14:45:33Z | [open](../records/swift-krzyzanowskim-cryptoswift-c5d8c7eb.md) |
@@ -1396,18 +1411,18 @@ Records: `1245`
 | LiveContainer/LiveContainer | partial | 2026-08-30T14:53:23Z | [open](../records/swift-livecontainer-livecontainer-df088e07.md) |
 | lwouis/alt-tab-macos | partial | 2026-08-19T09:20:08Z | [open](../records/swift-lwouis-alt-tab-macos-ffbd7980.md) |
 | mac-cain13/R.swift | partial | 2025-04-01T13:18:36Z | [open](../records/swift-mac-cain13-r-swift-576f6e69.md) |
-| manaflow-ai/cmux | partial | 2026-09-02T14:21:32Z | [open](../records/swift-manaflow-ai-cmux-97abd3fc.md) |
+| manaflow-ai/cmux | partial | 2026-09-02T19:15:22Z | [open](../records/swift-manaflow-ai-cmux-97abd3fc.md) |
 | mas-cli/mas | partial | 2026-08-31T13:20:08Z | [open](../records/swift-mas-cli-mas-eeeb85cb.md) |
 | maxgoedjen/secretive | partial | 2026-08-19T08:42:13Z | [open](../records/swift-maxgoedjen-secretive-c206b7a6.md) |
 | MengTo/Spring | partial | 2023-07-03T14:28:34Z | [open](../records/swift-mengto-spring-21bd886d.md) |
 | MonitorControl/MonitorControl | partial | 2026-08-31T16:37:52Z | [open](../records/swift-monitorcontrol-monitorcontrol-71ba7549.md) |
 | Mortennn/Dozer | partial | 2023-11-30T13:45:27Z | [open](../records/swift-mortennn-dozer-5a851823.md) |
 | Moya/Moya | partial | 2026-07-14T22:07:40Z | [open](../records/swift-moya-moya-934d110e.md) |
-| mozilla-mobile/firefox-ios | partial | 2026-09-02T13:49:59Z | [open](../records/swift-mozilla-mobile-firefox-ios-2083324a.md) |
+| mozilla-mobile/firefox-ios | partial | 2026-09-02T19:11:11Z | [open](../records/swift-mozilla-mobile-firefox-ios-2083324a.md) |
 | mrkai77/Loop | partial | 2026-08-31T08:27:18Z | [open](../records/swift-mrkai77-loop-00f0d1de.md) |
 | mxcl/PromiseKit | partial | 2026-06-03T18:37:03Z | [open](../records/swift-mxcl-promisekit-231b3051.md) |
 | newlinedotco/FlappySwift | partial | 2023-04-29T03:44:50Z | [open](../records/swift-newlinedotco-flappyswift-4860e4e2.md) |
-| nicklockwood/SwiftFormat | partial | 2026-09-02T08:14:55Z | [open](../records/swift-nicklockwood-swiftformat-5173cf3f.md) |
+| nicklockwood/SwiftFormat | partial | 2026-09-02T18:14:23Z | [open](../records/swift-nicklockwood-swiftformat-5173cf3f.md) |
 | nikitabobko/AeroSpace | partial | 2026-08-10T16:54:22Z | [open](../records/swift-nikitabobko-aerospace-c0101588.md) |
 | ninjaprox/NVActivityIndicatorView | partial | 2026-03-18T02:19:26Z | [open](../records/swift-ninjaprox-nvactivityindicatorview-44bb39ff.md) |
 | ochococo/Design-Patterns-In-Swift | partial | 2024-08-03T07:30:28Z | [open](../records/swift-ochococo-design-patterns-in-swift-43f28d47.md) |
@@ -1428,33 +1443,33 @@ Records: `1245`
 | ReactiveX/RxSwift | partial | 2026-08-15T09:20:08Z | [open](../records/swift-reactivex-rxswift-cb25896d.md) |
 | realm/SwiftLint | partial | 2026-09-01T08:09:12Z | [open](../records/swift-realm-swiftlint-518b83d8.md) |
 | ronitsingh10/FineTune | partial | 2026-07-09T07:54:56Z | [open](../records/swift-ronitsingh10-finetune-1c7fcd89.md) |
-| rxhanson/Rectangle | partial | 2026-08-31T02:55:01Z | [open](../records/swift-rxhanson-rectangle-8818d60b.md) |
+| rxhanson/Rectangle | partial | 2026-09-02T17:59:54Z | [open](../records/swift-rxhanson-rectangle-8818d60b.md) |
 | seemoo-lab/openhaystack | partial | 2026-08-17T12:23:59Z | [open](../records/swift-seemoo-lab-openhaystack-1e661f46.md) |
 | shadowsocks/ShadowsocksX-NG | partial | 2024-10-29T12:19:30Z | [open](../records/swift-shadowsocks-shadowsocksx-ng-03970332.md) |
-| signalapp/Signal-iOS | partial | 2026-08-31T19:06:35Z | [open](../records/swift-signalapp-signal-ios-0d959372.md) |
+| signalapp/Signal-iOS | partial | 2026-09-02T18:15:46Z | [open](../records/swift-signalapp-signal-ios-0d959372.md) |
 | Sjj1024/PakePlus-iOS | partial | 2026-07-12T03:04:16Z | [open](../records/swift-sjj1024-pakeplus-ios-409d4afd.md) |
 | SnapKit/SnapKit | partial | 2026-07-13T10:50:19Z | [open](../records/swift-snapkit-snapkit-4ec7288d.md) |
-| steipete/CodexBar | partial | 2026-09-02T14:14:14Z | [open](../records/swift-steipete-codexbar-e82c17bf.md) |
+| steipete/CodexBar | partial | 2026-09-02T19:08:30Z | [open](../records/swift-steipete-codexbar-e82c17bf.md) |
 | stephencelis/SQLite.swift | partial | 2026-08-29T10:03:46Z | [open](../records/swift-stephencelis-sqlite-swift-38539634.md) |
 | sunnyyoung/WeChatTweak | partial | 2026-02-08T13:28:22Z | [open](../records/swift-sunnyyoung-wechattweak-3fbdc99c.md) |
 | supertone-inc/supertonic | partial | 2026-07-24T04:00:17Z | [open](../records/swift-supertone-inc-supertonic-2a29d827.md) |
 | swift-package-manager | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-swift-package-manager-f64ded6a.md) |
 | SwifterSwift/SwifterSwift | partial | 2026-08-09T05:41:29Z | [open](../records/swift-swifterswift-swifterswift-6473bf68.md) |
 | SwiftGen/SwiftGen | partial | 2026-04-16T08:20:58Z | [open](../records/swift-swiftgen-swiftgen-b6a9b03e.md) |
-| swiftlang/swift | partial | 2026-09-02T13:31:29Z | [open](../records/swift-swiftlang-swift-af9d2442.md) |
-| swiftlang/swift-package-manager | partial | 2026-09-02T14:09:55Z | [open](../records/swift-swiftlang-swift-package-manager-a5f8ce45.md) |
-| SwiftUIX/SwiftUIX | unknown | github_search_does_not_include_release_date | [open](../records/swift-swiftuix-swiftuix-7730751d.md) |
+| swiftlang/swift | partial | 2026-09-02T19:03:00Z | [open](../records/swift-swiftlang-swift-af9d2442.md) |
+| swiftlang/swift-package-manager | partial | 2026-09-02T17:32:45Z | [open](../records/swift-swiftlang-swift-package-manager-a5f8ce45.md) |
+| SwiftUIX/SwiftUIX | partial | 2026-08-20T13:22:54Z | [open](../records/swift-swiftuix-swiftuix-7730751d.md) |
 | SwiftyJSON/SwiftyJSON | partial | 2026-08-18T07:07:07Z | [open](../records/swift-swiftyjson-swiftyjson-7752246a.md) |
 | TelegramMessenger/Telegram-iOS | partial | 2026-07-21T04:34:53Z | [open](../records/swift-telegrammessenger-telegram-ios-919c5962.md) |
-| thaw-app/Thaw | partial | 2026-09-02T12:13:49Z | [open](../records/swift-thaw-app-thaw-925be275.md) |
+| thaw-app/Thaw | partial | 2026-09-02T15:50:59Z | [open](../records/swift-thaw-app-thaw-925be275.md) |
 | TheBoredTeam/boring.notch | partial | 2026-08-30T07:24:40Z | [open](../records/swift-theboredteam-boring-notch-97c99eb2.md) |
 | tisfeng/Easydict | partial | 2026-09-02T12:19:18Z | [open](../records/swift-tisfeng-easydict-efdf4df7.md) |
 | toptal/gitignore.io | partial | 2024-12-23T15:12:40Z | [open](../records/swift-toptal-gitignore-io-af3ffa2e.md) |
 | tristanhimmelman/ObjectMapper | partial | 2024-05-02T13:32:48Z | [open](../records/swift-tristanhimmelman-objectmapper-35c64bc7.md) |
 | utmapp/UTM | partial | 2026-09-02T05:14:37Z | [open](../records/swift-utmapp-utm-cd8eae5c.md) |
-| vapor/vapor | partial | 2026-09-02T13:52:13Z | [open](../records/swift-vapor-vapor-45f6fc70.md) |
+| vapor/vapor | partial | 2026-09-02T19:16:00Z | [open](../records/swift-vapor-vapor-45f6fc70.md) |
 | vim-polyglot | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-vim-polyglot-4e647549.md) |
-| vorssaintapp/vorssaint-utils | partial | 2026-09-02T14:06:13Z | [open](../records/swift-vorssaintapp-vorssaint-utils-6c9bd080.md) |
+| vorssaintapp/vorssaint-utils | partial | 2026-09-02T19:13:06Z | [open](../records/swift-vorssaintapp-vorssaint-utils-6c9bd080.md) |
 | vsouza/awesome-ios | partial | 2026-08-27T19:34:29Z | [open](../records/swift-vsouza-awesome-ios-2f790b50.md) |
 | Whisky-App/Whisky | partial | 2025-05-11T17:50:04Z | [open](../records/swift-whisky-app-whisky-01ab3144.md) |
 | xmartlabs/Eureka | partial | 2024-09-12T17:04:03Z | [open](../records/swift-xmartlabs-eureka-4485a2d3.md) |
