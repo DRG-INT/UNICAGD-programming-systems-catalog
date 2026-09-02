@@ -1,6 +1,6 @@
 # Library
 
-Records: `4859`
+Records: `4877`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `4859`
 
 ## Category Index
 
-[Api Abi Checker (190)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (125)](async-runtime.md)
-[Benchmarking (119)](benchmarking.md) · [Build System (825)](build-system.md) · [Cli (503)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (190)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (42)](assertion-mocking.md) · [Async Runtime (129)](async-runtime.md)
+[Benchmarking (123)](benchmarking.md) · [Build System (827)](build-system.md) · [Cli (507)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (88)](community-reference.md) · [Compiler (171)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
-[Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (100)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
-[Cryptography (156)](cryptography.md) · [Data Science (33)](data-science.md) · [Database Datastore (754)](database-datastore.md) · [Datetime (160)](datetime.md)
+[Concurrency Parallelism (73)](concurrency-parallelism.md) · [Configuration (101)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Cryptography (156)](cryptography.md) · [Data Science (34)](data-science.md) · [Database Datastore (774)](database-datastore.md) · [Datetime (160)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (87)](dependency-manager.md) · [Documentation (88)](documentation.md)
-[Embedded Hardware (49)](embedded-hardware.md) · [Ffi Bindings (388)](ffi-bindings.md) · [Filesystem Os (1213)](filesystem-os.md) · [Formatter (548)](formatter.md)
-[Framework (49)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1145)](ide-editor-integration.md)
-[Image Audio Dsp (301)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (234)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1237)](language-specification.md) · **[Library (4859)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (394)](logging-observability.md) · [Machine Learning (594)](machine-learning.md)
-[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (32)](message-broker.md) · [Networking Http (923)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (271)](package-manager.md) · [Parser Lexer Ast (926)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
-[Profiler (72)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (313)](security-sast.md) · [Serialization (370)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (445)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (498)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (292)](type-checker.md)
-[Undefined Behavior Analyzer (1400)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (415)](visualization-gui.md) · [Web Framework (411)](web-framework.md)
+[Embedded Hardware (49)](embedded-hardware.md) · [Ffi Bindings (390)](ffi-bindings.md) · [Filesystem Os (1220)](filesystem-os.md) · [Formatter (548)](formatter.md)
+[Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (159)](game-engine-game-dev.md) · [Ide Editor Integration (1149)](ide-editor-integration.md)
+[Image Audio Dsp (301)](image-audio-dsp.md) · [Interop Bindings (55)](interop-bindings.md) · [Interpreter Runtime (236)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1241)](language-specification.md) · **[Library (4877)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (41)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (397)](logging-observability.md) · [Machine Learning (594)](machine-learning.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (86)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (926)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (278)](package-manager.md) · [Parser Lexer Ast (928)](parser-lexer-ast.md) · [Precommit Ci Quality (262)](precommit-ci-quality.md)
+[Profiler (73)](profiler.md) · [Project Scaffolding (120)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
+[Security Sast (314)](security-sast.md) · [Serialization (370)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (448)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (501)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (292)](type-checker.md)
+[Undefined Behavior Analyzer (1403)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (415)](visualization-gui.md) · [Web Framework (415)](web-framework.md)
 
 ## C99
 
@@ -2780,6 +2780,7 @@ Records: `4859`
 | palm | 1.1.7 | 2026-08-20 05:20:59 UTC | [open](../records/r-palm-8960368c.md) |
 | palr | 0.5.0 | 2026-08-05 05:30:02 UTC | [open](../records/r-palr-8eb9dcbe.md) |
 | PanelSelect | 1.0.1 | 2026-08-27 05:10:46 UTC | [open](../records/r-panelselect-c72ae5ba.md) |
+| parameters | 0.29.3 | 2026-09-02 15:00:02 UTC | [open](../records/r-parameters-a1aa7ce6.md) |
 | party | 1.3-23 | 2026-08-31 22:00:26 UTC | [open](../records/r-party-c30bb407.md) |
 | pb210dating | 1.0.1 | 2026-08-21 13:30:02 UTC | [open](../records/r-pb210dating-32c83aff.md) |
 | pbapply | 1.7-5 | 2026-09-01 08:20:12 UTC | [open](../records/r-pbapply-449da90d.md) |
@@ -3004,7 +3005,7 @@ Records: `4859`
 | amazonka-storagegateway | 2.0 | 2023-07-27T21:48:30Z | [open](../records/haskell-amazonka-storagegateway-dcb2c175.md) |
 | amazonka-sts | 2.0 | 2023-07-27T21:48:33Z | [open](../records/haskell-amazonka-sts-372e3bb5.md) |
 | amazonka-support | 2.0 | 2023-07-27T21:48:37Z | [open](../records/haskell-amazonka-support-279a59d9.md) |
-| amazonka-swf | unknown | hackage_package_page_missing | [open](../records/haskell-amazonka-swf-b6bd9b78.md) |
+| amazonka-swf | 2.0 | 2023-07-27T21:48:45Z | [open](../records/haskell-amazonka-swf-b6bd9b78.md) |
 | amazonka-workspaces | 2.0 | 2023-07-27T21:50:09Z | [open](../records/haskell-amazonka-workspaces-f2dfe8f0.md) |
 | amqp | 0.24.0 | 2024-10-14T20:38:07Z | [open](../records/haskell-amqp-4ec1a44d.md) |
 | ansi-wl-pprint | 1.1.1 | 2026-05-11T11:32:00Z | [open](../records/haskell-ansi-wl-pprint-c390dd0e.md) |
@@ -3294,7 +3295,7 @@ Records: `4859`
 | gitlab-haskell | 1.4.1.0 | 2026-08-17T22:49:30Z | [open](../records/haskell-gitlab-haskell-3c43f582.md) |
 | GLFW-b | 3.3.9.1 | 2024-09-22T03:29:16Z | [open](../records/haskell-glfw-b-3d4d58ab.md) |
 | glib | 0.13.12.0 | 2025-03-20T08:44:19Z | [open](../records/haskell-glib-a57c79d0.md) |
-| glirc | unknown | hackage_package_page_missing | [open](../records/haskell-glirc-1d89d9d6.md) |
+| glirc | 2.41 | 2024-08-13T18:25:52Z | [open](../records/haskell-glirc-1d89d9d6.md) |
 | gll | 0.4.1.2 | 2026-03-19T20:25:22Z | [open](../records/haskell-gll-7f0510fb.md) |
 | Glob | 0.10.2 | 2021-11-10T11:14:16Z | [open](../records/haskell-glob-e0163457.md) |
 | GLUT | 2.7.0.16 | 2021-01-18T07:49:45Z | [open](../records/haskell-glut-0c554dc1.md) |
@@ -3330,7 +3331,7 @@ Records: `4859`
 | haskell-src-exts | 1.24.0 | 2026-07-04T05:40:58Z | [open](../records/haskell-haskell-src-exts-7ffb1093.md) |
 | haskell-src-meta | 0.8.16 | 2026-07-07T21:19:07Z | [open](../records/haskell-haskell-src-meta-78c0fac2.md) |
 | HaskellNet | 0.6.2 | 2025-06-08T08:29:39Z | [open](../records/haskell-haskellnet-ad0c2ab6.md) |
-| haskoin-core | unknown | hackage_package_page_missing | [open](../records/haskell-haskoin-core-d1e8b046.md) |
+| haskoin-core | 1.3.0 | 2026-08-12T01:47:07Z | [open](../records/haskell-haskoin-core-d1e8b046.md) |
 | haskoin-node | 1.4.4 | 2026-08-31T10:32:16Z | [open](../records/haskell-haskoin-node-1a367cf5.md) |
 | haskoin-store | 1.6.3 | 2026-08-31T11:39:07Z | [open](../records/haskell-haskoin-store-cf814559.md) |
 | haskoin-store-data | 1.6.3 | 2026-08-31T11:27:55Z | [open](../records/haskell-haskoin-store-data-232e9cb9.md) |
@@ -3642,7 +3643,7 @@ Records: `4859`
 | secp256k1 | 1.1.2 | 2018-09-02T20:35:48Z | [open](../records/haskell-secp256k1-67f02385.md) |
 | secretspec | 0.20.0 | 2026-08-31T18:05:39Z | [open](../records/haskell-secretspec-dd9d987d.md) |
 | selda | 0.5.2.1 | 2026-01-08T08:33:45Z | [open](../records/haskell-selda-c29bd3d4.md) |
-| semigroupoids | unknown | hackage_package_page_missing | [open](../records/haskell-semigroupoids-ec3e2df3.md) |
+| semigroupoids | 6.0.2 | 2026-01-10T20:49:26Z | [open](../records/haskell-semigroupoids-ec3e2df3.md) |
 | semigroups | 0.20.1 | 2026-01-10T20:32:00Z | [open](../records/haskell-semigroups-1dd26ce3.md) |
 | semiring-num | 1.6.0.4 | 2019-11-23T20:58:21Z | [open](../records/haskell-semiring-num-9a7f01d3.md) |
 | sensu-run | 0.7.0.5 | 2020-02-10T03:41:58Z | [open](../records/haskell-sensu-run-2c1c4ae8.md) |
@@ -3681,7 +3682,7 @@ Records: `4859`
 | srtree | 3.0.0.2 | 2026-08-19T16:57:11Z | [open](../records/haskell-srtree-02456200.md) |
 | stack | 3.11.1 | 2026-06-13T18:40:02Z | [open](../records/haskell-stack-e51612f3.md) |
 | stackage-curator | 0.16.0.0 | 2018-03-11T15:02:32Z | [open](../records/haskell-stackage-curator-50f3d7ab.md) |
-| stackctl | unknown | hackage_package_page_missing | [open](../records/haskell-stackctl-b106262f.md) |
+| stackctl | 1.7.3.7 | 2025-10-17T20:25:59Z | [open](../records/haskell-stackctl-b106262f.md) |
 | StateVar | 1.2.2 | 2021-07-25T15:59:55Z | [open](../records/haskell-statevar-7ccb14ef.md) |
 | statistics | 0.16.5.0 | 2026-01-09T12:35:21Z | [open](../records/haskell-statistics-eb6fbc67.md) |
 | status-notifier-item | 0.3.2.16 | 2026-07-15T20:27:37Z | [open](../records/haskell-status-notifier-item-6d073ec8.md) |
@@ -3728,7 +3729,7 @@ Records: `4859`
 | th-abstraction | 0.7.2.0 | 2026-01-03T14:49:08Z | [open](../records/haskell-th-abstraction-d36f6793.md) |
 | th-lift | 0.8.7 | 2026-01-04T01:10:10Z | [open](../records/haskell-th-lift-d79afb04.md) |
 | th-lift-instances | 0.1.20 | 2022-08-23T09:45:53Z | [open](../records/haskell-th-lift-instances-72a519d5.md) |
-| th-orphans | unknown | hackage_package_page_missing | [open](../records/haskell-th-orphans-d73261bc.md) |
+| th-orphans | 0.13.17 | 2026-01-10T14:46:01Z | [open](../records/haskell-th-orphans-d73261bc.md) |
 | these | 1.2.1 | 2024-05-16T19:49:16Z | [open](../records/haskell-these-b5670620.md) |
 | thyme | 0.4.1 | 2024-12-18T15:28:55Z | [open](../records/haskell-thyme-cdcbe3fa.md) |
 | tidal | 1.10.3 | 2026-07-02T06:32:12Z | [open](../records/haskell-tidal-bf389861.md) |
@@ -3796,7 +3797,7 @@ Records: `4859`
 | werewolf | 1.5.2.0 | 2017-09-22T03:04:51Z | [open](../records/haskell-werewolf-4e762a5c.md) |
 | what4 | 1.8 | 2026-09-01T17:35:26Z | [open](../records/haskell-what4-03a48fd1.md) |
 | Win32 | 2.14.2.2 | 2026-05-27T18:35:08Z | [open](../records/haskell-win32-bd1767d3.md) |
-| witch | unknown | hackage_package_page_missing | [open](../records/haskell-witch-ea4f02ac.md) |
+| witch | 1.4.0.0 | 2026-06-22T14:40:10Z | [open](../records/haskell-witch-ea4f02ac.md) |
 | witherable | 0.5 | 2024-05-17T01:15:14Z | [open](../records/haskell-witherable-b295dba2.md) |
 | wl-pprint-extras | 3.5.0.5 | 2015-06-09T23:21:22Z | [open](../records/haskell-wl-pprint-extras-98a36b15.md) |
 | wl-pprint-terminfo | 3.7.1.4 | 2016-06-22T20:21:18Z | [open](../records/haskell-wl-pprint-terminfo-be8d3210.md) |
@@ -3829,12 +3830,12 @@ Records: `4859`
 | yesod-platform | 1.2.13.3 | 2014-08-25T13:53:51Z | [open](../records/haskell-yesod-platform-cc0166b2.md) |
 | yesod-static | 1.6.1.3 | 2026-06-16T20:33:50Z | [open](../records/haskell-yesod-static-f6ffdea6.md) |
 | Z-Data | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-data-ad2a6ebb.md) |
-| Z-IO | 2.0.0.0 | 2022-11-26T03:59:17Z | [open](../records/haskell-z-io-e37841a7.md) |
-| zeolite-lang | 0.24.1.0 | 2024-01-08T01:25:04Z | [open](../records/haskell-zeolite-lang-121149cb.md) |
-| zeromq4-haskell | 0.8.0 | 2019-03-03T15:15:33Z | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
-| zlib | 0.7.1.1 | 2025-09-06T12:21:07Z | [open](../records/haskell-zlib-2a0db053.md) |
-| zoom-cache | 1.2.1.6 | 2012-12-07T00:08:12Z | [open](../records/haskell-zoom-cache-f1ef611e.md) |
-| zoovisitor | 0.2.7.0 | 2024-05-24T09:11:31Z | [open](../records/haskell-zoovisitor-25533034.md) |
+| Z-IO | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-io-e37841a7.md) |
+| zeolite-lang | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeolite-lang-121149cb.md) |
+| zeromq4-haskell | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
+| zlib | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zlib-2a0db053.md) |
+| zoom-cache | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoom-cache-f1ef611e.md) |
+| zoovisitor | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoovisitor-25533034.md) |
 
 ## Octave
 
@@ -3915,7 +3916,7 @@ Records: `4859`
 | dots_indicator | 4.0.1 | 2025-02-18T22:26:07.852950Z | [open](../records/dart-dots-indicator-d2a61ac9.md) |
 | dotted_border | 3.1.0 | 2025-06-29T06:20:22.230093Z | [open](../records/dart-dotted-border-ae7e47fe.md) |
 | dotted_line | 3.3.0 | 2026-05-30T08:12:25.149789Z | [open](../records/dart-dotted-line-61fd1fd5.md) |
-| drift | 2.34.3 | 2026-07-27T20:26:02.641619Z | [open](../records/dart-drift-2c8ff8ba.md) |
+| drift | 2.34.4 | 2026-09-02T14:42:34.292530Z | [open](../records/dart-drift-2c8ff8ba.md) |
 | dropdown_button2 | 3.1.0 | 2026-04-29T19:32:41.384388Z | [open](../records/dart-dropdown-button2-8b8f8671.md) |
 | dynamic_color | 2.1.0 | 2026-08-20T16:48:11.504485Z | [open](../records/dart-dynamic-color-11eb3505.md) |
 | easy_debounce | 2.0.3 | 2023-01-06T20:32:24.027178Z | [open](../records/dart-easy-debounce-35dcff74.md) |
@@ -4056,7 +4057,7 @@ Records: `4859`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-02T14:05:37Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-02T15:05:05Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4070,7 +4071,7 @@ Records: `4859`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-02T13:53:22Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-02T15:06:32Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -5006,11 +5007,24 @@ Records: `4859`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| apache/drill | partial | 2026-09-01T05:57:00Z | [open](../records/databases-apache-drill-5e3bde8a.md) |
 | clojure.jdbc | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-clojure-jdbc-3ab0e552.md) |
 | cravendb | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-cravendb-f38f9ff5.md) |
 | Datomic | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-datomic-4f9c8bd8.md) |
+| dolphindb/DolphinDBPlugin | partial | 2026-07-20T04:17:42Z | [open](../records/databases-dolphindb-dolphindbplugin-117a11bd.md) |
+| duckdb/duckdb-odbc | partial | 2026-09-02T06:55:46Z | [open](../records/databases-duckdb-duckdb-odbc-3d201108.md) |
+| ebean-orm/ebean | partial | 2026-08-28T22:43:07Z | [open](../records/databases-ebean-orm-ebean-f16dcb8d.md) |
+| gavlyukovskiy/spring-boot-data-source-decorator | partial | 2026-08-31T21:23:16Z | [open](../records/databases-gavlyukovskiy-spring-boot-data-source-decorator-1e09a225.md) |
+| jaygajera17/E-commerce-project-springBoot | partial | 2026-05-08T16:55:30Z | [open](../records/databases-jaygajera17-e-commerce-project-springboot-10bf555d.md) |
+| kagkarlsson/db-scheduler | partial | 2026-08-31T12:55:08Z | [open](../records/databases-kagkarlsson-db-scheduler-284f153e.md) |
+| learning-zone/java-basics | partial | 2024-09-29T17:11:07Z | [open](../records/databases-learning-zone-java-basics-52e1d4c9.md) |
+| pacman82/odbc2parquet | partial | 2026-08-25T16:56:48Z | [open](../records/databases-pacman82-odbc2parquet-98e72b2f.md) |
 | pg\_back | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pg-back-2caa380c.md) |
 | pghoard | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pghoard-00e7248d.md) |
+| spring-projects/spring-data-relational | partial | 2026-09-01T11:41:01Z | [open](../records/databases-spring-projects-spring-data-relational-4dc71488.md) |
+| swaldman/c3p0 | partial | 2026-08-27T19:26:42Z | [open](../records/databases-swaldman-c3p0-610c0ed4.md) |
+| typelevel/doobie | partial | 2026-08-28T03:12:28Z | [open](../records/databases-typelevel-doobie-8033225a.md) |
+| zycgit/hasor | partial | 2022-12-14T20:50:39Z | [open](../records/databases-zycgit-hasor-03670d93.md) |
 
 ## Repository Workplaces
 
@@ -5022,6 +5036,7 @@ Records: `4859`
 | Gitea: Cloud_GitDevSecOps/DevOps | partial | 2025-07-27T11:52:12Z | [open](../records/repository-workplaces-gitea-cloud-gitdevsecops-devops-a02af9b3.md) |
 | Gitea: decheverri123/flutter_library | partial | 2023-07-28T18:41:42Z | [open](../records/repository-workplaces-gitea-decheverri123-flutter-library-197bd7c2.md) |
 | Gitea: DeFiLego/devops | partial | 2025-08-13T10:55:07Z | [open](../records/repository-workplaces-gitea-defilego-devops-855ec672.md) |
+| Gitea: dh.azdevops.othau/dh.azdevops.othau | partial | 2026-01-24T14:38:02Z | [open](../records/repository-workplaces-gitea-dh-azdevops-othau-dh-azdevops-othau-d160d458.md) |
 | Gitea: Elight-dotcom/devops | partial | 2025-11-29T05:46:52Z | [open](../records/repository-workplaces-gitea-elight-dotcom-devops-fedd520e.md) |
 | Gitea: er_man/ithb_e_library | partial | 2026-03-12T14:08:33Z | [open](../records/repository-workplaces-gitea-er-man-ithb-e-library-67ebcdf7.md) |
 | Gitea: fighting7ta/library_management_system | partial | 2025-11-29T11:12:40Z | [open](../records/repository-workplaces-gitea-fighting7ta-library-management-system-6d1ae866.md) |
@@ -5041,16 +5056,19 @@ Records: `4859`
 | Gitea: lunny/weixinapp | partial | 2019-07-12T13:13:22Z | [open](../records/repository-workplaces-gitea-lunny-weixinapp-6304711b.md) |
 | Gitea: lunny/weixinpay | partial | 2019-07-12T13:14:24Z | [open](../records/repository-workplaces-gitea-lunny-weixinpay-043d3749.md) |
 | Gitea: martinliu/DevOpsChina | partial | 2021-12-27T06:14:39Z | [open](../records/repository-workplaces-gitea-martinliu-devopschina-b08aaad7.md) |
+| Gitea: Mrfartam/devops_dron | partial | 2024-09-11T13:09:14Z | [open](../records/repository-workplaces-gitea-mrfartam-devops-dron-f7302c31.md) |
 | Gitea: oxm3nto/Bash-For-Basic-DevOps | partial | 2024-06-02T03:09:35Z | [open](../records/repository-workplaces-gitea-oxm3nto-bash-for-basic-devops-6deb3d49.md) |
 | Gitea: panda99/devops | partial | 2023-07-26T03:06:04Z | [open](../records/repository-workplaces-gitea-panda99-devops-762f09f8.md) |
 | Gitea: Pankajp1997/shared-library | partial | 2025-01-28T15:00:50Z | [open](../records/repository-workplaces-gitea-pankajp1997-shared-library-cdd24cb3.md) |
 | Gitea: PeterJRyan0540/XiPro_Problem_Solving_Library | partial | 2025-01-27T14:17:26Z | [open](../records/repository-workplaces-gitea-peterjryan0540-xipro-problem-solving-library-c9043a7f.md) |
+| Gitea: PS2320/Devops_Notes | partial | 2026-08-31T05:17:58Z | [open](../records/repository-workplaces-gitea-ps2320-devops-notes-a69cdb3d.md) |
 | Gitea: Qikahome/StarveLibrary | partial | 2026-04-02T19:42:23Z | [open](../records/repository-workplaces-gitea-qikahome-starvelibrary-85f740a2.md) |
 | Gitea: RachelGardner/Devops | partial | 2026-05-18T07:41:27Z | [open](../records/repository-workplaces-gitea-rachelgardner-devops-67978e24.md) |
 | Gitea: Scryptica/Bunnyhop-Library | partial | 2026-08-23T09:46:50Z | [open](../records/repository-workplaces-gitea-scryptica-bunnyhop-library-958ef3ad.md) |
 | Gitea: selvakumar-netaji/Library-Management-KAHE | partial | 2026-08-21T14:31:21Z | [open](../records/repository-workplaces-gitea-selvakumar-netaji-library-management-kahe-5a8b602c.md) |
 | Gitea: Shadowchoir/Library-of-Communication | partial | 2020-04-16T15:45:29Z | [open](../records/repository-workplaces-gitea-shadowchoir-library-of-communication-ee0cf6fe.md) |
 | Gitea: siva-praneeth/demo-service-devops | partial | 2026-07-14T08:09:51Z | [open](../records/repository-workplaces-gitea-siva-praneeth-demo-service-devops-c5281f19.md) |
+| Gitea: songjiahao/git-devops-lab | partial | 2026-08-21T07:32:16Z | [open](../records/repository-workplaces-gitea-songjiahao-git-devops-lab-00f87ad5.md) |
 | Gitea: TanThibault/DevOps | partial | 2024-11-25T18:49:33Z | [open](../records/repository-workplaces-gitea-tanthibault-devops-0375ab8c.md) |
 | Gitea: tt3244/libs | partial | 2022-06-16T23:40:44Z | [open](../records/repository-workplaces-gitea-tt3244-libs-f8813d27.md) |
 | Gitea: Vikt0ria0/devops | partial | 2023-12-18T12:19:41Z | [open](../records/repository-workplaces-gitea-vikt0ria0-devops-876b86c8.md) |

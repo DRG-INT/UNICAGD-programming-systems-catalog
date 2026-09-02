@@ -4,23 +4,23 @@
 
 ## Category Index
 
-[Api Abi Checker (190)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (41)](by-category/assertion-mocking.md) · [Async Runtime (125)](by-category/async-runtime.md)
-[Benchmarking (119)](by-category/benchmarking.md) · [Build System (825)](by-category/build-system.md) · [Cli (503)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Api Abi Checker (190)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (42)](by-category/assertion-mocking.md) · [Async Runtime (129)](by-category/async-runtime.md)
+[Benchmarking (123)](by-category/benchmarking.md) · [Build System (827)](by-category/build-system.md) · [Cli (507)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (88)](by-category/community-reference.md) · [Compiler (171)](by-category/compiler.md) · [Compiler Diagnostics (23)](by-category/compiler-diagnostics.md) · [Compression (45)](by-category/compression.md)
-[Concurrency Parallelism (73)](by-category/concurrency-parallelism.md) · [Configuration (100)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (11)](by-category/coverage.md)
-[Cryptography (156)](by-category/cryptography.md) · [Data Science (33)](by-category/data-science.md) · [Database Datastore (754)](by-category/database-datastore.md) · [Datetime (160)](by-category/datetime.md)
+[Concurrency Parallelism (73)](by-category/concurrency-parallelism.md) · [Configuration (101)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (11)](by-category/coverage.md)
+[Cryptography (156)](by-category/cryptography.md) · [Data Science (34)](by-category/data-science.md) · [Database Datastore (774)](by-category/database-datastore.md) · [Datetime (160)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (41)](by-category/debugger.md) · [Dependency Manager (87)](by-category/dependency-manager.md) · [Documentation (88)](by-category/documentation.md)
-[Embedded Hardware (49)](by-category/embedded-hardware.md) · [Ffi Bindings (388)](by-category/ffi-bindings.md) · [Filesystem Os (1213)](by-category/filesystem-os.md) · [Formatter (548)](by-category/formatter.md)
-[Framework (49)](by-category/framework.md) · [Fuzzer (48)](by-category/fuzzer.md) · [Game Engine Game Dev (159)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1145)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (301)](by-category/image-audio-dsp.md) · [Interop Bindings (52)](by-category/interop-bindings.md) · [Interpreter Runtime (234)](by-category/interpreter-runtime.md) · [Jit Vm (56)](by-category/jit-vm.md)
-[Language Server (27)](by-category/language-server.md) · [Language Specification (1237)](by-category/language-specification.md) · [Library (4859)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (41)](by-category/lint-rule-pack.md) · [Linter (346)](by-category/linter.md) · [Logging Observability (394)](by-category/logging-observability.md) · [Machine Learning (594)](by-category/machine-learning.md)
-[Math Numeric Scientific (79)](by-category/math-numeric-scientific.md) · [Memory Analyzer (86)](by-category/memory-analyzer.md) · [Message Broker (32)](by-category/message-broker.md) · [Networking Http (923)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (271)](by-category/package-manager.md) · [Parser Lexer Ast (926)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (262)](by-category/precommit-ci-quality.md)
-[Profiler (72)](by-category/profiler.md) · [Project Scaffolding (120)](by-category/project-scaffolding.md) · [Registry Repository (107)](by-category/registry-repository.md) · [Sanitizer (12)](by-category/sanitizer.md)
-[Security Sast (313)](by-category/security-sast.md) · [Serialization (370)](by-category/serialization.md) · [Standard Library (24)](by-category/standard-library.md) · [Static Analyzer (445)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (498)](by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](by-category/tutorial-book-styleguide.md) · [Type Checker (292)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1400)](by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](by-category/utility-library.md) · [Visualization Gui (415)](by-category/visualization-gui.md) · [Web Framework (411)](by-category/web-framework.md)
+[Embedded Hardware (49)](by-category/embedded-hardware.md) · [Ffi Bindings (390)](by-category/ffi-bindings.md) · [Filesystem Os (1220)](by-category/filesystem-os.md) · [Formatter (548)](by-category/formatter.md)
+[Framework (51)](by-category/framework.md) · [Fuzzer (48)](by-category/fuzzer.md) · [Game Engine Game Dev (159)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1149)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (301)](by-category/image-audio-dsp.md) · [Interop Bindings (55)](by-category/interop-bindings.md) · [Interpreter Runtime (236)](by-category/interpreter-runtime.md) · [Jit Vm (56)](by-category/jit-vm.md)
+[Language Server (27)](by-category/language-server.md) · [Language Specification (1241)](by-category/language-specification.md) · [Library (4877)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (41)](by-category/lint-rule-pack.md) · [Linter (346)](by-category/linter.md) · [Logging Observability (397)](by-category/logging-observability.md) · [Machine Learning (594)](by-category/machine-learning.md)
+[Math Numeric Scientific (79)](by-category/math-numeric-scientific.md) · [Memory Analyzer (86)](by-category/memory-analyzer.md) · [Message Broker (34)](by-category/message-broker.md) · [Networking Http (926)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (278)](by-category/package-manager.md) · [Parser Lexer Ast (928)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (262)](by-category/precommit-ci-quality.md)
+[Profiler (73)](by-category/profiler.md) · [Project Scaffolding (120)](by-category/project-scaffolding.md) · [Registry Repository (107)](by-category/registry-repository.md) · [Sanitizer (12)](by-category/sanitizer.md)
+[Security Sast (314)](by-category/security-sast.md) · [Serialization (370)](by-category/serialization.md) · [Standard Library (24)](by-category/standard-library.md) · [Static Analyzer (448)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (501)](by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](by-category/tutorial-book-styleguide.md) · [Type Checker (292)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (1403)](by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](by-category/utility-library.md) · [Visualization Gui (415)](by-category/visualization-gui.md) · [Web Framework (415)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -1528,6 +1528,7 @@
 | `cran_packages_by_date-7a1672aa2c9c71` | tripaccess | [open](records/r-tripaccess-0baccbbe.md) |
 | `cran_packages_by_date-7a1cc137ad36e8` | sstvars | [open](records/r-sstvars-3c4aef53.md) |
 | `cran_packages_by_date-7a2973eed8dfa1` | influential | [open](records/r-influential-cb5cade5.md) |
+| `cran_packages_by_date-7a33eb277c4eb8` | meteoland | [open](records/r-meteoland-5fc12977.md) |
 | `cran_packages_by_date-7a598058fa7a93` | HistData | [open](records/r-histdata-acb2d974.md) |
 | `cran_packages_by_date-7a6471332ef8ad` | mlr3cluster | [open](records/r-mlr3cluster-7036ddd4.md) |
 | `cran_packages_by_date-7ab8d8a937cc30` | BayesianFitForecast | [open](records/r-bayesianfitforecast-7c579244.md) |
@@ -1633,6 +1634,7 @@
 | `cran_packages_by_date-89dc0bd3644c6d` | ymd | [open](records/r-ymd-038e1765.md) |
 | `cran_packages_by_date-8a023253e92b95` | msigdbr | [open](records/r-msigdbr-b3649ac1.md) |
 | `cran_packages_by_date-8a479ca6b00a2e` | sreg | [open](records/r-sreg-141364e5.md) |
+| `cran_packages_by_date-8a843ff941f614` | SCORPION | [open](records/r-scorpion-7a7d5c40.md) |
 | `cran_packages_by_date-8acf6ee4c88b07` | huge | [open](records/r-huge-4b543849.md) |
 | `cran_packages_by_date-8ae0de8e600ffd` | rpart.plot | [open](records/r-rpart-plot-6d519fd6.md) |
 | `cran_packages_by_date-8ae314403b39bf` | corels | [open](records/r-corels-65f87571.md) |
@@ -1748,6 +1750,7 @@
 | `cran_packages_by_date-9e75391c001dab` | mdendro | [open](records/r-mdendro-cbff920a.md) |
 | `cran_packages_by_date-9ea2480f4e5c93` | picante | [open](records/r-picante-ff1e011a.md) |
 | `cran_packages_by_date-9f046f2b9dbbcf` | commons | [open](records/r-commons-0692a512.md) |
+| `cran_packages_by_date-9f6c7c4e2ddb3e` | parameters | [open](records/r-parameters-a1aa7ce6.md) |
 | `cran_packages_by_date-9f81f31bfc3c60` | quanteda | [open](records/r-quanteda-fa6ac9de.md) |
 | `cran_packages_by_date-9ff21189e9bb7d` | MuPETFlow | [open](records/r-mupetflow-577c92de.md) |
 | `cran_packages_by_date-9ff53cf1562fd8` | arcpbf | [open](records/r-arcpbf-628ea622.md) |
@@ -1960,6 +1963,7 @@
 | `cran_packages_by_date-c6e7fac19230d8` | gert | [open](records/r-gert-5dc82e65.md) |
 | `cran_packages_by_date-c71a1f3c8f5c0d` | sylly.en | [open](records/r-sylly-en-707d70ea.md) |
 | `cran_packages_by_date-c71ec4dbfa24b0` | washr | [open](records/r-washr-e68e3b42.md) |
+| `cran_packages_by_date-c7556408e4dec1` | viewpoly | [open](records/r-viewpoly-6cd65365.md) |
 | `cran_packages_by_date-c7b4d8b5636119` | baselinr | [open](records/r-baselinr-8b5c759c.md) |
 | `cran_packages_by_date-c8326707eda161` | Modeler | [open](records/r-modeler-4dbf9177.md) |
 | `cran_packages_by_date-c86dac0cfedc89` | soilVAE | [open](records/r-soilvae-55b34e7a.md) |
@@ -2233,6 +2237,7 @@
 | `cran_packages_by_date-f422424564e3a8` | netsimhelpers | [open](records/r-netsimhelpers-daf69dbf.md) |
 | `cran_packages_by_date-f44d0739ec43c2` | ic.infer | [open](records/r-ic-infer-85eea075.md) |
 | `cran_packages_by_date-f4569e8456e053` | rKraken | [open](records/r-rkraken-901a4ba1.md) |
+| `cran_packages_by_date-f45babf811d554` | TBRDist | [open](records/r-tbrdist-107223ec.md) |
 | `cran_packages_by_date-f4e903eb3102a0` | nimbleMacros | [open](records/r-nimblemacros-731a53b0.md) |
 | `cran_packages_by_date-f52d50f8a86d0b` | nlmixr2 | [open](records/r-nlmixr2-adfec204.md) |
 | `cran_packages_by_date-f58bfaed438a01` | DEoptimR | [open](records/r-deoptimr-fe7549d5.md) |
@@ -4953,6 +4958,7 @@
 | `curated_repository_workplace_routes-ff2bb58901aedc` | Codeberg | [open](records/repository-workplaces-codeberg-5d24942a.md) |
 | `gitea_repositories_api-0303230998d64e` | Gitea: everestcompilerwilder/Everest--THE-compiler-from-normie-python-to-microbit-micropython- | [open](records/repository-workplaces-gitea-everestcompilerwilder-everest-the-compiler-from-normie-python-to-microbit-micropython-e924ad2f.md) |
 | `gitea_repositories_api-036ecd3b142d1d` | Gitea: intsigdev/devops | [open](records/repository-workplaces-gitea-intsigdev-devops-1aca4b40.md) |
+| `gitea_repositories_api-04590eebaf8955` | Gitea: songjiahao/git-devops-lab | [open](records/repository-workplaces-gitea-songjiahao-git-devops-lab-00f87ad5.md) |
 | `gitea_repositories_api-0682940a9e6154` | Gitea: VitorDiv/devops-pipeline | [open](records/repository-workplaces-gitea-vitordiv-devops-pipeline-b7f831c7.md) |
 | `gitea_repositories_api-06a7bea14e1822` | Gitea: Azuma/ASCII-To-Hexadecimal | [open](records/repository-workplaces-gitea-azuma-ascii-to-hexadecimal-a6c9bbae.md) |
 | `gitea_repositories_api-07f9c7c2b63628` | Gitea: ks/devops | [open](records/repository-workplaces-gitea-ks-devops-df7f89af.md) |
@@ -4980,6 +4986,7 @@
 | `gitea_repositories_api-182b0b76f3673e` | Gitea: kriper2005/OP5Documentation | [open](records/repository-workplaces-gitea-kriper2005-op5documentation-ef340f06.md) |
 | `gitea_repositories_api-1a46dc32a88959` | Gitea: artemikevse/database.py | [open](records/repository-workplaces-gitea-artemikevse-database-py-d191c26c.md) |
 | `gitea_repositories_api-1a5e07a59e769c` | Gitea: sillyguodong/asciicast_test | [open](records/repository-workplaces-gitea-sillyguodong-asciicast-test-bbac7031.md) |
+| `gitea_repositories_api-1b3f7086162dd5` | Gitea: dh.azdevops.othau/dh.azdevops.othau | [open](records/repository-workplaces-gitea-dh-azdevops-othau-dh-azdevops-othau-d160d458.md) |
 | `gitea_repositories_api-1bdbba75a5668e` | Gitea: portellam2/guest-machine-guide | [open](records/repository-workplaces-gitea-portellam2-guest-machine-guide-87454a0c.md) |
 | `gitea_repositories_api-1dd2e8fddba91b` | Gitea: we8tguivdbsd/21eyay8qeyciubaya | [open](records/repository-workplaces-gitea-we8tguivdbsd-21eyay8qeyciubaya-47fe49cc.md) |
 | `gitea_repositories_api-1e0c4db1b84530` | Gitea: sivajothi/DevOpsDemo | [open](records/repository-workplaces-gitea-sivajothi-devopsdemo-8506bea8.md) |
@@ -5035,6 +5042,7 @@
 | `gitea_repositories_api-43223a8e45f02b` | Gitea: Praseodym/NaturalLanguageProcessing | [open](records/repository-workplaces-gitea-praseodym-naturallanguageprocessing-468cbaa6.md) |
 | `gitea_repositories_api-43a36b4f5602bd` | Gitea: vallu/ascii_eng | [open](records/repository-workplaces-gitea-vallu-ascii-eng-13c4106a.md) |
 | `gitea_repositories_api-44c8757525a36f` | Gitea: chopin42/TheShapeLibrary | [open](records/repository-workplaces-gitea-chopin42-theshapelibrary-98cadc43.md) |
+| `gitea_repositories_api-46248494522c2b` | Gitea: lcark/gitea | [open](records/repository-workplaces-gitea-lcark-gitea-ab4a7bf0.md) |
 | `gitea_repositories_api-474741db67a4e7` | Gitea: DsyO/ai-wechat-article-library | [open](records/repository-workplaces-gitea-dsyo-ai-wechat-article-library-9e311b4c.md) |
 | `gitea_repositories_api-479ea948259400` | Gitea: unatick/1panel-runtime-update | [open](records/repository-workplaces-gitea-unatick-1panel-runtime-update-98638045.md) |
 | `gitea_repositories_api-48679d7007f7dd` | Gitea: Shadowchoir/Library-of-Communication | [open](records/repository-workplaces-gitea-shadowchoir-library-of-communication-ee0cf6fe.md) |
@@ -5044,6 +5052,7 @@
 | `gitea_repositories_api-4ba3f272fe77b5` | Gitea: freezmeinster/apisix-docker | [open](records/repository-workplaces-gitea-freezmeinster-apisix-docker-88600e8a.md) |
 | `gitea_repositories_api-4cf10ee0c71b46` | Gitea: Qikahome/StarveLibrary | [open](records/repository-workplaces-gitea-qikahome-starvelibrary-85f740a2.md) |
 | `gitea_repositories_api-4dddb2901ce9f4` | Gitea: huijipacks/go-json | [open](records/repository-workplaces-gitea-huijipacks-go-json-e60158be.md) |
+| `gitea_repositories_api-4e4f56a55e38e0` | Gitea: PS2320/Devops_Notes | [open](records/repository-workplaces-gitea-ps2320-devops-notes-a69cdb3d.md) |
 | `gitea_repositories_api-4eb10eb65ce335` | Gitea: tionis/external-lfs-server-bug | [open](records/repository-workplaces-gitea-tionis-external-lfs-server-bug-4e705431.md) |
 | `gitea_repositories_api-508fe856a67a5b` | Gitea: zhangxian/Data-Server | [open](records/repository-workplaces-gitea-zhangxian-data-server-d4f062f7.md) |
 | `gitea_repositories_api-50af53af382bbd` | Gitea: webixbest/best-iptv-server | [open](records/repository-workplaces-gitea-webixbest-best-iptv-server-b8e49d1f.md) |
@@ -5058,6 +5067,7 @@
 | `gitea_repositories_api-5955831f042ea6` | Gitea: APYieldFarmer/devops | [open](records/repository-workplaces-gitea-apyieldfarmer-devops-0041de3d.md) |
 | `gitea_repositories_api-5a6ab174086f25` | Gitea: ElliotRedmond/Achieve-Cisco-300-730-Certification-Success--Your-Strategic-Partner-with-CertsBoard | [open](records/repository-workplaces-gitea-elliotredmond-achieve-cisco-300-730-certification-success-your-strategic-partner-with-certsboard-45c77640.md) |
 | `gitea_repositories_api-5abad1c4e6779c` | Gitea: ML-Programs/ml-programming-language | [open](records/repository-workplaces-gitea-ml-programs-ml-programming-language-36acdbba.md) |
+| `gitea_repositories_api-5d0beb0a822522` | Gitea: dh.azdevops.logs/dh.azdevops.logs | [open](records/repository-workplaces-gitea-dh-azdevops-logs-dh-azdevops-logs-10e39849.md) |
 | `gitea_repositories_api-5ea5bb268c0b21` | Gitea: plumbum/esim-server | [open](records/repository-workplaces-gitea-plumbum-esim-server-717006d2.md) |
 | `gitea_repositories_api-5f21c5b024fef1` | Gitea: Cloud_GitDevSecOps/Database | [open](records/repository-workplaces-gitea-cloud-gitdevsecops-database-98cecc5c.md) |
 | `gitea_repositories_api-611a28154fe17f` | Gitea: afzal/bangladesh-land-law-treatise | [open](records/repository-workplaces-gitea-afzal-bangladesh-land-law-treatise-8fcb7e22.md) |
@@ -5072,6 +5082,7 @@
 | `gitea_repositories_api-68bbd8edb746b8` | Gitea: w1t1ski/aifs_forecast_library | [open](records/repository-workplaces-gitea-w1t1ski-aifs-forecast-library-b13f26ca.md) |
 | `gitea_repositories_api-69bd8408a80886` | Gitea: PeterJRyan0540/XiPro_Problem_Solving_Library | [open](records/repository-workplaces-gitea-peterjryan0540-xipro-problem-solving-library-c9043a7f.md) |
 | `gitea_repositories_api-6b99f84d2bf2f2` | Gitea: selvakumar-netaji/Library-Management-KAHE | [open](records/repository-workplaces-gitea-selvakumar-netaji-library-management-kahe-5a8b602c.md) |
+| `gitea_repositories_api-6c89f495447785` | Gitea: marco.fullstack2/devops_test | [open](records/repository-workplaces-gitea-marco-fullstack2-devops-test-054aeba6.md) |
 | `gitea_repositories_api-6ccc27a5540ccb` | Gitea: RiceField-Plugins/LibraryDependencies | [open](records/repository-workplaces-gitea-ricefield-plugins-librarydependencies-4aaea462.md) |
 | `gitea_repositories_api-6ce58a05f5e528` | Gitea: KirilKirilov96/devops | [open](records/repository-workplaces-gitea-kirilkirilov96-devops-9f15a57e.md) |
 | `gitea_repositories_api-6cfa830bf6e4fe` | Gitea: DongHyeokChoi/DATABASE-PROJECT | [open](records/repository-workplaces-gitea-donghyeokchoi-database-project-e7fb6743.md) |
@@ -5099,7 +5110,10 @@
 | `gitea_repositories_api-839241ab2882d5` | Gitea: shikanime/documentation | [open](records/repository-workplaces-gitea-shikanime-documentation-40af38e4.md) |
 | `gitea_repositories_api-87e5faa942b577` | Gitea: ArceusXArchivezx/GUI-LIBRARY | [open](records/repository-workplaces-gitea-arceusxarchivezx-gui-library-db1c459a.md) |
 | `gitea_repositories_api-88d781cdbf4ace` | Gitea: JaffarNasir/188BET--Discover-the-Exciting-World-of-Casino-188BET | [open](records/repository-workplaces-gitea-jaffarnasir-188bet-discover-the-exciting-world-of-casino-188bet-7fdea9a1.md) |
+| `gitea_repositories_api-8be7467c7795b8` | Gitea: kapil786151/gitea | [open](records/repository-workplaces-gitea-kapil786151-gitea-13e88d87.md) |
+| `gitea_repositories_api-8c8bb382ecd17e` | Gitea: imzbf/gitea | [open](records/repository-workplaces-gitea-imzbf-gitea-dea3091e.md) |
 | `gitea_repositories_api-8d3f71dfd7e7a8` | Gitea: palmcoasty/bunkerweb | [open](records/repository-workplaces-gitea-palmcoasty-bunkerweb-ad9b3891.md) |
+| `gitea_repositories_api-8e64351f2f4dd9` | Gitea: marktsai0316/gitea | [open](records/repository-workplaces-gitea-marktsai0316-gitea-da3631dc.md) |
 | `gitea_repositories_api-8f1235617751b5` | Gitea: linusified/isjsruntime | [open](records/repository-workplaces-gitea-linusified-isjsruntime-83a73a71.md) |
 | `gitea_repositories_api-8f9c00798ee87c` | Gitea: 6lin/sbcl | [open](records/repository-workplaces-gitea-6lin-sbcl-f57192a2.md) |
 | `gitea_repositories_api-914c5d2fc4879f` | Gitea: yeyuanjie/gorm-oracle | [open](records/repository-workplaces-gitea-yeyuanjie-gorm-oracle-4b6b7053.md) |
@@ -5121,16 +5135,19 @@
 | `gitea_repositories_api-a7df55b5d167d8` | Gitea: panda99/devops | [open](records/repository-workplaces-gitea-panda99-devops-762f09f8.md) |
 | `gitea_repositories_api-a8787d0e3ffb8e` | Gitea: IvanDorokhov/DevOps | [open](records/repository-workplaces-gitea-ivandorokhov-devops-5c18814f.md) |
 | `gitea_repositories_api-a9b9ed9f92ed13` | Gitea: Scryptica/Bunnyhop-Library | [open](records/repository-workplaces-gitea-scryptica-bunnyhop-library-958ef3ad.md) |
+| `gitea_repositories_api-a9e37254b3dbaa` | Gitea: donsenxu/gitea | [open](records/repository-workplaces-gitea-donsenxu-gitea-01b1797c.md) |
 | `gitea_repositories_api-aa8a617d3c23a5` | Gitea: Gangavarapu/BOA-VISA-ConfigServer | [open](records/repository-workplaces-gitea-gangavarapu-boa-visa-configserver-08d8af85.md) |
 | `gitea_repositories_api-ab79882ce5f23b` | Gitea: LorenzoSoncini/auth-server | [open](records/repository-workplaces-gitea-lorenzosoncini-auth-server-ec34a1c3.md) |
 | `gitea_repositories_api-ab9812b65881ec` | Gitea: FLARECC/librarys | [open](records/repository-workplaces-gitea-flarecc-librarys-c2df93ae.md) |
 | `gitea_repositories_api-ac152be54bd6c3` | Gitea: WeLovePaperAPI/documentation | [open](records/repository-workplaces-gitea-welovepaperapi-documentation-89d69f6a.md) |
+| `gitea_repositories_api-ac92b99fa30472` | Gitea: Mrfartam/devops_dron | [open](records/repository-workplaces-gitea-mrfartam-devops-dron-f7302c31.md) |
 | `gitea_repositories_api-ad2cade7f3e54f` | Gitea: ozzora9/dataBaseProject | [open](records/repository-workplaces-gitea-ozzora9-databaseproject-6a849e42.md) |
 | `gitea_repositories_api-ad4c0f02e9dead` | Gitea: liangruisen/action-setup | [open](records/repository-workplaces-gitea-liangruisen-action-setup-434563ff.md) |
 | `gitea_repositories_api-ae92fccb3b2395` | Gitea: siva-praneeth/demo-service-devops | [open](records/repository-workplaces-gitea-siva-praneeth-demo-service-devops-c5281f19.md) |
 | `gitea_repositories_api-b06feab9cc42fb` | Gitea: cristiancuastumal/Agencia-de-viajes | [open](records/repository-workplaces-gitea-cristiancuastumal-agencia-de-viajes-5cfc5e24.md) |
 | `gitea_repositories_api-b0e53fd7a4bfbb` | Gitea: best_iptv_2026/Best-IPTV-Service-Features-Pricing-and-Provider-Guide | [open](records/repository-workplaces-gitea-best-iptv-2026-best-iptv-service-features-pricing-and-provider-guide-b9885a99.md) |
 | `gitea_repositories_api-b13058b51dc0d6` | Gitea: Betsy/Aplicacion | [open](records/repository-workplaces-gitea-betsy-aplicacion-781d4ca4.md) |
+| `gitea_repositories_api-b14ab440c895d1` | Gitea: preaching963/gitea | [open](records/repository-workplaces-gitea-preaching963-gitea-24d48715.md) |
 | `gitea_repositories_api-b2747c5d9e6e51` | Gitea: qiushaocloud/code-server-docker | [open](records/repository-workplaces-gitea-qiushaocloud-code-server-docker-21f8a493.md) |
 | `gitea_repositories_api-b2f1b9bfac3517` | Gitea: arvin.zhang/ftpserver | [open](records/repository-workplaces-gitea-arvin-zhang-ftpserver-63abbca5.md) |
 | `gitea_repositories_api-b42affe7feecbd` | Gitea: admpub/ftpserver | [open](records/repository-workplaces-gitea-admpub-ftpserver-f1e4497d.md) |
@@ -5152,6 +5169,7 @@
 | `gitea_repositories_api-c6c2203bff6b0f` | Gitea: Befaci03/collab-vm-1.2-server-bettetweak | [open](records/repository-workplaces-gitea-befaci03-collab-vm-1-2-server-bettetweak-82605f6b.md) |
 | `gitea_repositories_api-c6fd0e412bbe7c` | Gitea: MokhovEvgeniiGennadevich/2023-same-in-languages | [open](records/repository-workplaces-gitea-mokhovevgeniigennadevich-2023-same-in-languages-0f876282.md) |
 | `gitea_repositories_api-c773d0f697cfd3` | Gitea: fighting7ta/library_management_system | [open](records/repository-workplaces-gitea-fighting7ta-library-management-system-6d1ae866.md) |
+| `gitea_repositories_api-c8710cd0c487b7` | Gitea: dh.azdevops.pipeline/dh.azdevops.pipeline | [open](records/repository-workplaces-gitea-dh-azdevops-pipeline-dh-azdevops-pipeline-2d51c7c4.md) |
 | `gitea_repositories_api-c8a640e6419763` | Gitea: sowen1023/coco-server | [open](records/repository-workplaces-gitea-sowen1023-coco-server-6922e537.md) |
 | `gitea_repositories_api-c9a66904ecded2` | Gitea: kklives2/librarys-repo | [open](records/repository-workplaces-gitea-kklives2-librarys-repo-d6947740.md) |
 | `gitea_repositories_api-c9d98a65538594` | Gitea: catnipteaparty/empirical-reasoning-language-model | [open](records/repository-workplaces-gitea-catnipteaparty-empirical-reasoning-language-model-1e621f6a.md) |
@@ -5160,6 +5178,7 @@
 | `gitea_repositories_api-cb8782db548906` | Gitea: pmr-inanepain/auth | [open](records/repository-workplaces-gitea-pmr-inanepain-auth-fb7f966f.md) |
 | `gitea_repositories_api-cc97ff02a5cc51` | Gitea: lunny/size | [open](records/repository-workplaces-gitea-lunny-size-39ab5da8.md) |
 | `gitea_repositories_api-ccd79d0467b38d` | Gitea: serpdotai/Chat-LLaMA-8bit-LoRA | [open](records/repository-workplaces-gitea-serpdotai-chat-llama-8bit-lora-19437960.md) |
+| `gitea_repositories_api-cd77c68f1ad95f` | Gitea: dco/gitea | [open](records/repository-workplaces-gitea-dco-gitea-31572b86.md) |
 | `gitea_repositories_api-ce6cae9f49c91a` | Gitea: tayande/ascii-art | [open](records/repository-workplaces-gitea-tayande-ascii-art-456fbf06.md) |
 | `gitea_repositories_api-cfc7f5d5a2fa39` | Gitea: Anaya56/ElectricPowerSteering_ECU_EPS_Documentation | [open](records/repository-workplaces-gitea-anaya56-electricpowersteering-ecu-eps-documentation-a1f789e2.md) |
 | `gitea_repositories_api-d08d823458b562` | Gitea: Pankajp1997/shared-library | [open](records/repository-workplaces-gitea-pankajp1997-shared-library-cdd24cb3.md) |
@@ -5196,6 +5215,7 @@
 | `gitea_repositories_api-f1d640be748fad` | Gitea: XenaScripts/XenaLibraryX | [open](records/repository-workplaces-gitea-xenascripts-xenalibraryx-f3fd6078.md) |
 | `gitea_repositories_api-f67693e30cd14f` | Gitea: avevlad/act | [open](records/repository-workplaces-gitea-avevlad-act-716d3cec.md) |
 | `gitea_repositories_api-f6a90dd0095731` | Gitea: evgeniy-antonyuk/DocSpace-server | [open](records/repository-workplaces-gitea-evgeniy-antonyuk-docspace-server-e16c0ba8.md) |
+| `gitea_repositories_api-f75bfb14c2ce7b` | Gitea: sagerxiao/gitea | [open](records/repository-workplaces-gitea-sagerxiao-gitea-c3953eeb.md) |
 | `gitea_repositories_api-f7b6b17a03579f` | Gitea: pmr-inanepain/stdlib | [open](records/repository-workplaces-gitea-pmr-inanepain-stdlib-06e1bbe5.md) |
 | `gitea_repositories_api-f8364cbac80e0c` | Gitea: martinliu/DevOpsChina | [open](records/repository-workplaces-gitea-martinliu-devopschina-b08aaad7.md) |
 | `gitea_repositories_api-f88b0a1465d9d3` | Gitea: matoka/etaCompiler | [open](records/repository-workplaces-gitea-matoka-etacompiler-7a21e0c6.md) |
@@ -6299,10 +6319,15 @@
 | `github_search_cocoa-fbb1e8a2566f1c` | microsoft/fluentui-apple | [open](records/cocoa-microsoft-fluentui-apple-c58d8099.md) |
 | `github_search_cocoa-fc3f4f9b9e82e2` | wordpress-mobile/AztecEditor-iOS | [open](records/cocoa-wordpress-mobile-azteceditor-ios-ce242705.md) |
 | `github_search_cocoa-febb1ba2376305` | sindresorhus/Settings | [open](records/cocoa-sindresorhus-settings-337d8458.md) |
+| `github_search_databases-0128a6b2a879ab` | hibernate/hibernate-orm | [open](records/databases-hibernate-hibernate-orm-fc00d398.md) |
+| `github_search_databases-016a893ae34b3f` | seancorfield/next-jdbc | [open](records/databases-seancorfield-next-jdbc-f28adceb.md) |
 | `github_search_databases-01c99004055410` | gluesql/gluesql | [open](records/databases-gluesql-gluesql-13df10e7.md) |
 | `github_search_databases-0267d220ad4a9b` | isar/hive | [open](records/databases-isar-hive-c92a6c20.md) |
 | `github_search_databases-02da7dfc2aa1f3` | cube2222/octosql | [open](records/databases-cube2222-octosql-cab58556.md) |
 | `github_search_databases-06ae1aad79e87f` | epsilla-cloud/vectordb | [open](records/databases-epsilla-cloud-vectordb-e5e95855.md) |
+| `github_search_databases-0871bca7e74763` | jdbc-observations/datasource-proxy | [open](records/databases-jdbc-observations-datasource-proxy-2bf56772.md) |
+| `github_search_databases-0a3119062e7854` | h2database/h2database | [open](records/databases-h2database-h2database-efc01145.md) |
+| `github_search_databases-0a9cf8e4bc1f66` | baztian/jaydebeapi | [open](records/databases-baztian-jaydebeapi-dc2ab2ed.md) |
 | `github_search_databases-0c04b8cfb003fc` | pinecone-io/canopy | [open](records/databases-pinecone-io-canopy-d7262f2c.md) |
 | `github_search_databases-0c354d54d510b0` | LLPhant/LLPhant | [open](records/databases-llphant-llphant-9b8eacd1.md) |
 | `github_search_databases-0d08c2c56afb06` | matrixorigin/matrixone | [open](records/databases-matrixorigin-matrixone-8c9f5a32.md) |
@@ -6327,6 +6352,9 @@
 | `github_search_databases-15942235cb5636` | apache/incubator-pegasus | [open](records/databases-apache-incubator-pegasus-7ce631b5.md) |
 | `github_search_databases-15c3cd3eb95c84` | Nozbe/WatermelonDB | [open](records/databases-nozbe-watermelondb-40dcc1ed.md) |
 | `github_search_databases-173f2525a41a05` | CodisLabs/codis | [open](records/databases-codislabs-codis-2fbfa490.md) |
+| `github_search_databases-177934703e8cfa` | opentracing-contrib/java-spring-cloud | [open](records/databases-opentracing-contrib-java-spring-cloud-7790ec99.md) |
+| `github_search_databases-188e6aec3ca0b2` | babyfish-ct/jimmer | [open](records/databases-babyfish-ct-jimmer-9ee1c78e.md) |
+| `github_search_databases-19a08c46cc504b` | SOCI/soci | [open](records/databases-soci-soci-d7c36c2b.md) |
 | `github_search_databases-1a1b9465512a7d` | mongodb/mongo-ruby-driver | [open](records/databases-mongodb-mongo-ruby-driver-094f2530.md) |
 | `github_search_databases-1b8dc038c93938` | skyzh/write-you-a-vector-db | [open](records/databases-skyzh-write-you-a-vector-db-16d5344e.md) |
 | `github_search_databases-1c5add106f4653` | CodeAbra/iai-personal-memory-engine | [open](records/databases-codeabra-iai-personal-memory-engine-13773b4e.md) |
@@ -6334,18 +6362,25 @@
 | `github_search_databases-1f31582e78b0c4` | oramasearch/orama | [open](records/databases-oramasearch-orama-c7b7d315.md) |
 | `github_search_databases-1f60f24d2885da` | StarTrail-org/LEANN | [open](records/databases-startrail-org-leann-a6b16bc8.md) |
 | `github_search_databases-1f8cb84bf0f9a3` | crate/crate | [open](records/databases-crate-crate-20858887.md) |
+| `github_search_databases-208884f6d10264` | ygvn/IPv6-Subnet-Calculator-Tool-CSharp | [open](records/databases-ygvn-ipv6-subnet-calculator-tool-csharp-45fd6ecb.md) |
 | `github_search_databases-219ab282ddbf0a` | paradedb/paradedb | [open](records/databases-paradedb-paradedb-f07ab96f.md) |
+| `github_search_databases-21db0d8cbf4b0f` | softace/sqliteodbc | [open](records/databases-softace-sqliteodbc-4afb4159.md) |
 | `github_search_databases-2229870d0af028` | sqlmapproject/sqlmap | [open](records/databases-sqlmapproject-sqlmap-11b3c1ea.md) |
 | `github_search_databases-234f6606191d49` | SeekStorm/SeekStorm | [open](records/databases-seekstorm-seekstorm-a592c97e.md) |
 | `github_search_databases-24873960b9a5b3` | SheetJS/sheetjs | [open](records/databases-sheetjs-sheetjs-8657dc9b.md) |
+| `github_search_databases-24e51e7803c774` | apache/linkis | [open](records/databases-apache-linkis-70a1f4b2.md) |
+| `github_search_databases-250aea00bfd54c` | zio/zio-quill | [open](records/databases-zio-zio-quill-ba2c736d.md) |
 | `github_search_databases-267db768c532f5` | alibaba/zvec | [open](records/databases-alibaba-zvec-99659847.md) |
 | `github_search_databases-26d1f2d37c102b` | dotnet/efcore | [open](records/databases-dotnet-efcore-f57314d7.md) |
 | `github_search_databases-276f28ede4653c` | Mintplex-Labs/vector-admin | [open](records/databases-mintplex-labs-vector-admin-90dbe9c3.md) |
 | `github_search_databases-2862508aa97874` | pathwaycom/llm-app | [open](records/databases-pathwaycom-llm-app-200fc9af.md) |
 | `github_search_databases-291998b4f384a0` | doableware/djongo | [open](records/databases-doableware-djongo-55b89aa7.md) |
+| `github_search_databases-2a719c93d20d04` | AnghelLeonard/Hibernate-SpringBoot | [open](records/databases-anghelleonard-hibernate-springboot-ad555e27.md) |
 | `github_search_databases-2b6a898d0e0daf` | go-sql-driver/mysql | [open](records/databases-go-sql-driver-mysql-f2d64d6f.md) |
+| `github_search_databases-2c5a4540442bae` | Koka/odbc-rs | [open](records/databases-koka-odbc-rs-22556c1f.md) |
 | `github_search_databases-2c98c8b718b2cd` | danny-avila/rag_api | [open](records/databases-danny-avila-rag-api-13cf38f8.md) |
 | `github_search_databases-2f483266c07037` | typicode/lowdb | [open](records/databases-typicode-lowdb-305affaa.md) |
+| `github_search_databases-3061a2a2e30349` | apache/spark | [open](records/databases-apache-spark-8676d6b2.md) |
 | `github_search_databases-30ca9f991bed8f` | dragonflydb/dragonfly | [open](records/databases-dragonflydb-dragonfly-fdf6559c.md) |
 | `github_search_databases-3123e99571b6da` | lancedb/lancedb | [open](records/databases-lancedb-lancedb-e66822c2.md) |
 | `github_search_databases-31ed541dd2253e` | gyoogle/tech-interview-for-developer | [open](records/databases-gyoogle-tech-interview-for-developer-dc2a8dbb.md) |
@@ -6363,6 +6398,7 @@
 | `github_search_databases-3a6c8fab00902c` | distributedio/titan | [open](records/databases-distributedio-titan-2725f29d.md) |
 | `github_search_databases-3b3ce37b2ba7b2` | madd86/awesome-system-design | [open](records/databases-madd86-awesome-system-design-0804bf87.md) |
 | `github_search_databases-3be1e7a4e5461b` | Tencent/wcdb | [open](records/databases-tencent-wcdb-5041db9d.md) |
+| `github_search_databases-3c6c1482746e65` | jasync-sql/jasync-sql | [open](records/databases-jasync-sql-jasync-sql-155dc14a.md) |
 | `github_search_databases-3ca2f28cbeedac` | redis/redis | [open](records/databases-redis-redis-110f7316.md) |
 | `github_search_databases-3d455502cc0de4` | questdb/questdb | [open](records/databases-questdb-questdb-cb22f378.md) |
 | `github_search_databases-3dc0ee8f904031` | OtterMind/Chat2DB | [open](records/databases-ottermind-chat2db-a37fa72f.md) |
@@ -6376,45 +6412,67 @@
 | `github_search_databases-428577520fbd9e` | metabase/metabase | [open](records/databases-metabase-metabase-3a69762d.md) |
 | `github_search_databases-4380ed35e13889` | memvid/memvid | [open](records/databases-memvid-memvid-85e03b2f.md) |
 | `github_search_databases-45606711d94502` | dgraph-io/badger | [open](records/databases-dgraph-io-badger-fed32884.md) |
+| `github_search_databases-4607cd65438620` | blue-yonder/turbodbc | [open](records/databases-blue-yonder-turbodbc-e971a9c5.md) |
 | `github_search_databases-4647c5fe588bb8` | pubkey/rxdb | [open](records/databases-pubkey-rxdb-d6f509c0.md) |
 | `github_search_databases-4702e98056875f` | memgraph/memgraph | [open](records/databases-memgraph-memgraph-19c28ec0.md) |
 | `github_search_databases-4884c209cd6ce9` | Mithril-mine/libmdbx | [open](records/databases-mithril-mine-libmdbx-ec7af8f0.md) |
 | `github_search_databases-488d1ab796855d` | kuzudb/kuzu | [open](records/databases-kuzudb-kuzu-1b78fc97.md) |
 | `github_search_databases-48cc3a69f49d47` | grandnode/grandnode2 | [open](records/databases-grandnode-grandnode2-f27a8b8d.md) |
+| `github_search_databases-48d01fa4b113e9` | ebean-orm/ebean | [open](records/databases-ebean-orm-ebean-f16dcb8d.md) |
 | `github_search_databases-4a0bc9e5ebc65f` | pilgr/Paper | [open](records/databases-pilgr-paper-4bec3683.md) |
 | `github_search_databases-4a10e992a605a0` | yongman/tidis | [open](records/databases-yongman-tidis-294d7dc0.md) |
 | `github_search_databases-4a121cea92f8fd` | kantord/SeaGOAT | [open](records/databases-kantord-seagoat-e1571aa9.md) |
 | `github_search_databases-4b663399f2edec` | infinispan/infinispan | [open](records/databases-infinispan-infinispan-d1cf9b60.md) |
+| `github_search_databases-4bfc68d85f5a3d` | micronaut-projects/micronaut-data | [open](records/databases-micronaut-projects-micronaut-data-9f93118f.md) |
+| `github_search_databases-4c31cb45ed39fd` | scalikejdbc/scalikejdbc | [open](records/databases-scalikejdbc-scalikejdbc-66110b6c.md) |
 | `github_search_databases-4c6480addfbdbe` | vanna-ai/vanna | [open](records/databases-vanna-ai-vanna-93ed50c7.md) |
+| `github_search_databases-4dd20374ce9b23` | dbkangaroo/kangaroo | [open](records/databases-dbkangaroo-kangaroo-cb5596c5.md) |
+| `github_search_databases-4eb7507b018a27` | JuliaDatabases/ODBC.jl | [open](records/databases-juliadatabases-odbc-jl-84bdf61c.md) |
+| `github_search_databases-4f10394ccd2cfa` | apache/drill | [open](records/databases-apache-drill-5e3bde8a.md) |
 | `github_search_databases-504cdf968f7807` | Softmotions/ejdb | [open](records/databases-softmotions-ejdb-70c4b6fe.md) |
 | `github_search_databases-5065e520314b54` | neural-maze/ava-whatsapp-agent-course | [open](records/databases-neural-maze-ava-whatsapp-agent-course-16548b94.md) |
+| `github_search_databases-5095f25a8d1d57` | shzlw/poli | [open](records/databases-shzlw-poli-beee279d.md) |
 | `github_search_databases-510f111ecbcc5b` | timescale/timescaledb | [open](records/databases-timescale-timescaledb-a9f2409b.md) |
+| `github_search_databases-5112b38a224b07` | FirebirdSQL/firebird-odbc-driver | [open](records/databases-firebirdsql-firebird-odbc-driver-ecdf8052.md) |
+| `github_search_databases-51738f7c120963` | X1r0z/JNDIMap | [open](records/databases-x1r0z-jndimap-51139cd4.md) |
 | `github_search_databases-5204e0b58e3ca2` | VectifyAI/PageIndex | [open](records/databases-vectifyai-pageindex-856593c6.md) |
+| `github_search_databases-526dfd851f1050` | Licoy/watchdog-framework | [open](records/databases-licoy-watchdog-framework-ce3e4dd7.md) |
+| `github_search_databases-52cdcec7559a20` | jdbi/jdbi | [open](records/databases-jdbi-jdbi-3cc6bc95.md) |
+| `github_search_databases-52e29f7f6a6610` | specmatic/specmatic | [open](records/databases-specmatic-specmatic-995f3f36.md) |
 | `github_search_databases-554c373ceae7b5` | JKHeadley/rest-hapi | [open](records/databases-jkheadley-rest-hapi-11c0a4c0.md) |
+| `github_search_databases-56e66f4ce2eec1` | znone/qtl | [open](records/databases-znone-qtl-4a168333.md) |
 | `github_search_databases-570b9d72fa65b6` | nestjs/typeorm | [open](records/databases-nestjs-typeorm-3312e1e4.md) |
 | `github_search_databases-578e79736916fb` | orientechnologies/orientdb | [open](records/databases-orientechnologies-orientdb-583f5aed.md) |
 | `github_search_databases-59ae8e0e51df1e` | lioensky/VCPToolBox | [open](records/databases-lioensky-vcptoolbox-7835fe3a.md) |
+| `github_search_databases-5b197b7fd81e40` | pgjdbc/pgjdbc | [open](records/databases-pgjdbc-pgjdbc-2feb3a76.md) |
+| `github_search_databases-5bd08c810457ff` | mkleehammer/pyodbc | [open](records/databases-mkleehammer-pyodbc-1babb273.md) |
+| `github_search_databases-5c30d3b23641a2` | equinor/tagreader-python | [open](records/databases-equinor-tagreader-python-3fca5a77.md) |
 | `github_search_databases-5d09ebe61013e1` | dgraph-io/dgraph | [open](records/databases-dgraph-io-dgraph-d8a0cd12.md) |
 | `github_search_databases-5d0a6e92998331` | volcengine/MineContext | [open](records/databases-volcengine-minecontext-175b292e.md) |
 | `github_search_databases-5e835793d419cf` | dzharii/awesome-elasticsearch | [open](records/databases-dzharii-awesome-elasticsearch-81171c8b.md) |
 | `github_search_databases-5eea95ea213802` | codingo/NoSQLMap | [open](records/databases-codingo-nosqlmap-92ab6758.md) |
 | `github_search_databases-5f0420bb944d11` | The-Vibe-Company/quivr | [open](records/databases-the-vibe-company-quivr-58a307c7.md) |
+| `github_search_databases-60307d02b7acab` | dolphindb/DolphinDBPlugin | [open](records/databases-dolphindb-dolphindbplugin-117a11bd.md) |
 | `github_search_databases-6110aa6d454161` | Netflix/dynomite | [open](records/databases-netflix-dynomite-bbdaecf5.md) |
 | `github_search_databases-62fde72bdc85cb` | run-llama/llama_index | [open](records/databases-run-llama-llama-index-1ae4495a.md) |
 | `github_search_databases-63fe4f0caa36fc` | vesoft-inc/nebula | [open](records/databases-vesoft-inc-nebula-ddaede03.md) |
 | `github_search_databases-6481a23384330a` | geldata/gel | [open](records/databases-geldata-gel-a5e3c51e.md) |
 | `github_search_databases-670f61e2fb2344` | baidu/tera | [open](records/databases-baidu-tera-d6493d61.md) |
+| `github_search_databases-68096669e725f7` | Wisser/Jailer | [open](records/databases-wisser-jailer-b572d87a.md) |
 | `github_search_databases-680f7747e5a09a` | dbcli/mycli | [open](records/databases-dbcli-mycli-1357562c.md) |
 | `github_search_databases-68350608c46225` | zilliztech/VectorDBBench | [open](records/databases-zilliztech-vectordbbench-67fe0d9f.md) |
 | `github_search_databases-6990c83e63759c` | prisma/prisma1 | [open](records/databases-prisma-prisma1-3cff6fc2.md) |
 | `github_search_databases-6a007c39d55878` | realm/realm-swift | [open](records/databases-realm-realm-swift-da686512.md) |
 | `github_search_databases-6a1a22fa4f6a37` | NirDiamant/RAG_Techniques | [open](records/databases-nirdiamant-rag-techniques-836fe306.md) |
 | `github_search_databases-6ab2bae0df60dc` | PoloDB/PoloDB | [open](records/databases-polodb-polodb-e3557cfb.md) |
+| `github_search_databases-6ab826985a4956` | aio-libs/aioodbc | [open](records/databases-aio-libs-aioodbc-8b3e0b93.md) |
 | `github_search_databases-6b1811228d817a` | duckdb/duckdb | [open](records/databases-duckdb-duckdb-654530e3.md) |
 | `github_search_databases-6c298c308b3be1` | skaiworldwide-oss/agensgraph | [open](records/databases-skaiworldwide-oss-agensgraph-e4229279.md) |
 | `github_search_databases-6ce5b0f899c43c` | supervc-stack/VectorChord | [open](records/databases-supervc-stack-vectorchord-d893b8c0.md) |
 | `github_search_databases-6cf8be11b0c2d0` | dynamodb-toolbox/dynamodb-toolbox | [open](records/databases-dynamodb-toolbox-dynamodb-toolbox-ae559802.md) |
 | `github_search_databases-6d3adad19d6996` | qdrant/qdrant | [open](records/databases-qdrant-qdrant-461c624b.md) |
+| `github_search_databases-6e53c675dcc1bf` | altairbow/django-db-connection-pool | [open](records/databases-altairbow-django-db-connection-pool-7cfa1326.md) |
+| `github_search_databases-6ff91b6477d88f` | schemacrawler/SchemaCrawler | [open](records/databases-schemacrawler-schemacrawler-9a9c89e5.md) |
 | `github_search_databases-7011f049242dfa` | boltdb/bolt | [open](records/databases-boltdb-bolt-1e1b16b8.md) |
 | `github_search_databases-70e0ce105eba55` | PostgREST/postgrest | [open](records/databases-postgrest-postgrest-a1bcbeac.md) |
 | `github_search_databases-70e14464ccc5b2` | giancarloerra/SocratiCode | [open](records/databases-giancarloerra-socraticode-bcc8ee56.md) |
@@ -6427,23 +6485,31 @@
 | `github_search_databases-745174a9e9c06d` | neo4j/neo4j | [open](records/databases-neo4j-neo4j-1651d75a.md) |
 | `github_search_databases-752cf81683ce60` | etcd-io/etcd | [open](records/databases-etcd-io-etcd-25594f23.md) |
 | `github_search_databases-75ac936be8e9f6` | rqlite/rqlite | [open](records/databases-rqlite-rqlite-61a88f3e.md) |
+| `github_search_databases-76587224d91601` | Whoopsunix/JavaRce | [open](records/databases-whoopsunix-javarce-7faca6e0.md) |
+| `github_search_databases-76cbe87a02f5f7` | weavejester/ragtime | [open](records/databases-weavejester-ragtime-b149a386.md) |
 | `github_search_databases-76ec4d93b27010` | geek-fun/dockit | [open](records/databases-geek-fun-dockit-c1accc8d.md) |
 | `github_search_databases-79ac034d2ef0b4` | ravendb/ravendb | [open](records/databases-ravendb-ravendb-ca22686a.md) |
 | `github_search_databases-7a9b6b352be3ee` | apache/lucene-solr | [open](records/databases-apache-lucene-solr-fb225570.md) |
 | `github_search_databases-7b3832fd8bf30d` | encoredev/encore | [open](records/databases-encoredev-encore-b1a45646.md) |
 | `github_search_databases-7ba79c2d9cf1ed` | meilisearch/meilisearch | [open](records/databases-meilisearch-meilisearch-ed455824.md) |
 | `github_search_databases-7bdbb82046532e` | qdrant/qdrant-client | [open](records/databases-qdrant-qdrant-client-c2e262b3.md) |
+| `github_search_databases-7c228b36c9a8c4` | arnaudroger/SimpleFlatMapper | [open](records/databases-arnaudroger-simpleflatmapper-bed9a08c.md) |
 | `github_search_databases-7c30e54364a301` | orneryd/NornicDB | [open](records/databases-orneryd-nornicdb-5e8fdc92.md) |
 | `github_search_databases-7d42a6e951ccfc` | NeumTry/NeumAI | [open](records/databases-neumtry-neumai-6142b9fb.md) |
 | `github_search_databases-7d7cfe48608619` | directus/directus | [open](records/databases-directus-directus-1a9841eb.md) |
+| `github_search_databases-7e3e7257309498` | spring-petclinic/spring-petclinic-rest | [open](records/databases-spring-petclinic-spring-petclinic-rest-f513982a.md) |
+| `github_search_databases-805c511f53ee86` | 4ra1n/mysql-fake-server | [open](records/databases-4ra1n-mysql-fake-server-c9a98cb5.md) |
+| `github_search_databases-809c6d7bfbf522` | jOOQ/jOOQ | [open](records/databases-jooq-jooq-5d0aabf0.md) |
 | `github_search_databases-81dfd67fc592e6` | golang-migrate/migrate | [open](records/databases-golang-migrate-migrate-1713bacf.md) |
 | `github_search_databases-82314ac36d3224` | tidwall/summitdb | [open](records/databases-tidwall-summitdb-13457d91.md) |
 | `github_search_databases-827af065e495a8` | ClaudioDrews/memory-os | [open](records/databases-claudiodrews-memory-os-37ef1a47.md) |
 | `github_search_databases-82ae3207e33e0d` | facebook/rocksdb | [open](records/databases-facebook-rocksdb-a5b51900.md) |
 | `github_search_databases-82f6029217c3e4` | apache/pouchdb | [open](records/databases-apache-pouchdb-13275ac3.md) |
+| `github_search_databases-84872d56d322d3` | zycgit/hasor | [open](records/databases-zycgit-hasor-03670d93.md) |
 | `github_search_databases-84a436d5f5f3a2` | MariaDB/server | [open](records/databases-mariadb-server-574f45f3.md) |
 | `github_search_databases-84c465713ba3df` | postgresml/postgresml | [open](records/databases-postgresml-postgresml-be8a439a.md) |
 | `github_search_databases-8517dca1db01e3` | mongodb/mongo-cxx-driver | [open](records/databases-mongodb-mongo-cxx-driver-457d57a9.md) |
+| `github_search_databases-8641f048d55792` | MyCATApache/Mycat2 | [open](records/databases-mycatapache-mycat2-7558f130.md) |
 | `github_search_databases-86771cb9bdd8e5` | weaviate/weaviate | [open](records/databases-weaviate-weaviate-956b3133.md) |
 | `github_search_databases-8892553b126594` | mongodb/mongo | [open](records/databases-mongodb-mongo-277cd77e.md) |
 | `github_search_databases-894c1e3071aafc` | vasu-devs/JustHireMe | [open](records/databases-vasu-devs-justhireme-b00ae36b.md) |
@@ -6451,6 +6517,7 @@
 | `github_search_databases-8b89843f59cda8` | dingodb/dingo | [open](records/databases-dingodb-dingo-78d057f3.md) |
 | `github_search_databases-8dde1b9f780f96` | spatie/laravel-schemaless-attributes | [open](records/databases-spatie-laravel-schemaless-attributes-b47e28be.md) |
 | `github_search_databases-8e066a279ed6b9` | milvus-io/pymilvus | [open](records/databases-milvus-io-pymilvus-f6a8adf0.md) |
+| `github_search_databases-8e4f67ae81c6cf` | x-ream/sqli | [open](records/databases-x-ream-sqli-bd8b199c.md) |
 | `github_search_databases-8eda9f08a2d947` | ClickHouse/ClickHouse | [open](records/databases-clickhouse-clickhouse-9258f880.md) |
 | `github_search_databases-8fdedf98dac203` | debezium/debezium | [open](records/databases-debezium-debezium-a3d23ff7.md) |
 | `github_search_databases-9067a57703ba14` | realm/realm-java | [open](records/databases-realm-realm-java-af8bcf7b.md) |
@@ -6464,38 +6531,55 @@
 | `github_search_databases-95281be0ae614a` | weaviate/recipes | [open](records/databases-weaviate-recipes-113b16c1.md) |
 | `github_search_databases-959ffdcf31d167` | Intrect-io/OpenSwarm | [open](records/databases-intrect-io-openswarm-59b98056.md) |
 | `github_search_databases-9681796475be3a` | apache/lucene | [open](records/databases-apache-lucene-85981dbd.md) |
+| `github_search_databases-973482c5c9363d` | learning-zone/java-basics | [open](records/databases-learning-zone-java-basics-52e1d4c9.md) |
 | `github_search_databases-97fa8a8c4e425c` | vespa-engine/vespa | [open](records/databases-vespa-engine-vespa-f6a2d921.md) |
 | `github_search_databases-980e5126b56f3d` | peremartra/Large-Language-Model-Notebooks-Course | [open](records/databases-peremartra-large-language-model-notebooks-course-ce2e9d7b.md) |
+| `github_search_databases-981d26f09986f3` | xerial/sqlite-jdbc | [open](records/databases-xerial-sqlite-jdbc-0e9f9048.md) |
 | `github_search_databases-987ba59e48be6b` | doobidoo/mcp-memory-service | [open](records/databases-doobidoo-mcp-memory-service-1f3af65d.md) |
 | `github_search_databases-9959ae373e3f5c` | CaviraOSS/LongMemory | [open](records/databases-caviraoss-longmemory-7c32bdd6.md) |
 | `github_search_databases-9987ef22c0832f` | JetBrains/xodus | [open](records/databases-jetbrains-xodus-04be983b.md) |
 | `github_search_databases-9ab24c3a0061c4` | sql-js/sql.js | [open](records/databases-sql-js-sql-js-ab84d5fd.md) |
+| `github_search_databases-9bc2282240d386` | DeanRoddey/CIDLib | [open](records/databases-deanroddey-cidlib-5c2bd133.md) |
+| `github_search_databases-9f0d5c187ce45b` | housepower/ClickHouse-Native-JDBC | [open](records/databases-housepower-clickhouse-native-jdbc-8cec0869.md) |
 | `github_search_databases-a0b7dc6fef3080` | ArcadeData/arcadedb | [open](records/databases-arcadedata-arcadedb-23b789da.md) |
 | `github_search_databases-a2942fa6cbf71d` | authorizerdev/authorizer | [open](records/databases-authorizerdev-authorizer-2f7b65c9.md) |
 | `github_search_databases-a36ae79a38a5a1` | zilliztech/attu | [open](records/databases-zilliztech-attu-4bfbaaae.md) |
 | `github_search_databases-a4f1dc844f759a` | taosdata/TDengine | [open](records/databases-taosdata-tdengine-57f74fd3.md) |
 | `github_search_databases-a5066b82b7ea47` | apache/iotdb | [open](records/databases-apache-iotdb-b6bf919e.md) |
 | `github_search_databases-a57e9bd38bd905` | datalevin/datalevin | [open](records/databases-datalevin-datalevin-fd00132f.md) |
+| `github_search_databases-a718322893d9c2` | lionheart/django-pyodbc | [open](records/databases-lionheart-django-pyodbc-c6078181.md) |
+| `github_search_databases-a77dd7f727833f` | brettwooldridge/HikariCP | [open](records/databases-brettwooldridge-hikaricp-4189650c.md) |
 | `github_search_databases-a7c24559665022` | milvus-io/milvus | [open](records/databases-milvus-io-milvus-8ad33119.md) |
 | `github_search_databases-a801408fdb5395` | appbaseio/dejavu | [open](records/databases-appbaseio-dejavu-cac2e2c6.md) |
 | `github_search_databases-a8452bf3e81691` | reorproject/reor | [open](records/databases-reorproject-reor-6601e7a1.md) |
 | `github_search_databases-a8d5e4effca771` | pixeltable/pixeltable | [open](records/databases-pixeltable-pixeltable-ad627e6f.md) |
+| `github_search_databases-a8e2b72d0fcbf5` | dotnetcore/FreeSql | [open](records/databases-dotnetcore-freesql-be272c12.md) |
 | `github_search_databases-a9081bdbc5d0bf` | sinaptik-ai/pandas-ai | [open](records/databases-sinaptik-ai-pandas-ai-51421c6b.md) |
 | `github_search_databases-a9193d52ec88ba` | neondatabase/neon | [open](records/databases-neondatabase-neon-3c375148.md) |
+| `github_search_databases-a92497e421150b` | tokio-rs/rdbc | [open](records/databases-tokio-rs-rdbc-9ff423ba.md) |
+| `github_search_databases-a961fd0c16274d` | ClickHouse/clickhouse-odbc | [open](records/databases-clickhouse-clickhouse-odbc-7cfc6ac3.md) |
 | `github_search_databases-ab02469f0cdaa3` | StarRocks/starrocks | [open](records/databases-starrocks-starrocks-fa80e1a7.md) |
 | `github_search_databases-abc378e45720f1` | citusdata/citus | [open](records/databases-citusdata-citus-5748489c.md) |
 | `github_search_databases-ac2c8f01f5e01f` | topoteretes/cognee | [open](records/databases-topoteretes-cognee-d13897a6.md) |
 | `github_search_databases-ac8f1e275900f9` | terminusdb/terminusdb | [open](records/databases-terminusdb-terminusdb-a8652993.md) |
 | `github_search_databases-adb1601d0d50ed` | chartdb/chartdb | [open](records/databases-chartdb-chartdb-227bd0d2.md) |
 | `github_search_databases-adf7d0ad8b9707` | featureform/featureform | [open](records/databases-featureform-featureform-0152ab5b.md) |
+| `github_search_databases-ae3c11583778f4` | typelevel/doobie | [open](records/databases-typelevel-doobie-8033225a.md) |
 | `github_search_databases-afd78d800b5019` | parthsarthi03/raptor | [open](records/databases-parthsarthi03-raptor-aabfb858.md) |
+| `github_search_databases-b06678c245692b` | confluentinc/examples | [open](records/databases-confluentinc-examples-3b680d5c.md) |
 | `github_search_databases-b0ffff206671fc` | t8y2/dbx | [open](records/databases-t8y2-dbx-97368a4a.md) |
 | `github_search_databases-b1e4116438f88d` | guang19/framework-learning | [open](records/databases-guang19-framework-learning-16651c7a.md) |
 | `github_search_databases-b41d89b5af0786` | forthespada/CS-Books | [open](records/databases-forthespada-cs-books-d0b6b9dd.md) |
+| `github_search_databases-b47bf8b0b826ef` | p6spy/p6spy | [open](records/databases-p6spy-p6spy-2c3d2ab8.md) |
+| `github_search_databases-b5428a477cdfa5` | swaldman/c3p0 | [open](records/databases-swaldman-c3p0-610c0ed4.md) |
 | `github_search_databases-b7c53e8fd74d78` | grandnode/grandnode | [open](records/databases-grandnode-grandnode-bb4d9898.md) |
+| `github_search_databases-ba3ca55315c609` | gaarason/database-all | [open](records/databases-gaarason-database-all-d3d852e3.md) |
+| `github_search_databases-ba43fd69bc6fdb` | ClickHouse/clickhouse-java | [open](records/databases-clickhouse-clickhouse-java-55cf8dd6.md) |
+| `github_search_databases-bac4a2ab297483` | dromara/easy-query | [open](records/databases-dromara-easy-query-b3c029c2.md) |
 | `github_search_databases-bae78ed88b4131` | upper/db | [open](records/databases-upper-db-2a4c803a.md) |
 | `github_search_databases-bc0287a90d54e7` | PrithivirajDamodaran/FlashRank | [open](records/databases-prithivirajdamodaran-flashrank-be447af3.md) |
 | `github_search_databases-bccfa519a25b3f` | dolthub/dolt | [open](records/databases-dolthub-dolt-702548e2.md) |
+| `github_search_databases-bced9ff6a81ca6` | jaygajera17/E-commerce-project-springBoot | [open](records/databases-jaygajera17-e-commerce-project-springboot-10bf555d.md) |
 | `github_search_databases-bcf91ed051c6c0` | tursodatabase/turso | [open](records/databases-tursodatabase-turso-bd117065.md) |
 | `github_search_databases-bd5a3d7d0230ea` | clockworklabs/SpacetimeDB | [open](records/databases-clockworklabs-spacetimedb-dd3f9779.md) |
 | `github_search_databases-bf819248551b50` | cockroachdb/cockroach | [open](records/databases-cockroachdb-cockroach-dfc5f249.md) |
@@ -6507,10 +6591,14 @@
 | `github_search_databases-c27a01093683ab` | skytable/skytable | [open](records/databases-skytable-skytable-522468ff.md) |
 | `github_search_databases-c28940d75ddff0` | kossakovsky/selfhost-ai | [open](records/databases-kossakovsky-selfhost-ai-b4f9a555.md) |
 | `github_search_databases-c28c49173c01fb` | databendlabs/databend | [open](records/databases-databendlabs-databend-be0cfdcc.md) |
+| `github_search_databases-c326ac7fa18c36` | pacman82/odbc2parquet | [open](records/databases-pacman82-odbc2parquet-98e72b2f.md) |
+| `github_search_databases-c3b43a208649e7` | tomekw/hikari-cp | [open](records/databases-tomekw-hikari-cp-2e63717e.md) |
 | `github_search_databases-c5351f69459145` | sqlitebrowser/sqlitebrowser | [open](records/databases-sqlitebrowser-sqlitebrowser-30722f99.md) |
+| `github_search_databases-c6bd587ca32422` | apache/kyuubi | [open](records/databases-apache-kyuubi-29762e0a.md) |
 | `github_search_databases-c7a9fb343d5538` | dicedb/dicedb | [open](records/databases-dicedb-dicedb-ba1cb8a6.md) |
 | `github_search_databases-c7e5d731baf00d` | art049/odmantic | [open](records/databases-art049-odmantic-81efbc63.md) |
 | `github_search_databases-cac62aa130f08e` | strapdata/elassandra | [open](records/databases-strapdata-elassandra-2ff59de9.md) |
+| `github_search_databases-cbd86a8f16444e` | pypyodbc/pypyodbc | [open](records/databases-pypyodbc-pypyodbc-45213421.md) |
 | `github_search_databases-cbe824602224cb` | kysely-org/kysely | [open](records/databases-kysely-org-kysely-0eff4c79.md) |
 | `github_search_databases-cbfe877b195fe6` | lancedb/vectordb-recipes | [open](records/databases-lancedb-vectordb-recipes-00a1ab16.md) |
 | `github_search_databases-cc31678649875a` | SkywalkerDarren/chatWeb | [open](records/databases-skywalkerdarren-chatweb-13dcdc64.md) |
@@ -6520,21 +6608,36 @@
 | `github_search_databases-cf94276d6e6b5e` | RediSearch/RediSearch | [open](records/databases-redisearch-redisearch-a6984a5f.md) |
 | `github_search_databases-d1ba0532744186` | arangodb/arangodb | [open](records/databases-arangodb-arangodb-c8c240b5.md) |
 | `github_search_databases-d263fda6cb8865` | apache/doris | [open](records/databases-apache-doris-48052ae4.md) |
+| `github_search_databases-d29f7de370601b` | jklingsporn/vertx-jooq | [open](records/databases-jklingsporn-vertx-jooq-46b3e423.md) |
 | `github_search_databases-d3b6fc1a69f2b7` | dbcli/pgcli | [open](records/databases-dbcli-pgcli-df04d56c.md) |
 | `github_search_databases-d48ed7b461f424` | endee-io/endee | [open](records/databases-endee-io-endee-1dce9830.md) |
+| `github_search_databases-d68781c3e33e01` | domaframework/doma | [open](records/databases-domaframework-doma-188a30ea.md) |
 | `github_search_databases-d8320fc71f3d14` | symisc/unqlite | [open](records/databases-symisc-unqlite-1ec3a767.md) |
 | `github_search_databases-d8a3c4786456b1` | chroma-core/chroma | [open](records/databases-chroma-core-chroma-4683632f.md) |
 | `github_search_databases-dad1ac7dc6ac38` | gristlabs/grist-core | [open](records/databases-gristlabs-grist-core-d8e14d49.md) |
 | `github_search_databases-dafdc74080fdc1` | valkey-io/valkey | [open](records/databases-valkey-io-valkey-076b87d0.md) |
 | `github_search_databases-db120c85c7a85c` | zilliztech/deep-searcher | [open](records/databases-zilliztech-deep-searcher-901b7398.md) |
+| `github_search_databases-dd021004791f2c` | rupurt/odbc-scanner-duckdb-extension | [open](records/databases-rupurt-odbc-scanner-duckdb-extension-71eefae9.md) |
 | `github_search_databases-dd7491905f6520` | griddb/griddb | [open](records/databases-griddb-griddb-b48b6432.md) |
+| `github_search_databases-df70430da19ca4` | r-dbi/odbc | [open](records/databases-r-dbi-odbc-5581dcde.md) |
+| `github_search_databases-df75046b407511` | netrusov/ZabbixDBA | [open](records/databases-netrusov-zabbixdba-28ea349f.md) |
+| `github_search_databases-dfb130acbb1291` | jupyter-xeus/xeus-sql | [open](records/databases-jupyter-xeus-xeus-sql-561f1402.md) |
+| `github_search_databases-e0da42cd687235` | marsupilami79/zeoslib | [open](records/databases-marsupilami79-zeoslib-f93693d1.md) |
+| `github_search_databases-e183b9e9ae6353` | davidmoten/rxjava2-jdbc | [open](records/databases-davidmoten-rxjava2-jdbc-7f82410a.md) |
+| `github_search_databases-e1918c53aae8c3` | spring-projects/spring-data-relational | [open](records/databases-spring-projects-spring-data-relational-4dc71488.md) |
+| `github_search_databases-e1fe32ebf13599` | gavlyukovskiy/spring-boot-data-source-decorator | [open](records/databases-gavlyukovskiy-spring-boot-data-source-decorator-1e09a225.md) |
 | `github_search_databases-e2be7ff9c1d2bc` | activeloopai/deeplake | [open](records/databases-activeloopai-deeplake-8b22558d.md) |
 | `github_search_databases-e392945e56f0ba` | OpenAtomFoundation/pikiwidb | [open](records/databases-openatomfoundation-pikiwidb-007b1f05.md) |
+| `github_search_databases-e52eabb456df4f` | kagkarlsson/db-scheduler | [open](records/databases-kagkarlsson-db-scheduler-284f153e.md) |
+| `github_search_databases-e6f1c9118ae022` | cooperl22/laravel-db2 | [open](records/databases-cooperl22-laravel-db2-7e6a4b52.md) |
 | `github_search_databases-e77f773b1dbb49` | couchbase/couchbase-lite-ios | [open](records/databases-couchbase-couchbase-lite-ios-6c0953f5.md) |
 | `github_search_databases-e79eaa280ea2d9` | dunwu/db-tutorial | [open](records/databases-dunwu-db-tutorial-30877982.md) |
+| `github_search_databases-e7a62e44d50fbb` | mdbtools/mdbtools | [open](records/databases-mdbtools-mdbtools-ad4c57b6.md) |
 | `github_search_databases-e954e29e859c11` | tensorchord/pgvecto.rs | [open](records/databases-tensorchord-pgvecto-rs-b33836fc.md) |
+| `github_search_databases-e9ae6ad0560826` | shashirajraja/onlinebookstore | [open](records/databases-shashirajraja-onlinebookstore-f5ef7b71.md) |
 | `github_search_databases-eb02e58c4e7101` | beekeeper-studio/beekeeper-studio | [open](records/databases-beekeeper-studio-beekeeper-studio-a999ac61.md) |
 | `github_search_databases-ebb877cd525eb5` | mongodb/node-mongodb-native | [open](records/databases-mongodb-node-mongodb-native-de777c0a.md) |
+| `github_search_databases-ebfb464e1815df` | requery/requery | [open](records/databases-requery-requery-85762cf6.md) |
 | `github_search_databases-ec3ce8c71b40e7` | genkit-ai/genkit | [open](records/databases-genkit-ai-genkit-d1a3caa1.md) |
 | `github_search_databases-edc49d54eb7ad4` | neuml/txtai | [open](records/databases-neuml-txtai-68c30186.md) |
 | `github_search_databases-edd18f39dcd1d3` | googleapis/mcp-toolbox | [open](records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
@@ -6543,17 +6646,23 @@
 | `github_search_databases-f0bb295bbd0f33` | apache/zookeeper | [open](records/databases-apache-zookeeper-3f9970e6.md) |
 | `github_search_databases-f0ef1d3a4de08e` | manticoresoftware/manticoresearch | [open](records/databases-manticoresoftware-manticoresearch-bdec8759.md) |
 | `github_search_databases-f0f09d20840c9f` | alash3al/redix | [open](records/databases-alash3al-redix-0b1086db.md) |
+| `github_search_databases-f0f84ac9530e71` | impossibl/pgjdbc-ng | [open](records/databases-impossibl-pgjdbc-ng-63791c56.md) |
 | `github_search_databases-f16d331b79086f` | liyupi/yu-ai-agent | [open](records/databases-liyupi-yu-ai-agent-5d53c5e5.md) |
 | `github_search_databases-f2ae3710c28693` | zuoyebang/bitalostored | [open](records/databases-zuoyebang-bitalostored-c95c33a2.md) |
 | `github_search_databases-f395aaf6482bce` | dhamaniasad/awesome-postgres | [open](records/databases-dhamaniasad-awesome-postgres-fe1c0890.md) |
 | `github_search_databases-f41342c0346c8c` | StarlightSearch/EmbedAnything | [open](records/databases-starlightsearch-embedanything-c6c25210.md) |
+| `github_search_databases-f5452770a3637c` | thingsboard/thingsboard-gateway | [open](records/databases-thingsboard-thingsboard-gateway-aa05e06b.md) |
+| `github_search_databases-f591701e6326f9` | ianmcook/implyr | [open](records/databases-ianmcook-implyr-ee4f59c4.md) |
 | `github_search_databases-f69f0bc9495615` | oceanbase/oceanbase | [open](records/databases-oceanbase-oceanbase-8d26f652.md) |
+| `github_search_databases-f6b6ac959ddcd2` | duckdb/duckdb-odbc | [open](records/databases-duckdb-duckdb-odbc-3d201108.md) |
 | `github_search_databases-f706a0ba6cb949` | influxdata/influxdb | [open](records/databases-influxdata-influxdb-1fb47735.md) |
 | `github_search_databases-f756ac95433ee9` | Mintplex-Labs/anything-llm | [open](records/databases-mintplex-labs-anything-llm-1f2ed9ad.md) |
 | `github_search_databases-f794277b13936a` | Ontos-AI/knowhere | [open](records/databases-ontos-ai-knowhere-fbe4c98b.md) |
+| `github_search_databases-f7ad966c07a868` | nanodbc/nanodbc | [open](records/databases-nanodbc-nanodbc-97a75e2a.md) |
 | `github_search_databases-f7f2c1a88c277c` | RedisGraph/RedisGraph | [open](records/databases-redisgraph-redisgraph-60d02d69.md) |
 | `github_search_databases-f8fadb0b10bdfc` | Asabeneh/30-Days-Of-Python | [open](records/databases-asabeneh-30-days-of-python-d36bd185.md) |
 | `github_search_databases-f9b031e72bc2cd` | rehacktive/caffeine | [open](records/databases-rehacktive-caffeine-7ba154b8.md) |
+| `github_search_databases-f9bc7e87164fd0` | quick-perf/quickperf | [open](records/databases-quick-perf-quickperf-2926abba.md) |
 | `github_search_databases-fa0ca90249e355` | tywalch/electrodb | [open](records/databases-tywalch-electrodb-2b4b6894.md) |
 | `github_search_databases-fa29363fc1fb35` | objectbox/objectbox-java | [open](records/databases-objectbox-objectbox-java-aa127825.md) |
 | `github_search_databases-fa8d2555a21739` | NirDiamant/Agent_Memory_Techniques | [open](records/databases-nirdiamant-agent-memory-techniques-b838c024.md) |
@@ -18341,6 +18450,7 @@
 | `npm_registry-1f2af6a4c797f7` | slf | [open](records/node-js-javascript-slf-d3a9769c.md) |
 | `npm_registry-1f5b21fd8dbf9e` | @postman/tunnel-agent | [open](records/node-js-javascript-postman-tunnel-agent-35b427d1.md) |
 | `npm_registry-1f5fa2efdfb96a` | server-destroy | [open](records/node-js-javascript-server-destroy-b5d1e648.md) |
+| `npm_registry-1f612177dde8ba` | vite-plugin-mock-dev-server | [open](records/node-js-javascript-vite-plugin-mock-dev-server-8d11b0f1.md) |
 | `npm_registry-1f80d60d895241` | @jackietreeh0rn/homebridge-blink-security | [open](records/node-js-javascript-jackietreeh0rn-homebridge-blink-security-20d7c668.md) |
 | `npm_registry-1f82df322998cd` | @loglayer/transport-pino | [open](records/node-js-javascript-loglayer-transport-pino-6a268bf7.md) |
 | `npm_registry-1f91290fe6778c` | cli-simple-table | [open](records/node-js-javascript-cli-simple-table-5aad5bbc.md) |
@@ -18773,6 +18883,7 @@
 | `npm_registry-454649a0096efa` | @techdocs/cli | [open](records/node-js-javascript-techdocs-cli-d77e4e4e.md) |
 | `npm_registry-458311249aef0b` | dmdb | [open](records/node-js-javascript-dmdb-b0877ac1.md) |
 | `npm_registry-45b0984816c6de` | prettier-config-xo | [open](records/node-js-javascript-prettier-config-xo-5499a639.md) |
+| `npm_registry-45be8a8f6f03f9` | @constructive-io/cli | [open](records/node-js-javascript-constructive-io-cli-b6550957.md) |
 | `npm_registry-45dd0422daf77d` | @logtail/core | [open](records/node-js-javascript-logtail-core-4904c429.md) |
 | `npm_registry-45f33b0c5e48b2` | eslint-plugin-security-node | [open](records/node-js-javascript-eslint-plugin-security-node-99d5ea53.md) |
 | `npm_registry-46128a216ba530` | karma-mocha-reporter | [open](records/node-js-javascript-karma-mocha-reporter-77823c81.md) |
