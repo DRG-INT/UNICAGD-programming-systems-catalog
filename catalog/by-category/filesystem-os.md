@@ -1,6 +1,6 @@
 # Filesystem Os
 
-Records: `1160`
+Records: `1181`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `1160`
 ## Category Index
 
 [Api Abi Checker (180)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (122)](async-runtime.md)
-[Benchmarking (110)](benchmarking.md) · [Build System (803)](build-system.md) · [Cli (492)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (110)](benchmarking.md) · [Build System (806)](build-system.md) · [Cli (495)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (83)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
-[Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (97)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
+[Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (99)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (154)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (687)](database-datastore.md) · [Datetime (157)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (83)](dependency-manager.md) · [Documentation (80)](documentation.md)
-[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (380)](ffi-bindings.md) · **[Filesystem Os (1160)](filesystem-os.md)** · [Formatter (542)](formatter.md)
-[Framework (47)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (153)](game-engine-game-dev.md) · [Ide Editor Integration (1115)](ide-editor-integration.md)
+[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (380)](ffi-bindings.md) · **[Filesystem Os (1181)](filesystem-os.md)** · [Formatter (542)](formatter.md)
+[Framework (47)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (153)](game-engine-game-dev.md) · [Ide Editor Integration (1117)](ide-editor-integration.md)
 [Image Audio Dsp (292)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (227)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
 [Language Server (27)](language-server.md) · [Language Specification (1223)](language-specification.md) · [Library (4765)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (386)](logging-observability.md) · [Machine Learning (572)](machine-learning.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (386)](logging-observability.md) · [Machine Learning (574)](machine-learning.md)
 [Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (76)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (906)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (260)](package-manager.md) · [Parser Lexer Ast (895)](parser-lexer-ast.md) · [Precommit Ci Quality (259)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (260)](package-manager.md) · [Parser Lexer Ast (899)](parser-lexer-ast.md) · [Precommit Ci Quality (259)](precommit-ci-quality.md)
 [Profiler (68)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
 [Security Sast (311)](security-sast.md) · [Serialization (367)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (426)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (492)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (286)](type-checker.md)
-[Undefined Behavior Analyzer (1361)](undefined-behavior-analyzer.md) · [Utility Library (92)](utility-library.md) · [Visualization Gui (413)](visualization-gui.md) · [Web Framework (388)](web-framework.md)
+[Undefined Behavior Analyzer (1362)](undefined-behavior-analyzer.md) · [Utility Library (92)](utility-library.md) · [Visualization Gui (413)](visualization-gui.md) · [Web Framework (388)](web-framework.md)
 
 ## C++23
 
@@ -558,7 +558,7 @@ Records: `1160`
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-08-30T15:02:19Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-02T02:32:41Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-02T03:00:22Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -576,7 +576,7 @@ Records: `1160`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| f/prompts.chat | partial | 2026-09-01T03:19:49Z | [open](../records/aim-s-f-prompts-chat-0bb76e45.md) |
+| f/prompts.chat | partial | 2026-09-02T03:17:55Z | [open](../records/aim-s-f-prompts-chat-0bb76e45.md) |
 | Fosowl/agenticSeek | partial | 2026-08-11T14:14:08Z | [open](../records/aim-s-fosowl-agenticseek-3f73fd5c.md) |
 | microsoft/graphrag | partial | 2026-09-02T01:41:10Z | [open](../records/aim-s-microsoft-graphrag-16e521eb.md) |
 | NirDiamant/RAG_Techniques | partial | 2026-08-29T08:59:28Z | [open](../records/aim-s-nirdiamant-rag-techniques-681ed394.md) |
@@ -758,10 +758,12 @@ Records: `1160`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| 1ay1/neowall | partial | 2026-08-11T00:33:47Z | [open](../records/effects-1ay1-neowall-29ce32e8.md) |
 | AdultLink/HoloShield | partial | 2018-12-07T12:27:11Z | [open](../records/effects-adultlink-holoshield-acc1efda.md) |
 | AhmedAmrNabil/arena-rush | v1.0.1 | 2026-05-02T09:14:43Z | [open](../records/effects-ahmedamrnabil-arena-rush-d1327c86.md) |
 | aiyaapp/AiyaEffectsIOS | partial | 2021-02-02T01:20:00Z | [open](../records/effects-aiyaapp-aiyaeffectsios-74a3ed57.md) |
 | Alchemist0823/three.quarks | unknown | github_latest_release_missing | [open](../records/effects-alchemist0823-three-quarks-ef545dfc.md) |
+| allusive-dev/compfy | partial | 2024-02-22T02:54:38Z | [open](../records/effects-allusive-dev-compfy-a54fd05c.md) |
 | AmplitudeAudio/sdk | partial | 2026-07-29T22:40:21Z | [open](../records/effects-amplitudeaudio-sdk-34ae5fe0.md) |
 | andrepxx/go-dsp-guitar | partial | 2026-07-30T18:42:03Z | [open](../records/effects-andrepxx-go-dsp-guitar-ce4b26a1.md) |
 | Ariakim-Taiyo/GeoFS-Shaders-Repository | unknown | github_latest_release_missing | [open](../records/effects-ariakim-taiyo-geofs-shaders-repository-e1d48b19.md) |
@@ -778,6 +780,10 @@ Records: `1160`
 | bzgeb/PixelatePostProcessing | unknown | github_latest_release_missing | [open](../records/effects-bzgeb-pixelatepostprocessing-b290f2e0.md) |
 | bzgeb/PixelatePostProcessingHDRP | unknown | github_latest_release_missing | [open](../records/effects-bzgeb-pixelatepostprocessinghdrp-a0e82730.md) |
 | bzgeb/PixelatePostProcessingURP | unknown | github_latest_release_missing | [open](../records/effects-bzgeb-pixelatepostprocessingurp-84a2eb9b.md) |
+| c8r/lab | partial | 2018-06-26T22:56:31Z | [open](../records/effects-c8r-lab-db3d29d3.md) |
+| c8r/x0 | partial | 2019-11-06T18:22:27Z | [open](../records/effects-c8r-x0-40ed9160.md) |
+| cage-kiosk/cage | partial | 2026-08-18T08:01:02Z | [open](../records/effects-cage-kiosk-cage-38b27c00.md) |
+| canonical/mir | partial | 2026-09-01T21:23:29Z | [open](../records/effects-canonical-mir-4ddd8316.md) |
 | cansik/processing-postfx | 1.2 | 2017-06-14T07:17:01Z | [open](../records/effects-cansik-processing-postfx-3d2f44fc.md) |
 | coryleach/UnityPostProcessing | 1.0.0 | 2019-09-23T05:38:00Z | [open](../records/effects-coryleach-unitypostprocessing-0847dfd6.md) |
 | crosire/reshade-shaders | unknown | github_latest_release_missing | [open](../records/effects-crosire-reshade-shaders-edf78e8d.md) |
@@ -790,6 +796,7 @@ Records: `1160`
 | devkcud/VesperaFX | unknown | github_latest_release_missing | [open](../records/effects-devkcud-vesperafx-4930c1a3.md) |
 | DGerry83/CinematicShaders | 0.3.10 | 2026-08-31T00:52:26Z | [open](../records/effects-dgerry83-cinematicshaders-5f79f2ba.md) |
 | DiegoRosales/El_Rockero | partial | 2014-03-26T19:49:17Z | [open](../records/effects-diegorosales-el-rockero-0f8eca1d.md) |
+| djpohly/dwl | partial | 2023-11-25T07:38:10Z | [open](../records/effects-djpohly-dwl-cd9c6e6b.md) |
 | Dzyzor/godot-selective-post-processing-shader-demo | unknown | github_latest_release_missing | [open](../records/effects-dzyzor-godot-selective-post-processing-shader-demo-2adca4e9.md) |
 | EllangoK/ComfyUI-post-processing-nodes | partial | 2025-01-20T07:16:46Z | [open](../records/effects-ellangok-comfyui-post-processing-nodes-f937fbee.md) |
 | EMBYRDEV/godot-toon-outline | unknown | github_latest_release_missing | [open](../records/effects-embyrdev-godot-toon-outline-47c40b14.md) |
@@ -802,6 +809,8 @@ Records: `1160`
 | florolf/fluxus-pp | unknown | github_latest_release_missing | [open](../records/effects-florolf-fluxus-pp-90640899.md) |
 | GarrettGunnell/Inktober-Ink-Shader | unknown | github_latest_release_missing | [open](../records/effects-garrettgunnell-inktober-ink-shader-9c674dfd.md) |
 | gdquest-demos/godot-4-VFX-assets | partial | 2026-05-16T07:28:05Z | [open](../records/effects-gdquest-demos-godot-4-vfx-assets-519bf311.md) |
+| getoffmyhack/waveSDR | partial | 2026-08-01T17:26:02Z | [open](../records/effects-getoffmyhack-wavesdr-29b3c175.md) |
+| ghaerr/agg-2.6 | partial | 2023-09-13T00:27:54Z | [open](../records/effects-ghaerr-agg-2-6-d129da6e.md) |
 | gnuradio/gnuradio | partial | 2026-08-27T23:02:01Z | [open](../records/effects-gnuradio-gnuradio-792f9652.md) |
 | grizzlypeak3d/DJV | partial | 2026-09-02T02:18:17Z | [open](../records/effects-grizzlypeak3d-djv-a31a9ac6.md) |
 | HEnquist/camilladsp | partial | 2026-09-01T15:08:43Z | [open](../records/effects-henquist-camilladsp-d941192e.md) |
@@ -809,11 +818,13 @@ Records: `1160`
 | hifiberry/hifiberry-os | partial | 2026-09-01T19:18:13Z | [open](../records/effects-hifiberry-hifiberry-os-23434356.md) |
 | hmans/composer-suite | partial | 2026-02-27T15:45:58Z | [open](../records/effects-hmans-composer-suite-79097285.md) |
 | hughsk/voxel-colorist | unknown | github_latest_release_missing | [open](../records/effects-hughsk-voxel-colorist-4f0cd027.md) |
+| hyprwm/Hyprland | partial | 2026-09-01T18:14:39Z | [open](../records/effects-hyprwm-hyprland-ab213774.md) |
 | iBicha/ImageEffectGraph | unknown | github_latest_release_missing | [open](../records/effects-ibicha-imageeffectgraph-726f4f7e.md) |
 | icanzilb/UIEffectDesignerView | unknown | github_latest_release_missing | [open](../records/effects-icanzilb-uieffectdesignerview-53a5eac9.md) |
 | ilialek/Pixel-Shader | unknown | github_latest_release_missing | [open](../records/effects-ilialek-pixel-shader-ab4083de.md) |
 | IndieMiao/Z-PostProcessing-HDRP | unknown | github_latest_release_missing | [open](../records/effects-indiemiao-z-postprocessing-hdrp-c2893a65.md) |
 | ItsTanPI/2DURP-GodRays | v1.0 | 2024-11-01T13:44:58Z | [open](../records/effects-itstanpi-2durp-godrays-b2feb30b.md) |
+| jaelpark/chamferwm | partial | 2024-09-28T10:23:02Z | [open](../records/effects-jaelpark-chamferwm-c4010e3e.md) |
 | jagumiel/Guitar-Pedal-Effects-on-FPGA | partial | 2026-07-22T19:55:10Z | [open](../records/effects-jagumiel-guitar-pedal-effects-on-fpga-b6ef3a17.md) |
 | jatinchowdhury18/CrossroadsEffects | partial | 2020-04-08T22:47:29Z | [open](../records/effects-jatinchowdhury18-crossroadseffects-6d06792d.md) |
 | JNNGL/vanilla-shaders | partial | 2025-05-14T10:16:59Z | [open](../records/effects-jnngl-vanilla-shaders-cc2a49e8.md) |
@@ -829,13 +840,17 @@ Records: `1160`
 | Juanrod99/Godot-PS1-Shader-Mixer | unknown | github_latest_release_missing | [open](../records/effects-juanrod99-godot-ps1-shader-mixer-c5659293.md) |
 | keijiro/KinoMotion | partial | 2017-09-22T09:59:03Z | [open](../records/effects-keijiro-kinomotion-5b4e3195.md) |
 | kevinraymond/fosfora | partial | 2026-08-25T18:06:30Z | [open](../records/effects-kevinraymond-fosfora-abca78d3.md) |
+| klange/toaruos | partial | 2026-09-01T22:59:23Z | [open](../records/effects-klange-toaruos-177b4062.md) |
 | KonradIT/gopro-linux | partial | 2024-08-11T16:30:35Z | [open](../records/effects-konradit-gopro-linux-8d431adf.md) |
 | KorinDev/Godot-Post-Process-Plugin | v0.1.1 | 2025-04-02T22:23:00Z | [open](../records/effects-korindev-godot-post-process-plugin-7b4fccc0.md) |
 | kylebueche/compositor | unknown | github_latest_release_missing | [open](../records/effects-kylebueche-compositor-53bcb2a4.md) |
 | leonaaraujo/unity-chromatic-aberration | unknown | github_latest_release_missing | [open](../records/effects-leonaaraujo-unity-chromatic-aberration-ddaa5041.md) |
 | leonaaraujo/unity-phosphor-monitor-shader | unknown | github_latest_release_missing | [open](../records/effects-leonaaraujo-unity-phosphor-monitor-shader-00361333.md) |
 | LordAlbior/UE4-Watercolor | unknown | github_latest_release_missing | [open](../records/effects-lordalbior-ue4-watercolor-20e0b210.md) |
+| lotos-linux/hypr-dock | partial | 2026-03-14T22:51:39Z | [open](../records/effects-lotos-linux-hypr-dock-30a70bd7.md) |
+| malbiruk/driftwm | partial | 2026-08-26T09:43:51Z | [open](../records/effects-malbiruk-driftwm-7fb2ce7f.md) |
 | Malidos/Stylized-Water-Shader | unknown | github_latest_release_missing | [open](../records/effects-malidos-stylized-water-shader-b701423a.md) |
+| mangowm/mango | partial | 2026-09-02T01:21:57Z | [open](../records/effects-mangowm-mango-e98f7439.md) |
 | MarieLynneBlock/RealTimeAudioSignalProcessing-Faust | partial | 2019-06-05T19:15:07Z | [open](../records/effects-marielynneblock-realtimeaudiosignalprocessing-faust-184135f0.md) |
 | martinber/noaa-apt | partial | 2024-02-10T15:41:50Z | [open](../records/effects-martinber-noaa-apt-cd098cc9.md) |
 | medusalix/MiniVST | partial | 2019-03-06T17:18:51Z | [open](../records/effects-medusalix-minivst-c855328d.md) |
@@ -864,10 +879,12 @@ Records: `1160`
 | piellardj/post-treatment-gpu | unknown | github_latest_release_missing | [open](../records/effects-piellardj-post-treatment-gpu-28d6f1e8.md) |
 | pmndrs/postprocessing | partial | 2026-08-30T21:33:42Z | [open](../records/effects-pmndrs-postprocessing-6cffe31f.md) |
 | PossiblyAxolotl/pdParticles | partial | 2025-08-13T22:09:34Z | [open](../records/effects-possiblyaxolotl-pdparticles-1874c068.md) |
+| project-repo/cagebreak | partial | 2026-06-13T13:53:43Z | [open](../records/effects-project-repo-cagebreak-368328f0.md) |
 | protyposis/Spectaculum | partial | 2024-02-21T09:28:30Z | [open](../records/effects-protyposis-spectaculum-fcac9d0d.md) |
 | QianMo/X-PostProcessing-Library | partial | 2023-07-14T17:42:11Z | [open](../records/effects-qianmo-x-postprocessing-library-3834f7d5.md) |
 | radoslawregula/reverb-algorithms | partial | 2020-02-09T11:12:27Z | [open](../records/effects-radoslawregula-reverb-algorithms-0f4a1d2f.md) |
 | ralgar/vkShade | partial | 2026-08-31T22:46:58Z | [open](../records/effects-ralgar-vkshade-027f2833.md) |
+| rcalixte/awesome-wayland | partial | 2026-08-30T19:00:18Z | [open](../records/effects-rcalixte-awesome-wayland-4cc39bd2.md) |
 | robclouth/noise-canvas | partial | 2026-08-25T09:29:49Z | [open](../records/effects-robclouth-noise-canvas-171ca6d8.md) |
 | rockbite/talos | partial | 2026-08-18T11:17:42Z | [open](../records/effects-rockbite-talos-07105463.md) |
 | ruofeidu/MyShadertoy | unknown | github_latest_release_missing | [open](../records/effects-ruofeidu-myshadertoy-a20635d7.md) |
@@ -880,6 +897,7 @@ Records: `1160`
 | ssell/UnitySobelOutline | unknown | github_latest_release_missing | [open](../records/effects-ssell-unitysobeloutline-4693ed07.md) |
 | staffantan/unity-vhsglitch | unknown | github_latest_release_missing | [open](../records/effects-staffantan-unity-vhsglitch-249f6ad5.md) |
 | staffantan/unityglitch | unknown | github_latest_release_missing | [open](../records/effects-staffantan-unityglitch-b6e1e23d.md) |
+| swaywm/sway | partial | 2026-07-31T11:47:08Z | [open](../records/effects-swaywm-sway-c69aa38b.md) |
 | tantaneity/unity-urp-outline-postprocess | unknown | github_latest_release_missing | [open](../records/effects-tantaneity-unity-urp-outline-postprocess-0e6c8555.md) |
 | TheGordinho/MLUT | partial | 2026-06-13T22:18:45Z | [open](../records/effects-thegordinho-mlut-aaea6a09.md) |
 | TobiasVanDyk/VS1053B-Teensy-36-and-41-Music-Effects | partial | 2022-07-24T15:59:34Z | [open](../records/effects-tobiasvandyk-vs1053b-teensy-36-and-41-music-effects-698f327e.md) |
@@ -893,10 +911,13 @@ Records: `1160`
 | wake-bikila-dev/Rose_flower | unknown | github_latest_release_missing | [open](../records/effects-wake-bikila-dev-rose-flower-5c6c7075.md) |
 | WillyBilly06/BDK-AUDIO-APP | partial | 2026-06-08T09:56:37Z | [open](../records/effects-willybilly06-bdk-audio-app-13262d72.md) |
 | wizgrav/aframe-effects | partial | 2020-08-23T23:36:32Z | [open](../records/effects-wizgrav-aframe-effects-51b6f98f.md) |
+| wlrfx/swayfx | partial | 2026-08-31T08:08:15Z | [open](../records/effects-wlrfx-swayfx-44f294c1.md) |
 | Wokarol/PostProcessing-CustomEffects | unknown | github_latest_release_missing | [open](../records/effects-wokarol-postprocessing-customeffects-d426029f.md) |
 | wolf96/shader_for_unity | unknown | github_latest_release_missing | [open](../records/effects-wolf96-shader-for-unity-ab3c90c1.md) |
+| y5-snowies/nourish | partial | 2026-08-28T18:28:34Z | [open](../records/effects-y5-snowies-nourish-f98f28e3.md) |
 | yexiang92/opstool | partial | 2026-07-03T02:11:12Z | [open](../records/effects-yexiang92-opstool-ff6c7c7b.md) |
 | yezzfusl/AudioSpectra | partial | 2024-08-16T22:25:56Z | [open](../records/effects-yezzfusl-audiospectra-1d486240.md) |
+| yshui/picom | partial | 2026-06-02T17:39:32Z | [open](../records/effects-yshui-picom-37b1f234.md) |
 
 ## Audio
 
@@ -1140,7 +1161,7 @@ Records: `1160`
 | carloslack/KoviD | partial | 2026-05-31T15:05:07Z | [open](../records/assembly-carloslack-kovid-05c9a038.md) |
 | dreamportdev/Osdev-Notes | partial | 2026-08-29T00:33:45Z | [open](../records/assembly-dreamportdev-osdev-notes-0bc186d6.md) |
 | maniekx86/stillalive-os | partial | 2025-09-16T11:55:24Z | [open](../records/assembly-maniekx86-stillalive-os-3b900496.md) |
-| OpenRakis/Spice86 | partial | 2026-08-31T19:29:47Z | [open](../records/assembly-openrakis-spice86-2cdaf101.md) |
+| OpenRakis/Spice86 | partial | 2026-09-02T03:17:44Z | [open](../records/assembly-openrakis-spice86-2cdaf101.md) |
 | owent/libcopp | partial | 2026-01-20T11:34:32Z | [open](../records/assembly-owent-libcopp-45c438d7.md) |
 | rwfpl/rewolf-wow64ext | partial | 2023-01-17T20:00:42Z | [open](../records/assembly-rwfpl-rewolf-wow64ext-24fabb9b.md) |
 | shikaan/osle | partial | 2026-03-07T20:30:09Z | [open](../records/assembly-shikaan-osle-a280853b.md) |

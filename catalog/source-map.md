@@ -5,22 +5,22 @@
 ## Category Index
 
 [Api Abi Checker (180)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (41)](by-category/assertion-mocking.md) · [Async Runtime (122)](by-category/async-runtime.md)
-[Benchmarking (110)](by-category/benchmarking.md) · [Build System (803)](by-category/build-system.md) · [Cli (492)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (110)](by-category/benchmarking.md) · [Build System (806)](by-category/build-system.md) · [Cli (495)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (83)](by-category/community-reference.md) · [Compiler (170)](by-category/compiler.md) · [Compiler Diagnostics (22)](by-category/compiler-diagnostics.md) · [Compression (45)](by-category/compression.md)
-[Concurrency Parallelism (71)](by-category/concurrency-parallelism.md) · [Configuration (97)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (11)](by-category/coverage.md)
+[Concurrency Parallelism (71)](by-category/concurrency-parallelism.md) · [Configuration (99)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (11)](by-category/coverage.md)
 [Cryptography (154)](by-category/cryptography.md) · [Data Science (32)](by-category/data-science.md) · [Database Datastore (687)](by-category/database-datastore.md) · [Datetime (157)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (41)](by-category/debugger.md) · [Dependency Manager (83)](by-category/dependency-manager.md) · [Documentation (80)](by-category/documentation.md)
-[Embedded Hardware (47)](by-category/embedded-hardware.md) · [Ffi Bindings (380)](by-category/ffi-bindings.md) · [Filesystem Os (1160)](by-category/filesystem-os.md) · [Formatter (542)](by-category/formatter.md)
-[Framework (47)](by-category/framework.md) · [Fuzzer (48)](by-category/fuzzer.md) · [Game Engine Game Dev (153)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1115)](by-category/ide-editor-integration.md)
+[Embedded Hardware (47)](by-category/embedded-hardware.md) · [Ffi Bindings (380)](by-category/ffi-bindings.md) · [Filesystem Os (1181)](by-category/filesystem-os.md) · [Formatter (542)](by-category/formatter.md)
+[Framework (47)](by-category/framework.md) · [Fuzzer (48)](by-category/fuzzer.md) · [Game Engine Game Dev (153)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1117)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (292)](by-category/image-audio-dsp.md) · [Interop Bindings (52)](by-category/interop-bindings.md) · [Interpreter Runtime (227)](by-category/interpreter-runtime.md) · [Jit Vm (56)](by-category/jit-vm.md)
 [Language Server (27)](by-category/language-server.md) · [Language Specification (1223)](by-category/language-specification.md) · [Library (4765)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (40)](by-category/lint-rule-pack.md) · [Linter (346)](by-category/linter.md) · [Logging Observability (386)](by-category/logging-observability.md) · [Machine Learning (572)](by-category/machine-learning.md)
+[Lint Rule Pack (40)](by-category/lint-rule-pack.md) · [Linter (346)](by-category/linter.md) · [Logging Observability (386)](by-category/logging-observability.md) · [Machine Learning (574)](by-category/machine-learning.md)
 [Math Numeric Scientific (79)](by-category/math-numeric-scientific.md) · [Memory Analyzer (76)](by-category/memory-analyzer.md) · [Message Broker (31)](by-category/message-broker.md) · [Networking Http (906)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (260)](by-category/package-manager.md) · [Parser Lexer Ast (895)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (259)](by-category/precommit-ci-quality.md)
+[Other (14)](by-category/other.md) · [Package Manager (260)](by-category/package-manager.md) · [Parser Lexer Ast (899)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (259)](by-category/precommit-ci-quality.md)
 [Profiler (68)](by-category/profiler.md) · [Project Scaffolding (118)](by-category/project-scaffolding.md) · [Registry Repository (107)](by-category/registry-repository.md) · [Sanitizer (12)](by-category/sanitizer.md)
 [Security Sast (311)](by-category/security-sast.md) · [Serialization (367)](by-category/serialization.md) · [Standard Library (24)](by-category/standard-library.md) · [Static Analyzer (426)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (492)](by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](by-category/tutorial-book-styleguide.md) · [Type Checker (286)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1361)](by-category/undefined-behavior-analyzer.md) · [Utility Library (92)](by-category/utility-library.md) · [Visualization Gui (413)](by-category/visualization-gui.md) · [Web Framework (388)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1362)](by-category/undefined-behavior-analyzer.md) · [Utility Library (92)](by-category/utility-library.md) · [Visualization Gui (413)](by-category/visualization-gui.md) · [Web Framework (388)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -6435,6 +6435,7 @@
 | `github_search_effects-0d54d034f18f0f` | jinatonic/confetti | [open](records/effects-jinatonic-confetti-c85518f9.md) |
 | `github_search_effects-0d5f538ea0556c` | MJDionisio/Simple-DSP-Audio-Effects-v1.0 | [open](records/effects-mjdionisio-simple-dsp-audio-effects-v1-0-d732c12e.md) |
 | `github_search_effects-0df8b785400918` | LordAlbior/UE4-Watercolor | [open](records/effects-lordalbior-ue4-watercolor-20e0b210.md) |
+| `github_search_effects-0e9bc85ac26ba3` | phkaeser/wlmaker | [open](records/effects-phkaeser-wlmaker-bba50595.md) |
 | `github_search_effects-0e9e20ede22a6a` | leonaaraujo/unity-phosphor-monitor-shader | [open](records/effects-leonaaraujo-unity-phosphor-monitor-shader-00361333.md) |
 | `github_search_effects-0ebd30944d00ba` | leonaaraujo/unity-chromatic-aberration | [open](records/effects-leonaaraujo-unity-chromatic-aberration-ddaa5041.md) |
 | `github_search_effects-0ffda0655ca48d` | keijiro/KvantStream | [open](records/effects-keijiro-kvantstream-4c4847ec.md) |
@@ -6443,6 +6444,7 @@
 | `github_search_effects-110fe8622a854e` | Souloist/audio-effects | [open](records/effects-souloist-audio-effects-d98c525b.md) |
 | `github_search_effects-11b7b2624fb35b` | AntonPalmqvist/physically-based-api | [open](records/effects-antonpalmqvist-physically-based-api-fde296f6.md) |
 | `github_search_effects-1241a5496b6552` | CompleteUnityDeveloper/Laser-Defender-Original | [open](records/effects-completeunitydeveloper-laser-defender-original-c8db6005.md) |
+| `github_search_effects-1338f4360c465d` | seanZhang414/openadserver | [open](records/effects-seanzhang414-openadserver-f9d27b45.md) |
 | `github_search_effects-133d1c6d1ddc67` | meshula/awesome-voxel | [open](records/effects-meshula-awesome-voxel-97b20071.md) |
 | `github_search_effects-142679b5ad7cbd` | Visko-Platform/VEFX-Bench | [open](records/effects-visko-platform-vefx-bench-45e16f5e.md) |
 | `github_search_effects-1460f5855c5716` | JosephOIbrahim/Houdini_Camera_Rig_System | [open](records/effects-josephoibrahim-houdini-camera-rig-system-2f878675.md) |
@@ -6451,6 +6453,7 @@
 | `github_search_effects-1694ca1b90139e` | AnalogFeelings/godot-psx | [open](records/effects-analogfeelings-godot-psx-57803d35.md) |
 | `github_search_effects-16aee13e9c03be` | sinnwrig/URP-Fog-Volumes | [open](records/effects-sinnwrig-urp-fog-volumes-845ab6cc.md) |
 | `github_search_effects-16afe22e2f0474` | soul-lang/SOUL | [open](records/effects-soul-lang-soul-99c6028e.md) |
+| `github_search_effects-1786b7cc6c37b1` | mangowm/mango | [open](records/effects-mangowm-mango-e98f7439.md) |
 | `github_search_effects-1790499b8e9e85` | hustcc/canvas-nest.js | [open](records/effects-hustcc-canvas-nest-js-cee46f46.md) |
 | `github_search_effects-17fc3721580102` | mob-sakai/ParticleEffectForUGUI | [open](records/effects-mob-sakai-particleeffectforugui-6a75f88e.md) |
 | `github_search_effects-181ed3110d764e` | alexirae/unreal-audio-dsp-collection-UE5 | [open](records/effects-alexirae-unreal-audio-dsp-collection-ue5-a5ff9e29.md) |
@@ -6461,6 +6464,7 @@
 | `github_search_effects-19da88303f0a5a` | mert-dev-acc/ThermalVisionPostProcessingShader | [open](records/effects-mert-dev-acc-thermalvisionpostprocessingshader-994cb08a.md) |
 | `github_search_effects-1b00281983cce9` | icanzilb/UIEffectDesignerView | [open](records/effects-icanzilb-uieffectdesignerview-53a5eac9.md) |
 | `github_search_effects-1b77f1fe494e99` | JatinChopra/emissive-dissolve-effect | [open](records/effects-jatinchopra-emissive-dissolve-effect-0dafd235.md) |
+| `github_search_effects-1c7d29bca53f93` | wlrfx/swayfx | [open](records/effects-wlrfx-swayfx-44f294c1.md) |
 | `github_search_effects-1c86812211c347` | heuermh/lick | [open](records/effects-heuermh-lick-a1f3caa0.md) |
 | `github_search_effects-1d4e47b7dcb8da` | cool-japan/oxiaudio | [open](records/effects-cool-japan-oxiaudio-c3500955.md) |
 | `github_search_effects-1d5051ba838656` | nolangz/3D-Chladni | [open](records/effects-nolangz-3d-chladni-45d7a880.md) |
@@ -6473,7 +6477,9 @@
 | `github_search_effects-200ba012700da9` | EndlesslyFlowering/ReShade_HDR_shaders | [open](records/effects-endlesslyflowering-reshade-hdr-shaders-23b572c9.md) |
 | `github_search_effects-20156b04e64864` | WorldOfZero/UnityVisualizations | [open](records/effects-worldofzero-unityvisualizations-ed9cae03.md) |
 | `github_search_effects-209fc77c9340f9` | belangeo/pyo | [open](records/effects-belangeo-pyo-94599d05.md) |
+| `github_search_effects-20bd673f064b4c` | ghaerr/agg-2.6 | [open](records/effects-ghaerr-agg-2-6-d129da6e.md) |
 | `github_search_effects-210ab8ae3ad731` | keijiro/GeoVfx | [open](records/effects-keijiro-geovfx-5be82e16.md) |
+| `github_search_effects-2118a745fd50a1` | canonical/ubuntu-frame | [open](records/effects-canonical-ubuntu-frame-e76d66fc.md) |
 | `github_search_effects-222af66f73f362` | Wokarol/PostProcessing-CustomEffects | [open](records/effects-wokarol-postprocessing-customeffects-d426029f.md) |
 | `github_search_effects-2267ac16d32ecb` | Mohammad9760/PostProcessing_Cookbook | [open](records/effects-mohammad9760-postprocessing-cookbook-7ab73eb7.md) |
 | `github_search_effects-22f474bd5d74f7` | chenwj1989/pafx | [open](records/effects-chenwj1989-pafx-ac1e16fc.md) |
@@ -6487,6 +6493,7 @@
 | `github_search_effects-259491dc718bdf` | adobe-research/MetaAF | [open](records/effects-adobe-research-metaaf-d8172358.md) |
 | `github_search_effects-25b3cfae893bcd` | beinteractive/LWRPAmbientOcclusion | [open](records/effects-beinteractive-lwrpambientocclusion-7b85e0e3.md) |
 | `github_search_effects-26028395152026` | orottier/web-audio-api-rs | [open](records/effects-orottier-web-audio-api-rs-689b486f.md) |
+| `github_search_effects-26034d26b8ef38` | cage-kiosk/cage | [open](records/effects-cage-kiosk-cage-38b27c00.md) |
 | `github_search_effects-2687985d0d3db0` | NullTale/VhsFx | [open](records/effects-nulltale-vhsfx-f7d04dd7.md) |
 | `github_search_effects-26e8366258d5a3` | olilarkin/awesome-musicdsp | [open](records/effects-olilarkin-awesome-musicdsp-c372f59b.md) |
 | `github_search_effects-26ffacd80eae5a` | ideoforms/signalflow | [open](records/effects-ideoforms-signalflow-fb90f2e9.md) |
@@ -6545,15 +6552,18 @@
 | `github_search_effects-39f6ef004c6bd2` | MarieLynneBlock/RealTimeAudioSignalProcessing-Faust | [open](records/effects-marielynneblock-realtimeaudiosignalprocessing-faust-184135f0.md) |
 | `github_search_effects-3ae44d3659547b` | rumlenordstroem/audio-effects | [open](records/effects-rumlenordstroem-audio-effects-637861a4.md) |
 | `github_search_effects-3b4bc7cc2fc401` | hifiberry/hifiberry-os | [open](records/effects-hifiberry-hifiberry-os-23434356.md) |
+| `github_search_effects-3b50c9b435091e` | project-repo/cagebreak | [open](records/effects-project-repo-cagebreak-368328f0.md) |
 | `github_search_effects-3b5f9145205c25` | material-foundation/material-tokens | [open](records/effects-material-foundation-material-tokens-8c13a90f.md) |
 | `github_search_effects-3b71a0a96c9e0f` | cpichard/usdtweak | [open](records/effects-cpichard-usdtweak-06bd7b2b.md) |
 | `github_search_effects-3bb7a56410b735` | doomlaser/DepthMask-Unity-Shader | [open](records/effects-doomlaser-depthmask-unity-shader-910913b1.md) |
 | `github_search_effects-3c2f11a680a282` | danielshervheim/unity-stylized-water | [open](records/effects-danielshervheim-unity-stylized-water-31cecbdc.md) |
 | `github_search_effects-3e0f8413da904a` | mhamilt/AudioEffectsSuite | [open](records/effects-mhamilt-audioeffectssuite-7d1efce7.md) |
+| `github_search_effects-3e553702ce1012` | calebzulawski/fourier | [open](records/effects-calebzulawski-fourier-33620126.md) |
 | `github_search_effects-3ef731fdfe7df6` | averagenative/0xFX | [open](records/effects-averagenative-0xfx-924f14aa.md) |
 | `github_search_effects-3fcc97fb8befb9` | SamiPerttu/fundsp | [open](records/effects-samiperttu-fundsp-29462d78.md) |
 | `github_search_effects-40cf7763b20b66` | nvjob/ppsc | [open](records/effects-nvjob-ppsc-40ef5bfb.md) |
 | `github_search_effects-40e5735f7a550a` | TheGordinho/MLUT | [open](records/effects-thegordinho-mlut-aaea6a09.md) |
+| `github_search_effects-41b37fc77d4a3f` | avivace/dotfiles | [open](records/effects-avivace-dotfiles-d1092acc.md) |
 | `github_search_effects-4200faecdabea8` | CyberDeck/Unity-HDRP-LensFlares | [open](records/effects-cyberdeck-unity-hdrp-lensflares-3a27fa68.md) |
 | `github_search_effects-420b9e56285f0e` | BarneyWhiteman/p5.filterShader | [open](records/effects-barneywhiteman-p5-filtershader-65752773.md) |
 | `github_search_effects-4216a59723db22` | keijiro/KinoMotion | [open](records/effects-keijiro-kinomotion-5b4e3195.md) |
@@ -6562,6 +6572,7 @@
 | `github_search_effects-42b119afbf0bc5` | IRCSS/Geometry-Grass-Shader | [open](records/effects-ircss-geometry-grass-shader-63d80946.md) |
 | `github_search_effects-4381d2b8b74f34` | alienware377/RootlessViPER4Android | [open](records/effects-alienware377-rootlessviper4android-477a4505.md) |
 | `github_search_effects-44a56ca844c4dc` | bzgeb/PixelatePostProcessing | [open](records/effects-bzgeb-pixelatepostprocessing-b290f2e0.md) |
+| `github_search_effects-44a7048b9329f5` | Sportinger/MasterSelects | [open](records/effects-sportinger-masterselects-e597519e.md) |
 | `github_search_effects-452b8987c99c53` | appliedapp/rusty_lights | [open](records/effects-appliedapp-rusty-lights-c67cc805.md) |
 | `github_search_effects-45803f6200f135` | AcademySoftwareFoundation/OpenPBR | [open](records/effects-academysoftwarefoundation-openpbr-358a3a7c.md) |
 | `github_search_effects-46320a1415f0ed` | Alchemist0823/three.quarks | [open](records/effects-alchemist0823-three-quarks-ef545dfc.md) |
@@ -6579,6 +6590,7 @@
 | `github_search_effects-4cb5e80d53e778` | calebj0seph/spectro | [open](records/effects-calebj0seph-spectro-5031b064.md) |
 | `github_search_effects-4cef45a85289c8` | MythicalSHUB/SpatialFlow | [open](records/effects-mythicalshub-spatialflow-02cb9ef0.md) |
 | `github_search_effects-4d5fee6909be54` | Valax321/PostProcessEffects | [open](records/effects-valax321-postprocesseffects-41505f34.md) |
+| `github_search_effects-4d77e35e17109f` | lotos-linux/hypr-dock | [open](records/effects-lotos-linux-hypr-dock-30a70bd7.md) |
 | `github_search_effects-4d958494a8012f` | Token-Gremlin/natural-disasters | [open](records/effects-token-gremlin-natural-disasters-2d908dd9.md) |
 | `github_search_effects-4e919b8a69f111` | asantee/ethanon | [open](records/effects-asantee-ethanon-23a4c66c.md) |
 | `github_search_effects-4ec593ff660a7a` | ARM-software/CMSIS-DSP | [open](records/effects-arm-software-cmsis-dsp-70248de5.md) |
@@ -6593,6 +6605,7 @@
 | `github_search_effects-523e3205b46a8d` | yihong1120/Construction-Hazard-Detection | [open](records/effects-yihong1120-construction-hazard-detection-3100e426.md) |
 | `github_search_effects-52e2b0c66148ec` | sp-nitech/SPTK | [open](records/effects-sp-nitech-sptk-aa69deb0.md) |
 | `github_search_effects-52f41c7e3937e0` | apohl79/audiogridder | [open](records/effects-apohl79-audiogridder-8e0db5f2.md) |
+| `github_search_effects-541aea0e654c3f` | denialwm/denial | [open](records/effects-denialwm-denial-38ee513d.md) |
 | `github_search_effects-54664e5d664a78` | jareddrayton/Audio-Plugin-Development-Resources | [open](records/effects-jareddrayton-audio-plugin-development-resources-2fbff0f1.md) |
 | `github_search_effects-54cca82c333e8e` | kleineluka/junelite | [open](records/effects-kleineluka-junelite-95d9c2fb.md) |
 | `github_search_effects-554f9da3d34620` | adefossez/julius | [open](records/effects-adefossez-julius-c2369600.md) |
@@ -6617,6 +6630,7 @@
 | `github_search_effects-5dd086cfdaa072` | IdeaSpaceVR/aframe-particle-system-component | [open](records/effects-ideaspacevr-aframe-particle-system-component-80cdc49c.md) |
 | `github_search_effects-5dfd728ca9f925` | ha7ilm/csdr | [open](records/effects-ha7ilm-csdr-5d56336a.md) |
 | `github_search_effects-5e9b0c346d0109` | mhelin/STM32F746_DSP | [open](records/effects-mhelin-stm32f746-dsp-3a0bc64c.md) |
+| `github_search_effects-5ebe4bc537cf67` | starling-build/starling | [open](records/effects-starling-build-starling-11beaa07.md) |
 | `github_search_effects-5f2d20a295e651` | AcademySoftwareFoundation/OpenTimelineIO | [open](records/effects-academysoftwarefoundation-opentimelineio-3fcbc8e9.md) |
 | `github_search_effects-5f4036a7b8c088` | hermeszhang/sharc_audio_effects | [open](records/effects-hermeszhang-sharc-audio-effects-24235d74.md) |
 | `github_search_effects-5fc31610377eec` | FORARTfe/ayemux | [open](records/effects-forartfe-ayemux-7c57b163.md) |
@@ -6636,6 +6650,7 @@
 | `github_search_effects-663126966a46e9` | OYsun/AE-Element | [open](records/effects-oysun-ae-element-e496f20a.md) |
 | `github_search_effects-6680ec2fdb6e82` | vectencia/Klarinet | [open](records/effects-vectencia-klarinet-6a3913de.md) |
 | `github_search_effects-66b7cfa62c9ae7` | jarl-opensource/drakkar-vfx | [open](records/effects-jarl-opensource-drakkar-vfx-7324f00c.md) |
+| `github_search_effects-66c836faddb9bd` | allusive-dev/compfy | [open](records/effects-allusive-dev-compfy-a54fd05c.md) |
 | `github_search_effects-66f12e60dff39e` | acorderob/sd-webui-prompt-postprocessor | [open](records/effects-acorderob-sd-webui-prompt-postprocessor-2b3288cd.md) |
 | `github_search_effects-6718f1ab22e220` | florolf/fluxus-pp | [open](records/effects-florolf-fluxus-pp-90640899.md) |
 | `github_search_effects-671ba9a3d005b0` | ssell/UnitySobelOutline | [open](records/effects-ssell-unitysobeloutline-4693ed07.md) |
@@ -6644,6 +6659,7 @@
 | `github_search_effects-678caffda5af26` | asbott/jamgine | [open](records/effects-asbott-jamgine-6cdd35a8.md) |
 | `github_search_effects-67c103cc9e7296` | jacksoswag/Spectra | [open](records/effects-jacksoswag-spectra-220288fc.md) |
 | `github_search_effects-6868f6dad06b0a` | coryleach/UnityPostProcessing | [open](records/effects-coryleach-unitypostprocessing-0847dfd6.md) |
+| `github_search_effects-68bb20a0692496` | hyprwm/Hyprland | [open](records/effects-hyprwm-hyprland-ab213774.md) |
 | `github_search_effects-68c17a4ee98a92` | glotzerlab/hoomd-blue | [open](records/effects-glotzerlab-hoomd-blue-5217e991.md) |
 | `github_search_effects-692c51158e19fa` | danlivings/oil-painting-effect-shader-unity | [open](records/effects-danlivings-oil-painting-effect-shader-unity-4c047066.md) |
 | `github_search_effects-694e0adb1419a8` | DiegoRosales/El_Rockero | [open](records/effects-diegorosales-el-rockero-0f8eca1d.md) |
@@ -6668,6 +6684,7 @@
 | `github_search_effects-6f7dab36b4f8be` | Razakhel/RaZ | [open](records/effects-razakhel-raz-e81fb756.md) |
 | `github_search_effects-70ab54c05c380f` | BillyDM/awesome-audio-dsp | [open](records/effects-billydm-awesome-audio-dsp-a5cff982.md) |
 | `github_search_effects-70b82e963f0f29` | medusalix/MiniVST | [open](records/effects-medusalix-minivst-c855328d.md) |
+| `github_search_effects-7115c5a5c13f0b` | swaywm/sway | [open](records/effects-swaywm-sway-c69aa38b.md) |
 | `github_search_effects-712b77450a322b` | glotzerlab/freud | [open](records/effects-glotzerlab-freud-7097000c.md) |
 | `github_search_effects-7199b5d14d2311` | sean-hayeskxw9521/auxide-dsp-v020-library | [open](records/effects-sean-hayeskxw9521-auxide-dsp-v020-library-08fdecae.md) |
 | `github_search_effects-71cfb996e63cd1` | UnityTechnologies/ATerribleKingdom | [open](records/effects-unitytechnologies-aterriblekingdom-540a631e.md) |
@@ -6681,6 +6698,7 @@
 | `github_search_effects-73f6296d78bcbf` | AcademySoftwareFoundation/openvdb | [open](records/effects-academysoftwarefoundation-openvdb-fbe81c11.md) |
 | `github_search_effects-73fe9db28a0a85` | fand/vfx-js | [open](records/effects-fand-vfx-js-267d1f85.md) |
 | `github_search_effects-756efdba6e41eb` | keijiro/PcxEffects3 | [open](records/effects-keijiro-pcxeffects3-2966e3b2.md) |
+| `github_search_effects-75991ce440c43c` | jaelpark/chamferwm | [open](records/effects-jaelpark-chamferwm-c4010e3e.md) |
 | `github_search_effects-76413fb123ff66` | estuariolabs/tolhuin-chord | [open](records/effects-estuariolabs-tolhuin-chord-5c9197cb.md) |
 | `github_search_effects-7754e78906adb5` | benjojo/dubstep-data | [open](records/effects-benjojo-dubstep-data-f40ca662.md) |
 | `github_search_effects-777e7a0b63e1de` | open-atmos/PySDM | [open](records/effects-open-atmos-pysdm-9411c0d3.md) |
@@ -6702,6 +6720,7 @@
 | `github_search_effects-7db06a8ed787ec` | MirzaBeig/Anime-Speed-Lines | [open](records/effects-mirzabeig-anime-speed-lines-363001a7.md) |
 | `github_search_effects-7dc599a56dac4c` | metno/gridpp | [open](records/effects-metno-gridpp-e2860702.md) |
 | `github_search_effects-7ea12c9992d1af` | PossiblyAxolotl/pdParticles | [open](records/effects-possiblyaxolotl-pdparticles-1874c068.md) |
+| `github_search_effects-7f22f43db723ce` | marcel-licence/ML_SynthTools | [open](records/effects-marcel-licence-ml-synthtools-a77d2383.md) |
 | `github_search_effects-7f48e3ca0d5df2` | noisefactorllc/noisemaker | [open](records/effects-noisefactorllc-noisemaker-3b4d1858.md) |
 | `github_search_effects-7f87d60430712c` | cirocosta/asciinema-edit | [open](records/effects-cirocosta-asciinema-edit-04188dee.md) |
 | `github_search_effects-7fce01c9d1d46a` | gtibo/VFX-sketchbook-Godot-3.x | [open](records/effects-gtibo-vfx-sketchbook-godot-3-x-818c8d15.md) |
@@ -6720,6 +6739,7 @@
 | `github_search_effects-84bd7f703542c9` | white-shiro-bai/ghost_sa | [open](records/effects-white-shiro-bai-ghost-sa-7fb9c363.md) |
 | `github_search_effects-854f096fb65d2f` | psambit9791/jdsp | [open](records/effects-psambit9791-jdsp-d6f9c445.md) |
 | `github_search_effects-85d9bc95d146f4` | nvpro-samples/vk_toon_shader | [open](records/effects-nvpro-samples-vk-toon-shader-7c3ffe89.md) |
+| `github_search_effects-85f5d85229b272` | malbiruk/driftwm | [open](records/effects-malbiruk-driftwm-7fb2ce7f.md) |
 | `github_search_effects-86b14337e9d540` | maia-sdr/maia-sdr | [open](records/effects-maia-sdr-maia-sdr-88e8ecf8.md) |
 | `github_search_effects-8703c5807b3a74` | tiagolr/ripplerx | [open](records/effects-tiagolr-ripplerx-f333e2b5.md) |
 | `github_search_effects-87dfe400a1135e` | StarsX/ParticleEmitter | [open](records/effects-starsx-particleemitter-d57a15a0.md) |
@@ -6728,6 +6748,7 @@
 | `github_search_effects-89522158d11fe3` | MTG/essentia | [open](records/effects-mtg-essentia-5260afcf.md) |
 | `github_search_effects-89897da486509a` | mimium-org/mimium | [open](records/effects-mimium-org-mimium-ddf4acdd.md) |
 | `github_search_effects-89eccc74e11bad` | MysteryPancake/Houdini-Fun | [open](records/effects-mysterypancake-houdini-fun-2e70635d.md) |
+| `github_search_effects-8a1b82e5c8897a` | djpohly/dwl | [open](records/effects-djpohly-dwl-cd9c6e6b.md) |
 | `github_search_effects-8a2dfd6cc84a2b` | pschatzmann/arduino-audio-tools | [open](records/effects-pschatzmann-arduino-audio-tools-8c3c4f05.md) |
 | `github_search_effects-8ab0de889285ee` | keijiro/ShurikenPlus | [open](records/effects-keijiro-shurikenplus-602ff24f.md) |
 | `github_search_effects-8aea2365f0117d` | crosire/reshade | [open](records/effects-crosire-reshade-1e232ae5.md) |
@@ -6760,6 +6781,7 @@
 | `github_search_effects-9662ebce5eea6e` | keijiro/HdrpVatExample | [open](records/effects-keijiro-hdrpvatexample-18f3383c.md) |
 | `github_search_effects-97c0118c11f4b0` | khalladay/PencilSketchEffect | [open](records/effects-khalladay-pencilsketcheffect-3b5a62d6.md) |
 | `github_search_effects-97d5448a3cab0a` | tom-mohr/particle-life | [open](records/effects-tom-mohr-particle-life-8faa5ca9.md) |
+| `github_search_effects-98b433b2b115c9` | rwxrob/bonzai | [open](records/effects-rwxrob-bonzai-674c9c09.md) |
 | `github_search_effects-996087718990d7` | mustache-dev/Three-VFX | [open](records/effects-mustache-dev-three-vfx-7b5a4bb9.md) |
 | `github_search_effects-9975e87a30276f` | thesofproject/sof | [open](records/effects-thesofproject-sof-2250f8c2.md) |
 | `github_search_effects-9aab71c47281e0` | keijiro/Akvfx | [open](records/effects-keijiro-akvfx-c5cba3cb.md) |
@@ -6769,10 +6791,14 @@
 | `github_search_effects-9d2ab5362b84b4` | pmndrs/postprocessing | [open](records/effects-pmndrs-postprocessing-6cffe31f.md) |
 | `github_search_effects-9d58d530dba17e` | playduck/dsp-playground | [open](records/effects-playduck-dsp-playground-f8102f04.md) |
 | `github_search_effects-9d7b15055ee9b6` | keijiro/Akvj | [open](records/effects-keijiro-akvj-4be67964.md) |
+| `github_search_effects-9d9335b6d53776` | yshui/picom | [open](records/effects-yshui-picom-37b1f234.md) |
 | `github_search_effects-9dcc79b19e64e4` | Malidos/Stylized-Water-Shader | [open](records/effects-malidos-stylized-water-shader-b701423a.md) |
+| `github_search_effects-9e1ddd92db313f` | 1ay1/neowall | [open](records/effects-1ay1-neowall-29ce32e8.md) |
 | `github_search_effects-9e4af267fd936b` | kratofl/kratomix | [open](records/effects-kratofl-kratomix-0945699b.md) |
+| `github_search_effects-9e7d1d218655c1` | getoffmyhack/waveSDR | [open](records/effects-getoffmyhack-wavesdr-29b3c175.md) |
 | `github_search_effects-9fbf25720953c0` | willibrandon/LofiBeats | [open](records/effects-willibrandon-lofibeats-be13b72d.md) |
 | `github_search_effects-a019d54650e4ab` | braedonsaunders/openstudio | [open](records/effects-braedonsaunders-openstudio-43bdd073.md) |
+| `github_search_effects-a040092700da5a` | lirios/shell | [open](records/effects-lirios-shell-c71c6048.md) |
 | `github_search_effects-a0a2f36172dfd5` | keijiro/ProcCharVfx | [open](records/effects-keijiro-proccharvfx-7f36c4f0.md) |
 | `github_search_effects-a20e304124fb80` | danielraffel/pulp-classic-effects | [open](records/effects-danielraffel-pulp-classic-effects-7b197f0e.md) |
 | `github_search_effects-a26aedb6c5d109` | KorinDev/Godot-Post-Process-Plugin | [open](records/effects-korindev-godot-post-process-plugin-7b4fccc0.md) |
@@ -6803,16 +6829,20 @@
 | `github_search_effects-af926d50a13cb5` | Jounce/Surge | [open](records/effects-jounce-surge-5760ab98.md) |
 | `github_search_effects-aff78afd0a8d23` | vbacollective/riff | [open](records/effects-vbacollective-riff-5f93725f.md) |
 | `github_search_effects-b04868e6be5092` | danromero1/Mixed-Signal-Guitar-Effects-Pedal | [open](records/effects-danromero1-mixed-signal-guitar-effects-pedal-f7357166.md) |
+| `github_search_effects-b094f57f0b15ca` | tycho-kirchner/fastcompmgr | [open](records/effects-tycho-kirchner-fastcompmgr-e01c8113.md) |
 | `github_search_effects-b0becf81473d72` | AuburnSounds/Dplug | [open](records/effects-auburnsounds-dplug-3c33ea8b.md) |
 | `github_search_effects-b0ccda286fb4b3` | iBicha/ImageEffectGraph | [open](records/effects-ibicha-imageeffectgraph-726f4f7e.md) |
+| `github_search_effects-b0dbcdec868640` | jedypod/open-display-transform | [open](records/effects-jedypod-open-display-transform-f9d8c30c.md) |
 | `github_search_effects-b17e95e567b40d` | alexirae/unreal-audio-dsp-template-UE5 | [open](records/effects-alexirae-unreal-audio-dsp-template-ue5-e7b9e84d.md) |
 | `github_search_effects-b1804e0fd319f4` | vfxai/vfx-datasets | [open](records/effects-vfxai-vfx-datasets-59e85e2e.md) |
 | `github_search_effects-b184e1e6cb7aa3` | grame-cncm/faust | [open](records/effects-grame-cncm-faust-4bda97dc.md) |
 | `github_search_effects-b1a3d19b14d1be` | artyommihailovich/RealityKitPostProcessingLUT | [open](records/effects-artyommihailovich-realitykitpostprocessinglut-94c47d97.md) |
 | `github_search_effects-b26c1c211cab1b` | wizgrav/aframe-effects | [open](records/effects-wizgrav-aframe-effects-51b6f98f.md) |
 | `github_search_effects-b318963550ac57` | TobiasKozel/GuitarD | [open](records/effects-tobiaskozel-guitard-96f78655.md) |
+| `github_search_effects-b3a968f15503f7` | c8r/x0 | [open](records/effects-c8r-x0-40ed9160.md) |
 | `github_search_effects-b4252a46659ca6` | jagger2048/Dynamics-processor | [open](records/effects-jagger2048-dynamics-processor-ca1bb51c.md) |
 | `github_search_effects-b584b77c631ac0` | diharaw/gpu-particle-system | [open](records/effects-diharaw-gpu-particle-system-ec5cdc62.md) |
+| `github_search_effects-b5ec739a99515d` | rcalixte/awesome-wayland | [open](records/effects-rcalixte-awesome-wayland-4cc39bd2.md) |
 | `github_search_effects-b654dcf404e525` | ColinKennedy/USD-Cookbook | [open](records/effects-colinkennedy-usd-cookbook-c0dce363.md) |
 | `github_search_effects-b67107d3ea8f46` | alexanderrichtertd/plex | [open](records/effects-alexanderrichtertd-plex-75c31e14.md) |
 | `github_search_effects-b73babb84f7d89` | Southpaw-TACTIC/TACTIC | [open](records/effects-southpaw-tactic-tactic-047258a6.md) |
@@ -6821,6 +6851,7 @@
 | `github_search_effects-b8d81a8f1e5757` | DatanoiseTV/PicoADK-Hardware | [open](records/effects-datanoisetv-picoadk-hardware-020ed462.md) |
 | `github_search_effects-b8db21e2cb5eea` | Ariakim-Taiyo/GeoFS-Shaders-Repository | [open](records/effects-ariakim-taiyo-geofs-shaders-repository-e1d48b19.md) |
 | `github_search_effects-ba99796b9f64ee` | Kelpekk/Juicee | [open](records/effects-kelpekk-juicee-a29c0cec.md) |
+| `github_search_effects-ba9a836caa8ef3` | CuarzoSoftware/Louvre | [open](records/effects-cuarzosoftware-louvre-8e4b81d1.md) |
 | `github_search_effects-baa47fb5f62983` | kevinraymond/fosfora | [open](records/effects-kevinraymond-fosfora-abca78d3.md) |
 | `github_search_effects-bb67f01b16bc15` | BA17-loma-1/Audio_Signal_Processing_Toolbox | [open](records/effects-ba17-loma-1-audio-signal-processing-toolbox-15d836ba.md) |
 | `github_search_effects-bc58f6ec97a92b` | DiffAPF/torchcomp | [open](records/effects-diffapf-torchcomp-c6e61558.md) |
@@ -6844,9 +6875,11 @@
 | `github_search_effects-c61f52bfd5c81d` | bzgeb/PixelatePostProcessingHDRP | [open](records/effects-bzgeb-pixelatepostprocessinghdrp-a0e82730.md) |
 | `github_search_effects-c755971bc01ceb` | afx1337/afxAudioEffects | [open](records/effects-afx1337-afxaudioeffects-d02ac96d.md) |
 | `github_search_effects-c83bbff2a0e3d1` | JNNGL/VanillaDI | [open](records/effects-jnngl-vanilladi-e65a97e6.md) |
+| `github_search_effects-c8c2879f2f902b` | canonical/mir | [open](records/effects-canonical-mir-4ddd8316.md) |
 | `github_search_effects-c97359dbd52a44` | PieterPenninckx/rsynth | [open](records/effects-pieterpenninckx-rsynth-d66f9d98.md) |
 | `github_search_effects-c9b976284e787b` | jagger2048/PitchShifting | [open](records/effects-jagger2048-pitchshifting-2fbbb302.md) |
 | `github_search_effects-c9eb2858d63cc1` | Prateek61/WayShade | [open](records/effects-prateek61-wayshade-46d90663.md) |
+| `github_search_effects-ca1bd83a81668c` | klange/toaruos | [open](records/effects-klange-toaruos-177b4062.md) |
 | `github_search_effects-ca3c8e01a4230e` | psiorx/Unity-Fisheye | [open](records/effects-psiorx-unity-fisheye-ff84630f.md) |
 | `github_search_effects-ca519cf1d1c68a` | miek/inspectrum | [open](records/effects-miek-inspectrum-030347ba.md) |
 | `github_search_effects-ca7ab883d9c3c1` | TobiasVanDyk/Audio-Effects-Preamp-VS1053b | [open](records/effects-tobiasvandyk-audio-effects-preamp-vs1053b-7e7ce423.md) |
@@ -6907,6 +6940,7 @@
 | `github_search_effects-e5b48734a748bf` | JuliaDSP/DSP.jl | [open](records/effects-juliadsp-dsp-jl-05078d2b.md) |
 | `github_search_effects-e64e87e30a73a5` | gtibo/VFX-sketchbook-Godot-4.x | [open](records/effects-gtibo-vfx-sketchbook-godot-4-x-2c159c1c.md) |
 | `github_search_effects-e68a436567e522` | Moekotori/ECHO | [open](records/effects-moekotori-echo-670d1049.md) |
+| `github_search_effects-e6c6e94724e0b1` | c8r/lab | [open](records/effects-c8r-lab-db3d29d3.md) |
 | `github_search_effects-e76c396bb38e3b` | Unity-Technologies/PostProcessing | [open](records/effects-unity-technologies-postprocessing-5b78ab0d.md) |
 | `github_search_effects-e7bb73edc20b4e` | DavidPeicho/3ffects | [open](records/effects-davidpeicho-3ffects-3d035698.md) |
 | `github_search_effects-e7ce4fc7e07749` | mbelyavsky/Unity-HDRP-JPEG-MP4-Compression-PostProcessing-Effect | [open](records/effects-mbelyavsky-unity-hdrp-jpeg-mp4-compression-postprocessing-effect-b83437c1.md) |
@@ -6914,6 +6948,7 @@
 | `github_search_effects-e8591a8c279bcd` | keijiro/VfxMinisExamples | [open](records/effects-keijiro-vfxminisexamples-4d4ec3dc.md) |
 | `github_search_effects-e869b5235ce9de` | piellardj/post-treatment-gpu | [open](records/effects-piellardj-post-treatment-gpu-28d6f1e8.md) |
 | `github_search_effects-e8d9a10630fc89` | sophiapoirier/destroyfx | [open](records/effects-sophiapoirier-destroyfx-cb3a67d5.md) |
+| `github_search_effects-ea277c15b04b7f` | iluaii/fwm | [open](records/effects-iluaii-fwm-02aec8aa.md) |
 | `github_search_effects-eaac23f1b891b4` | jatinchowdhury18/CrossroadsEffects | [open](records/effects-jatinchowdhury18-crossroadseffects-6d06792d.md) |
 | `github_search_effects-eaba84be0e0c5a` | jaylmiller/social_jam_DSP_Twitter_NLP | [open](records/effects-jaylmiller-social-jam-dsp-twitter-nlp-10351632.md) |
 | `github_search_effects-eba25202076b2b` | GuitarML/FunBox | [open](records/effects-guitarml-funbox-b6d4ee50.md) |
@@ -6921,10 +6956,13 @@
 | `github_search_effects-ec1fe977fcfde1` | MirzaBeig/Post-Processing-Scan | [open](records/effects-mirzabeig-post-processing-scan-81ec406f.md) |
 | `github_search_effects-ec2d24f5fc88b7` | izayoijiichan/VGO | [open](records/effects-izayoijiichan-vgo-cfe950e1.md) |
 | `github_search_effects-ed63ecd8e6a276` | subsoap/deffx | [open](records/effects-subsoap-deffx-dd098342.md) |
+| `github_search_effects-ed794910167b60` | pinnacle-comp/pinnacle | [open](records/effects-pinnacle-comp-pinnacle-12aa6aeb.md) |
+| `github_search_effects-edc1898ca043f6` | bazz1tv/snestracker | [open](records/effects-bazz1tv-snestracker-e6975267.md) |
 | `github_search_effects-eeaf8adea3043c` | george-ionita/rpi_python_bass_effects | [open](records/effects-george-ionita-rpi-python-bass-effects-0970210f.md) |
 | `github_search_effects-ef03b2c56225a0` | NullTale/GiLight2D | [open](records/effects-nulltale-gilight2d-763ee010.md) |
 | `github_search_effects-f086c6b592d228` | vincenzo-afk/chaos-vpn | [open](records/effects-vincenzo-afk-chaos-vpn-bcae43ad.md) |
 | `github_search_effects-f15a18b3b327b9` | ralgar/vkShade | [open](records/effects-ralgar-vkshade-027f2833.md) |
+| `github_search_effects-f1f9dfbe37cb74` | y5-snowies/nourish | [open](records/effects-y5-snowies-nourish-f98f28e3.md) |
 | `github_search_effects-f21d3d246c3933` | DarkstarProject/darkstar | [open](records/effects-darkstarproject-darkstar-e27ec1b4.md) |
 | `github_search_effects-f2357bcbbd3a9d` | keijiro/VfxGraphTestbed | [open](records/effects-keijiro-vfxgraphtestbed-63ba4cd6.md) |
 | `github_search_effects-f2a7424c05902b` | smu160/PhastFT | [open](records/effects-smu160-phastft-968bf587.md) |

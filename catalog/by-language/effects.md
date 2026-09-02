@@ -1,6 +1,6 @@
 # Effects
 
-Records: `570`
+Records: `608`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `570`
 ## Category Index
 
 [Api Abi Checker (180)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (41)](../by-category/assertion-mocking.md) · [Async Runtime (122)](../by-category/async-runtime.md)
-[Benchmarking (110)](../by-category/benchmarking.md) · [Build System (803)](../by-category/build-system.md) · [Cli (492)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (110)](../by-category/benchmarking.md) · [Build System (806)](../by-category/build-system.md) · [Cli (495)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (83)](../by-category/community-reference.md) · [Compiler (170)](../by-category/compiler.md) · [Compiler Diagnostics (22)](../by-category/compiler-diagnostics.md) · [Compression (45)](../by-category/compression.md)
-[Concurrency Parallelism (71)](../by-category/concurrency-parallelism.md) · [Configuration (97)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (11)](../by-category/coverage.md)
+[Concurrency Parallelism (71)](../by-category/concurrency-parallelism.md) · [Configuration (99)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (11)](../by-category/coverage.md)
 [Cryptography (154)](../by-category/cryptography.md) · [Data Science (32)](../by-category/data-science.md) · [Database Datastore (687)](../by-category/database-datastore.md) · [Datetime (157)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (41)](../by-category/debugger.md) · [Dependency Manager (83)](../by-category/dependency-manager.md) · [Documentation (80)](../by-category/documentation.md)
-[Embedded Hardware (47)](../by-category/embedded-hardware.md) · [Ffi Bindings (380)](../by-category/ffi-bindings.md) · [Filesystem Os (1160)](../by-category/filesystem-os.md) · [Formatter (542)](../by-category/formatter.md)
-[Framework (47)](../by-category/framework.md) · [Fuzzer (48)](../by-category/fuzzer.md) · [Game Engine Game Dev (153)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1115)](../by-category/ide-editor-integration.md)
+[Embedded Hardware (47)](../by-category/embedded-hardware.md) · [Ffi Bindings (380)](../by-category/ffi-bindings.md) · [Filesystem Os (1181)](../by-category/filesystem-os.md) · [Formatter (542)](../by-category/formatter.md)
+[Framework (47)](../by-category/framework.md) · [Fuzzer (48)](../by-category/fuzzer.md) · [Game Engine Game Dev (153)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1117)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (292)](../by-category/image-audio-dsp.md) · [Interop Bindings (52)](../by-category/interop-bindings.md) · [Interpreter Runtime (227)](../by-category/interpreter-runtime.md) · [Jit Vm (56)](../by-category/jit-vm.md)
 [Language Server (27)](../by-category/language-server.md) · [Language Specification (1223)](../by-category/language-specification.md) · [Library (4765)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (40)](../by-category/lint-rule-pack.md) · [Linter (346)](../by-category/linter.md) · [Logging Observability (386)](../by-category/logging-observability.md) · [Machine Learning (572)](../by-category/machine-learning.md)
+[Lint Rule Pack (40)](../by-category/lint-rule-pack.md) · [Linter (346)](../by-category/linter.md) · [Logging Observability (386)](../by-category/logging-observability.md) · [Machine Learning (574)](../by-category/machine-learning.md)
 [Math Numeric Scientific (79)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (76)](../by-category/memory-analyzer.md) · [Message Broker (31)](../by-category/message-broker.md) · [Networking Http (906)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (260)](../by-category/package-manager.md) · [Parser Lexer Ast (895)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (259)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (260)](../by-category/package-manager.md) · [Parser Lexer Ast (899)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (259)](../by-category/precommit-ci-quality.md)
 [Profiler (68)](../by-category/profiler.md) · [Project Scaffolding (118)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (12)](../by-category/sanitizer.md)
 [Security Sast (311)](../by-category/security-sast.md) · [Serialization (367)](../by-category/serialization.md) · [Standard Library (24)](../by-category/standard-library.md) · [Static Analyzer (426)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (492)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](../by-category/tutorial-book-styleguide.md) · [Type Checker (286)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1361)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (92)](../by-category/utility-library.md) · [Visualization Gui (413)](../by-category/visualization-gui.md) · [Web Framework (388)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1362)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (92)](../by-category/utility-library.md) · [Visualization Gui (413)](../by-category/visualization-gui.md) · [Web Framework (388)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -51,18 +51,21 @@ Records: `570`
 | --- | --- | --- | --- |
 | [AuburnSounds/Dplug](../records/effects-auburnsounds-dplug-3c33ea8b.md) | partial | 2026-07-02T13:19:52Z | registry-derived |
 | [ChrisBuilds/terminaltexteffects](../records/effects-chrisbuilds-terminaltexteffects-f3febb67.md) | partial | 2026-06-10T01:56:19Z | registry-derived |
+| [CuarzoSoftware/Louvre](../records/effects-cuarzosoftware-louvre-8e4b81d1.md) | partial | 2026-08-31T18:15:35Z | registry-derived |
 | [DatanoiseTV/PicoADK-Hardware](../records/effects-datanoisetv-picoadk-hardware-020ed462.md) | partial | 2024-01-05T12:00:10Z | registry-derived |
 | [james34602/JamesDSPManager](../records/effects-james34602-jamesdspmanager-b977897f.md) | partial | 2025-06-18T14:08:35Z | registry-derived |
 | [JatinChopra/emissive-dissolve-effect](../records/effects-jatinchopra-emissive-dissolve-effect-0dafd235.md) | partial | 2025-02-17T10:13:44Z | registry-derived |
 | [kleineluka/junelite](../records/effects-kleineluka-junelite-95d9c2fb.md) | partial | 2025-08-15T08:11:25Z | registry-derived |
-| [korginc/logue-sdk](../records/effects-korginc-logue-sdk-8127b979.md) | partial | 2026-08-17T06:54:17Z | registry-derived |
+| [korginc/logue-sdk](../records/effects-korginc-logue-sdk-8127b979.md) | partial | 2026-09-01T22:59:28Z | registry-derived |
 | [kratofl/kratomix](../records/effects-kratofl-kratomix-0945699b.md) | partial | 2026-08-18T21:09:01Z | registry-derived |
 | [Masudbro94/python-hacked-mobile-phone-](../records/effects-masudbro94-python-hacked-mobile-phone-f3a240c2.md) | unknown | github_latest_release_missing | registry-derived |
 | [MintoTsukino/MintoShaderSuite](../records/effects-mintotsukino-mintoshadersuite-ef86ca31.md) | 1.0 | 2025-10-23T21:18:21Z | registry-derived |
 | [noisefactorllc/noisemaker](../records/effects-noisefactorllc-noisemaker-3b4d1858.md) | partial | 2026-09-01T19:40:08Z | registry-derived |
 | [overmindstudios/BlenderUpdater](../records/effects-overmindstudios-blenderupdater-a3b9c905.md) | partial | 2026-06-02T17:35:22Z | registry-derived |
+| [phkaeser/wlmaker](../records/effects-phkaeser-wlmaker-bba50595.md) | partial | 2026-08-29T17:50:14Z | registry-derived |
 | [sean-hayeskxw9521/auxide-dsp-v020-library](../records/effects-sean-hayeskxw9521-auxide-dsp-v020-library-08fdecae.md) | partial | 2026-09-01T13:26:03Z | registry-derived |
-| [sophiapoirier/destroyfx](../records/effects-sophiapoirier-destroyfx-cb3a67d5.md) | partial | 2026-09-01T17:48:28Z | registry-derived |
+| [sophiapoirier/destroyfx](../records/effects-sophiapoirier-destroyfx-cb3a67d5.md) | partial | 2026-09-01T21:08:34Z | registry-derived |
+| [starling-build/starling](../records/effects-starling-build-starling-11beaa07.md) | partial | 2026-08-30T19:53:22Z | registry-derived |
 | [thehugh100/dsp-playground](../records/effects-thehugh100-dsp-playground-d3933aff.md) | partial | 2026-07-13T17:20:32Z | registry-derived |
 | [UnityTechnologies/ATerribleKingdom](../records/effects-unitytechnologies-aterriblekingdom-540a631e.md) | partial | 2020-10-04T07:30:56Z | registry-derived |
 | [vfxpro99/usd-build-club](../records/effects-vfxpro99-usd-build-club-cb12f272.md) | partial | 2020-05-27T20:03:43Z | registry-derived |
@@ -72,10 +75,13 @@ Records: `570`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [CanYuzbey/Cpp-Audio-Bitcrusher](../records/effects-canyuzbey-cpp-audio-bitcrusher-d7defebc.md) | partial | 2026-01-25T15:51:00Z | registry-derived |
+| [denialwm/denial](../records/effects-denialwm-denial-38ee513d.md) | partial | 2026-08-31T21:15:38Z | registry-derived |
 | [EemilAhonen/leikkaus](../records/effects-eemilahonen-leikkaus-f2b2b34e.md) | partial | 2024-03-04T22:16:25Z | registry-derived |
 | [ha7ilm/csdr](../records/effects-ha7ilm-csdr-5d56336a.md) | partial | 2024-02-06T12:13:28Z | registry-derived |
 | [jmstajim/Particlized](../records/effects-jmstajim-particlized-6bb3d995.md) | partial | 2025-09-18T20:30:44Z | registry-derived |
 | [kosa12/CRTty](../records/effects-kosa12-crtty-860c32b6.md) | partial | 2026-02-13T12:31:23Z | registry-derived |
+| [lirios/shell](../records/effects-lirios-shell-c71c6048.md) | partial | 2024-02-11T14:16:13Z | registry-derived |
+| [rwxrob/bonzai](../records/effects-rwxrob-bonzai-674c9c09.md) | partial | 2026-04-18T16:22:17Z | registry-derived |
 
 ### Community Reference
 
@@ -111,6 +117,8 @@ Records: `570`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [AcademySoftwareFoundation/openvdb](../records/effects-academysoftwarefoundation-openvdb-fbe81c11.md) | partial | 2026-09-01T17:43:34Z | registry-derived |
+| [avivace/dotfiles](../records/effects-avivace-dotfiles-d1092acc.md) | partial | 2025-10-06T09:29:22Z | registry-derived |
+| [pinnacle-comp/pinnacle](../records/effects-pinnacle-comp-pinnacle-12aa6aeb.md) | partial | 2026-06-27T21:59:05Z | registry-derived |
 | [Sid-WC121/Audio-Echo-Modelling](../records/effects-sid-wc121-audio-echo-modelling-b6a9cb65.md) | partial | 2023-07-23T08:07:44Z | registry-derived |
 | [Southpaw-TACTIC/TACTIC](../records/effects-southpaw-tactic-tactic-047258a6.md) | partial | 2026-05-24T01:24:56Z | registry-derived |
 | [TobiasVanDyk/Audio-Effects-Preamp-VS1053b](../records/effects-tobiasvandyk-audio-effects-preamp-vs1053b-7e7ce423.md) | partial | 2022-06-30T18:52:30Z | registry-derived |
@@ -170,10 +178,12 @@ Records: `570`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [1ay1/neowall](../records/effects-1ay1-neowall-29ce32e8.md) | partial | 2026-08-11T00:33:47Z | registry-derived |
 | [AdultLink/HoloShield](../records/effects-adultlink-holoshield-acc1efda.md) | partial | 2018-12-07T12:27:11Z | registry-derived |
 | [AhmedAmrNabil/arena-rush](../records/effects-ahmedamrnabil-arena-rush-d1327c86.md) | v1.0.1 | 2026-05-02T09:14:43Z | registry-derived |
 | [aiyaapp/AiyaEffectsIOS](../records/effects-aiyaapp-aiyaeffectsios-74a3ed57.md) | partial | 2021-02-02T01:20:00Z | registry-derived |
 | [Alchemist0823/three.quarks](../records/effects-alchemist0823-three-quarks-ef545dfc.md) | unknown | github_latest_release_missing | registry-derived |
+| [allusive-dev/compfy](../records/effects-allusive-dev-compfy-a54fd05c.md) | partial | 2024-02-22T02:54:38Z | registry-derived |
 | [AmplitudeAudio/sdk](../records/effects-amplitudeaudio-sdk-34ae5fe0.md) | partial | 2026-07-29T22:40:21Z | registry-derived |
 | [andrepxx/go-dsp-guitar](../records/effects-andrepxx-go-dsp-guitar-ce4b26a1.md) | partial | 2026-07-30T18:42:03Z | registry-derived |
 | [Ariakim-Taiyo/GeoFS-Shaders-Repository](../records/effects-ariakim-taiyo-geofs-shaders-repository-e1d48b19.md) | unknown | github_latest_release_missing | registry-derived |
@@ -190,6 +200,10 @@ Records: `570`
 | [bzgeb/PixelatePostProcessing](../records/effects-bzgeb-pixelatepostprocessing-b290f2e0.md) | unknown | github_latest_release_missing | registry-derived |
 | [bzgeb/PixelatePostProcessingHDRP](../records/effects-bzgeb-pixelatepostprocessinghdrp-a0e82730.md) | unknown | github_latest_release_missing | registry-derived |
 | [bzgeb/PixelatePostProcessingURP](../records/effects-bzgeb-pixelatepostprocessingurp-84a2eb9b.md) | unknown | github_latest_release_missing | registry-derived |
+| [c8r/lab](../records/effects-c8r-lab-db3d29d3.md) | partial | 2018-06-26T22:56:31Z | registry-derived |
+| [c8r/x0](../records/effects-c8r-x0-40ed9160.md) | partial | 2019-11-06T18:22:27Z | registry-derived |
+| [cage-kiosk/cage](../records/effects-cage-kiosk-cage-38b27c00.md) | partial | 2026-08-18T08:01:02Z | registry-derived |
+| [canonical/mir](../records/effects-canonical-mir-4ddd8316.md) | partial | 2026-09-01T21:23:29Z | registry-derived |
 | [cansik/processing-postfx](../records/effects-cansik-processing-postfx-3d2f44fc.md) | 1.2 | 2017-06-14T07:17:01Z | registry-derived |
 | [coryleach/UnityPostProcessing](../records/effects-coryleach-unitypostprocessing-0847dfd6.md) | 1.0.0 | 2019-09-23T05:38:00Z | registry-derived |
 | [crosire/reshade-shaders](../records/effects-crosire-reshade-shaders-edf78e8d.md) | unknown | github_latest_release_missing | registry-derived |
@@ -202,6 +216,7 @@ Records: `570`
 | [devkcud/VesperaFX](../records/effects-devkcud-vesperafx-4930c1a3.md) | unknown | github_latest_release_missing | registry-derived |
 | [DGerry83/CinematicShaders](../records/effects-dgerry83-cinematicshaders-5f79f2ba.md) | 0.3.10 | 2026-08-31T00:52:26Z | registry-derived |
 | [DiegoRosales/El_Rockero](../records/effects-diegorosales-el-rockero-0f8eca1d.md) | partial | 2014-03-26T19:49:17Z | registry-derived |
+| [djpohly/dwl](../records/effects-djpohly-dwl-cd9c6e6b.md) | partial | 2023-11-25T07:38:10Z | registry-derived |
 | [Dzyzor/godot-selective-post-processing-shader-demo](../records/effects-dzyzor-godot-selective-post-processing-shader-demo-2adca4e9.md) | unknown | github_latest_release_missing | registry-derived |
 | [EllangoK/ComfyUI-post-processing-nodes](../records/effects-ellangok-comfyui-post-processing-nodes-f937fbee.md) | partial | 2025-01-20T07:16:46Z | registry-derived |
 | [EMBYRDEV/godot-toon-outline](../records/effects-embyrdev-godot-toon-outline-47c40b14.md) | unknown | github_latest_release_missing | registry-derived |
@@ -214,6 +229,8 @@ Records: `570`
 | [florolf/fluxus-pp](../records/effects-florolf-fluxus-pp-90640899.md) | unknown | github_latest_release_missing | registry-derived |
 | [GarrettGunnell/Inktober-Ink-Shader](../records/effects-garrettgunnell-inktober-ink-shader-9c674dfd.md) | unknown | github_latest_release_missing | registry-derived |
 | [gdquest-demos/godot-4-VFX-assets](../records/effects-gdquest-demos-godot-4-vfx-assets-519bf311.md) | partial | 2026-05-16T07:28:05Z | registry-derived |
+| [getoffmyhack/waveSDR](../records/effects-getoffmyhack-wavesdr-29b3c175.md) | partial | 2026-08-01T17:26:02Z | registry-derived |
+| [ghaerr/agg-2.6](../records/effects-ghaerr-agg-2-6-d129da6e.md) | partial | 2023-09-13T00:27:54Z | registry-derived |
 | [gnuradio/gnuradio](../records/effects-gnuradio-gnuradio-792f9652.md) | partial | 2026-08-27T23:02:01Z | registry-derived |
 | [grizzlypeak3d/DJV](../records/effects-grizzlypeak3d-djv-a31a9ac6.md) | partial | 2026-09-02T02:18:17Z | registry-derived |
 | [HEnquist/camilladsp](../records/effects-henquist-camilladsp-d941192e.md) | partial | 2026-09-01T15:08:43Z | registry-derived |
@@ -221,11 +238,13 @@ Records: `570`
 | [hifiberry/hifiberry-os](../records/effects-hifiberry-hifiberry-os-23434356.md) | partial | 2026-09-01T19:18:13Z | registry-derived |
 | [hmans/composer-suite](../records/effects-hmans-composer-suite-79097285.md) | partial | 2026-02-27T15:45:58Z | registry-derived |
 | [hughsk/voxel-colorist](../records/effects-hughsk-voxel-colorist-4f0cd027.md) | unknown | github_latest_release_missing | registry-derived |
+| [hyprwm/Hyprland](../records/effects-hyprwm-hyprland-ab213774.md) | partial | 2026-09-01T18:14:39Z | registry-derived |
 | [iBicha/ImageEffectGraph](../records/effects-ibicha-imageeffectgraph-726f4f7e.md) | unknown | github_latest_release_missing | registry-derived |
 | [icanzilb/UIEffectDesignerView](../records/effects-icanzilb-uieffectdesignerview-53a5eac9.md) | unknown | github_latest_release_missing | registry-derived |
 | [ilialek/Pixel-Shader](../records/effects-ilialek-pixel-shader-ab4083de.md) | unknown | github_latest_release_missing | registry-derived |
 | [IndieMiao/Z-PostProcessing-HDRP](../records/effects-indiemiao-z-postprocessing-hdrp-c2893a65.md) | unknown | github_latest_release_missing | registry-derived |
 | [ItsTanPI/2DURP-GodRays](../records/effects-itstanpi-2durp-godrays-b2feb30b.md) | v1.0 | 2024-11-01T13:44:58Z | registry-derived |
+| [jaelpark/chamferwm](../records/effects-jaelpark-chamferwm-c4010e3e.md) | partial | 2024-09-28T10:23:02Z | registry-derived |
 | [jagumiel/Guitar-Pedal-Effects-on-FPGA](../records/effects-jagumiel-guitar-pedal-effects-on-fpga-b6ef3a17.md) | partial | 2026-07-22T19:55:10Z | registry-derived |
 | [jatinchowdhury18/CrossroadsEffects](../records/effects-jatinchowdhury18-crossroadseffects-6d06792d.md) | partial | 2020-04-08T22:47:29Z | registry-derived |
 | [JNNGL/vanilla-shaders](../records/effects-jnngl-vanilla-shaders-cc2a49e8.md) | partial | 2025-05-14T10:16:59Z | registry-derived |
@@ -241,13 +260,17 @@ Records: `570`
 | [Juanrod99/Godot-PS1-Shader-Mixer](../records/effects-juanrod99-godot-ps1-shader-mixer-c5659293.md) | unknown | github_latest_release_missing | registry-derived |
 | [keijiro/KinoMotion](../records/effects-keijiro-kinomotion-5b4e3195.md) | partial | 2017-09-22T09:59:03Z | registry-derived |
 | [kevinraymond/fosfora](../records/effects-kevinraymond-fosfora-abca78d3.md) | partial | 2026-08-25T18:06:30Z | registry-derived |
+| [klange/toaruos](../records/effects-klange-toaruos-177b4062.md) | partial | 2026-09-01T22:59:23Z | registry-derived |
 | [KonradIT/gopro-linux](../records/effects-konradit-gopro-linux-8d431adf.md) | partial | 2024-08-11T16:30:35Z | registry-derived |
 | [KorinDev/Godot-Post-Process-Plugin](../records/effects-korindev-godot-post-process-plugin-7b4fccc0.md) | v0.1.1 | 2025-04-02T22:23:00Z | registry-derived |
 | [kylebueche/compositor](../records/effects-kylebueche-compositor-53bcb2a4.md) | unknown | github_latest_release_missing | registry-derived |
 | [leonaaraujo/unity-chromatic-aberration](../records/effects-leonaaraujo-unity-chromatic-aberration-ddaa5041.md) | unknown | github_latest_release_missing | registry-derived |
 | [leonaaraujo/unity-phosphor-monitor-shader](../records/effects-leonaaraujo-unity-phosphor-monitor-shader-00361333.md) | unknown | github_latest_release_missing | registry-derived |
 | [LordAlbior/UE4-Watercolor](../records/effects-lordalbior-ue4-watercolor-20e0b210.md) | unknown | github_latest_release_missing | registry-derived |
+| [lotos-linux/hypr-dock](../records/effects-lotos-linux-hypr-dock-30a70bd7.md) | partial | 2026-03-14T22:51:39Z | registry-derived |
+| [malbiruk/driftwm](../records/effects-malbiruk-driftwm-7fb2ce7f.md) | partial | 2026-08-26T09:43:51Z | registry-derived |
 | [Malidos/Stylized-Water-Shader](../records/effects-malidos-stylized-water-shader-b701423a.md) | unknown | github_latest_release_missing | registry-derived |
+| [mangowm/mango](../records/effects-mangowm-mango-e98f7439.md) | partial | 2026-09-02T01:21:57Z | registry-derived |
 | [MarieLynneBlock/RealTimeAudioSignalProcessing-Faust](../records/effects-marielynneblock-realtimeaudiosignalprocessing-faust-184135f0.md) | partial | 2019-06-05T19:15:07Z | registry-derived |
 | [martinber/noaa-apt](../records/effects-martinber-noaa-apt-cd098cc9.md) | partial | 2024-02-10T15:41:50Z | registry-derived |
 | [medusalix/MiniVST](../records/effects-medusalix-minivst-c855328d.md) | partial | 2019-03-06T17:18:51Z | registry-derived |
@@ -276,10 +299,12 @@ Records: `570`
 | [piellardj/post-treatment-gpu](../records/effects-piellardj-post-treatment-gpu-28d6f1e8.md) | unknown | github_latest_release_missing | registry-derived |
 | [pmndrs/postprocessing](../records/effects-pmndrs-postprocessing-6cffe31f.md) | partial | 2026-08-30T21:33:42Z | registry-derived |
 | [PossiblyAxolotl/pdParticles](../records/effects-possiblyaxolotl-pdparticles-1874c068.md) | partial | 2025-08-13T22:09:34Z | registry-derived |
+| [project-repo/cagebreak](../records/effects-project-repo-cagebreak-368328f0.md) | partial | 2026-06-13T13:53:43Z | registry-derived |
 | [protyposis/Spectaculum](../records/effects-protyposis-spectaculum-fcac9d0d.md) | partial | 2024-02-21T09:28:30Z | registry-derived |
 | [QianMo/X-PostProcessing-Library](../records/effects-qianmo-x-postprocessing-library-3834f7d5.md) | partial | 2023-07-14T17:42:11Z | registry-derived |
 | [radoslawregula/reverb-algorithms](../records/effects-radoslawregula-reverb-algorithms-0f4a1d2f.md) | partial | 2020-02-09T11:12:27Z | registry-derived |
 | [ralgar/vkShade](../records/effects-ralgar-vkshade-027f2833.md) | partial | 2026-08-31T22:46:58Z | registry-derived |
+| [rcalixte/awesome-wayland](../records/effects-rcalixte-awesome-wayland-4cc39bd2.md) | partial | 2026-08-30T19:00:18Z | registry-derived |
 | [robclouth/noise-canvas](../records/effects-robclouth-noise-canvas-171ca6d8.md) | partial | 2026-08-25T09:29:49Z | registry-derived |
 | [rockbite/talos](../records/effects-rockbite-talos-07105463.md) | partial | 2026-08-18T11:17:42Z | registry-derived |
 | [ruofeidu/MyShadertoy](../records/effects-ruofeidu-myshadertoy-a20635d7.md) | unknown | github_latest_release_missing | registry-derived |
@@ -292,6 +317,7 @@ Records: `570`
 | [ssell/UnitySobelOutline](../records/effects-ssell-unitysobeloutline-4693ed07.md) | unknown | github_latest_release_missing | registry-derived |
 | [staffantan/unity-vhsglitch](../records/effects-staffantan-unity-vhsglitch-249f6ad5.md) | unknown | github_latest_release_missing | registry-derived |
 | [staffantan/unityglitch](../records/effects-staffantan-unityglitch-b6e1e23d.md) | unknown | github_latest_release_missing | registry-derived |
+| [swaywm/sway](../records/effects-swaywm-sway-c69aa38b.md) | partial | 2026-07-31T11:47:08Z | registry-derived |
 | [tantaneity/unity-urp-outline-postprocess](../records/effects-tantaneity-unity-urp-outline-postprocess-0e6c8555.md) | unknown | github_latest_release_missing | registry-derived |
 | [TheGordinho/MLUT](../records/effects-thegordinho-mlut-aaea6a09.md) | partial | 2026-06-13T22:18:45Z | registry-derived |
 | [TobiasVanDyk/VS1053B-Teensy-36-and-41-Music-Effects](../records/effects-tobiasvandyk-vs1053b-teensy-36-and-41-music-effects-698f327e.md) | partial | 2022-07-24T15:59:34Z | registry-derived |
@@ -305,10 +331,13 @@ Records: `570`
 | [wake-bikila-dev/Rose_flower](../records/effects-wake-bikila-dev-rose-flower-5c6c7075.md) | unknown | github_latest_release_missing | registry-derived |
 | [WillyBilly06/BDK-AUDIO-APP](../records/effects-willybilly06-bdk-audio-app-13262d72.md) | partial | 2026-06-08T09:56:37Z | registry-derived |
 | [wizgrav/aframe-effects](../records/effects-wizgrav-aframe-effects-51b6f98f.md) | partial | 2020-08-23T23:36:32Z | registry-derived |
+| [wlrfx/swayfx](../records/effects-wlrfx-swayfx-44f294c1.md) | partial | 2026-08-31T08:08:15Z | registry-derived |
 | [Wokarol/PostProcessing-CustomEffects](../records/effects-wokarol-postprocessing-customeffects-d426029f.md) | unknown | github_latest_release_missing | registry-derived |
 | [wolf96/shader_for_unity](../records/effects-wolf96-shader-for-unity-ab3c90c1.md) | unknown | github_latest_release_missing | registry-derived |
+| [y5-snowies/nourish](../records/effects-y5-snowies-nourish-f98f28e3.md) | partial | 2026-08-28T18:28:34Z | registry-derived |
 | [yexiang92/opstool](../records/effects-yexiang92-opstool-ff6c7c7b.md) | partial | 2026-07-03T02:11:12Z | registry-derived |
 | [yezzfusl/AudioSpectra](../records/effects-yezzfusl-audiospectra-1d486240.md) | partial | 2024-08-16T22:25:56Z | registry-derived |
+| [yshui/picom](../records/effects-yshui-picom-37b1f234.md) | partial | 2026-06-02T17:39:32Z | registry-derived |
 
 ### Formatter
 
@@ -377,8 +406,10 @@ Records: `570`
 | [FORARTfe/HyMPS](../records/effects-forartfe-hymps-a067ccbe.md) | partial | 2026-08-27T06:22:53Z | registry-derived |
 | [IdeaSpaceVR/aframe-particle-system-component](../records/effects-ideaspacevr-aframe-particle-system-component-80cdc49c.md) | unknown | github_latest_release_missing | registry-derived |
 | [ideoforms/signalflow](../records/effects-ideoforms-signalflow-fb90f2e9.md) | partial | 2026-05-04T21:05:19Z | registry-derived |
+| [iluaii/fwm](../records/effects-iluaii-fwm-02aec8aa.md) | partial | 2026-09-01T11:59:59Z | registry-derived |
 | [jacksoswag/Spectra](../records/effects-jacksoswag-spectra-220288fc.md) | unknown | github_latest_release_missing | registry-derived |
 | [jarl-opensource/drakkar-vfx](../records/effects-jarl-opensource-drakkar-vfx-7324f00c.md) | partial | 2025-07-10T00:21:11Z | registry-derived |
+| [jedypod/open-display-transform](../records/effects-jedypod-open-display-transform-f9d8c30c.md) | partial | 2026-02-09T21:40:50Z | registry-derived |
 | [Jounce/Surge](../records/effects-jounce-surge-5760ab98.md) | partial | 2023-07-20T14:04:23Z | registry-derived |
 | [kdrag0n/fxdsp](../records/effects-kdrag0n-fxdsp-ed8a2cc5.md) | partial | 2023-08-21T09:34:31Z | registry-derived |
 | [keijiro/Rcam](../records/effects-keijiro-rcam-674b64d9.md) | partial | 2019-07-11T14:02:58Z | registry-derived |
@@ -393,7 +424,7 @@ Records: `570`
 | [shamadee/web-dsp](../records/effects-shamadee-web-dsp-a3bd15e7.md) | partial | 2017-06-05T05:36:36Z | registry-derived |
 | [sideeffects/SideFXLabs](../records/effects-sideeffects-sidefxlabs-13175f93.md) | partial | 2026-09-01T04:01:21Z | registry-derived |
 | [Souloist/audio-effects](../records/effects-souloist-audio-effects-d98c525b.md) | partial | 2016-04-13T03:06:04Z | registry-derived |
-| [supriya-project/supriya](../records/effects-supriya-project-supriya-d075f962.md) | partial | 2026-08-25T07:45:13Z | registry-derived |
+| [supriya-project/supriya](../records/effects-supriya-project-supriya-d075f962.md) | partial | 2026-09-02T01:26:58Z | registry-derived |
 | [taco-group/SparkVSR](../records/effects-taco-group-sparkvsr-646d164d.md) | partial | 2026-08-03T04:15:33Z | registry-derived |
 | [timschneeb/RootlessJamesDSP](../records/effects-timschneeb-rootlessjamesdsp-1af2e0d4.md) | partial | 2026-08-31T04:26:24Z | registry-derived |
 | [Visko-Platform/VEFX-Bench](../records/effects-visko-platform-vefx-bench-45e16f5e.md) | partial | 2026-05-16T13:47:37Z | registry-derived |
@@ -595,6 +626,7 @@ Records: `570`
 | --- | --- | --- | --- |
 | [afterimage-lab/Rainform](../records/effects-afterimage-lab-rainform-39857d48.md) | partial | 2026-08-24T01:09:34Z | registry-derived |
 | [ampactor-labs/sonido](../records/effects-ampactor-labs-sonido-bed68043.md) | partial | 2026-07-31T01:13:57Z | registry-derived |
+| [bazz1tv/snestracker](../records/effects-bazz1tv-snestracker-e6975267.md) | partial | 2022-05-02T00:44:18Z | registry-derived |
 | [djeedai/bevy_hanabi](../records/effects-djeedai-bevy-hanabi-e16b8425.md) | partial | 2026-08-30T17:06:46Z | registry-derived |
 | [doomlaser/DepthMask-Unity-Shader](../records/effects-doomlaser-depthmask-unity-shader-910913b1.md) | partial | 2025-12-05T02:53:25Z | registry-derived |
 | [electro-smith/DaisySP](../records/effects-electro-smith-daisysp-7dd7ed54.md) | partial | 2025-05-29T04:37:29Z | registry-derived |
@@ -603,6 +635,7 @@ Records: `570`
 | [IvanMurzak/Unity-AI-ParticleSystem](../records/effects-ivanmurzak-unity-ai-particlesystem-ea5e947e.md) | partial | 2026-08-21T07:00:13Z | registry-derived |
 | [iver56/audiomentations](../records/effects-iver56-audiomentations-635d4f31.md) | partial | 2026-04-13T22:04:14Z | registry-derived |
 | [maia-sdr/maia-sdr](../records/effects-maia-sdr-maia-sdr-88e8ecf8.md) | partial | 2026-04-27T10:38:39Z | registry-derived |
+| [marcel-licence/ML_SynthTools](../records/effects-marcel-licence-ml-synthtools-a77d2383.md) | partial | 2026-08-15T15:31:10Z | registry-derived |
 | [mob-sakai/ParticleEffectForUGUI](../records/effects-mob-sakai-particleeffectforugui-6a75f88e.md) | partial | 2026-08-27T11:28:20Z | registry-derived |
 | [naveen-kumawat/Flower](../records/effects-naveen-kumawat-flower-2bf17aa5.md) | partial | 2026-05-21T18:28:17Z | registry-derived |
 | [rajajain08/particles_flutter](../records/effects-rajajain08-particles-flutter-2925862d.md) | partial | 2026-08-29T08:55:42Z | registry-derived |
@@ -658,14 +691,18 @@ Records: `570`
 | [adefossez/julius](../records/effects-adefossez-julius-c2369600.md) | partial | 2026-06-03T15:55:19Z | registry-derived |
 | [AstronDaniel/audio_effects_processor](../records/effects-astrondaniel-audio-effects-processor-bc59d97d.md) | partial | 2024-10-29T06:28:20Z | registry-derived |
 | [avaneev/r8brain-free-src](../records/effects-avaneev-r8brain-free-src-0726978b.md) | partial | 2026-08-17T01:27:01Z | registry-derived |
+| [calebzulawski/fourier](../records/effects-calebzulawski-fourier-33620126.md) | partial | 2023-04-28T21:48:36Z | registry-derived |
 | [cirocosta/asciinema-edit](../records/effects-cirocosta-asciinema-edit-04188dee.md) | partial | 2023-06-28T22:07:22Z | registry-derived |
 | [iver56/torch-audiomentations](../records/effects-iver56-torch-audiomentations-79b689a6.md) | partial | 2025-11-24T20:07:26Z | registry-derived |
 | [kfrlib/kfr](../records/effects-kfrlib-kfr-8c028bab.md) | partial | 2026-08-19T17:28:01Z | registry-derived |
 | [marton78/pffft](../records/effects-marton78-pffft-ac92569e.md) | partial | 2026-08-28T11:40:55Z | registry-derived |
 | [metno/gridpp](../records/effects-metno-gridpp-e2860702.md) | partial | 2025-03-16T08:51:54Z | registry-derived |
 | [rj200/Glamarye_Fast_Effects_for_ReShade](../records/effects-rj200-glamarye-fast-effects-for-reshade-71a12d66.md) | v6.4.2 | 2023-08-07T23:17:19Z | registry-derived |
+| [seanZhang414/openadserver](../records/effects-seanzhang414-openadserver-f9d27b45.md) | partial | 2025-12-21T13:17:51Z | registry-derived |
 | [sergree/matchering](../records/effects-sergree-matchering-9b24080b.md) | partial | 2026-07-08T14:37:52Z | registry-derived |
+| [Sportinger/MasterSelects](../records/effects-sportinger-masterselects-e597519e.md) | partial | 2026-08-29T09:19:36Z | registry-derived |
 | [TasThief/CameraClippingShader](../records/effects-tasthief-cameraclippingshader-67b2501a.md) | unknown | github_latest_release_missing | registry-derived |
+| [tycho-kirchner/fastcompmgr](../records/effects-tycho-kirchner-fastcompmgr-e01c8113.md) | partial | 2026-07-31T21:47:26Z | registry-derived |
 
 ### Precommit Ci Quality
 
@@ -756,6 +793,7 @@ Records: `570`
 | [BillyDM/awesome-audio-dsp](../records/effects-billydm-awesome-audio-dsp-a5cff982.md) | partial | 2026-08-20T03:10:10Z | registry-derived |
 | [braedonsaunders/openstudio](../records/effects-braedonsaunders-openstudio-43bdd073.md) | partial | 2026-05-13T23:00:35Z | registry-derived |
 | [brandleesee/ePSXe64Ubuntu](../records/effects-brandleesee-epsxe64ubuntu-ae197016.md) | partial | 2023-06-20T07:52:14Z | registry-derived |
+| [canonical/ubuntu-frame](../records/effects-canonical-ubuntu-frame-e76d66fc.md) | partial | 2026-08-31T04:34:54Z | registry-derived |
 | [cmajor-lang/cmajor](../records/effects-cmajor-lang-cmajor-4dc0a78b.md) | partial | 2026-07-29T13:08:46Z | registry-derived |
 | [CompleteUnityDeveloper/Laser-Defender-Original](../records/effects-completeunitydeveloper-laser-defender-original-c8db6005.md) | partial | 2018-08-14T11:29:55Z | registry-derived |
 | [CustomPhase/CP_SSSSS](../records/effects-customphase-cp-sssss-c1aa7a17.md) | partial | 2019-05-26T11:39:20Z | registry-derived |
