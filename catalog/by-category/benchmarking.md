@@ -142,7 +142,7 @@ Records: `110`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| milvus-io/milvus | partial | 2026-09-02T04:22:22Z | [open](../records/aim-s-milvus-io-milvus-54ee327d.md) |
+| milvus-io/milvus | partial | 2026-09-02T05:17:57Z | [open](../records/aim-s-milvus-io-milvus-54ee327d.md) |
 
 ## Assets
 

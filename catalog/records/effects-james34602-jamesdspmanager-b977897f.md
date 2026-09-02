@@ -33,7 +33,7 @@ graph control, artifact reproducibility, cross-platform build policy, and CI int
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2025-06-18T14:08:35Z | gh search repos topic:dsp stars:>100 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2025-06-18T14:08:35Z | gh search repos audio effects dsp | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -58,7 +58,7 @@ graph control, artifact reproducibility, cross-platform build policy, and CI int
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-02 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:dsp stars:>100", "retrieved": "2026-09-02", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-02 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "audio effects dsp", "retrieved": "2026-09-02", "status": "forge-cli-derived"}` |
 
 </details>
 

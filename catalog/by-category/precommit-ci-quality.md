@@ -336,7 +336,7 @@ Records: `259`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | boltgolt/howdy | partial | 2025-07-29T10:07:27Z | [open](../records/photography-boltgolt-howdy-772dcbb3.md) |
-| marcinz606/NegPy | partial | 2026-09-01T08:54:26Z | [open](../records/photography-marcinz606-negpy-13e4113f.md) |
+| marcinz606/NegPy | partial | 2026-09-02T05:05:52Z | [open](../records/photography-marcinz606-negpy-13e4113f.md) |
 | ramokz/phantom-camera | partial | 2026-09-01T20:36:49Z | [open](../records/photography-ramokz-phantom-camera-07b158cf.md) |
 
 ## Telescopes

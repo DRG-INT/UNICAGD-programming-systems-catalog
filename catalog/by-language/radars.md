@@ -149,7 +149,7 @@ Records: `149`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ashuttl/linecast](../records/radars-ashuttl-linecast-afb4bdb7.md) | partial | 2026-09-01T22:24:35Z | registry-derived |
+| [ashuttl/linecast](../records/radars-ashuttl-linecast-afb4bdb7.md) | partial | 2026-09-02T03:11:32Z | registry-derived |
 | [bellingcat/sar-interference-tracker](../records/radars-bellingcat-sar-interference-tracker-8efa36c7.md) | partial | 2022-02-23T13:57:03Z | registry-derived |
 | [bellingcat/umbra-open-data-tracker](../records/radars-bellingcat-umbra-open-data-tracker-b56dce91.md) | partial | 2026-08-03T14:44:41Z | registry-derived |
 | [CyanideCN/PyCINRAD](../records/radars-cyanidecn-pycinrad-fe2b1f00.md) | partial | 2026-06-26T10:45:59Z | registry-derived |

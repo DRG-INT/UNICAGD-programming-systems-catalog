@@ -201,9 +201,9 @@ Records: `179`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [a-r-d/PureJsImage](../records/microscopy-a-r-d-purejsimage-f9287947.md) | partial | 2026-09-01T22:15:46Z | registry-derived |
+| [a-r-d/PureJsImage](../records/microscopy-a-r-d-purejsimage-f9287947.md) | partial | 2026-09-02T04:59:18Z | registry-derived |
 | [ziatdinovmax/GPim](../records/microscopy-ziatdinovmax-gpim-a892ca24.md) | partial | 2023-11-24T06:29:59Z | registry-derived |
-| [ziatdinovmax/SciLink](../records/microscopy-ziatdinovmax-scilink-c222b07f.md) | partial | 2026-09-01T18:44:58Z | registry-derived |
+| [ziatdinovmax/SciLink](../records/microscopy-ziatdinovmax-scilink-c222b07f.md) | partial | 2026-09-02T05:16:19Z | registry-derived |
 
 ### Language Server
 

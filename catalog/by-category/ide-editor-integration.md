@@ -673,11 +673,11 @@ Records: `1117`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-01T10:30:45Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-02T04:08:03Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-02T05:15:25Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-08-29T11:00:38Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-02T03:31:11Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-02T04:02:49Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
-| mudler/LocalAI | partial | 2026-09-02T03:51:48Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-02T05:13:09Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| mudler/LocalAI | partial | 2026-09-02T05:05:47Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-01T19:11:07Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
 
@@ -853,7 +853,7 @@ Records: `1117`
 | ahmetgunduz/Real-time-GesRec | partial | 2022-12-29T05:50:36Z | [open](../records/video-ahmetgunduz-real-time-gesrec-04ed05c7.md) |
 | alyssaxuu/screenity | partial | 2026-09-01T21:19:58Z | [open](../records/video-alyssaxuu-screenity-950c051f.md) |
 | Archmage83/tvapk | partial | 2026-08-12T01:43:48Z | [open](../records/video-archmage83-tvapk-f1570f1b.md) |
-| bacalhau-project/bacalhau | partial | 2026-08-30T22:01:06Z | [open](../records/video-bacalhau-project-bacalhau-f12bfb54.md) |
+| bacalhau-project/bacalhau | partial | 2026-09-02T05:14:27Z | [open](../records/video-bacalhau-project-bacalhau-f12bfb54.md) |
 | bennyhuo/Kotlin-Tutorials | partial | 2023-11-03T08:45:12Z | [open](../records/video-bennyhuo-kotlin-tutorials-d23521e7.md) |
 | bigbluebutton/bigbluebutton | partial | 2026-09-02T02:57:21Z | [open](../records/video-bigbluebutton-bigbluebutton-9d135955.md) |
 | bilibili/ijkplayer | partial | 2024-08-13T00:53:33Z | [open](../records/video-bilibili-ijkplayer-8848a788.md) |
@@ -887,7 +887,7 @@ Records: `1117`
 | HA6Bots/TikTok-Compilation-Video-Generator | partial | 2024-08-04T13:44:11Z | [open](../records/video-ha6bots-tiktok-compilation-video-generator-2f38a80d.md) |
 | haasn/libplacebo | partial | 2026-09-01T11:12:15Z | [open](../records/video-haasn-libplacebo-801cca80.md) |
 | HeiSir2014/M3U8-Downloader | partial | 2025-03-19T15:28:29Z | [open](../records/video-heisir2014-m3u8-downloader-23d9af39.md) |
-| heygen-com/hyperframes | partial | 2026-09-02T04:06:46Z | [open](../records/video-heygen-com-hyperframes-39e19bfa.md) |
+| heygen-com/hyperframes | partial | 2026-09-02T05:20:46Z | [open](../records/video-heygen-com-hyperframes-39e19bfa.md) |
 | Hunlongyu/ZY-Player | partial | 2023-02-09T06:33:07Z | [open](../records/video-hunlongyu-zy-player-c74fadea.md) |
 | hybridgroup/gocv | partial | 2026-05-28T08:16:03Z | [open](../records/video-hybridgroup-gocv-daa4c904.md) |
 | iawia002/lux | partial | 2026-03-29T18:18:56Z | [open](../records/video-iawia002-lux-e7456e22.md) |
@@ -1090,7 +1090,7 @@ Records: `1117`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ashuttl/linecast | partial | 2026-09-01T22:24:35Z | [open](../records/radars-ashuttl-linecast-afb4bdb7.md) |
+| ashuttl/linecast | partial | 2026-09-02T03:11:32Z | [open](../records/radars-ashuttl-linecast-afb4bdb7.md) |
 | bellingcat/sar-interference-tracker | partial | 2022-02-23T13:57:03Z | [open](../records/radars-bellingcat-sar-interference-tracker-8efa36c7.md) |
 | bellingcat/umbra-open-data-tracker | partial | 2026-08-03T14:44:41Z | [open](../records/radars-bellingcat-umbra-open-data-tracker-b56dce91.md) |
 | CyanideCN/PyCINRAD | partial | 2026-06-26T10:45:59Z | [open](../records/radars-cyanidecn-pycinrad-fe2b1f00.md) |
@@ -1156,7 +1156,7 @@ Records: `1117`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| evolutionary-architecture/evolutionary-architecture-by-example | partial | 2026-08-31T20:29:06Z | [open](../records/pattern-language-evolutionary-architecture-evolutionary-architecture-by-example-8cafc9e0.md) |
+| evolutionary-architecture/evolutionary-architecture-by-example | partial | 2026-09-02T04:23:16Z | [open](../records/pattern-language-evolutionary-architecture-evolutionary-architecture-by-example-8cafc9e0.md) |
 | Mahmoudz/Porto | partial | 2026-07-04T19:47:22Z | [open](../records/pattern-language-mahmoudz-porto-c8b5e119.md) |
 | mehdihadeli/awesome-software-architecture | partial | 2026-07-16T11:04:37Z | [open](../records/pattern-language-mehdihadeli-awesome-software-architecture-caec9f49.md) |
 | Microservice-API-Patterns/LakesideMutual | partial | 2025-10-13T18:11:28Z | [open](../records/pattern-language-microservice-api-patterns-lakesidemutual-c3f0fcf1.md) |

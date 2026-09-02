@@ -284,9 +284,9 @@ Records: `227`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| a-r-d/PureJsImage | partial | 2026-09-01T22:15:46Z | [open](../records/microscopy-a-r-d-purejsimage-f9287947.md) |
+| a-r-d/PureJsImage | partial | 2026-09-02T04:59:18Z | [open](../records/microscopy-a-r-d-purejsimage-f9287947.md) |
 | ziatdinovmax/GPim | partial | 2023-11-24T06:29:59Z | [open](../records/microscopy-ziatdinovmax-gpim-a892ca24.md) |
-| ziatdinovmax/SciLink | partial | 2026-09-01T18:44:58Z | [open](../records/microscopy-ziatdinovmax-scilink-c222b07f.md) |
+| ziatdinovmax/SciLink | partial | 2026-09-02T05:16:19Z | [open](../records/microscopy-ziatdinovmax-scilink-c222b07f.md) |
 
 ## Telescopes
 

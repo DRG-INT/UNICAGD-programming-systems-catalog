@@ -40,7 +40,7 @@ service communication, clients/servers, protocol handling, and edge integration.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | {"key": "", "name": "", "url": ""}; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
@@ -57,7 +57,7 @@ service communication, clients/servers, protocol handling, and edge integration.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-01 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "audio effects dsp", "retrieved": "2026-09-01", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-02 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "audio effects dsp", "retrieved": "2026-09-02", "status": "forge-cli-derived"}` |
 
 </details>
 

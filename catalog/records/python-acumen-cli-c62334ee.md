@@ -41,7 +41,7 @@ security review, undefined-state detection, and regression prevention.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT; License :: OSI Approved :: MIT License |
+| Evidence | MIT + file LICENSE |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
