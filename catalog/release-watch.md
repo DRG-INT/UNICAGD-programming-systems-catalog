@@ -1,35 +1,35 @@
 # Release Watch
 
-Generated: `2026-09-02T00:32:59+00:00`
+Generated: `2026-09-02T01:18:15+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
 ## Category Index
 
-[Api Abi Checker (179)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (41)](by-category/assertion-mocking.md) · [Async Runtime (122)](by-category/async-runtime.md)
-[Benchmarking (109)](by-category/benchmarking.md) · [Build System (802)](by-category/build-system.md) · [Cli (491)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
-[Community Reference (83)](by-category/community-reference.md) · [Compiler (159)](by-category/compiler.md) · [Compiler Diagnostics (22)](by-category/compiler-diagnostics.md) · [Compression (45)](by-category/compression.md)
+[Api Abi Checker (180)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (41)](by-category/assertion-mocking.md) · [Async Runtime (122)](by-category/async-runtime.md)
+[Benchmarking (110)](by-category/benchmarking.md) · [Build System (803)](by-category/build-system.md) · [Cli (491)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Community Reference (83)](by-category/community-reference.md) · [Compiler (170)](by-category/compiler.md) · [Compiler Diagnostics (22)](by-category/compiler-diagnostics.md) · [Compression (45)](by-category/compression.md)
 [Concurrency Parallelism (71)](by-category/concurrency-parallelism.md) · [Configuration (97)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (11)](by-category/coverage.md)
 [Cryptography (154)](by-category/cryptography.md) · [Data Science (32)](by-category/data-science.md) · [Database Datastore (687)](by-category/database-datastore.md) · [Datetime (157)](by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (40)](by-category/debugger.md) · [Dependency Manager (82)](by-category/dependency-manager.md) · [Documentation (79)](by-category/documentation.md)
-[Embedded Hardware (47)](by-category/embedded-hardware.md) · [Ffi Bindings (379)](by-category/ffi-bindings.md) · [Filesystem Os (1159)](by-category/filesystem-os.md) · [Formatter (541)](by-category/formatter.md)
-[Framework (46)](by-category/framework.md) · [Fuzzer (48)](by-category/fuzzer.md) · [Game Engine Game Dev (152)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1114)](by-category/ide-editor-integration.md)
+[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (41)](by-category/debugger.md) · [Dependency Manager (83)](by-category/dependency-manager.md) · [Documentation (80)](by-category/documentation.md)
+[Embedded Hardware (47)](by-category/embedded-hardware.md) · [Ffi Bindings (379)](by-category/ffi-bindings.md) · [Filesystem Os (1160)](by-category/filesystem-os.md) · [Formatter (542)](by-category/formatter.md)
+[Framework (47)](by-category/framework.md) · [Fuzzer (48)](by-category/fuzzer.md) · [Game Engine Game Dev (153)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1114)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (292)](by-category/image-audio-dsp.md) · [Interop Bindings (52)](by-category/interop-bindings.md) · [Interpreter Runtime (227)](by-category/interpreter-runtime.md) · [Jit Vm (56)](by-category/jit-vm.md)
-[Language Server (27)](by-category/language-server.md) · [Language Specification (1221)](by-category/language-specification.md) · [Library (4746)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (40)](by-category/lint-rule-pack.md) · [Linter (346)](by-category/linter.md) · [Logging Observability (385)](by-category/logging-observability.md) · [Machine Learning (568)](by-category/machine-learning.md)
-[Math Numeric Scientific (78)](by-category/math-numeric-scientific.md) · [Memory Analyzer (75)](by-category/memory-analyzer.md) · [Message Broker (31)](by-category/message-broker.md) · [Networking Http (904)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (260)](by-category/package-manager.md) · [Parser Lexer Ast (893)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (259)](by-category/precommit-ci-quality.md)
+[Language Server (27)](by-category/language-server.md) · [Language Specification (1223)](by-category/language-specification.md) · [Library (4765)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (40)](by-category/lint-rule-pack.md) · [Linter (346)](by-category/linter.md) · [Logging Observability (386)](by-category/logging-observability.md) · [Machine Learning (572)](by-category/machine-learning.md)
+[Math Numeric Scientific (79)](by-category/math-numeric-scientific.md) · [Memory Analyzer (76)](by-category/memory-analyzer.md) · [Message Broker (31)](by-category/message-broker.md) · [Networking Http (905)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (260)](by-category/package-manager.md) · [Parser Lexer Ast (895)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (259)](by-category/precommit-ci-quality.md)
 [Profiler (68)](by-category/profiler.md) · [Project Scaffolding (118)](by-category/project-scaffolding.md) · [Registry Repository (107)](by-category/registry-repository.md) · [Sanitizer (12)](by-category/sanitizer.md)
-[Security Sast (311)](by-category/security-sast.md) · [Serialization (367)](by-category/serialization.md) · [Standard Library (23)](by-category/standard-library.md) · [Static Analyzer (424)](by-category/static-analyzer.md)
+[Security Sast (311)](by-category/security-sast.md) · [Serialization (367)](by-category/serialization.md) · [Standard Library (24)](by-category/standard-library.md) · [Static Analyzer (426)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (492)](by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](by-category/tutorial-book-styleguide.md) · [Type Checker (286)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1360)](by-category/undefined-behavior-analyzer.md) · [Utility Library (92)](by-category/utility-library.md) · [Visualization Gui (412)](by-category/visualization-gui.md) · [Web Framework (386)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1361)](by-category/undefined-behavior-analyzer.md) · [Utility Library (92)](by-category/utility-library.md) · [Visualization Gui (413)](by-category/visualization-gui.md) · [Web Framework (387)](by-category/web-framework.md)
 
 ## Coverage
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 9979 |
-| Unknown stable release | 12007 |
+| Known stable release | 9980 |
+| Unknown stable release | 12064 |
 
 ## Newest Known Stable Metadata
 
@@ -73,6 +73,7 @@ Generated: `2026-09-02T00:32:59+00:00`
 | @tryghost/server | Node.js/JavaScript | Package Manager | 3.1.13 | 2026-09-01T19:36:57.320Z | [open](records/node-js-javascript-tryghost-server-914387f6.md) |
 | @tryghost/database-info | Node.js/JavaScript | Formatter | 2.3.12 | 2026-09-01T19:36:31.024Z | [open](records/node-js-javascript-tryghost-database-info-d1eda67d.md) |
 | phino | Haskell | Library | 0.0.113 | 2026-09-01T19:33:51Z | [open](records/haskell-phino-0ffa79f2.md) |
+| tostore | Dart | Benchmarking | 3.5.1 | 2026-09-01T18:56:55.052904Z | [open](records/dart-tostore-c0c539b3.md) |
 | @aws-sdk/client-database-migration-service | Node.js/JavaScript | Networking Http | 3.1124.0 | 2026-09-01T18:52:40.378Z | [open](records/node-js-javascript-aws-sdk-client-database-migration-service-058f4424.md) |
 | oci-database | Node.js/JavaScript | Networking Http | 2.140.1 | 2026-09-01T18:40:16.874Z | [open](records/node-js-javascript-oci-database-cacbd435.md) |
 | oci-distributeddatabase | Node.js/JavaScript | Networking Http | 2.140.1 | 2026-09-01T18:39:31.660Z | [open](records/node-js-javascript-oci-distributeddatabase-15271789.md) |
@@ -284,13 +285,12 @@ Generated: `2026-09-02T00:32:59+00:00`
 | insurancerating | R | Precommit Ci Quality | 0.8.2 | 2026-09-01 11:50:02 UTC | [open](records/r-insurancerating-fcf34652.md) |
 | Keng | R | Library | 2026.9.0 | 2026-09-01 11:40:23 UTC | [open](records/r-keng-3c943f29.md) |
 | datom | R | Profiler | 0.1.1 | 2026-09-01 11:40:15 UTC | [open](records/r-datom-465d8abc.md) |
-| distspec | R | Machine Learning | 0.2.0 | 2026-09-01 11:40:09 UTC | [open](records/r-distspec-7a6e82bf.md) |
 
 ## Unknown Reasons
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 4271 |
+| gh_search_reports_activity_not_release_version | 4272 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
@@ -300,8 +300,8 @@ Generated: `2026-09-02T00:32:59+00:00`
 | curated_language_route_requires_source_specific_release_lookup | 400 |
 | github_latest_release_missing | 330 |
 | awesome_list_does_not_include_release_date | 237 |
+| gitea_search_api_reports_activity_not_release_version | 219 |
 | gitlab_projects_api_reports_activity_not_release_version | 191 |
-| gitea_search_api_reports_activity_not_release_version | 163 |
 | not_a_maven_coordinate | 123 |
 | curated_database_record_requires_source_specific_release_lookup | 87 |
 | official_workplace_route_requires_source_specific_release_lookup | 59 |
@@ -315,6 +315,7 @@ Generated: `2026-09-02T00:32:59+00:00`
 
 | Name | Language | Channel | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| tostore | Dart | preview | 3.5.0-test | 2026-09-01T14:43:28.859741Z | [open](records/dart-tostore-c0c539b3.md) |
 | supabase_flutter | Dart | preview | 3.0.0-dev.2 | 2026-09-01T13:45:38.710691Z | [open](records/dart-supabase-flutter-7645000e.md) |
 | postgrest | Dart | preview | 3.0.0-dev.2 | 2026-09-01T13:45:33.744514Z | [open](records/dart-postgrest-159001a6.md) |
 | supabase | Dart | preview | 3.0.0-dev.2 | 2026-09-01T13:45:10.535587Z | [open](records/dart-supabase-71cdb3aa.md) |
@@ -564,4 +565,3 @@ Generated: `2026-09-02T00:32:59+00:00`
 | github.com/vibrantgio/workbench | Go | module-preview | v0.0.0-20260830112549-a3e36b4de823 | 2026-08-30T12:52:55.908471Z | [open](records/go-github-com-vibrantgio-workbench-38e97b77.md) |
 | github.com/kumparan/cacher | Go | module-preview | v1.23.1-0.20260830125208-962ffb391b33 | 2026-08-30T12:52:41.579585Z | [open](records/go-github-com-kumparan-cacher-403eb036.md) |
 | github.com/owncast/owncast.github.io | Go | module-preview | v0.0.0-20260830123035-4bb9d3b3d755 | 2026-08-30T12:52:38.437753Z | [open](records/go-github-com-owncast-owncast-github-io-3ee8bee1.md) |
-| github.com/nvidia/gpu-operator | Go | module-preview | v1.8.3-0.20260828222311-fa49ea63b839 | 2026-08-30T12:52:25.491476Z | [open](records/go-github-com-nvidia-gpu-operator-f8ad7b02.md) |

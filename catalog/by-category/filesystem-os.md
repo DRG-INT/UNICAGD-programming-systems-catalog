@@ -1,6 +1,6 @@
 # Filesystem Os
 
-Records: `1159`
+Records: `1160`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `1159`
 
 ## Category Index
 
-[Api Abi Checker (179)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (122)](async-runtime.md)
-[Benchmarking (109)](benchmarking.md) · [Build System (802)](build-system.md) · [Cli (491)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (83)](community-reference.md) · [Compiler (159)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+[Api Abi Checker (180)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (122)](async-runtime.md)
+[Benchmarking (110)](benchmarking.md) · [Build System (803)](build-system.md) · [Cli (491)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (83)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
 [Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (97)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (154)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (687)](database-datastore.md) · [Datetime (157)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (82)](dependency-manager.md) · [Documentation (79)](documentation.md)
-[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (379)](ffi-bindings.md) · **[Filesystem Os (1159)](filesystem-os.md)** · [Formatter (541)](formatter.md)
-[Framework (46)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (152)](game-engine-game-dev.md) · [Ide Editor Integration (1114)](ide-editor-integration.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (83)](dependency-manager.md) · [Documentation (80)](documentation.md)
+[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (379)](ffi-bindings.md) · **[Filesystem Os (1160)](filesystem-os.md)** · [Formatter (542)](formatter.md)
+[Framework (47)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (153)](game-engine-game-dev.md) · [Ide Editor Integration (1114)](ide-editor-integration.md)
 [Image Audio Dsp (292)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (227)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1221)](language-specification.md) · [Library (4746)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (385)](logging-observability.md) · [Machine Learning (568)](machine-learning.md)
-[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (904)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (260)](package-manager.md) · [Parser Lexer Ast (893)](parser-lexer-ast.md) · [Precommit Ci Quality (259)](precommit-ci-quality.md)
+[Language Server (27)](language-server.md) · [Language Specification (1223)](language-specification.md) · [Library (4765)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (386)](logging-observability.md) · [Machine Learning (572)](machine-learning.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (76)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (905)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (260)](package-manager.md) · [Parser Lexer Ast (895)](parser-lexer-ast.md) · [Precommit Ci Quality (259)](precommit-ci-quality.md)
 [Profiler (68)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (311)](security-sast.md) · [Serialization (367)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (424)](static-analyzer.md)
+[Security Sast (311)](security-sast.md) · [Serialization (367)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (426)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (492)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (286)](type-checker.md)
-[Undefined Behavior Analyzer (1360)](undefined-behavior-analyzer.md) · [Utility Library (92)](utility-library.md) · [Visualization Gui (412)](visualization-gui.md) · [Web Framework (386)](web-framework.md)
+[Undefined Behavior Analyzer (1361)](undefined-behavior-analyzer.md) · [Utility Library (92)](utility-library.md) · [Visualization Gui (413)](visualization-gui.md) · [Web Framework (387)](web-framework.md)
 
 ## C++23
 
@@ -578,7 +578,7 @@ Records: `1159`
 | --- | --- | --- | --- |
 | f/prompts.chat | partial | 2026-09-01T03:19:49Z | [open](../records/aim-s-f-prompts-chat-0bb76e45.md) |
 | Fosowl/agenticSeek | partial | 2026-08-11T14:14:08Z | [open](../records/aim-s-fosowl-agenticseek-3f73fd5c.md) |
-| microsoft/graphrag | partial | 2026-08-31T07:33:13Z | [open](../records/aim-s-microsoft-graphrag-16e521eb.md) |
+| microsoft/graphrag | partial | 2026-09-02T00:42:14Z | [open](../records/aim-s-microsoft-graphrag-16e521eb.md) |
 | NirDiamant/RAG_Techniques | partial | 2026-08-29T08:59:28Z | [open](../records/aim-s-nirdiamant-rag-techniques-681ed394.md) |
 | ollama/ollama | partial | 2026-09-01T23:59:36Z | [open](../records/aim-s-ollama-ollama-8b858f45.md) |
 
@@ -1146,7 +1146,7 @@ Records: `1159`
 | shikaan/osle | partial | 2026-03-07T20:30:09Z | [open](../records/assembly-shikaan-osle-a280853b.md) |
 | wichtounet/thor-os | partial | 2024-11-19T10:12:06Z | [open](../records/assembly-wichtounet-thor-os-cf1384c0.md) |
 | WindowsNT/asm | partial | 2025-05-10T09:55:30Z | [open](../records/assembly-windowsnt-asm-00dbedd0.md) |
-| XXIIVV/oscean | partial | 2026-08-30T19:12:48Z | [open](../records/assembly-xxiivv-oscean-5e954d22.md) |
+| XXIIVV/oscean | partial | 2026-09-01T22:00:47Z | [open](../records/assembly-xxiivv-oscean-5e954d22.md) |
 | yhs0602/Android-Disassembler | partial | 2026-03-22T07:00:35Z | [open](../records/assembly-yhs0602-android-disassembler-1d409abc.md) |
 
 ## Pattern language
@@ -1358,4 +1358,5 @@ Records: `1159`
 | bg-utp-repository/devops-y-control-de-versiones-git | partial | 2020-10-29T18:11:13.493Z | [open](../records/repository-workplaces-bg-utp-repository-devops-y-control-de-versiones-git-1435df7e.md) |
 | Gitea: afzal/advocate-narsingdi | partial | 2026-08-23T20:28:48Z | [open](../records/repository-workplaces-gitea-afzal-advocate-narsingdi-1c730665.md) |
 | Gitea: afzal/bangladesh-struggle-for-independence | partial | 2026-08-23T20:25:32Z | [open](../records/repository-workplaces-gitea-afzal-bangladesh-struggle-for-independence-572a75c0.md) |
+| Gitea: ericLemanissier/conan-center-index | partial | 2025-02-11T11:38:41Z | [open](../records/repository-workplaces-gitea-ericlemanissier-conan-center-index-4400d1d7.md) |
 | Gitea: sivajothi/DevOpsDemo | partial | 2025-06-02T08:13:14Z | [open](../records/repository-workplaces-gitea-sivajothi-devopsdemo-8506bea8.md) |

@@ -1,6 +1,6 @@
 # Library
 
-Records: `4746`
+Records: `4765`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `4746`
 
 ## Category Index
 
-[Api Abi Checker (179)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (122)](async-runtime.md)
-[Benchmarking (109)](benchmarking.md) · [Build System (802)](build-system.md) · [Cli (491)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (83)](community-reference.md) · [Compiler (159)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+[Api Abi Checker (180)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (41)](assertion-mocking.md) · [Async Runtime (122)](async-runtime.md)
+[Benchmarking (110)](benchmarking.md) · [Build System (803)](build-system.md) · [Cli (491)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (83)](community-reference.md) · [Compiler (170)](compiler.md) · [Compiler Diagnostics (22)](compiler-diagnostics.md) · [Compression (45)](compression.md)
 [Concurrency Parallelism (71)](concurrency-parallelism.md) · [Configuration (97)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (11)](coverage.md)
 [Cryptography (154)](cryptography.md) · [Data Science (32)](data-science.md) · [Database Datastore (687)](database-datastore.md) · [Datetime (157)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (40)](debugger.md) · [Dependency Manager (82)](dependency-manager.md) · [Documentation (79)](documentation.md)
-[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (379)](ffi-bindings.md) · [Filesystem Os (1159)](filesystem-os.md) · [Formatter (541)](formatter.md)
-[Framework (46)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (152)](game-engine-game-dev.md) · [Ide Editor Integration (1114)](ide-editor-integration.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (83)](dependency-manager.md) · [Documentation (80)](documentation.md)
+[Embedded Hardware (47)](embedded-hardware.md) · [Ffi Bindings (379)](ffi-bindings.md) · [Filesystem Os (1160)](filesystem-os.md) · [Formatter (542)](formatter.md)
+[Framework (47)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (153)](game-engine-game-dev.md) · [Ide Editor Integration (1114)](ide-editor-integration.md)
 [Image Audio Dsp (292)](image-audio-dsp.md) · [Interop Bindings (52)](interop-bindings.md) · [Interpreter Runtime (227)](interpreter-runtime.md) · [Jit Vm (56)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1221)](language-specification.md) · **[Library (4746)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (385)](logging-observability.md) · [Machine Learning (568)](machine-learning.md)
-[Math Numeric Scientific (78)](math-numeric-scientific.md) · [Memory Analyzer (75)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (904)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (260)](package-manager.md) · [Parser Lexer Ast (893)](parser-lexer-ast.md) · [Precommit Ci Quality (259)](precommit-ci-quality.md)
+[Language Server (27)](language-server.md) · [Language Specification (1223)](language-specification.md) · **[Library (4765)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (40)](lint-rule-pack.md) · [Linter (346)](linter.md) · [Logging Observability (386)](logging-observability.md) · [Machine Learning (572)](machine-learning.md)
+[Math Numeric Scientific (79)](math-numeric-scientific.md) · [Memory Analyzer (76)](memory-analyzer.md) · [Message Broker (31)](message-broker.md) · [Networking Http (905)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (260)](package-manager.md) · [Parser Lexer Ast (895)](parser-lexer-ast.md) · [Precommit Ci Quality (259)](precommit-ci-quality.md)
 [Profiler (68)](profiler.md) · [Project Scaffolding (118)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (12)](sanitizer.md)
-[Security Sast (311)](security-sast.md) · [Serialization (367)](serialization.md) · [Standard Library (23)](standard-library.md) · [Static Analyzer (424)](static-analyzer.md)
+[Security Sast (311)](security-sast.md) · [Serialization (367)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (426)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (492)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (286)](type-checker.md)
-[Undefined Behavior Analyzer (1360)](undefined-behavior-analyzer.md) · [Utility Library (92)](utility-library.md) · [Visualization Gui (412)](visualization-gui.md) · [Web Framework (386)](web-framework.md)
+[Undefined Behavior Analyzer (1361)](undefined-behavior-analyzer.md) · [Utility Library (92)](utility-library.md) · [Visualization Gui (413)](visualization-gui.md) · [Web Framework (387)](web-framework.md)
 
 ## C99
 
@@ -4041,7 +4041,7 @@ Records: `4746`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-02T00:25:25Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-02T00:38:06Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4055,7 +4055,7 @@ Records: `4746`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-02T00:14:16Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-02T00:32:21Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -4926,14 +4926,22 @@ Records: `4746`
 | Gitea: bgszz/BelajarDevops | partial | 2026-08-26T04:28:25Z | [open](../records/repository-workplaces-gitea-bgszz-belajardevops-9d059931.md) |
 | Gitea: bkikenski/DevOps-Demo-Project | partial | 2023-08-12T09:25:57Z | [open](../records/repository-workplaces-gitea-bkikenski-devops-demo-project-e84af9d7.md) |
 | Gitea: Cloud_GitDevSecOps/DevOps | partial | 2025-07-27T11:52:12Z | [open](../records/repository-workplaces-gitea-cloud-gitdevsecops-devops-a02af9b3.md) |
+| Gitea: decheverri123/flutter_library | partial | 2023-07-28T18:41:42Z | [open](../records/repository-workplaces-gitea-decheverri123-flutter-library-197bd7c2.md) |
 | Gitea: DeFiLego/devops | partial | 2025-08-13T10:55:07Z | [open](../records/repository-workplaces-gitea-defilego-devops-855ec672.md) |
 | Gitea: Elight-dotcom/devops | partial | 2025-11-29T05:46:52Z | [open](../records/repository-workplaces-gitea-elight-dotcom-devops-fedd520e.md) |
+| Gitea: er_man/ithb_e_library | partial | 2026-03-12T14:08:33Z | [open](../records/repository-workplaces-gitea-er-man-ithb-e-library-67ebcdf7.md) |
+| Gitea: fighting7ta/library_management_system | partial | 2025-11-29T11:12:40Z | [open](../records/repository-workplaces-gitea-fighting7ta-library-management-system-6d1ae866.md) |
+| Gitea: FLARECC/librarys | partial | 2025-01-23T04:31:07Z | [open](../records/repository-workplaces-gitea-flarecc-librarys-c2df93ae.md) |
 | Gitea: guywhodiesfirst/devops-lab-4 | partial | 2025-05-20T10:32:36Z | [open](../records/repository-workplaces-gitea-guywhodiesfirst-devops-lab-4-3086fefe.md) |
+| Gitea: h005723021/GoLibraryMemo | partial | 2024-09-26T03:23:14Z | [open](../records/repository-workplaces-gitea-h005723021-golibrarymemo-c23e8118.md) |
 | Gitea: huangxinyu/devops-demo | partial | 2025-10-24T01:49:28Z | [open](../records/repository-workplaces-gitea-huangxinyu-devops-demo-9b696c75.md) |
 | Gitea: intsigdev/devops | partial | 2025-10-16T06:44:21Z | [open](../records/repository-workplaces-gitea-intsigdev-devops-1aca4b40.md) |
 | Gitea: IvanDorokhov/DevOps | partial | 2024-03-13T23:09:42Z | [open](../records/repository-workplaces-gitea-ivandorokhov-devops-5c18814f.md) |
+| Gitea: kasymchik070/LibraryProject | partial | 2025-10-28T10:46:26Z | [open](../records/repository-workplaces-gitea-kasymchik070-libraryproject-1ce53dfd.md) |
 | Gitea: katyByrden/Devops | partial | 2024-01-10T06:49:15Z | [open](../records/repository-workplaces-gitea-katybyrden-devops-c415bfbf.md) |
+| Gitea: keraarr/Library | partial | 2025-10-28T08:50:03Z | [open](../records/repository-workplaces-gitea-keraarr-library-8108e77d.md) |
 | Gitea: KirilKirilov96/devops | partial | 2025-03-04T19:17:05Z | [open](../records/repository-workplaces-gitea-kirilkirilov96-devops-9f15a57e.md) |
+| Gitea: kklives2/librarys-repo | partial | 2022-10-31T05:36:31Z | [open](../records/repository-workplaces-gitea-kklives2-librarys-repo-d6947740.md) |
 | Gitea: ks/devops | partial | 2025-09-25T08:45:30Z | [open](../records/repository-workplaces-gitea-ks-devops-df7f89af.md) |
 | Gitea: lifen/devops-jobs-v2 | partial | 2020-11-19T15:48:20Z | [open](../records/repository-workplaces-gitea-lifen-devops-jobs-v2-e7e48e9b.md) |
 | Gitea: lunny/weixinapp | partial | 2019-07-12T13:13:22Z | [open](../records/repository-workplaces-gitea-lunny-weixinapp-6304711b.md) |
@@ -4941,11 +4949,22 @@ Records: `4746`
 | Gitea: martinliu/DevOpsChina | partial | 2021-12-27T06:14:39Z | [open](../records/repository-workplaces-gitea-martinliu-devopschina-b08aaad7.md) |
 | Gitea: oxm3nto/Bash-For-Basic-DevOps | partial | 2024-06-02T03:09:35Z | [open](../records/repository-workplaces-gitea-oxm3nto-bash-for-basic-devops-6deb3d49.md) |
 | Gitea: panda99/devops | partial | 2023-07-26T03:06:04Z | [open](../records/repository-workplaces-gitea-panda99-devops-762f09f8.md) |
+| Gitea: Pankajp1997/shared-library | partial | 2025-01-28T15:00:50Z | [open](../records/repository-workplaces-gitea-pankajp1997-shared-library-cdd24cb3.md) |
+| Gitea: PeterJRyan0540/XiPro_Problem_Solving_Library | partial | 2025-01-27T14:17:26Z | [open](../records/repository-workplaces-gitea-peterjryan0540-xipro-problem-solving-library-c9043a7f.md) |
+| Gitea: Qikahome/StarveLibrary | partial | 2026-04-02T19:42:23Z | [open](../records/repository-workplaces-gitea-qikahome-starvelibrary-85f740a2.md) |
 | Gitea: RachelGardner/Devops | partial | 2026-05-18T07:41:27Z | [open](../records/repository-workplaces-gitea-rachelgardner-devops-67978e24.md) |
+| Gitea: Scryptica/Bunnyhop-Library | partial | 2026-08-23T09:46:50Z | [open](../records/repository-workplaces-gitea-scryptica-bunnyhop-library-958ef3ad.md) |
+| Gitea: selvakumar-netaji/Library-Management-KAHE | partial | 2026-08-21T14:31:21Z | [open](../records/repository-workplaces-gitea-selvakumar-netaji-library-management-kahe-5a8b602c.md) |
+| Gitea: Shadowchoir/Library-of-Communication | partial | 2020-04-16T15:45:29Z | [open](../records/repository-workplaces-gitea-shadowchoir-library-of-communication-ee0cf6fe.md) |
 | Gitea: siva-praneeth/demo-service-devops | partial | 2026-07-14T08:09:51Z | [open](../records/repository-workplaces-gitea-siva-praneeth-demo-service-devops-c5281f19.md) |
 | Gitea: TanThibault/DevOps | partial | 2024-11-25T18:49:33Z | [open](../records/repository-workplaces-gitea-tanthibault-devops-0375ab8c.md) |
+| Gitea: tt3244/libs | partial | 2022-06-16T23:40:44Z | [open](../records/repository-workplaces-gitea-tt3244-libs-f8813d27.md) |
 | Gitea: Vikt0ria0/devops | partial | 2023-12-18T12:19:41Z | [open](../records/repository-workplaces-gitea-vikt0ria0-devops-876b86c8.md) |
+| Gitea: wild/library | partial | 2020-08-02T17:18:20Z | [open](../records/repository-workplaces-gitea-wild-library-9e923406.md) |
+| Gitea: XenaScripts/XenaLibraryX | partial | 2026-08-06T10:12:04Z | [open](../records/repository-workplaces-gitea-xenascripts-xenalibraryx-f3fd6078.md) |
+| Gitea: xiaox/New-Library-Demo | partial | 2026-03-24T01:57:35Z | [open](../records/repository-workplaces-gitea-xiaox-new-library-demo-8a583b6a.md) |
 | Gitea: zhangyunfei/devops | partial | 2024-02-27T05:18:40Z | [open](../records/repository-workplaces-gitea-zhangyunfei-devops-d2c588aa.md) |
+| Gitea: zishuo/mpp | partial | 2026-01-19T11:10:11Z | [open](../records/repository-workplaces-gitea-zishuo-mpp-c4a1956d.md) |
 | gutocarvalho/devops-tips | partial | 2016-09-05T17:56:53.622Z | [open](../records/repository-workplaces-gutocarvalho-devops-tips-cb4777e6.md) |
 | nb-tech-support/devops | partial | 2025-12-25T11:27:25.191Z | [open](../records/repository-workplaces-nb-tech-support-devops-42f3c6a9.md) |
 | sandro.lechner/aula-devops-fundamentals | partial | 2026-08-18T02:50:40.429Z | [open](../records/repository-workplaces-sandro-lechner-aula-devops-fundamentals-4052fbb6.md) |
