@@ -1,6 +1,6 @@
 # Benchmarking
 
-Records: `161`
+Records: `163`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `161`
 ## Category Index
 
 [Api Abi Checker (199)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (131)](async-runtime.md)
-**[Benchmarking (161)](benchmarking.md)** · [Build System (875)](build-system.md) · [Cli (521)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (91)](community-reference.md) · [Compiler (173)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+**[Benchmarking (163)](benchmarking.md)** · [Build System (878)](build-system.md) · [Cli (523)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (92)](community-reference.md) · [Compiler (173)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
 [Concurrency Parallelism (75)](concurrency-parallelism.md) · [Configuration (107)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (160)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (791)](database-datastore.md) · [Datetime (172)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (93)](documentation.md)
-[Embedded Hardware (53)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1310)](filesystem-os.md) · [Formatter (581)](formatter.md)
-[Framework (51)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1261)](ide-editor-integration.md)
-[Image Audio Dsp (350)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (240)](interpreter-runtime.md) · [Jit Vm (58)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1261)](language-specification.md) · [Library (5059)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (465)](logging-observability.md) · [Machine Learning (622)](machine-learning.md)
-[Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (949)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (403)](package-manager.md) · [Parser Lexer Ast (965)](parser-lexer-ast.md) · [Precommit Ci Quality (269)](precommit-ci-quality.md)
+[Cryptography (161)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (791)](database-datastore.md) · [Datetime (174)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (95)](documentation.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1318)](filesystem-os.md) · [Formatter (582)](formatter.md)
+[Framework (52)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1267)](ide-editor-integration.md)
+[Image Audio Dsp (354)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (241)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1267)](language-specification.md) · [Library (5090)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (466)](logging-observability.md) · [Machine Learning (626)](machine-learning.md)
+[Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (951)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (405)](package-manager.md) · [Parser Lexer Ast (972)](parser-lexer-ast.md) · [Precommit Ci Quality (270)](precommit-ci-quality.md)
 [Profiler (78)](profiler.md) · [Project Scaffolding (127)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (325)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (468)](static-analyzer.md)
+[Security Sast (329)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (482)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (511)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (293)](type-checker.md)
-[Undefined Behavior Analyzer (1457)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (435)](visualization-gui.md) · [Web Framework (443)](web-framework.md)
+[Undefined Behavior Analyzer (1465)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (441)](visualization-gui.md) · [Web Framework (444)](web-framework.md)
 
 ## C++23
 
@@ -142,7 +142,7 @@ Records: `161`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| milvus-io/milvus | partial | 2026-09-03T02:25:35Z | [open](../records/aim-s-milvus-io-milvus-54ee327d.md) |
+| milvus-io/milvus | partial | 2026-09-03T04:05:58Z | [open](../records/aim-s-milvus-io-milvus-54ee327d.md) |
 
 ## Font Briefcase
 
@@ -239,6 +239,7 @@ Records: `161`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| luigifcruz/CyberEther | partial | 2026-08-29T16:33:33Z | [open](../records/satcom-satellites-luigifcruz-cyberether-8f6bc0f0.md) |
 | Reza-Zhu/SUES-200-Benchmark | partial | 2024-11-06T09:10:31Z | [open](../records/satcom-satellites-reza-zhu-sues-200-benchmark-a1bf4f0b.md) |
 
 ## Electromagnetoscopes
@@ -264,6 +265,7 @@ Records: `161`
 | hammclovnaggnell/chess-repertoire | partial | 2026-02-18T17:20:34Z | [open](../records/repertoare-catalogs-hammclovnaggnell-chess-repertoire-36d6e6a5.md) |
 | JamesGlare/Holo_gen_models | partial | 2019-10-05T12:47:22Z | [open](../records/repertoare-catalogs-jamesglare-holo-gen-models-b9f8f500.md) |
 | KanduriC/demo_reproducibility_kanduricetal2021 | partial | 2022-03-25T11:27:35Z | [open](../records/repertoare-catalogs-kanduric-demo-reproducibility-kanduricetal2021-1652c380.md) |
+| Malfou/Violinfind | partial | 2026-09-02T19:49:02Z | [open](../records/repertoare-catalogs-malfou-violinfind-a6c6d90d.md) |
 | marshallswain/song-book-api | partial | 2017-12-14T17:23:16Z | [open](../records/repertoare-catalogs-marshallswain-song-book-api-9e3ddeb4.md) |
 | marshallswain/song-book-vue | partial | 2017-12-23T23:56:06Z | [open](../records/repertoare-catalogs-marshallswain-song-book-vue-c793b244.md) |
 | mashu/LineageCollapse.jl | partial | 2026-05-19T05:17:07Z | [open](../records/repertoare-catalogs-mashu-lineagecollapse-jl-6b1c71d0.md) |
@@ -317,7 +319,7 @@ Records: `161`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| apple/swift-nio | partial | 2026-09-01T11:10:23Z | [open](../records/swift-apple-swift-nio-a7333055.md) |
+| apple/swift-nio | partial | 2026-09-02T22:47:22Z | [open](../records/swift-apple-swift-nio-a7333055.md) |
 | ordo-one/benchmark | partial | 2026-07-24T09:37:23Z | [open](../records/swift-ordo-one-benchmark-1abb4df6.md) |
 | rarestype/swift-json | partial | 2026-08-29T22:33:17Z | [open](../records/swift-rarestype-swift-json-07634c5a.md) |
 

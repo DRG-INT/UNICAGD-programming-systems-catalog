@@ -1,6 +1,6 @@
 # Undefined Behavior Analyzer
 
-Records: `1457`
+Records: `1465`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `1457`
 ## Category Index
 
 [Api Abi Checker (199)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (131)](async-runtime.md)
-[Benchmarking (161)](benchmarking.md) · [Build System (875)](build-system.md) · [Cli (521)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (91)](community-reference.md) · [Compiler (173)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+[Benchmarking (163)](benchmarking.md) · [Build System (878)](build-system.md) · [Cli (523)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (92)](community-reference.md) · [Compiler (173)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
 [Concurrency Parallelism (75)](concurrency-parallelism.md) · [Configuration (107)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (160)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (791)](database-datastore.md) · [Datetime (172)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (93)](documentation.md)
-[Embedded Hardware (53)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1310)](filesystem-os.md) · [Formatter (581)](formatter.md)
-[Framework (51)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1261)](ide-editor-integration.md)
-[Image Audio Dsp (350)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (240)](interpreter-runtime.md) · [Jit Vm (58)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1261)](language-specification.md) · [Library (5059)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (465)](logging-observability.md) · [Machine Learning (622)](machine-learning.md)
-[Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (949)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (403)](package-manager.md) · [Parser Lexer Ast (965)](parser-lexer-ast.md) · [Precommit Ci Quality (269)](precommit-ci-quality.md)
+[Cryptography (161)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (791)](database-datastore.md) · [Datetime (174)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (95)](documentation.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1318)](filesystem-os.md) · [Formatter (582)](formatter.md)
+[Framework (52)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1267)](ide-editor-integration.md)
+[Image Audio Dsp (354)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (241)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1267)](language-specification.md) · [Library (5090)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (466)](logging-observability.md) · [Machine Learning (626)](machine-learning.md)
+[Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (951)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (405)](package-manager.md) · [Parser Lexer Ast (972)](parser-lexer-ast.md) · [Precommit Ci Quality (270)](precommit-ci-quality.md)
 [Profiler (78)](profiler.md) · [Project Scaffolding (127)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (325)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (468)](static-analyzer.md)
+[Security Sast (329)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (482)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (511)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (293)](type-checker.md)
-**[Undefined Behavior Analyzer (1457)](undefined-behavior-analyzer.md)** · [Utility Library (93)](utility-library.md) · [Visualization Gui (435)](visualization-gui.md) · [Web Framework (443)](web-framework.md)
+**[Undefined Behavior Analyzer (1465)](undefined-behavior-analyzer.md)** · [Utility Library (93)](utility-library.md) · [Visualization Gui (441)](visualization-gui.md) · [Web Framework (444)](web-framework.md)
 
 ## C++23
 
@@ -338,6 +338,7 @@ Records: `1457`
 | treasury | 0.7.0 | 2026-08-22 15:10:02 UTC | [open](../records/r-treasury-2038e300.md) |
 | tuber | 2.0.0 | 2026-08-20 11:20:02 UTC | [open](../records/r-tuber-ade5b212.md) |
 | UBStats | 0.4.3 | 2026-08-29 10:20:02 UTC | [open](../records/r-ubstats-cdc72adb.md) |
+| VertexWiseR | 1.5.3 | 2026-09-03 02:30:02 UTC | [open](../records/r-vertexwiser-c6a4eb09.md) |
 | washr | 1.1.0 | 2026-09-02 11:10:02 UTC | [open](../records/r-washr-e68e3b42.md) |
 | xtdml | 0.1.13 | 2026-09-01 19:10:02 UTC | [open](../records/r-xtdml-bfc97d6e.md) |
 
@@ -403,7 +404,7 @@ Records: `1457`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bluenviron/mediamtx | partial | 2026-09-02T20:43:41Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
+| bluenviron/mediamtx | partial | 2026-09-03T05:03:44Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
 | dariubs/GoBooks | partial | 2026-07-13T16:08:02Z | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
 | eryajf/learning-weekly | partial | 2026-08-27T15:27:30Z | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
 | github.com/01org/isa-l | v2.22.0+incompatible | 2026-08-30T14:09:32.299469Z | [open](../records/go-github-com-01org-isa-l-8ef09eb2.md) |
@@ -1134,7 +1135,7 @@ Records: `1457`
 | github.laiyagushi.com/nemith/dothome | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-laiyagushi-com-nemith-dothome-32cd483a.md) |
 | github.laiyagushi.com/valkey-io/valkey-go | v1.0.56 | 2026-08-30T15:31:38.453275Z | [open](../records/go-github-laiyagushi-com-valkey-io-valkey-go-b2864d71.md) |
 | jfrog/gocenter | partial | 2021-05-14T11:38:26Z | [open](../records/go-jfrog-gocenter-404e69f1.md) |
-| labring/sealos | partial | 2026-09-02T09:36:35Z | [open](../records/go-labring-sealos-594e5269.md) |
+| labring/sealos | partial | 2026-09-03T04:02:18Z | [open](../records/go-labring-sealos-594e5269.md) |
 | uber-go/guide | partial | 2026-04-15T15:10:48Z | [open](../records/go-uber-go-guide-c330b782.md) |
 | uber-go/zap | partial | 2026-08-31T18:59:30Z | [open](../records/go-uber-go-zap-07ea12d8.md) |
 | unpoller/unifi | partial | 2026-09-01T12:00:24Z | [open](../records/go-unpoller-unifi-0809cf4a.md) |
@@ -1160,7 +1161,7 @@ Records: `1457`
 | --- | --- | --- | --- |
 | bytedance/deer-flow | partial | 2026-09-03T01:24:49Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
 | sansan0/TrendRadar | partial | 2026-07-17T13:54:28Z | [open](../records/aim-s-sansan0-trendradar-72e65ee1.md) |
-| TencentCloud/TencentDB-Agent-Memory | partial | 2026-09-03T02:25:59Z | [open](../records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
+| TencentCloud/TencentDB-Agent-Memory | partial | 2026-09-03T02:31:45Z | [open](../records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
 
 ## Font Briefcase
 
@@ -1406,11 +1407,18 @@ Records: `1457`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | alanbjohnston/CubeSatSim | partial | 2026-09-01T18:16:41Z | [open](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) |
+| cjcliffe/CubicSDR | partial | 2026-09-02T02:19:48Z | [open](../records/satcom-satellites-cjcliffe-cubicsdr-45606659.md) |
+| f4exb/sdrangel | partial | 2026-08-30T10:08:39Z | [open](../records/satcom-satellites-f4exb-sdrangel-2094320b.md) |
 | jvde-github/AIS-catcher | partial | 2026-09-02T22:21:15Z | [open](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) |
+| kismetwireless/kismet | partial | 2026-09-01T15:36:57Z | [open](../records/satcom-satellites-kismetwireless-kismet-f1e1e53d.md) |
+| KubOS-Preservation-Group/ccsds-spacepacket | partial | 2022-06-13T23:22:58Z | [open](../records/satcom-satellites-kubos-preservation-group-ccsds-spacepacket-4cff5034.md) |
 | libcsp/libcsp | partial | 2026-08-26T05:31:12Z | [open](../records/satcom-satellites-libcsp-libcsp-abe29c50.md) |
+| Mejiro-McQueen/Bifrost | partial | 2023-10-18T00:26:27Z | [open](../records/satcom-satellites-mejiro-mcqueen-bifrost-545d8ca0.md) |
 | raceintospace/raceintospace | partial | 2026-09-01T21:25:22Z | [open](../records/satcom-satellites-raceintospace-raceintospace-aabc64c6.md) |
+| RedhawkSDR/redhawk | partial | 2023-05-12T19:01:24Z | [open](../records/satcom-satellites-redhawksdr-redhawk-579f9599.md) |
 | sam210723/orbcomm-rx | partial | 2019-12-23T06:01:41Z | [open](../records/satcom-satellites-sam210723-orbcomm-rx-ccf42f9d.md) |
 | thebaldgeek/thebaldgeek.github.io | partial | 2025-10-25T19:14:36Z | [open](../records/satcom-satellites-thebaldgeek-thebaldgeek-github-io-2494b7a4.md) |
+| Thom-x/docker-fr24feed-piaware-dump1090 | partial | 2026-08-03T18:05:22Z | [open](../records/satcom-satellites-thom-x-docker-fr24feed-piaware-dump1090-160edf4c.md) |
 
 ## Electromagnetoscopes
 
@@ -1599,7 +1607,7 @@ Records: `1457`
 | exelban/stats | unknown | github_search_does_not_include_release_date | [open](../records/swift-exelban-stats-026d69ce.md) |
 | intitni/CopilotForXcode | unknown | github_search_does_not_include_release_date | [open](../records/swift-intitni-copilotforxcode-fa2e145c.md) |
 | jordanbaird/Ice | unknown | github_search_does_not_include_release_date | [open](../records/swift-jordanbaird-ice-8cede194.md) |
-| Juanpe/About-SwiftUI | unknown | github_search_does_not_include_release_date | [open](../records/swift-juanpe-about-swiftui-285586b3.md) |
+| Juanpe/About-SwiftUI | partial | 2022-10-28T15:59:18Z | [open](../records/swift-juanpe-about-swiftui-285586b3.md) |
 | kodecocodes/swift-algorithm-club | unknown | github_search_does_not_include_release_date | [open](../records/swift-kodecocodes-swift-algorithm-club-8609bf0f.md) |
 | MonitorControl/MonitorControl | unknown | github_search_does_not_include_release_date | [open](../records/swift-monitorcontrol-monitorcontrol-40207617.md) |
 | ronitsingh10/FineTune | unknown | github_search_does_not_include_release_date | [open](../records/swift-ronitsingh10-finetune-b5e98cce.md) |
