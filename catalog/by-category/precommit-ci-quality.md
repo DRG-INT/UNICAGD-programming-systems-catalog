@@ -1,6 +1,6 @@
 # Precommit Ci Quality
 
-Records: `270`
+Records: `273`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `270`
 
 ## Category Index
 
-[Api Abi Checker (199)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (133)](async-runtime.md)
-[Benchmarking (164)](benchmarking.md) · [Build System (882)](build-system.md) · [Cli (524)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (201)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (133)](async-runtime.md)
+[Benchmarking (164)](benchmarking.md) · [Build System (884)](build-system.md) · [Cli (528)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (92)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
-[Concurrency Parallelism (76)](concurrency-parallelism.md) · [Configuration (107)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (829)](database-datastore.md) · [Datetime (174)](datetime.md)
+[Concurrency Parallelism (77)](concurrency-parallelism.md) · [Configuration (108)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (830)](database-datastore.md) · [Datetime (177)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (95)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1319)](filesystem-os.md) · [Formatter (582)](formatter.md)
-[Framework (52)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1270)](ide-editor-integration.md)
-[Image Audio Dsp (354)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (241)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1267)](language-specification.md) · [Library (5092)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (468)](logging-observability.md) · [Machine Learning (627)](machine-learning.md)
-[Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (954)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (406)](package-manager.md) · [Parser Lexer Ast (974)](parser-lexer-ast.md) · **[Precommit Ci Quality (270)](precommit-ci-quality.md)**
-[Profiler (79)](profiler.md) · [Project Scaffolding (127)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (330)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (482)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (513)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (296)](type-checker.md)
-[Undefined Behavior Analyzer (1473)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (443)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1328)](filesystem-os.md) · [Formatter (587)](formatter.md)
+[Framework (52)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1279)](ide-editor-integration.md)
+[Image Audio Dsp (355)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (241)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1270)](language-specification.md) · [Library (5112)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (472)](logging-observability.md) · [Machine Learning (634)](machine-learning.md)
+[Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (955)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (407)](package-manager.md) · [Parser Lexer Ast (993)](parser-lexer-ast.md) · **[Precommit Ci Quality (273)](precommit-ci-quality.md)**
+[Profiler (79)](profiler.md) · [Project Scaffolding (127)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Security Sast (331)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (486)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (513)](testing-framework.md) · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
+[Undefined Behavior Analyzer (1480)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (446)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
 
 ## C++23
 
@@ -317,11 +317,14 @@ Records: `270`
 | --- | --- | --- | --- |
 | alfy7/LTspice-Basics | partial | 2019-10-16T05:04:01Z | [open](../records/space-maps-alfy7-ltspice-basics-eb1c9dba.md) |
 | amnh/HackTheSolarSystem | partial | 2019-02-11T20:42:00Z | [open](../records/space-maps-amnh-hackthesolarsystem-ac736e3e.md) |
+| Cism-Ch/Orbital-Monolith | partial | 2026-08-09T21:43:17Z | [open](../records/space-maps-cism-ch-orbital-monolith-34cbc4e2.md) |
 | gmagno/spyci | partial | 2022-12-26T21:01:45Z | [open](../records/space-maps-gmagno-spyci-9ac918aa.md) |
 | Iraeis/circe | partial | 2024-06-21T07:46:33Z | [open](../records/space-maps-iraeis-circe-f13ef4ad.md) |
 | js1019/NormalModes | partial | 2023-01-01T21:53:54Z | [open](../records/space-maps-js1019-normalmodes-10cca106.md) |
 | MarkWieczorek/ctplanet | partial | 2026-08-18T21:05:10Z | [open](../records/space-maps-markwieczorek-ctplanet-5a02ee6d.md) |
 | maxmahlke/rocks | partial | 2026-07-13T08:02:19Z | [open](../records/space-maps-maxmahlke-rocks-873f5e31.md) |
+| Rishav-k/Steriographic-Projection | partial | 2023-04-06T10:14:55Z | [open](../records/space-maps-rishav-k-steriographic-projection-1254199a.md) |
+| Swanson-Hysell/2019_Tunnunik | partial | 2019-02-04T16:57:11Z | [open](../records/space-maps-swanson-hysell-2019-tunnunik-bb4f3dd1.md) |
 | VirtualPlanetaryLaboratory/vplanet | partial | 2026-08-11T21:24:13Z | [open](../records/space-maps-virtualplanetarylaboratory-vplanet-bbbd7433.md) |
 
 ## Effects

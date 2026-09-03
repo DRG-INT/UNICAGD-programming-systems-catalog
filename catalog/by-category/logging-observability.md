@@ -1,6 +1,6 @@
 # Logging Observability
 
-Records: `468`
+Records: `472`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `468`
 
 ## Category Index
 
-[Api Abi Checker (199)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (133)](async-runtime.md)
-[Benchmarking (164)](benchmarking.md) · [Build System (882)](build-system.md) · [Cli (524)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (201)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (133)](async-runtime.md)
+[Benchmarking (164)](benchmarking.md) · [Build System (884)](build-system.md) · [Cli (528)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (92)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
-[Concurrency Parallelism (76)](concurrency-parallelism.md) · [Configuration (107)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (829)](database-datastore.md) · [Datetime (174)](datetime.md)
+[Concurrency Parallelism (77)](concurrency-parallelism.md) · [Configuration (108)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (830)](database-datastore.md) · [Datetime (177)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (95)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1319)](filesystem-os.md) · [Formatter (582)](formatter.md)
-[Framework (52)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1270)](ide-editor-integration.md)
-[Image Audio Dsp (354)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (241)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1267)](language-specification.md) · [Library (5092)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · **[Logging Observability (468)](logging-observability.md)** · [Machine Learning (627)](machine-learning.md)
-[Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (954)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (406)](package-manager.md) · [Parser Lexer Ast (974)](parser-lexer-ast.md) · [Precommit Ci Quality (270)](precommit-ci-quality.md)
-[Profiler (79)](profiler.md) · [Project Scaffolding (127)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (330)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (482)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (513)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (296)](type-checker.md)
-[Undefined Behavior Analyzer (1473)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (443)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1328)](filesystem-os.md) · [Formatter (587)](formatter.md)
+[Framework (52)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1279)](ide-editor-integration.md)
+[Image Audio Dsp (355)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (241)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1270)](language-specification.md) · [Library (5112)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · **[Logging Observability (472)](logging-observability.md)** · [Machine Learning (634)](machine-learning.md)
+[Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (955)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (407)](package-manager.md) · [Parser Lexer Ast (993)](parser-lexer-ast.md) · [Precommit Ci Quality (273)](precommit-ci-quality.md)
+[Profiler (79)](profiler.md) · [Project Scaffolding (127)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Security Sast (331)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (486)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (513)](testing-framework.md) · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
+[Undefined Behavior Analyzer (1480)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (446)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
 
 ## C99
 
@@ -350,7 +350,7 @@ Records: `468`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 2noise/ChatTTS | partial | 2026-04-10T16:33:48Z | [open](../records/aim-s-2noise-chattts-5e993170.md) |
-| langfuse/langfuse | partial | 2026-09-03T09:19:56Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
+| langfuse/langfuse | partial | 2026-09-03T10:19:44Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
 | microsoft/semantic-kernel | partial | 2026-09-03T01:07:56Z | [open](../records/aim-s-microsoft-semantic-kernel-ef95bef0.md) |
 | MLflow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-mlflow-1732aa2b.md) |
 | OpenTelemetry Semantic Conventions For GenAI | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-opentelemetry-semantic-conventions-for-genai-e834f611.md) |
@@ -405,21 +405,25 @@ Records: `468`
 | Azure-Samples/data-catalog-dotnet-service-principal-get-started | partial | 2017-12-03T03:49:37Z | [open](../records/space-maps-azure-samples-data-catalog-dotnet-service-principal-get-started-85f4f283.md) |
 | Bebe-dev/starwars-catalogue | partial | 2024-01-20T09:39:52Z | [open](../records/space-maps-bebe-dev-starwars-catalogue-5f75d1e9.md) |
 | Biendeo/SingStar-PS2-Catalog | partial | 2026-04-15T05:56:26Z | [open](../records/space-maps-biendeo-singstar-ps2-catalog-384fffb1.md) |
+| bilalpervaiz/STAC-based-Satellite-Imagery-Explorer-Web-Application-with-NDVI-NDWI-Analytics | partial | 2026-05-15T14:34:43Z | [open](../records/space-maps-bilalpervaiz-stac-based-satellite-imagery-explorer-web-application-with-ndvi-ndwi-analytics-08edb199.md) |
 | bobbyjim/Starships | partial | 2026-03-13T23:47:49Z | [open](../records/space-maps-bobbyjim-starships-d41e33f2.md) |
 | brettonw/YaleBrightStarCatalog | partial | 2023-06-16T22:19:24Z | [open](../records/space-maps-brettonw-yalebrightstarcatalog-67a240ba.md) |
 | bufferedName/ZSpice | partial | 2025-01-04T05:47:00Z | [open](../records/space-maps-bufferedname-zspice-ef3fa10d.md) |
 | Carbon-Arc/metabase-starrocks-driver | partial | 2026-08-28T20:48:50Z | [open](../records/space-maps-carbon-arc-metabase-starrocks-driver-a0963ed4.md) |
+| craigfay/mundi | partial | 2018-03-27T11:57:53Z | [open](../records/space-maps-craigfay-mundi-36c168a1.md) |
 | daria-kawecka/star-wars-catalogue | partial | 2021-04-26T19:57:48Z | [open](../records/space-maps-daria-kawecka-star-wars-catalogue-df928ac2.md) |
 | dj-ryan/sat-sight-view | partial | 2024-05-04T23:00:17Z | [open](../records/space-maps-dj-ryan-sat-sight-view-115ba8db.md) |
 | DJBen/StarryNight | partial | 2026-03-26T19:14:33Z | [open](../records/space-maps-djben-starrynight-1234566b.md) |
 | eggplantbren/StarStudded | partial | 2024-09-27T04:21:50Z | [open](../records/space-maps-eggplantbren-starstudded-bffc81b7.md) |
 | EmmaDawsonDev/starwars-catalog | partial | 2020-11-04T15:49:50Z | [open](../records/space-maps-emmadawsondev-starwars-catalog-cbab6e24.md) |
+| Emmanuel246/AIYE-BACKEND-GEMINI-HACKATHON | partial | 2026-02-09T23:30:47Z | [open](../records/space-maps-emmanuel246-aiye-backend-gemini-hackathon-711eeef3.md) |
 | EnvironmentOntology/envo | partial | 2026-06-29T17:01:25Z | [open](../records/space-maps-environmentontology-envo-d2072044.md) |
 | europlanet-gmap/awesome-planetary-geology | partial | 2025-06-26T16:48:20Z | [open](../records/space-maps-europlanet-gmap-awesome-planetary-geology-77531f19.md) |
 | Eyantra698Sumanto/Spice-to-Verilog-Converter | partial | 2023-05-23T09:08:37Z | [open](../records/space-maps-eyantra698sumanto-spice-to-verilog-converter-85f072c2.md) |
 | felpfsf/star-wars-catalog | partial | 2022-07-23T16:08:37Z | [open](../records/space-maps-felpfsf-star-wars-catalog-970b5446.md) |
 | Fozimat/star-movie | partial | 2020-12-11T09:09:50Z | [open](../records/space-maps-fozimat-star-movie-c508ba3f.md) |
 | frontecs/starcatalog | partial | 2024-08-09T21:34:39Z | [open](../records/space-maps-frontecs-starcatalog-74052b3a.md) |
+| g-nitin/solar-system-geology | partial | 2024-01-06T22:14:48Z | [open](../records/space-maps-g-nitin-solar-system-geology-e8584609.md) |
 | gabriel-brito/starwars-catalogue | partial | 2017-09-18T04:11:24Z | [open](../records/space-maps-gabriel-brito-starwars-catalogue-a8c14e00.md) |
 | GabrielMoreiradeSouza/STAR-WARS-CATALOG | partial | 2026-06-09T00:08:21Z | [open](../records/space-maps-gabrielmoreiradesouza-star-wars-catalog-ba9d374f.md) |
 | gergely-sajo/star-wars-catalog | partial | 2020-10-13T18:41:01Z | [open](../records/space-maps-gergely-sajo-star-wars-catalog-6f047b2e.md) |

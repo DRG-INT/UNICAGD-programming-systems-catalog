@@ -1,6 +1,6 @@
 # Library
 
-Records: `5092`
+Records: `5112`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `5092`
 
 ## Category Index
 
-[Api Abi Checker (199)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (133)](async-runtime.md)
-[Benchmarking (164)](benchmarking.md) · [Build System (882)](build-system.md) · [Cli (524)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (201)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (133)](async-runtime.md)
+[Benchmarking (164)](benchmarking.md) · [Build System (884)](build-system.md) · [Cli (528)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (92)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
-[Concurrency Parallelism (76)](concurrency-parallelism.md) · [Configuration (107)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (829)](database-datastore.md) · [Datetime (174)](datetime.md)
+[Concurrency Parallelism (77)](concurrency-parallelism.md) · [Configuration (108)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (830)](database-datastore.md) · [Datetime (177)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (95)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1319)](filesystem-os.md) · [Formatter (582)](formatter.md)
-[Framework (52)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1270)](ide-editor-integration.md)
-[Image Audio Dsp (354)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (241)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1267)](language-specification.md) · **[Library (5092)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (468)](logging-observability.md) · [Machine Learning (627)](machine-learning.md)
-[Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (954)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (406)](package-manager.md) · [Parser Lexer Ast (974)](parser-lexer-ast.md) · [Precommit Ci Quality (270)](precommit-ci-quality.md)
-[Profiler (79)](profiler.md) · [Project Scaffolding (127)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (330)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (482)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (513)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (296)](type-checker.md)
-[Undefined Behavior Analyzer (1473)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (443)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1328)](filesystem-os.md) · [Formatter (587)](formatter.md)
+[Framework (52)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1279)](ide-editor-integration.md)
+[Image Audio Dsp (355)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (241)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1270)](language-specification.md) · **[Library (5112)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (472)](logging-observability.md) · [Machine Learning (634)](machine-learning.md)
+[Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (955)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (407)](package-manager.md) · [Parser Lexer Ast (993)](parser-lexer-ast.md) · [Precommit Ci Quality (273)](precommit-ci-quality.md)
+[Profiler (79)](profiler.md) · [Project Scaffolding (127)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Security Sast (331)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (486)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (513)](testing-framework.md) · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
+[Undefined Behavior Analyzer (1480)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (446)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
 
 ## C99
 
@@ -2856,6 +2856,7 @@ Records: `5092`
 | Rtwalk | 2.1.0 | 2026-08-28 23:10:02 UTC | [open](../records/r-rtwalk-5afdf426.md) |
 | ruler | 0.3.2 | 2026-08-22 15:30:02 UTC | [open](../records/r-ruler-68068605.md) |
 | ruv | 0.9.7.2 | 2026-08-31 22:00:08 UTC | [open](../records/r-ruv-95beb863.md) |
+| s2 | 1.1.12 | 2026-09-03 09:30:02 UTC | [open](../records/r-s2-51c95df6.md) |
 | saeHB.Spatial.Beta | 0.1.1 | 2026-08-24 16:00:02 UTC | [open](../records/r-saehb-spatial-beta-7e96c5ff.md) |
 | scmix | 0.1.1 | 2026-08-20 14:30:02 UTC | [open](../records/r-scmix-aeebdb3f.md) |
 | screenshot | 0.9.3 | 2026-08-22 09:20:02 UTC | [open](../records/r-screenshot-9646a7e3.md) |
@@ -4419,24 +4420,43 @@ Records: `5092`
 | bluescarni/piranha | partial | 2022-07-06T14:41:33Z | [open](../records/space-maps-bluescarni-piranha-7164b429.md) |
 | boltma/Scalable-FeFET | partial | 2022-04-21T06:17:49Z | [open](../records/space-maps-boltma-scalable-fefet-6d27101e.md) |
 | ChristopherRabotin/smd | partial | 2018-01-18T01:07:09Z | [open](../records/space-maps-christopherrabotin-smd-c6b850c6.md) |
+| codemacabre/planetaryxr | partial | 2024-12-16T09:49:18Z | [open](../records/space-maps-codemacabre-planetaryxr-2dfc894d.md) |
 | ColsonZhang/CZ_OpenSpice | partial | 2021-04-03T05:27:05Z | [open](../records/space-maps-colsonzhang-cz-openspice-50bc4a33.md) |
 | daynix/qxl-wddm-dod | partial | 2019-03-12T00:00:26Z | [open](../records/space-maps-daynix-qxl-wddm-dod-4c577c77.md) |
+| eXodus-eSports/exodus_esports_tournament_map_pack | partial | 2024-01-25T21:44:54Z | [open](../records/space-maps-exodus-esports-exodus-esports-tournament-map-pack-fe6385fa.md) |
 | f18m/netlist-viewer | partial | 2026-07-31T10:13:34Z | [open](../records/space-maps-f18m-netlist-viewer-746fce4d.md) |
+| FraLaz1971/maps | partial | 2026-01-13T15:26:43Z | [open](../records/space-maps-fralaz1971-maps-6c6111ad.md) |
+| GabrieleMaurina/com.pa.kingslayergm.maps | partial | 2020-05-04T19:54:24Z | [open](../records/space-maps-gabrielemaurina-com-pa-kingslayergm-maps-62759765.md) |
 | GaetanoLongo/PowerElectronics | partial | 2025-07-07T09:39:02Z | [open](../records/space-maps-gaetanolongo-powerelectronics-afb0849d.md) |
+| ganddd/Sektar-Map-Pack | partial | 2026-06-21T15:54:35Z | [open](../records/space-maps-ganddd-sektar-map-pack-e1a4a78c.md) |
+| gb6162166/gb6-definitive | partial | 2026-01-08T12:48:32Z | [open](../records/space-maps-gb6162166-gb6-definitive-81534dac.md) |
 | gnucap/gnucap | partial | 2026-09-01T06:40:32Z | [open](../records/space-maps-gnucap-gnucap-394258fd.md) |
 | google/sky90fd-pdk | partial | 2023-05-11T00:15:31Z | [open](../records/space-maps-google-sky90fd-pdk-5cbbace5.md) |
+| gr4xity/mein-gott | partial | 2024-06-08T05:58:37Z | [open](../records/space-maps-gr4xity-mein-gott-b135364b.md) |
 | jsimonetti/go-spice | partial | 2026-08-17T04:02:39Z | [open](../records/space-maps-jsimonetti-go-spice-e37ca038.md) |
+| JST-US/pa-map | partial | 2016-03-19T22:41:12Z | [open](../records/space-maps-jst-us-pa-map-568a31ff.md) |
+| JustinLove/gw_shared_systems | partial | 2023-01-08T23:09:03Z | [open](../records/space-maps-justinlove-gw-shared-systems-fa6d115a.md) |
 | kicad-spice-library/KiCad-Spice-Library | partial | 2025-05-19T19:45:32Z | [open](../records/space-maps-kicad-spice-library-kicad-spice-library-c131200a.md) |
+| kweh-innovative-technical-solutions/KITS-Multi-Planetary-Road-Map | partial | 2026-03-15T17:26:34Z | [open](../records/space-maps-kweh-innovative-technical-solutions-kits-multi-planetary-road-map-489afbb0.md) |
 | lethalbit/kicad-pdk-libs | partial | 2026-06-09T02:04:31Z | [open](../records/space-maps-lethalbit-kicad-pdk-libs-9dc269af.md) |
+| lilly1987/Planetary-Annihilation-Lilly-maps | partial | 2022-11-19T12:29:06Z | [open](../records/space-maps-lilly1987-planetary-annihilation-lilly-maps-367bcff9.md) |
 | LupinThidr/spicecompanion | partial | 2023-12-18T01:50:07Z | [open](../records/space-maps-lupinthidr-spicecompanion-e0d8477b.md) |
+| MatthieuPierce/planetary-scoville-scale | partial | 2021-03-19T20:16:27Z | [open](../records/space-maps-matthieupierce-planetary-scoville-scale-185a850f.md) |
 | NeuroFan/Algorithmic-SAR-ADC-simulation-files | partial | 2024-06-29T10:51:12Z | [open](../records/space-maps-neurofan-algorithmic-sar-adc-simulation-files-e65efc0f.md) |
 | nunobrum/spicelib | partial | 2026-08-24T19:21:27Z | [open](../records/space-maps-nunobrum-spicelib-f827eef9.md) |
+| odhiamboally/mcb_caterpillar_control | partial | 2025-03-31T00:57:21Z | [open](../records/space-maps-odhiamboally-mcb-caterpillar-control-ad68e2a3.md) |
 | ofrohn/d3-celestial | partial | 2024-08-12T13:13:10Z | [open](../records/space-maps-ofrohn-d3-celestial-15afcceb.md) |
 | ortk95/planetmapper | partial | 2026-09-01T09:00:02Z | [open](../records/space-maps-ortk95-planetmapper-82aea8d2.md) |
+| paulmis/dual-systems | partial | 2022-02-17T03:14:04Z | [open](../records/space-maps-paulmis-dual-systems-434a06b6.md) |
+| sadhvikoli/space-rover-agent | partial | 2026-05-14T14:20:02Z | [open](../records/space-maps-sadhvikoli-space-rover-agent-b904cc66.md) |
 | sgherbst/sky130-hello-world | partial | 2021-01-20T23:58:45Z | [open](../records/space-maps-sgherbst-sky130-hello-world-b3b77dc9.md) |
 | smirik/mercury | partial | 2023-02-18T11:37:05Z | [open](../records/space-maps-smirik-mercury-5941480a.md) |
+| space-gen/planetary-maps | partial | 2026-02-21T17:38:30Z | [open](../records/space-maps-space-gen-planetary-maps-0e728f2d.md) |
+| TokenElt/com.pa.tokenelt.maps | partial | 2018-11-30T03:14:34Z | [open](../records/space-maps-tokenelt-com-pa-tokenelt-maps-db376b15.md) |
 | vlad-ivanov-name/kicad-spice-extras | partial | 2016-01-11T12:57:05Z | [open](../records/space-maps-vlad-ivanov-name-kicad-spice-extras-9344d63a.md) |
+| wolfandreh/planetary_maps_project | partial | 2022-11-27T22:21:29Z | [open](../records/space-maps-wolfandreh-planetary-maps-project-33fc5741.md) |
 | WurthElektronik/LTspice-Library | partial | 2026-08-14T02:34:09Z | [open](../records/space-maps-wurthelektronik-ltspice-library-84da8626.md) |
+| Yaez/pa_maps | partial | 2018-02-24T14:58:33Z | [open](../records/space-maps-yaez-pa-maps-298dc1e7.md) |
 
 ## Effects
 
@@ -4461,7 +4481,7 @@ Records: `5092`
 | fand/vfx-js | partial | 2026-08-11T22:45:13Z | [open](../records/effects-fand-vfx-js-267d1f85.md) |
 | fearofcode/bateman | unknown | github_latest_release_missing | [open](../records/effects-fearofcode-bateman-03c24113.md) |
 | GabrielSCabrera/nBody | partial | 2024-03-31T14:11:02Z | [open](../records/effects-gabrielscabrera-nbody-387acb4c.md) |
-| ggarra13/mrv2 | partial | 2026-09-02T09:29:35Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |
+| ggarra13/mrv2 | partial | 2026-09-03T08:44:22Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |
 | glotzerlab/hoomd-blue | partial | 2026-09-02T10:33:09Z | [open](../records/effects-glotzerlab-hoomd-blue-5217e991.md) |
 | glotzerlab/hoomd-examples | partial | 2026-08-31T13:19:32Z | [open](../records/effects-glotzerlab-hoomd-examples-8b82445a.md) |
 | henriquelalves/SimpleGodotCRTShader | partial | 2024-09-02T21:57:23Z | [open](../records/effects-henriquelalves-simplegodotcrtshader-0feadcb8.md) |
