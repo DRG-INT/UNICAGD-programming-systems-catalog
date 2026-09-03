@@ -9,17 +9,17 @@
 [Community Reference (97)](by-category/community-reference.md) · [Compiler (174)](by-category/compiler.md) · [Compiler Diagnostics (23)](by-category/compiler-diagnostics.md) · [Compression (46)](by-category/compression.md)
 [Concurrency Parallelism (78)](by-category/concurrency-parallelism.md) · [Configuration (113)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (162)](by-category/cryptography.md) · [Data Science (35)](by-category/data-science.md) · [Database Datastore (832)](by-category/database-datastore.md) · [Datetime (180)](by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (42)](by-category/debugger.md) · [Dependency Manager (92)](by-category/dependency-manager.md) · [Documentation (96)](by-category/documentation.md)
-[Embedded Hardware (54)](by-category/embedded-hardware.md) · [Ffi Bindings (402)](by-category/ffi-bindings.md) · [Filesystem Os (1371)](by-category/filesystem-os.md) · [Formatter (598)](by-category/formatter.md)
+[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (42)](by-category/debugger.md) · [Dependency Manager (93)](by-category/dependency-manager.md) · [Documentation (96)](by-category/documentation.md)
+[Embedded Hardware (54)](by-category/embedded-hardware.md) · [Ffi Bindings (402)](by-category/ffi-bindings.md) · [Filesystem Os (1371)](by-category/filesystem-os.md) · [Formatter (599)](by-category/formatter.md)
 [Framework (54)](by-category/framework.md) · [Fuzzer (53)](by-category/fuzzer.md) · [Game Engine Game Dev (169)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1304)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (356)](by-category/image-audio-dsp.md) · [Interop Bindings (57)](by-category/interop-bindings.md) · [Interpreter Runtime (250)](by-category/interpreter-runtime.md) · [Jit Vm (60)](by-category/jit-vm.md)
-[Language Server (27)](by-category/language-server.md) · [Language Specification (1373)](by-category/language-specification.md) · [Library (5232)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (43)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (481)](by-category/logging-observability.md) · [Machine Learning (643)](by-category/machine-learning.md)
-[Math Numeric Scientific (83)](by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](by-category/memory-analyzer.md) · [Message Broker (36)](by-category/message-broker.md) · [Networking Http (963)](by-category/networking-http.md)
+[Language Server (27)](by-category/language-server.md) · [Language Specification (1374)](by-category/language-specification.md) · [Library (5235)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (43)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (482)](by-category/logging-observability.md) · [Machine Learning (643)](by-category/machine-learning.md)
+[Math Numeric Scientific (83)](by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](by-category/memory-analyzer.md) · [Message Broker (36)](by-category/message-broker.md) · [Networking Http (965)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (411)](by-category/package-manager.md) · [Parser Lexer Ast (998)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (278)](by-category/precommit-ci-quality.md)
 [Profiler (79)](by-category/profiler.md) · [Project Scaffolding (130)](by-category/project-scaffolding.md) · [Registry Repository (108)](by-category/registry-repository.md) · [Sanitizer (13)](by-category/sanitizer.md)
 [Security Sast (333)](by-category/security-sast.md) · [Serialization (378)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (490)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (518)](by-category/testing-framework.md) · [Tutorial Book Styleguide (56)](by-category/tutorial-book-styleguide.md) · [Type Checker (297)](by-category/type-checker.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (519)](by-category/testing-framework.md) · [Tutorial Book Styleguide (56)](by-category/tutorial-book-styleguide.md) · [Type Checker (297)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1497)](by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](by-category/utility-library.md) · [Visualization Gui (466)](by-category/visualization-gui.md) · [Web Framework (448)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
@@ -1080,6 +1080,7 @@
 | `cran_packages_by_date-2ca6808ef970e7` | gkwreg | [open](records/r-gkwreg-db25c16d.md) |
 | `cran_packages_by_date-2d33e01e34a6d6` | guideR | [open](records/r-guider-188f5cbf.md) |
 | `cran_packages_by_date-2dc23f92c6ae89` | HeatStressR | [open](records/r-heatstressr-efbc6ad7.md) |
+| `cran_packages_by_date-2ddc6fec05f184` | serad | [open](records/r-serad-0274bde8.md) |
 | `cran_packages_by_date-2dddeb17c43d5a` | cuda.ml | [open](records/r-cuda-ml-e3f5e9f7.md) |
 | `cran_packages_by_date-2de1d02356fe05` | rquest | [open](records/r-rquest-6ab7845d.md) |
 | `cran_packages_by_date-2e0653a6670286` | enrichit | [open](records/r-enrichit-b6931f06.md) |
@@ -1141,6 +1142,7 @@
 | `cran_packages_by_date-3616c0fb1129d6` | eigencore | [open](records/r-eigencore-f3582b39.md) |
 | `cran_packages_by_date-363d9188edf0f4` | rstantools | [open](records/r-rstantools-9906cc46.md) |
 | `cran_packages_by_date-366f4f822305fd` | mx.crypto | [open](records/r-mx-crypto-b14a1d72.md) |
+| `cran_packages_by_date-3674a1f0d812bb` | Deriv | [open](records/r-deriv-4aef35c3.md) |
 | `cran_packages_by_date-36a16afc1b6978` | MatchingPursuit | [open](records/r-matchingpursuit-7b7f61ee.md) |
 | `cran_packages_by_date-36ef222bb58b4b` | tidyweather | [open](records/r-tidyweather-eeace04c.md) |
 | `cran_packages_by_date-370337d083acad` | stringmagic | [open](records/r-stringmagic-a36f1ddc.md) |
@@ -1287,6 +1289,7 @@
 | `cran_packages_by_date-4db7373b326210` | distspec | [open](records/r-distspec-7a6e82bf.md) |
 | `cran_packages_by_date-4dd9911ceaf9d7` | CLRtools | [open](records/r-clrtools-e3048f4b.md) |
 | `cran_packages_by_date-4e33aaadc5f469` | cgmguru | [open](records/r-cgmguru-f2b94796.md) |
+| `cran_packages_by_date-4e5bd7bffe7b95` | crandep | [open](records/r-crandep-6374b415.md) |
 | `cran_packages_by_date-4ec4cac5f3c141` | openfhe.R | [open](records/r-openfhe-r-3744e327.md) |
 | `cran_packages_by_date-4ed4005b205e91` | declared | [open](records/r-declared-ff86036a.md) |
 | `cran_packages_by_date-4ef17bad833789` | detect | [open](records/r-detect-8412dfa1.md) |
@@ -1671,6 +1674,7 @@
 | `cran_packages_by_date-88477e451e45a5` | SeqExpMatch | [open](records/r-seqexpmatch-740b60ae.md) |
 | `cran_packages_by_date-88c3fdd43f6cdb` | BioMonTools | [open](records/r-biomontools-dd987ec9.md) |
 | `cran_packages_by_date-88d260febe1103` | bsvarSIGNs | [open](records/r-bsvarsigns-04311d8e.md) |
+| `cran_packages_by_date-88fd62ae5345df` | sievetest | [open](records/r-sievetest-73fa0e2d.md) |
 | `cran_packages_by_date-891a2ef4ed7f02` | LLMing | [open](records/r-llming-d2c0b725.md) |
 | `cran_packages_by_date-8946c850edb451` | rkt | [open](records/r-rkt-30862909.md) |
 | `cran_packages_by_date-8974058941cd32` | Immutables | [open](records/r-immutables-5af2cfd6.md) |
@@ -1690,6 +1694,7 @@
 | `cran_packages_by_date-8b35b9d5278cd1` | ggRandomForests | [open](records/r-ggrandomforests-9702efc3.md) |
 | `cran_packages_by_date-8b4f2669c76b21` | CohortIncidence | [open](records/r-cohortincidence-78d5283d.md) |
 | `cran_packages_by_date-8b6ddf1683c679` | fqardl | [open](records/r-fqardl-69afa232.md) |
+| `cran_packages_by_date-8bc15054a65e2a` | lucid | [open](records/r-lucid-224c51a5.md) |
 | `cran_packages_by_date-8bd8cbd4546c4f` | pkgnet | [open](records/r-pkgnet-b8bd4957.md) |
 | `cran_packages_by_date-8bfab4ae851377` | metrosp | [open](records/r-metrosp-4df42b80.md) |
 | `cran_packages_by_date-8c0d77dcecbd17` | mlbench | [open](records/r-mlbench-db52e54e.md) |
@@ -2322,6 +2327,7 @@
 | `cran_packages_by_date-f58bfaed438a01` | DEoptimR | [open](records/r-deoptimr-fe7549d5.md) |
 | `cran_packages_by_date-f5aa440edce7f9` | gofPHCS | [open](records/r-gofphcs-cf013f64.md) |
 | `cran_packages_by_date-f654dcd474deb4` | wehoop | [open](records/r-wehoop-7c463af4.md) |
+| `cran_packages_by_date-f65c161ac1f372` | allofus | [open](records/r-allofus-51762bfa.md) |
 | `cran_packages_by_date-f67e7c234f4003` | ipred | [open](records/r-ipred-a4ee0c6d.md) |
 | `cran_packages_by_date-f6a28356b6aff8` | bgms | [open](records/r-bgms-a3d241eb.md) |
 | `cran_packages_by_date-f6d2b28da31945` | IBclust | [open](records/r-ibclust-e6498036.md) |
@@ -14341,6 +14347,7 @@
 | `hackage_recent-35beadab7001d5` | what4-domains | [open](records/haskell-what4-domains-20a280a8.md) |
 | `hackage_recent-36b9648f0bd994` | keel | [open](records/haskell-keel-dffc1816.md) |
 | `hackage_recent-36f4a9a68d187b` | ktx-font | [open](records/haskell-ktx-font-8c048a63.md) |
+| `hackage_recent-4c746b3da5448e` | freckle-otel | [open](records/haskell-freckle-otel-14553b97.md) |
 | `hackage_recent-560e75fc58d6d8` | vcs-ignore | [open](records/haskell-vcs-ignore-b594cffb.md) |
 | `hackage_recent-58fa0175997b25` | rme | [open](records/haskell-rme-b14c2f66.md) |
 | `hackage_recent-5c6c989abcb5c8` | typed-peg | [open](records/haskell-typed-peg-d0f69182.md) |
@@ -23694,6 +23701,7 @@
 | `pub_dev-3f2bb1490b9c72` | flutter_login | [open](records/dart-flutter-login-508af4c2.md) |
 | `pub_dev-4055526aec69ab` | profanity_filter | [open](records/dart-profanity-filter-9c55e3a5.md) |
 | `pub_dev-40837f8dc33dcd` | leak_tracker | [open](records/dart-leak-tracker-9b65ce16.md) |
+| `pub_dev-40911846278b68` | realtime_client | [open](records/dart-realtime-client-d4c1a6c8.md) |
 | `pub_dev-40e481fa1d426a` | tray_manager | [open](records/dart-tray-manager-fd52c41f.md) |
 | `pub_dev-40ea41f9da3e6f` | xdg_directories | [open](records/dart-xdg-directories-2f244eb1.md) |
 | `pub_dev-413280794b3424` | confetti | [open](records/dart-confetti-dc49ae1e.md) |
@@ -23805,6 +23813,7 @@
 | `pub_dev-6647bb8c6f429a` | elegant_notification | [open](records/dart-elegant-notification-fce2cf11.md) |
 | `pub_dev-66c7cdebf69d55` | country_code_picker | [open](records/dart-country-code-picker-cf4a7636.md) |
 | `pub_dev-676bc139cd74f5` | horizontal_data_table | [open](records/dart-horizontal-data-table-dd00eff1.md) |
+| `pub_dev-682220645987af` | googleapis | [open](records/dart-googleapis-bc8afb7b.md) |
 | `pub_dev-69171d5c265e4c` | rate_limiter | [open](records/dart-rate-limiter-ad013fae.md) |
 | `pub_dev-69df3253450c8e` | reactive_forms | [open](records/dart-reactive-forms-f831966a.md) |
 | `pub_dev-6aeaae3dbf185a` | skeletonizer | [open](records/dart-skeletonizer-cfc381b3.md) |
@@ -23921,6 +23930,7 @@
 | `pub_dev-92fd51fc7e96e2` | firebase_core | [open](records/dart-firebase-core-23c5aa1c.md) |
 | `pub_dev-9304af9dc045bc` | image | [open](records/dart-image-cc352620.md) |
 | `pub_dev-935d764bb1bd23` | sqflite_common | [open](records/dart-sqflite-common-296faecb.md) |
+| `pub_dev-938050bdffa64c` | flutter_platform_alert | [open](records/dart-flutter-platform-alert-41f9cc97.md) |
 | `pub_dev-938fc112b31160` | csslib | [open](records/dart-csslib-4ea6544b.md) |
 | `pub_dev-93d69ef5f56e29` | shimmer_animation | [open](records/dart-shimmer-animation-abb9b77d.md) |
 | `pub_dev-93e686fd0cf434` | split_view | [open](records/dart-split-view-81535742.md) |

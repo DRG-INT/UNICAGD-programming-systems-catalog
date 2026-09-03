@@ -13,17 +13,17 @@ Records: `83`
 [Community Reference (97)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
 [Concurrency Parallelism (78)](concurrency-parallelism.md) · [Configuration (113)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (832)](database-datastore.md) · [Datetime (180)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (92)](dependency-manager.md) · [Documentation (96)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1371)](filesystem-os.md) · [Formatter (598)](formatter.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (96)](documentation.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1371)](filesystem-os.md) · [Formatter (599)](formatter.md)
 [Framework (54)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (169)](game-engine-game-dev.md) · [Ide Editor Integration (1304)](ide-editor-integration.md)
 [Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (250)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1373)](language-specification.md) · [Library (5232)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (481)](logging-observability.md) · [Machine Learning (643)](machine-learning.md)
-**[Math Numeric Scientific (83)](math-numeric-scientific.md)** · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (963)](networking-http.md)
+[Language Server (27)](language-server.md) · [Language Specification (1374)](language-specification.md) · [Library (5235)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (482)](logging-observability.md) · [Machine Learning (643)](machine-learning.md)
+**[Math Numeric Scientific (83)](math-numeric-scientific.md)** · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (965)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (411)](package-manager.md) · [Parser Lexer Ast (998)](parser-lexer-ast.md) · [Precommit Ci Quality (278)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (333)](security-sast.md) · [Serialization (378)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (490)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (518)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (519)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
 [Undefined Behavior Analyzer (1497)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (466)](visualization-gui.md) · [Web Framework (448)](web-framework.md)
 
 ## C++23
@@ -62,7 +62,7 @@ Records: `83`
 | num-traits | 0.2.19 | 2024-05-03T21:27:39.856244Z | [open](../records/rust-num-traits-26d9c7d0.md) |
 | number_prefix | 0.4.0 | 2020-04-07T01:48:04.585296Z | [open](../records/rust-number-prefix-4bf10ab3.md) |
 | strict-num | 0.2.0 | 2023-12-23T08:50:07.257578Z | [open](../records/rust-strict-num-6614f5f5.md) |
-| windows-numerics | 0.3.1 | 2025-10-06T19:17:19.909774Z | [open](../records/rust-windows-numerics-980e10e5.md) |
+| windows-numerics | 0.100.0 | 2026-09-03T16:44:16.620261Z | [open](../records/rust-windows-numerics-980e10e5.md) |
 
 ## Python
 

@@ -13,17 +13,17 @@ Records: `1304`
 [Community Reference (97)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
 [Concurrency Parallelism (78)](concurrency-parallelism.md) · [Configuration (113)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (832)](database-datastore.md) · [Datetime (180)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (92)](dependency-manager.md) · [Documentation (96)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1371)](filesystem-os.md) · [Formatter (598)](formatter.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (96)](documentation.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1371)](filesystem-os.md) · [Formatter (599)](formatter.md)
 [Framework (54)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (169)](game-engine-game-dev.md) · **[Ide Editor Integration (1304)](ide-editor-integration.md)**
 [Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (250)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1373)](language-specification.md) · [Library (5232)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (481)](logging-observability.md) · [Machine Learning (643)](machine-learning.md)
-[Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (963)](networking-http.md)
+[Language Server (27)](language-server.md) · [Language Specification (1374)](language-specification.md) · [Library (5235)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (482)](logging-observability.md) · [Machine Learning (643)](machine-learning.md)
+[Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (965)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (411)](package-manager.md) · [Parser Lexer Ast (998)](parser-lexer-ast.md) · [Precommit Ci Quality (278)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (333)](security-sast.md) · [Serialization (378)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (490)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (518)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (519)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
 [Undefined Behavior Analyzer (1497)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (466)](visualization-gui.md) · [Web Framework (448)](web-framework.md)
 
 ## C++23
@@ -572,10 +572,10 @@ Records: `1304`
 | amplify_auth_cognito | 2.15.0 | 2026-08-19T12:00:36.613863Z | [open](../records/dart-amplify-auth-cognito-29e1400a.md) |
 | amplify_storage_s3 | 2.15.0 | 2026-08-19T11:56:06.433476Z | [open](../records/dart-amplify-storage-s3-16e3df4b.md) |
 | animated_size_and_fade | 5.1.1 | 2025-02-13T21:38:02.102321Z | [open](../records/dart-animated-size-and-fade-15eb5f44.md) |
-| better_player | 1.3.0 | 2026-09-01T12:40:39.412660Z | [open](../records/dart-better-player-084ef311.md) |
+| better_player | 1.4.0 | 2026-09-03T15:36:36.336895Z | [open](../records/dart-better-player-084ef311.md) |
 | better_player_plus | 1.3.5 | 2026-08-14T12:29:21.766340Z | [open](../records/dart-better-player-plus-f2e721c7.md) |
 | blurhash_dart | 1.2.1 | 2023-02-04T18:12:38.723765Z | [open](../records/dart-blurhash-dart-d4cabd9f.md) |
-| camera | 0.12.0+2 | 2026-07-13T17:48:30.017835Z | [open](../records/dart-camera-01cb47c6.md) |
+| camera | 0.12.1 | 2026-09-03T15:28:41.235977Z | [open](../records/dart-camera-01cb47c6.md) |
 | carousel_slider | 5.1.2 | 2026-02-05T17:10:08.999531Z | [open](../records/dart-carousel-slider-269a177b.md) |
 | carousel_slider_plus | 7.1.2 | 2026-05-02T04:29:12.916266Z | [open](../records/dart-carousel-slider-plus-7a585f72.md) |
 | chewie | 1.16.2 | 2026-09-02T14:53:35.297572Z | [open](../records/dart-chewie-3ede5409.md) |
@@ -616,7 +616,7 @@ Records: `1304`
 | geocoding | 5.0.0 | 2026-07-03T15:25:51.732762Z | [open](../records/dart-geocoding-5696dc4a.md) |
 | geolocator | 14.0.3 | 2026-06-12T12:37:15.288684Z | [open](../records/dart-geolocator-5f09b742.md) |
 | gpt_markdown | 1.2.1 | 2026-08-23T08:33:07.498642Z | [open](../records/dart-gpt-markdown-f85170ca.md) |
-| home_widget | 0.9.3 | 2026-06-07T17:23:53.856342Z | [open](../records/dart-home-widget-2e919e24.md) |
+| home_widget | 0.9.4 | 2026-09-03T16:07:26.126222Z | [open](../records/dart-home-widget-2e919e24.md) |
 | horizontal_data_table | 4.3.4 | 2026-01-18T16:01:53.804758Z | [open](../records/dart-horizontal-data-table-dd00eff1.md) |
 | html | 0.15.7 | 2026-08-28T20:42:28.160706Z | [open](../records/dart-html-bbe6825a.md) |
 | intercom_flutter | 9.6.25 | 2026-09-01T15:10:40.128044Z | [open](../records/dart-intercom-flutter-c88af118.md) |
@@ -669,20 +669,20 @@ Records: `1304`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AdguardTeam/AdGuardHome | unknown | not_a_go_module_path | [open](../records/go-adguardteam-adguardhome-7d76b56d.md) |
-| cloudreve/cloudreve | unknown | not_a_go_module_path | [open](../records/go-cloudreve-cloudreve-85a07260.md) |
-| gorilla/websocket | unknown | not_a_go_module_path | [open](../records/go-gorilla-websocket-b72dd879.md) |
+| AdguardTeam/AdGuardHome | partial | 2026-09-03T14:15:40Z | [open](../records/go-adguardteam-adguardhome-7d76b56d.md) |
+| cloudreve/cloudreve | partial | 2026-08-24T21:49:55Z | [open](../records/go-cloudreve-cloudreve-85a07260.md) |
+| gorilla/websocket | partial | 2025-03-19T13:29:08Z | [open](../records/go-gorilla-websocket-b72dd879.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-03T13:31:40Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-03T16:04:03Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-03T17:19:22Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-03T04:03:18Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-02T14:01:53Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-03T15:10:08Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
-| mudler/LocalAI | partial | 2026-09-03T16:03:20Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
+| mudler/LocalAI | partial | 2026-09-03T17:02:27Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-03T12:40:49Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
 

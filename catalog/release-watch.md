@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-03T16:25:13+00:00`
+Generated: `2026-09-03T17:20:55+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -11,40 +11,63 @@ Generated: `2026-09-03T16:25:13+00:00`
 [Community Reference (97)](by-category/community-reference.md) · [Compiler (174)](by-category/compiler.md) · [Compiler Diagnostics (23)](by-category/compiler-diagnostics.md) · [Compression (46)](by-category/compression.md)
 [Concurrency Parallelism (78)](by-category/concurrency-parallelism.md) · [Configuration (113)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (162)](by-category/cryptography.md) · [Data Science (35)](by-category/data-science.md) · [Database Datastore (832)](by-category/database-datastore.md) · [Datetime (180)](by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (42)](by-category/debugger.md) · [Dependency Manager (92)](by-category/dependency-manager.md) · [Documentation (96)](by-category/documentation.md)
-[Embedded Hardware (54)](by-category/embedded-hardware.md) · [Ffi Bindings (402)](by-category/ffi-bindings.md) · [Filesystem Os (1371)](by-category/filesystem-os.md) · [Formatter (598)](by-category/formatter.md)
+[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (42)](by-category/debugger.md) · [Dependency Manager (93)](by-category/dependency-manager.md) · [Documentation (96)](by-category/documentation.md)
+[Embedded Hardware (54)](by-category/embedded-hardware.md) · [Ffi Bindings (402)](by-category/ffi-bindings.md) · [Filesystem Os (1371)](by-category/filesystem-os.md) · [Formatter (599)](by-category/formatter.md)
 [Framework (54)](by-category/framework.md) · [Fuzzer (53)](by-category/fuzzer.md) · [Game Engine Game Dev (169)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1304)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (356)](by-category/image-audio-dsp.md) · [Interop Bindings (57)](by-category/interop-bindings.md) · [Interpreter Runtime (250)](by-category/interpreter-runtime.md) · [Jit Vm (60)](by-category/jit-vm.md)
-[Language Server (27)](by-category/language-server.md) · [Language Specification (1373)](by-category/language-specification.md) · [Library (5232)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (43)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (481)](by-category/logging-observability.md) · [Machine Learning (643)](by-category/machine-learning.md)
-[Math Numeric Scientific (83)](by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](by-category/memory-analyzer.md) · [Message Broker (36)](by-category/message-broker.md) · [Networking Http (963)](by-category/networking-http.md)
+[Language Server (27)](by-category/language-server.md) · [Language Specification (1374)](by-category/language-specification.md) · [Library (5235)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (43)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (482)](by-category/logging-observability.md) · [Machine Learning (643)](by-category/machine-learning.md)
+[Math Numeric Scientific (83)](by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](by-category/memory-analyzer.md) · [Message Broker (36)](by-category/message-broker.md) · [Networking Http (965)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (411)](by-category/package-manager.md) · [Parser Lexer Ast (998)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (278)](by-category/precommit-ci-quality.md)
 [Profiler (79)](by-category/profiler.md) · [Project Scaffolding (130)](by-category/project-scaffolding.md) · [Registry Repository (108)](by-category/registry-repository.md) · [Sanitizer (13)](by-category/sanitizer.md)
 [Security Sast (333)](by-category/security-sast.md) · [Serialization (378)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (490)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (518)](by-category/testing-framework.md) · [Tutorial Book Styleguide (56)](by-category/tutorial-book-styleguide.md) · [Type Checker (297)](by-category/type-checker.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (519)](by-category/testing-framework.md) · [Tutorial Book Styleguide (56)](by-category/tutorial-book-styleguide.md) · [Type Checker (297)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1497)](by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](by-category/utility-library.md) · [Visualization Gui (466)](by-category/visualization-gui.md) · [Web Framework (448)](by-category/web-framework.md)
 
 ## Coverage
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 9937 |
-| Unknown stable release | 14761 |
+| Known stable release | 9942 |
+| Unknown stable release | 14766 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
-| @lightdash/cli | Node.js/JavaScript | Cli | 2.114.0 | 2026-09-03T15:10:20.994Z | [open](records/node-js-javascript-lightdash-cli-ba24b859.md) |
+| @typespec/ts-http-runtime | Node.js/JavaScript | Interpreter Runtime | 0.3.9 | 2026-09-03T17:16:35.239Z | [open](records/node-js-javascript-typespec-ts-http-runtime-4178f4d2.md) |
+| @stacksjs/database | Node.js/JavaScript | Database Datastore | 0.74.7 | 2026-09-03T17:14:04.322Z | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
+| @stacksjs/testing | Node.js/JavaScript | Testing Framework | 0.74.7 | 2026-09-03T17:12:54.354Z | [open](records/node-js-javascript-stacksjs-testing-57469937.md) |
+| hOpenPGP | Haskell | Library | 3.6.5 | 2026-09-03T17:12:47Z | [open](records/haskell-hopenpgp-dbd93565.md) |
+| @stacksjs/http | Node.js/JavaScript | Networking Http | 0.74.7 | 2026-09-03T17:05:06.789Z | [open](records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
+| @lightdash/cli | Node.js/JavaScript | Cli | 2.118.1 | 2026-09-03T17:04:35.408Z | [open](records/node-js-javascript-lightdash-cli-ba24b859.md) |
+| windows-numerics | Rust | Math Numeric Scientific | 0.100.0 | 2026-09-03T16:44:16.620261Z | [open](records/rust-windows-numerics-980e10e5.md) |
+| windows-future | Rust | Async Runtime | 0.100.0 | 2026-09-03T16:44:03.555455Z | [open](records/rust-windows-future-fdd0b885.md) |
+| windows-collections | Rust | Library | 0.100.0 | 2026-09-03T16:43:47.705066Z | [open](records/rust-windows-collections-9a60d989.md) |
+| windows-registry | Rust | Package Manager | 0.100.0 | 2026-09-03T16:43:10.320902Z | [open](records/rust-windows-registry-7b5d0396.md) |
+| windows-core | Rust | Library | 0.100.0 | 2026-09-03T16:42:56.290894Z | [open](records/rust-windows-core-c93b45dd.md) |
+| @ottocode/database | Node.js/JavaScript | Database Datastore | 0.1.411 | 2026-09-03T16:42:53.927Z | [open](records/node-js-javascript-ottocode-database-e1edbc5d.md) |
+| windows-threading | Rust | Concurrency Parallelism | 0.100.0 | 2026-09-03T16:41:59.294207Z | [open](records/rust-windows-threading-4820d7f5.md) |
+| windows-strings | Rust | Library | 0.100.0 | 2026-09-03T16:41:44.762627Z | [open](records/rust-windows-strings-cc5d0fe6.md) |
+| windows-result | Rust | Library | 0.100.0 | 2026-09-03T16:41:24.764970Z | [open](records/rust-windows-result-ea46bd4b.md) |
+| windows-link | Rust | Library | 0.100.0 | 2026-09-03T16:39:03.349369Z | [open](records/rust-windows-link-6ac6abfc.md) |
+| windows-interface | Rust | Library | 0.100.0 | 2026-09-03T16:38:48.257023Z | [open](records/rust-windows-interface-6e96e93d.md) |
+| windows-implement | Rust | Library | 0.100.0 | 2026-09-03T16:38:25.707732Z | [open](records/rust-windows-implement-2a58d270.md) |
+| freckle-otel | Haskell | Library | 0.1.0.0 | 2026-09-03T16:35:14Z | [open](records/haskell-freckle-otel-14553b97.md) |
+| @supabase/realtime-js | Node.js/JavaScript | Database Datastore | 2.115.0 | 2026-09-03T16:19:33.543Z | [open](records/node-js-javascript-supabase-realtime-js-a426c046.md) |
+| home_widget | Dart | Ide Editor Integration | 0.9.4 | 2026-09-03T16:07:26.126222Z | [open](records/dart-home-widget-2e919e24.md) |
+| @maxminddatabase/geolite2 | Node.js/JavaScript | Database Datastore | 1.0.297 | 2026-09-03T16:05:32.158Z | [open](records/node-js-javascript-maxminddatabase-geolite2-f679c34e.md) |
+| accessibility-checker | Node.js/JavaScript | Testing Framework | 4.0.33 | 2026-09-03T15:52:02.036Z | [open](records/node-js-javascript-accessibility-checker-d6b9f1ad.md) |
+| better_player | Dart | Ide Editor Integration | 1.4.0 | 2026-09-03T15:36:36.336895Z | [open](records/dart-better-player-084ef311.md) |
+| camera | Dart | Ide Editor Integration | 0.12.1 | 2026-09-03T15:28:41.235977Z | [open](records/dart-camera-01cb47c6.md) |
 | @capgo/cli | Node.js/JavaScript | Web Framework | 8.47.0 | 2026-09-03T15:02:51.134Z | [open](records/node-js-javascript-capgo-cli-8e98e39d.md) |
-| @ottocode/database | Node.js/JavaScript | Database Datastore | 0.1.410 | 2026-09-03T14:52:18.890Z | [open](records/node-js-javascript-ottocode-database-e1edbc5d.md) |
 | @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.112.17 | 2026-09-03T14:50:29.099Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
 | typescript-native-bridge | Node.js/TypeScript | Build System | 6.0.3-bridge.16.tsgo.7.0.2 | 2026-09-03T14:38:23.590Z | [open](records/node-js-typescript-typescript-native-bridge-239029dd.md) |
 | @sanity/cli | Node.js/JavaScript | Cli | 8.9.1 | 2026-09-03T14:32:53.771Z | [open](records/node-js-javascript-sanity-cli-257446f0.md) |
+| very_good_analysis | Dart | Linter | 11.0.0 | 2026-09-03T14:28:27.926923Z | [open](records/dart-very-good-analysis-8f0f073a.md) |
 | redis-glob | Haskell | Database Datastore | 0.1.0.12 | 2026-09-03T13:20:31Z | [open](records/haskell-redis-glob-c0be12d6.md) |
 | @socketsecurity/cli | Node.js/JavaScript | Security Sast | 1.1.167 | 2026-09-03T13:11:25.900Z | [open](records/node-js-javascript-socketsecurity-cli-52cf377d.md) |
 | @genesislcap/foundation-testing | Node.js/JavaScript | Testing Framework | 15.22.1 | 2026-09-03T13:06:32.008Z | [open](records/node-js-javascript-genesislcap-foundation-testing-9da0f708.md) |
-| accessibility-checker | Node.js/JavaScript | Testing Framework | 4.0.32 | 2026-09-03T13:01:42.815Z | [open](records/node-js-javascript-accessibility-checker-d6b9f1ad.md) |
 | @ui5/cli | Node.js/JavaScript | Cli | 4.0.64 | 2026-09-03T12:56:10.183Z | [open](records/node-js-javascript-ui5-cli-dfaea84c.md) |
 | keel | Haskell | Library | 0.1.1.0 | 2026-09-03T12:55:28Z | [open](records/haskell-keel-dffc1816.md) |
 | keel-onnx | Haskell | Library | 0.1.1.0 | 2026-09-03T12:55:27Z | [open](records/haskell-keel-onnx-f97de44e.md) |
@@ -108,9 +131,6 @@ Generated: `2026-09-03T16:25:13+00:00`
 | @pgpmjs/server-utils | Node.js/JavaScript | Web Framework | 3.27.3 | 2026-09-03T07:26:48.479Z | [open](records/node-js-javascript-pgpmjs-server-utils-fab8bc0e.md) |
 | @redocly/respect-core | Node.js/JavaScript | Testing Framework | 2.51.1 | 2026-09-03T07:14:55.546Z | [open](records/node-js-javascript-redocly-respect-core-7f77cb1b.md) |
 | @redocly/openapi-core | Node.js/JavaScript | Undefined Behavior Analyzer | 2.51.1 | 2026-09-03T07:13:35.314Z | [open](records/node-js-javascript-redocly-openapi-core-1c72c325.md) |
-| @stacksjs/testing | Node.js/JavaScript | Testing Framework | 0.74.4 | 2026-09-03T06:00:13.437Z | [open](records/node-js-javascript-stacksjs-testing-57469937.md) |
-| @stacksjs/database | Node.js/JavaScript | Database Datastore | 0.74.4 | 2026-09-03T05:58:30.663Z | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
-| @stacksjs/http | Node.js/JavaScript | Networking Http | 0.74.4 | 2026-09-03T05:47:37.711Z | [open](records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
 | @umijs/server | Node.js/JavaScript | Web Framework | 4.7.12 | 2026-09-03T05:45:26.495Z | [open](records/node-js-javascript-umijs-server-39ec9954.md) |
 | dartssh2 | Dart | Networking Http | 4.0.1 | 2026-09-03T05:40:24.097906Z | [open](records/dart-dartssh2-1f4cac37.md) |
 | purchases_ui_flutter | Dart | Filesystem Os | 10.11.0 | 2026-09-03T05:17:03.512412Z | [open](records/dart-purchases-ui-flutter-327852a3.md) |
@@ -120,10 +140,15 @@ Generated: `2026-09-03T16:25:13+00:00`
 | @angular/compiler-cli | Node.js/JavaScript | Compiler | 22.1.5 | 2026-09-03T02:37:35.090Z | [open](records/node-js-javascript-angular-compiler-cli-2d6ddb22.md) |
 | @angular/language-server | Node.js/JavaScript | Language Specification | 22.1.5 | 2026-09-03T02:36:13.023Z | [open](records/node-js-javascript-angular-language-server-3e834c73.md) |
 | hopenpgp-tools | Haskell | Library | 0.25.12 | 2026-09-03T02:29:55Z | [open](records/haskell-hopenpgp-tools-39a59dde.md) |
-| hOpenPGP | Haskell | Library | 3.6.4 | 2026-09-03T02:25:36Z | [open](records/haskell-hopenpgp-dbd93565.md) |
 | @cloudflare/workers-types | Node.js/TypeScript | Type Checker | 5.20260903.1 | 2026-09-03T01:19:16.512Z | [open](records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) |
 | lru | Rust | Library | 0.18.4 | 2026-09-03T00:26:06.507992Z | [open](records/rust-lru-d37fa8b1.md) |
 | grinder | Dart | Library | 0.10.1 | 2026-09-03T00:13:15.873220Z | [open](records/dart-grinder-82627f10.md) |
+| lucid | R | Formatter | 1.12 | 2026-09-03 16:20:08 UTC | [open](records/r-lucid-224c51a5.md) |
+| serad | R | Language Specification | 0.2.4 | 2026-09-03 16:20:02 UTC | [open](records/r-serad-0274bde8.md) |
+| crandep | R | Dependency Manager | 0.3.14 | 2026-09-03 16:00:02 UTC | [open](records/r-crandep-6374b415.md) |
+| Deriv | R | Library | 4.3.5 | 2026-09-03 15:40:15 UTC | [open](records/r-deriv-4aef35c3.md) |
+| allofus | R | Library | 1.3.0 | 2026-09-03 15:40:08 UTC | [open](records/r-allofus-51762bfa.md) |
+| sievetest | R | Testing Framework | 1.2.4 | 2026-09-03 15:40:02 UTC | [open](records/r-sievetest-73fa0e2d.md) |
 | proustr | R | Language Specification | 0.4.1 | 2026-09-03 15:00:02 UTC | [open](records/r-proustr-0b70277f.md) |
 | wideRhino | R | Ide Editor Integration | 1.3.0 | 2026-09-03 14:50:02 UTC | [open](records/r-widerhino-ac24ba23.md) |
 | RcppExamples | R | Library | 0.1.11 | 2026-09-03 14:40:08 UTC | [open](records/r-rcppexamples-636ba5fe.md) |
@@ -221,7 +246,6 @@ Generated: `2026-09-03T16:25:13+00:00`
 | material_ui | Dart | Ffi Bindings | 1.1.1 | 2026-09-02T16:22:09.095351Z | [open](records/dart-material-ui-3ba68105.md) |
 | go_router | Dart | Web Framework | 18.0.1 | 2026-09-02T16:21:54.510350Z | [open](records/dart-go-router-065a77a1.md) |
 | @napi-rs/cli | Node.js/JavaScript | Cli | 3.9.0 | 2026-09-02T16:11:20.951Z | [open](records/node-js-javascript-napi-rs-cli-3160c98d.md) |
-| @maxminddatabase/geolite2 | Node.js/JavaScript | Database Datastore | 1.0.296 | 2026-09-02T16:05:32.309Z | [open](records/node-js-javascript-maxminddatabase-geolite2-f679c34e.md) |
 | async-compression | Rust | Async Runtime | 0.4.44 | 2026-09-02T16:05:28.674815Z | [open](records/rust-async-compression-1943c86c.md) |
 | compression-codecs | Rust | Compression | 0.4.39 | 2026-09-02T16:05:24.693770Z | [open](records/rust-compression-codecs-b842972a.md) |
 | compression-core | Rust | Compression | 0.4.33 | 2026-09-02T16:05:19.162370Z | [open](records/rust-compression-core-ef3f311e.md) |
@@ -242,7 +266,6 @@ Generated: `2026-09-03T16:25:13+00:00`
 | toml | Rust | Language Specification | 1.1.5+spec-1.1.0 | 2026-09-02T13:52:08.284086Z | [open](records/rust-toml-ee71db50.md) |
 | actix-http | Rust | Networking Http | 3.13.5 | 2026-09-02T13:30:04.048236Z | [open](records/rust-actix-http-649d5d41.md) |
 | mio | Rust | Async Runtime | 1.2.3 | 2026-09-02T13:22:12.206563Z | [open](records/rust-mio-96bfd293.md) |
-| @supabase/realtime-js | Node.js/JavaScript | Database Datastore | 2.114.0 | 2026-09-02T13:18:36.764Z | [open](records/node-js-javascript-supabase-realtime-js-a426c046.md) |
 | i18next-cli | Node.js/JavaScript | Benchmarking | 1.72.4 | 2026-09-02T13:02:56.774Z | [open](records/node-js-javascript-i18next-cli-729ce142.md) |
 | hdf5 | Haskell | Library | 1.8.16 | 2026-09-02T12:54:01Z | [open](records/haskell-hdf5-eab0aa96.md) |
 | sydtest | Haskell | Testing Framework | 0.30.0.0 | 2026-09-02T12:51:59Z | [open](records/haskell-sydtest-4ee551d3.md) |
@@ -262,35 +285,12 @@ Generated: `2026-09-03T16:25:13+00:00`
 | built_value_generator | Dart | Build System | 8.13.0 | 2026-09-02T07:27:27.864981Z | [open](records/dart-built-value-generator-eced0577.md) |
 | built_value | Dart | Interpreter Runtime | 8.13.0 | 2026-09-02T07:26:58.797202Z | [open](records/dart-built-value-97fbb3d3.md) |
 | brotli-decompressor | Rust | Language Specification | 6.0.0 | 2026-09-02T06:41:13.571275Z | [open](records/rust-brotli-decompressor-dda445d2.md) |
-| storybook-addon-vis | Node.js/JavaScript | Testing Framework | 4.2.7 | 2026-09-02T06:16:59.980Z | [open](records/node-js-javascript-storybook-addon-vis-c1befa36.md) |
-| vitest-plugin-vis | Node.js/JavaScript | Testing Framework | 5.1.4 | 2026-09-02T06:16:55.395Z | [open](records/node-js-javascript-vitest-plugin-vis-a9cafa30.md) |
-| @paperclipai/mcp-server | Node.js/JavaScript | Web Framework | 2026.831.1 | 2026-09-02T04:45:33.153Z | [open](records/node-js-javascript-paperclipai-mcp-server-6008c169.md) |
-| http3 | Haskell | Networking Http | 0.1.4 | 2026-09-02T04:29:11Z | [open](records/haskell-http3-d8356eb7.md) |
-| @transcend-io/mcp-server-preferences | Node.js/JavaScript | Web Framework | 0.7.1 | 2026-09-02T03:52:07.796Z | [open](records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
-| @transcend-io/mcp-server-workflows | Node.js/JavaScript | Web Framework | 0.5.29 | 2026-09-02T03:50:35.894Z | [open](records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) |
-| @transcend-io/mcp-server-consent | Node.js/JavaScript | Web Framework | 0.9.5 | 2026-09-02T03:50:31.917Z | [open](records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) |
-| @transcend-io/mcp-server-assessment | Node.js/JavaScript | Web Framework | 0.5.29 | 2026-09-02T03:50:31.799Z | [open](records/node-js-javascript-transcend-io-mcp-server-assessment-fa3a076f.md) |
-| @transcend-io/mcp-server-discovery | Node.js/JavaScript | Web Framework | 0.5.29 | 2026-09-02T03:50:31.683Z | [open](records/node-js-javascript-transcend-io-mcp-server-discovery-87735bfc.md) |
-| @transcend-io/mcp-server-inventory | Node.js/JavaScript | Web Framework | 0.7.9 | 2026-09-02T03:50:31.438Z | [open](records/node-js-javascript-transcend-io-mcp-server-inventory-9bc583b1.md) |
-| @transcend-io/mcp-server-dsr | Node.js/JavaScript | Web Framework | 0.8.9 | 2026-09-02T03:50:31.332Z | [open](records/node-js-javascript-transcend-io-mcp-server-dsr-76f6cb8b.md) |
-| @transcend-io/mcp-server-admin | Node.js/JavaScript | Web Framework | 0.6.9 | 2026-09-02T03:50:31.038Z | [open](records/node-js-javascript-transcend-io-mcp-server-admin-c732016b.md) |
-| @unocss/cli | Node.js/JavaScript | Cli | 66.9.2 | 2026-09-02T03:03:06.544Z | [open](records/node-js-javascript-unocss-cli-c357f3f3.md) |
-| viem | Node.js/TypeScript | Type Checker | 2.56.3 | 2026-09-02T02:28:20.378Z | [open](records/node-js-typescript-viem-f5262c89.md) |
-| @constructive-io/cli | Node.js/JavaScript | Cli | 8.18.8 | 2026-09-02T02:26:49.111Z | [open](records/node-js-javascript-constructive-io-cli-b6550957.md) |
-| @clipboard-health/testing-core | Node.js/TypeScript | Type Checker | 2.12.3 | 2026-09-02T02:21:01.349Z | [open](records/node-js-typescript-clipboard-health-testing-core-646613ba.md) |
-| openai | Node.js/TypeScript | Type Checker | 7.9.0 | 2026-09-02T01:39:46.214Z | [open](records/node-js-typescript-openai-c47e8332.md) |
-| rust_decimal | Rust | Visualization Gui | 1.43.0 | 2026-09-02T00:43:11.457502Z | [open](records/rust-rust-decimal-2395f36b.md) |
-| @ez4/database | Node.js/JavaScript | Build System | 0.52.0 | 2026-09-02T00:39:40.253Z | [open](records/node-js-javascript-ez4-database-a64d6baa.md) |
-| @getpaseo/server | Node.js/JavaScript | Web Framework | 0.7.2 | 2026-09-02T00:10:54.602Z | [open](records/node-js-javascript-getpaseo-server-fdad1689.md) |
-| @shopify/cli | Node.js/JavaScript | Build System | 4.7.1 | 2026-09-02T00:09:42.906Z | [open](records/node-js-javascript-shopify-cli-44d77c3d.md) |
-| elixir | R | Language Specification | 0.1.2 | 2026-09-02 23:30:07 UTC | [open](records/r-elixir-e9ae1d00.md) |
-| orbweaver | R | Parser Lexer Ast | 0.18.3 | 2026-09-02 23:30:02 UTC | [open](records/r-orbweaver-0f2a3778.md) |
 
 ## Unknown Reasons
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 6869 |
+| gh_search_reports_activity_not_release_version | 7256 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
@@ -298,20 +298,18 @@ Generated: `2026-09-03T16:25:13+00:00`
 | github_search_does_not_include_release_date | 447 |
 | go_module_index_event_is_preview_or_pseudoversion | 414 |
 | curated_language_route_requires_source_specific_release_lookup | 400 |
-| github_latest_release_missing | 317 |
 | gitea_search_api_reports_activity_not_release_version | 270 |
 | awesome_list_does_not_include_release_date | 237 |
 | gitlab_projects_api_reports_activity_not_release_version | 196 |
-| not_a_go_module_path | 174 |
 | not_a_cocoapods_name | 107 |
+| github_latest_release_missing | 105 |
 | curated_database_record_requires_source_specific_release_lookup | 87 |
 | official_workplace_route_requires_source_specific_release_lookup | 59 |
 | not_a_maven_coordinate | 32 |
-| hackage_top_downloads_page_does_not_include_release_date | 8 |
+| hackage_top_downloads_page_does_not_include_release_date | 13 |
 | release_date_missing | 5 |
 | cocoapods_metadata_missing | 5 |
 | source_returned_no_release | 2 |
-| go_proxy_latest_missing | 1 |
 
 ## Preview And Nightly Signals
 

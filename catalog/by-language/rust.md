@@ -13,17 +13,17 @@ Records: `2183`
 [Community Reference (97)](../by-category/community-reference.md) · [Compiler (174)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (46)](../by-category/compression.md)
 [Concurrency Parallelism (78)](../by-category/concurrency-parallelism.md) · [Configuration (113)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (162)](../by-category/cryptography.md) · [Data Science (35)](../by-category/data-science.md) · [Database Datastore (832)](../by-category/database-datastore.md) · [Datetime (180)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (92)](../by-category/dependency-manager.md) · [Documentation (96)](../by-category/documentation.md)
-[Embedded Hardware (54)](../by-category/embedded-hardware.md) · [Ffi Bindings (402)](../by-category/ffi-bindings.md) · [Filesystem Os (1371)](../by-category/filesystem-os.md) · [Formatter (598)](../by-category/formatter.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (93)](../by-category/dependency-manager.md) · [Documentation (96)](../by-category/documentation.md)
+[Embedded Hardware (54)](../by-category/embedded-hardware.md) · [Ffi Bindings (402)](../by-category/ffi-bindings.md) · [Filesystem Os (1371)](../by-category/filesystem-os.md) · [Formatter (599)](../by-category/formatter.md)
 [Framework (54)](../by-category/framework.md) · [Fuzzer (53)](../by-category/fuzzer.md) · [Game Engine Game Dev (169)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1304)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (356)](../by-category/image-audio-dsp.md) · [Interop Bindings (57)](../by-category/interop-bindings.md) · [Interpreter Runtime (250)](../by-category/interpreter-runtime.md) · [Jit Vm (60)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1373)](../by-category/language-specification.md) · [Library (5232)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (481)](../by-category/logging-observability.md) · [Machine Learning (643)](../by-category/machine-learning.md)
-[Math Numeric Scientific (83)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (36)](../by-category/message-broker.md) · [Networking Http (963)](../by-category/networking-http.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1374)](../by-category/language-specification.md) · [Library (5235)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (482)](../by-category/logging-observability.md) · [Machine Learning (643)](../by-category/machine-learning.md)
+[Math Numeric Scientific (83)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (36)](../by-category/message-broker.md) · [Networking Http (965)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (411)](../by-category/package-manager.md) · [Parser Lexer Ast (998)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (278)](../by-category/precommit-ci-quality.md)
 [Profiler (79)](../by-category/profiler.md) · [Project Scaffolding (130)](../by-category/project-scaffolding.md) · [Registry Repository (108)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
 [Security Sast (333)](../by-category/security-sast.md) · [Serialization (378)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (490)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (518)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (56)](../by-category/tutorial-book-styleguide.md) · [Type Checker (297)](../by-category/type-checker.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (519)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (56)](../by-category/tutorial-book-styleguide.md) · [Type Checker (297)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1497)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](../by-category/utility-library.md) · [Visualization Gui (466)](../by-category/visualization-gui.md) · [Web Framework (448)](../by-category/web-framework.md)
 
 ## Categories
@@ -157,7 +157,7 @@ Records: `2183`
 | [tokio-util](../records/rust-tokio-util-97bbfd2f.md) | 0.7.19 | 2026-07-21T12:10:46.915710Z | registry-derived |
 | [tower-service](../records/rust-tower-service-c5eaff7c.md) | 0.3.3 | 2024-08-13T16:23:33.548845Z | registry-derived |
 | [trust-dns-resolver](../records/rust-trust-dns-resolver-aa39e77b.md) | 0.23.2 | 2023-10-23T16:03:53.732289Z | registry-derived |
-| [windows-future](../records/rust-windows-future-fdd0b885.md) | 0.3.2 | 2025-10-06T19:15:33.355015Z | registry-derived |
+| [windows-future](../records/rust-windows-future-fdd0b885.md) | 0.100.0 | 2026-09-03T16:44:03.555455Z | registry-derived |
 | [zookeeper-client](../records/rust-zookeeper-client-80856d5b.md) | 0.11.2 | 2026-07-18T14:29:27.058816Z | crates_io |
 
 ### Benchmarking
@@ -381,7 +381,7 @@ Records: `2183`
 | [threadpool](../records/rust-threadpool-d59b75df.md) | 1.8.1 | 2020-05-11T15:44:07.541079Z | registry-derived |
 | [tokio-current-thread](../records/rust-tokio-current-thread-6c796602.md) | 0.1.7 | 2020-02-05T00:32:49.993751Z | crates_io |
 | [tokio-threadpool](../records/rust-tokio-threadpool-aec57296.md) | 0.1.18 | 2020-02-04T23:50:31.496978Z | crates_io |
-| [windows-threading](../records/rust-windows-threading-4820d7f5.md) | 0.2.1 | 2025-10-06T17:35:22.550255Z | registry-derived |
+| [windows-threading](../records/rust-windows-threading-4820d7f5.md) | 0.100.0 | 2026-09-03T16:41:59.294207Z | registry-derived |
 
 ### Configuration
 
@@ -1726,13 +1726,13 @@ Records: `2183`
 | [webpki](../records/rust-webpki-91a4b3c2.md) | 0.22.4 | 2023-10-09T00:31:09.299041Z | registry-derived |
 | [webpki-roots](../records/rust-webpki-roots-4aa40f15.md) | 1.0.9 | 2026-07-18T09:30:44.802479Z | registry-derived |
 | [windows](../records/rust-windows-bc41072f.md) | 0.62.2 | 2025-10-06T19:19:49.704461Z | registry-derived |
-| [windows-collections](../records/rust-windows-collections-9a60d989.md) | 0.3.2 | 2025-10-06T19:16:09.553894Z | registry-derived |
-| [windows-core](../records/rust-windows-core-c93b45dd.md) | 0.62.2 | 2025-10-06T19:15:14.207850Z | registry-derived |
-| [windows-implement](../records/rust-windows-implement-2a58d270.md) | 0.60.2 | 2025-10-06T19:13:31.467507Z | registry-derived |
-| [windows-interface](../records/rust-windows-interface-6e96e93d.md) | 0.59.3 | 2025-10-06T19:14:18.053188Z | registry-derived |
-| [windows-link](../records/rust-windows-link-6ac6abfc.md) | 0.2.1 | 2025-10-06T17:35:08.351469Z | registry-derived |
-| [windows-result](../records/rust-windows-result-ea46bd4b.md) | 0.4.1 | 2025-10-06T19:14:39.441465Z | registry-derived |
-| [windows-strings](../records/rust-windows-strings-cc5d0fe6.md) | 0.5.1 | 2025-10-06T19:15:01.410695Z | registry-derived |
+| [windows-collections](../records/rust-windows-collections-9a60d989.md) | 0.100.0 | 2026-09-03T16:43:47.705066Z | registry-derived |
+| [windows-core](../records/rust-windows-core-c93b45dd.md) | 0.100.0 | 2026-09-03T16:42:56.290894Z | registry-derived |
+| [windows-implement](../records/rust-windows-implement-2a58d270.md) | 0.100.0 | 2026-09-03T16:38:25.707732Z | registry-derived |
+| [windows-interface](../records/rust-windows-interface-6e96e93d.md) | 0.100.0 | 2026-09-03T16:38:48.257023Z | registry-derived |
+| [windows-link](../records/rust-windows-link-6ac6abfc.md) | 0.100.0 | 2026-09-03T16:39:03.349369Z | registry-derived |
+| [windows-result](../records/rust-windows-result-ea46bd4b.md) | 0.100.0 | 2026-09-03T16:41:24.764970Z | registry-derived |
+| [windows-strings](../records/rust-windows-strings-cc5d0fe6.md) | 0.100.0 | 2026-09-03T16:41:44.762627Z | registry-derived |
 | [windows-sys](../records/rust-windows-sys-134db23e.md) | 0.61.2 | 2025-10-06T19:18:30.163595Z | registry-derived |
 | [windows-targets](../records/rust-windows-targets-6c2d5f71.md) | 0.53.5 | 2025-10-06T19:18:45.726277Z | registry-derived |
 | [windows_aarch64_msvc](../records/rust-windows-aarch64-msvc-bdbeea28.md) | 0.53.1 | 2025-10-06T17:33:33.380608Z | registry-derived |
@@ -1917,7 +1917,7 @@ Records: `2183`
 | [num-traits](../records/rust-num-traits-26d9c7d0.md) | 0.2.19 | 2024-05-03T21:27:39.856244Z | registry-derived |
 | [number_prefix](../records/rust-number-prefix-4bf10ab3.md) | 0.4.0 | 2020-04-07T01:48:04.585296Z | registry-derived |
 | [strict-num](../records/rust-strict-num-6614f5f5.md) | 0.2.0 | 2023-12-23T08:50:07.257578Z | crates_io |
-| [windows-numerics](../records/rust-windows-numerics-980e10e5.md) | 0.3.1 | 2025-10-06T19:17:19.909774Z | registry-derived |
+| [windows-numerics](../records/rust-windows-numerics-980e10e5.md) | 0.100.0 | 2026-09-03T16:44:16.620261Z | registry-derived |
 
 ### Memory Analyzer
 
@@ -2044,7 +2044,7 @@ Records: `2183`
 | [semver](../records/rust-semver-54299ac5.md) | 1.0.28 | 2026-04-04T00:25:14.379075Z | registry-derived |
 | [signal-hook-registry](../records/rust-signal-hook-registry-b59f425b.md) | 1.4.8 | 2025-12-25T17:35:43.742246Z | registry-derived |
 | [system-deps](../records/rust-system-deps-af5cc902.md) | 9.0.0 | 2026-08-17T08:10:16.560874Z | registry-derived |
-| [windows-registry](../records/rust-windows-registry-7b5d0396.md) | 0.6.1 | 2025-10-06T19:17:38.227483Z | registry-derived |
+| [windows-registry](../records/rust-windows-registry-7b5d0396.md) | 0.100.0 | 2026-09-03T16:43:10.320902Z | registry-derived |
 | [winreg](../records/rust-winreg-ecb4eeab.md) | 0.56.0 | 2026-03-14T22:02:40.054127Z | registry-derived |
 
 ### Parser Lexer Ast

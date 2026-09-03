@@ -1,6 +1,6 @@
 # Library
 
-Records: `5232`
+Records: `5235`
 
 ## Navigation
 
@@ -13,17 +13,17 @@ Records: `5232`
 [Community Reference (97)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
 [Concurrency Parallelism (78)](concurrency-parallelism.md) · [Configuration (113)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (832)](database-datastore.md) · [Datetime (180)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (92)](dependency-manager.md) · [Documentation (96)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1371)](filesystem-os.md) · [Formatter (598)](formatter.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (96)](documentation.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1371)](filesystem-os.md) · [Formatter (599)](formatter.md)
 [Framework (54)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (169)](game-engine-game-dev.md) · [Ide Editor Integration (1304)](ide-editor-integration.md)
 [Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (250)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1373)](language-specification.md) · **[Library (5232)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (481)](logging-observability.md) · [Machine Learning (643)](machine-learning.md)
-[Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (963)](networking-http.md)
+[Language Server (27)](language-server.md) · [Language Specification (1374)](language-specification.md) · **[Library (5235)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (482)](logging-observability.md) · [Machine Learning (643)](machine-learning.md)
+[Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (965)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (411)](package-manager.md) · [Parser Lexer Ast (998)](parser-lexer-ast.md) · [Precommit Ci Quality (278)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (333)](security-sast.md) · [Serialization (378)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (490)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (518)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (519)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
 [Undefined Behavior Analyzer (1497)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (466)](visualization-gui.md) · [Web Framework (448)](web-framework.md)
 
 ## C99
@@ -1933,13 +1933,13 @@ Records: `5232`
 | webpki | 0.22.4 | 2023-10-09T00:31:09.299041Z | [open](../records/rust-webpki-91a4b3c2.md) |
 | webpki-roots | 1.0.9 | 2026-07-18T09:30:44.802479Z | [open](../records/rust-webpki-roots-4aa40f15.md) |
 | windows | 0.62.2 | 2025-10-06T19:19:49.704461Z | [open](../records/rust-windows-bc41072f.md) |
-| windows-collections | 0.3.2 | 2025-10-06T19:16:09.553894Z | [open](../records/rust-windows-collections-9a60d989.md) |
-| windows-core | 0.62.2 | 2025-10-06T19:15:14.207850Z | [open](../records/rust-windows-core-c93b45dd.md) |
-| windows-implement | 0.60.2 | 2025-10-06T19:13:31.467507Z | [open](../records/rust-windows-implement-2a58d270.md) |
-| windows-interface | 0.59.3 | 2025-10-06T19:14:18.053188Z | [open](../records/rust-windows-interface-6e96e93d.md) |
-| windows-link | 0.2.1 | 2025-10-06T17:35:08.351469Z | [open](../records/rust-windows-link-6ac6abfc.md) |
-| windows-result | 0.4.1 | 2025-10-06T19:14:39.441465Z | [open](../records/rust-windows-result-ea46bd4b.md) |
-| windows-strings | 0.5.1 | 2025-10-06T19:15:01.410695Z | [open](../records/rust-windows-strings-cc5d0fe6.md) |
+| windows-collections | 0.100.0 | 2026-09-03T16:43:47.705066Z | [open](../records/rust-windows-collections-9a60d989.md) |
+| windows-core | 0.100.0 | 2026-09-03T16:42:56.290894Z | [open](../records/rust-windows-core-c93b45dd.md) |
+| windows-implement | 0.100.0 | 2026-09-03T16:38:25.707732Z | [open](../records/rust-windows-implement-2a58d270.md) |
+| windows-interface | 0.100.0 | 2026-09-03T16:38:48.257023Z | [open](../records/rust-windows-interface-6e96e93d.md) |
+| windows-link | 0.100.0 | 2026-09-03T16:39:03.349369Z | [open](../records/rust-windows-link-6ac6abfc.md) |
+| windows-result | 0.100.0 | 2026-09-03T16:41:24.764970Z | [open](../records/rust-windows-result-ea46bd4b.md) |
+| windows-strings | 0.100.0 | 2026-09-03T16:41:44.762627Z | [open](../records/rust-windows-strings-cc5d0fe6.md) |
 | windows-sys | 0.61.2 | 2025-10-06T19:18:30.163595Z | [open](../records/rust-windows-sys-134db23e.md) |
 | windows-targets | 0.53.5 | 2025-10-06T19:18:45.726277Z | [open](../records/rust-windows-targets-6c2d5f71.md) |
 | windows_aarch64_msvc | 0.53.1 | 2025-10-06T17:33:33.380608Z | [open](../records/rust-windows-aarch64-msvc-bdbeea28.md) |
@@ -2470,6 +2470,7 @@ Records: `5232`
 | AdsorpR | 0.1.1 | 2026-09-02 11:10:14 UTC | [open](../records/r-adsorpr-d73e1be6.md) |
 | agridatasets | 0.1.1 | 2026-08-20 23:02:10 UTC | [open](../records/r-agridatasets-e3f10978.md) |
 | ALDEx3 | 1.3.1 | 2026-08-26 15:40:02 UTC | [open](../records/r-aldex3-abb0334f.md) |
+| allofus | 1.3.0 | 2026-09-03 15:40:08 UTC | [open](../records/r-allofus-51762bfa.md) |
 | ALSBinary | 1.0.0 | 2026-08-08 11:40:02 UTC | [open](../records/r-alsbinary-82bb22cc.md) |
 | ammiBayes | 2.2-0 | 2026-08-24 16:50:12 UTC | [open](../records/r-ammibayes-7947d986.md) |
 | Anthropometry | 1.22 | 2026-08-21 21:51:03 UTC | [open](../records/r-anthropometry-2ffd2b82.md) |
@@ -2585,6 +2586,7 @@ Records: `5232`
 | DendroFlux | 1.0.3 | 2026-08-05 06:50:02 UTC | [open](../records/r-dendroflux-92fd88e9.md) |
 | DEoptimR | 1.2-1 | 2026-08-20 10:02:21 UTC | [open](../records/r-deoptimr-fe7549d5.md) |
 | depmixS4 | 1.5-4 | 2026-08-24 13:40:19 UTC | [open](../records/r-depmixs4-caaa5fe0.md) |
+| Deriv | 4.3.5 | 2026-09-03 15:40:15 UTC | [open](../records/r-deriv-4aef35c3.md) |
 | designit | 0.5.1 | 2026-09-03 13:40:02 UTC | [open](../records/r-designit-0d5460d9.md) |
 | detect | 0.5-2 | 2026-09-01 07:30:02 UTC | [open](../records/r-detect-8412dfa1.md) |
 | dgraphs | 0.2.0 | 2026-08-31 23:10:10 UTC | [open](../records/r-dgraphs-81082d45.md) |
@@ -3279,6 +3281,7 @@ Records: `5232`
 | fourmolu | 0.20.1.0 | 2026-08-07T04:49:30Z | [open](../records/haskell-fourmolu-ee33ffe1.md) |
 | Frames | 0.7.4.2 | 2023-10-22T22:22:46Z | [open](../records/haskell-frames-86177212.md) |
 | freckle-app | 1.26.2.0 | 2026-08-27T14:18:22Z | [open](../records/haskell-freckle-app-ddd93533.md) |
+| freckle-otel | 0.1.0.0 | 2026-09-03T16:35:14Z | [open](../records/haskell-freckle-otel-14553b97.md) |
 | free | 5.2 | 2023-03-12T18:42:24Z | [open](../records/haskell-free-0cbcaa3b.md) |
 | free-functors | 1.3 | 2026-01-05T17:16:39Z | [open](../records/haskell-free-functors-dd1ee11a.md) |
 | fsnotify | 0.4.4.0 | 2025-08-25T23:37:12Z | [open](../records/haskell-fsnotify-d3fb0d4c.md) |
@@ -3420,7 +3423,7 @@ Records: `5232`
 | holeyexp | 0.3.0.0 | 2026-09-02T19:43:01Z | [open](../records/haskell-holeyexp-db5dc519.md) |
 | hoogle | 5.0.19.0 | 2026-01-19T20:38:58Z | [open](../records/haskell-hoogle-972b6dba.md) |
 | hoopl | 3.10.2.2 | 2017-10-29T03:38:52Z | [open](../records/haskell-hoopl-0b4ca46a.md) |
-| hOpenPGP | 3.6.4 | 2026-09-03T02:25:36Z | [open](../records/haskell-hopenpgp-dbd93565.md) |
+| hOpenPGP | 3.6.5 | 2026-09-03T17:12:47Z | [open](../records/haskell-hopenpgp-dbd93565.md) |
 | hopenpgp-tools | 0.25.12 | 2026-09-03T02:29:55Z | [open](../records/haskell-hopenpgp-tools-39a59dde.md) |
 | hourglass | 0.2.12 | 2018-08-24T19:46:48Z | [open](../records/haskell-hourglass-ed0a22e4.md) |
 | hpack | 0.39.6 | 2026-06-06T21:52:03Z | [open](../records/haskell-hpack-d2b641d5.md) |
@@ -3892,9 +3895,9 @@ Records: `5232`
 | yi | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yi-3b78b64a.md) |
 | Z-Data | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-data-ad2a6ebb.md) |
 | Z-IO | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-io-e37841a7.md) |
-| zeolite-lang | 0.24.1.0 | 2024-01-08T01:25:04Z | [open](../records/haskell-zeolite-lang-121149cb.md) |
+| zeolite-lang | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeolite-lang-121149cb.md) |
 | zeromq4-haskell | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
-| zlib | 0.7.1.1 | 2025-09-06T12:21:07Z | [open](../records/haskell-zlib-2a0db053.md) |
+| zlib | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zlib-2a0db053.md) |
 | zoom-cache | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoom-cache-f1ef611e.md) |
 | zoovisitor | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoovisitor-25533034.md) |
 
@@ -4094,7 +4097,7 @@ Records: `5232`
 | codeberg.org/go-hep/hep.git | v0.27.0 | 2026-08-30T10:55:18.161122Z | [open](../records/go-codeberg-org-go-hep-hep-git-29878e71.md) |
 | codeberg.org/rimu/pyfedi | v1.6.9 | 2026-08-30T16:29:43.672078Z | [open](../records/go-codeberg-org-rimu-pyfedi-53519dff.md) |
 | CycloneDX/cyclonedx-gomod | partial | 2026-09-03T09:52:41Z | [open](../records/go-cyclonedx-cyclonedx-gomod-24572c1d.md) |
-| darius-khll/golang-developer-roadmap | unknown | not_a_go_module_path | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
+| darius-khll/golang-developer-roadmap | partial | 2023-02-13T08:08:20Z | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
 | gbrlsnchs/jwt | partial | 2026-02-20T19:55:17Z | [open](../records/go-gbrlsnchs-jwt-9cb26411.md) |
 | gethugothemes/hugo-modules | partial | 2026-07-01T05:48:56Z | [open](../records/go-gethugothemes-hugo-modules-1f48ce7f.md) |
 | git.scuroneko.dev/ScuroNeko/Laniakea | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-git-scuroneko-dev-scuroneko-laniakea-6c4ff9e7.md) |
@@ -4118,8 +4121,8 @@ Records: `5232`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | unknown | not_a_go_module_path | [open](../records/go-infisical-infisical-a6ff8f22.md) |
-| mustafaturan/bus | unknown | not_a_go_module_path | [open](../records/go-mustafaturan-bus-d868b092.md) |
+| Infisical/infisical | partial | 2026-09-03T17:09:43Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
 | Narasimha1997/ratelimiter | partial | 2022-10-31T12:07:17Z | [open](../records/go-narasimha1997-ratelimiter-5630e795.md) |
@@ -4132,7 +4135,7 @@ Records: `5232`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | unknown | not_a_go_module_path | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-03T17:15:08Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 

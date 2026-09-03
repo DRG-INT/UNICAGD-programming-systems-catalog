@@ -1,6 +1,6 @@
 # Networking Http
 
-Records: `963`
+Records: `965`
 
 ## Navigation
 
@@ -13,17 +13,17 @@ Records: `963`
 [Community Reference (97)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
 [Concurrency Parallelism (78)](concurrency-parallelism.md) · [Configuration (113)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (832)](database-datastore.md) · [Datetime (180)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (92)](dependency-manager.md) · [Documentation (96)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1371)](filesystem-os.md) · [Formatter (598)](formatter.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (96)](documentation.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1371)](filesystem-os.md) · [Formatter (599)](formatter.md)
 [Framework (54)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (169)](game-engine-game-dev.md) · [Ide Editor Integration (1304)](ide-editor-integration.md)
 [Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (250)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1373)](language-specification.md) · [Library (5232)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (481)](logging-observability.md) · [Machine Learning (643)](machine-learning.md)
-[Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · **[Networking Http (963)](networking-http.md)**
+[Language Server (27)](language-server.md) · [Language Specification (1374)](language-specification.md) · [Library (5235)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (482)](logging-observability.md) · [Machine Learning (643)](machine-learning.md)
+[Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · **[Networking Http (965)](networking-http.md)**
 [Other (14)](other.md) · [Package Manager (411)](package-manager.md) · [Parser Lexer Ast (998)](parser-lexer-ast.md) · [Precommit Ci Quality (278)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (333)](security-sast.md) · [Serialization (378)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (490)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (518)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (519)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
 [Undefined Behavior Analyzer (1497)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (466)](visualization-gui.md) · [Web Framework (448)](web-framework.md)
 
 ## C99
@@ -331,7 +331,7 @@ Records: `963`
 | @replit/database | 3.0.1 | 2024-04-15T20:42:25.524Z | [open](../records/node-js-javascript-replit-database-0043e0f4.md) |
 | @sap-cloud-sdk/http-client | 4.9.1 | 2026-08-25T09:53:33.332Z | [open](../records/node-js-javascript-sap-cloud-sdk-http-client-39685909.md) |
 | @solana/rpc-transport-http | 8.2.0 | 2026-08-29T12:47:35.422Z | [open](../records/node-js-javascript-solana-rpc-transport-http-9bf28267.md) |
-| @stacksjs/http | 0.74.4 | 2026-09-03T05:47:37.711Z | [open](../records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
+| @stacksjs/http | 0.74.7 | 2026-09-03T17:05:06.789Z | [open](../records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
 | @szmarczak/http-timer | 5.0.1 | 2021-08-20T23:26:11.251Z | [open](../records/node-js-javascript-szmarczak-http-timer-6c6c6722.md) |
 | @taquito/http-utils | 25.0.0 | 2026-06-29T16:13:55.600Z | [open](../records/node-js-javascript-taquito-http-utils-f75d23ea.md) |
 | @tmcp/transport-http | 0.9.0 | 2026-08-14T12:55:32.461Z | [open](../records/node-js-javascript-tmcp-transport-http-2f7c157d.md) |
@@ -740,6 +740,7 @@ Records: `963`
 | flutter_map | 8.3.2 | 2026-08-27T21:34:57.558084Z | [open](../records/dart-flutter-map-642872b5.md) |
 | fresh_dio | 0.6.0 | 2026-02-26T19:23:06.962009Z | [open](../records/dart-fresh-dio-4940ddb5.md) |
 | google_fonts | 8.2.1 | 2026-07-31T23:41:06.826038Z | [open](../records/dart-google-fonts-e3329e90.md) |
+| googleapis | 17.0.0 | 2026-08-24T23:12:57.747027Z | [open](../records/dart-googleapis-bc8afb7b.md) |
 | http | 1.6.0 | 2025-11-10T18:27:56.434747Z | [open](../records/dart-http-91b64b35.md) |
 | http_multi_server | 3.2.2 | 2024-12-17T12:50:20.600442Z | [open](../records/dart-http-multi-server-1de3951e.md) |
 | mqtt_client | 10.11.11 | 2026-04-18T13:57:25.376757Z | [open](../records/dart-mqtt-client-1a5d947d.md) |
@@ -750,6 +751,7 @@ Records: `963`
 | openai_dart | 8.1.0 | 2026-08-27T15:49:19.235624Z | [open](../records/dart-openai-dart-c91b874d.md) |
 | openid_client | 0.4.10+1 | 2026-04-28T09:33:59.360957Z | [open](../records/dart-openid-client-a8195f4d.md) |
 | pool | 1.5.3 | 2026-08-28T20:42:37.375742Z | [open](../records/dart-pool-a43ca39e.md) |
+| realtime_client | 2.13.0 | 2026-08-05T08:47:31.985422Z | [open](../records/dart-realtime-client-d4c1a6c8.md) |
 | shelf_proxy | 1.0.5 | 2026-04-23T18:46:50.188508Z | [open](../records/dart-shelf-proxy-f273567e.md) |
 | shelf_web_socket | 3.0.0 | 2025-01-30T17:50:10.363347Z | [open](../records/dart-shelf-web-socket-c6ffc916.md) |
 | talker_dio_logger | 5.1.20 | 2026-07-28T20:30:31.604414Z | [open](../records/dart-talker-dio-logger-98ace870.md) |
@@ -763,13 +765,13 @@ Records: `963`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ChimeraCoder/anaconda | unknown | not_a_go_module_path | [open](../records/go-chimeracoder-anaconda-6a61e747.md) |
-| g3n/engine | unknown | not_a_go_module_path | [open](../records/go-g3n-engine-0b367039.md) |
-| go-resty/resty | unknown | not_a_go_module_path | [open](../records/go-go-resty-resty-9cfada1b.md) |
-| redis/go-redis | unknown | not_a_go_module_path | [open](../records/go-redis-go-redis-fe715a04.md) |
-| spicetify/cli | unknown | not_a_go_module_path | [open](../records/go-spicetify-cli-b8e26c00.md) |
-| teler-sh/teler-waf | unknown | not_a_go_module_path | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
-| xiaolincoder/CS-Base | unknown | not_a_go_module_path | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
+| ChimeraCoder/anaconda | partial | 2024-01-28T15:07:20Z | [open](../records/go-chimeracoder-anaconda-6a61e747.md) |
+| g3n/engine | partial | 2026-08-01T16:23:05Z | [open](../records/go-g3n-engine-0b367039.md) |
+| go-resty/resty | partial | 2026-07-26T00:45:12Z | [open](../records/go-go-resty-resty-9cfada1b.md) |
+| redis/go-redis | partial | 2026-09-03T16:07:10Z | [open](../records/go-redis-go-redis-fe715a04.md) |
+| spicetify/cli | partial | 2026-09-02T22:07:06Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
+| teler-sh/teler-waf | partial | 2025-03-18T01:40:27Z | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
+| xiaolincoder/CS-Base | partial | 2024-11-27T06:32:13Z | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
 | yincongcyincong/mcp-client-go | partial | 2025-09-09T09:54:40Z | [open](../records/go-yincongcyincong-mcp-client-go-551e8f66.md) |
 
 ## Basilisk
@@ -1208,7 +1210,7 @@ Records: `963`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| dalibo/pg_migrate | partial | 2026-09-01T06:40:02.138Z | [open](../records/repository-workplaces-dalibo-pg-migrate-f66a654f.md) |
+| dalibo/pg_migrate | partial | 2026-09-03T14:47:02.206Z | [open](../records/repository-workplaces-dalibo-pg-migrate-f66a654f.md) |
 | Gitea: AaronFiore/btcpayserver-docker | partial | 2026-08-27T21:27:13Z | [open](../records/repository-workplaces-gitea-aaronfiore-btcpayserver-docker-65536044.md) |
 | Gitea: ks2515/codecrafters-http-server-go | partial | 2024-06-28T05:27:11Z | [open](../records/repository-workplaces-gitea-ks2515-codecrafters-http-server-go-a645fafb.md) |
 | Gitea: Opsdff/RiviLib | partial | 2026-07-10T13:49:56Z | [open](../records/repository-workplaces-gitea-opsdff-rivilib-b63af9b3.md) |
