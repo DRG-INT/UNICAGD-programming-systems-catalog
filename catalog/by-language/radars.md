@@ -15,15 +15,15 @@ Records: `150`
 [Cryptography (162)](../by-category/cryptography.md) · [Data Science (35)](../by-category/data-science.md) · [Database Datastore (831)](../by-category/database-datastore.md) · [Datetime (180)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (91)](../by-category/dependency-manager.md) · [Documentation (96)](../by-category/documentation.md)
 [Embedded Hardware (54)](../by-category/embedded-hardware.md) · [Ffi Bindings (402)](../by-category/ffi-bindings.md) · [Filesystem Os (1343)](../by-category/filesystem-os.md) · [Formatter (591)](../by-category/formatter.md)
-[Framework (53)](../by-category/framework.md) · [Fuzzer (53)](../by-category/fuzzer.md) · [Game Engine Game Dev (168)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1289)](../by-category/ide-editor-integration.md)
+[Framework (53)](../by-category/framework.md) · [Fuzzer (53)](../by-category/fuzzer.md) · [Game Engine Game Dev (168)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1291)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (356)](../by-category/image-audio-dsp.md) · [Interop Bindings (57)](../by-category/interop-bindings.md) · [Interpreter Runtime (247)](../by-category/interpreter-runtime.md) · [Jit Vm (59)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1273)](../by-category/language-specification.md) · [Library (5154)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (477)](../by-category/logging-observability.md) · [Machine Learning (636)](../by-category/machine-learning.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1274)](../by-category/language-specification.md) · [Library (5157)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (477)](../by-category/logging-observability.md) · [Machine Learning (637)](../by-category/machine-learning.md)
 [Math Numeric Scientific (83)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (36)](../by-category/message-broker.md) · [Networking Http (957)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (409)](../by-category/package-manager.md) · [Parser Lexer Ast (994)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (275)](../by-category/precommit-ci-quality.md)
 [Profiler (79)](../by-category/profiler.md) · [Project Scaffolding (128)](../by-category/project-scaffolding.md) · [Registry Repository (108)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
 [Security Sast (332)](../by-category/security-sast.md) · [Serialization (377)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (489)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (514)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (54)](../by-category/tutorial-book-styleguide.md) · [Type Checker (297)](../by-category/type-checker.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (516)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (54)](../by-category/tutorial-book-styleguide.md) · [Type Checker (297)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1487)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](../by-category/utility-library.md) · [Visualization Gui (452)](../by-category/visualization-gui.md) · [Web Framework (447)](../by-category/web-framework.md)
 
 ## Categories
@@ -115,8 +115,8 @@ Records: `150`
 | --- | --- | --- | --- |
 | [ailab-hanyang/Radar4Motion](../records/radars-ailab-hanyang-radar4motion-9053c2a1.md) | partial | 2025-06-15T09:01:50Z | registry-derived |
 | [birgander2/PyRAT](../records/radars-birgander2-pyrat-f127a5d8.md) | partial | 2025-01-16T15:20:10Z | registry-derived |
-| [graphieros/vue-data-ui](../records/radars-graphieros-vue-data-ui-37b47478.md) | partial | 2026-09-02T17:49:51Z | registry-derived |
-| [johntruckenbrodt/pyroSAR](../records/radars-johntruckenbrodt-pyrosar-83ed39f7.md) | partial | 2026-08-28T14:30:32Z | registry-derived |
+| [graphieros/vue-data-ui](../records/radars-graphieros-vue-data-ui-37b47478.md) | partial | 2026-09-03T13:31:44Z | registry-derived |
+| [johntruckenbrodt/pyroSAR](../records/radars-johntruckenbrodt-pyrosar-83ed39f7.md) | partial | 2026-09-03T12:48:24Z | registry-derived |
 | [Orion-AI-Lab/KuroSiwo](../records/radars-orion-ai-lab-kurosiwo-16670f6a.md) | partial | 2026-07-16T11:37:33Z | registry-derived |
 | [tier4/nebula](../records/radars-tier4-nebula-3760d802.md) | partial | 2026-08-02T00:21:19Z | registry-derived |
 
@@ -149,7 +149,7 @@ Records: `150`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ashuttl/linecast](../records/radars-ashuttl-linecast-afb4bdb7.md) | partial | 2026-09-02T19:02:18Z | registry-derived |
+| [ashuttl/linecast](../records/radars-ashuttl-linecast-afb4bdb7.md) | partial | 2026-09-03T13:23:00Z | registry-derived |
 | [bellingcat/sar-interference-tracker](../records/radars-bellingcat-sar-interference-tracker-8efa36c7.md) | partial | 2022-02-23T13:57:03Z | registry-derived |
 | [bellingcat/umbra-open-data-tracker](../records/radars-bellingcat-umbra-open-data-tracker-b56dce91.md) | partial | 2026-08-03T14:44:41Z | registry-derived |
 | [CyanideCN/PyCINRAD](../records/radars-cyanidecn-pycinrad-fe2b1f00.md) | partial | 2026-06-26T10:45:59Z | registry-derived |
@@ -206,14 +206,14 @@ Records: `150`
 | [Nouuu/Albion-Online-OpenRadar](../records/radars-nouuu-albion-online-openradar-04ea3acd.md) | partial | 2026-08-31T18:18:32Z | registry-derived |
 | [ntnu-arl/lidar_degeneracy_datasets](../records/radars-ntnu-arl-lidar-degeneracy-datasets-f90e3fc8.md) | partial | 2026-02-03T12:49:37Z | registry-derived |
 | [odhondt/eo_tools](../records/radars-odhondt-eo-tools-bf024141.md) | partial | 2026-08-28T22:53:21Z | registry-derived |
-| [open-flight/openflight](../records/radars-open-flight-openflight-76c154cb.md) | partial | 2026-09-02T09:16:14Z | registry-derived |
+| [open-flight/openflight](../records/radars-open-flight-openflight-76c154cb.md) | partial | 2026-09-03T14:37:23Z | registry-derived |
 | [opencpn-radar-pi/radar_pi](../records/radars-opencpn-radar-pi-radar-pi-bfe54946.md) | partial | 2026-08-04T01:35:42Z | registry-derived |
 | [openradar/xradar](../records/radars-openradar-xradar-fcfe7f38.md) | partial | 2026-09-01T10:30:01Z | registry-derived |
 | [PatrickTUM/SEN12MS-CR-TS](../records/radars-patricktum-sen12ms-cr-ts-b82b98a6.md) | partial | 2024-01-23T17:51:20Z | registry-derived |
 | [polsartools/polsartools](../records/radars-polsartools-polsartools-6851bcf5.md) | partial | 2026-08-23T07:46:19Z | registry-derived |
 | [Project-MANAS/ars_40X](../records/radars-project-manas-ars-40x-9d54c780.md) | partial | 2020-07-09T09:21:29Z | registry-derived |
 | [Research-and-Project/mmWave_radar_tracking](../records/radars-research-and-project-mmwave-radar-tracking-93627252.md) | partial | 2024-12-19T01:30:23Z | registry-derived |
-| [SAR-ARD/s1ard](../records/radars-sar-ard-s1ard-a9db69ca.md) | partial | 2026-09-02T07:30:17Z | registry-derived |
+| [SAR-ARD/s1ard](../records/radars-sar-ard-s1ard-a9db69ca.md) | partial | 2026-09-03T14:40:15Z | registry-derived |
 | [senbox-org/s1tbx](../records/radars-senbox-org-s1tbx-186609d3.md) | partial | 2024-08-07T08:40:45Z | registry-derived |
 | [SourLen/Python-CSGO-Cheat](../records/radars-sourlen-python-csgo-cheat-b82ba10b.md) | partial | 2023-04-30T23:09:54Z | registry-derived |
 | [uncle-yura/esphome-ld2450](../records/radars-uncle-yura-esphome-ld2450-153b0a78.md) | partial | 2025-12-03T20:22:24Z | registry-derived |
@@ -221,7 +221,7 @@ Records: `150`
 | [vbguyny/ws4kp](../records/radars-vbguyny-ws4kp-dcbe59db.md) | partial | 2025-12-17T01:25:17Z | registry-derived |
 | [waterdisappear/SAR-JEPA](../records/radars-waterdisappear-sar-jepa-5da295f9.md) | partial | 2026-04-05T03:24:44Z | registry-derived |
 | [waterdisappear/SARATR-X](../records/radars-waterdisappear-saratr-x-8b96d353.md) | partial | 2026-08-10T14:56:51Z | registry-derived |
-| [wradlib/wradlib](../records/radars-wradlib-wradlib-9f5a29a2.md) | partial | 2026-09-02T17:19:18Z | registry-derived |
+| [wradlib/wradlib](../records/radars-wradlib-wradlib-9f5a29a2.md) | partial | 2026-09-03T10:04:37Z | registry-derived |
 
 ### Logging Observability
 
@@ -320,7 +320,7 @@ Records: `150`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [thkruz/keeptrack.space](../records/radars-thkruz-keeptrack-space-1403f7f7.md) | partial | 2026-09-01T09:53:36Z | registry-derived |
+| [thkruz/keeptrack.space](../records/radars-thkruz-keeptrack-space-1403f7f7.md) | partial | 2026-09-03T09:47:37Z | registry-derived |
 
 ### Undefined Behavior Analyzer
 

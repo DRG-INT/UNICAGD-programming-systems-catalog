@@ -1,6 +1,6 @@
 # Photography
 
-Records: `474`
+Records: `475`
 
 ## Navigation
 
@@ -15,15 +15,15 @@ Records: `474`
 [Cryptography (162)](../by-category/cryptography.md) · [Data Science (35)](../by-category/data-science.md) · [Database Datastore (831)](../by-category/database-datastore.md) · [Datetime (180)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (91)](../by-category/dependency-manager.md) · [Documentation (96)](../by-category/documentation.md)
 [Embedded Hardware (54)](../by-category/embedded-hardware.md) · [Ffi Bindings (402)](../by-category/ffi-bindings.md) · [Filesystem Os (1343)](../by-category/filesystem-os.md) · [Formatter (591)](../by-category/formatter.md)
-[Framework (53)](../by-category/framework.md) · [Fuzzer (53)](../by-category/fuzzer.md) · [Game Engine Game Dev (168)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1289)](../by-category/ide-editor-integration.md)
+[Framework (53)](../by-category/framework.md) · [Fuzzer (53)](../by-category/fuzzer.md) · [Game Engine Game Dev (168)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1291)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (356)](../by-category/image-audio-dsp.md) · [Interop Bindings (57)](../by-category/interop-bindings.md) · [Interpreter Runtime (247)](../by-category/interpreter-runtime.md) · [Jit Vm (59)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1273)](../by-category/language-specification.md) · [Library (5154)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (477)](../by-category/logging-observability.md) · [Machine Learning (636)](../by-category/machine-learning.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1274)](../by-category/language-specification.md) · [Library (5157)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (477)](../by-category/logging-observability.md) · [Machine Learning (637)](../by-category/machine-learning.md)
 [Math Numeric Scientific (83)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (36)](../by-category/message-broker.md) · [Networking Http (957)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (409)](../by-category/package-manager.md) · [Parser Lexer Ast (994)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (275)](../by-category/precommit-ci-quality.md)
 [Profiler (79)](../by-category/profiler.md) · [Project Scaffolding (128)](../by-category/project-scaffolding.md) · [Registry Repository (108)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
 [Security Sast (332)](../by-category/security-sast.md) · [Serialization (377)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (489)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (514)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (54)](../by-category/tutorial-book-styleguide.md) · [Type Checker (297)](../by-category/type-checker.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (516)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (54)](../by-category/tutorial-book-styleguide.md) · [Type Checker (297)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1487)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](../by-category/utility-library.md) · [Visualization Gui (452)](../by-category/visualization-gui.md) · [Web Framework (447)](../by-category/web-framework.md)
 
 ## Categories
@@ -167,7 +167,7 @@ Records: `474`
 | [aslost/pixtale](../records/photography-aslost-pixtale-df702412.md) | partial | 2026-09-01T14:07:49Z | registry-derived |
 | [Awalz/SwiftyCam](../records/photography-awalz-swiftycam-8b6b12a3.md) | partial | 2022-02-04T10:24:45Z | registry-derived |
 | [awxkee/avif.swift](../records/photography-awxkee-avif-swift-72b07b3d.md) | partial | 2026-04-29T10:30:31Z | registry-derived |
-| [Bitpainter75/FerrumPix](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) | partial | 2026-09-03T13:20:25Z | registry-derived |
+| [Bitpainter75/FerrumPix](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) | partial | 2026-09-03T13:49:57Z | registry-derived |
 | [carina-studio/PixelViewer](../records/photography-carina-studio-pixelviewer-70d11532.md) | partial | 2026-09-03T10:26:36Z | registry-derived |
 | [carlospuenteg/File-Injector](../records/photography-carlospuenteg-file-injector-2533177f.md) | partial | 2022-11-18T00:20:21Z | registry-derived |
 | [carlospuenteg/Photomosaic-Creator](../records/photography-carlospuenteg-photomosaic-creator-b57e7ad4.md) | unknown | github_search_does_not_include_release_date | registry-derived |
@@ -194,7 +194,7 @@ Records: `474`
 | [Neko3000/Monotone](../records/photography-neko3000-monotone-6bff49ae.md) | partial | 2022-09-25T08:34:38Z | registry-derived |
 | [niklasr22/BrightIntosh](../records/photography-niklasr22-brightintosh-a739a56f.md) | partial | 2026-08-21T14:03:41Z | registry-derived |
 | [open-product-data/digital-cameras](../records/photography-open-product-data-digital-cameras-6d723530.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [photoprism/photoprism](../records/photography-photoprism-photoprism-49783c79.md) | partial | 2026-09-01T13:36:50Z | registry-derived |
+| [photoprism/photoprism](../records/photography-photoprism-photoprism-49783c79.md) | partial | 2026-09-03T15:16:12Z | registry-derived |
 | [PicPeak/picpeak](../records/photography-picpeak-picpeak-d6957174.md) | partial | 2026-09-03T13:18:53Z | registry-derived |
 | [pop-os/wallpapers](../records/photography-pop-os-wallpapers-b9bd093b.md) | partial | 2025-06-24T16:00:43Z | registry-derived |
 | [rampatra/photography](../records/photography-rampatra-photography-69cbb5ec.md) | partial | 2025-10-28T15:29:47Z | registry-derived |
@@ -218,7 +218,7 @@ Records: `474`
 | --- | --- | --- | --- |
 | [AlenVelocity/wa-sticker-formatter](../records/photography-alenvelocity-wa-sticker-formatter-09b95bf0.md) | partial | 2026-08-10T19:22:06Z | registry-derived |
 | [ankitdhall/lidar_camera_calibration](../records/photography-ankitdhall-lidar-camera-calibration-71522045.md) | partial | 2025-10-16T18:17:31Z | registry-derived |
-| [blakeblackshear/frigate](../records/photography-blakeblackshear-frigate-ea8ac18c.md) | partial | 2026-09-03T13:17:05Z | registry-derived |
+| [blakeblackshear/frigate](../records/photography-blakeblackshear-frigate-ea8ac18c.md) | partial | 2026-09-03T14:02:26Z | registry-derived |
 | [blakeblackshear/frigate-hass-integration](../records/photography-blakeblackshear-frigate-hass-integration-49b84b9e.md) | partial | 2026-08-28T22:20:35Z | registry-derived |
 | [d2phap/ImageGlass](../records/photography-d2phap-imageglass-ec40014f.md) | partial | 2026-09-02T14:30:00Z | registry-derived |
 | [dnglab/dnglab](../records/photography-dnglab-dnglab-05d113bb.md) | partial | 2026-08-30T14:57:26Z | registry-derived |
@@ -292,6 +292,7 @@ Records: `474`
 | [NextWeb4/photo-metadata-editor](../records/photography-nextweb4-photo-metadata-editor-f03037a4.md) | partial | 2026-07-22T14:15:38Z | registry-derived |
 | [nv-tlabs/vipe](../records/photography-nv-tlabs-vipe-115cedae.md) | partial | 2026-08-17T23:14:20Z | registry-derived |
 | [octopuscinema/raw-player](../records/photography-octopuscinema-raw-player-b557fb4c.md) | partial | 2025-05-16T21:29:49Z | registry-derived |
+| [op7418/guizang-yingzao-skill](../records/photography-op7418-guizang-yingzao-skill-4d695bec.md) | partial | 2026-09-03T09:51:13Z | registry-derived |
 | [panpf/sketch](../records/photography-panpf-sketch-813812e6.md) | partial | 2026-08-08T08:33:06Z | registry-derived |
 | [PhotoFlare/photoflare](../records/photography-photoflare-photoflare-54d4deb9.md) | partial | 2026-08-31T20:04:23Z | registry-derived |
 | [photostructure/exiftool-vendored.js](../records/photography-photostructure-exiftool-vendored-js-7488694d.md) | unknown | github_search_does_not_include_release_date | registry-derived |

@@ -15,15 +15,15 @@ Records: `356`
 [Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (831)](database-datastore.md) · [Datetime (180)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (96)](documentation.md)
 [Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1343)](filesystem-os.md) · [Formatter (591)](formatter.md)
-[Framework (53)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1289)](ide-editor-integration.md)
+[Framework (53)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1291)](ide-editor-integration.md)
 **[Image Audio Dsp (356)](image-audio-dsp.md)** · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (247)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1273)](language-specification.md) · [Library (5154)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (477)](logging-observability.md) · [Machine Learning (636)](machine-learning.md)
+[Language Server (27)](language-server.md) · [Language Specification (1274)](language-specification.md) · [Library (5157)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (477)](logging-observability.md) · [Machine Learning (637)](machine-learning.md)
 [Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (957)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (409)](package-manager.md) · [Parser Lexer Ast (994)](parser-lexer-ast.md) · [Precommit Ci Quality (275)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (128)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (332)](security-sast.md) · [Serialization (377)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (489)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (514)](testing-framework.md) · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (516)](testing-framework.md) · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
 [Undefined Behavior Analyzer (1487)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (452)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
 
 ## C++23
@@ -305,7 +305,7 @@ Records: `356`
 | GullDSP/Circulate-VST | partial | 2026-06-29T00:30:46Z | [open](../records/audio-gulldsp-circulate-vst-58e43839.md) |
 | hollance/synth-plugin-book | partial | 2024-06-22T16:06:23Z | [open](../records/audio-hollance-synth-plugin-book-e6e2ebe2.md) |
 | hollance/synth-recipes | partial | 2023-07-22T17:14:14Z | [open](../records/audio-hollance-synth-recipes-dbad6169.md) |
-| hqrrr/PerceptoMap | partial | 2026-09-02T08:40:45Z | [open](../records/audio-hqrrr-perceptomap-9176716f.md) |
+| hqrrr/PerceptoMap | partial | 2026-09-03T08:49:36Z | [open](../records/audio-hqrrr-perceptomap-9176716f.md) |
 | hukenovs/dsp-theory | partial | 2026-04-21T18:12:35Z | [open](../records/audio-hukenovs-dsp-theory-fa2c75ff.md) |
 | iampawan/Flute-Music-Player | partial | 2020-12-30T15:43:12Z | [open](../records/audio-iampawan-flute-music-player-08b19a30.md) |
 | increpare/bfxr2 | partial | 2026-07-26T09:59:55Z | [open](../records/audio-increpare-bfxr2-16674ccc.md) |
@@ -351,7 +351,7 @@ Records: `356`
 | rust-dsp/rtb-rs | partial | 2019-03-12T02:21:11Z | [open](../records/audio-rust-dsp-rtb-rs-eb1efd82.md) |
 | SamiPerttu/fundsp | partial | 2026-03-03T15:41:09Z | [open](../records/audio-samiperttu-fundsp-dc381c0a.md) |
 | sjoerdvankreel/firefly-synth | partial | 2026-01-08T21:28:44Z | [open](../records/audio-sjoerdvankreel-firefly-synth-02173536.md) |
-| sjoerdvankreel/firefly-synth-2 | partial | 2026-09-02T21:11:15Z | [open](../records/audio-sjoerdvankreel-firefly-synth-2-58314591.md) |
+| sjoerdvankreel/firefly-synth-2 | partial | 2026-09-03T15:20:32Z | [open](../records/audio-sjoerdvankreel-firefly-synth-2-58314591.md) |
 | sjoerdvankreel/infernal-synth | partial | 2026-01-08T21:25:39Z | [open](../records/audio-sjoerdvankreel-infernal-synth-b17d2065.md) |
 | sonic-pi-net/sonic-pi | partial | 2026-08-12T16:51:53Z | [open](../records/audio-sonic-pi-net-sonic-pi-276f12ef.md) |
 | SoX | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-sox-26fadc03.md) |
@@ -360,7 +360,7 @@ Records: `356`
 | ssabug/fxseq | partial | 2023-10-28T00:28:31Z | [open](../records/audio-ssabug-fxseq-872becec.md) |
 | strawberrymusicplayer/strawberry | partial | 2026-09-02T21:22:26Z | [open](../records/audio-strawberrymusicplayer-strawberry-65e2b7e4.md) |
 | SuperKogito/spafe | partial | 2025-03-20T16:16:12Z | [open](../records/audio-superkogito-spafe-354360b4.md) |
-| surge-synthesizer/surge | partial | 2026-09-02T15:19:36Z | [open](../records/audio-surge-synthesizer-surge-87b5aeea.md) |
+| surge-synthesizer/surge | partial | 2026-09-03T14:51:30Z | [open](../records/audio-surge-synthesizer-surge-87b5aeea.md) |
 | SynthstromAudible/DelugeFirmware | partial | 2026-09-03T01:05:23Z | [open](../records/audio-synthstromaudible-delugefirmware-4c834ea8.md) |
 | thesofproject/sof | partial | 2026-09-03T11:49:18Z | [open](../records/audio-thesofproject-sof-05fedbf2.md) |
 | tiagolr/ripplerx | partial | 2026-08-13T12:36:29Z | [open](../records/audio-tiagolr-ripplerx-36b38906.md) |
@@ -459,7 +459,7 @@ Records: `356`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | CCSDSPy/ccsdspy | partial | 2026-08-13T00:50:16Z | [open](../records/satcom-satellites-ccsdspy-ccsdspy-6643ef17.md) |
-| dernasherbrezon/r2cloud | partial | 2026-08-09T12:11:09Z | [open](../records/satcom-satellites-dernasherbrezon-r2cloud-d7412eaf.md) |
+| dernasherbrezon/r2cloud | partial | 2026-09-03T13:05:14Z | [open](../records/satcom-satellites-dernasherbrezon-r2cloud-d7412eaf.md) |
 | emidan19/deep-tempest | partial | 2025-05-28T14:13:19Z | [open](../records/satcom-satellites-emidan19-deep-tempest-249c2c36.md) |
 | GNU Radio Satellite Workflows | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/satcom-satellites-gnu-radio-satellite-workflows-de665cfb.md) |
 | gr-satellites | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/satcom-satellites-gr-satellites-b6e76f51.md) |

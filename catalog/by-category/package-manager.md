@@ -15,15 +15,15 @@ Records: `409`
 [Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (831)](database-datastore.md) · [Datetime (180)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (96)](documentation.md)
 [Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1343)](filesystem-os.md) · [Formatter (591)](formatter.md)
-[Framework (53)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1289)](ide-editor-integration.md)
+[Framework (53)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1291)](ide-editor-integration.md)
 [Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (247)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1273)](language-specification.md) · [Library (5154)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (477)](logging-observability.md) · [Machine Learning (636)](machine-learning.md)
+[Language Server (27)](language-server.md) · [Language Specification (1274)](language-specification.md) · [Library (5157)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (477)](logging-observability.md) · [Machine Learning (637)](machine-learning.md)
 [Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (957)](networking-http.md)
 [Other (14)](other.md) · **[Package Manager (409)](package-manager.md)** · [Parser Lexer Ast (994)](parser-lexer-ast.md) · [Precommit Ci Quality (275)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (128)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (332)](security-sast.md) · [Serialization (377)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (489)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (514)](testing-framework.md) · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (516)](testing-framework.md) · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
 [Undefined Behavior Analyzer (1487)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (452)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
 
 ## C99
@@ -379,7 +379,7 @@ Records: `409`
 | --- | --- | --- | --- |
 | google-ai-edge/mediapipe | partial | 2026-09-03T04:20:49Z | [open](../records/video-google-ai-edge-mediapipe-a0c51472.md) |
 | memvid/memvid | partial | 2026-07-14T14:39:07Z | [open](../records/video-memvid-memvid-bb0d9def.md) |
-| snapotter-hq/SnapOtter | partial | 2026-09-03T12:51:44Z | [open](../records/video-snapotter-hq-snapotter-7f75c7aa.md) |
+| snapotter-hq/SnapOtter | partial | 2026-09-03T14:36:56Z | [open](../records/video-snapotter-hq-snapotter-7f75c7aa.md) |
 | TeamNewPipe/NewPipe | partial | 2026-08-31T12:57:33Z | [open](../records/video-teamnewpipe-newpipe-c1ab8a41.md) |
 | towhee-io/towhee | partial | 2024-10-18T00:01:12Z | [open](../records/video-towhee-io-towhee-12a64678.md) |
 
@@ -412,7 +412,7 @@ Records: `409`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | lgrcia/prose | partial | 2025-07-10T00:31:54Z | [open](../records/telescopes-lgrcia-prose-f417f514.md) |
-| spacetelescope/jwst | partial | 2026-09-01T22:38:27Z | [open](../records/telescopes-spacetelescope-jwst-e1b99f64.md) |
+| spacetelescope/jwst | partial | 2026-09-03T14:12:00Z | [open](../records/telescopes-spacetelescope-jwst-e1b99f64.md) |
 
 ## Radars
 

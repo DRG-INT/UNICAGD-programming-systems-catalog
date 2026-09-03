@@ -1,6 +1,6 @@
 # Testing Framework
 
-Records: `514`
+Records: `516`
 
 ## Navigation
 
@@ -15,15 +15,15 @@ Records: `514`
 [Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (831)](database-datastore.md) · [Datetime (180)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (96)](documentation.md)
 [Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1343)](filesystem-os.md) · [Formatter (591)](formatter.md)
-[Framework (53)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1289)](ide-editor-integration.md)
+[Framework (53)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1291)](ide-editor-integration.md)
 [Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (247)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1273)](language-specification.md) · [Library (5154)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (477)](logging-observability.md) · [Machine Learning (636)](machine-learning.md)
+[Language Server (27)](language-server.md) · [Language Specification (1274)](language-specification.md) · [Library (5157)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (477)](logging-observability.md) · [Machine Learning (637)](machine-learning.md)
 [Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (957)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (409)](package-manager.md) · [Parser Lexer Ast (994)](parser-lexer-ast.md) · [Precommit Ci Quality (275)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (128)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (332)](security-sast.md) · [Serialization (377)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (489)](static-analyzer.md)
-[Templating (2)](templating.md) · **[Testing Framework (514)](testing-framework.md)** · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
+[Templating (2)](templating.md) · **[Testing Framework (516)](testing-framework.md)** · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
 [Undefined Behavior Analyzer (1487)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (452)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
 
 ## C99
@@ -199,6 +199,7 @@ Records: `514`
 | @open-wc/testing | 5.0.0 | 2026-07-13T14:04:51.726Z | [open](../records/node-js-javascript-open-wc-testing-fb31caab.md) |
 | @open-wc/testing-helpers | 3.0.1 | 2024-04-23T15:31:03.343Z | [open](../records/node-js-javascript-open-wc-testing-helpers-c5380725.md) |
 | @open-wc/testing-karma | 4.0.9 | 2020-10-11T20:09:20.345Z | [open](../records/node-js-javascript-open-wc-testing-karma-46b98496.md) |
+| @opra/testing | 1.29.8 | 2026-08-27T15:19:38.526Z | [open](../records/node-js-javascript-opra-testing-a0ec9557.md) |
 | @percy/appium-app | 2.1.0 | 2025-04-22T12:40:46.092Z | [open](../records/node-js-javascript-percy-appium-app-cbe82335.md) |
 | @percy/cypress | 3.1.9 | 2026-07-13T12:56:39.908Z | [open](../records/node-js-javascript-percy-cypress-f70f3e03.md) |
 | @percy/playwright | 1.1.2 | 2026-08-06T10:43:46.572Z | [open](../records/node-js-javascript-percy-playwright-732244e2.md) |
@@ -476,6 +477,7 @@ Records: `514`
 | TH | 1.0.0 | 2026-08-06 13:50:20 UTC | [open](../records/r-th-6c0bb6f6.md) |
 | tinysnapshot | 0.3.0 | 2026-08-21 06:50:02 UTC | [open](../records/r-tinysnapshot-bf66d58c.md) |
 | tirt | 0.4.0 | 2026-08-20 08:10:02 UTC | [open](../records/r-tirt-0e237b86.md) |
+| trend | 1.1.8 | 2026-09-03 14:40:02 UTC | [open](../records/r-trend-26b91420.md) |
 | vartest | 1.7 | 2026-08-25 10:50:02 UTC | [open](../records/r-vartest-b1935da3.md) |
 
 ## Haskell

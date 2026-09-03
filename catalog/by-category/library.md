@@ -1,6 +1,6 @@
 # Library
 
-Records: `5154`
+Records: `5157`
 
 ## Navigation
 
@@ -15,15 +15,15 @@ Records: `5154`
 [Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (831)](database-datastore.md) · [Datetime (180)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (96)](documentation.md)
 [Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1343)](filesystem-os.md) · [Formatter (591)](formatter.md)
-[Framework (53)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1289)](ide-editor-integration.md)
+[Framework (53)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1291)](ide-editor-integration.md)
 [Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (247)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1273)](language-specification.md) · **[Library (5154)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (477)](logging-observability.md) · [Machine Learning (636)](machine-learning.md)
+[Language Server (27)](language-server.md) · [Language Specification (1274)](language-specification.md) · **[Library (5157)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (477)](logging-observability.md) · [Machine Learning (637)](machine-learning.md)
 [Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (957)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (409)](package-manager.md) · [Parser Lexer Ast (994)](parser-lexer-ast.md) · [Precommit Ci Quality (275)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (128)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (332)](security-sast.md) · [Serialization (377)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (489)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (514)](testing-framework.md) · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (516)](testing-framework.md) · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
 [Undefined Behavior Analyzer (1487)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (452)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
 
 ## C99
@@ -2530,6 +2530,7 @@ Records: `5154`
 | bslib | 0.12.0 | 2026-08-04 00:40:02 UTC | [open](../records/r-bslib-ba171b86.md) |
 | bsvars | 4.0 | 2026-08-22 16:00:17 UTC | [open](../records/r-bsvars-55783e85.md) |
 | bsvarSIGNs | 3.0 | 2026-08-21 08:20:32 UTC | [open](../records/r-bsvarsigns-04311d8e.md) |
+| bunsen | 0.1.1 | 2026-09-03 14:30:16 UTC | [open](../records/r-bunsen-1a088813.md) |
 | bvarnet | 1.0.2 | 2026-08-31 20:20:02 UTC | [open](../records/r-bvarnet-dfb34c1c.md) |
 | bvpSolve | 1.4.4.2 | 2026-08-20 16:52:10 UTC | [open](../records/r-bvpsolve-36c8cd44.md) |
 | campsis | 1.9.0 | 2026-08-05 07:50:02 UTC | [open](../records/r-campsis-75d309aa.md) |
@@ -2605,6 +2606,7 @@ Records: `5154`
 | epoxy | 1.0.1 | 2026-08-31 18:40:13 UTC | [open](../records/r-epoxy-6caa5386.md) |
 | equatiomatic | 0.4.9 | 2026-08-19 12:50:09 UTC | [open](../records/r-equatiomatic-d1f7cbbe.md) |
 | eulerr | 8.3.0 | 2026-08-21 21:50:10 UTC | [open](../records/r-eulerr-c769d78e.md) |
+| evgam | 1.0.2 | 2026-09-03 14:30:09 UTC | [open](../records/r-evgam-fb8105aa.md) |
 | exdqlm | 1.1.1 | 2026-08-28 19:00:02 UTC | [open](../records/r-exdqlm-82eabd48.md) |
 | ExpDesignR | 1.0.0 | 2026-09-01 12:40:08 UTC | [open](../records/r-expdesignr-ca6d468b.md) |
 | ExperimentalDesignGeneratorandRandomiser | 0.1.0 | 2026-09-02 12:30:13 UTC | [open](../records/r-experimentaldesigngeneratorandrandomiser-c207090b.md) |
@@ -2835,6 +2837,7 @@ Records: `5154`
 | rcontroll | 0.1.3 | 2026-08-04 08:40:08 UTC | [open](../records/r-rcontroll-3db49076.md) |
 | RCppAD | 1.20260000.0 | 2026-08-07 16:10:22 UTC | [open](../records/r-rcppad-87e98746.md) |
 | RcppClassicExamples | 0.1.5 | 2026-09-02 17:20:07 UTC | [open](../records/r-rcppclassicexamples-6ab58c03.md) |
+| RcppExamples | 0.1.11 | 2026-09-03 14:40:08 UTC | [open](../records/r-rcppexamples-636ba5fe.md) |
 | rdborrow | 0.0.4.0 | 2026-08-31 14:00:10 UTC | [open](../records/r-rdborrow-95d341d6.md) |
 | Rdrw | 1.0.4 | 2026-08-20 10:32:10 UTC | [open](../records/r-rdrw-1a52ca94.md) |
 | readODS | 2.3.6 | 2026-09-02 05:20:13 UTC | [open](../records/r-readods-0f703511.md) |
@@ -4115,7 +4118,7 @@ Records: `5154`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-03T14:15:10Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-03T15:18:43Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4129,7 +4132,7 @@ Records: `5154`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-03T13:55:43Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-03T15:13:40Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -4750,14 +4753,14 @@ Records: `5154`
 | Nouuu/Albion-Online-OpenRadar | partial | 2026-08-31T18:18:32Z | [open](../records/radars-nouuu-albion-online-openradar-04ea3acd.md) |
 | ntnu-arl/lidar_degeneracy_datasets | partial | 2026-02-03T12:49:37Z | [open](../records/radars-ntnu-arl-lidar-degeneracy-datasets-f90e3fc8.md) |
 | odhondt/eo_tools | partial | 2026-08-28T22:53:21Z | [open](../records/radars-odhondt-eo-tools-bf024141.md) |
-| open-flight/openflight | partial | 2026-09-02T09:16:14Z | [open](../records/radars-open-flight-openflight-76c154cb.md) |
+| open-flight/openflight | partial | 2026-09-03T14:37:23Z | [open](../records/radars-open-flight-openflight-76c154cb.md) |
 | opencpn-radar-pi/radar_pi | partial | 2026-08-04T01:35:42Z | [open](../records/radars-opencpn-radar-pi-radar-pi-bfe54946.md) |
 | openradar/xradar | partial | 2026-09-01T10:30:01Z | [open](../records/radars-openradar-xradar-fcfe7f38.md) |
 | PatrickTUM/SEN12MS-CR-TS | partial | 2024-01-23T17:51:20Z | [open](../records/radars-patricktum-sen12ms-cr-ts-b82b98a6.md) |
 | polsartools/polsartools | partial | 2026-08-23T07:46:19Z | [open](../records/radars-polsartools-polsartools-6851bcf5.md) |
 | Project-MANAS/ars_40X | partial | 2020-07-09T09:21:29Z | [open](../records/radars-project-manas-ars-40x-9d54c780.md) |
 | Research-and-Project/mmWave_radar_tracking | partial | 2024-12-19T01:30:23Z | [open](../records/radars-research-and-project-mmwave-radar-tracking-93627252.md) |
-| SAR-ARD/s1ard | partial | 2026-09-02T07:30:17Z | [open](../records/radars-sar-ard-s1ard-a9db69ca.md) |
+| SAR-ARD/s1ard | partial | 2026-09-03T14:40:15Z | [open](../records/radars-sar-ard-s1ard-a9db69ca.md) |
 | senbox-org/s1tbx | partial | 2024-08-07T08:40:45Z | [open](../records/radars-senbox-org-s1tbx-186609d3.md) |
 | SourLen/Python-CSGO-Cheat | partial | 2023-04-30T23:09:54Z | [open](../records/radars-sourlen-python-csgo-cheat-b82ba10b.md) |
 | uncle-yura/esphome-ld2450 | partial | 2025-12-03T20:22:24Z | [open](../records/radars-uncle-yura-esphome-ld2450-153b0a78.md) |
@@ -4765,7 +4768,7 @@ Records: `5154`
 | vbguyny/ws4kp | partial | 2025-12-17T01:25:17Z | [open](../records/radars-vbguyny-ws4kp-dcbe59db.md) |
 | waterdisappear/SAR-JEPA | partial | 2026-04-05T03:24:44Z | [open](../records/radars-waterdisappear-sar-jepa-5da295f9.md) |
 | waterdisappear/SARATR-X | partial | 2026-08-10T14:56:51Z | [open](../records/radars-waterdisappear-saratr-x-8b96d353.md) |
-| wradlib/wradlib | partial | 2026-09-02T17:19:18Z | [open](../records/radars-wradlib-wradlib-9f5a29a2.md) |
+| wradlib/wradlib | partial | 2026-09-03T10:04:37Z | [open](../records/radars-wradlib-wradlib-9f5a29a2.md) |
 
 ## SatCom Satellites
 
@@ -4819,8 +4822,8 @@ Records: `5154`
 | pytroll/satpy | partial | 2026-09-02T15:41:26Z | [open](../records/satcom-satellites-pytroll-satpy-9a896b49.md) |
 | robamu-org/tmtccmd | partial | 2026-01-14T11:22:06Z | [open](../records/satcom-satellites-robamu-org-tmtccmd-8aded257.md) |
 | robintw/Py6S | partial | 2025-10-22T23:09:34Z | [open](../records/satcom-satellites-robintw-py6s-607064f7.md) |
-| rt-bishop/Look4Sat | partial | 2026-09-02T14:35:03Z | [open](../records/satcom-satellites-rt-bishop-look4sat-0d14c7cd.md) |
-| SatDump/SatDump | partial | 2026-09-02T19:56:24Z | [open](../records/satcom-satellites-satdump-satdump-2cfd412f.md) |
+| rt-bishop/Look4Sat | partial | 2026-09-03T07:40:26Z | [open](../records/satcom-satellites-rt-bishop-look4sat-0d14c7cd.md) |
+| SatDump/SatDump | partial | 2026-09-03T12:03:28Z | [open](../records/satcom-satellites-satdump-satdump-2cfd412f.md) |
 | TLeconte/acarsdec | partial | 2025-07-31T10:36:21Z | [open](../records/satcom-satellites-tleconte-acarsdec-9333c48e.md) |
 | trishmapow/rf-jam-replay | partial | 2019-06-10T22:09:28Z | [open](../records/satcom-satellites-trishmapow-rf-jam-replay-654ac757.md) |
 | TrunkRecorder/trunk-recorder | partial | 2026-09-01T12:59:38Z | [open](../records/satcom-satellites-trunkrecorder-trunk-recorder-7832a301.md) |

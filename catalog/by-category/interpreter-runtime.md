@@ -15,15 +15,15 @@ Records: `247`
 [Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (831)](database-datastore.md) · [Datetime (180)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (96)](documentation.md)
 [Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1343)](filesystem-os.md) · [Formatter (591)](formatter.md)
-[Framework (53)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1289)](ide-editor-integration.md)
+[Framework (53)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1291)](ide-editor-integration.md)
 [Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · **[Interpreter Runtime (247)](interpreter-runtime.md)** · [Jit Vm (59)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1273)](language-specification.md) · [Library (5154)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (477)](logging-observability.md) · [Machine Learning (636)](machine-learning.md)
+[Language Server (27)](language-server.md) · [Language Specification (1274)](language-specification.md) · [Library (5157)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (477)](logging-observability.md) · [Machine Learning (637)](machine-learning.md)
 [Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (957)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (409)](package-manager.md) · [Parser Lexer Ast (994)](parser-lexer-ast.md) · [Precommit Ci Quality (275)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (128)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (332)](security-sast.md) · [Serialization (377)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (489)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (514)](testing-framework.md) · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (516)](testing-framework.md) · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
 [Undefined Behavior Analyzer (1487)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (452)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
 
 ## C++23
@@ -219,7 +219,7 @@ Records: `247`
 | --- | --- | --- | --- |
 | llama.cpp | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-llama-cpp-9828c514.md) |
 | ONNX Runtime | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-onnx-runtime-98d3a1c6.md) |
-| ray-project/ray | partial | 2026-09-03T07:59:15Z | [open](../records/aim-s-ray-project-ray-95a80ced.md) |
+| ray-project/ray | partial | 2026-09-03T15:15:50Z | [open](../records/aim-s-ray-project-ray-95a80ced.md) |
 | vLLM | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-vllm-0a7ec6b2.md) |
 
 ## Engines
@@ -282,7 +282,7 @@ Records: `247`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| v-modal/vmodal_sdk_android | partial | 2026-09-02T23:52:46Z | [open](../records/video-v-modal-vmodal-sdk-android-a967102c.md) |
+| v-modal/vmodal_sdk_android | partial | 2026-09-03T14:54:37Z | [open](../records/video-v-modal-vmodal-sdk-android-a967102c.md) |
 
 ## Photography
 
@@ -295,7 +295,7 @@ Records: `247`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| a-r-d/PureJsImage | partial | 2026-09-02T19:45:27Z | [open](../records/microscopy-a-r-d-purejsimage-f9287947.md) |
+| a-r-d/PureJsImage | partial | 2026-09-03T14:39:49Z | [open](../records/microscopy-a-r-d-purejsimage-f9287947.md) |
 | ziatdinovmax/GPim | partial | 2023-11-24T06:29:59Z | [open](../records/microscopy-ziatdinovmax-gpim-a892ca24.md) |
 | ziatdinovmax/SciLink | partial | 2026-09-03T03:52:16Z | [open](../records/microscopy-ziatdinovmax-scilink-c222b07f.md) |
 

@@ -15,15 +15,15 @@ Records: `91`
 [Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (831)](database-datastore.md) · [Datetime (180)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · **[Dependency Manager (91)](dependency-manager.md)** · [Documentation (96)](documentation.md)
 [Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1343)](filesystem-os.md) · [Formatter (591)](formatter.md)
-[Framework (53)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1289)](ide-editor-integration.md)
+[Framework (53)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1291)](ide-editor-integration.md)
 [Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (247)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1273)](language-specification.md) · [Library (5154)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (477)](logging-observability.md) · [Machine Learning (636)](machine-learning.md)
+[Language Server (27)](language-server.md) · [Language Specification (1274)](language-specification.md) · [Library (5157)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (477)](logging-observability.md) · [Machine Learning (637)](machine-learning.md)
 [Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (957)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (409)](package-manager.md) · [Parser Lexer Ast (994)](parser-lexer-ast.md) · [Precommit Ci Quality (275)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (128)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (332)](security-sast.md) · [Serialization (377)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (489)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (514)](testing-framework.md) · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (516)](testing-framework.md) · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
 [Undefined Behavior Analyzer (1487)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (452)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
 
 ## C99
@@ -131,7 +131,7 @@ Records: `91`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| rtk-ai/rtk | partial | 2026-09-03T12:25:54Z | [open](../records/aim-s-rtk-ai-rtk-ba550a2c.md) |
+| rtk-ai/rtk | partial | 2026-09-03T15:22:18Z | [open](../records/aim-s-rtk-ai-rtk-ba550a2c.md) |
 
 ## nix
 
@@ -264,5 +264,5 @@ Records: `91`
 | --- | --- | --- | --- |
 | Gitea: RiceField-Plugins/LibraryDependencies | partial | 2022-06-09T18:49:38Z | [open](../records/repository-workplaces-gitea-ricefield-plugins-librarydependencies-4aaea462.md) |
 | gitlab-org/security-products/dependency-scanning | partial | 2026-01-07T10:21:59.705Z | [open](../records/repository-workplaces-gitlab-org-security-products-dependency-scanning-3f274c86.md) |
-| gitlab-org/security-products/gemnasium-db | partial | 2026-09-02T23:39:47.534Z | [open](../records/repository-workplaces-gitlab-org-security-products-gemnasium-db-646d6d68.md) |
+| gitlab-org/security-products/gemnasium-db | partial | 2026-09-03T14:50:26.526Z | [open](../records/repository-workplaces-gitlab-org-security-products-gemnasium-db-646d6d68.md) |
 | gitlab-org/security-products/security-report-schemas | partial | 2026-09-02T12:31:27.706Z | [open](../records/repository-workplaces-gitlab-org-security-products-security-report-schemas-1a7d4b38.md) |
