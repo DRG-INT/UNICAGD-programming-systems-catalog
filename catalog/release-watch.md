@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-03T22:21:44+00:00`
+Generated: `2026-09-03T23:18:37+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -35,22 +35,24 @@ Generated: `2026-09-03T22:21:44+00:00`
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| mintlify | Node.js/JavaScript | Cli | 4.2.870 | 2026-09-03T23:13:55.819Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
+| mint | Node.js/JavaScript | Cli | 4.2.870 | 2026-09-03T23:13:55.221Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
+| @mintlify/cli | Node.js/JavaScript | Cli | 4.0.1473 | 2026-09-03T23:13:52.177Z | [open](records/node-js-javascript-mintlify-cli-64dbc59b.md) |
+| @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.112.21 | 2026-09-03T23:09:10.978Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
+| srvx | Node.js/JavaScript | Web Framework | 1.0.3 | 2026-09-03T22:49:51.529Z | [open](records/node-js-javascript-srvx-1c963d3b.md) |
+| @stacksjs/database | Node.js/JavaScript | Database Datastore | 0.74.15 | 2026-09-03T22:42:00.709Z | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
+| @stacksjs/testing | Node.js/JavaScript | Testing Framework | 0.74.15 | 2026-09-03T22:41:06.584Z | [open](records/node-js-javascript-stacksjs-testing-57469937.md) |
+| @stacksjs/http | Node.js/JavaScript | Networking Http | 0.74.15 | 2026-09-03T22:34:16.629Z | [open](records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
 | hooks_riverpod | Dart | Build System | 3.4.3 | 2026-09-03T22:15:28.046535Z | [open](records/dart-hooks-riverpod-d2564e23.md) |
 | crackNum | Haskell | Library | 4.6 | 2026-09-03T22:12:21Z | [open](records/haskell-cracknum-25e818dd.md) |
+| @sazabi/cli | Node.js/JavaScript | Cli | 1.5.2 | 2026-09-03T21:49:13.577Z | [open](records/node-js-javascript-sazabi-cli-62177a0a.md) |
+| @tellescope/testing | Node.js/JavaScript | Testing Framework | 1.256.14 | 2026-09-03T21:24:22.630Z | [open](records/node-js-javascript-tellescope-testing-59848a2c.md) |
 | cabal-install-parsers | Haskell | Parser Lexer Ast | 0.7 | 2026-09-03T21:22:27Z | [open](records/haskell-cabal-install-parsers-5bbb1ac6.md) |
 | tinyvec | Rust | Ide Editor Integration | 1.13.0 | 2026-09-03T21:13:39.500112Z | [open](records/rust-tinyvec-a3ec787a.md) |
-| @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.112.19 | 2026-09-03T21:05:59.584Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
 | @tryghost/server | Node.js/JavaScript | Package Manager | 3.1.14 | 2026-09-03T21:05:49.719Z | [open](records/node-js-javascript-tryghost-server-914387f6.md) |
 | @tryghost/database-info | Node.js/JavaScript | Formatter | 2.3.13 | 2026-09-03T21:05:25.666Z | [open](records/node-js-javascript-tryghost-database-info-d1eda67d.md) |
-| @stacksjs/testing | Node.js/JavaScript | Testing Framework | 0.74.13 | 2026-09-03T21:05:17.451Z | [open](records/node-js-javascript-stacksjs-testing-57469937.md) |
-| @stacksjs/database | Node.js/JavaScript | Database Datastore | 0.74.13 | 2026-09-03T21:04:29.783Z | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
-| @stacksjs/http | Node.js/JavaScript | Networking Http | 0.74.13 | 2026-09-03T20:57:23.706Z | [open](records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
 | llama-cpp-haskell | Haskell | Library | 0.3.0.1 | 2026-09-03T20:40:47Z | [open](records/haskell-llama-cpp-haskell-a626a663.md) |
 | i18next-cli | Node.js/JavaScript | Benchmarking | 1.73.0 | 2026-09-03T20:26:05.636Z | [open](records/node-js-javascript-i18next-cli-729ce142.md) |
-| mint | Node.js/JavaScript | Cli | 4.2.869 | 2026-09-03T20:12:25.491Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
-| mintlify | Node.js/JavaScript | Cli | 4.2.869 | 2026-09-03T20:12:25.473Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
-| @mintlify/cli | Node.js/JavaScript | Cli | 4.0.1472 | 2026-09-03T20:12:22.241Z | [open](records/node-js-javascript-mintlify-cli-64dbc59b.md) |
-| srvx | Node.js/JavaScript | Web Framework | 1.0.2 | 2026-09-03T19:51:14.673Z | [open](records/node-js-javascript-srvx-1c963d3b.md) |
 | thread-utils-context | Haskell | Concurrency Parallelism | 0.4.1.1 | 2026-09-03T19:44:47Z | [open](records/haskell-thread-utils-context-4cff1f57.md) |
 | oclif | Node.js/JavaScript | Cli | 5.0.1 | 2026-09-03T19:41:20.078Z | [open](records/node-js-javascript-oclif-1e846831.md) |
 | hickory-resolver | Rust | Undefined Behavior Analyzer | 0.26.2 | 2026-09-03T19:35:39.013179Z | [open](records/rust-hickory-resolver-4c9bf89d.md) |
@@ -274,7 +276,6 @@ Generated: `2026-09-03T22:21:44+00:00`
 | @stripe/cli | Node.js/JavaScript | Cli | 1.50.10 | 2026-09-02T20:23:08.984Z | [open](records/node-js-javascript-stripe-cli-f2f9a188.md) |
 | holeyexp | Haskell | Library | 0.3.0.0 | 2026-09-02T19:43:01Z | [open](records/haskell-holeyexp-db5dc519.md) |
 | jsonschema | Rust | Serialization | 0.53.0 | 2026-09-02T19:41:51.188114Z | [open](records/rust-jsonschema-64fecdca.md) |
-| @sazabi/cli | Node.js/JavaScript | Cli | 1.5.0 | 2026-09-02T19:35:29.717Z | [open](records/node-js-javascript-sazabi-cli-62177a0a.md) |
 | servant-ede | Haskell | Library | 1.0.0.0 | 2026-09-02T19:18:40Z | [open](records/haskell-servant-ede-265a6dc2.md) |
 | powersync | Dart | Web Framework | 2.4.0 | 2026-09-02T19:18:31.615548Z | [open](records/dart-powersync-6dce0081.md) |
 | yamlstar | Haskell | Serialization | 0.1.19.0 | 2026-09-02T19:17:00Z | [open](records/haskell-yamlstar-bc72bee8.md) |
@@ -284,7 +285,6 @@ Generated: `2026-09-03T22:21:44+00:00`
 | file_picker | Dart | Filesystem Os | 12.2.0 | 2026-09-02T17:14:23.398551Z | [open](records/dart-file-picker-09b00b4c.md) |
 | @discord/intl-message-database-linux-arm64-gnu | Node.js/JavaScript | Database Datastore | 0.32.0 | 2026-09-02T17:01:26.812Z | [open](records/node-js-javascript-discord-intl-message-database-linux-arm64-gnu-e0ed2d9c.md) |
 | @discord/intl-message-database-linux-x64-musl | Node.js/JavaScript | Database Datastore | 0.32.0 | 2026-09-02T17:00:26.458Z | [open](records/node-js-javascript-discord-intl-message-database-linux-x64-musl-e2238082.md) |
-| @discord/intl-message-database-linux-x64-gnu | Node.js/JavaScript | Database Datastore | 0.32.0 | 2026-09-02T17:00:20.923Z | [open](records/node-js-javascript-discord-intl-message-database-linux-x64-gnu-2eb201f1.md) |
 
 ## Unknown Reasons
 

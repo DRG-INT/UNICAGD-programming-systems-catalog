@@ -40,7 +40,7 @@ request routing, middleware policy, service structure, and deployment surface.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT; License :: OSI Approved :: MIT License |
+| Evidence | MIT + file LICENSE |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

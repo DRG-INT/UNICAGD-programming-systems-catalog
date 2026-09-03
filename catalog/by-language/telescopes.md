@@ -273,7 +273,7 @@ Records: `149`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [gwastro/pycbc](../records/telescopes-gwastro-pycbc-b93b6565.md) | partial | 2026-09-03T21:40:01Z | registry-derived |
+| [gwastro/pycbc](../records/telescopes-gwastro-pycbc-b93b6565.md) | partial | 2026-09-03T22:46:08Z | registry-derived |
 | [lightkurve/lightkurve](../records/telescopes-lightkurve-lightkurve-47762682.md) | partial | 2026-08-25T19:58:28Z | registry-derived |
 
 ### Type Checker

@@ -312,7 +312,7 @@ Records: `539`
 | @marp-team/marp-cli | 4.5.0 | 2026-07-17T23:07:09.399Z | [open](../records/node-js-javascript-marp-team-marp-cli-b69e1548.md) |
 | @metamask/messenger-cli | 0.2.0 | 2026-04-20T16:40:19.418Z | [open](../records/node-js-javascript-metamask-messenger-cli-15524c80.md) |
 | @microsoft/m365agentstoolkit-cli | 1.1.16 | 2026-09-03T09:20:17.630Z | [open](../records/node-js-javascript-microsoft-m365agentstoolkit-cli-3f536e69.md) |
-| @mintlify/cli | 4.0.1472 | 2026-09-03T20:12:22.241Z | [open](../records/node-js-javascript-mintlify-cli-64dbc59b.md) |
+| @mintlify/cli | 4.0.1473 | 2026-09-03T23:13:52.177Z | [open](../records/node-js-javascript-mintlify-cli-64dbc59b.md) |
 | @module-federation/cli | 2.9.0 | 2026-08-24T08:21:41.802Z | [open](../records/node-js-javascript-module-federation-cli-ad5965f3.md) |
 | @mongosh/logging | 5.2.0 | 2026-07-01T01:01:34.354Z | [open](../records/node-js-javascript-mongosh-logging-a2ed4564.md) |
 | @napi-rs/cli | 3.9.0 | 2026-09-02T16:11:20.951Z | [open](../records/node-js-javascript-napi-rs-cli-3160c98d.md) |
@@ -334,7 +334,7 @@ Records: `539`
 | @sanity/cli | 8.9.1 | 2026-09-03T14:32:53.771Z | [open](../records/node-js-javascript-sanity-cli-257446f0.md) |
 | @sanity/cli-core | 3.6.1 | 2026-09-03T08:46:26.024Z | [open](../records/node-js-javascript-sanity-cli-core-cef78bf4.md) |
 | @sap/appfront-cli | 1.16.1 | 2026-08-09T07:20:40.079Z | [open](../records/node-js-javascript-sap-appfront-cli-0314fdf9.md) |
-| @sazabi/cli | 1.5.0 | 2026-09-02T19:35:29.717Z | [open](../records/node-js-javascript-sazabi-cli-62177a0a.md) |
+| @sazabi/cli | 1.5.2 | 2026-09-03T21:49:13.577Z | [open](../records/node-js-javascript-sazabi-cli-62177a0a.md) |
 | @sentry/cli-darwin | 3.7.0 | 2026-08-28T09:23:05.442Z | [open](../records/node-js-javascript-sentry-cli-darwin-f7f0b0cc.md) |
 | @sentry/cli-linux-arm | 3.7.0 | 2026-08-28T09:27:09.858Z | [open](../records/node-js-javascript-sentry-cli-linux-arm-5ed1afae.md) |
 | @sentry/cli-linux-arm64 | 3.7.0 | 2026-08-28T10:06:16.152Z | [open](../records/node-js-javascript-sentry-cli-linux-arm64-280f8dcb.md) |
@@ -413,8 +413,8 @@ Records: `539`
 | lmnr-cli | 0.5.0 | 2026-08-21T15:24:37.896Z | [open](../records/node-js-javascript-lmnr-cli-446632fc.md) |
 | locize-cli | 12.7.0 | 2026-09-01T05:39:48.244Z | [open](../records/node-js-javascript-locize-cli-9156d8b9.md) |
 | meow | 14.1.0 | 2026-02-20T10:30:43.850Z | [open](../records/node-js-javascript-meow-f24d3a17.md) |
-| mint | 4.2.869 | 2026-09-03T20:12:25.491Z | [open](../records/node-js-javascript-mint-4de26fe3.md) |
-| mintlify | 4.2.869 | 2026-09-03T20:12:25.473Z | [open](../records/node-js-javascript-mintlify-3fade289.md) |
+| mint | 4.2.870 | 2026-09-03T23:13:55.221Z | [open](../records/node-js-javascript-mint-4de26fe3.md) |
+| mintlify | 4.2.870 | 2026-09-03T23:13:55.819Z | [open](../records/node-js-javascript-mintlify-3fade289.md) |
 | oclif | 5.0.1 | 2026-09-03T19:41:20.078Z | [open](../records/node-js-javascript-oclif-1e846831.md) |
 | openapi-merge-cli | 2.0.2 | 2026-08-08T02:12:42.793Z | [open](../records/node-js-javascript-openapi-merge-cli-834fc90c.md) |
 | ora | unknown | not_checked | [open](../records/node-js-javascript-ora-ad5f9a2f.md) |
@@ -524,7 +524,7 @@ Records: `539`
 | --- | --- | --- | --- |
 | esengine/DeepSeek-Reasonix | partial | 2026-09-03T21:29:39Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-03T22:18:15Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-03T23:12:38Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Icons and Logos
 

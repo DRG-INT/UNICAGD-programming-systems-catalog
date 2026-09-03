@@ -41,7 +41,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | unknown |
+| Evidence | https://www.nuget.org/packages/Nethereum.JsonRpc.Client/6.1.0/license |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes

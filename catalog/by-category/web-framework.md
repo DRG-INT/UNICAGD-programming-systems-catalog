@@ -298,7 +298,7 @@ Records: `453`
 | server-cli-only | 0.3.2 | 2024-04-30T11:09:03.373Z | [open](../records/node-js-javascript-server-cli-only-17eb2673.md) |
 | server-destroy | 1.0.1 | 2015-05-20T07:16:41.655Z | [open](../records/node-js-javascript-server-destroy-b5d1e648.md) |
 | server-only | 0.0.1 | 2022-09-03T01:07:26.139Z | [open](../records/node-js-javascript-server-only-0b56fef6.md) |
-| srvx | 1.0.2 | 2026-09-03T19:51:14.673Z | [open](../records/node-js-javascript-srvx-1c963d3b.md) |
+| srvx | 1.0.3 | 2026-09-03T22:49:51.529Z | [open](../records/node-js-javascript-srvx-1c963d3b.md) |
 | superstatic | 11.0.0 | 2026-07-08T19:13:39.538Z | [open](../records/node-js-javascript-superstatic-fc374538.md) |
 | tiny-lr | 2.0.0 | 2020-10-09T18:15:31.366Z | [open](../records/node-js-javascript-tiny-lr-9c549260.md) |
 | tiny-worker | 2.3.0 | 2019-09-20T17:30:30.678Z | [open](../records/node-js-javascript-tiny-worker-6925212f.md) |

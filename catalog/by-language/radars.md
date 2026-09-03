@@ -187,7 +187,7 @@ Records: `150`
 | [acconeer/acconeer-python-exploration](../records/radars-acconeer-acconeer-python-exploration-c570151f.md) | partial | 2026-08-10T14:18:17Z | registry-derived |
 | [bopen/xarray-sentinel](../records/radars-bopen-xarray-sentinel-d49585c9.md) | partial | 2026-08-26T14:14:32Z | registry-derived |
 | [dpaulat/supercell-wx](../records/radars-dpaulat-supercell-wx-216e49cf.md) | partial | 2026-09-01T22:58:49Z | registry-derived |
-| [earthobservations/wetterdienst](../records/radars-earthobservations-wetterdienst-4494a41f.md) | partial | 2026-09-03T22:18:43Z | registry-derived |
+| [earthobservations/wetterdienst](../records/radars-earthobservations-wetterdienst-4494a41f.md) | partial | 2026-09-03T22:45:08Z | registry-derived |
 | [erikliland/pyMHT](../records/radars-erikliland-pymht-6bcd5586.md) | partial | 2023-09-19T11:10:15Z | registry-derived |
 | [ethanhuang13/ladybug](../records/radars-ethanhuang13-ladybug-9ff29291.md) | partial | 2019-12-26T07:04:26Z | registry-derived |
 | [feedback-assistant/reports](../records/radars-feedback-assistant-reports-4bc463b2.md) | partial | 2025-11-07T04:38:18Z | registry-derived |

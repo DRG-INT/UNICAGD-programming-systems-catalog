@@ -561,7 +561,7 @@ Records: `497`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| gwastro/pycbc | partial | 2026-09-03T21:40:01Z | [open](../records/telescopes-gwastro-pycbc-b93b6565.md) |
+| gwastro/pycbc | partial | 2026-09-03T22:46:08Z | [open](../records/telescopes-gwastro-pycbc-b93b6565.md) |
 | lightkurve/lightkurve | partial | 2026-08-25T19:58:28Z | [open](../records/telescopes-lightkurve-lightkurve-47762682.md) |
 
 ## Radars

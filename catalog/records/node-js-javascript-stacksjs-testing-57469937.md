@@ -32,7 +32,7 @@ unit/integration validation, regression protection, and release confidence.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 0.74.13 | 2026-09-03T21:05:17.451Z | [https://registry.npmjs.org/-/v1/search?text=testing&size=250&quality=0.35&popularity=0.45&maintenance=0.20](https://registry.npmjs.org/-/v1/search?text=testing&size=250&quality=0.35&popularity=0.45&maintenance=0.20) |  |
+| stable | known | 0.74.15 | 2026-09-03T22:41:06.584Z | [https://registry.npmjs.org/-/v1/search?text=testing&size=250&quality=0.35&popularity=0.45&maintenance=0.20](https://registry.npmjs.org/-/v1/search?text=testing&size=250&quality=0.35&popularity=0.45&maintenance=0.20) |  |
 | preview/nightly | unknown |  |  | unknown | npm_search_does_not_include_dist_tags |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ unit/integration validation, regression protection, and release confidence.
 
 - Treat category as `testing_framework` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=testing&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-03T21:18:38+00:00`.
+- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=testing&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-03T23:16:33+00:00`.
 - Preview/nightly metadata is unknown because `npm_search_does_not_include_dist_tags`.
 
 ## Provenance

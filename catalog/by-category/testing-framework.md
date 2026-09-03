@@ -220,7 +220,7 @@ Records: `520`
 | @smithers-orchestrator/testing | 0.32.0 | 2026-08-01T05:00:36.872Z | [open](../records/node-js-javascript-smithers-orchestrator-testing-7a34dd66.md) |
 | @smthrs/testing | 0.35.0 | 2026-08-17T20:35:48.555Z | [open](../records/node-js-javascript-smthrs-testing-35159f03.md) |
 | @solidjs/testing-library | 0.8.10 | 2024-09-25T13:24:08.486Z | [open](../records/node-js-javascript-solidjs-testing-library-4973b45e.md) |
-| @stacksjs/testing | 0.74.13 | 2026-09-03T21:05:17.451Z | [open](../records/node-js-javascript-stacksjs-testing-57469937.md) |
+| @stacksjs/testing | 0.74.15 | 2026-09-03T22:41:06.584Z | [open](../records/node-js-javascript-stacksjs-testing-57469937.md) |
 | @storm-software/testing-tools | 1.119.286 | 2026-08-22T05:47:53.244Z | [open](../records/node-js-javascript-storm-software-testing-tools-3111101a.md) |
 | @storybook/addon-vitest | 10.6.0 | 2026-09-02T13:59:28.767Z | [open](../records/node-js-javascript-storybook-addon-vitest-61ff1281.md) |
 | @storybook/cli | 10.6.0 | 2026-09-02T14:01:45.695Z | [open](../records/node-js-javascript-storybook-cli-04f8ce22.md) |
@@ -229,7 +229,7 @@ Records: `520`
 | @stryker-mutator/core | 10.0.0 | 2026-08-14T16:51:22.686Z | [open](../records/node-js-javascript-stryker-mutator-core-931b4171.md) |
 | @stryker-mutator/util | 10.0.0 | 2026-08-14T16:50:09.663Z | [open](../records/node-js-javascript-stryker-mutator-util-0d4f0b82.md) |
 | @taiga-ui/testing | 5.22.0 | 2026-08-31T16:01:43.699Z | [open](../records/node-js-javascript-taiga-ui-testing-aedbf495.md) |
-| @tellescope/testing | 1.256.13 | 2026-09-01T22:15:22.196Z | [open](../records/node-js-javascript-tellescope-testing-59848a2c.md) |
+| @tellescope/testing | 1.256.14 | 2026-09-03T21:24:22.630Z | [open](../records/node-js-javascript-tellescope-testing-59848a2c.md) |
 | @testing-library/angular | 19.4.2 | 2026-08-07T14:48:19.466Z | [open](../records/node-js-javascript-testing-library-angular-00401ff1.md) |
 | @testing-library/cypress | 10.1.3 | 2026-04-29T16:38:28.373Z | [open](../records/node-js-javascript-testing-library-cypress-7b6684d4.md) |
 | @testing-library/dom | 10.4.1 | 2025-07-27T13:23:37.151Z | [open](../records/node-js-javascript-testing-library-dom-98afebf0.md) |
