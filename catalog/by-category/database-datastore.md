@@ -12,18 +12,18 @@ Records: `829`
 [Benchmarking (164)](benchmarking.md) · [Build System (882)](build-system.md) · [Cli (524)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (92)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
 [Concurrency Parallelism (76)](concurrency-parallelism.md) · [Configuration (107)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (161)](cryptography.md) · [Data Science (35)](data-science.md) · **[Database Datastore (829)](database-datastore.md)** · [Datetime (174)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (95)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1318)](filesystem-os.md) · [Formatter (582)](formatter.md)
-[Framework (52)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1269)](ide-editor-integration.md)
+[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · **[Database Datastore (829)](database-datastore.md)** · [Datetime (174)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (95)](documentation.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1319)](filesystem-os.md) · [Formatter (582)](formatter.md)
+[Framework (52)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1270)](ide-editor-integration.md)
 [Image Audio Dsp (354)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (241)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1267)](language-specification.md) · [Library (5090)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (466)](logging-observability.md) · [Machine Learning (626)](machine-learning.md)
+[Language Server (27)](language-server.md) · [Language Specification (1267)](language-specification.md) · [Library (5092)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (467)](logging-observability.md) · [Machine Learning (626)](machine-learning.md)
 [Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (954)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (406)](package-manager.md) · [Parser Lexer Ast (974)](parser-lexer-ast.md) · [Precommit Ci Quality (270)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (127)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (330)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (482)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (511)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (296)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (513)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (296)](type-checker.md)
 [Undefined Behavior Analyzer (1473)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (442)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
 
 ## C99
@@ -169,7 +169,7 @@ Records: `829`
 | @paulcbetts/mime-db | 1.22.4 | 2016-04-12T17:19:26.295Z | [open](../records/node-js-javascript-paulcbetts-mime-db-019b03f1.md) |
 | @payloadcms/drizzle | 3.88.0 | 2026-08-11T20:55:18.595Z | [open](../records/node-js-javascript-payloadcms-drizzle-2f19cf5b.md) |
 | @pgpm/database-jobs | 0.44.0 | 2026-08-31T23:45:57.679Z | [open](../records/node-js-javascript-pgpm-database-jobs-3a4fc2ff.md) |
-| @pgpmjs/export | 1.20.7 | 2026-09-01T20:48:35.818Z | [open](../records/node-js-javascript-pgpmjs-export-abf7ded3.md) |
+| @pgpmjs/export | 1.20.8 | 2026-09-03T07:27:10.984Z | [open](../records/node-js-javascript-pgpmjs-export-abf7ded3.md) |
 | @planetscale/database | 1.20.1 | 2026-03-25T21:22:50.213Z | [open](../records/node-js-javascript-planetscale-database-65a792c6.md) |
 | @prisma/adapter-planetscale | 7.10.0 | 2026-08-25T12:38:29.518Z | [open](../records/node-js-javascript-prisma-adapter-planetscale-fec84c62.md) |
 | @prosopo/types-database | 5.4.0 | 2026-09-02T22:42:09.575Z | [open](../records/node-js-javascript-prosopo-types-database-4163c4a1.md) |
@@ -1006,7 +1006,7 @@ Records: `829`
 | Gitea: yeyuanjie/gorm-oracle | partial | 2023-10-17T03:10:13Z | [open](../records/repository-workplaces-gitea-yeyuanjie-gorm-oracle-4b6b7053.md) |
 | Gitea: ziying/database | partial | 2026-06-03T05:06:54Z | [open](../records/repository-workplaces-gitea-ziying-database-e5dcf680.md) |
 | gitlab-org/advisories-community | partial | 2026-09-02T14:34:19.343Z | [open](../records/repository-workplaces-gitlab-org-advisories-community-621603ca.md) |
-| gitlab-org/analytics-section/siphon | partial | 2026-09-02T16:52:02.675Z | [open](../records/repository-workplaces-gitlab-org-analytics-section-siphon-6ac6dc22.md) |
+| gitlab-org/analytics-section/siphon | partial | 2026-09-03T06:38:46.706Z | [open](../records/repository-workplaces-gitlab-org-analytics-section-siphon-6ac6dc22.md) |
 | kara.moe/karaokebase | partial | 2026-09-03T02:07:03.905Z | [open](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) |
 | postgres-ai/custom-images | partial | 2026-08-31T12:45:54.446Z | [open](../records/repository-workplaces-postgres-ai-custom-images-45d426ed.md) |
 | ProfaneDB/ProfaneDB | partial | 2021-08-10T13:32:11.702Z | [open](../records/repository-workplaces-profanedb-profanedb-135545c0.md) |

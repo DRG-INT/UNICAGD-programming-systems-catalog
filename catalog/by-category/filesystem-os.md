@@ -1,6 +1,6 @@
 # Filesystem Os
 
-Records: `1318`
+Records: `1319`
 
 ## Navigation
 
@@ -12,18 +12,18 @@ Records: `1318`
 [Benchmarking (164)](benchmarking.md) · [Build System (882)](build-system.md) · [Cli (524)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (92)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
 [Concurrency Parallelism (76)](concurrency-parallelism.md) · [Configuration (107)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (161)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (829)](database-datastore.md) · [Datetime (174)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (95)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · **[Filesystem Os (1318)](filesystem-os.md)** · [Formatter (582)](formatter.md)
-[Framework (52)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1269)](ide-editor-integration.md)
+[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (829)](database-datastore.md) · [Datetime (174)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (95)](documentation.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · **[Filesystem Os (1319)](filesystem-os.md)** · [Formatter (582)](formatter.md)
+[Framework (52)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1270)](ide-editor-integration.md)
 [Image Audio Dsp (354)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (241)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1267)](language-specification.md) · [Library (5090)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (466)](logging-observability.md) · [Machine Learning (626)](machine-learning.md)
+[Language Server (27)](language-server.md) · [Language Specification (1267)](language-specification.md) · [Library (5092)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (467)](logging-observability.md) · [Machine Learning (626)](machine-learning.md)
 [Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (954)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (406)](package-manager.md) · [Parser Lexer Ast (974)](parser-lexer-ast.md) · [Precommit Ci Quality (270)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (127)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (330)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (482)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (511)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (296)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (513)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (296)](type-checker.md)
 [Undefined Behavior Analyzer (1473)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (442)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
 
 ## C++23
@@ -393,6 +393,7 @@ Records: `1318`
 | inferencer | 0.2.0 | 2026-08-04 06:50:02 UTC | [open](../records/r-inferencer-3ab0fbbc.md) |
 | jiebaRS | 0.3.0 | 2026-08-26 11:40:02 UTC | [open](../records/r-jiebars-c83af6de.md) |
 | lavinteract | 0.5.3 | 2026-08-21 05:42:24 UTC | [open](../records/r-lavinteract-b13e459b.md) |
+| metrosp | 1.2.1 | 2026-09-03 08:00:02 UTC | [open](../records/r-metrosp-4df42b80.md) |
 | MosaiClusteR | 0.1.1 | 2026-08-21 15:00:14 UTC | [open](../records/r-mosaicluster-ce1436ef.md) |
 | MYIS | 0.1.0 | 2026-08-05 07:50:12 UTC | [open](../records/r-myis-c6fc6f9a.md) |
 | mziln | 1.0 | 2026-08-30 09:10:08 UTC | [open](../records/r-mziln-327fb05e.md) |
@@ -560,7 +561,7 @@ Records: `1318`
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-08-30T15:02:19Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-03T06:55:59Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-03T07:53:29Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 

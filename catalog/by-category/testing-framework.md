@@ -1,6 +1,6 @@
 # Testing Framework
 
-Records: `511`
+Records: `513`
 
 ## Navigation
 
@@ -12,18 +12,18 @@ Records: `511`
 [Benchmarking (164)](benchmarking.md) · [Build System (882)](build-system.md) · [Cli (524)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (92)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
 [Concurrency Parallelism (76)](concurrency-parallelism.md) · [Configuration (107)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (161)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (829)](database-datastore.md) · [Datetime (174)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (95)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1318)](filesystem-os.md) · [Formatter (582)](formatter.md)
-[Framework (52)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1269)](ide-editor-integration.md)
+[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (829)](database-datastore.md) · [Datetime (174)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (95)](documentation.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1319)](filesystem-os.md) · [Formatter (582)](formatter.md)
+[Framework (52)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1270)](ide-editor-integration.md)
 [Image Audio Dsp (354)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (241)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1267)](language-specification.md) · [Library (5090)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (466)](logging-observability.md) · [Machine Learning (626)](machine-learning.md)
+[Language Server (27)](language-server.md) · [Language Specification (1267)](language-specification.md) · [Library (5092)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (467)](logging-observability.md) · [Machine Learning (626)](machine-learning.md)
 [Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (954)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (406)](package-manager.md) · [Parser Lexer Ast (974)](parser-lexer-ast.md) · [Precommit Ci Quality (270)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (127)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (330)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (482)](static-analyzer.md)
-[Templating (2)](templating.md) · **[Testing Framework (511)](testing-framework.md)** · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (296)](type-checker.md)
+[Templating (2)](templating.md) · **[Testing Framework (513)](testing-framework.md)** · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (296)](type-checker.md)
 [Undefined Behavior Analyzer (1473)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (442)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
 
 ## C99
@@ -167,7 +167,7 @@ Records: `511`
 | @fast-check/jest | 2.2.0 | 2026-03-08T13:49:07.370Z | [open](../records/node-js-javascript-fast-check-jest-ed4afdb6.md) |
 | @fast-check/vitest | 0.4.1 | 2026-04-28T22:22:05.897Z | [open](../records/node-js-javascript-fast-check-vitest-b73d0fd0.md) |
 | @fedify/testing | 2.3.6 | 2026-08-23T15:05:59.804Z | [open](../records/node-js-javascript-fedify-testing-fe851537.md) |
-| @genesislcap/foundation-testing | 15.21.0 | 2026-09-02T17:01:02.298Z | [open](../records/node-js-javascript-genesislcap-foundation-testing-9da0f708.md) |
+| @genesislcap/foundation-testing | 15.21.1 | 2026-09-03T08:19:31.017Z | [open](../records/node-js-javascript-genesislcap-foundation-testing-9da0f708.md) |
 | @golevelup/ts-jest | 3.0.0 | 2026-03-18T20:15:21.180Z | [open](../records/node-js-javascript-golevelup-ts-jest-8e9a6da8.md) |
 | @golevelup/ts-vitest | 4.0.0 | 2026-03-18T20:15:23.670Z | [open](../records/node-js-javascript-golevelup-ts-vitest-366a948f.md) |
 | @graphql-codegen/testing | 5.0.1 | 2026-05-27T13:31:00.554Z | [open](../records/node-js-javascript-graphql-codegen-testing-d069daa5.md) |
@@ -294,7 +294,7 @@ Records: `511`
 | fast-check | 4.9.0 | 2026-07-08T21:33:03.026Z | [open](../records/node-js-javascript-fast-check-359bc465.md) |
 | firebase-functions-test | 3.5.0 | 2026-05-08T21:21:33.788Z | [open](../records/node-js-javascript-firebase-functions-test-9cef0aad.md) |
 | fresh | 0.5.2 | 2017-09-14T05:03:12.205Z | [open](../records/node-js-javascript-fresh-e4b0551f.md) |
-| graphile-test | 5.14.3 | 2026-09-01T20:48:26.445Z | [open](../records/node-js-javascript-graphile-test-4fc9d5fb.md) |
+| graphile-test | 5.14.4 | 2026-09-03T07:27:00.736Z | [open](../records/node-js-javascript-graphile-test-4fc9d5fb.md) |
 | ink-testing-library | 4.0.0 | 2024-05-22T10:51:25.909Z | [open](../records/node-js-javascript-ink-testing-library-ff83aa69.md) |
 | is | 3.3.2 | 2025-07-19T19:13:33.146Z | [open](../records/node-js-javascript-is-8ceadfd5.md) |
 | is-lite | 2.0.0 | 2025-11-23T01:22:42.906Z | [open](../records/node-js-javascript-is-lite-b5a2333b.md) |
@@ -452,6 +452,7 @@ Records: `511`
 | httptest | 4.2.4 | 2026-08-21 12:50:18 UTC | [open](../records/r-httptest-166c4892.md) |
 | IncrementalityTEST | 0.1.1 | 2026-08-07 16:30:25 UTC | [open](../records/r-incrementalitytest-522341d8.md) |
 | KSgeneral | 2.1.0 | 2026-08-23 03:50:08 UTC | [open](../records/r-ksgeneral-d012c0cc.md) |
+| marginaleffects | 1.0.0 | 2026-09-03 08:10:02 UTC | [open](../records/r-marginaleffects-032b4d89.md) |
 | matchednull | 0.2.1 | 2026-08-21 08:20:03 UTC | [open](../records/r-matchednull-921bf075.md) |
 | MChtest | 1.0-4 | 2026-08-31 22:10:14 UTC | [open](../records/r-mchtest-abd26776.md) |
 | minimaxALT | 1.0.4 | 2026-08-31 19:50:07 UTC | [open](../records/r-minimaxalt-51bb5d3f.md) |
@@ -648,6 +649,12 @@ Records: `511`
 | --- | --- | --- | --- |
 | bytemain/mail2rss | partial | 2023-03-26T06:42:39Z | [open](../records/magazines-bytemain-mail2rss-7ce072c5.md) |
 | JacobEvelyn/friends | partial | 2021-07-25T16:16:47Z | [open](../records/magazines-jacobevelyn-friends-9e7e65ed.md) |
+
+## Assembly
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| barotto/test386.asm | partial | 2026-04-19T16:33:22Z | [open](../records/assembly-barotto-test386-asm-fa35ae55.md) |
 
 ## Pattern language
 

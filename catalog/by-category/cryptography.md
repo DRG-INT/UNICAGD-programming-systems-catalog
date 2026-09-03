@@ -1,6 +1,6 @@
 # Cryptography
 
-Records: `161`
+Records: `162`
 
 ## Navigation
 
@@ -12,18 +12,18 @@ Records: `161`
 [Benchmarking (164)](benchmarking.md) · [Build System (882)](build-system.md) · [Cli (524)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (92)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
 [Concurrency Parallelism (76)](concurrency-parallelism.md) · [Configuration (107)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-**[Cryptography (161)](cryptography.md)** · [Data Science (35)](data-science.md) · [Database Datastore (829)](database-datastore.md) · [Datetime (174)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (95)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1318)](filesystem-os.md) · [Formatter (582)](formatter.md)
-[Framework (52)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1269)](ide-editor-integration.md)
+**[Cryptography (162)](cryptography.md)** · [Data Science (35)](data-science.md) · [Database Datastore (829)](database-datastore.md) · [Datetime (174)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (95)](documentation.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1319)](filesystem-os.md) · [Formatter (582)](formatter.md)
+[Framework (52)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1270)](ide-editor-integration.md)
 [Image Audio Dsp (354)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (241)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1267)](language-specification.md) · [Library (5090)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (466)](logging-observability.md) · [Machine Learning (626)](machine-learning.md)
+[Language Server (27)](language-server.md) · [Language Specification (1267)](language-specification.md) · [Library (5092)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (467)](logging-observability.md) · [Machine Learning (626)](machine-learning.md)
 [Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (954)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (406)](package-manager.md) · [Parser Lexer Ast (974)](parser-lexer-ast.md) · [Precommit Ci Quality (270)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (127)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (330)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (482)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (511)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (296)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (513)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (296)](type-checker.md)
 [Undefined Behavior Analyzer (1473)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (442)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
 
 ## C99
@@ -216,7 +216,7 @@ Records: `161`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ente/ente | partial | 2026-09-03T07:04:05Z | [open](../records/go-ente-ente-f02441bb.md) |
+| ente/ente | partial | 2026-09-03T08:12:13Z | [open](../records/go-ente-ente-f02441bb.md) |
 
 ## Transmission Protocols
 
@@ -255,6 +255,12 @@ Records: `161`
 | jendrikseipp/rednotebook | unknown | github_search_does_not_include_release_date | [open](../records/magazines-jendrikseipp-rednotebook-5d8d4f11.md) |
 | lunatask/lunatask | partial | 2026-06-10T21:01:27Z | [open](../records/magazines-lunatask-lunatask-2f6be720.md) |
 | memrynote/memry | partial | 2026-09-03T01:20:54Z | [open](../records/magazines-memrynote-memry-3848d952.md) |
+
+## Assembly
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| dot-asm/cryptogams | partial | 2026-07-23T20:43:27Z | [open](../records/assembly-dot-asm-cryptogams-793b53b4.md) |
 
 ## WebAssembly
 

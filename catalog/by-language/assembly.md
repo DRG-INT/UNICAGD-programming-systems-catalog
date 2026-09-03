@@ -1,6 +1,6 @@
 # Assembly
 
-Records: `220`
+Records: `225`
 
 ## Navigation
 
@@ -12,18 +12,18 @@ Records: `220`
 [Benchmarking (164)](../by-category/benchmarking.md) · [Build System (882)](../by-category/build-system.md) · [Cli (524)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (92)](../by-category/community-reference.md) · [Compiler (174)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (46)](../by-category/compression.md)
 [Concurrency Parallelism (76)](../by-category/concurrency-parallelism.md) · [Configuration (107)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (161)](../by-category/cryptography.md) · [Data Science (35)](../by-category/data-science.md) · [Database Datastore (829)](../by-category/database-datastore.md) · [Datetime (174)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (41)](../by-category/debugger.md) · [Dependency Manager (91)](../by-category/dependency-manager.md) · [Documentation (95)](../by-category/documentation.md)
-[Embedded Hardware (54)](../by-category/embedded-hardware.md) · [Ffi Bindings (401)](../by-category/ffi-bindings.md) · [Filesystem Os (1318)](../by-category/filesystem-os.md) · [Formatter (582)](../by-category/formatter.md)
-[Framework (52)](../by-category/framework.md) · [Fuzzer (50)](../by-category/fuzzer.md) · [Game Engine Game Dev (164)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1269)](../by-category/ide-editor-integration.md)
+[Cryptography (162)](../by-category/cryptography.md) · [Data Science (35)](../by-category/data-science.md) · [Database Datastore (829)](../by-category/database-datastore.md) · [Datetime (174)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (91)](../by-category/dependency-manager.md) · [Documentation (95)](../by-category/documentation.md)
+[Embedded Hardware (54)](../by-category/embedded-hardware.md) · [Ffi Bindings (401)](../by-category/ffi-bindings.md) · [Filesystem Os (1319)](../by-category/filesystem-os.md) · [Formatter (582)](../by-category/formatter.md)
+[Framework (52)](../by-category/framework.md) · [Fuzzer (50)](../by-category/fuzzer.md) · [Game Engine Game Dev (164)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1270)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (354)](../by-category/image-audio-dsp.md) · [Interop Bindings (57)](../by-category/interop-bindings.md) · [Interpreter Runtime (241)](../by-category/interpreter-runtime.md) · [Jit Vm (59)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1267)](../by-category/language-specification.md) · [Library (5090)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (42)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (466)](../by-category/logging-observability.md) · [Machine Learning (626)](../by-category/machine-learning.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1267)](../by-category/language-specification.md) · [Library (5092)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (42)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (467)](../by-category/logging-observability.md) · [Machine Learning (626)](../by-category/machine-learning.md)
 [Math Numeric Scientific (82)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (35)](../by-category/message-broker.md) · [Networking Http (954)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (406)](../by-category/package-manager.md) · [Parser Lexer Ast (974)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (270)](../by-category/precommit-ci-quality.md)
 [Profiler (79)](../by-category/profiler.md) · [Project Scaffolding (127)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
 [Security Sast (330)](../by-category/security-sast.md) · [Serialization (375)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (482)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (511)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](../by-category/tutorial-book-styleguide.md) · [Type Checker (296)](../by-category/type-checker.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (513)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](../by-category/tutorial-book-styleguide.md) · [Type Checker (296)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1473)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](../by-category/utility-library.md) · [Visualization Gui (442)](../by-category/visualization-gui.md) · [Web Framework (447)](../by-category/web-framework.md)
 
 ## Categories
@@ -53,7 +53,7 @@ Records: `220`
 | [emproof-com/nyxstone](../records/assembly-emproof-com-nyxstone-2e6c50f8.md) | partial | 2026-06-05T16:43:08Z | registry-derived |
 | [Fedjmike/mini-c](../records/assembly-fedjmike-mini-c-295a2fc0.md) | partial | 2022-04-15T08:24:14Z | registry-derived |
 | [HexHive/retrowrite](../records/assembly-hexhive-retrowrite-c7fefa2b.md) | partial | 2025-04-26T16:48:55Z | registry-derived |
-| [illegalstudio/elephc](../records/assembly-illegalstudio-elephc-5fbaada8.md) | partial | 2026-09-03T00:55:18Z | registry-derived |
+| [illegalstudio/elephc](../records/assembly-illegalstudio-elephc-5fbaada8.md) | partial | 2026-09-03T08:07:18Z | registry-derived |
 | [joexbayer/RetrOS-32](../records/assembly-joexbayer-retros-32-b6c205a2.md) | partial | 2026-02-22T16:07:58Z | registry-derived |
 | [JustasMasiulis/inline_syscall](../records/assembly-justasmasiulis-inline-syscall-0c8a798a.md) | partial | 2024-06-21T00:26:33Z | registry-derived |
 | [Mati365/ts-c-compiler](../records/assembly-mati365-ts-c-compiler-bc7fb5c3.md) | partial | 2026-08-11T06:13:10Z | registry-derived |
@@ -69,10 +69,17 @@ Records: `220`
 | --- | --- | --- | --- |
 | [mytechnotalent/Hacking-Windows](../records/assembly-mytechnotalent-hacking-windows-8a5a66d0.md) | partial | 2026-09-02T13:03:49Z | registry-derived |
 
+### Cryptography
+
+| Name | Release | Date | Source |
+| --- | --- | --- | --- |
+| [dot-asm/cryptogams](../records/assembly-dot-asm-cryptogams-793b53b4.md) | partial | 2026-07-23T20:43:27Z | registry-derived |
+
 ### Debugger
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [Kobzol/davis](../records/assembly-kobzol-davis-0d59ec0a.md) | partial | 2022-12-07T00:44:51Z | registry-derived |
 | [ZathuraDbg/ZathuraDbg](../records/assembly-zathuradbg-zathuradbg-df5d6b95.md) | partial | 2026-06-21T15:05:20Z | registry-derived |
 
 ### Dependency Manager
@@ -141,8 +148,9 @@ Records: `220`
 | [kovidomi/game-reversing](../records/assembly-kovidomi-game-reversing-eb71b6a8.md) | partial | 2023-04-05T15:11:33Z | registry-derived |
 | [mikeroyal/Assembly-Guide](../records/assembly-mikeroyal-assembly-guide-e4afccda.md) | partial | 2022-01-02T23:58:29Z | registry-derived |
 | [minio/sha256-simd](../records/assembly-minio-sha256-simd-85e6ab78.md) | partial | 2023-05-24T07:54:41Z | registry-derived |
+| [oded8bit/Assembly-Lib](../records/assembly-oded8bit-assembly-lib-a552ed5a.md) | partial | 2018-03-19T16:54:22Z | registry-derived |
 | [robalb/x86-64-playground](../records/assembly-robalb-x86-64-playground-c440c3c0.md) | partial | 2026-01-18T19:17:26Z | registry-derived |
-| [sehugg/8bitworkshop](../records/assembly-sehugg-8bitworkshop-62e01cd8.md) | partial | 2026-09-02T13:00:03Z | registry-derived |
+| [sehugg/8bitworkshop](../records/assembly-sehugg-8bitworkshop-62e01cd8.md) | partial | 2026-09-03T06:45:57Z | registry-derived |
 | [Specy/asm-editor](../records/assembly-specy-asm-editor-c3b9e30b.md) | partial | 2026-09-01T20:50:10Z | registry-derived |
 | [ThomasJaeger/VisualMASM](../records/assembly-thomasjaeger-visualmasm-c78674ab.md) | partial | 2018-01-26T12:10:31Z | registry-derived |
 
@@ -278,6 +286,7 @@ Records: `220`
 | --- | --- | --- | --- |
 | [0xAX/asm](../records/assembly-0xax-asm-c781f702.md) | partial | 2026-08-25T10:24:56Z | registry-derived |
 | [ajkhoury/UEFI-Bootkit](../records/assembly-ajkhoury-uefi-bootkit-3307a09a.md) | partial | 2019-08-29T14:16:09Z | registry-derived |
+| [alexfru/regal86](../records/assembly-alexfru-regal86-87e85f53.md) | partial | 2023-08-20T23:36:43Z | registry-derived |
 | [badamczewski/PowerUp](../records/assembly-badamczewski-powerup-798e7cfd.md) | partial | 2024-01-25T09:23:08Z | registry-derived |
 | [CensoredUsername/dynasm-rs](../records/assembly-censoredusername-dynasm-rs-c02f4bf6.md) | partial | 2026-07-22T23:36:48Z | registry-derived |
 | [cyrus-and/gdb-dashboard](../records/assembly-cyrus-and-gdb-dashboard-ef48ce45.md) | partial | 2026-07-17T09:53:53Z | registry-derived |
@@ -351,6 +360,12 @@ Records: `220`
 | [mohitmishra786/reversingBits](../records/assembly-mohitmishra786-reversingbits-a3d9abef.md) | partial | 2025-07-21T19:05:45Z | registry-derived |
 | [RRZE-HPC/OSACA](../records/assembly-rrze-hpc-osaca-67fcadc4.md) | partial | 2026-08-06T15:16:35Z | registry-derived |
 | [x86byte/RE-MA-Roadmap](../records/assembly-x86byte-re-ma-roadmap-041535bd.md) | partial | 2025-10-02T15:10:10Z | registry-derived |
+
+### Testing Framework
+
+| Name | Release | Date | Source |
+| --- | --- | --- | --- |
+| [barotto/test386.asm](../records/assembly-barotto-test386-asm-fa35ae55.md) | partial | 2026-04-19T16:33:22Z | registry-derived |
 
 ### Tutorial Book Styleguide
 

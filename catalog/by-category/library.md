@@ -1,6 +1,6 @@
 # Library
 
-Records: `5090`
+Records: `5092`
 
 ## Navigation
 
@@ -12,18 +12,18 @@ Records: `5090`
 [Benchmarking (164)](benchmarking.md) · [Build System (882)](build-system.md) · [Cli (524)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (92)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
 [Concurrency Parallelism (76)](concurrency-parallelism.md) · [Configuration (107)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (161)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (829)](database-datastore.md) · [Datetime (174)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (95)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1318)](filesystem-os.md) · [Formatter (582)](formatter.md)
-[Framework (52)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1269)](ide-editor-integration.md)
+[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (829)](database-datastore.md) · [Datetime (174)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (95)](documentation.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1319)](filesystem-os.md) · [Formatter (582)](formatter.md)
+[Framework (52)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1270)](ide-editor-integration.md)
 [Image Audio Dsp (354)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (241)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1267)](language-specification.md) · **[Library (5090)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (466)](logging-observability.md) · [Machine Learning (626)](machine-learning.md)
+[Language Server (27)](language-server.md) · [Language Specification (1267)](language-specification.md) · **[Library (5092)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (467)](logging-observability.md) · [Machine Learning (626)](machine-learning.md)
 [Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (954)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (406)](package-manager.md) · [Parser Lexer Ast (974)](parser-lexer-ast.md) · [Precommit Ci Quality (270)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (127)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (330)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (482)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (511)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (296)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (513)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (296)](type-checker.md)
 [Undefined Behavior Analyzer (1473)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (442)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
 
 ## C99
@@ -2743,6 +2743,7 @@ Records: `5090`
 | mirt | 1.47 | 2026-08-20 09:10:08 UTC | [open](../records/r-mirt-5875df38.md) |
 | mitools | 2.7 | 2026-08-31 19:30:54 UTC | [open](../records/r-mitools-b0bd6208.md) |
 | mixedBayes | 0.2.6 | 2026-08-04 16:00:08 UTC | [open](../records/r-mixedbayes-0f969f6f.md) |
+| MN | 1.2 | 2026-09-03 07:20:02 UTC | [open](../records/r-mn-8f7ed4dd.md) |
 | ModalCens | 0.2.0 | 2026-08-21 17:50:02 UTC | [open](../records/r-modalcens-97f99983.md) |
 | modeldata | 1.6.0 | 2026-08-21 11:10:02 UTC | [open](../records/r-modeldata-549c0f9a.md) |
 | moderndive | 0.8.0 | 2026-08-04 22:50:08 UTC | [open](../records/r-moderndive-51f4cbaa.md) |
@@ -3567,7 +3568,7 @@ Records: `5090`
 | persistent | 2.18.1.0 | 2026-01-14T23:05:56Z | [open](../records/haskell-persistent-9b1724c4.md) |
 | persistent-mongoDB | 2.13.1.0 | 2024-09-13T15:11:56Z | [open](../records/haskell-persistent-mongodb-24599212.md) |
 | pgdl | 10.10 | 2018-01-15T17:33:34Z | [open](../records/haskell-pgdl-6b04d821.md) |
-| phino | 0.0.113 | 2026-09-01T19:33:51Z | [open](../records/haskell-phino-0ffa79f2.md) |
+| phino | 0.0.114 | 2026-09-03T08:03:12Z | [open](../records/haskell-phino-0ffa79f2.md) |
 | pinboard | 0.10.3.0 | 2022-05-07T23:32:56Z | [open](../records/haskell-pinboard-08e346f1.md) |
 | pinch | 0.5.2.0 | 2024-07-09T02:44:30Z | [open](../records/haskell-pinch-801ed692.md) |
 | plugins | 1.6.2.1 | 2022-03-27T15:40:09Z | [open](../records/haskell-plugins-1103fc5c.md) |
@@ -4089,7 +4090,7 @@ Records: `5090`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-03T07:20:48Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-03T07:24:44Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4908,6 +4909,7 @@ Records: `5090`
 | --- | --- | --- | --- |
 | 0xAX/asm | partial | 2026-08-25T10:24:56Z | [open](../records/assembly-0xax-asm-c781f702.md) |
 | ajkhoury/UEFI-Bootkit | partial | 2019-08-29T14:16:09Z | [open](../records/assembly-ajkhoury-uefi-bootkit-3307a09a.md) |
+| alexfru/regal86 | partial | 2023-08-20T23:36:43Z | [open](../records/assembly-alexfru-regal86-87e85f53.md) |
 | badamczewski/PowerUp | partial | 2024-01-25T09:23:08Z | [open](../records/assembly-badamczewski-powerup-798e7cfd.md) |
 | CensoredUsername/dynasm-rs | partial | 2026-07-22T23:36:48Z | [open](../records/assembly-censoredusername-dynasm-rs-c02f4bf6.md) |
 | cyrus-and/gdb-dashboard | partial | 2026-07-17T09:53:53Z | [open](../records/assembly-cyrus-and-gdb-dashboard-ef48ce45.md) |

@@ -1,6 +1,6 @@
 # Ide Editor Integration
 
-Records: `1269`
+Records: `1270`
 
 ## Navigation
 
@@ -12,18 +12,18 @@ Records: `1269`
 [Benchmarking (164)](benchmarking.md) · [Build System (882)](build-system.md) · [Cli (524)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (92)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
 [Concurrency Parallelism (76)](concurrency-parallelism.md) · [Configuration (107)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (161)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (829)](database-datastore.md) · [Datetime (174)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (95)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1318)](filesystem-os.md) · [Formatter (582)](formatter.md)
-[Framework (52)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · **[Ide Editor Integration (1269)](ide-editor-integration.md)**
+[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (829)](database-datastore.md) · [Datetime (174)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (95)](documentation.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1319)](filesystem-os.md) · [Formatter (582)](formatter.md)
+[Framework (52)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · **[Ide Editor Integration (1270)](ide-editor-integration.md)**
 [Image Audio Dsp (354)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (241)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1267)](language-specification.md) · [Library (5090)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (466)](logging-observability.md) · [Machine Learning (626)](machine-learning.md)
+[Language Server (27)](language-server.md) · [Language Specification (1267)](language-specification.md) · [Library (5092)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (467)](logging-observability.md) · [Machine Learning (626)](machine-learning.md)
 [Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (954)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (406)](package-manager.md) · [Parser Lexer Ast (974)](parser-lexer-ast.md) · [Precommit Ci Quality (270)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (127)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (330)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (482)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (511)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (296)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (513)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (296)](type-checker.md)
 [Undefined Behavior Analyzer (1473)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (442)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
 
 ## C++23
@@ -674,8 +674,8 @@ Records: `1269`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AlexsJones/llmfit | partial | 2026-09-02T11:14:26Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-03T07:17:17Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| AlexsJones/llmfit | partial | 2026-09-03T07:34:02Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
+| can1357/oh-my-pi | partial | 2026-09-03T08:03:08Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-03T04:03:18Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-02T14:01:53Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-03T06:17:41Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
@@ -1303,8 +1303,9 @@ Records: `1269`
 | kovidomi/game-reversing | partial | 2023-04-05T15:11:33Z | [open](../records/assembly-kovidomi-game-reversing-eb71b6a8.md) |
 | mikeroyal/Assembly-Guide | partial | 2022-01-02T23:58:29Z | [open](../records/assembly-mikeroyal-assembly-guide-e4afccda.md) |
 | minio/sha256-simd | partial | 2023-05-24T07:54:41Z | [open](../records/assembly-minio-sha256-simd-85e6ab78.md) |
+| oded8bit/Assembly-Lib | partial | 2018-03-19T16:54:22Z | [open](../records/assembly-oded8bit-assembly-lib-a552ed5a.md) |
 | robalb/x86-64-playground | partial | 2026-01-18T19:17:26Z | [open](../records/assembly-robalb-x86-64-playground-c440c3c0.md) |
-| sehugg/8bitworkshop | partial | 2026-09-02T13:00:03Z | [open](../records/assembly-sehugg-8bitworkshop-62e01cd8.md) |
+| sehugg/8bitworkshop | partial | 2026-09-03T06:45:57Z | [open](../records/assembly-sehugg-8bitworkshop-62e01cd8.md) |
 | Specy/asm-editor | partial | 2026-09-01T20:50:10Z | [open](../records/assembly-specy-asm-editor-c3b9e30b.md) |
 | ThomasJaeger/VisualMASM | partial | 2018-01-26T12:10:31Z | [open](../records/assembly-thomasjaeger-visualmasm-c78674ab.md) |
 
