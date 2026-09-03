@@ -1,6 +1,6 @@
 # Library
 
-Records: `5157`
+Records: `5232`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `5157`
 
 ## Category Index
 
-[Api Abi Checker (203)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
-[Benchmarking (164)](benchmarking.md) · [Build System (885)](build-system.md) · [Cli (528)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (92)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
-[Concurrency Parallelism (78)](concurrency-parallelism.md) · [Configuration (108)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (831)](database-datastore.md) · [Datetime (180)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (96)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1343)](filesystem-os.md) · [Formatter (591)](formatter.md)
-[Framework (53)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1291)](ide-editor-integration.md)
-[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (247)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1274)](language-specification.md) · **[Library (5157)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (477)](logging-observability.md) · [Machine Learning (637)](machine-learning.md)
-[Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (957)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (409)](package-manager.md) · [Parser Lexer Ast (994)](parser-lexer-ast.md) · [Precommit Ci Quality (275)](precommit-ci-quality.md)
-[Profiler (79)](profiler.md) · [Project Scaffolding (128)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (332)](security-sast.md) · [Serialization (377)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (489)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (516)](testing-framework.md) · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
-[Undefined Behavior Analyzer (1487)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (452)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
+[Api Abi Checker (204)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
+[Benchmarking (165)](benchmarking.md) · [Build System (903)](build-system.md) · [Cli (534)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (97)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
+[Concurrency Parallelism (78)](concurrency-parallelism.md) · [Configuration (113)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (832)](database-datastore.md) · [Datetime (180)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (92)](dependency-manager.md) · [Documentation (96)](documentation.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1371)](filesystem-os.md) · [Formatter (598)](formatter.md)
+[Framework (54)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (169)](game-engine-game-dev.md) · [Ide Editor Integration (1304)](ide-editor-integration.md)
+[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (250)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1373)](language-specification.md) · **[Library (5232)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (481)](logging-observability.md) · [Machine Learning (643)](machine-learning.md)
+[Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (963)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (411)](package-manager.md) · [Parser Lexer Ast (998)](parser-lexer-ast.md) · [Precommit Ci Quality (278)](precommit-ci-quality.md)
+[Profiler (79)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Security Sast (333)](security-sast.md) · [Serialization (378)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (490)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (518)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
+[Undefined Behavior Analyzer (1497)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (466)](visualization-gui.md) · [Web Framework (448)](web-framework.md)
 
 ## C99
 
@@ -3892,9 +3892,9 @@ Records: `5157`
 | yi | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yi-3b78b64a.md) |
 | Z-Data | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-data-ad2a6ebb.md) |
 | Z-IO | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-io-e37841a7.md) |
-| zeolite-lang | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeolite-lang-121149cb.md) |
+| zeolite-lang | 0.24.1.0 | 2024-01-08T01:25:04Z | [open](../records/haskell-zeolite-lang-121149cb.md) |
 | zeromq4-haskell | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
-| zlib | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zlib-2a0db053.md) |
+| zlib | 0.7.1.1 | 2025-09-06T12:21:07Z | [open](../records/haskell-zlib-2a0db053.md) |
 | zoom-cache | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoom-cache-f1ef611e.md) |
 | zoovisitor | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoovisitor-25533034.md) |
 
@@ -4094,7 +4094,7 @@ Records: `5157`
 | codeberg.org/go-hep/hep.git | v0.27.0 | 2026-08-30T10:55:18.161122Z | [open](../records/go-codeberg-org-go-hep-hep-git-29878e71.md) |
 | codeberg.org/rimu/pyfedi | v1.6.9 | 2026-08-30T16:29:43.672078Z | [open](../records/go-codeberg-org-rimu-pyfedi-53519dff.md) |
 | CycloneDX/cyclonedx-gomod | partial | 2026-09-03T09:52:41Z | [open](../records/go-cyclonedx-cyclonedx-gomod-24572c1d.md) |
-| darius-khll/golang-developer-roadmap | partial | 2023-02-13T08:08:20Z | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
+| darius-khll/golang-developer-roadmap | unknown | not_a_go_module_path | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
 | gbrlsnchs/jwt | partial | 2026-02-20T19:55:17Z | [open](../records/go-gbrlsnchs-jwt-9cb26411.md) |
 | gethugothemes/hugo-modules | partial | 2026-07-01T05:48:56Z | [open](../records/go-gethugothemes-hugo-modules-1f48ce7f.md) |
 | git.scuroneko.dev/ScuroNeko/Laniakea | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-git-scuroneko-dev-scuroneko-laniakea-6c4ff9e7.md) |
@@ -4118,8 +4118,8 @@ Records: `5157`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-03T15:18:43Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
-| mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
+| Infisical/infisical | unknown | not_a_go_module_path | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| mustafaturan/bus | unknown | not_a_go_module_path | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
 | Narasimha1997/ratelimiter | partial | 2022-10-31T12:07:17Z | [open](../records/go-narasimha1997-ratelimiter-5630e795.md) |
@@ -4132,7 +4132,7 @@ Records: `5157`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-03T15:13:40Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | unknown | not_a_go_module_path | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -4142,6 +4142,60 @@ Records: `5157`
 | mujavidb/basiliskRobotsChallenge | partial | 2017-02-23T21:14:38Z | [open](../records/basilisk-mujavidb-basiliskrobotschallenge-3fb7aaec.md) |
 | parthib007/Basilisk_Works | partial | 2024-10-17T18:58:18Z | [open](../records/basilisk-parthib007-basilisk-works-f8a7fc3f.md) |
 | yliu-fort/ChannelFlowLES | partial | 2024-07-21T00:34:37Z | [open](../records/basilisk-yliu-fort-channelflowles-b3e98e9f.md) |
+
+## Icons and Logos
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| carbon-design-system/carbon-components-svelte | partial | 2026-09-03T12:41:32Z | [open](../records/icons-and-logos-carbon-design-system-carbon-components-svelte-dc62f85f.md) |
+| CarGuo/GSYRickText | partial | 2024-10-16T08:38:42Z | [open](../records/icons-and-logos-carguo-gsyricktext-5bae5568.md) |
+| cloudscape-design/components | partial | 2026-09-03T16:18:38Z | [open](../records/icons-and-logos-cloudscape-design-components-cecb3bdb.md) |
+| donnemartin/system-design-primer | partial | 2026-03-20T01:52:19Z | [open](../records/icons-and-logos-donnemartin-system-design-primer-c3e531c2.md) |
+| efremidze/Animoji | partial | 2025-05-30T23:54:58Z | [open](../records/icons-and-logos-efremidze-animoji-8a4557a5.md) |
+| enescakir/emoji | partial | 2024-06-24T12:47:36Z | [open](../records/icons-and-logos-enescakir-emoji-594df724.md) |
+| EvanZhouDev/open-genmoji | partial | 2025-01-05T00:25:59Z | [open](../records/icons-and-logos-evanzhoudev-open-genmoji-41e0e632.md) |
+| fdw/rofimoji | partial | 2026-08-29T10:34:23Z | [open](../records/icons-and-logos-fdw-rofimoji-9dd2f36a.md) |
+| getActivity/EmojiPackage | partial | 2022-03-02T06:32:36Z | [open](../records/icons-and-logos-getactivity-emojipackage-204bde27.md) |
+| hadley/emo | partial | 2019-12-13T22:57:01Z | [open](../records/icons-and-logos-hadley-emo-eb3e5371.md) |
+| hani-momanii/SuperNova-Emoji | partial | 2020-03-10T11:03:33Z | [open](../records/icons-and-logos-hani-momanii-supernova-emoji-75ea3c27.md) |
+| hfg-gmuend/openmoji | partial | 2026-08-12T09:57:57Z | [open](../records/icons-and-logos-hfg-gmuend-openmoji-10bd4a3b.md) |
+| ikatyang/emoji-cheat-sheet | partial | 2026-09-03T00:36:40Z | [open](../records/icons-and-logos-ikatyang-emoji-cheat-sheet-975e104a.md) |
+| itgalaxy/favicons | partial | 2026-08-11T11:18:30Z | [open](../records/icons-and-logos-itgalaxy-favicons-49cbe759.md) |
+| javierbyte/emoji-to-scale | partial | 2026-08-21T06:31:21Z | [open](../records/icons-and-logos-javierbyte-emoji-to-scale-43d9daf3.md) |
+| joaoeudes7/V-Emoji-Picker | partial | 2022-12-10T17:09:55Z | [open](../records/icons-and-logos-joaoeudes7-v-emoji-picker-45481c12.md) |
+| keith-turner/ecoji | partial | 2025-10-23T15:35:07Z | [open](../records/icons-and-logos-keith-turner-ecoji-f386d776.md) |
+| kreativekorp/bitsnpicas | partial | 2026-07-11T08:19:16Z | [open](../records/icons-and-logos-kreativekorp-bitsnpicas-3f6dde93.md) |
+| LayoutFarm/Typography | partial | 2023-09-18T03:48:55Z | [open](../records/icons-and-logos-layoutfarm-typography-13ecd9f3.md) |
+| liuchengxu/git-commit-emoji-cn | partial | 2021-07-06T01:42:45Z | [open](../records/icons-and-logos-liuchengxu-git-commit-emoji-cn-4cdb8a5b.md) |
+| lrhtony/BiliEmoji | partial | 2023-07-09T15:09:40Z | [open](../records/icons-and-logos-lrhtony-biliemoji-3cb74a37.md) |
+| material-components/material-web | partial | 2026-09-03T00:24:40Z | [open](../records/icons-and-logos-material-components-material-web-c4a93083.md) |
+| meetalva/alva | partial | 2022-06-24T23:01:00Z | [open](../records/icons-and-logos-meetalva-alva-04bfb41a.md) |
+| mijorus/smile | partial | 2026-04-22T14:41:18Z | [open](../records/icons-and-logos-mijorus-smile-3045ab57.md) |
+| missive/emoji-mart | partial | 2024-08-12T10:10:37Z | [open](../records/icons-and-logos-missive-emoji-mart-2951ab0c.md) |
+| muan/emoji | partial | 2023-10-05T00:09:04Z | [open](../records/icons-and-logos-muan-emoji-f47cf10b.md) |
+| muan/emoji-minesweeper | partial | 2022-09-10T19:33:26Z | [open](../records/icons-and-logos-muan-emoji-minesweeper-de749417.md) |
+| muan/emojilib | partial | 2026-05-08T21:38:30Z | [open](../records/icons-and-logos-muan-emojilib-99a2d5a3.md) |
+| nolanlawson/emoji-picker-element | partial | 2026-06-08T23:55:57Z | [open](../records/icons-and-logos-nolanlawson-emoji-picker-element-dff14331.md) |
+| omnidan/node-emoji | partial | 2025-02-07T08:30:10Z | [open](../records/icons-and-logos-omnidan-node-emoji-c15117fb.md) |
+| onmyway133/Smile | partial | 2021-11-29T19:44:39Z | [open](../records/icons-and-logos-onmyway133-smile-361db71a.md) |
+| peaceiris/emoji-ime-dictionary | partial | 2026-06-18T18:08:17Z | [open](../records/icons-and-logos-peaceiris-emoji-ime-dictionary-1f9c5412.md) |
+| pedronauck/docz | partial | 2025-11-21T04:28:57Z | [open](../records/icons-and-logos-pedronauck-docz-0ce0d83a.md) |
+| puncsky/system-design-and-architecture | partial | 2024-12-17T23:10:26Z | [open](../records/icons-and-logos-puncsky-system-design-and-architecture-e0161f85.md) |
+| pvdlg/conventional-commit-types | partial | 2017-08-27T05:04:06Z | [open](../records/icons-and-logos-pvdlg-conventional-commit-types-b82a0a26.md) |
+| rafaelfgx/Architecture | partial | 2026-08-18T11:57:31Z | [open](../records/icons-and-logos-rafaelfgx-architecture-8d1b9d69.md) |
+| ravenq/markdown-it-vue | partial | 2022-12-10T17:06:49Z | [open](../records/icons-and-logos-ravenq-markdown-it-vue-0c829c02.md) |
+| Rhodney/keepass-icons | partial | 2025-01-22T13:08:02Z | [open](../records/icons-and-logos-rhodney-keepass-icons-6f8b8c95.md) |
+| ritz078/embed-js | partial | 2022-07-07T03:40:45Z | [open](../records/icons-and-logos-ritz078-embed-js-cccdc1d7.md) |
+| scottwernervt/favicon | partial | 2023-12-05T17:36:37Z | [open](../records/icons-and-logos-scottwernervt-favicon-d48783e6.md) |
+| Shopify/polaris-react-archive | partial | 2026-08-11T07:11:56Z | [open](../records/icons-and-logos-shopify-polaris-react-archive-ce5a323c.md) |
+| shrugs/partyparrot | partial | 2020-07-16T20:33:30Z | [open](../records/icons-and-logos-shrugs-partyparrot-ace2c1bb.md) |
+| simonbs/SBSAnimoji | partial | 2022-05-06T14:01:08Z | [open](../records/icons-and-logos-simonbs-sbsanimoji-e7531e6c.md) |
+| sindresorhus/alfred-emoj | partial | 2022-03-16T11:29:39Z | [open](../records/icons-and-logos-sindresorhus-alfred-emoj-f8f85320.md) |
+| spatie/emoji | partial | 2026-05-30T21:28:28Z | [open](../records/icons-and-logos-spatie-emoji-aa0d8090.md) |
+| symbl-cc/symbl-data | partial | 2024-01-19T11:08:19Z | [open](../records/icons-and-logos-symbl-cc-symbl-data-e8cb08e3.md) |
+| TheWidlarzGroup/rn-emoji-keyboard | partial | 2024-05-09T15:51:57Z | [open](../records/icons-and-logos-thewidlarzgroup-rn-emoji-keyboard-1a83ef2e.md) |
+| twitter/twitter-text | partial | 2024-04-26T09:15:03Z | [open](../records/icons-and-logos-twitter-twitter-text-d5e9a728.md) |
+| Wscats/emoji | partial | 2026-03-31T16:00:37Z | [open](../records/icons-and-logos-wscats-emoji-d4386f73.md) |
 
 ## Font Briefcase
 
@@ -4153,11 +4207,14 @@ Records: `5157`
 | atelier-anchor/smiley-sans | partial | 2024-12-10T17:36:25Z | [open](../records/font-briefcase-atelier-anchor-smiley-sans-3ec5c5c2.md) |
 | basementstudio/basement-grotesque | partial | 2023-03-06T08:52:27Z | [open](../records/font-briefcase-basementstudio-basement-grotesque-7a34b601.md) |
 | be5invis/Sarasa-Gothic | partial | 2026-08-22T16:18:50Z | [open](../records/font-briefcase-be5invis-sarasa-gothic-70e61d36.md) |
+| beizhedenglong/weird-fonts | partial | 2019-05-22T13:30:26Z | [open](../records/font-briefcase-beizhedenglong-weird-fonts-57f42639.md) |
 | Buernia/Tiejili | partial | 2023-01-31T18:42:56Z | [open](../records/font-briefcase-buernia-tiejili-288f3a91.md) |
 | Buernia/Zhudou-Sans | partial | 2023-04-09T04:11:43Z | [open](../records/font-briefcase-buernia-zhudou-sans-50684820.md) |
 | calcom/sans | partial | 2026-09-01T23:02:23Z | [open](../records/font-briefcase-calcom-sans-1421e664.md) |
+| Chenyu-otf/chenyuluoyan_thin | partial | 2025-02-28T15:06:02Z | [open](../records/font-briefcase-chenyu-otf-chenyuluoyan-thin-6aa77745.md) |
 | chiron-fonts/chiron-sung-hk | partial | 2026-02-15T09:30:30Z | [open](../records/font-briefcase-chiron-fonts-chiron-sung-hk-8c8e7331.md) |
 | chrissimpkins/codeface | partial | 2020-09-19T17:07:57Z | [open](../records/font-briefcase-chrissimpkins-codeface-8746bc77.md) |
+| coollabsio/fonts | partial | 2026-01-16T18:37:01Z | [open](../records/font-briefcase-coollabsio-fonts-0cf30f66.md) |
 | Corne2Plum3/Giphurs | partial | 2026-08-30T16:09:50Z | [open](../records/font-briefcase-corne2plum3-giphurs-fc759076.md) |
 | ctrlcctrlv/TT2020 | partial | 2023-01-07T20:59:48Z | [open](../records/font-briefcase-ctrlcctrlv-tt2020-8786d3b6.md) |
 | cyrealtype/Lora-Cyrillic | partial | 2026-03-15T03:47:01Z | [open](../records/font-briefcase-cyrealtype-lora-cyrillic-6e3e3ca5.md) |
@@ -4165,44 +4222,66 @@ Records: `5157`
 | djrrb/Bungee | partial | 2026-02-01T15:17:57Z | [open](../records/font-briefcase-djrrb-bungee-5e20a7c2.md) |
 | dy/wavefont | partial | 2026-07-28T03:04:10Z | [open](../records/font-briefcase-dy-wavefont-14e01cd7.md) |
 | eigilnikolajsen/commit-mono | partial | 2025-09-24T12:10:17Z | [open](../records/font-briefcase-eigilnikolajsen-commit-mono-b2244e11.md) |
+| expo/google-fonts | partial | 2026-09-02T23:39:16Z | [open](../records/font-briefcase-expo-google-fonts-5303266a.md) |
 | femmebot/google-type | partial | 2026-06-02T21:25:13Z | [open](../records/font-briefcase-femmebot-google-type-3cac29e2.md) |
+| Figma-Linux/figma-linux-font-helper | partial | 2024-03-06T14:28:49Z | [open](../records/font-briefcase-figma-linux-figma-linux-font-helper-27124cce.md) |
 | Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project | partial | 2026-08-05T12:41:45Z | [open](../records/font-briefcase-fitzgerald-porthmouth-koenigsegg-plangothic-project-502833e0.md) |
 | floriankarsten/space-grotesk | partial | 2023-03-12T21:23:44Z | [open](../records/font-briefcase-floriankarsten-space-grotesk-5a1fe2d6.md) |
 | FontManager/font-manager | partial | 2025-09-24T15:51:58Z | [open](../records/font-briefcase-fontmanager-font-manager-c450551a.md) |
+| fonttools/fonttools | partial | 2026-09-02T13:54:23Z | [open](../records/font-briefcase-fonttools-fonttools-d2c7a573.md) |
 | fontwr/fontwr | partial | 2020-10-30T09:21:26Z | [open](../records/font-briefcase-fontwr-fontwr-85b28f4b.md) |
 | funbox/beatrix | partial | 2023-07-19T02:40:51Z | [open](../records/font-briefcase-funbox-beatrix-c56c8bc4.md) |
+| Gaafar/dev-fonts | partial | 2023-01-06T03:07:36Z | [open](../records/font-briefcase-gaafar-dev-fonts-f0a8c10d.md) |
+| googlefonts/gftools | partial | 2026-09-01T11:33:41Z | [open](../records/font-briefcase-googlefonts-gftools-094415d2.md) |
 | Happyesss/assignme | partial | 2025-07-02T21:07:56Z | [open](../records/font-briefcase-happyesss-assignme-58c3230f.md) |
 | hckiang/font-new-heterodox-mono | partial | 2024-01-12T13:33:18Z | [open](../records/font-briefcase-hckiang-font-new-heterodox-mono-27da0bc9.md) |
+| hypernewbie/VEFontCache | partial | 2026-05-28T07:42:18Z | [open](../records/font-briefcase-hypernewbie-vefontcache-305bec56.md) |
 | IBM/plex | partial | 2026-07-30T11:29:25Z | [open](../records/font-briefcase-ibm-plex-5afb693e.md) |
 | IdreesInc/Miracode | partial | 2025-08-05T21:13:43Z | [open](../records/font-briefcase-idreesinc-miracode-1fe45254.md) |
+| ilikerobots/polyicon | partial | 2022-12-06T03:03:00Z | [open](../records/font-briefcase-ilikerobots-polyicon-c90f638b.md) |
 | ivodolenc/aspekta | partial | 2025-05-09T11:00:55Z | [open](../records/font-briefcase-ivodolenc-aspekta-914a7883.md) |
+| jaywcjlove/svgtofont | partial | 2026-06-30T15:00:36Z | [open](../records/font-briefcase-jaywcjlove-svgtofont-fef8a786.md) |
 | johnkil/Print | partial | 2018-02-28T06:13:42Z | [open](../records/font-briefcase-johnkil-print-63ab56e0.md) |
+| jonathonf/solbera-dnd-fonts | partial | 2023-02-27T08:51:48Z | [open](../records/font-briefcase-jonathonf-solbera-dnd-fonts-a3808189.md) |
 | jsamr/react-native-font-demo | partial | 2025-12-09T16:09:03Z | [open](../records/font-briefcase-jsamr-react-native-font-demo-109a75ab.md) |
 | kaspernordkvist/uncut_sans | partial | 2024-09-24T07:11:15Z | [open](../records/font-briefcase-kaspernordkvist-uncut-sans-b4ed4d00.md) |
 | klepas/open-baskerville | partial | 2022-08-12T16:08:49Z | [open](../records/font-briefcase-klepas-open-baskerville-610cba9e.md) |
 | kmbzn/project-winemoji | partial | 2026-07-09T09:34:02Z | [open](../records/font-briefcase-kmbzn-project-winemoji-a0189ad9.md) |
+| kreativekorp/bitsnpicas | partial | 2026-07-11T08:19:16Z | [open](../records/font-briefcase-kreativekorp-bitsnpicas-11f0ed77.md) |
 | lauridskern/open-runde | partial | 2026-07-25T15:28:04Z | [open](../records/font-briefcase-lauridskern-open-runde-2125fa21.md) |
 | LayoutFarm/Typography | partial | 2023-09-18T03:48:55Z | [open](../records/font-briefcase-layoutfarm-typography-f533ba37.md) |
 | lxgw/LxgwMarkerGothic | partial | 2026-07-13T17:27:20Z | [open](../records/font-briefcase-lxgw-lxgwmarkergothic-1ff98c2d.md) |
 | lxgw/LxgwNeoXiHei | partial | 2026-08-20T16:02:16Z | [open](../records/font-briefcase-lxgw-lxgwneoxihei-5b3493e9.md) |
 | lxgw/LxgwNeoZhiSong | partial | 2026-08-20T16:04:17Z | [open](../records/font-briefcase-lxgw-lxgwneozhisong-bdf4b5e1.md) |
+| mngshm/rxfetch | partial | 2025-07-25T14:39:44Z | [open](../records/font-briefcase-mngshm-rxfetch-10704434.md) |
+| morgan3d/quadplay | partial | 2026-08-09T17:28:17Z | [open](../records/font-briefcase-morgan3d-quadplay-33856b76.md) |
 | nicoverbruggen/kobo-font-fix | partial | 2026-07-16T19:16:58Z | [open](../records/font-briefcase-nicoverbruggen-kobo-font-fix-2c1a2956.md) |
 | noirblancrouge/Formera | partial | 2025-02-14T21:13:42Z | [open](../records/font-briefcase-noirblancrouge-formera-7d19b65e.md) |
 | noirblancrouge/YoungSerif | partial | 2026-05-19T12:03:20Z | [open](../records/font-briefcase-noirblancrouge-youngserif-015c3a48.md) |
+| nuxt-modules/google-fonts | partial | 2026-09-03T08:49:36Z | [open](../records/font-briefcase-nuxt-modules-google-fonts-44d6d736.md) |
 | ollimeier/font-tools-page | partial | 2026-02-21T14:32:21Z | [open](../records/font-briefcase-ollimeier-font-tools-page-f6a26bf1.md) |
 | paprikka/433 | partial | 2025-07-24T18:05:37Z | [open](../records/font-briefcase-paprikka-433-da2a9760.md) |
 | Partyb0ssishere/cef-fonts-cjk | partial | 2026-02-16T12:10:14Z | [open](../records/font-briefcase-partyb0ssishere-cef-fonts-cjk-474c5d7c.md) |
 | RandomMaerks/Overused-Grotesk | partial | 2026-03-28T12:17:24Z | [open](../records/font-briefcase-randommaerks-overused-grotesk-d6622b28.md) |
+| ranesr/SwiftIcons | partial | 2023-11-05T10:53:17Z | [open](../records/font-briefcase-ranesr-swifticons-27a91c37.md) |
+| raymond-w-ko/creep2 | partial | 2021-03-25T15:48:52Z | [open](../records/font-briefcase-raymond-w-ko-creep2-6960b049.md) |
 | RobertWinslow/Simple-SVG-to-Font-with-Fontforge | partial | 2024-07-06T21:17:51Z | [open](../records/font-briefcase-robertwinslow-simple-svg-to-font-with-fontforge-83b859d4.md) |
+| robhagemans/hoard-of-bitfonts | partial | 2026-08-16T15:47:28Z | [open](../records/font-briefcase-robhagemans-hoard-of-bitfonts-14acb971.md) |
 | rolandbernard/roland-font | partial | 2021-07-10T13:03:29Z | [open](../records/font-briefcase-rolandbernard-roland-font-b00e5216.md) |
 | rsms/inter | partial | 2024-11-19T03:16:13Z | [open](../records/font-briefcase-rsms-inter-116ffabd.md) |
+| sdushantha/fontpreview | partial | 2024-06-29T13:03:07Z | [open](../records/font-briefcase-sdushantha-fontpreview-9d2a7b8d.md) |
 | shoorick/russian-road-sign-font | partial | 2023-06-18T00:59:29Z | [open](../records/font-briefcase-shoorick-russian-road-sign-font-e65be8bf.md) |
 | somefreefonts/helmet | partial | 2019-10-04T15:44:05Z | [open](../records/font-briefcase-somefreefonts-helmet-0d83c8c9.md) |
 | somefreefonts/techna-sans | partial | 2019-08-19T23:09:49Z | [open](../records/font-briefcase-somefreefonts-techna-sans-69e3191a.md) |
 | sora-xor/sora-font | partial | 2024-05-01T12:50:06Z | [open](../records/font-briefcase-sora-xor-sora-font-b4b878c4.md) |
 | source-foundry/Hack | partial | 2022-11-21T18:05:33Z | [open](../records/font-briefcase-source-foundry-hack-1aacebbd.md) |
+| spoqa/spoqa-han-sans | partial | 2022-06-15T08:19:05Z | [open](../records/font-briefcase-spoqa-spoqa-han-sans-3be8fd8b.md) |
 | supercomputra/SF-Mono-Font | partial | 2018-06-07T18:21:45Z | [open](../records/font-briefcase-supercomputra-sf-mono-font-56afb0d0.md) |
 | SyrianTurk/SyrianSegoe | partial | 2026-06-10T18:32:46Z | [open](../records/font-briefcase-syrianturk-syriansegoe-b1dcd551.md) |
+| system-fonts/modern-font-stacks | partial | 2026-03-10T21:21:49Z | [open](../records/font-briefcase-system-fonts-modern-font-stacks-8131abcb.md) |
+| takushun-wu/WenJinMincho | partial | 2026-08-21T05:37:59Z | [open](../records/font-briefcase-takushun-wu-wenjinmincho-e7aa351c.md) |
+| TakWolf/ark-pixel-font | partial | 2026-09-02T12:02:50Z | [open](../records/font-briefcase-takwolf-ark-pixel-font-366f363d.md) |
+| TakWolf/fusion-pixel-font | partial | 2026-09-02T12:03:37Z | [open](../records/font-briefcase-takwolf-fusion-pixel-font-792cc8c5.md) |
 | tam5/util-font-patcher | partial | 2024-12-04T00:35:48Z | [open](../records/font-briefcase-tam5-util-font-patcher-af4460a5.md) |
 | thedemons/merge_color_emoji_font | partial | 2022-02-01T11:19:33Z | [open](../records/font-briefcase-thedemons-merge-color-emoji-font-8382491f.md) |
 | thi-ng/font | partial | 2026-05-29T15:11:16Z | [open](../records/font-briefcase-thi-ng-font-e81e8165.md) |
@@ -4214,6 +4293,7 @@ Records: `5157`
 | yamatoiizuka/gen-interface-jp | partial | 2026-07-23T01:54:13Z | [open](../records/font-briefcase-yamatoiizuka-gen-interface-jp-168d2d6b.md) |
 | yashlamba/handwrite | partial | 2026-08-28T13:57:29Z | [open](../records/font-briefcase-yashlamba-handwrite-49376228.md) |
 | zenbones-theme/zenbones-mono | partial | 2026-03-03T07:17:46Z | [open](../records/font-briefcase-zenbones-theme-zenbones-mono-e6a04ff3.md) |
+| ZWolken/PingFang | partial | 2024-07-02T01:40:32Z | [open](../records/font-briefcase-zwolken-pingfang-9699fa00.md) |
 
 ## Assets
 
@@ -4230,14 +4310,14 @@ Records: `5157`
 | chrissimpkins/codeface | partial | 2020-09-19T17:07:57Z | [open](../records/assets-chrissimpkins-codeface-3d2581d5.md) |
 | coollabsio/fonts | partial | 2026-01-16T18:37:01Z | [open](../records/assets-coollabsio-fonts-296495e3.md) |
 | DataGerry/DataGerry | partial | 2026-09-02T10:56:09Z | [open](../records/assets-datagerry-datagerry-dd6aa820.md) |
-| edmozley/freeitsm | partial | 2026-09-01T23:48:45Z | [open](../records/assets-edmozley-freeitsm-6938af39.md) |
+| edmozley/freeitsm | partial | 2026-09-02T23:23:00Z | [open](../records/assets-edmozley-freeitsm-6938af39.md) |
 | EliteQuant/EliteQuant | partial | 2024-06-15T16:17:39Z | [open](../records/assets-elitequant-elitequant-ccb04f35.md) |
 | expo/google-fonts | partial | 2026-08-26T16:18:22Z | [open](../records/assets-expo-google-fonts-27084e7a.md) |
 | Figma-Linux/figma-linux-font-helper | partial | 2024-03-06T14:28:49Z | [open](../records/assets-figma-linux-figma-linux-font-helper-926a2b9d.md) |
 | Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project | partial | 2026-08-05T12:41:45Z | [open](../records/assets-fitzgerald-porthmouth-koenigsegg-plangothic-project-5165c4c3.md) |
 | FontManager/font-manager | partial | 2025-09-24T15:51:58Z | [open](../records/assets-fontmanager-font-manager-b4a35494.md) |
 | fonttools/fonttools | partial | 2026-08-31T15:10:05Z | [open](../records/assets-fonttools-fonttools-a4b5432b.md) |
-| frappe/erpnext | partial | 2026-09-02T16:01:29Z | [open](../records/assets-frappe-erpnext-d9e1ae16.md) |
+| frappe/erpnext | partial | 2026-09-03T10:29:53Z | [open](../records/assets-frappe-erpnext-d9e1ae16.md) |
 | Gaafar/dev-fonts | partial | 2023-01-06T03:07:36Z | [open](../records/assets-gaafar-dev-fonts-6d11b6eb.md) |
 | googlefonts/gftools | partial | 2026-09-01T11:33:41Z | [open](../records/assets-googlefonts-gftools-a07fff0e.md) |
 | hiqdev/asset-packagist | partial | 2026-09-01T12:10:46Z | [open](../records/assets-hiqdev-asset-packagist-ef04a544.md) |
@@ -4250,7 +4330,7 @@ Records: `5157`
 | kindlyops/havengrc | partial | 2021-06-14T20:01:54Z | [open](../records/assets-kindlyops-havengrc-3cabc9b4.md) |
 | kreativekorp/bitsnpicas | partial | 2026-07-11T08:19:16Z | [open](../records/assets-kreativekorp-bitsnpicas-684fd881.md) |
 | levinzonr/godot-asset-placer | partial | 2026-08-25T20:19:53Z | [open](../records/assets-levinzonr-godot-asset-placer-8d39dc8a.md) |
-| marcelscruz/dev-resources | partial | 2026-09-02T15:54:34Z | [open](../records/assets-marcelscruz-dev-resources-f1007139.md) |
+| marcelscruz/dev-resources | partial | 2026-09-03T10:07:27Z | [open](../records/assets-marcelscruz-dev-resources-f1007139.md) |
 | mngshm/rxfetch | partial | 2025-07-25T14:39:44Z | [open](../records/assets-mngshm-rxfetch-4c26ed0b.md) |
 | morgan3d/quadplay | partial | 2026-08-09T17:28:17Z | [open](../records/assets-morgan3d-quadplay-717f54c6.md) |
 | myssal/Reverse-1999-CN-Asset | partial | 2026-08-15T03:41:50Z | [open](../records/assets-myssal-reverse-1999-cn-asset-e867fc60.md) |
@@ -4297,11 +4377,11 @@ Records: `5157`
 | b-g/tilehut | partial | 2023-03-01T17:12:34Z | [open](../records/maps-b-g-tilehut-3bfb5ef3.md) |
 | benjamintd/benmaps.fr | partial | 2023-10-19T06:42:40Z | [open](../records/maps-benjamintd-benmaps-fr-83f6558a.md) |
 | beyonk/svelte-mapbox | partial | 2026-08-01T01:32:40Z | [open](../records/maps-beyonk-svelte-mapbox-83bbf675.md) |
-| bilawalsidhu/gods-eye-view | partial | 2026-09-01T19:42:55Z | [open](../records/maps-bilawalsidhu-gods-eye-view-28a2a7af.md) |
+| bilawalsidhu/gods-eye-view | partial | 2026-09-02T23:29:02Z | [open](../records/maps-bilawalsidhu-gods-eye-view-28a2a7af.md) |
 | bitlap/geocoding | partial | 2025-07-23T16:20:19Z | [open](../records/maps-bitlap-geocoding-44bdf0ae.md) |
 | bizz84/nested-navigation-demo-flutter | partial | 2023-01-11T17:32:58Z | [open](../records/maps-bizz84-nested-navigation-demo-flutter-a397d085.md) |
 | bmwcarit/barefoot | partial | 2023-04-14T17:11:38Z | [open](../records/maps-bmwcarit-barefoot-66146078.md) |
-| CesiumGS/cesium | partial | 2026-09-02T19:03:40Z | [open](../records/maps-cesiumgs-cesium-03600c9a.md) |
+| CesiumGS/cesium | partial | 2026-09-03T16:15:17Z | [open](../records/maps-cesiumgs-cesium-03600c9a.md) |
 | codezero-be/laravel-localized-routes | partial | 2024-03-17T22:44:54Z | [open](../records/maps-codezero-be-laravel-localized-routes-62cd131a.md) |
 | danielemoraschi/maplace.js | partial | 2020-05-25T22:54:13Z | [open](../records/maps-danielemoraschi-maplace-js-5adb914c.md) |
 | der-stefan/OpenTopoMap | partial | 2026-01-29T22:24:26Z | [open](../records/maps-der-stefan-opentopomap-d1828225.md) |
@@ -4330,7 +4410,7 @@ Records: `5157`
 | luka1199/geo-heatmap | partial | 2024-08-17T16:08:23Z | [open](../records/maps-luka1199-geo-heatmap-7b04caf6.md) |
 | lukepighetti/fluro | partial | 2023-03-22T17:54:12Z | [open](../records/maps-lukepighetti-fluro-c809970d.md) |
 | luxiaoxun/MapDownloader | unknown | github_search_does_not_include_release_date | [open](../records/maps-luxiaoxun-mapdownloader-0e853bb6.md) |
-| mapbox/mapbox-gl-js | partial | 2026-09-01T14:40:34Z | [open](../records/maps-mapbox-mapbox-gl-js-a55c74cd.md) |
+| mapbox/mapbox-gl-js | partial | 2026-09-03T14:57:02Z | [open](../records/maps-mapbox-mapbox-gl-js-a55c74cd.md) |
 | mapbox/mapbox-gl-native-android | partial | 2023-08-21T13:46:32Z | [open](../records/maps-mapbox-mapbox-gl-native-android-470f3419.md) |
 | mapbox/vector-tile-base | partial | 2026-06-29T15:24:36Z | [open](../records/maps-mapbox-vector-tile-base-57a453db.md) |
 | maplibre/maplibre-gl-geocoder | partial | 2026-09-02T19:57:47Z | [open](../records/maps-maplibre-maplibre-gl-geocoder-938c4f88.md) |
@@ -4344,8 +4424,8 @@ Records: `5157`
 | mousebird-consulting-inc/WhirlyGlobe | partial | 2026-07-31T00:23:58Z | [open](../records/maps-mousebird-consulting-inc-whirlyglobe-3130b66b.md) |
 | nuxt-modules/i18n | partial | 2026-09-02T04:27:00Z | [open](../records/maps-nuxt-modules-i18n-79eea90d.md) |
 | olutter/map | partial | 2026-08-16T14:48:12Z | [open](../records/maps-olutter-map-b3100e59.md) |
-| opengisch/QField | partial | 2026-09-02T16:20:32Z | [open](../records/maps-opengisch-qfield-f04d9b83.md) |
-| openlayers/openlayers | partial | 2026-08-29T10:33:38Z | [open](../records/maps-openlayers-openlayers-6d483e33.md) |
+| opengisch/QField | partial | 2026-09-03T01:38:14Z | [open](../records/maps-opengisch-qfield-f04d9b83.md) |
+| openlayers/openlayers | partial | 2026-09-03T14:58:17Z | [open](../records/maps-openlayers-openlayers-6d483e33.md) |
 | openmaptiles/openmaptiles | partial | 2026-07-29T12:19:41Z | [open](../records/maps-openmaptiles-openmaptiles-8add1ab5.md) |
 | openstreetmap/merkaartor | partial | 2026-06-19T20:27:06Z | [open](../records/maps-openstreetmap-merkaartor-0547b0b6.md) |
 | paulmach/orb | partial | 2026-03-30T15:51:22Z | [open](../records/maps-paulmach-orb-8e561523.md) |
@@ -4396,12 +4476,12 @@ Records: `5157`
 | jonnyhyman/PyBurn | partial | 2017-09-26T21:09:32Z | [open](../records/space-engines-jonnyhyman-pyburn-6c49c451.md) |
 | kyleniemeyer/gas-dynamics-notes | partial | 2026-07-29T22:00:09Z | [open](../records/space-engines-kyleniemeyer-gas-dynamics-notes-88f66440.md) |
 | kyleniemeyer/rocket-propulsion | partial | 2026-07-29T17:41:03Z | [open](../records/space-engines-kyleniemeyer-rocket-propulsion-880f0ccd.md) |
-| LoicViennois/KSP-DeltaV-Planner | partial | 2026-09-02T17:45:21Z | [open](../records/space-engines-loicviennois-ksp-deltav-planner-2a9f4275.md) |
+| LoicViennois/KSP-DeltaV-Planner | partial | 2026-09-03T14:16:14Z | [open](../records/space-engines-loicviennois-ksp-deltav-planner-2a9f4275.md) |
 | nmisyats/KSP-MGA-Planner | partial | 2026-06-08T16:41:24Z | [open](../records/space-engines-nmisyats-ksp-mga-planner-5c02c9bb.md) |
 | podgorskiy/KeplerOrbits | partial | 2023-04-02T23:28:28Z | [open](../records/space-engines-podgorskiy-keplerorbits-bce5842d.md) |
 | RocketPy-Team/RocketPy | partial | 2026-08-24T20:24:28Z | [open](../records/space-engines-rocketpy-team-rocketpy-dc6ba7fb.md) |
 | usuaero/PyProp | partial | 2021-06-21T16:46:34Z | [open](../records/space-engines-usuaero-pyprop-cf41d1df.md) |
-| wedesoft/sfsim | partial | 2026-09-02T22:38:04Z | [open](../records/space-engines-wedesoft-sfsim-99e126c8.md) |
+| wedesoft/sfsim | partial | 2026-09-03T07:22:51Z | [open](../records/space-engines-wedesoft-sfsim-99e126c8.md) |
 
 ## Space Shuttles
 
@@ -4823,7 +4903,7 @@ Records: `5157`
 | robamu-org/tmtccmd | partial | 2026-01-14T11:22:06Z | [open](../records/satcom-satellites-robamu-org-tmtccmd-8aded257.md) |
 | robintw/Py6S | partial | 2025-10-22T23:09:34Z | [open](../records/satcom-satellites-robintw-py6s-607064f7.md) |
 | rt-bishop/Look4Sat | partial | 2026-09-03T07:40:26Z | [open](../records/satcom-satellites-rt-bishop-look4sat-0d14c7cd.md) |
-| SatDump/SatDump | partial | 2026-09-03T12:03:28Z | [open](../records/satcom-satellites-satdump-satdump-2cfd412f.md) |
+| SatDump/SatDump | partial | 2026-09-03T15:41:28Z | [open](../records/satcom-satellites-satdump-satdump-2cfd412f.md) |
 | TLeconte/acarsdec | partial | 2025-07-31T10:36:21Z | [open](../records/satcom-satellites-tleconte-acarsdec-9333c48e.md) |
 | trishmapow/rf-jam-replay | partial | 2019-06-10T22:09:28Z | [open](../records/satcom-satellites-trishmapow-rf-jam-replay-654ac757.md) |
 | TrunkRecorder/trunk-recorder | partial | 2026-09-01T12:59:38Z | [open](../records/satcom-satellites-trunkrecorder-trunk-recorder-7832a301.md) |
@@ -4844,18 +4924,18 @@ Records: `5157`
 | codyd51/gypsum | partial | 2024-04-15T17:30:55Z | [open](../records/electromagnetoscopes-codyd51-gypsum-e23d7a76.md) |
 | daniestevez/gr-satellites | partial | 2026-08-20T06:26:31Z | [open](../records/electromagnetoscopes-daniestevez-gr-satellites-11887e4d.md) |
 | dslotter/HamPi | partial | 2024-04-17T07:14:11Z | [open](../records/electromagnetoscopes-dslotter-hampi-80a99ee9.md) |
-| EdgeTX/edgetx | partial | 2026-09-03T04:02:35Z | [open](../records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) |
+| EdgeTX/edgetx | partial | 2026-09-03T06:54:49Z | [open](../records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) |
 | eldraco/Salamandra | partial | 2021-01-11T15:40:06Z | [open](../records/electromagnetoscopes-eldraco-salamandra-ba7bbc86.md) |
-| fanmingming/live | partial | 2026-09-03T03:25:48Z | [open](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
-| fooyin/fooyin | partial | 2026-09-03T00:09:10Z | [open](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) |
+| fanmingming/live | partial | 2026-09-03T14:28:48Z | [open](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
+| fooyin/fooyin | partial | 2026-09-03T07:22:50Z | [open](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) |
 | git-artes/gr-tempest | partial | 2025-02-10T16:57:09Z | [open](../records/electromagnetoscopes-git-artes-gr-tempest-b9f52116.md) |
 | gnss-sdr/gnss-sdr | partial | 2026-09-01T21:10:19Z | [open](../records/electromagnetoscopes-gnss-sdr-gnss-sdr-1128bbcc.md) |
 | gnuradio/volk | partial | 2026-08-25T19:50:57Z | [open](../records/electromagnetoscopes-gnuradio-volk-04fc44e6.md) |
 | gqrx-sdr/gqrx | partial | 2026-08-06T20:55:38Z | [open](../records/electromagnetoscopes-gqrx-sdr-gqrx-a55e0296.md) |
 | ha7ilm/openwebrx | partial | 2024-06-16T14:28:22Z | [open](../records/electromagnetoscopes-ha7ilm-openwebrx-617a3b05.md) |
 | jks-prv/Beagle_SDR_GPS | partial | 2024-12-03T02:40:57Z | [open](../records/electromagnetoscopes-jks-prv-beagle-sdr-gps-fd8f8388.md) |
-| junguler/m3u-radio-music-playlists | partial | 2026-08-23T22:44:12Z | [open](../records/electromagnetoscopes-junguler-m3u-radio-music-playlists-309a3992.md) |
-| Kopuz-org/kopuz | partial | 2026-09-01T17:06:06Z | [open](../records/electromagnetoscopes-kopuz-org-kopuz-a5fa7420.md) |
+| junguler/m3u-radio-music-playlists | partial | 2026-09-03T09:37:39Z | [open](../records/electromagnetoscopes-junguler-m3u-radio-music-playlists-309a3992.md) |
+| Kopuz-org/kopuz | partial | 2026-09-03T15:00:43Z | [open](../records/electromagnetoscopes-kopuz-org-kopuz-a5fa7420.md) |
 | markqvist/RNode_Firmware | partial | 2026-04-24T10:26:45Z | [open](../records/electromagnetoscopes-markqvist-rnode-firmware-6437b772.md) |
 | mgp25/OpenLTE | partial | 2021-02-21T19:34:29Z | [open](../records/electromagnetoscopes-mgp25-openlte-fd84bffb.md) |
 | muccc/gr-iridium | partial | 2026-07-02T09:26:47Z | [open](../records/electromagnetoscopes-muccc-gr-iridium-826df89e.md) |
@@ -4864,8 +4944,8 @@ Records: `5157`
 | pavel-demin/red-pitaya-notes | partial | 2026-08-29T19:11:52Z | [open](../records/electromagnetoscopes-pavel-demin-red-pitaya-notes-00d5e113.md) |
 | pbkhrv/rtl_433-hass-addons | partial | 2026-06-26T12:07:44Z | [open](../records/electromagnetoscopes-pbkhrv-rtl-433-hass-addons-cc86361b.md) |
 | portapack-mayhem/mayhem-firmware | partial | 2026-09-03T00:29:28Z | [open](../records/electromagnetoscopes-portapack-mayhem-mayhem-firmware-cb62b83c.md) |
-| rt-bishop/Look4Sat | partial | 2026-09-02T14:35:03Z | [open](../records/electromagnetoscopes-rt-bishop-look4sat-dfffa481.md) |
-| SatDump/SatDump | partial | 2026-09-02T19:56:24Z | [open](../records/electromagnetoscopes-satdump-satdump-fdc13054.md) |
+| rt-bishop/Look4Sat | partial | 2026-09-03T07:40:26Z | [open](../records/electromagnetoscopes-rt-bishop-look4sat-dfffa481.md) |
+| SatDump/SatDump | partial | 2026-09-03T15:41:28Z | [open](../records/electromagnetoscopes-satdump-satdump-fdc13054.md) |
 | segler-alex/RadioDroid | partial | 2024-06-26T20:46:45Z | [open](../records/electromagnetoscopes-segler-alex-radiodroid-e99cfdba.md) |
 | simpeg/simpeg | partial | 2026-08-31T16:05:18Z | [open](../records/electromagnetoscopes-simpeg-simpeg-90f40ef7.md) |
 | TLeconte/acarsdec | partial | 2025-07-31T10:36:21Z | [open](../records/electromagnetoscopes-tleconte-acarsdec-cdab05ad.md) |

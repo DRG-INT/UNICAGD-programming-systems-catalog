@@ -1,6 +1,6 @@
 # Cocoa
 
-Records: `258`
+Records: `348`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `258`
 
 ## Category Index
 
-[Api Abi Checker (203)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (44)](../by-category/assertion-mocking.md) · [Async Runtime (134)](../by-category/async-runtime.md)
-[Benchmarking (164)](../by-category/benchmarking.md) · [Build System (885)](../by-category/build-system.md) · [Cli (528)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (92)](../by-category/community-reference.md) · [Compiler (174)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (46)](../by-category/compression.md)
-[Concurrency Parallelism (78)](../by-category/concurrency-parallelism.md) · [Configuration (108)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (162)](../by-category/cryptography.md) · [Data Science (35)](../by-category/data-science.md) · [Database Datastore (831)](../by-category/database-datastore.md) · [Datetime (180)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (91)](../by-category/dependency-manager.md) · [Documentation (96)](../by-category/documentation.md)
-[Embedded Hardware (54)](../by-category/embedded-hardware.md) · [Ffi Bindings (402)](../by-category/ffi-bindings.md) · [Filesystem Os (1343)](../by-category/filesystem-os.md) · [Formatter (591)](../by-category/formatter.md)
-[Framework (53)](../by-category/framework.md) · [Fuzzer (53)](../by-category/fuzzer.md) · [Game Engine Game Dev (168)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1291)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (356)](../by-category/image-audio-dsp.md) · [Interop Bindings (57)](../by-category/interop-bindings.md) · [Interpreter Runtime (247)](../by-category/interpreter-runtime.md) · [Jit Vm (59)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1274)](../by-category/language-specification.md) · [Library (5157)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (477)](../by-category/logging-observability.md) · [Machine Learning (637)](../by-category/machine-learning.md)
-[Math Numeric Scientific (83)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (36)](../by-category/message-broker.md) · [Networking Http (957)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (409)](../by-category/package-manager.md) · [Parser Lexer Ast (994)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (275)](../by-category/precommit-ci-quality.md)
-[Profiler (79)](../by-category/profiler.md) · [Project Scaffolding (128)](../by-category/project-scaffolding.md) · [Registry Repository (108)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
-[Security Sast (332)](../by-category/security-sast.md) · [Serialization (377)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (489)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (516)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (54)](../by-category/tutorial-book-styleguide.md) · [Type Checker (297)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1487)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](../by-category/utility-library.md) · [Visualization Gui (452)](../by-category/visualization-gui.md) · [Web Framework (447)](../by-category/web-framework.md)
+[Api Abi Checker (204)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (44)](../by-category/assertion-mocking.md) · [Async Runtime (134)](../by-category/async-runtime.md)
+[Benchmarking (165)](../by-category/benchmarking.md) · [Build System (903)](../by-category/build-system.md) · [Cli (534)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (97)](../by-category/community-reference.md) · [Compiler (174)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (46)](../by-category/compression.md)
+[Concurrency Parallelism (78)](../by-category/concurrency-parallelism.md) · [Configuration (113)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
+[Cryptography (162)](../by-category/cryptography.md) · [Data Science (35)](../by-category/data-science.md) · [Database Datastore (832)](../by-category/database-datastore.md) · [Datetime (180)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (92)](../by-category/dependency-manager.md) · [Documentation (96)](../by-category/documentation.md)
+[Embedded Hardware (54)](../by-category/embedded-hardware.md) · [Ffi Bindings (402)](../by-category/ffi-bindings.md) · [Filesystem Os (1371)](../by-category/filesystem-os.md) · [Formatter (598)](../by-category/formatter.md)
+[Framework (54)](../by-category/framework.md) · [Fuzzer (53)](../by-category/fuzzer.md) · [Game Engine Game Dev (169)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1304)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (356)](../by-category/image-audio-dsp.md) · [Interop Bindings (57)](../by-category/interop-bindings.md) · [Interpreter Runtime (250)](../by-category/interpreter-runtime.md) · [Jit Vm (60)](../by-category/jit-vm.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1373)](../by-category/language-specification.md) · [Library (5232)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (481)](../by-category/logging-observability.md) · [Machine Learning (643)](../by-category/machine-learning.md)
+[Math Numeric Scientific (83)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (36)](../by-category/message-broker.md) · [Networking Http (963)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (411)](../by-category/package-manager.md) · [Parser Lexer Ast (998)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (278)](../by-category/precommit-ci-quality.md)
+[Profiler (79)](../by-category/profiler.md) · [Project Scaffolding (130)](../by-category/project-scaffolding.md) · [Registry Repository (108)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
+[Security Sast (333)](../by-category/security-sast.md) · [Serialization (378)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (490)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (518)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (56)](../by-category/tutorial-book-styleguide.md) · [Type Checker (297)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1497)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](../by-category/utility-library.md) · [Visualization Gui (466)](../by-category/visualization-gui.md) · [Web Framework (448)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -265,17 +265,107 @@ Records: `258`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [AFNetworking/AFNetworking](../records/cocoa-afnetworking-afnetworking-b2e7cf91.md) | partial | 2023-01-17T19:30:05Z | registry-derived |
-| [BradLarson/GPUImage](../records/cocoa-bradlarson-gpuimage-287e066a.md) | partial | 2024-02-16T22:29:30Z | registry-derived |
+| [AFNetworking/AFNetworking](../records/cocoa-afnetworking-afnetworking-b2e7cf91.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [alcatraz/Alcatraz](../records/cocoa-alcatraz-alcatraz-32db9c72.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [AloneMonkey/MonkeyDev](../records/cocoa-alonemonkey-monkeydev-a3ce0e4e.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [Aufree/trip-to-iOS](../records/cocoa-aufree-trip-to-ios-ceb0e182.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [banchichen/TZImagePickerController](../records/cocoa-banchichen-tzimagepickercontroller-5178e358.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [bang590/JSPatch](../records/cocoa-bang590-jspatch-c190338f.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [BlocksKit/BlocksKit](../records/cocoa-blockskit-blockskit-67f6ef55.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [BradLarson/GPUImage](../records/cocoa-bradlarson-gpuimage-287e066a.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [ccgus/fmdb](../records/cocoa-ccgus-fmdb-23296ae9.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [Cenmrev/V2RayX](../records/cocoa-cenmrev-v2rayx-63186c98.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [CEWendel/SWTableViewCell](../records/cocoa-cewendel-swtableviewcell-9dfc7a25.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [CocoaLumberjack/CocoaLumberjack](../records/cocoa-cocoalumberjack-cocoalumberjack-f656c9fc.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [CoderMJLee/MJExtension](../records/cocoa-codermjlee-mjextension-7c57735e.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [CoderMJLee/MJRefresh](../records/cocoa-codermjlee-mjrefresh-e29defdf.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [CodeTips/BaiduNetdiskPlugin-macOS](../records/cocoa-codetips-baidunetdiskplugin-macos-0aae58e0.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [DanTheMan827/ios-app-signer](../records/cocoa-dantheman827-ios-app-signer-937ba434.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [darlinghq/darling](../records/cocoa-darlinghq-darling-9b55f88b.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [draveness/analyze](../records/cocoa-draveness-analyze-6668f62d.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [dzenbot/DZNEmptyDataSet](../records/cocoa-dzenbot-dznemptydataset-f1b09f50.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [eczarny/spectacle](../records/cocoa-eczarny-spectacle-0492e732.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [Esqarrouth/EZSwiftExtensions](../records/cocoa-esqarrouth-ezswiftextensions-cfddd979.md) | partial | 2024-04-05T13:43:05Z | registry-derived |
-| [gnachman/iTerm2](../records/cocoa-gnachman-iterm2-9538d898.md) | partial | 2026-09-01T07:08:35Z | registry-derived |
-| [Hammerspoon/hammerspoon](../records/cocoa-hammerspoon-hammerspoon-1d35b69a.md) | partial | 2026-07-08T21:13:24Z | registry-derived |
-| [jdg/MBProgressHUD](../records/cocoa-jdg-mbprogresshud-e13b5233.md) | partial | 2024-08-14T01:48:59Z | registry-derived |
-| [keycastr/keycastr](../records/cocoa-keycastr-keycastr-f4c776a3.md) | partial | 2026-08-27T01:45:26Z | registry-derived |
-| [MustangYM/WeChatExtension-ForMac](../records/cocoa-mustangym-wechatextension-formac-fcd2c960.md) | partial | 2025-02-13T21:53:57Z | registry-derived |
-| [opa334/TrollStore](../records/cocoa-opa334-trollstore-db62b321.md) | partial | 2026-04-01T09:43:17Z | registry-derived |
-| [realm/realm-swift](../records/cocoa-realm-realm-swift-12631a2f.md) | partial | 2026-06-14T23:57:29Z | registry-derived |
-| [SnapKit/Masonry](../records/cocoa-snapkit-masonry-0fcd35d3.md) | partial | 2023-04-13T18:23:56Z | registry-derived |
+| [facebookarchive/KVOController](../records/cocoa-facebookarchive-kvocontroller-c52963ac.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [facebookarchive/Shimmer](../records/cocoa-facebookarchive-shimmer-0e7025c3.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [facebookarchive/three20](../records/cocoa-facebookarchive-three20-df1634c8.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [facebookarchive/xctool](../records/cocoa-facebookarchive-xctool-af22ac01.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [facebookincubator/SocketRocket](../records/cocoa-facebookincubator-socketrocket-7015706b.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [FLEXTool/FLEX](../records/cocoa-flextool-flex-907f5364.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [Flipboard/FLAnimatedImage](../records/cocoa-flipboard-flanimatedimage-90bc1366.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [forkingdog/UITableView-FDTemplateLayoutCell](../records/cocoa-forkingdog-uitableview-fdtemplatelayoutcell-6b678344.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [git-up/GitUp](../records/cocoa-git-up-gitup-23c60c2c.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [gnachman/iTerm2](../records/cocoa-gnachman-iterm2-9538d898.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [griddynamics-archive/MMDrawerController](../records/cocoa-griddynamics-archive-mmdrawercontroller-e3f9497c.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [Grouper/FlatUIKit](../records/cocoa-grouper-flatuikit-59352f43.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [gsdios/SDCycleScrollView](../records/cocoa-gsdios-sdcyclescrollview-c51a97c6.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [Hammerspoon/hammerspoon](../records/cocoa-hammerspoon-hammerspoon-1d35b69a.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [HexFiend/HexFiend](../records/cocoa-hexfiend-hexfiend-99ef18d6.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [ibireme/YYKit](../records/cocoa-ibireme-yykit-96506678.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [ibireme/YYText](../records/cocoa-ibireme-yytext-58e2355f.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [IFTTT/JazzHands](../records/cocoa-ifttt-jazzhands-0b68b0d3.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [Instagram/IGListKit](../records/cocoa-instagram-iglistkit-5a8b8899.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [ivpusic/react-native-image-crop-picker](../records/cocoa-ivpusic-react-native-image-crop-picker-5706e267.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [JackJiang2011/MobileIMSDK](../records/cocoa-jackjiang2011-mobileimsdk-21e38af1.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [jdg/MBProgressHUD](../records/cocoa-jdg-mbprogresshud-e13b5233.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [jessesquires/JSQMessagesViewController](../records/cocoa-jessesquires-jsqmessagesviewcontroller-0b0cd6da.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [jigish/slate](../records/cocoa-jigish-slate-c8b67798.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [johnezang/JSONKit](../records/cocoa-johnezang-jsonkit-fe848628.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [johnno1962/injectionforxcode](../records/cocoa-johnno1962-injectionforxcode-1fb640a2.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [jsonmodel/jsonmodel](../records/cocoa-jsonmodel-jsonmodel-3e58ed45.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [julienXX/terminal-notifier](../records/cocoa-julienxx-terminal-notifier-bc181680.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [jverdi/JVFloatLabeledTextField](../records/cocoa-jverdi-jvfloatlabeledtextfield-5f4f002f.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [jverkoey/nimbus](../records/cocoa-jverkoey-nimbus-6dc893f9.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [kanyun-inc/YTKNetwork](../records/cocoa-kanyun-inc-ytknetwork-0c91459e.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [Kapeli/Dash-iOS](../records/cocoa-kapeli-dash-ios-15c43f53.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [kevinzhow/PNChart](../records/cocoa-kevinzhow-pnchart-54cc5076.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [keycastr/keycastr](../records/cocoa-keycastr-keycastr-f4c776a3.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [kif-framework/KIF](../records/cocoa-kif-framework-kif-983fdaec.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [MacPass/MacPass](../records/cocoa-macpass-macpass-b594f725.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [maderix/ANE](../records/cocoa-maderix-ane-b1a3f117.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [magicalpanda/MagicalRecord](../records/cocoa-magicalpanda-magicalrecord-9ce38694.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [mamaral/Onboard](../records/cocoa-mamaral-onboard-216067d1.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [Mantle/Mantle](../records/cocoa-mantle-mantle-bc486196.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [marcuswestin/WebViewJavascriptBridge](../records/cocoa-marcuswestin-webviewjavascriptbridge-0c9e9663.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [MatthewYork/DateTools](../records/cocoa-matthewyork-datetools-101ba0cf.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [MortimerGoro/MGSwipeTableCell](../records/cocoa-mortimergoro-mgswipetablecell-b478436d.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [MustangYM/WeChatExtension-ForMac](../records/cocoa-mustangym-wechatextension-formac-fcd2c960.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [mwaterfall/MWPhotoBrowser](../records/cocoa-mwaterfall-mwphotobrowser-b9b1cbd9.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [newmarcel/KeepingYouAwake](../records/cocoa-newmarcel-keepingyouawake-64ecaad8.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [nicklockwood/iCarousel](../records/cocoa-nicklockwood-icarousel-4e5bb6d2.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [noah-nuebling/mac-mouse-fix](../records/cocoa-noah-nuebling-mac-mouse-fix-29ebd47b.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [noodlewerk/NWPusher](../records/cocoa-noodlewerk-nwpusher-3f230ebd.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [nst/iOS-Runtime-Headers](../records/cocoa-nst-ios-runtime-headers-c5f4b32c.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [objective-see/LuLu](../records/cocoa-objective-see-lulu-3b9c439d.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [onevcat/VVDocumenter-Xcode](../records/cocoa-onevcat-vvdocumenter-xcode-5a5856c2.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [opa334/TrollStore](../records/cocoa-opa334-trollstore-db62b321.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [path/FastImageCache](../records/cocoa-path-fastimagecache-2697a309.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [pujiaxin33/JXCategoryView](../records/cocoa-pujiaxin33-jxcategoryview-8d3b31be.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [PureLayout/PureLayout](../records/cocoa-purelayout-purelayout-f0a363da.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [realm/realm-swift](../records/cocoa-realm-realm-swift-12631a2f.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [renzifeng/ZFPlayer](../records/cocoa-renzifeng-zfplayer-9b67cc62.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [RestKit/RestKit](../records/cocoa-restkit-restkit-53e74c03.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [robbiehanson/CocoaAsyncSocket](../records/cocoa-robbiehanson-cocoaasyncsocket-0e321e74.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [romaonthego/RESideMenu](../records/cocoa-romaonthego-residemenu-f9a6dd3c.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [SDWebImage/SDWebImage](../records/cocoa-sdwebimage-sdwebimage-5e8d08bc.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [Sequel-Ace/Sequel-Ace](../records/cocoa-sequel-ace-sequel-ace-37545a87.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [sequelpro/sequelpro](../records/cocoa-sequelpro-sequelpro-3ee4a6ac.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [shadowsocks/shadowsocks-iOS](../records/cocoa-shadowsocks-shadowsocks-ios-4396d460.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [slackhq/SlackTextViewController](../records/cocoa-slackhq-slacktextviewcontroller-f22ebae7.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [SnapKit/Masonry](../records/cocoa-snapkit-masonry-0fcd35d3.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [sparkle-project/Sparkle](../records/cocoa-sparkle-project-sparkle-113ca5f5.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [steipete/Aspects](../records/cocoa-steipete-aspects-881b863d.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [sveinbjornt/Sloth](../records/cocoa-sveinbjornt-sloth-f4d1b7d5.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [SVProgressHUD/SVProgressHUD](../records/cocoa-svprogresshud-svprogresshud-528242cc.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [swisspol/GCDWebServer](../records/cocoa-swisspol-gcdwebserver-4ec629c3.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [Tencent/lemon-cleaner](../records/cocoa-tencent-lemon-cleaner-af02bd4d.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [Tencent/QMUI_iOS](../records/cocoa-tencent-qmui-ios-742261ff.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [TKkk-iOSer/WeChatPlugin-MacOS](../records/cocoa-tkkk-ioser-wechatplugin-macos-53476c53.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [tonsky/AnyBar](../records/cocoa-tonsky-anybar-2c203aa5.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [tonymillion/Reachability](../records/cocoa-tonymillion-reachability-daf79ac3.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [TTTAttributedLabel/TTTAttributedLabel](../records/cocoa-tttattributedlabel-tttattributedlabel-db9cc16e.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [vicc/chameleon](../records/cocoa-vicc-chameleon-da2d32dc.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [WenchaoD/FSCalendar](../records/cocoa-wenchaod-fscalendar-f67e6a12.md) | unknown | not_a_cocoapods_name | registry-derived |
 
 ### Library
 

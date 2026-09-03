@@ -1,6 +1,6 @@
 # Undefined Behavior Analyzer
 
-Records: `1487`
+Records: `1497`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `1487`
 
 ## Category Index
 
-[Api Abi Checker (203)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
-[Benchmarking (164)](benchmarking.md) · [Build System (885)](build-system.md) · [Cli (528)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (92)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
-[Concurrency Parallelism (78)](concurrency-parallelism.md) · [Configuration (108)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (831)](database-datastore.md) · [Datetime (180)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (96)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1343)](filesystem-os.md) · [Formatter (591)](formatter.md)
-[Framework (53)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1291)](ide-editor-integration.md)
-[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (247)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1274)](language-specification.md) · [Library (5157)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (477)](logging-observability.md) · [Machine Learning (637)](machine-learning.md)
-[Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (957)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (409)](package-manager.md) · [Parser Lexer Ast (994)](parser-lexer-ast.md) · [Precommit Ci Quality (275)](precommit-ci-quality.md)
-[Profiler (79)](profiler.md) · [Project Scaffolding (128)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (332)](security-sast.md) · [Serialization (377)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (489)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (516)](testing-framework.md) · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
-**[Undefined Behavior Analyzer (1487)](undefined-behavior-analyzer.md)** · [Utility Library (93)](utility-library.md) · [Visualization Gui (452)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
+[Api Abi Checker (204)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
+[Benchmarking (165)](benchmarking.md) · [Build System (903)](build-system.md) · [Cli (534)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (97)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
+[Concurrency Parallelism (78)](concurrency-parallelism.md) · [Configuration (113)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (832)](database-datastore.md) · [Datetime (180)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (92)](dependency-manager.md) · [Documentation (96)](documentation.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1371)](filesystem-os.md) · [Formatter (598)](formatter.md)
+[Framework (54)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (169)](game-engine-game-dev.md) · [Ide Editor Integration (1304)](ide-editor-integration.md)
+[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (250)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1373)](language-specification.md) · [Library (5232)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (481)](logging-observability.md) · [Machine Learning (643)](machine-learning.md)
+[Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (963)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (411)](package-manager.md) · [Parser Lexer Ast (998)](parser-lexer-ast.md) · [Precommit Ci Quality (278)](precommit-ci-quality.md)
+[Profiler (79)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Security Sast (333)](security-sast.md) · [Serialization (378)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (490)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (518)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
+**[Undefined Behavior Analyzer (1497)](undefined-behavior-analyzer.md)** · [Utility Library (95)](utility-library.md) · [Visualization Gui (466)](visualization-gui.md) · [Web Framework (448)](web-framework.md)
 
 ## C++23
 
@@ -404,9 +404,9 @@ Records: `1487`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bluenviron/mediamtx | partial | 2026-09-03T15:17:56Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
-| dariubs/GoBooks | partial | 2026-07-13T16:08:02Z | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
-| eryajf/learning-weekly | partial | 2026-08-27T15:27:30Z | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
+| bluenviron/mediamtx | unknown | not_a_go_module_path | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
+| dariubs/GoBooks | unknown | not_a_go_module_path | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
+| eryajf/learning-weekly | unknown | not_a_go_module_path | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
 | github.com/01org/isa-l | v2.22.0+incompatible | 2026-08-30T14:09:32.299469Z | [open](../records/go-github-com-01org-isa-l-8ef09eb2.md) |
 | github.com/1panel-dev/1Panel/agent | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-1panel-dev-1panel-agent-8df4b3a6.md) |
 | github.com/2rumaki-playground/game-001-dungeon-cards | v0.103.0 | 2026-08-30T16:30:21.794494Z | [open](../records/go-github-com-2rumaki-playground-game-001-dungeon-cards-97fa2334.md) |
@@ -1135,16 +1135,16 @@ Records: `1487`
 | github.laiyagushi.com/nemith/dothome | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-laiyagushi-com-nemith-dothome-32cd483a.md) |
 | github.laiyagushi.com/valkey-io/valkey-go | v1.0.56 | 2026-08-30T15:31:38.453275Z | [open](../records/go-github-laiyagushi-com-valkey-io-valkey-go-b2864d71.md) |
 | jfrog/gocenter | partial | 2021-05-14T11:38:26Z | [open](../records/go-jfrog-gocenter-404e69f1.md) |
-| labring/sealos | partial | 2026-09-03T14:50:43Z | [open](../records/go-labring-sealos-594e5269.md) |
-| uber-go/guide | partial | 2026-04-15T15:10:48Z | [open](../records/go-uber-go-guide-c330b782.md) |
-| uber-go/zap | partial | 2026-08-31T18:59:30Z | [open](../records/go-uber-go-zap-07ea12d8.md) |
+| labring/sealos | unknown | not_a_go_module_path | [open](../records/go-labring-sealos-594e5269.md) |
+| uber-go/guide | unknown | not_a_go_module_path | [open](../records/go-uber-go-guide-c330b782.md) |
+| uber-go/zap | unknown | not_a_go_module_path | [open](../records/go-uber-go-zap-07ea12d8.md) |
 | unpoller/unifi | partial | 2026-09-01T12:00:24Z | [open](../records/go-unpoller-unifi-0809cf4a.md) |
 
 ## Starlark
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| cruise-automation/isopod | partial | 2023-11-17T05:24:18Z | [open](../records/starlark-cruise-automation-isopod-0fd20340.md) |
+| cruise-automation/isopod | unknown | github_latest_release_missing | [open](../records/starlark-cruise-automation-isopod-0fd20340.md) |
 | openrundev/openrun | partial | 2026-09-02T23:08:18Z | [open](../records/starlark-openrundev-openrun-0f48908b.md) |
 | tidbyt/community | partial | 2026-08-28T05:00:24Z | [open](../records/starlark-tidbyt-community-62c4caad.md) |
 
@@ -1159,16 +1159,31 @@ Records: `1487`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bytedance/deer-flow | partial | 2026-09-03T14:10:55Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
+| bytedance/deer-flow | partial | 2026-09-03T16:03:49Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
 | sansan0/TrendRadar | partial | 2026-09-03T12:34:00Z | [open](../records/aim-s-sansan0-trendradar-72e65ee1.md) |
 | TencentCloud/TencentDB-Agent-Memory | partial | 2026-09-03T02:31:45Z | [open](../records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
+
+## Icons and Logos
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| 13rac1/emojione-color-font | partial | 2018-03-12T05:34:57Z | [open](../records/icons-and-logos-13rac1-emojione-color-font-161dcd40.md) |
+| anyascii/anyascii | partial | 2026-06-06T10:27:53Z | [open](../records/icons-and-logos-anyascii-anyascii-0dd29280.md) |
+| github/gemoji | partial | 2025-11-24T05:09:16Z | [open](../records/icons-and-logos-github-gemoji-51179120.md) |
+| jeffreytse/jekyll-spaceship | partial | 2024-07-03T19:54:34Z | [open](../records/icons-and-logos-jeffreytse-jekyll-spaceship-b4d82d56.md) |
+| muan/mojibar | partial | 2023-01-25T05:33:39Z | [open](../records/icons-and-logos-muan-mojibar-30358614.md) |
+| primer/css | partial | 2026-09-03T16:01:58Z | [open](../records/icons-and-logos-primer-css-784ae164.md) |
+| primer/react | partial | 2026-09-03T16:00:56Z | [open](../records/icons-and-logos-primer-react-63b0b7cc.md) |
+| rickstaa/github-emoji-picker | partial | 2026-08-11T14:36:22Z | [open](../records/icons-and-logos-rickstaa-github-emoji-picker-f84142f9.md) |
 
 ## Font Briefcase
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| githubnext/monaspace | partial | 2026-03-27T23:10:14Z | [open](../records/font-briefcase-githubnext-monaspace-a8c7b718.md) |
 | johnkil/Android-RobotoTextView | partial | 2017-07-26T11:32:54Z | [open](../records/font-briefcase-johnkil-android-robototextview-991c311a.md) |
 | KonghaYao/cn-font-split | partial | 2026-06-12T13:45:21Z | [open](../records/font-briefcase-konghayao-cn-font-split-4b1774ab.md) |
+| opensourcedesign/fonts | partial | 2020-08-31T04:08:37Z | [open](../records/font-briefcase-opensourcedesign-fonts-afd14247.md) |
 | rubjo/victor-mono | partial | 2026-07-18T15:41:27Z | [open](../records/font-briefcase-rubjo-victor-mono-2ab28caa.md) |
 | subframe7536/maple-font | partial | 2026-08-23T09:59:28Z | [open](../records/font-briefcase-subframe7536-maple-font-a9616e1f.md) |
 | sztupy/accentizer | partial | 2023-04-14T20:01:44Z | [open](../records/font-briefcase-sztupy-accentizer-ef2a8cb1.md) |
@@ -1212,19 +1227,19 @@ Records: `1487`
 | JOSM/josm | partial | 2026-08-29T11:20:34Z | [open](../records/maps-josm-josm-420b210b.md) |
 | koopjs/koop | unknown | github_search_does_not_include_release_date | [open](../records/maps-koopjs-koop-6b3ab614.md) |
 | maplibre/demotiles | partial | 2026-08-21T17:15:02Z | [open](../records/maps-maplibre-demotiles-72972139.md) |
-| MapServer/MapServer | partial | 2026-09-02T12:38:13Z | [open](../records/maps-mapserver-mapserver-100bdea0.md) |
+| MapServer/MapServer | partial | 2026-09-03T15:33:42Z | [open](../records/maps-mapserver-mapserver-100bdea0.md) |
 | munterfi/hereR | partial | 2025-02-23T15:29:33Z | [open](../records/maps-munterfi-herer-7bc6ec20.md) |
 | nvkelso/natural-earth-vector | partial | 2024-04-22T12:24:13Z | [open](../records/maps-nvkelso-natural-earth-vector-941f7e82.md) |
 | opendatacube/datacube-core | partial | 2026-09-02T14:19:09Z | [open](../records/maps-opendatacube-datacube-core-7c11f2b9.md) |
 | pubnub/eon | partial | 2022-12-06T09:15:05Z | [open](../records/maps-pubnub-eon-beb5f743.md) |
-| rspatial/terra | partial | 2026-09-02T13:45:41Z | [open](../records/maps-rspatial-terra-dbc784d1.md) |
+| rspatial/terra | partial | 2026-09-03T15:31:18Z | [open](../records/maps-rspatial-terra-dbc784d1.md) |
 | SimonBrazell/privacy-redirect | partial | 2023-09-05T18:05:25Z | [open](../records/maps-simonbrazell-privacy-redirect-1c6619a0.md) |
 | t-rex-tileserver/t-rex | partial | 2024-09-24T14:17:05Z | [open](../records/maps-t-rex-tileserver-t-rex-530f84b0.md) |
-| uber/h3 | partial | 2026-09-01T00:20:04Z | [open](../records/maps-uber-h3-909abfb5.md) |
+| uber/h3 | partial | 2026-09-03T02:35:04Z | [open](../records/maps-uber-h3-909abfb5.md) |
 | uber/h3-js | partial | 2026-08-24T19:35:25Z | [open](../records/maps-uber-h3-js-8f70e2d6.md) |
 | uber/h3-py | partial | 2026-08-24T21:16:38Z | [open](../records/maps-uber-h3-py-113e2f65.md) |
 | xeokit/xeokit-bim-viewer | partial | 2026-02-04T13:20:28Z | [open](../records/maps-xeokit-xeokit-bim-viewer-7fecdcf4.md) |
-| xeokit/xeokit-sdk | partial | 2026-09-02T16:08:34Z | [open](../records/maps-xeokit-xeokit-sdk-1ab9f795.md) |
+| xeokit/xeokit-sdk | partial | 2026-09-02T21:32:58Z | [open](../records/maps-xeokit-xeokit-sdk-1ab9f795.md) |
 
 ## Space Engines
 
@@ -1423,7 +1438,7 @@ Records: `1487`
 | alanbjohnston/CubeSatSim | partial | 2026-09-01T18:16:41Z | [open](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) |
 | cjcliffe/CubicSDR | partial | 2026-09-02T02:19:48Z | [open](../records/satcom-satellites-cjcliffe-cubicsdr-45606659.md) |
 | f4exb/sdrangel | partial | 2026-08-30T10:08:39Z | [open](../records/satcom-satellites-f4exb-sdrangel-2094320b.md) |
-| jvde-github/AIS-catcher | partial | 2026-09-02T22:21:15Z | [open](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) |
+| jvde-github/AIS-catcher | partial | 2026-09-03T16:22:00Z | [open](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) |
 | kismetwireless/kismet | partial | 2026-09-01T15:36:57Z | [open](../records/satcom-satellites-kismetwireless-kismet-f1e1e53d.md) |
 | KubOS-Preservation-Group/ccsds-spacepacket | partial | 2022-06-13T23:22:58Z | [open](../records/satcom-satellites-kubos-preservation-group-ccsds-spacepacket-4cff5034.md) |
 | libcsp/libcsp | partial | 2026-08-26T05:31:12Z | [open](../records/satcom-satellites-libcsp-libcsp-abe29c50.md) |
@@ -1442,7 +1457,7 @@ Records: `1487`
 | cjcliffe/CubicSDR | partial | 2026-09-02T02:19:48Z | [open](../records/electromagnetoscopes-cjcliffe-cubicsdr-4d39607b.md) |
 | f4exb/sdrangel | partial | 2026-08-30T10:08:39Z | [open](../records/electromagnetoscopes-f4exb-sdrangel-2939271b.md) |
 | greatscottgadgets/ubertooth | partial | 2026-03-19T15:58:24Z | [open](../records/electromagnetoscopes-greatscottgadgets-ubertooth-28bac228.md) |
-| jvde-github/AIS-catcher | partial | 2026-09-02T22:21:15Z | [open](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) |
+| jvde-github/AIS-catcher | partial | 2026-09-03T16:22:00Z | [open](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) |
 | kismetwireless/kismet | partial | 2026-09-01T15:36:57Z | [open](../records/electromagnetoscopes-kismetwireless-kismet-abff54d8.md) |
 | LargeModGames/spotatui | partial | 2026-09-02T21:37:52Z | [open](../records/electromagnetoscopes-largemodgames-spotatui-27906be2.md) |
 | Moosync/Moosync-electron | partial | 2025-03-06T13:43:37Z | [open](../records/electromagnetoscopes-moosync-moosync-electron-6b29db05.md) |
@@ -1655,7 +1670,7 @@ Records: `1487`
 | debezium/debezium | partial | 2026-09-03T12:50:50Z | [open](../records/databases-debezium-debezium-a3d23ff7.md) |
 | dicedb/dicedb | partial | 2026-04-23T01:00:36Z | [open](../records/databases-dicedb-dicedb-ba1cb8a6.md) |
 | digoal/blog | partial | 2026-09-03T06:34:30Z | [open](../records/databases-digoal-blog-7cde1486.md) |
-| dolthub/dolt | partial | 2026-09-03T08:18:19Z | [open](../records/databases-dolthub-dolt-702548e2.md) |
+| dolthub/dolt | partial | 2026-09-03T16:11:24Z | [open](../records/databases-dolthub-dolt-702548e2.md) |
 | douban/gobeansdb | partial | 2026-08-21T03:02:19Z | [open](../records/databases-douban-gobeansdb-1832191f.md) |
 | dubinc/dub | partial | 2026-09-03T06:31:13Z | [open](../records/databases-dubinc-dub-fde61fc2.md) |
 | gigapi/gigapi | partial | 2025-10-20T12:01:02Z | [open](../records/databases-gigapi-gigapi-bafb6f73.md) |
@@ -1666,7 +1681,7 @@ Records: `1487`
 | mongodb/mongo-ruby-driver | partial | 2026-08-19T07:17:12Z | [open](../records/databases-mongodb-mongo-ruby-driver-094f2530.md) |
 | orneryd/NornicDB | partial | 2026-09-02T01:17:20Z | [open](../records/databases-orneryd-nornicdb-5e8fdc92.md) |
 | rom-rb/rom | partial | 2026-01-15T10:52:00Z | [open](../records/databases-rom-rb-rom-e8be5cad.md) |
-| StarRocks/starrocks | partial | 2026-09-01T22:25:36Z | [open](../records/databases-starrocks-starrocks-fa80e1a7.md) |
+| StarRocks/starrocks | partial | 2026-09-03T14:02:32Z | [open](../records/databases-starrocks-starrocks-fa80e1a7.md) |
 | Stolon | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-stolon-807bae3f.md) |
 | uber-go/dosa | partial | 2023-07-05T20:59:33Z | [open](../records/databases-uber-go-dosa-06a859e4.md) |
 | uber/marmaray | partial | 2023-03-19T23:03:14Z | [open](../records/databases-uber-marmaray-1e6dacff.md) |

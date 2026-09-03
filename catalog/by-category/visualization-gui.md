@@ -1,6 +1,6 @@
 # Visualization Gui
 
-Records: `452`
+Records: `466`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `452`
 
 ## Category Index
 
-[Api Abi Checker (203)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
-[Benchmarking (164)](benchmarking.md) · [Build System (885)](build-system.md) · [Cli (528)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (92)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
-[Concurrency Parallelism (78)](concurrency-parallelism.md) · [Configuration (108)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (831)](database-datastore.md) · [Datetime (180)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (96)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1343)](filesystem-os.md) · [Formatter (591)](formatter.md)
-[Framework (53)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1291)](ide-editor-integration.md)
-[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (247)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1274)](language-specification.md) · [Library (5157)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (477)](logging-observability.md) · [Machine Learning (637)](machine-learning.md)
-[Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (957)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (409)](package-manager.md) · [Parser Lexer Ast (994)](parser-lexer-ast.md) · [Precommit Ci Quality (275)](precommit-ci-quality.md)
-[Profiler (79)](profiler.md) · [Project Scaffolding (128)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (332)](security-sast.md) · [Serialization (377)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (489)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (516)](testing-framework.md) · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
-[Undefined Behavior Analyzer (1487)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · **[Visualization Gui (452)](visualization-gui.md)** · [Web Framework (447)](web-framework.md)
+[Api Abi Checker (204)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
+[Benchmarking (165)](benchmarking.md) · [Build System (903)](build-system.md) · [Cli (534)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (97)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
+[Concurrency Parallelism (78)](concurrency-parallelism.md) · [Configuration (113)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (832)](database-datastore.md) · [Datetime (180)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (92)](dependency-manager.md) · [Documentation (96)](documentation.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1371)](filesystem-os.md) · [Formatter (598)](formatter.md)
+[Framework (54)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (169)](game-engine-game-dev.md) · [Ide Editor Integration (1304)](ide-editor-integration.md)
+[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (250)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1373)](language-specification.md) · [Library (5232)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (481)](logging-observability.md) · [Machine Learning (643)](machine-learning.md)
+[Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (963)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (411)](package-manager.md) · [Parser Lexer Ast (998)](parser-lexer-ast.md) · [Precommit Ci Quality (278)](precommit-ci-quality.md)
+[Profiler (79)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Security Sast (333)](security-sast.md) · [Serialization (378)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (490)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (518)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
+[Undefined Behavior Analyzer (1497)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · **[Visualization Gui (466)](visualization-gui.md)** · [Web Framework (448)](web-framework.md)
 
 ## C++23
 
@@ -291,10 +291,10 @@ Records: `452`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| inancgumus/learngo | partial | 2025-06-24T23:03:52Z | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
+| inancgumus/learngo | unknown | not_a_go_module_path | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
 | kungfusheep/glyph | partial | 2026-08-28T16:49:36Z | [open](../records/go-kungfusheep-glyph-15af0f04.md) |
 | modernc.org/quickjs | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-modernc-org-quickjs-953c15ce.md) |
-| piquette/finance-go | partial | 2023-08-07T03:39:03Z | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
+| piquette/finance-go | unknown | not_a_go_module_path | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
 
 ## Starlark
 
@@ -343,16 +343,30 @@ Records: `452`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| arco-design/arco-design | partial | 2026-08-24T11:27:07Z | [open](../records/icons-and-logos-arco-design-arco-design-3a6616b6.md) |
+| arco-design/arco-design-vue | partial | 2026-06-24T03:21:22Z | [open](../records/icons-and-logos-arco-design-arco-design-vue-bcf35951.md) |
 | Bootstrap Icons | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/icons-and-logos-bootstrap-icons-4a264cc6.md) |
+| carbon-design-system/carbon | partial | 2026-09-03T14:22:18Z | [open](../records/icons-and-logos-carbon-design-system-carbon-b1222e26.md) |
+| chakra-ui/ark | partial | 2026-09-03T16:11:10Z | [open](../records/icons-and-logos-chakra-ui-ark-56b444c2.md) |
+| chakra-ui/panda | partial | 2026-09-03T15:55:43Z | [open](../records/icons-and-logos-chakra-ui-panda-2808d112.md) |
+| coding2233/TextInlineSprite | partial | 2020-06-27T08:49:05Z | [open](../records/icons-and-logos-coding2233-textinlinesprite-c4983095.md) |
 | Feather Icons | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/icons-and-logos-feather-icons-44e53569.md) |
 | Font Awesome | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/icons-and-logos-font-awesome-8e4d33bb.md) |
+| fransallen/favicone | partial | 2023-07-11T20:16:03Z | [open](../records/icons-and-logos-fransallen-favicone-aa5450cd.md) |
+| gonzalezreal/textual | partial | 2026-06-15T08:17:59Z | [open](../records/icons-and-logos-gonzalezreal-textual-41905d5d.md) |
 | Heroicons | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/icons-and-logos-heroicons-54afea1f.md) |
 | Iconify | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/icons-and-logos-iconify-fb7438a6.md) |
 | Lucide | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/icons-and-logos-lucide-5fa96a35.md) |
 | Material Symbols | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/icons-and-logos-material-symbols-e0c71f76.md) |
+| mui/material-ui | partial | 2026-09-03T14:23:06Z | [open](../records/icons-and-logos-mui-material-ui-93c4464d.md) |
 | OpenMoji | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/icons-and-logos-openmoji-b9bb0f05.md) |
+| Owl-Listener/designer-skills | partial | 2026-08-31T14:10:53Z | [open](../records/icons-and-logos-owl-listener-designer-skills-bb5cdafe.md) |
+| react95-io/React95 | partial | 2024-01-14T20:52:31Z | [open](../records/icons-and-logos-react95-io-react95-5104e6c7.md) |
+| React95/React95 | partial | 2026-09-02T20:02:28Z | [open](../records/icons-and-logos-react95-react95-ff8c497a.md) |
+| rebassjs/rebass | partial | 2023-07-27T03:42:53Z | [open](../records/icons-and-logos-rebassjs-rebass-64744ea0.md) |
 | Simple Icons | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/icons-and-logos-simple-icons-24b556a1.md) |
 | Tabler Icons | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/icons-and-logos-tabler-icons-814b22b6.md) |
+| youneslaaroussi/ui-buttons | partial | 2022-08-01T09:09:38Z | [open](../records/icons-and-logos-youneslaaroussi-ui-buttons-8b4ad7dc.md) |
 
 ## Font Briefcase
 
@@ -380,7 +394,7 @@ Records: `452`
 | martinhodler/unity-aseprite-importer | partial | 2024-03-03T05:09:03Z | [open](../records/assets-martinhodler-unity-aseprite-importer-30b49df4.md) |
 | mopsicus/uis | partial | 2026-06-04T08:08:04Z | [open](../records/assets-mopsicus-uis-65c71459.md) |
 | quiple/galmuri | partial | 2026-08-22T05:48:41Z | [open](../records/assets-quiple-galmuri-cb71a160.md) |
-| Shelf-nu/shelf.nu | partial | 2026-09-02T14:37:50Z | [open](../records/assets-shelf-nu-shelf-nu-2414163a.md) |
+| Shelf-nu/shelf.nu | partial | 2026-09-03T15:38:45Z | [open](../records/assets-shelf-nu-shelf-nu-2414163a.md) |
 | skfolio/skfolio | partial | 2026-08-31T14:45:55Z | [open](../records/assets-skfolio-skfolio-6087932e.md) |
 | TexturePacker | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/assets-texturepacker-1148bb30.md) |
 
@@ -403,7 +417,7 @@ Records: `452`
 | SciTools/cartopy | partial | 2026-08-27T15:52:40Z | [open](../records/maps-scitools-cartopy-9d7a828c.md) |
 | tentone/geo-three | partial | 2026-04-05T09:36:24Z | [open](../records/maps-tentone-geo-three-c2f6b656.md) |
 | Viglino/ol-ext | partial | 2026-07-08T01:30:43Z | [open](../records/maps-viglino-ol-ext-ecc4dbc2.md) |
-| visgl/deck.gl | partial | 2026-09-02T18:47:43Z | [open](../records/maps-visgl-deck-gl-53e12f71.md) |
+| visgl/deck.gl | partial | 2026-09-03T08:01:31Z | [open](../records/maps-visgl-deck-gl-53e12f71.md) |
 | w3reality/three-geo | partial | 2025-02-25T08:20:32Z | [open](../records/maps-w3reality-three-geo-19abad00.md) |
 
 ## Space Engines
