@@ -12,17 +12,17 @@ Records: `993`
 [Benchmarking (164)](benchmarking.md) · [Build System (884)](build-system.md) · [Cli (528)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (92)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
 [Concurrency Parallelism (77)](concurrency-parallelism.md) · [Configuration (108)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (830)](database-datastore.md) · [Datetime (177)](datetime.md)
+[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (830)](database-datastore.md) · [Datetime (178)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (95)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1328)](filesystem-os.md) · [Formatter (587)](formatter.md)
-[Framework (52)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1279)](ide-editor-integration.md)
-[Image Audio Dsp (355)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (241)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1270)](language-specification.md) · [Library (5112)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (472)](logging-observability.md) · [Machine Learning (634)](machine-learning.md)
-[Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (955)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (407)](package-manager.md) · **[Parser Lexer Ast (993)](parser-lexer-ast.md)** · [Precommit Ci Quality (273)](precommit-ci-quality.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1331)](filesystem-os.md) · [Formatter (587)](formatter.md)
+[Framework (52)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1280)](ide-editor-integration.md)
+[Image Audio Dsp (355)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (242)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1270)](language-specification.md) · [Library (5128)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (473)](logging-observability.md) · [Machine Learning (634)](machine-learning.md)
+[Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (956)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (408)](package-manager.md) · **[Parser Lexer Ast (993)](parser-lexer-ast.md)** · [Precommit Ci Quality (274)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (127)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (331)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (486)](static-analyzer.md)
+[Security Sast (332)](security-sast.md) · [Serialization (377)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (486)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (513)](testing-framework.md) · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
 [Undefined Behavior Analyzer (1480)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (446)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
 
@@ -326,7 +326,7 @@ Records: `993`
 | @faststore/cli | 4.7.0 | 2026-08-31T21:22:09.303Z | [open](../records/node-js-javascript-faststore-cli-98f71262.md) |
 | @middy/http-json-body-parser | 7.9.2 | 2026-08-27T23:05:28.964Z | [open](../records/node-js-javascript-middy-http-json-body-parser-654d90bf.md) |
 | @nestjs/cli | 12.0.0 | 2026-08-27T09:43:36.809Z | [open](../records/node-js-javascript-nestjs-cli-f43d760a.md) |
-| @percy/cli-command | 1.32.7 | 2026-08-20T12:28:38.816Z | [open](../records/node-js-javascript-percy-cli-command-d44d97d1.md) |
+| @percy/cli-command | 1.32.8 | 2026-09-03T11:40:01.719Z | [open](../records/node-js-javascript-percy-cli-command-d44d97d1.md) |
 | Acorn | unknown | not_checked | [open](../records/node-js-javascript-acorn-d5ae4d95.md) |
 | arg | 5.0.2 | 2022-06-05T18:20:09.200Z | [open](../records/node-js-javascript-arg-78683a08.md) |
 | argparse | 3.0.1 | 2026-08-25T16:13:28.620Z | [open](../records/node-js-javascript-argparse-50e588b4.md) |
@@ -625,7 +625,7 @@ Records: `993`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 0xIonRod/learning-basilisk | partial | 2023-06-28T06:42:25Z | [open](../records/basilisk-0xionrod-learning-basilisk-3b9428f3.md) |
-| AVSLab/basilisk | partial | 2026-09-03T00:16:00Z | [open](../records/basilisk-avslab-basilisk-3f9dd832.md) |
+| AVSLab/basilisk | partial | 2026-09-03T11:22:05Z | [open](../records/basilisk-avslab-basilisk-3f9dd832.md) |
 | CarterBalow/avs-lab-work | partial | 2026-09-02T17:52:11Z | [open](../records/basilisk-carterbalow-avs-lab-work-c0f5c66b.md) |
 | DISCOWER/bsk-msgs | partial | 2026-07-02T20:47:18Z | [open](../records/basilisk-discower-bsk-msgs-80974f96.md) |
 | DISCOWER/bsk-ros2-bridge | partial | 2026-08-25T16:24:45Z | [open](../records/basilisk-discower-bsk-ros2-bridge-ff7c49fa.md) |
@@ -639,7 +639,7 @@ Records: `993`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AstrBotDevs/AstrBot | partial | 2026-09-03T09:19:58Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
-| HKUDS/LightRAG | partial | 2026-09-03T10:57:46Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
+| HKUDS/LightRAG | partial | 2026-09-03T11:36:35Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
 | labring/FastGPT | partial | 2026-09-03T07:57:23Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Font Briefcase
@@ -903,12 +903,12 @@ Records: `993`
 | --- | --- | --- | --- |
 | adefossez/julius | partial | 2026-06-03T15:55:19Z | [open](../records/effects-adefossez-julius-c2369600.md) |
 | AstronDaniel/audio_effects_processor | partial | 2024-10-29T06:28:20Z | [open](../records/effects-astrondaniel-audio-effects-processor-bc59d97d.md) |
-| avaneev/r8brain-free-src | partial | 2026-08-17T01:27:01Z | [open](../records/effects-avaneev-r8brain-free-src-0726978b.md) |
+| avaneev/r8brain-free-src | partial | 2026-09-02T17:58:46Z | [open](../records/effects-avaneev-r8brain-free-src-0726978b.md) |
 | calebzulawski/fourier | partial | 2023-04-28T21:48:36Z | [open](../records/effects-calebzulawski-fourier-33620126.md) |
 | cirocosta/asciinema-edit | partial | 2023-06-28T22:07:22Z | [open](../records/effects-cirocosta-asciinema-edit-04188dee.md) |
 | iver56/torch-audiomentations | partial | 2025-11-24T20:07:26Z | [open](../records/effects-iver56-torch-audiomentations-79b689a6.md) |
 | kfrlib/kfr | partial | 2026-08-19T17:28:01Z | [open](../records/effects-kfrlib-kfr-8c028bab.md) |
-| marton78/pffft | partial | 2026-08-28T11:40:55Z | [open](../records/effects-marton78-pffft-ac92569e.md) |
+| marton78/pffft | partial | 2026-09-03T11:44:51Z | [open](../records/effects-marton78-pffft-ac92569e.md) |
 | metno/gridpp | partial | 2025-03-16T08:51:54Z | [open](../records/effects-metno-gridpp-e2860702.md) |
 | rj200/Glamarye_Fast_Effects_for_ReShade | v6.4.2 | 2023-08-07T23:17:19Z | [open](../records/effects-rj200-glamarye-fast-effects-for-reshade-71a12d66.md) |
 | seanZhang414/openadserver | partial | 2025-12-21T13:17:51Z | [open](../records/effects-seanzhang414-openadserver-f9d27b45.md) |
@@ -929,7 +929,7 @@ Records: `993`
 | kfrlib/kfr | partial | 2026-08-19T17:28:01Z | [open](../records/audio-kfrlib-kfr-16ccf88e.md) |
 | lucianoiam/castello | partial | 2024-07-08T09:35:55Z | [open](../records/audio-lucianoiam-castello-ed99de92.md) |
 | m1ckc3s/procedural-sounds | unknown | github_latest_release_missing | [open](../records/audio-m1ckc3s-procedural-sounds-dbbd8e64.md) |
-| marton78/pffft | partial | 2026-09-02T12:26:39Z | [open](../records/audio-marton78-pffft-c4ec5a52.md) |
+| marton78/pffft | partial | 2026-09-03T11:44:51Z | [open](../records/audio-marton78-pffft-c4ec5a52.md) |
 | peastman/ChorusExMachina | partial | 2026-04-05T22:14:43Z | [open](../records/audio-peastman-chorusexmachina-3e17f778.md) |
 | peastman/sso | partial | 2026-08-22T15:33:58Z | [open](../records/audio-peastman-sso-158443d0.md) |
 | RustAudio/rust-lv2 | partial | 2024-06-04T11:38:12Z | [open](../records/audio-rustaudio-rust-lv2-c9ec0d06.md) |
@@ -1016,7 +1016,7 @@ Records: `993`
 | Sigmyne/SuperNOVAS | partial | 2026-09-03T07:36:55Z | [open](../records/telescopes-sigmyne-supernovas-c1bcbf75.md) |
 | spacetelescope/poppy | partial | 2026-08-26T14:23:04Z | [open](../records/telescopes-spacetelescope-poppy-8fcb0fc5.md) |
 | Stellarium/stellarium | partial | 2026-09-02T20:03:56Z | [open](../records/telescopes-stellarium-stellarium-a274d765.md) |
-| sunpy/sunpy | partial | 2026-09-01T13:34:19Z | [open](../records/telescopes-sunpy-sunpy-52ba6b6e.md) |
+| sunpy/sunpy | partial | 2026-09-03T11:45:18Z | [open](../records/telescopes-sunpy-sunpy-52ba6b6e.md) |
 | trehn/termtrack | partial | 2026-01-28T01:20:28Z | [open](../records/telescopes-trehn-termtrack-6877d137.md) |
 | vedika-io/xalen-ephemeris | partial | 2026-07-02T21:33:33Z | [open](../records/telescopes-vedika-io-xalen-ephemeris-c0e77623.md) |
 | yt-project/yt | partial | 2026-09-02T20:28:47Z | [open](../records/telescopes-yt-project-yt-9a71f88e.md) |
