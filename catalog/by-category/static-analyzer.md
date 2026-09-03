@@ -1,6 +1,6 @@
 # Static Analyzer
 
-Records: `493`
+Records: `497`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `493`
 
 ## Category Index
 
-[Api Abi Checker (205)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
-[Benchmarking (166)](benchmarking.md) · [Build System (918)](build-system.md) · [Cli (536)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (205)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
+[Benchmarking (166)](benchmarking.md) · [Build System (920)](build-system.md) · [Cli (539)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (99)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
-[Concurrency Parallelism (79)](concurrency-parallelism.md) · [Configuration (115)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (835)](database-datastore.md) · [Datetime (186)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (97)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (405)](ffi-bindings.md) · [Filesystem Os (1387)](filesystem-os.md) · [Formatter (609)](formatter.md)
-[Framework (54)](framework.md) · [Fuzzer (54)](fuzzer.md) · [Game Engine Game Dev (172)](game-engine-game-dev.md) · [Ide Editor Integration (1326)](ide-editor-integration.md)
-[Image Audio Dsp (359)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (252)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1377)](language-specification.md) · [Library (5259)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (483)](logging-observability.md) · [Machine Learning (655)](machine-learning.md)
-[Math Numeric Scientific (84)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (38)](message-broker.md) · [Networking Http (969)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (417)](package-manager.md) · [Parser Lexer Ast (1016)](parser-lexer-ast.md) · [Precommit Ci Quality (282)](precommit-ci-quality.md)
+[Concurrency Parallelism (79)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (835)](database-datastore.md) · [Datetime (187)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (98)](documentation.md)
+[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (406)](ffi-bindings.md) · [Filesystem Os (1394)](filesystem-os.md) · [Formatter (612)](formatter.md)
+[Framework (54)](framework.md) · [Fuzzer (54)](fuzzer.md) · [Game Engine Game Dev (173)](game-engine-game-dev.md) · [Ide Editor Integration (1334)](ide-editor-integration.md)
+[Image Audio Dsp (391)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (253)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1380)](language-specification.md) · [Library (5264)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (483)](logging-observability.md) · [Machine Learning (661)](machine-learning.md)
+[Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (972)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (420)](package-manager.md) · [Parser Lexer Ast (1022)](parser-lexer-ast.md) · [Precommit Ci Quality (283)](precommit-ci-quality.md)
 [Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (333)](security-sast.md) · [Serialization (380)](serialization.md) · [Standard Library (25)](standard-library.md) · **[Static Analyzer (493)](static-analyzer.md)**
+[Security Sast (333)](security-sast.md) · [Serialization (382)](serialization.md) · [Standard Library (25)](standard-library.md) · **[Static Analyzer (497)](static-analyzer.md)**
 [Templating (2)](templating.md) · [Testing Framework (520)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (300)](type-checker.md)
-[Undefined Behavior Analyzer (1504)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (470)](visualization-gui.md) · [Web Framework (452)](web-framework.md)
+[Undefined Behavior Analyzer (1506)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (473)](visualization-gui.md) · [Web Framework (453)](web-framework.md)
 
 ## C99
 
@@ -517,7 +517,9 @@ Records: `493`
 | --- | --- | --- | --- |
 | bluescan/tacentview | partial | 2026-08-10T08:53:43Z | [open](../records/photography-bluescan-tacentview-36115ac1.md) |
 | dlazaro66/QRCodeReaderView | partial | 2021-06-21T04:55:28Z | [open](../records/photography-dlazaro66-qrcodereaderview-9c349462.md) |
+| gee-community/geemap | partial | 2026-09-03T22:07:25Z | [open](../records/photography-gee-community-geemap-8f40e707.md) |
 | GrapheneOS/Camera | partial | 2026-09-01T20:43:08Z | [open](../records/photography-grapheneos-camera-e6336699.md) |
+| Haris87/photosint | partial | 2021-07-15T15:24:38Z | [open](../records/photography-haris87-photosint-5032ef4a.md) |
 | hyperoslo/BarcodeScanner | partial | 2024-07-29T16:11:57Z | [open](../records/photography-hyperoslo-barcodescanner-b1f848d8.md) |
 | jackw01/scanlight | partial | 2026-08-20T06:04:39Z | [open](../records/photography-jackw01-scanlight-ebc00536.md) |
 | jorhelp/Ingram | partial | 2026-08-19T05:04:43Z | [open](../records/photography-jorhelp-ingram-4f54c30d.md) |
@@ -527,6 +529,8 @@ Records: `493`
 | MK-Ware/Forensic-Tools | partial | 2019-09-12T12:38:16Z | [open](../records/photography-mk-ware-forensic-tools-3fbe9061.md) |
 | moaazsidat/react-native-qrcode-scanner | partial | 2023-05-12T11:16:38Z | [open](../records/photography-moaazsidat-react-native-qrcode-scanner-e8683b24.md) |
 | ncoevoet/facet | unknown | github_search_does_not_include_release_date | [open](../records/photography-ncoevoet-facet-f48943dd.md) |
+| ocrmypdf/OCRmyPDF | partial | 2026-09-01T21:33:13Z | [open](../records/photography-ocrmypdf-ocrmypdf-1ca953e5.md) |
+| ossappscollective/OSS-DocumentScanner | partial | 2026-08-30T20:41:11Z | [open](../records/photography-ossappscollective-oss-documentscanner-1c9854f2.md) |
 | petrobras/GeoSlicer | partial | 2026-08-18T18:30:06Z | [open](../records/photography-petrobras-geoslicer-d6192212.md) |
 | photonixapp/photonix | partial | 2026-07-21T11:06:10Z | [open](../records/photography-photonixapp-photonix-0ee14fb2.md) |
 | react-native-camera/react-native-camera | partial | 2023-06-07T10:03:10Z | [open](../records/photography-react-native-camera-react-native-camera-beed788e.md) |
@@ -557,7 +561,7 @@ Records: `493`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| gwastro/pycbc | partial | 2026-09-02T19:14:43Z | [open](../records/telescopes-gwastro-pycbc-b93b6565.md) |
+| gwastro/pycbc | partial | 2026-09-03T21:40:01Z | [open](../records/telescopes-gwastro-pycbc-b93b6565.md) |
 | lightkurve/lightkurve | partial | 2026-08-25T19:58:28Z | [open](../records/telescopes-lightkurve-lightkurve-47762682.md) |
 
 ## Radars
@@ -587,7 +591,7 @@ Records: `493`
 | josevcm/nfc-laboratory | partial | 2026-06-29T16:44:55Z | [open](../records/satcom-satellites-josevcm-nfc-laboratory-d0d4de08.md) |
 | kylebarron/deck.gl-raster | partial | 2026-01-07T22:03:42Z | [open](../records/satcom-satellites-kylebarron-deck-gl-raster-e8f894a4.md) |
 | neural75/gqrx-scanner | partial | 2026-06-30T23:46:19Z | [open](../records/satcom-satellites-neural75-gqrx-scanner-fba8a978.md) |
-| obss/sahi | partial | 2026-09-03T06:23:30Z | [open](../records/satcom-satellites-obss-sahi-1480f6f4.md) |
+| obss/sahi | partial | 2026-09-03T20:25:05Z | [open](../records/satcom-satellites-obss-sahi-1480f6f4.md) |
 | rfquack/RFQuack | partial | 2024-12-23T21:53:48Z | [open](../records/satcom-satellites-rfquack-rfquack-fe75b1ae.md) |
 | shajen/rtl-sdr-scanner-cpp | partial | 2026-06-19T05:53:15Z | [open](../records/satcom-satellites-shajen-rtl-sdr-scanner-cpp-92145041.md) |
 | sshuair/torchsat | partial | 2020-08-30T14:03:49Z | [open](../records/satcom-satellites-sshuair-torchsat-b039098e.md) |
@@ -714,7 +718,7 @@ Records: `493`
 | Gitea: corricca/elibrary-publication-analyzer | partial | 2026-01-29T19:57:29Z | [open](../records/repository-workplaces-gitea-corricca-elibrary-publication-analyzer-3d1b67ed.md) |
 | Gitea: ImageProcessing-ElectronicPublications/imthreshold | partial | 2023-10-26T10:52:14Z | [open](../records/repository-workplaces-gitea-imageprocessing-electronicpublications-imthreshold-a87c44af.md) |
 | gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-03T19:56:00.623Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
-| gitlab-org/gitlab | partial | 2026-09-03T19:35:32.052Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
+| gitlab-org/gitlab | partial | 2026-09-03T21:37:10.461Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
 | gitlab-org/security-products/analyzers/container-scanning | partial | 2026-08-27T18:19:28.289Z | [open](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) |
 | gitlab-security-oss/cis/gitlabcis | partial | 2026-09-01T20:35:39.553Z | [open](../records/repository-workplaces-gitlab-security-oss-cis-gitlabcis-f7ce6047.md) |
 | hgraca/app-mapper | partial | 2026-09-03T08:04:50.015Z | [open](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) |

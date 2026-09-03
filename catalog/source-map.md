@@ -4,23 +4,23 @@
 
 ## Category Index
 
-[Api Abi Checker (205)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (44)](by-category/assertion-mocking.md) · [Async Runtime (134)](by-category/async-runtime.md)
-[Benchmarking (166)](by-category/benchmarking.md) · [Build System (918)](by-category/build-system.md) · [Cli (536)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Api Abi Checker (205)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (45)](by-category/assertion-mocking.md) · [Async Runtime (134)](by-category/async-runtime.md)
+[Benchmarking (166)](by-category/benchmarking.md) · [Build System (920)](by-category/build-system.md) · [Cli (539)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (99)](by-category/community-reference.md) · [Compiler (174)](by-category/compiler.md) · [Compiler Diagnostics (23)](by-category/compiler-diagnostics.md) · [Compression (48)](by-category/compression.md)
-[Concurrency Parallelism (79)](by-category/concurrency-parallelism.md) · [Configuration (115)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (165)](by-category/cryptography.md) · [Data Science (35)](by-category/data-science.md) · [Database Datastore (835)](by-category/database-datastore.md) · [Datetime (186)](by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (42)](by-category/debugger.md) · [Dependency Manager (93)](by-category/dependency-manager.md) · [Documentation (97)](by-category/documentation.md)
-[Embedded Hardware (54)](by-category/embedded-hardware.md) · [Ffi Bindings (405)](by-category/ffi-bindings.md) · [Filesystem Os (1387)](by-category/filesystem-os.md) · [Formatter (609)](by-category/formatter.md)
-[Framework (54)](by-category/framework.md) · [Fuzzer (54)](by-category/fuzzer.md) · [Game Engine Game Dev (172)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1326)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (359)](by-category/image-audio-dsp.md) · [Interop Bindings (58)](by-category/interop-bindings.md) · [Interpreter Runtime (252)](by-category/interpreter-runtime.md) · [Jit Vm (60)](by-category/jit-vm.md)
-[Language Server (27)](by-category/language-server.md) · [Language Specification (1377)](by-category/language-specification.md) · [Library (5259)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (43)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (483)](by-category/logging-observability.md) · [Machine Learning (655)](by-category/machine-learning.md)
-[Math Numeric Scientific (84)](by-category/math-numeric-scientific.md) · [Memory Analyzer (89)](by-category/memory-analyzer.md) · [Message Broker (38)](by-category/message-broker.md) · [Networking Http (969)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (417)](by-category/package-manager.md) · [Parser Lexer Ast (1016)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (282)](by-category/precommit-ci-quality.md)
+[Concurrency Parallelism (79)](by-category/concurrency-parallelism.md) · [Configuration (116)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
+[Cryptography (165)](by-category/cryptography.md) · [Data Science (35)](by-category/data-science.md) · [Database Datastore (835)](by-category/database-datastore.md) · [Datetime (187)](by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (42)](by-category/debugger.md) · [Dependency Manager (93)](by-category/dependency-manager.md) · [Documentation (98)](by-category/documentation.md)
+[Embedded Hardware (55)](by-category/embedded-hardware.md) · [Ffi Bindings (406)](by-category/ffi-bindings.md) · [Filesystem Os (1394)](by-category/filesystem-os.md) · [Formatter (612)](by-category/formatter.md)
+[Framework (54)](by-category/framework.md) · [Fuzzer (54)](by-category/fuzzer.md) · [Game Engine Game Dev (173)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1334)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (391)](by-category/image-audio-dsp.md) · [Interop Bindings (58)](by-category/interop-bindings.md) · [Interpreter Runtime (253)](by-category/interpreter-runtime.md) · [Jit Vm (60)](by-category/jit-vm.md)
+[Language Server (27)](by-category/language-server.md) · [Language Specification (1380)](by-category/language-specification.md) · [Library (5264)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (43)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (483)](by-category/logging-observability.md) · [Machine Learning (661)](by-category/machine-learning.md)
+[Math Numeric Scientific (85)](by-category/math-numeric-scientific.md) · [Memory Analyzer (89)](by-category/memory-analyzer.md) · [Message Broker (39)](by-category/message-broker.md) · [Networking Http (972)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (420)](by-category/package-manager.md) · [Parser Lexer Ast (1022)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (283)](by-category/precommit-ci-quality.md)
 [Profiler (82)](by-category/profiler.md) · [Project Scaffolding (130)](by-category/project-scaffolding.md) · [Registry Repository (108)](by-category/registry-repository.md) · [Sanitizer (13)](by-category/sanitizer.md)
-[Security Sast (333)](by-category/security-sast.md) · [Serialization (380)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (493)](by-category/static-analyzer.md)
+[Security Sast (333)](by-category/security-sast.md) · [Serialization (382)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (497)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (520)](by-category/testing-framework.md) · [Tutorial Book Styleguide (56)](by-category/tutorial-book-styleguide.md) · [Type Checker (300)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1504)](by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](by-category/utility-library.md) · [Visualization Gui (470)](by-category/visualization-gui.md) · [Web Framework (452)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1506)](by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](by-category/utility-library.md) · [Visualization Gui (473)](by-category/visualization-gui.md) · [Web Framework (453)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -1454,6 +1454,7 @@
 | `cran_packages_by_date-670d5d0ae9839c` | mixedBayes | [open](records/r-mixedbayes-0f969f6f.md) |
 | `cran_packages_by_date-6731500f51254a` | ggforestplotR | [open](records/r-ggforestplotr-6cb2e8d1.md) |
 | `cran_packages_by_date-675a1a1c9acbb0` | tabulergm | [open](records/r-tabulergm-44172871.md) |
+| `cran_packages_by_date-677e6c1851507d` | openEBGM | [open](records/r-openebgm-5361b63e.md) |
 | `cran_packages_by_date-67a8391f8c4979` | orthoMTL | [open](records/r-orthomtl-9686a236.md) |
 | `cran_packages_by_date-67ad750ddf32fe` | resultcheck | [open](records/r-resultcheck-86b0a956.md) |
 | `cran_packages_by_date-67ee7d64457a4b` | easyPSID | [open](records/r-easypsid-c110c965.md) |
@@ -10318,9 +10319,13 @@
 | `github_search_pattern_language-fd927fb2966bb6` | uuhnaut69/saga-pattern-microservices | [open](records/pattern-language-uuhnaut69-saga-pattern-microservices-96c7cae5.md) |
 | `github_search_pattern_language-fe60acbcd47b41` | nilbuild/design-patterns-for-humans | [open](records/pattern-language-nilbuild-design-patterns-for-humans-38fea4c2.md) |
 | `github_search_photography-015332a10237fe` | jyjblrd/3D-Printed-Film-Video-Camera | [open](records/photography-jyjblrd-3d-printed-film-video-camera-cbe2ee7c.md) |
+| `github_search_photography-01811440dbaa16` | lodev09/react-native-exify | [open](records/photography-lodev09-react-native-exify-f46e915f.md) |
 | `github_search_photography-0193a776c7467b` | jpvalery/portfolio | [open](records/photography-jpvalery-portfolio-65a2420d.md) |
 | `github_search_photography-0353d282e9c29f` | cdgriffith/FastFlix | [open](records/photography-cdgriffith-fastflix-7fb4169b.md) |
 | `github_search_photography-038105723b23af` | BigShoots/PGenerator-Plus | [open](records/photography-bigshoots-pgenerator-plus-9c91b47a.md) |
+| `github_search_photography-03aa99d556ea0e` | shimat/opencvsharp | [open](records/photography-shimat-opencvsharp-caa1df8e.md) |
+| `github_search_photography-048db20687dbfb` | coobird/thumbnailator | [open](records/photography-coobird-thumbnailator-dc6338d1.md) |
+| `github_search_photography-054c7136634ba9` | thtrieu/darkflow | [open](records/photography-thtrieu-darkflow-713a4b37.md) |
 | `github_search_photography-05b2448dd471a2` | outdoorbits/little-backup-box | [open](records/photography-outdoorbits-little-backup-box-04af0fc7.md) |
 | `github_search_photography-08e46aa3cb1f06` | schmich/instascan | [open](records/photography-schmich-instascan-8bf0775d.md) |
 | `github_search_photography-0945eaab9af4ad` | Neko3000/Monotone | [open](records/photography-neko3000-monotone-3360e26b.md) |
@@ -10336,9 +10341,11 @@
 | `github_search_photography-0f2ee7ece3b209` | shenmintao/Raw-Alchemy | [open](records/photography-shenmintao-raw-alchemy-4749893d.md) |
 | `github_search_photography-0f3d646b538058` | opendatacam/opendatacam | [open](records/photography-opendatacam-opendatacam-2d3b3502.md) |
 | `github_search_photography-0f892823db159c` | koide3/direct_visual_lidar_calibration | [open](records/photography-koide3-direct-visual-lidar-calibration-507b0f15.md) |
+| `github_search_photography-0f925d3dd05303` | cshum/imagor | [open](records/photography-cshum-imagor-a7d7da1b.md) |
 | `github_search_photography-101bcda5427ec5` | 0015/ThatProject | [open](records/photography-0015-thatproject-8444de02.md) |
 | `github_search_photography-106e9096ed424f` | spike0en/awesome_nothing | [open](records/photography-spike0en-awesome-nothing-9d5baec7.md) |
 | `github_search_photography-108aeeb8628375` | secluso/core | [open](records/photography-secluso-core-7e843bc5.md) |
+| `github_search_photography-11a165fe77f7a2` | microsoft/computervision-recipes | [open](records/photography-microsoft-computervision-recipes-f9b81002.md) |
 | `github_search_photography-1386c2e2321bd8` | k3b/APhotoManager | [open](records/photography-k3b-aphotomanager-721733de.md) |
 | `github_search_photography-13bbc0f76c0d65` | feloex/GoogleTakeoutFixer | [open](records/photography-feloex-googletakeoutfixer-ab28bf0f.md) |
 | `github_search_photography-1453f3c25847db` | boltgolt/howdy | [open](records/photography-boltgolt-howdy-772dcbb3.md) |
@@ -10346,11 +10353,15 @@
 | `github_search_photography-14922ace52610d` | scheckmedia/CameraControllerApi | [open](records/photography-scheckmedia-cameracontrollerapi-8460a802.md) |
 | `github_search_photography-14cf63cb5a15c8` | LLhon/Android-Video-Editor | [open](records/photography-llhon-android-video-editor-fc894c46.md) |
 | `github_search_photography-1538c8be3b4157` | hanatos/vkdt | [open](records/photography-hanatos-vkdt-673c0f96.md) |
+| `github_search_photography-1548476b9f3118` | GuidoBartoli/sherloq | [open](records/photography-guidobartoli-sherloq-89dd76f4.md) |
 | `github_search_photography-158d0bdf337adb` | DrMint/Litrato | [open](records/photography-drmint-litrato-4591cffe.md) |
 | `github_search_photography-15ed3a06d245fb` | markusthiel/lumio | [open](records/photography-markusthiel-lumio-24d2fd8b.md) |
+| `github_search_photography-1613f8d3559d35` | trimmer-io/go-xmp | [open](records/photography-trimmer-io-go-xmp-9ead3a5c.md) |
+| `github_search_photography-168cb11f8e638e` | james-see/iptcinfo3 | [open](records/photography-james-see-iptcinfo3-05875274.md) |
 | `github_search_photography-16d30dba446afe` | jdisho/Papr | [open](records/photography-jdisho-papr-d97d54b2.md) |
 | `github_search_photography-1750f84506f9be` | ankitdhall/lidar_camera_calibration | [open](records/photography-ankitdhall-lidar-camera-calibration-71522045.md) |
 | `github_search_photography-17921bd38d3dd5` | s60sc/ESP32-CAM_MJPEG2SD | [open](records/photography-s60sc-esp32-cam-mjpeg2sd-53d380ad.md) |
+| `github_search_photography-17f8ed979ea838` | Nyx0uf/NYXImagesKit | [open](records/photography-nyx0uf-nyximageskit-a992859a.md) |
 | `github_search_photography-183c33c39d3275` | eszdman/PhotonCamera | [open](records/photography-eszdman-photoncamera-7ae407a8.md) |
 | `github_search_photography-18468a1fc1bb50` | nv-tlabs/vipe | [open](records/photography-nv-tlabs-vipe-115cedae.md) |
 | `github_search_photography-187f0fbcdf2c67` | Jermic/awesome-aiart-pics-prompts | [open](records/photography-jermic-awesome-aiart-pics-prompts-7d7d38d2.md) |
@@ -10367,6 +10378,7 @@
 | `github_search_photography-1e909e470bce4f` | SasaKaranovic/DIY-Camera-Slider | [open](records/photography-sasakaranovic-diy-camera-slider-db4a5c42.md) |
 | `github_search_photography-1f752cfad530ec` | mikeroyal/Photogrammetry-Guide | [open](records/photography-mikeroyal-photogrammetry-guide-1e6df465.md) |
 | `github_search_photography-20b427fe7e8ae3` | blakeblackshear/frigate | [open](records/photography-blakeblackshear-frigate-ea8ac18c.md) |
+| `github_search_photography-20b9cab08706b4` | wasabeef/glide-transformations | [open](records/photography-wasabeef-glide-transformations-6efa38dc.md) |
 | `github_search_photography-20e68a49ce16bd` | jhuckaby/webcamjs | [open](records/photography-jhuckaby-webcamjs-58c57d13.md) |
 | `github_search_photography-211291b267e5c7` | wszqkzqk/live-photo-conv | [open](records/photography-wszqkzqk-live-photo-conv-27ae8acd.md) |
 | `github_search_photography-2133af0f040016` | RajPShinde/CamSlider | [open](records/photography-rajpshinde-camslider-b85e6af0.md) |
@@ -10375,6 +10387,7 @@
 | `github_search_photography-22ebdbde686278` | zidage/AlcedoStudio | [open](records/photography-zidage-alcedostudio-0233770d.md) |
 | `github_search_photography-22f527b1e14c95` | aslost/pixtale | [open](records/photography-aslost-pixtale-df702412.md) |
 | `github_search_photography-23ed517203a3b2` | drewnoakes/metadata-extractor | [open](records/photography-drewnoakes-metadata-extractor-0d5413a2.md) |
+| `github_search_photography-2437c9677cc1b7` | xuebinqin/U-2-Net | [open](records/photography-xuebinqin-u-2-net-f731a08c.md) |
 | `github_search_photography-24a13cb0405317` | barasher/go-exiftool | [open](records/photography-barasher-go-exiftool-8331c642.md) |
 | `github_search_photography-25dc97dcfefda7` | geerlingguy/pi-timelapse | [open](records/photography-geerlingguy-pi-timelapse-7558d989.md) |
 | `github_search_photography-26bec477c4d7e3` | natural-harmonia-gropius/hdr-toys | [open](records/photography-natural-harmonia-gropius-hdr-toys-165c3563.md) |
@@ -10382,19 +10395,25 @@
 | `github_search_photography-27d0db78d52b3c` | PicPeak/picpeak | [open](records/photography-picpeak-picpeak-189749c9.md) |
 | `github_search_photography-28a20d9f0166e6` | toonoumi/FreeCCR | [open](records/photography-toonoumi-freeccr-c64ca022.md) |
 | `github_search_photography-2915b1826e3641` | mv-lab/nilut | [open](records/photography-mv-lab-nilut-866ec3fa.md) |
+| `github_search_photography-2944eef5d45374` | Haris87/photosint | [open](records/photography-haris87-photosint-5032ef4a.md) |
 | `github_search_photography-294f67617bb951` | szTheory/exifcleaner | [open](records/photography-sztheory-exifcleaner-b20ea9b2.md) |
 | `github_search_photography-29aac0c355c7fe` | RedApparat/FaceDetector | [open](records/photography-redapparat-facedetector-e2c92c78.md) |
 | `github_search_photography-29ef5e2259ee8b` | dyphire/mpv-scripts | [open](records/photography-dyphire-mpv-scripts-38561f26.md) |
 | `github_search_photography-29f979ab07b60f` | pedrodiamel/colorchecker-detection | [open](records/photography-pedrodiamel-colorchecker-detection-02116cb9.md) |
 | `github_search_photography-2a2c5ca1b71eca` | scottlamb/moonfire-nvr | [open](records/photography-scottlamb-moonfire-nvr-a6399221.md) |
 | `github_search_photography-2aba1567ce2284` | Cognirush-Labs-LLP/icompress-win | [open](records/photography-cognirush-labs-llp-icompress-win-28ad11a2.md) |
+| `github_search_photography-2b923166a4b9e1` | dsoprea/go-jpeg-image-structure | [open](records/photography-dsoprea-go-jpeg-image-structure-e944142a.md) |
 | `github_search_photography-2bbf2783eb4d49` | kaeldrin-gh/HDR-Gamma-Fix | [open](records/photography-kaeldrin-gh-hdr-gamma-fix-403dab7d.md) |
 | `github_search_photography-2c2ac3d3d74a91` | afgprogrammer/Flutter-Photography-Application | [open](records/photography-afgprogrammer-flutter-photography-application-d1b12714.md) |
 | `github_search_photography-2e12b67dc3c99f` | Tom94/tev | [open](records/photography-tom94-tev-6cd73e6b.md) |
 | `github_search_photography-2e1c6d0e3303ec` | fabiocaccamo/FCFileManager | [open](records/photography-fabiocaccamo-fcfilemanager-4df2c7db.md) |
+| `github_search_photography-2e2a34a9b2c38f` | hpjansson/chafa | [open](records/photography-hpjansson-chafa-f9ebbba8.md) |
+| `github_search_photography-2e3291fc422198` | lukas-blecher/LaTeX-OCR | [open](records/photography-lukas-blecher-latex-ocr-2549c102.md) |
+| `github_search_photography-2f783810c1e6f2` | pqina/filepond | [open](records/photography-pqina-filepond-452a0cbf.md) |
 | `github_search_photography-309221703df348` | fakeyanss/Hexo-Album | [open](records/photography-fakeyanss-hexo-album-ca3a05d2.md) |
 | `github_search_photography-31348b63126013` | exiftool-rb/exiftool.rb | [open](records/photography-exiftool-rb-exiftool-rb-a5ae98ad.md) |
 | `github_search_photography-319cc9757b2e6c` | dorukkumkumoglu/optocamzero | [open](records/photography-dorukkumkumoglu-optocamzero-fa33e18d.md) |
+| `github_search_photography-31a8059bada0e2` | exif-heic-js/exif-heic-js | [open](records/photography-exif-heic-js-exif-heic-js-3a6db78a.md) |
 | `github_search_photography-31c4621b638505` | AlexLittlejohn/ALCameraViewController | [open](records/photography-alexlittlejohn-alcameraviewcontroller-74f1a492.md) |
 | `github_search_photography-320bde3e890746` | geerlingguy/pi-webcam | [open](records/photography-geerlingguy-pi-webcam-1d30657f.md) |
 | `github_search_photography-32427fcdff161b` | xhuangcv/neucam | [open](records/photography-xhuangcv-neucam-e08e99a7.md) |
@@ -10403,6 +10422,7 @@
 | `github_search_photography-333359f14d0900` | awawa-dev/HyperHDR | [open](records/photography-awawa-dev-hyperhdr-e35f8c3a.md) |
 | `github_search_photography-3387cf799a4cbb` | xmtggh/VideoCalling | [open](records/photography-xmtggh-videocalling-89dad280.md) |
 | `github_search_photography-33913f5ab58aa6` | kmcclive/tricycle | [open](records/photography-kmcclive-tricycle-e54dad7e.md) |
+| `github_search_photography-33b660fe5e2da5` | hardikvasa/google-images-download | [open](records/photography-hardikvasa-google-images-download-616655d8.md) |
 | `github_search_photography-340f332ae27904` | hkk595/Resizer | [open](records/photography-hkk595-resizer-069d81cb.md) |
 | `github_search_photography-3490856c86235b` | soumik12345/Zero-DCE | [open](records/photography-soumik12345-zero-dce-3b108f11.md) |
 | `github_search_photography-34c3274e2e7eda` | GimelStudio/Gimel-Studio | [open](records/photography-gimelstudio-gimel-studio-ee7b3558.md) |
@@ -10421,6 +10441,9 @@
 | `github_search_photography-3b2af7fd19c722` | Hedroed/png-parser | [open](records/photography-hedroed-png-parser-e0bab35a.md) |
 | `github_search_photography-3bb1f92bfbc411` | mustakshif/Asri | [open](records/photography-mustakshif-asri-d6fbc7e4.md) |
 | `github_search_photography-3bd336ee650f1d` | PicPeak/picpeak | [open](records/photography-picpeak-picpeak-d6957174.md) |
+| `github_search_photography-3cb886865bed71` | danielgatis/rembg | [open](records/photography-danielgatis-rembg-d981578e.md) |
+| `github_search_photography-3cebcae5adb260` | ImageMagick/ImageMagick | [open](records/photography-imagemagick-imagemagick-21d650e1.md) |
+| `github_search_photography-3d9bf66680bb76` | Slicer/Slicer | [open](records/photography-slicer-slicer-04ff6520.md) |
 | `github_search_photography-3e883ab464e324` | PhotoFlare/photoflare | [open](records/photography-photoflare-photoflare-54d4deb9.md) |
 | `github_search_photography-3ff83766b3aca7` | niklasr22/BrightIntosh | [open](records/photography-niklasr22-brightintosh-a739a56f.md) |
 | `github_search_photography-403346293cfa83` | kamadak/exif-rs | [open](records/photography-kamadak-exif-rs-eafd841f.md) |
@@ -10429,14 +10452,18 @@
 | `github_search_photography-42b4983b659dda` | mcrescas/veriv | [open](records/photography-mcrescas-veriv-fd04d504.md) |
 | `github_search_photography-43272dd0f004d3` | banterle/HDR_Toolbox | [open](records/photography-banterle-hdr-toolbox-7502cc31.md) |
 | `github_search_photography-4350acc4572249` | ChrisChen667788/pixcull | [open](records/photography-chrischen667788-pixcull-77b8a7d3.md) |
+| `github_search_photography-44ca75db3e6bb5` | sylikc/jpegview | [open](records/photography-sylikc-jpegview-5fdb16fc.md) |
 | `github_search_photography-452a0179eface7` | google/cameraview | [open](records/photography-google-cameraview-f7228a30.md) |
 | `github_search_photography-454bf1e88c2534` | easytarget/esp32-cam-webserver | [open](records/photography-easytarget-esp32-cam-webserver-f045f06d.md) |
 | `github_search_photography-45659e80af819e` | McNopper/EGL | [open](records/photography-mcnopper-egl-83a16f1c.md) |
 | `github_search_photography-4583e0a6c0e6b6` | bmachek/lrc-immich-plugin | [open](records/photography-bmachek-lrc-immich-plugin-1ff1bb8b.md) |
 | `github_search_photography-45cd0d76f54c59` | TzuHuanTai/RaspberryPi-WebRTC | [open](records/photography-tzuhuantai-raspberrypi-webrtc-103efe2f.md) |
 | `github_search_photography-45cfe6e29f69ff` | daneden/photos.daneden.me | [open](records/photography-daneden-photos-daneden-me-bf6de6aa.md) |
+| `github_search_photography-4657d2e17faff6` | BinomialLLC/basis_universal | [open](records/photography-binomialllc-basis-universal-7a53e558.md) |
 | `github_search_photography-46ad3b3ebfa898` | drewnoakes/metadata-extractor-dotnet | [open](records/photography-drewnoakes-metadata-extractor-dotnet-c3fb164c.md) |
 | `github_search_photography-46b93f30bfbdcd` | Afilmory/afilmory | [open](records/photography-afilmory-afilmory-bc0398b6.md) |
+| `github_search_photography-4730e573bfc4c7` | TimOliver/TOCropViewController | [open](records/photography-timoliver-tocropviewcontroller-646242a6.md) |
+| `github_search_photography-4781e18f6bff56` | WeTransfer/format_parser | [open](records/photography-wetransfer-format-parser-a46c542e.md) |
 | `github_search_photography-47d039f8d2130a` | mdouchement/hdr | [open](records/photography-mdouchement-hdr-30201254.md) |
 | `github_search_photography-47f26e2c5b8fd3` | lucalista/shinestacker | [open](records/photography-lucalista-shinestacker-ea562427.md) |
 | `github_search_photography-47f55934ed2fb9` | carlospuenteg/Photomosaic-Creator | [open](records/photography-carlospuenteg-photomosaic-creator-b57e7ad4.md) |
@@ -10452,10 +10479,14 @@
 | `github_search_photography-4b13b5a96f7d96` | franckferman/MetaDetective | [open](records/photography-franckferman-metadetective-7e7e6923.md) |
 | `github_search_photography-4c749fd61ab6b3` | sparrowcode/PermissionsKit | [open](records/photography-sparrowcode-permissionskit-b8199387.md) |
 | `github_search_photography-4cebe75e633a77` | wang-bin/mdk-sdk | [open](records/photography-wang-bin-mdk-sdk-71f19b43.md) |
+| `github_search_photography-4d50dd6a149849` | GraphiteEditor/Graphite | [open](records/photography-graphiteeditor-graphite-f4ddca51.md) |
 | `github_search_photography-4dc620b130c982` | johansatge/jpeg-autorotate | [open](records/photography-johansatge-jpeg-autorotate-7a70acc3.md) |
 | `github_search_photography-4dc6e89d1e6b48` | nvpro-samples/vk_raytrace | [open](records/photography-nvpro-samples-vk-raytrace-c57a65a8.md) |
+| `github_search_photography-4e659de1090ef1` | leftfield-geospatial/orthority | [open](records/photography-leftfield-geospatial-orthority-240596ed.md) |
 | `github_search_photography-4ecac8b5e1e3aa` | SharpAI/DeepCamera | [open](records/photography-sharpai-deepcamera-8f21d9df.md) |
+| `github_search_photography-4efa60c117de41` | amusi/AI-Job-Notes | [open](records/photography-amusi-ai-job-notes-6f93e231.md) |
 | `github_search_photography-4f3bc4bea5c0f8` | ArthurFDLR/BR-M5 | [open](records/photography-arthurfdlr-br-m5-50c50774.md) |
+| `github_search_photography-4f45759a29ac58` | kornia/kornia | [open](records/photography-kornia-kornia-2f30e568.md) |
 | `github_search_photography-4f594a29ee6419` | cryptochrome/dovi_convert | [open](records/photography-cryptochrome-dovi-convert-de9244ab.md) |
 | `github_search_photography-4f6c448ed8f91a` | RedApparat/Fotoapparat | [open](records/photography-redapparat-fotoapparat-83bc00f9.md) |
 | `github_search_photography-51c11b35f934ec` | xhuangcv/hdr-nerf | [open](records/photography-xhuangcv-hdr-nerf-b35441ad.md) |
@@ -10471,36 +10502,50 @@
 | `github_search_photography-578c186c2bcd54` | MikeKovarik/exifr | [open](records/photography-mikekovarik-exifr-eeeac6dc.md) |
 | `github_search_photography-582ef76474257b` | pokeheadroom/RENDER96-HD-TEXTURE-PACK | [open](records/photography-pokeheadroom-render96-hd-texture-pack-b6249b4a.md) |
 | `github_search_photography-59258d8b9c3b0e` | hulk66/timeline | [open](records/photography-hulk66-timeline-edac6d56.md) |
+| `github_search_photography-5996a58b7c8b71` | codeforreal1/compressO | [open](records/photography-codeforreal1-compresso-03a9ea13.md) |
+| `github_search_photography-59c63311dab230` | wasabeef/Blurry | [open](records/photography-wasabeef-blurry-72cc1c82.md) |
 | `github_search_photography-5a0340deaac0bd` | rebeccaeexu/Awesome-High-Dynamic-Range-Imaging | [open](records/photography-rebeccaeexu-awesome-high-dynamic-range-imaging-35020b30.md) |
 | `github_search_photography-5aac1348027163` | QQxiaoming/YUVviewer | [open](records/photography-qqxiaoming-yuvviewer-c08a90b9.md) |
 | `github_search_photography-5b3fbd4fcab0dc` | PkmX/lcamera | [open](records/photography-pkmx-lcamera-452fc87a.md) |
 | `github_search_photography-5bc60dca0dd425` | begeekmyfriend/yasea | [open](records/photography-begeekmyfriend-yasea-008894a3.md) |
 | `github_search_photography-5c199352f0bfbb` | dnglab/dnglab | [open](records/photography-dnglab-dnglab-05d113bb.md) |
+| `github_search_photography-5c3927e7eb1234` | zyddnys/manga-image-translator | [open](records/photography-zyddnys-manga-image-translator-bbc95c1a.md) |
+| `github_search_photography-5c920e2de359cf` | nfnt/resize | [open](records/photography-nfnt-resize-09b63d52.md) |
 | `github_search_photography-5e4e72c75242a9` | quietvoid/hdr10plus_tool | [open](records/photography-quietvoid-hdr10plus-tool-0b668188.md) |
 | `github_search_photography-5e602bc6999f8a` | ncoevoet/facet | [open](records/photography-ncoevoet-facet-9042db71.md) |
 | `github_search_photography-5e8c84cd14f012` | jark006/JarkViewer | [open](records/photography-jark006-jarkviewer-384c10ce.md) |
+| `github_search_photography-5eb1b12ecb987a` | open-mmlab/mmagic | [open](records/photography-open-mmlab-mmagic-0ddafded.md) |
 | `github_search_photography-5eb928449e4c5e` | singhofen/photo-gallery-img-template | [open](records/photography-singhofen-photo-gallery-img-template-1141b3d8.md) |
+| `github_search_photography-5ee892acc5d3aa` | albumentations-team/albumentations | [open](records/photography-albumentations-team-albumentations-71e9ee4e.md) |
 | `github_search_photography-5fb7d91c2022b7` | Piwigo/Piwigo | [open](records/photography-piwigo-piwigo-ebe912b3.md) |
+| `github_search_photography-5fda20c259ad2a` | hybridgroup/gocv | [open](records/photography-hybridgroup-gocv-a4916bb3.md) |
 | `github_search_photography-621a7c3e892467` | photo-cli/photo-cli | [open](records/photography-photo-cli-photo-cli-ebb0e161.md) |
+| `github_search_photography-62409ba67e75ef` | wenbihan/reproducible-image-denoising-state-of-the-art | [open](records/photography-wenbihan-reproducible-image-denoising-state-of-the-art-afbd15f3.md) |
 | `github_search_photography-624ebc14daa6d6` | loliri/Starshot | [open](records/photography-loliri-starshot-54549de2.md) |
 | `github_search_photography-62d4c3b47e156c` | mz2/Carpaccio | [open](records/photography-mz2-carpaccio-47bb21ca.md) |
 | `github_search_photography-62df56da0b7c4c` | Refloow/Refloow-Geo-Forensics | [open](records/photography-refloow-refloow-geo-forensics-023aa0f3.md) |
+| `github_search_photography-63a0953a718de8` | ikaruswill/whatsapp-media-tools | [open](records/photography-ikaruswill-whatsapp-media-tools-a86cb83e.md) |
 | `github_search_photography-63bfb9f2063169` | ray075hl/singleLDR2HDR | [open](records/photography-ray075hl-singleldr2hdr-49562d8c.md) |
+| `github_search_photography-640c44c74f459d` | jwagner/smartcrop.js | [open](records/photography-jwagner-smartcrop-js-81bcc939.md) |
 | `github_search_photography-645b52da87aada` | ltkong218/SAFNet | [open](records/photography-ltkong218-safnet-0d57d597.md) |
 | `github_search_photography-647366100ed5f8` | res2k/HDRTray | [open](records/photography-res2k-hdrtray-ff9ae8bf.md) |
 | `github_search_photography-64d03c452beaca` | moul-co/moul | [open](records/photography-moul-co-moul-2cca2d07.md) |
 | `github_search_photography-651edd7b8391a5` | gilbitron/Splashify | [open](records/photography-gilbitron-splashify-82147992.md) |
 | `github_search_photography-6690f153982fd6` | hackerxphantom/HACK-CAMERA | [open](records/photography-hackerxphantom-hack-camera-3841089c.md) |
 | `github_search_photography-669762879648f0` | photostructure/exiftool-vendored.js | [open](records/photography-photostructure-exiftool-vendored-js-7488694d.md) |
+| `github_search_photography-66ba1049b682a8` | NVIDIA/DALI | [open](records/photography-nvidia-dali-a173c9e6.md) |
 | `github_search_photography-679362d82957bb` | SonyResearch/raw_image_denoising | [open](records/photography-sonyresearch-raw-image-denoising-41683fe2.md) |
 | `github_search_photography-68090ae13ff0d3` | alyssaxuu/screenity | [open](records/photography-alyssaxuu-screenity-3dcd34af.md) |
+| `github_search_photography-683895b53b31eb` | gee-community/geemap | [open](records/photography-gee-community-geemap-8f40e707.md) |
 | `github_search_photography-6856e7add3cf69` | starkdmi/BrightXDR | [open](records/photography-starkdmi-brightxdr-ed480395.md) |
 | `github_search_photography-68d8e81b95267e` | ramokz/phantom-camera | [open](records/photography-ramokz-phantom-camera-07b158cf.md) |
+| `github_search_photography-6965b2093ae053` | CodecWang/opencv-python-tutorial | [open](records/photography-codecwang-opencv-python-tutorial-f4931d07.md) |
 | `github_search_photography-6abe7a23715bf5` | colour-science/colour-hdri | [open](records/photography-colour-science-colour-hdri-473b7b85.md) |
 | `github_search_photography-6b0fc539dd2734` | photoshell/rawkit | [open](records/photography-photoshell-rawkit-9175a51c.md) |
 | `github_search_photography-6cae073bdf2b23` | motioneye-project/motioneye | [open](records/photography-motioneye-project-motioneye-6759b14c.md) |
 | `github_search_photography-6d43e59b6ccf6e` | Michael-A-Kuykendall/crabcamera | [open](records/photography-michael-a-kuykendall-crabcamera-9db06a90.md) |
 | `github_search_photography-6d53bfc72f48ca` | ncruces/RethinkRAW | [open](records/photography-ncruces-rethinkraw-a0dbdde6.md) |
+| `github_search_photography-6d99420ee68368` | CyberTimon/RapidRAW | [open](records/photography-cybertimon-rapidraw-037bcba7.md) |
 | `github_search_photography-6da680e7dfb519` | mooyoul/get-orientation | [open](records/photography-mooyoul-get-orientation-0b5e753d.md) |
 | `github_search_photography-6dcbb0d6ac4c26` | petabite/libsonyapi | [open](records/photography-petabite-libsonyapi-b8bbefc9.md) |
 | `github_search_photography-6e123749c0772b` | KonradIT/gopro-py-api | [open](records/photography-konradit-gopro-py-api-6085e041.md) |
@@ -10511,17 +10556,20 @@
 | `github_search_photography-70c55fd3d7ab53` | huangsam/photohaul | [open](records/photography-huangsam-photohaul-1391b651.md) |
 | `github_search_photography-70ee3ea53404af` | Refloow/Refloow-Photo-Studio | [open](records/photography-refloow-refloow-photo-studio-01fccd9c.md) |
 | `github_search_photography-71161e36f3ee9c` | Apparence-io/CamerAwesome | [open](records/photography-apparence-io-camerawesome-6dfa91a5.md) |
+| `github_search_photography-713d1e59e3f987` | Hugo-Dz/spritefusion-pixel-snapper | [open](records/photography-hugo-dz-spritefusion-pixel-snapper-0cc84233.md) |
 | `github_search_photography-714078c28c29f0` | JoaoFranco03/photography-portfolio | [open](records/photography-joaofranco03-photography-portfolio-4323d081.md) |
 | `github_search_photography-71723cb2ee86de` | RawTherapee/RawTherapee | [open](records/photography-rawtherapee-rawtherapee-846fa44c.md) |
 | `github_search_photography-727d5195a25c90` | Automaticism/Promptvision | [open](records/photography-automaticism-promptvision-8cf055e0.md) |
 | `github_search_photography-7464114038d235` | iammatthias/com | [open](records/photography-iammatthias-com-e27dacc6.md) |
 | `github_search_photography-74a60769c2571b` | DIYer22/process_raw | [open](records/photography-diyer22-process-raw-60b5b580.md) |
+| `github_search_photography-75316f3b5fee54` | iib0011/omni-tools | [open](records/photography-iib0011-omni-tools-25e339f6.md) |
 | `github_search_photography-76b4f4142a3c8d` | wsl2ls/iOS_Tips | [open](records/photography-wsl2ls-ios-tips-4b0e1ffa.md) |
 | `github_search_photography-7748f5691b985e` | superuser404notfound/Sodalite | [open](records/photography-superuser404notfound-sodalite-16dabe3e.md) |
 | `github_search_photography-77d7524a3674c2` | FeeiCN/EXIF | [open](records/photography-feeicn-exif-9ee92396.md) |
 | `github_search_photography-77eb435b8bc0a1` | open-product-data/digital-cameras | [open](records/photography-open-product-data-digital-cameras-6d723530.md) |
 | `github_search_photography-78576e1375e96e` | dougdonohoe/ddphotos | [open](records/photography-dougdonohoe-ddphotos-39c5aac3.md) |
 | `github_search_photography-786e6fcb2dd410` | meetqy/rao-pics | [open](records/photography-meetqy-rao-pics-009a75b3.md) |
+| `github_search_photography-789cf830f2a4ca` | halide/Halide | [open](records/photography-halide-halide-872dbb0e.md) |
 | `github_search_photography-78e4ecc6f03eaf` | hkk595/Resizer | [open](records/photography-hkk595-resizer-84d16447.md) |
 | `github_search_photography-790beaa51b4919` | margelo/react-native-vision-camera | [open](records/photography-margelo-react-native-vision-camera-77b61cb8.md) |
 | `github_search_photography-79774de7ad338b` | justnullname/QuickView | [open](records/photography-justnullname-quickview-6b33e916.md) |
@@ -10531,17 +10579,21 @@
 | `github_search_photography-7a67f1dcea9a99` | kopaka1822/ImageViewer | [open](records/photography-kopaka1822-imageviewer-b8ce6b87.md) |
 | `github_search_photography-7aa4f8ce7f7769` | andyzg/gallery | [open](records/photography-andyzg-gallery-707abac1.md) |
 | `github_search_photography-7bc68a44fdc8d7` | geerlingguy/pi-timelapse | [open](records/photography-geerlingguy-pi-timelapse-b66cdb8a.md) |
+| `github_search_photography-7bd45a2031396c` | fengyuanchen/cropper | [open](records/photography-fengyuanchen-cropper-ed549363.md) |
 | `github_search_photography-7bf828ed90baaa` | CarVac/filmulator-gui | [open](records/photography-carvac-filmulator-gui-7958689d.md) |
 | `github_search_photography-7c0b547fa57214` | Afilmory/afilmory | [open](records/photography-afilmory-afilmory-565a9d79.md) |
 | `github_search_photography-7c29f51bc08497` | bhouston/hdrify | [open](records/photography-bhouston-hdrify-3fccdb03.md) |
+| `github_search_photography-7e3ebcb7d2ce28` | silvia-odwyer/photon | [open](records/photography-silvia-odwyer-photon-c3114191.md) |
 | `github_search_photography-7f3c3a5d792297` | xemle/home-gallery | [open](records/photography-xemle-home-gallery-5b6dd9db.md) |
 | `github_search_photography-7f4f90d093a477` | vilbeyli/VQEngine | [open](records/photography-vilbeyli-vqengine-0d7c8690.md) |
 | `github_search_photography-7ff88222b85b9c` | kxvn-lx/Kontax-Cam | [open](records/photography-kxvn-lx-kontax-cam-04e1f89a.md) |
 | `github_search_photography-80272084eb2c2b` | commons-app/apps-android-commons | [open](records/photography-commons-app-apps-android-commons-4ea87c6f.md) |
+| `github_search_photography-8093d1aa83d2ef` | JaidedAI/EasyOCR | [open](records/photography-jaidedai-easyocr-4261194e.md) |
 | `github_search_photography-80fd036e65874b` | zac15987/DisplayProfileManager | [open](records/photography-zac15987-displayprofilemanager-c8515143.md) |
 | `github_search_photography-8121ede4171580` | oaklensart/fixxer | [open](records/photography-oaklensart-fixxer-6396ddfb.md) |
 | `github_search_photography-81629c0cc51db9` | riju/WebCamera | [open](records/photography-riju-webcamera-7c85664b.md) |
 | `github_search_photography-829eca145d2304` | saindriches/dovi_meta | [open](records/photography-saindriches-dovi-meta-ff6ad1f2.md) |
+| `github_search_photography-82dc5fceb8f616` | kevmo314/magic-copy | [open](records/photography-kevmo314-magic-copy-06d8c89a.md) |
 | `github_search_photography-831cd6d305bfbc` | tonytonyjan/exif | [open](records/photography-tonytonyjan-exif-1f2f7a7f.md) |
 | `github_search_photography-838eec6c31c6d2` | yuehaowang/bilarf | [open](records/photography-yuehaowang-bilarf-ff8bd822.md) |
 | `github_search_photography-842a110b90357d` | natario1/CameraView | [open](records/photography-natario1-cameraview-d63ed58c.md) |
@@ -10557,11 +10609,16 @@
 | `github_search_photography-890d7e99577865` | jeonghyeon-net/exif-frame | [open](records/photography-jeonghyeon-net-exif-frame-0eb5693e.md) |
 | `github_search_photography-89f096befe4d86` | unsplash/unsplash-js | [open](records/photography-unsplash-unsplash-js-eaef61c4.md) |
 | `github_search_photography-8a63b4f0722030` | moaazsidat/react-native-qrcode-scanner | [open](records/photography-moaazsidat-react-native-qrcode-scanner-e8683b24.md) |
+| `github_search_photography-8aac4faf60c69f` | scikit-image/scikit-image | [open](records/photography-scikit-image-scikit-image-e1dba1e6.md) |
 | `github_search_photography-8c2670e5661910` | NextLevel/NextLevel | [open](records/photography-nextlevel-nextlevel-e27b735b.md) |
 | `github_search_photography-8c4f222246b162` | Webreaper/Damselfly | [open](records/photography-webreaper-damselfly-df92802c.md) |
 | `github_search_photography-8cec81d5d1cdb4` | dmotz/thing-translator | [open](records/photography-dmotz-thing-translator-7eb7907e.md) |
+| `github_search_photography-8d0b6843d5a932` | deric/DaVinciResolve-metadata | [open](records/photography-deric-davinciresolve-metadata-8a13e074.md) |
+| `github_search_photography-8d4f36e4886efb` | indulgeIn/YBImageBrowser | [open](records/photography-indulgein-ybimagebrowser-e5a55591.md) |
 | `github_search_photography-8d5fd4dd19cee6` | mv-lab/InstructIR | [open](records/photography-mv-lab-instructir-9bdb6aa5.md) |
 | `github_search_photography-8d63b6b5159d30` | RandScullard/photo-screen-saver | [open](records/photography-randscullard-photo-screen-saver-13ac7993.md) |
+| `github_search_photography-8da5ab3b07dd4b` | roboflow/supervision | [open](records/photography-roboflow-supervision-293a4036.md) |
+| `github_search_photography-8ec424d56d5719` | ossappscollective/OSS-DocumentScanner | [open](records/photography-ossappscollective-oss-documentscanner-1c9854f2.md) |
 | `github_search_photography-8f2574c25e207d` | fthaler/rawhdr | [open](records/photography-fthaler-rawhdr-2703a856.md) |
 | `github_search_photography-9005a2011a985a` | argyleink/gradient-style | [open](records/photography-argyleink-gradient-style-33b809ee.md) |
 | `github_search_photography-912de02898db4f` | textileio/textile-facebook | [open](records/photography-textileio-textile-facebook-2884125a.md) |
@@ -10569,10 +10626,12 @@
 | `github_search_photography-919d173d2e73f4` | Chinna95P/mpv-anime-build | [open](records/photography-chinna95p-mpv-anime-build-c3f4be6f.md) |
 | `github_search_photography-91d688927a0e02` | RayXie29/Shading_Correction | [open](records/photography-rayxie29-shading-correction-2c29a276.md) |
 | `github_search_photography-91deb6baa2303d` | Alphabet1671/JPG-Framer | [open](records/photography-alphabet1671-jpg-framer-3933b038.md) |
+| `github_search_photography-91f3e740b94c05` | chrissimpkins/Crunch | [open](records/photography-chrissimpkins-crunch-4fe3bdef.md) |
 | `github_search_photography-91f88629f042b0` | coreprocess/linux-unattended-installation | [open](records/photography-coreprocess-linux-unattended-installation-f53db419.md) |
 | `github_search_photography-929c7ea947f85b` | felixc/rexiv2 | [open](records/photography-felixc-rexiv2-4f48ad7a.md) |
 | `github_search_photography-92e24d1c948c13` | Dhaval2404/ImagePicker | [open](records/photography-dhaval2404-imagepicker-a5a68c94.md) |
 | `github_search_photography-93aae027b91a6b` | jim-easterbrook/Photini | [open](records/photography-jim-easterbrook-photini-6784c4d4.md) |
+| `github_search_photography-940c61c2d16836` | CleasbyCode/jdvrif | [open](records/photography-cleasbycode-jdvrif-e7dd7897.md) |
 | `github_search_photography-9435d6c99ec3cf` | op7418/guizang-yingzao-skill | [open](records/photography-op7418-guizang-yingzao-skill-4d695bec.md) |
 | `github_search_photography-94d1e34fc6027b` | WangShuo1143368701/WSLiveDemo | [open](records/photography-wangshuo1143368701-wslivedemo-b17eb18b.md) |
 | `github_search_photography-95072963e0c516` | shouzhong/Scanner | [open](records/photography-shouzhong-scanner-dbf4df82.md) |
@@ -10587,7 +10646,9 @@
 | `github_search_photography-99ff20f216a782` | HerrZatacke/2bit-pxlr-studio | [open](records/photography-herrzatacke-2bit-pxlr-studio-c3ca0627.md) |
 | `github_search_photography-9a2dd47eb87fde` | jmathai/elodie | [open](records/photography-jmathai-elodie-ff65dfad.md) |
 | `github_search_photography-9b2e8579950956` | BestImageViewer/geeqie | [open](records/photography-bestimageviewer-geeqie-eed65f97.md) |
+| `github_search_photography-9b58ea8887b123` | EutropicAI/Final2x | [open](records/photography-eutropicai-final2x-4e4c39e9.md) |
 | `github_search_photography-9b5fa78d09ba78` | jim-easterbrook/Photini | [open](records/photography-jim-easterbrook-photini-e6016870.md) |
+| `github_search_photography-9b8dfa6b98f901` | TomoyukiAota/photo-location-map | [open](records/photography-tomoyukiaota-photo-location-map-d4ff41d5.md) |
 | `github_search_photography-9bfa393788853b` | kydecker/astro-photo-grid | [open](records/photography-kydecker-astro-photo-grid-8e515209.md) |
 | `github_search_photography-9c3dd777b5131c` | DXC-0/linux-hdr-guide | [open](records/photography-dxc-0-linux-hdr-guide-28bec654.md) |
 | `github_search_photography-9c765c4b1c9fe5` | dmpop/pellicola | [open](records/photography-dmpop-pellicola-756cb6c8.md) |
@@ -10595,20 +10656,28 @@
 | `github_search_photography-9d9e5b2e897706` | cdcseacave/TinyEXIF | [open](records/photography-cdcseacave-tinyexif-dfc5e6f5.md) |
 | `github_search_photography-9da8df328b7c1a` | cristibaluta/Imagin-Raw | [open](records/photography-cristibaluta-imagin-raw-54672bc8.md) |
 | `github_search_photography-9e08d09acb5363` | react-native-camera/react-native-camera | [open](records/photography-react-native-camera-react-native-camera-beed788e.md) |
+| `github_search_photography-9f0a6f823d7a25` | pmndrs/postprocessing | [open](records/photography-pmndrs-postprocessing-70a67349.md) |
 | `github_search_photography-a0048ea3bcb440` | tooleks/photo-blog | [open](records/photography-tooleks-photo-blog-0fa3f11a.md) |
+| `github_search_photography-a085e5ad0a92a6` | nuno-faria/tiler | [open](records/photography-nuno-faria-tiler-7b94422f.md) |
+| `github_search_photography-a0c5626c1c845c` | CVCUDA/CV-CUDA | [open](records/photography-cvcuda-cv-cuda-8c23f2cd.md) |
+| `github_search_photography-a29abd6eb8ef3d` | UrbanVue/linked_camera | [open](records/photography-urbanvue-linked-camera-2ac139ab.md) |
 | `github_search_photography-a380f60e898fc0` | lyckantropen/moonlight_hdr_launcher | [open](records/photography-lyckantropen-moonlight-hdr-launcher-a7997341.md) |
 | `github_search_photography-a40aee02e68326` | lovell/sharp | [open](records/photography-lovell-sharp-2ca40e3a.md) |
 | `github_search_photography-a41c8512824e0f` | tj/letterbox | [open](records/photography-tj-letterbox-4bff8695.md) |
 | `github_search_photography-a4257636d97332` | ZHINFINITY/Mpv-infinity | [open](records/photography-zhinfinity-mpv-infinity-50ba490d.md) |
+| `github_search_photography-a492b90b35911f` | ocrmypdf/OCRmyPDF | [open](records/photography-ocrmypdf-ocrmypdf-1ca953e5.md) |
 | `github_search_photography-a4f8e25b6d2388` | crazycodeboy/TakePhoto | [open](records/photography-crazycodeboy-takephoto-a3e04a78.md) |
 | `github_search_photography-a4f96e7071a7ce` | awxkee/avif.swift | [open](records/photography-awxkee-avif-swift-72b07b3d.md) |
+| `github_search_photography-a529d5468cb7d3` | alexjc/neural-doodle | [open](records/photography-alexjc-neural-doodle-83dae674.md) |
 | `github_search_photography-a5fbe128bceaf9` | octopuscinema/raw-player | [open](records/photography-octopuscinema-raw-player-b557fb4c.md) |
 | `github_search_photography-a6a40d07f6b0c7` | toonoumi/FreeCCR | [open](records/photography-toonoumi-freeccr-2918c356.md) |
 | `github_search_photography-a6d3924a7db09b` | zidage/AlcedoStudio | [open](records/photography-zidage-alcedostudio-7b939307.md) |
+| `github_search_photography-a70a044b5a3b1d` | anthonynsimon/bild | [open](records/photography-anthonynsimon-bild-7d490785.md) |
 | `github_search_photography-a7ce3221617a05` | HuTianQi/SmartOpenCV | [open](records/photography-hutianqi-smartopencv-fb7be8c7.md) |
 | `github_search_photography-a83716161436fa` | roigoatzzz/Wallsync | [open](records/photography-roigoatzzz-wallsync-6eb5fcc4.md) |
 | `github_search_photography-a8538107b3b788` | spike0en/awesome_nothing | [open](records/photography-spike0en-awesome-nothing-252f0bbc.md) |
 | `github_search_photography-a87265dce7d130` | dlazaro66/QRCodeReaderView | [open](records/photography-dlazaro66-qrcodereaderview-9c349462.md) |
+| `github_search_photography-a8a94186339ef4` | KupynOrest/DeblurGAN | [open](records/photography-kupynorest-deblurgan-bd388418.md) |
 | `github_search_photography-a8ba5778b61f78` | enkimute/hdrpng.js | [open](records/photography-enkimute-hdrpng-js-ef688768.md) |
 | `github_search_photography-a9a2fa6b70bdea` | rfrench/gify | [open](records/photography-rfrench-gify-e7a0c938.md) |
 | `github_search_photography-a9d63152efea26` | wiltodelta/remove-ai-watermarks | [open](records/photography-wiltodelta-remove-ai-watermarks-f1898429.md) |
@@ -10618,8 +10687,13 @@
 | `github_search_photography-ab6153453ef8f5` | iuroc/bilidown | [open](records/photography-iuroc-bilidown-e402296a.md) |
 | `github_search_photography-ab6928e3d116a6` | Bitpainter75/FerrumPix | [open](records/photography-bitpainter75-ferrumpix-cd4d3242.md) |
 | `github_search_photography-ad01bb0cd7de29` | yanzhenjie/Album | [open](records/photography-yanzhenjie-album-0ebba730.md) |
+| `github_search_photography-adf0d819117dc4` | angelgladin/Photo_Exif_Toolkit | [open](records/photography-angelgladin-photo-exif-toolkit-754e1378.md) |
+| `github_search_photography-ae2a48440c80e9` | qubvel-org/segmentation_models.pytorch | [open](records/photography-qubvel-org-segmentation-models-pytorch-c8d2486e.md) |
 | `github_search_photography-aef9ff624f88cc` | LibrePhotos/librephotos | [open](records/photography-librephotos-librephotos-2e3ae4eb.md) |
+| `github_search_photography-af6c7f240cdb6b` | ternera/exif-viewer | [open](records/photography-ternera-exif-viewer-f8a1806d.md) |
 | `github_search_photography-afa7206671cf60` | CJT2325/CameraView | [open](records/photography-cjt2325-cameraview-689639ed.md) |
+| `github_search_photography-afe780d50900a5` | Visgean/photos2geojson | [open](records/photography-visgean-photos2geojson-fe736256.md) |
+| `github_search_photography-afec46c52166c9` | esimov/caire | [open](records/photography-esimov-caire-9aac72a4.md) |
 | `github_search_photography-b008270f1695f2` | GEEKiDoS/bitblt-hdr | [open](records/photography-geekidos-bitblt-hdr-d6f3d105.md) |
 | `github_search_photography-b07b04774b253b` | photonixapp/photonix | [open](records/photography-photonixapp-photonix-0ee14fb2.md) |
 | `github_search_photography-b0c8beb1f827fe` | carina-studio/PixelViewer | [open](records/photography-carina-studio-pixelviewer-70d11532.md) |
@@ -10630,8 +10704,10 @@
 | `github_search_photography-b2b82837ec0869` | woelper/oculante | [open](records/photography-woelper-oculante-7408791d.md) |
 | `github_search_photography-b3cfc009a1a497` | SlavaSexton/ComfyUI-OCIO | [open](records/photography-slavasexton-comfyui-ocio-367e8dd5.md) |
 | `github_search_photography-b3dda737d25ed1` | peerpx/peerpx | [open](records/photography-peerpx-peerpx-8179ea23.md) |
+| `github_search_photography-b46c4394f6d4ab` | pyinat/naturtag | [open](records/photography-pyinat-naturtag-6ba95d49.md) |
 | `github_search_photography-b4e2857c5be272` | NextWeb4/photo-metadata-editor | [open](records/photography-nextweb4-photo-metadata-editor-f03037a4.md) |
 | `github_search_photography-b4f334e70c943d` | cbassa/sattools | [open](records/photography-cbassa-sattools-c329b908.md) |
+| `github_search_photography-b525d7d66cb2f5` | disintegration/imageorient | [open](records/photography-disintegration-imageorient-c6f1d833.md) |
 | `github_search_photography-b57def2aa69ded` | haskell-github-trust/Juicy.Pixels | [open](records/photography-haskell-github-trust-juicy-pixels-a60ed54e.md) |
 | `github_search_photography-b6210239c7625a` | waynezhang/foto | [open](records/photography-waynezhang-foto-20b11b55.md) |
 | `github_search_photography-b669f9ba2f795f` | kepengxu/RealRep | [open](records/photography-kepengxu-realrep-cdb57399.md) |
@@ -10643,6 +10719,7 @@
 | `github_search_photography-b8a40fbaf19d70` | teslamotors/react-native-camera-kit | [open](records/photography-teslamotors-react-native-camera-kit-22df3292.md) |
 | `github_search_photography-ba29f677a6512c` | roleoroleo/yi-hack-MStar | [open](records/photography-roleoroleo-yi-hack-mstar-c7c32e57.md) |
 | `github_search_photography-ba2b3fa96f4db7` | rampatra/photography | [open](records/photography-rampatra-photography-69cbb5ec.md) |
+| `github_search_photography-ba89486497f005` | accord-net/framework | [open](records/photography-accord-net-framework-2b3a2f6e.md) |
 | `github_search_photography-ba9f3c5134a37e` | AlkaidLab/foundation-sunshine | [open](records/photography-alkaidlab-foundation-sunshine-96ec5220.md) |
 | `github_search_photography-bab893381bdaa6` | zfedoran/dcraw.js | [open](records/photography-zfedoran-dcraw-js-5f278232.md) |
 | `github_search_photography-bae6bf2e47dc65` | mit-han-lab/bevfusion | [open](records/photography-mit-han-lab-bevfusion-3764373c.md) |
@@ -10660,20 +10737,25 @@
 | `github_search_photography-bffe837ec94820` | ncoevoet/facet | [open](records/photography-ncoevoet-facet-f48943dd.md) |
 | `github_search_photography-c100b53ab3a08a` | aiff22/PyNET-PyTorch | [open](records/photography-aiff22-pynet-pytorch-8da331a9.md) |
 | `github_search_photography-c1aad686e6e1a9` | LibrePhotos/librephotos-frontend | [open](records/photography-librephotos-librephotos-frontend-6aacba74.md) |
+| `github_search_photography-c23844b2d79b0b` | python-pillow/Pillow | [open](records/photography-python-pillow-pillow-07389a23.md) |
 | `github_search_photography-c23a3f9061de1c` | exiftool/exiftool | [open](records/photography-exiftool-exiftool-c6310d37.md) |
 | `github_search_photography-c293d4d78ca90c` | imaginary-cloud/CameraManager | [open](records/photography-imaginary-cloud-cameramanager-2474833f.md) |
 | `github_search_photography-c2bee7c41dca60` | ivandokov/phockup | [open](records/photography-ivandokov-phockup-a9f0cfca.md) |
 | `github_search_photography-c47b73fec167be` | ECarry/photography-website | [open](records/photography-ecarry-photography-website-36282ce9.md) |
 | `github_search_photography-c4984834b27a37` | ceciliavision/zoom-learn-zoom | [open](records/photography-ceciliavision-zoom-learn-zoom-503d7d27.md) |
 | `github_search_photography-c4ab723882a0d7` | kalanda/photoduino | [open](records/photography-kalanda-photoduino-07947f97.md) |
+| `github_search_photography-c4cc4403fa7a7b` | amusi/CVPR2026-Papers-with-Code | [open](records/photography-amusi-cvpr2026-papers-with-code-b9f24a76.md) |
 | `github_search_photography-c4daa614047345` | hjdhjd/homebridge-unifi-protect | [open](records/photography-hjdhjd-homebridge-unifi-protect-782e9500.md) |
 | `github_search_photography-c549112fae98de` | dividebysandwich/LightningView | [open](records/photography-dividebysandwich-lightningview-edad5607.md) |
+| `github_search_photography-c5e19031ed3be6` | jfversluis/Plugin.Maui.Exif | [open](records/photography-jfversluis-plugin-maui-exif-87272802.md) |
 | `github_search_photography-c6226991e33201` | jmathai/elodie | [open](records/photography-jmathai-elodie-960b91b7.md) |
 | `github_search_photography-c635da208d866c` | CarVac/filmulator-gui | [open](records/photography-carvac-filmulator-gui-f34a0327.md) |
+| `github_search_photography-c67122ff90393c` | PyWavelets/pywt | [open](records/photography-pywavelets-pywt-f5bf7c96.md) |
 | `github_search_photography-c6f961dd64f613` | showmewebcam/showmewebcam | [open](records/photography-showmewebcam-showmewebcam-cd9dcd31.md) |
 | `github_search_photography-c76aca95df0b82` | AlenVelocity/wa-sticker-formatter | [open](records/photography-alenvelocity-wa-sticker-formatter-09b95bf0.md) |
 | `github_search_photography-c8791c10fd0269` | alibaba/CicadaPlayer | [open](records/photography-alibaba-cicadaplayer-4017a4a7.md) |
 | `github_search_photography-c8ac09a66f32ff` | Codectory/AutoActions | [open](records/photography-codectory-autoactions-e74cd863.md) |
+| `github_search_photography-c8d75afb75dd89` | imgproxy/imgproxy | [open](records/photography-imgproxy-imgproxy-fffb72aa.md) |
 | `github_search_photography-c953e7f45300d2` | LeoHsiao1/pyexiv2 | [open](records/photography-leohsiao1-pyexiv2-0ec0724a.md) |
 | `github_search_photography-c9b359b43c5967` | unsplash/unsplash_rb | [open](records/photography-unsplash-unsplash-rb-e722a9ae.md) |
 | `github_search_photography-c9eb22666abe01` | jeeliz/jeelizFaceFilter | [open](records/photography-jeeliz-jeelizfacefilter-a50fb0db.md) |
@@ -10687,6 +10769,7 @@
 | `github_search_photography-ced59ce95cd8b0` | TowhidKashem/snapchat-clone | [open](records/photography-towhidkashem-snapchat-clone-a76e7ecc.md) |
 | `github_search_photography-cf58ab5f9f22c1` | Josh015/Alloy | [open](records/photography-josh015-alloy-50db76bd.md) |
 | `github_search_photography-d03f7f8a15b72a` | gphoto/libgphoto2 | [open](records/photography-gphoto-libgphoto2-e25aa2b2.md) |
+| `github_search_photography-d122a39d38d87a` | fengyuanchen/cropperjs | [open](records/photography-fengyuanchen-cropperjs-c586e3af.md) |
 | `github_search_photography-d16beedcc8da5e` | rawnly/splash-cli | [open](records/photography-rawnly-splash-cli-1dd2a2b8.md) |
 | `github_search_photography-d1dd8a84fe645e` | Srameo/LED | [open](records/photography-srameo-led-221cbacc.md) |
 | `github_search_photography-d26baeec188340` | mauriciojost/olympus-photosync | [open](records/photography-mauriciojost-olympus-photosync-e4bdd7fc.md) |
@@ -10714,19 +10797,25 @@
 | `github_search_photography-dba8837dcf7a1f` | ray-cast/ies | [open](records/photography-ray-cast-ies-781efcde.md) |
 | `github_search_photography-dbc097c84d026d` | AcademySoftwareFoundation/openexr | [open](records/photography-academysoftwarefoundation-openexr-121c9b9c.md) |
 | `github_search_photography-dc6597c2b5e164` | T8RIN/ImageToolbox | [open](records/photography-t8rin-imagetoolbox-959651fa.md) |
+| `github_search_photography-dd324be06b5eec` | gfxprim/gfxprim | [open](records/photography-gfxprim-gfxprim-80a69da2.md) |
 | `github_search_photography-dd6daf7056c36a` | sun0225SUN/camlife | [open](records/photography-sun0225sun-camlife-84932ff0.md) |
 | `github_search_photography-dd9f0571b42d45` | hyperoslo/BarcodeScanner | [open](records/photography-hyperoslo-barcodescanner-b1f848d8.md) |
+| `github_search_photography-ddb80f482fdfe8` | C4NU/Paddie | [open](records/photography-c4nu-paddie-df004a86.md) |
 | `github_search_photography-ddf1336a9dc693` | gosku/Filmcase | [open](records/photography-gosku-filmcase-f8d36333.md) |
 | `github_search_photography-de2c0dcef2e52f` | quietvoid/dovi_tool | [open](records/photography-quietvoid-dovi-tool-171962f7.md) |
 | `github_search_photography-de8de8981375b0` | test-full-band/tfb-video | [open](records/photography-test-full-band-tfb-video-4f53f9ac.md) |
 | `github_search_photography-df0fb79d7a2257` | compphoto/IntrinsicHDR | [open](records/photography-compphoto-intrinsichdr-0866e054.md) |
 | `github_search_photography-df24e819253602` | ElasticDesigns/jekyll-lens | [open](records/photography-elasticdesigns-jekyll-lens-9820dc63.md) |
 | `github_search_photography-dfa593d56dad42` | doom40k/photography-blog | [open](records/photography-doom40k-photography-blog-347adc8b.md) |
+| `github_search_photography-e0363354f65a2e` | burhanrashid52/PhotoEditor | [open](records/photography-burhanrashid52-photoeditor-e2b933c7.md) |
 | `github_search_photography-e047e98325a0de` | TheCrypt0/yi-hack-v4 | [open](records/photography-thecrypt0-yi-hack-v4-0c4f21cf.md) |
 | `github_search_photography-e0ea9dc00ddd5a` | amd/mini-isp | [open](records/photography-amd-mini-isp-b6f8adc0.md) |
 | `github_search_photography-e1b2d1a83c3b38` | JonaNorman/HDRSample | [open](records/photography-jonanorman-hdrsample-57930af4.md) |
 | `github_search_photography-e1e027261b8140` | mirsadm/motioncam-decoder | [open](records/photography-mirsadm-motioncam-decoder-4f70e2bd.md) |
+| `github_search_photography-e243c2ab43128e` | catalyst-team/catalyst | [open](records/photography-catalyst-team-catalyst-b551d064.md) |
+| `github_search_photography-e2a4f6f9b8d096` | towhee-io/towhee | [open](records/photography-towhee-io-towhee-7a77ff1d.md) |
 | `github_search_photography-e320ec6138cacb` | jeonghyeon-net/exif-frame | [open](records/photography-jeonghyeon-net-exif-frame-a9c7f2c9.md) |
+| `github_search_photography-e3d46ec9ce0753` | addshore/facebook-data-image-exif | [open](records/photography-addshore-facebook-data-image-exif-fe746e72.md) |
 | `github_search_photography-e438d19ce90e5b` | WICG/color-api | [open](records/photography-wicg-color-api-d2262b1d.md) |
 | `github_search_photography-e50233a23d801e` | Panzerschrek/Square-Wheel | [open](records/photography-panzerschrek-square-wheel-e8747134.md) |
 | `github_search_photography-e5ded93acf7d6d` | SixLabors/ImageSharp | [open](records/photography-sixlabors-imagesharp-6de2ffc1.md) |
@@ -10735,11 +10824,14 @@
 | `github_search_photography-e6f971886c1e40` | cydonia999/Learning_to_See_in_the_Dark_PyTorch | [open](records/photography-cydonia999-learning-to-see-in-the-dark-pytorch-f5a931f0.md) |
 | `github_search_photography-e8b17993eb8b0e` | roigoatzzz/Wallsync | [open](records/photography-roigoatzzz-wallsync-bd5e28ed.md) |
 | `github_search_photography-e8f7d1e92a7fba` | rampatra/photography | [open](records/photography-rampatra-photography-f1f649e7.md) |
+| `github_search_photography-ea28f5b49ae85b` | TheZoraiz/ascii-image-converter | [open](records/photography-thezoraiz-ascii-image-converter-b3f9e40a.md) |
 | `github_search_photography-ea738a5d6176ce` | emorydunn/CaptureOneScripts | [open](records/photography-emorydunn-captureonescripts-117cd952.md) |
+| `github_search_photography-ea9b6181ec40de` | jmathai/immich-exif | [open](records/photography-jmathai-immich-exif-daea21e5.md) |
 | `github_search_photography-eaa808e1e3a701` | jorhelp/Ingram | [open](records/photography-jorhelp-ingram-4f54c30d.md) |
 | `github_search_photography-eab29bd7e14f53` | yomotsu/camera-controls | [open](records/photography-yomotsu-camera-controls-9e58a3b6.md) |
 | `github_search_photography-ebcb81ba0e88ab` | GimelStudio/GimelStudio | [open](records/photography-gimelstudio-gimelstudio-c971959d.md) |
 | `github_search_photography-ec105a3ac61f83` | kepengxu/RealCamNet | [open](records/photography-kepengxu-realcamnet-aaafb86d.md) |
+| `github_search_photography-ec64f265103583` | ashnkumar/sketch-code | [open](records/photography-ashnkumar-sketch-code-0b569a3e.md) |
 | `github_search_photography-ecac393d17694a` | aiff22/PyNET-Bokeh | [open](records/photography-aiff22-pynet-bokeh-16cbc735.md) |
 | `github_search_photography-ecda197c911a32` | MK-Ware/Forensic-Tools | [open](records/photography-mk-ware-forensic-tools-3fbe9061.md) |
 | `github_search_photography-ed624d5712fa9f` | dmarnerides/hdr-expandnet | [open](records/photography-dmarnerides-hdr-expandnet-7a4e2be3.md) |
@@ -10749,22 +10841,27 @@
 | `github_search_photography-ed91a9724422e8` | baidut/BIMEF | [open](records/photography-baidut-bimef-5aec88db.md) |
 | `github_search_photography-edc73e15499412` | oozcitak/exiflibrary | [open](records/photography-oozcitak-exiflibrary-141e9e3c.md) |
 | `github_search_photography-edf1d34d440f78` | philipptrenz/photo-booth | [open](records/photography-philipptrenz-photo-booth-ea2ebbf9.md) |
+| `github_search_photography-edfbd6ada1ac34` | opencv/opencv | [open](records/photography-opencv-opencv-3dada853.md) |
 | `github_search_photography-ee600e22b33ec4` | SuboptimalEng/orbital | [open](records/photography-suboptimaleng-orbital-a7a00a6b.md) |
 | `github_search_photography-ee9befcc339005` | rsjaffe/MIDI2LR | [open](records/photography-rsjaffe-midi2lr-75198981.md) |
 | `github_search_photography-eec8c9e1d07126` | TheLastGimbus/GooglePhotosTakeoutHelper | [open](records/photography-thelastgimbus-googlephotostakeouthelper-4239cff5.md) |
 | `github_search_photography-ef234df5e1d359` | piemonte/PBJVision | [open](records/photography-piemonte-pbjvision-040d75d4.md) |
 | `github_search_photography-ef2d1a42746733` | aserbao/AndroidCamera | [open](records/photography-aserbao-androidcamera-c57cfd08.md) |
+| `github_search_photography-f0b042e8bfdd2c` | snapotter-hq/SnapOtter | [open](records/photography-snapotter-hq-snapotter-d8fb50c1.md) |
 | `github_search_photography-f0b1591dc1bc32` | gen2brain/cam2ip | [open](records/photography-gen2brain-cam2ip-402567a3.md) |
 | `github_search_photography-f1084dff257297` | dearDreamWeb/camera-watermark | [open](records/photography-deardreamweb-camera-watermark-f0af2ad8.md) |
+| `github_search_photography-f19241f1dfbf29` | weserv/images | [open](records/photography-weserv-images-05b38d4d.md) |
 | `github_search_photography-f246ad404fdc7b` | rsjaffe/MIDI2LR | [open](records/photography-rsjaffe-midi2lr-e0e7bfa5.md) |
 | `github_search_photography-f2581a88fb06b0` | BradenM/pydngconverter | [open](records/photography-bradenm-pydngconverter-8248d4d8.md) |
 | `github_search_photography-f25d437c9b6f02` | mv-lab/InstructIR | [open](records/photography-mv-lab-instructir-153061d6.md) |
 | `github_search_photography-f2b2a17e0742f1` | pezcode/Cluster | [open](records/photography-pezcode-cluster-aadc3dd4.md) |
 | `github_search_photography-f333637f03f48d` | jackw01/scanlight | [open](records/photography-jackw01-scanlight-ebc00536.md) |
 | `github_search_photography-f451d56be890be` | afichet/openexr-viewer | [open](records/photography-afichet-openexr-viewer-4d7b742b.md) |
+| `github_search_photography-f472f9c9218572` | Breakthrough/PySceneDetect | [open](records/photography-breakthrough-pyscenedetect-282c005c.md) |
 | `github_search_photography-f492089bb656b5` | blakeblackshear/frigate-hass-integration | [open](records/photography-blakeblackshear-frigate-hass-integration-49b84b9e.md) |
 | `github_search_photography-f4a9f3525d5ed6` | LycheeOrg/Lychee-v3 | [open](records/photography-lycheeorg-lychee-v3-f5beff87.md) |
 | `github_search_photography-f59d284ff9f82e` | tj/letterbox | [open](records/photography-tj-letterbox-97a32d23.md) |
+| `github_search_photography-f6070db36670d9` | guofei9987/blind_watermark | [open](records/photography-guofei9987-blind-watermark-a8556af6.md) |
 | `github_search_photography-f6732660de8f8e` | t3mujinpack/t3mujinpack | [open](records/photography-t3mujinpack-t3mujinpack-05d88258.md) |
 | `github_search_photography-f6a0cceeadaecc` | zmz125000/LocalViewer | [open](records/photography-zmz125000-localviewer-1d07cc54.md) |
 | `github_search_photography-f6b51049233278` | achimoraites/Python-Image-Converter | [open](records/photography-achimoraites-python-image-converter-0bb779e9.md) |
@@ -10776,14 +10873,17 @@
 | `github_search_photography-f7f91c6e8716e7` | wiidede/exif-gallery-nuxt | [open](records/photography-wiidede-exif-gallery-nuxt-718a78c5.md) |
 | `github_search_photography-f8251ade10102c` | AravisProject/aravis | [open](records/photography-aravisproject-aravis-a9a12b71.md) |
 | `github_search_photography-f84dbd1e5f346d` | Zongwei97/SCTNet | [open](records/photography-zongwei97-sctnet-18fd98ed.md) |
+| `github_search_photography-f86e084be625b8` | h2non/imaginary | [open](records/photography-h2non-imaginary-36b02b58.md) |
 | `github_search_photography-f8d6846ef12bd6` | libexif/libexif | [open](records/photography-libexif-libexif-bbf47a88.md) |
 | `github_search_photography-f91ecbe37b6f64` | mahmoudnafifi/raw2raw | [open](records/photography-mahmoudnafifi-raw2raw-81a3c46e.md) |
 | `github_search_photography-f92d1d0e3db300` | iamsanmith/MetaSort | [open](records/photography-iamsanmith-metasort-55a2488c.md) |
 | `github_search_photography-f955f3fcacbc2c` | techyian/MMALSharp | [open](records/photography-techyian-mmalsharp-3c2618a4.md) |
+| `github_search_photography-f9bf93fb2e1605` | idealo/image-super-resolution | [open](records/photography-idealo-image-super-resolution-47fd1772.md) |
 | `github_search_photography-fa7ea7fad25938` | cadik/TMS | [open](records/photography-cadik-tms-33b35c97.md) |
 | `github_search_photography-fcc4379856c42d` | hbagdi/go-unsplash | [open](records/photography-hbagdi-go-unsplash-900e22cf.md) |
 | `github_search_photography-fcdaf4bbf49641` | JurajNyiri/HomeAssistant-Tapo-Control | [open](records/photography-jurajnyiri-homeassistant-tapo-control-998b0d7e.md) |
 | `github_search_photography-fe3f3bd72ccf49` | evildmp/C-is-for-Camera | [open](records/photography-evildmp-c-is-for-camera-489207b3.md) |
+| `github_search_photography-fe6a8972aa1c63` | sightmachine/SimpleCV | [open](records/photography-sightmachine-simplecv-b798cfb7.md) |
 | `github_search_photography-fefecde1d969b2` | dji-sdk/Onboard-SDK | [open](records/photography-dji-sdk-onboard-sdk-935ec49b.md) |
 | `github_search_photography-ff767776845af7` | SpecialKO/SpecialK | [open](records/photography-specialko-specialk-d14b8655.md) |
 | `github_search_radars-05213d778710af` | Unsigned-Long/River | [open](records/radars-unsigned-long-river-2a595389.md) |
@@ -10987,6 +11087,7 @@
 | `github_search_radio_garden_speciality-7fcca998b85d29` | FranRJesus/AutoGardenSlave | [open](records/radio-garden-speciality-franrjesus-autogardenslave-adcb1592.md) |
 | `github_search_radio_garden_speciality-8370d4ebbff657` | uthylearncode/radio-garden | [open](records/radio-garden-speciality-uthylearncode-radio-garden-c76b7124.md) |
 | `github_search_radio_garden_speciality-87594826bec03c` | LakshmiEvani/RadioAtlas | [open](records/radio-garden-speciality-lakshmievani-radioatlas-00c0a225.md) |
+| `github_search_radio_garden_speciality-891fda13cc5e30` | Reaper45/radio-garden | [open](records/radio-garden-speciality-reaper45-radio-garden-3eae5d5a.md) |
 | `github_search_radio_garden_speciality-8a6716671a763a` | wrecker/radio-garden-feed | [open](records/radio-garden-speciality-wrecker-radio-garden-feed-d7519be3.md) |
 | `github_search_radio_garden_speciality-9002a1abfa259d` | BttrDrgn/radio.garten | [open](records/radio-garden-speciality-bttrdrgn-radio-garten-7728091a.md) |
 | `github_search_radio_garden_speciality-915b0f436005ed` | Racer404/radioGardenSele | [open](records/radio-garden-speciality-racer404-radiogardensele-bf415865.md) |
@@ -11016,6 +11117,7 @@
 | `github_search_radio_garden_speciality-c05fc5de684990` | artintel-nl/luisterpost | [open](records/radio-garden-speciality-artintel-nl-luisterpost-e7a8d01b.md) |
 | `github_search_radio_garden_speciality-c1a230dae3fbd9` | umshere/Soundgarden | [open](records/radio-garden-speciality-umshere-soundgarden-9c4ba64c.md) |
 | `github_search_radio_garden_speciality-c2b91b317cc0cd` | PsychedelicSoulSoundLtd/Block-Music-Radio | [open](records/radio-garden-speciality-psychedelicsoulsoundltd-block-music-radio-445398d9.md) |
+| `github_search_radio_garden_speciality-c53e14af65624a` | markgrech42-art/Radiotune | [open](records/radio-garden-speciality-markgrech42-art-radiotune-4ac88c2d.md) |
 | `github_search_radio_garden_speciality-c6152bb76b31da` | billyx86/radio-garden-clone | [open](records/radio-garden-speciality-billyx86-radio-garden-clone-95c13869.md) |
 | `github_search_radio_garden_speciality-c6e0e853007ce4` | Broccolifm/BroccoliFm | [open](records/radio-garden-speciality-broccolifm-broccolifm-93eab489.md) |
 | `github_search_radio_garden_speciality-cbda3c2f492674` | prafulbusa/Radio-Garden-Client | [open](records/radio-garden-speciality-prafulbusa-radio-garden-client-287c720b.md) |
@@ -14545,6 +14647,7 @@
 | `hackage_recent-36b9648f0bd994` | keel | [open](records/haskell-keel-dffc1816.md) |
 | `hackage_recent-36d21c9436a774` | quic-simple | [open](records/haskell-quic-simple-f198ea36.md) |
 | `hackage_recent-36f4a9a68d187b` | ktx-font | [open](records/haskell-ktx-font-8c048a63.md) |
+| `hackage_recent-4a3a499751bc30` | crackNum | [open](records/haskell-cracknum-25e818dd.md) |
 | `hackage_recent-4c746b3da5448e` | freckle-otel | [open](records/haskell-freckle-otel-14553b97.md) |
 | `hackage_recent-560e75fc58d6d8` | vcs-ignore | [open](records/haskell-vcs-ignore-b594cffb.md) |
 | `hackage_recent-58fa0175997b25` | rme | [open](records/haskell-rme-b14c2f66.md) |
@@ -14564,11 +14667,12 @@
 | `hackage_recent-9407f3530f90ff` | inj | [open](records/haskell-inj-59be0a7a.md) |
 | `hackage_recent-94a17d896d7b10` | keel-linalg | [open](records/haskell-keel-linalg-b9103a9e.md) |
 | `hackage_recent-9d97fd66e22732` | grpc-spec | [open](records/haskell-grpc-spec-b01344ad.md) |
+| `hackage_recent-a99745c6242ce4` | cabal-install-parsers | [open](records/haskell-cabal-install-parsers-5bbb1ac6.md) |
 | `hackage_recent-bb70de6d67b11f` | clash-shockwaves | [open](records/haskell-clash-shockwaves-0ff8e02b.md) |
 | `hackage_recent-c27fe6ee52d5b4` | kioku-cli | [open](records/haskell-kioku-cli-1c907a92.md) |
-| `hackage_recent-c6a78aab59f2d5` | hopenpgp-tools | [open](records/haskell-hopenpgp-tools-39a59dde.md) |
 | `hackage_recent-caaad4e7e9d8e0` | servant-ede | [open](records/haskell-servant-ede-265a6dc2.md) |
 | `hackage_recent-cafe48bb462f82` | scip | [open](records/haskell-scip-895a15af.md) |
+| `hackage_recent-cdf8adf09be41d` | llama-cpp-haskell | [open](records/haskell-llama-cpp-haskell-a626a663.md) |
 | `hackage_recent-d30f27eef08ee0` | keel-onnx | [open](records/haskell-keel-onnx-f97de44e.md) |
 | `hackage_recent-de5657564350b6` | simple-smt | [open](records/haskell-simple-smt-901983e2.md) |
 | `hackage_recent-dffafcd891d797` | keel-abi | [open](records/haskell-keel-abi-d416a882.md) |
@@ -14940,7 +15044,6 @@
 | `hackage_top_downloads-494c8b898a2b1f` | semigroups | [open](records/haskell-semigroups-1dd26ce3.md) |
 | `hackage_top_downloads-497f041509e7f7` | docker | [open](records/haskell-docker-fa6a1a31.md) |
 | `hackage_top_downloads-49c9ce92385991` | th-abstraction | [open](records/haskell-th-abstraction-d36f6793.md) |
-| `hackage_top_downloads-4a3a499751bc30` | crackNum | [open](records/haskell-cracknum-25e818dd.md) |
 | `hackage_top_downloads-4a47f0f19fac66` | pontarius-xmpp | [open](records/haskell-pontarius-xmpp-5a5fc4ed.md) |
 | `hackage_top_downloads-4a97dafcaaef54` | modern-uri | [open](records/haskell-modern-uri-8f10b66b.md) |
 | `hackage_top_downloads-4ab425fd9bfeae` | turtle | [open](records/haskell-turtle-b1c7d396.md) |
@@ -15566,6 +15669,7 @@
 | `hackage_top_downloads-c68d119370a175` | language-ats | [open](records/haskell-language-ats-602673bb.md) |
 | `hackage_top_downloads-c68d2c51752e7c` | tracing | [open](records/haskell-tracing-ffb111c3.md) |
 | `hackage_top_downloads-c6a433e54ac734` | template-haskell | [open](records/haskell-template-haskell-105ba04a.md) |
+| `hackage_top_downloads-c6a78aab59f2d5` | hopenpgp-tools | [open](records/haskell-hopenpgp-tools-39a59dde.md) |
 | `hackage_top_downloads-c6a99f25db336e` | citeproc | [open](records/haskell-citeproc-d0edae83.md) |
 | `hackage_top_downloads-c6bf3f32570634` | jacinda | [open](records/haskell-jacinda-77fe1382.md) |
 | `hackage_top_downloads-c6da77e4d5c2f2` | dhall | [open](records/haskell-dhall-1d6993a7.md) |
