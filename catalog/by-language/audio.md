@@ -8,23 +8,23 @@ Records: `314`
 
 ## Category Index
 
-[Api Abi Checker (198)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (42)](../by-category/assertion-mocking.md) · [Async Runtime (131)](../by-category/async-runtime.md)
-[Benchmarking (152)](../by-category/benchmarking.md) · [Build System (858)](../by-category/build-system.md) · [Cli (518)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (90)](../by-category/community-reference.md) · [Compiler (172)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (45)](../by-category/compression.md)
-[Concurrency Parallelism (74)](../by-category/concurrency-parallelism.md) · [Configuration (105)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (13)](../by-category/coverage.md)
-[Cryptography (158)](../by-category/cryptography.md) · [Data Science (34)](../by-category/data-science.md) · [Database Datastore (778)](../by-category/database-datastore.md) · [Datetime (166)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (41)](../by-category/debugger.md) · [Dependency Manager (90)](../by-category/dependency-manager.md) · [Documentation (92)](../by-category/documentation.md)
-[Embedded Hardware (51)](../by-category/embedded-hardware.md) · [Ffi Bindings (395)](../by-category/ffi-bindings.md) · [Filesystem Os (1271)](../by-category/filesystem-os.md) · [Formatter (570)](../by-category/formatter.md)
-[Framework (51)](../by-category/framework.md) · [Fuzzer (48)](../by-category/fuzzer.md) · [Game Engine Game Dev (162)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1241)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (312)](../by-category/image-audio-dsp.md) · [Interop Bindings (56)](../by-category/interop-bindings.md) · [Interpreter Runtime (240)](../by-category/interpreter-runtime.md) · [Jit Vm (58)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1257)](../by-category/language-specification.md) · [Library (5011)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (42)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (461)](../by-category/logging-observability.md) · [Machine Learning (613)](../by-category/machine-learning.md)
-[Math Numeric Scientific (82)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (34)](../by-category/message-broker.md) · [Networking Http (941)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (399)](../by-category/package-manager.md) · [Parser Lexer Ast (947)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (268)](../by-category/precommit-ci-quality.md)
-[Profiler (76)](../by-category/profiler.md) · [Project Scaffolding (124)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
-[Security Sast (324)](../by-category/security-sast.md) · [Serialization (374)](../by-category/serialization.md) · [Standard Library (24)](../by-category/standard-library.md) · [Static Analyzer (464)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (508)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](../by-category/tutorial-book-styleguide.md) · [Type Checker (293)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1443)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](../by-category/utility-library.md) · [Visualization Gui (427)](../by-category/visualization-gui.md) · [Web Framework (429)](../by-category/web-framework.md)
+[Api Abi Checker (199)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (44)](../by-category/assertion-mocking.md) · [Async Runtime (131)](../by-category/async-runtime.md)
+[Benchmarking (160)](../by-category/benchmarking.md) · [Build System (871)](../by-category/build-system.md) · [Cli (521)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (91)](../by-category/community-reference.md) · [Compiler (173)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (45)](../by-category/compression.md)
+[Concurrency Parallelism (75)](../by-category/concurrency-parallelism.md) · [Configuration (107)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
+[Cryptography (160)](../by-category/cryptography.md) · [Data Science (35)](../by-category/data-science.md) · [Database Datastore (791)](../by-category/database-datastore.md) · [Datetime (167)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (41)](../by-category/debugger.md) · [Dependency Manager (91)](../by-category/dependency-manager.md) · [Documentation (93)](../by-category/documentation.md)
+[Embedded Hardware (52)](../by-category/embedded-hardware.md) · [Ffi Bindings (400)](../by-category/ffi-bindings.md) · [Filesystem Os (1300)](../by-category/filesystem-os.md) · [Formatter (578)](../by-category/formatter.md)
+[Framework (51)](../by-category/framework.md) · [Fuzzer (50)](../by-category/fuzzer.md) · [Game Engine Game Dev (164)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1257)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (314)](../by-category/image-audio-dsp.md) · [Interop Bindings (56)](../by-category/interop-bindings.md) · [Interpreter Runtime (240)](../by-category/interpreter-runtime.md) · [Jit Vm (58)](../by-category/jit-vm.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1260)](../by-category/language-specification.md) · [Library (5056)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (42)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (464)](../by-category/logging-observability.md) · [Machine Learning (620)](../by-category/machine-learning.md)
+[Math Numeric Scientific (82)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (35)](../by-category/message-broker.md) · [Networking Http (946)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (402)](../by-category/package-manager.md) · [Parser Lexer Ast (962)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (269)](../by-category/precommit-ci-quality.md)
+[Profiler (78)](../by-category/profiler.md) · [Project Scaffolding (125)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
+[Security Sast (325)](../by-category/security-sast.md) · [Serialization (375)](../by-category/serialization.md) · [Standard Library (24)](../by-category/standard-library.md) · [Static Analyzer (465)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (511)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](../by-category/tutorial-book-styleguide.md) · [Type Checker (293)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1457)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](../by-category/utility-library.md) · [Visualization Gui (430)](../by-category/visualization-gui.md) · [Web Framework (443)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -82,7 +82,7 @@ Records: `314`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [xiph/opus](../records/audio-xiph-opus-720976ad.md) | partial | 2026-09-02T16:20:04Z | registry-derived |
+| [xiph/opus](../records/audio-xiph-opus-720976ad.md) | partial | 2026-09-02T20:09:00Z | registry-derived |
 
 ### Configuration
 
@@ -95,7 +95,7 @@ Records: `314`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [metabrainz/picard](../records/audio-metabrainz-picard-de814b29.md) | partial | 2026-09-02T16:10:13Z | registry-derived |
+| [metabrainz/picard](../records/audio-metabrainz-picard-de814b29.md) | partial | 2026-09-02T21:10:18Z | registry-derived |
 
 ### Datetime
 
@@ -160,7 +160,7 @@ Records: `314`
 | [Rikorose/DeepFilterNet](../records/audio-rikorose-deepfilternet-659ef42c.md) | partial | 2024-10-17T08:35:11Z | registry-derived |
 | [rishikanthc/Scriberr](../records/audio-rishikanthc-scriberr-55b843d3.md) | partial | 2026-06-01T03:07:49Z | registry-derived |
 | [ronitsingh10/FineTune](../records/audio-ronitsingh10-finetune-05619c84.md) | partial | 2026-07-09T07:54:56Z | registry-derived |
-| [RustAudio/cpal](../records/audio-rustaudio-cpal-f54a68cc.md) | partial | 2026-09-02T16:33:23Z | registry-derived |
+| [RustAudio/cpal](../records/audio-rustaudio-cpal-f54a68cc.md) | partial | 2026-09-02T21:22:44Z | registry-derived |
 | [RustAudio/vst-rs](../records/audio-rustaudio-vst-rs-881f699b.md) | partial | 2023-06-10T11:48:20Z | registry-derived |
 | [santi-pdp/pase](../records/audio-santi-pdp-pase-8a411669.md) | unknown | github_latest_release_missing | registry-derived |
 | [SforAiDl/Neural-Voice-Cloning-With-Few-Samples](../records/audio-sforaidl-neural-voice-cloning-with-few-samples-bfc3f554.md) | unknown | github_latest_release_missing | registry-derived |
@@ -180,7 +180,7 @@ Records: `314`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [Belphemur/SoundSwitch](../records/audio-belphemur-soundswitch-43ca702e.md) | partial | 2026-09-02T00:12:04Z | registry-derived |
+| [Belphemur/SoundSwitch](../records/audio-belphemur-soundswitch-43ca702e.md) | partial | 2026-09-02T22:45:45Z | registry-derived |
 
 ### Game Engine Game Dev
 
@@ -196,7 +196,7 @@ Records: `314`
 | --- | --- | --- | --- |
 | [777arc/PySDR](../records/audio-777arc-pysdr-e43c1cf4.md) | partial | 2026-09-01T14:56:23Z | registry-derived |
 | [alyssaxuu/motionity](../records/audio-alyssaxuu-motionity-3c2fb703.md) | partial | 2022-09-12T02:06:50Z | registry-derived |
-| [audacity/audacity](../records/audio-audacity-audacity-76dd21d8.md) | partial | 2026-09-02T15:19:35Z | registry-derived |
+| [audacity/audacity](../records/audio-audacity-audacity-76dd21d8.md) | partial | 2026-09-02T18:53:43Z | registry-derived |
 | [bitgapp/eqMac](../records/audio-bitgapp-eqmac-bb6a049e.md) | partial | 2026-04-24T14:53:15Z | registry-derived |
 | [danilogcrf2-oss/ESP32Synth](../records/audio-danilogcrf2-oss-esp32synth-7a58d4c6.md) | 2.4.6 | 2026-08-30T15:16:20Z | registry-derived |
 | [deniscerri/ytdlnis](../records/audio-deniscerri-ytdlnis-096edb21.md) | partial | 2026-08-31T16:05:33Z | registry-derived |
@@ -204,9 +204,9 @@ Records: `314`
 | [FORARTfe/HyMPS](../records/audio-forartfe-hymps-4bad0b4a.md) | partial | 2026-08-27T06:22:53Z | registry-derived |
 | [Jounce/Surge](../records/audio-jounce-surge-6a48b789.md) | partial | 2023-07-20T14:04:23Z | registry-derived |
 | [kyleneideck/BackgroundMusic](../records/audio-kyleneideck-backgroundmusic-87dcd90a.md) | partial | 2026-06-10T08:58:49Z | registry-derived |
-| [leandromoreira/digital_video_introduction](../records/audio-leandromoreira-digital-video-introduction-1602f29a.md) | partial | 2026-07-25T00:29:55Z | registry-derived |
+| [leandromoreira/digital_video_introduction](../records/audio-leandromoreira-digital-video-introduction-1602f29a.md) | partial | 2026-09-02T21:43:42Z | registry-derived |
 | [mediacms-io/mediacms](../records/audio-mediacms-io-mediacms-6c0d1227.md) | partial | 2026-08-25T13:49:34Z | registry-derived |
-| [mpv-android/mpv-android](../records/audio-mpv-android-mpv-android-66cc1973.md) | partial | 2026-09-01T21:03:52Z | registry-derived |
+| [mpv-android/mpv-android](../records/audio-mpv-android-mpv-android-66cc1973.md) | partial | 2026-09-02T20:14:25Z | registry-derived |
 | [OpenMOSS/MOSS-TTS](../records/audio-openmoss-moss-tts-97a3ba07.md) | unknown | github_latest_release_missing | registry-derived |
 | [probonopd/MiniDexed](../records/audio-probonopd-minidexed-5507dcd2.md) | 2025-07-30 | 2025-07-30T04:40:06Z | registry-derived |
 | [qTox/qTox](../records/audio-qtox-qtox-1eef801f.md) | partial | 2025-02-16T14:21:41Z | registry-derived |
@@ -251,7 +251,7 @@ Records: `314`
 | [jareddrayton/Audio-Plugin-Development-Resources](../records/audio-jareddrayton-audio-plugin-development-resources-5d496c70.md) | partial | 2022-11-01T15:35:25Z | registry-derived |
 | [JUCE](../records/audio-juce-3f2891c9.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [JuliaDSP/DSP.jl](../records/audio-juliadsp-dsp-jl-4e524896.md) | partial | 2026-08-25T10:58:30Z | registry-derived |
-| [katspaugh/wavesurfer.js](../records/audio-katspaugh-wavesurfer-js-cff13805.md) | partial | 2026-09-02T11:45:52Z | registry-derived |
+| [katspaugh/wavesurfer.js](../records/audio-katspaugh-wavesurfer-js-cff13805.md) | partial | 2026-09-02T19:35:18Z | registry-derived |
 | [koel/koel](../records/audio-koel-koel-f2457c0c.md) | partial | 2026-09-01T22:52:59Z | registry-derived |
 | [libsndfile](../records/audio-libsndfile-6065db3d.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [mackron/miniaudio](../records/audio-mackron-miniaudio-78110754.md) | partial | 2026-08-19T22:07:12Z | registry-derived |
@@ -259,12 +259,12 @@ Records: `314`
 | [michaelwillis/dragonfly-reverb](../records/audio-michaelwillis-dragonfly-reverb-7aa868bf.md) | partial | 2026-05-21T15:59:51Z | registry-derived |
 | [midas-research/audino](../records/audio-midas-research-audino-bfd86e43.md) | v0.1.0 | 2020-06-04T08:09:22Z | registry-derived |
 | [miek/inspectrum](../records/audio-miek-inspectrum-a2b95ec1.md) | partial | 2025-12-06T15:44:29Z | registry-derived |
-| [mixxxdj/mixxx](../records/audio-mixxxdj-mixxx-c62cc22f.md) | partial | 2026-09-01T04:33:35Z | registry-derived |
+| [mixxxdj/mixxx](../records/audio-mixxxdj-mixxx-c62cc22f.md) | partial | 2026-09-02T21:15:00Z | registry-derived |
 | [ModernFlyouts-Community/ModernFlyouts](../records/audio-modernflyouts-community-modernflyouts-61772da5.md) | partial | 2024-11-17T02:39:02Z | registry-derived |
 | [Moekotori/ECHO](../records/audio-moekotori-echo-a5eae6e0.md) | partial | 2026-08-20T00:46:12Z | registry-derived |
 | [morkt/GARbro](../records/audio-morkt-garbro-79127cac.md) | partial | 2024-07-08T19:36:58Z | registry-derived |
 | [mpv-player/mpv](../records/audio-mpv-player-mpv-42e3d95c.md) | partial | 2026-09-02T16:45:50Z | registry-derived |
-| [mumble-voip/mumble](../records/audio-mumble-voip-mumble-d83c7a49.md) | partial | 2026-09-02T17:15:21Z | registry-derived |
+| [mumble-voip/mumble](../records/audio-mumble-voip-mumble-d83c7a49.md) | partial | 2026-09-02T19:49:03Z | registry-derived |
 | [novoic/surfboard](../records/audio-novoic-surfboard-0947802a.md) | unknown | github_latest_release_missing | registry-derived |
 | [npisanti/ofxPDSP](../records/audio-npisanti-ofxpdsp-71b17c19.md) | partial | 2024-08-09T02:07:03Z | registry-derived |
 | [olilarkin/awesome-musicdsp](../records/audio-olilarkin-awesome-musicdsp-8a7e6eae.md) | partial | 2026-05-30T16:10:00Z | registry-derived |
@@ -285,7 +285,7 @@ Records: `314`
 | [SoX](../records/audio-sox-26fadc03.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [spotify/basic-pitch](../records/audio-spotify-basic-pitch-05b329a5.md) | partial | 2025-11-13T14:40:46Z | registry-derived |
 | [spotify/pedalboard](../records/audio-spotify-pedalboard-2950d53f.md) | partial | 2026-08-31T02:34:54Z | registry-derived |
-| [strawberrymusicplayer/strawberry](../records/audio-strawberrymusicplayer-strawberry-65e2b7e4.md) | partial | 2026-09-02T18:17:30Z | registry-derived |
+| [strawberrymusicplayer/strawberry](../records/audio-strawberrymusicplayer-strawberry-65e2b7e4.md) | partial | 2026-09-02T21:22:26Z | registry-derived |
 | [SuperKogito/spafe](../records/audio-superkogito-spafe-354360b4.md) | partial | 2025-03-20T16:16:12Z | registry-derived |
 | [surge-synthesizer/surge](../records/audio-surge-synthesizer-surge-87b5aeea.md) | Nightly | 2024-08-07T14:35:52Z | registry-derived |
 | [SynthstromAudible/DelugeFirmware](../records/audio-synthstromaudible-delugefirmware-4c834ea8.md) | partial | 2026-09-02T16:23:49Z | registry-derived |
@@ -385,7 +385,7 @@ Records: `314`
 | [copych/AcidBox](../records/audio-copych-acidbox-f1182e91.md) | v.1.3.3 | 2024-11-12T08:14:16Z | registry-derived |
 | [DamRsn/NeuralNote](../records/audio-damrsn-neuralnote-e9b5c736.md) | partial | 2025-01-16T10:00:44Z | registry-derived |
 | [electro-smith/DaisySP](../records/audio-electro-smith-daisysp-caa53501.md) | partial | 2025-05-29T04:37:29Z | registry-derived |
-| [huggingface/transformers](../records/audio-huggingface-transformers-9073c238.md) | partial | 2026-09-02T18:23:40Z | registry-derived |
+| [huggingface/transformers](../records/audio-huggingface-transformers-9073c238.md) | partial | 2026-09-03T00:15:01Z | registry-derived |
 | [ictnlp/StreamSpeech](../records/audio-ictnlp-streamspeech-abc4c0a4.md) | unknown | github_latest_release_missing | registry-derived |
 | [iver56/audiomentations](../records/audio-iver56-audiomentations-bf487b1d.md) | partial | 2026-04-13T22:04:14Z | registry-derived |
 | [lanceylai/TSWeChat](../records/audio-lanceylai-tswechat-3bd4bda0.md) | partial | 2019-07-28T08:57:46Z | registry-derived |
@@ -522,7 +522,7 @@ Records: `314`
 | [dwhinham/mt32-pi](../records/audio-dwhinham-mt32-pi-7a87163b.md) | v0.13.1 | 2023-03-18T20:32:51Z | registry-derived |
 | [pschatzmann/arduino-audio-tools](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) | partial | 2026-09-02T15:31:31Z | registry-derived |
 | [rsadsb/adsb_deku](../records/audio-rsadsb-adsb-deku-8c9a3700.md) | partial | 2026-01-04T16:18:33Z | registry-derived |
-| [unchihugo/FluentFlyout](../records/audio-unchihugo-fluentflyout-e2e81b2d.md) | partial | 2026-09-02T13:40:35Z | registry-derived |
+| [unchihugo/FluentFlyout](../records/audio-unchihugo-fluentflyout-e2e81b2d.md) | partial | 2026-09-02T19:52:09Z | registry-derived |
 | [zynthian/zynthian-ui](../records/audio-zynthian-zynthian-ui-308e1a33.md) | unknown | github_latest_release_missing | registry-derived |
 
 ### Web Framework

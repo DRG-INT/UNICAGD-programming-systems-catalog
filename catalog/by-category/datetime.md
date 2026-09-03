@@ -1,6 +1,6 @@
 # Datetime
 
-Records: `166`
+Records: `167`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `166`
 
 ## Category Index
 
-[Api Abi Checker (198)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (42)](assertion-mocking.md) · [Async Runtime (131)](async-runtime.md)
-[Benchmarking (152)](benchmarking.md) · [Build System (858)](build-system.md) · [Cli (518)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (90)](community-reference.md) · [Compiler (172)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
-[Concurrency Parallelism (74)](concurrency-parallelism.md) · [Configuration (105)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (13)](coverage.md)
-[Cryptography (158)](cryptography.md) · [Data Science (34)](data-science.md) · [Database Datastore (778)](database-datastore.md) · **[Datetime (166)](datetime.md)**
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (90)](dependency-manager.md) · [Documentation (92)](documentation.md)
-[Embedded Hardware (51)](embedded-hardware.md) · [Ffi Bindings (395)](ffi-bindings.md) · [Filesystem Os (1271)](filesystem-os.md) · [Formatter (570)](formatter.md)
-[Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (162)](game-engine-game-dev.md) · [Ide Editor Integration (1241)](ide-editor-integration.md)
-[Image Audio Dsp (312)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (240)](interpreter-runtime.md) · [Jit Vm (58)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1257)](language-specification.md) · [Library (5011)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (461)](logging-observability.md) · [Machine Learning (613)](machine-learning.md)
-[Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (941)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (399)](package-manager.md) · [Parser Lexer Ast (947)](parser-lexer-ast.md) · [Precommit Ci Quality (268)](precommit-ci-quality.md)
-[Profiler (76)](profiler.md) · [Project Scaffolding (124)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (324)](security-sast.md) · [Serialization (374)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (464)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (508)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (293)](type-checker.md)
-[Undefined Behavior Analyzer (1443)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (427)](visualization-gui.md) · [Web Framework (429)](web-framework.md)
+[Api Abi Checker (199)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (131)](async-runtime.md)
+[Benchmarking (160)](benchmarking.md) · [Build System (871)](build-system.md) · [Cli (521)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (91)](community-reference.md) · [Compiler (173)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+[Concurrency Parallelism (75)](concurrency-parallelism.md) · [Configuration (107)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (160)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (791)](database-datastore.md) · **[Datetime (167)](datetime.md)**
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (93)](documentation.md)
+[Embedded Hardware (52)](embedded-hardware.md) · [Ffi Bindings (400)](ffi-bindings.md) · [Filesystem Os (1300)](filesystem-os.md) · [Formatter (578)](formatter.md)
+[Framework (51)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1257)](ide-editor-integration.md)
+[Image Audio Dsp (314)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (240)](interpreter-runtime.md) · [Jit Vm (58)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1260)](language-specification.md) · [Library (5056)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (464)](logging-observability.md) · [Machine Learning (620)](machine-learning.md)
+[Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (946)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (402)](package-manager.md) · [Parser Lexer Ast (962)](parser-lexer-ast.md) · [Precommit Ci Quality (269)](precommit-ci-quality.md)
+[Profiler (78)](profiler.md) · [Project Scaffolding (125)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Security Sast (325)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (465)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (511)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (293)](type-checker.md)
+[Undefined Behavior Analyzer (1457)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (430)](visualization-gui.md) · [Web Framework (443)](web-framework.md)
 
 ## C++23
 
@@ -124,6 +124,7 @@ Records: `166`
 | haskell-updater | 1.5.0.0 | 2025-03-07T04:56:42Z | [open](../records/haskell-haskell-updater-54a22548.md) |
 | old-time | 1.1.1.0 | 2026-03-07T10:25:48Z | [open](../records/haskell-old-time-8fa4d210.md) |
 | polysemy-time | 0.7.0.2 | 2026-04-28T16:48:53Z | [open](../records/haskell-polysemy-time-9dc77c4a.md) |
+| strptime | 1.0.10 | 2012-12-18T23:24:56Z | [open](../records/haskell-strptime-9631f7c9.md) |
 | time | 1.16.0.1 | 2026-07-20T21:55:18Z | [open](../records/haskell-time-b6a6902a.md) |
 | time-compat | 1.9.9 | 2026-02-11T09:57:19Z | [open](../records/haskell-time-compat-896db88d.md) |
 | time-manager | 0.3.2 | 2026-04-05T15:23:53Z | [open](../records/haskell-time-manager-bdfdb062.md) |

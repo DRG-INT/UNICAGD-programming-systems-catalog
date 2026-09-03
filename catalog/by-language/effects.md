@@ -8,23 +8,23 @@ Records: `608`
 
 ## Category Index
 
-[Api Abi Checker (198)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (42)](../by-category/assertion-mocking.md) · [Async Runtime (131)](../by-category/async-runtime.md)
-[Benchmarking (152)](../by-category/benchmarking.md) · [Build System (858)](../by-category/build-system.md) · [Cli (518)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (90)](../by-category/community-reference.md) · [Compiler (172)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (45)](../by-category/compression.md)
-[Concurrency Parallelism (74)](../by-category/concurrency-parallelism.md) · [Configuration (105)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (13)](../by-category/coverage.md)
-[Cryptography (158)](../by-category/cryptography.md) · [Data Science (34)](../by-category/data-science.md) · [Database Datastore (778)](../by-category/database-datastore.md) · [Datetime (166)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (41)](../by-category/debugger.md) · [Dependency Manager (90)](../by-category/dependency-manager.md) · [Documentation (92)](../by-category/documentation.md)
-[Embedded Hardware (51)](../by-category/embedded-hardware.md) · [Ffi Bindings (395)](../by-category/ffi-bindings.md) · [Filesystem Os (1271)](../by-category/filesystem-os.md) · [Formatter (570)](../by-category/formatter.md)
-[Framework (51)](../by-category/framework.md) · [Fuzzer (48)](../by-category/fuzzer.md) · [Game Engine Game Dev (162)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1241)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (312)](../by-category/image-audio-dsp.md) · [Interop Bindings (56)](../by-category/interop-bindings.md) · [Interpreter Runtime (240)](../by-category/interpreter-runtime.md) · [Jit Vm (58)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1257)](../by-category/language-specification.md) · [Library (5011)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (42)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (461)](../by-category/logging-observability.md) · [Machine Learning (613)](../by-category/machine-learning.md)
-[Math Numeric Scientific (82)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (34)](../by-category/message-broker.md) · [Networking Http (941)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (399)](../by-category/package-manager.md) · [Parser Lexer Ast (947)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (268)](../by-category/precommit-ci-quality.md)
-[Profiler (76)](../by-category/profiler.md) · [Project Scaffolding (124)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
-[Security Sast (324)](../by-category/security-sast.md) · [Serialization (374)](../by-category/serialization.md) · [Standard Library (24)](../by-category/standard-library.md) · [Static Analyzer (464)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (508)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](../by-category/tutorial-book-styleguide.md) · [Type Checker (293)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1443)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](../by-category/utility-library.md) · [Visualization Gui (427)](../by-category/visualization-gui.md) · [Web Framework (429)](../by-category/web-framework.md)
+[Api Abi Checker (199)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (44)](../by-category/assertion-mocking.md) · [Async Runtime (131)](../by-category/async-runtime.md)
+[Benchmarking (160)](../by-category/benchmarking.md) · [Build System (871)](../by-category/build-system.md) · [Cli (521)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (91)](../by-category/community-reference.md) · [Compiler (173)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (45)](../by-category/compression.md)
+[Concurrency Parallelism (75)](../by-category/concurrency-parallelism.md) · [Configuration (107)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
+[Cryptography (160)](../by-category/cryptography.md) · [Data Science (35)](../by-category/data-science.md) · [Database Datastore (791)](../by-category/database-datastore.md) · [Datetime (167)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (41)](../by-category/debugger.md) · [Dependency Manager (91)](../by-category/dependency-manager.md) · [Documentation (93)](../by-category/documentation.md)
+[Embedded Hardware (52)](../by-category/embedded-hardware.md) · [Ffi Bindings (400)](../by-category/ffi-bindings.md) · [Filesystem Os (1300)](../by-category/filesystem-os.md) · [Formatter (578)](../by-category/formatter.md)
+[Framework (51)](../by-category/framework.md) · [Fuzzer (50)](../by-category/fuzzer.md) · [Game Engine Game Dev (164)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1257)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (314)](../by-category/image-audio-dsp.md) · [Interop Bindings (56)](../by-category/interop-bindings.md) · [Interpreter Runtime (240)](../by-category/interpreter-runtime.md) · [Jit Vm (58)](../by-category/jit-vm.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1260)](../by-category/language-specification.md) · [Library (5056)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (42)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (464)](../by-category/logging-observability.md) · [Machine Learning (620)](../by-category/machine-learning.md)
+[Math Numeric Scientific (82)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (35)](../by-category/message-broker.md) · [Networking Http (946)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (402)](../by-category/package-manager.md) · [Parser Lexer Ast (962)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (269)](../by-category/precommit-ci-quality.md)
+[Profiler (78)](../by-category/profiler.md) · [Project Scaffolding (125)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
+[Security Sast (325)](../by-category/security-sast.md) · [Serialization (375)](../by-category/serialization.md) · [Standard Library (24)](../by-category/standard-library.md) · [Static Analyzer (465)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (511)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](../by-category/tutorial-book-styleguide.md) · [Type Checker (293)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1457)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](../by-category/utility-library.md) · [Visualization Gui (430)](../by-category/visualization-gui.md) · [Web Framework (443)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -232,7 +232,7 @@ Records: `608`
 | [getoffmyhack/waveSDR](../records/effects-getoffmyhack-wavesdr-29b3c175.md) | partial | 2026-08-01T17:26:02Z | registry-derived |
 | [ghaerr/agg-2.6](../records/effects-ghaerr-agg-2-6-d129da6e.md) | partial | 2023-09-13T00:27:54Z | registry-derived |
 | [gnuradio/gnuradio](../records/effects-gnuradio-gnuradio-792f9652.md) | partial | 2026-08-27T23:02:01Z | registry-derived |
-| [grizzlypeak3d/DJV](../records/effects-grizzlypeak3d-djv-a31a9ac6.md) | partial | 2026-09-02T02:18:17Z | registry-derived |
+| [grizzlypeak3d/DJV](../records/effects-grizzlypeak3d-djv-a31a9ac6.md) | partial | 2026-09-03T00:22:43Z | registry-derived |
 | [HEnquist/camilladsp](../records/effects-henquist-camilladsp-d941192e.md) | partial | 2026-09-01T15:08:43Z | registry-derived |
 | [hexianWeb/lego-stylized-nature](../records/effects-hexianweb-lego-stylized-nature-cb083959.md) | partial | 2026-07-08T07:37:58Z | registry-derived |
 | [hifiberry/hifiberry-os](../records/effects-hifiberry-hifiberry-os-23434356.md) | partial | 2026-09-02T09:00:56Z | registry-derived |
@@ -303,7 +303,7 @@ Records: `608`
 | [protyposis/Spectaculum](../records/effects-protyposis-spectaculum-fcac9d0d.md) | partial | 2024-02-21T09:28:30Z | registry-derived |
 | [QianMo/X-PostProcessing-Library](../records/effects-qianmo-x-postprocessing-library-3834f7d5.md) | partial | 2023-07-14T17:42:11Z | registry-derived |
 | [radoslawregula/reverb-algorithms](../records/effects-radoslawregula-reverb-algorithms-0f4a1d2f.md) | partial | 2020-02-09T11:12:27Z | registry-derived |
-| [ralgar/vkShade](../records/effects-ralgar-vkshade-027f2833.md) | partial | 2026-09-02T18:22:12Z | registry-derived |
+| [ralgar/vkShade](../records/effects-ralgar-vkshade-027f2833.md) | partial | 2026-09-03T00:30:23Z | registry-derived |
 | [rcalixte/awesome-wayland](../records/effects-rcalixte-awesome-wayland-4cc39bd2.md) | partial | 2026-08-30T19:00:18Z | registry-derived |
 | [robclouth/noise-canvas](../records/effects-robclouth-noise-canvas-171ca6d8.md) | partial | 2026-08-25T09:29:49Z | registry-derived |
 | [rockbite/talos](../records/effects-rockbite-talos-07105463.md) | partial | 2026-08-18T11:17:42Z | registry-derived |
@@ -343,7 +343,7 @@ Records: `608`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [AcademySoftwareFoundation/OpenImageIO](../records/effects-academysoftwarefoundation-openimageio-0013edc0.md) | partial | 2026-09-02T15:40:44Z | registry-derived |
+| [AcademySoftwareFoundation/OpenImageIO](../records/effects-academysoftwarefoundation-openimageio-0013edc0.md) | partial | 2026-09-02T18:56:12Z | registry-derived |
 | [AcademySoftwareFoundation/OpenTimelineIO](../records/effects-academysoftwarefoundation-opentimelineio-3fcbc8e9.md) | partial | 2026-08-07T21:08:35Z | registry-derived |
 | [blackout1471/AmpStudio](../records/effects-blackout1471-ampstudio-a1b4a947.md) | partial | 2023-12-22T18:49:11Z | registry-derived |
 | [Frikallo/SonicSynth](../records/effects-frikallo-sonicsynth-5f25bf87.md) | partial | 2023-05-19T05:38:57Z | registry-derived |
@@ -398,7 +398,7 @@ Records: `608`
 | [Arystos/Advanced-Outline-Shader-UE5](../records/effects-arystos-advanced-outline-shader-ue5-5e6152c6.md) | unknown | github_latest_release_missing | registry-derived |
 | [cpichard/usdtweak](../records/effects-cpichard-usdtweak-06bd7b2b.md) | partial | 2026-08-09T08:57:01Z | registry-derived |
 | [crazylafo/AE_tl_math](../records/effects-crazylafo-ae-tl-math-db7f2588.md) | partial | 2022-06-13T16:06:40Z | registry-derived |
-| [crosire/reshade](../records/effects-crosire-reshade-1e232ae5.md) | partial | 2026-08-31T19:45:19Z | registry-derived |
+| [crosire/reshade](../records/effects-crosire-reshade-1e232ae5.md) | partial | 2026-09-02T22:44:02Z | registry-derived |
 | [doceazedo/sprinkles](../records/effects-doceazedo-sprinkles-1945cae5.md) | v0.3.0 | 2026-06-24T16:36:52Z | registry-derived |
 | [ealtun21/resonance](../records/effects-ealtun21-resonance-5300cab0.md) | partial | 2026-07-26T18:16:21Z | registry-derived |
 | [everythingwillbetakenaway/DX7-Supercollider](../records/effects-everythingwillbetakenaway-dx7-supercollider-14889f0f.md) | partial | 2026-01-08T20:53:58Z | registry-derived |
@@ -422,7 +422,7 @@ Records: `608`
 | [RdenBlaauwen/RCAS-for-ReShade](../records/effects-rdenblaauwen-rcas-for-reshade-d195ca4b.md) | unknown | github_latest_release_missing | registry-derived |
 | [Samsy/Post-Processing-Hack-Editor](../records/effects-samsy-post-processing-hack-editor-ff1c3a5c.md) | unknown | github_latest_release_missing | registry-derived |
 | [shamadee/web-dsp](../records/effects-shamadee-web-dsp-a3bd15e7.md) | partial | 2017-06-05T05:36:36Z | registry-derived |
-| [sideeffects/SideFXLabs](../records/effects-sideeffects-sidefxlabs-13175f93.md) | partial | 2026-09-02T16:33:37Z | registry-derived |
+| [sideeffects/SideFXLabs](../records/effects-sideeffects-sidefxlabs-13175f93.md) | partial | 2026-09-02T22:28:19Z | registry-derived |
 | [Souloist/audio-effects](../records/effects-souloist-audio-effects-d98c525b.md) | partial | 2016-04-13T03:06:04Z | registry-derived |
 | [supriya-project/supriya](../records/effects-supriya-project-supriya-d075f962.md) | partial | 2026-09-02T01:26:58Z | registry-derived |
 | [taco-group/SparkVSR](../records/effects-taco-group-sparkvsr-646d164d.md) | partial | 2026-08-03T04:15:33Z | registry-derived |
@@ -530,7 +530,7 @@ Records: `608`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [AcademySoftwareFoundation/MaterialX](../records/effects-academysoftwarefoundation-materialx-1f8662c9.md) | partial | 2026-08-28T23:56:34Z | registry-derived |
-| [AcademySoftwareFoundation/openexr](../records/effects-academysoftwarefoundation-openexr-76904ac6.md) | partial | 2026-09-02T04:36:06Z | registry-derived |
+| [AcademySoftwareFoundation/openexr](../records/effects-academysoftwarefoundation-openexr-76904ac6.md) | partial | 2026-09-02T23:29:58Z | registry-derived |
 | [AcademySoftwareFoundation/OpenPBR](../records/effects-academysoftwarefoundation-openpbr-358a3a7c.md) | partial | 2026-04-22T11:26:32Z | registry-derived |
 | [AcademySoftwareFoundation/OpenShadingLanguage](../records/effects-academysoftwarefoundation-openshadinglanguage-cb82500e.md) | partial | 2026-08-30T01:16:02Z | registry-derived |
 | [ALH477/ai-faust-dsp-effects](../records/effects-alh477-ai-faust-dsp-effects-6881f2de.md) | partial | 2026-03-03T19:38:36Z | registry-derived |
@@ -547,7 +547,7 @@ Records: `608`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [AcademySoftwareFoundation/OpenCue](../records/effects-academysoftwarefoundation-opencue-4ae373a6.md) | partial | 2026-09-02T01:33:09Z | registry-derived |
+| [AcademySoftwareFoundation/OpenCue](../records/effects-academysoftwarefoundation-opencue-4ae373a6.md) | partial | 2026-09-02T23:36:08Z | registry-derived |
 | [akof1314/UnityParticleSystemPreview](../records/effects-akof1314-unityparticlesystempreview-89de2d88.md) | v1.3 | 2025-02-21T13:45:24Z | registry-derived |
 | [alexadam/glitch-studio](../records/effects-alexadam-glitch-studio-242af220.md) | partial | 2020-07-04T12:35:23Z | registry-derived |
 | [alexnikop/VFEZ-godot](../records/effects-alexnikop-vfez-godot-37aa177c.md) | partial | 2025-03-22T10:05:57Z | registry-derived |
@@ -668,7 +668,7 @@ Records: `608`
 | [appliedapp/rusty_lights](../records/effects-appliedapp-rusty-lights-c67cc805.md) | partial | 2026-05-04T20:20:12Z | registry-derived |
 | [Audio4Linux/JDSP4Linux](../records/effects-audio4linux-jdsp4linux-e90e4af9.md) | partial | 2026-08-29T16:29:46Z | registry-derived |
 | [beinteractive/LWRPAmbientOcclusion](../records/effects-beinteractive-lwrpambientocclusion-7b85e0e3.md) | partial | 2019-10-04T22:49:34Z | registry-derived |
-| [CialloKing/ba-click-fx](../records/effects-cialloking-ba-click-fx-b842180a.md) | partial | 2026-09-02T18:07:45Z | registry-derived |
+| [CialloKing/ba-click-fx](../records/effects-cialloking-ba-click-fx-b842180a.md) | partial | 2026-09-02T18:36:19Z | registry-derived |
 | [CyberAgentGameEntertainment/NovaShader](../records/effects-cyberagentgameentertainment-novashader-cfdfe2cf.md) | partial | 2026-09-02T09:17:59Z | registry-derived |
 | [demonixis/SSGI-URP](../records/effects-demonixis-ssgi-urp-4db7e7d8.md) | partial | 2020-03-11T06:40:26Z | registry-derived |
 | [GarrettGunnell/Post-Processing](../records/effects-garrettgunnell-post-processing-2bb2ca4a.md) | unknown | github_latest_release_missing | registry-derived |

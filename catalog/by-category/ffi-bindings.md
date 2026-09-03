@@ -1,6 +1,6 @@
 # Ffi Bindings
 
-Records: `395`
+Records: `400`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `395`
 
 ## Category Index
 
-[Api Abi Checker (198)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (42)](assertion-mocking.md) · [Async Runtime (131)](async-runtime.md)
-[Benchmarking (152)](benchmarking.md) · [Build System (858)](build-system.md) · [Cli (518)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (90)](community-reference.md) · [Compiler (172)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
-[Concurrency Parallelism (74)](concurrency-parallelism.md) · [Configuration (105)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (13)](coverage.md)
-[Cryptography (158)](cryptography.md) · [Data Science (34)](data-science.md) · [Database Datastore (778)](database-datastore.md) · [Datetime (166)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (90)](dependency-manager.md) · [Documentation (92)](documentation.md)
-[Embedded Hardware (51)](embedded-hardware.md) · **[Ffi Bindings (395)](ffi-bindings.md)** · [Filesystem Os (1271)](filesystem-os.md) · [Formatter (570)](formatter.md)
-[Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (162)](game-engine-game-dev.md) · [Ide Editor Integration (1241)](ide-editor-integration.md)
-[Image Audio Dsp (312)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (240)](interpreter-runtime.md) · [Jit Vm (58)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1257)](language-specification.md) · [Library (5011)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (461)](logging-observability.md) · [Machine Learning (613)](machine-learning.md)
-[Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (941)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (399)](package-manager.md) · [Parser Lexer Ast (947)](parser-lexer-ast.md) · [Precommit Ci Quality (268)](precommit-ci-quality.md)
-[Profiler (76)](profiler.md) · [Project Scaffolding (124)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (324)](security-sast.md) · [Serialization (374)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (464)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (508)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (293)](type-checker.md)
-[Undefined Behavior Analyzer (1443)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (427)](visualization-gui.md) · [Web Framework (429)](web-framework.md)
+[Api Abi Checker (199)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (131)](async-runtime.md)
+[Benchmarking (160)](benchmarking.md) · [Build System (871)](build-system.md) · [Cli (521)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (91)](community-reference.md) · [Compiler (173)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+[Concurrency Parallelism (75)](concurrency-parallelism.md) · [Configuration (107)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (160)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (791)](database-datastore.md) · [Datetime (167)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (93)](documentation.md)
+[Embedded Hardware (52)](embedded-hardware.md) · **[Ffi Bindings (400)](ffi-bindings.md)** · [Filesystem Os (1300)](filesystem-os.md) · [Formatter (578)](formatter.md)
+[Framework (51)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1257)](ide-editor-integration.md)
+[Image Audio Dsp (314)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (240)](interpreter-runtime.md) · [Jit Vm (58)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1260)](language-specification.md) · [Library (5056)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (464)](logging-observability.md) · [Machine Learning (620)](machine-learning.md)
+[Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (946)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (402)](package-manager.md) · [Parser Lexer Ast (962)](parser-lexer-ast.md) · [Precommit Ci Quality (269)](precommit-ci-quality.md)
+[Profiler (78)](profiler.md) · [Project Scaffolding (125)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Security Sast (325)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (465)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (511)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (293)](type-checker.md)
+[Undefined Behavior Analyzer (1457)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (430)](visualization-gui.md) · [Web Framework (443)](web-framework.md)
 
 ## C++23
 
@@ -228,7 +228,7 @@ Records: `395`
 | @blocksuite/affine-block-database | 0.22.4 | 2025-07-01T05:43:11.761Z | [open](../records/node-js-javascript-blocksuite-affine-block-database-c0168ec8.md) |
 | @blocksuite/data-view | 0.22.4 | 2025-07-01T05:43:33.867Z | [open](../records/node-js-javascript-blocksuite-data-view-d981610e.md) |
 | @browserstack/mcp-server | 1.3.1 | 2026-08-31T12:58:13.835Z | [open](../records/node-js-javascript-browserstack-mcp-server-28ee02d1.md) |
-| @canva/cli | 2.10.0 | 2026-08-26T00:07:01.787Z | [open](../records/node-js-javascript-canva-cli-7d868b38.md) |
+| @canva/cli | 2.11.0 | 2026-09-01T23:13:10.264Z | [open](../records/node-js-javascript-canva-cli-7d868b38.md) |
 | @datadog/openfeature-node-server | 2.2.0 | 2026-08-21T16:37:22.615Z | [open](../records/node-js-javascript-datadog-openfeature-node-server-86bf2f8d.md) |
 | @larksuite/cli | 1.0.93 | 2026-09-01T17:02:32.658Z | [open](../records/node-js-javascript-larksuite-cli-442a55c5.md) |
 | @notionhq/notion-mcp-server | 2.5.1 | 2026-07-25T16:20:34.018Z | [open](../records/node-js-javascript-notionhq-notion-mcp-server-f7b2be7e.md) |
@@ -418,13 +418,16 @@ Records: `395`
 | --- | --- | --- | --- |
 | crazycapivara/h3-r | partial | 2022-08-08T08:04:12Z | [open](../records/maps-crazycapivara-h3-r-7a69cf02.md) |
 | Gaia3D/mago-3d-tiler | unknown | github_search_does_not_include_release_date | [open](../records/maps-gaia3d-mago-3d-tiler-ef3c4fa4.md) |
-| geoserver/geoserver | partial | 2026-09-01T16:17:12Z | [open](../records/maps-geoserver-geoserver-be5dd005.md) |
+| geoserver/geoserver | partial | 2026-09-02T16:25:55Z | [open](../records/maps-geoserver-geoserver-be5dd005.md) |
 | geotools/geotools | partial | 2026-09-01T17:51:13Z | [open](../records/maps-geotools-geotools-a7928212.md) |
+| mvexel/overpass-api-python-wrapper | partial | 2026-01-08T03:59:25Z | [open](../records/maps-mvexel-overpass-api-python-wrapper-3ec1fd9d.md) |
 | naturalatlas/node-gdal | partial | 2024-09-03T21:32:11Z | [open](../records/maps-naturalatlas-node-gdal-bc3c7bb2.md) |
+| osmcode/pyosmium | partial | 2026-04-02T09:28:31Z | [open](../records/maps-osmcode-pyosmium-236a85f5.md) |
 | rtuszik/photon-docker | partial | 2026-08-30T03:58:55Z | [open](../records/maps-rtuszik-photon-docker-df6fa4fc.md) |
 | SweetIQ/expostal | partial | 2023-07-23T09:55:31Z | [open](../records/maps-sweetiq-expostal-ee383b88.md) |
 | tjukanovt/30DayMapChallenge | partial | 2026-08-26T18:59:03Z | [open](../records/maps-tjukanovt-30daymapchallenge-a44707f4.md) |
 | twpayne/go-geom | partial | 2026-08-19T19:57:18Z | [open](../records/maps-twpayne-go-geom-0868b72a.md) |
+| yukinarit/mapbox-gl-rs | partial | 2026-01-05T11:04:13Z | [open](../records/maps-yukinarit-mapbox-gl-rs-dc2ec7e3.md) |
 
 ## Space Shuttles
 
@@ -437,7 +440,7 @@ Records: `395`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mars-sim/mars-sim | partial | 2026-09-02T01:46:22Z | [open](../records/space-maps-mars-sim-mars-sim-54bf76f4.md) |
+| mars-sim/mars-sim | partial | 2026-09-02T21:35:26Z | [open](../records/space-maps-mars-sim-mars-sim-54bf76f4.md) |
 | Spooffit/star_wars | partial | 2023-07-18T15:29:02Z | [open](../records/space-maps-spooffit-star-wars-0cdbb857.md) |
 
 ## Effects
@@ -586,10 +589,12 @@ Records: `395`
 | --- | --- | --- | --- |
 | electric-sql/pglite | partial | 2026-08-26T18:35:11Z | [open](../records/databases-electric-sql-pglite-aaa8e71d.md) |
 | Koka/odbc-rs | partial | 2024-08-07T20:26:24Z | [open](../records/databases-koka-odbc-rs-22556c1f.md) |
+| maxi-k/btrblocks | partial | 2025-04-07T10:12:31Z | [open](../records/databases-maxi-k-btrblocks-dc270804.md) |
 | mongodb/mongo-csharp-driver | partial | 2026-08-28T19:50:23Z | [open](../records/databases-mongodb-mongo-csharp-driver-9f56565d.md) |
 | mongodb/node-mongodb-native | partial | 2026-09-01T13:45:46Z | [open](../records/databases-mongodb-node-mongodb-native-de777c0a.md) |
 | oracle/docker-images | partial | 2026-08-31T15:37:38Z | [open](../records/databases-oracle-docker-images-69ec5f43.md) |
 | parthsarthi03/raptor | partial | 2024-09-03T08:34:31Z | [open](../records/databases-parthsarthi03-raptor-aabfb858.md) |
+| pixelsdb/pixels | partial | 2026-09-02T17:33:11Z | [open](../records/databases-pixelsdb-pixels-36b88ea6.md) |
 | SOCI/soci | partial | 2026-09-01T20:27:06Z | [open](../records/databases-soci-soci-d7c36c2b.md) |
 | sqlitebrowser/sqlitebrowser | partial | 2026-09-02T13:04:31Z | [open](../records/databases-sqlitebrowser-sqlitebrowser-30722f99.md) |
 | trinodb/trino | partial | 2026-09-02T14:06:50Z | [open](../records/databases-trinodb-trino-b6fa58b4.md) |
@@ -599,4 +604,4 @@ Records: `395`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | dwrodri/bash_irc_quotes | partial | 2024-01-12T09:58:52.649Z | [open](../records/repository-workplaces-dwrodri-bash-irc-quotes-bf5971a9.md) |
-| exploit-database/exploitdb | partial | 2026-09-02T00:16:55.505Z | [open](../records/repository-workplaces-exploit-database-exploitdb-f78a49a7.md) |
+| exploit-database/exploitdb | partial | 2026-09-03T00:16:38.295Z | [open](../records/repository-workplaces-exploit-database-exploitdb-f78a49a7.md) |

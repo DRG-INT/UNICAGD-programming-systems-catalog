@@ -1,6 +1,6 @@
 # Library
 
-Records: `5011`
+Records: `5056`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `5011`
 
 ## Category Index
 
-[Api Abi Checker (198)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (42)](assertion-mocking.md) · [Async Runtime (131)](async-runtime.md)
-[Benchmarking (152)](benchmarking.md) · [Build System (858)](build-system.md) · [Cli (518)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (90)](community-reference.md) · [Compiler (172)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
-[Concurrency Parallelism (74)](concurrency-parallelism.md) · [Configuration (105)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (13)](coverage.md)
-[Cryptography (158)](cryptography.md) · [Data Science (34)](data-science.md) · [Database Datastore (778)](database-datastore.md) · [Datetime (166)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (90)](dependency-manager.md) · [Documentation (92)](documentation.md)
-[Embedded Hardware (51)](embedded-hardware.md) · [Ffi Bindings (395)](ffi-bindings.md) · [Filesystem Os (1271)](filesystem-os.md) · [Formatter (570)](formatter.md)
-[Framework (51)](framework.md) · [Fuzzer (48)](fuzzer.md) · [Game Engine Game Dev (162)](game-engine-game-dev.md) · [Ide Editor Integration (1241)](ide-editor-integration.md)
-[Image Audio Dsp (312)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (240)](interpreter-runtime.md) · [Jit Vm (58)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1257)](language-specification.md) · **[Library (5011)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (461)](logging-observability.md) · [Machine Learning (613)](machine-learning.md)
-[Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (34)](message-broker.md) · [Networking Http (941)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (399)](package-manager.md) · [Parser Lexer Ast (947)](parser-lexer-ast.md) · [Precommit Ci Quality (268)](precommit-ci-quality.md)
-[Profiler (76)](profiler.md) · [Project Scaffolding (124)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (324)](security-sast.md) · [Serialization (374)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (464)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (508)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (293)](type-checker.md)
-[Undefined Behavior Analyzer (1443)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (427)](visualization-gui.md) · [Web Framework (429)](web-framework.md)
+[Api Abi Checker (199)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (131)](async-runtime.md)
+[Benchmarking (160)](benchmarking.md) · [Build System (871)](build-system.md) · [Cli (521)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (91)](community-reference.md) · [Compiler (173)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
+[Concurrency Parallelism (75)](concurrency-parallelism.md) · [Configuration (107)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (160)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (791)](database-datastore.md) · [Datetime (167)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (93)](documentation.md)
+[Embedded Hardware (52)](embedded-hardware.md) · [Ffi Bindings (400)](ffi-bindings.md) · [Filesystem Os (1300)](filesystem-os.md) · [Formatter (578)](formatter.md)
+[Framework (51)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1257)](ide-editor-integration.md)
+[Image Audio Dsp (314)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (240)](interpreter-runtime.md) · [Jit Vm (58)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1260)](language-specification.md) · **[Library (5056)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (464)](logging-observability.md) · [Machine Learning (620)](machine-learning.md)
+[Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (946)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (402)](package-manager.md) · [Parser Lexer Ast (962)](parser-lexer-ast.md) · [Precommit Ci Quality (269)](precommit-ci-quality.md)
+[Profiler (78)](profiler.md) · [Project Scaffolding (125)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Security Sast (325)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (465)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (511)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (293)](type-checker.md)
+[Undefined Behavior Analyzer (1457)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (430)](visualization-gui.md) · [Web Framework (443)](web-framework.md)
 
 ## C99
 
@@ -1693,7 +1693,7 @@ Records: `5011`
 | libsecp256k1-gen-ecmult | 0.3.0 | 2021-09-17T11:18:52.039743Z | [open](../records/rust-libsecp256k1-gen-ecmult-0378143c.md) |
 | libsecp256k1-gen-genmult | 0.3.0 | 2021-09-17T11:18:59.238452Z | [open](../records/rust-libsecp256k1-gen-genmult-91d8134f.md) |
 | litemap | 0.8.3 | 2026-08-13T23:27:57.524692Z | [open](../records/rust-litemap-e68ab834.md) |
-| lru | 0.18.3 | 2026-08-28T00:12:31.209150Z | [open](../records/rust-lru-d37fa8b1.md) |
+| lru | 0.18.4 | 2026-09-03T00:26:06.507992Z | [open](../records/rust-lru-d37fa8b1.md) |
 | lz4-sys | 1.11.1+lz4-1.10.0 | 2024-09-26T11:51:34.999693Z | [open](../records/rust-lz4-sys-30751ef4.md) |
 | lzma-rs | 0.3.0 | 2023-01-04T00:34:47.136594Z | [open](../records/rust-lzma-rs-fcb4a778.md) |
 | match_cfg | 0.1.0 | 2019-04-02T10:50:59.802728Z | [open](../records/rust-match-cfg-dfe56317.md) |
@@ -3032,6 +3032,7 @@ Records: `5011`
 | array | 0.5.8.0 | 2024-09-08T07:13:10Z | [open](../records/haskell-array-a882ed0a.md) |
 | asif | 6.0.4 | 2020-01-17T12:51:20Z | [open](../records/haskell-asif-6a4b3701.md) |
 | asn1-data | 0.7.2 | 2015-09-07T09:57:38Z | [open](../records/haskell-asn1-data-530c2108.md) |
+| asn1-encoding | 0.9.6 | 2019-09-29T19:07:14Z | [open](../records/haskell-asn1-encoding-bfa5eab2.md) |
 | atomic-primops | 0.8.8 | 2024-06-20T20:33:01Z | [open](../records/haskell-atomic-primops-38c4ce12.md) |
 | attoparsec | 0.14.4 | 2022-01-10T18:41:09Z | [open](../records/haskell-attoparsec-2c743766.md) |
 | aur | 7.0.7 | 2021-10-21T21:44:16Z | [open](../records/haskell-aur-c80060a8.md) |
@@ -3124,6 +3125,7 @@ Records: `5011`
 | cndict | 0.10.0 | 2017-12-21T15:28:53Z | [open](../records/haskell-cndict-a69b900e.md) |
 | cobot-io | 0.1.5.7 | 2026-02-02T13:39:09Z | [open](../records/haskell-cobot-io-65c21faa.md) |
 | code-conjure | 0.7.8 | 2025-08-11T11:41:45Z | [open](../records/haskell-code-conjure-1c3de465.md) |
+| codex | 0.6.0.0 | 2020-03-14T03:58:32Z | [open](../records/haskell-codex-585e3172.md) |
 | Color | 0.4.1 | 2025-10-20T20:47:01Z | [open](../records/haskell-color-06c6a413.md) |
 | colour | 2.3.7 | 2026-03-19T00:44:13Z | [open](../records/haskell-colour-0544590f.md) |
 | combinat | 0.2.10.1 | 2023-10-13T17:04:11Z | [open](../records/haskell-combinat-8e1ef746.md) |
@@ -3216,6 +3218,7 @@ Records: `5011`
 | eventstore | 1.4.3 | 2023-07-29T02:02:55Z | [open](../records/haskell-eventstore-efc2a066.md) |
 | exact-pi | 0.5.1.0 | 2026-06-04T23:15:22Z | [open](../records/haskell-exact-pi-231cfafe.md) |
 | exceptions | 0.10.12 | 2026-01-10T20:26:13Z | [open](../records/haskell-exceptions-50aed5a3.md) |
+| exon | 1.7.3.0 | 2026-05-03T22:13:28Z | [open](../records/haskell-exon-f8f16ac9.md) |
 | extensible-effects | 5.0.0.1 | 2019-01-03T02:29:58Z | [open](../records/haskell-extensible-effects-1bd162d4.md) |
 | extensible-effects-concurrent | 0.25.0 | 2020-12-16T17:13:06Z | [open](../records/haskell-extensible-effects-concurrent-35ac367f.md) |
 | extra | 1.8.1 | 2025-11-23T14:32:04Z | [open](../records/haskell-extra-8ec876b8.md) |
@@ -3304,9 +3307,11 @@ Records: `5011`
 | glirc | 2.41 | 2024-08-13T18:25:52Z | [open](../records/haskell-glirc-1d89d9d6.md) |
 | gll | 0.4.1.2 | 2026-03-19T20:25:22Z | [open](../records/haskell-gll-7f0510fb.md) |
 | Glob | 0.10.2 | 2021-11-10T11:14:16Z | [open](../records/haskell-glob-e0163457.md) |
+| GLURaw | 2.0.0.5 | 2021-11-14T16:09:11Z | [open](../records/haskell-gluraw-11d21b56.md) |
 | GLUT | 2.7.0.16 | 2021-01-18T07:49:45Z | [open](../records/haskell-glut-0c554dc1.md) |
 | gnss-converters | 0.3.52 | 2018-07-10T22:02:39Z | [open](../records/haskell-gnss-converters-3cb46789.md) |
 | gps | 1.2 | 2015-02-08T18:24:09Z | [open](../records/haskell-gps-53eaa99a.md) |
+| granite | 0.7.4.0 | 2026-07-01T23:51:27Z | [open](../records/haskell-granite-95e22cfe.md) |
 | grapesy | 1.2.0 | 2026-09-02T12:23:06Z | [open](../records/haskell-grapesy-9ecbf2e2.md) |
 | graph-rewriting | 0.8.0 | 2023-12-04T17:26:56Z | [open](../records/haskell-graph-rewriting-e6b6973a.md) |
 | graphviz | 2999.20.2.1 | 2025-02-16T11:07:35Z | [open](../records/haskell-graphviz-7c88476b.md) |
@@ -3444,6 +3449,7 @@ Records: `5011`
 | kan-extensions | 5.2.8 | 2026-01-10T21:05:18Z | [open](../records/haskell-kan-extensions-d13f3946.md) |
 | katip | 0.8.8.4 | 2025-09-03T02:05:46Z | [open](../records/haskell-katip-e4f17ebf.md) |
 | keid-render-basic | 0.1.10.0 | 2025-11-06T23:22:46Z | [open](../records/haskell-keid-render-basic-d12c2edc.md) |
+| keiro-core | 0.15.0.0 | 2026-08-31T06:08:15Z | [open](../records/haskell-keiro-core-42128f63.md) |
 | kempe | 0.2.0.14 | 2024-05-29T03:54:25Z | [open](../records/haskell-kempe-4671cf2a.md) |
 | keter | 2.3.6 | 2026-05-26T19:31:06Z | [open](../records/haskell-keter-44b12738.md) |
 | keys | 3.12.5 | 2026-01-10T21:06:36Z | [open](../records/haskell-keys-ca030f7a.md) |
@@ -3494,6 +3500,7 @@ Records: `5011`
 | microlens-platform | 0.4.4.2 | 2025-09-22T02:11:04Z | [open](../records/haskell-microlens-platform-d84a762f.md) |
 | microlens-th | 0.4.3.18 | 2025-09-22T02:11:06Z | [open](../records/haskell-microlens-th-dd935abc.md) |
 | midi | 0.2.2.6 | 2026-06-03T10:52:01Z | [open](../records/haskell-midi-0107fcf7.md) |
+| minio-hs | 1.7.0 | 2023-05-22T20:19:31Z | [open](../records/haskell-minio-hs-ee34dd94.md) |
 | miso | 1.13.0.0 | 2026-08-30T22:19:35Z | [open](../records/haskell-miso-6e93c710.md) |
 | MissingH | 1.6.0.3 | 2026-01-07T08:02:37Z | [open](../records/haskell-missingh-e7599c81.md) |
 | mmark | 0.1.0.0 | 2026-08-16T19:09:09Z | [open](../records/haskell-mmark-781e14c5.md) |
@@ -3547,6 +3554,7 @@ Records: `5011`
 | pantry | 0.11.4 | 2026-07-07T13:34:13Z | [open](../records/haskell-pantry-e52f0809.md) |
 | parconc-examples | 0.4.8 | 2021-04-02T11:31:32Z | [open](../records/haskell-parconc-examples-cce2e419.md) |
 | parsec | 3.1.18.0 | 2025-01-05T00:08:05Z | [open](../records/haskell-parsec-f2ad9855.md) |
+| password | 3.1.1.0 | 2026-05-03T13:15:24Z | [open](../records/haskell-password-cf3b82cc.md) |
 | patat | 0.15.2.0 | 2025-08-06T18:33:40Z | [open](../records/haskell-patat-6113d654.md) |
 | peg-matching | 0.1.0.0 | 2026-09-01T20:20:18Z | [open](../records/haskell-peg-matching-8b470238.md) |
 | persistent | 2.18.1.0 | 2026-01-14T23:05:56Z | [open](../records/haskell-persistent-9b1724c4.md) |
@@ -3643,6 +3651,7 @@ Records: `5011`
 | safecopy | 0.10.4.3 | 2025-08-27T19:05:11Z | [open](../records/haskell-safecopy-074678af.md) |
 | salak | 0.3.6 | 2020-03-20T09:41:38Z | [open](../records/haskell-salak-4d35e70f.md) |
 | salve | 2.0.0.10 | 2026-01-14T15:23:41Z | [open](../records/haskell-salve-4d57c11b.md) |
+| sandwich | 0.3.1.0 | 2026-06-06T08:39:43Z | [open](../records/haskell-sandwich-1638a1b6.md) |
 | sbp | 6.5.1 | 2026-07-08T16:53:34Z | [open](../records/haskell-sbp-0ffb4ccc.md) |
 | sbv | 14.7 | 2026-08-31T19:54:03Z | [open](../records/haskell-sbv-937d1d8f.md) |
 | scc | 0.8.4.1 | 2026-01-19T00:43:19Z | [open](../records/haskell-scc-f184b20e.md) |
@@ -3673,6 +3682,7 @@ Records: `5011`
 | shakespeare-css | 1.1.0 | 2014-03-30T06:14:59Z | [open](../records/haskell-shakespeare-css-cd1c6632.md) |
 | shakespeare-js | 1.3.0 | 2014-03-30T06:15:06Z | [open](../records/haskell-shakespeare-js-b7253ad7.md) |
 | silently | 1.2.5.4 | 2024-11-23T09:52:01Z | [open](../records/haskell-silently-82c4ae64.md) |
+| simple-sendfile | 0.2.32 | 2023-06-19T00:52:59Z | [open](../records/haskell-simple-sendfile-d65ae27d.md) |
 | simple-smt | 1.0.1 | 2026-08-31T22:28:21Z | [open](../records/haskell-simple-smt-901983e2.md) |
 | singletons | 3.0.4 | 2024-12-11T12:49:55Z | [open](../records/haskell-singletons-0cb75e04.md) |
 | skylighting | 0.14.7 | 2025-09-06T08:19:27Z | [open](../records/haskell-skylighting-ee145f6d.md) |
@@ -3688,7 +3698,8 @@ Records: `5011`
 | split | 0.2.5.1 | 2026-08-28T19:55:56Z | [open](../records/haskell-split-849a490e.md) |
 | splitmix | 0.1.3.2 | 2026-01-04T21:10:53Z | [open](../records/haskell-splitmix-c850ca5b.md) |
 | Spock | 0.14.0.0 | 2020-12-09T06:57:55Z | [open](../records/haskell-spock-fded3533.md) |
-| srtree | 3.0.0.2 | 2026-08-19T16:57:11Z | [open](../records/haskell-srtree-02456200.md) |
+| srtree | 3.0.0.3 | 2026-09-02T22:35:31Z | [open](../records/haskell-srtree-02456200.md) |
+| srtree-db | 0.1.2.0 | 2026-09-02T22:43:38Z | [open](../records/haskell-srtree-db-c70023f5.md) |
 | stack | 3.11.1 | 2026-06-13T18:40:02Z | [open](../records/haskell-stack-e51612f3.md) |
 | stackage-curator | 0.16.0.0 | 2018-03-11T15:02:32Z | [open](../records/haskell-stackage-curator-50f3d7ab.md) |
 | stackctl | 1.7.3.7 | 2025-10-17T20:25:59Z | [open](../records/haskell-stackctl-b106262f.md) |
@@ -3727,6 +3738,7 @@ Records: `5011`
 | tagged | 0.8.10 | 2025-12-08T00:55:42Z | [open](../records/haskell-tagged-7a3ae623.md) |
 | tagsoup | 0.14.8 | 2019-05-01T19:45:41Z | [open](../records/haskell-tagsoup-2c416a3f.md) |
 | tar | 0.7.2.0 | 2026-07-15T23:37:24Z | [open](../records/haskell-tar-bd80c421.md) |
+| TCache | 0.13.3 | 2023-02-12T19:41:50Z | [open](../records/haskell-tcache-fc361faa.md) |
 | tellbot | 0.6.1 | 2016-05-25T11:54:48Z | [open](../records/haskell-tellbot-faea47ed.md) |
 | temporary | 1.3 | 2018-04-10T14:21:43Z | [open](../records/haskell-temporary-2fe686b0.md) |
 | terminfo | 0.4.1.7 | 2025-01-28T18:36:54Z | [open](../records/haskell-terminfo-eb3f577f.md) |
@@ -3752,6 +3764,7 @@ Records: `5011`
 | transient-universe | 0.6.0.1 | 2020-07-29T08:33:29Z | [open](../records/haskell-transient-universe-a8372c5c.md) |
 | tricorder-mcp | 0.1.1.0 | 2026-09-01T08:57:38Z | [open](../records/haskell-tricorder-mcp-95664038.md) |
 | trifecta | 2.1.4 | 2024-02-07T15:52:11Z | [open](../records/haskell-trifecta-b5f6d0a8.md) |
+| ttc | 1.5.0.1 | 2026-01-10T10:29:39Z | [open](../records/haskell-ttc-b82444ef.md) |
 | turtle | 1.6.2 | 2023-10-16T02:06:54Z | [open](../records/haskell-turtle-b1c7d396.md) |
 | tweet-hs | 1.0.2.3 | 2021-07-25T18:13:08Z | [open](../records/haskell-tweet-hs-4c6e0ffb.md) |
 | type-unary | 0.3.2 | 2018-04-21T02:12:27Z | [open](../records/haskell-type-unary-0d99f93a.md) |
@@ -3761,6 +3774,7 @@ Records: `5011`
 | tzdata | 0.2.20260708.0 | 2026-07-10T02:09:17Z | [open](../records/haskell-tzdata-f696ebce.md) |
 | uhc-light | 1.1.10.0 | 2018-01-01T22:30:42Z | [open](../records/haskell-uhc-light-ec0e48ce.md) |
 | uhc-util | 0.1.7.0 | 2017-12-28T20:44:24Z | [open](../records/haskell-uhc-util-3bab919a.md) |
+| unbound-generics | 0.4.5 | 2026-07-08T00:54:56Z | [open](../records/haskell-unbound-generics-9a43715d.md) |
 | unfoldable | 1.1 | 2026-01-06T12:00:32Z | [open](../records/haskell-unfoldable-7f5d5f9c.md) |
 | unicode-collation | 0.1.3.7 | 2026-06-06T10:48:22Z | [open](../records/haskell-unicode-collation-d6d5d479.md) |
 | uniplate | 1.6.13 | 2020-11-07T19:53:43Z | [open](../records/haskell-uniplate-190820f4.md) |
@@ -3794,6 +3808,7 @@ Records: `5011`
 | waterfall-cad | 0.6.3.2 | 2026-08-21T20:50:46Z | [open](../records/haskell-waterfall-cad-bfb4df27.md) |
 | waterfall-cad-examples | 0.6.3.2 | 2026-08-21T20:50:47Z | [open](../records/haskell-waterfall-cad-examples-995cd3ad.md) |
 | wavefront | 0.7.2.0 | 2026-06-14T13:44:03Z | [open](../records/haskell-wavefront-daf3f35e.md) |
+| web-encodings | 0.3.0.9 | 2012-01-18T17:26:24Z | [open](../records/haskell-web-encodings-015c513d.md) |
 | web-rep | 0.14.1.0 | 2026-03-30T05:16:33Z | [open](../records/haskell-web-rep-45845af6.md) |
 | web-routes | 0.27.16 | 2024-06-05T17:13:01Z | [open](../records/haskell-web-routes-5f0f5a1b.md) |
 | web-routes-th | 0.22.8.3 | 2025-09-05T15:48:18Z | [open](../records/haskell-web-routes-th-c58d3520.md) |
@@ -3838,6 +3853,7 @@ Records: `5011`
 | yesod-persistent | 1.6.0.9 | 2026-06-16T20:33:49Z | [open](../records/haskell-yesod-persistent-425557b9.md) |
 | yesod-platform | 1.2.13.3 | 2014-08-25T13:53:51Z | [open](../records/haskell-yesod-platform-cc0166b2.md) |
 | yesod-static | 1.6.1.3 | 2026-06-16T20:33:50Z | [open](../records/haskell-yesod-static-f6ffdea6.md) |
+| yi | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yi-3b78b64a.md) |
 | Z-Data | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-data-ad2a6ebb.md) |
 | Z-IO | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-io-e37841a7.md) |
 | zeolite-lang | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeolite-lang-121149cb.md) |
@@ -3974,7 +3990,7 @@ Records: `5011`
 | google_mobile_ads | 9.1.0 | 2026-08-11T21:00:29.493224Z | [open](../records/dart-google-mobile-ads-7cf9a186.md) |
 | google_sign_in | 7.2.0 | 2025-09-17T18:37:54.811927Z | [open](../records/dart-google-sign-in-d3b83734.md) |
 | graphs | 2.3.2 | 2024-07-18T17:05:54.823274Z | [open](../records/dart-graphs-5b0e5be1.md) |
-| grinder | 0.10.0 | 2026-07-01T21:26:49.695381Z | [open](../records/dart-grinder-82627f10.md) |
+| grinder | 0.10.1 | 2026-09-03T00:13:15.873220Z | [open](../records/dart-grinder-82627f10.md) |
 | grouped_list | 6.0.0 | 2024-06-27T14:35:22.518753Z | [open](../records/dart-grouped-list-568e11af.md) |
 | hotreloader | 4.4.0 | 2026-04-04T22:53:18.913943Z | [open](../records/dart-hotreloader-3a9c783b.md) |
 | hydrated_bloc | 11.0.0 | 2026-03-22T20:10:52.627950Z | [open](../records/dart-hydrated-bloc-0f403041.md) |
@@ -4066,7 +4082,7 @@ Records: `5011`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-02T23:10:38Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-03T00:30:37Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4080,7 +4096,7 @@ Records: `5011`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-02T23:12:56Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-02T23:47:51Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -4242,18 +4258,22 @@ Records: `5011`
 | aloisdeniel/flutter_geocoder | partial | 2024-03-07T02:45:30Z | [open](../records/maps-aloisdeniel-flutter-geocoder-eddbba0f.md) |
 | atlasr-org/atlasr | partial | 2018-12-05T08:36:40Z | [open](../records/maps-atlasr-org-atlasr-8221ab2a.md) |
 | Azure-Samples/AzureMapsCodeSamples | 252537 | 2020-12-16T00:55:05Z | [open](../records/maps-azure-samples-azuremapscodesamples-5d2f6f06.md) |
+| b-g/tilehut | partial | 2023-03-01T17:12:34Z | [open](../records/maps-b-g-tilehut-3bfb5ef3.md) |
 | benjamintd/benmaps.fr | partial | 2023-10-19T06:42:40Z | [open](../records/maps-benjamintd-benmaps-fr-83f6558a.md) |
 | beyonk/svelte-mapbox | partial | 2026-08-01T01:32:40Z | [open](../records/maps-beyonk-svelte-mapbox-83bbf675.md) |
 | bilawalsidhu/gods-eye-view | partial | 2026-09-01T19:42:55Z | [open](../records/maps-bilawalsidhu-gods-eye-view-28a2a7af.md) |
 | bitlap/geocoding | partial | 2025-07-23T16:20:19Z | [open](../records/maps-bitlap-geocoding-44bdf0ae.md) |
 | bizz84/nested-navigation-demo-flutter | partial | 2023-01-11T17:32:58Z | [open](../records/maps-bizz84-nested-navigation-demo-flutter-a397d085.md) |
+| bmwcarit/barefoot | partial | 2023-04-14T17:11:38Z | [open](../records/maps-bmwcarit-barefoot-66146078.md) |
 | CesiumGS/cesium | partial | 2026-09-02T19:03:40Z | [open](../records/maps-cesiumgs-cesium-03600c9a.md) |
 | codezero-be/laravel-localized-routes | partial | 2024-03-17T22:44:54Z | [open](../records/maps-codezero-be-laravel-localized-routes-62cd131a.md) |
 | danielemoraschi/maplace.js | partial | 2020-05-25T22:54:13Z | [open](../records/maps-danielemoraschi-maplace-js-5adb914c.md) |
+| der-stefan/OpenTopoMap | partial | 2026-01-29T22:24:26Z | [open](../records/maps-der-stefan-opentopomap-d1828225.md) |
 | devxoul/URLNavigator | partial | 2024-05-24T16:28:03Z | [open](../records/maps-devxoul-urlnavigator-5197f5f8.md) |
 | doganoo/PHPAlgorithms | partial | 2023-10-24T09:07:15Z | [open](../records/maps-doganoo-phpalgorithms-8d4e8cc7.md) |
 | eddiesigner/sketch-map-generator | partial | 2023-03-05T01:12:19Z | [open](../records/maps-eddiesigner-sketch-map-generator-09a0b543.md) |
 | florent37/RxGps | partial | 2018-12-05T16:36:01Z | [open](../records/maps-florent37-rxgps-5cb02be4.md) |
+| FoggedLens/deflock | partial | 2026-08-23T03:46:46Z | [open](../records/maps-foggedlens-deflock-8c65a555.md) |
 | fridays/next-routes | partial | 2024-08-06T05:50:49Z | [open](../records/maps-fridays-next-routes-7133c5a3.md) |
 | GenericMappingTools/pygmt | partial | 2026-09-01T10:00:49Z | [open](../records/maps-genericmappingtools-pygmt-d99a13fe.md) |
 | geolonia/normalize-japanese-addresses | partial | 2026-08-24T14:12:45Z | [open](../records/maps-geolonia-normalize-japanese-addresses-4c5a4168.md) |
@@ -4264,16 +4284,21 @@ Records: `5011`
 | gnu4cn/ccna60d | partial | 2026-07-27T09:31:30Z | [open](../records/maps-gnu4cn-ccna60d-e5501048.md) |
 | google-map-react/google-map-react | partial | 2026-02-17T16:42:57Z | [open](../records/maps-google-map-react-google-map-react-1cd0afd2.md) |
 | google/earthenterprise | partial | 2023-01-04T20:30:53Z | [open](../records/maps-google-earthenterprise-ed7bdac7.md) |
+| hyperknot/openfreemap-styles | partial | 2026-05-15T01:04:11Z | [open](../records/maps-hyperknot-openfreemap-styles-7cf55b52.md) |
 | jenetics/jpx | partial | 2026-02-22T20:21:22Z | [open](../records/maps-jenetics-jpx-9e2c8a53.md) |
 | jessecambon/tidygeocoder | partial | 2026-02-18T15:18:12Z | [open](../records/maps-jessecambon-tidygeocoder-a662f171.md) |
 | jingjing2222/react-native-nitro-geolocation | partial | 2026-08-31T02:26:01Z | [open](../records/maps-jingjing2222-react-native-nitro-geolocation-88c61895.md) |
 | juxt/bidi | partial | 2023-03-15T10:46:57Z | [open](../records/maps-juxt-bidi-4ad5a334.md) |
 | karam-mustafa/laravel-geographical-calculator | partial | 2023-06-03T12:13:40Z | [open](../records/maps-karam-mustafa-laravel-geographical-calculator-a47febb3.md) |
 | komoot/photon | partial | 2026-08-18T15:45:42Z | [open](../records/maps-komoot-photon-d1651635.md) |
+| luka1199/geo-heatmap | partial | 2024-08-17T16:08:23Z | [open](../records/maps-luka1199-geo-heatmap-7b04caf6.md) |
 | lukepighetti/fluro | partial | 2023-03-22T17:54:12Z | [open](../records/maps-lukepighetti-fluro-c809970d.md) |
 | luxiaoxun/MapDownloader | unknown | github_search_does_not_include_release_date | [open](../records/maps-luxiaoxun-mapdownloader-0e853bb6.md) |
 | mapbox/mapbox-gl-js | partial | 2026-09-01T14:40:34Z | [open](../records/maps-mapbox-mapbox-gl-js-a55c74cd.md) |
+| mapbox/mapbox-gl-native-android | partial | 2023-08-21T13:46:32Z | [open](../records/maps-mapbox-mapbox-gl-native-android-470f3419.md) |
+| mapbox/vector-tile-base | partial | 2026-06-29T15:24:36Z | [open](../records/maps-mapbox-vector-tile-base-57a453db.md) |
 | maplibre/maplibre-gl-geocoder | partial | 2026-08-31T16:43:44Z | [open](../records/maps-maplibre-maplibre-gl-geocoder-938c4f88.md) |
+| mapsforge/mapsforge | partial | 2026-08-23T07:11:05Z | [open](../records/maps-mapsforge-mapsforge-764ffa31.md) |
 | maptalks/maptalks.js | partial | 2026-08-25T02:36:16Z | [open](../records/maps-maptalks-maptalks-js-2641e64a.md) |
 | maptalks/maptalks.three | partial | 2026-06-02T03:01:03Z | [open](../records/maps-maptalks-maptalks-three-7e000fe0.md) |
 | marsgis/mars3d | partial | 2026-06-03T12:02:08Z | [open](../records/maps-marsgis-mars3d-3412d0d0.md) |
@@ -4282,31 +4307,41 @@ Records: `5011`
 | motis-project/motis | partial | 2026-08-31T20:10:35Z | [open](../records/maps-motis-project-motis-8ff172f1.md) |
 | mousebird-consulting-inc/WhirlyGlobe | partial | 2026-07-31T00:23:58Z | [open](../records/maps-mousebird-consulting-inc-whirlyglobe-3130b66b.md) |
 | nuxt-modules/i18n | partial | 2026-09-02T04:27:00Z | [open](../records/maps-nuxt-modules-i18n-79eea90d.md) |
+| olutter/map | partial | 2026-08-16T14:48:12Z | [open](../records/maps-olutter-map-b3100e59.md) |
 | opengisch/QField | partial | 2026-09-02T16:20:32Z | [open](../records/maps-opengisch-qfield-f04d9b83.md) |
 | openlayers/openlayers | partial | 2026-08-29T10:33:38Z | [open](../records/maps-openlayers-openlayers-6d483e33.md) |
 | openmaptiles/openmaptiles | partial | 2026-07-29T12:19:41Z | [open](../records/maps-openmaptiles-openmaptiles-8add1ab5.md) |
+| openstreetmap/merkaartor | partial | 2026-06-19T20:27:06Z | [open](../records/maps-openstreetmap-merkaartor-0547b0b6.md) |
 | paulmach/orb | partial | 2026-03-30T15:51:22Z | [open](../records/maps-paulmach-orb-8e561523.md) |
 | peering-manager/peering-manager | partial | 2026-09-02T06:59:36Z | [open](../records/maps-peering-manager-peering-manager-c6df99fc.md) |
+| pnorman/tilekiln | partial | 2026-04-23T22:21:17Z | [open](../records/maps-pnorman-tilekiln-e42fb8c0.md) |
+| protomaps/basemaps | partial | 2026-08-20T17:33:05Z | [open](../records/maps-protomaps-basemaps-eb8244c9.md) |
 | r-spatial/mapview | partial | 2025-09-05T07:54:41Z | [open](../records/maps-r-spatial-mapview-10b63596.md) |
 | r-tmap/tmap | partial | 2026-08-26T22:27:44Z | [open](../records/maps-r-tmap-tmap-71b21a50.md) |
 | reinterpretcat/utymap | partial | 2019-05-16T10:45:13Z | [open](../records/maps-reinterpretcat-utymap-26781f3b.md) |
 | RxChi1d/immich-geodata-zh-tw | partial | 2026-09-02T02:30:07Z | [open](../records/maps-rxchi1d-immich-geodata-zh-tw-74f77fc7.md) |
+| sakitam-fdd/HMap | partial | 2018-11-04T14:06:57Z | [open](../records/maps-sakitam-fdd-hmap-f0c9df14.md) |
 | sandstrom/country-bounding-boxes | partial | 2020-02-06T08:52:09Z | [open](../records/maps-sandstrom-country-bounding-boxes-21886a05.md) |
 | SharpMap/SharpMap | partial | 2025-01-06T15:20:53Z | [open](../records/maps-sharpmap-sharpmap-0d7d79eb.md) |
 | sildur/offline_geocoder | partial | 2024-05-16T22:10:21Z | [open](../records/maps-sildur-offline-geocoder-f8d97b5b.md) |
 | StrandedKitty/streets-gl | partial | 2025-08-21T19:43:43Z | [open](../records/maps-strandedkitty-streets-gl-1f0aad99.md) |
 | sxguojf/three-tile | unknown | github_search_does_not_include_release_date | [open](../records/maps-sxguojf-three-tile-07dcab70.md) |
 | t-sagara/jageocoder | partial | 2026-04-21T08:07:10Z | [open](../records/maps-t-sagara-jageocoder-063c720a.md) |
+| tangrams/tangram-es | partial | 2024-01-08T08:50:14Z | [open](../records/maps-tangrams-tangram-es-20d7a957.md) |
 | tatethurston/nextjs-routes | partial | 2025-03-17T01:11:20Z | [open](../records/maps-tatethurston-nextjs-routes-af0bb3ff.md) |
+| thomersch/grandine | partial | 2022-04-04T14:13:47Z | [open](../records/maps-thomersch-grandine-2fae5319.md) |
+| tilemill-project/tilemill | partial | 2026-08-30T17:25:08Z | [open](../records/maps-tilemill-project-tilemill-7342c30f.md) |
 | Toblerity/Fiona | partial | 2025-02-20T23:53:44Z | [open](../records/maps-toblerity-fiona-9a13b596.md) |
 | tomayac/local-reverse-geocoder | partial | 2026-06-14T16:06:15Z | [open](../records/maps-tomayac-local-reverse-geocoder-63b2ed9a.md) |
 | TradeMe/MapMe | partial | 2022-03-30T20:42:56Z | [open](../records/maps-trademe-mapme-ac2b1874.md) |
 | tschoffelen/react-native-map-link | partial | 2026-08-11T12:02:57Z | [open](../records/maps-tschoffelen-react-native-map-link-bdb13e21.md) |
 | tudelft3d/3dfier | partial | 2026-05-06T15:26:57Z | [open](../records/maps-tudelft3d-3dfier-6391024c.md) |
+| umap-project/umap | partial | 2026-09-01T15:24:52Z | [open](../records/maps-umap-project-umap-78ce8545.md) |
 | v2fly/geoip | partial | 2026-08-14T02:25:34Z | [open](../records/maps-v2fly-geoip-426d00c9.md) |
 | wellyshen/use-places-autocomplete | partial | 2025-04-02T14:39:17Z | [open](../records/maps-wellyshen-use-places-autocomplete-1234eb65.md) |
 | yunwei37/ZJU-CS-GIS-ClassNotes | partial | 2023-06-06T14:40:14Z | [open](../records/maps-yunwei37-zju-cs-gis-classnotes-d5fd26cb.md) |
 | zouyaoji/vue-cesium | partial | 2026-07-30T16:59:10Z | [open](../records/maps-zouyaoji-vue-cesium-751f2ada.md) |
+| Zverik/every_door | partial | 2026-04-19T19:33:31Z | [open](../records/maps-zverik-every-door-fbf34c73.md) |
 
 ## Space Engines
 
@@ -4330,7 +4365,7 @@ Records: `5011`
 | podgorskiy/KeplerOrbits | partial | 2023-04-02T23:28:28Z | [open](../records/space-engines-podgorskiy-keplerorbits-bce5842d.md) |
 | RocketPy-Team/RocketPy | partial | 2026-08-24T20:24:28Z | [open](../records/space-engines-rocketpy-team-rocketpy-dc6ba7fb.md) |
 | usuaero/PyProp | partial | 2021-06-21T16:46:34Z | [open](../records/space-engines-usuaero-pyprop-cf41d1df.md) |
-| wedesoft/sfsim | partial | 2026-09-02T18:34:13Z | [open](../records/space-engines-wedesoft-sfsim-99e126c8.md) |
+| wedesoft/sfsim | partial | 2026-09-02T22:38:04Z | [open](../records/space-engines-wedesoft-sfsim-99e126c8.md) |
 
 ## Space Shuttles
 
@@ -4399,7 +4434,7 @@ Records: `5011`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AcademySoftwareFoundation/OpenCue | partial | 2026-09-02T01:33:09Z | [open](../records/effects-academysoftwarefoundation-opencue-4ae373a6.md) |
+| AcademySoftwareFoundation/OpenCue | partial | 2026-09-02T23:36:08Z | [open](../records/effects-academysoftwarefoundation-opencue-4ae373a6.md) |
 | akof1314/UnityParticleSystemPreview | v1.3 | 2025-02-21T13:45:24Z | [open](../records/effects-akof1314-unityparticlesystempreview-89de2d88.md) |
 | alexadam/glitch-studio | partial | 2020-07-04T12:35:23Z | [open](../records/effects-alexadam-glitch-studio-242af220.md) |
 | alexnikop/VFEZ-godot | partial | 2025-03-22T10:05:57Z | [open](../records/effects-alexnikop-vfez-godot-37aa177c.md) |
@@ -4854,7 +4889,7 @@ Records: `5011`
 | Stephane-D/SGDK | partial | 2026-08-17T08:47:30Z | [open](../records/assembly-stephane-d-sgdk-bad539e3.md) |
 | takenobu-hs/cpu-assembly-examples | partial | 2024-05-19T06:55:01Z | [open](../records/assembly-takenobu-hs-cpu-assembly-examples-b5867112.md) |
 | vonsim/vonsim | partial | 2026-05-29T02:08:00Z | [open](../records/assembly-vonsim-vonsim-6a8ef78f.md) |
-| vvaltchev/tilck | partial | 2026-09-02T18:03:19Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
+| vvaltchev/tilck | partial | 2026-09-03T00:24:51Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
 | yds12/x64-roadmap | partial | 2020-07-16T15:54:20Z | [open](../records/assembly-yds12-x64-roadmap-3b9663e2.md) |
 | yrp604/rappel | partial | 2024-03-07T04:45:15Z | [open](../records/assembly-yrp604-rappel-4bf787bb.md) |
 
@@ -4872,7 +4907,7 @@ Records: `5011`
 | evoiz/Agentic-Design-Patterns | partial | 2026-07-24T14:23:04Z | [open](../records/pattern-language-evoiz-agentic-design-patterns-01a7bf2b.md) |
 | fadeevab/design-patterns-rust | partial | 2025-01-01T17:16:57Z | [open](../records/pattern-language-fadeevab-design-patterns-rust-d33499f2.md) |
 | fbeline/design-patterns-JS | partial | 2023-02-10T16:43:18Z | [open](../records/pattern-language-fbeline-design-patterns-js-6a6af94b.md) |
-| felangel/bloc | partial | 2026-09-02T01:37:46Z | [open](../records/pattern-language-felangel-bloc-2de5d68d.md) |
+| felangel/bloc | partial | 2026-09-03T00:30:06Z | [open](../records/pattern-language-felangel-bloc-2de5d68d.md) |
 | FengJungle/DesignPattern | partial | 2024-04-17T07:27:17Z | [open](../records/pattern-language-fengjungle-designpattern-555629f0.md) |
 | Habrador/Unity-Programming-Patterns | partial | 2026-04-28T12:37:06Z | [open](../records/pattern-language-habrador-unity-programming-patterns-b7ded15d.md) |
 | iluwatar/java-design-patterns | partial | 2026-08-31T22:43:02Z | [open](../records/pattern-language-iluwatar-java-design-patterns-92e5a814.md) |
@@ -5151,7 +5186,10 @@ Records: `5011`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| abhay-ramesh/pushduck | partial | 2026-09-02T20:00:06Z | [open](../records/databases-abhay-ramesh-pushduck-a045aead.md) |
+| anthonybudd/S4 | partial | 2021-03-03T20:08:07Z | [open](../records/databases-anthonybudd-s4-cbdae55c.md) |
 | apache/drill | partial | 2026-09-01T05:57:00Z | [open](../records/databases-apache-drill-5e3bde8a.md) |
+| awslabs/amazon-s3-find-and-forget | partial | 2026-09-02T23:55:43Z | [open](../records/databases-awslabs-amazon-s3-find-and-forget-6b9f17d6.md) |
 | clojure.jdbc | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-clojure-jdbc-3ab0e552.md) |
 | cravendb | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-cravendb-f38f9ff5.md) |
 | Datomic | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-datomic-4f9c8bd8.md) |
@@ -5159,14 +5197,21 @@ Records: `5011`
 | duckdb/duckdb-odbc | partial | 2026-09-02T06:55:46Z | [open](../records/databases-duckdb-duckdb-odbc-3d201108.md) |
 | ebean-orm/ebean | partial | 2026-08-28T22:43:07Z | [open](../records/databases-ebean-orm-ebean-f16dcb8d.md) |
 | gavlyukovskiy/spring-boot-data-source-decorator | partial | 2026-08-31T21:23:16Z | [open](../records/databases-gavlyukovskiy-spring-boot-data-source-decorator-1e09a225.md) |
+| helyim/helyim | partial | 2026-04-23T17:04:34Z | [open](../records/databases-helyim-helyim-ea9b0c61.md) |
+| IBM/jupyterlab-s3-browser | partial | 2025-09-17T20:40:57Z | [open](../records/databases-ibm-jupyterlab-s3-browser-4091fb01.md) |
+| infinit/infinit | partial | 2016-10-30T20:17:39Z | [open](../records/databases-infinit-infinit-fd4afc0c.md) |
 | jaygajera17/E-commerce-project-springBoot | partial | 2026-05-08T16:55:30Z | [open](../records/databases-jaygajera17-e-commerce-project-springboot-10bf555d.md) |
 | kagkarlsson/db-scheduler | partial | 2026-08-31T12:55:08Z | [open](../records/databases-kagkarlsson-db-scheduler-284f153e.md) |
 | learning-zone/java-basics | partial | 2024-09-29T17:11:07Z | [open](../records/databases-learning-zone-java-basics-52e1d4c9.md) |
+| minio/dsync | partial | 2019-11-12T10:46:21Z | [open](../records/databases-minio-dsync-d5937e8e.md) |
 | pacman82/odbc2parquet | partial | 2026-08-25T16:56:48Z | [open](../records/databases-pacman82-odbc2parquet-98e72b2f.md) |
 | pg\_back | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pg-back-2caa380c.md) |
 | pghoard | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pghoard-00e7248d.md) |
+| scality/Zenko | partial | 2026-09-02T20:50:17Z | [open](../records/databases-scality-zenko-248037a0.md) |
 | spring-projects/spring-data-relational | partial | 2026-09-01T11:41:01Z | [open](../records/databases-spring-projects-spring-data-relational-4dc71488.md) |
+| storj/storj | partial | 2026-09-02T18:07:46Z | [open](../records/databases-storj-storj-1c5528ab.md) |
 | swaldman/c3p0 | partial | 2026-08-27T19:26:42Z | [open](../records/databases-swaldman-c3p0-610c0ed4.md) |
+| treeverse/lakeFS | partial | 2026-08-19T13:41:32Z | [open](../records/databases-treeverse-lakefs-f069dae0.md) |
 | typelevel/doobie | partial | 2026-08-28T03:12:28Z | [open](../records/databases-typelevel-doobie-8033225a.md) |
 | zycgit/hasor | partial | 2022-12-14T20:50:39Z | [open](../records/databases-zycgit-hasor-03670d93.md) |
 
