@@ -14,7 +14,7 @@ Records: `470`
 [Concurrency Parallelism (79)](concurrency-parallelism.md) · [Configuration (115)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (835)](database-datastore.md) · [Datetime (186)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (97)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (405)](ffi-bindings.md) · [Filesystem Os (1386)](filesystem-os.md) · [Formatter (609)](formatter.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (405)](ffi-bindings.md) · [Filesystem Os (1387)](filesystem-os.md) · [Formatter (609)](formatter.md)
 [Framework (54)](framework.md) · [Fuzzer (54)](fuzzer.md) · [Game Engine Game Dev (172)](game-engine-game-dev.md) · [Ide Editor Integration (1326)](ide-editor-integration.md)
 [Image Audio Dsp (359)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (252)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
 [Language Server (27)](language-server.md) · [Language Specification (1377)](language-specification.md) · [Library (5259)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -407,14 +407,14 @@ Records: `470`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AliFlux/MapTilesDownloader | partial | 2026-04-30T11:36:16Z | [open](../records/maps-aliflux-maptilesdownloader-df7301c8.md) |
-| FRRouting/frr | partial | 2026-09-01T15:55:27Z | [open](../records/maps-frrouting-frr-c0d33579.md) |
+| FRRouting/frr | partial | 2026-09-03T21:02:17Z | [open](../records/maps-frrouting-frr-c0d33579.md) |
 | Leaflet | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/maps-leaflet-f474f068.md) |
 | Live-Charts/Live-Charts | partial | 2023-03-22T17:12:44Z | [open](../records/maps-live-charts-live-charts-423cce85.md) |
 | MapLibre GL JS | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/maps-maplibre-gl-js-998d9403.md) |
 | maptalks/maptalks.three | unknown | github_search_does_not_include_release_date | [open](../records/maps-maptalks-maptalks-three-d324811b.md) |
 | njanakiev/openstreetmap-heatmap | partial | 2022-06-04T11:36:41Z | [open](../records/maps-njanakiev-openstreetmap-heatmap-9f1d572b.md) |
 | OpenLayers | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/maps-openlayers-32456c2c.md) |
-| opnsense/core | partial | 2026-09-02T10:02:18Z | [open](../records/maps-opnsense-core-374c7983.md) |
+| opnsense/core | partial | 2026-09-03T18:36:29Z | [open](../records/maps-opnsense-core-374c7983.md) |
 | ProfessionalWiki/Maps | partial | 2026-08-31T13:17:49Z | [open](../records/maps-professionalwiki-maps-5fd035f2.md) |
 | QGIS | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/maps-qgis-23704893.md) |
 | sakitam-fdd/ol3Echarts | unknown | github_search_does_not_include_release_date | [open](../records/maps-sakitam-fdd-ol3echarts-2454ef93.md) |
@@ -461,7 +461,7 @@ Records: `470`
 | NASA WorldWind | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-maps-nasa-worldwind-a55955ab.md) |
 | PyLCARS/PySpiceExamples | partial | 2018-05-08T06:24:55Z | [open](../records/space-maps-pylcars-pyspiceexamples-51fcedc2.md) |
 | PyLCARS/Python-and-SPICE-Book | partial | 2021-01-28T07:51:03Z | [open](../records/space-maps-pylcars-python-and-spice-book-8f806ac6.md) |
-| PySpice-org/PySpice | partial | 2026-09-01T12:09:24Z | [open](../records/space-maps-pyspice-org-pyspice-c1dbd4c9.md) |
+| PySpice-org/PySpice | partial | 2026-09-03T21:17:17Z | [open](../records/space-maps-pyspice-org-pyspice-c1dbd4c9.md) |
 | rafael1193/spicegui | partial | 2016-09-24T10:26:33Z | [open](../records/space-maps-rafael1193-spicegui-948a87ae.md) |
 | rengwu/wayfinder-maps | partial | 2026-07-14T07:14:13Z | [open](../records/space-maps-rengwu-wayfinder-maps-91058c7f.md) |
 | sksalahuddin2828/NASA | partial | 2023-07-14T09:54:38Z | [open](../records/space-maps-sksalahuddin2828-nasa-19f784af.md) |
@@ -517,7 +517,7 @@ Records: `470`
 | pschatzmann/arduino-audio-tools | partial | 2026-09-03T07:17:11Z | [open](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) |
 | QVbDev/quantumVerb | partial | 2018-04-11T17:24:17Z | [open](../records/audio-qvbdev-quantumverb-59e9d065.md) |
 | rsadsb/adsb_deku | partial | 2026-01-04T16:18:33Z | [open](../records/audio-rsadsb-adsb-deku-8c9a3700.md) |
-| unchihugo/FluentFlyout | partial | 2026-09-02T19:52:09Z | [open](../records/audio-unchihugo-fluentflyout-e2e81b2d.md) |
+| unchihugo/FluentFlyout | partial | 2026-09-03T19:40:24Z | [open](../records/audio-unchihugo-fluentflyout-e2e81b2d.md) |
 | zynthian/zynthian-ui | partial | 2026-09-03T14:13:35Z | [open](../records/audio-zynthian-zynthian-ui-308e1a33.md) |
 
 ## Video

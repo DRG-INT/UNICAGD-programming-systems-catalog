@@ -14,7 +14,7 @@ Records: `287`
 [Concurrency Parallelism (79)](../by-category/concurrency-parallelism.md) · [Configuration (115)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (165)](../by-category/cryptography.md) · [Data Science (35)](../by-category/data-science.md) · [Database Datastore (835)](../by-category/database-datastore.md) · [Datetime (186)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (93)](../by-category/dependency-manager.md) · [Documentation (97)](../by-category/documentation.md)
-[Embedded Hardware (54)](../by-category/embedded-hardware.md) · [Ffi Bindings (405)](../by-category/ffi-bindings.md) · [Filesystem Os (1386)](../by-category/filesystem-os.md) · [Formatter (609)](../by-category/formatter.md)
+[Embedded Hardware (54)](../by-category/embedded-hardware.md) · [Ffi Bindings (405)](../by-category/ffi-bindings.md) · [Filesystem Os (1387)](../by-category/filesystem-os.md) · [Formatter (609)](../by-category/formatter.md)
 [Framework (54)](../by-category/framework.md) · [Fuzzer (54)](../by-category/fuzzer.md) · [Game Engine Game Dev (172)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1326)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (359)](../by-category/image-audio-dsp.md) · [Interop Bindings (58)](../by-category/interop-bindings.md) · [Interpreter Runtime (252)](../by-category/interpreter-runtime.md) · [Jit Vm (60)](../by-category/jit-vm.md)
 [Language Server (27)](../by-category/language-server.md) · [Language Specification (1377)](../by-category/language-specification.md) · [Library (5259)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
@@ -277,7 +277,7 @@ Records: `287`
 | [torrvision/crfasrnn](../records/matlab-torrvision-crfasrnn-d754088d.md) | partial | 2019-11-30T13:17:39Z | registry-derived |
 | [toshiakit/MatGPT](../records/matlab-toshiakit-matgpt-c3e7e593.md) | partial | 2026-01-31T03:08:06Z | registry-derived |
 | [trekhleb/machine-learning-octave](../records/matlab-trekhleb-machine-learning-octave-3c6369fc.md) | partial | 2025-11-23T04:28:32Z | registry-derived |
-| [ucdavis/erplab](../records/matlab-ucdavis-erplab-9a4c4944.md) | partial | 2026-09-01T20:54:10Z | registry-derived |
+| [ucdavis/erplab](../records/matlab-ucdavis-erplab-9a4c4944.md) | partial | 2026-09-03T20:48:02Z | registry-derived |
 | [ultralytics/functions-matlab](../records/matlab-ultralytics-functions-matlab-7687d566.md) | partial | 2026-08-28T10:25:16Z | registry-derived |
 | [ultralytics/magellan](../records/matlab-ultralytics-magellan-3c103d74.md) | partial | 2026-08-28T10:37:04Z | registry-derived |
 | [ultralytics/miniTimeCube](../records/matlab-ultralytics-minitimecube-2e723266.md) | partial | 2026-08-28T10:39:24Z | registry-derived |

@@ -14,7 +14,7 @@ Records: `166`
 [Concurrency Parallelism (79)](concurrency-parallelism.md) · [Configuration (115)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (835)](database-datastore.md) · [Datetime (186)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (97)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (405)](ffi-bindings.md) · [Filesystem Os (1386)](filesystem-os.md) · [Formatter (609)](formatter.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (405)](ffi-bindings.md) · [Filesystem Os (1387)](filesystem-os.md) · [Formatter (609)](formatter.md)
 [Framework (54)](framework.md) · [Fuzzer (54)](fuzzer.md) · [Game Engine Game Dev (172)](game-engine-game-dev.md) · [Ide Editor Integration (1326)](ide-editor-integration.md)
 [Image Audio Dsp (359)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (252)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
 [Language Server (27)](language-server.md) · [Language Specification (1377)](language-specification.md) · [Library (5259)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -85,7 +85,7 @@ Records: `166`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | autocannon | 8.0.0 | 2024-10-14T16:59:44.028Z | [open](../records/node-js-javascript-autocannon-b3c78a93.md) |
-| i18next-cli | 1.72.4 | 2026-09-02T13:02:56.774Z | [open](../records/node-js-javascript-i18next-cli-729ce142.md) |
+| i18next-cli | 1.73.0 | 2026-09-03T20:26:05.636Z | [open](../records/node-js-javascript-i18next-cli-729ce142.md) |
 | reassure | 1.6.0 | 2026-07-22T07:55:08.453Z | [open](../records/node-js-javascript-reassure-eba5b3f1.md) |
 
 ## Lua family
@@ -352,7 +352,7 @@ Records: `166`
 | Mithril-mine/libmdbx | partial | 2026-08-31T08:09:38Z | [open](../records/databases-mithril-mine-libmdbx-ec7af8f0.md) |
 | openGemini/openGemini | partial | 2026-09-02T16:16:45Z | [open](../records/databases-opengemini-opengemini-b406e906.md) |
 | qdrant/qdrant | partial | 2026-09-02T10:23:50Z | [open](../records/databases-qdrant-qdrant-461c624b.md) |
-| questdb/questdb | partial | 2026-09-03T20:04:44Z | [open](../records/databases-questdb-questdb-cb22f378.md) |
+| questdb/questdb | partial | 2026-09-03T21:13:15Z | [open](../records/databases-questdb-questdb-cb22f378.md) |
 | quick-perf/quickperf | partial | 2026-05-06T14:46:13Z | [open](../records/databases-quick-perf-quickperf-2926abba.md) |
 | rustfs/rustfs | partial | 2026-09-03T00:32:26Z | [open](../records/databases-rustfs-rustfs-ac58a257.md) |
 | taosdata/TDengine | partial | 2026-09-03T03:13:47Z | [open](../records/databases-taosdata-tdengine-57f74fd3.md) |

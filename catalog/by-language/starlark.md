@@ -14,7 +14,7 @@ Records: `69`
 [Concurrency Parallelism (79)](../by-category/concurrency-parallelism.md) · [Configuration (115)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (165)](../by-category/cryptography.md) · [Data Science (35)](../by-category/data-science.md) · [Database Datastore (835)](../by-category/database-datastore.md) · [Datetime (186)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (93)](../by-category/dependency-manager.md) · [Documentation (97)](../by-category/documentation.md)
-[Embedded Hardware (54)](../by-category/embedded-hardware.md) · [Ffi Bindings (405)](../by-category/ffi-bindings.md) · [Filesystem Os (1386)](../by-category/filesystem-os.md) · [Formatter (609)](../by-category/formatter.md)
+[Embedded Hardware (54)](../by-category/embedded-hardware.md) · [Ffi Bindings (405)](../by-category/ffi-bindings.md) · [Filesystem Os (1387)](../by-category/filesystem-os.md) · [Formatter (609)](../by-category/formatter.md)
 [Framework (54)](../by-category/framework.md) · [Fuzzer (54)](../by-category/fuzzer.md) · [Game Engine Game Dev (172)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1326)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (359)](../by-category/image-audio-dsp.md) · [Interop Bindings (58)](../by-category/interop-bindings.md) · [Interpreter Runtime (252)](../by-category/interpreter-runtime.md) · [Jit Vm (60)](../by-category/jit-vm.md)
 [Language Server (27)](../by-category/language-server.md) · [Language Specification (1377)](../by-category/language-specification.md) · [Library (5259)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
@@ -34,17 +34,17 @@ Records: `69`
 | --- | --- | --- | --- |
 | [adobe/rules_gitops](../records/starlark-adobe-rules-gitops-09140ed0.md) | partial | 2026-08-30T23:32:18Z | registry-derived |
 | [aspect-build/rules_js](../records/starlark-aspect-build-rules-js-fd75b379.md) | partial | 2026-09-03T17:26:03Z | registry-derived |
-| [aspect-build/rules_py](../records/starlark-aspect-build-rules-py-910f4833.md) | partial | 2026-09-03T19:18:10Z | registry-derived |
+| [aspect-build/rules_py](../records/starlark-aspect-build-rules-py-910f4833.md) | partial | 2026-09-03T20:38:54Z | registry-derived |
 | [Bazel](../records/starlark-bazel-189ae4a2.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
-| [bazel-contrib/bazel-lib](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) | partial | 2026-09-03T01:30:16Z | registry-derived |
+| [bazel-contrib/bazel-lib](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) | partial | 2026-09-03T20:58:02Z | registry-derived |
 | [bazel-contrib/rules_cuda](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) | partial | 2026-09-03T19:15:35Z | registry-derived |
 | [bazel-contrib/rules_dotnet](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) | partial | 2026-09-02T11:40:11Z | registry-derived |
 | [bazel-contrib/rules_go](../records/starlark-bazel-contrib-rules-go-4b6a62de.md) | partial | 2026-09-03T16:29:07Z | registry-derived |
 | [bazel-contrib/rules_img](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) | partial | 2026-09-03T20:00:18Z | registry-derived |
-| [bazel-contrib/rules_kotlin](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) | partial | 2026-09-03T00:49:19Z | registry-derived |
+| [bazel-contrib/rules_kotlin](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) | partial | 2026-09-03T20:32:15Z | registry-derived |
 | [bazel-contrib/rules_scala](../records/starlark-bazel-contrib-rules-scala-d92d7813.md) | partial | 2026-09-03T20:15:57Z | registry-derived |
 | [bazelbuild/bazel-skylib](../records/starlark-bazelbuild-bazel-skylib-6abae8f4.md) | partial | 2026-09-01T20:37:47Z | registry-derived |
-| [bazelbuild/rules_cc](../records/starlark-bazelbuild-rules-cc-39327329.md) | partial | 2026-09-03T01:50:14Z | registry-derived |
+| [bazelbuild/rules_cc](../records/starlark-bazelbuild-rules-cc-39327329.md) | partial | 2026-09-03T20:53:10Z | registry-derived |
 | [bazelbuild/rules_closure](../records/starlark-bazelbuild-rules-closure-5adb8287.md) | partial | 2026-04-03T21:28:30Z | registry-derived |
 | [bazelbuild/rules_java](../records/starlark-bazelbuild-rules-java-690a4936.md) | partial | 2026-09-02T16:16:16Z | registry-derived |
 | [bazelbuild/rules_k8s](../records/starlark-bazelbuild-rules-k8s-80683477.md) | partial | 2023-05-12T13:44:37Z | registry-derived |
@@ -57,7 +57,7 @@ Records: `69`
 | [line/rules_apple_line](../records/starlark-line-rules-apple-line-d48892df.md) | partial | 2023-03-20T22:34:01Z | registry-derived |
 | [maxmcd/bramble](../records/starlark-maxmcd-bramble-bcb99fb7.md) | partial | 2023-03-29T14:47:53Z | registry-derived |
 | [MobileNativeFoundation/rules_xcodeproj](../records/starlark-mobilenativefoundation-rules-xcodeproj-807f9485.md) | partial | 2026-08-27T16:47:58Z | registry-derived |
-| [mvukov/rules_ros2](../records/starlark-mvukov-rules-ros2-c77a04e7.md) | partial | 2026-08-29T02:49:30Z | registry-derived |
+| [mvukov/rules_ros2](../records/starlark-mvukov-rules-ros2-c77a04e7.md) | partial | 2026-09-03T20:28:37Z | registry-derived |
 | [pubref/rules_kotlin](../records/starlark-pubref-rules-kotlin-0034e649.md) | partial | 2018-06-03T18:25:58Z | registry-derived |
 | [pubref/rules_protobuf](../records/starlark-pubref-rules-protobuf-8dcd4cee.md) | partial | 2023-07-28T17:49:54Z | registry-derived |
 | [rules-proto-grpc/rules_proto_grpc](../records/starlark-rules-proto-grpc-rules-proto-grpc-990904d1.md) | partial | 2026-09-03T10:38:03Z | registry-derived |
@@ -140,7 +140,7 @@ Records: `69`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [protoconf/protoconf](../records/starlark-protoconf-protoconf-2d2b3184.md) | partial | 2026-09-03T05:56:33Z | registry-derived |
+| [protoconf/protoconf](../records/starlark-protoconf-protoconf-2d2b3184.md) | partial | 2026-09-03T20:54:39Z | registry-derived |
 | [remarshal-project/remarshal](../records/starlark-remarshal-project-remarshal-9ffddf4f.md) | partial | 2026-08-01T07:20:07Z | registry-derived |
 
 ### Undefined Behavior Analyzer

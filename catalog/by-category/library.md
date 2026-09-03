@@ -14,7 +14,7 @@ Records: `5259`
 [Concurrency Parallelism (79)](concurrency-parallelism.md) · [Configuration (115)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (835)](database-datastore.md) · [Datetime (186)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (97)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (405)](ffi-bindings.md) · [Filesystem Os (1386)](filesystem-os.md) · [Formatter (609)](formatter.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (405)](ffi-bindings.md) · [Filesystem Os (1387)](filesystem-os.md) · [Formatter (609)](formatter.md)
 [Framework (54)](framework.md) · [Fuzzer (54)](fuzzer.md) · [Game Engine Game Dev (172)](game-engine-game-dev.md) · [Ide Editor Integration (1326)](ide-editor-integration.md)
 [Image Audio Dsp (359)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (252)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
 [Language Server (27)](language-server.md) · [Language Specification (1377)](language-specification.md) · **[Library (5259)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
@@ -3897,12 +3897,12 @@ Records: `5259`
 | yesod-static | 1.6.1.3 | 2026-06-16T20:33:50Z | [open](../records/haskell-yesod-static-f6ffdea6.md) |
 | yi | 0.19.3 | 2024-11-01T13:06:18Z | [open](../records/haskell-yi-3b78b64a.md) |
 | Z-Data | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-data-ad2a6ebb.md) |
-| Z-IO | 2.0.0.0 | 2022-11-26T03:59:17Z | [open](../records/haskell-z-io-e37841a7.md) |
-| zeolite-lang | 0.24.1.0 | 2024-01-08T01:25:04Z | [open](../records/haskell-zeolite-lang-121149cb.md) |
-| zeromq4-haskell | 0.8.0 | 2019-03-03T15:15:33Z | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
-| zlib | 0.7.1.1 | 2025-09-06T12:21:07Z | [open](../records/haskell-zlib-2a0db053.md) |
-| zoom-cache | 1.2.1.6 | 2012-12-07T00:08:12Z | [open](../records/haskell-zoom-cache-f1ef611e.md) |
-| zoovisitor | 0.2.7.0 | 2024-05-24T09:11:31Z | [open](../records/haskell-zoovisitor-25533034.md) |
+| Z-IO | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-io-e37841a7.md) |
+| zeolite-lang | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeolite-lang-121149cb.md) |
+| zeromq4-haskell | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
+| zlib | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zlib-2a0db053.md) |
+| zoom-cache | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoom-cache-f1ef611e.md) |
+| zoovisitor | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoovisitor-25533034.md) |
 
 ## Octave
 
@@ -4124,7 +4124,7 @@ Records: `5259`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-03T20:15:29Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-03T20:58:08Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4138,7 +4138,7 @@ Records: `5259`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-03T20:08:42Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-03T21:03:00Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -4443,7 +4443,7 @@ Records: `5259`
 | microg/GmsCore | partial | 2026-08-27T22:45:06Z | [open](../records/maps-microg-gmscore-65eebaeb.md) |
 | motis-project/motis | partial | 2026-08-31T20:10:35Z | [open](../records/maps-motis-project-motis-8ff172f1.md) |
 | mousebird-consulting-inc/WhirlyGlobe | partial | 2026-07-31T00:23:58Z | [open](../records/maps-mousebird-consulting-inc-whirlyglobe-3130b66b.md) |
-| nuxt-modules/i18n | partial | 2026-09-02T04:27:00Z | [open](../records/maps-nuxt-modules-i18n-79eea90d.md) |
+| nuxt-modules/i18n | partial | 2026-09-03T09:02:36Z | [open](../records/maps-nuxt-modules-i18n-79eea90d.md) |
 | olutter/map | partial | 2026-08-16T14:48:12Z | [open](../records/maps-olutter-map-b3100e59.md) |
 | opengisch/QField | partial | 2026-09-03T01:38:14Z | [open](../records/maps-opengisch-qfield-f04d9b83.md) |
 | openlayers/openlayers | partial | 2026-09-03T16:49:43Z | [open](../records/maps-openlayers-openlayers-6d483e33.md) |
@@ -4502,7 +4502,7 @@ Records: `5259`
 | podgorskiy/KeplerOrbits | partial | 2023-04-02T23:28:28Z | [open](../records/space-engines-podgorskiy-keplerorbits-bce5842d.md) |
 | RocketPy-Team/RocketPy | partial | 2026-08-24T20:24:28Z | [open](../records/space-engines-rocketpy-team-rocketpy-dc6ba7fb.md) |
 | usuaero/PyProp | partial | 2021-06-21T16:46:34Z | [open](../records/space-engines-usuaero-pyprop-cf41d1df.md) |
-| wedesoft/sfsim | partial | 2026-09-03T07:22:51Z | [open](../records/space-engines-wedesoft-sfsim-99e126c8.md) |
+| wedesoft/sfsim | partial | 2026-09-03T20:53:21Z | [open](../records/space-engines-wedesoft-sfsim-99e126c8.md) |
 
 ## Space Shuttles
 

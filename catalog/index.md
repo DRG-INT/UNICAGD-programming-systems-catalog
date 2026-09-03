@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-03T20:22:53+00:00`
+Generated: `2026-09-03T21:21:18+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -12,7 +12,7 @@ Generated: `2026-09-03T20:22:53+00:00`
 [Concurrency Parallelism (79)](by-category/concurrency-parallelism.md) · [Configuration (115)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (165)](by-category/cryptography.md) · [Data Science (35)](by-category/data-science.md) · [Database Datastore (835)](by-category/database-datastore.md) · [Datetime (186)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (42)](by-category/debugger.md) · [Dependency Manager (93)](by-category/dependency-manager.md) · [Documentation (97)](by-category/documentation.md)
-[Embedded Hardware (54)](by-category/embedded-hardware.md) · [Ffi Bindings (405)](by-category/ffi-bindings.md) · [Filesystem Os (1386)](by-category/filesystem-os.md) · [Formatter (609)](by-category/formatter.md)
+[Embedded Hardware (54)](by-category/embedded-hardware.md) · [Ffi Bindings (405)](by-category/ffi-bindings.md) · [Filesystem Os (1387)](by-category/filesystem-os.md) · [Formatter (609)](by-category/formatter.md)
 [Framework (54)](by-category/framework.md) · [Fuzzer (54)](by-category/fuzzer.md) · [Game Engine Game Dev (172)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1326)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (359)](by-category/image-audio-dsp.md) · [Interop Bindings (58)](by-category/interop-bindings.md) · [Interpreter Runtime (252)](by-category/interpreter-runtime.md) · [Jit Vm (60)](by-category/jit-vm.md)
 [Language Server (27)](by-category/language-server.md) · [Language Specification (1377)](by-category/language-specification.md) · [Library (5259)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
@@ -38,7 +38,7 @@ Generated: `2026-09-03T20:22:53+00:00`
 | Node.js/TypeScript | 388 | 348 | [Node.js/TypeScript](by-language/node-js-typescript.md) |
 | Lua family | 1937 | 0 | [Lua family](by-language/lua-family.md) |
 | R | 1591 | 1591 | [R](by-language/r.md) |
-| Haskell | 1342 | 1341 | [Haskell](by-language/haskell.md) |
+| Haskell | 1342 | 1332 | [Haskell](by-language/haskell.md) |
 | Matlab | 287 | 0 | [Matlab](by-language/matlab.md) |
 | Octave | 141 | 140 | [Octave](by-language/octave.md) |
 | C-Sharp | 150 | 150 | [C-Sharp](by-language/c-sharp.md) |
@@ -84,7 +84,7 @@ Generated: `2026-09-03T20:22:53+00:00`
 | WebAssembly | 387 | 0 | [WebAssembly](by-language/webassembly.md) |
 | SAPJava | 310 | 169 | [SAPJava](by-language/sapjava.md) |
 | Swift | 367 | 0 | [Swift](by-language/swift.md) |
-| Cocoa | 348 | 69 | [Cocoa](by-language/cocoa.md) |
+| Cocoa | 349 | 69 | [Cocoa](by-language/cocoa.md) |
 | Databases | 657 | 0 | [Databases](by-language/databases.md) |
 | Repository Workplaces | 525 | 0 | [Repository Workplaces](by-language/repository-workplaces.md) |
 
@@ -118,7 +118,7 @@ Generated: `2026-09-03T20:22:53+00:00`
 | Documentation | 97 | [documentation](by-category/documentation.md) |
 | Embedded Hardware | 54 | [embedded_hardware](by-category/embedded-hardware.md) |
 | Ffi Bindings | 405 | [ffi_bindings](by-category/ffi-bindings.md) |
-| Filesystem Os | 1386 | [filesystem_os](by-category/filesystem-os.md) |
+| Filesystem Os | 1387 | [filesystem_os](by-category/filesystem-os.md) |
 | Formatter | 609 | [formatter](by-category/formatter.md) |
 | Framework | 54 | [framework](by-category/framework.md) |
 | Fuzzer | 54 | [fuzzer](by-category/fuzzer.md) |
@@ -175,7 +175,7 @@ Generated: `2026-09-03T20:22:53+00:00`
 | Node.js/TypeScript | 348 | 40 |
 | Lua family | 0 | 1937 |
 | R | 1591 | 0 |
-| Haskell | 1341 | 1 |
+| Haskell | 1332 | 10 |
 | Matlab | 0 | 287 |
 | Octave | 140 | 1 |
 | C-Sharp | 150 | 0 |
@@ -221,6 +221,6 @@ Generated: `2026-09-03T20:22:53+00:00`
 | WebAssembly | 0 | 387 |
 | SAPJava | 169 | 141 |
 | Swift | 0 | 367 |
-| Cocoa | 69 | 279 |
+| Cocoa | 69 | 280 |
 | Databases | 0 | 657 |
 | Repository Workplaces | 0 | 525 |

@@ -1,6 +1,6 @@
 # Cocoa
 
-Records: `348`
+Records: `349`
 
 ## Navigation
 
@@ -14,7 +14,7 @@ Records: `348`
 [Concurrency Parallelism (79)](../by-category/concurrency-parallelism.md) · [Configuration (115)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (165)](../by-category/cryptography.md) · [Data Science (35)](../by-category/data-science.md) · [Database Datastore (835)](../by-category/database-datastore.md) · [Datetime (186)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (93)](../by-category/dependency-manager.md) · [Documentation (97)](../by-category/documentation.md)
-[Embedded Hardware (54)](../by-category/embedded-hardware.md) · [Ffi Bindings (405)](../by-category/ffi-bindings.md) · [Filesystem Os (1386)](../by-category/filesystem-os.md) · [Formatter (609)](../by-category/formatter.md)
+[Embedded Hardware (54)](../by-category/embedded-hardware.md) · [Ffi Bindings (405)](../by-category/ffi-bindings.md) · [Filesystem Os (1387)](../by-category/filesystem-os.md) · [Formatter (609)](../by-category/formatter.md)
 [Framework (54)](../by-category/framework.md) · [Fuzzer (54)](../by-category/fuzzer.md) · [Game Engine Game Dev (172)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1326)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (359)](../by-category/image-audio-dsp.md) · [Interop Bindings (58)](../by-category/interop-bindings.md) · [Interpreter Runtime (252)](../by-category/interpreter-runtime.md) · [Jit Vm (60)](../by-category/jit-vm.md)
 [Language Server (27)](../by-category/language-server.md) · [Language Specification (1377)](../by-category/language-specification.md) · [Library (5259)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
@@ -170,6 +170,7 @@ Records: `348`
 | [krevis/MIDIApps](../records/cocoa-krevis-midiapps-99b0ceac.md) | partial | 2026-05-13T06:02:06Z | registry-derived |
 | [Linker](../records/cocoa-linker-4fdf9997.md) | 1.0.0 | 2018-02-16 13:10:21 UTC | registry-derived |
 | [LouisCAD/Splitties](../records/cocoa-louiscad-splitties-2b7fd459.md) | partial | 2024-05-29T22:10:21Z | registry-derived |
+| [lovoo/NSFWDetector](../records/cocoa-lovoo-nsfwdetector-c23e9e45.md) | partial | 2024-08-29T13:35:18Z | registry-derived |
 | [lukakerr/NSWindowStyles](../records/cocoa-lukakerr-nswindowstyles-1fe4dfe0.md) | partial | 2021-05-30T23:29:35Z | registry-derived |
 | [marcosgriselli/SwipeableTabBarController](../records/cocoa-marcosgriselli-swipeabletabbarcontroller-78b50143.md) | partial | 2023-06-04T21:52:42Z | registry-derived |
 | [MOCA Analytics](../records/cocoa-moca-analytics-2499b29b.md) | unknown | not_a_cocoapods_name | registry-derived |

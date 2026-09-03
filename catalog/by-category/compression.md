@@ -14,7 +14,7 @@ Records: `48`
 [Concurrency Parallelism (79)](concurrency-parallelism.md) · [Configuration (115)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (835)](database-datastore.md) · [Datetime (186)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (97)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (405)](ffi-bindings.md) · [Filesystem Os (1386)](filesystem-os.md) · [Formatter (609)](formatter.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (405)](ffi-bindings.md) · [Filesystem Os (1387)](filesystem-os.md) · [Formatter (609)](formatter.md)
 [Framework (54)](framework.md) · [Fuzzer (54)](fuzzer.md) · [Game Engine Game Dev (172)](game-engine-game-dev.md) · [Ide Editor Integration (1326)](ide-editor-integration.md)
 [Image Audio Dsp (359)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (252)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
 [Language Server (27)](language-server.md) · [Language Specification (1377)](language-specification.md) · [Library (5259)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -83,8 +83,8 @@ Records: `48`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | text-zipper | 0.13 | 2023-02-04T20:59:07Z | [open](../records/haskell-text-zipper-6676f63d.md) |
-| zip | 2.2.2 | 2026-06-14T13:24:17Z | [open](../records/haskell-zip-3da7792f.md) |
-| zip-archive | 0.4.3.2 | 2024-04-09T16:45:10Z | [open](../records/haskell-zip-archive-3e16172e.md) |
+| zip | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zip-3da7792f.md) |
+| zip-archive | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zip-archive-3e16172e.md) |
 
 ## Dart
 
@@ -125,7 +125,7 @@ Records: `48`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| xiph/opus | partial | 2026-09-02T20:09:00Z | [open](../records/audio-xiph-opus-720976ad.md) |
+| xiph/opus | partial | 2026-09-03T15:02:18Z | [open](../records/audio-xiph-opus-720976ad.md) |
 
 ## Video
 

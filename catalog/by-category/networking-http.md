@@ -14,7 +14,7 @@ Records: `969`
 [Concurrency Parallelism (79)](concurrency-parallelism.md) · [Configuration (115)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (835)](database-datastore.md) · [Datetime (186)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (97)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (405)](ffi-bindings.md) · [Filesystem Os (1386)](filesystem-os.md) · [Formatter (609)](formatter.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (405)](ffi-bindings.md) · [Filesystem Os (1387)](filesystem-os.md) · [Formatter (609)](formatter.md)
 [Framework (54)](framework.md) · [Fuzzer (54)](fuzzer.md) · [Game Engine Game Dev (172)](game-engine-game-dev.md) · [Ide Editor Integration (1326)](ide-editor-integration.md)
 [Image Audio Dsp (359)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (252)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
 [Language Server (27)](language-server.md) · [Language Specification (1377)](language-specification.md) · [Library (5259)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -331,7 +331,7 @@ Records: `969`
 | @replit/database | 3.0.1 | 2024-04-15T20:42:25.524Z | [open](../records/node-js-javascript-replit-database-0043e0f4.md) |
 | @sap-cloud-sdk/http-client | 4.9.1 | 2026-08-25T09:53:33.332Z | [open](../records/node-js-javascript-sap-cloud-sdk-http-client-39685909.md) |
 | @solana/rpc-transport-http | 8.2.0 | 2026-08-29T12:47:35.422Z | [open](../records/node-js-javascript-solana-rpc-transport-http-9bf28267.md) |
-| @stacksjs/http | 0.74.11 | 2026-09-03T19:58:24.703Z | [open](../records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
+| @stacksjs/http | 0.74.13 | 2026-09-03T20:57:23.706Z | [open](../records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
 | @szmarczak/http-timer | 5.0.1 | 2021-08-20T23:26:11.251Z | [open](../records/node-js-javascript-szmarczak-http-timer-6c6c6722.md) |
 | @taquito/http-utils | 25.0.0 | 2026-06-29T16:13:55.600Z | [open](../records/node-js-javascript-taquito-http-utils-f75d23ea.md) |
 | @tmcp/transport-http | 0.9.0 | 2026-08-14T12:55:32.461Z | [open](../records/node-js-javascript-tmcp-transport-http-2f7c157d.md) |
@@ -769,7 +769,7 @@ Records: `969`
 | g3n/engine | partial | 2026-08-01T16:23:05Z | [open](../records/go-g3n-engine-0b367039.md) |
 | go-resty/resty | partial | 2026-07-26T00:45:12Z | [open](../records/go-go-resty-resty-9cfada1b.md) |
 | redis/go-redis | partial | 2026-09-03T19:44:09Z | [open](../records/go-redis-go-redis-fe715a04.md) |
-| spicetify/cli | partial | 2026-09-03T19:48:27Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
+| spicetify/cli | partial | 2026-09-03T20:31:54Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
 | teler-sh/teler-waf | partial | 2025-03-18T01:40:27Z | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
 | xiaolincoder/CS-Base | partial | 2024-11-27T06:32:13Z | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
 | yincongcyincong/mcp-client-go | partial | 2025-09-09T09:54:40Z | [open](../records/go-yincongcyincong-mcp-client-go-551e8f66.md) |
@@ -862,7 +862,7 @@ Records: `969`
 | pelias/api | partial | 2026-08-21T19:31:47Z | [open](../records/maps-pelias-api-6b9020ab.md) |
 | retroplasma/earth-reverse-engineering | unknown | github_search_does_not_include_release_date | [open](../records/maps-retroplasma-earth-reverse-engineering-2b76b3bc.md) |
 | symfony/routing | partial | 2026-08-30T21:42:43Z | [open](../records/maps-symfony-routing-586aa24f.md) |
-| TanStack/router | partial | 2026-09-01T08:05:10Z | [open](../records/maps-tanstack-router-73e029ca.md) |
+| TanStack/router | partial | 2026-09-03T20:13:07Z | [open](../records/maps-tanstack-router-73e029ca.md) |
 | Valhalla | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/maps-valhalla-4a328d92.md) |
 
 ## Space Engines
@@ -917,7 +917,7 @@ Records: `969`
 | Anjok07/ultimatevocalremovergui | partial | 2025-03-13T21:44:03Z | [open](../records/audio-anjok07-ultimatevocalremovergui-7c0f051c.md) |
 | apohl79/audiogridder | partial | 2024-07-31T08:38:20Z | [open](../records/audio-apohl79-audiogridder-b399a5d3.md) |
 | drethage/speech-denoising-wavenet | unknown | github_latest_release_missing | [open](../records/audio-drethage-speech-denoising-wavenet-dd81add3.md) |
-| FFmpeg/FFmpeg | partial | 2026-09-02T07:24:10Z | [open](../records/audio-ffmpeg-ffmpeg-e29098d1.md) |
+| FFmpeg/FFmpeg | partial | 2026-09-03T19:06:20Z | [open](../records/audio-ffmpeg-ffmpeg-e29098d1.md) |
 | hannesbraun/airwindows-lv2 | partial | 2025-11-27T12:32:25Z | [open](../records/audio-hannesbraun-airwindows-lv2-77a8604e.md) |
 | mpc-hc/mpc-hc | partial | 2020-04-24T11:04:40Z | [open](../records/audio-mpc-hc-mpc-hc-6f555179.md) |
 | Neutone/neutone_sdk | partial | 2025-12-05T08:12:00Z | [open](../records/audio-neutone-neutone-sdk-0f176871.md) |

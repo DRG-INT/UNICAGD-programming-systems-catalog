@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-03T20:22:53+00:00`
+Generated: `2026-09-03T21:21:18+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -12,7 +12,7 @@ Generated: `2026-09-03T20:22:53+00:00`
 [Concurrency Parallelism (79)](by-category/concurrency-parallelism.md) · [Configuration (115)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (165)](by-category/cryptography.md) · [Data Science (35)](by-category/data-science.md) · [Database Datastore (835)](by-category/database-datastore.md) · [Datetime (186)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (42)](by-category/debugger.md) · [Dependency Manager (93)](by-category/dependency-manager.md) · [Documentation (97)](by-category/documentation.md)
-[Embedded Hardware (54)](by-category/embedded-hardware.md) · [Ffi Bindings (405)](by-category/ffi-bindings.md) · [Filesystem Os (1386)](by-category/filesystem-os.md) · [Formatter (609)](by-category/formatter.md)
+[Embedded Hardware (54)](by-category/embedded-hardware.md) · [Ffi Bindings (405)](by-category/ffi-bindings.md) · [Filesystem Os (1387)](by-category/filesystem-os.md) · [Formatter (609)](by-category/formatter.md)
 [Framework (54)](by-category/framework.md) · [Fuzzer (54)](by-category/fuzzer.md) · [Game Engine Game Dev (172)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1326)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (359)](by-category/image-audio-dsp.md) · [Interop Bindings (58)](by-category/interop-bindings.md) · [Interpreter Runtime (252)](by-category/interpreter-runtime.md) · [Jit Vm (60)](by-category/jit-vm.md)
 [Language Server (27)](by-category/language-server.md) · [Language Specification (1377)](by-category/language-specification.md) · [Library (5259)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
@@ -28,19 +28,24 @@ Generated: `2026-09-03T20:22:53+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 9966 |
-| Unknown stable release | 14944 |
+| Known stable release | 9957 |
+| Unknown stable release | 14954 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| tinyvec | Rust | Ide Editor Integration | 1.13.0 | 2026-09-03T21:13:39.500112Z | [open](records/rust-tinyvec-a3ec787a.md) |
+| @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.112.19 | 2026-09-03T21:05:59.584Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
+| @tryghost/server | Node.js/JavaScript | Package Manager | 3.1.14 | 2026-09-03T21:05:49.719Z | [open](records/node-js-javascript-tryghost-server-914387f6.md) |
+| @tryghost/database-info | Node.js/JavaScript | Formatter | 2.3.13 | 2026-09-03T21:05:25.666Z | [open](records/node-js-javascript-tryghost-database-info-d1eda67d.md) |
+| @stacksjs/testing | Node.js/JavaScript | Testing Framework | 0.74.13 | 2026-09-03T21:05:17.451Z | [open](records/node-js-javascript-stacksjs-testing-57469937.md) |
+| @stacksjs/database | Node.js/JavaScript | Database Datastore | 0.74.13 | 2026-09-03T21:04:29.783Z | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
+| @stacksjs/http | Node.js/JavaScript | Networking Http | 0.74.13 | 2026-09-03T20:57:23.706Z | [open](records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
+| i18next-cli | Node.js/JavaScript | Benchmarking | 1.73.0 | 2026-09-03T20:26:05.636Z | [open](records/node-js-javascript-i18next-cli-729ce142.md) |
 | mint | Node.js/JavaScript | Cli | 4.2.869 | 2026-09-03T20:12:25.491Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
 | mintlify | Node.js/JavaScript | Cli | 4.2.869 | 2026-09-03T20:12:25.473Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
 | @mintlify/cli | Node.js/JavaScript | Cli | 4.0.1472 | 2026-09-03T20:12:22.241Z | [open](records/node-js-javascript-mintlify-cli-64dbc59b.md) |
-| @stacksjs/testing | Node.js/JavaScript | Testing Framework | 0.74.11 | 2026-09-03T20:06:04.518Z | [open](records/node-js-javascript-stacksjs-testing-57469937.md) |
-| @stacksjs/database | Node.js/JavaScript | Database Datastore | 0.74.11 | 2026-09-03T20:05:28.283Z | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
-| @stacksjs/http | Node.js/JavaScript | Networking Http | 0.74.11 | 2026-09-03T19:58:24.703Z | [open](records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
 | srvx | Node.js/JavaScript | Web Framework | 1.0.2 | 2026-09-03T19:51:14.673Z | [open](records/node-js-javascript-srvx-1c963d3b.md) |
 | thread-utils-context | Haskell | Concurrency Parallelism | 0.4.1.1 | 2026-09-03T19:44:47Z | [open](records/haskell-thread-utils-context-4cff1f57.md) |
 | oclif | Node.js/JavaScript | Cli | 5.0.1 | 2026-09-03T19:41:20.078Z | [open](records/node-js-javascript-oclif-1e846831.md) |
@@ -95,7 +100,6 @@ Generated: `2026-09-03T20:22:53+00:00`
 | better_player | Dart | Ide Editor Integration | 1.4.0 | 2026-09-03T15:36:36.336895Z | [open](records/dart-better-player-084ef311.md) |
 | camera | Dart | Ide Editor Integration | 0.12.1 | 2026-09-03T15:28:41.235977Z | [open](records/dart-camera-01cb47c6.md) |
 | @capgo/cli | Node.js/JavaScript | Web Framework | 8.47.0 | 2026-09-03T15:02:51.134Z | [open](records/node-js-javascript-capgo-cli-8e98e39d.md) |
-| @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.112.17 | 2026-09-03T14:50:29.099Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
 | typescript-native-bridge | Node.js/TypeScript | Build System | 6.0.3-bridge.16.tsgo.7.0.2 | 2026-09-03T14:38:23.590Z | [open](records/node-js-typescript-typescript-native-bridge-239029dd.md) |
 | @sanity/cli | Node.js/JavaScript | Cli | 8.9.1 | 2026-09-03T14:32:53.771Z | [open](records/node-js-javascript-sanity-cli-257446f0.md) |
 | very_good_analysis | Dart | Linter | 11.0.0 | 2026-09-03T14:28:27.926923Z | [open](records/dart-very-good-analysis-8f0f073a.md) |
@@ -281,16 +285,12 @@ Generated: `2026-09-03T20:22:53+00:00`
 | material_ui | Dart | Ffi Bindings | 1.1.1 | 2026-09-02T16:22:09.095351Z | [open](records/dart-material-ui-3ba68105.md) |
 | go_router | Dart | Web Framework | 18.0.1 | 2026-09-02T16:21:54.510350Z | [open](records/dart-go-router-065a77a1.md) |
 | @napi-rs/cli | Node.js/JavaScript | Cli | 3.9.0 | 2026-09-02T16:11:20.951Z | [open](records/node-js-javascript-napi-rs-cli-3160c98d.md) |
-| async-compression | Rust | Async Runtime | 0.4.44 | 2026-09-02T16:05:28.674815Z | [open](records/rust-async-compression-1943c86c.md) |
-| compression-codecs | Rust | Compression | 0.4.39 | 2026-09-02T16:05:24.693770Z | [open](records/rust-compression-codecs-b842972a.md) |
-| compression-core | Rust | Compression | 0.4.33 | 2026-09-02T16:05:19.162370Z | [open](records/rust-compression-core-ef3f311e.md) |
-| @o3r/testing | Node.js/JavaScript | Build System | 15.0.1 | 2026-09-02T16:03:53.472Z | [open](records/node-js-javascript-o3r-testing-238f6b93.md) |
 
 ## Unknown Reasons
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 7549 |
+| gh_search_reports_activity_not_release_version | 7550 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
@@ -305,11 +305,11 @@ Generated: `2026-09-03T20:22:53+00:00`
 | curated_database_record_requires_source_specific_release_lookup | 87 |
 | official_workplace_route_requires_source_specific_release_lookup | 59 |
 | not_a_maven_coordinate | 32 |
+| hackage_top_downloads_page_does_not_include_release_date | 10 |
 | not_a_cocoapods_name | 7 |
 | release_date_missing | 5 |
 | cocoapods_metadata_missing | 5 |
 | source_returned_no_release | 2 |
-| hackage_top_downloads_page_does_not_include_release_date | 1 |
 
 ## Preview And Nightly Signals
 

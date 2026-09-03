@@ -14,7 +14,7 @@ Records: `918`
 [Concurrency Parallelism (79)](concurrency-parallelism.md) · [Configuration (115)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (835)](database-datastore.md) · [Datetime (186)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (97)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (405)](ffi-bindings.md) · [Filesystem Os (1386)](filesystem-os.md) · [Formatter (609)](formatter.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (405)](ffi-bindings.md) · [Filesystem Os (1387)](filesystem-os.md) · [Formatter (609)](formatter.md)
 [Framework (54)](framework.md) · [Fuzzer (54)](fuzzer.md) · [Game Engine Game Dev (172)](game-engine-game-dev.md) · [Ide Editor Integration (1326)](ide-editor-integration.md)
 [Image Audio Dsp (359)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (252)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
 [Language Server (27)](language-server.md) · [Language Specification (1377)](language-specification.md) · [Library (5259)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -631,17 +631,17 @@ Records: `918`
 | --- | --- | --- | --- |
 | adobe/rules_gitops | partial | 2026-08-30T23:32:18Z | [open](../records/starlark-adobe-rules-gitops-09140ed0.md) |
 | aspect-build/rules_js | partial | 2026-09-03T17:26:03Z | [open](../records/starlark-aspect-build-rules-js-fd75b379.md) |
-| aspect-build/rules_py | partial | 2026-09-03T19:18:10Z | [open](../records/starlark-aspect-build-rules-py-910f4833.md) |
+| aspect-build/rules_py | partial | 2026-09-03T20:38:54Z | [open](../records/starlark-aspect-build-rules-py-910f4833.md) |
 | Bazel | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/starlark-bazel-189ae4a2.md) |
-| bazel-contrib/bazel-lib | partial | 2026-09-03T01:30:16Z | [open](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) |
+| bazel-contrib/bazel-lib | partial | 2026-09-03T20:58:02Z | [open](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) |
 | bazel-contrib/rules_cuda | partial | 2026-09-03T19:15:35Z | [open](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) |
 | bazel-contrib/rules_dotnet | partial | 2026-09-02T11:40:11Z | [open](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) |
 | bazel-contrib/rules_go | partial | 2026-09-03T16:29:07Z | [open](../records/starlark-bazel-contrib-rules-go-4b6a62de.md) |
 | bazel-contrib/rules_img | partial | 2026-09-03T20:00:18Z | [open](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) |
-| bazel-contrib/rules_kotlin | partial | 2026-09-03T00:49:19Z | [open](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) |
+| bazel-contrib/rules_kotlin | partial | 2026-09-03T20:32:15Z | [open](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) |
 | bazel-contrib/rules_scala | partial | 2026-09-03T20:15:57Z | [open](../records/starlark-bazel-contrib-rules-scala-d92d7813.md) |
 | bazelbuild/bazel-skylib | partial | 2026-09-01T20:37:47Z | [open](../records/starlark-bazelbuild-bazel-skylib-6abae8f4.md) |
-| bazelbuild/rules_cc | partial | 2026-09-03T01:50:14Z | [open](../records/starlark-bazelbuild-rules-cc-39327329.md) |
+| bazelbuild/rules_cc | partial | 2026-09-03T20:53:10Z | [open](../records/starlark-bazelbuild-rules-cc-39327329.md) |
 | bazelbuild/rules_closure | partial | 2026-04-03T21:28:30Z | [open](../records/starlark-bazelbuild-rules-closure-5adb8287.md) |
 | bazelbuild/rules_java | partial | 2026-09-02T16:16:16Z | [open](../records/starlark-bazelbuild-rules-java-690a4936.md) |
 | bazelbuild/rules_k8s | partial | 2023-05-12T13:44:37Z | [open](../records/starlark-bazelbuild-rules-k8s-80683477.md) |
@@ -654,7 +654,7 @@ Records: `918`
 | line/rules_apple_line | partial | 2023-03-20T22:34:01Z | [open](../records/starlark-line-rules-apple-line-d48892df.md) |
 | maxmcd/bramble | partial | 2023-03-29T14:47:53Z | [open](../records/starlark-maxmcd-bramble-bcb99fb7.md) |
 | MobileNativeFoundation/rules_xcodeproj | partial | 2026-08-27T16:47:58Z | [open](../records/starlark-mobilenativefoundation-rules-xcodeproj-807f9485.md) |
-| mvukov/rules_ros2 | partial | 2026-08-29T02:49:30Z | [open](../records/starlark-mvukov-rules-ros2-c77a04e7.md) |
+| mvukov/rules_ros2 | partial | 2026-09-03T20:28:37Z | [open](../records/starlark-mvukov-rules-ros2-c77a04e7.md) |
 | pubref/rules_kotlin | partial | 2018-06-03T18:25:58Z | [open](../records/starlark-pubref-rules-kotlin-0034e649.md) |
 | pubref/rules_protobuf | partial | 2023-07-28T17:49:54Z | [open](../records/starlark-pubref-rules-protobuf-8dcd4cee.md) |
 | rules-proto-grpc/rules_proto_grpc | partial | 2026-09-03T10:38:03Z | [open](../records/starlark-rules-proto-grpc-rules-proto-grpc-990904d1.md) |
@@ -678,17 +678,17 @@ Records: `918`
 | agentscope-ai/agentscope | partial | 2026-09-03T12:20:21Z | [open](../records/aim-s-agentscope-ai-agentscope-52a2aaa7.md) |
 | browser-use/browser-use | partial | 2026-09-03T18:10:13Z | [open](../records/aim-s-browser-use-browser-use-3a4135d4.md) |
 | ComposioHQ/composio | partial | 2026-09-03T20:05:28Z | [open](../records/aim-s-composiohq-composio-aca55143.md) |
-| CopilotKit/CopilotKit | partial | 2026-09-03T20:16:47Z | [open](../records/aim-s-copilotkit-copilotkit-a4294d79.md) |
+| CopilotKit/CopilotKit | partial | 2026-09-03T21:17:05Z | [open](../records/aim-s-copilotkit-copilotkit-a4294d79.md) |
 | deepset-ai/haystack | partial | 2026-09-03T15:45:23Z | [open](../records/aim-s-deepset-ai-haystack-9a3ef275.md) |
 | DietrichGebert/ponytail | partial | 2026-08-07T21:44:01Z | [open](../records/aim-s-dietrichgebert-ponytail-2aa63d65.md) |
 | khoj-ai/khoj | partial | 2026-08-02T01:55:40Z | [open](../records/aim-s-khoj-ai-khoj-7c0ba8b7.md) |
 | langchain-ai/langgraph | partial | 2026-09-03T15:23:28Z | [open](../records/aim-s-langchain-ai-langgraph-3d7f01d8.md) |
-| langgenius/dify | partial | 2026-09-03T15:38:21Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
+| langgenius/dify | partial | 2026-09-03T20:34:46Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
 | rohitg00/ai-engineering-from-scratch | partial | 2026-08-30T09:25:48Z | [open](../records/aim-s-rohitg00-ai-engineering-from-scratch-ac445b06.md) |
-| Significant-Gravitas/AutoGPT | partial | 2026-09-03T20:13:06Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
-| tinyhumansai/openhuman | partial | 2026-09-03T19:21:44Z | [open](../records/aim-s-tinyhumansai-openhuman-314d98d9.md) |
+| Significant-Gravitas/AutoGPT | partial | 2026-09-03T21:14:53Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
+| tinyhumansai/openhuman | partial | 2026-09-03T20:50:08Z | [open](../records/aim-s-tinyhumansai-openhuman-314d98d9.md) |
 | tirth8205/code-review-graph | partial | 2026-08-27T10:35:01Z | [open](../records/aim-s-tirth8205-code-review-graph-ebee7525.md) |
-| vercel/ai | partial | 2026-09-03T20:19:26Z | [open](../records/aim-s-vercel-ai-ae0b1907.md) |
+| vercel/ai | partial | 2026-09-03T21:18:55Z | [open](../records/aim-s-vercel-ai-ae0b1907.md) |
 | Zackriya-Solutions/meetily | partial | 2026-09-03T09:51:34Z | [open](../records/aim-s-zackriya-solutions-meetily-959563c6.md) |
 
 ## Icons and Logos
@@ -773,7 +773,7 @@ Records: `918`
 | NASAWorldWind/WorldWindJava | partial | 2024-09-24T20:07:25Z | [open](../records/maps-nasaworldwind-worldwindjava-5ccaa328.md) |
 | noncomputable/AgentMaps | partial | 2024-09-17T05:46:55Z | [open](../records/maps-noncomputable-agentmaps-d9a25ae5.md) |
 | onthegomap/planetiler | partial | 2026-08-18T08:32:52Z | [open](../records/maps-onthegomap-planetiler-3a2ddfcf.md) |
-| openaddresses/openaddresses | partial | 2026-09-03T02:53:48Z | [open](../records/maps-openaddresses-openaddresses-2339fe96.md) |
+| openaddresses/openaddresses | partial | 2026-09-03T15:28:32Z | [open](../records/maps-openaddresses-openaddresses-2339fe96.md) |
 | softwareunderground/awesome-open-geoscience | partial | 2026-05-26T11:55:08Z | [open](../records/maps-softwareunderground-awesome-open-geoscience-8eefdce0.md) |
 | stablekernel/aqueduct | partial | 2021-03-26T13:19:09Z | [open](../records/maps-stablekernel-aqueduct-1173e0fd.md) |
 | stefanocudini/leaflet-layerJSON | partial | 2023-08-11T10:14:23Z | [open](../records/maps-stefanocudini-leaflet-layerjson-1c3bc2fa.md) |
@@ -831,7 +831,7 @@ Records: `918`
 | kratofl/kratomix | partial | 2026-08-18T21:09:01Z | [open](../records/effects-kratofl-kratomix-0945699b.md) |
 | Masudbro94/python-hacked-mobile-phone- | unknown | github_latest_release_missing | [open](../records/effects-masudbro94-python-hacked-mobile-phone-f3a240c2.md) |
 | MintoTsukino/MintoShaderSuite | 1.0 | 2025-10-23T21:18:21Z | [open](../records/effects-mintotsukino-mintoshadersuite-ef86ca31.md) |
-| noisefactorllc/noisemaker | partial | 2026-09-03T17:53:07Z | [open](../records/effects-noisefactorllc-noisemaker-3b4d1858.md) |
+| noisefactorllc/noisemaker | partial | 2026-09-03T21:13:07Z | [open](../records/effects-noisefactorllc-noisemaker-3b4d1858.md) |
 | overmindstudios/BlenderUpdater | partial | 2026-06-02T17:35:22Z | [open](../records/effects-overmindstudios-blenderupdater-a3b9c905.md) |
 | phkaeser/wlmaker | partial | 2026-08-29T17:50:14Z | [open](../records/effects-phkaeser-wlmaker-bba50595.md) |
 | sean-hayeskxw9521/auxide-dsp-v020-library | partial | 2026-09-01T13:26:03Z | [open](../records/effects-sean-hayeskxw9521-auxide-dsp-v020-library-08fdecae.md) |
@@ -1148,7 +1148,7 @@ Records: `918`
 | sinaptik-ai/pandas-ai | partial | 2025-10-28T10:02:13Z | [open](../records/databases-sinaptik-ai-pandas-ai-51421c6b.md) |
 | skytable/skytable | partial | 2026-04-23T00:14:03Z | [open](../records/databases-skytable-skytable-522468ff.md) |
 | skyzh/write-you-a-vector-db | partial | 2026-09-01T09:56:00Z | [open](../records/databases-skyzh-write-you-a-vector-db-16d5344e.md) |
-| supabase/supabase | partial | 2026-09-03T19:42:01Z | [open](../records/databases-supabase-supabase-100a1793.md) |
+| supabase/supabase | partial | 2026-09-03T20:31:46Z | [open](../records/databases-supabase-supabase-100a1793.md) |
 | terminusdb/terminusdb | partial | 2026-08-10T14:54:19Z | [open](../records/databases-terminusdb-terminusdb-a8652993.md) |
 | torodb/stampede | partial | 2018-10-25T07:02:08Z | [open](../records/databases-torodb-stampede-a9676e19.md) |
 | x-ream/sqli | partial | 2026-07-24T03:14:00Z | [open](../records/databases-x-ream-sqli-bd8b199c.md) |
