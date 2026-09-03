@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-03T00:34:49+00:00`
+Generated: `2026-09-03T01:24:12+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -15,7 +15,7 @@ Generated: `2026-09-03T00:34:49+00:00`
 [Embedded Hardware (52)](by-category/embedded-hardware.md) · [Ffi Bindings (400)](by-category/ffi-bindings.md) · [Filesystem Os (1300)](by-category/filesystem-os.md) · [Formatter (578)](by-category/formatter.md)
 [Framework (51)](by-category/framework.md) · [Fuzzer (50)](by-category/fuzzer.md) · [Game Engine Game Dev (164)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1257)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (314)](by-category/image-audio-dsp.md) · [Interop Bindings (56)](by-category/interop-bindings.md) · [Interpreter Runtime (240)](by-category/interpreter-runtime.md) · [Jit Vm (58)](by-category/jit-vm.md)
-[Language Server (27)](by-category/language-server.md) · [Language Specification (1260)](by-category/language-specification.md) · [Library (5056)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (27)](by-category/language-server.md) · [Language Specification (1260)](by-category/language-specification.md) · [Library (5057)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (42)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (464)](by-category/logging-observability.md) · [Machine Learning (620)](by-category/machine-learning.md)
 [Math Numeric Scientific (82)](by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](by-category/memory-analyzer.md) · [Message Broker (35)](by-category/message-broker.md) · [Networking Http (946)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (402)](by-category/package-manager.md) · [Parser Lexer Ast (962)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (269)](by-category/precommit-ci-quality.md)
@@ -29,7 +29,7 @@ Generated: `2026-09-03T00:34:49+00:00`
 | State | Count |
 | --- | ---: |
 | Known stable release | 9927 |
-| Unknown stable release | 13883 |
+| Unknown stable release | 13884 |
 
 ## Newest Known Stable Metadata
 
@@ -38,6 +38,7 @@ Generated: `2026-09-03T00:34:49+00:00`
 | lru | Rust | Library | 0.18.4 | 2026-09-03T00:26:06.507992Z | [open](records/rust-lru-d37fa8b1.md) |
 | grinder | Dart | Library | 0.10.1 | 2026-09-03T00:13:15.873220Z | [open](records/dart-grinder-82627f10.md) |
 | @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.112.8 | 2026-09-03T00:12:44.339Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
+| test | Dart | Testing Framework | 1.32.0 | 2026-09-02T23:48:34.762194Z | [open](records/dart-test-85687c3f.md) |
 | @xemahq/biome-database-nest | Node.js/JavaScript | Interpreter Runtime | 0.23.0 | 2026-09-02T23:37:31.640Z | [open](records/node-js-javascript-xemahq-biome-database-nest-2c8095df.md) |
 | @lightdash/cli | Node.js/JavaScript | Cli | 2.101.2 | 2026-09-02T23:30:05.859Z | [open](records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | @athenna/database | Node.js/JavaScript | Database Datastore | 5.63.0 | 2026-09-02T23:24:12.368Z | [open](records/node-js-javascript-athenna-database-561068b6.md) |
@@ -284,7 +285,6 @@ Generated: `2026-09-03T00:34:49+00:00`
 | @cubejs-backend/prestodb-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.32 | 2026-09-01T18:08:59.690Z | [open](records/node-js-javascript-cubejs-backend-prestodb-driver-e59afba0.md) |
 | @cubejs-backend/oracle-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.32 | 2026-09-01T18:08:59.046Z | [open](records/node-js-javascript-cubejs-backend-oracle-driver-67860979.md) |
 | @cubejs-backend/hive-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.32 | 2026-09-01T18:08:55.314Z | [open](records/node-js-javascript-cubejs-backend-hive-driver-465861fe.md) |
-| @cubejs-backend/jdbc-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.32 | 2026-09-01T18:08:55.143Z | [open](records/node-js-javascript-cubejs-backend-jdbc-driver-04d976e1.md) |
 
 ## Unknown Reasons
 
@@ -298,7 +298,7 @@ Generated: `2026-09-03T00:34:49+00:00`
 | github_search_does_not_include_release_date | 448 |
 | go_module_index_event_is_preview_or_pseudoversion | 414 |
 | curated_language_route_requires_source_specific_release_lookup | 400 |
-| gitea_search_api_reports_activity_not_release_version | 269 |
+| gitea_search_api_reports_activity_not_release_version | 270 |
 | awesome_list_does_not_include_release_date | 237 |
 | gitlab_projects_api_reports_activity_not_release_version | 194 |
 | github_latest_release_missing | 192 |

@@ -32,7 +32,7 @@ regression protection, and release confidence.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 1.31.2 | 2026-06-27T01:33:38.765267Z | [https://pub.dev/api/packages/test](https://pub.dev/api/packages/test) |  |
+| stable | known | 1.32.0 | 2026-09-02T23:48:34.762194Z | [https://pub.dev/api/packages/test](https://pub.dev/api/packages/test) |  |
 | preview | known | 1.16.0-nullsafety.19 | 2021-02-03T03:23:17.374321Z | [https://pub.dev/api/packages/test](https://pub.dev/api/packages/test) |  |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ regression protection, and release confidence.
 
 - Treat category as `testing_framework` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pub.dev/api/packages/test` at `2026-09-01T16:41:08+00:00`.
+- Latest stable metadata was observed from `https://pub.dev/api/packages/test` at `2026-09-03T01:22:53+00:00`.
 - Preview/nightly metadata is present through channel `preview`.
 
 ## Provenance
@@ -57,7 +57,7 @@ regression protection, and release confidence.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| pub_dev_completion_and_package_api | registry-derived | 2026-09-02 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-02", "status": "registry-derived"}` |
+| pub_dev_completion_and_package_api | registry-derived | 2026-09-03 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-03", "status": "registry-derived"}` |
 
 </details>
 
@@ -93,7 +93,7 @@ Evidence records merged into this identity: `1`.
 [Embedded Hardware (52)](../by-category/embedded-hardware.md) · [Ffi Bindings (400)](../by-category/ffi-bindings.md) · [Filesystem Os (1300)](../by-category/filesystem-os.md) · [Formatter (578)](../by-category/formatter.md)
 [Framework (51)](../by-category/framework.md) · [Fuzzer (50)](../by-category/fuzzer.md) · [Game Engine Game Dev (164)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1257)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (314)](../by-category/image-audio-dsp.md) · [Interop Bindings (56)](../by-category/interop-bindings.md) · [Interpreter Runtime (240)](../by-category/interpreter-runtime.md) · [Jit Vm (58)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1260)](../by-category/language-specification.md) · [Library (5056)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1260)](../by-category/language-specification.md) · [Library (5057)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (42)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (464)](../by-category/logging-observability.md) · [Machine Learning (620)](../by-category/machine-learning.md)
 [Math Numeric Scientific (82)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (35)](../by-category/message-broker.md) · [Networking Http (946)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (402)](../by-category/package-manager.md) · [Parser Lexer Ast (962)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (269)](../by-category/precommit-ci-quality.md)

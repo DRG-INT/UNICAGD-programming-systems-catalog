@@ -1,6 +1,6 @@
 # Library
 
-Records: `5056`
+Records: `5057`
 
 ## Navigation
 
@@ -17,7 +17,7 @@ Records: `5056`
 [Embedded Hardware (52)](embedded-hardware.md) · [Ffi Bindings (400)](ffi-bindings.md) · [Filesystem Os (1300)](filesystem-os.md) · [Formatter (578)](formatter.md)
 [Framework (51)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1257)](ide-editor-integration.md)
 [Image Audio Dsp (314)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (240)](interpreter-runtime.md) · [Jit Vm (58)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1260)](language-specification.md) · **[Library (5056)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1260)](language-specification.md) · **[Library (5057)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (464)](logging-observability.md) · [Machine Learning (620)](machine-learning.md)
 [Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (946)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (402)](package-manager.md) · [Parser Lexer Ast (962)](parser-lexer-ast.md) · [Precommit Ci Quality (269)](precommit-ci-quality.md)
@@ -4082,7 +4082,7 @@ Records: `5056`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-03T00:30:37Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-03T01:19:02Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4889,7 +4889,7 @@ Records: `5056`
 | Stephane-D/SGDK | partial | 2026-08-17T08:47:30Z | [open](../records/assembly-stephane-d-sgdk-bad539e3.md) |
 | takenobu-hs/cpu-assembly-examples | partial | 2024-05-19T06:55:01Z | [open](../records/assembly-takenobu-hs-cpu-assembly-examples-b5867112.md) |
 | vonsim/vonsim | partial | 2026-05-29T02:08:00Z | [open](../records/assembly-vonsim-vonsim-6a8ef78f.md) |
-| vvaltchev/tilck | partial | 2026-09-03T00:24:51Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
+| vvaltchev/tilck | partial | 2026-09-03T00:57:16Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
 | yds12/x64-roadmap | partial | 2020-07-16T15:54:20Z | [open](../records/assembly-yds12-x64-roadmap-3b9663e2.md) |
 | yrp604/rappel | partial | 2024-03-07T04:45:15Z | [open](../records/assembly-yrp604-rappel-4bf787bb.md) |
 
@@ -5253,6 +5253,7 @@ Records: `5056`
 | Gitea: PS2320/Devops_Notes | partial | 2026-08-31T05:17:58Z | [open](../records/repository-workplaces-gitea-ps2320-devops-notes-a69cdb3d.md) |
 | Gitea: Qikahome/StarveLibrary | partial | 2026-04-02T19:42:23Z | [open](../records/repository-workplaces-gitea-qikahome-starvelibrary-85f740a2.md) |
 | Gitea: RachelGardner/Devops | partial | 2026-05-18T07:41:27Z | [open](../records/repository-workplaces-gitea-rachelgardner-devops-67978e24.md) |
+| Gitea: Savutro/go-commit-tooling | partial | 2026-06-09T08:46:40Z | [open](../records/repository-workplaces-gitea-savutro-go-commit-tooling-8c007c8a.md) |
 | Gitea: Scryptica/Bunnyhop-Library | partial | 2026-08-23T09:46:50Z | [open](../records/repository-workplaces-gitea-scryptica-bunnyhop-library-958ef3ad.md) |
 | Gitea: selvakumar-netaji/Library-Management-KAHE | partial | 2026-08-21T14:31:21Z | [open](../records/repository-workplaces-gitea-selvakumar-netaji-library-management-kahe-5a8b602c.md) |
 | Gitea: Shadowchoir/Library-of-Communication | partial | 2020-04-16T15:45:29Z | [open](../records/repository-workplaces-gitea-shadowchoir-library-of-communication-ee0cf6fe.md) |

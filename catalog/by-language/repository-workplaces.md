@@ -1,6 +1,6 @@
 # Repository Workplaces
 
-Records: `522`
+Records: `523`
 
 ## Navigation
 
@@ -17,7 +17,7 @@ Records: `522`
 [Embedded Hardware (52)](../by-category/embedded-hardware.md) · [Ffi Bindings (400)](../by-category/ffi-bindings.md) · [Filesystem Os (1300)](../by-category/filesystem-os.md) · [Formatter (578)](../by-category/formatter.md)
 [Framework (51)](../by-category/framework.md) · [Fuzzer (50)](../by-category/fuzzer.md) · [Game Engine Game Dev (164)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1257)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (314)](../by-category/image-audio-dsp.md) · [Interop Bindings (56)](../by-category/interop-bindings.md) · [Interpreter Runtime (240)](../by-category/interpreter-runtime.md) · [Jit Vm (58)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1260)](../by-category/language-specification.md) · [Library (5056)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1260)](../by-category/language-specification.md) · [Library (5057)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (42)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (464)](../by-category/logging-observability.md) · [Machine Learning (620)](../by-category/machine-learning.md)
 [Math Numeric Scientific (82)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (35)](../by-category/message-broker.md) · [Networking Http (946)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (402)](../by-category/package-manager.md) · [Parser Lexer Ast (962)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (269)](../by-category/precommit-ci-quality.md)
@@ -369,6 +369,7 @@ Records: `522`
 | [Gitea: PS2320/Devops_Notes](../records/repository-workplaces-gitea-ps2320-devops-notes-a69cdb3d.md) | partial | 2026-08-31T05:17:58Z | registry-derived |
 | [Gitea: Qikahome/StarveLibrary](../records/repository-workplaces-gitea-qikahome-starvelibrary-85f740a2.md) | partial | 2026-04-02T19:42:23Z | registry-derived |
 | [Gitea: RachelGardner/Devops](../records/repository-workplaces-gitea-rachelgardner-devops-67978e24.md) | partial | 2026-05-18T07:41:27Z | registry-derived |
+| [Gitea: Savutro/go-commit-tooling](../records/repository-workplaces-gitea-savutro-go-commit-tooling-8c007c8a.md) | partial | 2026-06-09T08:46:40Z | registry-derived |
 | [Gitea: Scryptica/Bunnyhop-Library](../records/repository-workplaces-gitea-scryptica-bunnyhop-library-958ef3ad.md) | partial | 2026-08-23T09:46:50Z | registry-derived |
 | [Gitea: selvakumar-netaji/Library-Management-KAHE](../records/repository-workplaces-gitea-selvakumar-netaji-library-management-kahe-5a8b602c.md) | partial | 2026-08-21T14:31:21Z | registry-derived |
 | [Gitea: Shadowchoir/Library-of-Communication](../records/repository-workplaces-gitea-shadowchoir-library-of-communication-ee0cf6fe.md) | partial | 2020-04-16T15:45:29Z | registry-derived |
@@ -671,7 +672,7 @@ Records: `522`
 | [gitlab-data/data-image](../records/repository-workplaces-gitlab-data-data-image-0af0c35c.md) | partial | 2026-08-21T11:24:30.282Z | registry-derived |
 | [gitlab-examples/kubernetes-deploy](../records/repository-workplaces-gitlab-examples-kubernetes-deploy-9a43e04a.md) | partial | 2026-01-07T14:56:28.754Z | registry-derived |
 | [gitlab-examples/ruby-autodeploy](../records/repository-workplaces-gitlab-examples-ruby-autodeploy-0ea70988.md) | partial | 2026-01-07T14:56:29.516Z | registry-derived |
-| [gitlab-org/caproni](../records/repository-workplaces-gitlab-org-caproni-40271619.md) | partial | 2026-09-02T17:14:10.624Z | registry-derived |
+| [gitlab-org/caproni](../records/repository-workplaces-gitlab-org-caproni-40271619.md) | partial | 2026-09-02T23:24:31.321Z | registry-derived |
 | [gitlab-org/charts/gitlab-agent](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) | partial | 2026-08-27T06:20:07.801Z | registry-derived |
 | [gitlab-org/ci-cd/gitlab-runner-pod-cleanup](../records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) | partial | 2026-05-15T07:38:19.652Z | registry-derived |
 | [gitlab-org/cloud-native/gitlab-operator](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) | partial | 2026-09-02T19:05:13.016Z | registry-derived |
