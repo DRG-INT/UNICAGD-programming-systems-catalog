@@ -16,9 +16,9 @@ Records: `297`
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (96)](documentation.md)
 [Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1371)](filesystem-os.md) · [Formatter (599)](formatter.md)
 [Framework (54)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (169)](game-engine-game-dev.md) · [Ide Editor Integration (1304)](ide-editor-integration.md)
-[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (250)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1374)](language-specification.md) · [Library (5235)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (482)](logging-observability.md) · [Machine Learning (643)](machine-learning.md)
+[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (250)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1374)](language-specification.md) · [Library (5237)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (483)](logging-observability.md) · [Machine Learning (643)](machine-learning.md)
 [Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (965)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (411)](package-manager.md) · [Parser Lexer Ast (998)](parser-lexer-ast.md) · [Precommit Ci Quality (278)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
@@ -312,14 +312,14 @@ Records: `297`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-03T17:11:59Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | partial | 2026-09-03T18:24:21Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Assets
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | FlexyTools/Flexy.AssetRefs | partial | 2026-07-31T15:36:54Z | [open](../records/assets-flexytools-flexy-assetrefs-ec4cd6a1.md) |
-| lucemia/typed-ffmpeg | partial | 2026-08-27T02:47:25Z | [open](../records/assets-lucemia-typed-ffmpeg-b38dabb5.md) |
+| lucemia/typed-ffmpeg | partial | 2026-09-03T03:08:47Z | [open](../records/assets-lucemia-typed-ffmpeg-b38dabb5.md) |
 | sinclairzx81/typescript-bundle | partial | 2026-07-20T21:18:13Z | [open](../records/assets-sinclairzx81-typescript-bundle-f3078d7e.md) |
 
 ## Maps
@@ -329,7 +329,7 @@ Records: `297`
 | amcharts/amcharts4 | partial | 2026-03-23T14:16:07Z | [open](../records/maps-amcharts-amcharts4-76de220f.md) |
 | f5/unovis | partial | 2026-09-01T02:34:52Z | [open](../records/maps-f5-unovis-6e8a6849.md) |
 | maptiler/maptiler-geocoding-control | partial | 2026-07-29T11:57:08Z | [open](../records/maps-maptiler-maptiler-geocoding-control-e23c4ebb.md) |
-| openglobus/openglobus | partial | 2026-09-03T16:13:23Z | [open](../records/maps-openglobus-openglobus-566e8f9b.md) |
+| openglobus/openglobus | partial | 2026-09-03T17:42:56Z | [open](../records/maps-openglobus-openglobus-566e8f9b.md) |
 | reearth/reearth-visualizer | unknown | github_search_does_not_include_release_date | [open](../records/maps-reearth-reearth-visualizer-6966a648.md) |
 | Turfjs/turf | partial | 2026-08-31T19:10:41Z | [open](../records/maps-turfjs-turf-bcfc41fa.md) |
 | yszhao91/cga.js | unknown | github_search_does_not_include_release_date | [open](../records/maps-yszhao91-cga-js-5e6ba99c.md) |

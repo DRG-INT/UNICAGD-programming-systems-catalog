@@ -16,9 +16,9 @@ Records: `304`
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (93)](../by-category/dependency-manager.md) · [Documentation (96)](../by-category/documentation.md)
 [Embedded Hardware (54)](../by-category/embedded-hardware.md) · [Ffi Bindings (402)](../by-category/ffi-bindings.md) · [Filesystem Os (1371)](../by-category/filesystem-os.md) · [Formatter (599)](../by-category/formatter.md)
 [Framework (54)](../by-category/framework.md) · [Fuzzer (53)](../by-category/fuzzer.md) · [Game Engine Game Dev (169)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1304)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (356)](../by-category/image-audio-dsp.md) · [Interop Bindings (57)](../by-category/interop-bindings.md) · [Interpreter Runtime (250)](../by-category/interpreter-runtime.md) · [Jit Vm (60)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1374)](../by-category/language-specification.md) · [Library (5235)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (482)](../by-category/logging-observability.md) · [Machine Learning (643)](../by-category/machine-learning.md)
+[Image Audio Dsp (356)](../by-category/image-audio-dsp.md) · [Interop Bindings (58)](../by-category/interop-bindings.md) · [Interpreter Runtime (250)](../by-category/interpreter-runtime.md) · [Jit Vm (60)](../by-category/jit-vm.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1374)](../by-category/language-specification.md) · [Library (5237)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (483)](../by-category/logging-observability.md) · [Machine Learning (643)](../by-category/machine-learning.md)
 [Math Numeric Scientific (83)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (36)](../by-category/message-broker.md) · [Networking Http (965)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (411)](../by-category/package-manager.md) · [Parser Lexer Ast (998)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (278)](../by-category/precommit-ci-quality.md)
 [Profiler (79)](../by-category/profiler.md) · [Project Scaffolding (130)](../by-category/project-scaffolding.md) · [Registry Repository (108)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
@@ -229,7 +229,7 @@ Records: `304`
 | [listyque/TACTIC-Handler](../records/assets-listyque-tactic-handler-4eac647f.md) | partial | 2024-09-23T13:12:49Z | registry-derived |
 | [projectdiscovery/cloudlist](../records/assets-projectdiscovery-cloudlist-3b29358e.md) | partial | 2026-08-31T15:19:04Z | registry-derived |
 | [Specifyapp/parsers](../records/assets-specifyapp-parsers-804be31e.md) | partial | 2024-08-30T13:23:14Z | registry-derived |
-| [tejaswigowda/ffmpeg-webCLI](../records/assets-tejaswigowda-ffmpeg-webcli-e2d7593b.md) | partial | 2026-08-28T23:09:46Z | registry-derived |
+| [tejaswigowda/ffmpeg-webCLI](../records/assets-tejaswigowda-ffmpeg-webcli-e2d7593b.md) | partial | 2026-09-03T01:41:12Z | registry-derived |
 | [trickest/insiders](../records/assets-trickest-insiders-50e57fb3.md) | partial | 2023-09-25T15:20:03Z | registry-derived |
 | [vulture-s/arkiv](../records/assets-vulture-s-arkiv-be252330.md) | partial | 2026-09-03T09:14:49Z | registry-derived |
 
@@ -393,7 +393,7 @@ Records: `304`
 | [raysan5/rres](../records/assets-raysan5-rres-19e58697.md) | partial | 2026-08-12T10:35:04Z | registry-derived |
 | [RxLaboratory/Ramses](../records/assets-rxlaboratory-ramses-b3bc970c.md) | partial | 2024-10-16T08:21:05Z | registry-derived |
 | [Saalvage/AssimpNetter](../records/assets-saalvage-assimpnetter-ec5bd434.md) | partial | 2026-06-23T13:20:26Z | registry-derived |
-| [snapotter-hq/SnapOtter](../records/assets-snapotter-hq-snapotter-f5614eb5.md) | partial | 2026-08-31T16:44:04Z | registry-derived |
+| [snapotter-hq/SnapOtter](../records/assets-snapotter-hq-snapotter-f5614eb5.md) | partial | 2026-09-03T14:36:56Z | registry-derived |
 | [spotify/klio](../records/assets-spotify-klio-c9106254.md) | partial | 2024-01-10T19:37:37Z | registry-derived |
 | [Stolz/Assets](../records/assets-stolz-assets-766b2deb.md) | partial | 2020-02-01T12:06:15Z | registry-derived |
 | [torba-rb/torba](../records/assets-torba-rb-torba-6deb2fda.md) | partial | 2023-08-18T09:14:31Z | registry-derived |
@@ -489,7 +489,7 @@ Records: `304`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [FlexyTools/Flexy.AssetRefs](../records/assets-flexytools-flexy-assetrefs-ec4cd6a1.md) | partial | 2026-07-31T15:36:54Z | registry-derived |
-| [lucemia/typed-ffmpeg](../records/assets-lucemia-typed-ffmpeg-b38dabb5.md) | partial | 2026-08-27T02:47:25Z | registry-derived |
+| [lucemia/typed-ffmpeg](../records/assets-lucemia-typed-ffmpeg-b38dabb5.md) | partial | 2026-09-03T03:08:47Z | registry-derived |
 | [sinclairzx81/typescript-bundle](../records/assets-sinclairzx81-typescript-bundle-f3078d7e.md) | partial | 2026-07-20T21:18:13Z | registry-derived |
 
 ### Undefined Behavior Analyzer

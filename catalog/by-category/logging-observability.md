@@ -1,6 +1,6 @@
 # Logging Observability
 
-Records: `482`
+Records: `483`
 
 ## Navigation
 
@@ -16,9 +16,9 @@ Records: `482`
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (96)](documentation.md)
 [Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1371)](filesystem-os.md) · [Formatter (599)](formatter.md)
 [Framework (54)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (169)](game-engine-game-dev.md) · [Ide Editor Integration (1304)](ide-editor-integration.md)
-[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (250)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1374)](language-specification.md) · [Library (5235)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · **[Logging Observability (482)](logging-observability.md)** · [Machine Learning (643)](machine-learning.md)
+[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (250)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1374)](language-specification.md) · [Library (5237)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · **[Logging Observability (483)](logging-observability.md)** · [Machine Learning (643)](machine-learning.md)
 [Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (965)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (411)](package-manager.md) · [Parser Lexer Ast (998)](parser-lexer-ast.md) · [Precommit Ci Quality (278)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
@@ -254,6 +254,7 @@ Records: `482`
 | bayesqm | 0.2.0 | 2026-08-20 10:52:15 UTC | [open](../records/r-bayesqm-5bfa0e0e.md) |
 | BCGcalc | 2.3.1 | 2026-08-08 10:30:02 UTC | [open](../records/r-bcgcalc-1fbecb80.md) |
 | bios2mds | 1.2.4 | 2026-08-21 17:40:08 UTC | [open](../records/r-bios2mds-ccbe3b63.md) |
+| casebase | 0.10.7 | 2026-09-03 17:50:02 UTC | [open](../records/r-casebase-aea74542.md) |
 | corrgram | 1.16 | 2026-09-02 19:40:02 UTC | [open](../records/r-corrgram-e4e8c16a.md) |
 | dowser | 2.5.1 | 2026-08-20 11:20:10 UTC | [open](../records/r-dowser-d24a07c1.md) |
 | Elja | 1.0.1 | 2026-08-24 19:20:02 UTC | [open](../records/r-elja-f8285cbf.md) |
@@ -345,14 +346,14 @@ Records: `482`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| influxdata/telegraf | partial | 2026-09-03T17:12:32Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
+| influxdata/telegraf | partial | 2026-09-03T17:56:34Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 2noise/ChatTTS | partial | 2026-04-10T16:33:48Z | [open](../records/aim-s-2noise-chattts-5e993170.md) |
-| langfuse/langfuse | partial | 2026-09-03T17:14:31Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
+| langfuse/langfuse | partial | 2026-09-03T17:55:23Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
 | microsoft/semantic-kernel | partial | 2026-09-03T16:59:46Z | [open](../records/aim-s-microsoft-semantic-kernel-ef95bef0.md) |
 | MLflow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-mlflow-1732aa2b.md) |
 | OpenTelemetry Semantic Conventions For GenAI | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-opentelemetry-semantic-conventions-for-genai-e834f611.md) |
@@ -387,7 +388,7 @@ Records: `482`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | CS-SI/eodag | unknown | github_search_does_not_include_release_date | [open](../records/maps-cs-si-eodag-f8cc9938.md) |
-| locationtech/jts | partial | 2026-08-13T21:48:56Z | [open](../records/maps-locationtech-jts-ec55d068.md) |
+| locationtech/jts | partial | 2026-09-03T17:30:15Z | [open](../records/maps-locationtech-jts-ec55d068.md) |
 | meteoinfo/MeteoInfo | unknown | github_search_does_not_include_release_date | [open](../records/maps-meteoinfo-meteoinfo-097daf03.md) |
 | opengeos/geospatial-data-catalogs | partial | 2026-09-03T05:33:57Z | [open](../records/maps-opengeos-geospatial-data-catalogs-b0742f74.md) |
 | opengeos/whitebox-python | unknown | github_search_does_not_include_release_date | [open](../records/maps-opengeos-whitebox-python-32519701.md) |

@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-03T17:20:55+00:00`
+Generated: `2026-09-03T18:27:09+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -14,9 +14,9 @@ Generated: `2026-09-03T17:20:55+00:00`
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (42)](by-category/debugger.md) · [Dependency Manager (93)](by-category/dependency-manager.md) · [Documentation (96)](by-category/documentation.md)
 [Embedded Hardware (54)](by-category/embedded-hardware.md) · [Ffi Bindings (402)](by-category/ffi-bindings.md) · [Filesystem Os (1371)](by-category/filesystem-os.md) · [Formatter (599)](by-category/formatter.md)
 [Framework (54)](by-category/framework.md) · [Fuzzer (53)](by-category/fuzzer.md) · [Game Engine Game Dev (169)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1304)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (356)](by-category/image-audio-dsp.md) · [Interop Bindings (57)](by-category/interop-bindings.md) · [Interpreter Runtime (250)](by-category/interpreter-runtime.md) · [Jit Vm (60)](by-category/jit-vm.md)
-[Language Server (27)](by-category/language-server.md) · [Language Specification (1374)](by-category/language-specification.md) · [Library (5235)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (43)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (482)](by-category/logging-observability.md) · [Machine Learning (643)](by-category/machine-learning.md)
+[Image Audio Dsp (356)](by-category/image-audio-dsp.md) · [Interop Bindings (58)](by-category/interop-bindings.md) · [Interpreter Runtime (250)](by-category/interpreter-runtime.md) · [Jit Vm (60)](by-category/jit-vm.md)
+[Language Server (27)](by-category/language-server.md) · [Language Specification (1374)](by-category/language-specification.md) · [Library (5237)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (43)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (483)](by-category/logging-observability.md) · [Machine Learning (643)](by-category/machine-learning.md)
 [Math Numeric Scientific (83)](by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](by-category/memory-analyzer.md) · [Message Broker (36)](by-category/message-broker.md) · [Networking Http (965)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (411)](by-category/package-manager.md) · [Parser Lexer Ast (998)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (278)](by-category/precommit-ci-quality.md)
 [Profiler (79)](by-category/profiler.md) · [Project Scaffolding (130)](by-category/project-scaffolding.md) · [Registry Repository (108)](by-category/registry-repository.md) · [Sanitizer (13)](by-category/sanitizer.md)
@@ -37,8 +37,8 @@ Generated: `2026-09-03T17:20:55+00:00`
 | Node.js/JavaScript | 2407 | 2330 | [Node.js/JavaScript](by-language/node-js-javascript.md) |
 | Node.js/TypeScript | 388 | 348 | [Node.js/TypeScript](by-language/node-js-typescript.md) |
 | Lua family | 1937 | 0 | [Lua family](by-language/lua-family.md) |
-| R | 1585 | 1585 | [R](by-language/r.md) |
-| Haskell | 1336 | 1323 | [Haskell](by-language/haskell.md) |
+| R | 1588 | 1588 | [R](by-language/r.md) |
+| Haskell | 1337 | 1324 | [Haskell](by-language/haskell.md) |
 | Matlab | 287 | 0 | [Matlab](by-language/matlab.md) |
 | Octave | 141 | 140 | [Octave](by-language/octave.md) |
 | C-Sharp | 150 | 150 | [C-Sharp](by-language/c-sharp.md) |
@@ -125,16 +125,16 @@ Generated: `2026-09-03T17:20:55+00:00`
 | Game Engine Game Dev | 169 | [game_engine_game_dev](by-category/game-engine-game-dev.md) |
 | Ide Editor Integration | 1304 | [ide_editor_integration](by-category/ide-editor-integration.md) |
 | Image Audio Dsp | 356 | [image_audio_dsp](by-category/image-audio-dsp.md) |
-| Interop Bindings | 57 | [interop_bindings](by-category/interop-bindings.md) |
+| Interop Bindings | 58 | [interop_bindings](by-category/interop-bindings.md) |
 | Interpreter Runtime | 250 | [interpreter_runtime](by-category/interpreter-runtime.md) |
 | Jit Vm | 60 | [jit_vm](by-category/jit-vm.md) |
 | Language Server | 27 | [language_server](by-category/language-server.md) |
 | Language Specification | 1374 | [language_specification](by-category/language-specification.md) |
-| Library | 5235 | [library](by-category/library.md) |
+| Library | 5237 | [library](by-category/library.md) |
 | Lint Plugin | 1 | [lint_plugin](by-category/lint-plugin.md) |
 | Lint Rule Pack | 43 | [lint_rule_pack](by-category/lint-rule-pack.md) |
 | Linter | 347 | [linter](by-category/linter.md) |
-| Logging Observability | 482 | [logging_observability](by-category/logging-observability.md) |
+| Logging Observability | 483 | [logging_observability](by-category/logging-observability.md) |
 | Machine Learning | 643 | [machine_learning](by-category/machine-learning.md) |
 | Math Numeric Scientific | 83 | [math_numeric_scientific](by-category/math-numeric-scientific.md) |
 | Memory Analyzer | 88 | [memory_analyzer](by-category/memory-analyzer.md) |
@@ -174,8 +174,8 @@ Generated: `2026-09-03T17:20:55+00:00`
 | Node.js/JavaScript | 2330 | 77 |
 | Node.js/TypeScript | 348 | 40 |
 | Lua family | 0 | 1937 |
-| R | 1585 | 0 |
-| Haskell | 1323 | 13 |
+| R | 1588 | 0 |
+| Haskell | 1324 | 13 |
 | Matlab | 0 | 287 |
 | Octave | 140 | 1 |
 | C-Sharp | 150 | 0 |

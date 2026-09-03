@@ -1,6 +1,6 @@
 # R
 
-Records: `1585`
+Records: `1588`
 
 ## Navigation
 
@@ -16,9 +16,9 @@ Records: `1585`
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (93)](../by-category/dependency-manager.md) · [Documentation (96)](../by-category/documentation.md)
 [Embedded Hardware (54)](../by-category/embedded-hardware.md) · [Ffi Bindings (402)](../by-category/ffi-bindings.md) · [Filesystem Os (1371)](../by-category/filesystem-os.md) · [Formatter (599)](../by-category/formatter.md)
 [Framework (54)](../by-category/framework.md) · [Fuzzer (53)](../by-category/fuzzer.md) · [Game Engine Game Dev (169)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1304)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (356)](../by-category/image-audio-dsp.md) · [Interop Bindings (57)](../by-category/interop-bindings.md) · [Interpreter Runtime (250)](../by-category/interpreter-runtime.md) · [Jit Vm (60)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1374)](../by-category/language-specification.md) · [Library (5235)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (482)](../by-category/logging-observability.md) · [Machine Learning (643)](../by-category/machine-learning.md)
+[Image Audio Dsp (356)](../by-category/image-audio-dsp.md) · [Interop Bindings (58)](../by-category/interop-bindings.md) · [Interpreter Runtime (250)](../by-category/interpreter-runtime.md) · [Jit Vm (60)](../by-category/jit-vm.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1374)](../by-category/language-specification.md) · [Library (5237)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (483)](../by-category/logging-observability.md) · [Machine Learning (643)](../by-category/machine-learning.md)
 [Math Numeric Scientific (83)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (36)](../by-category/message-broker.md) · [Networking Http (965)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (411)](../by-category/package-manager.md) · [Parser Lexer Ast (998)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (278)](../by-category/precommit-ci-quality.md)
 [Profiler (79)](../by-category/profiler.md) · [Project Scaffolding (130)](../by-category/project-scaffolding.md) · [Registry Repository (108)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
@@ -510,6 +510,7 @@ Records: `1585`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [arcgisutils](../records/r-arcgisutils-9c834bfb.md) | 0.6.1 | 2026-09-03 05:21:01 UTC | registry-derived |
+| [kerasnip](../records/r-kerasnip-1cf976b9.md) | 0.2.0 | 2026-09-03 17:20:02 UTC | registry-derived |
 | [runExamplesWrapper](../records/r-runexampleswrapper-73dc6e8d.md) | 2.0 | 2026-08-28 07:00:27 UTC | registry-derived |
 
 ### Interpreter Runtime
@@ -1059,6 +1060,7 @@ Records: `1585`
 | [vetiver](../records/r-vetiver-179837f5.md) | 0.2.8 | 2026-08-23 06:40:02 UTC | registry-derived |
 | [vinereg](../records/r-vinereg-8449e8d6.md) | 0.13.0 | 2026-08-31 21:50:02 UTC | registry-derived |
 | [vitae](../records/r-vitae-9ab3701e.md) | 0.7.0 | 2026-08-21 07:50:02 UTC | registry-derived |
+| [vntrs](../records/r-vntrs-92ffc68a.md) | 0.3.0 | 2026-09-03 17:30:02 UTC | registry-derived |
 | [walking](../records/r-walking-3d721db5.md) | 0.8.2 | 2026-08-25 11:00:02 UTC | registry-derived |
 | [WDI](../records/r-wdi-0cc5328b.md) | 2.8.0 | 2026-08-20 05:23:57 UTC | registry-derived |
 | [wdm](../records/r-wdm-e18b269e.md) | 0.3.0 | 2026-08-31 22:10:02 UTC | registry-derived |
@@ -1098,6 +1100,7 @@ Records: `1585`
 | [bayesqm](../records/r-bayesqm-5bfa0e0e.md) | 0.2.0 | 2026-08-20 10:52:15 UTC | registry-derived |
 | [BCGcalc](../records/r-bcgcalc-1fbecb80.md) | 2.3.1 | 2026-08-08 10:30:02 UTC | registry-derived |
 | [bios2mds](../records/r-bios2mds-ccbe3b63.md) | 1.2.4 | 2026-08-21 17:40:08 UTC | registry-derived |
+| [casebase](../records/r-casebase-aea74542.md) | 0.10.7 | 2026-09-03 17:50:02 UTC | registry-derived |
 | [corrgram](../records/r-corrgram-e4e8c16a.md) | 1.16 | 2026-09-02 19:40:02 UTC | registry-derived |
 | [dowser](../records/r-dowser-d24a07c1.md) | 2.5.1 | 2026-08-20 11:20:10 UTC | registry-derived |
 | [Elja](../records/r-elja-f8285cbf.md) | 1.0.1 | 2026-08-24 19:20:02 UTC | registry-derived |

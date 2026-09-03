@@ -1,6 +1,6 @@
 # UNICAGD Programming Systems Discovery Catalog
 
-Generated: `2026-09-03T17:20:55+00:00`
+Generated: `2026-09-03T18:27:09+00:00`
 
 This repository is a Markdown explorer for a systems-engineering programming corpus. It preserves the master JSON seed, expands it with registry-derived ecosystem records, and tracks release metadata without guessing unknown dates.
 
@@ -22,9 +22,9 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 [Dead Code Dependency Analysis (5)](catalog/by-category/dead-code-dependency-analysis.md) · [Debugger (42)](catalog/by-category/debugger.md) · [Dependency Manager (93)](catalog/by-category/dependency-manager.md) · [Documentation (96)](catalog/by-category/documentation.md)
 [Embedded Hardware (54)](catalog/by-category/embedded-hardware.md) · [Ffi Bindings (402)](catalog/by-category/ffi-bindings.md) · [Filesystem Os (1371)](catalog/by-category/filesystem-os.md) · [Formatter (599)](catalog/by-category/formatter.md)
 [Framework (54)](catalog/by-category/framework.md) · [Fuzzer (53)](catalog/by-category/fuzzer.md) · [Game Engine Game Dev (169)](catalog/by-category/game-engine-game-dev.md) · [Ide Editor Integration (1304)](catalog/by-category/ide-editor-integration.md)
-[Image Audio Dsp (356)](catalog/by-category/image-audio-dsp.md) · [Interop Bindings (57)](catalog/by-category/interop-bindings.md) · [Interpreter Runtime (250)](catalog/by-category/interpreter-runtime.md) · [Jit Vm (60)](catalog/by-category/jit-vm.md)
-[Language Server (27)](catalog/by-category/language-server.md) · [Language Specification (1374)](catalog/by-category/language-specification.md) · [Library (5235)](catalog/by-category/library.md) · [Lint Plugin (1)](catalog/by-category/lint-plugin.md)
-[Lint Rule Pack (43)](catalog/by-category/lint-rule-pack.md) · [Linter (347)](catalog/by-category/linter.md) · [Logging Observability (482)](catalog/by-category/logging-observability.md) · [Machine Learning (643)](catalog/by-category/machine-learning.md)
+[Image Audio Dsp (356)](catalog/by-category/image-audio-dsp.md) · [Interop Bindings (58)](catalog/by-category/interop-bindings.md) · [Interpreter Runtime (250)](catalog/by-category/interpreter-runtime.md) · [Jit Vm (60)](catalog/by-category/jit-vm.md)
+[Language Server (27)](catalog/by-category/language-server.md) · [Language Specification (1374)](catalog/by-category/language-specification.md) · [Library (5237)](catalog/by-category/library.md) · [Lint Plugin (1)](catalog/by-category/lint-plugin.md)
+[Lint Rule Pack (43)](catalog/by-category/lint-rule-pack.md) · [Linter (347)](catalog/by-category/linter.md) · [Logging Observability (483)](catalog/by-category/logging-observability.md) · [Machine Learning (643)](catalog/by-category/machine-learning.md)
 [Math Numeric Scientific (83)](catalog/by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](catalog/by-category/memory-analyzer.md) · [Message Broker (36)](catalog/by-category/message-broker.md) · [Networking Http (965)](catalog/by-category/networking-http.md)
 [Other (14)](catalog/by-category/other.md) · [Package Manager (411)](catalog/by-category/package-manager.md) · [Parser Lexer Ast (998)](catalog/by-category/parser-lexer-ast.md) · [Precommit Ci Quality (278)](catalog/by-category/precommit-ci-quality.md)
 [Profiler (79)](catalog/by-category/profiler.md) · [Project Scaffolding (130)](catalog/by-category/project-scaffolding.md) · [Registry Repository (108)](catalog/by-category/registry-repository.md) · [Sanitizer (13)](catalog/by-category/sanitizer.md)
@@ -37,12 +37,12 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 | Metric | Count |
 | --- | ---: |
 | Source records | 968 |
-| Canonical identity pages | 24708 |
+| Canonical identity pages | 24712 |
 | Expansion records added | 8605 |
 | Release checks attempted | 1200 |
-| Known stable release fields | 9942 |
+| Known stable release fields | 9946 |
 | Unknown stable release fields | 14766 |
-| Fetch errors recorded | 1069 |
+| Fetch errors recorded | 988 |
 | Target identity count | 24000 |
 
 ## Language Scope

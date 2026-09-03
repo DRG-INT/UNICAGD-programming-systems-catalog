@@ -16,9 +16,9 @@ Records: `1304`
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (96)](documentation.md)
 [Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1371)](filesystem-os.md) · [Formatter (599)](formatter.md)
 [Framework (54)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (169)](game-engine-game-dev.md) · **[Ide Editor Integration (1304)](ide-editor-integration.md)**
-[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (250)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1374)](language-specification.md) · [Library (5235)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (482)](logging-observability.md) · [Machine Learning (643)](machine-learning.md)
+[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (250)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1374)](language-specification.md) · [Library (5237)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (483)](logging-observability.md) · [Machine Learning (643)](machine-learning.md)
 [Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (965)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (411)](package-manager.md) · [Parser Lexer Ast (998)](parser-lexer-ast.md) · [Precommit Ci Quality (278)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
@@ -187,8 +187,8 @@ Records: `1304`
 | @launchdarkly/node-server-sdk | 9.13.1 | 2026-08-18T19:55:32.194Z | [open](../records/node-js-javascript-launchdarkly-node-server-sdk-ee82236b.md) |
 | @launchdarkly/node-server-sdk-dynamodb | 6.2.37 | 2026-08-18T19:56:38.441Z | [open](../records/node-js-javascript-launchdarkly-node-server-sdk-dynamodb-3fac3645.md) |
 | @launchdarkly/node-server-sdk-redis | 4.2.36 | 2026-08-18T19:56:59.738Z | [open](../records/node-js-javascript-launchdarkly-node-server-sdk-redis-9016e0e8.md) |
-| @launchdarkly/openfeature-js-server-common | 1.1.0 | 2026-08-25T17:02:55.559Z | [open](../records/node-js-javascript-launchdarkly-openfeature-js-server-common-d3184ea6.md) |
-| @launchdarkly/openfeature-node-server | 1.4.0 | 2026-08-25T17:04:27.758Z | [open](../records/node-js-javascript-launchdarkly-openfeature-node-server-febef595.md) |
+| @launchdarkly/openfeature-js-server-common | 2.0.0 | 2026-09-03T17:57:57.937Z | [open](../records/node-js-javascript-launchdarkly-openfeature-js-server-common-d3184ea6.md) |
+| @launchdarkly/openfeature-node-server | 2.0.0 | 2026-09-03T17:59:15.784Z | [open](../records/node-js-javascript-launchdarkly-openfeature-node-server-febef595.md) |
 | @launchdarkly/vercel-server-sdk | 1.3.55 | 2026-08-18T19:55:41.397Z | [open](../records/node-js-javascript-launchdarkly-vercel-server-sdk-18e8bdb3.md) |
 | @lit-labs/ssr-dom-shim | 1.6.0 | 2026-05-14T03:55:57.027Z | [open](../records/node-js-javascript-lit-labs-ssr-dom-shim-dbd88335.md) |
 | @lvce-editor/server | 0.112.17 | 2026-09-03T14:50:29.099Z | [open](../records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
@@ -601,7 +601,7 @@ Records: `1304`
 | flutter_background | 1.3.1 | 2026-03-09T20:39:33.447860Z | [open](../records/dart-flutter-background-7c392887.md) |
 | flutter_box_transform | 0.4.7 | 2025-03-26T10:53:15.777522Z | [open](../records/dart-flutter-box-transform-16ba1d97.md) |
 | flutter_image_slideshow | 0.1.6 | 2023-07-02T05:42:10.674055Z | [open](../records/dart-flutter-image-slideshow-e2e6ea1f.md) |
-| flutter_lucide | 1.39.0 | 2026-09-01T16:54:28.996480Z | [open](../records/dart-flutter-lucide-ac11e8f7.md) |
+| flutter_lucide | 1.40.0 | 2026-09-03T18:03:46.104112Z | [open](../records/dart-flutter-lucide-ac11e8f7.md) |
 | flutter_nfc_kit | 3.6.2 | 2026-01-20T15:23:42.703588Z | [open](../records/dart-flutter-nfc-kit-0b36db6d.md) |
 | flutter_pdfview | 1.4.5 | 2026-08-03T08:46:40.273636Z | [open](../records/dart-flutter-pdfview-eb6c3523.md) |
 | flutter_redux | 0.10.0 | 2022-05-14T16:57:43.726716Z | [open](../records/dart-flutter-redux-e7325a5a.md) |
@@ -678,12 +678,12 @@ Records: `1304`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-03T13:31:40Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-03T17:19:22Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-03T18:17:12Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-03T04:03:18Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-02T14:01:53Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-03T15:10:08Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-03T18:12:36Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-03T17:02:27Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
-| upstash/context7 | partial | 2026-09-03T12:40:49Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
+| upstash/context7 | partial | 2026-09-03T18:07:10Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
 
 ## Icons and Logos
@@ -729,7 +729,7 @@ Records: `1304`
 | listyque/TACTIC-Handler | partial | 2024-09-23T13:12:49Z | [open](../records/assets-listyque-tactic-handler-4eac647f.md) |
 | projectdiscovery/cloudlist | partial | 2026-08-31T15:19:04Z | [open](../records/assets-projectdiscovery-cloudlist-3b29358e.md) |
 | Specifyapp/parsers | partial | 2024-08-30T13:23:14Z | [open](../records/assets-specifyapp-parsers-804be31e.md) |
-| tejaswigowda/ffmpeg-webCLI | partial | 2026-08-28T23:09:46Z | [open](../records/assets-tejaswigowda-ffmpeg-webcli-e2d7593b.md) |
+| tejaswigowda/ffmpeg-webCLI | partial | 2026-09-03T01:41:12Z | [open](../records/assets-tejaswigowda-ffmpeg-webcli-e2d7593b.md) |
 | trickest/insiders | partial | 2023-09-25T15:20:03Z | [open](../records/assets-trickest-insiders-50e57fb3.md) |
 | vulture-s/arkiv | partial | 2026-09-03T09:14:49Z | [open](../records/assets-vulture-s-arkiv-be252330.md) |
 
@@ -1513,7 +1513,7 @@ Records: `1304`
 | dbForge Edge | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-dbforge-edge-707600a6.md) |
 | dzharii/awesome-elasticsearch | partial | 2025-05-07T23:28:38Z | [open](../records/databases-dzharii-awesome-elasticsearch-81171c8b.md) |
 | ebogdum/callfs | partial | 2026-07-31T19:21:32Z | [open](../records/databases-ebogdum-callfs-c43437b9.md) |
-| facebook/rocksdb | partial | 2026-09-03T04:49:35Z | [open](../records/databases-facebook-rocksdb-a5b51900.md) |
+| facebook/rocksdb | partial | 2026-09-03T17:46:31Z | [open](../records/databases-facebook-rocksdb-a5b51900.md) |
 | freakmaxi/kertish-dos | partial | 2024-12-15T20:29:43Z | [open](../records/databases-freakmaxi-kertish-dos-06018bc3.md) |
 | fuzhengwei/CodeGuide | partial | 2026-09-02T13:50:13Z | [open](../records/databases-fuzhengwei-codeguide-a9f99769.md) |
 | garystafford/tickit-data-lake-demo | partial | 2022-01-26T03:30:20Z | [open](../records/databases-garystafford-tickit-data-lake-demo-11e83eee.md) |

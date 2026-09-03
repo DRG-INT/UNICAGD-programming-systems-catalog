@@ -16,9 +16,9 @@ Records: `643`
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (96)](documentation.md)
 [Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1371)](filesystem-os.md) · [Formatter (599)](formatter.md)
 [Framework (54)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (169)](game-engine-game-dev.md) · [Ide Editor Integration (1304)](ide-editor-integration.md)
-[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (250)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1374)](language-specification.md) · [Library (5235)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (482)](logging-observability.md) · **[Machine Learning (643)](machine-learning.md)**
+[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (250)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1374)](language-specification.md) · [Library (5237)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (483)](logging-observability.md) · **[Machine Learning (643)](machine-learning.md)**
 [Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (965)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (411)](package-manager.md) · [Parser Lexer Ast (998)](parser-lexer-ast.md) · [Precommit Ci Quality (278)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
@@ -467,16 +467,16 @@ Records: `643`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ahujasid/blender-mcp | partial | 2026-09-02T07:13:16Z | [open](../records/aim-s-ahujasid-blender-mcp-814a3c64.md) |
-| bojieli/ai-agent-book | partial | 2026-09-03T16:55:58Z | [open](../records/aim-s-bojieli-ai-agent-book-5a1d8804.md) |
+| bojieli/ai-agent-book | partial | 2026-09-03T17:33:27Z | [open](../records/aim-s-bojieli-ai-agent-book-5a1d8804.md) |
 | chatchat-space/Langchain-Chatchat | partial | 2025-11-10T09:27:42Z | [open](../records/aim-s-chatchat-space-langchain-chatchat-074047ac.md) |
 | datawhalechina/happy-llm | partial | 2026-08-08T17:18:48Z | [open](../records/aim-s-datawhalechina-happy-llm-00d4ee33.md) |
 | datawhalechina/hello-agents | partial | 2026-08-18T06:51:35Z | [open](../records/aim-s-datawhalechina-hello-agents-7c22b3b1.md) |
 | datawhalechina/self-llm | partial | 2026-08-26T06:33:41Z | [open](../records/aim-s-datawhalechina-self-llm-f636cd5d.md) |
-| firecrawl/firecrawl | partial | 2026-09-03T16:29:58Z | [open](../records/aim-s-firecrawl-firecrawl-e23e3125.md) |
+| firecrawl/firecrawl | partial | 2026-09-03T18:21:43Z | [open](../records/aim-s-firecrawl-firecrawl-e23e3125.md) |
 | HKUDS/Vibe-Trading | partial | 2026-09-02T09:32:29Z | [open](../records/aim-s-hkuds-vibe-trading-eb525e68.md) |
 | Hugging Face Transformers | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-hugging-face-transformers-9b7d820e.md) |
 | ItzCrazyKns/Vane | partial | 2026-09-01T14:12:12Z | [open](../records/aim-s-itzcrazykns-vane-331d2e53.md) |
-| janhq/jan | partial | 2026-09-03T16:43:30Z | [open](../records/aim-s-janhq-jan-f71b49a2.md) |
+| janhq/jan | partial | 2026-09-03T18:02:33Z | [open](../records/aim-s-janhq-jan-f71b49a2.md) |
 | JAX | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-jax-160b4e37.md) |
 | jeecgboot/JeecgBoot | partial | 2026-09-02T14:48:27Z | [open](../records/aim-s-jeecgboot-jeecgboot-4bd956b2.md) |
 | JuliusBrussee/caveman | partial | 2026-09-02T13:48:52Z | [open](../records/aim-s-juliusbrussee-caveman-aee4c811.md) |
@@ -485,8 +485,8 @@ Records: `643`
 | linshenkx/prompt-optimizer | partial | 2026-08-26T08:07:53Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
 | lyogavin/airllm | partial | 2026-09-03T06:24:24Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-03T00:42:42Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | partial | 2026-09-03T15:58:50Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
-| onyx-dot-app/onyx | partial | 2026-09-03T17:19:52Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
+| NousResearch/hermes-agent | partial | 2026-09-03T17:54:39Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| onyx-dot-app/onyx | partial | 2026-09-03T18:23:39Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-02T02:12:21Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-02T00:50:20Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
 | OpenHands/OpenHands | partial | 2026-09-03T17:03:46Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
@@ -499,7 +499,7 @@ Records: `643`
 | TauricResearch/TradingAgents | partial | 2026-09-01T05:38:45Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | partial | 2026-09-03T17:08:07Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| unslothai/unsloth | partial | 2026-09-03T18:16:56Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
 | VectifyAI/PageIndex | partial | 2026-09-03T10:37:14Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
 | virgiliojr94/book-to-skill | partial | 2026-09-01T14:51:58Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 
@@ -563,7 +563,7 @@ Records: `643`
 | ngageoint/hootenanny | partial | 2026-08-26T11:53:57Z | [open](../records/maps-ngageoint-hootenanny-ef5b4528.md) |
 | openeventdata/mordecai | partial | 2021-09-17T11:54:38Z | [open](../records/maps-openeventdata-mordecai-3aa9fc97.md) |
 | openstreetmap/openstreetmap-website | partial | 2026-09-02T23:44:37Z | [open](../records/maps-openstreetmap-openstreetmap-website-e9c62754.md) |
-| samapriya/awesome-gee-community-datasets | partial | 2026-09-03T02:03:19Z | [open](../records/maps-samapriya-awesome-gee-community-datasets-00fadfab.md) |
+| samapriya/awesome-gee-community-datasets | partial | 2026-09-03T16:53:33Z | [open](../records/maps-samapriya-awesome-gee-community-datasets-00fadfab.md) |
 | sylvainjule/kirby-locator | partial | 2025-08-06T23:10:42Z | [open](../records/maps-sylvainjule-kirby-locator-ad754d9e.md) |
 | w3reality/three-geo | unknown | github_search_does_not_include_release_date | [open](../records/maps-w3reality-three-geo-ccdac8ff.md) |
 

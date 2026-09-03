@@ -16,9 +16,9 @@ Records: `225`
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (93)](../by-category/dependency-manager.md) · [Documentation (96)](../by-category/documentation.md)
 [Embedded Hardware (54)](../by-category/embedded-hardware.md) · [Ffi Bindings (402)](../by-category/ffi-bindings.md) · [Filesystem Os (1371)](../by-category/filesystem-os.md) · [Formatter (599)](../by-category/formatter.md)
 [Framework (54)](../by-category/framework.md) · [Fuzzer (53)](../by-category/fuzzer.md) · [Game Engine Game Dev (169)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1304)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (356)](../by-category/image-audio-dsp.md) · [Interop Bindings (57)](../by-category/interop-bindings.md) · [Interpreter Runtime (250)](../by-category/interpreter-runtime.md) · [Jit Vm (60)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1374)](../by-category/language-specification.md) · [Library (5235)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (482)](../by-category/logging-observability.md) · [Machine Learning (643)](../by-category/machine-learning.md)
+[Image Audio Dsp (356)](../by-category/image-audio-dsp.md) · [Interop Bindings (58)](../by-category/interop-bindings.md) · [Interpreter Runtime (250)](../by-category/interpreter-runtime.md) · [Jit Vm (60)](../by-category/jit-vm.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1374)](../by-category/language-specification.md) · [Library (5237)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (483)](../by-category/logging-observability.md) · [Machine Learning (643)](../by-category/machine-learning.md)
 [Math Numeric Scientific (83)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (36)](../by-category/message-broker.md) · [Networking Http (965)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (411)](../by-category/package-manager.md) · [Parser Lexer Ast (998)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (278)](../by-category/precommit-ci-quality.md)
 [Profiler (79)](../by-category/profiler.md) · [Project Scaffolding (130)](../by-category/project-scaffolding.md) · [Registry Repository (108)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
@@ -176,7 +176,7 @@ Records: `225`
 | [alvin-tosh/Malware-Exhibit](../records/assembly-alvin-tosh-malware-exhibit-e411e5da.md) | partial | 2024-01-12T06:43:27Z | registry-derived |
 | [apple/swift-crypto](../records/assembly-apple-swift-crypto-1f447802.md) | partial | 2026-09-02T09:52:42Z | registry-derived |
 | [Apress/low-level-programming](../records/assembly-apress-low-level-programming-3b2dd27a.md) | partial | 2023-11-27T22:46:21Z | registry-derived |
-| [aws/aws-lc](../records/assembly-aws-aws-lc-29f8be23.md) | partial | 2026-09-03T16:50:31Z | registry-derived |
+| [aws/aws-lc](../records/assembly-aws-aws-lc-29f8be23.md) | partial | 2026-09-03T17:43:05Z | registry-derived |
 | [below/HelloSilicon](../records/assembly-below-hellosilicon-8ff6614f.md) | partial | 2026-05-15T21:16:21Z | registry-derived |
 | [bitdump/BLHeli](../records/assembly-bitdump-blheli-5d346476.md) | partial | 2025-08-21T07:30:10Z | registry-derived |
 | [blackbird71SR/Hello-World](../records/assembly-blackbird71sr-hello-world-2fa43546.md) | partial | 2024-03-02T10:40:36Z | registry-derived |
@@ -251,7 +251,7 @@ Records: `225`
 | [pret/pokeyellow](../records/assembly-pret-pokeyellow-f91bcc26.md) | partial | 2026-09-02T15:25:06Z | registry-derived |
 | [PrincetonUniversity/openpiton](../records/assembly-princetonuniversity-openpiton-eceb776d.md) | partial | 2026-02-25T17:35:46Z | registry-derived |
 | [RandalLinden/DOOM-FX](../records/assembly-randallinden-doom-fx-76b45172.md) | partial | 2022-06-19T18:26:02Z | registry-derived |
-| [Rangi42/polishedcrystal](../records/assembly-rangi42-polishedcrystal-55bf1d37.md) | partial | 2026-09-03T15:04:13Z | registry-derived |
+| [Rangi42/polishedcrystal](../records/assembly-rangi42-polishedcrystal-55bf1d37.md) | partial | 2026-09-03T18:23:13Z | registry-derived |
 | [ReturnInfinity/BareMetal](../records/assembly-returninfinity-baremetal-0b151ed8.md) | partial | 2026-06-12T19:06:32Z | registry-derived |
 | [ReturnInfinity/BareMetal-OS-legacy](../records/assembly-returninfinity-baremetal-os-legacy-09317d7c.md) | partial | 2017-11-20T15:29:43Z | registry-derived |
 | [RibShark/OmniDrive](../records/assembly-ribshark-omnidrive-32257d20.md) | partial | 2026-07-18T06:48:57Z | registry-derived |
@@ -276,7 +276,7 @@ Records: `225`
 | [vxunderground/MalwareSourceCode](../records/assembly-vxunderground-malwaresourcecode-7c22542f.md) | partial | 2026-05-30T07:11:00Z | registry-derived |
 | [xiph/rav1e](../records/assembly-xiph-rav1e-5183562e.md) | partial | 2026-09-02T20:51:01Z | registry-derived |
 | [xuhongv/StudyInEsp8266](../records/assembly-xuhongv-studyinesp8266-c596a5a9.md) | partial | 2021-05-28T09:37:16Z | registry-derived |
-| [z88dk/z88dk](../records/assembly-z88dk-z88dk-83b731fe.md) | partial | 2026-09-03T17:17:00Z | registry-derived |
+| [z88dk/z88dk](../records/assembly-z88dk-z88dk-83b731fe.md) | partial | 2026-09-03T17:48:41Z | registry-derived |
 | [Zeal8bit/Zeal-8-bit-OS](../records/assembly-zeal8bit-zeal-8-bit-os-acb9785d.md) | partial | 2026-09-02T14:27:06Z | registry-derived |
 | [zladx/LADX-Disassembly](../records/assembly-zladx-ladx-disassembly-b62b79d3.md) | partial | 2026-08-27T18:45:27Z | registry-derived |
 

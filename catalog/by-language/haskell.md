@@ -1,6 +1,6 @@
 # Haskell
 
-Records: `1336`
+Records: `1337`
 
 ## Navigation
 
@@ -16,9 +16,9 @@ Records: `1336`
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (93)](../by-category/dependency-manager.md) · [Documentation (96)](../by-category/documentation.md)
 [Embedded Hardware (54)](../by-category/embedded-hardware.md) · [Ffi Bindings (402)](../by-category/ffi-bindings.md) · [Filesystem Os (1371)](../by-category/filesystem-os.md) · [Formatter (599)](../by-category/formatter.md)
 [Framework (54)](../by-category/framework.md) · [Fuzzer (53)](../by-category/fuzzer.md) · [Game Engine Game Dev (169)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1304)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (356)](../by-category/image-audio-dsp.md) · [Interop Bindings (57)](../by-category/interop-bindings.md) · [Interpreter Runtime (250)](../by-category/interpreter-runtime.md) · [Jit Vm (60)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1374)](../by-category/language-specification.md) · [Library (5235)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (482)](../by-category/logging-observability.md) · [Machine Learning (643)](../by-category/machine-learning.md)
+[Image Audio Dsp (356)](../by-category/image-audio-dsp.md) · [Interop Bindings (58)](../by-category/interop-bindings.md) · [Interpreter Runtime (250)](../by-category/interpreter-runtime.md) · [Jit Vm (60)](../by-category/jit-vm.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1374)](../by-category/language-specification.md) · [Library (5237)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (483)](../by-category/logging-observability.md) · [Machine Learning (643)](../by-category/machine-learning.md)
 [Math Numeric Scientific (83)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (36)](../by-category/message-broker.md) · [Networking Http (965)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (411)](../by-category/package-manager.md) · [Parser Lexer Ast (998)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (278)](../by-category/precommit-ci-quality.md)
 [Profiler (79)](../by-category/profiler.md) · [Project Scaffolding (130)](../by-category/project-scaffolding.md) · [Registry Repository (108)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
@@ -811,6 +811,7 @@ Records: `1336`
 | [ihaskell](../records/haskell-ihaskell-b5eca6d8.md) | 0.13.0.0 | 2025-11-15T12:58:18Z | registry-derived |
 | [ihaskell-hvega](../records/haskell-ihaskell-hvega-f9d2bf54.md) | 0.5.0.7 | 2026-01-09T00:12:25Z | registry-derived |
 | [influxdb](../records/haskell-influxdb-0b88f69b.md) | 1.9.3.2 | 2024-07-12T14:18:48Z | registry-derived |
+| [inj](../records/haskell-inj-59be0a7a.md) | 2.0 | 2026-09-03T18:02:48Z | registry-derived |
 | [inline-c](../records/haskell-inline-c-38f49f82.md) | 0.9.1.10 | 2023-09-29T21:34:42Z | registry-derived |
 | [inline-r](../records/haskell-inline-r-edc94016.md) | 1.0.2 | 2025-07-11T12:32:55Z | registry-derived |
 | [interval-algebra](../records/haskell-interval-algebra-1be2be58.md) | 2.2.0 | 2023-05-26T12:21:22Z | registry-derived |
@@ -1405,7 +1406,7 @@ Records: `1336`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [aihc-parser](../records/haskell-aihc-parser-d88ae54b.md) | 1.0.0.6 | 2026-09-02T14:05:07Z | registry-derived |
+| [aihc-parser](../records/haskell-aihc-parser-d88ae54b.md) | 2.0.0.0 | 2026-09-03T17:41:12Z | registry-derived |
 | [amazonka-elasticache](../records/haskell-amazonka-elasticache-0cc5aa14.md) | 2.0 | 2023-07-27T21:11:31Z | registry-derived |
 | [amazonka-elasticbeanstalk](../records/haskell-amazonka-elasticbeanstalk-366027e0.md) | 2.0 | 2023-07-27T21:11:35Z | registry-derived |
 | [amazonka-elastictranscoder](../records/haskell-amazonka-elastictranscoder-43c3d948.md) | 2.0 | 2023-07-27T21:11:48Z | registry-derived |

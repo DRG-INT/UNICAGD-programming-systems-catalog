@@ -16,9 +16,9 @@ Records: `599`
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (96)](documentation.md)
 [Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1371)](filesystem-os.md) · **[Formatter (599)](formatter.md)**
 [Framework (54)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (169)](game-engine-game-dev.md) · [Ide Editor Integration (1304)](ide-editor-integration.md)
-[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (250)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1374)](language-specification.md) · [Library (5235)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (482)](logging-observability.md) · [Machine Learning (643)](machine-learning.md)
+[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (250)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1374)](language-specification.md) · [Library (5237)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (483)](logging-observability.md) · [Machine Learning (643)](machine-learning.md)
 [Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (965)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (411)](package-manager.md) · [Parser Lexer Ast (998)](parser-lexer-ast.md) · [Precommit Ci Quality (278)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
@@ -170,8 +170,8 @@ Records: `599`
 | @doist/prettier-config | 4.0.1 | 2025-11-13T18:47:07.005Z | [open](../records/node-js-javascript-doist-prettier-config-45f71ae8.md) |
 | @excalidraw/prettier-config | 1.0.2 | 2021-02-25T14:12:02.335Z | [open](../records/node-js-javascript-excalidraw-prettier-config-c8b3ce2e.md) |
 | @exodus/prettier | 1.0.0 | 2023-09-12T15:23:38.560Z | [open](../records/node-js-javascript-exodus-prettier-04dd5e42.md) |
-| @formatjs/cli | 6.16.22 | 2026-08-30T15:53:06.298Z | [open](../records/node-js-javascript-formatjs-cli-5afa24d0.md) |
-| @formatjs/cli-lib | 9.0.8 | 2026-08-30T15:51:32.107Z | [open](../records/node-js-javascript-formatjs-cli-lib-def010ee.md) |
+| @formatjs/cli | 6.16.23 | 2026-09-03T17:24:23.589Z | [open](../records/node-js-javascript-formatjs-cli-5afa24d0.md) |
+| @formatjs/cli-lib | 9.0.9 | 2026-09-03T17:21:00.113Z | [open](../records/node-js-javascript-formatjs-cli-lib-def010ee.md) |
 | @forsakringskassan/prettier-config | 3.7.8 | 2026-07-25T01:10:43.405Z | [open](../records/node-js-javascript-forsakringskassan-prettier-config-fd4fa15b.md) |
 | @fsouza/prettierd | 0.29.0 | 2026-07-26T03:59:25.309Z | [open](../records/node-js-javascript-fsouza-prettierd-e36c93c2.md) |
 | @ganintegrity/prettier-config | 2.2.1 | 2026-06-08T07:17:05.224Z | [open](../records/node-js-javascript-ganintegrity-prettier-config-5beefee3.md) |
@@ -533,7 +533,7 @@ Records: `599`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-03T17:19:14Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-03T18:23:44Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-08-27T19:23:53Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Icons and Logos

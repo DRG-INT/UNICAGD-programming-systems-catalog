@@ -16,9 +16,9 @@ Records: `411`
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (96)](documentation.md)
 [Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1371)](filesystem-os.md) · [Formatter (599)](formatter.md)
 [Framework (54)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (169)](game-engine-game-dev.md) · [Ide Editor Integration (1304)](ide-editor-integration.md)
-[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (250)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1374)](language-specification.md) · [Library (5235)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (482)](logging-observability.md) · [Machine Learning (643)](machine-learning.md)
+[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (250)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1374)](language-specification.md) · [Library (5237)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (483)](logging-observability.md) · [Machine Learning (643)](machine-learning.md)
 [Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (965)](networking-http.md)
 [Other (14)](other.md) · **[Package Manager (411)](package-manager.md)** · [Parser Lexer Ast (998)](parser-lexer-ast.md) · [Precommit Ci Quality (278)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
@@ -304,7 +304,7 @@ Records: `411`
 | raysan5/rres | partial | 2026-08-12T10:35:04Z | [open](../records/assets-raysan5-rres-19e58697.md) |
 | RxLaboratory/Ramses | partial | 2024-10-16T08:21:05Z | [open](../records/assets-rxlaboratory-ramses-b3bc970c.md) |
 | Saalvage/AssimpNetter | partial | 2026-06-23T13:20:26Z | [open](../records/assets-saalvage-assimpnetter-ec5bd434.md) |
-| snapotter-hq/SnapOtter | partial | 2026-08-31T16:44:04Z | [open](../records/assets-snapotter-hq-snapotter-f5614eb5.md) |
+| snapotter-hq/SnapOtter | partial | 2026-09-03T14:36:56Z | [open](../records/assets-snapotter-hq-snapotter-f5614eb5.md) |
 | spotify/klio | partial | 2024-01-10T19:37:37Z | [open](../records/assets-spotify-klio-c9106254.md) |
 | Stolz/Assets | partial | 2020-02-01T12:06:15Z | [open](../records/assets-stolz-assets-766b2deb.md) |
 | torba-rb/torba | partial | 2023-08-18T09:14:31Z | [open](../records/assets-torba-rb-torba-6deb2fda.md) |
@@ -343,7 +343,7 @@ Records: `411`
 | daddykev/stardust-dsp | partial | 2025-09-03T18:15:54Z | [open](../records/space-maps-daddykev-stardust-dsp-ad11bf31.md) |
 | NeelPatra/Micro-Cap-12-Archive | partial | 2026-01-11T06:50:17Z | [open](../records/space-maps-neelpatra-micro-cap-12-archive-cb3664f9.md) |
 | Snowflake-Labs/sfguide-getting-started-with-snowpipe-streaming-apache-iceberg-snowflake-open-catalog | partial | 2025-06-09T17:11:17Z | [open](../records/space-maps-snowflake-labs-sfguide-getting-started-with-snowpipe-streaming-apache-iceberg-snowflake-open-catalog-300e96a6.md) |
-| spacetelescope/jwst | partial | 2026-09-01T22:38:27Z | [open](../records/space-maps-spacetelescope-jwst-eb2c4c25.md) |
+| spacetelescope/jwst | partial | 2026-09-03T17:52:41Z | [open](../records/space-maps-spacetelescope-jwst-eb2c4c25.md) |
 
 ## Effects
 
@@ -354,7 +354,7 @@ Records: `411`
 | Audio4Linux/JDSP4Linux | partial | 2026-08-29T16:29:46Z | [open](../records/effects-audio4linux-jdsp4linux-e90e4af9.md) |
 | beinteractive/LWRPAmbientOcclusion | partial | 2019-10-04T22:49:34Z | [open](../records/effects-beinteractive-lwrpambientocclusion-7b85e0e3.md) |
 | CialloKing/ba-click-fx | partial | 2026-09-02T18:36:19Z | [open](../records/effects-cialloking-ba-click-fx-b842180a.md) |
-| CyberAgentGameEntertainment/NovaShader | partial | 2026-09-03T05:45:32Z | [open](../records/effects-cyberagentgameentertainment-novashader-cfdfe2cf.md) |
+| CyberAgentGameEntertainment/NovaShader | partial | 2026-09-03T12:51:05Z | [open](../records/effects-cyberagentgameentertainment-novashader-cfdfe2cf.md) |
 | demonixis/SSGI-URP | partial | 2020-03-11T06:40:26Z | [open](../records/effects-demonixis-ssgi-urp-4db7e7d8.md) |
 | GarrettGunnell/Post-Processing | partial | 2024-06-30T11:16:48Z | [open](../records/effects-garrettgunnell-post-processing-2bb2ca4a.md) |
 | GeorgePyralis/dsp-audio-fx | partial | 2026-03-13T11:59:59Z | [open](../records/effects-georgepyralis-dsp-audio-fx-f597d4dc.md) |

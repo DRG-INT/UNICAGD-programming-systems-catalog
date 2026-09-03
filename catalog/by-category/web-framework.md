@@ -16,9 +16,9 @@ Records: `448`
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (96)](documentation.md)
 [Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1371)](filesystem-os.md) · [Formatter (599)](formatter.md)
 [Framework (54)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (169)](game-engine-game-dev.md) · [Ide Editor Integration (1304)](ide-editor-integration.md)
-[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (250)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1374)](language-specification.md) · [Library (5235)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (482)](logging-observability.md) · [Machine Learning (643)](machine-learning.md)
+[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (250)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1374)](language-specification.md) · [Library (5237)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (483)](logging-observability.md) · [Machine Learning (643)](machine-learning.md)
 [Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (965)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (411)](package-manager.md) · [Parser Lexer Ast (998)](parser-lexer-ast.md) · [Precommit Ci Quality (278)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
@@ -279,7 +279,7 @@ Records: `448`
 | livereload | 0.10.3 | 2025-08-14T00:59:25.811Z | [open](../records/node-js-javascript-livereload-1a5bba84.md) |
 | local-web-server | 5.4.0 | 2024-08-01T08:46:19.834Z | [open](../records/node-js-javascript-local-web-server-ac235137.md) |
 | medooze-media-server | 1.156.2 | 2024-11-21T22:46:23.678Z | [open](../records/node-js-javascript-medooze-media-server-fdb7a179.md) |
-| mongodb-mcp-server | 2.1.0 | 2026-08-10T12:18:03.267Z | [open](../records/node-js-javascript-mongodb-mcp-server-f834c764.md) |
+| mongodb-mcp-server | 2.1.1 | 2026-09-03T18:21:29.972Z | [open](../records/node-js-javascript-mongodb-mcp-server-f834c764.md) |
 | moo-server | 1.3.0 | 2011-12-17T18:47:56.332Z | [open](../records/node-js-javascript-moo-server-f36813d9.md) |
 | mutation-server-protocol | 0.4.1 | 2026-01-16T13:56:25.257Z | [open](../records/node-js-javascript-mutation-server-protocol-97fe4ce4.md) |
 | NestJS | unknown | not_checked | [open](../records/node-js-javascript-nestjs-3cadec36.md) |
@@ -581,7 +581,7 @@ Records: `448`
 | dbgate/dbgate | partial | 2026-09-02T13:16:29Z | [open](../records/databases-dbgate-dbgate-67fc8232.md) |
 | doableware/djongo | partial | 2026-09-01T12:40:36Z | [open](../records/databases-doableware-djongo-55b89aa7.md) |
 | dotnetcore/FreeSql | partial | 2026-07-31T17:52:16Z | [open](../records/databases-dotnetcore-freesql-be272c12.md) |
-| googleapis/mcp-toolbox | partial | 2026-09-03T16:20:40Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
+| googleapis/mcp-toolbox | partial | 2026-09-03T18:22:38Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
 | lionheart/django-pyodbc | partial | 2023-01-29T16:42:06Z | [open](../records/databases-lionheart-django-pyodbc-c6078181.md) |
 | neondatabase/neon | partial | 2026-08-31T11:03:14Z | [open](../records/databases-neondatabase-neon-3c375148.md) |
 | parse-community/parse-server | partial | 2026-09-03T00:13:59Z | [open](../records/databases-parse-community-parse-server-9d5b6dd7.md) |

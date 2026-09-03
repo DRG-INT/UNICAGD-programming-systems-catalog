@@ -16,9 +16,9 @@ Records: `534`
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (96)](documentation.md)
 [Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1371)](filesystem-os.md) · [Formatter (599)](formatter.md)
 [Framework (54)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (169)](game-engine-game-dev.md) · [Ide Editor Integration (1304)](ide-editor-integration.md)
-[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (250)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1374)](language-specification.md) · [Library (5235)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (482)](logging-observability.md) · [Machine Learning (643)](machine-learning.md)
+[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (250)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1374)](language-specification.md) · [Library (5237)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (483)](logging-observability.md) · [Machine Learning (643)](machine-learning.md)
 [Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (965)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (411)](package-manager.md) · [Parser Lexer Ast (998)](parser-lexer-ast.md) · [Precommit Ci Quality (278)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
@@ -306,13 +306,13 @@ Records: `534`
 | @ionic/cli-framework-output | 2.2.8 | 2023-12-19T22:38:35.365Z | [open](../records/node-js-javascript-ionic-cli-framework-output-8324bb8a.md) |
 | @ionic/cli-framework-prompts | 2.1.13 | 2023-12-19T22:38:35.436Z | [open](../records/node-js-javascript-ionic-cli-framework-prompts-5599c31f.md) |
 | @knocklabs/cli | 1.2.3 | 2026-08-13T15:12:15.170Z | [open](../records/node-js-javascript-knocklabs-cli-62154908.md) |
-| @lightdash/cli | 2.118.1 | 2026-09-03T17:04:35.408Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
+| @lightdash/cli | 2.119.0 | 2026-09-03T17:34:06.939Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | @lingui/cli | 6.6.0 | 2026-07-24T13:52:53.439Z | [open](../records/node-js-javascript-lingui-cli-343f33ec.md) |
 | @maizzle/cli | 2.0.0 | 2024-12-16T17:59:24.900Z | [open](../records/node-js-javascript-maizzle-cli-a7a13457.md) |
 | @marp-team/marp-cli | 4.5.0 | 2026-07-17T23:07:09.399Z | [open](../records/node-js-javascript-marp-team-marp-cli-b69e1548.md) |
 | @metamask/messenger-cli | 0.2.0 | 2026-04-20T16:40:19.418Z | [open](../records/node-js-javascript-metamask-messenger-cli-15524c80.md) |
 | @microsoft/m365agentstoolkit-cli | 1.1.16 | 2026-09-03T09:20:17.630Z | [open](../records/node-js-javascript-microsoft-m365agentstoolkit-cli-3f536e69.md) |
-| @mintlify/cli | 4.0.1469 | 2026-09-03T07:33:46.706Z | [open](../records/node-js-javascript-mintlify-cli-64dbc59b.md) |
+| @mintlify/cli | 4.0.1470 | 2026-09-03T17:47:45.663Z | [open](../records/node-js-javascript-mintlify-cli-64dbc59b.md) |
 | @module-federation/cli | 2.9.0 | 2026-08-24T08:21:41.802Z | [open](../records/node-js-javascript-module-federation-cli-ad5965f3.md) |
 | @mongosh/logging | 5.2.0 | 2026-07-01T01:01:34.354Z | [open](../records/node-js-javascript-mongosh-logging-a2ed4564.md) |
 | @napi-rs/cli | 3.9.0 | 2026-09-02T16:11:20.951Z | [open](../records/node-js-javascript-napi-rs-cli-3160c98d.md) |
@@ -413,8 +413,8 @@ Records: `534`
 | lmnr-cli | 0.5.0 | 2026-08-21T15:24:37.896Z | [open](../records/node-js-javascript-lmnr-cli-446632fc.md) |
 | locize-cli | 12.7.0 | 2026-09-01T05:39:48.244Z | [open](../records/node-js-javascript-locize-cli-9156d8b9.md) |
 | meow | 14.1.0 | 2026-02-20T10:30:43.850Z | [open](../records/node-js-javascript-meow-f24d3a17.md) |
-| mint | 4.2.866 | 2026-09-03T07:33:49.900Z | [open](../records/node-js-javascript-mint-4de26fe3.md) |
-| mintlify | 4.2.866 | 2026-09-03T07:33:50.016Z | [open](../records/node-js-javascript-mintlify-3fade289.md) |
+| mint | 4.2.867 | 2026-09-03T17:47:48.740Z | [open](../records/node-js-javascript-mint-4de26fe3.md) |
+| mintlify | 4.2.867 | 2026-09-03T17:47:48.756Z | [open](../records/node-js-javascript-mintlify-3fade289.md) |
 | oclif | 5.0.0 | 2026-08-31T21:41:17.685Z | [open](../records/node-js-javascript-oclif-1e846831.md) |
 | openapi-merge-cli | 2.0.2 | 2026-08-08T02:12:42.793Z | [open](../records/node-js-javascript-openapi-merge-cli-834fc90c.md) |
 | ora | unknown | not_checked | [open](../records/node-js-javascript-ora-ad5f9a2f.md) |
@@ -524,7 +524,7 @@ Records: `534`
 | --- | --- | --- | --- |
 | esengine/DeepSeek-Reasonix | partial | 2026-09-03T16:55:04Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-03T17:19:15Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-03T18:00:09Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Icons and Logos
 
@@ -723,7 +723,7 @@ Records: `534`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ClickHouse/ClickHouse | partial | 2026-09-03T16:22:32Z | [open](../records/databases-clickhouse-clickhouse-9258f880.md) |
+| ClickHouse/ClickHouse | partial | 2026-09-03T18:24:20Z | [open](../records/databases-clickhouse-clickhouse-9258f880.md) |
 | ClickHouse/clickhouse-odbc | partial | 2026-08-18T15:43:22Z | [open](../records/databases-clickhouse-clickhouse-odbc-7cfc6ac3.md) |
 | golang-migrate/migrate | partial | 2026-08-31T23:57:55Z | [open](../records/databases-golang-migrate-migrate-1713bacf.md) |
 | housepower/ClickHouse-Native-JDBC | partial | 2025-06-22T09:22:59Z | [open](../records/databases-housepower-clickhouse-native-jdbc-8cec0869.md) |

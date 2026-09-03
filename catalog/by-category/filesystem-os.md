@@ -16,9 +16,9 @@ Records: `1371`
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (96)](documentation.md)
 [Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · **[Filesystem Os (1371)](filesystem-os.md)** · [Formatter (599)](formatter.md)
 [Framework (54)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (169)](game-engine-game-dev.md) · [Ide Editor Integration (1304)](ide-editor-integration.md)
-[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (250)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1374)](language-specification.md) · [Library (5235)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (482)](logging-observability.md) · [Machine Learning (643)](machine-learning.md)
+[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (250)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1374)](language-specification.md) · [Library (5237)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (483)](logging-observability.md) · [Machine Learning (643)](machine-learning.md)
 [Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (965)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (411)](package-manager.md) · [Parser Lexer Ast (998)](parser-lexer-ast.md) · [Precommit Ci Quality (278)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
@@ -564,7 +564,7 @@ Records: `1371`
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-08-30T15:02:19Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-03T17:11:22Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-03T18:18:27Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -697,7 +697,7 @@ Records: `1371`
 | CesiumGS/cesium-unreal | partial | 2026-09-02T15:59:11Z | [open](../records/maps-cesiumgs-cesium-unreal-403e1d28.md) |
 | cgohlke/geospatial-wheels | partial | 2026-08-20T01:20:34Z | [open](../records/maps-cgohlke-geospatial-wheels-6908f900.md) |
 | chrieke/awesome-geospatial-companies | partial | 2026-07-09T02:14:59Z | [open](../records/maps-chrieke-awesome-geospatial-companies-c415111d.md) |
-| databendlabs/databend | partial | 2026-09-03T16:09:42Z | [open](../records/maps-databendlabs-databend-b7f1b4ac.md) |
+| databendlabs/databend | partial | 2026-09-03T17:28:12Z | [open](../records/maps-databendlabs-databend-b7f1b4ac.md) |
 | deepVector/geospatial-machine-learning | partial | 2018-06-21T20:04:07Z | [open](../records/maps-deepvector-geospatial-machine-learning-e4503c88.md) |
 | dhconnelly/rtreego | partial | 2024-12-20T06:54:41Z | [open](../records/maps-dhconnelly-rtreego-d1b2c3e4.md) |
 | e-sensing/sits | partial | 2026-08-31T09:55:57Z | [open](../records/maps-e-sensing-sits-4d30513a.md) |
@@ -757,7 +757,7 @@ Records: `1371`
 | navit-gps/navit | partial | 2026-09-02T19:39:07Z | [open](../records/maps-navit-gps-navit-0e762219.md) |
 | nickurt/laravel-postcodeapi | partial | 2026-03-19T19:53:26Z | [open](../records/maps-nickurt-laravel-postcodeapi-068a50fa.md) |
 | opengeos/Awesome-GEE | partial | 2026-08-31T12:47:01Z | [open](../records/maps-opengeos-awesome-gee-3c8a68e0.md) |
-| opengeos/geoai | partial | 2026-08-31T03:04:41Z | [open](../records/maps-opengeos-geoai-b3d3977d.md) |
+| opengeos/geoai | partial | 2026-09-03T16:50:53Z | [open](../records/maps-opengeos-geoai-b3d3977d.md) |
 | opengeos/segment-geospatial | partial | 2026-08-31T20:50:37Z | [open](../records/maps-opengeos-segment-geospatial-a0da0edb.md) |
 | opengeos/streamlit-geospatial | partial | 2026-05-25T20:32:50Z | [open](../records/maps-opengeos-streamlit-geospatial-4c1a29ad.md) |
 | opengisch/QField | unknown | github_search_does_not_include_release_date | [open](../records/maps-opengisch-qfield-9105aa16.md) |
@@ -838,7 +838,7 @@ Records: `1371`
 | kumarprabhakaransaravanakumar-wq/terra-prospect | partial | 2026-06-15T01:37:13Z | [open](../records/space-maps-kumarprabhakaransaravanakumar-wq-terra-prospect-9bd9c3a2.md) |
 | mtickle/space-game | partial | 2026-08-21T10:36:59Z | [open](../records/space-maps-mtickle-space-game-790526f7.md) |
 | natashabatalha/picaso | partial | 2026-08-28T23:55:30Z | [open](../records/space-maps-natashabatalha-picaso-5a86c662.md) |
-| NyanCAD/Mosaic | partial | 2026-08-27T14:23:54Z | [open](../records/space-maps-nyancad-mosaic-169a54ac.md) |
+| NyanCAD/Mosaic | partial | 2026-09-03T14:25:01Z | [open](../records/space-maps-nyancad-mosaic-169a54ac.md) |
 | opensourcevdi/osvdi | partial | 2026-03-25T20:02:06Z | [open](../records/space-maps-opensourcevdi-osvdi-1f0aad73.md) |
 | spietari/PlanetaryMaps | partial | 2016-09-26T13:54:35Z | [open](../records/space-maps-spietari-planetarymaps-143f2d43.md) |
 | taylorcoffelt/macos-docker | partial | 2020-05-17T21:54:35Z | [open](../records/space-maps-taylorcoffelt-macos-docker-a9af7764.md) |
@@ -905,7 +905,7 @@ Records: `1371`
 | getoffmyhack/waveSDR | partial | 2026-08-01T17:26:02Z | [open](../records/effects-getoffmyhack-wavesdr-29b3c175.md) |
 | ghaerr/agg-2.6 | partial | 2023-09-13T00:27:54Z | [open](../records/effects-ghaerr-agg-2-6-d129da6e.md) |
 | gnuradio/gnuradio | partial | 2026-08-27T23:02:01Z | [open](../records/effects-gnuradio-gnuradio-792f9652.md) |
-| grizzlypeak3d/DJV | partial | 2026-09-03T02:00:29Z | [open](../records/effects-grizzlypeak3d-djv-a31a9ac6.md) |
+| grizzlypeak3d/DJV | partial | 2026-09-03T16:39:52Z | [open](../records/effects-grizzlypeak3d-djv-a31a9ac6.md) |
 | HEnquist/camilladsp | partial | 2026-09-03T06:46:33Z | [open](../records/effects-henquist-camilladsp-d941192e.md) |
 | hexianWeb/lego-stylized-nature | partial | 2026-07-08T07:37:58Z | [open](../records/effects-hexianweb-lego-stylized-nature-cb083959.md) |
 | hifiberry/hifiberry-os | partial | 2026-09-02T15:35:04Z | [open](../records/effects-hifiberry-hifiberry-os-23434356.md) |
