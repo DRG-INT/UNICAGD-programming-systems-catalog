@@ -18,13 +18,13 @@ Records: `582`
 [Framework (52)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1270)](ide-editor-integration.md)
 [Image Audio Dsp (354)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (241)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
 [Language Server (27)](language-server.md) · [Language Specification (1267)](language-specification.md) · [Library (5092)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (467)](logging-observability.md) · [Machine Learning (626)](machine-learning.md)
+[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (468)](logging-observability.md) · [Machine Learning (627)](machine-learning.md)
 [Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (954)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (406)](package-manager.md) · [Parser Lexer Ast (974)](parser-lexer-ast.md) · [Precommit Ci Quality (270)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (127)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (330)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (482)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (513)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (296)](type-checker.md)
-[Undefined Behavior Analyzer (1473)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (442)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
+[Undefined Behavior Analyzer (1473)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (443)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
 
 ## C99
 
@@ -531,7 +531,7 @@ Records: `582`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-03T08:20:32Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-03T09:21:24Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-08-27T19:23:53Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Font Briefcase
@@ -665,13 +665,13 @@ Records: `582`
 | iamsanmith/MetaSort | partial | 2026-05-17T12:19:55Z | [open](../records/photography-iamsanmith-metasort-55a2488c.md) |
 | jark006/JarkViewer | partial | 2026-06-30T18:46:05Z | [open](../records/photography-jark006-jarkviewer-384c10ce.md) |
 | jmathai/elodie | unknown | github_search_does_not_include_release_date | [open](../records/photography-jmathai-elodie-960b91b7.md) |
-| karimz1/imgcompress | partial | 2026-09-02T08:20:38Z | [open](../records/photography-karimz1-imgcompress-ec2fa997.md) |
-| libjxl/libjxl | partial | 2026-09-02T14:19:35Z | [open](../records/photography-libjxl-libjxl-3d901151.md) |
+| karimz1/imgcompress | partial | 2026-09-03T08:37:21Z | [open](../records/photography-karimz1-imgcompress-ec2fa997.md) |
+| libjxl/libjxl | partial | 2026-09-03T03:51:11Z | [open](../records/photography-libjxl-libjxl-3d901151.md) |
 | mdouchement/hdr | partial | 2023-02-04T12:19:10Z | [open](../records/photography-mdouchement-hdr-30201254.md) |
 | mz2/Carpaccio | partial | 2023-06-10T06:49:52Z | [open](../records/photography-mz2-carpaccio-47bb21ca.md) |
 | QQxiaoming/YUVviewer | partial | 2026-06-27T03:38:01Z | [open](../records/photography-qqxiaoming-yuvviewer-c08a90b9.md) |
 | rfrench/gify | partial | 2023-03-08T22:03:16Z | [open](../records/photography-rfrench-gify-e7a0c938.md) |
-| skymanbp/autoshade | partial | 2026-09-03T01:43:37Z | [open](../records/photography-skymanbp-autoshade-295e9968.md) |
+| skymanbp/autoshade | partial | 2026-09-03T05:21:43Z | [open](../records/photography-skymanbp-autoshade-295e9968.md) |
 
 ## Microscopy
 

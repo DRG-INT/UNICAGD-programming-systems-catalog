@@ -18,13 +18,13 @@ Records: `974`
 [Framework (52)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1270)](ide-editor-integration.md)
 [Image Audio Dsp (354)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (241)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
 [Language Server (27)](language-server.md) · [Language Specification (1267)](language-specification.md) · [Library (5092)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (467)](logging-observability.md) · [Machine Learning (626)](machine-learning.md)
+[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (468)](logging-observability.md) · [Machine Learning (627)](machine-learning.md)
 [Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (954)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (406)](package-manager.md) · **[Parser Lexer Ast (974)](parser-lexer-ast.md)** · [Precommit Ci Quality (270)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (127)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (330)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (482)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (513)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (296)](type-checker.md)
-[Undefined Behavior Analyzer (1473)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (442)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
+[Undefined Behavior Analyzer (1473)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (443)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
 
 ## C99
 
@@ -606,7 +606,7 @@ Records: `974`
 | go.gary.cool/diecast | v1.17.35 | 2026-08-30T14:10:05.638889Z | [open](../records/go-go-gary-cool-diecast-e5dd52c7.md) |
 | gogf/gf | partial | 2026-09-03T06:30:01Z | [open](../records/go-gogf-gf-cf9bbe8f.md) |
 | gomods/athens | partial | 2026-09-02T07:53:04Z | [open](../records/go-gomods-athens-5ff0b837.md) |
-| GopeedLab/gopeed | partial | 2026-09-03T07:38:15Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
+| GopeedLab/gopeed | partial | 2026-09-03T09:08:16Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
 | gravitational/teleport | partial | 2026-09-02T15:00:29Z | [open](../records/go-gravitational-teleport-6a32fe26.md) |
 | HyNetworks/hysteria | partial | 2026-08-31T06:55:46Z | [open](../records/go-hynetworks-hysteria-6f37132d.md) |
 | kovidgoyal/kitty | partial | 2026-09-02T21:27:11Z | [open](../records/go-kovidgoyal-kitty-9cff0795.md) |
@@ -637,7 +637,7 @@ Records: `974`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AstrBotDevs/AstrBot | partial | 2026-09-03T07:28:44Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
+| AstrBotDevs/AstrBot | partial | 2026-09-03T09:19:58Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
 | HKUDS/LightRAG | partial | 2026-09-02T16:52:03Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
 | labring/FastGPT | partial | 2026-09-03T07:57:23Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
@@ -933,7 +933,7 @@ Records: `974`
 | cdgriffith/FastFlix | partial | 2026-05-19T03:06:49Z | [open](../records/photography-cdgriffith-fastflix-7fb4169b.md) |
 | dmpop/pellicola | partial | 2025-05-27T11:09:48Z | [open](../records/photography-dmpop-pellicola-756cb6c8.md) |
 | iammatthias/com | partial | 2026-08-27T13:53:07Z | [open](../records/photography-iammatthias-com-e27dacc6.md) |
-| jim-easterbrook/Photini | partial | 2026-09-02T15:08:33Z | [open](../records/photography-jim-easterbrook-photini-e6016870.md) |
+| jim-easterbrook/Photini | partial | 2026-09-03T08:43:45Z | [open](../records/photography-jim-easterbrook-photini-e6016870.md) |
 | kydecker/astro-photo-grid | partial | 2026-08-11T01:32:56Z | [open](../records/photography-kydecker-astro-photo-grid-8e515209.md) |
 | lunohodov/awesome-astrophotography | partial | 2026-06-11T04:43:54Z | [open](../records/photography-lunohodov-awesome-astrophotography-2e7b7b64.md) |
 | Naxela/The_Lightmapper | partial | 2026-07-18T22:24:35Z | [open](../records/photography-naxela-the-lightmapper-5258d55d.md) |
@@ -959,7 +959,7 @@ Records: `974`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 0xCoto/Virgo | partial | 2023-07-23T20:21:30Z | [open](../records/telescopes-0xcoto-virgo-8f75760a.md) |
-| aaronwmorris/indi-allsky | partial | 2026-09-02T23:58:19Z | [open](../records/telescopes-aaronwmorris-indi-allsky-aa5014e3.md) |
+| aaronwmorris/indi-allsky | partial | 2026-09-03T03:17:56Z | [open](../records/telescopes-aaronwmorris-indi-allsky-aa5014e3.md) |
 | AllskyTeam/allsky | partial | 2026-08-31T20:50:25Z | [open](../records/telescopes-allskyteam-allsky-a37843a6.md) |
 | art-den/astra_lite | partial | 2026-08-30T11:36:25Z | [open](../records/telescopes-art-den-astra-lite-8f947ea9.md) |
 | astropy-learn/astropy-tutorials | partial | 2026-08-31T16:53:31Z | [open](../records/telescopes-astropy-learn-astropy-tutorials-c1f9e6d9.md) |
@@ -968,7 +968,7 @@ Records: `974`
 | astrorigin/pyswisseph | partial | 2026-04-01T08:19:24Z | [open](../records/telescopes-astrorigin-pyswisseph-f5236430.md) |
 | ATTron/astroz | partial | 2026-04-23T04:38:36Z | [open](../records/telescopes-attron-astroz-fcd297f0.md) |
 | ceeK/Solar | partial | 2026-08-31T23:46:36Z | [open](../records/telescopes-ceek-solar-b80514c1.md) |
-| CelestiaProject/Celestia | partial | 2026-09-01T21:58:58Z | [open](../records/telescopes-celestiaproject-celestia-52936308.md) |
+| CelestiaProject/Celestia | partial | 2026-09-03T05:08:06Z | [open](../records/telescopes-celestiaproject-celestia-52936308.md) |
 | cosmonium/cosmonium | partial | 2026-09-02T21:20:06Z | [open](../records/telescopes-cosmonium-cosmonium-96f84ede.md) |
 | DeepskyLog/DeepskyLog | partial | 2026-06-01T13:02:28Z | [open](../records/telescopes-deepskylog-deepskylog-0556deb4.md) |
 | dilshan/star-pointer | partial | 2022-06-25T00:17:28Z | [open](../records/telescopes-dilshan-star-pointer-1bb6a494.md) |
@@ -977,11 +977,11 @@ Records: `974`
 | eleanorlutz/asteroids_atlas_of_space | partial | 2022-11-12T22:23:46Z | [open](../records/telescopes-eleanorlutz-asteroids-atlas-of-space-5e2261e2.md) |
 | eleanorlutz/topography_atlas_of_space | partial | 2022-11-28T15:23:38Z | [open](../records/telescopes-eleanorlutz-topography-atlas-of-space-2e398843.md) |
 | eleanorlutz/western_constellations_atlas_of_space | partial | 2024-07-29T13:20:54Z | [open](../records/telescopes-eleanorlutz-western-constellations-atlas-of-space-592f03e0.md) |
-| gammapy/gammapy | partial | 2026-09-02T15:09:41Z | [open](../records/telescopes-gammapy-gammapy-7129fa62.md) |
+| gammapy/gammapy | partial | 2026-09-03T09:04:19Z | [open](../records/telescopes-gammapy-gammapy-7129fa62.md) |
 | GuLinux/AstroPhoto-Plus | partial | 2022-07-20T03:28:42Z | [open](../records/telescopes-gulinux-astrophoto-plus-89ed315b.md) |
 | hyqzz/Solar-Wanderer | partial | 2026-08-23T16:05:32Z | [open](../records/telescopes-hyqzz-solar-wanderer-ebebad0b.md) |
 | jagi/meteor-astronomy | partial | 2023-08-24T08:22:39Z | [open](../records/telescopes-jagi-meteor-astronomy-415c00fc.md) |
-| jobovy/galpy | partial | 2026-09-03T02:28:03Z | [open](../records/telescopes-jobovy-galpy-b2e4e9ec.md) |
+| jobovy/galpy | partial | 2026-09-03T08:09:49Z | [open](../records/telescopes-jobovy-galpy-b2e4e9ec.md) |
 | kylecorry31/Trail-Sense | partial | 2026-09-02T19:11:58Z | [open](../records/telescopes-kylecorry31-trail-sense-8d97a469.md) |
 | larrylart/Unimap | partial | 2019-02-18T20:46:00Z | [open](../records/telescopes-larrylart-unimap-07a1fd44.md) |
 | lgrcia/twirl | partial | 2026-07-21T07:23:08Z | [open](../records/telescopes-lgrcia-twirl-2b14ac34.md) |
@@ -994,7 +994,7 @@ Records: `974`
 | rkaczorek/astroberry-server | partial | 2026-02-11T12:01:25Z | [open](../records/telescopes-rkaczorek-astroberry-server-f5249e84.md) |
 | sanderblue/solar-system-threejs | partial | 2022-12-07T17:32:03Z | [open](../records/telescopes-sanderblue-solar-system-threejs-9534bfd9.md) |
 | saurvs/astro-rust | partial | 2019-10-20T01:17:04Z | [open](../records/telescopes-saurvs-astro-rust-3d0d6b1c.md) |
-| Sigmyne/SuperNOVAS | partial | 2026-09-02T10:07:59Z | [open](../records/telescopes-sigmyne-supernovas-c1bcbf75.md) |
+| Sigmyne/SuperNOVAS | partial | 2026-09-03T07:36:55Z | [open](../records/telescopes-sigmyne-supernovas-c1bcbf75.md) |
 | spacetelescope/poppy | partial | 2026-08-26T14:23:04Z | [open](../records/telescopes-spacetelescope-poppy-8fcb0fc5.md) |
 | Stellarium/stellarium | partial | 2026-09-02T20:03:56Z | [open](../records/telescopes-stellarium-stellarium-a274d765.md) |
 | sunpy/sunpy | partial | 2026-09-01T13:34:19Z | [open](../records/telescopes-sunpy-sunpy-52ba6b6e.md) |

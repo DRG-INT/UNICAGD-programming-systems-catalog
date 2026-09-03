@@ -18,13 +18,13 @@ Records: `354`
 [Framework (52)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1270)](ide-editor-integration.md)
 **[Image Audio Dsp (354)](image-audio-dsp.md)** · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (241)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
 [Language Server (27)](language-server.md) · [Language Specification (1267)](language-specification.md) · [Library (5092)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (467)](logging-observability.md) · [Machine Learning (626)](machine-learning.md)
+[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (468)](logging-observability.md) · [Machine Learning (627)](machine-learning.md)
 [Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (954)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (406)](package-manager.md) · [Parser Lexer Ast (974)](parser-lexer-ast.md) · [Precommit Ci Quality (270)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (127)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (330)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (482)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (513)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (296)](type-checker.md)
-[Undefined Behavior Analyzer (1473)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (442)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
+[Undefined Behavior Analyzer (1473)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (443)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
 
 ## C++23
 
@@ -315,7 +315,7 @@ Records: `354`
 | jthorborg/signalizer | partial | 2026-08-01T15:42:02Z | [open](../records/audio-jthorborg-signalizer-c8caf869.md) |
 | JUCE | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-juce-3f2891c9.md) |
 | JuliaDSP/DSP.jl | partial | 2026-08-25T10:58:30Z | [open](../records/audio-juliadsp-dsp-jl-4e524896.md) |
-| katspaugh/wavesurfer.js | partial | 2026-09-03T07:22:09Z | [open](../records/audio-katspaugh-wavesurfer-js-cff13805.md) |
+| katspaugh/wavesurfer.js | partial | 2026-09-03T08:15:47Z | [open](../records/audio-katspaugh-wavesurfer-js-cff13805.md) |
 | koel/koel | partial | 2026-09-03T01:14:32Z | [open](../records/audio-koel-koel-f2457c0c.md) |
 | libsndfile | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-libsndfile-6065db3d.md) |
 | mackron/miniaudio | partial | 2026-08-19T22:07:12Z | [open](../records/audio-mackron-miniaudio-78110754.md) |
@@ -360,7 +360,7 @@ Records: `354`
 | SuperKogito/spafe | partial | 2025-03-20T16:16:12Z | [open](../records/audio-superkogito-spafe-354360b4.md) |
 | surge-synthesizer/surge | partial | 2026-09-02T15:19:36Z | [open](../records/audio-surge-synthesizer-surge-87b5aeea.md) |
 | SynthstromAudible/DelugeFirmware | partial | 2026-09-03T01:05:23Z | [open](../records/audio-synthstromaudible-delugefirmware-4c834ea8.md) |
-| thesofproject/sof | partial | 2026-09-02T18:21:05Z | [open](../records/audio-thesofproject-sof-05fedbf2.md) |
+| thesofproject/sof | partial | 2026-09-03T08:45:09Z | [open](../records/audio-thesofproject-sof-05fedbf2.md) |
 | tiagolr/ripplerx | partial | 2026-08-13T12:36:29Z | [open](../records/audio-tiagolr-ripplerx-36b38906.md) |
 | unevens/Curvessor | partial | 2026-05-27T04:30:13Z | [open](../records/audio-unevens-curvessor-1be4a246.md) |
 | unevens/Overdraw | partial | 2026-05-27T04:30:14Z | [open](../records/audio-unevens-overdraw-ee5e80f4.md) |

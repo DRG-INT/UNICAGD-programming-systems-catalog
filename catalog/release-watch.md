@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-03T08:23:47+00:00`
+Generated: `2026-09-03T09:23:35+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -16,20 +16,20 @@ Generated: `2026-09-03T08:23:47+00:00`
 [Framework (52)](by-category/framework.md) · [Fuzzer (50)](by-category/fuzzer.md) · [Game Engine Game Dev (164)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1270)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (354)](by-category/image-audio-dsp.md) · [Interop Bindings (57)](by-category/interop-bindings.md) · [Interpreter Runtime (241)](by-category/interpreter-runtime.md) · [Jit Vm (59)](by-category/jit-vm.md)
 [Language Server (27)](by-category/language-server.md) · [Language Specification (1267)](by-category/language-specification.md) · [Library (5092)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (42)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (467)](by-category/logging-observability.md) · [Machine Learning (626)](by-category/machine-learning.md)
+[Lint Rule Pack (42)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (468)](by-category/logging-observability.md) · [Machine Learning (627)](by-category/machine-learning.md)
 [Math Numeric Scientific (82)](by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](by-category/memory-analyzer.md) · [Message Broker (35)](by-category/message-broker.md) · [Networking Http (954)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (406)](by-category/package-manager.md) · [Parser Lexer Ast (974)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (270)](by-category/precommit-ci-quality.md)
 [Profiler (79)](by-category/profiler.md) · [Project Scaffolding (127)](by-category/project-scaffolding.md) · [Registry Repository (107)](by-category/registry-repository.md) · [Sanitizer (13)](by-category/sanitizer.md)
 [Security Sast (330)](by-category/security-sast.md) · [Serialization (375)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (482)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (513)](by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](by-category/tutorial-book-styleguide.md) · [Type Checker (296)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1473)](by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](by-category/utility-library.md) · [Visualization Gui (442)](by-category/visualization-gui.md) · [Web Framework (447)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1473)](by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](by-category/utility-library.md) · [Visualization Gui (443)](by-category/visualization-gui.md) · [Web Framework (447)](by-category/web-framework.md)
 
 ## Coverage
 
 | State | Count |
 | --- | ---: |
 | Known stable release | 9896 |
-| Unknown stable release | 14211 |
+| Unknown stable release | 14214 |
 
 ## Newest Known Stable Metadata
 
@@ -290,7 +290,7 @@ Generated: `2026-09-03T08:23:47+00:00`
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 6662 |
+| gh_search_reports_activity_not_release_version | 6665 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |

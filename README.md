@@ -1,6 +1,6 @@
 # UNICAGD Programming Systems Discovery Catalog
 
-Generated: `2026-09-03T08:23:47+00:00`
+Generated: `2026-09-03T09:23:35+00:00`
 
 This repository is a Markdown explorer for a systems-engineering programming corpus. It preserves the master JSON seed, expands it with registry-derived ecosystem records, and tracks release metadata without guessing unknown dates.
 
@@ -24,25 +24,25 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 [Framework (52)](catalog/by-category/framework.md) · [Fuzzer (50)](catalog/by-category/fuzzer.md) · [Game Engine Game Dev (164)](catalog/by-category/game-engine-game-dev.md) · [Ide Editor Integration (1270)](catalog/by-category/ide-editor-integration.md)
 [Image Audio Dsp (354)](catalog/by-category/image-audio-dsp.md) · [Interop Bindings (57)](catalog/by-category/interop-bindings.md) · [Interpreter Runtime (241)](catalog/by-category/interpreter-runtime.md) · [Jit Vm (59)](catalog/by-category/jit-vm.md)
 [Language Server (27)](catalog/by-category/language-server.md) · [Language Specification (1267)](catalog/by-category/language-specification.md) · [Library (5092)](catalog/by-category/library.md) · [Lint Plugin (1)](catalog/by-category/lint-plugin.md)
-[Lint Rule Pack (42)](catalog/by-category/lint-rule-pack.md) · [Linter (347)](catalog/by-category/linter.md) · [Logging Observability (467)](catalog/by-category/logging-observability.md) · [Machine Learning (626)](catalog/by-category/machine-learning.md)
+[Lint Rule Pack (42)](catalog/by-category/lint-rule-pack.md) · [Linter (347)](catalog/by-category/linter.md) · [Logging Observability (468)](catalog/by-category/logging-observability.md) · [Machine Learning (627)](catalog/by-category/machine-learning.md)
 [Math Numeric Scientific (82)](catalog/by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](catalog/by-category/memory-analyzer.md) · [Message Broker (35)](catalog/by-category/message-broker.md) · [Networking Http (954)](catalog/by-category/networking-http.md)
 [Other (14)](catalog/by-category/other.md) · [Package Manager (406)](catalog/by-category/package-manager.md) · [Parser Lexer Ast (974)](catalog/by-category/parser-lexer-ast.md) · [Precommit Ci Quality (270)](catalog/by-category/precommit-ci-quality.md)
 [Profiler (79)](catalog/by-category/profiler.md) · [Project Scaffolding (127)](catalog/by-category/project-scaffolding.md) · [Registry Repository (107)](catalog/by-category/registry-repository.md) · [Sanitizer (13)](catalog/by-category/sanitizer.md)
 [Security Sast (330)](catalog/by-category/security-sast.md) · [Serialization (375)](catalog/by-category/serialization.md) · [Standard Library (25)](catalog/by-category/standard-library.md) · [Static Analyzer (482)](catalog/by-category/static-analyzer.md)
 [Templating (2)](catalog/by-category/templating.md) · [Testing Framework (513)](catalog/by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](catalog/by-category/tutorial-book-styleguide.md) · [Type Checker (296)](catalog/by-category/type-checker.md)
-[Undefined Behavior Analyzer (1473)](catalog/by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](catalog/by-category/utility-library.md) · [Visualization Gui (442)](catalog/by-category/visualization-gui.md) · [Web Framework (447)](catalog/by-category/web-framework.md)
+[Undefined Behavior Analyzer (1473)](catalog/by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](catalog/by-category/utility-library.md) · [Visualization Gui (443)](catalog/by-category/visualization-gui.md) · [Web Framework (447)](catalog/by-category/web-framework.md)
 
 ## Corpus Shape
 
 | Metric | Count |
 | --- | ---: |
 | Source records | 968 |
-| Canonical identity pages | 24107 |
+| Canonical identity pages | 24110 |
 | Expansion records added | 8605 |
 | Release checks attempted | 1200 |
 | Known stable release fields | 9896 |
-| Unknown stable release fields | 14211 |
-| Fetch errors recorded | 1071 |
+| Unknown stable release fields | 14214 |
+| Fetch errors recorded | 1020 |
 | Target identity count | 24000 |
 
 ## Language Scope

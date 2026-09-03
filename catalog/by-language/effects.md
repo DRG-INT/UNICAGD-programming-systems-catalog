@@ -1,6 +1,6 @@
 # Effects
 
-Records: `608`
+Records: `609`
 
 ## Navigation
 
@@ -18,13 +18,13 @@ Records: `608`
 [Framework (52)](../by-category/framework.md) · [Fuzzer (50)](../by-category/fuzzer.md) · [Game Engine Game Dev (164)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1270)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (354)](../by-category/image-audio-dsp.md) · [Interop Bindings (57)](../by-category/interop-bindings.md) · [Interpreter Runtime (241)](../by-category/interpreter-runtime.md) · [Jit Vm (59)](../by-category/jit-vm.md)
 [Language Server (27)](../by-category/language-server.md) · [Language Specification (1267)](../by-category/language-specification.md) · [Library (5092)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (42)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (467)](../by-category/logging-observability.md) · [Machine Learning (626)](../by-category/machine-learning.md)
+[Lint Rule Pack (42)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (468)](../by-category/logging-observability.md) · [Machine Learning (627)](../by-category/machine-learning.md)
 [Math Numeric Scientific (82)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (35)](../by-category/message-broker.md) · [Networking Http (954)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (406)](../by-category/package-manager.md) · [Parser Lexer Ast (974)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (270)](../by-category/precommit-ci-quality.md)
 [Profiler (79)](../by-category/profiler.md) · [Project Scaffolding (127)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
 [Security Sast (330)](../by-category/security-sast.md) · [Serialization (375)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (482)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (513)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](../by-category/tutorial-book-styleguide.md) · [Type Checker (296)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1473)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](../by-category/utility-library.md) · [Visualization Gui (442)](../by-category/visualization-gui.md) · [Web Framework (447)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1473)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](../by-category/utility-library.md) · [Visualization Gui (443)](../by-category/visualization-gui.md) · [Web Framework (447)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -638,6 +638,7 @@ Records: `608`
 | [marcel-licence/ML_SynthTools](../records/effects-marcel-licence-ml-synthtools-a77d2383.md) | partial | 2026-08-15T15:31:10Z | registry-derived |
 | [mob-sakai/ParticleEffectForUGUI](../records/effects-mob-sakai-particleeffectforugui-6a75f88e.md) | partial | 2026-08-27T11:28:20Z | registry-derived |
 | [naveen-kumawat/Flower](../records/effects-naveen-kumawat-flower-2bf17aa5.md) | partial | 2026-05-21T18:28:17Z | registry-derived |
+| [Papproni/stm_audio_board_v3_dsp_board](../records/effects-papproni-stm-audio-board-v3-dsp-board-30c9848d.md) | partial | 2024-04-28T21:16:38Z | registry-derived |
 | [rajajain08/particles_flutter](../records/effects-rajajain08-particles-flutter-2925862d.md) | partial | 2026-08-29T08:55:42Z | registry-derived |
 | [rern/rAudio](../records/effects-rern-raudio-0853e696.md) | partial | 2026-09-02T09:07:36Z | registry-derived |
 | [rumlenordstroem/audio-effects](../records/effects-rumlenordstroem-audio-effects-637861a4.md) | partial | 2023-05-20T13:22:42Z | registry-derived |

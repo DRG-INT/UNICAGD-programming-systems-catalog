@@ -18,13 +18,13 @@ Records: `69`
 [Framework (52)](../by-category/framework.md) · [Fuzzer (50)](../by-category/fuzzer.md) · [Game Engine Game Dev (164)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1270)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (354)](../by-category/image-audio-dsp.md) · [Interop Bindings (57)](../by-category/interop-bindings.md) · [Interpreter Runtime (241)](../by-category/interpreter-runtime.md) · [Jit Vm (59)](../by-category/jit-vm.md)
 [Language Server (27)](../by-category/language-server.md) · [Language Specification (1267)](../by-category/language-specification.md) · [Library (5092)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (42)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (467)](../by-category/logging-observability.md) · [Machine Learning (626)](../by-category/machine-learning.md)
+[Lint Rule Pack (42)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (468)](../by-category/logging-observability.md) · [Machine Learning (627)](../by-category/machine-learning.md)
 [Math Numeric Scientific (82)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (35)](../by-category/message-broker.md) · [Networking Http (954)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (406)](../by-category/package-manager.md) · [Parser Lexer Ast (974)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (270)](../by-category/precommit-ci-quality.md)
 [Profiler (79)](../by-category/profiler.md) · [Project Scaffolding (127)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
 [Security Sast (330)](../by-category/security-sast.md) · [Serialization (375)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (482)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (513)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](../by-category/tutorial-book-styleguide.md) · [Type Checker (296)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1473)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](../by-category/utility-library.md) · [Visualization Gui (442)](../by-category/visualization-gui.md) · [Web Framework (447)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1473)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](../by-category/utility-library.md) · [Visualization Gui (443)](../by-category/visualization-gui.md) · [Web Framework (447)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -34,7 +34,7 @@ Records: `69`
 | --- | --- | --- | --- |
 | [adobe/rules_gitops](../records/starlark-adobe-rules-gitops-09140ed0.md) | partial | 2026-08-30T23:32:18Z | registry-derived |
 | [aspect-build/rules_js](../records/starlark-aspect-build-rules-js-fd75b379.md) | partial | 2026-09-03T06:56:41Z | registry-derived |
-| [aspect-build/rules_py](../records/starlark-aspect-build-rules-py-910f4833.md) | partial | 2026-09-03T08:20:58Z | registry-derived |
+| [aspect-build/rules_py](../records/starlark-aspect-build-rules-py-910f4833.md) | partial | 2026-09-03T09:12:23Z | registry-derived |
 | [Bazel](../records/starlark-bazel-189ae4a2.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [bazel-contrib/bazel-lib](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) | partial | 2026-09-03T01:30:16Z | registry-derived |
 | [bazel-contrib/rules_cuda](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) | partial | 2026-09-02T21:43:28Z | registry-derived |
@@ -64,7 +64,7 @@ Records: `69`
 | [stackb/rules_proto](../records/starlark-stackb-rules-proto-b9dcde4f.md) | partial | 2026-09-01T16:32:19Z | registry-derived |
 | [tidbyt/pixlet](../records/starlark-tidbyt-pixlet-876fea90.md) | partial | 2026-09-02T23:55:57Z | registry-derived |
 | [tweag/rules_haskell](../records/starlark-tweag-rules-haskell-f813b994.md) | partial | 2026-09-02T01:33:13Z | registry-derived |
-| [tweag/rules_nixpkgs](../records/starlark-tweag-rules-nixpkgs-ae7e2699.md) | partial | 2026-09-03T08:14:39Z | registry-derived |
+| [tweag/rules_nixpkgs](../records/starlark-tweag-rules-nixpkgs-ae7e2699.md) | partial | 2026-09-03T09:05:01Z | registry-derived |
 | [typedb/bazel-distribution](../records/starlark-typedb-bazel-distribution-95f6acb1.md) | partial | 2026-09-01T14:54:08Z | registry-derived |
 | [u-root/gobusybox](../records/starlark-u-root-gobusybox-136cf407.md) | partial | 2026-06-22T15:14:39Z | registry-derived |
 
@@ -113,7 +113,7 @@ Records: `69`
 | [bazelbuild/rules_docker](../records/starlark-bazelbuild-rules-docker-9df12e7c.md) | partial | 2025-12-22T00:24:32Z | registry-derived |
 | [bazelbuild/rules_rust](../records/starlark-bazelbuild-rules-rust-3c62960b.md) | partial | 2026-09-02T17:23:01Z | registry-derived |
 | [cel-expr/cel-spec](../records/starlark-cel-expr-cel-spec-b2658dd8.md) | partial | 2026-08-13T21:27:23Z | registry-derived |
-| [envoyproxy/data-plane-api](../records/starlark-envoyproxy-data-plane-api-7610f6c0.md) | partial | 2026-09-03T07:57:53Z | registry-derived |
+| [envoyproxy/data-plane-api](../records/starlark-envoyproxy-data-plane-api-7610f6c0.md) | partial | 2026-09-03T09:21:00Z | registry-derived |
 | [google/dotprompt](../records/starlark-google-dotprompt-07de9fab.md) | partial | 2026-09-03T02:39:10Z | registry-derived |
 | [google/fully-homomorphic-encryption](../records/starlark-google-fully-homomorphic-encryption-7e96f129.md) | partial | 2026-09-02T22:55:36Z | registry-derived |
 | [googleapis/googleapis](../records/starlark-googleapis-googleapis-b2038836.md) | partial | 2026-09-03T06:23:20Z | registry-derived |

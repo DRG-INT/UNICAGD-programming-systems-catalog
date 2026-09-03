@@ -18,13 +18,13 @@ Records: `406`
 [Framework (52)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1270)](ide-editor-integration.md)
 [Image Audio Dsp (354)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (241)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
 [Language Server (27)](language-server.md) · [Language Specification (1267)](language-specification.md) · [Library (5092)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (467)](logging-observability.md) · [Machine Learning (626)](machine-learning.md)
+[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (468)](logging-observability.md) · [Machine Learning (627)](machine-learning.md)
 [Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (954)](networking-http.md)
 [Other (14)](other.md) · **[Package Manager (406)](package-manager.md)** · [Parser Lexer Ast (974)](parser-lexer-ast.md) · [Precommit Ci Quality (270)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (127)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (330)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (482)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (513)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (296)](type-checker.md)
-[Undefined Behavior Analyzer (1473)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (442)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
+[Undefined Behavior Analyzer (1473)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (443)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
 
 ## C99
 
@@ -368,16 +368,16 @@ Records: `406`
 | Archie3d/aeolus_plugin | v0.3.0 | 2025-05-31T13:17:36Z | [open](../records/audio-archie3d-aeolus-plugin-c1d397f6.md) |
 | Audio4Linux/JDSP4Linux | partial | 2026-08-29T16:29:46Z | [open](../records/audio-audio4linux-jdsp4linux-effd41ab.md) |
 | collidingScopes/arpeggiator | unknown | github_latest_release_missing | [open](../records/audio-collidingscopes-arpeggiator-f2da818f.md) |
-| modelscope/FunASR | partial | 2026-09-02T16:43:41Z | [open](../records/audio-modelscope-funasr-8e089427.md) |
+| modelscope/FunASR | partial | 2026-09-03T09:15:24Z | [open](../records/audio-modelscope-funasr-8e089427.md) |
 | open-audio-stack/open-audio-stack-registry | partial | 2026-09-02T03:58:47Z | [open](../records/audio-open-audio-stack-open-audio-stack-registry-6bcfb8c0.md) |
 
 ## Video
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| google-ai-edge/mediapipe | partial | 2026-09-03T02:00:35Z | [open](../records/video-google-ai-edge-mediapipe-a0c51472.md) |
+| google-ai-edge/mediapipe | partial | 2026-09-03T04:20:49Z | [open](../records/video-google-ai-edge-mediapipe-a0c51472.md) |
 | memvid/memvid | partial | 2026-07-14T14:39:07Z | [open](../records/video-memvid-memvid-bb0d9def.md) |
-| snapotter-hq/SnapOtter | partial | 2026-08-31T16:44:04Z | [open](../records/video-snapotter-hq-snapotter-7f75c7aa.md) |
+| snapotter-hq/SnapOtter | partial | 2026-09-03T07:59:18Z | [open](../records/video-snapotter-hq-snapotter-7f75c7aa.md) |
 | TeamNewPipe/NewPipe | partial | 2026-08-31T12:57:33Z | [open](../records/video-teamnewpipe-newpipe-c1ab8a41.md) |
 | towhee-io/towhee | partial | 2024-10-18T00:01:12Z | [open](../records/video-towhee-io-towhee-12a64678.md) |
 

@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-03T08:23:47+00:00`
+Generated: `2026-09-03T09:23:35+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -16,13 +16,13 @@ Generated: `2026-09-03T08:23:47+00:00`
 [Framework (52)](by-category/framework.md) · [Fuzzer (50)](by-category/fuzzer.md) · [Game Engine Game Dev (164)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1270)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (354)](by-category/image-audio-dsp.md) · [Interop Bindings (57)](by-category/interop-bindings.md) · [Interpreter Runtime (241)](by-category/interpreter-runtime.md) · [Jit Vm (59)](by-category/jit-vm.md)
 [Language Server (27)](by-category/language-server.md) · [Language Specification (1267)](by-category/language-specification.md) · [Library (5092)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (42)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (467)](by-category/logging-observability.md) · [Machine Learning (626)](by-category/machine-learning.md)
+[Lint Rule Pack (42)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (468)](by-category/logging-observability.md) · [Machine Learning (627)](by-category/machine-learning.md)
 [Math Numeric Scientific (82)](by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](by-category/memory-analyzer.md) · [Message Broker (35)](by-category/message-broker.md) · [Networking Http (954)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (406)](by-category/package-manager.md) · [Parser Lexer Ast (974)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (270)](by-category/precommit-ci-quality.md)
 [Profiler (79)](by-category/profiler.md) · [Project Scaffolding (127)](by-category/project-scaffolding.md) · [Registry Repository (107)](by-category/registry-repository.md) · [Sanitizer (13)](by-category/sanitizer.md)
 [Security Sast (330)](by-category/security-sast.md) · [Serialization (375)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (482)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (513)](by-category/testing-framework.md) · [Tutorial Book Styleguide (53)](by-category/tutorial-book-styleguide.md) · [Type Checker (296)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1473)](by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](by-category/utility-library.md) · [Visualization Gui (442)](by-category/visualization-gui.md) · [Web Framework (447)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1473)](by-category/undefined-behavior-analyzer.md) · [Utility Library (93)](by-category/utility-library.md) · [Visualization Gui (443)](by-category/visualization-gui.md) · [Web Framework (447)](by-category/web-framework.md)
 
 ## Languages
 
@@ -63,13 +63,13 @@ Generated: `2026-09-03T08:23:47+00:00`
 | Space Engines | 156 | 0 | [Space Engines](by-language/space-engines.md) |
 | Space Shuttles | 78 | 0 | [Space Shuttles](by-language/space-shuttles.md) |
 | Space Maps | 384 | 0 | [Space Maps](by-language/space-maps.md) |
-| Effects | 608 | 30 | [Effects](by-language/effects.md) |
+| Effects | 609 | 30 | [Effects](by-language/effects.md) |
 | Audio | 399 | 20 | [Audio](by-language/audio.md) |
 | Video | 316 | 0 | [Video](by-language/video.md) |
 | Photography | 474 | 0 | [Photography](by-language/photography.md) |
-| Microscopy | 179 | 0 | [Microscopy](by-language/microscopy.md) |
+| Microscopy | 180 | 0 | [Microscopy](by-language/microscopy.md) |
 | Telescopes | 149 | 0 | [Telescopes](by-language/telescopes.md) |
-| Radars | 149 | 0 | [Radars](by-language/radars.md) |
+| Radars | 150 | 0 | [Radars](by-language/radars.md) |
 | SatCom Satellites | 259 | 0 | [SatCom Satellites](by-language/satcom-satellites.md) |
 | Electromagnetoscopes | 151 | 0 | [Electromagnetoscopes](by-language/electromagnetoscopes.md) |
 | Radio Garden Speciality | 120 | 0 | [Radio Garden Speciality](by-language/radio-garden-speciality.md) |
@@ -134,8 +134,8 @@ Generated: `2026-09-03T08:23:47+00:00`
 | Lint Plugin | 1 | [lint_plugin](by-category/lint-plugin.md) |
 | Lint Rule Pack | 42 | [lint_rule_pack](by-category/lint-rule-pack.md) |
 | Linter | 347 | [linter](by-category/linter.md) |
-| Logging Observability | 467 | [logging_observability](by-category/logging-observability.md) |
-| Machine Learning | 626 | [machine_learning](by-category/machine-learning.md) |
+| Logging Observability | 468 | [logging_observability](by-category/logging-observability.md) |
+| Machine Learning | 627 | [machine_learning](by-category/machine-learning.md) |
 | Math Numeric Scientific | 82 | [math_numeric_scientific](by-category/math-numeric-scientific.md) |
 | Memory Analyzer | 88 | [memory_analyzer](by-category/memory-analyzer.md) |
 | Message Broker | 35 | [message_broker](by-category/message-broker.md) |
@@ -158,7 +158,7 @@ Generated: `2026-09-03T08:23:47+00:00`
 | Type Checker | 296 | [type_checker](by-category/type-checker.md) |
 | Undefined Behavior Analyzer | 1473 | [undefined_behavior_analyzer](by-category/undefined-behavior-analyzer.md) |
 | Utility Library | 93 | [utility_library](by-category/utility-library.md) |
-| Visualization Gui | 442 | [visualization_gui](by-category/visualization-gui.md) |
+| Visualization Gui | 443 | [visualization_gui](by-category/visualization-gui.md) |
 | Web Framework | 447 | [web_framework](by-category/web-framework.md) |
 
 ## High-Signal Release Coverage
@@ -200,13 +200,13 @@ Generated: `2026-09-03T08:23:47+00:00`
 | Space Engines | 0 | 156 |
 | Space Shuttles | 0 | 78 |
 | Space Maps | 0 | 384 |
-| Effects | 30 | 578 |
+| Effects | 30 | 579 |
 | Audio | 20 | 379 |
 | Video | 0 | 316 |
 | Photography | 0 | 474 |
-| Microscopy | 0 | 179 |
+| Microscopy | 0 | 180 |
 | Telescopes | 0 | 149 |
-| Radars | 0 | 149 |
+| Radars | 0 | 150 |
 | SatCom Satellites | 0 | 259 |
 | Electromagnetoscopes | 0 | 151 |
 | Radio Garden Speciality | 0 | 120 |
