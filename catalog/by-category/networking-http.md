@@ -1,6 +1,6 @@
 # Networking Http
 
-Records: `946`
+Records: `949`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `946`
 ## Category Index
 
 [Api Abi Checker (199)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (131)](async-runtime.md)
-[Benchmarking (160)](benchmarking.md) · [Build System (871)](build-system.md) · [Cli (521)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (161)](benchmarking.md) · [Build System (875)](build-system.md) · [Cli (521)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (91)](community-reference.md) · [Compiler (173)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
 [Concurrency Parallelism (75)](concurrency-parallelism.md) · [Configuration (107)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (160)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (791)](database-datastore.md) · [Datetime (167)](datetime.md)
+[Cryptography (160)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (791)](database-datastore.md) · [Datetime (172)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (93)](documentation.md)
-[Embedded Hardware (52)](embedded-hardware.md) · [Ffi Bindings (400)](ffi-bindings.md) · [Filesystem Os (1300)](filesystem-os.md) · [Formatter (578)](formatter.md)
-[Framework (51)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1257)](ide-editor-integration.md)
-[Image Audio Dsp (314)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (240)](interpreter-runtime.md) · [Jit Vm (58)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1260)](language-specification.md) · [Library (5057)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (464)](logging-observability.md) · [Machine Learning (620)](machine-learning.md)
-[Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · **[Networking Http (946)](networking-http.md)**
-[Other (14)](other.md) · [Package Manager (402)](package-manager.md) · [Parser Lexer Ast (962)](parser-lexer-ast.md) · [Precommit Ci Quality (269)](precommit-ci-quality.md)
-[Profiler (78)](profiler.md) · [Project Scaffolding (125)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (325)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (465)](static-analyzer.md)
+[Embedded Hardware (53)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1310)](filesystem-os.md) · [Formatter (581)](formatter.md)
+[Framework (51)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1261)](ide-editor-integration.md)
+[Image Audio Dsp (350)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (240)](interpreter-runtime.md) · [Jit Vm (58)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1261)](language-specification.md) · [Library (5059)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (465)](logging-observability.md) · [Machine Learning (622)](machine-learning.md)
+[Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · **[Networking Http (949)](networking-http.md)**
+[Other (14)](other.md) · [Package Manager (403)](package-manager.md) · [Parser Lexer Ast (965)](parser-lexer-ast.md) · [Precommit Ci Quality (269)](precommit-ci-quality.md)
+[Profiler (78)](profiler.md) · [Project Scaffolding (127)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Security Sast (325)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (468)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (511)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (293)](type-checker.md)
-[Undefined Behavior Analyzer (1457)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (430)](visualization-gui.md) · [Web Framework (443)](web-framework.md)
+[Undefined Behavior Analyzer (1457)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (435)](visualization-gui.md) · [Web Framework (443)](web-framework.md)
 
 ## C99
 
@@ -775,7 +775,7 @@ Records: `946`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| austinmhorn/basilisk | partial | 2026-09-02T14:28:14Z | [open](../records/basilisk-austinmhorn-basilisk-a8abe142.md) |
+| austinmhorn/basilisk | partial | 2026-09-03T01:53:59Z | [open](../records/basilisk-austinmhorn-basilisk-a8abe142.md) |
 | VatsalSy/BasiliskPostProcessingMatlab | partial | 2018-10-11T21:15:19Z | [open](../records/basilisk-vatsalsy-basiliskpostprocessingmatlab-0e5319ea.md) |
 | VatsalSy/BasiliskVisualization | partial | 2018-08-16T21:26:37Z | [open](../records/basilisk-vatsalsy-basiliskvisualization-22421330.md) |
 | vitorvilela/droplet-particle-collision | partial | 2020-05-22T22:00:38Z | [open](../records/basilisk-vitorvilela-droplet-particle-collision-ead062d8.md) |
@@ -902,9 +902,12 @@ Records: `946`
 | apohl79/audiogridder | partial | 2024-07-31T08:38:20Z | [open](../records/audio-apohl79-audiogridder-b399a5d3.md) |
 | drethage/speech-denoising-wavenet | unknown | github_latest_release_missing | [open](../records/audio-drethage-speech-denoising-wavenet-dd81add3.md) |
 | FFmpeg/FFmpeg | partial | 2026-09-02T07:24:10Z | [open](../records/audio-ffmpeg-ffmpeg-e29098d1.md) |
+| hannesbraun/airwindows-lv2 | partial | 2025-11-27T12:32:25Z | [open](../records/audio-hannesbraun-airwindows-lv2-77a8604e.md) |
 | mpc-hc/mpc-hc | partial | 2020-04-24T11:04:40Z | [open](../records/audio-mpc-hc-mpc-hc-6f555179.md) |
+| Neutone/neutone_sdk | partial | 2025-12-05T08:12:00Z | [open](../records/audio-neutone-neutone-sdk-0f176871.md) |
 | r9y9/deepvoice3_pytorch | v0.1.0 | 2018-10-27T07:06:49Z | [open](../records/audio-r9y9-deepvoice3-pytorch-c125e8f5.md) |
 | roc-streaming/roc-toolkit | partial | 2026-08-24T16:27:50Z | [open](../records/audio-roc-streaming-roc-toolkit-714e5d70.md) |
+| Shuichi346/DeepFilterNet3-VST3 | partial | 2026-08-13T12:45:11Z | [open](../records/audio-shuichi346-deepfilternet3-vst3-c67a73b8.md) |
 | tenacityteam/tenacity-legacy | partial | 2022-06-29T22:04:10Z | [open](../records/audio-tenacityteam-tenacity-legacy-1101906c.md) |
 | xiph/rnnoise | partial | 2025-02-22T23:58:31Z | [open](../records/audio-xiph-rnnoise-29e1b10e.md) |
 

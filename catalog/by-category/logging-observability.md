@@ -1,6 +1,6 @@
 # Logging Observability
 
-Records: `464`
+Records: `465`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `464`
 ## Category Index
 
 [Api Abi Checker (199)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (131)](async-runtime.md)
-[Benchmarking (160)](benchmarking.md) · [Build System (871)](build-system.md) · [Cli (521)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (161)](benchmarking.md) · [Build System (875)](build-system.md) · [Cli (521)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (91)](community-reference.md) · [Compiler (173)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
 [Concurrency Parallelism (75)](concurrency-parallelism.md) · [Configuration (107)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (160)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (791)](database-datastore.md) · [Datetime (167)](datetime.md)
+[Cryptography (160)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (791)](database-datastore.md) · [Datetime (172)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (93)](documentation.md)
-[Embedded Hardware (52)](embedded-hardware.md) · [Ffi Bindings (400)](ffi-bindings.md) · [Filesystem Os (1300)](filesystem-os.md) · [Formatter (578)](formatter.md)
-[Framework (51)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1257)](ide-editor-integration.md)
-[Image Audio Dsp (314)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (240)](interpreter-runtime.md) · [Jit Vm (58)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1260)](language-specification.md) · [Library (5057)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · **[Logging Observability (464)](logging-observability.md)** · [Machine Learning (620)](machine-learning.md)
-[Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (946)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (402)](package-manager.md) · [Parser Lexer Ast (962)](parser-lexer-ast.md) · [Precommit Ci Quality (269)](precommit-ci-quality.md)
-[Profiler (78)](profiler.md) · [Project Scaffolding (125)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (325)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (465)](static-analyzer.md)
+[Embedded Hardware (53)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1310)](filesystem-os.md) · [Formatter (581)](formatter.md)
+[Framework (51)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1261)](ide-editor-integration.md)
+[Image Audio Dsp (350)](image-audio-dsp.md) · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (240)](interpreter-runtime.md) · [Jit Vm (58)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1261)](language-specification.md) · [Library (5059)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · **[Logging Observability (465)](logging-observability.md)** · [Machine Learning (622)](machine-learning.md)
+[Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (949)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (403)](package-manager.md) · [Parser Lexer Ast (965)](parser-lexer-ast.md) · [Precommit Ci Quality (269)](precommit-ci-quality.md)
+[Profiler (78)](profiler.md) · [Project Scaffolding (127)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Security Sast (325)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (468)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (511)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (293)](type-checker.md)
-[Undefined Behavior Analyzer (1457)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (430)](visualization-gui.md) · [Web Framework (443)](web-framework.md)
+[Undefined Behavior Analyzer (1457)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (435)](visualization-gui.md) · [Web Framework (443)](web-framework.md)
 
 ## C99
 
@@ -477,12 +477,13 @@ Records: `464`
 | analogcode/Swift-Radio-Pro | partial | 2026-07-05T16:45:42Z | [open](../records/audio-analogcode-swift-radio-pro-6d9ae883.md) |
 | coqui-ai/open-speech-corpora | unknown | github_latest_release_missing | [open](../records/audio-coqui-ai-open-speech-corpora-1c314385.md) |
 | huawei-noah/Speech-Backbones | unknown | github_latest_release_missing | [open](../records/audio-huawei-noah-speech-backbones-ae7b134d.md) |
+| jatinchowdhury18/AnalogTapeModel | partial | 2025-04-09T07:59:02Z | [open](../records/audio-jatinchowdhury18-analogtapemodel-a0c4d127.md) |
 | mzuelch/CATs-Eurosynth | unknown | github_latest_release_missing | [open](../records/audio-mzuelch-cats-eurosynth-a6002844.md) |
-| newdigate/teensy-eurorack | v2.0-beta | 2021-02-24T18:09:25Z | [open](../records/audio-newdigate-teensy-eurorack-52a4de61.md) |
+| newdigate/teensy-eurorack | partial | 2023-07-22T09:08:39Z | [open](../records/audio-newdigate-teensy-eurorack-52a4de61.md) |
 | OpenMOSS/MOSS-TTS | partial | 2026-08-30T08:31:12Z | [open](../records/audio-openmoss-moss-tts-9e9e0059.md) |
-| reales/OB-Xd | v2.20 | 2026-08-18T06:44:02Z | [open](../records/audio-reales-ob-xd-4de1e164.md) |
+| reales/OB-Xd | partial | 2026-08-18T06:45:29Z | [open](../records/audio-reales-ob-xd-4de1e164.md) |
 | sevagh/pitch-detection | partial | 2025-01-07T16:40:21Z | [open](../records/audio-sevagh-pitch-detection-26bd609d.md) |
-| shmoergh/moduleur | v1.1.1 | 2026-03-08T19:34:18Z | [open](../records/audio-shmoergh-moduleur-a638dc17.md) |
+| shmoergh/moduleur | partial | 2026-05-29T06:57:11Z | [open](../records/audio-shmoergh-moduleur-a638dc17.md) |
 | Yuan-ManX/audio-development-tools | partial | 2025-07-11T04:13:08Z | [open](../records/audio-yuan-manx-audio-development-tools-b03ea782.md) |
 
 ## Video
@@ -504,7 +505,7 @@ Records: `464`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| afermg/cp_measure | partial | 2026-09-02T17:06:45Z | [open](../records/microscopy-afermg-cp-measure-ee9fd0ec.md) |
+| afermg/cp_measure | partial | 2026-09-03T00:31:00Z | [open](../records/microscopy-afermg-cp-measure-ee9fd0ec.md) |
 | BiologyTools/BioImager | partial | 2026-06-19T10:01:50Z | [open](../records/microscopy-biologytools-bioimager-62b82291.md) |
 | Dana-Farber-AIOS/pathml | partial | 2026-08-14T02:49:27Z | [open](../records/microscopy-dana-farber-aios-pathml-b56cd566.md) |
 | flika-org/flika | partial | 2026-03-04T16:01:04Z | [open](../records/microscopy-flika-org-flika-fc3890a5.md) |

@@ -1,6 +1,6 @@
 # Image Audio Dsp
 
-Records: `314`
+Records: `350`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `314`
 ## Category Index
 
 [Api Abi Checker (199)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (131)](async-runtime.md)
-[Benchmarking (160)](benchmarking.md) · [Build System (871)](build-system.md) · [Cli (521)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (161)](benchmarking.md) · [Build System (875)](build-system.md) · [Cli (521)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (91)](community-reference.md) · [Compiler (173)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (45)](compression.md)
 [Concurrency Parallelism (75)](concurrency-parallelism.md) · [Configuration (107)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (160)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (791)](database-datastore.md) · [Datetime (167)](datetime.md)
+[Cryptography (160)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (791)](database-datastore.md) · [Datetime (172)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (41)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (93)](documentation.md)
-[Embedded Hardware (52)](embedded-hardware.md) · [Ffi Bindings (400)](ffi-bindings.md) · [Filesystem Os (1300)](filesystem-os.md) · [Formatter (578)](formatter.md)
-[Framework (51)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1257)](ide-editor-integration.md)
-**[Image Audio Dsp (314)](image-audio-dsp.md)** · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (240)](interpreter-runtime.md) · [Jit Vm (58)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1260)](language-specification.md) · [Library (5057)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (464)](logging-observability.md) · [Machine Learning (620)](machine-learning.md)
-[Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (946)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (402)](package-manager.md) · [Parser Lexer Ast (962)](parser-lexer-ast.md) · [Precommit Ci Quality (269)](precommit-ci-quality.md)
-[Profiler (78)](profiler.md) · [Project Scaffolding (125)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (325)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (465)](static-analyzer.md)
+[Embedded Hardware (53)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1310)](filesystem-os.md) · [Formatter (581)](formatter.md)
+[Framework (51)](framework.md) · [Fuzzer (50)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1261)](ide-editor-integration.md)
+**[Image Audio Dsp (350)](image-audio-dsp.md)** · [Interop Bindings (56)](interop-bindings.md) · [Interpreter Runtime (240)](interpreter-runtime.md) · [Jit Vm (58)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1261)](language-specification.md) · [Library (5059)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (465)](logging-observability.md) · [Machine Learning (622)](machine-learning.md)
+[Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (949)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (403)](package-manager.md) · [Parser Lexer Ast (965)](parser-lexer-ast.md) · [Precommit Ci Quality (269)](precommit-ci-quality.md)
+[Profiler (78)](profiler.md) · [Project Scaffolding (127)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Security Sast (325)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (24)](standard-library.md) · [Static Analyzer (468)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (511)](testing-framework.md) · [Tutorial Book Styleguide (53)](tutorial-book-styleguide.md) · [Type Checker (293)](type-checker.md)
-[Undefined Behavior Analyzer (1457)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (430)](visualization-gui.md) · [Web Framework (443)](web-framework.md)
+[Undefined Behavior Analyzer (1457)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (435)](visualization-gui.md) · [Web Framework (443)](web-framework.md)
 
 ## C++23
 
@@ -263,33 +263,56 @@ Records: `314`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | alyssaxuu/screenity | partial | 2026-09-01T21:19:58Z | [open](../records/audio-alyssaxuu-screenity-12b2e5cf.md) |
-| Ameobea/web-synth | unknown | github_latest_release_missing | [open](../records/audio-ameobea-web-synth-bbcd97d3.md) |
+| Ameobea/web-synth | partial | 2026-08-13T07:15:16Z | [open](../records/audio-ameobea-web-synth-bbcd97d3.md) |
 | amsynth/amsynth | partial | 2026-07-14T10:21:45Z | [open](../records/audio-amsynth-amsynth-d2f54c63.md) |
 | andremichelle/openDAW | partial | 2026-08-29T06:05:32Z | [open](../records/audio-andremichelle-opendaw-ecd83ddd.md) |
-| apfaudio/eurorack-pmod | release/hw-r3.3 | 2024-03-20T09:40:00Z | [open](../records/audio-apfaudio-eurorack-pmod-56004258.md) |
+| Ankalot/XenRoll | partial | 2026-07-09T09:25:03Z | [open](../records/audio-ankalot-xenroll-4c124fc2.md) |
+| apfaudio/eurorack-pmod | partial | 2026-01-29T21:53:26Z | [open](../records/audio-apfaudio-eurorack-pmod-56004258.md) |
 | ar1st0crat/NWaves | partial | 2022-09-27T18:42:31Z | [open](../records/audio-ar1st0crat-nwaves-3e35452a.md) |
 | Ardour/ardour | partial | 2026-09-02T03:03:01Z | [open](../records/audio-ardour-ardour-2553c055.md) |
-| AudioKit/ROMPlayer | unknown | github_latest_release_missing | [open](../records/audio-audiokit-romplayer-2b98bcd6.md) |
+| AudioKit/ROMPlayer | partial | 2019-12-29T21:15:21Z | [open](../records/audio-audiokit-romplayer-2b98bcd6.md) |
 | belangeo/pyo | partial | 2026-07-20T17:13:45Z | [open](../records/audio-belangeo-pyo-e606cff4.md) |
-| brettbuddin/shaden | unknown | github_latest_release_missing | [open](../records/audio-brettbuddin-shaden-872f0f42.md) |
+| BOBONA/Just-a-Sample | partial | 2026-08-17T18:41:25Z | [open](../records/audio-bobona-just-a-sample-82526ac0.md) |
+| brettbuddin/shaden | partial | 2026-02-22T04:57:13Z | [open](../records/audio-brettbuddin-shaden-872f0f42.md) |
+| Chowdhury-DSP/ChowMatrix | partial | 2022-07-16T14:37:08Z | [open](../records/audio-chowdhury-dsp-chowmatrix-3aab0cce.md) |
+| cvde/RoomReverb | partial | 2025-09-15T17:11:38Z | [open](../records/audio-cvde-roomreverb-a0c4b46d.md) |
 | cycfi/q | partial | 2026-09-02T10:02:40Z | [open](../records/audio-cycfi-q-42b5713b.md) |
-| danfrz/PLEBTracker | unknown | github_latest_release_missing | [open](../records/audio-danfrz-plebtracker-06b1bf3d.md) |
-| DBraun/DawDreamer | v0.9.0 | 2026-08-12T17:01:55Z | [open](../records/audio-dbraun-dawdreamer-ff34815f.md) |
+| danfrz/PLEBTracker | partial | 2025-11-22T09:38:10Z | [open](../records/audio-danfrz-plebtracker-06b1bf3d.md) |
+| DBraun/DawDreamer | partial | 2026-09-01T04:25:36Z | [open](../records/audio-dbraun-dawdreamer-ff34815f.md) |
+| DBraun/Sampler | partial | 2026-02-07T21:21:44Z | [open](../records/audio-dbraun-sampler-326175c5.md) |
+| dechamps/FlexASIO | partial | 2024-06-27T18:48:58Z | [open](../records/audio-dechamps-flexasio-7b158604.md) |
 | DISTRHO/Cardinal | partial | 2026-07-28T11:06:35Z | [open](../records/audio-distrho-cardinal-52b559a2.md) |
 | DistroAV/DistroAV | partial | 2026-08-23T14:09:10Z | [open](../records/audio-distroav-distroav-0b30296c.md) |
 | elemaudio/elementary | partial | 2026-01-19T19:25:43Z | [open](../records/audio-elemaudio-elementary-bb17cc74.md) |
+| ellamenop/repitch | partial | 2024-09-03T21:00:31Z | [open](../records/audio-ellamenop-repitch-250c2560.md) |
 | Faust | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-faust-5ea678fe.md) |
 | ffAudio/Frequalizer | partial | 2024-10-07T15:34:00Z | [open](../records/audio-ffaudio-frequalizer-1c4a9f6a.md) |
 | FFmpeg Audio | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-ffmpeg-audio-ea69064f.md) |
 | ffmpegwasm/ffmpeg.wasm | partial | 2026-02-01T08:35:30Z | [open](../records/audio-ffmpegwasm-ffmpeg-wasm-9b9d7a50.md) |
 | File-New-Project/EarTrumpet | partial | 2026-08-30T00:44:51Z | [open](../records/audio-file-new-project-eartrumpet-cd979706.md) |
+| floe-audio/Floe | partial | 2026-09-01T14:57:54Z | [open](../records/audio-floe-audio-floe-493f97d2.md) |
+| FredAntonCorvest/Common-AudioUnit-V3 | partial | 2017-05-17T20:31:15Z | [open](../records/audio-fredantoncorvest-common-audiounit-v3-3fe8d640.md) |
+| FredAntonCorvest/CreatingCustomAudioEffects-Universal | partial | 2022-01-23T19:08:38Z | [open](../records/audio-fredantoncorvest-creatingcustomaudioeffects-universal-dd850458.md) |
 | freeman-jiang/beatsync | partial | 2026-06-12T18:53:27Z | [open](../records/audio-freeman-jiang-beatsync-bdcabddc.md) |
 | FuchsiaBytes/twang | unknown | github_latest_release_missing | [open](../records/audio-fuchsiabytes-twang-463a8f33.md) |
+| fullfxmedia/setekh | partial | 2026-02-19T14:38:36Z | [open](../records/audio-fullfxmedia-setekh-d49835a1.md) |
+| GeekyEggo/SoundDeck | partial | 2024-10-16T18:13:01Z | [open](../records/audio-geekyeggo-sounddeck-4b9cf71b.md) |
+| glissando-daw/glissando-daw | partial | 2023-01-20T23:12:06Z | [open](../records/audio-glissando-daw-glissando-daw-86ff83f9.md) |
 | goldfire/howler.js | partial | 2025-11-23T23:49:01Z | [open](../records/audio-goldfire-howler-js-a9571685.md) |
 | GStreamer | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-gstreamer-de3f1993.md) |
+| GullDSP/Circulate-VST | partial | 2026-06-29T00:30:46Z | [open](../records/audio-gulldsp-circulate-vst-58e43839.md) |
+| hollance/synth-plugin-book | partial | 2024-06-22T16:06:23Z | [open](../records/audio-hollance-synth-plugin-book-e6e2ebe2.md) |
+| hollance/synth-recipes | partial | 2023-07-22T17:14:14Z | [open](../records/audio-hollance-synth-recipes-dbad6169.md) |
+| hqrrr/PerceptoMap | partial | 2026-09-02T08:40:45Z | [open](../records/audio-hqrrr-perceptomap-9176716f.md) |
 | hukenovs/dsp-theory | partial | 2026-04-21T18:12:35Z | [open](../records/audio-hukenovs-dsp-theory-fa2c75ff.md) |
+| iampawan/Flute-Music-Player | partial | 2020-12-30T15:43:12Z | [open](../records/audio-iampawan-flute-music-player-08b19a30.md) |
 | increpare/bfxr2 | partial | 2026-07-26T09:59:55Z | [open](../records/audio-increpare-bfxr2-16674ccc.md) |
+| insomnimus/drum-mapper | partial | 2026-04-05T10:58:22Z | [open](../records/audio-insomnimus-drum-mapper-637eda4d.md) |
 | jareddrayton/Audio-Plugin-Development-Resources | partial | 2022-11-01T15:35:25Z | [open](../records/audio-jareddrayton-audio-plugin-development-resources-5d496c70.md) |
+| jatinchowdhury18/ComplexNonlinearities | partial | 2021-03-19T22:45:23Z | [open](../records/audio-jatinchowdhury18-complexnonlinearities-896e8d81.md) |
+| jatinchowdhury18/DrumFixer | partial | 2020-08-31T15:09:55Z | [open](../records/audio-jatinchowdhury18-drumfixer-ee617c4e.md) |
+| jpcima/ADLplug | partial | 2023-05-12T13:28:41Z | [open](../records/audio-jpcima-adlplug-b50bda9f.md) |
+| jthorborg/signalizer | partial | 2026-08-01T15:42:02Z | [open](../records/audio-jthorborg-signalizer-c8caf869.md) |
 | JUCE | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-juce-3f2891c9.md) |
 | JuliaDSP/DSP.jl | partial | 2026-08-25T10:58:30Z | [open](../records/audio-juliadsp-dsp-jl-4e524896.md) |
 | katspaugh/wavesurfer.js | partial | 2026-09-02T19:35:18Z | [open](../records/audio-katspaugh-wavesurfer-js-cff13805.md) |
@@ -313,28 +336,41 @@ Records: `314`
 | orottier/web-audio-api-rs | partial | 2026-08-15T12:02:49Z | [open](../records/audio-orottier-web-audio-api-rs-b1a3cc71.md) |
 | OxygenCobalt/Auxio | partial | 2026-08-30T15:18:59Z | [open](../records/audio-oxygencobalt-auxio-c078449a.md) |
 | pavel-demin/red-pitaya-notes | partial | 2026-08-29T19:11:52Z | [open](../records/audio-pavel-demin-red-pitaya-notes-e5be73d9.md) |
-| philburk/jsyn | v17.2.0 | 2025-06-29T21:59:54Z | [open](../records/audio-philburk-jsyn-78aebd02.md) |
+| philburk/jsyn | partial | 2025-09-04T17:43:20Z | [open](../records/audio-philburk-jsyn-78aebd02.md) |
 | pion/webrtc | partial | 2026-09-02T15:47:11Z | [open](../records/audio-pion-webrtc-aa742b2d.md) |
 | PipeWire | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-pipewire-00d8ecfd.md) |
 | PortAudio | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-portaudio-40a7f336.md) |
+| prayash/audio-dsp | partial | 2019-09-25T02:10:56Z | [open](../records/audio-prayash-audio-dsp-bf2ee321.md) |
 | r9y9/pysptk | partial | 2024-07-16T11:33:16Z | [open](../records/audio-r9y9-pysptk-bef7db25.md) |
-| raphaelsalaja/audio | @web-kits/audio@0.1.0 | 2026-04-20T11:11:28Z | [open](../records/audio-raphaelsalaja-audio-f9f17e42.md) |
+| raphaelsalaja/audio | partial | 2026-04-26T19:06:36Z | [open](../records/audio-raphaelsalaja-audio-f9f17e42.md) |
+| RCJacH/RCSiner | partial | 2025-08-29T21:28:13Z | [open](../records/audio-rcjach-rcsiner-507d465d.md) |
 | readbeyond/aeneas | partial | 2026-07-25T10:22:31Z | [open](../records/audio-readbeyond-aeneas-05f471e1.md) |
 | rom1v/sndcpy | partial | 2026-07-15T12:00:54Z | [open](../records/audio-rom1v-sndcpy-b4d75ce7.md) |
+| rust-dsp/rtb-rs | partial | 2019-03-12T02:21:11Z | [open](../records/audio-rust-dsp-rtb-rs-eb1efd82.md) |
 | SamiPerttu/fundsp | partial | 2026-03-03T15:41:09Z | [open](../records/audio-samiperttu-fundsp-dc381c0a.md) |
+| sjoerdvankreel/firefly-synth | partial | 2026-01-08T21:28:44Z | [open](../records/audio-sjoerdvankreel-firefly-synth-02173536.md) |
+| sjoerdvankreel/firefly-synth-2 | partial | 2026-09-02T21:11:15Z | [open](../records/audio-sjoerdvankreel-firefly-synth-2-58314591.md) |
+| sjoerdvankreel/infernal-synth | partial | 2026-01-08T21:25:39Z | [open](../records/audio-sjoerdvankreel-infernal-synth-b17d2065.md) |
 | sonic-pi-net/sonic-pi | partial | 2026-08-12T16:51:53Z | [open](../records/audio-sonic-pi-net-sonic-pi-276f12ef.md) |
 | SoX | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-sox-26fadc03.md) |
 | spotify/basic-pitch | partial | 2025-11-13T14:40:46Z | [open](../records/audio-spotify-basic-pitch-05b329a5.md) |
 | spotify/pedalboard | partial | 2026-08-31T02:34:54Z | [open](../records/audio-spotify-pedalboard-2950d53f.md) |
+| ssabug/fxseq | partial | 2023-10-28T00:28:31Z | [open](../records/audio-ssabug-fxseq-872becec.md) |
 | strawberrymusicplayer/strawberry | partial | 2026-09-02T21:22:26Z | [open](../records/audio-strawberrymusicplayer-strawberry-65e2b7e4.md) |
 | SuperKogito/spafe | partial | 2025-03-20T16:16:12Z | [open](../records/audio-superkogito-spafe-354360b4.md) |
-| surge-synthesizer/surge | Nightly | 2024-08-07T14:35:52Z | [open](../records/audio-surge-synthesizer-surge-87b5aeea.md) |
+| surge-synthesizer/surge | partial | 2026-09-02T15:19:36Z | [open](../records/audio-surge-synthesizer-surge-87b5aeea.md) |
 | SynthstromAudible/DelugeFirmware | partial | 2026-09-02T16:23:49Z | [open](../records/audio-synthstromaudible-delugefirmware-4c834ea8.md) |
 | thesofproject/sof | partial | 2026-09-02T18:21:05Z | [open](../records/audio-thesofproject-sof-05fedbf2.md) |
 | tiagolr/ripplerx | partial | 2026-08-13T12:36:29Z | [open](../records/audio-tiagolr-ripplerx-36b38906.md) |
+| unevens/Curvessor | partial | 2026-05-27T04:30:13Z | [open](../records/audio-unevens-curvessor-1be4a246.md) |
+| unevens/Overdraw | partial | 2026-05-27T04:30:14Z | [open](../records/audio-unevens-overdraw-ee5e80f4.md) |
+| usdivad/Melodrumatic | partial | 2022-01-01T01:00:54Z | [open](../records/audio-usdivad-melodrumatic-2b42d019.md) |
+| webprofusion/OpenAudio | partial | 2026-08-26T07:08:44Z | [open](../records/audio-webprofusion-openaudio-3e463f4f.md) |
 | xdsopl/robot36 | partial | 2025-11-11T10:06:19Z | [open](../records/audio-xdsopl-robot36-6b99e83d.md) |
 | yandexdataschool/speech_course | partial | 2026-05-18T13:35:01Z | [open](../records/audio-yandexdataschool-speech-course-6265981b.md) |
 | ybayle/awesome-deep-learning-music | partial | 2023-12-15T16:51:26Z | [open](../records/audio-ybayle-awesome-deep-learning-music-588a9145.md) |
+| zamaudio/zam-plugins | partial | 2026-07-28T08:05:32Z | [open](../records/audio-zamaudio-zam-plugins-eeb95218.md) |
+| zmann-org/zmann | partial | 2026-06-27T11:35:53Z | [open](../records/audio-zmann-org-zmann-59a9ecd1.md) |
 
 ## Video
 
