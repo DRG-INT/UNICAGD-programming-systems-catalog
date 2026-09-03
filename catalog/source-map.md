@@ -4,7 +4,7 @@
 
 ## Category Index
 
-[Api Abi Checker (199)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (44)](by-category/assertion-mocking.md) · [Async Runtime (131)](by-category/async-runtime.md)
+[Api Abi Checker (199)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (44)](by-category/assertion-mocking.md) · [Async Runtime (132)](by-category/async-runtime.md)
 [Benchmarking (163)](by-category/benchmarking.md) · [Build System (878)](by-category/build-system.md) · [Cli (523)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (92)](by-category/community-reference.md) · [Compiler (173)](by-category/compiler.md) · [Compiler Diagnostics (23)](by-category/compiler-diagnostics.md) · [Compression (46)](by-category/compression.md)
 [Concurrency Parallelism (75)](by-category/concurrency-parallelism.md) · [Configuration (107)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
@@ -15,7 +15,7 @@
 [Image Audio Dsp (354)](by-category/image-audio-dsp.md) · [Interop Bindings (57)](by-category/interop-bindings.md) · [Interpreter Runtime (241)](by-category/interpreter-runtime.md) · [Jit Vm (59)](by-category/jit-vm.md)
 [Language Server (27)](by-category/language-server.md) · [Language Specification (1267)](by-category/language-specification.md) · [Library (5090)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (42)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (466)](by-category/logging-observability.md) · [Machine Learning (626)](by-category/machine-learning.md)
-[Math Numeric Scientific (82)](by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](by-category/memory-analyzer.md) · [Message Broker (35)](by-category/message-broker.md) · [Networking Http (951)](by-category/networking-http.md)
+[Math Numeric Scientific (82)](by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](by-category/memory-analyzer.md) · [Message Broker (35)](by-category/message-broker.md) · [Networking Http (952)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (405)](by-category/package-manager.md) · [Parser Lexer Ast (972)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (270)](by-category/precommit-ci-quality.md)
 [Profiler (78)](by-category/profiler.md) · [Project Scaffolding (127)](by-category/project-scaffolding.md) · [Registry Repository (107)](by-category/registry-repository.md) · [Sanitizer (13)](by-category/sanitizer.md)
 [Security Sast (329)](by-category/security-sast.md) · [Serialization (375)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (482)](by-category/static-analyzer.md)
@@ -22420,6 +22420,7 @@
 | `packagist_search-239d338f93184b` | phpredis/phpredis | [open](records/php-phpredis-phpredis-926805c1.md) |
 | `packagist_search-239e944814fef9` | jeremykendall/php-domain-parser | [open](records/php-jeremykendall-php-domain-parser-1dfe6960.md) |
 | `packagist_search-23a5a055e1d26c` | mongodb/laravel-mongodb | [open](records/php-mongodb-laravel-mongodb-ed68fcd9.md) |
+| `packagist_search-24ea37aaa5c485` | predis/predis-async | [open](records/php-predis-predis-async-db478bd7.md) |
 | `packagist_search-25533177da3083` | cyppe/laravel-batch-jobs-redis-driver | [open](records/php-cyppe-laravel-batch-jobs-redis-driver-925be53a.md) |
 | `packagist_search-25d9d0eeaab88f` | cybercog/laravel-clickhouse | [open](records/php-cybercog-laravel-clickhouse-03bf04d3.md) |
 | `packagist_search-26c1074bd9962f` | guzzle/guzzle | [open](records/php-guzzle-guzzle-82525725.md) |
@@ -22564,6 +22565,7 @@
 | `packagist_search-70014e7ecd11a6` | pcrov/jsonreader | [open](records/php-pcrov-jsonreader-fceb8491.md) |
 | `packagist_search-70679f32d02208` | php-jsonpointer/php-jsonpointer | [open](records/php-php-jsonpointer-php-jsonpointer-cebe5176.md) |
 | `packagist_search-70722ae6c786fc` | laravel-doctrine/orm | [open](records/php-laravel-doctrine-orm-48ed6b43.md) |
+| `packagist_search-71361d689082e3` | ptrofimov/tinyredisclient | [open](records/php-ptrofimov-tinyredisclient-7a8c233c.md) |
 | `packagist_search-715bdbf0626a3c` | pomm/pomm | [open](records/php-pomm-pomm-c24dec15.md) |
 | `packagist_search-71ad08e8dad41b` | edamov/pushok | [open](records/php-edamov-pushok-7ffe198c.md) |
 | `packagist_search-7247731a4dcc08` | yab/laravel-scout-mysql-driver | [open](records/php-yab-laravel-scout-mysql-driver-9af018fa.md) |

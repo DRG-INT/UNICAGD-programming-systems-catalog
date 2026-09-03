@@ -8,7 +8,7 @@ Records: `220`
 
 ## Category Index
 
-[Api Abi Checker (199)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (44)](../by-category/assertion-mocking.md) · [Async Runtime (131)](../by-category/async-runtime.md)
+[Api Abi Checker (199)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (44)](../by-category/assertion-mocking.md) · [Async Runtime (132)](../by-category/async-runtime.md)
 [Benchmarking (163)](../by-category/benchmarking.md) · [Build System (878)](../by-category/build-system.md) · [Cli (523)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (92)](../by-category/community-reference.md) · [Compiler (173)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (46)](../by-category/compression.md)
 [Concurrency Parallelism (75)](../by-category/concurrency-parallelism.md) · [Configuration (107)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
@@ -19,7 +19,7 @@ Records: `220`
 [Image Audio Dsp (354)](../by-category/image-audio-dsp.md) · [Interop Bindings (57)](../by-category/interop-bindings.md) · [Interpreter Runtime (241)](../by-category/interpreter-runtime.md) · [Jit Vm (59)](../by-category/jit-vm.md)
 [Language Server (27)](../by-category/language-server.md) · [Language Specification (1267)](../by-category/language-specification.md) · [Library (5090)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (42)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (466)](../by-category/logging-observability.md) · [Machine Learning (626)](../by-category/machine-learning.md)
-[Math Numeric Scientific (82)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (35)](../by-category/message-broker.md) · [Networking Http (951)](../by-category/networking-http.md)
+[Math Numeric Scientific (82)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (35)](../by-category/message-broker.md) · [Networking Http (952)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (405)](../by-category/package-manager.md) · [Parser Lexer Ast (972)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (270)](../by-category/precommit-ci-quality.md)
 [Profiler (78)](../by-category/profiler.md) · [Project Scaffolding (127)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
 [Security Sast (329)](../by-category/security-sast.md) · [Serialization (375)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (482)](../by-category/static-analyzer.md)
@@ -292,7 +292,7 @@ Records: `220`
 | [Stephane-D/SGDK](../records/assembly-stephane-d-sgdk-bad539e3.md) | partial | 2026-08-17T08:47:30Z | registry-derived |
 | [takenobu-hs/cpu-assembly-examples](../records/assembly-takenobu-hs-cpu-assembly-examples-b5867112.md) | partial | 2024-05-19T06:55:01Z | registry-derived |
 | [vonsim/vonsim](../records/assembly-vonsim-vonsim-6a8ef78f.md) | partial | 2026-05-29T02:08:00Z | registry-derived |
-| [vvaltchev/tilck](../records/assembly-vvaltchev-tilck-455a611e.md) | partial | 2026-09-03T05:25:48Z | registry-derived |
+| [vvaltchev/tilck](../records/assembly-vvaltchev-tilck-455a611e.md) | partial | 2026-09-03T05:55:26Z | registry-derived |
 | [yds12/x64-roadmap](../records/assembly-yds12-x64-roadmap-3b9663e2.md) | partial | 2020-07-16T15:54:20Z | registry-derived |
 | [yrp604/rappel](../records/assembly-yrp604-rappel-4bf787bb.md) | partial | 2024-03-07T04:45:15Z | registry-derived |
 

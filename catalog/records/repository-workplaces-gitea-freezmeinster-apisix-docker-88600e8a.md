@@ -33,16 +33,16 @@ operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2025-04-16T10:37:44Z | [https://gitea.com/api/v1/repos/search?q=ci&limit=50](https://gitea.com/api/v1/repos/search?q=ci&limit=50) | gitea_search_api_reports_activity_not_release_version |
+| stable | partial |  | 2025-04-16T10:37:44Z | [https://gitea.com/api/v1/repos/search?q=devops&limit=50](https://gitea.com/api/v1/repos/search?q=devops&limit=50) | gitea_search_api_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gitea_search_api_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -58,7 +58,7 @@ operational fit assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-03 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "ci", "retrieved": "2026-09-03", "status": "forge-api-derived"}` |
+| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-03 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "devops", "retrieved": "2026-09-03", "status": "forge-api-derived"}` |
 
 </details>
 
@@ -84,7 +84,7 @@ Evidence records merged into this identity: `1`.
 
 ## Category Index
 
-**[Api Abi Checker (199)](../by-category/api-abi-checker.md)** · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (44)](../by-category/assertion-mocking.md) · [Async Runtime (131)](../by-category/async-runtime.md)
+**[Api Abi Checker (199)](../by-category/api-abi-checker.md)** · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (44)](../by-category/assertion-mocking.md) · [Async Runtime (132)](../by-category/async-runtime.md)
 [Benchmarking (163)](../by-category/benchmarking.md) · [Build System (878)](../by-category/build-system.md) · [Cli (523)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (92)](../by-category/community-reference.md) · [Compiler (173)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (46)](../by-category/compression.md)
 [Concurrency Parallelism (75)](../by-category/concurrency-parallelism.md) · [Configuration (107)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
@@ -95,7 +95,7 @@ Evidence records merged into this identity: `1`.
 [Image Audio Dsp (354)](../by-category/image-audio-dsp.md) · [Interop Bindings (57)](../by-category/interop-bindings.md) · [Interpreter Runtime (241)](../by-category/interpreter-runtime.md) · [Jit Vm (59)](../by-category/jit-vm.md)
 [Language Server (27)](../by-category/language-server.md) · [Language Specification (1267)](../by-category/language-specification.md) · [Library (5090)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (42)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (466)](../by-category/logging-observability.md) · [Machine Learning (626)](../by-category/machine-learning.md)
-[Math Numeric Scientific (82)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (35)](../by-category/message-broker.md) · [Networking Http (951)](../by-category/networking-http.md)
+[Math Numeric Scientific (82)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (35)](../by-category/message-broker.md) · [Networking Http (952)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (405)](../by-category/package-manager.md) · [Parser Lexer Ast (972)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (270)](../by-category/precommit-ci-quality.md)
 [Profiler (78)](../by-category/profiler.md) · [Project Scaffolding (127)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
 [Security Sast (329)](../by-category/security-sast.md) · [Serialization (375)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (482)](../by-category/static-analyzer.md)

@@ -8,7 +8,7 @@ Records: `69`
 
 ## Category Index
 
-[Api Abi Checker (199)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (44)](../by-category/assertion-mocking.md) · [Async Runtime (131)](../by-category/async-runtime.md)
+[Api Abi Checker (199)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (44)](../by-category/assertion-mocking.md) · [Async Runtime (132)](../by-category/async-runtime.md)
 [Benchmarking (163)](../by-category/benchmarking.md) · [Build System (878)](../by-category/build-system.md) · [Cli (523)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (92)](../by-category/community-reference.md) · [Compiler (173)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (46)](../by-category/compression.md)
 [Concurrency Parallelism (75)](../by-category/concurrency-parallelism.md) · [Configuration (107)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
@@ -19,7 +19,7 @@ Records: `69`
 [Image Audio Dsp (354)](../by-category/image-audio-dsp.md) · [Interop Bindings (57)](../by-category/interop-bindings.md) · [Interpreter Runtime (241)](../by-category/interpreter-runtime.md) · [Jit Vm (59)](../by-category/jit-vm.md)
 [Language Server (27)](../by-category/language-server.md) · [Language Specification (1267)](../by-category/language-specification.md) · [Library (5090)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (42)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (466)](../by-category/logging-observability.md) · [Machine Learning (626)](../by-category/machine-learning.md)
-[Math Numeric Scientific (82)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (35)](../by-category/message-broker.md) · [Networking Http (951)](../by-category/networking-http.md)
+[Math Numeric Scientific (82)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (35)](../by-category/message-broker.md) · [Networking Http (952)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (405)](../by-category/package-manager.md) · [Parser Lexer Ast (972)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (270)](../by-category/precommit-ci-quality.md)
 [Profiler (78)](../by-category/profiler.md) · [Project Scaffolding (127)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
 [Security Sast (329)](../by-category/security-sast.md) · [Serialization (375)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (482)](../by-category/static-analyzer.md)
@@ -116,7 +116,7 @@ Records: `69`
 | [envoyproxy/data-plane-api](../records/starlark-envoyproxy-data-plane-api-7610f6c0.md) | partial | 2026-09-02T19:35:29Z | registry-derived |
 | [google/dotprompt](../records/starlark-google-dotprompt-07de9fab.md) | partial | 2026-09-03T02:39:10Z | registry-derived |
 | [google/fully-homomorphic-encryption](../records/starlark-google-fully-homomorphic-encryption-7e96f129.md) | partial | 2026-09-02T22:55:36Z | registry-derived |
-| [googleapis/googleapis](../records/starlark-googleapis-googleapis-b2038836.md) | partial | 2026-09-02T22:00:48Z | registry-derived |
+| [googleapis/googleapis](../records/starlark-googleapis-googleapis-b2038836.md) | partial | 2026-09-03T06:23:20Z | registry-derived |
 | [GoogleContainerTools/distroless](../records/starlark-googlecontainertools-distroless-b973874f.md) | partial | 2026-09-02T18:03:14Z | registry-derived |
 | [lucperkins/colossus](../records/starlark-lucperkins-colossus-6d410097.md) | partial | 2022-06-02T18:12:42Z | registry-derived |
 | [Starlark Language Specification](../records/starlark-starlark-language-specification-b9f4bbd9.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
@@ -140,7 +140,7 @@ Records: `69`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [protoconf/protoconf](../records/starlark-protoconf-protoconf-2d2b3184.md) | partial | 2026-09-03T02:46:52Z | registry-derived |
+| [protoconf/protoconf](../records/starlark-protoconf-protoconf-2d2b3184.md) | partial | 2026-09-03T05:56:33Z | registry-derived |
 | [remarshal-project/remarshal](../records/starlark-remarshal-project-remarshal-9ffddf4f.md) | partial | 2026-08-01T07:20:07Z | registry-derived |
 
 ### Undefined Behavior Analyzer

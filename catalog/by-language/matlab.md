@@ -8,7 +8,7 @@ Records: `287`
 
 ## Category Index
 
-[Api Abi Checker (199)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (44)](../by-category/assertion-mocking.md) · [Async Runtime (131)](../by-category/async-runtime.md)
+[Api Abi Checker (199)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (44)](../by-category/assertion-mocking.md) · [Async Runtime (132)](../by-category/async-runtime.md)
 [Benchmarking (163)](../by-category/benchmarking.md) · [Build System (878)](../by-category/build-system.md) · [Cli (523)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (92)](../by-category/community-reference.md) · [Compiler (173)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (46)](../by-category/compression.md)
 [Concurrency Parallelism (75)](../by-category/concurrency-parallelism.md) · [Configuration (107)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
@@ -19,7 +19,7 @@ Records: `287`
 [Image Audio Dsp (354)](../by-category/image-audio-dsp.md) · [Interop Bindings (57)](../by-category/interop-bindings.md) · [Interpreter Runtime (241)](../by-category/interpreter-runtime.md) · [Jit Vm (59)](../by-category/jit-vm.md)
 [Language Server (27)](../by-category/language-server.md) · [Language Specification (1267)](../by-category/language-specification.md) · [Library (5090)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (42)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (466)](../by-category/logging-observability.md) · [Machine Learning (626)](../by-category/machine-learning.md)
-[Math Numeric Scientific (82)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (35)](../by-category/message-broker.md) · [Networking Http (951)](../by-category/networking-http.md)
+[Math Numeric Scientific (82)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (35)](../by-category/message-broker.md) · [Networking Http (952)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (405)](../by-category/package-manager.md) · [Parser Lexer Ast (972)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (270)](../by-category/precommit-ci-quality.md)
 [Profiler (78)](../by-category/profiler.md) · [Project Scaffolding (127)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
 [Security Sast (329)](../by-category/security-sast.md) · [Serialization (375)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (482)](../by-category/static-analyzer.md)
@@ -256,7 +256,7 @@ Records: `287`
 | [Shuai-Xie/genetic-algorithm](../records/matlab-shuai-xie-genetic-algorithm-f7cb8aee.md) | partial | 2017-08-05T18:20:10Z | registry-derived |
 | [smousavi05/Seismic-Features-For-Machine-Learning](../records/matlab-smousavi05-seismic-features-for-machine-learning-b23e397b.md) | partial | 2021-03-03T05:30:39Z | registry-derived |
 | [SPIRIT-org/SPIRIT](../records/matlab-spirit-org-spirit-85199c7a.md) | partial | 2026-08-21T15:55:07Z | registry-derived |
-| [spm/spm](../records/matlab-spm-spm-26c6d9ba.md) | partial | 2026-09-02T09:49:40Z | registry-derived |
+| [spm/spm](../records/matlab-spm-spm-26c6d9ba.md) | partial | 2026-09-03T06:05:51Z | registry-derived |
 | [spm/spm12](../records/matlab-spm-spm12-7cee6644.md) | partial | 2024-02-05T13:43:41Z | registry-derived |
 | [SrirajBehera/Machine-Learning-Andrew-Ng](../records/matlab-srirajbehera-machine-learning-andrew-ng-f3d85a93.md) | partial | 2021-08-13T13:42:45Z | registry-derived |
 | [star2dust/paper-simulation](../records/matlab-star2dust-paper-simulation-9ae3627c.md) | partial | 2022-04-21T09:58:05Z | registry-derived |

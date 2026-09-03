@@ -8,7 +8,7 @@ Records: `1465`
 
 ## Category Index
 
-[Api Abi Checker (199)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (131)](async-runtime.md)
+[Api Abi Checker (199)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (132)](async-runtime.md)
 [Benchmarking (163)](benchmarking.md) · [Build System (878)](build-system.md) · [Cli (523)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (92)](community-reference.md) · [Compiler (173)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
 [Concurrency Parallelism (75)](concurrency-parallelism.md) · [Configuration (107)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
@@ -19,7 +19,7 @@ Records: `1465`
 [Image Audio Dsp (354)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (241)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
 [Language Server (27)](language-server.md) · [Language Specification (1267)](language-specification.md) · [Library (5090)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (42)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (466)](logging-observability.md) · [Machine Learning (626)](machine-learning.md)
-[Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (951)](networking-http.md)
+[Math Numeric Scientific (82)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (35)](message-broker.md) · [Networking Http (952)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (405)](package-manager.md) · [Parser Lexer Ast (972)](parser-lexer-ast.md) · [Precommit Ci Quality (270)](precommit-ci-quality.md)
 [Profiler (78)](profiler.md) · [Project Scaffolding (127)](project-scaffolding.md) · [Registry Repository (107)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (329)](security-sast.md) · [Serialization (375)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (482)](static-analyzer.md)
@@ -394,7 +394,7 @@ Records: `1465`
 | modal_progress_hud_nsn | 0.5.1 | 2024-01-21T07:54:41.686829Z | [open](../records/dart-modal-progress-hud-nsn-5d7f93e8.md) |
 | pub_semver | 2.2.1 | 2026-08-28T20:42:44.331700Z | [open](../records/dart-pub-semver-311cc40d.md) |
 | pub_updater | 0.6.0 | 2026-08-10T12:08:52.057791Z | [open](../records/dart-pub-updater-eeee5445.md) |
-| purchases_flutter | 10.10.1 | 2026-08-27T17:34:30.601098Z | [open](../records/dart-purchases-flutter-f414c649.md) |
+| purchases_flutter | 10.11.0 | 2026-09-03T05:14:22.526121Z | [open](../records/dart-purchases-flutter-f414c649.md) |
 | sanitize_html | 2.2.0 | 2026-07-07T07:22:53.369966Z | [open](../records/dart-sanitize-html-f669c89d.md) |
 | timelines_plus | 2.0.1 | 2026-08-08T10:53:08.430443Z | [open](../records/dart-timelines-plus-cb88566a.md) |
 | youtube_player_flutter | 10.0.1 | 2026-05-30T19:55:50.265482Z | [open](../records/dart-youtube-player-flutter-84549174.md) |
@@ -1676,7 +1676,7 @@ Records: `1465`
 | gitlab-data/data-image | partial | 2026-08-21T11:24:30.282Z | [open](../records/repository-workplaces-gitlab-data-data-image-0af0c35c.md) |
 | gitlab-examples/kubernetes-deploy | partial | 2026-01-07T14:56:28.754Z | [open](../records/repository-workplaces-gitlab-examples-kubernetes-deploy-9a43e04a.md) |
 | gitlab-examples/ruby-autodeploy | partial | 2026-01-07T14:56:29.516Z | [open](../records/repository-workplaces-gitlab-examples-ruby-autodeploy-0ea70988.md) |
-| gitlab-org/caproni | partial | 2026-09-02T23:24:31.321Z | [open](../records/repository-workplaces-gitlab-org-caproni-40271619.md) |
+| gitlab-org/caproni | partial | 2026-09-03T00:41:40.928Z | [open](../records/repository-workplaces-gitlab-org-caproni-40271619.md) |
 | gitlab-org/charts/gitlab-agent | partial | 2026-08-27T06:20:07.801Z | [open](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) |
 | gitlab-org/ci-cd/gitlab-runner-pod-cleanup | partial | 2026-05-15T07:38:19.652Z | [open](../records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) |
 | gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-02T19:05:13.016Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |

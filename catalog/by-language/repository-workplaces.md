@@ -8,7 +8,7 @@ Records: `523`
 
 ## Category Index
 
-[Api Abi Checker (199)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (44)](../by-category/assertion-mocking.md) · [Async Runtime (131)](../by-category/async-runtime.md)
+[Api Abi Checker (199)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (44)](../by-category/assertion-mocking.md) · [Async Runtime (132)](../by-category/async-runtime.md)
 [Benchmarking (163)](../by-category/benchmarking.md) · [Build System (878)](../by-category/build-system.md) · [Cli (523)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (92)](../by-category/community-reference.md) · [Compiler (173)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (46)](../by-category/compression.md)
 [Concurrency Parallelism (75)](../by-category/concurrency-parallelism.md) · [Configuration (107)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
@@ -19,7 +19,7 @@ Records: `523`
 [Image Audio Dsp (354)](../by-category/image-audio-dsp.md) · [Interop Bindings (57)](../by-category/interop-bindings.md) · [Interpreter Runtime (241)](../by-category/interpreter-runtime.md) · [Jit Vm (59)](../by-category/jit-vm.md)
 [Language Server (27)](../by-category/language-server.md) · [Language Specification (1267)](../by-category/language-specification.md) · [Library (5090)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (42)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (466)](../by-category/logging-observability.md) · [Machine Learning (626)](../by-category/machine-learning.md)
-[Math Numeric Scientific (82)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (35)](../by-category/message-broker.md) · [Networking Http (951)](../by-category/networking-http.md)
+[Math Numeric Scientific (82)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](../by-category/memory-analyzer.md) · [Message Broker (35)](../by-category/message-broker.md) · [Networking Http (952)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (405)](../by-category/package-manager.md) · [Parser Lexer Ast (972)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (270)](../by-category/precommit-ci-quality.md)
 [Profiler (78)](../by-category/profiler.md) · [Project Scaffolding (127)](../by-category/project-scaffolding.md) · [Registry Repository (107)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
 [Security Sast (329)](../by-category/security-sast.md) · [Serialization (375)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (482)](../by-category/static-analyzer.md)
@@ -49,7 +49,7 @@ Records: `523`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [crystal-forge/crystal-forge](../records/repository-workplaces-crystal-forge-crystal-forge-e00632e7.md) | partial | 2026-09-02T20:24:32.823Z | registry-derived |
+| [crystal-forge/crystal-forge](../records/repository-workplaces-crystal-forge-crystal-forge-e00632e7.md) | partial | 2026-09-03T02:55:42.800Z | registry-derived |
 | [davivc/gitlab-ci-google-cloud-kubernetes](../records/repository-workplaces-davivc-gitlab-ci-google-cloud-kubernetes-ae4609d3.md) | partial | 2020-04-04T19:23:06.380Z | registry-derived |
 | [Gitea: cryptoexplorer/AICRYPTOMINER](../records/repository-workplaces-gitea-cryptoexplorer-aicryptominer-63195b59.md) | partial | 2026-05-31T03:33:30Z | registry-derived |
 | [Gitea: GiteaAi/iiab](../records/repository-workplaces-gitea-giteaai-iiab-82c43685.md) | partial | 2024-12-30T09:20:03Z | registry-derived |
@@ -672,7 +672,7 @@ Records: `523`
 | [gitlab-data/data-image](../records/repository-workplaces-gitlab-data-data-image-0af0c35c.md) | partial | 2026-08-21T11:24:30.282Z | registry-derived |
 | [gitlab-examples/kubernetes-deploy](../records/repository-workplaces-gitlab-examples-kubernetes-deploy-9a43e04a.md) | partial | 2026-01-07T14:56:28.754Z | registry-derived |
 | [gitlab-examples/ruby-autodeploy](../records/repository-workplaces-gitlab-examples-ruby-autodeploy-0ea70988.md) | partial | 2026-01-07T14:56:29.516Z | registry-derived |
-| [gitlab-org/caproni](../records/repository-workplaces-gitlab-org-caproni-40271619.md) | partial | 2026-09-02T23:24:31.321Z | registry-derived |
+| [gitlab-org/caproni](../records/repository-workplaces-gitlab-org-caproni-40271619.md) | partial | 2026-09-03T00:41:40.928Z | registry-derived |
 | [gitlab-org/charts/gitlab-agent](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) | partial | 2026-08-27T06:20:07.801Z | registry-derived |
 | [gitlab-org/ci-cd/gitlab-runner-pod-cleanup](../records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) | partial | 2026-05-15T07:38:19.652Z | registry-derived |
 | [gitlab-org/cloud-native/gitlab-operator](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) | partial | 2026-09-02T19:05:13.016Z | registry-derived |

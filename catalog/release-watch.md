@@ -1,12 +1,12 @@
 # Release Watch
 
-Generated: `2026-09-03T05:31:30+00:00`
+Generated: `2026-09-03T06:26:45+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
 ## Category Index
 
-[Api Abi Checker (199)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (44)](by-category/assertion-mocking.md) · [Async Runtime (131)](by-category/async-runtime.md)
+[Api Abi Checker (199)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (44)](by-category/assertion-mocking.md) · [Async Runtime (132)](by-category/async-runtime.md)
 [Benchmarking (163)](by-category/benchmarking.md) · [Build System (878)](by-category/build-system.md) · [Cli (523)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (92)](by-category/community-reference.md) · [Compiler (173)](by-category/compiler.md) · [Compiler Diagnostics (23)](by-category/compiler-diagnostics.md) · [Compression (46)](by-category/compression.md)
 [Concurrency Parallelism (75)](by-category/concurrency-parallelism.md) · [Configuration (107)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
@@ -17,7 +17,7 @@ Generated: `2026-09-03T05:31:30+00:00`
 [Image Audio Dsp (354)](by-category/image-audio-dsp.md) · [Interop Bindings (57)](by-category/interop-bindings.md) · [Interpreter Runtime (241)](by-category/interpreter-runtime.md) · [Jit Vm (59)](by-category/jit-vm.md)
 [Language Server (27)](by-category/language-server.md) · [Language Specification (1267)](by-category/language-specification.md) · [Library (5090)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (42)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (466)](by-category/logging-observability.md) · [Machine Learning (626)](by-category/machine-learning.md)
-[Math Numeric Scientific (82)](by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](by-category/memory-analyzer.md) · [Message Broker (35)](by-category/message-broker.md) · [Networking Http (951)](by-category/networking-http.md)
+[Math Numeric Scientific (82)](by-category/math-numeric-scientific.md) · [Memory Analyzer (88)](by-category/memory-analyzer.md) · [Message Broker (35)](by-category/message-broker.md) · [Networking Http (952)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (405)](by-category/package-manager.md) · [Parser Lexer Ast (972)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (270)](by-category/precommit-ci-quality.md)
 [Profiler (78)](by-category/profiler.md) · [Project Scaffolding (127)](by-category/project-scaffolding.md) · [Registry Repository (107)](by-category/registry-repository.md) · [Sanitizer (13)](by-category/sanitizer.md)
 [Security Sast (329)](by-category/security-sast.md) · [Serialization (375)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (482)](by-category/static-analyzer.md)
@@ -29,12 +29,14 @@ Generated: `2026-09-03T05:31:30+00:00`
 | State | Count |
 | --- | ---: |
 | Known stable release | 9893 |
-| Unknown stable release | 14132 |
+| Unknown stable release | 14134 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| purchases_ui_flutter | Dart | Filesystem Os | 10.11.0 | 2026-09-03T05:17:03.512412Z | [open](records/dart-purchases-ui-flutter-327852a3.md) |
+| purchases_flutter | Dart | Undefined Behavior Analyzer | 10.11.0 | 2026-09-03T05:14:22.526121Z | [open](records/dart-purchases-flutter-f414c649.md) |
 | mint | Node.js/JavaScript | Cli | 4.2.865 | 2026-09-03T05:09:32.603Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
 | mintlify | Node.js/JavaScript | Cli | 4.2.865 | 2026-09-03T05:09:32.524Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
 | @mintlify/cli | Node.js/JavaScript | Cli | 4.0.1468 | 2026-09-03T05:09:29.233Z | [open](records/node-js-javascript-mintlify-cli-64dbc59b.md) |
@@ -283,8 +285,6 @@ Generated: `2026-09-03T05:31:30+00:00`
 | @cubejs-backend/mysql-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.32 | 2026-09-01T18:10:25.485Z | [open](records/node-js-javascript-cubejs-backend-mysql-driver-bf05660d.md) |
 | @cubejs-backend/athena-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.32 | 2026-09-01T18:10:20.680Z | [open](records/node-js-javascript-cubejs-backend-athena-driver-6bacd80a.md) |
 | @cubejs-backend/mssql-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.32 | 2026-09-01T18:09:54.023Z | [open](records/node-js-javascript-cubejs-backend-mssql-driver-74d7c0f0.md) |
-| @cubejs-backend/materialize-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.32 | 2026-09-01T18:09:42.127Z | [open](records/node-js-javascript-cubejs-backend-materialize-driver-bd47599a.md) |
-| @cubejs-backend/server | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.32 | 2026-09-01T18:09:33.748Z | [open](records/node-js-javascript-cubejs-backend-server-9616a19e.md) |
 
 ## Unknown Reasons
 
@@ -294,7 +294,7 @@ Generated: `2026-09-03T05:31:30+00:00`
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
-| packagist_package_metadata_missing | 476 |
+| packagist_package_metadata_missing | 478 |
 | github_search_does_not_include_release_date | 447 |
 | go_module_index_event_is_preview_or_pseudoversion | 414 |
 | curated_language_route_requires_source_specific_release_lookup | 400 |
