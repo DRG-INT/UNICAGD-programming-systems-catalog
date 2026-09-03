@@ -1,6 +1,6 @@
 # Library
 
-Records: `5128`
+Records: `5146`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `5128`
 
 ## Category Index
 
-[Api Abi Checker (201)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (133)](async-runtime.md)
-[Benchmarking (164)](benchmarking.md) · [Build System (884)](build-system.md) · [Cli (528)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (202)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (133)](async-runtime.md)
+[Benchmarking (164)](benchmarking.md) · [Build System (885)](build-system.md) · [Cli (528)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (92)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
-[Concurrency Parallelism (77)](concurrency-parallelism.md) · [Configuration (108)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (830)](database-datastore.md) · [Datetime (178)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (95)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (401)](ffi-bindings.md) · [Filesystem Os (1331)](filesystem-os.md) · [Formatter (587)](formatter.md)
-[Framework (52)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (164)](game-engine-game-dev.md) · [Ide Editor Integration (1280)](ide-editor-integration.md)
-[Image Audio Dsp (355)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (242)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1270)](language-specification.md) · **[Library (5128)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (473)](logging-observability.md) · [Machine Learning (634)](machine-learning.md)
-[Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (956)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (408)](package-manager.md) · [Parser Lexer Ast (993)](parser-lexer-ast.md) · [Precommit Ci Quality (274)](precommit-ci-quality.md)
-[Profiler (79)](profiler.md) · [Project Scaffolding (127)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (332)](security-sast.md) · [Serialization (377)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (486)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (513)](testing-framework.md) · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
-[Undefined Behavior Analyzer (1480)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (446)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
+[Concurrency Parallelism (78)](concurrency-parallelism.md) · [Configuration (108)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (830)](database-datastore.md) · [Datetime (180)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (96)](documentation.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1343)](filesystem-os.md) · [Formatter (590)](formatter.md)
+[Framework (52)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1289)](ide-editor-integration.md)
+[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (247)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1273)](language-specification.md) · **[Library (5146)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (477)](logging-observability.md) · [Machine Learning (636)](machine-learning.md)
+[Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (957)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (409)](package-manager.md) · [Parser Lexer Ast (994)](parser-lexer-ast.md) · [Precommit Ci Quality (275)](precommit-ci-quality.md)
+[Profiler (79)](profiler.md) · [Project Scaffolding (128)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Security Sast (332)](security-sast.md) · [Serialization (377)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (487)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (514)](testing-framework.md) · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
+[Undefined Behavior Analyzer (1487)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (452)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
 
 ## C99
 
@@ -4107,7 +4107,7 @@ Records: `5128`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-03T07:24:44Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-03T12:39:42Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4485,15 +4485,19 @@ Records: `5128`
 | BoyBaykiller/Newtonian-Particle-Simulator | partial | 2024-12-20T03:42:26Z | [open](../records/effects-boybaykiller-newtonian-particle-simulator-20622350.md) |
 | CGRU/cgru | partial | 2026-09-01T18:16:10Z | [open](../records/effects-cgru-cgru-8bbfaaf5.md) |
 | cgwire/kitsu | partial | 2026-08-31T11:28:00Z | [open](../records/effects-cgwire-kitsu-2e008acc.md) |
+| csdjk/LearnUnityShader | partial | 2025-06-10T02:51:21Z | [open](../records/effects-csdjk-learnunityshader-524b804a.md) |
 | curly-brace/godot_force_shield_shader | partial | 2017-09-23T07:17:03Z | [open](../records/effects-curly-brace-godot-force-shield-shader-79c0ff60.md) |
+| Cyanilux/URP_WatercolourShaders | partial | 2020-10-28T10:41:44Z | [open](../records/effects-cyanilux-urp-watercolourshaders-9a735971.md) |
 | DanielMartinus/Konfetti | partial | 2025-08-21T10:03:22Z | [open](../records/effects-danielmartinus-konfetti-128a0f7b.md) |
 | danielshervheim/unity-stylized-water | partial | 2021-03-17T04:49:11Z | [open](../records/effects-danielshervheim-unity-stylized-water-31cecbdc.md) |
 | diharaw/gpu-particle-system | partial | 2020-08-09T22:53:47Z | [open](../records/effects-diharaw-gpu-particle-system-ec5cdc62.md) |
 | dilmerv/UnityVFXEssentials | partial | 2023-04-25T17:54:21Z | [open](../records/effects-dilmerv-unityvfxessentials-8c0d4f5a.md) |
 | dilmerv/UnityVFXMillionsOfParticles | partial | 2023-04-25T17:51:11Z | [open](../records/effects-dilmerv-unityvfxmillionsofparticles-5cbdb921.md) |
+| DMeville/DMDecalBuffer | partial | 2021-11-15T16:32:26Z | [open](../records/effects-dmeville-dmdecalbuffer-1c3c6321.md) |
 | drawcall/Proton | partial | 2026-03-06T08:19:03Z | [open](../records/effects-drawcall-proton-022868db.md) |
 | dreamworksanimation/usdmanager | partial | 2026-08-28T16:11:47Z | [open](../records/effects-dreamworksanimation-usdmanager-40860b28.md) |
 | elringus/sprite-glow | partial | 2025-10-15T21:44:14Z | [open](../records/effects-elringus-sprite-glow-b7a43be9.md) |
+| End3r6/URPUnderwaterEffects | partial | 2024-06-20T05:33:51Z | [open](../records/effects-end3r6-urpunderwatereffects-e6c7ce42.md) |
 | fand/vfx-js | partial | 2026-08-11T22:45:13Z | [open](../records/effects-fand-vfx-js-267d1f85.md) |
 | fearofcode/bateman | unknown | github_latest_release_missing | [open](../records/effects-fearofcode-bateman-03c24113.md) |
 | GabrielSCabrera/nBody | partial | 2024-03-31T14:11:02Z | [open](../records/effects-gabrielscabrera-nbody-387acb4c.md) |
@@ -4503,6 +4507,7 @@ Records: `5128`
 | henriquelalves/SimpleGodotCRTShader | partial | 2024-09-02T21:57:23Z | [open](../records/effects-henriquelalves-simplegodotcrtshader-0feadcb8.md) |
 | Humprt/particula | partial | 2025-04-13T09:22:08Z | [open](../records/effects-humprt-particula-c6b87b55.md) |
 | hustcc/canvas-nest.js | v2.0.1 | 2018-06-23T04:31:11Z | [open](../records/effects-hustcc-canvas-nest-js-cee46f46.md) |
+| inoook/EffectShader | partial | 2015-08-16T15:28:33Z | [open](../records/effects-inoook-effectshader-4817eeb0.md) |
 | james7132/bevy_prototype_particles | partial | 2021-12-27T02:16:38Z | [open](../records/effects-james7132-bevy-prototype-particles-a0942f0f.md) |
 | jinatonic/confetti | partial | 2020-08-31T16:49:07Z | [open](../records/effects-jinatonic-confetti-c85518f9.md) |
 | jnicol/particleground | unknown | github_latest_release_missing | [open](../records/effects-jnicol-particleground-b8d4252a.md) |
@@ -4512,27 +4517,40 @@ Records: `5128`
 | keijiro/Akvj | partial | 2020-11-20T03:30:45Z | [open](../records/effects-keijiro-akvj-4be67964.md) |
 | keijiro/Dkvfx | partial | 2021-06-24T20:38:43Z | [open](../records/effects-keijiro-dkvfx-b25cb49c.md) |
 | keijiro/HdrpVatExample | partial | 2021-12-15T22:34:27Z | [open](../records/effects-keijiro-hdrpvatexample-18f3383c.md) |
+| keijiro/Isaura | partial | 2018-03-25T09:14:10Z | [open](../records/effects-keijiro-isaura-86de093d.md) |
+| keijiro/KinoContour | partial | 2018-10-30T02:15:15Z | [open](../records/effects-keijiro-kinocontour-0897e135.md) |
 | keijiro/KvantStream | unknown | github_latest_release_missing | [open](../records/effects-keijiro-kvantstream-4c4847ec.md) |
 | keijiro/PcxEffects3 | partial | 2020-08-14T02:38:10Z | [open](../records/effects-keijiro-pcxeffects3-2966e3b2.md) |
 | keijiro/ProcCharVfx | partial | 2022-01-08T02:21:37Z | [open](../records/effects-keijiro-proccharvfx-7f36c4f0.md) |
 | keijiro/Rsvfx | partial | 2021-12-20T22:02:14Z | [open](../records/effects-keijiro-rsvfx-74b4792e.md) |
 | keijiro/SdfVfxSamples | partial | 2024-10-08T02:19:58Z | [open](../records/effects-keijiro-sdfvfxsamples-8421d30b.md) |
-| keijiro/ShurikenPlus | unknown | github_latest_release_missing | [open](../records/effects-keijiro-shurikenplus-602ff24f.md) |
+| keijiro/ShurikenPlus | partial | 2018-01-04T10:49:21Z | [open](../records/effects-keijiro-shurikenplus-602ff24f.md) |
 | keijiro/Smrvfx | partial | 2022-10-12T02:43:26Z | [open](../records/effects-keijiro-smrvfx-2e4ac59c.md) |
 | keijiro/VfxMinisExamples | partial | 2025-05-19T08:12:33Z | [open](../records/effects-keijiro-vfxminisexamples-4d4ec3dc.md) |
 | keijiro/VfxPyro | partial | 2020-10-22T16:21:02Z | [open](../records/effects-keijiro-vfxpyro-726c4673.md) |
+| lferreira457/threejs-psx-shader | partial | 2026-07-18T00:40:34Z | [open](../records/effects-lferreira457-threejs-psx-shader-02d6679e.md) |
+| lukakldiashvili/URP-Transparent-Distortion-Example | partial | 2023-04-09T12:02:19Z | [open](../records/effects-lukakldiashvili-urp-transparent-distortion-example-16952f3a.md) |
+| MatthewSRC/native-springs-shaders | partial | 2026-05-31T16:04:21Z | [open](../records/effects-matthewsrc-native-springs-shaders-ae91911b.md) |
 | miickel/flutter_particle_clock | partial | 2023-03-19T15:48:27Z | [open](../records/effects-miickel-flutter-particle-clock-00b2a89b.md) |
 | mvilledieu/shadertoy-react | partial | 2023-03-07T00:26:39Z | [open](../records/effects-mvilledieu-shadertoy-react-ce4d2733.md) |
 | MysteryPancake/Houdini-Fun | partial | 2026-09-02T07:17:09Z | [open](../records/effects-mysterypancake-houdini-fun-2e70635d.md) |
 | nolangz/3D-Chladni | partial | 2026-07-18T11:40:22Z | [open](../records/effects-nolangz-3d-chladni-45d7a880.md) |
 | ntsc-rs/ntsc-rs | partial | 2026-08-01T23:20:07Z | [open](../records/effects-ntsc-rs-ntsc-rs-7ace46da.md) |
+| numberwolf/FFmpeg-PlusPlus | partial | 2026-03-11T05:58:57Z | [open](../records/effects-numberwolf-ffmpeg-plusplus-3bc7c46d.md) |
 | OYsun/AE-Element | partial | 2019-03-28T08:23:57Z | [open](../records/effects-oysun-ae-element-e496f20a.md) |
 | pixijs-userland/particle-emitter | v5.0.8 | 2022-11-28T04:04:45Z | [open](../records/effects-pixijs-userland-particle-emitter-b76be455.md) |
+| Raphael2048/GodotCanvasEffects | partial | 2019-07-08T09:00:08Z | [open](../records/effects-raphael2048-godotcanvaseffects-43f52b01.md) |
+| right2sky/UnityChanToonShaderVer2_EmissiveScroll | partial | 2024-10-29T02:01:44Z | [open](../records/effects-right2sky-unitychantoonshaderver2-emissivescroll-988f13d8.md) |
+| rmnkhr/shaderbox | partial | 2025-03-20T17:56:27Z | [open](../records/effects-rmnkhr-shaderbox-3822465c.md) |
 | Robert-K/gpu-particles | partial | 2018-11-07T18:28:22Z | [open](../records/effects-robert-k-gpu-particles-76cd9f4d.md) |
 | Schneegans/Burn-My-Windows | partial | 2026-03-15T19:31:20Z | [open](../records/effects-schneegans-burn-my-windows-b353584f.md) |
 | setchi/Unity-Effects | partial | 2017-12-30T11:27:43Z | [open](../records/effects-setchi-unity-effects-cd6f53d4.md) |
 | setchi/Unity-ShaderSketches | partial | 2019-10-31T15:57:41Z | [open](../records/effects-setchi-unity-shadersketches-dbf34dff.md) |
+| Shealynntate/Pixel-Burn-Effect | partial | 2024-02-17T19:07:14Z | [open](../records/effects-shealynntate-pixel-burn-effect-7ea1fa5b.md) |
 | skeeto/webgl-particles | unknown | github_latest_release_missing | [open](../records/effects-skeeto-webgl-particles-2b9dfa02.md) |
+| tapeQz/Shine | partial | 2026-06-09T15:02:52Z | [open](../records/effects-tapeqz-shine-1178023f.md) |
+| Teragam/JFXShader | partial | 2026-03-22T17:44:20Z | [open](../records/effects-teragam-jfxshader-5c03bb3c.md) |
+| TheSalts/Text_Effects | partial | 2026-06-06T01:22:29Z | [open](../records/effects-thesalts-text-effects-565e3f1f.md) |
 | tom-mohr/particle-life-app | partial | 2025-12-13T19:37:02Z | [open](../records/effects-tom-mohr-particle-life-app-f8f211cd.md) |
 | uzkbwza/BurstParticles2D | unknown | github_latest_release_missing | [open](../records/effects-uzkbwza-burstparticles2d-c1a8a7f4.md) |
 | yiliansource/party-js | partial | 2025-09-08T15:23:15Z | [open](../records/effects-yiliansource-party-js-532e4ff4.md) |
