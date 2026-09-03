@@ -8,23 +8,23 @@ Records: `969`
 
 ## Category Index
 
-[Api Abi Checker (204)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
-[Benchmarking (166)](benchmarking.md) · [Build System (908)](build-system.md) · [Cli (535)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (99)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (47)](compression.md)
-[Concurrency Parallelism (78)](concurrency-parallelism.md) · [Configuration (113)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (163)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (833)](database-datastore.md) · [Datetime (186)](datetime.md)
+[Api Abi Checker (205)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
+[Benchmarking (166)](benchmarking.md) · [Build System (918)](build-system.md) · [Cli (536)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (99)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
+[Concurrency Parallelism (79)](concurrency-parallelism.md) · [Configuration (115)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (835)](database-datastore.md) · [Datetime (186)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (97)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (403)](ffi-bindings.md) · [Filesystem Os (1375)](filesystem-os.md) · [Formatter (599)](formatter.md)
-[Framework (54)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (169)](game-engine-game-dev.md) · [Ide Editor Integration (1320)](ide-editor-integration.md)
-[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (251)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1377)](language-specification.md) · [Library (5243)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (483)](logging-observability.md) · [Machine Learning (647)](machine-learning.md)
-[Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (38)](message-broker.md) · **[Networking Http (969)](networking-http.md)**
-[Other (14)](other.md) · [Package Manager (415)](package-manager.md) · [Parser Lexer Ast (1003)](parser-lexer-ast.md) · [Precommit Ci Quality (278)](precommit-ci-quality.md)
-[Profiler (79)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (333)](security-sast.md) · [Serialization (379)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (490)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (520)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
-[Undefined Behavior Analyzer (1499)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (466)](visualization-gui.md) · [Web Framework (451)](web-framework.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (405)](ffi-bindings.md) · [Filesystem Os (1386)](filesystem-os.md) · [Formatter (609)](formatter.md)
+[Framework (54)](framework.md) · [Fuzzer (54)](fuzzer.md) · [Game Engine Game Dev (172)](game-engine-game-dev.md) · [Ide Editor Integration (1326)](ide-editor-integration.md)
+[Image Audio Dsp (359)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (252)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1377)](language-specification.md) · [Library (5259)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (483)](logging-observability.md) · [Machine Learning (655)](machine-learning.md)
+[Math Numeric Scientific (84)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (38)](message-broker.md) · **[Networking Http (969)](networking-http.md)**
+[Other (14)](other.md) · [Package Manager (417)](package-manager.md) · [Parser Lexer Ast (1016)](parser-lexer-ast.md) · [Precommit Ci Quality (282)](precommit-ci-quality.md)
+[Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Security Sast (333)](security-sast.md) · [Serialization (380)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (493)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (520)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (300)](type-checker.md)
+[Undefined Behavior Analyzer (1504)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (470)](visualization-gui.md) · [Web Framework (452)](web-framework.md)
 
 ## C99
 
@@ -250,7 +250,7 @@ Records: `969`
 | @adonisjs/http-server | 9.3.0 | 2026-08-24T08:01:55.704Z | [open](../records/node-js-javascript-adonisjs-http-server-c6d0fa46.md) |
 | @algolia/requester-node-http | 5.57.0 | 2026-08-18T12:48:46.149Z | [open](../records/node-js-javascript-algolia-requester-node-http-0ff5a2d6.md) |
 | @aws-amplify/graphql-http-transformer | 3.0.23 | 2026-07-13T21:18:20.438Z | [open](../records/node-js-javascript-aws-amplify-graphql-http-transformer-8ede633f.md) |
-| @aws-sdk/client-database-migration-service | 3.1125.0 | 2026-09-02T18:48:52.862Z | [open](../records/node-js-javascript-aws-sdk-client-database-migration-service-058f4424.md) |
+| @aws-sdk/client-database-migration-service | 3.1126.0 | 2026-09-03T18:51:31.611Z | [open](../records/node-js-javascript-aws-sdk-client-database-migration-service-058f4424.md) |
 | @azure/core-http-compat | 2.5.0 | 2026-07-13T21:38:57.674Z | [open](../records/node-js-javascript-azure-core-http-compat-82cb36ba.md) |
 | @cedarjs/api-server | 6.0.1 | 2026-08-29T05:33:02.047Z | [open](../records/node-js-javascript-cedarjs-api-server-0ec0ed14.md) |
 | @cloudflare/util-http | 2.0.19 | 2026-06-30T12:53:46.901Z | [open](../records/node-js-javascript-cloudflare-util-http-2d4a7ac2.md) |
@@ -331,7 +331,7 @@ Records: `969`
 | @replit/database | 3.0.1 | 2024-04-15T20:42:25.524Z | [open](../records/node-js-javascript-replit-database-0043e0f4.md) |
 | @sap-cloud-sdk/http-client | 4.9.1 | 2026-08-25T09:53:33.332Z | [open](../records/node-js-javascript-sap-cloud-sdk-http-client-39685909.md) |
 | @solana/rpc-transport-http | 8.2.0 | 2026-08-29T12:47:35.422Z | [open](../records/node-js-javascript-solana-rpc-transport-http-9bf28267.md) |
-| @stacksjs/http | 0.74.8 | 2026-09-03T17:54:27.961Z | [open](../records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
+| @stacksjs/http | 0.74.11 | 2026-09-03T19:58:24.703Z | [open](../records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
 | @szmarczak/http-timer | 5.0.1 | 2021-08-20T23:26:11.251Z | [open](../records/node-js-javascript-szmarczak-http-timer-6c6c6722.md) |
 | @taquito/http-utils | 25.0.0 | 2026-06-29T16:13:55.600Z | [open](../records/node-js-javascript-taquito-http-utils-f75d23ea.md) |
 | @tmcp/transport-http | 0.9.0 | 2026-08-14T12:55:32.461Z | [open](../records/node-js-javascript-tmcp-transport-http-2f7c157d.md) |
@@ -688,7 +688,7 @@ Records: `969`
 | wai-websockets | 3.0.1.2 | 2018-03-19T12:32:07Z | [open](../records/haskell-wai-websockets-3782ed20.md) |
 | websockets | 0.13.0.0 | 2023-12-30T08:15:48Z | [open](../records/haskell-websockets-dd52de9c.md) |
 | websockets-snap | 0.10.3.1 | 2019-05-06T11:31:08Z | [open](../records/haskell-websockets-snap-116972ec.md) |
-| yesod-websockets | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yesod-websockets-96029917.md) |
+| yesod-websockets | 0.3.0.4 | 2026-06-17T16:53:04Z | [open](../records/haskell-yesod-websockets-96029917.md) |
 
 ## Octave
 
@@ -768,8 +768,8 @@ Records: `969`
 | ChimeraCoder/anaconda | partial | 2024-01-28T15:07:20Z | [open](../records/go-chimeracoder-anaconda-6a61e747.md) |
 | g3n/engine | partial | 2026-08-01T16:23:05Z | [open](../records/go-g3n-engine-0b367039.md) |
 | go-resty/resty | partial | 2026-07-26T00:45:12Z | [open](../records/go-go-resty-resty-9cfada1b.md) |
-| redis/go-redis | partial | 2026-09-03T18:42:31Z | [open](../records/go-redis-go-redis-fe715a04.md) |
-| spicetify/cli | partial | 2026-09-02T22:07:06Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
+| redis/go-redis | partial | 2026-09-03T19:44:09Z | [open](../records/go-redis-go-redis-fe715a04.md) |
+| spicetify/cli | partial | 2026-09-03T19:48:27Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
 | teler-sh/teler-waf | partial | 2025-03-18T01:40:27Z | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
 | xiaolincoder/CS-Base | partial | 2024-11-27T06:32:13Z | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
 | yincongcyincong/mcp-client-go | partial | 2025-09-09T09:54:40Z | [open](../records/go-yincongcyincong-mcp-client-go-551e8f66.md) |
@@ -1208,7 +1208,7 @@ Records: `969`
 | PyMySQL/PyMySQL | partial | 2026-08-18T09:00:54Z | [open](../records/databases-pymysql-pymysql-5d492d34.md) |
 | qdrant/qdrant-client | partial | 2026-09-02T10:20:12Z | [open](../records/databases-qdrant-qdrant-client-c2e262b3.md) |
 | SheetJS/sheetjs | partial | 2024-04-18T08:06:46Z | [open](../records/databases-sheetjs-sheetjs-8657dc9b.md) |
-| t8y2/dbx | partial | 2026-09-03T18:22:21Z | [open](../records/databases-t8y2-dbx-97368a4a.md) |
+| t8y2/dbx | partial | 2026-09-03T18:42:07Z | [open](../records/databases-t8y2-dbx-97368a4a.md) |
 
 ## Repository Workplaces
 

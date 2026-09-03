@@ -4,23 +4,23 @@
 
 ## Category Index
 
-[Api Abi Checker (204)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (44)](by-category/assertion-mocking.md) · [Async Runtime (134)](by-category/async-runtime.md)
-[Benchmarking (166)](by-category/benchmarking.md) · [Build System (908)](by-category/build-system.md) · [Cli (535)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
-[Community Reference (99)](by-category/community-reference.md) · [Compiler (174)](by-category/compiler.md) · [Compiler Diagnostics (23)](by-category/compiler-diagnostics.md) · [Compression (47)](by-category/compression.md)
-[Concurrency Parallelism (78)](by-category/concurrency-parallelism.md) · [Configuration (113)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (163)](by-category/cryptography.md) · [Data Science (35)](by-category/data-science.md) · [Database Datastore (833)](by-category/database-datastore.md) · [Datetime (186)](by-category/datetime.md)
+[Api Abi Checker (205)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (44)](by-category/assertion-mocking.md) · [Async Runtime (134)](by-category/async-runtime.md)
+[Benchmarking (166)](by-category/benchmarking.md) · [Build System (918)](by-category/build-system.md) · [Cli (536)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Community Reference (99)](by-category/community-reference.md) · [Compiler (174)](by-category/compiler.md) · [Compiler Diagnostics (23)](by-category/compiler-diagnostics.md) · [Compression (48)](by-category/compression.md)
+[Concurrency Parallelism (79)](by-category/concurrency-parallelism.md) · [Configuration (115)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
+[Cryptography (165)](by-category/cryptography.md) · [Data Science (35)](by-category/data-science.md) · [Database Datastore (835)](by-category/database-datastore.md) · [Datetime (186)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (42)](by-category/debugger.md) · [Dependency Manager (93)](by-category/dependency-manager.md) · [Documentation (97)](by-category/documentation.md)
-[Embedded Hardware (54)](by-category/embedded-hardware.md) · [Ffi Bindings (403)](by-category/ffi-bindings.md) · [Filesystem Os (1375)](by-category/filesystem-os.md) · [Formatter (599)](by-category/formatter.md)
-[Framework (54)](by-category/framework.md) · [Fuzzer (53)](by-category/fuzzer.md) · [Game Engine Game Dev (169)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1320)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (356)](by-category/image-audio-dsp.md) · [Interop Bindings (58)](by-category/interop-bindings.md) · [Interpreter Runtime (251)](by-category/interpreter-runtime.md) · [Jit Vm (60)](by-category/jit-vm.md)
-[Language Server (27)](by-category/language-server.md) · [Language Specification (1377)](by-category/language-specification.md) · [Library (5243)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (43)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (483)](by-category/logging-observability.md) · [Machine Learning (647)](by-category/machine-learning.md)
-[Math Numeric Scientific (83)](by-category/math-numeric-scientific.md) · [Memory Analyzer (89)](by-category/memory-analyzer.md) · [Message Broker (38)](by-category/message-broker.md) · [Networking Http (969)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (415)](by-category/package-manager.md) · [Parser Lexer Ast (1003)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (278)](by-category/precommit-ci-quality.md)
-[Profiler (79)](by-category/profiler.md) · [Project Scaffolding (130)](by-category/project-scaffolding.md) · [Registry Repository (108)](by-category/registry-repository.md) · [Sanitizer (13)](by-category/sanitizer.md)
-[Security Sast (333)](by-category/security-sast.md) · [Serialization (379)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (490)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (520)](by-category/testing-framework.md) · [Tutorial Book Styleguide (56)](by-category/tutorial-book-styleguide.md) · [Type Checker (297)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1499)](by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](by-category/utility-library.md) · [Visualization Gui (466)](by-category/visualization-gui.md) · [Web Framework (451)](by-category/web-framework.md)
+[Embedded Hardware (54)](by-category/embedded-hardware.md) · [Ffi Bindings (405)](by-category/ffi-bindings.md) · [Filesystem Os (1386)](by-category/filesystem-os.md) · [Formatter (609)](by-category/formatter.md)
+[Framework (54)](by-category/framework.md) · [Fuzzer (54)](by-category/fuzzer.md) · [Game Engine Game Dev (172)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1326)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (359)](by-category/image-audio-dsp.md) · [Interop Bindings (58)](by-category/interop-bindings.md) · [Interpreter Runtime (252)](by-category/interpreter-runtime.md) · [Jit Vm (60)](by-category/jit-vm.md)
+[Language Server (27)](by-category/language-server.md) · [Language Specification (1377)](by-category/language-specification.md) · [Library (5259)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (43)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (483)](by-category/logging-observability.md) · [Machine Learning (655)](by-category/machine-learning.md)
+[Math Numeric Scientific (84)](by-category/math-numeric-scientific.md) · [Memory Analyzer (89)](by-category/memory-analyzer.md) · [Message Broker (38)](by-category/message-broker.md) · [Networking Http (969)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (417)](by-category/package-manager.md) · [Parser Lexer Ast (1016)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (282)](by-category/precommit-ci-quality.md)
+[Profiler (82)](by-category/profiler.md) · [Project Scaffolding (130)](by-category/project-scaffolding.md) · [Registry Repository (108)](by-category/registry-repository.md) · [Sanitizer (13)](by-category/sanitizer.md)
+[Security Sast (333)](by-category/security-sast.md) · [Serialization (380)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (493)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (520)](by-category/testing-framework.md) · [Tutorial Book Styleguide (56)](by-category/tutorial-book-styleguide.md) · [Type Checker (300)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (1504)](by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](by-category/utility-library.md) · [Visualization Gui (470)](by-category/visualization-gui.md) · [Web Framework (452)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -827,6 +827,7 @@
 | `cran_packages_by_date-03123592200a98` | nhdplusTools | [open](records/r-nhdplustools-0680e4dc.md) |
 | `cran_packages_by_date-0328c9f123be93` | DOEpro | [open](records/r-doepro-6638c84b.md) |
 | `cran_packages_by_date-033c28a67f2951` | RougeLM | [open](records/r-rougelm-bcc3640f.md) |
+| `cran_packages_by_date-03565bac89330c` | AntClassify | [open](records/r-antclassify-2aaaab03.md) |
 | `cran_packages_by_date-036812dc21c209` | TRSbook | [open](records/r-trsbook-a6bb2d75.md) |
 | `cran_packages_by_date-03868446f8547f` | tsgc | [open](records/r-tsgc-0268ce28.md) |
 | `cran_packages_by_date-03b87b237c4760` | betaregscale | [open](records/r-betaregscale-5b141637.md) |
@@ -987,6 +988,7 @@
 | `cran_packages_by_date-1da9107f2a4737` | taxodist | [open](records/r-taxodist-e4329e58.md) |
 | `cran_packages_by_date-1de177378a0578` | corrselect | [open](records/r-corrselect-f4687453.md) |
 | `cran_packages_by_date-1df2dea92acc98` | geolibre | [open](records/r-geolibre-bac705f5.md) |
+| `cran_packages_by_date-1e029c53d9217f` | optconerrf | [open](records/r-optconerrf-4b033e8f.md) |
 | `cran_packages_by_date-1e24a41bd4d434` | datanugget | [open](records/r-datanugget-a0c120b9.md) |
 | `cran_packages_by_date-1e43c90ab0535b` | RPesto | [open](records/r-rpesto-b896b7d5.md) |
 | `cran_packages_by_date-1e6516b2aa9ccc` | textrar | [open](records/r-textrar-560c8e68.md) |
@@ -1080,6 +1082,7 @@
 | `cran_packages_by_date-2bafdce4b58005` | tweedieDistr | [open](records/r-tweediedistr-cadd42cb.md) |
 | `cran_packages_by_date-2ca6808ef970e7` | gkwreg | [open](records/r-gkwreg-db25c16d.md) |
 | `cran_packages_by_date-2d33e01e34a6d6` | guideR | [open](records/r-guider-188f5cbf.md) |
+| `cran_packages_by_date-2d70d0cddb92ca` | gge | [open](records/r-gge-951d070d.md) |
 | `cran_packages_by_date-2dc23f92c6ae89` | HeatStressR | [open](records/r-heatstressr-efbc6ad7.md) |
 | `cran_packages_by_date-2ddc6fec05f184` | serad | [open](records/r-serad-0274bde8.md) |
 | `cran_packages_by_date-2dddeb17c43d5a` | cuda.ml | [open](records/r-cuda-ml-e3f5e9f7.md) |
@@ -5644,22 +5647,31 @@
 | `github_search_assembly-ffe2bcae765c64` | jishanshaikh4/8086-cheatsheet | [open](records/assembly-jishanshaikh4-8086-cheatsheet-66f8dab8.md) |
 | `github_search_assets-00013559d790c1` | nuxt-modules/google-fonts | [open](records/assets-nuxt-modules-google-fonts-ff39da19.md) |
 | `github_search_assets-0027e521e8271a` | Shelf-nu/shelf.nu | [open](records/assets-shelf-nu-shelf-nu-2414163a.md) |
+| `github_search_assets-012003c033be2d` | 1024XEngineer/Holonic-Asset | [open](records/assets-1024xengineer-holonic-asset-957733ad.md) |
 | `github_search_assets-01829854afaff7` | django-cms/django-sekizai | [open](records/assets-django-cms-django-sekizai-0360a0be.md) |
+| `github_search_assets-018a12a30f7dd0` | KhronosGroup/KTX-Software | [open](records/assets-khronosgroup-ktx-software-0a60c726.md) |
 | `github_search_assets-029a517aaaae1f` | Vasfed/csso-rails | [open](records/assets-vasfed-csso-rails-db65e45b.md) |
 | `github_search_assets-0303cddb97e8d2` | ashe23/ProjectCleaner | [open](records/assets-ashe23-projectcleaner-d29fe2cd.md) |
 | `github_search_assets-0426241fffeec2` | Figma-Linux/figma-linux-font-helper | [open](records/assets-figma-linux-figma-linux-font-helper-926a2b9d.md) |
+| `github_search_assets-0453833532ddfb` | thecrazymage/CasTex | [open](records/assets-thecrazymage-castex-95d4170f.md) |
 | `github_search_assets-05dbf71fccce21` | malyginvladimir/CQF | [open](records/assets-malyginvladimir-cqf-b2edbdcb.md) |
+| `github_search_assets-067248e82637b7` | thrixel/build-world | [open](records/assets-thrixel-build-world-a22c18e5.md) |
 | `github_search_assets-068aa6511b8dfc` | Scope-IT/marksman | [open](records/assets-scope-it-marksman-74cd9533.md) |
 | `github_search_assets-0697b677b79c14` | wangyoucao577/go-release-action | [open](records/assets-wangyoucao577-go-release-action-9d67f6de.md) |
 | `github_search_assets-06bd01e5223b1c` | brightdigit/Speculid | [open](records/assets-brightdigit-speculid-c90bd3d1.md) |
 | `github_search_assets-06e250376f08fb` | mirror4869/material-workbench | [open](records/assets-mirror4869-material-workbench-813a4383.md) |
+| `github_search_assets-07489d289acb1c` | ToxSam/os3a-gallery | [open](records/assets-toxsam-os3a-gallery-cbfb47dc.md) |
 | `github_search_assets-080063002d5492` | expo/google-fonts | [open](records/assets-expo-google-fonts-27084e7a.md) |
 | `github_search_assets-0856c0cb0bd327` | robhagemans/hoard-of-bitfonts | [open](records/assets-robhagemans-hoard-of-bitfonts-783a8c69.md) |
 | `github_search_assets-09920836921f6a` | Brian-Jiang/SmartReference | [open](records/assets-brian-jiang-smartreference-a178adf2.md) |
+| `github_search_assets-0a67a3254ce168` | vinothvino42/visionOS-Projects | [open](records/assets-vinothvino42-visionos-projects-625ebfb3.md) |
 | `github_search_assets-0a8e6c1f1ca15f` | DrXie/OSFCC | [open](records/assets-drxie-osfcc-22529e95.md) |
 | `github_search_assets-0be9170c4b1294` | jz5/FORM-UDPGothic | [open](records/assets-jz5-form-udpgothic-dd95d908.md) |
 | `github_search_assets-0c4c00b3e974b0` | mopsicus/umi | [open](records/assets-mopsicus-umi-c2834937.md) |
+| `github_search_assets-0cbf34dd5516a9` | 0xC0000054/pdn-ddsfiletype-plus | [open](records/assets-0xc0000054-pdn-ddsfiletype-plus-8da0f368.md) |
+| `github_search_assets-0cee72847f778d` | Samukashvili/LUMEN-PS | [open](records/assets-samukashvili-lumen-ps-760ce575.md) |
 | `github_search_assets-0ece8c9ffab5f7` | julie-ng/azure-nodejs-demo | [open](records/assets-julie-ng-azure-nodejs-demo-f91d5026.md) |
+| `github_search_assets-0f3e1b87058a82` | ME3Tweaks/ALOTInstaller | [open](records/assets-me3tweaks-alotinstaller-075e5b1d.md) |
 | `github_search_assets-0ff01d1b0992ce` | hqjs/hq | [open](records/assets-hqjs-hq-4376b515.md) |
 | `github_search_assets-10145d3c5e38b2` | markstory/asset_compress | [open](records/assets-markstory-asset-compress-f9bf354d.md) |
 | `github_search_assets-106a269df0f38d` | weiweihuanghuang/Work-Sans | [open](records/assets-weiweihuanghuang-work-sans-9e5609e3.md) |
@@ -5670,36 +5682,53 @@
 | `github_search_assets-11ad24db05c927` | morgan3d/quadplay | [open](records/assets-morgan3d-quadplay-717f54c6.md) |
 | `github_search_assets-11c38eac93a5c6` | sepandhaghighi/art | [open](records/assets-sepandhaghighi-art-5075f3ee.md) |
 | `github_search_assets-123b1a14211dad` | ranesr/SwiftIcons | [open](records/assets-ranesr-swifticons-3b328e34.md) |
+| `github_search_assets-12489681175f00` | ScanMountGoat/image_dds | [open](records/assets-scanmountgoat-image-dds-87704c34.md) |
 | `github_search_assets-124eb8b7309d60` | open-uem/openuem-console | [open](records/assets-open-uem-openuem-console-a9008fdb.md) |
 | `github_search_assets-1281f5e2136b62` | SerCeMan/fontogen | [open](records/assets-serceman-fontogen-287e1552.md) |
 | `github_search_assets-1410ecdcd5ed56` | HotpotDesign/Game-Assets-And-Resources | [open](records/assets-hotpotdesign-game-assets-and-resources-94fd43a7.md) |
+| `github_search_assets-14297db7d5f8d1` | Sarath18/terrain_generator | [open](records/assets-sarath18-terrain-generator-b656de86.md) |
 | `github_search_assets-1470cb27d7871a` | qwerasd205/AnnotationMono | [open](records/assets-qwerasd205-annotationmono-39d157d9.md) |
+| `github_search_assets-1495709a9e6a29` | wojciech-graj/C-Raytracer | [open](records/assets-wojciech-graj-c-raytracer-3e4bb3bf.md) |
 | `github_search_assets-1573cd563e7486` | fonttools/fonttools | [open](records/assets-fonttools-fonttools-a4b5432b.md) |
+| `github_search_assets-164e5088f917f3` | wrefgtzweve/gm_content_optimizer | [open](records/assets-wrefgtzweve-gm-content-optimizer-51d02dbe.md) |
 | `github_search_assets-166e0fdcd7fbb8` | Shipu/themevel | [open](records/assets-shipu-themevel-792b0d04.md) |
 | `github_search_assets-17b02fef789ea9` | pgaultier/yii2-webpack | [open](records/assets-pgaultier-yii2-webpack-ca18eec8.md) |
+| `github_search_assets-17b3da86b15910` | teebarjunk/godot-limage | [open](records/assets-teebarjunk-godot-limage-5fb13abb.md) |
 | `github_search_assets-184300ca7dffc2` | hec-ovi/text-to-3D-skill | [open](records/assets-hec-ovi-text-to-3d-skill-3ef6fa92.md) |
+| `github_search_assets-186b5fa01e1044` | BlueG/DebugTextures | [open](records/assets-blueg-debugtextures-063e87e1.md) |
 | `github_search_assets-18cc2b6a47eaf0` | assimp/assimp | [open](records/assets-assimp-assimp-d6a268c7.md) |
 | `github_search_assets-18f7f7751dd06e` | projectdiscovery/awesome-search-queries | [open](records/assets-projectdiscovery-awesome-search-queries-b4756398.md) |
+| `github_search_assets-1915a065793dda` | KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0 | [open](records/assets-kaykit-game-assets-kaykit-dungeon-remastered-1-0-ac769950.md) |
+| `github_search_assets-1ad1ecbf2320ce` | lzhbrian/Clothes-3D | [open](records/assets-lzhbrian-clothes-3d-4979afed.md) |
 | `github_search_assets-1b1d458cb9a7d1` | pcjbird/AssetsExtractor | [open](records/assets-pcjbird-assetsextractor-31eb98f9.md) |
 | `github_search_assets-1b37cc4e4c82d8` | VanekPetr/investment-funnel | [open](records/assets-vanekpetr-investment-funnel-c0d50ba2.md) |
 | `github_search_assets-1b58358d681b48` | harfbuzz/harfbuzz | [open](records/assets-harfbuzz-harfbuzz-d76a4fa5.md) |
+| `github_search_assets-1c34b0fb5d12e3` | looeee/gltf-converter | [open](records/assets-looeee-gltf-converter-6f19ceb0.md) |
+| `github_search_assets-1c44dd9c3d3642` | zfergus/seam-erasure | [open](records/assets-zfergus-seam-erasure-2718ebfb.md) |
 | `github_search_assets-1de9ce31586ca7` | grokability/jamf2snipe | [open](records/assets-grokability-jamf2snipe-ecf4667c.md) |
 | `github_search_assets-1eef3639385e30` | RxLaboratory/Ramses | [open](records/assets-rxlaboratory-ramses-1288791f.md) |
 | `github_search_assets-1f217360d8e493` | Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project | [open](records/assets-fitzgerald-porthmouth-koenigsegg-plangothic-project-5165c4c3.md) |
 | `github_search_assets-1f8c47c9cf01af` | bodrovis/jquery-slick-rails | [open](records/assets-bodrovis-jquery-slick-rails-19f66f84.md) |
+| `github_search_assets-2067740648b537` | wangyz1999/3d-emoji-assets-generator | [open](records/assets-wangyz1999-3d-emoji-assets-generator-b46f9205.md) |
 | `github_search_assets-20865f64acccce` | Chenyu-otf/chenyuluoyan_thin | [open](records/assets-chenyu-otf-chenyuluoyan-thin-17cf141a.md) |
 | `github_search_assets-213db633f59449` | DragonCherry/AssetsPickerViewController | [open](records/assets-dragoncherry-assetspickerviewcontroller-291d781d.md) |
 | `github_search_assets-22a0b3e64e5b94` | ZWolken/PingFang | [open](records/assets-zwolken-pingfang-20165d6d.md) |
+| `github_search_assets-22e033eb53bb25` | darriagada/Retro-Noise | [open](records/assets-darriagada-retro-noise-dc8e59f0.md) |
+| `github_search_assets-241413ab56f161` | smlu/Urgon | [open](records/assets-smlu-urgon-4eff0f19.md) |
 | `github_search_assets-243f98c1c97299` | brabadu/awesome-fonts | [open](records/assets-brabadu-awesome-fonts-b7ce3727.md) |
+| `github_search_assets-2533400e0b2085` | ppy/osu-resources | [open](records/assets-ppy-osu-resources-fbc50ca8.md) |
 | `github_search_assets-259f06079eaca0` | owl4ce/dotfiles | [open](records/assets-owl4ce-dotfiles-7b7a4401.md) |
 | `github_search_assets-26ec2c9ade0987` | brunomikoski/ScriptableObjectCollection | [open](records/assets-brunomikoski-scriptableobjectcollection-2d789cfa.md) |
 | `github_search_assets-2708466b49e686` | spoqa/spoqa-han-sans | [open](records/assets-spoqa-spoqa-han-sans-01644b72.md) |
+| `github_search_assets-2737a906eb726c` | Plastix/Plast-Pack | [open](records/assets-plastix-plast-pack-d8172cef.md) |
 | `github_search_assets-28a0614bfaf168` | JeffersonQin/YuzuMarker.FontDetection | [open](records/assets-jeffersonqin-yuzumarker-fontdetection-c21fcdcb.md) |
 | `github_search_assets-28c2054d9ee145` | AhmadHassan-BTed/EQAI | [open](records/assets-ahmadhassan-bted-eqai-ab6e6928.md) |
+| `github_search_assets-29164f037e84da` | KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0 | [open](records/assets-kaykit-game-assets-kaykit-medieval-hexagon-pack-1-0-f6d4ab30.md) |
 | `github_search_assets-2986da8897f0eb` | itflow-org/itflow | [open](records/assets-itflow-org-itflow-94ed9c35.md) |
 | `github_search_assets-29cb7967b44e45` | OCSInventory-NG/OCSInventory-Server | [open](records/assets-ocsinventory-ng-ocsinventory-server-75ffaffe.md) |
 | `github_search_assets-29da7ad3afa92b` | takushun-wu/WenJinMincho | [open](records/assets-takushun-wu-wenjinmincho-84d3befd.md) |
 | `github_search_assets-29deacedf6252f` | adobe-fonts/source-serif | [open](records/assets-adobe-fonts-source-serif-d174881a.md) |
+| `github_search_assets-2a38b188845894` | Mathias-Boulay/Java-Mods-Optimizer | [open](records/assets-mathias-boulay-java-mods-optimizer-8e52f788.md) |
 | `github_search_assets-2c23b9da58e76a` | hustvl/GaussianDreamerPro | [open](records/assets-hustvl-gaussiandreamerpro-3b33b5ad.md) |
 | `github_search_assets-2c5fbd75ec4baf` | mngshm/rxfetch | [open](records/assets-mngshm-rxfetch-4c26ed0b.md) |
 | `github_search_assets-2cb76818c8aad5` | Nieobie/game-icon-pack | [open](records/assets-nieobie-game-icon-pack-89be2753.md) |
@@ -5721,9 +5750,14 @@
 | `github_search_assets-36869b8d95522e` | ZM-Kimu/Blue-Archive-Asset-Downloader | [open](records/assets-zm-kimu-blue-archive-asset-downloader-54e09fdc.md) |
 | `github_search_assets-3718e453fbcead` | pelengami/unity-moveable-linerenderer | [open](records/assets-pelengami-unity-moveable-linerenderer-39efc1de.md) |
 | `github_search_assets-371ba914d77be5` | vleue/bevy_embedded_assets | [open](records/assets-vleue-bevy-embedded-assets-6e05ddb9.md) |
+| `github_search_assets-38ff2ae6d83e3a` | umaichanuwu/StarRailTextures | [open](records/assets-umaichanuwu-starrailtextures-bee766ee.md) |
+| `github_search_assets-39cee365e43bd3` | jansol/texpresso | [open](records/assets-jansol-texpresso-c8f9d0fc.md) |
+| `github_search_assets-3b1e3c83fb0479` | Nenkai/GraniteTextureReader | [open](records/assets-nenkai-granitetexturereader-ce49c3de.md) |
 | `github_search_assets-3bfb784a381cba` | locus84/Locus-Bundle-System | [open](records/assets-locus84-locus-bundle-system-464ddf27.md) |
+| `github_search_assets-3c03f28e1a62a6` | umaichanuwu/AnimeLinks | [open](records/assets-umaichanuwu-animelinks-81918c32.md) |
 | `github_search_assets-3c56de0f8dcee4` | nebulabroadcast/nebula | [open](records/assets-nebulabroadcast-nebula-a341ae60.md) |
 | `github_search_assets-3cecb76e89b82a` | yashlamba/handwrite | [open](records/assets-yashlamba-handwrite-5509e3e4.md) |
+| `github_search_assets-3cfcfb09831ea0` | tosher/q2textures | [open](records/assets-tosher-q2textures-23f26bb8.md) |
 | `github_search_assets-3dd6649f2896ec` | ShaigroRB/freetchio | [open](records/assets-shaigrorb-freetchio-fa6ad739.md) |
 | `github_search_assets-3f97ef706abbea` | mudbugmedia/critical-path-css-rails | [open](records/assets-mudbugmedia-critical-path-css-rails-220525b5.md) |
 | `github_search_assets-3fdb036b349fb9` | FlutterGen/flutter_gen | [open](records/assets-fluttergen-flutter-gen-9d76f93b.md) |
@@ -5731,6 +5765,7 @@
 | `github_search_assets-41fb331a60de0f` | indestructible-type/Jost | [open](records/assets-indestructible-type-jost-bad148c7.md) |
 | `github_search_assets-42c3661e64bc81` | pelengami/unity-abstract-wire | [open](records/assets-pelengami-unity-abstract-wire-bc098746.md) |
 | `github_search_assets-42e9d63291f2e1` | bestpractical/rt | [open](records/assets-bestpractical-rt-8129d040.md) |
+| `github_search_assets-432464f60701ff` | evolution-gaming/babylonjs-texture-generator | [open](records/assets-evolution-gaming-babylonjs-texture-generator-7a03a4fb.md) |
 | `github_search_assets-43ed24ec506ce3` | flutter-dev/asset_generator | [open](records/assets-flutter-dev-asset-generator-4817bab4.md) |
 | `github_search_assets-446c0c70c2193f` | beizhedenglong/weird-fonts | [open](records/assets-beizhedenglong-weird-fonts-065d7383.md) |
 | `github_search_assets-44acc14e2e82b1` | segecey/SwiftIconFont | [open](records/assets-segecey-swifticonfont-20851835.md) |
@@ -5742,6 +5777,9 @@
 | `github_search_assets-483a23d78bc9db` | hypernewbie/VEFontCache | [open](records/assets-hypernewbie-vefontcache-ea3c2eca.md) |
 | `github_search_assets-4860e20af1c854` | Void8Bit/Pixel-Perfect-AI-Art-Converter | [open](records/assets-void8bit-pixel-perfect-ai-art-converter-89eefbe1.md) |
 | `github_search_assets-492a6da03ae300` | epilys/gerb | [open](records/assets-epilys-gerb-11b0ad1a.md) |
+| `github_search_assets-49dce43b2ec460` | drinkthestars/shady | [open](records/assets-drinkthestars-shady-c710bb26.md) |
+| `github_search_assets-4b1c0d66f4cccd` | nenjack/pixi-stats | [open](records/assets-nenjack-pixi-stats-38b50f1c.md) |
+| `github_search_assets-4bb8331a3f954a` | maria-rcks/dinorip | [open](records/assets-maria-rcks-dinorip-3322f81b.md) |
 | `github_search_assets-4c3d296e90609b` | kreativekorp/bitsnpicas | [open](records/assets-kreativekorp-bitsnpicas-684fd881.md) |
 | `github_search_assets-4c8da79e33dbce` | Jolg42/awesome-typography | [open](records/assets-jolg42-awesome-typography-4ebaa57a.md) |
 | `github_search_assets-4cb34d63fd660c` | kristiker/source1import | [open](records/assets-kristiker-source1import-382cf47f.md) |
@@ -5749,8 +5787,10 @@
 | `github_search_assets-4dbf7e9df1ccf9` | django-webpack/django-webpack-loader | [open](records/assets-django-webpack-django-webpack-loader-61d7c881.md) |
 | `github_search_assets-4de24f5f87792d` | 4d49/scene-library | [open](records/assets-4d49-scene-library-1a7b8783.md) |
 | `github_search_assets-4e77ba869494a3` | torba-rb/torba | [open](records/assets-torba-rb-torba-6deb2fda.md) |
+| `github_search_assets-4f4a2fe413ddc0` | Shilo/pixellab-pip | [open](records/assets-shilo-pixellab-pip-0be82c0e.md) |
 | `github_search_assets-4f81ca00549fb0` | microsoft/maker.js | [open](records/assets-microsoft-maker-js-f91ce860.md) |
 | `github_search_assets-506725e9b22164` | donnikitos/vite-plugin-php | [open](records/assets-donnikitos-vite-plugin-php-5390082f.md) |
+| `github_search_assets-52bd4786d7e98b` | Venomalia/HDcube | [open](records/assets-venomalia-hdcube-92c9f583.md) |
 | `github_search_assets-532851bf61b695` | fourgames/resources | [open](records/assets-fourgames-resources-96067fd2.md) |
 | `github_search_assets-54cb6459e3eb9d` | wanteddev/wanted-sans | [open](records/assets-wanteddev-wanted-sans-d20700fb.md) |
 | `github_search_assets-5584ceb298a57b` | raymond-w-ko/creep2 | [open](records/assets-raymond-w-ko-creep2-d82480c7.md) |
@@ -5758,33 +5798,50 @@
 | `github_search_assets-56fb31ec9a9625` | nbyiansec/sskit | [open](records/assets-nbyiansec-sskit-5a2ec66f.md) |
 | `github_search_assets-5812267cdaf6f0` | jackTabsCode/asphalt | [open](records/assets-jacktabscode-asphalt-d4ce529a.md) |
 | `github_search_assets-5874fb5689d932` | KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0 | [open](records/assets-kaykit-game-assets-kaykit-city-builder-bits-1-0-6c52227b.md) |
+| `github_search_assets-5936de0bfd7d0c` | Scrawk/ImageProcessing | [open](records/assets-scrawk-imageprocessing-90328113.md) |
 | `github_search_assets-598364f615ceb2` | masqu3rad3/tik_manager4 | [open](records/assets-masqu3rad3-tik-manager4-08a085d6.md) |
 | `github_search_assets-59e4cb7365adda` | MarSeventh/CloudFlare-ImgBed | [open](records/assets-marseventh-cloudflare-imgbed-2006c876.md) |
 | `github_search_assets-5a81a2c6ab5c83` | ubuwaits/beautiful-web-type | [open](records/assets-ubuwaits-beautiful-web-type-2b29254d.md) |
 | `github_search_assets-5af357ceda580b` | edmozley/freeitsm | [open](records/assets-edmozley-freeitsm-6938af39.md) |
 | `github_search_assets-5ba3fee32e3a48` | letianzj/QuantResearch | [open](records/assets-letianzj-quantresearch-61864c0e.md) |
 | `github_search_assets-5c2ff848216f08` | EYamanS/texel-studio | [open](records/assets-eyamans-texel-studio-907f9579.md) |
+| `github_search_assets-5dec4f6fe2f855` | Kimbatt/cc0-textures | [open](records/assets-kimbatt-cc0-textures-09acbc65.md) |
 | `github_search_assets-5df8903e94a9c8` | zetavg/Inventory | [open](records/assets-zetavg-inventory-57fc850b.md) |
+| `github_search_assets-5e05cf245e7355` | wdas/ptex | [open](records/assets-wdas-ptex-2ed43489.md) |
 | `github_search_assets-5e7a0852882721` | netalertx/NetAlertX | [open](records/assets-netalertx-netalertx-6a9014bd.md) |
+| `github_search_assets-5e82f5f8559761` | fernandotonon/QtMeshEditor | [open](records/assets-fernandotonon-qtmesheditor-6f7f47a2.md) |
 | `github_search_assets-602c89dbc74dc1` | fortitudo-tech/fortitudo.tech | [open](records/assets-fortitudo-tech-fortitudo-tech-d827e5a7.md) |
 | `github_search_assets-603f7acbba0de2` | darwinex/dwxconnect | [open](records/assets-darwinex-dwxconnect-17a92fc5.md) |
 | `github_search_assets-60b26af90e3c40` | vypdev/stringcare-android | [open](records/assets-vypdev-stringcare-android-addbb923.md) |
 | `github_search_assets-60b5de55055460` | sinclairzx81/typescript-bundle | [open](records/assets-sinclairzx81-typescript-bundle-f3078d7e.md) |
+| `github_search_assets-615d7561060bea` | WallSoGB/Patapon3Textures | [open](records/assets-wallsogb-patapon3textures-30ad5cad.md) |
 | `github_search_assets-636d3f16f6b186` | assetic-php/assetic | [open](records/assets-assetic-php-assetic-8cd8ecc8.md) |
 | `github_search_assets-63b3c32e7194b2` | internet-development/www-server-mono | [open](records/assets-internet-development-www-server-mono-b5773f46.md) |
 | `github_search_assets-6643c99af69369` | edcasillas/unity-missing-references-finder | [open](records/assets-edcasillas-unity-missing-references-finder-df72b315.md) |
+| `github_search_assets-667be225afecfc` | dip000/godot-landscaper | [open](records/assets-dip000-godot-landscaper-2ec738a9.md) |
 | `github_search_assets-677a91b42e6d53` | opensourcedesign/fonts | [open](records/assets-opensourcedesign-fonts-b0aeea5a.md) |
 | `github_search_assets-67c6eea9620d20` | lexlex47/game-art-prompt-kit | [open](records/assets-lexlex47-game-art-prompt-kit-5f7247b1.md) |
+| `github_search_assets-68c139b9ce96b9` | PiloeGAO/Blender-ArmorPaintLiveLink | [open](records/assets-piloegao-blender-armorpaintlivelink-b4367647.md) |
 | `github_search_assets-696f85e0932ea7` | ogxd/project-curator | [open](records/assets-ogxd-project-curator-975298c7.md) |
 | `github_search_assets-6a53cc2e2b96b5` | SawyerRensel/Transmogrifier | [open](records/assets-sawyerrensel-transmogrifier-c1c40840.md) |
+| `github_search_assets-6b3ecb9ced2aa6` | BuildingVolumes/Unity_Geometry_Sequence_Player | [open](records/assets-buildingvolumes-unity-geometry-sequence-player-ed419a9b.md) |
+| `github_search_assets-6d332ecdc65587` | schroef/Extra-Image-List | [open](records/assets-schroef-extra-image-list-8b1585cd.md) |
 | `github_search_assets-6d61f0801b5ece` | braver/programmingfonts | [open](records/assets-braver-programmingfonts-fb0cf6c0.md) |
 | `github_search_assets-6ee4e96fce78c6` | adobe/asset-share-commons | [open](records/assets-adobe-asset-share-commons-3e73fd7b.md) |
+| `github_search_assets-6f5a935bd7bec1` | ErfanMo77/gltf-research-scenes | [open](records/assets-erfanmo77-gltf-research-scenes-9419053a.md) |
 | `github_search_assets-7029232b69a915` | fontra/fontra | [open](records/assets-fontra-fontra-5752503b.md) |
+| `github_search_assets-71fb13e1f9d093` | dbohdan/unflattener | [open](records/assets-dbohdan-unflattener-4903eefc.md) |
+| `github_search_assets-726cce377f77af` | AssetRipper/AssetRipper.TextureDecoder | [open](records/assets-assetripper-assetripper-texturedecoder-8187a50f.md) |
+| `github_search_assets-72ebc2a09081db` | WowDevTools/Everlook | [open](records/assets-wowdevtools-everlook-935bf60a.md) |
 | `github_search_assets-72fcb28043d8a1` | OpenAssetIO/OpenAssetIO | [open](records/assets-openassetio-openassetio-90739a90.md) |
 | `github_search_assets-730e9dbabb8cb7` | fortitudo-tech/pcrm-book | [open](records/assets-fortitudo-tech-pcrm-book-466a5af2.md) |
+| `github_search_assets-73c2988237d2dd` | mr-breakfast/mrbreakfasts_free_prompts | [open](records/assets-mr-breakfast-mrbreakfasts-free-prompts-440a7ba3.md) |
+| `github_search_assets-755eadc492a9a0` | ScanMountGoat/Smush-Material-Research | [open](records/assets-scanmountgoat-smush-material-research-1ee7ce91.md) |
+| `github_search_assets-75a1e8a45b85b8` | Venomalia/DolphinTextureExtraction-tool | [open](records/assets-venomalia-dolphintextureextraction-tool-e4b9578b.md) |
 | `github_search_assets-76933b18c2b718` | xausky/UnityModManager | [open](records/assets-xausky-unitymodmanager-25e4a9f1.md) |
 | `github_search_assets-7851776c29fd2e` | ToxSam/open-source-3D-assets | [open](records/assets-toxsam-open-source-3d-assets-95695625.md) |
 | `github_search_assets-7897d7ab357e74` | innogames/asset-relations-viewer | [open](records/assets-innogames-asset-relations-viewer-a43484fb.md) |
+| `github_search_assets-7a2edaa61f44a3` | MoreMcmeta/core | [open](records/assets-moremcmeta-core-db263cb0.md) |
 | `github_search_assets-7d00edcc35b8b8` | trufont/trufont | [open](records/assets-trufont-trufont-b3154008.md) |
 | `github_search_assets-7d0c181e4ab4cd` | imadr/Unity-game-hacking | [open](records/assets-imadr-unity-game-hacking-14ce1631.md) |
 | `github_search_assets-7d88b3a6e3fb59` | sdushantha/fontpreview | [open](records/assets-sdushantha-fontpreview-6415a3c7.md) |
@@ -5802,31 +5859,44 @@
 | `github_search_assets-8921fd560ca7f3` | snapotter-hq/SnapOtter | [open](records/assets-snapotter-hq-snapotter-f5614eb5.md) |
 | `github_search_assets-892df2e05d2964` | WilberGroup/airdrop | [open](records/assets-wilbergroup-airdrop-bb2aa3fa.md) |
 | `github_search_assets-89f080014e6951` | kiraio-moe/Schale-Archive | [open](records/assets-kiraio-moe-schale-archive-e83bbecb.md) |
+| `github_search_assets-8a07c371951a80` | agmmnn/polydown | [open](records/assets-agmmnn-polydown-bb0cb4c6.md) |
+| `github_search_assets-8af84d7e2c5a9e` | castle-engine/demo-models | [open](records/assets-castle-engine-demo-models-0f301f6d.md) |
+| `github_search_assets-8b0b7857e06e0b` | Michaelredaa/Djed | [open](records/assets-michaelredaa-djed-42fed982.md) |
 | `github_search_assets-8bc89d53198729` | IdreesInc/Miracode | [open](records/assets-idreesinc-miracode-ce50fdc0.md) |
 | `github_search_assets-8c9cd9fd64e71d` | coollabsio/fonts | [open](records/assets-coollabsio-fonts-296495e3.md) |
 | `github_search_assets-8d5dc35d39079c` | peterhinch/micropython-font-to-py | [open](records/assets-peterhinch-micropython-font-to-py-1c6ba201.md) |
+| `github_search_assets-8dd355a5726ad9` | elasota/ConvectionKernels | [open](records/assets-elasota-convectionkernels-1bd72eb9.md) |
 | `github_search_assets-8ea4b3b9863564` | shirotech/webpack-cdn-plugin | [open](records/assets-shirotech-webpack-cdn-plugin-33dc4a24.md) |
 | `github_search_assets-8fbffb93e2f383` | NiklasEi/bevy_common_assets | [open](records/assets-niklasei-bevy-common-assets-87d9fbf2.md) |
 | `github_search_assets-8fda82af7f0974` | fabrizioschiavi/pragmatapro | [open](records/assets-fabrizioschiavi-pragmatapro-3c04a566.md) |
 | `github_search_assets-90a00a539ed8e9` | Partyb0ssishere/cef-fonts-cjk | [open](records/assets-partyb0ssishere-cef-fonts-cjk-1bdae5fe.md) |
+| `github_search_assets-90faf806dd8302` | lmueller27/Fusion360PatternsAndTextures | [open](records/assets-lmueller27-fusion360patternsandtextures-781b8065.md) |
 | `github_search_assets-918c2a04429a6a` | aitrados/aitrados-api | [open](records/assets-aitrados-aitrados-api-5d44cc6c.md) |
 | `github_search_assets-921a57aa70ae71` | rakugoteam/Rakugo-archive | [open](records/assets-rakugoteam-rakugo-archive-00d9824b.md) |
 | `github_search_assets-923925cfe46330` | justvanrossum/fontgoggles | [open](records/assets-justvanrossum-fontgoggles-12b888dd.md) |
 | `github_search_assets-92b245cb2191f6` | raphaelhanneken/iconizer | [open](records/assets-raphaelhanneken-iconizer-867b9d26.md) |
 | `github_search_assets-92d92d8a2f45da` | Qftm/Information_Collection_Handbook | [open](records/assets-qftm-information-collection-handbook-97112bf4.md) |
+| `github_search_assets-932f3eeb9115b5` | Escartem/GenshinTextures | [open](records/assets-escartem-genshintextures-e0aff47b.md) |
 | `github_search_assets-937abd89e3f68b` | KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0 | [open](records/assets-kaykit-game-assets-kaykit-character-pack-adventures-1-0-ce073061.md) |
 | `github_search_assets-93ebf1f1ef4494` | openremote/openremote | [open](records/assets-openremote-openremote-92db2618.md) |
+| `github_search_assets-95687e9a8b14c9` | akb825/Cuttlefish | [open](records/assets-akb825-cuttlefish-fc905831.md) |
+| `github_search_assets-961cf9ad0f214f` | iZePlayzYT/SuperMarioEclipse-TexturePacks | [open](records/assets-izeplayzyt-supermarioeclipse-texturepacks-f6aeecb0.md) |
 | `github_search_assets-962a95b50ac1aa` | varchashva/LetsMapYourNetwork | [open](records/assets-varchashva-letsmapyournetwork-17553d39.md) |
 | `github_search_assets-975fb6de6d2ed1` | steinbergmedia/bravura | [open](records/assets-steinbergmedia-bravura-55db3418.md) |
+| `github_search_assets-97a5621653dc32` | VadimDez/Counter-Strike-JS | [open](records/assets-vadimdez-counter-strike-js-c9d5b005.md) |
 | `github_search_assets-98162671aed2ef` | Saalvage/AssimpNetter | [open](records/assets-saalvage-assimpnetter-ec5bd434.md) |
 | `github_search_assets-9897190068a896` | FontManager/font-manager | [open](records/assets-fontmanager-font-manager-b4a35494.md) |
 | `github_search_assets-98a580770a1d0f` | symfony/assetic-bundle | [open](records/assets-symfony-assetic-bundle-4dada5ec.md) |
 | `github_search_assets-98cc958bcd4f00` | RumenDamyanov/php-assets | [open](records/assets-rumendamyanov-php-assets-2b4a9229.md) |
+| `github_search_assets-9956c0149a947e` | Relintai/texture_packer | [open](records/assets-relintai-texture-packer-35690114.md) |
 | `github_search_assets-999ffe84f29eac` | javierbyte/brutalita | [open](records/assets-javierbyte-brutalita-1566daf1.md) |
+| `github_search_assets-9aa0a17cb109de` | KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0 | [open](records/assets-kaykit-game-assets-kaykit-character-pack-skeletons-1-0-37300d6a.md) |
 | `github_search_assets-9b2a9883a543ee` | fxpio/composer-asset-plugin | [open](records/assets-fxpio-composer-asset-plugin-635834f8.md) |
 | `github_search_assets-9b95272e150913` | StefanoCecere/awesome-opensource-unity | [open](records/assets-stefanocecere-awesome-opensource-unity-3e1c06c4.md) |
+| `github_search_assets-9cf29e7f082cc9` | KirilStrezikozin/BakeMaster-Blender-Addon | [open](records/assets-kirilstrezikozin-bakemaster-blender-addon-df3f14d1.md) |
 | `github_search_assets-9d89e4fc212aab` | jakemarsh/CostumeKit | [open](records/assets-jakemarsh-costumekit-c6e45613.md) |
 | `github_search_assets-9d9aaf67fc74eb` | chrissimpkins/codeface | [open](records/assets-chrissimpkins-codeface-3d2581d5.md) |
+| `github_search_assets-9db964918389c0` | gabriellima1244/sketchfab-downloader-utility | [open](records/assets-gabriellima1244-sketchfab-downloader-utility-cbf77f40.md) |
 | `github_search_assets-9e0266c8785568` | wellingfeng/UltraGameStudio | [open](records/assets-wellingfeng-ultragamestudio-910851af.md) |
 | `github_search_assets-9e23f5a98f4816` | mopsicus/uis | [open](records/assets-mopsicus-uis-65c71459.md) |
 | `github_search_assets-9fb4866cf517b9` | czyzby/gdx-skins | [open](records/assets-czyzby-gdx-skins-ff760b10.md) |
@@ -5837,6 +5907,7 @@
 | `github_search_assets-a24b7e77a92f94` | NextLevel/NextLevelSessionExporter | [open](records/assets-nextlevel-nextlevelsessionexporter-78e508f7.md) |
 | `github_search_assets-a2b2f36b15fb82` | marcelontime/spriteforge | [open](records/assets-marcelontime-spriteforge-6e3c3356.md) |
 | `github_search_assets-a3e64a44251278` | marcologous/Open-Sauce-Fonts | [open](records/assets-marcologous-open-sauce-fonts-5e251995.md) |
+| `github_search_assets-a42b96c982f95a` | bradjasper/subtle-patterns-bookmarklet | [open](records/assets-bradjasper-subtle-patterns-bookmarklet-079608a5.md) |
 | `github_search_assets-a66612c0450d01` | aMarCruz/react-native-text-size | [open](records/assets-amarcruz-react-native-text-size-989d2e6b.md) |
 | `github_search_assets-a6931a405b25ba` | TakWolf/fusion-pixel-font | [open](records/assets-takwolf-fusion-pixel-font-02635494.md) |
 | `github_search_assets-a70c1c58d6886a` | Anmol-Baranwal/Awesome-Illustrations-4Projects | [open](records/assets-anmol-baranwal-awesome-illustrations-4projects-38c87dd7.md) |
@@ -5844,74 +5915,116 @@
 | `github_search_assets-a9e537c9550c76` | TakWolf/ark-pixel-font | [open](records/assets-takwolf-ark-pixel-font-22f9b9cc.md) |
 | `github_search_assets-aa39b5f6661a61` | bluemix/Tourism-Demo | [open](records/assets-bluemix-tourism-demo-44ec27b4.md) |
 | `github_search_assets-ac2783d2bee4ba` | sahibjotsaggu/San-Francisco-Pro-Fonts | [open](records/assets-sahibjotsaggu-san-francisco-pro-fonts-f6ecd2be.md) |
+| `github_search_assets-ace492dd13ef7e` | mrglaster/S2GConverter | [open](records/assets-mrglaster-s2gconverter-06e6d5dc.md) |
 | `github_search_assets-ad0b91eeab7825` | XJINE/Unity_TransparentWindowManager | [open](records/assets-xjine-unity-transparentwindowmanager-b13011e6.md) |
 | `github_search_assets-ad0d4e21b1a11f` | rektdeckard/departure-mono | [open](records/assets-rektdeckard-departure-mono-2cee23db.md) |
+| `github_search_assets-adaec0f23aca74` | perceivelab/surfacenet | [open](records/assets-perceivelab-surfacenet-f1457206.md) |
+| `github_search_assets-b0288fff2b1844` | RodZill4/material-maker | [open](records/assets-rodzill4-material-maker-c64ba314.md) |
 | `github_search_assets-b0a92a9d18a45f` | ArturSepp/QuantInvestStrats | [open](records/assets-artursepp-quantinveststrats-a7a51697.md) |
 | `github_search_assets-b10075036f38aa` | FlexyTools/Flexy.AssetRefs | [open](records/assets-flexytools-flexy-assetrefs-ec4cd6a1.md) |
+| `github_search_assets-b12e857251c3d0` | microsoft/DirectXTex | [open](records/assets-microsoft-directxtex-65ef2054.md) |
 | `github_search_assets-b25485bb4f070f` | didiatworkz/screenly-ose-monitoring | [open](records/assets-didiatworkz-screenly-ose-monitoring-f088cdd0.md) |
 | `github_search_assets-b25bdefc09f554` | EliteQuant/EliteQuant | [open](records/assets-elitequant-elitequant-ccb04f35.md) |
 | `github_search_assets-b27e818deecef8` | openinary/openinary | [open](records/assets-openinary-openinary-b4fee09b.md) |
+| `github_search_assets-b3cb2f4be65ab1` | boytchev/texture-generator | [open](records/assets-boytchev-texture-generator-6e229ec9.md) |
+| `github_search_assets-b4064833fd2c48` | Trenavix/SM64Paint | [open](records/assets-trenavix-sm64paint-e611d812.md) |
 | `github_search_assets-b482000445f542` | d3ward/toolz | [open](records/assets-d3ward-toolz-1f9ecb7c.md) |
+| `github_search_assets-b54bab4b7ddd07` | caosdoar/Fornos | [open](records/assets-caosdoar-fornos-dc7540bd.md) |
 | `github_search_assets-b730051d10ee66` | sourcentis/mercator | [open](records/assets-sourcentis-mercator-b6bbd504.md) |
+| `github_search_assets-b7401f559c2ee8` | Purphoenon/Symbinode | [open](records/assets-purphoenon-symbinode-51b40e30.md) |
 | `github_search_assets-b74959b4011d11` | skfolio/skfolio | [open](records/assets-skfolio-skfolio-6087932e.md) |
 | `github_search_assets-b76c373df76482` | sparklinlabs/superpowers-asset-packs | [open](records/assets-sparklinlabs-superpowers-asset-packs-d172a84e.md) |
 | `github_search_assets-b79cfc49a89846` | spotify/klio | [open](records/assets-spotify-klio-c9106254.md) |
+| `github_search_assets-b81e9d58fed7cd` | DigitalRuby/DRColorPicker | [open](records/assets-digitalruby-drcolorpicker-3fe3e194.md) |
 | `github_search_assets-b9c0e3d0b65d39` | NiklasEi/bevy_asset_loader | [open](records/assets-niklasei-bevy-asset-loader-a1543a25.md) |
 | `github_search_assets-b9cc9bac986428` | teamgravitydev/gamedev-free-resources | [open](records/assets-teamgravitydev-gamedev-free-resources-737103b1.md) |
+| `github_search_assets-ba8da3cbbe2169` | malcolmriley/unused-textures | [open](records/assets-malcolmriley-unused-textures-262c4bad.md) |
+| `github_search_assets-bace23b881acb2` | alecazam/kram | [open](records/assets-alecazam-kram-411d715c.md) |
 | `github_search_assets-bb68e1029e42ee` | cormullion/juliamono | [open](records/assets-cormullion-juliamono-bec7c369.md) |
 | `github_search_assets-bb75aa1f646cc6` | Stolz/Assets | [open](records/assets-stolz-assets-4cbc05d6.md) |
+| `github_search_assets-bb8f5bd51dc1b6` | Faithful-Resource-Pack/Faithful-Dungeons-32x | [open](records/assets-faithful-resource-pack-faithful-dungeons-32x-ea17a09a.md) |
+| `github_search_assets-bcaeba5e877d89` | Aksel000/R2-Textures | [open](records/assets-aksel000-r2-textures-357371ac.md) |
 | `github_search_assets-bcf28ab660bb8c` | jonathonf/solbera-dnd-fonts | [open](records/assets-jonathonf-solbera-dnd-fonts-bd36b525.md) |
+| `github_search_assets-bd1f0c88da3fb1` | markusmoenig/ShaderMania | [open](records/assets-markusmoenig-shadermania-e22e5065.md) |
 | `github_search_assets-bd3916dae6ad95` | jaywcjlove/free-font | [open](records/assets-jaywcjlove-free-font-c0fd2de7.md) |
+| `github_search_assets-be33657f9166b4` | MazeWave/Vanilla-Raytraced | [open](records/assets-mazewave-vanilla-raytraced-ce23de71.md) |
 | `github_search_assets-be955a61f6db82` | nicoverbruggen/ebook-fonts | [open](records/assets-nicoverbruggen-ebook-fonts-abce4d5b.md) |
+| `github_search_assets-bef606c9aa1baf` | riccardoscalco/textures | [open](records/assets-riccardoscalco-textures-1ed66e06.md) |
 | `github_search_assets-bf70eec5ef5892` | googlefonts/gftools | [open](records/assets-googlefonts-gftools-a07fff0e.md) |
 | `github_search_assets-bfc5704fbcc538` | tejaswigowda/ffmpeg-webCLI | [open](records/assets-tejaswigowda-ffmpeg-webcli-e2d7593b.md) |
+| `github_search_assets-bfd9942fe94ebd` | KayKit-Game-Assets/KayKit-Prototype-Bits-1.0 | [open](records/assets-kaykit-game-assets-kaykit-prototype-bits-1-0-9dbdb869.md) |
 | `github_search_assets-c084e9ed3093c0` | martinhodler/unity-aseprite-importer | [open](records/assets-martinhodler-unity-aseprite-importer-30b49df4.md) |
 | `github_search_assets-c0c6112f96c3b9` | georgd/EB-Garamond | [open](records/assets-georgd-eb-garamond-3762ce0d.md) |
 | `github_search_assets-c0e4497e4a7633` | simonphillips-1010/jimi | [open](records/assets-simonphillips-1010-jimi-138dd6d5.md) |
 | `github_search_assets-c2a9780c59a679` | parcel-bundler/parcel | [open](records/assets-parcel-bundler-parcel-b4cac5ec.md) |
 | `github_search_assets-c2ae66c16beba2` | nuxt/fonts | [open](records/assets-nuxt-fonts-4b6c47fa.md) |
+| `github_search_assets-c371bf8e32152a` | SergeyMakeev/Goofy | [open](records/assets-sergeymakeev-goofy-94c651eb.md) |
 | `github_search_assets-c3958a82bede85` | dbackowski/socket.io-rails | [open](records/assets-dbackowski-socket-io-rails-b6f71348.md) |
+| `github_search_assets-c42f44512972f2` | jtomori/batch_textures_convert | [open](records/assets-jtomori-batch-textures-convert-0307606c.md) |
 | `github_search_assets-c50fee06655a07` | BlackFoundryCom/InriaFonts | [open](records/assets-blackfoundrycom-inriafonts-1005f303.md) |
 | `github_search_assets-c5472161fcbcc7` | trunk-rs/trunk | [open](records/assets-trunk-rs-trunk-f44489e2.md) |
+| `github_search_assets-c56e463317e565` | creosB/Game-Asset-Auto-Redeemer | [open](records/assets-creosb-game-asset-auto-redeemer-74c8f79f.md) |
 | `github_search_assets-c7893d6c99b6ca` | rickytan/RTImageAssets | [open](records/assets-rickytan-rtimageassets-a0bd94f3.md) |
 | `github_search_assets-c888dc8886f205` | IdreesInc/Monocraft | [open](records/assets-idreesinc-monocraft-2e4bbd56.md) |
 | `github_search_assets-ca35e06fcceb7a` | M5ez/M5ez | [open](records/assets-m5ez-m5ez-6aee584f.md) |
+| `github_search_assets-ca49036b862921` | todds-encoder/todds | [open](records/assets-todds-encoder-todds-f2f5faa1.md) |
+| `github_search_assets-cae3f72b70f46d` | darriagada/Decay-Textures | [open](records/assets-darriagada-decay-textures-ba3ec949.md) |
+| `github_search_assets-cb357804f10d2a` | MeikoMei16/AssetRipper-CLI | [open](records/assets-meikomei16-assetripper-cli-ee48800d.md) |
 | `github_search_assets-cc17082419f91b` | dogoncouch/LogESP | [open](records/assets-dogoncouch-logesp-487d8edc.md) |
 | `github_search_assets-cdf86f127b7af3` | jonrau1/ElectricEye | [open](records/assets-jonrau1-electriceye-8cc6fea7.md) |
+| `github_search_assets-ce1958b243bbd6` | MassEffectModder/MassEffectModder | [open](records/assets-masseffectmodder-masseffectmodder-f546ad41.md) |
 | `github_search_assets-ce4d28ddac5f07` | jaywcjlove/svgtofont | [open](records/assets-jaywcjlove-svgtofont-883be0c7.md) |
 | `github_search_assets-cf217b3460ce0c` | itgalaxy/webfont | [open](records/assets-itgalaxy-webfont-497adeb1.md) |
+| `github_search_assets-cf5aabb3bec6fa` | BdR76/GimpSpriteAtlas | [open](records/assets-bdr76-gimpspriteatlas-56c1b048.md) |
+| `github_search_assets-cf7e1ee747c366` | chsh2/import_paint_brush | [open](records/assets-chsh2-import-paint-brush-3612f075.md) |
 | `github_search_assets-cf857a57a2c7e9` | fontforge/designwithfontforge.com | [open](records/assets-fontforge-designwithfontforge-com-456df33b.md) |
 | `github_search_assets-d0b177c76f149a` | ryanoasis/nerd-fonts | [open](records/assets-ryanoasis-nerd-fonts-0fc4ace5.md) |
 | `github_search_assets-d0d826471ffacb` | chenjie1219/cartool | [open](records/assets-chenjie1219-cartool-95f8ff66.md) |
 | `github_search_assets-d2640ea0694e53` | Grashjs/cmms | [open](records/assets-grashjs-cmms-7ea7d7e3.md) |
 | `github_search_assets-d3af2526a2138d` | justfont/open-huninn-font | [open](records/assets-justfont-open-huninn-font-7bee933f.md) |
+| `github_search_assets-d54edca19961ee` | oblivioncth/Stexatlaser | [open](records/assets-oblivioncth-stexatlaser-40b7ab31.md) |
 | `github_search_assets-d662623dfbfc45` | system-fonts/modern-font-stacks | [open](records/assets-system-fonts-modern-font-stacks-431ff0c6.md) |
+| `github_search_assets-d71d3fb9a7f7ce` | ggu/3DAssetsToSprite | [open](records/assets-ggu-3dassetstosprite-6ed8ad85.md) |
+| `github_search_assets-d7d81584f0ab88` | zigurous/unity-prototyping-kit | [open](records/assets-zigurous-unity-prototyping-kit-8d68caac.md) |
 | `github_search_assets-d80aea4a11cf4a` | envygeeks/jekyll-assets | [open](records/assets-envygeeks-jekyll-assets-ba6d3cdb.md) |
 | `github_search_assets-d81212486ea9cd` | vigetlabs/blendid | [open](records/assets-vigetlabs-blendid-69bd7d02.md) |
 | `github_search_assets-d820c422cc2bd2` | listyque/TACTIC-Handler | [open](records/assets-listyque-tactic-handler-4eac647f.md) |
 | `github_search_assets-d89a19e3a0b9af` | TrevorS/bootstrap3-datetimepicker-rails | [open](records/assets-trevors-bootstrap3-datetimepicker-rails-e2cd0cac.md) |
 | `github_search_assets-d9487243817ddb` | dolag233/Serpent | [open](records/assets-dolag233-serpent-ea2f129d.md) |
+| `github_search_assets-d9a97f23174f96` | pwitvoet/wadmaker | [open](records/assets-pwitvoet-wadmaker-8a507817.md) |
+| `github_search_assets-d9ed106bf8a1f9` | StellarRookAnchorage/rhino-3d-elite | [open](records/assets-stellarrookanchorage-rhino-3d-elite-596b5ab8.md) |
+| `github_search_assets-da67011fa15280` | papyrus-mc/papyrusjs | [open](records/assets-papyrus-mc-papyrusjs-f4f89fc1.md) |
 | `github_search_assets-daeb7fbe858219` | bluwy/svelte-preprocess-import-assets | [open](records/assets-bluwy-svelte-preprocess-import-assets-0e5b89b7.md) |
 | `github_search_assets-dbe343ff6059e5` | johanmattssonm/birdfont | [open](records/assets-johanmattssonm-birdfont-f317dbe1.md) |
 | `github_search_assets-dcc5388329380a` | feat-agency/vite-plugin-webfont-dl | [open](records/assets-feat-agency-vite-plugin-webfont-dl-c573e2b6.md) |
+| `github_search_assets-dced64263521c2` | Pakz001/MonkeyXExamples | [open](records/assets-pakz001-monkeyxexamples-e31480db.md) |
 | `github_search_assets-dd08a6b5cf2764` | coreyhu/Urbanist | [open](records/assets-coreyhu-urbanist-36280d51.md) |
+| `github_search_assets-dfa4d5b38fb977` | Draneria/Metallics-by-Draneria_Krita-Brushes | [open](records/assets-draneria-metallics-by-draneria-krita-brushes-e6965ee3.md) |
 | `github_search_assets-dfa774abec185b` | raysan5/rres | [open](records/assets-raysan5-rres-19e58697.md) |
 | `github_search_assets-e01d69bf6bff77` | marcelscruz/dev-resources | [open](records/assets-marcelscruz-dev-resources-f1007139.md) |
+| `github_search_assets-e1df67b660f962` | AlexeyPerov/Unity-Textures-Hunter | [open](records/assets-alexeyperov-unity-textures-hunter-3aee53ed.md) |
+| `github_search_assets-e1e139aeadad07` | ITS-NIGHTOWL/CSSource-Texture-Installer | [open](records/assets-its-nightowl-cssource-texture-installer-42397280.md) |
+| `github_search_assets-e3d8ded6b31e10` | QodotPlugin/qodot-plugin | [open](records/assets-qodotplugin-qodot-plugin-d6f80581.md) |
 | `github_search_assets-e3f96e60b5df6c` | Numbersf/MakeFontsGreatAgain | [open](records/assets-numbersf-makefontsgreatagain-5c928149.md) |
 | `github_search_assets-e438cfa7e38bb7` | adobe-fonts/source-sans | [open](records/assets-adobe-fonts-source-sans-0a0aa01d.md) |
 | `github_search_assets-e48ceb3e9c0646` | lucemia/typed-ffmpeg | [open](records/assets-lucemia-typed-ffmpeg-b38dabb5.md) |
 | `github_search_assets-e5fb036049b8a1` | KonghaYao/chinese-free-web-font-storage | [open](records/assets-konghayao-chinese-free-web-font-storage-f3c64445.md) |
+| `github_search_assets-e69bb207589197` | RandomTBush/RTB-QuickBMS-Scripts | [open](records/assets-randomtbush-rtb-quickbms-scripts-397e82c6.md) |
 | `github_search_assets-e70879994d30d5` | kindlyops/havengrc | [open](records/assets-kindlyops-havengrc-3cabc9b4.md) |
 | `github_search_assets-e8d6e9b3a5a77c` | Stolz/Assets | [open](records/assets-stolz-assets-766b2deb.md) |
 | `github_search_assets-e948689ec87c53` | HurtzDonutStudios/ai-forge-mcp | [open](records/assets-hurtzdonutstudios-ai-forge-mcp-7ad47a86.md) |
 | `github_search_assets-e977e30529ea42` | SOF3/include-flate | [open](records/assets-sof3-include-flate-7e9f140c.md) |
 | `github_search_assets-ea5f08ce866365` | neverpanic/google-font-download | [open](records/assets-neverpanic-google-font-download-4f3e2bda.md) |
+| `github_search_assets-eaf82a8f7eb4e8` | satelllte/JSPlacementWeb | [open](records/assets-satelllte-jsplacementweb-55922817.md) |
 | `github_search_assets-ec495f3602937a` | all-iver/shapes2d | [open](records/assets-all-iver-shapes2d-173160ec.md) |
 | `github_search_assets-ede382f0b445b6` | githubnext/monaspace | [open](records/assets-githubnext-monaspace-701f8aac.md) |
 | `github_search_assets-efbd5f80db4331` | jenskutilek/FiraSystemFontReplacement | [open](records/assets-jenskutilek-firasystemfontreplacement-f5c1bfcf.md) |
 | `github_search_assets-f04da9d77b71c9` | freshOS/AssetChecker | [open](records/assets-freshos-assetchecker-f5602918.md) |
+| `github_search_assets-f095f3ca7132bb` | fcamarlinghi/expresso | [open](records/assets-fcamarlinghi-expresso-80b908f5.md) |
 | `github_search_assets-f10d491428c164` | OCSInventory-NG/OCSInventory-ocsreports | [open](records/assets-ocsinventory-ng-ocsinventory-ocsreports-d328f3d5.md) |
+| `github_search_assets-f15ee9b15f2303` | raycastly/texture-ripper | [open](records/assets-raycastly-texture-ripper-9397c2ef.md) |
 | `github_search_assets-f2da2e4c46a06b` | freeCodeCamp/assets | [open](records/assets-freecodecamp-assets-7ebe91ce.md) |
+| `github_search_assets-f42269b1ed49e4` | memo-db/pixel-heroes-spine | [open](records/assets-memo-db-pixel-heroes-spine-1bf85b13.md) |
 | `github_search_assets-f44d269f38b78f` | tbillington/bevy_toon_shader | [open](records/assets-tbillington-bevy-toon-shader-251332ff.md) |
 | `github_search_assets-f5133bf736cc94` | noirblancrouge/YoungSerif | [open](records/assets-noirblancrouge-youngserif-1744f7ac.md) |
 | `github_search_assets-f5571b3633dc74` | levinzonr/godot-asset-placer | [open](records/assets-levinzonr-godot-asset-placer-8d39dc8a.md) |
@@ -5921,8 +6034,11 @@
 | `github_search_assets-f9b8c1ed6f21fe` | simonsmh/notocjk | [open](records/assets-simonsmh-notocjk-15d1c280.md) |
 | `github_search_assets-fb0632f2d83348` | thesandboxgame/sandbox-smart-contracts | [open](records/assets-thesandboxgame-sandbox-smart-contracts-ed6f6d6d.md) |
 | `github_search_assets-fd324468ab7aac` | grokability/snipe-it | [open](records/assets-grokability-snipe-it-46ebe61f.md) |
+| `github_search_assets-fdaa865e7f3c5b` | maxartz15/TextureCombiner | [open](records/assets-maxartz15-texturecombiner-33f459d2.md) |
 | `github_search_assets-fea73acbe67878` | hiqdev/asset-packagist | [open](records/assets-hiqdev-asset-packagist-ef04a544.md) |
+| `github_search_assets-ff2ae30e1466c9` | Godlander/vpp | [open](records/assets-godlander-vpp-331c703d.md) |
 | `github_search_assets-ff2fa5cb454438` | agit8or1/clientst0r | [open](records/assets-agit8or1-clientst0r-68b602b6.md) |
+| `github_search_assets-ffeb09f0322647` | donmccurdy/KTX-Parse | [open](records/assets-donmccurdy-ktx-parse-18beaebb.md) |
 | `github_search_audio-0133e43f06b558` | librosa/librosa | [open](records/audio-librosa-librosa-8068a972.md) |
 | `github_search_audio-024b7cc7ae04cd` | libAudioFlux/audioFlux | [open](records/audio-libaudioflux-audioflux-7311838f.md) |
 | `github_search_audio-02c194b4f65388` | kfrlib/kfr | [open](records/audio-kfrlib-kfr-16ccf88e.md) |
@@ -14426,6 +14542,7 @@
 | `hackage_recent-30bbdc91959c46` | freckle-http | [open](records/haskell-freckle-http-ec27c9f6.md) |
 | `hackage_recent-35beadab7001d5` | what4-domains | [open](records/haskell-what4-domains-20a280a8.md) |
 | `hackage_recent-36b9648f0bd994` | keel | [open](records/haskell-keel-dffc1816.md) |
+| `hackage_recent-36d21c9436a774` | quic-simple | [open](records/haskell-quic-simple-f198ea36.md) |
 | `hackage_recent-36f4a9a68d187b` | ktx-font | [open](records/haskell-ktx-font-8c048a63.md) |
 | `hackage_recent-4c746b3da5448e` | freckle-otel | [open](records/haskell-freckle-otel-14553b97.md) |
 | `hackage_recent-560e75fc58d6d8` | vcs-ignore | [open](records/haskell-vcs-ignore-b594cffb.md) |
@@ -14435,11 +14552,13 @@
 | `hackage_recent-62497183bd454a` | HMock | [open](records/haskell-hmock-98549601.md) |
 | `hackage_recent-6a3519652d8827` | kioku-api | [open](records/haskell-kioku-api-ebf3c8b4.md) |
 | `hackage_recent-6f6d58eea7fc96` | hOpenPGP | [open](records/haskell-hopenpgp-dbd93565.md) |
+| `hackage_recent-70643b614e9981` | thread-utils-context | [open](records/haskell-thread-utils-context-4cff1f57.md) |
 | `hackage_recent-71ff2166351a35` | rme-what4 | [open](records/haskell-rme-what4-e5f70573.md) |
 | `hackage_recent-75c102beb5e066` | what4 | [open](records/haskell-what4-03a48fd1.md) |
 | `hackage_recent-7743035e5050d7` | explainable-predicates | [open](records/haskell-explainable-predicates-6549649b.md) |
 | `hackage_recent-7e6eeb91445d92` | aihc-parser | [open](records/haskell-aihc-parser-d88ae54b.md) |
 | `hackage_recent-85b70f81457859` | tricorder-mcp | [open](records/haskell-tricorder-mcp-95664038.md) |
+| `hackage_recent-9259bbdab92e2c` | hpgsql-simple-compat | [open](records/haskell-hpgsql-simple-compat-d03e91c2.md) |
 | `hackage_recent-93412bbaff519b` | kioku-migrations | [open](records/haskell-kioku-migrations-2c5f56b2.md) |
 | `hackage_recent-9407f3530f90ff` | inj | [open](records/haskell-inj-59be0a7a.md) |
 | `hackage_recent-94a17d896d7b10` | keel-linalg | [open](records/haskell-keel-linalg-b9103a9e.md) |
@@ -14448,12 +14567,13 @@
 | `hackage_recent-c27fe6ee52d5b4` | kioku-cli | [open](records/haskell-kioku-cli-1c907a92.md) |
 | `hackage_recent-c6a78aab59f2d5` | hopenpgp-tools | [open](records/haskell-hopenpgp-tools-39a59dde.md) |
 | `hackage_recent-caaad4e7e9d8e0` | servant-ede | [open](records/haskell-servant-ede-265a6dc2.md) |
+| `hackage_recent-cafe48bb462f82` | scip | [open](records/haskell-scip-895a15af.md) |
 | `hackage_recent-d30f27eef08ee0` | keel-onnx | [open](records/haskell-keel-onnx-f97de44e.md) |
 | `hackage_recent-de5657564350b6` | simple-smt | [open](records/haskell-simple-smt-901983e2.md) |
 | `hackage_recent-dffafcd891d797` | keel-abi | [open](records/haskell-keel-abi-d416a882.md) |
 | `hackage_recent-f3b71fb2557cf8` | redis-glob | [open](records/haskell-redis-glob-c0be12d6.md) |
+| `hackage_recent-f5159faf3a88ac` | hpgsql | [open](records/haskell-hpgsql-9568bc40.md) |
 | `hackage_recent-f6957e818cba3b` | hdf5 | [open](records/haskell-hdf5-eab0aa96.md) |
-| `hackage_recent-f7f704a3f1d51b` | srtree | [open](records/haskell-srtree-02456200.md) |
 | `hackage_recent-f8bae12dc2caa9` | holeyexp | [open](records/haskell-holeyexp-db5dc519.md) |
 | `hackage_top_downloads-001e2e9231f2f1` | web-encodings | [open](records/haskell-web-encodings-015c513d.md) |
 | `hackage_top_downloads-00203d525269ef` | telegram-api | [open](records/haskell-telegram-api-b35e4b3f.md) |
@@ -15699,6 +15819,7 @@
 | `hackage_top_downloads-f6e02739e68cca` | influxdb | [open](records/haskell-influxdb-0b88f69b.md) |
 | `hackage_top_downloads-f77fa146c64b21` | typst | [open](records/haskell-typst-37aa0970.md) |
 | `hackage_top_downloads-f7825cb3c1ebaa` | riak | [open](records/haskell-riak-4c3d5408.md) |
+| `hackage_top_downloads-f7f704a3f1d51b` | srtree | [open](records/haskell-srtree-02456200.md) |
 | `hackage_top_downloads-f87391a56d6f65` | quickcheck-classes | [open](records/haskell-quickcheck-classes-2c637dd9.md) |
 | `hackage_top_downloads-f894aeea371f2e` | backprop | [open](records/haskell-backprop-adf0f71d.md) |
 | `hackage_top_downloads-f89f5c16acc02c` | threads | [open](records/haskell-threads-710c21e7.md) |

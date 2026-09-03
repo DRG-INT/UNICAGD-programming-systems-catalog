@@ -1,6 +1,6 @@
 # Formatter
 
-Records: `599`
+Records: `609`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `599`
 
 ## Category Index
 
-[Api Abi Checker (204)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
-[Benchmarking (166)](benchmarking.md) · [Build System (908)](build-system.md) · [Cli (535)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (99)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (47)](compression.md)
-[Concurrency Parallelism (78)](concurrency-parallelism.md) · [Configuration (113)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (163)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (833)](database-datastore.md) · [Datetime (186)](datetime.md)
+[Api Abi Checker (205)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
+[Benchmarking (166)](benchmarking.md) · [Build System (918)](build-system.md) · [Cli (536)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (99)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
+[Concurrency Parallelism (79)](concurrency-parallelism.md) · [Configuration (115)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (835)](database-datastore.md) · [Datetime (186)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (97)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (403)](ffi-bindings.md) · [Filesystem Os (1375)](filesystem-os.md) · **[Formatter (599)](formatter.md)**
-[Framework (54)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (169)](game-engine-game-dev.md) · [Ide Editor Integration (1320)](ide-editor-integration.md)
-[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (251)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1377)](language-specification.md) · [Library (5243)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (483)](logging-observability.md) · [Machine Learning (647)](machine-learning.md)
-[Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (38)](message-broker.md) · [Networking Http (969)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (415)](package-manager.md) · [Parser Lexer Ast (1003)](parser-lexer-ast.md) · [Precommit Ci Quality (278)](precommit-ci-quality.md)
-[Profiler (79)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (333)](security-sast.md) · [Serialization (379)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (490)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (520)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
-[Undefined Behavior Analyzer (1499)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (466)](visualization-gui.md) · [Web Framework (451)](web-framework.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (405)](ffi-bindings.md) · [Filesystem Os (1386)](filesystem-os.md) · **[Formatter (609)](formatter.md)**
+[Framework (54)](framework.md) · [Fuzzer (54)](fuzzer.md) · [Game Engine Game Dev (172)](game-engine-game-dev.md) · [Ide Editor Integration (1326)](ide-editor-integration.md)
+[Image Audio Dsp (359)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (252)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1377)](language-specification.md) · [Library (5259)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (483)](logging-observability.md) · [Machine Learning (655)](machine-learning.md)
+[Math Numeric Scientific (84)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (38)](message-broker.md) · [Networking Http (969)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (417)](package-manager.md) · [Parser Lexer Ast (1016)](parser-lexer-ast.md) · [Precommit Ci Quality (282)](precommit-ci-quality.md)
+[Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Security Sast (333)](security-sast.md) · [Serialization (380)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (493)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (520)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (300)](type-checker.md)
+[Undefined Behavior Analyzer (1504)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (470)](visualization-gui.md) · [Web Framework (452)](web-framework.md)
 
 ## C99
 
@@ -533,7 +533,7 @@ Records: `599`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-03T19:16:25Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-03T20:19:14Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-08-27T19:23:53Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Icons and Logos
@@ -563,17 +563,27 @@ Records: `599`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| 0xC0000054/pdn-ddsfiletype-plus | partial | 2026-03-22T23:48:30Z | [open](../records/assets-0xc0000054-pdn-ddsfiletype-plus-8da0f368.md) |
 | aMarCruz/react-native-text-size | partial | 2024-07-17T10:20:57Z | [open](../records/assets-amarcruz-react-native-text-size-989d2e6b.md) |
 | assimp/assimp | partial | 2026-09-02T08:32:33Z | [open](../records/assets-assimp-assimp-e26f9fa8.md) |
 | BlackFoundryCom/InriaFonts | partial | 2021-12-08T05:49:01Z | [open](../records/assets-blackfoundrycom-inriafonts-1005f303.md) |
 | dogoncouch/LogESP | partial | 2023-08-24T20:13:12Z | [open](../records/assets-dogoncouch-logesp-487d8edc.md) |
+| elasota/ConvectionKernels | partial | 2022-06-23T03:15:07Z | [open](../records/assets-elasota-convectionkernels-1bd72eb9.md) |
+| fcamarlinghi/expresso | partial | 2025-10-04T13:44:15Z | [open](../records/assets-fcamarlinghi-expresso-80b908f5.md) |
+| fernandotonon/QtMeshEditor | partial | 2026-09-02T05:51:18Z | [open](../records/assets-fernandotonon-qtmesheditor-6f7f47a2.md) |
+| iZePlayzYT/SuperMarioEclipse-TexturePacks | partial | 2026-06-26T22:41:38Z | [open](../records/assets-izeplayzyt-supermarioeclipse-texturepacks-f6aeecb0.md) |
 | johanmattssonm/birdfont | partial | 2025-11-23T19:49:15Z | [open](../records/assets-johanmattssonm-birdfont-f317dbe1.md) |
+| jtomori/batch_textures_convert | partial | 2022-01-05T20:08:33Z | [open](../records/assets-jtomori-batch-textures-convert-0307606c.md) |
 | KonghaYao/chinese-free-web-font-storage | partial | 2026-06-16T07:38:56Z | [open](../records/assets-konghayao-chinese-free-web-font-storage-f3c64445.md) |
+| looeee/gltf-converter | partial | 2023-03-01T10:57:42Z | [open](../records/assets-looeee-gltf-converter-6f19ceb0.md) |
 | NiklasEi/bevy_common_assets | partial | 2026-06-21T16:55:02Z | [open](../records/assets-niklasei-bevy-common-assets-87d9fbf2.md) |
+| oblivioncth/Stexatlaser | partial | 2026-08-26T18:53:52Z | [open](../records/assets-oblivioncth-stexatlaser-40b7ab31.md) |
 | Qftm/Information_Collection_Handbook | partial | 2023-03-08T14:10:29Z | [open](../records/assets-qftm-information-collection-handbook-97112bf4.md) |
 | SawyerRensel/Transmogrifier | partial | 2026-07-16T00:26:47Z | [open](../records/assets-sawyerrensel-transmogrifier-c1c40840.md) |
 | sourcentis/mercator | partial | 2026-09-03T06:42:52Z | [open](../records/assets-sourcentis-mercator-b6bbd504.md) |
+| ToxSam/os3a-gallery | partial | 2026-02-10T16:33:02Z | [open](../records/assets-toxsam-os3a-gallery-cbfb47dc.md) |
 | trufont/trufont | partial | 2025-12-02T16:43:50Z | [open](../records/assets-trufont-trufont-b3154008.md) |
+| wangyz1999/3d-emoji-assets-generator | partial | 2026-03-30T16:28:15Z | [open](../records/assets-wangyz1999-3d-emoji-assets-generator-b46f9205.md) |
 
 ## Maps
 
@@ -615,7 +625,7 @@ Records: `599`
 | --- | --- | --- | --- |
 | ACADLab/SPICEPilot | partial | 2026-04-02T17:29:41Z | [open](../records/space-maps-acadlab-spicepilot-26ac7adc.md) |
 | aduboisforge/Bright-Star-Catalog-JSON | partial | 2021-07-26T19:07:41Z | [open](../records/space-maps-aduboisforge-bright-star-catalog-json-56a2faf5.md) |
-| asdf-format/asdf | partial | 2026-09-02T16:38:04Z | [open](../records/space-maps-asdf-format-asdf-f4898a65.md) |
+| asdf-format/asdf | partial | 2026-09-03T19:07:20Z | [open](../records/space-maps-asdf-format-asdf-f4898a65.md) |
 | bgmeulem/luminet | partial | 2026-07-12T21:35:05Z | [open](../records/space-maps-bgmeulem-luminet-66cad96d.md) |
 | blackspiritualangel-pixel/astro-map | partial | 2026-05-30T14:54:43Z | [open](../records/space-maps-blackspiritualangel-pixel-astro-map-9af237a4.md) |
 | cyberkolbasa/JNSQ_info | partial | 2024-06-30T08:17:49Z | [open](../records/space-maps-cyberkolbasa-jnsq-info-591b1abf.md) |

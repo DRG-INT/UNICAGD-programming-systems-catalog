@@ -1,6 +1,6 @@
 # Web Framework
 
-Records: `451`
+Records: `452`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `451`
 
 ## Category Index
 
-[Api Abi Checker (204)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
-[Benchmarking (166)](benchmarking.md) · [Build System (908)](build-system.md) · [Cli (535)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (99)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (47)](compression.md)
-[Concurrency Parallelism (78)](concurrency-parallelism.md) · [Configuration (113)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (163)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (833)](database-datastore.md) · [Datetime (186)](datetime.md)
+[Api Abi Checker (205)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
+[Benchmarking (166)](benchmarking.md) · [Build System (918)](build-system.md) · [Cli (536)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (99)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
+[Concurrency Parallelism (79)](concurrency-parallelism.md) · [Configuration (115)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (835)](database-datastore.md) · [Datetime (186)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (97)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (403)](ffi-bindings.md) · [Filesystem Os (1375)](filesystem-os.md) · [Formatter (599)](formatter.md)
-[Framework (54)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (169)](game-engine-game-dev.md) · [Ide Editor Integration (1320)](ide-editor-integration.md)
-[Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (251)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1377)](language-specification.md) · [Library (5243)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (483)](logging-observability.md) · [Machine Learning (647)](machine-learning.md)
-[Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (38)](message-broker.md) · [Networking Http (969)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (415)](package-manager.md) · [Parser Lexer Ast (1003)](parser-lexer-ast.md) · [Precommit Ci Quality (278)](precommit-ci-quality.md)
-[Profiler (79)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (333)](security-sast.md) · [Serialization (379)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (490)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (520)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
-[Undefined Behavior Analyzer (1499)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (466)](visualization-gui.md) · **[Web Framework (451)](web-framework.md)**
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (405)](ffi-bindings.md) · [Filesystem Os (1386)](filesystem-os.md) · [Formatter (609)](formatter.md)
+[Framework (54)](framework.md) · [Fuzzer (54)](fuzzer.md) · [Game Engine Game Dev (172)](game-engine-game-dev.md) · [Ide Editor Integration (1326)](ide-editor-integration.md)
+[Image Audio Dsp (359)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (252)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1377)](language-specification.md) · [Library (5259)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (483)](logging-observability.md) · [Machine Learning (655)](machine-learning.md)
+[Math Numeric Scientific (84)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (38)](message-broker.md) · [Networking Http (969)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (417)](package-manager.md) · [Parser Lexer Ast (1016)](parser-lexer-ast.md) · [Precommit Ci Quality (282)](precommit-ci-quality.md)
+[Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Security Sast (333)](security-sast.md) · [Serialization (380)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (493)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (520)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (300)](type-checker.md)
+[Undefined Behavior Analyzer (1504)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (470)](visualization-gui.md) · **[Web Framework (452)](web-framework.md)**
 
 ## C++23
 
@@ -180,7 +180,7 @@ Records: `451`
 | @genkit-ai/telemetry-server | 1.42.0 | 2026-08-25T16:42:29.627Z | [open](../records/node-js-javascript-genkit-ai-telemetry-server-a15ef5d5.md) |
 | @getpaseo/server | 0.7.2 | 2026-09-02T00:10:54.602Z | [open](../records/node-js-javascript-getpaseo-server-fdad1689.md) |
 | @gongrzhe/server-gmail-autoauth-mcp | 1.1.11 | 2025-08-06T01:16:22.211Z | [open](../records/node-js-javascript-gongrzhe-server-gmail-autoauth-mcp-3b37de6e.md) |
-| @heroku/mcp-server | 1.2.6 | 2026-08-11T18:12:17.926Z | [open](../records/node-js-javascript-heroku-mcp-server-1d60d18d.md) |
+| @heroku/mcp-server | 1.2.7 | 2026-09-03T19:09:35.226Z | [open](../records/node-js-javascript-heroku-mcp-server-1d60d18d.md) |
 | @hono/trpc-server | 0.4.2 | 2026-01-12T15:04:52.719Z | [open](../records/node-js-javascript-hono-trpc-server-989842b6.md) |
 | @hono/vite-dev-server | 0.26.1 | 2026-07-11T04:05:00.157Z | [open](../records/node-js-javascript-hono-vite-dev-server-e0c72d5b.md) |
 | @koishijs/plugin-server | 3.2.9 | 2026-02-27T21:00:53.554Z | [open](../records/node-js-javascript-koishijs-plugin-server-9a9e631a.md) |
@@ -231,14 +231,14 @@ Records: `451`
 | @supabase/mcp-server-supabase | 0.11.0 | 2026-08-20T13:05:14.569Z | [open](../records/node-js-javascript-supabase-mcp-server-supabase-7cd0f08b.md) |
 | @tanstack/react-start-rsc | 0.1.48 | 2026-08-22T22:58:16.169Z | [open](../records/node-js-javascript-tanstack-react-start-rsc-cf26d1f1.md) |
 | @toolbox-sdk/server | 1.10.0 | 2026-08-28T22:23:29.204Z | [open](../records/node-js-javascript-toolbox-sdk-server-6410dd9c.md) |
-| @transcend-io/mcp-server-admin | 0.6.9 | 2026-09-02T03:50:31.038Z | [open](../records/node-js-javascript-transcend-io-mcp-server-admin-c732016b.md) |
-| @transcend-io/mcp-server-assessment | 0.5.29 | 2026-09-02T03:50:31.799Z | [open](../records/node-js-javascript-transcend-io-mcp-server-assessment-fa3a076f.md) |
-| @transcend-io/mcp-server-consent | 0.9.5 | 2026-09-02T03:50:31.917Z | [open](../records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) |
-| @transcend-io/mcp-server-discovery | 0.5.29 | 2026-09-02T03:50:31.683Z | [open](../records/node-js-javascript-transcend-io-mcp-server-discovery-87735bfc.md) |
-| @transcend-io/mcp-server-dsr | 0.8.9 | 2026-09-02T03:50:31.332Z | [open](../records/node-js-javascript-transcend-io-mcp-server-dsr-76f6cb8b.md) |
-| @transcend-io/mcp-server-inventory | 0.7.9 | 2026-09-02T03:50:31.438Z | [open](../records/node-js-javascript-transcend-io-mcp-server-inventory-9bc583b1.md) |
-| @transcend-io/mcp-server-preferences | 0.7.1 | 2026-09-02T03:52:07.796Z | [open](../records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
-| @transcend-io/mcp-server-workflows | 0.5.29 | 2026-09-02T03:50:35.894Z | [open](../records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) |
+| @transcend-io/mcp-server-admin | 0.6.10 | 2026-09-03T19:27:15.067Z | [open](../records/node-js-javascript-transcend-io-mcp-server-admin-c732016b.md) |
+| @transcend-io/mcp-server-assessment | 0.5.30 | 2026-09-03T19:28:52.130Z | [open](../records/node-js-javascript-transcend-io-mcp-server-assessment-fa3a076f.md) |
+| @transcend-io/mcp-server-consent | 0.9.6 | 2026-09-03T19:27:15.694Z | [open](../records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) |
+| @transcend-io/mcp-server-discovery | 0.5.30 | 2026-09-03T19:27:15.450Z | [open](../records/node-js-javascript-transcend-io-mcp-server-discovery-87735bfc.md) |
+| @transcend-io/mcp-server-dsr | 0.8.10 | 2026-09-03T19:27:15.159Z | [open](../records/node-js-javascript-transcend-io-mcp-server-dsr-76f6cb8b.md) |
+| @transcend-io/mcp-server-inventory | 0.7.10 | 2026-09-03T19:27:20.713Z | [open](../records/node-js-javascript-transcend-io-mcp-server-inventory-9bc583b1.md) |
+| @transcend-io/mcp-server-preferences | 0.7.2 | 2026-09-03T19:28:16.509Z | [open](../records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
+| @transcend-io/mcp-server-workflows | 0.5.30 | 2026-09-03T19:27:20.967Z | [open](../records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) |
 | @trpc/server | 11.18.0 | 2026-06-17T22:48:25.078Z | [open](../records/node-js-javascript-trpc-server-02b69ad5.md) |
 | @turnkey/sdk-server | 8.3.0 | 2026-08-27T23:08:30.267Z | [open](../records/node-js-javascript-turnkey-sdk-server-330a2b7d.md) |
 | @ui5/mcp-server | 0.2.18 | 2026-08-13T09:15:38.219Z | [open](../records/node-js-javascript-ui5-mcp-server-ed5f5678.md) |
@@ -298,7 +298,7 @@ Records: `451`
 | server-cli-only | 0.3.2 | 2024-04-30T11:09:03.373Z | [open](../records/node-js-javascript-server-cli-only-17eb2673.md) |
 | server-destroy | 1.0.1 | 2015-05-20T07:16:41.655Z | [open](../records/node-js-javascript-server-destroy-b5d1e648.md) |
 | server-only | 0.0.1 | 2022-09-03T01:07:26.139Z | [open](../records/node-js-javascript-server-only-0b56fef6.md) |
-| srvx | 1.0.1 | 2026-09-03T09:11:36.896Z | [open](../records/node-js-javascript-srvx-1c963d3b.md) |
+| srvx | 1.0.2 | 2026-09-03T19:51:14.673Z | [open](../records/node-js-javascript-srvx-1c963d3b.md) |
 | superstatic | 11.0.0 | 2026-07-08T19:13:39.538Z | [open](../records/node-js-javascript-superstatic-fc374538.md) |
 | tiny-lr | 2.0.0 | 2020-10-09T18:15:31.366Z | [open](../records/node-js-javascript-tiny-lr-9c549260.md) |
 | tiny-worker | 2.3.0 | 2019-09-20T17:30:30.678Z | [open](../records/node-js-javascript-tiny-worker-6925212f.md) |
@@ -411,6 +411,7 @@ Records: `451`
 | --- | --- | --- | --- |
 | django-webpack/django-webpack-loader | partial | 2026-05-13T14:48:04Z | [open](../records/assets-django-webpack-django-webpack-loader-61d7c881.md) |
 | internet-development/www-server-mono | partial | 2026-08-22T06:50:35Z | [open](../records/assets-internet-development-www-server-mono-b5773f46.md) |
+| jansol/texpresso | partial | 2025-10-27T22:38:49Z | [open](../records/assets-jansol-texpresso-c8f9d0fc.md) |
 | MarSeventh/CloudFlare-ImgBed | partial | 2026-08-31T12:55:06Z | [open](../records/assets-marseventh-cloudflare-imgbed-2006c876.md) |
 | OCSInventory-NG/OCSInventory-Server | partial | 2026-08-25T07:32:32Z | [open](../records/assets-ocsinventory-ng-ocsinventory-server-75ffaffe.md) |
 | rykener/django-manifest-loader | partial | 2022-06-14T19:22:54Z | [open](../records/assets-rykener-django-manifest-loader-feff5b7a.md) |
@@ -431,7 +432,7 @@ Records: `451`
 | freerouting/freerouting | partial | 2026-09-01T21:04:30Z | [open](../records/maps-freerouting-freerouting-1dba680a.md) |
 | frzi/swiftui-router | partial | 2024-10-09T12:16:33Z | [open](../records/maps-frzi-swiftui-router-367cfeed.md) |
 | go-spatial/tegola | partial | 2026-09-02T15:06:10Z | [open](../records/maps-go-spatial-tegola-0b6db6ab.md) |
-| graphhopper/graphhopper | partial | 2026-09-03T14:13:16Z | [open](../records/maps-graphhopper-graphhopper-cfd324a4.md) |
+| graphhopper/graphhopper | partial | 2026-09-03T19:32:05Z | [open](../records/maps-graphhopper-graphhopper-cfd324a4.md) |
 | henrythasler/cloud-tileserver | partial | 2026-04-08T23:04:36Z | [open](../records/maps-henrythasler-cloud-tileserver-fc8f7868.md) |
 | kartotherian/kartotherian | partial | 2021-08-11T04:00:27Z | [open](../records/maps-kartotherian-kartotherian-b54778f4.md) |
 | katanemo/plano | partial | 2026-08-19T19:29:08Z | [open](../records/maps-katanemo-plano-886a078b.md) |
@@ -553,7 +554,7 @@ Records: `451`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | alchemy-swift/alchemy | partial | 2025-11-07T23:57:58Z | [open](../records/swift-alchemy-swift-alchemy-6ca3c9b1.md) |
-| apple/swift-log | partial | 2026-08-27T17:23:38Z | [open](../records/swift-apple-swift-log-9120ca11.md) |
+| apple/swift-log | partial | 2026-09-03T16:56:50Z | [open](../records/swift-apple-swift-log-9120ca11.md) |
 | apple/swift-metrics | partial | 2026-08-31T09:36:38Z | [open](../records/swift-apple-swift-metrics-38873b0e.md) |
 | ArtSabintsev/Guitar | partial | 2024-06-20T02:03:44Z | [open](../records/swift-artsabintsev-guitar-edf44630.md) |
 | brokenhandsio/swift-webauthn | partial | 2026-07-04T01:31:20Z | [open](../records/swift-brokenhandsio-swift-webauthn-17084b06.md) |
@@ -584,7 +585,7 @@ Records: `451`
 | dbgate/dbgate | partial | 2026-09-02T13:16:29Z | [open](../records/databases-dbgate-dbgate-67fc8232.md) |
 | doableware/djongo | partial | 2026-09-01T12:40:36Z | [open](../records/databases-doableware-djongo-55b89aa7.md) |
 | dotnetcore/FreeSql | partial | 2026-07-31T17:52:16Z | [open](../records/databases-dotnetcore-freesql-be272c12.md) |
-| googleapis/mcp-toolbox | partial | 2026-09-03T18:22:38Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
+| googleapis/mcp-toolbox | partial | 2026-09-03T20:13:11Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
 | lionheart/django-pyodbc | partial | 2023-01-29T16:42:06Z | [open](../records/databases-lionheart-django-pyodbc-c6078181.md) |
 | neondatabase/neon | partial | 2026-08-31T11:03:14Z | [open](../records/databases-neondatabase-neon-3c375148.md) |
 | parse-community/parse-server | partial | 2026-09-03T00:13:59Z | [open](../records/databases-parse-community-parse-server-9d5b6dd7.md) |
