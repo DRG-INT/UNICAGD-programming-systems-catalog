@@ -8,21 +8,21 @@ Records: `452`
 
 ## Category Index
 
-[Api Abi Checker (202)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (133)](async-runtime.md)
+[Api Abi Checker (203)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
 [Benchmarking (164)](benchmarking.md) · [Build System (885)](build-system.md) · [Cli (528)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (92)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
 [Concurrency Parallelism (78)](concurrency-parallelism.md) · [Configuration (108)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (830)](database-datastore.md) · [Datetime (180)](datetime.md)
+[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (831)](database-datastore.md) · [Datetime (180)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (96)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1343)](filesystem-os.md) · [Formatter (590)](formatter.md)
-[Framework (52)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1289)](ide-editor-integration.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1343)](filesystem-os.md) · [Formatter (591)](formatter.md)
+[Framework (53)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1289)](ide-editor-integration.md)
 [Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (247)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1273)](language-specification.md) · [Library (5146)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1273)](language-specification.md) · [Library (5154)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (477)](logging-observability.md) · [Machine Learning (636)](machine-learning.md)
 [Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (957)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (409)](package-manager.md) · [Parser Lexer Ast (994)](parser-lexer-ast.md) · [Precommit Ci Quality (275)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (128)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (332)](security-sast.md) · [Serialization (377)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (487)](static-analyzer.md)
+[Security Sast (332)](security-sast.md) · [Serialization (377)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (489)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (514)](testing-framework.md) · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
 [Undefined Behavior Analyzer (1487)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · **[Visualization Gui (452)](visualization-gui.md)** · [Web Framework (447)](web-framework.md)
 
@@ -282,7 +282,7 @@ Records: `452`
 | persistent_bottom_nav_bar_v2 | 6.4.0 | 2026-08-10T22:23:40.208953Z | [open](../records/dart-persistent-bottom-nav-bar-v2-af0b0087.md) |
 | pin_code_fields | 9.4.0 | 2026-05-20T09:53:40.015281Z | [open](../records/dart-pin-code-fields-1b47ca5f.md) |
 | scaled_app | 2.3.2 | 2026-08-18T15:26:31.052429Z | [open](../records/dart-scaled-app-83e99a29.md) |
-| shadcn_ui | 0.56.2 | 2026-08-26T12:16:31.773316Z | [open](../records/dart-shadcn-ui-58fde214.md) |
+| shadcn_ui | 0.56.3 | 2026-09-03T12:41:04.564642Z | [open](../records/dart-shadcn-ui-58fde214.md) |
 | sizer | 3.1.3 | 2025-08-26T09:28:34.030481Z | [open](../records/dart-sizer-a32a470d.md) |
 | skeletonizer | 2.1.3 | 2026-02-13T07:42:20.195362Z | [open](../records/dart-skeletonizer-cfc381b3.md) |
 | smooth_page_indicator | 3.0.0 | 2026-08-21T21:31:58.921064Z | [open](../records/dart-smooth-page-indicator-c9646ffc.md) |
@@ -609,7 +609,7 @@ Records: `452`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ant-design-blazor/ant-design-blazor | partial | 2026-09-01T14:26:03Z | [open](../records/webassembly-ant-design-blazor-ant-design-blazor-d8f0273e.md) |
-| dotnetcore/BootstrapBlazor | partial | 2026-09-02T12:17:28Z | [open](../records/webassembly-dotnetcore-bootstrapblazor-5915f6c3.md) |
+| dotnetcore/BootstrapBlazor | partial | 2026-09-03T11:04:06Z | [open](../records/webassembly-dotnetcore-bootstrapblazor-5915f6c3.md) |
 | vugu/vugu | partial | 2026-09-01T16:39:00Z | [open](../records/webassembly-vugu-vugu-38501d3e.md) |
 | xiaoyu1998/web3.learning | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-xiaoyu1998-web3-learning-35c3e808.md) |
 
@@ -617,15 +617,15 @@ Records: `452`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| 17Anurag/Inventory-Management-System | unknown | not_a_maven_coordinate | [open](../records/sapjava-17anurag-inventory-management-system-7e8f8760.md) |
-| aryan-asint3/asset-management-ui5-cap-java | unknown | not_a_maven_coordinate | [open](../records/sapjava-aryan-asint3-asset-management-ui5-cap-java-2aeb5684.md) |
-| Azure-Samples/app-service-javascript-sap-cap-quickstart | unknown | not_a_maven_coordinate | [open](../records/sapjava-azure-samples-app-service-javascript-sap-cap-quickstart-ed07b42b.md) |
-| Azure-Samples/app-service-javascript-sap-cloud-sdk-quickstart | unknown | not_a_maven_coordinate | [open](../records/sapjava-azure-samples-app-service-javascript-sap-cloud-sdk-quickstart-a47547d2.md) |
-| Azure-Samples/functions-javascript-sap-cloud-sdk-quickstart | unknown | not_a_maven_coordinate | [open](../records/sapjava-azure-samples-functions-javascript-sap-cloud-sdk-quickstart-7c7403ca.md) |
-| cap-java/cds-feature-advanced-event-mesh | 1.0.2 | 2026-06-12T11:57:11Z | [open](../records/sapjava-cap-java-cds-feature-advanced-event-mesh-9f67184d.md) |
+| 17Anurag/Inventory-Management-System | partial | 2026-07-07T05:38:25Z | [open](../records/sapjava-17anurag-inventory-management-system-7e8f8760.md) |
+| aryan-asint3/asset-management-ui5-cap-java | partial | 2026-07-23T18:47:35Z | [open](../records/sapjava-aryan-asint3-asset-management-ui5-cap-java-2aeb5684.md) |
+| Azure-Samples/app-service-javascript-sap-cap-quickstart | partial | 2025-03-31T15:48:12Z | [open](../records/sapjava-azure-samples-app-service-javascript-sap-cap-quickstart-ed07b42b.md) |
+| Azure-Samples/app-service-javascript-sap-cloud-sdk-quickstart | partial | 2026-09-03T05:36:11Z | [open](../records/sapjava-azure-samples-app-service-javascript-sap-cloud-sdk-quickstart-a47547d2.md) |
+| Azure-Samples/functions-javascript-sap-cloud-sdk-quickstart | partial | 2026-03-27T07:46:01Z | [open](../records/sapjava-azure-samples-functions-javascript-sap-cloud-sdk-quickstart-7c7403ca.md) |
+| cap-java/cds-feature-advanced-event-mesh | partial | 2026-08-27T15:04:53Z | [open](../records/sapjava-cap-java-cds-feature-advanced-event-mesh-9f67184d.md) |
 | com.sap.cds:cds-feature-message-queuing | 3.10.1 | 2025-05-16T11:26:32+00:00 | [open](../records/sapjava-com-sap-cds-cds-feature-message-queuing-cf687023.md) |
-| learnin/sap-cap-example | unknown | not_a_maven_coordinate | [open](../records/sapjava-learnin-sap-cap-example-1ed9f2fe.md) |
-| SAP-archive/cloud-espm-v2 | v2.1 | 2017-05-08T14:15:12Z | [open](../records/sapjava-sap-archive-cloud-espm-v2-e001d6b3.md) |
+| learnin/sap-cap-example | partial | 2021-05-25T15:42:51Z | [open](../records/sapjava-learnin-sap-cap-example-1ed9f2fe.md) |
+| SAP-archive/cloud-espm-v2 | partial | 2022-02-28T05:23:45Z | [open](../records/sapjava-sap-archive-cloud-espm-v2-e001d6b3.md) |
 
 ## Swift
 

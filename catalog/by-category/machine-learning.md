@@ -8,21 +8,21 @@ Records: `636`
 
 ## Category Index
 
-[Api Abi Checker (202)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (133)](async-runtime.md)
+[Api Abi Checker (203)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
 [Benchmarking (164)](benchmarking.md) · [Build System (885)](build-system.md) · [Cli (528)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (92)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
 [Concurrency Parallelism (78)](concurrency-parallelism.md) · [Configuration (108)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (830)](database-datastore.md) · [Datetime (180)](datetime.md)
+[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (831)](database-datastore.md) · [Datetime (180)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (96)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1343)](filesystem-os.md) · [Formatter (590)](formatter.md)
-[Framework (52)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1289)](ide-editor-integration.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1343)](filesystem-os.md) · [Formatter (591)](formatter.md)
+[Framework (53)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1289)](ide-editor-integration.md)
 [Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (247)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1273)](language-specification.md) · [Library (5146)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1273)](language-specification.md) · [Library (5154)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (477)](logging-observability.md) · **[Machine Learning (636)](machine-learning.md)**
 [Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (957)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (409)](package-manager.md) · [Parser Lexer Ast (994)](parser-lexer-ast.md) · [Precommit Ci Quality (275)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (128)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (332)](security-sast.md) · [Serialization (377)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (487)](static-analyzer.md)
+[Security Sast (332)](security-sast.md) · [Serialization (377)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (489)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (514)](testing-framework.md) · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
 [Undefined Behavior Analyzer (1487)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (452)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
 
@@ -419,7 +419,7 @@ Records: `636`
 | floating | 6.0.0 | 2025-02-14T19:30:57.061512Z | [open](../records/dart-floating-77544969.md) |
 | flutter_chat_types | 3.6.2 | 2023-07-09T18:21:42.738589Z | [open](../records/dart-flutter-chat-types-ec6976cf.md) |
 | flutter_email_sender | 10.0.1 | 2026-06-15T11:45:20.454046Z | [open](../records/dart-flutter-email-sender-6c7e45e3.md) |
-| flutter_soloud | 4.1.7 | 2026-08-08T13:01:21.863137Z | [open](../records/dart-flutter-soloud-5770bd43.md) |
+| flutter_soloud | 5.0.0 | 2026-09-03T12:32:40.991317Z | [open](../records/dart-flutter-soloud-5770bd43.md) |
 | flutter_svg | 2.3.0 | 2026-05-08T22:33:36.973597Z | [open](../records/dart-flutter-svg-da91afe8.md) |
 | flutter_widget_from_html_core | 0.17.3 | 2026-08-30T03:12:00.994016Z | [open](../records/dart-flutter-widget-from-html-core-326a4f17.md) |
 | formz | 0.8.1 | 2026-08-10T12:12:09.731229Z | [open](../records/dart-formz-bfd87f06.md) |
@@ -471,20 +471,20 @@ Records: `636`
 | datawhalechina/happy-llm | partial | 2026-08-08T17:18:48Z | [open](../records/aim-s-datawhalechina-happy-llm-00d4ee33.md) |
 | datawhalechina/hello-agents | partial | 2026-08-18T06:51:35Z | [open](../records/aim-s-datawhalechina-hello-agents-7c22b3b1.md) |
 | datawhalechina/self-llm | partial | 2026-08-26T06:33:41Z | [open](../records/aim-s-datawhalechina-self-llm-f636cd5d.md) |
-| firecrawl/firecrawl | partial | 2026-09-03T11:47:07Z | [open](../records/aim-s-firecrawl-firecrawl-e23e3125.md) |
+| firecrawl/firecrawl | partial | 2026-09-03T14:19:58Z | [open](../records/aim-s-firecrawl-firecrawl-e23e3125.md) |
 | HKUDS/Vibe-Trading | partial | 2026-09-02T09:32:29Z | [open](../records/aim-s-hkuds-vibe-trading-eb525e68.md) |
 | Hugging Face Transformers | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-hugging-face-transformers-9b7d820e.md) |
 | ItzCrazyKns/Vane | partial | 2026-09-01T14:12:12Z | [open](../records/aim-s-itzcrazykns-vane-331d2e53.md) |
-| janhq/jan | partial | 2026-09-03T13:03:25Z | [open](../records/aim-s-janhq-jan-f71b49a2.md) |
+| janhq/jan | partial | 2026-09-03T14:08:43Z | [open](../records/aim-s-janhq-jan-f71b49a2.md) |
 | JAX | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-jax-160b4e37.md) |
 | jeecgboot/JeecgBoot | partial | 2026-09-02T14:48:27Z | [open](../records/aim-s-jeecgboot-jeecgboot-4bd956b2.md) |
 | JuliusBrussee/caveman | partial | 2026-09-02T13:48:52Z | [open](../records/aim-s-juliusbrussee-caveman-aee4c811.md) |
 | JushBJJ/Mr.-Ranedeer-AI-Tutor | partial | 2025-09-30T08:08:00Z | [open](../records/aim-s-jushbjj-mr-ranedeer-ai-tutor-1c9ffb63.md) |
-| langchain-ai/langchain | partial | 2026-09-03T08:17:49Z | [open](../records/aim-s-langchain-ai-langchain-8b6774eb.md) |
+| langchain-ai/langchain | partial | 2026-09-03T14:03:18Z | [open](../records/aim-s-langchain-ai-langchain-8b6774eb.md) |
 | linshenkx/prompt-optimizer | partial | 2026-08-26T08:07:53Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
 | lyogavin/airllm | partial | 2026-09-03T06:24:24Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-03T00:42:42Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | partial | 2026-09-03T12:37:18Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| NousResearch/hermes-agent | partial | 2026-09-03T13:56:12Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
 | onyx-dot-app/onyx | partial | 2026-09-03T11:56:30Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-02T02:12:21Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-02T00:50:20Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
@@ -498,7 +498,7 @@ Records: `636`
 | TauricResearch/TradingAgents | partial | 2026-09-01T05:38:45Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | partial | 2026-09-03T13:18:44Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| unslothai/unsloth | partial | 2026-09-03T14:05:22Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
 | VectifyAI/PageIndex | partial | 2026-09-03T10:37:14Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
 | virgiliojr94/book-to-skill | partial | 2026-09-01T14:51:58Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 
@@ -784,17 +784,17 @@ Records: `636`
 | com.sap.cloud.sdk.services:blockchain-business-services-visibility | 4.32.0 | 2024-06-11T10:16:52+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-services-blockchain-business-services-visibility-4ae1442e.md) |
 | com.sap.cloud.sdk.services:scp-blockchain | 4.32.0 | 2024-06-11T10:16:54+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-services-scp-blockchain-b58dc732.md) |
 | com.sap.cloud.yaas.service-sdk:service-sdk-raml-rewriter | 4.17.1 | 2017-10-26T05:29:54+00:00 | [open](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-raml-rewriter-03968485.md) |
-| hoangnv170752/Java20_Cybersoft_GuessNumberGame | unknown | not_a_maven_coordinate | [open](../records/sapjava-hoangnv170752-java20-cybersoft-guessnumbergame-34ec4ab5.md) |
+| hoangnv170752/Java20_Cybersoft_GuessNumberGame | partial | 2026-08-03T14:35:50Z | [open](../records/sapjava-hoangnv170752-java20-cybersoft-guessnumbergame-34ec4ab5.md) |
 | kayne87/saps4hana-address-manager | unknown | not_a_maven_coordinate | [open](../records/sapjava-kayne87-saps4hana-address-manager-34e91abd.md) |
-| mpaltanwale/CAP-JavaTutorial | unknown | not_a_maven_coordinate | [open](../records/sapjava-mpaltanwale-cap-javatutorial-3d696ef3.md) |
-| newtork/dsag-ai-sdk-java | unknown | not_a_maven_coordinate | [open](../records/sapjava-newtork-dsag-ai-sdk-java-e595c4c9.md) |
-| Pallavireddy23/ai-document-process-cap-java | unknown | not_a_maven_coordinate | [open](../records/sapjava-pallavireddy23-ai-document-process-cap-java-3298007e.md) |
+| mpaltanwale/CAP-JavaTutorial | partial | 2023-06-06T20:55:31Z | [open](../records/sapjava-mpaltanwale-cap-javatutorial-3d696ef3.md) |
+| newtork/dsag-ai-sdk-java | partial | 2025-03-28T19:33:43Z | [open](../records/sapjava-newtork-dsag-ai-sdk-java-e595c4c9.md) |
+| Pallavireddy23/ai-document-process-cap-java | partial | 2026-01-02T12:40:28Z | [open](../records/sapjava-pallavireddy23-ai-document-process-cap-java-3298007e.md) |
 | phannindra-dev/portfolio | unknown | not_a_maven_coordinate | [open](../records/sapjava-phannindra-dev-portfolio-beda514a.md) |
-| SAP/SapMachine | partial | 2026-09-02T11:17:52Z | [open](../records/sapjava-sap-sapmachine-4293ea0a.md) |
-| sharan-space1/asint_chat_llama | unknown | not_a_maven_coordinate | [open](../records/sapjava-sharan-space1-asint-chat-llama-72eedb77.md) |
+| SAP/SapMachine | partial | 2026-09-03T08:31:57Z | [open](../records/sapjava-sap-sapmachine-4293ea0a.md) |
+| sharan-space1/asint_chat_llama | partial | 2024-07-06T02:04:32Z | [open](../records/sapjava-sharan-space1-asint-chat-llama-72eedb77.md) |
 | sree26365-dev/sap-abap-hana-learning | unknown | not_a_maven_coordinate | [open](../records/sapjava-sree26365-dev-sap-abap-hana-learning-95dca87e.md) |
-| zkud/sap-cap-java-advanced-dev-containers-sample | unknown | not_a_maven_coordinate | [open](../records/sapjava-zkud-sap-cap-java-advanced-dev-containers-sample-91cebb9a.md) |
-| zkud/sap-cap-java-trivial-dev-containers-sample | unknown | not_a_maven_coordinate | [open](../records/sapjava-zkud-sap-cap-java-trivial-dev-containers-sample-1710d493.md) |
+| zkud/sap-cap-java-advanced-dev-containers-sample | partial | 2025-03-20T18:38:12Z | [open](../records/sapjava-zkud-sap-cap-java-advanced-dev-containers-sample-91cebb9a.md) |
+| zkud/sap-cap-java-trivial-dev-containers-sample | partial | 2025-03-20T14:17:30Z | [open](../records/sapjava-zkud-sap-cap-java-trivial-dev-containers-sample-1710d493.md) |
 
 ## Swift
 

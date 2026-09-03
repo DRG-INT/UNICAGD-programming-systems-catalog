@@ -8,21 +8,21 @@ Records: `477`
 
 ## Category Index
 
-[Api Abi Checker (202)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (133)](async-runtime.md)
+[Api Abi Checker (203)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
 [Benchmarking (164)](benchmarking.md) · [Build System (885)](build-system.md) · [Cli (528)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (92)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
 [Concurrency Parallelism (78)](concurrency-parallelism.md) · [Configuration (108)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (830)](database-datastore.md) · [Datetime (180)](datetime.md)
+[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (831)](database-datastore.md) · [Datetime (180)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (96)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1343)](filesystem-os.md) · [Formatter (590)](formatter.md)
-[Framework (52)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1289)](ide-editor-integration.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1343)](filesystem-os.md) · [Formatter (591)](formatter.md)
+[Framework (53)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1289)](ide-editor-integration.md)
 [Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (247)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1273)](language-specification.md) · [Library (5146)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1273)](language-specification.md) · [Library (5154)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · **[Logging Observability (477)](logging-observability.md)** · [Machine Learning (636)](machine-learning.md)
 [Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (957)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (409)](package-manager.md) · [Parser Lexer Ast (994)](parser-lexer-ast.md) · [Precommit Ci Quality (275)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (128)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (332)](security-sast.md) · [Serialization (377)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (487)](static-analyzer.md)
+[Security Sast (332)](security-sast.md) · [Serialization (377)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (489)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (514)](testing-framework.md) · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
 [Undefined Behavior Analyzer (1487)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (452)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
 
@@ -351,7 +351,7 @@ Records: `477`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 2noise/ChatTTS | partial | 2026-04-10T16:33:48Z | [open](../records/aim-s-2noise-chattts-5e993170.md) |
-| langfuse/langfuse | partial | 2026-09-03T13:20:13Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
+| langfuse/langfuse | partial | 2026-09-03T14:23:10Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
 | microsoft/semantic-kernel | partial | 2026-09-03T10:53:05Z | [open](../records/aim-s-microsoft-semantic-kernel-ef95bef0.md) |
 | MLflow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-mlflow-1732aa2b.md) |
 | OpenTelemetry Semantic Conventions For GenAI | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-opentelemetry-semantic-conventions-for-genai-e834f611.md) |
@@ -595,7 +595,7 @@ Records: `477`
 | --- | --- | --- | --- |
 | apache/polaris | partial | 2026-09-03T04:10:46Z | [open](../records/catalogs-apache-polaris-7eac00da.md) |
 | CodeCavePro/revitless-toolkit | partial | 2026-07-13T12:00:26Z | [open](../records/catalogs-codecavepro-revitless-toolkit-c3c016b5.md) |
-| CS-SI/eodag | partial | 2026-09-02T13:23:47Z | [open](../records/catalogs-cs-si-eodag-85e7685e.md) |
+| CS-SI/eodag | partial | 2026-09-03T10:29:20Z | [open](../records/catalogs-cs-si-eodag-85e7685e.md) |
 | danricho/where_the | partial | 2026-07-29T22:19:07Z | [open](../records/catalogs-danricho-where-the-79411964.md) |
 | Dansoftowner/Boomega | partial | 2022-06-17T18:31:23Z | [open](../records/catalogs-dansoftowner-boomega-ec1e6e4d.md) |
 | flyteorg/datacatalog | partial | 2023-10-09T18:35:36Z | [open](../records/catalogs-flyteorg-datacatalog-d5667377.md) |
@@ -604,8 +604,8 @@ Records: `477`
 | HowToFind-bot/osint-tools | partial | 2023-05-10T23:04:13Z | [open](../records/catalogs-howtofind-bot-osint-tools-65ba403e.md) |
 | izimobil/polib | partial | 2025-01-10T08:31:03Z | [open](../records/catalogs-izimobil-polib-91a84fe5.md) |
 | jawira/emoji-catalog | partial | 2025-04-25T18:47:44Z | [open](../records/catalogs-jawira-emoji-catalog-29e570f2.md) |
-| linkedin/openhouse | partial | 2026-09-03T01:00:21Z | [open](../records/catalogs-linkedin-openhouse-5f237890.md) |
-| Listenarrs/Listenarr | partial | 2026-09-02T03:47:46Z | [open](../records/catalogs-listenarrs-listenarr-ea47857c.md) |
+| linkedin/openhouse | partial | 2026-09-03T12:54:55Z | [open](../records/catalogs-linkedin-openhouse-5f237890.md) |
+| Listenarrs/Listenarr | partial | 2026-09-03T07:00:49Z | [open](../records/catalogs-listenarrs-listenarr-ea47857c.md) |
 | Luzkan/smells | partial | 2026-05-01T03:33:51Z | [open](../records/catalogs-luzkan-smells-e6a5a666.md) |
 | MatteoGuadrini/Butterfly-Backup | partial | 2026-01-09T20:28:19Z | [open](../records/catalogs-matteoguadrini-butterfly-backup-0020b6f7.md) |
 | MetaModels/core | partial | 2026-09-02T15:28:27Z | [open](../records/catalogs-metamodels-core-73396b33.md) |
@@ -613,13 +613,13 @@ Records: `477`
 | Mozzo1000/booklogr | partial | 2026-08-15T07:31:28Z | [open](../records/catalogs-mozzo1000-booklogr-3c01bb2b.md) |
 | nasa/Open-Source-Catalog | partial | 2026-07-13T19:47:24Z | [open](../records/catalogs-nasa-open-source-catalog-894aa87e.md) |
 | playmean/fap-list | partial | 2023-02-25T08:44:59Z | [open](../records/catalogs-playmean-fap-list-be7323da.md) |
-| Polydile/dile-components | partial | 2026-09-02T13:04:25Z | [open](../records/catalogs-polydile-dile-components-0f53e37e.md) |
+| Polydile/dile-components | partial | 2026-09-03T05:43:10Z | [open](../records/catalogs-polydile-dile-components-0f53e37e.md) |
 | raysan5/custom_game_engines | partial | 2025-10-28T20:25:23Z | [open](../records/catalogs-raysan5-custom-game-engines-538ff30d.md) |
 | redhat-cop/openshift-disconnected-operators | partial | 2025-02-05T23:15:39Z | [open](../records/catalogs-redhat-cop-openshift-disconnected-operators-40a78cf4.md) |
 | samapriya/awesome-gee-community-datasets | partial | 2026-09-03T02:03:19Z | [open](../records/catalogs-samapriya-awesome-gee-community-datasets-2d5f99df.md) |
-| semi-column/tmdb-discover-plus | partial | 2026-09-02T11:10:48Z | [open](../records/catalogs-semi-column-tmdb-discover-plus-656aa943.md) |
+| semi-column/tmdb-discover-plus | partial | 2026-09-03T06:43:42Z | [open](../records/catalogs-semi-column-tmdb-discover-plus-656aa943.md) |
 | SHERlocked93/progress-catalog | partial | 2023-04-29T01:38:28Z | [open](../records/catalogs-sherlocked93-progress-catalog-50952959.md) |
-| tfonteyn/NeverTooManyBooks | partial | 2026-09-01T21:16:38Z | [open](../records/catalogs-tfonteyn-nevertoomanybooks-ef9a6103.md) |
+| tfonteyn/NeverTooManyBooks | partial | 2026-09-03T08:53:17Z | [open](../records/catalogs-tfonteyn-nevertoomanybooks-ef9a6103.md) |
 
 ## Magazines
 
@@ -650,11 +650,11 @@ Records: `477`
 | --- | --- | --- | --- |
 | com.sap.cloud.yaas.service-sdk:service-sdk-logging | 4.17.1 | 2017-10-26T05:29:50+00:00 | [open](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-logging-26d96d5e.md) |
 | com.sap.cloud.yaas.service-sdk:service-sdk-logging-filters | 4.17.1 | 2017-10-26T05:29:50+00:00 | [open](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-logging-filters-cf3a376b.md) |
-| logalitech/cap-skills | unknown | not_a_maven_coordinate | [open](../records/sapjava-logalitech-cap-skills-4147e508.md) |
-| SAP/cf-java-logging-support | partial | 2026-09-02T11:13:52Z | [open](../records/sapjava-sap-cf-java-logging-support-6f89dbd9.md) |
+| logalitech/cap-skills | partial | 2026-08-15T09:07:37Z | [open](../records/sapjava-logalitech-cap-skills-4147e508.md) |
+| SAP/cf-java-logging-support | partial | 2026-09-03T11:49:30Z | [open](../records/sapjava-sap-cf-java-logging-support-6f89dbd9.md) |
 | SAP/cloud-metricswatcher | partial | 2026-05-27T14:12:12Z | [open](../records/sapjava-sap-cloud-metricswatcher-128bcc69.md) |
-| sapanablog/Medical-ERP-CAP | unknown | not_a_maven_coordinate | [open](../records/sapjava-sapanablog-medical-erp-cap-2360a888.md) |
-| soyuztechnologies/EY_SAP_BTP_NODEJAVA_Nov2022 | unknown | not_a_maven_coordinate | [open](../records/sapjava-soyuztechnologies-ey-sap-btp-nodejava-nov2022-6f1e6957.md) |
+| sapanablog/Medical-ERP-CAP | partial | 2026-07-12T14:42:34Z | [open](../records/sapjava-sapanablog-medical-erp-cap-2360a888.md) |
+| soyuztechnologies/EY_SAP_BTP_NODEJAVA_Nov2022 | partial | 2023-02-04T14:56:07Z | [open](../records/sapjava-soyuztechnologies-ey-sap-btp-nodejava-nov2022-6f1e6957.md) |
 
 ## Swift
 

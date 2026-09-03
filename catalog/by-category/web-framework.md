@@ -8,21 +8,21 @@ Records: `447`
 
 ## Category Index
 
-[Api Abi Checker (202)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (133)](async-runtime.md)
+[Api Abi Checker (203)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
 [Benchmarking (164)](benchmarking.md) · [Build System (885)](build-system.md) · [Cli (528)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (92)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
 [Concurrency Parallelism (78)](concurrency-parallelism.md) · [Configuration (108)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (830)](database-datastore.md) · [Datetime (180)](datetime.md)
+[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (831)](database-datastore.md) · [Datetime (180)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (96)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1343)](filesystem-os.md) · [Formatter (590)](formatter.md)
-[Framework (52)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1289)](ide-editor-integration.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1343)](filesystem-os.md) · [Formatter (591)](formatter.md)
+[Framework (53)](framework.md) · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1289)](ide-editor-integration.md)
 [Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (247)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1273)](language-specification.md) · [Library (5146)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1273)](language-specification.md) · [Library (5154)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (477)](logging-observability.md) · [Machine Learning (636)](machine-learning.md)
 [Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (957)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (409)](package-manager.md) · [Parser Lexer Ast (994)](parser-lexer-ast.md) · [Precommit Ci Quality (275)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (128)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (332)](security-sast.md) · [Serialization (377)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (487)](static-analyzer.md)
+[Security Sast (332)](security-sast.md) · [Serialization (377)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (489)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (514)](testing-framework.md) · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
 [Undefined Behavior Analyzer (1487)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (452)](visualization-gui.md) · **[Web Framework (447)](web-framework.md)**
 
@@ -242,7 +242,7 @@ Records: `447`
 | @trpc/server | 11.18.0 | 2026-06-17T22:48:25.078Z | [open](../records/node-js-javascript-trpc-server-02b69ad5.md) |
 | @turnkey/sdk-server | 8.3.0 | 2026-08-27T23:08:30.267Z | [open](../records/node-js-javascript-turnkey-sdk-server-330a2b7d.md) |
 | @ui5/mcp-server | 0.2.18 | 2026-08-13T09:15:38.219Z | [open](../records/node-js-javascript-ui5-mcp-server-ed5f5678.md) |
-| @ui5/server | 4.0.15 | 2026-03-25T10:16:54.548Z | [open](../records/node-js-javascript-ui5-server-bf90217b.md) |
+| @ui5/server | 4.0.16 | 2026-09-03T12:48:08.508Z | [open](../records/node-js-javascript-ui5-server-bf90217b.md) |
 | @umijs/server | 4.7.12 | 2026-09-03T05:45:26.495Z | [open](../records/node-js-javascript-umijs-server-39ec9954.md) |
 | @unlighthouse/server | 0.18.0 | 2026-06-29T03:12:35.459Z | [open](../records/node-js-javascript-unlighthouse-server-42feedd7.md) |
 | @upstash/context7-mcp | 4.0.4 | 2026-08-28T09:59:14.422Z | [open](../records/node-js-javascript-upstash-context7-mcp-f62fb753.md) |
@@ -504,7 +504,7 @@ Records: `447`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | emertozd/Compose-Material-3-Expressive-Catalog | partial | 2026-08-25T13:27:09Z | [open](../records/catalogs-emertozd-compose-material-3-expressive-catalog-37be1c96.md) |
-| fabiodalez-dev/Pinakes | partial | 2026-09-02T20:53:52Z | [open](../records/catalogs-fabiodalez-dev-pinakes-55aa7480.md) |
+| fabiodalez-dev/Pinakes | partial | 2026-09-03T14:14:17Z | [open](../records/catalogs-fabiodalez-dev-pinakes-55aa7480.md) |
 | zyegfryed/django-statici18n | partial | 2026-09-02T17:13:48Z | [open](../records/catalogs-zyegfryed-django-statici18n-7d8a9ed5.md) |
 
 ## Magazines
@@ -528,7 +528,7 @@ Records: `447`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AdrienTorris/awesome-blazor | partial | 2026-07-25T11:20:31Z | [open](../records/webassembly-adrientorris-awesome-blazor-c2dd8cea.md) |
+| AdrienTorris/awesome-blazor | partial | 2026-09-03T07:36:15Z | [open](../records/webassembly-adrientorris-awesome-blazor-c2dd8cea.md) |
 | ant-design-blazor/ant-design-blazor | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-ant-design-blazor-ant-design-blazor-15cc0a46.md) |
 | Olin - WebAssembly on the server | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-olin-webassembly-on-the-server-4133420f.md) |
 | PeterHuZQ/EOS-Dapp | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-peterhuzq-eos-dapp-4e03fdd8.md) |
@@ -575,7 +575,7 @@ Records: `447`
 | dbgate/dbgate | partial | 2026-09-02T13:16:29Z | [open](../records/databases-dbgate-dbgate-67fc8232.md) |
 | doableware/djongo | partial | 2026-09-01T12:40:36Z | [open](../records/databases-doableware-djongo-55b89aa7.md) |
 | dotnetcore/FreeSql | partial | 2026-07-31T17:52:16Z | [open](../records/databases-dotnetcore-freesql-be272c12.md) |
-| googleapis/mcp-toolbox | partial | 2026-09-03T07:04:26Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
+| googleapis/mcp-toolbox | partial | 2026-09-03T14:21:32Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
 | lionheart/django-pyodbc | partial | 2023-01-29T16:42:06Z | [open](../records/databases-lionheart-django-pyodbc-c6078181.md) |
 | neondatabase/neon | partial | 2026-08-31T11:03:14Z | [open](../records/databases-neondatabase-neon-3c375148.md) |
 | parse-community/parse-server | partial | 2026-09-03T00:13:59Z | [open](../records/databases-parse-community-parse-server-9d5b6dd7.md) |

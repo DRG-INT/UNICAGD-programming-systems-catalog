@@ -1,6 +1,6 @@
 # Framework
 
-Records: `52`
+Records: `53`
 
 ## Navigation
 
@@ -8,21 +8,21 @@ Records: `52`
 
 ## Category Index
 
-[Api Abi Checker (202)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (133)](async-runtime.md)
+[Api Abi Checker (203)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (44)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
 [Benchmarking (164)](benchmarking.md) · [Build System (885)](build-system.md) · [Cli (528)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (92)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (46)](compression.md)
 [Concurrency Parallelism (78)](concurrency-parallelism.md) · [Configuration (108)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (830)](database-datastore.md) · [Datetime (180)](datetime.md)
+[Cryptography (162)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (831)](database-datastore.md) · [Datetime (180)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (91)](dependency-manager.md) · [Documentation (96)](documentation.md)
-[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1343)](filesystem-os.md) · [Formatter (590)](formatter.md)
-**[Framework (52)](framework.md)** · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1289)](ide-editor-integration.md)
+[Embedded Hardware (54)](embedded-hardware.md) · [Ffi Bindings (402)](ffi-bindings.md) · [Filesystem Os (1343)](filesystem-os.md) · [Formatter (591)](formatter.md)
+**[Framework (53)](framework.md)** · [Fuzzer (53)](fuzzer.md) · [Game Engine Game Dev (168)](game-engine-game-dev.md) · [Ide Editor Integration (1289)](ide-editor-integration.md)
 [Image Audio Dsp (356)](image-audio-dsp.md) · [Interop Bindings (57)](interop-bindings.md) · [Interpreter Runtime (247)](interpreter-runtime.md) · [Jit Vm (59)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1273)](language-specification.md) · [Library (5146)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1273)](language-specification.md) · [Library (5154)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (477)](logging-observability.md) · [Machine Learning (636)](machine-learning.md)
 [Math Numeric Scientific (83)](math-numeric-scientific.md) · [Memory Analyzer (88)](memory-analyzer.md) · [Message Broker (36)](message-broker.md) · [Networking Http (957)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (409)](package-manager.md) · [Parser Lexer Ast (994)](parser-lexer-ast.md) · [Precommit Ci Quality (275)](precommit-ci-quality.md)
 [Profiler (79)](profiler.md) · [Project Scaffolding (128)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (332)](security-sast.md) · [Serialization (377)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (487)](static-analyzer.md)
+[Security Sast (332)](security-sast.md) · [Serialization (377)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (489)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (514)](testing-framework.md) · [Tutorial Book Styleguide (54)](tutorial-book-styleguide.md) · [Type Checker (297)](type-checker.md)
 [Undefined Behavior Analyzer (1487)](undefined-behavior-analyzer.md) · [Utility Library (93)](utility-library.md) · [Visualization Gui (452)](visualization-gui.md) · [Web Framework (447)](web-framework.md)
 
@@ -64,6 +64,7 @@ Records: `52`
 | --- | --- | --- | --- |
 | buzzMed | 0.1.4 | 2026-09-01 20:20:09 UTC | [open](../records/r-buzzmed-5aea475d.md) |
 | MedZIsc | 0.0.5 | 2026-08-28 09:50:43 UTC | [open](../records/r-medzisc-7f972898.md) |
+| RDesk | 1.0.7 | 2026-09-03 14:00:02 UTC | [open](../records/r-rdesk-fc889069.md) |
 | SynergyLMM | 1.1.4 | 2026-08-20 23:02:18 UTC | [open](../records/r-synergylmm-7498225b.md) |
 | TKApprox | 0.1.0 | 2026-08-07 20:00:02 UTC | [open](../records/r-tkapprox-a5646e86.md) |
 
@@ -150,9 +151,9 @@ Records: `52`
 | com.sap.cds:cds-framework-spring-boot | 3.10.1 | 2025-05-16T11:26:27+00:00 | [open](../records/sapjava-com-sap-cds-cds-framework-spring-boot-952d2c6f.md) |
 | com.sap.cloud.sdk.frameworks:frameworks-parent | 4.32.0 | 2024-06-11T10:16:49+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-frameworks-frameworks-parent-7c324073.md) |
 | com.sap.cloud.sdk.frameworks:resilience4j | 4.32.0 | 2024-06-11T10:16:50+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-frameworks-resilience4j-f17729ba.md) |
-| Parulg1706/EY_SAP_BTP_NODEJAVA_Nov2022 | unknown | not_a_maven_coordinate | [open](../records/sapjava-parulg1706-ey-sap-btp-nodejava-nov2022-85fc2dfb.md) |
-| SpecDriven/insurance-cap-java | unknown | not_a_maven_coordinate | [open](../records/sapjava-specdriven-insurance-cap-java-e528d121.md) |
-| toadslop/cap-helloworld | unknown | not_a_maven_coordinate | [open](../records/sapjava-toadslop-cap-helloworld-3770dc29.md) |
+| Parulg1706/EY_SAP_BTP_NODEJAVA_Nov2022 | partial | 2022-11-11T12:36:28Z | [open](../records/sapjava-parulg1706-ey-sap-btp-nodejava-nov2022-85fc2dfb.md) |
+| SpecDriven/insurance-cap-java | partial | 2026-07-27T21:01:07Z | [open](../records/sapjava-specdriven-insurance-cap-java-e528d121.md) |
+| toadslop/cap-helloworld | partial | 2021-05-27T10:38:35Z | [open](../records/sapjava-toadslop-cap-helloworld-3770dc29.md) |
 
 ## Swift
 
