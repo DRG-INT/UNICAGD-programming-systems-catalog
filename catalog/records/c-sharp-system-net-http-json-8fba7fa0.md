@@ -43,7 +43,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT; https://www.nuget.org/packages/System.Net.Http.Json/10.0.11/license |
+| Evidence | MIT + file LICENSE; MIT; https://www.nuget.org/packages/System.Net.Http.Json/10.0.11/license |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

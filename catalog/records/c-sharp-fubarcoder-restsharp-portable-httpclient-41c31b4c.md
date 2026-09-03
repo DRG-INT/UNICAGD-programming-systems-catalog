@@ -43,7 +43,7 @@ assessment.
 | Field | Value |
 | --- | --- |
 | Detected family | Other permissive |
-| Evidence | http://choosealicense.com/licenses/bsd-2-clause/ |
+| Evidence | Other; http://choosealicense.com/licenses/bsd-2-clause/ |
 | Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes

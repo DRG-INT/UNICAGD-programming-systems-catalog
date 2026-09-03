@@ -113,7 +113,7 @@ Records: `36`
 | [CarterBalow/avs-lab-work](../records/basilisk-carterbalow-avs-lab-work-c0f5c66b.md) | partial | 2026-09-02T17:52:11Z | registry-derived |
 | [DISCOWER/bsk-msgs](../records/basilisk-discower-bsk-msgs-80974f96.md) | partial | 2026-07-02T20:47:18Z | registry-derived |
 | [DISCOWER/bsk-ros2-bridge](../records/basilisk-discower-bsk-ros2-bridge-ff7c49fa.md) | partial | 2026-08-25T16:24:45Z | registry-derived |
-| [ephraim71/basilisk-rs](../records/basilisk-ephraim71-basilisk-rs-faa4890f.md) | partial | 2026-09-01T05:25:48Z | registry-derived |
+| [ephraim71/basilisk-rs](../records/basilisk-ephraim71-basilisk-rs-faa4890f.md) | partial | 2026-09-03T11:09:48Z | registry-derived |
 | [gornskew/chartroom](../records/basilisk-gornskew-chartroom-3e26f82c.md) | partial | 2026-08-27T11:12:04Z | registry-derived |
 | [vadhvaryu/basilisk-ursamajor](../records/basilisk-vadhvaryu-basilisk-ursamajor-b625dbdb.md) | partial | 2026-05-07T20:23:56Z | registry-derived |
 | [vadhvaryu/newspace-ursamajor-astrodynamics](../records/basilisk-vadhvaryu-newspace-ursamajor-astrodynamics-985dfc98.md) | partial | 2026-05-27T10:01:54Z | registry-derived |

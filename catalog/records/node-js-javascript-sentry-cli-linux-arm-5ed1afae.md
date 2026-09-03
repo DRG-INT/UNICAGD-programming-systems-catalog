@@ -40,7 +40,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | FSL-1.1-MIT |
+| Evidence | MIT |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

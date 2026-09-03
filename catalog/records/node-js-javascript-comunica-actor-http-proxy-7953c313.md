@@ -41,9 +41,9 @@ part of service communication, clients/servers, protocol handling, and edge inte
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Backup plan required |
+| Evidence | GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0 |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 

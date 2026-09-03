@@ -629,7 +629,7 @@ Records: `993`
 | CarterBalow/avs-lab-work | partial | 2026-09-02T17:52:11Z | [open](../records/basilisk-carterbalow-avs-lab-work-c0f5c66b.md) |
 | DISCOWER/bsk-msgs | partial | 2026-07-02T20:47:18Z | [open](../records/basilisk-discower-bsk-msgs-80974f96.md) |
 | DISCOWER/bsk-ros2-bridge | partial | 2026-08-25T16:24:45Z | [open](../records/basilisk-discower-bsk-ros2-bridge-ff7c49fa.md) |
-| ephraim71/basilisk-rs | partial | 2026-09-01T05:25:48Z | [open](../records/basilisk-ephraim71-basilisk-rs-faa4890f.md) |
+| ephraim71/basilisk-rs | partial | 2026-09-03T11:09:48Z | [open](../records/basilisk-ephraim71-basilisk-rs-faa4890f.md) |
 | gornskew/chartroom | partial | 2026-08-27T11:12:04Z | [open](../records/basilisk-gornskew-chartroom-3e26f82c.md) |
 | vadhvaryu/basilisk-ursamajor | partial | 2026-05-07T20:23:56Z | [open](../records/basilisk-vadhvaryu-basilisk-ursamajor-b625dbdb.md) |
 | vadhvaryu/newspace-ursamajor-astrodynamics | partial | 2026-05-27T10:01:54Z | [open](../records/basilisk-vadhvaryu-newspace-ursamajor-astrodynamics-985dfc98.md) |
@@ -639,7 +639,7 @@ Records: `993`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AstrBotDevs/AstrBot | partial | 2026-09-03T09:19:58Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
-| HKUDS/LightRAG | partial | 2026-09-02T16:52:03Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
+| HKUDS/LightRAG | partial | 2026-09-03T10:57:46Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
 | labring/FastGPT | partial | 2026-09-03T07:57:23Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Font Briefcase

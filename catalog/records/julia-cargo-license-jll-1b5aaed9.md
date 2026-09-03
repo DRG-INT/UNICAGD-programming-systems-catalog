@@ -40,7 +40,7 @@ acquisition, lockfile policy, provenance control, and supply-chain monitoring.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT + file LICENSE |
+| Evidence | MIT |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

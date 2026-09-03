@@ -40,7 +40,7 @@ as part of diagnostics, metrics, auditability, tracing, and incident response.
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | Creative Commons Attribution 4.0 International; https://api.github.com/licenses/cc-by-4.0 |
+| Evidence | {"key": "", "name": "", "url": ""}; Creative Commons Attribution 4.0 International; https://api.github.com/licenses/cc-by-4.0 |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes

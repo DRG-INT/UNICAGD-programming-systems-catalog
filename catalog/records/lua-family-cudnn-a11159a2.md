@@ -40,7 +40,7 @@ integration, ABI ownership, memory safety, and runtime embedding.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | Boost Software License 1.0; https://api.github.com/licenses/bsl-1.0 |
+| Evidence | GNU Lesser General Public License v3.0; https://api.github.com/licenses/lgpl-3.0 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

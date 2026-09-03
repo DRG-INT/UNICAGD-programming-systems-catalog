@@ -40,7 +40,7 @@ inventory as part of static feedback, style policy, defect prevention, and local
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | unknown |
+| Evidence | Other |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes

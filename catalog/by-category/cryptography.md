@@ -216,7 +216,7 @@ Records: `162`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ente/ente | partial | 2026-09-03T10:18:33Z | [open](../records/go-ente-ente-f02441bb.md) |
+| ente/ente | partial | 2026-09-03T11:16:14Z | [open](../records/go-ente-ente-f02441bb.md) |
 
 ## Transmission Protocols
 

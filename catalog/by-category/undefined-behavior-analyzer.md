@@ -1135,7 +1135,7 @@ Records: `1480`
 | github.laiyagushi.com/nemith/dothome | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-laiyagushi-com-nemith-dothome-32cd483a.md) |
 | github.laiyagushi.com/valkey-io/valkey-go | v1.0.56 | 2026-08-30T15:31:38.453275Z | [open](../records/go-github-laiyagushi-com-valkey-io-valkey-go-b2864d71.md) |
 | jfrog/gocenter | partial | 2021-05-14T11:38:26Z | [open](../records/go-jfrog-gocenter-404e69f1.md) |
-| labring/sealos | partial | 2026-09-03T10:04:38Z | [open](../records/go-labring-sealos-594e5269.md) |
+| labring/sealos | partial | 2026-09-03T10:50:26Z | [open](../records/go-labring-sealos-594e5269.md) |
 | uber-go/guide | partial | 2026-04-15T15:10:48Z | [open](../records/go-uber-go-guide-c330b782.md) |
 | uber-go/zap | partial | 2026-08-31T18:59:30Z | [open](../records/go-uber-go-zap-07ea12d8.md) |
 | unpoller/unifi | partial | 2026-09-01T12:00:24Z | [open](../records/go-unpoller-unifi-0809cf4a.md) |
@@ -1686,7 +1686,7 @@ Records: `1480`
 | Gitea: quxiaorui/action-send-mail | partial | 2024-02-26T12:43:08Z | [open](../records/repository-workplaces-gitea-quxiaorui-action-send-mail-a8703907.md) |
 | Gitea: ryan-winkler/ryanwinkler | partial | 2026-08-21T10:30:44Z | [open](../records/repository-workplaces-gitea-ryan-winkler-ryanwinkler-c5f906a1.md) |
 | Gitea: we8tguivdbsd/21eyay8qeyciubaya | partial | 2026-06-20T21:36:03Z | [open](../records/repository-workplaces-gitea-we8tguivdbsd-21eyay8qeyciubaya-47fe49cc.md) |
-| Gitea: zaccesss/.profile | partial | 2026-09-02T22:03:13Z | [open](../records/repository-workplaces-gitea-zaccesss-profile-898ffe18.md) |
+| Gitea: zaccesss/.profile | partial | 2026-09-03T10:02:44Z | [open](../records/repository-workplaces-gitea-zaccesss-profile-898ffe18.md) |
 | gitlab-com/gl-infra/k8s-workloads/gitlab-com | partial | 2026-09-03T09:55:16.595Z | [open](../records/repository-workplaces-gitlab-com-gl-infra-k8s-workloads-gitlab-com-13cc554b.md) |
 | gitlab-data/data-image | partial | 2026-08-21T11:24:30.282Z | [open](../records/repository-workplaces-gitlab-data-data-image-0af0c35c.md) |
 | gitlab-examples/kubernetes-deploy | partial | 2026-01-07T14:56:28.754Z | [open](../records/repository-workplaces-gitlab-examples-kubernetes-deploy-9a43e04a.md) |

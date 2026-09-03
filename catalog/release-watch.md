@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-03T10:24:33+00:00`
+Generated: `2026-09-03T11:19:20+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 

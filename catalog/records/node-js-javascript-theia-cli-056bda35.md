@@ -41,9 +41,9 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0 |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | MIT |
+| Evidence | MIT |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 
