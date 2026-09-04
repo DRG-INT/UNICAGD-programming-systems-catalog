@@ -1,6 +1,6 @@
 # Web Framework
 
-Records: `473`
+Records: `474`
 
 ## Navigation
 
@@ -14,17 +14,17 @@ Records: `473`
 [Concurrency Parallelism (88)](concurrency-parallelism.md) · [Configuration (125)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (172)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (885)](database-datastore.md) · [Datetime (213)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1537)](filesystem-os.md) · [Formatter (634)](formatter.md)
-[Framework (61)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (353)](game-engine-game-dev.md) · [Ide Editor Integration (1415)](ide-editor-integration.md)
-[Image Audio Dsp (419)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
-[Language Server (28)](language-server.md) · [Language Specification (1421)](language-specification.md) · [Library (5477)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (740)](machine-learning.md)
-[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1016)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (435)](package-manager.md) · [Parser Lexer Ast (1072)](parser-lexer-ast.md) · [Precommit Ci Quality (294)](precommit-ci-quality.md)
+[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1538)](filesystem-os.md) · [Formatter (635)](formatter.md)
+[Framework (61)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1416)](ide-editor-integration.md)
+[Image Audio Dsp (421)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
+[Language Server (28)](language-server.md) · [Language Specification (1421)](language-specification.md) · [Library (5483)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (742)](machine-learning.md)
+[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1018)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (436)](package-manager.md) · [Parser Lexer Ast (1072)](parser-lexer-ast.md) · [Precommit Ci Quality (295)](precommit-ci-quality.md)
 [Profiler (86)](profiler.md) · [Project Scaffolding (132)](project-scaffolding.md) · [Registry Repository (132)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (391)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (526)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (391)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (528)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (599)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (311)](type-checker.md)
-[Undefined Behavior Analyzer (1574)](undefined-behavior-analyzer.md) · [Utility Library (102)](utility-library.md) · [Visualization Gui (513)](visualization-gui.md) · **[Web Framework (473)](web-framework.md)**
+[Undefined Behavior Analyzer (1574)](undefined-behavior-analyzer.md) · [Utility Library (102)](utility-library.md) · [Visualization Gui (513)](visualization-gui.md) · **[Web Framework (474)](web-framework.md)**
 
 ## C++23
 
@@ -195,6 +195,7 @@ Records: `473`
 | @mcp-ui/server | 6.1.0 | 2026-02-13T00:56:47.232Z | [open](../records/node-js-javascript-mcp-ui-server-db83317b.md) |
 | @modelcontextprotocol/server-everything | 2026.8.31 | 2026-08-31T20:23:50.168Z | [open](../records/node-js-javascript-modelcontextprotocol-server-everything-a9060e35.md) |
 | @modelcontextprotocol/server-filesystem | 2026.8.31 | 2026-08-31T20:25:55.419Z | [open](../records/node-js-javascript-modelcontextprotocol-server-filesystem-530b337e.md) |
+| @modelcontextprotocol/server-pdf | 1.7.5 | 2026-07-23T11:30:02.373Z | [open](../records/node-js-javascript-modelcontextprotocol-server-pdf-e95a476c.md) |
 | @modelcontextprotocol/server-sequential-thinking | 2026.8.31 | 2026-08-31T20:23:44.857Z | [open](../records/node-js-javascript-modelcontextprotocol-server-sequential-thinking-6547ae3f.md) |
 | @mondaydotcomorg/atp-server | 0.26.0 | 2026-08-10T13:52:38.287Z | [open](../records/node-js-javascript-mondaydotcomorg-atp-server-97bd284f.md) |
 | @netlify/local-functions-proxy | 2.0.3 | 2025-04-04T16:54:11.784Z | [open](../records/node-js-javascript-netlify-local-functions-proxy-60ef06f4.md) |
@@ -218,7 +219,7 @@ Records: `473`
 | @react-router/serve | 8.3.1 | 2026-08-28T14:44:47.025Z | [open](../records/node-js-javascript-react-router-serve-fcd29568.md) |
 | @rebasepro/server | 0.17.3 | 2026-08-31T13:20:11.463Z | [open](../records/node-js-javascript-rebasepro-server-25d1c74a.md) |
 | @remotion/studio-server | 4.0.520 | 2026-09-01T10:13:57.721Z | [open](../records/node-js-javascript-remotion-studio-server-ed620dc3.md) |
-| @restatedev/restate-server | 1.7.8 | 2026-08-27T22:48:56.048Z | [open](../records/node-js-javascript-restatedev-restate-server-4072d5bd.md) |
+| @restatedev/restate-server | 1.7.9 | 2026-09-04T21:08:28.114Z | [open](../records/node-js-javascript-restatedev-restate-server-4072d5bd.md) |
 | @rspack/dev-server | 2.2.1 | 2026-08-22T05:54:21.220Z | [open](../records/node-js-javascript-rspack-dev-server-8f7edde9.md) |
 | @sap-ux/fiori-mcp-server | 1.12.2 | 2026-09-03T10:58:30.454Z | [open](../records/node-js-javascript-sap-ux-fiori-mcp-server-8a2a94b2.md) |
 | @sentry-internal/server-utils | 10.57.0 | 2026-06-09T09:44:28.459Z | [open](../records/node-js-javascript-sentry-internal-server-utils-a01f24ba.md) |

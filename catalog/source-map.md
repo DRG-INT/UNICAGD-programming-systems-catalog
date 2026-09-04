@@ -10,17 +10,17 @@
 [Concurrency Parallelism (88)](by-category/concurrency-parallelism.md) · [Configuration (125)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (172)](by-category/cryptography.md) · [Data Science (37)](by-category/data-science.md) · [Database Datastore (885)](by-category/database-datastore.md) · [Datetime (213)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (101)](by-category/dependency-manager.md) · [Documentation (103)](by-category/documentation.md)
-[Embedded Hardware (56)](by-category/embedded-hardware.md) · [Ffi Bindings (446)](by-category/ffi-bindings.md) · [Filesystem Os (1537)](by-category/filesystem-os.md) · [Formatter (634)](by-category/formatter.md)
-[Framework (61)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (353)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1415)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (419)](by-category/image-audio-dsp.md) · [Interop Bindings (61)](by-category/interop-bindings.md) · [Interpreter Runtime (265)](by-category/interpreter-runtime.md) · [Jit Vm (62)](by-category/jit-vm.md)
-[Language Server (28)](by-category/language-server.md) · [Language Specification (1421)](by-category/language-specification.md) · [Library (5477)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (515)](by-category/logging-observability.md) · [Machine Learning (740)](by-category/machine-learning.md)
-[Math Numeric Scientific (87)](by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1016)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (435)](by-category/package-manager.md) · [Parser Lexer Ast (1072)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (294)](by-category/precommit-ci-quality.md)
+[Embedded Hardware (56)](by-category/embedded-hardware.md) · [Ffi Bindings (446)](by-category/ffi-bindings.md) · [Filesystem Os (1538)](by-category/filesystem-os.md) · [Formatter (635)](by-category/formatter.md)
+[Framework (61)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (354)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1416)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (421)](by-category/image-audio-dsp.md) · [Interop Bindings (61)](by-category/interop-bindings.md) · [Interpreter Runtime (265)](by-category/interpreter-runtime.md) · [Jit Vm (62)](by-category/jit-vm.md)
+[Language Server (28)](by-category/language-server.md) · [Language Specification (1421)](by-category/language-specification.md) · [Library (5483)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (515)](by-category/logging-observability.md) · [Machine Learning (742)](by-category/machine-learning.md)
+[Math Numeric Scientific (87)](by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1018)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (436)](by-category/package-manager.md) · [Parser Lexer Ast (1072)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (295)](by-category/precommit-ci-quality.md)
 [Profiler (86)](by-category/profiler.md) · [Project Scaffolding (132)](by-category/project-scaffolding.md) · [Registry Repository (132)](by-category/registry-repository.md) · [Sanitizer (13)](by-category/sanitizer.md)
-[Security Sast (336)](by-category/security-sast.md) · [Serialization (391)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (526)](by-category/static-analyzer.md)
+[Security Sast (336)](by-category/security-sast.md) · [Serialization (391)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (528)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (599)](by-category/testing-framework.md) · [Tutorial Book Styleguide (62)](by-category/tutorial-book-styleguide.md) · [Type Checker (311)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1574)](by-category/undefined-behavior-analyzer.md) · [Utility Library (102)](by-category/utility-library.md) · [Visualization Gui (513)](by-category/visualization-gui.md) · [Web Framework (473)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1574)](by-category/undefined-behavior-analyzer.md) · [Utility Library (102)](by-category/utility-library.md) · [Visualization Gui (513)](by-category/visualization-gui.md) · [Web Framework (474)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -858,6 +858,7 @@
 | `cran_packages_by_date-078d615dc6e61c` | ipwCoxCSV | [open](records/r-ipwcoxcsv-b16370f8.md) |
 | `cran_packages_by_date-079fbfc09552bb` | scTenifoldKnk | [open](records/r-sctenifoldknk-b575fffe.md) |
 | `cran_packages_by_date-07a30626f97a52` | BsplineQuantRegGui | [open](records/r-bsplinequantreggui-a0017840.md) |
+| `cran_packages_by_date-07bb1e2ccec669` | bGMYC4 | [open](records/r-bgmyc4-6f8e15c3.md) |
 | `cran_packages_by_date-07cc04b7791881` | TKApprox | [open](records/r-tkapprox-a5646e86.md) |
 | `cran_packages_by_date-07d12d4d957b3e` | metaselection | [open](records/r-metaselection-253eae2d.md) |
 | `cran_packages_by_date-07e14944c131e3` | RProtoBuf | [open](records/r-rprotobuf-4170b44d.md) |
@@ -1760,6 +1761,7 @@
 | `cran_packages_by_date-9100e362782608` | calba | [open](records/r-calba-e617a526.md) |
 | `cran_packages_by_date-9122186c811769` | randomizr | [open](records/r-randomizr-afc0b4b1.md) |
 | `cran_packages_by_date-91405321d50afe` | nolaOpenData | [open](records/r-nolaopendata-9b16d950.md) |
+| `cran_packages_by_date-918c643293a334` | plotomics | [open](records/r-plotomics-2f5eaeba.md) |
 | `cran_packages_by_date-919fdd38dd5e2b` | bruno | [open](records/r-bruno-1aca8836.md) |
 | `cran_packages_by_date-91c31597e54e55` | tikatuwq | [open](records/r-tikatuwq-3449ba3d.md) |
 | `cran_packages_by_date-91d723ce14eb2e` | biopalette | [open](records/r-biopalette-b123d8b5.md) |
@@ -1861,6 +1863,7 @@
 | `cran_packages_by_date-a1f8b6996bf6cb` | omophub | [open](records/r-omophub-417d37f4.md) |
 | `cran_packages_by_date-a230ad86d39885` | FCPS | [open](records/r-fcps-c615a4eb.md) |
 | `cran_packages_by_date-a25feb70c67f58` | mochita | [open](records/r-mochita-83e85dee.md) |
+| `cran_packages_by_date-a26480dc241962` | choicer | [open](records/r-choicer-c393b6ba.md) |
 | `cran_packages_by_date-a28d6ace0f9eb1` | dodgr | [open](records/r-dodgr-6efced31.md) |
 | `cran_packages_by_date-a291446f3101c4` | wishartinference | [open](records/r-wishartinference-e7a4ff96.md) |
 | `cran_packages_by_date-a299f398b39bb6` | BMIselect | [open](records/r-bmiselect-3ff86aa1.md) |
@@ -1968,6 +1971,7 @@
 | `cran_packages_by_date-b4327fa4010150` | jointNmix | [open](records/r-jointnmix-5a8caaea.md) |
 | `cran_packages_by_date-b45cd9cd4bb246` | NBvarsel | [open](records/r-nbvarsel-300d1068.md) |
 | `cran_packages_by_date-b474b275da1efc` | densemlp | [open](records/r-densemlp-e5e46ec2.md) |
+| `cran_packages_by_date-b47cc66fc1c834` | tesseract | [open](records/r-tesseract-f9b18384.md) |
 | `cran_packages_by_date-b4a5d270f4fd98` | texreg | [open](records/r-texreg-b70d82ed.md) |
 | `cran_packages_by_date-b4ca765cd984fe` | Directional | [open](records/r-directional-45bf5156.md) |
 | `cran_packages_by_date-b4d521975460ce` | SporeLag | [open](records/r-sporelag-74c50e27.md) |
@@ -2033,6 +2037,7 @@
 | `cran_packages_by_date-c1aa3d1c9cb712` | nysOpenData | [open](records/r-nysopendata-2ba9227b.md) |
 | `cran_packages_by_date-c1bebddb235156` | BayesQRCount | [open](records/r-bayesqrcount-49447662.md) |
 | `cran_packages_by_date-c1dba902e23e2c` | gghotelling | [open](records/r-gghotelling-e5ce48cb.md) |
+| `cran_packages_by_date-c2802a93b234eb` | plugdensity | [open](records/r-plugdensity-29c7111f.md) |
 | `cran_packages_by_date-c2a3f4760d2d12` | nlmixr2est | [open](records/r-nlmixr2est-a96ac8cf.md) |
 | `cran_packages_by_date-c30ccd5ed40f9b` | gpcihybridII | [open](records/r-gpcihybridii-f090a1cb.md) |
 | `cran_packages_by_date-c33b8bedfe64c6` | countrycode | [open](records/r-countrycode-f298763e.md) |
@@ -11137,10 +11142,12 @@
 | `github_search_microscopy-17a38af6481c01` | rwb27/openflexure_microscope | [open](records/microscopy-rwb27-openflexure-microscope-9f4f36b7.md) |
 | `github_search_microscopy-197f3ca5329531` | MWod/ANHIR_MW | [open](records/microscopy-mwod-anhir-mw-8e055d83.md) |
 | `github_search_microscopy-1a1fe39682437f` | tlambert03/nd2 | [open](records/microscopy-tlambert03-nd2-bc5f1f25.md) |
+| `github_search_microscopy-1b806bf7a2d7c2` | Omid-Nejati/BEFUnet | [open](records/microscopy-omid-nejati-befunet-d9014125.md) |
 | `github_search_microscopy-1b9353959f49aa` | peterhpark/neuroclear | [open](records/microscopy-peterhpark-neuroclear-7179bfb8.md) |
 | `github_search_microscopy-20003567609a8e` | AllenCellModeling/napari-aicsimageio | [open](records/microscopy-allencellmodeling-napari-aicsimageio-1992ec67.md) |
 | `github_search_microscopy-2223aa7363880a` | ij-plugins/ijp-color | [open](records/microscopy-ij-plugins-ijp-color-94c66ebb.md) |
 | `github_search_microscopy-24c959510570ae` | nf-core/spatialvi | [open](records/microscopy-nf-core-spatialvi-764d8d93.md) |
+| `github_search_microscopy-2a15c029c8b343` | iitmcvg/Cell-Segmentation | [open](records/microscopy-iitmcvg-cell-segmentation-92bb0699.md) |
 | `github_search_microscopy-2a41959bf1c4ea` | yaoguangluo/ETL_Unicorn | [open](records/microscopy-yaoguangluo-etl-unicorn-e0a016db.md) |
 | `github_search_microscopy-2d673d692d676d` | pycroscopy/atomai | [open](records/microscopy-pycroscopy-atomai-0ba7ef19.md) |
 | `github_search_microscopy-2f3b2d210ce8dc` | saeyslab/harpy | [open](records/microscopy-saeyslab-harpy-13fb4e50.md) |
@@ -11154,6 +11161,7 @@
 | `github_search_microscopy-39102de400ba78` | aangelopoulos/im2im-uq | [open](records/microscopy-aangelopoulos-im2im-uq-cd6dde2d.md) |
 | `github_search_microscopy-3bbf2a13ad85c5` | TissueImageAnalytics/tiatoolbox | [open](records/microscopy-tissueimageanalytics-tiatoolbox-a18863d3.md) |
 | `github_search_microscopy-3d6daf29caf7e2` | imagej/napari-imagej | [open](records/microscopy-imagej-napari-imagej-b450d378.md) |
+| `github_search_microscopy-404dbaa22ac14b` | AntonotnaWang/3DCellSeg | [open](records/microscopy-antonotnawang-3dcellseg-f26edf96.md) |
 | `github_search_microscopy-4119b78b326d2d` | rapidsai/cucim | [open](records/microscopy-rapidsai-cucim-6fd9f972.md) |
 | `github_search_microscopy-419849d513cbf3` | cgohlke/tifffile | [open](records/microscopy-cgohlke-tifffile-e4f65d37.md) |
 | `github_search_microscopy-429309bd197651` | oist/Usiigaci | [open](records/microscopy-oist-usiigaci-11b7370f.md) |
@@ -11163,8 +11171,10 @@
 | `github_search_microscopy-45eea2facdb97f` | knime-ip/knip | [open](records/microscopy-knime-ip-knip-e725872c.md) |
 | `github_search_microscopy-47c1f6cf2fb378` | clEsperanto/pyclesperanto_prototype | [open](records/microscopy-clesperanto-pyclesperanto-prototype-3fd5a628.md) |
 | `github_search_microscopy-493d758efd857a` | imagingbook/imagingbook-public | [open](records/microscopy-imagingbook-imagingbook-public-35b63f87.md) |
+| `github_search_microscopy-4d01fde52dafbf` | marshuang80/cell-segmentation | [open](records/microscopy-marshuang80-cell-segmentation-24b48997.md) |
 | `github_search_microscopy-4d6ad0a0074aea` | ome/ngff | [open](records/microscopy-ome-ngff-b50a243c.md) |
 | `github_search_microscopy-5015681a52d108` | lachlanchen/OpenHI | [open](records/microscopy-lachlanchen-openhi-6563c12a.md) |
+| `github_search_microscopy-504a55604993ea` | SAIL-GuoLab/Cell_Segmentation_and_Tracking | [open](records/microscopy-sail-guolab-cell-segmentation-and-tracking-d3125f1e.md) |
 | `github_search_microscopy-50649abab1afa2` | ThFriedrich/riCOM_cpp | [open](records/microscopy-thfriedrich-ricom-cpp-2338225f.md) |
 | `github_search_microscopy-55930fc1516dd3` | axondeepseg/axondeepseg | [open](records/microscopy-axondeepseg-axondeepseg-0c2875c8.md) |
 | `github_search_microscopy-55add0866ac3b8` | CSET-Toolbox/CSET | [open](records/microscopy-cset-toolbox-cset-197b64ee.md) |
@@ -11200,6 +11210,7 @@
 | `github_search_microscopy-7325a0a9726201` | pavikonda/RaspberryPi_FPScope | [open](records/microscopy-pavikonda-raspberrypi-fpscope-b49fb783.md) |
 | `github_search_microscopy-74b611bd699128` | google-research/sofima | [open](records/microscopy-google-research-sofima-72568ecb.md) |
 | `github_search_microscopy-7507039b165f99` | royerlab/cytoself | [open](records/microscopy-royerlab-cytoself-b2dff824.md) |
+| `github_search_microscopy-774e56a6f56a2a` | stardist/stardist-napari | [open](records/microscopy-stardist-stardist-napari-cf638dd5.md) |
 | `github_search_microscopy-791a4ff7b9acc0` | bioio-devs/bioio | [open](records/microscopy-bioio-devs-bioio-ca180c94.md) |
 | `github_search_microscopy-798cc882c19a4d` | SlavkoPrytula/IAUNet | [open](records/microscopy-slavkoprytula-iaunet-f79bfe2c.md) |
 | `github_search_microscopy-7bdf601e9c4a5f` | nadeemlab/DeepLIIF | [open](records/microscopy-nadeemlab-deepliif-f336f8fd.md) |
@@ -11220,6 +11231,7 @@
 | `github_search_microscopy-8e2baa12b85855` | tlambert03/LLSpy | [open](records/microscopy-tlambert03-llspy-f7dd5626.md) |
 | `github_search_microscopy-8feb882ebee95d` | brainglobe/cellfinder | [open](records/microscopy-brainglobe-cellfinder-159009dc.md) |
 | `github_search_microscopy-901a39a77f8a5c` | lemonspurple/DIY-Scanning-Tunneling-Microscope | [open](records/microscopy-lemonspurple-diy-scanning-tunneling-microscope-5995151b.md) |
+| `github_search_microscopy-90f65b1e8333f6` | okunator/cellseg_models.pytorch | [open](records/microscopy-okunator-cellseg-models-pytorch-11f6ec48.md) |
 | `github_search_microscopy-9180679c2b93ce` | zeiss-microscopy/OAD | [open](records/microscopy-zeiss-microscopy-oad-882477e7.md) |
 | `github_search_microscopy-91c401c426c090` | UU-cellbiology/ZstackDepthColorCode | [open](records/microscopy-uu-cellbiology-zstackdepthcolorcode-2dae5fc0.md) |
 | `github_search_microscopy-94796e57300e26` | computational-imaging/ThreeDeconv.jl | [open](records/microscopy-computational-imaging-threedeconv-jl-df595b65.md) |
@@ -11231,18 +11243,23 @@
 | `github_search_microscopy-9dfa5411f41088` | mbalatsko/opencv-rolling-ball | [open](records/microscopy-mbalatsko-opencv-rolling-ball-64eeb75a.md) |
 | `github_search_microscopy-9e2a74bd5bebce` | emx77/ASI_MTF | [open](records/microscopy-emx77-asi-mtf-b19ffd0e.md) |
 | `github_search_microscopy-9f369eab72d5b2` | jungmannlab/picasso | [open](records/microscopy-jungmannlab-picasso-7d2c2a00.md) |
+| `github_search_microscopy-a1b2ad23e35ee0` | nadeemlab/ImPartial | [open](records/microscopy-nadeemlab-impartial-aa358bdb.md) |
 | `github_search_microscopy-a1e7ec701175dc` | SPerrott22/Deepcell-to-QuPath | [open](records/microscopy-sperrott22-deepcell-to-qupath-1da4c7e2.md) |
 | `github_search_microscopy-a3978c029e41f6` | TheDeanLab/navigate | [open](records/microscopy-thedeanlab-navigate-dc14fa5a.md) |
+| `github_search_microscopy-a3a35aee964c07` | wanglab-broad/ClusterMap | [open](records/microscopy-wanglab-broad-clustermap-29c052dc.md) |
+| `github_search_microscopy-a60a6420488da5` | NIGMS/Biomedical-Imaging-Analysis-using-AI-ML-Approaches | [open](records/microscopy-nigms-biomedical-imaging-analysis-using-ai-ml-approaches-8ffdae01.md) |
 | `github_search_microscopy-a653a83d50d3d8` | koendv/xy-stage | [open](records/microscopy-koendv-xy-stage-a5a60592.md) |
 | `github_search_microscopy-a6632fd6b4cf9f` | imagingbook/imagingbook-calibrate | [open](records/microscopy-imagingbook-imagingbook-calibrate-a41e2017.md) |
 | `github_search_microscopy-a838d877f4ce01` | Euro-BioImaging/BatchConvert | [open](records/microscopy-euro-bioimaging-batchconvert-38646f25.md) |
 | `github_search_microscopy-a85f4155a266e7` | computational-cell-analytics/micro-sam | [open](records/microscopy-computational-cell-analytics-micro-sam-82fdbfce.md) |
+| `github_search_microscopy-ae9f462c05214c` | DanuserLab/u-segment3D | [open](records/microscopy-danuserlab-u-segment3d-458f504b.md) |
 | `github_search_microscopy-b11590d7480849` | gtatters/ThermImageJ | [open](records/microscopy-gtatters-thermimagej-e96d3524.md) |
 | `github_search_microscopy-b1a74003284e71` | BMIRDS/deepslide | [open](records/microscopy-bmirds-deepslide-3e23ec62.md) |
 | `github_search_microscopy-b27e6713823966` | PytorchConnectomics/pytorch_connectomics | [open](records/microscopy-pytorchconnectomics-pytorch-connectomics-6aa6d39f.md) |
 | `github_search_microscopy-b2f16558e7bc65` | royerlab/ultrack | [open](records/microscopy-royerlab-ultrack-fa4cffd9.md) |
 | `github_search_microscopy-b324d541745921` | hahnec/rf-ulm | [open](records/microscopy-hahnec-rf-ulm-3db20243.md) |
 | `github_search_microscopy-b3b7c1ffeb92e8` | Biomedical-Imaging-Group/DeconvolutionLab2 | [open](records/microscopy-biomedical-imaging-group-deconvolutionlab2-5bd46987.md) |
+| `github_search_microscopy-b3e0bb3a3c3642` | MercaderLabAnatomy/napari-tmidas | [open](records/microscopy-mercaderlabanatomy-napari-tmidas-297da357.md) |
 | `github_search_microscopy-b491b44b91044e` | SchornacklabSLCU/amfinder | [open](records/microscopy-schornacklabslcu-amfinder-916fd24a.md) |
 | `github_search_microscopy-b65d260eb79e6f` | aafkegros/MicroscopyNodes | [open](records/microscopy-aafkegros-microscopynodes-00c8daaf.md) |
 | `github_search_microscopy-b7e4187d38e519` | amirhossein-kz/HiFormer | [open](records/microscopy-amirhossein-kz-hiformer-7958e1b3.md) |
@@ -11260,6 +11277,7 @@
 | `github_search_microscopy-cc699a286d3479` | python-microscope/microscope | [open](records/microscopy-python-microscope-microscope-be3dce48.md) |
 | `github_search_microscopy-cd020a6d6703be` | ImSwitch/ImSwitch | [open](records/microscopy-imswitch-imswitch-c78f5160.md) |
 | `github_search_microscopy-cd058b8c1cc872` | MWod/DeepHistReg | [open](records/microscopy-mwod-deephistreg-fe9489ee.md) |
+| `github_search_microscopy-d4ae40afd66bcb` | Mantalys/kartezio | [open](records/microscopy-mantalys-kartezio-45b3ec41.md) |
 | `github_search_microscopy-d630d3c4731aec` | Gurdon-Super-Res-Lab/Microscope-Control | [open](records/microscopy-gurdon-super-res-lab-microscope-control-fd0301f5.md) |
 | `github_search_microscopy-db7065f96966b3` | jherkenhoff/STM | [open](records/microscopy-jherkenhoff-stm-3928a3ac.md) |
 | `github_search_microscopy-dddf3c661154ce` | MatthewFilipovich/torchoptics | [open](records/microscopy-matthewfilipovich-torchoptics-d30776e7.md) |
@@ -11288,6 +11306,7 @@
 | `github_search_microscopy-f7dc68eb6fb3db` | bruvellu/color-blind-luts | [open](records/microscopy-bruvellu-color-blind-luts-f9d56aab.md) |
 | `github_search_microscopy-f8183831678f21` | MicroscPSF/MicroscPSF-Matlab | [open](records/microscopy-microscpsf-microscpsf-matlab-1b6bef75.md) |
 | `github_search_microscopy-f84eaa3ace5663` | zeiss-microscopy/libCZI | [open](records/microscopy-zeiss-microscopy-libczi-168f37f0.md) |
+| `github_search_microscopy-fc8b766ece846b` | kdha0727/cancer-instance-segmentation-from-tissue | [open](records/microscopy-kdha0727-cancer-instance-segmentation-from-tissue-932ff299.md) |
 | `github_search_microscopy-fc9c5757b97d68` | delmic/odemis | [open](records/microscopy-delmic-odemis-64e6d3c9.md) |
 | `github_search_microscopy-fe549e2d0bb62a` | katrinleinweber/PhD-thesis | [open](records/microscopy-katrinleinweber-phd-thesis-59a4075b.md) |
 | `github_search_microscopy-feb97c4105ad61` | cytomining/pycytominer | [open](records/microscopy-cytomining-pycytominer-f61cb1dc.md) |
@@ -16062,6 +16081,7 @@
 | `hackage_recent-7743035e5050d7` | explainable-predicates | [open](records/haskell-explainable-predicates-6549649b.md) |
 | `hackage_recent-78b98a2a69768f` | ghcide | [open](records/haskell-ghcide-c9d6b87b.md) |
 | `hackage_recent-792e7e5061c2b3` | exchangealgebra | [open](records/haskell-exchangealgebra-c5300b87.md) |
+| `hackage_recent-7b9b3700445a16` | kb-text-layout | [open](records/haskell-kb-text-layout-134bb424.md) |
 | `hackage_recent-7e6eeb91445d92` | aihc-parser | [open](records/haskell-aihc-parser-d88ae54b.md) |
 | `hackage_recent-84dc0b41ed9f0f` | haskell-language-server | [open](records/haskell-haskell-language-server-f76a78a4.md) |
 | `hackage_recent-85b70f81457859` | tricorder-mcp | [open](records/haskell-tricorder-mcp-95664038.md) |
@@ -16077,6 +16097,7 @@
 | `hackage_recent-b96d721832028c` | bugsnag-types | [open](records/haskell-bugsnag-types-dca970ca.md) |
 | `hackage_recent-bb70de6d67b11f` | clash-shockwaves | [open](records/haskell-clash-shockwaves-0ff8e02b.md) |
 | `hackage_recent-c27fe6ee52d5b4` | kioku-cli | [open](records/haskell-kioku-cli-1c907a92.md) |
+| `hackage_recent-c6a78aab59f2d5` | hopenpgp-tools | [open](records/haskell-hopenpgp-tools-39a59dde.md) |
 | `hackage_recent-c9f3000d2a5b8e` | hls-test-utils | [open](records/haskell-hls-test-utils-92298e45.md) |
 | `hackage_recent-ca98f93b8d10d9` | taffybar | [open](records/haskell-taffybar-a815d4bc.md) |
 | `hackage_recent-caaad4e7e9d8e0` | servant-ede | [open](records/haskell-servant-ede-265a6dc2.md) |
@@ -17104,7 +17125,6 @@
 | `hackage_top_downloads-c68d119370a175` | language-ats | [open](records/haskell-language-ats-602673bb.md) |
 | `hackage_top_downloads-c68d2c51752e7c` | tracing | [open](records/haskell-tracing-ffb111c3.md) |
 | `hackage_top_downloads-c6a433e54ac734` | template-haskell | [open](records/haskell-template-haskell-105ba04a.md) |
-| `hackage_top_downloads-c6a78aab59f2d5` | hopenpgp-tools | [open](records/haskell-hopenpgp-tools-39a59dde.md) |
 | `hackage_top_downloads-c6a99f25db336e` | citeproc | [open](records/haskell-citeproc-d0edae83.md) |
 | `hackage_top_downloads-c6bf3f32570634` | jacinda | [open](records/haskell-jacinda-77fe1382.md) |
 | `hackage_top_downloads-c6da77e4d5c2f2` | dhall | [open](records/haskell-dhall-1d6993a7.md) |
@@ -23510,6 +23530,7 @@
 | `npm_registry-9dbcb4d6cdb1c0` | eslint-plugin-prettier-internal-rules | [open](records/node-js-javascript-eslint-plugin-prettier-internal-rules-7d4b2acf.md) |
 | `npm_registry-9dd0e848065d03` | mutation-testing-report-schema | [open](records/node-js-javascript-mutation-testing-report-schema-1335602b.md) |
 | `npm_registry-9de26eb99024be` | redis-server | [open](records/node-js-javascript-redis-server-7727dbce.md) |
+| `npm_registry-9de9b2f232452f` | @modelcontextprotocol/server-pdf | [open](records/node-js-javascript-modelcontextprotocol-server-pdf-e95a476c.md) |
 | `npm_registry-9df5c8643a614c` | @cubejs-backend/mysql-driver | [open](records/node-js-javascript-cubejs-backend-mysql-driver-bf05660d.md) |
 | `npm_registry-9e13ae552ea890` | @swc/cli | [open](records/node-js-javascript-swc-cli-77c18ec0.md) |
 | `npm_registry-9e3ad51b1b3660` | @smthrs/testing | [open](records/node-js-javascript-smthrs-testing-35159f03.md) |

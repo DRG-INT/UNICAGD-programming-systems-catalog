@@ -1,6 +1,6 @@
 # Microscopy
 
-Records: `180`
+Records: `194`
 
 ## Navigation
 
@@ -14,17 +14,17 @@ Records: `180`
 [Concurrency Parallelism (88)](../by-category/concurrency-parallelism.md) · [Configuration (125)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (172)](../by-category/cryptography.md) · [Data Science (37)](../by-category/data-science.md) · [Database Datastore (885)](../by-category/database-datastore.md) · [Datetime (213)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (101)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
-[Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (446)](../by-category/ffi-bindings.md) · [Filesystem Os (1537)](../by-category/filesystem-os.md) · [Formatter (634)](../by-category/formatter.md)
-[Framework (61)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (353)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1415)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (419)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (265)](../by-category/interpreter-runtime.md) · [Jit Vm (62)](../by-category/jit-vm.md)
-[Language Server (28)](../by-category/language-server.md) · [Language Specification (1421)](../by-category/language-specification.md) · [Library (5477)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (515)](../by-category/logging-observability.md) · [Machine Learning (740)](../by-category/machine-learning.md)
-[Math Numeric Scientific (87)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1016)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (435)](../by-category/package-manager.md) · [Parser Lexer Ast (1072)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (294)](../by-category/precommit-ci-quality.md)
+[Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (446)](../by-category/ffi-bindings.md) · [Filesystem Os (1538)](../by-category/filesystem-os.md) · [Formatter (635)](../by-category/formatter.md)
+[Framework (61)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1416)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (421)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (265)](../by-category/interpreter-runtime.md) · [Jit Vm (62)](../by-category/jit-vm.md)
+[Language Server (28)](../by-category/language-server.md) · [Language Specification (1421)](../by-category/language-specification.md) · [Library (5483)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (515)](../by-category/logging-observability.md) · [Machine Learning (742)](../by-category/machine-learning.md)
+[Math Numeric Scientific (87)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1018)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (436)](../by-category/package-manager.md) · [Parser Lexer Ast (1072)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (295)](../by-category/precommit-ci-quality.md)
 [Profiler (86)](../by-category/profiler.md) · [Project Scaffolding (132)](../by-category/project-scaffolding.md) · [Registry Repository (132)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
-[Security Sast (336)](../by-category/security-sast.md) · [Serialization (391)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (526)](../by-category/static-analyzer.md)
+[Security Sast (336)](../by-category/security-sast.md) · [Serialization (391)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (528)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (599)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (62)](../by-category/tutorial-book-styleguide.md) · [Type Checker (311)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1574)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (102)](../by-category/utility-library.md) · [Visualization Gui (513)](../by-category/visualization-gui.md) · [Web Framework (473)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1574)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (102)](../by-category/utility-library.md) · [Visualization Gui (513)](../by-category/visualization-gui.md) · [Web Framework (474)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -120,6 +120,7 @@ Records: `180`
 | [LaboratoryOpticsBiosciences/FLUTE](../records/microscopy-laboratoryopticsbiosciences-flute-6c0dfb32.md) | partial | 2025-11-17T17:23:27Z | registry-derived |
 | [Lee-Gihun/MEDIAR](../records/microscopy-lee-gihun-mediar-98b60229.md) | partial | 2024-04-01T13:35:07Z | registry-derived |
 | [MatthewFilipovich/torchoptics](../records/microscopy-matthewfilipovich-torchoptics-d30776e7.md) | partial | 2026-05-13T16:10:18Z | registry-derived |
+| [MercaderLabAnatomy/napari-tmidas](../records/microscopy-mercaderlabanatomy-napari-tmidas-297da357.md) | partial | 2026-08-31T13:34:21Z | registry-derived |
 | [MontpellierRessourcesImagerie/imagej_macros_and_scripts](../records/microscopy-montpellierressourcesimagerie-imagej-macros-and-scripts-78da8ed6.md) | partial | 2026-07-23T11:02:58Z | registry-derived |
 | [MouseLand/cellpose](../records/microscopy-mouseland-cellpose-503d6a0b.md) | partial | 2026-06-14T13:21:03Z | registry-derived |
 | [mviereck/microscopy-tools](../records/microscopy-mviereck-microscopy-tools-e9130466.md) | partial | 2024-11-17T18:25:54Z | registry-derived |
@@ -169,6 +170,7 @@ Records: `180`
 | --- | --- | --- | --- |
 | [biomicroscopy/DPR-Resolution_enhancement_with_deblurring_by_pixel_reassignment](../records/microscopy-biomicroscopy-dpr-resolution-enhancement-with-deblurring-by-pixel-reassignment-bc75e385.md) | partial | 2026-05-25T22:17:44Z | registry-derived |
 | [BMIRDS/deepslide](../records/microscopy-bmirds-deepslide-3e23ec62.md) | partial | 2024-06-07T15:22:44Z | registry-derived |
+| [iitmcvg/Cell-Segmentation](../records/microscopy-iitmcvg-cell-segmentation-92bb0699.md) | partial | 2018-08-04T08:54:04Z | registry-derived |
 | [joergmlpts/usb-camera](../records/microscopy-joergmlpts-usb-camera-80ea7b80.md) | partial | 2025-09-09T02:02:54Z | registry-derived |
 | [SchornacklabSLCU/amfinder](../records/microscopy-schornacklabslcu-amfinder-916fd24a.md) | partial | 2023-11-03T06:54:04Z | registry-derived |
 
@@ -188,6 +190,8 @@ Records: `180`
 | [imagej/napari-imagej](../records/microscopy-imagej-napari-imagej-b450d378.md) | partial | 2026-06-17T19:20:25Z | registry-derived |
 | [imagingbook/imagingbook-calibrate](../records/microscopy-imagingbook-imagingbook-calibrate-a41e2017.md) | partial | 2026-03-12T19:30:45Z | registry-derived |
 | [knime-ip/knip](../records/microscopy-knime-ip-knip-e725872c.md) | partial | 2025-11-25T13:47:26Z | registry-derived |
+| [Mantalys/kartezio](../records/microscopy-mantalys-kartezio-45b3ec41.md) | partial | 2026-08-19T15:06:23Z | registry-derived |
+| [Omid-Nejati/BEFUnet](../records/microscopy-omid-nejati-befunet-d9014125.md) | partial | 2024-06-01T07:28:35Z | registry-derived |
 | [QuPath](../records/microscopy-qupath-721d0946.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [thorstenwagner/ij-ridgedetection](../records/microscopy-thorstenwagner-ij-ridgedetection-3fa4a868.md) | partial | 2019-05-16T16:21:56Z | registry-derived |
 
@@ -223,9 +227,12 @@ Records: `180`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [BodenmillerGroup/imctools](../records/microscopy-bodenmillergroup-imctools-751b7c0c.md) | partial | 2022-03-31T09:58:01Z | registry-derived |
+| [DanuserLab/u-segment3D](../records/microscopy-danuserlab-u-segment3d-458f504b.md) | partial | 2026-08-25T16:31:00Z | registry-derived |
 | [FZJ-INM1-BDA/celldetection](../records/microscopy-fzj-inm1-bda-celldetection-dff52c0c.md) | partial | 2025-04-22T15:50:43Z | registry-derived |
+| [okunator/cellseg_models.pytorch](../records/microscopy-okunator-cellseg-models-pytorch-11f6ec48.md) | partial | 2026-07-15T20:00:36Z | registry-derived |
 | [royerlab/ultrack](../records/microscopy-royerlab-ultrack-fa4cffd9.md) | partial | 2026-08-13T17:55:24Z | registry-derived |
 | [stardist/stardist](../records/microscopy-stardist-stardist-a1fcea9e.md) | partial | 2026-02-14T16:16:18Z | registry-derived |
+| [stardist/stardist-napari](../records/microscopy-stardist-stardist-napari-cf638dd5.md) | partial | 2024-08-24T19:32:17Z | registry-derived |
 | [tlnagy/OMETIFF.jl](../records/microscopy-tlnagy-ometiff-jl-cec7b6f6.md) | partial | 2024-11-01T18:19:01Z | registry-derived |
 | [yaoguangluo/ETL_Unicorn](../records/microscopy-yaoguangluo-etl-unicorn-e0a016db.md) | partial | 2025-10-01T16:34:44Z | registry-derived |
 
@@ -244,11 +251,20 @@ Records: `180`
 | [TissueImageAnalytics/tiatoolbox](../records/microscopy-tissueimageanalytics-tiatoolbox-a18863d3.md) | partial | 2026-09-04T17:00:36Z | registry-derived |
 | [UU-cellbiology/ZstackDepthColorCode](../records/microscopy-uu-cellbiology-zstackdepthcolorcode-2dae5fc0.md) | partial | 2025-11-06T19:19:23Z | registry-derived |
 
+### Machine Learning
+
+| Name | Release | Date | Source |
+| --- | --- | --- | --- |
+| [nadeemlab/ImPartial](../records/microscopy-nadeemlab-impartial-aa358bdb.md) | partial | 2026-06-03T11:11:30Z | registry-derived |
+| [SAIL-GuoLab/Cell_Segmentation_and_Tracking](../records/microscopy-sail-guolab-cell-segmentation-and-tracking-d3125f1e.md) | partial | 2020-02-26T03:37:17Z | registry-derived |
+
 ### Networking Http
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [EliHei2/segger_dev](../records/microscopy-elihei2-segger-dev-5e470160.md) | partial | 2026-05-25T21:47:05Z | registry-derived |
+| [kdha0727/cancer-instance-segmentation-from-tissue](../records/microscopy-kdha0727-cancer-instance-segmentation-from-tissue-932ff299.md) | partial | 2022-06-15T14:16:32Z | registry-derived |
+| [marshuang80/cell-segmentation](../records/microscopy-marshuang80-cell-segmentation-24b48997.md) | partial | 2019-08-27T22:00:21Z | registry-derived |
 | [nadeemlab/DeepLIIF](../records/microscopy-nadeemlab-deepliif-f336f8fd.md) | partial | 2026-08-31T16:12:06Z | registry-derived |
 | [peterhpark/neuroclear](../records/microscopy-peterhpark-neuroclear-7179bfb8.md) | partial | 2025-03-21T12:36:07Z | registry-derived |
 
@@ -256,6 +272,7 @@ Records: `180`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [AntonotnaWang/3DCellSeg](../records/microscopy-antonotnawang-3dcellseg-f26edf96.md) | partial | 2023-04-10T20:56:26Z | registry-derived |
 | [ciccalab/SIMPLI](../records/microscopy-ciccalab-simpli-f44ea336.md) | partial | 2025-09-23T11:08:18Z | registry-derived |
 | [DeepTrackAI/DeepTrack2](../records/microscopy-deeptrackai-deeptrack2-c4bed0ae.md) | partial | 2026-08-23T21:52:12Z | registry-derived |
 | [hallvaaw/awesome-biological-image-analysis](../records/microscopy-hallvaaw-awesome-biological-image-analysis-b00b91fa.md) | partial | 2026-09-01T08:44:58Z | registry-derived |
@@ -291,10 +308,12 @@ Records: `180`
 | [clEsperanto/pyclesperanto_prototype](../records/microscopy-clesperanto-pyclesperanto-prototype-3fd5a628.md) | partial | 2026-08-14T09:04:32Z | registry-derived |
 | [imjoy-team/imagej.js](../records/microscopy-imjoy-team-imagej-js-ab4ae7b8.md) | partial | 2025-08-21T21:49:20Z | registry-derived |
 | [jherkenhoff/STM](../records/microscopy-jherkenhoff-stm-3928a3ac.md) | partial | 2021-08-02T15:53:42Z | registry-derived |
+| [NIGMS/Biomedical-Imaging-Analysis-using-AI-ML-Approaches](../records/microscopy-nigms-biomedical-imaging-analysis-using-ai-ml-approaches-8ffdae01.md) | partial | 2025-06-06T18:46:02Z | registry-derived |
 | [NL-BioImaging/biomero](../records/microscopy-nl-bioimaging-biomero-e59c8222.md) | partial | 2026-09-03T17:09:19Z | registry-derived |
 | [ome/EMBO-Practical-Course-2023](../records/microscopy-ome-embo-practical-course-2023-0359e30c.md) | partial | 2023-09-10T15:36:11Z | registry-derived |
 | [pycroscopy/pycroscopy](../records/microscopy-pycroscopy-pycroscopy-e22f9142.md) | partial | 2025-09-12T16:21:57Z | registry-derived |
 | [qupath/qupath](../records/microscopy-qupath-qupath-319e8bd2.md) | partial | 2026-09-01T12:37:23Z | registry-derived |
+| [wanglab-broad/ClusterMap](../records/microscopy-wanglab-broad-clustermap-29c052dc.md) | partial | 2025-06-13T18:35:46Z | registry-derived |
 
 ### Testing Framework
 
