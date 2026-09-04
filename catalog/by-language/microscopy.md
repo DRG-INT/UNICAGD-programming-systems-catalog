@@ -8,23 +8,23 @@ Records: `180`
 
 ## Category Index
 
-[Api Abi Checker (206)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (45)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
-[Benchmarking (169)](../by-category/benchmarking.md) · [Build System (928)](../by-category/build-system.md) · [Cli (547)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (101)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (48)](../by-category/compression.md)
-[Concurrency Parallelism (83)](../by-category/concurrency-parallelism.md) · [Configuration (116)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (165)](../by-category/cryptography.md) · [Data Science (36)](../by-category/data-science.md) · [Database Datastore (878)](../by-category/database-datastore.md) · [Datetime (190)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (95)](../by-category/dependency-manager.md) · [Documentation (99)](../by-category/documentation.md)
-[Embedded Hardware (55)](../by-category/embedded-hardware.md) · [Ffi Bindings (415)](../by-category/ffi-bindings.md) · [Filesystem Os (1427)](../by-category/filesystem-os.md) · [Formatter (618)](../by-category/formatter.md)
-[Framework (56)](../by-category/framework.md) · [Fuzzer (56)](../by-category/fuzzer.md) · [Game Engine Game Dev (175)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1348)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (398)](../by-category/image-audio-dsp.md) · [Interop Bindings (58)](../by-category/interop-bindings.md) · [Interpreter Runtime (254)](../by-category/interpreter-runtime.md) · [Jit Vm (61)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1394)](../by-category/language-specification.md) · [Library (5327)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (487)](../by-category/logging-observability.md) · [Machine Learning (673)](../by-category/machine-learning.md)
-[Math Numeric Scientific (85)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (90)](../by-category/memory-analyzer.md) · [Message Broker (39)](../by-category/message-broker.md) · [Networking Http (992)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (423)](../by-category/package-manager.md) · [Parser Lexer Ast (1035)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (284)](../by-category/precommit-ci-quality.md)
-[Profiler (82)](../by-category/profiler.md) · [Project Scaffolding (130)](../by-category/project-scaffolding.md) · [Registry Repository (108)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
-[Security Sast (333)](../by-category/security-sast.md) · [Serialization (385)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (508)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (595)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (59)](../by-category/tutorial-book-styleguide.md) · [Type Checker (301)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1522)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](../by-category/utility-library.md) · [Visualization Gui (478)](../by-category/visualization-gui.md) · [Web Framework (462)](../by-category/web-framework.md)
+[Api Abi Checker (210)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (45)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
+[Benchmarking (188)](../by-category/benchmarking.md) · [Build System (964)](../by-category/build-system.md) · [Cli (550)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (115)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (50)](../by-category/compression.md)
+[Concurrency Parallelism (87)](../by-category/concurrency-parallelism.md) · [Configuration (122)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
+[Cryptography (171)](../by-category/cryptography.md) · [Data Science (36)](../by-category/data-science.md) · [Database Datastore (884)](../by-category/database-datastore.md) · [Datetime (205)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (101)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
+[Embedded Hardware (55)](../by-category/embedded-hardware.md) · [Ffi Bindings (437)](../by-category/ffi-bindings.md) · [Filesystem Os (1506)](../by-category/filesystem-os.md) · [Formatter (630)](../by-category/formatter.md)
+[Framework (57)](../by-category/framework.md) · [Fuzzer (56)](../by-category/fuzzer.md) · [Game Engine Game Dev (338)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1406)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (410)](../by-category/image-audio-dsp.md) · [Interop Bindings (60)](../by-category/interop-bindings.md) · [Interpreter Runtime (264)](../by-category/interpreter-runtime.md) · [Jit Vm (62)](../by-category/jit-vm.md)
+[Language Server (28)](../by-category/language-server.md) · [Language Specification (1412)](../by-category/language-specification.md) · [Library (5418)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (513)](../by-category/logging-observability.md) · [Machine Learning (719)](../by-category/machine-learning.md)
+[Math Numeric Scientific (86)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1008)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (433)](../by-category/package-manager.md) · [Parser Lexer Ast (1066)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (292)](../by-category/precommit-ci-quality.md)
+[Profiler (86)](../by-category/profiler.md) · [Project Scaffolding (131)](../by-category/project-scaffolding.md) · [Registry Repository (132)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
+[Security Sast (336)](../by-category/security-sast.md) · [Serialization (389)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (514)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (599)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (62)](../by-category/tutorial-book-styleguide.md) · [Type Checker (311)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1560)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (101)](../by-category/utility-library.md) · [Visualization Gui (507)](../by-category/visualization-gui.md) · [Web Framework (472)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -42,7 +42,7 @@ Records: `180`
 | [labsyspharm/minerva-story](../records/microscopy-labsyspharm-minerva-story-6e0a209a.md) | partial | 2024-05-08T18:52:37Z | registry-derived |
 | [lemonspurple/DIY-Scanning-Tunneling-Microscope](../records/microscopy-lemonspurple-diy-scanning-tunneling-microscope-5995151b.md) | partial | 2026-06-08T18:08:44Z | registry-derived |
 | [royerlab/napari-mcp](../records/microscopy-royerlab-napari-mcp-5804742f.md) | partial | 2026-03-25T18:05:52Z | registry-derived |
-| [saeyslab/harpy](../records/microscopy-saeyslab-harpy-13fb4e50.md) | partial | 2026-09-04T06:56:02Z | registry-derived |
+| [saeyslab/harpy](../records/microscopy-saeyslab-harpy-13fb4e50.md) | partial | 2026-09-04T12:53:55Z | registry-derived |
 
 ### Database Datastore
 
@@ -103,7 +103,7 @@ Records: `180`
 | [cytomining/pycytominer](../records/microscopy-cytomining-pycytominer-f61cb1dc.md) | partial | 2026-09-02T18:32:09Z | registry-derived |
 | [dancsalo/TensorFlow-MIL](../records/microscopy-dancsalo-tensorflow-mil-823d26d9.md) | partial | 2020-08-24T19:46:19Z | registry-derived |
 | [david-hoffman/pyotf](../records/microscopy-david-hoffman-pyotf-f47c74b0.md) | partial | 2024-04-08T20:58:26Z | registry-derived |
-| [deepinv/deepinv](../records/microscopy-deepinv-deepinv-59141df0.md) | partial | 2026-09-04T01:17:50Z | registry-derived |
+| [deepinv/deepinv](../records/microscopy-deepinv-deepinv-59141df0.md) | partial | 2026-09-04T12:36:54Z | registry-derived |
 | [delmic/odemis](../records/microscopy-delmic-odemis-64e6d3c9.md) | partial | 2026-09-03T14:26:23Z | registry-derived |
 | [fairscope/PlanktoScope](../records/microscopy-fairscope-planktoscope-9189e5a9.md) | partial | 2026-09-03T17:10:41Z | registry-derived |
 | [google-research/sofima](../records/microscopy-google-research-sofima-72568ecb.md) | partial | 2026-08-06T15:10:50Z | registry-derived |
@@ -115,7 +115,7 @@ Records: `180`
 | [hpgem/nanomesh](../records/microscopy-hpgem-nanomesh-5b10b2c1.md) | partial | 2024-06-17T12:45:05Z | registry-derived |
 | [HuanglabPurdue/NCS](../records/microscopy-huanglabpurdue-ncs-92a2d50f.md) | partial | 2020-01-15T20:22:29Z | registry-derived |
 | [ImSwitch/ImSwitch](../records/microscopy-imswitch-imswitch-c78f5160.md) | partial | 2026-07-10T15:00:31Z | registry-derived |
-| [jungmannlab/picasso](../records/microscopy-jungmannlab-picasso-7d2c2a00.md) | partial | 2026-09-02T19:53:54Z | registry-derived |
+| [jungmannlab/picasso](../records/microscopy-jungmannlab-picasso-7d2c2a00.md) | partial | 2026-09-04T08:32:28Z | registry-derived |
 | [koendv/xy-stage](../records/microscopy-koendv-xy-stage-a5a60592.md) | partial | 2023-08-06T18:28:56Z | registry-derived |
 | [LaboratoryOpticsBiosciences/FLUTE](../records/microscopy-laboratoryopticsbiosciences-flute-6c0dfb32.md) | partial | 2025-11-17T17:23:27Z | registry-derived |
 | [Lee-Gihun/MEDIAR](../records/microscopy-lee-gihun-mediar-98b60229.md) | partial | 2024-04-01T13:35:07Z | registry-derived |
@@ -139,7 +139,7 @@ Records: `180`
 | [rapidsai/cucim](../records/microscopy-rapidsai-cucim-6fd9f972.md) | partial | 2026-09-03T16:07:50Z | registry-derived |
 | [royerlab/cytoself](../records/microscopy-royerlab-cytoself-b2dff824.md) | partial | 2025-08-05T18:46:40Z | registry-derived |
 | [rwb27/openflexure_microscope](../records/microscopy-rwb27-openflexure-microscope-9f4f36b7.md) | partial | 2019-04-30T15:12:38Z | registry-derived |
-| [scalableminds/webknossos](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) | partial | 2026-09-03T13:18:43Z | registry-derived |
+| [scalableminds/webknossos](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) | partial | 2026-09-04T13:17:14Z | registry-derived |
 | [seung-lab/cloud-volume](../records/microscopy-seung-lab-cloud-volume-388cc8e9.md) | partial | 2026-09-03T21:08:26Z | registry-derived |
 | [tferr/Scripts](../records/microscopy-tferr-scripts-25277503.md) | partial | 2022-06-03T11:23:48Z | registry-derived |
 | [TheDeanLab/navigate](../records/microscopy-thedeanlab-navigate-dc14fa5a.md) | partial | 2026-08-31T13:00:45Z | registry-derived |
@@ -261,7 +261,7 @@ Records: `180`
 | [hallvaaw/awesome-biological-image-analysis](../records/microscopy-hallvaaw-awesome-biological-image-analysis-b00b91fa.md) | partial | 2026-09-01T08:44:58Z | registry-derived |
 | [lachlanchen/OpenHI](../records/microscopy-lachlanchen-openhi-6563c12a.md) | partial | 2026-04-27T01:39:28Z | registry-derived |
 | [nf-core/mcmicro](../records/microscopy-nf-core-mcmicro-5fb60926.md) | partial | 2026-09-01T12:58:34Z | registry-derived |
-| [nf-core/spatialvi](../records/microscopy-nf-core-spatialvi-764d8d93.md) | partial | 2026-09-01T19:33:06Z | registry-derived |
+| [nf-core/spatialvi](../records/microscopy-nf-core-spatialvi-764d8d93.md) | partial | 2026-09-04T13:05:46Z | registry-derived |
 | [SPerrott22/Deepcell-to-QuPath](../records/microscopy-sperrott22-deepcell-to-qupath-1da4c7e2.md) | partial | 2025-04-26T00:18:52Z | registry-derived |
 
 ### Parser Lexer Ast
@@ -321,7 +321,7 @@ Records: `180`
 | [chanzuckerberg/napari-hub](../records/microscopy-chanzuckerberg-napari-hub-082ae11f.md) | partial | 2026-03-06T00:55:27Z | registry-derived |
 | [czbiohub-sf/iohub](../records/microscopy-czbiohub-sf-iohub-5a760ae0.md) | partial | 2026-09-04T00:04:14Z | registry-derived |
 | [imagingbook/imagingbook-public](../records/microscopy-imagingbook-imagingbook-public-35b63f87.md) | partial | 2026-03-12T18:03:59Z | registry-derived |
-| [JaneliaSciComp/fileglancer](../records/microscopy-janeliascicomp-fileglancer-a4aeb3db.md) | partial | 2026-09-03T18:24:56Z | registry-derived |
+| [JaneliaSciComp/fileglancer](../records/microscopy-janeliascicomp-fileglancer-a4aeb3db.md) | partial | 2026-09-04T12:35:57Z | registry-derived |
 | [mbalatsko/opencv-rolling-ball](../records/microscopy-mbalatsko-opencv-rolling-ball-64eeb75a.md) | partial | 2022-06-21T21:15:02Z | registry-derived |
 | [Mmasoud1/HistoJS](../records/microscopy-mmasoud1-histojs-cfc6aaff.md) | partial | 2024-02-29T14:38:53Z | registry-derived |
 | [MWod/DeepHistReg](../records/microscopy-mwod-deephistreg-fe9489ee.md) | partial | 2025-04-04T15:16:42Z | registry-derived |

@@ -1,6 +1,6 @@
 # Formatter
 
-Records: `618`
+Records: `630`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `618`
 
 ## Category Index
 
-[Api Abi Checker (206)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (169)](benchmarking.md) · [Build System (928)](build-system.md) · [Cli (547)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (101)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
-[Concurrency Parallelism (83)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (165)](cryptography.md) · [Data Science (36)](data-science.md) · [Database Datastore (878)](database-datastore.md) · [Datetime (190)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (95)](dependency-manager.md) · [Documentation (99)](documentation.md)
-[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (415)](ffi-bindings.md) · [Filesystem Os (1427)](filesystem-os.md) · **[Formatter (618)](formatter.md)**
-[Framework (56)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (175)](game-engine-game-dev.md) · [Ide Editor Integration (1348)](ide-editor-integration.md)
-[Image Audio Dsp (398)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (254)](interpreter-runtime.md) · [Jit Vm (61)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1394)](language-specification.md) · [Library (5327)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (487)](logging-observability.md) · [Machine Learning (673)](machine-learning.md)
-[Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (90)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (992)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (423)](package-manager.md) · [Parser Lexer Ast (1035)](parser-lexer-ast.md) · [Precommit Ci Quality (284)](precommit-ci-quality.md)
-[Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (333)](security-sast.md) · [Serialization (385)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (508)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (595)](testing-framework.md) · [Tutorial Book Styleguide (59)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
-[Undefined Behavior Analyzer (1522)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (478)](visualization-gui.md) · [Web Framework (462)](web-framework.md)
+[Api Abi Checker (210)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Benchmarking (188)](benchmarking.md) · [Build System (964)](build-system.md) · [Cli (550)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (115)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
+[Concurrency Parallelism (87)](concurrency-parallelism.md) · [Configuration (122)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (171)](cryptography.md) · [Data Science (36)](data-science.md) · [Database Datastore (884)](database-datastore.md) · [Datetime (205)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
+[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (437)](ffi-bindings.md) · [Filesystem Os (1506)](filesystem-os.md) · **[Formatter (630)](formatter.md)**
+[Framework (57)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (338)](game-engine-game-dev.md) · [Ide Editor Integration (1406)](ide-editor-integration.md)
+[Image Audio Dsp (410)](image-audio-dsp.md) · [Interop Bindings (60)](interop-bindings.md) · [Interpreter Runtime (264)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
+[Language Server (28)](language-server.md) · [Language Specification (1412)](language-specification.md) · [Library (5418)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (513)](logging-observability.md) · [Machine Learning (719)](machine-learning.md)
+[Math Numeric Scientific (86)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1008)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (433)](package-manager.md) · [Parser Lexer Ast (1066)](parser-lexer-ast.md) · [Precommit Ci Quality (292)](precommit-ci-quality.md)
+[Profiler (86)](profiler.md) · [Project Scaffolding (131)](project-scaffolding.md) · [Registry Repository (132)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (389)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (514)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (599)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (311)](type-checker.md)
+[Undefined Behavior Analyzer (1560)](undefined-behavior-analyzer.md) · [Utility Library (101)](utility-library.md) · [Visualization Gui (507)](visualization-gui.md) · [Web Framework (472)](web-framework.md)
 
 ## C99
 
@@ -523,25 +523,53 @@ Records: `618`
 | github.com/Domingor/go-blackbox | v1.86.0 | 2026-08-30T16:31:35.009665Z | [open](../records/go-github-com-domingor-go-blackbox-635c7b8d.md) |
 | github.com/gilescope/rustfmt | v1.4.29 | 2026-08-30T12:55:09.408881Z | [open](../records/go-github-com-gilescope-rustfmt-3181c821.md) |
 | github.com/sarathfrancis90/sql-formatter | v15.6.1+incompatible | 2026-08-30T14:10:24.556377Z | [open](../records/go-github-com-sarathfrancis90-sql-formatter-27542140.md) |
-| gookit/goutil | partial | 2026-08-17T14:52:38Z | [open](../records/go-gookit-goutil-3f400e93.md) |
+| gookit/goutil | unknown | not_a_go_module_path | [open](../records/go-gookit-goutil-3f400e93.md) |
 
 ## Basilisk
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| rcsc-group/LiquidBridge2D | partial | 2026-08-20T13:16:23Z | [open](../records/basilisk-rcsc-group-liquidbridge2d-2e2309d3.md) |
+| rcsc-group/LiquidBridge2D | unknown | github_latest_release_missing | [open](../records/basilisk-rcsc-group-liquidbridge2d-2e2309d3.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-04T12:08:41Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
-| google/langextract | partial | 2026-08-27T19:23:53Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
+| BerriAI/litellm | unknown | github_latest_release_missing | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| google/langextract | unknown | github_latest_release_missing | [open](../records/aim-s-google-langextract-8fb0b488.md) |
+
+## Computer Graphics Software
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| ipc-sim/IPC | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-ipc-sim-ipc-1cfefac2.md) |
+
+## Engines
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| anuraghazra/Verly.js | partial | 2025-02-19T20:24:26Z | [open](../records/engines-anuraghazra-verly-js-1a90fd92.md) |
+| blackholll/loonflow | partial | 2026-05-25T12:37:25Z | [open](../records/engines-blackholll-loonflow-d7da018b.md) |
+
+## Physics Engines
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| anuraghazra/Verly.js | partial | 2025-02-19T20:24:26Z | [open](../records/physics-engines-anuraghazra-verly-js-0d5dd2a2.md) |
+| steeltroops-ai/blackhole-simulation | partial | 2026-04-29T22:23:10Z | [open](../records/physics-engines-steeltroops-ai-blackhole-simulation-dde1cc2a.md) |
+
+## Game Engines
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| assimp/assimp | partial | 2026-09-03T22:17:19Z | [open](../records/game-engines-assimp-assimp-442ead6f.md) |
 
 ## Icons and Logos
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| coreui/coreui-icons | partial | 2026-08-12T05:24:50Z | [open](../records/icons-and-logos-coreui-coreui-icons-28580f6f.md) |
+| devblackops/Terminal-Icons | partial | 2024-08-06T15:47:02Z | [open](../records/icons-and-logos-devblackops-terminal-icons-848008fc.md) |
 | GnuriaN/format-README | partial | 2026-02-01T18:25:54Z | [open](../records/icons-and-logos-gnurian-format-readme-175ee10b.md) |
 | Textualize/rich | partial | 2026-06-23T03:10:19Z | [open](../records/icons-and-logos-textualize-rich-f462c6fd.md) |
 | tindy2013/subconverter | partial | 2026-07-09T15:40:27Z | [open](../records/icons-and-logos-tindy2013-subconverter-54daa3fe.md) |
@@ -582,7 +610,7 @@ Records: `618`
 | oblivioncth/Stexatlaser | partial | 2026-08-26T18:53:52Z | [open](../records/assets-oblivioncth-stexatlaser-40b7ab31.md) |
 | Qftm/Information_Collection_Handbook | partial | 2023-03-08T14:10:29Z | [open](../records/assets-qftm-information-collection-handbook-97112bf4.md) |
 | SawyerRensel/Transmogrifier | partial | 2026-07-16T00:26:47Z | [open](../records/assets-sawyerrensel-transmogrifier-c1c40840.md) |
-| sourcentis/mercator | partial | 2026-09-03T06:42:52Z | [open](../records/assets-sourcentis-mercator-b6bbd504.md) |
+| sourcentis/mercator | partial | 2026-09-03T22:55:55Z | [open](../records/assets-sourcentis-mercator-b6bbd504.md) |
 | ToxSam/os3a-gallery | partial | 2026-02-10T16:33:02Z | [open](../records/assets-toxsam-os3a-gallery-cbfb47dc.md) |
 | trufont/trufont | partial | 2025-12-02T16:43:50Z | [open](../records/assets-trufont-trufont-b3154008.md) |
 | wangyz1999/3d-emoji-assets-generator | partial | 2026-03-30T16:28:15Z | [open](../records/assets-wangyz1999-3d-emoji-assets-generator-b46f9205.md) |
@@ -598,7 +626,7 @@ Records: `618`
 | MIERUNE/plateau-gis-converter | partial | 2026-08-31T05:43:42Z | [open](../records/maps-mierune-plateau-gis-converter-33d0b196.md) |
 | plant99/felicette | unknown | github_search_does_not_include_release_date | [open](../records/maps-plant99-felicette-60be9d6d.md) |
 | proj4js/proj4js | partial | 2026-08-31T07:26:28Z | [open](../records/maps-proj4js-proj4js-79ed1335.md) |
-| pyproj4/pyproj | partial | 2026-09-02T17:31:36Z | [open](../records/maps-pyproj4-pyproj-66a83255.md) |
+| pyproj4/pyproj | partial | 2026-09-04T05:29:12Z | [open](../records/maps-pyproj4-pyproj-66a83255.md) |
 | sasgis/sas.planet.src | unknown | github_search_does_not_include_release_date | [open](../records/maps-sasgis-sas-planet-src-337db903.md) |
 | simonpoole/mapsplit | partial | 2025-08-29T08:42:49Z | [open](../records/maps-simonpoole-mapsplit-9201cef5.md) |
 | tilezen/vector-datasource | partial | 2026-07-13T22:48:10Z | [open](../records/maps-tilezen-vector-datasource-e16a7621.md) |
@@ -688,7 +716,7 @@ Records: `618`
 | --- | --- | --- | --- |
 | AlenVelocity/wa-sticker-formatter | partial | 2026-08-10T19:22:06Z | [open](../records/photography-alenvelocity-wa-sticker-formatter-09b95bf0.md) |
 | ankitdhall/lidar_camera_calibration | partial | 2025-10-16T18:17:31Z | [open](../records/photography-ankitdhall-lidar-camera-calibration-71522045.md) |
-| blakeblackshear/frigate | partial | 2026-09-04T03:05:03Z | [open](../records/photography-blakeblackshear-frigate-ea8ac18c.md) |
+| blakeblackshear/frigate | partial | 2026-09-04T13:09:47Z | [open](../records/photography-blakeblackshear-frigate-ea8ac18c.md) |
 | blakeblackshear/frigate-hass-integration | partial | 2026-08-28T22:20:35Z | [open](../records/photography-blakeblackshear-frigate-hass-integration-49b84b9e.md) |
 | d2phap/ImageGlass | partial | 2026-09-02T14:30:00Z | [open](../records/photography-d2phap-imageglass-ec40014f.md) |
 | dnglab/dnglab | partial | 2026-08-30T14:57:26Z | [open](../records/photography-dnglab-dnglab-05d113bb.md) |
@@ -764,7 +792,11 @@ Records: `618`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| gabledata/recap | partial | 2025-12-30T22:10:01Z | [open](../records/catalogs-gabledata-recap-0e1817aa.md) |
 | ihsn/nada | partial | 2026-09-03T13:24:50Z | [open](../records/catalogs-ihsn-nada-e8df2a6b.md) |
+| MediaSavvy/MediaSavvy | partial | 2026-08-16T16:39:22Z | [open](../records/catalogs-mediasavvy-mediasavvy-5d89532f.md) |
+| opengeos/Earth-Engine-Catalog | partial | 2026-09-04T03:36:03Z | [open](../records/catalogs-opengeos-earth-engine-catalog-4bda34cb.md) |
+| postgrespro/rum | partial | 2026-09-03T06:14:33Z | [open](../records/catalogs-postgrespro-rum-fb7c64d1.md) |
 
 ## Magazines
 
@@ -835,7 +867,7 @@ Records: `618`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| DaveWoodCom/XCGLogger | partial | 2024-07-02T13:12:43Z | [open](../records/cocoa-davewoodcom-xcglogger-2671614e.md) |
+| DaveWoodCom/XCGLogger | unknown | not_a_cocoapods_name | [open](../records/cocoa-davewoodcom-xcglogger-2671614e.md) |
 | Shake | 17.2.5 | 2026-05-12 13:42:29 UTC | [open](../records/cocoa-shake-6aaa6776.md) |
 
 ## Databases

@@ -1,6 +1,6 @@
 # Registry Repository
 
-Records: `108`
+Records: `132`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `108`
 
 ## Category Index
 
-[Api Abi Checker (206)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (169)](benchmarking.md) · [Build System (928)](build-system.md) · [Cli (547)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (101)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
-[Concurrency Parallelism (83)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (165)](cryptography.md) · [Data Science (36)](data-science.md) · [Database Datastore (878)](database-datastore.md) · [Datetime (190)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (95)](dependency-manager.md) · [Documentation (99)](documentation.md)
-[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (415)](ffi-bindings.md) · [Filesystem Os (1427)](filesystem-os.md) · [Formatter (618)](formatter.md)
-[Framework (56)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (175)](game-engine-game-dev.md) · [Ide Editor Integration (1348)](ide-editor-integration.md)
-[Image Audio Dsp (398)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (254)](interpreter-runtime.md) · [Jit Vm (61)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1394)](language-specification.md) · [Library (5327)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (487)](logging-observability.md) · [Machine Learning (673)](machine-learning.md)
-[Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (90)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (992)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (423)](package-manager.md) · [Parser Lexer Ast (1035)](parser-lexer-ast.md) · [Precommit Ci Quality (284)](precommit-ci-quality.md)
-[Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · **[Registry Repository (108)](registry-repository.md)** · [Sanitizer (13)](sanitizer.md)
-[Security Sast (333)](security-sast.md) · [Serialization (385)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (508)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (595)](testing-framework.md) · [Tutorial Book Styleguide (59)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
-[Undefined Behavior Analyzer (1522)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (478)](visualization-gui.md) · [Web Framework (462)](web-framework.md)
+[Api Abi Checker (210)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Benchmarking (188)](benchmarking.md) · [Build System (964)](build-system.md) · [Cli (550)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (115)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
+[Concurrency Parallelism (87)](concurrency-parallelism.md) · [Configuration (122)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (171)](cryptography.md) · [Data Science (36)](data-science.md) · [Database Datastore (884)](database-datastore.md) · [Datetime (205)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
+[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (437)](ffi-bindings.md) · [Filesystem Os (1506)](filesystem-os.md) · [Formatter (630)](formatter.md)
+[Framework (57)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (338)](game-engine-game-dev.md) · [Ide Editor Integration (1406)](ide-editor-integration.md)
+[Image Audio Dsp (410)](image-audio-dsp.md) · [Interop Bindings (60)](interop-bindings.md) · [Interpreter Runtime (264)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
+[Language Server (28)](language-server.md) · [Language Specification (1412)](language-specification.md) · [Library (5418)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (513)](logging-observability.md) · [Machine Learning (719)](machine-learning.md)
+[Math Numeric Scientific (86)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1008)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (433)](package-manager.md) · [Parser Lexer Ast (1066)](parser-lexer-ast.md) · [Precommit Ci Quality (292)](precommit-ci-quality.md)
+[Profiler (86)](profiler.md) · [Project Scaffolding (131)](project-scaffolding.md) · **[Registry Repository (132)](registry-repository.md)** · [Sanitizer (13)](sanitizer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (389)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (514)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (599)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (311)](type-checker.md)
+[Undefined Behavior Analyzer (1560)](undefined-behavior-analyzer.md) · [Utility Library (101)](utility-library.md) · [Visualization Gui (507)](visualization-gui.md) · [Web Framework (472)](web-framework.md)
 
 ## Julia
 
@@ -185,14 +185,38 @@ Records: `108`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| algolia/scout-extended | partial | 2026-04-28T12:57:11Z | [open](../records/catalogs-algolia-scout-extended-cc62ced2.md) |
+| apache/lucenenet | partial | 2026-09-01T16:48:27Z | [open](../records/catalogs-apache-lucenenet-be7a96a2.md) |
 | Backstage Software Catalog | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-backstage-software-catalog-65fa83e8.md) |
 | CKAN | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-ckan-265fba92.md) |
 | DataHub | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-datahub-fc4a0261.md) |
 | Ecosyste.ms | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-ecosyste-ms-b04b4db1.md) |
+| EpicWink/proxpi | partial | 2026-09-01T06:03:05Z | [open](../records/catalogs-epicwink-proxpi-19684f44.md) |
+| FreeCAD/FreeCAD-addons | partial | 2026-07-24T17:34:19Z | [open](../records/catalogs-freecad-freecad-addons-a615b5b9.md) |
+| geerlingguy/ansible-role-solr | partial | 2026-08-21T14:17:49Z | [open](../records/catalogs-geerlingguy-ansible-role-solr-8acb37a8.md) |
+| gibatronic/ngx-superbindex | partial | 2026-09-01T01:02:49Z | [open](../records/catalogs-gibatronic-ngx-superbindex-189e5489.md) |
+| glen-cheney/fancy-index | partial | 2024-06-11T17:44:26Z | [open](../records/catalogs-glen-cheney-fancy-index-b02066f6.md) |
+| gonelist/gonelist | partial | 2023-12-18T21:52:26Z | [open](../records/catalogs-gonelist-gonelist-9466ca9f.md) |
+| guangxiangdebizi/TradingAgents-MCPmode | partial | 2025-11-22T07:04:36Z | [open](../records/catalogs-guangxiangdebizi-tradingagents-mcpmode-4ee518d3.md) |
+| hanxi/tiny-nav | partial | 2025-10-09T01:25:24Z | [open](../records/catalogs-hanxi-tiny-nav-aceaf462.md) |
+| kelindar/bitmap | partial | 2026-03-07T13:18:26Z | [open](../records/catalogs-kelindar-bitmap-7951780e.md) |
 | Libraries.io | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-libraries-io-57dc438b.md) |
 | OpenAPI Directory | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-openapi-directory-1693bcf6.md) |
 | OpenMetadata | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-openmetadata-f48d69a5.md) |
+| qoomon/aws-s3-bucket-browser | partial | 2026-07-25T19:14:53Z | [open](../records/catalogs-qoomon-aws-s3-bucket-browser-8bd94cab.md) |
+| rayanfer32/TgindexPro | partial | 2021-07-16T09:44:26Z | [open](../records/catalogs-rayanfer32-tgindexpro-d2a71717.md) |
+| scalacenter/scaladex | partial | 2026-09-04T13:08:09Z | [open](../records/catalogs-scalacenter-scaladex-93a340c2.md) |
 | SPDX License List | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-spdx-license-list-ea4e5cc6.md) |
+| Stratio/cassandra-lucene-index | partial | 2020-05-27T11:21:14Z | [open](../records/catalogs-stratio-cassandra-lucene-index-6874dd3d.md) |
+| tarzanek/luke | partial | 2018-10-22T17:04:17Z | [open](../records/catalogs-tarzanek-luke-89e6540e.md) |
+| tidwall/bgen | partial | 2026-08-31T16:53:00Z | [open](../records/catalogs-tidwall-bgen-ecd8e6d1.md) |
+| tzaeschke/phtree | partial | 2025-05-04T12:20:50Z | [open](../records/catalogs-tzaeschke-phtree-ce5cfe4b.md) |
+| tzaeschke/tinspin-indexes | partial | 2026-09-03T17:22:43Z | [open](../records/catalogs-tzaeschke-tinspin-indexes-67ed4721.md) |
+| weebzone/Surf-TG | partial | 2025-10-13T11:30:40Z | [open](../records/catalogs-weebzone-surf-tg-01d2779e.md) |
+| XiangpengHao/congee | partial | 2025-09-26T19:14:10Z | [open](../records/catalogs-xiangpenghao-congee-e7515878.md) |
+| yangjufo/Learned-Indexes | partial | 2018-12-20T21:13:06Z | [open](../records/catalogs-yangjufo-learned-indexes-442d1b10.md) |
+| yinwang0/pysonar2 | partial | 2026-03-02T04:19:48Z | [open](../records/catalogs-yinwang0-pysonar2-5e4d2d35.md) |
+| YJBeetle/unnpk | partial | 2022-02-12T08:20:57Z | [open](../records/catalogs-yjbeetle-unnpk-d7f21fc5.md) |
 
 ## Magazines
 

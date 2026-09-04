@@ -1,6 +1,6 @@
 # Web Framework
 
-Records: `462`
+Records: `472`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `462`
 
 ## Category Index
 
-[Api Abi Checker (206)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (169)](benchmarking.md) · [Build System (928)](build-system.md) · [Cli (547)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (101)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
-[Concurrency Parallelism (83)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (165)](cryptography.md) · [Data Science (36)](data-science.md) · [Database Datastore (878)](database-datastore.md) · [Datetime (190)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (95)](dependency-manager.md) · [Documentation (99)](documentation.md)
-[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (415)](ffi-bindings.md) · [Filesystem Os (1427)](filesystem-os.md) · [Formatter (618)](formatter.md)
-[Framework (56)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (175)](game-engine-game-dev.md) · [Ide Editor Integration (1348)](ide-editor-integration.md)
-[Image Audio Dsp (398)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (254)](interpreter-runtime.md) · [Jit Vm (61)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1394)](language-specification.md) · [Library (5327)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (487)](logging-observability.md) · [Machine Learning (673)](machine-learning.md)
-[Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (90)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (992)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (423)](package-manager.md) · [Parser Lexer Ast (1035)](parser-lexer-ast.md) · [Precommit Ci Quality (284)](precommit-ci-quality.md)
-[Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (333)](security-sast.md) · [Serialization (385)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (508)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (595)](testing-framework.md) · [Tutorial Book Styleguide (59)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
-[Undefined Behavior Analyzer (1522)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (478)](visualization-gui.md) · **[Web Framework (462)](web-framework.md)**
+[Api Abi Checker (210)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Benchmarking (188)](benchmarking.md) · [Build System (964)](build-system.md) · [Cli (550)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (115)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
+[Concurrency Parallelism (87)](concurrency-parallelism.md) · [Configuration (122)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (171)](cryptography.md) · [Data Science (36)](data-science.md) · [Database Datastore (884)](database-datastore.md) · [Datetime (205)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
+[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (437)](ffi-bindings.md) · [Filesystem Os (1506)](filesystem-os.md) · [Formatter (630)](formatter.md)
+[Framework (57)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (338)](game-engine-game-dev.md) · [Ide Editor Integration (1406)](ide-editor-integration.md)
+[Image Audio Dsp (410)](image-audio-dsp.md) · [Interop Bindings (60)](interop-bindings.md) · [Interpreter Runtime (264)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
+[Language Server (28)](language-server.md) · [Language Specification (1412)](language-specification.md) · [Library (5418)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (513)](logging-observability.md) · [Machine Learning (719)](machine-learning.md)
+[Math Numeric Scientific (86)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1008)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (433)](package-manager.md) · [Parser Lexer Ast (1066)](parser-lexer-ast.md) · [Precommit Ci Quality (292)](precommit-ci-quality.md)
+[Profiler (86)](profiler.md) · [Project Scaffolding (131)](project-scaffolding.md) · [Registry Repository (132)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (389)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (514)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (599)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (311)](type-checker.md)
+[Undefined Behavior Analyzer (1560)](undefined-behavior-analyzer.md) · [Utility Library (101)](utility-library.md) · [Visualization Gui (507)](visualization-gui.md) · **[Web Framework (472)](web-framework.md)**
 
 ## C++23
 
@@ -392,7 +392,35 @@ Records: `462`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | JGLTechnologies/gin-rate-limit | partial | 2026-08-14T03:34:23Z | [open](../records/go-jgltechnologies-gin-rate-limit-c93a4f16.md) |
-| openfaas/faas | partial | 2026-07-02T09:09:13Z | [open](../records/go-openfaas-faas-7fddd6b7.md) |
+| openfaas/faas | unknown | not_a_go_module_path | [open](../records/go-openfaas-faas-7fddd6b7.md) |
+
+## Computer Graphics Software
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| pkhungurn/talking-head-anime-2-demo | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-pkhungurn-talking-head-anime-2-demo-01e3f4b5.md) |
+| termux/termux-x11 | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-termux-termux-x11-a9d6e86c.md) |
+
+## Engines
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| inngest/inngest | partial | 2026-09-04T13:18:03Z | [open](../records/engines-inngest-inngest-d3fec8bd.md) |
+| javrasya/django-river | partial | 2023-05-05T21:57:14Z | [open](../records/engines-javrasya-django-river-6414f990.md) |
+| viewflow/viewflow | partial | 2026-09-03T00:11:44Z | [open](../records/engines-viewflow-viewflow-26a58ce9.md) |
+
+## Physics Engines
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| ikpil/Box2D.NET | partial | 2026-08-22T18:14:24Z | [open](../records/physics-engines-ikpil-box2d-net-61bc830c.md) |
+
+## Game Engines
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| ferrumc-rs/ferrumc | partial | 2026-08-14T15:03:31Z | [open](../records/game-engines-ferrumc-rs-ferrumc-08575ab8.md) |
+| rathena/rathena | partial | 2026-09-04T10:06:23Z | [open](../records/game-engines-rathena-rathena-206ad221.md) |
 
 ## Icons and Logos
 
@@ -486,7 +514,7 @@ Records: `462`
 | ggerganov/wave-share | partial | 2020-12-11T07:46:32Z | [open](../records/video-ggerganov-wave-share-52a552c1.md) |
 | jeremyckahn/chitchatter | partial | 2026-08-30T02:09:19Z | [open](../records/video-jeremyckahn-chitchatter-a8b0963a.md) |
 | peers/peerjs-server | partial | 2026-02-27T01:15:52Z | [open](../records/video-peers-peerjs-server-1430a997.md) |
-| rabbitmq/rabbitmq-server | partial | 2026-09-03T17:08:29Z | [open](../records/video-rabbitmq-rabbitmq-server-8ca6cfe2.md) |
+| rabbitmq/rabbitmq-server | partial | 2026-09-04T13:11:19Z | [open](../records/video-rabbitmq-rabbitmq-server-8ca6cfe2.md) |
 | Red5/red5-server | partial | 2026-08-25T15:04:26Z | [open](../records/video-red5-red5-server-ae8c8a08.md) |
 | SPlayer-Dev/SPlayer | partial | 2026-06-10T03:56:42Z | [open](../records/video-splayer-dev-splayer-58499ce0.md) |
 
@@ -516,7 +544,9 @@ Records: `462`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | emertozd/Compose-Material-3-Expressive-Catalog | partial | 2026-08-25T13:27:09Z | [open](../records/catalogs-emertozd-compose-material-3-expressive-catalog-37be1c96.md) |
+| expressjs/serve-index | partial | 2026-08-05T14:00:57Z | [open](../records/catalogs-expressjs-serve-index-a5f99f53.md) |
 | fabiodalez-dev/Pinakes | partial | 2026-09-03T16:34:05Z | [open](../records/catalogs-fabiodalez-dev-pinakes-55aa7480.md) |
+| sergiisyrovatchenko/SQLIndexManager | partial | 2026-08-24T17:58:45Z | [open](../records/catalogs-sergiisyrovatchenko-sqlindexmanager-c47bdf29.md) |
 | zyegfryed/django-statici18n | partial | 2026-09-02T17:13:48Z | [open](../records/catalogs-zyegfryed-django-statici18n-7d8a9ed5.md) |
 
 ## Magazines
@@ -525,7 +555,7 @@ Records: `462`
 | --- | --- | --- | --- |
 | arneb/django-campaign | partial | 2023-11-05T07:55:01Z | [open](../records/magazines-arneb-django-campaign-acca3d0d.md) |
 | benji6/moodtracker | partial | 2026-09-01T12:23:53Z | [open](../records/magazines-benji6-moodtracker-844d4a49.md) |
-| DenserMeerkat/June | partial | 2026-08-30T14:03:28Z | [open](../records/magazines-densermeerkat-june-9f006367.md) |
+| DenserMeerkat/June | partial | 2026-09-04T11:25:00Z | [open](../records/magazines-densermeerkat-june-9f006367.md) |
 | russmiles/life-preserver-introductory-article-developer-magazine | partial | 2013-10-16T14:30:28Z | [open](../records/magazines-russmiles-life-preserver-introductory-article-developer-magazine-18492317.md) |
 | sergeyyarkov/digital-store | unknown | github_search_does_not_include_release_date | [open](../records/magazines-sergeyyarkov-digital-store-9dc6b702.md) |
 
@@ -565,7 +595,7 @@ Records: `462`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | alchemy-swift/alchemy | partial | 2025-11-07T23:57:58Z | [open](../records/swift-alchemy-swift-alchemy-6ca3c9b1.md) |
-| apple/swift-log | partial | 2026-09-03T16:56:50Z | [open](../records/swift-apple-swift-log-9120ca11.md) |
+| apple/swift-log | partial | 2026-09-04T09:08:58Z | [open](../records/swift-apple-swift-log-9120ca11.md) |
 | apple/swift-metrics | partial | 2026-08-31T09:36:38Z | [open](../records/swift-apple-swift-metrics-38873b0e.md) |
 | ArtSabintsev/Guitar | partial | 2024-06-20T02:03:44Z | [open](../records/swift-artsabintsev-guitar-edf44630.md) |
 | brokenhandsio/swift-webauthn | partial | 2026-07-04T01:31:20Z | [open](../records/swift-brokenhandsio-swift-webauthn-17084b06.md) |
@@ -598,7 +628,7 @@ Records: `462`
 | dbgate/dbgate | partial | 2026-09-02T13:16:29Z | [open](../records/databases-dbgate-dbgate-67fc8232.md) |
 | doableware/djongo | partial | 2026-09-01T12:40:36Z | [open](../records/databases-doableware-djongo-55b89aa7.md) |
 | dotnetcore/FreeSql | partial | 2026-07-31T17:52:16Z | [open](../records/databases-dotnetcore-freesql-be272c12.md) |
-| googleapis/mcp-toolbox | partial | 2026-09-03T21:00:22Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
+| googleapis/mcp-toolbox | partial | 2026-09-04T13:19:28Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
 | lionheart/django-pyodbc | partial | 2023-01-29T16:42:06Z | [open](../records/databases-lionheart-django-pyodbc-c6078181.md) |
 | neondatabase/neon | partial | 2026-08-31T11:03:14Z | [open](../records/databases-neondatabase-neon-3c375148.md) |
 | parse-community/parse-server | partial | 2026-09-03T00:13:59Z | [open](../records/databases-parse-community-parse-server-9d5b6dd7.md) |
