@@ -9,15 +9,15 @@ Records: `1072`
 ## Category Index
 
 [Api Abi Checker (213)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (191)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (552)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (191)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (553)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (88)](concurrency-parallelism.md) · [Configuration (125)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (172)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (884)](database-datastore.md) · [Datetime (213)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1533)](filesystem-os.md) · [Formatter (632)](formatter.md)
 [Framework (61)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (353)](game-engine-game-dev.md) · [Ide Editor Integration (1413)](ide-editor-integration.md)
-[Image Audio Dsp (416)](image-audio-dsp.md) · [Interop Bindings (60)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
-[Language Server (28)](language-server.md) · [Language Specification (1421)](language-specification.md) · [Library (5473)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Image Audio Dsp (416)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
+[Language Server (28)](language-server.md) · [Language Specification (1421)](language-specification.md) · [Library (5475)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (737)](machine-learning.md)
 [Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1014)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (435)](package-manager.md) · **[Parser Lexer Ast (1072)](parser-lexer-ast.md)** · [Precommit Ci Quality (294)](precommit-ci-quality.md)
@@ -593,7 +593,7 @@ Records: `1072`
 | oktoast | 3.4.0 | 2023-11-17T07:37:04.781812Z | [open](../records/dart-oktoast-695e2783.md) |
 | package_rename | 1.10.1 | 2025-12-04T18:38:50.950663Z | [open](../records/dart-package-rename-37869553.md) |
 | pasteboard | 0.5.0 | 2026-02-24T03:09:18.426849Z | [open](../records/dart-pasteboard-fc86cbcb.md) |
-| pdfrx | 2.5.0 | 2026-08-27T15:44:20.310240Z | [open](../records/dart-pdfrx-292df18d.md) |
+| pdfrx | 2.6.1 | 2026-09-04T17:57:08.145277Z | [open](../records/dart-pdfrx-292df18d.md) |
 | phone_numbers_parser | 9.0.26 | 2026-09-01T00:34:26.060864Z | [open](../records/dart-phone-numbers-parser-b6b27fe8.md) |
 | qr_flutter | 4.1.0 | 2023-05-14T17:48:40.350369Z | [open](../records/dart-qr-flutter-1ca2e5e2.md) |
 | swagger_parser | 1.44.2 | 2026-09-01T10:16:51.778078Z | [open](../records/dart-swagger-parser-440e5e1f.md) |
@@ -609,12 +609,12 @@ Records: `1072`
 | go.gary.cool/diecast | v1.17.35 | 2026-08-30T14:10:05.638889Z | [open](../records/go-go-gary-cool-diecast-e5dd52c7.md) |
 | gogf/gf | partial | 2026-09-04T03:14:29Z | [open](../records/go-gogf-gf-cf9bbe8f.md) |
 | gomods/athens | partial | 2026-09-02T07:53:04Z | [open](../records/go-gomods-athens-5ff0b837.md) |
-| GopeedLab/gopeed | unknown | not_a_go_module_path | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
-| gravitational/teleport | unknown | not_a_go_module_path | [open](../records/go-gravitational-teleport-6a32fe26.md) |
-| HyNetworks/hysteria | unknown | not_a_go_module_path | [open](../records/go-hynetworks-hysteria-6f37132d.md) |
-| kovidgoyal/kitty | unknown | not_a_go_module_path | [open](../records/go-kovidgoyal-kitty-9cff0795.md) |
-| praetorian-inc/nerva | unknown | not_a_go_module_path | [open](../records/go-praetorian-inc-nerva-a2849190.md) |
-| zincsearch/zincsearch | unknown | not_a_go_module_path | [open](../records/go-zincsearch-zincsearch-189bf366.md) |
+| GopeedLab/gopeed | partial | 2026-09-04T11:35:15Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
+| gravitational/teleport | partial | 2026-09-03T09:44:53Z | [open](../records/go-gravitational-teleport-6a32fe26.md) |
+| HyNetworks/hysteria | partial | 2026-08-31T06:55:46Z | [open](../records/go-hynetworks-hysteria-6f37132d.md) |
+| kovidgoyal/kitty | partial | 2026-09-04T15:35:15Z | [open](../records/go-kovidgoyal-kitty-9cff0795.md) |
+| praetorian-inc/nerva | partial | 2026-09-04T14:38:22Z | [open](../records/go-praetorian-inc-nerva-a2849190.md) |
+| zincsearch/zincsearch | partial | 2026-06-09T05:30:16Z | [open](../records/go-zincsearch-zincsearch-189bf366.md) |
 
 ## Starlark
 
@@ -641,7 +641,7 @@ Records: `1072`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AstrBotDevs/AstrBot | partial | 2026-09-04T07:13:41Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
-| HKUDS/LightRAG | partial | 2026-09-04T15:42:31Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
+| HKUDS/LightRAG | partial | 2026-09-04T17:46:36Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
 | labring/FastGPT | partial | 2026-09-04T10:06:15Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Computer Graphics Software

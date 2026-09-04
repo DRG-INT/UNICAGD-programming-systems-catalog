@@ -9,15 +9,15 @@ Records: `884`
 ## Category Index
 
 [Api Abi Checker (213)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (191)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (552)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (191)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (553)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (88)](concurrency-parallelism.md) · [Configuration (125)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (172)](cryptography.md) · [Data Science (37)](data-science.md) · **[Database Datastore (884)](database-datastore.md)** · [Datetime (213)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1533)](filesystem-os.md) · [Formatter (632)](formatter.md)
 [Framework (61)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (353)](game-engine-game-dev.md) · [Ide Editor Integration (1413)](ide-editor-integration.md)
-[Image Audio Dsp (416)](image-audio-dsp.md) · [Interop Bindings (60)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
-[Language Server (28)](language-server.md) · [Language Specification (1421)](language-specification.md) · [Library (5473)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Image Audio Dsp (416)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
+[Language Server (28)](language-server.md) · [Language Specification (1421)](language-specification.md) · [Library (5475)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (737)](machine-learning.md)
 [Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1014)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (435)](package-manager.md) · [Parser Lexer Ast (1072)](parser-lexer-ast.md) · [Precommit Ci Quality (294)](precommit-ci-quality.md)
@@ -169,7 +169,7 @@ Records: `884`
 | @paulcbetts/mime-db | 1.22.4 | 2016-04-12T17:19:26.295Z | [open](../records/node-js-javascript-paulcbetts-mime-db-019b03f1.md) |
 | @payloadcms/drizzle | 3.88.0 | 2026-08-11T20:55:18.595Z | [open](../records/node-js-javascript-payloadcms-drizzle-2f19cf5b.md) |
 | @pgpm/database-jobs | 0.44.0 | 2026-08-31T23:45:57.679Z | [open](../records/node-js-javascript-pgpm-database-jobs-3a4fc2ff.md) |
-| @pgpmjs/export | 1.20.8 | 2026-09-03T07:27:10.984Z | [open](../records/node-js-javascript-pgpmjs-export-abf7ded3.md) |
+| @pgpmjs/export | 1.20.9 | 2026-09-04T16:42:09.883Z | [open](../records/node-js-javascript-pgpmjs-export-abf7ded3.md) |
 | @planetscale/database | 1.20.1 | 2026-03-25T21:22:50.213Z | [open](../records/node-js-javascript-planetscale-database-65a792c6.md) |
 | @prisma/adapter-planetscale | 7.10.0 | 2026-08-25T12:38:29.518Z | [open](../records/node-js-javascript-prisma-adapter-planetscale-fec84c62.md) |
 | @prosopo/types-database | 5.4.0 | 2026-09-02T22:42:09.575Z | [open](../records/node-js-javascript-prosopo-types-database-4163c4a1.md) |
@@ -382,7 +382,7 @@ Records: `884`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| gofr-dev/gofr | unknown | not_a_go_module_path | [open](../records/go-gofr-dev-gofr-9cdbe495.md) |
+| gofr-dev/gofr | partial | 2026-09-04T12:04:30Z | [open](../records/go-gofr-dev-gofr-9cdbe495.md) |
 
 ## "aim's"
 

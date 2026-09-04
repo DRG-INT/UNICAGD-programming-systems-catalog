@@ -9,15 +9,15 @@ Records: `737`
 ## Category Index
 
 [Api Abi Checker (213)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (191)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (552)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (191)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (553)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (88)](concurrency-parallelism.md) · [Configuration (125)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (172)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (884)](database-datastore.md) · [Datetime (213)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1533)](filesystem-os.md) · [Formatter (632)](formatter.md)
 [Framework (61)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (353)](game-engine-game-dev.md) · [Ide Editor Integration (1413)](ide-editor-integration.md)
-[Image Audio Dsp (416)](image-audio-dsp.md) · [Interop Bindings (60)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
-[Language Server (28)](language-server.md) · [Language Specification (1421)](language-specification.md) · [Library (5473)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Image Audio Dsp (416)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
+[Language Server (28)](language-server.md) · [Language Specification (1421)](language-specification.md) · [Library (5475)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · **[Machine Learning (737)](machine-learning.md)**
 [Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1014)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (435)](package-manager.md) · [Parser Lexer Ast (1072)](parser-lexer-ast.md) · [Precommit Ci Quality (294)](precommit-ci-quality.md)
@@ -369,7 +369,7 @@ Records: `737`
 | amazonka-ml | 2.0 | 2023-07-27T21:42:01Z | [open](../records/haskell-amazonka-ml-78adde35.md) |
 | amazonka-route53-domains | 2.0 | 2023-07-27T21:45:24Z | [open](../records/haskell-amazonka-route53-domains-dd60cddc.md) |
 | blaze-html | 0.9.2.0 | 2024-03-06T08:07:25Z | [open](../records/haskell-blaze-html-7da048da.md) |
-| bugsnag-wai | 1.0.1.2 | 2026-06-01T20:49:41Z | [open](../records/haskell-bugsnag-wai-3c1467be.md) |
+| bugsnag-wai | 1.0.0.4 | 2026-09-04T16:18:11Z | [open](../records/haskell-bugsnag-wai-3c1467be.md) |
 | cairo | 0.13.12.0 | 2025-03-20T08:43:33Z | [open](../records/haskell-cairo-061b9b85.md) |
 | constraints | 0.14.4 | 2026-01-26T18:08:18Z | [open](../records/haskell-constraints-95ecc142.md) |
 | containers | 0.8 | 2025-03-01T13:03:33Z | [open](../records/haskell-containers-50dfba8c.md) |
@@ -453,16 +453,16 @@ Records: `737`
 | --- | --- | --- | --- |
 | bitbucket.org/itotcca/tx-rails | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-bitbucket-org-itotcca-tx-rails-34e72343.md) |
 | bufanyun/hotgo | partial | 2026-05-09T10:54:17Z | [open](../records/go-bufanyun-hotgo-bf57dfd4.md) |
-| flipped-aurora/gin-vue-admin | unknown | not_a_go_module_path | [open](../records/go-flipped-aurora-gin-vue-admin-734f09c8.md) |
+| flipped-aurora/gin-vue-admin | partial | 2026-09-04T08:38:30Z | [open](../records/go-flipped-aurora-gin-vue-admin-734f09c8.md) |
 | ggwhite/go-masker | partial | 2026-07-07T14:47:27Z | [open](../records/go-ggwhite-go-masker-2ecaacf4.md) |
 | gitee.com/open-mmlab/mmcv | v1.4.7 | 2026-08-30T16:32:50.707415Z | [open](../records/go-gitee-com-open-mmlab-mmcv-9c44c07f.md) |
 | gitee.com/wailsapp/wails/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gitee-com-wailsapp-wails-v3-3c5b4a42.md) |
 | infinite-go.kontain.me | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-infinite-go-kontain-me-84a68d60.md) |
 | latere.ai/x/ci-gate | v0.5.0 | 2026-08-30T10:55:18.342292Z | [open](../records/go-latere-ai-x-ci-gate-4bfeb005.md) |
 | proto.prod.wtf/gen/go/container-platform/core/protocolbuffers/go | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-proto-prod-wtf-gen-go-container-platform-core-protocolbuffers-go-32ee32ba.md) |
-| samber/lo | unknown | not_a_go_module_path | [open](../records/go-samber-lo-293e189e.md) |
-| satmihir/fair | unknown | not_a_go_module_path | [open](../records/go-satmihir-fair-5ee21153.md) |
-| Tencent/WeKnora | unknown | not_a_go_module_path | [open](../records/go-tencent-weknora-254a9260.md) |
+| samber/lo | partial | 2026-09-03T16:52:51Z | [open](../records/go-samber-lo-293e189e.md) |
+| satmihir/fair | partial | 2026-07-06T13:49:48Z | [open](../records/go-satmihir-fair-5ee21153.md) |
+| Tencent/WeKnora | partial | 2026-09-04T09:35:26Z | [open](../records/go-tencent-weknora-254a9260.md) |
 
 ## "aim's"
 
@@ -474,8 +474,8 @@ Records: `737`
 | datawhalechina/happy-llm | partial | 2026-08-08T17:18:48Z | [open](../records/aim-s-datawhalechina-happy-llm-00d4ee33.md) |
 | datawhalechina/hello-agents | partial | 2026-09-04T09:03:14Z | [open](../records/aim-s-datawhalechina-hello-agents-7c22b3b1.md) |
 | datawhalechina/self-llm | partial | 2026-08-26T06:33:41Z | [open](../records/aim-s-datawhalechina-self-llm-f636cd5d.md) |
-| firecrawl/firecrawl | partial | 2026-09-04T17:17:14Z | [open](../records/aim-s-firecrawl-firecrawl-e23e3125.md) |
-| HKUDS/Vibe-Trading | partial | 2026-09-04T07:22:26Z | [open](../records/aim-s-hkuds-vibe-trading-eb525e68.md) |
+| firecrawl/firecrawl | partial | 2026-09-04T17:27:42Z | [open](../records/aim-s-firecrawl-firecrawl-e23e3125.md) |
+| HKUDS/Vibe-Trading | partial | 2026-09-04T18:06:26Z | [open](../records/aim-s-hkuds-vibe-trading-eb525e68.md) |
 | Hugging Face Transformers | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-hugging-face-transformers-9b7d820e.md) |
 | ItzCrazyKns/Vane | partial | 2026-09-01T14:12:12Z | [open](../records/aim-s-itzcrazykns-vane-331d2e53.md) |
 | janhq/jan | partial | 2026-09-04T09:20:44Z | [open](../records/aim-s-janhq-jan-f71b49a2.md) |
@@ -487,11 +487,11 @@ Records: `737`
 | linshenkx/prompt-optimizer | partial | 2026-08-26T08:07:53Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
 | lyogavin/airllm | partial | 2026-09-04T06:24:53Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-04T01:10:46Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | partial | 2026-09-04T17:05:50Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
-| onyx-dot-app/onyx | partial | 2026-09-04T17:02:12Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
+| NousResearch/hermes-agent | partial | 2026-09-04T18:19:28Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| onyx-dot-app/onyx | partial | 2026-09-04T18:20:41Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-04T15:58:50Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-02T00:50:20Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
-| OpenHands/OpenHands | partial | 2026-09-04T17:18:05Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
+| OpenHands/OpenHands | partial | 2026-09-04T17:46:49Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
 | PyTorch | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-pytorch-ce083d68.md) |
 | rasbt/LLMs-from-scratch | partial | 2026-09-01T13:49:43Z | [open](../records/aim-s-rasbt-llms-from-scratch-2200f8f4.md) |
 | run-llama/llama_index | partial | 2026-09-03T03:05:30Z | [open](../records/aim-s-run-llama-llama-index-f8381d04.md) |
@@ -501,7 +501,7 @@ Records: `737`
 | TauricResearch/TradingAgents | partial | 2026-09-01T05:38:45Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | partial | 2026-09-04T17:18:02Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| unslothai/unsloth | partial | 2026-09-04T18:16:31Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
 | VectifyAI/PageIndex | partial | 2026-09-04T07:30:47Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
 | virgiliojr94/book-to-skill | partial | 2026-09-01T14:51:58Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 

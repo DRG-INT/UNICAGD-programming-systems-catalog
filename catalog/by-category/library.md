@@ -1,6 +1,6 @@
 # Library
 
-Records: `5473`
+Records: `5475`
 
 ## Navigation
 
@@ -9,15 +9,15 @@ Records: `5473`
 ## Category Index
 
 [Api Abi Checker (213)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (191)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (552)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (191)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (553)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (88)](concurrency-parallelism.md) · [Configuration (125)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (172)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (884)](database-datastore.md) · [Datetime (213)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1533)](filesystem-os.md) · [Formatter (632)](formatter.md)
 [Framework (61)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (353)](game-engine-game-dev.md) · [Ide Editor Integration (1413)](ide-editor-integration.md)
-[Image Audio Dsp (416)](image-audio-dsp.md) · [Interop Bindings (60)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
-[Language Server (28)](language-server.md) · [Language Specification (1421)](language-specification.md) · **[Library (5473)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Image Audio Dsp (416)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
+[Language Server (28)](language-server.md) · [Language Specification (1421)](language-specification.md) · **[Library (5475)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (737)](machine-learning.md)
 [Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1014)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (435)](package-manager.md) · [Parser Lexer Ast (1072)](parser-lexer-ast.md) · [Precommit Ci Quality (294)](precommit-ci-quality.md)
@@ -2538,7 +2538,7 @@ Records: `5473`
 | campsis | 1.9.0 | 2026-08-05 07:50:02 UTC | [open](../records/r-campsis-75d309aa.md) |
 | cansim | 0.5.0 | 2026-08-19 21:50:02 UTC | [open](../records/r-cansim-9b8d09cf.md) |
 | cantrends | 0.1.0 | 2026-08-26 20:00:08 UTC | [open](../records/r-cantrends-d6bd7954.md) |
-| cardinalfda | 0.2.0 | 2026-08-04 09:50:02 UTC | [open](../records/r-cardinalfda-cb361987.md) |
+| cardinalfda | 0.3.0 | 2026-09-04 16:30:08 UTC | [open](../records/r-cardinalfda-cb361987.md) |
 | CarletonStats | 2.3 | 2026-08-28 17:00:16 UTC | [open](../records/r-carletonstats-3f2e16bd.md) |
 | causalDT | 1.0.1 | 2026-08-28 20:00:08 UTC | [open](../records/r-causaldt-660c05bf.md) |
 | causalsim | 0.1.0 | 2026-08-30 10:00:15 UTC | [open](../records/r-causalsim-1a014805.md) |
@@ -2816,6 +2816,7 @@ Records: `5473`
 | party | 1.3-23 | 2026-08-31 22:00:26 UTC | [open](../records/r-party-c30bb407.md) |
 | pb210dating | 1.0.1 | 2026-08-21 13:30:02 UTC | [open](../records/r-pb210dating-32c83aff.md) |
 | pbapply | 1.7-5 | 2026-09-01 08:20:12 UTC | [open](../records/r-pbapply-449da90d.md) |
+| PBD | 1.6 | 2026-09-04 16:40:02 UTC | [open](../records/r-pbd-b73000ed.md) |
 | pCalibrate | 0.2-2 | 2026-08-26 20:40:03 UTC | [open](../records/r-pcalibrate-9dc2969a.md) |
 | pcatR | 1.0.1 | 2026-09-03 11:40:02 UTC | [open](../records/r-pcatr-ae7e7793.md) |
 | pdftools | 3.9.1 | 2026-09-01 10:20:02 UTC | [open](../records/r-pdftools-edd0e31f.md) |
@@ -3733,6 +3734,7 @@ Records: `5473`
 | sdl2 | 2.5.6.1 | 2026-08-31T06:33:44Z | [open](../records/haskell-sdl2-595d37f1.md) |
 | secp256k1 | 1.1.2 | 2018-09-02T20:35:48Z | [open](../records/haskell-secp256k1-67f02385.md) |
 | secretspec | 0.20.0 | 2026-08-31T18:05:39Z | [open](../records/haskell-secretspec-dd9d987d.md) |
+| securemem | 0.1.10 | 2018-02-27T05:39:40Z | [open](../records/haskell-securemem-eb519253.md) |
 | selda | 0.5.2.1 | 2026-01-08T08:33:45Z | [open](../records/haskell-selda-c29bd3d4.md) |
 | semigroupoids | 6.0.2 | 2026-01-10T20:49:26Z | [open](../records/haskell-semigroupoids-ec3e2df3.md) |
 | semigroups | 0.20.1 | 2026-01-10T20:32:00Z | [open](../records/haskell-semigroups-1dd26ce3.md) |
@@ -3938,11 +3940,11 @@ Records: `5473`
 | yi | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yi-3b78b64a.md) |
 | Z-Data | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-data-ad2a6ebb.md) |
 | Z-IO | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-io-e37841a7.md) |
-| zeolite-lang | 0.24.1.0 | 2024-01-08T01:25:04Z | [open](../records/haskell-zeolite-lang-121149cb.md) |
-| zeromq4-haskell | 0.8.0 | 2019-03-03T15:15:33Z | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
-| zlib | 0.7.1.1 | 2025-09-06T12:21:07Z | [open](../records/haskell-zlib-2a0db053.md) |
+| zeolite-lang | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeolite-lang-121149cb.md) |
+| zeromq4-haskell | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
+| zlib | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zlib-2a0db053.md) |
 | zoom-cache | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoom-cache-f1ef611e.md) |
-| zoovisitor | 0.2.7.0 | 2024-05-24T09:11:31Z | [open](../records/haskell-zoovisitor-25533034.md) |
+| zoovisitor | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoovisitor-25533034.md) |
 
 ## Octave
 
@@ -4140,7 +4142,7 @@ Records: `5473`
 | codeberg.org/go-hep/hep.git | v0.27.0 | 2026-08-30T10:55:18.161122Z | [open](../records/go-codeberg-org-go-hep-hep-git-29878e71.md) |
 | codeberg.org/rimu/pyfedi | v1.6.9 | 2026-08-30T16:29:43.672078Z | [open](../records/go-codeberg-org-rimu-pyfedi-53519dff.md) |
 | CycloneDX/cyclonedx-gomod | partial | 2026-09-04T09:52:27Z | [open](../records/go-cyclonedx-cyclonedx-gomod-24572c1d.md) |
-| darius-khll/golang-developer-roadmap | unknown | not_a_go_module_path | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
+| darius-khll/golang-developer-roadmap | partial | 2023-02-13T08:08:20Z | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
 | gbrlsnchs/jwt | partial | 2026-02-20T19:55:17Z | [open](../records/go-gbrlsnchs-jwt-9cb26411.md) |
 | gethugothemes/hugo-modules | partial | 2026-07-01T05:48:56Z | [open](../records/go-gethugothemes-hugo-modules-1f48ce7f.md) |
 | git.scuroneko.dev/ScuroNeko/Laniakea | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-git-scuroneko-dev-scuroneko-laniakea-6c4ff9e7.md) |
@@ -4155,7 +4157,7 @@ Records: `5473`
 | gitlab.com/sequoia-pgp/sequoia-gpg-agent | v0.3.1 | 2026-08-30T15:31:10.349155Z | [open](../records/go-gitlab-com-sequoia-pgp-sequoia-gpg-agent-5b376c5c.md) |
 | gitlab.com/sequoia-pgp/sequoia.git | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gitlab-com-sequoia-pgp-sequoia-git-723cf535.md) |
 | gitlab.com/umbrellazone/smartacme | v1.0.9 | 2026-08-30T10:07:20.216337Z | [open](../records/go-gitlab-com-umbrellazone-smartacme-de305f20.md) |
-| go-ffmt/ffmt | unknown | not_a_go_module_path | [open](../records/go-go-ffmt-ffmt-70684860.md) |
+| go-ffmt/ffmt | partial | 2021-11-19T15:22:56Z | [open](../records/go-go-ffmt-ffmt-70684860.md) |
 | go.cozymore.dev/krkstops | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-go-cozymore-dev-krkstops-34ccbe5a.md) |
 | go.gary.cool/go-stockutil | v1.8.53 | 2026-08-30T16:30:21.724665Z | [open](../records/go-go-gary-cool-go-stockutil-dd0c06ad.md) |
 | go.lumeweb.com/portal-plugin-billing | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-go-lumeweb-com-portal-plugin-billing-4d35205b.md) |
@@ -4164,8 +4166,8 @@ Records: `5473`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | unknown | not_a_go_module_path | [open](../records/go-infisical-infisical-a6ff8f22.md) |
-| mustafaturan/bus | unknown | not_a_go_module_path | [open](../records/go-mustafaturan-bus-d868b092.md) |
+| Infisical/infisical | partial | 2026-09-04T18:21:07Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
 | Narasimha1997/ratelimiter | partial | 2022-10-31T12:07:17Z | [open](../records/go-narasimha1997-ratelimiter-5630e795.md) |
@@ -4177,8 +4179,8 @@ Records: `5473`
 | rsc.io/cmd/gofixerr | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-rsc-io-cmd-gofixerr-73d47a44.md) |
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
-| sun8911879/shadowsocksR | unknown | not_a_go_module_path | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | unknown | not_a_go_module_path | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
+| temporalio/temporal | partial | 2026-09-04T17:56:37Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 

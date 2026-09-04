@@ -9,15 +9,15 @@ Records: `473`
 ## Category Index
 
 [Api Abi Checker (213)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (191)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (552)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (191)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (553)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (88)](concurrency-parallelism.md) · [Configuration (125)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (172)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (884)](database-datastore.md) · [Datetime (213)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1533)](filesystem-os.md) · [Formatter (632)](formatter.md)
 [Framework (61)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (353)](game-engine-game-dev.md) · [Ide Editor Integration (1413)](ide-editor-integration.md)
-[Image Audio Dsp (416)](image-audio-dsp.md) · [Interop Bindings (60)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
-[Language Server (28)](language-server.md) · [Language Specification (1421)](language-specification.md) · [Library (5473)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Image Audio Dsp (416)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
+[Language Server (28)](language-server.md) · [Language Specification (1421)](language-specification.md) · [Library (5475)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (737)](machine-learning.md)
 [Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1014)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (435)](package-manager.md) · [Parser Lexer Ast (1072)](parser-lexer-ast.md) · [Precommit Ci Quality (294)](precommit-ci-quality.md)
@@ -166,7 +166,7 @@ Records: `473`
 | @callstack/repack-dev-server | 5.3.0 | 2026-08-05T09:11:36.073Z | [open](../records/node-js-javascript-callstack-repack-dev-server-631ff63b.md) |
 | @capgo/cli | 8.47.0 | 2026-09-03T15:02:51.134Z | [open](../records/node-js-javascript-capgo-cli-8e98e39d.md) |
 | @cloudflare/mcp-server-cloudflare | 0.2.0 | 2025-03-14T10:41:19.350Z | [open](../records/node-js-javascript-cloudflare-mcp-server-cloudflare-3b1ce558.md) |
-| @constructive-io/graphql-server | 5.21.0 | 2026-09-03T07:27:08.155Z | [open](../records/node-js-javascript-constructive-io-graphql-server-5edba745.md) |
+| @constructive-io/graphql-server | 5.22.0 | 2026-09-04T16:42:07.323Z | [open](../records/node-js-javascript-constructive-io-graphql-server-5edba745.md) |
 | @contentful/mcp-server | 1.19.0 | 2026-09-01T20:20:27.760Z | [open](../records/node-js-javascript-contentful-mcp-server-f8c3e0db.md) |
 | @currents/mcp | 2.4.2 | 2026-08-16T09:54:54.234Z | [open](../records/node-js-javascript-currents-mcp-da022c62.md) |
 | @data-elements/database | 0.3.6 | 2026-08-22T04:54:10.956Z | [open](../records/node-js-javascript-data-elements-database-84055e3f.md) |
@@ -207,7 +207,7 @@ Records: `473`
 | @osohq/dev-server | 0.0.1-alpha.24 | 2026-07-17T14:34:26.307Z | [open](../records/node-js-javascript-osohq-dev-server-08c8f1e4.md) |
 | @paperclipai/mcp-server | 2026.831.1 | 2026-09-02T04:45:33.153Z | [open](../records/node-js-javascript-paperclipai-mcp-server-6008c169.md) |
 | @percy/cli-exec | 1.32.7 | 2026-08-20T12:28:40.030Z | [open](../records/node-js-javascript-percy-cli-exec-36de9cf7.md) |
-| @pgpmjs/server-utils | 3.27.3 | 2026-09-03T07:26:48.479Z | [open](../records/node-js-javascript-pgpmjs-server-utils-fab8bc0e.md) |
+| @pgpmjs/server-utils | 3.27.4 | 2026-09-04T16:41:49.651Z | [open](../records/node-js-javascript-pgpmjs-server-utils-fab8bc0e.md) |
 | @pollyjs/node-server | 6.0.6 | 2023-07-20T16:37:35.198Z | [open](../records/node-js-javascript-pollyjs-node-server-5c241e82.md) |
 | @pondwader/socks5-server | 1.0.10 | 2024-06-29T10:33:38.995Z | [open](../records/node-js-javascript-pondwader-socks5-server-711c6d2c.md) |
 | @promster/server | 16.0.0 | 2026-08-30T17:52:36.398Z | [open](../records/node-js-javascript-promster-server-55eaed1b.md) |
@@ -392,7 +392,7 @@ Records: `473`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | JGLTechnologies/gin-rate-limit | partial | 2026-08-14T03:34:23Z | [open](../records/go-jgltechnologies-gin-rate-limit-c93a4f16.md) |
-| openfaas/faas | unknown | not_a_go_module_path | [open](../records/go-openfaas-faas-7fddd6b7.md) |
+| openfaas/faas | partial | 2026-07-02T09:09:13Z | [open](../records/go-openfaas-faas-7fddd6b7.md) |
 
 ## Computer Graphics Software
 

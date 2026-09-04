@@ -1,6 +1,6 @@
 # Cli
 
-Records: `552`
+Records: `553`
 
 ## Navigation
 
@@ -9,15 +9,15 @@ Records: `552`
 ## Category Index
 
 [Api Abi Checker (213)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (191)](benchmarking.md) · [Build System (972)](build-system.md) · **[Cli (552)](cli.md)** · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (191)](benchmarking.md) · [Build System (972)](build-system.md) · **[Cli (553)](cli.md)** · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (88)](concurrency-parallelism.md) · [Configuration (125)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (172)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (884)](database-datastore.md) · [Datetime (213)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1533)](filesystem-os.md) · [Formatter (632)](formatter.md)
 [Framework (61)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (353)](game-engine-game-dev.md) · [Ide Editor Integration (1413)](ide-editor-integration.md)
-[Image Audio Dsp (416)](image-audio-dsp.md) · [Interop Bindings (60)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
-[Language Server (28)](language-server.md) · [Language Specification (1421)](language-specification.md) · [Library (5473)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Image Audio Dsp (416)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
+[Language Server (28)](language-server.md) · [Language Specification (1421)](language-specification.md) · [Library (5475)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (737)](machine-learning.md)
 [Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1014)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (435)](package-manager.md) · [Parser Lexer Ast (1072)](parser-lexer-ast.md) · [Precommit Ci Quality (294)](precommit-ci-quality.md)
@@ -475,6 +475,7 @@ Records: `552`
 | RClickhouse | 0.6.12 | 2026-08-26 21:10:25 UTC | [open](../records/r-rclickhouse-447484bd.md) |
 | RobinCar2 | 0.2.4 | 2026-08-22 17:30:02 UTC | [open](../records/r-robincar2-5ab46259.md) |
 | selecta | 0.6.1 | 2026-08-22 18:40:02 UTC | [open](../records/r-selecta-5173bf39.md) |
+| TrialSimulator | 1.35.8 | 2026-09-04 17:00:02 UTC | [open](../records/r-trialsimulator-683f48f5.md) |
 
 ## Haskell
 
@@ -515,17 +516,17 @@ Records: `552`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| golang-migrate/migrate | unknown | not_a_go_module_path | [open](../records/go-golang-migrate-migrate-c00bf5c0.md) |
-| JanDeDobbeleer/oh-my-posh | unknown | not_a_go_module_path | [open](../records/go-jandedobbeleer-oh-my-posh-0e751a91.md) |
-| yorukot/superfile | unknown | not_a_go_module_path | [open](../records/go-yorukot-superfile-1e2c0bb7.md) |
+| golang-migrate/migrate | partial | 2026-08-31T23:57:55Z | [open](../records/go-golang-migrate-migrate-c00bf5c0.md) |
+| JanDeDobbeleer/oh-my-posh | partial | 2026-09-04T05:13:45Z | [open](../records/go-jandedobbeleer-oh-my-posh-0e751a91.md) |
+| yorukot/superfile | partial | 2026-09-03T19:06:48Z | [open](../records/go-yorukot-superfile-1e2c0bb7.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-04T17:16:34Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-04T18:15:16Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-04T17:12:16Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-04T18:09:48Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 

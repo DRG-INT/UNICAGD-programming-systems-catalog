@@ -9,15 +9,15 @@ Records: `336`
 ## Category Index
 
 [Api Abi Checker (213)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (191)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (552)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (191)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (553)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (88)](concurrency-parallelism.md) · [Configuration (125)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (172)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (884)](database-datastore.md) · [Datetime (213)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1533)](filesystem-os.md) · [Formatter (632)](formatter.md)
 [Framework (61)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (353)](game-engine-game-dev.md) · [Ide Editor Integration (1413)](ide-editor-integration.md)
-[Image Audio Dsp (416)](image-audio-dsp.md) · [Interop Bindings (60)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
-[Language Server (28)](language-server.md) · [Language Specification (1421)](language-specification.md) · [Library (5473)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Image Audio Dsp (416)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
+[Language Server (28)](language-server.md) · [Language Specification (1421)](language-specification.md) · [Library (5475)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (737)](machine-learning.md)
 [Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1014)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (435)](package-manager.md) · [Parser Lexer Ast (1072)](parser-lexer-ast.md) · [Precommit Ci Quality (294)](precommit-ci-quality.md)
@@ -296,7 +296,7 @@ Records: `336`
 | github.com/aws-samples/automated-security-helper | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-aws-samples-automated-security-helper-03349c19.md) |
 | github.com/Chronicle20/atlas/tools/packet-audit | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-chronicle20-atlas-tools-packet-audit-394b6cff.md) |
 | github.com/santhsecurity/keyhog | v0.5.73 | 2026-08-30T15:31:03.095809Z | [open](../records/go-github-com-santhsecurity-keyhog-0f9fa50f.md) |
-| unionlabs/union | unknown | not_a_go_module_path | [open](../records/go-unionlabs-union-93d74a53.md) |
+| unionlabs/union | partial | 2026-07-25T18:20:02Z | [open](../records/go-unionlabs-union-93d74a53.md) |
 
 ## "aim's"
 
@@ -526,7 +526,7 @@ Records: `336`
 | Shinobi-Systems/ShinobiCE | partial | 2026-03-16T12:22:45.336Z | [open](../records/repository-workplaces-shinobi-systems-shinobice-52eaee8b.md) |
 | spritely/goblins | partial | 2025-03-11T20:30:35.821Z | [open](../records/repository-workplaces-spritely-goblins-f5ed6a86.md) |
 | spritely/guile-goblins | partial | 2025-03-11T20:33:22.208Z | [open](../records/repository-workplaces-spritely-guile-goblins-fcb5eb63.md) |
-| thenewoil/website | partial | 2026-08-22T20:16:49.028Z | [open](../records/repository-workplaces-thenewoil-website-307e663b.md) |
+| thenewoil/website | partial | 2026-09-04T16:23:06.270Z | [open](../records/repository-workplaces-thenewoil-website-307e663b.md) |
 | W1nst0n/personal-security-checklist | partial | 2023-09-17T01:54:15.355Z | [open](../records/repository-workplaces-w1nst0n-personal-security-checklist-199ce38f.md) |
 | W1nst0n/universal-android-debloater | partial | 2025-04-16T18:36:29.277Z | [open](../records/repository-workplaces-w1nst0n-universal-android-debloater-e704dc31.md) |
 | W1nst0n/universal-android-debloater-rs | partial | 2022-01-05T08:29:52.093Z | [open](../records/repository-workplaces-w1nst0n-universal-android-debloater-rs-f24c99d6.md) |

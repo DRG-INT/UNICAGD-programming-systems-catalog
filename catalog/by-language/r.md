@@ -1,6 +1,6 @@
 # R
 
-Records: `1624`
+Records: `1627`
 
 ## Navigation
 
@@ -9,15 +9,15 @@ Records: `1624`
 ## Category Index
 
 [Api Abi Checker (213)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
-[Benchmarking (191)](../by-category/benchmarking.md) · [Build System (972)](../by-category/build-system.md) · [Cli (552)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (191)](../by-category/benchmarking.md) · [Build System (972)](../by-category/build-system.md) · [Cli (553)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (116)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (50)](../by-category/compression.md)
 [Concurrency Parallelism (88)](../by-category/concurrency-parallelism.md) · [Configuration (125)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (172)](../by-category/cryptography.md) · [Data Science (37)](../by-category/data-science.md) · [Database Datastore (884)](../by-category/database-datastore.md) · [Datetime (213)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (101)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
 [Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (446)](../by-category/ffi-bindings.md) · [Filesystem Os (1533)](../by-category/filesystem-os.md) · [Formatter (632)](../by-category/formatter.md)
 [Framework (61)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (353)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1413)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (416)](../by-category/image-audio-dsp.md) · [Interop Bindings (60)](../by-category/interop-bindings.md) · [Interpreter Runtime (265)](../by-category/interpreter-runtime.md) · [Jit Vm (62)](../by-category/jit-vm.md)
-[Language Server (28)](../by-category/language-server.md) · [Language Specification (1421)](../by-category/language-specification.md) · [Library (5473)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Image Audio Dsp (416)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (265)](../by-category/interpreter-runtime.md) · [Jit Vm (62)](../by-category/jit-vm.md)
+[Language Server (28)](../by-category/language-server.md) · [Language Specification (1421)](../by-category/language-specification.md) · [Library (5475)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (515)](../by-category/logging-observability.md) · [Machine Learning (737)](../by-category/machine-learning.md)
 [Math Numeric Scientific (87)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1014)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (435)](../by-category/package-manager.md) · [Parser Lexer Ast (1072)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (294)](../by-category/precommit-ci-quality.md)
@@ -130,6 +130,7 @@ Records: `1624`
 | [RClickhouse](../records/r-rclickhouse-447484bd.md) | 0.6.12 | 2026-08-26 21:10:25 UTC | registry-derived |
 | [RobinCar2](../records/r-robincar2-5ab46259.md) | 0.2.4 | 2026-08-22 17:30:02 UTC | registry-derived |
 | [selecta](../records/r-selecta-5173bf39.md) | 0.6.1 | 2026-08-22 18:40:02 UTC | registry-derived |
+| [TrialSimulator](../records/r-trialsimulator-683f48f5.md) | 1.35.8 | 2026-09-04 17:00:02 UTC | registry-derived |
 
 ### Community Reference
 
@@ -521,6 +522,7 @@ Records: `1624`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [arcgisutils](../records/r-arcgisutils-9c834bfb.md) | 0.6.1 | 2026-09-03 05:21:01 UTC | registry-derived |
+| [fz](../records/r-fz-65db3363.md) | 1.2.0 | 2026-09-04 16:30:02 UTC | registry-derived |
 | [kerasnip](../records/r-kerasnip-1cf976b9.md) | 0.2.0 | 2026-09-03 17:20:02 UTC | registry-derived |
 | [runExamplesWrapper](../records/r-runexampleswrapper-73dc6e8d.md) | 2.0 | 2026-08-28 07:00:27 UTC | registry-derived |
 
@@ -643,7 +645,7 @@ Records: `1624`
 | [campsis](../records/r-campsis-75d309aa.md) | 1.9.0 | 2026-08-05 07:50:02 UTC | registry-derived |
 | [cansim](../records/r-cansim-9b8d09cf.md) | 0.5.0 | 2026-08-19 21:50:02 UTC | registry-derived |
 | [cantrends](../records/r-cantrends-d6bd7954.md) | 0.1.0 | 2026-08-26 20:00:08 UTC | registry-derived |
-| [cardinalfda](../records/r-cardinalfda-cb361987.md) | 0.2.0 | 2026-08-04 09:50:02 UTC | registry-derived |
+| [cardinalfda](../records/r-cardinalfda-cb361987.md) | 0.3.0 | 2026-09-04 16:30:08 UTC | registry-derived |
 | [CarletonStats](../records/r-carletonstats-3f2e16bd.md) | 2.3 | 2026-08-28 17:00:16 UTC | registry-derived |
 | [causalDT](../records/r-causaldt-660c05bf.md) | 1.0.1 | 2026-08-28 20:00:08 UTC | registry-derived |
 | [causalsim](../records/r-causalsim-1a014805.md) | 0.1.0 | 2026-08-30 10:00:15 UTC | registry-derived |
@@ -921,6 +923,7 @@ Records: `1624`
 | [party](../records/r-party-c30bb407.md) | 1.3-23 | 2026-08-31 22:00:26 UTC | registry-derived |
 | [pb210dating](../records/r-pb210dating-32c83aff.md) | 1.0.1 | 2026-08-21 13:30:02 UTC | registry-derived |
 | [pbapply](../records/r-pbapply-449da90d.md) | 1.7-5 | 2026-09-01 08:20:12 UTC | registry-derived |
+| [PBD](../records/r-pbd-b73000ed.md) | 1.6 | 2026-09-04 16:40:02 UTC | registry-derived |
 | [pCalibrate](../records/r-pcalibrate-9dc2969a.md) | 0.2-2 | 2026-08-26 20:40:03 UTC | registry-derived |
 | [pcatR](../records/r-pcatr-ae7e7793.md) | 1.0.1 | 2026-09-03 11:40:02 UTC | registry-derived |
 | [pdftools](../records/r-pdftools-edd0e31f.md) | 3.9.1 | 2026-09-01 10:20:02 UTC | registry-derived |

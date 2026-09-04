@@ -9,15 +9,15 @@ Records: `740`
 ## Category Index
 
 [Api Abi Checker (213)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
-[Benchmarking (191)](../by-category/benchmarking.md) · [Build System (972)](../by-category/build-system.md) · [Cli (552)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (191)](../by-category/benchmarking.md) · [Build System (972)](../by-category/build-system.md) · [Cli (553)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (116)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (50)](../by-category/compression.md)
 [Concurrency Parallelism (88)](../by-category/concurrency-parallelism.md) · [Configuration (125)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (172)](../by-category/cryptography.md) · [Data Science (37)](../by-category/data-science.md) · [Database Datastore (884)](../by-category/database-datastore.md) · [Datetime (213)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (101)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
 [Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (446)](../by-category/ffi-bindings.md) · [Filesystem Os (1533)](../by-category/filesystem-os.md) · [Formatter (632)](../by-category/formatter.md)
 [Framework (61)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (353)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1413)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (416)](../by-category/image-audio-dsp.md) · [Interop Bindings (60)](../by-category/interop-bindings.md) · [Interpreter Runtime (265)](../by-category/interpreter-runtime.md) · [Jit Vm (62)](../by-category/jit-vm.md)
-[Language Server (28)](../by-category/language-server.md) · [Language Specification (1421)](../by-category/language-specification.md) · [Library (5473)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Image Audio Dsp (416)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (265)](../by-category/interpreter-runtime.md) · [Jit Vm (62)](../by-category/jit-vm.md)
+[Language Server (28)](../by-category/language-server.md) · [Language Specification (1421)](../by-category/language-specification.md) · [Library (5475)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (515)](../by-category/logging-observability.md) · [Machine Learning (737)](../by-category/machine-learning.md)
 [Math Numeric Scientific (87)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1014)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (435)](../by-category/package-manager.md) · [Parser Lexer Ast (1072)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (294)](../by-category/precommit-ci-quality.md)
@@ -434,7 +434,7 @@ Records: `740`
 | [flutter_background](../records/dart-flutter-background-7c392887.md) | 1.3.1 | 2026-03-09T20:39:33.447860Z | registry-derived |
 | [flutter_box_transform](../records/dart-flutter-box-transform-16ba1d97.md) | 0.4.7 | 2025-03-26T10:53:15.777522Z | registry-derived |
 | [flutter_image_slideshow](../records/dart-flutter-image-slideshow-e2e6ea1f.md) | 0.1.6 | 2023-07-02T05:42:10.674055Z | registry-derived |
-| [flutter_lucide](../records/dart-flutter-lucide-ac11e8f7.md) | 1.40.0 | 2026-09-03T18:03:46.104112Z | registry-derived |
+| [flutter_lucide](../records/dart-flutter-lucide-ac11e8f7.md) | 1.41.0 | 2026-09-04T16:35:41.565393Z | registry-derived |
 | [flutter_nfc_kit](../records/dart-flutter-nfc-kit-0b36db6d.md) | 3.6.2 | 2026-01-20T15:23:42.703588Z | registry-derived |
 | [flutter_pdfview](../records/dart-flutter-pdfview-eb6c3523.md) | 1.4.5 | 2026-08-03T08:46:40.273636Z | registry-derived |
 | [flutter_redux](../records/dart-flutter-redux-e7325a5a.md) | 0.10.0 | 2022-05-14T16:57:43.726716Z | registry-derived |
@@ -701,7 +701,7 @@ Records: `740`
 | [dart_code_linter](../records/dart-dart-code-linter-df03f02e.md) | 4.3.0 | 2026-08-26T13:28:28.501794Z | registry-derived |
 | [flutter_lints](../records/dart-flutter-lints-e4a57b3e.md) | 6.0.0 | 2025-05-27T13:59:16.618213Z | registry-derived |
 | [leancode_lint](../records/dart-leancode-lint-61fd34ed.md) | 27.0.0 | 2026-08-18T10:22:18.601100Z | registry-derived |
-| [lint](../records/dart-lint-6875e6f7.md) | 2.9.0 | 2026-09-04T16:02:13.445725Z | registry-derived |
+| [lint](../records/dart-lint-6875e6f7.md) | 2.10.0 | 2026-09-04T17:20:20.852571Z | registry-derived |
 | [lints](../records/dart-lints-423e1c89.md) | 6.1.0 | 2026-01-30T21:32:30.985377Z | registry-derived |
 | [pedantic_mono](../records/dart-pedantic-mono-d91c4612.md) | 1.38.1 | 2026-08-13T05:58:18.262745Z | registry-derived |
 | [very_good_analysis](../records/dart-very-good-analysis-8f0f073a.md) | 11.0.0 | 2026-09-03T14:28:27.926923Z | registry-derived |
@@ -855,7 +855,7 @@ Records: `740`
 | [oktoast](../records/dart-oktoast-695e2783.md) | 3.4.0 | 2023-11-17T07:37:04.781812Z | registry-derived |
 | [package_rename](../records/dart-package-rename-37869553.md) | 1.10.1 | 2025-12-04T18:38:50.950663Z | registry-derived |
 | [pasteboard](../records/dart-pasteboard-fc86cbcb.md) | 0.5.0 | 2026-02-24T03:09:18.426849Z | registry-derived |
-| [pdfrx](../records/dart-pdfrx-292df18d.md) | 2.5.0 | 2026-08-27T15:44:20.310240Z | registry-derived |
+| [pdfrx](../records/dart-pdfrx-292df18d.md) | 2.6.1 | 2026-09-04T17:57:08.145277Z | registry-derived |
 | [phone_numbers_parser](../records/dart-phone-numbers-parser-b6b27fe8.md) | 9.0.26 | 2026-09-01T00:34:26.060864Z | registry-derived |
 | [qr_flutter](../records/dart-qr-flutter-1ca2e5e2.md) | 4.1.0 | 2023-05-14T17:48:40.350369Z | registry-derived |
 | [swagger_parser](../records/dart-swagger-parser-440e5e1f.md) | 1.44.2 | 2026-09-01T10:16:51.778078Z | registry-derived |

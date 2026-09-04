@@ -9,15 +9,15 @@ Records: `348`
 ## Category Index
 
 [Api Abi Checker (213)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (191)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (552)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (191)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (553)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (88)](concurrency-parallelism.md) · [Configuration (125)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (172)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (884)](database-datastore.md) · [Datetime (213)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1533)](filesystem-os.md) · [Formatter (632)](formatter.md)
 [Framework (61)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (353)](game-engine-game-dev.md) · [Ide Editor Integration (1413)](ide-editor-integration.md)
-[Image Audio Dsp (416)](image-audio-dsp.md) · [Interop Bindings (60)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
-[Language Server (28)](language-server.md) · [Language Specification (1421)](language-specification.md) · [Library (5473)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Image Audio Dsp (416)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
+[Language Server (28)](language-server.md) · [Language Specification (1421)](language-specification.md) · [Library (5475)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · **[Linter (348)](linter.md)** · [Logging Observability (515)](logging-observability.md) · [Machine Learning (737)](machine-learning.md)
 [Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1014)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (435)](package-manager.md) · [Parser Lexer Ast (1072)](parser-lexer-ast.md) · [Precommit Ci Quality (294)](precommit-ci-quality.md)
@@ -404,7 +404,7 @@ Records: `348`
 | dart_code_linter | 4.3.0 | 2026-08-26T13:28:28.501794Z | [open](../records/dart-dart-code-linter-df03f02e.md) |
 | flutter_lints | 6.0.0 | 2025-05-27T13:59:16.618213Z | [open](../records/dart-flutter-lints-e4a57b3e.md) |
 | leancode_lint | 27.0.0 | 2026-08-18T10:22:18.601100Z | [open](../records/dart-leancode-lint-61fd34ed.md) |
-| lint | 2.9.0 | 2026-09-04T16:02:13.445725Z | [open](../records/dart-lint-6875e6f7.md) |
+| lint | 2.10.0 | 2026-09-04T17:20:20.852571Z | [open](../records/dart-lint-6875e6f7.md) |
 | lints | 6.1.0 | 2026-01-30T21:32:30.985377Z | [open](../records/dart-lints-423e1c89.md) |
 | pedantic_mono | 1.38.1 | 2026-08-13T05:58:18.262745Z | [open](../records/dart-pedantic-mono-d91c4612.md) |
 | very_good_analysis | 11.0.0 | 2026-09-03T14:28:27.926923Z | [open](../records/dart-very-good-analysis-8f0f073a.md) |
@@ -422,7 +422,7 @@ Records: `348`
 | github.com/terraform-linters/tflint-ruleset-aws/tools/release | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-terraform-linters-tflint-ruleset-aws-tools-release-64e4e03b.md) |
 | github.com/Typescript-eslint/typescript-eslint | v4.31.2+incompatible | 2026-08-30T15:29:43.379649Z | [open](../records/go-github-com-typescript-eslint-typescript-eslint-2cac61a4.md) |
 | github.com/z-shell/zsh-lint | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-z-shell-zsh-lint-ddf99579.md) |
-| golangci/golangci-lint | unknown | not_a_go_module_path | [open](../records/go-golangci-golangci-lint-4b8a8820.md) |
+| golangci/golangci-lint | partial | 2026-09-04T17:32:52Z | [open](../records/go-golangci-golangci-lint-4b8a8820.md) |
 
 ## Physics Engines
 

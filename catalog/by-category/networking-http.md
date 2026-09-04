@@ -9,15 +9,15 @@ Records: `1014`
 ## Category Index
 
 [Api Abi Checker (213)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (191)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (552)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (191)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (553)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (88)](concurrency-parallelism.md) · [Configuration (125)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (172)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (884)](database-datastore.md) · [Datetime (213)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1533)](filesystem-os.md) · [Formatter (632)](formatter.md)
 [Framework (61)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (353)](game-engine-game-dev.md) · [Ide Editor Integration (1413)](ide-editor-integration.md)
-[Image Audio Dsp (416)](image-audio-dsp.md) · [Interop Bindings (60)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
-[Language Server (28)](language-server.md) · [Language Specification (1421)](language-specification.md) · [Library (5473)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Image Audio Dsp (416)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
+[Language Server (28)](language-server.md) · [Language Specification (1421)](language-specification.md) · [Library (5475)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (737)](machine-learning.md)
 [Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1014)](networking-http.md)**
 [Other (14)](other.md) · [Package Manager (435)](package-manager.md) · [Parser Lexer Ast (1072)](parser-lexer-ast.md) · [Precommit Ci Quality (294)](precommit-ci-quality.md)
@@ -688,7 +688,7 @@ Records: `1014`
 | wai-websockets | 3.0.1.2 | 2018-03-19T12:32:07Z | [open](../records/haskell-wai-websockets-3782ed20.md) |
 | websockets | 0.13.0.0 | 2023-12-30T08:15:48Z | [open](../records/haskell-websockets-dd52de9c.md) |
 | websockets-snap | 0.10.3.1 | 2019-05-06T11:31:08Z | [open](../records/haskell-websockets-snap-116972ec.md) |
-| yesod-websockets | 0.3.0.4 | 2026-06-17T16:53:04Z | [open](../records/haskell-yesod-websockets-96029917.md) |
+| yesod-websockets | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yesod-websockets-96029917.md) |
 
 ## Octave
 
@@ -765,13 +765,13 @@ Records: `1014`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ChimeraCoder/anaconda | unknown | not_a_go_module_path | [open](../records/go-chimeracoder-anaconda-6a61e747.md) |
-| g3n/engine | unknown | not_a_go_module_path | [open](../records/go-g3n-engine-0b367039.md) |
-| go-resty/resty | unknown | not_a_go_module_path | [open](../records/go-go-resty-resty-9cfada1b.md) |
-| redis/go-redis | unknown | not_a_go_module_path | [open](../records/go-redis-go-redis-fe715a04.md) |
-| spicetify/cli | unknown | not_a_go_module_path | [open](../records/go-spicetify-cli-b8e26c00.md) |
-| teler-sh/teler-waf | unknown | not_a_go_module_path | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
-| xiaolincoder/CS-Base | unknown | not_a_go_module_path | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
+| ChimeraCoder/anaconda | partial | 2024-01-28T15:07:20Z | [open](../records/go-chimeracoder-anaconda-6a61e747.md) |
+| g3n/engine | partial | 2026-08-01T16:23:05Z | [open](../records/go-g3n-engine-0b367039.md) |
+| go-resty/resty | partial | 2026-07-26T00:45:12Z | [open](../records/go-go-resty-resty-9cfada1b.md) |
+| redis/go-redis | partial | 2026-09-04T17:24:01Z | [open](../records/go-redis-go-redis-fe715a04.md) |
+| spicetify/cli | partial | 2026-09-04T12:23:06Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
+| teler-sh/teler-waf | partial | 2025-03-18T01:40:27Z | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
+| xiaolincoder/CS-Base | partial | 2024-11-27T06:32:13Z | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
 | yincongcyincong/mcp-client-go | partial | 2025-09-09T09:54:40Z | [open](../records/go-yincongcyincong-mcp-client-go-551e8f66.md) |
 
 ## Basilisk
@@ -1081,7 +1081,7 @@ Records: `1014`
 | --- | --- | --- | --- |
 | ashvardanian/less_slow.cpp | partial | 2026-07-27T01:01:01Z | [open](../records/assembly-ashvardanian-less-slow-cpp-50768d6c.md) |
 | minio/highwayhash | partial | 2026-03-21T05:38:40Z | [open](../records/assembly-minio-highwayhash-5634a2cc.md) |
-| nyxos-dev/nyx-os | partial | 2026-09-04T15:16:57Z | [open](../records/assembly-nyxos-dev-nyx-os-a701d2ff.md) |
+| nyxos-dev/nyx-os | partial | 2026-09-04T16:33:56Z | [open](../records/assembly-nyxos-dev-nyx-os-a701d2ff.md) |
 | OpenMachine-ai/tinyfive | partial | 2023-11-01T23:04:08Z | [open](../records/assembly-openmachine-ai-tinyfive-d7147317.md) |
 | OWASP/ZSC | partial | 2024-03-14T22:19:20Z | [open](../records/assembly-owasp-zsc-566fd5f9.md) |
 
