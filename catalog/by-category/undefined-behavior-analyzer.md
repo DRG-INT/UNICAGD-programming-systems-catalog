@@ -1,6 +1,6 @@
 # Undefined Behavior Analyzer
 
-Records: `1516`
+Records: `1517`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `1516`
 ## Category Index
 
 [Api Abi Checker (206)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (135)](async-runtime.md)
-[Benchmarking (167)](benchmarking.md) · [Build System (923)](build-system.md) · [Cli (544)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (167)](benchmarking.md) · [Build System (925)](build-system.md) · [Cli (545)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (101)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
 [Concurrency Parallelism (83)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (165)](cryptography.md) · [Data Science (36)](data-science.md) · [Database Datastore (852)](database-datastore.md) · [Datetime (190)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (98)](documentation.md)
-[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (413)](ffi-bindings.md) · [Filesystem Os (1412)](filesystem-os.md) · [Formatter (616)](formatter.md)
-[Framework (56)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (174)](game-engine-game-dev.md) · [Ide Editor Integration (1338)](ide-editor-integration.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (99)](documentation.md)
+[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (414)](ffi-bindings.md) · [Filesystem Os (1427)](filesystem-os.md) · [Formatter (616)](formatter.md)
+[Framework (56)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (174)](game-engine-game-dev.md) · [Ide Editor Integration (1340)](ide-editor-integration.md)
 [Image Audio Dsp (398)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (254)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
 [Language Server (27)](language-server.md) · [Language Specification (1390)](language-specification.md) · [Library (5317)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (486)](logging-observability.md) · [Machine Learning (673)](machine-learning.md)
 [Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (987)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (422)](package-manager.md) · [Parser Lexer Ast (1031)](parser-lexer-ast.md) · [Precommit Ci Quality (284)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (422)](package-manager.md) · [Parser Lexer Ast (1032)](parser-lexer-ast.md) · [Precommit Ci Quality (284)](precommit-ci-quality.md)
 [Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (333)](security-sast.md) · [Serialization (384)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (501)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (524)](testing-framework.md) · [Tutorial Book Styleguide (59)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
-**[Undefined Behavior Analyzer (1516)](undefined-behavior-analyzer.md)** · [Utility Library (95)](utility-library.md) · [Visualization Gui (478)](visualization-gui.md) · [Web Framework (458)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (525)](testing-framework.md) · [Tutorial Book Styleguide (59)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
+**[Undefined Behavior Analyzer (1517)](undefined-behavior-analyzer.md)** · [Utility Library (95)](utility-library.md) · [Visualization Gui (478)](visualization-gui.md) · [Web Framework (458)](web-framework.md)
 
 ## C++23
 
@@ -1135,7 +1135,7 @@ Records: `1516`
 | github.laiyagushi.com/nemith/dothome | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-laiyagushi-com-nemith-dothome-32cd483a.md) |
 | github.laiyagushi.com/valkey-io/valkey-go | v1.0.56 | 2026-08-30T15:31:38.453275Z | [open](../records/go-github-laiyagushi-com-valkey-io-valkey-go-b2864d71.md) |
 | jfrog/gocenter | partial | 2021-05-14T11:38:26Z | [open](../records/go-jfrog-gocenter-404e69f1.md) |
-| labring/sealos | partial | 2026-09-04T03:54:10Z | [open](../records/go-labring-sealos-594e5269.md) |
+| labring/sealos | partial | 2026-09-04T07:05:06Z | [open](../records/go-labring-sealos-594e5269.md) |
 | uber-go/guide | partial | 2026-04-15T15:10:48Z | [open](../records/go-uber-go-guide-c330b782.md) |
 | uber-go/zap | partial | 2026-08-31T18:59:30Z | [open](../records/go-uber-go-zap-07ea12d8.md) |
 | unpoller/unifi | partial | 2026-09-01T12:00:24Z | [open](../records/go-unpoller-unifi-0809cf4a.md) |
@@ -1297,7 +1297,7 @@ Records: `1516`
 | braedonsaunders/openstudio | partial | 2026-05-13T23:00:35Z | [open](../records/effects-braedonsaunders-openstudio-43bdd073.md) |
 | brandleesee/ePSXe64Ubuntu | partial | 2023-06-20T07:52:14Z | [open](../records/effects-brandleesee-epsxe64ubuntu-ae197016.md) |
 | canonical/ubuntu-frame | partial | 2026-08-31T04:34:54Z | [open](../records/effects-canonical-ubuntu-frame-e76d66fc.md) |
-| cmajor-lang/cmajor | partial | 2026-07-29T13:08:46Z | [open](../records/effects-cmajor-lang-cmajor-4dc0a78b.md) |
+| cmajor-lang/cmajor | partial | 2026-09-03T19:38:01Z | [open](../records/effects-cmajor-lang-cmajor-4dc0a78b.md) |
 | CompleteUnityDeveloper/Laser-Defender-Original | partial | 2018-08-14T11:29:55Z | [open](../records/effects-completeunitydeveloper-laser-defender-original-c8db6005.md) |
 | CustomPhase/CP_SSSSS | partial | 2019-05-26T11:39:20Z | [open](../records/effects-customphase-cp-sssss-c1aa7a17.md) |
 | devanshutak25/3d-resources | partial | 2026-09-02T17:39:01Z | [open](../records/effects-devanshutak25-3d-resources-06f6f596.md) |
@@ -1314,6 +1314,7 @@ Records: `1516`
 | PacktPublishing/Unreal-Engine-4-Shaders-and-Effects-Cookbook | partial | 2023-01-18T09:58:40Z | [open](../records/effects-packtpublishing-unreal-engine-4-shaders-and-effects-cookbook-17ecfed0.md) |
 | psiorx/Unity-Fisheye | partial | 2018-11-20T16:51:00Z | [open](../records/effects-psiorx-unity-fisheye-ff84630f.md) |
 | repalash/Open-Shaders | partial | 2026-07-14T22:16:03Z | [open](../records/effects-repalash-open-shaders-67848da3.md) |
+| Rubo3/wio | partial | 2026-01-30T21:34:24Z | [open](../records/effects-rubo3-wio-b7e86aaf.md) |
 | sketchpunk/FunWithWebGL2 | partial | 2020-04-24T03:59:15Z | [open](../records/effects-sketchpunk-funwithwebgl2-228496cc.md) |
 | subsoap/deffx | partial | 2026-05-26T18:55:18Z | [open](../records/effects-subsoap-deffx-dd098342.md) |
 | superboubek/bcd | partial | 2020-10-22T19:56:31Z | [open](../records/effects-superboubek-bcd-81708515.md) |
