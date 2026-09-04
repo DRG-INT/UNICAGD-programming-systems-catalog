@@ -1,6 +1,6 @@
 # Library
 
-Records: `5475`
+Records: `5477`
 
 ## Navigation
 
@@ -9,20 +9,20 @@ Records: `5475`
 ## Category Index
 
 [Api Abi Checker (213)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (191)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (553)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (191)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (554)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (88)](concurrency-parallelism.md) · [Configuration (125)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (172)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (884)](database-datastore.md) · [Datetime (213)](datetime.md)
+[Cryptography (172)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (885)](database-datastore.md) · [Datetime (213)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1535)](filesystem-os.md) · [Formatter (634)](formatter.md)
+[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1537)](filesystem-os.md) · [Formatter (634)](formatter.md)
 [Framework (61)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (353)](game-engine-game-dev.md) · [Ide Editor Integration (1415)](ide-editor-integration.md)
 [Image Audio Dsp (419)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
-[Language Server (28)](language-server.md) · [Language Specification (1421)](language-specification.md) · **[Library (5475)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (28)](language-server.md) · [Language Specification (1421)](language-specification.md) · **[Library (5477)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (740)](machine-learning.md)
 [Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1016)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (435)](package-manager.md) · [Parser Lexer Ast (1072)](parser-lexer-ast.md) · [Precommit Ci Quality (294)](precommit-ci-quality.md)
 [Profiler (86)](profiler.md) · [Project Scaffolding (132)](project-scaffolding.md) · [Registry Repository (132)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (391)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (525)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (391)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (526)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (599)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (311)](type-checker.md)
 [Undefined Behavior Analyzer (1574)](undefined-behavior-analyzer.md) · [Utility Library (102)](utility-library.md) · [Visualization Gui (513)](visualization-gui.md) · [Web Framework (473)](web-framework.md)
 
@@ -1518,10 +1518,10 @@ Records: `5475`
 | auto_enums | 0.8.10 | 2026-07-25T05:51:45.402598Z | [open](../records/rust-auto-enums-554be482.md) |
 | aws-credential-types | 1.3.0 | 2026-07-08T19:08:20.561050Z | [open](../records/rust-aws-credential-types-0c3a278f.md) |
 | aws-sdk-dynamodb | 1.123.0 | 2026-08-25T20:33:02.272627Z | [open](../records/rust-aws-sdk-dynamodb-2a0d1737.md) |
-| aws-sdk-s3 | 1.144.0 | 2026-08-25T20:52:02.792869Z | [open](../records/rust-aws-sdk-s3-e7593d5c.md) |
+| aws-sdk-s3 | 1.145.0 | 2026-09-04T19:39:21.717068Z | [open](../records/rust-aws-sdk-s3-e7593d5c.md) |
 | aws-sdk-secretsmanager | 1.114.0 | 2026-08-25T20:53:39.172482Z | [open](../records/rust-aws-sdk-secretsmanager-7debe3fd.md) |
-| aws-sdk-sso | 1.108.0 | 2026-08-25T20:20:07.206559Z | [open](../records/rust-aws-sdk-sso-1ed360a6.md) |
-| aws-sdk-ssooidc | 1.110.0 | 2026-08-25T20:20:12.135576Z | [open](../records/rust-aws-sdk-ssooidc-05591401.md) |
+| aws-sdk-sso | 1.109.0 | 2026-09-04T19:06:56.666403Z | [open](../records/rust-aws-sdk-sso-1ed360a6.md) |
+| aws-sdk-ssooidc | 1.111.0 | 2026-09-04T19:07:01.502485Z | [open](../records/rust-aws-sdk-ssooidc-05591401.md) |
 | aws-smithy-checksums | 0.65.0 | 2026-07-07T18:18:03.702635Z | [open](../records/rust-aws-smithy-checksums-993c276d.md) |
 | axum-extra | 0.12.6 | 2026-04-14T07:55:40.731964Z | [open](../records/rust-axum-extra-f313d99e.md) |
 | backoff | 0.4.0 | 2021-12-14T21:16:45.606935Z | [open](../records/rust-backoff-a215ecbd.md) |
@@ -2472,6 +2472,7 @@ Records: `5475`
 | ALDEx3 | 1.3.1 | 2026-08-26 15:40:02 UTC | [open](../records/r-aldex3-abb0334f.md) |
 | allofus | 1.3.0 | 2026-09-03 15:40:08 UTC | [open](../records/r-allofus-51762bfa.md) |
 | ALSBinary | 1.0.0 | 2026-08-08 11:40:02 UTC | [open](../records/r-alsbinary-82bb22cc.md) |
+| ambre | 2.1.2 | 2026-09-04 19:50:02 UTC | [open](../records/r-ambre-5724ea68.md) |
 | ammiBayes | 2.2-0 | 2026-08-24 16:50:12 UTC | [open](../records/r-ammibayes-7947d986.md) |
 | Anthropometry | 1.22 | 2026-08-21 21:51:03 UTC | [open](../records/r-anthropometry-2ffd2b82.md) |
 | antitrust | 0.99.33 | 2026-08-26 03:50:02 UTC | [open](../records/r-antitrust-992cfab1.md) |
@@ -2968,6 +2969,7 @@ Records: `5475`
 | UniLindleyApprox | 0.1.0 | 2026-08-06 13:50:13 UTC | [open](../records/r-unilindleyapprox-424148ab.md) |
 | unmarked | 1.5.2 | 2026-08-20 05:20:02 UTC | [open](../records/r-unmarked-3a94e224.md) |
 | Uno | 2.7.4-1 | 2026-08-30 14:10:18 UTC | [open](../records/r-uno-68ae5045.md) |
+| unsum | 0.3.0 | 2026-09-04 18:30:02 UTC | [open](../records/r-unsum-02674b5f.md) |
 | unsurv | 0.7.0 | 2026-08-31 22:30:02 UTC | [open](../records/r-unsurv-c1bc0b63.md) |
 | uwot | 0.2.5 | 2026-08-29 13:10:02 UTC | [open](../records/r-uwot-3c319a43.md) |
 | ValidationExplorer | 0.1.2 | 2026-08-25 21:10:26 UTC | [open](../records/r-validationexplorer-11bcad59.md) |
@@ -4166,7 +4168,7 @@ Records: `5475`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-04T19:14:44Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-04T20:10:19Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4180,7 +4182,7 @@ Records: `5475`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-04T18:58:06Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-04T20:11:49Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 

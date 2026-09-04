@@ -1,26 +1,26 @@
 # Catalog Index
 
-Generated: `2026-09-04T19:17:31+00:00`
+Generated: `2026-09-04T20:22:13+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
 ## Category Index
 
 [Api Abi Checker (213)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (136)](by-category/async-runtime.md)
-[Benchmarking (191)](by-category/benchmarking.md) · [Build System (972)](by-category/build-system.md) · [Cli (553)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (191)](by-category/benchmarking.md) · [Build System (972)](by-category/build-system.md) · [Cli (554)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (116)](by-category/community-reference.md) · [Compiler (175)](by-category/compiler.md) · [Compiler Diagnostics (23)](by-category/compiler-diagnostics.md) · [Compression (50)](by-category/compression.md)
 [Concurrency Parallelism (88)](by-category/concurrency-parallelism.md) · [Configuration (125)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (172)](by-category/cryptography.md) · [Data Science (37)](by-category/data-science.md) · [Database Datastore (884)](by-category/database-datastore.md) · [Datetime (213)](by-category/datetime.md)
+[Cryptography (172)](by-category/cryptography.md) · [Data Science (37)](by-category/data-science.md) · [Database Datastore (885)](by-category/database-datastore.md) · [Datetime (213)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (101)](by-category/dependency-manager.md) · [Documentation (103)](by-category/documentation.md)
-[Embedded Hardware (56)](by-category/embedded-hardware.md) · [Ffi Bindings (446)](by-category/ffi-bindings.md) · [Filesystem Os (1535)](by-category/filesystem-os.md) · [Formatter (634)](by-category/formatter.md)
+[Embedded Hardware (56)](by-category/embedded-hardware.md) · [Ffi Bindings (446)](by-category/ffi-bindings.md) · [Filesystem Os (1537)](by-category/filesystem-os.md) · [Formatter (634)](by-category/formatter.md)
 [Framework (61)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (353)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1415)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (419)](by-category/image-audio-dsp.md) · [Interop Bindings (61)](by-category/interop-bindings.md) · [Interpreter Runtime (265)](by-category/interpreter-runtime.md) · [Jit Vm (62)](by-category/jit-vm.md)
-[Language Server (28)](by-category/language-server.md) · [Language Specification (1421)](by-category/language-specification.md) · [Library (5475)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (28)](by-category/language-server.md) · [Language Specification (1421)](by-category/language-specification.md) · [Library (5477)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (515)](by-category/logging-observability.md) · [Machine Learning (740)](by-category/machine-learning.md)
 [Math Numeric Scientific (87)](by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1016)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (435)](by-category/package-manager.md) · [Parser Lexer Ast (1072)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (294)](by-category/precommit-ci-quality.md)
 [Profiler (86)](by-category/profiler.md) · [Project Scaffolding (132)](by-category/project-scaffolding.md) · [Registry Repository (132)](by-category/registry-repository.md) · [Sanitizer (13)](by-category/sanitizer.md)
-[Security Sast (336)](by-category/security-sast.md) · [Serialization (391)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (525)](by-category/static-analyzer.md)
+[Security Sast (336)](by-category/security-sast.md) · [Serialization (391)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (526)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (599)](by-category/testing-framework.md) · [Tutorial Book Styleguide (62)](by-category/tutorial-book-styleguide.md) · [Type Checker (311)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1574)](by-category/undefined-behavior-analyzer.md) · [Utility Library (102)](by-category/utility-library.md) · [Visualization Gui (513)](by-category/visualization-gui.md) · [Web Framework (473)](by-category/web-framework.md)
 
@@ -37,7 +37,7 @@ Generated: `2026-09-04T19:17:31+00:00`
 | Node.js/JavaScript | 2407 | 2330 | [Node.js/JavaScript](by-language/node-js-javascript.md) |
 | Node.js/TypeScript | 388 | 348 | [Node.js/TypeScript](by-language/node-js-typescript.md) |
 | Lua family | 1937 | 0 | [Lua family](by-language/lua-family.md) |
-| R | 1627 | 1627 | [R](by-language/r.md) |
+| R | 1633 | 1633 | [R](by-language/r.md) |
 | Haskell | 1385 | 1373 | [Haskell](by-language/haskell.md) |
 | Matlab | 287 | 0 | [Matlab](by-language/matlab.md) |
 | Octave | 141 | 140 | [Octave](by-language/octave.md) |
@@ -46,7 +46,7 @@ Generated: `2026-09-04T19:17:31+00:00`
 | Go | 1050 | 424 | [Go](by-language/go.md) |
 | Starlark | 69 | 0 | [Starlark](by-language/starlark.md) |
 | Basilisk | 36 | 0 | [Basilisk](by-language/basilisk.md) |
-| "aim's" | 125 | 0 | ["aim's"](by-language/aim-s.md) |
+| "aim's" | 126 | 0 | ["aim's"](by-language/aim-s.md) |
 | nix | 10 | 0 | [nix](by-language/nix.md) |
 | Doctrines | 19 | 0 | [Doctrines](by-language/doctrines.md) |
 | APIs | 19 | 0 | [APIs](by-language/apis.md) |
@@ -98,7 +98,7 @@ Generated: `2026-09-04T19:17:31+00:00`
 | Async Runtime | 136 | [async_runtime](by-category/async-runtime.md) |
 | Benchmarking | 191 | [benchmarking](by-category/benchmarking.md) |
 | Build System | 972 | [build_system](by-category/build-system.md) |
-| Cli | 553 | [cli](by-category/cli.md) |
+| Cli | 554 | [cli](by-category/cli.md) |
 | Codegen Codemod Refactoring | 23 | [codegen_codemod_refactoring](by-category/codegen-codemod-refactoring.md) |
 | Community Reference | 116 | [community_reference](by-category/community-reference.md) |
 | Compiler | 175 | [compiler](by-category/compiler.md) |
@@ -110,7 +110,7 @@ Generated: `2026-09-04T19:17:31+00:00`
 | Coverage | 14 | [coverage](by-category/coverage.md) |
 | Cryptography | 172 | [cryptography](by-category/cryptography.md) |
 | Data Science | 37 | [data_science](by-category/data-science.md) |
-| Database Datastore | 884 | [database_datastore](by-category/database-datastore.md) |
+| Database Datastore | 885 | [database_datastore](by-category/database-datastore.md) |
 | Datetime | 213 | [datetime](by-category/datetime.md) |
 | Dead Code Dependency Analysis | 5 | [dead_code_dependency_analysis](by-category/dead-code-dependency-analysis.md) |
 | Debugger | 44 | [debugger](by-category/debugger.md) |
@@ -118,7 +118,7 @@ Generated: `2026-09-04T19:17:31+00:00`
 | Documentation | 103 | [documentation](by-category/documentation.md) |
 | Embedded Hardware | 56 | [embedded_hardware](by-category/embedded-hardware.md) |
 | Ffi Bindings | 446 | [ffi_bindings](by-category/ffi-bindings.md) |
-| Filesystem Os | 1535 | [filesystem_os](by-category/filesystem-os.md) |
+| Filesystem Os | 1537 | [filesystem_os](by-category/filesystem-os.md) |
 | Formatter | 634 | [formatter](by-category/formatter.md) |
 | Framework | 61 | [framework](by-category/framework.md) |
 | Fuzzer | 57 | [fuzzer](by-category/fuzzer.md) |
@@ -130,7 +130,7 @@ Generated: `2026-09-04T19:17:31+00:00`
 | Jit Vm | 62 | [jit_vm](by-category/jit-vm.md) |
 | Language Server | 28 | [language_server](by-category/language-server.md) |
 | Language Specification | 1421 | [language_specification](by-category/language-specification.md) |
-| Library | 5475 | [library](by-category/library.md) |
+| Library | 5477 | [library](by-category/library.md) |
 | Lint Plugin | 1 | [lint_plugin](by-category/lint-plugin.md) |
 | Lint Rule Pack | 48 | [lint_rule_pack](by-category/lint-rule-pack.md) |
 | Linter | 348 | [linter](by-category/linter.md) |
@@ -151,7 +151,7 @@ Generated: `2026-09-04T19:17:31+00:00`
 | Security Sast | 336 | [security_sast](by-category/security-sast.md) |
 | Serialization | 391 | [serialization](by-category/serialization.md) |
 | Standard Library | 25 | [standard_library](by-category/standard-library.md) |
-| Static Analyzer | 525 | [static_analyzer](by-category/static-analyzer.md) |
+| Static Analyzer | 526 | [static_analyzer](by-category/static-analyzer.md) |
 | Templating | 2 | [templating](by-category/templating.md) |
 | Testing Framework | 599 | [testing_framework](by-category/testing-framework.md) |
 | Tutorial Book Styleguide | 62 | [tutorial_book_styleguide](by-category/tutorial-book-styleguide.md) |
@@ -174,7 +174,7 @@ Generated: `2026-09-04T19:17:31+00:00`
 | Node.js/JavaScript | 2330 | 77 |
 | Node.js/TypeScript | 348 | 40 |
 | Lua family | 0 | 1937 |
-| R | 1627 | 0 |
+| R | 1633 | 0 |
 | Haskell | 1373 | 12 |
 | Matlab | 0 | 287 |
 | Octave | 140 | 1 |
@@ -183,7 +183,7 @@ Generated: `2026-09-04T19:17:31+00:00`
 | Go | 424 | 626 |
 | Starlark | 0 | 69 |
 | Basilisk | 0 | 36 |
-| "aim's" | 0 | 125 |
+| "aim's" | 0 | 126 |
 | nix | 0 | 10 |
 | Doctrines | 0 | 19 |
 | APIs | 0 | 19 |
