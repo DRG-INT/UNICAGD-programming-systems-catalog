@@ -1146,7 +1146,7 @@ Records: `1574`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | cruise-automation/isopod | partial | 2023-11-17T05:24:18Z | [open](../records/starlark-cruise-automation-isopod-0fd20340.md) |
-| openrundev/openrun | partial | 2026-09-03T19:26:20Z | [open](../records/starlark-openrundev-openrun-0f48908b.md) |
+| openrundev/openrun | partial | 2026-09-04T20:48:46Z | [open](../records/starlark-openrundev-openrun-0f48908b.md) |
 | tidbyt/community | partial | 2026-08-28T05:00:24Z | [open](../records/starlark-tidbyt-community-62c4caad.md) |
 
 ## Basilisk

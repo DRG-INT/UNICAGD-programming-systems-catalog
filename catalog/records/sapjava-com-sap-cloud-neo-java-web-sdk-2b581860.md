@@ -32,22 +32,22 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 5.24.2 | 2025-06-11T13:48:36+00:00 | [https://search.maven.org/solrsearch/select?q=sap%20cloud%20sdk&rows=100&wt=json](https://search.maven.org/solrsearch/select?q=sap%20cloud%20sdk&rows=100&wt=json) |  |
+| stable | known | 5.24.2 | 2025-06-11T13:48:36+00:00 | [https://search.maven.org/solrsearch/select?q=g%3A%22com.sap.cloud%22&rows=100&wt=json](https://search.maven.org/solrsearch/select?q=g%3A%22com.sap.cloud%22&rows=100&wt=json) |  |
 | preview/nightly | unknown |  |  | unknown | maven_central_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0 |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
 - Treat category as `library` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://search.maven.org/solrsearch/select?q=sap%20cloud%20sdk&rows=100&wt=json` at `2026-09-04T20:20:22+00:00`.
+- Latest stable metadata was observed from `https://search.maven.org/solrsearch/select?q=g%3A%22com.sap.cloud%22&rows=100&wt=json` at `2026-09-04T21:18:20+00:00`.
 - Preview/nightly metadata is unknown because `maven_central_search_has_no_standard_nightly_channel`.
 
 ## Provenance
@@ -57,7 +57,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| maven_central_search | registry-derived | 2026-09-04 | `{"kind": "maven_central_search", "query": "sap cloud sdk", "retrieved": "2026-09-04", "status": "registry-derived"}` |
+| maven_central_search | registry-derived | 2026-09-04 | `{"kind": "maven_central_search", "query": "g:\"com.sap.cloud\"", "retrieved": "2026-09-04", "status": "registry-derived"}` |
 
 </details>
 

@@ -277,7 +277,7 @@ Records: `287`
 | [torrvision/crfasrnn](../records/matlab-torrvision-crfasrnn-d754088d.md) | partial | 2019-11-30T13:17:39Z | registry-derived |
 | [toshiakit/MatGPT](../records/matlab-toshiakit-matgpt-c3e7e593.md) | partial | 2026-01-31T03:08:06Z | registry-derived |
 | [trekhleb/machine-learning-octave](../records/matlab-trekhleb-machine-learning-octave-3c6369fc.md) | partial | 2025-11-23T04:28:32Z | registry-derived |
-| [ucdavis/erplab](../records/matlab-ucdavis-erplab-9a4c4944.md) | partial | 2026-09-04T17:41:55Z | registry-derived |
+| [ucdavis/erplab](../records/matlab-ucdavis-erplab-9a4c4944.md) | partial | 2026-09-04T20:50:19Z | registry-derived |
 | [ultralytics/functions-matlab](../records/matlab-ultralytics-functions-matlab-7687d566.md) | partial | 2026-08-28T10:25:16Z | registry-derived |
 | [ultralytics/magellan](../records/matlab-ultralytics-magellan-3c103d74.md) | partial | 2026-08-28T10:37:04Z | registry-derived |
 | [ultralytics/miniTimeCube](../records/matlab-ultralytics-minitimecube-2e723266.md) | partial | 2026-08-28T10:39:24Z | registry-derived |
