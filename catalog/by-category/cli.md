@@ -1,6 +1,6 @@
 # Cli
 
-Records: `545`
+Records: `546`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `545`
 ## Category Index
 
 [Api Abi Checker (206)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (135)](async-runtime.md)
-[Benchmarking (167)](benchmarking.md) · [Build System (925)](build-system.md) · **[Cli (545)](cli.md)** · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (167)](benchmarking.md) · [Build System (925)](build-system.md) · **[Cli (546)](cli.md)** · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (101)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
 [Concurrency Parallelism (83)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (165)](cryptography.md) · [Data Science (36)](data-science.md) · [Database Datastore (852)](database-datastore.md) · [Datetime (190)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (99)](documentation.md)
 [Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (414)](ffi-bindings.md) · [Filesystem Os (1427)](filesystem-os.md) · [Formatter (616)](formatter.md)
-[Framework (56)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (174)](game-engine-game-dev.md) · [Ide Editor Integration (1341)](ide-editor-integration.md)
+[Framework (56)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (175)](game-engine-game-dev.md) · [Ide Editor Integration (1341)](ide-editor-integration.md)
 [Image Audio Dsp (398)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (254)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1391)](language-specification.md) · [Library (5318)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1391)](language-specification.md) · [Library (5320)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (487)](logging-observability.md) · [Machine Learning (673)](machine-learning.md)
 [Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (90)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (987)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (422)](package-manager.md) · [Parser Lexer Ast (1033)](parser-lexer-ast.md) · [Precommit Ci Quality (284)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (423)](package-manager.md) · [Parser Lexer Ast (1034)](parser-lexer-ast.md) · [Precommit Ci Quality (284)](precommit-ci-quality.md)
 [Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (333)](security-sast.md) · [Serialization (384)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (503)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (526)](testing-framework.md) · [Tutorial Book Styleguide (59)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
-[Undefined Behavior Analyzer (1517)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (478)](visualization-gui.md) · [Web Framework (458)](web-framework.md)
+[Undefined Behavior Analyzer (1517)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (478)](visualization-gui.md) · [Web Framework (459)](web-framework.md)
 
 ## C++23
 
@@ -287,7 +287,7 @@ Records: `545`
 | @devcycle/cli | 6.3.2 | 2026-04-28T19:32:47.623Z | [open](../records/node-js-javascript-devcycle-cli-ece13be6.md) |
 | @devvit/cli | 0.14.2 | 2026-08-31T20:04:21.751Z | [open](../records/node-js-javascript-devvit-cli-be160bd1.md) |
 | @env0/cli | 1.0.25 | 2026-04-20T08:58:03.712Z | [open](../records/node-js-javascript-env0-cli-f8ec1602.md) |
-| @expo/cli | 57.0.21 | 2026-09-01T16:21:32.728Z | [open](../records/node-js-javascript-expo-cli-22f34048.md) |
+| @expo/cli | 57.0.22 | 2026-09-04T07:47:45.010Z | [open](../records/node-js-javascript-expo-cli-22f34048.md) |
 | @expo/image-utils | 0.11.5 | 2026-08-24T07:53:15.617Z | [open](../records/node-js-javascript-expo-image-utils-6fd48f78.md) |
 | @fallow-cli/linux-x64-gnu | 3.22.0 | 2026-09-01T19:38:15.594Z | [open](../records/node-js-javascript-fallow-cli-linux-x64-gnu-c24edc1b.md) |
 | @fallow-cli/linux-x64-musl | 3.22.0 | 2026-09-01T19:38:36.009Z | [open](../records/node-js-javascript-fallow-cli-linux-x64-musl-ad0f87bf.md) |
@@ -306,7 +306,7 @@ Records: `545`
 | @ionic/cli-framework-output | 2.2.8 | 2023-12-19T22:38:35.365Z | [open](../records/node-js-javascript-ionic-cli-framework-output-8324bb8a.md) |
 | @ionic/cli-framework-prompts | 2.1.13 | 2023-12-19T22:38:35.436Z | [open](../records/node-js-javascript-ionic-cli-framework-prompts-5599c31f.md) |
 | @knocklabs/cli | 1.2.3 | 2026-08-13T15:12:15.170Z | [open](../records/node-js-javascript-knocklabs-cli-62154908.md) |
-| @lightdash/cli | 2.121.1 | 2026-09-04T08:14:49.832Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
+| @lightdash/cli | 2.122.1 | 2026-09-04T10:13:52.992Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | @lingui/cli | 6.6.0 | 2026-07-24T13:52:53.439Z | [open](../records/node-js-javascript-lingui-cli-343f33ec.md) |
 | @maizzle/cli | 2.0.0 | 2024-12-16T17:59:24.900Z | [open](../records/node-js-javascript-maizzle-cli-a7a13457.md) |
 | @marp-team/marp-cli | 4.5.0 | 2026-07-17T23:07:09.399Z | [open](../records/node-js-javascript-marp-team-marp-cli-b69e1548.md) |
@@ -522,9 +522,9 @@ Records: `545`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-04T07:12:03Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-04T09:34:04Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-04T09:06:04Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-04T10:20:02Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Icons and Logos
 
@@ -673,6 +673,7 @@ Records: `545`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| daem0nc0re/macOS_ARM64_Shellcode | partial | 2025-06-08T02:58:27Z | [open](../records/assembly-daem0nc0re-macos-arm64-shellcode-80babd06.md) |
 | jonatanSh/shelf | partial | 2023-08-27T17:55:04Z | [open](../records/assembly-jonatansh-shelf-bee68a33.md) |
 | Kazhuu/asm2cfg | partial | 2024-04-01T13:23:47Z | [open](../records/assembly-kazhuu-asm2cfg-8e13ec12.md) |
 | konatabrk/shellen | partial | 2021-02-26T15:22:26Z | [open](../records/assembly-konatabrk-shellen-8b37e63c.md) |

@@ -1,6 +1,6 @@
 # Web Framework
 
-Records: `458`
+Records: `459`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `458`
 ## Category Index
 
 [Api Abi Checker (206)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (135)](async-runtime.md)
-[Benchmarking (167)](benchmarking.md) · [Build System (925)](build-system.md) · [Cli (545)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (167)](benchmarking.md) · [Build System (925)](build-system.md) · [Cli (546)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (101)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
 [Concurrency Parallelism (83)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (165)](cryptography.md) · [Data Science (36)](data-science.md) · [Database Datastore (852)](database-datastore.md) · [Datetime (190)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (99)](documentation.md)
 [Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (414)](ffi-bindings.md) · [Filesystem Os (1427)](filesystem-os.md) · [Formatter (616)](formatter.md)
-[Framework (56)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (174)](game-engine-game-dev.md) · [Ide Editor Integration (1341)](ide-editor-integration.md)
+[Framework (56)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (175)](game-engine-game-dev.md) · [Ide Editor Integration (1341)](ide-editor-integration.md)
 [Image Audio Dsp (398)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (254)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1391)](language-specification.md) · [Library (5318)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1391)](language-specification.md) · [Library (5320)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (487)](logging-observability.md) · [Machine Learning (673)](machine-learning.md)
 [Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (90)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (987)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (422)](package-manager.md) · [Parser Lexer Ast (1033)](parser-lexer-ast.md) · [Precommit Ci Quality (284)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (423)](package-manager.md) · [Parser Lexer Ast (1034)](parser-lexer-ast.md) · [Precommit Ci Quality (284)](precommit-ci-quality.md)
 [Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (333)](security-sast.md) · [Serialization (384)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (503)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (526)](testing-framework.md) · [Tutorial Book Styleguide (59)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
-[Undefined Behavior Analyzer (1517)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (478)](visualization-gui.md) · **[Web Framework (458)](web-framework.md)**
+[Undefined Behavior Analyzer (1517)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (478)](visualization-gui.md) · **[Web Framework (459)](web-framework.md)**
 
 ## C++23
 
@@ -243,9 +243,9 @@ Records: `458`
 | @turnkey/sdk-server | 8.3.0 | 2026-08-27T23:08:30.267Z | [open](../records/node-js-javascript-turnkey-sdk-server-330a2b7d.md) |
 | @ui5/mcp-server | 0.2.18 | 2026-08-13T09:15:38.219Z | [open](../records/node-js-javascript-ui5-mcp-server-ed5f5678.md) |
 | @ui5/server | 4.0.16 | 2026-09-03T12:48:08.508Z | [open](../records/node-js-javascript-ui5-server-bf90217b.md) |
-| @umijs/server | 4.7.13 | 2026-09-04T05:34:08.835Z | [open](../records/node-js-javascript-umijs-server-39ec9954.md) |
+| @umijs/server | 4.7.14 | 2026-09-04T08:50:53.063Z | [open](../records/node-js-javascript-umijs-server-39ec9954.md) |
 | @unlighthouse/server | 0.18.0 | 2026-06-29T03:12:35.459Z | [open](../records/node-js-javascript-unlighthouse-server-42feedd7.md) |
-| @upstash/context7-mcp | 4.0.4 | 2026-08-28T09:59:14.422Z | [open](../records/node-js-javascript-upstash-context7-mcp-f62fb753.md) |
+| @upstash/context7-mcp | 4.0.5 | 2026-09-04T10:13:57.326Z | [open](../records/node-js-javascript-upstash-context7-mcp-f62fb753.md) |
 | @use-voltra/ios-server | 2.2.0 | 2026-08-03T13:16:07.085Z | [open](../records/node-js-javascript-use-voltra-ios-server-52aaeb6b.md) |
 | @use-voltra/server | 2.2.0 | 2026-08-03T13:15:46.999Z | [open](../records/node-js-javascript-use-voltra-server-0e9559b5.md) |
 | @vercel/cosmosdb-server | 1.0.1 | 2026-03-09T18:28:03.744Z | [open](../records/node-js-javascript-vercel-cosmosdb-server-a0184bac.md) |
@@ -345,6 +345,7 @@ Records: `458`
 | --- | --- | --- | --- |
 | dtangle | 2.0.10 | 2026-08-21 19:30:08 UTC | [open](../records/r-dtangle-d15feee6.md) |
 | reactRouter | 0.2.1 | 2026-09-01 08:20:02 UTC | [open](../records/r-reactrouter-331dc40d.md) |
+| routing | 1.1.1 | 2026-09-04 10:00:02 UTC | [open](../records/r-routing-2f4a5f07.md) |
 | Rserve | 1.8-19.1 | 2026-08-29 07:01:44 UTC | [open](../records/r-rserve-caa5a1fc.md) |
 | statsExpressions | 2.1.1 | 2026-08-24 10:50:02 UTC | [open](../records/r-statsexpressions-77ded36b.md) |
 

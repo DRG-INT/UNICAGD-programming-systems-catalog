@@ -5,22 +5,22 @@
 ## Category Index
 
 [Api Abi Checker (206)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (45)](by-category/assertion-mocking.md) · [Async Runtime (135)](by-category/async-runtime.md)
-[Benchmarking (167)](by-category/benchmarking.md) · [Build System (925)](by-category/build-system.md) · [Cli (545)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (167)](by-category/benchmarking.md) · [Build System (925)](by-category/build-system.md) · [Cli (546)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (101)](by-category/community-reference.md) · [Compiler (175)](by-category/compiler.md) · [Compiler Diagnostics (23)](by-category/compiler-diagnostics.md) · [Compression (48)](by-category/compression.md)
 [Concurrency Parallelism (83)](by-category/concurrency-parallelism.md) · [Configuration (116)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (165)](by-category/cryptography.md) · [Data Science (36)](by-category/data-science.md) · [Database Datastore (852)](by-category/database-datastore.md) · [Datetime (190)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (42)](by-category/debugger.md) · [Dependency Manager (93)](by-category/dependency-manager.md) · [Documentation (99)](by-category/documentation.md)
 [Embedded Hardware (55)](by-category/embedded-hardware.md) · [Ffi Bindings (414)](by-category/ffi-bindings.md) · [Filesystem Os (1427)](by-category/filesystem-os.md) · [Formatter (616)](by-category/formatter.md)
-[Framework (56)](by-category/framework.md) · [Fuzzer (56)](by-category/fuzzer.md) · [Game Engine Game Dev (174)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1341)](by-category/ide-editor-integration.md)
+[Framework (56)](by-category/framework.md) · [Fuzzer (56)](by-category/fuzzer.md) · [Game Engine Game Dev (175)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1341)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (398)](by-category/image-audio-dsp.md) · [Interop Bindings (58)](by-category/interop-bindings.md) · [Interpreter Runtime (254)](by-category/interpreter-runtime.md) · [Jit Vm (60)](by-category/jit-vm.md)
-[Language Server (27)](by-category/language-server.md) · [Language Specification (1391)](by-category/language-specification.md) · [Library (5318)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (27)](by-category/language-server.md) · [Language Specification (1391)](by-category/language-specification.md) · [Library (5320)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (43)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (487)](by-category/logging-observability.md) · [Machine Learning (673)](by-category/machine-learning.md)
 [Math Numeric Scientific (85)](by-category/math-numeric-scientific.md) · [Memory Analyzer (90)](by-category/memory-analyzer.md) · [Message Broker (39)](by-category/message-broker.md) · [Networking Http (987)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (422)](by-category/package-manager.md) · [Parser Lexer Ast (1033)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (284)](by-category/precommit-ci-quality.md)
+[Other (14)](by-category/other.md) · [Package Manager (423)](by-category/package-manager.md) · [Parser Lexer Ast (1034)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (284)](by-category/precommit-ci-quality.md)
 [Profiler (82)](by-category/profiler.md) · [Project Scaffolding (130)](by-category/project-scaffolding.md) · [Registry Repository (108)](by-category/registry-repository.md) · [Sanitizer (13)](by-category/sanitizer.md)
 [Security Sast (333)](by-category/security-sast.md) · [Serialization (384)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (503)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (526)](by-category/testing-framework.md) · [Tutorial Book Styleguide (59)](by-category/tutorial-book-styleguide.md) · [Type Checker (301)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1517)](by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](by-category/utility-library.md) · [Visualization Gui (478)](by-category/visualization-gui.md) · [Web Framework (458)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1517)](by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](by-category/utility-library.md) · [Visualization Gui (478)](by-category/visualization-gui.md) · [Web Framework (459)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -2109,6 +2109,7 @@
 | `cran_packages_by_date-cfe2ecc92b484a` | modMStates | [open](records/r-modmstates-916b1f0c.md) |
 | `cran_packages_by_date-d068fc18fa416e` | urbstatdata | [open](records/r-urbstatdata-de4dc874.md) |
 | `cran_packages_by_date-d07d6323c6b9a6` | sportsR | [open](records/r-sportsr-078e5fcc.md) |
+| `cran_packages_by_date-d088094849788c` | routing | [open](records/r-routing-2f4a5f07.md) |
 | `cran_packages_by_date-d09da408768837` | envar | [open](records/r-envar-b96db934.md) |
 | `cran_packages_by_date-d0ada52431a1e6` | gemtc | [open](records/r-gemtc-650db489.md) |
 | `cran_packages_by_date-d0b08d36ccb5df` | grayleafspotdata | [open](records/r-grayleafspotdata-587a47f0.md) |
@@ -5456,6 +5457,7 @@
 | `github_search_assembly-0cd9da2dbb2c4c` | cyrus-and/gdb-dashboard | [open](records/assembly-cyrus-and-gdb-dashboard-ef48ce45.md) |
 | `github_search_assembly-0eee93dabcfe73` | 0xADE1A1DE/AssemblyLine | [open](records/assembly-0xade1a1de-assemblyline-114a6144.md) |
 | `github_search_assembly-0f19142719cf03` | awaescher/Fusion | [open](records/assembly-awaescher-fusion-614ef7c1.md) |
+| `github_search_assembly-0fa5add8007979` | linouxis9/ARMStrong | [open](records/assembly-linouxis9-armstrong-5d38b654.md) |
 | `github_search_assembly-10008dd3256660` | simon987/Much-Assembly-Required | [open](records/assembly-simon987-much-assembly-required-c15801d9.md) |
 | `github_search_assembly-1082f7a815891c` | needle-tools/compilation-visualizer | [open](records/assembly-needle-tools-compilation-visualizer-d3781e62.md) |
 | `github_search_assembly-10a1ce85701f52` | guitmz/virii | [open](records/assembly-guitmz-virii-ed6ff028.md) |
@@ -5603,6 +5605,7 @@
 | `github_search_assembly-88d0a2d55b25ed` | ajkhoury/UEFI-Bootkit | [open](records/assembly-ajkhoury-uefi-bootkit-3307a09a.md) |
 | `github_search_assembly-893dd2088993fb` | maniekx86/stillalive-os | [open](records/assembly-maniekx86-stillalive-os-3b900496.md) |
 | `github_search_assembly-8940ca913897e4` | jmechner/Prince-of-Persia-Apple-II | [open](records/assembly-jmechner-prince-of-persia-apple-ii-f90e7981.md) |
+| `github_search_assembly-8aa918472a7464` | cottsay/arm_asm_emu | [open](records/assembly-cottsay-arm-asm-emu-d1df6727.md) |
 | `github_search_assembly-8b824c5e4cdda2` | forestfoxx/awesome-hardware-fuzzing | [open](records/assembly-forestfoxx-awesome-hardware-fuzzing-aab4d188.md) |
 | `github_search_assembly-8c418576712f17` | danirod/nativeos | [open](records/assembly-danirod-nativeos-544db48e.md) |
 | `github_search_assembly-8d3ac3d0a3c413` | apple/swift-crypto | [open](records/assembly-apple-swift-crypto-1f447802.md) |
@@ -5622,6 +5625,7 @@
 | `github_search_assembly-99d9b91d5e7e58` | oriansj/stage0 | [open](records/assembly-oriansj-stage0-6791bc52.md) |
 | `github_search_assembly-9c88504c246398` | pret/pokered | [open](records/assembly-pret-pokered-f921a9c0.md) |
 | `github_search_assembly-9cda0aa73f4491` | xuhongv/StudyInEsp8266 | [open](records/assembly-xuhongv-studyinesp8266-c596a5a9.md) |
+| `github_search_assembly-9d29234afbb769` | daem0nc0re/macOS_ARM64_Shellcode | [open](records/assembly-daem0nc0re-macos-arm64-shellcode-80babd06.md) |
 | `github_search_assembly-9deaf1db0cb86c` | yhs0602/Android-Disassembler | [open](records/assembly-yhs0602-android-disassembler-1d409abc.md) |
 | `github_search_assembly-a03d535a53745e` | PrincetonUniversity/openpiton | [open](records/assembly-princetonuniversity-openpiton-eceb776d.md) |
 | `github_search_assembly-a07713e3a597fb` | justinmeiners/lc3-vm | [open](records/assembly-justinmeiners-lc3-vm-4d906562.md) |
@@ -5647,6 +5651,7 @@
 | `github_search_assembly-af5cd59fdd9bb8` | resilar/HotFinger | [open](records/assembly-resilar-hotfinger-a0e2596b.md) |
 | `github_search_assembly-b4002d8c1a8ccb` | nemasu/asmttpd | [open](records/assembly-nemasu-asmttpd-9a612693.md) |
 | `github_search_assembly-b5a548dd5b36af` | badamczewski/PowerUp | [open](records/assembly-badamczewski-powerup-798e7cfd.md) |
+| `github_search_assembly-b5edd05e1c556b` | barrettotte/qr-asm | [open](records/assembly-barrettotte-qr-asm-ee3d86c3.md) |
 | `github_search_assembly-b8acd699038636` | dethrace-labs/dethrace | [open](records/assembly-dethrace-labs-dethrace-0d609365.md) |
 | `github_search_assembly-b91c15075f0f5f` | robalb/x86-64-playground | [open](records/assembly-robalb-x86-64-playground-c440c3c0.md) |
 | `github_search_assembly-b9faa0483b98f4` | bytecode77/pe-union | [open](records/assembly-bytecode77-pe-union-295ee237.md) |
@@ -5655,6 +5660,7 @@
 | `github_search_assembly-bb88888829b942` | Captainarash/The_Holy_Book_of_X86 | [open](records/assembly-captainarash-the-holy-book-of-x86-eca501f2.md) |
 | `github_search_assembly-be2822b225cf24` | icebreaker/floppybird | [open](records/assembly-icebreaker-floppybird-0b70ef49.md) |
 | `github_search_assembly-bedfd5aff09e0a` | xtnded/codextended | [open](records/assembly-xtnded-codextended-97cbc636.md) |
+| `github_search_assembly-bfe50e96363d9b` | pgaskin/kobopatch | [open](records/assembly-pgaskin-kobopatch-ac409c3c.md) |
 | `github_search_assembly-c0a009bf3a8ccd` | segmentio/asm | [open](records/assembly-segmentio-asm-07cb5069.md) |
 | `github_search_assembly-c32234512ff2a0` | sehugg/8bitworkshop | [open](records/assembly-sehugg-8bitworkshop-62e01cd8.md) |
 | `github_search_assembly-c36f3bc1fee6e3` | alvin-tosh/Malware-Exhibit | [open](records/assembly-alvin-tosh-malware-exhibit-e411e5da.md) |
@@ -5688,6 +5694,7 @@
 | `github_search_assembly-dc95f9abe533c9` | virtualagc/virtualagc | [open](records/assembly-virtualagc-virtualagc-45e1ca87.md) |
 | `github_search_assembly-dcfd8f58917547` | wx-chevalier/CS-Notes | [open](records/assembly-wx-chevalier-cs-notes-c6d51bd4.md) |
 | `github_search_assembly-dd7aeb849833a9` | ZathuraDbg/ZathuraDbg | [open](records/assembly-zathuradbg-zathuradbg-df5d6b95.md) |
+| `github_search_assembly-de9dbe9c1c3145` | arm-education/Graphical-Micro-Architecture-Simulator | [open](records/assembly-arm-education-graphical-micro-architecture-simulator-3652940e.md) |
 | `github_search_assembly-df447fa9a3eef4` | GeoSn0w/Reverse-Engineering-Tutorials | [open](records/assembly-geosn0w-reverse-engineering-tutorials-9c7eb577.md) |
 | `github_search_assembly-e16ac739c86c8a` | jthuraisamy/SysWhispers | [open](records/assembly-jthuraisamy-syswhispers-6a63ec1e.md) |
 | `github_search_assembly-e5a53bd52962a1` | sim-/tgy | [open](records/assembly-sim-tgy-fbe11e77.md) |

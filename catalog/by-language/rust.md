@@ -9,22 +9,22 @@ Records: `2183`
 ## Category Index
 
 [Api Abi Checker (206)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (45)](../by-category/assertion-mocking.md) · [Async Runtime (135)](../by-category/async-runtime.md)
-[Benchmarking (167)](../by-category/benchmarking.md) · [Build System (925)](../by-category/build-system.md) · [Cli (545)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (167)](../by-category/benchmarking.md) · [Build System (925)](../by-category/build-system.md) · [Cli (546)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (101)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (48)](../by-category/compression.md)
 [Concurrency Parallelism (83)](../by-category/concurrency-parallelism.md) · [Configuration (116)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (165)](../by-category/cryptography.md) · [Data Science (36)](../by-category/data-science.md) · [Database Datastore (852)](../by-category/database-datastore.md) · [Datetime (190)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (93)](../by-category/dependency-manager.md) · [Documentation (99)](../by-category/documentation.md)
 [Embedded Hardware (55)](../by-category/embedded-hardware.md) · [Ffi Bindings (414)](../by-category/ffi-bindings.md) · [Filesystem Os (1427)](../by-category/filesystem-os.md) · [Formatter (616)](../by-category/formatter.md)
-[Framework (56)](../by-category/framework.md) · [Fuzzer (56)](../by-category/fuzzer.md) · [Game Engine Game Dev (174)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1341)](../by-category/ide-editor-integration.md)
+[Framework (56)](../by-category/framework.md) · [Fuzzer (56)](../by-category/fuzzer.md) · [Game Engine Game Dev (175)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1341)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (398)](../by-category/image-audio-dsp.md) · [Interop Bindings (58)](../by-category/interop-bindings.md) · [Interpreter Runtime (254)](../by-category/interpreter-runtime.md) · [Jit Vm (60)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1391)](../by-category/language-specification.md) · [Library (5318)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1391)](../by-category/language-specification.md) · [Library (5320)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (487)](../by-category/logging-observability.md) · [Machine Learning (673)](../by-category/machine-learning.md)
 [Math Numeric Scientific (85)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (90)](../by-category/memory-analyzer.md) · [Message Broker (39)](../by-category/message-broker.md) · [Networking Http (987)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (422)](../by-category/package-manager.md) · [Parser Lexer Ast (1033)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (284)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (423)](../by-category/package-manager.md) · [Parser Lexer Ast (1034)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (284)](../by-category/precommit-ci-quality.md)
 [Profiler (82)](../by-category/profiler.md) · [Project Scaffolding (130)](../by-category/project-scaffolding.md) · [Registry Repository (108)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
 [Security Sast (333)](../by-category/security-sast.md) · [Serialization (384)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (503)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (526)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (59)](../by-category/tutorial-book-styleguide.md) · [Type Checker (301)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1517)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](../by-category/utility-library.md) · [Visualization Gui (478)](../by-category/visualization-gui.md) · [Web Framework (458)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1517)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](../by-category/utility-library.md) · [Visualization Gui (478)](../by-category/visualization-gui.md) · [Web Framework (459)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -149,7 +149,7 @@ Records: `2183`
 | [tokio-postgres](../records/rust-tokio-postgres-a73409f8.md) | 0.7.18 | 2026-06-12T15:39:21.848936Z | registry-derived |
 | [tokio-reactor](../records/rust-tokio-reactor-fca8c6fd.md) | 0.1.12 | 2020-02-05T00:24:22.888936Z | crates_io |
 | [tokio-retry](../records/rust-tokio-retry-e205d60b.md) | 0.3.2 | 2026-06-09T13:20:30.927377Z | registry-derived |
-| [tokio-rustls](../records/rust-tokio-rustls-1af4ceb7.md) | 0.26.4 | 2025-09-26T15:31:04.364599Z | registry-derived |
+| [tokio-rustls](../records/rust-tokio-rustls-1af4ceb7.md) | 0.26.5 | 2026-09-04T08:52:06.163215Z | registry-derived |
 | [tokio-socks](../records/rust-tokio-socks-ce3b365f.md) | 0.5.3 | 2026-05-29T15:49:37.495920Z | crates_io |
 | [tokio-stream](../records/rust-tokio-stream-421c7300.md) | 0.1.19 | 2026-07-22T08:19:01.447272Z | registry-derived |
 | [tokio-sync](../records/rust-tokio-sync-0efbe7da.md) | 0.1.8 | 2020-02-05T00:23:14.285472Z | crates_io |
@@ -303,7 +303,7 @@ Records: `2183`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [autocfg](../records/rust-autocfg-ca0f8a64.md) | 1.5.1 | 2026-05-22T11:03:04.576867Z | registry-derived |
-| [cc](../records/rust-cc-40676e0b.md) | 1.4.4 | 2026-08-21T08:20:10.205770Z | registry-derived |
+| [cc](../records/rust-cc-40676e0b.md) | 1.4.5 | 2026-09-04T09:28:57.146598Z | registry-derived |
 | [clang-sys](../records/rust-clang-sys-f1961db1.md) | 1.9.1 | 2026-07-29T12:50:24.115950Z | registry-derived |
 | [cmov](../records/rust-cmov-061e5bcb.md) | 0.5.4 | 2026-05-28T19:07:33.005301Z | registry-derived |
 | [compiler_builtins](../records/rust-compiler-builtins-aa173dbd.md) | 0.1.160 | 2025-05-30T16:00:57.034414Z | crates_io |
@@ -2033,7 +2033,7 @@ Records: `2183`
 | [cargo_toml](../records/rust-cargo-toml-c9d5ba6f.md) | 1.0.1 | 2026-09-01T22:01:58.871701Z | registry-derived |
 | [document-features](../records/rust-document-features-87c303ad.md) | 0.2.12 | 2025-10-24T09:43:31.356480Z | registry-derived |
 | [embed-resource](../records/rust-embed-resource-394d9ab2.md) | 3.0.11 | 2026-07-02T15:15:09.314952Z | crates_io |
-| [find-msvc-tools](../records/rust-find-msvc-tools-14b1752c.md) | 0.1.11 | 2026-08-14T13:13:50.653084Z | registry-derived |
+| [find-msvc-tools](../records/rust-find-msvc-tools-14b1752c.md) | 0.1.12 | 2026-09-04T09:28:52.840002Z | registry-derived |
 | [gix-tempfile](../records/rust-gix-tempfile-d92d4888.md) | 24.0.0 | 2026-07-23T13:16:53.243575Z | registry-derived |
 | [hyper-named-pipe](../records/rust-hyper-named-pipe-0d9c512a.md) | 0.1.1 | 2026-07-20T17:16:46.064696Z | crates_io |
 | [khronos_api](../records/rust-khronos-api-72b60ecb.md) | 3.1.0 | 2019-04-01T04:52:05.349671Z | crates_io |

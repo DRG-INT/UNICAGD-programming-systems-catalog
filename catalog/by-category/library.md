@@ -1,6 +1,6 @@
 # Library
 
-Records: `5318`
+Records: `5320`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `5318`
 ## Category Index
 
 [Api Abi Checker (206)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (135)](async-runtime.md)
-[Benchmarking (167)](benchmarking.md) · [Build System (925)](build-system.md) · [Cli (545)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (167)](benchmarking.md) · [Build System (925)](build-system.md) · [Cli (546)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (101)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
 [Concurrency Parallelism (83)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (165)](cryptography.md) · [Data Science (36)](data-science.md) · [Database Datastore (852)](database-datastore.md) · [Datetime (190)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (99)](documentation.md)
 [Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (414)](ffi-bindings.md) · [Filesystem Os (1427)](filesystem-os.md) · [Formatter (616)](formatter.md)
-[Framework (56)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (174)](game-engine-game-dev.md) · [Ide Editor Integration (1341)](ide-editor-integration.md)
+[Framework (56)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (175)](game-engine-game-dev.md) · [Ide Editor Integration (1341)](ide-editor-integration.md)
 [Image Audio Dsp (398)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (254)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1391)](language-specification.md) · **[Library (5318)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1391)](language-specification.md) · **[Library (5320)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (487)](logging-observability.md) · [Machine Learning (673)](machine-learning.md)
 [Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (90)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (987)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (422)](package-manager.md) · [Parser Lexer Ast (1033)](parser-lexer-ast.md) · [Precommit Ci Quality (284)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (423)](package-manager.md) · [Parser Lexer Ast (1034)](parser-lexer-ast.md) · [Precommit Ci Quality (284)](precommit-ci-quality.md)
 [Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (333)](security-sast.md) · [Serialization (384)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (503)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (526)](testing-framework.md) · [Tutorial Book Styleguide (59)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
-[Undefined Behavior Analyzer (1517)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (478)](visualization-gui.md) · [Web Framework (458)](web-framework.md)
+[Undefined Behavior Analyzer (1517)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (478)](visualization-gui.md) · [Web Framework (459)](web-framework.md)
 
 ## C99
 
@@ -4124,7 +4124,7 @@ Records: `5318`
 | code.linenisgreat.com/madder/go | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-code-linenisgreat-com-madder-go-69f64a7e.md) |
 | codeberg.org/go-hep/hep.git | v0.27.0 | 2026-08-30T10:55:18.161122Z | [open](../records/go-codeberg-org-go-hep-hep-git-29878e71.md) |
 | codeberg.org/rimu/pyfedi | v1.6.9 | 2026-08-30T16:29:43.672078Z | [open](../records/go-codeberg-org-rimu-pyfedi-53519dff.md) |
-| CycloneDX/cyclonedx-gomod | partial | 2026-09-03T09:52:41Z | [open](../records/go-cyclonedx-cyclonedx-gomod-24572c1d.md) |
+| CycloneDX/cyclonedx-gomod | partial | 2026-09-04T09:52:27Z | [open](../records/go-cyclonedx-cyclonedx-gomod-24572c1d.md) |
 | darius-khll/golang-developer-roadmap | partial | 2023-02-13T08:08:20Z | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
 | gbrlsnchs/jwt | partial | 2026-02-20T19:55:17Z | [open](../records/go-gbrlsnchs-jwt-9cb26411.md) |
 | gethugothemes/hugo-modules | partial | 2026-07-01T05:48:56Z | [open](../records/go-gethugothemes-hugo-modules-1f48ce7f.md) |
@@ -5121,6 +5121,7 @@ Records: `5318`
 | alexfru/Win16asm | partial | 2017-11-06T11:41:11Z | [open](../records/assembly-alexfru-win16asm-73920671.md) |
 | aweeraman/odyssey | partial | 2021-10-16T14:09:50Z | [open](../records/assembly-aweeraman-odyssey-4c9fd9da.md) |
 | badamczewski/PowerUp | partial | 2024-01-25T09:23:08Z | [open](../records/assembly-badamczewski-powerup-798e7cfd.md) |
+| barrettotte/qr-asm | partial | 2021-09-06T21:17:34Z | [open](../records/assembly-barrettotte-qr-asm-ee3d86c3.md) |
 | CensoredUsername/dynasm-rs | partial | 2026-07-22T23:36:48Z | [open](../records/assembly-censoredusername-dynasm-rs-c02f4bf6.md) |
 | cyrus-and/gdb-dashboard | partial | 2026-07-17T09:53:53Z | [open](../records/assembly-cyrus-and-gdb-dashboard-ef48ce45.md) |
 | danirod/jacqueline | partial | 2019-12-27T13:08:51Z | [open](../records/assembly-danirod-jacqueline-b9dd004c.md) |
@@ -5138,6 +5139,7 @@ Records: `5318`
 | meribold/btry | partial | 2026-08-02T18:34:33Z | [open](../records/assembly-meribold-btry-acc80abb.md) |
 | mmcloughlin/avo | partial | 2026-09-01T05:34:18Z | [open](../records/assembly-mmcloughlin-avo-46167d30.md) |
 | mohitmishra786/amILearningEnough | partial | 2026-03-26T16:42:23Z | [open](../records/assembly-mohitmishra786-amilearningenough-299c3826.md) |
+| pgaskin/kobopatch | partial | 2026-03-17T19:44:48Z | [open](../records/assembly-pgaskin-kobopatch-ac409c3c.md) |
 | resilar/HotFinger | partial | 2025-09-28T06:43:41Z | [open](../records/assembly-resilar-hotfinger-a0e2596b.md) |
 | ReturnInfinity/Pure64 | partial | 2026-06-12T19:29:07Z | [open](../records/assembly-returninfinity-pure64-67a8cce1.md) |
 | segmentio/asm | partial | 2026-06-25T23:26:52Z | [open](../records/assembly-segmentio-asm-07cb5069.md) |

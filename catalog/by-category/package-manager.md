@@ -1,6 +1,6 @@
 # Package Manager
 
-Records: `422`
+Records: `423`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `422`
 ## Category Index
 
 [Api Abi Checker (206)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (135)](async-runtime.md)
-[Benchmarking (167)](benchmarking.md) · [Build System (925)](build-system.md) · [Cli (545)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (167)](benchmarking.md) · [Build System (925)](build-system.md) · [Cli (546)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (101)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
 [Concurrency Parallelism (83)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (165)](cryptography.md) · [Data Science (36)](data-science.md) · [Database Datastore (852)](database-datastore.md) · [Datetime (190)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (99)](documentation.md)
 [Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (414)](ffi-bindings.md) · [Filesystem Os (1427)](filesystem-os.md) · [Formatter (616)](formatter.md)
-[Framework (56)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (174)](game-engine-game-dev.md) · [Ide Editor Integration (1341)](ide-editor-integration.md)
+[Framework (56)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (175)](game-engine-game-dev.md) · [Ide Editor Integration (1341)](ide-editor-integration.md)
 [Image Audio Dsp (398)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (254)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1391)](language-specification.md) · [Library (5318)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1391)](language-specification.md) · [Library (5320)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (487)](logging-observability.md) · [Machine Learning (673)](machine-learning.md)
 [Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (90)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (987)](networking-http.md)
-[Other (14)](other.md) · **[Package Manager (422)](package-manager.md)** · [Parser Lexer Ast (1033)](parser-lexer-ast.md) · [Precommit Ci Quality (284)](precommit-ci-quality.md)
+[Other (14)](other.md) · **[Package Manager (423)](package-manager.md)** · [Parser Lexer Ast (1034)](parser-lexer-ast.md) · [Precommit Ci Quality (284)](precommit-ci-quality.md)
 [Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (333)](security-sast.md) · [Serialization (384)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (503)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (526)](testing-framework.md) · [Tutorial Book Styleguide (59)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
-[Undefined Behavior Analyzer (1517)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (478)](visualization-gui.md) · [Web Framework (458)](web-framework.md)
+[Undefined Behavior Analyzer (1517)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (478)](visualization-gui.md) · [Web Framework (459)](web-framework.md)
 
 ## C99
 
@@ -58,7 +58,7 @@ Records: `422`
 | cargo_toml | 1.0.1 | 2026-09-01T22:01:58.871701Z | [open](../records/rust-cargo-toml-c9d5ba6f.md) |
 | document-features | 0.2.12 | 2025-10-24T09:43:31.356480Z | [open](../records/rust-document-features-87c303ad.md) |
 | embed-resource | 3.0.11 | 2026-07-02T15:15:09.314952Z | [open](../records/rust-embed-resource-394d9ab2.md) |
-| find-msvc-tools | 0.1.11 | 2026-08-14T13:13:50.653084Z | [open](../records/rust-find-msvc-tools-14b1752c.md) |
+| find-msvc-tools | 0.1.12 | 2026-09-04T09:28:52.840002Z | [open](../records/rust-find-msvc-tools-14b1752c.md) |
 | gix-tempfile | 24.0.0 | 2026-07-23T13:16:53.243575Z | [open](../records/rust-gix-tempfile-d92d4888.md) |
 | hyper-named-pipe | 0.1.1 | 2026-07-20T17:16:46.064696Z | [open](../records/rust-hyper-named-pipe-0d9c512a.md) |
 | khronos_api | 3.1.0 | 2019-04-01T04:52:05.349671Z | [open](../records/rust-khronos-api-72b60ecb.md) |
@@ -565,6 +565,12 @@ Records: `422`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | makramjandar/NoOps-Yes-Back2Bash | partial | 2021-11-03T01:30:33Z | [open](../records/magazines-makramjandar-noops-yes-back2bash-61f2e7d8.md) |
+
+## Assembly
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| arm-education/Graphical-Micro-Architecture-Simulator | partial | 2025-06-13T09:26:37Z | [open](../records/assembly-arm-education-graphical-micro-architecture-simulator-3652940e.md) |
 
 ## Pattern language
 

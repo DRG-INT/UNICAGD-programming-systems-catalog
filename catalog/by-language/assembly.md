@@ -1,6 +1,6 @@
 # Assembly
 
-Records: `278`
+Records: `284`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `278`
 ## Category Index
 
 [Api Abi Checker (206)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (45)](../by-category/assertion-mocking.md) · [Async Runtime (135)](../by-category/async-runtime.md)
-[Benchmarking (167)](../by-category/benchmarking.md) · [Build System (925)](../by-category/build-system.md) · [Cli (545)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (167)](../by-category/benchmarking.md) · [Build System (925)](../by-category/build-system.md) · [Cli (546)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (101)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (48)](../by-category/compression.md)
 [Concurrency Parallelism (83)](../by-category/concurrency-parallelism.md) · [Configuration (116)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (165)](../by-category/cryptography.md) · [Data Science (36)](../by-category/data-science.md) · [Database Datastore (852)](../by-category/database-datastore.md) · [Datetime (190)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (93)](../by-category/dependency-manager.md) · [Documentation (99)](../by-category/documentation.md)
 [Embedded Hardware (55)](../by-category/embedded-hardware.md) · [Ffi Bindings (414)](../by-category/ffi-bindings.md) · [Filesystem Os (1427)](../by-category/filesystem-os.md) · [Formatter (616)](../by-category/formatter.md)
-[Framework (56)](../by-category/framework.md) · [Fuzzer (56)](../by-category/fuzzer.md) · [Game Engine Game Dev (174)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1341)](../by-category/ide-editor-integration.md)
+[Framework (56)](../by-category/framework.md) · [Fuzzer (56)](../by-category/fuzzer.md) · [Game Engine Game Dev (175)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1341)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (398)](../by-category/image-audio-dsp.md) · [Interop Bindings (58)](../by-category/interop-bindings.md) · [Interpreter Runtime (254)](../by-category/interpreter-runtime.md) · [Jit Vm (60)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1391)](../by-category/language-specification.md) · [Library (5318)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1391)](../by-category/language-specification.md) · [Library (5320)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (487)](../by-category/logging-observability.md) · [Machine Learning (673)](../by-category/machine-learning.md)
 [Math Numeric Scientific (85)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (90)](../by-category/memory-analyzer.md) · [Message Broker (39)](../by-category/message-broker.md) · [Networking Http (987)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (422)](../by-category/package-manager.md) · [Parser Lexer Ast (1033)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (284)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (423)](../by-category/package-manager.md) · [Parser Lexer Ast (1034)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (284)](../by-category/precommit-ci-quality.md)
 [Profiler (82)](../by-category/profiler.md) · [Project Scaffolding (130)](../by-category/project-scaffolding.md) · [Registry Repository (108)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
 [Security Sast (333)](../by-category/security-sast.md) · [Serialization (384)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (503)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (526)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (59)](../by-category/tutorial-book-styleguide.md) · [Type Checker (301)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1517)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](../by-category/utility-library.md) · [Visualization Gui (478)](../by-category/visualization-gui.md) · [Web Framework (458)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1517)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](../by-category/utility-library.md) · [Visualization Gui (478)](../by-category/visualization-gui.md) · [Web Framework (459)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -39,6 +39,7 @@ Records: `278`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [daem0nc0re/macOS_ARM64_Shellcode](../records/assembly-daem0nc0re-macos-arm64-shellcode-80babd06.md) | partial | 2025-06-08T02:58:27Z | registry-derived |
 | [jonatanSh/shelf](../records/assembly-jonatansh-shelf-bee68a33.md) | partial | 2023-08-27T17:55:04Z | registry-derived |
 | [Kazhuu/asm2cfg](../records/assembly-kazhuu-asm2cfg-8e13ec12.md) | partial | 2024-04-01T13:23:47Z | registry-derived |
 | [konatabrk/shellen](../records/assembly-konatabrk-shellen-8b37e63c.md) | partial | 2021-02-26T15:22:26Z | registry-derived |
@@ -166,6 +167,7 @@ Records: `278`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [cottsay/arm_asm_emu](../records/assembly-cottsay-arm-asm-emu-d1df6727.md) | partial | 2022-02-07T00:51:12Z | registry-derived |
 | [decompme/decomp.me](../records/assembly-decompme-decomp-me-72e4eec1.md) | partial | 2026-09-04T07:29:16Z | registry-derived |
 | [dethrace-labs/dethrace](../records/assembly-dethrace-labs-dethrace-0d609365.md) | partial | 2026-08-18T13:12:35Z | registry-derived |
 | [io12/BootMine](../records/assembly-io12-bootmine-85e26922.md) | partial | 2021-01-21T04:53:31Z | registry-derived |
@@ -269,7 +271,7 @@ Records: `278`
 | [nornagon/jonesforth](../records/assembly-nornagon-jonesforth-691f782b.md) | partial | 2023-04-04T16:56:38Z | registry-derived |
 | [obdev/v-usb](../records/assembly-obdev-v-usb-977cf25b.md) | partial | 2026-08-26T14:47:54Z | registry-derived |
 | [openhwgroup/core-v-verif](../records/assembly-openhwgroup-core-v-verif-9b6682d3.md) | partial | 2026-08-13T11:46:24Z | registry-derived |
-| [openhwgroup/cva6](../records/assembly-openhwgroup-cva6-c0f79b44.md) | partial | 2026-09-04T09:16:38Z | registry-derived |
+| [openhwgroup/cva6](../records/assembly-openhwgroup-cva6-c0f79b44.md) | partial | 2026-09-04T10:17:52Z | registry-derived |
 | [oriansj/stage0](../records/assembly-oriansj-stage0-6791bc52.md) | partial | 2026-06-17T03:03:21Z | registry-derived |
 | [Overv/MineAssemble](../records/assembly-overv-mineassemble-4e2e626b.md) | partial | 2023-09-11T09:31:31Z | registry-derived |
 | [PDP-10/its](../records/assembly-pdp-10-its-cfa6e89a.md) | partial | 2026-08-19T16:37:56Z | registry-derived |
@@ -324,6 +326,7 @@ Records: `278`
 | [alexfru/Win16asm](../records/assembly-alexfru-win16asm-73920671.md) | partial | 2017-11-06T11:41:11Z | registry-derived |
 | [aweeraman/odyssey](../records/assembly-aweeraman-odyssey-4c9fd9da.md) | partial | 2021-10-16T14:09:50Z | registry-derived |
 | [badamczewski/PowerUp](../records/assembly-badamczewski-powerup-798e7cfd.md) | partial | 2024-01-25T09:23:08Z | registry-derived |
+| [barrettotte/qr-asm](../records/assembly-barrettotte-qr-asm-ee3d86c3.md) | partial | 2021-09-06T21:17:34Z | registry-derived |
 | [CensoredUsername/dynasm-rs](../records/assembly-censoredusername-dynasm-rs-c02f4bf6.md) | partial | 2026-07-22T23:36:48Z | registry-derived |
 | [cyrus-and/gdb-dashboard](../records/assembly-cyrus-and-gdb-dashboard-ef48ce45.md) | partial | 2026-07-17T09:53:53Z | registry-derived |
 | [danirod/jacqueline](../records/assembly-danirod-jacqueline-b9dd004c.md) | partial | 2019-12-27T13:08:51Z | registry-derived |
@@ -341,6 +344,7 @@ Records: `278`
 | [meribold/btry](../records/assembly-meribold-btry-acc80abb.md) | partial | 2026-08-02T18:34:33Z | registry-derived |
 | [mmcloughlin/avo](../records/assembly-mmcloughlin-avo-46167d30.md) | partial | 2026-09-01T05:34:18Z | registry-derived |
 | [mohitmishra786/amILearningEnough](../records/assembly-mohitmishra786-amilearningenough-299c3826.md) | partial | 2026-03-26T16:42:23Z | registry-derived |
+| [pgaskin/kobopatch](../records/assembly-pgaskin-kobopatch-ac409c3c.md) | partial | 2026-03-17T19:44:48Z | registry-derived |
 | [resilar/HotFinger](../records/assembly-resilar-hotfinger-a0e2596b.md) | partial | 2025-09-28T06:43:41Z | registry-derived |
 | [ReturnInfinity/Pure64](../records/assembly-returninfinity-pure64-67a8cce1.md) | partial | 2026-06-12T19:29:07Z | registry-derived |
 | [segmentio/asm](../records/assembly-segmentio-asm-07cb5069.md) | partial | 2026-06-25T23:26:52Z | registry-derived |
@@ -388,14 +392,21 @@ Records: `278`
 | --- | --- | --- | --- |
 | [ashvardanian/less_slow.cpp](../records/assembly-ashvardanian-less-slow-cpp-50768d6c.md) | partial | 2026-07-27T01:01:01Z | registry-derived |
 | [minio/highwayhash](../records/assembly-minio-highwayhash-5634a2cc.md) | partial | 2026-03-21T05:38:40Z | registry-derived |
-| [nyxos-dev/nyx-os](../records/assembly-nyxos-dev-nyx-os-a701d2ff.md) | partial | 2026-09-03T18:48:35Z | registry-derived |
+| [nyxos-dev/nyx-os](../records/assembly-nyxos-dev-nyx-os-a701d2ff.md) | partial | 2026-09-04T10:12:11Z | registry-derived |
 | [OWASP/ZSC](../records/assembly-owasp-zsc-566fd5f9.md) | partial | 2024-03-14T22:19:20Z | registry-derived |
+
+### Package Manager
+
+| Name | Release | Date | Source |
+| --- | --- | --- | --- |
+| [arm-education/Graphical-Micro-Architecture-Simulator](../records/assembly-arm-education-graphical-micro-architecture-simulator-3652940e.md) | partial | 2025-06-13T09:26:37Z | registry-derived |
 
 ### Parser Lexer Ast
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [HJLebbink/asm-dude](../records/assembly-hjlebbink-asm-dude-98d99d19.md) | partial | 2026-08-12T22:37:10Z | registry-derived |
+| [linouxis9/ARMStrong](../records/assembly-linouxis9-armstrong-5d38b654.md) | partial | 2023-06-14T22:32:31Z | registry-derived |
 
 ### Precommit Ci Quality
 
