@@ -1,6 +1,6 @@
 # Library
 
-Records: `5284`
+Records: `5300`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `5284`
 ## Category Index
 
 [Api Abi Checker (205)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
-[Benchmarking (166)](benchmarking.md) · [Build System (920)](build-system.md) · [Cli (539)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (99)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
+[Benchmarking (166)](benchmarking.md) · [Build System (920)](build-system.md) · [Cli (540)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (101)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
 [Concurrency Parallelism (80)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (837)](database-datastore.md) · [Datetime (187)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (98)](documentation.md)
-[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (406)](ffi-bindings.md) · [Filesystem Os (1394)](filesystem-os.md) · [Formatter (613)](formatter.md)
-[Framework (54)](framework.md) · [Fuzzer (54)](fuzzer.md) · [Game Engine Game Dev (173)](game-engine-game-dev.md) · [Ide Editor Integration (1334)](ide-editor-integration.md)
+[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (409)](ffi-bindings.md) · [Filesystem Os (1407)](filesystem-os.md) · [Formatter (614)](formatter.md)
+[Framework (55)](framework.md) · [Fuzzer (55)](fuzzer.md) · [Game Engine Game Dev (173)](game-engine-game-dev.md) · [Ide Editor Integration (1334)](ide-editor-integration.md)
 [Image Audio Dsp (391)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (253)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1380)](language-specification.md) · **[Library (5284)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (483)](logging-observability.md) · [Machine Learning (661)](machine-learning.md)
-[Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (972)](networking-http.md)
+[Language Server (27)](language-server.md) · [Language Specification (1382)](language-specification.md) · **[Library (5300)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (484)](logging-observability.md) · [Machine Learning (665)](machine-learning.md)
+[Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (973)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (420)](package-manager.md) · [Parser Lexer Ast (1022)](parser-lexer-ast.md) · [Precommit Ci Quality (283)](precommit-ci-quality.md)
 [Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (333)](security-sast.md) · [Serialization (382)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (497)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (521)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (300)](type-checker.md)
-[Undefined Behavior Analyzer (1506)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (476)](visualization-gui.md) · [Web Framework (453)](web-framework.md)
+[Security Sast (333)](security-sast.md) · [Serialization (383)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (497)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (522)](testing-framework.md) · [Tutorial Book Styleguide (57)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
+[Undefined Behavior Analyzer (1510)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (476)](visualization-gui.md) · [Web Framework (454)](web-framework.md)
 
 ## C99
 
@@ -4146,7 +4146,7 @@ Records: `5284`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-04T02:19:15Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-04T02:58:48Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4160,7 +4160,7 @@ Records: `5284`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-04T02:18:30Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-04T03:03:30Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -5105,23 +5105,39 @@ Records: `5284`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 0xAX/asm | partial | 2026-08-25T10:24:56Z | [open](../records/assembly-0xax-asm-c781f702.md) |
+| abatchy17/SLAE | partial | 2017-05-23T23:03:04Z | [open](../records/assembly-abatchy17-slae-9f5ee474.md) |
 | ajkhoury/UEFI-Bootkit | partial | 2019-08-29T14:16:09Z | [open](../records/assembly-ajkhoury-uefi-bootkit-3307a09a.md) |
 | alexfru/regal86 | partial | 2023-08-20T23:36:43Z | [open](../records/assembly-alexfru-regal86-87e85f53.md) |
+| alexfru/Win16asm | partial | 2017-11-06T11:41:11Z | [open](../records/assembly-alexfru-win16asm-73920671.md) |
+| aweeraman/odyssey | partial | 2021-10-16T14:09:50Z | [open](../records/assembly-aweeraman-odyssey-4c9fd9da.md) |
 | badamczewski/PowerUp | partial | 2024-01-25T09:23:08Z | [open](../records/assembly-badamczewski-powerup-798e7cfd.md) |
 | CensoredUsername/dynasm-rs | partial | 2026-07-22T23:36:48Z | [open](../records/assembly-censoredusername-dynasm-rs-c02f4bf6.md) |
 | cyrus-and/gdb-dashboard | partial | 2026-07-17T09:53:53Z | [open](../records/assembly-cyrus-and-gdb-dashboard-ef48ce45.md) |
+| danirod/jacqueline | partial | 2019-12-27T13:08:51Z | [open](../records/assembly-danirod-jacqueline-b9dd004c.md) |
+| DispatchCode/x64-Instruction-Decoder | partial | 2026-08-25T13:50:56Z | [open](../records/assembly-dispatchcode-x64-instruction-decoder-08b48129.md) |
+| ElykDeer/A-Walk-Through-x86 | partial | 2018-12-17T17:05:17Z | [open](../records/assembly-elykdeer-a-walk-through-x86-11fc808b.md) |
+| evoasm/kasm | partial | 2019-10-23T17:07:16Z | [open](../records/assembly-evoasm-kasm-7c45dcde.md) |
+| GregoryComer/rust-x86asm | partial | 2020-06-21T18:39:44Z | [open](../records/assembly-gregorycomer-rust-x86asm-7b00499f.md) |
 | gurugio/lowlevelprogramming-university | partial | 2025-03-24T11:49:58Z | [open](../records/assembly-gurugio-lowlevelprogramming-university-485ace99.md) |
+| Inspirate789/BMSTU-MDPL | partial | 2022-05-21T05:40:36Z | [open](../records/assembly-inspirate789-bmstu-mdpl-f30ba10b.md) |
+| johannst/dynld | partial | 2025-05-10T19:58:26Z | [open](../records/assembly-johannst-dynld-10da7170.md) |
+| kvakil/0asm | partial | 2019-12-01T21:08:04Z | [open](../records/assembly-kvakil-0asm-59cb7b1e.md) |
+| las-nish/NASM-Assembly-Collection | partial | 2022-03-29T03:18:01Z | [open](../records/assembly-las-nish-nasm-assembly-collection-a42cbaf3.md) |
 | mattdibi/redox-keyboard | partial | 2026-05-26T18:15:22Z | [open](../records/assembly-mattdibi-redox-keyboard-e1f3e991.md) |
 | MattPD/cpplinks | partial | 2026-09-02T03:44:59Z | [open](../records/assembly-mattpd-cpplinks-29eb7bcc.md) |
 | meribold/btry | partial | 2026-08-02T18:34:33Z | [open](../records/assembly-meribold-btry-acc80abb.md) |
 | mmcloughlin/avo | partial | 2026-09-01T05:34:18Z | [open](../records/assembly-mmcloughlin-avo-46167d30.md) |
 | mohitmishra786/amILearningEnough | partial | 2026-03-26T16:42:23Z | [open](../records/assembly-mohitmishra786-amilearningenough-299c3826.md) |
+| resilar/HotFinger | partial | 2025-09-28T06:43:41Z | [open](../records/assembly-resilar-hotfinger-a0e2596b.md) |
 | ReturnInfinity/Pure64 | partial | 2026-06-12T19:29:07Z | [open](../records/assembly-returninfinity-pure64-67a8cce1.md) |
 | segmentio/asm | partial | 2026-06-25T23:26:52Z | [open](../records/assembly-segmentio-asm-07cb5069.md) |
+| slembcke/Tina | partial | 2026-01-08T20:44:16Z | [open](../records/assembly-slembcke-tina-71c3cf67.md) |
 | Stephane-D/SGDK | partial | 2026-08-17T08:47:30Z | [open](../records/assembly-stephane-d-sgdk-bad539e3.md) |
 | takenobu-hs/cpu-assembly-examples | partial | 2024-05-19T06:55:01Z | [open](../records/assembly-takenobu-hs-cpu-assembly-examples-b5867112.md) |
+| Thraetaona/EXACT | partial | 2024-06-13T18:59:42Z | [open](../records/assembly-thraetaona-exact-bb36746a.md) |
 | vonsim/vonsim | partial | 2026-05-29T02:08:00Z | [open](../records/assembly-vonsim-vonsim-6a8ef78f.md) |
 | vvaltchev/tilck | partial | 2026-09-03T07:20:11Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
+| xtnded/codextended | partial | 2026-05-07T10:43:51Z | [open](../records/assembly-xtnded-codextended-97cbc636.md) |
 | yds12/x64-roadmap | partial | 2020-07-16T15:54:20Z | [open](../records/assembly-yds12-x64-roadmap-3b9663e2.md) |
 | yrp604/rappel | partial | 2024-03-07T04:45:15Z | [open](../records/assembly-yrp604-rappel-4bf787bb.md) |
 

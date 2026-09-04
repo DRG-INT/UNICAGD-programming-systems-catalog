@@ -1,6 +1,6 @@
 # Undefined Behavior Analyzer
 
-Records: `1506`
+Records: `1510`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `1506`
 ## Category Index
 
 [Api Abi Checker (205)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
-[Benchmarking (166)](benchmarking.md) · [Build System (920)](build-system.md) · [Cli (539)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (99)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
+[Benchmarking (166)](benchmarking.md) · [Build System (920)](build-system.md) · [Cli (540)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (101)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
 [Concurrency Parallelism (80)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (837)](database-datastore.md) · [Datetime (187)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (98)](documentation.md)
-[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (406)](ffi-bindings.md) · [Filesystem Os (1394)](filesystem-os.md) · [Formatter (613)](formatter.md)
-[Framework (54)](framework.md) · [Fuzzer (54)](fuzzer.md) · [Game Engine Game Dev (173)](game-engine-game-dev.md) · [Ide Editor Integration (1334)](ide-editor-integration.md)
+[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (409)](ffi-bindings.md) · [Filesystem Os (1407)](filesystem-os.md) · [Formatter (614)](formatter.md)
+[Framework (55)](framework.md) · [Fuzzer (55)](fuzzer.md) · [Game Engine Game Dev (173)](game-engine-game-dev.md) · [Ide Editor Integration (1334)](ide-editor-integration.md)
 [Image Audio Dsp (391)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (253)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1380)](language-specification.md) · [Library (5284)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (483)](logging-observability.md) · [Machine Learning (661)](machine-learning.md)
-[Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (972)](networking-http.md)
+[Language Server (27)](language-server.md) · [Language Specification (1382)](language-specification.md) · [Library (5300)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (484)](logging-observability.md) · [Machine Learning (665)](machine-learning.md)
+[Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (973)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (420)](package-manager.md) · [Parser Lexer Ast (1022)](parser-lexer-ast.md) · [Precommit Ci Quality (283)](precommit-ci-quality.md)
 [Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (333)](security-sast.md) · [Serialization (382)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (497)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (521)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (300)](type-checker.md)
-**[Undefined Behavior Analyzer (1506)](undefined-behavior-analyzer.md)** · [Utility Library (95)](utility-library.md) · [Visualization Gui (476)](visualization-gui.md) · [Web Framework (453)](web-framework.md)
+[Security Sast (333)](security-sast.md) · [Serialization (383)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (497)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (522)](testing-framework.md) · [Tutorial Book Styleguide (57)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
+**[Undefined Behavior Analyzer (1510)](undefined-behavior-analyzer.md)** · [Utility Library (95)](utility-library.md) · [Visualization Gui (476)](visualization-gui.md) · [Web Framework (454)](web-framework.md)
 
 ## C++23
 
@@ -1570,12 +1570,16 @@ Records: `1506`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| calculuswhiz/Assembly-Syntax-Definition | partial | 2020-07-17T20:50:20Z | [open](../records/assembly-calculuswhiz-assembly-syntax-definition-034acff7.md) |
+| cirosantilli/arm-assembly-cheat | partial | 2019-06-26T09:29:09Z | [open](../records/assembly-cirosantilli-arm-assembly-cheat-ccbbcbdf.md) |
 | edubart/minicoro | partial | 2024-12-07T10:36:21Z | [open](../records/assembly-edubart-minicoro-74ca4b67.md) |
 | franeklubi/dino | partial | 2021-08-21T14:21:23Z | [open](../records/assembly-franeklubi-dino-8d3e9c1a.md) |
 | hlorenzi/customasm | partial | 2026-04-26T21:11:38Z | [open](../records/assembly-hlorenzi-customasm-85734886.md) |
 | IDouble/x86-Assembly-Reverse-Engineering | partial | 2024-03-01T20:10:00Z | [open](../records/assembly-idouble-x86-assembly-reverse-engineering-fc5247ea.md) |
 | tenderlove/fisk | partial | 2023-04-07T23:47:40Z | [open](../records/assembly-tenderlove-fisk-358e54fe.md) |
 | vector4wang/spring-boot-quick | partial | 2026-05-16T06:22:44Z | [open](../records/assembly-vector4wang-spring-boot-quick-58ca29aa.md) |
+| vercas/Beelzebub | partial | 2021-06-06T09:56:39Z | [open](../records/assembly-vercas-beelzebub-59d56548.md) |
+| zhangboyang/NEMU-public | partial | 2016-10-24T06:00:11Z | [open](../records/assembly-zhangboyang-nemu-public-f9c3007c.md) |
 
 ## Pattern language
 
@@ -1722,7 +1726,7 @@ Records: `1506`
 | gitlab-data/data-image | partial | 2026-08-21T11:24:30.282Z | [open](../records/repository-workplaces-gitlab-data-data-image-0af0c35c.md) |
 | gitlab-examples/kubernetes-deploy | partial | 2026-01-07T14:56:28.754Z | [open](../records/repository-workplaces-gitlab-examples-kubernetes-deploy-9a43e04a.md) |
 | gitlab-examples/ruby-autodeploy | partial | 2026-01-07T14:56:29.516Z | [open](../records/repository-workplaces-gitlab-examples-ruby-autodeploy-0ea70988.md) |
-| gitlab-org/caproni | partial | 2026-09-04T00:11:23.850Z | [open](../records/repository-workplaces-gitlab-org-caproni-40271619.md) |
+| gitlab-org/caproni | partial | 2026-09-04T03:08:24.677Z | [open](../records/repository-workplaces-gitlab-org-caproni-40271619.md) |
 | gitlab-org/charts/gitlab-agent | partial | 2026-08-27T06:20:07.801Z | [open](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) |
 | gitlab-org/ci-cd/gitlab-runner-pod-cleanup | partial | 2026-05-15T07:38:19.652Z | [open](../records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) |
 | gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-03T21:29:06.936Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
@@ -1730,7 +1734,7 @@ Records: `1506`
 | glitchtip/glitchtip-helm-chart | partial | 2026-08-01T00:27:07.881Z | [open](../records/repository-workplaces-glitchtip-glitchtip-helm-chart-8da5da49.md) |
 | just.insane/kubernetes | partial | 2019-12-24T04:31:25.427Z | [open](../records/repository-workplaces-just-insane-kubernetes-b3dc8533.md) |
 | k3s_hetzner/k3s_hetzner | partial | 2024-05-18T14:38:11.918Z | [open](../records/repository-workplaces-k3s-hetzner-k3s-hetzner-d2927843.md) |
-| kargo-ci/kubernetes-sigs-kubespray | partial | 2026-09-03T20:23:53.372Z | [open](../records/repository-workplaces-kargo-ci-kubernetes-sigs-kubespray-bd6a5638.md) |
+| kargo-ci/kubernetes-sigs-kubespray | partial | 2026-09-04T03:02:48.670Z | [open](../records/repository-workplaces-kargo-ci-kubernetes-sigs-kubespray-bd6a5638.md) |
 | ksxack/administrator-kubernetes-junior | partial | 2025-03-09T20:49:07.418Z | [open](../records/repository-workplaces-ksxack-administrator-kubernetes-junior-6dbf6036.md) |
 | lavitto/typo3-form-to-database | partial | 2026-01-28T10:30:57.005Z | [open](../records/repository-workplaces-lavitto-typo3-form-to-database-83392b7e.md) |
 | learndevopseasy/troubleshoot/kubernetes-apps | partial | 2024-12-18T10:50:49.219Z | [open](../records/repository-workplaces-learndevopseasy-troubleshoot-kubernetes-apps-43ef407e.md) |

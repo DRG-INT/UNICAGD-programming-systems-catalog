@@ -1,6 +1,6 @@
 # Ffi Bindings
 
-Records: `406`
+Records: `409`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `406`
 ## Category Index
 
 [Api Abi Checker (205)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
-[Benchmarking (166)](benchmarking.md) · [Build System (920)](build-system.md) · [Cli (539)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (99)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
+[Benchmarking (166)](benchmarking.md) · [Build System (920)](build-system.md) · [Cli (540)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (101)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
 [Concurrency Parallelism (80)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (837)](database-datastore.md) · [Datetime (187)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (98)](documentation.md)
-[Embedded Hardware (55)](embedded-hardware.md) · **[Ffi Bindings (406)](ffi-bindings.md)** · [Filesystem Os (1394)](filesystem-os.md) · [Formatter (613)](formatter.md)
-[Framework (54)](framework.md) · [Fuzzer (54)](fuzzer.md) · [Game Engine Game Dev (173)](game-engine-game-dev.md) · [Ide Editor Integration (1334)](ide-editor-integration.md)
+[Embedded Hardware (55)](embedded-hardware.md) · **[Ffi Bindings (409)](ffi-bindings.md)** · [Filesystem Os (1407)](filesystem-os.md) · [Formatter (614)](formatter.md)
+[Framework (55)](framework.md) · [Fuzzer (55)](fuzzer.md) · [Game Engine Game Dev (173)](game-engine-game-dev.md) · [Ide Editor Integration (1334)](ide-editor-integration.md)
 [Image Audio Dsp (391)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (253)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1380)](language-specification.md) · [Library (5284)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (483)](logging-observability.md) · [Machine Learning (661)](machine-learning.md)
-[Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (972)](networking-http.md)
+[Language Server (27)](language-server.md) · [Language Specification (1382)](language-specification.md) · [Library (5300)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (484)](logging-observability.md) · [Machine Learning (665)](machine-learning.md)
+[Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (973)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (420)](package-manager.md) · [Parser Lexer Ast (1022)](parser-lexer-ast.md) · [Precommit Ci Quality (283)](precommit-ci-quality.md)
 [Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (333)](security-sast.md) · [Serialization (382)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (497)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (521)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (300)](type-checker.md)
-[Undefined Behavior Analyzer (1506)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (476)](visualization-gui.md) · [Web Framework (453)](web-framework.md)
+[Security Sast (333)](security-sast.md) · [Serialization (383)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (497)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (522)](testing-framework.md) · [Tutorial Book Styleguide (57)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
+[Undefined Behavior Analyzer (1510)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (476)](visualization-gui.md) · [Web Framework (454)](web-framework.md)
 
 ## C++23
 
@@ -333,6 +333,7 @@ Records: `406`
 | broom.helpers | 1.23.0 | 2026-08-20 14:42:17 UTC | [open](../records/r-broom-helpers-1b43c513.md) |
 | calba | 0.1.3 | 2026-08-24 09:30:02 UTC | [open](../records/r-calba-e617a526.md) |
 | corels | 0.0.6 | 2026-08-28 11:30:02 UTC | [open](../records/r-corels-65f87571.md) |
+| fedstatAPIr | 1.1.0 | 2026-09-04 02:30:02 UTC | [open](../records/r-fedstatapir-e9f1550e.md) |
 | GeoThinneR | 2.1.2 | 2026-08-25 22:00:14 UTC | [open](../records/r-geothinner-15f3fb75.md) |
 | MazamaRollUtils | 1.1.0 | 2026-09-01 17:00:02 UTC | [open](../records/r-mazamarollutils-30bfe534.md) |
 | mvrsquared | 0.1.6 | 2026-08-31 22:20:08 UTC | [open](../records/r-mvrsquared-a768913b.md) |
@@ -551,6 +552,8 @@ Records: `406`
 | --- | --- | --- | --- |
 | ashvardanian/NumKong | partial | 2026-09-02T14:43:47Z | [open](../records/assembly-ashvardanian-numkong-bff1efd3.md) |
 | awaescher/Fusion | partial | 2022-09-01T06:28:12Z | [open](../records/assembly-awaescher-fusion-614ef7c1.md) |
+| cheng-alvin/jas | partial | 2026-04-23T12:31:32Z | [open](../records/assembly-cheng-alvin-jas-3c7aa7a0.md) |
+| hugsy/bochscpu-python | partial | 2025-08-10T17:01:32Z | [open](../records/assembly-hugsy-bochscpu-python-bba92484.md) |
 | KolibriOS/kolibrios | partial | 2026-09-03T12:02:50Z | [open](../records/assembly-kolibrios-kolibrios-ceca7961.md) |
 
 ## Pattern language

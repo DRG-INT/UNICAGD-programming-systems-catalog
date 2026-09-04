@@ -1,6 +1,6 @@
 # Filesystem Os
 
-Records: `1394`
+Records: `1407`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `1394`
 ## Category Index
 
 [Api Abi Checker (205)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
-[Benchmarking (166)](benchmarking.md) · [Build System (920)](build-system.md) · [Cli (539)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (99)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
+[Benchmarking (166)](benchmarking.md) · [Build System (920)](build-system.md) · [Cli (540)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (101)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
 [Concurrency Parallelism (80)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (837)](database-datastore.md) · [Datetime (187)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (98)](documentation.md)
-[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (406)](ffi-bindings.md) · **[Filesystem Os (1394)](filesystem-os.md)** · [Formatter (613)](formatter.md)
-[Framework (54)](framework.md) · [Fuzzer (54)](fuzzer.md) · [Game Engine Game Dev (173)](game-engine-game-dev.md) · [Ide Editor Integration (1334)](ide-editor-integration.md)
+[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (409)](ffi-bindings.md) · **[Filesystem Os (1407)](filesystem-os.md)** · [Formatter (614)](formatter.md)
+[Framework (55)](framework.md) · [Fuzzer (55)](fuzzer.md) · [Game Engine Game Dev (173)](game-engine-game-dev.md) · [Ide Editor Integration (1334)](ide-editor-integration.md)
 [Image Audio Dsp (391)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (253)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1380)](language-specification.md) · [Library (5284)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (483)](logging-observability.md) · [Machine Learning (661)](machine-learning.md)
-[Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (972)](networking-http.md)
+[Language Server (27)](language-server.md) · [Language Specification (1382)](language-specification.md) · [Library (5300)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (484)](logging-observability.md) · [Machine Learning (665)](machine-learning.md)
+[Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (973)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (420)](package-manager.md) · [Parser Lexer Ast (1022)](parser-lexer-ast.md) · [Precommit Ci Quality (283)](precommit-ci-quality.md)
 [Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (333)](security-sast.md) · [Serialization (382)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (497)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (521)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (300)](type-checker.md)
-[Undefined Behavior Analyzer (1506)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (476)](visualization-gui.md) · [Web Framework (453)](web-framework.md)
+[Security Sast (333)](security-sast.md) · [Serialization (383)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (497)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (522)](testing-framework.md) · [Tutorial Book Styleguide (57)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
+[Undefined Behavior Analyzer (1510)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (476)](visualization-gui.md) · [Web Framework (454)](web-framework.md)
 
 ## C++23
 
@@ -515,7 +515,7 @@ Records: `1394`
 | in_app_purchase | 3.3.0 | 2026-06-03T17:38:36.573147Z | [open](../records/dart-in-app-purchase-565f22cd.md) |
 | introduction_screen | 4.0.0 | 2025-08-27T11:12:05.255637Z | [open](../records/dart-introduction-screen-08d53b87.md) |
 | ionicons | 0.2.3 | 2026-08-14T11:56:18.816042Z | [open](../records/dart-ionicons-f135b4db.md) |
-| liquid_glass_widgets | 1.2.3 | 2026-09-01T03:55:28.858703Z | [open](../records/dart-liquid-glass-widgets-8954060d.md) |
+| liquid_glass_widgets | 1.3.0 | 2026-09-04T02:59:04.800603Z | [open](../records/dart-liquid-glass-widgets-8954060d.md) |
 | live_activities | 2.5.1 | 2026-07-17T15:17:34.645143Z | [open](../records/dart-live-activities-40c95df6.md) |
 | location | 10.0.2 | 2026-07-23T14:01:26.810867Z | [open](../records/dart-location-a6df9df7.md) |
 | mailer | 7.2.0 | 2026-07-21T07:21:47.227015Z | [open](../records/dart-mailer-bc4c38b4.md) |
@@ -582,7 +582,7 @@ Records: `1394`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| f/prompts.chat | partial | 2026-09-03T04:30:27Z | [open](../records/aim-s-f-prompts-chat-0bb76e45.md) |
+| f/prompts.chat | partial | 2026-09-04T03:17:56Z | [open](../records/aim-s-f-prompts-chat-0bb76e45.md) |
 | Fosowl/agenticSeek | partial | 2026-08-11T14:14:08Z | [open](../records/aim-s-fosowl-agenticseek-3f73fd5c.md) |
 | microsoft/graphrag | partial | 2026-09-02T01:41:10Z | [open](../records/aim-s-microsoft-graphrag-16e521eb.md) |
 | NirDiamant/RAG_Techniques | partial | 2026-08-29T08:59:28Z | [open](../records/aim-s-nirdiamant-rag-techniques-681ed394.md) |
@@ -1372,16 +1372,29 @@ Records: `1394`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| amindlost/dos32a | partial | 2022-01-21T04:15:28Z | [open](../records/assembly-amindlost-dos32a-7156478c.md) |
+| amindlost/pmodew | partial | 2022-01-21T04:15:58Z | [open](../records/assembly-amindlost-pmodew-9c388d8f.md) |
+| amindlost/wdosx | partial | 2022-01-20T00:09:47Z | [open](../records/assembly-amindlost-wdosx-ca63ce51.md) |
+| AtieP/FutureDOS | partial | 2020-12-09T16:07:35Z | [open](../records/assembly-atiep-futuredos-d6f17933.md) |
+| brenns10/sos | partial | 2022-10-07T06:26:44Z | [open](../records/assembly-brenns10-sos-4e96bc2c.md) |
 | carloslack/KoviD | partial | 2026-05-31T15:05:07Z | [open](../records/assembly-carloslack-kovid-05c9a038.md) |
+| danirod/nativeos | partial | 2022-10-21T20:22:08Z | [open](../records/assembly-danirod-nativeos-544db48e.md) |
+| DOS-History/86-DOS-0.11 | partial | 2026-04-27T14:37:59Z | [open](../records/assembly-dos-history-86-dos-0-11-5e085d33.md) |
 | dreamportdev/Osdev-Notes | partial | 2026-08-29T00:33:45Z | [open](../records/assembly-dreamportdev-osdev-notes-0bc186d6.md) |
+| GeoSn0w/Reverse-Engineering-Tutorials | partial | 2026-07-07T11:06:04Z | [open](../records/assembly-geosn0w-reverse-engineering-tutorials-9c7eb577.md) |
+| giannitedesco/scaraOS | partial | 2017-07-17T04:04:40Z | [open](../records/assembly-giannitedesco-scaraos-8331c2ad.md) |
+| IlanVinograd/OS_32Bit | partial | 2025-01-18T11:17:35Z | [open](../records/assembly-ilanvinograd-os-32bit-c56640cb.md) |
+| leoncinardo/MascOS | partial | 2026-04-26T16:15:37Z | [open](../records/assembly-leoncinardo-mascos-e4ea93aa.md) |
 | maniekx86/stillalive-os | partial | 2025-09-16T11:55:24Z | [open](../records/assembly-maniekx86-stillalive-os-3b900496.md) |
 | OpenRakis/Spice86 | partial | 2026-09-02T13:45:57Z | [open](../records/assembly-openrakis-spice86-2cdaf101.md) |
 | owent/libcopp | partial | 2026-01-20T11:34:32Z | [open](../records/assembly-owent-libcopp-45c438d7.md) |
 | rwfpl/rewolf-wow64ext | partial | 2023-01-17T20:00:42Z | [open](../records/assembly-rwfpl-rewolf-wow64ext-24fabb9b.md) |
 | shikaan/osle | partial | 2026-03-07T20:30:09Z | [open](../records/assembly-shikaan-osle-a280853b.md) |
+| tijme/reverse-engineering | partial | 2022-06-23T06:58:45Z | [open](../records/assembly-tijme-reverse-engineering-0a520ecb.md) |
+| TravorLZH/TravorOS | partial | 2018-08-07T09:05:42Z | [open](../records/assembly-travorlzh-travoros-9961f938.md) |
 | wichtounet/thor-os | partial | 2024-11-19T10:12:06Z | [open](../records/assembly-wichtounet-thor-os-cf1384c0.md) |
 | WindowsNT/asm | partial | 2025-05-10T09:55:30Z | [open](../records/assembly-windowsnt-asm-00dbedd0.md) |
-| XXIIVV/oscean | partial | 2026-09-04T00:03:59Z | [open](../records/assembly-xxiivv-oscean-5e954d22.md) |
+| XXIIVV/oscean | partial | 2026-09-04T02:31:08Z | [open](../records/assembly-xxiivv-oscean-5e954d22.md) |
 | yhs0602/Android-Disassembler | partial | 2026-03-22T07:00:35Z | [open](../records/assembly-yhs0602-android-disassembler-1d409abc.md) |
 
 ## Pattern language
