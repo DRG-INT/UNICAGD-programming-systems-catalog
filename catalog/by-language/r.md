@@ -1,6 +1,6 @@
 # R
 
-Records: `1601`
+Records: `1607`
 
 ## Navigation
 
@@ -15,15 +15,15 @@ Records: `1601`
 [Cryptography (165)](../by-category/cryptography.md) · [Data Science (36)](../by-category/data-science.md) · [Database Datastore (852)](../by-category/database-datastore.md) · [Datetime (190)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (93)](../by-category/dependency-manager.md) · [Documentation (99)](../by-category/documentation.md)
 [Embedded Hardware (55)](../by-category/embedded-hardware.md) · [Ffi Bindings (414)](../by-category/ffi-bindings.md) · [Filesystem Os (1427)](../by-category/filesystem-os.md) · [Formatter (616)](../by-category/formatter.md)
-[Framework (56)](../by-category/framework.md) · [Fuzzer (56)](../by-category/fuzzer.md) · [Game Engine Game Dev (174)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1340)](../by-category/ide-editor-integration.md)
+[Framework (56)](../by-category/framework.md) · [Fuzzer (56)](../by-category/fuzzer.md) · [Game Engine Game Dev (174)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1341)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (398)](../by-category/image-audio-dsp.md) · [Interop Bindings (58)](../by-category/interop-bindings.md) · [Interpreter Runtime (254)](../by-category/interpreter-runtime.md) · [Jit Vm (60)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1390)](../by-category/language-specification.md) · [Library (5317)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (486)](../by-category/logging-observability.md) · [Machine Learning (673)](../by-category/machine-learning.md)
-[Math Numeric Scientific (85)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (89)](../by-category/memory-analyzer.md) · [Message Broker (39)](../by-category/message-broker.md) · [Networking Http (987)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (422)](../by-category/package-manager.md) · [Parser Lexer Ast (1032)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (284)](../by-category/precommit-ci-quality.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1391)](../by-category/language-specification.md) · [Library (5318)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (487)](../by-category/logging-observability.md) · [Machine Learning (673)](../by-category/machine-learning.md)
+[Math Numeric Scientific (85)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (90)](../by-category/memory-analyzer.md) · [Message Broker (39)](../by-category/message-broker.md) · [Networking Http (987)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (422)](../by-category/package-manager.md) · [Parser Lexer Ast (1033)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (284)](../by-category/precommit-ci-quality.md)
 [Profiler (82)](../by-category/profiler.md) · [Project Scaffolding (130)](../by-category/project-scaffolding.md) · [Registry Repository (108)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
-[Security Sast (333)](../by-category/security-sast.md) · [Serialization (384)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (501)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (525)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (59)](../by-category/tutorial-book-styleguide.md) · [Type Checker (301)](../by-category/type-checker.md)
+[Security Sast (333)](../by-category/security-sast.md) · [Serialization (384)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (503)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (526)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (59)](../by-category/tutorial-book-styleguide.md) · [Type Checker (301)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1517)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](../by-category/utility-library.md) · [Visualization Gui (478)](../by-category/visualization-gui.md) · [Web Framework (458)](../by-category/web-framework.md)
 
 ## Categories
@@ -537,6 +537,7 @@ Records: `1601`
 | [csemTools](../records/r-csemtools-c10814a5.md) | 0.2.1 | 2026-08-26 18:00:02 UTC | registry-derived |
 | [DasGuptR](../records/r-dasguptr-b4cca0fa.md) | 2.2.0 | 2026-08-04 17:10:15 UTC | registry-derived |
 | [elixir](../records/r-elixir-e9ae1d00.md) | 0.1.2 | 2026-09-02 23:30:07 UTC | registry-derived |
+| [ellmer](../records/r-ellmer-66e8b3ee.md) | 0.5.0 | 2026-09-04 06:30:02 UTC | registry-derived |
 | [FESta](../records/r-festa-8945089e.md) | 1.0.2 | 2026-08-20 12:02:10 UTC | registry-derived |
 | [healthyAddress](../records/r-healthyaddress-62235377.md) | 0.5.2 | 2026-08-21 06:00:18 UTC | registry-derived |
 | [ipeaplot](../records/r-ipeaplot-f3ce9d27.md) | 1.0.0 | 2026-08-31 17:00:22 UTC | registry-derived |
@@ -867,6 +868,7 @@ Records: `1601`
 | [MTLRF](../records/r-mtlrf-b754c7fe.md) | 1.0.0 | 2026-08-21 13:10:42 UTC | registry-derived |
 | [mulgar](../records/r-mulgar-9b9617c4.md) | 1.0.8 | 2026-08-31 15:30:02 UTC | registry-derived |
 | [multcomp](../records/r-multcomp-ff29e00f.md) | 1.4-32 | 2026-08-21 22:00:29 UTC | registry-derived |
+| [multiSA](../records/r-multisa-ffeddd7b.md) | 0.5.0 | 2026-09-04 07:20:02 UTC | registry-derived |
 | [MultiStepSSAD](../records/r-multistepssad-295f08e5.md) | 0.1.0 | 2026-08-07 21:00:07 UTC | registry-derived |
 | [musclesyneRgies](../records/r-musclesynergies-5b82c586.md) | 1.3.1 | 2026-08-26 09:00:10 UTC | registry-derived |
 | [mvord](../records/r-mvord-6cc13edb.md) | 1.2.7 | 2026-08-21 12:50:02 UTC | registry-derived |
@@ -1138,8 +1140,9 @@ Records: `1601`
 | [PNC](../records/r-pnc-bb3998ca.md) | 0.2.0 | 2026-08-29 10:40:02 UTC | registry-derived |
 | [prepR4pcm](../records/r-prepr4pcm-bb841283.md) | 1.0.2 | 2026-08-25 13:10:02 UTC | registry-derived |
 | [proximetricsR](../records/r-proximetricsr-50636900.md) | 0.7.0 | 2026-08-04 14:10:02 UTC | registry-derived |
-| [ravetools](../records/r-ravetools-a93bc0b6.md) | 0.3.1 | 2026-08-31 17:00:02 UTC | registry-derived |
+| [ravetools](../records/r-ravetools-a93bc0b6.md) | 0.3.2 | 2026-09-04 07:00:02 UTC | registry-derived |
 | [rcatfish](../records/r-rcatfish-1590ad35.md) | 1.0.5 | 2026-08-20 10:30:02 UTC | registry-derived |
+| [redlist](../records/r-redlist-0504df08.md) | 0.3.0 | 2026-09-04 06:40:02 UTC | registry-derived |
 | [resemble](../records/r-resemble-e664c62d.md) | 3.0.1 | 2026-08-31 16:30:02 UTC | registry-derived |
 | [rhythm.metrics](../records/r-rhythm-metrics-1faa411f.md) | 1.1.0 | 2026-09-02 11:50:02 UTC | registry-derived |
 | [riskutility](../records/r-riskutility-d0180093.md) | 0.2.0 | 2026-09-02 09:50:02 UTC | registry-derived |
@@ -1626,6 +1629,7 @@ Records: `1601`
 | [phylopath](../records/r-phylopath-a352ea12.md) | 1.4.0 | 2026-08-20 09:20:02 UTC | registry-derived |
 | [poLCAParallel](../records/r-polcaparallel-c3425eb9.md) | 1.2.9 | 2026-08-25 14:50:02 UTC | registry-derived |
 | [polyglotSQL](../records/r-polyglotsql-f51f58a7.md) | 0.1.0 | 2026-08-04 16:20:07 UTC | registry-derived |
+| [postlink](../records/r-postlink-29a9d411.md) | 0.1.1 | 2026-09-04 07:00:14 UTC | registry-derived |
 | [PoultryEconR](../records/r-poultryeconr-377e37fa.md) | 0.1.0 | 2026-08-07 21:40:02 UTC | registry-derived |
 | [PRA](../records/r-pra-3b950abe.md) | 0.6.0 | 2026-08-28 14:40:17 UTC | registry-derived |
 | [projectLSA](../records/r-projectlsa-83ba082e.md) | 0.1.1 | 2026-08-22 09:20:08 UTC | registry-derived |
@@ -1636,6 +1640,7 @@ Records: `1601`
 | [qtsa](../records/r-qtsa-c66cce00.md) | 0.1.1 | 2026-08-06 13:10:09 UTC | registry-derived |
 | [quanteda](../records/r-quanteda-fa6ac9de.md) | 4.5.0 | 2026-08-04 19:40:02 UTC | registry-derived |
 | [RaCE.NMA](../records/r-race-nma-5c8d438d.md) | 1.2.0 | 2026-08-05 09:10:02 UTC | registry-derived |
+| [ramchoice](../records/r-ramchoice-02e5d884.md) | 3.0.0 | 2026-09-04 06:40:10 UTC | registry-derived |
 | [rapsimng.decide.core](../records/r-rapsimng-decide-core-c432725e.md) | 0.1.0 | 2026-08-09 08:40:08 UTC | registry-derived |
 | [rchime](../records/r-rchime-c9268c48.md) | 0.1.2 | 2026-08-21 14:50:02 UTC | registry-derived |
 | [RGDrivers](../records/r-rgdrivers-991c0a5d.md) | 0.1.0 | 2026-08-06 10:20:02 UTC | registry-derived |
@@ -1743,6 +1748,7 @@ Records: `1601`
 | [tirt](../records/r-tirt-0e237b86.md) | 0.4.0 | 2026-08-20 08:10:02 UTC | registry-derived |
 | [trend](../records/r-trend-26b91420.md) | 1.1.8 | 2026-09-03 14:40:02 UTC | registry-derived |
 | [vartest](../records/r-vartest-b1935da3.md) | 1.7 | 2026-08-25 10:50:02 UTC | registry-derived |
+| [weightedGCM](../records/r-weightedgcm-d44149a3.md) | 0.1.2 | 2026-09-04 08:00:02 UTC | registry-derived |
 
 ### Tutorial Book Styleguide
 

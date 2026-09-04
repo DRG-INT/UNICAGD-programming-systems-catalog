@@ -15,15 +15,15 @@ Records: `2407`
 [Cryptography (165)](../by-category/cryptography.md) · [Data Science (36)](../by-category/data-science.md) · [Database Datastore (852)](../by-category/database-datastore.md) · [Datetime (190)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (93)](../by-category/dependency-manager.md) · [Documentation (99)](../by-category/documentation.md)
 [Embedded Hardware (55)](../by-category/embedded-hardware.md) · [Ffi Bindings (414)](../by-category/ffi-bindings.md) · [Filesystem Os (1427)](../by-category/filesystem-os.md) · [Formatter (616)](../by-category/formatter.md)
-[Framework (56)](../by-category/framework.md) · [Fuzzer (56)](../by-category/fuzzer.md) · [Game Engine Game Dev (174)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1340)](../by-category/ide-editor-integration.md)
+[Framework (56)](../by-category/framework.md) · [Fuzzer (56)](../by-category/fuzzer.md) · [Game Engine Game Dev (174)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1341)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (398)](../by-category/image-audio-dsp.md) · [Interop Bindings (58)](../by-category/interop-bindings.md) · [Interpreter Runtime (254)](../by-category/interpreter-runtime.md) · [Jit Vm (60)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1390)](../by-category/language-specification.md) · [Library (5317)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (486)](../by-category/logging-observability.md) · [Machine Learning (673)](../by-category/machine-learning.md)
-[Math Numeric Scientific (85)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (89)](../by-category/memory-analyzer.md) · [Message Broker (39)](../by-category/message-broker.md) · [Networking Http (987)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (422)](../by-category/package-manager.md) · [Parser Lexer Ast (1032)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (284)](../by-category/precommit-ci-quality.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1391)](../by-category/language-specification.md) · [Library (5318)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (487)](../by-category/logging-observability.md) · [Machine Learning (673)](../by-category/machine-learning.md)
+[Math Numeric Scientific (85)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (90)](../by-category/memory-analyzer.md) · [Message Broker (39)](../by-category/message-broker.md) · [Networking Http (987)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (422)](../by-category/package-manager.md) · [Parser Lexer Ast (1033)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (284)](../by-category/precommit-ci-quality.md)
 [Profiler (82)](../by-category/profiler.md) · [Project Scaffolding (130)](../by-category/project-scaffolding.md) · [Registry Repository (108)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
-[Security Sast (333)](../by-category/security-sast.md) · [Serialization (384)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (501)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (525)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (59)](../by-category/tutorial-book-styleguide.md) · [Type Checker (301)](../by-category/type-checker.md)
+[Security Sast (333)](../by-category/security-sast.md) · [Serialization (384)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (503)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (526)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (59)](../by-category/tutorial-book-styleguide.md) · [Type Checker (301)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1517)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](../by-category/utility-library.md) · [Visualization Gui (478)](../by-category/visualization-gui.md) · [Web Framework (458)](../by-category/web-framework.md)
 
 ## Categories
@@ -397,7 +397,7 @@ Records: `2407`
 | [@ionic/cli-framework-output](../records/node-js-javascript-ionic-cli-framework-output-8324bb8a.md) | 2.2.8 | 2023-12-19T22:38:35.365Z | registry-derived |
 | [@ionic/cli-framework-prompts](../records/node-js-javascript-ionic-cli-framework-prompts-5599c31f.md) | 2.1.13 | 2023-12-19T22:38:35.436Z | registry-derived |
 | [@knocklabs/cli](../records/node-js-javascript-knocklabs-cli-62154908.md) | 1.2.3 | 2026-08-13T15:12:15.170Z | registry-derived |
-| [@lightdash/cli](../records/node-js-javascript-lightdash-cli-ba24b859.md) | 2.119.0 | 2026-09-03T17:34:06.939Z | registry-derived |
+| [@lightdash/cli](../records/node-js-javascript-lightdash-cli-ba24b859.md) | 2.121.1 | 2026-09-04T08:14:49.832Z | registry-derived |
 | [@lingui/cli](../records/node-js-javascript-lingui-cli-343f33ec.md) | 6.6.0 | 2026-07-24T13:52:53.439Z | registry-derived |
 | [@maizzle/cli](../records/node-js-javascript-maizzle-cli-a7a13457.md) | 2.0.0 | 2024-12-16T17:59:24.900Z | registry-derived |
 | [@marp-team/marp-cli](../records/node-js-javascript-marp-team-marp-cli-b69e1548.md) | 4.5.0 | 2026-07-17T23:07:09.399Z | registry-derived |
@@ -450,7 +450,7 @@ Records: `2407`
 | [@ui5/logger](../records/node-js-javascript-ui5-logger-9bf39db4.md) | 4.0.2 | 2025-09-11T13:14:39.975Z | registry-derived |
 | [@ui5/project](../records/node-js-javascript-ui5-project-4c9f4023.md) | 4.0.17 | 2026-06-15T13:18:37.259Z | registry-derived |
 | [@unlighthouse/cli](../records/node-js-javascript-unlighthouse-cli-da417c2f.md) | 0.18.0 | 2026-06-29T03:12:38.954Z | registry-derived |
-| [@unocss/cli](../records/node-js-javascript-unocss-cli-c357f3f3.md) | 66.9.2 | 2026-09-02T03:03:06.544Z | registry-derived |
+| [@unocss/cli](../records/node-js-javascript-unocss-cli-c357f3f3.md) | 66.10.0 | 2026-09-04T08:03:18.641Z | registry-derived |
 | [@usebruno/cli](../records/node-js-javascript-usebruno-cli-61be65ea.md) | 4.1.0 | 2026-09-01T18:00:53.653Z | registry-derived |
 | [@vercel/cli-exec](../records/node-js-javascript-vercel-cli-exec-8a3b557a.md) | 1.0.1 | 2026-08-03T22:24:21.265Z | registry-derived |
 | [@vue/cli-plugin-babel](../records/node-js-javascript-vue-cli-plugin-babel-94e74e64.md) | 5.0.9 | 2025-08-21T10:57:06.051Z | registry-derived |

@@ -1,6 +1,6 @@
 # Library
 
-Records: `5317`
+Records: `5318`
 
 ## Navigation
 
@@ -15,15 +15,15 @@ Records: `5317`
 [Cryptography (165)](cryptography.md) · [Data Science (36)](data-science.md) · [Database Datastore (852)](database-datastore.md) · [Datetime (190)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (99)](documentation.md)
 [Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (414)](ffi-bindings.md) · [Filesystem Os (1427)](filesystem-os.md) · [Formatter (616)](formatter.md)
-[Framework (56)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (174)](game-engine-game-dev.md) · [Ide Editor Integration (1340)](ide-editor-integration.md)
+[Framework (56)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (174)](game-engine-game-dev.md) · [Ide Editor Integration (1341)](ide-editor-integration.md)
 [Image Audio Dsp (398)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (254)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1390)](language-specification.md) · **[Library (5317)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (486)](logging-observability.md) · [Machine Learning (673)](machine-learning.md)
-[Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (987)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (422)](package-manager.md) · [Parser Lexer Ast (1032)](parser-lexer-ast.md) · [Precommit Ci Quality (284)](precommit-ci-quality.md)
+[Language Server (27)](language-server.md) · [Language Specification (1391)](language-specification.md) · **[Library (5318)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (487)](logging-observability.md) · [Machine Learning (673)](machine-learning.md)
+[Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (90)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (987)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (422)](package-manager.md) · [Parser Lexer Ast (1033)](parser-lexer-ast.md) · [Precommit Ci Quality (284)](precommit-ci-quality.md)
 [Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (333)](security-sast.md) · [Serialization (384)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (501)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (525)](testing-framework.md) · [Tutorial Book Styleguide (59)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
+[Security Sast (333)](security-sast.md) · [Serialization (384)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (503)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (526)](testing-framework.md) · [Tutorial Book Styleguide (59)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
 [Undefined Behavior Analyzer (1517)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (478)](visualization-gui.md) · [Web Framework (458)](web-framework.md)
 
 ## C99
@@ -2769,6 +2769,7 @@ Records: `5317`
 | MTLRF | 1.0.0 | 2026-08-21 13:10:42 UTC | [open](../records/r-mtlrf-b754c7fe.md) |
 | mulgar | 1.0.8 | 2026-08-31 15:30:02 UTC | [open](../records/r-mulgar-9b9617c4.md) |
 | multcomp | 1.4-32 | 2026-08-21 22:00:29 UTC | [open](../records/r-multcomp-ff29e00f.md) |
+| multiSA | 0.5.0 | 2026-09-04 07:20:02 UTC | [open](../records/r-multisa-ffeddd7b.md) |
 | MultiStepSSAD | 0.1.0 | 2026-08-07 21:00:07 UTC | [open](../records/r-multistepssad-295f08e5.md) |
 | musclesyneRgies | 1.3.1 | 2026-08-26 09:00:10 UTC | [open](../records/r-musclesynergies-5b82c586.md) |
 | mvord | 1.2.7 | 2026-08-21 12:50:02 UTC | [open](../records/r-mvord-6cc13edb.md) |
@@ -4451,7 +4452,7 @@ Records: `5317`
 | jingjing2222/react-native-nitro-geolocation | partial | 2026-08-31T02:26:01Z | [open](../records/maps-jingjing2222-react-native-nitro-geolocation-88c61895.md) |
 | juxt/bidi | partial | 2023-03-15T10:46:57Z | [open](../records/maps-juxt-bidi-4ad5a334.md) |
 | karam-mustafa/laravel-geographical-calculator | partial | 2023-06-03T12:13:40Z | [open](../records/maps-karam-mustafa-laravel-geographical-calculator-a47febb3.md) |
-| komoot/photon | partial | 2026-08-18T15:45:42Z | [open](../records/maps-komoot-photon-d1651635.md) |
+| komoot/photon | partial | 2026-09-04T07:48:31Z | [open](../records/maps-komoot-photon-d1651635.md) |
 | luka1199/geo-heatmap | partial | 2024-08-17T16:08:23Z | [open](../records/maps-luka1199-geo-heatmap-7b04caf6.md) |
 | lukepighetti/fluro | partial | 2023-03-22T17:54:12Z | [open](../records/maps-lukepighetti-fluro-c809970d.md) |
 | luxiaoxun/MapDownloader | unknown | github_search_does_not_include_release_date | [open](../records/maps-luxiaoxun-mapdownloader-0e853bb6.md) |
@@ -4480,7 +4481,7 @@ Records: `5317`
 | r-spatial/mapview | partial | 2025-09-05T07:54:41Z | [open](../records/maps-r-spatial-mapview-10b63596.md) |
 | r-tmap/tmap | partial | 2026-08-26T22:27:44Z | [open](../records/maps-r-tmap-tmap-71b21a50.md) |
 | reinterpretcat/utymap | partial | 2019-05-16T10:45:13Z | [open](../records/maps-reinterpretcat-utymap-26781f3b.md) |
-| RxChi1d/immich-geodata-zh-tw | partial | 2026-09-03T05:37:51Z | [open](../records/maps-rxchi1d-immich-geodata-zh-tw-74f77fc7.md) |
+| RxChi1d/immich-geodata-zh-tw | partial | 2026-09-04T08:14:34Z | [open](../records/maps-rxchi1d-immich-geodata-zh-tw-74f77fc7.md) |
 | sakitam-fdd/HMap | partial | 2018-11-04T14:06:57Z | [open](../records/maps-sakitam-fdd-hmap-f0c9df14.md) |
 | sandstrom/country-bounding-boxes | partial | 2020-02-06T08:52:09Z | [open](../records/maps-sandstrom-country-bounding-boxes-21886a05.md) |
 | SharpMap/SharpMap | partial | 2025-01-06T15:20:53Z | [open](../records/maps-sharpmap-sharpmap-0d7d79eb.md) |
@@ -5446,7 +5447,7 @@ Records: `5317`
 | abhay-ramesh/pushduck | partial | 2026-09-02T20:00:06Z | [open](../records/databases-abhay-ramesh-pushduck-a045aead.md) |
 | anthonybudd/S4 | partial | 2021-03-03T20:08:07Z | [open](../records/databases-anthonybudd-s4-cbdae55c.md) |
 | apache/doris-flink-connector | partial | 2026-08-28T09:25:14Z | [open](../records/databases-apache-doris-flink-connector-03be6ee5.md) |
-| apache/drill | partial | 2026-09-01T05:57:00Z | [open](../records/databases-apache-drill-5e3bde8a.md) |
+| apache/drill | partial | 2026-09-03T13:58:07Z | [open](../records/databases-apache-drill-5e3bde8a.md) |
 | awslabs/amazon-s3-find-and-forget | partial | 2026-09-02T23:55:43Z | [open](../records/databases-awslabs-amazon-s3-find-and-forget-6b9f17d6.md) |
 | ByConity/ByConity | partial | 2026-06-14T02:35:45Z | [open](../records/databases-byconity-byconity-c80e34b8.md) |
 | clojure.jdbc | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-clojure-jdbc-3ab0e552.md) |
@@ -5454,7 +5455,7 @@ Records: `5317`
 | cravendb | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-cravendb-f38f9ff5.md) |
 | Datomic | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-datomic-4f9c8bd8.md) |
 | dolphindb/DolphinDBPlugin | partial | 2026-07-20T04:17:42Z | [open](../records/databases-dolphindb-dolphindbplugin-117a11bd.md) |
-| duckdb/duckdb-odbc | partial | 2026-09-02T06:55:46Z | [open](../records/databases-duckdb-duckdb-odbc-3d201108.md) |
+| duckdb/duckdb-odbc | partial | 2026-09-03T07:06:39Z | [open](../records/databases-duckdb-duckdb-odbc-3d201108.md) |
 | duckdb/duckdb-r | partial | 2026-08-31T21:01:32Z | [open](../records/databases-duckdb-duckdb-r-6dc81616.md) |
 | duckdb/duckdb-wasm | partial | 2026-07-28T09:43:35Z | [open](../records/databases-duckdb-duckdb-wasm-c56947ec.md) |
 | ebean-orm/ebean | partial | 2026-08-28T22:43:07Z | [open](../records/databases-ebean-orm-ebean-f16dcb8d.md) |
@@ -5475,9 +5476,9 @@ Records: `5317`
 | scratchdata/scratchdata | partial | 2024-07-19T17:29:04Z | [open](../records/databases-scratchdata-scratchdata-7f09b0b9.md) |
 | spring-projects/spring-data-relational | partial | 2026-09-01T11:41:01Z | [open](../records/databases-spring-projects-spring-data-relational-4dc71488.md) |
 | storj/storj | partial | 2026-09-02T18:07:46Z | [open](../records/databases-storj-storj-1c5528ab.md) |
-| swaldman/c3p0 | partial | 2026-08-27T19:26:42Z | [open](../records/databases-swaldman-c3p0-610c0ed4.md) |
+| swaldman/c3p0 | partial | 2026-09-04T04:58:21Z | [open](../records/databases-swaldman-c3p0-610c0ed4.md) |
 | treeverse/lakeFS | partial | 2026-08-19T13:41:32Z | [open](../records/databases-treeverse-lakefs-f069dae0.md) |
-| typelevel/doobie | partial | 2026-08-28T03:12:28Z | [open](../records/databases-typelevel-doobie-8033225a.md) |
+| typelevel/doobie | partial | 2026-09-03T05:41:52Z | [open](../records/databases-typelevel-doobie-8033225a.md) |
 | zycgit/hasor | partial | 2022-12-14T20:50:39Z | [open](../records/databases-zycgit-hasor-03670d93.md) |
 
 ## Repository Workplaces

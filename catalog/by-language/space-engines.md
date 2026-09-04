@@ -1,6 +1,6 @@
 # Space Engines
 
-Records: `156`
+Records: `157`
 
 ## Navigation
 
@@ -15,15 +15,15 @@ Records: `156`
 [Cryptography (165)](../by-category/cryptography.md) · [Data Science (36)](../by-category/data-science.md) · [Database Datastore (852)](../by-category/database-datastore.md) · [Datetime (190)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (93)](../by-category/dependency-manager.md) · [Documentation (99)](../by-category/documentation.md)
 [Embedded Hardware (55)](../by-category/embedded-hardware.md) · [Ffi Bindings (414)](../by-category/ffi-bindings.md) · [Filesystem Os (1427)](../by-category/filesystem-os.md) · [Formatter (616)](../by-category/formatter.md)
-[Framework (56)](../by-category/framework.md) · [Fuzzer (56)](../by-category/fuzzer.md) · [Game Engine Game Dev (174)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1340)](../by-category/ide-editor-integration.md)
+[Framework (56)](../by-category/framework.md) · [Fuzzer (56)](../by-category/fuzzer.md) · [Game Engine Game Dev (174)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1341)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (398)](../by-category/image-audio-dsp.md) · [Interop Bindings (58)](../by-category/interop-bindings.md) · [Interpreter Runtime (254)](../by-category/interpreter-runtime.md) · [Jit Vm (60)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1390)](../by-category/language-specification.md) · [Library (5317)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (486)](../by-category/logging-observability.md) · [Machine Learning (673)](../by-category/machine-learning.md)
-[Math Numeric Scientific (85)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (89)](../by-category/memory-analyzer.md) · [Message Broker (39)](../by-category/message-broker.md) · [Networking Http (987)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (422)](../by-category/package-manager.md) · [Parser Lexer Ast (1032)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (284)](../by-category/precommit-ci-quality.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1391)](../by-category/language-specification.md) · [Library (5318)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (487)](../by-category/logging-observability.md) · [Machine Learning (673)](../by-category/machine-learning.md)
+[Math Numeric Scientific (85)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (90)](../by-category/memory-analyzer.md) · [Message Broker (39)](../by-category/message-broker.md) · [Networking Http (987)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (422)](../by-category/package-manager.md) · [Parser Lexer Ast (1033)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (284)](../by-category/precommit-ci-quality.md)
 [Profiler (82)](../by-category/profiler.md) · [Project Scaffolding (130)](../by-category/project-scaffolding.md) · [Registry Repository (108)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
-[Security Sast (333)](../by-category/security-sast.md) · [Serialization (384)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (501)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (525)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (59)](../by-category/tutorial-book-styleguide.md) · [Type Checker (301)](../by-category/type-checker.md)
+[Security Sast (333)](../by-category/security-sast.md) · [Serialization (384)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (503)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (526)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (59)](../by-category/tutorial-book-styleguide.md) · [Type Checker (301)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1517)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](../by-category/utility-library.md) · [Visualization Gui (478)](../by-category/visualization-gui.md) · [Web Framework (458)](../by-category/web-framework.md)
 
 ## Categories
@@ -250,16 +250,17 @@ Records: `156`
 | [CS-SI/Orekit](../records/space-engines-cs-si-orekit-fd0e471c.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [deflorio/SpOCK](../records/space-engines-deflorio-spock-3f3262df.md) | partial | 2026-04-17T08:49:07Z | registry-derived |
 | [DJBen/Graviton](../records/space-engines-djben-graviton-cc868ebf.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [duncaneddy/brahe](../records/space-engines-duncaneddy-brahe-7ee764e2.md) | partial | 2026-09-03T18:11:20Z | registry-derived |
+| [duncaneddy/brahe](../records/space-engines-duncaneddy-brahe-7ee764e2.md) | partial | 2026-09-04T07:16:39Z | registry-derived |
 | [esa/dSGP4](../records/space-engines-esa-dsgp4-8c05d97f.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [esa/pykep](../records/space-engines-esa-pykep-de004d6c.md) | partial | 2026-07-07T09:10:12Z | registry-derived |
 | [GalacticDynamics/galax](../records/space-engines-galacticdynamics-galax-d1c9094c.md) | partial | 2026-09-01T21:55:24Z | registry-derived |
+| [gberrante/map_3d](../records/space-engines-gberrante-map-3d-291724c2.md) | partial | 2026-09-04T06:50:37Z | registry-derived |
 | [gunvirranu/perturb](../records/space-engines-gunvirranu-perturb-e116c98e.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [helgee/Astrodynamics.jl](../records/space-engines-helgee-astrodynamics-jl-8635d55e.md) | partial | 2024-02-26T11:44:11Z | registry-derived |
 | [IO-Aerospace-software-engineering/Astrodynamics](../records/space-engines-io-aerospace-software-engineering-astrodynamics-2179baf6.md) | partial | 2026-07-31T19:10:48Z | registry-derived |
 | [jacobwilliams/Fortran-Astrodynamics-Toolkit](../records/space-engines-jacobwilliams-fortran-astrodynamics-toolkit-0fbb1aa0.md) | partial | 2025-10-29T03:43:23Z | registry-derived |
 | [lizard-isana/orb.js](../records/space-engines-lizard-isana-orb-js-65c97be7.md) | partial | 2026-07-28T08:44:20Z | registry-derived |
-| [lox-space/lox](../records/space-engines-lox-space-lox-d5077f9a.md) | partial | 2026-09-01T09:31:59Z | registry-derived |
+| [lox-space/lox](../records/space-engines-lox-space-lox-d5077f9a.md) | partial | 2026-09-04T06:27:45Z | registry-derived |
 | [MasterOgon/Aeroacoustic-Flying-Saucer-Oscillating-Resonator-CFD-Simulation-LBM-](../records/space-engines-masterogon-aeroacoustic-flying-saucer-oscillating-resonator-cfd-simulation-lbm-88f2724c.md) | partial | 2026-07-27T16:53:55Z | registry-derived |
 | [onekiloparsec/SwiftAA](../records/space-engines-onekiloparsec-swiftaa-dda5a441.md) | partial | 2026-05-31T09:03:53Z | registry-derived |
 | [poliastro/poliastro](../records/space-engines-poliastro-poliastro-bebf5f35.md) | partial | 2023-10-14T15:30:47Z | registry-derived |
@@ -269,9 +270,9 @@ Records: `156`
 | [swtnikita50/CR3BP-MatlabLibrary](../records/space-engines-swtnikita50-cr3bp-matlablibrary-6436b8da.md) | partial | 2023-06-15T05:38:59Z | registry-derived |
 | [tamaskis/planet3D-MATLAB](../records/space-engines-tamaskis-planet3d-matlab-d5b68952.md) | partial | 2023-05-21T01:19:09Z | registry-derived |
 | [TheWand3rer/Universe](../records/space-engines-thewand3rer-universe-b6822711.md) | partial | 2026-06-03T18:28:06Z | registry-derived |
-| [tudat-team/tudatpy](../records/space-engines-tudat-team-tudatpy-44bb19c6.md) | partial | 2026-09-04T06:17:37Z | registry-derived |
+| [tudat-team/tudatpy](../records/space-engines-tudat-team-tudatpy-44bb19c6.md) | partial | 2026-09-04T07:32:26Z | registry-derived |
 | [ut-astria/orbdetpy](../records/space-engines-ut-astria-orbdetpy-9a9dc45c.md) | partial | 2023-07-05T20:53:31Z | registry-derived |
-| [ut-issl/s2e-core](../records/space-engines-ut-issl-s2e-core-7effcd69.md) | partial | 2026-08-30T07:36:52Z | registry-derived |
+| [ut-issl/s2e-core](../records/space-engines-ut-issl-s2e-core-7effcd69.md) | partial | 2026-09-04T06:38:43Z | registry-derived |
 
 ### Precommit Ci Quality
 

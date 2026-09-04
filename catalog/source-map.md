@@ -11,15 +11,15 @@
 [Cryptography (165)](by-category/cryptography.md) · [Data Science (36)](by-category/data-science.md) · [Database Datastore (852)](by-category/database-datastore.md) · [Datetime (190)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (42)](by-category/debugger.md) · [Dependency Manager (93)](by-category/dependency-manager.md) · [Documentation (99)](by-category/documentation.md)
 [Embedded Hardware (55)](by-category/embedded-hardware.md) · [Ffi Bindings (414)](by-category/ffi-bindings.md) · [Filesystem Os (1427)](by-category/filesystem-os.md) · [Formatter (616)](by-category/formatter.md)
-[Framework (56)](by-category/framework.md) · [Fuzzer (56)](by-category/fuzzer.md) · [Game Engine Game Dev (174)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1340)](by-category/ide-editor-integration.md)
+[Framework (56)](by-category/framework.md) · [Fuzzer (56)](by-category/fuzzer.md) · [Game Engine Game Dev (174)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1341)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (398)](by-category/image-audio-dsp.md) · [Interop Bindings (58)](by-category/interop-bindings.md) · [Interpreter Runtime (254)](by-category/interpreter-runtime.md) · [Jit Vm (60)](by-category/jit-vm.md)
-[Language Server (27)](by-category/language-server.md) · [Language Specification (1390)](by-category/language-specification.md) · [Library (5317)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (43)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (486)](by-category/logging-observability.md) · [Machine Learning (673)](by-category/machine-learning.md)
-[Math Numeric Scientific (85)](by-category/math-numeric-scientific.md) · [Memory Analyzer (89)](by-category/memory-analyzer.md) · [Message Broker (39)](by-category/message-broker.md) · [Networking Http (987)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (422)](by-category/package-manager.md) · [Parser Lexer Ast (1032)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (284)](by-category/precommit-ci-quality.md)
+[Language Server (27)](by-category/language-server.md) · [Language Specification (1391)](by-category/language-specification.md) · [Library (5318)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (43)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (487)](by-category/logging-observability.md) · [Machine Learning (673)](by-category/machine-learning.md)
+[Math Numeric Scientific (85)](by-category/math-numeric-scientific.md) · [Memory Analyzer (90)](by-category/memory-analyzer.md) · [Message Broker (39)](by-category/message-broker.md) · [Networking Http (987)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (422)](by-category/package-manager.md) · [Parser Lexer Ast (1033)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (284)](by-category/precommit-ci-quality.md)
 [Profiler (82)](by-category/profiler.md) · [Project Scaffolding (130)](by-category/project-scaffolding.md) · [Registry Repository (108)](by-category/registry-repository.md) · [Sanitizer (13)](by-category/sanitizer.md)
-[Security Sast (333)](by-category/security-sast.md) · [Serialization (384)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (501)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (525)](by-category/testing-framework.md) · [Tutorial Book Styleguide (59)](by-category/tutorial-book-styleguide.md) · [Type Checker (301)](by-category/type-checker.md)
+[Security Sast (333)](by-category/security-sast.md) · [Serialization (384)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (503)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (526)](by-category/testing-framework.md) · [Tutorial Book Styleguide (59)](by-category/tutorial-book-styleguide.md) · [Type Checker (301)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1517)](by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](by-category/utility-library.md) · [Visualization Gui (478)](by-category/visualization-gui.md) · [Web Framework (458)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
@@ -1000,6 +1000,7 @@
 | `cran_packages_by_date-1f5f8d7a8df22a` | syncons | [open](records/r-syncons-5fa94a71.md) |
 | `cran_packages_by_date-1f77e2d06f2b26` | BayesPPDSurv | [open](records/r-bayesppdsurv-4a837754.md) |
 | `cran_packages_by_date-1f7c34ca8b61e0` | DBmaps | [open](records/r-dbmaps-09f1ce62.md) |
+| `cran_packages_by_date-1f87b83d2feb1b` | multiSA | [open](records/r-multisa-ffeddd7b.md) |
 | `cran_packages_by_date-1fc6faf109e81d` | SetTest | [open](records/r-settest-cba5b74b.md) |
 | `cran_packages_by_date-1fe9d3be14388a` | ggnext | [open](records/r-ggnext-e478fa5e.md) |
 | `cran_packages_by_date-1ff5652915a7a0` | xegaGaGene | [open](records/r-xegagagene-64f07dd7.md) |
@@ -1069,6 +1070,7 @@
 | `cran_packages_by_date-2920b328d8e999` | bayesics | [open](records/r-bayesics-ab31f3c3.md) |
 | `cran_packages_by_date-294ce5cadff203` | prova | [open](records/r-prova-c8ea9dac.md) |
 | `cran_packages_by_date-2958ec57383f58` | interSAE | [open](records/r-intersae-cb12b6c3.md) |
+| `cran_packages_by_date-298ca810a93ffb` | redlist | [open](records/r-redlist-0504df08.md) |
 | `cran_packages_by_date-29973eb4ce5df8` | GetTDData | [open](records/r-gettddata-da30d6d0.md) |
 | `cran_packages_by_date-29a1f40dc96f40` | RNiftyReg | [open](records/r-rniftyreg-251ec455.md) |
 | `cran_packages_by_date-29aa907dd4bb2c` | brfinance | [open](records/r-brfinance-6a384a4d.md) |
@@ -1262,6 +1264,7 @@
 | `cran_packages_by_date-480a2244f5c98d` | dtametaTMB | [open](records/r-dtametatmb-28df18e4.md) |
 | `cran_packages_by_date-483dba051527a2` | dyadMLM | [open](records/r-dyadmlm-a0536dff.md) |
 | `cran_packages_by_date-486c258c472d75` | RobinCar2 | [open](records/r-robincar2-5ab46259.md) |
+| `cran_packages_by_date-48976a5bbbd568` | postlink | [open](records/r-postlink-29a9d411.md) |
 | `cran_packages_by_date-489d73bb446159` | dlmtree | [open](records/r-dlmtree-0ea1ab26.md) |
 | `cran_packages_by_date-48c7f16db62b38` | blockr.session | [open](records/r-blockr-session-1f15a78c.md) |
 | `cran_packages_by_date-48cd864f4a9f43` | K4Guru | [open](records/r-k4guru-5a67bf20.md) |
@@ -1545,6 +1548,7 @@
 | `cran_packages_by_date-767dc4c79a6c28` | ggvariant | [open](records/r-ggvariant-451f6bd0.md) |
 | `cran_packages_by_date-768f8c6a1f2088` | DRLAP2 | [open](records/r-drlap2-7e3e5a32.md) |
 | `cran_packages_by_date-76b1dc5cf304f2` | data.table | [open](records/r-data-table-9d604bea.md) |
+| `cran_packages_by_date-76c0735930d613` | weightedGCM | [open](records/r-weightedgcm-d44149a3.md) |
 | `cran_packages_by_date-76e8b3983c3484` | quickSentiment | [open](records/r-quicksentiment-72972f40.md) |
 | `cran_packages_by_date-770740e0deee73` | oystermapR | [open](records/r-oystermapr-0d46e238.md) |
 | `cran_packages_by_date-772305d35cecaf` | evgam | [open](records/r-evgam-fb8105aa.md) |
@@ -1685,6 +1689,7 @@
 | `cran_packages_by_date-88477e451e45a5` | SeqExpMatch | [open](records/r-seqexpmatch-740b60ae.md) |
 | `cran_packages_by_date-88c3fdd43f6cdb` | BioMonTools | [open](records/r-biomontools-dd987ec9.md) |
 | `cran_packages_by_date-88d260febe1103` | bsvarSIGNs | [open](records/r-bsvarsigns-04311d8e.md) |
+| `cran_packages_by_date-88fb1165423502` | ramchoice | [open](records/r-ramchoice-02e5d884.md) |
 | `cran_packages_by_date-88fd62ae5345df` | sievetest | [open](records/r-sievetest-73fa0e2d.md) |
 | `cran_packages_by_date-891a2ef4ed7f02` | LLMing | [open](records/r-llming-d2c0b725.md) |
 | `cran_packages_by_date-8946c850edb451` | rkt | [open](records/r-rkt-30862909.md) |
@@ -2251,6 +2256,7 @@
 | `cran_packages_by_date-e5a85936d60354` | gbif.range | [open](records/r-gbif-range-527eaf4d.md) |
 | `cran_packages_by_date-e5dd365da02e7a` | reactRouter | [open](records/r-reactrouter-331dc40d.md) |
 | `cran_packages_by_date-e6155a81157a95` | pagedown | [open](records/r-pagedown-0f6fe140.md) |
+| `cran_packages_by_date-e67479edd393cc` | ellmer | [open](records/r-ellmer-66e8b3ee.md) |
 | `cran_packages_by_date-e6dd391519191a` | desplot | [open](records/r-desplot-9bc922cd.md) |
 | `cran_packages_by_date-e75da0b6d71e8b` | isoreader2 | [open](records/r-isoreader2-78b87aa2.md) |
 | `cran_packages_by_date-e77fc7da05d2aa` | tuber | [open](records/r-tuber-ade5b212.md) |
@@ -5360,6 +5366,7 @@
 | `github_search_aims-3b5e85f1356107` | browser-use/browser-use | [open](records/aim-s-browser-use-browser-use-3a4135d4.md) |
 | `github_search_aims-3f836376292224` | JushBJJ/Mr.-Ranedeer-AI-Tutor | [open](records/aim-s-jushbjj-mr-ranedeer-ai-tutor-1c9ffb63.md) |
 | `github_search_aims-407cddca0878eb` | sansan0/TrendRadar | [open](records/aim-s-sansan0-trendradar-72e65ee1.md) |
+| `github_search_aims-41c1202344df7f` | tinyhumansai/openhuman | [open](records/aim-s-tinyhumansai-openhuman-c683371f.md) |
 | `github_search_aims-420c6127cd8276` | HandsOnLLM/Hands-On-Large-Language-Models | [open](records/aim-s-handsonllm-hands-on-large-language-models-cb0aa8e6.md) |
 | `github_search_aims-4a3e22fb01b687` | gitleaks/gitleaks | [open](records/aim-s-gitleaks-gitleaks-942f477b.md) |
 | `github_search_aims-4caaabd7e9059e` | langfuse/langfuse | [open](records/aim-s-langfuse-langfuse-83471c55.md) |
@@ -9758,6 +9765,7 @@
 | `github_search_maps-b1f18b25c2d581` | Leaflet/Leaflet | [open](records/maps-leaflet-leaflet-98e4aefd.md) |
 | `github_search_maps-b20109c80b9bba` | kriasoft/universal-router | [open](records/maps-kriasoft-universal-router-192e8665.md) |
 | `github_search_maps-b21de0f58ef140` | nejckorasa/instagram-analyzer | [open](records/maps-nejckorasa-instagram-analyzer-17d46a85.md) |
+| `github_search_maps-b344de6319944a` | maplibre/navara | [open](records/maps-maplibre-navara-6a7a0c36.md) |
 | `github_search_maps-b391c7ba5763b5` | openmaptiles/openmaptiles | [open](records/maps-openmaptiles-openmaptiles-8add1ab5.md) |
 | `github_search_maps-b3beb1c4a54efa` | bilawalsidhu/gods-eye-view | [open](records/maps-bilawalsidhu-gods-eye-view-dabd39de.md) |
 | `github_search_maps-b51e98486fb298` | ipea/geocodebr | [open](records/maps-ipea-geocodebr-97586b43.md) |
@@ -11989,6 +11997,7 @@
 | `github_search_space_engines-b775613b4ee795` | helgee/JPLEphemeris.jl | [open](records/space-engines-helgee-jplephemeris-jl-66b47a37.md) |
 | `github_search_space_engines-b8d7f867238feb` | swtnikita50/CR3BP-MatlabLibrary | [open](records/space-engines-swtnikita50-cr3bp-matlablibrary-6436b8da.md) |
 | `github_search_space_engines-bba4aa42d91c4b` | gideonshaked/nextinspace | [open](records/space-engines-gideonshaked-nextinspace-b98c39a3.md) |
+| `github_search_space_engines-bddad756507348` | gberrante/map_3d | [open](records/space-engines-gberrante-map-3d-291724c2.md) |
 | `github_search_space_engines-be1b214bd49484` | GalacticDynamics/galax | [open](records/space-engines-galacticdynamics-galax-d1c9094c.md) |
 | `github_search_space_engines-be90945d7b716e` | alti3/stk-mcp | [open](records/space-engines-alti3-stk-mcp-b7c9ac40.md) |
 | `github_search_space_engines-beacae2073a115` | TheSpaceDevs/spaceflightnewsapi | [open](records/space-engines-thespacedevs-spaceflightnewsapi-044e3573.md) |
