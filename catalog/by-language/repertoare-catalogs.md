@@ -8,23 +8,23 @@ Records: `132`
 
 ## Category Index
 
-[Api Abi Checker (213)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
-[Benchmarking (191)](../by-category/benchmarking.md) · [Build System (972)](../by-category/build-system.md) · [Cli (554)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Api Abi Checker (214)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
+[Benchmarking (192)](../by-category/benchmarking.md) · [Build System (972)](../by-category/build-system.md) · [Cli (554)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (116)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (50)](../by-category/compression.md)
-[Concurrency Parallelism (88)](../by-category/concurrency-parallelism.md) · [Configuration (125)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (172)](../by-category/cryptography.md) · [Data Science (37)](../by-category/data-science.md) · [Database Datastore (885)](../by-category/database-datastore.md) · [Datetime (213)](../by-category/datetime.md)
+[Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (126)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
+[Cryptography (172)](../by-category/cryptography.md) · [Data Science (37)](../by-category/data-science.md) · [Database Datastore (885)](../by-category/database-datastore.md) · [Datetime (215)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (101)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
-[Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (446)](../by-category/ffi-bindings.md) · [Filesystem Os (1538)](../by-category/filesystem-os.md) · [Formatter (635)](../by-category/formatter.md)
-[Framework (61)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1416)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (421)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (265)](../by-category/interpreter-runtime.md) · [Jit Vm (62)](../by-category/jit-vm.md)
-[Language Server (28)](../by-category/language-server.md) · [Language Specification (1421)](../by-category/language-specification.md) · [Library (5483)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (515)](../by-category/logging-observability.md) · [Machine Learning (742)](../by-category/machine-learning.md)
-[Math Numeric Scientific (87)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1018)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (436)](../by-category/package-manager.md) · [Parser Lexer Ast (1072)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (295)](../by-category/precommit-ci-quality.md)
+[Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (446)](../by-category/ffi-bindings.md) · [Filesystem Os (1546)](../by-category/filesystem-os.md) · [Formatter (635)](../by-category/formatter.md)
+[Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1418)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (423)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (265)](../by-category/interpreter-runtime.md) · [Jit Vm (63)](../by-category/jit-vm.md)
+[Language Server (28)](../by-category/language-server.md) · [Language Specification (1423)](../by-category/language-specification.md) · [Library (5506)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (515)](../by-category/logging-observability.md) · [Machine Learning (751)](../by-category/machine-learning.md)
+[Math Numeric Scientific (87)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1019)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (436)](../by-category/package-manager.md) · [Parser Lexer Ast (1076)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (296)](../by-category/precommit-ci-quality.md)
 [Profiler (86)](../by-category/profiler.md) · [Project Scaffolding (132)](../by-category/project-scaffolding.md) · [Registry Repository (132)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
-[Security Sast (336)](../by-category/security-sast.md) · [Serialization (391)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (528)](../by-category/static-analyzer.md)
+[Security Sast (336)](../by-category/security-sast.md) · [Serialization (391)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (589)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (599)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (62)](../by-category/tutorial-book-styleguide.md) · [Type Checker (311)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1574)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (102)](../by-category/utility-library.md) · [Visualization Gui (513)](../by-category/visualization-gui.md) · [Web Framework (474)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1577)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (102)](../by-category/utility-library.md) · [Visualization Gui (515)](../by-category/visualization-gui.md) · [Web Framework (475)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -78,7 +78,7 @@ Records: `132`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [aberson/x-marks-the-spot](../records/repertoare-catalogs-aberson-x-marks-the-spot-b4e276e0.md) | partial | 2026-07-30T17:00:08Z | registry-derived |
-| [adamgell/TenantPulse](../records/repertoare-catalogs-adamgell-tenantpulse-10241acd.md) | partial | 2026-09-02T18:08:04Z | registry-derived |
+| [adamgell/TenantPulse](../records/repertoare-catalogs-adamgell-tenantpulse-10241acd.md) | partial | 2026-09-04T18:47:16Z | registry-derived |
 | [ethanolivertroy/kevs-tui](../records/repertoare-catalogs-ethanolivertroy-kevs-tui-1382f3ab.md) | partial | 2026-04-19T08:36:38Z | registry-derived |
 | [kauwelab/PolyRiskScore](../records/repertoare-catalogs-kauwelab-polyriskscore-3e2ae85d.md) | partial | 2024-08-22T15:39:09Z | registry-derived |
 
@@ -115,7 +115,7 @@ Records: `132`
 | --- | --- | --- | --- |
 | [abhiramAjay/Self-Healing-Repertoire-Engine](../records/repertoare-catalogs-abhiramajay-self-healing-repertoire-engine-afff2269.md) | partial | 2026-02-05T07:43:18Z | registry-derived |
 | [gastroph/Rock-Band-DLC---Leaderboards-App-for-Android](../records/repertoare-catalogs-gastroph-rock-band-dlc-leaderboards-app-for-android-35abaa1b.md) | partial | 2010-04-16T20:13:37Z | registry-derived |
-| [heylabs-co/dev-tools-portal](../records/repertoare-catalogs-heylabs-co-dev-tools-portal-7c271bc4.md) | partial | 2026-09-04T15:55:24Z | registry-derived |
+| [heylabs-co/dev-tools-portal](../records/repertoare-catalogs-heylabs-co-dev-tools-portal-7c271bc4.md) | partial | 2026-09-04T20:44:08Z | registry-derived |
 | [jasondentler/wild-catalog](../records/repertoare-catalogs-jasondentler-wild-catalog-f314f00b.md) | partial | 2026-07-05T03:54:55Z | registry-derived |
 | [punyamodi/catalog-quality-scorer](../records/repertoare-catalogs-punyamodi-catalog-quality-scorer-78773128.md) | partial | 2026-03-01T21:50:40Z | registry-derived |
 | [pythymcpyface/lichess-analyser](../records/repertoare-catalogs-pythymcpyface-lichess-analyser-18beb8d5.md) | partial | 2025-12-03T15:58:08Z | registry-derived |
@@ -129,7 +129,7 @@ Records: `132`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [Infinitegameworks/Paper2DPlus](../records/repertoare-catalogs-infinitegameworks-paper2dplus-7db476b1.md) | partial | 2026-08-27T22:35:18Z | registry-derived |
+| [Infinitegameworks/Paper2DPlus](../records/repertoare-catalogs-infinitegameworks-paper2dplus-7db476b1.md) | partial | 2026-09-04T19:49:41Z | registry-derived |
 | [korux-ai/korux-repertoire](../records/repertoare-catalogs-korux-ai-korux-repertoire-0bd1045a.md) | partial | 2026-09-04T15:18:47Z | registry-derived |
 | [thiagocorreanet/mestre-yoda](../records/repertoare-catalogs-thiagocorreanet-mestre-yoda-6b0b2efd.md) | partial | 2026-08-15T21:15:19Z | registry-derived |
 
@@ -156,7 +156,7 @@ Records: `132`
 | [adityacodes30/catalog-scoring-ondc](../records/repertoare-catalogs-adityacodes30-catalog-scoring-ondc-eed2618c.md) | partial | 2024-06-23T17:33:29Z | registry-derived |
 | [AdityaLad2004/Catalog-Score](../records/repertoare-catalogs-adityalad2004-catalog-score-1c228719.md) | partial | 2024-02-10T18:28:30Z | registry-derived |
 | [alphaparkinc/genpark-catalog-enrichment-skill](../records/repertoare-catalogs-alphaparkinc-genpark-catalog-enrichment-skill-9442da58.md) | partial | 2026-07-10T05:51:52Z | registry-derived |
-| [Arnon-hs/open-source](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) | partial | 2026-09-04T17:02:20Z | registry-derived |
+| [Arnon-hs/open-source](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) | partial | 2026-09-04T22:59:38Z | registry-derived |
 | [CHagarty/scorecard-catalogue](../records/repertoare-catalogs-chagarty-scorecard-catalogue-ac87b7bd.md) | partial | 2025-07-11T00:33:16Z | registry-derived |
 | [Chistera-Scoring/services-catalog](../records/repertoare-catalogs-chistera-scoring-services-catalog-59fbb312.md) | partial | 2023-11-27T10:50:20Z | registry-derived |
 | [Eswaraiahsapram/scorecard-catalog](../records/repertoare-catalogs-eswaraiahsapram-scorecard-catalog-92541430.md) | partial | 2025-09-02T05:54:30Z | registry-derived |
@@ -198,7 +198,7 @@ Records: `132`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [forbiddenlink/trace](../records/repertoare-catalogs-forbiddenlink-trace-81d4917b.md) | partial | 2026-09-04T15:51:57Z | registry-derived |
+| [forbiddenlink/trace](../records/repertoare-catalogs-forbiddenlink-trace-81d4917b.md) | partial | 2026-09-04T22:50:13Z | registry-derived |
 
 ### Project Scaffolding
 
@@ -239,7 +239,7 @@ Records: `132`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [Agam3108/Catalogue-Scanning-App](../records/repertoare-catalogs-agam3108-catalogue-scanning-app-ae967b87.md) | partial | 2024-03-23T09:53:13Z | registry-derived |
-| [glitchwerks/claude-wayfinder](../records/repertoare-catalogs-glitchwerks-claude-wayfinder-f0e59761.md) | partial | 2026-09-04T00:26:04Z | registry-derived |
+| [glitchwerks/claude-wayfinder](../records/repertoare-catalogs-glitchwerks-claude-wayfinder-f0e59761.md) | partial | 2026-09-04T21:48:36Z | registry-derived |
 | [jayesh265/classifying_songs_based_on_audio_data](../records/repertoare-catalogs-jayesh265-classifying-songs-based-on-audio-data-c26a05ff.md) | partial | 2020-03-17T05:32:14Z | registry-derived |
 | [johnvteixido/etherlens](../records/repertoare-catalogs-johnvteixido-etherlens-c7b3a681.md) | partial | 2026-06-12T21:21:22Z | registry-derived |
 | [Jue12138/RepertoireAnalysis](../records/repertoare-catalogs-jue12138-repertoireanalysis-a7c7d63d.md) | partial | 2023-09-20T18:13:50Z | registry-derived |
