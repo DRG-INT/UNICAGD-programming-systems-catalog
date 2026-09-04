@@ -1,6 +1,6 @@
 # Library
 
-Records: `5300`
+Records: `5301`
 
 ## Navigation
 
@@ -14,15 +14,15 @@ Records: `5300`
 [Concurrency Parallelism (80)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (837)](database-datastore.md) · [Datetime (187)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (98)](documentation.md)
-[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (409)](ffi-bindings.md) · [Filesystem Os (1407)](filesystem-os.md) · [Formatter (614)](formatter.md)
+[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (409)](ffi-bindings.md) · [Filesystem Os (1408)](filesystem-os.md) · [Formatter (614)](formatter.md)
 [Framework (55)](framework.md) · [Fuzzer (55)](fuzzer.md) · [Game Engine Game Dev (173)](game-engine-game-dev.md) · [Ide Editor Integration (1334)](ide-editor-integration.md)
 [Image Audio Dsp (391)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (253)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1382)](language-specification.md) · **[Library (5300)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1382)](language-specification.md) · **[Library (5301)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (484)](logging-observability.md) · [Machine Learning (665)](machine-learning.md)
 [Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (973)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (420)](package-manager.md) · [Parser Lexer Ast (1022)](parser-lexer-ast.md) · [Precommit Ci Quality (283)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (420)](package-manager.md) · [Parser Lexer Ast (1024)](parser-lexer-ast.md) · [Precommit Ci Quality (283)](precommit-ci-quality.md)
 [Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (333)](security-sast.md) · [Serialization (383)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (497)](static-analyzer.md)
+[Security Sast (333)](security-sast.md) · [Serialization (383)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (498)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (522)](testing-framework.md) · [Tutorial Book Styleguide (57)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
 [Undefined Behavior Analyzer (1510)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (476)](visualization-gui.md) · [Web Framework (454)](web-framework.md)
 
@@ -3262,6 +3262,7 @@ Records: `5300`
 | eventstore | 1.4.3 | 2023-07-29T02:02:55Z | [open](../records/haskell-eventstore-efc2a066.md) |
 | exact-pi | 0.5.1.0 | 2026-06-04T23:15:22Z | [open](../records/haskell-exact-pi-231cfafe.md) |
 | exceptions | 0.10.12 | 2026-01-10T20:26:13Z | [open](../records/haskell-exceptions-50aed5a3.md) |
+| exchangealgebra | 0.5.0.0 | 2026-09-04T03:50:08Z | [open](../records/haskell-exchangealgebra-c5300b87.md) |
 | exon | 1.7.3.0 | 2026-05-03T22:13:28Z | [open](../records/haskell-exon-f8f16ac9.md) |
 | extensible-effects | 5.0.0.1 | 2019-01-03T02:29:58Z | [open](../records/haskell-extensible-effects-1bd162d4.md) |
 | extensible-effects-concurrent | 0.25.0 | 2020-12-16T17:13:06Z | [open](../records/haskell-extensible-effects-concurrent-35ac367f.md) |
@@ -4160,7 +4161,7 @@ Records: `5300`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-04T03:03:30Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-04T03:36:55Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -4580,7 +4581,7 @@ Records: `5300`
 | GaetanoLongo/PowerElectronics | partial | 2025-07-07T09:39:02Z | [open](../records/space-maps-gaetanolongo-powerelectronics-afb0849d.md) |
 | ganddd/Sektar-Map-Pack | partial | 2026-06-21T15:54:35Z | [open](../records/space-maps-ganddd-sektar-map-pack-e1a4a78c.md) |
 | gb6162166/gb6-definitive | partial | 2026-01-08T12:48:32Z | [open](../records/space-maps-gb6162166-gb6-definitive-81534dac.md) |
-| gnucap/gnucap | partial | 2026-09-01T06:40:32Z | [open](../records/space-maps-gnucap-gnucap-394258fd.md) |
+| gnucap/gnucap | partial | 2026-09-03T14:59:50Z | [open](../records/space-maps-gnucap-gnucap-394258fd.md) |
 | google/sky90fd-pdk | partial | 2023-05-11T00:15:31Z | [open](../records/space-maps-google-sky90fd-pdk-5cbbace5.md) |
 | gr4xity/mein-gott | partial | 2024-06-08T05:58:37Z | [open](../records/space-maps-gr4xity-mein-gott-b135364b.md) |
 | jsimonetti/go-spice | partial | 2026-08-17T04:02:39Z | [open](../records/space-maps-jsimonetti-go-spice-e37ca038.md) |

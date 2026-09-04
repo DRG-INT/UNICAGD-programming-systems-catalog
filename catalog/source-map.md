@@ -10,15 +10,15 @@
 [Concurrency Parallelism (80)](by-category/concurrency-parallelism.md) · [Configuration (116)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (165)](by-category/cryptography.md) · [Data Science (35)](by-category/data-science.md) · [Database Datastore (837)](by-category/database-datastore.md) · [Datetime (187)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (42)](by-category/debugger.md) · [Dependency Manager (93)](by-category/dependency-manager.md) · [Documentation (98)](by-category/documentation.md)
-[Embedded Hardware (55)](by-category/embedded-hardware.md) · [Ffi Bindings (409)](by-category/ffi-bindings.md) · [Filesystem Os (1407)](by-category/filesystem-os.md) · [Formatter (614)](by-category/formatter.md)
+[Embedded Hardware (55)](by-category/embedded-hardware.md) · [Ffi Bindings (409)](by-category/ffi-bindings.md) · [Filesystem Os (1408)](by-category/filesystem-os.md) · [Formatter (614)](by-category/formatter.md)
 [Framework (55)](by-category/framework.md) · [Fuzzer (55)](by-category/fuzzer.md) · [Game Engine Game Dev (173)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1334)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (391)](by-category/image-audio-dsp.md) · [Interop Bindings (58)](by-category/interop-bindings.md) · [Interpreter Runtime (253)](by-category/interpreter-runtime.md) · [Jit Vm (60)](by-category/jit-vm.md)
-[Language Server (27)](by-category/language-server.md) · [Language Specification (1382)](by-category/language-specification.md) · [Library (5300)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (27)](by-category/language-server.md) · [Language Specification (1382)](by-category/language-specification.md) · [Library (5301)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (43)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (484)](by-category/logging-observability.md) · [Machine Learning (665)](by-category/machine-learning.md)
 [Math Numeric Scientific (85)](by-category/math-numeric-scientific.md) · [Memory Analyzer (89)](by-category/memory-analyzer.md) · [Message Broker (39)](by-category/message-broker.md) · [Networking Http (973)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (420)](by-category/package-manager.md) · [Parser Lexer Ast (1022)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (283)](by-category/precommit-ci-quality.md)
+[Other (14)](by-category/other.md) · [Package Manager (420)](by-category/package-manager.md) · [Parser Lexer Ast (1024)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (283)](by-category/precommit-ci-quality.md)
 [Profiler (82)](by-category/profiler.md) · [Project Scaffolding (130)](by-category/project-scaffolding.md) · [Registry Repository (108)](by-category/registry-repository.md) · [Sanitizer (13)](by-category/sanitizer.md)
-[Security Sast (333)](by-category/security-sast.md) · [Serialization (383)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (497)](by-category/static-analyzer.md)
+[Security Sast (333)](by-category/security-sast.md) · [Serialization (383)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (498)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (522)](by-category/testing-framework.md) · [Tutorial Book Styleguide (57)](by-category/tutorial-book-styleguide.md) · [Type Checker (301)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1510)](by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](by-category/utility-library.md) · [Visualization Gui (476)](by-category/visualization-gui.md) · [Web Framework (454)](by-category/web-framework.md)
 
@@ -1722,6 +1722,7 @@
 | `cran_packages_by_date-8e8ed412900a14` | forestly | [open](records/r-forestly-866555d9.md) |
 | `cran_packages_by_date-8e96ff731683b9` | eq5d | [open](records/r-eq5d-6d0b04da.md) |
 | `cran_packages_by_date-8eba9bf9ef9c29` | PsyMetricTools | [open](records/r-psymetrictools-7f593811.md) |
+| `cran_packages_by_date-8edf6893274cbd` | quartose | [open](records/r-quartose-17cdd23f.md) |
 | `cran_packages_by_date-8f003ce1f5642e` | screenshot | [open](records/r-screenshot-9646a7e3.md) |
 | `cran_packages_by_date-8f191235dd070e` | orbweaver | [open](records/r-orbweaver-0f2a3778.md) |
 | `cran_packages_by_date-8f5bc952b4918a` | TmCalculator | [open](records/r-tmcalculator-551285f1.md) |
@@ -5415,6 +5416,7 @@
 | `github_search_aims-dc9c4f2e6bd843` | zhayujie/CowAgent | [open](records/aim-s-zhayujie-cowagent-fa45ff55.md) |
 | `github_search_aims-df5a37642cbffc` | TencentCloud/TencentDB-Agent-Memory | [open](records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
 | `github_search_aims-e03b427b5f88d5` | headroomlabs-ai/headroom | [open](records/aim-s-headroomlabs-ai-headroom-d7859a86.md) |
+| `github_search_aims-e1e8d6e6326944` | paperless-ngx/paperless-ngx | [open](records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
 | `github_search_aims-e3fa8748822ec7` | jeecgboot/JeecgBoot | [open](records/aim-s-jeecgboot-jeecgboot-4bd956b2.md) |
 | `github_search_aims-e911d0b0447a8e` | run-llama/llama_index | [open](records/aim-s-run-llama-llama-index-f8381d04.md) |
 | `github_search_aims-ed5e6420dbfcac` | ComposioHQ/composio | [open](records/aim-s-composiohq-composio-aca55143.md) |
@@ -6249,6 +6251,7 @@
 | `github_search_audio-5c8a7f6a52f6eb` | hukenovs/dsp-theory | [open](records/audio-hukenovs-dsp-theory-fa2c75ff.md) |
 | `github_search_audio-5e7038ca39282f` | readbeyond/aeneas | [open](records/audio-readbeyond-aeneas-05f471e1.md) |
 | `github_search_audio-5f65bd228e1801` | marcel-licence/ML_SynthTools | [open](records/audio-marcel-licence-ml-synthtools-81b79150.md) |
+| `github_search_audio-60bb3d99bfe0cf` | crmne/fastpotify | [open](records/audio-crmne-fastpotify-5b7c4014.md) |
 | `github_search_audio-62506170dabd3e` | subalterngames/cacophony | [open](records/audio-subalterngames-cacophony-9f052029.md) |
 | `github_search_audio-63e03544a92dbf` | snapcast/snapcast | [open](records/audio-snapcast-snapcast-fc2313eb.md) |
 | `github_search_audio-642ec85921a2ec` | BOBONA/Just-a-Sample | [open](records/audio-bobona-just-a-sample-82526ac0.md) |
@@ -12092,6 +12095,7 @@
 | `github_search_space_maps-6e5cd868106149` | ghzgod/unraid-modern-appstore | [open](records/space-maps-ghzgod-unraid-modern-appstore-162cd9ad.md) |
 | `github_search_space_maps-6e677d31838791` | GabrielMoreiradeSouza/STAR-WARS-CATALOG | [open](records/space-maps-gabrielmoreiradesouza-star-wars-catalog-ba9d374f.md) |
 | `github_search_space_maps-6eafb7d9ff868c` | TimInTech/proxmox-manager | [open](records/space-maps-timintech-proxmox-manager-59fcc9e7.md) |
+| `github_search_space_maps-6f2ac67ae5d7be` | aalonsopuig/Circuitos_electronicos | [open](records/space-maps-aalonsopuig-circuitos-electronicos-9f675691.md) |
 | `github_search_space_maps-6f76d392bd0a5f` | arda-guler/Kozmoworks | [open](records/space-maps-arda-guler-kozmoworks-da5d973a.md) |
 | `github_search_space_maps-6f97fe64dc22e9` | greglobinski/gatsby-starter-mini-catalog | [open](records/space-maps-greglobinski-gatsby-starter-mini-catalog-6fffbf07.md) |
 | `github_search_space_maps-6fa132956994d6` | giselamarque/StarTwinkle | [open](records/space-maps-giselamarque-startwinkle-064a5525.md) |
@@ -14716,6 +14720,7 @@
 | `hackage_recent-71ff2166351a35` | rme-what4 | [open](records/haskell-rme-what4-e5f70573.md) |
 | `hackage_recent-75c102beb5e066` | what4 | [open](records/haskell-what4-03a48fd1.md) |
 | `hackage_recent-7743035e5050d7` | explainable-predicates | [open](records/haskell-explainable-predicates-6549649b.md) |
+| `hackage_recent-792e7e5061c2b3` | exchangealgebra | [open](records/haskell-exchangealgebra-c5300b87.md) |
 | `hackage_recent-7e6eeb91445d92` | aihc-parser | [open](records/haskell-aihc-parser-d88ae54b.md) |
 | `hackage_recent-85b70f81457859` | tricorder-mcp | [open](records/haskell-tricorder-mcp-95664038.md) |
 | `hackage_recent-9259bbdab92e2c` | hpgsql-simple-compat | [open](records/haskell-hpgsql-simple-compat-d03e91c2.md) |

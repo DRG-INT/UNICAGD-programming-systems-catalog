@@ -14,15 +14,15 @@ Records: `301`
 [Concurrency Parallelism (80)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (837)](database-datastore.md) · [Datetime (187)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (98)](documentation.md)
-[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (409)](ffi-bindings.md) · [Filesystem Os (1407)](filesystem-os.md) · [Formatter (614)](formatter.md)
+[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (409)](ffi-bindings.md) · [Filesystem Os (1408)](filesystem-os.md) · [Formatter (614)](formatter.md)
 [Framework (55)](framework.md) · [Fuzzer (55)](fuzzer.md) · [Game Engine Game Dev (173)](game-engine-game-dev.md) · [Ide Editor Integration (1334)](ide-editor-integration.md)
 [Image Audio Dsp (391)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (253)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1382)](language-specification.md) · [Library (5300)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1382)](language-specification.md) · [Library (5301)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (484)](logging-observability.md) · [Machine Learning (665)](machine-learning.md)
 [Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (973)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (420)](package-manager.md) · [Parser Lexer Ast (1022)](parser-lexer-ast.md) · [Precommit Ci Quality (283)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (420)](package-manager.md) · [Parser Lexer Ast (1024)](parser-lexer-ast.md) · [Precommit Ci Quality (283)](precommit-ci-quality.md)
 [Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (333)](security-sast.md) · [Serialization (383)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (497)](static-analyzer.md)
+[Security Sast (333)](security-sast.md) · [Serialization (383)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (498)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (522)](testing-framework.md) · [Tutorial Book Styleguide (57)](tutorial-book-styleguide.md) · **[Type Checker (301)](type-checker.md)**
 [Undefined Behavior Analyzer (1510)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (476)](visualization-gui.md) · [Web Framework (454)](web-framework.md)
 
@@ -192,7 +192,7 @@ Records: `301`
 | fathom-typescript | 0.0.43 | 2026-07-29T00:58:30.466Z | [open](../records/node-js-typescript-fathom-typescript-1dba6c2d.md) |
 | file-security-sdk | 1.4.5 | 2026-04-14T08:28:17.240Z | [open](../records/node-js-typescript-file-security-sdk-b6254e4d.md) |
 | fp-ts | 2.16.11 | 2025-08-18T14:00:30.062Z | [open](../records/node-js-typescript-fp-ts-16430548.md) |
-| fumadocs-typescript | 5.3.0 | 2026-07-07T09:55:45.958Z | [open](../records/node-js-typescript-fumadocs-typescript-eb59aebd.md) |
+| fumadocs-typescript | 5.4.0 | 2026-09-04T04:05:57.039Z | [open](../records/node-js-typescript-fumadocs-typescript-eb59aebd.md) |
 | gatsby-plugin-typescript | 5.16.0 | 2026-01-26T20:27:24.845Z | [open](../records/node-js-typescript-gatsby-plugin-typescript-d416e165.md) |
 | graphology-types | 0.24.8 | 2024-11-22T09:58:40.748Z | [open](../records/node-js-typescript-graphology-types-7e889b9a.md) |
 | gts | 7.0.0 | 2025-12-15T17:44:25.825Z | [open](../records/node-js-typescript-gts-aeda1c43.md) |
@@ -312,7 +312,7 @@ Records: `301`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-04T02:10:24Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | partial | 2026-09-04T04:20:57Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Assets
 

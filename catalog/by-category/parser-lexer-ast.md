@@ -1,6 +1,6 @@
 # Parser Lexer Ast
 
-Records: `1022`
+Records: `1024`
 
 ## Navigation
 
@@ -14,15 +14,15 @@ Records: `1022`
 [Concurrency Parallelism (80)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (837)](database-datastore.md) · [Datetime (187)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (98)](documentation.md)
-[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (409)](ffi-bindings.md) · [Filesystem Os (1407)](filesystem-os.md) · [Formatter (614)](formatter.md)
+[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (409)](ffi-bindings.md) · [Filesystem Os (1408)](filesystem-os.md) · [Formatter (614)](formatter.md)
 [Framework (55)](framework.md) · [Fuzzer (55)](fuzzer.md) · [Game Engine Game Dev (173)](game-engine-game-dev.md) · [Ide Editor Integration (1334)](ide-editor-integration.md)
 [Image Audio Dsp (391)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (253)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1382)](language-specification.md) · [Library (5300)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1382)](language-specification.md) · [Library (5301)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (484)](logging-observability.md) · [Machine Learning (665)](machine-learning.md)
 [Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (973)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (420)](package-manager.md) · **[Parser Lexer Ast (1022)](parser-lexer-ast.md)** · [Precommit Ci Quality (283)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (420)](package-manager.md) · **[Parser Lexer Ast (1024)](parser-lexer-ast.md)** · [Precommit Ci Quality (283)](precommit-ci-quality.md)
 [Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (333)](security-sast.md) · [Serialization (383)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (497)](static-analyzer.md)
+[Security Sast (333)](security-sast.md) · [Serialization (383)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (498)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (522)](testing-framework.md) · [Tutorial Book Styleguide (57)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
 [Undefined Behavior Analyzer (1510)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (476)](visualization-gui.md) · [Web Framework (454)](web-framework.md)
 
@@ -496,6 +496,7 @@ Records: `1022`
 | phylowise | 0.0.1 | 2026-08-21 13:40:02 UTC | [open](../records/r-phylowise-da7a35e0.md) |
 | plssem | 0.1.4 | 2026-08-24 12:50:02 UTC | [open](../records/r-plssem-cb6700e8.md) |
 | qshap | 2.0.0 | 2026-08-23 09:10:02 UTC | [open](../records/r-qshap-dacbd79c.md) |
+| quartose | 0.2.1 | 2026-09-04 04:10:02 UTC | [open](../records/r-quartose-17cdd23f.md) |
 | qvivid | 0.1.3 | 2026-08-23 16:40:02 UTC | [open](../records/r-qvivid-2167d0ac.md) |
 | randomForestSRC | 3.7.0 | 2026-08-31 19:40:02 UTC | [open](../records/r-randomforestsrc-4da26443.md) |
 | randompack | 0.1.10 | 2026-08-24 08:10:02 UTC | [open](../records/r-randompack-b42d08de.md) |
@@ -641,7 +642,7 @@ Records: `1022`
 | --- | --- | --- | --- |
 | AstrBotDevs/AstrBot | partial | 2026-09-04T02:28:49Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
 | HKUDS/LightRAG | partial | 2026-09-03T18:05:32Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
-| labring/FastGPT | partial | 2026-09-04T03:15:26Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
+| labring/FastGPT | partial | 2026-09-04T03:27:35Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Icons and Logos
 
@@ -947,6 +948,7 @@ Records: `1022`
 | --- | --- | --- | --- |
 | adefossez/julius | partial | 2026-06-03T15:55:19Z | [open](../records/audio-adefossez-julius-332f2bf3.md) |
 | avaneev/r8brain-free-src | partial | 2026-09-02T17:58:46Z | [open](../records/audio-avaneev-r8brain-free-src-df39a53a.md) |
+| crmne/fastpotify | partial | 2026-09-03T21:30:36Z | [open](../records/audio-crmne-fastpotify-5b7c4014.md) |
 | huggingface/distil-whisper | partial | 2025-01-08T10:09:47Z | [open](../records/audio-huggingface-distil-whisper-4612ba97.md) |
 | iver56/torch-audiomentations | partial | 2025-11-24T20:07:26Z | [open](../records/audio-iver56-torch-audiomentations-c42fa5d3.md) |
 | kayrockscreenprinting/ultramaster_kr106 | partial | 2026-05-07T15:36:04Z | [open](../records/audio-kayrockscreenprinting-ultramaster-kr106-706fda18.md) |
