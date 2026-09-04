@@ -36,7 +36,7 @@ assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-03T14:36:52Z | [https://gitea.com/api/v1/repos/search?q=ci&limit=50](https://gitea.com/api/v1/repos/search?q=ci&limit=50) | gitea_search_api_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-03T22:02:28Z | [https://gitea.com/api/v1/repos/search?q=ci&limit=50](https://gitea.com/api/v1/repos/search?q=ci&limit=50) | gitea_search_api_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gitea_search_api_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -61,7 +61,7 @@ assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-03 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "ci", "retrieved": "2026-09-03", "status": "forge-api-derived"}` |
+| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-04 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "ci", "retrieved": "2026-09-04", "status": "forge-api-derived"}` |
 
 </details>
 

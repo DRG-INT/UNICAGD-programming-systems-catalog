@@ -33,7 +33,7 @@ packaging, embedding, upgrade cadence, and compatibility validation.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 9.28.0 | 2026-08-27T10:51:34.834115Z | [https://pub.dev/api/packages/sentry](https://pub.dev/api/packages/sentry) |  |
+| stable | known | 9.29.0 | 2026-09-03T21:25:58.826778Z | [https://pub.dev/api/packages/sentry](https://pub.dev/api/packages/sentry) |  |
 | preview | known | 10.0.0-alpha.4 | 2026-08-31T19:18:09.202960Z | [https://pub.dev/api/packages/sentry](https://pub.dev/api/packages/sentry) |  |
 
 ## License And Use Alert
@@ -48,7 +48,7 @@ packaging, embedding, upgrade cadence, and compatibility validation.
 
 - Treat category as `interpreter_runtime` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pub.dev/api/packages/sentry` at `2026-09-01T16:41:06+00:00`.
+- Latest stable metadata was observed from `https://pub.dev/api/packages/sentry` at `2026-09-04T01:15:41+00:00`.
 - Preview/nightly metadata is present through channel `preview`.
 
 ## Provenance
@@ -58,7 +58,7 @@ packaging, embedding, upgrade cadence, and compatibility validation.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| pub_dev_completion_and_package_api | registry-derived | 2026-09-03 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-03", "status": "registry-derived"}` |
+| pub_dev_completion_and_package_api | registry-derived | 2026-09-04 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-04", "status": "registry-derived"}` |
 
 </details>
 

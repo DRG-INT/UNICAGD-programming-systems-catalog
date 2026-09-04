@@ -32,16 +32,16 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2024-03-07T15:42:26Z | [https://gitea.com/api/v1/repos/search?q=ci&limit=50](https://gitea.com/api/v1/repos/search?q=ci&limit=50) | gitea_search_api_reports_activity_not_release_version |
+| stable | partial |  | 2024-03-07T15:42:26Z | [https://gitea.com/api/v1/repos/search?q=devops&limit=50](https://gitea.com/api/v1/repos/search?q=devops&limit=50) | gitea_search_api_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gitea_search_api_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-03 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "ci", "retrieved": "2026-09-03", "status": "forge-api-derived"}` |
+| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-04 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "devops", "retrieved": "2026-09-04", "status": "forge-api-derived"}` |
 
 </details>
 

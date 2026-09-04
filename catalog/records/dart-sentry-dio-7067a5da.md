@@ -32,7 +32,7 @@ allocation analysis, latency control, and capacity planning.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 9.28.0 | 2026-08-27T10:51:46.627061Z | [https://pub.dev/api/packages/sentry_dio](https://pub.dev/api/packages/sentry_dio) |  |
+| stable | known | 9.29.0 | 2026-09-03T21:26:10.335661Z | [https://pub.dev/api/packages/sentry_dio](https://pub.dev/api/packages/sentry_dio) |  |
 | preview | known | 10.0.0-alpha.4 | 2026-08-31T19:18:19.459084Z | [https://pub.dev/api/packages/sentry_dio](https://pub.dev/api/packages/sentry_dio) |  |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ allocation analysis, latency control, and capacity planning.
 
 - Treat category as `profiler` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pub.dev/api/packages/sentry_dio` at `2026-09-01T16:41:09+00:00`.
+- Latest stable metadata was observed from `https://pub.dev/api/packages/sentry_dio` at `2026-09-04T01:15:42+00:00`.
 - Preview/nightly metadata is present through channel `preview`.
 
 ## Provenance
@@ -57,7 +57,7 @@ allocation analysis, latency control, and capacity planning.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| pub_dev_completion_and_package_api | registry-derived | 2026-09-03 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-03", "status": "registry-derived"}` |
+| pub_dev_completion_and_package_api | registry-derived | 2026-09-04 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-04", "status": "registry-derived"}` |
 
 </details>
 

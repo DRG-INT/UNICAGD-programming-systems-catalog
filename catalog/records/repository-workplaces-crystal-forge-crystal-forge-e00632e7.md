@@ -36,7 +36,7 @@ integration.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-03T07:33:25.226Z | [https://gitlab.com/api/v4/projects?search=security&order_by=star_count&sort=desc&simple=true&per_page=100](https://gitlab.com/api/v4/projects?search=security&order_by=star_count&sort=desc&simple=true&per_page=100) | gitlab_projects_api_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-04T00:00:34.099Z | [https://gitlab.com/api/v4/projects?search=security&order_by=star_count&sort=desc&simple=true&per_page=100](https://gitlab.com/api/v4/projects?search=security&order_by=star_count&sort=desc&simple=true&per_page=100) | gitlab_projects_api_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gitlab_projects_api_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -61,7 +61,7 @@ integration.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitlab_projects_api | forge-api-derived | 2026-09-03 | `{"kind": "gitlab_projects_api", "query": "security", "retrieved": "2026-09-03", "status": "forge-api-derived"}` |
+| gitlab_projects_api | forge-api-derived | 2026-09-04 | `{"kind": "gitlab_projects_api", "query": "security", "retrieved": "2026-09-04", "status": "forge-api-derived"}` |
 
 </details>
 

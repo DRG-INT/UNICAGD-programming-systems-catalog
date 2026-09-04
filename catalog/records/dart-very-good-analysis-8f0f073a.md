@@ -57,7 +57,7 @@ style policy, defect prevention, and local/CI quality gates.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| pub_dev_completion_and_package_api | registry-derived | 2026-09-03 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-03", "status": "registry-derived"}` |
+| pub_dev_completion_and_package_api | registry-derived | 2026-09-04 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-04", "status": "registry-derived"}` |
 
 </details>
 

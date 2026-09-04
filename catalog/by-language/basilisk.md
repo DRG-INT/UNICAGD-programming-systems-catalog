@@ -99,7 +99,7 @@ Records: `36`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [austinmhorn/basilisk](../records/basilisk-austinmhorn-basilisk-a8abe142.md) | partial | 2026-09-03T01:53:59Z | registry-derived |
+| [austinmhorn/basilisk](../records/basilisk-austinmhorn-basilisk-a8abe142.md) | partial | 2026-09-04T00:48:05Z | registry-derived |
 | [VatsalSy/BasiliskPostProcessingMatlab](../records/basilisk-vatsalsy-basiliskpostprocessingmatlab-0e5319ea.md) | partial | 2018-10-11T21:15:19Z | registry-derived |
 | [VatsalSy/BasiliskVisualization](../records/basilisk-vatsalsy-basiliskvisualization-22421330.md) | partial | 2018-08-16T21:26:37Z | registry-derived |
 | [vitorvilela/droplet-particle-collision](../records/basilisk-vitorvilela-droplet-particle-collision-ead062d8.md) | partial | 2020-05-22T22:00:38Z | registry-derived |

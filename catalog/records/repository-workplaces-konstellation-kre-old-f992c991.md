@@ -40,9 +40,9 @@ of runtime behavior, deployment packaging, embedding, upgrade cadence, and compa
 
 | Field | Value |
 | --- | --- |
-| Detected family | Other permissive |
-| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause |
-| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -58,7 +58,7 @@ of runtime behavior, deployment packaging, embedding, upgrade cadence, and compa
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitlab_projects_api | forge-api-derived | 2026-09-03 | `{"kind": "gitlab_projects_api", "query": "runtime", "retrieved": "2026-09-03", "status": "forge-api-derived"}` |
+| gitlab_projects_api | forge-api-derived | 2026-09-04 | `{"kind": "gitlab_projects_api", "query": "runtime", "retrieved": "2026-09-04", "status": "forge-api-derived"}` |
 
 </details>
 

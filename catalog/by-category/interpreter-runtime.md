@@ -179,7 +179,7 @@ Records: `253`
 | protobuf | 6.0.0 | 2025-11-26T08:39:08.082637Z | [open](../records/dart-protobuf-7bdc6c86.md) |
 | screenshot | 3.0.0 | 2024-05-14T11:36:00.674625Z | [open](../records/dart-screenshot-1783622b.md) |
 | sembast | 3.8.9+1 | 2026-06-26T14:37:42.683385Z | [open](../records/dart-sembast-fa8ed2b5.md) |
-| sentry | 9.28.0 | 2026-08-27T10:51:34.834115Z | [open](../records/dart-sentry-27c4653e.md) |
+| sentry | 9.29.0 | 2026-09-03T21:25:58.826778Z | [open](../records/dart-sentry-27c4653e.md) |
 | signals | 7.1.0 | 2026-05-29T06:27:09.278212Z | [open](../records/dart-signals-615e82a1.md) |
 | socket_io_client | 3.1.6 | 2026-06-13T13:00:12.535833Z | [open](../records/dart-socket-io-client-86cc0b29.md) |
 
@@ -219,7 +219,7 @@ Records: `253`
 | --- | --- | --- | --- |
 | llama.cpp | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-llama-cpp-9828c514.md) |
 | ONNX Runtime | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-onnx-runtime-98d3a1c6.md) |
-| ray-project/ray | partial | 2026-09-04T00:25:45Z | [open](../records/aim-s-ray-project-ray-95a80ced.md) |
+| ray-project/ray | partial | 2026-09-04T00:38:12Z | [open](../records/aim-s-ray-project-ray-95a80ced.md) |
 | vLLM | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-vllm-0a7ec6b2.md) |
 
 ## Engines

@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-04T00:31:11+00:00`
+Generated: `2026-09-04T01:16:44+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -56,6 +56,8 @@ Generated: `2026-09-04T00:31:11+00:00`
 | riverpod | Dart | Build System | 3.4.3 | 2026-09-03T22:14:57.641244Z | [open](records/dart-riverpod-35d443f6.md) |
 | crackNum | Haskell | Library | 4.6 | 2026-09-03T22:12:21Z | [open](records/haskell-cracknum-25e818dd.md) |
 | @sazabi/cli | Node.js/JavaScript | Cli | 1.5.2 | 2026-09-03T21:49:13.577Z | [open](records/node-js-javascript-sazabi-cli-62177a0a.md) |
+| sentry_dio | Dart | Profiler | 9.29.0 | 2026-09-03T21:26:10.335661Z | [open](records/dart-sentry-dio-7067a5da.md) |
+| sentry | Dart | Interpreter Runtime | 9.29.0 | 2026-09-03T21:25:58.826778Z | [open](records/dart-sentry-27c4653e.md) |
 | @tellescope/testing | Node.js/JavaScript | Testing Framework | 1.256.14 | 2026-09-03T21:24:22.630Z | [open](records/node-js-javascript-tellescope-testing-59848a2c.md) |
 | cabal-install-parsers | Haskell | Parser Lexer Ast | 0.7 | 2026-09-03T21:22:27Z | [open](records/haskell-cabal-install-parsers-5bbb1ac6.md) |
 | tinyvec | Rust | Ide Editor Integration | 1.13.0 | 2026-09-03T21:13:39.500112Z | [open](records/rust-tinyvec-a3ec787a.md) |
@@ -283,8 +285,6 @@ Generated: `2026-09-04T00:31:11+00:00`
 | i18next-http-backend | Node.js/JavaScript | Networking Http | 4.0.2 | 2026-09-02T21:07:32.306Z | [open](records/node-js-javascript-i18next-http-backend-da15cfea.md) |
 | @angular-devkit/schematics-cli | Node.js/JavaScript | Cli | 22.1.7 | 2026-09-02T21:05:20.325Z | [open](records/node-js-javascript-angular-devkit-schematics-cli-932336ca.md) |
 | @angular/cli | Node.js/JavaScript | Cli | 22.1.7 | 2026-09-02T21:04:29.637Z | [open](records/node-js-javascript-angular-cli-8e368136.md) |
-| @sanity/runtime-cli | Node.js/JavaScript | Interpreter Runtime | 17.12.0 | 2026-09-02T21:00:59.262Z | [open](records/node-js-javascript-sanity-runtime-cli-727107f0.md) |
-| @stripe/cli | Node.js/JavaScript | Cli | 1.50.10 | 2026-09-02T20:23:08.984Z | [open](records/node-js-javascript-stripe-cli-f2f9a188.md) |
 
 ## Unknown Reasons
 

@@ -768,7 +768,7 @@ Records: `972`
 | ChimeraCoder/anaconda | partial | 2024-01-28T15:07:20Z | [open](../records/go-chimeracoder-anaconda-6a61e747.md) |
 | g3n/engine | partial | 2026-08-01T16:23:05Z | [open](../records/go-g3n-engine-0b367039.md) |
 | go-resty/resty | partial | 2026-07-26T00:45:12Z | [open](../records/go-go-resty-resty-9cfada1b.md) |
-| redis/go-redis | partial | 2026-09-03T23:11:00Z | [open](../records/go-redis-go-redis-fe715a04.md) |
+| redis/go-redis | partial | 2026-09-04T00:34:16Z | [open](../records/go-redis-go-redis-fe715a04.md) |
 | spicetify/cli | partial | 2026-09-03T21:29:47Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
 | teler-sh/teler-waf | partial | 2025-03-18T01:40:27Z | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
 | xiaolincoder/CS-Base | partial | 2024-11-27T06:32:13Z | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
@@ -778,7 +778,7 @@ Records: `972`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| austinmhorn/basilisk | partial | 2026-09-03T01:53:59Z | [open](../records/basilisk-austinmhorn-basilisk-a8abe142.md) |
+| austinmhorn/basilisk | partial | 2026-09-04T00:48:05Z | [open](../records/basilisk-austinmhorn-basilisk-a8abe142.md) |
 | VatsalSy/BasiliskPostProcessingMatlab | partial | 2018-10-11T21:15:19Z | [open](../records/basilisk-vatsalsy-basiliskpostprocessingmatlab-0e5319ea.md) |
 | VatsalSy/BasiliskVisualization | partial | 2018-08-16T21:26:37Z | [open](../records/basilisk-vatsalsy-basiliskvisualization-22421330.md) |
 | vitorvilela/droplet-particle-collision | partial | 2020-05-22T22:00:38Z | [open](../records/basilisk-vitorvilela-droplet-particle-collision-ead062d8.md) |

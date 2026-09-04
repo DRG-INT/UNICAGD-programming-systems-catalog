@@ -39,9 +39,9 @@ migrations, performance, and operational recovery.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0 |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ migrations, performance, and operational recovery.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| packagist_search_and_p2_api | registry-derived | 2026-09-03 | `{"kind": "packagist_search_and_p2_api", "query": "mysql", "retrieved": "2026-09-03", "status": "registry-derived"}` |
+| packagist_search_and_p2_api | registry-derived | 2026-09-04 | `{"kind": "packagist_search_and_p2_api", "query": "mysql", "retrieved": "2026-09-04", "status": "registry-derived"}` |
 
 </details>
 

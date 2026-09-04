@@ -41,9 +41,9 @@ communication, clients/servers, protocol handling, and edge integration.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Apache-2.0 |
-| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
-| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -59,7 +59,7 @@ communication, clients/servers, protocol handling, and edge integration.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| packagist_search_and_p2_api | registry-derived | 2026-09-03 | `{"kind": "packagist_search_and_p2_api", "query": "http", "retrieved": "2026-09-03", "status": "registry-derived"}` |
+| packagist_search_and_p2_api | registry-derived | 2026-09-04 | `{"kind": "packagist_search_and_p2_api", "query": "http", "retrieved": "2026-09-04", "status": "registry-derived"}` |
 
 </details>
 

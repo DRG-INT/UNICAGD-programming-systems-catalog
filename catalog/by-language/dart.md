@@ -531,7 +531,7 @@ Records: `740`
 | [protobuf](../records/dart-protobuf-7bdc6c86.md) | 6.0.0 | 2025-11-26T08:39:08.082637Z | registry-derived |
 | [screenshot](../records/dart-screenshot-1783622b.md) | 3.0.0 | 2024-05-14T11:36:00.674625Z | registry-derived |
 | [sembast](../records/dart-sembast-fa8ed2b5.md) | 3.8.9+1 | 2026-06-26T14:37:42.683385Z | registry-derived |
-| [sentry](../records/dart-sentry-27c4653e.md) | 9.28.0 | 2026-08-27T10:51:34.834115Z | registry-derived |
+| [sentry](../records/dart-sentry-27c4653e.md) | 9.29.0 | 2026-09-03T21:25:58.826778Z | registry-derived |
 | [signals](../records/dart-signals-615e82a1.md) | 7.1.0 | 2026-05-29T06:27:09.278212Z | registry-derived |
 | [socket_io_client](../records/dart-socket-io-client-86cc0b29.md) | 3.1.6 | 2026-06-13T13:00:12.535833Z | registry-derived |
 
@@ -877,7 +877,7 @@ Records: `740`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [firebase_performance](../records/dart-firebase-performance-92ff4c46.md) | 0.11.5 | 2026-08-24T13:41:38.990765Z | registry-derived |
-| [sentry_dio](../records/dart-sentry-dio-7067a5da.md) | 9.28.0 | 2026-08-27T10:51:46.627061Z | registry-derived |
+| [sentry_dio](../records/dart-sentry-dio-7067a5da.md) | 9.29.0 | 2026-09-03T21:26:10.335661Z | registry-derived |
 | [stack_trace](../records/dart-stack-trace-b647609e.md) | 1.12.2 | 2026-08-28T20:42:47.771496Z | registry-derived |
 
 ### Project Scaffolding

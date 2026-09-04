@@ -40,9 +40,9 @@ runtime behavior, deployment packaging, embedding, upgrade cadence, and compatib
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | Eclipse Public License 2.0; https://api.github.com/licenses/epl-2.0 |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -58,7 +58,7 @@ runtime behavior, deployment packaging, embedding, upgrade cadence, and compatib
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitlab_projects_api | forge-api-derived | 2026-09-03 | `{"kind": "gitlab_projects_api", "query": "runtime", "retrieved": "2026-09-03", "status": "forge-api-derived"}` |
+| gitlab_projects_api | forge-api-derived | 2026-09-04 | `{"kind": "gitlab_projects_api", "query": "runtime", "retrieved": "2026-09-04", "status": "forge-api-derived"}` |
 
 </details>
 

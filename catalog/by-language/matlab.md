@@ -70,7 +70,7 @@ Records: `287`
 | [brianwade1/actor_critic_quadcopter](../records/matlab-brianwade1-actor-critic-quadcopter-293cfd51.md) | partial | 2022-03-15T03:18:18Z | registry-derived |
 | [caiotavares/spectrum-sensing](../records/matlab-caiotavares-spectrum-sensing-56be35eb.md) | partial | 2024-01-05T01:06:26Z | registry-derived |
 | [callmekeyboardman/Machine-Learning-Andrew-Ng](../records/matlab-callmekeyboardman-machine-learning-andrew-ng-b8bd679f.md) | partial | 2022-05-27T10:01:26Z | registry-derived |
-| [canlab/CanlabCore](../records/matlab-canlab-canlabcore-cf8d4a67.md) | partial | 2026-08-05T13:41:45Z | registry-derived |
+| [canlab/CanlabCore](../records/matlab-canlab-canlabcore-cf8d4a67.md) | partial | 2026-09-04T00:49:45Z | registry-derived |
 | [CERN/TIGRE](../records/matlab-cern-tigre-7c6bed86.md) | partial | 2026-09-02T11:00:52Z | registry-derived |
 | [Charleswyt/audio_steganalysis_ml](../records/matlab-charleswyt-audio-steganalysis-ml-b1f72059.md) | partial | 2019-09-02T02:14:46Z | registry-derived |
 | [chebfun/chebfun](../records/matlab-chebfun-chebfun-4915fd94.md) | partial | 2026-06-23T16:12:49Z | registry-derived |
@@ -277,7 +277,7 @@ Records: `287`
 | [torrvision/crfasrnn](../records/matlab-torrvision-crfasrnn-d754088d.md) | partial | 2019-11-30T13:17:39Z | registry-derived |
 | [toshiakit/MatGPT](../records/matlab-toshiakit-matgpt-c3e7e593.md) | partial | 2026-01-31T03:08:06Z | registry-derived |
 | [trekhleb/machine-learning-octave](../records/matlab-trekhleb-machine-learning-octave-3c6369fc.md) | partial | 2025-11-23T04:28:32Z | registry-derived |
-| [ucdavis/erplab](../records/matlab-ucdavis-erplab-9a4c4944.md) | partial | 2026-09-03T20:48:02Z | registry-derived |
+| [ucdavis/erplab](../records/matlab-ucdavis-erplab-9a4c4944.md) | partial | 2026-09-04T01:08:22Z | registry-derived |
 | [ultralytics/functions-matlab](../records/matlab-ultralytics-functions-matlab-7687d566.md) | partial | 2026-08-28T10:25:16Z | registry-derived |
 | [ultralytics/magellan](../records/matlab-ultralytics-magellan-3c103d74.md) | partial | 2026-08-28T10:37:04Z | registry-derived |
 | [ultralytics/miniTimeCube](../records/matlab-ultralytics-minitimecube-2e723266.md) | partial | 2026-08-28T10:39:24Z | registry-derived |

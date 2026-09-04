@@ -40,9 +40,9 @@ operational fit assessment.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | Boost Software License 1.0; https://api.github.com/licenses/bsl-1.0 |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -58,7 +58,7 @@ operational fit assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-03 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "ci", "retrieved": "2026-09-03", "status": "forge-api-derived"}` |
+| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-04 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "ci", "retrieved": "2026-09-04", "status": "forge-api-derived"}` |
 
 </details>
 

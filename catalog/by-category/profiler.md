@@ -126,7 +126,7 @@ Records: `82`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | firebase_performance | 0.11.5 | 2026-08-24T13:41:38.990765Z | [open](../records/dart-firebase-performance-92ff4c46.md) |
-| sentry_dio | 9.28.0 | 2026-08-27T10:51:46.627061Z | [open](../records/dart-sentry-dio-7067a5da.md) |
+| sentry_dio | 9.29.0 | 2026-09-03T21:26:10.335661Z | [open](../records/dart-sentry-dio-7067a5da.md) |
 | stack_trace | 1.12.2 | 2026-08-28T20:42:47.771496Z | [open](../records/dart-stack-trace-b647609e.md) |
 
 ## Go

@@ -42,9 +42,9 @@ assessment.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | Other permissive |
+| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause |
+| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes
 
@@ -60,7 +60,7 @@ assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-03 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:x86 topic:assembly", "retrieved": "2026-09-03", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-04 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:x86 topic:assembly", "retrieved": "2026-09-04", "status": "forge-cli-derived"}` |
 
 </details>
 

@@ -39,9 +39,9 @@ communication, clients/servers, protocol handling, and edge integration.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ communication, clients/servers, protocol handling, and edge integration.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| packagist_search_and_p2_api | registry-derived | 2026-09-03 | `{"kind": "packagist_search_and_p2_api", "query": "http", "retrieved": "2026-09-03", "status": "registry-derived"}` |
+| packagist_search_and_p2_api | registry-derived | 2026-09-04 | `{"kind": "packagist_search_and_p2_api", "query": "http", "retrieved": "2026-09-04", "status": "registry-derived"}` |
 
 </details>
 

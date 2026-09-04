@@ -1031,4 +1031,4 @@ Records: `837`
 | radiobrowser/radio-database | partial | 2026-09-03T14:22:32.631Z | [open](../records/repository-workplaces-radiobrowser-radio-database-bfa28291.md) |
 | vijai/SqliteDBViewer | partial | 2026-06-12T07:24:10.655Z | [open](../records/repository-workplaces-vijai-sqlitedbviewer-11e8b1d5.md) |
 | W4Games/cloud/database | partial | 2025-12-12T17:51:14.813Z | [open](../records/repository-workplaces-w4games-cloud-database-8600d8c3.md) |
-| YottaDB/DBMS/YDBOcto | partial | 2026-09-01T20:47:47.933Z | [open](../records/repository-workplaces-yottadb-dbms-ydbocto-18c870f3.md) |
+| YottaDB/DBMS/YDBOcto | partial | 2026-09-03T17:37:52.958Z | [open](../records/repository-workplaces-yottadb-dbms-ydbocto-18c870f3.md) |

@@ -57,7 +57,7 @@ defect discovery, security review, undefined-state detection, and regression pre
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitlab_projects_api | forge-api-derived | 2026-09-03 | `{"kind": "gitlab_projects_api", "query": "static analysis", "retrieved": "2026-09-03", "status": "forge-api-derived"}` |
+| gitlab_projects_api | forge-api-derived | 2026-09-04 | `{"kind": "gitlab_projects_api", "query": "static analysis", "retrieved": "2026-09-04", "status": "forge-api-derived"}` |
 
 </details>
 

@@ -722,7 +722,7 @@ Records: `497`
 | gitlab-org/security-products/analyzers/container-scanning | partial | 2026-08-27T18:19:28.289Z | [open](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) |
 | gitlab-security-oss/cis/gitlabcis | partial | 2026-09-01T20:35:39.553Z | [open](../records/repository-workplaces-gitlab-security-oss-cis-gitlabcis-f7ce6047.md) |
 | hgraca/app-mapper | partial | 2026-09-03T08:04:50.015Z | [open](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) |
-| internet-cleanup-foundation/web-security-map | partial | 2026-09-03T15:29:19.255Z | [open](../records/repository-workplaces-internet-cleanup-foundation-web-security-map-8627947d.md) |
+| internet-cleanup-foundation/web-security-map | partial | 2026-09-03T19:11:52.490Z | [open](../records/repository-workplaces-internet-cleanup-foundation-web-security-map-8627947d.md) |
 | mopsa/mopsa-analyzer | partial | 2026-08-23T14:57:22.050Z | [open](../records/repository-workplaces-mopsa-mopsa-analyzer-9740e96e.md) |
 | ngalog-gitlab/openapi_security_scanner | partial | 2021-04-13T23:16:32.701Z | [open](../records/repository-workplaces-ngalog-gitlab-openapi-security-scanner-30036c82.md) |
 | projectofst/el-sw/opensource/software10e | partial | 2022-09-01T19:49:17.081Z | [open](../records/repository-workplaces-projectofst-el-sw-opensource-software10e-dd1c6b07.md) |
