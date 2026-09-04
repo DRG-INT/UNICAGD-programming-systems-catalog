@@ -5,15 +5,15 @@
 ## Category Index
 
 [Api Abi Checker (210)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (45)](by-category/assertion-mocking.md) · [Async Runtime (136)](by-category/async-runtime.md)
-[Benchmarking (188)](by-category/benchmarking.md) · [Build System (964)](by-category/build-system.md) · [Cli (550)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (188)](by-category/benchmarking.md) · [Build System (964)](by-category/build-system.md) · [Cli (551)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (115)](by-category/community-reference.md) · [Compiler (175)](by-category/compiler.md) · [Compiler Diagnostics (23)](by-category/compiler-diagnostics.md) · [Compression (50)](by-category/compression.md)
 [Concurrency Parallelism (87)](by-category/concurrency-parallelism.md) · [Configuration (122)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (171)](by-category/cryptography.md) · [Data Science (36)](by-category/data-science.md) · [Database Datastore (884)](by-category/database-datastore.md) · [Datetime (205)](by-category/datetime.md)
+[Cryptography (171)](by-category/cryptography.md) · [Data Science (37)](by-category/data-science.md) · [Database Datastore (884)](by-category/database-datastore.md) · [Datetime (206)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (101)](by-category/dependency-manager.md) · [Documentation (103)](by-category/documentation.md)
 [Embedded Hardware (55)](by-category/embedded-hardware.md) · [Ffi Bindings (437)](by-category/ffi-bindings.md) · [Filesystem Os (1506)](by-category/filesystem-os.md) · [Formatter (630)](by-category/formatter.md)
 [Framework (57)](by-category/framework.md) · [Fuzzer (56)](by-category/fuzzer.md) · [Game Engine Game Dev (338)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1406)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (410)](by-category/image-audio-dsp.md) · [Interop Bindings (60)](by-category/interop-bindings.md) · [Interpreter Runtime (264)](by-category/interpreter-runtime.md) · [Jit Vm (62)](by-category/jit-vm.md)
-[Language Server (28)](by-category/language-server.md) · [Language Specification (1412)](by-category/language-specification.md) · [Library (5418)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (28)](by-category/language-server.md) · [Language Specification (1412)](by-category/language-specification.md) · [Library (5419)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (513)](by-category/logging-observability.md) · [Machine Learning (719)](by-category/machine-learning.md)
 [Math Numeric Scientific (86)](by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1008)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (433)](by-category/package-manager.md) · [Parser Lexer Ast (1066)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (292)](by-category/precommit-ci-quality.md)
@@ -947,6 +947,7 @@
 | `cran_packages_by_date-15da2cee84d3dd` | slim | [open](records/r-slim-ed629f98.md) |
 | `cran_packages_by_date-160a7a038f0653` | party | [open](records/r-party-c30bb407.md) |
 | `cran_packages_by_date-16106d3f9420d6` | CopulaSCR | [open](records/r-copulascr-78dd9030.md) |
+| `cran_packages_by_date-1672178b407fe2` | oeli | [open](records/r-oeli-dc0d7f62.md) |
 | `cran_packages_by_date-168075dc51e7a5` | flightsbr | [open](records/r-flightsbr-9ec5bd4c.md) |
 | `cran_packages_by_date-172306a0e8991c` | uGMAR | [open](records/r-ugmar-28cb88f4.md) |
 | `cran_packages_by_date-178119bcfd2d08` | biomes | [open](records/r-biomes-8b0e7317.md) |
@@ -1801,6 +1802,7 @@
 | `cran_packages_by_date-998aec66b9692b` | pHMC | [open](records/r-phmc-399fe1e4.md) |
 | `cran_packages_by_date-9991907d9f24fd` | awkreader | [open](records/r-awkreader-6270b8ff.md) |
 | `cran_packages_by_date-99a63dd7cb3c2d` | invasible | [open](records/r-invasible-30a29f8a.md) |
+| `cran_packages_by_date-99d6e97290fc8e` | esviz | [open](records/r-esviz-0b5f4505.md) |
 | `cran_packages_by_date-99e355926e0ed5` | sps | [open](records/r-sps-a05fe89c.md) |
 | `cran_packages_by_date-9a0686a9408ec9` | AdaptHyCensor | [open](records/r-adapthycensor-60455d52.md) |
 | `cran_packages_by_date-9a450d044c9310` | magp | [open](records/r-magp-3bb9f9d0.md) |
@@ -2321,6 +2323,7 @@
 | `cran_packages_by_date-efd6a7c3ed93a7` | gmvarkit | [open](records/r-gmvarkit-788988b3.md) |
 | `cran_packages_by_date-efe2ec1d641182` | goodpractice | [open](records/r-goodpractice-b188b70b.md) |
 | `cran_packages_by_date-f091fc48b4a71d` | gp3tools | [open](records/r-gp3tools-3fb3dda5.md) |
+| `cran_packages_by_date-f09c66522f9045` | crops | [open](records/r-crops-133aa91c.md) |
 | `cran_packages_by_date-f0a15dc89e5fef` | RtForecastR | [open](records/r-rtforecastr-5c0f1709.md) |
 | `cran_packages_by_date-f0aa83d8698c2c` | ramps | [open](records/r-ramps-0397b1c4.md) |
 | `cran_packages_by_date-f0acd2e552765f` | KernSmooth | [open](records/r-kernsmooth-6a63d4ae.md) |
@@ -11717,6 +11720,7 @@
 | `github_search_photography-c23a3f9061de1c` | exiftool/exiftool | [open](records/photography-exiftool-exiftool-c6310d37.md) |
 | `github_search_photography-c293d4d78ca90c` | imaginary-cloud/CameraManager | [open](records/photography-imaginary-cloud-cameramanager-2474833f.md) |
 | `github_search_photography-c2bee7c41dca60` | ivandokov/phockup | [open](records/photography-ivandokov-phockup-a9f0cfca.md) |
+| `github_search_photography-c2e732e8ee5c1e` | mazupo/pi-webrtc | [open](records/photography-mazupo-pi-webrtc-0647d0e3.md) |
 | `github_search_photography-c47b73fec167be` | ECarry/photography-website | [open](records/photography-ecarry-photography-website-36282ce9.md) |
 | `github_search_photography-c4984834b27a37` | ceciliavision/zoom-learn-zoom | [open](records/photography-ceciliavision-zoom-learn-zoom-503d7d27.md) |
 | `github_search_photography-c4ab723882a0d7` | kalanda/photoduino | [open](records/photography-kalanda-photoduino-07947f97.md) |
