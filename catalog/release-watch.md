@@ -1,26 +1,26 @@
 # Release Watch
 
-Generated: `2026-09-04T14:21:58+00:00`
+Generated: `2026-09-04T15:23:21+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
 ## Category Index
 
 [Api Abi Checker (210)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (45)](by-category/assertion-mocking.md) · [Async Runtime (136)](by-category/async-runtime.md)
-[Benchmarking (188)](by-category/benchmarking.md) · [Build System (964)](by-category/build-system.md) · [Cli (551)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (189)](by-category/benchmarking.md) · [Build System (965)](by-category/build-system.md) · [Cli (551)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (115)](by-category/community-reference.md) · [Compiler (175)](by-category/compiler.md) · [Compiler Diagnostics (23)](by-category/compiler-diagnostics.md) · [Compression (50)](by-category/compression.md)
-[Concurrency Parallelism (87)](by-category/concurrency-parallelism.md) · [Configuration (122)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (171)](by-category/cryptography.md) · [Data Science (37)](by-category/data-science.md) · [Database Datastore (884)](by-category/database-datastore.md) · [Datetime (206)](by-category/datetime.md)
+[Concurrency Parallelism (87)](by-category/concurrency-parallelism.md) · [Configuration (123)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
+[Cryptography (172)](by-category/cryptography.md) · [Data Science (37)](by-category/data-science.md) · [Database Datastore (884)](by-category/database-datastore.md) · [Datetime (206)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (101)](by-category/dependency-manager.md) · [Documentation (103)](by-category/documentation.md)
-[Embedded Hardware (55)](by-category/embedded-hardware.md) · [Ffi Bindings (437)](by-category/ffi-bindings.md) · [Filesystem Os (1506)](by-category/filesystem-os.md) · [Formatter (630)](by-category/formatter.md)
-[Framework (57)](by-category/framework.md) · [Fuzzer (56)](by-category/fuzzer.md) · [Game Engine Game Dev (338)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1406)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (410)](by-category/image-audio-dsp.md) · [Interop Bindings (60)](by-category/interop-bindings.md) · [Interpreter Runtime (264)](by-category/interpreter-runtime.md) · [Jit Vm (62)](by-category/jit-vm.md)
-[Language Server (28)](by-category/language-server.md) · [Language Specification (1412)](by-category/language-specification.md) · [Library (5419)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Embedded Hardware (56)](by-category/embedded-hardware.md) · [Ffi Bindings (437)](by-category/ffi-bindings.md) · [Filesystem Os (1508)](by-category/filesystem-os.md) · [Formatter (630)](by-category/formatter.md)
+[Framework (58)](by-category/framework.md) · [Fuzzer (56)](by-category/fuzzer.md) · [Game Engine Game Dev (338)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1406)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (410)](by-category/image-audio-dsp.md) · [Interop Bindings (60)](by-category/interop-bindings.md) · [Interpreter Runtime (265)](by-category/interpreter-runtime.md) · [Jit Vm (62)](by-category/jit-vm.md)
+[Language Server (28)](by-category/language-server.md) · [Language Specification (1414)](by-category/language-specification.md) · [Library (5427)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (513)](by-category/logging-observability.md) · [Machine Learning (719)](by-category/machine-learning.md)
-[Math Numeric Scientific (86)](by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1008)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (433)](by-category/package-manager.md) · [Parser Lexer Ast (1066)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (292)](by-category/precommit-ci-quality.md)
+[Math Numeric Scientific (86)](by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1009)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (434)](by-category/package-manager.md) · [Parser Lexer Ast (1066)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (292)](by-category/precommit-ci-quality.md)
 [Profiler (86)](by-category/profiler.md) · [Project Scaffolding (131)](by-category/project-scaffolding.md) · [Registry Repository (132)](by-category/registry-repository.md) · [Sanitizer (13)](by-category/sanitizer.md)
-[Security Sast (336)](by-category/security-sast.md) · [Serialization (389)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (514)](by-category/static-analyzer.md)
+[Security Sast (336)](by-category/security-sast.md) · [Serialization (390)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (514)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (599)](by-category/testing-framework.md) · [Tutorial Book Styleguide (62)](by-category/tutorial-book-styleguide.md) · [Type Checker (311)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1560)](by-category/undefined-behavior-analyzer.md) · [Utility Library (101)](by-category/utility-library.md) · [Visualization Gui (507)](by-category/visualization-gui.md) · [Web Framework (472)](by-category/web-framework.md)
 
@@ -28,19 +28,24 @@ Generated: `2026-09-04T14:21:58+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10004 |
-| Unknown stable release | 16313 |
+| Known stable release | 10007 |
+| Unknown stable release | 16332 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| Diff | Haskell | Library | 2.0.0 | 2026-09-04T15:04:43Z | [open](records/haskell-diff-226c8910.md) |
+| @lightdash/cli | Node.js/JavaScript | Cli | 2.132.0 | 2026-09-04T15:03:51.644Z | [open](records/node-js-javascript-lightdash-cli-ba24b859.md) |
+| @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.113.0 | 2026-09-04T15:00:47.079Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
+| portable-atomic-util | Rust | Visualization Gui | 0.2.8 | 2026-09-04T14:36:47.702530Z | [open](records/rust-portable-atomic-util-50676b77.md) |
+| zstd-safe | Rust | Ffi Bindings | 7.3.0 | 2026-09-04T14:31:21.134134Z | [open](records/rust-zstd-safe-b3f9793a.md) |
+| pure-cdt | Haskell | Library | 0.2.0.0 | 2026-09-04T14:23:34Z | [open](records/haskell-pure-cdt-0f524428.md) |
 | @genesislcap/foundation-testing | Node.js/JavaScript | Testing Framework | 15.23.0 | 2026-09-04T14:16:32.391Z | [open](records/node-js-javascript-genesislcap-foundation-testing-9da0f708.md) |
 | @argos-ci/playwright | Node.js/JavaScript | Testing Framework | 7.5.0 | 2026-09-04T14:15:05.650Z | [open](records/node-js-javascript-argos-ci-playwright-54b0629c.md) |
 | @argos-ci/storybook | Node.js/JavaScript | Testing Framework | 6.2.8 | 2026-09-04T14:13:45.700Z | [open](records/node-js-javascript-argos-ci-storybook-6e4d39f7.md) |
 | @argos-ci/cli | Node.js/JavaScript | Testing Framework | 6.9.2 | 2026-09-04T14:13:22.552Z | [open](records/node-js-javascript-argos-ci-cli-0a6caec9.md) |
 | @argos-ci/core | Node.js/JavaScript | Testing Framework | 6.8.3 | 2026-09-04T14:13:19.107Z | [open](records/node-js-javascript-argos-ci-core-16d6b998.md) |
-| @lightdash/cli | Node.js/JavaScript | Cli | 2.128.1 | 2026-09-04T14:05:20.716Z | [open](records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | Undici | Node.js/JavaScript | Networking Http | 8.10.2 | 2026-09-04T14:00:54.766Z | [open](records/node-js-javascript-undici-80071b99.md) |
 | @prisma/language-server | Node.js/JavaScript | Language Specification | 31.12.8 | 2026-09-04T13:42:26.997Z | [open](records/node-js-javascript-prisma-language-server-e4ebd39b.md) |
 | @ui5/cli | Node.js/JavaScript | Cli | 4.0.65 | 2026-09-04T13:41:20.768Z | [open](records/node-js-javascript-ui5-cli-dfaea84c.md) |
@@ -92,7 +97,6 @@ Generated: `2026-09-04T14:21:58+00:00`
 | fumadocs-typescript | Node.js/TypeScript | Type Checker | 5.4.0 | 2026-09-04T04:05:57.039Z | [open](records/node-js-typescript-fumadocs-typescript-eb59aebd.md) |
 | exchangealgebra | Haskell | Library | 0.5.0.0 | 2026-09-04T03:50:08Z | [open](records/haskell-exchangealgebra-c5300b87.md) |
 | liquid_glass_widgets | Dart | Filesystem Os | 1.3.0 | 2026-09-04T02:59:04.800603Z | [open](records/dart-liquid-glass-widgets-8954060d.md) |
-| @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.112.27 | 2026-09-04T02:53:10.333Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
 | dio | Dart | Networking Http | 5.11.1 | 2026-09-04T02:46:21.721502Z | [open](records/dart-dio-5cdd32c7.md) |
 | tinyvec | Rust | Ide Editor Integration | 1.13.2 | 2026-09-04T02:29:11.255172Z | [open](records/rust-tinyvec-a3ec787a.md) |
 | mint | Node.js/JavaScript | Cli | 4.2.873 | 2026-09-04T02:22:30.335Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
@@ -104,6 +108,7 @@ Generated: `2026-09-04T14:21:58+00:00`
 | @seamapi/http | Node.js/TypeScript | Type Checker | 2.29.0 | 2026-09-04T00:56:43.342Z | [open](records/node-js-typescript-seamapi-http-47d27f2c.md) |
 | @gjsify/http | Node.js/JavaScript | Networking Http | 0.47.0 | 2026-09-04T00:27:29.648Z | [open](records/node-js-javascript-gjsify-http-1598f2a7.md) |
 | @joshwooding/vite-plugin-react-docgen-typescript | Node.js/TypeScript | Type Checker | 0.8.0 | 2026-09-04T00:03:02.953Z | [open](records/node-js-typescript-joshwooding-vite-plugin-react-docgen-typescript-dcab1e64.md) |
+| opdisDownsampling | R | Library | 1.7 | 2026-09-04 15:00:02 UTC | [open](records/r-opdisdownsampling-17ba0e83.md) |
 | crops | R | Library | 1.0.4 | 2026-09-04 13:50:01 UTC | [open](records/r-crops-133aa91c.md) |
 | esviz | R | Cli | 0.0.4 | 2026-09-04 13:20:02 UTC | [open](records/r-esviz-0b5f4505.md) |
 | oeli | R | Data Science | 0.7.7 | 2026-09-04 12:30:11 UTC | [open](records/r-oeli-dc0d7f62.md) |
@@ -280,17 +285,12 @@ Generated: `2026-09-04T14:21:58+00:00`
 | MetaEntropy | R | Static Analyzer | 1.4 | 2026-09-03 14:10:02 UTC | [open](records/r-metaentropy-02910165.md) |
 | RDesk | R | Framework | 1.0.7 | 2026-09-03 14:00:02 UTC | [open](records/r-rdesk-fc889069.md) |
 | dodgr | R | Library | 0.5.0 | 2026-09-03 13:50:09 UTC | [open](records/r-dodgr-6efced31.md) |
-| spfcICOMP | R | Formatter | 0.1.0 | 2026-09-03 13:50:02 UTC | [open](records/r-spfcicomp-645e3475.md) |
-| designit | R | Library | 0.5.1 | 2026-09-03 13:40:02 UTC | [open](records/r-designit-0d5460d9.md) |
-| BUSfinancial | R | Static Analyzer | 0.1.0 | 2026-09-03 13:20:02 UTC | [open](records/r-busfinancial-657c5f95.md) |
-| K4Guru | R | Library | 0.1.0 | 2026-09-03 13:10:03 UTC | [open](records/r-k4guru-5a67bf20.md) |
-| later2 | R | Async Runtime | 0.1 | 2026-09-03 12:50:02 UTC | [open](records/r-later2-43217bc5.md) |
 
 ## Unknown Reasons
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 8464 |
+| gh_search_reports_activity_not_release_version | 8483 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |

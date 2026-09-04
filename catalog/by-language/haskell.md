@@ -1,6 +1,6 @@
 # Haskell
 
-Records: `1376`
+Records: `1378`
 
 ## Navigation
 
@@ -9,20 +9,20 @@ Records: `1376`
 ## Category Index
 
 [Api Abi Checker (210)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (45)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
-[Benchmarking (188)](../by-category/benchmarking.md) · [Build System (964)](../by-category/build-system.md) · [Cli (551)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (189)](../by-category/benchmarking.md) · [Build System (965)](../by-category/build-system.md) · [Cli (551)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (115)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (50)](../by-category/compression.md)
-[Concurrency Parallelism (87)](../by-category/concurrency-parallelism.md) · [Configuration (122)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (171)](../by-category/cryptography.md) · [Data Science (37)](../by-category/data-science.md) · [Database Datastore (884)](../by-category/database-datastore.md) · [Datetime (206)](../by-category/datetime.md)
+[Concurrency Parallelism (87)](../by-category/concurrency-parallelism.md) · [Configuration (123)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
+[Cryptography (172)](../by-category/cryptography.md) · [Data Science (37)](../by-category/data-science.md) · [Database Datastore (884)](../by-category/database-datastore.md) · [Datetime (206)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (101)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
-[Embedded Hardware (55)](../by-category/embedded-hardware.md) · [Ffi Bindings (437)](../by-category/ffi-bindings.md) · [Filesystem Os (1506)](../by-category/filesystem-os.md) · [Formatter (630)](../by-category/formatter.md)
-[Framework (57)](../by-category/framework.md) · [Fuzzer (56)](../by-category/fuzzer.md) · [Game Engine Game Dev (338)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1406)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (410)](../by-category/image-audio-dsp.md) · [Interop Bindings (60)](../by-category/interop-bindings.md) · [Interpreter Runtime (264)](../by-category/interpreter-runtime.md) · [Jit Vm (62)](../by-category/jit-vm.md)
-[Language Server (28)](../by-category/language-server.md) · [Language Specification (1412)](../by-category/language-specification.md) · [Library (5419)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (437)](../by-category/ffi-bindings.md) · [Filesystem Os (1508)](../by-category/filesystem-os.md) · [Formatter (630)](../by-category/formatter.md)
+[Framework (58)](../by-category/framework.md) · [Fuzzer (56)](../by-category/fuzzer.md) · [Game Engine Game Dev (338)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1406)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (410)](../by-category/image-audio-dsp.md) · [Interop Bindings (60)](../by-category/interop-bindings.md) · [Interpreter Runtime (265)](../by-category/interpreter-runtime.md) · [Jit Vm (62)](../by-category/jit-vm.md)
+[Language Server (28)](../by-category/language-server.md) · [Language Specification (1414)](../by-category/language-specification.md) · [Library (5427)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (513)](../by-category/logging-observability.md) · [Machine Learning (719)](../by-category/machine-learning.md)
-[Math Numeric Scientific (86)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1008)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (433)](../by-category/package-manager.md) · [Parser Lexer Ast (1066)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (292)](../by-category/precommit-ci-quality.md)
+[Math Numeric Scientific (86)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1009)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (434)](../by-category/package-manager.md) · [Parser Lexer Ast (1066)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (292)](../by-category/precommit-ci-quality.md)
 [Profiler (86)](../by-category/profiler.md) · [Project Scaffolding (131)](../by-category/project-scaffolding.md) · [Registry Repository (132)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
-[Security Sast (336)](../by-category/security-sast.md) · [Serialization (389)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (514)](../by-category/static-analyzer.md)
+[Security Sast (336)](../by-category/security-sast.md) · [Serialization (390)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (514)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (599)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (62)](../by-category/tutorial-book-styleguide.md) · [Type Checker (311)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1560)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (101)](../by-category/utility-library.md) · [Visualization Gui (507)](../by-category/visualization-gui.md) · [Web Framework (472)](../by-category/web-framework.md)
 
@@ -577,6 +577,7 @@ Records: `1376`
 | [diagrams-haddock](../records/haskell-diagrams-haddock-cfeac818.md) | 0.4.1.2 | 2023-07-11T02:56:02Z | registry-derived |
 | [diagrams-lib](../records/haskell-diagrams-lib-7d02de43.md) | 1.6 | 2026-08-06T21:07:30Z | registry-derived |
 | [diagrams-svg](../records/haskell-diagrams-svg-ab5fa146.md) | 1.5 | 2025-03-25T15:25:38Z | registry-derived |
+| [Diff](../records/haskell-diff-226c8910.md) | 2.0.0 | 2026-09-04T15:04:43Z | registry-derived |
 | [digest](../records/haskell-digest-e9e3ac37.md) | 0.0.2.1 | 2024-02-10T14:26:08Z | registry-derived |
 | [digestive-functors](../records/haskell-digestive-functors-3d7941b4.md) | 0.8.4.2 | 2020-05-09T11:28:22Z | registry-derived |
 | [dimensional](../records/haskell-dimensional-a93be405.md) | 1.6.2 | 2026-01-01T18:04:42Z | registry-derived |
@@ -1012,6 +1013,7 @@ Records: `1376`
 | [protocol-buffers-descriptor](../records/haskell-protocol-buffers-descriptor-e1b12908.md) | 2.4.17 | 2020-11-05T20:59:50Z | registry-derived |
 | [protolude](../records/haskell-protolude-75beb0de.md) | 0.3.5 | 2025-05-16T02:18:36Z | registry-derived |
 | [ptr-poker](../records/haskell-ptr-poker-989bfcad.md) | 0.1.3 | 2026-01-21T10:08:02Z | registry-derived |
+| [pure-cdt](../records/haskell-pure-cdt-0f524428.md) | 0.2.0.0 | 2026-09-04T14:23:34Z | registry-derived |
 | [pure-zlib](../records/haskell-pure-zlib-70a539f2.md) | 0.8.0 | 2021-10-30T18:02:31Z | registry-derived |
 | [purescript](../records/haskell-purescript-f9558133.md) | 0.15.15 | 2024-02-07T18:36:40Z | registry-derived |
 | [rampart](../records/haskell-rampart-d9b7d0d8.md) | 2.0.0.13 | 2026-01-14T15:29:21Z | registry-derived |

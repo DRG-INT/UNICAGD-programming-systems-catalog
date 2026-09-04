@@ -1,6 +1,6 @@
 # Library
 
-Records: `5419`
+Records: `5427`
 
 ## Navigation
 
@@ -9,20 +9,20 @@ Records: `5419`
 ## Category Index
 
 [Api Abi Checker (210)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (188)](benchmarking.md) · [Build System (964)](build-system.md) · [Cli (551)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (189)](benchmarking.md) · [Build System (965)](build-system.md) · [Cli (551)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (115)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
-[Concurrency Parallelism (87)](concurrency-parallelism.md) · [Configuration (122)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (171)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (884)](database-datastore.md) · [Datetime (206)](datetime.md)
+[Concurrency Parallelism (87)](concurrency-parallelism.md) · [Configuration (123)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (172)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (884)](database-datastore.md) · [Datetime (206)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (437)](ffi-bindings.md) · [Filesystem Os (1506)](filesystem-os.md) · [Formatter (630)](formatter.md)
-[Framework (57)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (338)](game-engine-game-dev.md) · [Ide Editor Integration (1406)](ide-editor-integration.md)
-[Image Audio Dsp (410)](image-audio-dsp.md) · [Interop Bindings (60)](interop-bindings.md) · [Interpreter Runtime (264)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
-[Language Server (28)](language-server.md) · [Language Specification (1412)](language-specification.md) · **[Library (5419)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (437)](ffi-bindings.md) · [Filesystem Os (1508)](filesystem-os.md) · [Formatter (630)](formatter.md)
+[Framework (58)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (338)](game-engine-game-dev.md) · [Ide Editor Integration (1406)](ide-editor-integration.md)
+[Image Audio Dsp (410)](image-audio-dsp.md) · [Interop Bindings (60)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
+[Language Server (28)](language-server.md) · [Language Specification (1414)](language-specification.md) · **[Library (5427)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (513)](logging-observability.md) · [Machine Learning (719)](machine-learning.md)
-[Math Numeric Scientific (86)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1008)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (433)](package-manager.md) · [Parser Lexer Ast (1066)](parser-lexer-ast.md) · [Precommit Ci Quality (292)](precommit-ci-quality.md)
+[Math Numeric Scientific (86)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1009)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (434)](package-manager.md) · [Parser Lexer Ast (1066)](parser-lexer-ast.md) · [Precommit Ci Quality (292)](precommit-ci-quality.md)
 [Profiler (86)](profiler.md) · [Project Scaffolding (131)](project-scaffolding.md) · [Registry Repository (132)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (389)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (514)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (390)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (514)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (599)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (311)](type-checker.md)
 [Undefined Behavior Analyzer (1560)](undefined-behavior-analyzer.md) · [Utility Library (101)](utility-library.md) · [Visualization Gui (507)](visualization-gui.md) · [Web Framework (472)](web-framework.md)
 
@@ -2797,6 +2797,7 @@ Records: `5419`
 | nwaa | 0.1.4 | 2026-08-20 14:40:02 UTC | [open](../records/r-nwaa-61b53c4d.md) |
 | ofhsyn | 0.1.3 | 2026-08-26 21:10:02 UTC | [open](../records/r-ofhsyn-52ef6e90.md) |
 | OmopSketch | 1.1.1 | 2026-08-27 11:10:02 UTC | [open](../records/r-omopsketch-b6fdfd3a.md) |
+| opdisDownsampling | 1.7 | 2026-09-04 15:00:02 UTC | [open](../records/r-opdisdownsampling-17ba0e83.md) |
 | opencltools | 0.8.3 | 2026-08-04 18:00:07 UTC | [open](../records/r-opencltools-f7374199.md) |
 | openEBGM | 0.10.0 | 2026-09-03 21:00:02 UTC | [open](../records/r-openebgm-5361b63e.md) |
 | openxlsx | 4.2.9 | 2026-09-02 09:30:02 UTC | [open](../records/r-openxlsx-beaffd1b.md) |
@@ -3229,6 +3230,7 @@ Records: `5419`
 | diagrams-haddock | 0.4.1.2 | 2023-07-11T02:56:02Z | [open](../records/haskell-diagrams-haddock-cfeac818.md) |
 | diagrams-lib | 1.6 | 2026-08-06T21:07:30Z | [open](../records/haskell-diagrams-lib-7d02de43.md) |
 | diagrams-svg | 1.5 | 2025-03-25T15:25:38Z | [open](../records/haskell-diagrams-svg-ab5fa146.md) |
+| Diff | 2.0.0 | 2026-09-04T15:04:43Z | [open](../records/haskell-diff-226c8910.md) |
 | digest | 0.0.2.1 | 2024-02-10T14:26:08Z | [open](../records/haskell-digest-e9e3ac37.md) |
 | digestive-functors | 0.8.4.2 | 2020-05-09T11:28:22Z | [open](../records/haskell-digestive-functors-3d7941b4.md) |
 | dimensional | 1.6.2 | 2026-01-01T18:04:42Z | [open](../records/haskell-dimensional-a93be405.md) |
@@ -3664,6 +3666,7 @@ Records: `5419`
 | protocol-buffers-descriptor | 2.4.17 | 2020-11-05T20:59:50Z | [open](../records/haskell-protocol-buffers-descriptor-e1b12908.md) |
 | protolude | 0.3.5 | 2025-05-16T02:18:36Z | [open](../records/haskell-protolude-75beb0de.md) |
 | ptr-poker | 0.1.3 | 2026-01-21T10:08:02Z | [open](../records/haskell-ptr-poker-989bfcad.md) |
+| pure-cdt | 0.2.0.0 | 2026-09-04T14:23:34Z | [open](../records/haskell-pure-cdt-0f524428.md) |
 | pure-zlib | 0.8.0 | 2021-10-30T18:02:31Z | [open](../records/haskell-pure-zlib-70a539f2.md) |
 | purescript | 0.15.15 | 2024-02-07T18:36:40Z | [open](../records/haskell-purescript-f9558133.md) |
 | rampart | 2.0.0.13 | 2026-01-14T15:29:21Z | [open](../records/haskell-rampart-d9b7d0d8.md) |
@@ -4155,7 +4158,7 @@ Records: `5419`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-04T14:15:21Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-04T15:17:45Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4169,7 +4172,7 @@ Records: `5419`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-04T12:21:46Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-04T15:08:19Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -5224,6 +5227,7 @@ Records: `5419`
 | 0x00pf/programming4wannabes | partial | 2025-01-26T14:55:57Z | [open](../records/assembly-0x00pf-programming4wannabes-8dd4905d.md) |
 | 0xAX/asm | partial | 2026-08-25T10:24:56Z | [open](../records/assembly-0xax-asm-c781f702.md) |
 | abatchy17/SLAE | partial | 2017-05-23T23:03:04Z | [open](../records/assembly-abatchy17-slae-9f5ee474.md) |
+| AdamNiederer/riscv-mode | partial | 2022-09-16T02:06:02Z | [open](../records/assembly-adamniederer-riscv-mode-de0f65fc.md) |
 | ajkhoury/UEFI-Bootkit | partial | 2019-08-29T14:16:09Z | [open](../records/assembly-ajkhoury-uefi-bootkit-3307a09a.md) |
 | alexfru/regal86 | partial | 2023-08-20T23:36:43Z | [open](../records/assembly-alexfru-regal86-87e85f53.md) |
 | alexfru/Win16asm | partial | 2017-11-06T11:41:11Z | [open](../records/assembly-alexfru-win16asm-73920671.md) |
@@ -5236,19 +5240,23 @@ Records: `5419`
 | DispatchCode/x64-Instruction-Decoder | partial | 2026-08-25T13:50:56Z | [open](../records/assembly-dispatchcode-x64-instruction-decoder-08b48129.md) |
 | ElykDeer/A-Walk-Through-x86 | partial | 2018-12-17T17:05:17Z | [open](../records/assembly-elykdeer-a-walk-through-x86-11fc808b.md) |
 | evoasm/kasm | partial | 2019-10-23T17:07:16Z | [open](../records/assembly-evoasm-kasm-7c45dcde.md) |
+| gboncoffee/egg | partial | 2026-08-12T13:49:20Z | [open](../records/assembly-gboncoffee-egg-63083ee5.md) |
 | GregoryComer/rust-x86asm | partial | 2020-06-21T18:39:44Z | [open](../records/assembly-gregorycomer-rust-x86asm-7b00499f.md) |
 | gurugio/lowlevelprogramming-university | partial | 2025-03-24T11:49:58Z | [open](../records/assembly-gurugio-lowlevelprogramming-university-485ace99.md) |
 | Inspirate789/BMSTU-MDPL | partial | 2022-05-21T05:40:36Z | [open](../records/assembly-inspirate789-bmstu-mdpl-f30ba10b.md) |
 | johannst/dynld | partial | 2025-05-10T19:58:26Z | [open](../records/assembly-johannst-dynld-10da7170.md) |
 | kvakil/0asm | partial | 2019-12-01T21:08:04Z | [open](../records/assembly-kvakil-0asm-59cb7b1e.md) |
 | las-nish/NASM-Assembly-Collection | partial | 2022-03-29T03:18:01Z | [open](../records/assembly-las-nish-nasm-assembly-collection-a42cbaf3.md) |
+| ldlaur/ares | partial | 2026-07-08T19:32:26Z | [open](../records/assembly-ldlaur-ares-cf2f6d60.md) |
 | mattdibi/redox-keyboard | partial | 2026-05-26T18:15:22Z | [open](../records/assembly-mattdibi-redox-keyboard-e1f3e991.md) |
 | MattPD/cpplinks | partial | 2026-09-02T03:44:59Z | [open](../records/assembly-mattpd-cpplinks-29eb7bcc.md) |
 | meribold/btry | partial | 2026-08-02T18:34:33Z | [open](../records/assembly-meribold-btry-acc80abb.md) |
 | mmcloughlin/avo | partial | 2026-09-01T05:34:18Z | [open](../records/assembly-mmcloughlin-avo-46167d30.md) |
 | mohitmishra786/amILearningEnough | partial | 2026-03-26T16:42:23Z | [open](../records/assembly-mohitmishra786-amilearningenough-299c3826.md) |
+| noteed/riscv-hello-asm | partial | 2021-10-16T12:08:54Z | [open](../records/assembly-noteed-riscv-hello-asm-dc120f1a.md) |
 | pgaskin/kobo-mods | partial | 2026-08-15T01:59:10Z | [open](../records/assembly-pgaskin-kobo-mods-bbd1ab40.md) |
 | pgaskin/kobopatch | partial | 2026-03-17T19:44:48Z | [open](../records/assembly-pgaskin-kobopatch-ac409c3c.md) |
+| racerxdl/riscv-online-asm | partial | 2026-07-24T06:35:30Z | [open](../records/assembly-racerxdl-riscv-online-asm-0bbde537.md) |
 | resilar/HotFinger | partial | 2025-09-28T06:43:41Z | [open](../records/assembly-resilar-hotfinger-a0e2596b.md) |
 | ReturnInfinity/Pure64 | partial | 2026-06-12T19:29:07Z | [open](../records/assembly-returninfinity-pure64-67a8cce1.md) |
 | segmentio/asm | partial | 2026-06-25T23:26:52Z | [open](../records/assembly-segmentio-asm-07cb5069.md) |

@@ -5,20 +5,20 @@
 ## Category Index
 
 [Api Abi Checker (210)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (45)](by-category/assertion-mocking.md) · [Async Runtime (136)](by-category/async-runtime.md)
-[Benchmarking (188)](by-category/benchmarking.md) · [Build System (964)](by-category/build-system.md) · [Cli (551)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (189)](by-category/benchmarking.md) · [Build System (965)](by-category/build-system.md) · [Cli (551)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (115)](by-category/community-reference.md) · [Compiler (175)](by-category/compiler.md) · [Compiler Diagnostics (23)](by-category/compiler-diagnostics.md) · [Compression (50)](by-category/compression.md)
-[Concurrency Parallelism (87)](by-category/concurrency-parallelism.md) · [Configuration (122)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (171)](by-category/cryptography.md) · [Data Science (37)](by-category/data-science.md) · [Database Datastore (884)](by-category/database-datastore.md) · [Datetime (206)](by-category/datetime.md)
+[Concurrency Parallelism (87)](by-category/concurrency-parallelism.md) · [Configuration (123)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
+[Cryptography (172)](by-category/cryptography.md) · [Data Science (37)](by-category/data-science.md) · [Database Datastore (884)](by-category/database-datastore.md) · [Datetime (206)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (101)](by-category/dependency-manager.md) · [Documentation (103)](by-category/documentation.md)
-[Embedded Hardware (55)](by-category/embedded-hardware.md) · [Ffi Bindings (437)](by-category/ffi-bindings.md) · [Filesystem Os (1506)](by-category/filesystem-os.md) · [Formatter (630)](by-category/formatter.md)
-[Framework (57)](by-category/framework.md) · [Fuzzer (56)](by-category/fuzzer.md) · [Game Engine Game Dev (338)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1406)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (410)](by-category/image-audio-dsp.md) · [Interop Bindings (60)](by-category/interop-bindings.md) · [Interpreter Runtime (264)](by-category/interpreter-runtime.md) · [Jit Vm (62)](by-category/jit-vm.md)
-[Language Server (28)](by-category/language-server.md) · [Language Specification (1412)](by-category/language-specification.md) · [Library (5419)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Embedded Hardware (56)](by-category/embedded-hardware.md) · [Ffi Bindings (437)](by-category/ffi-bindings.md) · [Filesystem Os (1508)](by-category/filesystem-os.md) · [Formatter (630)](by-category/formatter.md)
+[Framework (58)](by-category/framework.md) · [Fuzzer (56)](by-category/fuzzer.md) · [Game Engine Game Dev (338)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1406)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (410)](by-category/image-audio-dsp.md) · [Interop Bindings (60)](by-category/interop-bindings.md) · [Interpreter Runtime (265)](by-category/interpreter-runtime.md) · [Jit Vm (62)](by-category/jit-vm.md)
+[Language Server (28)](by-category/language-server.md) · [Language Specification (1414)](by-category/language-specification.md) · [Library (5427)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (513)](by-category/logging-observability.md) · [Machine Learning (719)](by-category/machine-learning.md)
-[Math Numeric Scientific (86)](by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1008)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (433)](by-category/package-manager.md) · [Parser Lexer Ast (1066)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (292)](by-category/precommit-ci-quality.md)
+[Math Numeric Scientific (86)](by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1009)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (434)](by-category/package-manager.md) · [Parser Lexer Ast (1066)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (292)](by-category/precommit-ci-quality.md)
 [Profiler (86)](by-category/profiler.md) · [Project Scaffolding (131)](by-category/project-scaffolding.md) · [Registry Repository (132)](by-category/registry-repository.md) · [Sanitizer (13)](by-category/sanitizer.md)
-[Security Sast (336)](by-category/security-sast.md) · [Serialization (389)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (514)](by-category/static-analyzer.md)
+[Security Sast (336)](by-category/security-sast.md) · [Serialization (390)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (514)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (599)](by-category/testing-framework.md) · [Tutorial Book Styleguide (62)](by-category/tutorial-book-styleguide.md) · [Type Checker (311)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1560)](by-category/undefined-behavior-analyzer.md) · [Utility Library (101)](by-category/utility-library.md) · [Visualization Gui (507)](by-category/visualization-gui.md) · [Web Framework (472)](by-category/web-framework.md)
 
@@ -890,6 +890,7 @@
 | `cran_packages_by_date-0c6860fa58a5f5` | PhysMove | [open](records/r-physmove-73719bf7.md) |
 | `cran_packages_by_date-0c83d0f6faa256` | unvs.med | [open](records/r-unvs-med-ba7be0ce.md) |
 | `cran_packages_by_date-0cc952d7c0a8ac` | pizzarr | [open](records/r-pizzarr-646f3135.md) |
+| `cran_packages_by_date-0ccae0957e3728` | opdisDownsampling | [open](records/r-opdisdownsampling-17ba0e83.md) |
 | `cran_packages_by_date-0ce7060e6e2bb3` | StanHeaders | [open](records/r-stanheaders-057c3682.md) |
 | `cran_packages_by_date-0d0b4396e02517` | directlabels | [open](records/r-directlabels-65e4fde1.md) |
 | `cran_packages_by_date-0db9a9d74d5a71` | rice | [open](records/r-rice-92478c24.md) |
@@ -5480,6 +5481,7 @@
 | `github_search_assembly-12dc626a46a80a` | AtieP/FutureDOS | [open](records/assembly-atiep-futuredos-d6f17933.md) |
 | `github_search_assembly-1451e7b9fa6c7c` | JSsixtyfour/smashremix | [open](records/assembly-jssixtyfour-smashremix-3676fb2a.md) |
 | `github_search_assembly-15118297c76261` | danielkrupinski/Inflame | [open](records/assembly-danielkrupinski-inflame-6316c79b.md) |
+| `github_search_assembly-15bf47da98df6f` | MahadMuhammad/Learn-Assembly-The-Hard-Way | [open](records/assembly-mahadmuhammad-learn-assembly-the-hard-way-1d45ef01.md) |
 | `github_search_assembly-1604ff82106e62` | meribold/btry | [open](records/assembly-meribold-btry-acc80abb.md) |
 | `github_search_assembly-1877cd7e0a6b73` | akkartik/mu | [open](records/assembly-akkartik-mu-02abed58.md) |
 | `github_search_assembly-18b1d2804dc451` | someodd/gasm | [open](records/assembly-someodd-gasm-5b37a1db.md) |
@@ -5519,6 +5521,7 @@
 | `github_search_assembly-3902764140208d` | microsoft/BASIC-M6502 | [open](records/assembly-microsoft-basic-m6502-66ceb6b5.md) |
 | `github_search_assembly-3ab5262517da40` | DQNEO/minigo | [open](records/assembly-dqneo-minigo-2d87e4eb.md) |
 | `github_search_assembly-3b4195744ce6fa` | dwelch67/raspberrypi | [open](records/assembly-dwelch67-raspberrypi-a219633c.md) |
+| `github_search_assembly-3bdd8bf966aaf5` | ldlaur/ares | [open](records/assembly-ldlaur-ares-cf2f6d60.md) |
 | `github_search_assembly-3be1c0546fe6ae` | briansmith/ring | [open](records/assembly-briansmith-ring-3a265118.md) |
 | `github_search_assembly-3c608226afff5f` | mikeroyal/RISC-V-Guide | [open](records/assembly-mikeroyal-risc-v-guide-dfd455c4.md) |
 | `github_search_assembly-3e7848e8f58375` | HJLebbink/asm-dude | [open](records/assembly-hjlebbink-asm-dude-98d99d19.md) |
@@ -5526,6 +5529,7 @@
 | `github_search_assembly-3e9bbe75eee220` | ROCm/MIOpen | [open](records/assembly-rocm-miopen-1181b14a.md) |
 | `github_search_assembly-3ea7b4c86fefbf` | nanochess/bootOS | [open](records/assembly-nanochess-bootos-3579b41b.md) |
 | `github_search_assembly-3fc17c8afd42e7` | arm-education/Introduction-to-Computer-Architecture-Education-Kit | [open](records/assembly-arm-education-introduction-to-computer-architecture-education-kit-a468a15f.md) |
+| `github_search_assembly-3ff7aac8a32a47` | Shikha-code36/assembly-ARM-tutorial | [open](records/assembly-shikha-code36-assembly-arm-tutorial-fd735a29.md) |
 | `github_search_assembly-4183bb57ab0cdf` | xiph/rav1e | [open](records/assembly-xiph-rav1e-5183562e.md) |
 | `github_search_assembly-41cace1bd72985` | PlummersSoftwareLLC/TinyRetroPad | [open](records/assembly-plummerssoftwarellc-tinyretropad-9938f18a.md) |
 | `github_search_assembly-43f6ceeff5ae7d` | mirrorer/libbpg | [open](records/assembly-mirrorer-libbpg-745138b3.md) |
@@ -5533,6 +5537,7 @@
 | `github_search_assembly-4547277136426a` | slembcke/Tina | [open](records/assembly-slembcke-tina-71c3cf67.md) |
 | `github_search_assembly-45b5f8ac49eb87` | jofrfu/tinyTPU | [open](records/assembly-jofrfu-tinytpu-55706d65.md) |
 | `github_search_assembly-47049ad5b2212f` | RRZE-HPC/OSACA | [open](records/assembly-rrze-hpc-osaca-67fcadc4.md) |
+| `github_search_assembly-473ba9709c6fd5` | racerxdl/riscv-online-asm | [open](records/assembly-racerxdl-riscv-online-asm-0bbde537.md) |
 | `github_search_assembly-498b64ad8d5f89` | KnightOS/KnightOS | [open](records/assembly-knightos-knightos-0141de07.md) |
 | `github_search_assembly-49934caabf1699` | barotto/test386.asm | [open](records/assembly-barotto-test386-asm-fa35ae55.md) |
 | `github_search_assembly-4a16224f8bf5ca` | blackbird71SR/Hello-World | [open](records/assembly-blackbird71sr-hello-world-2fa43546.md) |
@@ -5559,6 +5564,7 @@
 | `github_search_assembly-5a802419f187e5` | 100thCoin/AccuracyCoin | [open](records/assembly-100thcoin-accuracycoin-a8cc820c.md) |
 | `github_search_assembly-5bfb2fff3acdd6` | brenns10/sos | [open](records/assembly-brenns10-sos-4e96bc2c.md) |
 | `github_search_assembly-5c3f0f1b91bb1b` | riscv-software-src/riscv-tests | [open](records/assembly-riscv-software-src-riscv-tests-77e7e3cb.md) |
+| `github_search_assembly-5c8f1470115c80` | noteed/riscv-hello-asm | [open](records/assembly-noteed-riscv-hello-asm-dc120f1a.md) |
 | `github_search_assembly-5ca95139185d32` | owent/libcopp | [open](records/assembly-owent-libcopp-45c438d7.md) |
 | `github_search_assembly-5cdf39940027f1` | jthuraisamy/SysWhispers2 | [open](records/assembly-jthuraisamy-syswhispers2-a7a2bf36.md) |
 | `github_search_assembly-5d800c5a991b16` | videolan/x265 | [open](records/assembly-videolan-x265-a7ebef11.md) |
@@ -5572,6 +5578,7 @@
 | `github_search_assembly-6261b564c53fc7` | repnz/snax86 | [open](records/assembly-repnz-snax86-f1eddbbc.md) |
 | `github_search_assembly-638d220d647015` | ujjwal-kr/system-programming-roadmap | [open](records/assembly-ujjwal-kr-system-programming-roadmap-128f664f.md) |
 | `github_search_assembly-66780b5adbf20c` | kaxap/arl | [open](records/assembly-kaxap-arl-19c4f0de.md) |
+| `github_search_assembly-680dbac1df20a6` | elzoughby/STM32H7xx-Startup | [open](records/assembly-elzoughby-stm32h7xx-startup-c3e439b7.md) |
 | `github_search_assembly-6892db0793602c` | leoncinardo/MascOS | [open](records/assembly-leoncinardo-mascos-e4ea93aa.md) |
 | `github_search_assembly-68e7ee195f7284` | tgrysztar/fasm | [open](records/assembly-tgrysztar-fasm-9d9633d5.md) |
 | `github_search_assembly-69487b430f153a` | ClementTsang/rustcc | [open](records/assembly-clementtsang-rustcc-81a87799.md) |
@@ -5582,6 +5589,7 @@
 | `github_search_assembly-6db95e5743d88f` | cirosantilli/x86-assembly-cheat | [open](records/assembly-cirosantilli-x86-assembly-cheat-6fe4201b.md) |
 | `github_search_assembly-6e0285a97d7fbe` | matanki-saito/EU4dll | [open](records/assembly-matanki-saito-eu4dll-aedee506.md) |
 | `github_search_assembly-6f46d5579d00c2` | avivbrook/Intel-Assembly-Language-Programming-Exercises | [open](records/assembly-avivbrook-intel-assembly-language-programming-exercises-027e9b7f.md) |
+| `github_search_assembly-6f7a47970d7c09` | lioncash/biscuit | [open](records/assembly-lioncash-biscuit-f6a5360e.md) |
 | `github_search_assembly-6fb7aed70637dd` | fcambus/spleen | [open](records/assembly-fcambus-spleen-889e6477.md) |
 | `github_search_assembly-71b8a3e85b10d3` | tsoding/pinpog | [open](records/assembly-tsoding-pinpog-a14e3af2.md) |
 | `github_search_assembly-71b8e00bf1f191` | gurugio/lowlevelprogramming-university | [open](records/assembly-gurugio-lowlevelprogramming-university-485ace99.md) |
@@ -5595,6 +5603,7 @@
 | `github_search_assembly-764ced6f555880` | openhwgroup/cva6 | [open](records/assembly-openhwgroup-cva6-c0f79b44.md) |
 | `github_search_assembly-7857f6d65a0fa8` | ElykDeer/A-Walk-Through-x86 | [open](records/assembly-elykdeer-a-walk-through-x86-11fc808b.md) |
 | `github_search_assembly-794886fb88b16a` | riscv/riscv-arch-test | [open](records/assembly-riscv-riscv-arch-test-0b5f8870.md) |
+| `github_search_assembly-7da289a334d514` | reworkd/AgentGPT | [open](records/assembly-reworkd-agentgpt-75e0a085.md) |
 | `github_search_assembly-7e13c61c108632` | RandalLinden/DOOM-FX | [open](records/assembly-randallinden-doom-fx-76b45172.md) |
 | `github_search_assembly-7e5a415d04c8a3` | pacak/cargo-show-asm | [open](records/assembly-pacak-cargo-show-asm-9459d0cc.md) |
 | `github_search_assembly-7ea0167500364d` | opferman/SixtyFourBits | [open](records/assembly-opferman-sixtyfourbits-e527ab86.md) |
@@ -5602,6 +5611,7 @@
 | `github_search_assembly-7fa932a5cb003d` | shikaan/osle | [open](records/assembly-shikaan-osle-a280853b.md) |
 | `github_search_assembly-80447d80f49cba` | pret/pokeyellow | [open](records/assembly-pret-pokeyellow-f91bcc26.md) |
 | `github_search_assembly-810008b41b38f9` | mikeroyal/Assembly-Guide | [open](records/assembly-mikeroyal-assembly-guide-e4afccda.md) |
+| `github_search_assembly-813658102701f1` | s-matyukevich/raspberry-pi-os | [open](records/assembly-s-matyukevich-raspberry-pi-os-afd7ee12.md) |
 | `github_search_assembly-81b707f5fe42c2` | johannst/dynld | [open](records/assembly-johannst-dynld-10da7170.md) |
 | `github_search_assembly-81c12270e2e614` | wichtounet/thor-os | [open](records/assembly-wichtounet-thor-os-cf1384c0.md) |
 | `github_search_assembly-8287faeb020a78` | gh-nomad/nmd | [open](records/assembly-gh-nomad-nmd-edbb6cb6.md) |
@@ -5635,10 +5645,13 @@
 | `github_search_assembly-97bceb7e78f37f` | danielhenrymantilla/shellcode-factory | [open](records/assembly-danielhenrymantilla-shellcode-factory-b4d941dd.md) |
 | `github_search_assembly-98dd48fc2cd257` | SheerSt/pokewilds | [open](records/assembly-sheerst-pokewilds-24e08e0a.md) |
 | `github_search_assembly-99d9b91d5e7e58` | oriansj/stage0 | [open](records/assembly-oriansj-stage0-6791bc52.md) |
+| `github_search_assembly-9c2d12ea4c7605` | openwall/john | [open](records/assembly-openwall-john-f20b3c39.md) |
 | `github_search_assembly-9c88504c246398` | pret/pokered | [open](records/assembly-pret-pokered-f921a9c0.md) |
 | `github_search_assembly-9cda0aa73f4491` | xuhongv/StudyInEsp8266 | [open](records/assembly-xuhongv-studyinesp8266-c596a5a9.md) |
 | `github_search_assembly-9d29234afbb769` | daem0nc0re/macOS_ARM64_Shellcode | [open](records/assembly-daem0nc0re-macos-arm64-shellcode-80babd06.md) |
+| `github_search_assembly-9de58a5786efbb` | ashwio/arm64-sysreg-lib | [open](records/assembly-ashwio-arm64-sysreg-lib-554950a8.md) |
 | `github_search_assembly-9deaf1db0cb86c` | yhs0602/Android-Disassembler | [open](records/assembly-yhs0602-android-disassembler-1d409abc.md) |
+| `github_search_assembly-9ee8c1ccb96910` | AdamNiederer/riscv-mode | [open](records/assembly-adamniederer-riscv-mode-de0f65fc.md) |
 | `github_search_assembly-a03d535a53745e` | PrincetonUniversity/openpiton | [open](records/assembly-princetonuniversity-openpiton-eceb776d.md) |
 | `github_search_assembly-a07713e3a597fb` | justinmeiners/lc3-vm | [open](records/assembly-justinmeiners-lc3-vm-4d906562.md) |
 | `github_search_assembly-a3352e118c2c1c` | Rangi42/polishedcrystal | [open](records/assembly-rangi42-polishedcrystal-55bf1d37.md) |
@@ -5654,6 +5667,7 @@
 | `github_search_assembly-a67e836df9527e` | decompme/decomp.me | [open](records/assembly-decompme-decomp-me-72e4eec1.md) |
 | `github_search_assembly-a685ee58887c59` | pret/pokecrystal | [open](records/assembly-pret-pokecrystal-513db7cc.md) |
 | `github_search_assembly-a68a47f84d3465` | kovidomi/game-reversing | [open](records/assembly-kovidomi-game-reversing-eb71b6a8.md) |
+| `github_search_assembly-a82698f5fe24c3` | gboncoffee/egg | [open](records/assembly-gboncoffee-egg-63083ee5.md) |
 | `github_search_assembly-a9020ab5740834` | bluewaysw/pcgeos | [open](records/assembly-bluewaysw-pcgeos-aee787b1.md) |
 | `github_search_assembly-a9a9013966dc3c` | CodeMaxx/Binary-Exploitation | [open](records/assembly-codemaxx-binary-exploitation-42a09dd5.md) |
 | `github_search_assembly-aa343943fc4788` | donno2048/snake | [open](records/assembly-donno2048-snake-7b4fe8af.md) |
@@ -5661,9 +5675,11 @@
 | `github_search_assembly-acb0cb6d1fb1e3` | cheng-alvin/jas | [open](records/assembly-cheng-alvin-jas-3c7aa7a0.md) |
 | `github_search_assembly-aee362d29add47` | calculuswhiz/Assembly-Syntax-Definition | [open](records/assembly-calculuswhiz-assembly-syntax-definition-034acff7.md) |
 | `github_search_assembly-af5cd59fdd9bb8` | resilar/HotFinger | [open](records/assembly-resilar-hotfinger-a0e2596b.md) |
+| `github_search_assembly-b064794a286d6c` | jnk0le/cortexm-AES | [open](records/assembly-jnk0le-cortexm-aes-78225991.md) |
 | `github_search_assembly-b4002d8c1a8ccb` | nemasu/asmttpd | [open](records/assembly-nemasu-asmttpd-9a612693.md) |
 | `github_search_assembly-b5a548dd5b36af` | badamczewski/PowerUp | [open](records/assembly-badamczewski-powerup-798e7cfd.md) |
 | `github_search_assembly-b5edd05e1c556b` | barrettotte/qr-asm | [open](records/assembly-barrettotte-qr-asm-ee3d86c3.md) |
+| `github_search_assembly-b8629ab1ca5fda` | alibaba/fish-redux | [open](records/assembly-alibaba-fish-redux-f1b72d31.md) |
 | `github_search_assembly-b8acd699038636` | dethrace-labs/dethrace | [open](records/assembly-dethrace-labs-dethrace-0d609365.md) |
 | `github_search_assembly-b91c15075f0f5f` | robalb/x86-64-playground | [open](records/assembly-robalb-x86-64-playground-c440c3c0.md) |
 | `github_search_assembly-b9faa0483b98f4` | bytecode77/pe-union | [open](records/assembly-bytecode77-pe-union-295ee237.md) |
@@ -5692,6 +5708,7 @@
 | `github_search_assembly-cd8e99c9b254cb` | PluMGMK/vbesvga.drv | [open](records/assembly-plumgmk-vbesvga-drv-17dbec94.md) |
 | `github_search_assembly-cef7db768b432b` | abatchy17/SLAE | [open](records/assembly-abatchy17-slae-9f5ee474.md) |
 | `github_search_assembly-d0918eccf9da46` | sam-astro/Astro8-Computer | [open](records/assembly-sam-astro-astro8-computer-d279451b.md) |
+| `github_search_assembly-d0c534c2fab738` | moby/moby | [open](records/assembly-moby-moby-727c8e59.md) |
 | `github_search_assembly-d1b4ac878b7e80` | tijme/reverse-engineering | [open](records/assembly-tijme-reverse-engineering-0a520ecb.md) |
 | `github_search_assembly-d22862768cf48e` | niekiran/Embedded-C | [open](records/assembly-niekiran-embedded-c-9b420b87.md) |
 | `github_search_assembly-d2be7f4761d742` | grassator/mass | [open](records/assembly-grassator-mass-293a8da9.md) |
@@ -5712,7 +5729,9 @@
 | `github_search_assembly-e08e9768ec7c95` | coderick14/ARMed | [open](records/assembly-coderick14-armed-5eee1351.md) |
 | `github_search_assembly-e16ac739c86c8a` | jthuraisamy/SysWhispers | [open](records/assembly-jthuraisamy-syswhispers-6a63ec1e.md) |
 | `github_search_assembly-e5a53bd52962a1` | sim-/tgy | [open](records/assembly-sim-tgy-fbe11e77.md) |
+| `github_search_assembly-e6f5f54cdb71e6` | unicity-aos/capsule-identity | [open](records/assembly-unicity-aos-capsule-identity-70685d20.md) |
 | `github_search_assembly-e8c636c4e33ed3` | ashvardanian/less_slow.cpp | [open](records/assembly-ashvardanian-less-slow-cpp-50768d6c.md) |
+| `github_search_assembly-e9443419ecb0bb` | OpenMachine-ai/tinyfive | [open](records/assembly-openmachine-ai-tinyfive-d7147317.md) |
 | `github_search_assembly-e94b4e5cffb03c` | enkomio/sacara | [open](records/assembly-enkomio-sacara-11257b8d.md) |
 | `github_search_assembly-eb481738ae04c0` | carloslack/KoviD | [open](records/assembly-carloslack-kovid-05c9a038.md) |
 | `github_search_assembly-eb8d4a73060a89` | amindlost/pmodew | [open](records/assembly-amindlost-pmodew-9c388d8f.md) |
@@ -5720,6 +5739,7 @@
 | `github_search_assembly-ebefc4b2917423` | TravorLZH/TravorOS | [open](records/assembly-travorlzh-travoros-9961f938.md) |
 | `github_search_assembly-ee4bc4afb34b7f` | klauspost/reedsolomon | [open](records/assembly-klauspost-reedsolomon-2ebcc787.md) |
 | `github_search_assembly-ee730f8d8e7c60` | ReturnInfinity/BareMetal | [open](records/assembly-returninfinity-baremetal-0b151ed8.md) |
+| `github_search_assembly-ef326efe28744a` | celebi-pkg/riscv-assembler | [open](records/assembly-celebi-pkg-riscv-assembler-dfcf81bb.md) |
 | `github_search_assembly-efd4f7b5d1bd03` | RRZE-HPC/likwid | [open](records/assembly-rrze-hpc-likwid-da26554d.md) |
 | `github_search_assembly-f09839e91dd11b` | TienNHM/ebooks | [open](records/assembly-tiennhm-ebooks-37d5a6c9.md) |
 | `github_search_assembly-f2d37920c979a9` | kvakil/0asm | [open](records/assembly-kvakil-0asm-59cb7b1e.md) |
@@ -15784,6 +15804,7 @@
 | `hackage_recent-2e5eb175e39bb5` | peg-matching | [open](records/haskell-peg-matching-8b470238.md) |
 | `hackage_recent-2ea0355e73efdb` | keel-dyn | [open](records/haskell-keel-dyn-2d5e1e3a.md) |
 | `hackage_recent-30bbdc91959c46` | freckle-http | [open](records/haskell-freckle-http-ec27c9f6.md) |
+| `hackage_recent-3354ad07e85a7c` | Diff | [open](records/haskell-diff-226c8910.md) |
 | `hackage_recent-35beadab7001d5` | what4-domains | [open](records/haskell-what4-domains-20a280a8.md) |
 | `hackage_recent-36b9648f0bd994` | keel | [open](records/haskell-keel-dffc1816.md) |
 | `hackage_recent-36d21c9436a774` | quic-simple | [open](records/haskell-quic-simple-f198ea36.md) |
@@ -15795,6 +15816,7 @@
 | `hackage_recent-5c6c989abcb5c8` | typed-peg | [open](records/haskell-typed-peg-d0f69182.md) |
 | `hackage_recent-6179081120d6b4` | srtree-db | [open](records/haskell-srtree-db-c70023f5.md) |
 | `hackage_recent-62497183bd454a` | HMock | [open](records/haskell-hmock-98549601.md) |
+| `hackage_recent-665acdb3037336` | pure-cdt | [open](records/haskell-pure-cdt-0f524428.md) |
 | `hackage_recent-6a3519652d8827` | kioku-api | [open](records/haskell-kioku-api-ebf3c8b4.md) |
 | `hackage_recent-6f6d58eea7fc96` | hOpenPGP | [open](records/haskell-hopenpgp-dbd93565.md) |
 | `hackage_recent-70643b614e9981` | thread-utils-context | [open](records/haskell-thread-utils-context-4cff1f57.md) |
