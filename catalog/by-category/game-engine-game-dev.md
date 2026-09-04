@@ -1,6 +1,6 @@
 # Game Engine Game Dev
 
-Records: `338`
+Records: `344`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `338`
 
 ## Category Index
 
-[Api Abi Checker (210)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (189)](benchmarking.md) · [Build System (965)](build-system.md) · [Cli (551)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (211)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Benchmarking (190)](benchmarking.md) · [Build System (965)](build-system.md) · [Cli (551)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (115)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
-[Concurrency Parallelism (87)](concurrency-parallelism.md) · [Configuration (123)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (172)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (884)](database-datastore.md) · [Datetime (206)](datetime.md)
+[Concurrency Parallelism (87)](concurrency-parallelism.md) · [Configuration (124)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (172)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (884)](database-datastore.md) · [Datetime (209)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (437)](ffi-bindings.md) · [Filesystem Os (1508)](filesystem-os.md) · [Formatter (630)](formatter.md)
-[Framework (58)](framework.md) · [Fuzzer (56)](fuzzer.md) · **[Game Engine Game Dev (338)](game-engine-game-dev.md)** · [Ide Editor Integration (1406)](ide-editor-integration.md)
-[Image Audio Dsp (410)](image-audio-dsp.md) · [Interop Bindings (60)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
-[Language Server (28)](language-server.md) · [Language Specification (1414)](language-specification.md) · [Library (5427)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (513)](logging-observability.md) · [Machine Learning (719)](machine-learning.md)
-[Math Numeric Scientific (86)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1009)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (434)](package-manager.md) · [Parser Lexer Ast (1066)](parser-lexer-ast.md) · [Precommit Ci Quality (292)](precommit-ci-quality.md)
-[Profiler (86)](profiler.md) · [Project Scaffolding (131)](project-scaffolding.md) · [Registry Repository (132)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (438)](ffi-bindings.md) · [Filesystem Os (1513)](filesystem-os.md) · [Formatter (631)](formatter.md)
+[Framework (60)](framework.md) · [Fuzzer (57)](fuzzer.md) · **[Game Engine Game Dev (344)](game-engine-game-dev.md)** · [Ide Editor Integration (1406)](ide-editor-integration.md)
+[Image Audio Dsp (411)](image-audio-dsp.md) · [Interop Bindings (60)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
+[Language Server (28)](language-server.md) · [Language Specification (1415)](language-specification.md) · [Library (5455)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (513)](logging-observability.md) · [Machine Learning (726)](machine-learning.md)
+[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1010)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (434)](package-manager.md) · [Parser Lexer Ast (1067)](parser-lexer-ast.md) · [Precommit Ci Quality (292)](precommit-ci-quality.md)
+[Profiler (86)](profiler.md) · [Project Scaffolding (132)](project-scaffolding.md) · [Registry Repository (132)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (390)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (514)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (599)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (311)](type-checker.md)
-[Undefined Behavior Analyzer (1560)](undefined-behavior-analyzer.md) · [Utility Library (101)](utility-library.md) · [Visualization Gui (507)](visualization-gui.md) · [Web Framework (472)](web-framework.md)
+[Undefined Behavior Analyzer (1561)](undefined-behavior-analyzer.md) · [Utility Library (101)](utility-library.md) · [Visualization Gui (509)](visualization-gui.md) · [Web Framework (472)](web-framework.md)
 
 ## C++23
 
@@ -400,19 +400,25 @@ Records: `338`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | appleseedhq/appleseed | partial | 2026-06-11T07:46:01Z | [open](../records/effects-appleseedhq-appleseed-7150506a.md) |
-| creativelifeform/three-nebula | v13.0.0 | 2026-08-22T06:32:58Z | [open](../records/effects-creativelifeform-three-nebula-c054525f.md) |
+| creativelifeform/three-nebula | partial | 2026-09-03T05:05:25Z | [open](../records/effects-creativelifeform-three-nebula-c054525f.md) |
 | daniel-ilett/shaders-portal | partial | 2020-01-19T18:54:22Z | [open](../records/effects-daniel-ilett-shaders-portal-f6698878.md) |
-| flashhawk/spp.js | v1.1.0 | 2013-11-25T15:36:47Z | [open](../records/effects-flashhawk-spp-js-ce4e0a32.md) |
+| DarknessFX/Niagara_Study | partial | 2021-04-03T14:47:46Z | [open](../records/effects-darknessfx-niagara-study-5380d323.md) |
+| flashhawk/spp.js | partial | 2015-06-23T16:05:48Z | [open](../records/effects-flashhawk-spp-js-ce4e0a32.md) |
 | furkansarihan/enigine | partial | 2025-10-23T17:02:31Z | [open](../records/effects-furkansarihan-enigine-7fe9aa3f.md) |
 | galacean/engine-toolkit | partial | 2026-08-03T09:03:34Z | [open](../records/effects-galacean-engine-toolkit-b50ec288.md) |
 | gamedevserj/Godot-Shaders | partial | 2024-05-04T15:16:01Z | [open](../records/effects-gamedevserj-godot-shaders-f9881cf4.md) |
 | gamedevserj/Shader-Graph-Experiments | partial | 2022-06-05T18:34:23Z | [open](../records/effects-gamedevserj-shader-graph-experiments-a4d1d520.md) |
+| Gornhoth/Unity-Smoothed-Particle-Hydrodynamics | partial | 2022-07-05T17:48:09Z | [open](../records/effects-gornhoth-unity-smoothed-particle-hydrodynamics-c2442b14.md) |
 | haowg/GODOT-VFX-LIBRARY | partial | 2026-01-25T08:35:17Z | [open](../records/effects-haowg-godot-vfx-library-3e10d556.md) |
 | IRCSS/Geometry-Grass-Shader | partial | 2021-04-29T08:18:36Z | [open](../records/effects-ircss-geometry-grass-shader-63d80946.md) |
 | JatinChopra/Dissolve-Effect | partial | 2025-04-07T06:26:08Z | [open](../records/effects-jatinchopra-dissolve-effect-a70ec19c.md) |
 | Jman420/menrva | partial | 2021-01-25T16:17:13Z | [open](../records/effects-jman420-menrva-5940de2a.md) |
+| liaocheng/away3d-particles-system | partial | 2013-01-14T07:51:09Z | [open](../records/effects-liaocheng-away3d-particles-system-da2ee4bf.md) |
+| lukis101/ParticleCloudVRC | partial | 2019-01-13T21:12:36Z | [open](../records/effects-lukis101-particlecloudvrc-6bb9d7ce.md) |
+| mbrea-c/bevy_firework | partial | 2026-07-25T13:49:33Z | [open](../records/effects-mbrea-c-bevy-firework-d93f8895.md) |
 | Razakhel/RaZ | partial | 2026-08-09T20:35:24Z | [open](../records/effects-razakhel-raz-e81fb756.md) |
 | SUSTech-CANStudio/bullet-storm-unity | partial | 2021-04-21T18:51:00Z | [open](../records/effects-sustech-canstudio-bullet-storm-unity-6f9bf2e8.md) |
+| TheRensei/godot_spicyparticlesystem | partial | 2024-04-27T17:21:48Z | [open](../records/effects-therensei-godot-spicyparticlesystem-9cea651b.md) |
 | wass08/wawa-vfx | partial | 2025-09-23T03:54:16Z | [open](../records/effects-wass08-wawa-vfx-5db2d4d3.md) |
 | zenustech/zeno | partial | 2026-09-03T02:51:31Z | [open](../records/effects-zenustech-zeno-c40a1537.md) |
 

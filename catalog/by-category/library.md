@@ -1,6 +1,6 @@
 # Library
 
-Records: `5427`
+Records: `5455`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `5427`
 
 ## Category Index
 
-[Api Abi Checker (210)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (189)](benchmarking.md) · [Build System (965)](build-system.md) · [Cli (551)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (211)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Benchmarking (190)](benchmarking.md) · [Build System (965)](build-system.md) · [Cli (551)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (115)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
-[Concurrency Parallelism (87)](concurrency-parallelism.md) · [Configuration (123)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (172)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (884)](database-datastore.md) · [Datetime (206)](datetime.md)
+[Concurrency Parallelism (87)](concurrency-parallelism.md) · [Configuration (124)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (172)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (884)](database-datastore.md) · [Datetime (209)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (437)](ffi-bindings.md) · [Filesystem Os (1508)](filesystem-os.md) · [Formatter (630)](formatter.md)
-[Framework (58)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (338)](game-engine-game-dev.md) · [Ide Editor Integration (1406)](ide-editor-integration.md)
-[Image Audio Dsp (410)](image-audio-dsp.md) · [Interop Bindings (60)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
-[Language Server (28)](language-server.md) · [Language Specification (1414)](language-specification.md) · **[Library (5427)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (513)](logging-observability.md) · [Machine Learning (719)](machine-learning.md)
-[Math Numeric Scientific (86)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1009)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (434)](package-manager.md) · [Parser Lexer Ast (1066)](parser-lexer-ast.md) · [Precommit Ci Quality (292)](precommit-ci-quality.md)
-[Profiler (86)](profiler.md) · [Project Scaffolding (131)](project-scaffolding.md) · [Registry Repository (132)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (438)](ffi-bindings.md) · [Filesystem Os (1513)](filesystem-os.md) · [Formatter (631)](formatter.md)
+[Framework (60)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (344)](game-engine-game-dev.md) · [Ide Editor Integration (1406)](ide-editor-integration.md)
+[Image Audio Dsp (411)](image-audio-dsp.md) · [Interop Bindings (60)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
+[Language Server (28)](language-server.md) · [Language Specification (1415)](language-specification.md) · **[Library (5455)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (513)](logging-observability.md) · [Machine Learning (726)](machine-learning.md)
+[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1010)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (434)](package-manager.md) · [Parser Lexer Ast (1067)](parser-lexer-ast.md) · [Precommit Ci Quality (292)](precommit-ci-quality.md)
+[Profiler (86)](profiler.md) · [Project Scaffolding (132)](project-scaffolding.md) · [Registry Repository (132)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (390)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (514)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (599)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (311)](type-checker.md)
-[Undefined Behavior Analyzer (1560)](undefined-behavior-analyzer.md) · [Utility Library (101)](utility-library.md) · [Visualization Gui (507)](visualization-gui.md) · [Web Framework (472)](web-framework.md)
+[Undefined Behavior Analyzer (1561)](undefined-behavior-analyzer.md) · [Utility Library (101)](utility-library.md) · [Visualization Gui (509)](visualization-gui.md) · [Web Framework (472)](web-framework.md)
 
 ## C99
 
@@ -2617,7 +2617,7 @@ Records: `5427`
 | f1pits | 1.3.2 | 2026-08-24 18:10:02 UTC | [open](../records/r-f1pits-b8d3a939.md) |
 | Familia | 2.0.0 | 2026-08-24 15:50:11 UTC | [open](../records/r-familia-05e7de00.md) |
 | FBMS | 1.4 | 2026-08-25 21:50:09 UTC | [open](../records/r-fbms-13f6b6e2.md) |
-| fdm2id | 1.0.0 | 2026-08-28 07:01:00 UTC | [open](../records/r-fdm2id-96c427f1.md) |
+| fdm2id | 1.0.1 | 2026-09-04 15:50:02 UTC | [open](../records/r-fdm2id-96c427f1.md) |
 | fipp | 1.0.1 | 2026-08-04 13:20:02 UTC | [open](../records/r-fipp-d7a8c719.md) |
 | fitdistrBayes | 0.2.2 | 2026-08-29 17:50:02 UTC | [open](../records/r-fitdistrbayes-dff88bff.md) |
 | fitODBOD | 1.5.6 | 2026-08-23 15:10:02 UTC | [open](../records/r-fitodbod-aadd7dcd.md) |
@@ -2749,6 +2749,7 @@ Records: `5427`
 | mellio | 1.1.0 | 2026-08-29 20:40:02 UTC | [open](../records/r-mellio-cc9fd6ad.md) |
 | melodi | 1.1.2 | 2026-08-28 16:50:02 UTC | [open](../records/r-melodi-efc8949c.md) |
 | MEMWAS | 0.9.5 | 2026-08-22 15:40:02 UTC | [open](../records/r-memwas-ee3f5b16.md) |
+| MergeKmeans | 0.3.0 | 2026-09-04 15:50:13 UTC | [open](../records/r-mergekmeans-03d98fb5.md) |
 | metabodeconplus | 0.22.0 | 2026-08-09 07:30:08 UTC | [open](../records/r-metabodeconplus-fa0d99c0.md) |
 | metaselection | 0.3.0 | 2026-08-31 14:10:02 UTC | [open](../records/r-metaselection-253eae2d.md) |
 | mggd | 1.3.7 | 2026-08-25 09:50:07 UTC | [open](../records/r-mggd-d05a8404.md) |
@@ -3120,6 +3121,9 @@ Records: `5427`
 | brick | 2.13 | 2026-08-11T17:37:58Z | [open](../records/haskell-brick-c4f2e317.md) |
 | brittany | 0.14.0.2 | 2022-01-13T14:45:22Z | [open](../records/haskell-brittany-98f0dfd2.md) |
 | bson | 0.4.0.1 | 2020-03-23T04:35:32Z | [open](../records/haskell-bson-4493f8c6.md) |
+| bugsnag | 1.2.0.4 | 2026-09-04T16:16:13Z | [open](../records/haskell-bugsnag-279ae229.md) |
+| bugsnag-types | 1.1.0.0 | 2026-09-04T16:17:16Z | [open](../records/haskell-bugsnag-types-dca970ca.md) |
+| bugsnag-yesod | 1.0.1.3 | 2026-09-04T16:19:05Z | [open](../records/haskell-bugsnag-yesod-b94b89ea.md) |
 | burrito | 2.0.1.17 | 2026-05-22T14:54:21Z | [open](../records/haskell-burrito-8d6df455.md) |
 | butcher | 1.3.3.2 | 2020-06-10T20:03:13Z | [open](../records/haskell-butcher-ceb9004a.md) |
 | bytes | 0.17.5 | 2026-01-10T15:48:41Z | [open](../records/haskell-bytes-8cec052e.md) |
@@ -3805,7 +3809,7 @@ Records: `5427`
 | synthesizer-core | 0.9.0.1 | 2026-07-09T14:51:24Z | [open](../records/haskell-synthesizer-core-892f4041.md) |
 | system-fileio | 0.3.16.7 | 2025-05-14T09:13:23Z | [open](../records/haskell-system-fileio-17a471dc.md) |
 | table-layout | 1.0.0.2 | 2025-05-18T13:53:50Z | [open](../records/haskell-table-layout-976bcbcc.md) |
-| taffybar | 7.3.0 | 2026-08-27T21:15:46Z | [open](../records/haskell-taffybar-a815d4bc.md) |
+| taffybar | 7.3.1 | 2026-09-04T15:54:34Z | [open](../records/haskell-taffybar-a815d4bc.md) |
 | tagged | 0.8.10 | 2025-12-08T00:55:42Z | [open](../records/haskell-tagged-7a3ae623.md) |
 | tagsoup | 0.14.8 | 2019-05-01T19:45:41Z | [open](../records/haskell-tagsoup-2c416a3f.md) |
 | tar | 0.7.2.0 | 2026-07-15T23:37:24Z | [open](../records/haskell-tar-bd80c421.md) |
@@ -3845,6 +3849,7 @@ Records: `5427`
 | type-unary | 0.3.2 | 2018-04-21T02:12:27Z | [open](../records/haskell-type-unary-0d99f93a.md) |
 | typed-peg | 0.1.0.0 | 2026-09-01T18:29:21Z | [open](../records/haskell-typed-peg-d0f69182.md) |
 | typed-process | 0.2.13.0 | 2025-04-12T12:28:58Z | [open](../records/haskell-typed-process-6bf3e065.md) |
+| typed-process-effectful | 1.0.0.5 | 2026-09-04T15:36:10Z | [open](../records/haskell-typed-process-effectful-bf332356.md) |
 | typst | 0.11.0.1 | 2026-08-28T05:47:12Z | [open](../records/haskell-typst-37aa0970.md) |
 | tzdata | 0.2.20260708.0 | 2026-07-10T02:09:17Z | [open](../records/haskell-tzdata-f696ebce.md) |
 | uhc-light | 1.1.10.0 | 2018-01-01T22:30:42Z | [open](../records/haskell-uhc-light-ec0e48ce.md) |
@@ -3910,6 +3915,7 @@ Records: `5427`
 | x509 | 1.7.7 | 2022-05-31T03:00:43Z | [open](../records/haskell-x509-aa931896.md) |
 | x509-store | 1.6.9 | 2022-01-18T04:06:41Z | [open](../records/haskell-x509-store-9276af08.md) |
 | x509-validation | 1.6.12 | 2022-01-17T07:57:12Z | [open](../records/haskell-x509-validation-d4a8eaaa.md) |
+| xdg-desktop-entry | 0.1.1.6 | 2026-09-04T15:54:20Z | [open](../records/haskell-xdg-desktop-entry-67d26242.md) |
 | xlsx | 1.3.0 | 2026-07-25T17:46:12Z | [open](../records/haskell-xlsx-715e4479.md) |
 | xmobar | 0.51.1 | 2026-06-27T21:14:53Z | [open](../records/haskell-xmobar-7a7ba673.md) |
 | xss-sanitize | 0.3.7.2 | 2023-04-01T17:04:24Z | [open](../records/haskell-xss-sanitize-5ba12e30.md) |
@@ -4158,7 +4164,7 @@ Records: `5427`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-04T15:17:45Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-04T16:17:38Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4725,10 +4731,13 @@ Records: `5427`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| 3c0tr/LitWithParticles | partial | 2025-12-18T02:27:51Z | [open](../records/effects-3c0tr-litwithparticles-4e7b0fd5.md) |
 | AcademySoftwareFoundation/OpenCue | partial | 2026-09-03T17:19:00Z | [open](../records/effects-academysoftwarefoundation-opencue-4ae373a6.md) |
-| akof1314/UnityParticleSystemPreview | v1.3 | 2025-02-21T13:45:24Z | [open](../records/effects-akof1314-unityparticlesystempreview-89de2d88.md) |
+| akof1314/UnityParticleSystemPreview | partial | 2025-02-19T13:20:39Z | [open](../records/effects-akof1314-unityparticlesystempreview-89de2d88.md) |
 | alexadam/glitch-studio | partial | 2020-07-04T12:35:23Z | [open](../records/effects-alexadam-glitch-studio-242af220.md) |
 | alexnikop/VFEZ-godot | partial | 2025-03-22T10:05:57Z | [open](../records/effects-alexnikop-vfez-godot-37aa177c.md) |
+| antoinefournier/XParticle | partial | 2015-01-11T21:29:04Z | [open](../records/effects-antoinefournier-xparticle-83465150.md) |
+| aTool-org/canvas-nest-for-wp | partial | 2019-08-14T12:12:34Z | [open](../records/effects-atool-org-canvas-nest-for-wp-256e5c1c.md) |
 | BoyBaykiller/Newtonian-Particle-Simulator | partial | 2024-12-20T03:42:26Z | [open](../records/effects-boybaykiller-newtonian-particle-simulator-20622350.md) |
 | CGRU/cgru | partial | 2026-09-01T18:16:10Z | [open](../records/effects-cgru-cgru-8bbfaaf5.md) |
 | cgwire/kitsu | partial | 2026-09-03T14:53:18Z | [open](../records/effects-cgwire-kitsu-2e008acc.md) |
@@ -4737,6 +4746,8 @@ Records: `5427`
 | Cyanilux/URP_WatercolourShaders | partial | 2020-10-28T10:41:44Z | [open](../records/effects-cyanilux-urp-watercolourshaders-9a735971.md) |
 | DanielMartinus/Konfetti | partial | 2025-08-21T10:03:22Z | [open](../records/effects-danielmartinus-konfetti-128a0f7b.md) |
 | danielshervheim/unity-stylized-water | partial | 2021-03-17T04:49:11Z | [open](../records/effects-danielshervheim-unity-stylized-water-31cecbdc.md) |
+| DanielSnd/UniParticles3D | partial | 2025-12-06T19:51:27Z | [open](../records/effects-danielsnd-uniparticles3d-a7269f57.md) |
+| dbriemann/libpartikel | partial | 2024-11-11T19:01:23Z | [open](../records/effects-dbriemann-libpartikel-9230ddf7.md) |
 | diharaw/gpu-particle-system | partial | 2020-08-09T22:53:47Z | [open](../records/effects-diharaw-gpu-particle-system-ec5cdc62.md) |
 | dilmerv/UnityVFXEssentials | partial | 2023-04-25T17:54:21Z | [open](../records/effects-dilmerv-unityvfxessentials-8c0d4f5a.md) |
 | dilmerv/UnityVFXMillionsOfParticles | partial | 2023-04-25T17:51:11Z | [open](../records/effects-dilmerv-unityvfxmillionsofparticles-5cbdb921.md) |
@@ -4745,28 +4756,34 @@ Records: `5427`
 | dreamworksanimation/usdmanager | partial | 2026-08-28T16:11:47Z | [open](../records/effects-dreamworksanimation-usdmanager-40860b28.md) |
 | elringus/sprite-glow | partial | 2025-10-15T21:44:14Z | [open](../records/effects-elringus-sprite-glow-b7a43be9.md) |
 | End3r6/URPUnderwaterEffects | partial | 2024-06-20T05:33:51Z | [open](../records/effects-end3r6-urpunderwatereffects-e6c7ce42.md) |
+| enjalot/EnjaParticles | partial | 2011-09-14T18:34:59Z | [open](../records/effects-enjalot-enjaparticles-a6f6d436.md) |
+| ethanhjennings/webgl-fire-particles | partial | 2022-08-09T04:30:11Z | [open](../records/effects-ethanhjennings-webgl-fire-particles-9f43c80a.md) |
 | fand/vfx-js | partial | 2026-08-11T22:45:13Z | [open](../records/effects-fand-vfx-js-267d1f85.md) |
-| fearofcode/bateman | unknown | github_latest_release_missing | [open](../records/effects-fearofcode-bateman-03c24113.md) |
+| fearofcode/bateman | partial | 2014-05-12T03:19:06Z | [open](../records/effects-fearofcode-bateman-03c24113.md) |
+| FlexMonkey/ParticleCam | partial | 2019-02-15T15:49:32Z | [open](../records/effects-flexmonkey-particlecam-751034c0.md) |
 | GabrielSCabrera/nBody | partial | 2024-03-31T14:11:02Z | [open](../records/effects-gabrielscabrera-nbody-387acb4c.md) |
+| GarrettGunnell/Iterated-Function-Systems | partial | 2024-11-30T14:42:06Z | [open](../records/effects-garrettgunnell-iterated-function-systems-ae1c6e05.md) |
 | ggarra13/mrv2 | partial | 2026-09-03T17:44:05Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |
 | glotzerlab/hoomd-blue | partial | 2026-09-02T10:33:09Z | [open](../records/effects-glotzerlab-hoomd-blue-5217e991.md) |
 | glotzerlab/hoomd-examples | partial | 2026-08-31T13:19:32Z | [open](../records/effects-glotzerlab-hoomd-examples-8b82445a.md) |
 | henriquelalves/SimpleGodotCRTShader | partial | 2024-09-02T21:57:23Z | [open](../records/effects-henriquelalves-simplegodotcrtshader-0feadcb8.md) |
 | Humprt/particula | partial | 2025-04-13T09:22:08Z | [open](../records/effects-humprt-particula-c6b87b55.md) |
-| hustcc/canvas-nest.js | v2.0.1 | 2018-06-23T04:31:11Z | [open](../records/effects-hustcc-canvas-nest-js-cee46f46.md) |
+| hustcc/canvas-nest.js | partial | 2025-05-08T04:45:49Z | [open](../records/effects-hustcc-canvas-nest-js-cee46f46.md) |
+| igradeca/Unity-Shaders | partial | 2018-12-13T14:23:23Z | [open](../records/effects-igradeca-unity-shaders-c22cd13a.md) |
 | inoook/EffectShader | partial | 2015-08-16T15:28:33Z | [open](../records/effects-inoook-effectshader-4817eeb0.md) |
 | james7132/bevy_prototype_particles | partial | 2021-12-27T02:16:38Z | [open](../records/effects-james7132-bevy-prototype-particles-a0942f0f.md) |
 | jinatonic/confetti | partial | 2020-08-31T16:49:07Z | [open](../records/effects-jinatonic-confetti-c85518f9.md) |
-| jnicol/particleground | unknown | github_latest_release_missing | [open](../records/effects-jnicol-particleground-b8d4252a.md) |
-| jsoverson/JavaScript-Particle-System | unknown | github_latest_release_missing | [open](../records/effects-jsoverson-javascript-particle-system-9598c75e.md) |
+| jnicol/particleground | partial | 2020-01-29T04:33:31Z | [open](../records/effects-jnicol-particleground-b8d4252a.md) |
+| jsoverson/JavaScript-Particle-System | partial | 2014-01-28T16:33:53Z | [open](../records/effects-jsoverson-javascript-particle-system-9598c75e.md) |
 | justinfx/fileseq | partial | 2026-08-25T20:08:58Z | [open](../records/effects-justinfx-fileseq-897ac71e.md) |
+| kamindustries/Dust | partial | 2019-03-29T06:44:54Z | [open](../records/effects-kamindustries-dust-55e53118.md) |
 | keijiro/Akvfx | partial | 2021-03-11T01:27:56Z | [open](../records/effects-keijiro-akvfx-c5cba3cb.md) |
 | keijiro/Akvj | partial | 2020-11-20T03:30:45Z | [open](../records/effects-keijiro-akvj-4be67964.md) |
 | keijiro/Dkvfx | partial | 2021-06-24T20:38:43Z | [open](../records/effects-keijiro-dkvfx-b25cb49c.md) |
 | keijiro/HdrpVatExample | partial | 2021-12-15T22:34:27Z | [open](../records/effects-keijiro-hdrpvatexample-18f3383c.md) |
 | keijiro/Isaura | partial | 2018-03-25T09:14:10Z | [open](../records/effects-keijiro-isaura-86de093d.md) |
 | keijiro/KinoContour | partial | 2018-10-30T02:15:15Z | [open](../records/effects-keijiro-kinocontour-0897e135.md) |
-| keijiro/KvantStream | unknown | github_latest_release_missing | [open](../records/effects-keijiro-kvantstream-4c4847ec.md) |
+| keijiro/KvantStream | partial | 2018-12-10T10:25:32Z | [open](../records/effects-keijiro-kvantstream-4c4847ec.md) |
 | keijiro/PcxEffects3 | partial | 2020-08-14T02:38:10Z | [open](../records/effects-keijiro-pcxeffects3-2966e3b2.md) |
 | keijiro/ProcCharVfx | partial | 2022-01-08T02:21:37Z | [open](../records/effects-keijiro-proccharvfx-7f36c4f0.md) |
 | keijiro/Rsvfx | partial | 2021-12-20T22:02:14Z | [open](../records/effects-keijiro-rsvfx-74b4792e.md) |
@@ -4775,34 +4792,45 @@ Records: `5427`
 | keijiro/Smrvfx | partial | 2022-10-12T02:43:26Z | [open](../records/effects-keijiro-smrvfx-2e4ac59c.md) |
 | keijiro/VfxMinisExamples | partial | 2025-05-19T08:12:33Z | [open](../records/effects-keijiro-vfxminisexamples-4d4ec3dc.md) |
 | keijiro/VfxPyro | partial | 2020-10-22T16:21:02Z | [open](../records/effects-keijiro-vfxpyro-726c4673.md) |
+| leerichard42/WebGL-Unified-Particle-System | partial | 2016-12-18T06:12:39Z | [open](../records/effects-leerichard42-webgl-unified-particle-system-fd54316b.md) |
 | lferreira457/threejs-psx-shader | partial | 2026-07-18T00:40:34Z | [open](../records/effects-lferreira457-threejs-psx-shader-02d6679e.md) |
 | lukakldiashvili/URP-Transparent-Distortion-Example | partial | 2023-04-09T12:02:19Z | [open](../records/effects-lukakldiashvili-urp-transparent-distortion-example-16952f3a.md) |
+| mattatz/unity-photo-particle-system | partial | 2016-10-06T12:03:35Z | [open](../records/effects-mattatz-unity-photo-particle-system-b5f50e1b.md) |
 | MatthewSRC/native-springs-shaders | partial | 2026-05-31T16:04:21Z | [open](../records/effects-matthewsrc-native-springs-shaders-ae91911b.md) |
 | miickel/flutter_particle_clock | partial | 2023-03-19T15:48:27Z | [open](../records/effects-miickel-flutter-particle-clock-00b2a89b.md) |
 | mvilledieu/shadertoy-react | partial | 2023-03-07T00:26:39Z | [open](../records/effects-mvilledieu-shadertoy-react-ce4d2733.md) |
 | MysteryPancake/Houdini-Fun | partial | 2026-09-02T07:17:09Z | [open](../records/effects-mysterypancake-houdini-fun-2e70635d.md) |
+| nanndoj/react-native-particles | partial | 2023-01-25T20:46:04Z | [open](../records/effects-nanndoj-react-native-particles-f96caf6b.md) |
 | nolangz/3D-Chladni | partial | 2026-07-18T11:40:22Z | [open](../records/effects-nolangz-3d-chladni-45d7a880.md) |
 | ntsc-rs/ntsc-rs | partial | 2026-08-01T23:20:07Z | [open](../records/effects-ntsc-rs-ntsc-rs-7ace46da.md) |
 | numberwolf/FFmpeg-PlusPlus | partial | 2026-03-11T05:58:57Z | [open](../records/effects-numberwolf-ffmpeg-plusplus-3bc7c46d.md) |
 | OYsun/AE-Element | partial | 2019-03-28T08:23:57Z | [open](../records/effects-oysun-ae-element-e496f20a.md) |
-| pixijs-userland/particle-emitter | v5.0.8 | 2022-11-28T04:04:45Z | [open](../records/effects-pixijs-userland-particle-emitter-b76be455.md) |
+| pixijs-userland/particle-emitter | partial | 2026-01-09T04:44:16Z | [open](../records/effects-pixijs-userland-particle-emitter-b76be455.md) |
+| pwambach/threejs-particle-shader | partial | 2016-02-25T22:06:32Z | [open](../records/effects-pwambach-threejs-particle-shader-4e1a29c3.md) |
+| rajabala/Volumetric-Particles-For-Unity | partial | 2015-04-29T16:47:48Z | [open](../records/effects-rajabala-volumetric-particles-for-unity-f88ab4cc.md) |
 | Raphael2048/GodotCanvasEffects | partial | 2019-07-08T09:00:08Z | [open](../records/effects-raphael2048-godotcanvaseffects-43f52b01.md) |
 | right2sky/UnityChanToonShaderVer2_EmissiveScroll | partial | 2024-10-29T02:01:44Z | [open](../records/effects-right2sky-unitychantoonshaderver2-emissivescroll-988f13d8.md) |
 | rmnkhr/shaderbox | partial | 2025-03-20T17:56:27Z | [open](../records/effects-rmnkhr-shaderbox-3822465c.md) |
 | Robert-K/gpu-particles | partial | 2018-11-07T18:28:22Z | [open](../records/effects-robert-k-gpu-particles-76cd9f4d.md) |
+| RonenNess/partykals | partial | 2021-03-25T20:37:01Z | [open](../records/effects-ronenness-partykals-ff9eafc1.md) |
+| roujiawen/soie | partial | 2020-07-12T12:14:22Z | [open](../records/effects-roujiawen-soie-602cdeb4.md) |
+| rygorous/momentous | partial | 2013-12-24T11:05:51Z | [open](../records/effects-rygorous-momentous-5a59483b.md) |
 | Schneegans/Burn-My-Windows | partial | 2026-03-15T19:31:20Z | [open](../records/effects-schneegans-burn-my-windows-b353584f.md) |
 | setchi/Unity-Effects | partial | 2017-12-30T11:27:43Z | [open](../records/effects-setchi-unity-effects-cd6f53d4.md) |
 | setchi/Unity-ShaderSketches | partial | 2019-10-31T15:57:41Z | [open](../records/effects-setchi-unity-shadersketches-dbf34dff.md) |
 | Shealynntate/Pixel-Burn-Effect | partial | 2024-02-17T19:07:14Z | [open](../records/effects-shealynntate-pixel-burn-effect-7ea1fa5b.md) |
-| skeeto/webgl-particles | unknown | github_latest_release_missing | [open](../records/effects-skeeto-webgl-particles-2b9dfa02.md) |
+| skeeto/webgl-particles | partial | 2017-05-05T01:10:01Z | [open](../records/effects-skeeto-webgl-particles-2b9dfa02.md) |
+| slipster216/OffScreenParticleRendering | partial | 2021-09-17T15:56:42Z | [open](../records/effects-slipster216-offscreenparticlerendering-b3408580.md) |
+| sunty2016/DroidParticle | partial | 2016-06-25T05:05:20Z | [open](../records/effects-sunty2016-droidparticle-9d96f77a.md) |
+| supermedium/aframe-particleplayer-component | partial | 2024-01-22T19:47:50Z | [open](../records/effects-supermedium-aframe-particleplayer-component-30b4b7ff.md) |
 | tapeQz/Shine | partial | 2026-06-09T15:02:52Z | [open](../records/effects-tapeqz-shine-1178023f.md) |
 | Teragam/JFXShader | partial | 2026-03-22T17:44:20Z | [open](../records/effects-teragam-jfxshader-5c03bb3c.md) |
 | TheSalts/Text_Effects | partial | 2026-06-06T01:22:29Z | [open](../records/effects-thesalts-text-effects-565e3f1f.md) |
 | tom-mohr/particle-life-app | partial | 2025-12-13T19:37:02Z | [open](../records/effects-tom-mohr-particle-life-app-f8f211cd.md) |
-| uzkbwza/BurstParticles2D | unknown | github_latest_release_missing | [open](../records/effects-uzkbwza-burstparticles2d-c1a8a7f4.md) |
+| uzkbwza/BurstParticles2D | partial | 2024-06-17T23:58:25Z | [open](../records/effects-uzkbwza-burstparticles2d-c1a8a7f4.md) |
 | yiliansource/party-js | partial | 2025-09-08T15:23:15Z | [open](../records/effects-yiliansource-party-js-532e4ff4.md) |
 | ynput/OpenPype | partial | 2024-09-18T03:28:06Z | [open](../records/effects-ynput-openpype-aa8be986.md) |
-| zhuohan123/macaron-net | unknown | github_latest_release_missing | [open](../records/effects-zhuohan123-macaron-net-c3679568.md) |
+| zhuohan123/macaron-net | partial | 2019-06-10T09:05:34Z | [open](../records/effects-zhuohan123-macaron-net-c3679568.md) |
 
 ## Audio
 
@@ -4925,7 +4953,7 @@ Records: `5427`
 | LuckSiege/PictureSelector | partial | 2024-05-11T03:14:44Z | [open](../records/photography-lucksiege-pictureselector-42cc3cef.md) |
 | lyckantropen/moonlight_hdr_launcher | partial | 2024-06-29T10:42:48Z | [open](../records/photography-lyckantropen-moonlight-hdr-launcher-a7997341.md) |
 | McNopper/EGL | partial | 2026-08-01T18:15:48Z | [open](../records/photography-mcnopper-egl-83a16f1c.md) |
-| meetqy/rao-pics | partial | 2026-09-03T19:53:59Z | [open](../records/photography-meetqy-rao-pics-057514e9.md) |
+| meetqy/rao-pics | partial | 2026-09-04T15:35:26Z | [open](../records/photography-meetqy-rao-pics-057514e9.md) |
 | meiu/meiupic | partial | 2021-07-07T16:28:33Z | [open](../records/photography-meiu-meiupic-d61ca921.md) |
 | motioneye-project/motioneye | partial | 2026-09-03T18:51:43Z | [open](../records/photography-motioneye-project-motioneye-6759b14c.md) |
 | mustakshif/Asri | partial | 2026-08-30T13:45:17Z | [open](../records/photography-mustakshif-asri-d6fbc7e4.md) |
@@ -4951,7 +4979,7 @@ Records: `5427`
 | t3mujinpack/t3mujinpack | partial | 2025-04-02T17:19:29Z | [open](../records/photography-t3mujinpack-t3mujinpack-05d88258.md) |
 | TheCrypt0/yi-hack-v4 | partial | 2021-04-16T13:12:08Z | [open](../records/photography-thecrypt0-yi-hack-v4-0c4f21cf.md) |
 | tj/letterbox | partial | 2023-03-07T02:21:23Z | [open](../records/photography-tj-letterbox-4bff8695.md) |
-| toonoumi/FreeCCR | partial | 2026-09-03T19:59:14Z | [open](../records/photography-toonoumi-freeccr-c64ca022.md) |
+| toonoumi/FreeCCR | partial | 2026-09-04T15:36:02Z | [open](../records/photography-toonoumi-freeccr-c64ca022.md) |
 | trimmer-io/go-xmp | partial | 2021-11-04T18:27:44Z | [open](../records/photography-trimmer-io-go-xmp-9ead3a5c.md) |
 | WangShuo1143368701/WSLiveDemo | partial | 2022-04-04T06:24:43Z | [open](../records/photography-wangshuo1143368701-wslivedemo-b17eb18b.md) |
 | yanzhenjie/Album | partial | 2022-08-25T21:09:56Z | [open](../records/photography-yanzhenjie-album-0ebba730.md) |
@@ -4985,7 +5013,7 @@ Records: `5427`
 | acconeer/acconeer-python-exploration | partial | 2026-08-10T14:18:17Z | [open](../records/radars-acconeer-acconeer-python-exploration-c570151f.md) |
 | bopen/xarray-sentinel | partial | 2026-08-26T14:14:32Z | [open](../records/radars-bopen-xarray-sentinel-d49585c9.md) |
 | dpaulat/supercell-wx | partial | 2026-09-01T22:58:49Z | [open](../records/radars-dpaulat-supercell-wx-216e49cf.md) |
-| earthobservations/wetterdienst | partial | 2026-09-04T09:32:58Z | [open](../records/radars-earthobservations-wetterdienst-4494a41f.md) |
+| earthobservations/wetterdienst | partial | 2026-09-04T16:20:36Z | [open](../records/radars-earthobservations-wetterdienst-4494a41f.md) |
 | erikliland/pyMHT | partial | 2023-09-19T11:10:15Z | [open](../records/radars-erikliland-pymht-6bcd5586.md) |
 | ethanhuang13/ladybug | partial | 2019-12-26T07:04:26Z | [open](../records/radars-ethanhuang13-ladybug-9ff29291.md) |
 | feedback-assistant/reports | partial | 2025-11-07T04:38:18Z | [open](../records/radars-feedback-assistant-reports-4bc463b2.md) |
