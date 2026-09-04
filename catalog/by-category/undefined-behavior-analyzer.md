@@ -1,6 +1,6 @@
 # Undefined Behavior Analyzer
 
-Records: `1510`
+Records: `1513`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `1510`
 
 ## Category Index
 
-[Api Abi Checker (205)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
-[Benchmarking (166)](benchmarking.md) · [Build System (920)](build-system.md) · [Cli (540)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (101)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
+[Api Abi Checker (206)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
+[Benchmarking (166)](benchmarking.md) · [Build System (920)](build-system.md) · [Cli (541)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (101)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
 [Concurrency Parallelism (80)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (837)](database-datastore.md) · [Datetime (187)](datetime.md)
+[Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (837)](database-datastore.md) · [Datetime (189)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (98)](documentation.md)
-[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (409)](ffi-bindings.md) · [Filesystem Os (1408)](filesystem-os.md) · [Formatter (614)](formatter.md)
-[Framework (55)](framework.md) · [Fuzzer (55)](fuzzer.md) · [Game Engine Game Dev (173)](game-engine-game-dev.md) · [Ide Editor Integration (1334)](ide-editor-integration.md)
-[Image Audio Dsp (391)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (253)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1382)](language-specification.md) · [Library (5301)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (484)](logging-observability.md) · [Machine Learning (665)](machine-learning.md)
-[Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (973)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (420)](package-manager.md) · [Parser Lexer Ast (1024)](parser-lexer-ast.md) · [Precommit Ci Quality (283)](precommit-ci-quality.md)
+[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (411)](ffi-bindings.md) · [Filesystem Os (1411)](filesystem-os.md) · [Formatter (615)](formatter.md)
+[Framework (55)](framework.md) · [Fuzzer (55)](fuzzer.md) · [Game Engine Game Dev (173)](game-engine-game-dev.md) · [Ide Editor Integration (1337)](ide-editor-integration.md)
+[Image Audio Dsp (398)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (254)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1388)](language-specification.md) · [Library (5308)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (486)](logging-observability.md) · [Machine Learning (672)](machine-learning.md)
+[Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (977)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (421)](package-manager.md) · [Parser Lexer Ast (1029)](parser-lexer-ast.md) · [Precommit Ci Quality (284)](precommit-ci-quality.md)
 [Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (333)](security-sast.md) · [Serialization (383)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (498)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (522)](testing-framework.md) · [Tutorial Book Styleguide (57)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
-**[Undefined Behavior Analyzer (1510)](undefined-behavior-analyzer.md)** · [Utility Library (95)](utility-library.md) · [Visualization Gui (476)](visualization-gui.md) · [Web Framework (454)](web-framework.md)
+[Security Sast (333)](security-sast.md) · [Serialization (383)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (500)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (522)](testing-framework.md) · [Tutorial Book Styleguide (58)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
+**[Undefined Behavior Analyzer (1513)](undefined-behavior-analyzer.md)** · [Utility Library (95)](utility-library.md) · [Visualization Gui (477)](visualization-gui.md) · [Web Framework (454)](web-framework.md)
 
 ## C++23
 
@@ -404,7 +404,7 @@ Records: `1510`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bluenviron/mediamtx | partial | 2026-09-03T19:11:12Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
+| bluenviron/mediamtx | partial | 2026-09-04T05:02:34Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
 | dariubs/GoBooks | partial | 2026-07-13T16:08:02Z | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
 | eryajf/learning-weekly | partial | 2026-08-27T15:27:30Z | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
 | github.com/01org/isa-l | v2.22.0+incompatible | 2026-08-30T14:09:32.299469Z | [open](../records/go-github-com-01org-isa-l-8ef09eb2.md) |
@@ -1325,17 +1325,20 @@ Records: `1510`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | arirusso/unimidi | partial | 2022-02-18T02:46:58Z | [open](../records/audio-arirusso-unimidi-1aedd0b9.md) |
-| Audio-WestlakeU/FullSubNet | v0.2 | 2021-01-16T00:14:39Z | [open](../records/audio-audio-westlakeu-fullsubnet-8d1a3912.md) |
+| Audio-WestlakeU/FullSubNet | partial | 2023-08-19T07:01:09Z | [open](../records/audio-audio-westlakeu-fullsubnet-8d1a3912.md) |
 | BillyDM/awesome-audio-dsp | partial | 2026-08-20T03:10:10Z | [open](../records/audio-billydm-awesome-audio-dsp-9de4f1f5.md) |
 | cmajor-lang/cmajor | partial | 2026-09-03T19:38:01Z | [open](../records/audio-cmajor-lang-cmajor-af97db28.md) |
 | cookpete/react-player | partial | 2025-11-13T19:27:44Z | [open](../records/audio-cookpete-react-player-8f26c2ab.md) |
 | doublesymmetry/react-native-track-player | partial | 2026-07-31T14:13:12Z | [open](../records/audio-doublesymmetry-react-native-track-player-d7f6ed50.md) |
-| HenryNdubuaku/maths-cs-ai-compendium | unknown | github_latest_release_missing | [open](../records/audio-henryndubuaku-maths-cs-ai-compendium-5e56d9ea.md) |
+| gionanide/Speech_Signal_Processing_and_Classification | partial | 2023-03-03T22:25:31Z | [open](../records/audio-gionanide-speech-signal-processing-and-classification-693ef0eb.md) |
+| haoheliu/torchsubband | partial | 2022-07-26T11:26:27Z | [open](../records/audio-haoheliu-torchsubband-6b97f7f6.md) |
+| HenryNdubuaku/maths-cs-ai-compendium | partial | 2026-07-18T22:19:35Z | [open](../records/audio-henryndubuaku-maths-cs-ai-compendium-5e56d9ea.md) |
 | smacke/ffsubsync | partial | 2026-07-24T04:53:31Z | [open](../records/audio-smacke-ffsubsync-b24be197.md) |
 | subalterngames/cacophony | partial | 2024-12-10T15:50:05Z | [open](../records/audio-subalterngames-cacophony-9f052029.md) |
 | Uberi/speech_recognition | partial | 2026-09-02T00:04:17Z | [open](../records/audio-uberi-speech-recognition-3fa6a128.md) |
 | VASTDynamics/Vaporizer2 | partial | 2024-09-14T15:20:53Z | [open](../records/audio-vastdynamics-vaporizer2-569707f6.md) |
 | vime-js/vime | partial | 2024-11-17T10:34:11Z | [open](../records/audio-vime-js-vime-2846352d.md) |
+| vipchengrui/traditional-speech-enhancement | partial | 2019-11-29T03:50:26Z | [open](../records/audio-vipchengrui-traditional-speech-enhancement-cd017dca.md) |
 | zynaddsubfx/zynaddsubfx | partial | 2026-07-26T20:57:46Z | [open](../records/audio-zynaddsubfx-zynaddsubfx-a0495cd0.md) |
 
 ## Video

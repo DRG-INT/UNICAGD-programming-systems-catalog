@@ -1,6 +1,6 @@
 # Filesystem Os
 
-Records: `1408`
+Records: `1411`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `1408`
 
 ## Category Index
 
-[Api Abi Checker (205)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
-[Benchmarking (166)](benchmarking.md) · [Build System (920)](build-system.md) · [Cli (540)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (101)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
+[Api Abi Checker (206)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
+[Benchmarking (166)](benchmarking.md) · [Build System (920)](build-system.md) · [Cli (541)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (101)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
 [Concurrency Parallelism (80)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (837)](database-datastore.md) · [Datetime (187)](datetime.md)
+[Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (837)](database-datastore.md) · [Datetime (189)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (98)](documentation.md)
-[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (409)](ffi-bindings.md) · **[Filesystem Os (1408)](filesystem-os.md)** · [Formatter (614)](formatter.md)
-[Framework (55)](framework.md) · [Fuzzer (55)](fuzzer.md) · [Game Engine Game Dev (173)](game-engine-game-dev.md) · [Ide Editor Integration (1334)](ide-editor-integration.md)
-[Image Audio Dsp (391)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (253)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1382)](language-specification.md) · [Library (5301)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (484)](logging-observability.md) · [Machine Learning (665)](machine-learning.md)
-[Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (973)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (420)](package-manager.md) · [Parser Lexer Ast (1024)](parser-lexer-ast.md) · [Precommit Ci Quality (283)](precommit-ci-quality.md)
+[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (411)](ffi-bindings.md) · **[Filesystem Os (1411)](filesystem-os.md)** · [Formatter (615)](formatter.md)
+[Framework (55)](framework.md) · [Fuzzer (55)](fuzzer.md) · [Game Engine Game Dev (173)](game-engine-game-dev.md) · [Ide Editor Integration (1337)](ide-editor-integration.md)
+[Image Audio Dsp (398)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (254)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1388)](language-specification.md) · [Library (5308)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (486)](logging-observability.md) · [Machine Learning (672)](machine-learning.md)
+[Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (977)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (421)](package-manager.md) · [Parser Lexer Ast (1029)](parser-lexer-ast.md) · [Precommit Ci Quality (284)](precommit-ci-quality.md)
 [Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (333)](security-sast.md) · [Serialization (383)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (498)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (522)](testing-framework.md) · [Tutorial Book Styleguide (57)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
-[Undefined Behavior Analyzer (1510)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (476)](visualization-gui.md) · [Web Framework (454)](web-framework.md)
+[Security Sast (333)](security-sast.md) · [Serialization (383)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (500)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (522)](testing-framework.md) · [Tutorial Book Styleguide (58)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
+[Undefined Behavior Analyzer (1513)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (477)](visualization-gui.md) · [Web Framework (454)](web-framework.md)
 
 ## C++23
 
@@ -1042,6 +1042,7 @@ Records: `1408`
 | AudioKit/AudioKitSynthOne | partial | 2022-03-14T16:12:43Z | [open](../records/audio-audiokit-audiokitsynthone-f3e02e66.md) |
 | bartolsthoorn/NVDSP | partial | 2017-06-05T09:19:32Z | [open](../records/audio-bartolsthoorn-nvdsp-0a2b1682.md) |
 | calf-studio-gear/calf | partial | 2026-07-31T15:17:16Z | [open](../records/audio-calf-studio-gear-calf-089316e7.md) |
+| ceva-ip/DPDFNet | partial | 2026-07-22T07:48:24Z | [open](../records/audio-ceva-ip-dpdfnet-64adc0ae.md) |
 | christofmuc/KnobKraft-orm | partial | 2026-09-03T12:15:07Z | [open](../records/audio-christofmuc-knobkraft-orm-c5ee3da6.md) |
 | Conceptual-Machines/magda-core | partial | 2026-09-03T15:13:19Z | [open](../records/audio-conceptual-machines-magda-core-daf4c398.md) |
 | ddiakopoulos/MoogLadders | partial | 2026-06-13T18:35:36Z | [open](../records/audio-ddiakopoulos-moogladders-03832924.md) |
@@ -1058,8 +1059,8 @@ Records: `1408`
 | juce-framework/JUCE | partial | 2026-09-03T12:20:42Z | [open](../records/audio-juce-framework-juce-7765dd0c.md) |
 | kushview/element | partial | 2026-08-27T13:13:29Z | [open](../records/audio-kushview-element-3d0d8878.md) |
 | martinber/noaa-apt | partial | 2024-02-10T15:41:50Z | [open](../records/audio-martinber-noaa-apt-c11a6202.md) |
-| microsoft/torchscale | unknown | github_latest_release_missing | [open](../records/audio-microsoft-torchscale-35290025.md) |
-| microsoft/UniSpeech | unknown | github_latest_release_missing | [open](../records/audio-microsoft-unispeech-787685ec.md) |
+| microsoft/torchscale | partial | 2024-04-11T13:58:57Z | [open](../records/audio-microsoft-torchscale-35290025.md) |
+| microsoft/UniSpeech | partial | 2024-04-05T13:14:48Z | [open](../records/audio-microsoft-unispeech-787685ec.md) |
 | openframeworks/openFrameworks | partial | 2026-08-31T15:16:59Z | [open](../records/audio-openframeworks-openframeworks-3c0a071e.md) |
 | polykit/pico-dco | unknown | github_latest_release_missing | [open](../records/audio-polykit-pico-dco-17364b22.md) |
 | Rikorose/DeepFilterNet | partial | 2024-10-17T08:35:11Z | [open](../records/audio-rikorose-deepfilternet-659ef42c.md) |
@@ -1067,13 +1068,15 @@ Records: `1408`
 | ronitsingh10/FineTune | partial | 2026-07-09T07:54:56Z | [open](../records/audio-ronitsingh10-finetune-05619c84.md) |
 | RustAudio/cpal | partial | 2026-09-02T21:22:44Z | [open](../records/audio-rustaudio-cpal-f54a68cc.md) |
 | RustAudio/vst-rs | partial | 2023-06-10T11:48:20Z | [open](../records/audio-rustaudio-vst-rs-881f699b.md) |
-| santi-pdp/pase | unknown | github_latest_release_missing | [open](../records/audio-santi-pdp-pase-8a411669.md) |
-| SforAiDl/Neural-Voice-Cloning-With-Few-Samples | unknown | github_latest_release_missing | [open](../records/audio-sforaidl-neural-voice-cloning-with-few-samples-bfc3f554.md) |
+| santi-pdp/pase | partial | 2023-07-06T21:26:17Z | [open](../records/audio-santi-pdp-pase-8a411669.md) |
+| SforAiDl/Neural-Voice-Cloning-With-Few-Samples | partial | 2021-02-23T10:10:30Z | [open](../records/audio-sforaidl-neural-voice-cloning-with-few-samples-bfc3f554.md) |
 | Spatial-Media-Lab/OpenSpatialDelay | partial | 2026-05-06T12:23:45Z | [open](../records/audio-spatial-media-lab-openspatialdelay-0dc6ffbe.md) |
+| theanam/webaudio-oscilloscope | partial | 2022-12-11T10:25:31Z | [open](../records/audio-theanam-webaudio-oscilloscope-9e127858.md) |
 | vgorloff/VST3NetSend | partial | 2021-11-24T19:19:46Z | [open](../records/audio-vgorloff-vst3netsend-cad2ee75.md) |
 | xiangyuecn/Recorder | partial | 2026-07-30T11:12:03Z | [open](../records/audio-xiangyuecn-recorder-3cd39183.md) |
 | yonie/WetDelay | partial | 2026-08-30T10:28:14Z | [open](../records/audio-yonie-wetdelay-3872aefc.md) |
 | yonie/WetReverb | partial | 2026-08-30T10:32:46Z | [open](../records/audio-yonie-wetreverb-f71af34f.md) |
+| zycv/awesome-keyword-spotting | partial | 2022-05-23T15:58:11Z | [open](../records/audio-zycv-awesome-keyword-spotting-eca34ce7.md) |
 
 ## Video
 
@@ -1216,7 +1219,7 @@ Records: `1408`
 | pymmcore-plus/napari-micromanager | partial | 2026-08-03T16:26:33Z | [open](../records/microscopy-pymmcore-plus-napari-micromanager-ee37e322.md) |
 | pymmcore-plus/pymmcore-plus | partial | 2026-08-03T16:28:29Z | [open](../records/microscopy-pymmcore-plus-pymmcore-plus-c09b4755.md) |
 | pymontecarlo/pymontecarlo | partial | 2022-01-16T17:02:44Z | [open](../records/microscopy-pymontecarlo-pymontecarlo-376c3fcd.md) |
-| PytorchConnectomics/pytorch_connectomics | partial | 2026-09-03T05:22:41Z | [open](../records/microscopy-pytorchconnectomics-pytorch-connectomics-6aa6d39f.md) |
+| PytorchConnectomics/pytorch_connectomics | partial | 2026-09-04T04:59:41Z | [open](../records/microscopy-pytorchconnectomics-pytorch-connectomics-6aa6d39f.md) |
 | raacampbell/openstage | partial | 2021-04-17T17:24:46Z | [open](../records/microscopy-raacampbell-openstage-800e84a5.md) |
 | rapidsai/cucim | partial | 2026-09-03T16:07:50Z | [open](../records/microscopy-rapidsai-cucim-6fd9f972.md) |
 | royerlab/cytoself | partial | 2025-08-05T18:46:40Z | [open](../records/microscopy-royerlab-cytoself-b2dff824.md) |

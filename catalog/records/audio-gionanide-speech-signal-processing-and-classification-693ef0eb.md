@@ -1,0 +1,125 @@
+# gionanide/Speech_Signal_Processing_and_Classification
+
+## Navigation
+
+[Catalog index](../index.md) · [Language: Audio](../by-language/audio.md) · [Category: Undefined Behavior Analyzer](../by-category/undefined-behavior-analyzer.md) · [Release watch](../release-watch.md) · [Apache/MIT license index](../license-index.md)
+
+<!-- robots.txt: compliant -->
+<!-- canonical: https://github.com/gionanide/Speech_Signal_Processing_and_Classification -->
+<!-- crawl-delay: 10 -->
+
+## Identity
+
+| Field | Value |
+| --- | --- |
+| Language branch | Audio |
+| Category | Undefined Behavior Analyzer |
+| Source type | registry_expansion |
+| Verification | registry-derived |
+| Canonical URL | [https://github.com/gionanide/Speech_Signal_Processing_and_Classification](https://github.com/gionanide/Speech_Signal_Processing_and_Classification) |
+| Source record ids | github_search_audio-4d17ade69a0f45 |
+
+## System Engineer Summary
+
+Front-end speech processing aims at extracting proper features from short- term segments of a speech
+utterance, known as frames. It is a pre-requisite step toward any pattern recognition problem
+employing speech or audio (e.g., music). Here, we are interesting in voice disorder classification.
+That is, to develop two-class classifiers, which can discriminate between utterances of a subject
+suffering from say vocal fold paralysis and utterances of a healthy subject.The mathematical
+modeling of the speech production system in humans suggests that an all-pole system function is
+justified 1-3. As a consequence, linear prediction coefficients (LPCs) constitute a first choice for
+modeling the magnitute of the short-term spectrum of speech. LPC-derived cepstral coefficients are
+guaranteed to discriminate between the system (e.g., vocal tract) contribution and that of the
+excitation. Taking into account the characteristics of the human ear, the mel-frequency cepstral
+coefficients (MFCCs) emerged as descriptive features of the speech spectral envelope. Similarly to
+MFCCs, the perceptual linear prediction coefficients (PLPs) could also be derived. The
+aforementioned sort of speaking tradi- tional features will be tested against agnostic-features
+extracted by convolu- tive neural networks (CNNs) (e.g., auto-encoders) 4. The pattern recognition
+step will be based on Gaussian Mixture Model based classifiers,K-nearest neighbor classifiers, Bayes
+classifiers, as well as Deep Neural Networks. The Massachussets Eye and Ear Infirmary Dataset (MEEI-
+Dataset) 5 will be exploited. At the application level, a library for feature extraction and
+classification in Python will be developed. Credible publicly available resources will be 1used
+toward achieving our goal, such as KALDI. Comparisons will be made against 6-8.
+
+## Operational Role
+
+For a systems engineer, gionanide/Speech_Signal_Processing_and_Classification belongs in the Audio
+inventory as part of ecosystem capability mapping, dependency review, release awareness, and
+operational fit assessment.
+
+## Release Intelligence
+
+| Channel | Status | Version | Date | Source | Reason |
+| --- | --- | --- | --- | --- | --- |
+| stable | partial |  | 2023-03-03T22:25:31Z | gh search repos topic:speech-processing stars:>50 | gh_search_reports_activity_not_release_version |
+| preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
+
+## License And Use Alert
+
+| Field | Value |
+| --- | --- |
+| Detected family | MIT |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+
+## Engineering Notes
+
+- Treat category as `undefined_behavior_analyzer` unless a later verified source gives a better classification.
+- Keep provenance attached when merging duplicate identities; source evidence is not disposable.
+- Stable release is unknown because `gh_search_reports_activity_not_release_version`.
+- Preview/nightly metadata is unknown because `gh_search_has_no_standard_nightly_channel`.
+
+## Provenance
+
+<details>
+<summary><strong>Provenance Details</strong> (click to expand)</summary>
+
+| Kind | Status | Date | Detail |
+| --- | --- | --- | --- |
+| github_cli_search | forge-cli-derived | 2026-09-04 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:speech-processing stars:>50", "retrieved": "2026-09-04", "status": "forge-cli-derived"}` |
+
+</details>
+
+## Evidence
+
+<details open>
+<summary><strong>Evidence Records</strong> (click to collapse)</summary>
+
+Evidence records merged into this identity: `1`.
+
+- `github_search_audio-4d17ade69a0f45` from `github_search_audio` as `registry_expansion`
+
+</details>
+
+## Related Records
+
+| Name | Category | Page |
+| --- | --- | --- |
+| arirusso/unimidi | Undefined Behavior Analyzer | [open](audio-arirusso-unimidi-1aedd0b9.md) |
+| Audio-WestlakeU/FullSubNet | Undefined Behavior Analyzer | [open](audio-audio-westlakeu-fullsubnet-8d1a3912.md) |
+| BillyDM/awesome-audio-dsp | Undefined Behavior Analyzer | [open](audio-billydm-awesome-audio-dsp-9de4f1f5.md) |
+| cmajor-lang/cmajor | Undefined Behavior Analyzer | [open](audio-cmajor-lang-cmajor-af97db28.md) |
+| cookpete/react-player | Undefined Behavior Analyzer | [open](audio-cookpete-react-player-8f26c2ab.md) |
+| doublesymmetry/react-native-track-player | Undefined Behavior Analyzer | [open](audio-doublesymmetry-react-native-track-player-d7f6ed50.md) |
+| haoheliu/torchsubband | Undefined Behavior Analyzer | [open](audio-haoheliu-torchsubband-6b97f7f6.md) |
+| HenryNdubuaku/maths-cs-ai-compendium | Undefined Behavior Analyzer | [open](audio-henryndubuaku-maths-cs-ai-compendium-5e56d9ea.md) |
+
+## Category Index
+
+[Api Abi Checker (206)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (45)](../by-category/assertion-mocking.md) · [Async Runtime (134)](../by-category/async-runtime.md)
+[Benchmarking (166)](../by-category/benchmarking.md) · [Build System (920)](../by-category/build-system.md) · [Cli (541)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (101)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (48)](../by-category/compression.md)
+[Concurrency Parallelism (80)](../by-category/concurrency-parallelism.md) · [Configuration (116)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
+[Cryptography (165)](../by-category/cryptography.md) · [Data Science (35)](../by-category/data-science.md) · [Database Datastore (837)](../by-category/database-datastore.md) · [Datetime (189)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (93)](../by-category/dependency-manager.md) · [Documentation (98)](../by-category/documentation.md)
+[Embedded Hardware (55)](../by-category/embedded-hardware.md) · [Ffi Bindings (411)](../by-category/ffi-bindings.md) · [Filesystem Os (1411)](../by-category/filesystem-os.md) · [Formatter (615)](../by-category/formatter.md)
+[Framework (55)](../by-category/framework.md) · [Fuzzer (55)](../by-category/fuzzer.md) · [Game Engine Game Dev (173)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1337)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (398)](../by-category/image-audio-dsp.md) · [Interop Bindings (58)](../by-category/interop-bindings.md) · [Interpreter Runtime (254)](../by-category/interpreter-runtime.md) · [Jit Vm (60)](../by-category/jit-vm.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1388)](../by-category/language-specification.md) · [Library (5308)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (486)](../by-category/logging-observability.md) · [Machine Learning (672)](../by-category/machine-learning.md)
+[Math Numeric Scientific (85)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (89)](../by-category/memory-analyzer.md) · [Message Broker (39)](../by-category/message-broker.md) · [Networking Http (977)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (421)](../by-category/package-manager.md) · [Parser Lexer Ast (1029)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (284)](../by-category/precommit-ci-quality.md)
+[Profiler (82)](../by-category/profiler.md) · [Project Scaffolding (130)](../by-category/project-scaffolding.md) · [Registry Repository (108)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
+[Security Sast (333)](../by-category/security-sast.md) · [Serialization (383)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (500)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (522)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (58)](../by-category/tutorial-book-styleguide.md) · [Type Checker (301)](../by-category/type-checker.md)
+**[Undefined Behavior Analyzer (1513)](../by-category/undefined-behavior-analyzer.md)** · [Utility Library (95)](../by-category/utility-library.md) · [Visualization Gui (477)](../by-category/visualization-gui.md) · [Web Framework (454)](../by-category/web-framework.md)

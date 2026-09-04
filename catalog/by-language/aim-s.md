@@ -8,23 +8,23 @@ Records: `123`
 
 ## Category Index
 
-[Api Abi Checker (205)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (45)](../by-category/assertion-mocking.md) · [Async Runtime (134)](../by-category/async-runtime.md)
-[Benchmarking (166)](../by-category/benchmarking.md) · [Build System (920)](../by-category/build-system.md) · [Cli (540)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (101)](../by-category/community-reference.md) · [Compiler (174)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (48)](../by-category/compression.md)
+[Api Abi Checker (206)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (45)](../by-category/assertion-mocking.md) · [Async Runtime (134)](../by-category/async-runtime.md)
+[Benchmarking (166)](../by-category/benchmarking.md) · [Build System (920)](../by-category/build-system.md) · [Cli (541)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (101)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (48)](../by-category/compression.md)
 [Concurrency Parallelism (80)](../by-category/concurrency-parallelism.md) · [Configuration (116)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (165)](../by-category/cryptography.md) · [Data Science (35)](../by-category/data-science.md) · [Database Datastore (837)](../by-category/database-datastore.md) · [Datetime (187)](../by-category/datetime.md)
+[Cryptography (165)](../by-category/cryptography.md) · [Data Science (35)](../by-category/data-science.md) · [Database Datastore (837)](../by-category/database-datastore.md) · [Datetime (189)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (93)](../by-category/dependency-manager.md) · [Documentation (98)](../by-category/documentation.md)
-[Embedded Hardware (55)](../by-category/embedded-hardware.md) · [Ffi Bindings (409)](../by-category/ffi-bindings.md) · [Filesystem Os (1408)](../by-category/filesystem-os.md) · [Formatter (614)](../by-category/formatter.md)
-[Framework (55)](../by-category/framework.md) · [Fuzzer (55)](../by-category/fuzzer.md) · [Game Engine Game Dev (173)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1334)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (391)](../by-category/image-audio-dsp.md) · [Interop Bindings (58)](../by-category/interop-bindings.md) · [Interpreter Runtime (253)](../by-category/interpreter-runtime.md) · [Jit Vm (60)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1382)](../by-category/language-specification.md) · [Library (5301)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (484)](../by-category/logging-observability.md) · [Machine Learning (665)](../by-category/machine-learning.md)
-[Math Numeric Scientific (85)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (89)](../by-category/memory-analyzer.md) · [Message Broker (39)](../by-category/message-broker.md) · [Networking Http (973)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (420)](../by-category/package-manager.md) · [Parser Lexer Ast (1024)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (283)](../by-category/precommit-ci-quality.md)
+[Embedded Hardware (55)](../by-category/embedded-hardware.md) · [Ffi Bindings (411)](../by-category/ffi-bindings.md) · [Filesystem Os (1411)](../by-category/filesystem-os.md) · [Formatter (615)](../by-category/formatter.md)
+[Framework (55)](../by-category/framework.md) · [Fuzzer (55)](../by-category/fuzzer.md) · [Game Engine Game Dev (173)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1337)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (398)](../by-category/image-audio-dsp.md) · [Interop Bindings (58)](../by-category/interop-bindings.md) · [Interpreter Runtime (254)](../by-category/interpreter-runtime.md) · [Jit Vm (60)](../by-category/jit-vm.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1388)](../by-category/language-specification.md) · [Library (5308)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (486)](../by-category/logging-observability.md) · [Machine Learning (672)](../by-category/machine-learning.md)
+[Math Numeric Scientific (85)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (89)](../by-category/memory-analyzer.md) · [Message Broker (39)](../by-category/message-broker.md) · [Networking Http (977)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (421)](../by-category/package-manager.md) · [Parser Lexer Ast (1029)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (284)](../by-category/precommit-ci-quality.md)
 [Profiler (82)](../by-category/profiler.md) · [Project Scaffolding (130)](../by-category/project-scaffolding.md) · [Registry Repository (108)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
-[Security Sast (333)](../by-category/security-sast.md) · [Serialization (383)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (498)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (522)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (57)](../by-category/tutorial-book-styleguide.md) · [Type Checker (301)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1510)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](../by-category/utility-library.md) · [Visualization Gui (476)](../by-category/visualization-gui.md) · [Web Framework (454)](../by-category/web-framework.md)
+[Security Sast (333)](../by-category/security-sast.md) · [Serialization (383)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (500)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (522)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (58)](../by-category/tutorial-book-styleguide.md) · [Type Checker (301)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1513)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](../by-category/utility-library.md) · [Visualization Gui (477)](../by-category/visualization-gui.md) · [Web Framework (454)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -32,7 +32,7 @@ Records: `123`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [milvus-io/milvus](../records/aim-s-milvus-io-milvus-54ee327d.md) | partial | 2026-09-04T04:19:29Z | registry-derived |
+| [milvus-io/milvus](../records/aim-s-milvus-io-milvus-54ee327d.md) | partial | 2026-09-04T04:35:59Z | registry-derived |
 
 ### Build System
 
@@ -40,16 +40,16 @@ Records: `123`
 | --- | --- | --- | --- |
 | [agentscope-ai/agentscope](../records/aim-s-agentscope-ai-agentscope-52a2aaa7.md) | partial | 2026-09-03T12:20:21Z | registry-derived |
 | [browser-use/browser-use](../records/aim-s-browser-use-browser-use-3a4135d4.md) | partial | 2026-09-04T04:07:09Z | registry-derived |
-| [ComposioHQ/composio](../records/aim-s-composiohq-composio-aca55143.md) | partial | 2026-09-04T00:08:37Z | registry-derived |
+| [ComposioHQ/composio](../records/aim-s-composiohq-composio-aca55143.md) | partial | 2026-09-04T05:06:27Z | registry-derived |
 | [CopilotKit/CopilotKit](../records/aim-s-copilotkit-copilotkit-a4294d79.md) | partial | 2026-09-03T23:59:37Z | registry-derived |
 | [deepset-ai/haystack](../records/aim-s-deepset-ai-haystack-9a3ef275.md) | partial | 2026-09-04T02:16:36Z | registry-derived |
 | [DietrichGebert/ponytail](../records/aim-s-dietrichgebert-ponytail-2aa63d65.md) | partial | 2026-08-07T21:44:01Z | registry-derived |
 | [khoj-ai/khoj](../records/aim-s-khoj-ai-khoj-7c0ba8b7.md) | partial | 2026-08-02T01:55:40Z | registry-derived |
 | [langchain-ai/langgraph](../records/aim-s-langchain-ai-langgraph-3d7f01d8.md) | partial | 2026-09-03T15:23:28Z | registry-derived |
-| [langgenius/dify](../records/aim-s-langgenius-dify-d0663497.md) | partial | 2026-09-04T04:17:26Z | registry-derived |
+| [langgenius/dify](../records/aim-s-langgenius-dify-d0663497.md) | partial | 2026-09-04T05:05:46Z | registry-derived |
 | [rohitg00/ai-engineering-from-scratch](../records/aim-s-rohitg00-ai-engineering-from-scratch-ac445b06.md) | partial | 2026-08-30T09:25:48Z | registry-derived |
-| [Significant-Gravitas/AutoGPT](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) | partial | 2026-09-04T04:21:21Z | registry-derived |
-| [tinyhumansai/openhuman](../records/aim-s-tinyhumansai-openhuman-314d98d9.md) | partial | 2026-09-03T20:50:08Z | registry-derived |
+| [Significant-Gravitas/AutoGPT](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) | partial | 2026-09-04T05:03:21Z | registry-derived |
+| [tinyhumansai/openhuman](../records/aim-s-tinyhumansai-openhuman-314d98d9.md) | partial | 2026-09-04T04:53:43Z | registry-derived |
 | [tirth8205/code-review-graph](../records/aim-s-tirth8205-code-review-graph-ebee7525.md) | partial | 2026-08-27T10:35:01Z | registry-derived |
 | [vercel/ai](../records/aim-s-vercel-ai-ae0b1907.md) | partial | 2026-09-04T02:03:23Z | registry-derived |
 | [Zackriya-Solutions/meetily](../records/aim-s-zackriya-solutions-meetily-959563c6.md) | partial | 2026-09-03T09:51:34Z | registry-derived |
@@ -58,9 +58,9 @@ Records: `123`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [esengine/DeepSeek-Reasonix](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) | partial | 2026-09-04T04:02:09Z | registry-derived |
+| [esengine/DeepSeek-Reasonix](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) | partial | 2026-09-04T04:26:23Z | registry-derived |
 | [Ollama](../records/aim-s-ollama-e5017466.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
-| [QwenLM/qwen-code](../records/aim-s-qwenlm-qwen-code-59e3d415.md) | partial | 2026-09-04T04:20:09Z | registry-derived |
+| [QwenLM/qwen-code](../records/aim-s-qwenlm-qwen-code-59e3d415.md) | partial | 2026-09-04T05:13:58Z | registry-derived |
 
 ### Configuration
 
@@ -114,7 +114,7 @@ Records: `123`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [BerriAI/litellm](../records/aim-s-berriai-litellm-e0f6dc28.md) | partial | 2026-09-04T04:18:51Z | registry-derived |
+| [BerriAI/litellm](../records/aim-s-berriai-litellm-e0f6dc28.md) | partial | 2026-09-04T05:00:52Z | registry-derived |
 | [google/langextract](../records/aim-s-google-langextract-8fb0b488.md) | partial | 2026-08-27T19:23:53Z | registry-derived |
 
 ### Framework
@@ -130,7 +130,7 @@ Records: `123`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [AlexsJones/llmfit](../records/aim-s-alexsjones-llmfit-337bd975.md) | partial | 2026-09-03T13:31:40Z | registry-derived |
-| [can1357/oh-my-pi](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) | partial | 2026-09-04T03:56:19Z | registry-derived |
+| [can1357/oh-my-pi](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) | partial | 2026-09-04T04:21:52Z | registry-derived |
 | [decolua/9router](../records/aim-s-decolua-9router-0eed32d7.md) | partial | 2026-09-03T04:03:18Z | registry-derived |
 | [harry0703/MoneyPrinterTurbo](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) | partial | 2026-09-02T14:01:53Z | registry-derived |
 | [hesreallyhim/awesome-claude-code](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) | partial | 2026-09-04T03:11:59Z | registry-derived |
@@ -144,7 +144,7 @@ Records: `123`
 | --- | --- | --- | --- |
 | [llama.cpp](../records/aim-s-llama-cpp-9828c514.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [ONNX Runtime](../records/aim-s-onnx-runtime-98d3a1c6.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
-| [ray-project/ray](../records/aim-s-ray-project-ray-95a80ced.md) | partial | 2026-09-04T03:49:25Z | registry-derived |
+| [ray-project/ray](../records/aim-s-ray-project-ray-95a80ced.md) | partial | 2026-09-04T04:39:46Z | registry-derived |
 | [vLLM](../records/aim-s-vllm-0a7ec6b2.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 
 ### Language Specification
@@ -156,7 +156,7 @@ Records: `123`
 | [mlabonne/llm-course](../records/aim-s-mlabonne-llm-course-686674f6.md) | partial | 2026-02-05T13:09:26Z | registry-derived |
 | [mukul975/Anthropic-Cybersecurity-Skills](../records/aim-s-mukul975-anthropic-cybersecurity-skills-9e0cc92c.md) | partial | 2026-08-31T04:32:44Z | registry-derived |
 | [p-e-w/heretic](../records/aim-s-p-e-w-heretic-a6b88cd3.md) | partial | 2026-09-03T12:19:46Z | registry-derived |
-| [sgl-project/sglang](../records/aim-s-sgl-project-sglang-4b12b8a7.md) | partial | 2026-09-04T04:20:49Z | registry-derived |
+| [sgl-project/sglang](../records/aim-s-sgl-project-sglang-4b12b8a7.md) | partial | 2026-09-04T05:15:38Z | registry-derived |
 | [yamadashy/repomix](../records/aim-s-yamadashy-repomix-25d6e394.md) | partial | 2026-09-03T14:56:48Z | registry-derived |
 
 ### Logging Observability
@@ -180,10 +180,10 @@ Records: `123`
 | [datawhalechina/hello-agents](../records/aim-s-datawhalechina-hello-agents-7c22b3b1.md) | partial | 2026-08-18T06:51:35Z | registry-derived |
 | [datawhalechina/self-llm](../records/aim-s-datawhalechina-self-llm-f636cd5d.md) | partial | 2026-08-26T06:33:41Z | registry-derived |
 | [firecrawl/firecrawl](../records/aim-s-firecrawl-firecrawl-e23e3125.md) | partial | 2026-09-04T00:03:05Z | registry-derived |
-| [HKUDS/Vibe-Trading](../records/aim-s-hkuds-vibe-trading-eb525e68.md) | partial | 2026-09-02T09:32:29Z | registry-derived |
+| [HKUDS/Vibe-Trading](../records/aim-s-hkuds-vibe-trading-eb525e68.md) | partial | 2026-09-04T05:06:37Z | registry-derived |
 | [Hugging Face Transformers](../records/aim-s-hugging-face-transformers-9b7d820e.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [ItzCrazyKns/Vane](../records/aim-s-itzcrazykns-vane-331d2e53.md) | partial | 2026-09-01T14:12:12Z | registry-derived |
-| [janhq/jan](../records/aim-s-janhq-jan-f71b49a2.md) | partial | 2026-09-04T03:15:02Z | registry-derived |
+| [janhq/jan](../records/aim-s-janhq-jan-f71b49a2.md) | partial | 2026-09-04T05:01:01Z | registry-derived |
 | [JAX](../records/aim-s-jax-160b4e37.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [jeecgboot/JeecgBoot](../records/aim-s-jeecgboot-jeecgboot-4bd956b2.md) | partial | 2026-09-02T14:48:27Z | registry-derived |
 | [JuliusBrussee/caveman](../records/aim-s-juliusbrussee-caveman-aee4c811.md) | partial | 2026-09-04T00:31:14Z | registry-derived |
@@ -192,9 +192,9 @@ Records: `123`
 | [linshenkx/prompt-optimizer](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) | partial | 2026-08-26T08:07:53Z | registry-derived |
 | [lyogavin/airllm](../records/aim-s-lyogavin-airllm-08fb5553.md) | partial | 2026-09-03T06:24:24Z | registry-derived |
 | [Mintplex-Labs/anything-llm](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) | partial | 2026-09-04T01:10:46Z | registry-derived |
-| [NousResearch/hermes-agent](../records/aim-s-nousresearch-hermes-agent-9555e560.md) | partial | 2026-09-04T02:55:37Z | registry-derived |
+| [NousResearch/hermes-agent](../records/aim-s-nousresearch-hermes-agent-9555e560.md) | partial | 2026-09-04T05:00:11Z | registry-derived |
 | [onyx-dot-app/onyx](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) | partial | 2026-09-04T02:08:48Z | registry-derived |
-| [open-webui/open-webui](../records/aim-s-open-webui-open-webui-a57f1344.md) | partial | 2026-09-04T00:36:30Z | registry-derived |
+| [open-webui/open-webui](../records/aim-s-open-webui-open-webui-a57f1344.md) | partial | 2026-09-04T04:57:22Z | registry-derived |
 | [openai/openai-agents-python](../records/aim-s-openai-openai-agents-python-df971261.md) | partial | 2026-09-02T00:50:20Z | registry-derived |
 | [OpenHands/OpenHands](../records/aim-s-openhands-openhands-87713803.md) | partial | 2026-09-03T23:52:48Z | registry-derived |
 | [PyTorch](../records/aim-s-pytorch-ce083d68.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
@@ -206,7 +206,7 @@ Records: `123`
 | [TauricResearch/TradingAgents](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) | partial | 2026-09-01T05:38:45Z | registry-derived |
 | [TensorFlow](../records/aim-s-tensorflow-128400a0.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [The-Vibe-Company/quivr](../records/aim-s-the-vibe-company-quivr-87a49b49.md) | partial | 2026-08-31T18:02:45Z | registry-derived |
-| [unslothai/unsloth](../records/aim-s-unslothai-unsloth-b9510699.md) | partial | 2026-09-04T04:19:52Z | registry-derived |
+| [unslothai/unsloth](../records/aim-s-unslothai-unsloth-b9510699.md) | partial | 2026-09-04T05:08:10Z | registry-derived |
 | [VectifyAI/PageIndex](../records/aim-s-vectifyai-pageindex-7c207d93.md) | partial | 2026-09-03T10:37:14Z | registry-derived |
 | [virgiliojr94/book-to-skill](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) | partial | 2026-09-01T14:51:58Z | registry-derived |
 
@@ -218,8 +218,8 @@ Records: `123`
 | [gitleaks/gitleaks](../records/aim-s-gitleaks-gitleaks-942f477b.md) | partial | 2026-08-26T04:17:05Z | registry-derived |
 | [mem0ai/mem0](../records/aim-s-mem0ai-mem0-1e2f6f8a.md) | partial | 2026-09-03T16:43:03Z | registry-derived |
 | [MemPalace/mempalace](../records/aim-s-mempalace-mempalace-24dc978a.md) | partial | 2026-09-02T00:28:43Z | registry-derived |
-| [vllm-project/vllm](../records/aim-s-vllm-project-vllm-5af67423.md) | partial | 2026-09-04T04:20:20Z | registry-derived |
-| [zhayujie/CowAgent](../records/aim-s-zhayujie-cowagent-fa45ff55.md) | partial | 2026-09-04T03:34:26Z | registry-derived |
+| [vllm-project/vllm](../records/aim-s-vllm-project-vllm-5af67423.md) | partial | 2026-09-04T04:46:07Z | registry-derived |
+| [zhayujie/CowAgent](../records/aim-s-zhayujie-cowagent-fa45ff55.md) | partial | 2026-09-04T04:25:59Z | registry-derived |
 
 ### Networking Http
 
@@ -259,7 +259,7 @@ Records: `123`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [headroomlabs-ai/headroom](../records/aim-s-headroomlabs-ai-headroom-d7859a86.md) | partial | 2026-09-04T04:06:55Z | registry-derived |
+| [headroomlabs-ai/headroom](../records/aim-s-headroomlabs-ai-headroom-d7859a86.md) | partial | 2026-09-04T05:01:51Z | registry-derived |
 | [ONNX](../records/aim-s-onnx-a7e4f39c.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 
 ### Static Analyzer
@@ -286,7 +286,7 @@ Records: `123`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [mastra-ai/mastra](../records/aim-s-mastra-ai-mastra-de910197.md) | partial | 2026-09-04T04:20:57Z | registry-derived |
+| [mastra-ai/mastra](../records/aim-s-mastra-ai-mastra-de910197.md) | partial | 2026-09-04T05:17:48Z | registry-derived |
 
 ### Undefined Behavior Analyzer
 
