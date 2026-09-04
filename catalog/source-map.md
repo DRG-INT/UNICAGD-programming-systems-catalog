@@ -4,23 +4,23 @@
 
 ## Category Index
 
-[Api Abi Checker (206)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (45)](by-category/assertion-mocking.md) · [Async Runtime (135)](by-category/async-runtime.md)
-[Benchmarking (167)](by-category/benchmarking.md) · [Build System (925)](by-category/build-system.md) · [Cli (546)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Api Abi Checker (206)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (45)](by-category/assertion-mocking.md) · [Async Runtime (136)](by-category/async-runtime.md)
+[Benchmarking (169)](by-category/benchmarking.md) · [Build System (928)](by-category/build-system.md) · [Cli (547)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (101)](by-category/community-reference.md) · [Compiler (175)](by-category/compiler.md) · [Compiler Diagnostics (23)](by-category/compiler-diagnostics.md) · [Compression (48)](by-category/compression.md)
 [Concurrency Parallelism (83)](by-category/concurrency-parallelism.md) · [Configuration (116)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (165)](by-category/cryptography.md) · [Data Science (36)](by-category/data-science.md) · [Database Datastore (852)](by-category/database-datastore.md) · [Datetime (190)](by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (42)](by-category/debugger.md) · [Dependency Manager (93)](by-category/dependency-manager.md) · [Documentation (99)](by-category/documentation.md)
-[Embedded Hardware (55)](by-category/embedded-hardware.md) · [Ffi Bindings (414)](by-category/ffi-bindings.md) · [Filesystem Os (1427)](by-category/filesystem-os.md) · [Formatter (616)](by-category/formatter.md)
-[Framework (56)](by-category/framework.md) · [Fuzzer (56)](by-category/fuzzer.md) · [Game Engine Game Dev (175)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1341)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (398)](by-category/image-audio-dsp.md) · [Interop Bindings (58)](by-category/interop-bindings.md) · [Interpreter Runtime (254)](by-category/interpreter-runtime.md) · [Jit Vm (60)](by-category/jit-vm.md)
-[Language Server (27)](by-category/language-server.md) · [Language Specification (1391)](by-category/language-specification.md) · [Library (5320)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Cryptography (165)](by-category/cryptography.md) · [Data Science (36)](by-category/data-science.md) · [Database Datastore (878)](by-category/database-datastore.md) · [Datetime (190)](by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (42)](by-category/debugger.md) · [Dependency Manager (95)](by-category/dependency-manager.md) · [Documentation (99)](by-category/documentation.md)
+[Embedded Hardware (55)](by-category/embedded-hardware.md) · [Ffi Bindings (415)](by-category/ffi-bindings.md) · [Filesystem Os (1427)](by-category/filesystem-os.md) · [Formatter (618)](by-category/formatter.md)
+[Framework (56)](by-category/framework.md) · [Fuzzer (56)](by-category/fuzzer.md) · [Game Engine Game Dev (175)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1348)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (398)](by-category/image-audio-dsp.md) · [Interop Bindings (58)](by-category/interop-bindings.md) · [Interpreter Runtime (254)](by-category/interpreter-runtime.md) · [Jit Vm (61)](by-category/jit-vm.md)
+[Language Server (27)](by-category/language-server.md) · [Language Specification (1394)](by-category/language-specification.md) · [Library (5327)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (43)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (487)](by-category/logging-observability.md) · [Machine Learning (673)](by-category/machine-learning.md)
-[Math Numeric Scientific (85)](by-category/math-numeric-scientific.md) · [Memory Analyzer (90)](by-category/memory-analyzer.md) · [Message Broker (39)](by-category/message-broker.md) · [Networking Http (987)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (423)](by-category/package-manager.md) · [Parser Lexer Ast (1034)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (284)](by-category/precommit-ci-quality.md)
+[Math Numeric Scientific (85)](by-category/math-numeric-scientific.md) · [Memory Analyzer (90)](by-category/memory-analyzer.md) · [Message Broker (39)](by-category/message-broker.md) · [Networking Http (992)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (423)](by-category/package-manager.md) · [Parser Lexer Ast (1035)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (284)](by-category/precommit-ci-quality.md)
 [Profiler (82)](by-category/profiler.md) · [Project Scaffolding (130)](by-category/project-scaffolding.md) · [Registry Repository (108)](by-category/registry-repository.md) · [Sanitizer (13)](by-category/sanitizer.md)
-[Security Sast (333)](by-category/security-sast.md) · [Serialization (384)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (503)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (526)](by-category/testing-framework.md) · [Tutorial Book Styleguide (59)](by-category/tutorial-book-styleguide.md) · [Type Checker (301)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1517)](by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](by-category/utility-library.md) · [Visualization Gui (478)](by-category/visualization-gui.md) · [Web Framework (459)](by-category/web-framework.md)
+[Security Sast (333)](by-category/security-sast.md) · [Serialization (385)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (508)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (595)](by-category/testing-framework.md) · [Tutorial Book Styleguide (59)](by-category/tutorial-book-styleguide.md) · [Type Checker (301)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (1522)](by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](by-category/utility-library.md) · [Visualization Gui (478)](by-category/visualization-gui.md) · [Web Framework (462)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -1068,6 +1068,7 @@
 | `cran_packages_by_date-28b0939188f99c` | vecvec | [open](records/r-vecvec-40b2b4ab.md) |
 | `cran_packages_by_date-28d4c4f90e4d62` | missknn | [open](records/r-missknn-a240d651.md) |
 | `cran_packages_by_date-2920b328d8e999` | bayesics | [open](records/r-bayesics-ab31f3c3.md) |
+| `cran_packages_by_date-29347b0a171f45` | AIDA | [open](records/r-aida-1ce43a77.md) |
 | `cran_packages_by_date-294ce5cadff203` | prova | [open](records/r-prova-c8ea9dac.md) |
 | `cran_packages_by_date-2958ec57383f58` | interSAE | [open](records/r-intersae-cb12b6c3.md) |
 | `cran_packages_by_date-298ca810a93ffb` | redlist | [open](records/r-redlist-0504df08.md) |
@@ -1208,6 +1209,7 @@
 | `cran_packages_by_date-3e857c74685dc0` | buzzMed | [open](records/r-buzzmed-5aea475d.md) |
 | `cran_packages_by_date-3ed32f47fe6e19` | vegan | [open](records/r-vegan-5ac3024c.md) |
 | `cran_packages_by_date-3edcfeee6e3e2f` | binsreg | [open](records/r-binsreg-176e864a.md) |
+| `cran_packages_by_date-3f004dcdf26992` | soc.ca | [open](records/r-soc-ca-4c33fd2e.md) |
 | `cran_packages_by_date-3f0334f8acb690` | topologyR | [open](records/r-topologyr-35bfdebd.md) |
 | `cran_packages_by_date-3f3a743b663b50` | gpciProgTyII | [open](records/r-gpciprogtyii-938572ab.md) |
 | `cran_packages_by_date-3f46fd23e5ad5f` | poLCAParallel | [open](records/r-polcaparallel-c3425eb9.md) |
@@ -1348,6 +1350,7 @@
 | `cran_packages_by_date-554e30f1105ba8` | margEVT | [open](records/r-margevt-b141cef5.md) |
 | `cran_packages_by_date-5556d079dd73d9` | qgcomp | [open](records/r-qgcomp-fb7673ad.md) |
 | `cran_packages_by_date-556aa4f6ba0e60` | episensr | [open](records/r-episensr-dfe78fa4.md) |
+| `cran_packages_by_date-5576f51f309560` | frheritage | [open](records/r-frheritage-8d28c42c.md) |
 | `cran_packages_by_date-5585d61d881c81` | vannstats | [open](records/r-vannstats-3fba77f8.md) |
 | `cran_packages_by_date-55d53c1e12291d` | fuzzyurn | [open](records/r-fuzzyurn-cf99907f.md) |
 | `cran_packages_by_date-55dac9271fcf31` | regressinator | [open](records/r-regressinator-a433c15e.md) |
@@ -1454,6 +1457,7 @@
 | `cran_packages_by_date-659e084a2c9161` | BayesPIM | [open](records/r-bayespim-f7ef824c.md) |
 | `cran_packages_by_date-65edadf278e82c` | CurricularComplexity | [open](records/r-curricularcomplexity-beb1e682.md) |
 | `cran_packages_by_date-65f51aa7c1d3b0` | scoringfunctions | [open](records/r-scoringfunctions-b700979d.md) |
+| `cran_packages_by_date-6621353a07d330` | RPIV | [open](records/r-rpiv-571af9a5.md) |
 | `cran_packages_by_date-667ac313bad182` | QuickJSR | [open](records/r-quickjsr-03e86b31.md) |
 | `cran_packages_by_date-6680d8a75c36b1` | sphereclust | [open](records/r-sphereclust-e2d8f607.md) |
 | `cran_packages_by_date-66d596f49b7261` | GLSME | [open](records/r-glsme-1efd9625.md) |
@@ -1732,6 +1736,7 @@
 | `cran_packages_by_date-8e96ff731683b9` | eq5d | [open](records/r-eq5d-6d0b04da.md) |
 | `cran_packages_by_date-8eba9bf9ef9c29` | PsyMetricTools | [open](records/r-psymetrictools-7f593811.md) |
 | `cran_packages_by_date-8edf6893274cbd` | quartose | [open](records/r-quartose-17cdd23f.md) |
+| `cran_packages_by_date-8eea105af51f08` | vazul | [open](records/r-vazul-d5d0cc4e.md) |
 | `cran_packages_by_date-8f003ce1f5642e` | screenshot | [open](records/r-screenshot-9646a7e3.md) |
 | `cran_packages_by_date-8f191235dd070e` | orbweaver | [open](records/r-orbweaver-0f2a3778.md) |
 | `cran_packages_by_date-8f5bc952b4918a` | TmCalculator | [open](records/r-tmcalculator-551285f1.md) |
@@ -1926,6 +1931,7 @@
 | `cran_packages_by_date-aedf27b5a9e496` | MEMWAS | [open](records/r-memwas-ee3f5b16.md) |
 | `cran_packages_by_date-aef6615484a772` | ONAM | [open](records/r-onam-aeee732a.md) |
 | `cran_packages_by_date-af26a650190350` | lattice | [open](records/r-lattice-a35f5756.md) |
+| `cran_packages_by_date-afa56d4e6c4f7f` | rlas | [open](records/r-rlas-63762d9d.md) |
 | `cran_packages_by_date-afa990341acef6` | prrd | [open](records/r-prrd-b53ae408.md) |
 | `cran_packages_by_date-afab57309cc450` | psrwe | [open](records/r-psrwe-f563f448.md) |
 | `cran_packages_by_date-afe4a3bf52ce38` | steinsampling | [open](records/r-steinsampling-3d9775d1.md) |
@@ -2063,6 +2069,7 @@
 | `cran_packages_by_date-c9a8755d829586` | scanr | [open](records/r-scanr-79510d20.md) |
 | `cran_packages_by_date-c9bd1e1b25b285` | VertexWiseR | [open](records/r-vertexwiser-c6a4eb09.md) |
 | `cran_packages_by_date-c9d50a35dfb01c` | SimplicialComplex | [open](records/r-simplicialcomplex-e22f3c43.md) |
+| `cran_packages_by_date-c9e509bfffe353` | BBEST | [open](records/r-bbest-3f7f8b5f.md) |
 | `cran_packages_by_date-c9f0ef121cc8b4` | HIMA | [open](records/r-hima-10835d0a.md) |
 | `cran_packages_by_date-ca14cbb024a7d1` | ibdfindr | [open](records/r-ibdfindr-298b8d9b.md) |
 | `cran_packages_by_date-ca30e2eb72432f` | GTFSwizard | [open](records/r-gtfswizard-48699357.md) |
@@ -2096,6 +2103,7 @@
 | `cran_packages_by_date-cdbaad922d2789` | RIFanalysis | [open](records/r-rifanalysis-8f1ffcb3.md) |
 | `cran_packages_by_date-cdd8470f7d8b60` | tmdbR | [open](records/r-tmdbr-0ee79e2b.md) |
 | `cran_packages_by_date-ce06effb70dfb8` | bain | [open](records/r-bain-318aac57.md) |
+| `cran_packages_by_date-ce0ba6d22c413a` | IVDML | [open](records/r-ivdml-adb8ec84.md) |
 | `cran_packages_by_date-ce1a0c2383fd7c` | PubMatrixR | [open](records/r-pubmatrixr-7a077552.md) |
 | `cran_packages_by_date-ce3b7142b3bf9e` | PTSDdiag | [open](records/r-ptsddiag-46843da7.md) |
 | `cran_packages_by_date-ce40fa702571cd` | survival | [open](records/r-survival-c6511128.md) |
@@ -5532,6 +5540,7 @@
 | `github_search_assembly-4d8d8b6dab1ba4` | HazyResearch/hyena-dna | [open](records/assembly-hazyresearch-hyena-dna-32e6b277.md) |
 | `github_search_assembly-4db03fc83cda4a` | dot-asm/cryptogams | [open](records/assembly-dot-asm-cryptogams-793b53b4.md) |
 | `github_search_assembly-4decd4e92c1c2d` | vonsim/vonsim | [open](records/assembly-vonsim-vonsim-6a8ef78f.md) |
+| `github_search_assembly-4e554fe6dda0ce` | dan-c-underwood/vscode-arm | [open](records/assembly-dan-c-underwood-vscode-arm-40542dc4.md) |
 | `github_search_assembly-4f6552284ed525` | EgeBalci/amber | [open](records/assembly-egebalci-amber-f47feef1.md) |
 | `github_search_assembly-4fdf3aaaca9926` | tboox/vm86 | [open](records/assembly-tboox-vm86-b9f240c2.md) |
 | `github_search_assembly-4ff94f5fc9b3c9` | PaddlePaddle/FlyCV | [open](records/assembly-paddlepaddle-flycv-f974ea6f.md) |
@@ -5659,6 +5668,7 @@
 | `github_search_assembly-bb4e210426a618` | cirosantilli/arm-assembly-cheat | [open](records/assembly-cirosantilli-arm-assembly-cheat-ccbbcbdf.md) |
 | `github_search_assembly-bb88888829b942` | Captainarash/The_Holy_Book_of_X86 | [open](records/assembly-captainarash-the-holy-book-of-x86-eca501f2.md) |
 | `github_search_assembly-be2822b225cf24` | icebreaker/floppybird | [open](records/assembly-icebreaker-floppybird-0b70ef49.md) |
+| `github_search_assembly-be4ae0cfb7e622` | pgaskin/kobo-mods | [open](records/assembly-pgaskin-kobo-mods-bbd1ab40.md) |
 | `github_search_assembly-bedfd5aff09e0a` | xtnded/codextended | [open](records/assembly-xtnded-codextended-97cbc636.md) |
 | `github_search_assembly-bfe50e96363d9b` | pgaskin/kobopatch | [open](records/assembly-pgaskin-kobopatch-ac409c3c.md) |
 | `github_search_assembly-c0a009bf3a8ccd` | segmentio/asm | [open](records/assembly-segmentio-asm-07cb5069.md) |
@@ -5696,6 +5706,7 @@
 | `github_search_assembly-dd7aeb849833a9` | ZathuraDbg/ZathuraDbg | [open](records/assembly-zathuradbg-zathuradbg-df5d6b95.md) |
 | `github_search_assembly-de9dbe9c1c3145` | arm-education/Graphical-Micro-Architecture-Simulator | [open](records/assembly-arm-education-graphical-micro-architecture-simulator-3652940e.md) |
 | `github_search_assembly-df447fa9a3eef4` | GeoSn0w/Reverse-Engineering-Tutorials | [open](records/assembly-geosn0w-reverse-engineering-tutorials-9c7eb577.md) |
+| `github_search_assembly-e08e9768ec7c95` | coderick14/ARMed | [open](records/assembly-coderick14-armed-5eee1351.md) |
 | `github_search_assembly-e16ac739c86c8a` | jthuraisamy/SysWhispers | [open](records/assembly-jthuraisamy-syswhispers-6a63ec1e.md) |
 | `github_search_assembly-e5a53bd52962a1` | sim-/tgy | [open](records/assembly-sim-tgy-fbe11e77.md) |
 | `github_search_assembly-e8c636c4e33ed3` | ashvardanian/less_slow.cpp | [open](records/assembly-ashvardanian-less-slow-cpp-50768d6c.md) |
@@ -5722,6 +5733,7 @@
 | `github_search_assembly-fcfcf3e2eedd0d` | libtea/frameworks | [open](records/assembly-libtea-frameworks-ebead1e2.md) |
 | `github_search_assembly-fd59d9d8467d5e` | enkomio/thematrix | [open](records/assembly-enkomio-thematrix-8cd2748c.md) |
 | `github_search_assembly-fe089d52b19de7` | tenderlove/fisk | [open](records/assembly-tenderlove-fisk-358e54fe.md) |
+| `github_search_assembly-fe4a99c90f10aa` | 0x00pf/programming4wannabes | [open](records/assembly-0x00pf-programming4wannabes-8dd4905d.md) |
 | `github_search_assembly-ffe2bcae765c64` | jishanshaikh4/8086-cheatsheet | [open](records/assembly-jishanshaikh4-8086-cheatsheet-66f8dab8.md) |
 | `github_search_assets-00013559d790c1` | nuxt-modules/google-fonts | [open](records/assets-nuxt-modules-google-fonts-ff39da19.md) |
 | `github_search_assets-0027e521e8271a` | Shelf-nu/shelf.nu | [open](records/assets-shelf-nu-shelf-nu-2414163a.md) |
@@ -14871,6 +14883,7 @@
 | `go_module_index-fed5c5de68a96e` | github.com/tangerg/scope/core | [open](records/go-github-com-tangerg-scope-core-c39c292b.md) |
 | `go_module_index-ff1e655008b853` | github.com/vitorpamplona/amethyst | [open](records/go-github-com-vitorpamplona-amethyst-7831885b.md) |
 | `go_module_index-fffde2b2775629` | github.com/quantus-network/qp-poseidon | [open](records/go-github-com-quantus-network-qp-poseidon-339ddff6.md) |
+| `hackage_recent-093cf7e166c197` | phino | [open](records/haskell-phino-0ffa79f2.md) |
 | `hackage_recent-0c786b314b6410` | grapesy | [open](records/haskell-grapesy-9ecbf2e2.md) |
 | `hackage_recent-1c62771ff44deb` | yamlstar | [open](records/haskell-yamlstar-bc72bee8.md) |
 | `hackage_recent-1ea8333adc6eff` | kioku-migrate | [open](records/haskell-kioku-migrate-f80d609d.md) |
@@ -14897,9 +14910,12 @@
 | `hackage_recent-71ff2166351a35` | rme-what4 | [open](records/haskell-rme-what4-e5f70573.md) |
 | `hackage_recent-75c102beb5e066` | what4 | [open](records/haskell-what4-03a48fd1.md) |
 | `hackage_recent-7743035e5050d7` | explainable-predicates | [open](records/haskell-explainable-predicates-6549649b.md) |
+| `hackage_recent-78b98a2a69768f` | ghcide | [open](records/haskell-ghcide-c9d6b87b.md) |
 | `hackage_recent-792e7e5061c2b3` | exchangealgebra | [open](records/haskell-exchangealgebra-c5300b87.md) |
 | `hackage_recent-7e6eeb91445d92` | aihc-parser | [open](records/haskell-aihc-parser-d88ae54b.md) |
+| `hackage_recent-84dc0b41ed9f0f` | haskell-language-server | [open](records/haskell-haskell-language-server-f76a78a4.md) |
 | `hackage_recent-85b70f81457859` | tricorder-mcp | [open](records/haskell-tricorder-mcp-95664038.md) |
+| `hackage_recent-9074f5a2bb9bbb` | hls-graph | [open](records/haskell-hls-graph-dfa7953b.md) |
 | `hackage_recent-9259bbdab92e2c` | hpgsql-simple-compat | [open](records/haskell-hpgsql-simple-compat-d03e91c2.md) |
 | `hackage_recent-93412bbaff519b` | kioku-migrations | [open](records/haskell-kioku-migrations-2c5f56b2.md) |
 | `hackage_recent-9407f3530f90ff` | inj | [open](records/haskell-inj-59be0a7a.md) |
@@ -14908,12 +14924,14 @@
 | `hackage_recent-a99745c6242ce4` | cabal-install-parsers | [open](records/haskell-cabal-install-parsers-5bbb1ac6.md) |
 | `hackage_recent-bb70de6d67b11f` | clash-shockwaves | [open](records/haskell-clash-shockwaves-0ff8e02b.md) |
 | `hackage_recent-c27fe6ee52d5b4` | kioku-cli | [open](records/haskell-kioku-cli-1c907a92.md) |
+| `hackage_recent-c9f3000d2a5b8e` | hls-test-utils | [open](records/haskell-hls-test-utils-92298e45.md) |
 | `hackage_recent-caaad4e7e9d8e0` | servant-ede | [open](records/haskell-servant-ede-265a6dc2.md) |
 | `hackage_recent-cafe48bb462f82` | scip | [open](records/haskell-scip-895a15af.md) |
 | `hackage_recent-cdf8adf09be41d` | llama-cpp-haskell | [open](records/haskell-llama-cpp-haskell-a626a663.md) |
 | `hackage_recent-d30f27eef08ee0` | keel-onnx | [open](records/haskell-keel-onnx-f97de44e.md) |
 | `hackage_recent-de5657564350b6` | simple-smt | [open](records/haskell-simple-smt-901983e2.md) |
 | `hackage_recent-dffafcd891d797` | keel-abi | [open](records/haskell-keel-abi-d416a882.md) |
+| `hackage_recent-f1a7e3f517941f` | hls-plugin-api | [open](records/haskell-hls-plugin-api-d1d79e30.md) |
 | `hackage_recent-f3b71fb2557cf8` | redis-glob | [open](records/haskell-redis-glob-c0be12d6.md) |
 | `hackage_recent-f5159faf3a88ac` | hpgsql | [open](records/haskell-hpgsql-9568bc40.md) |
 | `hackage_recent-f6957e818cba3b` | hdf5 | [open](records/haskell-hdf5-eab0aa96.md) |
@@ -14960,7 +14978,6 @@
 | `hackage_top_downloads-08a002e1425614` | groundhog | [open](records/haskell-groundhog-f614209d.md) |
 | `hackage_top_downloads-08c7458040fc29` | hw-prim | [open](records/haskell-hw-prim-469f0960.md) |
 | `hackage_top_downloads-08e8b635c4a6fa` | base-prelude | [open](records/haskell-base-prelude-683a3f63.md) |
-| `hackage_top_downloads-093cf7e166c197` | phino | [open](records/haskell-phino-0ffa79f2.md) |
 | `hackage_top_downloads-0944a70fa96b1b` | fasta | [open](records/haskell-fasta-01ab7c49.md) |
 | `hackage_top_downloads-0972cfb82a918e` | not-gloss | [open](records/haskell-not-gloss-7665a3d6.md) |
 | `hackage_top_downloads-0997b911467b73` | network-uri | [open](records/haskell-network-uri-ef1bd1e0.md) |
@@ -15193,6 +15210,7 @@
 | `hackage_top_downloads-34d1bd47caba71` | hspec | [open](records/haskell-hspec-e27e4b9f.md) |
 | `hackage_top_downloads-351a028f9abd85` | repa | [open](records/haskell-repa-86d0d7a7.md) |
 | `hackage_top_downloads-353fafc5727836` | aeson | [open](records/haskell-aeson-7553a0ad.md) |
+| `hackage_top_downloads-35c8682f269846` | parseargs | [open](records/haskell-parseargs-3a08c5f8.md) |
 | `hackage_top_downloads-35d4d87aef79bb` | numhask-space | [open](records/haskell-numhask-space-406df2d9.md) |
 | `hackage_top_downloads-3621f5b4d5beb4` | copilot-core | [open](records/haskell-copilot-core-d0a7ff5a.md) |
 | `hackage_top_downloads-364ed40a1fad56` | strptime | [open](records/haskell-strptime-9631f7c9.md) |
@@ -15282,6 +15300,7 @@
 | `hackage_top_downloads-47dfa1f69ec0ad` | zeromq4-haskell | [open](records/haskell-zeromq4-haskell-8f1953e2.md) |
 | `hackage_top_downloads-481528980f1274` | ghc-prim | [open](records/haskell-ghc-prim-ca8234b1.md) |
 | `hackage_top_downloads-485bec533255a3` | yesod-auth | [open](records/haskell-yesod-auth-20bb32d8.md) |
+| `hackage_top_downloads-486e4edfbe3ac3` | open-browser | [open](records/haskell-open-browser-fead5289.md) |
 | `hackage_top_downloads-48c2be17799111` | cobot-io | [open](records/haskell-cobot-io-65c21faa.md) |
 | `hackage_top_downloads-48efc4a315255b` | warp | [open](records/haskell-warp-caa543f0.md) |
 | `hackage_top_downloads-493d6436805031` | reflex-dom | [open](records/haskell-reflex-dom-7346af6f.md) |
@@ -15429,6 +15448,7 @@
 | `hackage_top_downloads-65e284e4af291e` | hoopl | [open](records/haskell-hoopl-0b4ca46a.md) |
 | `hackage_top_downloads-66394ca5129631` | recursion | [open](records/haskell-recursion-f413e8c1.md) |
 | `hackage_top_downloads-667e35efac2304` | active | [open](records/haskell-active-cffafa52.md) |
+| `hackage_top_downloads-66a078f0d73705` | scripths | [open](records/haskell-scripths-79fd5b51.md) |
 | `hackage_top_downloads-66df62d7e24a2b` | haskell-packages | [open](records/haskell-haskell-packages-240f88dd.md) |
 | `hackage_top_downloads-66ed83388b898d` | filestore | [open](records/haskell-filestore-562a5ad2.md) |
 | `hackage_top_downloads-66faa519263c9e` | gitlab-haskell | [open](records/haskell-gitlab-haskell-3c43f582.md) |
@@ -15522,7 +15542,6 @@
 | `hackage_top_downloads-7840879fe735d9` | composition-prelude | [open](records/haskell-composition-prelude-316852db.md) |
 | `hackage_top_downloads-7852fe7ad343d9` | hspec-api | [open](records/haskell-hspec-api-3cd9511e.md) |
 | `hackage_top_downloads-78a142285d7f37` | web-routing | [open](records/haskell-web-routing-32db4d61.md) |
-| `hackage_top_downloads-78b98a2a69768f` | ghcide | [open](records/haskell-ghcide-c9d6b87b.md) |
 | `hackage_top_downloads-78bf454c607992` | language-ecmascript | [open](records/haskell-language-ecmascript-952591f7.md) |
 | `hackage_top_downloads-7919d4993c46c3` | pqi-native | [open](records/haskell-pqi-native-ce1f41e2.md) |
 | `hackage_top_downloads-79582dd512e033` | tagged | [open](records/haskell-tagged-7a3ae623.md) |
@@ -15641,7 +15660,6 @@
 | `hackage_top_downloads-8fd4be705da6c6` | wai-handler-devel | [open](records/haskell-wai-handler-devel-ce6044d9.md) |
 | `hackage_top_downloads-8fe8039f4e3746` | hourglass | [open](records/haskell-hourglass-ed0a22e4.md) |
 | `hackage_top_downloads-9052529a7ed756` | text-zipper | [open](records/haskell-text-zipper-6676f63d.md) |
-| `hackage_top_downloads-9074f5a2bb9bbb` | hls-graph | [open](records/haskell-hls-graph-dfa7953b.md) |
 | `hackage_top_downloads-90855a0fa4762a` | bzlib-conduit | [open](records/haskell-bzlib-conduit-07300eee.md) |
 | `hackage_top_downloads-90c132ac05dc45` | scc | [open](records/haskell-scc-f184b20e.md) |
 | `hackage_top_downloads-90d5dcdbfa655b` | yesod-persistent | [open](records/haskell-yesod-persistent-425557b9.md) |
@@ -15949,7 +15967,6 @@
 | `hackage_top_downloads-c95667cfa821b1` | wai-predicates | [open](records/haskell-wai-predicates-4078a585.md) |
 | `hackage_top_downloads-c97ca7dd52490b` | pandoc-lua-engine | [open](records/haskell-pandoc-lua-engine-5cac9b02.md) |
 | `hackage_top_downloads-c9928637b0909d` | regex | [open](records/haskell-regex-cba3a20e.md) |
-| `hackage_top_downloads-c9f3000d2a5b8e` | hls-test-utils | [open](records/haskell-hls-test-utils-92298e45.md) |
 | `hackage_top_downloads-c9f53f6ba3cde3` | ekg | [open](records/haskell-ekg-fcd7c279.md) |
 | `hackage_top_downloads-ca3250d8bb65cc` | candid | [open](records/haskell-candid-b5ef5c1b.md) |
 | `hackage_top_downloads-ca98f93b8d10d9` | taffybar | [open](records/haskell-taffybar-a815d4bc.md) |
@@ -16165,7 +16182,6 @@
 | `hackage_top_downloads-f14866c76a95f8` | configurator-pg | [open](records/haskell-configurator-pg-3fb556ca.md) |
 | `hackage_top_downloads-f1a228c08aaa5e` | shakers | [open](records/haskell-shakers-47482154.md) |
 | `hackage_top_downloads-f1a6f8cb3e574c` | urlpath | [open](records/haskell-urlpath-ab5452d5.md) |
-| `hackage_top_downloads-f1a7e3f517941f` | hls-plugin-api | [open](records/haskell-hls-plugin-api-d1d79e30.md) |
 | `hackage_top_downloads-f21f89465fe715` | clash-ghc | [open](records/haskell-clash-ghc-ceb2a556.md) |
 | `hackage_top_downloads-f29dafff16adc1` | bytestring | [open](records/haskell-bytestring-38df8b50.md) |
 | `hackage_top_downloads-f2ccb3d32605e5` | utf8-string | [open](records/haskell-utf8-string-c33ae58d.md) |
@@ -23606,10 +23622,12 @@
 | `octave_packages_index-fe8817ae34d1eb` | csg-dataset | [open](records/octave-csg-dataset-dde70fca.md) |
 | `packagist_search-0013087ed13bd5` | json-mapper/json-mapper | [open](records/php-json-mapper-json-mapper-26b59d7b.md) |
 | `packagist_search-00f67aa6e46b04` | sad_spirit/pg_wrapper | [open](records/php-sad-spirit-pg-wrapper-995e57f3.md) |
+| `packagist_search-01f59dd8614024` | jean85/pretty-package-versions | [open](records/php-jean85-pretty-package-versions-539cc4a4.md) |
 | `packagist_search-02197ab26f39be` | apimatic/jsonmapper | [open](records/php-apimatic-jsonmapper-826b756c.md) |
 | `packagist_search-02eb0264945334` | vrana/adminer | [open](records/php-vrana-adminer-3044f9d5.md) |
 | `packagist_search-0358c05e6ab192` | zendframework/zend-diactoros | [open](records/php-zendframework-zend-diactoros-7fe29681.md) |
 | `packagist_search-0397ca81d2b9f8` | odan/phinx-migrations-generator | [open](records/php-odan-phinx-migrations-generator-b2b7cbde.md) |
+| `packagist_search-03cd0beef1268b` | geometria-lab/rediska | [open](records/php-geometria-lab-rediska-4636a6ab.md) |
 | `packagist_search-054f71d4eb2eec` | adhocore/jwt | [open](records/php-adhocore-jwt-2217f67d.md) |
 | `packagist_search-058c4b07532687` | sentry/sentry | [open](records/php-sentry-sentry-e24752c2.md) |
 | `packagist_search-0605061147c506` | spatie/laravel-database-mail-templates | [open](records/php-spatie-laravel-database-mail-templates-5a744c02.md) |
@@ -23618,16 +23636,20 @@
 | `packagist_search-09b0334594c0f6` | fza/mysql-doctrine-levenshtein-function | [open](records/php-fza-mysql-doctrine-levenshtein-function-0d025840.md) |
 | `packagist_search-0a67993ed856d4` | justinrainbow/json-schema | [open](records/php-justinrainbow-json-schema-e4e9b80b.md) |
 | `packagist_search-0ad3a51b8e9172` | xethron/migrations-generator | [open](records/php-xethron-migrations-generator-bc6d82d9.md) |
+| `packagist_search-0ae74a1f76e519` | 10up/wp_mock | [open](records/php-10up-wp-mock-b1eabddf.md) |
 | `packagist_search-0bb00bdc824e18` | halaxa/json-machine | [open](records/php-halaxa-json-machine-bc71d01f.md) |
+| `packagist_search-0be817fa9cb68d` | phake/phake | [open](records/php-phake-phake-4a35f151.md) |
 | `packagist_search-0beec5a9cc0414` | api-platform/core | [open](records/php-api-platform-core-9c7ba182.md) |
 | `packagist_search-0c0a833b5279ea` | resque/php-resque | [open](records/php-resque-php-resque-ff1ab564.md) |
 | `packagist_search-0c1fdb365ef40f` | greenlion/php-sql-parser | [open](records/php-greenlion-php-sql-parser-ea960c02.md) |
+| `packagist_search-0c7a64c15c7409` | codeception/codeception | [open](records/php-codeception-codeception-b82772cd.md) |
 | `packagist_search-0c89f17cebb42e` | predis/predis | [open](records/php-predis-predis-432594fc.md) |
 | `packagist_search-0ca601d1ee9423` | phpbu/phpbu | [open](records/php-phpbu-phpbu-7877f620.md) |
 | `packagist_search-0cb645f1c147e6` | symfony/http-foundation | [open](records/php-symfony-http-foundation-e0b5e66d.md) |
 | `packagist_search-0d0050b35a857a` | jwadhams/json-logic-php | [open](records/php-jwadhams-json-logic-php-c041e588.md) |
 | `packagist_search-0d094a442557ba` | kigkonsult/icalcreator | [open](records/php-kigkonsult-icalcreator-4d88cb23.md) |
 | `packagist_search-0d47a30e80e48c` | ruckusing/ruckusing-migrations | [open](records/php-ruckusing-ruckusing-migrations-c8060d00.md) |
+| `packagist_search-0eff7dcc276b0d` | giorgiosironi/eris | [open](records/php-giorgiosironi-eris-da37967d.md) |
 | `packagist_search-0f7eb32d342ad5` | spatie/schema-org | [open](records/php-spatie-schema-org-8b24ad7a.md) |
 | `packagist_search-100dc51ba72593` | lukascivil/treewalker | [open](records/php-lukascivil-treewalker-4e8353a4.md) |
 | `packagist_search-115d20016e2a25` | clouddueling/mysqldump-php | [open](records/php-clouddueling-mysqldump-php-6f8042b5.md) |
@@ -23640,6 +23662,7 @@
 | `packagist_search-1325be65ae8c41` | mezzio/mezzio | [open](records/php-mezzio-mezzio-3c631e15.md) |
 | `packagist_search-1587e8d997cc71` | php-curl-class/php-curl-class | [open](records/php-php-curl-class-php-curl-class-b9592d9a.md) |
 | `packagist_search-17a07284f11db7` | fruitcake/php-cors | [open](records/php-fruitcake-php-cors-9d2fc866.md) |
+| `packagist_search-18edf48142b534` | pestphp/pest-plugin-faker | [open](records/php-pestphp-pest-plugin-faker-cc3fbc92.md) |
 | `packagist_search-19441175157787` | aura/sql | [open](records/php-aura-sql-a7b4840d.md) |
 | `packagist_search-194e15c8b839b3` | propel/propel1 | [open](records/php-propel-propel1-7f515659.md) |
 | `packagist_search-1a12ef0e558218` | scienta/doctrine-json-functions | [open](records/php-scienta-doctrine-json-functions-8ba85c2b.md) |
@@ -23647,8 +23670,11 @@
 | `packagist_search-1b0610407f7dc1` | php-http/message-factory | [open](records/php-php-http-message-factory-77a10592.md) |
 | `packagist_search-1b06f94eb67f5f` | doctrine/phpcr-bundle | [open](records/php-doctrine-phpcr-bundle-d4f6cb1e.md) |
 | `packagist_search-1b4538cabc666d` | swaggest/json-schema | [open](records/php-swaggest-json-schema-d3758b41.md) |
+| `packagist_search-1bab96704ab0e4` | blastcloud/guzzler | [open](records/php-blastcloud-guzzler-29d8d56b.md) |
 | `packagist_search-1c1a4b799f3d1c` | amphp/websocket-client | [open](records/php-amphp-websocket-client-ce34b86d.md) |
 | `packagist_search-1c2516b527ddb3` | tpetry/laravel-postgresql-enhanced | [open](records/php-tpetry-laravel-postgresql-enhanced-b452dff5.md) |
+| `packagist_search-1c91e4ace8d98e` | laravel-admin-ext/redis-manager | [open](records/php-laravel-admin-ext-redis-manager-eab3f7f1.md) |
+| `packagist_search-1d06794d77e7d9` | mattiasgeniar/phpunit-query-count-assertions | [open](records/php-mattiasgeniar-phpunit-query-count-assertions-93f70e8d.md) |
 | `packagist_search-1d659ea22db885` | infocyph/dblayer | [open](records/php-infocyph-dblayer-42978eb1.md) |
 | `packagist_search-1dddbc0cae1d63` | itelmenko/laravel-mysql-logger | [open](records/php-itelmenko-laravel-mysql-logger-fb974a1d.md) |
 | `packagist_search-1eb086dfbfad03` | prettus/l5-repository | [open](records/php-prettus-l5-repository-90bc6d5e.md) |
@@ -23663,6 +23689,7 @@
 | `packagist_search-213d538d2734a7` | fig/link-util | [open](records/php-fig-link-util-247088e8.md) |
 | `packagist_search-2195f88c07166f` | league/uri | [open](records/php-league-uri-593be2da.md) |
 | `packagist_search-21ac9aea8a39ed` | fpdo/fluentpdo | [open](records/php-fpdo-fluentpdo-a2759c4f.md) |
+| `packagist_search-21bd3120e13bea` | behat/mink-browserkit-driver | [open](records/php-behat-mink-browserkit-driver-98d8bf49.md) |
 | `packagist_search-23323a9fd48c19` | phpunit/dbunit | [open](records/php-phpunit-dbunit-7e156610.md) |
 | `packagist_search-234d6889979eef` | pomm-project/pomm-symfony-bridge | [open](records/php-pomm-project-pomm-symfony-bridge-0a8b5adb.md) |
 | `packagist_search-235b445b81c7e9` | luxifer/doctrine-functions | [open](records/php-luxifer-doctrine-functions-ee7d45c7.md) |
@@ -23676,6 +23703,7 @@
 | `packagist_search-26c1074bd9962f` | guzzle/guzzle | [open](records/php-guzzle-guzzle-82525725.md) |
 | `packagist_search-2863fc7eb41bf7` | rbdwllr/reallysimplejwt | [open](records/php-rbdwllr-reallysimplejwt-c1a368e9.md) |
 | `packagist_search-29c9cc7170a95c` | colinodell/json5 | [open](records/php-colinodell-json5-439a1c99.md) |
+| `packagist_search-2a0d20f1e447cd` | playwright-php/playwright | [open](records/php-playwright-php-playwright-9003c2a1.md) |
 | `packagist_search-2a797fc741135e` | kalnoy/nestedset | [open](records/php-kalnoy-nestedset-3c3000a9.md) |
 | `packagist_search-2a7d3311b2c363` | patchlevel/rango | [open](records/php-patchlevel-rango-f87ba9d6.md) |
 | `packagist_search-2b67276f533ce2` | swissup/module-search-mysql-legacy | [open](records/php-swissup-module-search-mysql-legacy-c2a43050.md) |
@@ -23683,6 +23711,7 @@
 | `packagist_search-2bee42ecedbbcd` | tpetry/php-mysql-explain | [open](records/php-tpetry-php-mysql-explain-d330ac02.md) |
 | `packagist_search-2dd78f140ae431` | api-platform/jsonld | [open](records/php-api-platform-jsonld-6716bfbc.md) |
 | `packagist_search-2defb951b13069` | iamcal/sql-parser | [open](records/php-iamcal-sql-parser-5374a7b3.md) |
+| `packagist_search-2e90307c4c2e7e` | zaber-dev/laravel-quota | [open](records/php-zaber-dev-laravel-quota-5a5e9635.md) |
 | `packagist_search-2e929560e73c81` | kirschbaum-development/eloquent-power-joins | [open](records/php-kirschbaum-development-eloquent-power-joins-cc67826d.md) |
 | `packagist_search-2f75573cf1cc0d` | thingengineer/mysqli-database-class | [open](records/php-thingengineer-mysqli-database-class-6caf1d6d.md) |
 | `packagist_search-2f840bb5e3fade` | firebase/php-jwt | [open](records/php-firebase-php-jwt-28d387bc.md) |
@@ -23693,9 +23722,11 @@
 | `packagist_search-3200b66b3b44d4` | nette/http | [open](records/php-nette-http-330045c5.md) |
 | `packagist_search-32224ffdbe4fc8` | romanzipp/laravel-queue-monitor | [open](records/php-romanzipp-laravel-queue-monitor-f6c6b771.md) |
 | `packagist_search-325a81ab125a68` | laminas/laminas-db | [open](records/php-laminas-laminas-db-23ec055d.md) |
+| `packagist_search-3262076e47a71c` | pestphp/pest-plugin-browser | [open](records/php-pestphp-pest-plugin-browser-b777b881.md) |
 | `packagist_search-334995e1369f2d` | nightowl/agent | [open](records/php-nightowl-agent-75f8bf6c.md) |
 | `packagist_search-336d3a2b395385` | psr/link | [open](records/php-psr-link-eb89bd05.md) |
 | `packagist_search-3395b31d088efd` | sonata-project/doctrine-extensions | [open](records/php-sonata-project-doctrine-extensions-1bb8bcce.md) |
+| `packagist_search-343ae6f191db1b` | illuminate/testing | [open](records/php-illuminate-testing-c0797d21.md) |
 | `packagist_search-34686fcebb4d6c` | snc/redis-bundle | [open](records/php-snc-redis-bundle-c79c6a6a.md) |
 | `packagist_search-347abfb97b35b2` | alcaeus/mongo-php-adapter | [open](records/php-alcaeus-mongo-php-adapter-ad0d4c6d.md) |
 | `packagist_search-347e6360e0bb51` | nette/database | [open](records/php-nette-database-511f0848.md) |
@@ -23703,11 +23734,19 @@
 | `packagist_search-354ffeef64054c` | ergebnis/json | [open](records/php-ergebnis-json-08febff2.md) |
 | `packagist_search-3624f51ca7833f` | lichtner/fluentpdo | [open](records/php-lichtner-fluentpdo-8329b7d5.md) |
 | `packagist_search-368a08b0ae18d5` | react/http | [open](records/php-react-http-8032846a.md) |
+| `packagist_search-371a6d335204d2` | symfony/test-pack | [open](records/php-symfony-test-pack-540a4fcf.md) |
+| `packagist_search-3729020562229b` | monospice/laravel-redis-sentinel-drivers | [open](records/php-monospice-laravel-redis-sentinel-drivers-75991c02.md) |
 | `packagist_search-372aa80071406f` | php-http/guzzle6-adapter | [open](records/php-php-http-guzzle6-adapter-39d9bc00.md) |
+| `packagist_search-37388795a370a3` | magento/magento2-functional-testing-framework | [open](records/php-magento-magento2-functional-testing-framework-e0c44b79.md) |
 | `packagist_search-3739f330171a0a` | delight-im/db | [open](records/php-delight-im-db-8daad52c.md) |
 | `packagist_search-376965c8ecb7ea` | adodb/adodb-php | [open](records/php-adodb-adodb-php-7c797a72.md) |
 | `packagist_search-38e80a5a69ae0f` | stechstudio/laravel-ssh-tunnel | [open](records/php-stechstudio-laravel-ssh-tunnel-885e4722.md) |
+| `packagist_search-391f0bb36661fb` | hotmeteor/spectator | [open](records/php-hotmeteor-spectator-4c452161.md) |
+| `packagist_search-39ca1a22c09b52` | imbo/behat-api-extension | [open](records/php-imbo-behat-api-extension-0d166f35.md) |
+| `packagist_search-3a0d8ef5243031` | phpunit/phpunit | [open](records/php-phpunit-phpunit-ae09f04f.md) |
+| `packagist_search-3a66f253dd8511` | matthiasnoback/symfony-config-test | [open](records/php-matthiasnoback-symfony-config-test-774f98bd.md) |
 | `packagist_search-3b6616a94e2abf` | marcin-orlowski/laravel-api-response-builder | [open](records/php-marcin-orlowski-laravel-api-response-builder-91443313.md) |
+| `packagist_search-3bcccdc0e146b7` | nette/tester | [open](records/php-nette-tester-7b4bf718.md) |
 | `packagist_search-3c637656f113ae` | kitloong/laravel-migrations-generator | [open](records/php-kitloong-laravel-migrations-generator-a6a02fbd.md) |
 | `packagist_search-3ed4dee4092856` | clancats/hydrahon | [open](records/php-clancats-hydrahon-6afcd625.md) |
 | `packagist_search-3f99b2b653bef1` | mashape/unirest-php | [open](records/php-mashape-unirest-php-91a81352.md) |
@@ -23716,10 +23755,12 @@
 | `packagist_search-41fc481ccc8150` | smi2/phpclickhouse | [open](records/php-smi2-phpclickhouse-1694f82f.md) |
 | `packagist_search-42609f53eba458` | iconify/json | [open](records/php-iconify-json-90cf51ea.md) |
 | `packagist_search-428319e32b824e` | erik-dubbelboer/php-redis-admin | [open](records/php-erik-dubbelboer-php-redis-admin-e9d560c6.md) |
+| `packagist_search-42d4ac59754958` | javibravo/simpleue | [open](records/php-javibravo-simpleue-8a11d43c.md) |
 | `packagist_search-43b0c85a765419` | jane-php/json-schema-runtime | [open](records/php-jane-php-json-schema-runtime-b6e744d5.md) |
 | `packagist_search-43d30caedebaa8` | event-engine/php-postgres-document-store | [open](records/php-event-engine-php-postgres-document-store-428ee4d2.md) |
 | `packagist_search-446e389c61c3b8` | ezsql/ezsql | [open](records/php-ezsql-ezsql-96ed119a.md) |
 | `packagist_search-44b7e7d40cb451` | davedevelopment/phpmig | [open](records/php-davedevelopment-phpmig-1ef95245.md) |
+| `packagist_search-452f17cf6f4b06` | antecedent/patchwork | [open](records/php-antecedent-patchwork-6b16f6b8.md) |
 | `packagist_search-4538832b144a54` | symfony/http-kernel | [open](records/php-symfony-http-kernel-c8ae710d.md) |
 | `packagist_search-4548102dd8bace` | react/mysql | [open](records/php-react-mysql-6b6a67ec.md) |
 | `packagist_search-4561322119e9f3` | intaro/hstore-extension | [open](records/php-intaro-hstore-extension-bad5a141.md) |
@@ -23727,6 +23768,7 @@
 | `packagist_search-46254f591b3da1` | spatie/valuestore | [open](records/php-spatie-valuestore-1ea1a29f.md) |
 | `packagist_search-47868dc6b2e304` | gctc-ntgc/laravel-scout-postgres-tsvector | [open](records/php-gctc-ntgc-laravel-scout-postgres-tsvector-e71b4f05.md) |
 | `packagist_search-479d44c505b952` | spiral/roadrunner-http | [open](records/php-spiral-roadrunner-http-bd96a5b6.md) |
+| `packagist_search-47ca2b5fe3566c` | liuggio/fastest | [open](records/php-liuggio-fastest-a71c05c0.md) |
 | `packagist_search-48b881dec7cf19` | cachewerk/relay | [open](records/php-cachewerk-relay-fd3b6a06.md) |
 | `packagist_search-498e8fb3e66b0c` | mtdowling/jmespath.php | [open](records/php-mtdowling-jmespath-php-68ef74bd.md) |
 | `packagist_search-49d8efac214afe` | symfony/http-client-contracts | [open](records/php-symfony-http-client-contracts-f68b996b.md) |
@@ -23736,14 +23778,23 @@
 | `packagist_search-4aeda49299bc97` | psr/http-factory | [open](records/php-psr-http-factory-50650fcb.md) |
 | `packagist_search-4b72a6726db808` | mysql-workbench-schema-exporter/mysql-workbench-schema-exporter | [open](records/php-mysql-workbench-schema-exporter-mysql-workbench-schema-exporter-df02abc9.md) |
 | `packagist_search-4b97bfeb2dce6a` | amphp/http-server | [open](records/php-amphp-http-server-fc178c38.md) |
+| `packagist_search-4bad8fc85fa9c0` | pestphp/pest-plugin-livewire | [open](records/php-pestphp-pest-plugin-livewire-038953ce.md) |
+| `packagist_search-4bb9b3754a6cc4` | php-mock/php-mock | [open](records/php-php-mock-php-mock-2979ac6c.md) |
 | `packagist_search-4bc63beb1eb305` | kitar/laravel-dynamodb | [open](records/php-kitar-laravel-dynamodb-e55ad8fd.md) |
 | `packagist_search-4bfc23c8bc2cee` | amphp/http | [open](records/php-amphp-http-d35d6e59.md) |
 | `packagist_search-4c397738f010f9` | workerman/mysql | [open](records/php-workerman-mysql-a03072d8.md) |
 | `packagist_search-4cf46cdb9ac208` | silverstripe/postgresql | [open](records/php-silverstripe-postgresql-8abfc6a5.md) |
+| `packagist_search-4d087b245bc53e` | iazaran/smart-cache | [open](records/php-iazaran-smart-cache-42afbaec.md) |
 | `packagist_search-4dab37a17f643e` | wikimedia/composer-merge-plugin | [open](records/php-wikimedia-composer-merge-plugin-a6914da8.md) |
+| `packagist_search-4dd0929c9e7b7d` | danhunsaker/flysystem-redis | [open](records/php-danhunsaker-flysystem-redis-ea0ce306.md) |
+| `packagist_search-4deaf3ce1059e6` | pestphp/pest | [open](records/php-pestphp-pest-dc1dab35.md) |
 | `packagist_search-4df0d68af7fb2a` | lchrusciel/api-test-case | [open](records/php-lchrusciel-api-test-case-b764f954.md) |
+| `packagist_search-4eb15f039e9561` | codeigniter4/queue | [open](records/php-codeigniter4-queue-8fa6ceff.md) |
 | `packagist_search-4ef23a862e6fb2` | dg/mysql-dump | [open](records/php-dg-mysql-dump-3721c8b3.md) |
+| `packagist_search-4f6c29e66a5b67` | pestphp/pest-plugin-arch | [open](records/php-pestphp-pest-plugin-arch-94c527f3.md) |
 | `packagist_search-506f7bdbe05993` | nikolaposa/rate-limit | [open](records/php-nikolaposa-rate-limit-e33c73a3.md) |
+| `packagist_search-50eeb19ec54e16` | cache/predis-adapter | [open](records/php-cache-predis-adapter-d15608ff.md) |
+| `packagist_search-512aeca4fbc660` | phpunit/php-code-coverage | [open](records/php-phpunit-php-code-coverage-8e22e1f3.md) |
 | `packagist_search-5140b5bdc31254` | symfony/ai-store | [open](records/php-symfony-ai-store-946c031c.md) |
 | `packagist_search-5148d72bba75b8` | amphp/http-client | [open](records/php-amphp-http-client-81576c4b.md) |
 | `packagist_search-519a9c5113f1a2` | ergebnis/composer-normalize | [open](records/php-ergebnis-composer-normalize-663e0436.md) |
@@ -23757,31 +23808,40 @@
 | `packagist_search-540d109b9734db` | phootwork/collection | [open](records/php-phootwork-collection-79743681.md) |
 | `packagist_search-5429d04217f899` | colinmollenhour/php-redis-session-abstract | [open](records/php-colinmollenhour-php-redis-session-abstract-d27c499e.md) |
 | `packagist_search-5443fafcdf8b8b` | league/uri-interfaces | [open](records/php-league-uri-interfaces-bc5d7a7b.md) |
+| `packagist_search-5448cc6611fbaa` | pestphp/pest-plugin-drift | [open](records/php-pestphp-pest-plugin-drift-886d1b08.md) |
 | `packagist_search-548f63b2203d15` | kkomelin/laravel-translatable-string-exporter | [open](records/php-kkomelin-laravel-translatable-string-exporter-bb29c7cb.md) |
+| `packagist_search-557b2b70b2e036` | allure-framework/allure-codeception | [open](records/php-allure-framework-allure-codeception-d31ef854.md) |
 | `packagist_search-56207564360e9e` | felixfbecker/advanced-json-rpc | [open](records/php-felixfbecker-advanced-json-rpc-c3236b0e.md) |
 | `packagist_search-56389683549893` | tpetry/laravel-mysql-explain | [open](records/php-tpetry-laravel-mysql-explain-332c5cb3.md) |
 | `packagist_search-566368c3cdfa99` | php-http/stopwatch-plugin | [open](records/php-php-http-stopwatch-plugin-317d69fa.md) |
 | `packagist_search-56bb3bfffc5865` | ramadan/custom-fresh | [open](records/php-ramadan-custom-fresh-4161943f.md) |
+| `packagist_search-56e7b7c197a799` | php-mock/php-mock-phpunit | [open](records/php-php-mock-php-mock-phpunit-4c0fde66.md) |
 | `packagist_search-572abdad743e4c` | friendsofsymfony/http-cache-bundle | [open](records/php-friendsofsymfony-http-cache-bundle-5a46936d.md) |
+| `packagist_search-57341d0f154c51` | elcobvg/laravel-opcache | [open](records/php-elcobvg-laravel-opcache-f858af5a.md) |
 | `packagist_search-57fdda9e81a029` | vcian/laravel-db-auditor | [open](records/php-vcian-laravel-db-auditor-b65c99b5.md) |
 | `packagist_search-5830d390c510c5` | kodus/sql-split | [open](records/php-kodus-sql-split-7f3c3843.md) |
 | `packagist_search-583e4047c4e36c` | crell/serde | [open](records/php-crell-serde-afcac737.md) |
 | `packagist_search-58fc472ed248e6` | semsol/arc2 | [open](records/php-semsol-arc2-a56c62ea.md) |
 | `packagist_search-598b75f320c06c` | facile-it/doctrine-mysql-come-back | [open](records/php-facile-it-doctrine-mysql-come-back-83ad3b2f.md) |
+| `packagist_search-5b5da8ae0c4d88` | brianium/paratest | [open](records/php-brianium-paratest-5d2ff7f1.md) |
 | `packagist_search-5be79e68b0545f` | danielme85/laravel-log-to-db | [open](records/php-danielme85-laravel-log-to-db-d92de2a6.md) |
 | `packagist_search-5c5880bc3b09ce` | flow/jsonpath | [open](records/php-flow-jsonpath-8d58112b.md) |
 | `packagist_search-5d4443caf9cfce` | intaro/custom-index-bundle | [open](records/php-intaro-custom-index-bundle-6f394c76.md) |
 | `packagist_search-5d5576fed22929` | dama/doctrine-test-bundle | [open](records/php-dama-doctrine-test-bundle-4431d726.md) |
+| `packagist_search-5d8b2b08ba6b57` | phpmetrics/phpmetrics | [open](records/php-phpmetrics-phpmetrics-6539e460.md) |
 | `packagist_search-5d9f0feb35c829` | simplon/mysql | [open](records/php-simplon-mysql-269f586b.md) |
 | `packagist_search-5db504f19e0206` | illuminate/database | [open](records/php-illuminate-database-33972059.md) |
 | `packagist_search-5dc939b573d1f3` | ecotone/pdo-event-sourcing | [open](records/php-ecotone-pdo-event-sourcing-595186a1.md) |
 | `packagist_search-5eee26d663a193` | symfony/routing | [open](records/php-symfony-routing-cc8136f9.md) |
+| `packagist_search-5f7b71f20b006e` | stfalcon-studio/doctrine-redis-cache-bundle | [open](records/php-stfalcon-studio-doctrine-redis-cache-bundle-a8c4dcbe.md) |
+| `packagist_search-5ffadc073490de` | mmeyer2k/redistree | [open](records/php-mmeyer2k-redistree-e69e6acb.md) |
 | `packagist_search-602fa68b97871c` | hassankhan/config | [open](records/php-hassankhan-config-e8dbff76.md) |
 | `packagist_search-60a9a6a58f4f2c` | jv2222/ezsql | [open](records/php-jv2222-ezsql-2785846a.md) |
 | `packagist_search-60d98f80924e70` | tpetry/laravel-query-expressions | [open](records/php-tpetry-laravel-query-expressions-63bdd853.md) |
 | `packagist_search-617b84038aa127` | symfony/redis-messenger | [open](records/php-symfony-redis-messenger-51144e05.md) |
 | `packagist_search-61a5890cf187fd` | utopia-php/database | [open](records/php-utopia-php-database-d83a00f7.md) |
 | `packagist_search-622fe354ada881` | easyswoole/mysqli | [open](records/php-easyswoole-mysqli-e0a059d6.md) |
+| `packagist_search-628ad58c449f5c` | gos/pubsub-router-bundle | [open](records/php-gos-pubsub-router-bundle-8f784236.md) |
 | `packagist_search-62c82d10138bda` | ymigval/laravel-model-cache | [open](records/php-ymigval-laravel-model-cache-ba95ee04.md) |
 | `packagist_search-62d80a58204fc2` | popphp/pop-db | [open](records/php-popphp-pop-db-53f4314c.md) |
 | `packagist_search-62f20804692300` | seinopsys/postgresql-database-class | [open](records/php-seinopsys-postgresql-database-class-d8d59f7f.md) |
@@ -23791,12 +23851,17 @@
 | `packagist_search-63d0a950ff21f0` | netresearch/jsonmapper | [open](records/php-netresearch-jsonmapper-d5829247.md) |
 | `packagist_search-6445347810c529` | dimsav/laravel-translatable | [open](records/php-dimsav-laravel-translatable-65fc53e5.md) |
 | `packagist_search-6446f48945450c` | cycle/orm | [open](records/php-cycle-orm-cca30184.md) |
+| `packagist_search-64ed678789e398` | mismatch/opentelemetry-auto-redis | [open](records/php-mismatch-opentelemetry-auto-redis-b7ab32c8.md) |
 | `packagist_search-652a56de6096cd` | swaggest/json-diff | [open](records/php-swaggest-json-diff-a3d362a1.md) |
+| `packagist_search-658e22514364f7` | friends-of-behat/mink-browserkit-driver | [open](records/php-friends-of-behat-mink-browserkit-driver-48ebfd65.md) |
 | `packagist_search-65d46fb2fa0da1` | monolog/monolog | [open](records/php-monolog-monolog-1118a746.md) |
 | `packagist_search-65f02ba54f92c1` | colshrapnel/safemysql | [open](records/php-colshrapnel-safemysql-08737e8f.md) |
+| `packagist_search-66087fce9f13de` | laravel/browser-kit-testing | [open](records/php-laravel-browser-kit-testing-70553ecc.md) |
 | `packagist_search-6625a8a77114c0` | simplethings/entity-audit-bundle | [open](records/php-simplethings-entity-audit-bundle-48023dbc.md) |
 | `packagist_search-66692b6969d421` | opensoft/doctrine-postgres-types | [open](records/php-opensoft-doctrine-postgres-types-1f091a98.md) |
 | `packagist_search-669493334e9706` | conserto/pomm-symfony-bridge | [open](records/php-conserto-pomm-symfony-bridge-b8bb2849.md) |
+| `packagist_search-6805bf0e6d2d41` | moodlehq/moodle-plugin-ci | [open](records/php-moodlehq-moodle-plugin-ci-baf3db8b.md) |
+| `packagist_search-6819c8b094d6a6` | phpspec/phpspec | [open](records/php-phpspec-phpspec-7cfc50d3.md) |
 | `packagist_search-685ad47bdb6815` | franzose/closure-table | [open](records/php-franzose-closure-table-be4e2b17.md) |
 | `packagist_search-6870d2ac6736af` | typesense/typesense-php | [open](records/php-typesense-typesense-php-32ad1fb3.md) |
 | `packagist_search-68e35d31222f9f` | makinacorpus/query-builder | [open](records/php-makinacorpus-query-builder-9bee5941.md) |
@@ -23808,8 +23873,11 @@
 | `packagist_search-6ad9ced1645959` | php-http/curl-client | [open](records/php-php-http-curl-client-e0fc78ef.md) |
 | `packagist_search-6b048428dff585` | cheprasov/php-redis-client | [open](records/php-cheprasov-php-redis-client-215f144c.md) |
 | `packagist_search-6b0618412c2f2f` | hprose/hprose | [open](records/php-hprose-hprose-1ca8fdc8.md) |
+| `packagist_search-6b501bf500c560` | easyswoole/redis | [open](records/php-easyswoole-redis-eb904c50.md) |
 | `packagist_search-6be8600fe347c0` | doctrine/migrations | [open](records/php-doctrine-migrations-dee1bc21.md) |
+| `packagist_search-6d691ed7bcf3d8` | typo3/testing-framework | [open](records/php-typo3-testing-framework-017dfea8.md) |
 | `packagist_search-6dc8064dca16d2` | psr/http-client | [open](records/php-psr-http-client-bfa9b46c.md) |
+| `packagist_search-6e6ca9d355f914` | orchestra/testbench | [open](records/php-orchestra-testbench-b6262123.md) |
 | `packagist_search-6f696003d3c1d1` | symfony/psr-http-message-bridge | [open](records/php-symfony-psr-http-message-bridge-38073700.md) |
 | `packagist_search-6f706aac283c16` | cakephp/database | [open](records/php-cakephp-database-2ab6ccae.md) |
 | `packagist_search-70014e7ecd11a6` | pcrov/jsonreader | [open](records/php-pcrov-jsonreader-fceb8491.md) |
@@ -23831,25 +23899,36 @@
 | `packagist_search-7476ab22187eb4` | genealabs/laravel-optimized-postgres | [open](records/php-genealabs-laravel-optimized-postgres-63e886b9.md) |
 | `packagist_search-74b2b15b01b3db` | helmich/phpunit-json-assert | [open](records/php-helmich-phpunit-json-assert-8371100c.md) |
 | `packagist_search-7534e6e47fbb96` | desarrolla2/cache | [open](records/php-desarrolla2-cache-914991d8.md) |
+| `packagist_search-761c19c93a3982` | daylerees/scientist | [open](records/php-daylerees-scientist-40ffdcb5.md) |
 | `packagist_search-7703abe9187b94` | cakephp/migrations | [open](records/php-cakephp-migrations-c5a7f5b8.md) |
 | `packagist_search-777ffda68de745` | amphp/hpack | [open](records/php-amphp-hpack-880a63cd.md) |
+| `packagist_search-77dee9a33aacd6` | pestphp/pest-plugin-mutate | [open](records/php-pestphp-pest-plugin-mutate-4b5e2873.md) |
+| `packagist_search-782d4a2e4f82fd` | codeception/module-redis | [open](records/php-codeception-module-redis-3b360b57.md) |
 | `packagist_search-795af9f08a656c` | brokenice/laravel-mysql-partition | [open](records/php-brokenice-laravel-mysql-partition-8e56633e.md) |
 | `packagist_search-79e0e240f0503f` | enqueue/redis | [open](records/php-enqueue-redis-d85b3f06.md) |
 | `packagist_search-79e4a9366098dd` | danog/advanced-json-rpc | [open](records/php-danog-advanced-json-rpc-5d7c3681.md) |
+| `packagist_search-7a314f315afa17` | orchestra/workbench | [open](records/php-orchestra-workbench-124aad78.md) |
 | `packagist_search-7b69b994b6ff3c` | creof/doctrine2-spatial | [open](records/php-creof-doctrine2-spatial-64887f8f.md) |
 | `packagist_search-7b885eed74714c` | robmorgan/phinx | [open](records/php-robmorgan-phinx-b91e27f3.md) |
 | `packagist_search-7c439e85f4b532` | mikehenrty/thin-pdo-wrapper | [open](records/php-mikehenrty-thin-pdo-wrapper-4d191be5.md) |
 | `packagist_search-7d75b81571d1c7` | willdurand/jsonp-callback-validator | [open](records/php-willdurand-jsonp-callback-validator-e6c17b3a.md) |
+| `packagist_search-7dae858239a99d` | matthiasnoback/symfony-dependency-injection-test | [open](records/php-matthiasnoback-symfony-dependency-injection-test-de55d545.md) |
 | `packagist_search-7e5dad3f65cebf` | kdyby/redis | [open](records/php-kdyby-redis-4d6dcac6.md) |
 | `packagist_search-7eb4ed7ab122e7` | violet/streaming-json-encoder | [open](records/php-violet-streaming-json-encoder-7cf75e37.md) |
+| `packagist_search-7edc77bbd65cbb` | behat/behat | [open](records/php-behat-behat-1ac66d63.md) |
 | `packagist_search-7f400fe0889995` | shipmonk/doctrine-mysql-index-hints | [open](records/php-shipmonk-doctrine-mysql-index-hints-ef71703d.md) |
 | `packagist_search-7f58f538fd4f43` | psr/http-server-handler | [open](records/php-psr-http-server-handler-72848de9.md) |
+| `packagist_search-800f4cbbae56f4` | yangusik/laravel-balanced-queue | [open](records/php-yangusik-laravel-balanced-queue-482161ba.md) |
+| `packagist_search-825c34e224fb78` | pestphp/pest-plugin-type-coverage | [open](records/php-pestphp-pest-plugin-type-coverage-b6cd8372.md) |
 | `packagist_search-8270e4b911b20c` | pomm-project/pomm-bundle | [open](records/php-pomm-project-pomm-bundle-2ec2702b.md) |
+| `packagist_search-82a9405d21f707` | nesk/puphpeteer | [open](records/php-nesk-puphpeteer-1e104c3b.md) |
 | `packagist_search-8315533952b4da` | guzzlehttp/psr7 | [open](records/php-guzzlehttp-psr7-bdaca48c.md) |
 | `packagist_search-83341300cf856f` | softcreatr/jsonpath | [open](records/php-softcreatr-jsonpath-ea8c86ed.md) |
 | `packagist_search-838a3e9a2cf614` | baum/baum | [open](records/php-baum-baum-8c52a975.md) |
 | `packagist_search-83bb5881b06883` | symfony/web-link | [open](records/php-symfony-web-link-f93f202b.md) |
+| `packagist_search-83d5cc2caf7e20` | massivescale/celery-php | [open](records/php-massivescale-celery-php-f5a95110.md) |
 | `packagist_search-8414a70a6b21d2` | web-token/jwt-framework | [open](records/php-web-token-jwt-framework-3b6bafa5.md) |
+| `packagist_search-8424bd09e8b66f` | brain/monkey | [open](records/php-brain-monkey-b87c3ad0.md) |
 | `packagist_search-84ac5a545f6cb8` | stefangabos/zebra_session | [open](records/php-stefangabos-zebra-session-01f22254.md) |
 | `packagist_search-85ad86e1b4ddbb` | bosnadev/database | [open](records/php-bosnadev-database-57d642fb.md) |
 | `packagist_search-869d39f28455b0` | dflydev/fig-cookies | [open](records/php-dflydev-fig-cookies-8c9de25d.md) |
@@ -23859,7 +23938,11 @@
 | `packagist_search-882e80783a5b8f` | laudis/neo4j-php-client | [open](records/php-laudis-neo4j-php-client-1ded9f36.md) |
 | `packagist_search-883a4fddf94ea5` | cheprasov/php-redis-lock | [open](records/php-cheprasov-php-redis-lock-a59d8b83.md) |
 | `packagist_search-8913b1ce5bcc58` | nelmio/security-bundle | [open](records/php-nelmio-security-bundle-c1ae4a9d.md) |
+| `packagist_search-8949d274ee47e5` | sti3bas/laravel-scout-array-driver | [open](records/php-sti3bas-laravel-scout-array-driver-aae1e4ec.md) |
 | `packagist_search-8953bc9c26324f` | vpominchuk/laravel-mysql-use-index-scope | [open](records/php-vpominchuk-laravel-mysql-use-index-scope-a8d72406.md) |
+| `packagist_search-8970948ea2502f` | liip/test-fixtures-bundle | [open](records/php-liip-test-fixtures-bundle-4b608383.md) |
+| `packagist_search-8a70ef06d0a078` | donatj/mock-webserver | [open](records/php-donatj-mock-webserver-304f495f.md) |
+| `packagist_search-8b6d4fb6cd9002` | dg/bypass-finals | [open](records/php-dg-bypass-finals-cfd4af36.md) |
 | `packagist_search-8b8888b84757bb` | plannr/laravel-fast-refresh-database | [open](records/php-plannr-laravel-fast-refresh-database-a09e1ac5.md) |
 | `packagist_search-8b9026f6dc8a3b` | bepsvpt/secure-headers | [open](records/php-bepsvpt-secure-headers-aac6258b.md) |
 | `packagist_search-8bc45a33340166` | wildbit/postmark-php | [open](records/php-wildbit-postmark-php-ec56c007.md) |
@@ -23871,8 +23954,10 @@
 | `packagist_search-8e14136c473b23` | wazaari/monolog-mysql | [open](records/php-wazaari-monolog-mysql-db23bd79.md) |
 | `packagist_search-8e189ab5e6181c` | phpmyadmin/phpmyadmin | [open](records/php-phpmyadmin-phpmyadmin-449ed072.md) |
 | `packagist_search-8edf854ee08faa` | pecee/pixie | [open](records/php-pecee-pixie-da5b1db3.md) |
+| `packagist_search-8fcb54822f32f9` | spryker/redis | [open](records/php-spryker-redis-e4ae7c64.md) |
 | `packagist_search-8fd73637c2d4b9` | laravel-lang/json-fallback | [open](records/php-laravel-lang-json-fallback-e2aa1d32.md) |
 | `packagist_search-904ddb7e447516` | kg-bot/laravel-localization-to-vue | [open](records/php-kg-bot-laravel-localization-to-vue-23319f5b.md) |
+| `packagist_search-9138be9feae468` | ta-tikoma/phpunit-architecture-test | [open](records/php-ta-tikoma-phpunit-architecture-test-7a5761d5.md) |
 | `packagist_search-918982b9f67405` | codezero/laravel-unique-translation | [open](records/php-codezero-laravel-unique-translation-c1518c57.md) |
 | `packagist_search-9197155b191bef` | contributte/redis | [open](records/php-contributte-redis-588fae9b.md) |
 | `packagist_search-92ed84b5cdf154` | laravelbook/ardent | [open](records/php-laravelbook-ardent-367290df.md) |
@@ -23882,12 +23967,17 @@
 | `packagist_search-93a97794aa9c1d` | foolz/sphinxql-query-builder | [open](records/php-foolz-sphinxql-query-builder-f2a8d804.md) |
 | `packagist_search-93b6e3db242e3d` | nocarrier/hal | [open](records/php-nocarrier-hal-c7a2f325.md) |
 | `packagist_search-94158b05db6df4` | jonaspauleta/scout-postgres | [open](records/php-jonaspauleta-scout-postgres-b930655e.md) |
+| `packagist_search-945f382717a725` | intaro/pinba-bundle | [open](records/php-intaro-pinba-bundle-cca9b5a1.md) |
 | `packagist_search-94b3f2dd253c3b` | cache/redis-adapter | [open](records/php-cache-redis-adapter-829ec424.md) |
 | `packagist_search-94e995fee2c6f4` | sentry/sentry-laravel | [open](records/php-sentry-sentry-laravel-0b204dcb.md) |
+| `packagist_search-94fe36f4578f71` | laravel/dusk | [open](records/php-laravel-dusk-593038fb.md) |
+| `packagist_search-95241e39b83b27` | pestphp/pest-plugin | [open](records/php-pestphp-pest-plugin-d2cd7c87.md) |
 | `packagist_search-95c87fa25800b2` | namoshek/laravel-redis-sentinel | [open](records/php-namoshek-laravel-redis-sentinel-de0df3e6.md) |
 | `packagist_search-9600938e861260` | mpyw/laravel-database-advisory-lock | [open](records/php-mpyw-laravel-database-advisory-lock-b3e478f5.md) |
+| `packagist_search-9679e63bd9c902` | swayok/alternative-laravel-cache | [open](records/php-swayok-alternative-laravel-cache-ad5cf391.md) |
 | `packagist_search-969b2a85e3fffd` | macfja/redisearch | [open](records/php-macfja-redisearch-b901efab.md) |
 | `packagist_search-9703ca6cdee632` | flagception/database-activator | [open](records/php-flagception-database-activator-0b680ed6.md) |
+| `packagist_search-971c303820e0c3` | zoon/puphpeteer | [open](records/php-zoon-puphpeteer-a8c5374b.md) |
 | `packagist_search-9785398a465142` | pomm-project/foundation | [open](records/php-pomm-project-foundation-0113f4ad.md) |
 | `packagist_search-979576a7a2cda9` | pmatseykanets/laravel-scout-postgres | [open](records/php-pmatseykanets-laravel-scout-postgres-cd338bbb.md) |
 | `packagist_search-97fbead4a021eb` | flow-php/postgresql | [open](records/php-flow-php-postgresql-59482fb5.md) |
@@ -23895,30 +23985,41 @@
 | `packagist_search-98bc9bcae4fb69` | nyholm/dsn | [open](records/php-nyholm-dsn-bbbaf9cc.md) |
 | `packagist_search-99b379e1190de4` | rah/danpu | [open](records/php-rah-danpu-a4ad92c6.md) |
 | `packagist_search-99e4ddd9aa443d` | laminas/laminas-httphandlerrunner | [open](records/php-laminas-laminas-httphandlerrunner-3529398e.md) |
+| `packagist_search-9a2dc3e28959e7` | league/factory-muffin-faker | [open](records/php-league-factory-muffin-faker-4c5a7b21.md) |
 | `packagist_search-9ad106c44a14a2` | cycle/database | [open](records/php-cycle-database-4c2ca6db.md) |
 | `packagist_search-9ae29e9f57f5ee` | heyosseus/vacuum | [open](records/php-heyosseus-vacuum-58e7dceb.md) |
+| `packagist_search-9b4db37c2e594c` | praatmetdedokter/pulse-redis-monitor | [open](records/php-praatmetdedokter-pulse-redis-monitor-78424eb9.md) |
 | `packagist_search-9ba7d1556e32aa` | beberlei/doctrineextensions | [open](records/php-beberlei-doctrineextensions-98ec0d50.md) |
 | `packagist_search-9c24697b849769` | nahid/jsonq | [open](records/php-nahid-jsonq-448c88bc.md) |
 | `packagist_search-9c2e98298ce3ae` | illuminate/http | [open](records/php-illuminate-http-d6684101.md) |
 | `packagist_search-9cda0a077ae6ea` | sonata-project/cache | [open](records/php-sonata-project-cache-4b7383ff.md) |
 | `packagist_search-9d754a09df923a` | orangehill/iseed | [open](records/php-orangehill-iseed-268429e1.md) |
 | `packagist_search-9d79a7d85e2740` | dg/adminer | [open](records/php-dg-adminer-db0d0065.md) |
+| `packagist_search-9db5a54bc450a8` | cmsig/seal-symfony-bundle | [open](records/php-cmsig-seal-symfony-bundle-d5e60961.md) |
 | `packagist_search-9e87330c12cfae` | grimzy/laravel-mysql-spatial | [open](records/php-grimzy-laravel-mysql-spatial-da4c5240.md) |
 | `packagist_search-9e8a8127d6ef21` | php-open-source-saver/jwt-auth | [open](records/php-php-open-source-saver-jwt-auth-36479751.md) |
 | `packagist_search-9f2cf43196f823` | spatie/laravel-json-api-paginate | [open](records/php-spatie-laravel-json-api-paginate-804681c1.md) |
 | `packagist_search-9f5a8ca95b6502` | markhilton/monolog-mysql | [open](records/php-markhilton-monolog-mysql-9ec8d097.md) |
 | `packagist_search-9fb735d66c5eb9` | aura/sqlquery | [open](records/php-aura-sqlquery-18182d51.md) |
 | `packagist_search-a18936e712d151` | datto/json-rpc | [open](records/php-datto-json-rpc-18bf5447.md) |
+| `packagist_search-a1928d8c9322df` | codedungeon/phpunit-result-printer | [open](records/php-codedungeon-phpunit-result-printer-b7a76b00.md) |
 | `packagist_search-a1b70ef540582d` | guzzlehttp/guzzle | [open](records/php-guzzlehttp-guzzle-8c3344ec.md) |
+| `packagist_search-a21a6219ee0728` | pestphp/pest-plugin-stressless | [open](records/php-pestphp-pest-plugin-stressless-faa247c1.md) |
 | `packagist_search-a31020eaddab9c` | spatie/db-dumper | [open](records/php-spatie-db-dumper-9aea25f6.md) |
 | `packagist_search-a3372859b6ce44` | nette/utils | [open](records/php-nette-utils-bd91eee8.md) |
 | `packagist_search-a340a09068ae00` | php-http/httplug | [open](records/php-php-http-httplug-b4ccf6d5.md) |
+| `packagist_search-a4008aa6354efb` | jenner/redis_sentinel | [open](records/php-jenner-redis-sentinel-b1794200.md) |
+| `packagist_search-a47cea4bb2ae18` | shipmonk/coverage-guard | [open](records/php-shipmonk-coverage-guard-c399e33b.md) |
+| `packagist_search-a4a9022e1d134d` | kamisama/php-resque-ex | [open](records/php-kamisama-php-resque-ex-0763127e.md) |
+| `packagist_search-a4fdbba1d495ec` | mkorkmaz/redislabs-rejson | [open](records/php-mkorkmaz-redislabs-rejson-2d9cbf6b.md) |
 | `packagist_search-a5300629148445` | api-platform/json-schema | [open](records/php-api-platform-json-schema-12b34fe2.md) |
 | `packagist_search-a6ba44cd603dc3` | jms/serializer-bundle | [open](records/php-jms-serializer-bundle-55d47cb4.md) |
 | `packagist_search-a83abf0f1217e0` | dshafik/php7-mysql-shim | [open](records/php-dshafik-php7-mysql-shim-bf7e43fb.md) |
 | `packagist_search-a8647f61d7adf4` | beste/json | [open](records/php-beste-json-8432c87b.md) |
 | `packagist_search-a8dffb4ec84bd0` | dg/adminer-custom | [open](records/php-dg-adminer-custom-5ca2de1c.md) |
 | `packagist_search-a9b35df6fa6a7b` | dekor/php-array-table | [open](records/php-dekor-php-array-table-39b979f5.md) |
+| `packagist_search-aa0c33bca3b33c` | infection/infection | [open](records/php-infection-infection-5cb0e178.md) |
+| `packagist_search-aa36fa69fc59bd` | symfony/panther | [open](records/php-symfony-panther-1198f910.md) |
 | `packagist_search-aa39da481972df` | nette/nette | [open](records/php-nette-nette-b634c78e.md) |
 | `packagist_search-aafd7639eb8410` | galbar/jsonpath | [open](records/php-galbar-jsonpath-2222dc51.md) |
 | `packagist_search-ab37fa23ffeb85` | cerbero/json-parser | [open](records/php-cerbero-json-parser-38e82bf8.md) |
@@ -23927,10 +24028,14 @@
 | `packagist_search-ac93b89bee0e2e` | clue/redis-react | [open](records/php-clue-redis-react-72ed1fe7.md) |
 | `packagist_search-acd170080cbeb9` | timacdonald/json-api | [open](records/php-timacdonald-json-api-1a03aab9.md) |
 | `packagist_search-acd7e4571b2214` | amphp/postgres | [open](records/php-amphp-postgres-91a1ac9b.md) |
+| `packagist_search-ace47c944efe34` | enqueue/null | [open](records/php-enqueue-null-e2cf17df.md) |
 | `packagist_search-ad02385f59721f` | arvenil/ninja-mutex | [open](records/php-arvenil-ninja-mutex-ade0fdd0.md) |
 | `packagist_search-ad67df00438e4e` | laminas/laminas-json | [open](records/php-laminas-laminas-json-881c7b42.md) |
 | `packagist_search-ad7eac0b2db2ee` | yiisoft/yii2-redis | [open](records/php-yiisoft-yii2-redis-f53bf6ae.md) |
+| `packagist_search-adc622cad6c30a` | facile-it/paraunit | [open](records/php-facile-it-paraunit-0f829898.md) |
+| `packagist_search-ae7d90b329eb1c` | behat/mink-selenium2-driver | [open](records/php-behat-mink-selenium2-driver-0bb973e4.md) |
 | `packagist_search-ae9922e64c9d94` | linkorb/database-manager | [open](records/php-linkorb-database-manager-eb08c33a.md) |
+| `packagist_search-afafb9e0ab03b2` | rubenarakelyan/laravel-session-files-to-redis | [open](records/php-rubenarakelyan-laravel-session-files-to-redis-e3346f90.md) |
 | `packagist_search-b0388ed50064c6` | illuminate/redis | [open](records/php-illuminate-redis-db7236b4.md) |
 | `packagist_search-b03f732b32a808` | yiisoft/yii2-queue | [open](records/php-yiisoft-yii2-queue-53e1fa57.md) |
 | `packagist_search-b2762fc8b75ecb` | astrotomic/laravel-translatable | [open](records/php-astrotomic-laravel-translatable-1fee3363.md) |
@@ -23949,23 +24054,30 @@
 | `packagist_search-b7b52f92372d70` | hyperf/redis | [open](records/php-hyperf-redis-c5c44cf8.md) |
 | `packagist_search-b814316acc7dbb` | zendframework/zend-json | [open](records/php-zendframework-zend-json-3d99c0da.md) |
 | `packagist_search-b8be7f0e4ec33d` | syslogic/doctrine-json-functions | [open](records/php-syslogic-doctrine-json-functions-2a79bdd9.md) |
+| `packagist_search-b90099bf0d0706` | phpbench/phpbench | [open](records/php-phpbench-phpbench-e09485d3.md) |
+| `packagist_search-b921b485047ece` | testo/testo | [open](records/php-testo-testo-49081e78.md) |
 | `packagist_search-b93fee65da93ed` | staudenmeir/eloquent-json-relations | [open](records/php-staudenmeir-eloquent-json-relations-2ca47f67.md) |
 | `packagist_search-b95873d5494a47` | laravel/pao | [open](records/php-laravel-pao-b15b4327.md) |
+| `packagist_search-ba04472795949f` | palicao/php-redis-time-series | [open](records/php-palicao-php-redis-time-series-88567d1f.md) |
 | `packagist_search-ba052c001d5b7f` | doctrine/orm | [open](records/php-doctrine-orm-87e60240.md) |
 | `packagist_search-ba29bfffc96c56` | laravel-clickhouse/laravel-clickhouse | [open](records/php-laravel-clickhouse-laravel-clickhouse-da9cc5f9.md) |
 | `packagist_search-ba2e1f7c9f6ee4` | onecentlin/laravel-adminer | [open](records/php-onecentlin-laravel-adminer-fa06aa5e.md) |
 | `packagist_search-ba3cee9b9b75f2` | dibi/dibi | [open](records/php-dibi-dibi-14a7a723.md) |
 | `packagist_search-babc748deb6fbc` | pear/console_getopt | [open](records/php-pear-console-getopt-277b755a.md) |
+| `packagist_search-bad9db98951918` | osteel/openapi-httpfoundation-testing | [open](records/php-osteel-openapi-httpfoundation-testing-38132d85.md) |
 | `packagist_search-bb2df4f83cab25` | yiisoft/yii2-httpclient | [open](records/php-yiisoft-yii2-httpclient-eab09a71.md) |
 | `packagist_search-bb5162a526889a` | boldtrn/jsonb-bundle | [open](records/php-boldtrn-jsonb-bundle-0bb02785.md) |
 | `packagist_search-bd1053f7e2879e` | namshi/jose | [open](records/php-namshi-jose-070b0e9e.md) |
+| `packagist_search-bd2632a523f871` | symfony-bundles/redis-bundle | [open](records/php-symfony-bundles-redis-bundle-feab29e9.md) |
 | `packagist_search-bdae65bb06dc95` | ergebnis/json-schema-validator | [open](records/php-ergebnis-json-schema-validator-b6b15096.md) |
 | `packagist_search-bdb3a0bc352bf9` | gesdinet/jwt-refresh-token-bundle | [open](records/php-gesdinet-jwt-refresh-token-bundle-b2601953.md) |
 | `packagist_search-bdc005f60ea0cf` | marcelgwerder/laravel-api-handler | [open](records/php-marcelgwerder-laravel-api-handler-4e7a8c76.md) |
 | `packagist_search-bdeda121d0d7e0` | php-http/multipart-stream-builder | [open](records/php-php-http-multipart-stream-builder-3d5e1d84.md) |
 | `packagist_search-be09bd54396e5e` | jenssegers/mongodb | [open](records/php-jenssegers-mongodb-773603c1.md) |
 | `packagist_search-be4a266f92c688` | ergebnis/json-normalizer | [open](records/php-ergebnis-json-normalizer-f3f0ebe9.md) |
+| `packagist_search-be5790d561bbff` | timacdonald/log-fake | [open](records/php-timacdonald-log-fake-33765eb1.md) |
 | `packagist_search-be70a9ba6752a6` | slim/psr7 | [open](records/php-slim-psr7-5b4653d6.md) |
+| `packagist_search-be7b5d30245ea1` | jasonmccreary/laravel-test-assertions | [open](records/php-jasonmccreary-laravel-test-assertions-3c530315.md) |
 | `packagist_search-becccd70fe87c9` | mevdschee/php-crud-api | [open](records/php-mevdschee-php-crud-api-eb9b7458.md) |
 | `packagist_search-bedcd55befd3c6` | aimeos/ai-client-jsonapi | [open](records/php-aimeos-ai-client-jsonapi-dc6c0b06.md) |
 | `packagist_search-bedeaef22114ed` | mongodb/mongodb-extension | [open](records/php-mongodb-mongodb-extension-09492336.md) |
@@ -23974,19 +24086,24 @@
 | `packagist_search-c042d7ed82f3d2` | yadakhov/insert-on-duplicate-key | [open](records/php-yadakhov-insert-on-duplicate-key-07c18b9a.md) |
 | `packagist_search-c078cde0392080` | doctrine/doctrine-bundle | [open](records/php-doctrine-doctrine-bundle-c909c68e.md) |
 | `packagist_search-c0956eebf69ce9` | zendesk/zendesk_api_client_php | [open](records/php-zendesk-zendesk-api-client-php-b7dfb3ab.md) |
+| `packagist_search-c1764e70c931c2` | orchestra/testbench-core | [open](records/php-orchestra-testbench-core-82efdda1.md) |
 | `packagist_search-c188468538a839` | sad_spirit/pg_builder | [open](records/php-sad-spirit-pg-builder-60fd7a5f.md) |
 | `packagist_search-c1d55f1ad06143` | workerman/workerman | [open](records/php-workerman-workerman-355412a8.md) |
 | `packagist_search-c2eb32277aa8f9` | martin-georgiev/postgresql-for-doctrine | [open](records/php-martin-georgiev-postgresql-for-doctrine-ea48f018.md) |
 | `packagist_search-c2ec6e1b811d82` | php-http/client-common | [open](records/php-php-http-client-common-65ca5aea.md) |
 | `packagist_search-c2f765343a9ee1` | williamdes/mariadb-mysql-kbs | [open](records/php-williamdes-mariadb-mysql-kbs-aae2ca23.md) |
 | `packagist_search-c34eb468fed947` | ircmaxell/password-compat | [open](records/php-ircmaxell-password-compat-9b5a9f32.md) |
+| `packagist_search-c392634cae095f` | yoast/wp-test-utils | [open](records/php-yoast-wp-test-utils-280bdcec.md) |
 | `packagist_search-c3d120e1c0884f` | tedivm/stash | [open](records/php-tedivm-stash-a7a1de23.md) |
 | `packagist_search-c44bd1522d8526` | php-http/httplug-bundle | [open](records/php-php-http-httplug-bundle-78bb959b.md) |
+| `packagist_search-c5a021631f1201` | zaber-dev/laravel-cooldown | [open](records/php-zaber-dev-laravel-cooldown-88d1f854.md) |
 | `packagist_search-c5fa1ddcc1e6eb` | orptech/laravel-migration-partition | [open](records/php-orptech-laravel-migration-partition-5c1f5b18.md) |
 | `packagist_search-c69eac03dcec5c` | mongodb/mongodb | [open](records/php-mongodb-mongodb-167c6016.md) |
 | `packagist_search-c6d5744da68b4a` | usmanhalalit/pixie | [open](records/php-usmanhalalit-pixie-5c5a6eea.md) |
 | `packagist_search-c6f4b30f6db1b5` | spatie/laravel-translation-loader | [open](records/php-spatie-laravel-translation-loader-7287e8cc.md) |
+| `packagist_search-c71c3950f42404` | talleu/php-redis-om | [open](records/php-talleu-php-redis-om-931eaad1.md) |
 | `packagist_search-c74e6a7168e7d9` | enlightn/security-checker | [open](records/php-enlightn-security-checker-f8b3659a.md) |
+| `packagist_search-c8bcaf0723920b` | symfony/phpunit-bridge | [open](records/php-symfony-phpunit-bridge-27bb01d4.md) |
 | `packagist_search-c99fbca0ef7cf8` | ramsey/uuid-doctrine | [open](records/php-ramsey-uuid-doctrine-a89cf9b1.md) |
 | `packagist_search-c9dbda1a35a0ef` | mledoze/countries | [open](records/php-mledoze-countries-dc28ff6e.md) |
 | `packagist_search-ca188dd4f47513` | dunglas/doctrine-json-odm | [open](records/php-dunglas-doctrine-json-odm-d7b30b39.md) |
@@ -23995,17 +24112,22 @@
 | `packagist_search-cbe25cc1afaf1d` | tcdent/php-restclient | [open](records/php-tcdent-php-restclient-87944374.md) |
 | `packagist_search-ccea9eeb766914` | teamtnt/laravel-scout-tntsearch-driver | [open](records/php-teamtnt-laravel-scout-tntsearch-driver-09954290.md) |
 | `packagist_search-ccf32ac1e180bb` | league/fractal | [open](records/php-league-fractal-674ce28d.md) |
+| `packagist_search-cd15eb0dbbb30a` | superbalist/php-pubsub-redis | [open](records/php-superbalist-php-pubsub-redis-a138954e.md) |
 | `packagist_search-cd73a7923a8634` | league/glide | [open](records/php-league-glide-b588a7f3.md) |
+| `packagist_search-cd743127fef782` | liip/functional-test-bundle | [open](records/php-liip-functional-test-bundle-ec513120.md) |
 | `packagist_search-ce75affb6bdee4` | tymon/jwt-auth | [open](records/php-tymon-jwt-auth-f925cd65.md) |
 | `packagist_search-ce7ea65dee4315` | zircote/swagger-php | [open](records/php-zircote-swagger-php-70bf3417.md) |
 | `packagist_search-ce865d46466e64` | php-http/discovery | [open](records/php-php-http-discovery-c75d64f0.md) |
 | `packagist_search-cea89ed204098b` | krowinski/php-mysql-replication | [open](records/php-krowinski-php-mysql-replication-7ce2777c.md) |
 | `packagist_search-ceb98d708b569b` | doctrine/cache | [open](records/php-doctrine-cache-2770b9eb.md) |
+| `packagist_search-cec2084679c182` | rregeer/phpunit-coverage-check | [open](records/php-rregeer-phpunit-coverage-check-8b8b30a2.md) |
 | `packagist_search-cf15b1dd6632e4` | phpmyadmin/sql-parser | [open](records/php-phpmyadmin-sql-parser-27df2145.md) |
 | `packagist_search-d03e5079c2704f` | stevencorona/opcache-json | [open](records/php-stevencorona-opcache-json-58a2b890.md) |
 | `packagist_search-d0e6bd5147e345` | kartik-v/yii2-export | [open](records/php-kartik-v-yii2-export-d0718c10.md) |
 | `packagist_search-d139c3327feb4d` | nategood/httpful | [open](records/php-nategood-httpful-374afacb.md) |
+| `packagist_search-d13c57bed15e32` | mjphaynes/php-resque | [open](records/php-mjphaynes-php-resque-946654ac.md) |
 | `packagist_search-d17d7d8d7bb867` | ukko/phpredis-phpdoc | [open](records/php-ukko-phpredis-phpdoc-d044663a.md) |
+| `packagist_search-d32231796cf315` | behat/mink | [open](records/php-behat-mink-39e58b31.md) |
 | `packagist_search-d33fdc1040dc49` | codeception/module-phpbrowser | [open](records/php-codeception-module-phpbrowser-4f1fc3bc.md) |
 | `packagist_search-d35de4536f511d` | mmucklo/queue-bundle | [open](records/php-mmucklo-queue-bundle-24f20cc5.md) |
 | `packagist_search-d403ebad7d2988` | nilportugues/sql-query-formatter | [open](records/php-nilportugues-sql-query-formatter-cbf8ab7c.md) |
@@ -24016,27 +24138,36 @@
 | `packagist_search-d5d7bd2c63d7a3` | spatie/laravel-backup | [open](records/php-spatie-laravel-backup-64d81588.md) |
 | `packagist_search-d688882d4cf7f0` | druidfi/mysqldump-php | [open](records/php-druidfi-mysqldump-php-f81fc9a9.md) |
 | `packagist_search-d6c31640264610` | umbrellio/laravel-ltree | [open](records/php-umbrellio-laravel-ltree-fa185c07.md) |
+| `packagist_search-d6cf7ffdf35894` | pestphp/pest-plugin-rector | [open](records/php-pestphp-pest-plugin-rector-185fa044.md) |
 | `packagist_search-d74cb157e4cc5d` | mix/redis-subscriber | [open](records/php-mix-redis-subscriber-5bb558f8.md) |
 | `packagist_search-d76f8d6cc958cd` | fig/http-message-util | [open](records/php-fig-http-message-util-23ee2d56.md) |
 | `packagist_search-d7d8e0bf4cd03f` | leantime/leantime | [open](records/php-leantime-leantime-a6136153.md) |
 | `packagist_search-d899c7239c5608` | friendsofsymfony/http-cache | [open](records/php-friendsofsymfony-http-cache-ea0d26a5.md) |
 | `packagist_search-da4ba79b1d2cc7` | symfony/security-http | [open](records/php-symfony-security-http-c022bb52.md) |
 | `packagist_search-db09c3414bb00a` | php-http/message | [open](records/php-php-http-message-b978816d.md) |
+| `packagist_search-dc29910a7d86b4` | redisent/redisent | [open](records/php-redisent-redisent-f3687589.md) |
 | `packagist_search-dced70e6bea325` | swow/swow | [open](records/php-swow-swow-1b9231f8.md) |
 | `packagist_search-dd533396de3f11` | matomo/cache | [open](records/php-matomo-cache-1a661037.md) |
 | `packagist_search-ddb4d64f97ec11` | auth0/login | [open](records/php-auth0-login-2836946f.md) |
 | `packagist_search-dec488c47c0a9d` | malkusch/lock | [open](records/php-malkusch-lock-1cba933d.md) |
 | `packagist_search-df51a8bac7b65a` | m6web/redis-mock | [open](records/php-m6web-redis-mock-3d041fbc.md) |
 | `packagist_search-df7e21a8c6405a` | amphp/mysql | [open](records/php-amphp-mysql-5dfe818a.md) |
+| `packagist_search-dfd94c9ad36e31` | league/factory-muffin | [open](records/php-league-factory-muffin-4e26fb4e.md) |
+| `packagist_search-dff2b521be4f01` | kahlan/kahlan | [open](records/php-kahlan-kahlan-b4439ba0.md) |
 | `packagist_search-e0567d961a37bc` | jakeasmith/http_build_url | [open](records/php-jakeasmith-http-build-url-ef13a8e2.md) |
 | `packagist_search-e091af5f945e79` | pomm-project/cli | [open](records/php-pomm-project-cli-146d0fdd.md) |
 | `packagist_search-e09337e0d52127` | berlindb/core | [open](records/php-berlindb-core-b69b9ce2.md) |
+| `packagist_search-e1011f1ff70d3b` | phpunit/phpunit-selenium | [open](records/php-phpunit-phpunit-selenium-eca8a877.md) |
 | `packagist_search-e3a01bd05e05fb` | symfony-cmf/routing | [open](records/php-symfony-cmf-routing-ab21d7c4.md) |
+| `packagist_search-e401cfb488ac17` | yiisoft/queue | [open](records/php-yiisoft-queue-6313dcf7.md) |
+| `packagist_search-e48e9fa367205a` | yoast/phpunit-polyfills | [open](records/php-yoast-phpunit-polyfills-5919c6bb.md) |
 | `packagist_search-e4d6aceec2dcae` | doctrine/mongodb | [open](records/php-doctrine-mongodb-7fbc730a.md) |
 | `packagist_search-e4f57913d1e3a9` | maxmind-db/reader | [open](records/php-maxmind-db-reader-9447323f.md) |
 | `packagist_search-e5212c539e7d87` | guzzlehttp/ringphp | [open](records/php-guzzlehttp-ringphp-ab5e949e.md) |
 | `packagist_search-e5631e293d5981` | longitude-one/doctrine-spatial | [open](records/php-longitude-one-doctrine-spatial-52da2d6a.md) |
+| `packagist_search-e5f8aa86d76a9b` | spatie/phpunit-snapshot-assertions | [open](records/php-spatie-phpunit-snapshot-assertions-ab692978.md) |
 | `packagist_search-e64061d509e8fc` | lcobucci/jwt | [open](records/php-lcobucci-jwt-cbc39996.md) |
+| `packagist_search-e654b6298dd20b` | matomo/doctrine-cache-fork | [open](records/php-matomo-doctrine-cache-fork-264b7af6.md) |
 | `packagist_search-e658d525932149` | symfony-cmf/routing-bundle | [open](records/php-symfony-cmf-routing-bundle-3b6cd970.md) |
 | `packagist_search-e6770518e78ab8` | symfony/ai-postgres-store | [open](records/php-symfony-ai-postgres-store-660e04ef.md) |
 | `packagist_search-e699ce9de61e19` | opsway/doctrine-dbal-postgresql | [open](records/php-opsway-doctrine-dbal-postgresql-5a919fa6.md) |
@@ -24044,11 +24175,15 @@
 | `packagist_search-e72e46180acd20` | allanpichardo/mysql-vector | [open](records/php-allanpichardo-mysql-vector-5720137f.md) |
 | `packagist_search-e73f2dc0fd31de` | jsor/doctrine-postgis | [open](records/php-jsor-doctrine-postgis-11d0d04c.md) |
 | `packagist_search-e82a0d9396d587` | symfony/serializer | [open](records/php-symfony-serializer-134a9b77.md) |
+| `packagist_search-e966d978c1ff33` | pyurin/yii2-redis-ha | [open](records/php-pyurin-yii2-redis-ha-69e130cd.md) |
 | `packagist_search-ea44ecccb91035` | qbbr/pgsql-doctrine-random-function | [open](records/php-qbbr-pgsql-doctrine-random-function-cefb671d.md) |
 | `packagist_search-eabaaa1494bebf` | doctrine/dbal | [open](records/php-doctrine-dbal-ec67d707.md) |
+| `packagist_search-eabd29dc60ae5e` | rediska/rediska | [open](records/php-rediska-rediska-d97d33cb.md) |
 | `packagist_search-eacd287a654a8f` | illuminate/json-schema | [open](records/php-illuminate-json-schema-fae35fa6.md) |
 | `packagist_search-eb0517786e35cb` | awssat/laravel-visits | [open](records/php-awssat-laravel-visits-4eed0cc7.md) |
 | `packagist_search-eb1209049ad8db` | heymoon/doctrine-psql-enum | [open](records/php-heymoon-doctrine-psql-enum-354210f8.md) |
+| `packagist_search-eb27826f39150a` | allure-framework/allure-phpunit | [open](records/php-allure-framework-allure-phpunit-8d5922dc.md) |
+| `packagist_search-ec49363f9c8df4` | cmsig/seal | [open](records/php-cmsig-seal-b31383d6.md) |
 | `packagist_search-ec63a1598e8c51` | colinmollenhour/credis | [open](records/php-colinmollenhour-credis-caa10dda.md) |
 | `packagist_search-ecec239d3b36c3` | cebe/php-openapi | [open](records/php-cebe-php-openapi-c412045f.md) |
 | `packagist_search-edebfe30687477` | eightpoints/guzzle-bundle | [open](records/php-eightpoints-guzzle-bundle-0ec077c3.md) |
@@ -24058,21 +24193,30 @@
 | `packagist_search-ef15a0748dc4c3` | yiisoft/db-mysql | [open](records/php-yiisoft-db-mysql-78eed699.md) |
 | `packagist_search-ef6140bc4965e3` | php-http/cache-plugin | [open](records/php-php-http-cache-plugin-cbbc38fb.md) |
 | `packagist_search-ef92fa88b35fae` | atk4/data | [open](records/php-atk4-data-610bf0c1.md) |
+| `packagist_search-efd870d452c729` | pestphp/pest-plugin-profanity | [open](records/php-pestphp-pest-plugin-profanity-458e96b1.md) |
 | `packagist_search-f0144b15cc97c9` | infocyph/cachelayer | [open](records/php-infocyph-cachelayer-2ccc1c6b.md) |
 | `packagist_search-f055a9653d9380` | aura/sqlschema | [open](records/php-aura-sqlschema-5e7e6c07.md) |
 | `packagist_search-f106609282ee38` | kreait/firebase-bundle | [open](records/php-kreait-firebase-bundle-14f36a02.md) |
 | `packagist_search-f110f3335d07c0` | hyperf/database-pgsql | [open](records/php-hyperf-database-pgsql-795c9abc.md) |
+| `packagist_search-f1257ca082163d` | behat/mink-goutte-driver | [open](records/php-behat-mink-goutte-driver-06fa9cac.md) |
+| `packagist_search-f1df83a5700155` | zenstruck/messenger-test | [open](records/php-zenstruck-messenger-test-cfc59267.md) |
+| `packagist_search-f2ae3c7f79ded0` | mostafaznv/laracache | [open](records/php-mostafaznv-laracache-af23fe78.md) |
 | `packagist_search-f34b340bfe83a7` | salsify/json-streaming-parser | [open](records/php-salsify-json-streaming-parser-a28c7f02.md) |
 | `packagist_search-f37d981f1ba978` | goodwix/doctrine-json-odm | [open](records/php-goodwix-doctrine-json-odm-ef704a19.md) |
 | `packagist_search-f424008c71bead` | opis/database | [open](records/php-opis-database-90f06ec2.md) |
 | `packagist_search-f4263c09164609` | php-http/guzzle7-adapter | [open](records/php-php-http-guzzle7-adapter-f379963c.md) |
 | `packagist_search-f458e623f97da7` | ergebnis/json-printer | [open](records/php-ergebnis-json-printer-b7fbbe90.md) |
 | `packagist_search-f48a8a24e573cb` | doctrine/mongodb | [open](records/php-doctrine-mongodb-e4fd450a.md) |
+| `packagist_search-f550f213a8c23a` | mockery/mockery | [open](records/php-mockery-mockery-989ab6c2.md) |
 | `packagist_search-f5857a96a9b99f` | topthink/think-orm | [open](records/php-topthink-think-orm-8bc7105b.md) |
 | `packagist_search-f6fdbb8c2cc2ce` | http-interop/http-factory-guzzle | [open](records/php-http-interop-http-factory-guzzle-66251638.md) |
 | `packagist_search-f744a997d48b7d` | cuyz/valinor | [open](records/php-cuyz-valinor-b52313eb.md) |
+| `packagist_search-f7a24f0e6935e7` | launchdarkly/server-sdk-redis-predis | [open](records/php-launchdarkly-server-sdk-redis-predis-de02cbe8.md) |
+| `packagist_search-f7e922416058af` | prwnr/laravel-streamer | [open](records/php-prwnr-laravel-streamer-2ec64047.md) |
 | `packagist_search-f84aa870cc2619` | lanin/laravel-api-debugger | [open](records/php-lanin-laravel-api-debugger-7a8c5e7d.md) |
 | `packagist_search-f8e9f60b1bcd43` | quickbooks/v3-php-sdk | [open](records/php-quickbooks-v3-php-sdk-ca2a5352.md) |
+| `packagist_search-f959ac8f29293e` | webman/redis-queue | [open](records/php-webman-redis-queue-a6717966.md) |
+| `packagist_search-fa4eda14032658` | nunomaduro/laravel-mojito | [open](records/php-nunomaduro-laravel-mojito-487a0a46.md) |
 | `packagist_search-fa6984e6ac608c` | sabre/http | [open](records/php-sabre-http-dc1adc6c.md) |
 | `packagist_search-fb2fdce7b3ab92` | spatie/laravel-db-snapshots | [open](records/php-spatie-laravel-db-snapshots-be1c9f55.md) |
 | `packagist_search-fb38b21f387764` | laminas/laminas-diactoros | [open](records/php-laminas-laminas-diactoros-84fd206b.md) |
@@ -24080,6 +24224,7 @@
 | `packagist_search-fc2d3cfa961348` | zbateson/mb-wrapper | [open](records/php-zbateson-mb-wrapper-afcd306c.md) |
 | `packagist_search-fc458f1be6203d` | sunaoka/php-postgresql-errors | [open](records/php-sunaoka-php-postgresql-errors-24db2120.md) |
 | `packagist_search-fc50a775847d53` | sergeytsalkov/meekrodb | [open](records/php-sergeytsalkov-meekrodb-283e0055.md) |
+| `packagist_search-fd5be182b15ed5` | pestphp/pest-plugin-laravel | [open](records/php-pestphp-pest-plugin-laravel-04bd5d98.md) |
 | `packagist_search-fed32f93031564` | laminas/laminas-cache-storage-adapter-redis | [open](records/php-laminas-laminas-cache-storage-adapter-redis-718dde94.md) |
 | `packagist_search-feeecd56a59091` | umbrellio/laravel-pg-extensions | [open](records/php-umbrellio-laravel-pg-extensions-6e6ce7fa.md) |
 | `packagist_search-ff8716aa590017` | devtheorem/peachy-sql | [open](records/php-devtheorem-peachy-sql-ebe11428.md) |

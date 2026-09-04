@@ -1,6 +1,6 @@
 # PHP
 
-Records: `479`
+Records: `608`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `479`
 
 ## Category Index
 
-[Api Abi Checker (206)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (45)](../by-category/assertion-mocking.md) · [Async Runtime (135)](../by-category/async-runtime.md)
-[Benchmarking (167)](../by-category/benchmarking.md) · [Build System (925)](../by-category/build-system.md) · [Cli (546)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Api Abi Checker (206)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (45)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
+[Benchmarking (169)](../by-category/benchmarking.md) · [Build System (928)](../by-category/build-system.md) · [Cli (547)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (101)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (48)](../by-category/compression.md)
 [Concurrency Parallelism (83)](../by-category/concurrency-parallelism.md) · [Configuration (116)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (165)](../by-category/cryptography.md) · [Data Science (36)](../by-category/data-science.md) · [Database Datastore (852)](../by-category/database-datastore.md) · [Datetime (190)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (93)](../by-category/dependency-manager.md) · [Documentation (99)](../by-category/documentation.md)
-[Embedded Hardware (55)](../by-category/embedded-hardware.md) · [Ffi Bindings (414)](../by-category/ffi-bindings.md) · [Filesystem Os (1427)](../by-category/filesystem-os.md) · [Formatter (616)](../by-category/formatter.md)
-[Framework (56)](../by-category/framework.md) · [Fuzzer (56)](../by-category/fuzzer.md) · [Game Engine Game Dev (175)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1341)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (398)](../by-category/image-audio-dsp.md) · [Interop Bindings (58)](../by-category/interop-bindings.md) · [Interpreter Runtime (254)](../by-category/interpreter-runtime.md) · [Jit Vm (60)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1391)](../by-category/language-specification.md) · [Library (5320)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Cryptography (165)](../by-category/cryptography.md) · [Data Science (36)](../by-category/data-science.md) · [Database Datastore (878)](../by-category/database-datastore.md) · [Datetime (190)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (95)](../by-category/dependency-manager.md) · [Documentation (99)](../by-category/documentation.md)
+[Embedded Hardware (55)](../by-category/embedded-hardware.md) · [Ffi Bindings (415)](../by-category/ffi-bindings.md) · [Filesystem Os (1427)](../by-category/filesystem-os.md) · [Formatter (618)](../by-category/formatter.md)
+[Framework (56)](../by-category/framework.md) · [Fuzzer (56)](../by-category/fuzzer.md) · [Game Engine Game Dev (175)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1348)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (398)](../by-category/image-audio-dsp.md) · [Interop Bindings (58)](../by-category/interop-bindings.md) · [Interpreter Runtime (254)](../by-category/interpreter-runtime.md) · [Jit Vm (61)](../by-category/jit-vm.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1394)](../by-category/language-specification.md) · [Library (5327)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (487)](../by-category/logging-observability.md) · [Machine Learning (673)](../by-category/machine-learning.md)
-[Math Numeric Scientific (85)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (90)](../by-category/memory-analyzer.md) · [Message Broker (39)](../by-category/message-broker.md) · [Networking Http (987)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (423)](../by-category/package-manager.md) · [Parser Lexer Ast (1034)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (284)](../by-category/precommit-ci-quality.md)
+[Math Numeric Scientific (85)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (90)](../by-category/memory-analyzer.md) · [Message Broker (39)](../by-category/message-broker.md) · [Networking Http (992)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (423)](../by-category/package-manager.md) · [Parser Lexer Ast (1035)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (284)](../by-category/precommit-ci-quality.md)
 [Profiler (82)](../by-category/profiler.md) · [Project Scaffolding (130)](../by-category/project-scaffolding.md) · [Registry Repository (108)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
-[Security Sast (333)](../by-category/security-sast.md) · [Serialization (384)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (503)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (526)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (59)](../by-category/tutorial-book-styleguide.md) · [Type Checker (301)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1517)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](../by-category/utility-library.md) · [Visualization Gui (478)](../by-category/visualization-gui.md) · [Web Framework (459)](../by-category/web-framework.md)
+[Security Sast (333)](../by-category/security-sast.md) · [Serialization (385)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (508)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (595)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (59)](../by-category/tutorial-book-styleguide.md) · [Type Checker (301)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1522)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](../by-category/utility-library.md) · [Visualization Gui (478)](../by-category/visualization-gui.md) · [Web Framework (462)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -51,6 +51,7 @@ Records: `479`
 | [predis/predis-async](../records/php-predis-predis-async-db478bd7.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [react/mysql](../records/php-react-mysql-6b6a67ec.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [voryx/pgasync](../records/php-voryx-pgasync-f09494e6.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [yiisoft/queue](../records/php-yiisoft-queue-6313dcf7.md) | unknown | packagist_package_metadata_missing | registry-derived |
 
 ### Benchmarking
 
@@ -60,7 +61,9 @@ Records: `479`
 | [colinmollenhour/credis](../records/php-colinmollenhour-credis-caa10dda.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [dama/doctrine-test-bundle](../records/php-dama-doctrine-test-bundle-4431d726.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [infocyph/dblayer](../records/php-infocyph-dblayer-42978eb1.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [mattiasgeniar/phpunit-query-count-assertions](../records/php-mattiasgeniar-phpunit-query-count-assertions-93f70e8d.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [patchlevel/rango](../records/php-patchlevel-rango-f87ba9d6.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [phpbench/phpbench](../records/php-phpbench-phpbench-e09485d3.md) | unknown | packagist_package_metadata_missing | registry-derived |
 
 ### Build System
 
@@ -84,6 +87,7 @@ Records: `479`
 | [kg-bot/laravel-localization-to-vue](../records/php-kg-bot-laravel-localization-to-vue-23319f5b.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [kitar/laravel-dynamodb](../records/php-kitar-laravel-dynamodb-e55ad8fd.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [laravel-clickhouse/laravel-clickhouse](../records/php-laravel-clickhouse-laravel-clickhouse-da9cc5f9.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [league/factory-muffin-faker](../records/php-league-factory-muffin-faker-4c5a7b21.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [lichtner/fluentpdo](../records/php-lichtner-fluentpdo-8329b7d5.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [makinacorpus/query-builder](../records/php-makinacorpus-query-builder-9bee5941.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [marcin-orlowski/laravel-api-response-builder](../records/php-marcin-orlowski-laravel-api-response-builder-91443313.md) | unknown | packagist_package_metadata_missing | registry-derived |
@@ -97,12 +101,14 @@ Records: `479`
 | [php-curl-class/php-curl-class](../records/php-php-curl-class-php-curl-class-b9592d9a.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [php-http/multipart-stream-builder](../records/php-php-http-multipart-stream-builder-3d5e1d84.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [robmorgan/phinx](../records/php-robmorgan-phinx-b91e27f3.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [rubenarakelyan/laravel-session-files-to-redis](../records/php-rubenarakelyan-laravel-session-files-to-redis-e3346f90.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [sad_spirit/pg_builder](../records/php-sad-spirit-pg-builder-60fd7a5f.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [spatie/schema-org](../records/php-spatie-schema-org-8b24ad7a.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [tommyknocker/pdo-database-class](../records/php-tommyknocker-pdo-database-class-8d91baaa.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [usmanhalalit/pixie](../records/php-usmanhalalit-pixie-5c5a6eea.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [workerman/workerman](../records/php-workerman-workerman-355412a8.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [yiisoft/db](../records/php-yiisoft-db-093a2d3f.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [yoast/wp-test-utils](../records/php-yoast-wp-test-utils-280bdcec.md) | unknown | packagist_package_metadata_missing | registry-derived |
 
 ### Cli
 
@@ -135,10 +141,15 @@ Records: `479`
 | [belamov/postgres-range](../records/php-belamov-postgres-range-79a3d88f.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [bosnadev/database](../records/php-bosnadev-database-57d642fb.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [brokenice/laravel-mysql-partition](../records/php-brokenice-laravel-mysql-partition-8e56633e.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [cache/predis-adapter](../records/php-cache-predis-adapter-d15608ff.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [cache/redis-adapter](../records/php-cache-redis-adapter-829ec424.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [cakephp/database](../records/php-cakephp-database-2ab6ccae.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [cakephp/migrations](../records/php-cakephp-migrations-c5a7f5b8.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [catfan/medoo](../records/php-catfan-medoo-b62a84e4.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [cmsig/seal](../records/php-cmsig-seal-b31383d6.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [cmsig/seal-symfony-bundle](../records/php-cmsig-seal-symfony-bundle-d5e60961.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [codeception/module-redis](../records/php-codeception-module-redis-3b360b57.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [codeigniter4/queue](../records/php-codeigniter4-queue-8fa6ceff.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [colinmollenhour/cache-backend-redis](../records/php-colinmollenhour-cache-backend-redis-10e5358b.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [colinmollenhour/magento-redis-session](../records/php-colinmollenhour-magento-redis-session-92f0e733.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [colinmollenhour/php-redis-session-abstract](../records/php-colinmollenhour-php-redis-session-abstract-d27c499e.md) | unknown | packagist_package_metadata_missing | registry-derived |
@@ -148,6 +159,7 @@ Records: `479`
 | [cycle/database](../records/php-cycle-database-4c2ca6db.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [cycle/orm](../records/php-cycle-orm-cca30184.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [cyppe/laravel-batch-jobs-redis-driver](../records/php-cyppe-laravel-batch-jobs-redis-driver-925be53a.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [danhunsaker/flysystem-redis](../records/php-danhunsaker-flysystem-redis-ea0ce306.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [danielme85/laravel-log-to-db](../records/php-danielme85-laravel-log-to-db-d92de2a6.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [davedevelopment/phpmig](../records/php-davedevelopment-phpmig-1ef95245.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [delight-im/db](../records/php-delight-im-db-8daad52c.md) | unknown | packagist_package_metadata_missing | registry-derived |
@@ -166,6 +178,7 @@ Records: `479`
 | [doctrine/orm](../records/php-doctrine-orm-87e60240.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [doctrine/phpcr-bundle](../records/php-doctrine-phpcr-bundle-d4f6cb1e.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [dshafik/php7-mysql-shim](../records/php-dshafik-php7-mysql-shim-bf7e43fb.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [easyswoole/redis](../records/php-easyswoole-redis-eb904c50.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [enqueue/redis](../records/php-enqueue-redis-d85b3f06.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [event-engine/php-postgres-document-store](../records/php-event-engine-php-postgres-document-store-428ee4d2.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [facile-it/doctrine-mysql-come-back](../records/php-facile-it-doctrine-mysql-come-back-83ad3b2f.md) | unknown | packagist_package_metadata_missing | registry-derived |
@@ -185,6 +198,7 @@ Records: `479`
 | [intaro/custom-index-bundle](../records/php-intaro-custom-index-bundle-6f394c76.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [intaro/hstore-extension](../records/php-intaro-hstore-extension-bad5a141.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [itelmenko/laravel-mysql-logger](../records/php-itelmenko-laravel-mysql-logger-fb974a1d.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [javibravo/simpleue](../records/php-javibravo-simpleue-8a11d43c.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [jonaspauleta/scout-postgres](../records/php-jonaspauleta-scout-postgres-b930655e.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [joshcam/mysqli-database-class](../records/php-joshcam-mysqli-database-class-a9546d1e.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [jsor/doctrine-postgis](../records/php-jsor-doctrine-postgis-11d0d04c.md) | unknown | packagist_package_metadata_missing | registry-derived |
@@ -198,6 +212,7 @@ Records: `479`
 | [krowinski/php-mysql-replication](../records/php-krowinski-php-mysql-replication-7ce2777c.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [laminas/laminas-cache-storage-adapter-redis](../records/php-laminas-laminas-cache-storage-adapter-redis-718dde94.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [laminas/laminas-db](../records/php-laminas-laminas-db-23ec055d.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [laravel-admin-ext/redis-manager](../records/php-laravel-admin-ext-redis-manager-eab3f7f1.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [laravel-doctrine/orm](../records/php-laravel-doctrine-orm-48ed6b43.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [laravelbook/ardent](../records/php-laravelbook-ardent-367290df.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [leantime/leantime](../records/php-leantime-leantime-a6136153.md) | unknown | packagist_package_metadata_missing | registry-derived |
@@ -209,13 +224,19 @@ Records: `479`
 | [markhilton/monolog-mysql](../records/php-markhilton-monolog-mysql-9ec8d097.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [marktopper/doctrine-dbal-timestamp-type](../records/php-marktopper-doctrine-dbal-timestamp-type-a62103b2.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [matomo/cache](../records/php-matomo-cache-1a661037.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [matomo/doctrine-cache-fork](../records/php-matomo-doctrine-cache-fork-264b7af6.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [matthiasmullie/scrapbook](../records/php-matthiasmullie-scrapbook-8df0c9f8.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [maxmind-db/reader](../records/php-maxmind-db-reader-9447323f.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [mevdschee/php-crud-api](../records/php-mevdschee-php-crud-api-eb9b7458.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [mikehenrty/thin-pdo-wrapper](../records/php-mikehenrty-thin-pdo-wrapper-4d191be5.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [mismatch/opentelemetry-auto-redis](../records/php-mismatch-opentelemetry-auto-redis-b7ab32c8.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [mjphaynes/php-resque](../records/php-mjphaynes-php-resque-946654ac.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [mmeyer2k/redistree](../records/php-mmeyer2k-redistree-e69e6acb.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [mmucklo/queue-bundle](../records/php-mmucklo-queue-bundle-24f20cc5.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [mongodb/mongodb](../records/php-mongodb-mongodb-167c6016.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [mongodb/mongodb-extension](../records/php-mongodb-mongodb-extension-09492336.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [monospice/laravel-redis-sentinel-drivers](../records/php-monospice-laravel-redis-sentinel-drivers-75991c02.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [mostafaznv/laracache](../records/php-mostafaznv-laracache-af23fe78.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [mpyw/laravel-database-advisory-lock](../records/php-mpyw-laravel-database-advisory-lock-b3e478f5.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [mysql-workbench-schema-exporter/mysql-workbench-schema-exporter](../records/php-mysql-workbench-schema-exporter-mysql-workbench-schema-exporter-df02abc9.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [nanson/yii2-postgis](../records/php-nanson-yii2-postgis-6ddf02eb.md) | unknown | packagist_package_metadata_missing | registry-derived |
@@ -230,6 +251,7 @@ Records: `479`
 | [orangehill/iseed](../records/php-orangehill-iseed-268429e1.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [oro/doctrine-extensions](../records/php-oro-doctrine-extensions-91992e72.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [orptech/laravel-migration-partition](../records/php-orptech-laravel-migration-partition-5c1f5b18.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [palicao/php-redis-time-series](../records/php-palicao-php-redis-time-series-88567d1f.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [paragonie/ciphersweet](../records/php-paragonie-ciphersweet-a9b4501f.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [partitech/doctrine-pgvector](../records/php-partitech-doctrine-pgvector-31fffc7f.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [phpbu/phpbu](../records/php-phpbu-phpbu-7877f620.md) | unknown | packagist_package_metadata_missing | registry-derived |
@@ -242,11 +264,14 @@ Records: `479`
 | [pomm-project/pomm-symfony-bridge](../records/php-pomm-project-pomm-symfony-bridge-0a8b5adb.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [pomm/pomm](../records/php-pomm-pomm-c24dec15.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [popphp/pop-db](../records/php-popphp-pop-db-53f4314c.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [praatmetdedokter/pulse-redis-monitor](../records/php-praatmetdedokter-pulse-redis-monitor-78424eb9.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [prettus/l5-repository](../records/php-prettus-l5-repository-90bc6d5e.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [propel/propel1](../records/php-propel-propel1-7f515659.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [prwnr/laravel-streamer](../records/php-prwnr-laravel-streamer-2ec64047.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [qbbr/pgsql-doctrine-random-function](../records/php-qbbr-pgsql-doctrine-random-function-cefb671d.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [ramadan/custom-fresh](../records/php-ramadan-custom-fresh-4161943f.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [ramsey/uuid-doctrine](../records/php-ramsey-uuid-doctrine-a89cf9b1.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [redisent/redisent](../records/php-redisent-redisent-f3687589.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [romanzipp/laravel-queue-monitor](../records/php-romanzipp-laravel-queue-monitor-f6c6b771.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [ruckusing/ruckusing-migrations](../records/php-ruckusing-ruckusing-migrations-c8060d00.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [rybakit/phive-queue](../records/php-rybakit-phive-queue-abf3f454.md) | unknown | packagist_package_metadata_missing | registry-derived |
@@ -263,15 +288,19 @@ Records: `479`
 | [spatie/laravel-backup](../records/php-spatie-laravel-backup-64d81588.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [spatie/laravel-db-snapshots](../records/php-spatie-laravel-db-snapshots-be1c9f55.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [spiritix/lada-cache](../records/php-spiritix-lada-cache-2a11d1c1.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [spryker/redis](../records/php-spryker-redis-e4ae7c64.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [stancl/tenancy](../records/php-stancl-tenancy-7d5f5b34.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [stechstudio/laravel-ssh-tunnel](../records/php-stechstudio-laravel-ssh-tunnel-885e4722.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [stfalcon-studio/doctrine-redis-cache-bundle](../records/php-stfalcon-studio-doctrine-redis-cache-bundle-a8c4dcbe.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [sunaoka/php-postgresql-errors](../records/php-sunaoka-php-postgresql-errors-24db2120.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [swissup/module-search-mysql-legacy](../records/php-swissup-module-search-mysql-legacy-c2a43050.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [symfony-bundles/redis-bundle](../records/php-symfony-bundles-redis-bundle-feab29e9.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [symfony-cmf/routing-bundle](../records/php-symfony-cmf-routing-bundle-3b6cd970.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [symfony/ai-postgres-store](../records/php-symfony-ai-postgres-store-660e04ef.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [symfony/ai-store](../records/php-symfony-ai-store-946c031c.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [symfony/redis-messenger](../records/php-symfony-redis-messenger-51144e05.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [t1nkl/postgres-pgbouncer-extension](../records/php-t1nkl-postgres-pgbouncer-extension-4b33a642.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [talleu/php-redis-om](../records/php-talleu-php-redis-om-931eaad1.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [thingengineer/mysqli-database-class](../records/php-thingengineer-mysqli-database-class-6caf1d6d.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [tigrov/yii2-pgsql](../records/php-tigrov-yii2-pgsql-15acef5c.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [topthink/think-orm](../records/php-topthink-think-orm-8bc7105b.md) | unknown | packagist_package_metadata_missing | registry-derived |
@@ -285,17 +314,20 @@ Records: `479`
 | [vpominchuk/laravel-mysql-use-index-scope](../records/php-vpominchuk-laravel-mysql-use-index-scope-a8d72406.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [vrana/adminer](../records/php-vrana-adminer-3044f9d5.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [wazaari/monolog-mysql](../records/php-wazaari-monolog-mysql-db23bd79.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [webman/redis-queue](../records/php-webman-redis-queue-a6717966.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [williamdes/mariadb-mysql-kbs](../records/php-williamdes-mariadb-mysql-kbs-aae2ca23.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [workerman/mysql](../records/php-workerman-mysql-a03072d8.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [workerman/redis-queue](../records/php-workerman-redis-queue-78173705.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [xethron/migrations-generator](../records/php-xethron-migrations-generator-bc6d82d9.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [yab/laravel-scout-mysql-driver](../records/php-yab-laravel-scout-mysql-driver-9af018fa.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [yadakhov/insert-on-duplicate-key](../records/php-yadakhov-insert-on-duplicate-key-07c18b9a.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [yangusik/laravel-balanced-queue](../records/php-yangusik-laravel-balanced-queue-482161ba.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [yiisoft/db-mysql](../records/php-yiisoft-db-mysql-78eed699.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [yiisoft/db-pgsql](../records/php-yiisoft-db-pgsql-5c04bd7f.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [yiisoft/yii2-queue](../records/php-yiisoft-yii2-queue-53e1fa57.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [yiisoft/yii2-redis](../records/php-yiisoft-yii2-redis-f53bf6ae.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [ymigval/laravel-model-cache](../records/php-ymigval-laravel-model-cache-ba95ee04.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [zaber-dev/laravel-cooldown](../records/php-zaber-dev-laravel-cooldown-88d1f854.md) | unknown | packagist_package_metadata_missing | registry-derived |
 
 ### Debugger
 
@@ -310,6 +342,8 @@ Records: `479`
 | [cerbero/json-parser](../records/php-cerbero-json-parser-38e82bf8.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [cuyz/valinor](../records/php-cuyz-valinor-b52313eb.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [enlightn/security-checker](../records/php-enlightn-security-checker-f8b3659a.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [jean85/pretty-package-versions](../records/php-jean85-pretty-package-versions-539cc4a4.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [matthiasnoback/symfony-dependency-injection-test](../records/php-matthiasnoback-symfony-dependency-injection-test-de55d545.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [rah/danpu](../records/php-rah-danpu-a4ad92c6.md) | unknown | packagist_package_metadata_missing | registry-derived |
 
 ### Documentation
@@ -326,6 +360,7 @@ Records: `479`
 | [amphp/http-client](../records/php-amphp-http-client-81576c4b.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [amphp/redis](../records/php-amphp-redis-23416eb5.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [easyswoole/mysqli](../records/php-easyswoole-mysqli-e0a059d6.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [iazaran/smart-cache](../records/php-iazaran-smart-cache-42afbaec.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [quickbooks/v3-php-sdk](../records/php-quickbooks-v3-php-sdk-ca2a5352.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [wildbit/postmark-php](../records/php-wildbit-postmark-php-ec56c007.md) | unknown | packagist_package_metadata_missing | registry-derived |
 
@@ -337,6 +372,7 @@ Records: `479`
 | [kartik-v/yii2-export](../records/php-kartik-v-yii2-export-d0718c10.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [kigkonsult/icalcreator](../records/php-kigkonsult-icalcreator-4d88cb23.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [nilportugues/sql-query-formatter](../records/php-nilportugues-sql-query-formatter-cbf8ab7c.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [phpunit/php-code-coverage](../records/php-phpunit-php-code-coverage-8e22e1f3.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [symfony/serializer](../records/php-symfony-serializer-134a9b77.md) | unknown | packagist_package_metadata_missing | registry-derived |
 
 ### Ide Editor Integration
@@ -361,15 +397,21 @@ Records: `479`
 | [guzzlehttp/psr7](../records/php-guzzlehttp-psr7-bdaca48c.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [josiasmontag/laravel-redis-mock](../records/php-josiasmontag-laravel-redis-mock-8816255e.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [laminas/laminas-json](../records/php-laminas-laminas-json-881c7b42.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [laravel/browser-kit-testing](../records/php-laravel-browser-kit-testing-70553ecc.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [laravel/dusk](../records/php-laravel-dusk-593038fb.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [league/glide](../records/php-league-glide-b588a7f3.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [liip/functional-test-bundle](../records/php-liip-functional-test-bundle-ec513120.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [nette/http](../records/php-nette-http-330045c5.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [opensoft/doctrine-postgres-types](../records/php-opensoft-doctrine-postgres-types-1f091a98.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [psr/http-server-handler](../records/php-psr-http-server-handler-72848de9.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [psr/http-server-middleware](../records/php-psr-http-server-middleware-85cca190.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [sabre/http](../records/php-sabre-http-dc1adc6c.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [semsol/arc2](../records/php-semsol-arc2-a56c62ea.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [swayok/alternative-laravel-cache](../records/php-swayok-alternative-laravel-cache-ad5cf391.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [symfony/http-client](../records/php-symfony-http-client-935938fb.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [symfony/http-kernel](../records/php-symfony-http-kernel-c8ae710d.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [symfony/phpunit-bridge](../records/php-symfony-phpunit-bridge-27bb01d4.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [typo3/testing-framework](../records/php-typo3-testing-framework-017dfea8.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [ukko/phpredis-phpdoc](../records/php-ukko-phpredis-phpdoc-d044663a.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [vimeo/php-mysql-engine](../records/php-vimeo-php-mysql-engine-62349442.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [zendframework/zend-json](../records/php-zendframework-zend-json-3d99c0da.md) | unknown | packagist_package_metadata_missing | registry-derived |
@@ -382,6 +424,12 @@ Records: `479`
 | [jane-php/json-schema-runtime](../records/php-jane-php-json-schema-runtime-b6e744d5.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [tedivm/stash](../records/php-tedivm-stash-a7a1de23.md) | unknown | packagist_package_metadata_missing | registry-derived |
 
+### Jit Vm
+
+| Name | Release | Date | Source |
+| --- | --- | --- | --- |
+| [nunomaduro/laravel-mojito](../records/php-nunomaduro-laravel-mojito-487a0a46.md) | unknown | packagist_package_metadata_missing | registry-derived |
+
 ### Language Specification
 
 | Name | Release | Date | Source |
@@ -391,6 +439,7 @@ Records: `479`
 | [laravel-lang/common](../records/php-laravel-lang-common-3d06c5b7.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [league/openapi-psr7-validator](../records/php-league-openapi-psr7-validator-792a5b40.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [phootwork/collection](../records/php-phootwork-collection-79743681.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [phpspec/phpspec](../records/php-phpspec-phpspec-7cfc50d3.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [pushery/webhooks-for-laravel](../records/php-pushery-webhooks-for-laravel-fa13f170.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [spatie/laravel-translation-loader](../records/php-spatie-laravel-translation-loader-7287e8cc.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [symfony/http-foundation](../records/php-symfony-http-foundation-e0b5e66d.md) | unknown | packagist_package_metadata_missing | registry-derived |
@@ -426,11 +475,13 @@ Records: `479`
 | [friendsofsymfony/http-cache-bundle](../records/php-friendsofsymfony-http-cache-bundle-5a46936d.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [fruitcake/php-cors](../records/php-fruitcake-php-cors-9d2fc866.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [geocoder-php/common-http](../records/php-geocoder-php-common-http-089b8627.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [geometria-lab/rediska](../records/php-geometria-lab-rediska-4636a6ab.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [guzzle/guzzle](../records/php-guzzle-guzzle-82525725.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [guzzlehttp/guzzle](../records/php-guzzlehttp-guzzle-8c3344ec.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [http-interop/http-factory-guzzle](../records/php-http-interop-http-factory-guzzle-66251638.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [illuminate/http](../records/php-illuminate-http-d6684101.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [ircmaxell/password-compat](../records/php-ircmaxell-password-compat-9b5a9f32.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [jenner/redis_sentinel](../records/php-jenner-redis-sentinel-b1794200.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [kevinrob/guzzle-cache-middleware](../records/php-kevinrob-guzzle-cache-middleware-e2205305.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [kreait/firebase-php](../records/php-kreait-firebase-php-08e35745.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [kriswallsmith/buzz](../records/php-kriswallsmith-buzz-4635f804.md) | unknown | packagist_package_metadata_missing | registry-derived |
@@ -441,6 +492,7 @@ Records: `479`
 | [league/uri-interfaces](../records/php-league-uri-interfaces-bc5d7a7b.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [macfja/redisearch](../records/php-macfja-redisearch-b901efab.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [mashape/unirest-php](../records/php-mashape-unirest-php-91a81352.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [massivescale/celery-php](../records/php-massivescale-celery-php-f5a95110.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [mezzio/mezzio](../records/php-mezzio-mezzio-3c631e15.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [mobiledetect/mobiledetectlib](../records/php-mobiledetect-mobiledetectlib-ad7fbbaa.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [monolog/monolog](../records/php-monolog-monolog-1118a746.md) | unknown | packagist_package_metadata_missing | registry-derived |
@@ -464,7 +516,9 @@ Records: `479`
 | [psr/http-message](../records/php-psr-http-message-ad43f3a8.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [psr/link](../records/php-psr-link-eb89bd05.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [ptrofimov/tinyredisclient](../records/php-ptrofimov-tinyredisclient-7a8c233c.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [pyurin/yii2-redis-ha](../records/php-pyurin-yii2-redis-ha-69e130cd.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [react/http](../records/php-react-http-8032846a.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [rediska/rediska](../records/php-rediska-rediska-d97d33cb.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [rmccue/requests](../records/php-rmccue-requests-25e894d0.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [sendgrid/php-http-client](../records/php-sendgrid-php-http-client-31a1c09f.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [sentry/sentry](../records/php-sentry-sentry-e24752c2.md) | unknown | packagist_package_metadata_missing | registry-derived |
@@ -495,6 +549,7 @@ Records: `479`
 | [colinodell/json5](../records/php-colinodell-json5-439a1c99.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [ddmaster/postgre-search-bundle](../records/php-ddmaster-postgre-search-bundle-bc9e1b20.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [ecotone/pdo-event-sourcing](../records/php-ecotone-pdo-event-sourcing-595186a1.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [elcobvg/laravel-opcache](../records/php-elcobvg-laravel-opcache-f858af5a.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [greenlion/php-sql-parser](../records/php-greenlion-php-sql-parser-ea960c02.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [halaxa/json-machine](../records/php-halaxa-json-machine-bc71d01f.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [heyosseus/vacuum](../records/php-heyosseus-vacuum-58e7dceb.md) | unknown | packagist_package_metadata_missing | registry-derived |
@@ -570,6 +625,7 @@ Records: `479`
 | [lcobucci/jwt](../records/php-lcobucci-jwt-cbc39996.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [league/fractal](../records/php-league-fractal-674ce28d.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [martin-georgiev/postgresql-for-doctrine](../records/php-martin-georgiev-postgresql-for-doctrine-ea48f018.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [mkorkmaz/redislabs-rejson](../records/php-mkorkmaz-redislabs-rejson-2d9cbf6b.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [ml/json-ld](../records/php-ml-json-ld-e2747906.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [mledoze/countries](../records/php-mledoze-countries-dc28ff6e.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [mtdowling/jmespath.php](../records/php-mtdowling-jmespath-php-68ef74bd.md) | unknown | packagist_package_metadata_missing | registry-derived |
@@ -601,31 +657,111 @@ Records: `479`
 | [wikimedia/composer-merge-plugin](../records/php-wikimedia-composer-merge-plugin-a6914da8.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [willdurand/jsonp-callback-validator](../records/php-willdurand-jsonp-callback-validator-e6c17b3a.md) | unknown | packagist_package_metadata_missing | registry-derived |
 
+### Static Analyzer
+
+| Name | Release | Date | Source |
+| --- | --- | --- | --- |
+| [moodlehq/moodle-plugin-ci](../records/php-moodlehq-moodle-plugin-ci-baf3db8b.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [phpmetrics/phpmetrics](../records/php-phpmetrics-phpmetrics-6539e460.md) | unknown | packagist_package_metadata_missing | registry-derived |
+
 ### Testing Framework
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [10up/wp_mock](../records/php-10up-wp-mock-b1eabddf.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [allure-framework/allure-codeception](../records/php-allure-framework-allure-codeception-d31ef854.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [allure-framework/allure-phpunit](../records/php-allure-framework-allure-phpunit-8d5922dc.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [antecedent/patchwork](../records/php-antecedent-patchwork-6b16f6b8.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [auth0/login](../records/php-auth0-login-2836946f.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [behat/behat](../records/php-behat-behat-1ac66d63.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [behat/mink](../records/php-behat-mink-39e58b31.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [behat/mink-browserkit-driver](../records/php-behat-mink-browserkit-driver-98d8bf49.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [behat/mink-goutte-driver](../records/php-behat-mink-goutte-driver-06fa9cac.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [behat/mink-selenium2-driver](../records/php-behat-mink-selenium2-driver-0bb973e4.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [blastcloud/guzzler](../records/php-blastcloud-guzzler-29d8d56b.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [brain/monkey](../records/php-brain-monkey-b87c3ad0.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [brianium/paratest](../records/php-brianium-paratest-5d2ff7f1.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [cachewerk/relay](../records/php-cachewerk-relay-fd3b6a06.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [codeception/codeception](../records/php-codeception-codeception-b82772cd.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [codeception/module-phpbrowser](../records/php-codeception-module-phpbrowser-4f1fc3bc.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [codedungeon/phpunit-result-printer](../records/php-codedungeon-phpunit-result-printer-b7a76b00.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [datto/json-rpc](../records/php-datto-json-rpc-18bf5447.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [dg/bypass-finals](../records/php-dg-bypass-finals-cfd4af36.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [donatj/mock-webserver](../records/php-donatj-mock-webserver-304f495f.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [enqueue/null](../records/php-enqueue-null-e2cf17df.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [facile-it/paraunit](../records/php-facile-it-paraunit-0f829898.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [friends-of-behat/mink-browserkit-driver](../records/php-friends-of-behat-mink-browserkit-driver-48ebfd65.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [giorgiosironi/eris](../records/php-giorgiosironi-eris-da37967d.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [hotmeteor/spectator](../records/php-hotmeteor-spectator-4c452161.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [illuminate/testing](../records/php-illuminate-testing-c0797d21.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [imbo/behat-api-extension](../records/php-imbo-behat-api-extension-0d166f35.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [infection/infection](../records/php-infection-infection-5cb0e178.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [jasonmccreary/laravel-test-assertions](../records/php-jasonmccreary-laravel-test-assertions-3c530315.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [kahlan/kahlan](../records/php-kahlan-kahlan-b4439ba0.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [laravel/pao](../records/php-laravel-pao-b15b4327.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [lchrusciel/api-test-case](../records/php-lchrusciel-api-test-case-b764f954.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [league/factory-muffin](../records/php-league-factory-muffin-4e26fb4e.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [liip/test-fixtures-bundle](../records/php-liip-test-fixtures-bundle-4b608383.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [liuggio/fastest](../records/php-liuggio-fastest-a71c05c0.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [magento/magento2-functional-testing-framework](../records/php-magento-magento2-functional-testing-framework-e0c44b79.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [matthiasnoback/symfony-config-test](../records/php-matthiasnoback-symfony-config-test-774f98bd.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [mockery/mockery](../records/php-mockery-mockery-989ab6c2.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [nesk/puphpeteer](../records/php-nesk-puphpeteer-1e104c3b.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [nette/tester](../records/php-nette-tester-7b4bf718.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [nunomaduro/pao](../records/php-nunomaduro-pao-58ddb2fb.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [orchestra/testbench](../records/php-orchestra-testbench-b6262123.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [orchestra/testbench-core](../records/php-orchestra-testbench-core-82efdda1.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [orchestra/workbench](../records/php-orchestra-workbench-124aad78.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [osteel/openapi-httpfoundation-testing](../records/php-osteel-openapi-httpfoundation-testing-38132d85.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [pestphp/pest](../records/php-pestphp-pest-dc1dab35.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [pestphp/pest-plugin](../records/php-pestphp-pest-plugin-d2cd7c87.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [pestphp/pest-plugin-arch](../records/php-pestphp-pest-plugin-arch-94c527f3.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [pestphp/pest-plugin-browser](../records/php-pestphp-pest-plugin-browser-b777b881.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [pestphp/pest-plugin-drift](../records/php-pestphp-pest-plugin-drift-886d1b08.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [pestphp/pest-plugin-faker](../records/php-pestphp-pest-plugin-faker-cc3fbc92.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [pestphp/pest-plugin-laravel](../records/php-pestphp-pest-plugin-laravel-04bd5d98.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [pestphp/pest-plugin-livewire](../records/php-pestphp-pest-plugin-livewire-038953ce.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [pestphp/pest-plugin-mutate](../records/php-pestphp-pest-plugin-mutate-4b5e2873.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [pestphp/pest-plugin-profanity](../records/php-pestphp-pest-plugin-profanity-458e96b1.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [pestphp/pest-plugin-rector](../records/php-pestphp-pest-plugin-rector-185fa044.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [pestphp/pest-plugin-stressless](../records/php-pestphp-pest-plugin-stressless-faa247c1.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [pestphp/pest-plugin-type-coverage](../records/php-pestphp-pest-plugin-type-coverage-b6cd8372.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [phake/phake](../records/php-phake-phake-4a35f151.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [php-mock/php-mock](../records/php-php-mock-php-mock-2979ac6c.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [php-mock/php-mock-phpunit](../records/php-php-mock-php-mock-phpunit-4c0fde66.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [php-vcr/php-vcr](../records/php-php-vcr-php-vcr-c1e12283.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [phpunit/dbunit](../records/php-phpunit-dbunit-7e156610.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [phpunit/phpunit](../records/php-phpunit-phpunit-ae09f04f.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [phpunit/phpunit-selenium](../records/php-phpunit-phpunit-selenium-eca8a877.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [playwright-php/playwright](../records/php-playwright-php-playwright-9003c2a1.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [rregeer/phpunit-coverage-check](../records/php-rregeer-phpunit-coverage-check-8b8b30a2.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [shipmonk/coverage-guard](../records/php-shipmonk-coverage-guard-c399e33b.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [spatie/phpunit-snapshot-assertions](../records/php-spatie-phpunit-snapshot-assertions-ab692978.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [sti3bas/laravel-scout-array-driver](../records/php-sti3bas-laravel-scout-array-driver-aae1e4ec.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [symfony/panther](../records/php-symfony-panther-1198f910.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [symfony/test-pack](../records/php-symfony-test-pack-540a4fcf.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [ta-tikoma/phpunit-architecture-test](../records/php-ta-tikoma-phpunit-architecture-test-7a5761d5.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [testo/testo](../records/php-testo-testo-49081e78.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [timacdonald/log-fake](../records/php-timacdonald-log-fake-33765eb1.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [yoast/phpunit-polyfills](../records/php-yoast-phpunit-polyfills-5919c6bb.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [zenstruck/messenger-test](../records/php-zenstruck-messenger-test-cfc59267.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [zoon/puphpeteer](../records/php-zoon-puphpeteer-a8c5374b.md) | unknown | packagist_package_metadata_missing | registry-derived |
 
 ### Undefined Behavior Analyzer
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [chrisboulton/php-resque](../records/php-chrisboulton-php-resque-9bd303ad.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [daylerees/scientist](../records/php-daylerees-scientist-40ffdcb5.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [erik-dubbelboer/php-redis-admin](../records/php-erik-dubbelboer-php-redis-admin-e9d560c6.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [gos/pubsub-router-bundle](../records/php-gos-pubsub-router-bundle-8f784236.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [hyperf/database-pgsql-incubator](../records/php-hyperf-database-pgsql-incubator-fa82b233.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [jeremykendall/php-domain-parser](../records/php-jeremykendall-php-domain-parser-1dfe6960.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [kamisama/php-resque-ex](../records/php-kamisama-php-resque-ex-0763127e.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [mix/redis-subscriber](../records/php-mix-redis-subscriber-5bb558f8.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [resque/php-resque](../records/php-resque-php-resque-ff1ab564.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [rhubarbgroup/redis-cache](../records/php-rhubarbgroup-redis-cache-73088f85.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [superbalist/php-pubsub-redis](../records/php-superbalist-php-pubsub-redis-a138954e.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [teamtnt/laravel-scout-tntsearch-driver](../records/php-teamtnt-laravel-scout-tntsearch-driver-09954290.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [typesense/typesense-php](../records/php-typesense-typesense-php-32ad1fb3.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [zordius/lightncandy](../records/php-zordius-lightncandy-07e506c8.md) | unknown | packagist_package_metadata_missing | registry-derived |
@@ -634,5 +770,8 @@ Records: `479`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [intaro/pinba-bundle](../records/php-intaro-pinba-bundle-cca9b5a1.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [launchdarkly/server-sdk-redis-predis](../records/php-launchdarkly-server-sdk-redis-predis-de02cbe8.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [symfony-cmf/routing](../records/php-symfony-cmf-routing-ab21d7c4.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [tpetry/laravel-query-expressions](../records/php-tpetry-laravel-query-expressions-63bdd853.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [zaber-dev/laravel-quota](../records/php-zaber-dev-laravel-quota-5a5e9635.md) | unknown | packagist_package_metadata_missing | registry-derived |

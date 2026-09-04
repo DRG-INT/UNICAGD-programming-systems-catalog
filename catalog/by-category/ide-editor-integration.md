@@ -1,6 +1,6 @@
 # Ide Editor Integration
 
-Records: `1341`
+Records: `1348`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `1341`
 
 ## Category Index
 
-[Api Abi Checker (206)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (135)](async-runtime.md)
-[Benchmarking (167)](benchmarking.md) · [Build System (925)](build-system.md) · [Cli (546)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (206)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Benchmarking (169)](benchmarking.md) · [Build System (928)](build-system.md) · [Cli (547)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (101)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
 [Concurrency Parallelism (83)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (165)](cryptography.md) · [Data Science (36)](data-science.md) · [Database Datastore (852)](database-datastore.md) · [Datetime (190)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (99)](documentation.md)
-[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (414)](ffi-bindings.md) · [Filesystem Os (1427)](filesystem-os.md) · [Formatter (616)](formatter.md)
-[Framework (56)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (175)](game-engine-game-dev.md) · **[Ide Editor Integration (1341)](ide-editor-integration.md)**
-[Image Audio Dsp (398)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (254)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1391)](language-specification.md) · [Library (5320)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Cryptography (165)](cryptography.md) · [Data Science (36)](data-science.md) · [Database Datastore (878)](database-datastore.md) · [Datetime (190)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (95)](dependency-manager.md) · [Documentation (99)](documentation.md)
+[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (415)](ffi-bindings.md) · [Filesystem Os (1427)](filesystem-os.md) · [Formatter (618)](formatter.md)
+[Framework (56)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (175)](game-engine-game-dev.md) · **[Ide Editor Integration (1348)](ide-editor-integration.md)**
+[Image Audio Dsp (398)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (254)](interpreter-runtime.md) · [Jit Vm (61)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1394)](language-specification.md) · [Library (5327)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (487)](logging-observability.md) · [Machine Learning (673)](machine-learning.md)
-[Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (90)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (987)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (423)](package-manager.md) · [Parser Lexer Ast (1034)](parser-lexer-ast.md) · [Precommit Ci Quality (284)](precommit-ci-quality.md)
+[Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (90)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (992)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (423)](package-manager.md) · [Parser Lexer Ast (1035)](parser-lexer-ast.md) · [Precommit Ci Quality (284)](precommit-ci-quality.md)
 [Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (333)](security-sast.md) · [Serialization (384)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (503)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (526)](testing-framework.md) · [Tutorial Book Styleguide (59)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
-[Undefined Behavior Analyzer (1517)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (478)](visualization-gui.md) · [Web Framework (459)](web-framework.md)
+[Security Sast (333)](security-sast.md) · [Serialization (385)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (508)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (595)](testing-framework.md) · [Tutorial Book Styleguide (59)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
+[Undefined Behavior Analyzer (1522)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (478)](visualization-gui.md) · [Web Framework (462)](web-framework.md)
 
 ## C++23
 
@@ -201,7 +201,7 @@ Records: `1341`
 | @sap/logging | 9.2.2 | 2026-08-12T10:43:50.446Z | [open](../records/node-js-javascript-sap-logging-c02ac4fa.md) |
 | @stigg/node-server-sdk | 5.0.0 | 2026-09-02T09:45:14.164Z | [open](../records/node-js-javascript-stigg-node-server-sdk-50fbbd0a.md) |
 | @stoplight/prism-http | 5.16.0 | 2026-07-17T08:02:33.709Z | [open](../records/node-js-javascript-stoplight-prism-http-85e35ffc.md) |
-| @supabase/ssr | 0.12.5 | 2026-08-24T11:35:07.081Z | [open](../records/node-js-javascript-supabase-ssr-8731a292.md) |
+| @supabase/ssr | 0.12.6 | 2026-09-04T11:05:29.648Z | [open](../records/node-js-javascript-supabase-ssr-8731a292.md) |
 | @twin.org/logging-service | 0.9.2 | 2026-08-24T02:59:23.700Z | [open](../records/node-js-javascript-twin-org-logging-service-909855f5.md) |
 | @vechain/sdk-logging | 2.1.0 | 2026-08-24T16:20:26.975Z | [open](../records/node-js-javascript-vechain-sdk-logging-1f3c19e1.md) |
 | @vscode-logging/types | 2.0.10 | 2026-08-27T13:28:30.044Z | [open](../records/node-js-javascript-vscode-logging-types-b04a20c8.md) |
@@ -523,7 +523,7 @@ Records: `1341`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | amazonka-cognito-identity | 2.0 | 2023-07-27T21:08:35Z | [open](../records/haskell-amazonka-cognito-identity-d98828df.md) |
-| ghcide | 2.14.0.0 | 2026-04-27T06:47:58Z | [open](../records/haskell-ghcide-c9d6b87b.md) |
+| ghcide | 2.15.0.0 | 2026-09-04T10:38:09Z | [open](../records/haskell-ghcide-c9d6b87b.md) |
 | gi-gstvideo | 1.0.29 | 2024-06-16T21:13:01Z | [open](../records/haskell-gi-gstvideo-66f4ee23.md) |
 | nvim-hs | 2.3.2.6 | 2026-07-27T17:13:40Z | [open](../records/haskell-nvim-hs-3c1d3ecb.md) |
 | threepenny-editors | 0.5.6.1 | 2018-10-07T18:47:00Z | [open](../records/haskell-threepenny-editors-dc79fbe9.md) |
@@ -572,7 +572,7 @@ Records: `1341`
 | amplify_auth_cognito | 2.15.0 | 2026-08-19T12:00:36.613863Z | [open](../records/dart-amplify-auth-cognito-29e1400a.md) |
 | amplify_storage_s3 | 2.15.0 | 2026-08-19T11:56:06.433476Z | [open](../records/dart-amplify-storage-s3-16e3df4b.md) |
 | animated_size_and_fade | 5.1.1 | 2025-02-13T21:38:02.102321Z | [open](../records/dart-animated-size-and-fade-15eb5f44.md) |
-| better_player | 1.4.0 | 2026-09-03T15:36:36.336895Z | [open](../records/dart-better-player-084ef311.md) |
+| better_player | 1.5.0 | 2026-09-04T10:25:49.530005Z | [open](../records/dart-better-player-084ef311.md) |
 | better_player_plus | 1.3.5 | 2026-08-14T12:29:21.766340Z | [open](../records/dart-better-player-plus-f2e721c7.md) |
 | blurhash_dart | 1.2.1 | 2023-02-04T18:12:38.723765Z | [open](../records/dart-blurhash-dart-d4cabd9f.md) |
 | camera | 0.12.1 | 2026-09-03T15:28:41.235977Z | [open](../records/dart-camera-01cb47c6.md) |
@@ -678,10 +678,10 @@ Records: `1341`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-03T13:31:40Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-04T11:08:10Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-04T12:24:43Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-03T04:03:18Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-04T08:30:00Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-04T09:11:04Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-04T12:15:07Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-04T07:16:30Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-04T11:12:12Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
@@ -1374,6 +1374,7 @@ Records: `1341`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| dan-c-underwood/vscode-arm | partial | 2024-01-13T13:26:17Z | [open](../records/assembly-dan-c-underwood-vscode-arm-40542dc4.md) |
 | eatonphil/x86e | partial | 2023-01-03T20:16:21Z | [open](../records/assembly-eatonphil-x86e-a3d2b156.md) |
 | kovidomi/game-reversing | partial | 2023-04-05T15:11:33Z | [open](../records/assembly-kovidomi-game-reversing-eb71b6a8.md) |
 | mikeroyal/Assembly-Guide | partial | 2022-01-02T23:58:29Z | [open](../records/assembly-mikeroyal-assembly-guide-e4afccda.md) |
@@ -1418,15 +1419,21 @@ Records: `1341`
 | guzzlehttp/psr7 | unknown | packagist_package_metadata_missing | [open](../records/php-guzzlehttp-psr7-bdaca48c.md) |
 | josiasmontag/laravel-redis-mock | unknown | packagist_package_metadata_missing | [open](../records/php-josiasmontag-laravel-redis-mock-8816255e.md) |
 | laminas/laminas-json | unknown | packagist_package_metadata_missing | [open](../records/php-laminas-laminas-json-881c7b42.md) |
+| laravel/browser-kit-testing | unknown | packagist_package_metadata_missing | [open](../records/php-laravel-browser-kit-testing-70553ecc.md) |
+| laravel/dusk | unknown | packagist_package_metadata_missing | [open](../records/php-laravel-dusk-593038fb.md) |
 | league/glide | unknown | packagist_package_metadata_missing | [open](../records/php-league-glide-b588a7f3.md) |
+| liip/functional-test-bundle | unknown | packagist_package_metadata_missing | [open](../records/php-liip-functional-test-bundle-ec513120.md) |
 | nette/http | unknown | packagist_package_metadata_missing | [open](../records/php-nette-http-330045c5.md) |
 | opensoft/doctrine-postgres-types | unknown | packagist_package_metadata_missing | [open](../records/php-opensoft-doctrine-postgres-types-1f091a98.md) |
 | psr/http-server-handler | unknown | packagist_package_metadata_missing | [open](../records/php-psr-http-server-handler-72848de9.md) |
 | psr/http-server-middleware | unknown | packagist_package_metadata_missing | [open](../records/php-psr-http-server-middleware-85cca190.md) |
 | sabre/http | unknown | packagist_package_metadata_missing | [open](../records/php-sabre-http-dc1adc6c.md) |
 | semsol/arc2 | unknown | packagist_package_metadata_missing | [open](../records/php-semsol-arc2-a56c62ea.md) |
+| swayok/alternative-laravel-cache | unknown | packagist_package_metadata_missing | [open](../records/php-swayok-alternative-laravel-cache-ad5cf391.md) |
 | symfony/http-client | unknown | packagist_package_metadata_missing | [open](../records/php-symfony-http-client-935938fb.md) |
 | symfony/http-kernel | unknown | packagist_package_metadata_missing | [open](../records/php-symfony-http-kernel-c8ae710d.md) |
+| symfony/phpunit-bridge | unknown | packagist_package_metadata_missing | [open](../records/php-symfony-phpunit-bridge-27bb01d4.md) |
+| typo3/testing-framework | unknown | packagist_package_metadata_missing | [open](../records/php-typo3-testing-framework-017dfea8.md) |
 | ukko/phpredis-phpdoc | unknown | packagist_package_metadata_missing | [open](../records/php-ukko-phpredis-phpdoc-d044663a.md) |
 | vimeo/php-mysql-engine | unknown | packagist_package_metadata_missing | [open](../records/php-vimeo-php-mysql-engine-62349442.md) |
 | zendframework/zend-json | unknown | packagist_package_metadata_missing | [open](../records/php-zendframework-zend-json-3d99c0da.md) |

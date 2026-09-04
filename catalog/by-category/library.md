@@ -1,6 +1,6 @@
 # Library
 
-Records: `5320`
+Records: `5327`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `5320`
 
 ## Category Index
 
-[Api Abi Checker (206)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (135)](async-runtime.md)
-[Benchmarking (167)](benchmarking.md) · [Build System (925)](build-system.md) · [Cli (546)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (206)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Benchmarking (169)](benchmarking.md) · [Build System (928)](build-system.md) · [Cli (547)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (101)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
 [Concurrency Parallelism (83)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (165)](cryptography.md) · [Data Science (36)](data-science.md) · [Database Datastore (852)](database-datastore.md) · [Datetime (190)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (99)](documentation.md)
-[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (414)](ffi-bindings.md) · [Filesystem Os (1427)](filesystem-os.md) · [Formatter (616)](formatter.md)
-[Framework (56)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (175)](game-engine-game-dev.md) · [Ide Editor Integration (1341)](ide-editor-integration.md)
-[Image Audio Dsp (398)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (254)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1391)](language-specification.md) · **[Library (5320)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Cryptography (165)](cryptography.md) · [Data Science (36)](data-science.md) · [Database Datastore (878)](database-datastore.md) · [Datetime (190)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (95)](dependency-manager.md) · [Documentation (99)](documentation.md)
+[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (415)](ffi-bindings.md) · [Filesystem Os (1427)](filesystem-os.md) · [Formatter (618)](formatter.md)
+[Framework (56)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (175)](game-engine-game-dev.md) · [Ide Editor Integration (1348)](ide-editor-integration.md)
+[Image Audio Dsp (398)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (254)](interpreter-runtime.md) · [Jit Vm (61)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1394)](language-specification.md) · **[Library (5327)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (487)](logging-observability.md) · [Machine Learning (673)](machine-learning.md)
-[Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (90)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (987)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (423)](package-manager.md) · [Parser Lexer Ast (1034)](parser-lexer-ast.md) · [Precommit Ci Quality (284)](precommit-ci-quality.md)
+[Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (90)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (992)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (423)](package-manager.md) · [Parser Lexer Ast (1035)](parser-lexer-ast.md) · [Precommit Ci Quality (284)](precommit-ci-quality.md)
 [Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (333)](security-sast.md) · [Serialization (384)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (503)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (526)](testing-framework.md) · [Tutorial Book Styleguide (59)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
-[Undefined Behavior Analyzer (1517)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (478)](visualization-gui.md) · [Web Framework (459)](web-framework.md)
+[Security Sast (333)](security-sast.md) · [Serialization (385)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (508)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (595)](testing-framework.md) · [Tutorial Book Styleguide (59)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
+[Undefined Behavior Analyzer (1522)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (478)](visualization-gui.md) · [Web Framework (462)](web-framework.md)
 
 ## C99
 
@@ -2500,6 +2500,7 @@ Records: `5320`
 | BayesQRCount | 0.1.0 | 2026-08-05 09:30:08 UTC | [open](../records/r-bayesqrcount-49447662.md) |
 | BayesRTMB | 0.3.0 | 2026-08-20 12:12:04 UTC | [open](../records/r-bayesrtmb-b0ab0317.md) |
 | bayess | 1.7 | 2026-08-28 09:50:37 UTC | [open](../records/r-bayess-abc3a694.md) |
+| BBEST | 0.1-9 | 2026-09-04 11:10:02 UTC | [open](../records/r-bbest-3f7f8b5f.md) |
 | bbssr | 2.0.0 | 2026-08-20 11:02:11 UTC | [open](../records/r-bbssr-e12a9809.md) |
 | BCodifSIS | 0.3.2 | 2026-08-06 13:00:08 UTC | [open](../records/r-bcodifsis-88334453.md) |
 | BEND | 2.1.2 | 2026-08-25 16:30:02 UTC | [open](../records/r-bend-ba243bff.md) |
@@ -2626,6 +2627,7 @@ Records: `5320`
 | FPScausal | 0.1.1 | 2026-08-23 10:20:02 UTC | [open](../records/r-fpscausal-cb9c5b17.md) |
 | fracreg | 1.1.0 | 2026-08-20 13:00:02 UTC | [open](../records/r-fracreg-cbf7ff53.md) |
 | freegroup | 1.2-1-1 | 2026-08-21 21:50:02 UTC | [open](../records/r-freegroup-5fae418a.md) |
+| frheritage | 0.1.2 | 2026-09-04 10:30:02 UTC | [open](../records/r-frheritage-8d28c42c.md) |
 | fungible | 2.4.8 | 2026-09-04 05:10:35 UTC | [open](../records/r-fungible-717f8691.md) |
 | FusionForests | 1.0.1 | 2026-08-09 06:40:10 UTC | [open](../records/r-fusionforests-cce39537.md) |
 | galamm | 0.4.1 | 2026-08-31 19:00:11 UTC | [open](../records/r-galamm-5ae5b378.md) |
@@ -3428,7 +3430,7 @@ Records: `5320`
 | hledger-web | 1.52.3 | 2026-08-27T11:08:33Z | [open](../records/haskell-hledger-web-8f01564b.md) |
 | hlibgit2 | 0.18.0.16 | 2017-02-07T15:57:08Z | [open](../records/haskell-hlibgit2-63abc9d4.md) |
 | HList | 0.5.4.0 | 2025-02-20T22:47:59Z | [open](../records/haskell-hlist-03c5718b.md) |
-| hls-graph | 2.14.0.0 | 2026-04-27T06:48:02Z | [open](../records/haskell-hls-graph-dfa7953b.md) |
+| hls-graph | 2.15.0.0 | 2026-09-04T10:38:08Z | [open](../records/haskell-hls-graph-dfa7953b.md) |
 | hmatrix | 0.20.2 | 2021-03-08T08:41:57Z | [open](../records/haskell-hmatrix-db2235a8.md) |
 | hmatrix-gsl-stats | 0.4.1.8 | 2019-06-11T02:08:25Z | [open](../records/haskell-hmatrix-gsl-stats-c1835cf9.md) |
 | hnix | 0.17.0 | 2023-11-20T21:56:55Z | [open](../records/haskell-hnix-c2074b72.md) |
@@ -3599,6 +3601,7 @@ Records: `5320`
 | one-liner | 2.1.1 | 2026-01-06T16:00:46Z | [open](../records/haskell-one-liner-410c9444.md) |
 | OneTuple | 0.4.3 | 2026-05-08T12:25:37Z | [open](../records/haskell-onetuple-91e34ca7.md) |
 | opaleye | 0.10.8.0 | 2026-05-09T09:48:25Z | [open](../records/haskell-opaleye-393f9340.md) |
+| open-browser | 0.5.1.0 | 2026-07-01T19:31:27Z | [open](../records/haskell-open-browser-fead5289.md) |
 | OpenAL | 1.7.0.5 | 2019-06-10T16:04:48Z | [open](../records/haskell-openal-7e79e3fa.md) |
 | OpenGL | 3.0.3.0 | 2019-05-06T12:03:03Z | [open](../records/haskell-opengl-6419881e.md) |
 | OpenGLRaw | 3.3.4.1 | 2021-11-14T15:29:03Z | [open](../records/haskell-openglraw-2441234c.md) |
@@ -3610,6 +3613,7 @@ Records: `5320`
 | pandoc-types | 1.23.1.2 | 2026-06-01T10:44:07Z | [open](../records/haskell-pandoc-types-adaa5ec7.md) |
 | pantry | 0.11.4 | 2026-07-07T13:34:13Z | [open](../records/haskell-pantry-e52f0809.md) |
 | parconc-examples | 0.4.8 | 2021-04-02T11:31:32Z | [open](../records/haskell-parconc-examples-cce2e419.md) |
+| parseargs | 0.2.0.9 | 2019-02-07T09:27:02Z | [open](../records/haskell-parseargs-3a08c5f8.md) |
 | parsec | 3.1.18.0 | 2025-01-05T00:08:05Z | [open](../records/haskell-parsec-f2ad9855.md) |
 | parsley-core | 2.3.0.0 | 2023-08-20T08:45:40Z | [open](../records/haskell-parsley-core-2f9ffbd4.md) |
 | password | 3.1.1.0 | 2026-05-03T13:15:24Z | [open](../records/haskell-password-cf3b82cc.md) |
@@ -3618,7 +3622,7 @@ Records: `5320`
 | persistent | 2.18.1.0 | 2026-01-14T23:05:56Z | [open](../records/haskell-persistent-9b1724c4.md) |
 | persistent-mongoDB | 2.13.1.0 | 2024-09-13T15:11:56Z | [open](../records/haskell-persistent-mongodb-24599212.md) |
 | pgdl | 10.10 | 2018-01-15T17:33:34Z | [open](../records/haskell-pgdl-6b04d821.md) |
-| phino | 0.0.114 | 2026-09-03T08:03:12Z | [open](../records/haskell-phino-0ffa79f2.md) |
+| phino | 0.0.115 | 2026-09-04T11:31:34Z | [open](../records/haskell-phino-0ffa79f2.md) |
 | pinboard | 0.10.3.0 | 2022-05-07T23:32:56Z | [open](../records/haskell-pinboard-08e346f1.md) |
 | pinch | 0.5.2.0 | 2024-07-09T02:44:30Z | [open](../records/haskell-pinch-801ed692.md) |
 | plugins | 1.6.2.1 | 2022-03-27T15:40:09Z | [open](../records/haskell-plugins-1103fc5c.md) |
@@ -3717,6 +3721,7 @@ Records: `5320`
 | sbv | 14.7 | 2026-08-31T19:54:03Z | [open](../records/haskell-sbv-937d1d8f.md) |
 | scc | 0.8.4.1 | 2026-01-19T00:43:19Z | [open](../records/haskell-scc-f184b20e.md) |
 | scotty | 0.30 | 2026-01-07T10:12:21Z | [open](../records/haskell-scotty-f82d02fe.md) |
+| scripths | 0.5.5.0 | 2026-08-16T05:53:53Z | [open](../records/haskell-scripths-79fd5b51.md) |
 | sdl2 | 2.5.6.1 | 2026-08-31T06:33:44Z | [open](../records/haskell-sdl2-595d37f1.md) |
 | secp256k1 | 1.1.2 | 2018-09-02T20:35:48Z | [open](../records/haskell-secp256k1-67f02385.md) |
 | secretspec | 0.20.0 | 2026-08-31T18:05:39Z | [open](../records/haskell-secretspec-dd9d987d.md) |
@@ -4163,7 +4168,7 @@ Records: `5320`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-04T06:00:59Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-04T12:21:46Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -5114,6 +5119,7 @@ Records: `5320`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| 0x00pf/programming4wannabes | partial | 2025-01-26T14:55:57Z | [open](../records/assembly-0x00pf-programming4wannabes-8dd4905d.md) |
 | 0xAX/asm | partial | 2026-08-25T10:24:56Z | [open](../records/assembly-0xax-asm-c781f702.md) |
 | abatchy17/SLAE | partial | 2017-05-23T23:03:04Z | [open](../records/assembly-abatchy17-slae-9f5ee474.md) |
 | ajkhoury/UEFI-Bootkit | partial | 2019-08-29T14:16:09Z | [open](../records/assembly-ajkhoury-uefi-bootkit-3307a09a.md) |
@@ -5139,6 +5145,7 @@ Records: `5320`
 | meribold/btry | partial | 2026-08-02T18:34:33Z | [open](../records/assembly-meribold-btry-acc80abb.md) |
 | mmcloughlin/avo | partial | 2026-09-01T05:34:18Z | [open](../records/assembly-mmcloughlin-avo-46167d30.md) |
 | mohitmishra786/amILearningEnough | partial | 2026-03-26T16:42:23Z | [open](../records/assembly-mohitmishra786-amilearningenough-299c3826.md) |
+| pgaskin/kobo-mods | partial | 2026-08-15T01:59:10Z | [open](../records/assembly-pgaskin-kobo-mods-bbd1ab40.md) |
 | pgaskin/kobopatch | partial | 2026-03-17T19:44:48Z | [open](../records/assembly-pgaskin-kobopatch-ac409c3c.md) |
 | resilar/HotFinger | partial | 2025-09-28T06:43:41Z | [open](../records/assembly-resilar-hotfinger-a0e2596b.md) |
 | ReturnInfinity/Pure64 | partial | 2026-06-12T19:29:07Z | [open](../records/assembly-returninfinity-pure64-67a8cce1.md) |

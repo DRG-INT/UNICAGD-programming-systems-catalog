@@ -8,23 +8,23 @@ Records: `2407`
 
 ## Category Index
 
-[Api Abi Checker (206)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (45)](../by-category/assertion-mocking.md) · [Async Runtime (135)](../by-category/async-runtime.md)
-[Benchmarking (167)](../by-category/benchmarking.md) · [Build System (925)](../by-category/build-system.md) · [Cli (546)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Api Abi Checker (206)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (45)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
+[Benchmarking (169)](../by-category/benchmarking.md) · [Build System (928)](../by-category/build-system.md) · [Cli (547)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (101)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (48)](../by-category/compression.md)
 [Concurrency Parallelism (83)](../by-category/concurrency-parallelism.md) · [Configuration (116)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (165)](../by-category/cryptography.md) · [Data Science (36)](../by-category/data-science.md) · [Database Datastore (852)](../by-category/database-datastore.md) · [Datetime (190)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (93)](../by-category/dependency-manager.md) · [Documentation (99)](../by-category/documentation.md)
-[Embedded Hardware (55)](../by-category/embedded-hardware.md) · [Ffi Bindings (414)](../by-category/ffi-bindings.md) · [Filesystem Os (1427)](../by-category/filesystem-os.md) · [Formatter (616)](../by-category/formatter.md)
-[Framework (56)](../by-category/framework.md) · [Fuzzer (56)](../by-category/fuzzer.md) · [Game Engine Game Dev (175)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1341)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (398)](../by-category/image-audio-dsp.md) · [Interop Bindings (58)](../by-category/interop-bindings.md) · [Interpreter Runtime (254)](../by-category/interpreter-runtime.md) · [Jit Vm (60)](../by-category/jit-vm.md)
-[Language Server (27)](../by-category/language-server.md) · [Language Specification (1391)](../by-category/language-specification.md) · [Library (5320)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Cryptography (165)](../by-category/cryptography.md) · [Data Science (36)](../by-category/data-science.md) · [Database Datastore (878)](../by-category/database-datastore.md) · [Datetime (190)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (42)](../by-category/debugger.md) · [Dependency Manager (95)](../by-category/dependency-manager.md) · [Documentation (99)](../by-category/documentation.md)
+[Embedded Hardware (55)](../by-category/embedded-hardware.md) · [Ffi Bindings (415)](../by-category/ffi-bindings.md) · [Filesystem Os (1427)](../by-category/filesystem-os.md) · [Formatter (618)](../by-category/formatter.md)
+[Framework (56)](../by-category/framework.md) · [Fuzzer (56)](../by-category/fuzzer.md) · [Game Engine Game Dev (175)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1348)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (398)](../by-category/image-audio-dsp.md) · [Interop Bindings (58)](../by-category/interop-bindings.md) · [Interpreter Runtime (254)](../by-category/interpreter-runtime.md) · [Jit Vm (61)](../by-category/jit-vm.md)
+[Language Server (27)](../by-category/language-server.md) · [Language Specification (1394)](../by-category/language-specification.md) · [Library (5327)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (43)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (487)](../by-category/logging-observability.md) · [Machine Learning (673)](../by-category/machine-learning.md)
-[Math Numeric Scientific (85)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (90)](../by-category/memory-analyzer.md) · [Message Broker (39)](../by-category/message-broker.md) · [Networking Http (987)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (423)](../by-category/package-manager.md) · [Parser Lexer Ast (1034)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (284)](../by-category/precommit-ci-quality.md)
+[Math Numeric Scientific (85)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (90)](../by-category/memory-analyzer.md) · [Message Broker (39)](../by-category/message-broker.md) · [Networking Http (992)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (423)](../by-category/package-manager.md) · [Parser Lexer Ast (1035)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (284)](../by-category/precommit-ci-quality.md)
 [Profiler (82)](../by-category/profiler.md) · [Project Scaffolding (130)](../by-category/project-scaffolding.md) · [Registry Repository (108)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
-[Security Sast (333)](../by-category/security-sast.md) · [Serialization (384)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (503)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (526)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (59)](../by-category/tutorial-book-styleguide.md) · [Type Checker (301)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1517)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](../by-category/utility-library.md) · [Visualization Gui (478)](../by-category/visualization-gui.md) · [Web Framework (459)](../by-category/web-framework.md)
+[Security Sast (333)](../by-category/security-sast.md) · [Serialization (385)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (508)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (595)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (59)](../by-category/tutorial-book-styleguide.md) · [Type Checker (301)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1522)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (95)](../by-category/utility-library.md) · [Visualization Gui (478)](../by-category/visualization-gui.md) · [Web Framework (462)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -397,7 +397,7 @@ Records: `2407`
 | [@ionic/cli-framework-output](../records/node-js-javascript-ionic-cli-framework-output-8324bb8a.md) | 2.2.8 | 2023-12-19T22:38:35.365Z | registry-derived |
 | [@ionic/cli-framework-prompts](../records/node-js-javascript-ionic-cli-framework-prompts-5599c31f.md) | 2.1.13 | 2023-12-19T22:38:35.436Z | registry-derived |
 | [@knocklabs/cli](../records/node-js-javascript-knocklabs-cli-62154908.md) | 1.2.3 | 2026-08-13T15:12:15.170Z | registry-derived |
-| [@lightdash/cli](../records/node-js-javascript-lightdash-cli-ba24b859.md) | 2.122.1 | 2026-09-04T10:13:52.992Z | registry-derived |
+| [@lightdash/cli](../records/node-js-javascript-lightdash-cli-ba24b859.md) | 2.125.0 | 2026-09-04T11:24:54.861Z | registry-derived |
 | [@lingui/cli](../records/node-js-javascript-lingui-cli-343f33ec.md) | 6.6.0 | 2026-07-24T13:52:53.439Z | registry-derived |
 | [@maizzle/cli](../records/node-js-javascript-maizzle-cli-a7a13457.md) | 2.0.0 | 2024-12-16T17:59:24.900Z | registry-derived |
 | [@marp-team/marp-cli](../records/node-js-javascript-marp-team-marp-cli-b69e1548.md) | 4.5.0 | 2026-07-17T23:07:09.399Z | registry-derived |
@@ -1039,7 +1039,7 @@ Records: `2407`
 | [@sap/logging](../records/node-js-javascript-sap-logging-c02ac4fa.md) | 9.2.2 | 2026-08-12T10:43:50.446Z | npm_registry |
 | [@stigg/node-server-sdk](../records/node-js-javascript-stigg-node-server-sdk-50fbbd0a.md) | 5.0.0 | 2026-09-02T09:45:14.164Z | registry-derived |
 | [@stoplight/prism-http](../records/node-js-javascript-stoplight-prism-http-85e35ffc.md) | 5.16.0 | 2026-07-17T08:02:33.709Z | registry-derived |
-| [@supabase/ssr](../records/node-js-javascript-supabase-ssr-8731a292.md) | 0.12.5 | 2026-08-24T11:35:07.081Z | registry-derived |
+| [@supabase/ssr](../records/node-js-javascript-supabase-ssr-8731a292.md) | 0.12.6 | 2026-09-04T11:05:29.648Z | registry-derived |
 | [@twin.org/logging-service](../records/node-js-javascript-twin-org-logging-service-909855f5.md) | 0.9.2 | 2026-08-24T02:59:23.700Z | npm_registry |
 | [@vechain/sdk-logging](../records/node-js-javascript-vechain-sdk-logging-1f3c19e1.md) | 2.1.0 | 2026-08-24T16:20:26.975Z | npm_registry |
 | [@vscode-logging/types](../records/node-js-javascript-vscode-logging-types-b04a20c8.md) | 2.0.10 | 2026-08-27T13:28:30.044Z | npm_registry |
@@ -2308,7 +2308,7 @@ Records: `2407`
 | [css-vendor](../records/node-js-javascript-css-vendor-97afeba9.md) | 2.0.8 | 2020-04-04T18:53:13.042Z | registry-derived |
 | [cypress](../records/node-js-javascript-cypress-8aa475c3.md) | 16.0.0 | 2026-09-01T14:33:18.616Z | registry-derived |
 | [cypress-image-diff-js](../records/node-js-javascript-cypress-image-diff-js-7fc57b07.md) | 2.8.0 | 2026-03-23T16:26:48.775Z | registry-derived |
-| [cypress-plugin-api](../records/node-js-javascript-cypress-plugin-api-11bb2575.md) | 2.12.2 | 2026-09-01T15:36:04.668Z | registry-derived |
+| [cypress-plugin-api](../records/node-js-javascript-cypress-plugin-api-11bb2575.md) | 2.12.3 | 2026-09-04T10:55:43.631Z | registry-derived |
 | [cypress-rspack-dev-server](../records/node-js-javascript-cypress-rspack-dev-server-13b6a8da.md) | 2.2.1 | 2026-08-17T13:05:00.220Z | registry-derived |
 | [deep-eql](../records/node-js-javascript-deep-eql-322ba5f8.md) | 5.0.2 | 2024-06-03T08:03:16.644Z | registry-derived |
 | [ember-a11y-testing](../records/node-js-javascript-ember-a11y-testing-8e65a43e.md) | 8.0.1 | 2026-05-06T18:46:12.491Z | registry-derived |
@@ -2416,28 +2416,28 @@ Records: `2407`
 | [@arethetypeswrong/cli](../records/node-js-javascript-arethetypeswrong-cli-ef4de260.md) | 0.18.5 | 2026-07-09T22:24:30.256Z | registry-derived |
 | [@backstage/cli-module-github](../records/node-js-javascript-backstage-cli-module-github-929a0021.md) | 0.1.4 | 2026-07-14T11:53:11.891Z | registry-derived |
 | [@camunda/task-testing](../records/node-js-javascript-camunda-task-testing-da18aa2b.md) | 6.0.1 | 2026-08-20T10:00:32.916Z | registry-derived |
-| [@cubejs-backend/athena-driver](../records/node-js-javascript-cubejs-backend-athena-driver-6bacd80a.md) | 1.7.33 | 2026-09-03T09:06:30.967Z | registry-derived |
+| [@cubejs-backend/athena-driver](../records/node-js-javascript-cubejs-backend-athena-driver-6bacd80a.md) | 1.7.34 | 2026-09-04T12:01:12.081Z | registry-derived |
 | [@cubejs-backend/bigquery-driver](../records/node-js-javascript-cubejs-backend-bigquery-driver-5b2b13fc.md) | 1.7.33 | 2026-09-03T09:05:13.485Z | registry-derived |
-| [@cubejs-backend/clickhouse-driver](../records/node-js-javascript-cubejs-backend-clickhouse-driver-4d0c7732.md) | 1.7.33 | 2026-09-03T09:05:14.052Z | registry-derived |
-| [@cubejs-backend/databricks-jdbc-driver](../records/node-js-javascript-cubejs-backend-databricks-jdbc-driver-75fcf91d.md) | 1.7.33 | 2026-09-03T09:05:05.347Z | registry-derived |
-| [@cubejs-backend/druid-driver](../records/node-js-javascript-cubejs-backend-druid-driver-4b43d84c.md) | 1.7.33 | 2026-09-03T09:05:05.609Z | registry-derived |
-| [@cubejs-backend/duckdb-driver](../records/node-js-javascript-cubejs-backend-duckdb-driver-01487aa6.md) | 1.7.33 | 2026-09-03T09:05:17.297Z | registry-derived |
+| [@cubejs-backend/clickhouse-driver](../records/node-js-javascript-cubejs-backend-clickhouse-driver-4d0c7732.md) | 1.7.34 | 2026-09-04T12:01:19.186Z | registry-derived |
+| [@cubejs-backend/databricks-jdbc-driver](../records/node-js-javascript-cubejs-backend-databricks-jdbc-driver-75fcf91d.md) | 1.7.34 | 2026-09-04T11:56:36.969Z | registry-derived |
+| [@cubejs-backend/druid-driver](../records/node-js-javascript-cubejs-backend-druid-driver-4b43d84c.md) | 1.7.34 | 2026-09-04T11:56:37.125Z | registry-derived |
+| [@cubejs-backend/duckdb-driver](../records/node-js-javascript-cubejs-backend-duckdb-driver-01487aa6.md) | 1.7.34 | 2026-09-04T11:56:48.961Z | registry-derived |
 | [@cubejs-backend/hive-driver](../records/node-js-javascript-cubejs-backend-hive-driver-465861fe.md) | 1.7.33 | 2026-09-03T09:04:41.723Z | registry-derived |
-| [@cubejs-backend/jdbc-driver](../records/node-js-javascript-cubejs-backend-jdbc-driver-04d976e1.md) | 1.7.33 | 2026-09-03T09:04:41.942Z | registry-derived |
-| [@cubejs-backend/ksql-driver](../records/node-js-javascript-cubejs-backend-ksql-driver-8e496938.md) | 1.7.33 | 2026-09-03T09:05:05.068Z | registry-derived |
-| [@cubejs-backend/materialize-driver](../records/node-js-javascript-cubejs-backend-materialize-driver-bd47599a.md) | 1.7.33 | 2026-09-03T09:05:29.895Z | registry-derived |
-| [@cubejs-backend/mssql-driver](../records/node-js-javascript-cubejs-backend-mssql-driver-74d7c0f0.md) | 1.7.33 | 2026-09-03T09:06:02.159Z | registry-derived |
-| [@cubejs-backend/mysql-driver](../records/node-js-javascript-cubejs-backend-mysql-driver-bf05660d.md) | 1.7.33 | 2026-09-03T09:06:13.584Z | registry-derived |
-| [@cubejs-backend/oracle-driver](../records/node-js-javascript-cubejs-backend-oracle-driver-67860979.md) | 1.7.33 | 2026-09-03T09:04:46.903Z | registry-derived |
+| [@cubejs-backend/jdbc-driver](../records/node-js-javascript-cubejs-backend-jdbc-driver-04d976e1.md) | 1.7.34 | 2026-09-04T11:57:51.456Z | registry-derived |
+| [@cubejs-backend/ksql-driver](../records/node-js-javascript-cubejs-backend-ksql-driver-8e496938.md) | 1.7.34 | 2026-09-04T11:56:37.898Z | registry-derived |
+| [@cubejs-backend/materialize-driver](../records/node-js-javascript-cubejs-backend-materialize-driver-bd47599a.md) | 1.7.34 | 2026-09-04T11:57:20.098Z | registry-derived |
+| [@cubejs-backend/mssql-driver](../records/node-js-javascript-cubejs-backend-mssql-driver-74d7c0f0.md) | 1.7.34 | 2026-09-04T12:04:05.396Z | registry-derived |
+| [@cubejs-backend/mysql-driver](../records/node-js-javascript-cubejs-backend-mysql-driver-bf05660d.md) | 1.7.34 | 2026-09-04T11:59:00.754Z | registry-derived |
+| [@cubejs-backend/oracle-driver](../records/node-js-javascript-cubejs-backend-oracle-driver-67860979.md) | 1.7.34 | 2026-09-04T11:56:19.471Z | registry-derived |
 | [@cubejs-backend/pinot-driver](../records/node-js-javascript-cubejs-backend-pinot-driver-7a93e106.md) | 1.7.32 | 2026-09-01T18:09:17.499Z | registry-derived |
-| [@cubejs-backend/postgres-driver](../records/node-js-javascript-cubejs-backend-postgres-driver-10c33dff.md) | 1.7.33 | 2026-09-03T09:05:20.084Z | registry-derived |
-| [@cubejs-backend/prestodb-driver](../records/node-js-javascript-cubejs-backend-prestodb-driver-e59afba0.md) | 1.7.33 | 2026-09-03T09:04:46.950Z | registry-derived |
-| [@cubejs-backend/redshift-driver](../records/node-js-javascript-cubejs-backend-redshift-driver-5cb17bc0.md) | 1.7.33 | 2026-09-03T09:06:21.342Z | registry-derived |
-| [@cubejs-backend/server](../records/node-js-javascript-cubejs-backend-server-9616a19e.md) | 1.7.33 | 2026-09-03T09:05:22.183Z | registry-derived |
-| [@cubejs-backend/snowflake-driver](../records/node-js-javascript-cubejs-backend-snowflake-driver-8161f651.md) | 1.7.33 | 2026-09-03T09:04:49.801Z | registry-derived |
-| [@cubejs-backend/sqlite-driver](../records/node-js-javascript-cubejs-backend-sqlite-driver-1689cd48.md) | 1.7.33 | 2026-09-03T09:04:49.400Z | registry-derived |
-| [@cubejs-backend/testing-shared](../records/node-js-javascript-cubejs-backend-testing-shared-ac633cbb.md) | 1.7.33 | 2026-09-03T09:05:09.409Z | registry-derived |
-| [@cubejs-backend/vertica-driver](../records/node-js-javascript-cubejs-backend-vertica-driver-55bdb4b8.md) | 1.7.33 | 2026-09-03T09:05:21.596Z | registry-derived |
+| [@cubejs-backend/postgres-driver](../records/node-js-javascript-cubejs-backend-postgres-driver-10c33dff.md) | 1.7.34 | 2026-09-04T11:56:54.891Z | registry-derived |
+| [@cubejs-backend/prestodb-driver](../records/node-js-javascript-cubejs-backend-prestodb-driver-e59afba0.md) | 1.7.34 | 2026-09-04T11:56:20.044Z | registry-derived |
+| [@cubejs-backend/redshift-driver](../records/node-js-javascript-cubejs-backend-redshift-driver-5cb17bc0.md) | 1.7.34 | 2026-09-04T12:01:57.509Z | registry-derived |
+| [@cubejs-backend/server](../records/node-js-javascript-cubejs-backend-server-9616a19e.md) | 1.7.34 | 2026-09-04T11:57:03.352Z | registry-derived |
+| [@cubejs-backend/snowflake-driver](../records/node-js-javascript-cubejs-backend-snowflake-driver-8161f651.md) | 1.7.34 | 2026-09-04T11:57:57.783Z | registry-derived |
+| [@cubejs-backend/sqlite-driver](../records/node-js-javascript-cubejs-backend-sqlite-driver-1689cd48.md) | 1.7.34 | 2026-09-04T11:59:32.580Z | registry-derived |
+| [@cubejs-backend/testing-shared](../records/node-js-javascript-cubejs-backend-testing-shared-ac633cbb.md) | 1.7.34 | 2026-09-04T11:56:40.972Z | registry-derived |
+| [@cubejs-backend/vertica-driver](../records/node-js-javascript-cubejs-backend-vertica-driver-55bdb4b8.md) | 1.7.34 | 2026-09-04T11:56:59.519Z | registry-derived |
 | [@feature-hub/server-request](../records/node-js-javascript-feature-hub-server-request-69cc8dc3.md) | 3.9.0 | 2026-07-01T12:35:23.733Z | registry-derived |
 | [@github/copilot-linux-x64](../records/node-js-javascript-github-copilot-linux-x64-e1103f2c.md) | 1.0.82 | 2026-08-29T23:41:23.674Z | registry-derived |
 | [@hapi/subtext](../records/node-js-javascript-hapi-subtext-e2e3527c.md) | 8.1.3 | 2026-05-06T10:24:45.862Z | registry-derived |

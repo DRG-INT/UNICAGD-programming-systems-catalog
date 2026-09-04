@@ -1,6 +1,6 @@
 # Testing Framework
 
-Records: `526`
+Records: `595`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `526`
 
 ## Category Index
 
-[Api Abi Checker (206)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (135)](async-runtime.md)
-[Benchmarking (167)](benchmarking.md) · [Build System (925)](build-system.md) · [Cli (546)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (206)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Benchmarking (169)](benchmarking.md) · [Build System (928)](build-system.md) · [Cli (547)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (101)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
 [Concurrency Parallelism (83)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (165)](cryptography.md) · [Data Science (36)](data-science.md) · [Database Datastore (852)](database-datastore.md) · [Datetime (190)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (99)](documentation.md)
-[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (414)](ffi-bindings.md) · [Filesystem Os (1427)](filesystem-os.md) · [Formatter (616)](formatter.md)
-[Framework (56)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (175)](game-engine-game-dev.md) · [Ide Editor Integration (1341)](ide-editor-integration.md)
-[Image Audio Dsp (398)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (254)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1391)](language-specification.md) · [Library (5320)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Cryptography (165)](cryptography.md) · [Data Science (36)](data-science.md) · [Database Datastore (878)](database-datastore.md) · [Datetime (190)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (95)](dependency-manager.md) · [Documentation (99)](documentation.md)
+[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (415)](ffi-bindings.md) · [Filesystem Os (1427)](filesystem-os.md) · [Formatter (618)](formatter.md)
+[Framework (56)](framework.md) · [Fuzzer (56)](fuzzer.md) · [Game Engine Game Dev (175)](game-engine-game-dev.md) · [Ide Editor Integration (1348)](ide-editor-integration.md)
+[Image Audio Dsp (398)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (254)](interpreter-runtime.md) · [Jit Vm (61)](jit-vm.md)
+[Language Server (27)](language-server.md) · [Language Specification (1394)](language-specification.md) · [Library (5327)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (487)](logging-observability.md) · [Machine Learning (673)](machine-learning.md)
-[Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (90)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (987)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (423)](package-manager.md) · [Parser Lexer Ast (1034)](parser-lexer-ast.md) · [Precommit Ci Quality (284)](precommit-ci-quality.md)
+[Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (90)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (992)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (423)](package-manager.md) · [Parser Lexer Ast (1035)](parser-lexer-ast.md) · [Precommit Ci Quality (284)](precommit-ci-quality.md)
 [Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (333)](security-sast.md) · [Serialization (384)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (503)](static-analyzer.md)
-[Templating (2)](templating.md) · **[Testing Framework (526)](testing-framework.md)** · [Tutorial Book Styleguide (59)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
-[Undefined Behavior Analyzer (1517)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (478)](visualization-gui.md) · [Web Framework (459)](web-framework.md)
+[Security Sast (333)](security-sast.md) · [Serialization (385)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (508)](static-analyzer.md)
+[Templating (2)](templating.md) · **[Testing Framework (595)](testing-framework.md)** · [Tutorial Book Styleguide (59)](tutorial-book-styleguide.md) · [Type Checker (301)](type-checker.md)
+[Undefined Behavior Analyzer (1522)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (478)](visualization-gui.md) · [Web Framework (462)](web-framework.md)
 
 ## C99
 
@@ -281,7 +281,7 @@ Records: `526`
 | css-vendor | 2.0.8 | 2020-04-04T18:53:13.042Z | [open](../records/node-js-javascript-css-vendor-97afeba9.md) |
 | cypress | 16.0.0 | 2026-09-01T14:33:18.616Z | [open](../records/node-js-javascript-cypress-8aa475c3.md) |
 | cypress-image-diff-js | 2.8.0 | 2026-03-23T16:26:48.775Z | [open](../records/node-js-javascript-cypress-image-diff-js-7fc57b07.md) |
-| cypress-plugin-api | 2.12.2 | 2026-09-01T15:36:04.668Z | [open](../records/node-js-javascript-cypress-plugin-api-11bb2575.md) |
+| cypress-plugin-api | 2.12.3 | 2026-09-04T10:55:43.631Z | [open](../records/node-js-javascript-cypress-plugin-api-11bb2575.md) |
 | cypress-rspack-dev-server | 2.2.1 | 2026-08-17T13:05:00.220Z | [open](../records/node-js-javascript-cypress-rspack-dev-server-13b6a8da.md) |
 | deep-eql | 5.0.2 | 2024-06-03T08:03:16.644Z | [open](../records/node-js-javascript-deep-eql-322ba5f8.md) |
 | ember-a11y-testing | 8.0.1 | 2026-05-06T18:46:12.491Z | [open](../records/node-js-javascript-ember-a11y-testing-8e65a43e.md) |
@@ -491,7 +491,7 @@ Records: `526`
 | bytestring-trie | 0.2.7.6 | 2025-02-12T03:47:44Z | [open](../records/haskell-bytestring-trie-fc4506c9.md) |
 | distributed-process-tests | 0.5.2 | 2025-02-05T01:57:07Z | [open](../records/haskell-distributed-process-tests-fb4ba8e2.md) |
 | doctest | 0.25.0 | 2026-05-03T17:07:23Z | [open](../records/haskell-doctest-30d37480.md) |
-| hls-test-utils | 2.14.0.0 | 2026-04-27T06:48:04Z | [open](../records/haskell-hls-test-utils-92298e45.md) |
+| hls-test-utils | 2.15.0.0 | 2026-09-04T10:41:58Z | [open](../records/haskell-hls-test-utils-92298e45.md) |
 | polysemy-test | 0.11.0.1 | 2026-04-27T14:41:34Z | [open](../records/haskell-polysemy-test-c2be84ef.md) |
 | shelltestrunner | 1.11 | 2025-11-18T08:57:22Z | [open](../records/haskell-shelltestrunner-fa7b5020.md) |
 | streaming-bytestring | 0.3.4 | 2025-02-11T09:33:05Z | [open](../records/haskell-streaming-bytestring-78cfcae5.md) |
@@ -684,15 +684,84 @@ Records: `526`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| 10up/wp_mock | unknown | packagist_package_metadata_missing | [open](../records/php-10up-wp-mock-b1eabddf.md) |
+| allure-framework/allure-codeception | unknown | packagist_package_metadata_missing | [open](../records/php-allure-framework-allure-codeception-d31ef854.md) |
+| allure-framework/allure-phpunit | unknown | packagist_package_metadata_missing | [open](../records/php-allure-framework-allure-phpunit-8d5922dc.md) |
+| antecedent/patchwork | unknown | packagist_package_metadata_missing | [open](../records/php-antecedent-patchwork-6b16f6b8.md) |
 | auth0/login | unknown | packagist_package_metadata_missing | [open](../records/php-auth0-login-2836946f.md) |
+| behat/behat | unknown | packagist_package_metadata_missing | [open](../records/php-behat-behat-1ac66d63.md) |
+| behat/mink | unknown | packagist_package_metadata_missing | [open](../records/php-behat-mink-39e58b31.md) |
+| behat/mink-browserkit-driver | unknown | packagist_package_metadata_missing | [open](../records/php-behat-mink-browserkit-driver-98d8bf49.md) |
+| behat/mink-goutte-driver | unknown | packagist_package_metadata_missing | [open](../records/php-behat-mink-goutte-driver-06fa9cac.md) |
+| behat/mink-selenium2-driver | unknown | packagist_package_metadata_missing | [open](../records/php-behat-mink-selenium2-driver-0bb973e4.md) |
+| blastcloud/guzzler | unknown | packagist_package_metadata_missing | [open](../records/php-blastcloud-guzzler-29d8d56b.md) |
+| brain/monkey | unknown | packagist_package_metadata_missing | [open](../records/php-brain-monkey-b87c3ad0.md) |
+| brianium/paratest | unknown | packagist_package_metadata_missing | [open](../records/php-brianium-paratest-5d2ff7f1.md) |
 | cachewerk/relay | unknown | packagist_package_metadata_missing | [open](../records/php-cachewerk-relay-fd3b6a06.md) |
+| codeception/codeception | unknown | packagist_package_metadata_missing | [open](../records/php-codeception-codeception-b82772cd.md) |
 | codeception/module-phpbrowser | unknown | packagist_package_metadata_missing | [open](../records/php-codeception-module-phpbrowser-4f1fc3bc.md) |
+| codedungeon/phpunit-result-printer | unknown | packagist_package_metadata_missing | [open](../records/php-codedungeon-phpunit-result-printer-b7a76b00.md) |
 | datto/json-rpc | unknown | packagist_package_metadata_missing | [open](../records/php-datto-json-rpc-18bf5447.md) |
+| dg/bypass-finals | unknown | packagist_package_metadata_missing | [open](../records/php-dg-bypass-finals-cfd4af36.md) |
+| donatj/mock-webserver | unknown | packagist_package_metadata_missing | [open](../records/php-donatj-mock-webserver-304f495f.md) |
+| enqueue/null | unknown | packagist_package_metadata_missing | [open](../records/php-enqueue-null-e2cf17df.md) |
+| facile-it/paraunit | unknown | packagist_package_metadata_missing | [open](../records/php-facile-it-paraunit-0f829898.md) |
+| friends-of-behat/mink-browserkit-driver | unknown | packagist_package_metadata_missing | [open](../records/php-friends-of-behat-mink-browserkit-driver-48ebfd65.md) |
+| giorgiosironi/eris | unknown | packagist_package_metadata_missing | [open](../records/php-giorgiosironi-eris-da37967d.md) |
+| hotmeteor/spectator | unknown | packagist_package_metadata_missing | [open](../records/php-hotmeteor-spectator-4c452161.md) |
+| illuminate/testing | unknown | packagist_package_metadata_missing | [open](../records/php-illuminate-testing-c0797d21.md) |
+| imbo/behat-api-extension | unknown | packagist_package_metadata_missing | [open](../records/php-imbo-behat-api-extension-0d166f35.md) |
+| infection/infection | unknown | packagist_package_metadata_missing | [open](../records/php-infection-infection-5cb0e178.md) |
+| jasonmccreary/laravel-test-assertions | unknown | packagist_package_metadata_missing | [open](../records/php-jasonmccreary-laravel-test-assertions-3c530315.md) |
+| kahlan/kahlan | unknown | packagist_package_metadata_missing | [open](../records/php-kahlan-kahlan-b4439ba0.md) |
 | laravel/pao | unknown | packagist_package_metadata_missing | [open](../records/php-laravel-pao-b15b4327.md) |
 | lchrusciel/api-test-case | unknown | packagist_package_metadata_missing | [open](../records/php-lchrusciel-api-test-case-b764f954.md) |
+| league/factory-muffin | unknown | packagist_package_metadata_missing | [open](../records/php-league-factory-muffin-4e26fb4e.md) |
+| liip/test-fixtures-bundle | unknown | packagist_package_metadata_missing | [open](../records/php-liip-test-fixtures-bundle-4b608383.md) |
+| liuggio/fastest | unknown | packagist_package_metadata_missing | [open](../records/php-liuggio-fastest-a71c05c0.md) |
+| magento/magento2-functional-testing-framework | unknown | packagist_package_metadata_missing | [open](../records/php-magento-magento2-functional-testing-framework-e0c44b79.md) |
+| matthiasnoback/symfony-config-test | unknown | packagist_package_metadata_missing | [open](../records/php-matthiasnoback-symfony-config-test-774f98bd.md) |
+| mockery/mockery | unknown | packagist_package_metadata_missing | [open](../records/php-mockery-mockery-989ab6c2.md) |
+| nesk/puphpeteer | unknown | packagist_package_metadata_missing | [open](../records/php-nesk-puphpeteer-1e104c3b.md) |
+| nette/tester | unknown | packagist_package_metadata_missing | [open](../records/php-nette-tester-7b4bf718.md) |
 | nunomaduro/pao | unknown | packagist_package_metadata_missing | [open](../records/php-nunomaduro-pao-58ddb2fb.md) |
+| orchestra/testbench | unknown | packagist_package_metadata_missing | [open](../records/php-orchestra-testbench-b6262123.md) |
+| orchestra/testbench-core | unknown | packagist_package_metadata_missing | [open](../records/php-orchestra-testbench-core-82efdda1.md) |
+| orchestra/workbench | unknown | packagist_package_metadata_missing | [open](../records/php-orchestra-workbench-124aad78.md) |
+| osteel/openapi-httpfoundation-testing | unknown | packagist_package_metadata_missing | [open](../records/php-osteel-openapi-httpfoundation-testing-38132d85.md) |
+| pestphp/pest | unknown | packagist_package_metadata_missing | [open](../records/php-pestphp-pest-dc1dab35.md) |
+| pestphp/pest-plugin | unknown | packagist_package_metadata_missing | [open](../records/php-pestphp-pest-plugin-d2cd7c87.md) |
+| pestphp/pest-plugin-arch | unknown | packagist_package_metadata_missing | [open](../records/php-pestphp-pest-plugin-arch-94c527f3.md) |
+| pestphp/pest-plugin-browser | unknown | packagist_package_metadata_missing | [open](../records/php-pestphp-pest-plugin-browser-b777b881.md) |
+| pestphp/pest-plugin-drift | unknown | packagist_package_metadata_missing | [open](../records/php-pestphp-pest-plugin-drift-886d1b08.md) |
+| pestphp/pest-plugin-faker | unknown | packagist_package_metadata_missing | [open](../records/php-pestphp-pest-plugin-faker-cc3fbc92.md) |
+| pestphp/pest-plugin-laravel | unknown | packagist_package_metadata_missing | [open](../records/php-pestphp-pest-plugin-laravel-04bd5d98.md) |
+| pestphp/pest-plugin-livewire | unknown | packagist_package_metadata_missing | [open](../records/php-pestphp-pest-plugin-livewire-038953ce.md) |
+| pestphp/pest-plugin-mutate | unknown | packagist_package_metadata_missing | [open](../records/php-pestphp-pest-plugin-mutate-4b5e2873.md) |
+| pestphp/pest-plugin-profanity | unknown | packagist_package_metadata_missing | [open](../records/php-pestphp-pest-plugin-profanity-458e96b1.md) |
+| pestphp/pest-plugin-rector | unknown | packagist_package_metadata_missing | [open](../records/php-pestphp-pest-plugin-rector-185fa044.md) |
+| pestphp/pest-plugin-stressless | unknown | packagist_package_metadata_missing | [open](../records/php-pestphp-pest-plugin-stressless-faa247c1.md) |
+| pestphp/pest-plugin-type-coverage | unknown | packagist_package_metadata_missing | [open](../records/php-pestphp-pest-plugin-type-coverage-b6cd8372.md) |
+| phake/phake | unknown | packagist_package_metadata_missing | [open](../records/php-phake-phake-4a35f151.md) |
+| php-mock/php-mock | unknown | packagist_package_metadata_missing | [open](../records/php-php-mock-php-mock-2979ac6c.md) |
+| php-mock/php-mock-phpunit | unknown | packagist_package_metadata_missing | [open](../records/php-php-mock-php-mock-phpunit-4c0fde66.md) |
 | php-vcr/php-vcr | unknown | packagist_package_metadata_missing | [open](../records/php-php-vcr-php-vcr-c1e12283.md) |
 | phpunit/dbunit | unknown | packagist_package_metadata_missing | [open](../records/php-phpunit-dbunit-7e156610.md) |
+| phpunit/phpunit | unknown | packagist_package_metadata_missing | [open](../records/php-phpunit-phpunit-ae09f04f.md) |
+| phpunit/phpunit-selenium | unknown | packagist_package_metadata_missing | [open](../records/php-phpunit-phpunit-selenium-eca8a877.md) |
+| playwright-php/playwright | unknown | packagist_package_metadata_missing | [open](../records/php-playwright-php-playwright-9003c2a1.md) |
+| rregeer/phpunit-coverage-check | unknown | packagist_package_metadata_missing | [open](../records/php-rregeer-phpunit-coverage-check-8b8b30a2.md) |
+| shipmonk/coverage-guard | unknown | packagist_package_metadata_missing | [open](../records/php-shipmonk-coverage-guard-c399e33b.md) |
+| spatie/phpunit-snapshot-assertions | unknown | packagist_package_metadata_missing | [open](../records/php-spatie-phpunit-snapshot-assertions-ab692978.md) |
+| sti3bas/laravel-scout-array-driver | unknown | packagist_package_metadata_missing | [open](../records/php-sti3bas-laravel-scout-array-driver-aae1e4ec.md) |
+| symfony/panther | unknown | packagist_package_metadata_missing | [open](../records/php-symfony-panther-1198f910.md) |
+| symfony/test-pack | unknown | packagist_package_metadata_missing | [open](../records/php-symfony-test-pack-540a4fcf.md) |
+| ta-tikoma/phpunit-architecture-test | unknown | packagist_package_metadata_missing | [open](../records/php-ta-tikoma-phpunit-architecture-test-7a5761d5.md) |
+| testo/testo | unknown | packagist_package_metadata_missing | [open](../records/php-testo-testo-49081e78.md) |
+| timacdonald/log-fake | unknown | packagist_package_metadata_missing | [open](../records/php-timacdonald-log-fake-33765eb1.md) |
+| yoast/phpunit-polyfills | unknown | packagist_package_metadata_missing | [open](../records/php-yoast-phpunit-polyfills-5919c6bb.md) |
+| zenstruck/messenger-test | unknown | packagist_package_metadata_missing | [open](../records/php-zenstruck-messenger-test-cfc59267.md) |
+| zoon/puphpeteer | unknown | packagist_package_metadata_missing | [open](../records/php-zoon-puphpeteer-a8c5374b.md) |
 
 ## WebAssembly
 
@@ -750,4 +819,4 @@ Records: `526`
 | Gitea: marco.fullstack2/devops_test | partial | 2026-01-27T15:06:12Z | [open](../records/repository-workplaces-gitea-marco-fullstack2-devops-test-054aeba6.md) |
 | Gitea: nhanpt/config-server-test | partial | 2023-12-28T08:40:58Z | [open](../records/repository-workplaces-gitea-nhanpt-config-server-test-694815eb.md) |
 | Gitea: sillyguodong/asciicast_test | partial | 2023-04-21T03:04:25Z | [open](../records/repository-workplaces-gitea-sillyguodong-asciicast-test-bbac7031.md) |
-| postgres-ai/database-lab | partial | 2026-09-04T09:34:02.670Z | [open](../records/repository-workplaces-postgres-ai-database-lab-87d74ca8.md) |
+| postgres-ai/database-lab | partial | 2026-09-04T12:17:10.635Z | [open](../records/repository-workplaces-postgres-ai-database-lab-87d74ca8.md) |
