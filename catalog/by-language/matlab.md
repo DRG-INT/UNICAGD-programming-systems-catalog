@@ -265,7 +265,7 @@ Records: `287`
 | [steven2358/sklearn-matlab](../records/matlab-steven2358-sklearn-matlab-a0f0759a.md) | partial | 2019-10-02T00:50:02Z | registry-derived |
 | [stk-kriging/stk](../records/matlab-stk-kriging-stk-e204e601.md) | partial | 2026-01-13T21:50:22Z | registry-derived |
 | [STMicroelectronics/st-mems-machine-learning-core](../records/matlab-stmicroelectronics-st-mems-machine-learning-core-3ba547a2.md) | partial | 2026-04-10T13:13:01Z | registry-derived |
-| [SwanLab/Swan](../records/matlab-swanlab-swan-dd44db56.md) | partial | 2026-08-31T06:06:55Z | registry-derived |
+| [SwanLab/Swan](../records/matlab-swanlab-swan-dd44db56.md) | partial | 2026-09-04T10:22:30Z | registry-derived |
 | [TadasBaltrusaitis/OpenFace](../records/matlab-tadasbaltrusaitis-openface-c146853e.md) | partial | 2024-06-01T00:44:07Z | registry-derived |
 | [tahmidzbr/Human-Activities-Gestures-Recognition-using-Channel-State-Information-CSI-of-IEEE-802.11n](../records/matlab-tahmidzbr-human-activities-gestures-recognition-using-channel-state-information-csi-of-ieee-802-11n-c257a8cd.md) | partial | 2021-09-19T20:03:06Z | registry-derived |
 | [tallamjr/barberbook](../records/matlab-tallamjr-barberbook-847c17a0.md) | partial | 2021-10-06T14:01:52Z | registry-derived |

@@ -392,7 +392,7 @@ Records: `414`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Tencent/MMKV | partial | 2026-08-21T03:16:41Z | [open](../records/go-tencent-mmkv-37e997c5.md) |
+| Tencent/MMKV | partial | 2026-09-04T11:03:49Z | [open](../records/go-tencent-mmkv-37e997c5.md) |
 
 ## "aim's"
 

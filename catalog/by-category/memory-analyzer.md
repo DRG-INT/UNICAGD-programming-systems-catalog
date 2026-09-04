@@ -132,7 +132,7 @@ Records: `90`
 | gitleaks/gitleaks | partial | 2026-08-26T04:17:05Z | [open](../records/aim-s-gitleaks-gitleaks-942f477b.md) |
 | mem0ai/mem0 | partial | 2026-09-04T06:30:58Z | [open](../records/aim-s-mem0ai-mem0-1e2f6f8a.md) |
 | MemPalace/mempalace | partial | 2026-09-04T07:54:02Z | [open](../records/aim-s-mempalace-mempalace-24dc978a.md) |
-| tinyhumansai/openhuman | partial | 2026-09-04T07:51:10Z | [open](../records/aim-s-tinyhumansai-openhuman-c683371f.md) |
+| tinyhumansai/openhuman | partial | 2026-09-04T10:38:49Z | [open](../records/aim-s-tinyhumansai-openhuman-c683371f.md) |
 | vllm-project/vllm | partial | 2026-09-04T10:14:51Z | [open](../records/aim-s-vllm-project-vllm-5af67423.md) |
 | zhayujie/CowAgent | partial | 2026-09-04T10:17:33Z | [open](../records/aim-s-zhayujie-cowagent-fa45ff55.md) |
 

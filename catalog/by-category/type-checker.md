@@ -312,7 +312,7 @@ Records: `301`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-04T10:02:49Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | partial | 2026-09-04T11:18:25Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Assets
 
