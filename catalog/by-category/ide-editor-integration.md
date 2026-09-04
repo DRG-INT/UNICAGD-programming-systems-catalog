@@ -1,6 +1,6 @@
 # Ide Editor Integration
 
-Records: `1413`
+Records: `1415`
 
 ## Navigation
 
@@ -14,17 +14,17 @@ Records: `1413`
 [Concurrency Parallelism (88)](concurrency-parallelism.md) · [Configuration (125)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (172)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (884)](database-datastore.md) · [Datetime (213)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1533)](filesystem-os.md) · [Formatter (632)](formatter.md)
-[Framework (61)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (353)](game-engine-game-dev.md) · **[Ide Editor Integration (1413)](ide-editor-integration.md)**
-[Image Audio Dsp (416)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
+[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1535)](filesystem-os.md) · [Formatter (634)](formatter.md)
+[Framework (61)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (353)](game-engine-game-dev.md) · **[Ide Editor Integration (1415)](ide-editor-integration.md)**
+[Image Audio Dsp (419)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
 [Language Server (28)](language-server.md) · [Language Specification (1421)](language-specification.md) · [Library (5475)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (737)](machine-learning.md)
-[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1014)](networking-http.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (740)](machine-learning.md)
+[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1016)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (435)](package-manager.md) · [Parser Lexer Ast (1072)](parser-lexer-ast.md) · [Precommit Ci Quality (294)](precommit-ci-quality.md)
 [Profiler (86)](profiler.md) · [Project Scaffolding (132)](project-scaffolding.md) · [Registry Repository (132)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (391)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (524)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (391)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (525)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (599)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (311)](type-checker.md)
-[Undefined Behavior Analyzer (1570)](undefined-behavior-analyzer.md) · [Utility Library (102)](utility-library.md) · [Visualization Gui (513)](visualization-gui.md) · [Web Framework (473)](web-framework.md)
+[Undefined Behavior Analyzer (1574)](undefined-behavior-analyzer.md) · [Utility Library (102)](utility-library.md) · [Visualization Gui (513)](visualization-gui.md) · [Web Framework (473)](web-framework.md)
 
 ## C++23
 
@@ -678,12 +678,12 @@ Records: `1413`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-03T13:31:40Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-04T17:21:36Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-04T18:37:03Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-03T04:03:18Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-04T08:30:00Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-04T18:11:44Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-04T14:57:26Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
-| upstash/context7 | partial | 2026-09-04T14:21:02Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
+| upstash/context7 | partial | 2026-09-04T19:06:10Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
 
 ## Computer Graphics Software
@@ -1209,11 +1209,11 @@ Records: `1413`
 | drewnoakes/metadata-extractor | partial | 2026-07-28T04:25:06Z | [open](../records/photography-drewnoakes-metadata-extractor-0d5413a2.md) |
 | drewnoakes/metadata-extractor-dotnet | partial | 2026-07-15T22:01:56Z | [open](../records/photography-drewnoakes-metadata-extractor-dotnet-c3fb164c.md) |
 | DXC-0/linux-hdr-guide | partial | 2026-08-29T13:10:41Z | [open](../records/photography-dxc-0-linux-hdr-guide-28bec654.md) |
-| fastvideo/gpu-camera-sample | partial | 2026-07-21T07:04:25Z | [open](../records/photography-fastvideo-gpu-camera-sample-c92051d3.md) |
+| fastvideo/gpu-camera-sample | partial | 2026-09-02T13:56:52Z | [open](../records/photography-fastvideo-gpu-camera-sample-c92051d3.md) |
 | fastvideo/pgm2dng | partial | 2026-07-21T05:55:54Z | [open](../records/photography-fastvideo-pgm2dng-d1583b9e.md) |
 | geerlingguy/pi-timelapse | unknown | github_search_does_not_include_release_date | [open](../records/photography-geerlingguy-pi-timelapse-b66cdb8a.md) |
 | GimelStudio/GimelStudio | partial | 2026-06-18T03:36:38Z | [open](../records/photography-gimelstudio-gimelstudio-c971959d.md) |
-| GraphiteEditor/Graphite | partial | 2026-09-03T13:21:01Z | [open](../records/photography-graphiteeditor-graphite-f4ddca51.md) |
+| GraphiteEditor/Graphite | partial | 2026-09-04T13:37:22Z | [open](../records/photography-graphiteeditor-graphite-f4ddca51.md) |
 | guanyingc/DeepHDRVideo | partial | 2026-03-16T14:48:31Z | [open](../records/photography-guanyingc-deephdrvideo-b6233de5.md) |
 | hjdhjd/homebridge-unifi-protect | partial | 2026-07-19T20:47:25Z | [open](../records/photography-hjdhjd-homebridge-unifi-protect-782e9500.md) |
 | hkk595/Resizer | unknown | github_search_does_not_include_release_date | [open](../records/photography-hkk595-resizer-84d16447.md) |
@@ -1232,6 +1232,7 @@ Records: `1413`
 | kxvn-lx/Kontax-Cam | unknown | github_search_does_not_include_release_date | [open](../records/photography-kxvn-lx-kontax-cam-32050bac.md) |
 | lbalazscs/Pixelitor | partial | 2026-09-04T13:38:04Z | [open](../records/photography-lbalazscs-pixelitor-3a1b5cdf.md) |
 | LLhon/Android-Video-Editor | partial | 2019-04-12T06:39:37Z | [open](../records/photography-llhon-android-video-editor-fc894c46.md) |
+| MetalPetal/MetalPetal | partial | 2024-04-10T13:30:17Z | [open](../records/photography-metalpetal-metalpetal-4d1be2e0.md) |
 | mikeroyal/Photogrammetry-Guide | partial | 2025-06-27T02:10:14Z | [open](../records/photography-mikeroyal-photogrammetry-guide-1e6df465.md) |
 | mindeng/nom-exif | partial | 2026-08-31T01:21:01Z | [open](../records/photography-mindeng-nom-exif-bf0c6483.md) |
 | ncruces/RethinkRAW | unknown | github_search_does_not_include_release_date | [open](../records/photography-ncruces-rethinkraw-a0dbdde6.md) |
@@ -1256,6 +1257,7 @@ Records: `1413`
 | spike0en/awesome_nothing | unknown | github_search_does_not_include_release_date | [open](../records/photography-spike0en-awesome-nothing-9d5baec7.md) |
 | sylikc/jpegview | partial | 2024-08-09T03:36:52Z | [open](../records/photography-sylikc-jpegview-5fdb16fc.md) |
 | T8RIN/ImageToolbox | partial | 2026-09-04T01:00:40Z | [open](../records/photography-t8rin-imagetoolbox-959651fa.md) |
+| tannerhelland/PhotoDemon | partial | 2026-08-18T17:17:58Z | [open](../records/photography-tannerhelland-photodemon-a6f66710.md) |
 | test-full-band/tfb-video | partial | 2024-12-14T19:18:09Z | [open](../records/photography-test-full-band-tfb-video-4f53f9ac.md) |
 | thumbsup/thumbsup | partial | 2026-02-28T02:10:14Z | [open](../records/photography-thumbsup-thumbsup-c22883cd.md) |
 | wiltodelta/remove-ai-watermarks | partial | 2026-09-03T18:06:28Z | [open](../records/photography-wiltodelta-remove-ai-watermarks-f1898429.md) |
@@ -1265,7 +1267,7 @@ Records: `1413`
 | yuehaowang/bilarf | partial | 2024-09-14T21:43:30Z | [open](../records/photography-yuehaowang-bilarf-ff8bd822.md) |
 | zhongjhATC/AlbumCameraRecorder | partial | 2026-09-03T07:53:45Z | [open](../records/photography-zhongjhatc-albumcamerarecorder-a6d618e8.md) |
 | zidage/AlcedoStudio | unknown | github_search_does_not_include_release_date | [open](../records/photography-zidage-alcedostudio-0233770d.md) |
-| zmz125000/LocalViewer | partial | 2026-09-01T04:53:17Z | [open](../records/photography-zmz125000-localviewer-1d07cc54.md) |
+| zmz125000/LocalViewer | partial | 2026-09-04T11:29:00Z | [open](../records/photography-zmz125000-localviewer-1d07cc54.md) |
 
 ## Microscopy
 
@@ -1360,7 +1362,7 @@ Records: `1413`
 | bellingcat/sar-interference-tracker | partial | 2022-02-23T13:57:03Z | [open](../records/satcom-satellites-bellingcat-sar-interference-tracker-812a2aa7.md) |
 | cbassa/stvid | partial | 2026-06-14T12:26:58Z | [open](../records/satcom-satellites-cbassa-stvid-b0821bf9.md) |
 | CScorza/GEOINTInvestigation | partial | 2025-08-08T09:23:42Z | [open](../records/satcom-satellites-cscorza-geointinvestigation-97ccfead.md) |
-| dividebysandwich/sdroxide | partial | 2026-09-04T15:25:47Z | [open](../records/satcom-satellites-dividebysandwich-sdroxide-b0d1a434.md) |
+| dividebysandwich/sdroxide | partial | 2026-09-04T18:40:16Z | [open](../records/satcom-satellites-dividebysandwich-sdroxide-b0d1a434.md) |
 | JonaNorman/HDRSample | partial | 2024-08-01T09:01:08Z | [open](../records/satcom-satellites-jonanorman-hdrsample-b3b07c40.md) |
 | sabbir-uoulu/open-source-5g-ntn | partial | 2026-08-22T18:43:43Z | [open](../records/satcom-satellites-sabbir-uoulu-open-source-5g-ntn-bc3690cb.md) |
 | visionspacetec/sle-common | partial | 2025-06-30T08:34:49Z | [open](../records/satcom-satellites-visionspacetec-sle-common-b6f314a5.md) |
