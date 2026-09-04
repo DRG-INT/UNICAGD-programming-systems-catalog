@@ -1,6 +1,6 @@
 # Physics Engines
 
-Records: `168`
+Records: `179`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `168`
 
 ## Category Index
 
-[Api Abi Checker (211)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (45)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
-[Benchmarking (190)](../by-category/benchmarking.md) · [Build System (965)](../by-category/build-system.md) · [Cli (551)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (115)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (50)](../by-category/compression.md)
-[Concurrency Parallelism (87)](../by-category/concurrency-parallelism.md) · [Configuration (124)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (172)](../by-category/cryptography.md) · [Data Science (37)](../by-category/data-science.md) · [Database Datastore (884)](../by-category/database-datastore.md) · [Datetime (209)](../by-category/datetime.md)
+[Api Abi Checker (213)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
+[Benchmarking (191)](../by-category/benchmarking.md) · [Build System (972)](../by-category/build-system.md) · [Cli (552)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (116)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (50)](../by-category/compression.md)
+[Concurrency Parallelism (88)](../by-category/concurrency-parallelism.md) · [Configuration (125)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
+[Cryptography (172)](../by-category/cryptography.md) · [Data Science (37)](../by-category/data-science.md) · [Database Datastore (884)](../by-category/database-datastore.md) · [Datetime (213)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (101)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
-[Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (438)](../by-category/ffi-bindings.md) · [Filesystem Os (1513)](../by-category/filesystem-os.md) · [Formatter (631)](../by-category/formatter.md)
-[Framework (60)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (344)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1406)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (411)](../by-category/image-audio-dsp.md) · [Interop Bindings (60)](../by-category/interop-bindings.md) · [Interpreter Runtime (265)](../by-category/interpreter-runtime.md) · [Jit Vm (62)](../by-category/jit-vm.md)
-[Language Server (28)](../by-category/language-server.md) · [Language Specification (1415)](../by-category/language-specification.md) · [Library (5455)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (513)](../by-category/logging-observability.md) · [Machine Learning (726)](../by-category/machine-learning.md)
-[Math Numeric Scientific (87)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1010)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (434)](../by-category/package-manager.md) · [Parser Lexer Ast (1067)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (292)](../by-category/precommit-ci-quality.md)
+[Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (446)](../by-category/ffi-bindings.md) · [Filesystem Os (1533)](../by-category/filesystem-os.md) · [Formatter (632)](../by-category/formatter.md)
+[Framework (61)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (353)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1413)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (416)](../by-category/image-audio-dsp.md) · [Interop Bindings (60)](../by-category/interop-bindings.md) · [Interpreter Runtime (265)](../by-category/interpreter-runtime.md) · [Jit Vm (62)](../by-category/jit-vm.md)
+[Language Server (28)](../by-category/language-server.md) · [Language Specification (1421)](../by-category/language-specification.md) · [Library (5473)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (515)](../by-category/logging-observability.md) · [Machine Learning (737)](../by-category/machine-learning.md)
+[Math Numeric Scientific (87)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1014)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (435)](../by-category/package-manager.md) · [Parser Lexer Ast (1072)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (294)](../by-category/precommit-ci-quality.md)
 [Profiler (86)](../by-category/profiler.md) · [Project Scaffolding (132)](../by-category/project-scaffolding.md) · [Registry Repository (132)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
-[Security Sast (336)](../by-category/security-sast.md) · [Serialization (390)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (514)](../by-category/static-analyzer.md)
+[Security Sast (336)](../by-category/security-sast.md) · [Serialization (391)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (524)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (599)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (62)](../by-category/tutorial-book-styleguide.md) · [Type Checker (311)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1561)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (101)](../by-category/utility-library.md) · [Visualization Gui (509)](../by-category/visualization-gui.md) · [Web Framework (472)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1570)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (102)](../by-category/utility-library.md) · [Visualization Gui (513)](../by-category/visualization-gui.md) · [Web Framework (473)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -38,13 +38,15 @@ Records: `168`
 | [erizmr/SPH_Taichi](../records/physics-engines-erizmr-sph-taichi-9e9af1c3.md) | partial | 2024-10-05T00:46:40Z | registry-derived |
 | [Genbox/VelcroPhysics](../records/physics-engines-genbox-velcrophysics-7229cf93.md) | partial | 2021-08-01T16:38:16Z | registry-derived |
 | [jerry060599/YarnBall](../records/physics-engines-jerry060599-yarnball-d2f475f3.md) | partial | 2025-10-01T22:29:36Z | registry-derived |
-| [projectchrono/chrono](../records/physics-engines-projectchrono-chrono-d6f1722c.md) | partial | 2026-09-04T11:26:34Z | registry-derived |
+| [projectchrono/chrono](../records/physics-engines-projectchrono-chrono-d6f1722c.md) | partial | 2026-09-04T16:17:07Z | registry-derived |
 | [simbody/simbody](../records/physics-engines-simbody-simbody-5d8afc3b.md) | partial | 2026-09-03T22:49:02Z | registry-derived |
 
 ### Build System
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [ComputationalBiomechanicsLab/opensim-creator](../records/physics-engines-computationalbiomechanicslab-opensim-creator-75e68d35.md) | partial | 2026-09-02T08:46:07Z | registry-derived |
+| [DexForce/EmbodiChain](../records/physics-engines-dexforce-embodichain-412f39d8.md) | partial | 2026-09-04T17:01:57Z | registry-derived |
 | [Habrador/Ten-Minute-Physics-Unity](../records/physics-engines-habrador-ten-minute-physics-unity-ce30da7b.md) | partial | 2026-04-20T08:44:50Z | registry-derived |
 | [Pierre-Terdiman/PEEL_PhysX_Edition](../records/physics-engines-pierre-terdiman-peel-physx-edition-79c256c2.md) | partial | 2026-07-16T22:26:58Z | registry-derived |
 | [Rythe-Interactive/Rythe-Engine](../records/physics-engines-rythe-interactive-rythe-engine-6c9a9bf2.md) | partial | 2026-08-31T00:48:43Z | registry-derived |
@@ -91,6 +93,7 @@ Records: `168`
 | [li3zhen1/Grape](../records/physics-engines-li3zhen1-grape-15f48dce.md) | partial | 2025-05-19T10:30:23Z | registry-derived |
 | [Physics-Scaling/GeoPT](../records/physics-engines-physics-scaling-geopt-66352620.md) | partial | 2026-05-20T00:38:15Z | registry-derived |
 | [rohanpsingh/mujoco-python-viewer](../records/physics-engines-rohanpsingh-mujoco-python-viewer-26580adf.md) | partial | 2023-11-14T07:01:38Z | registry-derived |
+| [Suvitruf/box3d-unity](../records/physics-engines-suvitruf-box3d-unity-618c916d.md) | partial | 2026-09-03T14:36:37Z | registry-derived |
 | [ZhengyiLuo/PHC](../records/physics-engines-zhengyiluo-phc-11b1f006.md) | partial | 2025-08-21T18:34:47Z | registry-derived |
 
 ### Filesystem Os
@@ -109,6 +112,7 @@ Records: `168`
 | [Scrawk/Position-Based-Dynamics](../records/physics-engines-scrawk-position-based-dynamics-64a3accb.md) | partial | 2022-01-30T13:47:54Z | registry-derived |
 | [TheOpenSpaceProgram/osp-magnum](../records/physics-engines-theopenspaceprogram-osp-magnum-8b7021b2.md) | partial | 2025-11-27T06:20:40Z | registry-derived |
 | [timi-liuliang/echo](../records/physics-engines-timi-liuliang-echo-6dd242c1.md) | partial | 2023-10-28T18:19:22Z | registry-derived |
+| [vitalight/Velvet](../records/physics-engines-vitalight-velvet-044eda42.md) | partial | 2026-02-08T14:17:45Z | registry-derived |
 
 ### Formatter
 
@@ -122,6 +126,7 @@ Records: `168`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [Healthcare-Robotics/assistive-gym](../records/physics-engines-healthcare-robotics-assistive-gym-81e16cab.md) | partial | 2024-01-26T08:40:16Z | registry-derived |
+| [unitaryfoundation/qrack](../records/physics-engines-unitaryfoundation-qrack-537006d0.md) | partial | 2026-08-31T19:57:01Z | registry-derived |
 
 ### Game Engine Game Dev
 
@@ -185,12 +190,13 @@ Records: `168`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [freezy/VisualPinball.Engine](../records/physics-engines-freezy-visualpinball-engine-fc9f3475.md) | partial | 2026-09-02T23:18:10Z | registry-derived |
-| [iluaii/fwm](../records/physics-engines-iluaii-fwm-dc80ab13.md) | partial | 2026-09-04T08:03:06Z | registry-derived |
+| [iluaii/fwm](../records/physics-engines-iluaii-fwm-dc80ab13.md) | partial | 2026-09-04T15:45:18Z | registry-derived |
 | [johannes-do/multiplayer-babylon-js-game](../records/physics-engines-johannes-do-multiplayer-babylon-js-game-0189ac60.md) | partial | 2022-12-10T16:10:43Z | registry-derived |
 | [JordiCorbilla/thundax-delphi-physics-engine](../records/physics-engines-jordicorbilla-thundax-delphi-physics-engine-1f15f884.md) | partial | 2025-02-09T19:10:27Z | registry-derived |
 | [Mati365/micro-racing](../records/physics-engines-mati365-micro-racing-66c9923f.md) | partial | 2024-08-05T05:13:10Z | registry-derived |
 | [MissingDeadlines/iolite](../records/physics-engines-missingdeadlines-iolite-59ecdc76.md) | partial | 2025-09-17T09:53:34Z | registry-derived |
 | [stevenlsw/physgen](../records/physics-engines-stevenlsw-physgen-04c29129.md) | partial | 2024-10-24T22:10:07Z | registry-derived |
+| [THU-SI/Physics3D](../records/physics-engines-thu-si-physics3d-940fe5e2.md) | partial | 2024-06-12T10:28:25Z | registry-derived |
 | [victorfisac/Physac](../records/physics-engines-victorfisac-physac-872bee73.md) | partial | 2024-10-20T15:16:31Z | registry-derived |
 | [vpdb/vpx-js](../records/physics-engines-vpdb-vpx-js-28bfe6a9.md) | partial | 2026-08-26T16:07:04Z | registry-derived |
 
@@ -212,6 +218,12 @@ Records: `168`
 | --- | --- | --- | --- |
 | [mchakravarty/HaskellSpriteKit](../records/physics-engines-mchakravarty-haskellspritekit-9333e02f.md) | partial | 2020-12-16T15:54:44Z | registry-derived |
 
+### Language Specification
+
+| Name | Release | Date | Source |
+| --- | --- | --- | --- |
+| [krABMaga/krABMaga](../records/physics-engines-krabmaga-krabmaga-17c6b1ec.md) | partial | 2026-09-04T13:00:02Z | registry-derived |
+
 ### Library
 
 | Name | Release | Date | Source |
@@ -219,6 +231,7 @@ Records: `168`
 | [brucefan1983/GPUMD](../records/physics-engines-brucefan1983-gpumd-7fdd533e.md) | partial | 2026-09-04T07:54:17Z | registry-derived |
 | [detomon/wigglebone](../records/physics-engines-detomon-wigglebone-6ddf2d2b.md) | partial | 2026-05-14T09:18:06Z | registry-derived |
 | [diegomacario/Dyna-Kinematics](../records/physics-engines-diegomacario-dyna-kinematics-b35b0cff.md) | partial | 2020-12-28T16:08:30Z | registry-derived |
+| [ECSIM/opem](../records/physics-engines-ecsim-opem-ebc7707c.md) | partial | 2026-08-31T01:32:50Z | registry-derived |
 | [elodin-sys/elodin](../records/physics-engines-elodin-sys-elodin-09785b8b.md) | partial | 2026-09-04T10:02:29Z | registry-derived |
 | [flaport/fdtd](../records/physics-engines-flaport-fdtd-4906d483.md) | partial | 2025-09-22T10:04:12Z | registry-derived |
 | [gaolongsen/multi-panel_mujoco-pyviewer](../records/physics-engines-gaolongsen-multi-panel-mujoco-pyviewer-ad0ad58c.md) | partial | 2025-11-14T05:10:30Z | registry-derived |
@@ -227,12 +240,19 @@ Records: `168`
 | [juniorrojas/algovivo](../records/physics-engines-juniorrojas-algovivo-dba914da.md) | partial | 2026-09-03T06:55:54Z | registry-derived |
 | [magpylib/magpylib](../records/physics-engines-magpylib-magpylib-083446e2.md) | partial | 2026-09-02T21:43:29Z | registry-derived |
 | [mentat-collective/emmy](../records/physics-engines-mentat-collective-emmy-65520f3a.md) | partial | 2025-07-10T13:58:39Z | registry-derived |
-| [MFlowCode/MFC](../records/physics-engines-mflowcode-mfc-b922e338.md) | partial | 2026-09-04T02:03:53Z | registry-derived |
+| [MFlowCode/MFC](../records/physics-engines-mflowcode-mfc-b922e338.md) | partial | 2026-09-04T16:26:25Z | registry-derived |
 | [pierrehirel/atomsk](../records/physics-engines-pierrehirel-atomsk-08fc2af7.md) | partial | 2026-07-24T15:13:19Z | registry-derived |
 | [robocasa/robocasa](../records/physics-engines-robocasa-robocasa-e66a2a90.md) | partial | 2026-09-02T03:53:54Z | registry-derived |
 | [schteppe/gpu-physics.js](../records/physics-engines-schteppe-gpu-physics-js-e71ebb9f.md) | partial | 2025-05-31T11:51:43Z | registry-derived |
 | [sicmutils/sicmutils](../records/physics-engines-sicmutils-sicmutils-f64b46b3.md) | partial | 2025-06-18T13:30:25Z | registry-derived |
 | [ValkyrienSkies/Valkyrien-Skies-2](../records/physics-engines-valkyrienskies-valkyrien-skies-2-3bc2f524.md) | partial | 2026-08-31T09:53:04Z | registry-derived |
+| [vlvovch/PHYS6350-ComputationalPhysics](../records/physics-engines-vlvovch-phys6350-computationalphysics-a0a9e87d.md) | partial | 2026-01-20T04:04:21Z | registry-derived |
+
+### Linter
+
+| Name | Release | Date | Source |
+| --- | --- | --- | --- |
+| [svd-ai-lab/sim-cli](../records/physics-engines-svd-ai-lab-sim-cli-c8afe748.md) | partial | 2026-08-28T02:13:39Z | registry-derived |
 
 ### Logging Observability
 
@@ -304,7 +324,7 @@ Records: `168`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ipc-sim/ipc-toolkit](../records/physics-engines-ipc-sim-ipc-toolkit-7cb05b8f.md) | partial | 2026-09-04T04:28:00Z | registry-derived |
+| [ipc-sim/ipc-toolkit](../records/physics-engines-ipc-sim-ipc-toolkit-7cb05b8f.md) | partial | 2026-09-04T14:47:04Z | registry-derived |
 
 ### Visualization Gui
 
@@ -315,10 +335,11 @@ Records: `168`
 | [jrouwe/JoltPhysics](../records/physics-engines-jrouwe-joltphysics-7808ec3e.md) | partial | 2026-09-03T19:46:35Z | registry-derived |
 | [lettucecfd/lettuce](../records/physics-engines-lettucecfd-lettuce-5bfbae1f.md) | partial | 2026-04-13T23:21:59Z | registry-derived |
 | [louis-langholtz/PlayRho](../records/physics-engines-louis-langholtz-playrho-eef0dbd1.md) | partial | 2024-04-30T03:29:32Z | registry-derived |
-| [newton-physics/newton](../records/physics-engines-newton-physics-newton-932f4b4e.md) | partial | 2026-09-04T12:52:33Z | registry-derived |
+| [newton-physics/newton](../records/physics-engines-newton-physics-newton-932f4b4e.md) | partial | 2026-09-04T15:21:43Z | registry-derived |
 | [precise-simulation/featool-multiphysics](../records/physics-engines-precise-simulation-featool-multiphysics-60ff4a84.md) | partial | 2026-09-03T09:25:07Z | registry-derived |
 | [quinton-ashley/p5play](../records/physics-engines-quinton-ashley-p5play-0c12631c.md) | partial | 2026-05-14T04:15:02Z | registry-derived |
 | [Sirui-Xu/InterMimic](../records/physics-engines-sirui-xu-intermimic-6455180d.md) | partial | 2026-04-21T17:13:17Z | registry-derived |
+| [sksalahuddin2828/NASA](../records/physics-engines-sksalahuddin2828-nasa-34ee1e7e.md) | partial | 2023-07-14T09:54:38Z | registry-derived |
 
 ### Web Framework
 

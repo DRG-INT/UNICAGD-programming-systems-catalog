@@ -1,6 +1,6 @@
 # Icons and Logos
 
-Records: `326`
+Records: `337`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `326`
 
 ## Category Index
 
-[Api Abi Checker (211)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (45)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
-[Benchmarking (190)](../by-category/benchmarking.md) · [Build System (965)](../by-category/build-system.md) · [Cli (551)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (115)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (50)](../by-category/compression.md)
-[Concurrency Parallelism (87)](../by-category/concurrency-parallelism.md) · [Configuration (124)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (172)](../by-category/cryptography.md) · [Data Science (37)](../by-category/data-science.md) · [Database Datastore (884)](../by-category/database-datastore.md) · [Datetime (209)](../by-category/datetime.md)
+[Api Abi Checker (213)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
+[Benchmarking (191)](../by-category/benchmarking.md) · [Build System (972)](../by-category/build-system.md) · [Cli (552)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (116)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (50)](../by-category/compression.md)
+[Concurrency Parallelism (88)](../by-category/concurrency-parallelism.md) · [Configuration (125)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
+[Cryptography (172)](../by-category/cryptography.md) · [Data Science (37)](../by-category/data-science.md) · [Database Datastore (884)](../by-category/database-datastore.md) · [Datetime (213)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (101)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
-[Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (438)](../by-category/ffi-bindings.md) · [Filesystem Os (1513)](../by-category/filesystem-os.md) · [Formatter (631)](../by-category/formatter.md)
-[Framework (60)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (344)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1406)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (411)](../by-category/image-audio-dsp.md) · [Interop Bindings (60)](../by-category/interop-bindings.md) · [Interpreter Runtime (265)](../by-category/interpreter-runtime.md) · [Jit Vm (62)](../by-category/jit-vm.md)
-[Language Server (28)](../by-category/language-server.md) · [Language Specification (1415)](../by-category/language-specification.md) · [Library (5455)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (513)](../by-category/logging-observability.md) · [Machine Learning (726)](../by-category/machine-learning.md)
-[Math Numeric Scientific (87)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1010)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (434)](../by-category/package-manager.md) · [Parser Lexer Ast (1067)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (292)](../by-category/precommit-ci-quality.md)
+[Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (446)](../by-category/ffi-bindings.md) · [Filesystem Os (1533)](../by-category/filesystem-os.md) · [Formatter (632)](../by-category/formatter.md)
+[Framework (61)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (353)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1413)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (416)](../by-category/image-audio-dsp.md) · [Interop Bindings (60)](../by-category/interop-bindings.md) · [Interpreter Runtime (265)](../by-category/interpreter-runtime.md) · [Jit Vm (62)](../by-category/jit-vm.md)
+[Language Server (28)](../by-category/language-server.md) · [Language Specification (1421)](../by-category/language-specification.md) · [Library (5473)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (515)](../by-category/logging-observability.md) · [Machine Learning (737)](../by-category/machine-learning.md)
+[Math Numeric Scientific (87)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1014)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (435)](../by-category/package-manager.md) · [Parser Lexer Ast (1072)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (294)](../by-category/precommit-ci-quality.md)
 [Profiler (86)](../by-category/profiler.md) · [Project Scaffolding (132)](../by-category/project-scaffolding.md) · [Registry Repository (132)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
-[Security Sast (336)](../by-category/security-sast.md) · [Serialization (390)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (514)](../by-category/static-analyzer.md)
+[Security Sast (336)](../by-category/security-sast.md) · [Serialization (391)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (524)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (599)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (62)](../by-category/tutorial-book-styleguide.md) · [Type Checker (311)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1561)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (101)](../by-category/utility-library.md) · [Visualization Gui (509)](../by-category/visualization-gui.md) · [Web Framework (472)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1570)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (102)](../by-category/utility-library.md) · [Visualization Gui (513)](../by-category/visualization-gui.md) · [Web Framework (473)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -38,6 +38,7 @@ Records: `326`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [allenwong/MakeIconsWithSketch](../records/icons-and-logos-allenwong-makeiconswithsketch-fecd38a8.md) | partial | 2017-02-22T11:18:36Z | registry-derived |
 | [beercss/beercss](../records/icons-and-logos-beercss-beercss-788b7a9f.md) | partial | 2026-08-29T13:05:20Z | registry-derived |
 | [chakra-ui/chakra-ui](../records/icons-and-logos-chakra-ui-chakra-ui-a12b9808.md) | partial | 2026-09-02T17:59:24Z | registry-derived |
 | [DouyinFE/semi-design](../records/icons-and-logos-douyinfe-semi-design-449c64ec.md) | partial | 2026-09-01T08:46:32Z | registry-derived |
@@ -136,6 +137,7 @@ Records: `326`
 | [coding/Coding-iOS](../records/icons-and-logos-coding-coding-ios-59e494c9.md) | partial | 2019-05-23T03:43:13Z | registry-derived |
 | [ealush/emoji-picker-react](../records/icons-and-logos-ealush-emoji-picker-react-c9427290.md) | partial | 2026-09-01T21:26:19Z | registry-derived |
 | [elrumo/macOS_Big_Sur_icons_replacements](../records/icons-and-logos-elrumo-macos-big-sur-icons-replacements-2eb50ab4.md) | partial | 2026-02-17T17:56:33Z | registry-derived |
+| [enzet/map-machine](../records/icons-and-logos-enzet-map-machine-3dab16d2.md) | partial | 2026-05-26T09:58:32Z | registry-derived |
 | [framework7io/framework7-icons](../records/icons-and-logos-framework7io-framework7-icons-b4025be6.md) | partial | 2025-03-03T23:39:58Z | registry-derived |
 | [guokaigdg/animal-island-ui](../records/icons-and-logos-guokaigdg-animal-island-ui-cdb1f3df.md) | partial | 2026-09-02T15:14:37Z | registry-derived |
 | [home-assistant/Iconic](../records/icons-and-logos-home-assistant-iconic-27c71576.md) | partial | 2022-06-23T16:06:03Z | registry-derived |
@@ -183,6 +185,7 @@ Records: `326`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [Nieobie/game-icon-pack](../records/icons-and-logos-nieobie-game-icon-pack-603bee7d.md) | partial | 2026-08-02T17:56:01Z | registry-derived |
 | [seiyria/gameicons-font](../records/icons-and-logos-seiyria-gameicons-font-9f2f24cd.md) | partial | 2026-09-04T12:27:39Z | registry-derived |
 | [Shinmera/promptfont](../records/icons-and-logos-shinmera-promptfont-e3c184c0.md) | partial | 2026-05-17T17:45:11Z | registry-derived |
 
@@ -200,7 +203,7 @@ Records: `326`
 | [grommet/grommet](../records/icons-and-logos-grommet-grommet-449c9abf.md) | partial | 2026-09-02T20:22:33Z | registry-derived |
 | [hunghg255/reactjs-tiptap-editor](../records/icons-and-logos-hunghg255-reactjs-tiptap-editor-f3e43edb.md) | partial | 2026-08-15T23:29:40Z | registry-derived |
 | [juliettef/IconFontCppHeaders](../records/icons-and-logos-juliettef-iconfontcppheaders-8f33aea4.md) | partial | 2026-06-05T09:06:02Z | registry-derived |
-| [lucide-icons/lucide](../records/icons-and-logos-lucide-icons-lucide-d5375c95.md) | partial | 2026-09-04T13:18:45Z | registry-derived |
+| [lucide-icons/lucide](../records/icons-and-logos-lucide-icons-lucide-d5375c95.md) | partial | 2026-09-04T15:42:04Z | registry-derived |
 | [maoschanz/emoji-selector-for-gnome](../records/icons-and-logos-maoschanz-emoji-selector-for-gnome-f3647b28.md) | partial | 2023-09-01T13:48:56Z | registry-derived |
 | [neutraltone/awesome-stock-resources](../records/icons-and-logos-neutraltone-awesome-stock-resources-80ddf47e.md) | partial | 2026-02-11T22:01:53Z | registry-derived |
 | [nvim-tree/nvim-web-devicons](../records/icons-and-logos-nvim-tree-nvim-web-devicons-6083b38a.md) | partial | 2026-08-30T23:11:57Z | registry-derived |
@@ -256,9 +259,11 @@ Records: `326`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [aaronfagan/svg-credit-card-payment-icons](../records/icons-and-logos-aaronfagan-svg-credit-card-payment-icons-de894aee.md) | partial | 2026-04-28T18:09:11Z | registry-derived |
 | [akabekobeko/redmine-theme-minimalflat2](../records/icons-and-logos-akabekobeko-redmine-theme-minimalflat2-8d858c9c.md) | partial | 2022-07-09T09:48:38Z | registry-derived |
 | [akveo/eva-icons](../records/icons-and-logos-akveo-eva-icons-b1c8fdf1.md) | partial | 2023-03-04T01:54:54Z | registry-derived |
 | [andrewgioia/keyrune](../records/icons-and-logos-andrewgioia-keyrune-cf9c2d11.md) | partial | 2026-05-02T22:11:11Z | registry-derived |
+| [Angelmmiguel/svgi](../records/icons-and-logos-angelmmiguel-svgi-0963a593.md) | partial | 2023-07-09T15:51:48Z | registry-derived |
 | [ant-design/ant-design-icons](../records/icons-and-logos-ant-design-ant-design-icons-d9dcf350.md) | partial | 2026-08-31T09:33:32Z | registry-derived |
 | [antfu-collective/icones](../records/icons-and-logos-antfu-collective-icones-a34c5dcc.md) | partial | 2026-08-24T07:15:09Z | registry-derived |
 | [antonreshetov/vue-unicons](../records/icons-and-logos-antonreshetov-vue-unicons-95eb620c.md) | partial | 2021-11-24T02:12:10Z | registry-derived |
@@ -266,6 +271,7 @@ Records: `326`
 | [basmilius/meteocons](../records/icons-and-logos-basmilius-meteocons-53d2d805.md) | partial | 2026-04-12T19:52:41Z | registry-derived |
 | [bytedance/IconPark](../records/icons-and-logos-bytedance-iconpark-2aa04b96.md) | partial | 2023-02-24T07:46:02Z | registry-derived |
 | [carbon-design-system/carbon-components-svelte](../records/icons-and-logos-carbon-design-system-carbon-components-svelte-dc62f85f.md) | partial | 2026-09-03T12:41:32Z | registry-derived |
+| [carbon-design-system/carbon-icons-svelte](../records/icons-and-logos-carbon-design-system-carbon-icons-svelte-13769533.md) | partial | 2026-08-27T21:48:28Z | registry-derived |
 | [CarGuo/GSYRickText](../records/icons-and-logos-carguo-gsyricktext-5bae5568.md) | partial | 2024-10-16T08:38:42Z | registry-derived |
 | [character-map-uwp/Character-Map-UWP](../records/icons-and-logos-character-map-uwp-character-map-uwp-b58d2e1f.md) | partial | 2026-09-04T12:05:46Z | registry-derived |
 | [cloudscape-design/components](../records/icons-and-logos-cloudscape-design-components-cecb3bdb.md) | partial | 2026-09-03T16:18:38Z | registry-derived |
@@ -301,6 +307,7 @@ Records: `326`
 | [javierbyte/emoji-to-scale](../records/icons-and-logos-javierbyte-emoji-to-scale-43d9daf3.md) | partial | 2026-08-21T06:31:21Z | registry-derived |
 | [jaywcjlove/svgtofont](../records/icons-and-logos-jaywcjlove-svgtofont-e9e76099.md) | partial | 2026-06-30T15:00:36Z | registry-derived |
 | [jd-alexander/LikeButton](../records/icons-and-logos-jd-alexander-likebutton-f66a0f08.md) | partial | 2024-01-26T16:26:58Z | registry-derived |
+| [jis3r/icons](../records/icons-and-logos-jis3r-icons-f58b189a.md) | partial | 2026-09-03T12:29:20Z | registry-derived |
 | [joaoeudes7/V-Emoji-Picker](../records/icons-and-logos-joaoeudes7-v-emoji-picker-45481c12.md) | partial | 2022-12-10T17:09:55Z | registry-derived |
 | [joielechong/MaterialFancyButtons](../records/icons-and-logos-joielechong-materialfancybuttons-569be03a.md) | partial | 2019-06-13T10:05:23Z | registry-derived |
 | [jpswalsh/academicons](../records/icons-and-logos-jpswalsh-academicons-b7f321a8.md) | partial | 2026-05-08T11:35:42Z | registry-derived |
@@ -341,10 +348,11 @@ Records: `326`
 | [Rhodney/keepass-icons](../records/icons-and-logos-rhodney-keepass-icons-6f8b8c95.md) | partial | 2025-01-22T13:08:02Z | registry-derived |
 | [ritz078/embed-js](../records/icons-and-logos-ritz078-embed-js-cccdc1d7.md) | partial | 2022-07-07T03:40:45Z | registry-derived |
 | [scottwernervt/favicon](../records/icons-and-logos-scottwernervt-favicon-d48783e6.md) | partial | 2023-12-05T17:36:37Z | registry-derived |
+| [sdras/vue-sample-svg-icons](../records/icons-and-logos-sdras-vue-sample-svg-icons-a7b726d2.md) | partial | 2022-12-08T18:53:20Z | registry-derived |
 | [Shopify/polaris-react-archive](../records/icons-and-logos-shopify-polaris-react-archive-ce5a323c.md) | partial | 2026-08-11T07:11:56Z | registry-derived |
 | [shrugs/partyparrot](../records/icons-and-logos-shrugs-partyparrot-ace2c1bb.md) | partial | 2020-07-16T20:33:30Z | registry-derived |
 | [simonbs/SBSAnimoji](../records/icons-and-logos-simonbs-sbsanimoji-e7531e6c.md) | partial | 2022-05-06T14:01:08Z | registry-derived |
-| [simple-icons/simple-icons](../records/icons-and-logos-simple-icons-simple-icons-2fd29e46.md) | partial | 2026-08-30T15:47:17Z | registry-derived |
+| [simple-icons/simple-icons](../records/icons-and-logos-simple-icons-simple-icons-2fd29e46.md) | partial | 2026-09-04T15:05:18Z | registry-derived |
 | [sindresorhus/alfred-emoj](../records/icons-and-logos-sindresorhus-alfred-emoj-f8f85320.md) | partial | 2022-03-16T11:29:39Z | registry-derived |
 | [smhmd/teenyicons](../records/icons-and-logos-smhmd-teenyicons-c4c445b3.md) | partial | 2022-12-11T15:16:55Z | registry-derived |
 | [snwh/paper-icon-theme](../records/icons-and-logos-snwh-paper-icon-theme-7cfebed0.md) | partial | 2020-03-13T21:40:32Z | registry-derived |
@@ -453,6 +461,7 @@ Records: `326`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [elrumordelaluz/svgson](../records/icons-and-logos-elrumordelaluz-svgson-e98eeaa1.md) | partial | 2023-10-26T08:35:21Z | registry-derived |
 | [muan/unicode-emoji-json](../records/icons-and-logos-muan-unicode-emoji-json-7291ae74.md) | partial | 2026-04-18T08:09:25Z | registry-derived |
 
 ### Static Analyzer
@@ -487,12 +496,13 @@ Records: `326`
 | [jeffreytse/jekyll-spaceship](../records/icons-and-logos-jeffreytse-jekyll-spaceship-b4d82d56.md) | partial | 2024-07-03T19:54:34Z | registry-derived |
 | [muan/mojibar](../records/icons-and-logos-muan-mojibar-30358614.md) | partial | 2023-01-25T05:33:39Z | registry-derived |
 | [primer/css](../records/icons-and-logos-primer-css-784ae164.md) | partial | 2026-09-03T16:01:58Z | registry-derived |
-| [primer/octicons](../records/icons-and-logos-primer-octicons-9ca40141.md) | partial | 2026-09-04T04:32:06Z | registry-derived |
+| [primer/octicons](../records/icons-and-logos-primer-octicons-9ca40141.md) | partial | 2026-09-04T16:20:43Z | registry-derived |
 | [primer/react](../records/icons-and-logos-primer-react-63b0b7cc.md) | partial | 2026-09-03T16:00:56Z | registry-derived |
 | [rickstaa/github-emoji-picker](../records/icons-and-logos-rickstaa-github-emoji-picker-f84142f9.md) | partial | 2026-08-11T14:36:22Z | registry-derived |
 | [simplelineicons/simplelineicons.github.io](../records/icons-and-logos-simplelineicons-simplelineicons-github-io-f89e24aa.md) | partial | 2022-01-20T12:39:01Z | registry-derived |
 | [tandpfun/skill-icons](../records/icons-and-logos-tandpfun-skill-icons-f2d47a09.md) | partial | 2026-02-27T03:42:02Z | registry-derived |
 | [uiwjs/icons](../records/icons-and-logos-uiwjs-icons-3a71f772.md) | partial | 2026-04-21T09:33:24Z | registry-derived |
+| [YuheshPandian/ICONIC](../records/icons-and-logos-yuheshpandian-iconic-ee62a82e.md) | partial | 2026-08-07T14:34:00Z | registry-derived |
 
 ### Utility Library
 
@@ -533,6 +543,7 @@ Records: `326`
 | [react95-io/React95](../records/icons-and-logos-react95-io-react95-5104e6c7.md) | partial | 2024-01-14T20:52:31Z | registry-derived |
 | [React95/React95](../records/icons-and-logos-react95-react95-ff8c497a.md) | partial | 2026-09-02T20:02:28Z | registry-derived |
 | [rebassjs/rebass](../records/icons-and-logos-rebassjs-rebass-64744ea0.md) | partial | 2023-07-27T03:42:53Z | registry-derived |
+| [robbrazier/svelte-awesome](../records/icons-and-logos-robbrazier-svelte-awesome-8e073487.md) | partial | 2025-04-21T06:53:40Z | registry-derived |
 | [Simple Icons](../records/icons-and-logos-simple-icons-24b556a1.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [Tabler Icons](../records/icons-and-logos-tabler-icons-814b22b6.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [webkul/vivid](../records/icons-and-logos-webkul-vivid-1d0393fe.md) | partial | 2023-01-07T02:22:23Z | registry-derived |

@@ -1,6 +1,6 @@
 # Engines
 
-Records: `168`
+Records: `184`
 
 ## Navigation
 
@@ -8,25 +8,31 @@ Records: `168`
 
 ## Category Index
 
-[Api Abi Checker (211)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (45)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
-[Benchmarking (190)](../by-category/benchmarking.md) · [Build System (965)](../by-category/build-system.md) · [Cli (551)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (115)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (50)](../by-category/compression.md)
-[Concurrency Parallelism (87)](../by-category/concurrency-parallelism.md) · [Configuration (124)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (172)](../by-category/cryptography.md) · [Data Science (37)](../by-category/data-science.md) · [Database Datastore (884)](../by-category/database-datastore.md) · [Datetime (209)](../by-category/datetime.md)
+[Api Abi Checker (213)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
+[Benchmarking (191)](../by-category/benchmarking.md) · [Build System (972)](../by-category/build-system.md) · [Cli (552)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (116)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (50)](../by-category/compression.md)
+[Concurrency Parallelism (88)](../by-category/concurrency-parallelism.md) · [Configuration (125)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
+[Cryptography (172)](../by-category/cryptography.md) · [Data Science (37)](../by-category/data-science.md) · [Database Datastore (884)](../by-category/database-datastore.md) · [Datetime (213)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (101)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
-[Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (438)](../by-category/ffi-bindings.md) · [Filesystem Os (1513)](../by-category/filesystem-os.md) · [Formatter (631)](../by-category/formatter.md)
-[Framework (60)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (344)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1406)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (411)](../by-category/image-audio-dsp.md) · [Interop Bindings (60)](../by-category/interop-bindings.md) · [Interpreter Runtime (265)](../by-category/interpreter-runtime.md) · [Jit Vm (62)](../by-category/jit-vm.md)
-[Language Server (28)](../by-category/language-server.md) · [Language Specification (1415)](../by-category/language-specification.md) · [Library (5455)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (347)](../by-category/linter.md) · [Logging Observability (513)](../by-category/logging-observability.md) · [Machine Learning (726)](../by-category/machine-learning.md)
-[Math Numeric Scientific (87)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1010)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (434)](../by-category/package-manager.md) · [Parser Lexer Ast (1067)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (292)](../by-category/precommit-ci-quality.md)
+[Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (446)](../by-category/ffi-bindings.md) · [Filesystem Os (1533)](../by-category/filesystem-os.md) · [Formatter (632)](../by-category/formatter.md)
+[Framework (61)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (353)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1413)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (416)](../by-category/image-audio-dsp.md) · [Interop Bindings (60)](../by-category/interop-bindings.md) · [Interpreter Runtime (265)](../by-category/interpreter-runtime.md) · [Jit Vm (62)](../by-category/jit-vm.md)
+[Language Server (28)](../by-category/language-server.md) · [Language Specification (1421)](../by-category/language-specification.md) · [Library (5473)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (515)](../by-category/logging-observability.md) · [Machine Learning (737)](../by-category/machine-learning.md)
+[Math Numeric Scientific (87)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1014)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (435)](../by-category/package-manager.md) · [Parser Lexer Ast (1072)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (294)](../by-category/precommit-ci-quality.md)
 [Profiler (86)](../by-category/profiler.md) · [Project Scaffolding (132)](../by-category/project-scaffolding.md) · [Registry Repository (132)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
-[Security Sast (336)](../by-category/security-sast.md) · [Serialization (390)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (514)](../by-category/static-analyzer.md)
+[Security Sast (336)](../by-category/security-sast.md) · [Serialization (391)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (524)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (599)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (62)](../by-category/tutorial-book-styleguide.md) · [Type Checker (311)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1561)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (101)](../by-category/utility-library.md) · [Visualization Gui (509)](../by-category/visualization-gui.md) · [Web Framework (472)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1570)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (102)](../by-category/utility-library.md) · [Visualization Gui (513)](../by-category/visualization-gui.md) · [Web Framework (473)](../by-category/web-framework.md)
 
 ## Categories
+
+### Assertion Mocking
+
+| Name | Release | Date | Source |
+| --- | --- | --- | --- |
+| [context-and-oss/XrmMockup](../records/engines-context-and-oss-xrmmockup-214b80d4.md) | partial | 2026-09-03T10:50:16Z | registry-derived |
 
 ### Async Runtime
 
@@ -58,6 +64,7 @@ Records: `168`
 | [sbhooley/ainativelang](../records/engines-sbhooley-ainativelang-d8561712.md) | partial | 2026-09-03T15:50:51Z | registry-derived |
 | [travisvroman/kohi](../records/engines-travisvroman-kohi-f653b0d5.md) | partial | 2026-09-04T03:27:59Z | registry-derived |
 | [vercel/workflow](../records/engines-vercel-workflow-738d28e4.md) | partial | 2026-09-04T01:24:12Z | registry-derived |
+| [zenineasa/Konjugate](../records/engines-zenineasa-konjugate-63526a02.md) | partial | 2026-09-04T13:43:13Z | registry-derived |
 
 ### Compiler
 
@@ -97,8 +104,10 @@ Records: `168`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [ivankadric02-alt/wyrd-ecs-core](../records/engines-ivankadric02-alt-wyrd-ecs-core-fbb4ff06.md) | partial | 2026-09-04T16:13:07Z | registry-derived |
 | [margelo/react-native-filament](../records/engines-margelo-react-native-filament-bf057c64.md) | partial | 2026-05-27T12:30:27Z | registry-derived |
 | [sofa-framework/sofa](../records/engines-sofa-framework-sofa-951ffe2e.md) | partial | 2026-09-04T08:47:35Z | registry-derived |
+| [synodic/soul-engine](../records/engines-synodic-soul-engine-d14d09f6.md) | partial | 2025-11-20T23:59:10Z | registry-derived |
 
 ### Dependency Manager
 
@@ -127,6 +136,7 @@ Records: `168`
 | [jkuhlmann/gainput](../records/engines-jkuhlmann-gainput-00a0e49a.md) | partial | 2021-09-06T20:03:56Z | registry-derived |
 | [Netflix/conductor](../records/engines-netflix-conductor-710edef0.md) | partial | 2023-12-22T23:40:04Z | registry-derived |
 | [OpenRA/OpenRA](../records/engines-openra-openra-43075e7d.md) | partial | 2026-09-01T12:26:51Z | registry-derived |
+| [SimulationStorm/SimulationStorm](../records/engines-simulationstorm-simulationstorm-ab833fc5.md) | partial | 2024-08-05T14:00:55Z | registry-derived |
 | [underpig1/octos](../records/engines-underpig1-octos-7ed43a24.md) | partial | 2025-09-06T01:32:58Z | registry-derived |
 
 ### Formatter
@@ -145,7 +155,9 @@ Records: `168`
 | [amethyst/amethyst](../records/engines-amethyst-amethyst-3c5e2553.md) | unknown | github_latest_release_missing | registry-derived |
 | [ange-yaghi/engine-sim](../records/engines-ange-yaghi-engine-sim-7e49c066.md) | unknown | github_latest_release_missing | registry-derived |
 | [autokitteh/autokitteh](../records/engines-autokitteh-autokitteh-b5d221ba.md) | partial | 2026-05-14T22:10:15Z | registry-derived |
+| [AVISEngine/AVIS-Engine-Python-API](../records/engines-avisengine-avis-engine-python-api-6690d3f0.md) | partial | 2025-05-20T11:25:01Z | registry-derived |
 | [azkaban/azkaban](../records/engines-azkaban-azkaban-70e229b3.md) | partial | 2024-07-03T06:07:59Z | registry-derived |
+| [Azure/device-simulation-dotnet](../records/engines-azure-device-simulation-dotnet-e81163c4.md) | partial | 2021-01-25T23:45:42Z | registry-derived |
 | [bluejoe2008/openwebflow](../records/engines-bluejoe2008-openwebflow-e2402f87.md) | partial | 2020-04-19T00:56:35Z | registry-derived |
 | [camunda/camunda](../records/engines-camunda-camunda-dd72fb5a.md) | partial | 2026-09-04T13:21:32Z | registry-derived |
 | [caoccao/Javet](../records/engines-caoccao-javet-e9a9de5e.md) | partial | 2026-09-04T12:00:27Z | registry-derived |
@@ -155,9 +167,11 @@ Records: `168`
 | [delmarle/RPG-Core](../records/engines-delmarle-rpg-core-b1da1719.md) | partial | 2026-04-14T10:39:31Z | registry-derived |
 | [evennia/evennia](../records/engines-evennia-evennia-62aba559.md) | partial | 2026-09-02T16:45:06Z | registry-derived |
 | [exokitxr/exokit](../records/engines-exokitxr-exokit-8d2010da.md) | partial | 2023-09-06T20:59:00Z | registry-derived |
+| [Facsimile/facsimile](../records/engines-facsimile-facsimile-8e046e98.md) | partial | 2025-01-20T19:06:10Z | registry-derived |
 | [FlaxEngine/FlaxEngine](../records/engines-flaxengine-flaxengine-5504fa8e.md) | partial | 2026-09-02T21:27:55Z | registry-derived |
 | [FyroxEngine/Fyrox](../records/engines-fyroxengine-fyrox-45934015.md) | partial | 2026-09-03T20:45:41Z | registry-derived |
 | [galaxyproject/galaxy](../records/engines-galaxyproject-galaxy-189af822.md) | partial | 2026-09-04T12:39:58Z | registry-derived |
+| [GAMMA-UMD/pygsound](../records/engines-gamma-umd-pygsound-5572b0d8.md) | partial | 2023-01-17T17:04:57Z | registry-derived |
 | [gemrb/gemrb](../records/engines-gemrb-gemrb-c71700a9.md) | partial | 2026-09-01T15:40:55Z | registry-derived |
 | [ggez/ggez](../records/engines-ggez-ggez-cbe04c3b.md) | partial | 2026-08-24T21:20:24Z | registry-derived |
 | [glouw/littlewolf](../records/engines-glouw-littlewolf-148330c0.md) | partial | 2020-10-01T17:54:27Z | registry-derived |
@@ -237,6 +251,7 @@ Records: `168`
 | [danielgerlag/workflow-core](../records/engines-danielgerlag-workflow-core-58906f6f.md) | partial | 2026-08-22T18:10:17Z | registry-derived |
 | [dtm-labs/dtm](../records/engines-dtm-labs-dtm-91896a18.md) | partial | 2026-01-03T13:47:46Z | registry-derived |
 | [expr-lang/expr](../records/engines-expr-lang-expr-9f2f81f6.md) | partial | 2026-07-07T06:57:20Z | registry-derived |
+| [krABMaga/krABMaga](../records/engines-krabmaga-krabmaga-1745391e.md) | partial | 2026-09-04T13:00:02Z | registry-derived |
 | [master-co/css](../records/engines-master-co-css-daa9361b.md) | partial | 2026-08-01T15:25:01Z | registry-derived |
 | [openkraken/kraken](../records/engines-openkraken-kraken-3bf4b456.md) | partial | 2022-12-30T15:02:55Z | registry-derived |
 
@@ -248,6 +263,12 @@ Records: `168`
 | [microsoft/RulesEngine](../records/engines-microsoft-rulesengine-6770ef5c.md) | partial | 2026-07-03T10:11:09Z | registry-derived |
 | [mithunsatheesh/node-rules](../records/engines-mithunsatheesh-node-rules-09384125.md) | partial | 2026-01-21T23:07:06Z | registry-derived |
 
+### Logging Observability
+
+| Name | Release | Date | Source |
+| --- | --- | --- | --- |
+| [bakiraa/qyvaria-hardlogic-kernel-engine](../records/engines-bakiraa-qyvaria-hardlogic-kernel-engine-5b89b6f1.md) | partial | 2026-09-04T14:42:04Z | registry-derived |
+
 ### Machine Learning
 
 | Name | Release | Date | Source |
@@ -255,12 +276,14 @@ Records: `168`
 | [apache/airflow](../records/engines-apache-airflow-ec0c1bd9.md) | partial | 2026-09-04T12:47:41Z | registry-derived |
 | [besley/Slickflow](../records/engines-besley-slickflow-8a623345.md) | partial | 2026-06-24T14:00:50Z | registry-derived |
 | [c-smile/sciter-sdk](../records/engines-c-smile-sciter-sdk-93de024a.md) | partial | 2023-07-03T15:44:10Z | registry-derived |
+| [dae-cpp/dae-cpp](../records/engines-dae-cpp-dae-cpp-32cc0a80.md) | partial | 2025-12-07T20:56:38Z | registry-derived |
 | [Fadi002/de4py](../records/engines-fadi002-de4py-48ca9e48.md) | partial | 2026-08-25T12:28:28Z | registry-derived |
 | [hatchet-dev/hatchet](../records/engines-hatchet-dev-hatchet-dde29721.md) | partial | 2026-09-04T12:40:52Z | registry-derived |
 | [marcoroth/herb](../records/engines-marcoroth-herb-29af84ac.md) | partial | 2026-09-03T20:46:21Z | registry-derived |
 | [mikker/passwordless](../records/engines-mikker-passwordless-e6a9578b.md) | partial | 2026-06-22T04:52:32Z | registry-derived |
 | [ObEngine/ObEngine](../records/engines-obengine-obengine-ac8d068c.md) | partial | 2026-07-09T00:56:01Z | registry-derived |
 | [openops-cloud/openops](../records/engines-openops-cloud-openops-3573ce0b.md) | partial | 2026-09-04T10:31:51Z | registry-derived |
+| [peter1591/hearthstone-ai](../records/engines-peter1591-hearthstone-ai-a2f81401.md) | partial | 2018-03-01T16:34:27Z | registry-derived |
 | [runabol/tork](../records/engines-runabol-tork-2f2dcd95.md) | partial | 2026-07-21T21:16:57Z | registry-derived |
 | [scallyw4g/bonsai](../records/engines-scallyw4g-bonsai-962f69ac.md) | partial | 2026-09-01T01:58:22Z | registry-derived |
 | [ShowFL/Toou-2D](../records/engines-showfl-toou-2d-dcc39c0d.md) | partial | 2021-08-25T14:06:43Z | registry-derived |
@@ -325,7 +348,9 @@ Records: `168`
 | [argoproj/argo-workflows](../records/engines-argoproj-argo-workflows-a6929656.md) | partial | 2026-09-03T04:55:19Z | registry-derived |
 | [dariubs/awesome-workflow-automation](../records/engines-dariubs-awesome-workflow-automation-d7181907.md) | partial | 2026-04-28T14:45:31Z | registry-derived |
 | [devtron-labs/devtron](../records/engines-devtron-labs-devtron-23c3daec.md) | partial | 2026-09-04T03:34:11Z | registry-derived |
+| [hashintel/labs](../records/engines-hashintel-labs-272b9ddd.md) | partial | 2026-09-04T13:28:56Z | registry-derived |
 | [jose-villegas/VCTRenderer](../records/engines-jose-villegas-vctrenderer-cebd55f6.md) | partial | 2026-02-14T14:45:57Z | registry-derived |
+| [lanl/dfnWorks](../records/engines-lanl-dfnworks-d6b382e9.md) | partial | 2026-08-20T21:19:18Z | registry-derived |
 | [MapServer/MapServer](../records/engines-mapserver-mapserver-b7716c81.md) | partial | 2026-09-03T15:33:42Z | registry-derived |
 | [pay-rails/pay](../records/engines-pay-rails-pay-08afb026.md) | partial | 2026-08-23T13:26:36Z | registry-derived |
 | [somta/Juggle](../records/engines-somta-juggle-8b99befd.md) | partial | 2026-06-12T02:44:23Z | registry-derived |
@@ -337,6 +362,7 @@ Records: `168`
 | [akuity/awesome-argo](../records/engines-akuity-awesome-argo-a8c3ad12.md) | unknown | github_latest_release_missing | registry-derived |
 | [alyssaxuu/flowy](../records/engines-alyssaxuu-flowy-6804c711.md) | unknown | github_latest_release_missing | registry-derived |
 | [chakra-ui/panda](../records/engines-chakra-ui-panda-92a4cddf.md) | partial | 2026-09-04T12:11:29Z | registry-derived |
+| [raymondyfei/libwetcloth](../records/engines-raymondyfei-libwetcloth-c55c1f44.md) | partial | 2021-12-20T20:20:31Z | registry-derived |
 
 ### Web Framework
 

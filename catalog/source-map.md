@@ -4,23 +4,23 @@
 
 ## Category Index
 
-[Api Abi Checker (211)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (45)](by-category/assertion-mocking.md) · [Async Runtime (136)](by-category/async-runtime.md)
-[Benchmarking (190)](by-category/benchmarking.md) · [Build System (965)](by-category/build-system.md) · [Cli (551)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
-[Community Reference (115)](by-category/community-reference.md) · [Compiler (175)](by-category/compiler.md) · [Compiler Diagnostics (23)](by-category/compiler-diagnostics.md) · [Compression (50)](by-category/compression.md)
-[Concurrency Parallelism (87)](by-category/concurrency-parallelism.md) · [Configuration (124)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (172)](by-category/cryptography.md) · [Data Science (37)](by-category/data-science.md) · [Database Datastore (884)](by-category/database-datastore.md) · [Datetime (209)](by-category/datetime.md)
+[Api Abi Checker (213)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (136)](by-category/async-runtime.md)
+[Benchmarking (191)](by-category/benchmarking.md) · [Build System (972)](by-category/build-system.md) · [Cli (552)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Community Reference (116)](by-category/community-reference.md) · [Compiler (175)](by-category/compiler.md) · [Compiler Diagnostics (23)](by-category/compiler-diagnostics.md) · [Compression (50)](by-category/compression.md)
+[Concurrency Parallelism (88)](by-category/concurrency-parallelism.md) · [Configuration (125)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
+[Cryptography (172)](by-category/cryptography.md) · [Data Science (37)](by-category/data-science.md) · [Database Datastore (884)](by-category/database-datastore.md) · [Datetime (213)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (101)](by-category/dependency-manager.md) · [Documentation (103)](by-category/documentation.md)
-[Embedded Hardware (56)](by-category/embedded-hardware.md) · [Ffi Bindings (438)](by-category/ffi-bindings.md) · [Filesystem Os (1513)](by-category/filesystem-os.md) · [Formatter (631)](by-category/formatter.md)
-[Framework (60)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (344)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1406)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (411)](by-category/image-audio-dsp.md) · [Interop Bindings (60)](by-category/interop-bindings.md) · [Interpreter Runtime (265)](by-category/interpreter-runtime.md) · [Jit Vm (62)](by-category/jit-vm.md)
-[Language Server (28)](by-category/language-server.md) · [Language Specification (1415)](by-category/language-specification.md) · [Library (5455)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (347)](by-category/linter.md) · [Logging Observability (513)](by-category/logging-observability.md) · [Machine Learning (726)](by-category/machine-learning.md)
-[Math Numeric Scientific (87)](by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1010)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (434)](by-category/package-manager.md) · [Parser Lexer Ast (1067)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (292)](by-category/precommit-ci-quality.md)
+[Embedded Hardware (56)](by-category/embedded-hardware.md) · [Ffi Bindings (446)](by-category/ffi-bindings.md) · [Filesystem Os (1533)](by-category/filesystem-os.md) · [Formatter (632)](by-category/formatter.md)
+[Framework (61)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (353)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1413)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (416)](by-category/image-audio-dsp.md) · [Interop Bindings (60)](by-category/interop-bindings.md) · [Interpreter Runtime (265)](by-category/interpreter-runtime.md) · [Jit Vm (62)](by-category/jit-vm.md)
+[Language Server (28)](by-category/language-server.md) · [Language Specification (1421)](by-category/language-specification.md) · [Library (5473)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (515)](by-category/logging-observability.md) · [Machine Learning (737)](by-category/machine-learning.md)
+[Math Numeric Scientific (87)](by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1014)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (435)](by-category/package-manager.md) · [Parser Lexer Ast (1072)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (294)](by-category/precommit-ci-quality.md)
 [Profiler (86)](by-category/profiler.md) · [Project Scaffolding (132)](by-category/project-scaffolding.md) · [Registry Repository (132)](by-category/registry-repository.md) · [Sanitizer (13)](by-category/sanitizer.md)
-[Security Sast (336)](by-category/security-sast.md) · [Serialization (390)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (514)](by-category/static-analyzer.md)
+[Security Sast (336)](by-category/security-sast.md) · [Serialization (391)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (524)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (599)](by-category/testing-framework.md) · [Tutorial Book Styleguide (62)](by-category/tutorial-book-styleguide.md) · [Type Checker (311)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1561)](by-category/undefined-behavior-analyzer.md) · [Utility Library (101)](by-category/utility-library.md) · [Visualization Gui (509)](by-category/visualization-gui.md) · [Web Framework (472)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1570)](by-category/undefined-behavior-analyzer.md) · [Utility Library (102)](by-category/utility-library.md) · [Visualization Gui (513)](by-category/visualization-gui.md) · [Web Framework (473)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -5425,6 +5425,7 @@
 | `github_search_aims-ab9e320211611c` | janhq/jan | [open](records/aim-s-janhq-jan-f71b49a2.md) |
 | `github_search_aims-ad8326076c01ca` | ScrapeGraphAI/Scrapegraph-ai | [open](records/aim-s-scrapegraphai-scrapegraph-ai-8c5361dd.md) |
 | `github_search_aims-aeedc83856fd1e` | Zackriya-Solutions/meetily | [open](records/aim-s-zackriya-solutions-meetily-959563c6.md) |
+| `github_search_aims-b1192f01091c5e` | feder-cr/AIHawk | [open](records/aim-s-feder-cr-aihawk-d2319d23.md) |
 | `github_search_aims-b4fa2ddcee2812` | p-e-w/heretic | [open](records/aim-s-p-e-w-heretic-a6b88cd3.md) |
 | `github_search_aims-b6426bc0f4575f` | ItzCrazyKns/Vane | [open](records/aim-s-itzcrazykns-vane-331d2e53.md) |
 | `github_search_aims-b8352ef19baf3c` | lyogavin/airllm | [open](records/aim-s-lyogavin-airllm-08fb5553.md) |
@@ -6835,6 +6836,7 @@
 | `github_search_catalogs-a9db50e3d6a6cd` | manimino/ducks | [open](records/catalogs-manimino-ducks-7b913fc2.md) |
 | `github_search_catalogs-aa82f82c582407` | gamtiq/frontend-tools | [open](records/catalogs-gamtiq-frontend-tools-477afdfd.md) |
 | `github_search_catalogs-ab3f2f34427ed4` | riferrei/srclient | [open](records/catalogs-riferrei-srclient-a30143ad.md) |
+| `github_search_catalogs-abc6c69607eb52` | vltpkg/vsr | [open](records/catalogs-vltpkg-vsr-5a37f965.md) |
 | `github_search_catalogs-ac226802a748ef` | sealerio/sealer | [open](records/catalogs-sealerio-sealer-b1b1c3d8.md) |
 | `github_search_catalogs-ac86438bd10a29` | antgroup/sofa | [open](records/catalogs-antgroup-sofa-dfd41cac.md) |
 | `github_search_catalogs-ae001b3122ae1b` | amundsen-io/amundsen | [open](records/catalogs-amundsen-io-amundsen-34c1f00a.md) |
@@ -8818,6 +8820,8 @@
 | `github_search_electromagnetoscopes-fc0009c9713871` | W00t3k/Awesome-Cellular-Hacking | [open](records/electromagnetoscopes-w00t3k-awesome-cellular-hacking-8e70c8fe.md) |
 | `github_search_electromagnetoscopes-fd56a589fcf57d` | hvianna/audioMotion-analyzer | [open](records/electromagnetoscopes-hvianna-audiomotion-analyzer-80ec5290.md) |
 | `github_search_electromagnetoscopes-fdcd5c6ad82a98` | ghostop14/sparrow-wifi | [open](records/electromagnetoscopes-ghostop14-sparrow-wifi-385fa5e7.md) |
+| `github_search_engines-008efac50870e9` | dae-cpp/dae-cpp | [open](records/engines-dae-cpp-dae-cpp-32cc0a80.md) |
+| `github_search_engines-0215d2f11622ae` | context-and-oss/XrmMockup | [open](records/engines-context-and-oss-xrmmockup-214b80d4.md) |
 | `github_search_engines-021e947707b22f` | margelo/react-native-filament | [open](records/engines-margelo-react-native-filament-bf057c64.md) |
 | `github_search_engines-024b8aecc88b0f` | javrasya/django-river | [open](records/engines-javrasya-django-river-6414f990.md) |
 | `github_search_engines-038187adbf3dd0` | expr-lang/expr | [open](records/engines-expr-lang-expr-9f2f81f6.md) |
@@ -8840,12 +8844,14 @@
 | `github_search_engines-205bdd762b9259` | vercel/workflow | [open](records/engines-vercel-workflow-738d28e4.md) |
 | `github_search_engines-21c2c77e1c2ae8` | JiepengTan/LockstepEngine | [open](records/engines-jiepengtan-lockstepengine-fced748e.md) |
 | `github_search_engines-22006bdb014e15` | utopia-rise/godot-jvm | [open](records/engines-utopia-rise-godot-jvm-1d89ba9a.md) |
+| `github_search_engines-23a339a6c5952c` | lanl/dfnWorks | [open](records/engines-lanl-dfnworks-d6b382e9.md) |
 | `github_search_engines-24f89bcd67a3b4` | microsoft/RulesEngine | [open](records/engines-microsoft-rulesengine-6770ef5c.md) |
 | `github_search_engines-29104387040ed2` | j-easy/easy-flows | [open](records/engines-j-easy-easy-flows-5862f411.md) |
 | `github_search_engines-296931d957c07c` | MaKiPL/OpenVIII-monogame | [open](records/engines-makipl-openviii-monogame-eeaa71bf.md) |
 | `github_search_engines-2b26bfdf712be2` | Pantong51/GASContent | [open](records/engines-pantong51-gascontent-68545fdd.md) |
 | `github_search_engines-2bd684981ac990` | Netflix/conductor | [open](records/engines-netflix-conductor-710edef0.md) |
 | `github_search_engines-2df64870089237` | indeedeng/iwf | [open](records/engines-indeedeng-iwf-61e7f28f.md) |
+| `github_search_engines-2f309cd840a9df` | Facsimile/facsimile | [open](records/engines-facsimile-facsimile-8e046e98.md) |
 | `github_search_engines-2f7a25d5471825` | cesanta/elk | [open](records/engines-cesanta-elk-6fb84a8c.md) |
 | `github_search_engines-2ff18daadcc1f5` | bkaradzic/bgfx | [open](records/engines-bkaradzic-bgfx-8a240dc1.md) |
 | `github_search_engines-3057c111fe7674` | aelassas/wexflow | [open](records/engines-aelassas-wexflow-2844d6ae.md) |
@@ -8862,6 +8868,7 @@
 | `github_search_engines-3c8f1b387f1b6c` | besley/Slickflow | [open](records/engines-besley-slickflow-8a623345.md) |
 | `github_search_engines-3d4d3e286eb329` | apache/airflow | [open](records/engines-apache-airflow-ec0c1bd9.md) |
 | `github_search_engines-3da1ef3b387e8b` | dtm-labs/dtm | [open](records/engines-dtm-labs-dtm-91896a18.md) |
+| `github_search_engines-3ffc82d3e2a3a0` | AVISEngine/AVIS-Engine-Python-API | [open](records/engines-avisengine-avis-engine-python-api-6690d3f0.md) |
 | `github_search_engines-453eb1f08dbcfa` | krkrz/krkrz | [open](records/engines-krkrz-krkrz-0c7c9bac.md) |
 | `github_search_engines-4ade9a5f06ddf2` | oracle/opengrok | [open](records/engines-oracle-opengrok-ebcea996.md) |
 | `github_search_engines-4bc95a548a03b9` | akuity/awesome-argo | [open](records/engines-akuity-awesome-argo-a8c3ad12.md) |
@@ -8875,6 +8882,7 @@
 | `github_search_engines-5dbbc78889dd3b` | camunda/camunda | [open](records/engines-camunda-camunda-dd72fb5a.md) |
 | `github_search_engines-5df8e682fae19e` | TencentBlueKing/bk-sops | [open](records/engines-tencentblueking-bk-sops-f03fc3d8.md) |
 | `github_search_engines-5e253f7cb0f35f` | coronalabs/corona | [open](records/engines-coronalabs-corona-521f8f94.md) |
+| `github_search_engines-5e399fca3d5937` | ivankadric02-alt/wyrd-ecs-core | [open](records/engines-ivankadric02-alt-wyrd-ecs-core-fbb4ff06.md) |
 | `github_search_engines-6137a004e677ac` | ggez/ggez | [open](records/engines-ggez-ggez-cbe04c3b.md) |
 | `github_search_engines-616301577b2852` | OpenDiablo2/OpenDiablo2 | [open](records/engines-opendiablo2-opendiablo2-5f4517bb.md) |
 | `github_search_engines-64660760778c08` | CacheControl/json-rules-engine | [open](records/engines-cachecontrol-json-rules-engine-77e7cfed.md) |
@@ -8882,6 +8890,7 @@
 | `github_search_engines-6599417bc6c20a` | dbos-inc/dbos-transact-ts | [open](records/engines-dbos-inc-dbos-transact-ts-17802f20.md) |
 | `github_search_engines-69b97bae1a47c2` | AmrDeveloper/GQL | [open](records/engines-amrdeveloper-gql-59536c22.md) |
 | `github_search_engines-6ad060ec92a0ae` | REGoth-project/REGoth | [open](records/engines-regoth-project-regoth-8680da6e.md) |
+| `github_search_engines-6ebb3c8fc6a62d` | SimulationStorm/SimulationStorm | [open](records/engines-simulationstorm-simulationstorm-ab833fc5.md) |
 | `github_search_engines-72418f388c4765` | DCurrent/openbor | [open](records/engines-dcurrent-openbor-b2f937dc.md) |
 | `github_search_engines-73964a1ed51949` | optimajet/WorkflowEngine.NET | [open](records/engines-optimajet-workflowengine-net-d3178bcb.md) |
 | `github_search_engines-74a4589af88d46` | chakra-ui/panda | [open](records/engines-chakra-ui-panda-92a4cddf.md) |
@@ -8889,17 +8898,20 @@
 | `github_search_engines-76e46e2ff3aab3` | ssloy/tinyrenderer | [open](records/engines-ssloy-tinyrenderer-5a4e5787.md) |
 | `github_search_engines-79f2f78e77fe05` | nextflow-io/nextflow | [open](records/engines-nextflow-io-nextflow-341c952c.md) |
 | `github_search_engines-7de143c1e4c547` | sofa-framework/sofa | [open](records/engines-sofa-framework-sofa-951ffe2e.md) |
+| `github_search_engines-7e0e742640e2bd` | Azure/device-simulation-dotnet | [open](records/engines-azure-device-simulation-dotnet-e81163c4.md) |
 | `github_search_engines-7f7636a24535a8` | jarikomppa/soloud | [open](records/engines-jarikomppa-soloud-4c6f278d.md) |
 | `github_search_engines-7fae0dfb566da9` | Taiizor/Sucrose | [open](records/engines-taiizor-sucrose-fc644b1f.md) |
 | `github_search_engines-814064bd55d39f` | mikker/passwordless | [open](records/engines-mikker-passwordless-e6a9578b.md) |
 | `github_search_engines-81dbc2bfceedeb` | theMackabu/ant | [open](records/engines-themackabu-ant-48fb8dc3.md) |
 | `github_search_engines-82bf9ffd1faeb1` | ShowFL/Toou-2D | [open](records/engines-showfl-toou-2d-dcc39c0d.md) |
 | `github_search_engines-830903c7f3ab51` | azkaban/azkaban | [open](records/engines-azkaban-azkaban-70e229b3.md) |
+| `github_search_engines-8372d3e68eb831` | peter1591/hearthstone-ai | [open](records/engines-peter1591-hearthstone-ai-a2f81401.md) |
 | `github_search_engines-84750d57c0e920` | j3ssie/osmedeus | [open](records/engines-j3ssie-osmedeus-208343c3.md) |
 | `github_search_engines-84b059df8026f0` | LambdaHack/LambdaHack | [open](records/engines-lambdahack-lambdahack-044509dd.md) |
 | `github_search_engines-8555389d1d9a20` | hecrj/coffee | [open](records/engines-hecrj-coffee-c232b7d7.md) |
 | `github_search_engines-857f486ea449e8` | inngest/inngest | [open](records/engines-inngest-inngest-d3fec8bd.md) |
 | `github_search_engines-86819ab9cf950d` | Monogatari/Monogatari | [open](records/engines-monogatari-monogatari-e0b60dfe.md) |
+| `github_search_engines-89ae10a0b22e51` | raymondyfei/libwetcloth | [open](records/engines-raymondyfei-libwetcloth-c55c1f44.md) |
 | `github_search_engines-8aadd72a75e6c9` | gongminmin/KlayGE | [open](records/engines-gongminmin-klayge-034618e4.md) |
 | `github_search_engines-8b9b1e13ca6862` | devtron-labs/devtron | [open](records/engines-devtron-labs-devtron-23c3daec.md) |
 | `github_search_engines-8c937072ff89b0` | evennia/evennia | [open](records/engines-evennia-evennia-62aba559.md) |
@@ -8935,6 +8947,7 @@
 | `github_search_engines-bcd532e1b79f4e` | s8sg/goflow | [open](records/engines-s8sg-goflow-42947b0d.md) |
 | `github_search_engines-c07984996f1aef` | exokitxr/exokit | [open](records/engines-exokitxr-exokit-8d2010da.md) |
 | `github_search_engines-c19ce0173d5b1c` | marcobiedermann/search-engine-optimization | [open](records/engines-marcobiedermann-search-engine-optimization-9d024b1b.md) |
+| `github_search_engines-c2b053c1204780` | hashintel/labs | [open](records/engines-hashintel-labs-272b9ddd.md) |
 | `github_search_engines-c4c33940f4ca0d` | risesoft-y9/WorkFlow-Engine | [open](records/engines-risesoft-y9-workflow-engine-82ad3d31.md) |
 | `github_search_engines-c4d1ea9ad735b5` | galaxyproject/galaxy | [open](records/engines-galaxyproject-galaxy-189af822.md) |
 | `github_search_engines-c5662737a84c0f` | MapServer/MapServer | [open](records/engines-mapserver-mapserver-b7716c81.md) |
@@ -8944,11 +8957,14 @@
 | `github_search_engines-ca43db6c19a35d` | mofr/Diablerie | [open](records/engines-mofr-diablerie-251a6392.md) |
 | `github_search_engines-cb8c06bbabb387` | gameplay3d/gameplay | [open](records/engines-gameplay3d-gameplay-6dd44502.md) |
 | `github_search_engines-cb8c85278c7b86` | underpig1/octos | [open](records/engines-underpig1-octos-7ed43a24.md) |
+| `github_search_engines-cdf2e36efac86a` | synodic/soul-engine | [open](records/engines-synodic-soul-engine-d14d09f6.md) |
 | `github_search_engines-d0ea05959d22a8` | rulego/rulego | [open](records/engines-rulego-rulego-24f33e58.md) |
 | `github_search_engines-d0fe1eae377f91` | lfkdsk/JustWeEngine | [open](records/engines-lfkdsk-justweengine-890673a2.md) |
 | `github_search_engines-d133e8ee922b3e` | scipipe/scipipe | [open](records/engines-scipipe-scipipe-012c3ea7.md) |
 | `github_search_engines-d55fd6928520d0` | collinsmith/riiablo | [open](records/engines-collinsmith-riiablo-784065eb.md) |
 | `github_search_engines-d5a84a0699a335` | amatsuda/heavens_door | [open](records/engines-amatsuda-heavens-door-feca01c1.md) |
+| `github_search_engines-d6a492b320ee1c` | krABMaga/krABMaga | [open](records/engines-krabmaga-krabmaga-1745391e.md) |
+| `github_search_engines-d7087ac0a96a5c` | zenineasa/Konjugate | [open](records/engines-zenineasa-konjugate-63526a02.md) |
 | `github_search_engines-d7490d6892e2e8` | danielgerlag/workflow-core | [open](records/engines-danielgerlag-workflow-core-58906f6f.md) |
 | `github_search_engines-d87e3bbdcda1c1` | meel-hd/lofi-engine | [open](records/engines-meel-hd-lofi-engine-dfa76e3c.md) |
 | `github_search_engines-ddd2e5ba214a21` | afollestad/aesthetic | [open](records/engines-afollestad-aesthetic-476cc6a0.md) |
@@ -8970,7 +8986,9 @@
 | `github_search_engines-edcc4f47f18de0` | appcypher/awesome-wasm-runtimes | [open](records/engines-appcypher-awesome-wasm-runtimes-be7b7445.md) |
 | `github_search_engines-ef820e47100f73` | FyroxEngine/Fyrox | [open](records/engines-fyroxengine-fyrox-45934015.md) |
 | `github_search_engines-f1348e454f8cf6` | aizuda/flowlong | [open](records/engines-aizuda-flowlong-770e8762.md) |
+| `github_search_engines-f2a2e223047a7f` | GAMMA-UMD/pygsound | [open](records/engines-gamma-umd-pygsound-5572b0d8.md) |
 | `github_search_engines-f3a10dffb0ee4a` | BlindMindStudios/StarRuler2-Source | [open](records/engines-blindmindstudios-starruler2-source-7a168908.md) |
+| `github_search_engines-f463819ba6f8ca` | bakiraa/qyvaria-hardlogic-kernel-engine | [open](records/engines-bakiraa-qyvaria-hardlogic-kernel-engine-5b89b6f1.md) |
 | `github_search_engines-f70f02f25d14fb` | ovh/utask | [open](records/engines-ovh-utask-d4d50536.md) |
 | `github_search_engines-f7797347aacd77` | durable-workflow/workflow | [open](records/engines-durable-workflow-workflow-da539e15.md) |
 | `github_search_engines-f8213a28c872a7` | apache/linkis | [open](records/engines-apache-linkis-1bb43df6.md) |
@@ -9255,8 +9273,10 @@
 | `github_search_game_engines-40317de60be0b7` | nem0/LumixEngine | [open](records/game-engines-nem0-lumixengine-1e45d64d.md) |
 | `github_search_game_engines-40aadd708defaa` | PanosK92/SpartanEngine | [open](records/game-engines-panosk92-spartanengine-d9d1d530.md) |
 | `github_search_game_engines-42f3a0906c075a` | dawdle-deer/awesome-learn-gamedev | [open](records/game-engines-dawdle-deer-awesome-learn-gamedev-eaa823a2.md) |
+| `github_search_game_engines-430cc93937e6e3` | Alex-Rachel/TEngine | [open](records/game-engines-alex-rachel-tengine-d8f594c5.md) |
 | `github_search_game_engines-43ef2e0a45e13d` | passivestar/godot-minimal-theme | [open](records/game-engines-passivestar-godot-minimal-theme-351b4d8d.md) |
 | `github_search_game_engines-451ae94983fb28` | ThisisGame/cpp-game-engine-book | [open](records/game-engines-thisisgame-cpp-game-engine-book-db77adf2.md) |
+| `github_search_game_engines-4537ee161271bf` | floci-io/floci | [open](records/game-engines-floci-io-floci-0b0d9424.md) |
 | `github_search_game_engines-458d87f4f67272` | evennia/evennia | [open](records/game-engines-evennia-evennia-5fb1bb6c.md) |
 | `github_search_game_engines-4591bd607c8f25` | godot-rust/gdext | [open](records/game-engines-godot-rust-gdext-2fe313c5.md) |
 | `github_search_game_engines-464639426f5bf5` | QianMo/Unity-Design-Pattern | [open](records/game-engines-qianmo-unity-design-pattern-aab4b0fb.md) |
@@ -9264,6 +9284,7 @@
 | `github_search_game_engines-47109f9f416216` | Xtremilicious/projectlearn-project-based-learning | [open](records/game-engines-xtremilicious-projectlearn-project-based-learning-a3d4f11c.md) |
 | `github_search_game_engines-48b602306a50df` | gbdev/awesome-gbdev | [open](records/game-engines-gbdev-awesome-gbdev-d88f9d81.md) |
 | `github_search_game_engines-4982e490b4acd7` | not-fl3/macroquad | [open](records/game-engines-not-fl3-macroquad-be946484.md) |
+| `github_search_game_engines-4cde9f4e6af3ff` | remind101/empire | [open](records/game-engines-remind101-empire-8a29b228.md) |
 | `github_search_game_engines-4e028b6842140a` | OpenDiablo2/OpenDiablo2 | [open](records/game-engines-opendiablo2-opendiablo2-d8c6d72b.md) |
 | `github_search_game_engines-4e7e080ca8feaa` | TokisanGames/Terrain3D | [open](records/game-engines-tokisangames-terrain3d-500e25fb.md) |
 | `github_search_game_engines-4fc9736dcd0778` | nillerusr/source-engine | [open](records/game-engines-nillerusr-source-engine-4f55e49f.md) |
@@ -9276,14 +9297,17 @@
 | `github_search_game_engines-59e5dba62f5eb8` | urho3d/urho3d | [open](records/game-engines-urho3d-urho3d-87662fca.md) |
 | `github_search_game_engines-5a5663603c0e17` | BoomingTech/Piccolo | [open](records/game-engines-boomingtech-piccolo-e2075cff.md) |
 | `github_search_game_engines-5c5769214327a9` | mhxion/awesome-discord-communities | [open](records/game-engines-mhxion-awesome-discord-communities-f039058d.md) |
+| `github_search_game_engines-5e4d64c19b13c2` | valence-rs/valence | [open](records/game-engines-valence-rs-valence-baa77696.md) |
 | `github_search_game_engines-5f7fe42067761c` | in0finite/SanAndreasUnity | [open](records/game-engines-in0finite-sanandreasunity-568062bf.md) |
 | `github_search_game_engines-648f8acf4d8e3c` | tomlooman/ActionRoguelike | [open](records/game-engines-tomlooman-actionroguelike-57a5c128.md) |
+| `github_search_game_engines-65250c5404b9cc` | feather-rs/feather | [open](records/game-engines-feather-rs-feather-5c48c819.md) |
 | `github_search_game_engines-672513fd0ca237` | Calinou/awesome-godot | [open](records/game-engines-calinou-awesome-godot-88886215.md) |
 | `github_search_game_engines-6731c3e30c42ea` | Redot-Engine/redot-engine | [open](records/game-engines-redot-engine-redot-engine-23eae5f1.md) |
 | `github_search_game_engines-67e2fce905bfbb` | AmbientRun/Ambient | [open](records/game-engines-ambientrun-ambient-ff6b0404.md) |
 | `github_search_game_engines-685a041b512327` | raysan5/raylib | [open](records/game-engines-raysan5-raylib-7f6a2c99.md) |
 | `github_search_game_engines-6988bc392531b1` | a1studmuffin/SpaceshipGenerator | [open](records/game-engines-a1studmuffin-spaceshipgenerator-d4598d34.md) |
 | `github_search_game_engines-69ee3bd63c3df2` | CoplayDev/unity-mcp | [open](records/game-engines-coplaydev-unity-mcp-39755166.md) |
+| `github_search_game_engines-6fd37d62bbde83` | Unity-Technologies/EntityComponentSystemSamples | [open](records/game-engines-unity-technologies-entitycomponentsystemsamples-c074867e.md) |
 | `github_search_game_engines-6ff35258a51df2` | pygame/pygame | [open](records/game-engines-pygame-pygame-e80c3ca8.md) |
 | `github_search_game_engines-7143f3e903572d` | aframevr/aframe | [open](records/game-engines-aframevr-aframe-e25fc3c7.md) |
 | `github_search_game_engines-7223394cdbf97e` | armory3d/armory | [open](records/game-engines-armory3d-armory-8c64e938.md) |
@@ -9295,7 +9319,10 @@
 | `github_search_game_engines-7bc283b6ef4cd3` | godotengine/godot | [open](records/game-engines-godotengine-godot-b93241b2.md) |
 | `github_search_game_engines-7c39ccc30e2aac` | love2d/love | [open](records/game-engines-love2d-love-585b9f75.md) |
 | `github_search_game_engines-7ce13fd5905661` | 0xFA11/MultiplayerNetworkingResources | [open](records/game-engines-0xfa11-multiplayernetworkingresources-8380de20.md) |
+| `github_search_game_engines-7e10ec36e73d21` | weaveworks/scope | [open](records/game-engines-weaveworks-scope-237fa3ea.md) |
+| `github_search_game_engines-7e2802e95d123e` | amethyst/specs | [open](records/game-engines-amethyst-specs-1700b1f8.md) |
 | `github_search_game_engines-7fe26466afef9f` | hajimehoshi/ebiten | [open](records/game-engines-hajimehoshi-ebiten-e5319afc.md) |
+| `github_search_game_engines-81603a37c8e693` | donnemartin/awesome-aws | [open](records/game-engines-donnemartin-awesome-aws-e4f374ad.md) |
 | `github_search_game_engines-81c7b8012c8893` | ultralight-ux/Ultralight | [open](records/game-engines-ultralight-ux-ultralight-6ca2dde5.md) |
 | `github_search_game_engines-835e5aa8e86671` | Orama-Interactive/Pixelorama | [open](records/game-engines-orama-interactive-pixelorama-34e8d434.md) |
 | `github_search_game_engines-83c34222b6b299` | ketoo/NoahGameFrame | [open](records/game-engines-ketoo-noahgameframe-cc863e82.md) |
@@ -9316,6 +9343,7 @@
 | `github_search_game_engines-98ec9b961429f4` | Nukem9/dlssg-to-fsr3 | [open](records/game-engines-nukem9-dlssg-to-fsr3-18a05ea6.md) |
 | `github_search_game_engines-9b117b32f2d87b` | JACoders/OpenJK | [open](records/game-engines-jacoders-openjk-6282e13f.md) |
 | `github_search_game_engines-9c5278b5ca22b4` | piqnt/planck.js | [open](records/game-engines-piqnt-planck-js-cb96944f.md) |
+| `github_search_game_engines-9f979bbbaa141a` | microservices-demo/microservices-demo | [open](records/game-engines-microservices-demo-microservices-demo-2aa55492.md) |
 | `github_search_game_engines-9f994fffdaae7f` | thedmd/imgui-node-editor | [open](records/game-engines-thedmd-imgui-node-editor-2c997067.md) |
 | `github_search_game_engines-a0b1638c04f0d8` | kitao/pyxel | [open](records/game-engines-kitao-pyxel-3e315e56.md) |
 | `github_search_game_engines-a7b2d867faec2e` | emilk/egui | [open](records/game-engines-emilk-egui-3281d5d1.md) |
@@ -9356,6 +9384,7 @@
 | `github_search_game_engines-e9446584199346` | clockworklabs/SpacetimeDB | [open](records/game-engines-clockworklabs-spacetimedb-48953859.md) |
 | `github_search_game_engines-e956be22b65a02` | playcanvas/engine | [open](records/game-engines-playcanvas-engine-124896fd.md) |
 | `github_search_game_engines-eaec0069dc9929` | killop/anything_about_game | [open](records/game-engines-killop-anything-about-game-cf2472cd.md) |
+| `github_search_game_engines-ec48301ae68fdb` | aws/containers-roadmap | [open](records/game-engines-aws-containers-roadmap-04682765.md) |
 | `github_search_game_engines-ef9f7fcc2a285c` | Donchitos/Claude-Code-Game-Studios | [open](records/game-engines-donchitos-claude-code-game-studios-d1775992.md) |
 | `github_search_game_engines-f0d0d627d8f505` | bulletphysics/bullet3 | [open](records/game-engines-bulletphysics-bullet3-234c095c.md) |
 | `github_search_game_engines-f171bc55d633ba` | leereilly/games | [open](records/game-engines-leereilly-games-e26381aa.md) |
@@ -9624,6 +9653,7 @@
 | `github_search_icons_and_logos-1a677c5d55457b` | djaiss/mapsicon | [open](records/icons-and-logos-djaiss-mapsicon-e770a469.md) |
 | `github_search_icons_and_logos-1ba83a5ce05d20` | hani-momanii/SuperNova-Emoji | [open](records/icons-and-logos-hani-momanii-supernova-emoji-75ea3c27.md) |
 | `github_search_icons_and_logos-1baecdde9665d1` | home-assistant/Iconic | [open](records/icons-and-logos-home-assistant-iconic-27c71576.md) |
+| `github_search_icons_and_logos-1c09ac6ee2fa78` | sdras/vue-sample-svg-icons | [open](records/icons-and-logos-sdras-vue-sample-svg-icons-a7b726d2.md) |
 | `github_search_icons_and_logos-1d697b7dec59c0` | jeerbl/webfonts-loader | [open](records/icons-and-logos-jeerbl-webfonts-loader-f2b89e6f.md) |
 | `github_search_icons_and_logos-1e87893f5eac5a` | jaywcjlove/svgtofont | [open](records/icons-and-logos-jaywcjlove-svgtofont-e9e76099.md) |
 | `github_search_icons_and_logos-1efc30f33ab55b` | dongjunkun/GanK | [open](records/icons-and-logos-dongjunkun-gank-3759bb18.md) |
@@ -9655,6 +9685,7 @@
 | `github_search_icons_and_logos-31ebe80ac043a1` | dqev/reicon | [open](records/icons-and-logos-dqev-reicon-063c9707.md) |
 | `github_search_icons_and_logos-3242a492b8e2ca` | GnuriaN/format-README | [open](records/icons-and-logos-gnurian-format-readme-175ee10b.md) |
 | `github_search_icons_and_logos-349ab7848bf157` | wp-bootstrap/wp-bootstrap-navwalker | [open](records/icons-and-logos-wp-bootstrap-wp-bootstrap-navwalker-03b71831.md) |
+| `github_search_icons_and_logos-34abe732369479` | enzet/map-machine | [open](records/icons-and-logos-enzet-map-machine-3dab16d2.md) |
 | `github_search_icons_and_logos-35b85d2a072d74` | carbon-design-system/carbon-components-svelte | [open](records/icons-and-logos-carbon-design-system-carbon-components-svelte-dc62f85f.md) |
 | `github_search_icons_and_logos-35debc1c671a08` | PrestaShop/prestashop-icon-font | [open](records/icons-and-logos-prestashop-prestashop-icon-font-399934c0.md) |
 | `github_search_icons_and_logos-36191693b701a5` | ryanoasis/nerd-fonts | [open](records/icons-and-logos-ryanoasis-nerd-fonts-aad1f042.md) |
@@ -9679,6 +9710,7 @@
 | `github_search_icons_and_logos-464ad1c4e30b25` | webkul/vivid | [open](records/icons-and-logos-webkul-vivid-1d0393fe.md) |
 | `github_search_icons_and_logos-4682e981c9b752` | evil-icons/evil-icons | [open](records/icons-and-logos-evil-icons-evil-icons-8221d4d5.md) |
 | `github_search_icons_and_logos-46de5d7ee5dd83` | react95-io/React95 | [open](records/icons-and-logos-react95-io-react95-5104e6c7.md) |
+| `github_search_icons_and_logos-47274f8e326232` | carbon-design-system/carbon-icons-svelte | [open](records/icons-and-logos-carbon-design-system-carbon-icons-svelte-13769533.md) |
 | `github_search_icons_and_logos-47dc5eb04dd7c4` | chakra-ui/ark | [open](records/icons-and-logos-chakra-ui-ark-56b444c2.md) |
 | `github_search_icons_and_logos-4866b44d7b3fa6` | Textualize/rich | [open](records/icons-and-logos-textualize-rich-f462c6fd.md) |
 | `github_search_icons_and_logos-4924bfada28ccc` | symbl-cc/symbl-data | [open](records/icons-and-logos-symbl-cc-symbl-data-e8cb08e3.md) |
@@ -9712,10 +9744,12 @@
 | `github_search_icons_and_logos-62687bbefeceb6` | keeferrourke/la-capitaine-icon-theme | [open](records/icons-and-logos-keeferrourke-la-capitaine-icon-theme-2dd8c265.md) |
 | `github_search_icons_and_logos-62d7a43e62e968` | jdan/98.css | [open](records/icons-and-logos-jdan-98-css-d0074850.md) |
 | `github_search_icons_and_logos-6435b39adadc0a` | neutraltone/awesome-stock-resources | [open](records/icons-and-logos-neutraltone-awesome-stock-resources-80ddf47e.md) |
+| `github_search_icons_and_logos-64a4e7fcee2da3` | elrumordelaluz/svgson | [open](records/icons-and-logos-elrumordelaluz-svgson-e98eeaa1.md) |
 | `github_search_icons_and_logos-65a49a40e96342` | lsd-rs/lsd | [open](records/icons-and-logos-lsd-rs-lsd-3c28652f.md) |
 | `github_search_icons_and_logos-661339bfcfa8c4` | amitmerchant1990/electron-markdownify | [open](records/icons-and-logos-amitmerchant1990-electron-markdownify-78c3b894.md) |
 | `github_search_icons_and_logos-66dc760083da0a` | character-map-uwp/Character-Map-UWP | [open](records/icons-and-logos-character-map-uwp-character-map-uwp-b58d2e1f.md) |
 | `github_search_icons_and_logos-692bc981b23232` | andrewgioia/keyrune | [open](records/icons-and-logos-andrewgioia-keyrune-cf9c2d11.md) |
+| `github_search_icons_and_logos-6948a3a1e9f229` | aaronfagan/svg-credit-card-payment-icons | [open](records/icons-and-logos-aaronfagan-svg-credit-card-payment-icons-de894aee.md) |
 | `github_search_icons_and_logos-6a70b97240af03` | jpanther/lynx | [open](records/icons-and-logos-jpanther-lynx-486e8c42.md) |
 | `github_search_icons_and_logos-6b36621c827eeb` | Abdelrhman-AK/WinPaletter | [open](records/icons-and-logos-abdelrhman-ak-winpaletter-deec1c3b.md) |
 | `github_search_icons_and_logos-6bd32dad54c8fa` | ionic-team/ionicons | [open](records/icons-and-logos-ionic-team-ionicons-61019832.md) |
@@ -9766,12 +9800,14 @@
 | `github_search_icons_and_logos-89c820197aa84f` | ryanoasis/vim-devicons | [open](records/icons-and-logos-ryanoasis-vim-devicons-45d95ff5.md) |
 | `github_search_icons_and_logos-8b30ffd6cb6ab5` | icons8/flat-color-icons | [open](records/icons-and-logos-icons8-flat-color-icons-d2be0e20.md) |
 | `github_search_icons_and_logos-8b7b3af09cfab4` | radix-ui/icons | [open](records/icons-and-logos-radix-ui-icons-0effa0f7.md) |
+| `github_search_icons_and_logos-8cc682dd738611` | YuheshPandian/ICONIC | [open](records/icons-and-logos-yuheshpandian-iconic-ee62a82e.md) |
 | `github_search_icons_and_logos-8d294786536df4` | youneslaaroussi/ui-buttons | [open](records/icons-and-logos-youneslaaroussi-ui-buttons-8b4ad7dc.md) |
 | `github_search_icons_and_logos-8dc41223538f6f` | keeferrourke/capitaine-cursors | [open](records/icons-and-logos-keeferrourke-capitaine-cursors-ce28caa6.md) |
 | `github_search_icons_and_logos-8de2a981bd2a06` | uiwjs/icons | [open](records/icons-and-logos-uiwjs-icons-3a71f772.md) |
 | `github_search_icons_and_logos-903121e332fa80` | seiyria/gameicons-font | [open](records/icons-and-logos-seiyria-gameicons-font-9f2f24cd.md) |
 | `github_search_icons_and_logos-9050d86afad006` | icons8/titanic | [open](records/icons-and-logos-icons8-titanic-c29b5c23.md) |
 | `github_search_icons_and_logos-90e99afb6a1952` | antfu-collective/icones | [open](records/icons-and-logos-antfu-collective-icones-a34c5dcc.md) |
+| `github_search_icons_and_logos-9213fd4ece1af1` | robbrazier/svelte-awesome | [open](records/icons-and-logos-robbrazier-svelte-awesome-8e073487.md) |
 | `github_search_icons_and_logos-9266b646bf265e` | Rhodney/keepass-icons | [open](records/icons-and-logos-rhodney-keepass-icons-6f8b8c95.md) |
 | `github_search_icons_and_logos-932714306f7f46` | lgarron/folderify | [open](records/icons-and-logos-lgarron-folderify-558d756d.md) |
 | `github_search_icons_and_logos-9454970ba4d07e` | omnidan/node-emoji | [open](records/icons-and-logos-omnidan-node-emoji-c15117fb.md) |
@@ -9790,6 +9826,7 @@
 | `github_search_icons_and_logos-9b57e9ab4335d5` | mono-company/mono-icons | [open](records/icons-and-logos-mono-company-mono-icons-9254b5a3.md) |
 | `github_search_icons_and_logos-9e719fa55c28d5` | 13rac1/emojione-color-font | [open](records/icons-and-logos-13rac1-emojione-color-font-161dcd40.md) |
 | `github_search_icons_and_logos-a1765b5b56f039` | getActivity/EmojiPackage | [open](records/icons-and-logos-getactivity-emojipackage-204bde27.md) |
+| `github_search_icons_and_logos-a201e46f68feae` | Angelmmiguel/svgi | [open](records/icons-and-logos-angelmmiguel-svgi-0963a593.md) |
 | `github_search_icons_and_logos-a463647fd08924` | rickstaa/github-emoji-picker | [open](records/icons-and-logos-rickstaa-github-emoji-picker-f84142f9.md) |
 | `github_search_icons_and_logos-a61001dd65cecf` | TheWidlarzGroup/rn-emoji-keyboard | [open](records/icons-and-logos-thewidlarzgroup-rn-emoji-keyboard-1a83ef2e.md) |
 | `github_search_icons_and_logos-a61d79ea15f1af` | izyumkin/MCEmojiPicker | [open](records/icons-and-logos-izyumkin-mcemojipicker-759f01c0.md) |
@@ -9799,6 +9836,7 @@
 | `github_search_icons_and_logos-a763f75f1ba1ec` | hunghg255/reactjs-tiptap-editor | [open](records/icons-and-logos-hunghg255-reactjs-tiptap-editor-f3e43edb.md) |
 | `github_search_icons_and_logos-a901a92b90027d` | lukas-w/font-logos | [open](records/icons-and-logos-lukas-w-font-logos-0a7c0b48.md) |
 | `github_search_icons_and_logos-a94fb36b0cc3d3` | HatScripts/circle-flags | [open](records/icons-and-logos-hatscripts-circle-flags-c5a8e620.md) |
+| `github_search_icons_and_logos-a991dd56e3811e` | jis3r/icons | [open](records/icons-and-logos-jis3r-icons-f58b189a.md) |
 | `github_search_icons_and_logos-a9e14c784c6c74` | rickytan/RTImageAssets | [open](records/icons-and-logos-rickytan-rtimageassets-aa208fb9.md) |
 | `github_search_icons_and_logos-aa19b2cc10209e` | ahmadawais/Emoji-Log | [open](records/icons-and-logos-ahmadawais-emoji-log-0d0b9125.md) |
 | `github_search_icons_and_logos-aa9b97aadbbd22` | XiangWuShuo/EFIconFont | [open](records/icons-and-logos-xiangwushuo-eficonfont-3946d7e1.md) |
@@ -9811,6 +9849,7 @@
 | `github_search_icons_and_logos-b13357ab6c7ba5` | skeletonlabs/skeleton | [open](records/icons-and-logos-skeletonlabs-skeleton-a4916c16.md) |
 | `github_search_icons_and_logos-b2ca1c4a6a88cf` | tagliala/vectoriconsroundup | [open](records/icons-and-logos-tagliala-vectoriconsroundup-a9c13c8e.md) |
 | `github_search_icons_and_logos-b336b54432a871` | Zhengqbbb/cz-git | [open](records/icons-and-logos-zhengqbbb-cz-git-cbfe9aeb.md) |
+| `github_search_icons_and_logos-b3f7cf1b7cfc9d` | Nieobie/game-icon-pack | [open](records/icons-and-logos-nieobie-game-icon-pack-603bee7d.md) |
 | `github_search_icons_and_logos-b627f1fdd478c3` | FortAwesome/Font-Awesome | [open](records/icons-and-logos-fortawesome-font-awesome-eb4f1426.md) |
 | `github_search_icons_and_logos-b6c8cba1680bd3` | ruedap/alfred-font-awesome-workflow | [open](records/icons-and-logos-ruedap-alfred-font-awesome-workflow-53dec65c.md) |
 | `github_search_icons_and_logos-b710556ae7ede4` | zagum/Android-SwitchIcon | [open](records/icons-and-logos-zagum-android-switchicon-d088bbbe.md) |
@@ -9850,6 +9889,7 @@
 | `github_search_icons_and_logos-d4f13e8fb79c87` | JohnWong/IconFont | [open](records/icons-and-logos-johnwong-iconfont-3cf5a074.md) |
 | `github_search_icons_and_logos-d642b07d23de2e` | josh-hemphill/vite-plugin-favicon | [open](records/icons-and-logos-josh-hemphill-vite-plugin-favicon-8c42f04e.md) |
 | `github_search_icons_and_logos-d6833041bea918` | milesj/interweave | [open](records/icons-and-logos-milesj-interweave-3ea7b4f9.md) |
+| `github_search_icons_and_logos-d6ce9bc49e8a42` | allenwong/MakeIconsWithSketch | [open](records/icons-and-logos-allenwong-makeiconswithsketch-fecd38a8.md) |
 | `github_search_icons_and_logos-d70fad4cc7ae07` | coding2233/TextInlineSprite | [open](records/icons-and-logos-coding2233-textinlinesprite-c4983095.md) |
 | `github_search_icons_and_logos-d77548f4dc5b65` | lucide-icons/lucide | [open](records/icons-and-logos-lucide-icons-lucide-d5375c95.md) |
 | `github_search_icons_and_logos-d81928038fa0a4` | missive/emoji-mart | [open](records/icons-and-logos-missive-emoji-mart-2951ab0c.md) |
@@ -11953,18 +11993,21 @@
 | `github_search_physics_engines-0842777bf9da63` | diegomacario/Dyna-Kinematics | [open](records/physics-engines-diegomacario-dyna-kinematics-b35b0cff.md) |
 | `github_search_physics_engines-087a1e531c2747` | amerkoleci/JoltPhysicsSharp | [open](records/physics-engines-amerkoleci-joltphysicssharp-4daf2ef5.md) |
 | `github_search_physics_engines-0b0047cebd621f` | pierrehirel/atomsk | [open](records/physics-engines-pierrehirel-atomsk-08fc2af7.md) |
+| `github_search_physics_engines-0b3764d2f3e263` | vitalight/Velvet | [open](records/physics-engines-vitalight-velvet-044eda42.md) |
 | `github_search_physics_engines-0b9ccd8192983f` | ehsanwwe/Unity-SoftBody-physics | [open](records/physics-engines-ehsanwwe-unity-softbody-physics-5d1461e6.md) |
 | `github_search_physics_engines-0cf6b92dbc8500` | TheOpenSpaceProgram/osp-magnum | [open](records/physics-engines-theopenspaceprogram-osp-magnum-8b7021b2.md) |
 | `github_search_physics_engines-0d452d3e4634fa` | schteppe/p2.js | [open](records/physics-engines-schteppe-p2-js-3a7d2465.md) |
 | `github_search_physics_engines-0e82846e991f5f` | johannes-do/multiplayer-babylon-js-game | [open](records/physics-engines-johannes-do-multiplayer-babylon-js-game-0189ac60.md) |
 | `github_search_physics_engines-13fc048fccbcf2` | yapstudios/YapAnimator | [open](records/physics-engines-yapstudios-yapanimator-d2c821a2.md) |
 | `github_search_physics_engines-164232b98a0c4e` | ThePhysicsGuys/Physics3D | [open](records/physics-engines-thephysicsguys-physics3d-a01bf19d.md) |
+| `github_search_physics_engines-19b725ceb33565` | sksalahuddin2828/NASA | [open](records/physics-engines-sksalahuddin2828-nasa-34ee1e7e.md) |
 | `github_search_physics_engines-1c21ce47881f45` | notgiven688/jitterphysics2 | [open](records/physics-engines-notgiven688-jitterphysics2-9dbbeecf.md) |
 | `github_search_physics_engines-1ceb115fd2363d` | lettucecfd/lettuce | [open](records/physics-engines-lettucecfd-lettuce-5bfbae1f.md) |
 | `github_search_physics_engines-1d295022e44402` | jrouwe/JoltPhysics | [open](records/physics-engines-jrouwe-joltphysics-7808ec3e.md) |
 | `github_search_physics_engines-1fef53cca3f116` | markeasting/THREE-XPBD | [open](records/physics-engines-markeasting-three-xpbd-a82fdf12.md) |
 | `github_search_physics_engines-2042b02466bb7b` | rohanpsingh/mujoco-python-viewer | [open](records/physics-engines-rohanpsingh-mujoco-python-viewer-26580adf.md) |
 | `github_search_physics_engines-212a87926bf476` | appsinacup/godot-rapier-physics | [open](records/physics-engines-appsinacup-godot-rapier-physics-8b7bf348.md) |
+| `github_search_physics_engines-21f54099d06efb` | svd-ai-lab/sim-cli | [open](records/physics-engines-svd-ai-lab-sim-cli-c8afe748.md) |
 | `github_search_physics_engines-21f99550c71464` | utilForever/CubbyFlow-v1 | [open](records/physics-engines-utilforever-cubbyflow-v1-ccf12789.md) |
 | `github_search_physics_engines-22070f62ea15cd` | erayzesen/QuarkPhysics | [open](records/physics-engines-erayzesen-quarkphysics-f7cee1a0.md) |
 | `github_search_physics_engines-23b50e553a4bea` | schteppe/gpu-physics.js | [open](records/physics-engines-schteppe-gpu-physics-js-e71ebb9f.md) |
@@ -11977,6 +12020,7 @@
 | `github_search_physics_engines-2e486853860c78` | utilForever/CubbyFlow | [open](records/physics-engines-utilforever-cubbyflow-990dc01b.md) |
 | `github_search_physics_engines-32e0d4e074c1e9` | iluaii/fwm | [open](records/physics-engines-iluaii-fwm-dc80ab13.md) |
 | `github_search_physics_engines-336417c55419ec` | ARISE-Initiative/robosuite | [open](records/physics-engines-arise-initiative-robosuite-9cb42fcd.md) |
+| `github_search_physics_engines-33ce2fbfd48f0c` | ECSIM/opem | [open](records/physics-engines-ecsim-opem-ebc7707c.md) |
 | `github_search_physics_engines-34c1bcab82c941` | NVlabs/ProtoMotions | [open](records/physics-engines-nvlabs-protomotions-c35f15b2.md) |
 | `github_search_physics_engines-36da89e106d5bb` | erizmr/SPH_Taichi | [open](records/physics-engines-erizmr-sph-taichi-9e9af1c3.md) |
 | `github_search_physics_engines-395fcbc2c4dfb1` | MFlowCode/MFC | [open](records/physics-engines-mflowcode-mfc-b922e338.md) |
@@ -11998,9 +12042,11 @@
 | `github_search_physics_engines-534aecc52dcae2` | gaolongsen/multi-panel_mujoco-pyviewer | [open](records/physics-engines-gaolongsen-multi-panel-mujoco-pyviewer-ad0ad58c.md) |
 | `github_search_physics_engines-547f8d78ec8546` | praxhna/3D_interactive_graphics_rendering_engine | [open](records/physics-engines-praxhna-3d-interactive-graphics-rendering-engine-4272b7af.md) |
 | `github_search_physics_engines-570d85fe5a4696` | saharan/OimoPhysics | [open](records/physics-engines-saharan-oimophysics-fa112ffe.md) |
+| `github_search_physics_engines-578a43b111322a` | vlvovch/PHYS6350-ComputationalPhysics | [open](records/physics-engines-vlvovch-phys6350-computationalphysics-a0a9e87d.md) |
 | `github_search_physics_engines-5be22f7476a002` | passiomatic/sunny-land | [open](records/physics-engines-passiomatic-sunny-land-277f4acb.md) |
 | `github_search_physics_engines-5c67ee5e6fd63f` | JordiCorbilla/thundax-delphi-physics-engine | [open](records/physics-engines-jordicorbilla-thundax-delphi-physics-engine-1f15f884.md) |
 | `github_search_physics_engines-5dc60d12cfccb0` | gbionics/jaxsim | [open](records/physics-engines-gbionics-jaxsim-434cab27.md) |
+| `github_search_physics_engines-5ed9e3684ad599` | krABMaga/krABMaga | [open](records/physics-engines-krabmaga-krabmaga-17c6b1ec.md) |
 | `github_search_physics_engines-5fd8973ff8c1da` | ValkyrienSkies/Valkyrien-Skies-2 | [open](records/physics-engines-valkyrienskies-valkyrien-skies-2-3bc2f524.md) |
 | `github_search_physics_engines-61824bb5758a49` | mmaldacker/Vortex2D | [open](records/physics-engines-mmaldacker-vortex2d-53d2352c.md) |
 | `github_search_physics_engines-633f17627c440a` | keenon/nimblephysics | [open](records/physics-engines-keenon-nimblephysics-52d83ffe.md) |
@@ -12014,12 +12060,15 @@
 | `github_search_physics_engines-6e41be4e56f8c3` | Unity-Technologies/Unity-Robotics-Hub | [open](records/physics-engines-unity-technologies-unity-robotics-hub-48628bc2.md) |
 | `github_search_physics_engines-71868aec23b1a9` | Algebraic-UG/squishy_volumes | [open](records/physics-engines-algebraic-ug-squishy-volumes-02259629.md) |
 | `github_search_physics_engines-738fe0236115d9` | anuraghazra/Verly.js | [open](records/physics-engines-anuraghazra-verly-js-0d5dd2a2.md) |
+| `github_search_physics_engines-7558e275d408fe` | ComputationalBiomechanicsLab/opensim-creator | [open](records/physics-engines-computationalbiomechanicslab-opensim-creator-75e68d35.md) |
 | `github_search_physics_engines-76b7047c553c5a` | chrxh/alien | [open](records/physics-engines-chrxh-alien-3b27ff54.md) |
 | `github_search_physics_engines-7712a8e757476e` | stevenlsw/physgen | [open](records/physics-engines-stevenlsw-physgen-04c29129.md) |
 | `github_search_physics_engines-7a5e72825c1d69` | maplant/mgf | [open](records/physics-engines-maplant-mgf-22de4d2f.md) |
 | `github_search_physics_engines-7cba91633650b9` | MichaelTMatthews/Jax2D | [open](records/physics-engines-michaeltmatthews-jax2d-f40911ea.md) |
 | `github_search_physics_engines-7de5a38d325c04` | google/brax | [open](records/physics-engines-google-brax-b562137f.md) |
+| `github_search_physics_engines-7e716f2f7f1f48` | unitaryfoundation/qrack | [open](records/physics-engines-unitaryfoundation-qrack-537006d0.md) |
 | `github_search_physics_engines-7e7ecdb0572610` | maksyuki/TaichiGAME | [open](records/physics-engines-maksyuki-taichigame-dfb0dd23.md) |
+| `github_search_physics_engines-7f05427c066c64` | Suvitruf/box3d-unity | [open](records/physics-engines-suvitruf-box3d-unity-618c916d.md) |
 | `github_search_physics_engines-7fcf4d2efc8c2d` | mchakravarty/HaskellSpriteKit | [open](records/physics-engines-mchakravarty-haskellspritekit-9333e02f.md) |
 | `github_search_physics_engines-8461cce04228b4` | acrlw/Physics2D | [open](records/physics-engines-acrlw-physics2d-b799a4ca.md) |
 | `github_search_physics_engines-868d8276574eab` | mtsamis/box2d-optimized | [open](records/physics-engines-mtsamis-box2d-optimized-fedfd3fe.md) |
@@ -12027,6 +12076,7 @@
 | `github_search_physics_engines-892a0c12e0f2ff` | BeRo1985/kraft | [open](records/physics-engines-bero1985-kraft-47e98b3a.md) |
 | `github_search_physics_engines-8ac2fe4b6acaac` | amethyst/specs-physics | [open](records/physics-engines-amethyst-specs-physics-3048e624.md) |
 | `github_search_physics_engines-8b64dcb7d7ad3e` | R74nCom/sandboxels | [open](records/physics-engines-r74ncom-sandboxels-04f8a012.md) |
+| `github_search_physics_engines-8c210d8b87cfef` | THU-SI/Physics3D | [open](records/physics-engines-thu-si-physics3d-940fe5e2.md) |
 | `github_search_physics_engines-8de536a87ca641` | Rythe-Interactive/Rythe-Engine | [open](records/physics-engines-rythe-interactive-rythe-engine-6c9a9bf2.md) |
 | `github_search_physics_engines-8eff7b688a365d` | taichi-dev/soft2d-release | [open](records/physics-engines-taichi-dev-soft2d-release-7ea19153.md) |
 | `github_search_physics_engines-90c817fd519b67` | avianphysics/avian | [open](records/physics-engines-avianphysics-avian-130b97c3.md) |
@@ -12043,6 +12093,7 @@
 | `github_search_physics_engines-9f236ab932a8ed` | flaport/fdtd | [open](records/physics-engines-flaport-fdtd-4906d483.md) |
 | `github_search_physics_engines-a10cead182be23` | Genbox/VelcroPhysics | [open](records/physics-engines-genbox-velcrophysics-7229cf93.md) |
 | `github_search_physics_engines-a3a3a3dfe439ec` | Raocp/PINN-laminar-flow | [open](records/physics-engines-raocp-pinn-laminar-flow-51e9b57c.md) |
+| `github_search_physics_engines-a5cb675a2875d9` | DexForce/EmbodiChain | [open](records/physics-engines-dexforce-embodichain-412f39d8.md) |
 | `github_search_physics_engines-a69cde18f312bc` | omegaiota/DiffCloth | [open](records/physics-engines-omegaiota-diffcloth-f8495b8c.md) |
 | `github_search_physics_engines-a7440d1e51a929` | MissingDeadlines/iolite | [open](records/physics-engines-missingdeadlines-iolite-59ecdc76.md) |
 | `github_search_physics_engines-a7b6f8b5c72fd6` | dimforge/nphysics | [open](records/physics-engines-dimforge-nphysics-de907eea.md) |
@@ -12104,82 +12155,138 @@
 | `github_search_physics_engines-fd5f6442589a5e` | fenomas/voxel-physics-engine | [open](records/physics-engines-fenomas-voxel-physics-engine-e62b65d1.md) |
 | `github_search_physics_engines-fe656f30214a73` | Nebukam/com.nebukam.orca | [open](records/physics-engines-nebukam-com-nebukam-orca-afa70d8f.md) |
 | `github_search_physics_engines-ff07f27bf4eafd` | gazebosim/gz-physics | [open](records/physics-engines-gazebosim-gz-physics-2675e8d2.md) |
+| `github_search_radars-01b6700cd34eaf` | bleutner/RStoolbox | [open](records/radars-bleutner-rstoolbox-b0dc8bbf.md) |
+| `github_search_radars-02dd693a9d80e3` | davemlz/eemont | [open](records/radars-davemlz-eemont-70a2fd1c.md) |
 | `github_search_radars-05213d778710af` | Unsigned-Long/River | [open](records/radars-unsigned-long-river-2a595389.md) |
+| `github_search_radars-05be5f374a2b13` | wgcban/ChangeFormer | [open](records/radars-wgcban-changeformer-a997cdc7.md) |
+| `github_search_radars-067b346f830b06` | PaddlePaddle/PaddleRS | [open](records/radars-paddlepaddle-paddlers-5a1ee7a0.md) |
+| `github_search_radars-07ccee5c5a1c46` | sshuair/torchsat | [open](records/radars-sshuair-torchsat-6b76534f.md) |
 | `github_search_radars-09f0a989409aee` | Ttl/torchbp | [open](records/radars-ttl-torchbp-2fa85796.md) |
+| `github_search_radars-0a0b1acee932b0` | developmentseed/label-maker | [open](records/radars-developmentseed-label-maker-69d0cf7a.md) |
 | `github_search_radars-0b66a733fb089c` | nicespoon/retro-adsb-radar | [open](records/radars-nicespoon-retro-adsb-radar-fe5109d7.md) |
+| `github_search_radars-10259995ea48db` | gokriznastic/HybridSN | [open](records/radars-gokriznastic-hybridsn-cb76b62d.md) |
+| `github_search_radars-10548e26bce3ff` | ViTAE-Transformer/Remote-Sensing-RVSA | [open](records/radars-vitae-transformer-remote-sensing-rvsa-ace3c8d7.md) |
+| `github_search_radars-1358fb47cb0673` | opengeos/Awesome-GEE | [open](records/radars-opengeos-awesome-gee-8d02e5fc.md) |
+| `github_search_radars-147c913daadd69` | sentinel-hub/custom-scripts | [open](records/radars-sentinel-hub-custom-scripts-c35486ea.md) |
+| `github_search_radars-148e45ee5757c3` | sertit/eoreader | [open](records/radars-sertit-eoreader-14dc547c.md) |
 | `github_search_radars-1564d62f6e35cb` | dpaulat/supercell-wx | [open](records/radars-dpaulat-supercell-wx-216e49cf.md) |
 | `github_search_radars-15e52105d61f69` | ibaiGorordo/AWR1642-Read-Data-Python-MMWAVE-SDK-2 | [open](records/radars-ibaigorordo-awr1642-read-data-python-mmwave-sdk-2-50ad63c6.md) |
 | `github_search_radars-17f9fe4a90a640` | davidscmx/radar-target-generation-and-detection | [open](records/radars-davidscmx-radar-target-generation-and-detection-582f6c31.md) |
 | `github_search_radars-18f873bd3f56ad` | yizhou-wang/RODNet | [open](records/radars-yizhou-wang-rodnet-ad2cb74d.md) |
 | `github_search_radars-190c5d6425efd7` | bopen/xarray-sentinel | [open](records/radars-bopen-xarray-sentinel-d49585c9.md) |
+| `github_search_radars-1a45599879857c` | acgeospatial/awesome-earthobservation-code | [open](records/radars-acgeospatial-awesome-earthobservation-code-72dc0793.md) |
+| `github_search_radars-1ab149c41584f9` | samapriya/awesome-gee-community-datasets | [open](records/radars-samapriya-awesome-gee-community-datasets-0a0153c4.md) |
 | `github_search_radars-1ae5798a980469` | gisbi-kim/navtech-radar-slam | [open](records/radars-gisbi-kim-navtech-radar-slam-ac9770d7.md) |
+| `github_search_radars-1d255726946639` | ultralytics/xview-yolov3 | [open](records/radars-ultralytics-xview-yolov3-eb5d01f2.md) |
 | `github_search_radars-1d3be02d2225e6` | isce-framework/sweets | [open](records/radars-isce-framework-sweets-db6cf485.md) |
+| `github_search_radars-1dd9ac9a04148f` | deepVector/geospatial-machine-learning | [open](records/radars-deepvector-geospatial-machine-learning-313d6171.md) |
 | `github_search_radars-22da4064fb01af` | waterdisappear/SARATR-X | [open](records/radars-waterdisappear-saratr-x-8b96d353.md) |
 | `github_search_radars-25db3f05ce2525` | usnistgov/SimulatedRadarWaveformGenerator | [open](records/radars-usnistgov-simulatedradarwaveformgenerator-d278d508.md) |
 | `github_search_radars-2607c0ab11153e` | fanweng/Udacity-Sensor-Fusion-Nanodegree | [open](records/radars-fanweng-udacity-sensor-fusion-nanodegree-475e3016.md) |
+| `github_search_radars-28c61317203f9a` | Seyed-Ali-Ahmadi/Awesome_Satellite_Benchmark_Datasets | [open](records/radars-seyed-ali-ahmadi-awesome-satellite-benchmark-datasets-f218baab.md) |
 | `github_search_radars-2a4c17559df510` | lionheart/openradar-mirror | [open](records/radars-lionheart-openradar-mirror-2092e24b.md) |
 | `github_search_radars-2a5c2bcc984239` | wangxiao5791509/MultiModal_BigModels_Survey | [open](records/radars-wangxiao5791509-multimodal-bigmodels-survey-409b52f5.md) |
 | `github_search_radars-2adf0596cf2769` | br1sk/brisk | [open](records/radars-br1sk-brisk-7db4230b.md) |
+| `github_search_radars-2b3f8a2749fe38` | opengeos/WhiteboxTools-ArcGIS | [open](records/radars-opengeos-whiteboxtools-arcgis-3cf11321.md) |
+| `github_search_radars-2befb0382a79ac` | martibosch/detectree | [open](records/radars-martibosch-detectree-bb8afefd.md) |
 | `github_search_radars-2cbc800230741f` | Research-and-Project/mmWave_radar_tracking | [open](records/radars-research-and-project-mmwave-radar-tracking-93627252.md) |
 | `github_search_radars-2d2abc26ba4e51` | kleok/FLOODPY | [open](records/radars-kleok-floodpy-de98226d.md) |
 | `github_search_radars-2da75e205380a2` | CyanideCN/PyCINRAD | [open](records/radars-cyanidecn-pycinrad-fe2b1f00.md) |
+| `github_search_radars-2dbb9223766226` | jblindsay/whitebox-tools | [open](records/radars-jblindsay-whitebox-tools-77f56bf4.md) |
+| `github_search_radars-2fbb27c300beb0` | opengeos/geospatial | [open](records/radars-opengeos-geospatial-8722d3e7.md) |
 | `github_search_radars-3053e37e78c698` | earthobservations/wetterdienst | [open](records/radars-earthobservations-wetterdienst-4494a41f.md) |
 | `github_search_radars-31db47fde9d253` | moienr/TemporalGAN | [open](records/radars-moienr-temporalgan-ffcc19f2.md) |
 | `github_search_radars-33c2ab8914128e` | Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion | [open](records/radars-radar-camera-fusion-awesome-radar-camera-fusion-3b5510d5.md) |
 | `github_search_radars-34de541777b111` | Orion-AI-Lab/KuroSiwo | [open](records/radars-orion-ai-lab-kurosiwo-16670f6a.md) |
 | `github_search_radars-35d237b2e47241` | dan11003/CFEAR_Radarodometry_code_public | [open](records/radars-dan11003-cfear-radarodometry-code-public-11fea8df.md) |
 | `github_search_radars-3643fe21a3a88a` | ngageoint/MATLAB_SAR | [open](records/radars-ngageoint-matlab-sar-b3d1c687.md) |
+| `github_search_radars-38f362c6cd2e49` | worldstrat/worldstrat | [open](records/radars-worldstrat-worldstrat-2edb44d3.md) |
+| `github_search_radars-394e01ea2717f1` | htcr/sam_road | [open](records/radars-htcr-sam-road-e8a5b74c.md) |
 | `github_search_radars-3a887d863e5b9c` | open-mmlab/mmocr | [open](records/radars-open-mmlab-mmocr-dc332b18.md) |
+| `github_search_radars-3c8afecb63df67` | anxiangsir/urban_seg | [open](records/radars-anxiangsir-urban-seg-9978d84d.md) |
+| `github_search_radars-3cdd582d2d12bd` | satellite-image-deep-learning/datasets | [open](records/radars-satellite-image-deep-learning-datasets-b67c3f93.md) |
+| `github_search_radars-3d205ea9590567` | planetlabs/notebooks | [open](records/radars-planetlabs-notebooks-9bcd748d.md) |
+| `github_search_radars-3e4e1df9724e70` | DetectionTeamUCAS/R2CNN_Faster-RCNN_Tensorflow | [open](records/radars-detectionteamucas-r2cnn-faster-rcnn-tensorflow-c3697349.md) |
 | `github_search_radars-3fc8a6458e14a2` | hi-paris/deepdespeckling | [open](records/radars-hi-paris-deepdespeckling-121ce4f7.md) |
+| `github_search_radars-402dd1a1d431fb` | opengeos/whitebox-python | [open](records/radars-opengeos-whitebox-python-275d36ba.md) |
+| `github_search_radars-418d0b31aadfd8` | satellite-image-deep-learning/techniques | [open](records/radars-satellite-image-deep-learning-techniques-e7ca1db3.md) |
 | `github_search_radars-44b04cb8ea8818` | bopen/sarsen | [open](records/radars-bopen-sarsen-20870959.md) |
 | `github_search_radars-44ba5598d05d33` | aalling93/Sentinel_1_python | [open](records/radars-aalling93-sentinel-1-python-557f7ec3.md) |
 | `github_search_radars-45970baadbc3dd` | XDeadHackerX/NetRadar | [open](records/radars-xdeadhackerx-netradar-faa3dcea.md) |
+| `github_search_radars-45cb49fde7a570` | e-sensing/sits | [open](records/radars-e-sensing-sits-cf345a58.md) |
+| `github_search_radars-478a222eef3ae4` | earthaccess-dev/earthaccess | [open](records/radars-earthaccess-dev-earthaccess-b40ecdd1.md) |
+| `github_search_radars-4a1b9aa89c812d` | azavea/raster-vision | [open](records/radars-azavea-raster-vision-6beec97c.md) |
 | `github_search_radars-4c0ffcb2b41353` | diegovalsesia/speckle2void | [open](records/radars-diegovalsesia-speckle2void-76460898.md) |
+| `github_search_radars-4f8632078b83a3` | icey-zhang/SuperYOLO | [open](records/radars-icey-zhang-superyolo-3b807381.md) |
 | `github_search_radars-51c65eacb3b8ef` | wradlib/wradlib | [open](records/radars-wradlib-wradlib-9f5a29a2.md) |
 | `github_search_radars-536f07564043da` | eupassarinho/sentinel-1-SAR-vegetation-indices | [open](records/radars-eupassarinho-sentinel-1-sar-vegetation-indices-fd72636b.md) |
+| `github_search_radars-54cc5ce5ac179b` | jayin92/Skyfall-GS | [open](records/radars-jayin92-skyfall-gs-2bfb6eca.md) |
 | `github_search_radars-5716905cf5f2ba` | xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator | [open](records/radars-xds0112-5g-based-system-level-integrated-sensing-and-communication-simulator-e6456eeb.md) |
 | `github_search_radars-57c2be6de6dd0a` | url-kaist/outlier-robust-radar-odometry | [open](records/radars-url-kaist-outlier-robust-radar-odometry-78b80fba.md) |
 | `github_search_radars-5978f6f144b328` | lexogrine/hud-manager | [open](records/radars-lexogrine-hud-manager-66c5b100.md) |
+| `github_search_radars-5a364a42eabde7` | AlexeyPechnikov/pygmtsar | [open](records/radars-alexeypechnikov-pygmtsar-07358760.md) |
 | `github_search_radars-5a5687c47af9b5` | vbguyny/ws4kp | [open](records/radars-vbguyny-ws4kp-dcbe59db.md) |
 | `github_search_radars-5b37935a4f5466` | birgander2/PyRAT | [open](records/radars-birgander2-pyrat-f127a5d8.md) |
 | `github_search_radars-5d242c87dc9074` | chadi0x/TheBigBrother | [open](records/radars-chadi0x-thebigbrother-17499a23.md) |
+| `github_search_radars-5e93345ccdeb2a` | opengeos/lidar | [open](records/radars-opengeos-lidar-6b6b3ab4.md) |
 | `github_search_radars-5f732b7dc224ec` | mithi/fusion-ekf | [open](records/radars-mithi-fusion-ekf-fce69980.md) |
 | `github_search_radars-5f7c5f12488fb1` | acconeer/acconeer-python-exploration | [open](records/radars-acconeer-acconeer-python-exploration-c570151f.md) |
+| `github_search_radars-5f8c5951df4865` | ChenDelong1999/RemoteCLIP | [open](records/radars-chendelong1999-remoteclip-83823abf.md) |
+| `github_search_radars-6101364af24da8` | obss/sahi | [open](records/radars-obss-sahi-d8e8698f.md) |
 | `github_search_radars-61a5ef730c2824` | denkywu/SAR-Synthetic-Aperture-Radar | [open](records/radars-denkywu-sar-synthetic-aperture-radar-116bfd46.md) |
 | `github_search_radars-61b8b44e13ba8b` | flappyimi/Radar-Basic-Algorithm | [open](records/radars-flappyimi-radar-basic-algorithm-1b94a1f2.md) |
+| `github_search_radars-637d63937aa31a` | SJTU-Thinklab-Det/DOTA-DOAI | [open](records/radars-sjtu-thinklab-det-dota-doai-9649ff2b.md) |
 | `github_search_radars-64f5ed7482abc2` | PatrickTUM/SEN12MS-CR-TS | [open](records/radars-patricktum-sen12ms-cr-ts-b82b98a6.md) |
 | `github_search_radars-66c02b10360681` | insarlab/MintPy | [open](records/radars-insarlab-mintpy-762351b7.md) |
 | `github_search_radars-689862c86dcc4f` | kbhujbal/Trident-synthetic_aperture_radar_maritime_vessel_detection_yolov8 | [open](records/radars-kbhujbal-trident-synthetic-aperture-radar-maritime-vessel-detection-yolov8-84b83c31.md) |
 | `github_search_radars-68f97ec2f699c4` | nerdsinspace/nocom-explanation | [open](records/radars-nerdsinspace-nocom-explanation-51ce25b4.md) |
+| `github_search_radars-69fa7d413ed136` | jaychempan/LAE-DINO | [open](records/radars-jaychempan-lae-dino-7c49fbd2.md) |
 | `github_search_radars-69ff8dc5bc2346` | isce-framework/s1-reader | [open](records/radars-isce-framework-s1-reader-01bb4e66.md) |
 | `github_search_radars-6ad61465a1c999` | emanueledalsasso/SAR2SAR | [open](records/radars-emanueledalsasso-sar2sar-83d7f039.md) |
 | `github_search_radars-6bd8492dbcebf3` | wfh45678/radar | [open](records/radars-wfh45678-radar-7a476e50.md) |
 | `github_search_radars-6d6d7301fd820f` | nasir6/py_cfar | [open](records/radars-nasir6-py-cfar-fb389018.md) |
 | `github_search_radars-6dbfc4e7241c14` | olliestephenson/dpm-rnn-public | [open](records/radars-olliestephenson-dpm-rnn-public-af4e7b49.md) |
 | `github_search_radars-6e188b06050a48` | 0xastro/fmcw-RADAR | [open](records/radars-0xastro-fmcw-radar-5329543c.md) |
+| `github_search_radars-6e6fe42c01c00e` | torchgeo/torchgeo | [open](records/radars-torchgeo-torchgeo-60e49b15.md) |
+| `github_search_radars-6e70800cf815b7` | justchenhao/STANet | [open](records/radars-justchenhao-stanet-97884be0.md) |
+| `github_search_radars-6fec54306c4edb` | Climate-Vision/ClimateVision | [open](records/radars-climate-vision-climatevision-58a87439.md) |
+| `github_search_radars-7013ea22ae3303` | MinZHANG-WHU/Change-Detection-Review | [open](records/radars-minzhang-whu-change-detection-review-1444b84e.md) |
+| `github_search_radars-70ea4c634248ad` | prouast/heartbeat | [open](records/radars-prouast-heartbeat-323ff4b9.md) |
+| `github_search_radars-730906032cc592` | OSGeo/gdal | [open](records/radars-osgeo-gdal-f77226f8.md) |
 | `github_search_radars-73dcc73c70f7af` | waterdisappear/SAR-JEPA | [open](records/radars-waterdisappear-sar-jepa-5da295f9.md) |
 | `github_search_radars-7418cc40a32823` | aisari/AutofocusSAR | [open](records/radars-aisari-autofocussar-2db12203.md) |
+| `github_search_radars-75ef9bb6847c9f` | wenhwu/awesome-remote-sensing-change-detection | [open](records/radars-wenhwu-awesome-remote-sensing-change-detection-71aced55.md) |
+| `github_search_radars-76368a9aebd77c` | milleniums/High-Resolution-Remote-Sensing-Semantic-Segmentation-PyTorch | [open](records/radars-milleniums-high-resolution-remote-sensing-semantic-segmentation-pytorch-1037fac4.md) |
 | `github_search_radars-78784810e404da` | ashuttl/linecast | [open](records/radars-ashuttl-linecast-afb4bdb7.md) |
+| `github_search_radars-78b0d16cfd8ec9` | opengeos/python-geospatial | [open](records/radars-opengeos-python-geospatial-cb0e27e8.md) |
 | `github_search_radars-7a658f83c3b76e` | feedback-assistant/reports | [open](records/radars-feedback-assistant-reports-4bc463b2.md) |
 | `github_search_radars-7ba685dd1e8675` | radar-lab/ti_mmwave_rospkg | [open](records/radars-radar-lab-ti-mmwave-rospkg-77356544.md) |
+| `github_search_radars-7f145a11014f82` | chrieke/InstanceSegmentation_Sentinel2 | [open](records/radars-chrieke-instancesegmentation-sentinel2-c236a634.md) |
 | `github_search_radars-80de09833b7f38` | bellingcat/sar-interference-tracker | [open](records/radars-bellingcat-sar-interference-tracker-8efa36c7.md) |
+| `github_search_radars-8170e8c56dc0ed` | WHU-Sigma/HyperSIGMA | [open](records/radars-whu-sigma-hypersigma-4627d6e6.md) |
 | `github_search_radars-835eb399d23018` | BLE-Research-Group/MetaRadar | [open](records/radars-ble-research-group-metaradar-01100b5d.md) |
 | `github_search_radars-83942a3f91849e` | JordanSchlick/OpenStorm | [open](records/radars-jordanschlick-openstorm-f8a3d11d.md) |
+| `github_search_radars-839c9f276937ed` | ChunmingHe/awesome-diffusion-models-in-low-level-vision | [open](records/radars-chunminghe-awesome-diffusion-models-in-low-level-vision-da2920b8.md) |
 | `github_search_radars-83f21d3fff03d9` | webandras/gee_s1_sar_wetlands | [open](records/radars-webandras-gee-s1-sar-wetlands-46abf8d9.md) |
 | `github_search_radars-854d31265e2a9b` | CScorza/Tool-VATINT | [open](records/radars-cscorza-tool-vatint-9756d098.md) |
 | `github_search_radars-8579da060d66b6` | radarlabs/react-native-radar | [open](records/radars-radarlabs-react-native-radar-909ee8db.md) |
 | `github_search_radars-870f0dbabe3cf4` | senbox-org/s1tbx | [open](records/radars-senbox-org-s1tbx-186609d3.md) |
+| `github_search_radars-8787d23b1153d3` | pyRiemann/pyRiemann | [open](records/radars-pyriemann-pyriemann-36c3e03c.md) |
 | `github_search_radars-87c00921d10d41` | JeanExtreme002/FlightRadarAPI | [open](records/radars-jeanextreme002-flightradarapi-6af98461.md) |
 | `github_search_radars-8a053314c59c0b` | TUMFTM/RadarGNN | [open](records/radars-tumftm-radargnn-505af59d.md) |
 | `github_search_radars-8a38eb1a134c28` | aalling93/Custom-made-SAR-speckle-reduction | [open](records/radars-aalling93-custom-made-sar-speckle-reduction-99bb6550.md) |
+| `github_search_radars-8a9e4396c37668` | irem-komurcu/remote-sensing-deep-learning | [open](records/radars-irem-komurcu-remote-sensing-deep-learning-0830c033.md) |
 | `github_search_radars-8b8dd6cef54ee1` | hunterlew/mstar_deeplearning_project | [open](records/radars-hunterlew-mstar-deeplearning-project-f2f00b72.md) |
 | `github_search_radars-90eecd32b5e649` | sysstat/sysstat | [open](records/radars-sysstat-sysstat-e3b4db1b.md) |
 | `github_search_radars-9103839e8f5d11` | China131/JHChart | [open](records/radars-china131-jhchart-6c337315.md) |
 | `github_search_radars-91ce6a763041c4` | SAR-ARD/s1ard | [open](records/radars-sar-ard-s1ard-a9db69ca.md) |
+| `github_search_radars-9244ccf29d3bf8` | OSGeo/grass | [open](records/radars-osgeo-grass-e9c99a14.md) |
+| `github_search_radars-953e61581389fa` | Junjue-Wang/LoveDA | [open](records/radars-junjue-wang-loveda-07cc7d9c.md) |
 | `github_search_radars-997fa4c4749f10` | bogwi/sarpro | [open](records/radars-bogwi-sarpro-eb55e1a7.md) |
 | `github_search_radars-99f6dc1328c528` | tier4/nebula | [open](records/radars-tier4-nebula-3760d802.md) |
 | `github_search_radars-9a4a6a4e3177e9` | g0aty/SickoMenu | [open](records/radars-g0aty-sickomenu-ea577365.md) |
 | `github_search_radars-9beac54a5a320a` | ChenHongruixuan/BRIGHT | [open](records/radars-chenhongruixuan-bright-759fa402.md) |
+| `github_search_radars-9e2ac180875fe6` | gee-community/geetools | [open](records/radars-gee-community-geetools-34586c56.md) |
 | `github_search_radars-9ea5bf628afd26` | HamzaGhazouani/HGRippleRadarView | [open](records/radars-hamzaghazouani-hgrippleradarview-02e426a9.md) |
 | `github_search_radars-a011fbe657ecd9` | ZHOUYI1023/awesome-radar-perception | [open](records/radars-zhouyi1023-awesome-radar-perception-d7d35831.md) |
 | `github_search_radars-a1a7d18c8ec7ee` | erikliland/pyMHT | [open](records/radars-erikliland-pymht-6bcd5586.md) |
@@ -12187,30 +12294,50 @@
 | `github_search_radars-a3be69f61090c8` | tenox7/ttyplot | [open](records/radars-tenox7-ttyplot-5bc2ced1.md) |
 | `github_search_radars-a468f078096a1e` | JunshengFu/tracking-with-Extended-Kalman-Filter | [open](records/radars-junshengfu-tracking-with-extended-kalman-filter-b9a78f6a.md) |
 | `github_search_radars-a4b859b7dda628` | radarsimx/radarsimpy | [open](records/radars-radarsimx-radarsimpy-024e5c6c.md) |
+| `github_search_radars-a6e49d568204b1` | remotebiosensing/rppg | [open](records/radars-remotebiosensing-rppg-f297db7f.md) |
 | `github_search_radars-a929f431f12bdc` | EO-College/sarbian | [open](records/radars-eo-college-sarbian-5fd186ba.md) |
+| `github_search_radars-a96d506ac6114e` | sentinelsat/sentinelsat | [open](records/radars-sentinelsat-sentinelsat-6e539b3f.md) |
+| `github_search_radars-aab75ec4387945` | chrieke/awesome-satellite-imagery-datasets | [open](records/radars-chrieke-awesome-satellite-imagery-datasets-a1e3d23a.md) |
+| `github_search_radars-aac4e545c548cb` | CS-SI/eodag | [open](records/radars-cs-si-eodag-7dfc17d1.md) |
 | `github_search_radars-ab7b4979224743` | SICKAG/sick_scan_xd | [open](records/radars-sickag-sick-scan-xd-0e67e41e.md) |
+| `github_search_radars-ae3839703f8b06` | wgcban/ddpm-cd | [open](records/radars-wgcban-ddpm-cd-d1dbc669.md) |
 | `github_search_radars-aedf5231bc678d` | isce-framework/tophu | [open](records/radars-isce-framework-tophu-4a798fb0.md) |
+| `github_search_radars-aef6bc664c7327` | orfeotoolbox/OTB | [open](records/radars-orfeotoolbox-otb-5833013c.md) |
+| `github_search_radars-afb9659beae334` | ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing | [open](records/radars-vitae-transformer-vitae-transformer-remote-sensing-1fe2df3f.md) |
+| `github_search_radars-b107f87cb1a20a` | r-lidar/lidR | [open](records/radars-r-lidar-lidr-e7818d24.md) |
 | `github_search_radars-b13aa76c2e43c4` | bellingcat/umbra-open-data-tracker | [open](records/radars-bellingcat-umbra-open-data-tracker-b56dce91.md) |
+| `github_search_radars-b157030878789c` | yumorishita/LiCSBAS | [open](records/radars-yumorishita-licsbas-a1689441.md) |
 | `github_search_radars-b18fc3c48e6471` | ANDRVV/gapcast | [open](records/radars-andrvv-gapcast-2f99ac58.md) |
 | `github_search_radars-b1f1e39fa75291` | ethanhuang13/ladybug | [open](records/radars-ethanhuang13-ladybug-9ff29291.md) |
 | `github_search_radars-b21fe61b341d2e` | keenan-burnett/yeti_radar_odometry | [open](records/radars-keenan-burnett-yeti-radar-odometry-e98bb6ab.md) |
 | `github_search_radars-b2757d9f5da1ed` | IMS-AS-LUH/sar-sim | [open](records/radars-ims-as-luh-sar-sim-e1aa94e8.md) |
+| `github_search_radars-b4534f090535d2` | opendatacube/datacube-core | [open](records/radars-opendatacube-datacube-core-d382000b.md) |
+| `github_search_radars-b5e0b44c45c1b7` | Shank2358/GGHL | [open](records/radars-shank2358-gghl-57fd795f.md) |
 | `github_search_radars-b5f4f3f7e48223` | johntruckenbrodt/pyroSAR | [open](records/radars-johntruckenbrodt-pyrosar-83ed39f7.md) |
 | `github_search_radars-b6136b69a232e2` | ibaiGorordo/AWR1843-Read-Data-Python-MMWAVE-SDK-3- | [open](records/radars-ibaigorordo-awr1843-read-data-python-mmwave-sdk-3-62fb498c.md) |
 | `github_search_radars-b7c07170a615ef` | lexogrine/csgo-react-hud | [open](records/radars-lexogrine-csgo-react-hud-871ef2df.md) |
+| `github_search_radars-b88d0ad081f73c` | mbzuai-oryx/GeoChat | [open](records/radars-mbzuai-oryx-geochat-395a3058.md) |
+| `github_search_radars-b9970099b428c5` | opengeos/geoai | [open](records/radars-opengeos-geoai-78a0e297.md) |
+| `github_search_radars-bb2e5add9ce54f` | CNES/cars | [open](records/radars-cnes-cars-235016dd.md) |
+| `github_search_radars-bb2f02f10255b9` | fitoprincipe/geetools-code-editor | [open](records/radars-fitoprincipe-geetools-code-editor-1080a1fa.md) |
 | `github_search_radars-bb46e6facafe0a` | ktuukkan/marine-api | [open](records/radars-ktuukkan-marine-api-c4837662.md) |
 | `github_search_radars-bb64041ae8c24f` | thoughtworks/build-your-own-radar | [open](records/radars-thoughtworks-build-your-own-radar-bf05fe36.md) |
 | `github_search_radars-bbc1325da750f9` | waterdisappear/SAR-ATR-HDANet | [open](records/radars-waterdisappear-sar-atr-hdanet-c12fed0f.md) |
 | `github_search_radars-bc95ca87be12b8` | odhondt/eo_tools | [open](records/radars-odhondt-eo-tools-bf024141.md) |
 | `github_search_radars-bd5e9d799deb65` | waterdisappear/ATRNet-STAR | [open](records/radars-waterdisappear-atrnet-star-4710a166.md) |
 | `github_search_radars-bdfa18e290a35e` | RituYadav92/Radar-RGB-Attentive-Multimodal-Object-Detection | [open](records/radars-rituyadav92-radar-rgb-attentive-multimodal-object-detection-19eda9ab.md) |
+| `github_search_radars-be19a2a6115162` | NASA-IMPACT/hls-foundation-os | [open](records/radars-nasa-impact-hls-foundation-os-8fd47411.md) |
 | `github_search_radars-be5e15a61d4b7b` | goruck/radar-ml | [open](records/radars-goruck-radar-ml-38479193.md) |
 | `github_search_radars-bfb91459920c1d` | Abhinandan-Kushwaha/react-native-gifted-charts | [open](records/radars-abhinandan-kushwaha-react-native-gifted-charts-cbd803da.md) |
+| `github_search_radars-bfdeb0039e6b82` | ChenHongruixuan/ChangeDetectionRepository | [open](records/radars-chenhongruixuan-changedetectionrepository-b7588393.md) |
+| `github_search_radars-c0d444075c5551` | gee-community/geemap | [open](records/radars-gee-community-geemap-83890093.md) |
 | `github_search_radars-c0e9369ee37601` | uncle-yura/esphome-ld2450 | [open](records/radars-uncle-yura-esphome-ld2450-153b0a78.md) |
 | `github_search_radars-c1fb2bb4e9050f` | m6c7l/pymmw | [open](records/radars-m6c7l-pymmw-dccd876e.md) |
 | `github_search_radars-c23fccd5451f4c` | 30hours/blah2 | [open](records/radars-30hours-blah2-4acda32e.md) |
+| `github_search_radars-c25e8bd6ea4d09` | kvos/CoastSat | [open](records/radars-kvos-coastsat-0bb6749e.md) |
 | `github_search_radars-c289827ffffd52` | n0bel/PiClock | [open](records/radars-n0bel-piclock-1539715f.md) |
 | `github_search_radars-c2942c4ed9101e` | AndrewPlayer3/sentinel1_decode | [open](records/radars-andrewplayer3-sentinel1-decode-3aff839a.md) |
+| `github_search_radars-c4c7dd95999c08` | ucam-eo/tessera | [open](records/radars-ucam-eo-tessera-6a90744d.md) |
 | `github_search_radars-c5990c08164fde` | Nouuu/Albion-Online-OpenRadar | [open](records/radars-nouuu-albion-online-openradar-04ea3acd.md) |
 | `github_search_radars-c5f20a546ea3df` | ngageoint/sarpy_apps | [open](records/radars-ngageoint-sarpy-apps-53476eab.md) |
 | `github_search_radars-c601db81a16d63` | Orion-AI-Lab/Hephaestus | [open](records/radars-orion-ai-lab-hephaestus-45dcd512.md) |
@@ -12218,6 +12345,9 @@
 | `github_search_radars-c9b7f72a0ba1f1` | BitCrackers/AmongUsMenu | [open](records/radars-bitcrackers-amongusmenu-f51df2dc.md) |
 | `github_search_radars-cbec9796116686` | hust201010701/XRadarView | [open](records/radars-hust201010701-xradarview-d96f7593.md) |
 | `github_search_radars-cc23e5360b69ba` | SourLen/Python-CSGO-Cheat | [open](records/radars-sourlen-python-csgo-cheat-b82ba10b.md) |
+| `github_search_radars-cc702b4869f227` | nshaud/DeepNetsForEO | [open](records/radars-nshaud-deepnetsforeo-d940b4c6.md) |
+| `github_search_radars-ccff315165469a` | giswqs/qgis-earthengine-examples | [open](records/radars-giswqs-qgis-earthengine-examples-33b41bd9.md) |
+| `github_search_radars-ced646fd484cd3` | sstary/SSRS | [open](records/radars-sstary-ssrs-e38ed555.md) |
 | `github_search_radars-cf01f84ae4be29` | utiasASRL/hero_radar_odometry | [open](records/radars-utiasasrl-hero-radar-odometry-1bc544a9.md) |
 | `github_search_radars-cf90604512c92c` | odhondt/ndsar | [open](records/radars-odhondt-ndsar-356519ee.md) |
 | `github_search_radars-d09cd9708926eb` | mithi/fusion-ukf | [open](records/radars-mithi-fusion-ukf-78e879a8.md) |
@@ -12225,14 +12355,20 @@
 | `github_search_radars-d2f152dd5b5708` | ngageoint/sarpy | [open](records/radars-ngageoint-sarpy-e3823959.md) |
 | `github_search_radars-d32c7b8308c311` | graphieros/vue-data-ui | [open](records/radars-graphieros-vue-data-ui-37b47478.md) |
 | `github_search_radars-d37a079421179f` | thkruz/keeptrack.space | [open](records/radars-thkruz-keeptrack-space-1403f7f7.md) |
+| `github_search_radars-d3be1f51fb945c` | sacridini/Awesome-Geospatial | [open](records/radars-sacridini-awesome-geospatial-1adf4d45.md) |
+| `github_search_radars-d4aa945e1e9700` | GeoRetina/chat2geo | [open](records/radars-georetina-chat2geo-606c922b.md) |
 | `github_search_radars-d4b10bccf2f215` | openradar/xradar | [open](records/radars-openradar-xradar-fcfe7f38.md) |
 | `github_search_radars-d52c74afb88676` | Makin-Things/bom-radar-card | [open](records/radars-makin-things-bom-radar-card-ded56766.md) |
 | `github_search_radars-d94b462683f0ed` | jasonmanesis/Satellite-Imagery-Datasets-Containing-Ships | [open](records/radars-jasonmanesis-satellite-imagery-datasets-containing-ships-e69d613c.md) |
+| `github_search_radars-d989b8df27ff77` | Jakaria08/EESRGAN | [open](records/radars-jakaria08-eesrgan-72c925a7.md) |
 | `github_search_radars-db14f6026697cb` | x1958075990h-pixel/RuView_Radar_Lite | [open](records/radars-x1958075990h-pixel-ruview-radar-lite-18d4a74a.md) |
+| `github_search_radars-dc48b44a51b082` | spectralpython/spectral | [open](records/radars-spectralpython-spectral-64510eeb.md) |
 | `github_search_radars-dd33d785b07308` | ntnu-arl/lidar_degeneracy_datasets | [open](records/radars-ntnu-arl-lidar-degeneracy-datasets-f90e3fc8.md) |
 | `github_search_radars-ddb92a2d8b95c3` | Project-MANAS/ars_40X | [open](records/radars-project-manas-ars-40x-9d54c780.md) |
 | `github_search_radars-de99a389e0ea1b` | opencpn-radar-pi/radar_pi | [open](records/radars-opencpn-radar-pi-radar-pi-bfe54946.md) |
 | `github_search_radars-dea135827dc8f2` | jeanboydev/Android-RadarView | [open](records/radars-jeanboydev-android-radarview-7a9e46b6.md) |
+| `github_search_radars-df5c865b7cd707` | layumi/University1652-Baseline | [open](records/radars-layumi-university1652-baseline-6e7408e8.md) |
+| `github_search_radars-df94b81a57b74b` | microsoft/farmvibes-ai | [open](records/radars-microsoft-farmvibes-ai-15e332ef.md) |
 | `github_search_radars-e0b10bfe7fb3eb` | tsunglung/esphome-ld2450 | [open](records/radars-tsunglung-esphome-ld2450-5abf99f6.md) |
 | `github_search_radars-e2c03bfca5044f` | open-flight/openflight | [open](records/radars-open-flight-openflight-76c154cb.md) |
 | `github_search_radars-e34e0f838475a1` | polsartools/polsartools | [open](records/radars-polsartools-polsartools-6851bcf5.md) |
@@ -12242,10 +12378,20 @@
 | `github_search_radars-e4e8eae1531558` | Unsigned-Long/iKalibr | [open](records/radars-unsigned-long-ikalibr-cc58fd6a.md) |
 | `github_search_radars-e638e801110326` | ngageoint/six-library | [open](records/radars-ngageoint-six-library-3dbf8a82.md) |
 | `github_search_radars-e64aeef059bee1` | jasonmanesis/Ship-Detection-on-Remote-Sensing-Synthetic-Aperture-Radar-Data | [open](records/radars-jasonmanesis-ship-detection-on-remote-sensing-synthetic-aperture-radar-data-46a09a32.md) |
+| `github_search_radars-e7980b4b4b0456` | ChenHongruixuan/ChangeMamba | [open](records/radars-chenhongruixuan-changemamba-6fbccdb1.md) |
 | `github_search_radars-e914429c00a9ba` | Kalit31/Land-Cover-Analysis | [open](records/radars-kalit31-land-cover-analysis-bac816f9.md) |
+| `github_search_radars-e9bd9cbd468373` | ViTAE-Transformer/SAMRS | [open](records/radars-vitae-transformer-samrs-81fed666.md) |
 | `github_search_radars-ead97731b4a932` | spawnmason/randar-explanation | [open](records/radars-spawnmason-randar-explanation-7ffa4689.md) |
+| `github_search_radars-eae96fcf7da37e` | giswqs/earthengine-py-notebooks | [open](records/radars-giswqs-earthengine-py-notebooks-f6cabab3.md) |
+| `github_search_radars-eafb9a0f2f41d0` | 16EAGLE/getSpatialData | [open](records/radars-16eagle-getspatialdata-2135beaa.md) |
+| `github_search_radars-ed7cfe01e96f40` | PolyX-Research/Awesome-Remote-Sensing-Agents | [open](records/radars-polyx-research-awesome-remote-sensing-agents-e785f828.md) |
+| `github_search_radars-ee4b99c76c8b6a` | GeoscienceAustralia/dea-notebooks | [open](records/radars-geoscienceaustralia-dea-notebooks-86a9662a.md) |
+| `github_search_radars-f1ee17ca9ece4a` | manideep2510/eye-in-the-sky | [open](records/radars-manideep2510-eye-in-the-sky-f8be2776.md) |
 | `github_search_radars-f32f2ac1583523` | Radar-Camera-Fusion/Awesome-Radar-Perception | [open](records/radars-radar-camera-fusion-awesome-radar-perception-8b7503bf.md) |
+| `github_search_radars-f4205695f3cacf` | chrieke/awesome-geospatial-companies | [open](records/radars-chrieke-awesome-geospatial-companies-9663190b.md) |
 | `github_search_radars-f86012ef7ba2ff` | teckel12/LuaTelemetry | [open](records/radars-teckel12-luatelemetry-693c83d4.md) |
+| `github_search_radars-f8b55ac967b1c1` | DahnJ/Awesome-DEM | [open](records/radars-dahnj-awesome-dem-f0596e43.md) |
+| `github_search_radars-f94d7450b7a07e` | om-ai-lab/RS5M | [open](records/radars-om-ai-lab-rs5m-ee3996e0.md) |
 | `github_search_radars-fceaed52a8104e` | ailab-hanyang/Radar4Motion | [open](records/radars-ailab-hanyang-radar4motion-9053c2a1.md) |
 | `github_search_radars-fffc47678ea834` | isce-framework/snaphu-py | [open](records/radars-isce-framework-snaphu-py-9df19c3a.md) |
 | `github_search_radio_garden_speciality-0032b01b33b738` | idMJA/FreqWorld | [open](records/radio-garden-speciality-idmja-freqworld-54ce62c1.md) |

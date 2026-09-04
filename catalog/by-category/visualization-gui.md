@@ -1,6 +1,6 @@
 # Visualization Gui
 
-Records: `509`
+Records: `513`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `509`
 
 ## Category Index
 
-[Api Abi Checker (211)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (190)](benchmarking.md) · [Build System (965)](build-system.md) · [Cli (551)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (115)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
-[Concurrency Parallelism (87)](concurrency-parallelism.md) · [Configuration (124)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (172)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (884)](database-datastore.md) · [Datetime (209)](datetime.md)
+[Api Abi Checker (213)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Benchmarking (191)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (552)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
+[Concurrency Parallelism (88)](concurrency-parallelism.md) · [Configuration (125)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (172)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (884)](database-datastore.md) · [Datetime (213)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (438)](ffi-bindings.md) · [Filesystem Os (1513)](filesystem-os.md) · [Formatter (631)](formatter.md)
-[Framework (60)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (344)](game-engine-game-dev.md) · [Ide Editor Integration (1406)](ide-editor-integration.md)
-[Image Audio Dsp (411)](image-audio-dsp.md) · [Interop Bindings (60)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
-[Language Server (28)](language-server.md) · [Language Specification (1415)](language-specification.md) · [Library (5455)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (513)](logging-observability.md) · [Machine Learning (726)](machine-learning.md)
-[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1010)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (434)](package-manager.md) · [Parser Lexer Ast (1067)](parser-lexer-ast.md) · [Precommit Ci Quality (292)](precommit-ci-quality.md)
+[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1533)](filesystem-os.md) · [Formatter (632)](formatter.md)
+[Framework (61)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (353)](game-engine-game-dev.md) · [Ide Editor Integration (1413)](ide-editor-integration.md)
+[Image Audio Dsp (416)](image-audio-dsp.md) · [Interop Bindings (60)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (62)](jit-vm.md)
+[Language Server (28)](language-server.md) · [Language Specification (1421)](language-specification.md) · [Library (5473)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (737)](machine-learning.md)
+[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1014)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (435)](package-manager.md) · [Parser Lexer Ast (1072)](parser-lexer-ast.md) · [Precommit Ci Quality (294)](precommit-ci-quality.md)
 [Profiler (86)](profiler.md) · [Project Scaffolding (132)](project-scaffolding.md) · [Registry Repository (132)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (390)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (514)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (391)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (524)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (599)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (311)](type-checker.md)
-[Undefined Behavior Analyzer (1561)](undefined-behavior-analyzer.md) · [Utility Library (101)](utility-library.md) · **[Visualization Gui (509)](visualization-gui.md)** · [Web Framework (472)](web-framework.md)
+[Undefined Behavior Analyzer (1570)](undefined-behavior-analyzer.md) · [Utility Library (102)](utility-library.md) · **[Visualization Gui (513)](visualization-gui.md)** · [Web Framework (473)](web-framework.md)
 
 ## C++23
 
@@ -296,10 +296,10 @@ Records: `509`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| inancgumus/learngo | partial | 2025-06-24T23:03:52Z | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
+| inancgumus/learngo | unknown | not_a_go_module_path | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
 | kungfusheep/glyph | partial | 2026-08-28T16:49:36Z | [open](../records/go-kungfusheep-glyph-15af0f04.md) |
 | modernc.org/quickjs | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-modernc-org-quickjs-953c15ce.md) |
-| piquette/finance-go | partial | 2023-08-07T03:39:03Z | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
+| piquette/finance-go | unknown | not_a_go_module_path | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
 
 ## Starlark
 
@@ -359,6 +359,7 @@ Records: `509`
 | akuity/awesome-argo | unknown | github_latest_release_missing | [open](../records/engines-akuity-awesome-argo-a8c3ad12.md) |
 | alyssaxuu/flowy | unknown | github_latest_release_missing | [open](../records/engines-alyssaxuu-flowy-6804c711.md) |
 | chakra-ui/panda | partial | 2026-09-04T12:11:29Z | [open](../records/engines-chakra-ui-panda-92a4cddf.md) |
+| raymondyfei/libwetcloth | partial | 2021-12-20T20:20:31Z | [open](../records/engines-raymondyfei-libwetcloth-c55c1f44.md) |
 
 ## Physics Engines
 
@@ -369,16 +370,17 @@ Records: `509`
 | jrouwe/JoltPhysics | partial | 2026-09-03T19:46:35Z | [open](../records/physics-engines-jrouwe-joltphysics-7808ec3e.md) |
 | lettucecfd/lettuce | partial | 2026-04-13T23:21:59Z | [open](../records/physics-engines-lettucecfd-lettuce-5bfbae1f.md) |
 | louis-langholtz/PlayRho | partial | 2024-04-30T03:29:32Z | [open](../records/physics-engines-louis-langholtz-playrho-eef0dbd1.md) |
-| newton-physics/newton | partial | 2026-09-04T12:52:33Z | [open](../records/physics-engines-newton-physics-newton-932f4b4e.md) |
+| newton-physics/newton | partial | 2026-09-04T15:21:43Z | [open](../records/physics-engines-newton-physics-newton-932f4b4e.md) |
 | precise-simulation/featool-multiphysics | partial | 2026-09-03T09:25:07Z | [open](../records/physics-engines-precise-simulation-featool-multiphysics-60ff4a84.md) |
 | quinton-ashley/p5play | partial | 2026-05-14T04:15:02Z | [open](../records/physics-engines-quinton-ashley-p5play-0c12631c.md) |
 | Sirui-Xu/InterMimic | partial | 2026-04-21T17:13:17Z | [open](../records/physics-engines-sirui-xu-intermimic-6455180d.md) |
+| sksalahuddin2828/NASA | partial | 2023-07-14T09:54:38Z | [open](../records/physics-engines-sksalahuddin2828-nasa-34ee1e7e.md) |
 
 ## Game Engines
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bevyengine/bevy | partial | 2026-09-04T12:21:12Z | [open](../records/game-engines-bevyengine-bevy-a5bfd46e.md) |
+| bevyengine/bevy | partial | 2026-09-04T16:50:39Z | [open](../records/game-engines-bevyengine-bevy-a5bfd46e.md) |
 | emilk/egui | partial | 2026-09-04T12:37:51Z | [open](../records/game-engines-emilk-egui-3281d5d1.md) |
 | jrouwe/JoltPhysics | partial | 2026-09-03T19:46:35Z | [open](../records/game-engines-jrouwe-joltphysics-df9a65f0.md) |
 
@@ -412,6 +414,7 @@ Records: `509`
 | react95-io/React95 | partial | 2024-01-14T20:52:31Z | [open](../records/icons-and-logos-react95-io-react95-5104e6c7.md) |
 | React95/React95 | partial | 2026-09-02T20:02:28Z | [open](../records/icons-and-logos-react95-react95-ff8c497a.md) |
 | rebassjs/rebass | partial | 2023-07-27T03:42:53Z | [open](../records/icons-and-logos-rebassjs-rebass-64744ea0.md) |
+| robbrazier/svelte-awesome | partial | 2025-04-21T06:53:40Z | [open](../records/icons-and-logos-robbrazier-svelte-awesome-8e073487.md) |
 | Simple Icons | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/icons-and-logos-simple-icons-24b556a1.md) |
 | Tabler Icons | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/icons-and-logos-tabler-icons-814b22b6.md) |
 | webkul/vivid | partial | 2023-01-07T02:22:23Z | [open](../records/icons-and-logos-webkul-vivid-1d0393fe.md) |
@@ -619,6 +622,7 @@ Records: `509`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| ChenHongruixuan/ChangeMamba | partial | 2026-04-24T03:46:33Z | [open](../records/radars-chenhongruixuan-changemamba-6fbccdb1.md) |
 | China131/JHChart | partial | 2020-01-03T08:33:56Z | [open](../records/radars-china131-jhchart-6c337315.md) |
 | CScorza/Tool-VATINT | partial | 2025-08-08T09:26:33Z | [open](../records/radars-cscorza-tool-vatint-9756d098.md) |
 | n0bel/PiClock | partial | 2026-08-28T00:26:22Z | [open](../records/radars-n0bel-piclock-1539715f.md) |
