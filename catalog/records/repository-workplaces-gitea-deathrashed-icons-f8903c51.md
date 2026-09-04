@@ -39,9 +39,9 @@ part of low-noise code review, style consistency, and automation-friendly editin
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ part of low-noise code review, style consistency, and automation-friendly editin
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-02 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "library", "retrieved": "2026-09-02", "status": "forge-api-derived"}` |
+| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-04 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "library", "retrieved": "2026-09-04", "status": "forge-api-derived"}` |
 
 </details>
 

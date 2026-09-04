@@ -40,7 +40,7 @@ validation, regression protection, and release confidence.
 | Field | Value |
 | --- | --- |
 | Detected family | Apache-2.0 |
-| Evidence | Apache-2.0 |
+| Evidence | Apache 2.0; {"key": "", "name": "", "url": ""} |
 | Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes

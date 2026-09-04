@@ -277,7 +277,7 @@ Records: `146`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [andrechristikan/ack-nestjs-boilerplate-kafka](../records/pattern-language-andrechristikan-ack-nestjs-boilerplate-kafka-29c3d599.md) | partial | 2023-07-19T10:53:33Z | registry-derived |
-| [cobusgreyling/loop-engineering](../records/pattern-language-cobusgreyling-loop-engineering-3a7d9a15.md) | partial | 2026-09-04T04:09:03Z | registry-derived |
+| [cobusgreyling/loop-engineering](../records/pattern-language-cobusgreyling-loop-engineering-3a7d9a15.md) | partial | 2026-09-04T08:54:05Z | registry-derived |
 
 ### Security Sast
 

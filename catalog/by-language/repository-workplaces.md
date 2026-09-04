@@ -148,7 +148,7 @@ Records: `525`
 | [Gitea: yeyuanjie/gorm-oracle](../records/repository-workplaces-gitea-yeyuanjie-gorm-oracle-4b6b7053.md) | partial | 2023-10-17T03:10:13Z | registry-derived |
 | [Gitea: ziying/database](../records/repository-workplaces-gitea-ziying-database-e5dcf680.md) | partial | 2026-06-03T05:06:54Z | registry-derived |
 | [gitlab-org/advisories-community](../records/repository-workplaces-gitlab-org-advisories-community-621603ca.md) | partial | 2026-09-03T14:37:25.110Z | registry-derived |
-| [gitlab-org/analytics-section/siphon](../records/repository-workplaces-gitlab-org-analytics-section-siphon-6ac6dc22.md) | partial | 2026-09-03T15:39:52.653Z | registry-derived |
+| [gitlab-org/analytics-section/siphon](../records/repository-workplaces-gitlab-org-analytics-section-siphon-6ac6dc22.md) | partial | 2026-09-04T05:32:46.321Z | registry-derived |
 | [kara.moe/karaokebase](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) | partial | 2026-09-04T07:39:55.344Z | registry-derived |
 | [postgres-ai/custom-images](../records/repository-workplaces-postgres-ai-custom-images-45d426ed.md) | partial | 2026-08-31T12:45:54.446Z | registry-derived |
 | [ProfaneDB/ProfaneDB](../records/repository-workplaces-profanedb-profanedb-135545c0.md) | partial | 2021-08-10T13:32:11.702Z | registry-derived |
@@ -223,7 +223,7 @@ Records: `525`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [alasca.cloud/tarook/tarook](../records/repository-workplaces-alasca-cloud-tarook-tarook-a7045027.md) | partial | 2026-09-04T01:07:24.708Z | registry-derived |
+| [alasca.cloud/tarook/tarook](../records/repository-workplaces-alasca-cloud-tarook-tarook-a7045027.md) | partial | 2026-09-04T07:54:53.195Z | registry-derived |
 | [CircuitSwan/hacker-con-birds-of-a-feather](../records/repository-workplaces-circuitswan-hacker-con-birds-of-a-feather-c3c74363.md) | partial | 2026-05-30T16:12:06.527Z | registry-derived |
 | [Gitea: deathrashed/Icons](../records/repository-workplaces-gitea-deathrashed-icons-f8903c51.md) | partial | 2026-01-25T12:18:00Z | registry-derived |
 | [gitlab-org/cves](../records/repository-workplaces-gitlab-org-cves-82f80fbe.md) | partial | 2026-09-03T15:33:49.155Z | registry-derived |
@@ -437,7 +437,7 @@ Records: `525`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [dalibo/pg_migrate](../records/repository-workplaces-dalibo-pg-migrate-f66a654f.md) | partial | 2026-09-03T14:47:02.206Z | registry-derived |
+| [dalibo/pg_migrate](../records/repository-workplaces-dalibo-pg-migrate-f66a654f.md) | partial | 2026-09-04T07:59:59.195Z | registry-derived |
 | [Gitea: AaronFiore/btcpayserver-docker](../records/repository-workplaces-gitea-aaronfiore-btcpayserver-docker-65536044.md) | partial | 2026-08-27T21:27:13Z | registry-derived |
 | [Gitea: ks2515/codecrafters-http-server-go](../records/repository-workplaces-gitea-ks2515-codecrafters-http-server-go-a645fafb.md) | partial | 2024-06-28T05:27:11Z | registry-derived |
 | [Gitea: Opsdff/RiviLib](../records/repository-workplaces-gitea-opsdff-rivilib-b63af9b3.md) | partial | 2026-07-10T13:49:56Z | registry-derived |
@@ -634,7 +634,7 @@ Records: `525`
 | [gitlab-org/gitlab](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) | partial | 2026-09-04T07:42:02.603Z | registry-derived |
 | [gitlab-org/security-products/analyzers/container-scanning](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) | partial | 2026-08-27T18:19:28.289Z | registry-derived |
 | [gitlab-security-oss/cis/gitlabcis](../records/repository-workplaces-gitlab-security-oss-cis-gitlabcis-f7ce6047.md) | partial | 2026-09-01T20:35:39.553Z | registry-derived |
-| [hgraca/app-mapper](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) | partial | 2026-09-03T08:04:50.015Z | registry-derived |
+| [hgraca/app-mapper](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) | partial | 2026-09-04T08:05:01.086Z | registry-derived |
 | [internet-cleanup-foundation/web-security-map](../records/repository-workplaces-internet-cleanup-foundation-web-security-map-8627947d.md) | partial | 2026-09-03T19:11:52.490Z | registry-derived |
 | [mopsa/mopsa-analyzer](../records/repository-workplaces-mopsa-mopsa-analyzer-9740e96e.md) | partial | 2026-08-23T14:57:22.050Z | registry-derived |
 | [ngalog-gitlab/openapi_security_scanner](../records/repository-workplaces-ngalog-gitlab-openapi-security-scanner-30036c82.md) | partial | 2021-04-13T23:16:32.701Z | registry-derived |
@@ -674,7 +674,7 @@ Records: `525`
 | [gitlab-data/data-image](../records/repository-workplaces-gitlab-data-data-image-0af0c35c.md) | partial | 2026-08-21T11:24:30.282Z | registry-derived |
 | [gitlab-examples/kubernetes-deploy](../records/repository-workplaces-gitlab-examples-kubernetes-deploy-9a43e04a.md) | partial | 2026-01-07T14:56:28.754Z | registry-derived |
 | [gitlab-examples/ruby-autodeploy](../records/repository-workplaces-gitlab-examples-ruby-autodeploy-0ea70988.md) | partial | 2026-01-07T14:56:29.516Z | registry-derived |
-| [gitlab-org/caproni](../records/repository-workplaces-gitlab-org-caproni-40271619.md) | partial | 2026-09-04T03:08:24.677Z | registry-derived |
+| [gitlab-org/caproni](../records/repository-workplaces-gitlab-org-caproni-40271619.md) | partial | 2026-09-04T07:24:46.049Z | registry-derived |
 | [gitlab-org/charts/gitlab-agent](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) | partial | 2026-08-27T06:20:07.801Z | registry-derived |
 | [gitlab-org/ci-cd/gitlab-runner-pod-cleanup](../records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) | partial | 2026-05-15T07:38:19.652Z | registry-derived |
 | [gitlab-org/cloud-native/gitlab-operator](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) | partial | 2026-09-04T07:43:30.440Z | registry-derived |
@@ -682,7 +682,7 @@ Records: `525`
 | [glitchtip/glitchtip-helm-chart](../records/repository-workplaces-glitchtip-glitchtip-helm-chart-8da5da49.md) | partial | 2026-08-01T00:27:07.881Z | registry-derived |
 | [just.insane/kubernetes](../records/repository-workplaces-just-insane-kubernetes-b3dc8533.md) | partial | 2019-12-24T04:31:25.427Z | registry-derived |
 | [k3s_hetzner/k3s_hetzner](../records/repository-workplaces-k3s-hetzner-k3s-hetzner-d2927843.md) | partial | 2024-05-18T14:38:11.918Z | registry-derived |
-| [kargo-ci/kubernetes-sigs-kubespray](../records/repository-workplaces-kargo-ci-kubernetes-sigs-kubespray-bd6a5638.md) | partial | 2026-09-04T03:02:48.670Z | registry-derived |
+| [kargo-ci/kubernetes-sigs-kubespray](../records/repository-workplaces-kargo-ci-kubernetes-sigs-kubespray-bd6a5638.md) | partial | 2026-09-04T08:13:45.823Z | registry-derived |
 | [ksxack/administrator-kubernetes-junior](../records/repository-workplaces-ksxack-administrator-kubernetes-junior-6dbf6036.md) | partial | 2025-03-09T20:49:07.418Z | registry-derived |
 | [lavitto/typo3-form-to-database](../records/repository-workplaces-lavitto-typo3-form-to-database-83392b7e.md) | partial | 2026-01-28T10:30:57.005Z | registry-derived |
 | [learndevopseasy/troubleshoot/kubernetes-apps](../records/repository-workplaces-learndevopseasy-troubleshoot-kubernetes-apps-43ef407e.md) | partial | 2024-12-18T10:50:49.219Z | registry-derived |

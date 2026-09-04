@@ -59,7 +59,7 @@ inventory as part of model pipelines, numerical runtime constraints, and data/de
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-02 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "library", "retrieved": "2026-09-02", "status": "forge-api-derived"}` |
+| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-04 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "library", "retrieved": "2026-09-04", "status": "forge-api-derived"}` |
 
 </details>
 

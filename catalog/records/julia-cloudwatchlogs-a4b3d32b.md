@@ -40,7 +40,7 @@ metrics, auditability, tracing, and incident response.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | Eclipse Public License 1.0; https://api.github.com/licenses/epl-1.0 |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
