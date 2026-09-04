@@ -40,7 +40,7 @@ persistence, interoperability, and compatibility boundaries.
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | https://www.nuget.org/packages/FSharp.Json.New/0.5.0/license |
+| Evidence | {"key": "", "name": "", "url": ""}; https://www.nuget.org/packages/FSharp.Json.New/0.5.0/license |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes

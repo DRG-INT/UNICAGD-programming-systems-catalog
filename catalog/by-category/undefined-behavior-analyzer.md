@@ -1505,9 +1505,9 @@ Records: `1506`
 | --- | --- | --- | --- |
 | AppImage/appimage.github.io | partial | 2026-08-30T13:05:20Z | [open](../records/catalogs-appimage-appimage-github-io-f260d9b1.md) |
 | awclub/catalog | partial | 2025-03-14T14:22:23Z | [open](../records/catalogs-awclub-catalog-58839c97.md) |
-| imsai-sh/awesome-deepseek-harness-plugins | partial | 2026-09-03T12:51:07Z | [open](../records/catalogs-imsai-sh-awesome-deepseek-harness-plugins-06b83072.md) |
+| imsai-sh/awesome-deepseek-harness-plugins | partial | 2026-09-04T02:20:03Z | [open](../records/catalogs-imsai-sh-awesome-deepseek-harness-plugins-06b83072.md) |
 | leenkcool/Blue-Whale-Harness | partial | 2026-09-01T11:28:25Z | [open](../records/catalogs-leenkcool-blue-whale-harness-b2691c97.md) |
-| llnl/llnl.github.io | partial | 2026-09-02T16:15:45Z | [open](../records/catalogs-llnl-llnl-github-io-afb77a91.md) |
+| llnl/llnl.github.io | partial | 2026-09-03T16:21:24Z | [open](../records/catalogs-llnl-llnl-github-io-afb77a91.md) |
 | nasa/code-nasa-gov | partial | 2024-09-19T20:00:44Z | [open](../records/catalogs-nasa-code-nasa-gov-bf1d1580.md) |
 | pumpzera/github-achievements-catalog | partial | 2026-04-05T21:51:58Z | [open](../records/catalogs-pumpzera-github-achievements-catalog-4fee72cc.md) |
 | shiwaforce/poco | partial | 2026-06-30T08:55:36Z | [open](../records/catalogs-shiwaforce-poco-cfba39a3.md) |

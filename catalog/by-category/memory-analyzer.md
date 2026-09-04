@@ -132,8 +132,8 @@ Records: `89`
 | gitleaks/gitleaks | partial | 2026-08-26T04:17:05Z | [open](../records/aim-s-gitleaks-gitleaks-942f477b.md) |
 | mem0ai/mem0 | partial | 2026-09-03T16:43:03Z | [open](../records/aim-s-mem0ai-mem0-1e2f6f8a.md) |
 | MemPalace/mempalace | partial | 2026-09-02T00:28:43Z | [open](../records/aim-s-mempalace-mempalace-24dc978a.md) |
-| vllm-project/vllm | partial | 2026-09-04T00:53:09Z | [open](../records/aim-s-vllm-project-vllm-5af67423.md) |
-| zhayujie/CowAgent | partial | 2026-09-03T14:16:40Z | [open](../records/aim-s-zhayujie-cowagent-fa45ff55.md) |
+| vllm-project/vllm | partial | 2026-09-04T02:12:08Z | [open](../records/aim-s-vllm-project-vllm-5af67423.md) |
+| zhayujie/CowAgent | partial | 2026-09-04T02:14:21Z | [open](../records/aim-s-zhayujie-cowagent-fa45ff55.md) |
 
 ## Maps
 
@@ -171,7 +171,7 @@ Records: `89`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| FgForrest/evitaDB | partial | 2026-09-03T12:14:01Z | [open](../records/catalogs-fgforrest-evitadb-0b44527c.md) |
+| FgForrest/evitaDB | partial | 2026-09-03T20:44:49Z | [open](../records/catalogs-fgforrest-evitadb-0b44527c.md) |
 
 ## Assembly
 

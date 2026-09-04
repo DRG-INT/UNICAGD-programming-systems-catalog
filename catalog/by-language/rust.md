@@ -1107,7 +1107,7 @@ Records: `2183`
 | [test-case](../records/rust-test-case-20c84639.md) | 3.3.1 | 2023-11-17T20:16:53.517911Z | registry-derived |
 | [test-case-core](../records/rust-test-case-core-7b9aa50f.md) | 3.3.1 | 2023-11-17T20:16:23.910151Z | crates_io |
 | [test-case-macros](../records/rust-test-case-macros-161f3891.md) | 3.3.1 | 2023-11-17T20:16:40.597912Z | registry-derived |
-| [tinyvec](../records/rust-tinyvec-a3ec787a.md) | 1.13.0 | 2026-09-03T21:13:39.500112Z | registry-derived |
+| [tinyvec](../records/rust-tinyvec-a3ec787a.md) | 1.13.1 | 2026-09-04T01:26:57.203733Z | registry-derived |
 | [tokenizers](../records/rust-tokenizers-d1b84342.md) | 0.23.1 | 2026-04-27T14:39:17.479740Z | crates_io |
 | [tracing-appender](../records/rust-tracing-appender-f913deb3.md) | 0.2.5 | 2026-04-17T13:23:16.002139Z | registry-derived |
 | [tracing-log](../records/rust-tracing-log-38f03446.md) | 0.2.0 | 2023-10-25T17:01:37.024993Z | registry-derived |

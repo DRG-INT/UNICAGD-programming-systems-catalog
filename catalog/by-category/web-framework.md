@@ -515,7 +515,7 @@ Records: `453`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | emertozd/Compose-Material-3-Expressive-Catalog | partial | 2026-08-25T13:27:09Z | [open](../records/catalogs-emertozd-compose-material-3-expressive-catalog-37be1c96.md) |
-| fabiodalez-dev/Pinakes | partial | 2026-09-03T14:14:17Z | [open](../records/catalogs-fabiodalez-dev-pinakes-55aa7480.md) |
+| fabiodalez-dev/Pinakes | partial | 2026-09-03T16:34:05Z | [open](../records/catalogs-fabiodalez-dev-pinakes-55aa7480.md) |
 | zyegfryed/django-statici18n | partial | 2026-09-02T17:13:48Z | [open](../records/catalogs-zyegfryed-django-statici18n-7d8a9ed5.md) |
 
 ## Magazines

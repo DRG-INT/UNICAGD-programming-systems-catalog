@@ -34,7 +34,7 @@ control, artifact reproducibility, cross-platform build policy, and CI integrati
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-03T15:50:27Z | gh search repos org:SAP Java | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-03T21:05:11Z | gh search repos org:SAP Java | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -59,7 +59,7 @@ control, artifact reproducibility, cross-platform build policy, and CI integrati
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-03 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "org:SAP Java", "retrieved": "2026-09-03", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-04 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "org:SAP Java", "retrieved": "2026-09-04", "status": "forge-cli-derived"}` |
 
 </details>
 

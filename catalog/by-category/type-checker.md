@@ -61,7 +61,7 @@ Records: `300`
 | @better-auth/core | 1.7.2 | 2026-08-26T19:13:25.334Z | [open](../records/node-js-typescript-better-auth-core-fa635d03.md) |
 | @betterer/typescript | 6.0.0-alpha.1 | 2024-12-01T11:00:45.495Z | [open](../records/node-js-typescript-betterer-typescript-35e88ce6.md) |
 | @clipboard-health/testing-core | 2.12.3 | 2026-09-02T02:21:01.349Z | [open](../records/node-js-typescript-clipboard-health-testing-core-646613ba.md) |
-| @cloudflare/workers-types | 5.20260903.1 | 2026-09-03T01:19:16.512Z | [open](../records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) |
+| @cloudflare/workers-types | 5.20260904.1 | 2026-09-04T01:16:34.843Z | [open](../records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) |
 | @cspell/dict-typescript | 3.2.3 | 2025-07-09T18:55:17.973Z | [open](../records/node-js-typescript-cspell-dict-typescript-a021ae1f.md) |
 | @dbos-inc/dbos-sdk | 4.27.6 | 2026-08-25T15:39:32.081Z | [open](../records/node-js-typescript-dbos-inc-dbos-sdk-aae8d31d.md) |
 | @definitelytyped/typescript-versions | 0.1.12 | 2026-06-15T18:01:15.944Z | [open](../records/node-js-typescript-definitelytyped-typescript-versions-b23bd9b9.md) |
@@ -98,7 +98,7 @@ Records: `300`
 | @rollup/plugin-typescript | 12.3.0 | 2025-10-23T13:30:06.175Z | [open](../records/node-js-typescript-rollup-plugin-typescript-f04c897d.md) |
 | @rushstack/heft-typescript-plugin | 1.3.20 | 2026-08-21T15:19:07.437Z | [open](../records/node-js-typescript-rushstack-heft-typescript-plugin-5f2052bd.md) |
 | @sapui5/types | 1.151.0 | 2026-08-06T11:46:56.481Z | [open](../records/node-js-typescript-sapui5-types-43d1c09c.md) |
-| @seamapi/http | 2.28.0 | 2026-09-02T08:36:31.014Z | [open](../records/node-js-typescript-seamapi-http-47d27f2c.md) |
+| @seamapi/http | 2.29.0 | 2026-09-04T00:56:43.342Z | [open](../records/node-js-typescript-seamapi-http-47d27f2c.md) |
 | @serverless/typescript | 4.30.0 | 2026-01-08T21:43:05.568Z | [open](../records/node-js-typescript-serverless-typescript-a89c6736.md) |
 | @sourcegraph/scip-typescript | 0.4.0 | 2025-10-02T06:02:28.263Z | [open](../records/node-js-typescript-sourcegraph-scip-typescript-96e15369.md) |
 | @storybook/preset-typescript | 3.0.0 | 2020-03-25T23:42:19.551Z | [open](../records/node-js-typescript-storybook-preset-typescript-b664a152.md) |
@@ -312,7 +312,7 @@ Records: `300`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-04T01:15:19Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | partial | 2026-09-04T02:10:24Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Assets
 

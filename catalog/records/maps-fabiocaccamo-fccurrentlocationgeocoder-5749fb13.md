@@ -41,7 +41,7 @@ of language tooling, code generation, static analysis, and source transformation
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | License :: OSI Approved :: MIT License |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

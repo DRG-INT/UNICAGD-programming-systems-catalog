@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-04T01:16:44+00:00`
+Generated: `2026-09-04T02:22:26+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -28,25 +28,30 @@ Generated: `2026-09-04T01:16:44+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 9987 |
-| Unknown stable release | 15056 |
+| Known stable release | 9986 |
+| Unknown stable release | 15057 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
-| @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.112.24 | 2026-09-04T00:24:32.237Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
+| mintlify | Node.js/JavaScript | Cli | 4.2.872 | 2026-09-04T02:16:31.537Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
+| mint | Node.js/JavaScript | Cli | 4.2.872 | 2026-09-04T02:16:31.328Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
+| @mintlify/cli | Node.js/JavaScript | Cli | 4.0.1475 | 2026-09-04T02:16:28.068Z | [open](records/node-js-javascript-mintlify-cli-64dbc59b.md) |
+| hOpenPGP | Haskell | Library | 3.6.7 | 2026-09-04T02:15:31Z | [open](records/haskell-hopenpgp-dbd93565.md) |
+| @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.112.26 | 2026-09-04T02:03:59.955Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
+| flutter_foreground_task | Dart | Library | 11.0.2 | 2026-09-04T01:29:15.373767Z | [open](records/dart-flutter-foreground-task-0774b21a.md) |
+| tinyvec | Rust | Ide Editor Integration | 1.13.1 | 2026-09-04T01:26:57.203733Z | [open](records/rust-tinyvec-a3ec787a.md) |
+| @cloudflare/workers-types | Node.js/TypeScript | Type Checker | 5.20260904.1 | 2026-09-04T01:16:34.843Z | [open](records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) |
+| @seamapi/http | Node.js/TypeScript | Type Checker | 2.29.0 | 2026-09-04T00:56:43.342Z | [open](records/node-js-typescript-seamapi-http-47d27f2c.md) |
+| @gjsify/http | Node.js/JavaScript | Networking Http | 0.47.0 | 2026-09-04T00:27:29.648Z | [open](records/node-js-javascript-gjsify-http-1598f2a7.md) |
 | @joshwooding/vite-plugin-react-docgen-typescript | Node.js/TypeScript | Type Checker | 0.8.0 | 2026-09-04T00:03:02.953Z | [open](records/node-js-typescript-joshwooding-vite-plugin-react-docgen-typescript-dcab1e64.md) |
 | @github/copilot-language-server-win32-x64 | Node.js/JavaScript | Language Specification | 1.540.0 | 2026-09-03T23:49:36.308Z | [open](records/node-js-javascript-github-copilot-language-server-win32-x64-bfb04d01.md) |
 | @github/copilot-language-server-linux-x64 | Node.js/JavaScript | Language Specification | 1.540.0 | 2026-09-03T23:46:47.704Z | [open](records/node-js-javascript-github-copilot-language-server-linux-x64-02307b0b.md) |
 | @github/copilot-language-server-darwin-arm64 | Node.js/JavaScript | Language Specification | 1.540.0 | 2026-09-03T23:45:49.310Z | [open](records/node-js-javascript-github-copilot-language-server-darwin-arm64-20bcc86b.md) |
 | @stacksjs/testing | Node.js/JavaScript | Testing Framework | 0.74.16 | 2026-09-03T23:43:01.725Z | [open](records/node-js-javascript-stacksjs-testing-57469937.md) |
 | @stacksjs/database | Node.js/JavaScript | Database Datastore | 0.74.16 | 2026-09-03T23:38:27.044Z | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
-| hOpenPGP | Haskell | Library | 3.6.6 | 2026-09-03T23:29:05Z | [open](records/haskell-hopenpgp-dbd93565.md) |
-| mint | Node.js/JavaScript | Cli | 4.2.871 | 2026-09-03T23:27:53.242Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
-| mintlify | Node.js/JavaScript | Cli | 4.2.871 | 2026-09-03T23:27:52.890Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
 | @stacksjs/http | Node.js/JavaScript | Networking Http | 0.74.16 | 2026-09-03T23:27:50.017Z | [open](records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
-| @mintlify/cli | Node.js/JavaScript | Cli | 4.0.1474 | 2026-09-03T23:27:49.701Z | [open](records/node-js-javascript-mintlify-cli-64dbc59b.md) |
 | @tapjs/typescript | Node.js/TypeScript | Type Checker | 3.5.12 | 2026-09-03T23:20:34.406Z | [open](records/node-js-typescript-tapjs-typescript-f4208721.md) |
 | cupertino_http | Dart | Ide Editor Integration | 3.1.0 | 2026-09-03T23:11:54.938569Z | [open](records/dart-cupertino-http-0ecff711.md) |
 | jnigen | Dart | Interpreter Runtime | 1.0.0 | 2026-09-03T23:03:08.366814Z | [open](records/dart-jnigen-8e59680d.md) |
@@ -60,7 +65,6 @@ Generated: `2026-09-04T01:16:44+00:00`
 | sentry | Dart | Interpreter Runtime | 9.29.0 | 2026-09-03T21:25:58.826778Z | [open](records/dart-sentry-27c4653e.md) |
 | @tellescope/testing | Node.js/JavaScript | Testing Framework | 1.256.14 | 2026-09-03T21:24:22.630Z | [open](records/node-js-javascript-tellescope-testing-59848a2c.md) |
 | cabal-install-parsers | Haskell | Parser Lexer Ast | 0.7 | 2026-09-03T21:22:27Z | [open](records/haskell-cabal-install-parsers-5bbb1ac6.md) |
-| tinyvec | Rust | Ide Editor Integration | 1.13.0 | 2026-09-03T21:13:39.500112Z | [open](records/rust-tinyvec-a3ec787a.md) |
 | @tryghost/server | Node.js/JavaScript | Package Manager | 3.1.14 | 2026-09-03T21:05:49.719Z | [open](records/node-js-javascript-tryghost-server-914387f6.md) |
 | @tryghost/database-info | Node.js/JavaScript | Formatter | 2.3.13 | 2026-09-03T21:05:25.666Z | [open](records/node-js-javascript-tryghost-database-info-d1eda67d.md) |
 | llama-cpp-haskell | Haskell | Library | 0.3.0.1 | 2026-09-03T20:40:47Z | [open](records/haskell-llama-cpp-haskell-a626a663.md) |
@@ -147,7 +151,6 @@ Generated: `2026-09-04T01:16:44+00:00`
 | node-opcua-address-space-for-conformance-testing | Node.js/JavaScript | Testing Framework | 2.180.0 | 2026-09-03T10:16:16.350Z | [open](records/node-js-javascript-node-opcua-address-space-for-conformance-testing-e25f7a6d.md) |
 | thai-address-database | Node.js/JavaScript | Database Datastore | 0.0.33 | 2026-09-03T10:12:09.249Z | [open](records/node-js-javascript-thai-address-database-1e06ea40.md) |
 | @prisma/language-server | Node.js/JavaScript | Language Specification | 31.12.2 | 2026-09-03T09:36:25.142Z | [open](records/node-js-javascript-prisma-language-server-e4ebd39b.md) |
-| @gjsify/http | Node.js/JavaScript | Networking Http | 0.46.0 | 2026-09-03T09:26:54.985Z | [open](records/node-js-javascript-gjsify-http-1598f2a7.md) |
 | @microsoft/m365agentstoolkit-cli | Node.js/JavaScript | Cli | 1.1.16 | 2026-09-03T09:20:17.630Z | [open](records/node-js-javascript-microsoft-m365agentstoolkit-cli-3f536e69.md) |
 | oui-data | Node.js/JavaScript | Serialization | 2.1.15 | 2026-09-03T09:10:39.944Z | [open](records/node-js-javascript-oui-data-c721fc74.md) |
 | @cubejs-backend/athena-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.33 | 2026-09-03T09:06:30.967Z | [open](records/node-js-javascript-cubejs-backend-athena-driver-6bacd80a.md) |
@@ -191,7 +194,6 @@ Generated: `2026-09-04T01:16:44+00:00`
 | @angular/compiler-cli | Node.js/JavaScript | Compiler | 22.1.5 | 2026-09-03T02:37:35.090Z | [open](records/node-js-javascript-angular-compiler-cli-2d6ddb22.md) |
 | @angular/language-server | Node.js/JavaScript | Language Specification | 22.1.5 | 2026-09-03T02:36:13.023Z | [open](records/node-js-javascript-angular-language-server-3e834c73.md) |
 | hopenpgp-tools | Haskell | Library | 0.25.12 | 2026-09-03T02:29:55Z | [open](records/haskell-hopenpgp-tools-39a59dde.md) |
-| @cloudflare/workers-types | Node.js/TypeScript | Type Checker | 5.20260903.1 | 2026-09-03T01:19:16.512Z | [open](records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) |
 | lru | Rust | Library | 0.18.4 | 2026-09-03T00:26:06.507992Z | [open](records/rust-lru-d37fa8b1.md) |
 | grinder | Dart | Library | 0.10.1 | 2026-09-03T00:13:15.873220Z | [open](records/dart-grinder-82627f10.md) |
 | SQLFormatteR | R | Formatter | 0.0.3 | 2026-09-03 22:30:02 UTC | [open](records/r-sqlformatter-2292ec67.md) |
@@ -283,8 +285,6 @@ Generated: `2026-09-04T01:16:44+00:00`
 | @inquirer/testing | Node.js/JavaScript | Testing Framework | 3.3.12 | 2026-09-02T21:53:40.797Z | [open](records/node-js-javascript-inquirer-testing-6655503f.md) |
 | go_router_builder | Dart | Build System | 4.5.0 | 2026-09-02T21:18:54.769102Z | [open](records/dart-go-router-builder-3e19193c.md) |
 | i18next-http-backend | Node.js/JavaScript | Networking Http | 4.0.2 | 2026-09-02T21:07:32.306Z | [open](records/node-js-javascript-i18next-http-backend-da15cfea.md) |
-| @angular-devkit/schematics-cli | Node.js/JavaScript | Cli | 22.1.7 | 2026-09-02T21:05:20.325Z | [open](records/node-js-javascript-angular-devkit-schematics-cli-932336ca.md) |
-| @angular/cli | Node.js/JavaScript | Cli | 22.1.7 | 2026-09-02T21:04:29.637Z | [open](records/node-js-javascript-angular-cli-8e368136.md) |
 
 ## Unknown Reasons
 
@@ -305,7 +305,7 @@ Generated: `2026-09-04T01:16:44+00:00`
 | curated_database_record_requires_source_specific_release_lookup | 87 |
 | official_workplace_route_requires_source_specific_release_lookup | 59 |
 | not_a_maven_coordinate | 32 |
-| hackage_top_downloads_page_does_not_include_release_date | 11 |
+| hackage_top_downloads_page_does_not_include_release_date | 12 |
 | not_a_cocoapods_name | 7 |
 | release_date_missing | 5 |
 | cocoapods_metadata_missing | 5 |

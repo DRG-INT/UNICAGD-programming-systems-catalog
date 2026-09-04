@@ -403,7 +403,7 @@ Records: `2407`
 | [@marp-team/marp-cli](../records/node-js-javascript-marp-team-marp-cli-b69e1548.md) | 4.5.0 | 2026-07-17T23:07:09.399Z | registry-derived |
 | [@metamask/messenger-cli](../records/node-js-javascript-metamask-messenger-cli-15524c80.md) | 0.2.0 | 2026-04-20T16:40:19.418Z | registry-derived |
 | [@microsoft/m365agentstoolkit-cli](../records/node-js-javascript-microsoft-m365agentstoolkit-cli-3f536e69.md) | 1.1.16 | 2026-09-03T09:20:17.630Z | registry-derived |
-| [@mintlify/cli](../records/node-js-javascript-mintlify-cli-64dbc59b.md) | 4.0.1474 | 2026-09-03T23:27:49.701Z | registry-derived |
+| [@mintlify/cli](../records/node-js-javascript-mintlify-cli-64dbc59b.md) | 4.0.1475 | 2026-09-04T02:16:28.068Z | registry-derived |
 | [@module-federation/cli](../records/node-js-javascript-module-federation-cli-ad5965f3.md) | 2.9.0 | 2026-08-24T08:21:41.802Z | registry-derived |
 | [@mongosh/logging](../records/node-js-javascript-mongosh-logging-a2ed4564.md) | 5.2.0 | 2026-07-01T01:01:34.354Z | npm_registry |
 | [@napi-rs/cli](../records/node-js-javascript-napi-rs-cli-3160c98d.md) | 3.9.0 | 2026-09-02T16:11:20.951Z | registry-derived |
@@ -504,8 +504,8 @@ Records: `2407`
 | [lmnr-cli](../records/node-js-javascript-lmnr-cli-446632fc.md) | 0.5.0 | 2026-08-21T15:24:37.896Z | registry-derived |
 | [locize-cli](../records/node-js-javascript-locize-cli-9156d8b9.md) | 12.7.0 | 2026-09-01T05:39:48.244Z | registry-derived |
 | [meow](../records/node-js-javascript-meow-f24d3a17.md) | 14.1.0 | 2026-02-20T10:30:43.850Z | registry-derived |
-| [mint](../records/node-js-javascript-mint-4de26fe3.md) | 4.2.871 | 2026-09-03T23:27:53.242Z | registry-derived |
-| [mintlify](../records/node-js-javascript-mintlify-3fade289.md) | 4.2.871 | 2026-09-03T23:27:52.890Z | registry-derived |
+| [mint](../records/node-js-javascript-mint-4de26fe3.md) | 4.2.872 | 2026-09-04T02:16:31.328Z | registry-derived |
+| [mintlify](../records/node-js-javascript-mintlify-3fade289.md) | 4.2.872 | 2026-09-04T02:16:31.537Z | registry-derived |
 | [oclif](../records/node-js-javascript-oclif-1e846831.md) | 5.0.1 | 2026-09-03T19:41:20.078Z | unverified_seed |
 | [openapi-merge-cli](../records/node-js-javascript-openapi-merge-cli-834fc90c.md) | 2.0.2 | 2026-08-08T02:12:42.793Z | registry-derived |
 | [ora](../records/node-js-javascript-ora-ad5f9a2f.md) | unknown | not_checked | unverified_seed |
@@ -1029,7 +1029,7 @@ Records: `2407`
 | [@launchdarkly/openfeature-node-server](../records/node-js-javascript-launchdarkly-openfeature-node-server-febef595.md) | 2.0.0 | 2026-09-03T17:59:15.784Z | registry-derived |
 | [@launchdarkly/vercel-server-sdk](../records/node-js-javascript-launchdarkly-vercel-server-sdk-18e8bdb3.md) | 1.3.55 | 2026-08-18T19:55:41.397Z | registry-derived |
 | [@lit-labs/ssr-dom-shim](../records/node-js-javascript-lit-labs-ssr-dom-shim-dbd88335.md) | 1.6.0 | 2026-05-14T03:55:57.027Z | registry-derived |
-| [@lvce-editor/server](../records/node-js-javascript-lvce-editor-server-2144b1dd.md) | 0.112.24 | 2026-09-04T00:24:32.237Z | registry-derived |
+| [@lvce-editor/server](../records/node-js-javascript-lvce-editor-server-2144b1dd.md) | 0.112.26 | 2026-09-04T02:03:59.955Z | registry-derived |
 | [@mixmark-io/domino](../records/node-js-javascript-mixmark-io-domino-4b01c450.md) | 2.2.0 | 2024-04-06T21:31:29.908Z | registry-derived |
 | [@molecule/api-database-sqlite](../records/node-js-javascript-molecule-api-database-sqlite-91bd91b1.md) | 1.0.3 | 2026-08-15T04:44:36.606Z | registry-derived |
 | [@nexrender/database-redis](../records/node-js-javascript-nexrender-database-redis-d7ab502c.md) | 1.60.10 | 2025-01-24T12:30:12.941Z | registry-derived |
@@ -1589,7 +1589,7 @@ Records: `2407`
 | [@digitalcredentials/http-client](../records/node-js-javascript-digitalcredentials-http-client-748b2938.md) | 5.0.4 | 2024-09-01T21:50:59.571Z | registry-derived |
 | [@flexbase/http-client-middleware](../records/node-js-javascript-flexbase-http-client-middleware-bc4086d1.md) | 2.0.13 | 2023-10-23T15:45:48.355Z | registry-derived |
 | [@fluidframework/server-services-client](../records/node-js-javascript-fluidframework-server-services-client-fd603803.md) | 7.0.1 | 2026-04-17T22:38:54.870Z | registry-derived |
-| [@gjsify/http](../records/node-js-javascript-gjsify-http-1598f2a7.md) | 0.46.0 | 2026-09-03T09:26:54.985Z | registry-derived |
+| [@gjsify/http](../records/node-js-javascript-gjsify-http-1598f2a7.md) | 0.47.0 | 2026-09-04T00:27:29.648Z | registry-derived |
 | [@google-cloud/logging](../records/node-js-javascript-google-cloud-logging-0415f938.md) | 12.0.1 | 2026-08-12T18:24:28.980Z | npm_registry |
 | [@google-cloud/logging-api](../records/node-js-javascript-google-cloud-logging-api-ce2af288.md) | 0.3.0 | 2026-08-10T17:32:59.810Z | npm_registry |
 | [@google-cloud/logging-min](../records/node-js-javascript-google-cloud-logging-min-531ca996.md) | 11.2.2 | 2026-06-04T21:49:15.742Z | npm_registry |

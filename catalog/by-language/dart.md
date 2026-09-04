@@ -611,7 +611,7 @@ Records: `740`
 | [flutter_displaymode](../records/dart-flutter-displaymode-ceec97ea.md) | 0.7.0 | 2025-09-30T05:36:46.116116Z | registry-derived |
 | [flutter_expandable_fab](../records/dart-flutter-expandable-fab-5b85b63f.md) | 3.0.0 | 2026-08-25T00:03:17.460251Z | registry-derived |
 | [flutter_floating_bottom_bar](../records/dart-flutter-floating-bottom-bar-d416bc9d.md) | 2.1.0 | 2026-08-10T16:21:15.529163Z | registry-derived |
-| [flutter_foreground_task](../records/dart-flutter-foreground-task-0774b21a.md) | 11.0.1 | 2026-08-20T01:25:35.483235Z | registry-derived |
+| [flutter_foreground_task](../records/dart-flutter-foreground-task-0774b21a.md) | 11.0.2 | 2026-09-04T01:29:15.373767Z | registry-derived |
 | [flutter_hooks](../records/dart-flutter-hooks-fffe3680.md) | 0.21.3+1 | 2025-08-19T12:55:32.408022Z | registry-derived |
 | [flutter_launcher_icons](../records/dart-flutter-launcher-icons-016bcb23.md) | 0.14.4 | 2025-06-10T17:43:36.237790Z | registry-derived |
 | [flutter_layout_grid](../records/dart-flutter-layout-grid-23c565b3.md) | 2.0.8 | 2025-04-15T10:07:59.186757Z | registry-derived |

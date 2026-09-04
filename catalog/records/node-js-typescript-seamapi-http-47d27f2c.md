@@ -32,7 +32,7 @@ interface contracts, migration safety, editor feedback, and large-codebase maint
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 2.28.0 | 2026-09-02T08:36:31.014Z | [https://registry.npmjs.org/-/v1/search?text=http&size=250&quality=0.35&popularity=0.45&maintenance=0.20](https://registry.npmjs.org/-/v1/search?text=http&size=250&quality=0.35&popularity=0.45&maintenance=0.20) |  |
+| stable | known | 2.29.0 | 2026-09-04T00:56:43.342Z | [https://registry.npmjs.org/-/v1/search?text=http&size=250&quality=0.35&popularity=0.45&maintenance=0.20](https://registry.npmjs.org/-/v1/search?text=http&size=250&quality=0.35&popularity=0.45&maintenance=0.20) |  |
 | preview/nightly | unknown |  |  | unknown | npm_search_does_not_include_dist_tags |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ interface contracts, migration safety, editor feedback, and large-codebase maint
 
 - Treat category as `type_checker` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=http&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-02T10:20:56+00:00`.
+- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=http&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-04T02:18:58+00:00`.
 - Preview/nightly metadata is unknown because `npm_search_does_not_include_dist_tags`.
 
 ## Provenance

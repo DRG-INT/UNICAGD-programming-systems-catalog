@@ -32,7 +32,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 1.13.0 | 2026-09-03T21:13:39.500112Z | [https://crates.io/api/v1/crates?page=2&per_page=100&sort=downloads](https://crates.io/api/v1/crates?page=2&per_page=100&sort=downloads) |  |
+| stable | known | 1.13.1 | 2026-09-04T01:26:57.203733Z | [https://crates.io/api/v1/crates?page=2&per_page=100&sort=downloads](https://crates.io/api/v1/crates?page=2&per_page=100&sort=downloads) |  |
 | preview/nightly | unknown |  |  | unknown | crates_io_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 - Treat category as `ide_editor_integration` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://crates.io/api/v1/crates?page=2&per_page=100&sort=downloads` at `2026-09-03T21:18:31+00:00`.
+- Latest stable metadata was observed from `https://crates.io/api/v1/crates?page=2&per_page=100&sort=downloads` at `2026-09-04T02:18:54+00:00`.
 - Preview/nightly metadata is unknown because `crates_io_has_no_standard_nightly_channel`.
 
 ## Provenance

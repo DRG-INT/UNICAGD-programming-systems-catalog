@@ -32,7 +32,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 11.0.1 | 2026-08-20T01:25:35.483235Z | [https://pub.dev/api/packages/flutter_foreground_task](https://pub.dev/api/packages/flutter_foreground_task) |  |
+| stable | known | 11.0.2 | 2026-09-04T01:29:15.373767Z | [https://pub.dev/api/packages/flutter_foreground_task](https://pub.dev/api/packages/flutter_foreground_task) |  |
 | preview/nightly | unknown |  |  | unknown | pub_dev_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 - Treat category as `library` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pub.dev/api/packages/flutter_foreground_task` at `2026-09-01T14:20:34+00:00`.
+- Latest stable metadata was observed from `https://pub.dev/api/packages/flutter_foreground_task` at `2026-09-04T02:19:13+00:00`.
 - Preview/nightly metadata is unknown because `pub_dev_has_no_standard_nightly_channel`.
 
 ## Provenance

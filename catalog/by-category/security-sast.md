@@ -396,14 +396,14 @@ Records: `333`
 | --- | --- | --- | --- |
 | atg-testing/demo-webui-auditing | partial | 2026-07-31T17:58:33Z | [open](../records/repertoare-catalogs-atg-testing-demo-webui-auditing-9930b626.md) |
 | commerce-agentic/agentic-commerce-tools | partial | 2026-05-10T23:31:54Z | [open](../records/repertoare-catalogs-commerce-agentic-agentic-commerce-tools-a3e081f4.md) |
-| earbona23/entra-privilege-auditor | partial | 2026-09-01T21:04:20Z | [open](../records/repertoare-catalogs-earbona23-entra-privilege-auditor-08c52285.md) |
+| earbona23/entra-privilege-auditor | partial | 2026-09-03T15:27:14Z | [open](../records/repertoare-catalogs-earbona23-entra-privilege-auditor-08c52285.md) |
 | thinkchainai/vulnerability-intelligence-mcp | partial | 2026-04-08T10:34:10Z | [open](../records/repertoare-catalogs-thinkchainai-vulnerability-intelligence-mcp-73826286.md) |
 
 ## Catalogs
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| lakekeeper/lakekeeper | partial | 2026-09-03T07:00:20Z | [open](../records/catalogs-lakekeeper-lakekeeper-47299c16.md) |
+| lakekeeper/lakekeeper | partial | 2026-09-03T20:48:03Z | [open](../records/catalogs-lakekeeper-lakekeeper-47299c16.md) |
 | OpenSSF Scorecard | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-openssf-scorecard-808ecb37.md) |
 
 ## Magazines

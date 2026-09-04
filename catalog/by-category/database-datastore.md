@@ -481,7 +481,7 @@ Records: `837`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ens-lgil/PGS_Catalog_deprecated | partial | 2025-11-18T16:51:23Z | [open](../records/repertoare-catalogs-ens-lgil-pgs-catalog-deprecated-88d51e98.md) |
-| PGScatalog/PGS_Catalog | partial | 2026-09-01T22:27:12Z | [open](../records/repertoare-catalogs-pgscatalog-pgs-catalog-ee188ec5.md) |
+| PGScatalog/PGS_Catalog | partial | 2026-09-03T15:07:53Z | [open](../records/repertoare-catalogs-pgscatalog-pgs-catalog-ee188ec5.md) |
 
 ## Magazines
 
@@ -677,7 +677,7 @@ Records: `837`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | gluesql/gluesql | partial | 2026-09-01T12:56:32Z | [open](../records/webassembly-gluesql-gluesql-a50e8231.md) |
-| liam-hq/liam | partial | 2026-09-03T13:13:58Z | [open](../records/webassembly-liam-hq-liam-467de678.md) |
+| liam-hq/liam | partial | 2026-09-04T00:32:24Z | [open](../records/webassembly-liam-hq-liam-467de678.md) |
 | tursodatabase/libsql | partial | 2026-08-26T19:32:13Z | [open](../records/webassembly-tursodatabase-libsql-4c64b1cc.md) |
 
 ## SAPJava

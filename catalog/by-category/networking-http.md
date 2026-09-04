@@ -270,7 +270,7 @@ Records: `972`
 | @digitalcredentials/http-client | 5.0.4 | 2024-09-01T21:50:59.571Z | [open](../records/node-js-javascript-digitalcredentials-http-client-748b2938.md) |
 | @flexbase/http-client-middleware | 2.0.13 | 2023-10-23T15:45:48.355Z | [open](../records/node-js-javascript-flexbase-http-client-middleware-bc4086d1.md) |
 | @fluidframework/server-services-client | 7.0.1 | 2026-04-17T22:38:54.870Z | [open](../records/node-js-javascript-fluidframework-server-services-client-fd603803.md) |
-| @gjsify/http | 0.46.0 | 2026-09-03T09:26:54.985Z | [open](../records/node-js-javascript-gjsify-http-1598f2a7.md) |
+| @gjsify/http | 0.47.0 | 2026-09-04T00:27:29.648Z | [open](../records/node-js-javascript-gjsify-http-1598f2a7.md) |
 | @google-cloud/logging | 12.0.1 | 2026-08-12T18:24:28.980Z | [open](../records/node-js-javascript-google-cloud-logging-0415f938.md) |
 | @google-cloud/logging-api | 0.3.0 | 2026-08-10T17:32:59.810Z | [open](../records/node-js-javascript-google-cloud-logging-api-ce2af288.md) |
 | @google-cloud/logging-min | 11.2.2 | 2026-06-04T21:49:15.742Z | [open](../records/node-js-javascript-google-cloud-logging-min-531ca996.md) |
@@ -688,7 +688,7 @@ Records: `972`
 | wai-websockets | 3.0.1.2 | 2018-03-19T12:32:07Z | [open](../records/haskell-wai-websockets-3782ed20.md) |
 | websockets | 0.13.0.0 | 2023-12-30T08:15:48Z | [open](../records/haskell-websockets-dd52de9c.md) |
 | websockets-snap | 0.10.3.1 | 2019-05-06T11:31:08Z | [open](../records/haskell-websockets-snap-116972ec.md) |
-| yesod-websockets | 0.3.0.4 | 2026-06-17T16:53:04Z | [open](../records/haskell-yesod-websockets-96029917.md) |
+| yesod-websockets | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yesod-websockets-96029917.md) |
 
 ## Octave
 

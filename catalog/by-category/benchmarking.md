@@ -142,7 +142,7 @@ Records: `166`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| milvus-io/milvus | partial | 2026-09-03T23:59:30Z | [open](../records/aim-s-milvus-io-milvus-54ee327d.md) |
+| milvus-io/milvus | partial | 2026-09-04T02:19:16Z | [open](../records/aim-s-milvus-io-milvus-54ee327d.md) |
 
 ## Font Briefcase
 

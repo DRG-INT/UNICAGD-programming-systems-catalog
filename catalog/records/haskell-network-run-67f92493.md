@@ -21,7 +21,7 @@
 
 ## System Engineer Summary
 
-Hackage package with 56 recent downloads in the Hackage top-downloads listing.
+Hackage package with 52 recent downloads in the Hackage top-downloads listing.
 
 ## Operational Role
 
@@ -57,7 +57,7 @@ communication, clients/servers, protocol handling, and edge integration.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| hackage_top_downloads | registry-derived | 2026-09-03 | `{"kind": "hackage_top_downloads", "retrieved": "2026-09-03", "status": "registry-derived"}` |
+| hackage_top_downloads | registry-derived | 2026-09-04 | `{"kind": "hackage_top_downloads", "retrieved": "2026-09-04", "status": "registry-derived"}` |
 
 </details>
 

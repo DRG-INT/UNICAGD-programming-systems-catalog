@@ -93,7 +93,7 @@ Records: `132`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [ens-lgil/PGS_Catalog_deprecated](../records/repertoare-catalogs-ens-lgil-pgs-catalog-deprecated-88d51e98.md) | partial | 2025-11-18T16:51:23Z | registry-derived |
-| [PGScatalog/PGS_Catalog](../records/repertoare-catalogs-pgscatalog-pgs-catalog-ee188ec5.md) | partial | 2026-09-01T22:27:12Z | registry-derived |
+| [PGScatalog/PGS_Catalog](../records/repertoare-catalogs-pgscatalog-pgs-catalog-ee188ec5.md) | partial | 2026-09-03T15:07:53Z | registry-derived |
 
 ### Dependency Manager
 
@@ -115,7 +115,7 @@ Records: `132`
 | --- | --- | --- | --- |
 | [abhiramAjay/Self-Healing-Repertoire-Engine](../records/repertoare-catalogs-abhiramajay-self-healing-repertoire-engine-afff2269.md) | partial | 2026-02-05T07:43:18Z | registry-derived |
 | [gastroph/Rock-Band-DLC---Leaderboards-App-for-Android](../records/repertoare-catalogs-gastroph-rock-band-dlc-leaderboards-app-for-android-35abaa1b.md) | partial | 2010-04-16T20:13:37Z | registry-derived |
-| [heylabs-co/dev-tools-portal](../records/repertoare-catalogs-heylabs-co-dev-tools-portal-7c271bc4.md) | partial | 2026-09-03T02:18:35Z | registry-derived |
+| [heylabs-co/dev-tools-portal](../records/repertoare-catalogs-heylabs-co-dev-tools-portal-7c271bc4.md) | partial | 2026-09-04T02:12:19Z | registry-derived |
 | [jasondentler/wild-catalog](../records/repertoare-catalogs-jasondentler-wild-catalog-f314f00b.md) | partial | 2026-07-05T03:54:55Z | registry-derived |
 | [punyamodi/catalog-quality-scorer](../records/repertoare-catalogs-punyamodi-catalog-quality-scorer-78773128.md) | partial | 2026-03-01T21:50:40Z | registry-derived |
 | [pythymcpyface/lichess-analyser](../records/repertoare-catalogs-pythymcpyface-lichess-analyser-18beb8d5.md) | partial | 2025-12-03T15:58:08Z | registry-derived |
@@ -156,7 +156,7 @@ Records: `132`
 | [adityacodes30/catalog-scoring-ondc](../records/repertoare-catalogs-adityacodes30-catalog-scoring-ondc-eed2618c.md) | partial | 2024-06-23T17:33:29Z | registry-derived |
 | [AdityaLad2004/Catalog-Score](../records/repertoare-catalogs-adityalad2004-catalog-score-1c228719.md) | partial | 2024-02-10T18:28:30Z | registry-derived |
 | [alphaparkinc/genpark-catalog-enrichment-skill](../records/repertoare-catalogs-alphaparkinc-genpark-catalog-enrichment-skill-9442da58.md) | partial | 2026-07-10T05:51:52Z | registry-derived |
-| [Arnon-hs/open-source](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) | partial | 2026-09-03T05:16:17Z | registry-derived |
+| [Arnon-hs/open-source](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) | partial | 2026-09-04T02:10:44Z | registry-derived |
 | [CHagarty/scorecard-catalogue](../records/repertoare-catalogs-chagarty-scorecard-catalogue-ac87b7bd.md) | partial | 2025-07-11T00:33:16Z | registry-derived |
 | [Chistera-Scoring/services-catalog](../records/repertoare-catalogs-chistera-scoring-services-catalog-59fbb312.md) | partial | 2023-11-27T10:50:20Z | registry-derived |
 | [Eswaraiahsapram/scorecard-catalog](../records/repertoare-catalogs-eswaraiahsapram-scorecard-catalog-92541430.md) | partial | 2025-09-02T05:54:30Z | registry-derived |
@@ -198,7 +198,7 @@ Records: `132`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [forbiddenlink/trace](../records/repertoare-catalogs-forbiddenlink-trace-81d4917b.md) | partial | 2026-09-02T22:08:20Z | registry-derived |
+| [forbiddenlink/trace](../records/repertoare-catalogs-forbiddenlink-trace-81d4917b.md) | partial | 2026-09-04T01:47:20Z | registry-derived |
 
 ### Project Scaffolding
 
@@ -225,7 +225,7 @@ Records: `132`
 | --- | --- | --- | --- |
 | [atg-testing/demo-webui-auditing](../records/repertoare-catalogs-atg-testing-demo-webui-auditing-9930b626.md) | partial | 2026-07-31T17:58:33Z | registry-derived |
 | [commerce-agentic/agentic-commerce-tools](../records/repertoare-catalogs-commerce-agentic-agentic-commerce-tools-a3e081f4.md) | partial | 2026-05-10T23:31:54Z | registry-derived |
-| [earbona23/entra-privilege-auditor](../records/repertoare-catalogs-earbona23-entra-privilege-auditor-08c52285.md) | partial | 2026-09-01T21:04:20Z | registry-derived |
+| [earbona23/entra-privilege-auditor](../records/repertoare-catalogs-earbona23-entra-privilege-auditor-08c52285.md) | partial | 2026-09-03T15:27:14Z | registry-derived |
 | [thinkchainai/vulnerability-intelligence-mcp](../records/repertoare-catalogs-thinkchainai-vulnerability-intelligence-mcp-73826286.md) | partial | 2026-04-08T10:34:10Z | registry-derived |
 
 ### Serialization
@@ -239,7 +239,7 @@ Records: `132`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [Agam3108/Catalogue-Scanning-App](../records/repertoare-catalogs-agam3108-catalogue-scanning-app-ae967b87.md) | partial | 2024-03-23T09:53:13Z | registry-derived |
-| [glitchwerks/claude-wayfinder](../records/repertoare-catalogs-glitchwerks-claude-wayfinder-f0e59761.md) | partial | 2026-09-03T03:02:03Z | registry-derived |
+| [glitchwerks/claude-wayfinder](../records/repertoare-catalogs-glitchwerks-claude-wayfinder-f0e59761.md) | partial | 2026-09-04T00:26:04Z | registry-derived |
 | [jayesh265/classifying_songs_based_on_audio_data](../records/repertoare-catalogs-jayesh265-classifying-songs-based-on-audio-data-c26a05ff.md) | partial | 2020-03-17T05:32:14Z | registry-derived |
 | [johnvteixido/etherlens](../records/repertoare-catalogs-johnvteixido-etherlens-c7b3a681.md) | partial | 2026-06-12T21:21:22Z | registry-derived |
 | [Jue12138/RepertoireAnalysis](../records/repertoare-catalogs-jue12138-repertoireanalysis-a7c7d63d.md) | partial | 2023-09-20T18:13:50Z | registry-derived |

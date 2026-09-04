@@ -33,7 +33,7 @@ as part of service communication, clients/servers, protocol handling, and edge i
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2024-08-29T19:59:17Z | gh search repos "Radio Garden" | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2024-08-29T19:59:17Z | gh search repos "Radio Garden" API | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -58,7 +58,7 @@ as part of service communication, clients/servers, protocol handling, and edge i
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-03 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "\"Radio Garden\"", "retrieved": "2026-09-03", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-04 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "\"Radio Garden\" API", "retrieved": "2026-09-04", "status": "forge-cli-derived"}` |
 
 </details>
 
