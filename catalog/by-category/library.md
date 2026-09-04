@@ -1,6 +1,6 @@
 # Library
 
-Records: `5264`
+Records: `5284`
 
 ## Navigation
 
@@ -11,20 +11,20 @@ Records: `5264`
 [Api Abi Checker (205)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
 [Benchmarking (166)](benchmarking.md) · [Build System (920)](build-system.md) · [Cli (539)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (99)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
-[Concurrency Parallelism (79)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (835)](database-datastore.md) · [Datetime (187)](datetime.md)
+[Concurrency Parallelism (80)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (837)](database-datastore.md) · [Datetime (187)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (98)](documentation.md)
-[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (406)](ffi-bindings.md) · [Filesystem Os (1394)](filesystem-os.md) · [Formatter (612)](formatter.md)
+[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (406)](ffi-bindings.md) · [Filesystem Os (1394)](filesystem-os.md) · [Formatter (613)](formatter.md)
 [Framework (54)](framework.md) · [Fuzzer (54)](fuzzer.md) · [Game Engine Game Dev (173)](game-engine-game-dev.md) · [Ide Editor Integration (1334)](ide-editor-integration.md)
 [Image Audio Dsp (391)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (253)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1380)](language-specification.md) · **[Library (5264)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1380)](language-specification.md) · **[Library (5284)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (483)](logging-observability.md) · [Machine Learning (661)](machine-learning.md)
 [Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (972)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (420)](package-manager.md) · [Parser Lexer Ast (1022)](parser-lexer-ast.md) · [Precommit Ci Quality (283)](precommit-ci-quality.md)
 [Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (333)](security-sast.md) · [Serialization (382)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (497)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (520)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (300)](type-checker.md)
-[Undefined Behavior Analyzer (1506)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (473)](visualization-gui.md) · [Web Framework (453)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (521)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (300)](type-checker.md)
+[Undefined Behavior Analyzer (1506)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (476)](visualization-gui.md) · [Web Framework (453)](web-framework.md)
 
 ## C99
 
@@ -2930,7 +2930,7 @@ Records: `5264`
 | SujathaDist | 1.0.0 | 2026-09-03 12:20:16 UTC | [open](../records/r-sujathadist-0c1fecd7.md) |
 | sundialr | 0.2.0 | 2026-08-07 13:20:02 UTC | [open](../records/r-sundialr-a226cc23.md) |
 | SuperLearner | 2.0-41 | 2026-08-21 22:40:02 UTC | [open](../records/r-superlearner-1dbd87f3.md) |
-| surveyframe | 0.4.0 | 2026-08-20 23:20:02 UTC | [open](../records/r-surveyframe-0f4b4608.md) |
+| surveyframe | 0.4.1 | 2026-09-03 22:20:02 UTC | [open](../records/r-surveyframe-0f4b4608.md) |
 | svines | 0.3.0 | 2026-08-31 21:50:08 UTC | [open](../records/r-svines-33b4b959.md) |
 | swelex | 0.1.0 | 2026-08-07 17:10:02 UTC | [open](../records/r-swelex-0df3677d.md) |
 | targeted | 0.9.0 | 2026-08-21 09:50:02 UTC | [open](../records/r-targeted-461a4a21.md) |
@@ -3000,6 +3000,7 @@ Records: `5264`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | A-gent | 0.11.0.19 | 2026-07-11T11:49:32Z | [open](../records/haskell-a-gent-d1551d70.md) |
+| ac-library-hs | 1.5.3.2 | 2026-04-11T17:37:03Z | [open](../records/haskell-ac-library-hs-20ecc88f.md) |
 | accelerate | 1.4.0.0 | 2026-04-02T16:43:06Z | [open](../records/haskell-accelerate-62d57afc.md) |
 | active | 0.2.1.1 | 2026-04-20T17:27:54Z | [open](../records/haskell-active-cffafa52.md) |
 | ad | 4.5.6 | 2024-05-01T12:25:29Z | [open](../records/haskell-ad-e7ef2c59.md) |
@@ -3087,6 +3088,7 @@ Records: `5264`
 | base-orphans | 0.9.4 | 2026-01-10T15:53:26Z | [open](../records/haskell-base-orphans-9cdac570.md) |
 | base-prelude | 1.6.1.1 | 2023-10-11T15:59:16Z | [open](../records/haskell-base-prelude-683a3f63.md) |
 | basement | 0.0.16 | 2023-06-14T02:42:03Z | [open](../records/haskell-basement-3a9c0a30.md) |
+| basic-prelude | 0.7.0 | 2017-12-05T04:23:56Z | [open](../records/haskell-basic-prelude-03f34c32.md) |
 | beam-core | 0.11.1.0 | 2026-05-13T22:18:06Z | [open](../records/haskell-beam-core-9d0cea90.md) |
 | beam-migrate | 0.6.0.0 | 2026-04-28T14:37:07Z | [open](../records/haskell-beam-migrate-7129bc9a.md) |
 | bearriver | 0.15 | 2025-02-28T07:07:46Z | [open](../records/haskell-bearriver-604514fa.md) |
@@ -3098,6 +3100,7 @@ Records: `5264`
 | biohazard | 2.1 | 2020-01-06T17:02:26Z | [open](../records/haskell-biohazard-34b2386e.md) |
 | bitvec | 1.1.6.0 | 2026-02-18T00:32:25Z | [open](../records/haskell-bitvec-c127ca2f.md) |
 | bizzlelude | 4.20.2.0.3 | 2026-05-30T16:11:33Z | [open](../records/haskell-bizzlelude-9ea496ee.md) |
+| blaze-markup | 0.8.3.0 | 2023-09-25T11:44:33Z | [open](../records/haskell-blaze-markup-da32088e.md) |
 | bloodhound | 1.0.0.0 | 2026-06-30T19:19:52Z | [open](../records/haskell-bloodhound-7be19373.md) |
 | bloomfilter | 2.0.1.3 | 2025-11-18T20:04:22Z | [open](../records/haskell-bloomfilter-eeab4c8f.md) |
 | bluefin | 0.7.0.1 | 2026-07-19T17:55:13Z | [open](../records/haskell-bluefin-ca9dd322.md) |
@@ -3112,9 +3115,11 @@ Records: `5264`
 | brittany | 0.14.0.2 | 2022-01-13T14:45:22Z | [open](../records/haskell-brittany-98f0dfd2.md) |
 | bson | 0.4.0.1 | 2020-03-23T04:35:32Z | [open](../records/haskell-bson-4493f8c6.md) |
 | burrito | 2.0.1.17 | 2026-05-22T14:54:21Z | [open](../records/haskell-burrito-8d6df455.md) |
+| butcher | 1.3.3.2 | 2020-06-10T20:03:13Z | [open](../records/haskell-butcher-ceb9004a.md) |
 | bytes | 0.17.5 | 2026-01-10T15:48:41Z | [open](../records/haskell-bytes-8cec052e.md) |
 | cab | 0.2.22 | 2025-08-06T07:09:49Z | [open](../records/haskell-cab-610627dc.md) |
 | Cabal | 3.18.1.0 | 2026-08-13T22:21:43Z | [open](../records/haskell-cabal-c8624143.md) |
+| cabal-add | 0.2.0.1 | 2026-09-03T22:30:38Z | [open](../records/haskell-cabal-add-666244f2.md) |
 | cabal-bounds | 2.7.0 | 2025-09-22T16:04:56Z | [open](../records/haskell-cabal-bounds-92141946.md) |
 | cabal-cache | 1.2.0.0 | 2025-01-22T11:55:11Z | [open](../records/haskell-cabal-cache-d889637c.md) |
 | cabal-cargs | 1.8.0 | 2025-09-22T16:00:10Z | [open](../records/haskell-cabal-cargs-54b4f917.md) |
@@ -3186,6 +3191,7 @@ Records: `5264`
 | copilot-libraries | 4.8 | 2026-07-08T14:00:52Z | [open](../records/haskell-copilot-libraries-cdc14724.md) |
 | core-data | 0.3.9.1 | 2023-04-04T06:04:53Z | [open](../records/haskell-core-data-3284e782.md) |
 | core-program | 0.7.0.0 | 2023-10-13T04:33:22Z | [open](../records/haskell-core-program-4a8c3d7c.md) |
+| core-text | 0.3.8.1 | 2023-02-27T10:31:17Z | [open](../records/haskell-core-text-2413b5d5.md) |
 | cpphs | 1.20.10 | 2025-09-14T15:58:20Z | [open](../records/haskell-cpphs-1be24a06.md) |
 | cprng-aes | 0.6.1 | 2014-11-13T11:27:54Z | [open](../records/haskell-cprng-aes-172f6cb2.md) |
 | cpsa | 4.4.9 | 2026-05-24T16:08:07Z | [open](../records/haskell-cpsa-da4ce3e7.md) |
@@ -3223,6 +3229,7 @@ Records: `5264`
 | dimensional | 1.6.2 | 2026-01-01T18:04:42Z | [open](../records/haskell-dimensional-a93be405.md) |
 | discord-haskell | 1.19.0 | 2026-07-06T21:00:35Z | [open](../records/haskell-discord-haskell-19dfcfb7.md) |
 | distributed-process | 0.7.8 | 2025-02-05T01:53:43Z | [open](../records/haskell-distributed-process-1762df0a.md) |
+| distributed-process-p2p | 0.1.6.0 | 2026-07-02T15:52:23Z | [open](../records/haskell-distributed-process-p2p-0ede5648.md) |
 | distributed-process-simplelocalnet | 0.3.3 | 2025-02-05T01:53:45Z | [open](../records/haskell-distributed-process-simplelocalnet-707dfed7.md) |
 | distributed-static | 0.3.11 | 2024-09-03T15:09:30Z | [open](../records/haskell-distributed-static-5ddc37a6.md) |
 | distributive | 0.6.3 | 2026-01-10T16:18:39Z | [open](../records/haskell-distributive-726c611e.md) |
@@ -3426,7 +3433,7 @@ Records: `5264`
 | holeyexp | 0.3.0.0 | 2026-09-02T19:43:01Z | [open](../records/haskell-holeyexp-db5dc519.md) |
 | hoogle | 5.0.19.0 | 2026-01-19T20:38:58Z | [open](../records/haskell-hoogle-972b6dba.md) |
 | hoopl | 3.10.2.2 | 2017-10-29T03:38:52Z | [open](../records/haskell-hoopl-0b4ca46a.md) |
-| hOpenPGP | 3.6.5 | 2026-09-03T17:12:47Z | [open](../records/haskell-hopenpgp-dbd93565.md) |
+| hOpenPGP | 3.6.6 | 2026-09-03T23:29:05Z | [open](../records/haskell-hopenpgp-dbd93565.md) |
 | hopenpgp-tools | 0.25.12 | 2026-09-03T02:29:55Z | [open](../records/haskell-hopenpgp-tools-39a59dde.md) |
 | hourglass | 0.2.12 | 2018-08-24T19:46:48Z | [open](../records/haskell-hourglass-ed0a22e4.md) |
 | hpack | 0.39.6 | 2026-06-06T21:52:03Z | [open](../records/haskell-hpack-d2b641d5.md) |
@@ -3527,6 +3534,7 @@ Records: `5264`
 | lzlib | 1.0.7.5 | 2026-03-14T12:21:33Z | [open](../records/haskell-lzlib-022a262b.md) |
 | machines | 0.7.4 | 2025-03-03T12:13:30Z | [open](../records/haskell-machines-a3187825.md) |
 | madlang | 4.0.2.16 | 2019-11-09T00:45:10Z | [open](../records/haskell-madlang-09c94135.md) |
+| managed | 1.0.11 | 2025-11-18T03:07:13Z | [open](../records/haskell-managed-b5adba5a.md) |
 | mandrill | 0.5.8.0 | 2025-03-11T09:47:37Z | [open](../records/haskell-mandrill-5ff7f73a.md) |
 | manifolds | 0.6.1.0 | 2023-07-04T09:34:42Z | [open](../records/haskell-manifolds-162a5536.md) |
 | markdown | 0.1.17.5 | 2021-09-29T05:41:04Z | [open](../records/haskell-markdown-00ee757a.md) |
@@ -3572,6 +3580,7 @@ Records: `5264`
 | mwc-random | 0.15.3.0 | 2025-12-30T11:17:36Z | [open](../records/haskell-mwc-random-fcfaa142.md) |
 | nemesis | 2018.1.27 | 2018-01-27T11:44:41Z | [open](../records/haskell-nemesis-4b60e676.md) |
 | nested-routes | 10.0.0 | 2023-09-28T09:49:59Z | [open](../records/haskell-nested-routes-c32c02cd.md) |
+| netwire | 5.0.3 | 2018-03-25T02:36:57Z | [open](../records/haskell-netwire-fd43d76a.md) |
 | ngx-export | 1.7.11.1 | 2026-03-25T17:38:23Z | [open](../records/haskell-ngx-export-831521cb.md) |
 | ngx-export-tools | 1.2.6.3 | 2026-02-25T09:38:21Z | [open](../records/haskell-ngx-export-tools-2d83bbc7.md) |
 | ngx-export-tools-extra | 1.2.13.1 | 2026-05-10T10:49:25Z | [open](../records/haskell-ngx-export-tools-extra-c7c23b69.md) |
@@ -3581,6 +3590,7 @@ Records: `5264`
 | nova-nix | 0.6.0.0 | 2026-06-13T01:33:21Z | [open](../records/haskell-nova-nix-af130549.md) |
 | numhask | 0.13.3.0 | 2026-07-10T22:40:10Z | [open](../records/haskell-numhask-7a3f56f0.md) |
 | numhask-space | 0.13.3.0 | 2026-07-10T22:50:59Z | [open](../records/haskell-numhask-space-406df2d9.md) |
+| o-clock | 1.4.0.1 | 2025-01-22T22:14:20Z | [open](../records/haskell-o-clock-f890769a.md) |
 | octane | 0.20.3 | 2017-10-24T13:56:12Z | [open](../records/haskell-octane-e0373ee1.md) |
 | oeis | 0.3.10.2 | 2026-03-15T16:45:35Z | [open](../records/haskell-oeis-6573c6d5.md) |
 | one-liner | 2.1.1 | 2026-01-06T16:00:46Z | [open](../records/haskell-one-liner-410c9444.md) |
@@ -3598,6 +3608,7 @@ Records: `5264`
 | pantry | 0.11.4 | 2026-07-07T13:34:13Z | [open](../records/haskell-pantry-e52f0809.md) |
 | parconc-examples | 0.4.8 | 2021-04-02T11:31:32Z | [open](../records/haskell-parconc-examples-cce2e419.md) |
 | parsec | 3.1.18.0 | 2025-01-05T00:08:05Z | [open](../records/haskell-parsec-f2ad9855.md) |
+| parsley-core | 2.3.0.0 | 2023-08-20T08:45:40Z | [open](../records/haskell-parsley-core-2f9ffbd4.md) |
 | password | 3.1.1.0 | 2026-05-03T13:15:24Z | [open](../records/haskell-password-cf3b82cc.md) |
 | patat | 0.15.2.0 | 2025-08-06T18:33:40Z | [open](../records/haskell-patat-6113d654.md) |
 | peg-matching | 0.1.0.0 | 2026-09-01T20:20:18Z | [open](../records/haskell-peg-matching-8b470238.md) |
@@ -3634,10 +3645,12 @@ Records: `5264`
 | profiteur | 0.4.7.1 | 2026-01-20T11:47:28Z | [open](../records/haskell-profiteur-df91a9ef.md) |
 | profunctor-extras | 4.0 | 2013-10-13T22:14:17Z | [open](../records/haskell-profunctor-extras-f001b05a.md) |
 | profunctors | 5.6.3 | 2025-06-17T11:50:52Z | [open](../records/haskell-profunctors-04d76be5.md) |
+| project-m36 | 1.2.6 | 2026-03-04T03:06:00Z | [open](../records/haskell-project-m36-5713832f.md) |
 | prolude | 0.0.0.30 | 2023-01-26T14:36:53Z | [open](../records/haskell-prolude-44e1e2b5.md) |
 | prometheus | 2.3.1 | 2026-06-25T15:20:23Z | [open](../records/haskell-prometheus-116e37de.md) |
 | propellor | 5.18 | 2025-08-10T15:28:22Z | [open](../records/haskell-propellor-57a46868.md) |
 | proto-lens | 0.7.1.7 | 2026-04-16T04:41:03Z | [open](../records/haskell-proto-lens-5ee348e7.md) |
+| proto-lens-protoc | 0.9.0.1 | 2026-04-16T04:41:44Z | [open](../records/haskell-proto-lens-protoc-7bae8155.md) |
 | proto3-wire | 1.5.0 | 2026-05-18T18:54:06Z | [open](../records/haskell-proto3-wire-881935ae.md) |
 | protocol-buffers | 2.4.17 | 2020-11-05T20:59:18Z | [open](../records/haskell-protocol-buffers-7819b26d.md) |
 | protocol-buffers-descriptor | 2.4.17 | 2020-11-05T20:59:50Z | [open](../records/haskell-protocol-buffers-descriptor-e1b12908.md) |
@@ -3682,6 +3695,7 @@ Records: `5264`
 | rest-core | 0.39.0.2 | 2018-04-03T21:49:22Z | [open](../records/haskell-rest-core-a6339c70.md) |
 | rest-gen | 0.20.0.3 | 2018-04-03T21:49:31Z | [open](../records/haskell-rest-gen-2d1c5271.md) |
 | rest-snap | 0.3.0.0 | 2017-10-31T18:55:16Z | [open](../records/haskell-rest-snap-89a5c103.md) |
+| rethinkdb | 2.2.0.10 | 2017-05-11T14:30:48Z | [open](../records/haskell-rethinkdb-db95a433.md) |
 | retry | 0.9.3.1 | 2023-04-17T20:14:22Z | [open](../records/haskell-retry-e8e435e8.md) |
 | rhine | 1.8 | 2026-06-07T22:07:57Z | [open](../records/haskell-rhine-8fecfcf4.md) |
 | riak | 1.2.0.0 | 2021-06-16T07:56:07Z | [open](../records/haskell-riak-4c3d5408.md) |
@@ -3716,6 +3730,7 @@ Records: `5264`
 | servant-blaze | 0.9.1 | 2020-11-04T11:26:14Z | [open](../records/haskell-servant-blaze-48328029.md) |
 | servant-ede | 1.0.0.0 | 2026-09-02T19:18:40Z | [open](../records/haskell-servant-ede-265a6dc2.md) |
 | servant-elm | 0.7.3 | 2023-02-12T06:31:42Z | [open](../records/haskell-servant-elm-596544aa.md) |
+| sets | 0.0.6.2 | 2019-10-27T17:59:41Z | [open](../records/haskell-sets-7d90dd02.md) |
 | SHA | 1.6.4.4 | 2018-03-15T00:38:32Z | [open](../records/haskell-sha-38998535.md) |
 | shake | 0.19.9 | 2026-01-19T17:03:27Z | [open](../records/haskell-shake-1f9ea40e.md) |
 | shake-ats | 1.10.4.2 | 2020-07-24T02:34:25Z | [open](../records/haskell-shake-ats-a19a0c50.md) |
@@ -3782,6 +3797,7 @@ Records: `5264`
 | tagged | 0.8.10 | 2025-12-08T00:55:42Z | [open](../records/haskell-tagged-7a3ae623.md) |
 | tagsoup | 0.14.8 | 2019-05-01T19:45:41Z | [open](../records/haskell-tagsoup-2c416a3f.md) |
 | tar | 0.7.2.0 | 2026-07-15T23:37:24Z | [open](../records/haskell-tar-bd80c421.md) |
+| taskwarrior | 0.6.0.8 | 2026-07-02T11:20:21Z | [open](../records/haskell-taskwarrior-3e7b2f29.md) |
 | TCache | 0.13.3 | 2023-02-12T19:41:50Z | [open](../records/haskell-tcache-fc361faa.md) |
 | tellbot | 0.6.1 | 2016-05-25T11:54:48Z | [open](../records/haskell-tellbot-faea47ed.md) |
 | temporary | 1.3 | 2018-04-10T14:21:43Z | [open](../records/haskell-temporary-2fe686b0.md) |
@@ -3792,6 +3808,7 @@ Records: `5264`
 | text-show-instances | 3.9.11 | 2026-06-19T22:10:24Z | [open](../records/haskell-text-show-instances-1ae35ee8.md) |
 | tfp | 1.0.2 | 2021-03-14T21:11:46Z | [open](../records/haskell-tfp-9732cbc7.md) |
 | th-abstraction | 0.7.2.0 | 2026-01-03T14:49:08Z | [open](../records/haskell-th-abstraction-d36f6793.md) |
+| th-desugar | 1.19 | 2026-01-10T23:54:10Z | [open](../records/haskell-th-desugar-d7a86de4.md) |
 | th-lift | 0.8.7 | 2026-01-04T01:10:10Z | [open](../records/haskell-th-lift-d79afb04.md) |
 | th-lift-instances | 0.1.20 | 2022-08-23T09:45:53Z | [open](../records/haskell-th-lift-instances-72a519d5.md) |
 | th-orphans | 0.13.17 | 2026-01-10T14:46:01Z | [open](../records/haskell-th-orphans-d73261bc.md) |
@@ -3799,6 +3816,7 @@ Records: `5264`
 | thyme | 0.4.1 | 2024-12-18T15:28:55Z | [open](../records/haskell-thyme-cdcbe3fa.md) |
 | tidal | 1.10.3 | 2026-07-02T06:32:12Z | [open](../records/haskell-tidal-bf389861.md) |
 | tlynx | 0.9.0.0 | 2025-08-11T07:21:55Z | [open](../records/haskell-tlynx-f5f96866.md) |
+| tmp-proc | 0.7.2.7 | 2026-06-21T11:32:46Z | [open](../records/haskell-tmp-proc-81eacaa2.md) |
 | tools-yj | 0.1.0.45 | 2025-06-24T01:33:53Z | [open](../records/haskell-tools-yj-fc25263a.md) |
 | toysolver | 0.10.0 | 2026-07-20T23:56:56Z | [open](../records/haskell-toysolver-f3289a91.md) |
 | transformers | 0.6.3.0 | 2026-01-12T12:42:54Z | [open](../records/haskell-transformers-17647c94.md) |
@@ -3811,6 +3829,7 @@ Records: `5264`
 | ttc | 1.5.0.1 | 2026-01-10T10:29:39Z | [open](../records/haskell-ttc-b82444ef.md) |
 | turtle | 1.6.2 | 2023-10-16T02:06:54Z | [open](../records/haskell-turtle-b1c7d396.md) |
 | tweet-hs | 1.0.2.3 | 2021-07-25T18:13:08Z | [open](../records/haskell-tweet-hs-4c6e0ffb.md) |
+| type-natural | 1.3.0.2 | 2025-01-02T07:07:08Z | [open](../records/haskell-type-natural-093c2ec7.md) |
 | type-unary | 0.3.2 | 2018-04-21T02:12:27Z | [open](../records/haskell-type-unary-0d99f93a.md) |
 | typed-peg | 0.1.0.0 | 2026-09-01T18:29:21Z | [open](../records/haskell-typed-peg-d0f69182.md) |
 | typed-process | 0.2.13.0 | 2025-04-12T12:28:58Z | [open](../records/haskell-typed-process-6bf3e065.md) |
@@ -3828,6 +3847,7 @@ Records: `5264`
 | unix-compat | 0.7.4.1 | 2025-08-26T07:26:34Z | [open](../records/haskell-unix-compat-4f1a8581.md) |
 | Unixutils | 1.54.3 | 2023-12-18T17:29:15Z | [open](../records/haskell-unixutils-02c0f552.md) |
 | unliftio | 0.2.25.1 | 2025-03-10T08:59:21Z | [open](../records/haskell-unliftio-b34041c9.md) |
+| usb | 1.3.0.6 | 2018-04-01T00:02:28Z | [open](../records/haskell-usb-b65856b2.md) |
 | utf8-string | 1.0.2 | 2021-01-03T18:33:43Z | [open](../records/haskell-utf8-string-c33ae58d.md) |
 | util | 0.1.17.1 | 2020-02-04T21:58:08Z | [open](../records/haskell-util-d4fe2fe2.md) |
 | utxorpc | 0.0.19.2 | 2026-05-20T22:18:15Z | [open](../records/haskell-utxorpc-ee06b459.md) |
@@ -3897,7 +3917,7 @@ Records: `5264`
 | yesod-persistent | 1.6.0.9 | 2026-06-16T20:33:49Z | [open](../records/haskell-yesod-persistent-425557b9.md) |
 | yesod-platform | 1.2.13.3 | 2014-08-25T13:53:51Z | [open](../records/haskell-yesod-platform-cc0166b2.md) |
 | yesod-static | 1.6.1.3 | 2026-06-16T20:33:50Z | [open](../records/haskell-yesod-static-f6ffdea6.md) |
-| yi | 0.19.3 | 2024-11-01T13:06:18Z | [open](../records/haskell-yi-3b78b64a.md) |
+| yi | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yi-3b78b64a.md) |
 | Z-Data | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-data-ad2a6ebb.md) |
 | Z-IO | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-io-e37841a7.md) |
 | zeolite-lang | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeolite-lang-121149cb.md) |
@@ -4126,7 +4146,7 @@ Records: `5264`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-03T23:09:20Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-04T00:17:22Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4140,7 +4160,7 @@ Records: `5264`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-03T23:06:56Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-04T00:25:02Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 

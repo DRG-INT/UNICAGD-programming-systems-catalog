@@ -11,20 +11,20 @@ Records: `300`
 [Api Abi Checker (205)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
 [Benchmarking (166)](benchmarking.md) · [Build System (920)](build-system.md) · [Cli (539)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (99)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
-[Concurrency Parallelism (79)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (835)](database-datastore.md) · [Datetime (187)](datetime.md)
+[Concurrency Parallelism (80)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (837)](database-datastore.md) · [Datetime (187)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (98)](documentation.md)
-[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (406)](ffi-bindings.md) · [Filesystem Os (1394)](filesystem-os.md) · [Formatter (612)](formatter.md)
+[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (406)](ffi-bindings.md) · [Filesystem Os (1394)](filesystem-os.md) · [Formatter (613)](formatter.md)
 [Framework (54)](framework.md) · [Fuzzer (54)](fuzzer.md) · [Game Engine Game Dev (173)](game-engine-game-dev.md) · [Ide Editor Integration (1334)](ide-editor-integration.md)
 [Image Audio Dsp (391)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (253)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1380)](language-specification.md) · [Library (5264)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1380)](language-specification.md) · [Library (5284)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (483)](logging-observability.md) · [Machine Learning (661)](machine-learning.md)
 [Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (972)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (420)](package-manager.md) · [Parser Lexer Ast (1022)](parser-lexer-ast.md) · [Precommit Ci Quality (283)](precommit-ci-quality.md)
 [Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (333)](security-sast.md) · [Serialization (382)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (497)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (520)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · **[Type Checker (300)](type-checker.md)**
-[Undefined Behavior Analyzer (1506)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (473)](visualization-gui.md) · [Web Framework (453)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (521)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · **[Type Checker (300)](type-checker.md)**
+[Undefined Behavior Analyzer (1506)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · [Visualization Gui (476)](visualization-gui.md) · [Web Framework (453)](web-framework.md)
 
 ## Python
 
@@ -77,7 +77,7 @@ Records: `300`
 | @hey-api/codegen-core | 0.9.1 | 2026-06-22T06:38:28.521Z | [open](../records/node-js-typescript-hey-api-codegen-core-91fafcba.md) |
 | @hint/parser-typescript | 1.0.26 | 2024-08-29T16:37:21.402Z | [open](../records/node-js-typescript-hint-parser-typescript-40819411.md) |
 | @istanbuljs/nyc-config-typescript | 1.0.2 | 2021-12-01T16:48:44.957Z | [open](../records/node-js-typescript-istanbuljs-nyc-config-typescript-af64382d.md) |
-| @joshwooding/vite-plugin-react-docgen-typescript | 0.7.0 | 2026-03-25T11:59:52.541Z | [open](../records/node-js-typescript-joshwooding-vite-plugin-react-docgen-typescript-dcab1e64.md) |
+| @joshwooding/vite-plugin-react-docgen-typescript | 0.8.0 | 2026-09-04T00:03:02.953Z | [open](../records/node-js-typescript-joshwooding-vite-plugin-react-docgen-typescript-dcab1e64.md) |
 | @kinde-oss/kinde-typescript-sdk | 2.15.1 | 2026-08-11T03:25:08.717Z | [open](../records/node-js-typescript-kinde-oss-kinde-typescript-sdk-bd0e19ac.md) |
 | @mark.probst/typescript-json-schema | 0.55.0 | 2023-01-09T00:33:06.541Z | [open](../records/node-js-typescript-mark-probst-typescript-json-schema-e6bff288.md) |
 | @math.gl/types | 4.1.0 | 2024-09-08T04:31:52.285Z | [open](../records/node-js-typescript-math-gl-types-65f41877.md) |
@@ -107,7 +107,7 @@ Records: `300`
 | @stryker-mutator/typescript-checker | 10.0.0 | 2026-08-14T16:49:21.639Z | [open](../records/node-js-typescript-stryker-mutator-typescript-checker-670d818f.md) |
 | @sunrun-security/sr-sec-ts-sns-logger | 2.2.1 | 2026-05-25T21:22:58.629Z | [open](../records/node-js-typescript-sunrun-security-sr-sec-ts-sns-logger-d2a945db.md) |
 | @sveltejs/acorn-typescript | 1.0.13 | 2026-08-13T11:13:58.374Z | [open](../records/node-js-typescript-sveltejs-acorn-typescript-5bdf4a10.md) |
-| @tapjs/typescript | 3.5.11 | 2026-07-27T18:51:14.779Z | [open](../records/node-js-typescript-tapjs-typescript-f4208721.md) |
+| @tapjs/typescript | 3.5.12 | 2026-09-03T23:20:34.406Z | [open](../records/node-js-typescript-tapjs-typescript-f4208721.md) |
 | @teppeis/multimaps | 3.0.0 | 2023-03-19T08:24:59.389Z | [open](../records/node-js-typescript-teppeis-multimaps-5ad7022a.md) |
 | @tokenizer/token | 0.3.0 | 2021-07-12T18:56:47.869Z | [open](../records/node-js-typescript-tokenizer-token-6604ba2a.md) |
 | @total-typescript/shoehorn | 0.1.2 | 2024-02-26T15:26:40.706Z | [open](../records/node-js-typescript-total-typescript-shoehorn-755303d0.md) |
@@ -312,7 +312,7 @@ Records: `300`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-03T23:16:33Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | partial | 2026-09-03T23:52:45Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Assets
 

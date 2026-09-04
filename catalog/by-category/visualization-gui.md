@@ -1,6 +1,6 @@
 # Visualization Gui
 
-Records: `473`
+Records: `476`
 
 ## Navigation
 
@@ -11,20 +11,20 @@ Records: `473`
 [Api Abi Checker (205)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (45)](assertion-mocking.md) · [Async Runtime (134)](async-runtime.md)
 [Benchmarking (166)](benchmarking.md) · [Build System (920)](build-system.md) · [Cli (539)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (99)](community-reference.md) · [Compiler (174)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (48)](compression.md)
-[Concurrency Parallelism (79)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (835)](database-datastore.md) · [Datetime (187)](datetime.md)
+[Concurrency Parallelism (80)](concurrency-parallelism.md) · [Configuration (116)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (165)](cryptography.md) · [Data Science (35)](data-science.md) · [Database Datastore (837)](database-datastore.md) · [Datetime (187)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (42)](debugger.md) · [Dependency Manager (93)](dependency-manager.md) · [Documentation (98)](documentation.md)
-[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (406)](ffi-bindings.md) · [Filesystem Os (1394)](filesystem-os.md) · [Formatter (612)](formatter.md)
+[Embedded Hardware (55)](embedded-hardware.md) · [Ffi Bindings (406)](ffi-bindings.md) · [Filesystem Os (1394)](filesystem-os.md) · [Formatter (613)](formatter.md)
 [Framework (54)](framework.md) · [Fuzzer (54)](fuzzer.md) · [Game Engine Game Dev (173)](game-engine-game-dev.md) · [Ide Editor Integration (1334)](ide-editor-integration.md)
 [Image Audio Dsp (391)](image-audio-dsp.md) · [Interop Bindings (58)](interop-bindings.md) · [Interpreter Runtime (253)](interpreter-runtime.md) · [Jit Vm (60)](jit-vm.md)
-[Language Server (27)](language-server.md) · [Language Specification (1380)](language-specification.md) · [Library (5264)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (27)](language-server.md) · [Language Specification (1380)](language-specification.md) · [Library (5284)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (43)](lint-rule-pack.md) · [Linter (347)](linter.md) · [Logging Observability (483)](logging-observability.md) · [Machine Learning (661)](machine-learning.md)
 [Math Numeric Scientific (85)](math-numeric-scientific.md) · [Memory Analyzer (89)](memory-analyzer.md) · [Message Broker (39)](message-broker.md) · [Networking Http (972)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (420)](package-manager.md) · [Parser Lexer Ast (1022)](parser-lexer-ast.md) · [Precommit Ci Quality (283)](precommit-ci-quality.md)
 [Profiler (82)](profiler.md) · [Project Scaffolding (130)](project-scaffolding.md) · [Registry Repository (108)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (333)](security-sast.md) · [Serialization (382)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (497)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (520)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (300)](type-checker.md)
-[Undefined Behavior Analyzer (1506)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · **[Visualization Gui (473)](visualization-gui.md)** · [Web Framework (453)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (521)](testing-framework.md) · [Tutorial Book Styleguide (56)](tutorial-book-styleguide.md) · [Type Checker (300)](type-checker.md)
+[Undefined Behavior Analyzer (1506)](undefined-behavior-analyzer.md) · [Utility Library (95)](utility-library.md) · **[Visualization Gui (476)](visualization-gui.md)** · [Web Framework (453)](web-framework.md)
 
 ## C++23
 
@@ -230,12 +230,14 @@ Records: `473`
 | conduit | 1.3.6.1 | 2025-02-23T07:03:12Z | [open](../records/haskell-conduit-fe86e77f.md) |
 | conduit-combinators | 1.3.0 | 2018-02-01T22:05:04Z | [open](../records/haskell-conduit-combinators-46b8a191.md) |
 | conduit-extra | 1.3.8 | 2025-06-26T05:55:19Z | [open](../records/haskell-conduit-extra-ce6121c0.md) |
+| dear-imgui | 2.5.0 | 2026-08-22T13:36:21Z | [open](../records/haskell-dear-imgui-c2d4e66d.md) |
 | dynamic-plot | 0.4.2.0 | 2022-04-17T08:56:14Z | [open](../records/haskell-dynamic-plot-79f52881.md) |
 | happstack-yui | 7373.5.3 | 2012-10-20T17:19:36Z | [open](../records/haskell-happstack-yui-fa51e7df.md) |
 | hledger-ui | 1.52.3 | 2026-08-27T11:08:30Z | [open](../records/haskell-hledger-ui-8c0b5874.md) |
 | irc-conduit | 0.3.0.6 | 2022-12-31T20:10:34Z | [open](../records/haskell-irc-conduit-cbe64503.md) |
 | juicy-gcode | 1.0.0.0 | 2023-05-29T09:36:35Z | [open](../records/haskell-juicy-gcode-6164ee54.md) |
 | JuicyPixels | 3.3.9 | 2024-06-06T18:35:17Z | [open](../records/haskell-juicypixels-8f568e01.md) |
+| JuicyPixels-extra | 0.6.0 | 2023-02-08T16:19:31Z | [open](../records/haskell-juicypixels-extra-843c0076.md) |
 | liquid-fixpoint | 0.9.6.3.7 | 2026-06-04T19:09:01Z | [open](../records/haskell-liquid-fixpoint-03f31402.md) |
 | liquidhaskell | 0.9.14.1.1 | 2026-06-04T19:45:12Z | [open](../records/haskell-liquidhaskell-5d906095.md) |
 | pandoc-plot | 1.9.2 | 2026-05-27T00:02:27Z | [open](../records/haskell-pandoc-plot-1821d3ef.md) |
@@ -253,6 +255,7 @@ Records: `473`
 | threepenny-gui | 0.9.4.2 | 2024-12-25T12:37:38Z | [open](../records/haskell-threepenny-gui-9b2583fe.md) |
 | twitter-conduit | 0.6.1 | 2021-11-27T17:36:55Z | [open](../records/haskell-twitter-conduit-fffb2d48.md) |
 | uuid | 1.3.16.1 | 2026-04-15T16:27:49Z | [open](../records/haskell-uuid-e1bcd164.md) |
+| uuid-types | 1.0.6.1 | 2026-04-15T16:27:43Z | [open](../records/haskell-uuid-types-1634022f.md) |
 
 ## Octave
 
@@ -514,7 +517,7 @@ Records: `473`
 | jatinchowdhury18/KlonCentaur | partial | 2021-09-30T04:26:33Z | [open](../records/audio-jatinchowdhury18-kloncentaur-2ceba457.md) |
 | monomadic/dd-core | partial | 2019-01-14T07:21:52Z | [open](../records/audio-monomadic-dd-core-a1124514.md) |
 | pierreguillot/Camomile | partial | 2024-02-26T10:06:47Z | [open](../records/audio-pierreguillot-camomile-eeeac032.md) |
-| pschatzmann/arduino-audio-tools | partial | 2026-09-03T07:17:11Z | [open](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) |
+| pschatzmann/arduino-audio-tools | partial | 2026-09-03T22:20:40Z | [open](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) |
 | QVbDev/quantumVerb | partial | 2018-04-11T17:24:17Z | [open](../records/audio-qvbdev-quantumverb-59e9d065.md) |
 | rsadsb/adsb_deku | partial | 2026-01-04T16:18:33Z | [open](../records/audio-rsadsb-adsb-deku-8c9a3700.md) |
 | unchihugo/FluentFlyout | partial | 2026-09-03T19:40:24Z | [open](../records/audio-unchihugo-fluentflyout-e2e81b2d.md) |
