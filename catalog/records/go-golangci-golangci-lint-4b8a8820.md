@@ -32,7 +32,7 @@ feedback, style policy, defect prevention, and local/CI quality gates.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-04T17:32:52Z | gh search repos topic:golang stars:>1000 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-05T10:59:36Z | gh search repos topic:golang stars:>1000 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -40,7 +40,7 @@ feedback, style policy, defect prevention, and local/CI quality gates.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | Other; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

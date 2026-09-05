@@ -1571,7 +1571,7 @@ Records: `1569`
 | leoncinardo/MascOS | partial | 2026-04-26T16:15:37Z | [open](../records/assembly-leoncinardo-mascos-e4ea93aa.md) |
 | maniekx86/stillalive-os | partial | 2025-09-16T11:55:24Z | [open](../records/assembly-maniekx86-stillalive-os-3b900496.md) |
 | moby/moby | partial | 2026-09-04T17:30:56Z | [open](../records/assembly-moby-moby-727c8e59.md) |
-| OpenRakis/Spice86 | partial | 2026-09-05T10:12:33Z | [open](../records/assembly-openrakis-spice86-2cdaf101.md) |
+| OpenRakis/Spice86 | partial | 2026-09-05T10:48:03Z | [open](../records/assembly-openrakis-spice86-2cdaf101.md) |
 | owent/libcopp | partial | 2026-01-20T11:34:32Z | [open](../records/assembly-owent-libcopp-45c438d7.md) |
 | rwfpl/rewolf-wow64ext | partial | 2023-01-17T20:00:42Z | [open](../records/assembly-rwfpl-rewolf-wow64ext-24fabb9b.md) |
 | s-matyukevich/raspberry-pi-os | partial | 2024-03-29T21:19:52Z | [open](../records/assembly-s-matyukevich-raspberry-pi-os-afd7ee12.md) |

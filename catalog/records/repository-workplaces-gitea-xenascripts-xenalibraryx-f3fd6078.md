@@ -33,7 +33,7 @@ operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-08-06T10:12:04Z | [https://gitea.com/api/v1/repos/search?q=library&limit=50](https://gitea.com/api/v1/repos/search?q=library&limit=50) | gitea_search_api_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-05T10:06:28Z | [https://gitea.com/api/v1/repos/search?q=library&limit=50](https://gitea.com/api/v1/repos/search?q=library&limit=50) | gitea_search_api_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gitea_search_api_has_no_standard_nightly_channel |
 
 ## License And Use Alert

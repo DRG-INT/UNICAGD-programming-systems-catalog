@@ -109,7 +109,7 @@ Records: `36`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [0xIonRod/learning-basilisk](../records/basilisk-0xionrod-learning-basilisk-3b9428f3.md) | partial | 2023-06-28T06:42:25Z | registry-derived |
-| [AVSLab/basilisk](../records/basilisk-avslab-basilisk-3f9dd832.md) | partial | 2026-09-05T03:41:49Z | registry-derived |
+| [AVSLab/basilisk](../records/basilisk-avslab-basilisk-3f9dd832.md) | partial | 2026-09-05T10:59:22Z | registry-derived |
 | [CarterBalow/avs-lab-work](../records/basilisk-carterbalow-avs-lab-work-c0f5c66b.md) | partial | 2026-09-02T17:52:11Z | registry-derived |
 | [DISCOWER/bsk-msgs](../records/basilisk-discower-bsk-msgs-80974f96.md) | partial | 2026-07-02T20:47:18Z | registry-derived |
 | [DISCOWER/bsk-ros2-bridge](../records/basilisk-discower-bsk-ros2-bridge-ff7c49fa.md) | partial | 2026-08-25T16:24:45Z | registry-derived |

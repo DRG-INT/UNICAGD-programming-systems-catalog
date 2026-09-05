@@ -246,7 +246,7 @@ Records: `287`
 | [rpng/kalibr_allan](../records/matlab-rpng-kalibr-allan-f0b0c05c.md) | partial | 2020-06-21T16:54:04Z | registry-derived |
 | [sccn/eeglab](../records/matlab-sccn-eeglab-a9eb4cad.md) | partial | 2026-07-22T15:49:49Z | registry-derived |
 | [schneems/Octave](../records/matlab-schneems-octave-ad3f7bee.md) | partial | 2021-07-02T19:34:38Z | registry-derived |
-| [SciML/SciMLBenchmarks.jl](../records/matlab-sciml-scimlbenchmarks-jl-e7766b64.md) | partial | 2026-09-05T09:40:12Z | registry-derived |
+| [SciML/SciMLBenchmarks.jl](../records/matlab-sciml-scimlbenchmarks-jl-e7766b64.md) | partial | 2026-09-05T10:48:56Z | registry-derived |
 | [scottclowe/matlab-schemer](../records/matlab-scottclowe-matlab-schemer-3f456174.md) | partial | 2023-12-13T03:58:36Z | registry-derived |
 | [scruel/Notes-ML-AndrewNg](../records/matlab-scruel-notes-ml-andrewng-797cd94e.md) | partial | 2024-03-18T09:18:48Z | registry-derived |
 | [shahroudy/NTURGB-D](../records/matlab-shahroudy-nturgb-d-b9d8f894.md) | partial | 2022-02-18T07:49:02Z | registry-derived |
