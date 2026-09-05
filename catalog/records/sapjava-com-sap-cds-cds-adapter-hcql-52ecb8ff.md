@@ -39,9 +39,9 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | Mozilla Public License 2.0; https://api.github.com/licenses/mpl-2.0 |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| maven_central_search | registry-derived | 2026-09-04 | `{"kind": "maven_central_search", "query": "g:\"com.sap.cds\"", "retrieved": "2026-09-04", "status": "registry-derived"}` |
+| maven_central_search | registry-derived | 2026-09-05 | `{"kind": "maven_central_search", "query": "g:\"com.sap.cds\"", "retrieved": "2026-09-05", "status": "registry-derived"}` |
 
 </details>
 

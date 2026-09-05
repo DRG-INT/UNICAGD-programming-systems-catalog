@@ -385,7 +385,7 @@ Records: `589`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| paperless-ngx/paperless-ngx | partial | 2026-09-04T23:15:21Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
+| paperless-ngx/paperless-ngx | partial | 2026-09-05T00:51:38Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
 | ZhuLinsen/daily_stock_analysis | partial | 2026-09-04T10:04:14Z | [open](../records/aim-s-zhulinsen-daily-stock-analysis-509bb8f4.md) |
 
 ## Computer Graphics Software
@@ -478,7 +478,7 @@ Records: `589`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | christiansainga25-a11y/Stellar-vision | partial | 2026-02-26T20:56:38Z | [open](../records/space-maps-christiansainga25-a11y-stellar-vision-ede8fbd2.md) |
-| gwastro/pycbc | partial | 2026-09-03T22:46:08Z | [open](../records/space-maps-gwastro-pycbc-e9254372.md) |
+| gwastro/pycbc | partial | 2026-09-04T15:28:55Z | [open](../records/space-maps-gwastro-pycbc-e9254372.md) |
 | iraf-community/iraf | partial | 2026-08-29T11:09:59Z | [open](../records/space-maps-iraf-community-iraf-bdcc9cfa.md) |
 | khaloscar/MAPS | partial | 2025-11-26T19:00:46Z | [open](../records/space-maps-khaloscar-maps-e95774bf.md) |
 | lightkurve/lightkurve | partial | 2026-08-25T19:58:28Z | [open](../records/space-maps-lightkurve-lightkurve-8d706bd0.md) |

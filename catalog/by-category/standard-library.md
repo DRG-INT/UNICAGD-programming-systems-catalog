@@ -80,7 +80,7 @@ Records: `25`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| astropy/astropy | partial | 2026-09-03T20:03:13Z | [open](../records/space-maps-astropy-astropy-ff2da165.md) |
+| astropy/astropy | partial | 2026-09-04T15:16:40Z | [open](../records/space-maps-astropy-astropy-ff2da165.md) |
 
 ## Telescopes
 

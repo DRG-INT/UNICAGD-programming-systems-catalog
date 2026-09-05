@@ -217,7 +217,7 @@ Records: `126`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AcademySoftwareFoundation/openvdb | partial | 2026-09-03T19:08:06Z | [open](../records/effects-academysoftwarefoundation-openvdb-fbe81c11.md) |
+| AcademySoftwareFoundation/openvdb | partial | 2026-09-04T17:49:20Z | [open](../records/effects-academysoftwarefoundation-openvdb-fbe81c11.md) |
 | avivace/dotfiles | partial | 2025-10-06T09:29:22Z | [open](../records/effects-avivace-dotfiles-d1092acc.md) |
 | mattatz/unity-gpu-particle-system | partial | 2016-12-02T04:36:09Z | [open](../records/effects-mattatz-unity-gpu-particle-system-0a0d0b05.md) |
 | pinnacle-comp/pinnacle | partial | 2026-06-27T21:59:05Z | [open](../records/effects-pinnacle-comp-pinnacle-12aa6aeb.md) |

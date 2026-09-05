@@ -141,7 +141,7 @@ Records: `63`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | jitsi/jitsi | partial | 2026-06-02T16:42:03Z | [open](../records/video-jitsi-jitsi-d268b078.md) |
-| jitsi/jitsi-meet | partial | 2026-09-04T16:02:11Z | [open](../records/video-jitsi-jitsi-meet-a39e115b.md) |
+| jitsi/jitsi-meet | partial | 2026-09-04T22:17:45Z | [open](../records/video-jitsi-jitsi-meet-a39e115b.md) |
 | miroslavpejic85/mirotalksfu | partial | 2026-09-02T10:44:40Z | [open](../records/video-miroslavpejic85-mirotalksfu-bd845714.md) |
 
 ## SatCom Satellites

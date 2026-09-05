@@ -34,7 +34,7 @@ discovery, security review, undefined-state detection, and regression prevention
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-03T22:46:08Z | gh search repos topic:astronomy stars:>100 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-04T15:28:55Z | gh search repos topic:astronomy stars:>100 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -59,7 +59,7 @@ discovery, security review, undefined-state detection, and regression prevention
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-04 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:astronomy stars:>100", "retrieved": "2026-09-04", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-05 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:astronomy stars:>100", "retrieved": "2026-09-05", "status": "forge-cli-derived"}` |
 
 </details>
 

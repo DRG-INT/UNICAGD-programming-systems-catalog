@@ -41,7 +41,7 @@ integration.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT License Copyright (c) 2025 Seu Nome Permission is hereby granted, free of charge, to any person obtaining a copy...; License :: OSI Approved :: MIT License |
+| Evidence | {"key": "", "name": "", "url": ""}; MIT License; https://api.github.com/licenses/mit |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

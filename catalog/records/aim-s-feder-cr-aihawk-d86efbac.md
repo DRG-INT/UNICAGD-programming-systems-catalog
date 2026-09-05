@@ -21,9 +21,8 @@
 
 ## System Engineer Summary
 
-Open-source AI browser agent: a web browsing agent in plain English, with a browser MCP for Claude
-Code, Codex and Gemini CLI. A computer-use agent for the web: it browses, clicks, types and reads
-real sites to do the tasks you describe. Standalone UI included.
+Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in
+plain English. Browser MCP for Claude Code and Gemini CLI.
 
 ## Operational Role
 

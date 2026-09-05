@@ -40,7 +40,7 @@ integration, ABI ownership, memory safety, and runtime embedding.
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | FSL-1.1-ALv2 |
+| Evidence | {"key": "", "name": "", "url": ""} |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes

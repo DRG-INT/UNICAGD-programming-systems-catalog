@@ -57,7 +57,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| maven_central_search | registry-derived | 2026-09-04 | `{"kind": "maven_central_search", "query": "sap cloud sdk", "retrieved": "2026-09-04", "status": "registry-derived"}` |
+| maven_central_search | registry-derived | 2026-09-05 | `{"kind": "maven_central_search", "query": "sap cloud sdk", "retrieved": "2026-09-05", "status": "registry-derived"}` |
 
 </details>
 

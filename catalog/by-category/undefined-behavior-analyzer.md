@@ -1332,7 +1332,7 @@ Records: `1577`
 | maheshr-hub/ayanamsha | partial | 2026-05-26T05:10:14Z | [open](../records/space-maps-maheshr-hub-ayanamsha-18861b1b.md) |
 | MESAHub/mesa | partial | 2026-09-04T05:23:44Z | [open](../records/space-maps-mesahub-mesa-0abd6bf7.md) |
 | Raevn/com.pahub.content.plugin.store.map | partial | 2014-12-12T12:24:45Z | [open](../records/space-maps-raevn-com-pahub-content-plugin-store-map-5946b4b8.md) |
-| rhannequin/astronoby | partial | 2026-08-30T07:55:28Z | [open](../records/space-maps-rhannequin-astronoby-ced172a0.md) |
+| rhannequin/astronoby | partial | 2026-09-04T21:01:00Z | [open](../records/space-maps-rhannequin-astronoby-ced172a0.md) |
 | Rohit-singh-github/Cosmic-resume | partial | 2026-08-12T22:41:00Z | [open](../records/space-maps-rohit-singh-github-cosmic-resume-55310cad.md) |
 | sametcn99/my-stars-atlas | partial | 2026-08-15T00:06:02Z | [open](../records/space-maps-sametcn99-my-stars-atlas-26dfd7e9.md) |
 | segevl/dynamic_scheduler | partial | 2026-08-24T10:46:19Z | [open](../records/space-maps-segevl-dynamic-scheduler-4c37b302.md) |
@@ -1341,7 +1341,7 @@ Records: `1577`
 | swalterfub/dynamic-mapserver-openlayers-planetary | partial | 2020-06-03T08:45:31Z | [open](../records/space-maps-swalterfub-dynamic-mapserver-openlayers-planetary-6fed5eaf.md) |
 | Tihkal96/CAIROforAERMOD | partial | 2025-03-17T22:14:28Z | [open](../records/space-maps-tihkal96-cairoforaermod-eb03266f.md) |
 | TingYeahh/caption_eval | partial | 2020-11-25T02:28:24Z | [open](../records/space-maps-tingyeahh-caption-eval-4aaa1edd.md) |
-| ys-ll/uniterm | partial | 2026-09-04T08:24:26Z | [open](../records/space-maps-ys-ll-uniterm-72dda292.md) |
+| ys-ll/uniterm | partial | 2026-09-04T12:48:50Z | [open](../records/space-maps-ys-ll-uniterm-72dda292.md) |
 
 ## Effects
 
@@ -1418,12 +1418,12 @@ Records: `1577`
 | doubleZ0108/Digital-Media-Technology-PKU | partial | 2022-02-04T14:32:32Z | [open](../records/video-doublez0108-digital-media-technology-pku-8ed0714e.md) |
 | FreeTubeApp/FreeTube | partial | 2026-09-04T15:25:46Z | [open](../records/video-freetubeapp-freetube-f7bd248f.md) |
 | Hubs-Foundation/hubs | partial | 2026-08-23T08:58:42Z | [open](../records/video-hubs-foundation-hubs-e3d5e722.md) |
-| iv-org/invidious | partial | 2026-08-28T21:50:40Z | [open](../records/video-iv-org-invidious-b8d2acca.md) |
+| iv-org/invidious | partial | 2026-09-04T20:47:00Z | [open](../records/video-iv-org-invidious-b8d2acca.md) |
 | mediaelement/mediaelement | partial | 2026-05-12T09:15:03Z | [open](../records/video-mediaelement-mediaelement-f79e452d.md) |
 | mediago-dev/mediago | partial | 2026-09-03T10:43:55Z | [open](../records/video-mediago-dev-mediago-0cd9405a.md) |
 | modelscope/FunClip | partial | 2026-09-01T06:36:58Z | [open](../records/video-modelscope-funclip-7124bb3f.md) |
 | MrS0m30n3/youtube-dl-gui | partial | 2022-12-06T17:12:44Z | [open](../records/video-mrs0m30n3-youtube-dl-gui-b78c733b.md) |
-| namidaco/namida | partial | 2026-09-01T19:34:08Z | [open](../records/video-namidaco-namida-7a28ae53.md) |
+| namidaco/namida | partial | 2026-09-04T16:55:40Z | [open](../records/video-namidaco-namida-7a28ae53.md) |
 | OpenShot/libopenshot | partial | 2026-09-04T00:17:30Z | [open](../records/video-openshot-libopenshot-313927ae.md) |
 | OvenMediaLabs/OvenMediaEngine | partial | 2026-09-03T15:01:52Z | [open](../records/video-ovenmedialabs-ovenmediaengine-48a1af34.md) |
 | patrikhuber/4dface | partial | 2018-12-10T15:49:06Z | [open](../records/video-patrikhuber-4dface-650983e0.md) |

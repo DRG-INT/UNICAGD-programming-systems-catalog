@@ -41,7 +41,7 @@ assessment.
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | SIL Open Font License 1.1; https://api.github.com/licenses/ofl-1.1 |
+| Evidence | unknown |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
@@ -58,7 +58,7 @@ assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| maven_central_search | registry-derived | 2026-09-04 | `{"kind": "maven_central_search", "query": "g:\"com.sap.cds\"", "retrieved": "2026-09-04", "status": "registry-derived"}` |
+| maven_central_search | registry-derived | 2026-09-05 | `{"kind": "maven_central_search", "query": "g:\"com.sap.cds\"", "retrieved": "2026-09-05", "status": "registry-derived"}` |
 
 </details>
 
