@@ -12,19 +12,19 @@ Records: `1577`
 [Benchmarking (192)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (554)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (126)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (172)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (885)](database-datastore.md) · [Datetime (215)](datetime.md)
+[Cryptography (173)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (885)](database-datastore.md) · [Datetime (215)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1546)](filesystem-os.md) · [Formatter (635)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1418)](ide-editor-integration.md)
 [Image Audio Dsp (423)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (28)](language-server.md) · [Language Specification (1423)](language-specification.md) · [Library (5506)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (751)](machine-learning.md)
-[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1019)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (436)](package-manager.md) · [Parser Lexer Ast (1076)](parser-lexer-ast.md) · [Precommit Ci Quality (296)](precommit-ci-quality.md)
+[Language Server (29)](language-server.md) · [Language Specification (1423)](language-specification.md) · [Library (5527)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (753)](machine-learning.md)
+[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1020)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (436)](package-manager.md) · [Parser Lexer Ast (1076)](parser-lexer-ast.md) · [Precommit Ci Quality (297)](precommit-ci-quality.md)
 [Profiler (86)](profiler.md) · [Project Scaffolding (132)](project-scaffolding.md) · [Registry Repository (132)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (391)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (589)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (599)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (311)](type-checker.md)
-**[Undefined Behavior Analyzer (1577)](undefined-behavior-analyzer.md)** · [Utility Library (102)](utility-library.md) · [Visualization Gui (515)](visualization-gui.md) · [Web Framework (475)](web-framework.md)
+[Security Sast (336)](security-sast.md) · [Serialization (392)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (589)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (600)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (311)](type-checker.md)
+**[Undefined Behavior Analyzer (1577)](undefined-behavior-analyzer.md)** · [Utility Library (102)](utility-library.md) · [Visualization Gui (515)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C++23
 
@@ -1808,8 +1808,8 @@ Records: `1577`
 | Gitea: quxiaorui/action-send-mail | partial | 2024-02-26T12:43:08Z | [open](../records/repository-workplaces-gitea-quxiaorui-action-send-mail-a8703907.md) |
 | Gitea: ryan-winkler/ryanwinkler | partial | 2026-08-21T10:30:44Z | [open](../records/repository-workplaces-gitea-ryan-winkler-ryanwinkler-c5f906a1.md) |
 | Gitea: we8tguivdbsd/21eyay8qeyciubaya | partial | 2026-06-20T21:36:03Z | [open](../records/repository-workplaces-gitea-we8tguivdbsd-21eyay8qeyciubaya-47fe49cc.md) |
-| Gitea: zaccesss/.profile | partial | 2026-09-04T14:23:55Z | [open](../records/repository-workplaces-gitea-zaccesss-profile-898ffe18.md) |
-| gitlab-com/gl-infra/k8s-workloads/gitlab-com | partial | 2026-09-04T18:03:53.813Z | [open](../records/repository-workplaces-gitlab-com-gl-infra-k8s-workloads-gitlab-com-13cc554b.md) |
+| Gitea: zaccesss/.profile | partial | 2026-09-04T22:02:55Z | [open](../records/repository-workplaces-gitea-zaccesss-profile-898ffe18.md) |
+| gitlab-com/gl-infra/k8s-workloads/gitlab-com | partial | 2026-09-04T23:00:21.037Z | [open](../records/repository-workplaces-gitlab-com-gl-infra-k8s-workloads-gitlab-com-13cc554b.md) |
 | gitlab-data/data-image | partial | 2026-08-21T11:24:30.282Z | [open](../records/repository-workplaces-gitlab-data-data-image-0af0c35c.md) |
 | gitlab-examples/kubernetes-deploy | partial | 2026-01-07T14:56:28.754Z | [open](../records/repository-workplaces-gitlab-examples-kubernetes-deploy-9a43e04a.md) |
 | gitlab-examples/ruby-autodeploy | partial | 2026-01-07T14:56:29.516Z | [open](../records/repository-workplaces-gitlab-examples-ruby-autodeploy-0ea70988.md) |

@@ -1,6 +1,6 @@
 # Serialization
 
-Records: `391`
+Records: `392`
 
 ## Navigation
 
@@ -12,19 +12,19 @@ Records: `391`
 [Benchmarking (192)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (554)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (126)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (172)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (885)](database-datastore.md) · [Datetime (215)](datetime.md)
+[Cryptography (173)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (885)](database-datastore.md) · [Datetime (215)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1546)](filesystem-os.md) · [Formatter (635)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1418)](ide-editor-integration.md)
 [Image Audio Dsp (423)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (28)](language-server.md) · [Language Specification (1423)](language-specification.md) · [Library (5506)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (751)](machine-learning.md)
-[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1019)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (436)](package-manager.md) · [Parser Lexer Ast (1076)](parser-lexer-ast.md) · [Precommit Ci Quality (296)](precommit-ci-quality.md)
+[Language Server (29)](language-server.md) · [Language Specification (1423)](language-specification.md) · [Library (5527)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (753)](machine-learning.md)
+[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1020)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (436)](package-manager.md) · [Parser Lexer Ast (1076)](parser-lexer-ast.md) · [Precommit Ci Quality (297)](precommit-ci-quality.md)
 [Profiler (86)](profiler.md) · [Project Scaffolding (132)](project-scaffolding.md) · [Registry Repository (132)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · **[Serialization (391)](serialization.md)** · [Standard Library (25)](standard-library.md) · [Static Analyzer (589)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (599)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (311)](type-checker.md)
-[Undefined Behavior Analyzer (1577)](undefined-behavior-analyzer.md) · [Utility Library (102)](utility-library.md) · [Visualization Gui (515)](visualization-gui.md) · [Web Framework (475)](web-framework.md)
+[Security Sast (336)](security-sast.md) · **[Serialization (392)](serialization.md)** · [Standard Library (25)](standard-library.md) · [Static Analyzer (589)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (600)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (311)](type-checker.md)
+[Undefined Behavior Analyzer (1577)](undefined-behavior-analyzer.md) · [Utility Library (102)](utility-library.md) · [Visualization Gui (515)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C99
 
@@ -262,6 +262,7 @@ Records: `391`
 | json-autotype | 3.1.2 | 2020-04-19T19:25:32Z | [open](../records/haskell-json-autotype-bc180b5d.md) |
 | json-feed | 2.0.0.19 | 2026-05-22T13:38:44Z | [open](../records/haskell-json-feed-b77272e1.md) |
 | json-spec | 1.4.0.0 | 2026-07-23T03:55:38Z | [open](../records/haskell-json-spec-15ffc1f1.md) |
+| json-spec-elm | 0.6.0.0 | 2026-07-23T04:32:37Z | [open](../records/haskell-json-spec-elm-61c184de.md) |
 | json-stream | 0.4.6.1 | 2026-05-31T21:26:07Z | [open](../records/haskell-json-stream-9730fe11.md) |
 | jsonrpc-conduit | 0.4.1 | 2024-02-19T21:37:42Z | [open](../records/haskell-jsonrpc-conduit-e1073549.md) |
 | RefSerialize | 0.4.0 | 2017-02-06T23:42:14Z | [open](../records/haskell-refserialize-62669b0f.md) |
@@ -369,7 +370,7 @@ Records: `391`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| headroomlabs-ai/headroom | partial | 2026-09-04T05:01:51Z | [open](../records/aim-s-headroomlabs-ai-headroom-d7859a86.md) |
+| headroomlabs-ai/headroom | partial | 2026-09-05T00:13:32Z | [open](../records/aim-s-headroomlabs-ai-headroom-d7859a86.md) |
 | ONNX | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-onnx-a7e4f39c.md) |
 
 ## APIs

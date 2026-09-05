@@ -12,19 +12,19 @@ Records: `1418`
 [Benchmarking (192)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (554)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (126)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (172)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (885)](database-datastore.md) · [Datetime (215)](datetime.md)
+[Cryptography (173)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (885)](database-datastore.md) · [Datetime (215)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1546)](filesystem-os.md) · [Formatter (635)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · **[Ide Editor Integration (1418)](ide-editor-integration.md)**
 [Image Audio Dsp (423)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (28)](language-server.md) · [Language Specification (1423)](language-specification.md) · [Library (5506)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (751)](machine-learning.md)
-[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1019)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (436)](package-manager.md) · [Parser Lexer Ast (1076)](parser-lexer-ast.md) · [Precommit Ci Quality (296)](precommit-ci-quality.md)
+[Language Server (29)](language-server.md) · [Language Specification (1423)](language-specification.md) · [Library (5527)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (753)](machine-learning.md)
+[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1020)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (436)](package-manager.md) · [Parser Lexer Ast (1076)](parser-lexer-ast.md) · [Precommit Ci Quality (297)](precommit-ci-quality.md)
 [Profiler (86)](profiler.md) · [Project Scaffolding (132)](project-scaffolding.md) · [Registry Repository (132)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (391)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (589)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (599)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (311)](type-checker.md)
-[Undefined Behavior Analyzer (1577)](undefined-behavior-analyzer.md) · [Utility Library (102)](utility-library.md) · [Visualization Gui (515)](visualization-gui.md) · [Web Framework (475)](web-framework.md)
+[Security Sast (336)](security-sast.md) · [Serialization (392)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (589)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (600)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (311)](type-checker.md)
+[Undefined Behavior Analyzer (1577)](undefined-behavior-analyzer.md) · [Utility Library (102)](utility-library.md) · [Visualization Gui (515)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C++23
 
@@ -76,7 +76,7 @@ Records: `1418`
 | crypto-bigint | 0.7.5 | 2026-06-22T16:34:14.977611Z | [open](../records/rust-crypto-bigint-a4edf673.md) |
 | enum-ordinalize-derive | 4.4.2 | 2026-08-01T03:09:18.297565Z | [open](../records/rust-enum-ordinalize-derive-0a747c0a.md) |
 | flate2 | 1.1.10 | 2026-08-28T04:35:22.192325Z | [open](../records/rust-flate2-cc362532.md) |
-| fragile | 2.1.0 | 2026-04-01T21:17:15.093617Z | [open](../records/rust-fragile-2e299ba6.md) |
+| fragile | 3.0.0 | 2026-09-04T22:54:23.273345Z | [open](../records/rust-fragile-2e299ba6.md) |
 | gix-actor | 0.42.0 | 2026-08-22T19:00:28.347178Z | [open](../records/rust-gix-actor-dc9e6950.md) |
 | gix-attributes | 0.35.0 | 2026-08-22T19:01:42.866803Z | [open](../records/rust-gix-attributes-1dcce726.md) |
 | gix-command | 0.10.1 | 2026-09-01T03:14:06.347863Z | [open](../records/rust-gix-command-1a07d45c.md) |
@@ -191,7 +191,7 @@ Records: `1418`
 | @launchdarkly/openfeature-node-server | 2.0.0 | 2026-09-03T17:59:15.784Z | [open](../records/node-js-javascript-launchdarkly-openfeature-node-server-febef595.md) |
 | @launchdarkly/vercel-server-sdk | 1.3.55 | 2026-08-18T19:55:41.397Z | [open](../records/node-js-javascript-launchdarkly-vercel-server-sdk-18e8bdb3.md) |
 | @lit-labs/ssr-dom-shim | 1.6.0 | 2026-05-14T03:55:57.027Z | [open](../records/node-js-javascript-lit-labs-ssr-dom-shim-dbd88335.md) |
-| @lvce-editor/server | 0.113.9 | 2026-09-04T20:56:47.874Z | [open](../records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
+| @lvce-editor/server | 0.113.11 | 2026-09-04T23:56:08.841Z | [open](../records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
 | @mixmark-io/domino | 2.2.0 | 2024-04-06T21:31:29.908Z | [open](../records/node-js-javascript-mixmark-io-domino-4b01c450.md) |
 | @molecule/api-database-sqlite | 1.0.3 | 2026-08-15T04:44:36.606Z | [open](../records/node-js-javascript-molecule-api-database-sqlite-91bd91b1.md) |
 | @nexrender/database-redis | 1.60.10 | 2025-01-24T12:30:12.941Z | [open](../records/node-js-javascript-nexrender-database-redis-d7ab502c.md) |
@@ -678,10 +678,10 @@ Records: `1418`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-03T13:31:40Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-04T23:14:46Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-05T00:11:56Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-03T04:03:18Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-04T08:30:00Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-04T21:07:58Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-05T00:25:43Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-04T23:03:04Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-04T19:06:10Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
