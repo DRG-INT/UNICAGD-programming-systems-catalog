@@ -1,6 +1,6 @@
 # Static Analyzer
 
-Records: `595`
+Records: `596`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `595`
 ## Category Index
 
 [Api Abi Checker (215)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (194)](benchmarking.md) · [Build System (980)](build-system.md) · [Cli (559)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (194)](benchmarking.md) · [Build System (982)](build-system.md) · [Cli (561)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
-[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (128)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (128)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (888)](database-datastore.md) · [Datetime (223)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (450)](ffi-bindings.md) · [Filesystem Os (1561)](filesystem-os.md) · [Formatter (641)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1433)](ide-editor-integration.md)
-[Image Audio Dsp (428)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5551)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (518)](logging-observability.md) · [Machine Learning (769)](machine-learning.md)
-[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1026)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (438)](package-manager.md) · [Parser Lexer Ast (1088)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
+[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (452)](ffi-bindings.md) · [Filesystem Os (1569)](filesystem-os.md) · [Formatter (643)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1444)](ide-editor-integration.md)
+[Image Audio Dsp (430)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
+[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5570)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (769)](machine-learning.md)
+[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (440)](package-manager.md) · [Parser Lexer Ast (1089)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
 [Profiler (86)](profiler.md) · [Project Scaffolding (132)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (14)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (393)](serialization.md) · [Standard Library (25)](standard-library.md) · **[Static Analyzer (595)](static-analyzer.md)**
-[Templating (2)](templating.md) · [Testing Framework (603)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1587)](undefined-behavior-analyzer.md) · [Utility Library (103)](utility-library.md) · [Visualization Gui (542)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Security Sast (336)](security-sast.md) · [Serialization (393)](serialization.md) · [Standard Library (25)](standard-library.md) · **[Static Analyzer (596)](static-analyzer.md)**
+[Templating (2)](templating.md) · [Testing Framework (603)](testing-framework.md) · [Tutorial Book Styleguide (63)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
+[Undefined Behavior Analyzer (1595)](undefined-behavior-analyzer.md) · [Utility Library (103)](utility-library.md) · [Visualization Gui (547)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C99
 
@@ -378,14 +378,14 @@ Records: `595`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| career-ops-hq/career-ops | partial | 2026-09-05T08:07:46Z | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
+| career-ops-hq/career-ops | partial | 2026-09-05T09:01:05Z | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
 | codeberg.org/momar/simple-scan-server | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-codeberg-org-momar-simple-scan-server-8e5010e0.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| paperless-ngx/paperless-ngx | partial | 2026-09-05T01:48:05Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
+| paperless-ngx/paperless-ngx | partial | 2026-09-05T09:11:46Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
 | ZhuLinsen/daily_stock_analysis | partial | 2026-09-04T10:04:14Z | [open](../records/aim-s-zhulinsen-daily-stock-analysis-509bb8f4.md) |
 
 ## Computer Graphics Software
@@ -539,6 +539,7 @@ Records: `595`
 | --- | --- | --- | --- |
 | aetaric/checkrr | partial | 2026-07-11T16:19:17Z | [open](../records/video-aetaric-checkrr-8332117e.md) |
 | byjlw/video-analyzer | partial | 2026-04-19T19:29:05Z | [open](../records/video-byjlw-video-analyzer-128898c4.md) |
+| rosenbjerg/FFMpegCore | partial | 2025-10-29T13:28:08Z | [open](../records/video-rosenbjerg-ffmpegcore-abd0f842.md) |
 | videoflow/videoflow | partial | 2026-07-29T17:46:39Z | [open](../records/video-videoflow-videoflow-5e9a03c8.md) |
 
 ## Photography
@@ -690,7 +691,7 @@ Records: `595`
 | mclim9/rssd | partial | 2024-07-08T04:03:48Z | [open](../records/electromagnetoscopes-mclim9-rssd-88a857e7.md) |
 | mebrown47/CUDA_spectrum | partial | 2026-05-04T01:52:13Z | [open](../records/electromagnetoscopes-mebrown47-cuda-spectrum-240ee354.md) |
 | myriacat/myriacat | partial | 2024-06-10T13:16:40Z | [open](../records/electromagnetoscopes-myriacat-myriacat-8821028d.md) |
-| neural75/gqrx-scanner | partial | 2026-06-30T23:46:19Z | [open](../records/electromagnetoscopes-neural75-gqrx-scanner-47ffd36c.md) |
+| neural75/gqrx-scanner | partial | 2026-09-05T07:43:53Z | [open](../records/electromagnetoscopes-neural75-gqrx-scanner-47ffd36c.md) |
 | nikhil-sarin/redback | partial | 2026-09-02T05:15:24Z | [open](../records/electromagnetoscopes-nikhil-sarin-redback-286c421c.md) |
 | osamusg/SpeAnaLED | partial | 2025-04-20T08:26:35Z | [open](../records/electromagnetoscopes-osamusg-speanaled-992f03e3.md) |
 | patrykorwat/web-spectrum | partial | 2026-01-02T09:11:39Z | [open](../records/electromagnetoscopes-patrykorwat-web-spectrum-40e82a36.md) |
