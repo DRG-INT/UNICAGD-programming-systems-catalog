@@ -1,6 +1,6 @@
 # Ide Editor Integration
 
-Records: `1430`
+Records: `1431`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `1430`
 ## Category Index
 
 [Api Abi Checker (214)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (193)](benchmarking.md) · [Build System (978)](build-system.md) · [Cli (559)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (194)](benchmarking.md) · [Build System (980)](build-system.md) · [Cli (559)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (128)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (886)](database-datastore.md) · [Datetime (223)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (448)](ffi-bindings.md) · [Filesystem Os (1559)](filesystem-os.md) · [Formatter (640)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · **[Ide Editor Integration (1430)](ide-editor-integration.md)**
-[Image Audio Dsp (423)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
+[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (449)](ffi-bindings.md) · [Filesystem Os (1561)](filesystem-os.md) · [Formatter (640)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · **[Ide Editor Integration (1431)](ide-editor-integration.md)**
+[Image Audio Dsp (428)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
 [Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5547)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (517)](logging-observability.md) · [Machine Learning (767)](machine-learning.md)
-[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1024)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (438)](package-manager.md) · [Parser Lexer Ast (1086)](parser-lexer-ast.md) · [Precommit Ci Quality (297)](precommit-ci-quality.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (517)](logging-observability.md) · [Machine Learning (769)](machine-learning.md)
+[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1025)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (438)](package-manager.md) · [Parser Lexer Ast (1088)](parser-lexer-ast.md) · [Precommit Ci Quality (297)](precommit-ci-quality.md)
 [Profiler (86)](profiler.md) · [Project Scaffolding (132)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (393)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (595)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (603)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1586)](undefined-behavior-analyzer.md) · [Utility Library (102)](utility-library.md) · [Visualization Gui (542)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Undefined Behavior Analyzer (1587)](undefined-behavior-analyzer.md) · [Utility Library (102)](utility-library.md) · [Visualization Gui (542)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C++23
 
@@ -983,7 +983,8 @@ Records: `1430`
 | danilogcrf2-oss/ESP32Synth | partial | 2026-08-30T15:16:20Z | [open](../records/audio-danilogcrf2-oss-esp32synth-7a58d4c6.md) |
 | deniscerri/ytdlnis | partial | 2026-09-04T19:31:12Z | [open](../records/audio-deniscerri-ytdlnis-096edb21.md) |
 | everythingwillbetakenaway/DX7-Supercollider | partial | 2026-01-08T20:53:58Z | [open](../records/audio-everythingwillbetakenaway-dx7-supercollider-316ba0b4.md) |
-| FORARTfe/HyMPS | partial | 2026-08-27T06:22:53Z | [open](../records/audio-forartfe-hymps-4bad0b4a.md) |
+| FORARTfe/HyMPS | partial | 2026-09-02T07:13:54Z | [open](../records/audio-forartfe-hymps-4bad0b4a.md) |
+| ideoforms/signalflow | partial | 2026-05-04T21:05:19Z | [open](../records/audio-ideoforms-signalflow-7bce7712.md) |
 | Jounce/Surge | partial | 2023-07-20T14:04:23Z | [open](../records/audio-jounce-surge-6a48b789.md) |
 | kyleneideck/BackgroundMusic | partial | 2026-06-10T08:58:49Z | [open](../records/audio-kyleneideck-backgroundmusic-87dcd90a.md) |
 | leandromoreira/digital_video_introduction | partial | 2026-09-02T21:43:42Z | [open](../records/audio-leandromoreira-digital-video-introduction-1602f29a.md) |
@@ -1069,7 +1070,7 @@ Records: `1430`
 | HA6Bots/TikTok-Compilation-Video-Generator | partial | 2024-08-04T13:44:11Z | [open](../records/video-ha6bots-tiktok-compilation-video-generator-2f38a80d.md) |
 | haasn/libplacebo | partial | 2026-09-03T19:13:12Z | [open](../records/video-haasn-libplacebo-801cca80.md) |
 | HeiSir2014/M3U8-Downloader | partial | 2025-03-19T15:28:29Z | [open](../records/video-heisir2014-m3u8-downloader-23d9af39.md) |
-| heygen-com/hyperframes | partial | 2026-09-05T03:24:28Z | [open](../records/video-heygen-com-hyperframes-39e19bfa.md) |
+| heygen-com/hyperframes | partial | 2026-09-05T05:17:07Z | [open](../records/video-heygen-com-hyperframes-39e19bfa.md) |
 | Hunlongyu/ZY-Player | partial | 2023-02-09T06:33:07Z | [open](../records/video-hunlongyu-zy-player-c74fadea.md) |
 | hybridgroup/gocv | partial | 2026-05-28T08:16:03Z | [open](../records/video-hybridgroup-gocv-daa4c904.md) |
 | ianramzy/decentralized-video-chat | partial | 2020-11-21T01:54:51Z | [open](../records/video-ianramzy-decentralized-video-chat-738bde44.md) |
@@ -1137,7 +1138,7 @@ Records: `1430`
 | numz/ComfyUI-SeedVR2_VideoUpscaler | partial | 2025-12-24T08:52:32Z | [open](../records/video-numz-comfyui-seedvr2-videoupscaler-5fe4601b.md) |
 | nyanmisaka/ffmpeg-rockchip | partial | 2026-08-10T08:58:55Z | [open](../records/video-nyanmisaka-ffmpeg-rockchip-bcfd437a.md) |
 | octimot/StoryToolkitAI | partial | 2026-07-28T06:37:10Z | [open](../records/video-octimot-storytoolkitai-45c088c7.md) |
-| open-ani/animeko | partial | 2026-09-04T17:50:01Z | [open](../records/video-open-ani-animeko-232bc173.md) |
+| open-ani/animeko | partial | 2026-09-05T04:40:28Z | [open](../records/video-open-ani-animeko-232bc173.md) |
 | opencast/opencast | partial | 2026-09-04T05:12:09Z | [open](../records/video-opencast-opencast-f369afbf.md) |
 | openframeworks/openFrameworks | partial | 2026-08-31T15:16:59Z | [open](../records/video-openframeworks-openframeworks-3f1cb743.md) |
 | openlibrecommunity/olcrtc | partial | 2026-09-01T22:01:02Z | [open](../records/video-openlibrecommunity-olcrtc-37d08706.md) |
@@ -1327,7 +1328,7 @@ Records: `1430`
 | MarcHamamji/runner.nvim | partial | 2025-03-04T10:42:26Z | [open](../records/telescopes-marchamamji-runner-nvim-d5d3f9d8.md) |
 | MironPascalCaseFan/rittli.nvim | partial | 2024-11-29T13:40:56Z | [open](../records/telescopes-mironpascalcasefan-rittli-nvim-1f2cf266.md) |
 | Mirsmog/real-icons.nvim | partial | 2026-08-04T22:30:42Z | [open](../records/telescopes-mirsmog-real-icons-nvim-2ffc30c6.md) |
-| mrcjkb/haskell-tools.nvim | partial | 2026-09-04T00:20:23Z | [open](../records/telescopes-mrcjkb-haskell-tools-nvim-94956c21.md) |
+| mrcjkb/haskell-tools.nvim | partial | 2026-09-05T00:21:05Z | [open](../records/telescopes-mrcjkb-haskell-tools-nvim-94956c21.md) |
 | mrcjkb/telescope-manix | partial | 2026-08-30T00:27:42Z | [open](../records/telescopes-mrcjkb-telescope-manix-74de5637.md) |
 | mrjones2014/dash.nvim | partial | 2022-08-30T00:29:47Z | [open](../records/telescopes-mrjones2014-dash-nvim-c0435f14.md) |
 | mrjones2014/tldr.nvim | partial | 2024-01-02T13:18:05Z | [open](../records/telescopes-mrjones2014-tldr-nvim-207a9aa6.md) |

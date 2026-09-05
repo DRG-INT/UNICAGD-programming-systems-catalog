@@ -9,22 +9,22 @@ Records: `149`
 ## Category Index
 
 [Api Abi Checker (214)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
-[Benchmarking (193)](../by-category/benchmarking.md) · [Build System (978)](../by-category/build-system.md) · [Cli (559)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (194)](../by-category/benchmarking.md) · [Build System (980)](../by-category/build-system.md) · [Cli (559)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (116)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (50)](../by-category/compression.md)
 [Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (128)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (173)](../by-category/cryptography.md) · [Data Science (38)](../by-category/data-science.md) · [Database Datastore (886)](../by-category/database-datastore.md) · [Datetime (223)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (101)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
-[Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (448)](../by-category/ffi-bindings.md) · [Filesystem Os (1559)](../by-category/filesystem-os.md) · [Formatter (640)](../by-category/formatter.md)
-[Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1430)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (423)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (267)](../by-category/interpreter-runtime.md) · [Jit Vm (63)](../by-category/jit-vm.md)
+[Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (449)](../by-category/ffi-bindings.md) · [Filesystem Os (1561)](../by-category/filesystem-os.md) · [Formatter (640)](../by-category/formatter.md)
+[Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1431)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (428)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (267)](../by-category/interpreter-runtime.md) · [Jit Vm (63)](../by-category/jit-vm.md)
 [Language Server (29)](../by-category/language-server.md) · [Language Specification (1428)](../by-category/language-specification.md) · [Library (5547)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (517)](../by-category/logging-observability.md) · [Machine Learning (767)](../by-category/machine-learning.md)
-[Math Numeric Scientific (87)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1024)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (438)](../by-category/package-manager.md) · [Parser Lexer Ast (1086)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (297)](../by-category/precommit-ci-quality.md)
+[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (517)](../by-category/logging-observability.md) · [Machine Learning (769)](../by-category/machine-learning.md)
+[Math Numeric Scientific (87)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1025)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (438)](../by-category/package-manager.md) · [Parser Lexer Ast (1088)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (297)](../by-category/precommit-ci-quality.md)
 [Profiler (86)](../by-category/profiler.md) · [Project Scaffolding (132)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (13)](../by-category/sanitizer.md)
 [Security Sast (336)](../by-category/security-sast.md) · [Serialization (393)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (595)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (603)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (62)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1586)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (102)](../by-category/utility-library.md) · [Visualization Gui (542)](../by-category/visualization-gui.md) · [Web Framework (476)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1587)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (102)](../by-category/utility-library.md) · [Visualization Gui (542)](../by-category/visualization-gui.md) · [Web Framework (476)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -114,7 +114,7 @@ Records: `149`
 | [MarcHamamji/runner.nvim](../records/telescopes-marchamamji-runner-nvim-d5d3f9d8.md) | partial | 2025-03-04T10:42:26Z | registry-derived |
 | [MironPascalCaseFan/rittli.nvim](../records/telescopes-mironpascalcasefan-rittli-nvim-1f2cf266.md) | partial | 2024-11-29T13:40:56Z | registry-derived |
 | [Mirsmog/real-icons.nvim](../records/telescopes-mirsmog-real-icons-nvim-2ffc30c6.md) | partial | 2026-08-04T22:30:42Z | registry-derived |
-| [mrcjkb/haskell-tools.nvim](../records/telescopes-mrcjkb-haskell-tools-nvim-94956c21.md) | partial | 2026-09-04T00:20:23Z | registry-derived |
+| [mrcjkb/haskell-tools.nvim](../records/telescopes-mrcjkb-haskell-tools-nvim-94956c21.md) | partial | 2026-09-05T00:21:05Z | registry-derived |
 | [mrcjkb/telescope-manix](../records/telescopes-mrcjkb-telescope-manix-74de5637.md) | partial | 2026-08-30T00:27:42Z | registry-derived |
 | [mrjones2014/dash.nvim](../records/telescopes-mrjones2014-dash-nvim-c0435f14.md) | partial | 2022-08-30T00:29:47Z | registry-derived |
 | [mrjones2014/tldr.nvim](../records/telescopes-mrjones2014-tldr-nvim-207a9aa6.md) | partial | 2024-01-02T13:18:05Z | registry-derived |
@@ -162,7 +162,7 @@ Records: `149`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ad-si/Woxi](../records/telescopes-ad-si-woxi-8a8c02e7.md) | partial | 2026-09-04T21:22:35Z | registry-derived |
+| [ad-si/Woxi](../records/telescopes-ad-si-woxi-8a8c02e7.md) | partial | 2026-09-05T00:53:01Z | registry-derived |
 | [Avimitin/nvim](../records/telescopes-avimitin-nvim-96de9a1e.md) | partial | 2026-07-28T05:10:02Z | registry-derived |
 | [gnudatalanguage/gdl](../records/telescopes-gnudatalanguage-gdl-37cda6a5.md) | partial | 2026-09-04T08:39:06Z | registry-derived |
 
@@ -223,7 +223,7 @@ Records: `149`
 | [GuLinux/AstroPhoto-Plus](../records/telescopes-gulinux-astrophoto-plus-89ed315b.md) | partial | 2022-07-20T03:28:42Z | registry-derived |
 | [hyqzz/Solar-Wanderer](../records/telescopes-hyqzz-solar-wanderer-ebebad0b.md) | partial | 2026-08-23T16:05:32Z | registry-derived |
 | [jagi/meteor-astronomy](../records/telescopes-jagi-meteor-astronomy-415c00fc.md) | partial | 2023-08-24T08:22:39Z | registry-derived |
-| [jobovy/galpy](../records/telescopes-jobovy-galpy-b2e4e9ec.md) | partial | 2026-09-04T19:21:18Z | registry-derived |
+| [jobovy/galpy](../records/telescopes-jobovy-galpy-b2e4e9ec.md) | partial | 2026-09-05T01:18:09Z | registry-derived |
 | [kylecorry31/Trail-Sense](../records/telescopes-kylecorry31-trail-sense-8d97a469.md) | partial | 2026-09-04T22:20:35Z | registry-derived |
 | [larrylart/Unimap](../records/telescopes-larrylart-unimap-07a1fd44.md) | partial | 2019-02-18T20:46:00Z | registry-derived |
 | [lgrcia/twirl](../records/telescopes-lgrcia-twirl-2b14ac34.md) | partial | 2026-07-21T07:23:08Z | registry-derived |
@@ -238,7 +238,7 @@ Records: `149`
 | [saurvs/astro-rust](../records/telescopes-saurvs-astro-rust-3d0d6b1c.md) | partial | 2019-10-20T01:17:04Z | registry-derived |
 | [Sigmyne/SuperNOVAS](../records/telescopes-sigmyne-supernovas-c1bcbf75.md) | partial | 2026-09-04T09:37:15Z | registry-derived |
 | [spacetelescope/poppy](../records/telescopes-spacetelescope-poppy-8fcb0fc5.md) | partial | 2026-08-26T14:23:04Z | registry-derived |
-| [Stellarium/stellarium](../records/telescopes-stellarium-stellarium-a274d765.md) | partial | 2026-09-04T19:30:54Z | registry-derived |
+| [Stellarium/stellarium](../records/telescopes-stellarium-stellarium-a274d765.md) | partial | 2026-09-05T05:05:12Z | registry-derived |
 | [sunpy/sunpy](../records/telescopes-sunpy-sunpy-52ba6b6e.md) | partial | 2026-09-03T11:45:18Z | registry-derived |
 | [trehn/termtrack](../records/telescopes-trehn-termtrack-6877d137.md) | partial | 2026-01-28T01:20:28Z | registry-derived |
 | [vedika-io/xalen-ephemeris](../records/telescopes-vedika-io-xalen-ephemeris-c0e77623.md) | partial | 2026-07-02T21:33:33Z | registry-derived |

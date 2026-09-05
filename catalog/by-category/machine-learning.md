@@ -1,6 +1,6 @@
 # Machine Learning
 
-Records: `767`
+Records: `769`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `767`
 ## Category Index
 
 [Api Abi Checker (214)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (193)](benchmarking.md) · [Build System (978)](build-system.md) · [Cli (559)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (194)](benchmarking.md) · [Build System (980)](build-system.md) · [Cli (559)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (128)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (886)](database-datastore.md) · [Datetime (223)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (448)](ffi-bindings.md) · [Filesystem Os (1559)](filesystem-os.md) · [Formatter (640)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1430)](ide-editor-integration.md)
-[Image Audio Dsp (423)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
+[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (449)](ffi-bindings.md) · [Filesystem Os (1561)](filesystem-os.md) · [Formatter (640)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1431)](ide-editor-integration.md)
+[Image Audio Dsp (428)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
 [Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5547)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (517)](logging-observability.md) · **[Machine Learning (767)](machine-learning.md)**
-[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1024)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (438)](package-manager.md) · [Parser Lexer Ast (1086)](parser-lexer-ast.md) · [Precommit Ci Quality (297)](precommit-ci-quality.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (517)](logging-observability.md) · **[Machine Learning (769)](machine-learning.md)**
+[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1025)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (438)](package-manager.md) · [Parser Lexer Ast (1088)](parser-lexer-ast.md) · [Precommit Ci Quality (297)](precommit-ci-quality.md)
 [Profiler (86)](profiler.md) · [Project Scaffolding (132)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (393)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (595)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (603)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1586)](undefined-behavior-analyzer.md) · [Utility Library (102)](utility-library.md) · [Visualization Gui (542)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Undefined Behavior Analyzer (1587)](undefined-behavior-analyzer.md) · [Utility Library (102)](utility-library.md) · [Visualization Gui (542)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C++23
 
@@ -471,14 +471,14 @@ Records: `767`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ahujasid/blender-mcp | partial | 2026-09-02T07:13:16Z | [open](../records/aim-s-ahujasid-blender-mcp-814a3c64.md) |
+| ahujasid/blender-mcp | partial | 2026-09-05T04:44:40Z | [open](../records/aim-s-ahujasid-blender-mcp-814a3c64.md) |
 | bojieli/ai-agent-book | partial | 2026-09-05T03:04:37Z | [open](../records/aim-s-bojieli-ai-agent-book-5a1d8804.md) |
 | chatchat-space/Langchain-Chatchat | partial | 2025-11-10T09:27:42Z | [open](../records/aim-s-chatchat-space-langchain-chatchat-074047ac.md) |
 | datawhalechina/happy-llm | partial | 2026-08-08T17:18:48Z | [open](../records/aim-s-datawhalechina-happy-llm-00d4ee33.md) |
 | datawhalechina/hello-agents | partial | 2026-09-04T09:03:14Z | [open](../records/aim-s-datawhalechina-hello-agents-7c22b3b1.md) |
 | datawhalechina/self-llm | partial | 2026-08-26T06:33:41Z | [open](../records/aim-s-datawhalechina-self-llm-f636cd5d.md) |
 | firecrawl/firecrawl | partial | 2026-09-04T23:50:09Z | [open](../records/aim-s-firecrawl-firecrawl-e23e3125.md) |
-| HKUDS/Vibe-Trading | partial | 2026-09-04T18:06:26Z | [open](../records/aim-s-hkuds-vibe-trading-eb525e68.md) |
+| HKUDS/Vibe-Trading | partial | 2026-09-05T05:16:36Z | [open](../records/aim-s-hkuds-vibe-trading-eb525e68.md) |
 | Hugging Face Transformers | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-hugging-face-transformers-9b7d820e.md) |
 | ItzCrazyKns/Vane | partial | 2026-09-01T14:12:12Z | [open](../records/aim-s-itzcrazykns-vane-331d2e53.md) |
 | janhq/jan | partial | 2026-09-04T09:20:44Z | [open](../records/aim-s-janhq-jan-f71b49a2.md) |
@@ -491,20 +491,20 @@ Records: `767`
 | lyogavin/airllm | partial | 2026-09-04T06:24:53Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-04T01:10:46Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
 | NousResearch/hermes-agent | partial | 2026-09-05T00:24:54Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
-| onyx-dot-app/onyx | partial | 2026-09-05T00:42:12Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
+| onyx-dot-app/onyx | partial | 2026-09-05T05:10:49Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-05T03:34:34Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-05T03:42:03Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
 | OpenHands/OpenHands | partial | 2026-09-04T19:17:11Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
 | PyTorch | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-pytorch-ce083d68.md) |
 | rasbt/LLMs-from-scratch | partial | 2026-09-01T13:49:43Z | [open](../records/aim-s-rasbt-llms-from-scratch-2200f8f4.md) |
-| run-llama/llama_index | partial | 2026-09-03T03:05:30Z | [open](../records/aim-s-run-llama-llama-index-f8381d04.md) |
+| run-llama/llama_index | partial | 2026-09-05T04:39:33Z | [open](../records/aim-s-run-llama-llama-index-f8381d04.md) |
 | ScrapeGraphAI/Scrapegraph-ai | partial | 2026-08-27T09:27:24Z | [open](../records/aim-s-scrapegraphai-scrapegraph-ai-8c5361dd.md) |
 | shareAI-lab/learn-claude-code | partial | 2026-08-26T16:38:22Z | [open](../records/aim-s-shareai-lab-learn-claude-code-eae6efc3.md) |
 | SillyTavern/SillyTavern | partial | 2026-08-31T22:58:51Z | [open](../records/aim-s-sillytavern-sillytavern-869f2cb0.md) |
 | TauricResearch/TradingAgents | partial | 2026-09-01T05:38:45Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | partial | 2026-09-05T04:16:30Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| unslothai/unsloth | partial | 2026-09-05T05:12:40Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
 | VectifyAI/PageIndex | partial | 2026-09-04T07:30:47Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
 | virgiliojr94/book-to-skill | partial | 2026-09-01T14:51:58Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 
@@ -729,10 +729,12 @@ Records: `767`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AIGC-Audio/AudioGPT | partial | 2024-07-06T21:35:18Z | [open](../records/audio-aigc-audio-audiogpt-981ac143.md) |
+| bazz1tv/snestracker | partial | 2022-05-02T00:44:18Z | [open](../records/audio-bazz1tv-snestracker-b655cdbb.md) |
 | copych/AcidBox | partial | 2025-08-07T11:05:31Z | [open](../records/audio-copych-acidbox-f1182e91.md) |
 | DamRsn/NeuralNote | partial | 2025-01-16T10:00:44Z | [open](../records/audio-damrsn-neuralnote-e9b5c736.md) |
 | davemollen/dm-GrainDelay | partial | 2025-09-27T13:22:09Z | [open](../records/audio-davemollen-dm-graindelay-2d66844f.md) |
 | electro-smith/DaisySP | partial | 2025-05-29T04:37:29Z | [open](../records/audio-electro-smith-daisysp-caa53501.md) |
+| GuitarML/FunBox | partial | 2026-07-10T15:59:36Z | [open](../records/audio-guitarml-funbox-6cee70c5.md) |
 | haoheliu/voicefixer_main | partial | 2024-01-13T00:38:35Z | [open](../records/audio-haoheliu-voicefixer-main-daefc20f.md) |
 | huggingface/transformers | partial | 2026-09-05T03:11:14Z | [open](../records/audio-huggingface-transformers-9073c238.md) |
 | ictnlp/StreamSpeech | partial | 2025-06-29T02:06:27Z | [open](../records/audio-ictnlp-streamspeech-abc4c0a4.md) |
