@@ -1,13 +1,13 @@
 # Release Watch
 
-Generated: `2026-09-05T02:20:46+00:00`
+Generated: `2026-09-05T03:21:15+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
 ## Category Index
 
 [Api Abi Checker (214)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (136)](by-category/async-runtime.md)
-[Benchmarking (192)](by-category/benchmarking.md) · [Build System (972)](by-category/build-system.md) · [Cli (554)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (192)](by-category/benchmarking.md) · [Build System (972)](by-category/build-system.md) · [Cli (555)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (116)](by-category/community-reference.md) · [Compiler (175)](by-category/compiler.md) · [Compiler Diagnostics (23)](by-category/compiler-diagnostics.md) · [Compression (50)](by-category/compression.md)
 [Concurrency Parallelism (89)](by-category/concurrency-parallelism.md) · [Configuration (126)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (173)](by-category/cryptography.md) · [Data Science (37)](by-category/data-science.md) · [Database Datastore (885)](by-category/database-datastore.md) · [Datetime (215)](by-category/datetime.md)
@@ -28,13 +28,14 @@ Generated: `2026-09-05T02:20:46+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10054 |
+| Known stable release | 10055 |
 | Unknown stable release | 16707 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| appium-uiautomator2-server | Node.js/JavaScript | Web Framework | 10.6.3 | 2026-09-05T02:30:03.699Z | [open](records/node-js-javascript-appium-uiautomator2-server-156ed7d4.md) |
 | indexmap | Rust | Parser Lexer Ast | 2.14.2 | 2026-09-05T01:53:48.019655Z | [open](records/rust-indexmap-1cba638f.md) |
 | @react-native-firebase/database | Node.js/JavaScript | Ide Editor Integration | 26.4.0 | 2026-09-05T01:49:21.021Z | [open](records/node-js-javascript-react-native-firebase-database-0450b342.md) |
 | lucide_icons_flutter | Dart | Ide Editor Integration | 3.1.18 | 2026-09-05T01:45:32.372974Z | [open](records/dart-lucide-icons-flutter-351b5f67.md) |
@@ -50,6 +51,7 @@ Generated: `2026-09-05T02:20:46+00:00`
 | @stacksjs/testing | Node.js/JavaScript | Testing Framework | 0.74.24 | 2026-09-05T00:11:34.736Z | [open](records/node-js-javascript-stacksjs-testing-57469937.md) |
 | @stacksjs/database | Node.js/JavaScript | Database Datastore | 0.74.24 | 2026-09-05T00:10:56.047Z | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
 | @stacksjs/http | Node.js/JavaScript | Networking Http | 0.74.24 | 2026-09-05T00:05:37.864Z | [open](records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
+| triageR | R | Cli | 0.2.0 | 2026-09-05 02:20:02 UTC | [open](records/r-triager-d2a87535.md) |
 | rregm | R | Library | 1.4 | 2026-09-05 02:10:02 UTC | [open](records/r-rregm-e4bb4dda.md) |
 | wasm-bindgen-futures | Rust | Library | 0.4.78 | 2026-09-04T23:58:17.192884Z | [open](records/rust-wasm-bindgen-futures-07e4253c.md) |
 | web-sys | Rust | Ffi Bindings | 0.3.105 | 2026-09-04T23:58:14.724782Z | [open](records/rust-web-sys-f4d4d76b.md) |
@@ -283,8 +285,6 @@ Generated: `2026-09-05T02:20:46+00:00`
 | windows-core | Rust | Library | 0.100.0 | 2026-09-03T16:42:56.290894Z | [open](records/rust-windows-core-c93b45dd.md) |
 | windows-threading | Rust | Concurrency Parallelism | 0.100.0 | 2026-09-03T16:41:59.294207Z | [open](records/rust-windows-threading-4820d7f5.md) |
 | windows-strings | Rust | Library | 0.100.0 | 2026-09-03T16:41:44.762627Z | [open](records/rust-windows-strings-cc5d0fe6.md) |
-| windows-result | Rust | Library | 0.100.0 | 2026-09-03T16:41:24.764970Z | [open](records/rust-windows-result-ea46bd4b.md) |
-| windows-link | Rust | Library | 0.100.0 | 2026-09-03T16:39:03.349369Z | [open](records/rust-windows-link-6ac6abfc.md) |
 
 ## Unknown Reasons
 

@@ -1,6 +1,6 @@
 # Cli
 
-Records: `554`
+Records: `555`
 
 ## Navigation
 
@@ -9,7 +9,7 @@ Records: `554`
 ## Category Index
 
 [Api Abi Checker (214)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (192)](benchmarking.md) · [Build System (972)](build-system.md) · **[Cli (554)](cli.md)** · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (192)](benchmarking.md) · [Build System (972)](build-system.md) · **[Cli (555)](cli.md)** · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (126)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (173)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (885)](database-datastore.md) · [Datetime (215)](datetime.md)
@@ -475,6 +475,7 @@ Records: `554`
 | RClickhouse | 0.6.12 | 2026-08-26 21:10:25 UTC | [open](../records/r-rclickhouse-447484bd.md) |
 | RobinCar2 | 0.2.4 | 2026-08-22 17:30:02 UTC | [open](../records/r-robincar2-5ab46259.md) |
 | selecta | 0.6.1 | 2026-08-22 18:40:02 UTC | [open](../records/r-selecta-5173bf39.md) |
+| triageR | 0.2.0 | 2026-09-05 02:20:02 UTC | [open](../records/r-triager-d2a87535.md) |
 | TrialSimulator | 1.35.8 | 2026-09-04 17:00:02 UTC | [open](../records/r-trialsimulator-683f48f5.md) |
 
 ## Haskell
@@ -527,7 +528,7 @@ Records: `554`
 | esengine/DeepSeek-Reasonix | partial | 2026-09-05T01:02:55Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-05T02:18:19Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-05T03:20:03Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 

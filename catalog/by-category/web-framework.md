@@ -9,7 +9,7 @@ Records: `476`
 ## Category Index
 
 [Api Abi Checker (214)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (192)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (554)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (192)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (555)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (126)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (173)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (885)](database-datastore.md) · [Datetime (215)](datetime.md)
@@ -262,7 +262,7 @@ Records: `476`
 | @winor30/mcp-server-datadog | 1.8.0 | 2026-06-22T12:19:38.392Z | [open](../records/node-js-javascript-winor30-mcp-server-datadog-d7ec44ca.md) |
 | @zenstackhq/server | 3.9.3 | 2026-08-31T13:33:45.418Z | [open](../records/node-js-javascript-zenstackhq-server-99bce111.md) |
 | apollo-server-module-graphiql | 1.4.0 | 2018-07-13T18:46:58.732Z | [open](../records/node-js-javascript-apollo-server-module-graphiql-868b59df.md) |
-| appium-uiautomator2-server | 10.6.2 | 2026-08-14T04:23:00.085Z | [open](../records/node-js-javascript-appium-uiautomator2-server-156ed7d4.md) |
+| appium-uiautomator2-server | 10.6.3 | 2026-09-05T02:30:03.699Z | [open](../records/node-js-javascript-appium-uiautomator2-server-156ed7d4.md) |
 | chrome-devtools-mcp | 1.8.0 | 2026-08-25T11:44:22.188Z | [open](../records/node-js-javascript-chrome-devtools-mcp-3aba1a23.md) |
 | code-server | 4.135.0 | 2026-08-27T18:15:15.893Z | [open](../records/node-js-javascript-code-server-cf26133a.md) |
 | decap-server | 3.11.0 | 2026-08-31T13:05:34.120Z | [open](../records/node-js-javascript-decap-server-cbdda5d6.md) |

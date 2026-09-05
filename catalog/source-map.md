@@ -5,7 +5,7 @@
 ## Category Index
 
 [Api Abi Checker (214)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (136)](by-category/async-runtime.md)
-[Benchmarking (192)](by-category/benchmarking.md) · [Build System (972)](by-category/build-system.md) · [Cli (554)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (192)](by-category/benchmarking.md) · [Build System (972)](by-category/build-system.md) · [Cli (555)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (116)](by-category/community-reference.md) · [Compiler (175)](by-category/compiler.md) · [Compiler Diagnostics (23)](by-category/compiler-diagnostics.md) · [Compression (50)](by-category/compression.md)
 [Concurrency Parallelism (89)](by-category/concurrency-parallelism.md) · [Configuration (126)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (173)](by-category/cryptography.md) · [Data Science (37)](by-category/data-science.md) · [Database Datastore (885)](by-category/database-datastore.md) · [Datetime (215)](by-category/datetime.md)
@@ -1617,6 +1617,7 @@
 | `cran_packages_by_date-7c7c03002e3caa` | lava | [open](records/r-lava-bd3f9778.md) |
 | `cran_packages_by_date-7c8e471fd3e827` | SSBtools | [open](records/r-ssbtools-5fd89a98.md) |
 | `cran_packages_by_date-7ca719a9c390d5` | stringi | [open](records/r-stringi-fa676cce.md) |
+| `cran_packages_by_date-7ca87b5b12fa06` | triageR | [open](records/r-triager-d2a87535.md) |
 | `cran_packages_by_date-7cae10bba78a5d` | drmeta | [open](records/r-drmeta-cc12b4a0.md) |
 | `cran_packages_by_date-7cb6d4bbe1b2dc` | tinysnapshot | [open](records/r-tinysnapshot-bf66d58c.md) |
 | `cran_packages_by_date-7cb93aabad81da` | smaa | [open](records/r-smaa-f335f1f5.md) |

@@ -9,7 +9,7 @@ Records: `2408`
 ## Category Index
 
 [Api Abi Checker (214)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
-[Benchmarking (192)](../by-category/benchmarking.md) · [Build System (972)](../by-category/build-system.md) · [Cli (554)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (192)](../by-category/benchmarking.md) · [Build System (972)](../by-category/build-system.md) · [Cli (555)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (116)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (50)](../by-category/compression.md)
 [Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (126)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (173)](../by-category/cryptography.md) · [Data Science (37)](../by-category/data-science.md) · [Database Datastore (885)](../by-category/database-datastore.md) · [Datetime (215)](../by-category/datetime.md)
@@ -2588,7 +2588,7 @@ Records: `2408`
 | [@winor30/mcp-server-datadog](../records/node-js-javascript-winor30-mcp-server-datadog-d7ec44ca.md) | 1.8.0 | 2026-06-22T12:19:38.392Z | registry-derived |
 | [@zenstackhq/server](../records/node-js-javascript-zenstackhq-server-99bce111.md) | 3.9.3 | 2026-08-31T13:33:45.418Z | registry-derived |
 | [apollo-server-module-graphiql](../records/node-js-javascript-apollo-server-module-graphiql-868b59df.md) | 1.4.0 | 2018-07-13T18:46:58.732Z | registry-derived |
-| [appium-uiautomator2-server](../records/node-js-javascript-appium-uiautomator2-server-156ed7d4.md) | 10.6.2 | 2026-08-14T04:23:00.085Z | registry-derived |
+| [appium-uiautomator2-server](../records/node-js-javascript-appium-uiautomator2-server-156ed7d4.md) | 10.6.3 | 2026-09-05T02:30:03.699Z | registry-derived |
 | [chrome-devtools-mcp](../records/node-js-javascript-chrome-devtools-mcp-3aba1a23.md) | 1.8.0 | 2026-08-25T11:44:22.188Z | registry-derived |
 | [code-server](../records/node-js-javascript-code-server-cf26133a.md) | 4.135.0 | 2026-08-27T18:15:15.893Z | registry-derived |
 | [decap-server](../records/node-js-javascript-decap-server-cbdda5d6.md) | 3.11.0 | 2026-08-31T13:05:34.120Z | registry-derived |

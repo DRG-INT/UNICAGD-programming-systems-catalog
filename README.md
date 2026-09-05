@@ -1,6 +1,6 @@
 # UNICAGD Programming Systems Discovery Catalog
 
-Generated: `2026-09-05T02:20:46+00:00`
+Generated: `2026-09-05T03:21:15+00:00`
 
 This repository is a Markdown explorer for a systems-engineering programming corpus. It preserves the master JSON seed, expands it with registry-derived ecosystem records, and tracks release metadata without guessing unknown dates.
 
@@ -15,7 +15,7 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 ## Category Index
 
 [Api Abi Checker (214)](catalog/by-category/api-abi-checker.md) · [Api Doc Generator (12)](catalog/by-category/api-doc-generator.md) · [Assertion Mocking (46)](catalog/by-category/assertion-mocking.md) · [Async Runtime (136)](catalog/by-category/async-runtime.md)
-[Benchmarking (192)](catalog/by-category/benchmarking.md) · [Build System (972)](catalog/by-category/build-system.md) · [Cli (554)](catalog/by-category/cli.md) · [Codegen Codemod Refactoring (23)](catalog/by-category/codegen-codemod-refactoring.md)
+[Benchmarking (192)](catalog/by-category/benchmarking.md) · [Build System (972)](catalog/by-category/build-system.md) · [Cli (555)](catalog/by-category/cli.md) · [Codegen Codemod Refactoring (23)](catalog/by-category/codegen-codemod-refactoring.md)
 [Community Reference (116)](catalog/by-category/community-reference.md) · [Compiler (175)](catalog/by-category/compiler.md) · [Compiler Diagnostics (23)](catalog/by-category/compiler-diagnostics.md) · [Compression (50)](catalog/by-category/compression.md)
 [Concurrency Parallelism (89)](catalog/by-category/concurrency-parallelism.md) · [Configuration (126)](catalog/by-category/configuration.md) · [Container Deployment (9)](catalog/by-category/container-deployment.md) · [Coverage (14)](catalog/by-category/coverage.md)
 [Cryptography (173)](catalog/by-category/cryptography.md) · [Data Science (37)](catalog/by-category/data-science.md) · [Database Datastore (885)](catalog/by-category/database-datastore.md) · [Datetime (215)](catalog/by-category/datetime.md)
@@ -37,10 +37,10 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 | Metric | Count |
 | --- | ---: |
 | Source records | 968 |
-| Canonical identity pages | 26761 |
+| Canonical identity pages | 26762 |
 | Expansion records added | 8605 |
 | Release checks attempted | 1200 |
-| Known stable release fields | 10054 |
+| Known stable release fields | 10055 |
 | Unknown stable release fields | 16707 |
 | Fetch errors recorded | 1071 |
 | Target identity count | 24000 |
