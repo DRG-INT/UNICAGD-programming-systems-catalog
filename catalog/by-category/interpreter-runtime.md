@@ -14,14 +14,14 @@ Records: `267`
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (128)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (889)](database-datastore.md) · [Datetime (223)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (453)](ffi-bindings.md) · [Filesystem Os (1570)](filesystem-os.md) · [Formatter (644)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1449)](ide-editor-integration.md)
+[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (453)](ffi-bindings.md) · [Filesystem Os (1571)](filesystem-os.md) · [Formatter (644)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1450)](ide-editor-integration.md)
 [Image Audio Dsp (431)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · **[Interpreter Runtime (267)](interpreter-runtime.md)** · [Jit Vm (63)](jit-vm.md)
 [Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · [Library (5584)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (775)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1135)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
-[Profiler (86)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
+[Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (394)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (600)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (605)](testing-framework.md) · [Tutorial Book Styleguide (63)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
 [Undefined Behavior Analyzer (1601)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (547)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
@@ -442,10 +442,10 @@ Records: `267`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | com.sap.cds:cds4j-runtime | 3.10.1 | 2025-05-16T09:42:57+00:00 | [open](../records/sapjava-com-sap-cds-cds4j-runtime-78d29f7f.md) |
-| ivannov/addon-saphcp | unknown | not_a_maven_coordinate | [open](../records/sapjava-ivannov-addon-saphcp-6b72ce4b.md) |
-| rangasri85/ranga | unknown | not_a_maven_coordinate | [open](../records/sapjava-rangasri85-ranga-3185d6ee.md) |
+| ivannov/addon-saphcp | partial | 2014-03-11T23:36:46Z | [open](../records/sapjava-ivannov-addon-saphcp-6b72ce4b.md) |
+| rangasri85/ranga | partial | 2019-12-14T13:14:42Z | [open](../records/sapjava-rangasri85-ranga-3185d6ee.md) |
 | SAP-archive/cloud-sample-library | partial | 2020-12-17T00:24:57Z | [open](../records/sapjava-sap-archive-cloud-sample-library-47935dc9.md) |
-| SAP-samples/hana-apl-apis-runtimes | v4.2612.0 | 2026-06-23T12:24:09Z | [open](../records/sapjava-sap-samples-hana-apl-apis-runtimes-e35cdaa8.md) |
+| SAP-samples/hana-apl-apis-runtimes | partial | 2026-06-23T13:24:11Z | [open](../records/sapjava-sap-samples-hana-apl-apis-runtimes-e35cdaa8.md) |
 | SAP/smart-test-picker | partial | 2026-09-04T18:37:01Z | [open](../records/sapjava-sap-smart-test-picker-05c91710.md) |
 
 ## Swift
@@ -486,7 +486,7 @@ Records: `267`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | andreyorst/fenneldoc | partial | 2025-11-25T23:04:47.461Z | [open](../records/repository-workplaces-andreyorst-fenneldoc-ae269a8d.md) |
-| cespedes/ltrace | partial | 2026-09-04T23:53:52.302Z | [open](../records/repository-workplaces-cespedes-ltrace-7df92cd8.md) |
+| cespedes/ltrace | partial | 2026-09-05T16:20:44.446Z | [open](../records/repository-workplaces-cespedes-ltrace-7df92cd8.md) |
 | cznic/libc | partial | 2026-09-05T03:16:36.755Z | [open](../records/repository-workplaces-cznic-libc-3b834450.md) |
 | DerLinkshaender/csv2xlsx | partial | 2023-01-23T21:54:27.769Z | [open](../records/repository-workplaces-derlinkshaender-csv2xlsx-bd2e77a2.md) |
 | freedesktop-sdk/freedesktop-sdk | partial | 2026-09-05T11:14:56.776Z | [open](../records/repository-workplaces-freedesktop-sdk-freedesktop-sdk-d7a3f323.md) |

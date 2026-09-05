@@ -14,14 +14,14 @@ Records: `2183`
 [Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (128)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (173)](../by-category/cryptography.md) · [Data Science (38)](../by-category/data-science.md) · [Database Datastore (889)](../by-category/database-datastore.md) · [Datetime (223)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (101)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
-[Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (453)](../by-category/ffi-bindings.md) · [Filesystem Os (1570)](../by-category/filesystem-os.md) · [Formatter (644)](../by-category/formatter.md)
-[Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1449)](../by-category/ide-editor-integration.md)
+[Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (453)](../by-category/ffi-bindings.md) · [Filesystem Os (1571)](../by-category/filesystem-os.md) · [Formatter (644)](../by-category/formatter.md)
+[Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1450)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (431)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (267)](../by-category/interpreter-runtime.md) · [Jit Vm (63)](../by-category/jit-vm.md)
 [Language Server (29)](../by-category/language-server.md) · [Language Specification (1431)](../by-category/language-specification.md) · [Library (5584)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (519)](../by-category/logging-observability.md) · [Machine Learning (775)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1029)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (441)](../by-category/package-manager.md) · [Parser Lexer Ast (1135)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](../by-category/precommit-ci-quality.md)
-[Profiler (86)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (15)](../by-category/sanitizer.md)
+[Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (15)](../by-category/sanitizer.md)
 [Security Sast (336)](../by-category/security-sast.md) · [Serialization (394)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (600)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (605)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (63)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1601)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (547)](../by-category/visualization-gui.md) · [Web Framework (476)](../by-category/web-framework.md)
@@ -612,7 +612,7 @@ Records: `2183`
 | [async-tungstenite](../records/rust-async-tungstenite-5edcf7da.md) | 0.35.0 | 2026-07-28T08:20:36.034619Z | crates_io |
 | [atk](../records/rust-atk-d196f43c.md) | 0.18.2 | 2024-12-09T11:45:55.239461Z | crates_io |
 | [atk-sys](../records/rust-atk-sys-cb5c942b.md) | 0.18.2 | 2024-12-09T11:45:59.322690Z | crates_io |
-| [bindgen](../records/rust-bindgen-355a5568.md) | 0.72.1 | 2025-08-31T17:50:11.198164Z | registry-derived |
+| [bindgen](../records/rust-bindgen-355a5568.md) | 0.73.1 | 2026-09-05T17:25:52.826923Z | registry-derived |
 | [blst](../records/rust-blst-563b5ba6.md) | 0.3.17 | 2026-07-24T13:53:15.565905Z | crates_io |
 | [bzip2](../records/rust-bzip2-7eaa6040.md) | 0.6.1 | 2025-10-16T14:18:19.210799Z | registry-derived |
 | [bzip2-sys](../records/rust-bzip2-sys-9822845b.md) | 0.1.13+1.0.8 | 2025-02-28T13:56:25.581313Z | registry-derived |
@@ -781,11 +781,11 @@ Records: `2183`
 | [coset](../records/rust-coset-c077e54f.md) | 0.4.2 | 2026-03-02T07:16:55.404609Z | crates_io |
 | [cranelift-native](../records/rust-cranelift-native-4c2d3a11.md) | 0.135.1 | 2026-08-24T19:58:18.363656Z | crates_io |
 | [critical-section](../records/rust-critical-section-216073b2.md) | 1.2.0 | 2026-06-09T18:20:52.842600Z | registry-derived |
-| [crossbeam](../records/rust-crossbeam-d674677e.md) | 0.8.4 | 2024-01-08T12:58:18.537533Z | registry-derived |
-| [crossbeam-channel](../records/rust-crossbeam-channel-c2b52a92.md) | 0.5.16 | 2026-07-06T15:53:22.889927Z | registry-derived |
-| [crossbeam-deque](../records/rust-crossbeam-deque-5d3c8d71.md) | 0.8.7 | 2026-07-06T15:52:31.437200Z | registry-derived |
-| [crossbeam-epoch](../records/rust-crossbeam-epoch-b0e6b898.md) | 0.9.20 | 2026-07-06T18:09:38.968039Z | registry-derived |
-| [crossbeam-utils](../records/rust-crossbeam-utils-30ad0372.md) | 0.8.22 | 2026-07-06T15:51:40.163512Z | registry-derived |
+| [crossbeam](../records/rust-crossbeam-d674677e.md) | 0.8.5 | 2026-09-05T17:47:37.499898Z | registry-derived |
+| [crossbeam-channel](../records/rust-crossbeam-channel-c2b52a92.md) | 0.5.17 | 2026-09-05T17:47:21.507092Z | registry-derived |
+| [crossbeam-deque](../records/rust-crossbeam-deque-5d3c8d71.md) | 0.8.8 | 2026-09-05T17:47:08.254122Z | registry-derived |
+| [crossbeam-epoch](../records/rust-crossbeam-epoch-b0e6b898.md) | 0.9.21 | 2026-09-05T17:46:49.471801Z | registry-derived |
+| [crossbeam-utils](../records/rust-crossbeam-utils-30ad0372.md) | 0.8.23 | 2026-09-05T17:46:14.665751Z | registry-derived |
 | [cursor-icon](../records/rust-cursor-icon-35e46034.md) | 1.2.0 | 2025-05-25T14:10:49.317221Z | crates_io |
 | [data-encoding-macro](../records/rust-data-encoding-macro-fbbc96bb.md) | 0.1.21 | 2026-08-03T10:40:06.240973Z | crates_io |
 | [defmt-macros](../records/rust-defmt-macros-e9f835a5.md) | 1.1.1 | 2026-07-03T14:14:21.833924Z | crates_io |
@@ -1223,7 +1223,7 @@ Records: `2183`
 | [data-url](../records/rust-data-url-bc300891.md) | 0.3.2 | 2025-08-21T08:45:42.636371Z | crates_io |
 | [directories](../records/rust-directories-c7053c33.md) | 6.0.0 | 2025-01-12T17:19:05.177535Z | registry-derived |
 | [directories-next](../records/rust-directories-next-f33efe8a.md) | 2.0.0 | 2020-10-22T03:34:05.036126Z | crates_io |
-| [dirs](../records/rust-dirs-0725b651.md) | 6.0.0 | 2025-01-12T17:19:23.581020Z | registry-derived |
+| [dirs](../records/rust-dirs-0725b651.md) | 7.0.0 | 2026-09-05T17:32:15.811659Z | registry-derived |
 | [dirs-next](../records/rust-dirs-next-6b774d57.md) | 2.0.0 | 2020-10-22T03:34:04.786339Z | registry-derived |
 | [ecdsa](../records/rust-ecdsa-164d5c0b.md) | 0.17.0 | 2026-07-02T14:36:09.973019Z | registry-derived |
 | [encoding_rs](../records/rust-encoding-rs-5d218ba4.md) | 0.8.35 | 2024-10-24T09:22:44.123986Z | registry-derived |
@@ -1954,7 +1954,7 @@ Records: `2183`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [concurrent-queue](../records/rust-concurrent-queue-be84d7d6.md) | 2.5.0 | 2024-04-26T14:26:18.816602Z | registry-derived |
-| [crossbeam-queue](../records/rust-crossbeam-queue-6ce25da7.md) | 0.3.13 | 2026-07-06T15:52:58.228649Z | registry-derived |
+| [crossbeam-queue](../records/rust-crossbeam-queue-6ce25da7.md) | 0.3.14 | 2026-09-05T17:46:34.288577Z | registry-derived |
 | [kqueue](../records/rust-kqueue-133c94cf.md) | 1.2.1 | 2026-08-04T14:04:27.587775Z | registry-derived |
 | [kqueue-sys](../records/rust-kqueue-sys-0b0fdb03.md) | 1.1.2 | 2026-05-14T08:11:34.035502Z | registry-derived |
 | [polling](../records/rust-polling-f3d01a29.md) | 3.11.0 | 2025-09-14T14:00:51.946852Z | registry-derived |

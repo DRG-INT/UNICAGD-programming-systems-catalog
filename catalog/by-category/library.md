@@ -14,14 +14,14 @@ Records: `5584`
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (128)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (889)](database-datastore.md) · [Datetime (223)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (453)](ffi-bindings.md) · [Filesystem Os (1570)](filesystem-os.md) · [Formatter (644)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1449)](ide-editor-integration.md)
+[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (453)](ffi-bindings.md) · [Filesystem Os (1571)](filesystem-os.md) · [Formatter (644)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1450)](ide-editor-integration.md)
 [Image Audio Dsp (431)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
 [Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · **[Library (5584)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (775)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1135)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
-[Profiler (86)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
+[Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (394)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (600)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (605)](testing-framework.md) · [Tutorial Book Styleguide (63)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
 [Undefined Behavior Analyzer (1601)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (547)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
@@ -2571,7 +2571,7 @@ Records: `5584`
 | countrycode | 1.9.0 | 2026-08-20 05:21:29 UTC | [open](../records/r-countrycode-f298763e.md) |
 | countSTAR | 1.2.1 | 2026-08-21 05:50:02 UTC | [open](../records/r-countstar-46511233.md) |
 | coursekata | 0.20.1 | 2026-08-22 15:10:32 UTC | [open](../records/r-coursekata-356923c4.md) |
-| cox.rvph | 0.2.0 | 2026-08-29 17:30:02 UTC | [open](../records/r-cox-rvph-ebf0e677.md) |
+| cox.rvph | 0.2.1 | 2026-09-05 16:20:15 UTC | [open](../records/r-cox-rvph-ebf0e677.md) |
 | crops | 1.0.4 | 2026-09-04 13:50:01 UTC | [open](../records/r-crops-133aa91c.md) |
 | crs | 0.15-46 | 2026-08-19 16:40:02 UTC | [open](../records/r-crs-15303fff.md) |
 | csranks | 1.3.0 | 2026-08-21 05:44:19 UTC | [open](../records/r-csranks-d89e3d2e.md) |
@@ -4212,7 +4212,7 @@ Records: `5584`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-05T15:28:35Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-05T17:45:16Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -5516,9 +5516,9 @@ Records: `5584`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| abelsu7/Developing-Java-Based-Apps-on-SAP-HANA-Cloud-Platform-Notes | unknown | not_a_maven_coordinate | [open](../records/sapjava-abelsu7-developing-java-based-apps-on-sap-hana-cloud-platform-notes-9897aaf7.md) |
+| abelsu7/Developing-Java-Based-Apps-on-SAP-HANA-Cloud-Platform-Notes | partial | 2016-10-11T08:12:13Z | [open](../records/sapjava-abelsu7-developing-java-based-apps-on-sap-hana-cloud-platform-notes-9897aaf7.md) |
 | anselm94/cap-java-employee-management | partial | 2026-08-27T15:08:34Z | [open](../records/sapjava-anselm94-cap-java-employee-management-436eb72e.md) |
-| arockiaraj-kaavian/sap_hana_java_spring | unknown | not_a_maven_coordinate | [open](../records/sapjava-arockiaraj-kaavian-sap-hana-java-spring-40cea18e.md) |
+| arockiaraj-kaavian/sap_hana_java_spring | partial | 2024-07-17T11:54:13Z | [open](../records/sapjava-arockiaraj-kaavian-sap-hana-java-spring-40cea18e.md) |
 | arviprabhu/SAP-CAP-CF-JavaReuse | partial | 2021-06-11T11:59:47Z | [open](../records/sapjava-arviprabhu-sap-cap-cf-javareuse-007fd0fc.md) |
 | beroca/sap-cap-products-service-java | partial | 2024-02-15T23:23:42Z | [open](../records/sapjava-beroca-sap-cap-products-service-java-811bea3d.md) |
 | boudhayan-dev/spring-hana-cloud-foundry | partial | 2019-07-22T13:58:28Z | [open](../records/sapjava-boudhayan-dev-spring-hana-cloud-foundry-d0e303cd.md) |
@@ -5619,25 +5619,25 @@ Records: `5584`
 | com.sap.cloud:neo-javaee6-wp-sdk | 2.208.5 | 2021-05-21T08:09:57+00:00 | [open](../records/sapjava-com-sap-cloud-neo-javaee6-wp-sdk-26aa38cf.md) |
 | com.sap.cloud:neo-javaee7-wp-maven-plugin | 1.202.2 | 2025-06-11T13:48:34+00:00 | [open](../records/sapjava-com-sap-cloud-neo-javaee7-wp-maven-plugin-95816c31.md) |
 | com.sap.cloud:neo-javaee7-wp-sdk | 1.202.2 | 2025-06-11T13:48:33+00:00 | [open](../records/sapjava-com-sap-cloud-neo-javaee7-wp-sdk-a7723f83.md) |
-| dhorions/hanacloud-messenger-bot | unknown | not_a_maven_coordinate | [open](../records/sapjava-dhorions-hanacloud-messenger-bot-f4eceabf.md) |
+| dhorions/hanacloud-messenger-bot | partial | 2016-07-31T11:16:44Z | [open](../records/sapjava-dhorions-hanacloud-messenger-bot-f4eceabf.md) |
 | diego-izurieta/address-manager | partial | 2021-03-31T21:21:50Z | [open](../records/sapjava-diego-izurieta-address-manager-3c30118e.md) |
-| EDISONGIRAL/SAP | unknown | not_a_maven_coordinate | [open](../records/sapjava-edisongiral-sap-0a7ac231.md) |
+| EDISONGIRAL/SAP | partial | 2016-09-09T01:23:27Z | [open](../records/sapjava-edisongiral-sap-0a7ac231.md) |
 | fercasloz/sap_cap_java_btp | partial | 2026-01-08T15:09:52Z | [open](../records/sapjava-fercasloz-sap-cap-java-btp-2d3fcc7a.md) |
 | goranschwarz/DbxTune | partial | 2026-09-04T14:11:57Z | [open](../records/sapjava-goranschwarz-dbxtune-836827b4.md) |
 | gregorwolf/sap-cloud-sdk-java | partial | 2021-02-12T09:02:48Z | [open](../records/sapjava-gregorwolf-sap-cloud-sdk-java-f9365671.md) |
 | gregorwolf/sap-cloud-sdk-rfc | partial | 2024-04-02T20:26:31Z | [open](../records/sapjava-gregorwolf-sap-cloud-sdk-rfc-4bcdf9e3.md) |
 | gyotro/SAP_CAP_Java_POC | partial | 2026-06-22T06:53:29Z | [open](../records/sapjava-gyotro-sap-cap-java-poc-02d05a37.md) |
 | Huancx/SAPBTP-CAP | partial | 2025-05-06T09:12:48Z | [open](../records/sapjava-huancx-sapbtp-cap-954e2ce0.md) |
-| IBM-Cloud/sap-netweaver-java-hana | unknown | not_a_maven_coordinate | [open](../records/sapjava-ibm-cloud-sap-netweaver-java-hana-a17bf1c6.md) |
+| IBM-Cloud/sap-netweaver-java-hana | partial | 2024-12-12T09:45:20Z | [open](../records/sapjava-ibm-cloud-sap-netweaver-java-hana-a17bf1c6.md) |
 | jplim/sap-cloud-cap-java | partial | 2021-01-19T02:47:55Z | [open](../records/sapjava-jplim-sap-cloud-cap-java-6f6d2232.md) |
 | kshanth/db-routing-cap-samples-java | partial | 2022-10-31T07:02:15Z | [open](../records/sapjava-kshanth-db-routing-cap-samples-java-a19ed20a.md) |
 | MartinPankraz/az-private-linky | partial | 2023-10-11T06:13:36Z | [open](../records/sapjava-martinpankraz-az-private-linky-4591f1e2.md) |
 | NguyenMinhChien20020369/SAP_CAP_JAVA | partial | 2026-06-22T09:20:33Z | [open](../records/sapjava-nguyenminhchien20020369-sap-cap-java-8e8ec4e1.md) |
 | NguyenMinhChien20020369/SAP_CAP_JAVA_SF | partial | 2026-07-08T06:51:03Z | [open](../records/sapjava-nguyenminhchien20020369-sap-cap-java-sf-e06e1b2b.md) |
-| Rameshkwins/SAP_HANA_Java_Connect | unknown | not_a_maven_coordinate | [open](../records/sapjava-rameshkwins-sap-hana-java-connect-255b3dc4.md) |
+| Rameshkwins/SAP_HANA_Java_Connect | partial | 2017-09-21T21:32:06Z | [open](../records/sapjava-rameshkwins-sap-hana-java-connect-255b3dc4.md) |
 | rbettison/JavaOdataCAP | partial | 2024-02-15T16:29:25Z | [open](../records/sapjava-rbettison-javaodatacap-4deed594.md) |
 | rcgtechrepo/sap_cap_java | partial | 2025-01-05T12:59:20Z | [open](../records/sapjava-rcgtechrepo-sap-cap-java-56e882c4.md) |
-| SAP-archive/hana-shared-ledger-examples | unknown | not_a_maven_coordinate | [open](../records/sapjava-sap-archive-hana-shared-ledger-examples-33688859.md) |
+| SAP-archive/hana-shared-ledger-examples | partial | 2025-03-07T13:38:38Z | [open](../records/sapjava-sap-archive-hana-shared-ledger-examples-33688859.md) |
 | SAP-samples/cloud-cap-samples-java | partial | 2026-09-04T11:43:56Z | [open](../records/sapjava-sap-samples-cloud-cap-samples-java-14329741.md) |
 | Showkath/cloud-cap-samples-java | partial | 2020-09-20T12:52:49Z | [open](../records/sapjava-showkath-cloud-cap-samples-java-2f0f532c.md) |
 | sillym/java-sdk-project | partial | 2020-06-01T06:32:16Z | [open](../records/sapjava-sillym-java-sdk-project-0f2e5b6d.md) |

@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-05T17:19:05+00:00`
+Generated: `2026-09-05T18:24:12+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -12,14 +12,14 @@ Generated: `2026-09-05T17:19:05+00:00`
 [Concurrency Parallelism (89)](by-category/concurrency-parallelism.md) · [Configuration (128)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (173)](by-category/cryptography.md) · [Data Science (38)](by-category/data-science.md) · [Database Datastore (889)](by-category/database-datastore.md) · [Datetime (223)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (101)](by-category/dependency-manager.md) · [Documentation (103)](by-category/documentation.md)
-[Embedded Hardware (56)](by-category/embedded-hardware.md) · [Ffi Bindings (453)](by-category/ffi-bindings.md) · [Filesystem Os (1570)](by-category/filesystem-os.md) · [Formatter (644)](by-category/formatter.md)
-[Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (354)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1449)](by-category/ide-editor-integration.md)
+[Embedded Hardware (56)](by-category/embedded-hardware.md) · [Ffi Bindings (453)](by-category/ffi-bindings.md) · [Filesystem Os (1571)](by-category/filesystem-os.md) · [Formatter (644)](by-category/formatter.md)
+[Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (354)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1450)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (431)](by-category/image-audio-dsp.md) · [Interop Bindings (61)](by-category/interop-bindings.md) · [Interpreter Runtime (267)](by-category/interpreter-runtime.md) · [Jit Vm (63)](by-category/jit-vm.md)
 [Language Server (29)](by-category/language-server.md) · [Language Specification (1431)](by-category/language-specification.md) · [Library (5584)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (519)](by-category/logging-observability.md) · [Machine Learning (775)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1029)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (441)](by-category/package-manager.md) · [Parser Lexer Ast (1135)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](by-category/precommit-ci-quality.md)
-[Profiler (86)](by-category/profiler.md) · [Project Scaffolding (133)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (15)](by-category/sanitizer.md)
+[Profiler (87)](by-category/profiler.md) · [Project Scaffolding (133)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (15)](by-category/sanitizer.md)
 [Security Sast (336)](by-category/security-sast.md) · [Serialization (394)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (600)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (605)](by-category/testing-framework.md) · [Tutorial Book Styleguide (63)](by-category/tutorial-book-styleguide.md) · [Type Checker (313)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1601)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (547)](by-category/visualization-gui.md) · [Web Framework (476)](by-category/web-framework.md)
@@ -29,12 +29,22 @@ Generated: `2026-09-05T17:19:05+00:00`
 | State | Count |
 | --- | ---: |
 | Known stable release | 10105 |
-| Unknown stable release | 17028 |
+| Unknown stable release | 17031 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| ideas | Haskell | Ide Editor Integration | 1.9.1 | 2026-09-05T18:13:40Z | [open](records/haskell-ideas-bf8cd393.md) |
+| crossbeam | Rust | Filesystem Os | 0.8.5 | 2026-09-05T17:47:37.499898Z | [open](records/rust-crossbeam-d674677e.md) |
+| crossbeam-channel | Rust | Filesystem Os | 0.5.17 | 2026-09-05T17:47:21.507092Z | [open](records/rust-crossbeam-channel-c2b52a92.md) |
+| crossbeam-deque | Rust | Filesystem Os | 0.8.8 | 2026-09-05T17:47:08.254122Z | [open](records/rust-crossbeam-deque-5d3c8d71.md) |
+| crossbeam-epoch | Rust | Filesystem Os | 0.9.21 | 2026-09-05T17:46:49.471801Z | [open](records/rust-crossbeam-epoch-b0e6b898.md) |
+| crossbeam-queue | Rust | Message Broker | 0.3.14 | 2026-09-05T17:46:34.288577Z | [open](records/rust-crossbeam-queue-6ce25da7.md) |
+| crossbeam-utils | Rust | Filesystem Os | 0.8.23 | 2026-09-05T17:46:14.665751Z | [open](records/rust-crossbeam-utils-30ad0372.md) |
+| dirs | Rust | Language Specification | 7.0.0 | 2026-09-05T17:32:15.811659Z | [open](records/rust-dirs-0725b651.md) |
+| bindgen | Rust | Ffi Bindings | 0.73.1 | 2026-09-05T17:25:52.826923Z | [open](records/rust-bindgen-355a5568.md) |
+| logger | Dart | Logging Observability | 2.8.0 | 2026-09-05T17:20:29.963495Z | [open](records/dart-logger-1d289d0f.md) |
 | @maxminddatabase/geolite2 | Node.js/JavaScript | Database Datastore | 1.0.299 | 2026-09-05T16:05:33.259Z | [open](records/node-js-javascript-maxminddatabase-geolite2-f679c34e.md) |
 | testing-conventions | Node.js/TypeScript | Type Checker | 0.0.119 | 2026-09-05T15:41:24.383Z | [open](records/node-js-typescript-testing-conventions-a7bae5cf.md) |
 | hOpenPGP | Haskell | Library | 3.6.10 | 2026-09-05T14:35:40Z | [open](records/haskell-hopenpgp-dbd93565.md) |
@@ -81,6 +91,9 @@ Generated: `2026-09-05T17:19:05+00:00`
 | @stacksjs/testing | Node.js/JavaScript | Testing Framework | 0.74.24 | 2026-09-05T00:11:34.736Z | [open](records/node-js-javascript-stacksjs-testing-57469937.md) |
 | @stacksjs/database | Node.js/JavaScript | Database Datastore | 0.74.24 | 2026-09-05T00:10:56.047Z | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
 | @stacksjs/http | Node.js/JavaScript | Networking Http | 0.74.24 | 2026-09-05T00:05:37.864Z | [open](records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
+| BKT | R | Profiler | 0.1.2 | 2026-09-05 16:20:19 UTC | [open](records/r-bkt-97415a9e.md) |
+| cox.rvph | R | Library | 0.2.1 | 2026-09-05 16:20:15 UTC | [open](records/r-cox-rvph-ebf0e677.md) |
+| geoflow | R | Filesystem Os | 1.4.0 | 2026-09-05 16:20:02 UTC | [open](records/r-geoflow-5d44aa88.md) |
 | Rmalschains | R | Machine Learning | 0.2-12 | 2026-09-05 16:10:09 UTC | [open](records/r-rmalschains-568d821e.md) |
 | encharter | R | Serialization | 0.11 | 2026-09-05 16:10:03 UTC | [open](records/r-encharter-caacc771.md) |
 | aiDIF | R | Machine Learning | 0.2.0 | 2026-09-05 16:00:10 UTC | [open](records/r-aidif-0ae28d69.md) |
@@ -272,25 +285,12 @@ Generated: `2026-09-05T17:19:05+00:00`
 | vazul | R | Static Analyzer | 1.2.0 | 2026-09-04 11:00:02 UTC | [open](records/r-vazul-d5d0cc4e.md) |
 | frheritage | R | Library | 0.1.2 | 2026-09-04 10:30:02 UTC | [open](records/r-frheritage-8d28c42c.md) |
 | routing | R | Web Framework | 1.1.1 | 2026-09-04 10:00:02 UTC | [open](records/r-routing-2f4a5f07.md) |
-| weightedGCM | R | Testing Framework | 0.1.2 | 2026-09-04 08:00:02 UTC | [open](records/r-weightedgcm-d44149a3.md) |
-| multiSA | R | Library | 0.5.0 | 2026-09-04 07:20:02 UTC | [open](records/r-multisa-ffeddd7b.md) |
-| postlink | R | Static Analyzer | 0.1.1 | 2026-09-04 07:00:14 UTC | [open](records/r-postlink-29a9d411.md) |
-| ravetools | R | Logging Observability | 0.3.2 | 2026-09-04 07:00:02 UTC | [open](records/r-ravetools-a93bc0b6.md) |
-| ramchoice | R | Static Analyzer | 3.0.0 | 2026-09-04 06:40:10 UTC | [open](records/r-ramchoice-02e5d884.md) |
-| redlist | R | Logging Observability | 0.3.0 | 2026-09-04 06:40:02 UTC | [open](records/r-redlist-0504df08.md) |
-| ellmer | R | Language Specification | 0.5.0 | 2026-09-04 06:30:02 UTC | [open](records/r-ellmer-66e8b3ee.md) |
-| gloBFPr | R | Build System | 2.0.0 | 2026-09-04 06:20:02 UTC | [open](records/r-globfpr-d4e046b7.md) |
-| Require | R | Visualization Gui | 2.1.1 | 2026-09-04 05:10:59 UTC | [open](records/r-require-d9581ba6.md) |
-| crew | R | Framework | 1.3.3 | 2026-09-04 05:10:49 UTC | [open](records/r-crew-aa2b57a5.md) |
-| fungible | R | Library | 2.4.8 | 2026-09-04 05:10:35 UTC | [open](records/r-fungible-717f8691.md) |
-| gtsummary | R | Library | 2.6.1 | 2026-09-04 05:10:20 UTC | [open](records/r-gtsummary-74b0ca38.md) |
-| mRMRe | R | Concurrency Parallelism | 2.1.3.1 | 2026-09-04 05:10:14 UTC | [open](records/r-mrmre-354377c9.md) |
 
 ## Unknown Reasons
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 9362 |
+| gh_search_reports_activity_not_release_version | 9397 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
@@ -304,7 +304,6 @@ Generated: `2026-09-05T17:19:05+00:00`
 | gitlab_projects_api_reports_activity_not_release_version | 196 |
 | curated_database_record_requires_source_specific_release_lookup | 87 |
 | official_workplace_route_requires_source_specific_release_lookup | 59 |
-| not_a_maven_coordinate | 32 |
 | hackage_top_downloads_page_does_not_include_release_date | 14 |
 | not_a_cocoapods_name | 7 |
 | release_date_missing | 5 |

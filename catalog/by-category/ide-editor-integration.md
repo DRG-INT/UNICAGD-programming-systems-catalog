@@ -1,6 +1,6 @@
 # Ide Editor Integration
 
-Records: `1449`
+Records: `1450`
 
 ## Navigation
 
@@ -14,14 +14,14 @@ Records: `1449`
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (128)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (889)](database-datastore.md) · [Datetime (223)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (453)](ffi-bindings.md) · [Filesystem Os (1570)](filesystem-os.md) · [Formatter (644)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · **[Ide Editor Integration (1449)](ide-editor-integration.md)**
+[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (453)](ffi-bindings.md) · [Filesystem Os (1571)](filesystem-os.md) · [Formatter (644)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · **[Ide Editor Integration (1450)](ide-editor-integration.md)**
 [Image Audio Dsp (431)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
 [Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · [Library (5584)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (775)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1135)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
-[Profiler (86)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
+[Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (394)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (600)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (605)](testing-framework.md) · [Tutorial Book Styleguide (63)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
 [Undefined Behavior Analyzer (1601)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (547)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
@@ -526,6 +526,7 @@ Records: `1449`
 | amazonka-cognito-identity | 2.0 | 2023-07-27T21:08:35Z | [open](../records/haskell-amazonka-cognito-identity-d98828df.md) |
 | ghcide | 2.15.0.0 | 2026-09-04T10:38:09Z | [open](../records/haskell-ghcide-c9d6b87b.md) |
 | gi-gstvideo | 1.0.29 | 2024-06-16T21:13:01Z | [open](../records/haskell-gi-gstvideo-66f4ee23.md) |
+| ideas | 1.9.1 | 2026-09-05T18:13:40Z | [open](../records/haskell-ideas-bf8cd393.md) |
 | nvim-hs | 2.3.2.6 | 2026-07-27T17:13:40Z | [open](../records/haskell-nvim-hs-3c1d3ecb.md) |
 | threepenny-editors | 0.5.6.1 | 2018-10-07T18:47:00Z | [open](../records/haskell-threepenny-editors-dc79fbe9.md) |
 | wide-word | 0.1.9.0 | 2026-01-21T01:48:52Z | [open](../records/haskell-wide-word-daf89454.md) |
@@ -683,10 +684,10 @@ Records: `1449`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-03T13:31:40Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-05T17:11:14Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-05T18:13:40Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-05T16:04:02Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-05T14:38:26Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-05T15:07:51Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-05T18:10:34Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-05T09:27:03Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-04T19:06:10Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
@@ -1584,12 +1585,12 @@ Records: `1449`
 | Arthur-Liu-boop/CAP_JAVA | partial | 2025-05-16T04:17:54Z | [open](../records/sapjava-arthur-liu-boop-cap-java-aa3196a2.md) |
 | cabralbrcwb/incident-management | partial | 2025-09-10T09:46:47Z | [open](../records/sapjava-cabralbrcwb-incident-management-70ceff1c.md) |
 | cap-java/cds-ai | partial | 2026-09-03T07:34:28Z | [open](../records/sapjava-cap-java-cds-ai-9b69a547.md) |
-| ckyycc/hana-topology-editor | V1.00.00 | 2019-10-27T05:39:13Z | [open](../records/sapjava-ckyycc-hana-topology-editor-d8045f61.md) |
+| ckyycc/hana-topology-editor | partial | 2022-05-20T21:14:52Z | [open](../records/sapjava-ckyycc-hana-topology-editor-d8045f61.md) |
 | com.sap.cds:cds-feature-identity | 3.10.1 | 2025-05-16T11:26:35+00:00 | [open](../records/sapjava-com-sap-cds-cds-feature-identity-d9b992ff.md) |
-| jcombs-pointblue/SAP_Hana_Collector | v1.0.0 | 2026-04-23T15:19:53Z | [open](../records/sapjava-jcombs-pointblue-sap-hana-collector-17b6fe41.md) |
+| jcombs-pointblue/SAP_Hana_Collector | partial | 2026-04-23T15:34:24Z | [open](../records/sapjava-jcombs-pointblue-sap-hana-collector-17b6fe41.md) |
 | SAP/java-integration-for-sap-mobile-services | partial | 2026-08-31T15:43:50Z | [open](../records/sapjava-sap-java-integration-for-sap-mobile-services-1a48c7a1.md) |
 | shiAraki/incident-management_CF-to-Java | partial | 2025-08-06T09:05:23Z | [open](../records/sapjava-shiaraki-incident-management-cf-to-java-ef08d60a.md) |
-| tekaha/saphanaacademy-tinyworld | unknown | not_a_maven_coordinate | [open](../records/sapjava-tekaha-saphanaacademy-tinyworld-b7de04a7.md) |
+| tekaha/saphanaacademy-tinyworld | partial | 2018-07-14T10:28:14Z | [open](../records/sapjava-tekaha-saphanaacademy-tinyworld-b7de04a7.md) |
 
 ## Swift
 

@@ -14,14 +14,14 @@ Records: `310`
 [Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (128)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (173)](../by-category/cryptography.md) · [Data Science (38)](../by-category/data-science.md) · [Database Datastore (889)](../by-category/database-datastore.md) · [Datetime (223)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (101)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
-[Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (453)](../by-category/ffi-bindings.md) · [Filesystem Os (1570)](../by-category/filesystem-os.md) · [Formatter (644)](../by-category/formatter.md)
-[Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1449)](../by-category/ide-editor-integration.md)
+[Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (453)](../by-category/ffi-bindings.md) · [Filesystem Os (1571)](../by-category/filesystem-os.md) · [Formatter (644)](../by-category/formatter.md)
+[Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1450)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (431)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (267)](../by-category/interpreter-runtime.md) · [Jit Vm (63)](../by-category/jit-vm.md)
 [Language Server (29)](../by-category/language-server.md) · [Language Specification (1431)](../by-category/language-specification.md) · [Library (5584)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (519)](../by-category/logging-observability.md) · [Machine Learning (775)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1029)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (441)](../by-category/package-manager.md) · [Parser Lexer Ast (1135)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](../by-category/precommit-ci-quality.md)
-[Profiler (86)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (15)](../by-category/sanitizer.md)
+[Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (15)](../by-category/sanitizer.md)
 [Security Sast (336)](../by-category/security-sast.md) · [Serialization (394)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (600)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (605)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (63)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1601)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (547)](../by-category/visualization-gui.md) · [Web Framework (476)](../by-category/web-framework.md)
@@ -99,9 +99,9 @@ Records: `310`
 | --- | --- | --- | --- |
 | [com.sap.cds:cds-feature-postgresql](../records/sapjava-com-sap-cds-cds-feature-postgresql-6b0afe0c.md) | 3.10.1 | 2025-05-16T11:26:32+00:00 | registry-derived |
 | [com.sap.cds:cds-feature-redis](../records/sapjava-com-sap-cds-cds-feature-redis-94961708.md) | 3.10.1 | 2025-05-16T11:26:34+00:00 | registry-derived |
-| [omar-software/mini-sap-ui5-hana-material-app](../records/sapjava-omar-software-mini-sap-ui5-hana-material-app-5c18274a.md) | unknown | not_a_maven_coordinate | registry-derived |
-| [santhosh0000000/JDBC_SAP](../records/sapjava-santhosh0000000-jdbc-sap-5723fb2c.md) | unknown | not_a_maven_coordinate | registry-derived |
-| [stainboy/springboot-jpa-hana](../records/sapjava-stainboy-springboot-jpa-hana-e9e14156.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [omar-software/mini-sap-ui5-hana-material-app](../records/sapjava-omar-software-mini-sap-ui5-hana-material-app-5c18274a.md) | partial | 2026-05-29T12:04:27Z | registry-derived |
+| [santhosh0000000/JDBC_SAP](../records/sapjava-santhosh0000000-jdbc-sap-5723fb2c.md) | partial | 2023-08-06T09:35:02Z | registry-derived |
+| [stainboy/springboot-jpa-hana](../records/sapjava-stainboy-springboot-jpa-hana-e9e14156.md) | partial | 2022-11-20T15:00:22Z | registry-derived |
 | [whothefluff/sap-cap-unsupported-db-read](../records/sapjava-whothefluff-sap-cap-unsupported-db-read-eec51561.md) | partial | 2024-02-09T20:25:05Z | registry-derived |
 
 ### Dependency Manager
@@ -116,7 +116,7 @@ Records: `310`
 | --- | --- | --- | --- |
 | [SAP/ai-sdk](../records/sapjava-sap-ai-sdk-e8b4294c.md) | partial | 2026-09-05T02:30:47Z | registry-derived |
 | [SAP/cloud-sdk](../records/sapjava-sap-cloud-sdk-dd66ae4d.md) | partial | 2026-09-04T18:35:26Z | registry-derived |
-| [souzamarcelo9/sap-contas-apagar-worker](../records/sapjava-souzamarcelo9-sap-contas-apagar-worker-e8774582.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [souzamarcelo9/sap-contas-apagar-worker](../records/sapjava-souzamarcelo9-sap-contas-apagar-worker-e8774582.md) | partial | 2026-06-11T22:33:27Z | registry-derived |
 
 ### Filesystem Os
 
@@ -124,19 +124,19 @@ Records: `310`
 | --- | --- | --- | --- |
 | [AdrianoBispo/estude-sap-cap-com-java](../records/sapjava-adrianobispo-estude-sap-cap-com-java-cd237f6f.md) | partial | 2026-01-16T14:24:41Z | registry-derived |
 | [cap-js-community/sap-afc-sdk](../records/sapjava-cap-js-community-sap-afc-sdk-ceed7a56.md) | partial | 2026-09-04T21:55:14Z | registry-derived |
-| [cmunozhdz/HanaEjemplos](../records/sapjava-cmunozhdz-hanaejemplos-adf0cff1.md) | unknown | not_a_maven_coordinate | registry-derived |
-| [cosminnionutt/cloud-espm-v2](../records/sapjava-cosminnionutt-cloud-espm-v2-0b22ed02.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [cmunozhdz/HanaEjemplos](../records/sapjava-cmunozhdz-hanaejemplos-adf0cff1.md) | partial | 2024-02-19T04:13:34Z | registry-derived |
+| [cosminnionutt/cloud-espm-v2](../records/sapjava-cosminnionutt-cloud-espm-v2-0b22ed02.md) | partial | 2024-03-04T08:51:15Z | registry-derived |
 | [Hosseini1373/MultitenantApp_CF_SAP_BTP_JAVA](../records/sapjava-hosseini1373-multitenantapp-cf-sap-btp-java-60965f5f.md) | partial | 2024-06-20T12:05:40Z | registry-derived |
 | [Marcosfarhat/centro-medico-cap-java](../records/sapjava-marcosfarhat-centro-medico-cap-java-1246b3a5.md) | partial | 2026-06-03T02:22:28Z | registry-derived |
-| [thorstenfreitag/SAP-IoT_Train-HCP_Java_Backend](../records/sapjava-thorstenfreitag-sap-iot-train-hcp-java-backend-3ba09925.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [thorstenfreitag/SAP-IoT_Train-HCP_Java_Backend](../records/sapjava-thorstenfreitag-sap-iot-train-hcp-java-backend-3ba09925.md) | partial | 2015-08-24T03:34:57Z | registry-derived |
 
 ### Formatter
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [anoop-pande-23/Supplier-information-portal](../records/sapjava-anoop-pande-23-supplier-information-portal-25d0a6a5.md) | partial | 2025-12-23T11:02:58Z | registry-derived |
-| [santhosh0000000/ETL_SAP-HDFS](../records/sapjava-santhosh0000000-etl-sap-hdfs-63dea297.md) | unknown | not_a_maven_coordinate | registry-derived |
-| [santhosh0000000/ETL_sap_hive](../records/sapjava-santhosh0000000-etl-sap-hive-d456012e.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [santhosh0000000/ETL_SAP-HDFS](../records/sapjava-santhosh0000000-etl-sap-hdfs-63dea297.md) | partial | 2023-08-06T09:42:48Z | registry-derived |
+| [santhosh0000000/ETL_sap_hive](../records/sapjava-santhosh0000000-etl-sap-hive-d456012e.md) | partial | 2023-09-09T13:45:15Z | registry-derived |
 | [SAP/jfrevents](../records/sapjava-sap-jfrevents-92736fde.md) | partial | 2026-08-17T13:16:22Z | registry-derived |
 
 ### Framework
@@ -154,7 +154,7 @@ Records: `310`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [pnadig/cloud-hana-search-demo](../records/sapjava-pnadig-cloud-hana-search-demo-c4fe54e2.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [pnadig/cloud-hana-search-demo](../records/sapjava-pnadig-cloud-hana-search-demo-c4fe54e2.md) | partial | 2014-01-31T10:52:36Z | registry-derived |
 
 ### Game Engine Game Dev
 
@@ -171,22 +171,22 @@ Records: `310`
 | [Arthur-Liu-boop/CAP_JAVA](../records/sapjava-arthur-liu-boop-cap-java-aa3196a2.md) | partial | 2025-05-16T04:17:54Z | registry-derived |
 | [cabralbrcwb/incident-management](../records/sapjava-cabralbrcwb-incident-management-70ceff1c.md) | partial | 2025-09-10T09:46:47Z | registry-derived |
 | [cap-java/cds-ai](../records/sapjava-cap-java-cds-ai-9b69a547.md) | partial | 2026-09-03T07:34:28Z | registry-derived |
-| [ckyycc/hana-topology-editor](../records/sapjava-ckyycc-hana-topology-editor-d8045f61.md) | V1.00.00 | 2019-10-27T05:39:13Z | registry-derived |
+| [ckyycc/hana-topology-editor](../records/sapjava-ckyycc-hana-topology-editor-d8045f61.md) | partial | 2022-05-20T21:14:52Z | registry-derived |
 | [com.sap.cds:cds-feature-identity](../records/sapjava-com-sap-cds-cds-feature-identity-d9b992ff.md) | 3.10.1 | 2025-05-16T11:26:35+00:00 | registry-derived |
-| [jcombs-pointblue/SAP_Hana_Collector](../records/sapjava-jcombs-pointblue-sap-hana-collector-17b6fe41.md) | v1.0.0 | 2026-04-23T15:19:53Z | registry-derived |
+| [jcombs-pointblue/SAP_Hana_Collector](../records/sapjava-jcombs-pointblue-sap-hana-collector-17b6fe41.md) | partial | 2026-04-23T15:34:24Z | registry-derived |
 | [SAP/java-integration-for-sap-mobile-services](../records/sapjava-sap-java-integration-for-sap-mobile-services-1a48c7a1.md) | partial | 2026-08-31T15:43:50Z | registry-derived |
 | [shiAraki/incident-management_CF-to-Java](../records/sapjava-shiaraki-incident-management-cf-to-java-ef08d60a.md) | partial | 2025-08-06T09:05:23Z | registry-derived |
-| [tekaha/saphanaacademy-tinyworld](../records/sapjava-tekaha-saphanaacademy-tinyworld-b7de04a7.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [tekaha/saphanaacademy-tinyworld](../records/sapjava-tekaha-saphanaacademy-tinyworld-b7de04a7.md) | partial | 2018-07-14T10:28:14Z | registry-derived |
 
 ### Interpreter Runtime
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [com.sap.cds:cds4j-runtime](../records/sapjava-com-sap-cds-cds4j-runtime-78d29f7f.md) | 3.10.1 | 2025-05-16T09:42:57+00:00 | registry-derived |
-| [ivannov/addon-saphcp](../records/sapjava-ivannov-addon-saphcp-6b72ce4b.md) | unknown | not_a_maven_coordinate | registry-derived |
-| [rangasri85/ranga](../records/sapjava-rangasri85-ranga-3185d6ee.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [ivannov/addon-saphcp](../records/sapjava-ivannov-addon-saphcp-6b72ce4b.md) | partial | 2014-03-11T23:36:46Z | registry-derived |
+| [rangasri85/ranga](../records/sapjava-rangasri85-ranga-3185d6ee.md) | partial | 2019-12-14T13:14:42Z | registry-derived |
 | [SAP-archive/cloud-sample-library](../records/sapjava-sap-archive-cloud-sample-library-47935dc9.md) | partial | 2020-12-17T00:24:57Z | registry-derived |
-| [SAP-samples/hana-apl-apis-runtimes](../records/sapjava-sap-samples-hana-apl-apis-runtimes-e35cdaa8.md) | v4.2612.0 | 2026-06-23T12:24:09Z | registry-derived |
+| [SAP-samples/hana-apl-apis-runtimes](../records/sapjava-sap-samples-hana-apl-apis-runtimes-e35cdaa8.md) | partial | 2026-06-23T13:24:11Z | registry-derived |
 | [SAP/smart-test-picker](../records/sapjava-sap-smart-test-picker-05c91710.md) | partial | 2026-09-04T18:37:01Z | registry-derived |
 
 ### Language Specification
@@ -199,9 +199,9 @@ Records: `310`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [abelsu7/Developing-Java-Based-Apps-on-SAP-HANA-Cloud-Platform-Notes](../records/sapjava-abelsu7-developing-java-based-apps-on-sap-hana-cloud-platform-notes-9897aaf7.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [abelsu7/Developing-Java-Based-Apps-on-SAP-HANA-Cloud-Platform-Notes](../records/sapjava-abelsu7-developing-java-based-apps-on-sap-hana-cloud-platform-notes-9897aaf7.md) | partial | 2016-10-11T08:12:13Z | registry-derived |
 | [anselm94/cap-java-employee-management](../records/sapjava-anselm94-cap-java-employee-management-436eb72e.md) | partial | 2026-08-27T15:08:34Z | registry-derived |
-| [arockiaraj-kaavian/sap_hana_java_spring](../records/sapjava-arockiaraj-kaavian-sap-hana-java-spring-40cea18e.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [arockiaraj-kaavian/sap_hana_java_spring](../records/sapjava-arockiaraj-kaavian-sap-hana-java-spring-40cea18e.md) | partial | 2024-07-17T11:54:13Z | registry-derived |
 | [arviprabhu/SAP-CAP-CF-JavaReuse](../records/sapjava-arviprabhu-sap-cap-cf-javareuse-007fd0fc.md) | partial | 2021-06-11T11:59:47Z | registry-derived |
 | [beroca/sap-cap-products-service-java](../records/sapjava-beroca-sap-cap-products-service-java-811bea3d.md) | partial | 2024-02-15T23:23:42Z | registry-derived |
 | [boudhayan-dev/spring-hana-cloud-foundry](../records/sapjava-boudhayan-dev-spring-hana-cloud-foundry-d0e303cd.md) | partial | 2019-07-22T13:58:28Z | registry-derived |
@@ -302,25 +302,25 @@ Records: `310`
 | [com.sap.cloud:neo-javaee6-wp-sdk](../records/sapjava-com-sap-cloud-neo-javaee6-wp-sdk-26aa38cf.md) | 2.208.5 | 2021-05-21T08:09:57+00:00 | registry-derived |
 | [com.sap.cloud:neo-javaee7-wp-maven-plugin](../records/sapjava-com-sap-cloud-neo-javaee7-wp-maven-plugin-95816c31.md) | 1.202.2 | 2025-06-11T13:48:34+00:00 | registry-derived |
 | [com.sap.cloud:neo-javaee7-wp-sdk](../records/sapjava-com-sap-cloud-neo-javaee7-wp-sdk-a7723f83.md) | 1.202.2 | 2025-06-11T13:48:33+00:00 | registry-derived |
-| [dhorions/hanacloud-messenger-bot](../records/sapjava-dhorions-hanacloud-messenger-bot-f4eceabf.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [dhorions/hanacloud-messenger-bot](../records/sapjava-dhorions-hanacloud-messenger-bot-f4eceabf.md) | partial | 2016-07-31T11:16:44Z | registry-derived |
 | [diego-izurieta/address-manager](../records/sapjava-diego-izurieta-address-manager-3c30118e.md) | partial | 2021-03-31T21:21:50Z | registry-derived |
-| [EDISONGIRAL/SAP](../records/sapjava-edisongiral-sap-0a7ac231.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [EDISONGIRAL/SAP](../records/sapjava-edisongiral-sap-0a7ac231.md) | partial | 2016-09-09T01:23:27Z | registry-derived |
 | [fercasloz/sap_cap_java_btp](../records/sapjava-fercasloz-sap-cap-java-btp-2d3fcc7a.md) | partial | 2026-01-08T15:09:52Z | registry-derived |
 | [goranschwarz/DbxTune](../records/sapjava-goranschwarz-dbxtune-836827b4.md) | partial | 2026-09-04T14:11:57Z | registry-derived |
 | [gregorwolf/sap-cloud-sdk-java](../records/sapjava-gregorwolf-sap-cloud-sdk-java-f9365671.md) | partial | 2021-02-12T09:02:48Z | registry-derived |
 | [gregorwolf/sap-cloud-sdk-rfc](../records/sapjava-gregorwolf-sap-cloud-sdk-rfc-4bcdf9e3.md) | partial | 2024-04-02T20:26:31Z | registry-derived |
 | [gyotro/SAP_CAP_Java_POC](../records/sapjava-gyotro-sap-cap-java-poc-02d05a37.md) | partial | 2026-06-22T06:53:29Z | registry-derived |
 | [Huancx/SAPBTP-CAP](../records/sapjava-huancx-sapbtp-cap-954e2ce0.md) | partial | 2025-05-06T09:12:48Z | registry-derived |
-| [IBM-Cloud/sap-netweaver-java-hana](../records/sapjava-ibm-cloud-sap-netweaver-java-hana-a17bf1c6.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [IBM-Cloud/sap-netweaver-java-hana](../records/sapjava-ibm-cloud-sap-netweaver-java-hana-a17bf1c6.md) | partial | 2024-12-12T09:45:20Z | registry-derived |
 | [jplim/sap-cloud-cap-java](../records/sapjava-jplim-sap-cloud-cap-java-6f6d2232.md) | partial | 2021-01-19T02:47:55Z | registry-derived |
 | [kshanth/db-routing-cap-samples-java](../records/sapjava-kshanth-db-routing-cap-samples-java-a19ed20a.md) | partial | 2022-10-31T07:02:15Z | registry-derived |
 | [MartinPankraz/az-private-linky](../records/sapjava-martinpankraz-az-private-linky-4591f1e2.md) | partial | 2023-10-11T06:13:36Z | registry-derived |
 | [NguyenMinhChien20020369/SAP_CAP_JAVA](../records/sapjava-nguyenminhchien20020369-sap-cap-java-8e8ec4e1.md) | partial | 2026-06-22T09:20:33Z | registry-derived |
 | [NguyenMinhChien20020369/SAP_CAP_JAVA_SF](../records/sapjava-nguyenminhchien20020369-sap-cap-java-sf-e06e1b2b.md) | partial | 2026-07-08T06:51:03Z | registry-derived |
-| [Rameshkwins/SAP_HANA_Java_Connect](../records/sapjava-rameshkwins-sap-hana-java-connect-255b3dc4.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [Rameshkwins/SAP_HANA_Java_Connect](../records/sapjava-rameshkwins-sap-hana-java-connect-255b3dc4.md) | partial | 2017-09-21T21:32:06Z | registry-derived |
 | [rbettison/JavaOdataCAP](../records/sapjava-rbettison-javaodatacap-4deed594.md) | partial | 2024-02-15T16:29:25Z | registry-derived |
 | [rcgtechrepo/sap_cap_java](../records/sapjava-rcgtechrepo-sap-cap-java-56e882c4.md) | partial | 2025-01-05T12:59:20Z | registry-derived |
-| [SAP-archive/hana-shared-ledger-examples](../records/sapjava-sap-archive-hana-shared-ledger-examples-33688859.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [SAP-archive/hana-shared-ledger-examples](../records/sapjava-sap-archive-hana-shared-ledger-examples-33688859.md) | partial | 2025-03-07T13:38:38Z | registry-derived |
 | [SAP-samples/cloud-cap-samples-java](../records/sapjava-sap-samples-cloud-cap-samples-java-14329741.md) | partial | 2026-09-04T11:43:56Z | registry-derived |
 | [Showkath/cloud-cap-samples-java](../records/sapjava-showkath-cloud-cap-samples-java-2f0f532c.md) | partial | 2020-09-20T12:52:49Z | registry-derived |
 | [sillym/java-sdk-project](../records/sapjava-sillym-java-sdk-project-0f2e5b6d.md) | partial | 2020-06-01T06:32:16Z | registry-derived |
@@ -354,14 +354,14 @@ Records: `310`
 | [com.sap.cloud.sdk.services:scp-blockchain](../records/sapjava-com-sap-cloud-sdk-services-scp-blockchain-b58dc732.md) | 4.32.0 | 2024-06-11T10:16:54+00:00 | registry-derived |
 | [com.sap.cloud.yaas.service-sdk:service-sdk-raml-rewriter](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-raml-rewriter-03968485.md) | 4.17.1 | 2017-10-26T05:29:54+00:00 | registry-derived |
 | [hoangnv170752/Java20_Cybersoft_GuessNumberGame](../records/sapjava-hoangnv170752-java20-cybersoft-guessnumbergame-34ec4ab5.md) | partial | 2026-08-03T14:35:50Z | registry-derived |
-| [kayne87/saps4hana-address-manager](../records/sapjava-kayne87-saps4hana-address-manager-34e91abd.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [kayne87/saps4hana-address-manager](../records/sapjava-kayne87-saps4hana-address-manager-34e91abd.md) | partial | 2019-04-22T22:32:14Z | registry-derived |
 | [mpaltanwale/CAP-JavaTutorial](../records/sapjava-mpaltanwale-cap-javatutorial-3d696ef3.md) | partial | 2023-06-06T20:55:31Z | registry-derived |
 | [newtork/dsag-ai-sdk-java](../records/sapjava-newtork-dsag-ai-sdk-java-e595c4c9.md) | partial | 2025-03-28T19:33:43Z | registry-derived |
 | [Pallavireddy23/ai-document-process-cap-java](../records/sapjava-pallavireddy23-ai-document-process-cap-java-3298007e.md) | partial | 2026-01-02T12:40:28Z | registry-derived |
-| [phannindra-dev/portfolio](../records/sapjava-phannindra-dev-portfolio-beda514a.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [phannindra-dev/portfolio](../records/sapjava-phannindra-dev-portfolio-beda514a.md) | partial | 2026-04-24T20:53:58Z | registry-derived |
 | [SAP/SapMachine](../records/sapjava-sap-sapmachine-4293ea0a.md) | partial | 2026-09-05T01:07:51Z | registry-derived |
 | [sharan-space1/asint_chat_llama](../records/sapjava-sharan-space1-asint-chat-llama-72eedb77.md) | partial | 2024-07-06T02:04:32Z | registry-derived |
-| [sree26365-dev/sap-abap-hana-learning](../records/sapjava-sree26365-dev-sap-abap-hana-learning-95dca87e.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [sree26365-dev/sap-abap-hana-learning](../records/sapjava-sree26365-dev-sap-abap-hana-learning-95dca87e.md) | partial | 2026-06-20T08:10:18Z | registry-derived |
 | [zkud/sap-cap-java-advanced-dev-containers-sample](../records/sapjava-zkud-sap-cap-java-advanced-dev-containers-sample-91cebb9a.md) | partial | 2025-03-20T18:38:12Z | registry-derived |
 | [zkud/sap-cap-java-trivial-dev-containers-sample](../records/sapjava-zkud-sap-cap-java-trivial-dev-containers-sample-1710d493.md) | partial | 2025-03-20T14:17:30Z | registry-derived |
 
@@ -391,7 +391,7 @@ Records: `310`
 | [com.sap.cloud.sdk.quality:httpclient-listener](../records/sapjava-com-sap-cloud-sdk-quality-httpclient-listener-3cb663fe.md) | 3.78.0 | 2022-12-19T12:43:38+00:00 | registry-derived |
 | [com.sap.cloud.sdk.services:blockchain-client-fabric](../records/sapjava-com-sap-cloud-sdk-services-blockchain-client-fabric-1c1137bc.md) | 4.32.0 | 2024-06-11T10:16:54+00:00 | registry-derived |
 | [com.sap.cloud.sdk.services:blockchain-client-multichain](../records/sapjava-com-sap-cloud-sdk-services-blockchain-client-multichain-45e0c7a4.md) | 4.32.0 | 2024-06-11T10:16:53+00:00 | registry-derived |
-| [NotMyUid/LetsTrackJavaClient](../records/sapjava-notmyuid-letstrackjavaclient-172e99b5.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [NotMyUid/LetsTrackJavaClient](../records/sapjava-notmyuid-letstrackjavaclient-172e99b5.md) | partial | 2021-03-04T23:00:06Z | registry-derived |
 | [olyacherrry/CAPandSAPcloudSDK-java](../records/sapjava-olyacherrry-capandsapcloudsdk-java-13294938.md) | partial | 2021-06-01T19:57:54Z | registry-derived |
 | [olyacherrry/CAPwithJava](../records/sapjava-olyacherrry-capwithjava-9a8f1668.md) | partial | 2021-04-06T08:00:01Z | registry-derived |
 
@@ -399,8 +399,8 @@ Records: `310`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [Ayushman1109/SAP-HANA-Skyway](../records/sapjava-ayushman1109-sap-hana-skyway-4b781dab.md) | unknown | not_a_maven_coordinate | registry-derived |
-| [santhosh0000000/SAP-Hive](../records/sapjava-santhosh0000000-sap-hive-114d330f.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [Ayushman1109/SAP-HANA-Skyway](../records/sapjava-ayushman1109-sap-hana-skyway-4b781dab.md) | partial | 2026-07-25T13:54:48Z | registry-derived |
+| [santhosh0000000/SAP-Hive](../records/sapjava-santhosh0000000-sap-hive-114d330f.md) | partial | 2023-08-06T08:21:28Z | registry-derived |
 | [SAP/sapmachine-manager-for-macos](../records/sapjava-sap-sapmachine-manager-for-macos-d6fa348f.md) | partial | 2026-08-03T08:29:37Z | registry-derived |
 
 ### Parser Lexer Ast
@@ -415,7 +415,7 @@ Records: `310`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [com.sap.cloud.sdk.quality:quality-parent](../records/sapjava-com-sap-cloud-sdk-quality-quality-parent-01e66dd2.md) | 3.78.0 | 2022-12-19T12:43:37+00:00 | registry-derived |
-| [xurxovega/poc-sap-integration-java](../records/sapjava-xurxovega-poc-sap-integration-java-5825ab03.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [xurxovega/poc-sap-integration-java](../records/sapjava-xurxovega-poc-sap-integration-java-5825ab03.md) | partial | 2026-09-04T18:03:46Z | registry-derived |
 
 ### Profiler
 
@@ -456,7 +456,7 @@ Records: `310`
 | [com.sap.cloud.yaas.service-sdk:service-sdk-audit](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-audit-018278d0.md) | 4.17.1 | 2017-10-26T05:29:46+00:00 | registry-derived |
 | [com.sap.cloud.yaas.service-sdk:service-sdk-audit-base](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-audit-base-b588b7f1.md) | 4.17.1 | 2017-10-26T05:29:46+00:00 | registry-derived |
 | [com.sap.cloud.yaas.service-sdk:service-sdk-security](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-security-6154ad05.md) | 4.17.1 | 2017-10-26T05:29:54+00:00 | registry-derived |
-| [Lucho-A/Auditing-SAP](../records/sapjava-lucho-a-auditing-sap-41b62013.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [Lucho-A/Auditing-SAP](../records/sapjava-lucho-a-auditing-sap-41b62013.md) | partial | 2022-06-12T04:32:41Z | registry-derived |
 
 ### Testing Framework
 
@@ -464,7 +464,7 @@ Records: `310`
 | --- | --- | --- | --- |
 | [com.sap.cloud.sdk.testutil:testutil-parent](../records/sapjava-com-sap-cloud-sdk-testutil-testutil-parent-8bbe3f5c.md) | 3.78.0 | 2022-12-19T12:43:30+00:00 | registry-derived |
 | [m-tanya/sap-codegen](../records/sapjava-m-tanya-sap-codegen-32f87ed7.md) | partial | 2025-04-21T01:47:22Z | registry-derived |
-| [pakunz/persistence-with-ejb](../records/sapjava-pakunz-persistence-with-ejb-6ebcac52.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [pakunz/persistence-with-ejb](../records/sapjava-pakunz-persistence-with-ejb-6ebcac52.md) | partial | 2013-09-03T11:25:30Z | registry-derived |
 | [YoheiFukuhara/cloud-sdk-test](../records/sapjava-yoheifukuhara-cloud-sdk-test-a65d29fe.md) | partial | 2020-04-08T08:03:36Z | registry-derived |
 
 ### Tutorial Book Styleguide
@@ -479,7 +479,7 @@ Records: `310`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [AmiltonSantos/portfolioAmiltonSantos](../records/sapjava-amiltonsantos-portfolioamiltonsantos-a5363099.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [AmiltonSantos/portfolioAmiltonSantos](../records/sapjava-amiltonsantos-portfolioamiltonsantos-a5363099.md) | partial | 2023-10-26T11:49:43Z | registry-derived |
 
 ### Undefined Behavior Analyzer
 
@@ -494,13 +494,13 @@ Records: `310`
 | [sorimdevs-tech/cap-sflight-migrated-java17-20260127-082407](../records/sapjava-sorimdevs-tech-cap-sflight-migrated-java17-20260127-082407-6e4d8ee5.md) | partial | 2026-01-27T08:24:09Z | registry-derived |
 | [sorimdevs-tech/cap-sflight-migrated-java21-20260130-095443](../records/sapjava-sorimdevs-tech-cap-sflight-migrated-java21-20260130-095443-6e76fa26.md) | partial | 2026-01-30T09:54:44Z | registry-derived |
 | [SuvabrataChowdhury/cap-bookshop-mini-sample](../records/sapjava-suvabratachowdhury-cap-bookshop-mini-sample-b3a8fea1.md) | partial | 2026-08-30T12:08:17Z | registry-derived |
-| [techbyanshu/techbyanshu](../records/sapjava-techbyanshu-techbyanshu-15ce77ae.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [techbyanshu/techbyanshu](../records/sapjava-techbyanshu-techbyanshu-15ce77ae.md) | partial | 2023-06-23T04:39:47Z | registry-derived |
 
 ### Utility Library
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [iamtiagomadeira/sap-migration-toolkit](../records/sapjava-iamtiagomadeira-sap-migration-toolkit-b5f07dd8.md) | unknown | not_a_maven_coordinate | registry-derived |
+| [iamtiagomadeira/sap-migration-toolkit](../records/sapjava-iamtiagomadeira-sap-migration-toolkit-b5f07dd8.md) | partial | 2026-08-03T12:11:44Z | registry-derived |
 | [KIBA-LABS/SmartUtilityManagement](../records/sapjava-kiba-labs-smartutilitymanagement-924928e5.md) | partial | 2025-12-18T06:31:36Z | registry-derived |
 
 ### Visualization Gui

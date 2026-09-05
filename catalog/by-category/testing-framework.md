@@ -14,14 +14,14 @@ Records: `605`
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (128)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (889)](database-datastore.md) · [Datetime (223)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (453)](ffi-bindings.md) · [Filesystem Os (1570)](filesystem-os.md) · [Formatter (644)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1449)](ide-editor-integration.md)
+[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (453)](ffi-bindings.md) · [Filesystem Os (1571)](filesystem-os.md) · [Formatter (644)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1450)](ide-editor-integration.md)
 [Image Audio Dsp (431)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
 [Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · [Library (5584)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (775)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1135)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
-[Profiler (86)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
+[Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (394)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (600)](static-analyzer.md)
 [Templating (2)](templating.md) · **[Testing Framework (605)](testing-framework.md)** · [Tutorial Book Styleguide (63)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
 [Undefined Behavior Analyzer (1601)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (547)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
@@ -800,7 +800,7 @@ Records: `605`
 | --- | --- | --- | --- |
 | com.sap.cloud.sdk.testutil:testutil-parent | 3.78.0 | 2022-12-19T12:43:30+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-testutil-testutil-parent-8bbe3f5c.md) |
 | m-tanya/sap-codegen | partial | 2025-04-21T01:47:22Z | [open](../records/sapjava-m-tanya-sap-codegen-32f87ed7.md) |
-| pakunz/persistence-with-ejb | unknown | not_a_maven_coordinate | [open](../records/sapjava-pakunz-persistence-with-ejb-6ebcac52.md) |
+| pakunz/persistence-with-ejb | partial | 2013-09-03T11:25:30Z | [open](../records/sapjava-pakunz-persistence-with-ejb-6ebcac52.md) |
 | YoheiFukuhara/cloud-sdk-test | partial | 2020-04-08T08:03:36Z | [open](../records/sapjava-yoheifukuhara-cloud-sdk-test-a65d29fe.md) |
 
 ## Swift
@@ -830,10 +830,10 @@ Records: `605`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | datopian/r2-bucket-uploader | partial | 2025-04-19T05:32:39Z | [open](../records/databases-datopian-r2-bucket-uploader-a0c1456a.md) |
-| invertase/react-native-firebase | partial | 2026-09-03T18:40:49Z | [open](../records/databases-invertase-react-native-firebase-bdf40bbb.md) |
+| invertase/react-native-firebase | partial | 2026-09-05T04:37:17Z | [open](../records/databases-invertase-react-native-firebase-bdf40bbb.md) |
 | long2ice/asyncmy | partial | 2026-08-16T04:11:12Z | [open](../records/databases-long2ice-asyncmy-537bc784.md) |
 | marsupilami79/zeoslib | partial | 2026-09-01T05:51:54Z | [open](../records/databases-marsupilami79-zeoslib-f93693d1.md) |
-| netdata/netdata | partial | 2026-09-05T00:22:01Z | [open](../records/databases-netdata-netdata-c3fa5bcb.md) |
+| netdata/netdata | partial | 2026-09-05T18:11:30Z | [open](../records/databases-netdata-netdata-c3fa5bcb.md) |
 | weavejester/ragtime | partial | 2025-09-23T14:39:42Z | [open](../records/databases-weavejester-ragtime-b149a386.md) |
 
 ## Repository Workplaces

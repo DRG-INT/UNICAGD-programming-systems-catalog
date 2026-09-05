@@ -14,14 +14,14 @@ Records: `453`
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (128)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (889)](database-datastore.md) · [Datetime (223)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · **[Ffi Bindings (453)](ffi-bindings.md)** · [Filesystem Os (1570)](filesystem-os.md) · [Formatter (644)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1449)](ide-editor-integration.md)
+[Embedded Hardware (56)](embedded-hardware.md) · **[Ffi Bindings (453)](ffi-bindings.md)** · [Filesystem Os (1571)](filesystem-os.md) · [Formatter (644)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1450)](ide-editor-integration.md)
 [Image Audio Dsp (431)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
 [Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · [Library (5584)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (775)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1135)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
-[Profiler (86)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
+[Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (394)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (600)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (605)](testing-framework.md) · [Tutorial Book Styleguide (63)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
 [Undefined Behavior Analyzer (1601)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (547)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
@@ -61,7 +61,7 @@ Records: `453`
 | async-tungstenite | 0.35.0 | 2026-07-28T08:20:36.034619Z | [open](../records/rust-async-tungstenite-5edcf7da.md) |
 | atk | 0.18.2 | 2024-12-09T11:45:55.239461Z | [open](../records/rust-atk-d196f43c.md) |
 | atk-sys | 0.18.2 | 2024-12-09T11:45:59.322690Z | [open](../records/rust-atk-sys-cb5c942b.md) |
-| bindgen | 0.72.1 | 2025-08-31T17:50:11.198164Z | [open](../records/rust-bindgen-355a5568.md) |
+| bindgen | 0.73.1 | 2026-09-05T17:25:52.826923Z | [open](../records/rust-bindgen-355a5568.md) |
 | blst | 0.3.17 | 2026-07-24T13:53:15.565905Z | [open](../records/rust-blst-563b5ba6.md) |
 | bzip2 | 0.6.1 | 2025-10-16T14:18:19.210799Z | [open](../records/rust-bzip2-7eaa6040.md) |
 | bzip2-sys | 0.1.13+1.0.8 | 2025-02-28T13:56:25.581313Z | [open](../records/rust-bzip2-sys-9822845b.md) |
@@ -665,7 +665,7 @@ Records: `453`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | getsentry/sentry-cocoa | partial | 2026-09-05T01:06:01Z | [open](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) |
-| madsmtm/objc2 | partial | 2026-09-05T11:55:32Z | [open](../records/cocoa-madsmtm-objc2-ab58a215.md) |
+| madsmtm/objc2 | partial | 2026-09-05T17:17:10Z | [open](../records/cocoa-madsmtm-objc2-ab58a215.md) |
 | ryanmcgrath/cacao | partial | 2025-02-03T08:16:22Z | [open](../records/cocoa-ryanmcgrath-cacao-ce707601.md) |
 | wordpress-mobile/WordPress-iOS | partial | 2026-09-05T01:44:55Z | [open](../records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) |
 
