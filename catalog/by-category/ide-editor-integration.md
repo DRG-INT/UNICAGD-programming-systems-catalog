@@ -1394,7 +1394,7 @@ Records: `1433`
 | HoBeZwe/SphericalScattering.jl | partial | 2025-04-25T22:38:09Z | [open](../records/electromagnetoscopes-hobezwe-sphericalscattering-jl-ba9079c6.md) |
 | JonaNorman/HDRSample | partial | 2024-08-01T09:01:08Z | [open](../records/electromagnetoscopes-jonanorman-hdrsample-ac827086.md) |
 | NGSolve/ngsolve | partial | 2026-09-04T22:45:51Z | [open](../records/electromagnetoscopes-ngsolve-ngsolve-f54b35ee.md) |
-| wenzhixin/bootstrap-table | partial | 2026-09-04T21:03:43Z | [open](../records/electromagnetoscopes-wenzhixin-bootstrap-table-50c48a32.md) |
+| wenzhixin/bootstrap-table | partial | 2026-09-05T00:00:41Z | [open](../records/electromagnetoscopes-wenzhixin-bootstrap-table-50c48a32.md) |
 | wiedehopf/tar1090 | partial | 2026-09-04T10:29:53Z | [open](../records/electromagnetoscopes-wiedehopf-tar1090-c8688d5c.md) |
 
 ## Radio Garden Speciality
