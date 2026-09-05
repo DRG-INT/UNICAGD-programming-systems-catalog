@@ -17,7 +17,7 @@ Records: `525`
 [Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (446)](../by-category/ffi-bindings.md) · [Filesystem Os (1546)](../by-category/filesystem-os.md) · [Formatter (635)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1418)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (423)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (265)](../by-category/interpreter-runtime.md) · [Jit Vm (63)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1423)](../by-category/language-specification.md) · [Library (5527)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1423)](../by-category/language-specification.md) · [Library (5528)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (515)](../by-category/logging-observability.md) · [Machine Learning (753)](../by-category/machine-learning.md)
 [Math Numeric Scientific (87)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1020)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (436)](../by-category/package-manager.md) · [Parser Lexer Ast (1076)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (297)](../by-category/precommit-ci-quality.md)
@@ -49,7 +49,7 @@ Records: `525`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [crystal-forge/crystal-forge](../records/repository-workplaces-crystal-forge-crystal-forge-e00632e7.md) | partial | 2026-09-04T23:15:41.720Z | registry-derived |
+| [crystal-forge/crystal-forge](../records/repository-workplaces-crystal-forge-crystal-forge-e00632e7.md) | partial | 2026-09-05T01:45:04.179Z | registry-derived |
 | [davivc/gitlab-ci-google-cloud-kubernetes](../records/repository-workplaces-davivc-gitlab-ci-google-cloud-kubernetes-ae4609d3.md) | partial | 2020-04-04T19:23:06.380Z | registry-derived |
 | [Gitea: cryptoexplorer/AICRYPTOMINER](../records/repository-workplaces-gitea-cryptoexplorer-aicryptominer-63195b59.md) | partial | 2026-05-31T03:33:30Z | registry-derived |
 | [Gitea: GiteaAi/iiab](../records/repository-workplaces-gitea-giteaai-iiab-82c43685.md) | partial | 2024-12-30T09:20:03Z | registry-derived |
@@ -149,7 +149,7 @@ Records: `525`
 | [Gitea: ziying/database](../records/repository-workplaces-gitea-ziying-database-e5dcf680.md) | partial | 2026-06-03T05:06:54Z | registry-derived |
 | [gitlab-org/advisories-community](../records/repository-workplaces-gitlab-org-advisories-community-621603ca.md) | partial | 2026-09-04T14:33:03.904Z | registry-derived |
 | [gitlab-org/analytics-section/siphon](../records/repository-workplaces-gitlab-org-analytics-section-siphon-6ac6dc22.md) | partial | 2026-09-04T09:59:22.214Z | registry-derived |
-| [kara.moe/karaokebase](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) | partial | 2026-09-04T20:55:01.954Z | registry-derived |
+| [kara.moe/karaokebase](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) | partial | 2026-09-05T01:25:53.387Z | registry-derived |
 | [postgres-ai/custom-images](../records/repository-workplaces-postgres-ai-custom-images-45d426ed.md) | partial | 2026-08-31T12:45:54.446Z | registry-derived |
 | [ProfaneDB/ProfaneDB](../records/repository-workplaces-profanedb-profanedb-135545c0.md) | partial | 2021-08-10T13:32:11.702Z | registry-derived |
 | [radiobrowser/radio-database](../records/repository-workplaces-radiobrowser-radio-database-bfa28291.md) | partial | 2026-09-03T14:22:32.631Z | registry-derived |
@@ -325,7 +325,7 @@ Records: `525`
 | [Gitea: wa-lang/wa](../records/repository-workplaces-gitea-wa-lang-wa-c1d6dd94.md) | partial | 2025-07-29T01:12:55Z | registry-derived |
 | [Gitea: WorldofScreenEntertainment/HTML-HyperText-Markup-Language](../records/repository-workplaces-gitea-worldofscreenentertainment-html-hypertext-markup-language-817a19c5.md) | partial | 2026-08-08T19:37:36Z | registry-derived |
 | [Gitea: ziven/Fun-ASR](../records/repository-workplaces-gitea-ziven-fun-asr-2454a99a.md) | partial | 2026-02-09T00:00:36Z | registry-derived |
-| [gitlab-org/editor-extensions/gitlab-lsp](../records/repository-workplaces-gitlab-org-editor-extensions-gitlab-lsp-3ca66d5c.md) | partial | 2026-09-04T20:55:26.182Z | registry-derived |
+| [gitlab-org/editor-extensions/gitlab-lsp](../records/repository-workplaces-gitlab-org-editor-extensions-gitlab-lsp-3ca66d5c.md) | partial | 2026-09-05T00:35:03.415Z | registry-derived |
 | [jD91mZM2/nix-lsp](../records/repository-workplaces-jd91mzm2-nix-lsp-871a9f7e.md) | partial | 2022-08-04T13:36:44.721Z | registry-derived |
 | [Polly-lang/Polly](../records/repository-workplaces-polly-lang-polly-4337e87f.md) | partial | 2018-04-23T08:44:56.058Z | registry-derived |
 | [Reference-Standard-M/rsm](../records/repository-workplaces-reference-standard-m-rsm-bb68fa26.md) | partial | 2026-07-06T08:39:50.139Z | registry-derived |
@@ -446,7 +446,7 @@ Records: `525`
 | [LondonAppDev/recipe-app-api-devops-starting-code](../records/repository-workplaces-londonappdev-recipe-app-api-devops-starting-code-ab68f6f2.md) | partial | 2020-03-25T20:07:45.372Z | registry-derived |
 | [lu-ci/sigma/apex-sigma](../records/repository-workplaces-lu-ci-sigma-apex-sigma-c11a60ff.md) | partial | 2026-08-28T09:24:40.456Z | registry-derived |
 | [xavki/tutorials-postgresql](../records/repository-workplaces-xavki-tutorials-postgresql-a1210284.md) | partial | 2026-06-21T11:06:15.800Z | registry-derived |
-| [yamagoya/jmdictdb](../records/repository-workplaces-yamagoya-jmdictdb-6aa61a7b.md) | partial | 2026-09-04T05:56:41.426Z | registry-derived |
+| [yamagoya/jmdictdb](../records/repository-workplaces-yamagoya-jmdictdb-6aa61a7b.md) | partial | 2026-09-05T02:06:08.032Z | registry-derived |
 
 ### Package Manager
 
@@ -605,7 +605,7 @@ Records: `525`
 | [palmapps/jwt-spring-security-demo](../records/repository-workplaces-palmapps-jwt-spring-security-demo-674caee6.md) | partial | 2019-02-23T10:05:23.454Z | registry-derived |
 | [peachtech/peach-fuzzer-community](../records/repository-workplaces-peachtech-peach-fuzzer-community-e1ee7aba.md) | partial | 2021-03-30T17:59:40.973Z | registry-derived |
 | [prism-break/prism-break](../records/repository-workplaces-prism-break-prism-break-503c05ff.md) | partial | 2026-05-30T11:50:17.341Z | registry-derived |
-| [rawsec/rawsec-cybersecurity-list](../records/repository-workplaces-rawsec-rawsec-cybersecurity-list-00ece097.md) | partial | 2026-09-02T16:51:54.256Z | registry-derived |
+| [rawsec/rawsec-cybersecurity-list](../records/repository-workplaces-rawsec-rawsec-cybersecurity-list-00ece097.md) | partial | 2026-09-05T00:41:46.164Z | registry-derived |
 | [riot.ai/NoteRiot](../records/repository-workplaces-riot-ai-noteriot-9fadeb02.md) | partial | 2024-03-25T22:54:03.551Z | registry-derived |
 | [Shinobi-Systems/ShinobiCE](../records/repository-workplaces-shinobi-systems-shinobice-52eaee8b.md) | partial | 2026-03-16T12:22:45.336Z | registry-derived |
 | [spritely/goblins](../records/repository-workplaces-spritely-goblins-f5ed6a86.md) | partial | 2025-03-11T20:30:35.821Z | registry-derived |
@@ -631,7 +631,7 @@ Records: `525`
 | [Gitea: corricca/elibrary-publication-analyzer](../records/repository-workplaces-gitea-corricca-elibrary-publication-analyzer-3d1b67ed.md) | partial | 2026-01-29T19:57:29Z | registry-derived |
 | [Gitea: ImageProcessing-ElectronicPublications/imthreshold](../records/repository-workplaces-gitea-imageprocessing-electronicpublications-imthreshold-a87c44af.md) | partial | 2023-10-26T10:52:14Z | registry-derived |
 | [gitlab-org/cluster-integration/gitlab-agent](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) | partial | 2026-09-04T22:09:07.522Z | registry-derived |
-| [gitlab-org/gitlab](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) | partial | 2026-09-04T23:48:00.577Z | registry-derived |
+| [gitlab-org/gitlab](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) | partial | 2026-09-05T01:49:00.452Z | registry-derived |
 | [gitlab-org/security-products/analyzers/container-scanning](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) | partial | 2026-08-27T18:19:28.289Z | registry-derived |
 | [gitlab-security-oss/cis/gitlabcis](../records/repository-workplaces-gitlab-security-oss-cis-gitlabcis-f7ce6047.md) | partial | 2026-09-01T20:35:39.553Z | registry-derived |
 | [hgraca/app-mapper](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) | partial | 2026-09-04T08:05:01.086Z | registry-derived |

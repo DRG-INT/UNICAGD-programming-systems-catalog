@@ -17,7 +17,7 @@ Records: `336`
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1546)](filesystem-os.md) · [Formatter (635)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1418)](ide-editor-integration.md)
 [Image Audio Dsp (423)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1423)](language-specification.md) · [Library (5527)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1423)](language-specification.md) · [Library (5528)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (753)](machine-learning.md)
 [Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1020)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (436)](package-manager.md) · [Parser Lexer Ast (1076)](parser-lexer-ast.md) · [Precommit Ci Quality (297)](precommit-ci-quality.md)
@@ -521,7 +521,7 @@ Records: `336`
 | palmapps/jwt-spring-security-demo | partial | 2019-02-23T10:05:23.454Z | [open](../records/repository-workplaces-palmapps-jwt-spring-security-demo-674caee6.md) |
 | peachtech/peach-fuzzer-community | partial | 2021-03-30T17:59:40.973Z | [open](../records/repository-workplaces-peachtech-peach-fuzzer-community-e1ee7aba.md) |
 | prism-break/prism-break | partial | 2026-05-30T11:50:17.341Z | [open](../records/repository-workplaces-prism-break-prism-break-503c05ff.md) |
-| rawsec/rawsec-cybersecurity-list | partial | 2026-09-02T16:51:54.256Z | [open](../records/repository-workplaces-rawsec-rawsec-cybersecurity-list-00ece097.md) |
+| rawsec/rawsec-cybersecurity-list | partial | 2026-09-05T00:41:46.164Z | [open](../records/repository-workplaces-rawsec-rawsec-cybersecurity-list-00ece097.md) |
 | riot.ai/NoteRiot | partial | 2024-03-25T22:54:03.551Z | [open](../records/repository-workplaces-riot-ai-noteriot-9fadeb02.md) |
 | Shinobi-Systems/ShinobiCE | partial | 2026-03-16T12:22:45.336Z | [open](../records/repository-workplaces-shinobi-systems-shinobice-52eaee8b.md) |
 | spritely/goblins | partial | 2025-03-11T20:30:35.821Z | [open](../records/repository-workplaces-spritely-goblins-f5ed6a86.md) |

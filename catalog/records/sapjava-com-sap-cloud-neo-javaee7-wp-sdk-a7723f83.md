@@ -32,7 +32,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 1.202.2 | 2025-06-11T13:48:33+00:00 | [https://search.maven.org/solrsearch/select?q=sap%20cloud%20sdk&rows=100&wt=json](https://search.maven.org/solrsearch/select?q=sap%20cloud%20sdk&rows=100&wt=json) |  |
+| stable | known | 1.202.2 | 2025-06-11T13:48:33+00:00 | [https://search.maven.org/solrsearch/select?q=g%3A%22com.sap.cloud%22&rows=100&wt=json](https://search.maven.org/solrsearch/select?q=g%3A%22com.sap.cloud%22&rows=100&wt=json) |  |
 | preview/nightly | unknown |  |  | unknown | maven_central_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 - Treat category as `library` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://search.maven.org/solrsearch/select?q=sap%20cloud%20sdk&rows=100&wt=json` at `2026-09-05T01:17:19+00:00`.
+- Latest stable metadata was observed from `https://search.maven.org/solrsearch/select?q=g%3A%22com.sap.cloud%22&rows=100&wt=json` at `2026-09-05T02:18:38+00:00`.
 - Preview/nightly metadata is unknown because `maven_central_search_has_no_standard_nightly_channel`.
 
 ## Provenance
@@ -57,7 +57,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| maven_central_search | registry-derived | 2026-09-05 | `{"kind": "maven_central_search", "query": "sap cloud sdk", "retrieved": "2026-09-05", "status": "registry-derived"}` |
+| maven_central_search | registry-derived | 2026-09-05 | `{"kind": "maven_central_search", "query": "g:\"com.sap.cloud\"", "retrieved": "2026-09-05", "status": "registry-derived"}` |
 
 </details>
 
@@ -96,7 +96,7 @@ Evidence records merged into this identity: `1`.
 [Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (446)](../by-category/ffi-bindings.md) · [Filesystem Os (1546)](../by-category/filesystem-os.md) · [Formatter (635)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1418)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (423)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (265)](../by-category/interpreter-runtime.md) · [Jit Vm (63)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1423)](../by-category/language-specification.md) · **[Library (5527)](../by-category/library.md)** · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1423)](../by-category/language-specification.md) · **[Library (5528)](../by-category/library.md)** · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (515)](../by-category/logging-observability.md) · [Machine Learning (753)](../by-category/machine-learning.md)
 [Math Numeric Scientific (87)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1020)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (436)](../by-category/package-manager.md) · [Parser Lexer Ast (1076)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (297)](../by-category/precommit-ci-quality.md)

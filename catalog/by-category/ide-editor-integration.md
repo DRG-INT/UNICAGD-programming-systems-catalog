@@ -17,7 +17,7 @@ Records: `1418`
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1546)](filesystem-os.md) · [Formatter (635)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · **[Ide Editor Integration (1418)](ide-editor-integration.md)**
 [Image Audio Dsp (423)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1423)](language-specification.md) · [Library (5527)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1423)](language-specification.md) · [Library (5528)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (753)](machine-learning.md)
 [Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1020)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (436)](package-manager.md) · [Parser Lexer Ast (1076)](parser-lexer-ast.md) · [Precommit Ci Quality (297)](precommit-ci-quality.md)
@@ -197,7 +197,7 @@ Records: `1418`
 | @nexrender/database-redis | 1.60.10 | 2025-01-24T12:30:12.941Z | [open](../records/node-js-javascript-nexrender-database-redis-d7ab502c.md) |
 | @portone/server-sdk | 0.19.0 | 2026-01-22T05:17:09.220Z | [open](../records/node-js-javascript-portone-server-sdk-1c059404.md) |
 | @prosopo/database | 4.0.27 | 2026-09-02T22:41:57.409Z | [open](../records/node-js-javascript-prosopo-database-9a77dbd4.md) |
-| @react-native-firebase/database | 26.3.3 | 2026-09-01T01:56:19.696Z | [open](../records/node-js-javascript-react-native-firebase-database-0450b342.md) |
+| @react-native-firebase/database | 26.4.0 | 2026-09-05T01:49:21.021Z | [open](../records/node-js-javascript-react-native-firebase-database-0450b342.md) |
 | @sap/logging | 9.2.2 | 2026-08-12T10:43:50.446Z | [open](../records/node-js-javascript-sap-logging-c02ac4fa.md) |
 | @stigg/node-server-sdk | 5.0.0 | 2026-09-02T09:45:14.164Z | [open](../records/node-js-javascript-stigg-node-server-sdk-50fbbd0a.md) |
 | @stoplight/prism-http | 5.16.0 | 2026-07-17T08:02:33.709Z | [open](../records/node-js-javascript-stoplight-prism-http-85e35ffc.md) |
@@ -622,7 +622,7 @@ Records: `1418`
 | intercom_flutter | 9.6.25 | 2026-09-01T15:10:40.128044Z | [open](../records/dart-intercom-flutter-c88af118.md) |
 | keyboard_dismisser | 3.0.0 | 2022-05-20T14:54:12.709877Z | [open](../records/dart-keyboard-dismisser-fef62632.md) |
 | liquid_glass_easy | 4.2.0 | 2026-08-25T21:26:48.200717Z | [open](../records/dart-liquid-glass-easy-9878fe8a.md) |
-| lucide_icons_flutter | 3.1.17 | 2026-08-21T08:31:23.866100Z | [open](../records/dart-lucide-icons-flutter-351b5f67.md) |
+| lucide_icons_flutter | 3.1.18 | 2026-09-05T01:45:32.372974Z | [open](../records/dart-lucide-icons-flutter-351b5f67.md) |
 | macos_window_utils | 1.9.1 | 2026-01-05T13:04:10.582842Z | [open](../records/dart-macos-window-utils-4bdbb53a.md) |
 | marquee | 2.3.0 | 2024-10-10T10:26:12.302061Z | [open](../records/dart-marquee-cc41c071.md) |
 | mocktail_image_network | 1.3.0 | 2026-04-12T17:40:55.812413Z | [open](../records/dart-mocktail-image-network-c3ed3d2f.md) |
@@ -678,7 +678,7 @@ Records: `1418`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-03T13:31:40Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-05T01:15:34Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-05T01:25:07Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-03T04:03:18Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-04T08:30:00Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-05T00:25:43Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |

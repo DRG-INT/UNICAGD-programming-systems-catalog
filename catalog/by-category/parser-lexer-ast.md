@@ -17,7 +17,7 @@ Records: `1076`
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1546)](filesystem-os.md) · [Formatter (635)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1418)](ide-editor-integration.md)
 [Image Audio Dsp (423)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1423)](language-specification.md) · [Library (5527)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1423)](language-specification.md) · [Library (5528)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (753)](machine-learning.md)
 [Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1020)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (436)](package-manager.md) · **[Parser Lexer Ast (1076)](parser-lexer-ast.md)** · [Precommit Ci Quality (297)](precommit-ci-quality.md)
@@ -172,7 +172,7 @@ Records: `1076`
 | http-range-header | 0.4.2 | 2024-11-28T12:38:42.267978Z | [open](../records/rust-http-range-header-24db6e80.md) |
 | httparse | 1.10.1 | 2025-03-03T14:44:09.975762Z | [open](../records/rust-httparse-de428fae.md) |
 | ignore | 0.4.33 | 2026-08-04T13:59:40.311767Z | [open](../records/rust-ignore-2d7d9b52.md) |
-| indexmap | 2.14.1 | 2026-08-28T20:31:48.564506Z | [open](../records/rust-indexmap-1cba638f.md) |
+| indexmap | 2.14.2 | 2026-09-05T01:53:48.019655Z | [open](../records/rust-indexmap-1cba638f.md) |
 | itoa | 1.0.18 | 2026-03-20T00:12:37.043881Z | [open](../records/rust-itoa-0111e5db.md) |
 | lalrpop | 0.23.1 | 2026-03-11T12:51:30.241422Z | [open](../records/rust-lalrpop-effa25ac.md) |
 | logos | 0.16.1 | 2026-01-30T13:55:20.724734Z | [open](../records/rust-logos-0c38fdf6.md) |
@@ -627,7 +627,7 @@ Records: `1076`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 0xIonRod/learning-basilisk | partial | 2023-06-28T06:42:25Z | [open](../records/basilisk-0xionrod-learning-basilisk-3b9428f3.md) |
-| AVSLab/basilisk | partial | 2026-09-05T00:14:43Z | [open](../records/basilisk-avslab-basilisk-3f9dd832.md) |
+| AVSLab/basilisk | partial | 2026-09-05T01:43:50Z | [open](../records/basilisk-avslab-basilisk-3f9dd832.md) |
 | CarterBalow/avs-lab-work | partial | 2026-09-02T17:52:11Z | [open](../records/basilisk-carterbalow-avs-lab-work-c0f5c66b.md) |
 | DISCOWER/bsk-msgs | partial | 2026-07-02T20:47:18Z | [open](../records/basilisk-discower-bsk-msgs-80974f96.md) |
 | DISCOWER/bsk-ros2-bridge | partial | 2026-08-25T16:24:45Z | [open](../records/basilisk-discower-bsk-ros2-bridge-ff7c49fa.md) |
@@ -641,7 +641,7 @@ Records: `1076`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AstrBotDevs/AstrBot | partial | 2026-09-04T07:13:41Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
-| HKUDS/LightRAG | partial | 2026-09-04T17:46:36Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
+| HKUDS/LightRAG | partial | 2026-09-05T02:10:01Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
 | labring/FastGPT | partial | 2026-09-04T10:06:15Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Computer Graphics Software

@@ -17,7 +17,7 @@ Records: `388`
 [Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (446)](../by-category/ffi-bindings.md) · [Filesystem Os (1546)](../by-category/filesystem-os.md) · [Formatter (635)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1418)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (423)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (265)](../by-category/interpreter-runtime.md) · [Jit Vm (63)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1423)](../by-category/language-specification.md) · [Library (5527)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1423)](../by-category/language-specification.md) · [Library (5528)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (515)](../by-category/logging-observability.md) · [Machine Learning (753)](../by-category/machine-learning.md)
 [Math Numeric Scientific (87)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1020)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (436)](../by-category/package-manager.md) · [Parser Lexer Ast (1076)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (297)](../by-category/precommit-ci-quality.md)
@@ -299,7 +299,7 @@ Records: `388`
 | [@better-auth/core](../records/node-js-typescript-better-auth-core-fa635d03.md) | 1.7.2 | 2026-08-26T19:13:25.334Z | registry-derived |
 | [@betterer/typescript](../records/node-js-typescript-betterer-typescript-35e88ce6.md) | 6.0.0-alpha.1 | 2024-12-01T11:00:45.495Z | registry-derived |
 | [@clipboard-health/testing-core](../records/node-js-typescript-clipboard-health-testing-core-646613ba.md) | 2.12.3 | 2026-09-02T02:21:01.349Z | registry-derived |
-| [@cloudflare/workers-types](../records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) | 5.20260904.1 | 2026-09-04T01:16:34.843Z | registry-derived |
+| [@cloudflare/workers-types](../records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) | 5.20260905.1 | 2026-09-05T01:16:38.627Z | registry-derived |
 | [@cspell/dict-typescript](../records/node-js-typescript-cspell-dict-typescript-a021ae1f.md) | 3.2.3 | 2025-07-09T18:55:17.973Z | registry-derived |
 | [@dbos-inc/dbos-sdk](../records/node-js-typescript-dbos-inc-dbos-sdk-aae8d31d.md) | 4.27.6 | 2026-08-25T15:39:32.081Z | registry-derived |
 | [@definitelytyped/typescript-versions](../records/node-js-typescript-definitelytyped-typescript-versions-b23bd9b9.md) | 0.1.12 | 2026-06-15T18:01:15.944Z | registry-derived |

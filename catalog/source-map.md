@@ -13,7 +13,7 @@
 [Embedded Hardware (56)](by-category/embedded-hardware.md) · [Ffi Bindings (446)](by-category/ffi-bindings.md) · [Filesystem Os (1546)](by-category/filesystem-os.md) · [Formatter (635)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (354)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1418)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (423)](by-category/image-audio-dsp.md) · [Interop Bindings (61)](by-category/interop-bindings.md) · [Interpreter Runtime (265)](by-category/interpreter-runtime.md) · [Jit Vm (63)](by-category/jit-vm.md)
-[Language Server (29)](by-category/language-server.md) · [Language Specification (1423)](by-category/language-specification.md) · [Library (5527)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (29)](by-category/language-server.md) · [Language Specification (1423)](by-category/language-specification.md) · [Library (5528)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (515)](by-category/logging-observability.md) · [Machine Learning (753)](by-category/machine-learning.md)
 [Math Numeric Scientific (87)](by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1020)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (436)](by-category/package-manager.md) · [Parser Lexer Ast (1076)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (297)](by-category/precommit-ci-quality.md)
@@ -1191,6 +1191,7 @@
 | `cran_packages_by_date-3b1b2ff87ef3f6` | GMCM | [open](records/r-gmcm-018565ae.md) |
 | `cran_packages_by_date-3b21d930e53f7a` | gtDesign | [open](records/r-gtdesign-4e0ecad7.md) |
 | `cran_packages_by_date-3b293bad124e4c` | sstn | [open](records/r-sstn-1202bc33.md) |
+| `cran_packages_by_date-3b353bc973175a` | rregm | [open](records/r-rregm-e4bb4dda.md) |
 | `cran_packages_by_date-3b492d68d9c5a9` | socviz | [open](records/r-socviz-38c1d0b7.md) |
 | `cran_packages_by_date-3b798adeeb89d1` | ruv | [open](records/r-ruv-95beb863.md) |
 | `cran_packages_by_date-3ba129b553fa64` | erglm | [open](records/r-erglm-6cd2af61.md) |

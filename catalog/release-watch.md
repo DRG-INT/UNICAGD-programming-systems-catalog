@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-05T01:19:22+00:00`
+Generated: `2026-09-05T02:20:46+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -15,7 +15,7 @@ Generated: `2026-09-05T01:19:22+00:00`
 [Embedded Hardware (56)](by-category/embedded-hardware.md) · [Ffi Bindings (446)](by-category/ffi-bindings.md) · [Filesystem Os (1546)](by-category/filesystem-os.md) · [Formatter (635)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (354)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1418)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (423)](by-category/image-audio-dsp.md) · [Interop Bindings (61)](by-category/interop-bindings.md) · [Interpreter Runtime (265)](by-category/interpreter-runtime.md) · [Jit Vm (63)](by-category/jit-vm.md)
-[Language Server (29)](by-category/language-server.md) · [Language Specification (1423)](by-category/language-specification.md) · [Library (5527)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (29)](by-category/language-server.md) · [Language Specification (1423)](by-category/language-specification.md) · [Library (5528)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (515)](by-category/logging-observability.md) · [Machine Learning (753)](by-category/machine-learning.md)
 [Math Numeric Scientific (87)](by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1020)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (436)](by-category/package-manager.md) · [Parser Lexer Ast (1076)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (297)](by-category/precommit-ci-quality.md)
@@ -28,19 +28,29 @@ Generated: `2026-09-05T01:19:22+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10053 |
+| Known stable release | 10054 |
 | Unknown stable release | 16707 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| indexmap | Rust | Parser Lexer Ast | 2.14.2 | 2026-09-05T01:53:48.019655Z | [open](records/rust-indexmap-1cba638f.md) |
+| @react-native-firebase/database | Node.js/JavaScript | Ide Editor Integration | 26.4.0 | 2026-09-05T01:49:21.021Z | [open](records/node-js-javascript-react-native-firebase-database-0450b342.md) |
+| lucide_icons_flutter | Dart | Ide Editor Integration | 3.1.18 | 2026-09-05T01:45:32.372974Z | [open](records/dart-lucide-icons-flutter-351b5f67.md) |
+| @rushstack/rush-http-build-cache-plugin | Node.js/JavaScript | Build System | 5.179.0 | 2026-09-05T01:43:52.994Z | [open](records/node-js-javascript-rushstack-rush-http-build-cache-plugin-a2239241.md) |
+| mintlify | Node.js/JavaScript | Cli | 4.2.875 | 2026-09-05T01:37:20.351Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
+| mint | Node.js/JavaScript | Cli | 4.2.875 | 2026-09-05T01:37:20.270Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
+| @mintlify/cli | Node.js/JavaScript | Cli | 4.0.1478 | 2026-09-05T01:37:17.178Z | [open](records/node-js-javascript-mintlify-cli-64dbc59b.md) |
+| lint | Dart | Linter | 2.14.0 | 2026-09-05T01:23:12.554073Z | [open](records/dart-lint-6875e6f7.md) |
+| @cloudflare/workers-types | Node.js/TypeScript | Type Checker | 5.20260905.1 | 2026-09-05T01:16:38.627Z | [open](records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) |
 | scotty-form | Haskell | Library | 0.5.0.0 | 2026-09-05T00:18:16Z | [open](records/haskell-scotty-form-93a35177.md) |
 | ditto-lucid | Haskell | Precommit Ci Quality | 0.5.0 | 2026-09-05T00:17:56Z | [open](records/haskell-ditto-lucid-bbeabec5.md) |
 | ditto | Haskell | Library | 0.5.0 | 2026-09-05T00:17:28Z | [open](records/haskell-ditto-7725d95c.md) |
 | @stacksjs/testing | Node.js/JavaScript | Testing Framework | 0.74.24 | 2026-09-05T00:11:34.736Z | [open](records/node-js-javascript-stacksjs-testing-57469937.md) |
 | @stacksjs/database | Node.js/JavaScript | Database Datastore | 0.74.24 | 2026-09-05T00:10:56.047Z | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
 | @stacksjs/http | Node.js/JavaScript | Networking Http | 0.74.24 | 2026-09-05T00:05:37.864Z | [open](records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
+| rregm | R | Library | 1.4 | 2026-09-05 02:10:02 UTC | [open](records/r-rregm-e4bb4dda.md) |
 | wasm-bindgen-futures | Rust | Library | 0.4.78 | 2026-09-04T23:58:17.192884Z | [open](records/rust-wasm-bindgen-futures-07e4253c.md) |
 | web-sys | Rust | Ffi Bindings | 0.3.105 | 2026-09-04T23:58:14.724782Z | [open](records/rust-web-sys-f4d4d76b.md) |
 | js-sys | Rust | Ffi Bindings | 0.3.105 | 2026-09-04T23:58:12.292107Z | [open](records/rust-js-sys-51cd302d.md) |
@@ -49,7 +59,6 @@ Generated: `2026-09-05T01:19:22+00:00`
 | wasm-bindgen-macro-support | Rust | Api Abi Checker | 0.2.128 | 2026-09-04T23:58:06.417383Z | [open](records/rust-wasm-bindgen-macro-support-167a22b9.md) |
 | wasm-bindgen-shared | Rust | Dependency Manager | 0.2.128 | 2026-09-04T23:58:03.129200Z | [open](records/rust-wasm-bindgen-shared-16a11c2f.md) |
 | @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.113.11 | 2026-09-04T23:56:08.841Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
-| lint | Dart | Linter | 2.13.0 | 2026-09-04T23:43:42.498805Z | [open](records/dart-lint-6875e6f7.md) |
 | crackNum | Haskell | Library | 4.7 | 2026-09-04T23:17:56Z | [open](records/haskell-cracknum-25e818dd.md) |
 | fragile | Rust | Ide Editor Integration | 3.0.0 | 2026-09-04T22:54:23.273345Z | [open](records/rust-fragile-2e299ba6.md) |
 | @github/copilot-language-server-win32-x64 | Node.js/JavaScript | Language Specification | 1.541.0 | 2026-09-04T22:43:59.468Z | [open](records/node-js-javascript-github-copilot-language-server-win32-x64-bfb04d01.md) |
@@ -70,9 +79,6 @@ Generated: `2026-09-05T01:19:22+00:00`
 | @orkestrel/database | Node.js/JavaScript | Database Datastore | 0.0.13 | 2026-09-04T20:25:11.272Z | [open](records/node-js-javascript-orkestrel-database-a6080967.md) |
 | aws-sdk-s3 | Rust | Library | 1.145.0 | 2026-09-04T19:39:21.717068Z | [open](records/rust-aws-sdk-s3-e7593d5c.md) |
 | postcss-cli | Node.js/JavaScript | Cli | 12.0.0 | 2026-09-04T19:37:55.077Z | [open](records/node-js-javascript-postcss-cli-f6b818f9.md) |
-| mintlify | Node.js/JavaScript | Cli | 4.2.874 | 2026-09-04T19:33:47.765Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
-| mint | Node.js/JavaScript | Cli | 4.2.874 | 2026-09-04T19:33:47.722Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
-| @mintlify/cli | Node.js/JavaScript | Cli | 4.0.1477 | 2026-09-04T19:33:44.681Z | [open](records/node-js-javascript-mintlify-cli-64dbc59b.md) |
 | syn | Rust | Parser Lexer Ast | 3.0.5 | 2026-09-04T19:32:02.940768Z | [open](records/rust-syn-ec1de573.md) |
 | aws-config | Rust | Ide Editor Integration | 1.12.0 | 2026-09-04T19:07:41.516716Z | [open](records/rust-aws-config-b358cea5.md) |
 | aws-sdk-sts | Rust | Security Sast | 1.114.0 | 2026-09-04T19:07:06.667147Z | [open](records/rust-aws-sdk-sts-4cfb0f29.md) |
@@ -169,7 +175,6 @@ Generated: `2026-09-05T01:19:22+00:00`
 | dio | Dart | Networking Http | 5.11.1 | 2026-09-04T02:46:21.721502Z | [open](records/dart-dio-5cdd32c7.md) |
 | tinyvec | Rust | Ide Editor Integration | 1.13.2 | 2026-09-04T02:29:11.255172Z | [open](records/rust-tinyvec-a3ec787a.md) |
 | flutter_foreground_task | Dart | Library | 11.0.2 | 2026-09-04T01:29:15.373767Z | [open](records/dart-flutter-foreground-task-0774b21a.md) |
-| @cloudflare/workers-types | Node.js/TypeScript | Type Checker | 5.20260904.1 | 2026-09-04T01:16:34.843Z | [open](records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) |
 | @seamapi/http | Node.js/TypeScript | Type Checker | 2.29.0 | 2026-09-04T00:56:43.342Z | [open](records/node-js-typescript-seamapi-http-47d27f2c.md) |
 | @gjsify/http | Node.js/JavaScript | Networking Http | 0.47.0 | 2026-09-04T00:27:29.648Z | [open](records/node-js-javascript-gjsify-http-1598f2a7.md) |
 | @joshwooding/vite-plugin-react-docgen-typescript | Node.js/TypeScript | Type Checker | 0.8.0 | 2026-09-04T00:03:02.953Z | [open](records/node-js-typescript-joshwooding-vite-plugin-react-docgen-typescript-dcab1e64.md) |
@@ -280,11 +285,6 @@ Generated: `2026-09-05T01:19:22+00:00`
 | windows-strings | Rust | Library | 0.100.0 | 2026-09-03T16:41:44.762627Z | [open](records/rust-windows-strings-cc5d0fe6.md) |
 | windows-result | Rust | Library | 0.100.0 | 2026-09-03T16:41:24.764970Z | [open](records/rust-windows-result-ea46bd4b.md) |
 | windows-link | Rust | Library | 0.100.0 | 2026-09-03T16:39:03.349369Z | [open](records/rust-windows-link-6ac6abfc.md) |
-| windows-interface | Rust | Library | 0.100.0 | 2026-09-03T16:38:48.257023Z | [open](records/rust-windows-interface-6e96e93d.md) |
-| windows-implement | Rust | Library | 0.100.0 | 2026-09-03T16:38:25.707732Z | [open](records/rust-windows-implement-2a58d270.md) |
-| freckle-otel | Haskell | Library | 0.1.0.0 | 2026-09-03T16:35:14Z | [open](records/haskell-freckle-otel-14553b97.md) |
-| @supabase/realtime-js | Node.js/JavaScript | Database Datastore | 2.115.0 | 2026-09-03T16:19:33.543Z | [open](records/node-js-javascript-supabase-realtime-js-a426c046.md) |
-| home_widget | Dart | Ide Editor Integration | 0.9.4 | 2026-09-03T16:07:26.126222Z | [open](records/dart-home-widget-2e919e24.md) |
 
 ## Unknown Reasons
 
@@ -315,6 +315,7 @@ Generated: `2026-09-05T01:19:22+00:00`
 
 | Name | Language | Channel | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| flutter_rust_bridge | Dart | preview | 2.14.0-beta.1 | 2026-09-05T01:06:08.717744Z | [open](records/dart-flutter-rust-bridge-2c8c964c.md) |
 | flutter_map | Dart | preview | 8.4.0-dev.1 | 2026-09-02T23:07:22.562609Z | [open](records/dart-flutter-map-642872b5.md) |
 | tostore | Dart | preview | 3.5.0-test | 2026-09-01T14:43:28.859741Z | [open](records/dart-tostore-c0c539b3.md) |
 | supabase_flutter | Dart | preview | 3.0.0-dev.2 | 2026-09-01T13:45:38.710691Z | [open](records/dart-supabase-flutter-7645000e.md) |
@@ -564,4 +565,3 @@ Generated: `2026-09-05T01:19:22+00:00`
 | github.com/kumparan/cacher | Go | module-preview | v1.23.1-0.20260830125208-962ffb391b33 | 2026-08-30T12:52:41.579585Z | [open](records/go-github-com-kumparan-cacher-403eb036.md) |
 | github.com/owncast/owncast.github.io | Go | module-preview | v0.0.0-20260830123035-4bb9d3b3d755 | 2026-08-30T12:52:38.437753Z | [open](records/go-github-com-owncast-owncast-github-io-3ee8bee1.md) |
 | github.com/nvidia/gpu-operator | Go | module-preview | v1.8.3-0.20260828222311-fa49ea63b839 | 2026-08-30T12:52:25.491476Z | [open](records/go-github-com-nvidia-gpu-operator-f8ad7b02.md) |
-| github.com/petarov/petarov | Go | module-preview | v0.0.0-20260830061847-42da44f26b9a | 2026-08-30T12:52:13.629632Z | [open](records/go-github-com-petarov-petarov-3df832d9.md) |

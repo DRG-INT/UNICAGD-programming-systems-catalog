@@ -17,7 +17,7 @@ Records: `311`
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1546)](filesystem-os.md) · [Formatter (635)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1418)](ide-editor-integration.md)
 [Image Audio Dsp (423)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1423)](language-specification.md) · [Library (5527)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1423)](language-specification.md) · [Library (5528)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (753)](machine-learning.md)
 [Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1020)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (436)](package-manager.md) · [Parser Lexer Ast (1076)](parser-lexer-ast.md) · [Precommit Ci Quality (297)](precommit-ci-quality.md)
@@ -61,7 +61,7 @@ Records: `311`
 | @better-auth/core | 1.7.2 | 2026-08-26T19:13:25.334Z | [open](../records/node-js-typescript-better-auth-core-fa635d03.md) |
 | @betterer/typescript | 6.0.0-alpha.1 | 2024-12-01T11:00:45.495Z | [open](../records/node-js-typescript-betterer-typescript-35e88ce6.md) |
 | @clipboard-health/testing-core | 2.12.3 | 2026-09-02T02:21:01.349Z | [open](../records/node-js-typescript-clipboard-health-testing-core-646613ba.md) |
-| @cloudflare/workers-types | 5.20260904.1 | 2026-09-04T01:16:34.843Z | [open](../records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) |
+| @cloudflare/workers-types | 5.20260905.1 | 2026-09-05T01:16:38.627Z | [open](../records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) |
 | @cspell/dict-typescript | 3.2.3 | 2025-07-09T18:55:17.973Z | [open](../records/node-js-typescript-cspell-dict-typescript-a021ae1f.md) |
 | @dbos-inc/dbos-sdk | 4.27.6 | 2026-08-25T15:39:32.081Z | [open](../records/node-js-typescript-dbos-inc-dbos-sdk-aae8d31d.md) |
 | @definitelytyped/typescript-versions | 0.1.12 | 2026-06-15T18:01:15.944Z | [open](../records/node-js-typescript-definitelytyped-typescript-versions-b23bd9b9.md) |
@@ -312,7 +312,7 @@ Records: `311`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-05T01:08:55Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | partial | 2026-09-05T01:30:08Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Computer Graphics Software
 

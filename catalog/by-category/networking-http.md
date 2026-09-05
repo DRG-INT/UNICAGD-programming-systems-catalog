@@ -17,7 +17,7 @@ Records: `1020`
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1546)](filesystem-os.md) · [Formatter (635)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1418)](ide-editor-integration.md)
 [Image Audio Dsp (423)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1423)](language-specification.md) · [Library (5527)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1423)](language-specification.md) · [Library (5528)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (753)](machine-learning.md)
 [Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1020)](networking-http.md)**
 [Other (14)](other.md) · [Package Manager (436)](package-manager.md) · [Parser Lexer Ast (1076)](parser-lexer-ast.md) · [Precommit Ci Quality (297)](precommit-ci-quality.md)
@@ -1289,4 +1289,4 @@ Records: `1020`
 | LondonAppDev/recipe-app-api-devops-starting-code | partial | 2020-03-25T20:07:45.372Z | [open](../records/repository-workplaces-londonappdev-recipe-app-api-devops-starting-code-ab68f6f2.md) |
 | lu-ci/sigma/apex-sigma | partial | 2026-08-28T09:24:40.456Z | [open](../records/repository-workplaces-lu-ci-sigma-apex-sigma-c11a60ff.md) |
 | xavki/tutorials-postgresql | partial | 2026-06-21T11:06:15.800Z | [open](../records/repository-workplaces-xavki-tutorials-postgresql-a1210284.md) |
-| yamagoya/jmdictdb | partial | 2026-09-04T05:56:41.426Z | [open](../records/repository-workplaces-yamagoya-jmdictdb-6aa61a7b.md) |
+| yamagoya/jmdictdb | partial | 2026-09-05T02:06:08.032Z | [open](../records/repository-workplaces-yamagoya-jmdictdb-6aa61a7b.md) |

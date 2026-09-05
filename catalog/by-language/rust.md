@@ -17,7 +17,7 @@ Records: `2183`
 [Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (446)](../by-category/ffi-bindings.md) · [Filesystem Os (1546)](../by-category/filesystem-os.md) · [Formatter (635)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1418)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (423)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (265)](../by-category/interpreter-runtime.md) · [Jit Vm (63)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1423)](../by-category/language-specification.md) · [Library (5527)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1423)](../by-category/language-specification.md) · [Library (5528)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (515)](../by-category/logging-observability.md) · [Machine Learning (753)](../by-category/machine-learning.md)
 [Math Numeric Scientific (87)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1020)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (436)](../by-category/package-manager.md) · [Parser Lexer Ast (1076)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (297)](../by-category/precommit-ci-quality.md)
@@ -2105,7 +2105,7 @@ Records: `2183`
 | [http-range-header](../records/rust-http-range-header-24db6e80.md) | 0.4.2 | 2024-11-28T12:38:42.267978Z | registry-derived |
 | [httparse](../records/rust-httparse-de428fae.md) | 1.10.1 | 2025-03-03T14:44:09.975762Z | registry-derived |
 | [ignore](../records/rust-ignore-2d7d9b52.md) | 0.4.33 | 2026-08-04T13:59:40.311767Z | registry-derived |
-| [indexmap](../records/rust-indexmap-1cba638f.md) | 2.14.1 | 2026-08-28T20:31:48.564506Z | registry-derived |
+| [indexmap](../records/rust-indexmap-1cba638f.md) | 2.14.2 | 2026-09-05T01:53:48.019655Z | registry-derived |
 | [itoa](../records/rust-itoa-0111e5db.md) | 1.0.18 | 2026-03-20T00:12:37.043881Z | registry-derived |
 | [lalrpop](../records/rust-lalrpop-effa25ac.md) | 0.23.1 | 2026-03-11T12:51:30.241422Z | registry-derived |
 | [logos](../records/rust-logos-0c38fdf6.md) | 0.16.1 | 2026-01-30T13:55:20.724734Z | unverified_seed |

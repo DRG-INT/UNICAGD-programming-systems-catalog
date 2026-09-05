@@ -1,6 +1,6 @@
 # R
 
-Records: `1638`
+Records: `1639`
 
 ## Navigation
 
@@ -17,7 +17,7 @@ Records: `1638`
 [Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (446)](../by-category/ffi-bindings.md) · [Filesystem Os (1546)](../by-category/filesystem-os.md) · [Formatter (635)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1418)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (423)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (265)](../by-category/interpreter-runtime.md) · [Jit Vm (63)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1423)](../by-category/language-specification.md) · [Library (5527)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1423)](../by-category/language-specification.md) · [Library (5528)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (515)](../by-category/logging-observability.md) · [Machine Learning (753)](../by-category/machine-learning.md)
 [Math Numeric Scientific (87)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1020)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (436)](../by-category/package-manager.md) · [Parser Lexer Ast (1076)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (297)](../by-category/precommit-ci-quality.md)
@@ -995,6 +995,7 @@ Records: `1638`
 | [robustrcp](../records/r-robustrcp-924e14c1.md) | 0.1.0 | 2026-08-20 15:30:02 UTC | registry-derived |
 | [Ropj](../records/r-ropj-cedce78b.md) | 0.3-7 | 2026-08-22 07:30:02 UTC | registry-derived |
 | [rqualify](../records/r-rqualify-e0c43eda.md) | 1.1.0 | 2026-08-28 20:00:02 UTC | registry-derived |
+| [rregm](../records/r-rregm-e4bb4dda.md) | 1.4 | 2026-09-05 02:10:02 UTC | registry-derived |
 | [RSDC](../records/r-rsdc-b776ccc8.md) | 1.7-0 | 2026-08-04 09:30:08 UTC | registry-derived |
 | [RTMBdist](../records/r-rtmbdist-d8295fbd.md) | 1.0.6 | 2026-08-21 06:40:08 UTC | registry-derived |
 | [Rtwalk](../records/r-rtwalk-5afdf426.md) | 2.1.0 | 2026-08-28 23:10:02 UTC | registry-derived |

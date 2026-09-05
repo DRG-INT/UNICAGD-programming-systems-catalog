@@ -17,7 +17,7 @@ Records: `348`
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1546)](filesystem-os.md) · [Formatter (635)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1418)](ide-editor-integration.md)
 [Image Audio Dsp (423)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1423)](language-specification.md) · [Library (5527)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1423)](language-specification.md) · [Library (5528)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · **[Linter (348)](linter.md)** · [Logging Observability (515)](logging-observability.md) · [Machine Learning (753)](machine-learning.md)
 [Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1020)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (436)](package-manager.md) · [Parser Lexer Ast (1076)](parser-lexer-ast.md) · [Precommit Ci Quality (297)](precommit-ci-quality.md)
@@ -404,7 +404,7 @@ Records: `348`
 | dart_code_linter | 4.3.0 | 2026-08-26T13:28:28.501794Z | [open](../records/dart-dart-code-linter-df03f02e.md) |
 | flutter_lints | 6.0.0 | 2025-05-27T13:59:16.618213Z | [open](../records/dart-flutter-lints-e4a57b3e.md) |
 | leancode_lint | 27.0.0 | 2026-08-18T10:22:18.601100Z | [open](../records/dart-leancode-lint-61fd34ed.md) |
-| lint | 2.13.0 | 2026-09-04T23:43:42.498805Z | [open](../records/dart-lint-6875e6f7.md) |
+| lint | 2.14.0 | 2026-09-05T01:23:12.554073Z | [open](../records/dart-lint-6875e6f7.md) |
 | lints | 6.1.0 | 2026-01-30T21:32:30.985377Z | [open](../records/dart-lints-423e1c89.md) |
 | pedantic_mono | 1.38.1 | 2026-08-13T05:58:18.262745Z | [open](../records/dart-pedantic-mono-d91c4612.md) |
 | very_good_analysis | 11.0.0 | 2026-09-03T14:28:27.926923Z | [open](../records/dart-very-good-analysis-8f0f073a.md) |

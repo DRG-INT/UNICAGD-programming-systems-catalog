@@ -1,6 +1,6 @@
 # Library
 
-Records: `5527`
+Records: `5528`
 
 ## Navigation
 
@@ -17,7 +17,7 @@ Records: `5527`
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1546)](filesystem-os.md) · [Formatter (635)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1418)](ide-editor-integration.md)
 [Image Audio Dsp (423)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1423)](language-specification.md) · **[Library (5527)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1423)](language-specification.md) · **[Library (5528)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (753)](machine-learning.md)
 [Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1020)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (436)](package-manager.md) · [Parser Lexer Ast (1076)](parser-lexer-ast.md) · [Precommit Ci Quality (297)](precommit-ci-quality.md)
@@ -2883,6 +2883,7 @@ Records: `5527`
 | robustrcp | 0.1.0 | 2026-08-20 15:30:02 UTC | [open](../records/r-robustrcp-924e14c1.md) |
 | Ropj | 0.3-7 | 2026-08-22 07:30:02 UTC | [open](../records/r-ropj-cedce78b.md) |
 | rqualify | 1.1.0 | 2026-08-28 20:00:02 UTC | [open](../records/r-rqualify-e0c43eda.md) |
+| rregm | 1.4 | 2026-09-05 02:10:02 UTC | [open](../records/r-rregm-e4bb4dda.md) |
 | RSDC | 1.7-0 | 2026-08-04 09:30:08 UTC | [open](../records/r-rsdc-b776ccc8.md) |
 | RTMBdist | 1.0.6 | 2026-08-21 06:40:08 UTC | [open](../records/r-rtmbdist-d8295fbd.md) |
 | Rtwalk | 2.1.0 | 2026-08-28 23:10:02 UTC | [open](../records/r-rtwalk-5afdf426.md) |
@@ -4192,7 +4193,7 @@ Records: `5527`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-05T01:07:36Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-05T02:18:55Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
