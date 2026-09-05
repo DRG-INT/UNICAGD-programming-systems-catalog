@@ -41,9 +41,9 @@ behavior, target support, ABI expectations, and build reproducibility.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Apache-2.0 |
-| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
-| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
+| Detected family | MIT |
+| Evidence | Other; MIT License; https://api.github.com/licenses/mit; SIL Open Font License 1.1; https://api.github.com/licenses/ofl-1.1 |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 

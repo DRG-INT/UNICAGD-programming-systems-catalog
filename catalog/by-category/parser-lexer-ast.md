@@ -609,7 +609,7 @@ Records: `1089`
 | go.gary.cool/diecast | v1.17.35 | 2026-08-30T14:10:05.638889Z | [open](../records/go-go-gary-cool-diecast-e5dd52c7.md) |
 | gogf/gf | partial | 2026-09-04T03:14:29Z | [open](../records/go-gogf-gf-cf9bbe8f.md) |
 | gomods/athens | partial | 2026-09-02T07:53:04Z | [open](../records/go-gomods-athens-5ff0b837.md) |
-| GopeedLab/gopeed | partial | 2026-09-05T12:23:05Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
+| GopeedLab/gopeed | partial | 2026-09-05T12:51:10Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
 | gravitational/teleport | partial | 2026-09-03T09:44:53Z | [open](../records/go-gravitational-teleport-6a32fe26.md) |
 | HyNetworks/hysteria | partial | 2026-08-31T06:55:46Z | [open](../records/go-hynetworks-hysteria-6f37132d.md) |
 | kovidgoyal/kitty | partial | 2026-09-04T21:27:21Z | [open](../records/go-kovidgoyal-kitty-9cff0795.md) |
@@ -627,7 +627,7 @@ Records: `1089`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 0xIonRod/learning-basilisk | partial | 2023-06-28T06:42:25Z | [open](../records/basilisk-0xionrod-learning-basilisk-3b9428f3.md) |
-| AVSLab/basilisk | partial | 2026-09-05T12:13:42Z | [open](../records/basilisk-avslab-basilisk-3f9dd832.md) |
+| AVSLab/basilisk | partial | 2026-09-05T12:50:32Z | [open](../records/basilisk-avslab-basilisk-3f9dd832.md) |
 | CarterBalow/avs-lab-work | partial | 2026-09-02T17:52:11Z | [open](../records/basilisk-carterbalow-avs-lab-work-c0f5c66b.md) |
 | DISCOWER/bsk-msgs | partial | 2026-07-02T20:47:18Z | [open](../records/basilisk-discower-bsk-msgs-80974f96.md) |
 | DISCOWER/bsk-ros2-bridge | partial | 2026-08-25T16:24:45Z | [open](../records/basilisk-discower-bsk-ros2-bridge-ff7c49fa.md) |
@@ -898,12 +898,12 @@ Records: `1089`
 | jarogumulec/perseidy | partial | 2026-08-12T07:13:34Z | [open](../records/space-maps-jarogumulec-perseidy-606b759b.md) |
 | jasonsturges/lunarphase-js | partial | 2024-03-01T22:53:58Z | [open](../records/space-maps-jasonsturges-lunarphase-js-e8551ded.md) |
 | jeff-regier/Celeste.jl | partial | 2021-09-18T08:20:37Z | [open](../records/space-maps-jeff-regier-celeste-jl-2c4a4fe5.md) |
-| jobovy/galpy | partial | 2026-09-05T01:18:09Z | [open](../records/space-maps-jobovy-galpy-3ddf61a7.md) |
+| jobovy/galpy | partial | 2026-09-05T13:13:11Z | [open](../records/space-maps-jobovy-galpy-3ddf61a7.md) |
 | JuliaAstro/SPICE.jl | partial | 2026-06-24T14:09:40Z | [open](../records/space-maps-juliaastro-spice-jl-78081df8.md) |
 | jyotisham/jyotisha | partial | 2026-08-29T13:59:08Z | [open](../records/space-maps-jyotisham-jyotisha-889f81ce.md) |
 | kaitlyndlee/AstroWebMaps | partial | 2019-10-11T17:52:05Z | [open](../records/space-maps-kaitlyndlee-astrowebmaps-1c6718c8.md) |
 | kbrault/stardome | partial | 2026-08-01T09:36:28Z | [open](../records/space-maps-kbrault-stardome-23bdfa43.md) |
-| kylecorry31/Trail-Sense | partial | 2026-09-04T22:20:35Z | [open](../records/space-maps-kylecorry31-trail-sense-b3901335.md) |
+| kylecorry31/Trail-Sense | partial | 2026-09-05T12:10:49Z | [open](../records/space-maps-kylecorry31-trail-sense-b3901335.md) |
 | lenstronomy/lenstronomy | partial | 2026-08-31T01:11:49Z | [open](../records/space-maps-lenstronomy-lenstronomy-9b7bddbc.md) |
 | lunohodov/awesome-astrophotography | partial | 2026-06-11T04:43:54Z | [open](../records/space-maps-lunohodov-awesome-astrophotography-1545bec0.md) |
 | makalin/skypin | partial | 2025-10-06T15:02:00Z | [open](../records/space-maps-makalin-skypin-ecae670c.md) |
@@ -945,7 +945,7 @@ Records: `1089`
 | robertobastone/MOCHA | partial | 2021-04-18T16:00:09Z | [open](../records/space-maps-robertobastone-mocha-a557cbc2.md) |
 | roe-dl/weewx-skymap-almanac | partial | 2026-08-24T06:45:03Z | [open](../records/space-maps-roe-dl-weewx-skymap-almanac-57e37b7b.md) |
 | sanderblue/solar-system-threejs | partial | 2022-12-07T17:32:03Z | [open](../records/space-maps-sanderblue-solar-system-threejs-de57e602.md) |
-| SAOImageDS9/SAOImageDS9 | partial | 2026-09-04T23:17:26Z | [open](../records/space-maps-saoimageds9-saoimageds9-ed0b1fd7.md) |
+| SAOImageDS9/SAOImageDS9 | partial | 2026-09-05T11:26:21Z | [open](../records/space-maps-saoimageds9-saoimageds9-ed0b1fd7.md) |
 | saurvs/astro-rust | partial | 2019-10-20T01:17:04Z | [open](../records/space-maps-saurvs-astro-rust-b959f43f.md) |
 | sczesla/PyAstronomy | partial | 2026-06-27T22:26:51Z | [open](../records/space-maps-sczesla-pyastronomy-b77e4fb4.md) |
 | sherpa/sherpa | partial | 2026-08-31T10:48:37Z | [open](../records/space-maps-sherpa-sherpa-9f2278ff.md) |
@@ -956,7 +956,7 @@ Records: `1089`
 | spacetelescope/webbpsf | partial | 2025-12-02T16:51:26Z | [open](../records/space-maps-spacetelescope-webbpsf-5be07f40.md) |
 | SpiceSharp/SpiceSharpParser | partial | 2026-08-01T17:44:33Z | [open](../records/space-maps-spicesharp-spicesharpparser-20f4c337.md) |
 | Starlink/starlink | partial | 2026-08-12T00:17:22Z | [open](../records/space-maps-starlink-starlink-7f05c3ed.md) |
-| Stellarium/stellarium | partial | 2026-09-05T05:05:12Z | [open](../records/space-maps-stellarium-stellarium-9881eb0a.md) |
+| Stellarium/stellarium | partial | 2026-09-05T10:38:08Z | [open](../records/space-maps-stellarium-stellarium-9881eb0a.md) |
 | steveberardi/starplot | partial | 2026-09-01T13:14:47Z | [open](../records/space-maps-steveberardi-starplot-f953a72c.md) |
 | StingraySoftware/stingray | partial | 2026-06-02T08:10:03Z | [open](../records/space-maps-stingraysoftware-stingray-96dfde34.md) |
 | sunpy/sunpy | partial | 2026-09-03T11:45:18Z | [open](../records/space-maps-sunpy-sunpy-8e44c814.md) |
@@ -1055,7 +1055,7 @@ Records: `1089`
 | iammatthias/com | partial | 2026-09-03T22:25:49Z | [open](../records/photography-iammatthias-com-e27dacc6.md) |
 | iib0011/omni-tools | partial | 2026-08-17T19:00:25Z | [open](../records/photography-iib0011-omni-tools-25e339f6.md) |
 | imgproxy/imgproxy | partial | 2026-09-03T21:44:22Z | [open](../records/photography-imgproxy-imgproxy-fffb72aa.md) |
-| jim-easterbrook/Photini | partial | 2026-09-04T10:49:45Z | [open](../records/photography-jim-easterbrook-photini-e6016870.md) |
+| jim-easterbrook/Photini | partial | 2026-09-05T11:24:07Z | [open](../records/photography-jim-easterbrook-photini-e6016870.md) |
 | kydecker/astro-photo-grid | partial | 2026-08-11T01:32:56Z | [open](../records/photography-kydecker-astro-photo-grid-8e515209.md) |
 | lunohodov/awesome-astrophotography | partial | 2026-06-11T04:43:54Z | [open](../records/photography-lunohodov-awesome-astrophotography-2e7b7b64.md) |
 | Naxela/The_Lightmapper | partial | 2026-07-18T22:24:35Z | [open](../records/photography-naxela-the-lightmapper-5258d55d.md) |

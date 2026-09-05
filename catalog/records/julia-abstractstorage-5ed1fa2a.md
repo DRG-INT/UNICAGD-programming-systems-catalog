@@ -40,7 +40,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 | Field | Value |
 | --- | --- |
 | Detected family | Other permissive |
-| Evidence | CC0 |
+| Evidence | ISC |
 | Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes

@@ -39,9 +39,9 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | Creative Commons Attribution 4.0 International; https://api.github.com/licenses/cc-by-4.0 |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Other permissive |
+| Evidence | ISC License; https://api.github.com/licenses/isc; Creative Commons Attribution 4.0 International; https://api.github.com/licenses/cc-by-4.0 |
+| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes
 

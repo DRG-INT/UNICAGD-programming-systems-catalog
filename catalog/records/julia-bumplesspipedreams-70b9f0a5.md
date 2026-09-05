@@ -39,9 +39,9 @@ acquisition, lockfile policy, provenance control, and supply-chain monitoring.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Other permissive |
-| Evidence | Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0 |
-| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
+| Detected family | Backup plan required |
+| Evidence | GNU Lesser General Public License v2.1; https://api.github.com/licenses/lgpl-2.1; GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0 |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 

@@ -1184,8 +1184,8 @@ Records: `1569`
 | DropSnorz/OwlPlug | partial | 2026-09-03T21:41:09Z | [open](../records/audio-dropsnorz-owlplug-ab9f531b.md) |
 | fedden/RenderMan | partial | 2021-12-02T21:11:26Z | [open](../records/audio-fedden-renderman-b1df24f8.md) |
 | gnuradio/gnuradio | partial | 2026-08-27T23:02:01Z | [open](../records/audio-gnuradio-gnuradio-f6f01d2f.md) |
-| HEnquist/camilladsp | partial | 2026-09-04T21:41:10Z | [open](../records/audio-henquist-camilladsp-382264e4.md) |
-| hifiberry/hifiberry-os | partial | 2026-09-02T15:35:04Z | [open](../records/audio-hifiberry-hifiberry-os-5ddcb398.md) |
+| HEnquist/camilladsp | partial | 2026-09-05T08:05:34Z | [open](../records/audio-henquist-camilladsp-382264e4.md) |
+| hifiberry/hifiberry-os | partial | 2026-09-05T08:24:01Z | [open](../records/audio-hifiberry-hifiberry-os-5ddcb398.md) |
 | hollance/lost-and-found-piano | partial | 2026-07-12T14:06:30Z | [open](../records/audio-hollance-lost-and-found-piano-757e2e12.md) |
 | jameshball/osci-render | partial | 2026-09-02T20:27:14Z | [open](../records/audio-jameshball-osci-render-c76ba818.md) |
 | jatinchowdhury18/ChowPhaser | partial | 2022-02-23T08:14:59Z | [open](../records/audio-jatinchowdhury18-chowphaser-48d2d1a6.md) |
@@ -1255,7 +1255,7 @@ Records: `1569`
 | aslost/pixtale | partial | 2026-09-01T14:07:49Z | [open](../records/photography-aslost-pixtale-df702412.md) |
 | Awalz/SwiftyCam | partial | 2022-02-04T10:24:45Z | [open](../records/photography-awalz-swiftycam-8b6b12a3.md) |
 | awxkee/avif.swift | partial | 2026-04-29T10:30:31Z | [open](../records/photography-awxkee-avif-swift-72b07b3d.md) |
-| Bitpainter75/FerrumPix | partial | 2026-09-04T23:29:47Z | [open](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) |
+| Bitpainter75/FerrumPix | partial | 2026-09-05T13:14:27Z | [open](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) |
 | carina-studio/PixelViewer | partial | 2026-09-04T13:29:58Z | [open](../records/photography-carina-studio-pixelviewer-70d11532.md) |
 | carlospuenteg/File-Injector | partial | 2022-11-18T00:20:21Z | [open](../records/photography-carlospuenteg-file-injector-2533177f.md) |
 | carlospuenteg/Photomosaic-Creator | unknown | github_search_does_not_include_release_date | [open](../records/photography-carlospuenteg-photomosaic-creator-b57e7ad4.md) |
@@ -1287,7 +1287,7 @@ Records: `1569`
 | niklasr22/BrightIntosh | partial | 2026-09-04T17:20:10Z | [open](../records/photography-niklasr22-brightintosh-a739a56f.md) |
 | open-product-data/digital-cameras | unknown | github_search_does_not_include_release_date | [open](../records/photography-open-product-data-digital-cameras-6d723530.md) |
 | photoprism/photoprism | partial | 2026-09-04T09:09:14Z | [open](../records/photography-photoprism-photoprism-49783c79.md) |
-| PicPeak/picpeak | partial | 2026-09-05T06:53:00Z | [open](../records/photography-picpeak-picpeak-d6957174.md) |
+| PicPeak/picpeak | partial | 2026-09-05T12:34:56Z | [open](../records/photography-picpeak-picpeak-d6957174.md) |
 | pmndrs/postprocessing | partial | 2026-09-04T16:36:09Z | [open](../records/photography-pmndrs-postprocessing-70a67349.md) |
 | Po-Hsun-Su/pytorch-ssim | partial | 2024-02-22T09:28:51Z | [open](../records/photography-po-hsun-su-pytorch-ssim-c77f7b01.md) |
 | pop-os/wallpapers | partial | 2025-06-24T16:00:43Z | [open](../records/photography-pop-os-wallpapers-b9bd093b.md) |
@@ -1571,7 +1571,7 @@ Records: `1569`
 | leoncinardo/MascOS | partial | 2026-04-26T16:15:37Z | [open](../records/assembly-leoncinardo-mascos-e4ea93aa.md) |
 | maniekx86/stillalive-os | partial | 2025-09-16T11:55:24Z | [open](../records/assembly-maniekx86-stillalive-os-3b900496.md) |
 | moby/moby | partial | 2026-09-04T17:30:56Z | [open](../records/assembly-moby-moby-727c8e59.md) |
-| OpenRakis/Spice86 | partial | 2026-09-05T11:59:30Z | [open](../records/assembly-openrakis-spice86-2cdaf101.md) |
+| OpenRakis/Spice86 | partial | 2026-09-05T13:16:38Z | [open](../records/assembly-openrakis-spice86-2cdaf101.md) |
 | owent/libcopp | partial | 2026-01-20T11:34:32Z | [open](../records/assembly-owent-libcopp-45c438d7.md) |
 | rwfpl/rewolf-wow64ext | partial | 2023-01-17T20:00:42Z | [open](../records/assembly-rwfpl-rewolf-wow64ext-24fabb9b.md) |
 | s-matyukevich/raspberry-pi-os | partial | 2024-03-29T21:19:52Z | [open](../records/assembly-s-matyukevich-raspberry-pi-os-afd7ee12.md) |

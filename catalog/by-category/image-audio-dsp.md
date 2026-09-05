@@ -357,12 +357,12 @@ Records: `430`
 | Moekotori/ECHO | partial | 2026-08-20T00:46:12Z | [open](../records/audio-moekotori-echo-a5eae6e0.md) |
 | morkt/GARbro | partial | 2024-07-08T19:36:58Z | [open](../records/audio-morkt-garbro-79127cac.md) |
 | mpv-player/mpv | partial | 2026-09-03T16:05:08Z | [open](../records/audio-mpv-player-mpv-42e3d95c.md) |
-| mumble-voip/mumble | partial | 2026-09-04T18:21:32Z | [open](../records/audio-mumble-voip-mumble-d83c7a49.md) |
+| mumble-voip/mumble | partial | 2026-09-05T09:20:58Z | [open](../records/audio-mumble-voip-mumble-d83c7a49.md) |
 | novoic/surfboard | partial | 2022-03-04T23:04:03Z | [open](../records/audio-novoic-surfboard-0947802a.md) |
 | npisanti/ofxPDSP | partial | 2024-08-09T02:07:03Z | [open](../records/audio-npisanti-ofxpdsp-71b17c19.md) |
 | olilarkin/awesome-musicdsp | partial | 2026-05-30T16:10:00Z | [open](../records/audio-olilarkin-awesome-musicdsp-8a7e6eae.md) |
 | OpenBMB/VoxCPM | partial | 2026-09-02T12:12:35Z | [open](../records/audio-openbmb-voxcpm-031307cb.md) |
-| orottier/web-audio-api-rs | partial | 2026-08-15T12:02:49Z | [open](../records/audio-orottier-web-audio-api-rs-b1a3cc71.md) |
+| orottier/web-audio-api-rs | partial | 2026-09-05T08:15:22Z | [open](../records/audio-orottier-web-audio-api-rs-b1a3cc71.md) |
 | OxygenCobalt/Auxio | partial | 2026-08-30T15:18:59Z | [open](../records/audio-oxygencobalt-auxio-c078449a.md) |
 | pavel-demin/red-pitaya-notes | partial | 2026-08-29T19:11:52Z | [open](../records/audio-pavel-demin-red-pitaya-notes-e5be73d9.md) |
 | philburk/jsyn | partial | 2025-09-04T17:43:20Z | [open](../records/audio-philburk-jsyn-78aebd02.md) |

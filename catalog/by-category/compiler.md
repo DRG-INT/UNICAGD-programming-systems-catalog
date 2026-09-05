@@ -239,18 +239,18 @@ Records: `175`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ClementTsang/rustcc | partial | 2025-06-04T05:05:13Z | [open](../records/assembly-clementtsang-rustcc-81a87799.md) |
-| compiler-explorer/compiler-explorer | partial | 2026-09-04T17:08:57Z | [open](../records/assembly-compiler-explorer-compiler-explorer-99f6d9ce.md) |
+| compiler-explorer/compiler-explorer | partial | 2026-09-05T13:08:32Z | [open](../records/assembly-compiler-explorer-compiler-explorer-99f6d9ce.md) |
 | DQNEO/minigo | partial | 2021-02-16T16:05:25Z | [open](../records/assembly-dqneo-minigo-2d87e4eb.md) |
 | emproof-com/nyxstone | partial | 2026-06-05T16:43:08Z | [open](../records/assembly-emproof-com-nyxstone-2e6c50f8.md) |
 | Fedjmike/mini-c | partial | 2022-04-15T08:24:14Z | [open](../records/assembly-fedjmike-mini-c-295a2fc0.md) |
 | HexHive/retrowrite | partial | 2025-04-26T16:48:55Z | [open](../records/assembly-hexhive-retrowrite-c7fefa2b.md) |
-| illegalstudio/elephc | partial | 2026-09-05T10:51:27Z | [open](../records/assembly-illegalstudio-elephc-5fbaada8.md) |
+| illegalstudio/elephc | partial | 2026-09-05T12:40:46Z | [open](../records/assembly-illegalstudio-elephc-5fbaada8.md) |
 | joexbayer/RetrOS-32 | partial | 2026-02-22T16:07:58Z | [open](../records/assembly-joexbayer-retros-32-b6c205a2.md) |
 | JustasMasiulis/inline_syscall | partial | 2024-06-21T00:26:33Z | [open](../records/assembly-justasmasiulis-inline-syscall-0c8a798a.md) |
 | Mati365/ts-c-compiler | partial | 2026-08-11T06:13:10Z | [open](../records/assembly-mati365-ts-c-compiler-bc7fb5c3.md) |
 | pacak/cargo-show-asm | partial | 2026-08-31T18:32:36Z | [open](../records/assembly-pacak-cargo-show-asm-9459d0cc.md) |
 | ujjwal-kr/system-programming-roadmap | partial | 2026-08-29T03:34:53Z | [open](../records/assembly-ujjwal-kr-system-programming-roadmap-128f664f.md) |
-| vygr/ChrysaLisp | partial | 2026-09-05T10:58:56Z | [open](../records/assembly-vygr-chrysalisp-0e234f7b.md) |
+| vygr/ChrysaLisp | partial | 2026-09-05T13:17:49Z | [open](../records/assembly-vygr-chrysalisp-0e234f7b.md) |
 | wargio/r2dec-js | partial | 2026-08-16T18:36:14Z | [open](../records/assembly-wargio-r2dec-js-b98d3015.md) |
 | wgtdkp/wgtcc | partial | 2021-01-31T07:55:46Z | [open](../records/assembly-wgtdkp-wgtcc-991c7fcc.md) |
 

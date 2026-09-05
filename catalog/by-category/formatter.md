@@ -537,7 +537,7 @@ Records: `643`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-05T12:14:19Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-05T13:15:44Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-08-27T19:23:53Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -709,7 +709,7 @@ Records: `643`
 | MikeMorenoDSP/LIRA-8 | partial | 2023-02-06T05:45:24Z | [open](../records/audio-mikemorenodsp-lira-8-251c75e9.md) |
 | MycroftAI/ZZZ-RETIRED__openstt | partial | 2016-03-22T21:41:07Z | [open](../records/audio-mycroftai-zzz-retired-openstt-d192df70.md) |
 | pdeljanov/Symphonia | partial | 2026-08-13T03:19:51Z | [open](../records/audio-pdeljanov-symphonia-b302ab81.md) |
-| pytorch/audio | partial | 2026-09-04T11:36:57Z | [open](../records/audio-pytorch-audio-d02c37b9.md) |
+| pytorch/audio | partial | 2026-09-05T11:37:06Z | [open](../records/audio-pytorch-audio-d02c37b9.md) |
 
 ## Video
 
@@ -727,9 +727,9 @@ Records: `643`
 | AcademySoftwareFoundation/OpenImageIO | partial | 2026-09-04T17:50:19Z | [open](../records/photography-academysoftwarefoundation-openimageio-a97ad013.md) |
 | AlenVelocity/wa-sticker-formatter | partial | 2026-08-10T19:22:06Z | [open](../records/photography-alenvelocity-wa-sticker-formatter-09b95bf0.md) |
 | ankitdhall/lidar_camera_calibration | partial | 2025-10-16T18:17:31Z | [open](../records/photography-ankitdhall-lidar-camera-calibration-71522045.md) |
-| blakeblackshear/frigate | partial | 2026-09-04T22:28:18Z | [open](../records/photography-blakeblackshear-frigate-ea8ac18c.md) |
+| blakeblackshear/frigate | partial | 2026-09-05T11:33:55Z | [open](../records/photography-blakeblackshear-frigate-ea8ac18c.md) |
 | blakeblackshear/frigate-hass-integration | partial | 2026-09-04T06:33:23Z | [open](../records/photography-blakeblackshear-frigate-hass-integration-49b84b9e.md) |
-| d2phap/ImageGlass | partial | 2026-09-05T08:29:09Z | [open](../records/photography-d2phap-imageglass-ec40014f.md) |
+| d2phap/ImageGlass | partial | 2026-09-05T12:02:30Z | [open](../records/photography-d2phap-imageglass-ec40014f.md) |
 | dnglab/dnglab | partial | 2026-08-30T14:57:26Z | [open](../records/photography-dnglab-dnglab-05d113bb.md) |
 | exiftool/exiftool | partial | 2026-05-27T16:45:01Z | [open](../records/photography-exiftool-exiftool-c6310d37.md) |
 | fabian7593/MagicalCamera | partial | 2019-02-27T05:46:19Z | [open](../records/photography-fabian7593-magicalcamera-94d156a4.md) |

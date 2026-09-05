@@ -41,7 +41,7 @@ persistence, interoperability, and compatibility boundaries.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT; https://www.nuget.org/packages/Flurl.Http.Signed/4.0.2/license |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

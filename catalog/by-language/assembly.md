@@ -65,18 +65,18 @@ Records: `308`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [ClementTsang/rustcc](../records/assembly-clementtsang-rustcc-81a87799.md) | partial | 2025-06-04T05:05:13Z | registry-derived |
-| [compiler-explorer/compiler-explorer](../records/assembly-compiler-explorer-compiler-explorer-99f6d9ce.md) | partial | 2026-09-04T17:08:57Z | registry-derived |
+| [compiler-explorer/compiler-explorer](../records/assembly-compiler-explorer-compiler-explorer-99f6d9ce.md) | partial | 2026-09-05T13:08:32Z | registry-derived |
 | [DQNEO/minigo](../records/assembly-dqneo-minigo-2d87e4eb.md) | partial | 2021-02-16T16:05:25Z | registry-derived |
 | [emproof-com/nyxstone](../records/assembly-emproof-com-nyxstone-2e6c50f8.md) | partial | 2026-06-05T16:43:08Z | registry-derived |
 | [Fedjmike/mini-c](../records/assembly-fedjmike-mini-c-295a2fc0.md) | partial | 2022-04-15T08:24:14Z | registry-derived |
 | [HexHive/retrowrite](../records/assembly-hexhive-retrowrite-c7fefa2b.md) | partial | 2025-04-26T16:48:55Z | registry-derived |
-| [illegalstudio/elephc](../records/assembly-illegalstudio-elephc-5fbaada8.md) | partial | 2026-09-05T10:51:27Z | registry-derived |
+| [illegalstudio/elephc](../records/assembly-illegalstudio-elephc-5fbaada8.md) | partial | 2026-09-05T12:40:46Z | registry-derived |
 | [joexbayer/RetrOS-32](../records/assembly-joexbayer-retros-32-b6c205a2.md) | partial | 2026-02-22T16:07:58Z | registry-derived |
 | [JustasMasiulis/inline_syscall](../records/assembly-justasmasiulis-inline-syscall-0c8a798a.md) | partial | 2024-06-21T00:26:33Z | registry-derived |
 | [Mati365/ts-c-compiler](../records/assembly-mati365-ts-c-compiler-bc7fb5c3.md) | partial | 2026-08-11T06:13:10Z | registry-derived |
 | [pacak/cargo-show-asm](../records/assembly-pacak-cargo-show-asm-9459d0cc.md) | partial | 2026-08-31T18:32:36Z | registry-derived |
 | [ujjwal-kr/system-programming-roadmap](../records/assembly-ujjwal-kr-system-programming-roadmap-128f664f.md) | partial | 2026-08-29T03:34:53Z | registry-derived |
-| [vygr/ChrysaLisp](../records/assembly-vygr-chrysalisp-0e234f7b.md) | partial | 2026-09-05T10:58:56Z | registry-derived |
+| [vygr/ChrysaLisp](../records/assembly-vygr-chrysalisp-0e234f7b.md) | partial | 2026-09-05T13:17:49Z | registry-derived |
 | [wargio/r2dec-js](../records/assembly-wargio-r2dec-js-b98d3015.md) | partial | 2026-08-16T18:36:14Z | registry-derived |
 | [wgtdkp/wgtcc](../records/assembly-wgtdkp-wgtcc-991c7fcc.md) | partial | 2021-01-31T07:55:46Z | registry-derived |
 
@@ -145,7 +145,7 @@ Records: `308`
 | [leoncinardo/MascOS](../records/assembly-leoncinardo-mascos-e4ea93aa.md) | partial | 2026-04-26T16:15:37Z | registry-derived |
 | [maniekx86/stillalive-os](../records/assembly-maniekx86-stillalive-os-3b900496.md) | partial | 2025-09-16T11:55:24Z | registry-derived |
 | [moby/moby](../records/assembly-moby-moby-727c8e59.md) | partial | 2026-09-04T17:30:56Z | registry-derived |
-| [OpenRakis/Spice86](../records/assembly-openrakis-spice86-2cdaf101.md) | partial | 2026-09-05T11:59:30Z | registry-derived |
+| [OpenRakis/Spice86](../records/assembly-openrakis-spice86-2cdaf101.md) | partial | 2026-09-05T13:16:38Z | registry-derived |
 | [owent/libcopp](../records/assembly-owent-libcopp-45c438d7.md) | partial | 2026-01-20T11:34:32Z | registry-derived |
 | [rwfpl/rewolf-wow64ext](../records/assembly-rwfpl-rewolf-wow64ext-24fabb9b.md) | partial | 2023-01-17T20:00:42Z | registry-derived |
 | [s-matyukevich/raspberry-pi-os](../records/assembly-s-matyukevich-raspberry-pi-os-afd7ee12.md) | partial | 2024-03-29T21:19:52Z | registry-derived |
@@ -183,7 +183,7 @@ Records: `308`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [cottsay/arm_asm_emu](../records/assembly-cottsay-arm-asm-emu-d1df6727.md) | partial | 2022-02-07T00:51:12Z | registry-derived |
-| [decompme/decomp.me](../records/assembly-decompme-decomp-me-72e4eec1.md) | partial | 2026-09-04T18:50:40Z | registry-derived |
+| [decompme/decomp.me](../records/assembly-decompme-decomp-me-72e4eec1.md) | partial | 2026-09-05T13:08:49Z | registry-derived |
 | [dethrace-labs/dethrace](../records/assembly-dethrace-labs-dethrace-0d609365.md) | partial | 2026-08-18T13:12:35Z | registry-derived |
 | [io12/BootMine](../records/assembly-io12-bootmine-85e26922.md) | partial | 2021-01-21T04:53:31Z | registry-derived |
 | [tgrysztar/fasmg](../records/assembly-tgrysztar-fasmg-1281abcb.md) | partial | 2026-07-19T09:21:17Z | registry-derived |
@@ -250,7 +250,7 @@ Records: `308`
 | [DOS-History/Paterson-Listings](../records/assembly-dos-history-paterson-listings-1b2b8faa.md) | partial | 2026-06-02T11:01:48Z | registry-derived |
 | [dspinellis/unix-history-repo](../records/assembly-dspinellis-unix-history-repo-77c8ee7b.md) | partial | 2026-01-05T16:53:18Z | registry-derived |
 | [dwelch67/raspberrypi](../records/assembly-dwelch67-raspberrypi-a219633c.md) | partial | 2023-07-14T09:07:13Z | registry-derived |
-| [ebitengine/purego](../records/assembly-ebitengine-purego-a5231eb8.md) | partial | 2026-09-01T10:46:21Z | registry-derived |
+| [ebitengine/purego](../records/assembly-ebitengine-purego-a5231eb8.md) | partial | 2026-09-05T12:39:21Z | registry-derived |
 | [espressif/esp-dl](../records/assembly-espressif-esp-dl-82fca433.md) | partial | 2026-09-03T04:06:51Z | registry-derived |
 | [fcambus/spleen](../records/assembly-fcambus-spleen-889e6477.md) | partial | 2026-08-12T15:45:38Z | registry-derived |
 | [grassator/mass](../records/assembly-grassator-mass-293a8da9.md) | partial | 2023-10-03T22:05:30Z | registry-derived |

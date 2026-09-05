@@ -32,7 +32,7 @@ numerical runtime constraints, and data/deployment interfaces.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2025-01-16T10:00:44Z | gh search repos topic:audio-plugin stars:>20 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2025-01-16T10:00:44Z | gh search repos topic:audio stars:>500 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -57,7 +57,7 @@ numerical runtime constraints, and data/deployment interfaces.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-05 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:audio-plugin stars:>20", "retrieved": "2026-09-05", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-05 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:audio stars:>500", "retrieved": "2026-09-05", "status": "forge-cli-derived"}` |
 
 </details>
 

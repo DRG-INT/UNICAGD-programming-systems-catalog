@@ -399,7 +399,7 @@ Records: `441`
 | attenlabs/saa-sdk | partial | 2026-07-15T20:52:27Z | [open](../records/audio-attenlabs-saa-sdk-feb070cb.md) |
 | Audio4Linux/JDSP4Linux | partial | 2026-08-29T16:29:46Z | [open](../records/audio-audio4linux-jdsp4linux-effd41ab.md) |
 | collidingScopes/arpeggiator | unknown | github_latest_release_missing | [open](../records/audio-collidingscopes-arpeggiator-f2da818f.md) |
-| modelscope/FunASR | partial | 2026-09-04T12:47:33Z | [open](../records/audio-modelscope-funasr-8e089427.md) |
+| modelscope/FunASR | partial | 2026-09-05T06:49:46Z | [open](../records/audio-modelscope-funasr-8e089427.md) |
 | open-audio-stack/open-audio-stack-registry | partial | 2026-09-02T03:58:47Z | [open](../records/audio-open-audio-stack-open-audio-stack-registry-6bcfb8c0.md) |
 
 ## Video
@@ -408,12 +408,12 @@ Records: `441`
 | --- | --- | --- | --- |
 | AzuraCast/AzuraCast | partial | 2026-09-03T04:46:56Z | [open](../records/video-azuracast-azuracast-d01011b2.md) |
 | calesthio/OpenMontage | partial | 2026-08-22T18:22:24Z | [open](../records/video-calesthio-openmontage-675312f7.md) |
-| google-ai-edge/mediapipe | partial | 2026-09-05T02:53:02Z | [open](../records/video-google-ai-edge-mediapipe-a0c51472.md) |
+| google-ai-edge/mediapipe | partial | 2026-09-05T05:36:59Z | [open](../records/video-google-ai-edge-mediapipe-a0c51472.md) |
 | kaltura/platform-install-packages | partial | 2023-03-31T20:11:47Z | [open](../records/video-kaltura-platform-install-packages-da4f9d30.md) |
 | memvid/memvid | partial | 2026-07-14T14:39:07Z | [open](../records/video-memvid-memvid-bb0d9def.md) |
 | pathwaycom/pathway | partial | 2026-09-04T13:04:04Z | [open](../records/video-pathwaycom-pathway-a50dba92.md) |
 | rushindrasinha/youtube-shorts-pipeline | partial | 2026-06-09T23:55:00Z | [open](../records/video-rushindrasinha-youtube-shorts-pipeline-6bc17552.md) |
-| snapotter-hq/SnapOtter | partial | 2026-09-05T05:08:41Z | [open](../records/video-snapotter-hq-snapotter-7f75c7aa.md) |
+| snapotter-hq/SnapOtter | partial | 2026-09-05T12:00:13Z | [open](../records/video-snapotter-hq-snapotter-7f75c7aa.md) |
 | streamlink/streamlink | partial | 2026-09-03T21:24:55Z | [open](../records/video-streamlink-streamlink-ff62fe99.md) |
 | TeamNewPipe/NewPipe | partial | 2026-08-31T12:57:33Z | [open](../records/video-teamnewpipe-newpipe-c1ab8a41.md) |
 | towhee-io/towhee | partial | 2024-10-18T00:01:12Z | [open](../records/video-towhee-io-towhee-12a64678.md) |

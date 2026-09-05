@@ -497,7 +497,7 @@ Records: `354`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | cottsay/arm_asm_emu | partial | 2022-02-07T00:51:12Z | [open](../records/assembly-cottsay-arm-asm-emu-d1df6727.md) |
-| decompme/decomp.me | partial | 2026-09-04T18:50:40Z | [open](../records/assembly-decompme-decomp-me-72e4eec1.md) |
+| decompme/decomp.me | partial | 2026-09-05T13:08:49Z | [open](../records/assembly-decompme-decomp-me-72e4eec1.md) |
 | dethrace-labs/dethrace | partial | 2026-08-18T13:12:35Z | [open](../records/assembly-dethrace-labs-dethrace-0d609365.md) |
 | io12/BootMine | partial | 2021-01-21T04:53:31Z | [open](../records/assembly-io12-bootmine-85e26922.md) |
 | tgrysztar/fasmg | partial | 2026-07-19T09:21:17Z | [open](../records/assembly-tgrysztar-fasmg-1281abcb.md) |
