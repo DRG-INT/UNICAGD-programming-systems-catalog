@@ -240,7 +240,7 @@ Records: `103`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| TryGhost/Ease | partial | 2026-09-04T12:43:23Z | [open](../records/magazines-tryghost-ease-4f961538.md) |
+| TryGhost/Ease | partial | 2026-09-05T19:16:50Z | [open](../records/magazines-tryghost-ease-4f961538.md) |
 
 ## PHP
 
@@ -260,8 +260,8 @@ Records: `103`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| SAP/ai-sdk | partial | 2026-09-05T02:30:47Z | [open](../records/sapjava-sap-ai-sdk-e8b4294c.md) |
-| SAP/cloud-sdk | partial | 2026-09-04T18:35:26Z | [open](../records/sapjava-sap-cloud-sdk-dd66ae4d.md) |
+| SAP/ai-sdk | partial | 2026-09-05T13:34:14Z | [open](../records/sapjava-sap-ai-sdk-e8b4294c.md) |
+| SAP/cloud-sdk | partial | 2026-09-05T14:07:32Z | [open](../records/sapjava-sap-cloud-sdk-dd66ae4d.md) |
 | souzamarcelo9/sap-contas-apagar-worker | partial | 2026-06-11T22:33:27Z | [open](../records/sapjava-souzamarcelo9-sap-contas-apagar-worker-e8774582.md) |
 
 ## Swift

@@ -40,7 +40,7 @@ inventory as part of diagnostics, metrics, auditability, tracing, and incident r
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT; {"key": "", "name": "", "url": ""}; Other |
+| Evidence | MIT License; https://api.github.com/licenses/mit; Other |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

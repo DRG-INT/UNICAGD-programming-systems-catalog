@@ -40,7 +40,7 @@ runtime constraints, and data/deployment interfaces.
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | SIL Open Font License 1.1; https://api.github.com/licenses/ofl-1.1 |
+| Evidence | Other |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes

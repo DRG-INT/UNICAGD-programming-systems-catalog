@@ -230,7 +230,7 @@ Records: `88`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AnglyPascal/MO-Problem-Journal | partial | 2021-04-17T11:28:10Z | [open](../records/magazines-anglypascal-mo-problem-journal-75e755ba.md) |
-| appml/neutrinote | partial | 2026-09-04T02:49:16Z | [open](../records/magazines-appml-neutrinote-33200361.md) |
+| appml/neutrinote | partial | 2026-09-05T13:37:20Z | [open](../records/magazines-appml-neutrinote-33200361.md) |
 
 ## Pattern language
 

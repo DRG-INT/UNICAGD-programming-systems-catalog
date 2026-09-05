@@ -516,7 +516,7 @@ Records: `354`
 | --- | --- | --- | --- |
 | AmbientRun/Ambient | partial | 2025-01-07T09:48:53Z | [open](../records/webassembly-ambientrun-ambient-cf0678b7.md) |
 | battlelinegames/ArtOfWasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-battlelinegames-artofwasm-a7847c62.md) |
-| boa-dev/boa | partial | 2026-09-05T08:05:58Z | [open](../records/webassembly-boa-dev-boa-27f5e4a0.md) |
+| boa-dev/boa | partial | 2026-09-05T18:47:31Z | [open](../records/webassembly-boa-dev-boa-27f5e4a0.md) |
 | ColinEberhardt/wasm-game-of-life | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-colineberhardt-wasm-game-of-life-82167b9c.md) |
 | dsekz/twitter-x-xp-forwarded-for-header | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-dsekz-twitter-x-xp-forwarded-for-header-fa8e3e36.md) |
 | MaxBittker/sandspiel | partial | 2026-09-02T21:43:26Z | [open](../records/webassembly-maxbittker-sandspiel-36849093.md) |

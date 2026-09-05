@@ -67,7 +67,7 @@ build graph control, artifact reproducibility, cross-platform build policy, and 
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2016-03-14T11:28:06Z | gh search repos SAP HANA Java | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2016-03-14T11:28:06Z | gh search repos SAP Cloud SDK Java | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -92,7 +92,7 @@ build graph control, artifact reproducibility, cross-platform build policy, and 
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-05 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "SAP HANA Java", "retrieved": "2026-09-05", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-05 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "SAP Cloud SDK Java", "retrieved": "2026-09-05", "status": "forge-cli-derived"}` |
 
 </details>
 
