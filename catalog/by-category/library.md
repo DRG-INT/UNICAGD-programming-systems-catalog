@@ -1,6 +1,6 @@
 # Library
 
-Records: `5573`
+Records: `5579`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `5573`
 
 ## Category Index
 
-[Api Abi Checker (215)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Api Abi Checker (216)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
 [Benchmarking (194)](benchmarking.md) · [Build System (982)](build-system.md) · [Cli (561)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (128)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (888)](database-datastore.md) · [Datetime (223)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (452)](ffi-bindings.md) · [Filesystem Os (1569)](filesystem-os.md) · [Formatter (643)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1444)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1445)](ide-editor-integration.md)
 [Image Audio Dsp (430)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · **[Library (5573)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1429)](language-specification.md) · **[Library (5579)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (770)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1089)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
 [Profiler (86)](profiler.md) · [Project Scaffolding (132)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (14)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (394)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (597)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (604)](testing-framework.md) · [Tutorial Book Styleguide (63)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1595)](undefined-behavior-analyzer.md) · [Utility Library (103)](utility-library.md) · [Visualization Gui (547)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Undefined Behavior Analyzer (1596)](undefined-behavior-analyzer.md) · [Utility Library (103)](utility-library.md) · [Visualization Gui (547)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C99
 
@@ -2558,6 +2558,7 @@ Records: `5573`
 | clustGLMM | 1.0.1 | 2026-08-19 16:00:14 UTC | [open](../records/r-clustglmm-eb588c20.md) |
 | CMTFtoolbox | 1.1.1 | 2026-08-28 21:30:41 UTC | [open](../records/r-cmtftoolbox-55a06f2c.md) |
 | cochranSize | 0.1.0 | 2026-08-08 12:30:07 UTC | [open](../records/r-cochransize-e5bc40a4.md) |
+| CodeCarbonR | 0.1.0 | 2026-09-05 13:50:20 UTC | [open](../records/r-codecarbonr-6a50e7ea.md) |
 | CohortUtilisation | 0.6.1 | 2026-08-30 09:00:02 UTC | [open](../records/r-cohortutilisation-efa31db3.md) |
 | competitiontoolbox | 0.7.4 | 2026-08-26 22:50:02 UTC | [open](../records/r-competitiontoolbox-319a586f.md) |
 | connected | 1.2 | 2026-09-01 13:40:02 UTC | [open](../records/r-connected-d6a3028b.md) |
@@ -2780,6 +2781,7 @@ Records: `5573`
 | multiSA | 0.5.0 | 2026-09-04 07:20:02 UTC | [open](../records/r-multisa-ffeddd7b.md) |
 | MultiStepSSAD | 0.1.0 | 2026-08-07 21:00:07 UTC | [open](../records/r-multistepssad-295f08e5.md) |
 | musclesyneRgies | 1.3.1 | 2026-08-26 09:00:10 UTC | [open](../records/r-musclesynergies-5b82c586.md) |
+| mvdpd | 0.1-1 | 2026-09-05 14:00:10 UTC | [open](../records/r-mvdpd-96d74ea4.md) |
 | mvord | 1.2.7 | 2026-08-21 12:50:02 UTC | [open](../records/r-mvord-6cc13edb.md) |
 | nanoarrow | 0.9.0 | 2026-08-04 23:50:08 UTC | [open](../records/r-nanoarrow-5edf0220.md) |
 | ncpen | 1.0.1 | 2026-08-20 09:20:10 UTC | [open](../records/r-ncpen-c54b0618.md) |
@@ -2843,6 +2845,7 @@ Records: `5573`
 | PTLENKies | 0.1.0 | 2026-09-03 11:50:47 UTC | [open](../records/r-ptlenkies-95124d4c.md) |
 | Qapprox | 0.2.1 | 2026-08-24 18:30:15 UTC | [open](../records/r-qapprox-7a9b75e7.md) |
 | qcluster | 3.0.0 | 2026-09-02 10:30:02 UTC | [open](../records/r-qcluster-30e54184.md) |
+| qdaR | 0.1.0 | 2026-09-05 13:50:08 UTC | [open](../records/r-qdar-1c5059cd.md) |
 | qgcomp | 2.19.5 | 2026-09-03 05:20:11 UTC | [open](../records/r-qgcomp-fb7673ad.md) |
 | random | 0.2.7 | 2026-08-30 05:10:12 UTC | [open](../records/r-random-f1dfb428.md) |
 | randomForestRHF | 2.0.3 | 2026-09-01 14:10:02 UTC | [open](../records/r-randomforestrhf-7d8737c4.md) |
@@ -2932,6 +2935,7 @@ Records: `5573`
 | sreg | 2.1.0 | 2026-08-22 11:20:02 UTC | [open](../records/r-sreg-141364e5.md) |
 | SSBtools | 1.8.8 | 2026-08-21 22:01:09 UTC | [open](../records/r-ssbtools-5fd89a98.md) |
 | ssel | 0.4.0 | 2026-08-24 18:50:02 UTC | [open](../records/r-ssel-759a7477.md) |
+| sssp | 0.1.0 | 2026-09-05 14:10:02 UTC | [open](../records/r-sssp-b9f71546.md) |
 | stan4bart | 0.0-13 | 2026-08-21 23:20:02 UTC | [open](../records/r-stan4bart-1db9a79d.md) |
 | StanHeaders | 2.39.1 | 2026-09-02 12:10:09 UTC | [open](../records/r-stanheaders-057c3682.md) |
 | Statamarkdown | 1.0.0 | 2026-08-21 05:45:29 UTC | [open](../records/r-statamarkdown-0cb821c0.md) |
@@ -2945,6 +2949,7 @@ Records: `5573`
 | SujathaDist | 1.0.0 | 2026-09-03 12:20:16 UTC | [open](../records/r-sujathadist-0c1fecd7.md) |
 | sundialr | 0.2.0 | 2026-08-07 13:20:02 UTC | [open](../records/r-sundialr-a226cc23.md) |
 | SuperLearner | 2.0-41 | 2026-08-21 22:40:02 UTC | [open](../records/r-superlearner-1dbd87f3.md) |
+| suppr | 1.0.0 | 2026-09-05 13:30:02 UTC | [open](../records/r-suppr-dd4b95f3.md) |
 | surveyframe | 0.4.1 | 2026-09-03 22:20:02 UTC | [open](../records/r-surveyframe-0f4b4608.md) |
 | svines | 0.3.0 | 2026-08-31 21:50:08 UTC | [open](../records/r-svines-33b4b959.md) |
 | swelex | 0.1.0 | 2026-08-07 17:10:02 UTC | [open](../records/r-swelex-0df3677d.md) |
@@ -2981,6 +2986,7 @@ Records: `5573`
 | ValidationExplorer | 0.1.2 | 2026-08-25 21:10:26 UTC | [open](../records/r-validationexplorer-11bcad59.md) |
 | varPro | 3.2.0 | 2026-08-22 23:20:08 UTC | [open](../records/r-varpro-f5add07c.md) |
 | vasicekreg | 1.1.0 | 2026-08-20 06:50:02 UTC | [open](../records/r-vasicekreg-0e5f6edb.md) |
+| vbpm | 0.9.1 | 2026-09-05 14:00:02 UTC | [open](../records/r-vbpm-83450b04.md) |
 | vcdExtra | 0.9.8 | 2026-08-21 22:00:03 UTC | [open](../records/r-vcdextra-8f3189fb.md) |
 | vecvec | 1.3.0 | 2026-08-20 14:20:08 UTC | [open](../records/r-vecvec-40b2b4ab.md) |
 | vetiver | 0.2.8 | 2026-08-23 06:40:02 UTC | [open](../records/r-vetiver-179837f5.md) |
@@ -4202,7 +4208,7 @@ Records: `5573`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-05T05:49:46Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-05T14:10:52Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
