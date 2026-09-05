@@ -187,7 +187,7 @@ Records: `245`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ashuttl/linecast](../records/radars-ashuttl-linecast-afb4bdb7.md) | partial | 2026-09-05T13:09:14Z | registry-derived |
+| [ashuttl/linecast](../records/radars-ashuttl-linecast-afb4bdb7.md) | partial | 2026-09-05T17:12:48Z | registry-derived |
 | [bellingcat/sar-interference-tracker](../records/radars-bellingcat-sar-interference-tracker-8efa36c7.md) | partial | 2022-02-23T13:57:03Z | registry-derived |
 | [bellingcat/umbra-open-data-tracker](../records/radars-bellingcat-umbra-open-data-tracker-b56dce91.md) | partial | 2026-08-03T14:44:41Z | registry-derived |
 | [ChenHongruixuan/ChangeDetectionRepository](../records/radars-chenhongruixuan-changedetectionrepository-b7588393.md) | partial | 2021-11-08T03:24:27Z | registry-derived |
@@ -243,7 +243,7 @@ Records: `245`
 | [CNES/cars](../records/radars-cnes-cars-235016dd.md) | partial | 2026-09-04T15:57:30Z | registry-derived |
 | [CS-SI/eodag](../records/radars-cs-si-eodag-7dfc17d1.md) | partial | 2026-09-04T10:14:43Z | registry-derived |
 | [dpaulat/supercell-wx](../records/radars-dpaulat-supercell-wx-216e49cf.md) | partial | 2026-09-01T22:58:49Z | registry-derived |
-| [earthobservations/wetterdienst](../records/radars-earthobservations-wetterdienst-4494a41f.md) | partial | 2026-09-05T10:09:18Z | registry-derived |
+| [earthobservations/wetterdienst](../records/radars-earthobservations-wetterdienst-4494a41f.md) | partial | 2026-09-05T17:14:25Z | registry-derived |
 | [erikliland/pyMHT](../records/radars-erikliland-pymht-6bcd5586.md) | partial | 2023-09-19T11:10:15Z | registry-derived |
 | [ethanhuang13/ladybug](../records/radars-ethanhuang13-ladybug-9ff29291.md) | partial | 2019-12-26T07:04:26Z | registry-derived |
 | [feedback-assistant/reports](../records/radars-feedback-assistant-reports-4bc463b2.md) | partial | 2025-11-07T04:38:18Z | registry-derived |

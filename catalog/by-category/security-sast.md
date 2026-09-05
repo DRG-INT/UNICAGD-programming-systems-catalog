@@ -395,7 +395,7 @@ Records: `336`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| PentHertz/RF-Swift | partial | 2026-09-05T13:21:25Z | [open](../records/electromagnetoscopes-penthertz-rf-swift-91a223bf.md) |
+| PentHertz/RF-Swift | partial | 2026-09-05T17:17:38Z | [open](../records/electromagnetoscopes-penthertz-rf-swift-91a223bf.md) |
 
 ## Repertoare Catalogs
 

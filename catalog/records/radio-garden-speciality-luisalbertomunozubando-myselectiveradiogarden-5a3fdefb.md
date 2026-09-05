@@ -33,7 +33,7 @@ and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-05T15:05:12Z | gh search repos "Radio Garden" | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-05T17:15:16Z | gh search repos "Radio Garden" | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert

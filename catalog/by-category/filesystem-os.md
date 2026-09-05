@@ -1426,7 +1426,7 @@ Records: `1570`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ainfosec/FISSURE | partial | 2026-09-04T20:46:30Z | [open](../records/satcom-satellites-ainfosec-fissure-2be895d2.md) |
+| ainfosec/FISSURE | partial | 2026-09-05T15:41:17Z | [open](../records/satcom-satellites-ainfosec-fissure-2be895d2.md) |
 | AlexandreRouma/SDRPlusPlus | partial | 2026-07-05T00:37:31Z | [open](../records/satcom-satellites-alexandrerouma-sdrplusplus-e02064ad.md) |
 | aweeri/TLEscope | partial | 2026-09-01T16:22:42Z | [open](../records/satcom-satellites-aweeri-tlescope-9706f874.md) |
 | chrieke/awesome-geospatial-companies | partial | 2026-07-09T02:14:59Z | [open](../records/satcom-satellites-chrieke-awesome-geospatial-companies-81e3bd71.md) |
@@ -1457,7 +1457,7 @@ Records: `1570`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ainfosec/FISSURE | partial | 2026-09-04T20:46:30Z | [open](../records/electromagnetoscopes-ainfosec-fissure-685993bb.md) |
+| ainfosec/FISSURE | partial | 2026-09-05T15:41:17Z | [open](../records/electromagnetoscopes-ainfosec-fissure-685993bb.md) |
 | AlexandreRouma/SDRPlusPlus | partial | 2026-07-05T00:37:31Z | [open](../records/electromagnetoscopes-alexandrerouma-sdrplusplus-df221116.md) |
 | alexysong/tdyno | partial | 2022-04-19T15:06:28Z | [open](../records/electromagnetoscopes-alexysong-tdyno-3d0cc073.md) |
 | ApplikeySolutions/PandoraPlayer | partial | 2022-12-06T09:28:12Z | [open](../records/electromagnetoscopes-applikeysolutions-pandoraplayer-2a041af3.md) |

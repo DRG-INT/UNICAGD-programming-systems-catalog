@@ -40,7 +40,7 @@ auditability, tracing, and incident response.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | LGPL-3 |
+| Evidence | GPL (>= 2) |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

@@ -32,16 +32,16 @@ as part of diagnostics, metrics, auditability, tracing, and incident response.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-05T07:18:25Z | gh search repos topic:catalog stars:>50 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-05T15:45:20Z | gh search repos topic:catalog stars:>50 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | Creative Commons Attribution 4.0 International; https://api.github.com/licenses/cc-by-4.0 |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Mixed license review |
+| Evidence | MIT + file LICENSE; GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0; Creative Commons Attribution 4.0 International; https://api.github.com/licenses/cc-by-4.0 |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 

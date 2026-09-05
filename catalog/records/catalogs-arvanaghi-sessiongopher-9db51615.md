@@ -41,9 +41,9 @@ dependency acquisition, lockfile policy, provenance control, and supply-chain mo
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | {"key": "", "name": "", "url": ""} |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Backup plan required |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; {"key": "", "name": "", "url": ""} |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 
@@ -59,7 +59,7 @@ dependency acquisition, lockfile policy, provenance control, and supply-chain mo
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-04 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:registry stars:>100", "retrieved": "2026-09-04", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-05 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:registry stars:>100", "retrieved": "2026-09-05", "status": "forge-cli-derived"}` |
 
 </details>
 

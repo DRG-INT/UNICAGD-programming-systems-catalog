@@ -32,7 +32,7 @@ validation, regression protection, and release confidence.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2024-12-14T19:03:34Z | gh search repos topic:observatory stars:>10 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2024-12-14T19:03:34Z | gh search repos topic:astrophotography stars:>10 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -57,7 +57,7 @@ validation, regression protection, and release confidence.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-05 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:observatory stars:>10", "retrieved": "2026-09-05", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-05 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:astrophotography stars:>10", "retrieved": "2026-09-05", "status": "forge-cli-derived"}` |
 
 </details>
 

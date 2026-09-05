@@ -420,7 +420,7 @@ Records: `298`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| merbanan/rtl_433 | partial | 2026-09-05T15:19:18Z | [open](../records/electromagnetoscopes-merbanan-rtl-433-2b0a4e67.md) |
+| merbanan/rtl_433 | partial | 2026-09-05T15:31:11Z | [open](../records/electromagnetoscopes-merbanan-rtl-433-2b0a4e67.md) |
 | wgbowley/CoilGun | partial | 2026-06-16T14:06:55Z | [open](../records/electromagnetoscopes-wgbowley-coilgun-d8d1bb66.md) |
 
 ## Radio Garden Speciality

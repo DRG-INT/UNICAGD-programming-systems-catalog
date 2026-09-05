@@ -246,7 +246,7 @@ Records: `218`
 | [deufrai/als](../records/telescopes-deufrai-als-5c30d710.md) | partial | 2026-09-01T19:45:24Z | registry-derived |
 | [devDucks/astroarch](../records/telescopes-devducks-astroarch-da19d5c6.md) | partial | 2026-09-04T13:23:41Z | registry-derived |
 | [dilshan/star-pointer](../records/telescopes-dilshan-star-pointer-1bb6a494.md) | partial | 2022-06-25T00:17:28Z | registry-derived |
-| [DIYAstro/SV241-Unbound](../records/telescopes-diyastro-sv241-unbound-3a3fbd0f.md) | partial | 2026-09-05T15:13:55Z | registry-derived |
+| [DIYAstro/SV241-Unbound](../records/telescopes-diyastro-sv241-unbound-3a3fbd0f.md) | partial | 2026-09-05T16:36:44Z | registry-derived |
 | [dr-guangtou/taotie](../records/telescopes-dr-guangtou-taotie-0cb096d6.md) | partial | 2024-07-27T09:33:09Z | registry-derived |
 | [dr-mod/little-sun-gazer](../records/telescopes-dr-mod-little-sun-gazer-d452152c.md) | partial | 2022-12-21T17:20:27Z | registry-derived |
 | [eaydin/cr2fits](../records/telescopes-eaydin-cr2fits-b320d7be.md) | partial | 2017-07-26T20:42:59Z | registry-derived |

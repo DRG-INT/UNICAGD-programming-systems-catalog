@@ -39,9 +39,9 @@ defect discovery, security review, undefined-state detection, and regression pre
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | {"key": "", "name": "", "url": ""}; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | Mixed license review |
+| Evidence | MIT; Other; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 

@@ -5113,7 +5113,7 @@ Records: `5584`
 | CNES/cars | partial | 2026-09-04T15:57:30Z | [open](../records/radars-cnes-cars-235016dd.md) |
 | CS-SI/eodag | partial | 2026-09-04T10:14:43Z | [open](../records/radars-cs-si-eodag-7dfc17d1.md) |
 | dpaulat/supercell-wx | partial | 2026-09-01T22:58:49Z | [open](../records/radars-dpaulat-supercell-wx-216e49cf.md) |
-| earthobservations/wetterdienst | partial | 2026-09-05T10:09:18Z | [open](../records/radars-earthobservations-wetterdienst-4494a41f.md) |
+| earthobservations/wetterdienst | partial | 2026-09-05T17:14:25Z | [open](../records/radars-earthobservations-wetterdienst-4494a41f.md) |
 | erikliland/pyMHT | partial | 2023-09-19T11:10:15Z | [open](../records/radars-erikliland-pymht-6bcd5586.md) |
 | ethanhuang13/ladybug | partial | 2019-12-26T07:04:26Z | [open](../records/radars-ethanhuang13-ladybug-9ff29291.md) |
 | feedback-assistant/reports | partial | 2025-11-07T04:38:18Z | [open](../records/radars-feedback-assistant-reports-4bc463b2.md) |
@@ -5178,7 +5178,7 @@ Records: `5584`
 | FlorentF9/SatelliteSimulator | partial | 2017-05-20T12:18:18Z | [open](../records/satcom-satellites-florentf9-satellitesimulator-bfc3ba79.md) |
 | GeoTIFF/geotiff.io | partial | 2025-12-31T10:58:25Z | [open](../records/satcom-satellites-geotiff-geotiff-io-083eda43.md) |
 | git-artes/gr-tempest | partial | 2025-02-10T16:57:09Z | [open](../records/satcom-satellites-git-artes-gr-tempest-1a53566c.md) |
-| gnss-sdr/gnss-sdr | partial | 2026-09-03T20:39:08Z | [open](../records/satcom-satellites-gnss-sdr-gnss-sdr-fc6d38a6.md) |
+| gnss-sdr/gnss-sdr | partial | 2026-09-05T17:01:00Z | [open](../records/satcom-satellites-gnss-sdr-gnss-sdr-fc6d38a6.md) |
 | gnuradio/volk | partial | 2026-08-25T19:50:57Z | [open](../records/satcom-satellites-gnuradio-volk-0f78b28c.md) |
 | gqrx-sdr/gqrx | partial | 2026-08-06T20:55:38Z | [open](../records/satcom-satellites-gqrx-sdr-gqrx-b09cf7a9.md) |
 | greatscottgadgets/gr-bluetooth | partial | 2024-08-16T15:27:08Z | [open](../records/satcom-satellites-greatscottgadgets-gr-bluetooth-749a1444.md) |
@@ -5244,7 +5244,7 @@ Records: `5584`
 | FennisRobert/EMerge | partial | 2026-08-31T16:18:14Z | [open](../records/electromagnetoscopes-fennisrobert-emerge-a03ffe6e.md) |
 | fooyin/fooyin | partial | 2026-09-03T07:22:50Z | [open](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) |
 | git-artes/gr-tempest | partial | 2025-02-10T16:57:09Z | [open](../records/electromagnetoscopes-git-artes-gr-tempest-b9f52116.md) |
-| gnss-sdr/gnss-sdr | partial | 2026-09-03T20:39:08Z | [open](../records/electromagnetoscopes-gnss-sdr-gnss-sdr-1128bbcc.md) |
+| gnss-sdr/gnss-sdr | partial | 2026-09-05T17:01:00Z | [open](../records/electromagnetoscopes-gnss-sdr-gnss-sdr-1128bbcc.md) |
 | gnuradio/volk | partial | 2026-08-25T19:50:57Z | [open](../records/electromagnetoscopes-gnuradio-volk-04fc44e6.md) |
 | gqrx-sdr/gqrx | partial | 2026-08-06T20:55:38Z | [open](../records/electromagnetoscopes-gqrx-sdr-gqrx-a55e0296.md) |
 | ha7ilm/openwebrx | partial | 2024-06-16T14:28:22Z | [open](../records/electromagnetoscopes-ha7ilm-openwebrx-617a3b05.md) |
@@ -5257,7 +5257,7 @@ Records: `5584`
 | mgp25/OpenLTE | partial | 2021-02-21T19:34:29Z | [open](../records/electromagnetoscopes-mgp25-openlte-fd84bffb.md) |
 | muccc/gr-iridium | partial | 2026-07-02T09:26:47Z | [open](../records/electromagnetoscopes-muccc-gr-iridium-826df89e.md) |
 | open-sdr/openwifi | partial | 2026-08-25T11:02:34Z | [open](../records/electromagnetoscopes-open-sdr-openwifi-80c00ff2.md) |
-| OpenRTX/OpenRTX | partial | 2026-08-15T17:39:05Z | [open](../records/electromagnetoscopes-openrtx-openrtx-82481c7a.md) |
+| OpenRTX/OpenRTX | partial | 2026-09-05T15:32:22Z | [open](../records/electromagnetoscopes-openrtx-openrtx-82481c7a.md) |
 | pavel-demin/red-pitaya-notes | partial | 2026-08-29T19:11:52Z | [open](../records/electromagnetoscopes-pavel-demin-red-pitaya-notes-00d5e113.md) |
 | pbkhrv/rtl_433-hass-addons | partial | 2026-06-26T12:07:44Z | [open](../records/electromagnetoscopes-pbkhrv-rtl-433-hass-addons-cc86361b.md) |
 | portapack-mayhem/mayhem-firmware | partial | 2026-09-03T00:29:28Z | [open](../records/electromagnetoscopes-portapack-mayhem-mayhem-firmware-cb62b83c.md) |

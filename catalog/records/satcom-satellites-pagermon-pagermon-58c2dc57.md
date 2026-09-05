@@ -40,7 +40,7 @@ language tooling, code generation, static analysis, and source transformation.
 | Field | Value |
 | --- | --- |
 | Detected family | Other permissive |
-| Evidence | The Unlicense; https://api.github.com/licenses/unlicense |
+| Evidence | Do What The F*ck You Want To Public License; https://api.github.com/licenses/wtfpl; The Unlicense; https://api.github.com/licenses/unlicense |
 | Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes

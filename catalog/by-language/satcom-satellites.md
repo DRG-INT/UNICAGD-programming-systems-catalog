@@ -134,7 +134,7 @@ Records: `259`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ainfosec/FISSURE](../records/satcom-satellites-ainfosec-fissure-2be895d2.md) | partial | 2026-09-04T20:46:30Z | registry-derived |
+| [ainfosec/FISSURE](../records/satcom-satellites-ainfosec-fissure-2be895d2.md) | partial | 2026-09-05T15:41:17Z | registry-derived |
 | [AlexandreRouma/SDRPlusPlus](../records/satcom-satellites-alexandrerouma-sdrplusplus-e02064ad.md) | partial | 2026-07-05T00:37:31Z | registry-derived |
 | [aweeri/TLEscope](../records/satcom-satellites-aweeri-tlescope-9706f874.md) | partial | 2026-09-01T16:22:42Z | registry-derived |
 | [chrieke/awesome-geospatial-companies](../records/satcom-satellites-chrieke-awesome-geospatial-companies-81e3bd71.md) | partial | 2026-07-09T02:14:59Z | registry-derived |
@@ -276,7 +276,7 @@ Records: `259`
 | [FlorentF9/SatelliteSimulator](../records/satcom-satellites-florentf9-satellitesimulator-bfc3ba79.md) | partial | 2017-05-20T12:18:18Z | registry-derived |
 | [GeoTIFF/geotiff.io](../records/satcom-satellites-geotiff-geotiff-io-083eda43.md) | partial | 2025-12-31T10:58:25Z | registry-derived |
 | [git-artes/gr-tempest](../records/satcom-satellites-git-artes-gr-tempest-1a53566c.md) | partial | 2025-02-10T16:57:09Z | registry-derived |
-| [gnss-sdr/gnss-sdr](../records/satcom-satellites-gnss-sdr-gnss-sdr-fc6d38a6.md) | partial | 2026-09-03T20:39:08Z | registry-derived |
+| [gnss-sdr/gnss-sdr](../records/satcom-satellites-gnss-sdr-gnss-sdr-fc6d38a6.md) | partial | 2026-09-05T17:01:00Z | registry-derived |
 | [gnuradio/volk](../records/satcom-satellites-gnuradio-volk-0f78b28c.md) | partial | 2026-08-25T19:50:57Z | registry-derived |
 | [gqrx-sdr/gqrx](../records/satcom-satellites-gqrx-sdr-gqrx-b09cf7a9.md) | partial | 2026-08-06T20:55:38Z | registry-derived |
 | [greatscottgadgets/gr-bluetooth](../records/satcom-satellites-greatscottgadgets-gr-bluetooth-749a1444.md) | partial | 2024-08-16T15:27:08Z | registry-derived |
@@ -454,7 +454,7 @@ Records: `259`
 | [alanbjohnston/CubeSatSim](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) | partial | 2026-09-05T14:41:39Z | registry-derived |
 | [cjcliffe/CubicSDR](../records/satcom-satellites-cjcliffe-cubicsdr-45606659.md) | partial | 2026-09-02T02:19:48Z | registry-derived |
 | [f4exb/sdrangel](../records/satcom-satellites-f4exb-sdrangel-2094320b.md) | partial | 2026-08-30T10:08:39Z | registry-derived |
-| [jvde-github/AIS-catcher](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) | partial | 2026-09-05T15:12:19Z | registry-derived |
+| [jvde-github/AIS-catcher](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) | partial | 2026-09-05T17:18:11Z | registry-derived |
 | [kismetwireless/kismet](../records/satcom-satellites-kismetwireless-kismet-f1e1e53d.md) | partial | 2026-09-01T15:36:57Z | registry-derived |
 | [KubOS-Preservation-Group/ccsds-spacepacket](../records/satcom-satellites-kubos-preservation-group-ccsds-spacepacket-4cff5034.md) | partial | 2022-06-13T23:22:58Z | registry-derived |
 | [libcsp/libcsp](../records/satcom-satellites-libcsp-libcsp-abe29c50.md) | partial | 2026-09-04T06:58:55Z | registry-derived |

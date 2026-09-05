@@ -32,7 +32,7 @@ acquisition, lockfile policy, provenance control, and supply-chain monitoring.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-04T16:02:45Z | gh search repos topic:registry stars:>100 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-05T16:29:48Z | gh search repos topic:registry stars:>100 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -40,7 +40,7 @@ acquisition, lockfile policy, provenance control, and supply-chain monitoring.
 | Field | Value |
 | --- | --- |
 | Detected family | Other permissive |
-| Evidence | {"key": "", "name": "", "url": ""}; BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause |
+| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause |
 | Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes
@@ -57,7 +57,7 @@ acquisition, lockfile policy, provenance control, and supply-chain monitoring.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-04 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:registry stars:>100", "retrieved": "2026-09-04", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-05 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:registry stars:>100", "retrieved": "2026-09-05", "status": "forge-cli-derived"}` |
 
 </details>
 

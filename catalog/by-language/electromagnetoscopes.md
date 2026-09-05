@@ -128,7 +128,7 @@ Records: `278`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ainfosec/FISSURE](../records/electromagnetoscopes-ainfosec-fissure-685993bb.md) | partial | 2026-09-04T20:46:30Z | registry-derived |
+| [ainfosec/FISSURE](../records/electromagnetoscopes-ainfosec-fissure-685993bb.md) | partial | 2026-09-05T15:41:17Z | registry-derived |
 | [AlexandreRouma/SDRPlusPlus](../records/electromagnetoscopes-alexandrerouma-sdrplusplus-df221116.md) | partial | 2026-07-05T00:37:31Z | registry-derived |
 | [alexysong/tdyno](../records/electromagnetoscopes-alexysong-tdyno-3d0cc073.md) | partial | 2022-04-19T15:06:28Z | registry-derived |
 | [ApplikeySolutions/PandoraPlayer](../records/electromagnetoscopes-applikeysolutions-pandoraplayer-2a041af3.md) | partial | 2022-12-06T09:28:12Z | registry-derived |
@@ -245,7 +245,7 @@ Records: `278`
 | [FennisRobert/EMerge](../records/electromagnetoscopes-fennisrobert-emerge-a03ffe6e.md) | partial | 2026-08-31T16:18:14Z | registry-derived |
 | [fooyin/fooyin](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) | partial | 2026-09-03T07:22:50Z | registry-derived |
 | [git-artes/gr-tempest](../records/electromagnetoscopes-git-artes-gr-tempest-b9f52116.md) | partial | 2025-02-10T16:57:09Z | registry-derived |
-| [gnss-sdr/gnss-sdr](../records/electromagnetoscopes-gnss-sdr-gnss-sdr-1128bbcc.md) | partial | 2026-09-03T20:39:08Z | registry-derived |
+| [gnss-sdr/gnss-sdr](../records/electromagnetoscopes-gnss-sdr-gnss-sdr-1128bbcc.md) | partial | 2026-09-05T17:01:00Z | registry-derived |
 | [gnuradio/volk](../records/electromagnetoscopes-gnuradio-volk-04fc44e6.md) | partial | 2026-08-25T19:50:57Z | registry-derived |
 | [gqrx-sdr/gqrx](../records/electromagnetoscopes-gqrx-sdr-gqrx-a55e0296.md) | partial | 2026-08-06T20:55:38Z | registry-derived |
 | [ha7ilm/openwebrx](../records/electromagnetoscopes-ha7ilm-openwebrx-617a3b05.md) | partial | 2024-06-16T14:28:22Z | registry-derived |
@@ -258,7 +258,7 @@ Records: `278`
 | [mgp25/OpenLTE](../records/electromagnetoscopes-mgp25-openlte-fd84bffb.md) | partial | 2021-02-21T19:34:29Z | registry-derived |
 | [muccc/gr-iridium](../records/electromagnetoscopes-muccc-gr-iridium-826df89e.md) | partial | 2026-07-02T09:26:47Z | registry-derived |
 | [open-sdr/openwifi](../records/electromagnetoscopes-open-sdr-openwifi-80c00ff2.md) | partial | 2026-08-25T11:02:34Z | registry-derived |
-| [OpenRTX/OpenRTX](../records/electromagnetoscopes-openrtx-openrtx-82481c7a.md) | partial | 2026-08-15T17:39:05Z | registry-derived |
+| [OpenRTX/OpenRTX](../records/electromagnetoscopes-openrtx-openrtx-82481c7a.md) | partial | 2026-09-05T15:32:22Z | registry-derived |
 | [pavel-demin/red-pitaya-notes](../records/electromagnetoscopes-pavel-demin-red-pitaya-notes-00d5e113.md) | partial | 2026-08-29T19:11:52Z | registry-derived |
 | [pbkhrv/rtl_433-hass-addons](../records/electromagnetoscopes-pbkhrv-rtl-433-hass-addons-cc86361b.md) | partial | 2026-06-26T12:07:44Z | registry-derived |
 | [portapack-mayhem/mayhem-firmware](../records/electromagnetoscopes-portapack-mayhem-mayhem-firmware-cb62b83c.md) | partial | 2026-09-03T00:29:28Z | registry-derived |
@@ -344,7 +344,7 @@ Records: `278`
 | [flexcompute/tidy3d](../records/electromagnetoscopes-flexcompute-tidy3d-516cdf02.md) | partial | 2026-08-07T07:32:11Z | registry-derived |
 | [Gjacquenot/Puma-EM](../records/electromagnetoscopes-gjacquenot-puma-em-3a6a3761.md) | partial | 2020-09-12T13:09:29Z | registry-derived |
 | [libretime/libretime](../records/electromagnetoscopes-libretime-libretime-c0c8255f.md) | partial | 2026-09-04T18:49:52Z | registry-derived |
-| [meshtastic/Meshtastic-Android](../records/electromagnetoscopes-meshtastic-meshtastic-android-24c81b27.md) | partial | 2026-09-05T02:40:17Z | registry-derived |
+| [meshtastic/Meshtastic-Android](../records/electromagnetoscopes-meshtastic-meshtastic-android-24c81b27.md) | partial | 2026-09-05T17:17:31Z | registry-derived |
 | [ocastilloreyes/petgem](../records/electromagnetoscopes-ocastilloreyes-petgem-68add85c.md) | partial | 2026-07-30T08:00:28Z | registry-derived |
 | [pagermon/pagermon](../records/electromagnetoscopes-pagermon-pagermon-283e38a1.md) | partial | 2026-08-04T22:51:57Z | registry-derived |
 | [psyb0t/piraterf](../records/electromagnetoscopes-psyb0t-piraterf-c88452c0.md) | partial | 2026-08-01T19:49:42Z | registry-derived |
@@ -355,14 +355,14 @@ Records: `278`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [merbanan/rtl_433](../records/electromagnetoscopes-merbanan-rtl-433-2b0a4e67.md) | partial | 2026-09-05T15:19:18Z | registry-derived |
+| [merbanan/rtl_433](../records/electromagnetoscopes-merbanan-rtl-433-2b0a4e67.md) | partial | 2026-09-05T15:31:11Z | registry-derived |
 | [wgbowley/CoilGun](../records/electromagnetoscopes-wgbowley-coilgun-d8d1bb66.md) | partial | 2026-06-16T14:06:55Z | registry-derived |
 
 ### Security Sast
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [PentHertz/RF-Swift](../records/electromagnetoscopes-penthertz-rf-swift-91a223bf.md) | partial | 2026-09-05T13:21:25Z | registry-derived |
+| [PentHertz/RF-Swift](../records/electromagnetoscopes-penthertz-rf-swift-91a223bf.md) | partial | 2026-09-05T17:17:38Z | registry-derived |
 
 ### Serialization
 
@@ -468,7 +468,7 @@ Records: `278`
 | [f4exb/sdrangel](../records/electromagnetoscopes-f4exb-sdrangel-2939271b.md) | partial | 2026-09-04T14:17:51Z | registry-derived |
 | [GeoBrain-Project/GeoBrain](../records/electromagnetoscopes-geobrain-project-geobrain-aeb85431.md) | partial | 2026-08-20T08:37:35Z | registry-derived |
 | [greatscottgadgets/ubertooth](../records/electromagnetoscopes-greatscottgadgets-ubertooth-28bac228.md) | partial | 2026-03-19T15:58:24Z | registry-derived |
-| [jvde-github/AIS-catcher](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) | partial | 2026-09-05T15:12:19Z | registry-derived |
+| [jvde-github/AIS-catcher](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) | partial | 2026-09-05T17:18:11Z | registry-derived |
 | [kismetwireless/kismet](../records/electromagnetoscopes-kismetwireless-kismet-abff54d8.md) | partial | 2026-09-01T15:36:57Z | registry-derived |
 | [LargeModGames/spotatui](../records/electromagnetoscopes-largemodgames-spotatui-27906be2.md) | partial | 2026-09-05T15:19:18Z | registry-derived |
 | [Moosync/Moosync-electron](../records/electromagnetoscopes-moosync-moosync-electron-6b29db05.md) | partial | 2025-03-06T13:43:37Z | registry-derived |

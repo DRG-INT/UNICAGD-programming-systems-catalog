@@ -40,7 +40,7 @@ routing, middleware policy, service structure, and deployment surface.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT |
+| Evidence | MIT; {"key": "", "name": "", "url": ""} |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
