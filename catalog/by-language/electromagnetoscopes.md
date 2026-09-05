@@ -8,23 +8,23 @@ Records: `278`
 
 ## Category Index
 
-[Api Abi Checker (217)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
-[Benchmarking (194)](../by-category/benchmarking.md) · [Build System (984)](../by-category/build-system.md) · [Cli (562)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (116)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (24)](../by-category/compiler-diagnostics.md) · [Compression (50)](../by-category/compression.md)
-[Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (128)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (173)](../by-category/cryptography.md) · [Data Science (38)](../by-category/data-science.md) · [Database Datastore (889)](../by-category/database-datastore.md) · [Datetime (223)](../by-category/datetime.md)
+[Api Abi Checker (218)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
+[Benchmarking (198)](../by-category/benchmarking.md) · [Build System (987)](../by-category/build-system.md) · [Cli (563)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (117)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (24)](../by-category/compiler-diagnostics.md) · [Compression (50)](../by-category/compression.md)
+[Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (129)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
+[Cryptography (174)](../by-category/cryptography.md) · [Data Science (38)](../by-category/data-science.md) · [Database Datastore (890)](../by-category/database-datastore.md) · [Datetime (227)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (101)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
-[Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (453)](../by-category/ffi-bindings.md) · [Filesystem Os (1571)](../by-category/filesystem-os.md) · [Formatter (644)](../by-category/formatter.md)
-[Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1450)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (431)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (267)](../by-category/interpreter-runtime.md) · [Jit Vm (63)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1431)](../by-category/language-specification.md) · [Library (5586)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (519)](../by-category/logging-observability.md) · [Machine Learning (777)](../by-category/machine-learning.md)
-[Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1029)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (441)](../by-category/package-manager.md) · [Parser Lexer Ast (1135)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](../by-category/precommit-ci-quality.md)
+[Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (454)](../by-category/ffi-bindings.md) · [Filesystem Os (1584)](../by-category/filesystem-os.md) · [Formatter (644)](../by-category/formatter.md)
+[Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (355)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1453)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (436)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (268)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5611)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (519)](../by-category/logging-observability.md) · [Machine Learning (787)](../by-category/machine-learning.md)
+[Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1034)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (441)](../by-category/package-manager.md) · [Parser Lexer Ast (1136)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (302)](../by-category/precommit-ci-quality.md)
 [Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (15)](../by-category/sanitizer.md)
-[Security Sast (336)](../by-category/security-sast.md) · [Serialization (394)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (600)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (605)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (63)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1601)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (547)](../by-category/visualization-gui.md) · [Web Framework (476)](../by-category/web-framework.md)
+[Security Sast (336)](../by-category/security-sast.md) · [Serialization (394)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (605)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (605)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1606)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (550)](../by-category/visualization-gui.md) · [Web Framework (476)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -39,7 +39,7 @@ Records: `278`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [google/ceviche-challenges](../records/electromagnetoscopes-google-ceviche-challenges-32054f63.md) | partial | 2024-01-20T18:04:58Z | registry-derived |
-| [luigifcruz/CyberEther](../records/electromagnetoscopes-luigifcruz-cyberether-9a732794.md) | partial | 2026-09-05T01:45:13Z | registry-derived |
+| [luigifcruz/CyberEther](../records/electromagnetoscopes-luigifcruz-cyberether-9a732794.md) | partial | 2026-09-05T20:12:01Z | registry-derived |
 
 ### Build System
 
@@ -53,7 +53,7 @@ Records: `278`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [bjarneo/cliamp](../records/electromagnetoscopes-bjarneo-cliamp-fe896688.md) | partial | 2026-09-02T14:14:29Z | registry-derived |
+| [bjarneo/cliamp](../records/electromagnetoscopes-bjarneo-cliamp-fe896688.md) | partial | 2026-09-05T22:11:23Z | registry-derived |
 | [geo-tp/ESP32-Bit-Pirate](../records/electromagnetoscopes-geo-tp-esp32-bit-pirate-08880f73.md) | partial | 2026-09-04T15:21:21Z | registry-derived |
 | [ha7ilm/csdr](../records/electromagnetoscopes-ha7ilm-csdr-3ab2ab01.md) | partial | 2024-02-06T12:13:28Z | registry-derived |
 
@@ -174,13 +174,13 @@ Records: `278`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [777arc/PySDR](../records/electromagnetoscopes-777arc-pysdr-75b8d003.md) | partial | 2026-09-01T14:56:23Z | registry-derived |
+| [777arc/PySDR](../records/electromagnetoscopes-777arc-pysdr-75b8d003.md) | partial | 2026-09-05T22:35:11Z | registry-derived |
 | [AresValley/Artemis](../records/electromagnetoscopes-aresvalley-artemis-b7d5042b.md) | partial | 2026-07-22T21:31:27Z | registry-derived |
 | [HoBeZwe/SphericalScattering.jl](../records/electromagnetoscopes-hobezwe-sphericalscattering-jl-ba9079c6.md) | partial | 2025-04-25T22:38:09Z | registry-derived |
 | [JonaNorman/HDRSample](../records/electromagnetoscopes-jonanorman-hdrsample-ac827086.md) | partial | 2024-08-01T09:01:08Z | registry-derived |
 | [NGSolve/ngsolve](../records/electromagnetoscopes-ngsolve-ngsolve-f54b35ee.md) | partial | 2026-09-04T22:45:51Z | registry-derived |
 | [wenzhixin/bootstrap-table](../records/electromagnetoscopes-wenzhixin-bootstrap-table-50c48a32.md) | partial | 2026-09-05T00:00:41Z | registry-derived |
-| [wiedehopf/tar1090](../records/electromagnetoscopes-wiedehopf-tar1090-c8688d5c.md) | partial | 2026-09-04T10:29:53Z | registry-derived |
+| [wiedehopf/tar1090](../records/electromagnetoscopes-wiedehopf-tar1090-c8688d5c.md) | partial | 2026-09-05T19:20:39Z | registry-derived |
 
 ### Image Audio Dsp
 
@@ -241,9 +241,9 @@ Records: `278`
 | [EdgeTX/edgetx](../records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) | partial | 2026-09-04T07:01:16Z | registry-derived |
 | [eldraco/Salamandra](../records/electromagnetoscopes-eldraco-salamandra-ba7bbc86.md) | partial | 2021-01-11T15:40:06Z | registry-derived |
 | [fancompute/ceviche](../records/electromagnetoscopes-fancompute-ceviche-da009145.md) | partial | 2023-07-06T21:35:53Z | registry-derived |
-| [fanmingming/live](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) | partial | 2026-09-05T12:31:41Z | registry-derived |
+| [fanmingming/live](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) | partial | 2026-09-05T22:21:48Z | registry-derived |
 | [FennisRobert/EMerge](../records/electromagnetoscopes-fennisrobert-emerge-a03ffe6e.md) | partial | 2026-08-31T16:18:14Z | registry-derived |
-| [fooyin/fooyin](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) | partial | 2026-09-03T07:22:50Z | registry-derived |
+| [fooyin/fooyin](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) | partial | 2026-09-05T22:57:04Z | registry-derived |
 | [git-artes/gr-tempest](../records/electromagnetoscopes-git-artes-gr-tempest-b9f52116.md) | partial | 2025-02-10T16:57:09Z | registry-derived |
 | [gnss-sdr/gnss-sdr](../records/electromagnetoscopes-gnss-sdr-gnss-sdr-1128bbcc.md) | partial | 2026-09-05T17:01:00Z | registry-derived |
 | [gnuradio/volk](../records/electromagnetoscopes-gnuradio-volk-04fc44e6.md) | partial | 2026-08-25T19:50:57Z | registry-derived |
@@ -253,7 +253,7 @@ Records: `278`
 | [jleinonen/pytmatrix](../records/electromagnetoscopes-jleinonen-pytmatrix-c0930873.md) | partial | 2023-05-10T13:36:52Z | registry-derived |
 | [JuliaPhysics/ThinFilmsTools.jl](../records/electromagnetoscopes-juliaphysics-thinfilmstools-jl-592046ba.md) | partial | 2025-12-02T00:15:55Z | registry-derived |
 | [junguler/m3u-radio-music-playlists](../records/electromagnetoscopes-junguler-m3u-radio-music-playlists-309a3992.md) | partial | 2026-09-05T07:57:14Z | registry-derived |
-| [Kopuz-org/kopuz](../records/electromagnetoscopes-kopuz-org-kopuz-a5fa7420.md) | partial | 2026-09-04T16:45:12Z | registry-derived |
+| [Kopuz-org/kopuz](../records/electromagnetoscopes-kopuz-org-kopuz-a5fa7420.md) | partial | 2026-09-05T20:27:26Z | registry-derived |
 | [markqvist/RNode_Firmware](../records/electromagnetoscopes-markqvist-rnode-firmware-6437b772.md) | partial | 2026-04-24T10:26:45Z | registry-derived |
 | [mgp25/OpenLTE](../records/electromagnetoscopes-mgp25-openlte-fd84bffb.md) | partial | 2021-02-21T19:34:29Z | registry-derived |
 | [muccc/gr-iridium](../records/electromagnetoscopes-muccc-gr-iridium-826df89e.md) | partial | 2026-07-02T09:26:47Z | registry-derived |
@@ -332,7 +332,7 @@ Records: `278`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [AzuraCast/AzuraCast](../records/electromagnetoscopes-azuracast-azuracast-24484a93.md) | partial | 2026-09-03T04:46:56Z | registry-derived |
+| [AzuraCast/AzuraCast](../records/electromagnetoscopes-azuracast-azuracast-24484a93.md) | partial | 2026-09-05T20:08:27Z | registry-derived |
 
 ### Parser Lexer Ast
 
@@ -344,7 +344,7 @@ Records: `278`
 | [flexcompute/tidy3d](../records/electromagnetoscopes-flexcompute-tidy3d-516cdf02.md) | partial | 2026-08-07T07:32:11Z | registry-derived |
 | [Gjacquenot/Puma-EM](../records/electromagnetoscopes-gjacquenot-puma-em-3a6a3761.md) | partial | 2020-09-12T13:09:29Z | registry-derived |
 | [libretime/libretime](../records/electromagnetoscopes-libretime-libretime-c0c8255f.md) | partial | 2026-09-04T18:49:52Z | registry-derived |
-| [meshtastic/Meshtastic-Android](../records/electromagnetoscopes-meshtastic-meshtastic-android-24c81b27.md) | partial | 2026-09-05T17:17:31Z | registry-derived |
+| [meshtastic/Meshtastic-Android](../records/electromagnetoscopes-meshtastic-meshtastic-android-24c81b27.md) | partial | 2026-09-05T21:03:23Z | registry-derived |
 | [ocastilloreyes/petgem](../records/electromagnetoscopes-ocastilloreyes-petgem-68add85c.md) | partial | 2026-07-30T08:00:28Z | registry-derived |
 | [pagermon/pagermon](../records/electromagnetoscopes-pagermon-pagermon-283e38a1.md) | partial | 2026-08-04T22:51:57Z | registry-derived |
 | [psyb0t/piraterf](../records/electromagnetoscopes-psyb0t-piraterf-c88452c0.md) | partial | 2026-08-01T19:49:42Z | registry-derived |
@@ -355,14 +355,14 @@ Records: `278`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [merbanan/rtl_433](../records/electromagnetoscopes-merbanan-rtl-433-2b0a4e67.md) | partial | 2026-09-05T15:31:11Z | registry-derived |
+| [merbanan/rtl_433](../records/electromagnetoscopes-merbanan-rtl-433-2b0a4e67.md) | partial | 2026-09-05T21:35:32Z | registry-derived |
 | [wgbowley/CoilGun](../records/electromagnetoscopes-wgbowley-coilgun-d8d1bb66.md) | partial | 2026-06-16T14:06:55Z | registry-derived |
 
 ### Security Sast
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [PentHertz/RF-Swift](../records/electromagnetoscopes-penthertz-rf-swift-91a223bf.md) | partial | 2026-09-05T17:17:38Z | registry-derived |
+| [PentHertz/RF-Swift](../records/electromagnetoscopes-penthertz-rf-swift-91a223bf.md) | partial | 2026-09-05T23:13:43Z | registry-derived |
 
 ### Serialization
 
@@ -468,9 +468,9 @@ Records: `278`
 | [f4exb/sdrangel](../records/electromagnetoscopes-f4exb-sdrangel-2939271b.md) | partial | 2026-09-04T14:17:51Z | registry-derived |
 | [GeoBrain-Project/GeoBrain](../records/electromagnetoscopes-geobrain-project-geobrain-aeb85431.md) | partial | 2026-08-20T08:37:35Z | registry-derived |
 | [greatscottgadgets/ubertooth](../records/electromagnetoscopes-greatscottgadgets-ubertooth-28bac228.md) | partial | 2026-03-19T15:58:24Z | registry-derived |
-| [jvde-github/AIS-catcher](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) | partial | 2026-09-05T17:18:11Z | registry-derived |
+| [jvde-github/AIS-catcher](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) | partial | 2026-09-05T23:03:02Z | registry-derived |
 | [kismetwireless/kismet](../records/electromagnetoscopes-kismetwireless-kismet-abff54d8.md) | partial | 2026-09-01T15:36:57Z | registry-derived |
-| [LargeModGames/spotatui](../records/electromagnetoscopes-largemodgames-spotatui-27906be2.md) | partial | 2026-09-05T15:19:18Z | registry-derived |
+| [LargeModGames/spotatui](../records/electromagnetoscopes-largemodgames-spotatui-27906be2.md) | partial | 2026-09-05T22:56:30Z | registry-derived |
 | [Moosync/Moosync-electron](../records/electromagnetoscopes-moosync-moosync-electron-6b29db05.md) | partial | 2025-03-06T13:43:37Z | registry-derived |
 | [RedhawkSDR/redhawk](../records/electromagnetoscopes-redhawksdr-redhawk-394b8fa1.md) | partial | 2023-05-12T19:01:24Z | registry-derived |
 | [Thom-x/docker-fr24feed-piaware-dump1090](../records/electromagnetoscopes-thom-x-docker-fr24feed-piaware-dump1090-77ea9789.md) | partial | 2026-08-03T18:05:22Z | registry-derived |

@@ -8,23 +8,23 @@ Records: `519`
 
 ## Category Index
 
-[Api Abi Checker (217)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (194)](benchmarking.md) · [Build System (984)](build-system.md) · [Cli (562)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (50)](compression.md)
-[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (128)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (889)](database-datastore.md) · [Datetime (223)](datetime.md)
+[Api Abi Checker (218)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Benchmarking (198)](benchmarking.md) · [Build System (987)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (117)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (50)](compression.md)
+[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (129)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (890)](database-datastore.md) · [Datetime (227)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (453)](ffi-bindings.md) · [Filesystem Os (1571)](filesystem-os.md) · [Formatter (644)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1450)](ide-editor-integration.md)
-[Image Audio Dsp (431)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · [Library (5586)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · **[Logging Observability (519)](logging-observability.md)** · [Machine Learning (777)](machine-learning.md)
-[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1135)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
+[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (454)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (644)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1453)](ide-editor-integration.md)
+[Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (268)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5611)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · **[Logging Observability (519)](logging-observability.md)** · [Machine Learning (787)](machine-learning.md)
+[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1034)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1136)](parser-lexer-ast.md) · [Precommit Ci Quality (302)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (394)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (600)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (605)](testing-framework.md) · [Tutorial Book Styleguide (63)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1601)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (547)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Security Sast (336)](security-sast.md) · [Serialization (394)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (605)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (605)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
+[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (550)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C99
 
@@ -619,7 +619,7 @@ Records: `519`
 | adityacodes30/catalog-scoring-ondc | partial | 2024-06-23T17:33:29Z | [open](../records/repertoare-catalogs-adityacodes30-catalog-scoring-ondc-eed2618c.md) |
 | AdityaLad2004/Catalog-Score | partial | 2024-02-10T18:28:30Z | [open](../records/repertoare-catalogs-adityalad2004-catalog-score-1c228719.md) |
 | alphaparkinc/genpark-catalog-enrichment-skill | partial | 2026-07-10T05:51:52Z | [open](../records/repertoare-catalogs-alphaparkinc-genpark-catalog-enrichment-skill-9442da58.md) |
-| Arnon-hs/open-source | partial | 2026-09-05T17:12:05Z | [open](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) |
+| Arnon-hs/open-source | partial | 2026-09-05T23:08:55Z | [open](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) |
 | CHagarty/scorecard-catalogue | partial | 2025-07-11T00:33:16Z | [open](../records/repertoare-catalogs-chagarty-scorecard-catalogue-ac87b7bd.md) |
 | Chistera-Scoring/services-catalog | partial | 2023-11-27T10:50:20Z | [open](../records/repertoare-catalogs-chistera-scoring-services-catalog-59fbb312.md) |
 | Eswaraiahsapram/scorecard-catalog | partial | 2025-09-02T05:54:30Z | [open](../records/repertoare-catalogs-eswaraiahsapram-scorecard-catalog-92541430.md) |
@@ -668,7 +668,7 @@ Records: `519`
 | Listenarrs/Listenarr | partial | 2026-09-03T07:00:49Z | [open](../records/catalogs-listenarrs-listenarr-ea47857c.md) |
 | Luzkan/smells | partial | 2026-05-01T03:33:51Z | [open](../records/catalogs-luzkan-smells-e6a5a666.md) |
 | MatteoGuadrini/Butterfly-Backup | partial | 2026-01-09T20:28:19Z | [open](../records/catalogs-matteoguadrini-butterfly-backup-0020b6f7.md) |
-| MetaModels/core | partial | 2026-09-04T18:38:39Z | [open](../records/catalogs-metamodels-core-73396b33.md) |
+| MetaModels/core | partial | 2026-09-05T20:25:32Z | [open](../records/catalogs-metamodels-core-73396b33.md) |
 | MiSTerOrganize/MiSTer_Organize | partial | 2026-08-07T17:42:17Z | [open](../records/catalogs-misterorganize-mister-organize-9c1a4788.md) |
 | MLT-OSS/FirstData | partial | 2026-08-17T09:27:51Z | [open](../records/catalogs-mlt-oss-firstdata-d8c26afb.md) |
 | Mozzo1000/booklogr | partial | 2026-08-15T07:31:28Z | [open](../records/catalogs-mozzo1000-booklogr-3c01bb2b.md) |
@@ -682,7 +682,7 @@ Records: `519`
 | samapriya/awesome-gee-community-datasets | partial | 2026-09-05T15:45:20Z | [open](../records/catalogs-samapriya-awesome-gee-community-datasets-2d5f99df.md) |
 | semi-column/tmdb-discover-plus | partial | 2026-09-04T13:58:12Z | [open](../records/catalogs-semi-column-tmdb-discover-plus-656aa943.md) |
 | SHERlocked93/progress-catalog | partial | 2023-04-29T01:38:28Z | [open](../records/catalogs-sherlocked93-progress-catalog-50952959.md) |
-| tfonteyn/NeverTooManyBooks | partial | 2026-09-04T17:03:07Z | [open](../records/catalogs-tfonteyn-nevertoomanybooks-ef9a6103.md) |
+| tfonteyn/NeverTooManyBooks | partial | 2026-09-05T21:15:34Z | [open](../records/catalogs-tfonteyn-nevertoomanybooks-ef9a6103.md) |
 | tobilg/quacklake | partial | 2026-06-09T17:28:30Z | [open](../records/catalogs-tobilg-quacklake-c2a822fa.md) |
 | tropical-algae/Axionara | partial | 2026-09-01T23:38:44Z | [open](../records/catalogs-tropical-algae-axionara-e2599d94.md) |
 | ulbmuenster/dataasee | partial | 2026-05-27T11:20:38Z | [open](../records/catalogs-ulbmuenster-dataasee-580b9e92.md) |

@@ -1,6 +1,6 @@
 # Machine Learning
 
-Records: `777`
+Records: `787`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `777`
 
 ## Category Index
 
-[Api Abi Checker (217)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (194)](benchmarking.md) · [Build System (984)](build-system.md) · [Cli (562)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (50)](compression.md)
-[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (128)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (889)](database-datastore.md) · [Datetime (223)](datetime.md)
+[Api Abi Checker (218)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Benchmarking (198)](benchmarking.md) · [Build System (987)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (117)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (50)](compression.md)
+[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (129)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (890)](database-datastore.md) · [Datetime (227)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (453)](ffi-bindings.md) · [Filesystem Os (1571)](filesystem-os.md) · [Formatter (644)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1450)](ide-editor-integration.md)
-[Image Audio Dsp (431)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · [Library (5586)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · **[Machine Learning (777)](machine-learning.md)**
-[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1135)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
+[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (454)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (644)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1453)](ide-editor-integration.md)
+[Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (268)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5611)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · **[Machine Learning (787)](machine-learning.md)**
+[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1034)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1136)](parser-lexer-ast.md) · [Precommit Ci Quality (302)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (394)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (600)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (605)](testing-framework.md) · [Tutorial Book Styleguide (63)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1601)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (547)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Security Sast (336)](security-sast.md) · [Serialization (394)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (605)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (605)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
+[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (550)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C++23
 
@@ -482,7 +482,7 @@ Records: `777`
 | datawhalechina/happy-llm | partial | 2026-08-08T17:18:48Z | [open](../records/aim-s-datawhalechina-happy-llm-00d4ee33.md) |
 | datawhalechina/hello-agents | partial | 2026-09-04T09:03:14Z | [open](../records/aim-s-datawhalechina-hello-agents-7c22b3b1.md) |
 | datawhalechina/self-llm | partial | 2026-08-26T06:33:41Z | [open](../records/aim-s-datawhalechina-self-llm-f636cd5d.md) |
-| firecrawl/firecrawl | partial | 2026-09-05T21:51:45Z | [open](../records/aim-s-firecrawl-firecrawl-e23e3125.md) |
+| firecrawl/firecrawl | partial | 2026-09-05T22:23:30Z | [open](../records/aim-s-firecrawl-firecrawl-e23e3125.md) |
 | HKUDS/Vibe-Trading | partial | 2026-09-05T08:11:45Z | [open](../records/aim-s-hkuds-vibe-trading-eb525e68.md) |
 | Hugging Face Transformers | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-hugging-face-transformers-9b7d820e.md) |
 | ItzCrazyKns/Vane | partial | 2026-09-01T14:12:12Z | [open](../records/aim-s-itzcrazykns-vane-331d2e53.md) |
@@ -495,7 +495,7 @@ Records: `777`
 | linshenkx/prompt-optimizer | partial | 2026-08-26T08:07:53Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
 | lyogavin/airllm | partial | 2026-09-05T16:03:47Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-04T01:10:46Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | partial | 2026-09-05T21:01:36Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| NousResearch/hermes-agent | partial | 2026-09-05T23:17:23Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
 | onyx-dot-app/onyx | partial | 2026-09-05T20:50:32Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-05T03:34:34Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-05T11:16:53Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
@@ -509,7 +509,7 @@ Records: `777`
 | TauricResearch/TradingAgents | partial | 2026-09-01T05:38:45Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | partial | 2026-09-05T22:16:39Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| unslothai/unsloth | partial | 2026-09-05T22:58:45Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
 | VectifyAI/PageIndex | partial | 2026-09-05T07:31:48Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
 | virgiliojr94/book-to-skill | partial | 2026-09-01T14:51:58Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 
@@ -826,17 +826,27 @@ Records: `777`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| adugnag/deSpeckNet | partial | 2021-11-15T20:22:10Z | [open](../records/radars-adugnag-despecknet-1dbca38a.md) |
+| AIRCentre/SARProcessing.jl | partial | 2023-07-03T17:45:16Z | [open](../records/radars-aircentre-sarprocessing-jl-e4affcda.md) |
 | aisari/AutofocusSAR | partial | 2023-07-22T14:49:09Z | [open](../records/radars-aisari-autofocussar-2db12203.md) |
 | chrieke/awesome-satellite-imagery-datasets | partial | 2022-07-14T18:02:46Z | [open](../records/radars-chrieke-awesome-satellite-imagery-datasets-a1e3d23a.md) |
+| commaai/laika | partial | 2026-01-21T20:02:21Z | [open](../records/radars-commaai-laika-8070befa.md) |
 | davemlz/eemont | partial | 2026-08-05T01:39:00Z | [open](../records/radars-davemlz-eemont-70a2fd1c.md) |
+| denkywu/PolSAR-Calibration | partial | 2020-09-03T03:54:06Z | [open](../records/radars-denkywu-polsar-calibration-3583ff0d.md) |
 | denkywu/SAR-Synthetic-Aperture-Radar | partial | 2023-11-19T03:15:56Z | [open](../records/radars-denkywu-sar-synthetic-aperture-radar-116bfd46.md) |
 | EO-College/sarbian | partial | 2019-09-04T13:33:49Z | [open](../records/radars-eo-college-sarbian-5fd186ba.md) |
+| eupassarinho/GoogleEarthEngine-sentinel1-vegetation-indices | partial | 2024-07-25T15:33:25Z | [open](../records/radars-eupassarinho-googleearthengine-sentinel1-vegetation-indices-9783f2a7.md) |
 | goruck/radar-ml | partial | 2022-12-08T08:28:36Z | [open](../records/radars-goruck-radar-ml-38479193.md) |
+| hunterlew/mstar_with_machine_learning | partial | 2017-11-15T13:27:35Z | [open](../records/radars-hunterlew-mstar-with-machine-learning-9d33bf3c.md) |
+| jiankang1991/ComCSC | partial | 2020-03-10T13:38:49Z | [open](../records/radars-jiankang1991-comcsc-50e647d0.md) |
 | jpettitt/weather-radar-card | partial | 2026-08-27T15:05:16Z | [open](../records/radars-jpettitt-weather-radar-card-0abaa4a3.md) |
 | Junjue-Wang/LoveDA | partial | 2026-08-29T01:32:43Z | [open](../records/radars-junjue-wang-loveda-07cc7d9c.md) |
+| kaichen686/GINav | partial | 2022-12-17T10:27:54Z | [open](../records/radars-kaichen686-ginav-321da62f.md) |
 | Makin-Things/bom-radar-card | partial | 2025-12-21T00:28:25Z | [open](../records/radars-makin-things-bom-radar-card-ded56766.md) |
+| MKme/ResQ | partial | 2021-04-14T16:46:00Z | [open](../records/radars-mkme-resq-cac2860f.md) |
 | open-mmlab/mmocr | partial | 2024-11-27T09:38:10Z | [open](../records/radars-open-mmlab-mmocr-dc332b18.md) |
 | Orion-AI-Lab/Hephaestus | partial | 2023-07-03T13:31:50Z | [open](../records/radars-orion-ai-lab-hephaestus-45dcd512.md) |
+| PatrickTUM/UnCRtainTS | partial | 2023-12-26T20:19:21Z | [open](../records/radars-patricktum-uncrtaints-12eddccc.md) |
 | r-lidar/lidR | partial | 2026-09-04T13:47:56Z | [open](../records/radars-r-lidar-lidr-e7818d24.md) |
 | samapriya/awesome-gee-community-datasets | partial | 2026-09-04T16:42:22Z | [open](../records/radars-samapriya-awesome-gee-community-datasets-0a0153c4.md) |
 | SJTU-Thinklab-Det/DOTA-DOAI | partial | 2023-03-08T11:47:55Z | [open](../records/radars-sjtu-thinklab-det-dota-doai-9649ff2b.md) |

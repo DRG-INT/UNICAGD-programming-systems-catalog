@@ -4,23 +4,23 @@
 
 ## Category Index
 
-[Api Abi Checker (217)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (136)](by-category/async-runtime.md)
-[Benchmarking (194)](by-category/benchmarking.md) · [Build System (984)](by-category/build-system.md) · [Cli (562)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
-[Community Reference (116)](by-category/community-reference.md) · [Compiler (175)](by-category/compiler.md) · [Compiler Diagnostics (24)](by-category/compiler-diagnostics.md) · [Compression (50)](by-category/compression.md)
-[Concurrency Parallelism (89)](by-category/concurrency-parallelism.md) · [Configuration (128)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (173)](by-category/cryptography.md) · [Data Science (38)](by-category/data-science.md) · [Database Datastore (889)](by-category/database-datastore.md) · [Datetime (223)](by-category/datetime.md)
+[Api Abi Checker (218)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (136)](by-category/async-runtime.md)
+[Benchmarking (198)](by-category/benchmarking.md) · [Build System (987)](by-category/build-system.md) · [Cli (563)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Community Reference (117)](by-category/community-reference.md) · [Compiler (175)](by-category/compiler.md) · [Compiler Diagnostics (24)](by-category/compiler-diagnostics.md) · [Compression (50)](by-category/compression.md)
+[Concurrency Parallelism (89)](by-category/concurrency-parallelism.md) · [Configuration (129)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
+[Cryptography (174)](by-category/cryptography.md) · [Data Science (38)](by-category/data-science.md) · [Database Datastore (890)](by-category/database-datastore.md) · [Datetime (227)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (101)](by-category/dependency-manager.md) · [Documentation (103)](by-category/documentation.md)
-[Embedded Hardware (56)](by-category/embedded-hardware.md) · [Ffi Bindings (453)](by-category/ffi-bindings.md) · [Filesystem Os (1571)](by-category/filesystem-os.md) · [Formatter (644)](by-category/formatter.md)
-[Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (354)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1450)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (431)](by-category/image-audio-dsp.md) · [Interop Bindings (61)](by-category/interop-bindings.md) · [Interpreter Runtime (267)](by-category/interpreter-runtime.md) · [Jit Vm (63)](by-category/jit-vm.md)
-[Language Server (29)](by-category/language-server.md) · [Language Specification (1431)](by-category/language-specification.md) · [Library (5586)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (519)](by-category/logging-observability.md) · [Machine Learning (777)](by-category/machine-learning.md)
-[Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1029)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (441)](by-category/package-manager.md) · [Parser Lexer Ast (1135)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](by-category/precommit-ci-quality.md)
+[Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (454)](by-category/ffi-bindings.md) · [Filesystem Os (1584)](by-category/filesystem-os.md) · [Formatter (644)](by-category/formatter.md)
+[Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (355)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1453)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (436)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (268)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
+[Language Server (29)](by-category/language-server.md) · [Language Specification (1432)](by-category/language-specification.md) · [Library (5611)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (519)](by-category/logging-observability.md) · [Machine Learning (787)](by-category/machine-learning.md)
+[Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1034)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (441)](by-category/package-manager.md) · [Parser Lexer Ast (1136)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (302)](by-category/precommit-ci-quality.md)
 [Profiler (87)](by-category/profiler.md) · [Project Scaffolding (133)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (15)](by-category/sanitizer.md)
-[Security Sast (336)](by-category/security-sast.md) · [Serialization (394)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (600)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (605)](by-category/testing-framework.md) · [Tutorial Book Styleguide (63)](by-category/tutorial-book-styleguide.md) · [Type Checker (313)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1601)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (547)](by-category/visualization-gui.md) · [Web Framework (476)](by-category/web-framework.md)
+[Security Sast (336)](by-category/security-sast.md) · [Serialization (394)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (605)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (605)](by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](by-category/tutorial-book-styleguide.md) · [Type Checker (313)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (1606)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (550)](by-category/visualization-gui.md) · [Web Framework (476)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -12392,32 +12392,53 @@
 | `github_search_radars-05213d778710af` | Unsigned-Long/River | [open](records/radars-unsigned-long-river-2a595389.md) |
 | `github_search_radars-05be5f374a2b13` | wgcban/ChangeFormer | [open](records/radars-wgcban-changeformer-a997cdc7.md) |
 | `github_search_radars-067b346f830b06` | PaddlePaddle/PaddleRS | [open](records/radars-paddlepaddle-paddlers-5a1ee7a0.md) |
+| `github_search_radars-06e9f745d4d193` | iann0036/iam-dataset | [open](records/radars-iann0036-iam-dataset-774cb2c0.md) |
 | `github_search_radars-07ccee5c5a1c46` | sshuair/torchsat | [open](records/radars-sshuair-torchsat-6b76534f.md) |
+| `github_search_radars-097af507fd78f1` | a-ngo/radar-signal-processing | [open](records/radars-a-ngo-radar-signal-processing-688c740b.md) |
 | `github_search_radars-09f0a989409aee` | Ttl/torchbp | [open](records/radars-ttl-torchbp-2fa85796.md) |
 | `github_search_radars-0a0b1acee932b0` | developmentseed/label-maker | [open](records/radars-developmentseed-label-maker-69d0cf7a.md) |
 | `github_search_radars-0b66a733fb089c` | nicespoon/retro-adsb-radar | [open](records/radars-nicespoon-retro-adsb-radar-fe5109d7.md) |
+| `github_search_radars-0cc7817072b56c` | commaai/comma2k19 | [open](records/radars-commaai-comma2k19-b38ccfe9.md) |
 | `github_search_radars-10259995ea48db` | gokriznastic/HybridSN | [open](records/radars-gokriznastic-hybridsn-cb76b62d.md) |
 | `github_search_radars-10548e26bce3ff` | ViTAE-Transformer/Remote-Sensing-RVSA | [open](records/radars-vitae-transformer-remote-sensing-rvsa-ace3c8d7.md) |
+| `github_search_radars-1290aa16828576` | birgander2/RAT | [open](records/radars-birgander2-rat-e2881415.md) |
 | `github_search_radars-1358fb47cb0673` | opengeos/Awesome-GEE | [open](records/radars-opengeos-awesome-gee-8d02e5fc.md) |
 | `github_search_radars-147c913daadd69` | sentinel-hub/custom-scripts | [open](records/radars-sentinel-hub-custom-scripts-c35486ea.md) |
 | `github_search_radars-148e45ee5757c3` | sertit/eoreader | [open](records/radars-sertit-eoreader-14dc547c.md) |
 | `github_search_radars-1564d62f6e35cb` | dpaulat/supercell-wx | [open](records/radars-dpaulat-supercell-wx-216e49cf.md) |
 | `github_search_radars-15e52105d61f69` | ibaiGorordo/AWR1642-Read-Data-Python-MMWAVE-SDK-2 | [open](records/radars-ibaigorordo-awr1642-read-data-python-mmwave-sdk-2-50ad63c6.md) |
 | `github_search_radars-17f9fe4a90a640` | davidscmx/radar-target-generation-and-detection | [open](records/radars-davidscmx-radar-target-generation-and-detection-582f6c31.md) |
+| `github_search_radars-17fea52fe5a922` | NeuroFan/Algorithmic-SAR-ADC-simulation-files | [open](records/radars-neurofan-algorithmic-sar-adc-simulation-files-5368be13.md) |
+| `github_search_radars-18edce31650ca2` | denkywu/Simulation-of-SAR-Imaging-Algorithm | [open](records/radars-denkywu-simulation-of-sar-imaging-algorithm-e7abd64c.md) |
 | `github_search_radars-18f873bd3f56ad` | yizhou-wang/RODNet | [open](records/radars-yizhou-wang-rodnet-ad2cb74d.md) |
 | `github_search_radars-190c5d6425efd7` | bopen/xarray-sentinel | [open](records/radars-bopen-xarray-sentinel-d49585c9.md) |
+| `github_search_radars-1917bed8644b98` | barbeau/awesome-gnss | [open](records/radars-barbeau-awesome-gnss-aafe1976.md) |
 | `github_search_radars-1a45599879857c` | acgeospatial/awesome-earthobservation-code | [open](records/radars-acgeospatial-awesome-earthobservation-code-72dc0793.md) |
 | `github_search_radars-1ab149c41584f9` | samapriya/awesome-gee-community-datasets | [open](records/radars-samapriya-awesome-gee-community-datasets-0a0153c4.md) |
 | `github_search_radars-1ae5798a980469` | gisbi-kim/navtech-radar-slam | [open](records/radars-gisbi-kim-navtech-radar-slam-ac9770d7.md) |
+| `github_search_radars-1b7387398c185e` | leggedrobotics/graph_msf | [open](records/radars-leggedrobotics-graph-msf-bd37606b.md) |
+| `github_search_radars-1cfe51dfbb7f29` | geospace-code/georinex | [open](records/radars-geospace-code-georinex-2503e6c8.md) |
 | `github_search_radars-1d255726946639` | ultralytics/xview-yolov3 | [open](records/radars-ultralytics-xview-yolov3-eb5d01f2.md) |
 | `github_search_radars-1d3be02d2225e6` | isce-framework/sweets | [open](records/radars-isce-framework-sweets-db6cf485.md) |
 | `github_search_radars-1dd9ac9a04148f` | deepVector/geospatial-machine-learning | [open](records/radars-deepvector-geospatial-machine-learning-313d6171.md) |
+| `github_search_radars-1dfb362420eb52` | InSARdev/S1orbits | [open](records/radars-insardev-s1orbits-58fd1e55.md) |
+| `github_search_radars-1e197e122c82fb` | cggos/imu_x_fusion | [open](records/radars-cggos-imu-x-fusion-d563c757.md) |
+| `github_search_radars-2279a9c615ce45` | AIRCentre/SARProcessing.jl | [open](records/radars-aircentre-sarprocessing-jl-e4affcda.md) |
 | `github_search_radars-22da4064fb01af` | waterdisappear/SARATR-X | [open](records/radars-waterdisappear-saratr-x-8b96d353.md) |
+| `github_search_radars-23882de9c91474` | Aceinna/gnss-ins-sim | [open](records/radars-aceinna-gnss-ins-sim-f63e4c46.md) |
+| `github_search_radars-2432705646ca00` | KaixoCode/SoundMixr | [open](records/radars-kaixocode-soundmixr-a69d5bde.md) |
+| `github_search_radars-25418aab5f1ab1` | lmammino/oidc-authorizer | [open](records/radars-lmammino-oidc-authorizer-5e5f7f17.md) |
 | `github_search_radars-25db3f05ce2525` | usnistgov/SimulatedRadarWaveformGenerator | [open](records/radars-usnistgov-simulatedradarwaveformgenerator-d278d508.md) |
 | `github_search_radars-2607c0ab11153e` | fanweng/Udacity-Sensor-Fusion-Nanodegree | [open](records/radars-fanweng-udacity-sensor-fusion-nanodegree-475e3016.md) |
+| `github_search_radars-2694b0493b2149` | scottstanie/sentineleof | [open](records/radars-scottstanie-sentineleof-585147b5.md) |
+| `github_search_radars-26c6e3b3049114` | commaai/laika | [open](records/radars-commaai-laika-8070befa.md) |
+| `github_search_radars-27b538637487b5` | 2013fangwentao/Multi_Sensor_Fusion | [open](records/radars-2013fangwentao-multi-sensor-fusion-4b5aa0ea.md) |
+| `github_search_radars-2807864160506e` | denkywu/PolSAR-Calibration | [open](records/radars-denkywu-polsar-calibration-3583ff0d.md) |
 | `github_search_radars-28c61317203f9a` | Seyed-Ali-Ahmadi/Awesome_Satellite_Benchmark_Datasets | [open](records/radars-seyed-ali-ahmadi-awesome-satellite-benchmark-datasets-f218baab.md) |
+| `github_search_radars-28e418babf2e8c` | rsasaki0109/lidar_slam_ros2 | [open](records/radars-rsasaki0109-lidar-slam-ros2-d0c04735.md) |
 | `github_search_radars-2a4c17559df510` | lionheart/openradar-mirror | [open](records/radars-lionheart-openradar-mirror-2092e24b.md) |
 | `github_search_radars-2a5c2bcc984239` | wangxiao5791509/MultiModal_BigModels_Survey | [open](records/radars-wangxiao5791509-multimodal-bigmodels-survey-409b52f5.md) |
+| `github_search_radars-2a86617b6185cb` | umr-lops/xsar | [open](records/radars-umr-lops-xsar-a786e2ff.md) |
 | `github_search_radars-2adf0596cf2769` | br1sk/brisk | [open](records/radars-br1sk-brisk-7db4230b.md) |
 | `github_search_radars-2b3f8a2749fe38` | opengeos/WhiteboxTools-ArcGIS | [open](records/radars-opengeos-whiteboxtools-arcgis-3cf11321.md) |
 | `github_search_radars-2befb0382a79ac` | martibosch/detectree | [open](records/radars-martibosch-detectree-bb8afefd.md) |
@@ -12427,47 +12448,75 @@
 | `github_search_radars-2dbb9223766226` | jblindsay/whitebox-tools | [open](records/radars-jblindsay-whitebox-tools-77f56bf4.md) |
 | `github_search_radars-2fbb27c300beb0` | opengeos/geospatial | [open](records/radars-opengeos-geospatial-8722d3e7.md) |
 | `github_search_radars-3053e37e78c698` | earthobservations/wetterdienst | [open](records/radars-earthobservations-wetterdienst-4494a41f.md) |
+| `github_search_radars-30916a1f5bac37` | Stefal/rtkbase | [open](records/radars-stefal-rtkbase-1f60caca.md) |
+| `github_search_radars-312236767163bc` | xds0112/5G_based_Link_level_Integrated_Sensing_and_Communication_Simulator | [open](records/radars-xds0112-5g-based-link-level-integrated-sensing-and-communication-simulator-4eb07df7.md) |
 | `github_search_radars-31db47fde9d253` | moienr/TemporalGAN | [open](records/radars-moienr-temporalgan-ffcc19f2.md) |
+| `github_search_radars-32e71b1b3e39ba` | Xinyuan-LilyGO/LilyGo-LoRa-Series | [open](records/radars-xinyuan-lilygo-lilygo-lora-series-ec367391.md) |
 | `github_search_radars-33c2ab8914128e` | Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion | [open](records/radars-radar-camera-fusion-awesome-radar-camera-fusion-3b5510d5.md) |
 | `github_search_radars-34de541777b111` | Orion-AI-Lab/KuroSiwo | [open](records/radars-orion-ai-lab-kurosiwo-16670f6a.md) |
+| `github_search_radars-35a6d49f5be1ee` | rsasaki0109/kalman_filter_localization_ros2 | [open](records/radars-rsasaki0109-kalman-filter-localization-ros2-5b753d68.md) |
 | `github_search_radars-35d237b2e47241` | dan11003/CFEAR_Radarodometry_code_public | [open](records/radars-dan11003-cfear-radarodometry-code-public-11fea8df.md) |
 | `github_search_radars-3643fe21a3a88a` | ngageoint/MATLAB_SAR | [open](records/radars-ngageoint-matlab-sar-b3d1c687.md) |
+| `github_search_radars-3824164f11a11a` | eupassarinho/GoogleEarthEngine-sentinel1-vegetation-indices | [open](records/radars-eupassarinho-googleearthengine-sentinel1-vegetation-indices-9783f2a7.md) |
 | `github_search_radars-38f362c6cd2e49` | worldstrat/worldstrat | [open](records/radars-worldstrat-worldstrat-2edb44d3.md) |
 | `github_search_radars-394e01ea2717f1` | htcr/sam_road | [open](records/radars-htcr-sam-road-e8a5b74c.md) |
 | `github_search_radars-3a887d863e5b9c` | open-mmlab/mmocr | [open](records/radars-open-mmlab-mmocr-dc332b18.md) |
+| `github_search_radars-3a8bef2858fc1f` | jie666-6/UrbanSARFloods | [open](records/radars-jie666-6-urbansarfloods-71eae460.md) |
+| `github_search_radars-3c8a50d026bd0f` | manankharwar/fusioncore | [open](records/radars-manankharwar-fusioncore-f8110512.md) |
 | `github_search_radars-3c8afecb63df67` | anxiangsir/urban_seg | [open](records/radars-anxiangsir-urban-seg-9978d84d.md) |
 | `github_search_radars-3cdd582d2d12bd` | satellite-image-deep-learning/datasets | [open](records/radars-satellite-image-deep-learning-datasets-b67c3f93.md) |
 | `github_search_radars-3d205ea9590567` | planetlabs/notebooks | [open](records/radars-planetlabs-notebooks-9bcd748d.md) |
 | `github_search_radars-3e4e1df9724e70` | DetectionTeamUCAS/R2CNN_Faster-RCNN_Tensorflow | [open](records/radars-detectionteamucas-r2cnn-faster-rcnn-tensorflow-c3697349.md) |
+| `github_search_radars-3e720d55c4e56d` | anilca/NetTrader.Indicator | [open](records/radars-anilca-nettrader-indicator-20301495.md) |
+| `github_search_radars-3f9acdf7019d7e` | mrzamaniiii/Time-Domain-Back-Projection-Method | [open](records/radars-mrzamaniiii-time-domain-back-projection-method-df06b65d.md) |
 | `github_search_radars-3fc8a6458e14a2` | hi-paris/deepdespeckling | [open](records/radars-hi-paris-deepdespeckling-121ce4f7.md) |
 | `github_search_radars-402dd1a1d431fb` | opengeos/whitebox-python | [open](records/radars-opengeos-whitebox-python-275d36ba.md) |
 | `github_search_radars-418d0b31aadfd8` | satellite-image-deep-learning/techniques | [open](records/radars-satellite-image-deep-learning-techniques-e7ca1db3.md) |
 | `github_search_radars-44b04cb8ea8818` | bopen/sarsen | [open](records/radars-bopen-sarsen-20870959.md) |
 | `github_search_radars-44ba5598d05d33` | aalling93/Sentinel_1_python | [open](records/radars-aalling93-sentinel-1-python-557f7ec3.md) |
 | `github_search_radars-45970baadbc3dd` | XDeadHackerX/NetRadar | [open](records/radars-xdeadhackerx-netradar-faa3dcea.md) |
+| `github_search_radars-459dbb4bf54cb7` | moov-io/fincen | [open](records/radars-moov-io-fincen-b43822ff.md) |
 | `github_search_radars-45cb49fde7a570` | e-sensing/sits | [open](records/radars-e-sensing-sits-cf345a58.md) |
+| `github_search_radars-45fafe657ac8b9` | dz0ny/meshcore-sar | [open](records/radars-dz0ny-meshcore-sar-633f07d9.md) |
 | `github_search_radars-478a222eef3ae4` | earthaccess-dev/earthaccess | [open](records/radars-earthaccess-dev-earthaccess-b40ecdd1.md) |
 | `github_search_radars-4a1b9aa89c812d` | azavea/raster-vision | [open](records/radars-azavea-raster-vision-6beec97c.md) |
 | `github_search_radars-4c0ffcb2b41353` | diegovalsesia/speckle2void | [open](records/radars-diegovalsesia-speckle2void-76460898.md) |
+| `github_search_radars-4cf6b119d1db32` | adugnag/deSpeckNet | [open](records/radars-adugnag-despecknet-1dbca38a.md) |
+| `github_search_radars-4d1714425f04cc` | Erensu/ignav | [open](records/radars-erensu-ignav-9cdb787e.md) |
 | `github_search_radars-4f8632078b83a3` | icey-zhang/SuperYOLO | [open](records/radars-icey-zhang-superyolo-3b807381.md) |
 | `github_search_radars-51c65eacb3b8ef` | wradlib/wradlib | [open](records/radars-wradlib-wradlib-9f5a29a2.md) |
 | `github_search_radars-536f07564043da` | eupassarinho/sentinel-1-SAR-vegetation-indices | [open](records/radars-eupassarinho-sentinel-1-sar-vegetation-indices-fd72636b.md) |
+| `github_search_radars-53921a9ad2195b` | snstac/inrcot | [open](records/radars-snstac-inrcot-4c4b43ca.md) |
 | `github_search_radars-54cc5ce5ac179b` | jayin92/Skyfall-GS | [open](records/radars-jayin92-skyfall-gs-2bfb6eca.md) |
+| `github_search_radars-54d5edd237da3b` | Xastir/Xastir | [open](records/radars-xastir-xastir-de61156f.md) |
+| `github_search_radars-55bc82891ac296` | TUDelftGeodesy/sarxarray | [open](records/radars-tudelftgeodesy-sarxarray-ae699be1.md) |
 | `github_search_radars-5716905cf5f2ba` | xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator | [open](records/radars-xds0112-5g-based-system-level-integrated-sensing-and-communication-simulator-e6456eeb.md) |
 | `github_search_radars-57c2be6de6dd0a` | url-kaist/outlier-robust-radar-odometry | [open](records/radars-url-kaist-outlier-robust-radar-odometry-78b80fba.md) |
+| `github_search_radars-57c9333d7a3aec` | TUC-ProAut/libRSF | [open](records/radars-tuc-proaut-librsf-52507b17.md) |
+| `github_search_radars-59655c82ee046d` | u-blox/ubxlib | [open](records/radars-u-blox-ubxlib-bb7371e1.md) |
 | `github_search_radars-5978f6f144b328` | lexogrine/hud-manager | [open](records/radars-lexogrine-hud-manager-66c5b100.md) |
+| `github_search_radars-599e296953dd79` | HKUST-Aerial-Robotics/GVINS | [open](records/radars-hkust-aerial-robotics-gvins-ce8f2cf2.md) |
+| `github_search_radars-59ad5029485275` | hunterlew/mstar_with_machine_learning | [open](records/radars-hunterlew-mstar-with-machine-learning-9d33bf3c.md) |
+| `github_search_radars-5a0d086fa17ac1` | distributed-system-analysis/sarjitsu | [open](records/radars-distributed-system-analysis-sarjitsu-9ed9933a.md) |
 | `github_search_radars-5a364a42eabde7` | AlexeyPechnikov/pygmtsar | [open](records/radars-alexeypechnikov-pygmtsar-07358760.md) |
 | `github_search_radars-5a5687c47af9b5` | vbguyny/ws4kp | [open](records/radars-vbguyny-ws4kp-dcbe59db.md) |
+| `github_search_radars-5ae976c2c80d3d` | yunjunz/2022-Geolocation | [open](records/radars-yunjunz-2022-geolocation-3fe3b72a.md) |
 | `github_search_radars-5b37935a4f5466` | birgander2/PyRAT | [open](records/radars-birgander2-pyrat-f127a5d8.md) |
 | `github_search_radars-5d242c87dc9074` | chadi0x/TheBigBrother | [open](records/radars-chadi0x-thebigbrother-17499a23.md) |
+| `github_search_radars-5d264c2b44aaa7` | erdogant/findpeaks | [open](records/radars-erdogant-findpeaks-df6ebd11.md) |
 | `github_search_radars-5e93345ccdeb2a` | opengeos/lidar | [open](records/radars-opengeos-lidar-6b6b3ab4.md) |
 | `github_search_radars-5f732b7dc224ec` | mithi/fusion-ekf | [open](records/radars-mithi-fusion-ekf-fce69980.md) |
 | `github_search_radars-5f7c5f12488fb1` | acconeer/acconeer-python-exploration | [open](records/radars-acconeer-acconeer-python-exploration-c570151f.md) |
 | `github_search_radars-5f8c5951df4865` | ChenDelong1999/RemoteCLIP | [open](records/radars-chendelong1999-remoteclip-83823abf.md) |
 | `github_search_radars-6101364af24da8` | obss/sahi | [open](records/radars-obss-sahi-d8e8698f.md) |
+| `github_search_radars-610bd1fded22c5` | coderonion/awesome-object-detection-datasets | [open](records/radars-coderonion-awesome-object-detection-datasets-38be97eb.md) |
 | `github_search_radars-61a5ef730c2824` | denkywu/SAR-Synthetic-Aperture-Radar | [open](records/radars-denkywu-sar-synthetic-aperture-radar-116bfd46.md) |
 | `github_search_radars-61b8b44e13ba8b` | flappyimi/Radar-Basic-Algorithm | [open](records/radars-flappyimi-radar-basic-algorithm-1b94a1f2.md) |
+| `github_search_radars-6353a6195a12e9` | botletics/SIM7000-LTE-Shield | [open](records/radars-botletics-sim7000-lte-shield-75be892e.md) |
 | `github_search_radars-637d63937aa31a` | SJTU-Thinklab-Det/DOTA-DOAI | [open](records/radars-sjtu-thinklab-det-dota-doai-9649ff2b.md) |
+| `github_search_radars-638436c81741df` | semuconsulting/PyGPSClient | [open](records/radars-semuconsulting-pygpsclient-03a614eb.md) |
+| `github_search_radars-63887ade46a872` | PatrickTUM/UnCRtainTS | [open](records/radars-patricktum-uncrtaints-12eddccc.md) |
+| `github_search_radars-63aea9a8d73bb6` | vacationtracker/generic-webhook-to-eventbridge | [open](records/radars-vacationtracker-generic-webhook-to-eventbridge-a8b08cb6.md) |
 | `github_search_radars-64f5ed7482abc2` | PatrickTUM/SEN12MS-CR-TS | [open](records/radars-patricktum-sen12ms-cr-ts-b82b98a6.md) |
 | `github_search_radars-66c02b10360681` | insarlab/MintPy | [open](records/radars-insarlab-mintpy-762351b7.md) |
 | `github_search_radars-689862c86dcc4f` | kbhujbal/Trident-synthetic_aperture_radar_maritime_vessel_detection_yolov8 | [open](records/radars-kbhujbal-trident-synthetic-aperture-radar-maritime-vessel-detection-yolov8-84b83c31.md) |
@@ -12478,6 +12527,7 @@
 | `github_search_radars-6bd8492dbcebf3` | wfh45678/radar | [open](records/radars-wfh45678-radar-7a476e50.md) |
 | `github_search_radars-6d6d7301fd820f` | nasir6/py_cfar | [open](records/radars-nasir6-py-cfar-fb389018.md) |
 | `github_search_radars-6dbfc4e7241c14` | olliestephenson/dpm-rnn-public | [open](records/radars-olliestephenson-dpm-rnn-public-af4e7b49.md) |
+| `github_search_radars-6e00debed661eb` | adugnag/deSpeckNet-TF-GEE | [open](records/radars-adugnag-despecknet-tf-gee-b38059dd.md) |
 | `github_search_radars-6e188b06050a48` | 0xastro/fmcw-RADAR | [open](records/radars-0xastro-fmcw-radar-5329543c.md) |
 | `github_search_radars-6e6fe42c01c00e` | torchgeo/torchgeo | [open](records/radars-torchgeo-torchgeo-60e49b15.md) |
 | `github_search_radars-6e70800cf815b7` | justchenhao/STANet | [open](records/radars-justchenhao-stanet-97884be0.md) |
@@ -12485,14 +12535,24 @@
 | `github_search_radars-7013ea22ae3303` | MinZHANG-WHU/Change-Detection-Review | [open](records/radars-minzhang-whu-change-detection-review-1444b84e.md) |
 | `github_search_radars-70ea4c634248ad` | prouast/heartbeat | [open](records/radars-prouast-heartbeat-323ff4b9.md) |
 | `github_search_radars-730906032cc592` | OSGeo/gdal | [open](records/radars-osgeo-gdal-f77226f8.md) |
+| `github_search_radars-7373bb764afa50` | dacort/athena-sqlite | [open](records/radars-dacort-athena-sqlite-d2a87da3.md) |
 | `github_search_radars-73dcc73c70f7af` | waterdisappear/SAR-JEPA | [open](records/radars-waterdisappear-sar-jepa-5da295f9.md) |
 | `github_search_radars-7418cc40a32823` | aisari/AutofocusSAR | [open](records/radars-aisari-autofocussar-2db12203.md) |
+| `github_search_radars-754223132ebdfb` | Stanford-NavLab/gnss_lib_py | [open](records/radars-stanford-navlab-gnss-lib-py-e0a7a8d9.md) |
+| `github_search_radars-75d98af7ccfa00` | EO-College/tomography_tutorial | [open](records/radars-eo-college-tomography-tutorial-8adf0432.md) |
 | `github_search_radars-75ef9bb6847c9f` | wenhwu/awesome-remote-sensing-change-detection | [open](records/radars-wenhwu-awesome-remote-sensing-change-detection-71aced55.md) |
 | `github_search_radars-76368a9aebd77c` | milleniums/High-Resolution-Remote-Sensing-Semantic-Segmentation-PyTorch | [open](records/radars-milleniums-high-resolution-remote-sensing-semantic-segmentation-pytorch-1037fac4.md) |
+| `github_search_radars-76e011ec03d5da` | vlsi/ksar | [open](records/radars-vlsi-ksar-b267885c.md) |
+| `github_search_radars-77b8a018077962` | GREAT-WHU/GREAT-PVT | [open](records/radars-great-whu-great-pvt-c867732f.md) |
+| `github_search_radars-787805b4b0c5f0` | syu-tan/sar-python-book | [open](records/radars-syu-tan-sar-python-book-ae1b6794.md) |
 | `github_search_radars-78784810e404da` | ashuttl/linecast | [open](records/radars-ashuttl-linecast-afb4bdb7.md) |
 | `github_search_radars-78b0d16cfd8ec9` | opengeos/python-geospatial | [open](records/radars-opengeos-python-geospatial-cb0e27e8.md) |
+| `github_search_radars-79875796ae521a` | jangsoopark/AConvNet-pytorch | [open](records/radars-jangsoopark-aconvnet-pytorch-b65e8307.md) |
 | `github_search_radars-7a658f83c3b76e` | feedback-assistant/reports | [open](records/radars-feedback-assistant-reports-4bc463b2.md) |
+| `github_search_radars-7a68b62b5f368e` | songyz2019/rs-fusion-datasets | [open](records/radars-songyz2019-rs-fusion-datasets-b8aaf1d6.md) |
+| `github_search_radars-7aa68248cfd030` | kaichen686/GINav | [open](records/radars-kaichen686-ginav-321da62f.md) |
 | `github_search_radars-7ba685dd1e8675` | radar-lab/ti_mmwave_rospkg | [open](records/radars-radar-lab-ti-mmwave-rospkg-77356544.md) |
+| `github_search_radars-7e525157252ba8` | MapIV/eagleye | [open](records/radars-mapiv-eagleye-c0a50797.md) |
 | `github_search_radars-7f145a11014f82` | chrieke/InstanceSegmentation_Sentinel2 | [open](records/radars-chrieke-instancesegmentation-sentinel2-c236a634.md) |
 | `github_search_radars-80de09833b7f38` | bellingcat/sar-interference-tracker | [open](records/radars-bellingcat-sar-interference-tracker-8efa36c7.md) |
 | `github_search_radars-8170e8c56dc0ed` | WHU-Sigma/HyperSIGMA | [open](records/radars-whu-sigma-hypersigma-4627d6e6.md) |
@@ -12500,42 +12560,62 @@
 | `github_search_radars-83942a3f91849e` | JordanSchlick/OpenStorm | [open](records/radars-jordanschlick-openstorm-f8a3d11d.md) |
 | `github_search_radars-839c9f276937ed` | ChunmingHe/awesome-diffusion-models-in-low-level-vision | [open](records/radars-chunminghe-awesome-diffusion-models-in-low-level-vision-da2920b8.md) |
 | `github_search_radars-83f21d3fff03d9` | webandras/gee_s1_sar_wetlands | [open](records/radars-webandras-gee-s1-sar-wetlands-46abf8d9.md) |
+| `github_search_radars-849c4054151e25` | Field-Robotics-Japan/UnitySensors | [open](records/radars-field-robotics-japan-unitysensors-5d4db334.md) |
 | `github_search_radars-854d31265e2a9b` | CScorza/Tool-VATINT | [open](records/radars-cscorza-tool-vatint-9756d098.md) |
 | `github_search_radars-8579da060d66b6` | radarlabs/react-native-radar | [open](records/radars-radarlabs-react-native-radar-909ee8db.md) |
+| `github_search_radars-8644ebf1f2c707` | bgin/RF-EMT | [open](records/radars-bgin-rf-emt-6d16aa00.md) |
 | `github_search_radars-870f0dbabe3cf4` | senbox-org/s1tbx | [open](records/radars-senbox-org-s1tbx-186609d3.md) |
 | `github_search_radars-8787d23b1153d3` | pyRiemann/pyRiemann | [open](records/radars-pyriemann-pyriemann-36c3e03c.md) |
 | `github_search_radars-87c00921d10d41` | JeanExtreme002/FlightRadarAPI | [open](records/radars-jeanextreme002-flightradarapi-6af98461.md) |
+| `github_search_radars-88c5adba8d1db8` | insarlab/MintPy-tutorial | [open](records/radars-insarlab-mintpy-tutorial-e4680b78.md) |
 | `github_search_radars-8a053314c59c0b` | TUMFTM/RadarGNN | [open](records/radars-tumftm-radargnn-505af59d.md) |
 | `github_search_radars-8a38eb1a134c28` | aalling93/Custom-made-SAR-speckle-reduction | [open](records/radars-aalling93-custom-made-sar-speckle-reduction-99bb6550.md) |
 | `github_search_radars-8a9e4396c37668` | irem-komurcu/remote-sensing-deep-learning | [open](records/radars-irem-komurcu-remote-sensing-deep-learning-0830c033.md) |
 | `github_search_radars-8b8dd6cef54ee1` | hunterlew/mstar_deeplearning_project | [open](records/radars-hunterlew-mstar-deeplearning-project-f2f00b72.md) |
+| `github_search_radars-8cbb7bc9814c45` | PrideLab/PRIDE-PPPAR | [open](records/radars-pridelab-pride-pppar-ccbcde5b.md) |
 | `github_search_radars-90eecd32b5e649` | sysstat/sysstat | [open](records/radars-sysstat-sysstat-e3b4db1b.md) |
 | `github_search_radars-9103839e8f5d11` | China131/JHChart | [open](records/radars-china131-jhchart-6c337315.md) |
 | `github_search_radars-91ce6a763041c4` | SAR-ARD/s1ard | [open](records/radars-sar-ard-s1ard-a9db69ca.md) |
 | `github_search_radars-9244ccf29d3bf8` | OSGeo/grass | [open](records/radars-osgeo-grass-e9c99a14.md) |
+| `github_search_radars-938b93482646c4` | polsartools/PolSARtools-QGIS | [open](records/radars-polsartools-polsartools-qgis-aef42a5a.md) |
+| `github_search_radars-9459821326b67b` | LiZhengXiao99/Navigation-Learning | [open](records/radars-lizhengxiao99-navigation-learning-1bd3bc52.md) |
 | `github_search_radars-953e61581389fa` | Junjue-Wang/LoveDA | [open](records/radars-junjue-wang-loveda-07cc7d9c.md) |
+| `github_search_radars-96c8c39c219196` | ESA-PhiLab/sarpyx | [open](records/radars-esa-philab-sarpyx-22bdc04c.md) |
+| `github_search_radars-979f9eeb4f5cf7` | eduayme/RescueApp | [open](records/radars-eduayme-rescueapp-8a5fc109.md) |
 | `github_search_radars-997fa4c4749f10` | bogwi/sarpro | [open](records/radars-bogwi-sarpro-eb55e1a7.md) |
 | `github_search_radars-99f6dc1328c528` | tier4/nebula | [open](records/radars-tier4-nebula-3760d802.md) |
 | `github_search_radars-9a4a6a4e3177e9` | g0aty/SickoMenu | [open](records/radars-g0aty-sickomenu-ea577365.md) |
+| `github_search_radars-9b44ead559ff5d` | yandld/nav_matlab | [open](records/radars-yandld-nav-matlab-78ddfd73.md) |
+| `github_search_radars-9ba3a5cbda856e` | Pay20Y/SAR_TF | [open](records/radars-pay20y-sar-tf-d897a742.md) |
 | `github_search_radars-9beac54a5a320a` | ChenHongruixuan/BRIGHT | [open](records/radars-chenhongruixuan-bright-759fa402.md) |
+| `github_search_radars-9c1499e732b4f9` | senbox-org/microwave-toolbox | [open](records/radars-senbox-org-microwave-toolbox-c7fa5f67.md) |
+| `github_search_radars-9c9350e487ab27` | jman4162/electromagnetics-work-samples | [open](records/radars-jman4162-electromagnetics-work-samples-7c8547bc.md) |
+| `github_search_radars-9d9efb8d5bbb17` | juliojsb/sarviewer | [open](records/radars-juliojsb-sarviewer-f8f5c5ee.md) |
 | `github_search_radars-9e2ac180875fe6` | gee-community/geetools | [open](records/radars-gee-community-geetools-34586c56.md) |
+| `github_search_radars-9e41675ecfad3a` | MathieuRita/SAR_denoising | [open](records/radars-mathieurita-sar-denoising-5b417749.md) |
+| `github_search_radars-9e5520c48761a2` | diptiman-mohanta/Radar-Based-UAV-Classification | [open](records/radars-diptiman-mohanta-radar-based-uav-classification-cba9aff6.md) |
 | `github_search_radars-9ea5bf628afd26` | HamzaGhazouani/HGRippleRadarView | [open](records/radars-hamzaghazouani-hgrippleradarview-02e426a9.md) |
 | `github_search_radars-a011fbe657ecd9` | ZHOUYI1023/awesome-radar-perception | [open](records/radars-zhouyi1023-awesome-radar-perception-d7d35831.md) |
 | `github_search_radars-a1a7d18c8ec7ee` | erikliland/pyMHT | [open](records/radars-erikliland-pymht-6bcd5586.md) |
+| `github_search_radars-a1dc6425ffb137` | fudanxu/SAR-Colorization | [open](records/radars-fudanxu-sar-colorization-ab744559.md) |
+| `github_search_radars-a1e276e6babcaa` | egagli/sar_snowmelt_timing | [open](records/radars-egagli-sar-snowmelt-timing-61862ecf.md) |
 | `github_search_radars-a35b7402dc1734` | Marksman007577/Autonomous-Drive | [open](records/radars-marksman007577-autonomous-drive-b586becf.md) |
 | `github_search_radars-a3be69f61090c8` | tenox7/ttyplot | [open](records/radars-tenox7-ttyplot-5bc2ced1.md) |
 | `github_search_radars-a468f078096a1e` | JunshengFu/tracking-with-Extended-Kalman-Filter | [open](records/radars-junshengfu-tracking-with-extended-kalman-filter-b9a78f6a.md) |
 | `github_search_radars-a4b859b7dda628` | radarsimx/radarsimpy | [open](records/radars-radarsimx-radarsimpy-024e5c6c.md) |
 | `github_search_radars-a6e49d568204b1` | remotebiosensing/rppg | [open](records/radars-remotebiosensing-rppg-f297db7f.md) |
+| `github_search_radars-a844cd84ad090d` | XikunLiu-huskit/GLIO | [open](records/radars-xikunliu-huskit-glio-54318dae.md) |
 | `github_search_radars-a929f431f12bdc` | EO-College/sarbian | [open](records/radars-eo-college-sarbian-5fd186ba.md) |
 | `github_search_radars-a96d506ac6114e` | sentinelsat/sentinelsat | [open](records/radars-sentinelsat-sentinelsat-6e539b3f.md) |
 | `github_search_radars-aab75ec4387945` | chrieke/awesome-satellite-imagery-datasets | [open](records/radars-chrieke-awesome-satellite-imagery-datasets-a1e3d23a.md) |
 | `github_search_radars-aac4e545c548cb` | CS-SI/eodag | [open](records/radars-cs-si-eodag-7dfc17d1.md) |
 | `github_search_radars-ab7b4979224743` | SICKAG/sick_scan_xd | [open](records/radars-sickag-sick-scan-xd-0e67e41e.md) |
+| `github_search_radars-ad9fabdbf417ea` | radar-science/isce-proc | [open](records/radars-radar-science-isce-proc-39d96381.md) |
 | `github_search_radars-ae3839703f8b06` | wgcban/ddpm-cd | [open](records/radars-wgcban-ddpm-cd-d1dbc669.md) |
 | `github_search_radars-aedf5231bc678d` | isce-framework/tophu | [open](records/radars-isce-framework-tophu-4a798fb0.md) |
 | `github_search_radars-aef6bc664c7327` | orfeotoolbox/OTB | [open](records/radars-orfeotoolbox-otb-5833013c.md) |
 | `github_search_radars-afb9659beae334` | ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing | [open](records/radars-vitae-transformer-vitae-transformer-remote-sensing-1fe2df3f.md) |
+| `github_search_radars-b0b43047846bae` | GeoscienceAustralia/ginan | [open](records/radars-geoscienceaustralia-ginan-02776f5a.md) |
 | `github_search_radars-b107f87cb1a20a` | r-lidar/lidR | [open](records/radars-r-lidar-lidr-e7818d24.md) |
 | `github_search_radars-b13aa76c2e43c4` | bellingcat/umbra-open-data-tracker | [open](records/radars-bellingcat-umbra-open-data-tracker-b56dce91.md) |
 | `github_search_radars-b157030878789c` | yumorishita/LiCSBAS | [open](records/radars-yumorishita-licsbas-a1689441.md) |
@@ -12543,17 +12623,24 @@
 | `github_search_radars-b1f1e39fa75291` | ethanhuang13/ladybug | [open](records/radars-ethanhuang13-ladybug-9ff29291.md) |
 | `github_search_radars-b21fe61b341d2e` | keenan-burnett/yeti_radar_odometry | [open](records/radars-keenan-burnett-yeti-radar-odometry-e98bb6ab.md) |
 | `github_search_radars-b2757d9f5da1ed` | IMS-AS-LUH/sar-sim | [open](records/radars-ims-as-luh-sar-sim-e1aa94e8.md) |
+| `github_search_radars-b3dc7f07233350` | Theta-Limited/OpenAthena-Legacy-Python | [open](records/radars-theta-limited-openathena-legacy-python-c450ef91.md) |
 | `github_search_radars-b4534f090535d2` | opendatacube/datacube-core | [open](records/radars-opendatacube-datacube-core-d382000b.md) |
+| `github_search_radars-b5b8bec3b39d66` | aresys-srl/sct | [open](records/radars-aresys-srl-sct-ec34e249.md) |
 | `github_search_radars-b5e0b44c45c1b7` | Shank2358/GGHL | [open](records/radars-shank2358-gghl-57fd795f.md) |
 | `github_search_radars-b5f4f3f7e48223` | johntruckenbrodt/pyroSAR | [open](records/radars-johntruckenbrodt-pyrosar-83ed39f7.md) |
 | `github_search_radars-b6136b69a232e2` | ibaiGorordo/AWR1843-Read-Data-Python-MMWAVE-SDK-3- | [open](records/radars-ibaigorordo-awr1843-read-data-python-mmwave-sdk-3-62fb498c.md) |
+| `github_search_radars-b65f2aae335292` | cryotools/osaris | [open](records/radars-cryotools-osaris-52c31f3c.md) |
 | `github_search_radars-b7c07170a615ef` | lexogrine/csgo-react-hud | [open](records/radars-lexogrine-csgo-react-hud-871ef2df.md) |
 | `github_search_radars-b88d0ad081f73c` | mbzuai-oryx/GeoChat | [open](records/radars-mbzuai-oryx-geochat-395a3058.md) |
+| `github_search_radars-b8972af28977a7` | jakee417/LS-SSDD-v1.0-ShipDetectionComputerVision | [open](records/radars-jakee417-ls-ssdd-v1-0-shipdetectioncomputervision-b22e4748.md) |
+| `github_search_radars-b909f68db93587` | denkywu/InSAR-Simulation-and-Studies | [open](records/radars-denkywu-insar-simulation-and-studies-c6ce617f.md) |
+| `github_search_radars-b928f9692e47aa` | scottyhq/dinosar | [open](records/radars-scottyhq-dinosar-de57e4f1.md) |
 | `github_search_radars-b9970099b428c5` | opengeos/geoai | [open](records/radars-opengeos-geoai-78a0e297.md) |
 | `github_search_radars-bb2e5add9ce54f` | CNES/cars | [open](records/radars-cnes-cars-235016dd.md) |
 | `github_search_radars-bb2f02f10255b9` | fitoprincipe/geetools-code-editor | [open](records/radars-fitoprincipe-geetools-code-editor-1080a1fa.md) |
 | `github_search_radars-bb46e6facafe0a` | ktuukkan/marine-api | [open](records/radars-ktuukkan-marine-api-c4837662.md) |
 | `github_search_radars-bb64041ae8c24f` | thoughtworks/build-your-own-radar | [open](records/radars-thoughtworks-build-your-own-radar-bf05fe36.md) |
+| `github_search_radars-bbbe87147c4ea1` | developmentseed/sentinel-util | [open](records/radars-developmentseed-sentinel-util-d84e343b.md) |
 | `github_search_radars-bbc1325da750f9` | waterdisappear/SAR-ATR-HDANet | [open](records/radars-waterdisappear-sar-atr-hdanet-c12fed0f.md) |
 | `github_search_radars-bc95ca87be12b8` | odhondt/eo_tools | [open](records/radars-odhondt-eo-tools-bf024141.md) |
 | `github_search_radars-bd5e9d799deb65` | waterdisappear/ATRNet-STAR | [open](records/radars-waterdisappear-atrnet-star-4710a166.md) |
@@ -12564,6 +12651,7 @@
 | `github_search_radars-bfdeb0039e6b82` | ChenHongruixuan/ChangeDetectionRepository | [open](records/radars-chenhongruixuan-changedetectionrepository-b7588393.md) |
 | `github_search_radars-c0d444075c5551` | gee-community/geemap | [open](records/radars-gee-community-geemap-83890093.md) |
 | `github_search_radars-c0e9369ee37601` | uncle-yura/esphome-ld2450 | [open](records/radars-uncle-yura-esphome-ld2450-153b0a78.md) |
+| `github_search_radars-c1714ad6234fc1` | ameraner/dsen2-cr | [open](records/radars-ameraner-dsen2-cr-04550382.md) |
 | `github_search_radars-c1fb2bb4e9050f` | m6c7l/pymmw | [open](records/radars-m6c7l-pymmw-dccd876e.md) |
 | `github_search_radars-c23fccd5451f4c` | 30hours/blah2 | [open](records/radars-30hours-blah2-4acda32e.md) |
 | `github_search_radars-c25e8bd6ea4d09` | kvos/CoastSat | [open](records/radars-kvos-coastsat-0bb6749e.md) |
@@ -12571,14 +12659,20 @@
 | `github_search_radars-c2942c4ed9101e` | AndrewPlayer3/sentinel1_decode | [open](records/radars-andrewplayer3-sentinel1-decode-3aff839a.md) |
 | `github_search_radars-c4c7dd95999c08` | ucam-eo/tessera | [open](records/radars-ucam-eo-tessera-6a90744d.md) |
 | `github_search_radars-c5990c08164fde` | Nouuu/Albion-Online-OpenRadar | [open](records/radars-nouuu-albion-online-openradar-04ea3acd.md) |
+| `github_search_radars-c5c05fa4d0aa56` | ESA-PhiLab/OpenSarToolkit | [open](records/radars-esa-philab-opensartoolkit-73822d35.md) |
 | `github_search_radars-c5f20a546ea3df` | ngageoint/sarpy_apps | [open](records/radars-ngageoint-sarpy-apps-53476eab.md) |
 | `github_search_radars-c601db81a16d63` | Orion-AI-Lab/Hephaestus | [open](records/radars-orion-ai-lab-hephaestus-45dcd512.md) |
+| `github_search_radars-c76a8a37a07e28` | benzenemo/TightlyCoupledINSGNSS | [open](records/radars-benzenemo-tightlycoupledinsgnss-400a89e0.md) |
+| `github_search_radars-c78595f8641e26` | MKme/ResQ | [open](records/radars-mkme-resq-cac2860f.md) |
 | `github_search_radars-c81fc75516d721` | jpettitt/weather-radar-card | [open](records/radars-jpettitt-weather-radar-card-0abaa4a3.md) |
 | `github_search_radars-c9b7f72a0ba1f1` | BitCrackers/AmongUsMenu | [open](records/radars-bitcrackers-amongusmenu-f51df2dc.md) |
 | `github_search_radars-cbec9796116686` | hust201010701/XRadarView | [open](records/radars-hust201010701-xradarview-d96f7593.md) |
 | `github_search_radars-cc23e5360b69ba` | SourLen/Python-CSGO-Cheat | [open](records/radars-sourlen-python-csgo-cheat-b82ba10b.md) |
 | `github_search_radars-cc702b4869f227` | nshaud/DeepNetsForEO | [open](records/radars-nshaud-deepnetsforeo-d940b4c6.md) |
+| `github_search_radars-cca7058cdeabab` | malulleybovo/SymbolArtEditorOnline | [open](records/radars-malulleybovo-symbolarteditoronline-2ac65f75.md) |
+| `github_search_radars-ccf5087c2f539d` | scottstanie/apertools | [open](records/radars-scottstanie-apertools-e4d85ca7.md) |
 | `github_search_radars-ccff315165469a` | giswqs/qgis-earthengine-examples | [open](records/radars-giswqs-qgis-earthengine-examples-33b41bd9.md) |
+| `github_search_radars-ce709c8db5a829` | weisongwen/UrbanNavDataset | [open](records/radars-weisongwen-urbannavdataset-24a778d2.md) |
 | `github_search_radars-ced646fd484cd3` | sstary/SSRS | [open](records/radars-sstary-ssrs-e38ed555.md) |
 | `github_search_radars-cf01f84ae4be29` | utiasASRL/hero_radar_odometry | [open](records/radars-utiasasrl-hero-radar-odometry-1bc544a9.md) |
 | `github_search_radars-cf90604512c92c` | odhondt/ndsar | [open](records/radars-odhondt-ndsar-356519ee.md) |
@@ -12591,9 +12685,11 @@
 | `github_search_radars-d4aa945e1e9700` | GeoRetina/chat2geo | [open](records/radars-georetina-chat2geo-606c922b.md) |
 | `github_search_radars-d4b10bccf2f215` | openradar/xradar | [open](records/radars-openradar-xradar-fcfe7f38.md) |
 | `github_search_radars-d52c74afb88676` | Makin-Things/bom-radar-card | [open](records/radars-makin-things-bom-radar-card-ded56766.md) |
+| `github_search_radars-d8015fd82bdce9` | ya0-sun/PostEQ-SARopt-BuildingDamage | [open](records/radars-ya0-sun-posteq-saropt-buildingdamage-1c3b0c8f.md) |
 | `github_search_radars-d94b462683f0ed` | jasonmanesis/Satellite-Imagery-Datasets-Containing-Ships | [open](records/radars-jasonmanesis-satellite-imagery-datasets-containing-ships-e69d613c.md) |
 | `github_search_radars-d989b8df27ff77` | Jakaria08/EESRGAN | [open](records/radars-jakaria08-eesrgan-72c925a7.md) |
 | `github_search_radars-db14f6026697cb` | x1958075990h-pixel/RuView_Radar_Lite | [open](records/radars-x1958075990h-pixel-ruview-radar-lite-18d4a74a.md) |
+| `github_search_radars-db17a4a244fd68` | Mahyarona/Flood-Detection-Algorithm-using-GEE | [open](records/radars-mahyarona-flood-detection-algorithm-using-gee-5b9812c2.md) |
 | `github_search_radars-dc48b44a51b082` | spectralpython/spectral | [open](records/radars-spectralpython-spectral-64510eeb.md) |
 | `github_search_radars-dd33d785b07308` | ntnu-arl/lidar_degeneracy_datasets | [open](records/radars-ntnu-arl-lidar-degeneracy-datasets-f90e3fc8.md) |
 | `github_search_radars-ddb92a2d8b95c3` | Project-MANAS/ars_40X | [open](records/radars-project-manas-ars-40x-9d54c780.md) |
@@ -12602,6 +12698,7 @@
 | `github_search_radars-df5c865b7cd707` | layumi/University1652-Baseline | [open](records/radars-layumi-university1652-baseline-6e7408e8.md) |
 | `github_search_radars-df94b81a57b74b` | microsoft/farmvibes-ai | [open](records/radars-microsoft-farmvibes-ai-15e332ef.md) |
 | `github_search_radars-e0b10bfe7fb3eb` | tsunglung/esphome-ld2450 | [open](records/radars-tsunglung-esphome-ld2450-5abf99f6.md) |
+| `github_search_radars-e1c20cd151c150` | chathumal93/Pytorch-UNet-Flood-Segmentation | [open](records/radars-chathumal93-pytorch-unet-flood-segmentation-cfa3dbdf.md) |
 | `github_search_radars-e2c03bfca5044f` | open-flight/openflight | [open](records/radars-open-flight-openflight-76c154cb.md) |
 | `github_search_radars-e34e0f838475a1` | polsartools/polsartools | [open](records/radars-polsartools-polsartools-6851bcf5.md) |
 | `github_search_radars-e3703c442cdff8` | awesome-spectral-indices/awesome-spectral-indices | [open](records/radars-awesome-spectral-indices-awesome-spectral-indices-62863fbb.md) |
@@ -12611,20 +12708,32 @@
 | `github_search_radars-e638e801110326` | ngageoint/six-library | [open](records/radars-ngageoint-six-library-3dbf8a82.md) |
 | `github_search_radars-e64aeef059bee1` | jasonmanesis/Ship-Detection-on-Remote-Sensing-Synthetic-Aperture-Radar-Data | [open](records/radars-jasonmanesis-ship-detection-on-remote-sensing-synthetic-aperture-radar-data-46a09a32.md) |
 | `github_search_radars-e7980b4b4b0456` | ChenHongruixuan/ChangeMamba | [open](records/radars-chenhongruixuan-changemamba-6fbccdb1.md) |
+| `github_search_radars-e8a0ae94b22644` | schwankner/esa-snap-with-python | [open](records/radars-schwankner-esa-snap-with-python-0d55bdc5.md) |
 | `github_search_radars-e914429c00a9ba` | Kalit31/Land-Cover-Analysis | [open](records/radars-kalit31-land-cover-analysis-bac816f9.md) |
 | `github_search_radars-e9bd9cbd468373` | ViTAE-Transformer/SAMRS | [open](records/radars-vitae-transformer-samrs-81fed666.md) |
 | `github_search_radars-ead97731b4a932` | spawnmason/randar-explanation | [open](records/radars-spawnmason-randar-explanation-7ffa4689.md) |
 | `github_search_radars-eae96fcf7da37e` | giswqs/earthengine-py-notebooks | [open](records/radars-giswqs-earthengine-py-notebooks-f6cabab3.md) |
 | `github_search_radars-eafb9a0f2f41d0` | 16EAGLE/getSpatialData | [open](records/radars-16eagle-getspatialdata-2135beaa.md) |
+| `github_search_radars-ed36a35301c075` | dumingyang20/Radar-Intra-Pulse-Modulation-Simulation | [open](records/radars-dumingyang20-radar-intra-pulse-modulation-simulation-392c53f1.md) |
 | `github_search_radars-ed7cfe01e96f40` | PolyX-Research/Awesome-Remote-Sensing-Agents | [open](records/radars-polyx-research-awesome-remote-sensing-agents-e785f828.md) |
 | `github_search_radars-ee4b99c76c8b6a` | GeoscienceAustralia/dea-notebooks | [open](records/radars-geoscienceaustralia-dea-notebooks-86a9662a.md) |
+| `github_search_radars-ef3579cc3ce0fe` | csete/gpredict | [open](records/radars-csete-gpredict-f8c8985f.md) |
 | `github_search_radars-f1ee17ca9ece4a` | manideep2510/eye-in-the-sky | [open](records/radars-manideep2510-eye-in-the-sky-f8be2776.md) |
 | `github_search_radars-f32f2ac1583523` | Radar-Camera-Fusion/Awesome-Radar-Perception | [open](records/radars-radar-camera-fusion-awesome-radar-perception-8b7503bf.md) |
+| `github_search_radars-f3cb91eeb5932b` | rodralez/NaveGo | [open](records/radars-rodralez-navego-1fdaa06b.md) |
+| `github_search_radars-f3e0c582b832a3` | sargraph/sargraph.github.io | [open](records/radars-sargraph-sargraph-github-io-db66a524.md) |
+| `github_search_radars-f41130bd3d4913` | zengguobing/InSAR | [open](records/radars-zengguobing-insar-7ea7b99d.md) |
 | `github_search_radars-f4205695f3cacf` | chrieke/awesome-geospatial-companies | [open](records/radars-chrieke-awesome-geospatial-companies-9663190b.md) |
 | `github_search_radars-f86012ef7ba2ff` | teckel12/LuaTelemetry | [open](records/radars-teckel12-luatelemetry-693c83d4.md) |
 | `github_search_radars-f8b55ac967b1c1` | DahnJ/Awesome-DEM | [open](records/radars-dahnj-awesome-dem-f0596e43.md) |
+| `github_search_radars-f8b988936dfac0` | kleok/INSAR4SM | [open](records/radars-kleok-insar4sm-9a668df2.md) |
+| `github_search_radars-f928529a392dbf` | KonstantinosF/Flood-Detection---Satellite-Images | [open](records/radars-konstantinosf-flood-detection-satellite-images-a2d32a13.md) |
 | `github_search_radars-f94d7450b7a07e` | om-ai-lab/RS5M | [open](records/radars-om-ai-lab-rs5m-ee3996e0.md) |
+| `github_search_radars-fb782595c94e9f` | Tkwer/RadarStream | [open](records/radars-tkwer-radarstream-6d38b9c9.md) |
+| `github_search_radars-fc35f913609ad6` | gnss-sdr/gnss-sdr | [open](records/radars-gnss-sdr-gnss-sdr-fb2437ad.md) |
 | `github_search_radars-fceaed52a8104e` | ailab-hanyang/Radar4Motion | [open](records/radars-ailab-hanyang-radar4motion-9053c2a1.md) |
+| `github_search_radars-fe65e1b045f444` | jiankang1991/ComCSC | [open](records/radars-jiankang1991-comcsc-50e647d0.md) |
+| `github_search_radars-ff4dd4e10ed1bc` | Crush0416/MS-CVNets-a-novel-complex-valued-neural-networks-for-SAR-ATR | [open](records/radars-crush0416-ms-cvnets-a-novel-complex-valued-neural-networks-for-sar-atr-9231016b.md) |
 | `github_search_radars-fffc47678ea834` | isce-framework/snaphu-py | [open](records/radars-isce-framework-snaphu-py-9df19c3a.md) |
 | `github_search_radio_garden_speciality-0032b01b33b738` | idMJA/FreqWorld | [open](records/radio-garden-speciality-idmja-freqworld-54ce62c1.md) |
 | `github_search_radio_garden_speciality-0334c07a785810` | mcplayer9999/radio-garden-m3u | [open](records/radio-garden-speciality-mcplayer9999-radio-garden-m3u-3e0cf1da.md) |

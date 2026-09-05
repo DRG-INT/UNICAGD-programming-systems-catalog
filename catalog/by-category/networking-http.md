@@ -1,6 +1,6 @@
 # Networking Http
 
-Records: `1029`
+Records: `1034`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `1029`
 
 ## Category Index
 
-[Api Abi Checker (217)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (194)](benchmarking.md) · [Build System (984)](build-system.md) · [Cli (562)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (50)](compression.md)
-[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (128)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (889)](database-datastore.md) · [Datetime (223)](datetime.md)
+[Api Abi Checker (218)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Benchmarking (198)](benchmarking.md) · [Build System (987)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (117)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (50)](compression.md)
+[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (129)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (890)](database-datastore.md) · [Datetime (227)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (453)](ffi-bindings.md) · [Filesystem Os (1571)](filesystem-os.md) · [Formatter (644)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1450)](ide-editor-integration.md)
-[Image Audio Dsp (431)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · [Library (5586)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (777)](machine-learning.md)
-[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1029)](networking-http.md)**
-[Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1135)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
+[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (454)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (644)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1453)](ide-editor-integration.md)
+[Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (268)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5611)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (787)](machine-learning.md)
+[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1034)](networking-http.md)**
+[Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1136)](parser-lexer-ast.md) · [Precommit Ci Quality (302)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (394)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (600)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (605)](testing-framework.md) · [Tutorial Book Styleguide (63)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1601)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (547)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Security Sast (336)](security-sast.md) · [Serialization (394)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (605)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (605)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
+[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (550)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C99
 
@@ -771,7 +771,7 @@ Records: `1029`
 | g3n/engine | partial | 2026-08-01T16:23:05Z | [open](../records/go-g3n-engine-0b367039.md) |
 | go-resty/resty | partial | 2026-09-05T18:09:44Z | [open](../records/go-go-resty-resty-9cfada1b.md) |
 | redis/go-redis | partial | 2026-09-05T11:29:17Z | [open](../records/go-redis-go-redis-fe715a04.md) |
-| spicetify/cli | partial | 2026-09-05T22:11:56Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
+| spicetify/cli | partial | 2026-09-05T23:08:41Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
 | teler-sh/teler-waf | partial | 2025-03-18T01:40:27Z | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
 | xiaolincoder/CS-Base | partial | 2024-11-27T06:32:13Z | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
 | yincongcyincong/mcp-client-go | partial | 2025-09-09T09:54:40Z | [open](../records/go-yincongcyincong-mcp-client-go-551e8f66.md) |
@@ -1025,13 +1025,18 @@ Records: `1029`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| ameraner/dsen2-cr | partial | 2026-01-26T16:29:38Z | [open](../records/radars-ameraner-dsen2-cr-04550382.md) |
+| Crush0416/MS-CVNets-a-novel-complex-valued-neural-networks-for-SAR-ATR | partial | 2026-09-05T13:11:53Z | [open](../records/radars-crush0416-ms-cvnets-a-novel-complex-valued-neural-networks-for-sar-atr-9231016b.md) |
 | diegovalsesia/speckle2void | partial | 2023-03-24T22:19:08Z | [open](../records/radars-diegovalsesia-speckle2void-76460898.md) |
 | htcr/sam_road | partial | 2024-08-10T18:36:56Z | [open](../records/radars-htcr-sam-road-e8a5b74c.md) |
 | Jakaria08/EESRGAN | partial | 2022-11-22T05:50:00Z | [open](../records/radars-jakaria08-eesrgan-72c925a7.md) |
+| jangsoopark/AConvNet-pytorch | partial | 2022-12-27T11:36:42Z | [open](../records/radars-jangsoopark-aconvnet-pytorch-b65e8307.md) |
+| KaixoCode/SoundMixr | partial | 2022-10-02T08:51:21Z | [open](../records/radars-kaixocode-soundmixr-a69d5bde.md) |
 | lionheart/openradar-mirror | partial | 2018-11-27T18:08:54Z | [open](../records/radars-lionheart-openradar-mirror-2092e24b.md) |
 | nshaud/DeepNetsForEO | partial | 2019-10-23T15:22:56Z | [open](../records/radars-nshaud-deepnetsforeo-d940b4c6.md) |
 | RituYadav92/Radar-RGB-Attentive-Multimodal-Object-Detection | partial | 2024-10-13T18:54:40Z | [open](../records/radars-rituyadav92-radar-rgb-attentive-multimodal-object-detection-19eda9ab.md) |
 | TUMFTM/RadarGNN | partial | 2025-11-27T07:10:39Z | [open](../records/radars-tumftm-radargnn-505af59d.md) |
+| vlsi/ksar | partial | 2026-07-12T18:32:36Z | [open](../records/radars-vlsi-ksar-b267885c.md) |
 | wgcban/ChangeFormer | partial | 2024-01-31T15:06:58Z | [open](../records/radars-wgcban-changeformer-a997cdc7.md) |
 | yizhou-wang/RODNet | partial | 2022-08-11T18:25:00Z | [open](../records/radars-yizhou-wang-rodnet-ad2cb74d.md) |
 

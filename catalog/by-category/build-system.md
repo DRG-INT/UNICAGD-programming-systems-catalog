@@ -1,6 +1,6 @@
 # Build System
 
-Records: `984`
+Records: `987`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `984`
 
 ## Category Index
 
-[Api Abi Checker (217)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (194)](benchmarking.md) · **[Build System (984)](build-system.md)** · [Cli (562)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (50)](compression.md)
-[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (128)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (889)](database-datastore.md) · [Datetime (223)](datetime.md)
+[Api Abi Checker (218)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Benchmarking (198)](benchmarking.md) · **[Build System (987)](build-system.md)** · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (117)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (50)](compression.md)
+[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (129)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (890)](database-datastore.md) · [Datetime (227)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (453)](ffi-bindings.md) · [Filesystem Os (1571)](filesystem-os.md) · [Formatter (644)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1450)](ide-editor-integration.md)
-[Image Audio Dsp (431)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · [Library (5586)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (777)](machine-learning.md)
-[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1135)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
+[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (454)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (644)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1453)](ide-editor-integration.md)
+[Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (268)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5611)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (787)](machine-learning.md)
+[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1034)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1136)](parser-lexer-ast.md) · [Precommit Ci Quality (302)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (394)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (600)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (605)](testing-framework.md) · [Tutorial Book Styleguide (63)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1601)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (547)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Security Sast (336)](security-sast.md) · [Serialization (394)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (605)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (605)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
+[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (550)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C99
 
@@ -657,7 +657,7 @@ Records: `984`
 | line/rules_apple_line | partial | 2023-03-20T22:34:01Z | [open](../records/starlark-line-rules-apple-line-d48892df.md) |
 | maxmcd/bramble | partial | 2023-03-29T14:47:53Z | [open](../records/starlark-maxmcd-bramble-bcb99fb7.md) |
 | MobileNativeFoundation/rules_xcodeproj | partial | 2026-09-05T08:52:10Z | [open](../records/starlark-mobilenativefoundation-rules-xcodeproj-807f9485.md) |
-| mvukov/rules_ros2 | partial | 2026-09-03T20:28:37Z | [open](../records/starlark-mvukov-rules-ros2-c77a04e7.md) |
+| mvukov/rules_ros2 | partial | 2026-09-05T22:29:09Z | [open](../records/starlark-mvukov-rules-ros2-c77a04e7.md) |
 | pubref/rules_kotlin | partial | 2018-06-03T18:25:58Z | [open](../records/starlark-pubref-rules-kotlin-0034e649.md) |
 | pubref/rules_protobuf | partial | 2023-07-28T17:49:54Z | [open](../records/starlark-pubref-rules-protobuf-8dcd4cee.md) |
 | rules-proto-grpc/rules_proto_grpc | partial | 2026-09-04T19:34:32Z | [open](../records/starlark-rules-proto-grpc-rules-proto-grpc-990904d1.md) |
@@ -688,7 +688,7 @@ Records: `984`
 | langchain-ai/langgraph | partial | 2026-09-03T15:23:28Z | [open](../records/aim-s-langchain-ai-langgraph-3d7f01d8.md) |
 | langgenius/dify | partial | 2026-09-05T14:52:04Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
 | rohitg00/ai-engineering-from-scratch | partial | 2026-08-30T09:25:48Z | [open](../records/aim-s-rohitg00-ai-engineering-from-scratch-ac445b06.md) |
-| Significant-Gravitas/AutoGPT | partial | 2026-09-05T22:18:50Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
+| Significant-Gravitas/AutoGPT | partial | 2026-09-05T23:01:09Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
 | tinyhumansai/openhuman | partial | 2026-09-04T04:53:43Z | [open](../records/aim-s-tinyhumansai-openhuman-314d98d9.md) |
 | tirth8205/code-review-graph | partial | 2026-08-27T10:35:01Z | [open](../records/aim-s-tirth8205-code-review-graph-ebee7525.md) |
 | vercel/ai | partial | 2026-09-05T20:45:00Z | [open](../records/aim-s-vercel-ai-ae0b1907.md) |
@@ -994,7 +994,10 @@ Records: `984`
 | aalling93/Custom-made-SAR-speckle-reduction | partial | 2022-09-09T11:26:15Z | [open](../records/radars-aalling93-custom-made-sar-speckle-reduction-99bb6550.md) |
 | developmentseed/label-maker | partial | 2023-10-03T21:56:39Z | [open](../records/radars-developmentseed-label-maker-69d0cf7a.md) |
 | layumi/University1652-Baseline | partial | 2026-08-10T04:53:19Z | [open](../records/radars-layumi-university1652-baseline-6e7408e8.md) |
+| malulleybovo/SymbolArtEditorOnline | partial | 2022-04-15T20:08:05Z | [open](../records/radars-malulleybovo-symbolarteditoronline-2ac65f75.md) |
 | thoughtworks/build-your-own-radar | partial | 2026-04-22T06:39:00Z | [open](../records/radars-thoughtworks-build-your-own-radar-bf05fe36.md) |
+| u-blox/ubxlib | partial | 2024-11-11T13:41:33Z | [open](../records/radars-u-blox-ubxlib-bb7371e1.md) |
+| ya0-sun/PostEQ-SARopt-BuildingDamage | partial | 2024-10-04T23:08:53Z | [open](../records/radars-ya0-sun-posteq-saropt-buildingdamage-1c3b0c8f.md) |
 
 ## SatCom Satellites
 
