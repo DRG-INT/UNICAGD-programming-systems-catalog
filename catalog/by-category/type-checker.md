@@ -12,9 +12,9 @@ Records: `313`
 [Benchmarking (194)](benchmarking.md) · [Build System (980)](build-system.md) · [Cli (559)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (128)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (887)](database-datastore.md) · [Datetime (223)](datetime.md)
+[Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (888)](database-datastore.md) · [Datetime (223)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (449)](ffi-bindings.md) · [Filesystem Os (1561)](filesystem-os.md) · [Formatter (641)](formatter.md)
+[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (450)](ffi-bindings.md) · [Filesystem Os (1561)](filesystem-os.md) · [Formatter (641)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1433)](ide-editor-integration.md)
 [Image Audio Dsp (428)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
 [Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5551)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -231,7 +231,7 @@ Records: `313`
 | sf-symbols-typescript | 2.2.0 | 2025-12-02T16:19:14.356Z | [open](../records/node-js-typescript-sf-symbols-typescript-584a19ec.md) |
 | simple-logging-system | 1.1.0 | 2022-01-18T14:41:37.508Z | [open](../records/node-js-typescript-simple-logging-system-f065ade8.md) |
 | stack-typescript | 1.0.4 | 2018-05-23T10:22:18.390Z | [open](../records/node-js-typescript-stack-typescript-02cf2600.md) |
-| testing-conventions | 0.0.112 | 2026-09-05T06:16:29.191Z | [open](../records/node-js-typescript-testing-conventions-a7bae5cf.md) |
+| testing-conventions | 0.0.113 | 2026-09-05T06:30:49.096Z | [open](../records/node-js-typescript-testing-conventions-a7bae5cf.md) |
 | thingies | 2.6.1 | 2026-07-26T11:15:13.101Z | [open](../records/node-js-typescript-thingies-d5a157fe.md) |
 | tree-sitter-typescript | 0.23.2 | 2024-11-11T02:39:43.600Z | [open](../records/node-js-typescript-tree-sitter-typescript-95efbab0.md) |
 | ts-debounce | 5.0.1 | 2026-04-21T21:47:17.065Z | [open](../records/node-js-typescript-ts-debounce-8faf490c.md) |

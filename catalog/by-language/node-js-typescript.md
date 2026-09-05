@@ -12,9 +12,9 @@ Records: `388`
 [Benchmarking (194)](../by-category/benchmarking.md) · [Build System (980)](../by-category/build-system.md) · [Cli (559)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (116)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (50)](../by-category/compression.md)
 [Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (128)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (173)](../by-category/cryptography.md) · [Data Science (38)](../by-category/data-science.md) · [Database Datastore (887)](../by-category/database-datastore.md) · [Datetime (223)](../by-category/datetime.md)
+[Cryptography (173)](../by-category/cryptography.md) · [Data Science (38)](../by-category/data-science.md) · [Database Datastore (888)](../by-category/database-datastore.md) · [Datetime (223)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (101)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
-[Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (449)](../by-category/ffi-bindings.md) · [Filesystem Os (1561)](../by-category/filesystem-os.md) · [Formatter (641)](../by-category/formatter.md)
+[Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (450)](../by-category/ffi-bindings.md) · [Filesystem Os (1561)](../by-category/filesystem-os.md) · [Formatter (641)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1433)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (428)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (267)](../by-category/interpreter-runtime.md) · [Jit Vm (63)](../by-category/jit-vm.md)
 [Language Server (29)](../by-category/language-server.md) · [Language Specification (1428)](../by-category/language-specification.md) · [Library (5551)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
@@ -469,7 +469,7 @@ Records: `388`
 | [sf-symbols-typescript](../records/node-js-typescript-sf-symbols-typescript-584a19ec.md) | 2.2.0 | 2025-12-02T16:19:14.356Z | registry-derived |
 | [simple-logging-system](../records/node-js-typescript-simple-logging-system-f065ade8.md) | 1.1.0 | 2022-01-18T14:41:37.508Z | npm_registry |
 | [stack-typescript](../records/node-js-typescript-stack-typescript-02cf2600.md) | 1.0.4 | 2018-05-23T10:22:18.390Z | registry-derived |
-| [testing-conventions](../records/node-js-typescript-testing-conventions-a7bae5cf.md) | 0.0.112 | 2026-09-05T06:16:29.191Z | registry-derived |
+| [testing-conventions](../records/node-js-typescript-testing-conventions-a7bae5cf.md) | 0.0.113 | 2026-09-05T06:30:49.096Z | registry-derived |
 | [thingies](../records/node-js-typescript-thingies-d5a157fe.md) | 2.6.1 | 2026-07-26T11:15:13.101Z | registry-derived |
 | [tree-sitter-typescript](../records/node-js-typescript-tree-sitter-typescript-95efbab0.md) | 0.23.2 | 2024-11-11T02:39:43.600Z | registry-derived |
 | [ts-debounce](../records/node-js-typescript-ts-debounce-8faf490c.md) | 5.0.1 | 2026-04-21T21:47:17.065Z | registry-derived |

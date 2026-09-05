@@ -1,6 +1,6 @@
 # UNICAGD Programming Systems Discovery Catalog
 
-Generated: `2026-09-05T07:19:17+00:00`
+Generated: `2026-09-05T08:21:55+00:00`
 
 This repository is a Markdown explorer for a systems-engineering programming corpus. It preserves the master JSON seed, expands it with registry-derived ecosystem records, and tracks release metadata without guessing unknown dates.
 
@@ -18,9 +18,9 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 [Benchmarking (194)](catalog/by-category/benchmarking.md) · [Build System (980)](catalog/by-category/build-system.md) · [Cli (559)](catalog/by-category/cli.md) · [Codegen Codemod Refactoring (23)](catalog/by-category/codegen-codemod-refactoring.md)
 [Community Reference (116)](catalog/by-category/community-reference.md) · [Compiler (175)](catalog/by-category/compiler.md) · [Compiler Diagnostics (23)](catalog/by-category/compiler-diagnostics.md) · [Compression (50)](catalog/by-category/compression.md)
 [Concurrency Parallelism (89)](catalog/by-category/concurrency-parallelism.md) · [Configuration (128)](catalog/by-category/configuration.md) · [Container Deployment (9)](catalog/by-category/container-deployment.md) · [Coverage (14)](catalog/by-category/coverage.md)
-[Cryptography (173)](catalog/by-category/cryptography.md) · [Data Science (38)](catalog/by-category/data-science.md) · [Database Datastore (887)](catalog/by-category/database-datastore.md) · [Datetime (223)](catalog/by-category/datetime.md)
+[Cryptography (173)](catalog/by-category/cryptography.md) · [Data Science (38)](catalog/by-category/data-science.md) · [Database Datastore (888)](catalog/by-category/database-datastore.md) · [Datetime (223)](catalog/by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](catalog/by-category/dead-code-dependency-analysis.md) · [Debugger (44)](catalog/by-category/debugger.md) · [Dependency Manager (101)](catalog/by-category/dependency-manager.md) · [Documentation (103)](catalog/by-category/documentation.md)
-[Embedded Hardware (56)](catalog/by-category/embedded-hardware.md) · [Ffi Bindings (449)](catalog/by-category/ffi-bindings.md) · [Filesystem Os (1561)](catalog/by-category/filesystem-os.md) · [Formatter (641)](catalog/by-category/formatter.md)
+[Embedded Hardware (56)](catalog/by-category/embedded-hardware.md) · [Ffi Bindings (450)](catalog/by-category/ffi-bindings.md) · [Filesystem Os (1561)](catalog/by-category/filesystem-os.md) · [Formatter (641)](catalog/by-category/formatter.md)
 [Framework (63)](catalog/by-category/framework.md) · [Fuzzer (57)](catalog/by-category/fuzzer.md) · [Game Engine Game Dev (354)](catalog/by-category/game-engine-game-dev.md) · [Ide Editor Integration (1433)](catalog/by-category/ide-editor-integration.md)
 [Image Audio Dsp (428)](catalog/by-category/image-audio-dsp.md) · [Interop Bindings (61)](catalog/by-category/interop-bindings.md) · [Interpreter Runtime (267)](catalog/by-category/interpreter-runtime.md) · [Jit Vm (63)](catalog/by-category/jit-vm.md)
 [Language Server (29)](catalog/by-category/language-server.md) · [Language Specification (1428)](catalog/by-category/language-specification.md) · [Library (5551)](catalog/by-category/library.md) · [Lint Plugin (1)](catalog/by-category/lint-plugin.md)
@@ -37,12 +37,12 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 | Metric | Count |
 | --- | ---: |
 | Source records | 968 |
-| Canonical identity pages | 26956 |
+| Canonical identity pages | 26958 |
 | Expansion records added | 8605 |
 | Release checks attempted | 1200 |
 | Known stable release fields | 10079 |
-| Unknown stable release fields | 16877 |
-| Fetch errors recorded | 1009 |
+| Unknown stable release fields | 16879 |
+| Fetch errors recorded | 1073 |
 | Target identity count | 24000 |
 
 ## Language Scope

@@ -1,6 +1,6 @@
 # Assembly
 
-Records: `307`
+Records: `308`
 
 ## Navigation
 
@@ -12,9 +12,9 @@ Records: `307`
 [Benchmarking (194)](../by-category/benchmarking.md) · [Build System (980)](../by-category/build-system.md) · [Cli (559)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (116)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (23)](../by-category/compiler-diagnostics.md) · [Compression (50)](../by-category/compression.md)
 [Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (128)](../by-category/configuration.md) · [Container Deployment (9)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (173)](../by-category/cryptography.md) · [Data Science (38)](../by-category/data-science.md) · [Database Datastore (887)](../by-category/database-datastore.md) · [Datetime (223)](../by-category/datetime.md)
+[Cryptography (173)](../by-category/cryptography.md) · [Data Science (38)](../by-category/data-science.md) · [Database Datastore (888)](../by-category/database-datastore.md) · [Datetime (223)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (101)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
-[Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (449)](../by-category/ffi-bindings.md) · [Filesystem Os (1561)](../by-category/filesystem-os.md) · [Formatter (641)](../by-category/formatter.md)
+[Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (450)](../by-category/ffi-bindings.md) · [Filesystem Os (1561)](../by-category/filesystem-os.md) · [Formatter (641)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1433)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (428)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (267)](../by-category/interpreter-runtime.md) · [Jit Vm (63)](../by-category/jit-vm.md)
 [Language Server (29)](../by-category/language-server.md) · [Language Specification (1428)](../by-category/language-specification.md) · [Library (5551)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
@@ -70,7 +70,7 @@ Records: `307`
 | [emproof-com/nyxstone](../records/assembly-emproof-com-nyxstone-2e6c50f8.md) | partial | 2026-06-05T16:43:08Z | registry-derived |
 | [Fedjmike/mini-c](../records/assembly-fedjmike-mini-c-295a2fc0.md) | partial | 2022-04-15T08:24:14Z | registry-derived |
 | [HexHive/retrowrite](../records/assembly-hexhive-retrowrite-c7fefa2b.md) | partial | 2025-04-26T16:48:55Z | registry-derived |
-| [illegalstudio/elephc](../records/assembly-illegalstudio-elephc-5fbaada8.md) | partial | 2026-09-05T07:02:05Z | registry-derived |
+| [illegalstudio/elephc](../records/assembly-illegalstudio-elephc-5fbaada8.md) | partial | 2026-09-05T07:52:19Z | registry-derived |
 | [joexbayer/RetrOS-32](../records/assembly-joexbayer-retros-32-b6c205a2.md) | partial | 2026-02-22T16:07:58Z | registry-derived |
 | [JustasMasiulis/inline_syscall](../records/assembly-justasmasiulis-inline-syscall-0c8a798a.md) | partial | 2024-06-21T00:26:33Z | registry-derived |
 | [Mati365/ts-c-compiler](../records/assembly-mati365-ts-c-compiler-bc7fb5c3.md) | partial | 2026-08-11T06:13:10Z | registry-derived |
@@ -122,6 +122,7 @@ Records: `307`
 | [ashvardanian/NumKong](../records/assembly-ashvardanian-numkong-bff1efd3.md) | partial | 2026-09-02T14:43:47Z | registry-derived |
 | [awaescher/Fusion](../records/assembly-awaescher-fusion-614ef7c1.md) | partial | 2022-09-01T06:28:12Z | registry-derived |
 | [cheng-alvin/jas](../records/assembly-cheng-alvin-jas-3c7aa7a0.md) | partial | 2026-04-23T12:31:32Z | registry-derived |
+| [encounter/objdiff](../records/assembly-encounter-objdiff-533f7383.md) | partial | 2026-08-29T22:14:27Z | registry-derived |
 | [hugsy/bochscpu-python](../records/assembly-hugsy-bochscpu-python-bba92484.md) | partial | 2025-08-10T17:01:32Z | registry-derived |
 | [KolibriOS/kolibrios](../records/assembly-kolibrios-kolibrios-ceca7961.md) | partial | 2026-09-04T21:44:13Z | registry-derived |
 
@@ -144,7 +145,7 @@ Records: `307`
 | [leoncinardo/MascOS](../records/assembly-leoncinardo-mascos-e4ea93aa.md) | partial | 2026-04-26T16:15:37Z | registry-derived |
 | [maniekx86/stillalive-os](../records/assembly-maniekx86-stillalive-os-3b900496.md) | partial | 2025-09-16T11:55:24Z | registry-derived |
 | [moby/moby](../records/assembly-moby-moby-727c8e59.md) | partial | 2026-09-04T17:30:56Z | registry-derived |
-| [OpenRakis/Spice86](../records/assembly-openrakis-spice86-2cdaf101.md) | partial | 2026-09-02T13:45:57Z | registry-derived |
+| [OpenRakis/Spice86](../records/assembly-openrakis-spice86-2cdaf101.md) | partial | 2026-09-05T08:18:27Z | registry-derived |
 | [owent/libcopp](../records/assembly-owent-libcopp-45c438d7.md) | partial | 2026-01-20T11:34:32Z | registry-derived |
 | [rwfpl/rewolf-wow64ext](../records/assembly-rwfpl-rewolf-wow64ext-24fabb9b.md) | partial | 2023-01-17T20:00:42Z | registry-derived |
 | [s-matyukevich/raspberry-pi-os](../records/assembly-s-matyukevich-raspberry-pi-os-afd7ee12.md) | partial | 2024-03-29T21:19:52Z | registry-derived |
@@ -329,7 +330,7 @@ Records: `307`
 | [vxunderground/MalwareSourceCode](../records/assembly-vxunderground-malwaresourcecode-7c22542f.md) | partial | 2026-05-30T07:11:00Z | registry-derived |
 | [xiph/rav1e](../records/assembly-xiph-rav1e-5183562e.md) | partial | 2026-09-02T20:51:01Z | registry-derived |
 | [xuhongv/StudyInEsp8266](../records/assembly-xuhongv-studyinesp8266-c596a5a9.md) | partial | 2021-05-28T09:37:16Z | registry-derived |
-| [z88dk/z88dk](../records/assembly-z88dk-z88dk-83b731fe.md) | partial | 2026-09-05T05:51:09Z | registry-derived |
+| [z88dk/z88dk](../records/assembly-z88dk-z88dk-83b731fe.md) | partial | 2026-09-05T08:16:42Z | registry-derived |
 | [Zeal8bit/Zeal-8-bit-OS](../records/assembly-zeal8bit-zeal-8-bit-os-acb9785d.md) | partial | 2026-09-02T14:27:06Z | registry-derived |
 | [zladx/LADX-Disassembly](../records/assembly-zladx-ladx-disassembly-b62b79d3.md) | partial | 2026-08-27T18:45:27Z | registry-derived |
 
@@ -417,7 +418,7 @@ Records: `307`
 | --- | --- | --- | --- |
 | [ashvardanian/less_slow.cpp](../records/assembly-ashvardanian-less-slow-cpp-50768d6c.md) | partial | 2026-07-27T01:01:01Z | registry-derived |
 | [minio/highwayhash](../records/assembly-minio-highwayhash-5634a2cc.md) | partial | 2026-03-21T05:38:40Z | registry-derived |
-| [nyxos-dev/nyx-os](../records/assembly-nyxos-dev-nyx-os-a701d2ff.md) | partial | 2026-09-05T00:30:20Z | registry-derived |
+| [nyxos-dev/nyx-os](../records/assembly-nyxos-dev-nyx-os-a701d2ff.md) | partial | 2026-09-05T08:17:59Z | registry-derived |
 | [OpenMachine-ai/tinyfive](../records/assembly-openmachine-ai-tinyfive-d7147317.md) | partial | 2023-11-01T23:04:08Z | registry-derived |
 | [OWASP/ZSC](../records/assembly-owasp-zsc-566fd5f9.md) | partial | 2024-03-14T22:19:20Z | registry-derived |
 

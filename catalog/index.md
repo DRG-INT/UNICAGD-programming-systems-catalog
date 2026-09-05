@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-05T07:19:17+00:00`
+Generated: `2026-09-05T08:21:55+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -10,9 +10,9 @@ Generated: `2026-09-05T07:19:17+00:00`
 [Benchmarking (194)](by-category/benchmarking.md) · [Build System (980)](by-category/build-system.md) · [Cli (559)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (116)](by-category/community-reference.md) · [Compiler (175)](by-category/compiler.md) · [Compiler Diagnostics (23)](by-category/compiler-diagnostics.md) · [Compression (50)](by-category/compression.md)
 [Concurrency Parallelism (89)](by-category/concurrency-parallelism.md) · [Configuration (128)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (173)](by-category/cryptography.md) · [Data Science (38)](by-category/data-science.md) · [Database Datastore (887)](by-category/database-datastore.md) · [Datetime (223)](by-category/datetime.md)
+[Cryptography (173)](by-category/cryptography.md) · [Data Science (38)](by-category/data-science.md) · [Database Datastore (888)](by-category/database-datastore.md) · [Datetime (223)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (101)](by-category/dependency-manager.md) · [Documentation (103)](by-category/documentation.md)
-[Embedded Hardware (56)](by-category/embedded-hardware.md) · [Ffi Bindings (449)](by-category/ffi-bindings.md) · [Filesystem Os (1561)](by-category/filesystem-os.md) · [Formatter (641)](by-category/formatter.md)
+[Embedded Hardware (56)](by-category/embedded-hardware.md) · [Ffi Bindings (450)](by-category/ffi-bindings.md) · [Filesystem Os (1561)](by-category/filesystem-os.md) · [Formatter (641)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (354)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1433)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (428)](by-category/image-audio-dsp.md) · [Interop Bindings (61)](by-category/interop-bindings.md) · [Interpreter Runtime (267)](by-category/interpreter-runtime.md) · [Jit Vm (63)](by-category/jit-vm.md)
 [Language Server (29)](by-category/language-server.md) · [Language Specification (1428)](by-category/language-specification.md) · [Library (5551)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
@@ -78,9 +78,9 @@ Generated: `2026-09-05T07:19:17+00:00`
 | Magazines | 310 | 3 | [Magazines](by-language/magazines.md) |
 | Hubs | 15 | 0 | [Hubs](by-language/hubs.md) |
 | Braces | 14 | 0 | [Braces](by-language/braces.md) |
-| Assembly | 307 | 0 | [Assembly](by-language/assembly.md) |
+| Assembly | 308 | 0 | [Assembly](by-language/assembly.md) |
 | Pattern language | 146 | 0 | [Pattern language](by-language/pattern-language.md) |
-| PHP | 609 | 1 | [PHP](by-language/php.md) |
+| PHP | 610 | 1 | [PHP](by-language/php.md) |
 | WebAssembly | 387 | 0 | [WebAssembly](by-language/webassembly.md) |
 | SAPJava | 310 | 169 | [SAPJava](by-language/sapjava.md) |
 | Swift | 368 | 0 | [Swift](by-language/swift.md) |
@@ -110,14 +110,14 @@ Generated: `2026-09-05T07:19:17+00:00`
 | Coverage | 14 | [coverage](by-category/coverage.md) |
 | Cryptography | 173 | [cryptography](by-category/cryptography.md) |
 | Data Science | 38 | [data_science](by-category/data-science.md) |
-| Database Datastore | 887 | [database_datastore](by-category/database-datastore.md) |
+| Database Datastore | 888 | [database_datastore](by-category/database-datastore.md) |
 | Datetime | 223 | [datetime](by-category/datetime.md) |
 | Dead Code Dependency Analysis | 5 | [dead_code_dependency_analysis](by-category/dead-code-dependency-analysis.md) |
 | Debugger | 44 | [debugger](by-category/debugger.md) |
 | Dependency Manager | 101 | [dependency_manager](by-category/dependency-manager.md) |
 | Documentation | 103 | [documentation](by-category/documentation.md) |
 | Embedded Hardware | 56 | [embedded_hardware](by-category/embedded-hardware.md) |
-| Ffi Bindings | 449 | [ffi_bindings](by-category/ffi-bindings.md) |
+| Ffi Bindings | 450 | [ffi_bindings](by-category/ffi-bindings.md) |
 | Filesystem Os | 1561 | [filesystem_os](by-category/filesystem-os.md) |
 | Formatter | 641 | [formatter](by-category/formatter.md) |
 | Framework | 63 | [framework](by-category/framework.md) |
@@ -215,9 +215,9 @@ Generated: `2026-09-05T07:19:17+00:00`
 | Magazines | 3 | 307 |
 | Hubs | 0 | 15 |
 | Braces | 0 | 14 |
-| Assembly | 0 | 307 |
+| Assembly | 0 | 308 |
 | Pattern language | 0 | 146 |
-| PHP | 1 | 608 |
+| PHP | 1 | 609 |
 | WebAssembly | 0 | 387 |
 | SAPJava | 169 | 141 |
 | Swift | 0 | 368 |

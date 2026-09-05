@@ -12,9 +12,9 @@ Records: `194`
 **[Benchmarking (194)](benchmarking.md)** · [Build System (980)](build-system.md) · [Cli (559)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (128)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (887)](database-datastore.md) · [Datetime (223)](datetime.md)
+[Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (888)](database-datastore.md) · [Datetime (223)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (449)](ffi-bindings.md) · [Filesystem Os (1561)](filesystem-os.md) · [Formatter (641)](formatter.md)
+[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (450)](ffi-bindings.md) · [Filesystem Os (1561)](filesystem-os.md) · [Formatter (641)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1433)](ide-editor-integration.md)
 [Image Audio Dsp (428)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
 [Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5551)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -134,7 +134,7 @@ Records: `194`
 | jeffotoni/quick | partial | 2026-05-08T15:01:00Z | [open](../records/go-jeffotoni-quick-3e9e02ab.md) |
 | kataras/iris | partial | 2026-07-27T09:34:12Z | [open](../records/go-kataras-iris-811820fb.md) |
 | nats-io/nats-server | partial | 2026-09-04T16:57:11Z | [open](../records/go-nats-io-nats-server-a11f8ca6.md) |
-| nelthaarion/breeze | partial | 2026-09-01T10:11:00Z | [open](../records/go-nelthaarion-breeze-919adbb5.md) |
+| nelthaarion/breeze | partial | 2026-09-05T04:21:44Z | [open](../records/go-nelthaarion-breeze-919adbb5.md) |
 | sohaha/zlsgo | partial | 2026-07-20T07:16:38Z | [open](../records/go-sohaha-zlsgo-804fc40e.md) |
 | tigalabs/tigago | partial | 2022-11-12T12:26:48Z | [open](../records/go-tigalabs-tigago-6e360e88.md) |
 
