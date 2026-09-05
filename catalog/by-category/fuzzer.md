@@ -17,13 +17,13 @@ Records: `57`
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (452)](ffi-bindings.md) · [Filesystem Os (1569)](filesystem-os.md) · [Formatter (643)](formatter.md)
 [Framework (63)](framework.md) · **[Fuzzer (57)](fuzzer.md)** · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1444)](ide-editor-integration.md)
 [Image Audio Dsp (430)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5570)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (769)](machine-learning.md)
+[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5572)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (770)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (440)](package-manager.md) · [Parser Lexer Ast (1089)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1089)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
 [Profiler (86)](profiler.md) · [Project Scaffolding (132)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (14)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (393)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (596)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (603)](testing-framework.md) · [Tutorial Book Styleguide (63)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
+[Security Sast (336)](security-sast.md) · [Serialization (394)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (597)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (604)](testing-framework.md) · [Tutorial Book Styleguide (63)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
 [Undefined Behavior Analyzer (1595)](undefined-behavior-analyzer.md) · [Utility Library (103)](utility-library.md) · [Visualization Gui (547)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C99
@@ -105,18 +105,18 @@ Records: `57`
 | banesullivan/localtileserver | unknown | github_search_does_not_include_release_date | [open](../records/maps-banesullivan-localtileserver-66c265a9.md) |
 | emikhalev/leaflet-2gis | partial | 2023-06-18T13:05:57Z | [open](../records/maps-emikhalev-leaflet-2gis-256a4bf3.md) |
 | Esri/esri-leaflet-geocoder | partial | 2026-03-24T13:41:39Z | [open](../records/maps-esri-esri-leaflet-geocoder-90d234ea.md) |
-| fleaflet/flutter_map | partial | 2026-09-01T13:20:29Z | [open](../records/maps-fleaflet-flutter-map-860f9704.md) |
+| fleaflet/flutter_map | partial | 2026-09-04T12:57:45Z | [open](../records/maps-fleaflet-flutter-map-860f9704.md) |
 | geoman-io/leaflet-geoman | partial | 2026-08-17T11:54:00Z | [open](../records/maps-geoman-io-leaflet-geoman-fd699ba4.md) |
 | geosolutions-it/MapStore2 | unknown | github_search_does_not_include_release_date | [open](../records/maps-geosolutions-it-mapstore2-b03f8e67.md) |
 | GeoTIFF/georaster-layer-for-leaflet | unknown | github_search_does_not_include_release_date | [open](../records/maps-geotiff-georaster-layer-for-leaflet-de078a6e.md) |
 | humangeo/leaflet-dvf | partial | 2018-03-15T00:01:17Z | [open](../records/maps-humangeo-leaflet-dvf-f9b85b0b.md) |
 | iamtekson/leaflet-geojson-vt | partial | 2025-03-14T16:11:03Z | [open](../records/maps-iamtekson-leaflet-geojson-vt-70b4c629.md) |
-| JamesLMilner/terra-draw | partial | 2026-08-31T12:15:18Z | [open](../records/maps-jameslmilner-terra-draw-de5cfbbe.md) |
-| Leaflet/Leaflet | partial | 2026-09-01T16:31:11Z | [open](../records/maps-leaflet-leaflet-98e4aefd.md) |
+| JamesLMilner/terra-draw | partial | 2026-09-01T22:02:06Z | [open](../records/maps-jameslmilner-terra-draw-de5cfbbe.md) |
+| Leaflet/Leaflet | partial | 2026-09-05T09:57:59Z | [open](../records/maps-leaflet-leaflet-98e4aefd.md) |
 | Leaflet/Leaflet.VectorGrid | partial | 2025-01-09T18:01:02Z | [open](../records/maps-leaflet-leaflet-vectorgrid-fc95009b.md) |
 | NICEXAI/leaflet_zh | partial | 2023-11-14T14:08:47Z | [open](../records/maps-nicexai-leaflet-zh-ce87f8c8.md) |
 | opengeos/Awesome-GEE | unknown | github_search_does_not_include_release_date | [open](../records/maps-opengeos-awesome-gee-588f3052.md) |
-| python-visualization/folium | partial | 2026-09-01T17:17:47Z | [open](../records/maps-python-visualization-folium-ce762251.md) |
+| python-visualization/folium | partial | 2026-09-04T16:55:00Z | [open](../records/maps-python-visualization-folium-ce762251.md) |
 | r-spatial/mapview | unknown | github_search_does_not_include_release_date | [open](../records/maps-r-spatial-mapview-430d7bbc.md) |
 | rstudio/leaflet | partial | 2025-10-08T20:50:29Z | [open](../records/maps-rstudio-leaflet-de5ff58a.md) |
 | stefanocudini/leaflet-geojson-selector | partial | 2023-08-11T10:14:24Z | [open](../records/maps-stefanocudini-leaflet-geojson-selector-4e7b0158.md) |

@@ -1,6 +1,6 @@
 # UNICAGD Programming Systems Discovery Catalog
 
-Generated: `2026-09-05T09:19:58+00:00`
+Generated: `2026-09-05T10:21:46+00:00`
 
 This repository is a Markdown explorer for a systems-engineering programming corpus. It preserves the master JSON seed, expands it with registry-derived ecosystem records, and tracks release metadata without guessing unknown dates.
 
@@ -23,13 +23,13 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 [Embedded Hardware (56)](catalog/by-category/embedded-hardware.md) · [Ffi Bindings (452)](catalog/by-category/ffi-bindings.md) · [Filesystem Os (1569)](catalog/by-category/filesystem-os.md) · [Formatter (643)](catalog/by-category/formatter.md)
 [Framework (63)](catalog/by-category/framework.md) · [Fuzzer (57)](catalog/by-category/fuzzer.md) · [Game Engine Game Dev (354)](catalog/by-category/game-engine-game-dev.md) · [Ide Editor Integration (1444)](catalog/by-category/ide-editor-integration.md)
 [Image Audio Dsp (430)](catalog/by-category/image-audio-dsp.md) · [Interop Bindings (61)](catalog/by-category/interop-bindings.md) · [Interpreter Runtime (267)](catalog/by-category/interpreter-runtime.md) · [Jit Vm (63)](catalog/by-category/jit-vm.md)
-[Language Server (29)](catalog/by-category/language-server.md) · [Language Specification (1428)](catalog/by-category/language-specification.md) · [Library (5570)](catalog/by-category/library.md) · [Lint Plugin (1)](catalog/by-category/lint-plugin.md)
-[Lint Rule Pack (48)](catalog/by-category/lint-rule-pack.md) · [Linter (348)](catalog/by-category/linter.md) · [Logging Observability (519)](catalog/by-category/logging-observability.md) · [Machine Learning (769)](catalog/by-category/machine-learning.md)
+[Language Server (29)](catalog/by-category/language-server.md) · [Language Specification (1428)](catalog/by-category/language-specification.md) · [Library (5572)](catalog/by-category/library.md) · [Lint Plugin (1)](catalog/by-category/lint-plugin.md)
+[Lint Rule Pack (48)](catalog/by-category/lint-rule-pack.md) · [Linter (348)](catalog/by-category/linter.md) · [Logging Observability (519)](catalog/by-category/logging-observability.md) · [Machine Learning (770)](catalog/by-category/machine-learning.md)
 [Math Numeric Scientific (88)](catalog/by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](catalog/by-category/memory-analyzer.md) · [Message Broker (40)](catalog/by-category/message-broker.md) · [Networking Http (1029)](catalog/by-category/networking-http.md)
-[Other (14)](catalog/by-category/other.md) · [Package Manager (440)](catalog/by-category/package-manager.md) · [Parser Lexer Ast (1089)](catalog/by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](catalog/by-category/precommit-ci-quality.md)
+[Other (14)](catalog/by-category/other.md) · [Package Manager (441)](catalog/by-category/package-manager.md) · [Parser Lexer Ast (1089)](catalog/by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](catalog/by-category/precommit-ci-quality.md)
 [Profiler (86)](catalog/by-category/profiler.md) · [Project Scaffolding (132)](catalog/by-category/project-scaffolding.md) · [Registry Repository (133)](catalog/by-category/registry-repository.md) · [Sanitizer (14)](catalog/by-category/sanitizer.md)
-[Security Sast (336)](catalog/by-category/security-sast.md) · [Serialization (393)](catalog/by-category/serialization.md) · [Standard Library (25)](catalog/by-category/standard-library.md) · [Static Analyzer (596)](catalog/by-category/static-analyzer.md)
-[Templating (2)](catalog/by-category/templating.md) · [Testing Framework (603)](catalog/by-category/testing-framework.md) · [Tutorial Book Styleguide (63)](catalog/by-category/tutorial-book-styleguide.md) · [Type Checker (313)](catalog/by-category/type-checker.md)
+[Security Sast (336)](catalog/by-category/security-sast.md) · [Serialization (394)](catalog/by-category/serialization.md) · [Standard Library (25)](catalog/by-category/standard-library.md) · [Static Analyzer (597)](catalog/by-category/static-analyzer.md)
+[Templating (2)](catalog/by-category/templating.md) · [Testing Framework (604)](catalog/by-category/testing-framework.md) · [Tutorial Book Styleguide (63)](catalog/by-category/tutorial-book-styleguide.md) · [Type Checker (313)](catalog/by-category/type-checker.md)
 [Undefined Behavior Analyzer (1595)](catalog/by-category/undefined-behavior-analyzer.md) · [Utility Library (103)](catalog/by-category/utility-library.md) · [Visualization Gui (547)](catalog/by-category/visualization-gui.md) · [Web Framework (476)](catalog/by-category/web-framework.md)
 
 ## Corpus Shape
@@ -37,12 +37,12 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 | Metric | Count |
 | --- | ---: |
 | Source records | 968 |
-| Canonical identity pages | 27031 |
+| Canonical identity pages | 27038 |
 | Expansion records added | 8605 |
 | Release checks attempted | 1200 |
-| Known stable release fields | 10079 |
-| Unknown stable release fields | 16952 |
-| Fetch errors recorded | 1002 |
+| Known stable release fields | 10084 |
+| Unknown stable release fields | 16954 |
+| Fetch errors recorded | 1020 |
 | Target identity count | 24000 |
 
 ## Language Scope
