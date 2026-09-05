@@ -1,6 +1,6 @@
 # Library
 
-Records: `5579`
+Records: `5581`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `5579`
 ## Category Index
 
 [Api Abi Checker (216)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (194)](benchmarking.md) · [Build System (982)](build-system.md) · [Cli (561)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (194)](benchmarking.md) · [Build System (984)](build-system.md) · [Cli (561)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (128)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (888)](database-datastore.md) · [Datetime (223)](datetime.md)
+[Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (889)](database-datastore.md) · [Datetime (223)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (452)](ffi-bindings.md) · [Filesystem Os (1569)](filesystem-os.md) · [Formatter (643)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1445)](ide-editor-integration.md)
-[Image Audio Dsp (430)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1429)](language-specification.md) · **[Library (5579)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (770)](machine-learning.md)
+[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (452)](ffi-bindings.md) · [Filesystem Os (1570)](filesystem-os.md) · [Formatter (644)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1449)](ide-editor-integration.md)
+[Image Audio Dsp (431)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
+[Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · **[Library (5581)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (772)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1089)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
-[Profiler (86)](profiler.md) · [Project Scaffolding (132)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (14)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (394)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (597)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (604)](testing-framework.md) · [Tutorial Book Styleguide (63)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1596)](undefined-behavior-analyzer.md) · [Utility Library (103)](utility-library.md) · [Visualization Gui (547)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1135)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
+[Profiler (86)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (394)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (600)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (605)](testing-framework.md) · [Tutorial Book Styleguide (63)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
+[Undefined Behavior Analyzer (1601)](undefined-behavior-analyzer.md) · [Utility Library (103)](utility-library.md) · [Visualization Gui (547)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C99
 
@@ -3468,7 +3468,7 @@ Records: `5579`
 | holeyexp | 0.3.0.1 | 2026-09-04T13:09:46Z | [open](../records/haskell-holeyexp-db5dc519.md) |
 | hoogle | 5.0.19.0 | 2026-01-19T20:38:58Z | [open](../records/haskell-hoogle-972b6dba.md) |
 | hoopl | 3.10.2.2 | 2017-10-29T03:38:52Z | [open](../records/haskell-hoopl-0b4ca46a.md) |
-| hOpenPGP | 3.6.9 | 2026-09-04T22:02:05Z | [open](../records/haskell-hopenpgp-dbd93565.md) |
+| hOpenPGP | 3.6.10 | 2026-09-05T14:35:40Z | [open](../records/haskell-hopenpgp-dbd93565.md) |
 | hopenpgp-tools | 0.25.13 | 2026-09-04T21:52:02Z | [open](../records/haskell-hopenpgp-tools-39a59dde.md) |
 | hourglass | 0.2.12 | 2018-08-24T19:46:48Z | [open](../records/haskell-hourglass-ed0a22e4.md) |
 | hpack | 0.39.6 | 2026-06-06T21:52:03Z | [open](../records/haskell-hpack-d2b641d5.md) |
@@ -3680,6 +3680,7 @@ Records: `5579`
 | pqi-native | 1.0.1.12 | 2026-08-25T20:15:38Z | [open](../records/haskell-pqi-native-ce1f41e2.md) |
 | preamble | 0.0.65 | 2018-10-11T04:51:51Z | [open](../records/haskell-preamble-d1b634b2.md) |
 | pred-trie | 0.6.1 | 2018-11-20T23:35:36Z | [open](../records/haskell-pred-trie-ca1b7fcc.md) |
+| predicate-typed | 0.7.4.5 | 2020-11-20T21:44:53Z | [open](../records/haskell-predicate-typed-74b6966d.md) |
 | prednote | 0.36.0.4 | 2015-09-10T01:59:03Z | [open](../records/haskell-prednote-3691ee83.md) |
 | pretty | 1.1.3.6 | 2018-01-29T04:01:01Z | [open](../records/haskell-pretty-b2ab5c81.md) |
 | pretty-show | 1.10 | 2020-01-30T19:08:20Z | [open](../records/haskell-pretty-show-beb74204.md) |
@@ -3974,7 +3975,7 @@ Records: `5579`
 | yesod-markdown | 0.12.6.14 | 2024-05-08T15:15:31Z | [open](../records/haskell-yesod-markdown-8c3c7de7.md) |
 | yesod-persistent | 1.6.0.9 | 2026-06-16T20:33:49Z | [open](../records/haskell-yesod-persistent-425557b9.md) |
 | yesod-platform | 1.2.13.3 | 2014-08-25T13:53:51Z | [open](../records/haskell-yesod-platform-cc0166b2.md) |
-| yesod-static | 1.6.1.3 | 2026-06-16T20:33:50Z | [open](../records/haskell-yesod-static-f6ffdea6.md) |
+| yesod-static | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yesod-static-f6ffdea6.md) |
 | yi | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yi-3b78b64a.md) |
 | Z-Data | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-data-ad2a6ebb.md) |
 | Z-IO | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-io-e37841a7.md) |
@@ -4208,7 +4209,7 @@ Records: `5579`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-05T14:10:52Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-05T14:56:44Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -5092,6 +5093,7 @@ Records: `5579`
 | --- | --- | --- | --- |
 | GR3YH4TT3R93/dotfiles | partial | 2025-12-29T18:28:19Z | [open](../records/telescopes-gr3yh4tt3r93-dotfiles-2a81d246.md) |
 | MITHaystack/srt-py | partial | 2024-07-02T19:26:23Z | [open](../records/telescopes-mithaystack-srt-py-1ec91517.md) |
+| nom-tam-fits/nom-tam-fits | partial | 2026-09-02T18:00:18Z | [open](../records/telescopes-nom-tam-fits-nom-tam-fits-09f1fe88.md) |
 | synfinatic/alpacascope | partial | 2025-05-13T11:50:46Z | [open](../records/telescopes-synfinatic-alpacascope-e4f80071.md) |
 | tmolteno/TART | partial | 2026-07-01T18:32:35Z | [open](../records/telescopes-tmolteno-tart-8a3c3343.md) |
 | zkwlx/DroidTelescope | partial | 2022-04-21T02:39:54Z | [open](../records/telescopes-zkwlx-droidtelescope-316d3546.md) |
@@ -5108,7 +5110,7 @@ Records: `5579`
 | CNES/cars | partial | 2026-09-04T15:57:30Z | [open](../records/radars-cnes-cars-235016dd.md) |
 | CS-SI/eodag | partial | 2026-09-04T10:14:43Z | [open](../records/radars-cs-si-eodag-7dfc17d1.md) |
 | dpaulat/supercell-wx | partial | 2026-09-01T22:58:49Z | [open](../records/radars-dpaulat-supercell-wx-216e49cf.md) |
-| earthobservations/wetterdienst | partial | 2026-09-05T09:02:28Z | [open](../records/radars-earthobservations-wetterdienst-4494a41f.md) |
+| earthobservations/wetterdienst | partial | 2026-09-05T10:09:18Z | [open](../records/radars-earthobservations-wetterdienst-4494a41f.md) |
 | erikliland/pyMHT | partial | 2023-09-19T11:10:15Z | [open](../records/radars-erikliland-pymht-6bcd5586.md) |
 | ethanhuang13/ladybug | partial | 2019-12-26T07:04:26Z | [open](../records/radars-ethanhuang13-ladybug-9ff29291.md) |
 | feedback-assistant/reports | partial | 2025-11-07T04:38:18Z | [open](../records/radars-feedback-assistant-reports-4bc463b2.md) |
@@ -5203,7 +5205,7 @@ Records: `5579`
 | robamu-org/tmtccmd | partial | 2026-01-14T11:22:06Z | [open](../records/satcom-satellites-robamu-org-tmtccmd-8aded257.md) |
 | robintw/Py6S | partial | 2025-10-22T23:09:34Z | [open](../records/satcom-satellites-robintw-py6s-607064f7.md) |
 | rt-bishop/Look4Sat | partial | 2026-09-03T07:40:26Z | [open](../records/satcom-satellites-rt-bishop-look4sat-0d14c7cd.md) |
-| SatDump/SatDump | partial | 2026-09-05T06:10:36Z | [open](../records/satcom-satellites-satdump-satdump-2cfd412f.md) |
+| SatDump/SatDump | partial | 2026-09-05T09:42:44Z | [open](../records/satcom-satellites-satdump-satdump-2cfd412f.md) |
 | TLeconte/acarsdec | partial | 2025-07-31T10:36:21Z | [open](../records/satcom-satellites-tleconte-acarsdec-9333c48e.md) |
 | trishmapow/rf-jam-replay | partial | 2019-06-10T22:09:28Z | [open](../records/satcom-satellites-trishmapow-rf-jam-replay-654ac757.md) |
 | TrunkRecorder/trunk-recorder | partial | 2026-09-01T12:59:38Z | [open](../records/satcom-satellites-trunkrecorder-trunk-recorder-7832a301.md) |
@@ -5235,7 +5237,7 @@ Records: `5579`
 | EdgeTX/edgetx | partial | 2026-09-04T07:01:16Z | [open](../records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) |
 | eldraco/Salamandra | partial | 2021-01-11T15:40:06Z | [open](../records/electromagnetoscopes-eldraco-salamandra-ba7bbc86.md) |
 | fancompute/ceviche | partial | 2023-07-06T21:35:53Z | [open](../records/electromagnetoscopes-fancompute-ceviche-da009145.md) |
-| fanmingming/live | partial | 2026-09-05T08:28:57Z | [open](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
+| fanmingming/live | partial | 2026-09-05T12:31:41Z | [open](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
 | FennisRobert/EMerge | partial | 2026-08-31T16:18:14Z | [open](../records/electromagnetoscopes-fennisrobert-emerge-a03ffe6e.md) |
 | fooyin/fooyin | partial | 2026-09-03T07:22:50Z | [open](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) |
 | git-artes/gr-tempest | partial | 2025-02-10T16:57:09Z | [open](../records/electromagnetoscopes-git-artes-gr-tempest-b9f52116.md) |
@@ -5258,7 +5260,7 @@ Records: `5579`
 | portapack-mayhem/mayhem-firmware | partial | 2026-09-03T00:29:28Z | [open](../records/electromagnetoscopes-portapack-mayhem-mayhem-firmware-cb62b83c.md) |
 | RedBlight/EFVIE-MoM | partial | 2019-01-23T21:41:27Z | [open](../records/electromagnetoscopes-redblight-efvie-mom-8c3c7dd0.md) |
 | rt-bishop/Look4Sat | partial | 2026-09-03T07:40:26Z | [open](../records/electromagnetoscopes-rt-bishop-look4sat-dfffa481.md) |
-| SatDump/SatDump | partial | 2026-09-05T06:10:36Z | [open](../records/electromagnetoscopes-satdump-satdump-fdc13054.md) |
+| SatDump/SatDump | partial | 2026-09-05T09:42:44Z | [open](../records/electromagnetoscopes-satdump-satdump-fdc13054.md) |
 | segler-alex/RadioDroid | partial | 2024-06-26T20:46:45Z | [open](../records/electromagnetoscopes-segler-alex-radiodroid-e99cfdba.md) |
 | simonp0420/TicraUtilities.jl | partial | 2026-06-22T22:24:26Z | [open](../records/electromagnetoscopes-simonp0420-ticrautilities-jl-0671de6b.md) |
 | simpeg-research/heagy-2018-fracture-physprops | partial | 2019-07-06T23:36:52Z | [open](../records/electromagnetoscopes-simpeg-research-heagy-2018-fracture-physprops-3c8b196c.md) |

@@ -5,22 +5,22 @@
 ## Category Index
 
 [Api Abi Checker (216)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (136)](by-category/async-runtime.md)
-[Benchmarking (194)](by-category/benchmarking.md) · [Build System (982)](by-category/build-system.md) · [Cli (561)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (194)](by-category/benchmarking.md) · [Build System (984)](by-category/build-system.md) · [Cli (561)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (116)](by-category/community-reference.md) · [Compiler (175)](by-category/compiler.md) · [Compiler Diagnostics (23)](by-category/compiler-diagnostics.md) · [Compression (50)](by-category/compression.md)
 [Concurrency Parallelism (89)](by-category/concurrency-parallelism.md) · [Configuration (128)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (173)](by-category/cryptography.md) · [Data Science (38)](by-category/data-science.md) · [Database Datastore (888)](by-category/database-datastore.md) · [Datetime (223)](by-category/datetime.md)
+[Cryptography (173)](by-category/cryptography.md) · [Data Science (38)](by-category/data-science.md) · [Database Datastore (889)](by-category/database-datastore.md) · [Datetime (223)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (101)](by-category/dependency-manager.md) · [Documentation (103)](by-category/documentation.md)
-[Embedded Hardware (56)](by-category/embedded-hardware.md) · [Ffi Bindings (452)](by-category/ffi-bindings.md) · [Filesystem Os (1569)](by-category/filesystem-os.md) · [Formatter (643)](by-category/formatter.md)
-[Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (354)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1445)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (430)](by-category/image-audio-dsp.md) · [Interop Bindings (61)](by-category/interop-bindings.md) · [Interpreter Runtime (267)](by-category/interpreter-runtime.md) · [Jit Vm (63)](by-category/jit-vm.md)
-[Language Server (29)](by-category/language-server.md) · [Language Specification (1429)](by-category/language-specification.md) · [Library (5579)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (519)](by-category/logging-observability.md) · [Machine Learning (770)](by-category/machine-learning.md)
+[Embedded Hardware (56)](by-category/embedded-hardware.md) · [Ffi Bindings (452)](by-category/ffi-bindings.md) · [Filesystem Os (1570)](by-category/filesystem-os.md) · [Formatter (644)](by-category/formatter.md)
+[Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (354)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1449)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (431)](by-category/image-audio-dsp.md) · [Interop Bindings (61)](by-category/interop-bindings.md) · [Interpreter Runtime (267)](by-category/interpreter-runtime.md) · [Jit Vm (63)](by-category/jit-vm.md)
+[Language Server (29)](by-category/language-server.md) · [Language Specification (1431)](by-category/language-specification.md) · [Library (5581)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (519)](by-category/logging-observability.md) · [Machine Learning (772)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1029)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (441)](by-category/package-manager.md) · [Parser Lexer Ast (1089)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](by-category/precommit-ci-quality.md)
-[Profiler (86)](by-category/profiler.md) · [Project Scaffolding (132)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (14)](by-category/sanitizer.md)
-[Security Sast (336)](by-category/security-sast.md) · [Serialization (394)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (597)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (604)](by-category/testing-framework.md) · [Tutorial Book Styleguide (63)](by-category/tutorial-book-styleguide.md) · [Type Checker (313)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1596)](by-category/undefined-behavior-analyzer.md) · [Utility Library (103)](by-category/utility-library.md) · [Visualization Gui (547)](by-category/visualization-gui.md) · [Web Framework (476)](by-category/web-framework.md)
+[Other (14)](by-category/other.md) · [Package Manager (441)](by-category/package-manager.md) · [Parser Lexer Ast (1135)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](by-category/precommit-ci-quality.md)
+[Profiler (86)](by-category/profiler.md) · [Project Scaffolding (133)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (15)](by-category/sanitizer.md)
+[Security Sast (336)](by-category/security-sast.md) · [Serialization (394)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (600)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (605)](by-category/testing-framework.md) · [Tutorial Book Styleguide (63)](by-category/tutorial-book-styleguide.md) · [Type Checker (313)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (1601)](by-category/undefined-behavior-analyzer.md) · [Utility Library (103)](by-category/utility-library.md) · [Visualization Gui (547)](by-category/visualization-gui.md) · [Web Framework (476)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -1653,6 +1653,7 @@
 | `cran_packages_by_date-80518942fd13ed` | heims | [open](records/r-heims-9499322e.md) |
 | `cran_packages_by_date-807e0427188c10` | semFromKeys | [open](records/r-semfromkeys-de1ad150.md) |
 | `cran_packages_by_date-8084c2f704e518` | MosaiClusteR | [open](records/r-mosaicluster-ce1436ef.md) |
+| `cran_packages_by_date-8096f14e3e243d` | ggcube | [open](records/r-ggcube-007d0658.md) |
 | `cran_packages_by_date-80af2604ba3102` | poisFErobust | [open](records/r-poisferobust-16b12538.md) |
 | `cran_packages_by_date-80ce6a87d52ffa` | inDAGO | [open](records/r-indago-b844b578.md) |
 | `cran_packages_by_date-80d9ba49c0309d` | nwaa | [open](records/r-nwaa-61b53c4d.md) |
@@ -12678,6 +12679,7 @@
 | `github_search_radio_garden_speciality-a2d742d8f02c5c` | jay117king/global-homicide-globe | [open](records/radio-garden-speciality-jay117king-global-homicide-globe-5cf41c4d.md) |
 | `github_search_radio_garden_speciality-a7cb014cd6cde1` | Ebullioscopic/Radio | [open](records/radio-garden-speciality-ebullioscopic-radio-98dffce4.md) |
 | `github_search_radio_garden_speciality-aa3775227ee307` | steferic/world-radio | [open](records/radio-garden-speciality-steferic-world-radio-21a7ef08.md) |
+| `github_search_radio_garden_speciality-ad720436513777` | LuisAlbertoMunozUbando/MySelectiveRadioGarden | [open](records/radio-garden-speciality-luisalbertomunozubando-myselectiveradiogarden-5a3fdefb.md) |
 | `github_search_radio_garden_speciality-b07c8277ef3fcc` | ZoltCyber/file.js | [open](records/radio-garden-speciality-zoltcyber-file-js-199ca939.md) |
 | `github_search_radio_garden_speciality-b0e18acd4617d7` | lucascbarbosa/RadioGardenAIGeolocator | [open](records/radio-garden-speciality-lucascbarbosa-radiogardenaigeolocator-bad3fddf.md) |
 | `github_search_radio_garden_speciality-b13cea69f8c268` | Undertaker-afk/radio.garden-API-wrapper | [open](records/radio-garden-speciality-undertaker-afk-radio-garden-api-wrapper-bafa8c74.md) |
@@ -12839,6 +12841,7 @@
 | `github_search_repertoare_catalogs-fca35a08e13651` | araujotja/ensaio_pro_app | [open](records/repertoare-catalogs-araujotja-ensaio-pro-app-64bf28aa.md) |
 | `github_search_repertoare_catalogs-fd75a2a495eb96` | Venkat-023/Amazon_MachineLearning-Hackathon | [open](records/repertoare-catalogs-venkat-023-amazon-machinelearning-hackathon-613bdfda.md) |
 | `github_search_repertoare_catalogs-fe830f68596b3e` | annademis/Anna-Demis | [open](records/repertoare-catalogs-annademis-anna-demis-858c2127.md) |
+| `github_search_repertoare_catalogs-fe9728ed9603d3` | Federico-Aguirre/Veterinaria_Laravel | [open](records/repertoare-catalogs-federico-aguirre-veterinaria-laravel-0ef91b6e.md) |
 | `github_search_repertoare_catalogs-fee59e7b695de1` | PGScatalog/pgscatalog_utils | [open](records/repertoare-catalogs-pgscatalog-pgscatalog-utils-713d360f.md) |
 | `github_search_repertoare_catalogs-ff15fcdd2fea46` | jayesh265/classifying_songs_based_on_audio_data | [open](records/repertoare-catalogs-jayesh265-classifying-songs-based-on-audio-data-c26a05ff.md) |
 | `github_search_repertoare_catalogs-ff1d836c7d20b1` | thanhtai9606/iiot-platform | [open](records/repertoare-catalogs-thanhtai9606-iiot-platform-8fe9e6d1.md) |
@@ -14476,59 +14479,84 @@
 | `github_search_swift-fe7c150e6907e6` | mac-cain13/R.swift | [open](records/swift-mac-cain13-r-swift-576f6e69.md) |
 | `github_search_telescopes-009f90de4d46d5` | eckon/treesitter-current-functions | [open](records/telescopes-eckon-treesitter-current-functions-5a7e459d.md) |
 | `github_search_telescopes-0365ec2809b451` | LouisDesdoigts/dLux | [open](records/telescopes-louisdesdoigts-dlux-10106405.md) |
+| `github_search_telescopes-047c18068d34d0` | mengchaoheng/PINDI | [open](records/telescopes-mengchaoheng-pindi-082f8769.md) |
 | `github_search_telescopes-04e99f81f93116` | larrylart/Unimap | [open](records/telescopes-larrylart-unimap-07a1fd44.md) |
 | `github_search_telescopes-06e55c2fef7535` | nforrester/NexPlane | [open](records/telescopes-nforrester-nexplane-4845bbeb.md) |
 | `github_search_telescopes-07ef801d251143` | joaomsa/telescope-orgmode.nvim | [open](records/telescopes-joaomsa-telescope-orgmode-nvim-ca5f0569.md) |
+| `github_search_telescopes-08310b1008a064` | N3RDIUM/astropi | [open](records/telescopes-n3rdium-astropi-a4c92c26.md) |
+| `github_search_telescopes-08e15fab7eba2c` | rOpenGov/regions | [open](records/telescopes-ropengov-regions-f411571c.md) |
 | `github_search_telescopes-094316537ce858` | jagi/meteor-astronomy | [open](records/telescopes-jagi-meteor-astronomy-415c00fc.md) |
 | `github_search_telescopes-09cb2dac645b7f` | AlphaTechnolog/pywal.nvim | [open](records/telescopes-alphatechnolog-pywal-nvim-15fcecb4.md) |
+| `github_search_telescopes-0dabe0fcf4ead5` | michelegz/astro-web-indexer | [open](records/telescopes-michelegz-astro-web-indexer-3a733ac6.md) |
+| `github_search_telescopes-0e29a55e842273` | deufrai/als | [open](records/telescopes-deufrai-als-5c30d710.md) |
+| `github_search_telescopes-0e398a316b9ef9` | eta077/astro-rs | [open](records/telescopes-eta077-astro-rs-95d1a561.md) |
 | `github_search_telescopes-0ec09815f01fde` | dhruvmanila/browser-bookmarks.nvim | [open](records/telescopes-dhruvmanila-browser-bookmarks-nvim-8f81d947.md) |
 | `github_search_telescopes-0ecc0fc45133c8` | davidgranstrom/telescope-scdoc.nvim | [open](records/telescopes-davidgranstrom-telescope-scdoc-nvim-8cc12bb5.md) |
 | `github_search_telescopes-0f552d48f38af7` | Snikimonkd/telescope-git-conflicts.nvim | [open](records/telescopes-snikimonkd-telescope-git-conflicts-nvim-698ea0ce.md) |
 | `github_search_telescopes-0f9dad9bae9829` | gammapy/gammapy | [open](records/telescopes-gammapy-gammapy-7129fa62.md) |
+| `github_search_telescopes-0fc4b58fe41323` | Hrishikesh332/Astronomy_Analysis | [open](records/telescopes-hrishikesh332-astronomy-analysis-714231c8.md) |
 | `github_search_telescopes-11d7ff07a8e521` | dr-guangtou/taotie | [open](records/telescopes-dr-guangtou-taotie-0cb096d6.md) |
+| `github_search_telescopes-11f3b3dc09bfd9` | bschulz81/hyperbolicfitdll | [open](records/telescopes-bschulz81-hyperbolicfitdll-240f2cce.md) |
 | `github_search_telescopes-129589fc329797` | MITHaystack/srt-py | [open](records/telescopes-mithaystack-srt-py-1ec91517.md) |
 | `github_search_telescopes-1427c000f214d2` | LinArcX/telescope-command-palette.nvim | [open](records/telescopes-linarcx-telescope-command-palette-nvim-3303e19b.md) |
 | `github_search_telescopes-1504705bf046a7` | gnudatalanguage/gdl | [open](records/telescopes-gnudatalanguage-gdl-37cda6a5.md) |
 | `github_search_telescopes-18ac391ecdbf9f` | mrjones2014/dash.nvim | [open](records/telescopes-mrjones2014-dash-nvim-c0435f14.md) |
 | `github_search_telescopes-1a4b207a1c5d71` | mrcjkb/telescope-manix | [open](records/telescopes-mrcjkb-telescope-manix-74de5637.md) |
+| `github_search_telescopes-1a6d0081eb5594` | JuliaAstro/AstroImages.jl | [open](records/telescopes-juliaastro-astroimages-jl-2c56131c.md) |
 | `github_search_telescopes-1a734b431b8c3c` | PlasmaPy/PlasmaPy | [open](records/telescopes-plasmapy-plasmapy-dcb9bd68.md) |
+| `github_search_telescopes-1ac8bc598b172b` | chvvkumar/simpleCloudDetect | [open](records/telescopes-chvvkumar-simpleclouddetect-adc81530.md) |
+| `github_search_telescopes-1b00d0d20f9df9` | CanardConfit/ASTAP | [open](records/telescopes-canardconfit-astap-eec24545.md) |
 | `github_search_telescopes-1d36b608584145` | kylecorry31/Trail-Sense | [open](records/telescopes-kylecorry31-trail-sense-8d97a469.md) |
 | `github_search_telescopes-1da8f8580a4a49` | softinio/scaladex.nvim | [open](records/telescopes-softinio-scaladex-nvim-76db7af3.md) |
 | `github_search_telescopes-208449bbb01f6c` | aznhe21/actions-preview.nvim | [open](records/telescopes-aznhe21-actions-preview-nvim-d41b4fb7.md) |
 | `github_search_telescopes-21f2da38bc227c` | Shatur/neovim-session-manager | [open](records/telescopes-shatur-neovim-session-manager-c85f7378.md) |
 | `github_search_telescopes-24512529bf3a71` | sudormrfbin/cheatsheet.nvim | [open](records/telescopes-sudormrfbin-cheatsheet-nvim-a26ebb27.md) |
+| `github_search_telescopes-25de563b1ec960` | Finalfantasykid/AstraStack | [open](records/telescopes-finalfantasykid-astrastack-66fe0f8a.md) |
+| `github_search_telescopes-27fa0a506b42e3` | p7ayfu77/astro-csbdeep | [open](records/telescopes-p7ayfu77-astro-csbdeep-eff55526.md) |
 | `github_search_telescopes-28036e3145be3d` | xavierchanth/arbor.nvim | [open](records/telescopes-xavierchanth-arbor-nvim-2f20d8ec.md) |
 | `github_search_telescopes-28167c50981c41` | ATTron/astroz | [open](records/telescopes-attron-astroz-fcd297f0.md) |
 | `github_search_telescopes-2a8708a881a8d0` | GustavoKatel/telescope-asynctasks.nvim | [open](records/telescopes-gustavokatel-telescope-asynctasks-nvim-ad6e6fbf.md) |
 | `github_search_telescopes-2ce0f60a02fcce` | Stellarium/stellarium | [open](records/telescopes-stellarium-stellarium-a274d765.md) |
 | `github_search_telescopes-2d18d9d78b2c4c` | sunpy/sunpy | [open](records/telescopes-sunpy-sunpy-52ba6b6e.md) |
+| `github_search_telescopes-2efd3361895cc6` | totoantibes/NinaLumixPlugin | [open](records/telescopes-totoantibes-ninalumixplugin-48d25f8b.md) |
 | `github_search_telescopes-2f18e765238269` | ryanmsnyder/toggleterm-manager.nvim | [open](records/telescopes-ryanmsnyder-toggleterm-manager-nvim-18379843.md) |
 | `github_search_telescopes-30e1faff5b960c` | dcf21/star-charter | [open](records/telescopes-dcf21-star-charter-9c0209b9.md) |
 | `github_search_telescopes-31d2c480ee5e21` | sanderblue/solar-system-threejs | [open](records/telescopes-sanderblue-solar-system-threejs-9534bfd9.md) |
 | `github_search_telescopes-33e2b9b530cc11` | blechschmidt/tlsdump | [open](records/telescopes-blechschmidt-tlsdump-f07ea054.md) |
+| `github_search_telescopes-34c5587524f1c0` | DaveStrickland/AstroPhotography | [open](records/telescopes-davestrickland-astrophotography-b80c443a.md) |
+| `github_search_telescopes-34e927af8daae9` | simonvoelcker/astrotools | [open](records/telescopes-simonvoelcker-astrotools-00019eec.md) |
 | `github_search_telescopes-3580aedee4f9be` | archie-judd/telescope-words.nvim | [open](records/telescopes-archie-judd-telescope-words-nvim-225d2743.md) |
 | `github_search_telescopes-363d4dc0450daa` | cosmonium/cosmonium | [open](records/telescopes-cosmonium-cosmonium-96f84ede.md) |
 | `github_search_telescopes-37da3fc78a28d7` | sergiodm92/spring-telemetry | [open](records/telescopes-sergiodm92-spring-telemetry-4719431b.md) |
 | `github_search_telescopes-39670b071d09eb` | olacin/telescope-gitmoji.nvim | [open](records/telescopes-olacin-telescope-gitmoji-nvim-c2e56abe.md) |
+| `github_search_telescopes-396ca7e3b2471c` | TheCyberBrick/FITS-Rating-Tool | [open](records/telescopes-thecyberbrick-fits-rating-tool-77c09794.md) |
 | `github_search_telescopes-39d68bb6cc2224` | Mirsmog/real-icons.nvim | [open](records/telescopes-mirsmog-real-icons-nvim-2ffc30c6.md) |
 | `github_search_telescopes-3a3f3c452ad131` | eleanorlutz/topography_atlas_of_space | [open](records/telescopes-eleanorlutz-topography-atlas-of-space-2e398843.md) |
+| `github_search_telescopes-3add5fd8e30068` | nom-tam-fits/nom-tam-fits | [open](records/telescopes-nom-tam-fits-nom-tam-fits-09f1fe88.md) |
+| `github_search_telescopes-3b5d5d17d1cc45` | MattBlack85/astro_monitor | [open](records/telescopes-mattblack85-astro-monitor-5e2ed47c.md) |
 | `github_search_telescopes-3f888108a3a0f8` | thkruz/keeptrack.space | [open](records/telescopes-thkruz-keeptrack-space-032f29ef.md) |
 | `github_search_telescopes-403684d2e53074` | omaralalwi/laravel-trash-cleaner | [open](records/telescopes-omaralalwi-laravel-trash-cleaner-15ae296c.md) |
+| `github_search_telescopes-41726784504e08` | code2k13/starrem2k13 | [open](records/telescopes-code2k13-starrem2k13-f90d7b2c.md) |
 | `github_search_telescopes-42742788b70bb5` | rcos/Telescope | [open](records/telescopes-rcos-telescope-e587062a.md) |
 | `github_search_telescopes-43fcc8339c0ac5` | 2KAbhishek/nerdy.nvim | [open](records/telescopes-2kabhishek-nerdy-nvim-defd76cd.md) |
 | `github_search_telescopes-44abfd770ebaad` | homerours/jumper.nvim | [open](records/telescopes-homerours-jumper-nvim-59a84a3b.md) |
 | `github_search_telescopes-45c720a444bca4` | ceeK/Solar | [open](records/telescopes-ceek-solar-b80514c1.md) |
 | `github_search_telescopes-467ce75244385f` | IllustratedMan-code/telescope-conda.nvim | [open](records/telescopes-illustratedman-code-telescope-conda-nvim-88630c73.md) |
+| `github_search_telescopes-4a1f6ef2db348e` | sidereal-io/sidereal | [open](records/telescopes-sidereal-io-sidereal-a812056c.md) |
+| `github_search_telescopes-4b8ec17bd4ac1f` | code2k13/starreduction | [open](records/telescopes-code2k13-starreduction-52978118.md) |
 | `github_search_telescopes-4d83b94d2745de` | jobovy/galpy | [open](records/telescopes-jobovy-galpy-b2e4e9ec.md) |
 | `github_search_telescopes-4e91f887f6b5f2` | eleanorlutz/asteroids_atlas_of_space | [open](records/telescopes-eleanorlutz-asteroids-atlas-of-space-5e2261e2.md) |
+| `github_search_telescopes-4ece95a47437fd` | brampf/fitscore | [open](records/telescopes-brampf-fitscore-f3e58817.md) |
 | `github_search_telescopes-502e3378b2b935` | 0xJohnnyboy/scretch.nvim | [open](records/telescopes-0xjohnnyboy-scretch-nvim-f6966b66.md) |
 | `github_search_telescopes-50c7e12aa09b2b` | astropy/photutils | [open](records/telescopes-astropy-photutils-5b2bafdc.md) |
 | `github_search_telescopes-52198b46f30812` | mawinkler/uptonight | [open](records/telescopes-mawinkler-uptonight-837cb976.md) |
+| `github_search_telescopes-5423e78bb6b7fa` | astrolabsoftware/spark-fits | [open](records/telescopes-astrolabsoftware-spark-fits-2f90fa6e.md) |
 | `github_search_telescopes-54b0e4fff0d30d` | crispgm/telescope-heading.nvim | [open](records/telescopes-crispgm-telescope-heading-nvim-a4ff0631.md) |
 | `github_search_telescopes-5547cb4ff4eb05` | hyqzz/Solar-Wanderer | [open](records/telescopes-hyqzz-solar-wanderer-ebebad0b.md) |
 | `github_search_telescopes-56cb4f9fe410e7` | walkersumida/fusen.nvim | [open](records/telescopes-walkersumida-fusen-nvim-d886ad1f.md) |
 | `github_search_telescopes-606a5e10934b23` | natecraddock/telescope-zf-native.nvim | [open](records/telescopes-natecraddock-telescope-zf-native-nvim-b5f7ffd2.md) |
 | `github_search_telescopes-61bfdef3cbc8cc` | dEskoG/rDUINOScope | [open](records/telescopes-deskog-rduinoscope-0542432f.md) |
+| `github_search_telescopes-65c7ac76eb29ba` | iff-gsc/FTC_Quadrotor_EuroGNC_2022 | [open](records/telescopes-iff-gsc-ftc-quadrotor-eurognc-2022-2e374214.md) |
 | `github_search_telescopes-66ee9560d52d60` | ppp-one/astra | [open](records/telescopes-ppp-one-astra-58695d7f.md) |
 | `github_search_telescopes-67709205768c59` | ellisonleao/neovimfiles | [open](records/telescopes-ellisonleao-neovimfiles-a38f6921.md) |
 | `github_search_telescopes-6790bd8ed6996a` | rafi/telescope-thesaurus.nvim | [open](records/telescopes-rafi-telescope-thesaurus-nvim-35ed2231.md) |
@@ -14537,75 +14565,117 @@
 | `github_search_telescopes-6b8a7b663e6ba6` | CosmicNvim/CosmicNvim | [open](records/telescopes-cosmicnvim-cosmicnvim-093f95f7.md) |
 | `github_search_telescopes-6beefe48ea41f7` | trehn/termtrack | [open](records/telescopes-trehn-termtrack-6877d137.md) |
 | `github_search_telescopes-6c7db4216ae6e5` | olacin/telescope-cc.nvim | [open](records/telescopes-olacin-telescope-cc-nvim-a6311075.md) |
+| `github_search_telescopes-6f9115d0efc888` | mrantonSG/nova_DSO_tracker | [open](records/telescopes-mrantonsg-nova-dso-tracker-437046eb.md) |
 | `github_search_telescopes-709a6d7e16ac03` | adoyle-h/lsp-toggle.nvim | [open](records/telescopes-adoyle-h-lsp-toggle-nvim-8d7889c6.md) |
 | `github_search_telescopes-719431c065466b` | LinArcX/telescope-ports.nvim | [open](records/telescopes-linarcx-telescope-ports-nvim-821a2333.md) |
 | `github_search_telescopes-72d3853c20b346` | OkelleyDevelopment/Odinvim | [open](records/telescopes-okelleydevelopment-odinvim-46fc76c3.md) |
 | `github_search_telescopes-741dd745238c1d` | cljoly/telescope-repo.nvim | [open](records/telescopes-cljoly-telescope-repo-nvim-9d2cb15e.md) |
+| `github_search_telescopes-78b35125ab42a4` | sshh12/astro-app | [open](records/telescopes-sshh12-astro-app-9e112594.md) |
 | `github_search_telescopes-7a43e1d60b896a` | asdf-format/asdf | [open](records/telescopes-asdf-format-asdf-fb2b7c55.md) |
 | `github_search_telescopes-7be92c74b77f53` | sajmons/CollimationCircles | [open](records/telescopes-sajmons-collimationcircles-e6bba2db.md) |
 | `github_search_telescopes-7c8348d4e129a8` | meridianfield/pushnav | [open](records/telescopes-meridianfield-pushnav-d0b59adc.md) |
+| `github_search_telescopes-7d20a23a2acb2d` | iff-gsc/SE2A_GLA_INDI | [open](records/telescopes-iff-gsc-se2a-gla-indi-233ba9cd.md) |
 | `github_search_telescopes-7db331da40b417` | huzaifaarain/telescope-guzzle-watcher | [open](records/telescopes-huzaifaarain-telescope-guzzle-watcher-2e292ea6.md) |
+| `github_search_telescopes-7e5eaa98bfcd28` | haniframadhani/gahi | [open](records/telescopes-haniframadhani-gahi-be8d43f9.md) |
 | `github_search_telescopes-7eca67b98e2b6e` | astropy/astroquery | [open](records/telescopes-astropy-astroquery-218a1107.md) |
+| `github_search_telescopes-83709c8d458e55` | NikodemBartnik/StarTrckr | [open](records/telescopes-nikodembartnik-startrckr-78fbca77.md) |
+| `github_search_telescopes-83fe1717114603` | dividebysandwich/LightningView | [open](records/telescopes-dividebysandwich-lightningview-0f2e3357.md) |
+| `github_search_telescopes-8433b8d5914935` | Photosounder/Voyager-Image-Decoder | [open](records/telescopes-photosounder-voyager-image-decoder-cf8e7042.md) |
+| `github_search_telescopes-87b6869429e0cd` | eaydin/cr2fits | [open](records/telescopes-eaydin-cr2fits-b320d7be.md) |
+| `github_search_telescopes-896361308eb7d9` | BenJuan26/OpenSkyStacker | [open](records/telescopes-benjuan26-openskystacker-f95f560a.md) |
+| `github_search_telescopes-8987c58afb68b4` | wkasteleijn/luckystackworker | [open](records/telescopes-wkasteleijn-luckystackworker-37d676e4.md) |
 | `github_search_telescopes-8b7d9507767a1a` | iamtelescope/telescope | [open](records/telescopes-iamtelescope-telescope-3d9294c3.md) |
 | `github_search_telescopes-8dba8c412e215b` | lightkurve/lightkurve | [open](records/telescopes-lightkurve-lightkurve-47762682.md) |
 | `github_search_telescopes-8dca43e2a00c25` | haxybaxy/search-preview | [open](records/telescopes-haxybaxy-search-preview-99f16a30.md) |
 | `github_search_telescopes-8edfc1e82f6bad` | Shatur/neovim-cmake | [open](records/telescopes-shatur-neovim-cmake-ad8d2155.md) |
+| `github_search_telescopes-908e659eefc033` | DIYAstro/SV241-Unbound | [open](records/telescopes-diyastro-sv241-unbound-3a3fbd0f.md) |
+| `github_search_telescopes-912d344d6f13b2` | mlnoga/nightlight | [open](records/telescopes-mlnoga-nightlight-efb6d1ef.md) |
+| `github_search_telescopes-915760aaabc53e` | lunohodov/awesome-astrophotography | [open](records/telescopes-lunohodov-awesome-astrophotography-770389b7.md) |
+| `github_search_telescopes-9170b80dd75279` | jbrazio/ardufocus-ascom | [open](records/telescopes-jbrazio-ardufocus-ascom-dca68881.md) |
+| `github_search_telescopes-9612e6e7541027` | RononDex/Astrobot | [open](records/telescopes-ronondex-astrobot-cb92f0ee.md) |
+| `github_search_telescopes-96b243a4a1f37c` | matwey/fips3 | [open](records/telescopes-matwey-fips3-150220e8.md) |
 | `github_search_telescopes-96e3c7d64398ae` | mrcjkb/haskell-tools.nvim | [open](records/telescopes-mrcjkb-haskell-tools-nvim-94956c21.md) |
 | `github_search_telescopes-970cf7cbe7d55e` | Jubstaaa/hono-telescope | [open](records/telescopes-jubstaaa-hono-telescope-327995c1.md) |
 | `github_search_telescopes-97a420eaecec83` | shivamashtikar/tmuxjump.vim | [open](records/telescopes-shivamashtikar-tmuxjump-vim-6d96d0e3.md) |
 | `github_search_telescopes-991b535156b264` | eleanorlutz/western_constellations_atlas_of_space | [open](records/telescopes-eleanorlutz-western-constellations-atlas-of-space-592f03e0.md) |
 | `github_search_telescopes-9a43e1dc802cdd` | astropy-learn/astropy-tutorials | [open](records/telescopes-astropy-learn-astropy-tutorials-c1f9e6d9.md) |
+| `github_search_telescopes-9bb579d2a6b03d` | ogecko/alpaca-benro-polaris | [open](records/telescopes-ogecko-alpaca-benro-polaris-3524c582.md) |
 | `github_search_telescopes-9fdd73492e0376` | lpoto/telescope-tasks.nvim | [open](records/telescopes-lpoto-telescope-tasks-nvim-3dca6af5.md) |
 | `github_search_telescopes-a050f8402c0926` | nasa/apod-api | [open](records/telescopes-nasa-apod-api-d5408ab7.md) |
 | `github_search_telescopes-a1b590e0a732f4` | Julien-R44/adoscope | [open](records/telescopes-julien-r44-adoscope-0cdd9994.md) |
 | `github_search_telescopes-a1cb671653cc47` | TelescopeSt/Telescope | [open](records/telescopes-telescopest-telescope-df0ef5c0.md) |
 | `github_search_telescopes-a1cb9448f33484` | 2KAbhishek/pickme.nvim | [open](records/telescopes-2kabhishek-pickme-nvim-dc5f28fc.md) |
+| `github_search_telescopes-a1f5b53cb50282` | venturachrisdev/Cygnus-Astro | [open](records/telescopes-venturachrisdev-cygnus-astro-c5c62294.md) |
 | `github_search_telescopes-a20f65ab51d09c` | olimorris/persisted.nvim | [open](records/telescopes-olimorris-persisted-nvim-138af3cc.md) |
+| `github_search_telescopes-a5b6b8a07978a0` | avarakin/AstroPiMaker4 | [open](records/telescopes-avarakin-astropimaker4-f79e5cbf.md) |
 | `github_search_telescopes-a6617bc8e78918` | alexpasmantier/tv.nvim | [open](records/telescopes-alexpasmantier-tv-nvim-6a62173d.md) |
 | `github_search_telescopes-a89beb01f2caeb` | octarect/telescope-menu.nvim | [open](records/telescopes-octarect-telescope-menu-nvim-fca0ddf6.md) |
 | `github_search_telescopes-a9edd1f978011f` | telescopejs/telescope | [open](records/telescopes-telescopejs-telescope-9a7aefae.md) |
 | `github_search_telescopes-aaeffbbba1d15f` | mrjones2014/tldr.nvim | [open](records/telescopes-mrjones2014-tldr-nvim-207a9aa6.md) |
+| `github_search_telescopes-ab57b7951483fa` | pozar87/apts | [open](records/telescopes-pozar87-apts-83794b7a.md) |
 | `github_search_telescopes-ad3f8e2fe2ec8d` | OpenAstroTech/OpenAstroTracker | [open](records/telescopes-openastrotech-openastrotracker-3176cfcc.md) |
+| `github_search_telescopes-ae95d5850d101e` | spacetelescope/PyFITS | [open](records/telescopes-spacetelescope-pyfits-d1bbebf9.md) |
 | `github_search_telescopes-b03e0408a8886b` | benfowler/telescope-luasnip.nvim | [open](records/telescopes-benfowler-telescope-luasnip-nvim-10f15a0d.md) |
 | `github_search_telescopes-b2f7b11b4b1fa0` | saurvs/astro-rust | [open](records/telescopes-saurvs-astro-rust-3d0d6b1c.md) |
+| `github_search_telescopes-b379578acf3345` | StefanoTesla/TeslaBoard | [open](records/telescopes-stefanotesla-teslaboard-f09975c6.md) |
 | `github_search_telescopes-b3ca0dcf24b9d1` | aaronwmorris/indi-allsky | [open](records/telescopes-aaronwmorris-indi-allsky-aa5014e3.md) |
 | `github_search_telescopes-b6f2a01619b01b` | kiyoon/telescope-insert-path.nvim | [open](records/telescopes-kiyoon-telescope-insert-path-nvim-3fd7ca24.md) |
 | `github_search_telescopes-b75da602bae8ea` | mogretici/nestlens | [open](records/telescopes-mogretici-nestlens-ca5e47cb.md) |
+| `github_search_telescopes-b868ffcb10e364` | DeepSkyWorkflows/DeepSkyWorkflowScripts | [open](records/telescopes-deepskyworkflows-deepskyworkflowscripts-4a9161f2.md) |
+| `github_search_telescopes-b95ead7064e91f` | isbeorn/nina | [open](records/telescopes-isbeorn-nina-4637757e.md) |
 | `github_search_telescopes-b9cf9cea4e1e2a` | cuducos/yaml.nvim | [open](records/telescopes-cuducos-yaml-nvim-ad137727.md) |
 | `github_search_telescopes-b9e57bdedee296` | nvim-telescope/telescope-fzf-native.nvim | [open](records/telescopes-nvim-telescope-telescope-fzf-native-nvim-4183d483.md) |
 | `github_search_telescopes-ba3feebd3496e8` | tmolteno/TART | [open](records/telescopes-tmolteno-tart-8a3c3343.md) |
+| `github_search_telescopes-ba7e35f699ae63` | devDucks/astroarch | [open](records/telescopes-devducks-astroarch-da19d5c6.md) |
+| `github_search_telescopes-bb2593f1a640ca` | RononDex/FitsLibrary | [open](records/telescopes-ronondex-fitslibrary-5bc342d5.md) |
+| `github_search_telescopes-bb4c764ac59f82` | danieljprice/splash | [open](records/telescopes-danieljprice-splash-ecd53203.md) |
 | `github_search_telescopes-bb50ba6565dbe5` | astrorigin/pyswisseph | [open](records/telescopes-astrorigin-pyswisseph-f5236430.md) |
 | `github_search_telescopes-bccb34614cbf87` | davvid/telescope-git-grep.nvim | [open](records/telescopes-davvid-telescope-git-grep-nvim-293ec16a.md) |
+| `github_search_telescopes-bdc6230daf1ce5` | OpenAstroTech/OATFWGUI | [open](records/telescopes-openastrotech-oatfwgui-6a7860e7.md) |
 | `github_search_telescopes-bdc6e1236de02c` | DeepskyLog/DeepskyLog | [open](records/telescopes-deepskylog-deepskylog-0556deb4.md) |
 | `github_search_telescopes-bf28f273633f24` | GalSim-developers/GalSim | [open](records/telescopes-galsim-developers-galsim-53e2cf2c.md) |
 | `github_search_telescopes-c18d2dcf3e8191` | synfinatic/alpacascope | [open](records/telescopes-synfinatic-alpacascope-e4f80071.md) |
 | `github_search_telescopes-c1fd386bb28d94` | guilhermec-costa/code-telescope | [open](records/telescopes-guilhermec-costa-code-telescope-939f113e.md) |
 | `github_search_telescopes-c4f57aa47a54c7` | m4opt/m4opt | [open](records/telescopes-m4opt-m4opt-6b7434b6.md) |
+| `github_search_telescopes-c566403933b191` | mbeher2200/DarkHours | [open](records/telescopes-mbeher2200-darkhours-86ce9265.md) |
 | `github_search_telescopes-c690600df80f84` | nvim-telescope/telescope-github.nvim | [open](records/telescopes-nvim-telescope-telescope-github-nvim-5e97e37e.md) |
 | `github_search_telescopes-c7e5f206db24e6` | prochri/telescope-all-recent.nvim | [open](records/telescopes-prochri-telescope-all-recent-nvim-23cc39a0.md) |
 | `github_search_telescopes-c7ee2e58f4b390` | theorytoe/nii-nvim | [open](records/telescopes-theorytoe-nii-nvim-63ad25bd.md) |
 | `github_search_telescopes-c922a94bceac11` | vedika-io/xalen-ephemeris | [open](records/telescopes-vedika-io-xalen-ephemeris-c0e77623.md) |
+| `github_search_telescopes-c939348e263ce7` | scottstirling/pi2llm | [open](records/telescopes-scottstirling-pi2llm-576ad030.md) |
+| `github_search_telescopes-c99d2e3954eb61` | macmade/SDO | [open](records/telescopes-macmade-sdo-b88e85b0.md) |
 | `github_search_telescopes-ca7b674fd3ce66` | zkwlx/DroidTelescope | [open](records/telescopes-zkwlx-droidtelescope-316d3546.md) |
+| `github_search_telescopes-cb2fa4891f0d98` | wesbos/Advanced-React | [open](records/telescopes-wesbos-advanced-react-52522033.md) |
+| `github_search_telescopes-cb59cc3f51763a` | iff-gsc/Passive-FTC-Quadrotor | [open](records/telescopes-iff-gsc-passive-ftc-quadrotor-fa7b9ceb.md) |
+| `github_search_telescopes-cc79e4cc68bb0c` | OpenAstroTech/OpenAstroTracker-Firmware | [open](records/telescopes-openastrotech-openastrotracker-firmware-a667a5b4.md) |
 | `github_search_telescopes-cf48aa07c4884d` | lgrcia/prose | [open](records/telescopes-lgrcia-prose-f417f514.md) |
+| `github_search_telescopes-cf770529f58261` | thebioguy/Astro-Catalogue-Viewer | [open](records/telescopes-thebioguy-astro-catalogue-viewer-0a97e7d0.md) |
 | `github_search_telescopes-d17ed84dc808fc` | GuLinux/AstroPhoto-Plus | [open](records/telescopes-gulinux-astrophoto-plus-89ed315b.md) |
+| `github_search_telescopes-d21c6972901334` | Ripwords/starnetGUI | [open](records/telescopes-ripwords-starnetgui-ce6b5b02.md) |
 | `github_search_telescopes-d5883d5fbc0c53` | art-den/astra_lite | [open](records/telescopes-art-den-astra-lite-8f947ea9.md) |
 | `github_search_telescopes-d71b76652e8fca` | spacetelescope/poppy | [open](records/telescopes-spacetelescope-poppy-8fcb0fc5.md) |
+| `github_search_telescopes-d73fea9d76b8cf` | pludov/mobindi | [open](records/telescopes-pludov-mobindi-2dcfeccf.md) |
 | `github_search_telescopes-d79466bbd65278` | astropy/astropy | [open](records/telescopes-astropy-astropy-5c7c1273.md) |
 | `github_search_telescopes-d7adc1bf09c9ed` | spacetelescope/jwst | [open](records/telescopes-spacetelescope-jwst-e1b99f64.md) |
 | `github_search_telescopes-d9281fd28b0db5` | rkaczorek/astroberry-server | [open](records/telescopes-rkaczorek-astroberry-server-f5249e84.md) |
 | `github_search_telescopes-d95c8c9828dd48` | 0xCoto/Virgo | [open](records/telescopes-0xcoto-virgo-8f75760a.md) |
+| `github_search_telescopes-da7b1ba6c0d835` | astroclubiitk/Computational-Astrophysics-2021 | [open](records/telescopes-astroclubiitk-computational-astrophysics-2021-015d9c2e.md) |
 | `github_search_telescopes-dadcd283a97724` | OpenSpace/OpenSpace | [open](records/telescopes-openspace-openspace-9cf8076b.md) |
+| `github_search_telescopes-db1a4bd278193c` | ppp-one/simple-fits-viewer | [open](records/telescopes-ppp-one-simple-fits-viewer-0473ad58.md) |
 | `github_search_telescopes-dc25af6d4a708f` | dr-mod/little-sun-gazer | [open](records/telescopes-dr-mod-little-sun-gazer-d452152c.md) |
+| `github_search_telescopes-dd9bd7e974c79e` | OpenAstroTech/OpenAstroFirmware | [open](records/telescopes-openastrotech-openastrofirmware-43510204.md) |
 | `github_search_telescopes-deb5bf3d948ae9` | alxlion/eyeloupe | [open](records/telescopes-alxlion-eyeloupe-c5793e30.md) |
 | `github_search_telescopes-df74b29e2f85bd` | RTS2/rts2 | [open](records/telescopes-rts2-rts2-06315a7e.md) |
 | `github_search_telescopes-e1cc088797ad8d` | crusj/bookmarks.nvim | [open](records/telescopes-crusj-bookmarks-nvim-f3b12644.md) |
 | `github_search_telescopes-e1d94bd8ac2997` | rlch/github-notifications.nvim | [open](records/telescopes-rlch-github-notifications-nvim-185a6c78.md) |
+| `github_search_telescopes-e53246e1117654` | Scdouglas1999/Fujicom | [open](records/telescopes-scdouglas1999-fujicom-9175fe24.md) |
 | `github_search_telescopes-e6825f2b8271a3` | Sigmyne/SuperNOVAS | [open](records/telescopes-sigmyne-supernovas-c1bcbf75.md) |
 | `github_search_telescopes-e6de3e23825004` | gwastro/pycbc | [open](records/telescopes-gwastro-pycbc-b93b6565.md) |
 | `github_search_telescopes-e8905cf09b4f22` | MironPascalCaseFan/rittli.nvim | [open](records/telescopes-mironpascalcasefan-rittli-nvim-1f2cf266.md) |
 | `github_search_telescopes-ea1d23db60b448` | Avimitin/nvim | [open](records/telescopes-avimitin-nvim-96de9a1e.md) |
 | `github_search_telescopes-ebb9d701fa1257` | nekitmm/starnet | [open](records/telescopes-nekitmm-starnet-50130f9b.md) |
 | `github_search_telescopes-ec30e99ebabffc` | reo101/reovim | [open](records/telescopes-reo101-reovim-b5963242.md) |
+| `github_search_telescopes-ed6656de9ae3ff` | sajmons/CollimationCircles | [open](records/telescopes-sajmons-collimationcircles-0a06e719.md) |
 | `github_search_telescopes-ede52f0c795e2d` | Allaman/emoji.nvim | [open](records/telescopes-allaman-emoji-nvim-992780a5.md) |
 | `github_search_telescopes-f12b24e199ac18` | MarcHamamji/runner.nvim | [open](records/telescopes-marchamamji-runner-nvim-d5d3f9d8.md) |
 | `github_search_telescopes-f36da9725184ad` | yt-project/yt | [open](records/telescopes-yt-project-yt-9a71f88e.md) |
@@ -14614,7 +14684,9 @@
 | `github_search_telescopes-f8ad3e9770457f` | CelestiaProject/Celestia | [open](records/telescopes-celestiaproject-celestia-52936308.md) |
 | `github_search_telescopes-f92cf253705487` | dilshan/star-pointer | [open](records/telescopes-dilshan-star-pointer-1bb6a494.md) |
 | `github_search_telescopes-f9cf3c7a25c0a3` | AllskyTeam/allsky | [open](records/telescopes-allskyteam-allsky-a37843a6.md) |
+| `github_search_telescopes-fa57b33c546c2e` | sylvainvillet/astro-catalog | [open](records/telescopes-sylvainvillet-astro-catalog-89b96d70.md) |
 | `github_search_telescopes-fb22c772e60c04` | axkirillov/easypick.nvim | [open](records/telescopes-axkirillov-easypick-nvim-8c09cea0.md) |
+| `github_search_telescopes-fd54c779383ece` | chvvkumar/GalactiLog | [open](records/telescopes-chvvkumar-galactilog-7e04fb86.md) |
 | `github_search_telescopes-ff68c3ead5b9e8` | vlaate/DobsonianDSC | [open](records/telescopes-vlaate-dobsoniandsc-83afe2a8.md) |
 | `github_search_telescopes-ffed2e5866ab5a` | GR3YH4TT3R93/dotfiles | [open](records/telescopes-gr3yh4tt3r93-dotfiles-2a81d246.md) |
 | `github_search_video-0134bdd5fd43be` | v-modal/vmodal_sdk_android | [open](records/video-v-modal-vmodal-sdk-android-a967102c.md) |
@@ -16575,6 +16647,7 @@
 | `hackage_top_downloads-0c2969c1d8642c` | system-fileio | [open](records/haskell-system-fileio-17a471dc.md) |
 | `hackage_top_downloads-0c490cecb83d1d` | rio | [open](records/haskell-rio-c8725570.md) |
 | `hackage_top_downloads-0c59ece35ead26` | nvim-hs | [open](records/haskell-nvim-hs-3c1d3ecb.md) |
+| `hackage_top_downloads-0cab2d0ae44baf` | predicate-typed | [open](records/haskell-predicate-typed-74b6966d.md) |
 | `hackage_top_downloads-0cbb9d6221d610` | slynx | [open](records/haskell-slynx-4453bc4b.md) |
 | `hackage_top_downloads-0ceaf449fdac34` | pqueue | [open](records/haskell-pqueue-ac6cbc50.md) |
 | `hackage_top_downloads-0d1183f4ccb004` | hamlet | [open](records/haskell-hamlet-f62350b6.md) |
