@@ -1,6 +1,6 @@
 # Ide Editor Integration
 
-Records: `1418`
+Records: `1430`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `1418`
 ## Category Index
 
 [Api Abi Checker (214)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (192)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (555)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (193)](benchmarking.md) · [Build System (978)](build-system.md) · [Cli (559)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
-[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (126)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (173)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (885)](database-datastore.md) · [Datetime (215)](datetime.md)
+[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (128)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (886)](database-datastore.md) · [Datetime (223)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1546)](filesystem-os.md) · [Formatter (635)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · **[Ide Editor Integration (1418)](ide-editor-integration.md)**
-[Image Audio Dsp (423)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1423)](language-specification.md) · [Library (5528)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (753)](machine-learning.md)
-[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1020)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (436)](package-manager.md) · [Parser Lexer Ast (1076)](parser-lexer-ast.md) · [Precommit Ci Quality (297)](precommit-ci-quality.md)
-[Profiler (86)](profiler.md) · [Project Scaffolding (132)](project-scaffolding.md) · [Registry Repository (132)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (392)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (589)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (600)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (311)](type-checker.md)
-[Undefined Behavior Analyzer (1577)](undefined-behavior-analyzer.md) · [Utility Library (102)](utility-library.md) · [Visualization Gui (515)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (448)](ffi-bindings.md) · [Filesystem Os (1559)](filesystem-os.md) · [Formatter (640)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · **[Ide Editor Integration (1430)](ide-editor-integration.md)**
+[Image Audio Dsp (423)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
+[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5547)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (517)](logging-observability.md) · [Machine Learning (767)](machine-learning.md)
+[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1024)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (438)](package-manager.md) · [Parser Lexer Ast (1086)](parser-lexer-ast.md) · [Precommit Ci Quality (297)](precommit-ci-quality.md)
+[Profiler (86)](profiler.md) · [Project Scaffolding (132)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (393)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (595)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (603)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
+[Undefined Behavior Analyzer (1586)](undefined-behavior-analyzer.md) · [Utility Library (102)](utility-library.md) · [Visualization Gui (542)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C++23
 
@@ -573,7 +573,7 @@ Records: `1418`
 | amplify_storage_s3 | 2.15.0 | 2026-08-19T11:56:06.433476Z | [open](../records/dart-amplify-storage-s3-16e3df4b.md) |
 | animated_size_and_fade | 5.1.1 | 2025-02-13T21:38:02.102321Z | [open](../records/dart-animated-size-and-fade-15eb5f44.md) |
 | better_player | 1.5.1 | 2026-09-04T12:37:27.550Z | [open](../records/dart-better-player-084ef311.md) |
-| better_player_plus | 1.3.5 | 2026-08-14T12:29:21.766340Z | [open](../records/dart-better-player-plus-f2e721c7.md) |
+| better_player_plus | 1.4.1 | 2026-09-04T06:49:12.361511Z | [open](../records/dart-better-player-plus-f2e721c7.md) |
 | blurhash_dart | 1.2.1 | 2023-02-04T18:12:38.723765Z | [open](../records/dart-blurhash-dart-d4cabd9f.md) |
 | camera | 0.12.1 | 2026-09-03T15:28:41.235977Z | [open](../records/dart-camera-01cb47c6.md) |
 | carousel_slider | 5.1.2 | 2026-02-05T17:10:08.999531Z | [open](../records/dart-carousel-slider-269a177b.md) |
@@ -601,6 +601,7 @@ Records: `1418`
 | flutter_background | 1.3.1 | 2026-03-09T20:39:33.447860Z | [open](../records/dart-flutter-background-7c392887.md) |
 | flutter_box_transform | 0.4.7 | 2025-03-26T10:53:15.777522Z | [open](../records/dart-flutter-box-transform-16ba1d97.md) |
 | flutter_image_slideshow | 0.1.6 | 2023-07-02T05:42:10.674055Z | [open](../records/dart-flutter-image-slideshow-e2e6ea1f.md) |
+| flutter_keyboard_size | 1.0.1 | 2022-10-18T10:49:32.759359Z | [open](../records/dart-flutter-keyboard-size-338c09b5.md) |
 | flutter_lucide | 1.41.0 | 2026-09-04T16:35:41.565393Z | [open](../records/dart-flutter-lucide-ac11e8f7.md) |
 | flutter_nfc_kit | 3.6.2 | 2026-01-20T15:23:42.703588Z | [open](../records/dart-flutter-nfc-kit-0b36db6d.md) |
 | flutter_pdfview | 1.4.5 | 2026-08-03T08:46:40.273636Z | [open](../records/dart-flutter-pdfview-eb6c3523.md) |
@@ -615,6 +616,7 @@ Records: `1418`
 | gap | 3.0.1 | 2023-06-24T09:22:05.766623Z | [open](../records/dart-gap-f187b138.md) |
 | geocoding | 5.0.0 | 2026-07-03T15:25:51.732762Z | [open](../records/dart-geocoding-5696dc4a.md) |
 | geolocator | 14.0.3 | 2026-06-12T12:37:15.288684Z | [open](../records/dart-geolocator-5f09b742.md) |
+| google_mlkit_face_detection | 0.15.1 | 2026-08-17T20:45:47.793625Z | [open](../records/dart-google-mlkit-face-detection-bc17bd6d.md) |
 | gpt_markdown | 1.2.1 | 2026-08-23T08:33:07.498642Z | [open](../records/dart-gpt-markdown-f85170ca.md) |
 | home_widget | 0.9.4 | 2026-09-03T16:07:26.126222Z | [open](../records/dart-home-widget-2e919e24.md) |
 | horizontal_data_table | 4.3.4 | 2026-01-18T16:01:53.804758Z | [open](../records/dart-horizontal-data-table-dd00eff1.md) |
@@ -883,11 +885,16 @@ Records: `1418`
 | Aldenhovel/bleu-rouge-meteor-cider-spice-eval4imagecaption | partial | 2023-02-17T16:05:12Z | [open](../records/space-maps-aldenhovel-bleu-rouge-meteor-cider-spice-eval4imagecaption-a9840e82.md) |
 | contao-catalog/fieldtype_ajaxrating | partial | 2012-04-03T16:05:44Z | [open](../records/space-maps-contao-catalog-fieldtype-ajaxrating-d07acc6a.md) |
 | DBusch-Developer/project-noah | partial | 2026-06-05T19:23:07Z | [open](../records/space-maps-dbusch-developer-project-noah-94787ed5.md) |
+| DooMLoRD/Huawei-Ideos-X6-Kernel | partial | 2011-10-19T19:47:12Z | [open](../records/space-maps-doomlord-huawei-ideos-x6-kernel-64a158f3.md) |
 | Dyalwayshappy/Spice_personal | partial | 2026-04-10T05:56:55Z | [open](../records/space-maps-dyalwayshappy-spice-personal-fbe6d648.md) |
+| EA3HMJ-Tracking-Software-Suite/Astroserver | partial | 2023-11-17T13:04:40Z | [open](../records/space-maps-ea3hmj-tracking-software-suite-astroserver-20896790.md) |
 | Etxx321/StarDoctor | partial | 2022-03-19T22:52:20Z | [open](../records/space-maps-etxx321-stardoctor-155ae108.md) |
+| explainingai-code/VAE-Pytorch | partial | 2024-07-11T11:28:26Z | [open](../records/space-maps-explainingai-code-vae-pytorch-9fb9355c.md) |
 | google/skywater-pdk-libs-sky130_fd_pr | partial | 2024-03-09T01:52:11Z | [open](../records/space-maps-google-skywater-pdk-libs-sky130-fd-pr-63b6c072.md) |
 | hst12/Starfield-Creations-Mod-Manager-and-Catalog-Fixer | partial | 2026-08-30T19:28:45Z | [open](../records/space-maps-hst12-starfield-creations-mod-manager-and-catalog-fixer-9348012f.md) |
 | JuliaSpaceMissionDesign/Ephemerides.jl | partial | 2025-03-23T09:47:16Z | [open](../records/space-maps-juliaspacemissiondesign-ephemerides-jl-b8ea4e8a.md) |
+| martin-sicho/genui | partial | 2026-02-03T09:59:24Z | [open](../records/space-maps-martin-sicho-genui-ab2ee61f.md) |
+| mattdailis/spice-kernels | partial | 2020-12-17T21:49:46Z | [open](../records/space-maps-mattdailis-spice-kernels-e4b460ee.md) |
 | milos-agathon/esa-land-cover | partial | 2024-05-30T19:23:37Z | [open](../records/space-maps-milos-agathon-esa-land-cover-0e9ee8e1.md) |
 | Miro28/Vega | partial | 2026-06-25T12:56:08Z | [open](../records/space-maps-miro28-vega-676a8f71.md) |
 | MuMashhour/NE555-SPICE-Model | partial | 2023-03-30T13:55:49Z | [open](../records/space-maps-mumashhour-ne555-spice-model-b48aca64.md) |
@@ -897,13 +904,18 @@ Records: `1418`
 | quildtide/ICARUS-Map-Pack | partial | 2025-02-06T21:58:53Z | [open](../records/space-maps-quildtide-icarus-map-pack-4361a94d.md) |
 | Radio-Source/RadioSkyMap | partial | 2026-08-31T15:27:13Z | [open](../records/space-maps-radio-source-radioskymap-b6524398.md) |
 | rdellamonica/S2-gr-mock-catalogue | partial | 2023-05-30T08:27:15Z | [open](../records/space-maps-rdellamonica-s2-gr-mock-catalogue-0bf2a0fc.md) |
+| reddyprasade/Machine-Learning-with-Scikit-Learn-Python-3.x | partial | 2021-06-16T16:06:06Z | [open](../records/space-maps-reddyprasade-machine-learning-with-scikit-learn-python-3-x-cb0c6069.md) |
+| rstecca/ColorBands | partial | 2018-12-06T16:06:39Z | [open](../records/space-maps-rstecca-colorbands-d3bd93d9.md) |
 | SamWeise/SatelliteSim | partial | 2015-10-05T19:35:51Z | [open](../records/space-maps-samweise-satellitesim-37429206.md) |
 | Sanjanacodes123/Open-and-Globular-Clusters | partial | 2026-05-20T08:09:38Z | [open](../records/space-maps-sanjanacodes123-open-and-globular-clusters-6d89e68e.md) |
+| shirosaidev/diskover-web | partial | 2021-09-19T18:21:07Z | [open](../records/space-maps-shirosaidev-diskover-web-a4e39042.md) |
 | Starainrt/astro | partial | 2026-08-06T04:42:42Z | [open](../records/space-maps-starainrt-astro-d0ab8502.md) |
 | sunpy/sunraster | partial | 2026-09-03T13:51:23Z | [open](../records/space-maps-sunpy-sunraster-4da3251a.md) |
 | TesseractA/Poseideon-s-Trident | partial | 2017-01-05T22:42:54Z | [open](../records/space-maps-tesseracta-poseideon-s-trident-ed91c73e.md) |
 | ut-astria/AstriaGraph | partial | 2019-06-18T19:27:20Z | [open](../records/space-maps-ut-astria-astriagraph-1842285f.md) |
 | wangleihitcs/CaptionMetrics | partial | 2019-03-02T14:44:44Z | [open](../records/space-maps-wangleihitcs-captionmetrics-bfbcb149.md) |
+| wyattowalsh/sports-analytics | partial | 2021-04-26T03:50:31Z | [open](../records/space-maps-wyattowalsh-sports-analytics-cab5dc4e.md) |
+| yjzhu-solar/spice_kernel_helioproj | partial | 2026-04-30T09:25:39Z | [open](../records/space-maps-yjzhu-solar-spice-kernel-helioproj-54948602.md) |
 
 ## Effects
 
@@ -949,7 +961,7 @@ Records: `1418`
 | RdenBlaauwen/RCAS-for-ReShade | partial | 2024-02-03T17:16:58Z | [open](../records/effects-rdenblaauwen-rcas-for-reshade-d195ca4b.md) |
 | Samsy/Post-Processing-Hack-Editor | unknown | github_latest_release_missing | [open](../records/effects-samsy-post-processing-hack-editor-ff1c3a5c.md) |
 | shamadee/web-dsp | partial | 2017-06-05T05:36:36Z | [open](../records/effects-shamadee-web-dsp-a3bd15e7.md) |
-| sideeffects/SideFXLabs | partial | 2026-09-04T04:01:22Z | [open](../records/effects-sideeffects-sidefxlabs-13175f93.md) |
+| sideeffects/SideFXLabs | partial | 2026-09-05T04:01:22Z | [open](../records/effects-sideeffects-sidefxlabs-13175f93.md) |
 | Souloist/audio-effects | partial | 2016-04-13T03:06:04Z | [open](../records/effects-souloist-audio-effects-d98c525b.md) |
 | supriya-project/supriya | partial | 2026-09-02T21:31:04Z | [open](../records/effects-supriya-project-supriya-d075f962.md) |
 | taco-group/SparkVSR | partial | 2026-08-03T04:15:33Z | [open](../records/effects-taco-group-sparkvsr-646d164d.md) |
@@ -1008,7 +1020,7 @@ Records: `1418`
 | anchen1011/toflow | partial | 2019-11-11T17:00:23Z | [open](../records/video-anchen1011-toflow-e5460699.md) |
 | Archmage83/tvapk | partial | 2026-08-12T01:43:48Z | [open](../records/video-archmage83-tvapk-f1570f1b.md) |
 | argorar/WebMConverter | partial | 2026-08-30T01:44:43Z | [open](../records/video-argorar-webmconverter-f692b134.md) |
-| bacalhau-project/bacalhau | partial | 2026-09-02T05:14:27Z | [open](../records/video-bacalhau-project-bacalhau-f12bfb54.md) |
+| bacalhau-project/bacalhau | partial | 2026-09-05T02:31:49Z | [open](../records/video-bacalhau-project-bacalhau-f12bfb54.md) |
 | baresip/baresip | partial | 2026-09-02T12:23:36Z | [open](../records/video-baresip-baresip-c8033746.md) |
 | bennyhuo/Kotlin-Tutorials | partial | 2023-11-03T08:45:12Z | [open](../records/video-bennyhuo-kotlin-tutorials-d23521e7.md) |
 | bigbluebutton/bigbluebutton | partial | 2026-09-04T19:37:41Z | [open](../records/video-bigbluebutton-bigbluebutton-9d135955.md) |
@@ -1045,7 +1057,7 @@ Records: `1418`
 | fabianwimberger/immich-convert-originals | partial | 2026-09-02T16:47:25Z | [open](../records/video-fabianwimberger-immich-convert-originals-f697063f.md) |
 | farshidrezaei/mosaic | partial | 2026-08-31T00:15:26Z | [open](../records/video-farshidrezaei-mosaic-2e134202.md) |
 | feross/simple-peer | partial | 2024-06-26T14:45:57Z | [open](../records/video-feross-simple-peer-4f82bc1c.md) |
-| FFmpeg/FFmpeg | partial | 2026-09-04T20:38:02Z | [open](../records/video-ffmpeg-ffmpeg-9c6919a8.md) |
+| FFmpeg/FFmpeg | partial | 2026-09-05T04:01:56Z | [open](../records/video-ffmpeg-ffmpeg-9c6919a8.md) |
 | ffmpegwasm/ffmpeg.wasm | partial | 2026-02-01T08:35:30Z | [open](../records/video-ffmpegwasm-ffmpeg-wasm-d150b28e.md) |
 | fmeringdal/nettu-meet | partial | 2023-08-30T11:44:55Z | [open](../records/video-fmeringdal-nettu-meet-97fd5a61.md) |
 | GhostZephyr/MetalVideoProcess | partial | 2020-10-16T06:36:56Z | [open](../records/video-ghostzephyr-metalvideoprocess-9f4e0ded.md) |
@@ -1057,7 +1069,7 @@ Records: `1418`
 | HA6Bots/TikTok-Compilation-Video-Generator | partial | 2024-08-04T13:44:11Z | [open](../records/video-ha6bots-tiktok-compilation-video-generator-2f38a80d.md) |
 | haasn/libplacebo | partial | 2026-09-03T19:13:12Z | [open](../records/video-haasn-libplacebo-801cca80.md) |
 | HeiSir2014/M3U8-Downloader | partial | 2025-03-19T15:28:29Z | [open](../records/video-heisir2014-m3u8-downloader-23d9af39.md) |
-| heygen-com/hyperframes | partial | 2026-09-05T01:07:45Z | [open](../records/video-heygen-com-hyperframes-39e19bfa.md) |
+| heygen-com/hyperframes | partial | 2026-09-05T03:24:28Z | [open](../records/video-heygen-com-hyperframes-39e19bfa.md) |
 | Hunlongyu/ZY-Player | partial | 2023-02-09T06:33:07Z | [open](../records/video-hunlongyu-zy-player-c74fadea.md) |
 | hybridgroup/gocv | partial | 2026-05-28T08:16:03Z | [open](../records/video-hybridgroup-gocv-daa4c904.md) |
 | ianramzy/decentralized-video-chat | partial | 2020-11-21T01:54:51Z | [open](../records/video-ianramzy-decentralized-video-chat-738bde44.md) |
@@ -1087,7 +1099,7 @@ Records: `1418`
 | letoram/arcan | partial | 2026-07-29T00:15:26Z | [open](../records/video-letoram-arcan-3898f949.md) |
 | linzzzzzz/openclip | partial | 2026-08-24T06:16:38Z | [open](../records/video-linzzzzzz-openclip-e0a60aa0.md) |
 | live-keys/livekeys | partial | 2023-11-13T16:00:01Z | [open](../records/video-live-keys-livekeys-78b56f29.md) |
-| livekit/livekit | partial | 2026-09-04T19:32:48Z | [open](../records/video-livekit-livekit-aee37f0f.md) |
+| livekit/livekit | partial | 2026-09-05T04:14:06Z | [open](../records/video-livekit-livekit-aee37f0f.md) |
 | LuckSiege/PictureSelector | partial | 2024-05-11T03:14:44Z | [open](../records/video-lucksiege-pictureselector-fce76f06.md) |
 | lynckia/licode | partial | 2026-09-02T15:11:52Z | [open](../records/video-lynckia-licode-cf1013dd.md) |
 | mafiosnik777/enhancr | partial | 2024-01-15T16:08:08Z | [open](../records/video-mafiosnik777-enhancr-3d2ed149.md) |
@@ -1132,7 +1144,7 @@ Records: `1418`
 | OpenShot/openshot-qt | partial | 2026-09-04T00:17:38Z | [open](../records/video-openshot-openshot-qt-c99a1faa.md) |
 | opensourcevdi/osvdi | partial | 2026-03-25T20:02:06Z | [open](../records/video-opensourcevdi-osvdi-98600bbe.md) |
 | ORB-HD/deface | partial | 2024-10-13T21:56:24Z | [open](../records/video-orb-hd-deface-821a4649.md) |
-| ossrs/srs | partial | 2026-09-04T02:44:24Z | [open](../records/video-ossrs-srs-c3ecdeaf.md) |
+| ossrs/srs | partial | 2026-09-05T03:10:25Z | [open](../records/video-ossrs-srs-c3ecdeaf.md) |
 | owncast/owncast | partial | 2026-09-03T22:33:39Z | [open](../records/video-owncast-owncast-b3a35889.md) |
 | pion/webrtc | partial | 2026-09-04T18:39:28Z | [open](../records/video-pion-webrtc-db831169.md) |
 | pouyaardehkhani/VCC | partial | 2026-02-24T21:02:02Z | [open](../records/video-pouyaardehkhani-vcc-e4bf4f37.md) |
@@ -1156,7 +1168,7 @@ Records: `1418`
 | superstreamerapp/superstreamer | partial | 2026-02-13T21:11:30Z | [open](../records/video-superstreamerapp-superstreamer-416b309d.md) |
 | synctv-org/synctv | partial | 2026-09-02T04:02:17Z | [open](../records/video-synctv-org-synctv-431ee49e.md) |
 | taco-group/SparkVSR | partial | 2026-08-03T04:15:33Z | [open](../records/video-taco-group-sparkvsr-c4edfb5f.md) |
-| tejaswigowda/ffmpeg-webCLI | partial | 2026-09-03T01:41:12Z | [open](../records/video-tejaswigowda-ffmpeg-webcli-fe1492d5.md) |
+| tejaswigowda/ffmpeg-webCLI | partial | 2026-09-05T03:35:32Z | [open](../records/video-tejaswigowda-ffmpeg-webcli-fe1492d5.md) |
 | teklynk/raspi-streamer | partial | 2026-06-28T01:41:41Z | [open](../records/video-teklynk-raspi-streamer-e0ad4afc.md) |
 | TEN-framework/ten-framework | partial | 2026-09-04T15:58:19Z | [open](../records/video-ten-framework-ten-framework-1dad98e0.md) |
 | TianZerL/Anime4KCPP | partial | 2026-07-04T17:01:36Z | [open](../records/video-tianzerl-anime4kcpp-2ee44fe8.md) |
@@ -1175,7 +1187,7 @@ Records: `1418`
 | whitphx/streamlit-webrtc | partial | 2026-09-01T21:51:38Z | [open](../records/video-whitphx-streamlit-webrtc-b3307bc7.md) |
 | williamyang1991/FRESCO | partial | 2024-05-24T10:29:17Z | [open](../records/video-williamyang1991-fresco-b6f6c186.md) |
 | williamyang1991/Rerender_A_Video | partial | 2024-03-09T12:34:21Z | [open](../records/video-williamyang1991-rerender-a-video-348cf4ec.md) |
-| wiltodelta/remove-ai-watermarks | partial | 2026-09-03T18:06:28Z | [open](../records/video-wiltodelta-remove-ai-watermarks-ac76ecc7.md) |
+| wiltodelta/remove-ai-watermarks | partial | 2026-09-05T03:59:29Z | [open](../records/video-wiltodelta-remove-ai-watermarks-ac76ecc7.md) |
 | wxbool/video-srt-windows | partial | 2023-03-10T05:03:22Z | [open](../records/video-wxbool-video-srt-windows-660989b7.md) |
 | WyattBlue/auto-editor | partial | 2026-09-03T01:47:12Z | [open](../records/video-wyattblue-auto-editor-c71dc819.md) |
 | x007xyz/flycut | partial | 2024-10-10T08:23:42Z | [open](../records/video-x007xyz-flycut-195646ac.md) |
@@ -1230,7 +1242,7 @@ Records: `1418`
 | kmcclive/tricycle | partial | 2022-12-08T06:25:25Z | [open](../records/photography-kmcclive-tricycle-e54dad7e.md) |
 | koide3/direct_visual_lidar_calibration | partial | 2026-07-22T00:13:43Z | [open](../records/photography-koide3-direct-visual-lidar-calibration-507b0f15.md) |
 | kxvn-lx/Kontax-Cam | unknown | github_search_does_not_include_release_date | [open](../records/photography-kxvn-lx-kontax-cam-32050bac.md) |
-| lbalazscs/Pixelitor | partial | 2026-09-04T13:38:04Z | [open](../records/photography-lbalazscs-pixelitor-3a1b5cdf.md) |
+| lbalazscs/Pixelitor | partial | 2026-09-04T20:31:27Z | [open](../records/photography-lbalazscs-pixelitor-3a1b5cdf.md) |
 | LLhon/Android-Video-Editor | partial | 2019-04-12T06:39:37Z | [open](../records/photography-llhon-android-video-editor-fc894c46.md) |
 | MetalPetal/MetalPetal | partial | 2024-04-10T13:30:17Z | [open](../records/photography-metalpetal-metalpetal-4d1be2e0.md) |
 | mikeroyal/Photogrammetry-Guide | partial | 2025-06-27T02:10:14Z | [open](../records/photography-mikeroyal-photogrammetry-guide-1e6df465.md) |

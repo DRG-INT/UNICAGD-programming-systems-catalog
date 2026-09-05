@@ -1,6 +1,6 @@
 # Visualization Gui
 
-Records: `515`
+Records: `542`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `515`
 ## Category Index
 
 [Api Abi Checker (214)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (192)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (555)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (193)](benchmarking.md) · [Build System (978)](build-system.md) · [Cli (559)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
-[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (126)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (173)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (885)](database-datastore.md) · [Datetime (215)](datetime.md)
+[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (128)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (886)](database-datastore.md) · [Datetime (223)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1546)](filesystem-os.md) · [Formatter (635)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1418)](ide-editor-integration.md)
-[Image Audio Dsp (423)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1423)](language-specification.md) · [Library (5528)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (515)](logging-observability.md) · [Machine Learning (753)](machine-learning.md)
-[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1020)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (436)](package-manager.md) · [Parser Lexer Ast (1076)](parser-lexer-ast.md) · [Precommit Ci Quality (297)](precommit-ci-quality.md)
-[Profiler (86)](profiler.md) · [Project Scaffolding (132)](project-scaffolding.md) · [Registry Repository (132)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (392)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (589)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (600)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (311)](type-checker.md)
-[Undefined Behavior Analyzer (1577)](undefined-behavior-analyzer.md) · [Utility Library (102)](utility-library.md) · **[Visualization Gui (515)](visualization-gui.md)** · [Web Framework (476)](web-framework.md)
+[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (448)](ffi-bindings.md) · [Filesystem Os (1559)](filesystem-os.md) · [Formatter (640)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1430)](ide-editor-integration.md)
+[Image Audio Dsp (423)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
+[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5547)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (517)](logging-observability.md) · [Machine Learning (767)](machine-learning.md)
+[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1024)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (438)](package-manager.md) · [Parser Lexer Ast (1086)](parser-lexer-ast.md) · [Precommit Ci Quality (297)](precommit-ci-quality.md)
+[Profiler (86)](profiler.md) · [Project Scaffolding (132)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (393)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (595)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (603)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
+[Undefined Behavior Analyzer (1586)](undefined-behavior-analyzer.md) · [Utility Library (102)](utility-library.md) · **[Visualization Gui (542)](visualization-gui.md)** · [Web Framework (476)](web-framework.md)
 
 ## C++23
 
@@ -495,28 +495,55 @@ Records: `515`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| adnanmunawar/matlab-rrt-variants | partial | 2020-03-30T22:33:37Z | [open](../records/space-maps-adnanmunawar-matlab-rrt-variants-64684805.md) |
 | ahkab/ahkab | partial | 2024-04-23T17:59:17Z | [open](../records/space-maps-ahkab-ahkab-bcc3f39f.md) |
 | AnkitBarik/planetMagFields | partial | 2026-06-16T22:14:31Z | [open](../records/space-maps-ankitbarik-planetmagfields-901577e2.md) |
+| aschearer/unitysizeexplorer | partial | 2021-06-18T06:08:43Z | [open](../records/space-maps-aschearer-unitysizeexplorer-194cb3e6.md) |
 | Askaniy/TrueColorTools | partial | 2026-08-12T14:03:43Z | [open](../records/space-maps-askaniy-truecolortools-aff640a8.md) |
+| Azure/azure-digital-twins-graph-viewer | partial | 2020-07-17T11:40:52Z | [open](../records/space-maps-azure-azure-digital-twins-graph-viewer-ba137021.md) |
+| bcongdon/gdq-stats | partial | 2022-01-16T15:32:53Z | [open](../records/space-maps-bcongdon-gdq-stats-9c9d1a7c.md) |
+| bfraboni/vptree-draw | partial | 2022-09-21T01:14:05Z | [open](../records/space-maps-bfraboni-vptree-draw-3d56a065.md) |
 | CesiumJS | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-maps-cesiumjs-2b9855f8.md) |
 | cfdenton/pha-vis | partial | 2017-01-24T21:43:49Z | [open](../records/space-maps-cfdenton-pha-vis-7bb8f6da.md) |
+| chrisant996/elucidisk | partial | 2026-07-24T10:25:58Z | [open](../records/space-maps-chrisant996-elucidisk-bd1267c2.md) |
+| despoisj/LatentSpaceVisualization | partial | 2021-07-26T19:43:51Z | [open](../records/space-maps-despoisj-latentspacevisualization-2f2ac115.md) |
 | dnemec/SPICE-Libraries | partial | 2018-08-03T00:49:47Z | [open](../records/space-maps-dnemec-spice-libraries-14b85037.md) |
 | drifter1/circuitsim | partial | 2026-03-14T13:30:19Z | [open](../records/space-maps-drifter1-circuitsim-ffe82388.md) |
 | eelab-dev/EEcircuit | partial | 2026-09-04T04:09:58Z | [open](../records/space-maps-eelab-dev-eecircuit-3d239729.md) |
 | ESA Sky | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-maps-esa-sky-507149dd.md) |
+| facebookresearch/MultiModalExplorer | partial | 2024-05-16T10:32:56Z | [open](../records/space-maps-facebookresearch-multimodalexplorer-41476dd9.md) |
 | Farhad8797/solar-system-threejs | partial | 2026-08-12T13:38:07Z | [open](../records/space-maps-farhad8797-solar-system-threejs-fb3c2e47.md) |
+| gr-b/autoencoder-latent-space-visualization | partial | 2019-09-13T13:26:15Z | [open](../records/space-maps-gr-b-autoencoder-latent-space-visualization-0f3ba940.md) |
+| hikerpig/note-graph | partial | 2022-04-21T04:37:41Z | [open](../records/space-maps-hikerpig-note-graph-9b31af0b.md) |
+| inbalpaz/CLANS | partial | 2024-12-05T14:27:09Z | [open](../records/space-maps-inbalpaz-clans-88d3b06d.md) |
+| jeffreymorganio/d3-space-filler-explorer | partial | 2020-08-14T18:14:55Z | [open](../records/space-maps-jeffreymorganio-d3-space-filler-explorer-f28a7443.md) |
+| JohnEdChristensen/WebbCompare | partial | 2024-03-01T22:17:38Z | [open](../records/space-maps-johnedchristensen-webbcompare-b5185f13.md) |
 | jrenaud90/TidalPy | partial | 2026-09-02T21:59:51Z | [open](../records/space-maps-jrenaud90-tidalpy-0ffb4285.md) |
+| KDE/filelight | partial | 2026-09-04T00:07:58Z | [open](../records/space-maps-kde-filelight-548ef1de.md) |
+| kevincon/utilityknife | partial | 2023-05-02T03:56:38Z | [open](../records/space-maps-kevincon-utilityknife-0060e5b5.md) |
 | kitanokitsune/gEDA-WIN | partial | 2018-07-31T13:51:54Z | [open](../records/space-maps-kitanokitsune-geda-win-cc03a86d.md) |
+| Machines-of-Disruption/latent-tools | partial | 2026-01-14T11:40:17Z | [open](../records/space-maps-machines-of-disruption-latent-tools-db46bfde.md) |
+| mcsorkun/ChemPlot | partial | 2026-08-20T14:36:42Z | [open](../records/space-maps-mcsorkun-chemplot-87f1a31f.md) |
+| mezzoblue/Elevation | partial | 2010-11-02T08:13:25Z | [open](../records/space-maps-mezzoblue-elevation-343d561c.md) |
 | NASA Solar System Treks | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-maps-nasa-solar-system-treks-66e2186c.md) |
 | NASA WorldWind | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-maps-nasa-worldwind-a55955ab.md) |
+| nasa/mission-viz | partial | 2022-05-16T12:43:36Z | [open](../records/space-maps-nasa-mission-viz-b5c49a99.md) |
+| plamere/SpotifyPopcorn | partial | 2014-06-11T06:36:59Z | [open](../records/space-maps-plamere-spotifypopcorn-a6d66b03.md) |
+| polyaxon/haupt | partial | 2026-09-04T11:47:32Z | [open](../records/space-maps-polyaxon-haupt-4be0ae10.md) |
 | PyLCARS/PySpiceExamples | partial | 2018-05-08T06:24:55Z | [open](../records/space-maps-pylcars-pyspiceexamples-51fcedc2.md) |
 | PyLCARS/Python-and-SPICE-Book | partial | 2021-01-28T07:51:03Z | [open](../records/space-maps-pylcars-python-and-spice-book-8f806ac6.md) |
 | PySpice-org/PySpice | partial | 2026-09-03T21:17:17Z | [open](../records/space-maps-pyspice-org-pyspice-c1dbd4c9.md) |
+| pzq893/moonbit-spice | partial | 2026-08-24T14:52:49Z | [open](../records/space-maps-pzq893-moonbit-spice-3f903f3e.md) |
 | rafael1193/spicegui | partial | 2016-09-24T10:26:33Z | [open](../records/space-maps-rafael1193-spicegui-948a87ae.md) |
 | rengwu/wayfinder-maps | partial | 2026-07-14T07:14:13Z | [open](../records/space-maps-rengwu-wayfinder-maps-91058c7f.md) |
 | sksalahuddin2828/NASA | partial | 2023-07-14T09:54:38Z | [open](../records/space-maps-sksalahuddin2828-nasa-19f784af.md) |
 | Stellarium | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-maps-stellarium-721c8fc5.md) |
 | thennen/pyltspice | partial | 2025-03-06T07:55:26Z | [open](../records/space-maps-thennen-pyltspice-9637bd79.md) |
+| tom-draper/array-3d-viz | partial | 2026-05-19T12:43:07Z | [open](../records/space-maps-tom-draper-array-3d-viz-e6d891e6.md) |
+| typpo/spacekit | partial | 2026-04-10T05:05:06Z | [open](../records/space-maps-typpo-spacekit-85c8c29d.md) |
+| uvivagabond/Visualization-of-physics-in-Unity | partial | 2019-06-29T18:24:07Z | [open](../records/space-maps-uvivagabond-visualization-of-physics-in-unity-9b3eb03b.md) |
+| uwdata/graphscape | partial | 2023-01-07T07:41:19Z | [open](../records/space-maps-uwdata-graphscape-6530b4fe.md) |
+| wmurphyrd/colorplaner | partial | 2020-05-04T18:01:45Z | [open](../records/space-maps-wmurphyrd-colorplaner-7a01c296.md) |
 
 ## Effects
 

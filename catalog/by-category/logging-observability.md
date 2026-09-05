@@ -1,6 +1,6 @@
 # Logging Observability
 
-Records: `515`
+Records: `517`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `515`
 ## Category Index
 
 [Api Abi Checker (214)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (192)](benchmarking.md) · [Build System (972)](build-system.md) · [Cli (555)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (193)](benchmarking.md) · [Build System (978)](build-system.md) · [Cli (559)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
-[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (126)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (173)](cryptography.md) · [Data Science (37)](data-science.md) · [Database Datastore (885)](database-datastore.md) · [Datetime (215)](datetime.md)
+[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (128)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (886)](database-datastore.md) · [Datetime (223)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (446)](ffi-bindings.md) · [Filesystem Os (1546)](filesystem-os.md) · [Formatter (635)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1418)](ide-editor-integration.md)
-[Image Audio Dsp (423)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (265)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1423)](language-specification.md) · [Library (5528)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · **[Logging Observability (515)](logging-observability.md)** · [Machine Learning (753)](machine-learning.md)
-[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1020)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (436)](package-manager.md) · [Parser Lexer Ast (1076)](parser-lexer-ast.md) · [Precommit Ci Quality (297)](precommit-ci-quality.md)
-[Profiler (86)](profiler.md) · [Project Scaffolding (132)](project-scaffolding.md) · [Registry Repository (132)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (392)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (589)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (600)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (311)](type-checker.md)
-[Undefined Behavior Analyzer (1577)](undefined-behavior-analyzer.md) · [Utility Library (102)](utility-library.md) · [Visualization Gui (515)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (448)](ffi-bindings.md) · [Filesystem Os (1559)](filesystem-os.md) · [Formatter (640)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1430)](ide-editor-integration.md)
+[Image Audio Dsp (423)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
+[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5547)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · **[Logging Observability (517)](logging-observability.md)** · [Machine Learning (767)](machine-learning.md)
+[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1024)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (438)](package-manager.md) · [Parser Lexer Ast (1086)](parser-lexer-ast.md) · [Precommit Ci Quality (297)](precommit-ci-quality.md)
+[Profiler (86)](profiler.md) · [Project Scaffolding (132)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (393)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (595)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (603)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
+[Undefined Behavior Analyzer (1586)](undefined-behavior-analyzer.md) · [Utility Library (102)](utility-library.md) · [Visualization Gui (542)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C99
 
@@ -489,12 +489,14 @@ Records: `515`
 | marufujisaki/stargirl | partial | 2025-09-08T14:44:06Z | [open](../records/space-maps-marufujisaki-stargirl-503ff893.md) |
 | mcgillca/focus-star-catalog | partial | 2026-08-17T15:55:01Z | [open](../records/space-maps-mcgillca-focus-star-catalog-8fdeb7f1.md) |
 | mkelley/calviacat | partial | 2024-07-08T20:00:56Z | [open](../records/space-maps-mkelley-calviacat-75b5baef.md) |
+| mordor-forge/study-skill | partial | 2026-07-17T19:44:53Z | [open](../records/space-maps-mordor-forge-study-skill-287f672c.md) |
 | ncas-tum/heracles | partial | 2026-07-07T16:47:06Z | [open](../records/space-maps-ncas-tum-heracles-e2511d32.md) |
 | nedemsky/stars-catalog | partial | 2016-06-14T05:53:51Z | [open](../records/space-maps-nedemsky-stars-catalog-c6bde4b3.md) |
 | ngwnos/gaia-dr3-chunked | partial | 2026-03-28T01:46:12Z | [open](../records/space-maps-ngwnos-gaia-dr3-chunked-2ae19cdd.md) |
 | nickschoey/starwars | partial | 2021-01-05T20:21:45Z | [open](../records/space-maps-nickschoey-starwars-de85e166.md) |
 | olganedelcu/catalog-star-wars | partial | 2026-01-03T19:32:38Z | [open](../records/space-maps-olganedelcu-catalog-star-wars-614cc377.md) |
 | On1ari/starwars-catalog | partial | 2025-07-16T21:09:11Z | [open](../records/space-maps-on1ari-starwars-catalog-cb6bee5c.md) |
+| pickles4evaaaa/mybibliotheca | partial | 2026-08-30T21:37:06Z | [open](../records/space-maps-pickles4evaaaa-mybibliotheca-61d0c3a3.md) |
 | proxygo/catalogo-de-filmes-star-wars | partial | 2023-10-12T19:15:06Z | [open](../records/space-maps-proxygo-catalogo-de-filmes-star-wars-8eefd151.md) |
 | Quarior/Star-Wars-catalogs-for-Space-Engine | partial | 2023-06-22T13:10:18Z | [open](../records/space-maps-quarior-star-wars-catalogs-for-space-engine-acfd1c94.md) |
 | Quasarkiste487/starCatalogue | partial | 2026-03-10T15:22:17Z | [open](../records/space-maps-quasarkiste487-starcatalogue-553c179d.md) |
