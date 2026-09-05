@@ -49,7 +49,7 @@ Records: `525`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [crystal-forge/crystal-forge](../records/repository-workplaces-crystal-forge-crystal-forge-e00632e7.md) | partial | 2026-09-05T16:25:26.024Z | registry-derived |
+| [crystal-forge/crystal-forge](../records/repository-workplaces-crystal-forge-crystal-forge-e00632e7.md) | partial | 2026-09-05T18:56:30.689Z | registry-derived |
 | [davivc/gitlab-ci-google-cloud-kubernetes](../records/repository-workplaces-davivc-gitlab-ci-google-cloud-kubernetes-ae4609d3.md) | partial | 2020-04-04T19:23:06.380Z | registry-derived |
 | [Gitea: cryptoexplorer/AICRYPTOMINER](../records/repository-workplaces-gitea-cryptoexplorer-aicryptominer-63195b59.md) | partial | 2026-05-31T03:33:30Z | registry-derived |
 | [Gitea: GiteaAi/iiab](../records/repository-workplaces-gitea-giteaai-iiab-82c43685.md) | partial | 2024-12-30T09:20:03Z | registry-derived |
@@ -674,7 +674,7 @@ Records: `525`
 | [gitlab-data/data-image](../records/repository-workplaces-gitlab-data-data-image-0af0c35c.md) | partial | 2026-08-21T11:24:30.282Z | registry-derived |
 | [gitlab-examples/kubernetes-deploy](../records/repository-workplaces-gitlab-examples-kubernetes-deploy-9a43e04a.md) | partial | 2026-01-07T14:56:28.754Z | registry-derived |
 | [gitlab-examples/ruby-autodeploy](../records/repository-workplaces-gitlab-examples-ruby-autodeploy-0ea70988.md) | partial | 2026-01-07T14:56:29.516Z | registry-derived |
-| [gitlab-org/caproni](../records/repository-workplaces-gitlab-org-caproni-40271619.md) | partial | 2026-09-05T14:00:50.343Z | registry-derived |
+| [gitlab-org/caproni](../records/repository-workplaces-gitlab-org-caproni-40271619.md) | partial | 2026-09-05T19:48:58.068Z | registry-derived |
 | [gitlab-org/charts/gitlab-agent](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) | partial | 2026-08-27T06:20:07.801Z | registry-derived |
 | [gitlab-org/ci-cd/gitlab-runner-pod-cleanup](../records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) | partial | 2026-05-15T07:38:19.652Z | registry-derived |
 | [gitlab-org/cloud-native/gitlab-operator](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) | partial | 2026-09-05T19:17:20.588Z | registry-derived |

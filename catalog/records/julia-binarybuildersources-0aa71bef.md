@@ -39,9 +39,9 @@ control, artifact reproducibility, cross-platform build policy, and CI integrati
 
 | Field | Value |
 | --- | --- |
-| Detected family | Other permissive |
-| Evidence | UNLICENSED |
-| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
+| Detected family | Backup plan required |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 

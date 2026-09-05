@@ -40,7 +40,7 @@ onboarding, API understanding, and upgrade review.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | FSL-1.1-MIT |
+| Evidence | MIT; {"key": "", "name": "", "url": ""} |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

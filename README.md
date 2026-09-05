@@ -1,6 +1,6 @@
 # UNICAGD Programming Systems Discovery Catalog
 
-Generated: `2026-09-05T20:22:30+00:00`
+Generated: `2026-09-05T21:18:16+00:00`
 
 This repository is a Markdown explorer for a systems-engineering programming corpus. It preserves the master JSON seed, expands it with registry-derived ecosystem records, and tracks release metadata without guessing unknown dates.
 
@@ -38,11 +38,11 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 | --- | ---: |
 | Source records | 968 |
 | Canonical identity pages | 27138 |
-| Expansion records added | 8605 |
+| Expansion records added | 8600 |
 | Release checks attempted | 1200 |
 | Known stable release fields | 10107 |
 | Unknown stable release fields | 17031 |
-| Fetch errors recorded | 1033 |
+| Fetch errors recorded | 1071 |
 | Target identity count | 24000 |
 
 ## Language Scope

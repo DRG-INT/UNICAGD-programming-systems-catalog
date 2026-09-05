@@ -40,7 +40,7 @@ tooling, code generation, static analysis, and source transformation.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT; https://www.nuget.org/packages/HttpMultipartParser/10.0.0/license |
+| Evidence | {"key": "", "name": "", "url": ""}; MIT; https://www.nuget.org/packages/HttpMultipartParser/10.0.0/license |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

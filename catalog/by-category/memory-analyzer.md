@@ -128,7 +128,7 @@ Records: `96`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| asgeirtj/system_prompts_leaks | partial | 2026-09-05T11:14:45Z | [open](../records/aim-s-asgeirtj-system-prompts-leaks-c743049d.md) |
+| asgeirtj/system_prompts_leaks | partial | 2026-09-05T20:28:32Z | [open](../records/aim-s-asgeirtj-system-prompts-leaks-c743049d.md) |
 | gitleaks/gitleaks | partial | 2026-08-26T04:17:05Z | [open](../records/aim-s-gitleaks-gitleaks-942f477b.md) |
 | mem0ai/mem0 | partial | 2026-09-04T16:32:10Z | [open](../records/aim-s-mem0ai-mem0-1e2f6f8a.md) |
 | MemPalace/mempalace | partial | 2026-09-05T19:40:56Z | [open](../records/aim-s-mempalace-mempalace-24dc978a.md) |

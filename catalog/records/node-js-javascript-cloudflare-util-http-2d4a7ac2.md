@@ -41,9 +41,9 @@ service communication, clients/servers, protocol handling, and edge integration.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | GNU Lesser General Public License v2.1; https://api.github.com/licenses/lgpl-2.1 |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | Other permissive |
+| Evidence | BSD-3-Clause |
+| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes
 

@@ -42,7 +42,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | LGPL-3.0-only; https://www.nuget.org/packages/Volo.Abp.Http.Abstractions/10.6.0/license |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; LGPL-3.0-only; https://www.nuget.org/packages/Volo.Abp.Http.Abstractions/10.6.0/license |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

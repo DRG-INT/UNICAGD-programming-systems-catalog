@@ -1096,7 +1096,7 @@ Records: `1029`
 | --- | --- | --- | --- |
 | ashvardanian/less_slow.cpp | partial | 2026-07-27T01:01:01Z | [open](../records/assembly-ashvardanian-less-slow-cpp-50768d6c.md) |
 | minio/highwayhash | partial | 2026-03-21T05:38:40Z | [open](../records/assembly-minio-highwayhash-5634a2cc.md) |
-| nyxos-dev/nyx-os | partial | 2026-09-05T10:33:18Z | [open](../records/assembly-nyxos-dev-nyx-os-a701d2ff.md) |
+| nyxos-dev/nyx-os | partial | 2026-09-05T19:50:52Z | [open](../records/assembly-nyxos-dev-nyx-os-a701d2ff.md) |
 | OpenMachine-ai/tinyfive | partial | 2023-11-01T23:04:08Z | [open](../records/assembly-openmachine-ai-tinyfive-d7147317.md) |
 | OWASP/ZSC | partial | 2024-03-14T22:19:20Z | [open](../records/assembly-owasp-zsc-566fd5f9.md) |
 
