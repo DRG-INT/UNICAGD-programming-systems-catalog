@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-05T11:18:55+00:00`
+Generated: `2026-09-05T12:26:40+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -15,7 +15,7 @@ Generated: `2026-09-05T11:18:55+00:00`
 [Embedded Hardware (56)](by-category/embedded-hardware.md) · [Ffi Bindings (452)](by-category/ffi-bindings.md) · [Filesystem Os (1569)](by-category/filesystem-os.md) · [Formatter (643)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (354)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1444)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (430)](by-category/image-audio-dsp.md) · [Interop Bindings (61)](by-category/interop-bindings.md) · [Interpreter Runtime (267)](by-category/interpreter-runtime.md) · [Jit Vm (63)](by-category/jit-vm.md)
-[Language Server (29)](by-category/language-server.md) · [Language Specification (1428)](by-category/language-specification.md) · [Library (5572)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (29)](by-category/language-server.md) · [Language Specification (1428)](by-category/language-specification.md) · [Library (5573)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (519)](by-category/logging-observability.md) · [Machine Learning (770)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1029)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (441)](by-category/package-manager.md) · [Parser Lexer Ast (1089)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](by-category/precommit-ci-quality.md)
@@ -38,7 +38,7 @@ Generated: `2026-09-05T11:18:55+00:00`
 | Node.js/TypeScript | 388 | 348 | [Node.js/TypeScript](by-language/node-js-typescript.md) |
 | Lua family | 1937 | 0 | [Lua family](by-language/lua-family.md) |
 | R | 1648 | 1648 | [R](by-language/r.md) |
-| Haskell | 1417 | 1406 | [Haskell](by-language/haskell.md) |
+| Haskell | 1418 | 1405 | [Haskell](by-language/haskell.md) |
 | Matlab | 287 | 0 | [Matlab](by-language/matlab.md) |
 | Octave | 141 | 140 | [Octave](by-language/octave.md) |
 | C-Sharp | 150 | 150 | [C-Sharp](by-language/c-sharp.md) |
@@ -130,7 +130,7 @@ Generated: `2026-09-05T11:18:55+00:00`
 | Jit Vm | 63 | [jit_vm](by-category/jit-vm.md) |
 | Language Server | 29 | [language_server](by-category/language-server.md) |
 | Language Specification | 1428 | [language_specification](by-category/language-specification.md) |
-| Library | 5572 | [library](by-category/library.md) |
+| Library | 5573 | [library](by-category/library.md) |
 | Lint Plugin | 1 | [lint_plugin](by-category/lint-plugin.md) |
 | Lint Rule Pack | 48 | [lint_rule_pack](by-category/lint-rule-pack.md) |
 | Linter | 348 | [linter](by-category/linter.md) |
@@ -175,7 +175,7 @@ Generated: `2026-09-05T11:18:55+00:00`
 | Node.js/TypeScript | 348 | 40 |
 | Lua family | 0 | 1937 |
 | R | 1648 | 0 |
-| Haskell | 1406 | 11 |
+| Haskell | 1405 | 13 |
 | Matlab | 0 | 287 |
 | Octave | 140 | 1 |
 | C-Sharp | 150 | 0 |

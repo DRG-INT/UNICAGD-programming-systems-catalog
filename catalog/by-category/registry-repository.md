@@ -17,7 +17,7 @@ Records: `133`
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (452)](ffi-bindings.md) · [Filesystem Os (1569)](filesystem-os.md) · [Formatter (643)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1444)](ide-editor-integration.md)
 [Image Audio Dsp (430)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5572)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5573)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (770)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1089)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
@@ -200,7 +200,7 @@ Records: `133`
 | EpicWink/proxpi | partial | 2026-09-01T06:03:05Z | [open](../records/catalogs-epicwink-proxpi-19684f44.md) |
 | FreeCAD/FreeCAD-addons | partial | 2026-07-24T17:34:19Z | [open](../records/catalogs-freecad-freecad-addons-a615b5b9.md) |
 | geerlingguy/ansible-role-solr | partial | 2026-08-21T14:17:49Z | [open](../records/catalogs-geerlingguy-ansible-role-solr-8acb37a8.md) |
-| gibatronic/ngx-superbindex | partial | 2026-09-01T01:02:49Z | [open](../records/catalogs-gibatronic-ngx-superbindex-189e5489.md) |
+| gibatronic/ngx-superbindex | partial | 2026-09-04T13:37:24Z | [open](../records/catalogs-gibatronic-ngx-superbindex-189e5489.md) |
 | glen-cheney/fancy-index | partial | 2024-06-11T17:44:26Z | [open](../records/catalogs-glen-cheney-fancy-index-b02066f6.md) |
 | gonelist/gonelist | partial | 2023-12-18T21:52:26Z | [open](../records/catalogs-gonelist-gonelist-9466ca9f.md) |
 | guangxiangdebizi/TradingAgents-MCPmode | partial | 2025-11-22T07:04:36Z | [open](../records/catalogs-guangxiangdebizi-tradingagents-mcpmode-4ee518d3.md) |
@@ -211,13 +211,13 @@ Records: `133`
 | OpenMetadata | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-openmetadata-f48d69a5.md) |
 | qoomon/aws-s3-bucket-browser | partial | 2026-07-25T19:14:53Z | [open](../records/catalogs-qoomon-aws-s3-bucket-browser-8bd94cab.md) |
 | rayanfer32/TgindexPro | partial | 2021-07-16T09:44:26Z | [open](../records/catalogs-rayanfer32-tgindexpro-d2a71717.md) |
-| scalacenter/scaladex | partial | 2026-09-04T13:08:09Z | [open](../records/catalogs-scalacenter-scaladex-93a340c2.md) |
+| scalacenter/scaladex | partial | 2026-09-04T18:04:28Z | [open](../records/catalogs-scalacenter-scaladex-93a340c2.md) |
 | SPDX License List | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-spdx-license-list-ea4e5cc6.md) |
 | Stratio/cassandra-lucene-index | partial | 2020-05-27T11:21:14Z | [open](../records/catalogs-stratio-cassandra-lucene-index-6874dd3d.md) |
 | tarzanek/luke | partial | 2018-10-22T17:04:17Z | [open](../records/catalogs-tarzanek-luke-89e6540e.md) |
 | tidwall/bgen | partial | 2026-08-31T16:53:00Z | [open](../records/catalogs-tidwall-bgen-ecd8e6d1.md) |
 | tzaeschke/phtree | partial | 2025-05-04T12:20:50Z | [open](../records/catalogs-tzaeschke-phtree-ce5cfe4b.md) |
-| tzaeschke/tinspin-indexes | partial | 2026-09-03T17:22:43Z | [open](../records/catalogs-tzaeschke-tinspin-indexes-67ed4721.md) |
+| tzaeschke/tinspin-indexes | partial | 2026-09-04T20:00:14Z | [open](../records/catalogs-tzaeschke-tinspin-indexes-67ed4721.md) |
 | weebzone/Surf-TG | partial | 2025-10-13T11:30:40Z | [open](../records/catalogs-weebzone-surf-tg-01d2779e.md) |
 | XiangpengHao/congee | partial | 2025-09-26T19:14:10Z | [open](../records/catalogs-xiangpenghao-congee-e7515878.md) |
 | yangjufo/Learned-Indexes | partial | 2018-12-20T21:13:06Z | [open](../records/catalogs-yangjufo-learned-indexes-442d1b10.md) |

@@ -17,7 +17,7 @@ Records: `643`
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (452)](ffi-bindings.md) · [Filesystem Os (1569)](filesystem-os.md) · **[Formatter (643)](formatter.md)**
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1444)](ide-editor-integration.md)
 [Image Audio Dsp (430)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5572)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5573)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (770)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1089)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
@@ -415,7 +415,7 @@ Records: `643`
 | gson | 0.2.1 | 2026-08-04 20:00:16 UTC | [open](../records/r-gson-7b22018f.md) |
 | IBclust | 1.5 | 2026-08-28 07:01:50 UTC | [open](../records/r-ibclust-e6498036.md) |
 | immunogenetr | 1.5.0 | 2026-08-19 22:10:08 UTC | [open](../records/r-immunogenetr-ce62b227.md) |
-| insight | 1.5.3 | 2026-08-25 08:50:02 UTC | [open](../records/r-insight-1f8504de.md) |
+| insight | 1.5.4 | 2026-09-05 12:20:02 UTC | [open](../records/r-insight-1f8504de.md) |
 | ip2location | 8.1.4 | 2026-08-05 08:50:02 UTC | [open](../records/r-ip2location-eb92c1a3.md) |
 | ksformat | 0.8.4 | 2026-08-21 10:00:02 UTC | [open](../records/r-ksformat-b6803455.md) |
 | learningtower | 2.0.0 | 2026-08-25 10:50:08 UTC | [open](../records/r-learningtower-5de0b769.md) |
@@ -537,7 +537,7 @@ Records: `643`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-05T11:16:29Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-05T12:14:19Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-08-27T19:23:53Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -808,7 +808,7 @@ Records: `643`
 | gabledata/recap | partial | 2025-12-30T22:10:01Z | [open](../records/catalogs-gabledata-recap-0e1817aa.md) |
 | ihsn/nada | partial | 2026-09-03T13:24:50Z | [open](../records/catalogs-ihsn-nada-e8df2a6b.md) |
 | MediaSavvy/MediaSavvy | partial | 2026-08-16T16:39:22Z | [open](../records/catalogs-mediasavvy-mediasavvy-5d89532f.md) |
-| opengeos/Earth-Engine-Catalog | partial | 2026-09-04T03:36:03Z | [open](../records/catalogs-opengeos-earth-engine-catalog-4bda34cb.md) |
+| opengeos/Earth-Engine-Catalog | partial | 2026-09-05T03:34:26Z | [open](../records/catalogs-opengeos-earth-engine-catalog-4bda34cb.md) |
 | postgrespro/rum | partial | 2026-09-03T06:14:33Z | [open](../records/catalogs-postgrespro-rum-fb7c64d1.md) |
 
 ## Magazines

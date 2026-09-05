@@ -17,7 +17,7 @@ Records: `267`
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (452)](ffi-bindings.md) · [Filesystem Os (1569)](filesystem-os.md) · [Formatter (643)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1444)](ide-editor-integration.md)
 [Image Audio Dsp (430)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · **[Interpreter Runtime (267)](interpreter-runtime.md)** · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5572)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5573)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (770)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1089)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
@@ -399,7 +399,7 @@ Records: `267`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Asmble - WebAssembly on the JVM | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-asmble-webassembly-on-the-jvm-df4793be.md) |
-| astrid-runtime/astrid | partial | 2026-09-05T06:23:31Z | [open](../records/webassembly-astrid-runtime-astrid-00366bc4.md) |
+| astrid-runtime/astrid | partial | 2026-09-05T10:58:43Z | [open](../records/webassembly-astrid-runtime-astrid-00366bc4.md) |
 | boa-dev/boa | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-boa-dev-boa-f27788a8.md) |
 | bytecodealliance/StarlingMonkey | partial | 2026-07-20T14:59:48Z | [open](../records/webassembly-bytecodealliance-starlingmonkey-d2a5789c.md) |
 | bytecodealliance/wasmtime-go | partial | 2026-08-20T19:30:30Z | [open](../records/webassembly-bytecodealliance-wasmtime-go-59c92af6.md) |
@@ -428,7 +428,7 @@ Records: `267`
 | wamr - WebAssembly Micro Runtime (WAMR) is an AOT/JIT/interpreter focusing on small footprint | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wamr-webassembly-micro-runtime-wamr-is-an-aot-jit-interpreter-focusing-on-small-footprint-358da7f6.md) |
 | wasm-micro-runtime/wasm-micro-runtime | partial | 2026-09-04T08:41:06Z | [open](../records/webassembly-wasm-micro-runtime-wasm-micro-runtime-0baaf623.md) |
 | wasm3 - The fastest WebAssembly interpreter (x86, x64, ARM, MIPS, Xtensa) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wasm3-the-fastest-webassembly-interpreter-x86-x64-arm-mips-xtensa-05225f2f.md) |
-| wasm3/wasm3 | partial | 2026-09-04T10:29:20Z | [open](../records/webassembly-wasm3-wasm3-d6e345d2.md) |
+| wasm3/wasm3 | partial | 2026-09-05T10:02:53Z | [open](../records/webassembly-wasm3-wasm3-d6e345d2.md) |
 | WasmEdge/WasmEdge | partial | 2026-09-04T17:09:54Z | [open](../records/webassembly-wasmedge-wasmedge-e72c64d1.md) |
 | Wasmer - Standalone JIT WebAssembly Runtime | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wasmer-standalone-jit-webassembly-runtime-c5c74d5d.md) |
 | wasmi-labs/wasmi | partial | 2026-09-01T11:50:21Z | [open](../records/webassembly-wasmi-labs-wasmi-2de8afe8.md) |
@@ -489,7 +489,7 @@ Records: `267`
 | cespedes/ltrace | partial | 2026-09-04T23:53:52.302Z | [open](../records/repository-workplaces-cespedes-ltrace-7df92cd8.md) |
 | cznic/libc | partial | 2026-09-05T03:16:36.755Z | [open](../records/repository-workplaces-cznic-libc-3b834450.md) |
 | DerLinkshaender/csv2xlsx | partial | 2023-01-23T21:54:27.769Z | [open](../records/repository-workplaces-derlinkshaender-csv2xlsx-bd2e77a2.md) |
-| freedesktop-sdk/freedesktop-sdk | partial | 2026-09-04T22:01:16.499Z | [open](../records/repository-workplaces-freedesktop-sdk-freedesktop-sdk-d7a3f323.md) |
+| freedesktop-sdk/freedesktop-sdk | partial | 2026-09-05T11:14:56.776Z | [open](../records/repository-workplaces-freedesktop-sdk-freedesktop-sdk-d7a3f323.md) |
 | Gitea: Befaci03/collab-vm-1.2-server-bettetweak | partial | 2025-04-20T12:00:39Z | [open](../records/repository-workplaces-gitea-befaci03-collab-vm-1-2-server-bettetweak-82605f6b.md) |
 | Gitea: cvmuser1000/collab-vm-1.2-server-bettetweak-better | partial | 2025-04-19T11:00:56Z | [open](../records/repository-workplaces-gitea-cvmuser1000-collab-vm-1-2-server-bettetweak-better-40a2c6fe.md) |
 | Gitea: Gala_Group/GalaRuntime | partial | 2023-09-03T18:22:16Z | [open](../records/repository-workplaces-gitea-gala-group-galaruntime-c30c90ab.md) |

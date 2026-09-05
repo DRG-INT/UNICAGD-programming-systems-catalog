@@ -17,7 +17,7 @@ Records: `519`
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (452)](ffi-bindings.md) · [Filesystem Os (1569)](filesystem-os.md) · [Formatter (643)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1444)](ide-editor-integration.md)
 [Image Audio Dsp (430)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5572)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5573)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · **[Logging Observability (519)](logging-observability.md)** · [Machine Learning (770)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1089)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
@@ -647,7 +647,7 @@ Records: `519`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| amundsen-io/amundsen | partial | 2026-09-01T02:32:51Z | [open](../records/catalogs-amundsen-io-amundsen-34c1f00a.md) |
+| amundsen-io/amundsen | partial | 2026-09-04T21:15:53Z | [open](../records/catalogs-amundsen-io-amundsen-34c1f00a.md) |
 | apache/polaris | partial | 2026-09-04T23:17:12Z | [open](../records/catalogs-apache-polaris-7eac00da.md) |
 | aws-samples/aws-dbs-refarch-datalake | partial | 2020-05-13T14:36:19Z | [open](../records/catalogs-aws-samples-aws-dbs-refarch-datalake-d639ef15.md) |
 | CodeCavePro/revitless-toolkit | partial | 2026-07-13T12:00:26Z | [open](../records/catalogs-codecavepro-revitless-toolkit-c3c016b5.md) |

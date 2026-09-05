@@ -17,7 +17,7 @@ Records: `561`
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (452)](ffi-bindings.md) · [Filesystem Os (1569)](filesystem-os.md) · [Formatter (643)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1444)](ide-editor-integration.md)
 [Image Audio Dsp (430)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5572)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5573)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (770)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1089)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
@@ -437,7 +437,7 @@ Records: `561`
 | update-notifier | 7.3.1 | 2024-09-09T18:51:04.896Z | [open](../records/node-js-javascript-update-notifier-803d0fd2.md) |
 | vue-cli-plugin-vuetify | 2.5.8 | 2022-09-13T21:49:19.683Z | [open](../records/node-js-javascript-vue-cli-plugin-vuetify-ea56303e.md) |
 | webpack-cli | 7.2.3 | 2026-08-28T10:59:09.124Z | [open](../records/node-js-javascript-webpack-cli-7374b543.md) |
-| windmill-cli | 1.803.0 | 2026-09-03T11:09:45.348Z | [open](../records/node-js-javascript-windmill-cli-71546be7.md) |
+| windmill-cli | 1.804.0 | 2026-09-05T11:15:38.273Z | [open](../records/node-js-javascript-windmill-cli-71546be7.md) |
 | wiredep-cli | 0.1.0 | 2016-03-17T18:00:58.478Z | [open](../records/node-js-javascript-wiredep-cli-af29db92.md) |
 | workbox-cli | 7.4.1 | 2026-05-04T20:21:45.277Z | [open](../records/node-js-javascript-workbox-cli-3404a0aa.md) |
 | yargs | unknown | not_checked | [open](../records/node-js-javascript-yargs-1fb118a7.md) |
@@ -518,7 +518,7 @@ Records: `561`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | golang-migrate/migrate | partial | 2026-09-04T21:17:26Z | [open](../records/go-golang-migrate-migrate-c00bf5c0.md) |
-| JanDeDobbeleer/oh-my-posh | partial | 2026-09-05T09:36:27Z | [open](../records/go-jandedobbeleer-oh-my-posh-0e751a91.md) |
+| JanDeDobbeleer/oh-my-posh | partial | 2026-09-05T12:19:57Z | [open](../records/go-jandedobbeleer-oh-my-posh-0e751a91.md) |
 | yorukot/superfile | partial | 2026-09-03T19:06:48Z | [open](../records/go-yorukot-superfile-1e2c0bb7.md) |
 
 ## "aim's"
@@ -528,7 +528,7 @@ Records: `561`
 | esengine/DeepSeek-Reasonix | partial | 2026-09-05T09:29:39Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-05T11:18:04Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-05T12:11:52Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 
@@ -753,7 +753,7 @@ Records: `561`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | chdb-io/chdb | partial | 2026-09-04T02:47:17Z | [open](../records/databases-chdb-io-chdb-51490fbb.md) |
-| ClickHouse/ClickHouse | partial | 2026-09-05T06:23:02Z | [open](../records/databases-clickhouse-clickhouse-9258f880.md) |
+| ClickHouse/ClickHouse | partial | 2026-09-05T12:24:57Z | [open](../records/databases-clickhouse-clickhouse-9258f880.md) |
 | ClickHouse/clickhouse-odbc | partial | 2026-08-18T15:43:22Z | [open](../records/databases-clickhouse-clickhouse-odbc-7cfc6ac3.md) |
 | golang-migrate/migrate | partial | 2026-09-04T21:17:26Z | [open](../records/databases-golang-migrate-migrate-1713bacf.md) |
 | housepower/ClickHouse-Native-JDBC | partial | 2025-06-22T09:22:59Z | [open](../records/databases-housepower-clickhouse-native-jdbc-8cec0869.md) |

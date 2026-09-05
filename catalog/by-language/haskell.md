@@ -1,6 +1,6 @@
 # Haskell
 
-Records: `1417`
+Records: `1418`
 
 ## Navigation
 
@@ -17,7 +17,7 @@ Records: `1417`
 [Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (452)](../by-category/ffi-bindings.md) · [Filesystem Os (1569)](../by-category/filesystem-os.md) · [Formatter (643)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1444)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (430)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (267)](../by-category/interpreter-runtime.md) · [Jit Vm (63)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1428)](../by-category/language-specification.md) · [Library (5572)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1428)](../by-category/language-specification.md) · [Library (5573)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (519)](../by-category/logging-observability.md) · [Machine Learning (770)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1029)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (441)](../by-category/package-manager.md) · [Parser Lexer Ast (1089)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](../by-category/precommit-ci-quality.md)
@@ -569,6 +569,7 @@ Records: `1417`
 | [data-default](../records/haskell-data-default-a62f3bbb.md) | 0.8.0.2 | 2026-01-06T19:33:05Z | registry-derived |
 | [data-diverse](../records/haskell-data-diverse-7a496b09.md) | 4.7.1.0 | 2023-05-29T22:20:52Z | registry-derived |
 | [data-lens](../records/haskell-data-lens-a4039905.md) | 2.11.2 | 2018-01-01T04:34:13Z | registry-derived |
+| [data-rfc5280](../records/haskell-data-rfc5280-fa027eaf.md) | 0.1.0.2 | 2026-09-05T12:13:06Z | registry-derived |
 | [dbus](../records/haskell-dbus-a0e5a0f4.md) | 1.4.3 | 2026-05-03T03:39:07Z | registry-derived |
 | [debian](../records/haskell-debian-8d612e9e.md) | 4.1.2 | 2026-02-07T15:20:33Z | registry-derived |
 | [deepseq](../records/haskell-deepseq-b71938d2.md) | 1.5.2.0 | 2025-06-14T22:25:04Z | registry-derived |
@@ -1455,7 +1456,7 @@ Records: `1417`
 | [wai-websockets](../records/haskell-wai-websockets-3782ed20.md) | 3.0.1.2 | 2018-03-19T12:32:07Z | registry-derived |
 | [websockets](../records/haskell-websockets-dd52de9c.md) | 0.13.0.0 | 2023-12-30T08:15:48Z | registry-derived |
 | [websockets-snap](../records/haskell-websockets-snap-116972ec.md) | 0.10.3.1 | 2019-05-06T11:31:08Z | registry-derived |
-| [yesod-websockets](../records/haskell-yesod-websockets-96029917.md) | 0.3.0.4 | 2026-06-17T16:53:04Z | registry-derived |
+| [yesod-websockets](../records/haskell-yesod-websockets-96029917.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 
 ### Package Manager
 
@@ -1608,7 +1609,7 @@ Records: `1417`
 | [unix-bytestring](../records/haskell-unix-bytestring-51f87c48.md) | 0.4.0.4 | 2026-02-27T00:53:34Z | registry-derived |
 | [uri-bytestring](../records/haskell-uri-bytestring-a09e0036.md) | 0.4.0.1 | 2025-04-10T16:35:16Z | registry-derived |
 | [wai-test](../records/haskell-wai-test-6f3e611d.md) | 3.0.0 | 2014-06-09T07:43:33Z | registry-derived |
-| [yesod-test](../records/haskell-yesod-test-b573e9e5.md) | 1.7.0.3 | 2026-07-29T08:45:39Z | registry-derived |
+| [yesod-test](../records/haskell-yesod-test-b573e9e5.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 
 ### Type Checker
 

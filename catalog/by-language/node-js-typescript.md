@@ -17,7 +17,7 @@ Records: `388`
 [Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (452)](../by-category/ffi-bindings.md) · [Filesystem Os (1569)](../by-category/filesystem-os.md) · [Formatter (643)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1444)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (430)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (267)](../by-category/interpreter-runtime.md) · [Jit Vm (63)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1428)](../by-category/language-specification.md) · [Library (5572)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1428)](../by-category/language-specification.md) · [Library (5573)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (519)](../by-category/logging-observability.md) · [Machine Learning (770)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1029)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (441)](../by-category/package-manager.md) · [Parser Lexer Ast (1089)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](../by-category/precommit-ci-quality.md)
@@ -469,7 +469,7 @@ Records: `388`
 | [sf-symbols-typescript](../records/node-js-typescript-sf-symbols-typescript-584a19ec.md) | 2.2.0 | 2025-12-02T16:19:14.356Z | registry-derived |
 | [simple-logging-system](../records/node-js-typescript-simple-logging-system-f065ade8.md) | 1.1.0 | 2022-01-18T14:41:37.508Z | npm_registry |
 | [stack-typescript](../records/node-js-typescript-stack-typescript-02cf2600.md) | 1.0.4 | 2018-05-23T10:22:18.390Z | registry-derived |
-| [testing-conventions](../records/node-js-typescript-testing-conventions-a7bae5cf.md) | 0.0.113 | 2026-09-05T06:30:49.096Z | registry-derived |
+| [testing-conventions](../records/node-js-typescript-testing-conventions-a7bae5cf.md) | 0.0.117 | 2026-09-05T12:13:44.460Z | registry-derived |
 | [thingies](../records/node-js-typescript-thingies-d5a157fe.md) | 2.6.1 | 2026-07-26T11:15:13.101Z | registry-derived |
 | [tree-sitter-typescript](../records/node-js-typescript-tree-sitter-typescript-95efbab0.md) | 0.23.2 | 2024-11-11T02:39:43.600Z | registry-derived |
 | [ts-debounce](../records/node-js-typescript-ts-debounce-8faf490c.md) | 5.0.1 | 2026-04-21T21:47:17.065Z | registry-derived |

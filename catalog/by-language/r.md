@@ -17,7 +17,7 @@ Records: `1648`
 [Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (452)](../by-category/ffi-bindings.md) · [Filesystem Os (1569)](../by-category/filesystem-os.md) · [Formatter (643)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1444)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (430)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (267)](../by-category/interpreter-runtime.md) · [Jit Vm (63)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1428)](../by-category/language-specification.md) · [Library (5572)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1428)](../by-category/language-specification.md) · [Library (5573)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (519)](../by-category/logging-observability.md) · [Machine Learning (770)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1029)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (441)](../by-category/package-manager.md) · [Parser Lexer Ast (1089)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](../by-category/precommit-ci-quality.md)
@@ -409,7 +409,7 @@ Records: `1648`
 | [gson](../records/r-gson-7b22018f.md) | 0.2.1 | 2026-08-04 20:00:16 UTC | registry-derived |
 | [IBclust](../records/r-ibclust-e6498036.md) | 1.5 | 2026-08-28 07:01:50 UTC | registry-derived |
 | [immunogenetr](../records/r-immunogenetr-ce62b227.md) | 1.5.0 | 2026-08-19 22:10:08 UTC | registry-derived |
-| [insight](../records/r-insight-1f8504de.md) | 1.5.3 | 2026-08-25 08:50:02 UTC | registry-derived |
+| [insight](../records/r-insight-1f8504de.md) | 1.5.4 | 2026-09-05 12:20:02 UTC | registry-derived |
 | [ip2location](../records/r-ip2location-eb92c1a3.md) | 8.1.4 | 2026-08-05 08:50:02 UTC | registry-derived |
 | [ksformat](../records/r-ksformat-b6803455.md) | 0.8.4 | 2026-08-21 10:00:02 UTC | registry-derived |
 | [learningtower](../records/r-learningtower-5de0b769.md) | 2.0.0 | 2026-08-25 10:50:08 UTC | registry-derived |

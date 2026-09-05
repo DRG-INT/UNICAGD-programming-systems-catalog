@@ -17,7 +17,7 @@ Records: `1089`
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (452)](ffi-bindings.md) · [Filesystem Os (1569)](filesystem-os.md) · [Formatter (643)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1444)](ide-editor-integration.md)
 [Image Audio Dsp (430)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5572)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5573)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (770)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · **[Parser Lexer Ast (1089)](parser-lexer-ast.md)** · [Precommit Ci Quality (298)](precommit-ci-quality.md)
@@ -190,7 +190,7 @@ Records: `1089`
 | paste-impl | 0.1.18 | 2020-06-21T01:15:54.327585Z | [open](../records/rust-paste-impl-248d9bf1.md) |
 | pastey | 0.2.3 | 2026-05-20T05:43:36.527579Z | [open](../records/rust-pastey-8ccefbaa.md) |
 | peg | 0.8.6 | 2026-05-04T21:03:48.375878Z | [open](../records/rust-peg-1586b597.md) |
-| pest | 2.9.0 | 2026-08-13T12:29:59.228752Z | [open](../records/rust-pest-4d809b04.md) |
+| pest | 2.9.1 | 2026-09-05T12:12:58.512948Z | [open](../records/rust-pest-4d809b04.md) |
 | pico-args | 0.5.0 | 2022-06-04T12:11:35.198777Z | [open](../records/rust-pico-args-a3584d52.md) |
 | plist | 1.10.0 | 2026-07-04T12:17:39.627224Z | [open](../records/rust-plist-81806963.md) |
 | prettyplease | 0.3.0 | 2026-07-18T20:47:50.263251Z | [open](../records/rust-prettyplease-670b543c.md) |
@@ -596,7 +596,7 @@ Records: `1089`
 | pdfrx | 2.6.1 | 2026-09-04T17:57:08.145277Z | [open](../records/dart-pdfrx-292df18d.md) |
 | phone_numbers_parser | 9.0.26 | 2026-09-01T00:34:26.060864Z | [open](../records/dart-phone-numbers-parser-b6b27fe8.md) |
 | qr_flutter | 4.1.0 | 2023-05-14T17:48:40.350369Z | [open](../records/dart-qr-flutter-1ca2e5e2.md) |
-| swagger_parser | 1.44.2 | 2026-09-01T10:16:51.778078Z | [open](../records/dart-swagger-parser-440e5e1f.md) |
+| swagger_parser | 1.44.3 | 2026-09-05T10:48:27.960524Z | [open](../records/dart-swagger-parser-440e5e1f.md) |
 | toastification | 3.2.0 | 2026-04-19T08:39:42.239894Z | [open](../records/dart-toastification-3431842e.md) |
 | uuid | 4.6.0 | 2026-07-15T10:49:38.445603Z | [open](../records/dart-uuid-7d468e88.md) |
 | xterm | 4.0.0 | 2024-02-27T07:31:16.327352Z | [open](../records/dart-xterm-d0caf7a1.md) |
@@ -609,7 +609,7 @@ Records: `1089`
 | go.gary.cool/diecast | v1.17.35 | 2026-08-30T14:10:05.638889Z | [open](../records/go-go-gary-cool-diecast-e5dd52c7.md) |
 | gogf/gf | partial | 2026-09-04T03:14:29Z | [open](../records/go-gogf-gf-cf9bbe8f.md) |
 | gomods/athens | partial | 2026-09-02T07:53:04Z | [open](../records/go-gomods-athens-5ff0b837.md) |
-| GopeedLab/gopeed | partial | 2026-09-05T11:08:34Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
+| GopeedLab/gopeed | partial | 2026-09-05T12:23:05Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
 | gravitational/teleport | partial | 2026-09-03T09:44:53Z | [open](../records/go-gravitational-teleport-6a32fe26.md) |
 | HyNetworks/hysteria | partial | 2026-08-31T06:55:46Z | [open](../records/go-hynetworks-hysteria-6f37132d.md) |
 | kovidgoyal/kitty | partial | 2026-09-04T21:27:21Z | [open](../records/go-kovidgoyal-kitty-9cff0795.md) |
@@ -627,7 +627,7 @@ Records: `1089`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 0xIonRod/learning-basilisk | partial | 2023-06-28T06:42:25Z | [open](../records/basilisk-0xionrod-learning-basilisk-3b9428f3.md) |
-| AVSLab/basilisk | partial | 2026-09-05T10:59:22Z | [open](../records/basilisk-avslab-basilisk-3f9dd832.md) |
+| AVSLab/basilisk | partial | 2026-09-05T12:13:42Z | [open](../records/basilisk-avslab-basilisk-3f9dd832.md) |
 | CarterBalow/avs-lab-work | partial | 2026-09-02T17:52:11Z | [open](../records/basilisk-carterbalow-avs-lab-work-c0f5c66b.md) |
 | DISCOWER/bsk-msgs | partial | 2026-07-02T20:47:18Z | [open](../records/basilisk-discower-bsk-msgs-80974f96.md) |
 | DISCOWER/bsk-ros2-bridge | partial | 2026-08-25T16:24:45Z | [open](../records/basilisk-discower-bsk-ros2-bridge-ff7c49fa.md) |
@@ -1268,7 +1268,7 @@ Records: `1089`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AdrienTorris/awesome-blazor | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-adrientorris-awesome-blazor-baae6774.md) |
-| Automattic/harper | partial | 2026-09-05T02:17:26Z | [open](../records/webassembly-automattic-harper-ac075554.md) |
+| Automattic/harper | partial | 2026-09-05T09:53:00Z | [open](../records/webassembly-automattic-harper-ac075554.md) |
 | drbh/wasm-fingerprint | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-drbh-wasm-fingerprint-2d024b12.md) |
 | esimov/pigo | partial | 2025-05-03T15:07:42Z | [open](../records/webassembly-esimov-pigo-47c4c3e9.md) |
 | satabin/swam | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-satabin-swam-0cad2eae.md) |
@@ -1336,10 +1336,10 @@ Records: `1089`
 | OpenAtomFoundation/pikiwidb | partial | 2026-09-01T07:44:54Z | [open](../records/databases-openatomfoundation-pikiwidb-007b1f05.md) |
 | orientechnologies/orientdb | partial | 2026-09-01T13:48:01Z | [open](../records/databases-orientechnologies-orientdb-583f5aed.md) |
 | pilgr/Paper | partial | 2023-01-06T22:00:05Z | [open](../records/databases-pilgr-paper-4bec3683.md) |
-| pingcap/tidb | partial | 2026-09-05T06:23:57Z | [open](../records/databases-pingcap-tidb-56d438be.md) |
+| pingcap/tidb | partial | 2026-09-05T12:18:59Z | [open](../records/databases-pingcap-tidb-56d438be.md) |
 | rgcsekaraa/brows3 | partial | 2026-08-12T11:48:25Z | [open](../records/databases-rgcsekaraa-brows3-6d622d3b.md) |
 | san089/Udacity-Data-Engineering-Projects | partial | 2022-08-26T00:09:15Z | [open](../records/databases-san089-udacity-data-engineering-projects-6731f6dc.md) |
-| scylladb/scylladb | partial | 2026-09-05T04:32:31Z | [open](../records/databases-scylladb-scylladb-5677bf8d.md) |
+| scylladb/scylladb | partial | 2026-09-05T11:09:47Z | [open](../records/databases-scylladb-scylladb-5677bf8d.md) |
 | Slony-I | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-slony-i-cc9dd3b4.md) |
 | Spock | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-spock-80573fc1.md) |
 | StarTrail-org/LEANN | partial | 2026-08-30T02:40:10Z | [open](../records/databases-startrail-org-leann-a6b16bc8.md) |

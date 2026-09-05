@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-05T11:18:55+00:00`
+Generated: `2026-09-05T12:26:40+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -15,7 +15,7 @@ Generated: `2026-09-05T11:18:55+00:00`
 [Embedded Hardware (56)](by-category/embedded-hardware.md) · [Ffi Bindings (452)](by-category/ffi-bindings.md) · [Filesystem Os (1569)](by-category/filesystem-os.md) · [Formatter (643)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (354)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1444)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (430)](by-category/image-audio-dsp.md) · [Interop Bindings (61)](by-category/interop-bindings.md) · [Interpreter Runtime (267)](by-category/interpreter-runtime.md) · [Jit Vm (63)](by-category/jit-vm.md)
-[Language Server (29)](by-category/language-server.md) · [Language Specification (1428)](by-category/language-specification.md) · [Library (5572)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (29)](by-category/language-server.md) · [Language Specification (1428)](by-category/language-specification.md) · [Library (5573)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (519)](by-category/logging-observability.md) · [Machine Learning (770)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1029)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (441)](by-category/package-manager.md) · [Parser Lexer Ast (1089)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](by-category/precommit-ci-quality.md)
@@ -28,20 +28,30 @@ Generated: `2026-09-05T11:18:55+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10084 |
-| Unknown stable release | 16954 |
+| Known stable release | 10083 |
+| Unknown stable release | 16956 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
-| @nuxt/nitro-server-nightly | Node.js/JavaScript | Web Framework | 4.6.0-29810031.2cf019ab | 2026-09-05T09:52:09.568Z | [open](records/node-js-javascript-nuxt-nitro-server-nightly-4efe1726.md) |
+| pest_derive | Rust | Library | 2.9.1 | 2026-09-05T12:15:00.810433Z | [open](records/rust-pest-derive-d019fac2.md) |
+| pest_generator | Rust | Library | 2.9.1 | 2026-09-05T12:14:28.314693Z | [open](records/rust-pest-generator-ef593a90.md) |
+| testing-conventions | Node.js/TypeScript | Type Checker | 0.0.117 | 2026-09-05T12:13:44.460Z | [open](records/node-js-typescript-testing-conventions-a7bae5cf.md) |
+| pest_meta | Rust | Language Specification | 2.9.1 | 2026-09-05T12:13:28.189357Z | [open](records/rust-pest-meta-e75f5ce6.md) |
+| data-rfc5280 | Haskell | Library | 0.1.0.2 | 2026-09-05T12:13:06Z | [open](records/haskell-data-rfc5280-fa027eaf.md) |
+| pest | Rust | Parser Lexer Ast | 2.9.1 | 2026-09-05T12:12:58.512948Z | [open](records/rust-pest-4d809b04.md) |
+| windmill-cli | Node.js/JavaScript | Cli | 1.804.0 | 2026-09-05T11:15:38.273Z | [open](records/node-js-javascript-windmill-cli-71546be7.md) |
+| system-testing | Node.js/JavaScript | Testing Framework | 1.0.135 | 2026-09-05T11:01:02.483Z | [open](records/node-js-javascript-system-testing-fb3acaec.md) |
+| swagger_parser | Dart | Parser Lexer Ast | 1.44.3 | 2026-09-05T10:48:27.960524Z | [open](records/dart-swagger-parser-440e5e1f.md) |
+| @argos-ci/storybook | Node.js/JavaScript | Testing Framework | 6.3.0 | 2026-09-05T10:48:26.984Z | [open](records/node-js-javascript-argos-ci-storybook-6e4d39f7.md) |
+| @nuxt/nitro-server-nightly | Node.js/JavaScript | Web Framework | 4.6.0-29810078.509560bc | 2026-09-05T10:39:04.202Z | [open](records/node-js-javascript-nuxt-nitro-server-nightly-4efe1726.md) |
+| pocketbase | Dart | Datetime | 0.25.1 | 2026-09-05T10:39:02.541144Z | [open](records/dart-pocketbase-7d21c636.md) |
 | @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.113.12 | 2026-09-05T09:25:36.431Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
 | tricorder | Haskell | Library | 0.2.2.0 | 2026-09-05T09:24:25Z | [open](records/haskell-tricorder-354456ad.md) |
 | redox_syscall | Rust | Library | 0.9.4 | 2026-09-05T08:52:15.805729Z | [open](records/rust-redox-syscall-0a02e2b9.md) |
 | oui-data | Node.js/JavaScript | Serialization | 2.1.17 | 2026-09-05T08:34:50.836Z | [open](records/node-js-javascript-oui-data-c721fc74.md) |
 | tstyche | Node.js/JavaScript | Testing Framework | 7.2.4 | 2026-09-05T07:09:47.007Z | [open](records/node-js-javascript-tstyche-2294e4ce.md) |
-| testing-conventions | Node.js/TypeScript | Type Checker | 0.0.113 | 2026-09-05T06:30:49.096Z | [open](records/node-js-typescript-testing-conventions-a7bae5cf.md) |
 | reg-cli | Node.js/JavaScript | Testing Framework | 0.19.0-rc1 | 2026-09-05T06:17:41.332Z | [open](records/node-js-javascript-reg-cli-7dcec4f2.md) |
 | locize-cli | Node.js/JavaScript | Cli | 12.7.1 | 2026-09-05T05:26:47.430Z | [open](records/node-js-javascript-locize-cli-9156d8b9.md) |
 | appium-uiautomator2-server | Node.js/JavaScript | Web Framework | 10.6.4 | 2026-09-05T03:34:08.018Z | [open](records/node-js-javascript-appium-uiautomator2-server-156ed7d4.md) |
@@ -60,6 +70,7 @@ Generated: `2026-09-05T11:18:55+00:00`
 | @stacksjs/testing | Node.js/JavaScript | Testing Framework | 0.74.24 | 2026-09-05T00:11:34.736Z | [open](records/node-js-javascript-stacksjs-testing-57469937.md) |
 | @stacksjs/database | Node.js/JavaScript | Database Datastore | 0.74.24 | 2026-09-05T00:10:56.047Z | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
 | @stacksjs/http | Node.js/JavaScript | Networking Http | 0.74.24 | 2026-09-05T00:05:37.864Z | [open](records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
+| insight | R | Formatter | 1.5.4 | 2026-09-05 12:20:02 UTC | [open](records/r-insight-1f8504de.md) |
 | mlr3pipelines | R | Package Manager | 0.12.0 | 2026-09-05 10:10:02 UTC | [open](records/r-mlr3pipelines-91dff350.md) |
 | metaDyn | R | Static Analyzer | 1.0.4 | 2026-09-05 10:00:02 UTC | [open](records/r-metadyn-3fa229cc.md) |
 | varequal | R | Testing Framework | 0.0.2 | 2026-09-05 09:10:02 UTC | [open](records/r-varequal-d7d3c74a.md) |
@@ -139,7 +150,6 @@ Generated: `2026-09-05T11:18:55+00:00`
 | portable-atomic-util | Rust | Visualization Gui | 0.2.8 | 2026-09-04T14:36:47.702530Z | [open](records/rust-portable-atomic-util-50676b77.md) |
 | pure-cdt | Haskell | Library | 0.2.0.0 | 2026-09-04T14:23:34Z | [open](records/haskell-pure-cdt-0f524428.md) |
 | @argos-ci/playwright | Node.js/JavaScript | Testing Framework | 7.5.0 | 2026-09-04T14:15:05.650Z | [open](records/node-js-javascript-argos-ci-playwright-54b0629c.md) |
-| @argos-ci/storybook | Node.js/JavaScript | Testing Framework | 6.2.8 | 2026-09-04T14:13:45.700Z | [open](records/node-js-javascript-argos-ci-storybook-6e4d39f7.md) |
 | @argos-ci/cli | Node.js/JavaScript | Testing Framework | 6.9.2 | 2026-09-04T14:13:22.552Z | [open](records/node-js-javascript-argos-ci-cli-0a6caec9.md) |
 | @argos-ci/core | Node.js/JavaScript | Testing Framework | 6.8.3 | 2026-09-04T14:13:19.107Z | [open](records/node-js-javascript-argos-ci-core-16d6b998.md) |
 | Undici | Node.js/JavaScript | Networking Http | 8.10.2 | 2026-09-04T14:00:54.766Z | [open](records/node-js-javascript-undici-80071b99.md) |
@@ -275,16 +285,6 @@ Generated: `2026-09-05T11:18:55+00:00`
 | @transcend-io/mcp-server-preferences | Node.js/JavaScript | Web Framework | 0.7.2 | 2026-09-03T19:28:16.509Z | [open](records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
 | @transcend-io/mcp-server-workflows | Node.js/JavaScript | Web Framework | 0.5.30 | 2026-09-03T19:27:20.967Z | [open](records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) |
 | @transcend-io/mcp-server-inventory | Node.js/JavaScript | Web Framework | 0.7.10 | 2026-09-03T19:27:20.713Z | [open](records/node-js-javascript-transcend-io-mcp-server-inventory-9bc583b1.md) |
-| @transcend-io/mcp-server-consent | Node.js/JavaScript | Web Framework | 0.9.6 | 2026-09-03T19:27:15.694Z | [open](records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) |
-| @transcend-io/mcp-server-discovery | Node.js/JavaScript | Web Framework | 0.5.30 | 2026-09-03T19:27:15.450Z | [open](records/node-js-javascript-transcend-io-mcp-server-discovery-87735bfc.md) |
-| @transcend-io/mcp-server-dsr | Node.js/JavaScript | Web Framework | 0.8.10 | 2026-09-03T19:27:15.159Z | [open](records/node-js-javascript-transcend-io-mcp-server-dsr-76f6cb8b.md) |
-| @transcend-io/mcp-server-admin | Node.js/JavaScript | Web Framework | 0.6.10 | 2026-09-03T19:27:15.067Z | [open](records/node-js-javascript-transcend-io-mcp-server-admin-c732016b.md) |
-| @heroku/mcp-server | Node.js/JavaScript | Web Framework | 1.2.7 | 2026-09-03T19:09:35.226Z | [open](records/node-js-javascript-heroku-mcp-server-1d60d18d.md) |
-| hpgsql-simple-compat | Haskell | Database Datastore | 0.3.0 | 2026-09-03T18:54:16Z | [open](records/haskell-hpgsql-simple-compat-d03e91c2.md) |
-| smallvec | Rust | Library | 1.16.0 | 2026-09-03T18:50:48.151715Z | [open](records/rust-smallvec-fae87076.md) |
-| hpgsql | Haskell | Database Datastore | 0.3.0 | 2026-09-03T18:43:55Z | [open](records/haskell-hpgsql-9568bc40.md) |
-| scip | Haskell | Precommit Ci Quality | 0.10.0 | 2026-09-03T18:39:59Z | [open](records/haskell-scip-895a15af.md) |
-| aws-smithy-runtime-api | Rust | Interpreter Runtime | 1.16.0 | 2026-09-03T18:37:36.356005Z | [open](records/rust-aws-smithy-runtime-api-706cee25.md) |
 
 ## Unknown Reasons
 
@@ -305,7 +305,7 @@ Generated: `2026-09-05T11:18:55+00:00`
 | curated_database_record_requires_source_specific_release_lookup | 87 |
 | official_workplace_route_requires_source_specific_release_lookup | 59 |
 | not_a_maven_coordinate | 32 |
-| hackage_top_downloads_page_does_not_include_release_date | 11 |
+| hackage_top_downloads_page_does_not_include_release_date | 13 |
 | not_a_cocoapods_name | 7 |
 | release_date_missing | 5 |
 | cocoapods_metadata_missing | 5 |

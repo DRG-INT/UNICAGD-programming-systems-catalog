@@ -17,7 +17,7 @@ Records: `281`
 [Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (452)](../by-category/ffi-bindings.md) · [Filesystem Os (1569)](../by-category/filesystem-os.md) · [Formatter (643)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1444)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (430)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (267)](../by-category/interpreter-runtime.md) · [Jit Vm (63)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1428)](../by-category/language-specification.md) · [Library (5572)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1428)](../by-category/language-specification.md) · [Library (5573)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (519)](../by-category/logging-observability.md) · [Machine Learning (770)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1029)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (441)](../by-category/package-manager.md) · [Parser Lexer Ast (1089)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](../by-category/precommit-ci-quality.md)
@@ -40,13 +40,13 @@ Records: `281`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [antgroup/sofa](../records/catalogs-antgroup-sofa-dfd41cac.md) | partial | 2023-02-10T09:26:35Z | registry-derived |
-| [apache/gravitino](../records/catalogs-apache-gravitino-f9021fca.md) | partial | 2026-09-04T12:58:32Z | registry-derived |
+| [apache/gravitino](../records/catalogs-apache-gravitino-f9021fca.md) | partial | 2026-09-04T14:41:36Z | registry-derived |
 | [ckan/ckan](../records/catalogs-ckan-ckan-56d2a0d2.md) | partial | 2026-09-02T11:52:45Z | registry-derived |
 | [flowershow/markdowndb](../records/catalogs-flowershow-markdowndb-c72b0d23.md) | partial | 2026-05-21T02:18:02Z | registry-derived |
-| [geolens-io/geolens](../records/catalogs-geolens-io-geolens-2be2bb7d.md) | partial | 2026-09-04T12:59:07Z | registry-derived |
+| [geolens-io/geolens](../records/catalogs-geolens-io-geolens-2be2bb7d.md) | partial | 2026-09-05T12:25:21Z | registry-derived |
 | [henomis/lingoose](../records/catalogs-henomis-lingoose-b7784a16.md) | partial | 2026-03-15T09:43:28Z | registry-derived |
-| [open-metadata/OpenMetadata](../records/catalogs-open-metadata-openmetadata-9b2636a5.md) | partial | 2026-09-04T13:24:01Z | registry-derived |
-| [opendatadiscovery/odd-platform](../records/catalogs-opendatadiscovery-odd-platform-9b006b6d.md) | partial | 2026-09-04T09:09:50Z | registry-derived |
+| [open-metadata/OpenMetadata](../records/catalogs-open-metadata-openmetadata-9b2636a5.md) | partial | 2026-09-05T12:14:10Z | registry-derived |
+| [opendatadiscovery/odd-platform](../records/catalogs-opendatadiscovery-odd-platform-9b006b6d.md) | partial | 2026-09-05T07:39:20Z | registry-derived |
 | [openfun/richie](../records/catalogs-openfun-richie-3e0bc01d.md) | partial | 2026-09-04T15:44:21Z | registry-derived |
 | [sealerio/sealer](../records/catalogs-sealerio-sealer-b1b1c3d8.md) | partial | 2025-06-03T08:29:24Z | registry-derived |
 | [sixem/ivfi-php](../records/catalogs-sixem-ivfi-php-0295793e.md) | partial | 2026-09-04T00:33:05Z | registry-derived |
@@ -64,7 +64,7 @@ Records: `281`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [HypoPG/hypopg](../records/catalogs-hypopg-hypopg-7940cfbb.md) | partial | 2026-08-30T07:13:14Z | registry-derived |
+| [HypoPG/hypopg](../records/catalogs-hypopg-hypopg-7940cfbb.md) | partial | 2026-09-05T08:17:04Z | registry-derived |
 | [lightcopy/parquet-index](../records/catalogs-lightcopy-parquet-index-29380f23.md) | partial | 2021-05-06T06:21:57Z | registry-derived |
 | [vitabaks/pg_auto_reindexer](../records/catalogs-vitabaks-pg-auto-reindexer-5534086d.md) | partial | 2026-02-05T06:19:37Z | registry-derived |
 
@@ -103,14 +103,14 @@ Records: `281`
 | [gabledata/recap](../records/catalogs-gabledata-recap-0e1817aa.md) | partial | 2025-12-30T22:10:01Z | registry-derived |
 | [ihsn/nada](../records/catalogs-ihsn-nada-e8df2a6b.md) | partial | 2026-09-03T13:24:50Z | registry-derived |
 | [MediaSavvy/MediaSavvy](../records/catalogs-mediasavvy-mediasavvy-5d89532f.md) | partial | 2026-08-16T16:39:22Z | registry-derived |
-| [opengeos/Earth-Engine-Catalog](../records/catalogs-opengeos-earth-engine-catalog-4bda34cb.md) | partial | 2026-09-04T03:36:03Z | registry-derived |
+| [opengeos/Earth-Engine-Catalog](../records/catalogs-opengeos-earth-engine-catalog-4bda34cb.md) | partial | 2026-09-05T03:34:26Z | registry-derived |
 | [postgrespro/rum](../records/catalogs-postgrespro-rum-fb7c64d1.md) | partial | 2026-09-03T06:14:33Z | registry-derived |
 
 ### Game Engine Game Dev
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [asciimoo/hister](../records/catalogs-asciimoo-hister-7dbd60c9.md) | partial | 2026-09-03T18:31:33Z | registry-derived |
+| [asciimoo/hister](../records/catalogs-asciimoo-hister-7dbd60c9.md) | partial | 2026-09-05T11:37:33Z | registry-derived |
 | [gamedilong/awesome-cn](../records/catalogs-gamedilong-awesome-cn-95ab928b.md) | partial | 2020-01-23T06:56:32Z | registry-derived |
 
 ### Ide Editor Integration
@@ -120,7 +120,7 @@ Records: `281`
 | [AlbertLucianto/vuex-search](../records/catalogs-albertlucianto-vuex-search-73599187.md) | partial | 2022-12-09T23:26:52Z | registry-derived |
 | [austinsonger/Incident-Playbook](../records/catalogs-austinsonger-incident-playbook-b40b651a.md) | partial | 2024-07-28T04:19:40Z | registry-derived |
 | [ckenst/testing-guides](../records/catalogs-ckenst-testing-guides-bf06a16f.md) | partial | 2023-11-13T21:24:45Z | registry-derived |
-| [clidey/whodb](../records/catalogs-clidey-whodb-90b65b4d.md) | partial | 2026-09-04T03:31:28Z | registry-derived |
+| [clidey/whodb](../records/catalogs-clidey-whodb-90b65b4d.md) | partial | 2026-09-05T03:30:23Z | registry-derived |
 | [Esri/geoportal-server-catalog](../records/catalogs-esri-geoportal-server-catalog-528de935.md) | partial | 2026-09-02T05:53:13Z | registry-derived |
 | [fnplus/community-project-ideas](../records/catalogs-fnplus-community-project-ideas-1f98ace0.md) | partial | 2025-02-21T18:58:09Z | registry-derived |
 | [geonetwork/core-geonetwork](../records/catalogs-geonetwork-core-geonetwork-1ce9ddd6.md) | partial | 2026-08-31T23:06:06Z | registry-derived |
@@ -153,7 +153,7 @@ Records: `281`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [amundsen-io/amundsen](../records/catalogs-amundsen-io-amundsen-34c1f00a.md) | partial | 2026-09-01T02:32:51Z | registry-derived |
+| [amundsen-io/amundsen](../records/catalogs-amundsen-io-amundsen-34c1f00a.md) | partial | 2026-09-04T21:15:53Z | registry-derived |
 | [apache/polaris](../records/catalogs-apache-polaris-7eac00da.md) | partial | 2026-09-04T23:17:12Z | registry-derived |
 | [aws-samples/aws-dbs-refarch-datalake](../records/catalogs-aws-samples-aws-dbs-refarch-datalake-d639ef15.md) | partial | 2020-05-13T14:36:19Z | registry-derived |
 | [CodeCavePro/revitless-toolkit](../records/catalogs-codecavepro-revitless-toolkit-c3c016b5.md) | partial | 2026-07-13T12:00:26Z | registry-derived |
@@ -367,7 +367,7 @@ Records: `281`
 | [EpicWink/proxpi](../records/catalogs-epicwink-proxpi-19684f44.md) | partial | 2026-09-01T06:03:05Z | registry-derived |
 | [FreeCAD/FreeCAD-addons](../records/catalogs-freecad-freecad-addons-a615b5b9.md) | partial | 2026-07-24T17:34:19Z | registry-derived |
 | [geerlingguy/ansible-role-solr](../records/catalogs-geerlingguy-ansible-role-solr-8acb37a8.md) | partial | 2026-08-21T14:17:49Z | registry-derived |
-| [gibatronic/ngx-superbindex](../records/catalogs-gibatronic-ngx-superbindex-189e5489.md) | partial | 2026-09-01T01:02:49Z | registry-derived |
+| [gibatronic/ngx-superbindex](../records/catalogs-gibatronic-ngx-superbindex-189e5489.md) | partial | 2026-09-04T13:37:24Z | registry-derived |
 | [glen-cheney/fancy-index](../records/catalogs-glen-cheney-fancy-index-b02066f6.md) | partial | 2024-06-11T17:44:26Z | registry-derived |
 | [gonelist/gonelist](../records/catalogs-gonelist-gonelist-9466ca9f.md) | partial | 2023-12-18T21:52:26Z | registry-derived |
 | [guangxiangdebizi/TradingAgents-MCPmode](../records/catalogs-guangxiangdebizi-tradingagents-mcpmode-4ee518d3.md) | partial | 2025-11-22T07:04:36Z | registry-derived |
@@ -378,13 +378,13 @@ Records: `281`
 | [OpenMetadata](../records/catalogs-openmetadata-f48d69a5.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [qoomon/aws-s3-bucket-browser](../records/catalogs-qoomon-aws-s3-bucket-browser-8bd94cab.md) | partial | 2026-07-25T19:14:53Z | registry-derived |
 | [rayanfer32/TgindexPro](../records/catalogs-rayanfer32-tgindexpro-d2a71717.md) | partial | 2021-07-16T09:44:26Z | registry-derived |
-| [scalacenter/scaladex](../records/catalogs-scalacenter-scaladex-93a340c2.md) | partial | 2026-09-04T13:08:09Z | registry-derived |
+| [scalacenter/scaladex](../records/catalogs-scalacenter-scaladex-93a340c2.md) | partial | 2026-09-04T18:04:28Z | registry-derived |
 | [SPDX License List](../records/catalogs-spdx-license-list-ea4e5cc6.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [Stratio/cassandra-lucene-index](../records/catalogs-stratio-cassandra-lucene-index-6874dd3d.md) | partial | 2020-05-27T11:21:14Z | registry-derived |
 | [tarzanek/luke](../records/catalogs-tarzanek-luke-89e6540e.md) | partial | 2018-10-22T17:04:17Z | registry-derived |
 | [tidwall/bgen](../records/catalogs-tidwall-bgen-ecd8e6d1.md) | partial | 2026-08-31T16:53:00Z | registry-derived |
 | [tzaeschke/phtree](../records/catalogs-tzaeschke-phtree-ce5cfe4b.md) | partial | 2025-05-04T12:20:50Z | registry-derived |
-| [tzaeschke/tinspin-indexes](../records/catalogs-tzaeschke-tinspin-indexes-67ed4721.md) | partial | 2026-09-03T17:22:43Z | registry-derived |
+| [tzaeschke/tinspin-indexes](../records/catalogs-tzaeschke-tinspin-indexes-67ed4721.md) | partial | 2026-09-04T20:00:14Z | registry-derived |
 | [weebzone/Surf-TG](../records/catalogs-weebzone-surf-tg-01d2779e.md) | partial | 2025-10-13T11:30:40Z | registry-derived |
 | [XiangpengHao/congee](../records/catalogs-xiangpenghao-congee-e7515878.md) | partial | 2025-09-26T19:14:10Z | registry-derived |
 | [yangjufo/Learned-Indexes](../records/catalogs-yangjufo-learned-indexes-442d1b10.md) | partial | 2018-12-20T21:13:06Z | registry-derived |
@@ -424,8 +424,8 @@ Records: `281`
 | --- | --- | --- | --- |
 | [AppImage/appimage.github.io](../records/catalogs-appimage-appimage-github-io-f260d9b1.md) | partial | 2026-08-30T13:05:20Z | registry-derived |
 | [awclub/catalog](../records/catalogs-awclub-catalog-58839c97.md) | partial | 2025-03-14T14:22:23Z | registry-derived |
-| [datahub-project/datahub](../records/catalogs-datahub-project-datahub-245b610a.md) | partial | 2026-09-04T13:19:07Z | registry-derived |
-| [erikdarlingdata/DarlingData](../records/catalogs-erikdarlingdata-darlingdata-be996c85.md) | partial | 2026-09-03T17:27:20Z | registry-derived |
+| [datahub-project/datahub](../records/catalogs-datahub-project-datahub-245b610a.md) | partial | 2026-09-05T10:06:59Z | registry-derived |
+| [erikdarlingdata/DarlingData](../records/catalogs-erikdarlingdata-darlingdata-be996c85.md) | partial | 2026-09-04T21:16:14Z | registry-derived |
 | [FeatureBaseDB/featurebase](../records/catalogs-featurebasedb-featurebase-1eac6a36.md) | partial | 2024-02-21T23:20:41Z | registry-derived |
 | [imsai-sh/awesome-deepseek-harness-plugins](../records/catalogs-imsai-sh-awesome-deepseek-harness-plugins-06b83072.md) | partial | 2026-09-04T16:43:47Z | registry-derived |
 | [italia/.github](../records/catalogs-italia-github-0b346e57.md) | partial | 2026-08-31T09:31:30Z | registry-derived |

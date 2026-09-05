@@ -32,7 +32,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 0.25.0 | 2026-08-19T15:08:11.321237Z | [https://pub.dev/api/packages/pocketbase](https://pub.dev/api/packages/pocketbase) |  |
+| stable | known | 0.25.1 | 2026-09-05T10:39:02.541144Z | [https://pub.dev/api/packages/pocketbase](https://pub.dev/api/packages/pocketbase) |  |
 | preview | known | 0.19.0-rc5 | 2024-11-06T09:26:02.770381Z | [https://pub.dev/api/packages/pocketbase](https://pub.dev/api/packages/pocketbase) |  |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 - Treat category as `datetime` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pub.dev/api/packages/pocketbase` at `2026-09-01T15:35:59+00:00`.
+- Latest stable metadata was observed from `https://pub.dev/api/packages/pocketbase` at `2026-09-05T12:22:57+00:00`.
 - Preview/nightly metadata is present through channel `preview`.
 
 ## Provenance
@@ -96,7 +96,7 @@ Evidence records merged into this identity: `1`.
 [Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (452)](../by-category/ffi-bindings.md) · [Filesystem Os (1569)](../by-category/filesystem-os.md) · [Formatter (643)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1444)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (430)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (267)](../by-category/interpreter-runtime.md) · [Jit Vm (63)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1428)](../by-category/language-specification.md) · [Library (5572)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1428)](../by-category/language-specification.md) · [Library (5573)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (519)](../by-category/logging-observability.md) · [Machine Learning (770)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1029)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (441)](../by-category/package-manager.md) · [Parser Lexer Ast (1089)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](../by-category/precommit-ci-quality.md)

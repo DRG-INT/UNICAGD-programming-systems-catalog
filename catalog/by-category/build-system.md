@@ -17,7 +17,7 @@ Records: `982`
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (452)](ffi-bindings.md) · [Filesystem Os (1569)](filesystem-os.md) · [Formatter (643)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1444)](ide-editor-integration.md)
 [Image Audio Dsp (430)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5572)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5573)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (770)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1089)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
@@ -688,7 +688,7 @@ Records: `982`
 | langchain-ai/langgraph | partial | 2026-09-03T15:23:28Z | [open](../records/aim-s-langchain-ai-langgraph-3d7f01d8.md) |
 | langgenius/dify | partial | 2026-09-05T10:46:06Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
 | rohitg00/ai-engineering-from-scratch | partial | 2026-08-30T09:25:48Z | [open](../records/aim-s-rohitg00-ai-engineering-from-scratch-ac445b06.md) |
-| Significant-Gravitas/AutoGPT | partial | 2026-09-05T10:55:35Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
+| Significant-Gravitas/AutoGPT | partial | 2026-09-05T12:21:39Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
 | tinyhumansai/openhuman | partial | 2026-09-04T04:53:43Z | [open](../records/aim-s-tinyhumansai-openhuman-314d98d9.md) |
 | tirth8205/code-review-graph | partial | 2026-08-27T10:35:01Z | [open](../records/aim-s-tirth8205-code-review-graph-ebee7525.md) |
 | vercel/ai | partial | 2026-09-05T09:28:15Z | [open](../records/aim-s-vercel-ai-ae0b1907.md) |
@@ -1045,13 +1045,13 @@ Records: `982`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | antgroup/sofa | partial | 2023-02-10T09:26:35Z | [open](../records/catalogs-antgroup-sofa-dfd41cac.md) |
-| apache/gravitino | partial | 2026-09-04T12:58:32Z | [open](../records/catalogs-apache-gravitino-f9021fca.md) |
+| apache/gravitino | partial | 2026-09-04T14:41:36Z | [open](../records/catalogs-apache-gravitino-f9021fca.md) |
 | ckan/ckan | partial | 2026-09-02T11:52:45Z | [open](../records/catalogs-ckan-ckan-56d2a0d2.md) |
 | flowershow/markdowndb | partial | 2026-05-21T02:18:02Z | [open](../records/catalogs-flowershow-markdowndb-c72b0d23.md) |
-| geolens-io/geolens | partial | 2026-09-04T12:59:07Z | [open](../records/catalogs-geolens-io-geolens-2be2bb7d.md) |
+| geolens-io/geolens | partial | 2026-09-05T12:25:21Z | [open](../records/catalogs-geolens-io-geolens-2be2bb7d.md) |
 | henomis/lingoose | partial | 2026-03-15T09:43:28Z | [open](../records/catalogs-henomis-lingoose-b7784a16.md) |
-| open-metadata/OpenMetadata | partial | 2026-09-04T13:24:01Z | [open](../records/catalogs-open-metadata-openmetadata-9b2636a5.md) |
-| opendatadiscovery/odd-platform | partial | 2026-09-04T09:09:50Z | [open](../records/catalogs-opendatadiscovery-odd-platform-9b006b6d.md) |
+| open-metadata/OpenMetadata | partial | 2026-09-05T12:14:10Z | [open](../records/catalogs-open-metadata-openmetadata-9b2636a5.md) |
+| opendatadiscovery/odd-platform | partial | 2026-09-05T07:39:20Z | [open](../records/catalogs-opendatadiscovery-odd-platform-9b006b6d.md) |
 | openfun/richie | partial | 2026-09-04T15:44:21Z | [open](../records/catalogs-openfun-richie-3e0bc01d.md) |
 | sealerio/sealer | partial | 2025-06-03T08:29:24Z | [open](../records/catalogs-sealerio-sealer-b1b1c3d8.md) |
 | sixem/ivfi-php | partial | 2026-09-04T00:33:05Z | [open](../records/catalogs-sixem-ivfi-php-0295793e.md) |
@@ -1154,10 +1154,10 @@ Records: `982`
 | kanaka/mal | partial | 2025-10-22T16:42:57Z | [open](../records/webassembly-kanaka-mal-077545d0.md) |
 | leptos-rs/leptos | partial | 2026-09-04T18:07:09Z | [open](../records/webassembly-leptos-rs-leptos-831793ba.md) |
 | mosra/magnum | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-mosra-magnum-7354176b.md) |
-| slint-ui/slint | partial | 2026-09-05T05:53:05Z | [open](../records/webassembly-slint-ui-slint-1565f5f8.md) |
-| spinframework/spin | partial | 2026-09-03T16:51:13Z | [open](../records/webassembly-spinframework-spin-bc703583.md) |
+| slint-ui/slint | partial | 2026-09-05T10:06:53Z | [open](../records/webassembly-slint-ui-slint-1565f5f8.md) |
+| spinframework/spin | partial | 2026-09-05T12:01:57Z | [open](../records/webassembly-spinframework-spin-bc703583.md) |
 | TokamakUI/Tokamak | partial | 2024-03-23T16:00:17Z | [open](../records/webassembly-tokamakui-tokamak-0097025f.md) |
-| unoplatform/uno | partial | 2026-09-05T04:10:54Z | [open](../records/webassembly-unoplatform-uno-0c5b85c2.md) |
+| unoplatform/uno | partial | 2026-09-05T08:00:21Z | [open](../records/webassembly-unoplatform-uno-0c5b85c2.md) |
 
 ## SAPJava
 
@@ -1237,7 +1237,7 @@ Records: `982`
 | sinaptik-ai/pandas-ai | partial | 2025-10-28T10:02:13Z | [open](../records/databases-sinaptik-ai-pandas-ai-51421c6b.md) |
 | skytable/skytable | partial | 2026-04-23T00:14:03Z | [open](../records/databases-skytable-skytable-522468ff.md) |
 | skyzh/write-you-a-vector-db | partial | 2026-09-01T09:56:00Z | [open](../records/databases-skyzh-write-you-a-vector-db-16d5344e.md) |
-| supabase/supabase | partial | 2026-09-05T02:52:36Z | [open](../records/databases-supabase-supabase-100a1793.md) |
+| supabase/supabase | partial | 2026-09-05T08:39:20Z | [open](../records/databases-supabase-supabase-100a1793.md) |
 | terminusdb/terminusdb | partial | 2026-08-10T14:54:19Z | [open](../records/databases-terminusdb-terminusdb-a8652993.md) |
 | torodb/stampede | partial | 2018-10-25T07:02:08Z | [open](../records/databases-torodb-stampede-a9676e19.md) |
 | x-ream/sqli | partial | 2026-07-24T03:14:00Z | [open](../records/databases-x-ream-sqli-bd8b199c.md) |

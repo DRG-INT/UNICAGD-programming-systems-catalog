@@ -17,7 +17,7 @@ Records: `223`
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (452)](ffi-bindings.md) · [Filesystem Os (1569)](filesystem-os.md) · [Formatter (643)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1444)](ide-editor-integration.md)
 [Image Audio Dsp (430)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5572)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5573)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (770)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1089)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
@@ -155,7 +155,7 @@ Records: `223`
 | loading_animation_widget | 1.3.0 | 2024-10-02T14:08:43.907944Z | [open](../records/dart-loading-animation-widget-92378805.md) |
 | omni_datetime_picker | 2.3.2 | 2026-05-19T06:46:06.901299Z | [open](../records/dart-omni-datetime-picker-4bfea4e3.md) |
 | paged_vertical_calendar | 1.1.10 | 2025-08-11T09:50:07.684943Z | [open](../records/dart-paged-vertical-calendar-637b47b2.md) |
-| pocketbase | 0.25.0 | 2026-08-19T15:08:11.321237Z | [open](../records/dart-pocketbase-7d21c636.md) |
+| pocketbase | 0.25.1 | 2026-09-05T10:39:02.541144Z | [open](../records/dart-pocketbase-7d21c636.md) |
 | reflectable | 5.2.3 | 2026-05-26T11:52:15.597918Z | [open](../records/dart-reflectable-edefe93e.md) |
 | shorebird_code_push | 2.0.7 | 2026-07-09T03:40:16.952662Z | [open](../records/dart-shorebird-code-push-a71fad3e.md) |
 | simple_animations | 5.3.0 | 2026-05-23T17:20:30.895501Z | [open](../records/dart-simple-animations-d7ac0aeb.md) |
@@ -168,7 +168,7 @@ Records: `223`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| livekit/livekit | partial | 2026-09-05T04:14:06Z | [open](../records/go-livekit-livekit-1b3e6406.md) |
+| livekit/livekit | partial | 2026-09-05T11:47:29Z | [open](../records/go-livekit-livekit-1b3e6406.md) |
 
 ## Computer Graphics Software
 

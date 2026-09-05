@@ -17,7 +17,7 @@ Records: `354`
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (452)](ffi-bindings.md) · [Filesystem Os (1569)](filesystem-os.md) · [Formatter (643)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · **[Game Engine Game Dev (354)](game-engine-game-dev.md)** · [Ide Editor Integration (1444)](ide-editor-integration.md)
 [Image Audio Dsp (430)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5572)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5573)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (770)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1089)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
@@ -489,7 +489,7 @@ Records: `354`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| asciimoo/hister | partial | 2026-09-03T18:31:33Z | [open](../records/catalogs-asciimoo-hister-7dbd60c9.md) |
+| asciimoo/hister | partial | 2026-09-05T11:37:33Z | [open](../records/catalogs-asciimoo-hister-7dbd60c9.md) |
 | gamedilong/awesome-cn | partial | 2020-01-23T06:56:32Z | [open](../records/catalogs-gamedilong-awesome-cn-95ab928b.md) |
 
 ## Assembly
@@ -516,7 +516,7 @@ Records: `354`
 | --- | --- | --- | --- |
 | AmbientRun/Ambient | partial | 2025-01-07T09:48:53Z | [open](../records/webassembly-ambientrun-ambient-cf0678b7.md) |
 | battlelinegames/ArtOfWasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-battlelinegames-artofwasm-a7847c62.md) |
-| boa-dev/boa | partial | 2026-09-01T15:04:16Z | [open](../records/webassembly-boa-dev-boa-27f5e4a0.md) |
+| boa-dev/boa | partial | 2026-09-05T08:05:58Z | [open](../records/webassembly-boa-dev-boa-27f5e4a0.md) |
 | ColinEberhardt/wasm-game-of-life | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-colineberhardt-wasm-game-of-life-82167b9c.md) |
 | dsekz/twitter-x-xp-forwarded-for-header | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-dsekz-twitter-x-xp-forwarded-for-header-fa8e3e36.md) |
 | MaxBittker/sandspiel | partial | 2026-09-02T21:43:26Z | [open](../records/webassembly-maxbittker-sandspiel-36849093.md) |

@@ -17,11 +17,11 @@
 | Source type | registry_expansion |
 | Verification | registry-derived |
 | Canonical URL | [https://hackage.haskell.org/package/phino](https://hackage.haskell.org/package/phino) |
-| Source record ids | hackage_recent-093cf7e166c197 |
+| Source record ids | hackage_top_downloads-093cf7e166c197 |
 
 ## System Engineer Summary
 
-Hackage package recently uploaded by maxonfjvipon.
+Hackage package with 235 recent downloads in the Hackage top-downloads listing.
 
 ## Operational Role
 
@@ -32,7 +32,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 0.0.115 | 2026-09-04T11:31:34Z | [https://hackage.haskell.org/packages/recent](https://hackage.haskell.org/packages/recent) |  |
+| stable | known | 0.0.115 | 2026-09-04T11:31:34Z | [https://hackage.haskell.org/package/phino](https://hackage.haskell.org/package/phino) |  |
 | preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 - Treat category as `library` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://hackage.haskell.org/packages/recent` at `2026-09-04T18:21:06+00:00`.
+- Latest stable metadata was observed from `https://hackage.haskell.org/package/phino` at `2026-09-05T12:26:31+00:00`.
 - Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
 
 ## Provenance
@@ -57,7 +57,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| hackage_recent_uploads | registry-derived | 2026-09-05 | `{"kind": "hackage_recent_uploads", "retrieved": "2026-09-05", "status": "registry-derived"}` |
+| hackage_top_downloads | registry-derived | 2026-09-05 | `{"kind": "hackage_top_downloads", "retrieved": "2026-09-05", "status": "registry-derived"}` |
 
 </details>
 
@@ -68,7 +68,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 Evidence records merged into this identity: `1`.
 
-- `hackage_recent-093cf7e166c197` from `hackage_recent` as `registry_expansion`
+- `hackage_top_downloads-093cf7e166c197` from `hackage_top_downloads` as `registry_expansion`
 
 </details>
 
@@ -96,7 +96,7 @@ Evidence records merged into this identity: `1`.
 [Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (452)](../by-category/ffi-bindings.md) · [Filesystem Os (1569)](../by-category/filesystem-os.md) · [Formatter (643)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1444)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (430)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (267)](../by-category/interpreter-runtime.md) · [Jit Vm (63)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1428)](../by-category/language-specification.md) · **[Library (5572)](../by-category/library.md)** · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1428)](../by-category/language-specification.md) · **[Library (5573)](../by-category/library.md)** · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (519)](../by-category/logging-observability.md) · [Machine Learning (770)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1029)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (441)](../by-category/package-manager.md) · [Parser Lexer Ast (1089)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](../by-category/precommit-ci-quality.md)

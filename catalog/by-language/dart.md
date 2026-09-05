@@ -17,7 +17,7 @@ Records: `760`
 [Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (452)](../by-category/ffi-bindings.md) · [Filesystem Os (1569)](../by-category/filesystem-os.md) · [Formatter (643)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1444)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (430)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (267)](../by-category/interpreter-runtime.md) · [Jit Vm (63)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1428)](../by-category/language-specification.md) · [Library (5572)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1428)](../by-category/language-specification.md) · [Library (5573)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (519)](../by-category/logging-observability.md) · [Machine Learning (770)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1029)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (441)](../by-category/package-manager.md) · [Parser Lexer Ast (1089)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](../by-category/precommit-ci-quality.md)
@@ -228,7 +228,7 @@ Records: `760`
 | [loading_animation_widget](../records/dart-loading-animation-widget-92378805.md) | 1.3.0 | 2024-10-02T14:08:43.907944Z | registry-derived |
 | [omni_datetime_picker](../records/dart-omni-datetime-picker-4bfea4e3.md) | 2.3.2 | 2026-05-19T06:46:06.901299Z | registry-derived |
 | [paged_vertical_calendar](../records/dart-paged-vertical-calendar-637b47b2.md) | 1.1.10 | 2025-08-11T09:50:07.684943Z | registry-derived |
-| [pocketbase](../records/dart-pocketbase-7d21c636.md) | 0.25.0 | 2026-08-19T15:08:11.321237Z | registry-derived |
+| [pocketbase](../records/dart-pocketbase-7d21c636.md) | 0.25.1 | 2026-09-05T10:39:02.541144Z | registry-derived |
 | [reflectable](../records/dart-reflectable-edefe93e.md) | 5.2.3 | 2026-05-26T11:52:15.597918Z | registry-derived |
 | [shorebird_code_push](../records/dart-shorebird-code-push-a71fad3e.md) | 2.0.7 | 2026-07-09T03:40:16.952662Z | registry-derived |
 | [simple_animations](../records/dart-simple-animations-d7ac0aeb.md) | 5.3.0 | 2026-05-23T17:20:30.895501Z | registry-derived |
@@ -874,7 +874,7 @@ Records: `760`
 | [pdfrx](../records/dart-pdfrx-292df18d.md) | 2.6.1 | 2026-09-04T17:57:08.145277Z | registry-derived |
 | [phone_numbers_parser](../records/dart-phone-numbers-parser-b6b27fe8.md) | 9.0.26 | 2026-09-01T00:34:26.060864Z | registry-derived |
 | [qr_flutter](../records/dart-qr-flutter-1ca2e5e2.md) | 4.1.0 | 2023-05-14T17:48:40.350369Z | registry-derived |
-| [swagger_parser](../records/dart-swagger-parser-440e5e1f.md) | 1.44.2 | 2026-09-01T10:16:51.778078Z | registry-derived |
+| [swagger_parser](../records/dart-swagger-parser-440e5e1f.md) | 1.44.3 | 2026-09-05T10:48:27.960524Z | registry-derived |
 | [toastification](../records/dart-toastification-3431842e.md) | 3.2.0 | 2026-04-19T08:39:42.239894Z | registry-derived |
 | [uuid](../records/dart-uuid-7d468e88.md) | 4.6.0 | 2026-07-15T10:49:38.445603Z | registry-derived |
 | [xterm](../records/dart-xterm-d0caf7a1.md) | 4.0.0 | 2024-02-27T07:31:16.327352Z | registry-derived |
