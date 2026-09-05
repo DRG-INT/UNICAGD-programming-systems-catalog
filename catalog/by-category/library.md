@@ -1,6 +1,6 @@
 # Library
 
-Records: `5581`
+Records: `5584`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `5581`
 
 ## Category Index
 
-[Api Abi Checker (216)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (194)](benchmarking.md) · [Build System (984)](build-system.md) · [Cli (561)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
+[Api Abi Checker (217)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Benchmarking (194)](benchmarking.md) · [Build System (984)](build-system.md) · [Cli (562)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (128)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (889)](database-datastore.md) · [Datetime (223)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (452)](ffi-bindings.md) · [Filesystem Os (1570)](filesystem-os.md) · [Formatter (644)](formatter.md)
+[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (453)](ffi-bindings.md) · [Filesystem Os (1570)](filesystem-os.md) · [Formatter (644)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1449)](ide-editor-integration.md)
 [Image Audio Dsp (431)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · **[Library (5581)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (772)](machine-learning.md)
+[Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · **[Library (5584)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (775)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1135)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
 [Profiler (86)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (394)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (600)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (605)](testing-framework.md) · [Tutorial Book Styleguide (63)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1601)](undefined-behavior-analyzer.md) · [Utility Library (103)](utility-library.md) · [Visualization Gui (547)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Undefined Behavior Analyzer (1601)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (547)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C99
 
@@ -2555,6 +2555,7 @@ Records: `5581`
 | CLDedgelister | 1.0.3 | 2026-08-20 02:10:02 UTC | [open](../records/r-cldedgelister-12643d0d.md) |
 | clr | 0.1.3 | 2026-08-31 20:50:03 UTC | [open](../records/r-clr-97b08196.md) |
 | ClustAssess | 1.2.0 | 2026-08-29 22:40:15 UTC | [open](../records/r-clustassess-ef0464a1.md) |
+| ClustBlock | 6.1.0 | 2026-09-05 15:40:27 UTC | [open](../records/r-clustblock-c671375a.md) |
 | clustGLMM | 1.0.1 | 2026-08-19 16:00:14 UTC | [open](../records/r-clustglmm-eb588c20.md) |
 | CMTFtoolbox | 1.1.1 | 2026-08-28 21:30:41 UTC | [open](../records/r-cmtftoolbox-55a06f2c.md) |
 | cochranSize | 0.1.0 | 2026-08-08 12:30:07 UTC | [open](../records/r-cochransize-e5bc40a4.md) |
@@ -2718,6 +2719,7 @@ Records: `5581`
 | L0ggm | 0.1.2 | 2026-08-26 18:10:02 UTC | [open](../records/r-l0ggm-774dff6a.md) |
 | labelled | 2.16.1 | 2026-08-20 14:30:07 UTC | [open](../records/r-labelled-b07b2d3f.md) |
 | laGP | 1.5-10 | 2026-08-25 21:40:08 UTC | [open](../records/r-lagp-c5a2c2e9.md) |
+| lapop | 2.2 | 2026-09-05 16:00:03 UTC | [open](../records/r-lapop-2f3004d2.md) |
 | lasars | 0.1.1 | 2026-08-27 10:10:02 UTC | [open](../records/r-lasars-393f6654.md) |
 | lattice | 0.23-1 | 2026-08-12 14:43:29 UTC | [open](../records/r-lattice-a35f5756.md) |
 | lava | 1.9.3 | 2026-08-20 09:20:18 UTC | [open](../records/r-lava-bd3f9778.md) |
@@ -2875,6 +2877,7 @@ Records: `5581`
 | repo | 2.1.7 | 2026-08-04 23:00:21 UTC | [open](../records/r-repo-1b48584f.md) |
 | reticulate | 1.47.0 | 2026-09-03 05:20:02 UTC | [open](../records/r-reticulate-0463c1c5.md) |
 | rewind | 0.2.0 | 2026-08-21 13:50:08 UTC | [open](../records/r-rewind-56515e87.md) |
+| rfoaas | 2.4.0 | 2026-09-05 15:40:02 UTC | [open](../records/r-rfoaas-ac192b0c.md) |
 | Rhobots | 0.1.10 | 2026-08-08 14:30:02 UTC | [open](../records/r-rhobots-2e8c7a13.md) |
 | rice | 2.3.0 | 2026-08-19 14:30:02 UTC | [open](../records/r-rice-92478c24.md) |
 | riskPredictClustData | 0.2.7 | 2026-08-31 23:30:02 UTC | [open](../records/r-riskpredictclustdata-34315fd2.md) |
@@ -4209,7 +4212,7 @@ Records: `5581`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-05T14:56:44Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-05T15:28:35Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
