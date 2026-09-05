@@ -8,23 +8,23 @@ Records: `1561`
 
 ## Category Index
 
-[Api Abi Checker (214)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Api Abi Checker (215)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
 [Benchmarking (194)](benchmarking.md) · [Build System (980)](build-system.md) · [Cli (559)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (128)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (886)](database-datastore.md) · [Datetime (223)](datetime.md)
+[Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (887)](database-datastore.md) · [Datetime (223)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (449)](ffi-bindings.md) · **[Filesystem Os (1561)](filesystem-os.md)** · [Formatter (640)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1431)](ide-editor-integration.md)
+[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (449)](ffi-bindings.md) · **[Filesystem Os (1561)](filesystem-os.md)** · [Formatter (641)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1433)](ide-editor-integration.md)
 [Image Audio Dsp (428)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5547)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (517)](logging-observability.md) · [Machine Learning (769)](machine-learning.md)
-[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1025)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (438)](package-manager.md) · [Parser Lexer Ast (1088)](parser-lexer-ast.md) · [Precommit Ci Quality (297)](precommit-ci-quality.md)
-[Profiler (86)](profiler.md) · [Project Scaffolding (132)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5551)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (518)](logging-observability.md) · [Machine Learning (769)](machine-learning.md)
+[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1026)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (438)](package-manager.md) · [Parser Lexer Ast (1088)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
+[Profiler (86)](profiler.md) · [Project Scaffolding (132)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (14)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (393)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (595)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (603)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1587)](undefined-behavior-analyzer.md) · [Utility Library (102)](utility-library.md) · [Visualization Gui (542)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Undefined Behavior Analyzer (1587)](undefined-behavior-analyzer.md) · [Utility Library (103)](utility-library.md) · [Visualization Gui (542)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C++23
 
@@ -1629,7 +1629,7 @@ Records: `1561`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AdrianoBispo/estude-sap-cap-com-java | partial | 2026-01-16T14:24:41Z | [open](../records/sapjava-adrianobispo-estude-sap-cap-com-java-cd237f6f.md) |
-| cap-js-community/sap-afc-sdk | partial | 2026-09-03T12:11:28Z | [open](../records/sapjava-cap-js-community-sap-afc-sdk-ceed7a56.md) |
+| cap-js-community/sap-afc-sdk | partial | 2026-09-04T21:55:14Z | [open](../records/sapjava-cap-js-community-sap-afc-sdk-ceed7a56.md) |
 | cmunozhdz/HanaEjemplos | unknown | not_a_maven_coordinate | [open](../records/sapjava-cmunozhdz-hanaejemplos-adf0cff1.md) |
 | cosminnionutt/cloud-espm-v2 | unknown | not_a_maven_coordinate | [open](../records/sapjava-cosminnionutt-cloud-espm-v2-0b22ed02.md) |
 | Hosseini1373/MultitenantApp_CF_SAP_BTP_JAVA | partial | 2024-06-20T12:05:40Z | [open](../records/sapjava-hosseini1373-multitenantapp-cf-sap-btp-java-60965f5f.md) |
@@ -1707,72 +1707,72 @@ Records: `1561`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| alaingalvan/CrossWindow | unknown | not_a_cocoapods_name | [open](../records/cocoa-alaingalvan-crosswindow-b9767615.md) |
-| armadsen/ORSSerialPort | unknown | not_a_cocoapods_name | [open](../records/cocoa-armadsen-orsserialport-ea69ce4d.md) |
-| bradjasper/RadialMenu | unknown | not_a_cocoapods_name | [open](../records/cocoa-bradjasper-radialmenu-22394b23.md) |
+| alaingalvan/CrossWindow | partial | 2024-08-15T22:17:52Z | [open](../records/cocoa-alaingalvan-crosswindow-b9767615.md) |
+| armadsen/ORSSerialPort | partial | 2023-11-03T14:19:49Z | [open](../records/cocoa-armadsen-orsserialport-ea69ce4d.md) |
+| bradjasper/RadialMenu | partial | 2022-08-15T19:50:21Z | [open](../records/cocoa-bradjasper-radialmenu-22394b23.md) |
 | CleanArchitectureRxSwift | unknown | cocoapods_metadata_missing | [open](../records/cocoa-cleanarchitecturerxswift-cd79b32d.md) |
-| codam-coding-college/MLX42 | unknown | not_a_cocoapods_name | [open](../records/cocoa-codam-coding-college-mlx42-9cfc2f7b.md) |
-| coding/Coding-iOS | unknown | not_a_cocoapods_name | [open](../records/cocoa-coding-coding-ios-dbb20773.md) |
-| ColleagueRiley/RGFW | unknown | not_a_cocoapods_name | [open](../records/cocoa-colleagueriley-rgfw-e967884f.md) |
+| codam-coding-college/MLX42 | partial | 2026-06-09T08:38:33Z | [open](../records/cocoa-codam-coding-college-mlx42-9cfc2f7b.md) |
+| coding/Coding-iOS | partial | 2019-05-23T03:43:13Z | [open](../records/cocoa-coding-coding-ios-dbb20773.md) |
+| ColleagueRiley/RGFW | partial | 2026-09-02T20:10:10Z | [open](../records/cocoa-colleagueriley-rgfw-e967884f.md) |
 | Countly | 26.1.0 | 2026-02-18 14:12:24 UTC | [open](../records/cocoa-countly-2297ca5c.md) |
-| Danie1s/Tiercel | unknown | not_a_cocoapods_name | [open](../records/cocoa-danie1s-tiercel-5ed21306.md) |
-| DarielChen/iOSTips | unknown | not_a_cocoapods_name | [open](../records/cocoa-darielchen-iostips-e6e9e701.md) |
-| dkhamsing/open-source-ios-apps | unknown | not_a_cocoapods_name | [open](../records/cocoa-dkhamsing-open-source-ios-apps-3bad4ab1.md) |
-| DrawKit/DrawKit | unknown | not_a_cocoapods_name | [open](../records/cocoa-drawkit-drawkit-72c338f1.md) |
-| dusty-commits/Closures | unknown | not_a_cocoapods_name | [open](../records/cocoa-dusty-commits-closures-519b25c5.md) |
-| FluidGroup/NextGrowingTextView | unknown | not_a_cocoapods_name | [open](../records/cocoa-fluidgroup-nextgrowingtextview-19805040.md) |
-| freshOS/Stevia | unknown | not_a_cocoapods_name | [open](../records/cocoa-freshos-stevia-f781058c.md) |
-| guoyingtao/Mantis | unknown | not_a_cocoapods_name | [open](../records/cocoa-guoyingtao-mantis-145f6603.md) |
+| Danie1s/Tiercel | partial | 2026-08-24T16:54:29Z | [open](../records/cocoa-danie1s-tiercel-5ed21306.md) |
+| DarielChen/iOSTips | partial | 2020-10-19T07:14:11Z | [open](../records/cocoa-darielchen-iostips-e6e9e701.md) |
+| dkhamsing/open-source-ios-apps | partial | 2026-09-04T17:00:36Z | [open](../records/cocoa-dkhamsing-open-source-ios-apps-3bad4ab1.md) |
+| DrawKit/DrawKit | partial | 2023-03-13T12:23:46Z | [open](../records/cocoa-drawkit-drawkit-72c338f1.md) |
+| dusty-commits/Closures | partial | 2021-04-29T15:34:36Z | [open](../records/cocoa-dusty-commits-closures-519b25c5.md) |
+| FluidGroup/NextGrowingTextView | partial | 2026-08-21T18:15:48Z | [open](../records/cocoa-fluidgroup-nextgrowingtextview-19805040.md) |
+| freshOS/Stevia | partial | 2025-09-21T09:17:28Z | [open](../records/cocoa-freshos-stevia-f781058c.md) |
+| guoyingtao/Mantis | partial | 2026-07-11T23:04:15Z | [open](../records/cocoa-guoyingtao-mantis-145f6603.md) |
 | Heimdallr.swift | 4.0.0 | 2024-01-04T09:06:03Z | [open](../records/cocoa-heimdallr-swift-1def73fc.md) |
 | iOS-Viper-Architecture | unknown | cocoapods_metadata_missing | [open](../records/cocoa-ios-viper-architecture-eb2ddbcf.md) |
-| ivanvorobei/awesome-ios | unknown | not_a_cocoapods_name | [open](../records/cocoa-ivanvorobei-awesome-ios-b2601cf1.md) |
-| iziz/libPhoneNumber-iOS | unknown | not_a_cocoapods_name | [open](../records/cocoa-iziz-libphonenumber-ios-cb5f359d.md) |
+| ivanvorobei/awesome-ios | partial | 2023-03-06T08:19:36Z | [open](../records/cocoa-ivanvorobei-awesome-ios-b2601cf1.md) |
+| iziz/libPhoneNumber-iOS | partial | 2026-08-29T15:30:59Z | [open](../records/cocoa-iziz-libphonenumber-ios-cb5f359d.md) |
 | JLRoutes | 2.1.1 | 2021-08-10T19:10:38Z | [open](../records/cocoa-jlroutes-7a9922bb.md) |
-| joeldev/JLRoutes | unknown | not_a_cocoapods_name | [open](../records/cocoa-joeldev-jlroutes-352fbc29.md) |
-| JonasGessner/JGProgressHUD | unknown | not_a_cocoapods_name | [open](../records/cocoa-jonasgessner-jgprogresshud-6640e1c5.md) |
-| justvanrossum/fontgoggles | unknown | not_a_cocoapods_name | [open](../records/cocoa-justvanrossum-fontgoggles-bc5e9e02.md) |
-| ko1o/PYSearch | unknown | not_a_cocoapods_name | [open](../records/cocoa-ko1o-pysearch-486c5a10.md) |
-| KrauseFx/TSMessages | unknown | not_a_cocoapods_name | [open](../records/cocoa-krausefx-tsmessages-76430fc4.md) |
-| krevis/MIDIApps | unknown | not_a_cocoapods_name | [open](../records/cocoa-krevis-midiapps-99b0ceac.md) |
+| joeldev/JLRoutes | partial | 2023-02-21T14:37:00Z | [open](../records/cocoa-joeldev-jlroutes-352fbc29.md) |
+| JonasGessner/JGProgressHUD | partial | 2023-10-18T01:21:10Z | [open](../records/cocoa-jonasgessner-jgprogresshud-6640e1c5.md) |
+| justvanrossum/fontgoggles | partial | 2026-08-31T17:07:17Z | [open](../records/cocoa-justvanrossum-fontgoggles-bc5e9e02.md) |
+| ko1o/PYSearch | partial | 2020-09-30T01:35:57Z | [open](../records/cocoa-ko1o-pysearch-486c5a10.md) |
+| KrauseFx/TSMessages | partial | 2023-06-01T11:22:32Z | [open](../records/cocoa-krausefx-tsmessages-76430fc4.md) |
+| krevis/MIDIApps | partial | 2026-05-13T06:02:06Z | [open](../records/cocoa-krevis-midiapps-99b0ceac.md) |
 | Linker | 1.0.0 | 2018-02-16 13:10:21 UTC | [open](../records/cocoa-linker-4fdf9997.md) |
-| LouisCAD/Splitties | unknown | not_a_cocoapods_name | [open](../records/cocoa-louiscad-splitties-2b7fd459.md) |
+| LouisCAD/Splitties | partial | 2024-05-29T22:10:21Z | [open](../records/cocoa-louiscad-splitties-2b7fd459.md) |
 | lovoo/NSFWDetector | partial | 2024-08-29T13:35:18Z | [open](../records/cocoa-lovoo-nsfwdetector-c23e9e45.md) |
-| lukakerr/NSWindowStyles | unknown | not_a_cocoapods_name | [open](../records/cocoa-lukakerr-nswindowstyles-1fe4dfe0.md) |
-| marcosgriselli/SwipeableTabBarController | unknown | not_a_cocoapods_name | [open](../records/cocoa-marcosgriselli-swipeabletabbarcontroller-78b50143.md) |
+| lukakerr/NSWindowStyles | partial | 2021-05-30T23:29:35Z | [open](../records/cocoa-lukakerr-nswindowstyles-1fe4dfe0.md) |
+| marcosgriselli/SwipeableTabBarController | partial | 2023-06-04T21:52:42Z | [open](../records/cocoa-marcosgriselli-swipeabletabbarcontroller-78b50143.md) |
 | MOCA Analytics | unknown | not_a_cocoapods_name | [open](../records/cocoa-moca-analytics-2499b29b.md) |
 | OAuth2 | 5.2.0 | 2020-02-09T07:00:50Z | [open](../records/cocoa-oauth2-8f88febb.md) |
 | OAuthSwift | 2.2.0 | 2021-05-20T21:49:57Z | [open](../records/cocoa-oauthswift-fc66a7d4.md) |
 | ParallaxView | 3.1.2 | 2020-08-04T06:46:47Z | [open](../records/cocoa-parallaxview-47f8d7f8.md) |
-| parse-community/Parse-SDK-iOS-OSX | unknown | not_a_cocoapods_name | [open](../records/cocoa-parse-community-parse-sdk-ios-osx-1c4f6bed.md) |
-| pocketsvg/PocketSVG | unknown | not_a_cocoapods_name | [open](../records/cocoa-pocketsvg-pocketsvg-38064d56.md) |
+| parse-community/Parse-SDK-iOS-OSX | partial | 2026-08-10T23:13:06Z | [open](../records/cocoa-parse-community-parse-sdk-ios-osx-1c4f6bed.md) |
+| pocketsvg/PocketSVG | partial | 2025-11-11T12:30:11Z | [open](../records/cocoa-pocketsvg-pocketsvg-38064d56.md) |
 | Reactant | 1.3.1 | 2019-11-23 14:24:13 UTC | [open](../records/cocoa-reactant-59b1bb5a.md) |
-| realm/realm-tasks | unknown | not_a_cocoapods_name | [open](../records/cocoa-realm-realm-tasks-e54b2089.md) |
+| realm/realm-tasks | partial | 2021-11-23T11:14:25Z | [open](../records/cocoa-realm-realm-tasks-e54b2089.md) |
 | ReCaptcha | 1.6.0 | 2021-01-04T21:07:49Z | [open](../records/cocoa-recaptcha-ef4f0c63.md) |
-| rhummelmose/BluetoothKit | unknown | not_a_cocoapods_name | [open](../records/cocoa-rhummelmose-bluetoothkit-2f019446.md) |
+| rhummelmose/BluetoothKit | partial | 2023-10-06T13:26:35Z | [open](../records/cocoa-rhummelmose-bluetoothkit-2f019446.md) |
 | RouteComposer | 2.22.2 | 2026-08-18T19:21:54Z | [open](../records/cocoa-routecomposer-e90e943a.md) |
 | RxFlow | 2.13.0 | 2022-04-27T12:49:48Z | [open](../records/cocoa-rxflow-6ff66a60.md) |
-| sahin/mobileplayer-ios | unknown | not_a_cocoapods_name | [open](../records/cocoa-sahin-mobileplayer-ios-33ef2b37.md) |
-| saucer/saucer | unknown | not_a_cocoapods_name | [open](../records/cocoa-saucer-saucer-338e12ec.md) |
-| shoheiyokoyama/Gemini | unknown | not_a_cocoapods_name | [open](../records/cocoa-shoheiyokoyama-gemini-e24896a8.md) |
-| sindresorhus/KeyboardShortcuts | unknown | not_a_cocoapods_name | [open](../records/cocoa-sindresorhus-keyboardshortcuts-96f47e66.md) |
-| SnapKit/SnapKit | unknown | not_a_cocoapods_name | [open](../records/cocoa-snapkit-snapkit-aa75ddde.md) |
-| sveinbjornt/Platypus | unknown | not_a_cocoapods_name | [open](../records/cocoa-sveinbjornt-platypus-b3728979.md) |
-| SVProgressHUD/SVProgressHUD | unknown | not_a_cocoapods_name | [open](../records/cocoa-svprogresshud-svprogresshud-7ef7b9b2.md) |
-| SwifterSwift/SwifterSwift | unknown | not_a_cocoapods_name | [open](../records/cocoa-swifterswift-swifterswift-fd69f040.md) |
-| TechUnRestricted/WinDiskWriter | unknown | not_a_cocoapods_name | [open](../records/cocoa-techunrestricted-windiskwriter-e73be293.md) |
-| telly/TLYShyNavBar | unknown | not_a_cocoapods_name | [open](../records/cocoa-telly-tlyshynavbar-b6713c2d.md) |
-| TimOliver/TOCropViewController | unknown | not_a_cocoapods_name | [open](../records/cocoa-timoliver-tocropviewcontroller-a5d9ff2e.md) |
-| TimOliver/TOWebViewController | unknown | not_a_cocoapods_name | [open](../records/cocoa-timoliver-towebviewcontroller-f5378013.md) |
+| sahin/mobileplayer-ios | partial | 2022-07-21T22:10:51Z | [open](../records/cocoa-sahin-mobileplayer-ios-33ef2b37.md) |
+| saucer/saucer | partial | 2026-09-04T11:56:34Z | [open](../records/cocoa-saucer-saucer-338e12ec.md) |
+| shoheiyokoyama/Gemini | partial | 2025-06-28T06:50:16Z | [open](../records/cocoa-shoheiyokoyama-gemini-e24896a8.md) |
+| sindresorhus/KeyboardShortcuts | partial | 2026-06-17T10:24:25Z | [open](../records/cocoa-sindresorhus-keyboardshortcuts-96f47e66.md) |
+| SnapKit/SnapKit | partial | 2026-07-13T10:50:19Z | [open](../records/cocoa-snapkit-snapkit-aa75ddde.md) |
+| sveinbjornt/Platypus | partial | 2026-05-13T22:44:55Z | [open](../records/cocoa-sveinbjornt-platypus-b3728979.md) |
+| SVProgressHUD/SVProgressHUD | partial | 2026-02-27T17:42:19Z | [open](../records/cocoa-svprogresshud-svprogresshud-7ef7b9b2.md) |
+| SwifterSwift/SwifterSwift | partial | 2026-08-09T05:41:29Z | [open](../records/cocoa-swifterswift-swifterswift-fd69f040.md) |
+| TechUnRestricted/WinDiskWriter | partial | 2026-01-24T16:48:15Z | [open](../records/cocoa-techunrestricted-windiskwriter-e73be293.md) |
+| telly/TLYShyNavBar | partial | 2018-09-20T09:24:13Z | [open](../records/cocoa-telly-tlyshynavbar-b6713c2d.md) |
+| TimOliver/TOCropViewController | partial | 2026-07-28T15:53:56Z | [open](../records/cocoa-timoliver-tocropviewcontroller-a5d9ff2e.md) |
+| TimOliver/TOWebViewController | partial | 2019-09-16T12:07:54Z | [open](../records/cocoa-timoliver-towebviewcontroller-f5378013.md) |
 | TvOSPinKeyboard | 2.0.3 | 2021-03-18T09:23:28Z | [open](../records/cocoa-tvospinkeyboard-d0229d3d.md) |
-| Uncommon/Xit | unknown | not_a_cocoapods_name | [open](../records/cocoa-uncommon-xit-5f2b7a6a.md) |
-| vanshg/MacAssistant | unknown | not_a_cocoapods_name | [open](../records/cocoa-vanshg-macassistant-547bed40.md) |
+| Uncommon/Xit | partial | 2026-04-08T15:32:55Z | [open](../records/cocoa-uncommon-xit-5f2b7a6a.md) |
+| vanshg/MacAssistant | partial | 2023-03-05T23:23:35Z | [open](../records/cocoa-vanshg-macassistant-547bed40.md) |
 | WAAppRouting | 0.0.5 | 2015-11-13T01:24:41Z | [open](../records/cocoa-waapprouting-28d367e4.md) |
-| WenchaoD/FSCalendar | unknown | not_a_cocoapods_name | [open](../records/cocoa-wenchaod-fscalendar-a94a6797.md) |
-| wmcmahan/react-native-calendar-events | unknown | not_a_cocoapods_name | [open](../records/cocoa-wmcmahan-react-native-calendar-events-387e0782.md) |
-| wxWidgets/wxWidgets | unknown | not_a_cocoapods_name | [open](../records/cocoa-wxwidgets-wxwidgets-d7c0778b.md) |
-| xmartlabs/XLPagerTabStrip | unknown | not_a_cocoapods_name | [open](../records/cocoa-xmartlabs-xlpagertabstrip-9d461d1f.md) |
-| Yalantis/FoldingTabBar.iOS | unknown | not_a_cocoapods_name | [open](../records/cocoa-yalantis-foldingtabbar-ios-6790d432.md) |
-| Yalantis/Koloda | unknown | not_a_cocoapods_name | [open](../records/cocoa-yalantis-koloda-c5819ab8.md) |
+| WenchaoD/FSCalendar | partial | 2024-08-10T13:44:15Z | [open](../records/cocoa-wenchaod-fscalendar-a94a6797.md) |
+| wmcmahan/react-native-calendar-events | partial | 2026-01-05T21:09:47Z | [open](../records/cocoa-wmcmahan-react-native-calendar-events-387e0782.md) |
+| wxWidgets/wxWidgets | partial | 2026-09-03T22:17:30Z | [open](../records/cocoa-wxwidgets-wxwidgets-d7c0778b.md) |
+| xmartlabs/XLPagerTabStrip | partial | 2023-11-22T13:34:09Z | [open](../records/cocoa-xmartlabs-xlpagertabstrip-9d461d1f.md) |
+| Yalantis/FoldingTabBar.iOS | partial | 2022-06-13T14:56:56Z | [open](../records/cocoa-yalantis-foldingtabbar-ios-6790d432.md) |
+| Yalantis/Koloda | partial | 2024-05-29T20:58:30Z | [open](../records/cocoa-yalantis-koloda-c5819ab8.md) |
 
 ## Databases
 

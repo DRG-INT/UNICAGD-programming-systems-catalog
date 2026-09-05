@@ -4,23 +4,23 @@
 
 ## Category Index
 
-[Api Abi Checker (214)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (136)](by-category/async-runtime.md)
+[Api Abi Checker (215)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (136)](by-category/async-runtime.md)
 [Benchmarking (194)](by-category/benchmarking.md) · [Build System (980)](by-category/build-system.md) · [Cli (559)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (116)](by-category/community-reference.md) · [Compiler (175)](by-category/compiler.md) · [Compiler Diagnostics (23)](by-category/compiler-diagnostics.md) · [Compression (50)](by-category/compression.md)
 [Concurrency Parallelism (89)](by-category/concurrency-parallelism.md) · [Configuration (128)](by-category/configuration.md) · [Container Deployment (9)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (173)](by-category/cryptography.md) · [Data Science (38)](by-category/data-science.md) · [Database Datastore (886)](by-category/database-datastore.md) · [Datetime (223)](by-category/datetime.md)
+[Cryptography (173)](by-category/cryptography.md) · [Data Science (38)](by-category/data-science.md) · [Database Datastore (887)](by-category/database-datastore.md) · [Datetime (223)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (101)](by-category/dependency-manager.md) · [Documentation (103)](by-category/documentation.md)
-[Embedded Hardware (56)](by-category/embedded-hardware.md) · [Ffi Bindings (449)](by-category/ffi-bindings.md) · [Filesystem Os (1561)](by-category/filesystem-os.md) · [Formatter (640)](by-category/formatter.md)
-[Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (354)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1431)](by-category/ide-editor-integration.md)
+[Embedded Hardware (56)](by-category/embedded-hardware.md) · [Ffi Bindings (449)](by-category/ffi-bindings.md) · [Filesystem Os (1561)](by-category/filesystem-os.md) · [Formatter (641)](by-category/formatter.md)
+[Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (354)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1433)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (428)](by-category/image-audio-dsp.md) · [Interop Bindings (61)](by-category/interop-bindings.md) · [Interpreter Runtime (267)](by-category/interpreter-runtime.md) · [Jit Vm (63)](by-category/jit-vm.md)
-[Language Server (29)](by-category/language-server.md) · [Language Specification (1428)](by-category/language-specification.md) · [Library (5547)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (517)](by-category/logging-observability.md) · [Machine Learning (769)](by-category/machine-learning.md)
-[Math Numeric Scientific (87)](by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1025)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (438)](by-category/package-manager.md) · [Parser Lexer Ast (1088)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (297)](by-category/precommit-ci-quality.md)
-[Profiler (86)](by-category/profiler.md) · [Project Scaffolding (132)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (13)](by-category/sanitizer.md)
+[Language Server (29)](by-category/language-server.md) · [Language Specification (1428)](by-category/language-specification.md) · [Library (5551)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (518)](by-category/logging-observability.md) · [Machine Learning (769)](by-category/machine-learning.md)
+[Math Numeric Scientific (87)](by-category/math-numeric-scientific.md) · [Memory Analyzer (95)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1026)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (438)](by-category/package-manager.md) · [Parser Lexer Ast (1088)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](by-category/precommit-ci-quality.md)
+[Profiler (86)](by-category/profiler.md) · [Project Scaffolding (132)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (14)](by-category/sanitizer.md)
 [Security Sast (336)](by-category/security-sast.md) · [Serialization (393)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (595)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (603)](by-category/testing-framework.md) · [Tutorial Book Styleguide (62)](by-category/tutorial-book-styleguide.md) · [Type Checker (313)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1587)](by-category/undefined-behavior-analyzer.md) · [Utility Library (102)](by-category/utility-library.md) · [Visualization Gui (542)](by-category/visualization-gui.md) · [Web Framework (476)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1587)](by-category/undefined-behavior-analyzer.md) · [Utility Library (103)](by-category/utility-library.md) · [Visualization Gui (542)](by-category/visualization-gui.md) · [Web Framework (476)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -1408,6 +1408,7 @@
 | `cran_packages_by_date-5c6e2de7271694` | migraph | [open](records/r-migraph-96f59b3d.md) |
 | `cran_packages_by_date-5c798b2740b9e0` | insight | [open](records/r-insight-1f8504de.md) |
 | `cran_packages_by_date-5c9b8f5977a0dc` | MTLRF | [open](records/r-mtlrf-b754c7fe.md) |
+| `cran_packages_by_date-5ca76c697be037` | BerkeleyForestsAnalytics | [open](records/r-berkeleyforestsanalytics-3515dead.md) |
 | `cran_packages_by_date-5ca7c834b7eaf0` | childfree | [open](records/r-childfree-6749c0c1.md) |
 | `cran_packages_by_date-5ce6724b71c466` | plotthis | [open](records/r-plotthis-2b8373bd.md) |
 | `cran_packages_by_date-5d406cf340573a` | RcppCWB | [open](records/r-rcppcwb-121be81b.md) |
@@ -1584,6 +1585,7 @@
 | `cran_packages_by_date-791b7a9149f81a` | robustrcp | [open](records/r-robustrcp-924e14c1.md) |
 | `cran_packages_by_date-79208007f40909` | ReDaMoR | [open](records/r-redamor-e80f9347.md) |
 | `cran_packages_by_date-79487b8814b757` | mRMRe | [open](records/r-mrmre-354377c9.md) |
+| `cran_packages_by_date-795110c7ea4dd1` | RcppCGAL | [open](records/r-rcppcgal-fbf935e3.md) |
 | `cran_packages_by_date-795506c547fb4b` | MAIVE | [open](records/r-maive-11b3eb41.md) |
 | `cran_packages_by_date-7961e8fb969b78` | BKQualit | [open](records/r-bkqualit-7610bf7f.md) |
 | `cran_packages_by_date-79a8d0aa36b0b2` | pgt | [open](records/r-pgt-457c8872.md) |
@@ -1808,6 +1810,7 @@
 | `cran_packages_by_date-98ea7711876105` | qtsa | [open](records/r-qtsa-c66cce00.md) |
 | `cran_packages_by_date-98fb76e59f8b04` | dScoreTest | [open](records/r-dscoretest-8924c911.md) |
 | `cran_packages_by_date-991fb789d44860` | vayr | [open](records/r-vayr-1f6d5cd3.md) |
+| `cran_packages_by_date-99308681e69c2a` | fitVARMxID | [open](records/r-fitvarmxid-eed81fef.md) |
 | `cran_packages_by_date-99559c0a2aa425` | fipp | [open](records/r-fipp-d7a8c719.md) |
 | `cran_packages_by_date-99691bf2d05614` | NeutroBasicDesignsAnalysis | [open](records/r-neutrobasicdesignsanalysis-d8530265.md) |
 | `cran_packages_by_date-998aec66b9692b` | pHMC | [open](records/r-phmc-399fe1e4.md) |
@@ -2390,6 +2393,7 @@
 | `cran_packages_by_date-f7506284b0722e` | qshap | [open](records/r-qshap-dacbd79c.md) |
 | `cran_packages_by_date-f79c45ef7dd505` | dataganger | [open](records/r-dataganger-087590ce.md) |
 | `cran_packages_by_date-f80a859e3330ff` | stablelearner | [open](records/r-stablelearner-37956346.md) |
+| `cran_packages_by_date-f8258e557ebddd` | thredds | [open](records/r-thredds-3a1fc796.md) |
 | `cran_packages_by_date-f83968297134e6` | dobson | [open](records/r-dobson-853a14d4.md) |
 | `cran_packages_by_date-f850fe1320cd2e` | Require | [open](records/r-require-d9581ba6.md) |
 | `cran_packages_by_date-f86176572d14aa` | matchednull | [open](records/r-matchednull-921bf075.md) |
@@ -25168,6 +25172,7 @@
 | `packagist_search-1325be65ae8c41` | mezzio/mezzio | [open](records/php-mezzio-mezzio-3c631e15.md) |
 | `packagist_search-1587e8d997cc71` | php-curl-class/php-curl-class | [open](records/php-php-curl-class-php-curl-class-b9592d9a.md) |
 | `packagist_search-17a07284f11db7` | fruitcake/php-cors | [open](records/php-fruitcake-php-cors-9d2fc866.md) |
+| `packagist_search-183b25a04ec69f` | albertoarena/laravel-truss | [open](records/php-albertoarena-laravel-truss-d4cfc94b.md) |
 | `packagist_search-18edf48142b534` | pestphp/pest-plugin-faker | [open](records/php-pestphp-pest-plugin-faker-cc3fbc92.md) |
 | `packagist_search-19441175157787` | aura/sql | [open](records/php-aura-sql-a7b4840d.md) |
 | `packagist_search-194e15c8b839b3` | propel/propel1 | [open](records/php-propel-propel1-7f515659.md) |
@@ -25938,6 +25943,7 @@
 | `pub_dev-4199f8c216c4ee` | open_file | [open](records/dart-open-file-f921d48c.md) |
 | `pub_dev-41dce4b4052c6a` | universal_io | [open](records/dart-universal-io-b5ae3ebe.md) |
 | `pub_dev-41ed1b6f48b540` | patrol | [open](records/dart-patrol-393eae62.md) |
+| `pub_dev-42d3e04bdccea0` | rect_getter | [open](records/dart-rect-getter-d4ced7df.md) |
 | `pub_dev-42dea4251bd068` | audio_waveforms | [open](records/dart-audio-waveforms-57440b11.md) |
 | `pub_dev-42f45c2fd04e84` | animated_text_kit | [open](records/dart-animated-text-kit-23439ecd.md) |
 | `pub_dev-43908f2199c3f7` | synchronized | [open](records/dart-synchronized-efe2aca5.md) |
@@ -26141,6 +26147,7 @@
 | `pub_dev-8b5bbad13941df` | ansicolor | [open](records/dart-ansicolor-7e0a279b.md) |
 | `pub_dev-8b869ab74e8b55` | volume_controller | [open](records/dart-volume-controller-22f56c30.md) |
 | `pub_dev-8cc629c3823e28` | checked_yaml | [open](records/dart-checked-yaml-6e42ad6b.md) |
+| `pub_dev-8d0ad9af763e93` | retrofit_generator | [open](records/dart-retrofit-generator-f82b1374.md) |
 | `pub_dev-8dc546520e50ed` | package_rename | [open](records/dart-package-rename-37869553.md) |
 | `pub_dev-8de1287c062ecb` | home_widget | [open](records/dart-home-widget-2e919e24.md) |
 | `pub_dev-8e9fad828c88cb` | haptic_feedback | [open](records/dart-haptic-feedback-8728a0cb.md) |
@@ -26243,6 +26250,7 @@
 | `pub_dev-a8e72ad6044d2b` | path | [open](records/dart-path-2731d538.md) |
 | `pub_dev-a9100c59726e52` | card_swiper | [open](records/dart-card-swiper-95bdde2b.md) |
 | `pub_dev-a9b0b522bd2324` | dart_ping | [open](records/dart-dart-ping-a16cc4da.md) |
+| `pub_dev-aa9e10f9a3fbc2` | web_smooth_scroll | [open](records/dart-web-smooth-scroll-c27cccef.md) |
 | `pub_dev-aaaae51d15e56d` | sqflite | [open](records/dart-sqflite-095e3684.md) |
 | `pub_dev-aacf357c91d70a` | string_scanner | [open](records/dart-string-scanner-05017d50.md) |
 | `pub_dev-aba4d77c022fc9` | flex_color_scheme | [open](records/dart-flex-color-scheme-aa9a0a84.md) |
@@ -26328,6 +26336,7 @@
 | `pub_dev-c7c42bc2a48723` | dots_indicator | [open](records/dart-dots-indicator-d2a61ac9.md) |
 | `pub_dev-c7ed08afc71c0f` | super_tooltip | [open](records/dart-super-tooltip-f56943ac.md) |
 | `pub_dev-c7ff5a000b7746` | shelf_router | [open](records/dart-shelf-router-963492ce.md) |
+| `pub_dev-c8a9ea4dd3b75a` | perfect_freehand | [open](records/dart-perfect-freehand-9aff2839.md) |
 | `pub_dev-c8e9a9ee32286c` | file_saver | [open](records/dart-file-saver-af793c1e.md) |
 | `pub_dev-c90d082c49bf7c` | lints | [open](records/dart-lints-423e1c89.md) |
 | `pub_dev-c92850d13fc697` | queue | [open](records/dart-queue-31aae422.md) |
@@ -26344,10 +26353,12 @@
 | `pub_dev-cdabcd87562be8` | signature | [open](records/dart-signature-3293e04c.md) |
 | `pub_dev-ce81cbcb159808` | boxy | [open](records/dart-boxy-4369854b.md) |
 | `pub_dev-ce8e7ee0b72520` | csv | [open](records/dart-csv-ced97579.md) |
+| `pub_dev-cf18352d8b3f15` | process_run | [open](records/dart-process-run-9a6122b1.md) |
 | `pub_dev-cf517115e7abaf` | syncfusion_flutter_sliders | [open](records/dart-syncfusion-flutter-sliders-f5899f4c.md) |
 | `pub_dev-cf932aa29a65ed` | animated_size_and_fade | [open](records/dart-animated-size-and-fade-15eb5f44.md) |
 | `pub_dev-cff4b061473b46` | keyboard_dismisser | [open](records/dart-keyboard-dismisser-fef62632.md) |
 | `pub_dev-d02b56907849cb` | extended_masked_text | [open](records/dart-extended-masked-text-6f73ae07.md) |
+| `pub_dev-d06a6f87e1586e` | super_sliver_list | [open](records/dart-super-sliver-list-c69de4d6.md) |
 | `pub_dev-d06c231494fcd3` | showcaseview | [open](records/dart-showcaseview-0f397506.md) |
 | `pub_dev-d0a7c06da993bd` | syncfusion_flutter_core | [open](records/dart-syncfusion-flutter-core-028b51a1.md) |
 | `pub_dev-d105283c5f5ec6` | flutter_gemma | [open](records/dart-flutter-gemma-9a6dbd9b.md) |
@@ -26426,6 +26437,7 @@
 | `pub_dev-e8a473d191779e` | hooks_riverpod | [open](records/dart-hooks-riverpod-d2564e23.md) |
 | `pub_dev-e8dfb51145e686` | slide_countdown | [open](records/dart-slide-countdown-9380f5b5.md) |
 | `pub_dev-e9256d7559a8f8` | firebase_performance | [open](records/dart-firebase-performance-92ff4c46.md) |
+| `pub_dev-e9401039c58609` | unity_ads_plugin | [open](records/dart-unity-ads-plugin-1ad546e6.md) |
 | `pub_dev-ea3a6a6a34ec4b` | flutter_gen_runner | [open](records/dart-flutter-gen-runner-361e1f84.md) |
 | `pub_dev-ea45796491b321` | device_info_plus | [open](records/dart-device-info-plus-23fdc08b.md) |
 | `pub_dev-ea718a1eb50c91` | talker | [open](records/dart-talker-ebcdd995.md) |
@@ -26433,6 +26445,7 @@
 | `pub_dev-eaf1b102cfa1eb` | crop_image | [open](records/dart-crop-image-8c48b5bf.md) |
 | `pub_dev-eaf997ab9b8e84` | either_dart | [open](records/dart-either-dart-c265fd95.md) |
 | `pub_dev-ec1739471631d7` | scroll_pos | [open](records/dart-scroll-pos-a1e2742a.md) |
+| `pub_dev-ec2664c0a969dc` | search_cep | [open](records/dart-search-cep-81ce75c2.md) |
 | `pub_dev-ed4cb9c9b4fdb8` | firebase_ui_firestore | [open](records/dart-firebase-ui-firestore-a48e9db9.md) |
 | `pub_dev-ed952d2d6e3f90` | flutter_line_sdk | [open](records/dart-flutter-line-sdk-41ee7db1.md) |
 | `pub_dev-ee1683a39d1658` | flutter_windowmanager | [open](records/dart-flutter-windowmanager-b0abec2c.md) |
@@ -26450,6 +26463,7 @@
 | `pub_dev-f27384731c9be7` | pigeon | [open](records/dart-pigeon-1863b3b2.md) |
 | `pub_dev-f278e3b3ba41a0` | persistent_bottom_nav_bar_v2 | [open](records/dart-persistent-bottom-nav-bar-v2-af0b0087.md) |
 | `pub_dev-f2b47f45d2e56c` | flutter_soloud | [open](records/dart-flutter-soloud-5770bd43.md) |
+| `pub_dev-f3f07b50ce2f0d` | vector_graphics | [open](records/dart-vector-graphics-b771da5b.md) |
 | `pub_dev-f4fd5e60b18e0f` | geolocator | [open](records/dart-geolocator-5f09b742.md) |
 | `pub_dev-f52f42aa3151b9` | infinite_carousel | [open](records/dart-infinite-carousel-fae7c921.md) |
 | `pub_dev-f56ea092ba213a` | desktop_multi_window | [open](records/dart-desktop-multi-window-74d8f387.md) |

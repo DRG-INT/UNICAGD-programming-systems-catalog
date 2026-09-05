@@ -8,23 +8,23 @@ Records: `542`
 
 ## Category Index
 
-[Api Abi Checker (214)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Api Abi Checker (215)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
 [Benchmarking (194)](benchmarking.md) · [Build System (980)](build-system.md) · [Cli (559)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (116)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (23)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (128)](configuration.md) · [Container Deployment (9)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (886)](database-datastore.md) · [Datetime (223)](datetime.md)
+[Cryptography (173)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (887)](database-datastore.md) · [Datetime (223)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (449)](ffi-bindings.md) · [Filesystem Os (1561)](filesystem-os.md) · [Formatter (640)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1431)](ide-editor-integration.md)
+[Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (449)](ffi-bindings.md) · [Filesystem Os (1561)](filesystem-os.md) · [Formatter (641)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1433)](ide-editor-integration.md)
 [Image Audio Dsp (428)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5547)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (517)](logging-observability.md) · [Machine Learning (769)](machine-learning.md)
-[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1025)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (438)](package-manager.md) · [Parser Lexer Ast (1088)](parser-lexer-ast.md) · [Precommit Ci Quality (297)](precommit-ci-quality.md)
-[Profiler (86)](profiler.md) · [Project Scaffolding (132)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (13)](sanitizer.md)
+[Language Server (29)](language-server.md) · [Language Specification (1428)](language-specification.md) · [Library (5551)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (518)](logging-observability.md) · [Machine Learning (769)](machine-learning.md)
+[Math Numeric Scientific (87)](math-numeric-scientific.md) · [Memory Analyzer (95)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1026)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (438)](package-manager.md) · [Parser Lexer Ast (1088)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
+[Profiler (86)](profiler.md) · [Project Scaffolding (132)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (14)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (393)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (595)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (603)](testing-framework.md) · [Tutorial Book Styleguide (62)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1587)](undefined-behavior-analyzer.md) · [Utility Library (102)](utility-library.md) · **[Visualization Gui (542)](visualization-gui.md)** · [Web Framework (476)](web-framework.md)
+[Undefined Behavior Analyzer (1587)](undefined-behavior-analyzer.md) · [Utility Library (103)](utility-library.md) · **[Visualization Gui (542)](visualization-gui.md)** · [Web Framework (476)](web-framework.md)
 
 ## C++23
 
@@ -690,7 +690,7 @@ Records: `542`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| brandonp2412/Quitter | partial | 2026-09-04T21:07:35Z | [open](../records/magazines-brandonp2412-quitter-639e86aa.md) |
+| brandonp2412/Quitter | partial | 2026-09-05T01:21:40Z | [open](../records/magazines-brandonp2412-quitter-639e86aa.md) |
 | krrishd/write | partial | 2018-03-12T19:56:25Z | [open](../records/magazines-krrishd-write-37bef373.md) |
 
 ## Assembly
@@ -713,7 +713,7 @@ Records: `542`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ant-design-blazor/ant-design-blazor | partial | 2026-09-01T14:26:03Z | [open](../records/webassembly-ant-design-blazor-ant-design-blazor-d8f0273e.md) |
-| dotnetcore/BootstrapBlazor | partial | 2026-09-04T12:33:28Z | [open](../records/webassembly-dotnetcore-bootstrapblazor-5915f6c3.md) |
+| dotnetcore/BootstrapBlazor | partial | 2026-09-05T02:13:51Z | [open](../records/webassembly-dotnetcore-bootstrapblazor-5915f6c3.md) |
 | vugu/vugu | partial | 2026-09-01T16:39:00Z | [open](../records/webassembly-vugu-vugu-38501d3e.md) |
 | xiaoyu1998/web3.learning | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-xiaoyu1998-web3-learning-35c3e808.md) |
 
@@ -755,18 +755,18 @@ Records: `542`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BeauNouvelle/FaceAware | unknown | not_a_cocoapods_name | [open](../records/cocoa-beaunouvelle-faceaware-a6b691c0.md) |
-| BenEmdon/CenteredCollectionView | unknown | not_a_cocoapods_name | [open](../records/cocoa-benemdon-centeredcollectionview-086c96b7.md) |
+| BeauNouvelle/FaceAware | partial | 2020-08-01T12:44:20Z | [open](../records/cocoa-beaunouvelle-faceaware-a6b691c0.md) |
+| BenEmdon/CenteredCollectionView | partial | 2021-01-20T08:28:57Z | [open](../records/cocoa-benemdon-centeredcollectionview-086c96b7.md) |
 | Charts | 4.1.0 | 2022-09-13 02:40:04 UTC | [open](../records/cocoa-charts-c4279276.md) |
 | Clean Architecture for SwiftUI + Combine | 3.0 | 2024-12-08T18:25:58Z | [open](../records/cocoa-clean-architecture-for-swiftui-combine-0c7b4e0d.md) |
-| exyte/ConcentricOnboarding | unknown | not_a_cocoapods_name | [open](../records/cocoa-exyte-concentriconboarding-c9203ac5.md) |
-| fdzsergio/SFFocusViewLayout | unknown | not_a_cocoapods_name | [open](../records/cocoa-fdzsergio-sffocusviewlayout-b221b24a.md) |
-| fermoya/SwiftUIPager | unknown | not_a_cocoapods_name | [open](../records/cocoa-fermoya-swiftuipager-eda23130.md) |
-| gmarm/BetterSegmentedControl | unknown | not_a_cocoapods_name | [open](../records/cocoa-gmarm-bettersegmentedcontrol-996fc5ef.md) |
+| exyte/ConcentricOnboarding | partial | 2026-07-08T08:22:38Z | [open](../records/cocoa-exyte-concentriconboarding-c9203ac5.md) |
+| fdzsergio/SFFocusViewLayout | partial | 2018-09-29T16:30:27Z | [open](../records/cocoa-fdzsergio-sffocusviewlayout-b221b24a.md) |
+| fermoya/SwiftUIPager | partial | 2024-02-16T07:20:16Z | [open](../records/cocoa-fermoya-swiftuipager-eda23130.md) |
+| gmarm/BetterSegmentedControl | partial | 2023-04-11T22:16:40Z | [open](../records/cocoa-gmarm-bettersegmentedcontrol-996fc5ef.md) |
 | Quick | 7.6.2 | 2024-07-23 16:09:04 UTC | [open](../records/cocoa-quick-06529433.md) |
-| roblillack/spot | unknown | not_a_cocoapods_name | [open](../records/cocoa-roblillack-spot-d826ce53.md) |
-| Yalantis/GuillotineMenu | unknown | not_a_cocoapods_name | [open](../records/cocoa-yalantis-guillotinemenu-03703741.md) |
-| Yalantis/Persei | unknown | not_a_cocoapods_name | [open](../records/cocoa-yalantis-persei-964d9a1d.md) |
+| roblillack/spot | partial | 2024-12-19T08:19:21Z | [open](../records/cocoa-roblillack-spot-d826ce53.md) |
+| Yalantis/GuillotineMenu | partial | 2020-04-13T12:49:18Z | [open](../records/cocoa-yalantis-guillotinemenu-03703741.md) |
+| Yalantis/Persei | partial | 2020-04-22T09:42:56Z | [open](../records/cocoa-yalantis-persei-964d9a1d.md) |
 
 ## Databases
 
