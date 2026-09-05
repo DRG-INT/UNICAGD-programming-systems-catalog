@@ -17,8 +17,8 @@ Records: `1601`
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (453)](ffi-bindings.md) · [Filesystem Os (1571)](filesystem-os.md) · [Formatter (644)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1450)](ide-editor-integration.md)
 [Image Audio Dsp (431)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · [Library (5585)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (776)](machine-learning.md)
+[Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · [Library (5586)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (777)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1135)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
@@ -407,7 +407,7 @@ Records: `1601`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bluenviron/mediamtx | partial | 2026-09-05T21:13:11Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
+| bluenviron/mediamtx | partial | 2026-09-05T21:22:50Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
 | dariubs/GoBooks | partial | 2026-07-13T16:08:02Z | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
 | eryajf/learning-weekly | partial | 2026-08-27T15:27:30Z | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
 | github.com/01org/isa-l | v2.22.0+incompatible | 2026-08-30T14:09:32.299469Z | [open](../records/go-github-com-01org-isa-l-8ef09eb2.md) |
@@ -1678,7 +1678,7 @@ Records: `1601`
 | cirosantilli/arm-assembly-cheat | partial | 2019-06-26T09:29:09Z | [open](../records/assembly-cirosantilli-arm-assembly-cheat-ccbbcbdf.md) |
 | edubart/minicoro | partial | 2024-12-07T10:36:21Z | [open](../records/assembly-edubart-minicoro-74ca4b67.md) |
 | franeklubi/dino | partial | 2021-08-21T14:21:23Z | [open](../records/assembly-franeklubi-dino-8d3e9c1a.md) |
-| hlorenzi/customasm | partial | 2026-04-26T21:11:38Z | [open](../records/assembly-hlorenzi-customasm-85734886.md) |
+| hlorenzi/customasm | partial | 2026-09-05T21:56:29Z | [open](../records/assembly-hlorenzi-customasm-85734886.md) |
 | IDouble/x86-Assembly-Reverse-Engineering | partial | 2024-03-01T20:10:00Z | [open](../records/assembly-idouble-x86-assembly-reverse-engineering-fc5247ea.md) |
 | tenderlove/fisk | partial | 2023-04-07T23:47:40Z | [open](../records/assembly-tenderlove-fisk-358e54fe.md) |
 | vector4wang/spring-boot-quick | partial | 2026-05-16T06:22:44Z | [open](../records/assembly-vector4wang-spring-boot-quick-58ca29aa.md) |
@@ -1832,7 +1832,7 @@ Records: `1601`
 | Gitea: quxiaorui/action-send-mail | partial | 2024-02-26T12:43:08Z | [open](../records/repository-workplaces-gitea-quxiaorui-action-send-mail-a8703907.md) |
 | Gitea: ryan-winkler/ryanwinkler | partial | 2026-08-21T10:30:44Z | [open](../records/repository-workplaces-gitea-ryan-winkler-ryanwinkler-c5f906a1.md) |
 | Gitea: we8tguivdbsd/21eyay8qeyciubaya | partial | 2026-06-20T21:36:03Z | [open](../records/repository-workplaces-gitea-we8tguivdbsd-21eyay8qeyciubaya-47fe49cc.md) |
-| Gitea: zaccesss/.profile | partial | 2026-09-05T13:28:54Z | [open](../records/repository-workplaces-gitea-zaccesss-profile-898ffe18.md) |
+| Gitea: zaccesss/.profile | partial | 2026-09-05T22:02:43Z | [open](../records/repository-workplaces-gitea-zaccesss-profile-898ffe18.md) |
 | gitlab-com/gl-infra/k8s-workloads/gitlab-com | partial | 2026-09-05T18:03:48.580Z | [open](../records/repository-workplaces-gitlab-com-gl-infra-k8s-workloads-gitlab-com-13cc554b.md) |
 | gitlab-data/data-image | partial | 2026-08-21T11:24:30.282Z | [open](../records/repository-workplaces-gitlab-data-data-image-0af0c35c.md) |
 | gitlab-examples/kubernetes-deploy | partial | 2026-01-07T14:56:28.754Z | [open](../records/repository-workplaces-gitlab-examples-kubernetes-deploy-9a43e04a.md) |

@@ -17,8 +17,8 @@ Records: `287`
 [Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (453)](../by-category/ffi-bindings.md) · [Filesystem Os (1571)](../by-category/filesystem-os.md) · [Formatter (644)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1450)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (431)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (267)](../by-category/interpreter-runtime.md) · [Jit Vm (63)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1431)](../by-category/language-specification.md) · [Library (5585)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (519)](../by-category/logging-observability.md) · [Machine Learning (776)](../by-category/machine-learning.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1431)](../by-category/language-specification.md) · [Library (5586)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (519)](../by-category/logging-observability.md) · [Machine Learning (777)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1029)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (441)](../by-category/package-manager.md) · [Parser Lexer Ast (1135)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](../by-category/precommit-ci-quality.md)
 [Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (15)](../by-category/sanitizer.md)
@@ -277,7 +277,7 @@ Records: `287`
 | [torrvision/crfasrnn](../records/matlab-torrvision-crfasrnn-d754088d.md) | partial | 2019-11-30T13:17:39Z | registry-derived |
 | [toshiakit/MatGPT](../records/matlab-toshiakit-matgpt-c3e7e593.md) | partial | 2026-01-31T03:08:06Z | registry-derived |
 | [trekhleb/machine-learning-octave](../records/matlab-trekhleb-machine-learning-octave-3c6369fc.md) | partial | 2025-11-23T04:28:32Z | registry-derived |
-| [ucdavis/erplab](../records/matlab-ucdavis-erplab-9a4c4944.md) | partial | 2026-09-04T20:50:19Z | registry-derived |
+| [ucdavis/erplab](../records/matlab-ucdavis-erplab-9a4c4944.md) | partial | 2026-09-05T21:49:02Z | registry-derived |
 | [ultralytics/functions-matlab](../records/matlab-ultralytics-functions-matlab-7687d566.md) | partial | 2026-08-28T10:25:16Z | registry-derived |
 | [ultralytics/magellan](../records/matlab-ultralytics-magellan-3c103d74.md) | partial | 2026-08-28T10:37:04Z | registry-derived |
 | [ultralytics/miniTimeCube](../records/matlab-ultralytics-minitimecube-2e723266.md) | partial | 2026-08-28T10:39:24Z | registry-derived |

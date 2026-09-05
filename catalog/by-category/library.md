@@ -1,6 +1,6 @@
 # Library
 
-Records: `5585`
+Records: `5586`
 
 ## Navigation
 
@@ -17,8 +17,8 @@ Records: `5585`
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (453)](ffi-bindings.md) · [Filesystem Os (1571)](filesystem-os.md) · [Formatter (644)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1450)](ide-editor-integration.md)
 [Image Audio Dsp (431)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · **[Library (5585)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (776)](machine-learning.md)
+[Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · **[Library (5586)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (777)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1135)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
@@ -3487,6 +3487,7 @@ Records: `5585`
 | hsexif | 0.6.1.10 | 2023-05-13T11:31:46Z | [open](../records/haskell-hsexif-9ebcb7b1.md) |
 | HsHTSLib | 1.9.2.2 | 2021-09-30T05:30:01Z | [open](../records/haskell-hshtslib-cf41c678.md) |
 | hsimport | 0.11.0 | 2019-09-15T08:44:09Z | [open](../records/haskell-hsimport-6145754e.md) |
+| hsinstall | 3.1 | 2026-09-05T22:14:32Z | [open](../records/haskell-hsinstall-b4fd04ed.md) |
 | hslua | 2.5.0 | 2026-01-08T15:33:47Z | [open](../records/haskell-hslua-85b0c836.md) |
 | hslua-aeson | 2.3.2 | 2026-01-08T14:50:50Z | [open](../records/haskell-hslua-aeson-2f5c7dc5.md) |
 | hspec | 2.11.17 | 2026-03-04T18:01:40Z | [open](../records/haskell-hspec-e27e4b9f.md) |

@@ -17,8 +17,8 @@ Records: `2408`
 [Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (453)](../by-category/ffi-bindings.md) · [Filesystem Os (1571)](../by-category/filesystem-os.md) · [Formatter (644)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1450)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (431)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (267)](../by-category/interpreter-runtime.md) · [Jit Vm (63)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1431)](../by-category/language-specification.md) · [Library (5585)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (519)](../by-category/logging-observability.md) · [Machine Learning (776)](../by-category/machine-learning.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1431)](../by-category/language-specification.md) · [Library (5586)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (519)](../by-category/logging-observability.md) · [Machine Learning (777)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1029)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (441)](../by-category/package-manager.md) · [Parser Lexer Ast (1135)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](../by-category/precommit-ci-quality.md)
 [Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (15)](../by-category/sanitizer.md)
@@ -2202,7 +2202,7 @@ Records: `2408`
 | [@iabtechlabtcf/testing](../records/node-js-javascript-iabtechlabtcf-testing-999f222a.md) | 1.5.22 | 2026-09-01T18:14:14.773Z | registry-derived |
 | [@inngest/test](../records/node-js-javascript-inngest-test-8b100cd2.md) | 1.0.0 | 2026-03-25T14:11:16.511Z | registry-derived |
 | [@inquirer/testing](../records/node-js-javascript-inquirer-testing-6655503f.md) | 3.3.12 | 2026-09-02T21:53:40.797Z | registry-derived |
-| [@iobroker/testing](../records/node-js-javascript-iobroker-testing-1634fcb2.md) | 5.3.0 | 2026-07-11T07:36:57.584Z | registry-derived |
+| [@iobroker/testing](../records/node-js-javascript-iobroker-testing-1634fcb2.md) | 6.0.0 | 2026-09-05T20:28:41.253Z | registry-derived |
 | [@japa/runner](../records/node-js-javascript-japa-runner-e5c110c3.md) | 5.3.0 | 2026-01-17T08:07:46.880Z | registry-derived |
 | [@jest-mock/express](../records/node-js-javascript-jest-mock-express-619dafe1.md) | 3.0.0 | 2025-02-03T20:48:41.468Z | registry-derived |
 | [@jest/core](../records/node-js-javascript-jest-core-a19c88f3.md) | 30.5.1 | 2026-09-01T08:02:41.823Z | registry-derived |

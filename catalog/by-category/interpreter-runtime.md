@@ -17,8 +17,8 @@ Records: `267`
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (453)](ffi-bindings.md) · [Filesystem Os (1571)](filesystem-os.md) · [Formatter (644)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1450)](ide-editor-integration.md)
 [Image Audio Dsp (431)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · **[Interpreter Runtime (267)](interpreter-runtime.md)** · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · [Library (5585)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (776)](machine-learning.md)
+[Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · [Library (5586)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (777)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1135)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
@@ -489,7 +489,7 @@ Records: `267`
 | cespedes/ltrace | partial | 2026-09-05T16:20:44.446Z | [open](../records/repository-workplaces-cespedes-ltrace-7df92cd8.md) |
 | cznic/libc | partial | 2026-09-05T03:16:36.755Z | [open](../records/repository-workplaces-cznic-libc-3b834450.md) |
 | DerLinkshaender/csv2xlsx | partial | 2023-01-23T21:54:27.769Z | [open](../records/repository-workplaces-derlinkshaender-csv2xlsx-bd2e77a2.md) |
-| freedesktop-sdk/freedesktop-sdk | partial | 2026-09-05T18:30:01.675Z | [open](../records/repository-workplaces-freedesktop-sdk-freedesktop-sdk-d7a3f323.md) |
+| freedesktop-sdk/freedesktop-sdk | partial | 2026-09-05T20:40:56.823Z | [open](../records/repository-workplaces-freedesktop-sdk-freedesktop-sdk-d7a3f323.md) |
 | Gitea: Befaci03/collab-vm-1.2-server-bettetweak | partial | 2025-04-20T12:00:39Z | [open](../records/repository-workplaces-gitea-befaci03-collab-vm-1-2-server-bettetweak-82605f6b.md) |
 | Gitea: cvmuser1000/collab-vm-1.2-server-bettetweak-better | partial | 2025-04-19T11:00:56Z | [open](../records/repository-workplaces-gitea-cvmuser1000-collab-vm-1-2-server-bettetweak-better-40a2c6fe.md) |
 | Gitea: Gala_Group/GalaRuntime | partial | 2023-09-03T18:22:16Z | [open](../records/repository-workplaces-gitea-gala-group-galaruntime-c30c90ab.md) |

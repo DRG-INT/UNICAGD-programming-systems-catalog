@@ -17,8 +17,8 @@ Records: `194`
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (453)](ffi-bindings.md) · [Filesystem Os (1571)](filesystem-os.md) · [Formatter (644)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1450)](ide-editor-integration.md)
 [Image Audio Dsp (431)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · [Library (5585)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (776)](machine-learning.md)
+[Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · [Library (5586)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (777)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1135)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
@@ -134,7 +134,7 @@ Records: `194`
 | jeffotoni/quick | partial | 2026-05-08T15:01:00Z | [open](../records/go-jeffotoni-quick-3e9e02ab.md) |
 | kataras/iris | partial | 2026-07-27T09:34:12Z | [open](../records/go-kataras-iris-811820fb.md) |
 | nats-io/nats-server | partial | 2026-09-04T16:57:11Z | [open](../records/go-nats-io-nats-server-a11f8ca6.md) |
-| nelthaarion/breeze | partial | 2026-09-05T20:39:14Z | [open](../records/go-nelthaarion-breeze-919adbb5.md) |
+| nelthaarion/breeze | partial | 2026-09-05T21:53:02Z | [open](../records/go-nelthaarion-breeze-919adbb5.md) |
 | sohaha/zlsgo | partial | 2026-07-20T07:16:38Z | [open](../records/go-sohaha-zlsgo-804fc40e.md) |
 | tigalabs/tigago | partial | 2022-11-12T12:26:48Z | [open](../records/go-tigalabs-tigago-6e360e88.md) |
 

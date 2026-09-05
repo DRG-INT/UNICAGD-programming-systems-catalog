@@ -17,8 +17,8 @@ Records: `605`
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (453)](ffi-bindings.md) · [Filesystem Os (1571)](filesystem-os.md) · [Formatter (644)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1450)](ide-editor-integration.md)
 [Image Audio Dsp (431)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · [Library (5585)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (776)](machine-learning.md)
+[Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · [Library (5586)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (777)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1135)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
@@ -175,7 +175,7 @@ Records: `605`
 | @iabtechlabtcf/testing | 1.5.22 | 2026-09-01T18:14:14.773Z | [open](../records/node-js-javascript-iabtechlabtcf-testing-999f222a.md) |
 | @inngest/test | 1.0.0 | 2026-03-25T14:11:16.511Z | [open](../records/node-js-javascript-inngest-test-8b100cd2.md) |
 | @inquirer/testing | 3.3.12 | 2026-09-02T21:53:40.797Z | [open](../records/node-js-javascript-inquirer-testing-6655503f.md) |
-| @iobroker/testing | 5.3.0 | 2026-07-11T07:36:57.584Z | [open](../records/node-js-javascript-iobroker-testing-1634fcb2.md) |
+| @iobroker/testing | 6.0.0 | 2026-09-05T20:28:41.253Z | [open](../records/node-js-javascript-iobroker-testing-1634fcb2.md) |
 | @japa/runner | 5.3.0 | 2026-01-17T08:07:46.880Z | [open](../records/node-js-javascript-japa-runner-e5c110c3.md) |
 | @jest-mock/express | 3.0.0 | 2025-02-03T20:48:41.468Z | [open](../records/node-js-javascript-jest-mock-express-619dafe1.md) |
 | @jest/core | 30.5.1 | 2026-09-01T08:02:41.823Z | [open](../records/node-js-javascript-jest-core-a19c88f3.md) |

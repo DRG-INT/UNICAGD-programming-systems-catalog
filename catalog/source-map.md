@@ -13,8 +13,8 @@
 [Embedded Hardware (56)](by-category/embedded-hardware.md) · [Ffi Bindings (453)](by-category/ffi-bindings.md) · [Filesystem Os (1571)](by-category/filesystem-os.md) · [Formatter (644)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (354)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1450)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (431)](by-category/image-audio-dsp.md) · [Interop Bindings (61)](by-category/interop-bindings.md) · [Interpreter Runtime (267)](by-category/interpreter-runtime.md) · [Jit Vm (63)](by-category/jit-vm.md)
-[Language Server (29)](by-category/language-server.md) · [Language Specification (1431)](by-category/language-specification.md) · [Library (5585)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (519)](by-category/logging-observability.md) · [Machine Learning (776)](by-category/machine-learning.md)
+[Language Server (29)](by-category/language-server.md) · [Language Specification (1431)](by-category/language-specification.md) · [Library (5586)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (519)](by-category/logging-observability.md) · [Machine Learning (777)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1029)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (441)](by-category/package-manager.md) · [Parser Lexer Ast (1135)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](by-category/precommit-ci-quality.md)
 [Profiler (87)](by-category/profiler.md) · [Project Scaffolding (133)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (15)](by-category/sanitizer.md)
@@ -881,6 +881,7 @@
 | `cran_packages_by_date-0a600a8bd00af2` | FINN | [open](records/r-finn-32543182.md) |
 | `cran_packages_by_date-0a71d6e93f3321` | glcdp | [open](records/r-glcdp-348db18b.md) |
 | `cran_packages_by_date-0ac3b0a1844e36` | nmfkc | [open](records/r-nmfkc-03f45a99.md) |
+| `cran_packages_by_date-0ad36d1dcc6064` | VLMC | [open](records/r-vlmc-dda4f603.md) |
 | `cran_packages_by_date-0ae570689845db` | roads | [open](records/r-roads-57016556.md) |
 | `cran_packages_by_date-0af300864897ee` | BivKLD | [open](records/r-bivkld-f8a06bc5.md) |
 | `cran_packages_by_date-0b6d40f3ec1a0d` | CausalState | [open](records/r-causalstate-3d54ad2d.md) |
@@ -16544,6 +16545,7 @@
 | `hackage_recent-36b9648f0bd994` | keel | [open](records/haskell-keel-dffc1816.md) |
 | `hackage_recent-36d21c9436a774` | quic-simple | [open](records/haskell-quic-simple-f198ea36.md) |
 | `hackage_recent-36f4a9a68d187b` | ktx-font | [open](records/haskell-ktx-font-8c048a63.md) |
+| `hackage_recent-37353658c3dd2d` | hsinstall | [open](records/haskell-hsinstall-b4fd04ed.md) |
 | `hackage_recent-4991588be3e093` | data-rfc5280 | [open](records/haskell-data-rfc5280-fa027eaf.md) |
 | `hackage_recent-4a3a499751bc30` | crackNum | [open](records/haskell-cracknum-25e818dd.md) |
 | `hackage_recent-4c746b3da5448e` | freckle-otel | [open](records/haskell-freckle-otel-14553b97.md) |

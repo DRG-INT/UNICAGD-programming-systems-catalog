@@ -17,8 +17,8 @@ Records: `1029`
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (453)](ffi-bindings.md) · [Filesystem Os (1571)](filesystem-os.md) · [Formatter (644)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1450)](ide-editor-integration.md)
 [Image Audio Dsp (431)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · [Library (5585)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (776)](machine-learning.md)
+[Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · [Library (5586)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (777)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1029)](networking-http.md)**
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1135)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
@@ -771,7 +771,7 @@ Records: `1029`
 | g3n/engine | partial | 2026-08-01T16:23:05Z | [open](../records/go-g3n-engine-0b367039.md) |
 | go-resty/resty | partial | 2026-09-05T18:09:44Z | [open](../records/go-go-resty-resty-9cfada1b.md) |
 | redis/go-redis | partial | 2026-09-05T11:29:17Z | [open](../records/go-redis-go-redis-fe715a04.md) |
-| spicetify/cli | partial | 2026-09-05T15:10:03Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
+| spicetify/cli | partial | 2026-09-05T22:11:56Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
 | teler-sh/teler-waf | partial | 2025-03-18T01:40:27Z | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
 | xiaolincoder/CS-Base | partial | 2024-11-27T06:32:13Z | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
 | yincongcyincong/mcp-client-go | partial | 2025-09-09T09:54:40Z | [open](../records/go-yincongcyincong-mcp-client-go-551e8f66.md) |
@@ -1096,7 +1096,7 @@ Records: `1029`
 | --- | --- | --- | --- |
 | ashvardanian/less_slow.cpp | partial | 2026-07-27T01:01:01Z | [open](../records/assembly-ashvardanian-less-slow-cpp-50768d6c.md) |
 | minio/highwayhash | partial | 2026-03-21T05:38:40Z | [open](../records/assembly-minio-highwayhash-5634a2cc.md) |
-| nyxos-dev/nyx-os | partial | 2026-09-05T19:50:52Z | [open](../records/assembly-nyxos-dev-nyx-os-a701d2ff.md) |
+| nyxos-dev/nyx-os | partial | 2026-09-05T22:01:20Z | [open](../records/assembly-nyxos-dev-nyx-os-a701d2ff.md) |
 | OpenMachine-ai/tinyfive | partial | 2023-11-01T23:04:08Z | [open](../records/assembly-openmachine-ai-tinyfive-d7147317.md) |
 | OWASP/ZSC | partial | 2024-03-14T22:19:20Z | [open](../records/assembly-owasp-zsc-566fd5f9.md) |
 
