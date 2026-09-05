@@ -17,8 +17,8 @@ Records: `605`
 [Embedded Hardware (56)](embedded-hardware.md) · [Ffi Bindings (453)](ffi-bindings.md) · [Filesystem Os (1571)](filesystem-os.md) · [Formatter (644)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (354)](game-engine-game-dev.md) · [Ide Editor Integration (1450)](ide-editor-integration.md)
 [Image Audio Dsp (431)](image-audio-dsp.md) · [Interop Bindings (61)](interop-bindings.md) · [Interpreter Runtime (267)](interpreter-runtime.md) · [Jit Vm (63)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · [Library (5584)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (775)](machine-learning.md)
+[Language Server (29)](language-server.md) · [Language Specification (1431)](language-specification.md) · [Library (5585)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (776)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1029)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1135)](parser-lexer-ast.md) · [Precommit Ci Quality (298)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
@@ -328,7 +328,7 @@ Records: `605`
 | neon-testing | 3.0.1 | 2026-08-14T19:19:26.164Z | [open](../records/node-js-javascript-neon-testing-03fdcc58.md) |
 | ngx-translate-testing | 7.0.0 | 2023-06-10T12:32:20.605Z | [open](../records/node-js-javascript-ngx-translate-testing-45664b62.md) |
 | node-mocks-http | 1.18.1 | 2026-07-16T21:25:09.103Z | [open](../records/node-js-javascript-node-mocks-http-5a34d793.md) |
-| node-opcua-address-space-for-conformance-testing | 2.181.0 | 2026-09-05T13:42:34.168Z | [open](../records/node-js-javascript-node-opcua-address-space-for-conformance-testing-e25f7a6d.md) |
+| node-opcua-address-space-for-conformance-testing | 2.181.1 | 2026-09-05T19:52:59.864Z | [open](../records/node-js-javascript-node-opcua-address-space-for-conformance-testing-e25f7a6d.md) |
 | oauth2-mock-server | 9.1.0 | 2026-06-30T09:59:08.498Z | [open](../records/node-js-javascript-oauth2-mock-server-20f3c489.md) |
 | oauth2-server | 3.1.1 | 2020-07-14T18:27:11.508Z | [open](../records/node-js-javascript-oauth2-server-6670efea.md) |
 | ospec | 4.2.1 | 2024-09-02T16:24:31.235Z | [open](../records/node-js-javascript-ospec-f0172c41.md) |

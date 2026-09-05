@@ -17,8 +17,8 @@ Records: `2183`
 [Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (453)](../by-category/ffi-bindings.md) · [Filesystem Os (1571)](../by-category/filesystem-os.md) · [Formatter (644)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1450)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (431)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (267)](../by-category/interpreter-runtime.md) · [Jit Vm (63)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1431)](../by-category/language-specification.md) · [Library (5584)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (519)](../by-category/logging-observability.md) · [Machine Learning (775)](../by-category/machine-learning.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1431)](../by-category/language-specification.md) · [Library (5585)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (519)](../by-category/logging-observability.md) · [Machine Learning (776)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1029)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (441)](../by-category/package-manager.md) · [Parser Lexer Ast (1135)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](../by-category/precommit-ci-quality.md)
 [Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (15)](../by-category/sanitizer.md)
@@ -503,7 +503,7 @@ Records: `2183`
 | [parse-zoneinfo](../records/rust-parse-zoneinfo-a420351d.md) | 0.5.0 | 2025-07-15T14:33:56.331781Z | registry-derived |
 | [postgres-protocol](../records/rust-postgres-protocol-1be56c65.md) | 0.6.12 | 2026-06-12T15:34:01.163185Z | registry-derived |
 | [postgres-types](../records/rust-postgres-types-cf35feae.md) | 0.2.14 | 2026-06-12T15:37:04.335602Z | registry-derived |
-| [redis](../records/rust-redis-e8689f11.md) | 1.6.0 | 2026-08-15T21:13:21.183658Z | registry-derived |
+| [redis](../records/rust-redis-e8689f11.md) | 1.7.0 | 2026-09-05T18:24:47.428882Z | registry-derived |
 | [redis-rs](../records/rust-redis-rs-2ee1f917.md) | unknown | not_checked | unverified_seed |
 | [rocksdb](../records/rust-rocksdb-96ba049b.md) | 0.25.0 | 2026-08-16T12:04:05.567337Z | registry-derived |
 | [rusqlite](../records/rust-rusqlite-88933852.md) | 0.40.2 | 2026-08-08T14:21:52.570893Z | unverified_seed |

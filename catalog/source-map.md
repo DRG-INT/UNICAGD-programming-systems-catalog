@@ -13,8 +13,8 @@
 [Embedded Hardware (56)](by-category/embedded-hardware.md) · [Ffi Bindings (453)](by-category/ffi-bindings.md) · [Filesystem Os (1571)](by-category/filesystem-os.md) · [Formatter (644)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (354)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1450)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (431)](by-category/image-audio-dsp.md) · [Interop Bindings (61)](by-category/interop-bindings.md) · [Interpreter Runtime (267)](by-category/interpreter-runtime.md) · [Jit Vm (63)](by-category/jit-vm.md)
-[Language Server (29)](by-category/language-server.md) · [Language Specification (1431)](by-category/language-specification.md) · [Library (5584)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (519)](by-category/logging-observability.md) · [Machine Learning (775)](by-category/machine-learning.md)
+[Language Server (29)](by-category/language-server.md) · [Language Specification (1431)](by-category/language-specification.md) · [Library (5585)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (519)](by-category/logging-observability.md) · [Machine Learning (776)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1029)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (441)](by-category/package-manager.md) · [Parser Lexer Ast (1135)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](by-category/precommit-ci-quality.md)
 [Profiler (87)](by-category/profiler.md) · [Project Scaffolding (133)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (15)](by-category/sanitizer.md)
@@ -928,6 +928,7 @@
 | `cran_packages_by_date-13c984b5417c8e` | persuasio | [open](records/r-persuasio-de611642.md) |
 | `cran_packages_by_date-140c1927ab835a` | glyrepr | [open](records/r-glyrepr-1cdc048c.md) |
 | `cran_packages_by_date-14115d6d56edec` | HelpersMG | [open](records/r-helpersmg-017f0dc5.md) |
+| `cran_packages_by_date-141ba03ea36f6f` | spMC | [open](records/r-spmc-5ef0893f.md) |
 | `cran_packages_by_date-142eee1b717a20` | ssdtools | [open](records/r-ssdtools-2af25940.md) |
 | `cran_packages_by_date-1440e8182d4ab5` | balnet | [open](records/r-balnet-d97ebf17.md) |
 | `cran_packages_by_date-1451ef27d5c3c4` | castor | [open](records/r-castor-883d444a.md) |
@@ -1014,6 +1015,7 @@
 | `cran_packages_by_date-203b452edf1b21` | scopusflow | [open](records/r-scopusflow-7fbcd739.md) |
 | `cran_packages_by_date-20656094af97de` | fdm2id | [open](records/r-fdm2id-96c427f1.md) |
 | `cran_packages_by_date-20a07b112bcc86` | isodistrreg | [open](records/r-isodistrreg-7a044e52.md) |
+| `cran_packages_by_date-20e54daa3e5a5d` | geobounds | [open](records/r-geobounds-0889a9a3.md) |
 | `cran_packages_by_date-20ecc6c66839ef` | FitVerse | [open](records/r-fitverse-f682c108.md) |
 | `cran_packages_by_date-20ef3938575430` | llm.api | [open](records/r-llm-api-468d907a.md) |
 | `cran_packages_by_date-20fb6ef0b7e947` | MXM | [open](records/r-mxm-5bdeadc6.md) |

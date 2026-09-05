@@ -17,8 +17,8 @@ Records: `388`
 [Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (453)](../by-category/ffi-bindings.md) · [Filesystem Os (1571)](../by-category/filesystem-os.md) · [Formatter (644)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1450)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (431)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (267)](../by-category/interpreter-runtime.md) · [Jit Vm (63)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1431)](../by-category/language-specification.md) · [Library (5584)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (519)](../by-category/logging-observability.md) · [Machine Learning (775)](../by-category/machine-learning.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1431)](../by-category/language-specification.md) · [Library (5585)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (519)](../by-category/logging-observability.md) · [Machine Learning (776)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1029)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (441)](../by-category/package-manager.md) · [Parser Lexer Ast (1135)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](../by-category/precommit-ci-quality.md)
 [Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (15)](../by-category/sanitizer.md)
@@ -511,7 +511,7 @@ Records: `388`
 | [viem](../records/node-js-typescript-viem-f5262c89.md) | 2.56.3 | 2026-09-02T02:28:20.378Z | registry-derived |
 | [volar-service-typescript](../records/node-js-typescript-volar-service-typescript-53ff59b0.md) | 0.0.71 | 2026-05-09T23:48:57.498Z | registry-derived |
 | [volar-service-typescript-twoslash-queries](../records/node-js-typescript-volar-service-typescript-twoslash-queries-55b6d189.md) | 0.0.71 | 2026-05-09T23:48:59.933Z | registry-derived |
-| [yuku-parser](../records/node-js-typescript-yuku-parser-d16e0e7c.md) | 0.9.3 | 2026-08-27T04:54:34.406Z | registry-derived |
+| [yuku-parser](../records/node-js-typescript-yuku-parser-d16e0e7c.md) | 0.9.4 | 2026-09-05T19:10:09.074Z | registry-derived |
 | [zod](../records/node-js-typescript-zod-b5537602.md) | 4.5.4 | 2026-08-29T17:55:42.775Z | registry-derived |
 
 ### Utility Library

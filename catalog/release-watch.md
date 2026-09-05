@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-05T19:19:01+00:00`
+Generated: `2026-09-05T20:22:30+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -15,8 +15,8 @@ Generated: `2026-09-05T19:19:01+00:00`
 [Embedded Hardware (56)](by-category/embedded-hardware.md) · [Ffi Bindings (453)](by-category/ffi-bindings.md) · [Filesystem Os (1571)](by-category/filesystem-os.md) · [Formatter (644)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (354)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1450)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (431)](by-category/image-audio-dsp.md) · [Interop Bindings (61)](by-category/interop-bindings.md) · [Interpreter Runtime (267)](by-category/interpreter-runtime.md) · [Jit Vm (63)](by-category/jit-vm.md)
-[Language Server (29)](by-category/language-server.md) · [Language Specification (1431)](by-category/language-specification.md) · [Library (5584)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (519)](by-category/logging-observability.md) · [Machine Learning (775)](by-category/machine-learning.md)
+[Language Server (29)](by-category/language-server.md) · [Language Specification (1431)](by-category/language-specification.md) · [Library (5585)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (519)](by-category/logging-observability.md) · [Machine Learning (776)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1029)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (441)](by-category/package-manager.md) · [Parser Lexer Ast (1135)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](by-category/precommit-ci-quality.md)
 [Profiler (87)](by-category/profiler.md) · [Project Scaffolding (133)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (15)](by-category/sanitizer.md)
@@ -28,13 +28,17 @@ Generated: `2026-09-05T19:19:01+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10105 |
+| Known stable release | 10107 |
 | Unknown stable release | 17031 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| node-opcua-server | Node.js/JavaScript | Web Framework | 2.181.1 | 2026-09-05T19:53:33.793Z | [open](records/node-js-javascript-node-opcua-server-32472434.md) |
+| node-opcua-address-space-for-conformance-testing | Node.js/JavaScript | Testing Framework | 2.181.1 | 2026-09-05T19:52:59.864Z | [open](records/node-js-javascript-node-opcua-address-space-for-conformance-testing-e25f7a6d.md) |
+| yuku-parser | Node.js/TypeScript | Type Checker | 0.9.4 | 2026-09-05T19:10:09.074Z | [open](records/node-js-typescript-yuku-parser-d16e0e7c.md) |
+| redis | Rust | Database Datastore | 1.7.0 | 2026-09-05T18:24:47.428882Z | [open](records/rust-redis-e8689f11.md) |
 | ideas | Haskell | Ide Editor Integration | 1.9.1 | 2026-09-05T18:13:40Z | [open](records/haskell-ideas-bf8cd393.md) |
 | crossbeam | Rust | Filesystem Os | 0.8.5 | 2026-09-05T17:47:37.499898Z | [open](records/rust-crossbeam-d674677e.md) |
 | crossbeam-channel | Rust | Filesystem Os | 0.5.17 | 2026-09-05T17:47:21.507092Z | [open](records/rust-crossbeam-channel-c2b52a92.md) |
@@ -51,8 +55,6 @@ Generated: `2026-09-05T19:19:01+00:00`
 | der | Rust | Lint Rule Pack | 0.8.2 | 2026-09-05T14:12:57.504716Z | [open](records/rust-der-c6a7d37f.md) |
 | @gjsify/http | Node.js/JavaScript | Networking Http | 0.48.0 | 2026-09-05T13:44:12.632Z | [open](records/node-js-javascript-gjsify-http-1598f2a7.md) |
 | @ottocode/database | Node.js/JavaScript | Database Datastore | 0.1.413 | 2026-09-05T13:43:32.581Z | [open](records/node-js-javascript-ottocode-database-e1edbc5d.md) |
-| node-opcua-server | Node.js/JavaScript | Web Framework | 2.181.0 | 2026-09-05T13:43:05.903Z | [open](records/node-js-javascript-node-opcua-server-32472434.md) |
-| node-opcua-address-space-for-conformance-testing | Node.js/JavaScript | Testing Framework | 2.181.0 | 2026-09-05T13:42:34.168Z | [open](records/node-js-javascript-node-opcua-address-space-for-conformance-testing-e25f7a6d.md) |
 | system-testing | Node.js/JavaScript | Testing Framework | 1.0.136 | 2026-09-05T13:18:05.282Z | [open](records/node-js-javascript-system-testing-fb3acaec.md) |
 | @remotion/studio-server | Node.js/JavaScript | Web Framework | 4.0.521 | 2026-09-05T13:16:57.745Z | [open](records/node-js-javascript-remotion-studio-server-ed620dc3.md) |
 | pgpm | Node.js/JavaScript | Package Manager | 5.30.3 | 2026-09-05T13:00:58.902Z | [open](records/node-js-javascript-pgpm-8b466b42.md) |
@@ -91,6 +93,8 @@ Generated: `2026-09-05T19:19:01+00:00`
 | @stacksjs/testing | Node.js/JavaScript | Testing Framework | 0.74.24 | 2026-09-05T00:11:34.736Z | [open](records/node-js-javascript-stacksjs-testing-57469937.md) |
 | @stacksjs/database | Node.js/JavaScript | Database Datastore | 0.74.24 | 2026-09-05T00:10:56.047Z | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
 | @stacksjs/http | Node.js/JavaScript | Networking Http | 0.74.24 | 2026-09-05T00:05:37.864Z | [open](records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
+| spMC | R | Machine Learning | 0.3.16 | 2026-09-05 19:40:02 UTC | [open](records/r-spmc-5ef0893f.md) |
+| geobounds | R | Library | 1.0.1 | 2026-09-05 19:00:02 UTC | [open](records/r-geobounds-0889a9a3.md) |
 | BKT | R | Profiler | 0.1.2 | 2026-09-05 16:20:19 UTC | [open](records/r-bkt-97415a9e.md) |
 | cox.rvph | R | Library | 0.2.1 | 2026-09-05 16:20:15 UTC | [open](records/r-cox-rvph-ebf0e677.md) |
 | geoflow | R | Filesystem Os | 1.4.0 | 2026-09-05 16:20:02 UTC | [open](records/r-geoflow-5d44aa88.md) |
@@ -281,10 +285,6 @@ Generated: `2026-09-05T19:19:01+00:00`
 | proximetricsR | R | Logging Observability | 0.7.1 | 2026-09-04 12:00:15 UTC | [open](records/r-proximetricsr-50636900.md) |
 | rlas | R | Formatter | 1.9.5 | 2026-09-04 12:00:09 UTC | [open](records/r-rlas-63762d9d.md) |
 | soc.ca | R | Static Analyzer | 0.8.2 | 2026-09-04 12:00:02 UTC | [open](records/r-soc-ca-4c33fd2e.md) |
-| BBEST | R | Library | 0.1-9 | 2026-09-04 11:10:02 UTC | [open](records/r-bbest-3f7f8b5f.md) |
-| vazul | R | Static Analyzer | 1.2.0 | 2026-09-04 11:00:02 UTC | [open](records/r-vazul-d5d0cc4e.md) |
-| frheritage | R | Library | 0.1.2 | 2026-09-04 10:30:02 UTC | [open](records/r-frheritage-8d28c42c.md) |
-| routing | R | Web Framework | 1.1.1 | 2026-09-04 10:00:02 UTC | [open](records/r-routing-2f4a5f07.md) |
 
 ## Unknown Reasons
 

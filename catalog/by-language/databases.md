@@ -17,8 +17,8 @@ Records: `726`
 [Embedded Hardware (56)](../by-category/embedded-hardware.md) · [Ffi Bindings (453)](../by-category/ffi-bindings.md) · [Filesystem Os (1571)](../by-category/filesystem-os.md) · [Formatter (644)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (354)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1450)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (431)](../by-category/image-audio-dsp.md) · [Interop Bindings (61)](../by-category/interop-bindings.md) · [Interpreter Runtime (267)](../by-category/interpreter-runtime.md) · [Jit Vm (63)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1431)](../by-category/language-specification.md) · [Library (5584)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (519)](../by-category/logging-observability.md) · [Machine Learning (775)](../by-category/machine-learning.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1431)](../by-category/language-specification.md) · [Library (5585)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (519)](../by-category/logging-observability.md) · [Machine Learning (776)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1029)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (441)](../by-category/package-manager.md) · [Parser Lexer Ast (1135)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (298)](../by-category/precommit-ci-quality.md)
 [Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (15)](../by-category/sanitizer.md)
@@ -94,7 +94,7 @@ Records: `726`
 | [HariSekhon/DevOps-Bash-tools](../records/databases-harisekhon-devops-bash-tools-bd29d37f.md) | partial | 2026-08-24T03:39:09Z | registry-derived |
 | [knex/knex](../records/databases-knex-knex-a41a9917.md) | partial | 2026-06-26T15:02:12Z | registry-derived |
 | [kossakovsky/selfhost-ai](../records/databases-kossakovsky-selfhost-ai-b4f9a555.md) | partial | 2026-08-27T23:09:19Z | registry-derived |
-| [kysely-org/kysely](../records/databases-kysely-org-kysely-0eff4c79.md) | partial | 2026-08-31T07:47:05Z | registry-derived |
+| [kysely-org/kysely](../records/databases-kysely-org-kysely-0eff4c79.md) | partial | 2026-09-05T19:58:58Z | registry-derived |
 | [lithops-cloud/lithops](../records/databases-lithops-cloud-lithops-39ca953e.md) | partial | 2026-08-30T13:44:14Z | registry-derived |
 | [neuron-core/neuron-ai](../records/databases-neuron-core-neuron-ai-5499172a.md) | partial | 2026-09-02T09:18:33Z | registry-derived |
 | [Open-Source-Legal/OpenContracts](../records/databases-open-source-legal-opencontracts-4d09da5d.md) | partial | 2026-09-01T16:32:57Z | registry-derived |
@@ -117,7 +117,7 @@ Records: `726`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [chdb-io/chdb](../records/databases-chdb-io-chdb-51490fbb.md) | partial | 2026-09-04T02:47:17Z | registry-derived |
-| [ClickHouse/ClickHouse](../records/databases-clickhouse-clickhouse-9258f880.md) | partial | 2026-09-05T19:16:12Z | registry-derived |
+| [ClickHouse/ClickHouse](../records/databases-clickhouse-clickhouse-9258f880.md) | partial | 2026-09-05T20:18:49Z | registry-derived |
 | [ClickHouse/clickhouse-odbc](../records/databases-clickhouse-clickhouse-odbc-7cfc6ac3.md) | partial | 2026-08-18T15:43:22Z | registry-derived |
 | [golang-migrate/migrate](../records/databases-golang-migrate-migrate-1713bacf.md) | partial | 2026-09-04T21:17:26Z | registry-derived |
 | [housepower/ClickHouse-Native-JDBC](../records/databases-housepower-clickhouse-native-jdbc-8cec0869.md) | partial | 2025-06-22T09:22:59Z | registry-derived |
@@ -137,7 +137,7 @@ Records: `726`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [tobymao/sqlglot](../records/databases-tobymao-sqlglot-016a1d6a.md) | partial | 2026-09-03T00:21:31Z | registry-derived |
-| [tursodatabase/turso](../records/databases-tursodatabase-turso-bd117065.md) | partial | 2026-09-05T17:46:20Z | registry-derived |
+| [tursodatabase/turso](../records/databases-tursodatabase-turso-bd117065.md) | partial | 2026-09-05T20:04:40Z | registry-derived |
 
 ### Compiler Diagnostics
 
@@ -261,7 +261,7 @@ Records: `726`
 | [Dolibarr/dolibarr](../records/databases-dolibarr-dolibarr-10b5d5de.md) | partial | 2026-09-03T01:38:34Z | registry-derived |
 | [domaframework/doma](../records/databases-domaframework-doma-188a30ea.md) | partial | 2026-08-28T21:06:41Z | registry-derived |
 | [dotnet/efcore](../records/databases-dotnet-efcore-f57314d7.md) | partial | 2026-09-05T15:04:09Z | registry-derived |
-| [dragonflydb/dragonfly](../records/databases-dragonflydb-dragonfly-fdf6559c.md) | partial | 2026-09-05T16:14:27Z | registry-derived |
+| [dragonflydb/dragonfly](../records/databases-dragonflydb-dragonfly-fdf6559c.md) | partial | 2026-09-05T20:01:35Z | registry-derived |
 | [drizzle-team/drizzle-orm](../records/databases-drizzle-team-drizzle-orm-70f57054.md) | partial | 2026-09-01T23:17:48Z | registry-derived |
 | [DuckDB](../records/databases-duckdb-88d17aa9.md) | unknown | curated_database_record_requires_source_specific_release_lookup | registry-derived |
 | [duckdb/duckdb](../records/databases-duckdb-duckdb-654530e3.md) | partial | 2026-09-04T21:57:55Z | registry-derived |
@@ -281,7 +281,7 @@ Records: `726`
 | [FoundationDB](../records/databases-foundationdb-b93e335c.md) | unknown | curated_database_record_requires_source_specific_release_lookup | registry-derived |
 | [gaarason/database-all](../records/databases-gaarason-database-all-d3d852e3.md) | partial | 2026-05-09T17:30:02Z | registry-derived |
 | [geldata/gel](../records/databases-geldata-gel-a5e3c51e.md) | partial | 2025-12-24T02:14:35Z | registry-derived |
-| [get-convex/convex-backend](../records/databases-get-convex-convex-backend-114706b7.md) | partial | 2026-09-05T17:13:32Z | registry-derived |
+| [get-convex/convex-backend](../records/databases-get-convex-convex-backend-114706b7.md) | partial | 2026-09-05T19:34:01Z | registry-derived |
 | [gluesql/gluesql](../records/databases-gluesql-gluesql-13df10e7.md) | partial | 2026-09-01T12:56:32Z | registry-derived |
 | [go-sql-driver/mysql](../records/databases-go-sql-driver-mysql-f2d64d6f.md) | partial | 2026-09-05T15:51:05Z | registry-derived |
 | [gogs/gogs](../records/databases-gogs-gogs-f9556bd6.md) | partial | 2026-08-26T02:52:34Z | registry-derived |
@@ -344,7 +344,7 @@ Records: `726`
 | [mdbtools/mdbtools](../records/databases-mdbtools-mdbtools-ad4c57b6.md) | partial | 2026-01-17T17:20:50Z | registry-derived |
 | [Meilisearch](../records/databases-meilisearch-bf7b237f.md) | unknown | curated_database_record_requires_source_specific_release_lookup | registry-derived |
 | [Metabase](../records/databases-metabase-545e8fa8.md) | unknown | curated_database_record_requires_source_specific_release_lookup | registry-derived |
-| [metabase/metabase](../records/databases-metabase-metabase-3a69762d.md) | partial | 2026-09-05T11:42:15Z | registry-derived |
+| [metabase/metabase](../records/databases-metabase-metabase-3a69762d.md) | partial | 2026-09-05T20:02:08Z | registry-derived |
 | [Milvus](../records/databases-milvus-66248b43.md) | unknown | curated_database_record_requires_source_specific_release_lookup | registry-derived |
 | [milvus-io/pymilvus](../records/databases-milvus-io-pymilvus-f6a8adf0.md) | partial | 2026-08-19T07:15:13Z | registry-derived |
 | [MinIO](../records/databases-minio-f5c4390e.md) | unknown | curated_database_record_requires_source_specific_release_lookup | registry-derived |
@@ -422,7 +422,7 @@ Records: `726`
 | [requery/requery](../records/databases-requery-requery-85762cf6.md) | partial | 2026-02-09T08:58:28Z | registry-derived |
 | [risinglightdb/risinglight](../records/databases-risinglightdb-risinglight-5fac81e7.md) | partial | 2025-08-10T04:37:32Z | registry-derived |
 | [RocksDB](../records/databases-rocksdb-a15d9be7.md) | unknown | curated_database_record_requires_source_specific_release_lookup | registry-derived |
-| [rqlite/rqlite](../records/databases-rqlite-rqlite-61a88f3e.md) | partial | 2026-09-05T18:22:50Z | registry-derived |
+| [rqlite/rqlite](../records/databases-rqlite-rqlite-61a88f3e.md) | partial | 2026-09-05T20:07:39Z | registry-derived |
 | [run-llama/llama_index](../records/databases-run-llama-llama-index-1ae4495a.md) | partial | 2026-09-01T23:18:37Z | registry-derived |
 | [schemacrawler/SchemaCrawler](../records/databases-schemacrawler-schemacrawler-9a9c89e5.md) | partial | 2026-09-04T00:32:39Z | registry-derived |
 | [ScyllaDB](../records/databases-scylladb-305a7332.md) | unknown | curated_database_record_requires_source_specific_release_lookup | registry-derived |
@@ -813,10 +813,10 @@ Records: `726`
 | [OpenAtomFoundation/pikiwidb](../records/databases-openatomfoundation-pikiwidb-007b1f05.md) | partial | 2026-09-01T07:44:54Z | registry-derived |
 | [orientechnologies/orientdb](../records/databases-orientechnologies-orientdb-583f5aed.md) | partial | 2026-09-01T13:48:01Z | registry-derived |
 | [pilgr/Paper](../records/databases-pilgr-paper-4bec3683.md) | partial | 2023-01-06T22:00:05Z | registry-derived |
-| [pingcap/tidb](../records/databases-pingcap-tidb-56d438be.md) | partial | 2026-09-05T19:18:41Z | registry-derived |
+| [pingcap/tidb](../records/databases-pingcap-tidb-56d438be.md) | partial | 2026-09-05T20:21:14Z | registry-derived |
 | [rgcsekaraa/brows3](../records/databases-rgcsekaraa-brows3-6d622d3b.md) | partial | 2026-08-12T11:48:25Z | registry-derived |
 | [san089/Udacity-Data-Engineering-Projects](../records/databases-san089-udacity-data-engineering-projects-6731f6dc.md) | partial | 2022-08-26T00:09:15Z | registry-derived |
-| [scylladb/scylladb](../records/databases-scylladb-scylladb-5677bf8d.md) | partial | 2026-09-05T13:42:47Z | registry-derived |
+| [scylladb/scylladb](../records/databases-scylladb-scylladb-5677bf8d.md) | partial | 2026-09-05T19:48:33Z | registry-derived |
 | [Slony-I](../records/databases-slony-i-cc9dd3b4.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 | [Spock](../records/databases-spock-80573fc1.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 | [StarTrail-org/LEANN](../records/databases-startrail-org-leann-a6b16bc8.md) | partial | 2026-08-30T02:40:10Z | registry-derived |
@@ -972,7 +972,7 @@ Records: `726`
 | [dbgate/dbgate](../records/databases-dbgate-dbgate-67fc8232.md) | partial | 2026-09-02T13:16:29Z | registry-derived |
 | [doableware/djongo](../records/databases-doableware-djongo-55b89aa7.md) | partial | 2026-09-01T12:40:36Z | registry-derived |
 | [dotnetcore/FreeSql](../records/databases-dotnetcore-freesql-be272c12.md) | partial | 2026-07-31T17:52:16Z | registry-derived |
-| [googleapis/mcp-toolbox](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) | partial | 2026-09-05T13:14:03Z | registry-derived |
+| [googleapis/mcp-toolbox](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) | partial | 2026-09-05T20:12:48Z | registry-derived |
 | [lionheart/django-pyodbc](../records/databases-lionheart-django-pyodbc-c6078181.md) | partial | 2023-01-29T16:42:06Z | registry-derived |
 | [neondatabase/neon](../records/databases-neondatabase-neon-3c375148.md) | partial | 2026-08-31T11:03:14Z | registry-derived |
 | [parse-community/parse-server](../records/databases-parse-community-parse-server-9d5b6dd7.md) | partial | 2026-09-03T00:13:59Z | registry-derived |
