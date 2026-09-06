@@ -723,7 +723,7 @@ Records: `552`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ant-design-blazor/ant-design-blazor | partial | 2026-09-01T14:26:03Z | [open](../records/webassembly-ant-design-blazor-ant-design-blazor-d8f0273e.md) |
-| dotnetcore/BootstrapBlazor | partial | 2026-09-05T10:12:37Z | [open](../records/webassembly-dotnetcore-bootstrapblazor-5915f6c3.md) |
+| dotnetcore/BootstrapBlazor | partial | 2026-09-06T02:35:14Z | [open](../records/webassembly-dotnetcore-bootstrapblazor-5915f6c3.md) |
 | vugu/vugu | partial | 2026-09-01T16:39:00Z | [open](../records/webassembly-vugu-vugu-38501d3e.md) |
 | xiaoyu1998/web3.learning | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-xiaoyu1998-web3-learning-35c3e808.md) |
 

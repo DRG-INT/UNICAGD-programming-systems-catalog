@@ -263,7 +263,7 @@ Records: `104`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | eliben/watgo | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-eliben-watgo-1be01e71.md) |
-| WebAssembly/wabt | partial | 2026-08-30T21:09:45Z | [open](../records/webassembly-webassembly-wabt-4c17737d.md) |
+| WebAssembly/wabt | partial | 2026-09-06T04:17:12Z | [open](../records/webassembly-webassembly-wabt-4c17737d.md) |
 
 ## SAPJava
 

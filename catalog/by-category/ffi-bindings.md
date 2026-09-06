@@ -667,7 +667,7 @@ Records: `455`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | getsentry/sentry-cocoa | partial | 2026-09-05T01:06:01Z | [open](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) |
-| madsmtm/objc2 | partial | 2026-09-05T20:11:36Z | [open](../records/cocoa-madsmtm-objc2-ab58a215.md) |
+| madsmtm/objc2 | partial | 2026-09-05T20:24:40Z | [open](../records/cocoa-madsmtm-objc2-ab58a215.md) |
 | ryanmcgrath/cacao | partial | 2025-02-03T08:16:22Z | [open](../records/cocoa-ryanmcgrath-cacao-ce707601.md) |
 | wordpress-mobile/WordPress-iOS | partial | 2026-09-05T01:44:55Z | [open](../records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) |
 

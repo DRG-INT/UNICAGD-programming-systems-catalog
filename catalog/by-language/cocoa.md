@@ -133,7 +133,7 @@ Records: `349`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [getsentry/sentry-cocoa](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) | partial | 2026-09-05T01:06:01Z | registry-derived |
-| [madsmtm/objc2](../records/cocoa-madsmtm-objc2-ab58a215.md) | partial | 2026-09-05T20:11:36Z | registry-derived |
+| [madsmtm/objc2](../records/cocoa-madsmtm-objc2-ab58a215.md) | partial | 2026-09-05T20:24:40Z | registry-derived |
 | [ryanmcgrath/cacao](../records/cocoa-ryanmcgrath-cacao-ce707601.md) | partial | 2025-02-03T08:16:22Z | registry-derived |
 | [wordpress-mobile/WordPress-iOS](../records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) | partial | 2026-09-05T01:44:55Z | registry-derived |
 
@@ -222,7 +222,7 @@ Records: `349`
 | [Apple Review Guidelines](../records/cocoa-apple-review-guidelines-d06165e6.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [ARVideoKit](../records/cocoa-arvideokit-9a0f973d.md) | 1.6.0 | 2020-03-18T17:57:09Z | registry-derived |
 | [AuroraEditor/AuroraEditor](../records/cocoa-auroraeditor-auroraeditor-43b28791.md) | partial | 2025-08-26T18:58:06Z | registry-derived |
-| [coteditor/CotEditor](../records/cocoa-coteditor-coteditor-061a819f.md) | partial | 2026-09-05T02:43:46Z | registry-derived |
+| [coteditor/CotEditor](../records/cocoa-coteditor-coteditor-061a819f.md) | partial | 2026-09-06T02:03:06Z | registry-derived |
 | [edgar-zigis/CocoaTextField](../records/cocoa-edgar-zigis-cocoatextfield-8587dd05.md) | partial | 2025-02-02T12:29:36Z | registry-derived |
 | [Embrace](../records/cocoa-embrace-ced14cf1.md) | unknown | cocoapods_metadata_missing | registry-derived |
 | [fespinoza/LinkedIdeas](../records/cocoa-fespinoza-linkedideas-cf83dabc.md) | partial | 2021-07-13T07:49:54Z | registry-derived |
@@ -230,7 +230,7 @@ Records: `349`
 | [jonkykong/SideMenu](../records/cocoa-jonkykong-sidemenu-c7e6f352.md) | partial | 2023-02-09T09:07:10Z | registry-derived |
 | [MacDownApp/macdown](../records/cocoa-macdownapp-macdown-7b8db2fc.md) | partial | 2023-07-10T22:19:38Z | registry-derived |
 | [qvacua/vimr](../records/cocoa-qvacua-vimr-71377ce6.md) | partial | 2026-08-28T15:36:51Z | registry-derived |
-| [ravynsoft/ravynos](../records/cocoa-ravynsoft-ravynos-5f25f2d3.md) | partial | 2026-08-19T03:19:16Z | registry-derived |
+| [ravynsoft/ravynos](../records/cocoa-ravynsoft-ravynos-5f25f2d3.md) | partial | 2026-09-05T22:43:44Z | registry-derived |
 | [revblaze/SimpleSidebar](../records/cocoa-revblaze-simplesidebar-9e33e769.md) | partial | 2025-02-20T14:22:55Z | registry-derived |
 | [Sentry](../records/cocoa-sentry-5755fd31.md) | 8.58.4 | 2026-07-14 16:24:57 UTC | registry-derived |
 | [SwiftyOAuth](../records/cocoa-swiftyoauth-e67a0934.md) | v0.3 | 2016-05-26T16:17:39Z | registry-derived |

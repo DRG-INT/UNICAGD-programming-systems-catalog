@@ -40,7 +40,7 @@ interface contracts, migration safety, editor feedback, and large-codebase maint
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit |
+| Evidence | MIT No Attribution; https://api.github.com/licenses/mit-0 |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

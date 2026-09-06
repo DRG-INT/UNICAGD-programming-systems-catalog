@@ -32,7 +32,7 @@ behavior, deployment packaging, embedding, upgrade cadence, and compatibility va
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-05T19:53:42Z | gh search repos topic:webassembly stars:>500 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-05T21:17:35Z | gh search repos topic:webassembly stars:>500 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -57,7 +57,7 @@ behavior, deployment packaging, embedding, upgrade cadence, and compatibility va
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-05 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:webassembly stars:>500", "retrieved": "2026-09-05", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-06 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:webassembly stars:>500", "retrieved": "2026-09-06", "status": "forge-cli-derived"}` |
 
 </details>
 

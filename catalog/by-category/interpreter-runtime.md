@@ -435,8 +435,8 @@ Records: `269`
 | wamr - WebAssembly Micro Runtime (WAMR) is an AOT/JIT/interpreter focusing on small footprint | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wamr-webassembly-micro-runtime-wamr-is-an-aot-jit-interpreter-focusing-on-small-footprint-358da7f6.md) |
 | wasm-micro-runtime/wasm-micro-runtime | partial | 2026-09-04T08:41:06Z | [open](../records/webassembly-wasm-micro-runtime-wasm-micro-runtime-0baaf623.md) |
 | wasm3 - The fastest WebAssembly interpreter (x86, x64, ARM, MIPS, Xtensa) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wasm3-the-fastest-webassembly-interpreter-x86-x64-arm-mips-xtensa-05225f2f.md) |
-| wasm3/wasm3 | partial | 2026-09-05T19:53:42Z | [open](../records/webassembly-wasm3-wasm3-d6e345d2.md) |
-| WasmEdge/WasmEdge | partial | 2026-09-04T17:09:54Z | [open](../records/webassembly-wasmedge-wasmedge-e72c64d1.md) |
+| wasm3/wasm3 | partial | 2026-09-05T21:17:35Z | [open](../records/webassembly-wasm3-wasm3-d6e345d2.md) |
+| WasmEdge/WasmEdge | partial | 2026-09-06T08:45:41Z | [open](../records/webassembly-wasmedge-wasmedge-e72c64d1.md) |
 | Wasmer - Standalone JIT WebAssembly Runtime | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wasmer-standalone-jit-webassembly-runtime-c5c74d5d.md) |
 | wasmi-labs/wasmi | partial | 2026-09-01T11:50:21Z | [open](../records/webassembly-wasmi-labs-wasmi-2de8afe8.md) |
 | wazero/wazero | partial | 2026-09-04T18:42:18Z | [open](../records/webassembly-wazero-wazero-e01a87a9.md) |
