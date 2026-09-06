@@ -1,6 +1,6 @@
 # Haskell
 
-Records: `1421`
+Records: `1446`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `1421`
 ## Category Index
 
 [Api Abi Checker (218)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
-[Benchmarking (198)](../by-category/benchmarking.md) · [Build System (987)](../by-category/build-system.md) · [Cli (563)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (198)](../by-category/benchmarking.md) · [Build System (988)](../by-category/build-system.md) · [Cli (563)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (117)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (24)](../by-category/compiler-diagnostics.md) · [Compression (50)](../by-category/compression.md)
 [Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (129)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (174)](../by-category/cryptography.md) · [Data Science (38)](../by-category/data-science.md) · [Database Datastore (890)](../by-category/database-datastore.md) · [Datetime (227)](../by-category/datetime.md)
+[Cryptography (174)](../by-category/cryptography.md) · [Data Science (38)](../by-category/data-science.md) · [Database Datastore (890)](../by-category/database-datastore.md) · [Datetime (228)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (101)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
 [Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (454)](../by-category/ffi-bindings.md) · [Filesystem Os (1584)](../by-category/filesystem-os.md) · [Formatter (644)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (355)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1453)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (268)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5611)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (519)](../by-category/logging-observability.md) · [Machine Learning (787)](../by-category/machine-learning.md)
-[Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1034)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (441)](../by-category/package-manager.md) · [Parser Lexer Ast (1136)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (302)](../by-category/precommit-ci-quality.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5629)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (520)](../by-category/logging-observability.md) · [Machine Learning (788)](../by-category/machine-learning.md)
+[Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1035)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (441)](../by-category/package-manager.md) · [Parser Lexer Ast (1137)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (302)](../by-category/precommit-ci-quality.md)
 [Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (15)](../by-category/sanitizer.md)
-[Security Sast (336)](../by-category/security-sast.md) · [Serialization (394)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (605)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (605)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1606)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (550)](../by-category/visualization-gui.md) · [Web Framework (476)](../by-category/web-framework.md)
+[Security Sast (336)](../by-category/security-sast.md) · [Serialization (395)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (605)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (606)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1606)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (551)](../by-category/visualization-gui.md) · [Web Framework (476)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -642,6 +642,7 @@ Records: `1421`
 | [feed](../records/haskell-feed-d3d2bad0.md) | 1.3.2.1 | 2022-03-19T23:15:48Z | registry-derived |
 | [ffmpeg-light](../records/haskell-ffmpeg-light-572b8a90.md) | 0.14.1 | 2022-03-11T22:59:36Z | registry-derived |
 | [fft](../records/haskell-fft-908a541a.md) | 0.1.8.7 | 2021-05-21T14:19:33Z | registry-derived |
+| [fgl](../records/haskell-fgl-a3f11564.md) | 5.8.3.1 | 2026-05-19T12:05:50Z | registry-derived |
 | [file-embed](../records/haskell-file-embed-9cfa8d01.md) | 0.0.16.0 | 2024-01-28T06:59:04Z | registry-derived |
 | [file-location](../records/haskell-file-location-a4fcc3ed.md) | 0.4.9.1 | 2017-04-10T02:56:39Z | registry-derived |
 | [filestore](../records/haskell-filestore-562a5ad2.md) | 0.6.5.1 | 2025-08-26T09:36:15Z | registry-derived |
@@ -663,6 +664,7 @@ Records: `1421`
 | [fsnotify](../records/haskell-fsnotify-d3fb0d4c.md) | 0.4.4.0 | 2025-08-25T23:37:12Z | registry-derived |
 | [functor-apply](../records/haskell-functor-apply-10aba3ab.md) | 0.11 | 2011-01-30T12:19:53Z | registry-derived |
 | [functor-combinators](../records/haskell-functor-combinators-0539c05e.md) | 0.4.1.4 | 2025-06-13T06:02:19Z | registry-derived |
+| [fused-effects](../records/haskell-fused-effects-1cdf0c33.md) | 1.1.2.7 | 2026-05-05T20:17:55Z | registry-derived |
 | [futhark](../records/haskell-futhark-b843b095.md) | 0.27.1 | 2026-08-19T12:15:41Z | registry-derived |
 | [generic-aeson](../records/haskell-generic-aeson-ecb2846d.md) | 0.2.0.14 | 2022-06-17T12:06:41Z | registry-derived |
 | [generic-data](../records/haskell-generic-data-3eb743c0.md) | 1.1.0.2 | 2024-12-07T07:44:47Z | registry-derived |
@@ -740,7 +742,9 @@ Records: `1421`
 | [hakyll](../records/haskell-hakyll-9fae876c.md) | 4.17.0.0 | 2026-04-30T12:43:37Z | registry-derived |
 | [hal](../records/haskell-hal-a6a3be3d.md) | 1.1 | 2023-12-19T04:18:00Z | registry-derived |
 | [happstack-authenticate](../records/haskell-happstack-authenticate-2389d16c.md) | 2.6.1 | 2022-04-26T19:33:49Z | registry-derived |
+| [happstack-foundation](../records/haskell-happstack-foundation-4b1a1f65.md) | 0.5.9.3 | 2022-04-22T17:20:40Z | registry-derived |
 | [happstack-hsp](../records/haskell-happstack-hsp-926dd339.md) | 7.3.7.8 | 2025-09-09T02:43:53Z | registry-derived |
+| [happstack-jmacro](../records/haskell-happstack-jmacro-0b691153.md) | 7.0.12.6 | 2024-01-10T17:59:08Z | registry-derived |
 | [happy](../records/haskell-happy-34708176.md) | 2.2 | 2026-01-15T14:19:57Z | registry-derived |
 | [HaRe](../records/haskell-hare-e5e3c59a.md) | 0.8.4.1 | 2017-06-12T10:59:27Z | registry-derived |
 | [hasbolt](../records/haskell-hasbolt-b1423b6f.md) | 0.1.7.2 | 2025-11-11T10:13:07Z | registry-derived |
@@ -763,6 +767,7 @@ Records: `1421`
 | [haskus-utils-variant](../records/haskell-haskus-utils-variant-876a0858.md) | 3.5 | 2024-07-29T07:23:46Z | registry-derived |
 | [hat](../records/haskell-hat-19913bfd.md) | 2.9.4 | 2017-11-03T16:45:40Z | registry-derived |
 | [HaTeX](../records/haskell-hatex-67fc246b.md) | 3.23.0.2 | 2026-06-11T15:49:40Z | registry-derived |
+| [haxl](../records/haskell-haxl-14941b74.md) | 2.5.1.1 | 2025-04-08T14:18:27Z | registry-derived |
 | [haxr](../records/haskell-haxr-f7635fe6.md) | 3000.11.6.1 | 2026-04-04T16:06:16Z | registry-derived |
 | [hbro](../records/haskell-hbro-043dc067.md) | 1.7.0.0 | 2016-11-26T15:55:05Z | registry-derived |
 | [hdaemonize](../records/haskell-hdaemonize-2661f4d7.md) | 0.5.7 | 2023-06-26T14:14:26Z | registry-derived |
@@ -772,6 +777,7 @@ Records: `1421`
 | [hedgehog](../records/haskell-hedgehog-db580c82.md) | 1.7 | 2025-09-22T20:47:44Z | registry-derived |
 | [hedgehog-extras](../records/haskell-hedgehog-extras-7e1ebde0.md) | 0.10.1.0 | 2025-11-03T22:08:12Z | registry-derived |
 | [hedis](../records/haskell-hedis-b16f8ca9.md) | 0.16.3 | 2026-08-19T20:06:10Z | registry-derived |
+| [hedn](../records/haskell-hedn-e3890cc6.md) | 0.3.0.4 | 2021-11-13T13:27:12Z | registry-derived |
 | [heist](../records/haskell-heist-32943eaf.md) | 1.1.1.2 | 2023-10-22T23:19:27Z | registry-derived |
 | [heterocephalus](../records/haskell-heterocephalus-41e462f4.md) | 1.0.5.7 | 2022-07-12T17:11:47Z | registry-derived |
 | [hexpat](../records/haskell-hexpat-55076c51.md) | 0.20.13 | 2017-06-21T23:58:54Z | registry-derived |
@@ -807,6 +813,7 @@ Records: `1421`
 | [hourglass](../records/haskell-hourglass-ed0a22e4.md) | 0.2.12 | 2018-08-24T19:46:48Z | registry-derived |
 | [hpack](../records/haskell-hpack-d2b641d5.md) | 0.39.6 | 2026-06-06T21:52:03Z | registry-derived |
 | [hpage](../records/haskell-hpage-10cd940e.md) | 0.12.2 | 2010-08-28T18:22:05Z | registry-derived |
+| [hpc-coveralls](../records/haskell-hpc-coveralls-767e86c5.md) | 1.0.10 | 2017-05-13T14:31:54Z | registry-derived |
 | [HPDF](../records/haskell-hpdf-c87ea67f.md) | 1.8 | 2025-08-08T15:15:40Z | registry-derived |
 | [hpqtypes](../records/haskell-hpqtypes-ddccc8ec.md) | 1.14.0.0 | 2025-12-10T16:23:18Z | registry-derived |
 | [hpqtypes-extras](../records/haskell-hpqtypes-extras-c3745fd4.md) | 1.20.0.0 | 2026-06-10T16:17:38Z | registry-derived |
@@ -834,6 +841,7 @@ Records: `1421`
 | [husk-scheme](../records/haskell-husk-scheme-0ec871c2.md) | 3.20 | 2021-02-04T16:41:46Z | registry-derived |
 | [hvega](../records/haskell-hvega-dbcfcb53.md) | 0.12.0.7 | 2023-09-28T14:51:47Z | registry-derived |
 | [hw-balancedparens](../records/haskell-hw-balancedparens-d4a5586e.md) | 0.4.1.3 | 2022-12-05T07:10:38Z | registry-derived |
+| [hw-bits](../records/haskell-hw-bits-3d93fb4a.md) | 0.7.2.2 | 2022-03-20T03:40:14Z | registry-derived |
 | [hw-ip](../records/haskell-hw-ip-8987ca17.md) | 2.4.2.1 | 2022-03-19T10:00:36Z | registry-derived |
 | [hw-polysemy](../records/haskell-hw-polysemy-30c8fd90.md) | 0.3.1.2 | 2024-12-30T13:36:06Z | registry-derived |
 | [hw-prim](../records/haskell-hw-prim-469f0960.md) | 0.6.3.2 | 2022-10-30T02:42:20Z | registry-derived |
@@ -858,6 +866,7 @@ Records: `1421`
 | [ipython-kernel](../records/haskell-ipython-kernel-ff5dc0de.md) | 0.12.1.0 | 2025-11-15T14:07:20Z | registry-derived |
 | [isomorphism-class](../records/haskell-isomorphism-class-347d1918.md) | 0.3.1.4 | 2026-01-13T09:27:11Z | registry-derived |
 | [iteratee](../records/haskell-iteratee-f1b07a99.md) | 0.8.9.6 | 2014-05-19T23:36:30Z | registry-derived |
+| [jmacro](../records/haskell-jmacro-ed1ff827.md) | 0.6.18 | 2023-03-22T18:22:29Z | registry-derived |
 | [jsaddle](../records/haskell-jsaddle-98e2107f.md) | 0.9.9.4 | 2026-03-26T04:40:37Z | registry-derived |
 | [jsaddle-dom](../records/haskell-jsaddle-dom-95143f89.md) | 0.9.9.3 | 2026-03-26T04:41:49Z | registry-derived |
 | [jsaddle-warp](../records/haskell-jsaddle-warp-510f0c57.md) | 0.9.9.6 | 2026-03-26T04:41:26Z | registry-derived |
@@ -896,6 +905,7 @@ Records: `1421`
 | [lentil](../records/haskell-lentil-59951207.md) | 1.5.10.0 | 2025-11-20T12:15:43Z | registry-derived |
 | [leveldb-haskell](../records/haskell-leveldb-haskell-5c384854.md) | 0.6.5.1 | 2025-02-25T16:46:57Z | registry-derived |
 | [libarchive](../records/haskell-libarchive-369a0e83.md) | 3.0.5.0 | 2026-01-21T05:54:19Z | registry-derived |
+| [libBF](../records/haskell-libbf-3a9fa897.md) | 0.6.9 | 2026-08-26T20:14:14Z | registry-derived |
 | [liblawless](../records/haskell-liblawless-d5285232.md) | 0.26.0 | 2017-10-02T04:31:10Z | registry-derived |
 | [libmpd](../records/haskell-libmpd-f33c999e.md) | 0.10.0.1 | 2024-06-21T17:22:19Z | registry-derived |
 | [lifted-base](../records/haskell-lifted-base-a570c940.md) | 0.2.3.12 | 2018-03-14T20:14:11Z | registry-derived |
@@ -931,6 +941,7 @@ Records: `1421`
 | [MissingH](../records/haskell-missingh-e7599c81.md) | 1.6.0.3 | 2026-01-07T08:02:37Z | registry-derived |
 | [mmark](../records/haskell-mmark-781e14c5.md) | 0.1.0.0 | 2026-08-16T19:09:09Z | registry-derived |
 | [mmorph](../records/haskell-mmorph-f9272a14.md) | 1.2.2 | 2026-01-09T03:36:40Z | registry-derived |
+| [mmsyn6ukr](../records/haskell-mmsyn6ukr-3904d721.md) | 0.9.0.0 | 2020-11-07T13:07:48Z | registry-derived |
 | [mmsyn7h](../records/haskell-mmsyn7h-0ebc5037.md) | 0.8.1.0 | 2020-12-03T18:49:56Z | registry-derived |
 | [mmsyn7s](../records/haskell-mmsyn7s-6f192912.md) | 0.9.1.0 | 2020-10-09T10:00:04Z | registry-derived |
 | [mmsyn7ukr](../records/haskell-mmsyn7ukr-bb686661.md) | 0.17.0.0 | 2020-08-16T19:50:08Z | registry-derived |
@@ -1050,6 +1061,7 @@ Records: `1421`
 | [rds-data](../records/haskell-rds-data-be7b247c.md) | 0.2.0.1 | 2025-06-15T13:23:29Z | registry-derived |
 | [reactive](../records/haskell-reactive-6363d5f4.md) | 0.11.5 | 2010-07-28T16:49:12Z | registry-derived |
 | [reactive-banana](../records/haskell-reactive-banana-b72ade4c.md) | 1.3.2.0 | 2023-01-22T14:57:04Z | registry-derived |
+| [reactive-banana-wx](../records/haskell-reactive-banana-wx-54bd5c39.md) | 1.1.1.0 | 2016-05-27T20:24:00Z | registry-derived |
 | [reanimate](../records/haskell-reanimate-9ff9ec55.md) | 1.1.6.0 | 2022-06-02T18:10:09Z | registry-derived |
 | [reanimate-svg](../records/haskell-reanimate-svg-de6ded56.md) | 0.13.0.1 | 2021-02-20T00:51:56Z | registry-derived |
 | [rebase](../records/haskell-rebase-05a89599.md) | 1.23 | 2026-01-28T07:06:22Z | registry-derived |
@@ -1093,6 +1105,7 @@ Records: `1421`
 | [safecopy](../records/haskell-safecopy-074678af.md) | 0.10.4.3 | 2025-08-27T19:05:11Z | registry-derived |
 | [salak](../records/haskell-salak-4d35e70f.md) | 0.3.6 | 2020-03-20T09:41:38Z | registry-derived |
 | [salve](../records/haskell-salve-4d57c11b.md) | 2.0.0.10 | 2026-01-14T15:23:41Z | registry-derived |
+| [samtools](../records/haskell-samtools-6833d2b8.md) | 0.2.4.3 | 2016-05-30T03:22:14Z | registry-derived |
 | [sandwich](../records/haskell-sandwich-1638a1b6.md) | 0.3.1.0 | 2026-06-06T08:39:43Z | registry-derived |
 | [sbp](../records/haskell-sbp-0ffb4ccc.md) | 6.5.1 | 2026-07-08T16:53:34Z | registry-derived |
 | [sbv](../records/haskell-sbv-937d1d8f.md) | 14.7 | 2026-08-31T19:54:03Z | registry-derived |
@@ -1108,6 +1121,7 @@ Records: `1421`
 | [semigroupoids](../records/haskell-semigroupoids-ec3e2df3.md) | 6.0.2 | 2026-01-10T20:49:26Z | registry-derived |
 | [semigroups](../records/haskell-semigroups-1dd26ce3.md) | 0.20.1 | 2026-01-10T20:32:00Z | registry-derived |
 | [semiring-num](../records/haskell-semiring-num-9a7f01d3.md) | 1.6.0.4 | 2019-11-23T20:58:21Z | registry-derived |
+| [sendfile](../records/haskell-sendfile-de0ffe46.md) | 0.7.11.6 | 2024-05-23T16:49:12Z | registry-derived |
 | [sensu-run](../records/haskell-sensu-run-2c1c4ae8.md) | 0.7.0.5 | 2020-02-10T03:41:58Z | registry-derived |
 | [seonbi](../records/haskell-seonbi-0252c3bc.md) | 0.3.4 | 2022-09-17T18:57:49Z | registry-derived |
 | [seqloc](../records/haskell-seqloc-abb9e678.md) | 0.6.1.1 | 2015-01-16T16:38:57Z | registry-derived |
@@ -1128,6 +1142,7 @@ Records: `1421`
 | [shakespeare-css](../records/haskell-shakespeare-css-cd1c6632.md) | 1.1.0 | 2014-03-30T06:14:59Z | registry-derived |
 | [shakespeare-js](../records/haskell-shakespeare-js-b7253ad7.md) | 1.3.0 | 2014-03-30T06:15:06Z | registry-derived |
 | [silently](../records/haskell-silently-82c4ae64.md) | 1.2.5.4 | 2024-11-23T09:52:01Z | registry-derived |
+| [simple-effects](../records/haskell-simple-effects-d10fc8cd.md) | 0.13.0.0 | 2018-11-19T23:20:24Z | registry-derived |
 | [simple-sendfile](../records/haskell-simple-sendfile-d65ae27d.md) | 0.2.32 | 2023-06-19T00:52:59Z | registry-derived |
 | [simple-smt](../records/haskell-simple-smt-901983e2.md) | 1.0.1 | 2026-08-31T22:28:21Z | registry-derived |
 | [singletons](../records/haskell-singletons-0cb75e04.md) | 3.0.4 | 2024-12-11T12:49:55Z | registry-derived |
@@ -1140,6 +1155,7 @@ Records: `1421`
 | [snap](../records/haskell-snap-cbca65a0.md) | 1.1.3.3 | 2023-10-23T17:15:56Z | registry-derived |
 | [snap-core](../records/haskell-snap-core-866c653a.md) | 1.0.5.1 | 2023-02-10T21:32:56Z | registry-derived |
 | [som](../records/haskell-som-fbc6774e.md) | 10.1.11 | 2021-08-18T17:05:28Z | registry-derived |
+| [some](../records/haskell-some-9723eb72.md) | 1.1 | 2026-05-10T17:20:15Z | registry-derived |
 | [speculation](../records/haskell-speculation-dec82991.md) | 1.5.0.3 | 2016-01-17T05:43:19Z | registry-derived |
 | [split](../records/haskell-split-849a490e.md) | 0.2.5.1 | 2026-08-28T19:55:56Z | registry-derived |
 | [splitmix](../records/haskell-splitmix-c850ca5b.md) | 0.1.3.2 | 2026-01-04T21:10:53Z | registry-derived |
@@ -1217,6 +1233,7 @@ Records: `1421`
 | [tricorder-mcp](../records/haskell-tricorder-mcp-95664038.md) | 0.1.1.0 | 2026-09-01T08:57:38Z | registry-derived |
 | [trifecta](../records/haskell-trifecta-b5f6d0a8.md) | 2.1.4 | 2024-02-07T15:52:11Z | registry-derived |
 | [ttc](../records/haskell-ttc-b82444ef.md) | 1.5.0.1 | 2026-01-10T10:29:39Z | registry-derived |
+| [tttool](../records/haskell-tttool-dca398d9.md) | 1.8.1 | 2019-03-30T20:32:32Z | registry-derived |
 | [turtle](../records/haskell-turtle-b1c7d396.md) | 1.6.2 | 2023-10-16T02:06:54Z | registry-derived |
 | [tweet-hs](../records/haskell-tweet-hs-4c6e0ffb.md) | 1.0.2.3 | 2021-07-25T18:13:08Z | registry-derived |
 | [type-natural](../records/haskell-type-natural-093c2ec7.md) | 1.3.0.2 | 2025-01-02T07:07:08Z | registry-derived |
@@ -1245,6 +1262,7 @@ Records: `1421`
 | [utxorpc](../records/haskell-utxorpc-ee06b459.md) | 0.0.19.2 | 2026-05-20T22:18:15Z | registry-derived |
 | [uu-parsinglib](../records/haskell-uu-parsinglib-cd0c8662.md) | 2.9.2 | 2022-04-04T09:10:06Z | registry-derived |
 | [uuagc](../records/haskell-uuagc-4cd89ac6.md) | 0.9.57 | 2025-09-27T19:10:26Z | registry-derived |
+| [uuagc-cabal](../records/haskell-uuagc-cabal-3eb688bb.md) | 1.4.0 | 2025-09-27T19:09:59Z | registry-derived |
 | [validation](../records/haskell-validation-a2f3703c.md) | 1.2.2 | 2026-04-22T12:11:49Z | registry-derived |
 | [vault](../records/haskell-vault-0e49b080.md) | 0.3.2.0 | 2026-07-02T13:14:37Z | registry-derived |
 | [vcs-ignore](../records/haskell-vcs-ignore-b594cffb.md) | 0.1.0.0 | 2026-08-31T19:42:46Z | registry-derived |
@@ -1309,7 +1327,7 @@ Records: `1421`
 | [yesod-form](../records/haskell-yesod-form-9c06a755.md) | 1.7.11 | 2026-07-29T16:00:00Z | registry-derived |
 | [yesod-markdown](../records/haskell-yesod-markdown-8c3c7de7.md) | 0.12.6.14 | 2024-05-08T15:15:31Z | registry-derived |
 | [yesod-persistent](../records/haskell-yesod-persistent-425557b9.md) | 1.6.0.9 | 2026-06-16T20:33:49Z | registry-derived |
-| [yesod-platform](../records/haskell-yesod-platform-cc0166b2.md) | 1.2.13.3 | 2014-08-25T13:53:51Z | registry-derived |
+| [yesod-platform](../records/haskell-yesod-platform-cc0166b2.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 | [yesod-static](../records/haskell-yesod-static-f6ffdea6.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 | [yi](../records/haskell-yi-3b78b64a.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 | [Z-Data](../records/haskell-z-data-ad2a6ebb.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
@@ -1343,6 +1361,7 @@ Records: `1421`
 | [logging-effect](../records/haskell-logging-effect-3e66cfc8.md) | 1.4.2 | 2026-01-28T23:44:02Z | registry-derived |
 | [logict](../records/haskell-logict-915a27ee.md) | 0.8.2.0 | 2024-11-13T23:10:32Z | registry-derived |
 | [monad-logger](../records/haskell-monad-logger-05ede053.md) | 0.3.42 | 2025-03-10T08:59:44Z | registry-derived |
+| [opentelemetry](../records/haskell-opentelemetry-1219fa64.md) | 0.8.0 | 2022-04-07T09:58:08Z | registry-derived |
 | [polysemy-log](../records/haskell-polysemy-log-12f342fb.md) | 0.11.2.0 | 2026-05-03T11:32:32Z | registry-derived |
 | [polysemy-log-co](../records/haskell-polysemy-log-co-dd34e738.md) | 0.11.2.0 | 2026-05-03T11:32:33Z | registry-derived |
 | [wai-logger](../records/haskell-wai-logger-12c9d42e.md) | 2.5.0 | 2024-10-11T08:25:29Z | registry-derived |
@@ -1390,6 +1409,7 @@ Records: `1421`
 | [wai-handler-launch](../records/haskell-wai-handler-launch-a3e5a15b.md) | 3.0.3.1 | 2020-01-18T19:31:00Z | registry-derived |
 | [wai-middleware-content-type](../records/haskell-wai-middleware-content-type-e6c0015f.md) | 0.7.0 | 2023-09-28T09:25:07Z | registry-derived |
 | [wai-predicates](../records/haskell-wai-predicates-4078a585.md) | 1.0.0 | 2020-10-31T13:29:20Z | registry-derived |
+| [wai-routes](../records/haskell-wai-routes-e7f08b13.md) | 0.10.4 | 2019-04-12T18:44:06Z | registry-derived |
 | [wai-routing](../records/haskell-wai-routing-764e54fa.md) | 0.13.0 | 2016-08-01T22:25:14Z | registry-derived |
 | [what4-domains](../records/haskell-what4-domains-20a280a8.md) | 0.1 | 2026-09-01T17:34:44Z | registry-derived |
 
@@ -1456,6 +1476,7 @@ Records: `1421`
 | [postgres-websockets](../records/haskell-postgres-websockets-331d0d0b.md) | 0.12.1.2 | 2026-08-04T00:32:26Z | registry-derived |
 | [pusher-http-haskell](../records/haskell-pusher-http-haskell-23a5be3d.md) | 2.1.0.25 | 2026-06-01T00:49:07Z | registry-derived |
 | [servant-client](../records/haskell-servant-client-587bf386.md) | 0.20.3.0 | 2025-06-04T10:14:40Z | registry-derived |
+| [socket](../records/haskell-socket-f2f311a5.md) | 0.8.3.0 | 2020-06-29T07:18:38Z | registry-derived |
 | [wai-websockets](../records/haskell-wai-websockets-3782ed20.md) | 3.0.1.2 | 2018-03-19T12:32:07Z | registry-derived |
 | [websockets](../records/haskell-websockets-dd52de9c.md) | 0.13.0.0 | 2023-12-30T08:15:48Z | registry-derived |
 | [websockets-snap](../records/haskell-websockets-snap-116972ec.md) | 0.10.3.1 | 2019-05-06T11:31:08Z | registry-derived |
@@ -1503,6 +1524,7 @@ Records: `1421`
 | [tasty-dejafu](../records/haskell-tasty-dejafu-32431045.md) | 2.1.0.2 | 2025-01-06T23:18:53Z | registry-derived |
 | [tasty-discover](../records/haskell-tasty-discover-55b0d6e1.md) | 5.2.0 | 2025-10-25T01:49:53Z | registry-derived |
 | [tasty-golden](../records/haskell-tasty-golden-cec31e25.md) | 2.3.6 | 2026-02-01T10:41:00Z | registry-derived |
+| [tasty-hspec](../records/haskell-tasty-hspec-360b5cdc.md) | 1.2.0.4 | 2023-04-26T00:22:55Z | registry-derived |
 | [tasty-hunit](../records/haskell-tasty-hunit-99be5032.md) | 0.10.2 | 2024-06-22T10:14:50Z | registry-derived |
 | [tasty-rerun](../records/haskell-tasty-rerun-ca2da5f3.md) | 1.1.20 | 2025-03-07T00:17:12Z | registry-derived |
 | [tasty-silver](../records/haskell-tasty-silver-a0676367.md) | 3.3.2.1 | 2025-08-31T19:22:18Z | registry-derived |
@@ -1575,6 +1597,7 @@ Records: `1421`
 | [json-feed](../records/haskell-json-feed-b77272e1.md) | 2.0.0.19 | 2026-05-22T13:38:44Z | registry-derived |
 | [json-spec](../records/haskell-json-spec-15ffc1f1.md) | 1.4.0.0 | 2026-07-23T03:55:38Z | registry-derived |
 | [json-spec-elm](../records/haskell-json-spec-elm-61c184de.md) | 0.6.0.0 | 2026-07-23T04:32:37Z | registry-derived |
+| [json-spec-elm-servant](../records/haskell-json-spec-elm-servant-ca1087b4.md) | 0.6.0.0 | 2026-07-23T05:11:30Z | registry-derived |
 | [json-stream](../records/haskell-json-stream-9730fe11.md) | 0.4.6.1 | 2026-05-31T21:26:07Z | registry-derived |
 | [jsonrpc-conduit](../records/haskell-jsonrpc-conduit-e1073549.md) | 0.4.1 | 2024-02-19T21:37:42Z | registry-derived |
 | [RefSerialize](../records/haskell-refserialize-62669b0f.md) | 0.4.0 | 2017-02-06T23:42:14Z | registry-derived |
@@ -1612,6 +1635,7 @@ Records: `1421`
 | [unix-bytestring](../records/haskell-unix-bytestring-51f87c48.md) | 0.4.0.4 | 2026-02-27T00:53:34Z | registry-derived |
 | [uri-bytestring](../records/haskell-uri-bytestring-a09e0036.md) | 0.4.0.1 | 2025-04-10T16:35:16Z | registry-derived |
 | [wai-test](../records/haskell-wai-test-6f3e611d.md) | 3.0.0 | 2014-06-09T07:43:33Z | registry-derived |
+| [yampa-test](../records/haskell-yampa-test-2be489e4.md) | 0.15 | 2025-02-28T06:55:50Z | registry-derived |
 | [yesod-test](../records/haskell-yesod-test-b573e9e5.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 
 ### Type Checker
@@ -1655,6 +1679,7 @@ Records: `1421`
 | [conduit-extra](../records/haskell-conduit-extra-ce6121c0.md) | 1.3.8 | 2025-06-26T05:55:19Z | registry-derived |
 | [dear-imgui](../records/haskell-dear-imgui-c2d4e66d.md) | 2.5.0 | 2026-08-22T13:36:21Z | registry-derived |
 | [dynamic-plot](../records/haskell-dynamic-plot-79f52881.md) | 0.4.2.0 | 2022-04-17T08:56:14Z | registry-derived |
+| [equivalence](../records/haskell-equivalence-261b8641.md) | 0.4.1.1 | 2025-08-27T08:52:40Z | registry-derived |
 | [happstack-yui](../records/haskell-happstack-yui-fa51e7df.md) | 7373.5.3 | 2012-10-20T17:19:36Z | registry-derived |
 | [hledger-ui](../records/haskell-hledger-ui-8c0b5874.md) | 1.52.3 | 2026-08-27T11:08:30Z | registry-derived |
 | [irc-conduit](../records/haskell-irc-conduit-cbe64503.md) | 0.3.0.6 | 2022-12-31T20:10:34Z | registry-derived |

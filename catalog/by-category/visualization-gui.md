@@ -1,6 +1,6 @@
 # Visualization Gui
 
-Records: `550`
+Records: `551`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `550`
 ## Category Index
 
 [Api Abi Checker (218)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (198)](benchmarking.md) · [Build System (987)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (198)](benchmarking.md) · [Build System (988)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (117)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (129)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (890)](database-datastore.md) · [Datetime (227)](datetime.md)
+[Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (890)](database-datastore.md) · [Datetime (228)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (454)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (644)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1453)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (268)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5611)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (787)](machine-learning.md)
-[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1034)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1136)](parser-lexer-ast.md) · [Precommit Ci Quality (302)](precommit-ci-quality.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5629)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
+[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1137)](parser-lexer-ast.md) · [Precommit Ci Quality (302)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (394)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (605)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (605)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · **[Visualization Gui (550)](visualization-gui.md)** · [Web Framework (476)](web-framework.md)
+[Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (605)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
+[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · **[Visualization Gui (551)](visualization-gui.md)** · [Web Framework (476)](web-framework.md)
 
 ## C++23
 
@@ -232,6 +232,7 @@ Records: `550`
 | conduit-extra | 1.3.8 | 2025-06-26T05:55:19Z | [open](../records/haskell-conduit-extra-ce6121c0.md) |
 | dear-imgui | 2.5.0 | 2026-08-22T13:36:21Z | [open](../records/haskell-dear-imgui-c2d4e66d.md) |
 | dynamic-plot | 0.4.2.0 | 2022-04-17T08:56:14Z | [open](../records/haskell-dynamic-plot-79f52881.md) |
+| equivalence | 0.4.1.1 | 2025-08-27T08:52:40Z | [open](../records/haskell-equivalence-261b8641.md) |
 | happstack-yui | 7373.5.3 | 2012-10-20T17:19:36Z | [open](../records/haskell-happstack-yui-fa51e7df.md) |
 | hledger-ui | 1.52.3 | 2026-08-27T11:08:30Z | [open](../records/haskell-hledger-ui-8c0b5874.md) |
 | irc-conduit | 0.3.0.6 | 2022-12-31T20:10:34Z | [open](../records/haskell-irc-conduit-cbe64503.md) |
@@ -698,7 +699,7 @@ Records: `550`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| brandonp2412/Quitter | partial | 2026-09-05T01:21:40Z | [open](../records/magazines-brandonp2412-quitter-639e86aa.md) |
+| brandonp2412/Quitter | partial | 2026-09-05T23:45:36Z | [open](../records/magazines-brandonp2412-quitter-639e86aa.md) |
 | krrishd/write | partial | 2018-03-12T19:56:25Z | [open](../records/magazines-krrishd-write-37bef373.md) |
 
 ## Assembly
@@ -748,7 +749,7 @@ Records: `550`
 | hackiftekhar/IQKeyboardManager | unknown | github_search_does_not_include_release_date | [open](../records/swift-hackiftekhar-iqkeyboardmanager-270f7036.md) |
 | lexrus/LTMorphingLabel | unknown | github_search_does_not_include_release_date | [open](../records/swift-lexrus-ltmorphinglabel-4dc8c4ca.md) |
 | Mijick/NavigationView | partial | 2025-05-14T15:36:54Z | [open](../records/swift-mijick-navigationview-fc610d99.md) |
-| MochiDiffusion/MochiDiffusion | partial | 2026-08-30T00:12:27Z | [open](../records/swift-mochidiffusion-mochidiffusion-1b1509bf.md) |
+| MochiDiffusion/MochiDiffusion | partial | 2026-09-06T00:12:22Z | [open](../records/swift-mochidiffusion-mochidiffusion-1b1509bf.md) |
 | moritzsternemann/SwipyCell | partial | 2023-08-30T17:36:41Z | [open](../records/swift-moritzsternemann-swipycell-ad3c37ba.md) |
 | nachonavarro/Pages | partial | 2025-12-30T17:33:37Z | [open](../records/swift-nachonavarro-pages-d3acd69d.md) |
 | ReduxUI | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-reduxui-d30c2ddb.md) |

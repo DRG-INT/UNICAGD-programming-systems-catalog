@@ -1,6 +1,6 @@
 # Serialization
 
-Records: `394`
+Records: `395`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `394`
 ## Category Index
 
 [Api Abi Checker (218)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (198)](benchmarking.md) · [Build System (987)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (198)](benchmarking.md) · [Build System (988)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (117)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (50)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (129)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (890)](database-datastore.md) · [Datetime (227)](datetime.md)
+[Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (890)](database-datastore.md) · [Datetime (228)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (454)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (644)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1453)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (268)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5611)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (519)](logging-observability.md) · [Machine Learning (787)](machine-learning.md)
-[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1034)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1136)](parser-lexer-ast.md) · [Precommit Ci Quality (302)](precommit-ci-quality.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5629)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
+[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1137)](parser-lexer-ast.md) · [Precommit Ci Quality (302)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · **[Serialization (394)](serialization.md)** · [Standard Library (25)](standard-library.md) · [Static Analyzer (605)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (605)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (550)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Security Sast (336)](security-sast.md) · **[Serialization (395)](serialization.md)** · [Standard Library (25)](standard-library.md) · [Static Analyzer (605)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
+[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (551)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C99
 
@@ -89,7 +89,7 @@ Records: `394`
 | jsonrpsee | 0.26.0 | 2026-05-27T17:19:06.610255Z | [open](../records/rust-jsonrpsee-eaad6d22.md) |
 | jsonrpsee-core | 0.26.0 | 2026-05-27T17:18:55.270315Z | [open](../records/rust-jsonrpsee-core-dad7b335.md) |
 | jsonrpsee-types | 0.26.0 | 2026-05-27T17:18:52.674277Z | [open](../records/rust-jsonrpsee-types-e5045922.md) |
-| jsonschema | 0.53.0 | 2026-09-02T19:41:51.188114Z | [open](../records/rust-jsonschema-64fecdca.md) |
+| jsonschema | 0.54.0 | 2026-09-05T23:35:59.858944Z | [open](../records/rust-jsonschema-64fecdca.md) |
 | jsonwebtoken | 11.0.0 | 2026-07-24T10:59:32.987519Z | [open](../records/rust-jsonwebtoken-7e5361c0.md) |
 | libyml | 0.0.6 | 2026-05-29T19:54:08.134460Z | [open](../records/rust-libyml-b783402c.md) |
 | markup5ever | 0.39.0 | 2026-03-13T16:22:02.378383Z | [open](../records/rust-markup5ever-becfce56.md) |
@@ -263,6 +263,7 @@ Records: `394`
 | json-feed | 2.0.0.19 | 2026-05-22T13:38:44Z | [open](../records/haskell-json-feed-b77272e1.md) |
 | json-spec | 1.4.0.0 | 2026-07-23T03:55:38Z | [open](../records/haskell-json-spec-15ffc1f1.md) |
 | json-spec-elm | 0.6.0.0 | 2026-07-23T04:32:37Z | [open](../records/haskell-json-spec-elm-61c184de.md) |
+| json-spec-elm-servant | 0.6.0.0 | 2026-07-23T05:11:30Z | [open](../records/haskell-json-spec-elm-servant-ca1087b4.md) |
 | json-stream | 0.4.6.1 | 2026-05-31T21:26:07Z | [open](../records/haskell-json-stream-9730fe11.md) |
 | jsonrpc-conduit | 0.4.1 | 2024-02-19T21:37:42Z | [open](../records/haskell-jsonrpc-conduit-e1073549.md) |
 | RefSerialize | 0.4.0 | 2017-02-06T23:42:14Z | [open](../records/haskell-refserialize-62669b0f.md) |
