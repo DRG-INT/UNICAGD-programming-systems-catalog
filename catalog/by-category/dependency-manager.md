@@ -294,5 +294,5 @@ Records: `101`
 | --- | --- | --- | --- |
 | Gitea: RiceField-Plugins/LibraryDependencies | partial | 2022-06-09T18:49:38Z | [open](../records/repository-workplaces-gitea-ricefield-plugins-librarydependencies-4aaea462.md) |
 | gitlab-org/security-products/dependency-scanning | partial | 2026-01-07T10:21:59.705Z | [open](../records/repository-workplaces-gitlab-org-security-products-dependency-scanning-3f274c86.md) |
-| gitlab-org/security-products/gemnasium-db | partial | 2026-09-04T20:48:09.446Z | [open](../records/repository-workplaces-gitlab-org-security-products-gemnasium-db-646d6d68.md) |
+| gitlab-org/security-products/gemnasium-db | partial | 2026-09-06T00:56:01.183Z | [open](../records/repository-workplaces-gitlab-org-security-products-gemnasium-db-646d6d68.md) |
 | gitlab-org/security-products/security-report-schemas | partial | 2026-09-02T12:31:27.706Z | [open](../records/repository-workplaces-gitlab-org-security-products-security-report-schemas-1a7d4b38.md) |

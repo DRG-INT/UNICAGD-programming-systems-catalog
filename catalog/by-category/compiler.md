@@ -302,7 +302,7 @@ Records: `175`
 | BuildGrid/recc | partial | 2024-11-19T23:12:30.966Z | [open](../records/repository-workplaces-buildgrid-recc-21c7a89e.md) |
 | cznic/cc | partial | 2026-09-04T12:55:23.602Z | [open](../records/repository-workplaces-cznic-cc-89e992e6.md) |
 | dfffffff/gcc6809 | partial | 2019-11-29T14:34:33.015Z | [open](../records/repository-workplaces-dfffffff-gcc6809-15bef404.md) |
-| freepascal.org/fpc/source | partial | 2026-09-05T23:49:22.035Z | [open](../records/repository-workplaces-freepascal-org-fpc-source-0fc2714e.md) |
+| freepascal.org/fpc/source | partial | 2026-09-06T02:06:26.970Z | [open](../records/repository-workplaces-freepascal-org-fpc-source-0fc2714e.md) |
 | Gitea: 6lin/sbcl | partial | 2022-09-16T23:40:41Z | [open](../records/repository-workplaces-gitea-6lin-sbcl-f57192a2.md) |
 | Gitea: catdog100/zlcompiler | partial | 2025-01-10T08:36:43Z | [open](../records/repository-workplaces-gitea-catdog100-zlcompiler-cde7bc6e.md) |
 | Gitea: EnderIce2/Fennix | partial | 2025-04-14T01:21:22Z | [open](../records/repository-workplaces-gitea-enderice2-fennix-a295c30d.md) |

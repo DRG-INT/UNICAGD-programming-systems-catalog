@@ -40,9 +40,9 @@ assessment.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | {"key": "", "name": "", "url": ""} |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Mixed license review |
+| Evidence | BSD 2-Clause "Simplified" License; https://api.github.com/licenses/bsd-2-clause |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 

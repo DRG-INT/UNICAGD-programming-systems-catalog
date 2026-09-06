@@ -220,7 +220,7 @@ Records: `606`
 | @smithers-orchestrator/testing | 0.32.0 | 2026-08-01T05:00:36.872Z | [open](../records/node-js-javascript-smithers-orchestrator-testing-7a34dd66.md) |
 | @smthrs/testing | 0.35.0 | 2026-08-17T20:35:48.555Z | [open](../records/node-js-javascript-smthrs-testing-35159f03.md) |
 | @solidjs/testing-library | 0.8.10 | 2024-09-25T13:24:08.486Z | [open](../records/node-js-javascript-solidjs-testing-library-4973b45e.md) |
-| @stacksjs/testing | 0.74.25 | 2026-09-06T00:12:51.016Z | [open](../records/node-js-javascript-stacksjs-testing-57469937.md) |
+| @stacksjs/testing | 0.74.26 | 2026-09-06T01:11:42.295Z | [open](../records/node-js-javascript-stacksjs-testing-57469937.md) |
 | @storm-software/testing-tools | 1.119.286 | 2026-08-22T05:47:53.244Z | [open](../records/node-js-javascript-storm-software-testing-tools-3111101a.md) |
 | @storybook/addon-vitest | 10.6.0 | 2026-09-02T13:59:28.767Z | [open](../records/node-js-javascript-storybook-addon-vitest-61ff1281.md) |
 | @storybook/cli | 10.6.0 | 2026-09-02T14:01:45.695Z | [open](../records/node-js-javascript-storybook-cli-04f8ce22.md) |

@@ -33,7 +33,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 1.7.0 | 2026-08-31T06:15:58.866831Z | [https://pub.dev/api/packages/flutter_gemma](https://pub.dev/api/packages/flutter_gemma) |  |
+| stable | known | 1.7.1 | 2026-09-05T16:32:12.608128Z | [https://pub.dev/api/packages/flutter_gemma](https://pub.dev/api/packages/flutter_gemma) |  |
 | preview | known | 1.0.0-rc.1 | 2026-06-10T17:08:04.494780Z | [https://pub.dev/api/packages/flutter_gemma](https://pub.dev/api/packages/flutter_gemma) |  |
 
 ## License And Use Alert
@@ -48,7 +48,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 - Treat category as `filesystem_os` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pub.dev/api/packages/flutter_gemma` at `2026-09-01T14:20:31+00:00`.
+- Latest stable metadata was observed from `https://pub.dev/api/packages/flutter_gemma` at `2026-09-06T02:19:08+00:00`.
 - Preview/nightly metadata is present through channel `preview`.
 
 ## Provenance
@@ -58,7 +58,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| pub_dev_completion_and_package_api | registry-derived | 2026-09-05 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-05", "status": "registry-derived"}` |
+| pub_dev_completion_and_package_api | registry-derived | 2026-09-06 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-06", "status": "registry-derived"}` |
 
 </details>
 

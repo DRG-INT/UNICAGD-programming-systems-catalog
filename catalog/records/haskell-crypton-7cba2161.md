@@ -32,7 +32,7 @@ integrity, authentication, and key-management risk.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 1.1.4 | 2026-06-03T05:25:01Z | [https://hackage.haskell.org/package/crypton](https://hackage.haskell.org/package/crypton) |  |
+| stable | known | 1.1.5 | 2026-09-06T02:20:25Z | [https://hackage.haskell.org/package/crypton](https://hackage.haskell.org/package/crypton) |  |
 | preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ integrity, authentication, and key-management risk.
 
 - Treat category as `cryptography` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://hackage.haskell.org/package/crypton` at `2026-09-02T15:26:13+00:00`.
+- Latest stable metadata was observed from `https://hackage.haskell.org/package/crypton` at `2026-09-06T02:20:55+00:00`.
 - Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
 
 ## Provenance

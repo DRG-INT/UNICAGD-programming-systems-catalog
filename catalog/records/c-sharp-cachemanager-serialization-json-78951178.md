@@ -43,7 +43,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 | Field | Value |
 | --- | --- |
 | Detected family | Apache-2.0 |
-| Evidence | Apache-2.0; https://www.nuget.org/packages/CacheManager.Serialization.Json/3.0.0/license |
+| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
 | Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes

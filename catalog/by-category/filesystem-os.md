@@ -503,7 +503,7 @@ Records: `1584`
 | firebase_messaging | 16.6.0 | 2026-08-24T13:41:52.500498Z | [open](../records/dart-firebase-messaging-eb0d3a3d.md) |
 | fluentui_system_icons | 1.1.273 | 2025-01-31T19:35:58.322881Z | [open](../records/dart-fluentui-system-icons-f520bb45.md) |
 | flutter_background_geolocation | 5.7.0 | 2026-09-04T15:37:35.482183Z | [open](../records/dart-flutter-background-geolocation-688e364d.md) |
-| flutter_gemma | 1.7.0 | 2026-08-31T06:15:58.866831Z | [open](../records/dart-flutter-gemma-9a6dbd9b.md) |
+| flutter_gemma | 1.7.1 | 2026-09-05T16:32:12.608128Z | [open](../records/dart-flutter-gemma-9a6dbd9b.md) |
 | flutter_keyboard_visibility | 7.0.1 | 2026-08-24T02:25:21.264837Z | [open](../records/dart-flutter-keyboard-visibility-b5ffcede.md) |
 | flutter_keychain | 3.0.1 | 2026-03-30T12:03:12.684383Z | [open](../records/dart-flutter-keychain-1114ea7d.md) |
 | flutter_local_notifications | 22.3.0 | 2026-08-08T08:48:50.612325Z | [open](../records/dart-flutter-local-notifications-2c4ccd3c.md) |
@@ -1595,7 +1595,7 @@ Records: `1584`
 | TravorLZH/TravorOS | partial | 2018-08-07T09:05:42Z | [open](../records/assembly-travorlzh-travoros-9961f938.md) |
 | wichtounet/thor-os | partial | 2024-11-19T10:12:06Z | [open](../records/assembly-wichtounet-thor-os-cf1384c0.md) |
 | WindowsNT/asm | partial | 2025-05-10T09:55:30Z | [open](../records/assembly-windowsnt-asm-00dbedd0.md) |
-| XXIIVV/oscean | partial | 2026-09-05T20:19:32Z | [open](../records/assembly-xxiivv-oscean-5e954d22.md) |
+| XXIIVV/oscean | partial | 2026-09-06T01:53:03Z | [open](../records/assembly-xxiivv-oscean-5e954d22.md) |
 | yhs0602/Android-Disassembler | partial | 2026-03-22T07:00:35Z | [open](../records/assembly-yhs0602-android-disassembler-1d409abc.md) |
 
 ## Pattern language

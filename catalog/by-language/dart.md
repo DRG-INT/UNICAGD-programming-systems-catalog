@@ -302,7 +302,7 @@ Records: `760`
 | [firebase_messaging](../records/dart-firebase-messaging-eb0d3a3d.md) | 16.6.0 | 2026-08-24T13:41:52.500498Z | registry-derived |
 | [fluentui_system_icons](../records/dart-fluentui-system-icons-f520bb45.md) | 1.1.273 | 2025-01-31T19:35:58.322881Z | registry-derived |
 | [flutter_background_geolocation](../records/dart-flutter-background-geolocation-688e364d.md) | 5.7.0 | 2026-09-04T15:37:35.482183Z | registry-derived |
-| [flutter_gemma](../records/dart-flutter-gemma-9a6dbd9b.md) | 1.7.0 | 2026-08-31T06:15:58.866831Z | registry-derived |
+| [flutter_gemma](../records/dart-flutter-gemma-9a6dbd9b.md) | 1.7.1 | 2026-09-05T16:32:12.608128Z | registry-derived |
 | [flutter_keyboard_visibility](../records/dart-flutter-keyboard-visibility-b5ffcede.md) | 7.0.1 | 2026-08-24T02:25:21.264837Z | registry-derived |
 | [flutter_keychain](../records/dart-flutter-keychain-1114ea7d.md) | 3.0.1 | 2026-03-30T12:03:12.684383Z | registry-derived |
 | [flutter_local_notifications](../records/dart-flutter-local-notifications-2c4ccd3c.md) | 22.3.0 | 2026-08-08T08:48:50.612325Z | registry-derived |

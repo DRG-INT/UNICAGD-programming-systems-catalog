@@ -841,7 +841,7 @@ Records: `605`
 | Gitea: corricca/elibrary-publication-analyzer | partial | 2026-01-29T19:57:29Z | [open](../records/repository-workplaces-gitea-corricca-elibrary-publication-analyzer-3d1b67ed.md) |
 | Gitea: ImageProcessing-ElectronicPublications/imthreshold | partial | 2023-10-26T10:52:14Z | [open](../records/repository-workplaces-gitea-imageprocessing-electronicpublications-imthreshold-a87c44af.md) |
 | gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-05T19:05:10.695Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
-| gitlab-org/gitlab | partial | 2026-09-06T00:07:52.146Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
+| gitlab-org/gitlab | partial | 2026-09-06T02:11:02.606Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
 | gitlab-org/security-products/analyzers/container-scanning | partial | 2026-08-27T18:19:28.289Z | [open](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) |
 | gitlab-security-oss/cis/gitlabcis | partial | 2026-09-01T20:35:39.553Z | [open](../records/repository-workplaces-gitlab-security-oss-cis-gitlabcis-f7ce6047.md) |
 | hgraca/app-mapper | partial | 2026-09-05T08:04:40.407Z | [open](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) |

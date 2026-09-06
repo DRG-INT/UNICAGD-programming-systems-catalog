@@ -39,9 +39,9 @@ part of cross-language integration, ABI ownership, memory safety, and runtime em
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | GPL-2 |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | MIT |
+| Evidence | MIT License; https://api.github.com/licenses/mit; MIT; https://www.nuget.org/packages/Microsoft.Azure.WebJobs.Extensions.Http/3.3.0/license |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 

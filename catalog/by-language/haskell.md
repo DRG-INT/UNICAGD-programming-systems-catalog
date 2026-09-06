@@ -142,7 +142,7 @@ Records: `1446`
 | [crypto-enigma](../records/haskell-crypto-enigma-a5b67071.md) | 0.1.1.6 | 2019-10-09T15:08:31Z | registry-derived |
 | [cryptocipher](../records/haskell-cryptocipher-aabf56fb.md) | 0.6.2 | 2013-10-25T01:06:21Z | registry-derived |
 | [cryptohash](../records/haskell-cryptohash-969b670d.md) | 0.11.9 | 2016-03-25T17:25:05Z | registry-derived |
-| [crypton](../records/haskell-crypton-7cba2161.md) | 1.1.4 | 2026-06-03T05:25:01Z | registry-derived |
+| [crypton](../records/haskell-crypton-7cba2161.md) | 1.1.5 | 2026-09-06T02:20:25Z | registry-derived |
 | [cryptonite](../records/haskell-cryptonite-c167855c.md) | 0.30 | 2022-03-13T12:56:59Z | registry-derived |
 | [hashable](../records/haskell-hashable-034408b0.md) | 1.5.1.0 | 2026-01-02T17:45:37Z | registry-derived |
 | [hashed-storage](../records/haskell-hashed-storage-03a7b615.md) | 0.5.11 | 2014-04-07T13:37:01Z | registry-derived |

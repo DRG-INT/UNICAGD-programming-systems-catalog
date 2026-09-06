@@ -184,7 +184,7 @@ Records: `890`
 | @sap/hana-database-explorer | 1.39.0 | 2026-06-25T14:42:46.669Z | [open](../records/node-js-javascript-sap-hana-database-explorer-afd40f71.md) |
 | @sap/hana-project-explorer | 1.38.0 | 2026-06-26T09:58:53.379Z | [open](../records/node-js-javascript-sap-hana-project-explorer-0180f7e1.md) |
 | @solumjs/database | 0.3.5 | 2026-08-27T08:28:33.613Z | [open](../records/node-js-javascript-solumjs-database-6399521b.md) |
-| @stacksjs/database | 0.74.25 | 2026-09-06T00:11:48.261Z | [open](../records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
+| @stacksjs/database | 0.74.26 | 2026-09-06T01:11:09.778Z | [open](../records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
 | @strapi/database | 5.52.3 | 2026-09-02T14:35:58.213Z | [open](../records/node-js-javascript-strapi-database-c0f9aa77.md) |
 | @supabase/realtime-js | 2.115.0 | 2026-09-03T16:19:33.543Z | [open](../records/node-js-javascript-supabase-realtime-js-a426c046.md) |
 | @synor/database-postgresql | 0.5.2 | 2021-03-05T07:14:43.605Z | [open](../records/node-js-javascript-synor-database-postgresql-694d4795.md) |

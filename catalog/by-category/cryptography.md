@@ -188,7 +188,7 @@ Records: `174`
 | crypto-enigma | 0.1.1.6 | 2019-10-09T15:08:31Z | [open](../records/haskell-crypto-enigma-a5b67071.md) |
 | cryptocipher | 0.6.2 | 2013-10-25T01:06:21Z | [open](../records/haskell-cryptocipher-aabf56fb.md) |
 | cryptohash | 0.11.9 | 2016-03-25T17:25:05Z | [open](../records/haskell-cryptohash-969b670d.md) |
-| crypton | 1.1.4 | 2026-06-03T05:25:01Z | [open](../records/haskell-crypton-7cba2161.md) |
+| crypton | 1.1.5 | 2026-09-06T02:20:25Z | [open](../records/haskell-crypton-7cba2161.md) |
 | cryptonite | 0.30 | 2022-03-13T12:56:59Z | [open](../records/haskell-cryptonite-c167855c.md) |
 | hashable | 1.5.1.0 | 2026-01-02T17:45:37Z | [open](../records/haskell-hashable-034408b0.md) |
 | hashed-storage | 0.5.11 | 2014-04-07T13:37:01Z | [open](../records/haskell-hashed-storage-03a7b615.md) |

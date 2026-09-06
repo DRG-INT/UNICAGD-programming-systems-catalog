@@ -57,7 +57,7 @@ of language tooling, code generation, static analysis, and source transformation
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-05 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "server", "retrieved": "2026-09-05", "status": "forge-api-derived"}` |
+| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-06 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "server", "retrieved": "2026-09-06", "status": "forge-api-derived"}` |
 
 </details>
 

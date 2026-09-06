@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-06T01:18:01+00:00`
+Generated: `2026-09-06T02:21:19+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -35,9 +35,10 @@ Generated: `2026-09-06T01:18:01+00:00`
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
-| @stacksjs/testing | Node.js/JavaScript | Testing Framework | 0.74.25 | 2026-09-06T00:12:51.016Z | [open](records/node-js-javascript-stacksjs-testing-57469937.md) |
-| @stacksjs/database | Node.js/JavaScript | Database Datastore | 0.74.25 | 2026-09-06T00:11:48.261Z | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
-| @stacksjs/http | Node.js/JavaScript | Networking Http | 0.74.25 | 2026-09-06T00:05:34.074Z | [open](records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
+| crypton | Haskell | Cryptography | 1.1.5 | 2026-09-06T02:20:25Z | [open](records/haskell-crypton-7cba2161.md) |
+| @stacksjs/testing | Node.js/JavaScript | Testing Framework | 0.74.26 | 2026-09-06T01:11:42.295Z | [open](records/node-js-javascript-stacksjs-testing-57469937.md) |
+| @stacksjs/database | Node.js/JavaScript | Database Datastore | 0.74.26 | 2026-09-06T01:11:09.778Z | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
+| @stacksjs/http | Node.js/JavaScript | Networking Http | 0.74.26 | 2026-09-06T01:05:53.881Z | [open](records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
 | jsonschema | Rust | Serialization | 0.54.0 | 2026-09-05T23:35:59.858944Z | [open](records/rust-jsonschema-64fecdca.md) |
 | hsinstall | Haskell | Library | 3.1 | 2026-09-05T22:14:32Z | [open](records/haskell-hsinstall-b4fd04ed.md) |
 | @iobroker/testing | Node.js/JavaScript | Testing Framework | 6.0.0 | 2026-09-05T20:28:41.253Z | [open](records/node-js-javascript-iobroker-testing-1634fcb2.md) |
@@ -55,6 +56,7 @@ Generated: `2026-09-06T01:18:01+00:00`
 | dirs | Rust | Language Specification | 7.0.0 | 2026-09-05T17:32:15.811659Z | [open](records/rust-dirs-0725b651.md) |
 | bindgen | Rust | Ffi Bindings | 0.73.1 | 2026-09-05T17:25:52.826923Z | [open](records/rust-bindgen-355a5568.md) |
 | logger | Dart | Logging Observability | 2.8.0 | 2026-09-05T17:20:29.963495Z | [open](records/dart-logger-1d289d0f.md) |
+| flutter_gemma | Dart | Filesystem Os | 1.7.1 | 2026-09-05T16:32:12.608128Z | [open](records/dart-flutter-gemma-9a6dbd9b.md) |
 | @maxminddatabase/geolite2 | Node.js/JavaScript | Database Datastore | 1.0.299 | 2026-09-05T16:05:33.259Z | [open](records/node-js-javascript-maxminddatabase-geolite2-f679c34e.md) |
 | testing-conventions | Node.js/TypeScript | Type Checker | 0.0.119 | 2026-09-05T15:41:24.383Z | [open](records/node-js-typescript-testing-conventions-a7bae5cf.md) |
 | hOpenPGP | Haskell | Library | 3.6.10 | 2026-09-05T14:35:40Z | [open](records/haskell-hopenpgp-dbd93565.md) |
@@ -283,8 +285,6 @@ Generated: `2026-09-06T01:18:01+00:00`
 | opdisDownsampling | R | Library | 1.7 | 2026-09-04 15:00:02 UTC | [open](records/r-opdisdownsampling-17ba0e83.md) |
 | crops | R | Library | 1.0.4 | 2026-09-04 13:50:01 UTC | [open](records/r-crops-133aa91c.md) |
 | esviz | R | Cli | 0.0.4 | 2026-09-04 13:20:02 UTC | [open](records/r-esviz-0b5f4505.md) |
-| oeli | R | Data Science | 0.7.7 | 2026-09-04 12:30:11 UTC | [open](records/r-oeli-dc0d7f62.md) |
-| smooth | R | Parser Lexer Ast | 4.5.2 | 2026-09-04 12:30:02 UTC | [open](records/r-smooth-ad66d345.md) |
 
 ## Unknown Reasons
 

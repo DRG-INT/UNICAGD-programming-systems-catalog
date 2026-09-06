@@ -39,9 +39,9 @@ validation, regression protection, and release confidence.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; LGPL-3.0-only; https://www.nuget.org/packages/Volo.Abp.Http.Abstractions/10.6.0/license |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | MIT |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 
