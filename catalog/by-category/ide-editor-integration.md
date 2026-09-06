@@ -1,6 +1,6 @@
 # Ide Editor Integration
 
-Records: `1454`
+Records: `1456`
 
 ## Navigation
 
@@ -10,21 +10,21 @@ Records: `1454`
 
 [Api Abi Checker (220)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
 [Benchmarking (198)](benchmarking.md) · [Build System (989)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (117)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
+[Community Reference (117)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (175)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (230)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (455)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (645)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · **[Ide Editor Integration (1454)](ide-editor-integration.md)**
+[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (455)](ffi-bindings.md) · [Filesystem Os (1585)](filesystem-os.md) · [Formatter (646)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · **[Ide Editor Integration (1456)](ide-editor-integration.md)**
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (269)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5636)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1433)](language-specification.md) · [Library (5638)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1138)](parser-lexer-ast.md) · [Precommit Ci Quality (303)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1183)](parser-lexer-ast.md) · [Precommit Ci Quality (303)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (605)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (606)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (552)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Undefined Behavior Analyzer (1608)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (552)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C++23
 
@@ -684,7 +684,7 @@ Records: `1454`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-06T08:26:12Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-06T11:40:01Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-06T14:19:24Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-05T16:04:02Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-05T14:38:26Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-06T12:12:51Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
@@ -1349,6 +1349,7 @@ Records: `1454`
 | mrcjkb/telescope-manix | partial | 2026-08-30T00:27:42Z | [open](../records/telescopes-mrcjkb-telescope-manix-74de5637.md) |
 | mrjones2014/dash.nvim | partial | 2022-08-30T00:29:47Z | [open](../records/telescopes-mrjones2014-dash-nvim-c0435f14.md) |
 | mrjones2014/tldr.nvim | partial | 2024-01-02T13:18:05Z | [open](../records/telescopes-mrjones2014-tldr-nvim-207a9aa6.md) |
+| MWATelescope/mwa_hyperdrive | partial | 2026-09-04T04:54:31Z | [open](../records/telescopes-mwatelescope-mwa-hyperdrive-c5f9ac6f.md) |
 | natecraddock/telescope-zf-native.nvim | partial | 2024-09-15T14:04:41Z | [open](../records/telescopes-natecraddock-telescope-zf-native-nvim-b5f7ffd2.md) |
 | nvim-telescope/telescope-fzf-native.nvim | partial | 2026-05-06T14:30:36Z | [open](../records/telescopes-nvim-telescope-telescope-fzf-native-nvim-4183d483.md) |
 | octarect/telescope-menu.nvim | partial | 2025-08-29T19:10:35Z | [open](../records/telescopes-octarect-telescope-menu-nvim-fca0ddf6.md) |
@@ -1367,6 +1368,7 @@ Records: `1454`
 | sidereal-io/sidereal | partial | 2026-08-31T04:17:21Z | [open](../records/telescopes-sidereal-io-sidereal-a812056c.md) |
 | Snikimonkd/telescope-git-conflicts.nvim | partial | 2024-01-14T11:59:28Z | [open](../records/telescopes-snikimonkd-telescope-git-conflicts-nvim-698ea0ce.md) |
 | softinio/scaladex.nvim | partial | 2025-06-08T19:30:45Z | [open](../records/telescopes-softinio-scaladex-nvim-76db7af3.md) |
+| Starainrt/astro | partial | 2026-08-06T04:42:42Z | [open](../records/telescopes-starainrt-astro-d4884d0b.md) |
 | sudormrfbin/cheatsheet.nvim | partial | 2024-01-26T05:59:34Z | [open](../records/telescopes-sudormrfbin-cheatsheet-nvim-a26ebb27.md) |
 | theorytoe/nii-nvim | partial | 2022-09-24T03:59:48Z | [open](../records/telescopes-theorytoe-nii-nvim-63ad25bd.md) |
 | walkersumida/fusen.nvim | partial | 2026-07-22T13:23:58Z | [open](../records/telescopes-walkersumida-fusen-nvim-d886ad1f.md) |
@@ -1376,7 +1378,7 @@ Records: `1454`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ashuttl/linecast | partial | 2026-09-05T17:12:48Z | [open](../records/radars-ashuttl-linecast-afb4bdb7.md) |
+| ashuttl/linecast | partial | 2026-09-06T12:34:37Z | [open](../records/radars-ashuttl-linecast-afb4bdb7.md) |
 | bellingcat/sar-interference-tracker | partial | 2022-02-23T13:57:03Z | [open](../records/radars-bellingcat-sar-interference-tracker-8efa36c7.md) |
 | bellingcat/umbra-open-data-tracker | partial | 2026-08-03T14:44:41Z | [open](../records/radars-bellingcat-umbra-open-data-tracker-b56dce91.md) |
 | bgin/RF-EMT | partial | 2026-09-05T16:20:08Z | [open](../records/radars-bgin-rf-emt-6d16aa00.md) |
@@ -1399,7 +1401,7 @@ Records: `1454`
 | bellingcat/sar-interference-tracker | partial | 2022-02-23T13:57:03Z | [open](../records/satcom-satellites-bellingcat-sar-interference-tracker-812a2aa7.md) |
 | cbassa/stvid | partial | 2026-06-14T12:26:58Z | [open](../records/satcom-satellites-cbassa-stvid-b0821bf9.md) |
 | CScorza/GEOINTInvestigation | partial | 2025-08-08T09:23:42Z | [open](../records/satcom-satellites-cscorza-geointinvestigation-97ccfead.md) |
-| dividebysandwich/sdroxide | partial | 2026-09-05T21:18:06Z | [open](../records/satcom-satellites-dividebysandwich-sdroxide-b0d1a434.md) |
+| dividebysandwich/sdroxide | partial | 2026-09-06T10:44:21Z | [open](../records/satcom-satellites-dividebysandwich-sdroxide-b0d1a434.md) |
 | JonaNorman/HDRSample | partial | 2024-08-01T09:01:08Z | [open](../records/satcom-satellites-jonanorman-hdrsample-b3b07c40.md) |
 | sabbir-uoulu/open-source-5g-ntn | partial | 2026-08-22T18:43:43Z | [open](../records/satcom-satellites-sabbir-uoulu-open-source-5g-ntn-bc3690cb.md) |
 | visionspacetec/sle-common | partial | 2025-06-30T08:34:49Z | [open](../records/satcom-satellites-visionspacetec-sle-common-b6f314a5.md) |
@@ -1434,7 +1436,7 @@ Records: `1454`
 | --- | --- | --- | --- |
 | abhiramAjay/Self-Healing-Repertoire-Engine | partial | 2026-02-05T07:43:18Z | [open](../records/repertoare-catalogs-abhiramajay-self-healing-repertoire-engine-afff2269.md) |
 | gastroph/Rock-Band-DLC---Leaderboards-App-for-Android | partial | 2010-04-16T20:13:37Z | [open](../records/repertoare-catalogs-gastroph-rock-band-dlc-leaderboards-app-for-android-35abaa1b.md) |
-| heylabs-co/dev-tools-portal | partial | 2026-09-05T20:19:18Z | [open](../records/repertoare-catalogs-heylabs-co-dev-tools-portal-7c271bc4.md) |
+| heylabs-co/dev-tools-portal | partial | 2026-09-06T10:25:38Z | [open](../records/repertoare-catalogs-heylabs-co-dev-tools-portal-7c271bc4.md) |
 | jasondentler/wild-catalog | partial | 2026-07-05T03:54:55Z | [open](../records/repertoare-catalogs-jasondentler-wild-catalog-f314f00b.md) |
 | punyamodi/catalog-quality-scorer | partial | 2026-03-01T21:50:40Z | [open](../records/repertoare-catalogs-punyamodi-catalog-quality-scorer-78773128.md) |
 | pythymcpyface/lichess-analyser | partial | 2025-12-03T15:58:08Z | [open](../records/repertoare-catalogs-pythymcpyface-lichess-analyser-18beb8d5.md) |

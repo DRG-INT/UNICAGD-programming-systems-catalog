@@ -1,6 +1,6 @@
 # Filesystem Os
 
-Records: `1584`
+Records: `1585`
 
 ## Navigation
 
@@ -10,21 +10,21 @@ Records: `1584`
 
 [Api Abi Checker (220)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
 [Benchmarking (198)](benchmarking.md) · [Build System (989)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (117)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
+[Community Reference (117)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (175)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (230)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (455)](ffi-bindings.md) · **[Filesystem Os (1584)](filesystem-os.md)** · [Formatter (645)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1454)](ide-editor-integration.md)
+[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (455)](ffi-bindings.md) · **[Filesystem Os (1585)](filesystem-os.md)** · [Formatter (646)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1456)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (269)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5636)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1433)](language-specification.md) · [Library (5638)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1138)](parser-lexer-ast.md) · [Precommit Ci Quality (303)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1183)](parser-lexer-ast.md) · [Precommit Ci Quality (303)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (605)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (606)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (552)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Undefined Behavior Analyzer (1608)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (552)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C++23
 
@@ -378,6 +378,7 @@ Records: `1584`
 | CopernicusDataspace | 0.0.5 | 2026-08-28 10:20:02 UTC | [open](../records/r-copernicusdataspace-edb589c1.md) |
 | cropwatMUL | 0.1.0 | 2026-08-24 14:30:02 UTC | [open](../records/r-cropwatmul-97b344f9.md) |
 | crossfit | 0.1.4 | 2026-08-27 13:10:02 UTC | [open](../records/r-crossfit-b4f4ed36.md) |
+| dapper | 1.1.1 | 2026-09-06 13:00:10 UTC | [open](../records/r-dapper-2d6945d3.md) |
 | deepspat | 0.3.2 | 2026-08-28 09:20:02 UTC | [open](../records/r-deepspat-8204921a.md) |
 | eClosure | 0.9.6 | 2026-08-26 12:20:13 UTC | [open](../records/r-eclosure-6c42b83a.md) |
 | EpiLossR | 0.1.0 | 2026-09-03 12:00:22 UTC | [open](../records/r-epilossr-e5cff04d.md) |
@@ -1412,7 +1413,7 @@ Records: `1584`
 | eduayme/RescueApp | partial | 2026-04-14T01:20:23Z | [open](../records/radars-eduayme-rescueapp-8a5fc109.md) |
 | Field-Robotics-Japan/UnitySensors | partial | 2026-05-05T06:03:19Z | [open](../records/radars-field-robotics-japan-unitysensors-5d4db334.md) |
 | geospace-code/georinex | partial | 2026-05-27T13:28:15Z | [open](../records/radars-geospace-code-georinex-2503e6c8.md) |
-| graphieros/vue-data-ui | partial | 2026-09-04T15:13:02Z | [open](../records/radars-graphieros-vue-data-ui-37b47478.md) |
+| graphieros/vue-data-ui | partial | 2026-09-06T08:14:16Z | [open](../records/radars-graphieros-vue-data-ui-37b47478.md) |
 | GREAT-WHU/GREAT-PVT | partial | 2026-08-12T08:49:30Z | [open](../records/radars-great-whu-great-pvt-c867732f.md) |
 | johntruckenbrodt/pyroSAR | partial | 2026-09-03T12:48:24Z | [open](../records/radars-johntruckenbrodt-pyrosar-83ed39f7.md) |
 | KonstantinosF/Flood-Detection---Satellite-Images | partial | 2022-09-26T11:23:18Z | [open](../records/radars-konstantinosf-flood-detection-satellite-images-a2d32a13.md) |
@@ -1453,7 +1454,7 @@ Records: `1584`
 | inigodelportillo/ITU-Rpy | partial | 2026-07-26T23:16:08Z | [open](../records/satcom-satellites-inigodelportillo-itu-rpy-e6621ca9.md) |
 | jgrss/geowombat | partial | 2026-09-05T12:25:41Z | [open](../records/satcom-satellites-jgrss-geowombat-9fded595.md) |
 | jopohl/urh | partial | 2025-12-19T14:25:58Z | [open](../records/satcom-satellites-jopohl-urh-a7932818.md) |
-| JuliaGeo/GDAL.jl | partial | 2026-06-26T11:25:43Z | [open](../records/satcom-satellites-juliageo-gdal-jl-613aca42.md) |
+| JuliaGeo/GDAL.jl | partial | 2026-09-06T03:32:03Z | [open](../records/satcom-satellites-juliageo-gdal-jl-613aca42.md) |
 | lukeswitz/DragonSync-iOS | partial | 2026-08-27T20:01:30Z | [open](../records/satcom-satellites-lukeswitz-dragonsync-ios-158c7b79.md) |
 | martinber/noaa-apt | partial | 2024-02-10T15:41:50Z | [open](../records/satcom-satellites-martinber-noaa-apt-d4c032f7.md) |
 | mhostetter/gr-adsb | partial | 2026-04-09T14:23:55Z | [open](../records/satcom-satellites-mhostetter-gr-adsb-0a37363b.md) |

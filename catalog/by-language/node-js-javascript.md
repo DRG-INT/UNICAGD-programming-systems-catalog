@@ -10,21 +10,21 @@ Records: `2408`
 
 [Api Abi Checker (220)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
 [Benchmarking (198)](../by-category/benchmarking.md) · [Build System (989)](../by-category/build-system.md) · [Cli (563)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (117)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (24)](../by-category/compiler-diagnostics.md) · [Compression (51)](../by-category/compression.md)
+[Community Reference (117)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (24)](../by-category/compiler-diagnostics.md) · [Compression (51)](../by-category/compression.md)
 [Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (130)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (175)](../by-category/cryptography.md) · [Data Science (38)](../by-category/data-science.md) · [Database Datastore (892)](../by-category/database-datastore.md) · [Datetime (230)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (102)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
-[Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (455)](../by-category/ffi-bindings.md) · [Filesystem Os (1584)](../by-category/filesystem-os.md) · [Formatter (645)](../by-category/formatter.md)
-[Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (355)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1454)](../by-category/ide-editor-integration.md)
+[Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (455)](../by-category/ffi-bindings.md) · [Filesystem Os (1585)](../by-category/filesystem-os.md) · [Formatter (646)](../by-category/formatter.md)
+[Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (355)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1456)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (269)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5636)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1433)](../by-category/language-specification.md) · [Library (5638)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (520)](../by-category/logging-observability.md) · [Machine Learning (788)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1035)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1138)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (303)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1183)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (303)](../by-category/precommit-ci-quality.md)
 [Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (15)](../by-category/sanitizer.md)
-[Security Sast (336)](../by-category/security-sast.md) · [Serialization (395)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (605)](../by-category/static-analyzer.md)
+[Security Sast (336)](../by-category/security-sast.md) · [Serialization (395)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (606)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (606)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1606)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (552)](../by-category/visualization-gui.md) · [Web Framework (476)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1608)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (552)](../by-category/visualization-gui.md) · [Web Framework (476)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -2279,8 +2279,8 @@ Records: `2408`
 | [@vizzly-testing/cli](../records/node-js-javascript-vizzly-testing-cli-e4348fc2.md) | 0.35.2 | 2026-06-20T16:47:57.212Z | registry-derived |
 | [@vue/cli-plugin-unit-jest](../records/node-js-javascript-vue-cli-plugin-unit-jest-00f301fd.md) | 5.0.9 | 2025-08-21T10:57:04.686Z | registry-derived |
 | [@vue/test-utils](../records/node-js-javascript-vue-test-utils-aa8d0a01.md) | 2.5.0 | 2026-08-27T13:56:57.235Z | registry-derived |
-| [@wdio/cucumber-framework](../records/node-js-javascript-wdio-cucumber-framework-3fd5daaf.md) | 9.31.5 | 2026-08-29T23:12:02.907Z | registry-derived |
-| [@wdio/mocha-framework](../records/node-js-javascript-wdio-mocha-framework-8a114d96.md) | 9.31.5 | 2026-08-29T23:12:02.813Z | registry-derived |
+| [@wdio/cucumber-framework](../records/node-js-javascript-wdio-cucumber-framework-3fd5daaf.md) | 9.31.6 | 2026-09-06T12:47:29.985Z | registry-derived |
+| [@wdio/mocha-framework](../records/node-js-javascript-wdio-mocha-framework-8a114d96.md) | 9.31.6 | 2026-09-06T12:47:30.494Z | registry-derived |
 | [@wdio/tauri-service](../records/node-js-javascript-wdio-tauri-service-cfa3308c.md) | 1.3.0 | 2026-08-03T21:32:40.658Z | registry-derived |
 | [@wdio/visual-service](../records/node-js-javascript-wdio-visual-service-0c53ea2f.md) | 10.1.0 | 2026-07-11T06:11:57.135Z | registry-derived |
 | [@wdio/xvfb](../records/node-js-javascript-wdio-xvfb-e9e46e8a.md) | 9.31.2 | 2026-08-21T01:44:54.191Z | registry-derived |
@@ -2581,7 +2581,7 @@ Records: `2408`
 | [@vue/cli-overlay](../records/node-js-javascript-vue-cli-overlay-760829af.md) | 5.0.9 | 2025-08-21T10:57:02.315Z | registry-derived |
 | [@vue/cli-plugin-router](../records/node-js-javascript-vue-cli-plugin-router-561b8d91.md) | 5.0.9 | 2025-08-21T10:57:04.121Z | registry-derived |
 | [@vue/server-renderer](../records/node-js-javascript-vue-server-renderer-b47ab9e0.md) | 3.5.42 | 2026-08-27T05:48:31.009Z | registry-derived |
-| [@wdio/appium-service](../records/node-js-javascript-wdio-appium-service-4e12b589.md) | 9.31.5 | 2026-08-29T23:13:09.081Z | registry-derived |
+| [@wdio/appium-service](../records/node-js-javascript-wdio-appium-service-4e12b589.md) | 9.31.6 | 2026-09-06T12:49:47.686Z | registry-derived |
 | [@web/dev-server](../records/node-js-javascript-web-dev-server-0c8adf21.md) | 1.0.0 | 2026-07-07T14:15:07.342Z | registry-derived |
 | [@web/dev-server-core](../records/node-js-javascript-web-dev-server-core-729504e6.md) | 1.0.1 | 2026-07-27T16:01:05.955Z | registry-derived |
 | [@web/dev-server-rollup](../records/node-js-javascript-web-dev-server-rollup-f584d070.md) | 1.0.0 | 2026-07-07T14:15:07.390Z | registry-derived |
