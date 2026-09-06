@@ -326,7 +326,7 @@ Records: `368`
 | [LiveContainer/LiveContainer](../records/swift-livecontainer-livecontainer-df088e07.md) | partial | 2026-09-06T09:06:53Z | registry-derived |
 | [lwouis/alt-tab-macos](../records/swift-lwouis-alt-tab-macos-ffbd7980.md) | partial | 2026-09-05T19:27:11Z | registry-derived |
 | [mac-cain13/R.swift](../records/swift-mac-cain13-r-swift-576f6e69.md) | partial | 2025-04-01T13:18:36Z | registry-derived |
-| [manaflow-ai/cmux](../records/swift-manaflow-ai-cmux-97abd3fc.md) | partial | 2026-09-06T22:20:30Z | registry-derived |
+| [manaflow-ai/cmux](../records/swift-manaflow-ai-cmux-97abd3fc.md) | partial | 2026-09-06T23:16:18Z | registry-derived |
 | [mas-cli/mas](../records/swift-mas-cli-mas-eeeb85cb.md) | partial | 2026-08-31T13:20:08Z | registry-derived |
 | [maxgoedjen/secretive](../records/swift-maxgoedjen-secretive-c206b7a6.md) | partial | 2026-08-19T08:42:13Z | registry-derived |
 | [MengTo/Spring](../records/swift-mengto-spring-21bd886d.md) | partial | 2023-07-03T14:28:34Z | registry-derived |
@@ -384,7 +384,7 @@ Records: `368`
 | [utmapp/UTM](../records/swift-utmapp-utm-cd8eae5c.md) | partial | 2026-09-02T05:14:37Z | registry-derived |
 | [vapor/vapor](../records/swift-vapor-vapor-45f6fc70.md) | partial | 2026-09-05T08:24:43Z | registry-derived |
 | [vim-polyglot](../records/swift-vim-polyglot-4e647549.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
-| [vorssaint/vorssaint-utils](../records/swift-vorssaint-vorssaint-utils-c1ec15fd.md) | partial | 2026-09-06T21:35:55Z | registry-derived |
+| [vorssaint/vorssaint-utils](../records/swift-vorssaint-vorssaint-utils-c1ec15fd.md) | partial | 2026-09-06T22:59:23Z | registry-derived |
 | [vorssaintapp/vorssaint-utils](../records/swift-vorssaintapp-vorssaint-utils-6c9bd080.md) | partial | 2026-09-04T12:32:18Z | registry-derived |
 | [vsouza/awesome-ios](../records/swift-vsouza-awesome-ios-2f790b50.md) | partial | 2026-08-27T19:34:29Z | registry-derived |
 | [Whisky-App/Whisky](../records/swift-whisky-app-whisky-01ab3144.md) | partial | 2025-05-11T17:50:04Z | registry-derived |

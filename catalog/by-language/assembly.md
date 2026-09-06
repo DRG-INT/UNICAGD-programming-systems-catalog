@@ -289,7 +289,7 @@ Records: `308`
 | [nornagon/jonesforth](../records/assembly-nornagon-jonesforth-691f782b.md) | partial | 2023-04-04T16:56:38Z | registry-derived |
 | [obdev/v-usb](../records/assembly-obdev-v-usb-977cf25b.md) | partial | 2026-08-26T14:47:54Z | registry-derived |
 | [openhwgroup/core-v-verif](../records/assembly-openhwgroup-core-v-verif-9b6682d3.md) | partial | 2026-08-13T11:46:24Z | registry-derived |
-| [openhwgroup/cva6](../records/assembly-openhwgroup-cva6-c0f79b44.md) | partial | 2026-09-06T22:13:50Z | registry-derived |
+| [openhwgroup/cva6](../records/assembly-openhwgroup-cva6-c0f79b44.md) | partial | 2026-09-06T23:13:11Z | registry-derived |
 | [oriansj/stage0](../records/assembly-oriansj-stage0-6791bc52.md) | partial | 2026-06-17T03:03:21Z | registry-derived |
 | [Overv/MineAssemble](../records/assembly-overv-mineassemble-4e2e626b.md) | partial | 2023-09-11T09:31:31Z | registry-derived |
 | [PDP-10/its](../records/assembly-pdp-10-its-cfa6e89a.md) | partial | 2026-08-19T16:37:56Z | registry-derived |

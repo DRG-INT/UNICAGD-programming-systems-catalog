@@ -40,7 +40,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT; https://www.nuget.org/packages/JsonSubTypes/2.1.0/license |
+| Evidence | {"key": "", "name": "", "url": ""}; MIT; https://www.nuget.org/packages/JsonSubTypes/2.1.0/license |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

@@ -361,7 +361,7 @@ Records: `220`
 | --- | --- | --- | --- |
 | davidfowl/TodoApp | partial | 2026-02-12T09:29:50Z | [open](../records/webassembly-davidfowl-todoapp-08cec4e6.md) |
 | jedisct1/as-wasi | partial | 2025-12-27T10:52:19Z | [open](../records/webassembly-jedisct1-as-wasi-66cbe36b.md) |
-| pion/webrtc | partial | 2026-09-04T18:39:28Z | [open](../records/webassembly-pion-webrtc-128d6b83.md) |
+| pion/webrtc | partial | 2026-09-06T21:58:29Z | [open](../records/webassembly-pion-webrtc-128d6b83.md) |
 
 ## SAPJava
 

@@ -1586,7 +1586,7 @@ Records: `1462`
 | mitchellh/libxev | partial | 2026-07-17T05:22:40Z | [open](../records/webassembly-mitchellh-libxev-2da389e7.md) |
 | pion/webrtc | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-pion-webrtc-a1beffe0.md) |
 | pyodide/pyodide | partial | 2026-09-02T08:35:23Z | [open](../records/webassembly-pyodide-pyodide-d60e944c.md) |
-| raysan5/raylib | partial | 2026-09-05T19:22:28Z | [open](../records/webassembly-raysan5-raylib-e4097ab4.md) |
+| raysan5/raylib | partial | 2026-09-06T22:17:52Z | [open](../records/webassembly-raysan5-raylib-e4097ab4.md) |
 | rhysd/vim.wasm | partial | 2026-02-25T16:49:20Z | [open](../records/webassembly-rhysd-vim-wasm-f16b1e8a.md) |
 
 ## SAPJava
@@ -1665,7 +1665,7 @@ Records: `1462`
 | jonkykong/SideMenu | partial | 2023-02-09T09:07:10Z | [open](../records/cocoa-jonkykong-sidemenu-c7e6f352.md) |
 | MacDownApp/macdown | partial | 2023-07-10T22:19:38Z | [open](../records/cocoa-macdownapp-macdown-7b8db2fc.md) |
 | qvacua/vimr | partial | 2026-08-28T15:36:51Z | [open](../records/cocoa-qvacua-vimr-71377ce6.md) |
-| ravynsoft/ravynos | partial | 2026-09-05T22:43:44Z | [open](../records/cocoa-ravynsoft-ravynos-5f25f2d3.md) |
+| ravynsoft/ravynos | partial | 2026-09-06T21:02:41Z | [open](../records/cocoa-ravynsoft-ravynos-5f25f2d3.md) |
 | revblaze/SimpleSidebar | partial | 2025-02-20T14:22:55Z | [open](../records/cocoa-revblaze-simplesidebar-9e33e769.md) |
 | Sentry | 8.58.4 | 2026-07-14 16:24:57 UTC | [open](../records/cocoa-sentry-5755fd31.md) |
 | SwiftyOAuth | v0.3 | 2016-05-26T16:17:39Z | [open](../records/cocoa-swiftyoauth-e67a0934.md) |

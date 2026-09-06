@@ -414,7 +414,7 @@ Records: `273`
 | boa-dev/boa | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-boa-dev-boa-f27788a8.md) |
 | bytecodealliance/StarlingMonkey | partial | 2026-07-20T14:59:48Z | [open](../records/webassembly-bytecodealliance-starlingmonkey-d2a5789c.md) |
 | bytecodealliance/wasmtime-go | partial | 2026-08-20T19:30:30Z | [open](../records/webassembly-bytecodealliance-wasmtime-go-59c92af6.md) |
-| capstone-engine/capstone | partial | 2026-09-04T13:11:41Z | [open](../records/webassembly-capstone-engine-capstone-6ab35549.md) |
+| capstone-engine/capstone | partial | 2026-09-06T19:58:09Z | [open](../records/webassembly-capstone-engine-capstone-6ab35549.md) |
 | CharlieTap/chasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-charlietap-chasm-199c3c2f.md) |
 | chevdor/subwasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-chevdor-subwasm-777bc49e.md) |
 | faasm/faasm | partial | 2025-12-23T17:03:48Z | [open](../records/webassembly-faasm-faasm-25e74d15.md) |
@@ -440,7 +440,7 @@ Records: `273`
 | wasm-micro-runtime/wasm-micro-runtime | partial | 2026-09-04T08:41:06Z | [open](../records/webassembly-wasm-micro-runtime-wasm-micro-runtime-0baaf623.md) |
 | wasm3 - The fastest WebAssembly interpreter (x86, x64, ARM, MIPS, Xtensa) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wasm3-the-fastest-webassembly-interpreter-x86-x64-arm-mips-xtensa-05225f2f.md) |
 | wasm3/wasm3 | partial | 2026-09-05T21:17:35Z | [open](../records/webassembly-wasm3-wasm3-d6e345d2.md) |
-| WasmEdge/WasmEdge | partial | 2026-09-06T12:59:54Z | [open](../records/webassembly-wasmedge-wasmedge-e72c64d1.md) |
+| WasmEdge/WasmEdge | partial | 2026-09-06T22:37:46Z | [open](../records/webassembly-wasmedge-wasmedge-e72c64d1.md) |
 | Wasmer - Standalone JIT WebAssembly Runtime | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wasmer-standalone-jit-webassembly-runtime-c5c74d5d.md) |
 | wasmi-labs/wasmi | partial | 2026-09-01T11:50:21Z | [open](../records/webassembly-wasmi-labs-wasmi-2de8afe8.md) |
 | wazero/wazero | partial | 2026-09-04T18:42:18Z | [open](../records/webassembly-wazero-wazero-e01a87a9.md) |

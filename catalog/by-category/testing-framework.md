@@ -835,7 +835,7 @@ Records: `607`
 | invertase/react-native-firebase | partial | 2026-09-05T04:37:17Z | [open](../records/databases-invertase-react-native-firebase-bdf40bbb.md) |
 | long2ice/asyncmy | partial | 2026-08-16T04:11:12Z | [open](../records/databases-long2ice-asyncmy-537bc784.md) |
 | marsupilami79/zeoslib | partial | 2026-09-01T05:51:54Z | [open](../records/databases-marsupilami79-zeoslib-f93693d1.md) |
-| netdata/netdata | partial | 2026-09-06T17:25:26Z | [open](../records/databases-netdata-netdata-c3fa5bcb.md) |
+| netdata/netdata | partial | 2026-09-06T20:25:12Z | [open](../records/databases-netdata-netdata-c3fa5bcb.md) |
 | weavejester/ragtime | partial | 2025-09-23T14:39:42Z | [open](../records/databases-weavejester-ragtime-b149a386.md) |
 
 ## Repository Workplaces
