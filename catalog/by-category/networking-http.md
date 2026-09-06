@@ -17,7 +17,7 @@ Records: `1035`
 [Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (454)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (645)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1454)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (268)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5630)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5632)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1035)](networking-http.md)**
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1137)](parser-lexer-ast.md) · [Precommit Ci Quality (302)](precommit-ci-quality.md)
@@ -1102,7 +1102,7 @@ Records: `1035`
 | --- | --- | --- | --- |
 | ashvardanian/less_slow.cpp | partial | 2026-07-27T01:01:01Z | [open](../records/assembly-ashvardanian-less-slow-cpp-50768d6c.md) |
 | minio/highwayhash | partial | 2026-03-21T05:38:40Z | [open](../records/assembly-minio-highwayhash-5634a2cc.md) |
-| nyxos-dev/nyx-os | partial | 2026-09-06T03:08:31Z | [open](../records/assembly-nyxos-dev-nyx-os-a701d2ff.md) |
+| nyxos-dev/nyx-os | partial | 2026-09-06T05:52:15Z | [open](../records/assembly-nyxos-dev-nyx-os-a701d2ff.md) |
 | OpenMachine-ai/tinyfive | partial | 2023-11-01T23:04:08Z | [open](../records/assembly-openmachine-ai-tinyfive-d7147317.md) |
 | OWASP/ZSC | partial | 2024-03-14T22:19:20Z | [open](../records/assembly-owasp-zsc-566fd5f9.md) |
 

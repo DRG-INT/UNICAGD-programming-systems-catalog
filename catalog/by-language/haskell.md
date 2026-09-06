@@ -1,6 +1,6 @@
 # Haskell
 
-Records: `1447`
+Records: `1449`
 
 ## Navigation
 
@@ -17,7 +17,7 @@ Records: `1447`
 [Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (454)](../by-category/ffi-bindings.md) · [Filesystem Os (1584)](../by-category/filesystem-os.md) · [Formatter (645)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (355)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1454)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (268)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5630)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5632)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (520)](../by-category/logging-observability.md) · [Machine Learning (788)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1035)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1137)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (302)](../by-category/precommit-ci-quality.md)
@@ -667,6 +667,8 @@ Records: `1447`
 | [functor-combinators](../records/haskell-functor-combinators-0539c05e.md) | 0.4.1.4 | 2025-06-13T06:02:19Z | registry-derived |
 | [fused-effects](../records/haskell-fused-effects-1cdf0c33.md) | 1.1.2.7 | 2026-05-05T20:17:55Z | registry-derived |
 | [futhark](../records/haskell-futhark-b843b095.md) | 0.27.1 | 2026-08-19T12:15:41Z | registry-derived |
+| [fuyu-gpio](../records/haskell-fuyu-gpio-5e0b1b37.md) | 0.1.0.0 | 2026-09-06T06:18:19Z | registry-derived |
+| [fuyu-gpio-direct](../records/haskell-fuyu-gpio-direct-75719919.md) | 0.2.0.0 | 2026-09-06T06:01:30Z | registry-derived |
 | [generic-aeson](../records/haskell-generic-aeson-ecb2846d.md) | 0.2.0.14 | 2022-06-17T12:06:41Z | registry-derived |
 | [generic-data](../records/haskell-generic-data-3eb743c0.md) | 1.1.0.2 | 2024-12-07T07:44:47Z | registry-derived |
 | [generic-deriving](../records/haskell-generic-deriving-9f19a84e.md) | 1.14.7 | 2026-01-03T15:19:52Z | registry-derived |

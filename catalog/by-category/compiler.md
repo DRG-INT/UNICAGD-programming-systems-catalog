@@ -17,7 +17,7 @@ Records: `175`
 [Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (454)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (645)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1454)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (268)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5630)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5632)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1137)](parser-lexer-ast.md) · [Precommit Ci Quality (302)](precommit-ci-quality.md)
@@ -302,7 +302,7 @@ Records: `175`
 | BuildGrid/recc | partial | 2024-11-19T23:12:30.966Z | [open](../records/repository-workplaces-buildgrid-recc-21c7a89e.md) |
 | cznic/cc | partial | 2026-09-04T12:55:23.602Z | [open](../records/repository-workplaces-cznic-cc-89e992e6.md) |
 | dfffffff/gcc6809 | partial | 2019-11-29T14:34:33.015Z | [open](../records/repository-workplaces-dfffffff-gcc6809-15bef404.md) |
-| freepascal.org/fpc/source | partial | 2026-09-06T04:23:15.961Z | [open](../records/repository-workplaces-freepascal-org-fpc-source-0fc2714e.md) |
+| freepascal.org/fpc/source | partial | 2026-09-06T05:26:09.234Z | [open](../records/repository-workplaces-freepascal-org-fpc-source-0fc2714e.md) |
 | Gitea: 6lin/sbcl | partial | 2022-09-16T23:40:41Z | [open](../records/repository-workplaces-gitea-6lin-sbcl-f57192a2.md) |
 | Gitea: catdog100/zlcompiler | partial | 2025-01-10T08:36:43Z | [open](../records/repository-workplaces-gitea-catdog100-zlcompiler-cde7bc6e.md) |
 | Gitea: EnderIce2/Fennix | partial | 2025-04-14T01:21:22Z | [open](../records/repository-workplaces-gitea-enderice2-fennix-a295c30d.md) |

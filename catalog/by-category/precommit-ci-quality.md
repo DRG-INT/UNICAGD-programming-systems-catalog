@@ -17,7 +17,7 @@ Records: `302`
 [Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (454)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (645)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1454)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (268)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5630)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5632)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1137)](parser-lexer-ast.md) · **[Precommit Ci Quality (302)](precommit-ci-quality.md)**
@@ -187,7 +187,7 @@ Records: `302`
 | hBayesDM | 2.0.0 | 2026-09-01 12:30:12 UTC | [open](../records/r-hbayesdm-6b8d4019.md) |
 | implicitMeasures | 1.0.0 | 2026-08-21 08:20:08 UTC | [open](../records/r-implicitmeasures-021e6566.md) |
 | insurancerating | 0.8.2 | 2026-09-01 11:50:02 UTC | [open](../records/r-insurancerating-fcf34652.md) |
-| inti | 0.7.3 | 2026-08-20 10:20:02 UTC | [open](../records/r-inti-d99c2491.md) |
+| inti | 0.7.4 | 2026-09-06 05:20:02 UTC | [open](../records/r-inti-d99c2491.md) |
 | jointNmix | 1.0-1 | 2026-08-20 04:20:02 UTC | [open](../records/r-jointnmix-5a8caaea.md) |
 | LUCIDus | 3.2.1 | 2026-09-02 17:10:14 UTC | [open](../records/r-lucidus-62988eed.md) |
 | MDPtoolbox | 4.0.4 | 2026-08-31 18:40:20 UTC | [open](../records/r-mdptoolbox-919f1f57.md) |

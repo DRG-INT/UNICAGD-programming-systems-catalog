@@ -17,7 +17,7 @@ Records: `287`
 [Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (454)](../by-category/ffi-bindings.md) · [Filesystem Os (1584)](../by-category/filesystem-os.md) · [Formatter (645)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (355)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1454)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (268)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5630)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5632)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (520)](../by-category/logging-observability.md) · [Machine Learning (788)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1035)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1137)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (302)](../by-category/precommit-ci-quality.md)
@@ -246,7 +246,7 @@ Records: `287`
 | [rpng/kalibr_allan](../records/matlab-rpng-kalibr-allan-f0b0c05c.md) | partial | 2020-06-21T16:54:04Z | registry-derived |
 | [sccn/eeglab](../records/matlab-sccn-eeglab-a9eb4cad.md) | partial | 2026-07-22T15:49:49Z | registry-derived |
 | [schneems/Octave](../records/matlab-schneems-octave-ad3f7bee.md) | partial | 2021-07-02T19:34:38Z | registry-derived |
-| [SciML/SciMLBenchmarks.jl](../records/matlab-sciml-scimlbenchmarks-jl-e7766b64.md) | partial | 2026-09-05T10:48:56Z | registry-derived |
+| [SciML/SciMLBenchmarks.jl](../records/matlab-sciml-scimlbenchmarks-jl-e7766b64.md) | partial | 2026-09-06T05:59:50Z | registry-derived |
 | [scottclowe/matlab-schemer](../records/matlab-scottclowe-matlab-schemer-3f456174.md) | partial | 2023-12-13T03:58:36Z | registry-derived |
 | [scruel/Notes-ML-AndrewNg](../records/matlab-scruel-notes-ml-andrewng-797cd94e.md) | partial | 2024-03-18T09:18:48Z | registry-derived |
 | [shahroudy/NTURGB-D](../records/matlab-shahroudy-nturgb-d-b9d8f894.md) | partial | 2022-02-18T07:49:02Z | registry-derived |

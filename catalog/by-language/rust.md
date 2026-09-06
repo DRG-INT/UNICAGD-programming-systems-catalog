@@ -17,7 +17,7 @@ Records: `2183`
 [Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (454)](../by-category/ffi-bindings.md) · [Filesystem Os (1584)](../by-category/filesystem-os.md) · [Formatter (645)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (355)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1454)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (268)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5630)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5632)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (520)](../by-category/logging-observability.md) · [Machine Learning (788)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1035)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1137)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (302)](../by-category/precommit-ci-quality.md)
@@ -1234,7 +1234,7 @@ Records: `2183`
 | [half](../records/rust-half-8a4ba9d2.md) | 2.7.1 | 2025-10-14T03:59:26.575229Z | registry-derived |
 | [icu_locale_core](../records/rust-icu-locale-core-8a028c0f.md) | 2.3.0 | 2026-08-13T23:28:12.641726Z | registry-derived |
 | [inotify-sys](../records/rust-inotify-sys-390288d4.md) | 0.1.8 | 2026-07-07T14:33:29.124505Z | registry-derived |
-| [ipnet](../records/rust-ipnet-d1bb1c57.md) | 2.12.1 | 2026-08-02T03:20:08.056738Z | registry-derived |
+| [ipnet](../records/rust-ipnet-d1bb1c57.md) | 2.12.2 | 2026-09-06T05:45:08.121491Z | registry-derived |
 | [jsonrpc-core](../records/rust-jsonrpc-core-182bd32f.md) | 18.0.0 | 2021-07-20T15:53:06.950767Z | crates_io |
 | [language-tags](../records/rust-language-tags-ee654c5f.md) | 0.3.2 | 2021-05-24T17:56:55.679036Z | registry-derived |
 | [litrs](../records/rust-litrs-3cd72855.md) | 1.0.0 | 2025-10-20T10:00:07.760737Z | registry-derived |

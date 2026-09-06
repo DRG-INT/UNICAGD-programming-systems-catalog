@@ -17,7 +17,7 @@ Records: `2408`
 [Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (454)](../by-category/ffi-bindings.md) · [Filesystem Os (1584)](../by-category/filesystem-os.md) · [Formatter (645)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (355)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1454)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (268)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5630)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5632)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (520)](../by-category/logging-observability.md) · [Machine Learning (788)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1035)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1137)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (302)](../by-category/precommit-ci-quality.md)
@@ -2248,7 +2248,7 @@ Records: `2408`
 | [@smthrs/testing](../records/node-js-javascript-smthrs-testing-35159f03.md) | 0.35.0 | 2026-08-17T20:35:48.555Z | registry-derived |
 | [@solidjs/testing-library](../records/node-js-javascript-solidjs-testing-library-4973b45e.md) | 0.8.10 | 2024-09-25T13:24:08.486Z | registry-derived |
 | [@stacksjs/testing](../records/node-js-javascript-stacksjs-testing-57469937.md) | 0.74.27 | 2026-09-06T04:27:40.638Z | registry-derived |
-| [@storm-software/testing-tools](../records/node-js-javascript-storm-software-testing-tools-3111101a.md) | 1.119.286 | 2026-08-22T05:47:53.244Z | registry-derived |
+| [@storm-software/testing-tools](../records/node-js-javascript-storm-software-testing-tools-3111101a.md) | 1.119.287 | 2026-09-06T05:19:32.185Z | registry-derived |
 | [@storybook/addon-vitest](../records/node-js-javascript-storybook-addon-vitest-61ff1281.md) | 10.6.0 | 2026-09-02T13:59:28.767Z | registry-derived |
 | [@storybook/cli](../records/node-js-javascript-storybook-cli-04f8ce22.md) | 10.6.0 | 2026-09-02T14:01:45.695Z | registry-derived |
 | [@storybook/server](../records/node-js-javascript-storybook-server-d1f8c89a.md) | 10.6.0 | 2026-09-02T13:56:30.179Z | registry-derived |

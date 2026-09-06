@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-06T05:19:48+00:00`
+Generated: `2026-09-06T06:25:58+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -15,7 +15,7 @@ Generated: `2026-09-06T05:19:48+00:00`
 [Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (454)](by-category/ffi-bindings.md) · [Filesystem Os (1584)](by-category/filesystem-os.md) · [Formatter (645)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (355)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1454)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (268)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (29)](by-category/language-server.md) · [Language Specification (1432)](by-category/language-specification.md) · [Library (5630)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (29)](by-category/language-server.md) · [Language Specification (1432)](by-category/language-specification.md) · [Library (5632)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (520)](by-category/logging-observability.md) · [Machine Learning (788)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1035)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1137)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (302)](by-category/precommit-ci-quality.md)
@@ -28,19 +28,24 @@ Generated: `2026-09-06T05:19:48+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10140 |
+| Known stable release | 10142 |
 | Unknown stable release | 17144 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| fuyu-gpio | Haskell | Library | 0.1.0.0 | 2026-09-06T06:18:19Z | [open](records/haskell-fuyu-gpio-5e0b1b37.md) |
+| fuyu-gpio-direct | Haskell | Library | 0.2.0.0 | 2026-09-06T06:01:30Z | [open](records/haskell-fuyu-gpio-direct-75719919.md) |
+| ipnet | Rust | Language Specification | 2.12.2 | 2026-09-06T05:45:08.121491Z | [open](records/rust-ipnet-d1bb1c57.md) |
+| @storm-software/testing-tools | Node.js/JavaScript | Testing Framework | 1.119.287 | 2026-09-06T05:19:32.185Z | [open](records/node-js-javascript-storm-software-testing-tools-3111101a.md) |
 | @stacksjs/testing | Node.js/JavaScript | Testing Framework | 0.74.27 | 2026-09-06T04:27:40.638Z | [open](records/node-js-javascript-stacksjs-testing-57469937.md) |
 | @stacksjs/database | Node.js/JavaScript | Database Datastore | 0.74.27 | 2026-09-06T04:27:25.324Z | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
 | @stacksjs/http | Node.js/JavaScript | Networking Http | 0.74.27 | 2026-09-06T04:21:45.594Z | [open](records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
 | zstd | Haskell | Compression | 0.1.4.0 | 2026-09-06T03:09:59Z | [open](records/haskell-zstd-01fb5311.md) |
 | crypton | Haskell | Cryptography | 1.1.5 | 2026-09-06T02:20:25Z | [open](records/haskell-crypton-7cba2161.md) |
 | pin_input_text_field | Dart | Dependency Manager | 4.5.3 | 2026-09-06T02:13:00.125941Z | [open](records/dart-pin-input-text-field-b2436d80.md) |
+| inti | R | Precommit Ci Quality | 0.7.4 | 2026-09-06 05:20:02 UTC | [open](records/r-inti-d99c2491.md) |
 | npi | R | Package Manager | 0.3.1 | 2026-09-06 04:00:02 UTC | [open](records/r-npi-e0e894ec.md) |
 | betaselectr | R | Library | 0.2.4 | 2026-09-06 02:20:02 UTC | [open](records/r-betaselectr-7331a032.md) |
 | jsonschema | Rust | Serialization | 0.54.0 | 2026-09-05T23:35:59.858944Z | [open](records/rust-jsonschema-64fecdca.md) |
@@ -280,11 +285,6 @@ Generated: `2026-09-06T05:19:48+00:00`
 | TrialSimulator | R | Cli | 1.35.8 | 2026-09-04 17:00:02 UTC | [open](records/r-trialsimulator-683f48f5.md) |
 | PBD | R | Library | 1.6 | 2026-09-04 16:40:02 UTC | [open](records/r-pbd-b73000ed.md) |
 | cardinalfda | R | Library | 0.3.0 | 2026-09-04 16:30:08 UTC | [open](records/r-cardinalfda-cb361987.md) |
-| fz | R | Interop Bindings | 1.2.0 | 2026-09-04 16:30:02 UTC | [open](records/r-fz-65db3363.md) |
-| MachineShop | R | Machine Learning | 3.9.4 | 2026-09-04 15:50:19 UTC | [open](records/r-machineshop-e8653c20.md) |
-| MergeKmeans | R | Library | 0.3.0 | 2026-09-04 15:50:13 UTC | [open](records/r-mergekmeans-03d98fb5.md) |
-| fdm2id | R | Library | 1.0.1 | 2026-09-04 15:50:02 UTC | [open](records/r-fdm2id-96c427f1.md) |
-| msprog | R | Filesystem Os | 1.0.1 | 2026-09-04 15:40:02 UTC | [open](records/r-msprog-76c7293c.md) |
 
 ## Unknown Reasons
 

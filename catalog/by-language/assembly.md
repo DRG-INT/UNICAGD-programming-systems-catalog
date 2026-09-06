@@ -17,7 +17,7 @@ Records: `308`
 [Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (454)](../by-category/ffi-bindings.md) · [Filesystem Os (1584)](../by-category/filesystem-os.md) · [Formatter (645)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (355)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1454)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (268)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5630)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5632)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (520)](../by-category/logging-observability.md) · [Machine Learning (788)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1035)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1137)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (302)](../by-category/precommit-ci-quality.md)
@@ -379,7 +379,7 @@ Records: `308`
 | [takenobu-hs/cpu-assembly-examples](../records/assembly-takenobu-hs-cpu-assembly-examples-b5867112.md) | partial | 2024-05-19T06:55:01Z | registry-derived |
 | [Thraetaona/EXACT](../records/assembly-thraetaona-exact-bb36746a.md) | partial | 2024-06-13T18:59:42Z | registry-derived |
 | [vonsim/vonsim](../records/assembly-vonsim-vonsim-6a8ef78f.md) | partial | 2026-05-29T02:08:00Z | registry-derived |
-| [vvaltchev/tilck](../records/assembly-vvaltchev-tilck-455a611e.md) | partial | 2026-09-06T04:12:18Z | registry-derived |
+| [vvaltchev/tilck](../records/assembly-vvaltchev-tilck-455a611e.md) | partial | 2026-09-06T06:00:19Z | registry-derived |
 | [xtnded/codextended](../records/assembly-xtnded-codextended-97cbc636.md) | partial | 2026-05-07T10:43:51Z | registry-derived |
 | [yds12/x64-roadmap](../records/assembly-yds12-x64-roadmap-3b9663e2.md) | partial | 2020-07-16T15:54:20Z | registry-derived |
 | [yrp604/rappel](../records/assembly-yrp604-rappel-4bf787bb.md) | partial | 2024-03-07T04:45:15Z | registry-derived |
@@ -418,7 +418,7 @@ Records: `308`
 | --- | --- | --- | --- |
 | [ashvardanian/less_slow.cpp](../records/assembly-ashvardanian-less-slow-cpp-50768d6c.md) | partial | 2026-07-27T01:01:01Z | registry-derived |
 | [minio/highwayhash](../records/assembly-minio-highwayhash-5634a2cc.md) | partial | 2026-03-21T05:38:40Z | registry-derived |
-| [nyxos-dev/nyx-os](../records/assembly-nyxos-dev-nyx-os-a701d2ff.md) | partial | 2026-09-06T03:08:31Z | registry-derived |
+| [nyxos-dev/nyx-os](../records/assembly-nyxos-dev-nyx-os-a701d2ff.md) | partial | 2026-09-06T05:52:15Z | registry-derived |
 | [OpenMachine-ai/tinyfive](../records/assembly-openmachine-ai-tinyfive-d7147317.md) | partial | 2023-11-01T23:04:08Z | registry-derived |
 | [OWASP/ZSC](../records/assembly-owasp-zsc-566fd5f9.md) | partial | 2024-03-14T22:19:20Z | registry-derived |
 

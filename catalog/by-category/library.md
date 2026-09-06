@@ -1,6 +1,6 @@
 # Library
 
-Records: `5630`
+Records: `5632`
 
 ## Navigation
 
@@ -17,7 +17,7 @@ Records: `5630`
 [Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (454)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (645)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1454)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (268)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · **[Library (5630)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · **[Library (5632)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1137)](parser-lexer-ast.md) · [Precommit Ci Quality (302)](precommit-ci-quality.md)
@@ -3336,6 +3336,8 @@ Records: `5630`
 | functor-combinators | 0.4.1.4 | 2025-06-13T06:02:19Z | [open](../records/haskell-functor-combinators-0539c05e.md) |
 | fused-effects | 1.1.2.7 | 2026-05-05T20:17:55Z | [open](../records/haskell-fused-effects-1cdf0c33.md) |
 | futhark | 0.27.1 | 2026-08-19T12:15:41Z | [open](../records/haskell-futhark-b843b095.md) |
+| fuyu-gpio | 0.1.0.0 | 2026-09-06T06:18:19Z | [open](../records/haskell-fuyu-gpio-5e0b1b37.md) |
+| fuyu-gpio-direct | 0.2.0.0 | 2026-09-06T06:01:30Z | [open](../records/haskell-fuyu-gpio-direct-75719919.md) |
 | generic-aeson | 0.2.0.14 | 2022-06-17T12:06:41Z | [open](../records/haskell-generic-aeson-ecb2846d.md) |
 | generic-data | 1.1.0.2 | 2024-12-07T07:44:47Z | [open](../records/haskell-generic-data-3eb743c0.md) |
 | generic-deriving | 1.14.7 | 2026-01-03T15:19:52Z | [open](../records/haskell-generic-deriving-9f19a84e.md) |
@@ -5468,7 +5470,7 @@ Records: `5630`
 | takenobu-hs/cpu-assembly-examples | partial | 2024-05-19T06:55:01Z | [open](../records/assembly-takenobu-hs-cpu-assembly-examples-b5867112.md) |
 | Thraetaona/EXACT | partial | 2024-06-13T18:59:42Z | [open](../records/assembly-thraetaona-exact-bb36746a.md) |
 | vonsim/vonsim | partial | 2026-05-29T02:08:00Z | [open](../records/assembly-vonsim-vonsim-6a8ef78f.md) |
-| vvaltchev/tilck | partial | 2026-09-06T04:12:18Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
+| vvaltchev/tilck | partial | 2026-09-06T06:00:19Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
 | xtnded/codextended | partial | 2026-05-07T10:43:51Z | [open](../records/assembly-xtnded-codextended-97cbc636.md) |
 | yds12/x64-roadmap | partial | 2020-07-16T15:54:20Z | [open](../records/assembly-yds12-x64-roadmap-3b9663e2.md) |
 | yrp604/rappel | partial | 2024-03-07T04:45:15Z | [open](../records/assembly-yrp604-rappel-4bf787bb.md) |

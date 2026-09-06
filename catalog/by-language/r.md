@@ -17,7 +17,7 @@ Records: `1678`
 [Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (454)](../by-category/ffi-bindings.md) · [Filesystem Os (1584)](../by-category/filesystem-os.md) · [Formatter (645)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (355)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1454)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (268)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5630)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5632)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (520)](../by-category/logging-observability.md) · [Machine Learning (788)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1035)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1137)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (302)](../by-category/precommit-ci-quality.md)
@@ -1478,7 +1478,7 @@ Records: `1678`
 | [hBayesDM](../records/r-hbayesdm-6b8d4019.md) | 2.0.0 | 2026-09-01 12:30:12 UTC | registry-derived |
 | [implicitMeasures](../records/r-implicitmeasures-021e6566.md) | 1.0.0 | 2026-08-21 08:20:08 UTC | registry-derived |
 | [insurancerating](../records/r-insurancerating-fcf34652.md) | 0.8.2 | 2026-09-01 11:50:02 UTC | registry-derived |
-| [inti](../records/r-inti-d99c2491.md) | 0.7.3 | 2026-08-20 10:20:02 UTC | registry-derived |
+| [inti](../records/r-inti-d99c2491.md) | 0.7.4 | 2026-09-06 05:20:02 UTC | registry-derived |
 | [jointNmix](../records/r-jointnmix-5a8caaea.md) | 1.0-1 | 2026-08-20 04:20:02 UTC | registry-derived |
 | [LUCIDus](../records/r-lucidus-62988eed.md) | 3.2.1 | 2026-09-02 17:10:14 UTC | registry-derived |
 | [MDPtoolbox](../records/r-mdptoolbox-919f1f57.md) | 4.0.4 | 2026-08-31 18:40:20 UTC | registry-derived |

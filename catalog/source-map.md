@@ -13,7 +13,7 @@
 [Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (454)](by-category/ffi-bindings.md) · [Filesystem Os (1584)](by-category/filesystem-os.md) · [Formatter (645)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (355)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1454)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (268)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (29)](by-category/language-server.md) · [Language Specification (1432)](by-category/language-specification.md) · [Library (5630)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (29)](by-category/language-server.md) · [Language Specification (1432)](by-category/language-specification.md) · [Library (5632)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (520)](by-category/logging-observability.md) · [Machine Learning (788)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1035)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1137)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (302)](by-category/precommit-ci-quality.md)
@@ -16645,6 +16645,7 @@
 | `go_module_index-fed5c5de68a96e` | github.com/tangerg/scope/core | [open](records/go-github-com-tangerg-scope-core-c39c292b.md) |
 | `go_module_index-ff1e655008b853` | github.com/vitorpamplona/amethyst | [open](records/go-github-com-vitorpamplona-amethyst-7831885b.md) |
 | `go_module_index-fffde2b2775629` | github.com/quantus-network/qp-poseidon | [open](records/go-github-com-quantus-network-qp-poseidon-339ddff6.md) |
+| `hackage_recent-02ddd1d9509596` | fuyu-gpio-direct | [open](records/haskell-fuyu-gpio-direct-75719919.md) |
 | `hackage_recent-0c786b314b6410` | grapesy | [open](records/haskell-grapesy-9ecbf2e2.md) |
 | `hackage_recent-15fcfdbd7752f4` | bugsnag | [open](records/haskell-bugsnag-279ae229.md) |
 | `hackage_recent-1764fed6d2bbbd` | zstd | [open](records/haskell-zstd-01fb5311.md) |
@@ -16709,6 +16710,7 @@
 | `hackage_recent-f5159faf3a88ac` | hpgsql | [open](records/haskell-hpgsql-9568bc40.md) |
 | `hackage_recent-f6957e818cba3b` | hdf5 | [open](records/haskell-hdf5-eab0aa96.md) |
 | `hackage_recent-f8bae12dc2caa9` | holeyexp | [open](records/haskell-holeyexp-db5dc519.md) |
+| `hackage_recent-fc3b339575ae76` | fuyu-gpio | [open](records/haskell-fuyu-gpio-5e0b1b37.md) |
 | `hackage_top_downloads-001e2e9231f2f1` | web-encodings | [open](records/haskell-web-encodings-015c513d.md) |
 | `hackage_top_downloads-00203d525269ef` | telegram-api | [open](records/haskell-telegram-api-b35e4b3f.md) |
 | `hackage_top_downloads-00a2c4372c9069` | zlib | [open](records/haskell-zlib-2a0db053.md) |
