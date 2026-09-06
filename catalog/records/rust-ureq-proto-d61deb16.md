@@ -34,7 +34,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 0.6.1 | 2026-08-08T20:27:43.731278Z | [https://crates.io/api/v1/crates?page=10&per_page=100&sort=downloads](https://crates.io/api/v1/crates?page=10&per_page=100&sort=downloads) |  |
+| stable | known | 0.6.2 | 2026-09-06T09:53:37.032944Z | [https://crates.io/api/v1/crates?page=10&per_page=100&sort=downloads](https://crates.io/api/v1/crates?page=10&per_page=100&sort=downloads) |  |
 | preview/nightly | unknown |  |  | unknown | crates_io_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -49,7 +49,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 - Treat category as `library` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://crates.io/api/v1/crates?page=10&per_page=100&sort=downloads` at `2026-09-01T02:12:58+00:00`.
+- Latest stable metadata was observed from `https://crates.io/api/v1/crates?page=10&per_page=100&sort=downloads` at `2026-09-06T10:18:46+00:00`.
 - Preview/nightly metadata is unknown because `crates_io_has_no_standard_nightly_channel`.
 
 ## Provenance
@@ -98,7 +98,7 @@ Evidence records merged into this identity: `1`.
 [Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (455)](../by-category/ffi-bindings.md) · [Filesystem Os (1584)](../by-category/filesystem-os.md) · [Formatter (645)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (355)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1454)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (269)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · **[Library (5632)](../by-category/library.md)** · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · **[Library (5633)](../by-category/library.md)** · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (520)](../by-category/logging-observability.md) · [Machine Learning (788)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1035)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1137)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (302)](../by-category/precommit-ci-quality.md)

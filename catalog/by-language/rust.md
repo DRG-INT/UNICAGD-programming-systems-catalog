@@ -17,7 +17,7 @@ Records: `2183`
 [Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (455)](../by-category/ffi-bindings.md) · [Filesystem Os (1584)](../by-category/filesystem-os.md) · [Formatter (645)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (355)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1454)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (269)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5632)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5633)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (520)](../by-category/logging-observability.md) · [Machine Learning (788)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1035)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1137)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (302)](../by-category/precommit-ci-quality.md)
@@ -1699,7 +1699,7 @@ Records: `2183`
 | [unindent](../records/rust-unindent-ca4e7bb2.md) | 0.2.4 | 2025-03-03T23:32:26.449483Z | registry-derived |
 | [unreachable](../records/rust-unreachable-1acc7172.md) | 1.0.0 | 2017-05-09T20:54:44.587632Z | crates_io |
 | [unsigned-varint](../records/rust-unsigned-varint-d777618d.md) | 0.8.0 | 2023-11-01T17:52:24.337696Z | registry-derived |
-| [ureq-proto](../records/rust-ureq-proto-d61deb16.md) | 0.6.1 | 2026-08-08T20:27:43.731278Z | registry-derived |
+| [ureq-proto](../records/rust-ureq-proto-d61deb16.md) | 0.6.2 | 2026-09-06T09:53:37.032944Z | registry-derived |
 | [urlencoding](../records/rust-urlencoding-11bccc4a.md) | 2.1.3 | 2023-07-21T15:12:17.534094Z | registry-derived |
 | [usvg](../records/rust-usvg-aec2b708.md) | 0.48.1 | 2026-08-02T14:13:55.187963Z | crates_io |
 | [utf-8](../records/rust-utf-8-8c966d20.md) | 0.7.6 | 2021-04-16T14:55:34.691346Z | registry-derived |
@@ -2019,7 +2019,7 @@ Records: `2183`
 | [tungstenite](../records/rust-tungstenite-92a1b785.md) | 0.30.0 | 2026-07-11T12:50:30.264231Z | registry-derived |
 | [uds_windows](../records/rust-uds-windows-499b0b31.md) | 1.2.1 | 2026-03-14T15:31:37.094401Z | crates_io |
 | [unicode-script](../records/rust-unicode-script-12e4d0a4.md) | 0.5.8 | 2025-12-03T23:10:37.263018Z | crates_io |
-| [ureq](../records/rust-ureq-552a6979.md) | 3.4.0 | 2026-08-08T20:46:53.801810Z | registry-derived |
+| [ureq](../records/rust-ureq-552a6979.md) | 3.4.1 | 2026-09-06T10:07:56.416828Z | registry-derived |
 
 ### Package Manager
 

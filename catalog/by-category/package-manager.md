@@ -17,7 +17,7 @@ Records: `442`
 [Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (455)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (645)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1454)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (269)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5632)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5633)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
 [Other (14)](other.md) · **[Package Manager (442)](package-manager.md)** · [Parser Lexer Ast (1137)](parser-lexer-ast.md) · [Precommit Ci Quality (302)](precommit-ci-quality.md)
@@ -664,7 +664,7 @@ Records: `442`
 | Gitea: sagerxiao/gitea | partial | 2023-09-20T05:09:49Z | [open](../records/repository-workplaces-gitea-sagerxiao-gitea-c3953eeb.md) |
 | Gitea: trabalho/devops-app | partial | 2025-10-27T21:59:35Z | [open](../records/repository-workplaces-gitea-trabalho-devops-app-c6ffee99.md) |
 | Gitea: VitorDiv/devops-pipeline | partial | 2025-10-21T17:29:25Z | [open](../records/repository-workplaces-gitea-vitordiv-devops-pipeline-b7f831c7.md) |
-| gitlab-org/professional-services-automation/tools/utilities/pipeintel | partial | 2026-08-30T10:08:11.464Z | [open](../records/repository-workplaces-gitlab-org-professional-services-automation-tools-utilities-pipeintel-c5173f91.md) |
+| gitlab-org/professional-services-automation/tools/utilities/pipeintel | partial | 2026-09-06T10:08:32.636Z | [open](../records/repository-workplaces-gitlab-org-professional-services-automation-tools-utilities-pipeintel-c5173f91.md) |
 | juliendehos/nix42b | partial | 2021-03-01T13:35:23.011Z | [open](../records/repository-workplaces-juliendehos-nix42b-fe0574e7.md) |
 | OpenTAP/opentap | partial | 2022-03-07T13:22:54.219Z | [open](../records/repository-workplaces-opentap-opentap-6d917c43.md) |
 | portmod/portmod | partial | 2026-04-13T02:00:36.213Z | [open](../records/repository-workplaces-portmod-portmod-a38f55d6.md) |

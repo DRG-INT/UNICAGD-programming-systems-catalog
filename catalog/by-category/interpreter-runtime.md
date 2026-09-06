@@ -17,7 +17,7 @@ Records: `269`
 [Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (455)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (645)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1454)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · **[Interpreter Runtime (269)](interpreter-runtime.md)** · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5632)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5633)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1137)](parser-lexer-ast.md) · [Precommit Ci Quality (302)](precommit-ci-quality.md)
@@ -496,7 +496,7 @@ Records: `269`
 | cespedes/ltrace | partial | 2026-09-06T00:40:08.445Z | [open](../records/repository-workplaces-cespedes-ltrace-7df92cd8.md) |
 | cznic/libc | partial | 2026-09-05T03:16:36.755Z | [open](../records/repository-workplaces-cznic-libc-3b834450.md) |
 | DerLinkshaender/csv2xlsx | partial | 2023-01-23T21:54:27.769Z | [open](../records/repository-workplaces-derlinkshaender-csv2xlsx-bd2e77a2.md) |
-| freedesktop-sdk/freedesktop-sdk | partial | 2026-09-06T07:39:00.483Z | [open](../records/repository-workplaces-freedesktop-sdk-freedesktop-sdk-d7a3f323.md) |
+| freedesktop-sdk/freedesktop-sdk | partial | 2026-09-06T09:31:48.777Z | [open](../records/repository-workplaces-freedesktop-sdk-freedesktop-sdk-d7a3f323.md) |
 | Gitea: Befaci03/collab-vm-1.2-server-bettetweak | partial | 2025-04-20T12:00:39Z | [open](../records/repository-workplaces-gitea-befaci03-collab-vm-1-2-server-bettetweak-82605f6b.md) |
 | Gitea: cvmuser1000/collab-vm-1.2-server-bettetweak-better | partial | 2025-04-19T11:00:56Z | [open](../records/repository-workplaces-gitea-cvmuser1000-collab-vm-1-2-server-bettetweak-better-40a2c6fe.md) |
 | Gitea: Gala_Group/GalaRuntime | partial | 2023-09-03T18:22:16Z | [open](../records/repository-workplaces-gitea-gala-group-galaruntime-c30c90ab.md) |

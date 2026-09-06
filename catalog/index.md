@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-06T09:21:09+00:00`
+Generated: `2026-09-06T10:21:19+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -15,7 +15,7 @@ Generated: `2026-09-06T09:21:09+00:00`
 [Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (455)](by-category/ffi-bindings.md) · [Filesystem Os (1584)](by-category/filesystem-os.md) · [Formatter (645)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (355)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1454)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (269)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (29)](by-category/language-server.md) · [Language Specification (1432)](by-category/language-specification.md) · [Library (5632)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (29)](by-category/language-server.md) · [Language Specification (1432)](by-category/language-specification.md) · [Library (5633)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (520)](by-category/logging-observability.md) · [Machine Learning (788)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1035)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1137)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (302)](by-category/precommit-ci-quality.md)
@@ -37,7 +37,7 @@ Generated: `2026-09-06T09:21:09+00:00`
 | Node.js/JavaScript | 2408 | 2331 | [Node.js/JavaScript](by-language/node-js-javascript.md) |
 | Node.js/TypeScript | 388 | 348 | [Node.js/TypeScript](by-language/node-js-typescript.md) |
 | Lua family | 1937 | 0 | [Lua family](by-language/lua-family.md) |
-| R | 1680 | 1680 | [R](by-language/r.md) |
+| R | 1681 | 1681 | [R](by-language/r.md) |
 | Haskell | 1449 | 1434 | [Haskell](by-language/haskell.md) |
 | Matlab | 287 | 0 | [Matlab](by-language/matlab.md) |
 | Octave | 141 | 140 | [Octave](by-language/octave.md) |
@@ -130,7 +130,7 @@ Generated: `2026-09-06T09:21:09+00:00`
 | Jit Vm | 64 | [jit_vm](by-category/jit-vm.md) |
 | Language Server | 29 | [language_server](by-category/language-server.md) |
 | Language Specification | 1432 | [language_specification](by-category/language-specification.md) |
-| Library | 5632 | [library](by-category/library.md) |
+| Library | 5633 | [library](by-category/library.md) |
 | Lint Plugin | 1 | [lint_plugin](by-category/lint-plugin.md) |
 | Lint Rule Pack | 48 | [lint_rule_pack](by-category/lint-rule-pack.md) |
 | Linter | 348 | [linter](by-category/linter.md) |
@@ -174,7 +174,7 @@ Generated: `2026-09-06T09:21:09+00:00`
 | Node.js/JavaScript | 2331 | 77 |
 | Node.js/TypeScript | 348 | 40 |
 | Lua family | 0 | 1937 |
-| R | 1680 | 0 |
+| R | 1681 | 0 |
 | Haskell | 1434 | 15 |
 | Matlab | 0 | 287 |
 | Octave | 140 | 1 |

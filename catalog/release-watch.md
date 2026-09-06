@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-06T09:21:09+00:00`
+Generated: `2026-09-06T10:21:19+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -15,7 +15,7 @@ Generated: `2026-09-06T09:21:09+00:00`
 [Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (455)](by-category/ffi-bindings.md) · [Filesystem Os (1584)](by-category/filesystem-os.md) · [Formatter (645)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (355)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1454)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (269)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (29)](by-category/language-server.md) · [Language Specification (1432)](by-category/language-specification.md) · [Library (5632)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (29)](by-category/language-server.md) · [Language Specification (1432)](by-category/language-specification.md) · [Library (5633)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (520)](by-category/logging-observability.md) · [Machine Learning (788)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1035)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1137)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (302)](by-category/precommit-ci-quality.md)
@@ -28,13 +28,16 @@ Generated: `2026-09-06T09:21:09+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10144 |
+| Known stable release | 10145 |
 | Unknown stable release | 17148 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| ureq | Rust | Networking Http | 3.4.1 | 2026-09-06T10:07:56.416828Z | [open](records/rust-ureq-552a6979.md) |
+| @iobroker/testing | Node.js/JavaScript | Testing Framework | 6.1.0 | 2026-09-06T09:54:04.591Z | [open](records/node-js-javascript-iobroker-testing-1634fcb2.md) |
+| ureq-proto | Rust | Library | 0.6.2 | 2026-09-06T09:53:37.032944Z | [open](records/rust-ureq-proto-d61deb16.md) |
 | quinn-udp | Rust | Formatter | 0.6.2 | 2026-09-06T07:39:02.338192Z | [open](records/rust-quinn-udp-9bd3c9ce.md) |
 | mintlify | Node.js/JavaScript | Cli | 4.2.876 | 2026-09-06T06:55:47.405Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
 | mint | Node.js/JavaScript | Cli | 4.2.876 | 2026-09-06T06:55:47.219Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
@@ -49,6 +52,7 @@ Generated: `2026-09-06T09:21:09+00:00`
 | zstd | Haskell | Compression | 0.1.4.0 | 2026-09-06T03:09:59Z | [open](records/haskell-zstd-01fb5311.md) |
 | crypton | Haskell | Cryptography | 1.1.5 | 2026-09-06T02:20:25Z | [open](records/haskell-crypton-7cba2161.md) |
 | pin_input_text_field | Dart | Dependency Manager | 4.5.3 | 2026-09-06T02:13:00.125941Z | [open](records/dart-pin-input-text-field-b2436d80.md) |
+| icdGLM | R | Library | 1.0.2 | 2026-09-06 10:00:02 UTC | [open](records/r-icdglm-9f8f127b.md) |
 | RcppRoll | R | Ffi Bindings | 0.4.0 | 2026-09-06 07:50:08 UTC | [open](records/r-rcpproll-8a34b7be.md) |
 | SMM | R | Datetime | 1.0.3 | 2026-09-06 07:50:02 UTC | [open](records/r-smm-4f37397b.md) |
 | inti | R | Precommit Ci Quality | 0.7.4 | 2026-09-06 05:20:02 UTC | [open](records/r-inti-d99c2491.md) |
@@ -56,7 +60,6 @@ Generated: `2026-09-06T09:21:09+00:00`
 | betaselectr | R | Library | 0.2.4 | 2026-09-06 02:20:02 UTC | [open](records/r-betaselectr-7331a032.md) |
 | jsonschema | Rust | Serialization | 0.54.0 | 2026-09-05T23:35:59.858944Z | [open](records/rust-jsonschema-64fecdca.md) |
 | hsinstall | Haskell | Library | 3.1 | 2026-09-05T22:14:32Z | [open](records/haskell-hsinstall-b4fd04ed.md) |
-| @iobroker/testing | Node.js/JavaScript | Testing Framework | 6.0.0 | 2026-09-05T20:28:41.253Z | [open](records/node-js-javascript-iobroker-testing-1634fcb2.md) |
 | node-opcua-server | Node.js/JavaScript | Web Framework | 2.181.1 | 2026-09-05T19:53:33.793Z | [open](records/node-js-javascript-node-opcua-server-32472434.md) |
 | node-opcua-address-space-for-conformance-testing | Node.js/JavaScript | Testing Framework | 2.181.1 | 2026-09-05T19:52:59.864Z | [open](records/node-js-javascript-node-opcua-address-space-for-conformance-testing-e25f7a6d.md) |
 | yuku-parser | Node.js/TypeScript | Type Checker | 0.9.4 | 2026-09-05T19:10:09.074Z | [open](records/node-js-typescript-yuku-parser-d16e0e7c.md) |
@@ -282,9 +285,6 @@ Generated: `2026-09-06T09:21:09+00:00`
 | bGMYC4 | R | Precommit Ci Quality | 4.1.6 | 2026-09-04 20:30:02 UTC | [open](records/r-bgmyc4-6f8e15c3.md) |
 | syrona | R | Filesystem Os | 0.2.1 | 2026-09-04 20:10:02 UTC | [open](records/r-syrona-bc749954.md) |
 | AugmentedPooledRCBD | R | Static Analyzer | 0.1.0 | 2026-09-04 19:50:09 UTC | [open](records/r-augmentedpooledrcbd-6f44ef88.md) |
-| ambre | R | Library | 2.1.2 | 2026-09-04 19:50:02 UTC | [open](records/r-ambre-5724ea68.md) |
-| osmapiR | R | Filesystem Os | 0.2.6 | 2026-09-04 19:00:03 UTC | [open](records/r-osmapir-fb011de6.md) |
-| orbital | R | Database Datastore | 0.7.0 | 2026-09-04 18:40:02 UTC | [open](records/r-orbital-9aa81a79.md) |
 
 ## Unknown Reasons
 

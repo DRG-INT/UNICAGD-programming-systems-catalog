@@ -1,6 +1,6 @@
 # Library
 
-Records: `5632`
+Records: `5633`
 
 ## Navigation
 
@@ -17,7 +17,7 @@ Records: `5632`
 [Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (455)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (645)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1454)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (269)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · **[Library (5632)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · **[Library (5633)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1137)](parser-lexer-ast.md) · [Precommit Ci Quality (302)](precommit-ci-quality.md)
@@ -1906,7 +1906,7 @@ Records: `5632`
 | unindent | 0.2.4 | 2025-03-03T23:32:26.449483Z | [open](../records/rust-unindent-ca4e7bb2.md) |
 | unreachable | 1.0.0 | 2017-05-09T20:54:44.587632Z | [open](../records/rust-unreachable-1acc7172.md) |
 | unsigned-varint | 0.8.0 | 2023-11-01T17:52:24.337696Z | [open](../records/rust-unsigned-varint-d777618d.md) |
-| ureq-proto | 0.6.1 | 2026-08-08T20:27:43.731278Z | [open](../records/rust-ureq-proto-d61deb16.md) |
+| ureq-proto | 0.6.2 | 2026-09-06T09:53:37.032944Z | [open](../records/rust-ureq-proto-d61deb16.md) |
 | urlencoding | 2.1.3 | 2023-07-21T15:12:17.534094Z | [open](../records/rust-urlencoding-11bccc4a.md) |
 | usvg | 0.48.1 | 2026-08-02T14:13:55.187963Z | [open](../records/rust-usvg-aec2b708.md) |
 | utf-8 | 0.7.6 | 2021-04-16T14:55:34.691346Z | [open](../records/rust-utf-8-8c966d20.md) |
@@ -2685,6 +2685,7 @@ Records: `5632`
 | HVS | 1.0.1 | 2026-08-19 16:10:15 UTC | [open](../records/r-hvs-28200727.md) |
 | hyd1d | 0.5.5 | 2026-08-19 17:00:02 UTC | [open](../records/r-hyd1d-ec60c4a7.md) |
 | hyper.gam | 0.3.3 | 2026-08-25 22:10:02 UTC | [open](../records/r-hyper-gam-dd00a02f.md) |
+| icdGLM | 1.0.2 | 2026-09-06 10:00:02 UTC | [open](../records/r-icdglm-9f8f127b.md) |
 | icons | 1.0.0 | 2026-09-03 12:10:14 UTC | [open](../records/r-icons-73a5c7a1.md) |
 | immundata | 0.1.0 | 2026-08-26 10:00:02 UTC | [open](../records/r-immundata-d9bb0b0d.md) |
 | ImpAdaptType2Censor | 0.1.0 | 2026-08-07 15:30:02 UTC | [open](../records/r-impadapttype2censor-a27e40a6.md) |
