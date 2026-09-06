@@ -40,7 +40,7 @@ persistence, migrations, performance, and operational recovery.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT + file LICENSE; PostgreSQL License; https://api.github.com/licenses/postgresql |
+| Evidence | MIT License; https://api.github.com/licenses/mit; PostgreSQL License; https://api.github.com/licenses/postgresql |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
