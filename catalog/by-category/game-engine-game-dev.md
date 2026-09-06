@@ -15,14 +15,14 @@ Records: `355`
 [Cryptography (175)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (230)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (455)](ffi-bindings.md) · [Filesystem Os (1585)](filesystem-os.md) · [Formatter (646)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · **[Game Engine Game Dev (355)](game-engine-game-dev.md)** · [Ide Editor Integration (1456)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · **[Game Engine Game Dev (355)](game-engine-game-dev.md)** · [Ide Editor Integration (1457)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (269)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (29)](language-server.md) · [Language Specification (1433)](language-specification.md) · [Library (5638)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1183)](parser-lexer-ast.md) · [Precommit Ci Quality (303)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (606)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (607)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
 [Undefined Behavior Analyzer (1608)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (552)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
@@ -446,7 +446,7 @@ Records: `355`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| CleasbyCode/jdvrif | partial | 2026-09-02T22:37:52Z | [open](../records/photography-cleasbycode-jdvrif-e7dd7897.md) |
+| CleasbyCode/jdvrif | partial | 2026-09-03T23:22:35Z | [open](../records/photography-cleasbycode-jdvrif-e7dd7897.md) |
 | clshortfuse/renodx | partial | 2026-09-04T01:42:49Z | [open](../records/photography-clshortfuse-renodx-127b6f8d.md) |
 | Ershany/Arcane-Engine | partial | 2026-08-14T16:57:39Z | [open](../records/photography-ershany-arcane-engine-77807fd7.md) |
 | HerrZatacke/2bit-pxlr-studio | unknown | github_search_does_not_include_release_date | [open](../records/photography-herrzatacke-2bit-pxlr-studio-c3ca0627.md) |
@@ -498,7 +498,7 @@ Records: `355`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | cottsay/arm_asm_emu | partial | 2022-02-07T00:51:12Z | [open](../records/assembly-cottsay-arm-asm-emu-d1df6727.md) |
-| decompme/decomp.me | partial | 2026-09-06T13:56:41Z | [open](../records/assembly-decompme-decomp-me-72e4eec1.md) |
+| decompme/decomp.me | partial | 2026-09-06T15:17:27Z | [open](../records/assembly-decompme-decomp-me-72e4eec1.md) |
 | dethrace-labs/dethrace | partial | 2026-08-18T13:12:35Z | [open](../records/assembly-dethrace-labs-dethrace-0d609365.md) |
 | io12/BootMine | partial | 2021-01-21T04:53:31Z | [open](../records/assembly-io12-bootmine-85e26922.md) |
 | tgrysztar/fasmg | partial | 2026-07-19T09:21:17Z | [open](../records/assembly-tgrysztar-fasmg-1281abcb.md) |

@@ -11,14 +11,14 @@
 [Cryptography (175)](by-category/cryptography.md) · [Data Science (38)](by-category/data-science.md) · [Database Datastore (892)](by-category/database-datastore.md) · [Datetime (230)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (102)](by-category/dependency-manager.md) · [Documentation (103)](by-category/documentation.md)
 [Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (455)](by-category/ffi-bindings.md) · [Filesystem Os (1585)](by-category/filesystem-os.md) · [Formatter (646)](by-category/formatter.md)
-[Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (355)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1456)](by-category/ide-editor-integration.md)
+[Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (355)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1457)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (269)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
 [Language Server (29)](by-category/language-server.md) · [Language Specification (1433)](by-category/language-specification.md) · [Library (5638)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (520)](by-category/logging-observability.md) · [Machine Learning (788)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1035)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1183)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (303)](by-category/precommit-ci-quality.md)
 [Profiler (87)](by-category/profiler.md) · [Project Scaffolding (133)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (15)](by-category/sanitizer.md)
-[Security Sast (336)](by-category/security-sast.md) · [Serialization (395)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (606)](by-category/static-analyzer.md)
+[Security Sast (336)](by-category/security-sast.md) · [Serialization (395)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (607)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (606)](by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](by-category/tutorial-book-styleguide.md) · [Type Checker (313)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1608)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (552)](by-category/visualization-gui.md) · [Web Framework (476)](by-category/web-framework.md)
 
@@ -11669,6 +11669,7 @@
 | `github_search_photography-0f3d646b538058` | opendatacam/opendatacam | [open](records/photography-opendatacam-opendatacam-2d3b3502.md) |
 | `github_search_photography-0f892823db159c` | koide3/direct_visual_lidar_calibration | [open](records/photography-koide3-direct-visual-lidar-calibration-507b0f15.md) |
 | `github_search_photography-0f925d3dd05303` | cshum/imagor | [open](records/photography-cshum-imagor-a7d7da1b.md) |
+| `github_search_photography-0fe8075725ee0e` | qinjintian/qq-zone | [open](records/photography-qinjintian-qq-zone-4ca751a3.md) |
 | `github_search_photography-101bcda5427ec5` | 0015/ThatProject | [open](records/photography-0015-thatproject-8444de02.md) |
 | `github_search_photography-10243049a82c8c` | WZBSocialScienceCenter/pdftabextract | [open](records/photography-wzbsocialsciencecenter-pdftabextract-38ebda8f.md) |
 | `github_search_photography-106e9096ed424f` | spike0en/awesome_nothing | [open](records/photography-spike0en-awesome-nothing-9d5baec7.md) |
@@ -11783,6 +11784,7 @@
 | `github_search_photography-42b4983b659dda` | mcrescas/veriv | [open](records/photography-mcrescas-veriv-fd04d504.md) |
 | `github_search_photography-43272dd0f004d3` | banterle/HDR_Toolbox | [open](records/photography-banterle-hdr-toolbox-7502cc31.md) |
 | `github_search_photography-4350acc4572249` | ChrisChen667788/pixcull | [open](records/photography-chrischen667788-pixcull-77b8a7d3.md) |
+| `github_search_photography-436378a634cb33` | SamsonRuan/Photo-Insight | [open](records/photography-samsonruan-photo-insight-8cba4fe7.md) |
 | `github_search_photography-44ca75db3e6bb5` | sylikc/jpegview | [open](records/photography-sylikc-jpegview-5fdb16fc.md) |
 | `github_search_photography-452a0179eface7` | google/cameraview | [open](records/photography-google-cameraview-f7228a30.md) |
 | `github_search_photography-454bf1e88c2534` | easytarget/esp32-cam-webserver | [open](records/photography-easytarget-esp32-cam-webserver-f045f06d.md) |

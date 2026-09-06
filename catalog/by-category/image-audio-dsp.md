@@ -15,14 +15,14 @@ Records: `436`
 [Cryptography (175)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (230)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (455)](ffi-bindings.md) · [Filesystem Os (1585)](filesystem-os.md) · [Formatter (646)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1456)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1457)](ide-editor-integration.md)
 **[Image Audio Dsp (436)](image-audio-dsp.md)** · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (269)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (29)](language-server.md) · [Language Specification (1433)](language-specification.md) · [Library (5638)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1183)](parser-lexer-ast.md) · [Precommit Ci Quality (303)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (606)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (607)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
 [Undefined Behavior Analyzer (1608)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (552)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
@@ -442,13 +442,13 @@ Records: `436`
 | dcraw | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/photography-dcraw-7355fc69.md) |
 | Dhaval2404/ImagePicker | partial | 2023-10-22T09:30:15Z | [open](../records/photography-dhaval2404-imagepicker-a5a68c94.md) |
 | disintegration/imageorient | partial | 2018-09-20T19:55:49Z | [open](../records/photography-disintegration-imageorient-c6f1d833.md) |
-| dlemstra/Magick.NET | partial | 2026-09-04T09:44:42Z | [open](../records/photography-dlemstra-magick-net-d1b88e65.md) |
+| dlemstra/Magick.NET | partial | 2026-09-05T12:15:23Z | [open](../records/photography-dlemstra-magick-net-d1b88e65.md) |
 | esafirm/android-image-picker | partial | 2024-07-24T01:49:10Z | [open](../records/photography-esafirm-android-image-picker-894942a1.md) |
 | esimov/triangle | partial | 2024-10-24T06:51:49Z | [open](../records/photography-esimov-triangle-6d1c633f.md) |
 | eszdman/PhotonCamera | partial | 2026-09-06T08:33:42Z | [open](../records/photography-eszdman-photoncamera-7ae407a8.md) |
 | exif-heic-js/exif-heic-js | partial | 2025-07-03T14:31:17Z | [open](../records/photography-exif-heic-js-exif-heic-js-3a6db78a.md) |
 | Exiv2/exiv2 | partial | 2026-09-04T14:06:40Z | [open](../records/photography-exiv2-exiv2-ece25806.md) |
-| fengyuanchen/cropperjs | partial | 2026-09-04T13:27:05Z | [open](../records/photography-fengyuanchen-cropperjs-c586e3af.md) |
+| fengyuanchen/cropperjs | partial | 2026-09-05T07:02:36Z | [open](../records/photography-fengyuanchen-cropperjs-c586e3af.md) |
 | fthaler/rawhdr | partial | 2023-08-11T13:20:44Z | [open](../records/photography-fthaler-rawhdr-2703a856.md) |
 | guofei9987/blind_watermark | partial | 2026-03-25T09:09:28Z | [open](../records/photography-guofei9987-blind-watermark-a8556af6.md) |
 | hahnec/color-matcher | partial | 2026-02-24T20:43:21Z | [open](../records/photography-hahnec-color-matcher-dc72d7d2.md) |
@@ -466,18 +466,18 @@ Records: `436`
 | mirsadm/motioncam-decoder | partial | 2026-08-31T08:43:22Z | [open](../records/photography-mirsadm-motioncam-decoder-4f70e2bd.md) |
 | mooyoul/get-orientation | partial | 2026-09-02T21:53:30Z | [open](../records/photography-mooyoul-get-orientation-0b5e753d.md) |
 | nfnt/resize | partial | 2022-04-02T06:46:33Z | [open](../records/photography-nfnt-resize-09b63d52.md) |
-| opencv/opencv | partial | 2026-09-04T13:37:47Z | [open](../records/photography-opencv-opencv-3dada853.md) |
+| opencv/opencv | partial | 2026-09-06T09:05:36Z | [open](../records/photography-opencv-opencv-3dada853.md) |
 | OpenImageIO | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/photography-openimageio-1c46b5df.md) |
 | pqina/filepond | partial | 2026-08-28T15:10:49Z | [open](../records/photography-pqina-filepond-452a0cbf.md) |
 | pqina/react-filepond | partial | 2026-07-13T11:37:47Z | [open](../records/photography-pqina-react-filepond-73036a7d.md) |
 | pqina/vue-filepond | partial | 2026-07-13T11:37:56Z | [open](../records/photography-pqina-vue-filepond-48285ab4.md) |
-| python-pillow/Pillow | partial | 2026-09-04T13:42:35Z | [open](../records/photography-python-pillow-pillow-07389a23.md) |
+| python-pillow/Pillow | partial | 2026-09-05T22:19:37Z | [open](../records/photography-python-pillow-pillow-07389a23.md) |
 | PyWavelets/pywt | partial | 2026-09-04T08:52:25Z | [open](../records/photography-pywavelets-pywt-f5bf7c96.md) |
 | ray075hl/singleLDR2HDR | partial | 2025-01-07T02:22:51Z | [open](../records/photography-ray075hl-singleldr2hdr-49562d8c.md) |
 | RayXie29/Shading_Correction | partial | 2019-03-18T09:42:41Z | [open](../records/photography-rayxie29-shading-correction-2c29a276.md) |
-| roboflow/supervision | partial | 2026-09-04T12:36:40Z | [open](../records/photography-roboflow-supervision-293a4036.md) |
+| roboflow/supervision | partial | 2026-09-05T11:54:59Z | [open](../records/photography-roboflow-supervision-293a4036.md) |
 | scikit-image/scikit-image | partial | 2026-09-04T17:29:31Z | [open](../records/photography-scikit-image-scikit-image-e1dba1e6.md) |
-| shimat/opencvsharp | partial | 2026-09-03T03:31:11Z | [open](../records/photography-shimat-opencvsharp-caa1df8e.md) |
+| shimat/opencvsharp | partial | 2026-09-05T13:05:07Z | [open](../records/photography-shimat-opencvsharp-caa1df8e.md) |
 | sightmachine/SimpleCV | partial | 2024-12-20T19:39:00Z | [open](../records/photography-sightmachine-simplecv-b798cfb7.md) |
 | silvia-odwyer/photon | partial | 2026-08-27T12:02:31Z | [open](../records/photography-silvia-odwyer-photon-c3114191.md) |
 | SonyResearch/raw_image_denoising | partial | 2025-06-18T13:35:08Z | [open](../records/photography-sonyresearch-raw-image-denoising-41683fe2.md) |
