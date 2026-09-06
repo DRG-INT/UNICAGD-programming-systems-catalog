@@ -40,9 +40,9 @@ defect discovery, security review, undefined-state detection, and regression pre
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; Other |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -58,7 +58,7 @@ defect discovery, security review, undefined-state detection, and regression pre
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitlab_projects_api | forge-api-derived | 2026-09-05 | `{"kind": "gitlab_projects_api", "query": "static analysis", "retrieved": "2026-09-05", "status": "forge-api-derived"}` |
+| gitlab_projects_api | forge-api-derived | 2026-09-06 | `{"kind": "gitlab_projects_api", "query": "static analysis", "retrieved": "2026-09-06", "status": "forge-api-derived"}` |
 
 </details>
 

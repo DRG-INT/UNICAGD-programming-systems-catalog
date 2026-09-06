@@ -40,7 +40,7 @@ unit/integration validation, regression protection, and release confidence.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT; https://www.nuget.org/packages/Microsoft.Extensions.Http.Resilience/10.9.0/license |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

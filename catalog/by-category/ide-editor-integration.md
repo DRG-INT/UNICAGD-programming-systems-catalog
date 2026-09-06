@@ -1519,7 +1519,7 @@ Records: `1453`
 | mehdihadeli/awesome-software-architecture | partial | 2026-09-05T19:58:08Z | [open](../records/pattern-language-mehdihadeli-awesome-software-architecture-caec9f49.md) |
 | Microservice-API-Patterns/LakesideMutual | partial | 2025-10-13T18:11:28Z | [open](../records/pattern-language-microservice-api-patterns-lakesidemutual-c3f0fcf1.md) |
 | NoDivide/astrum | partial | 2022-05-13T22:45:05Z | [open](../records/pattern-language-nodivide-astrum-81381787.md) |
-| spring-projects/spring-integration | partial | 2026-09-04T18:16:35Z | [open](../records/pattern-language-spring-projects-spring-integration-fd457078.md) |
+| spring-projects/spring-integration | partial | 2026-09-06T01:03:08Z | [open](../records/pattern-language-spring-projects-spring-integration-fd457078.md) |
 | vaquarkhan/microservices-recipes-a-free-gitbook | partial | 2026-07-31T12:37:47Z | [open](../records/pattern-language-vaquarkhan-microservices-recipes-a-free-gitbook-fe8fd71a.md) |
 
 ## PHP

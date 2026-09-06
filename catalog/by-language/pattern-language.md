@@ -154,7 +154,7 @@ Records: `146`
 | [mehdihadeli/awesome-software-architecture](../records/pattern-language-mehdihadeli-awesome-software-architecture-caec9f49.md) | partial | 2026-09-05T19:58:08Z | registry-derived |
 | [Microservice-API-Patterns/LakesideMutual](../records/pattern-language-microservice-api-patterns-lakesidemutual-c3f0fcf1.md) | partial | 2025-10-13T18:11:28Z | registry-derived |
 | [NoDivide/astrum](../records/pattern-language-nodivide-astrum-81381787.md) | partial | 2022-05-13T22:45:05Z | registry-derived |
-| [spring-projects/spring-integration](../records/pattern-language-spring-projects-spring-integration-fd457078.md) | partial | 2026-09-04T18:16:35Z | registry-derived |
+| [spring-projects/spring-integration](../records/pattern-language-spring-projects-spring-integration-fd457078.md) | partial | 2026-09-06T01:03:08Z | registry-derived |
 | [vaquarkhan/microservices-recipes-a-free-gitbook](../records/pattern-language-vaquarkhan-microservices-recipes-a-free-gitbook-fe8fd71a.md) | partial | 2026-07-31T12:37:47Z | registry-derived |
 
 ### Language Specification

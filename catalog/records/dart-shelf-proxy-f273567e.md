@@ -39,9 +39,9 @@ clients/servers, protocol handling, and edge integration.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Other permissive |
-| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause |
-| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ clients/servers, protocol handling, and edge integration.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| pub_dev_completion_and_package_api | registry-derived | 2026-09-05 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-05", "status": "registry-derived"}` |
+| pub_dev_completion_and_package_api | registry-derived | 2026-09-06 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-06", "status": "registry-derived"}` |
 
 </details>
 

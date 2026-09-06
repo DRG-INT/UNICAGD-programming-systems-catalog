@@ -39,9 +39,9 @@ persistence, interoperability, and compatibility boundaries.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | https://www.nuget.org/packages/JsonPatch.Net/5.0.3/license |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | MIT |
+| Evidence | MIT License; https://api.github.com/licenses/mit; https://www.nuget.org/packages/JsonPatch.Net/5.0.3/license |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 

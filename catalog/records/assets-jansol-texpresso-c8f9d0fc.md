@@ -39,9 +39,9 @@ middleware policy, service structure, and deployment surface.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Apache-2.0 |
-| Evidence | Apache License 2.0 \| file LICENSE; {"key": "", "name": "", "url": ""} |
-| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
+| Detected family | Unknown license |
+| Evidence | CERN Open Hardware Licence Version 2 - Weakly Reciprocal; https://api.github.com/licenses/cern-ohl-w-2.0; {"key": "", "name": "", "url": ""} |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 

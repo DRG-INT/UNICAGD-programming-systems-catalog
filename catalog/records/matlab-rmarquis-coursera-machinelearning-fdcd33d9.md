@@ -39,9 +39,9 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | {"key": "", "name": "", "url": ""} |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | MIT |
+| Evidence | MIT License; https://api.github.com/licenses/mit; BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause; {"key": "", "name": "", "url": ""} |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-05 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "language:MATLAB topic:machine-learning", "retrieved": "2026-09-05", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-06 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "language:MATLAB topic:machine-learning", "retrieved": "2026-09-06", "status": "forge-cli-derived"}` |
 
 </details>
 

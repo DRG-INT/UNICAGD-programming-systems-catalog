@@ -70,7 +70,7 @@ Records: `308`
 | [emproof-com/nyxstone](../records/assembly-emproof-com-nyxstone-2e6c50f8.md) | partial | 2026-06-05T16:43:08Z | registry-derived |
 | [Fedjmike/mini-c](../records/assembly-fedjmike-mini-c-295a2fc0.md) | partial | 2022-04-15T08:24:14Z | registry-derived |
 | [HexHive/retrowrite](../records/assembly-hexhive-retrowrite-c7fefa2b.md) | partial | 2025-04-26T16:48:55Z | registry-derived |
-| [illegalstudio/elephc](../records/assembly-illegalstudio-elephc-5fbaada8.md) | partial | 2026-09-05T21:19:26Z | registry-derived |
+| [illegalstudio/elephc](../records/assembly-illegalstudio-elephc-5fbaada8.md) | partial | 2026-09-06T00:32:21Z | registry-derived |
 | [joexbayer/RetrOS-32](../records/assembly-joexbayer-retros-32-b6c205a2.md) | partial | 2026-02-22T16:07:58Z | registry-derived |
 | [JustasMasiulis/inline_syscall](../records/assembly-justasmasiulis-inline-syscall-0c8a798a.md) | partial | 2024-06-21T00:26:33Z | registry-derived |
 | [Mati365/ts-c-compiler](../records/assembly-mati365-ts-c-compiler-bc7fb5c3.md) | partial | 2026-08-11T06:13:10Z | registry-derived |
@@ -289,7 +289,7 @@ Records: `308`
 | [nornagon/jonesforth](../records/assembly-nornagon-jonesforth-691f782b.md) | partial | 2023-04-04T16:56:38Z | registry-derived |
 | [obdev/v-usb](../records/assembly-obdev-v-usb-977cf25b.md) | partial | 2026-08-26T14:47:54Z | registry-derived |
 | [openhwgroup/core-v-verif](../records/assembly-openhwgroup-core-v-verif-9b6682d3.md) | partial | 2026-08-13T11:46:24Z | registry-derived |
-| [openhwgroup/cva6](../records/assembly-openhwgroup-cva6-c0f79b44.md) | partial | 2026-09-05T23:56:09Z | registry-derived |
+| [openhwgroup/cva6](../records/assembly-openhwgroup-cva6-c0f79b44.md) | partial | 2026-09-06T00:55:37Z | registry-derived |
 | [oriansj/stage0](../records/assembly-oriansj-stage0-6791bc52.md) | partial | 2026-06-17T03:03:21Z | registry-derived |
 | [Overv/MineAssemble](../records/assembly-overv-mineassemble-4e2e626b.md) | partial | 2023-09-11T09:31:31Z | registry-derived |
 | [PDP-10/its](../records/assembly-pdp-10-its-cfa6e89a.md) | partial | 2026-08-19T16:37:56Z | registry-derived |
@@ -303,7 +303,7 @@ Records: `308`
 | [pret/pokeyellow](../records/assembly-pret-pokeyellow-f91bcc26.md) | partial | 2026-09-02T15:25:06Z | registry-derived |
 | [PrincetonUniversity/openpiton](../records/assembly-princetonuniversity-openpiton-eceb776d.md) | partial | 2026-02-25T17:35:46Z | registry-derived |
 | [RandalLinden/DOOM-FX](../records/assembly-randallinden-doom-fx-76b45172.md) | partial | 2022-06-19T18:26:02Z | registry-derived |
-| [Rangi42/polishedcrystal](../records/assembly-rangi42-polishedcrystal-55bf1d37.md) | partial | 2026-09-06T00:32:20Z | registry-derived |
+| [Rangi42/polishedcrystal](../records/assembly-rangi42-polishedcrystal-55bf1d37.md) | partial | 2026-09-06T00:58:18Z | registry-derived |
 | [repnz/snax86](../records/assembly-repnz-snax86-f1eddbbc.md) | partial | 2018-10-18T01:53:44Z | registry-derived |
 | [ReturnInfinity/BareMetal](../records/assembly-returninfinity-baremetal-0b151ed8.md) | partial | 2026-06-12T19:06:32Z | registry-derived |
 | [ReturnInfinity/BareMetal-OS-legacy](../records/assembly-returninfinity-baremetal-os-legacy-09317d7c.md) | partial | 2017-11-20T15:29:43Z | registry-derived |
@@ -379,7 +379,7 @@ Records: `308`
 | [takenobu-hs/cpu-assembly-examples](../records/assembly-takenobu-hs-cpu-assembly-examples-b5867112.md) | partial | 2024-05-19T06:55:01Z | registry-derived |
 | [Thraetaona/EXACT](../records/assembly-thraetaona-exact-bb36746a.md) | partial | 2024-06-13T18:59:42Z | registry-derived |
 | [vonsim/vonsim](../records/assembly-vonsim-vonsim-6a8ef78f.md) | partial | 2026-05-29T02:08:00Z | registry-derived |
-| [vvaltchev/tilck](../records/assembly-vvaltchev-tilck-455a611e.md) | partial | 2026-09-06T00:00:53Z | registry-derived |
+| [vvaltchev/tilck](../records/assembly-vvaltchev-tilck-455a611e.md) | partial | 2026-09-06T00:34:17Z | registry-derived |
 | [xtnded/codextended](../records/assembly-xtnded-codextended-97cbc636.md) | partial | 2026-05-07T10:43:51Z | registry-derived |
 | [yds12/x64-roadmap](../records/assembly-yds12-x64-roadmap-3b9663e2.md) | partial | 2020-07-16T15:54:20Z | registry-derived |
 | [yrp604/rappel](../records/assembly-yrp604-rappel-4bf787bb.md) | partial | 2024-03-07T04:45:15Z | registry-derived |

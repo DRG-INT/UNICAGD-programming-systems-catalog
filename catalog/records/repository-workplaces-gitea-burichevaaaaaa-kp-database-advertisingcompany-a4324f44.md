@@ -40,9 +40,9 @@ operational recovery.
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -58,7 +58,7 @@ operational recovery.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-05 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "database", "retrieved": "2026-09-05", "status": "forge-api-derived"}` |
+| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-06 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "database", "retrieved": "2026-09-06", "status": "forge-api-derived"}` |
 
 </details>
 

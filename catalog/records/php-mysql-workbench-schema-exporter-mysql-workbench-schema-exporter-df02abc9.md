@@ -39,9 +39,9 @@ the PHP inventory as part of state persistence, migrations, performance, and ope
 
 | Field | Value |
 | --- | --- |
-| Detected family | Other permissive |
-| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause |
-| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ the PHP inventory as part of state persistence, migrations, performance, and ope
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| packagist_search_and_p2_api | registry-derived | 2026-09-05 | `{"kind": "packagist_search_and_p2_api", "query": "mysql", "retrieved": "2026-09-05", "status": "registry-derived"}` |
+| packagist_search_and_p2_api | registry-derived | 2026-09-06 | `{"kind": "packagist_search_and_p2_api", "query": "mysql", "retrieved": "2026-09-06", "status": "registry-derived"}` |
 
 </details>
 

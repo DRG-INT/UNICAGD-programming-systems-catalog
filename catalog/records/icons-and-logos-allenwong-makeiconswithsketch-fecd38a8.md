@@ -40,9 +40,9 @@ integration.
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Apache-2.0 |
+| Evidence | MIT; Apache License 2.0; https://api.github.com/licenses/apache-2.0; {"key": "", "name": "", "url": ""} |
+| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes
 

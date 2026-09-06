@@ -41,7 +41,7 @@ reproducibility.
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | Other |
+| Evidence | unknown |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
@@ -58,7 +58,7 @@ reproducibility.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitlab_projects_api | forge-api-derived | 2026-09-05 | `{"kind": "gitlab_projects_api", "query": "compiler", "retrieved": "2026-09-05", "status": "forge-api-derived"}` |
+| gitlab_projects_api | forge-api-derived | 2026-09-06 | `{"kind": "gitlab_projects_api", "query": "compiler", "retrieved": "2026-09-06", "status": "forge-api-derived"}` |
 
 </details>
 

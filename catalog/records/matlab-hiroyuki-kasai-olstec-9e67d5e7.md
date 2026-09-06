@@ -40,7 +40,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT; {"key": "", "name": "", "url": ""}; MIT License; https://api.github.com/licenses/mit |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
@@ -57,7 +57,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-05 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "language:MATLAB topic:machine-learning", "retrieved": "2026-09-05", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-06 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "language:MATLAB topic:machine-learning", "retrieved": "2026-09-06", "status": "forge-cli-derived"}` |
 
 </details>
 

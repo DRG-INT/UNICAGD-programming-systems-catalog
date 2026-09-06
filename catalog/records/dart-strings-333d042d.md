@@ -40,9 +40,9 @@ runtime constraints, and data/deployment interfaces.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -58,7 +58,7 @@ runtime constraints, and data/deployment interfaces.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| pub_dev_completion_and_package_api | registry-derived | 2026-09-05 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-05", "status": "registry-derived"}` |
+| pub_dev_completion_and_package_api | registry-derived | 2026-09-06 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-06", "status": "registry-derived"}` |
 
 </details>
 

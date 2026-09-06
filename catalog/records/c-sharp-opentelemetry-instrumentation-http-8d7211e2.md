@@ -40,7 +40,7 @@ of hot-path discovery, allocation analysis, latency control, and capacity planni
 | Field | Value |
 | --- | --- |
 | Detected family | Apache-2.0 |
-| Evidence | Apache-2.0; https://www.nuget.org/packages/OpenTelemetry.Instrumentation.Http/1.18.0/license |
+| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0; Apache-2.0; https://www.nuget.org/packages/OpenTelemetry.Instrumentation.Http/1.18.0/license |
 | Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes

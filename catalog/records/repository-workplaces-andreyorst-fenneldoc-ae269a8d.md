@@ -57,7 +57,7 @@ of runtime behavior, deployment packaging, embedding, upgrade cadence, and compa
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitlab_projects_api | forge-api-derived | 2026-09-05 | `{"kind": "gitlab_projects_api", "query": "runtime", "retrieved": "2026-09-05", "status": "forge-api-derived"}` |
+| gitlab_projects_api | forge-api-derived | 2026-09-06 | `{"kind": "gitlab_projects_api", "query": "runtime", "retrieved": "2026-09-06", "status": "forge-api-derived"}` |
 
 </details>
 
