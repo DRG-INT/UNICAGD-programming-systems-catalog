@@ -529,7 +529,7 @@ Records: `563`
 | esengine/DeepSeek-Reasonix | partial | 2026-09-06T18:45:09Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-06T20:08:31Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-06T21:12:20Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 
@@ -629,7 +629,7 @@ Records: `563`
 | rawnly/splash-cli | partial | 2026-05-23T21:42:43Z | [open](../records/photography-rawnly-splash-cli-1dd2a2b8.md) |
 | TheZoraiz/ascii-image-converter | partial | 2024-04-14T19:34:21Z | [open](../records/photography-thezoraiz-ascii-image-converter-b3f9e40a.md) |
 | wszqkzqk/live-photo-conv | partial | 2026-09-04T08:38:55Z | [open](../records/photography-wszqkzqk-live-photo-conv-27ae8acd.md) |
-| yurijmikhalevich/rclip | partial | 2026-09-06T20:20:54Z | [open](../records/photography-yurijmikhalevich-rclip-b2be5c3a.md) |
+| yurijmikhalevich/rclip | partial | 2026-09-06T21:09:39Z | [open](../records/photography-yurijmikhalevich-rclip-b2be5c3a.md) |
 
 ## Radars
 

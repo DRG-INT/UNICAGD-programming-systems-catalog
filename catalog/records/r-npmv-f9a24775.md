@@ -40,7 +40,7 @@ policy, provenance control, and supply-chain monitoring.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | GPL-2 |
+| Evidence | GPL-3 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

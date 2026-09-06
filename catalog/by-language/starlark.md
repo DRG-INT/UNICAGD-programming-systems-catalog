@@ -148,7 +148,7 @@ Records: `69`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [cruise-automation/isopod](../records/starlark-cruise-automation-isopod-0fd20340.md) | partial | 2023-11-17T05:24:18Z | registry-derived |
-| [openrundev/openrun](../records/starlark-openrundev-openrun-0f48908b.md) | partial | 2026-09-06T18:31:59Z | registry-derived |
+| [openrundev/openrun](../records/starlark-openrundev-openrun-0f48908b.md) | partial | 2026-09-06T20:46:55Z | registry-derived |
 | [tidbyt/community](../records/starlark-tidbyt-community-62c4caad.md) | partial | 2026-08-28T05:00:24Z | registry-derived |
 
 ### Visualization Gui

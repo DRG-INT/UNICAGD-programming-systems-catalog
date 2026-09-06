@@ -155,7 +155,7 @@ Records: `652`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [mars-sim/mars-sim](../records/space-maps-mars-sim-mars-sim-54bf76f4.md) | partial | 2026-09-06T17:00:16Z | registry-derived |
+| [mars-sim/mars-sim](../records/space-maps-mars-sim-mars-sim-54bf76f4.md) | partial | 2026-09-06T20:48:56Z | registry-derived |
 | [novas0x2a/celestia](../records/space-maps-novas0x2a-celestia-65bc6a55.md) | partial | 2016-10-13T03:31:16Z | registry-derived |
 | [Spooffit/star_wars](../records/space-maps-spooffit-star-wars-0cdbb857.md) | partial | 2023-07-18T15:29:02Z | registry-derived |
 
@@ -322,7 +322,7 @@ Records: `652`
 | [klonnet23/helloy-word](../records/space-maps-klonnet23-helloy-word-834df5dd.md) | partial | 2022-08-29T16:59:38Z | registry-derived |
 | [microsoft/vscode-stac](../records/space-maps-microsoft-vscode-stac-3a3a11d5.md) | partial | 2023-05-03T11:26:56Z | registry-derived |
 | [Sfedfcv/redesigned-pancake](../records/space-maps-sfedfcv-redesigned-pancake-94ffa46d.md) | partial | 2021-05-16T05:22:26Z | registry-derived |
-| [spicelang/spice](../records/space-maps-spicelang-spice-ef246fae.md) | partial | 2026-09-06T20:17:06Z | registry-derived |
+| [spicelang/spice](../records/space-maps-spicelang-spice-ef246fae.md) | partial | 2026-09-06T20:39:21Z | registry-derived |
 | [SpiceSharp/SpiceSharp](../records/space-maps-spicesharp-spicesharp-a2392e92.md) | partial | 2026-08-19T14:29:08Z | registry-derived |
 | [theoknock/PlanetaryHoursCalendar](../records/space-maps-theoknock-planetaryhourscalendar-53a69bd7.md) | partial | 2018-11-30T02:30:58Z | registry-derived |
 | [zszszszsz/.config](../records/space-maps-zszszszsz-config-8578b3d1.md) | partial | 2023-10-05T22:52:42Z | registry-derived |
@@ -741,7 +741,7 @@ Records: `652`
 | [IBM-Cloud/watson-starter-apps](../records/space-maps-ibm-cloud-watson-starter-apps-8269d634.md) | partial | 2017-01-23T22:13:49Z | registry-derived |
 | [johnpolacek/styled-starter](../records/space-maps-johnpolacek-styled-starter-213f2daf.md) | partial | 2018-09-02T13:46:29Z | registry-derived |
 | [johnpolacek/styled-starter-basic](../records/space-maps-johnpolacek-styled-starter-basic-483af579.md) | partial | 2018-09-01T17:02:27Z | registry-derived |
-| [maximus0411/BorisChernyClaudeMarkdown](../records/space-maps-maximus0411-borischernyclaudemarkdown-88d34dbb.md) | partial | 2026-09-04T01:27:08Z | registry-derived |
+| [maximus0411/BorisChernyClaudeMarkdown](../records/space-maps-maximus0411-borischernyclaudemarkdown-88d34dbb.md) | partial | 2026-09-06T18:41:53Z | registry-derived |
 | [MohirM/game-catalog-starter](../records/space-maps-mohirm-game-catalog-starter-90f2ab48.md) | partial | 2021-05-04T00:21:07Z | registry-derived |
 | [parthmax2/genai-starter-pack](../records/space-maps-parthmax2-genai-starter-pack-2912dc43.md) | partial | 2026-06-20T08:56:38Z | registry-derived |
 | [strapi/strapi-starter-gatsby-catalog](../records/space-maps-strapi-strapi-starter-gatsby-catalog-686dc0a0.md) | partial | 2022-03-28T16:02:17Z | registry-derived |
@@ -876,7 +876,7 @@ Records: `652`
 | [despoisj/LatentSpaceVisualization](../records/space-maps-despoisj-latentspacevisualization-2f2ac115.md) | partial | 2021-07-26T19:43:51Z | registry-derived |
 | [dnemec/SPICE-Libraries](../records/space-maps-dnemec-spice-libraries-14b85037.md) | partial | 2018-08-03T00:49:47Z | registry-derived |
 | [drifter1/circuitsim](../records/space-maps-drifter1-circuitsim-ffe82388.md) | partial | 2026-03-14T13:30:19Z | registry-derived |
-| [eelab-dev/EEcircuit](../records/space-maps-eelab-dev-eecircuit-3d239729.md) | partial | 2026-09-06T03:25:12Z | registry-derived |
+| [eelab-dev/EEcircuit](../records/space-maps-eelab-dev-eecircuit-3d239729.md) | partial | 2026-09-06T20:44:51Z | registry-derived |
 | [ESA Sky](../records/space-maps-esa-sky-507149dd.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [facebookresearch/MultiModalExplorer](../records/space-maps-facebookresearch-multimodalexplorer-41476dd9.md) | partial | 2024-05-16T10:32:56Z | registry-derived |
 | [Farhad8797/solar-system-threejs](../records/space-maps-farhad8797-solar-system-threejs-fb3c2e47.md) | partial | 2026-08-12T13:38:07Z | registry-derived |

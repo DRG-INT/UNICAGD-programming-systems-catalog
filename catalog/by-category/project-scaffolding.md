@@ -193,7 +193,7 @@ Records: `133`
 | IBM-Cloud/watson-starter-apps | partial | 2017-01-23T22:13:49Z | [open](../records/space-maps-ibm-cloud-watson-starter-apps-8269d634.md) |
 | johnpolacek/styled-starter | partial | 2018-09-02T13:46:29Z | [open](../records/space-maps-johnpolacek-styled-starter-213f2daf.md) |
 | johnpolacek/styled-starter-basic | partial | 2018-09-01T17:02:27Z | [open](../records/space-maps-johnpolacek-styled-starter-basic-483af579.md) |
-| maximus0411/BorisChernyClaudeMarkdown | partial | 2026-09-04T01:27:08Z | [open](../records/space-maps-maximus0411-borischernyclaudemarkdown-88d34dbb.md) |
+| maximus0411/BorisChernyClaudeMarkdown | partial | 2026-09-06T18:41:53Z | [open](../records/space-maps-maximus0411-borischernyclaudemarkdown-88d34dbb.md) |
 | MohirM/game-catalog-starter | partial | 2021-05-04T00:21:07Z | [open](../records/space-maps-mohirm-game-catalog-starter-90f2ab48.md) |
 | parthmax2/genai-starter-pack | partial | 2026-06-20T08:56:38Z | [open](../records/space-maps-parthmax2-genai-starter-pack-2912dc43.md) |
 | strapi/strapi-starter-gatsby-catalog | partial | 2022-03-28T16:02:17Z | [open](../records/space-maps-strapi-strapi-starter-gatsby-catalog-686dc0a0.md) |

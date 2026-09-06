@@ -151,7 +151,7 @@ Records: `146`
 | --- | --- | --- | --- |
 | [evolutionary-architecture/evolutionary-architecture-by-example](../records/pattern-language-evolutionary-architecture-evolutionary-architecture-by-example-8cafc9e0.md) | partial | 2026-09-02T04:23:16Z | registry-derived |
 | [Mahmoudz/Porto](../records/pattern-language-mahmoudz-porto-c8b5e119.md) | partial | 2026-07-04T19:47:22Z | registry-derived |
-| [mehdihadeli/awesome-software-architecture](../records/pattern-language-mehdihadeli-awesome-software-architecture-caec9f49.md) | partial | 2026-09-05T19:58:08Z | registry-derived |
+| [mehdihadeli/awesome-software-architecture](../records/pattern-language-mehdihadeli-awesome-software-architecture-caec9f49.md) | partial | 2026-09-06T21:09:11Z | registry-derived |
 | [Microservice-API-Patterns/LakesideMutual](../records/pattern-language-microservice-api-patterns-lakesidemutual-c3f0fcf1.md) | partial | 2025-10-13T18:11:28Z | registry-derived |
 | [NoDivide/astrum](../records/pattern-language-nodivide-astrum-81381787.md) | partial | 2022-05-13T22:45:05Z | registry-derived |
 | [spring-projects/spring-integration](../records/pattern-language-spring-projects-spring-integration-fd457078.md) | partial | 2026-09-06T01:03:08Z | registry-derived |

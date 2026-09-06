@@ -510,7 +510,7 @@ Records: `553`
 | despoisj/LatentSpaceVisualization | partial | 2021-07-26T19:43:51Z | [open](../records/space-maps-despoisj-latentspacevisualization-2f2ac115.md) |
 | dnemec/SPICE-Libraries | partial | 2018-08-03T00:49:47Z | [open](../records/space-maps-dnemec-spice-libraries-14b85037.md) |
 | drifter1/circuitsim | partial | 2026-03-14T13:30:19Z | [open](../records/space-maps-drifter1-circuitsim-ffe82388.md) |
-| eelab-dev/EEcircuit | partial | 2026-09-06T03:25:12Z | [open](../records/space-maps-eelab-dev-eecircuit-3d239729.md) |
+| eelab-dev/EEcircuit | partial | 2026-09-06T20:44:51Z | [open](../records/space-maps-eelab-dev-eecircuit-3d239729.md) |
 | ESA Sky | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-maps-esa-sky-507149dd.md) |
 | facebookresearch/MultiModalExplorer | partial | 2024-05-16T10:32:56Z | [open](../records/space-maps-facebookresearch-multimodalexplorer-41476dd9.md) |
 | Farhad8797/solar-system-threejs | partial | 2026-08-12T13:38:07Z | [open](../records/space-maps-farhad8797-solar-system-threejs-fb3c2e47.md) |
