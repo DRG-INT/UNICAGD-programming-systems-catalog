@@ -1,0 +1,106 @@
+# npi
+
+## Navigation
+
+[Catalog index](../index.md) · [Language: R](../by-language/r.md) · [Category: Package Manager](../by-category/package-manager.md) · [Release watch](../release-watch.md) · [Apache/MIT license index](../license-index.md)
+
+<!-- robots.txt: compliant -->
+<!-- canonical: https://cran.r-project.org/web/packages/npi/index.html -->
+<!-- crawl-delay: 10 -->
+
+## Identity
+
+| Field | Value |
+| --- | --- |
+| Language branch | R |
+| Category | Package Manager |
+| Source type | registry_expansion |
+| Verification | registry-derived |
+| Canonical URL | [https://cran.r-project.org/web/packages/npi/index.html](https://cran.r-project.org/web/packages/npi/index.html) |
+| Source record ids | cran_packages_by_date-34b4d0f6328f20 |
+
+## System Engineer Summary
+
+Access the U.S. National Provider Identifier Registry API
+
+## Operational Role
+
+For a systems engineer, npi belongs in the R inventory as part of dependency acquisition, lockfile
+policy, provenance control, and supply-chain monitoring.
+
+## Release Intelligence
+
+| Channel | Status | Version | Date | Source | Reason |
+| --- | --- | --- | --- | --- | --- |
+| stable | known | 0.3.1 | 2026-09-06 04:00:02 UTC | [https://cran.r-project.org/web/packages/npi/DESCRIPTION](https://cran.r-project.org/web/packages/npi/DESCRIPTION) |  |
+| preview/nightly | unknown |  |  | unknown | cran_has_no_standard_nightly_channel |
+
+## License And Use Alert
+
+| Field | Value |
+| --- | --- |
+| Detected family | MIT |
+| Evidence | MIT + file LICENSE |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+
+## Engineering Notes
+
+- Treat category as `package_manager` unless a later verified source gives a better classification.
+- Keep provenance attached when merging duplicate identities; source evidence is not disposable.
+- Latest stable metadata was observed from `https://cran.r-project.org/web/packages/npi/DESCRIPTION` at `2026-09-06T05:17:52+00:00`.
+- Preview/nightly metadata is unknown because `cran_has_no_standard_nightly_channel`.
+
+## Provenance
+
+<details>
+<summary><strong>Provenance Details</strong> (click to expand)</summary>
+
+| Kind | Status | Date | Detail |
+| --- | --- | --- | --- |
+| cran_available_packages_by_date | registry-derived | 2026-09-06 | `{"kind": "cran_available_packages_by_date", "retrieved": "2026-09-06", "status": "registry-derived"}` |
+
+</details>
+
+## Evidence
+
+<details open>
+<summary><strong>Evidence Records</strong> (click to collapse)</summary>
+
+Evidence records merged into this identity: `1`.
+
+- `cran_packages_by_date-34b4d0f6328f20` from `cran_packages_by_date` as `registry_expansion`
+
+</details>
+
+## Related Records
+
+| Name | Category | Page |
+| --- | --- | --- |
+| acR | Package Manager | [open](r-acr-06483fc8.md) |
+| BNPmix | Package Manager | [open](r-bnpmix-cd5f272d.md) |
+| ClassifyITS | Package Manager | [open](r-classifyits-9d0d3143.md) |
+| maestro | Package Manager | [open](r-maestro-cf255b9c.md) |
+| mikropml | Package Manager | [open](r-mikropml-c7ef08df.md) |
+| mlr3pipelines | Package Manager | [open](r-mlr3pipelines-91dff350.md) |
+| npmv | Package Manager | [open](r-npmv-f9a24775.md) |
+| pkgfilecache | Package Manager | [open](r-pkgfilecache-5b2c3b65.md) |
+
+## Category Index
+
+[Api Abi Checker (218)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
+[Benchmarking (198)](../by-category/benchmarking.md) · [Build System (988)](../by-category/build-system.md) · [Cli (563)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (117)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (24)](../by-category/compiler-diagnostics.md) · [Compression (51)](../by-category/compression.md)
+[Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (129)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
+[Cryptography (174)](../by-category/cryptography.md) · [Data Science (38)](../by-category/data-science.md) · [Database Datastore (890)](../by-category/database-datastore.md) · [Datetime (229)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (102)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
+[Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (454)](../by-category/ffi-bindings.md) · [Filesystem Os (1584)](../by-category/filesystem-os.md) · [Formatter (645)](../by-category/formatter.md)
+[Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (355)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1454)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (436)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (268)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5630)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (520)](../by-category/logging-observability.md) · [Machine Learning (788)](../by-category/machine-learning.md)
+[Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1035)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · **[Package Manager (442)](../by-category/package-manager.md)** · [Parser Lexer Ast (1137)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (302)](../by-category/precommit-ci-quality.md)
+[Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (15)](../by-category/sanitizer.md)
+[Security Sast (336)](../by-category/security-sast.md) · [Serialization (395)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (605)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (606)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1606)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (552)](../by-category/visualization-gui.md) · [Web Framework (476)](../by-category/web-framework.md)

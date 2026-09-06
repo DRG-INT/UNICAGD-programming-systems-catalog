@@ -8,15 +8,15 @@
 [Benchmarking (198)](by-category/benchmarking.md) · [Build System (988)](by-category/build-system.md) · [Cli (563)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (117)](by-category/community-reference.md) · [Compiler (175)](by-category/compiler.md) · [Compiler Diagnostics (24)](by-category/compiler-diagnostics.md) · [Compression (51)](by-category/compression.md)
 [Concurrency Parallelism (89)](by-category/concurrency-parallelism.md) · [Configuration (129)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (174)](by-category/cryptography.md) · [Data Science (38)](by-category/data-science.md) · [Database Datastore (890)](by-category/database-datastore.md) · [Datetime (228)](by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (101)](by-category/dependency-manager.md) · [Documentation (103)](by-category/documentation.md)
-[Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (454)](by-category/ffi-bindings.md) · [Filesystem Os (1584)](by-category/filesystem-os.md) · [Formatter (644)](by-category/formatter.md)
+[Cryptography (174)](by-category/cryptography.md) · [Data Science (38)](by-category/data-science.md) · [Database Datastore (890)](by-category/database-datastore.md) · [Datetime (229)](by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (102)](by-category/dependency-manager.md) · [Documentation (103)](by-category/documentation.md)
+[Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (454)](by-category/ffi-bindings.md) · [Filesystem Os (1584)](by-category/filesystem-os.md) · [Formatter (645)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (355)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1454)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (268)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
 [Language Server (29)](by-category/language-server.md) · [Language Specification (1432)](by-category/language-specification.md) · [Library (5630)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (520)](by-category/logging-observability.md) · [Machine Learning (788)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1035)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (441)](by-category/package-manager.md) · [Parser Lexer Ast (1137)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (302)](by-category/precommit-ci-quality.md)
+[Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1137)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (302)](by-category/precommit-ci-quality.md)
 [Profiler (87)](by-category/profiler.md) · [Project Scaffolding (133)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (15)](by-category/sanitizer.md)
 [Security Sast (336)](by-category/security-sast.md) · [Serialization (395)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (605)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (606)](by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](by-category/tutorial-book-styleguide.md) · [Type Checker (313)](by-category/type-checker.md)
@@ -1150,6 +1150,7 @@
 | `cran_packages_by_date-347457e36c83d5` | zentraR | [open](records/r-zentrar-86e9d15f.md) |
 | `cran_packages_by_date-3494c073e0bf52` | secfile | [open](records/r-secfile-9cf55752.md) |
 | `cran_packages_by_date-34b0499725e255` | climateBR | [open](records/r-climatebr-2a84eb44.md) |
+| `cran_packages_by_date-34b4d0f6328f20` | npi | [open](records/r-npi-e0e894ec.md) |
 | `cran_packages_by_date-34be13ceec059e` | shinyds | [open](records/r-shinyds-c1ddf6c6.md) |
 | `cran_packages_by_date-34c4df4709bce3` | LaMa | [open](records/r-lama-0e16f4de.md) |
 | `cran_packages_by_date-34c945f56ab99d` | asleep | [open](records/r-asleep-af959ee0.md) |
@@ -26228,6 +26229,7 @@
 | `pub_dev-354c2c3e371d76` | intl | [open](records/dart-intl-d90bad2b.md) |
 | `pub_dev-35505e3e5a1c3a` | desktop_drop | [open](records/dart-desktop-drop-d451fc5f.md) |
 | `pub_dev-356f5e170fe10f` | isolate_manager | [open](records/dart-isolate-manager-0f2d39a3.md) |
+| `pub_dev-35c66db4fc08be` | board_datetime_picker | [open](records/dart-board-datetime-picker-13c3ffb4.md) |
 | `pub_dev-3651e74c3990d2` | image_picker | [open](records/dart-image-picker-bafe6f90.md) |
 | `pub_dev-366619f0d616b1` | phone_numbers_parser | [open](records/dart-phone-numbers-parser-b6b27fe8.md) |
 | `pub_dev-3669fa0b350e52` | relic | [open](records/dart-relic-b80c75b5.md) |
@@ -26238,6 +26240,7 @@
 | `pub_dev-38130a83b27e99` | flutter_expandable_fab | [open](records/dart-flutter-expandable-fab-5b85b63f.md) |
 | `pub_dev-381ac0767f3389` | android_alarm_manager_plus | [open](records/dart-android-alarm-manager-plus-eb77010e.md) |
 | `pub_dev-382d0743acab30` | yaml | [open](records/dart-yaml-c12cbf97.md) |
+| `pub_dev-390b6653cfc2e9` | moment_dart | [open](records/dart-moment-dart-ff397f89.md) |
 | `pub_dev-39423cbb390f00` | quick_actions | [open](records/dart-quick-actions-42f45037.md) |
 | `pub_dev-398a6827f29963` | animated_toggle_switch | [open](records/dart-animated-toggle-switch-7cbfa487.md) |
 | `pub_dev-39c977c782fe59` | device_preview | [open](records/dart-device-preview-08e5439c.md) |
@@ -26753,6 +26756,7 @@
 | `pub_dev-e4f00421e2b1a7` | awesome_snackbar_content | [open](records/dart-awesome-snackbar-content-e81170cb.md) |
 | `pub_dev-e54c78ed0356a1` | kalender | [open](records/dart-kalender-10f50158.md) |
 | `pub_dev-e59606842d7660` | flutter_webrtc | [open](records/dart-flutter-webrtc-afeba3f1.md) |
+| `pub_dev-e63bd1d404dfad` | pin_input_text_field | [open](records/dart-pin-input-text-field-b2436d80.md) |
 | `pub_dev-e756c5a303d00b` | dynamic_color | [open](records/dart-dynamic-color-11eb3505.md) |
 | `pub_dev-e75f72860ad3a9` | flutter_multi_formatter | [open](records/dart-flutter-multi-formatter-81896931.md) |
 | `pub_dev-e78b29f41993c9` | modal_bottom_sheet | [open](records/dart-modal-bottom-sheet-1cc2c687.md) |
