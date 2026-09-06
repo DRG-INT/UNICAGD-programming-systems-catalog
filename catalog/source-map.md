@@ -5,22 +5,22 @@
 ## Category Index
 
 [Api Abi Checker (220)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (136)](by-category/async-runtime.md)
-[Benchmarking (199)](by-category/benchmarking.md) · [Build System (992)](by-category/build-system.md) · [Cli (563)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (200)](by-category/benchmarking.md) · [Build System (992)](by-category/build-system.md) · [Cli (563)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (24)](by-category/compiler-diagnostics.md) · [Compression (51)](by-category/compression.md)
 [Concurrency Parallelism (89)](by-category/concurrency-parallelism.md) · [Configuration (130)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (175)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (893)](by-category/database-datastore.md) · [Datetime (231)](by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (102)](by-category/dependency-manager.md) · [Documentation (104)](by-category/documentation.md)
-[Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (456)](by-category/ffi-bindings.md) · [Filesystem Os (1592)](by-category/filesystem-os.md) · [Formatter (646)](by-category/formatter.md)
-[Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (356)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1460)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (436)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (269)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (29)](by-category/language-server.md) · [Language Specification (1435)](by-category/language-specification.md) · [Library (5656)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (526)](by-category/logging-observability.md) · [Machine Learning (792)](by-category/machine-learning.md)
-[Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1035)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1185)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (305)](by-category/precommit-ci-quality.md)
+[Cryptography (176)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (893)](by-category/database-datastore.md) · [Datetime (233)](by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (102)](by-category/dependency-manager.md) · [Documentation (106)](by-category/documentation.md)
+[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (457)](by-category/ffi-bindings.md) · [Filesystem Os (1605)](by-category/filesystem-os.md) · [Formatter (647)](by-category/formatter.md)
+[Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (356)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1462)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (438)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (273)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
+[Language Server (29)](by-category/language-server.md) · [Language Specification (1437)](by-category/language-specification.md) · [Library (5679)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (528)](by-category/logging-observability.md) · [Machine Learning (792)](by-category/machine-learning.md)
+[Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1036)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1187)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (307)](by-category/precommit-ci-quality.md)
 [Profiler (87)](by-category/profiler.md) · [Project Scaffolding (133)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
-[Security Sast (336)](by-category/security-sast.md) · [Serialization (396)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (610)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (606)](by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](by-category/tutorial-book-styleguide.md) · [Type Checker (313)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1615)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (553)](by-category/visualization-gui.md) · [Web Framework (476)](by-category/web-framework.md)
+[Security Sast (336)](by-category/security-sast.md) · [Serialization (396)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (612)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (607)](by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](by-category/tutorial-book-styleguide.md) · [Type Checker (313)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (1616)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (555)](by-category/visualization-gui.md) · [Web Framework (477)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -1557,6 +1557,7 @@
 | `cran_packages_by_date-704b85ce0ec5fd` | overlapping | [open](records/r-overlapping-8708a39f.md) |
 | `cran_packages_by_date-705db7a54eb888` | tidypredict | [open](records/r-tidypredict-b2a5b382.md) |
 | `cran_packages_by_date-706aea8bb2b9b9` | ConsensusCPA | [open](records/r-consensuscpa-7dfcfd53.md) |
+| `cran_packages_by_date-70719cdf898be8` | rpql | [open](records/r-rpql-6f8cea76.md) |
 | `cran_packages_by_date-7083af5fbe6325` | clustGLMM | [open](records/r-clustglmm-eb588c20.md) |
 | `cran_packages_by_date-70ab96b911cce0` | gp3ml | [open](records/r-gp3ml-cd270be8.md) |
 | `cran_packages_by_date-70bacab22a653b` | mirt | [open](records/r-mirt-5875df38.md) |
@@ -13195,18 +13196,26 @@
 | `github_search_sapjava-f4efdee97fbd03` | AmiltonSantos/portfolioAmiltonSantos | [open](records/sapjava-amiltonsantos-portfolioamiltonsantos-a5363099.md) |
 | `github_search_sapjava-f9bd1a92a316ea` | SAP/sailing-analytics | [open](records/sapjava-sap-sailing-analytics-18e68ac1.md) |
 | `github_search_sapjava-fa9c77d8522f35` | santhosh0000000/SAP-Hive | [open](records/sapjava-santhosh0000000-sap-hive-114d330f.md) |
+| `github_search_satcom_satellites-00f600ff20aeff` | pothosware/SoapyBladeRF | [open](records/satcom-satellites-pothosware-soapybladerf-6165e1c7.md) |
+| `github_search_satcom_satellites-02685a494393a8` | pothosware/SoapyHackRF | [open](records/satcom-satellites-pothosware-soapyhackrf-a87fbfd4.md) |
+| `github_search_satcom_satellites-027c30dc8fe4fe` | pothosware/SoapySpyServer | [open](records/satcom-satellites-pothosware-soapyspyserver-1279be59.md) |
 | `github_search_satcom_satellites-02bde6e6a6ca1c` | open-sdr/openwifi-hw | [open](records/satcom-satellites-open-sdr-openwifi-hw-b39d70cb.md) |
+| `github_search_satcom_satellites-03c87b295a6ecc` | handiko/gr-APRS | [open](records/satcom-satellites-handiko-gr-aprs-74d6a81c.md) |
 | `github_search_satcom_satellites-04c4d87d7537e7` | kevinmehall/rtlsdr-433m-sensor | [open](records/satcom-satellites-kevinmehall-rtlsdr-433m-sensor-b4200704.md) |
+| `github_search_satcom_satellites-0536ca6903cd23` | va1da5/docker-gnuradio-pluto | [open](records/satcom-satellites-va1da5-docker-gnuradio-pluto-d11cff46.md) |
 | `github_search_satcom_satellites-05c318d8f490b5` | josevcm/nfc-laboratory | [open](records/satcom-satellites-josevcm-nfc-laboratory-d0d4de08.md) |
 | `github_search_satcom_satellites-061b958e455873` | bellingcat/sar-interference-tracker | [open](records/satcom-satellites-bellingcat-sar-interference-tracker-812a2aa7.md) |
 | `github_search_satcom_satellites-0657510315c453` | jopohl/urh | [open](records/satcom-satellites-jopohl-urh-a7932818.md) |
 | `github_search_satcom_satellites-07c39321f14dd7` | fosfor15/SatCommSystem-QPSK-OFDM-LSEstimation-TransionosphericChannel | [open](records/satcom-satellites-fosfor15-satcommsystem-qpsk-ofdm-lsestimation-transionosphericchannel-8a655336.md) |
+| `github_search_satcom_satellites-0950afbf8d1c86` | MarcinWachowiak/gr-aoa | [open](records/satcom-satellites-marcinwachowiak-gr-aoa-f666d650.md) |
 | `github_search_satcom_satellites-0aadfb07a8e2d7` | thkruz/SignalRange | [open](records/satcom-satellites-thkruz-signalrange-37edb7c7.md) |
 | `github_search_satcom_satellites-0ad0a5d2830116` | kismetwireless/kismet | [open](records/satcom-satellites-kismetwireless-kismet-f1e1e53d.md) |
+| `github_search_satcom_satellites-0bea788158578f` | bitglue/gr-radioteletype | [open](records/satcom-satellites-bitglue-gr-radioteletype-8621d6d5.md) |
 | `github_search_satcom_satellites-0ce64b985684ee` | greatscottgadgets/hackrf | [open](records/satcom-satellites-greatscottgadgets-hackrf-236cb014.md) |
 | `github_search_satcom_satellites-0de666fdbce953` | ha7ilm/openwebrx | [open](records/satcom-satellites-ha7ilm-openwebrx-c41c5472.md) |
 | `github_search_satcom_satellites-0e259a13d25aeb` | osmocom/gr-osmosdr | [open](records/satcom-satellites-osmocom-gr-osmosdr-87d71d7c.md) |
 | `github_search_satcom_satellites-0ebfc4f0ddd390` | W00t3k/Awesome-Cellular-Hacking | [open](records/satcom-satellites-w00t3k-awesome-cellular-hacking-221e922c.md) |
+| `github_search_satcom_satellites-10e9456fbc0a9f` | karel/gr-adapt | [open](records/satcom-satellites-karel-gr-adapt-e072f310.md) |
 | `github_search_satcom_satellites-11800bb9b845f9` | GeoTIFF/geoblaze | [open](records/satcom-satellites-geotiff-geoblaze-c25d7b7b.md) |
 | `github_search_satcom_satellites-11b0d9e3e010ff` | cogeotiff/rio-cogeo | [open](records/satcom-satellites-cogeotiff-rio-cogeo-bdd27c44.md) |
 | `github_search_satcom_satellites-1263cf13f766b5` | EarToEarOak/RTLSDR-Scanner | [open](records/satcom-satellites-eartoearoak-rtlsdr-scanner-d41948a6.md) |
@@ -13222,36 +13231,50 @@
 | `github_search_satcom_satellites-1a8179dc186784` | emidan19/deep-tempest | [open](records/satcom-satellites-emidan19-deep-tempest-249c2c36.md) |
 | `github_search_satcom_satellites-1abeddc6177e16` | thkruz/ootk | [open](records/satcom-satellites-thkruz-ootk-a6870fc3.md) |
 | `github_search_satcom_satellites-1cbf72ee5ed000` | SatCom-TELMA/MA-DRL_Routing_Simulator | [open](records/satcom-satellites-satcom-telma-ma-drl-routing-simulator-149f4099.md) |
+| `github_search_satcom_satellites-1d0a9caf3736ab` | alexmrqt/fm-rds | [open](records/satcom-satellites-alexmrqt-fm-rds-3539a182.md) |
 | `github_search_satcom_satellites-1dda2237f812fa` | Flowm/satvis | [open](records/satcom-satellites-flowm-satvis-63649809.md) |
 | `github_search_satcom_satellites-1dfbb7e6eb5b14` | kylebarron/deck.gl-raster | [open](records/satcom-satellites-kylebarron-deck-gl-raster-e8f894a4.md) |
 | `github_search_satcom_satellites-1e18b46895110c` | rtl-airband/RTLSDR-Airband | [open](records/satcom-satellites-rtl-airband-rtlsdr-airband-1ad0c0a9.md) |
+| `github_search_satcom_satellites-1f807fc4feff70` | 0xcesium/HackRF-Gnu-Radio | [open](records/satcom-satellites-0xcesium-hackrf-gnu-radio-5a24e21a.md) |
 | `github_search_satcom_satellites-1f83846abac8a3` | sam210723/xrit-rx | [open](records/satcom-satellites-sam210723-xrit-rx-626364af.md) |
+| `github_search_satcom_satellites-20adc52e59ece4` | onticsoluciones/RFMap | [open](records/satcom-satellites-onticsoluciones-rfmap-2b26a6f1.md) |
+| `github_search_satcom_satellites-20e54ee4f11fc2` | bastibl/gr-sched | [open](records/satcom-satellites-bastibl-gr-sched-f9a9e30b.md) |
 | `github_search_satcom_satellites-2141fb67c72610` | aweeri/TLEscope | [open](records/satcom-satellites-aweeri-tlescope-9706f874.md) |
 | `github_search_satcom_satellites-21806a59322dcc` | raceintospace/raceintospace | [open](records/satcom-satellites-raceintospace-raceintospace-aabc64c6.md) |
 | `github_search_satcom_satellites-21f69a12477451` | EttusResearch/uhd | [open](records/satcom-satellites-ettusresearch-uhd-fe8ed911.md) |
 | `github_search_satcom_satellites-229002f3705b29` | thkruz/keeptrack.space | [open](records/satcom-satellites-thkruz-keeptrack-space-1aff0f13.md) |
 | `github_search_satcom_satellites-22c25a6289d24f` | xaelsouth/rtl-wmbus | [open](records/satcom-satellites-xaelsouth-rtl-wmbus-54297c99.md) |
+| `github_search_satcom_satellites-2357c1db09faba` | gorlapraveen/The-Learning-Documentation-Project | [open](records/satcom-satellites-gorlapraveen-the-learning-documentation-project-659c0f15.md) |
 | `github_search_satcom_satellites-23809e99d0cbf7` | xmikos/qspectrumanalyzer | [open](records/satcom-satellites-xmikos-qspectrumanalyzer-af1f936b.md) |
+| `github_search_satcom_satellites-25083b16cc308e` | ghostop14/gr-correctiq | [open](records/satcom-satellites-ghostop14-gr-correctiq-8526d287.md) |
 | `github_search_satcom_satellites-251a845e3f7a80` | cogeotiff/rio-tiler | [open](records/satcom-satellites-cogeotiff-rio-tiler-3e362ba1.md) |
 | `github_search_satcom_satellites-252486b50e3b52` | alanbjohnston/CubeSatSim | [open](records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) |
 | `github_search_satcom_satellites-26ab915dc292d9` | mapbox/mapbox-sdk-py | [open](records/satcom-satellites-mapbox-mapbox-sdk-py-6c7f9062.md) |
+| `github_search_satcom_satellites-279750597815aa` | nitram2342/gr-dcf77-transmitter | [open](records/satcom-satellites-nitram2342-gr-dcf77-transmitter-6f232492.md) |
 | `github_search_satcom_satellites-279ad4d5a23705` | bastibl/gr-ieee802-15-4 | [open](records/satcom-satellites-bastibl-gr-ieee802-15-4-71f2cd22.md) |
 | `github_search_satcom_satellites-2828b9fdb216c0` | rfquack/RFQuack | [open](records/satcom-satellites-rfquack-rfquack-fe75b1ae.md) |
 | `github_search_satcom_satellites-289003e7b7fcd1` | 30hours/blah2 | [open](records/satcom-satellites-30hours-blah2-5333f179.md) |
 | `github_search_satcom_satellites-292b55f511b825` | greatscottgadgets/gr-bluetooth | [open](records/satcom-satellites-greatscottgadgets-gr-bluetooth-749a1444.md) |
+| `github_search_satcom_satellites-2953db017ffe45` | spectregrams/spectre | [open](records/satcom-satellites-spectregrams-spectre-77b8722d.md) |
 | `github_search_satcom_satellites-29bd28118c1579` | sabbir-uoulu/open-source-5g-ntn | [open](records/satcom-satellites-sabbir-uoulu-open-source-5g-ntn-bc3690cb.md) |
 | `github_search_satcom_satellites-2a2f2ef1e10684` | cariboulabs/cariboulite | [open](records/satcom-satellites-cariboulabs-cariboulite-4bcd3490.md) |
 | `github_search_satcom_satellites-2aa6ba8950060a` | billpsomas/rscir | [open](records/satcom-satellites-billpsomas-rscir-e4f542e3.md) |
 | `github_search_satcom_satellites-2b91e388235967` | CScorza/GEOINTInvestigation | [open](records/satcom-satellites-cscorza-geointinvestigation-97ccfead.md) |
 | `github_search_satcom_satellites-2bd2da9e836309` | Reza-Zhu/SUES-200-Benchmark | [open](records/satcom-satellites-reza-zhu-sues-200-benchmark-a1bf4f0b.md) |
+| `github_search_satcom_satellites-2d14d35a721da7` | pothosware/SoapyPlutoSDR | [open](records/satcom-satellites-pothosware-soapyplutosdr-f762a399.md) |
 | `github_search_satcom_satellites-2dc7b97bec5919` | wiedehopf/readsb | [open](records/satcom-satellites-wiedehopf-readsb-46bfc962.md) |
 | `github_search_satcom_satellites-301dc499dd4d38` | FlorentF9/SatelliteSimulator | [open](records/satcom-satellites-florentf9-satellitesimulator-bfc3ba79.md) |
+| `github_search_satcom_satellites-304821a20412aa` | pothosware/SoapyAirspy | [open](records/satcom-satellites-pothosware-soapyairspy-2b6dd63b.md) |
+| `github_search_satcom_satellites-30656279434cd9` | pothosware/SoapyUHD | [open](records/satcom-satellites-pothosware-soapyuhd-e79845ce.md) |
 | `github_search_satcom_satellites-30707b4500e979` | HouzuoGuo/laitos | [open](records/satcom-satellites-houzuoguo-laitos-ce5816b1.md) |
 | `github_search_satcom_satellites-311bbc3f74e5d7` | rawify/GPS.js | [open](records/satcom-satellites-rawify-gps-js-bd25bcec.md) |
 | `github_search_satcom_satellites-313d22cae0dc88` | tapparelj/gr-lora_sdr | [open](records/satcom-satellites-tapparelj-gr-lora-sdr-804a362c.md) |
+| `github_search_satcom_satellites-321887d44ba777` | kittennbfive/gr-nrf24-sniffer | [open](records/satcom-satellites-kittennbfive-gr-nrf24-sniffer-e1712fae.md) |
 | `github_search_satcom_satellites-3249d5d63476b5` | tomtaylor/satellite-eyes | [open](records/satcom-satellites-tomtaylor-satellite-eyes-502e7da9.md) |
 | `github_search_satcom_satellites-324ab64b7b2625` | miek/inspectrum | [open](records/satcom-satellites-miek-inspectrum-c6f0f1bd.md) |
 | `github_search_satcom_satellites-32ae05ef3e2f5a` | mapbox/mercantile | [open](records/satcom-satellites-mapbox-mercantile-4443a8d8.md) |
+| `github_search_satcom_satellites-32f85f43675a36` | Nuand/gr-bladeRF | [open](records/satcom-satellites-nuand-gr-bladerf-b6337a02.md) |
+| `github_search_satcom_satellites-34668119fb629b` | sigmf/sigmf-python | [open](records/satcom-satellites-sigmf-sigmf-python-329846a5.md) |
 | `github_search_satcom_satellites-34983cf7fef63f` | pytroll/satpy | [open](records/satcom-satellites-pytroll-satpy-9a896b49.md) |
 | `github_search_satcom_satellites-35abf4e4233c2b` | PentHertz/RF-Swift | [open](records/satcom-satellites-penthertz-rf-swift-0cf96f11.md) |
 | `github_search_satcom_satellites-36209e8bf34f37` | maia-sdr/maia-sdr | [open](records/satcom-satellites-maia-sdr-maia-sdr-69bb3f0a.md) |
@@ -13261,15 +13284,24 @@
 | `github_search_satcom_satellites-38254b583b20e9` | trishmapow/rf-jam-replay | [open](records/satcom-satellites-trishmapow-rf-jam-replay-654ac757.md) |
 | `github_search_satcom_satellites-39a7d867e29629` | lasp/space_packet_parser | [open](records/satcom-satellites-lasp-space-packet-parser-c1755c7c.md) |
 | `github_search_satcom_satellites-39bab23c2bd493` | kpreid/shinysdr | [open](records/satcom-satellites-kpreid-shinysdr-59c54492.md) |
+| `github_search_satcom_satellites-3a1117e7d04b7b` | pothosware/SoapyRTLSDR | [open](records/satcom-satellites-pothosware-soapyrtlsdr-262e5cae.md) |
 | `github_search_satcom_satellites-3b537f7a2ea6c6` | demantz/RFAnalyzer | [open](records/satcom-satellites-demantz-rfanalyzer-8b6a9e20.md) |
+| `github_search_satcom_satellites-3b9fc5515b8034` | pietrotedeschi/power-modulated-jammer | [open](records/satcom-satellites-pietrotedeschi-power-modulated-jammer-e58821f3.md) |
+| `github_search_satcom_satellites-3cf153e39f52d4` | IronGiu/MeshStation | [open](records/satcom-satellites-irongiu-meshstation-c1b5d80e.md) |
+| `github_search_satcom_satellites-3e592178a6ae73` | gnuradio/newsched | [open](records/satcom-satellites-gnuradio-newsched-67890692.md) |
+| `github_search_satcom_satellites-3f15bd1936ca44` | opensatellite/KS-1Q | [open](records/satcom-satellites-opensatellite-ks-1q-6171a46e.md) |
 | `github_search_satcom_satellites-3f5d68ea1f340a` | up42/up42-py | [open](records/satcom-satellites-up42-up42-py-ed525448.md) |
+| `github_search_satcom_satellites-400a15373d855d` | henningM1r/gr_DCF77_Receiver | [open](records/satcom-satellites-henningm1r-gr-dcf77-receiver-516fa0b4.md) |
 | `github_search_satcom_satellites-40b8d8101af117` | Viva525/Cesium-Satellite | [open](records/satcom-satellites-viva525-cesium-satellite-4b64584e.md) |
+| `github_search_satcom_satellites-41f4a71369b464` | F1ATB/Remote-SDR | [open](records/satcom-satellites-f1atb-remote-sdr-7c69ea35.md) |
 | `github_search_satcom_satellites-4260db3cfc5fbc` | nsmryan/CCSDS-Router | [open](records/satcom-satellites-nsmryan-ccsds-router-0f662998.md) |
+| `github_search_satcom_satellites-42891045f89e9d` | racerxdl/sat4noobs | [open](records/satcom-satellites-racerxdl-sat4noobs-6adb3c71.md) |
 | `github_search_satcom_satellites-42fee17cc1c113` | lloda/prop-618 | [open](records/satcom-satellites-lloda-prop-618-ea3a5a71.md) |
 | `github_search_satcom_satellites-444c6b7346c8d7` | JiaoXianjun/BTLE | [open](records/satcom-satellites-jiaoxianjun-btle-a4649a5e.md) |
 | `github_search_satcom_satellites-45cdc32051092d` | pxntus/puslib | [open](records/satcom-satellites-pxntus-puslib-033d8c81.md) |
 | `github_search_satcom_satellites-4613af11bfc0ec` | blaylockbk/goes2go | [open](records/satcom-satellites-blaylockbk-goes2go-6d604dc4.md) |
 | `github_search_satcom_satellites-46189aba4ce244` | oscam-emu/oscam-patched-old | [open](records/satcom-satellites-oscam-emu-oscam-patched-old-2275f675.md) |
+| `github_search_satcom_satellites-46473967d3e95d` | MansourM61/FSO-Comm-GnuRadio-Module | [open](records/satcom-satellites-mansourm61-fso-comm-gnuradio-module-ec768d27.md) |
 | `github_search_satcom_satellites-4750ac93e0505f` | yamcs/jsle | [open](records/satcom-satellites-yamcs-jsle-1d100e71.md) |
 | `github_search_satcom_satellites-476f847adca5dc` | Alexgichamba/sat-rf-sim | [open](records/satcom-satellites-alexgichamba-sat-rf-sim-aa36e263.md) |
 | `github_search_satcom_satellites-480017bedb4dcd` | bastibl/instant-gnuradio | [open](records/satcom-satellites-bastibl-instant-gnuradio-60127528.md) |
@@ -13279,6 +13311,7 @@
 | `github_search_satcom_satellites-4a92b151337e04` | ANG13T/SatIntel | [open](records/satcom-satellites-ang13t-satintel-b65eedb1.md) |
 | `github_search_satcom_satellites-4aa90f44bc1be8` | PatrickTUM/SEN12MS-CR-TS | [open](records/satcom-satellites-patricktum-sen12ms-cr-ts-5c0952ab.md) |
 | `github_search_satcom_satellites-4b4cd5f1510224` | daleroberts/bv | [open](records/satcom-satellites-daleroberts-bv-07c48359.md) |
+| `github_search_satcom_satellites-4e146bff25d141` | jakeson21/gr-limesdr-examples | [open](records/satcom-satellites-jakeson21-gr-limesdr-examples-10dc4a78.md) |
 | `github_search_satcom_satellites-50a1180c408f70` | BigBodyCobain/Shadowbroker | [open](records/satcom-satellites-bigbodycobain-shadowbroker-e01d6138.md) |
 | `github_search_satcom_satellites-50f4e57b4e573a` | dariol83/drorbiteex | [open](records/satcom-satellites-dariol83-drorbiteex-4650c774.md) |
 | `github_search_satcom_satellites-512e9368ce3b78` | mapbox/rio-mbtiles | [open](records/satcom-satellites-mapbox-rio-mbtiles-3793d564.md) |
@@ -13288,17 +13321,23 @@
 | `github_search_satcom_satellites-56763d5df70527` | szpajder/dumpvdl2 | [open](records/satcom-satellites-szpajder-dumpvdl2-e122abc0.md) |
 | `github_search_satcom_satellites-57e24df75285e6` | cbassa/stvid | [open](records/satcom-satellites-cbassa-stvid-b0821bf9.md) |
 | `github_search_satcom_satellites-5881d1dde908bb` | lennart-rth/Live-Earth-Wallpapers | [open](records/satcom-satellites-lennart-rth-live-earth-wallpapers-8a410278.md) |
+| `github_search_satcom_satellites-58b2e1cdf90c87` | pothosware/SoapyRemote | [open](records/satcom-satellites-pothosware-soapyremote-412f763f.md) |
 | `github_search_satcom_satellites-58f7655cd5202d` | ghostop14/sparrow-wifi | [open](records/satcom-satellites-ghostop14-sparrow-wifi-03743768.md) |
+| `github_search_satcom_satellites-5a15e8d77b447c` | mgp25/RF-List | [open](records/satcom-satellites-mgp25-rf-list-3b7f1665.md) |
 | `github_search_satcom_satellites-5b1ab30f4f6ebc` | nsmryan/ccsds_primary_header | [open](records/satcom-satellites-nsmryan-ccsds-primary-header-46817051.md) |
 | `github_search_satcom_satellites-5be54f1a2cda52` | psi-consortium/psi | [open](records/satcom-satellites-psi-consortium-psi-ddc5eac0.md) |
 | `github_search_satcom_satellites-5c45b68a2b0450` | avinashbot/satellite | [open](records/satcom-satellites-avinashbot-satellite-fad7a270.md) |
 | `github_search_satcom_satellites-5c5b6f57f5e9d6` | csete/gpredict | [open](records/satcom-satellites-csete-gpredict-00041760.md) |
 | `github_search_satcom_satellites-5c6d1da8e93fde` | OpenSatKit/OpenSatKit | [open](records/satcom-satellites-opensatkit-opensatkit-5cd2d22e.md) |
+| `github_search_satcom_satellites-5c828455ada2a7` | Mictronics/ais-simulator | [open](records/satcom-satellites-mictronics-ais-simulator-6fef2544.md) |
+| `github_search_satcom_satellites-5c869e29283a19` | bastibl/android-fm | [open](records/satcom-satellites-bastibl-android-fm-d614902c.md) |
 | `github_search_satcom_satellites-5cc60fddc6ad62` | yeliqseu/tcp-lte-sat | [open](records/satcom-satellites-yeliqseu-tcp-lte-sat-ae528824.md) |
+| `github_search_satcom_satellites-5e3f1c976693b6` | argilo/gr-nrsc5 | [open](records/satcom-satellites-argilo-gr-nrsc5-574fa57b.md) |
 | `github_search_satcom_satellites-5e98c901c100ac` | theforeman/foreman-ansible-modules | [open](records/satcom-satellites-theforeman-foreman-ansible-modules-59a0b7ce.md) |
 | `github_search_satcom_satellites-5ea1b643b29433` | dotchance/nodalarc | [open](records/satcom-satellites-dotchance-nodalarc-405a4881.md) |
 | `github_search_satcom_satellites-5eb6970fea7922` | AlexandreRouma/SDRPlusPlus | [open](records/satcom-satellites-alexandrerouma-sdrplusplus-e02064ad.md) |
 | `github_search_satcom_satellites-601398ff8c5d9f` | chuot/rdio-scanner | [open](records/satcom-satellites-chuot-rdio-scanner-731610af.md) |
+| `github_search_satcom_satellites-608889f1f6f573` | csdvb/dvbs2_tx | [open](records/satcom-satellites-csdvb-dvbs2-tx-c714b8f5.md) |
 | `github_search_satcom_satellites-60eabb4bca7d36` | barbeau/awesome-gnss | [open](records/satcom-satellites-barbeau-awesome-gnss-88de2a98.md) |
 | `github_search_satcom_satellites-637853c23ec05c` | AresValley/Artemis | [open](records/satcom-satellites-aresvalley-artemis-bffe8427.md) |
 | `github_search_satcom_satellites-63fcf121a6fc73` | mapbox/make-surface | [open](records/satcom-satellites-mapbox-make-surface-45ccf045.md) |
@@ -13310,9 +13349,11 @@
 | `github_search_satcom_satellites-6872bc1f7a15bb` | merbanan/rtl_433 | [open](records/satcom-satellites-merbanan-rtl-433-79075e21.md) |
 | `github_search_satcom_satellites-692c6abcf45e86` | gnss-sdr/gnss-sdr | [open](records/satcom-satellites-gnss-sdr-gnss-sdr-fc6d38a6.md) |
 | `github_search_satcom_satellites-69f193abb58966` | Unidata/gempak | [open](records/satcom-satellites-unidata-gempak-18ff07e6.md) |
+| `github_search_satcom_satellites-6a53266e990fa2` | antonjan/gnuradio-grc-examples | [open](records/satcom-satellites-antonjan-gnuradio-grc-examples-db27850c.md) |
 | `github_search_satcom_satellites-6c1706e1390f37` | RedhawkSDR/redhawk | [open](records/satcom-satellites-redhawksdr-redhawk-579f9599.md) |
 | `github_search_satcom_satellites-6c26f2ae8e0887` | gqrx-sdr/gqrx | [open](records/satcom-satellites-gqrx-sdr-gqrx-b09cf7a9.md) |
 | `github_search_satcom_satellites-6c4865b5220c16` | thebaldgeek/thebaldgeek.github.io | [open](records/satcom-satellites-thebaldgeek-thebaldgeek-github-io-2494b7a4.md) |
+| `github_search_satcom_satellites-6d78227b88f604` | pothosware/SoapySDRPlay3 | [open](records/satcom-satellites-pothosware-soapysdrplay3-16bfd183.md) |
 | `github_search_satcom_satellites-6fb614faa97cd3` | mapbox/rio-color | [open](records/satcom-satellites-mapbox-rio-color-165085d8.md) |
 | `github_search_satcom_satellites-70cfff9ab9ba70` | dslotter/HamPi | [open](records/satcom-satellites-dslotter-hampi-977a2524.md) |
 | `github_search_satcom_satellites-710f16c9bf4845` | JohnZiangas/Link-Budget-Modeling-for-Q-Band-LEO-Satellite-Communications-with-Adaptive-Coding-and-Modulation | [open](records/satcom-satellites-johnziangas-link-budget-modeling-for-q-band-leo-satellite-communications-with-adaptive-coding-and-modulation-72b8f9a2.md) |
@@ -13323,11 +13364,14 @@
 | `github_search_satcom_satellites-767fef6dd830fb` | jakiestfu/himawari.js | [open](records/satcom-satellites-jakiestfu-himawari-js-87bf981c.md) |
 | `github_search_satcom_satellites-7697e2e05f7092` | sshuair/torchsat | [open](records/satcom-satellites-sshuair-torchsat-b039098e.md) |
 | `github_search_satcom_satellites-76bb9fb7ca8fb1` | Mictronics/multi-sdr-gps-sim | [open](records/satcom-satellites-mictronics-multi-sdr-gps-sim-7a1a908a.md) |
+| `github_search_satcom_satellites-773c03e34e9ba3` | duggabe/gr-morse-code-gen | [open](records/satcom-satellites-duggabe-gr-morse-code-gen-435d7227.md) |
 | `github_search_satcom_satellites-779321c5150e8f` | Xerbo/aptdec | [open](records/satcom-satellites-xerbo-aptdec-2da9f6b3.md) |
 | `github_search_satcom_satellites-7868422b22e292` | DahnJ/EO-jobs | [open](records/satcom-satellites-dahnj-eo-jobs-976e2c28.md) |
 | `github_search_satcom_satellites-78acc95e0f3f4c` | IQEngine/IQEngine | [open](records/satcom-satellites-iqengine-iqengine-6f49568d.md) |
 | `github_search_satcom_satellites-7af1a03ec843af` | igorauad/gr-dvbs2rx | [open](records/satcom-satellites-igorauad-gr-dvbs2rx-f8d2fcf3.md) |
 | `github_search_satcom_satellites-7b1feb1a0f3de4` | gnuradio/pybombs | [open](records/satcom-satellites-gnuradio-pybombs-e89ab457.md) |
+| `github_search_satcom_satellites-7b84c2e3f9d4ab` | jx9527/FHSS-Hopping-Estimation | [open](records/satcom-satellites-jx9527-fhss-hopping-estimation-df3390c6.md) |
+| `github_search_satcom_satellites-7be52bd28e59d9` | gnuradio/greps | [open](records/satcom-satellites-gnuradio-greps-71108381.md) |
 | `github_search_satcom_satellites-7d5aedbe0a0652` | trehn/termtrack | [open](records/satcom-satellites-trehn-termtrack-8fc15287.md) |
 | `github_search_satcom_satellites-7e2a55aa09ac29` | robintw/Py6S | [open](records/satcom-satellites-robintw-py6s-607064f7.md) |
 | `github_search_satcom_satellites-7f93959f177a4d` | kscottz/PythonFromSpace | [open](records/satcom-satellites-kscottz-pythonfromspace-762715ec.md) |
@@ -13341,6 +13385,7 @@
 | `github_search_satcom_satellites-8bf1ec4ee7326b` | yanxian-ll/GS-SR | [open](records/satcom-satellites-yanxian-ll-gs-sr-4da75cd1.md) |
 | `github_search_satcom_satellites-8dbe26dfcb5488` | dernasherbrezon/r2cloud | [open](records/satcom-satellites-dernasherbrezon-r2cloud-d7412eaf.md) |
 | `github_search_satcom_satellites-8ff49ca12b3114` | alxndrsh/fpf | [open](records/satcom-satellites-alxndrsh-fpf-857e63cf.md) |
+| `github_search_satcom_satellites-934e26279b676e` | gnuradio/gr-bokehgui | [open](records/satcom-satellites-gnuradio-gr-bokehgui-61062031.md) |
 | `github_search_satcom_satellites-93c4fe47b6792f` | gnuradio/volk | [open](records/satcom-satellites-gnuradio-volk-0f78b28c.md) |
 | `github_search_satcom_satellites-93e4dd2bbaac74` | inigodelportillo/ITU-Rpy | [open](records/satcom-satellites-inigodelportillo-itu-rpy-e6621ca9.md) |
 | `github_search_satcom_satellites-9479b7b492cd74` | luigifcruz/pisdr-image | [open](records/satcom-satellites-luigifcruz-pisdr-image-8636fb80.md) |
@@ -13359,8 +13404,10 @@
 | `github_search_satcom_satellites-9d9263779eb6a4` | ComThings/PandwaRF | [open](records/satcom-satellites-comthings-pandwarf-87a203ee.md) |
 | `github_search_satcom_satellites-9e1e81518699ba` | dshekhalev/FEC | [open](records/satcom-satellites-dshekhalev-fec-79c4df54.md) |
 | `github_search_satcom_satellites-9e4bcaa10aae93` | pavel-demin/red-pitaya-notes | [open](records/satcom-satellites-pavel-demin-red-pitaya-notes-b86610cd.md) |
+| `github_search_satcom_satellites-9ea8f0be5187aa` | WVURAIL/gr-radio_astro | [open](records/satcom-satellites-wvurail-gr-radio-astro-61ef4079.md) |
 | `github_search_satcom_satellites-a19e7c5275227f` | Mejiro-McQueen/Bifrost | [open](records/satcom-satellites-mejiro-mcqueen-bifrost-545d8ca0.md) |
 | `github_search_satcom_satellites-a2ac1b78fa546d` | dawsonjon/PicoRX | [open](records/satcom-satellites-dawsonjon-picorx-3e4d55e0.md) |
+| `github_search_satcom_satellites-a2ff6e9849e786` | gnuradio/gnuradio4 | [open](records/satcom-satellites-gnuradio-gnuradio4-529b0c5b.md) |
 | `github_search_satcom_satellites-a47dbb7f80ae75` | watson/airplanejs | [open](records/satcom-satellites-watson-airplanejs-6d130187.md) |
 | `github_search_satcom_satellites-a4818ab81f6956` | FutureSDR/FutureSDR | [open](records/satcom-satellites-futuresdr-futuresdr-f779205c.md) |
 | `github_search_satcom_satellites-a498c397d03e43` | SysSec-KAIST/LTESniffer | [open](records/satcom-satellites-syssec-kaist-ltesniffer-4e2fb4dd.md) |
@@ -13368,22 +13415,29 @@
 | `github_search_satcom_satellites-a5eba6c6891c56` | nullpainter/sanchez | [open](records/satcom-satellites-nullpainter-sanchez-10cc31e0.md) |
 | `github_search_satcom_satellites-a5f856d40faabf` | Soul-AILab/SoulX-Transcriber | [open](records/satcom-satellites-soul-ailab-soulx-transcriber-80b73c2b.md) |
 | `github_search_satcom_satellites-a7ddeceb977b27` | Muhammaduazir69/ns3-ntn-toolkit | [open](records/satcom-satellites-muhammaduazir69-ns3-ntn-toolkit-5e9691a1.md) |
+| `github_search_satcom_satellites-a86671992ba996` | ScanOC/trunk-player | [open](records/satcom-satellites-scanoc-trunk-player-bc5f4f13.md) |
 | `github_search_satcom_satellites-a86895ad60180f` | cceremuga/pypacket | [open](records/satcom-satellites-cceremuga-pypacket-59a58ccc.md) |
 | `github_search_satcom_satellites-a8c5cae90417a9` | BatchDrake/SigDigger | [open](records/satcom-satellites-batchdrake-sigdigger-3f7ec5e8.md) |
 | `github_search_satcom_satellites-a90deba10a781a` | sabbir-uoulu/open-source-5g-ntn-leo | [open](records/satcom-satellites-sabbir-uoulu-open-source-5g-ntn-leo-2980cc7d.md) |
 | `github_search_satcom_satellites-a965df904b7c12` | daniestevez/gr-satellites | [open](records/satcom-satellites-daniestevez-gr-satellites-e33d9ffc.md) |
+| `github_search_satcom_satellites-aaebd3871f7d18` | 0xh4di/GSMDecryption | [open](records/satcom-satellites-0xh4di-gsmdecryption-aab51ee8.md) |
+| `github_search_satcom_satellites-ac95b1ed87f5c5` | aboulogeorgos/Wireless-communication-systems-Lab | [open](records/satcom-satellites-aboulogeorgos-wireless-communication-systems-lab-51897286.md) |
 | `github_search_satcom_satellites-ad0446c37f15b8` | VSainteuf/lightweight-temporal-attention-pytorch | [open](records/satcom-satellites-vsainteuf-lightweight-temporal-attention-pytorch-11bc2e8f.md) |
 | `github_search_satcom_satellites-ae68b884ca0d49` | jayin92/Skyfall-GS | [open](records/satcom-satellites-jayin92-skyfall-gs-e8526276.md) |
 | `github_search_satcom_satellites-ae776c0a6af137` | ossimlabs/ossim | [open](records/satcom-satellites-ossimlabs-ossim-70eed7a3.md) |
+| `github_search_satcom_satellites-afaed2aa8aae76` | satnogs/gr-satnogs | [open](records/satcom-satellites-satnogs-gr-satnogs-90fdb9fb.md) |
 | `github_search_satcom_satellites-afd5f6f878e8ed` | AlbrechtL/welle.io | [open](records/satcom-satellites-albrechtl-welle-io-a00798d6.md) |
+| `github_search_satcom_satellites-b028e38a12415f` | dimitriblock/gr-cheatsheet | [open](records/satcom-satellites-dimitriblock-gr-cheatsheet-302c9310.md) |
 | `github_search_satcom_satellites-b23e8f22ebbbbd` | doersino/aerialbot | [open](records/satcom-satellites-doersino-aerialbot-90667c1c.md) |
 | `github_search_satcom_satellites-b368a480eb83b9` | opengeos/qgis-gee-data-catalogs-plugin | [open](records/satcom-satellites-opengeos-qgis-gee-data-catalogs-plugin-0c617200.md) |
 | `github_search_satcom_satellites-b4411816ed4076` | BitBangingBytes/gr-smart_meters | [open](records/satcom-satellites-bitbangingbytes-gr-smart-meters-4a6e02bf.md) |
 | `github_search_satcom_satellites-b4fcfac2a8cfbb` | jgrss/geowombat | [open](records/satcom-satellites-jgrss-geowombat-9fded595.md) |
 | `github_search_satcom_satellites-b7ce3a7f01c2bf` | cn0xroot/RFSec-ToolKit | [open](records/satcom-satellites-cn0xroot-rfsec-toolkit-4ac77378.md) |
 | `github_search_satcom_satellites-b895e35b3d6899` | codyd51/gypsum | [open](records/satcom-satellites-codyd51-gypsum-367a7afa.md) |
+| `github_search_satcom_satellites-b8d1e81968f7e2` | gnuradio/gr-recipes | [open](records/satcom-satellites-gnuradio-gr-recipes-b5cf9712.md) |
 | `github_search_satcom_satellites-bb22e6f6fc51ae` | ameraner/dsen2-cr | [open](records/satcom-satellites-ameraner-dsen2-cr-ac4429cc.md) |
 | `github_search_satcom_satellites-bcbee78831ef01` | githubsatelliteworkshops/codeql | [open](records/satcom-satellites-githubsatelliteworkshops-codeql-9d99324c.md) |
+| `github_search_satcom_satellites-bd54088950a6c1` | pothosware/SoapySDRPlay2 | [open](records/satcom-satellites-pothosware-soapysdrplay2-17485e30.md) |
 | `github_search_satcom_satellites-bdde581a2c54a3` | pagermon/pagermon | [open](records/satcom-satellites-pagermon-pagermon-58c2dc57.md) |
 | `github_search_satcom_satellites-be0d6aaeeca762` | TrunkRecorder/trunk-recorder | [open](records/satcom-satellites-trunkrecorder-trunk-recorder-7832a301.md) |
 | `github_search_satcom_satellites-be3c867cbebd07` | mapbox/mbutil | [open](records/satcom-satellites-mapbox-mbutil-070c5b53.md) |
@@ -13401,14 +13455,18 @@
 | `github_search_satcom_satellites-c65ff71689f8c0` | CCSDSPy/ccsdspy | [open](records/satcom-satellites-ccsdspy-ccsdspy-6643ef17.md) |
 | `github_search_satcom_satellites-c6c73f152aeaa1` | opensatelliteproject/goesdump | [open](records/satcom-satellites-opensatelliteproject-goesdump-3bcaacfa.md) |
 | `github_search_satcom_satellites-c95a67cf11eab3` | opengeos/qgis-timelapse-plugin | [open](records/satcom-satellites-opengeos-qgis-timelapse-plugin-8e69e131.md) |
+| `github_search_satcom_satellites-c97f57e3143a62` | hcab14/gr-kiwisdr | [open](records/satcom-satellites-hcab14-gr-kiwisdr-c693a62c.md) |
 | `github_search_satcom_satellites-caf03eb7c29457` | sam210723/COMS-1 | [open](records/satcom-satellites-sam210723-coms-1-fe0ec3b6.md) |
 | `github_search_satcom_satellites-caf29cf61696c2` | Thom-x/docker-fr24feed-piaware-dump1090 | [open](records/satcom-satellites-thom-x-docker-fr24feed-piaware-dump1090-160edf4c.md) |
 | `github_search_satcom_satellites-cc11187bc97d21` | lofaldli/gr-ccsds | [open](records/satcom-satellites-lofaldli-gr-ccsds-39725eca.md) |
+| `github_search_satcom_satellites-cdb6639f183f01` | ghostop14/gr-lfast | [open](records/satcom-satellites-ghostop14-gr-lfast-87ce6af8.md) |
 | `github_search_satcom_satellites-cee0e1d0c21fc2` | mendhak/gpslogger | [open](records/satcom-satellites-mendhak-gpslogger-84bde361.md) |
 | `github_search_satcom_satellites-d2c220c8bf0891` | mapbox/mapbox-cli-py | [open](records/satcom-satellites-mapbox-mapbox-cli-py-aa4771ac.md) |
+| `github_search_satcom_satellites-d3008fd083d7eb` | gyaresu/sdr | [open](records/satcom-satellites-gyaresu-sdr-c64ce8a6.md) |
 | `github_search_satcom_satellites-d3f23476f2bd0a` | ExoSpaceLabs/CCSDSPack | [open](records/satcom-satellites-exospacelabs-ccsdspack-0508282a.md) |
 | `github_search_satcom_satellites-d432b7b7fa04e1` | vsergeev/luaradio | [open](records/satcom-satellites-vsergeev-luaradio-3028bf65.md) |
 | `github_search_satcom_satellites-d476ab55ec94d4` | gnuradio/gnuradio | [open](records/satcom-satellites-gnuradio-gnuradio-28a3e264.md) |
+| `github_search_satcom_satellites-d55f500cd65cdd` | cn0xroot/gr-replay | [open](records/satcom-satellites-cn0xroot-gr-replay-ac89c8ee.md) |
 | `github_search_satcom_satellites-d6885f2dffacc6` | mhostetter/gr-adsb | [open](records/satcom-satellites-mhostetter-gr-adsb-0a37363b.md) |
 | `github_search_satcom_satellites-d6933a298a6498` | srsran/srsRAN_Project | [open](records/satcom-satellites-srsran-srsran-project-c60d2e9c.md) |
 | `github_search_satcom_satellites-d76df55634126b` | GeoTIFF/geotiff.io | [open](records/satcom-satellites-geotiff-geotiff-io-083eda43.md) |
@@ -13418,21 +13476,28 @@
 | `github_search_satcom_satellites-dcf33e1c265ef2` | f4exb/sdrangel | [open](records/satcom-satellites-f4exb-sdrangel-2094320b.md) |
 | `github_search_satcom_satellites-dd255040930d4e` | lukeswitz/DragonSync-iOS | [open](records/satcom-satellites-lukeswitz-dragonsync-ios-158c7b79.md) |
 | `github_search_satcom_satellites-dd7701c9e56725` | Jimut123/jimutmap | [open](records/satcom-satellites-jimut123-jimutmap-0f303a49.md) |
+| `github_search_satcom_satellites-e079af9090d277` | anfractuosity/ultrasonicnetworking | [open](records/satcom-satellites-anfractuosity-ultrasonicnetworking-009490a4.md) |
+| `github_search_satcom_satellites-e22b6b093ce1f0` | dernasherbrezon/jradio | [open](records/satcom-satellites-dernasherbrezon-jradio-5b3316f1.md) |
 | `github_search_satcom_satellites-e492e53a8fb736` | luigifcruz/CyberEther | [open](records/satcom-satellites-luigifcruz-cyberether-8f6bc0f0.md) |
 | `github_search_satcom_satellites-e53e5c4bcae8fe` | egemenimre/ccsds-ndm | [open](records/satcom-satellites-egemenimre-ccsds-ndm-f247583a.md) |
 | `github_search_satcom_satellites-e72858f0b26f72` | joshuaferrara/go-satellite | [open](records/satcom-satellites-joshuaferrara-go-satellite-adf32609.md) |
 | `github_search_satcom_satellites-e7ade408676566` | dividebysandwich/sdroxide | [open](records/satcom-satellites-dividebysandwich-sdroxide-b0d1a434.md) |
 | `github_search_satcom_satellites-e86f10986a6e04` | rt-bishop/Look4Sat | [open](records/satcom-satellites-rt-bishop-look4sat-0d14c7cd.md) |
+| `github_search_satcom_satellites-e8ba6f6062adae` | danalvarez/gr-quetzal1 | [open](records/satcom-satellites-danalvarez-gr-quetzal1-70370ed8.md) |
 | `github_search_satcom_satellites-eaf212649b2548` | TLeconte/acarsdec | [open](records/satcom-satellites-tleconte-acarsdec-9333c48e.md) |
+| `github_search_satcom_satellites-ecec838f9365c7` | ghostop14/gr-clenabled | [open](records/satcom-satellites-ghostop14-gr-clenabled-79a1c383.md) |
 | `github_search_satcom_satellites-edbb0a233473e3` | GeoTIFF/georaster | [open](records/satcom-satellites-geotiff-georaster-f7f81e47.md) |
 | `github_search_satcom_satellites-ee11b9448c2f68` | GeoTIFF/georaster-layer-for-leaflet | [open](records/satcom-satellites-geotiff-georaster-layer-for-leaflet-aa207087.md) |
+| `github_search_satcom_satellites-ee51104b73482d` | WVURAIL/dspira | [open](records/satcom-satellites-wvurail-dspira-970c516f.md) |
 | `github_search_satcom_satellites-efac40d8ed18f1` | shajen/rtl-sdr-scanner-cpp | [open](records/satcom-satellites-shajen-rtl-sdr-scanner-cpp-92145041.md) |
 | `github_search_satcom_satellites-f0dcc6c783a735` | analogdevicesinc/plutosdr-fw | [open](records/satcom-satellites-analogdevicesinc-plutosdr-fw-a29d6db0.md) |
 | `github_search_satcom_satellites-f1af745b6d2d6c` | cbassa/sattools | [open](records/satcom-satellites-cbassa-sattools-af822dfc.md) |
 | `github_search_satcom_satellites-f2760bca55caf8` | F5OEO/tezuka_fw | [open](records/satcom-satellites-f5oeo-tezuka-fw-a63d9bef.md) |
 | `github_search_satcom_satellites-f314490c5cbd6a` | airframesio/xng | [open](records/satcom-satellites-airframesio-xng-5cd5b6f4.md) |
+| `github_search_satcom_satellites-f41739d5f2a588` | gnuradio/gr-etcetera | [open](records/satcom-satellites-gnuradio-gr-etcetera-409b714d.md) |
 | `github_search_satcom_satellites-f45087d957d652` | IgrikXD/Easy-SDR | [open](records/satcom-satellites-igrikxd-easy-sdr-1c720f8c.md) |
 | `github_search_satcom_satellites-f4fdf717f7e436` | filipsPL/autowx2 | [open](records/satcom-satellites-filipspl-autowx2-f68452a6.md) |
+| `github_search_satcom_satellites-f5282aaa7a33a4` | analogdevicesinc/gr-iio | [open](records/satcom-satellites-analogdevicesinc-gr-iio-e7f28c5e.md) |
 | `github_search_satcom_satellites-f535a531e964b5` | pothosware/PothosCore | [open](records/satcom-satellites-pothosware-pothoscore-567d3d6d.md) |
 | `github_search_satcom_satellites-f66241544bffc3` | The-Osint-Toolbox/Geolocation-OSINT | [open](records/satcom-satellites-the-osint-toolbox-geolocation-osint-51d3da78.md) |
 | `github_search_satcom_satellites-f81219181d2c0f` | architek/ccsds-standalone | [open](records/satcom-satellites-architek-ccsds-standalone-ec3b3382.md) |
@@ -13443,6 +13508,8 @@
 | `github_search_satcom_satellites-fd106c6aa3eef9` | martinber/noaa-apt | [open](records/satcom-satellites-martinber-noaa-apt-d4c032f7.md) |
 | `github_search_satcom_satellites-fd3600addabc1c` | jks-prv/Beagle_SDR_GPS | [open](records/satcom-satellites-jks-prv-beagle-sdr-gps-4364e3c7.md) |
 | `github_search_satcom_satellites-fd6d47738a61c0` | psyb0t/piraterf | [open](records/satcom-satellites-psyb0t-piraterf-2ce4cd0f.md) |
+| `github_search_satcom_satellites-fdaea214aae2a4` | erstrom/gnuradio-projects | [open](records/satcom-satellites-erstrom-gnuradio-projects-df19df77.md) |
+| `github_search_satcom_satellites-fe45dc1eac1b9a` | myriadrf/ScratchRadio | [open](records/satcom-satellites-myriadrf-scratchradio-9ada1aff.md) |
 | `github_search_satcom_satellites-fe8015e227dcdd` | brian-armstrong/fec | [open](records/satcom-satellites-brian-armstrong-fec-b785fbe7.md) |
 | `github_search_satcom_satellites-ff3918b02d7dc4` | mapbox/supermercado | [open](records/satcom-satellites-mapbox-supermercado-af3630f0.md) |
 | `github_search_satcom_satellites-ff5db3aa37b991` | tanagraspace/ccsds124 | [open](records/satcom-satellites-tanagraspace-ccsds124-4a510e88.md) |
@@ -16784,6 +16851,7 @@
 | `hackage_recent-1f5b1e2f93bac6` | ppad-aead | [open](records/haskell-ppad-aead-dc2d6455.md) |
 | `hackage_recent-1f69dbd7dfac1e` | secretspec | [open](records/haskell-secretspec-dd9d987d.md) |
 | `hackage_recent-1ff7b0c59c3981` | bugsnag-yesod | [open](records/haskell-bugsnag-yesod-b94b89ea.md) |
+| `hackage_recent-207f02f36f7529` | hhp | [open](records/haskell-hhp-f30f7714.md) |
 | `hackage_recent-2c80f696145345` | kioku-core | [open](records/haskell-kioku-core-38935c2c.md) |
 | `hackage_recent-2e5eb175e39bb5` | peg-matching | [open](records/haskell-peg-matching-8b470238.md) |
 | `hackage_recent-2ea0355e73efdb` | keel-dyn | [open](records/haskell-keel-dyn-2d5e1e3a.md) |
@@ -16795,6 +16863,7 @@
 | `hackage_recent-36f4a9a68d187b` | ktx-font | [open](records/haskell-ktx-font-8c048a63.md) |
 | `hackage_recent-37353658c3dd2d` | hsinstall | [open](records/haskell-hsinstall-b4fd04ed.md) |
 | `hackage_recent-3b809eae641976` | htalkat | [open](records/haskell-htalkat-763c1531.md) |
+| `hackage_recent-3df5a920067541` | keid-render-basic | [open](records/haskell-keid-render-basic-d12c2edc.md) |
 | `hackage_recent-4991588be3e093` | data-rfc5280 | [open](records/haskell-data-rfc5280-fa027eaf.md) |
 | `hackage_recent-4c746b3da5448e` | freckle-otel | [open](records/haskell-freckle-otel-14553b97.md) |
 | `hackage_recent-560e75fc58d6d8` | vcs-ignore | [open](records/haskell-vcs-ignore-b594cffb.md) |
@@ -16813,7 +16882,6 @@
 | `hackage_recent-792e7e5061c2b3` | exchangealgebra | [open](records/haskell-exchangealgebra-c5300b87.md) |
 | `hackage_recent-7b9b3700445a16` | kb-text-layout | [open](records/haskell-kb-text-layout-134bb424.md) |
 | `hackage_recent-7e6eeb91445d92` | aihc-parser | [open](records/haskell-aihc-parser-d88ae54b.md) |
-| `hackage_recent-7e798823e81409` | crypton | [open](records/haskell-crypton-7cba2161.md) |
 | `hackage_recent-85b70f81457859` | tricorder-mcp | [open](records/haskell-tricorder-mcp-95664038.md) |
 | `hackage_recent-8f02f0b40516b7` | ephemeral-pg | [open](records/haskell-ephemeral-pg-bde54662.md) |
 | `hackage_recent-8f6b763e7985db` | mini | [open](records/haskell-mini-8b13af00.md) |
@@ -16821,6 +16889,7 @@
 | `hackage_recent-8fb4d38b9dd5fa` | xdg-desktop-entry | [open](records/haskell-xdg-desktop-entry-67d26242.md) |
 | `hackage_recent-9259bbdab92e2c` | hpgsql-simple-compat | [open](records/haskell-hpgsql-simple-compat-d03e91c2.md) |
 | `hackage_recent-93412bbaff519b` | kioku-migrations | [open](records/haskell-kioku-migrations-2c5f56b2.md) |
+| `hackage_recent-93416aea04be39` | keid-core | [open](records/haskell-keid-core-a3329238.md) |
 | `hackage_recent-9407f3530f90ff` | inj | [open](records/haskell-inj-59be0a7a.md) |
 | `hackage_recent-94a17d896d7b10` | keel-linalg | [open](records/haskell-keel-linalg-b9103a9e.md) |
 | `hackage_recent-97f6ea084a646c` | ditto | [open](records/haskell-ditto-7725d95c.md) |
@@ -17184,7 +17253,6 @@
 | `hackage_top_downloads-3d7e9f46dffdff` | ghc-exactprint | [open](records/haskell-ghc-exactprint-fecd74ca.md) |
 | `hackage_top_downloads-3d7fb945485e4c` | archlinux | [open](records/haskell-archlinux-b3826fbf.md) |
 | `hackage_top_downloads-3dc826947ee107` | haskell-src-exts | [open](records/haskell-haskell-src-exts-7ffb1093.md) |
-| `hackage_top_downloads-3df5a920067541` | keid-render-basic | [open](records/haskell-keid-render-basic-d12c2edc.md) |
 | `hackage_top_downloads-3e520d55f1e39d` | witherable | [open](records/haskell-witherable-b295dba2.md) |
 | `hackage_top_downloads-3e600f3b8c1469` | morpheus-graphql | [open](records/haskell-morpheus-graphql-dc2c431b.md) |
 | `hackage_top_downloads-3e6d8a9af4a923` | secp256k1 | [open](records/haskell-secp256k1-67f02385.md) |
@@ -17512,6 +17580,7 @@
 | `hackage_top_downloads-7de0f48b36aec5` | amazonka-efs | [open](records/haskell-amazonka-efs-f2690b5b.md) |
 | `hackage_top_downloads-7e20dd4d06b2c8` | copilot-c99 | [open](records/haskell-copilot-c99-2dc52a93.md) |
 | `hackage_top_downloads-7e4614451a6d74` | splitmix | [open](records/haskell-splitmix-c850ca5b.md) |
+| `hackage_top_downloads-7e798823e81409` | crypton | [open](records/haskell-crypton-7cba2161.md) |
 | `hackage_top_downloads-7f046307368624` | binary-strict | [open](records/haskell-binary-strict-f4f06bf9.md) |
 | `hackage_top_downloads-7f353404477278` | telegram-bot-simple | [open](records/haskell-telegram-bot-simple-55b20d4e.md) |
 | `hackage_top_downloads-7f9fc28ae76bd3` | reflection | [open](records/haskell-reflection-e31cd831.md) |
