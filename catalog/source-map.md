@@ -11,16 +11,16 @@
 [Cryptography (174)](by-category/cryptography.md) · [Data Science (38)](by-category/data-science.md) · [Database Datastore (890)](by-category/database-datastore.md) · [Datetime (228)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (101)](by-category/dependency-manager.md) · [Documentation (103)](by-category/documentation.md)
 [Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (454)](by-category/ffi-bindings.md) · [Filesystem Os (1584)](by-category/filesystem-os.md) · [Formatter (644)](by-category/formatter.md)
-[Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (355)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1453)](by-category/ide-editor-integration.md)
+[Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (355)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1454)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (268)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (29)](by-category/language-server.md) · [Language Specification (1432)](by-category/language-specification.md) · [Library (5629)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (29)](by-category/language-server.md) · [Language Specification (1432)](by-category/language-specification.md) · [Library (5630)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (520)](by-category/logging-observability.md) · [Machine Learning (788)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1035)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (441)](by-category/package-manager.md) · [Parser Lexer Ast (1137)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (302)](by-category/precommit-ci-quality.md)
 [Profiler (87)](by-category/profiler.md) · [Project Scaffolding (133)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (15)](by-category/sanitizer.md)
 [Security Sast (336)](by-category/security-sast.md) · [Serialization (395)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (605)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (606)](by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](by-category/tutorial-book-styleguide.md) · [Type Checker (313)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1606)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (551)](by-category/visualization-gui.md) · [Web Framework (476)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1606)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (552)](by-category/visualization-gui.md) · [Web Framework (476)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -6648,6 +6648,7 @@
 | `github_search_audio-e7f2e0a05c6237` | Ameobea/web-synth | [open](records/audio-ameobea-web-synth-bbcd97d3.md) |
 | `github_search_audio-e85afb37f25139` | GeekyEggo/SoundDeck | [open](records/audio-geekyeggo-sounddeck-4b9cf71b.md) |
 | `github_search_audio-e9c3e5d124f95b` | peastman/sso | [open](records/audio-peastman-sso-158443d0.md) |
+| `github_search_audio-e9c8d2334b6f53` | Lake1059/FFmpegFreeUI | [open](records/audio-lake1059-ffmpegfreeui-be2fb128.md) |
 | `github_search_audio-ea8142cbf7b7a7` | stargatedaw/stargate | [open](records/audio-stargatedaw-stargate-e111682e.md) |
 | `github_search_audio-ead0d5ee33e1d9` | surge-synthesizer/surge | [open](records/audio-surge-synthesizer-surge-87b5aeea.md) |
 | `github_search_audio-ebf512d7236b28` | AudioKit/AudioKitSynthOne | [open](records/audio-audiokit-audiokitsynthone-f3e02e66.md) |
@@ -8418,6 +8419,7 @@
 | `github_search_effects-8590373979c283` | keijiro/KinoTube | [open](records/effects-keijiro-kinotube-1e1a1ef1.md) |
 | `github_search_effects-85d9bc95d146f4` | nvpro-samples/vk_toon_shader | [open](records/effects-nvpro-samples-vk-toon-shader-7c3ffe89.md) |
 | `github_search_effects-85f5d85229b272` | malbiruk/driftwm | [open](records/effects-malbiruk-driftwm-7fb2ce7f.md) |
+| `github_search_effects-8646a5048b30e7` | fuddlesworth/PlasmaZones | [open](records/effects-fuddlesworth-plasmazones-25db8a0f.md) |
 | `github_search_effects-86b14337e9d540` | maia-sdr/maia-sdr | [open](records/effects-maia-sdr-maia-sdr-88e8ecf8.md) |
 | `github_search_effects-8703c5807b3a74` | tiagolr/ripplerx | [open](records/effects-tiagolr-ripplerx-f333e2b5.md) |
 | `github_search_effects-870df338edd12e` | pwambach/threejs-particle-shader | [open](records/effects-pwambach-threejs-particle-shader-4e1a29c3.md) |
@@ -15125,6 +15127,7 @@
 | `github_search_video-a2a7d380635fc4` | doubleZ0108/Digital-Media-Technology-PKU | [open](records/video-doublez0108-digital-media-technology-pku-8ed0714e.md) |
 | `github_search_video-a2f63b5490f722` | smacke/ffsubsync | [open](records/video-smacke-ffsubsync-c6a306cc.md) |
 | `github_search_video-a355643c292049` | aiortc/aiortc | [open](records/video-aiortc-aiortc-7e43cafe.md) |
+| `github_search_video-a40b9c840ac6ef` | Lake1059/FFmpegFreeUI | [open](records/video-lake1059-ffmpegfreeui-881ebe0f.md) |
 | `github_search_video-a42d7a608d505d` | paulpacifico/shutter-encoder | [open](records/video-paulpacifico-shutter-encoder-30ff5e80.md) |
 | `github_search_video-a4696ffc36b715` | HaveAGitGat/Tdarr | [open](records/video-haveagitgat-tdarr-91bd4936.md) |
 | `github_search_video-a4e93c6aef0c15` | s60sc/ESP32-CAM_MJPEG2SD | [open](records/video-s60sc-esp32-cam-mjpeg2sd-8d8f86e0.md) |

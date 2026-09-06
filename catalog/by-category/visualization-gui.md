@@ -1,6 +1,6 @@
 # Visualization Gui
 
-Records: `551`
+Records: `552`
 
 ## Navigation
 
@@ -15,16 +15,16 @@ Records: `551`
 [Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (890)](database-datastore.md) · [Datetime (228)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (454)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (644)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1453)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1454)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (268)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5629)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5630)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1137)](parser-lexer-ast.md) · [Precommit Ci Quality (302)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (605)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · **[Visualization Gui (551)](visualization-gui.md)** · [Web Framework (476)](web-framework.md)
+[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · **[Visualization Gui (552)](visualization-gui.md)** · [Web Framework (476)](web-framework.md)
 
 ## C++23
 
@@ -510,7 +510,7 @@ Records: `551`
 | despoisj/LatentSpaceVisualization | partial | 2021-07-26T19:43:51Z | [open](../records/space-maps-despoisj-latentspacevisualization-2f2ac115.md) |
 | dnemec/SPICE-Libraries | partial | 2018-08-03T00:49:47Z | [open](../records/space-maps-dnemec-spice-libraries-14b85037.md) |
 | drifter1/circuitsim | partial | 2026-03-14T13:30:19Z | [open](../records/space-maps-drifter1-circuitsim-ffe82388.md) |
-| eelab-dev/EEcircuit | partial | 2026-09-04T04:09:58Z | [open](../records/space-maps-eelab-dev-eecircuit-3d239729.md) |
+| eelab-dev/EEcircuit | partial | 2026-09-06T03:25:12Z | [open](../records/space-maps-eelab-dev-eecircuit-3d239729.md) |
 | ESA Sky | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-maps-esa-sky-507149dd.md) |
 | facebookresearch/MultiModalExplorer | partial | 2024-05-16T10:32:56Z | [open](../records/space-maps-facebookresearch-multimodalexplorer-41476dd9.md) |
 | Farhad8797/solar-system-threejs | partial | 2026-08-12T13:38:07Z | [open](../records/space-maps-farhad8797-solar-system-threejs-fb3c2e47.md) |
@@ -592,6 +592,7 @@ Records: `551`
 | dwhinham/mt32-pi | partial | 2025-02-04T22:46:21Z | [open](../records/audio-dwhinham-mt32-pi-7a87163b.md) |
 | jatinchowdhury18/Bad-Circuit-Modelling | partial | 2020-12-08T20:46:46Z | [open](../records/audio-jatinchowdhury18-bad-circuit-modelling-c65762b2.md) |
 | jatinchowdhury18/KlonCentaur | partial | 2021-09-30T04:26:33Z | [open](../records/audio-jatinchowdhury18-kloncentaur-2ceba457.md) |
+| Lake1059/FFmpegFreeUI | partial | 2026-09-05T16:15:16Z | [open](../records/audio-lake1059-ffmpegfreeui-be2fb128.md) |
 | monomadic/dd-core | partial | 2019-01-14T07:21:52Z | [open](../records/audio-monomadic-dd-core-a1124514.md) |
 | pierreguillot/Camomile | partial | 2024-02-26T10:06:47Z | [open](../records/audio-pierreguillot-camomile-eeeac032.md) |
 | pschatzmann/arduino-audio-tools | partial | 2026-09-04T10:34:28Z | [open](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) |

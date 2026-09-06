@@ -15,16 +15,16 @@ Records: `302`
 [Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (890)](database-datastore.md) · [Datetime (228)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (454)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (644)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1453)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1454)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (268)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5629)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5630)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1137)](parser-lexer-ast.md) · **[Precommit Ci Quality (302)](precommit-ci-quality.md)**
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (605)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (551)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (552)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C++23
 
@@ -391,7 +391,7 @@ Records: `302`
 | besscroft/PicImpact | partial | 2026-07-03T13:33:00Z | [open](../records/photography-besscroft-picimpact-0dc1368b.md) |
 | boltgolt/howdy | partial | 2025-07-29T10:07:27Z | [open](../records/photography-boltgolt-howdy-772dcbb3.md) |
 | deric/DaVinciResolve-metadata | partial | 2025-10-13T08:04:47Z | [open](../records/photography-deric-davinciresolve-metadata-8a13e074.md) |
-| marcinz606/NegPy | partial | 2026-09-04T19:41:48Z | [open](../records/photography-marcinz606-negpy-13e4113f.md) |
+| marcinz606/NegPy | partial | 2026-09-05T18:53:28Z | [open](../records/photography-marcinz606-negpy-13e4113f.md) |
 | ramokz/phantom-camera | partial | 2026-09-01T20:36:49Z | [open](../records/photography-ramokz-phantom-camera-07b158cf.md) |
 | showmewebcam/showmewebcam | partial | 2024-08-14T16:42:44Z | [open](../records/photography-showmewebcam-showmewebcam-cd9dcd31.md) |
 | SpecialKO/SpecialK | partial | 2026-08-31T22:39:56Z | [open](../records/photography-specialko-specialk-d14b8655.md) |

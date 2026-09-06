@@ -15,16 +15,16 @@ Records: `1035`
 [Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (890)](database-datastore.md) · [Datetime (228)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (454)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (644)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1453)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1454)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (268)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5629)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5630)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1035)](networking-http.md)**
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1137)](parser-lexer-ast.md) · [Precommit Ci Quality (302)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (605)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (551)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (552)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C99
 
@@ -770,7 +770,7 @@ Records: `1035`
 | --- | --- | --- | --- |
 | ChimeraCoder/anaconda | partial | 2024-01-28T15:07:20Z | [open](../records/go-chimeracoder-anaconda-6a61e747.md) |
 | g3n/engine | partial | 2026-08-01T16:23:05Z | [open](../records/go-g3n-engine-0b367039.md) |
-| go-resty/resty | partial | 2026-09-05T18:09:44Z | [open](../records/go-go-resty-resty-9cfada1b.md) |
+| go-resty/resty | partial | 2026-09-06T04:00:18Z | [open](../records/go-go-resty-resty-9cfada1b.md) |
 | redis/go-redis | partial | 2026-09-05T11:29:17Z | [open](../records/go-redis-go-redis-fe715a04.md) |
 | spicetify/cli | partial | 2026-09-05T23:08:41Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
 | teler-sh/teler-waf | partial | 2025-03-18T01:40:27Z | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
@@ -914,7 +914,7 @@ Records: `1035`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Corsinvest/cv4pve-vdi | partial | 2026-07-30T17:05:15Z | [open](../records/space-maps-corsinvest-cv4pve-vdi-bc170682.md) |
-| electerm/electerm | partial | 2026-09-05T13:02:13Z | [open](../records/space-maps-electerm-electerm-8c5dc479.md) |
+| electerm/electerm | partial | 2026-09-06T00:58:48Z | [open](../records/space-maps-electerm-electerm-8c5dc479.md) |
 | fat/space-tweet | partial | 2025-12-23T00:46:18Z | [open](../records/space-maps-fat-space-tweet-f2d19386.md) |
 | FreeRDP/Remmina | partial | 2026-02-08T19:09:55Z | [open](../records/space-maps-freerdp-remmina-5536d2a1.md) |
 | fujiaze/Gaia-DR3-DR3SP-Client-C | partial | 2026-07-24T09:41:47Z | [open](../records/space-maps-fujiaze-gaia-dr3-dr3sp-client-c-536e618d.md) |
@@ -956,7 +956,7 @@ Records: `1035`
 | apohl79/audiogridder | partial | 2024-07-31T08:38:20Z | [open](../records/audio-apohl79-audiogridder-b399a5d3.md) |
 | cvqluu/TDNN | partial | 2019-11-21T10:07:55Z | [open](../records/audio-cvqluu-tdnn-fb6a7ffe.md) |
 | drethage/speech-denoising-wavenet | partial | 2023-07-06T21:12:03Z | [open](../records/audio-drethage-speech-denoising-wavenet-dd81add3.md) |
-| FFmpeg/FFmpeg | partial | 2026-09-05T12:00:02Z | [open](../records/audio-ffmpeg-ffmpeg-e29098d1.md) |
+| FFmpeg/FFmpeg | partial | 2026-09-06T03:56:20Z | [open](../records/audio-ffmpeg-ffmpeg-e29098d1.md) |
 | hannesbraun/airwindows-lv2 | partial | 2025-11-27T12:32:25Z | [open](../records/audio-hannesbraun-airwindows-lv2-77a8604e.md) |
 | huckiyang/QuantumSpeech-QCNN | partial | 2023-01-22T16:06:05Z | [open](../records/audio-huckiyang-quantumspeech-qcnn-75d646b8.md) |
 | jtkim-kaist/Speech-enhancement | partial | 2019-06-14T14:15:05Z | [open](../records/audio-jtkim-kaist-speech-enhancement-2afa11e8.md) |

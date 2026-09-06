@@ -15,16 +15,16 @@ Records: `454`
 [Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (890)](database-datastore.md) · [Datetime (228)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (59)](embedded-hardware.md) · **[Ffi Bindings (454)](ffi-bindings.md)** · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (644)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1453)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1454)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (268)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5629)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5630)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1137)](parser-lexer-ast.md) · [Precommit Ci Quality (302)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (605)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (551)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (552)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C++23
 
@@ -510,7 +510,7 @@ Records: `454`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | bmcfee/resampy | partial | 2024-09-30T15:36:46Z | [open](../records/audio-bmcfee-resampy-b1b68a4d.md) |
-| dotnet/Silk.NET | partial | 2026-08-30T23:17:37Z | [open](../records/audio-dotnet-silk-net-d83f3a2e.md) |
+| dotnet/Silk.NET | partial | 2026-09-05T17:39:24Z | [open](../records/audio-dotnet-silk-net-d83f3a2e.md) |
 | gopher-atz/4klang | partial | 2025-10-05T01:39:22Z | [open](../records/audio-gopher-atz-4klang-e6dac937.md) |
 | gopher-atz/64klang | partial | 2026-07-20T21:12:21Z | [open](../records/audio-gopher-atz-64klang-9d53cc3c.md) |
 | haoxiangsnr/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement | partial | 2020-09-05T00:50:59Z | [open](../records/audio-haoxiangsnr-a-convolutional-recurrent-neural-network-for-real-time-speech-enhancement-0b300d82.md) |
@@ -519,7 +519,7 @@ Records: `454`
 | NVIDIA/CleanUNet | partial | 2023-10-11T12:13:16Z | [open](../records/audio-nvidia-cleanunet-4f0d4cbc.md) |
 | rishikksh20/SoundStorm-pytorch | partial | 2023-08-08T11:38:22Z | [open](../records/audio-rishikksh20-soundstorm-pytorch-1c8a7ca2.md) |
 | ShawnPi233/HQ-SVC | partial | 2026-06-17T17:55:10Z | [open](../records/audio-shawnpi233-hq-svc-5552f326.md) |
-| zrythm/zrythm | partial | 2026-09-05T15:41:14Z | [open](../records/audio-zrythm-zrythm-a35eb862.md) |
+| zrythm/zrythm | partial | 2026-09-05T23:09:10Z | [open](../records/audio-zrythm-zrythm-a35eb862.md) |
 
 ## Video
 

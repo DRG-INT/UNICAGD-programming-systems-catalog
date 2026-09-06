@@ -15,16 +15,16 @@ Records: `1137`
 [Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (890)](database-datastore.md) · [Datetime (228)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (454)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (644)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1453)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1454)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (268)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5629)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5630)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · **[Parser Lexer Ast (1137)](parser-lexer-ast.md)** · [Precommit Ci Quality (302)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (605)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (551)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (552)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C99
 
@@ -610,7 +610,7 @@ Records: `1137`
 | go.gary.cool/diecast | v1.17.35 | 2026-08-30T14:10:05.638889Z | [open](../records/go-go-gary-cool-diecast-e5dd52c7.md) |
 | gogf/gf | partial | 2026-09-04T03:14:29Z | [open](../records/go-gogf-gf-cf9bbe8f.md) |
 | gomods/athens | partial | 2026-09-02T07:53:04Z | [open](../records/go-gomods-athens-5ff0b837.md) |
-| GopeedLab/gopeed | partial | 2026-09-05T15:08:27Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
+| GopeedLab/gopeed | partial | 2026-09-06T03:59:21Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
 | gravitational/teleport | partial | 2026-09-03T09:44:53Z | [open](../records/go-gravitational-teleport-6a32fe26.md) |
 | HyNetworks/hysteria | partial | 2026-08-31T06:55:46Z | [open](../records/go-hynetworks-hysteria-6f37132d.md) |
 | kovidgoyal/kitty | partial | 2026-09-06T01:39:52Z | [open](../records/go-kovidgoyal-kitty-9cff0795.md) |
@@ -840,7 +840,7 @@ Records: `1137`
 | amusecode/amuse | partial | 2026-07-15T15:48:16Z | [open](../records/space-maps-amusecode-amuse-93ebdbaf.md) |
 | anahita1dua/Mini-Planetarium | partial | 2026-07-09T07:20:43Z | [open](../records/space-maps-anahita1dua-mini-planetarium-51de1c6d.md) |
 | arda-guler/Kozmoworks | partial | 2023-11-10T11:46:42Z | [open](../records/space-maps-arda-guler-kozmoworks-da5d973a.md) |
-| Askaniy/LPA-RadioSkyMapper | partial | 2026-09-02T08:48:11Z | [open](../records/space-maps-askaniy-lpa-radioskymapper-29d5349e.md) |
+| Askaniy/LPA-RadioSkyMapper | partial | 2026-09-04T06:32:30Z | [open](../records/space-maps-askaniy-lpa-radioskymapper-29d5349e.md) |
 | AstroAure/Astronomy-observations | partial | 2025-11-19T07:37:53Z | [open](../records/space-maps-astroaure-astronomy-observations-cc742c6e.md) |
 | astropy-learn/astropy-tutorials | partial | 2026-08-31T16:53:31Z | [open](../records/space-maps-astropy-learn-astropy-tutorials-275724b5.md) |
 | astropy/astroquery | partial | 2026-09-04T03:39:09Z | [open](../records/space-maps-astropy-astroquery-b186d616.md) |
@@ -1010,7 +1010,7 @@ Records: `1137`
 | alessandroragano/scoreq | partial | 2025-08-01T09:31:22Z | [open](../records/audio-alessandroragano-scoreq-d698e68a.md) |
 | avaneev/r8brain-free-src | partial | 2026-09-02T17:58:46Z | [open](../records/audio-avaneev-r8brain-free-src-df39a53a.md) |
 | calebzulawski/fourier | partial | 2023-04-28T21:48:36Z | [open](../records/audio-calebzulawski-fourier-0106a099.md) |
-| crmne/fastpotify | partial | 2026-09-04T14:49:34Z | [open](../records/audio-crmne-fastpotify-5b7c4014.md) |
+| crmne/fastpotify | partial | 2026-09-05T23:59:27Z | [open](../records/audio-crmne-fastpotify-5b7c4014.md) |
 | FoxNoseTech/diarize | partial | 2026-05-06T10:03:41Z | [open](../records/audio-foxnosetech-diarize-711eaff7.md) |
 | Gencaster/gencaster | partial | 2024-05-27T15:06:55Z | [open](../records/audio-gencaster-gencaster-2edf7a6e.md) |
 | huggingface/distil-whisper | partial | 2025-01-08T10:09:47Z | [open](../records/audio-huggingface-distil-whisper-4612ba97.md) |
@@ -1061,7 +1061,7 @@ Records: `1137`
 | lunohodov/awesome-astrophotography | partial | 2026-06-11T04:43:54Z | [open](../records/photography-lunohodov-awesome-astrophotography-2e7b7b64.md) |
 | Naxela/The_Lightmapper | partial | 2026-07-18T22:24:35Z | [open](../records/photography-naxela-the-lightmapper-5258d55d.md) |
 | pedrodiamel/colorchecker-detection | unknown | github_search_does_not_include_release_date | [open](../records/photography-pedrodiamel-colorchecker-detection-02116cb9.md) |
-| photostructure/exiftool-vendored.js | partial | 2026-08-08T18:58:45Z | [open](../records/photography-photostructure-exiftool-vendored-js-526b7bf1.md) |
+| photostructure/exiftool-vendored.js | partial | 2026-09-06T04:18:38Z | [open](../records/photography-photostructure-exiftool-vendored-js-526b7bf1.md) |
 | ray-cast/ies | partial | 2018-01-16T23:17:43Z | [open](../records/photography-ray-cast-ies-781efcde.md) |
 | TheLastGimbus/GooglePhotosTakeoutHelper | partial | 2025-01-29T08:39:52Z | [open](../records/photography-thelastgimbus-googlephotostakeouthelper-4239cff5.md) |
 | zalo/MathUtilities | partial | 2024-08-24T20:37:32Z | [open](../records/photography-zalo-mathutilities-76c40c9f.md) |

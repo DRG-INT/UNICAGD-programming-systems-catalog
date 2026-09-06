@@ -15,16 +15,16 @@ Records: `69`
 [Cryptography (174)](../by-category/cryptography.md) · [Data Science (38)](../by-category/data-science.md) · [Database Datastore (890)](../by-category/database-datastore.md) · [Datetime (228)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (101)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
 [Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (454)](../by-category/ffi-bindings.md) · [Filesystem Os (1584)](../by-category/filesystem-os.md) · [Formatter (644)](../by-category/formatter.md)
-[Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (355)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1453)](../by-category/ide-editor-integration.md)
+[Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (355)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1454)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (268)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5629)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5630)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (520)](../by-category/logging-observability.md) · [Machine Learning (788)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1035)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (441)](../by-category/package-manager.md) · [Parser Lexer Ast (1137)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (302)](../by-category/precommit-ci-quality.md)
 [Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (15)](../by-category/sanitizer.md)
 [Security Sast (336)](../by-category/security-sast.md) · [Serialization (395)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (605)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (606)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1606)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (551)](../by-category/visualization-gui.md) · [Web Framework (476)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1606)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (552)](../by-category/visualization-gui.md) · [Web Framework (476)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -115,7 +115,7 @@ Records: `69`
 | [cel-expr/cel-spec](../records/starlark-cel-expr-cel-spec-b2658dd8.md) | partial | 2026-08-13T21:27:23Z | registry-derived |
 | [envoyproxy/data-plane-api](../records/starlark-envoyproxy-data-plane-api-7610f6c0.md) | partial | 2026-09-05T21:04:38Z | registry-derived |
 | [google/dotprompt](../records/starlark-google-dotprompt-07de9fab.md) | partial | 2026-09-03T02:39:10Z | registry-derived |
-| [google/fully-homomorphic-encryption](../records/starlark-google-fully-homomorphic-encryption-7e96f129.md) | partial | 2026-09-04T19:39:49Z | registry-derived |
+| [google/fully-homomorphic-encryption](../records/starlark-google-fully-homomorphic-encryption-7e96f129.md) | partial | 2026-09-06T04:02:41Z | registry-derived |
 | [googleapis/googleapis](../records/starlark-googleapis-googleapis-b2038836.md) | partial | 2026-09-04T14:28:39Z | registry-derived |
 | [GoogleContainerTools/distroless](../records/starlark-googlecontainertools-distroless-b973874f.md) | partial | 2026-09-04T23:53:34Z | registry-derived |
 | [lucperkins/colossus](../records/starlark-lucperkins-colossus-6d410097.md) | partial | 2022-06-02T18:12:42Z | registry-derived |

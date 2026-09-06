@@ -15,16 +15,16 @@ Records: `1606`
 [Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (890)](database-datastore.md) · [Datetime (228)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (454)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (644)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1453)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1454)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (268)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5629)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5630)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1137)](parser-lexer-ast.md) · [Precommit Ci Quality (302)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (605)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-**[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md)** · [Utility Library (104)](utility-library.md) · [Visualization Gui (551)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+**[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md)** · [Utility Library (104)](utility-library.md) · [Visualization Gui (552)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C++23
 
@@ -1429,7 +1429,7 @@ Records: `1606`
 | cropsly/ffmpeg-android-java | partial | 2021-07-31T10:27:20Z | [open](../records/video-cropsly-ffmpeg-android-java-b9341efc.md) |
 | datarhei/restreamer | partial | 2026-05-22T06:57:59Z | [open](../records/video-datarhei-restreamer-ebfeeaad.md) |
 | doubleZ0108/Digital-Media-Technology-PKU | partial | 2022-02-04T14:32:32Z | [open](../records/video-doublez0108-digital-media-technology-pku-8ed0714e.md) |
-| FreeTubeApp/FreeTube | partial | 2026-09-05T13:51:31Z | [open](../records/video-freetubeapp-freetube-f7bd248f.md) |
+| FreeTubeApp/FreeTube | partial | 2026-09-05T20:51:37Z | [open](../records/video-freetubeapp-freetube-f7bd248f.md) |
 | getopenscreen/openscreen | partial | 2026-09-05T09:19:01Z | [open](../records/video-getopenscreen-openscreen-37ac0137.md) |
 | Hao0321/video-autopilot-kit | partial | 2026-08-27T15:00:28Z | [open](../records/video-hao0321-video-autopilot-kit-125cdf3e.md) |
 | Hubs-Foundation/hubs | partial | 2026-08-23T08:58:42Z | [open](../records/video-hubs-foundation-hubs-e3d5e722.md) |
@@ -1440,8 +1440,8 @@ Records: `1606`
 | mediago-dev/mediago | partial | 2026-09-05T04:08:23Z | [open](../records/video-mediago-dev-mediago-0cd9405a.md) |
 | modelscope/FunClip | partial | 2026-09-01T06:36:58Z | [open](../records/video-modelscope-funclip-7124bb3f.md) |
 | MrS0m30n3/youtube-dl-gui | partial | 2022-12-06T17:12:44Z | [open](../records/video-mrs0m30n3-youtube-dl-gui-b78c733b.md) |
-| namidaco/namida | partial | 2026-09-05T01:50:42Z | [open](../records/video-namidaco-namida-7a28ae53.md) |
-| OpenShot/libopenshot | partial | 2026-09-04T00:17:30Z | [open](../records/video-openshot-libopenshot-313927ae.md) |
+| namidaco/namida | partial | 2026-09-06T02:55:46Z | [open](../records/video-namidaco-namida-7a28ae53.md) |
+| OpenShot/libopenshot | partial | 2026-09-05T20:10:14Z | [open](../records/video-openshot-libopenshot-313927ae.md) |
 | OvenMediaLabs/OvenMediaEngine | partial | 2026-09-05T04:53:25Z | [open](../records/video-ovenmedialabs-ovenmediaengine-48a1af34.md) |
 | patrikhuber/4dface | partial | 2018-12-10T15:49:06Z | [open](../records/video-patrikhuber-4dface-650983e0.md) |
 | RayVentura/ShortGPT | partial | 2025-02-10T19:33:18Z | [open](../records/video-rayventura-shortgpt-d64f25d3.md) |
@@ -1499,7 +1499,7 @@ Records: `1606`
 | chanzuckerberg/napari-hub | partial | 2026-03-06T00:55:27Z | [open](../records/microscopy-chanzuckerberg-napari-hub-082ae11f.md) |
 | czbiohub-sf/iohub | partial | 2026-09-04T23:43:03Z | [open](../records/microscopy-czbiohub-sf-iohub-5a760ae0.md) |
 | imagingbook/imagingbook-public | partial | 2026-03-12T18:03:59Z | [open](../records/microscopy-imagingbook-imagingbook-public-35b63f87.md) |
-| JaneliaSciComp/fileglancer | partial | 2026-09-05T04:55:53Z | [open](../records/microscopy-janeliascicomp-fileglancer-a4aeb3db.md) |
+| JaneliaSciComp/fileglancer | partial | 2026-09-06T01:11:47Z | [open](../records/microscopy-janeliascicomp-fileglancer-a4aeb3db.md) |
 | mbalatsko/opencv-rolling-ball | partial | 2022-06-21T21:15:02Z | [open](../records/microscopy-mbalatsko-opencv-rolling-ball-64eeb75a.md) |
 | Mmasoud1/HistoJS | partial | 2024-02-29T14:38:53Z | [open](../records/microscopy-mmasoud1-histojs-cfc6aaff.md) |
 | MWod/DeepHistReg | partial | 2025-04-04T15:16:42Z | [open](../records/microscopy-mwod-deephistreg-fe9489ee.md) |

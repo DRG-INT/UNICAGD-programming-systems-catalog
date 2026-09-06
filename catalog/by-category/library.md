@@ -1,6 +1,6 @@
 # Library
 
-Records: `5629`
+Records: `5630`
 
 ## Navigation
 
@@ -15,16 +15,16 @@ Records: `5629`
 [Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (890)](database-datastore.md) · [Datetime (228)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (454)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (644)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1453)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1454)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (268)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · **[Library (5629)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · **[Library (5630)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1137)](parser-lexer-ast.md) · [Precommit Ci Quality (302)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (605)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (551)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (552)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C99
 
@@ -4853,9 +4853,10 @@ Records: `5629`
 | fand/vfx-js | partial | 2026-08-11T22:45:13Z | [open](../records/effects-fand-vfx-js-267d1f85.md) |
 | fearofcode/bateman | partial | 2014-05-12T03:19:06Z | [open](../records/effects-fearofcode-bateman-03c24113.md) |
 | FlexMonkey/ParticleCam | partial | 2019-02-15T15:49:32Z | [open](../records/effects-flexmonkey-particlecam-751034c0.md) |
+| fuddlesworth/PlasmaZones | partial | 2026-09-06T00:50:03Z | [open](../records/effects-fuddlesworth-plasmazones-25db8a0f.md) |
 | GabrielSCabrera/nBody | partial | 2024-03-31T14:11:02Z | [open](../records/effects-gabrielscabrera-nbody-387acb4c.md) |
 | GarrettGunnell/Iterated-Function-Systems | partial | 2024-11-30T14:42:06Z | [open](../records/effects-garrettgunnell-iterated-function-systems-ae1c6e05.md) |
-| ggarra13/mrv2 | partial | 2026-09-03T17:44:05Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |
+| ggarra13/mrv2 | partial | 2026-09-06T01:59:49Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |
 | glotzerlab/hoomd-blue | partial | 2026-09-02T10:33:09Z | [open](../records/effects-glotzerlab-hoomd-blue-5217e991.md) |
 | glotzerlab/hoomd-examples | partial | 2026-08-31T13:19:32Z | [open](../records/effects-glotzerlab-hoomd-examples-8b82445a.md) |
 | henriquelalves/SimpleGodotCRTShader | partial | 2024-09-02T21:57:23Z | [open](../records/effects-henriquelalves-simplegodotcrtshader-0feadcb8.md) |
@@ -4894,7 +4895,7 @@ Records: `5629`
 | MysteryPancake/Houdini-Fun | partial | 2026-09-05T07:45:26Z | [open](../records/effects-mysterypancake-houdini-fun-2e70635d.md) |
 | nanndoj/react-native-particles | partial | 2023-01-25T20:46:04Z | [open](../records/effects-nanndoj-react-native-particles-f96caf6b.md) |
 | nolangz/3D-Chladni | partial | 2026-07-18T11:40:22Z | [open](../records/effects-nolangz-3d-chladni-45d7a880.md) |
-| ntsc-rs/ntsc-rs | partial | 2026-08-01T23:20:07Z | [open](../records/effects-ntsc-rs-ntsc-rs-7ace46da.md) |
+| ntsc-rs/ntsc-rs | partial | 2026-09-05T21:08:22Z | [open](../records/effects-ntsc-rs-ntsc-rs-7ace46da.md) |
 | numberwolf/FFmpeg-PlusPlus | partial | 2026-03-11T05:58:57Z | [open](../records/effects-numberwolf-ffmpeg-plusplus-3bc7c46d.md) |
 | OYsun/AE-Element | partial | 2019-03-28T08:23:57Z | [open](../records/effects-oysun-ae-element-e496f20a.md) |
 | pixijs-userland/particle-emitter | partial | 2026-01-09T04:44:16Z | [open](../records/effects-pixijs-userland-particle-emitter-b76be455.md) |
@@ -5021,7 +5022,7 @@ Records: `5629`
 | 7gxycn08/PyAutoActions | partial | 2026-05-22T09:28:04Z | [open](../records/photography-7gxycn08-pyautoactions-6830a146.md) |
 | afgprogrammer/Flutter-Photography-Application | partial | 2023-11-28T13:23:46Z | [open](../records/photography-afgprogrammer-flutter-photography-application-53b42786.md) |
 | aheze/OpenFind | partial | 2023-02-10T01:10:12Z | [open](../records/photography-aheze-openfind-d5016eff.md) |
-| alyssaxuu/screenity | partial | 2026-09-01T21:19:58Z | [open](../records/photography-alyssaxuu-screenity-3dcd34af.md) |
+| alyssaxuu/screenity | partial | 2026-09-05T17:12:39Z | [open](../records/photography-alyssaxuu-screenity-3dcd34af.md) |
 | andyzg/gallery | partial | 2024-05-24T19:43:17Z | [open](../records/photography-andyzg-gallery-707abac1.md) |
 | AravisProject/aravis | partial | 2026-08-29T18:14:26Z | [open](../records/photography-aravisproject-aravis-a9a12b71.md) |
 | ardov/hdr-web | partial | 2026-05-22T14:13:56Z | [open](../records/photography-ardov-hdr-web-cd66c2b2.md) |
@@ -5467,7 +5468,7 @@ Records: `5629`
 | takenobu-hs/cpu-assembly-examples | partial | 2024-05-19T06:55:01Z | [open](../records/assembly-takenobu-hs-cpu-assembly-examples-b5867112.md) |
 | Thraetaona/EXACT | partial | 2024-06-13T18:59:42Z | [open](../records/assembly-thraetaona-exact-bb36746a.md) |
 | vonsim/vonsim | partial | 2026-05-29T02:08:00Z | [open](../records/assembly-vonsim-vonsim-6a8ef78f.md) |
-| vvaltchev/tilck | partial | 2026-09-06T00:34:17Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
+| vvaltchev/tilck | partial | 2026-09-06T04:12:18Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
 | xtnded/codextended | partial | 2026-05-07T10:43:51Z | [open](../records/assembly-xtnded-codextended-97cbc636.md) |
 | yds12/x64-roadmap | partial | 2020-07-16T15:54:20Z | [open](../records/assembly-yds12-x64-roadmap-3b9663e2.md) |
 | yrp604/rappel | partial | 2024-03-07T04:45:15Z | [open](../records/assembly-yrp604-rappel-4bf787bb.md) |

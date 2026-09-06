@@ -15,16 +15,16 @@ Records: `194`
 [Cryptography (174)](../by-category/cryptography.md) · [Data Science (38)](../by-category/data-science.md) · [Database Datastore (890)](../by-category/database-datastore.md) · [Datetime (228)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (101)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
 [Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (454)](../by-category/ffi-bindings.md) · [Filesystem Os (1584)](../by-category/filesystem-os.md) · [Formatter (644)](../by-category/formatter.md)
-[Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (355)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1453)](../by-category/ide-editor-integration.md)
+[Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (355)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1454)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (268)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5629)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5630)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (520)](../by-category/logging-observability.md) · [Machine Learning (788)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1035)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (441)](../by-category/package-manager.md) · [Parser Lexer Ast (1137)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (302)](../by-category/precommit-ci-quality.md)
 [Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (15)](../by-category/sanitizer.md)
 [Security Sast (336)](../by-category/security-sast.md) · [Serialization (395)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (605)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (606)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1606)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (551)](../by-category/visualization-gui.md) · [Web Framework (476)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1606)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (552)](../by-category/visualization-gui.md) · [Web Framework (476)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -97,7 +97,7 @@ Records: `194`
 | [brainglobe/brainreg](../records/microscopy-brainglobe-brainreg-71a0b5b3.md) | partial | 2026-09-02T13:19:22Z | registry-derived |
 | [brainglobe/cellfinder](../records/microscopy-brainglobe-cellfinder-159009dc.md) | partial | 2026-08-22T06:31:08Z | registry-derived |
 | [chiahao3/ptyrad](../records/microscopy-chiahao3-ptyrad-cbe12e50.md) | partial | 2026-08-07T02:53:15Z | registry-derived |
-| [computational-cell-analytics/micro-sam](../records/microscopy-computational-cell-analytics-micro-sam-82fdbfce.md) | partial | 2026-09-04T16:13:49Z | registry-derived |
+| [computational-cell-analytics/micro-sam](../records/microscopy-computational-cell-analytics-micro-sam-82fdbfce.md) | partial | 2026-09-05T21:55:51Z | registry-derived |
 | [computational-imaging/ThreeDeconv.jl](../records/microscopy-computational-imaging-threedeconv-jl-df595b65.md) | partial | 2022-02-09T16:34:42Z | registry-derived |
 | [cytomining/cytominer](../records/microscopy-cytomining-cytominer-c603fed1.md) | partial | 2024-05-08T14:11:57Z | registry-derived |
 | [cytomining/pycytominer](../records/microscopy-cytomining-pycytominer-f61cb1dc.md) | partial | 2026-09-04T16:07:02Z | registry-derived |
@@ -160,7 +160,7 @@ Records: `194`
 | [catrujilla/pyDHM](../records/microscopy-catrujilla-pydhm-45508b54.md) | partial | 2025-09-16T21:49:38Z | registry-derived |
 | [cgohlke/roifile](../records/microscopy-cgohlke-roifile-2f114ba6.md) | partial | 2026-07-30T01:48:11Z | registry-derived |
 | [Euro-BioImaging/BatchConvert](../records/microscopy-euro-bioimaging-batchconvert-38646f25.md) | partial | 2025-03-14T10:23:22Z | registry-derived |
-| [fideus-labs/ngff-zarr](../records/microscopy-fideus-labs-ngff-zarr-384efdbf.md) | partial | 2026-09-04T18:50:55Z | registry-derived |
+| [fideus-labs/ngff-zarr](../records/microscopy-fideus-labs-ngff-zarr-384efdbf.md) | partial | 2026-09-05T23:06:27Z | registry-derived |
 | [imaging-formats/ome-types](../records/microscopy-imaging-formats-ome-types-d7936d3b.md) | partial | 2026-04-02T01:45:48Z | registry-derived |
 | [pymmcore-plus/ome-writers](../records/microscopy-pymmcore-plus-ome-writers-2a308f87.md) | partial | 2026-07-01T11:25:58Z | registry-derived |
 
@@ -340,7 +340,7 @@ Records: `194`
 | [chanzuckerberg/napari-hub](../records/microscopy-chanzuckerberg-napari-hub-082ae11f.md) | partial | 2026-03-06T00:55:27Z | registry-derived |
 | [czbiohub-sf/iohub](../records/microscopy-czbiohub-sf-iohub-5a760ae0.md) | partial | 2026-09-04T23:43:03Z | registry-derived |
 | [imagingbook/imagingbook-public](../records/microscopy-imagingbook-imagingbook-public-35b63f87.md) | partial | 2026-03-12T18:03:59Z | registry-derived |
-| [JaneliaSciComp/fileglancer](../records/microscopy-janeliascicomp-fileglancer-a4aeb3db.md) | partial | 2026-09-05T04:55:53Z | registry-derived |
+| [JaneliaSciComp/fileglancer](../records/microscopy-janeliascicomp-fileglancer-a4aeb3db.md) | partial | 2026-09-06T01:11:47Z | registry-derived |
 | [mbalatsko/opencv-rolling-ball](../records/microscopy-mbalatsko-opencv-rolling-ball-64eeb75a.md) | partial | 2022-06-21T21:15:02Z | registry-derived |
 | [Mmasoud1/HistoJS](../records/microscopy-mmasoud1-histojs-cfc6aaff.md) | partial | 2024-02-29T14:38:53Z | registry-derived |
 | [MWod/DeepHistReg](../records/microscopy-mwod-deephistreg-fe9489ee.md) | partial | 2025-04-04T15:16:42Z | registry-derived |

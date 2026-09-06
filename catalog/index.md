@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-06T03:22:26+00:00`
+Generated: `2026-09-06T04:22:35+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -13,16 +13,16 @@ Generated: `2026-09-06T03:22:26+00:00`
 [Cryptography (174)](by-category/cryptography.md) · [Data Science (38)](by-category/data-science.md) · [Database Datastore (890)](by-category/database-datastore.md) · [Datetime (228)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (101)](by-category/dependency-manager.md) · [Documentation (103)](by-category/documentation.md)
 [Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (454)](by-category/ffi-bindings.md) · [Filesystem Os (1584)](by-category/filesystem-os.md) · [Formatter (644)](by-category/formatter.md)
-[Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (355)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1453)](by-category/ide-editor-integration.md)
+[Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (355)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1454)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (268)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (29)](by-category/language-server.md) · [Language Specification (1432)](by-category/language-specification.md) · [Library (5629)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (29)](by-category/language-server.md) · [Language Specification (1432)](by-category/language-specification.md) · [Library (5630)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (520)](by-category/logging-observability.md) · [Machine Learning (788)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1035)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (441)](by-category/package-manager.md) · [Parser Lexer Ast (1137)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (302)](by-category/precommit-ci-quality.md)
 [Profiler (87)](by-category/profiler.md) · [Project Scaffolding (133)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (15)](by-category/sanitizer.md)
 [Security Sast (336)](by-category/security-sast.md) · [Serialization (395)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (605)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (606)](by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](by-category/tutorial-book-styleguide.md) · [Type Checker (313)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1606)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (551)](by-category/visualization-gui.md) · [Web Framework (476)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1606)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (552)](by-category/visualization-gui.md) · [Web Framework (476)](by-category/web-framework.md)
 
 ## Languages
 
@@ -63,9 +63,9 @@ Generated: `2026-09-06T03:22:26+00:00`
 | Space Engines | 157 | 0 | [Space Engines](by-language/space-engines.md) |
 | Space Shuttles | 79 | 0 | [Space Shuttles](by-language/space-shuttles.md) |
 | Space Maps | 652 | 0 | [Space Maps](by-language/space-maps.md) |
-| Effects | 778 | 8 | [Effects](by-language/effects.md) |
-| Audio | 480 | 6 | [Audio](by-language/audio.md) |
-| Video | 467 | 0 | [Video](by-language/video.md) |
+| Effects | 779 | 8 | [Effects](by-language/effects.md) |
+| Audio | 481 | 6 | [Audio](by-language/audio.md) |
+| Video | 468 | 0 | [Video](by-language/video.md) |
 | Photography | 594 | 0 | [Photography](by-language/photography.md) |
 | Microscopy | 194 | 0 | [Microscopy](by-language/microscopy.md) |
 | Telescopes | 218 | 0 | [Telescopes](by-language/telescopes.md) |
@@ -123,14 +123,14 @@ Generated: `2026-09-06T03:22:26+00:00`
 | Framework | 63 | [framework](by-category/framework.md) |
 | Fuzzer | 57 | [fuzzer](by-category/fuzzer.md) |
 | Game Engine Game Dev | 355 | [game_engine_game_dev](by-category/game-engine-game-dev.md) |
-| Ide Editor Integration | 1453 | [ide_editor_integration](by-category/ide-editor-integration.md) |
+| Ide Editor Integration | 1454 | [ide_editor_integration](by-category/ide-editor-integration.md) |
 | Image Audio Dsp | 436 | [image_audio_dsp](by-category/image-audio-dsp.md) |
 | Interop Bindings | 62 | [interop_bindings](by-category/interop-bindings.md) |
 | Interpreter Runtime | 268 | [interpreter_runtime](by-category/interpreter-runtime.md) |
 | Jit Vm | 64 | [jit_vm](by-category/jit-vm.md) |
 | Language Server | 29 | [language_server](by-category/language-server.md) |
 | Language Specification | 1432 | [language_specification](by-category/language-specification.md) |
-| Library | 5629 | [library](by-category/library.md) |
+| Library | 5630 | [library](by-category/library.md) |
 | Lint Plugin | 1 | [lint_plugin](by-category/lint-plugin.md) |
 | Lint Rule Pack | 48 | [lint_rule_pack](by-category/lint-rule-pack.md) |
 | Linter | 348 | [linter](by-category/linter.md) |
@@ -158,7 +158,7 @@ Generated: `2026-09-06T03:22:26+00:00`
 | Type Checker | 313 | [type_checker](by-category/type-checker.md) |
 | Undefined Behavior Analyzer | 1606 | [undefined_behavior_analyzer](by-category/undefined-behavior-analyzer.md) |
 | Utility Library | 104 | [utility_library](by-category/utility-library.md) |
-| Visualization Gui | 551 | [visualization_gui](by-category/visualization-gui.md) |
+| Visualization Gui | 552 | [visualization_gui](by-category/visualization-gui.md) |
 | Web Framework | 476 | [web_framework](by-category/web-framework.md) |
 
 ## High-Signal Release Coverage
@@ -200,9 +200,9 @@ Generated: `2026-09-06T03:22:26+00:00`
 | Space Engines | 0 | 157 |
 | Space Shuttles | 0 | 79 |
 | Space Maps | 0 | 652 |
-| Effects | 8 | 770 |
-| Audio | 6 | 474 |
-| Video | 0 | 467 |
+| Effects | 8 | 771 |
+| Audio | 6 | 475 |
+| Video | 0 | 468 |
 | Photography | 0 | 594 |
 | Microscopy | 0 | 194 |
 | Telescopes | 0 | 218 |

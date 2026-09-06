@@ -15,16 +15,16 @@ Records: `436`
 [Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (890)](database-datastore.md) · [Datetime (228)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (454)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (644)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1453)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1454)](ide-editor-integration.md)
 **[Image Audio Dsp (436)](image-audio-dsp.md)** · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (268)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5629)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5630)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (441)](package-manager.md) · [Parser Lexer Ast (1137)](parser-lexer-ast.md) · [Precommit Ci Quality (302)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (605)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (551)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Undefined Behavior Analyzer (1606)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (552)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C++23
 
@@ -285,7 +285,7 @@ Records: `436`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| alyssaxuu/screenity | partial | 2026-09-01T21:19:58Z | [open](../records/audio-alyssaxuu-screenity-12b2e5cf.md) |
+| alyssaxuu/screenity | partial | 2026-09-05T17:12:39Z | [open](../records/audio-alyssaxuu-screenity-12b2e5cf.md) |
 | Ameobea/web-synth | partial | 2026-08-13T07:15:16Z | [open](../records/audio-ameobea-web-synth-bbcd97d3.md) |
 | amsynth/amsynth | partial | 2026-07-14T10:21:45Z | [open](../records/audio-amsynth-amsynth-d2f54c63.md) |
 | andremichelle/openDAW | partial | 2026-08-29T06:05:32Z | [open](../records/audio-andremichelle-opendaw-ecd83ddd.md) |
@@ -314,7 +314,7 @@ Records: `436`
 | FFmpeg Audio | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-ffmpeg-audio-ea69064f.md) |
 | ffmpegwasm/ffmpeg.wasm | partial | 2026-02-01T08:35:30Z | [open](../records/audio-ffmpegwasm-ffmpeg-wasm-9b9d7a50.md) |
 | fgnt/pb_bss | partial | 2025-05-19T09:09:42Z | [open](../records/audio-fgnt-pb-bss-f15b9a38.md) |
-| File-New-Project/EarTrumpet | partial | 2026-08-30T00:44:51Z | [open](../records/audio-file-new-project-eartrumpet-cd979706.md) |
+| File-New-Project/EarTrumpet | partial | 2026-09-06T00:45:52Z | [open](../records/audio-file-new-project-eartrumpet-cd979706.md) |
 | floe-audio/Floe | partial | 2026-09-01T14:57:54Z | [open](../records/audio-floe-audio-floe-493f97d2.md) |
 | FredAntonCorvest/Common-AudioUnit-V3 | partial | 2017-05-17T20:31:15Z | [open](../records/audio-fredantoncorvest-common-audiounit-v3-3fe8d640.md) |
 | FredAntonCorvest/CreatingCustomAudioEffects-Universal | partial | 2022-01-23T19:08:38Z | [open](../records/audio-fredantoncorvest-creatingcustomaudioeffects-universal-dd850458.md) |
@@ -354,9 +354,9 @@ Records: `436`
 | miek/inspectrum | partial | 2025-12-06T15:44:29Z | [open](../records/audio-miek-inspectrum-a2b95ec1.md) |
 | mixxxdj/mixxx | partial | 2026-09-04T09:46:19Z | [open](../records/audio-mixxxdj-mixxx-c62cc22f.md) |
 | ModernFlyouts-Community/ModernFlyouts | partial | 2024-11-17T02:39:02Z | [open](../records/audio-modernflyouts-community-modernflyouts-61772da5.md) |
-| Moekotori/ECHO | partial | 2026-09-05T15:28:04Z | [open](../records/audio-moekotori-echo-a5eae6e0.md) |
+| Moekotori/ECHO | partial | 2026-09-05T22:47:36Z | [open](../records/audio-moekotori-echo-a5eae6e0.md) |
 | morkt/GARbro | partial | 2024-07-08T19:36:58Z | [open](../records/audio-morkt-garbro-79127cac.md) |
-| mpv-player/mpv | partial | 2026-09-03T16:05:08Z | [open](../records/audio-mpv-player-mpv-42e3d95c.md) |
+| mpv-player/mpv | partial | 2026-09-05T23:27:27Z | [open](../records/audio-mpv-player-mpv-42e3d95c.md) |
 | mumble-voip/mumble | partial | 2026-09-05T09:20:58Z | [open](../records/audio-mumble-voip-mumble-d83c7a49.md) |
 | novoic/surfboard | partial | 2022-03-04T23:04:03Z | [open](../records/audio-novoic-surfboard-0947802a.md) |
 | npisanti/ofxPDSP | partial | 2024-08-09T02:07:03Z | [open](../records/audio-npisanti-ofxpdsp-71b17c19.md) |
@@ -388,7 +388,7 @@ Records: `436`
 | spotify/basic-pitch | partial | 2025-11-13T14:40:46Z | [open](../records/audio-spotify-basic-pitch-05b329a5.md) |
 | spotify/pedalboard | partial | 2026-09-04T21:22:46Z | [open](../records/audio-spotify-pedalboard-2950d53f.md) |
 | ssabug/fxseq | partial | 2023-10-28T00:28:31Z | [open](../records/audio-ssabug-fxseq-872becec.md) |
-| strawberrymusicplayer/strawberry | partial | 2026-09-04T00:00:16Z | [open](../records/audio-strawberrymusicplayer-strawberry-65e2b7e4.md) |
+| strawberrymusicplayer/strawberry | partial | 2026-09-06T03:43:22Z | [open](../records/audio-strawberrymusicplayer-strawberry-65e2b7e4.md) |
 | styx-emulator/styx-emulator | partial | 2026-08-13T20:47:32Z | [open](../records/audio-styx-emulator-styx-emulator-e035860e.md) |
 | suda/wireless-microphone | partial | 2023-03-02T21:23:41Z | [open](../records/audio-suda-wireless-microphone-ab136d62.md) |
 | SuperKogito/spafe | partial | 2025-03-20T16:16:12Z | [open](../records/audio-superkogito-spafe-354360b4.md) |
@@ -428,7 +428,7 @@ Records: `436`
 | aydinnyunus/exifLooter | partial | 2026-01-16T16:34:17Z | [open](../records/photography-aydinnyunus-exiflooter-d4ad4d7f.md) |
 | banterle/HDR_Toolbox | partial | 2026-07-23T09:26:37Z | [open](../records/photography-banterle-hdr-toolbox-7502cc31.md) |
 | BinomialLLC/basis_universal | partial | 2026-09-01T04:08:12Z | [open](../records/photography-binomialllc-basis-universal-7a53e558.md) |
-| BradenM/pydngconverter | partial | 2026-09-03T19:01:51Z | [open](../records/photography-bradenm-pydngconverter-8248d4d8.md) |
+| BradenM/pydngconverter | partial | 2026-09-06T01:54:27Z | [open](../records/photography-bradenm-pydngconverter-8248d4d8.md) |
 | Breakthrough/PySceneDetect | partial | 2026-08-28T00:20:20Z | [open](../records/photography-breakthrough-pyscenedetect-282c005c.md) |
 | C4NU/Paddie | partial | 2026-04-30T08:21:37Z | [open](../records/photography-c4nu-paddie-df004a86.md) |
 | catalyst-team/catalyst | partial | 2026-07-08T21:40:01Z | [open](../records/photography-catalyst-team-catalyst-b551d064.md) |
