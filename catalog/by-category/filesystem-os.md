@@ -1,6 +1,6 @@
 # Filesystem Os
 
-Records: `1585`
+Records: `1586`
 
 ## Navigation
 
@@ -12,12 +12,12 @@ Records: `1585`
 [Benchmarking (198)](benchmarking.md) · [Build System (989)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (117)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (175)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (230)](datetime.md)
+[Cryptography (175)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (231)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (455)](ffi-bindings.md) · **[Filesystem Os (1585)](filesystem-os.md)** · [Formatter (646)](formatter.md)
+[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (455)](ffi-bindings.md) · **[Filesystem Os (1586)](filesystem-os.md)** · [Formatter (646)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1457)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (269)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1433)](language-specification.md) · [Library (5638)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1433)](language-specification.md) · [Library (5642)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1183)](parser-lexer-ast.md) · [Precommit Ci Quality (303)](precommit-ci-quality.md)
@@ -461,6 +461,7 @@ Records: `1585`
 | path | 0.9.6 | 2024-08-11T12:45:58Z | [open](../records/haskell-path-96670e62.md) |
 | path-extra | 0.3.1 | 2023-10-02T10:05:29Z | [open](../records/haskell-path-extra-b78fb2a0.md) |
 | path-io | 1.8.2 | 2024-05-20T08:12:23Z | [open](../records/haskell-path-io-892a5504.md) |
+| PenroseKiteDart | 1.10.1 | 2026-09-06T15:03:47Z | [open](../records/haskell-penrosekitedart-fee1bf50.md) |
 | regex-posix | 0.96.0.2 | 2025-03-02T11:16:13Z | [open](../records/haskell-regex-posix-7b5a5d6c.md) |
 | rhine-gloss | 1.8 | 2026-06-07T22:07:58Z | [open](../records/haskell-rhine-gloss-c88c36c2.md) |
 | stratosphere | 1.0.1 | 2025-11-07T02:52:27Z | [open](../records/haskell-stratosphere-6fdf30e9.md) |
@@ -569,7 +570,7 @@ Records: `1585`
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-08-30T15:02:19Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-06T12:28:15Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-06T16:11:13Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 

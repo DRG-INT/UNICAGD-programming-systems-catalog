@@ -1,6 +1,6 @@
 # Haskell
 
-Records: `1454`
+Records: `1456`
 
 ## Navigation
 
@@ -12,12 +12,12 @@ Records: `1454`
 [Benchmarking (198)](../by-category/benchmarking.md) · [Build System (989)](../by-category/build-system.md) · [Cli (563)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (117)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (24)](../by-category/compiler-diagnostics.md) · [Compression (51)](../by-category/compression.md)
 [Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (130)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (175)](../by-category/cryptography.md) · [Data Science (38)](../by-category/data-science.md) · [Database Datastore (892)](../by-category/database-datastore.md) · [Datetime (230)](../by-category/datetime.md)
+[Cryptography (175)](../by-category/cryptography.md) · [Data Science (38)](../by-category/data-science.md) · [Database Datastore (892)](../by-category/database-datastore.md) · [Datetime (231)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (102)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
-[Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (455)](../by-category/ffi-bindings.md) · [Filesystem Os (1585)](../by-category/filesystem-os.md) · [Formatter (646)](../by-category/formatter.md)
+[Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (455)](../by-category/ffi-bindings.md) · [Filesystem Os (1586)](../by-category/filesystem-os.md) · [Formatter (646)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (355)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1457)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (269)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1433)](../by-category/language-specification.md) · [Library (5638)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1433)](../by-category/language-specification.md) · [Library (5642)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (520)](../by-category/logging-observability.md) · [Machine Learning (788)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1035)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1183)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (303)](../by-category/precommit-ci-quality.md)
@@ -266,6 +266,7 @@ Records: `1454`
 | [path](../records/haskell-path-96670e62.md) | 0.9.6 | 2024-08-11T12:45:58Z | registry-derived |
 | [path-extra](../records/haskell-path-extra-b78fb2a0.md) | 0.3.1 | 2023-10-02T10:05:29Z | registry-derived |
 | [path-io](../records/haskell-path-io-892a5504.md) | 1.8.2 | 2024-05-20T08:12:23Z | registry-derived |
+| [PenroseKiteDart](../records/haskell-penrosekitedart-fee1bf50.md) | 1.10.1 | 2026-09-06T15:03:47Z | registry-derived |
 | [regex-posix](../records/haskell-regex-posix-7b5a5d6c.md) | 0.96.0.2 | 2025-03-02T11:16:13Z | registry-derived |
 | [rhine-gloss](../records/haskell-rhine-gloss-c88c36c2.md) | 1.8 | 2026-06-07T22:07:58Z | registry-derived |
 | [stratosphere](../records/haskell-stratosphere-6fdf30e9.md) | 1.0.1 | 2025-11-07T02:52:27Z | registry-derived |
@@ -952,7 +953,7 @@ Records: `1454`
 | [mmsyn7h](../records/haskell-mmsyn7h-0ebc5037.md) | 0.8.1.0 | 2020-12-03T18:49:56Z | registry-derived |
 | [mmsyn7s](../records/haskell-mmsyn7s-6f192912.md) | 0.9.1.0 | 2020-10-09T10:00:04Z | registry-derived |
 | [mmsyn7ukr](../records/haskell-mmsyn7ukr-bb686661.md) | 0.17.0.0 | 2020-08-16T19:50:08Z | registry-derived |
-| [mmzk-typeid](../records/haskell-mmzk-typeid-3ea027d6.md) | 0.7.1.1 | 2026-05-13T10:31:39Z | registry-derived |
+| [mmzk-typeid](../records/haskell-mmzk-typeid-3ea027d6.md) | 0.7.1.2 | 2026-09-06T15:45:17Z | registry-derived |
 | [modern-uri](../records/haskell-modern-uri-8f10b66b.md) | 0.3.6.1 | 2023-08-18T20:57:49Z | registry-derived |
 | [module-management](../records/haskell-module-management-b42ba469.md) | 0.21 | 2016-05-01T19:27:47Z | registry-derived |
 | [moesocks](../records/haskell-moesocks-ae267123.md) | 1.0.1.0 | 2018-12-27T18:12:16Z | registry-derived |
@@ -1028,6 +1029,7 @@ Records: `1454`
 | [pontarius-xmpp](../records/haskell-pontarius-xmpp-5a5fc4ed.md) | 0.5.7.2 | 2025-02-08T00:11:06Z | registry-derived |
 | [potoki](../records/haskell-potoki-46cbb511.md) | 2.1.4.1 | 2019-01-24T14:41:36Z | registry-derived |
 | [potoki-core](../records/haskell-potoki-core-455ab868.md) | 2.3.4.1 | 2019-01-24T14:30:09Z | registry-derived |
+| [ppad-aead](../records/haskell-ppad-aead-dc2d6455.md) | 0.3.6 | 2026-09-06T14:47:43Z | registry-derived |
 | [ppad-chacha](../records/haskell-ppad-chacha-cbc8dffb.md) | 0.3.0 | 2026-09-06T13:41:37Z | registry-derived |
 | [ppad-secp256k1](../records/haskell-ppad-secp256k1-f3a1306d.md) | 0.5.8 | 2026-08-01T17:34:33Z | registry-derived |
 | [pqi-conformance](../records/haskell-pqi-conformance-04c6674f.md) | 1.0.12.0 | 2026-08-25T20:02:48Z | registry-derived |
@@ -1508,7 +1510,7 @@ Records: `1454`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [aihc-parser](../records/haskell-aihc-parser-d88ae54b.md) | 2.0.0.0 | 2026-09-03T17:41:12Z | registry-derived |
+| [aihc-parser](../records/haskell-aihc-parser-d88ae54b.md) | 3.0.0.0 | 2026-09-06T15:25:12Z | registry-derived |
 | [amazonka-elasticache](../records/haskell-amazonka-elasticache-0cc5aa14.md) | 2.0 | 2023-07-27T21:11:31Z | registry-derived |
 | [amazonka-elasticbeanstalk](../records/haskell-amazonka-elasticbeanstalk-366027e0.md) | 2.0 | 2023-07-27T21:11:35Z | registry-derived |
 | [amazonka-elastictranscoder](../records/haskell-amazonka-elastictranscoder-43c3d948.md) | 2.0 | 2023-07-27T21:11:48Z | registry-derived |

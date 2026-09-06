@@ -1,6 +1,6 @@
 # Radio Garden Speciality
 
-Records: `124`
+Records: `125`
 
 ## Navigation
 
@@ -12,12 +12,12 @@ Records: `124`
 [Benchmarking (198)](../by-category/benchmarking.md) · [Build System (989)](../by-category/build-system.md) · [Cli (563)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (117)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (24)](../by-category/compiler-diagnostics.md) · [Compression (51)](../by-category/compression.md)
 [Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (130)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (175)](../by-category/cryptography.md) · [Data Science (38)](../by-category/data-science.md) · [Database Datastore (892)](../by-category/database-datastore.md) · [Datetime (230)](../by-category/datetime.md)
+[Cryptography (175)](../by-category/cryptography.md) · [Data Science (38)](../by-category/data-science.md) · [Database Datastore (892)](../by-category/database-datastore.md) · [Datetime (231)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (102)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
-[Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (455)](../by-category/ffi-bindings.md) · [Filesystem Os (1585)](../by-category/filesystem-os.md) · [Formatter (646)](../by-category/formatter.md)
+[Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (455)](../by-category/ffi-bindings.md) · [Filesystem Os (1586)](../by-category/filesystem-os.md) · [Formatter (646)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (355)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1457)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (269)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1433)](../by-category/language-specification.md) · [Library (5638)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1433)](../by-category/language-specification.md) · [Library (5642)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (520)](../by-category/logging-observability.md) · [Machine Learning (788)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1035)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1183)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (303)](../by-category/precommit-ci-quality.md)
@@ -159,6 +159,7 @@ Records: `124`
 | [anxzxz/radiogarden](../records/radio-garden-speciality-anxzxz-radiogarden-50474431.md) | partial | 2026-01-24T16:48:01Z | registry-derived |
 | [billyx86/radio-garden-clone](../records/radio-garden-speciality-billyx86-radio-garden-clone-95c13869.md) | partial | 2026-08-27T03:05:40Z | registry-derived |
 | [Broccolifm/BroccoliFm](../records/radio-garden-speciality-broccolifm-broccolifm-93eab489.md) | partial | 2025-11-03T08:19:04Z | registry-derived |
+| [Dayanna-Parson/Radio-Garden-Accesible](../records/radio-garden-speciality-dayanna-parson-radio-garden-accesible-0c2fb16d.md) | partial | 2026-09-06T15:21:23Z | registry-derived |
 | [doni7brandao/jardim](../records/radio-garden-speciality-doni7brandao-jardim-dd16238d.md) | partial | 2018-09-25T18:21:45Z | registry-derived |
 | [Florence422/radio_gadern_app](../records/radio-garden-speciality-florence422-radio-gadern-app-ea7d5581.md) | partial | 2025-11-08T19:42:01Z | registry-derived |
 | [frealgagu/archlinux.radio-garden](../records/radio-garden-speciality-frealgagu-archlinux-radio-garden-1dc58d96.md) | partial | 2021-08-20T00:43:26Z | registry-derived |

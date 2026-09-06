@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-06T15:20:23+00:00`
+Generated: `2026-09-06T16:22:56+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -10,12 +10,12 @@ Generated: `2026-09-06T15:20:23+00:00`
 [Benchmarking (198)](by-category/benchmarking.md) · [Build System (989)](by-category/build-system.md) · [Cli (563)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (117)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (24)](by-category/compiler-diagnostics.md) · [Compression (51)](by-category/compression.md)
 [Concurrency Parallelism (89)](by-category/concurrency-parallelism.md) · [Configuration (130)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (175)](by-category/cryptography.md) · [Data Science (38)](by-category/data-science.md) · [Database Datastore (892)](by-category/database-datastore.md) · [Datetime (230)](by-category/datetime.md)
+[Cryptography (175)](by-category/cryptography.md) · [Data Science (38)](by-category/data-science.md) · [Database Datastore (892)](by-category/database-datastore.md) · [Datetime (231)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (102)](by-category/dependency-manager.md) · [Documentation (103)](by-category/documentation.md)
-[Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (455)](by-category/ffi-bindings.md) · [Filesystem Os (1585)](by-category/filesystem-os.md) · [Formatter (646)](by-category/formatter.md)
+[Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (455)](by-category/ffi-bindings.md) · [Filesystem Os (1586)](by-category/filesystem-os.md) · [Formatter (646)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (355)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1457)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (269)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (29)](by-category/language-server.md) · [Language Specification (1433)](by-category/language-specification.md) · [Library (5638)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (29)](by-category/language-server.md) · [Language Specification (1433)](by-category/language-specification.md) · [Library (5642)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (520)](by-category/logging-observability.md) · [Machine Learning (788)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1035)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1183)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (303)](by-category/precommit-ci-quality.md)
@@ -28,19 +28,24 @@ Generated: `2026-09-06T15:20:23+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10159 |
-| Unknown stable release | 17201 |
+| Known stable release | 10164 |
+| Unknown stable release | 17202 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| mmzk-typeid | Haskell | Library | 0.7.1.2 | 2026-09-06T15:45:17Z | [open](records/haskell-mmzk-typeid-3ea027d6.md) |
+| @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.113.15 | 2026-09-06T15:39:13.053Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
+| aihc-parser | Haskell | Parser Lexer Ast | 3.0.0.0 | 2026-09-06T15:25:12Z | [open](records/haskell-aihc-parser-d88ae54b.md) |
+| @ruvyxa/database | Node.js/JavaScript | Database Datastore | 1.1.5 | 2026-09-06T15:21:40.063Z | [open](records/node-js-javascript-ruvyxa-database-28ef5413.md) |
+| PenroseKiteDart | Haskell | Filesystem Os | 1.10.1 | 2026-09-06T15:03:47Z | [open](records/haskell-penrosekitedart-fee1bf50.md) |
+| ppad-aead | Haskell | Library | 0.3.6 | 2026-09-06T14:47:43Z | [open](records/haskell-ppad-aead-dc2d6455.md) |
 | ppad-chacha | Haskell | Library | 0.3.0 | 2026-09-06T13:41:37Z | [open](records/haskell-ppad-chacha-cbc8dffb.md) |
 | remeda | Node.js/TypeScript | Type Checker | 2.46.0 | 2026-09-06T13:24:34.777Z | [open](records/node-js-typescript-remeda-e8308358.md) |
 | @wdio/appium-service | Node.js/JavaScript | Web Framework | 9.31.6 | 2026-09-06T12:49:47.686Z | [open](records/node-js-javascript-wdio-appium-service-4e12b589.md) |
 | @wdio/mocha-framework | Node.js/JavaScript | Testing Framework | 9.31.6 | 2026-09-06T12:47:30.494Z | [open](records/node-js-javascript-wdio-mocha-framework-8a114d96.md) |
 | @wdio/cucumber-framework | Node.js/JavaScript | Testing Framework | 9.31.6 | 2026-09-06T12:47:29.985Z | [open](records/node-js-javascript-wdio-cucumber-framework-3fd5daaf.md) |
-| @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.113.14 | 2026-09-06T12:14:41.490Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
 | baseball-database | Node.js/JavaScript | Database Datastore | 1.2.4 | 2026-09-06T12:05:08.125Z | [open](records/node-js-javascript-baseball-database-e38f2b26.md) |
 | mmzk-env | Haskell | Configuration | 0.6.0.0 | 2026-09-06T12:01:56Z | [open](records/haskell-mmzk-env-78c01d27.md) |
 | arch-hs | Haskell | Library | 0.15 | 2026-09-06T11:53:39Z | [open](records/haskell-arch-hs-aea67c7e.md) |
@@ -65,6 +70,9 @@ Generated: `2026-09-06T15:20:23+00:00`
 | zstd | Haskell | Compression | 0.1.4.0 | 2026-09-06T03:09:59Z | [open](records/haskell-zstd-01fb5311.md) |
 | crypton | Haskell | Cryptography | 1.1.5 | 2026-09-06T02:20:25Z | [open](records/haskell-crypton-7cba2161.md) |
 | pin_input_text_field | Dart | Dependency Manager | 4.5.3 | 2026-09-06T02:13:00.125941Z | [open](records/dart-pin-input-text-field-b2436d80.md) |
+| R2sample | R | Library | 5.0.0 | 2026-09-06 15:40:02 UTC | [open](records/r-r2sample-a822dd72.md) |
+| mFilter | R | Datetime | 0.1-8 | 2026-09-06 15:10:02 UTC | [open](records/r-mfilter-c4e756e7.md) |
+| jmdem | R | Library | 1.0.2 | 2026-09-06 14:40:02 UTC | [open](records/r-jmdem-9343869b.md) |
 | dapper | R | Filesystem Os | 1.1.1 | 2026-09-06 13:00:10 UTC | [open](records/r-dapper-2d6945d3.md) |
 | ggfortify | R | Static Analyzer | 0.4.23 | 2026-09-06 13:00:02 UTC | [open](records/r-ggfortify-1c656f42.md) |
 | Hmisc | R | Library | 5.3-0 | 2026-09-06 12:40:02 UTC | [open](records/r-hmisc-ca9e9b44.md) |
@@ -277,20 +285,12 @@ Generated: `2026-09-06T15:20:23+00:00`
 | hls-plugin-api | Haskell | Api Abi Checker | 2.15.0.0 | 2026-09-04T10:38:10Z | [open](records/haskell-hls-plugin-api-d1d79e30.md) |
 | ghcide | Haskell | Ide Editor Integration | 2.15.0.0 | 2026-09-04T10:38:09Z | [open](records/haskell-ghcide-c9d6b87b.md) |
 | hls-graph | Haskell | Library | 2.15.0.0 | 2026-09-04T10:38:08Z | [open](records/haskell-hls-graph-dfa7953b.md) |
-| haskell-language-server | Haskell | Language Specification | 2.15.0.0 | 2026-09-04T10:38:07Z | [open](records/haskell-haskell-language-server-f76a78a4.md) |
-| @upstash/context7-mcp | Node.js/JavaScript | Web Framework | 4.0.5 | 2026-09-04T10:13:57.326Z | [open](records/node-js-javascript-upstash-context7-mcp-f62fb753.md) |
-| permission_handler | Dart | Ide Editor Integration | 13.0.2 | 2026-09-04T09:59:07.411412Z | [open](records/dart-permission-handler-bab0280b.md) |
-| retrofit_generator | Dart | Networking Http | 10.2.11 | 2026-09-04T09:53:03.328942Z | [open](records/dart-retrofit-generator-f82b1374.md) |
-| cc | Rust | Compiler | 1.4.5 | 2026-09-04T09:28:57.146598Z | [open](records/rust-cc-40676e0b.md) |
-| find-msvc-tools | Rust | Package Manager | 0.1.12 | 2026-09-04T09:28:52.840002Z | [open](records/rust-find-msvc-tools-14b1752c.md) |
-| tokio-rustls | Rust | Async Runtime | 0.26.5 | 2026-09-04T08:52:06.163215Z | [open](records/rust-tokio-rustls-1af4ceb7.md) |
-| @umijs/server | Node.js/JavaScript | Web Framework | 4.7.14 | 2026-09-04T08:50:53.063Z | [open](records/node-js-javascript-umijs-server-39ec9954.md) |
 
 ## Unknown Reasons
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 9564 |
+| gh_search_reports_activity_not_release_version | 9565 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |

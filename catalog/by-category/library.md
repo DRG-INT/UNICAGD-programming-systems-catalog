@@ -1,6 +1,6 @@
 # Library
 
-Records: `5638`
+Records: `5642`
 
 ## Navigation
 
@@ -12,12 +12,12 @@ Records: `5638`
 [Benchmarking (198)](benchmarking.md) · [Build System (989)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (117)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (175)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (230)](datetime.md)
+[Cryptography (175)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (231)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (455)](ffi-bindings.md) · [Filesystem Os (1585)](filesystem-os.md) · [Formatter (646)](formatter.md)
+[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (455)](ffi-bindings.md) · [Filesystem Os (1586)](filesystem-os.md) · [Formatter (646)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1457)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (269)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1433)](language-specification.md) · **[Library (5638)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1433)](language-specification.md) · **[Library (5642)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1183)](parser-lexer-ast.md) · [Precommit Ci Quality (303)](precommit-ci-quality.md)
@@ -2707,6 +2707,7 @@ Records: `5638`
 | isoniche | 1.0.0 | 2026-08-25 21:10:12 UTC | [open](../records/r-isoniche-a6c9218c.md) |
 | isoreader2 | 0.7.0 | 2026-08-24 05:20:15 UTC | [open](../records/r-isoreader2-78b87aa2.md) |
 | IssueTrackeR | 1.5.0 | 2026-08-21 05:46:20 UTC | [open](../records/r-issuetracker-9cf3dee2.md) |
+| jmdem | 1.0.2 | 2026-09-06 14:40:02 UTC | [open](../records/r-jmdem-9343869b.md) |
 | jointCompRisk | 0.1.2 | 2026-08-19 23:10:02 UTC | [open](../records/r-jointcomprisk-ae8df8a8.md) |
 | jsutils | 0.4.0 | 2026-08-21 22:00:52 UTC | [open](../records/r-jsutils-2ad37532.md) |
 | JuliaConnectoR | 1.1.6 | 2026-08-31 19:31:10 UTC | [open](../records/r-juliaconnector-a0029324.md) |
@@ -2852,6 +2853,7 @@ Records: `5638`
 | qcluster | 3.0.0 | 2026-09-02 10:30:02 UTC | [open](../records/r-qcluster-30e54184.md) |
 | qdaR | 0.1.0 | 2026-09-05 13:50:08 UTC | [open](../records/r-qdar-1c5059cd.md) |
 | qgcomp | 2.19.5 | 2026-09-03 05:20:11 UTC | [open](../records/r-qgcomp-fb7673ad.md) |
+| R2sample | 5.0.0 | 2026-09-06 15:40:02 UTC | [open](../records/r-r2sample-a822dd72.md) |
 | random | 0.2.7 | 2026-08-30 05:10:12 UTC | [open](../records/r-random-f1dfb428.md) |
 | randomForestRHF | 2.0.3 | 2026-09-01 14:10:02 UTC | [open](../records/r-randomforestrhf-7d8737c4.md) |
 | randomizr | 2.0.1 | 2026-08-27 05:10:15 UTC | [open](../records/r-randomizr-afc0b4b1.md) |
@@ -3622,7 +3624,7 @@ Records: `5638`
 | mmsyn7h | 0.8.1.0 | 2020-12-03T18:49:56Z | [open](../records/haskell-mmsyn7h-0ebc5037.md) |
 | mmsyn7s | 0.9.1.0 | 2020-10-09T10:00:04Z | [open](../records/haskell-mmsyn7s-6f192912.md) |
 | mmsyn7ukr | 0.17.0.0 | 2020-08-16T19:50:08Z | [open](../records/haskell-mmsyn7ukr-bb686661.md) |
-| mmzk-typeid | 0.7.1.1 | 2026-05-13T10:31:39Z | [open](../records/haskell-mmzk-typeid-3ea027d6.md) |
+| mmzk-typeid | 0.7.1.2 | 2026-09-06T15:45:17Z | [open](../records/haskell-mmzk-typeid-3ea027d6.md) |
 | modern-uri | 0.3.6.1 | 2023-08-18T20:57:49Z | [open](../records/haskell-modern-uri-8f10b66b.md) |
 | module-management | 0.21 | 2016-05-01T19:27:47Z | [open](../records/haskell-module-management-b42ba469.md) |
 | moesocks | 1.0.1.0 | 2018-12-27T18:12:16Z | [open](../records/haskell-moesocks-ae267123.md) |
@@ -3698,6 +3700,7 @@ Records: `5638`
 | pontarius-xmpp | 0.5.7.2 | 2025-02-08T00:11:06Z | [open](../records/haskell-pontarius-xmpp-5a5fc4ed.md) |
 | potoki | 2.1.4.1 | 2019-01-24T14:41:36Z | [open](../records/haskell-potoki-46cbb511.md) |
 | potoki-core | 2.3.4.1 | 2019-01-24T14:30:09Z | [open](../records/haskell-potoki-core-455ab868.md) |
+| ppad-aead | 0.3.6 | 2026-09-06T14:47:43Z | [open](../records/haskell-ppad-aead-dc2d6455.md) |
 | ppad-chacha | 0.3.0 | 2026-09-06T13:41:37Z | [open](../records/haskell-ppad-chacha-cbc8dffb.md) |
 | ppad-secp256k1 | 0.5.8 | 2026-08-01T17:34:33Z | [open](../records/haskell-ppad-secp256k1-f3a1306d.md) |
 | pqi-conformance | 1.0.12.0 | 2026-08-25T20:02:48Z | [open](../records/haskell-pqi-conformance-04c6674f.md) |
@@ -5347,6 +5350,7 @@ Records: `5638`
 | anxzxz/radiogarden | partial | 2026-01-24T16:48:01Z | [open](../records/radio-garden-speciality-anxzxz-radiogarden-50474431.md) |
 | billyx86/radio-garden-clone | partial | 2026-08-27T03:05:40Z | [open](../records/radio-garden-speciality-billyx86-radio-garden-clone-95c13869.md) |
 | Broccolifm/BroccoliFm | partial | 2025-11-03T08:19:04Z | [open](../records/radio-garden-speciality-broccolifm-broccolifm-93eab489.md) |
+| Dayanna-Parson/Radio-Garden-Accesible | partial | 2026-09-06T15:21:23Z | [open](../records/radio-garden-speciality-dayanna-parson-radio-garden-accesible-0c2fb16d.md) |
 | doni7brandao/jardim | partial | 2018-09-25T18:21:45Z | [open](../records/radio-garden-speciality-doni7brandao-jardim-dd16238d.md) |
 | Florence422/radio_gadern_app | partial | 2025-11-08T19:42:01Z | [open](../records/radio-garden-speciality-florence422-radio-gadern-app-ea7d5581.md) |
 | frealgagu/archlinux.radio-garden | partial | 2021-08-20T00:43:26Z | [open](../records/radio-garden-speciality-frealgagu-archlinux-radio-garden-1dc58d96.md) |
@@ -5476,7 +5480,7 @@ Records: `5638`
 | takenobu-hs/cpu-assembly-examples | partial | 2024-05-19T06:55:01Z | [open](../records/assembly-takenobu-hs-cpu-assembly-examples-b5867112.md) |
 | Thraetaona/EXACT | partial | 2024-06-13T18:59:42Z | [open](../records/assembly-thraetaona-exact-bb36746a.md) |
 | vonsim/vonsim | partial | 2026-05-29T02:08:00Z | [open](../records/assembly-vonsim-vonsim-6a8ef78f.md) |
-| vvaltchev/tilck | partial | 2026-09-06T06:00:19Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
+| vvaltchev/tilck | partial | 2026-09-06T15:57:56Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
 | xtnded/codextended | partial | 2026-05-07T10:43:51Z | [open](../records/assembly-xtnded-codextended-97cbc636.md) |
 | yds12/x64-roadmap | partial | 2020-07-16T15:54:20Z | [open](../records/assembly-yds12-x64-roadmap-3b9663e2.md) |
 | yrp604/rappel | partial | 2024-03-07T04:45:15Z | [open](../records/assembly-yrp604-rappel-4bf787bb.md) |

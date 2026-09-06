@@ -8,12 +8,12 @@
 [Benchmarking (198)](by-category/benchmarking.md) · [Build System (989)](by-category/build-system.md) · [Cli (563)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (117)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (24)](by-category/compiler-diagnostics.md) · [Compression (51)](by-category/compression.md)
 [Concurrency Parallelism (89)](by-category/concurrency-parallelism.md) · [Configuration (130)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (175)](by-category/cryptography.md) · [Data Science (38)](by-category/data-science.md) · [Database Datastore (892)](by-category/database-datastore.md) · [Datetime (230)](by-category/datetime.md)
+[Cryptography (175)](by-category/cryptography.md) · [Data Science (38)](by-category/data-science.md) · [Database Datastore (892)](by-category/database-datastore.md) · [Datetime (231)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (102)](by-category/dependency-manager.md) · [Documentation (103)](by-category/documentation.md)
-[Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (455)](by-category/ffi-bindings.md) · [Filesystem Os (1585)](by-category/filesystem-os.md) · [Formatter (646)](by-category/formatter.md)
+[Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (455)](by-category/ffi-bindings.md) · [Filesystem Os (1586)](by-category/filesystem-os.md) · [Formatter (646)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (355)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1457)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (269)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (29)](by-category/language-server.md) · [Language Specification (1433)](by-category/language-specification.md) · [Library (5638)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (29)](by-category/language-server.md) · [Language Specification (1433)](by-category/language-specification.md) · [Library (5642)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (520)](by-category/logging-observability.md) · [Machine Learning (788)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1035)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1183)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (303)](by-category/precommit-ci-quality.md)
@@ -895,6 +895,7 @@
 | `cran_packages_by_date-0cc952d7c0a8ac` | pizzarr | [open](records/r-pizzarr-646f3135.md) |
 | `cran_packages_by_date-0ccae0957e3728` | opdisDownsampling | [open](records/r-opdisdownsampling-17ba0e83.md) |
 | `cran_packages_by_date-0ce7060e6e2bb3` | StanHeaders | [open](records/r-stanheaders-057c3682.md) |
+| `cran_packages_by_date-0cee466d060817` | mFilter | [open](records/r-mfilter-c4e756e7.md) |
 | `cran_packages_by_date-0d0b4396e02517` | directlabels | [open](records/r-directlabels-65e4fde1.md) |
 | `cran_packages_by_date-0db9a9d74d5a71` | rice | [open](records/r-rice-92478c24.md) |
 | `cran_packages_by_date-0dc20ca16c3b0c` | Rmpfr | [open](records/r-rmpfr-c1712963.md) |
@@ -957,6 +958,7 @@
 | `cran_packages_by_date-16106d3f9420d6` | CopulaSCR | [open](records/r-copulascr-78dd9030.md) |
 | `cran_packages_by_date-1672178b407fe2` | oeli | [open](records/r-oeli-dc0d7f62.md) |
 | `cran_packages_by_date-168075dc51e7a5` | flightsbr | [open](records/r-flightsbr-9ec5bd4c.md) |
+| `cran_packages_by_date-1706117af987a3` | R2sample | [open](records/r-r2sample-a822dd72.md) |
 | `cran_packages_by_date-172306a0e8991c` | uGMAR | [open](records/r-ugmar-28cb88f4.md) |
 | `cran_packages_by_date-178119bcfd2d08` | biomes | [open](records/r-biomes-8b0e7317.md) |
 | `cran_packages_by_date-17989aa4f5a4bf` | Argentum | [open](records/r-argentum-3c048222.md) |
@@ -2386,6 +2388,7 @@
 | `cran_packages_by_date-efd05ff32bc747` | brulee | [open](records/r-brulee-b0699596.md) |
 | `cran_packages_by_date-efd6a7c3ed93a7` | gmvarkit | [open](records/r-gmvarkit-788988b3.md) |
 | `cran_packages_by_date-efe2ec1d641182` | goodpractice | [open](records/r-goodpractice-b188b70b.md) |
+| `cran_packages_by_date-efeff6d7f06cb2` | jmdem | [open](records/r-jmdem-9343869b.md) |
 | `cran_packages_by_date-f091fc48b4a71d` | gp3tools | [open](records/r-gp3tools-3fb3dda5.md) |
 | `cran_packages_by_date-f09c66522f9045` | crops | [open](records/r-crops-133aa91c.md) |
 | `cran_packages_by_date-f0a15dc89e5fef` | RtForecastR | [open](records/r-rtforecastr-5c0f1709.md) |
@@ -12771,6 +12774,7 @@
 | `github_search_radio_garden_speciality-34d2ea70a91b37` | hamza-dv/radio-cli | [open](records/radio-garden-speciality-hamza-dv-radio-cli-39ad0674.md) |
 | `github_search_radio_garden_speciality-36381d1995103a` | jabahum/RadioGarden-Mobile-App | [open](records/radio-garden-speciality-jabahum-radiogarden-mobile-app-9e7f7233.md) |
 | `github_search_radio_garden_speciality-368465c313d3ce` | Steamerbill/GardenMtRadio1 | [open](records/radio-garden-speciality-steamerbill-gardenmtradio1-764ab815.md) |
+| `github_search_radio_garden_speciality-36df78fd7b21f8` | Dayanna-Parson/Radio-Garden-Accesible | [open](records/radio-garden-speciality-dayanna-parson-radio-garden-accesible-0c2fb16d.md) |
 | `github_search_radio_garden_speciality-37e5027f72f683` | ephendyy/sahabatfb | [open](records/radio-garden-speciality-ephendyy-sahabatfb-bb497835.md) |
 | `github_search_radio_garden_speciality-3b970ec9477163` | PeterboroughDoors/Creating-a-Comfortable-Working-Environment-with-Replacement-Double-Glazing | [open](records/radio-garden-speciality-peterboroughdoors-creating-a-comfortable-working-environment-with-replacement-double-glazing-0e8393ac.md) |
 | `github_search_radio_garden_speciality-3d59b793a6ce07` | JulioG516/RadioGarden.NET | [open](records/radio-garden-speciality-juliog516-radiogarden-net-6ccb41e6.md) |
@@ -16714,8 +16718,10 @@
 | `hackage_recent-0c786b314b6410` | grapesy | [open](records/haskell-grapesy-9ecbf2e2.md) |
 | `hackage_recent-15fcfdbd7752f4` | bugsnag | [open](records/haskell-bugsnag-279ae229.md) |
 | `hackage_recent-1764fed6d2bbbd` | zstd | [open](records/haskell-zstd-01fb5311.md) |
+| `hackage_recent-19d9bb12653a6e` | mmzk-typeid | [open](records/haskell-mmzk-typeid-3ea027d6.md) |
 | `hackage_recent-1c62771ff44deb` | yamlstar | [open](records/haskell-yamlstar-bc72bee8.md) |
 | `hackage_recent-1ea8333adc6eff` | kioku-migrate | [open](records/haskell-kioku-migrate-f80d609d.md) |
+| `hackage_recent-1f5b1e2f93bac6` | ppad-aead | [open](records/haskell-ppad-aead-dc2d6455.md) |
 | `hackage_recent-1f69dbd7dfac1e` | secretspec | [open](records/haskell-secretspec-dd9d987d.md) |
 | `hackage_recent-1ff7b0c59c3981` | bugsnag-yesod | [open](records/haskell-bugsnag-yesod-b94b89ea.md) |
 | `hackage_recent-2c80f696145345` | kioku-core | [open](records/haskell-kioku-core-38935c2c.md) |
@@ -16731,7 +16737,6 @@
 | `hackage_recent-4991588be3e093` | data-rfc5280 | [open](records/haskell-data-rfc5280-fa027eaf.md) |
 | `hackage_recent-4c746b3da5448e` | freckle-otel | [open](records/haskell-freckle-otel-14553b97.md) |
 | `hackage_recent-560e75fc58d6d8` | vcs-ignore | [open](records/haskell-vcs-ignore-b594cffb.md) |
-| `hackage_recent-5619b1b3b90ffa` | ditto-lucid | [open](records/haskell-ditto-lucid-bbeabec5.md) |
 | `hackage_recent-58fa0175997b25` | rme | [open](records/haskell-rme-b14c2f66.md) |
 | `hackage_recent-5c6c989abcb5c8` | typed-peg | [open](records/haskell-typed-peg-d0f69182.md) |
 | `hackage_recent-6179081120d6b4` | srtree-db | [open](records/haskell-srtree-db-c70023f5.md) |
@@ -16762,6 +16767,7 @@
 | `hackage_recent-a36649bd60ab3b` | scotty-form | [open](records/haskell-scotty-form-93a35177.md) |
 | `hackage_recent-a99745c6242ce4` | cabal-install-parsers | [open](records/haskell-cabal-install-parsers-5bbb1ac6.md) |
 | `hackage_recent-ac04315f573ba8` | arch-hs | [open](records/haskell-arch-hs-aea67c7e.md) |
+| `hackage_recent-aff683b7cc08d1` | PenroseKiteDart | [open](records/haskell-penrosekitedart-fee1bf50.md) |
 | `hackage_recent-b0a2156f477e6d` | bugsnag-wai | [open](records/haskell-bugsnag-wai-3c1467be.md) |
 | `hackage_recent-b96d721832028c` | bugsnag-types | [open](records/haskell-bugsnag-types-dca970ca.md) |
 | `hackage_recent-bb70de6d67b11f` | clash-shockwaves | [open](records/haskell-clash-shockwaves-0ff8e02b.md) |
@@ -16922,7 +16928,6 @@
 | `hackage_top_downloads-19b0d89e8b8566` | fix-imports | [open](records/haskell-fix-imports-a06174ac.md) |
 | `hackage_top_downloads-19b3f08054a6d8` | uuid | [open](records/haskell-uuid-e1bcd164.md) |
 | `hackage_top_downloads-19c0bee289653b` | zeolite-lang | [open](records/haskell-zeolite-lang-121149cb.md) |
-| `hackage_top_downloads-19d9bb12653a6e` | mmzk-typeid | [open](records/haskell-mmzk-typeid-3ea027d6.md) |
 | `hackage_top_downloads-1a144fb675a4a9` | vinyl | [open](records/haskell-vinyl-41f42141.md) |
 | `hackage_top_downloads-1a5a941c1596d5` | dhall-nix | [open](records/haskell-dhall-nix-b198fdc8.md) |
 | `hackage_top_downloads-1a67f43a9aecc6` | gi-javascriptcore | [open](records/haskell-gi-javascriptcore-3cc4a760.md) |
@@ -17230,6 +17235,7 @@
 | `hackage_top_downloads-5528f0904a9b3a` | clckwrks | [open](records/haskell-clckwrks-6203ac81.md) |
 | `hackage_top_downloads-55698764491d64` | cryptocipher | [open](records/haskell-cryptocipher-aabf56fb.md) |
 | `hackage_top_downloads-55a861485b1d05` | cabal-lenses | [open](records/haskell-cabal-lenses-d7ccc386.md) |
+| `hackage_top_downloads-5619b1b3b90ffa` | ditto-lucid | [open](records/haskell-ditto-lucid-bbeabec5.md) |
 | `hackage_top_downloads-56792c8b4a569e` | beam-sqlite | [open](records/haskell-beam-sqlite-31ef3c68.md) |
 | `hackage_top_downloads-569594a8a59d35` | exceptions | [open](records/haskell-exceptions-50aed5a3.md) |
 | `hackage_top_downloads-56eb6f1c61656c` | wai-cors | [open](records/haskell-wai-cors-b4359c36.md) |
