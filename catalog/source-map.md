@@ -8,16 +8,16 @@
 [Benchmarking (199)](by-category/benchmarking.md) · [Build System (992)](by-category/build-system.md) · [Cli (563)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (24)](by-category/compiler-diagnostics.md) · [Compression (51)](by-category/compression.md)
 [Concurrency Parallelism (89)](by-category/concurrency-parallelism.md) · [Configuration (130)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (175)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (892)](by-category/database-datastore.md) · [Datetime (231)](by-category/datetime.md)
+[Cryptography (175)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (893)](by-category/database-datastore.md) · [Datetime (231)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (102)](by-category/dependency-manager.md) · [Documentation (104)](by-category/documentation.md)
 [Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (456)](by-category/ffi-bindings.md) · [Filesystem Os (1590)](by-category/filesystem-os.md) · [Formatter (646)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (356)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1460)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (269)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
 [Language Server (29)](by-category/language-server.md) · [Language Specification (1435)](by-category/language-specification.md) · [Library (5656)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (521)](by-category/logging-observability.md) · [Machine Learning (792)](by-category/machine-learning.md)
+[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (526)](by-category/logging-observability.md) · [Machine Learning (792)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1035)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1185)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (305)](by-category/precommit-ci-quality.md)
-[Profiler (87)](by-category/profiler.md) · [Project Scaffolding (133)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (15)](by-category/sanitizer.md)
+[Profiler (87)](by-category/profiler.md) · [Project Scaffolding (133)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (336)](by-category/security-sast.md) · [Serialization (396)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (610)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (606)](by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](by-category/tutorial-book-styleguide.md) · [Type Checker (313)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1615)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (553)](by-category/visualization-gui.md) · [Web Framework (476)](by-category/web-framework.md)
@@ -12889,6 +12889,7 @@
 | `github_search_repertoare_catalogs-2106c47deb51f9` | pythymcpyface/lichess-analyser | [open](records/repertoare-catalogs-pythymcpyface-lichess-analyser-18beb8d5.md) |
 | `github_search_repertoare_catalogs-22a36101e45f30` | marshallswain/song-book-api | [open](records/repertoare-catalogs-marshallswain-song-book-api-9e3ddeb4.md) |
 | `github_search_repertoare_catalogs-276dc46f859ea5` | Chistera-Scoring/services-catalog | [open](records/repertoare-catalogs-chistera-scoring-services-catalog-59fbb312.md) |
+| `github_search_repertoare_catalogs-283224c4287f5d` | Sanjay0232/Catalogue-Scoring | [open](records/repertoare-catalogs-sanjay0232-catalogue-scoring-016492cf.md) |
 | `github_search_repertoare_catalogs-2958721a1febea` | Venu-Guptha/Indexing-Crawling-and-Ranking | [open](records/repertoare-catalogs-venu-guptha-indexing-crawling-and-ranking-0018fc06.md) |
 | `github_search_repertoare_catalogs-2a1fbdb59a800d` | abajorek/repsmith | [open](records/repertoare-catalogs-abajorek-repsmith-b359f433.md) |
 | `github_search_repertoare_catalogs-2b7504173981a6` | traval313/tabla-repertoire | [open](records/repertoare-catalogs-traval313-tabla-repertoire-252c5a36.md) |
@@ -12915,6 +12916,7 @@
 | `github_search_repertoare_catalogs-48b8543c80499d` | jacekiwaszko1/ad-aequales | [open](records/repertoare-catalogs-jacekiwaszko1-ad-aequales-c5a444ba.md) |
 | `github_search_repertoare_catalogs-49776647c99e55` | apurvrdx1/tagore | [open](records/repertoare-catalogs-apurvrdx1-tagore-83e8f185.md) |
 | `github_search_repertoare_catalogs-4a168421f7c846` | USCbiostats/pgscorer | [open](records/repertoare-catalogs-uscbiostats-pgscorer-69ec28d8.md) |
+| `github_search_repertoare_catalogs-4c058af8663a54` | manan75/Catalogue-scoring | [open](records/repertoare-catalogs-manan75-catalogue-scoring-cdbf9bd5.md) |
 | `github_search_repertoare_catalogs-4c72e0d9cf6ec1` | rbessinger/cleancheck | [open](records/repertoare-catalogs-rbessinger-cleancheck-6887fc53.md) |
 | `github_search_repertoare_catalogs-4ce160216b4f8f` | ouvroir/display | [open](records/repertoare-catalogs-ouvroir-display-afb42e98.md) |
 | `github_search_repertoare_catalogs-4ce3f565923576` | ageneau/piano-repertoire-index | [open](records/repertoare-catalogs-ageneau-piano-repertoire-index-2195d707.md) |
@@ -13006,15 +13008,19 @@
 | `github_search_repertoare_catalogs-c5ae46123ee34f` | msemery/repertoire_de_collection | [open](records/repertoare-catalogs-msemery-repertoire-de-collection-cf994c5c.md) |
 | `github_search_repertoare_catalogs-c78a412c693aeb` | Cristian-Ayala/band-blend | [open](records/repertoare-catalogs-cristian-ayala-band-blend-020b5aa8.md) |
 | `github_search_repertoare_catalogs-c7acac0114c2b5` | siracalaks/vektra | [open](records/repertoare-catalogs-siracalaks-vektra-c75a6dd5.md) |
+| `github_search_repertoare_catalogs-c7ae0feffda45d` | marklogan17/game-catalog | [open](records/repertoare-catalogs-marklogan17-game-catalog-52426cc8.md) |
 | `github_search_repertoare_catalogs-c8d3df101a5741` | commerce-agentic/agentic-commerce-tools | [open](records/repertoare-catalogs-commerce-agentic-agentic-commerce-tools-a3e081f4.md) |
 | `github_search_repertoare_catalogs-caba466858430d` | PGScatalog/pgsc_calc | [open](records/repertoare-catalogs-pgscatalog-pgsc-calc-0cbf3293.md) |
 | `github_search_repertoare_catalogs-cb272337b7db27` | alaosama/ExquisiteProjects | [open](records/repertoare-catalogs-alaosama-exquisiteprojects-c25e7a56.md) |
 | `github_search_repertoare_catalogs-cc94c957226f39` | knightway8/chess4 | [open](records/repertoare-catalogs-knightway8-chess4-d4f347a8.md) |
 | `github_search_repertoare_catalogs-ce13bdb8bdee51` | Kingdompe/ai-catalog-score-docs | [open](records/repertoare-catalogs-kingdompe-ai-catalog-score-docs-52a2d6b4.md) |
+| `github_search_repertoare_catalogs-ce50dd4f5da448` | lorenasandoval88/pgs_catalog_sdk | [open](records/repertoare-catalogs-lorenasandoval88-pgs-catalog-sdk-0b279a9b.md) |
 | `github_search_repertoare_catalogs-cf845096919a2d` | NCherfaoui/Mini_Projects | [open](records/repertoare-catalogs-ncherfaoui-mini-projects-3cc26ea0.md) |
 | `github_search_repertoare_catalogs-d1f92d51db0495` | pianoenergy/repertoire-manager-releases | [open](records/repertoare-catalogs-pianoenergy-repertoire-manager-releases-3f77c322.md) |
 | `github_search_repertoare_catalogs-d37ac7759eb524` | sujithputta02/Team-Dataminers | [open](records/repertoare-catalogs-sujithputta02-team-dataminers-db6e7e30.md) |
+| `github_search_repertoare_catalogs-d8afb5c016dd23` | SpatialDynamicsLab/SCORE-sensor-catalogue-web-app | [open](records/repertoare-catalogs-spatialdynamicslab-score-sensor-catalogue-web-app-dacf35b8.md) |
 | `github_search_repertoare_catalogs-dab0fda711e893` | PGScatalog/PGS_Catalog | [open](records/repertoare-catalogs-pgscatalog-pgs-catalog-ee188ec5.md) |
+| `github_search_repertoare_catalogs-db25382f28593a` | Serge-X/Game_Catalog | [open](records/repertoare-catalogs-serge-x-game-catalog-a07fec1e.md) |
 | `github_search_repertoare_catalogs-db294d8070c03d` | costagannac/butwhatshouldiplay | [open](records/repertoare-catalogs-costagannac-butwhatshouldiplay-5dd9e9fa.md) |
 | `github_search_repertoare_catalogs-dc5631b90df12c` | korux-ai/korux-repertoire | [open](records/repertoare-catalogs-korux-ai-korux-repertoire-0bd1045a.md) |
 | `github_search_repertoare_catalogs-de903b80f9f536` | Arnon-hs/open-source | [open](records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) |
@@ -13023,6 +13029,7 @@
 | `github_search_repertoare_catalogs-e4bb0a980260e4` | ytann/ML-Projects-Repertoire | [open](records/repertoare-catalogs-ytann-ml-projects-repertoire-05ba0afa.md) |
 | `github_search_repertoare_catalogs-e58f5f39df5839` | ProtocolRedefined/Service-Catalog-Scorecard | [open](records/repertoare-catalogs-protocolredefined-service-catalog-scorecard-48ff50e0.md) |
 | `github_search_repertoare_catalogs-e5d26881d1a343` | ibtissamelhani/Maska_Hunter_League | [open](records/repertoare-catalogs-ibtissamelhani-maska-hunter-league-b5889dc3.md) |
+| `github_search_repertoare_catalogs-e5d82ddf6678b0` | hwasun-zip/Catalog-Triage | [open](records/repertoare-catalogs-hwasun-zip-catalog-triage-f9629850.md) |
 | `github_search_repertoare_catalogs-e7af38a7ebc3a1` | pesnik/flask-repertoire | [open](records/repertoare-catalogs-pesnik-flask-repertoire-569c53ed.md) |
 | `github_search_repertoare_catalogs-e8525fc8cc8314` | Yeoh-TH/music-catalogue | [open](records/repertoare-catalogs-yeoh-th-music-catalogue-168a4281.md) |
 | `github_search_repertoare_catalogs-e8dc16ed3a69a0` | alanjvano/ChessOpeningRepertoire | [open](records/repertoare-catalogs-alanjvano-chessopeningrepertoire-0e9a1b9a.md) |

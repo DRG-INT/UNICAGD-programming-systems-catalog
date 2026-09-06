@@ -1,6 +1,6 @@
 # Repertoare Catalogs
 
-Records: `182`
+Records: `189`
 
 ## Navigation
 
@@ -12,16 +12,16 @@ Records: `182`
 [Benchmarking (199)](../by-category/benchmarking.md) · [Build System (992)](../by-category/build-system.md) · [Cli (563)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (24)](../by-category/compiler-diagnostics.md) · [Compression (51)](../by-category/compression.md)
 [Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (130)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (175)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (892)](../by-category/database-datastore.md) · [Datetime (231)](../by-category/datetime.md)
+[Cryptography (175)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (893)](../by-category/database-datastore.md) · [Datetime (231)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (102)](../by-category/dependency-manager.md) · [Documentation (104)](../by-category/documentation.md)
 [Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (456)](../by-category/ffi-bindings.md) · [Filesystem Os (1590)](../by-category/filesystem-os.md) · [Formatter (646)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (356)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1460)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (269)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
 [Language Server (29)](../by-category/language-server.md) · [Language Specification (1435)](../by-category/language-specification.md) · [Library (5656)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (521)](../by-category/logging-observability.md) · [Machine Learning (792)](../by-category/machine-learning.md)
+[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (526)](../by-category/logging-observability.md) · [Machine Learning (792)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1035)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1185)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (305)](../by-category/precommit-ci-quality.md)
-[Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (15)](../by-category/sanitizer.md)
+[Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (336)](../by-category/security-sast.md) · [Serialization (396)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (610)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (606)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1615)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (553)](../by-category/visualization-gui.md) · [Web Framework (476)](../by-category/web-framework.md)
@@ -110,6 +110,7 @@ Records: `182`
 | --- | --- | --- | --- |
 | [ens-lgil/PGS_Catalog_deprecated](../records/repertoare-catalogs-ens-lgil-pgs-catalog-deprecated-88d51e98.md) | partial | 2025-11-18T16:51:23Z | registry-derived |
 | [Federico-Aguirre/Veterinaria_Laravel](../records/repertoare-catalogs-federico-aguirre-veterinaria-laravel-0ef91b6e.md) | partial | 2026-09-05T09:53:01Z | registry-derived |
+| [hwasun-zip/Catalog-Triage](../records/repertoare-catalogs-hwasun-zip-catalog-triage-f9629850.md) | partial | 2026-08-31T15:03:01Z | registry-derived |
 | [PGScatalog/PGS_Catalog](../records/repertoare-catalogs-pgscatalog-pgs-catalog-ee188ec5.md) | partial | 2026-09-03T15:07:53Z | registry-derived |
 
 ### Dependency Manager
@@ -220,7 +221,7 @@ Records: `182`
 | [adityacodes30/catalog-scoring-ondc](../records/repertoare-catalogs-adityacodes30-catalog-scoring-ondc-eed2618c.md) | partial | 2024-06-23T17:33:29Z | registry-derived |
 | [AdityaLad2004/Catalog-Score](../records/repertoare-catalogs-adityalad2004-catalog-score-1c228719.md) | partial | 2024-02-10T18:28:30Z | registry-derived |
 | [alphaparkinc/genpark-catalog-enrichment-skill](../records/repertoare-catalogs-alphaparkinc-genpark-catalog-enrichment-skill-9442da58.md) | partial | 2026-07-10T05:51:52Z | registry-derived |
-| [Arnon-hs/open-source](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) | partial | 2026-09-06T16:11:54Z | registry-derived |
+| [Arnon-hs/open-source](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) | partial | 2026-09-06T18:51:49Z | registry-derived |
 | [CHagarty/scorecard-catalogue](../records/repertoare-catalogs-chagarty-scorecard-catalogue-ac87b7bd.md) | partial | 2025-07-11T00:33:16Z | registry-derived |
 | [Chistera-Scoring/services-catalog](../records/repertoare-catalogs-chistera-scoring-services-catalog-59fbb312.md) | partial | 2023-11-27T10:50:20Z | registry-derived |
 | [Eswaraiahsapram/scorecard-catalog](../records/repertoare-catalogs-eswaraiahsapram-scorecard-catalog-92541430.md) | partial | 2025-09-02T05:54:30Z | registry-derived |
@@ -228,14 +229,19 @@ Records: `182`
 | [JaysonBucket/NewsCommander](../records/repertoare-catalogs-jaysonbucket-newscommander-5fab9bf1.md) | partial | 2026-05-28T23:50:57Z | registry-derived |
 | [Lydie-hero/catalogue-score-proto](../records/repertoare-catalogs-lydie-hero-catalogue-score-proto-1eb7751a.md) | partial | 2026-07-28T11:11:10Z | registry-derived |
 | [magendooro/magento2-catalog-quality](../records/repertoare-catalogs-magendooro-magento2-catalog-quality-b5315373.md) | partial | 2026-07-21T18:27:37Z | registry-derived |
+| [manan75/Catalogue-scoring](../records/repertoare-catalogs-manan75-catalogue-scoring-cdbf9bd5.md) | partial | 2024-02-10T13:44:29Z | registry-derived |
+| [marklogan17/game-catalog](../records/repertoare-catalogs-marklogan17-game-catalog-52426cc8.md) | partial | 2026-06-29T00:33:02Z | registry-derived |
 | [MinaSaad1/n8n-ai-qualified-booking](../records/repertoare-catalogs-minasaad1-n8n-ai-qualified-booking-8d96fc2b.md) | partial | 2026-08-16T14:09:57Z | registry-derived |
 | [mjbetti/prs-pgs-calculator](../records/repertoare-catalogs-mjbetti-prs-pgs-calculator-fa767e95.md) | partial | 2024-03-01T18:44:32Z | registry-derived |
 | [PGScatalog/pgscatalog_utils](../records/repertoare-catalogs-pgscatalog-pgscatalog-utils-713d360f.md) | partial | 2024-06-25T08:23:55Z | registry-derived |
 | [phillarmonic/repertoire-graphify-skills](../records/repertoare-catalogs-phillarmonic-repertoire-graphify-skills-ca370b71.md) | partial | 2026-08-20T16:49:20Z | registry-derived |
 | [ProtocolRedefined/Service-Catalog-Scorecard](../records/repertoare-catalogs-protocolredefined-service-catalog-scorecard-48ff50e0.md) | partial | 2020-10-29T15:34:07Z | registry-derived |
+| [Sanjay0232/Catalogue-Scoring](../records/repertoare-catalogs-sanjay0232-catalogue-scoring-016492cf.md) | partial | 2025-03-22T08:19:06Z | registry-derived |
+| [Serge-X/Game_Catalog](../records/repertoare-catalogs-serge-x-game-catalog-a07fec1e.md) | partial | 2022-12-05T05:21:08Z | registry-derived |
 | [Shagnik-Biswas/Product-API](../records/repertoare-catalogs-shagnik-biswas-product-api-d64e00aa.md) | partial | 2024-09-05T16:53:58Z | registry-derived |
 | [siracalaks/vektra](../records/repertoare-catalogs-siracalaks-vektra-c75a6dd5.md) | partial | 2026-07-05T07:00:10Z | registry-derived |
 | [softrams/cve-risk-scores](../records/repertoare-catalogs-softrams-cve-risk-scores-2a7f5a97.md) | partial | 2026-07-27T08:23:16Z | registry-derived |
+| [SpatialDynamicsLab/SCORE-sensor-catalogue-web-app](../records/repertoare-catalogs-spatialdynamicslab-score-sensor-catalogue-web-app-dacf35b8.md) | partial | 2025-11-07T02:54:22Z | registry-derived |
 | [Tannheuser/scoring-catalog](../records/repertoare-catalogs-tannheuser-scoring-catalog-1493c9c5.md) | partial | 2025-11-17T13:03:45Z | registry-derived |
 | [techcodebhavesh/ONDC-Catalogue-Scorer](../records/repertoare-catalogs-techcodebhavesh-ondc-catalogue-scorer-527fe98d.md) | partial | 2024-02-29T19:52:27Z | registry-derived |
 | [TianzeLab/pandaspgs](../records/repertoare-catalogs-tianzelab-pandaspgs-5e57416e.md) | partial | 2026-03-19T00:44:08Z | registry-derived |
@@ -306,6 +312,12 @@ Records: `182`
 | [Project Gutenberg](../records/repertoare-catalogs-project-gutenberg-9c8c6f9d.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [Wikidata](../records/repertoare-catalogs-wikidata-8e541c2c.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [WorldCat](../records/repertoare-catalogs-worldcat-4a39de5b.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
+
+### Sanitizer
+
+| Name | Release | Date | Source |
+| --- | --- | --- | --- |
+| [lorenasandoval88/pgs_catalog_sdk](../records/repertoare-catalogs-lorenasandoval88-pgs-catalog-sdk-0b279a9b.md) | partial | 2026-08-31T15:38:08Z | registry-derived |
 
 ### Security Sast
 

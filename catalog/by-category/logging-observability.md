@@ -1,6 +1,6 @@
 # Logging Observability
 
-Records: `521`
+Records: `526`
 
 ## Navigation
 
@@ -12,16 +12,16 @@ Records: `521`
 [Benchmarking (199)](benchmarking.md) · [Build System (992)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (175)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (231)](datetime.md)
+[Cryptography (175)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (893)](database-datastore.md) · [Datetime (231)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (104)](documentation.md)
 [Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (456)](ffi-bindings.md) · [Filesystem Os (1590)](filesystem-os.md) · [Formatter (646)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1460)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (269)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (29)](language-server.md) · [Language Specification (1435)](language-specification.md) · [Library (5656)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · **[Logging Observability (521)](logging-observability.md)** · [Machine Learning (792)](machine-learning.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · **[Logging Observability (526)](logging-observability.md)** · [Machine Learning (792)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1185)](parser-lexer-ast.md) · [Precommit Ci Quality (305)](precommit-ci-quality.md)
-[Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
+[Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (396)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (610)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
 [Undefined Behavior Analyzer (1615)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (553)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
@@ -620,7 +620,7 @@ Records: `521`
 | adityacodes30/catalog-scoring-ondc | partial | 2024-06-23T17:33:29Z | [open](../records/repertoare-catalogs-adityacodes30-catalog-scoring-ondc-eed2618c.md) |
 | AdityaLad2004/Catalog-Score | partial | 2024-02-10T18:28:30Z | [open](../records/repertoare-catalogs-adityalad2004-catalog-score-1c228719.md) |
 | alphaparkinc/genpark-catalog-enrichment-skill | partial | 2026-07-10T05:51:52Z | [open](../records/repertoare-catalogs-alphaparkinc-genpark-catalog-enrichment-skill-9442da58.md) |
-| Arnon-hs/open-source | partial | 2026-09-06T16:11:54Z | [open](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) |
+| Arnon-hs/open-source | partial | 2026-09-06T18:51:49Z | [open](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) |
 | CHagarty/scorecard-catalogue | partial | 2025-07-11T00:33:16Z | [open](../records/repertoare-catalogs-chagarty-scorecard-catalogue-ac87b7bd.md) |
 | Chistera-Scoring/services-catalog | partial | 2023-11-27T10:50:20Z | [open](../records/repertoare-catalogs-chistera-scoring-services-catalog-59fbb312.md) |
 | Eswaraiahsapram/scorecard-catalog | partial | 2025-09-02T05:54:30Z | [open](../records/repertoare-catalogs-eswaraiahsapram-scorecard-catalog-92541430.md) |
@@ -628,14 +628,19 @@ Records: `521`
 | JaysonBucket/NewsCommander | partial | 2026-05-28T23:50:57Z | [open](../records/repertoare-catalogs-jaysonbucket-newscommander-5fab9bf1.md) |
 | Lydie-hero/catalogue-score-proto | partial | 2026-07-28T11:11:10Z | [open](../records/repertoare-catalogs-lydie-hero-catalogue-score-proto-1eb7751a.md) |
 | magendooro/magento2-catalog-quality | partial | 2026-07-21T18:27:37Z | [open](../records/repertoare-catalogs-magendooro-magento2-catalog-quality-b5315373.md) |
+| manan75/Catalogue-scoring | partial | 2024-02-10T13:44:29Z | [open](../records/repertoare-catalogs-manan75-catalogue-scoring-cdbf9bd5.md) |
+| marklogan17/game-catalog | partial | 2026-06-29T00:33:02Z | [open](../records/repertoare-catalogs-marklogan17-game-catalog-52426cc8.md) |
 | MinaSaad1/n8n-ai-qualified-booking | partial | 2026-08-16T14:09:57Z | [open](../records/repertoare-catalogs-minasaad1-n8n-ai-qualified-booking-8d96fc2b.md) |
 | mjbetti/prs-pgs-calculator | partial | 2024-03-01T18:44:32Z | [open](../records/repertoare-catalogs-mjbetti-prs-pgs-calculator-fa767e95.md) |
 | PGScatalog/pgscatalog_utils | partial | 2024-06-25T08:23:55Z | [open](../records/repertoare-catalogs-pgscatalog-pgscatalog-utils-713d360f.md) |
 | phillarmonic/repertoire-graphify-skills | partial | 2026-08-20T16:49:20Z | [open](../records/repertoare-catalogs-phillarmonic-repertoire-graphify-skills-ca370b71.md) |
 | ProtocolRedefined/Service-Catalog-Scorecard | partial | 2020-10-29T15:34:07Z | [open](../records/repertoare-catalogs-protocolredefined-service-catalog-scorecard-48ff50e0.md) |
+| Sanjay0232/Catalogue-Scoring | partial | 2025-03-22T08:19:06Z | [open](../records/repertoare-catalogs-sanjay0232-catalogue-scoring-016492cf.md) |
+| Serge-X/Game_Catalog | partial | 2022-12-05T05:21:08Z | [open](../records/repertoare-catalogs-serge-x-game-catalog-a07fec1e.md) |
 | Shagnik-Biswas/Product-API | partial | 2024-09-05T16:53:58Z | [open](../records/repertoare-catalogs-shagnik-biswas-product-api-d64e00aa.md) |
 | siracalaks/vektra | partial | 2026-07-05T07:00:10Z | [open](../records/repertoare-catalogs-siracalaks-vektra-c75a6dd5.md) |
 | softrams/cve-risk-scores | partial | 2026-07-27T08:23:16Z | [open](../records/repertoare-catalogs-softrams-cve-risk-scores-2a7f5a97.md) |
+| SpatialDynamicsLab/SCORE-sensor-catalogue-web-app | partial | 2025-11-07T02:54:22Z | [open](../records/repertoare-catalogs-spatialdynamicslab-score-sensor-catalogue-web-app-dacf35b8.md) |
 | Tannheuser/scoring-catalog | partial | 2025-11-17T13:03:45Z | [open](../records/repertoare-catalogs-tannheuser-scoring-catalog-1493c9c5.md) |
 | techcodebhavesh/ONDC-Catalogue-Scorer | partial | 2024-02-29T19:52:27Z | [open](../records/repertoare-catalogs-techcodebhavesh-ondc-catalogue-scorer-527fe98d.md) |
 | TianzeLab/pandaspgs | partial | 2026-03-19T00:44:08Z | [open](../records/repertoare-catalogs-tianzelab-pandaspgs-5e57416e.md) |
