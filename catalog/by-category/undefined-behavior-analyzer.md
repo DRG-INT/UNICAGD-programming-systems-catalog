@@ -1,6 +1,6 @@
 # Undefined Behavior Analyzer
 
-Records: `1608`
+Records: `1615`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `1608`
 ## Category Index
 
 [Api Abi Checker (220)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (198)](benchmarking.md) · [Build System (989)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (117)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
+[Benchmarking (199)](benchmarking.md) · [Build System (992)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (175)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (231)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (455)](ffi-bindings.md) · [Filesystem Os (1586)](filesystem-os.md) · [Formatter (646)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1457)](ide-editor-integration.md)
+[Cryptography (175)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (231)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (104)](documentation.md)
+[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (456)](ffi-bindings.md) · [Filesystem Os (1590)](filesystem-os.md) · [Formatter (646)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1460)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (269)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1433)](language-specification.md) · [Library (5642)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
+[Language Server (29)](language-server.md) · [Language Specification (1435)](language-specification.md) · [Library (5656)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (521)](logging-observability.md) · [Machine Learning (792)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1183)](parser-lexer-ast.md) · [Precommit Ci Quality (303)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1185)](parser-lexer-ast.md) · [Precommit Ci Quality (305)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (607)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (396)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (610)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-**[Undefined Behavior Analyzer (1608)](undefined-behavior-analyzer.md)** · [Utility Library (104)](utility-library.md) · [Visualization Gui (552)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+**[Undefined Behavior Analyzer (1615)](undefined-behavior-analyzer.md)** · [Utility Library (104)](utility-library.md) · [Visualization Gui (553)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C++23
 
@@ -1595,12 +1595,19 @@ Records: `1608`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ageneau/piano-repertoire-index | partial | 2026-09-05T15:47:03Z | [open](../records/repertoare-catalogs-ageneau-piano-repertoire-index-2195d707.md) |
+| BarneyBarnum/belt-it | partial | 2026-09-06T04:11:53Z | [open](../records/repertoare-catalogs-barneybarnum-belt-it-32074410.md) |
+| benlmaoujoud/HighAvailability_Automation_Scripts | partial | 2024-08-15T11:14:35Z | [open](../records/repertoare-catalogs-benlmaoujoud-highavailability-automation-scripts-6f87c002.md) |
 | caereforge/tempo-scores | partial | 2026-07-08T15:58:49Z | [open](../records/repertoare-catalogs-caereforge-tempo-scores-41391912.md) |
+| elandau91/gd-backend | partial | 2020-10-06T19:14:06Z | [open](../records/repertoare-catalogs-elandau91-gd-backend-8d93b920.md) |
+| farhaouiayoub/Flask-Mini-Projects-Collection | partial | 2025-03-26T11:26:29Z | [open](../records/repertoare-catalogs-farhaouiayoub-flask-mini-projects-collection-ea725ae4.md) |
 | ibtissamelhani/Maska_Hunter_League | partial | 2025-01-20T10:14:01Z | [open](../records/repertoare-catalogs-ibtissamelhani-maska-hunter-league-b5889dc3.md) |
 | kathrynmueller/conductor-rep | partial | 2019-01-17T14:11:20Z | [open](../records/repertoare-catalogs-kathrynmueller-conductor-rep-712ea183.md) |
 | Kingdompe/ai-catalog-score-docs | partial | 2026-07-06T05:13:17Z | [open](../records/repertoare-catalogs-kingdompe-ai-catalog-score-docs-52a2d6b4.md) |
 | Ladan-hub/MixTape | partial | 2022-07-01T00:43:12Z | [open](../records/repertoare-catalogs-ladan-hub-mixtape-ab000f89.md) |
+| LoryndaL/projets | partial | 2024-05-03T14:39:54Z | [open](../records/repertoare-catalogs-loryndal-projets-95c4933f.md) |
 | monirulHaque/myentertainmenthub | partial | 2022-01-01T18:36:04Z | [open](../records/repertoare-catalogs-monirulhaque-myentertainmenthub-d3d3b041.md) |
+| msemery/appli_ruby_repertoire_collection_new_becane | partial | 2017-10-30T13:58:13Z | [open](../records/repertoare-catalogs-msemery-appli-ruby-repertoire-collection-new-becane-7f8868f0.md) |
+| specforgeart/chudo-songlist-public-demo | partial | 2026-07-22T19:52:07Z | [open](../records/repertoare-catalogs-specforgeart-chudo-songlist-public-demo-3ba1e973.md) |
 | suislanchez/polygenic-risk-score-calc | partial | 2026-03-31T14:58:36Z | [open](../records/repertoare-catalogs-suislanchez-polygenic-risk-score-calc-de8fc42c.md) |
 
 ## Catalogs
@@ -1612,10 +1619,10 @@ Records: `1608`
 | datahub-project/datahub | partial | 2026-09-05T20:20:54Z | [open](../records/catalogs-datahub-project-datahub-245b610a.md) |
 | erikdarlingdata/DarlingData | partial | 2026-09-04T21:16:14Z | [open](../records/catalogs-erikdarlingdata-darlingdata-be996c85.md) |
 | FeatureBaseDB/featurebase | partial | 2024-02-21T23:20:41Z | [open](../records/catalogs-featurebasedb-featurebase-1eac6a36.md) |
-| imsai-sh/awesome-deepseek-harness-plugins | partial | 2026-09-05T23:07:06Z | [open](../records/catalogs-imsai-sh-awesome-deepseek-harness-plugins-06b83072.md) |
+| imsai-sh/awesome-deepseek-harness-plugins | partial | 2026-09-06T13:33:34Z | [open](../records/catalogs-imsai-sh-awesome-deepseek-harness-plugins-06b83072.md) |
 | italia/.github | partial | 2026-08-31T09:31:30Z | [open](../records/catalogs-italia-github-0b346e57.md) |
 | leenkcool/Blue-Whale-Harness | partial | 2026-09-04T03:49:36Z | [open](../records/catalogs-leenkcool-blue-whale-harness-b2691c97.md) |
-| llnl/llnl.github.io | partial | 2026-09-05T14:54:30Z | [open](../records/catalogs-llnl-llnl-github-io-afb77a91.md) |
+| llnl/llnl.github.io | partial | 2026-09-06T15:17:23Z | [open](../records/catalogs-llnl-llnl-github-io-afb77a91.md) |
 | mbahArip/next-gdrive-index | partial | 2026-01-15T23:56:25Z | [open](../records/catalogs-mbaharip-next-gdrive-index-78a05087.md) |
 | nasa/code-nasa-gov | partial | 2024-09-19T20:00:44Z | [open](../records/catalogs-nasa-code-nasa-gov-bf1d1580.md) |
 | pumpzera/github-achievements-catalog | partial | 2026-04-05T21:51:58Z | [open](../records/catalogs-pumpzera-github-achievements-catalog-4fee72cc.md) |
@@ -1650,7 +1657,7 @@ Records: `1608`
 | NathanGeerinck/laravel-newsletter | partial | 2018-09-26T13:41:42Z | [open](../records/magazines-nathangeerinck-laravel-newsletter-f4022f65.md) |
 | ningoink/open-source-magazine | unknown | github_search_does_not_include_release_date | [open](../records/magazines-ningoink-open-source-magazine-9862f636.md) |
 | openjournals/joss | unknown | github_search_does_not_include_release_date | [open](../records/magazines-openjournals-joss-843100bc.md) |
-| openlibhums/janeway | partial | 2026-09-03T10:00:31Z | [open](../records/magazines-openlibhums-janeway-b53e06a3.md) |
+| openlibhums/janeway | partial | 2026-09-06T11:02:05Z | [open](../records/magazines-openlibhums-janeway-b53e06a3.md) |
 | petterh/range-slider | unknown | github_latest_release_missing | [open](../records/magazines-petterh-range-slider-f875d29f.md) |
 | rubin55/gdm-examples | partial | 2018-11-10T20:28:04Z | [open](../records/magazines-rubin55-gdm-examples-a96bfaf6.md) |
 | rust-gamedev/rust-gamedev.github.io | partial | 2025-08-28T14:43:46Z | [open](../records/magazines-rust-gamedev-rust-gamedev-github-io-a7f949a1.md) |
@@ -1670,7 +1677,7 @@ Records: `1608`
 | TryGhost/Editorial | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-editorial-24923224.md) |
 | TryGhost/London | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-london-a1950ab3.md) |
 | TryGhost/Massively | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-massively-019faf67.md) |
-| TryGhost/Ruby | partial | 2026-09-05T19:16:53Z | [open](../records/magazines-tryghost-ruby-e22f8483.md) |
+| TryGhost/Ruby | partial | 2026-09-06T10:51:53Z | [open](../records/magazines-tryghost-ruby-e22f8483.md) |
 | TryGhost/Source | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-source-b70e1161.md) |
 | TryGhost/Wave | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-wave-7da5b2a4.md) |
 | WantongC/journal-adapt-writing-skill | partial | 2026-05-15T03:18:22Z | [open](../records/magazines-wantongc-journal-adapt-writing-skill-cbbecfea.md) |
@@ -1799,7 +1806,7 @@ Records: `1608`
 | debezium/debezium | partial | 2026-09-04T10:47:43Z | [open](../records/databases-debezium-debezium-a3d23ff7.md) |
 | dicedb/dicedb | partial | 2026-04-23T01:00:36Z | [open](../records/databases-dicedb-dicedb-ba1cb8a6.md) |
 | digoal/blog | partial | 2026-09-03T06:34:30Z | [open](../records/databases-digoal-blog-7cde1486.md) |
-| dolthub/dolt | partial | 2026-09-05T09:55:51Z | [open](../records/databases-dolthub-dolt-702548e2.md) |
+| dolthub/dolt | partial | 2026-09-06T10:35:47Z | [open](../records/databases-dolthub-dolt-702548e2.md) |
 | douban/gobeansdb | partial | 2026-08-21T03:02:19Z | [open](../records/databases-douban-gobeansdb-1832191f.md) |
 | dubinc/dub | partial | 2026-09-03T06:31:13Z | [open](../records/databases-dubinc-dub-fde61fc2.md) |
 | gigapi/gigapi | partial | 2025-10-20T12:01:02Z | [open](../records/databases-gigapi-gigapi-bafb6f73.md) |

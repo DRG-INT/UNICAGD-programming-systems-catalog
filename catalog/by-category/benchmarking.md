@@ -1,6 +1,6 @@
 # Benchmarking
 
-Records: `198`
+Records: `199`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `198`
 ## Category Index
 
 [Api Abi Checker (220)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-**[Benchmarking (198)](benchmarking.md)** · [Build System (989)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (117)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
+**[Benchmarking (199)](benchmarking.md)** · [Build System (992)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (175)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (231)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (455)](ffi-bindings.md) · [Filesystem Os (1586)](filesystem-os.md) · [Formatter (646)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1457)](ide-editor-integration.md)
+[Cryptography (175)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (231)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (104)](documentation.md)
+[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (456)](ffi-bindings.md) · [Filesystem Os (1590)](filesystem-os.md) · [Formatter (646)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1460)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (269)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1433)](language-specification.md) · [Library (5642)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
+[Language Server (29)](language-server.md) · [Language Specification (1435)](language-specification.md) · [Library (5656)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (521)](logging-observability.md) · [Machine Learning (792)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1183)](parser-lexer-ast.md) · [Precommit Ci Quality (303)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1185)](parser-lexer-ast.md) · [Precommit Ci Quality (305)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (607)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (396)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (610)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1608)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (552)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Undefined Behavior Analyzer (1615)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (553)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C++23
 
@@ -307,6 +307,7 @@ Records: `198`
 | dream434/gofuzz | partial | 2026-01-05T22:17:30Z | [open](../records/repertoare-catalogs-dream434-gofuzz-e972d2ef.md) |
 | duemig/Stanford-Project-Predicting-stock-prices-using-a-LSTM-Network | partial | 2023-07-11T16:44:23Z | [open](../records/repertoare-catalogs-duemig-stanford-project-predicting-stock-prices-using-a-lstm-network-a9a03ded.md) |
 | EarnFounders/GraphPerf2023 | partial | 2023-12-14T11:01:17Z | [open](../records/repertoare-catalogs-earnfounders-graphperf2023-151d4542.md) |
+| elandau91/gd-frontend | partial | 2020-10-06T21:32:47Z | [open](../records/repertoare-catalogs-elandau91-gd-frontend-13f33beb.md) |
 | enbacon/music-buddy | partial | 2022-12-11T09:17:27Z | [open](../records/repertoare-catalogs-enbacon-music-buddy-209190b3.md) |
 | enbacon/music-buddy-back-end | partial | 2022-12-30T18:51:46Z | [open](../records/repertoare-catalogs-enbacon-music-buddy-back-end-9fe03966.md) |
 | FortuneThorGame/Fortune-Thor-Game | partial | 2026-06-23T11:47:56Z | [open](../records/repertoare-catalogs-fortunethorgame-fortune-thor-game-bac23805.md) |
@@ -409,10 +410,10 @@ Records: `198`
 | Mithril-mine/libmdbx | partial | 2026-08-31T08:09:38Z | [open](../records/databases-mithril-mine-libmdbx-ec7af8f0.md) |
 | openGemini/openGemini | partial | 2026-09-02T16:16:45Z | [open](../records/databases-opengemini-opengemini-b406e906.md) |
 | qdrant/qdrant | partial | 2026-09-02T10:23:50Z | [open](../records/databases-qdrant-qdrant-461c624b.md) |
-| questdb/questdb | partial | 2026-09-05T13:51:06Z | [open](../records/databases-questdb-questdb-cb22f378.md) |
+| questdb/questdb | partial | 2026-09-06T17:23:09Z | [open](../records/databases-questdb-questdb-cb22f378.md) |
 | quick-perf/quickperf | partial | 2026-05-06T14:46:13Z | [open](../records/databases-quick-perf-quickperf-2926abba.md) |
 | rustfs/rustfs | partial | 2026-09-03T00:32:26Z | [open](../records/databases-rustfs-rustfs-ac58a257.md) |
-| taosdata/TDengine | partial | 2026-09-06T09:14:21Z | [open](../records/databases-taosdata-tdengine-57f74fd3.md) |
+| taosdata/TDengine | partial | 2026-09-06T16:04:33Z | [open](../records/databases-taosdata-tdengine-57f74fd3.md) |
 | Tencent/Tendis | partial | 2026-06-26T07:42:59Z | [open](../records/databases-tencent-tendis-df49c9ba.md) |
 | timescale/timescaledb | partial | 2026-09-06T09:20:21Z | [open](../records/databases-timescale-timescaledb-a9f2409b.md) |
 | uroni/hs5 | partial | 2026-08-01T17:28:19Z | [open](../records/databases-uroni-hs5-f52001ae.md) |

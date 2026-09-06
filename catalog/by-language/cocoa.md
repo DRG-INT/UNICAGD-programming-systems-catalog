@@ -9,22 +9,22 @@ Records: `349`
 ## Category Index
 
 [Api Abi Checker (220)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
-[Benchmarking (198)](../by-category/benchmarking.md) · [Build System (989)](../by-category/build-system.md) · [Cli (563)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (117)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (24)](../by-category/compiler-diagnostics.md) · [Compression (51)](../by-category/compression.md)
+[Benchmarking (199)](../by-category/benchmarking.md) · [Build System (992)](../by-category/build-system.md) · [Cli (563)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (118)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (24)](../by-category/compiler-diagnostics.md) · [Compression (51)](../by-category/compression.md)
 [Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (130)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (175)](../by-category/cryptography.md) · [Data Science (38)](../by-category/data-science.md) · [Database Datastore (892)](../by-category/database-datastore.md) · [Datetime (231)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (102)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
-[Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (455)](../by-category/ffi-bindings.md) · [Filesystem Os (1586)](../by-category/filesystem-os.md) · [Formatter (646)](../by-category/formatter.md)
-[Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (355)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1457)](../by-category/ide-editor-integration.md)
+[Cryptography (175)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (892)](../by-category/database-datastore.md) · [Datetime (231)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (102)](../by-category/dependency-manager.md) · [Documentation (104)](../by-category/documentation.md)
+[Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (456)](../by-category/ffi-bindings.md) · [Filesystem Os (1590)](../by-category/filesystem-os.md) · [Formatter (646)](../by-category/formatter.md)
+[Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (356)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1460)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (269)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1433)](../by-category/language-specification.md) · [Library (5642)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (520)](../by-category/logging-observability.md) · [Machine Learning (788)](../by-category/machine-learning.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1435)](../by-category/language-specification.md) · [Library (5656)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (521)](../by-category/logging-observability.md) · [Machine Learning (792)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1035)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1183)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (303)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1185)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (305)](../by-category/precommit-ci-quality.md)
 [Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (15)](../by-category/sanitizer.md)
-[Security Sast (336)](../by-category/security-sast.md) · [Serialization (395)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (607)](../by-category/static-analyzer.md)
+[Security Sast (336)](../by-category/security-sast.md) · [Serialization (396)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (610)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (606)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1608)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (552)](../by-category/visualization-gui.md) · [Web Framework (476)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1615)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (553)](../by-category/visualization-gui.md) · [Web Framework (476)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -151,7 +151,7 @@ Records: `349`
 | [Countly](../records/cocoa-countly-2297ca5c.md) | 26.1.0 | 2026-02-18 14:12:24 UTC | registry-derived |
 | [Danie1s/Tiercel](../records/cocoa-danie1s-tiercel-5ed21306.md) | partial | 2026-08-24T16:54:29Z | registry-derived |
 | [DarielChen/iOSTips](../records/cocoa-darielchen-iostips-e6e9e701.md) | partial | 2020-10-19T07:14:11Z | registry-derived |
-| [dkhamsing/open-source-ios-apps](../records/cocoa-dkhamsing-open-source-ios-apps-3bad4ab1.md) | partial | 2026-09-05T12:54:59Z | registry-derived |
+| [dkhamsing/open-source-ios-apps](../records/cocoa-dkhamsing-open-source-ios-apps-3bad4ab1.md) | partial | 2026-09-06T14:57:52Z | registry-derived |
 | [DrawKit/DrawKit](../records/cocoa-drawkit-drawkit-72c338f1.md) | partial | 2023-03-13T12:23:46Z | registry-derived |
 | [dusty-commits/Closures](../records/cocoa-dusty-commits-closures-519b25c5.md) | partial | 2021-04-29T15:34:36Z | registry-derived |
 | [FluidGroup/NextGrowingTextView](../records/cocoa-fluidgroup-nextgrowingtextview-19805040.md) | partial | 2026-08-21T18:15:48Z | registry-derived |
@@ -186,14 +186,14 @@ Records: `349`
 | [RouteComposer](../records/cocoa-routecomposer-e90e943a.md) | 2.22.2 | 2026-08-18T19:21:54Z | registry-derived |
 | [RxFlow](../records/cocoa-rxflow-6ff66a60.md) | 2.13.0 | 2022-04-27T12:49:48Z | registry-derived |
 | [sahin/mobileplayer-ios](../records/cocoa-sahin-mobileplayer-ios-33ef2b37.md) | partial | 2022-07-21T22:10:51Z | registry-derived |
-| [saucer/saucer](../records/cocoa-saucer-saucer-338e12ec.md) | partial | 2026-09-04T11:56:34Z | registry-derived |
+| [saucer/saucer](../records/cocoa-saucer-saucer-338e12ec.md) | partial | 2026-09-06T15:27:35Z | registry-derived |
 | [shoheiyokoyama/Gemini](../records/cocoa-shoheiyokoyama-gemini-e24896a8.md) | partial | 2025-06-28T06:50:16Z | registry-derived |
 | [sindresorhus/KeyboardShortcuts](../records/cocoa-sindresorhus-keyboardshortcuts-96f47e66.md) | partial | 2026-06-17T10:24:25Z | registry-derived |
 | [SnapKit/SnapKit](../records/cocoa-snapkit-snapkit-aa75ddde.md) | partial | 2026-07-13T10:50:19Z | registry-derived |
 | [sveinbjornt/Platypus](../records/cocoa-sveinbjornt-platypus-b3728979.md) | partial | 2026-05-13T22:44:55Z | registry-derived |
 | [SVProgressHUD/SVProgressHUD](../records/cocoa-svprogresshud-svprogresshud-7ef7b9b2.md) | partial | 2026-02-27T17:42:19Z | registry-derived |
 | [SwifterSwift/SwifterSwift](../records/cocoa-swifterswift-swifterswift-fd69f040.md) | partial | 2026-08-09T05:41:29Z | registry-derived |
-| [TechUnRestricted/WinDiskWriter](../records/cocoa-techunrestricted-windiskwriter-e73be293.md) | partial | 2026-01-24T16:48:15Z | registry-derived |
+| [TechUnRestricted/WinDiskWriter](../records/cocoa-techunrestricted-windiskwriter-e73be293.md) | partial | 2026-09-06T12:35:56Z | registry-derived |
 | [telly/TLYShyNavBar](../records/cocoa-telly-tlyshynavbar-b6713c2d.md) | partial | 2018-09-20T09:24:13Z | registry-derived |
 | [TimOliver/TOCropViewController](../records/cocoa-timoliver-tocropviewcontroller-a5d9ff2e.md) | partial | 2026-07-28T15:53:56Z | registry-derived |
 | [TimOliver/TOWebViewController](../records/cocoa-timoliver-towebviewcontroller-f5378013.md) | partial | 2019-09-16T12:07:54Z | registry-derived |
@@ -222,7 +222,7 @@ Records: `349`
 | [Apple Review Guidelines](../records/cocoa-apple-review-guidelines-d06165e6.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [ARVideoKit](../records/cocoa-arvideokit-9a0f973d.md) | 1.6.0 | 2020-03-18T17:57:09Z | registry-derived |
 | [AuroraEditor/AuroraEditor](../records/cocoa-auroraeditor-auroraeditor-43b28791.md) | partial | 2025-08-26T18:58:06Z | registry-derived |
-| [coteditor/CotEditor](../records/cocoa-coteditor-coteditor-061a819f.md) | partial | 2026-09-06T02:03:06Z | registry-derived |
+| [coteditor/CotEditor](../records/cocoa-coteditor-coteditor-061a819f.md) | partial | 2026-09-06T15:08:30Z | registry-derived |
 | [edgar-zigis/CocoaTextField](../records/cocoa-edgar-zigis-cocoatextfield-8587dd05.md) | partial | 2025-02-02T12:29:36Z | registry-derived |
 | [Embrace](../records/cocoa-embrace-ced14cf1.md) | unknown | cocoapods_metadata_missing | registry-derived |
 | [fespinoza/LinkedIdeas](../records/cocoa-fespinoza-linkedideas-cf83dabc.md) | partial | 2021-07-13T07:49:54Z | registry-derived |

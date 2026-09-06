@@ -9,22 +9,22 @@ Records: `606`
 ## Category Index
 
 [Api Abi Checker (220)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (198)](benchmarking.md) · [Build System (989)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (117)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
+[Benchmarking (199)](benchmarking.md) · [Build System (992)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (175)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (231)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (455)](ffi-bindings.md) · [Filesystem Os (1586)](filesystem-os.md) · [Formatter (646)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1457)](ide-editor-integration.md)
+[Cryptography (175)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (231)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (104)](documentation.md)
+[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (456)](ffi-bindings.md) · [Filesystem Os (1590)](filesystem-os.md) · [Formatter (646)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1460)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (269)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1433)](language-specification.md) · [Library (5642)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
+[Language Server (29)](language-server.md) · [Language Specification (1435)](language-specification.md) · [Library (5656)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (521)](logging-observability.md) · [Machine Learning (792)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1183)](parser-lexer-ast.md) · [Precommit Ci Quality (303)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1185)](parser-lexer-ast.md) · [Precommit Ci Quality (305)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (607)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (396)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (610)](static-analyzer.md)
 [Templating (2)](templating.md) · **[Testing Framework (606)](testing-framework.md)** · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1608)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (552)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Undefined Behavior Analyzer (1615)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (553)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C99
 
@@ -93,8 +93,8 @@ Records: `606`
 | quickcheck | 1.1.0 | 2026-02-10T18:57:19.150934Z | [open](../records/rust-quickcheck-90926b0b.md) |
 | rav1e | 0.8.1 | 2025-06-16T09:40:31.921860Z | [open](../records/rust-rav1e-fdcbc80f.md) |
 | rle-decode-fast | 1.0.3 | 2022-01-30T22:56:56.002573Z | [open](../records/rust-rle-decode-fast-81a519e0.md) |
-| rstest | 0.26.1 | 2025-07-27T09:52:53.927495Z | [open](../records/rust-rstest-3f34bb9a.md) |
-| rstest_macros | 0.26.1 | 2025-07-27T09:37:28.034204Z | [open](../records/rust-rstest-macros-f2c455ec.md) |
+| rstest | 0.27.0 | 2026-09-06T18:15:52.967458Z | [open](../records/rust-rstest-3f34bb9a.md) |
+| rstest_macros | 0.27.0 | 2026-09-06T18:15:40.465723Z | [open](../records/rust-rstest-macros-f2c455ec.md) |
 | serde_test | 1.0.177 | 2024-08-05T07:14:44.127884Z | [open](../records/rust-serde-test-3698a9dc.md) |
 | serial_test | 4.0.1 | 2026-07-25T20:27:56.054089Z | [open](../records/rust-serial-test-89cab3b3.md) |
 | serial_test_derive | 4.0.1 | 2026-07-25T20:27:31.729767Z | [open](../records/rust-serial-test-derive-d9acdf1c.md) |
@@ -254,7 +254,7 @@ Records: `606`
 | @vue/test-utils | 2.5.0 | 2026-08-27T13:56:57.235Z | [open](../records/node-js-javascript-vue-test-utils-aa8d0a01.md) |
 | @wdio/cucumber-framework | 9.31.6 | 2026-09-06T12:47:29.985Z | [open](../records/node-js-javascript-wdio-cucumber-framework-3fd5daaf.md) |
 | @wdio/mocha-framework | 9.31.6 | 2026-09-06T12:47:30.494Z | [open](../records/node-js-javascript-wdio-mocha-framework-8a114d96.md) |
-| @wdio/tauri-service | 1.3.0 | 2026-08-03T21:32:40.658Z | [open](../records/node-js-javascript-wdio-tauri-service-cfa3308c.md) |
+| @wdio/tauri-service | 1.4.0 | 2026-09-06T16:38:42.632Z | [open](../records/node-js-javascript-wdio-tauri-service-cfa3308c.md) |
 | @wdio/visual-service | 10.1.0 | 2026-07-11T06:11:57.135Z | [open](../records/node-js-javascript-wdio-visual-service-0c53ea2f.md) |
 | @wdio/xvfb | 9.31.2 | 2026-08-21T01:44:54.191Z | [open](../records/node-js-javascript-wdio-xvfb-e9e46e8a.md) |
 | @wojtekmaj/enzyme-adapter-react-17 | 0.8.0 | 2022-11-09T20:15:12.424Z | [open](../records/node-js-javascript-wojtekmaj-enzyme-adapter-react-17-369c0823.md) |
@@ -505,7 +505,7 @@ Records: `606`
 | uri-bytestring | 0.4.0.1 | 2025-04-10T16:35:16Z | [open](../records/haskell-uri-bytestring-a09e0036.md) |
 | wai-test | 3.0.0 | 2014-06-09T07:43:33Z | [open](../records/haskell-wai-test-6f3e611d.md) |
 | yampa-test | 0.15 | 2025-02-28T06:55:50Z | [open](../records/haskell-yampa-test-2be489e4.md) |
-| yesod-test | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yesod-test-b573e9e5.md) |
+| yesod-test | 1.7.0.3 | 2026-07-29T08:45:39Z | [open](../records/haskell-yesod-test-b573e9e5.md) |
 
 ## Octave
 
@@ -834,7 +834,7 @@ Records: `606`
 | invertase/react-native-firebase | partial | 2026-09-05T04:37:17Z | [open](../records/databases-invertase-react-native-firebase-bdf40bbb.md) |
 | long2ice/asyncmy | partial | 2026-08-16T04:11:12Z | [open](../records/databases-long2ice-asyncmy-537bc784.md) |
 | marsupilami79/zeoslib | partial | 2026-09-01T05:51:54Z | [open](../records/databases-marsupilami79-zeoslib-f93693d1.md) |
-| netdata/netdata | partial | 2026-09-06T07:15:27Z | [open](../records/databases-netdata-netdata-c3fa5bcb.md) |
+| netdata/netdata | partial | 2026-09-06T17:25:26Z | [open](../records/databases-netdata-netdata-c3fa5bcb.md) |
 | weavejester/ragtime | partial | 2025-09-23T14:39:42Z | [open](../records/databases-weavejester-ragtime-b149a386.md) |
 
 ## Repository Workplaces

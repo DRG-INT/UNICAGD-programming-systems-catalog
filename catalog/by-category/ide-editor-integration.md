@@ -1,6 +1,6 @@
 # Ide Editor Integration
 
-Records: `1457`
+Records: `1460`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `1457`
 ## Category Index
 
 [Api Abi Checker (220)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (198)](benchmarking.md) · [Build System (989)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (117)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
+[Benchmarking (199)](benchmarking.md) · [Build System (992)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (175)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (231)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (455)](ffi-bindings.md) · [Filesystem Os (1586)](filesystem-os.md) · [Formatter (646)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · **[Ide Editor Integration (1457)](ide-editor-integration.md)**
+[Cryptography (175)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (231)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (104)](documentation.md)
+[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (456)](ffi-bindings.md) · [Filesystem Os (1590)](filesystem-os.md) · [Formatter (646)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · **[Ide Editor Integration (1460)](ide-editor-integration.md)**
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (269)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1433)](language-specification.md) · [Library (5642)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
+[Language Server (29)](language-server.md) · [Language Specification (1435)](language-specification.md) · [Library (5656)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (521)](logging-observability.md) · [Machine Learning (792)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1183)](parser-lexer-ast.md) · [Precommit Ci Quality (303)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1185)](parser-lexer-ast.md) · [Precommit Ci Quality (305)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (607)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (396)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (610)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1608)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (552)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Undefined Behavior Analyzer (1615)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (553)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C++23
 
@@ -684,10 +684,10 @@ Records: `1457`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-06T08:26:12Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-06T16:09:48Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-06T18:02:51Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-05T16:04:02Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-05T14:38:26Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-06T15:08:10Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-06T18:10:45Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-06T10:45:56Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-04T19:06:10Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
@@ -1439,12 +1439,15 @@ Records: `1457`
 | gastroph/Rock-Band-DLC---Leaderboards-App-for-Android | partial | 2010-04-16T20:13:37Z | [open](../records/repertoare-catalogs-gastroph-rock-band-dlc-leaderboards-app-for-android-35abaa1b.md) |
 | heylabs-co/dev-tools-portal | partial | 2026-09-06T15:09:30Z | [open](../records/repertoare-catalogs-heylabs-co-dev-tools-portal-7c271bc4.md) |
 | jasondentler/wild-catalog | partial | 2026-07-05T03:54:55Z | [open](../records/repertoare-catalogs-jasondentler-wild-catalog-f314f00b.md) |
+| pesnik/flask-repertoire | partial | 2025-03-13T21:08:48Z | [open](../records/repertoare-catalogs-pesnik-flask-repertoire-569c53ed.md) |
+| pesnik/gin-repertoire | partial | 2025-03-13T23:17:07Z | [open](../records/repertoare-catalogs-pesnik-gin-repertoire-59474943.md) |
 | punyamodi/catalog-quality-scorer | partial | 2026-03-01T21:50:40Z | [open](../records/repertoare-catalogs-punyamodi-catalog-quality-scorer-78773128.md) |
 | pythymcpyface/lichess-analyser | partial | 2025-12-03T15:58:08Z | [open](../records/repertoare-catalogs-pythymcpyface-lichess-analyser-18beb8d5.md) |
 | Qwodjo/SnapIMDB | partial | 2026-06-17T23:12:15Z | [open](../records/repertoare-catalogs-qwodjo-snapimdb-97a08a70.md) |
 | rohanhake98/catalogiq | partial | 2026-08-15T14:01:33Z | [open](../records/repertoare-catalogs-rohanhake98-catalogiq-45ca9615.md) |
 | sarkarbikram90/Granular | partial | 2026-08-23T09:23:14Z | [open](../records/repertoare-catalogs-sarkarbikram90-granular-1a4cb9ef.md) |
 | topshopifydev/ShopSpy | partial | 2026-07-23T14:26:22Z | [open](../records/repertoare-catalogs-topshopifydev-shopspy-3bf18474.md) |
+| ytann/ML-Projects-Repertoire | partial | 2025-07-14T13:35:38Z | [open](../records/repertoare-catalogs-ytann-ml-projects-repertoire-05ba0afa.md) |
 | zhangwei2015/IMisc | partial | 2020-07-23T08:51:32Z | [open](../records/repertoare-catalogs-zhangwei2015-imisc-4588dcb0.md) |
 
 ## Catalogs
@@ -1457,7 +1460,7 @@ Records: `1457`
 | clidey/whodb | partial | 2026-09-05T03:30:23Z | [open](../records/catalogs-clidey-whodb-90b65b4d.md) |
 | Esri/geoportal-server-catalog | partial | 2026-09-02T05:53:13Z | [open](../records/catalogs-esri-geoportal-server-catalog-528de935.md) |
 | fnplus/community-project-ideas | partial | 2025-02-21T18:58:09Z | [open](../records/catalogs-fnplus-community-project-ideas-1f98ace0.md) |
-| geonetwork/core-geonetwork | partial | 2026-08-31T23:06:06Z | [open](../records/catalogs-geonetwork-core-geonetwork-1ce9ddd6.md) |
+| geonetwork/core-geonetwork | partial | 2026-09-06T17:59:43Z | [open](../records/catalogs-geonetwork-core-geonetwork-1ce9ddd6.md) |
 | interactivethings/catalog | partial | 2025-10-10T15:02:22Z | [open](../records/catalogs-interactivethings-catalog-75b8f4c3.md) |
 | jinht/GuidePages | partial | 2018-12-17T13:04:31Z | [open](../records/catalogs-jinht-guidepages-bfe173bf.md) |
 | lofcz/Infidex | partial | 2025-12-30T17:35:01Z | [open](../records/catalogs-lofcz-infidex-7d75607d.md) |
@@ -1488,7 +1491,7 @@ Records: `1457`
 | mmarquezs/libgen-python-api | partial | 2022-05-18T15:15:49Z | [open](../records/magazines-mmarquezs-libgen-python-api-47da50e4.md) |
 | Notifuse/notifuse | partial | 2026-09-01T07:41:45Z | [open](../records/magazines-notifuse-notifuse-f68915ee.md) |
 | pajoma/vscode-journal | partial | 2026-08-20T20:30:19Z | [open](../records/magazines-pajoma-vscode-journal-fd5206d8.md) |
-| TryGhost/Editorial | partial | 2026-09-05T19:08:45Z | [open](../records/magazines-tryghost-editorial-947481f0.md) |
+| TryGhost/Editorial | partial | 2026-09-06T02:46:02Z | [open](../records/magazines-tryghost-editorial-947481f0.md) |
 | uzih05/journal | unknown | github_latest_release_missing | [open](../records/magazines-uzih05-journal-00e04855.md) |
 
 ## Braces
@@ -1652,7 +1655,7 @@ Records: `1457`
 | Apple Review Guidelines | unknown | not_a_cocoapods_name | [open](../records/cocoa-apple-review-guidelines-d06165e6.md) |
 | ARVideoKit | 1.6.0 | 2020-03-18T17:57:09Z | [open](../records/cocoa-arvideokit-9a0f973d.md) |
 | AuroraEditor/AuroraEditor | partial | 2025-08-26T18:58:06Z | [open](../records/cocoa-auroraeditor-auroraeditor-43b28791.md) |
-| coteditor/CotEditor | partial | 2026-09-06T02:03:06Z | [open](../records/cocoa-coteditor-coteditor-061a819f.md) |
+| coteditor/CotEditor | partial | 2026-09-06T15:08:30Z | [open](../records/cocoa-coteditor-coteditor-061a819f.md) |
 | edgar-zigis/CocoaTextField | partial | 2025-02-02T12:29:36Z | [open](../records/cocoa-edgar-zigis-cocoatextfield-8587dd05.md) |
 | Embrace | unknown | cocoapods_metadata_missing | [open](../records/cocoa-embrace-ced14cf1.md) |
 | fespinoza/LinkedIdeas | partial | 2021-07-13T07:49:54Z | [open](../records/cocoa-fespinoza-linkedideas-cf83dabc.md) |

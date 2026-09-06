@@ -5,22 +5,22 @@
 ## Category Index
 
 [Api Abi Checker (220)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (136)](by-category/async-runtime.md)
-[Benchmarking (198)](by-category/benchmarking.md) · [Build System (989)](by-category/build-system.md) · [Cli (563)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
-[Community Reference (117)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (24)](by-category/compiler-diagnostics.md) · [Compression (51)](by-category/compression.md)
+[Benchmarking (199)](by-category/benchmarking.md) · [Build System (992)](by-category/build-system.md) · [Cli (563)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Community Reference (118)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (24)](by-category/compiler-diagnostics.md) · [Compression (51)](by-category/compression.md)
 [Concurrency Parallelism (89)](by-category/concurrency-parallelism.md) · [Configuration (130)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (175)](by-category/cryptography.md) · [Data Science (38)](by-category/data-science.md) · [Database Datastore (892)](by-category/database-datastore.md) · [Datetime (231)](by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (102)](by-category/dependency-manager.md) · [Documentation (103)](by-category/documentation.md)
-[Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (455)](by-category/ffi-bindings.md) · [Filesystem Os (1586)](by-category/filesystem-os.md) · [Formatter (646)](by-category/formatter.md)
-[Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (355)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1457)](by-category/ide-editor-integration.md)
+[Cryptography (175)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (892)](by-category/database-datastore.md) · [Datetime (231)](by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (102)](by-category/dependency-manager.md) · [Documentation (104)](by-category/documentation.md)
+[Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (456)](by-category/ffi-bindings.md) · [Filesystem Os (1590)](by-category/filesystem-os.md) · [Formatter (646)](by-category/formatter.md)
+[Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (356)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1460)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (269)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (29)](by-category/language-server.md) · [Language Specification (1433)](by-category/language-specification.md) · [Library (5642)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (520)](by-category/logging-observability.md) · [Machine Learning (788)](by-category/machine-learning.md)
+[Language Server (29)](by-category/language-server.md) · [Language Specification (1435)](by-category/language-specification.md) · [Library (5656)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (521)](by-category/logging-observability.md) · [Machine Learning (792)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1035)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1183)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (303)](by-category/precommit-ci-quality.md)
+[Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1185)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (305)](by-category/precommit-ci-quality.md)
 [Profiler (87)](by-category/profiler.md) · [Project Scaffolding (133)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (15)](by-category/sanitizer.md)
-[Security Sast (336)](by-category/security-sast.md) · [Serialization (395)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (607)](by-category/static-analyzer.md)
+[Security Sast (336)](by-category/security-sast.md) · [Serialization (396)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (610)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (606)](by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](by-category/tutorial-book-styleguide.md) · [Type Checker (313)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1608)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (552)](by-category/visualization-gui.md) · [Web Framework (476)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1615)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (553)](by-category/visualization-gui.md) · [Web Framework (476)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -814,6 +814,7 @@
 | `cran_packages_by_date-0152d86d1c8b74` | ewoc | [open](records/r-ewoc-7ca76613.md) |
 | `cran_packages_by_date-0183f803bdfdc0` | MYIS | [open](records/r-myis-c6fc6f9a.md) |
 | `cran_packages_by_date-01abb2694e52fc` | markovchain | [open](records/r-markovchain-c93d8c55.md) |
+| `cran_packages_by_date-01d160990cf0da` | ssutil | [open](records/r-ssutil-e9aa52d7.md) |
 | `cran_packages_by_date-0214c7593a7013` | EDAForge | [open](records/r-edaforge-0eec6e97.md) |
 | `cran_packages_by_date-02177a4ecf4345` | reapeR | [open](records/r-reaper-ae0c85d5.md) |
 | `cran_packages_by_date-026bafbcc1b810` | bufferscape | [open](records/r-bufferscape-f686340e.md) |
@@ -2035,6 +2036,7 @@
 | `cran_packages_by_date-ba3630c5da2aed` | box | [open](records/r-box-40c3e1c0.md) |
 | `cran_packages_by_date-ba526b492801ea` | logger | [open](records/r-logger-6bd2e0a0.md) |
 | `cran_packages_by_date-ba554ecacedb79` | RobustMetrics | [open](records/r-robustmetrics-05df165d.md) |
+| `cran_packages_by_date-ba61b37625116e` | SDPDmod | [open](records/r-sdpdmod-930bfd17.md) |
 | `cran_packages_by_date-babcfa35a5f581` | ggm | [open](records/r-ggm-6ef30c61.md) |
 | `cran_packages_by_date-bacb75e8391c7a` | kstMatrix | [open](records/r-kstmatrix-b1aac5cc.md) |
 | `cran_packages_by_date-badeee2f141267` | tinyrox | [open](records/r-tinyrox-ec93aad4.md) |
@@ -12868,38 +12870,59 @@
 | `github_search_radio_garden_speciality-fdced0f08e46fe` | oddkob/like_radio_garden | [open](records/radio-garden-speciality-oddkob-like-radio-garden-54eb6ba0.md) |
 | `github_search_repertoare_catalogs-006278bfacb00d` | forbiddenlink/trace | [open](records/repertoare-catalogs-forbiddenlink-trace-81d4917b.md) |
 | `github_search_repertoare_catalogs-0335fb2b216c26` | t8-ev/YaleSeniorProject | [open](records/repertoare-catalogs-t8-ev-yaleseniorproject-2d10e4c1.md) |
+| `github_search_repertoare_catalogs-092a3ff5dfaf17` | benlmaoujoud/HighAvailability_Automation_Scripts | [open](records/repertoare-catalogs-benlmaoujoud-highavailability-automation-scripts-6f87c002.md) |
+| `github_search_repertoare_catalogs-0da7112f1e2b84` | poisonivysaur/my-repertoire | [open](records/repertoare-catalogs-poisonivysaur-my-repertoire-efad83ae.md) |
 | `github_search_repertoare_catalogs-0dc9f52e079615` | hammclovnaggnell/chess-repertoire | [open](records/repertoare-catalogs-hammclovnaggnell-chess-repertoire-36d6e6a5.md) |
+| `github_search_repertoare_catalogs-0e9da6aa28ccfb` | bhouldridge/repertoire | [open](records/repertoare-catalogs-bhouldridge-repertoire-9e149eb1.md) |
 | `github_search_repertoare_catalogs-120d729808e049` | techcodebhavesh/ONDC-Catalogue-Scorer | [open](records/repertoare-catalogs-techcodebhavesh-ondc-catalogue-scorer-527fe98d.md) |
 | `github_search_repertoare_catalogs-15da1fe24c7bbe` | 863683348/dsh-plugin-audit | [open](records/repertoare-catalogs-863683348-dsh-plugin-audit-502480db.md) |
 | `github_search_repertoare_catalogs-16dac54a64f006` | alphaparkinc/genpark-catalog-enrichment-skill | [open](records/repertoare-catalogs-alphaparkinc-genpark-catalog-enrichment-skill-9442da58.md) |
 | `github_search_repertoare_catalogs-17fb80b74cdf85` | Vincent-Antoine/mega-compressor | [open](records/repertoare-catalogs-vincent-antoine-mega-compressor-f7b75d28.md) |
+| `github_search_repertoare_catalogs-18f59d11c34aa2` | msemery/appli_ruby_repertoire_collection_new_becane | [open](records/repertoare-catalogs-msemery-appli-ruby-repertoire-collection-new-becane-7f8868f0.md) |
 | `github_search_repertoare_catalogs-191ba92822ac3a` | jettbrains/-L- | [open](records/repertoare-catalogs-jettbrains-l-592aea7e.md) |
 | `github_search_repertoare_catalogs-19722ff3bd4a04` | ncreighton/music-practice-instrument-tracker-notion | [open](records/repertoare-catalogs-ncreighton-music-practice-instrument-tracker-notion-b6d1b327.md) |
 | `github_search_repertoare_catalogs-1b3564e2324919` | enbacon/music-buddy | [open](records/repertoare-catalogs-enbacon-music-buddy-209190b3.md) |
 | `github_search_repertoare_catalogs-1bef722be7a519` | iamtechnoana/product-matching-system | [open](records/repertoare-catalogs-iamtechnoana-product-matching-system-3b78cbd2.md) |
+| `github_search_repertoare_catalogs-1c6b5c5f32f208` | elieharik/RandPush | [open](records/repertoare-catalogs-elieharik-randpush-b34790f0.md) |
+| `github_search_repertoare_catalogs-1d48d8db30497a` | BarneyBarnum/belt-it | [open](records/repertoare-catalogs-barneybarnum-belt-it-32074410.md) |
 | `github_search_repertoare_catalogs-20fd8d09350ada` | MinaSaad1/n8n-ai-qualified-booking | [open](records/repertoare-catalogs-minasaad1-n8n-ai-qualified-booking-8d96fc2b.md) |
 | `github_search_repertoare_catalogs-2106c47deb51f9` | pythymcpyface/lichess-analyser | [open](records/repertoare-catalogs-pythymcpyface-lichess-analyser-18beb8d5.md) |
 | `github_search_repertoare_catalogs-22a36101e45f30` | marshallswain/song-book-api | [open](records/repertoare-catalogs-marshallswain-song-book-api-9e3ddeb4.md) |
 | `github_search_repertoare_catalogs-276dc46f859ea5` | Chistera-Scoring/services-catalog | [open](records/repertoare-catalogs-chistera-scoring-services-catalog-59fbb312.md) |
 | `github_search_repertoare_catalogs-2958721a1febea` | Venu-Guptha/Indexing-Crawling-and-Ranking | [open](records/repertoare-catalogs-venu-guptha-indexing-crawling-and-ranking-0018fc06.md) |
+| `github_search_repertoare_catalogs-2a1fbdb59a800d` | abajorek/repsmith | [open](records/repertoare-catalogs-abajorek-repsmith-b359f433.md) |
 | `github_search_repertoare_catalogs-2b7504173981a6` | traval313/tabla-repertoire | [open](records/repertoare-catalogs-traval313-tabla-repertoire-252c5a36.md) |
 | `github_search_repertoare_catalogs-2bf5d993a01eed` | benory/Concert-database-website | [open](records/repertoare-catalogs-benory-concert-database-website-07737f0b.md) |
+| `github_search_repertoare_catalogs-3037dbef7ee412` | alchemab/bcr-repertoire-papers | [open](records/repertoare-catalogs-alchemab-bcr-repertoire-papers-d73782f3.md) |
+| `github_search_repertoare_catalogs-30fd12b7b822ef` | TchassiDaniel/Gestionnaire-de-contacts | [open](records/repertoare-catalogs-tchassidaniel-gestionnaire-de-contacts-37f5d9a3.md) |
+| `github_search_repertoare_catalogs-359d44e6bcbfce` | LoryndaL/projets | [open](records/repertoare-catalogs-loryndal-projets-95c4933f.md) |
 | `github_search_repertoare_catalogs-35df4d0b1be6bd` | Agam3108/Catalogue-Scanning-App | [open](records/repertoare-catalogs-agam3108-catalogue-scanning-app-ae967b87.md) |
+| `github_search_repertoare_catalogs-35e724285ee54d` | FrozenYty/claude-repertoire | [open](records/repertoare-catalogs-frozenyty-claude-repertoire-61143a8a.md) |
+| `github_search_repertoare_catalogs-3663221acf331f` | thenatarizkie/kurema | [open](records/repertoare-catalogs-thenatarizkie-kurema-cc561773.md) |
+| `github_search_repertoare_catalogs-3861ab25b2fb94` | eylonyogev/repertoire | [open](records/repertoare-catalogs-eylonyogev-repertoire-0e448ebe.md) |
 | `github_search_repertoare_catalogs-39cc9675d0fb6c` | TianzeLab/pandaspgs | [open](records/repertoare-catalogs-tianzelab-pandaspgs-5e57416e.md) |
 | `github_search_repertoare_catalogs-3cba03d0b61234` | SEI-York/ROCKME-open-source | [open](records/repertoare-catalogs-sei-york-rockme-open-source-eeeda39c.md) |
+| `github_search_repertoare_catalogs-3dbd3facbacce1` | elandau91/gd-backend | [open](records/repertoare-catalogs-elandau91-gd-backend-8d93b920.md) |
 | `github_search_repertoare_catalogs-3dde57b5b1c28b` | WarLikeLaux/yii2-book-catalog | [open](records/repertoare-catalogs-warlikelaux-yii2-book-catalog-4386b78b.md) |
 | `github_search_repertoare_catalogs-3f96b91b92871e` | Ladan-hub/MixTape | [open](records/repertoare-catalogs-ladan-hub-mixtape-ab000f89.md) |
 | `github_search_repertoare_catalogs-407f1ea9c48d7e` | rceballos98/test_and_save | [open](records/repertoare-catalogs-rceballos98-test-and-save-e022db5f.md) |
 | `github_search_repertoare_catalogs-410757dfa16646` | ethanolivertroy/kevs-tui | [open](records/repertoare-catalogs-ethanolivertroy-kevs-tui-1382f3ab.md) |
+| `github_search_repertoare_catalogs-419a9b1988a1f4` | farhaouiayoub/Flask-Mini-Projects-Collection | [open](records/repertoare-catalogs-farhaouiayoub-flask-mini-projects-collection-ea725ae4.md) |
 | `github_search_repertoare_catalogs-43ec379c7ee5d2` | KyonTanaka/yagni-auditor | [open](records/repertoare-catalogs-kyontanaka-yagni-auditor-da95753d.md) |
 | `github_search_repertoare_catalogs-45c495096a735a` | Villebon-Sur-Yvette/Projet-catalogue-PHP | [open](records/repertoare-catalogs-villebon-sur-yvette-projet-catalogue-php-72449ffe.md) |
+| `github_search_repertoare_catalogs-46ea3f9d93cff1` | seliatis/repertoire_de_collection | [open](records/repertoare-catalogs-seliatis-repertoire-de-collection-a4e9b585.md) |
 | `github_search_repertoare_catalogs-48a487029ccf05` | abhiramAjay/Self-Healing-Repertoire-Engine | [open](records/repertoare-catalogs-abhiramajay-self-healing-repertoire-engine-afff2269.md) |
+| `github_search_repertoare_catalogs-48b8543c80499d` | jacekiwaszko1/ad-aequales | [open](records/repertoare-catalogs-jacekiwaszko1-ad-aequales-c5a444ba.md) |
 | `github_search_repertoare_catalogs-49776647c99e55` | apurvrdx1/tagore | [open](records/repertoare-catalogs-apurvrdx1-tagore-83e8f185.md) |
 | `github_search_repertoare_catalogs-4a168421f7c846` | USCbiostats/pgscorer | [open](records/repertoare-catalogs-uscbiostats-pgscorer-69ec28d8.md) |
+| `github_search_repertoare_catalogs-4c72e0d9cf6ec1` | rbessinger/cleancheck | [open](records/repertoare-catalogs-rbessinger-cleancheck-6887fc53.md) |
+| `github_search_repertoare_catalogs-4ce160216b4f8f` | ouvroir/display | [open](records/repertoare-catalogs-ouvroir-display-afb42e98.md) |
 | `github_search_repertoare_catalogs-4ce3f565923576` | ageneau/piano-repertoire-index | [open](records/repertoare-catalogs-ageneau-piano-repertoire-index-2195d707.md) |
+| `github_search_repertoare_catalogs-4db82355d212e3` | zcesur/opening-repertoire | [open](records/repertoare-catalogs-zcesur-opening-repertoire-a8349423.md) |
 | `github_search_repertoare_catalogs-4e92e174a50c8f` | nirholas/lyra-registry | [open](records/repertoare-catalogs-nirholas-lyra-registry-0fb2fc51.md) |
 | `github_search_repertoare_catalogs-5221b8375e5c43` | glitchwerks/claude-wayfinder | [open](records/repertoare-catalogs-glitchwerks-claude-wayfinder-f0e59761.md) |
 | `github_search_repertoare_catalogs-53a8d5e91f92ba` | Ananth-Jinde/Credit-Risk-Analytics | [open](records/repertoare-catalogs-ananth-jinde-credit-risk-analytics-93af201c.md) |
+| `github_search_repertoare_catalogs-55b6ccd631db73` | paulpascal/g7_data_collection_work | [open](records/repertoare-catalogs-paulpascal-g7-data-collection-work-a9961bb2.md) |
 | `github_search_repertoare_catalogs-55b84f9b1aaaf5` | ouvroir/perfs | [open](records/repertoare-catalogs-ouvroir-perfs-fe7a5eca.md) |
 | `github_search_repertoare_catalogs-55e5205120dfb6` | mattbertorg1/21m-410-vocal-repertoire-and-performance-african-american-composers_7007df1d8dba43548145d1c67a0fb499 | [open](records/repertoare-catalogs-mattbertorg1-21m-410-vocal-repertoire-and-performance-african-american-composers-7007df1d8dba43548145d1c67a0fb499-88e6858c.md) |
 | `github_search_repertoare_catalogs-56bffb0698a62f` | AdityaLad2004/Catalog-Score | [open](records/repertoare-catalogs-adityalad2004-catalog-score-1c228719.md) |
@@ -12917,56 +12940,78 @@
 | `github_search_repertoare_catalogs-6cfe853e804964` | JamesGlare/Holo_gen_models | [open](records/repertoare-catalogs-jamesglare-holo-gen-models-b9f8f500.md) |
 | `github_search_repertoare_catalogs-6e6c03078e3405` | vladkrakhmalev/Songix-Beta | [open](records/repertoare-catalogs-vladkrakhmalev-songix-beta-462862bc.md) |
 | `github_search_repertoare_catalogs-71349669c6faf1` | monirulHaque/myentertainmenthub | [open](records/repertoare-catalogs-monirulhaque-myentertainmenthub-d3d3b041.md) |
+| `github_search_repertoare_catalogs-72a309fcbd5a0d` | agilesdesign/repertoire | [open](records/repertoare-catalogs-agilesdesign-repertoire-165a2ebc.md) |
+| `github_search_repertoare_catalogs-73ad7b76915b8a` | natarizkie2/kurema | [open](records/repertoare-catalogs-natarizkie2-kurema-58d503dc.md) |
 | `github_search_repertoare_catalogs-7550856da7c909` | topshopifydev/ShopSpy | [open](records/repertoare-catalogs-topshopifydev-shopspy-3bf18474.md) |
+| `github_search_repertoare_catalogs-768aa4c6d03a51` | pesnik/springboot-repertoire | [open](records/repertoare-catalogs-pesnik-springboot-repertoire-2eb3d749.md) |
 | `github_search_repertoare_catalogs-7694c6ecb570e5` | JaysonBucket/NewsCommander | [open](records/repertoare-catalogs-jaysonbucket-newscommander-5fab9bf1.md) |
 | `github_search_repertoare_catalogs-779a47a283b1ff` | enbacon/music-buddy-back-end | [open](records/repertoare-catalogs-enbacon-music-buddy-back-end-9fe03966.md) |
+| `github_search_repertoare_catalogs-792984d0b63805` | Hugo-Bizeul/game-collection | [open](records/repertoare-catalogs-hugo-bizeul-game-collection-9ad4fe14.md) |
 | `github_search_repertoare_catalogs-7b804396badf85` | marshallswain/song-book-vue | [open](records/repertoare-catalogs-marshallswain-song-book-vue-c793b244.md) |
 | `github_search_repertoare_catalogs-7dfce00eb9336b` | sarkarbikram90/Granular | [open](records/repertoare-catalogs-sarkarbikram90-granular-1a4cb9ef.md) |
 | `github_search_repertoare_catalogs-7e7033a1be4f5b` | adamgell/TenantPulse | [open](records/repertoare-catalogs-adamgell-tenantpulse-10241acd.md) |
+| `github_search_repertoare_catalogs-7f1a1113db98dc` | pesnik/gin-repertoire | [open](records/repertoare-catalogs-pesnik-gin-repertoire-59474943.md) |
 | `github_search_repertoare_catalogs-7f20439097c09e` | DanielHaggstrom/Genomics | [open](records/repertoare-catalogs-danielhaggstrom-genomics-9d0627e3.md) |
+| `github_search_repertoare_catalogs-80dfb01623d556` | fogacafe/indtec-labz-catalog | [open](records/repertoare-catalogs-fogacafe-indtec-labz-catalog-1be98b9b.md) |
 | `github_search_repertoare_catalogs-80e323feaac5b5` | EarnFounders/GraphPerf2023 | [open](records/repertoare-catalogs-earnfounders-graphperf2023-151d4542.md) |
 | `github_search_repertoare_catalogs-80f89b420f793d` | pmpfe/genexplore | [open](records/repertoare-catalogs-pmpfe-genexplore-f0d47b53.md) |
 | `github_search_repertoare_catalogs-810a6420b80494` | calewolf/Repertoire_App | [open](records/repertoare-catalogs-calewolf-repertoire-app-32ab141a.md) |
 | `github_search_repertoare_catalogs-834fbd32e5fbfa` | NeilP211/runway | [open](records/repertoare-catalogs-neilp211-runway-cc0319ad.md) |
 | `github_search_repertoare_catalogs-8500052900b555` | duemig/Stanford-Project-Predicting-stock-prices-using-a-LSTM-Network | [open](records/repertoare-catalogs-duemig-stanford-project-predicting-stock-prices-using-a-lstm-network-a9a03ded.md) |
+| `github_search_repertoare_catalogs-854c1ba9b8047b` | swuecho/MS-antibody-sequence | [open](records/repertoare-catalogs-swuecho-ms-antibody-sequence-a0062e33.md) |
 | `github_search_repertoare_catalogs-8600240be2c74d` | jasondentler/wild-catalog | [open](records/repertoare-catalogs-jasondentler-wild-catalog-f314f00b.md) |
+| `github_search_repertoare_catalogs-86318cc24defec` | Photon1c/finance-formulas-repertoire | [open](records/repertoare-catalogs-photon1c-finance-formulas-repertoire-9d637c93.md) |
+| `github_search_repertoare_catalogs-8b43ddb6dab130` | elandau91/gd-frontend | [open](records/repertoare-catalogs-elandau91-gd-frontend-13f33beb.md) |
 | `github_search_repertoare_catalogs-8de1fd59c35b20` | aberson/x-marks-the-spot | [open](records/repertoare-catalogs-aberson-x-marks-the-spot-b4e276e0.md) |
 | `github_search_repertoare_catalogs-8e4ff9de574444` | rohanhake98/catalogiq | [open](records/repertoare-catalogs-rohanhake98-catalogiq-45ca9615.md) |
 | `github_search_repertoare_catalogs-8ebcbec86193bc` | techninja/asili | [open](records/repertoare-catalogs-techninja-asili-1d96fa22.md) |
+| `github_search_repertoare_catalogs-92c89a9128b56a` | pesnik/django-repertoire | [open](records/repertoare-catalogs-pesnik-django-repertoire-1e97e889.md) |
 | `github_search_repertoare_catalogs-92d0845336c448` | techninja/asili-lab | [open](records/repertoare-catalogs-techninja-asili-lab-cafbfad1.md) |
 | `github_search_repertoare_catalogs-93326904d6c09a` | magendooro/magento2-catalog-quality | [open](records/repertoare-catalogs-magendooro-magento2-catalog-quality-b5315373.md) |
 | `github_search_repertoare_catalogs-93c54c2cd2b58f` | softrams/cve-risk-scores | [open](records/repertoare-catalogs-softrams-cve-risk-scores-2a7f5a97.md) |
 | `github_search_repertoare_catalogs-948be738677c0e` | earbona23/entra-privilege-auditor | [open](records/repertoare-catalogs-earbona23-entra-privilege-auditor-08c52285.md) |
+| `github_search_repertoare_catalogs-96ddaffaf7a9fc` | chattoundaw26-tech/EXAMEN-DATA-COLLECTION- | [open](records/repertoare-catalogs-chattoundaw26-tech-examen-data-collection-eaced76b.md) |
 | `github_search_repertoare_catalogs-97f31e1d80881b` | Lydie-hero/catalogue-score-proto | [open](records/repertoare-catalogs-lydie-hero-catalogue-score-proto-1eb7751a.md) |
 | `github_search_repertoare_catalogs-9931c6e0796444` | punyamodi/catalog-quality-scorer | [open](records/repertoare-catalogs-punyamodi-catalog-quality-scorer-78773128.md) |
 | `github_search_repertoare_catalogs-9a613156f4847b` | aditya8975/RetailVision-AI | [open](records/repertoare-catalogs-aditya8975-retailvision-ai-b2301727.md) |
+| `github_search_repertoare_catalogs-9cc21669b01d6e` | HusseinBakri/PythonFinancialRepertoire | [open](records/repertoare-catalogs-husseinbakri-pythonfinancialrepertoire-47b61516.md) |
 | `github_search_repertoare_catalogs-9f8933fb4c626b` | mjbetti/prs-pgs-calculator | [open](records/repertoare-catalogs-mjbetti-prs-pgs-calculator-fa767e95.md) |
 | `github_search_repertoare_catalogs-a31a692dcd79ba` | adrianwedd/Agentic-Index | [open](records/repertoare-catalogs-adrianwedd-agentic-index-eb5c5565.md) |
 | `github_search_repertoare_catalogs-a490dbf7489c76` | KanduriC/demo_reproducibility_kanduricetal2021 | [open](records/repertoare-catalogs-kanduric-demo-reproducibility-kanduricetal2021-1652c380.md) |
 | `github_search_repertoare_catalogs-a4cbbdfc1ad153` | cobusgreyling/grok-bot-templates | [open](records/repertoare-catalogs-cobusgreyling-grok-bot-templates-05eef740.md) |
 | `github_search_repertoare_catalogs-a5109fa4b0ec97` | johnvteixido/etherlens | [open](records/repertoare-catalogs-johnvteixido-etherlens-c7b3a681.md) |
+| `github_search_repertoare_catalogs-a8c2c77e77c9ae` | jacekiwaszko1/ad-aequales-dataset | [open](records/repertoare-catalogs-jacekiwaszko1-ad-aequales-dataset-a65ec15c.md) |
 | `github_search_repertoare_catalogs-a93175644ce000` | kalpanajagtap/Bharatnatyam | [open](records/repertoare-catalogs-kalpanajagtap-bharatnatyam-11ca2e93.md) |
+| `github_search_repertoare_catalogs-a9cc877a7b3156` | Avdey7/chn.songs | [open](records/repertoare-catalogs-avdey7-chn-songs-6df0e343.md) |
 | `github_search_repertoare_catalogs-abca7427c2cada` | suislanchez/polygenic-risk-score-calc | [open](records/repertoare-catalogs-suislanchez-polygenic-risk-score-calc-de8fc42c.md) |
 | `github_search_repertoare_catalogs-abff7558d1ac51` | Resch17/repertoire | [open](records/repertoare-catalogs-resch17-repertoire-6a7569f8.md) |
 | `github_search_repertoare_catalogs-ac75577810b75c` | heylabs-co/dev-tools-portal | [open](records/repertoare-catalogs-heylabs-co-dev-tools-portal-7c271bc4.md) |
 | `github_search_repertoare_catalogs-aef77e60bd0eee` | adityacodes30/catalog-scoring-ondc | [open](records/repertoare-catalogs-adityacodes30-catalog-scoring-ondc-eed2618c.md) |
 | `github_search_repertoare_catalogs-af052d386cf6d9` | Jue12138/RepertoireAnalysis | [open](records/repertoare-catalogs-jue12138-repertoireanalysis-a7c7d63d.md) |
 | `github_search_repertoare_catalogs-b415e90e55758e` | CHagarty/scorecard-catalogue | [open](records/repertoare-catalogs-chagarty-scorecard-catalogue-ac87b7bd.md) |
+| `github_search_repertoare_catalogs-b507298a074e42` | Waribiz/apps-collections | [open](records/repertoare-catalogs-waribiz-apps-collections-d259531c.md) |
 | `github_search_repertoare_catalogs-b64dea4ccb6c6c` | thinkchainai/vulnerability-intelligence-mcp | [open](records/repertoare-catalogs-thinkchainai-vulnerability-intelligence-mcp-73826286.md) |
 | `github_search_repertoare_catalogs-b6e6e7e4814b52` | gastroph/Rock-Band-DLC---Leaderboards-App-for-Android | [open](records/repertoare-catalogs-gastroph-rock-band-dlc-leaderboards-app-for-android-35abaa1b.md) |
 | `github_search_repertoare_catalogs-b79f477142cd4b` | ens-lgil/PGS_Catalog_deprecated | [open](records/repertoare-catalogs-ens-lgil-pgs-catalog-deprecated-88d51e98.md) |
 | `github_search_repertoare_catalogs-b816224fd3c7a9` | Malfou/Violinfind | [open](records/repertoare-catalogs-malfou-violinfind-a6c6d90d.md) |
+| `github_search_repertoare_catalogs-bb4012fba0e516` | specforgeart/chudo-songlist-public-demo | [open](records/repertoare-catalogs-specforgeart-chudo-songlist-public-demo-3ba1e973.md) |
 | `github_search_repertoare_catalogs-bb5438743a0d67` | thiagocorreanet/mestre-yoda | [open](records/repertoare-catalogs-thiagocorreanet-mestre-yoda-6b0b2efd.md) |
 | `github_search_repertoare_catalogs-bbe9639a61c8b5` | Qwodjo/SnapIMDB | [open](records/repertoare-catalogs-qwodjo-snapimdb-97a08a70.md) |
 | `github_search_repertoare_catalogs-bc42cd372db8bb` | zhangwei2015/IMisc | [open](records/repertoare-catalogs-zhangwei2015-imisc-4588dcb0.md) |
+| `github_search_repertoare_catalogs-bdb92e8c8ef8dc` | euniquewon/repertoire | [open](records/repertoare-catalogs-euniquewon-repertoire-a8ee7776.md) |
+| `github_search_repertoare_catalogs-c3685323c89d1f` | ouvroir/partage | [open](records/repertoare-catalogs-ouvroir-partage-26dd1087.md) |
 | `github_search_repertoare_catalogs-c3be86ea020445` | Electronick79/ndossantos-COMP-596-Web-Application-Development | [open](records/repertoare-catalogs-electronick79-ndossantos-comp-596-web-application-development-0e6dc95b.md) |
 | `github_search_repertoare_catalogs-c3c4ff5cf3e874` | kathrynmueller/conductor-rep | [open](records/repertoare-catalogs-kathrynmueller-conductor-rep-712ea183.md) |
 | `github_search_repertoare_catalogs-c524eeb3eb3cff` | UmrenTV/repertoire | [open](records/repertoare-catalogs-umrentv-repertoire-c829cce8.md) |
+| `github_search_repertoare_catalogs-c5ae46123ee34f` | msemery/repertoire_de_collection | [open](records/repertoare-catalogs-msemery-repertoire-de-collection-cf994c5c.md) |
 | `github_search_repertoare_catalogs-c78a412c693aeb` | Cristian-Ayala/band-blend | [open](records/repertoare-catalogs-cristian-ayala-band-blend-020b5aa8.md) |
 | `github_search_repertoare_catalogs-c7acac0114c2b5` | siracalaks/vektra | [open](records/repertoare-catalogs-siracalaks-vektra-c75a6dd5.md) |
 | `github_search_repertoare_catalogs-c8d3df101a5741` | commerce-agentic/agentic-commerce-tools | [open](records/repertoare-catalogs-commerce-agentic-agentic-commerce-tools-a3e081f4.md) |
 | `github_search_repertoare_catalogs-caba466858430d` | PGScatalog/pgsc_calc | [open](records/repertoare-catalogs-pgscatalog-pgsc-calc-0cbf3293.md) |
+| `github_search_repertoare_catalogs-cb272337b7db27` | alaosama/ExquisiteProjects | [open](records/repertoare-catalogs-alaosama-exquisiteprojects-c25e7a56.md) |
+| `github_search_repertoare_catalogs-cc94c957226f39` | knightway8/chess4 | [open](records/repertoare-catalogs-knightway8-chess4-d4f347a8.md) |
 | `github_search_repertoare_catalogs-ce13bdb8bdee51` | Kingdompe/ai-catalog-score-docs | [open](records/repertoare-catalogs-kingdompe-ai-catalog-score-docs-52a2d6b4.md) |
+| `github_search_repertoare_catalogs-cf845096919a2d` | NCherfaoui/Mini_Projects | [open](records/repertoare-catalogs-ncherfaoui-mini-projects-3cc26ea0.md) |
 | `github_search_repertoare_catalogs-d1f92d51db0495` | pianoenergy/repertoire-manager-releases | [open](records/repertoare-catalogs-pianoenergy-repertoire-manager-releases-3f77c322.md) |
 | `github_search_repertoare_catalogs-d37ac7759eb524` | sujithputta02/Team-Dataminers | [open](records/repertoare-catalogs-sujithputta02-team-dataminers-db6e7e30.md) |
 | `github_search_repertoare_catalogs-dab0fda711e893` | PGScatalog/PGS_Catalog | [open](records/repertoare-catalogs-pgscatalog-pgs-catalog-ee188ec5.md) |
@@ -12975,14 +13020,20 @@
 | `github_search_repertoare_catalogs-de903b80f9f536` | Arnon-hs/open-source | [open](records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) |
 | `github_search_repertoare_catalogs-e1f23a51bc601b` | Pheelog/CybersecurityRiskAnalysis | [open](records/repertoare-catalogs-pheelog-cybersecurityriskanalysis-a1778a8b.md) |
 | `github_search_repertoare_catalogs-e37bc99e880d3d` | giorkala/pgs_calculation_workflow | [open](records/repertoare-catalogs-giorkala-pgs-calculation-workflow-d8e45882.md) |
+| `github_search_repertoare_catalogs-e4bb0a980260e4` | ytann/ML-Projects-Repertoire | [open](records/repertoare-catalogs-ytann-ml-projects-repertoire-05ba0afa.md) |
 | `github_search_repertoare_catalogs-e58f5f39df5839` | ProtocolRedefined/Service-Catalog-Scorecard | [open](records/repertoare-catalogs-protocolredefined-service-catalog-scorecard-48ff50e0.md) |
 | `github_search_repertoare_catalogs-e5d26881d1a343` | ibtissamelhani/Maska_Hunter_League | [open](records/repertoare-catalogs-ibtissamelhani-maska-hunter-league-b5889dc3.md) |
+| `github_search_repertoare_catalogs-e7af38a7ebc3a1` | pesnik/flask-repertoire | [open](records/repertoare-catalogs-pesnik-flask-repertoire-569c53ed.md) |
 | `github_search_repertoare_catalogs-e8525fc8cc8314` | Yeoh-TH/music-catalogue | [open](records/repertoare-catalogs-yeoh-th-music-catalogue-168a4281.md) |
+| `github_search_repertoare_catalogs-e8dc16ed3a69a0` | alanjvano/ChessOpeningRepertoire | [open](records/repertoare-catalogs-alanjvano-chessopeningrepertoire-0e9a1b9a.md) |
 | `github_search_repertoare_catalogs-eb472ca738e46d` | dream434/gofuzz | [open](records/repertoare-catalogs-dream434-gofuzz-e972d2ef.md) |
 | `github_search_repertoare_catalogs-f532fe56406b8a` | caereforge/tempo-scores | [open](records/repertoare-catalogs-caereforge-tempo-scores-41391912.md) |
+| `github_search_repertoare_catalogs-f5675154972b8d` | leg234-png/Projet_Contact | [open](records/repertoare-catalogs-leg234-png-projet-contact-3ab48cd4.md) |
 | `github_search_repertoare_catalogs-f6efec5c72d08c` | Shagnik-Biswas/Product-API | [open](records/repertoare-catalogs-shagnik-biswas-product-api-d64e00aa.md) |
+| `github_search_repertoare_catalogs-f904cef26cf369` | jazzarchivist/community-packs | [open](records/repertoare-catalogs-jazzarchivist-community-packs-4c3aa852.md) |
 | `github_search_repertoare_catalogs-f99f6a19cd05bc` | FortuneThorGame/Fortune-Thor-Game | [open](records/repertoare-catalogs-fortunethorgame-fortune-thor-game-bac23805.md) |
 | `github_search_repertoare_catalogs-faae0cc771eb2e` | 2deva/catalog-score | [open](records/repertoare-catalogs-2deva-catalog-score-34e64b09.md) |
+| `github_search_repertoare_catalogs-fb4630cd9ce609` | cuboulder-MSD/digColl_ricardoVinesPianoMusic | [open](records/repertoare-catalogs-cuboulder-msd-digcoll-ricardovinespianomusic-21a6efb2.md) |
 | `github_search_repertoare_catalogs-fbe1ffa66237c6` | 0razec/Dados-Catalogados | [open](records/repertoare-catalogs-0razec-dados-catalogados-e2b354d8.md) |
 | `github_search_repertoare_catalogs-fca35a08e13651` | araujotja/ensaio_pro_app | [open](records/repertoare-catalogs-araujotja-ensaio-pro-app-64bf28aa.md) |
 | `github_search_repertoare_catalogs-fd75a2a495eb96` | Venkat-023/Amazon_MachineLearning-Hackathon | [open](records/repertoare-catalogs-venkat-023-amazon-machinelearning-hackathon-613bdfda.md) |
@@ -16728,6 +16779,7 @@
 | `hackage_recent-2e5eb175e39bb5` | peg-matching | [open](records/haskell-peg-matching-8b470238.md) |
 | `hackage_recent-2ea0355e73efdb` | keel-dyn | [open](records/haskell-keel-dyn-2d5e1e3a.md) |
 | `hackage_recent-30bbdc91959c46` | freckle-http | [open](records/haskell-freckle-http-ec27c9f6.md) |
+| `hackage_recent-3354ad07e85a7c` | Diff | [open](records/haskell-diff-226c8910.md) |
 | `hackage_recent-35beadab7001d5` | what4-domains | [open](records/haskell-what4-domains-20a280a8.md) |
 | `hackage_recent-36b9648f0bd994` | keel | [open](records/haskell-keel-dffc1816.md) |
 | `hackage_recent-36d21c9436a774` | quic-simple | [open](records/haskell-quic-simple-f198ea36.md) |
@@ -16744,7 +16796,6 @@
 | `hackage_recent-665acdb3037336` | pure-cdt | [open](records/haskell-pure-cdt-0f524428.md) |
 | `hackage_recent-6a3519652d8827` | kioku-api | [open](records/haskell-kioku-api-ebf3c8b4.md) |
 | `hackage_recent-6d113377a71df1` | mmzk-env | [open](records/haskell-mmzk-env-78c01d27.md) |
-| `hackage_recent-6f6d58eea7fc96` | hOpenPGP | [open](records/haskell-hopenpgp-dbd93565.md) |
 | `hackage_recent-70643b614e9981` | thread-utils-context | [open](records/haskell-thread-utils-context-4cff1f57.md) |
 | `hackage_recent-70822653d85203` | cabal-add | [open](records/haskell-cabal-add-666244f2.md) |
 | `hackage_recent-71ff2166351a35` | rme-what4 | [open](records/haskell-rme-what4-e5f70573.md) |
@@ -16755,6 +16806,8 @@
 | `hackage_recent-7e6eeb91445d92` | aihc-parser | [open](records/haskell-aihc-parser-d88ae54b.md) |
 | `hackage_recent-7e798823e81409` | crypton | [open](records/haskell-crypton-7cba2161.md) |
 | `hackage_recent-85b70f81457859` | tricorder-mcp | [open](records/haskell-tricorder-mcp-95664038.md) |
+| `hackage_recent-8f02f0b40516b7` | ephemeral-pg | [open](records/haskell-ephemeral-pg-bde54662.md) |
+| `hackage_recent-8f6b763e7985db` | mini | [open](records/haskell-mini-8b13af00.md) |
 | `hackage_recent-8fa23d2c7c3c62` | diohsc | [open](records/haskell-diohsc-65da82f6.md) |
 | `hackage_recent-8fb4d38b9dd5fa` | xdg-desktop-entry | [open](records/haskell-xdg-desktop-entry-67d26242.md) |
 | `hackage_recent-9259bbdab92e2c` | hpgsql-simple-compat | [open](records/haskell-hpgsql-simple-compat-d03e91c2.md) |
@@ -17060,7 +17113,6 @@
 | `hackage_top_downloads-328bdc6203e4e8` | quic | [open](records/haskell-quic-b2fb69cc.md) |
 | `hackage_top_downloads-32f33c397c77f5` | keys | [open](records/haskell-keys-ca030f7a.md) |
 | `hackage_top_downloads-331cec4b54f788` | transformers | [open](records/haskell-transformers-17647c94.md) |
-| `hackage_top_downloads-3354ad07e85a7c` | Diff | [open](records/haskell-diff-226c8910.md) |
 | `hackage_top_downloads-336d6ef322743b` | text | [open](records/haskell-text-b37b3512.md) |
 | `hackage_top_downloads-336de302472153` | sdl2 | [open](records/haskell-sdl2-595d37f1.md) |
 | `hackage_top_downloads-339b01cfff99fc` | reflex-ghci | [open](records/haskell-reflex-ghci-43250d49.md) |
@@ -17363,6 +17415,7 @@
 | `hackage_top_downloads-6e850d75b5a0e5` | stomp-queue | [open](records/haskell-stomp-queue-894bae3e.md) |
 | `hackage_top_downloads-6f2f7a2b4f34fd` | hakyll-images | [open](records/haskell-hakyll-images-f64f99bf.md) |
 | `hackage_top_downloads-6f600b423be81c` | yesod-markdown | [open](records/haskell-yesod-markdown-8c3c7de7.md) |
+| `hackage_top_downloads-6f6d58eea7fc96` | hOpenPGP | [open](records/haskell-hopenpgp-dbd93565.md) |
 | `hackage_top_downloads-6fb011a4d833da` | butcher | [open](records/haskell-butcher-ceb9004a.md) |
 | `hackage_top_downloads-706765dfc8d571` | pqi-conformance | [open](records/haskell-pqi-conformance-04c6674f.md) |
 | `hackage_top_downloads-70684cb1dd24e3` | github-backup | [open](records/haskell-github-backup-781e11f0.md) |

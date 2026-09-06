@@ -1,6 +1,6 @@
 # Filesystem Os
 
-Records: `1586`
+Records: `1590`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `1586`
 ## Category Index
 
 [Api Abi Checker (220)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (198)](benchmarking.md) · [Build System (989)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (117)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
+[Benchmarking (199)](benchmarking.md) · [Build System (992)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (175)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (231)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (455)](ffi-bindings.md) · **[Filesystem Os (1586)](filesystem-os.md)** · [Formatter (646)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1457)](ide-editor-integration.md)
+[Cryptography (175)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (231)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (104)](documentation.md)
+[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (456)](ffi-bindings.md) · **[Filesystem Os (1590)](filesystem-os.md)** · [Formatter (646)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1460)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (269)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1433)](language-specification.md) · [Library (5642)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
+[Language Server (29)](language-server.md) · [Language Specification (1435)](language-specification.md) · [Library (5656)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (521)](logging-observability.md) · [Machine Learning (792)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1183)](parser-lexer-ast.md) · [Precommit Ci Quality (303)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1185)](parser-lexer-ast.md) · [Precommit Ci Quality (305)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (607)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (396)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (610)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1608)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (552)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Undefined Behavior Analyzer (1615)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (553)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C++23
 
@@ -1512,6 +1512,15 @@ Records: `1586`
 | yjosh-dev/radio-garden | partial | 2026-01-31T05:50:44Z | [open](../records/radio-garden-speciality-yjosh-dev-radio-garden-37d2f840.md) |
 | yongabyte/favorite-radios | partial | 2020-10-01T20:06:20Z | [open](../records/radio-garden-speciality-yongabyte-favorite-radios-03ea808b.md) |
 
+## Repertoare Catalogs
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| jacekiwaszko1/ad-aequales | partial | 2025-11-24T01:53:32Z | [open](../records/repertoare-catalogs-jacekiwaszko1-ad-aequales-c5a444ba.md) |
+| jacekiwaszko1/ad-aequales-dataset | partial | 2025-11-21T00:12:40Z | [open](../records/repertoare-catalogs-jacekiwaszko1-ad-aequales-dataset-a65ec15c.md) |
+| leg234-png/Projet_Contact | partial | 2024-04-01T17:29:53Z | [open](../records/repertoare-catalogs-leg234-png-projet-contact-3ab48cd4.md) |
+| Waribiz/apps-collections | partial | 2025-08-03T15:29:03Z | [open](../records/repertoare-catalogs-waribiz-apps-collections-d259531c.md) |
+
 ## Catalogs
 
 | Name | Release | Date | Page |
@@ -1535,7 +1544,7 @@ Records: `1586`
 | iOS-Goodies/iOS-Goodies | partial | 2023-11-20T16:07:55Z | [open](../records/magazines-ios-goodies-ios-goodies-158d5e0d.md) |
 | jendrikseipp/rednotebook | partial | 2026-07-12T20:45:38Z | [open](../records/magazines-jendrikseipp-rednotebook-25e7f065.md) |
 | joergi/MagPiDownloader | partial | 2026-08-03T14:10:04Z | [open](../records/magazines-joergi-magpidownloader-67f8e42e.md) |
-| journiv/journiv-app | partial | 2026-09-05T22:08:25Z | [open](../records/magazines-journiv-journiv-app-b0d9c829.md) |
+| journiv/journiv-app | partial | 2026-09-06T16:25:38Z | [open](../records/magazines-journiv-journiv-app-b0d9c829.md) |
 | openjournals/joss | partial | 2026-08-31T13:39:45Z | [open](../records/magazines-openjournals-joss-1c4447c8.md) |
 | OS2World/DEV-SAMPLES-C-ColorWheel | partial | 2016-02-21T13:23:48Z | [open](../records/magazines-os2world-dev-samples-c-colorwheel-50ebb784.md) |
 | OS2World/DEV-SAMPLES-C-PM-ctrldes | 1.01 | 2023-05-22T21:49:53Z | [open](../records/magazines-os2world-dev-samples-c-pm-ctrldes-cc4b602b.md) |
@@ -1556,16 +1565,16 @@ Records: `1586`
 | songtianlun/diarum | partial | 2026-08-04T05:10:54Z | [open](../records/magazines-songtianlun-diarum-6ce1bdf0.md) |
 | spatie/Mailcoach | partial | 2026-03-09T09:27:14Z | [open](../records/magazines-spatie-mailcoach-b99f99d2.md) |
 | stefanbc/Asgar | partial | 2023-09-05T02:36:38Z | [open](../records/magazines-stefanbc-asgar-eb9aacac.md) |
-| TryGhost/Alto | partial | 2026-09-05T19:16:59Z | [open](../records/magazines-tryghost-alto-462e85dc.md) |
-| TryGhost/Casper | partial | 2026-09-05T23:07:42Z | [open](../records/magazines-tryghost-casper-68eed8fe.md) |
-| TryGhost/Dawn | partial | 2026-09-05T19:16:44Z | [open](../records/magazines-tryghost-dawn-93a1bcb3.md) |
-| TryGhost/Dope | partial | 2026-09-05T19:16:45Z | [open](../records/magazines-tryghost-dope-8382f7e5.md) |
-| TryGhost/Edge | partial | 2026-09-05T19:16:46Z | [open](../records/magazines-tryghost-edge-c0002ec9.md) |
+| TryGhost/Alto | partial | 2026-09-06T10:51:55Z | [open](../records/magazines-tryghost-alto-462e85dc.md) |
+| TryGhost/Casper | partial | 2026-09-06T10:53:59Z | [open](../records/magazines-tryghost-casper-68eed8fe.md) |
+| TryGhost/Dawn | partial | 2026-09-06T10:51:51Z | [open](../records/magazines-tryghost-dawn-93a1bcb3.md) |
+| TryGhost/Dope | partial | 2026-09-06T10:51:57Z | [open](../records/magazines-tryghost-dope-8382f7e5.md) |
+| TryGhost/Edge | partial | 2026-09-06T10:51:50Z | [open](../records/magazines-tryghost-edge-c0002ec9.md) |
 | TryGhost/Edition | partial | 2026-09-01T15:21:37Z | [open](../records/magazines-tryghost-edition-30f487ea.md) |
 | TryGhost/Journal | partial | 2026-09-01T15:22:39Z | [open](../records/magazines-tryghost-journal-0be492cf.md) |
-| TryGhost/London | partial | 2026-09-05T19:16:43Z | [open](../records/magazines-tryghost-london-63cc3483.md) |
-| TryGhost/Massively | partial | 2026-09-05T18:59:57Z | [open](../records/magazines-tryghost-massively-26c36497.md) |
-| TryGhost/Source | partial | 2026-09-05T23:02:39Z | [open](../records/magazines-tryghost-source-8e1152fe.md) |
+| TryGhost/London | partial | 2026-09-06T10:51:51Z | [open](../records/magazines-tryghost-london-63cc3483.md) |
+| TryGhost/Massively | partial | 2026-09-06T03:00:53Z | [open](../records/magazines-tryghost-massively-26c36497.md) |
+| TryGhost/Source | partial | 2026-09-06T10:55:32Z | [open](../records/magazines-tryghost-source-8e1152fe.md) |
 | TryGhost/Themes | partial | 2026-09-01T15:18:30Z | [open](../records/magazines-tryghost-themes-8b8724da.md) |
 | unkn0w/disposable-email-domain-list | partial | 2026-07-27T07:07:18Z | [open](../records/magazines-unkn0w-disposable-email-domain-list-54a50054.md) |
 
@@ -1640,7 +1649,7 @@ Records: `1586`
 | lucasgelfond/exiftool-web | partial | 2026-01-10T18:07:32Z | [open](../records/webassembly-lucasgelfond-exiftool-web-6b2c4ba0.md) |
 | mafintosh/blake2b-wasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-mafintosh-blake2b-wasm-6966696b.md) |
 | mbasso/awesome-wasm | partial | 2024-11-15T14:58:04Z | [open](../records/webassembly-mbasso-awesome-wasm-e5b53bed.md) |
-| microsoft/fluentui-blazor | partial | 2026-09-05T15:41:01Z | [open](../records/webassembly-microsoft-fluentui-blazor-4d2addbf.md) |
+| microsoft/fluentui-blazor | partial | 2026-09-06T17:41:05Z | [open](../records/webassembly-microsoft-fluentui-blazor-4d2addbf.md) |
 | mosra/magnum | partial | 2026-08-23T10:24:48Z | [open](../records/webassembly-mosra-magnum-973479c6.md) |
 | nihui/opencv-mobile | partial | 2026-07-12T12:55:31Z | [open](../records/webassembly-nihui-opencv-mobile-2cbef6f5.md) |
 | tarmac-project/tarmac | partial | 2026-08-24T22:34:20Z | [open](../records/webassembly-tarmac-project-tarmac-0f9fb005.md) |
@@ -1676,7 +1685,7 @@ Records: `1586`
 | CleanArchitectureRxSwift | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-cleanarchitecturerxswift-25af9dfb.md) |
 | CosmicMind/Material | unknown | github_search_does_not_include_release_date | [open](../records/swift-cosmicmind-material-cd01b365.md) |
 | darrylmorley/whatcable | partial | 2026-09-03T09:14:28Z | [open](../records/swift-darrylmorley-whatcable-e5cc9fd3.md) |
-| dkhamsing/open-source-ios-apps | partial | 2026-09-05T12:54:59Z | [open](../records/swift-dkhamsing-open-source-ios-apps-108f495a.md) |
+| dkhamsing/open-source-ios-apps | partial | 2026-09-06T14:57:52Z | [open](../records/swift-dkhamsing-open-source-ios-apps-108f495a.md) |
 | example-ios-apps | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-example-ios-apps-4d4c80bc.md) |
 | facebook/facebook-ios-sdk | unknown | github_search_does_not_include_release_date | [open](../records/swift-facebook-facebook-ios-sdk-82cf4bfc.md) |
 | gao-sun/eul | unknown | github_search_does_not_include_release_date | [open](../records/swift-gao-sun-eul-73d27248.md) |
@@ -1742,7 +1751,7 @@ Records: `1586`
 | Countly | 26.1.0 | 2026-02-18 14:12:24 UTC | [open](../records/cocoa-countly-2297ca5c.md) |
 | Danie1s/Tiercel | partial | 2026-08-24T16:54:29Z | [open](../records/cocoa-danie1s-tiercel-5ed21306.md) |
 | DarielChen/iOSTips | partial | 2020-10-19T07:14:11Z | [open](../records/cocoa-darielchen-iostips-e6e9e701.md) |
-| dkhamsing/open-source-ios-apps | partial | 2026-09-05T12:54:59Z | [open](../records/cocoa-dkhamsing-open-source-ios-apps-3bad4ab1.md) |
+| dkhamsing/open-source-ios-apps | partial | 2026-09-06T14:57:52Z | [open](../records/cocoa-dkhamsing-open-source-ios-apps-3bad4ab1.md) |
 | DrawKit/DrawKit | partial | 2023-03-13T12:23:46Z | [open](../records/cocoa-drawkit-drawkit-72c338f1.md) |
 | dusty-commits/Closures | partial | 2021-04-29T15:34:36Z | [open](../records/cocoa-dusty-commits-closures-519b25c5.md) |
 | FluidGroup/NextGrowingTextView | partial | 2026-08-21T18:15:48Z | [open](../records/cocoa-fluidgroup-nextgrowingtextview-19805040.md) |
@@ -1777,14 +1786,14 @@ Records: `1586`
 | RouteComposer | 2.22.2 | 2026-08-18T19:21:54Z | [open](../records/cocoa-routecomposer-e90e943a.md) |
 | RxFlow | 2.13.0 | 2022-04-27T12:49:48Z | [open](../records/cocoa-rxflow-6ff66a60.md) |
 | sahin/mobileplayer-ios | partial | 2022-07-21T22:10:51Z | [open](../records/cocoa-sahin-mobileplayer-ios-33ef2b37.md) |
-| saucer/saucer | partial | 2026-09-04T11:56:34Z | [open](../records/cocoa-saucer-saucer-338e12ec.md) |
+| saucer/saucer | partial | 2026-09-06T15:27:35Z | [open](../records/cocoa-saucer-saucer-338e12ec.md) |
 | shoheiyokoyama/Gemini | partial | 2025-06-28T06:50:16Z | [open](../records/cocoa-shoheiyokoyama-gemini-e24896a8.md) |
 | sindresorhus/KeyboardShortcuts | partial | 2026-06-17T10:24:25Z | [open](../records/cocoa-sindresorhus-keyboardshortcuts-96f47e66.md) |
 | SnapKit/SnapKit | partial | 2026-07-13T10:50:19Z | [open](../records/cocoa-snapkit-snapkit-aa75ddde.md) |
 | sveinbjornt/Platypus | partial | 2026-05-13T22:44:55Z | [open](../records/cocoa-sveinbjornt-platypus-b3728979.md) |
 | SVProgressHUD/SVProgressHUD | partial | 2026-02-27T17:42:19Z | [open](../records/cocoa-svprogresshud-svprogresshud-7ef7b9b2.md) |
 | SwifterSwift/SwifterSwift | partial | 2026-08-09T05:41:29Z | [open](../records/cocoa-swifterswift-swifterswift-fd69f040.md) |
-| TechUnRestricted/WinDiskWriter | partial | 2026-01-24T16:48:15Z | [open](../records/cocoa-techunrestricted-windiskwriter-e73be293.md) |
+| TechUnRestricted/WinDiskWriter | partial | 2026-09-06T12:35:56Z | [open](../records/cocoa-techunrestricted-windiskwriter-e73be293.md) |
 | telly/TLYShyNavBar | partial | 2018-09-20T09:24:13Z | [open](../records/cocoa-telly-tlyshynavbar-b6713c2d.md) |
 | TimOliver/TOCropViewController | partial | 2026-07-28T15:53:56Z | [open](../records/cocoa-timoliver-tocropviewcontroller-a5d9ff2e.md) |
 | TimOliver/TOWebViewController | partial | 2019-09-16T12:07:54Z | [open](../records/cocoa-timoliver-towebviewcontroller-f5378013.md) |

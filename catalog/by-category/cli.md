@@ -9,22 +9,22 @@ Records: `563`
 ## Category Index
 
 [Api Abi Checker (220)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (198)](benchmarking.md) · [Build System (989)](build-system.md) · **[Cli (563)](cli.md)** · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (117)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
+[Benchmarking (199)](benchmarking.md) · [Build System (992)](build-system.md) · **[Cli (563)](cli.md)** · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (175)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (231)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (103)](documentation.md)
-[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (455)](ffi-bindings.md) · [Filesystem Os (1586)](filesystem-os.md) · [Formatter (646)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1457)](ide-editor-integration.md)
+[Cryptography (175)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (231)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (104)](documentation.md)
+[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (456)](ffi-bindings.md) · [Filesystem Os (1590)](filesystem-os.md) · [Formatter (646)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1460)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (269)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1433)](language-specification.md) · [Library (5642)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
+[Language Server (29)](language-server.md) · [Language Specification (1435)](language-specification.md) · [Library (5656)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (521)](logging-observability.md) · [Machine Learning (792)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1183)](parser-lexer-ast.md) · [Precommit Ci Quality (303)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1185)](parser-lexer-ast.md) · [Precommit Ci Quality (305)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (607)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (396)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (610)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1608)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (552)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
+[Undefined Behavior Analyzer (1615)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (553)](visualization-gui.md) · [Web Framework (476)](web-framework.md)
 
 ## C++23
 
@@ -306,7 +306,7 @@ Records: `563`
 | @ionic/cli-framework-output | 2.2.8 | 2023-12-19T22:38:35.365Z | [open](../records/node-js-javascript-ionic-cli-framework-output-8324bb8a.md) |
 | @ionic/cli-framework-prompts | 2.1.13 | 2023-12-19T22:38:35.436Z | [open](../records/node-js-javascript-ionic-cli-framework-prompts-5599c31f.md) |
 | @knocklabs/cli | 1.2.3 | 2026-08-13T15:12:15.170Z | [open](../records/node-js-javascript-knocklabs-cli-62154908.md) |
-| @lightdash/cli | 2.134.1 | 2026-09-04T16:17:36.638Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
+| @lightdash/cli | 2.134.2 | 2026-09-06T18:13:59.931Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | @lingui/cli | 6.6.0 | 2026-07-24T13:52:53.439Z | [open](../records/node-js-javascript-lingui-cli-343f33ec.md) |
 | @maizzle/cli | 2.0.0 | 2024-12-16T17:59:24.900Z | [open](../records/node-js-javascript-maizzle-cli-a7a13457.md) |
 | @marp-team/marp-cli | 4.5.0 | 2026-07-17T23:07:09.399Z | [open](../records/node-js-javascript-marp-team-marp-cli-b69e1548.md) |
@@ -519,17 +519,17 @@ Records: `563`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | golang-migrate/migrate | partial | 2026-09-04T21:17:26Z | [open](../records/go-golang-migrate-migrate-c00bf5c0.md) |
-| JanDeDobbeleer/oh-my-posh | partial | 2026-09-06T09:36:13Z | [open](../records/go-jandedobbeleer-oh-my-posh-0e751a91.md) |
+| JanDeDobbeleer/oh-my-posh | partial | 2026-09-06T17:43:11Z | [open](../records/go-jandedobbeleer-oh-my-posh-0e751a91.md) |
 | yorukot/superfile | partial | 2026-09-06T15:48:19Z | [open](../records/go-yorukot-superfile-1e2c0bb7.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-06T16:47:59Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-06T18:21:52Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-06T17:16:32Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-06T18:19:20Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 
@@ -684,7 +684,7 @@ Records: `563`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AmmarAbouZor/tui-journal | partial | 2026-09-02T12:19:49Z | [open](../records/magazines-ammarabouzor-tui-journal-e8a3ec22.md) |
+| AmmarAbouZor/tui-journal | partial | 2026-09-06T10:33:11Z | [open](../records/magazines-ammarabouzor-tui-journal-e8a3ec22.md) |
 | BohdanPetryshyn/formzero | partial | 2026-04-26T06:56:02Z | [open](../records/magazines-bohdanpetryshyn-formzero-ba3eff6c.md) |
 | DouglasdeMoura/chroncal | partial | 2026-09-02T16:45:02Z | [open](../records/magazines-douglasdemoura-chroncal-4b354f4d.md) |
 | jrnl-org/jrnl | unknown | github_search_does_not_include_release_date | [open](../records/magazines-jrnl-org-jrnl-c7f0a1c9.md) |
@@ -755,7 +755,7 @@ Records: `563`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | chdb-io/chdb | partial | 2026-09-04T02:47:17Z | [open](../records/databases-chdb-io-chdb-51490fbb.md) |
-| ClickHouse/ClickHouse | partial | 2026-09-06T09:19:49Z | [open](../records/databases-clickhouse-clickhouse-9258f880.md) |
+| ClickHouse/ClickHouse | partial | 2026-09-06T18:19:23Z | [open](../records/databases-clickhouse-clickhouse-9258f880.md) |
 | ClickHouse/clickhouse-odbc | partial | 2026-08-18T15:43:22Z | [open](../records/databases-clickhouse-clickhouse-odbc-7cfc6ac3.md) |
 | golang-migrate/migrate | partial | 2026-09-04T21:17:26Z | [open](../records/databases-golang-migrate-migrate-1713bacf.md) |
 | housepower/ClickHouse-Native-JDBC | partial | 2025-06-22T09:22:59Z | [open](../records/databases-housepower-clickhouse-native-jdbc-8cec0869.md) |
