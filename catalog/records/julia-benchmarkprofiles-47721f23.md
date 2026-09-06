@@ -39,9 +39,9 @@ discovery, allocation analysis, latency control, and capacity planning.
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT; MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Mixed license review |
+| Evidence | GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0; Apache-2.0; https://www.nuget.org/packages/Amazon.Lambda.Serialization.Json/3.0.0/license |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 
