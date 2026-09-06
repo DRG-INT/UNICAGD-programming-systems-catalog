@@ -1,6 +1,6 @@
 # UNICAGD Programming Systems Discovery Catalog
 
-Generated: `2026-09-06T07:19:46+00:00`
+Generated: `2026-09-06T08:23:17+00:00`
 
 This repository is a Markdown explorer for a systems-engineering programming corpus. It preserves the master JSON seed, expands it with registry-derived ecosystem records, and tracks release metadata without guessing unknown dates.
 
@@ -15,14 +15,14 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 ## Category Index
 
 [Api Abi Checker (218)](catalog/by-category/api-abi-checker.md) · [Api Doc Generator (12)](catalog/by-category/api-doc-generator.md) · [Assertion Mocking (46)](catalog/by-category/assertion-mocking.md) · [Async Runtime (136)](catalog/by-category/async-runtime.md)
-[Benchmarking (198)](catalog/by-category/benchmarking.md) · [Build System (988)](catalog/by-category/build-system.md) · [Cli (563)](catalog/by-category/cli.md) · [Codegen Codemod Refactoring (23)](catalog/by-category/codegen-codemod-refactoring.md)
+[Benchmarking (198)](catalog/by-category/benchmarking.md) · [Build System (989)](catalog/by-category/build-system.md) · [Cli (563)](catalog/by-category/cli.md) · [Codegen Codemod Refactoring (23)](catalog/by-category/codegen-codemod-refactoring.md)
 [Community Reference (117)](catalog/by-category/community-reference.md) · [Compiler (175)](catalog/by-category/compiler.md) · [Compiler Diagnostics (24)](catalog/by-category/compiler-diagnostics.md) · [Compression (51)](catalog/by-category/compression.md)
 [Concurrency Parallelism (89)](catalog/by-category/concurrency-parallelism.md) · [Configuration (129)](catalog/by-category/configuration.md) · [Container Deployment (10)](catalog/by-category/container-deployment.md) · [Coverage (14)](catalog/by-category/coverage.md)
-[Cryptography (174)](catalog/by-category/cryptography.md) · [Data Science (38)](catalog/by-category/data-science.md) · [Database Datastore (890)](catalog/by-category/database-datastore.md) · [Datetime (229)](catalog/by-category/datetime.md)
+[Cryptography (174)](catalog/by-category/cryptography.md) · [Data Science (38)](catalog/by-category/data-science.md) · [Database Datastore (892)](catalog/by-category/database-datastore.md) · [Datetime (230)](catalog/by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](catalog/by-category/dead-code-dependency-analysis.md) · [Debugger (44)](catalog/by-category/debugger.md) · [Dependency Manager (102)](catalog/by-category/dependency-manager.md) · [Documentation (103)](catalog/by-category/documentation.md)
-[Embedded Hardware (59)](catalog/by-category/embedded-hardware.md) · [Ffi Bindings (454)](catalog/by-category/ffi-bindings.md) · [Filesystem Os (1584)](catalog/by-category/filesystem-os.md) · [Formatter (645)](catalog/by-category/formatter.md)
+[Embedded Hardware (59)](catalog/by-category/embedded-hardware.md) · [Ffi Bindings (455)](catalog/by-category/ffi-bindings.md) · [Filesystem Os (1584)](catalog/by-category/filesystem-os.md) · [Formatter (645)](catalog/by-category/formatter.md)
 [Framework (63)](catalog/by-category/framework.md) · [Fuzzer (57)](catalog/by-category/fuzzer.md) · [Game Engine Game Dev (355)](catalog/by-category/game-engine-game-dev.md) · [Ide Editor Integration (1454)](catalog/by-category/ide-editor-integration.md)
-[Image Audio Dsp (436)](catalog/by-category/image-audio-dsp.md) · [Interop Bindings (62)](catalog/by-category/interop-bindings.md) · [Interpreter Runtime (268)](catalog/by-category/interpreter-runtime.md) · [Jit Vm (64)](catalog/by-category/jit-vm.md)
+[Image Audio Dsp (436)](catalog/by-category/image-audio-dsp.md) · [Interop Bindings (62)](catalog/by-category/interop-bindings.md) · [Interpreter Runtime (269)](catalog/by-category/interpreter-runtime.md) · [Jit Vm (64)](catalog/by-category/jit-vm.md)
 [Language Server (29)](catalog/by-category/language-server.md) · [Language Specification (1432)](catalog/by-category/language-specification.md) · [Library (5632)](catalog/by-category/library.md) · [Lint Plugin (1)](catalog/by-category/lint-plugin.md)
 [Lint Rule Pack (48)](catalog/by-category/lint-rule-pack.md) · [Linter (348)](catalog/by-category/linter.md) · [Logging Observability (520)](catalog/by-category/logging-observability.md) · [Machine Learning (788)](catalog/by-category/machine-learning.md)
 [Math Numeric Scientific (88)](catalog/by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](catalog/by-category/memory-analyzer.md) · [Message Broker (40)](catalog/by-category/message-broker.md) · [Networking Http (1035)](catalog/by-category/networking-http.md)
@@ -37,12 +37,12 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 | Metric | Count |
 | --- | ---: |
 | Source records | 968 |
-| Canonical identity pages | 27286 |
-| Expansion records added | 8591 |
+| Canonical identity pages | 27292 |
+| Expansion records added | 8605 |
 | Release checks attempted | 1200 |
-| Known stable release fields | 10142 |
-| Unknown stable release fields | 17144 |
-| Fetch errors recorded | 1073 |
+| Known stable release fields | 10144 |
+| Unknown stable release fields | 17148 |
+| Fetch errors recorded | 1074 |
 | Target identity count | 24000 |
 
 ## Language Scope

@@ -5,14 +5,14 @@
 ## Category Index
 
 [Api Abi Checker (218)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (136)](by-category/async-runtime.md)
-[Benchmarking (198)](by-category/benchmarking.md) · [Build System (988)](by-category/build-system.md) · [Cli (563)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (198)](by-category/benchmarking.md) · [Build System (989)](by-category/build-system.md) · [Cli (563)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (117)](by-category/community-reference.md) · [Compiler (175)](by-category/compiler.md) · [Compiler Diagnostics (24)](by-category/compiler-diagnostics.md) · [Compression (51)](by-category/compression.md)
 [Concurrency Parallelism (89)](by-category/concurrency-parallelism.md) · [Configuration (129)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (174)](by-category/cryptography.md) · [Data Science (38)](by-category/data-science.md) · [Database Datastore (890)](by-category/database-datastore.md) · [Datetime (229)](by-category/datetime.md)
+[Cryptography (174)](by-category/cryptography.md) · [Data Science (38)](by-category/data-science.md) · [Database Datastore (892)](by-category/database-datastore.md) · [Datetime (230)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (102)](by-category/dependency-manager.md) · [Documentation (103)](by-category/documentation.md)
-[Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (454)](by-category/ffi-bindings.md) · [Filesystem Os (1584)](by-category/filesystem-os.md) · [Formatter (645)](by-category/formatter.md)
+[Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (455)](by-category/ffi-bindings.md) · [Filesystem Os (1584)](by-category/filesystem-os.md) · [Formatter (645)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (355)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1454)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (436)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (268)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
+[Image Audio Dsp (436)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (269)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
 [Language Server (29)](by-category/language-server.md) · [Language Specification (1432)](by-category/language-specification.md) · [Library (5632)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (520)](by-category/logging-observability.md) · [Machine Learning (788)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1035)](by-category/networking-http.md)
@@ -909,6 +909,7 @@
 | `cran_packages_by_date-0fa5862c6ee863` | rstudio.prefs | [open](records/r-rstudio-prefs-f4a5796c.md) |
 | `cran_packages_by_date-0fb3b91600c824` | OptOTrials | [open](records/r-optotrials-101aa30e.md) |
 | `cran_packages_by_date-0ffede23030ba9` | gustave | [open](records/r-gustave-c879c730.md) |
+| `cran_packages_by_date-100f10d872c36a` | RcppRoll | [open](records/r-rcpproll-8a34b7be.md) |
 | `cran_packages_by_date-10107c8fdc5d26` | llamaR | [open](records/r-llamar-6bb0a48d.md) |
 | `cran_packages_by_date-10a5388ccc7f9f` | Statamarkdown | [open](records/r-statamarkdown-0cb821c0.md) |
 | `cran_packages_by_date-110431ad4221e1` | grmtree | [open](records/r-grmtree-7bd888b0.md) |
@@ -2219,6 +2220,7 @@
 | `cran_packages_by_date-d7e7ca0f28332a` | AddiVortes | [open](records/r-addivortes-3d7d418d.md) |
 | `cran_packages_by_date-d81111c5f1812f` | pharmr | [open](records/r-pharmr-6d27372d.md) |
 | `cran_packages_by_date-d83af8c208ec32` | ForeCA | [open](records/r-foreca-3a912f7c.md) |
+| `cran_packages_by_date-d84268625dff99` | SMM | [open](records/r-smm-4f37397b.md) |
 | `cran_packages_by_date-d881e3e63e05b7` | tidygedcom | [open](records/r-tidygedcom-43e8e561.md) |
 | `cran_packages_by_date-d8949f2e5d92a8` | CLDedgelister | [open](records/r-cldedgelister-12643d0d.md) |
 | `cran_packages_by_date-d8a29c142a4362` | checker | [open](records/r-checker-4a867235.md) |
@@ -25467,8 +25469,10 @@
 | `packagist_search-054f71d4eb2eec` | adhocore/jwt | [open](records/php-adhocore-jwt-2217f67d.md) |
 | `packagist_search-058c4b07532687` | sentry/sentry | [open](records/php-sentry-sentry-e24752c2.md) |
 | `packagist_search-0605061147c506` | spatie/laravel-database-mail-templates | [open](records/php-spatie-laravel-database-mail-templates-5a744c02.md) |
+| `packagist_search-062a34129057df` | stephpy/timeline-bundle | [open](records/php-stephpy-timeline-bundle-62e6c5a9.md) |
 | `packagist_search-06903f48272d9b` | jquery-form/form | [open](records/php-jquery-form-form-433c3891.md) |
 | `packagist_search-07c3d71466ca95` | atlas/query | [open](records/php-atlas-query-bc40393d.md) |
+| `packagist_search-085b79b981f70b` | vink/nova-cache-card | [open](records/php-vink-nova-cache-card-a3b8e92a.md) |
 | `packagist_search-09b0334594c0f6` | fza/mysql-doctrine-levenshtein-function | [open](records/php-fza-mysql-doctrine-levenshtein-function-0d025840.md) |
 | `packagist_search-0a67993ed856d4` | justinrainbow/json-schema | [open](records/php-justinrainbow-json-schema-e4e9b80b.md) |
 | `packagist_search-0ad3a51b8e9172` | xethron/migrations-generator | [open](records/php-xethron-migrations-generator-bc6d82d9.md) |
@@ -25495,6 +25499,7 @@
 | `packagist_search-11a30e0c57fd48` | dg/dibi | [open](records/php-dg-dibi-68233193.md) |
 | `packagist_search-121f8443ac1e0d` | ml/json-ld | [open](records/php-ml-json-ld-e2747906.md) |
 | `packagist_search-12b14a9178adba` | marktopper/doctrine-dbal-timestamp-type | [open](records/php-marktopper-doctrine-dbal-timestamp-type-a62103b2.md) |
+| `packagist_search-1311570b669d08` | trntv/yii2-command-bus | [open](records/php-trntv-yii2-command-bus-83932033.md) |
 | `packagist_search-1325be65ae8c41` | mezzio/mezzio | [open](records/php-mezzio-mezzio-3c631e15.md) |
 | `packagist_search-1587e8d997cc71` | php-curl-class/php-curl-class | [open](records/php-php-curl-class-php-curl-class-b9592d9a.md) |
 | `packagist_search-17a07284f11db7` | fruitcake/php-cors | [open](records/php-fruitcake-php-cors-9d2fc866.md) |
@@ -25727,6 +25732,7 @@
 | `packagist_search-7247731a4dcc08` | yab/laravel-scout-mysql-driver | [open](records/php-yab-laravel-scout-mysql-driver-9af018fa.md) |
 | `packagist_search-72ce22d0d50655` | php-http/logger-plugin | [open](records/php-php-http-logger-plugin-a1279b94.md) |
 | `packagist_search-731b602ca3bc08` | php-vcr/php-vcr | [open](records/php-php-vcr-php-vcr-c1e12283.md) |
+| `packagist_search-733a334d1a8afd` | tedivm/stash-bundle | [open](records/php-tedivm-stash-bundle-0f0d52d6.md) |
 | `packagist_search-7381675238aca9` | tommyknocker/pdo-database-class | [open](records/php-tommyknocker-pdo-database-class-8d91baaa.md) |
 | `packagist_search-73899ea813416c` | mobiledetect/mobiledetectlib | [open](records/php-mobiledetect-mobiledetectlib-ad7fbbaa.md) |
 | `packagist_search-738fa77ca2a7f3` | paragonie/csp-builder | [open](records/php-paragonie-csp-builder-e0897f86.md) |
