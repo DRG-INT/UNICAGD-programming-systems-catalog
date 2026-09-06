@@ -1,6 +1,6 @@
 # Compression
 
-Records: `50`
+Records: `51`
 
 ## Navigation
 
@@ -10,7 +10,7 @@ Records: `50`
 
 [Api Abi Checker (218)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
 [Benchmarking (198)](benchmarking.md) · [Build System (988)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (117)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · **[Compression (50)](compression.md)**
+[Community Reference (117)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · **[Compression (51)](compression.md)**
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (129)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (890)](database-datastore.md) · [Datetime (228)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
@@ -85,6 +85,7 @@ Records: `50`
 | text-zipper | 0.13 | 2023-02-04T20:59:07Z | [open](../records/haskell-text-zipper-6676f63d.md) |
 | zip | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zip-3da7792f.md) |
 | zip-archive | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zip-archive-3e16172e.md) |
+| zstd | 0.1.4.0 | 2026-09-06T03:09:59Z | [open](../records/haskell-zstd-01fb5311.md) |
 
 ## Dart
 

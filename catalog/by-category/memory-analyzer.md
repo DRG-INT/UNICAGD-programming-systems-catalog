@@ -10,7 +10,7 @@ Records: `96`
 
 [Api Abi Checker (218)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
 [Benchmarking (198)](benchmarking.md) · [Build System (988)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (117)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (50)](compression.md)
+[Community Reference (117)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (129)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (890)](database-datastore.md) · [Datetime (228)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
@@ -133,7 +133,7 @@ Records: `96`
 | mem0ai/mem0 | partial | 2026-09-04T16:32:10Z | [open](../records/aim-s-mem0ai-mem0-1e2f6f8a.md) |
 | MemPalace/mempalace | partial | 2026-09-05T19:40:56Z | [open](../records/aim-s-mempalace-mempalace-24dc978a.md) |
 | tinyhumansai/openhuman | partial | 2026-09-04T16:36:48Z | [open](../records/aim-s-tinyhumansai-openhuman-c683371f.md) |
-| vllm-project/vllm | partial | 2026-09-06T02:16:59Z | [open](../records/aim-s-vllm-project-vllm-5af67423.md) |
+| vllm-project/vllm | partial | 2026-09-06T03:15:01Z | [open](../records/aim-s-vllm-project-vllm-5af67423.md) |
 | zhayujie/CowAgent | partial | 2026-09-05T11:27:47Z | [open](../records/aim-s-zhayujie-cowagent-fa45ff55.md) |
 
 ## Game Engines

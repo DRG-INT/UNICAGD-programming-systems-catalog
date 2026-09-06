@@ -10,7 +10,7 @@ Records: `1584`
 
 [Api Abi Checker (218)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
 [Benchmarking (198)](benchmarking.md) · [Build System (988)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (117)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (50)](compression.md)
+[Community Reference (117)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (129)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (890)](database-datastore.md) · [Datetime (228)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
@@ -586,7 +586,7 @@ Records: `1584`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| f/prompts.chat | partial | 2026-09-05T03:16:59Z | [open](../records/aim-s-f-prompts-chat-0bb76e45.md) |
+| f/prompts.chat | partial | 2026-09-06T03:17:52Z | [open](../records/aim-s-f-prompts-chat-0bb76e45.md) |
 | Fosowl/agenticSeek | partial | 2026-09-04T20:01:37Z | [open](../records/aim-s-fosowl-agenticseek-3f73fd5c.md) |
 | microsoft/graphrag | partial | 2026-09-02T01:41:10Z | [open](../records/aim-s-microsoft-graphrag-16e521eb.md) |
 | NirDiamant/RAG_Techniques | partial | 2026-09-04T23:35:08Z | [open](../records/aim-s-nirdiamant-rag-techniques-681ed394.md) |

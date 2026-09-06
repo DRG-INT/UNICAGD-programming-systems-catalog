@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-06T02:21:19+00:00`
+Generated: `2026-09-06T03:22:26+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -8,7 +8,7 @@ Generated: `2026-09-06T02:21:19+00:00`
 
 [Api Abi Checker (218)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (136)](by-category/async-runtime.md)
 [Benchmarking (198)](by-category/benchmarking.md) · [Build System (988)](by-category/build-system.md) · [Cli (563)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
-[Community Reference (117)](by-category/community-reference.md) · [Compiler (175)](by-category/compiler.md) · [Compiler Diagnostics (24)](by-category/compiler-diagnostics.md) · [Compression (50)](by-category/compression.md)
+[Community Reference (117)](by-category/community-reference.md) · [Compiler (175)](by-category/compiler.md) · [Compiler Diagnostics (24)](by-category/compiler-diagnostics.md) · [Compression (51)](by-category/compression.md)
 [Concurrency Parallelism (89)](by-category/concurrency-parallelism.md) · [Configuration (129)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (174)](by-category/cryptography.md) · [Data Science (38)](by-category/data-science.md) · [Database Datastore (890)](by-category/database-datastore.md) · [Datetime (228)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (101)](by-category/dependency-manager.md) · [Documentation (103)](by-category/documentation.md)
@@ -38,7 +38,7 @@ Generated: `2026-09-06T02:21:19+00:00`
 | Node.js/TypeScript | 388 | 348 | [Node.js/TypeScript](by-language/node-js-typescript.md) |
 | Lua family | 1937 | 0 | [Lua family](by-language/lua-family.md) |
 | R | 1677 | 1677 | [R](by-language/r.md) |
-| Haskell | 1446 | 1431 | [Haskell](by-language/haskell.md) |
+| Haskell | 1447 | 1432 | [Haskell](by-language/haskell.md) |
 | Matlab | 287 | 0 | [Matlab](by-language/matlab.md) |
 | Octave | 141 | 140 | [Octave](by-language/octave.md) |
 | C-Sharp | 150 | 150 | [C-Sharp](by-language/c-sharp.md) |
@@ -103,7 +103,7 @@ Generated: `2026-09-06T02:21:19+00:00`
 | Community Reference | 117 | [community_reference](by-category/community-reference.md) |
 | Compiler | 175 | [compiler](by-category/compiler.md) |
 | Compiler Diagnostics | 24 | [compiler_diagnostics](by-category/compiler-diagnostics.md) |
-| Compression | 50 | [compression](by-category/compression.md) |
+| Compression | 51 | [compression](by-category/compression.md) |
 | Concurrency Parallelism | 89 | [concurrency_parallelism](by-category/concurrency-parallelism.md) |
 | Configuration | 129 | [configuration](by-category/configuration.md) |
 | Container Deployment | 10 | [container_deployment](by-category/container-deployment.md) |
@@ -175,7 +175,7 @@ Generated: `2026-09-06T02:21:19+00:00`
 | Node.js/TypeScript | 348 | 40 |
 | Lua family | 0 | 1937 |
 | R | 1677 | 0 |
-| Haskell | 1431 | 15 |
+| Haskell | 1432 | 15 |
 | Matlab | 0 | 287 |
 | Octave | 140 | 1 |
 | C-Sharp | 150 | 0 |

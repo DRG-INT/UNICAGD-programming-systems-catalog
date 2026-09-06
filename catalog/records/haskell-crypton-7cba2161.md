@@ -17,11 +17,11 @@
 | Source type | registry_expansion |
 | Verification | registry-derived |
 | Canonical URL | [https://hackage.haskell.org/package/crypton](https://hackage.haskell.org/package/crypton) |
-| Source record ids | hackage_top_downloads-7e798823e81409 |
+| Source record ids | hackage_recent-7e798823e81409 |
 
 ## System Engineer Summary
 
-Hackage package with 74 recent downloads in the Hackage top-downloads listing.
+Hackage package recently uploaded by KazuYamamoto.
 
 ## Operational Role
 
@@ -32,7 +32,7 @@ integrity, authentication, and key-management risk.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 1.1.5 | 2026-09-06T02:20:25Z | [https://hackage.haskell.org/package/crypton](https://hackage.haskell.org/package/crypton) |  |
+| stable | known | 1.1.5 | 2026-09-06T02:20:25Z | [https://hackage.haskell.org/packages/recent](https://hackage.haskell.org/packages/recent) |  |
 | preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ integrity, authentication, and key-management risk.
 
 - Treat category as `cryptography` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://hackage.haskell.org/package/crypton` at `2026-09-06T02:20:55+00:00`.
+- Latest stable metadata was observed from `https://hackage.haskell.org/packages/recent` at `2026-09-06T03:19:36+00:00`.
 - Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
 
 ## Provenance
@@ -57,7 +57,7 @@ integrity, authentication, and key-management risk.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| hackage_top_downloads | registry-derived | 2026-09-06 | `{"kind": "hackage_top_downloads", "retrieved": "2026-09-06", "status": "registry-derived"}` |
+| hackage_recent_uploads | registry-derived | 2026-09-06 | `{"kind": "hackage_recent_uploads", "retrieved": "2026-09-06", "status": "registry-derived"}` |
 
 </details>
 
@@ -68,7 +68,7 @@ integrity, authentication, and key-management risk.
 
 Evidence records merged into this identity: `1`.
 
-- `hackage_top_downloads-7e798823e81409` from `hackage_top_downloads` as `registry_expansion`
+- `hackage_recent-7e798823e81409` from `hackage_recent` as `registry_expansion`
 
 </details>
 
@@ -89,7 +89,7 @@ Evidence records merged into this identity: `1`.
 
 [Api Abi Checker (218)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
 [Benchmarking (198)](../by-category/benchmarking.md) · [Build System (988)](../by-category/build-system.md) · [Cli (563)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (117)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (24)](../by-category/compiler-diagnostics.md) · [Compression (50)](../by-category/compression.md)
+[Community Reference (117)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (24)](../by-category/compiler-diagnostics.md) · [Compression (51)](../by-category/compression.md)
 [Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (129)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 **[Cryptography (174)](../by-category/cryptography.md)** · [Data Science (38)](../by-category/data-science.md) · [Database Datastore (890)](../by-category/database-datastore.md) · [Datetime (228)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (101)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)

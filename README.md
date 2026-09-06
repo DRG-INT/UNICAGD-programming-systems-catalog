@@ -1,6 +1,6 @@
 # UNICAGD Programming Systems Discovery Catalog
 
-Generated: `2026-09-06T02:21:19+00:00`
+Generated: `2026-09-06T03:22:26+00:00`
 
 This repository is a Markdown explorer for a systems-engineering programming corpus. It preserves the master JSON seed, expands it with registry-derived ecosystem records, and tracks release metadata without guessing unknown dates.
 
@@ -16,7 +16,7 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 
 [Api Abi Checker (218)](catalog/by-category/api-abi-checker.md) · [Api Doc Generator (12)](catalog/by-category/api-doc-generator.md) · [Assertion Mocking (46)](catalog/by-category/assertion-mocking.md) · [Async Runtime (136)](catalog/by-category/async-runtime.md)
 [Benchmarking (198)](catalog/by-category/benchmarking.md) · [Build System (988)](catalog/by-category/build-system.md) · [Cli (563)](catalog/by-category/cli.md) · [Codegen Codemod Refactoring (23)](catalog/by-category/codegen-codemod-refactoring.md)
-[Community Reference (117)](catalog/by-category/community-reference.md) · [Compiler (175)](catalog/by-category/compiler.md) · [Compiler Diagnostics (24)](catalog/by-category/compiler-diagnostics.md) · [Compression (50)](catalog/by-category/compression.md)
+[Community Reference (117)](catalog/by-category/community-reference.md) · [Compiler (175)](catalog/by-category/compiler.md) · [Compiler Diagnostics (24)](catalog/by-category/compiler-diagnostics.md) · [Compression (51)](catalog/by-category/compression.md)
 [Concurrency Parallelism (89)](catalog/by-category/concurrency-parallelism.md) · [Configuration (129)](catalog/by-category/configuration.md) · [Container Deployment (10)](catalog/by-category/container-deployment.md) · [Coverage (14)](catalog/by-category/coverage.md)
 [Cryptography (174)](catalog/by-category/cryptography.md) · [Data Science (38)](catalog/by-category/data-science.md) · [Database Datastore (890)](catalog/by-category/database-datastore.md) · [Datetime (228)](catalog/by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](catalog/by-category/dead-code-dependency-analysis.md) · [Debugger (44)](catalog/by-category/debugger.md) · [Dependency Manager (101)](catalog/by-category/dependency-manager.md) · [Documentation (103)](catalog/by-category/documentation.md)
@@ -37,12 +37,12 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 | Metric | Count |
 | --- | ---: |
 | Source records | 968 |
-| Canonical identity pages | 27276 |
-| Expansion records added | 8601 |
+| Canonical identity pages | 27277 |
+| Expansion records added | 8537 |
 | Release checks attempted | 1200 |
-| Known stable release fields | 10135 |
+| Known stable release fields | 10136 |
 | Unknown stable release fields | 17141 |
-| Fetch errors recorded | 1071 |
+| Fetch errors recorded | 1074 |
 | Target identity count | 24000 |
 
 ## Language Scope

@@ -10,7 +10,7 @@ Records: `1677`
 
 [Api Abi Checker (218)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
 [Benchmarking (198)](../by-category/benchmarking.md) · [Build System (988)](../by-category/build-system.md) · [Cli (563)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (117)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (24)](../by-category/compiler-diagnostics.md) · [Compression (50)](../by-category/compression.md)
+[Community Reference (117)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (24)](../by-category/compiler-diagnostics.md) · [Compression (51)](../by-category/compression.md)
 [Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (129)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (174)](../by-category/cryptography.md) · [Data Science (38)](../by-category/data-science.md) · [Database Datastore (890)](../by-category/database-datastore.md) · [Datetime (228)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (101)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
@@ -630,7 +630,7 @@ Records: `1677`
 | [BEND](../records/r-bend-ba243bff.md) | 2.1.2 | 2026-08-25 16:30:02 UTC | registry-derived |
 | [betareg](../records/r-betareg-5d118ac0.md) | 3.2-6 | 2026-08-26 09:20:02 UTC | registry-derived |
 | [betaregscale](../records/r-betaregscale-5b141637.md) | 2.7.4 | 2026-08-23 18:00:02 UTC | registry-derived |
-| [betaselectr](../records/r-betaselectr-7331a032.md) | 0.2.3 | 2026-08-23 09:20:02 UTC | registry-derived |
+| [betaselectr](../records/r-betaselectr-7331a032.md) | 0.2.4 | 2026-09-06 02:20:02 UTC | registry-derived |
 | [bigDM](../records/r-bigdm-f8716048.md) | 0.5.8 | 2026-08-19 16:20:02 UTC | registry-derived |
 | [biglasso](../records/r-biglasso-a39dae39.md) | 1.7.2 | 2026-08-25 11:01:05 UTC | registry-derived |
 | [BiMaUmisc](../records/r-bimaumisc-85effda1.md) | 0.1.0 | 2026-08-04 09:50:12 UTC | registry-derived |

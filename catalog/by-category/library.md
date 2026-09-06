@@ -10,7 +10,7 @@ Records: `5629`
 
 [Api Abi Checker (218)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
 [Benchmarking (198)](benchmarking.md) · [Build System (988)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (117)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (50)](compression.md)
+[Community Reference (117)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (129)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (890)](database-datastore.md) · [Datetime (228)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (101)](dependency-manager.md) · [Documentation (103)](documentation.md)
@@ -2507,7 +2507,7 @@ Records: `5629`
 | BEND | 2.1.2 | 2026-08-25 16:30:02 UTC | [open](../records/r-bend-ba243bff.md) |
 | betareg | 3.2-6 | 2026-08-26 09:20:02 UTC | [open](../records/r-betareg-5d118ac0.md) |
 | betaregscale | 2.7.4 | 2026-08-23 18:00:02 UTC | [open](../records/r-betaregscale-5b141637.md) |
-| betaselectr | 0.2.3 | 2026-08-23 09:20:02 UTC | [open](../records/r-betaselectr-7331a032.md) |
+| betaselectr | 0.2.4 | 2026-09-06 02:20:02 UTC | [open](../records/r-betaselectr-7331a032.md) |
 | bigDM | 0.5.8 | 2026-08-19 16:20:02 UTC | [open](../records/r-bigdm-f8716048.md) |
 | biglasso | 1.7.2 | 2026-08-25 11:01:05 UTC | [open](../records/r-biglasso-a39dae39.md) |
 | BiMaUmisc | 0.1.0 | 2026-08-04 09:50:12 UTC | [open](../records/r-bimaumisc-85effda1.md) |
@@ -5451,7 +5451,7 @@ Records: `5629`
 | las-nish/NASM-Assembly-Collection | partial | 2022-03-29T03:18:01Z | [open](../records/assembly-las-nish-nasm-assembly-collection-a42cbaf3.md) |
 | ldlaur/ares | partial | 2026-07-08T19:32:26Z | [open](../records/assembly-ldlaur-ares-cf2f6d60.md) |
 | mattdibi/redox-keyboard | partial | 2026-05-26T18:15:22Z | [open](../records/assembly-mattdibi-redox-keyboard-e1f3e991.md) |
-| MattPD/cpplinks | partial | 2026-09-02T03:44:59Z | [open](../records/assembly-mattpd-cpplinks-29eb7bcc.md) |
+| MattPD/cpplinks | partial | 2026-09-06T03:15:03Z | [open](../records/assembly-mattpd-cpplinks-29eb7bcc.md) |
 | meribold/btry | partial | 2026-08-02T18:34:33Z | [open](../records/assembly-meribold-btry-acc80abb.md) |
 | mmcloughlin/avo | partial | 2026-09-01T05:34:18Z | [open](../records/assembly-mmcloughlin-avo-46167d30.md) |
 | mohitmishra786/amILearningEnough | partial | 2026-03-26T16:42:23Z | [open](../records/assembly-mohitmishra786-amilearningenough-299c3826.md) |
