@@ -281,7 +281,7 @@ Records: `130`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mytechnotalent/Hacking-Windows | partial | 2026-09-05T13:19:29Z | [open](../records/assembly-mytechnotalent-hacking-windows-8a5a66d0.md) |
+| mytechnotalent/Hacking-Windows | partial | 2026-09-06T13:08:25Z | [open](../records/assembly-mytechnotalent-hacking-windows-8a5a66d0.md) |
 | reworkd/AgentGPT | partial | 2025-04-29T01:19:32Z | [open](../records/assembly-reworkd-agentgpt-75e0a085.md) |
 
 ## Pattern language

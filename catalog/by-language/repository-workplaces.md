@@ -329,7 +329,7 @@ Records: `525`
 | [jD91mZM2/nix-lsp](../records/repository-workplaces-jd91mzm2-nix-lsp-871a9f7e.md) | partial | 2022-08-04T13:36:44.721Z | registry-derived |
 | [Polly-lang/Polly](../records/repository-workplaces-polly-lang-polly-4337e87f.md) | partial | 2018-04-23T08:44:56.058Z | registry-derived |
 | [Reference-Standard-M/rsm](../records/repository-workplaces-reference-standard-m-rsm-bb68fa26.md) | partial | 2026-07-06T08:39:50.139Z | registry-derived |
-| [SiLA2/sila_csharp](../records/repository-workplaces-sila2-sila-csharp-d6b0c07b.md) | partial | 2026-09-06T10:03:18.533Z | registry-derived |
+| [SiLA2/sila_csharp](../records/repository-workplaces-sila2-sila-csharp-d6b0c07b.md) | partial | 2026-09-06T11:29:04.154Z | registry-derived |
 | [tim-m89/clr-haskell](../records/repository-workplaces-tim-m89-clr-haskell-792ab2ac.md) | partial | 2023-09-11T16:21:57.985Z | registry-derived |
 
 ### Library
