@@ -39,9 +39,9 @@ interoperability, and compatibility boundaries.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | GPL (>= 2); MIT License; https://api.github.com/licenses/mit |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | Other permissive |
+| Evidence | CC0-1.0; https://www.nuget.org/packages/JWT/11.1.0/license |
+| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes
 

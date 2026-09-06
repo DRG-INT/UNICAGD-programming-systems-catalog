@@ -70,7 +70,7 @@ Records: `308`
 | [emproof-com/nyxstone](../records/assembly-emproof-com-nyxstone-2e6c50f8.md) | partial | 2026-06-05T16:43:08Z | registry-derived |
 | [Fedjmike/mini-c](../records/assembly-fedjmike-mini-c-295a2fc0.md) | partial | 2022-04-15T08:24:14Z | registry-derived |
 | [HexHive/retrowrite](../records/assembly-hexhive-retrowrite-c7fefa2b.md) | partial | 2025-04-26T16:48:55Z | registry-derived |
-| [illegalstudio/elephc](../records/assembly-illegalstudio-elephc-5fbaada8.md) | partial | 2026-09-06T00:32:21Z | registry-derived |
+| [illegalstudio/elephc](../records/assembly-illegalstudio-elephc-5fbaada8.md) | partial | 2026-09-06T06:43:38Z | registry-derived |
 | [joexbayer/RetrOS-32](../records/assembly-joexbayer-retros-32-b6c205a2.md) | partial | 2026-02-22T16:07:58Z | registry-derived |
 | [JustasMasiulis/inline_syscall](../records/assembly-justasmasiulis-inline-syscall-0c8a798a.md) | partial | 2024-06-21T00:26:33Z | registry-derived |
 | [Mati365/ts-c-compiler](../records/assembly-mati365-ts-c-compiler-bc7fb5c3.md) | partial | 2026-08-11T06:13:10Z | registry-derived |
@@ -199,7 +199,7 @@ Records: `308`
 | [minio/sha256-simd](../records/assembly-minio-sha256-simd-85e6ab78.md) | partial | 2023-05-24T07:54:41Z | registry-derived |
 | [oded8bit/Assembly-Lib](../records/assembly-oded8bit-assembly-lib-a552ed5a.md) | partial | 2018-03-19T16:54:22Z | registry-derived |
 | [robalb/x86-64-playground](../records/assembly-robalb-x86-64-playground-c440c3c0.md) | partial | 2026-01-18T19:17:26Z | registry-derived |
-| [sehugg/8bitworkshop](../records/assembly-sehugg-8bitworkshop-62e01cd8.md) | partial | 2026-09-03T06:45:57Z | registry-derived |
+| [sehugg/8bitworkshop](../records/assembly-sehugg-8bitworkshop-62e01cd8.md) | partial | 2026-09-06T06:48:46Z | registry-derived |
 | [Specy/asm-editor](../records/assembly-specy-asm-editor-c3b9e30b.md) | partial | 2026-09-06T05:16:45Z | registry-derived |
 | [ThomasJaeger/VisualMASM](../records/assembly-thomasjaeger-visualmasm-c78674ab.md) | partial | 2018-01-26T12:10:31Z | registry-derived |
 

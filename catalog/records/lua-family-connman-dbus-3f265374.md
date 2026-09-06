@@ -40,7 +40,7 @@ review, style consistency, and automation-friendly editing.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT + file LICENSE; {"key": "", "name": "", "url": ""} |
+| Evidence | MIT |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

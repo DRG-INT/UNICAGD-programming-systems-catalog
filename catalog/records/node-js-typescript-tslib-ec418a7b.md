@@ -39,9 +39,9 @@ behavior, deployment packaging, embedding, upgrade cadence, and compatibility va
 
 | Field | Value |
 | --- | --- |
-| Detected family | Other permissive |
-| Evidence | 0BSD |
-| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
+| Detected family | MIT |
+| Evidence | MIT + file LICENSE; Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0 |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 

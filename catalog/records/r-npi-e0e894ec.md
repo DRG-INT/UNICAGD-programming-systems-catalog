@@ -40,7 +40,7 @@ policy, provenance control, and supply-chain monitoring.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | Other; MIT License; https://api.github.com/licenses/mit |
+| Evidence | MIT + file LICENSE |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
