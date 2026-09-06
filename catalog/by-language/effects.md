@@ -14,7 +14,7 @@ Records: `779`
 [Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (130)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (175)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (893)](../by-category/database-datastore.md) · [Datetime (231)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (102)](../by-category/dependency-manager.md) · [Documentation (104)](../by-category/documentation.md)
-[Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (456)](../by-category/ffi-bindings.md) · [Filesystem Os (1590)](../by-category/filesystem-os.md) · [Formatter (646)](../by-category/formatter.md)
+[Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (456)](../by-category/ffi-bindings.md) · [Filesystem Os (1592)](../by-category/filesystem-os.md) · [Formatter (646)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (356)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1460)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (269)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
 [Language Server (29)](../by-category/language-server.md) · [Language Specification (1435)](../by-category/language-specification.md) · [Library (5656)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
@@ -63,7 +63,7 @@ Records: `779`
 | [kratofl/kratomix](../records/effects-kratofl-kratomix-0945699b.md) | partial | 2026-08-18T21:09:01Z | registry-derived |
 | [Masudbro94/python-hacked-mobile-phone-](../records/effects-masudbro94-python-hacked-mobile-phone-f3a240c2.md) | partial | 2022-06-30T09:10:26Z | registry-derived |
 | [MintoTsukino/MintoShaderSuite](../records/effects-mintotsukino-mintoshadersuite-ef86ca31.md) | 1.0 | 2025-10-23T21:18:21Z | registry-derived |
-| [noisefactorllc/noisemaker](../records/effects-noisefactorllc-noisemaker-3b4d1858.md) | partial | 2026-09-05T23:26:40Z | registry-derived |
+| [noisefactorllc/noisemaker](../records/effects-noisefactorllc-noisemaker-3b4d1858.md) | partial | 2026-09-06T17:09:23Z | registry-derived |
 | [overmindstudios/BlenderUpdater](../records/effects-overmindstudios-blenderupdater-a3b9c905.md) | partial | 2026-06-02T17:35:22Z | registry-derived |
 | [patrickjquinn/Marathon-Shell](../records/effects-patrickjquinn-marathon-shell-271a70fd.md) | partial | 2026-09-03T22:33:23Z | registry-derived |
 | [phkaeser/wlmaker](../records/effects-phkaeser-wlmaker-bba50595.md) | partial | 2026-08-29T17:50:14Z | registry-derived |
@@ -85,7 +85,7 @@ Records: `779`
 | [EemilAhonen/leikkaus](../records/effects-eemilahonen-leikkaus-f2b2b34e.md) | partial | 2024-03-04T22:16:25Z | registry-derived |
 | [ha7ilm/csdr](../records/effects-ha7ilm-csdr-5d56336a.md) | partial | 2024-02-06T12:13:28Z | registry-derived |
 | [jmstajim/Particlized](../records/effects-jmstajim-particlized-6bb3d995.md) | partial | 2025-09-18T20:30:44Z | registry-derived |
-| [kosa12/CRTty](../records/effects-kosa12-crtty-860c32b6.md) | partial | 2026-02-13T12:31:23Z | registry-derived |
+| [kosa12/CRTty](../records/effects-kosa12-crtty-860c32b6.md) | partial | 2026-09-06T15:28:55Z | registry-derived |
 | [lirios/shell](../records/effects-lirios-shell-c71c6048.md) | partial | 2024-02-11T14:16:13Z | registry-derived |
 | [rwxrob/bonzai](../records/effects-rwxrob-bonzai-674c9c09.md) | partial | 2026-04-18T16:22:17Z | registry-derived |
 
@@ -123,7 +123,7 @@ Records: `779`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [AcademySoftwareFoundation/openvdb](../records/effects-academysoftwarefoundation-openvdb-fbe81c11.md) | partial | 2026-09-06T02:31:44Z | registry-derived |
+| [AcademySoftwareFoundation/openvdb](../records/effects-academysoftwarefoundation-openvdb-fbe81c11.md) | partial | 2026-09-06T16:37:47Z | registry-derived |
 | [avivace/dotfiles](../records/effects-avivace-dotfiles-d1092acc.md) | partial | 2025-10-06T09:29:22Z | registry-derived |
 | [mattatz/unity-gpu-particle-system](../records/effects-mattatz-unity-gpu-particle-system-0a0d0b05.md) | partial | 2016-12-02T04:36:09Z | registry-derived |
 | [pinnacle-comp/pinnacle](../records/effects-pinnacle-comp-pinnacle-12aa6aeb.md) | partial | 2026-06-27T21:59:05Z | registry-derived |
@@ -265,7 +265,7 @@ Records: `779`
 | [getoffmyhack/waveSDR](../records/effects-getoffmyhack-wavesdr-29b3c175.md) | partial | 2026-08-01T17:26:02Z | registry-derived |
 | [ghaerr/agg-2.6](../records/effects-ghaerr-agg-2-6-d129da6e.md) | partial | 2023-09-13T00:27:54Z | registry-derived |
 | [gnuradio/gnuradio](../records/effects-gnuradio-gnuradio-792f9652.md) | partial | 2026-08-27T23:02:01Z | registry-derived |
-| [grizzlypeak3d/DJV](../records/effects-grizzlypeak3d-djv-a31a9ac6.md) | partial | 2026-09-06T00:01:25Z | registry-derived |
+| [grizzlypeak3d/DJV](../records/effects-grizzlypeak3d-djv-a31a9ac6.md) | partial | 2026-09-06T19:54:35Z | registry-derived |
 | [HEnquist/camilladsp](../records/effects-henquist-camilladsp-d941192e.md) | partial | 2026-09-03T12:33:15Z | registry-derived |
 | [hexianWeb/lego-stylized-nature](../records/effects-hexianweb-lego-stylized-nature-cb083959.md) | partial | 2026-07-08T07:37:58Z | registry-derived |
 | [hifiberry/hifiberry-os](../records/effects-hifiberry-hifiberry-os-23434356.md) | partial | 2026-09-02T15:35:04Z | registry-derived |
@@ -345,7 +345,7 @@ Records: `779`
 | [oxysoft/RetroSuite3D](../records/effects-oxysoft-retrosuite3d-c8a9b262.md) | partial | 2019-01-25T16:25:09Z | registry-derived |
 | [perfah/Rustland](../records/effects-perfah-rustland-18426ed4.md) | partial | 2020-03-15T19:50:21Z | registry-derived |
 | [piellardj/post-treatment-gpu](../records/effects-piellardj-post-treatment-gpu-28d6f1e8.md) | unknown | github_latest_release_missing | registry-derived |
-| [pmndrs/postprocessing](../records/effects-pmndrs-postprocessing-6cffe31f.md) | partial | 2026-09-04T16:36:09Z | registry-derived |
+| [pmndrs/postprocessing](../records/effects-pmndrs-postprocessing-6cffe31f.md) | partial | 2026-09-06T13:12:28Z | registry-derived |
 | [PossiblyAxolotl/pdParticles](../records/effects-possiblyaxolotl-pdparticles-1874c068.md) | partial | 2025-08-13T22:09:34Z | registry-derived |
 | [project-repo/cagebreak](../records/effects-project-repo-cagebreak-368328f0.md) | partial | 2026-06-13T13:53:43Z | registry-derived |
 | [protyposis/Spectaculum](../records/effects-protyposis-spectaculum-fcac9d0d.md) | partial | 2024-02-21T09:28:30Z | registry-derived |
@@ -619,7 +619,7 @@ Records: `779`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [AcademySoftwareFoundation/MaterialX](../records/effects-academysoftwarefoundation-materialx-1f8662c9.md) | partial | 2026-09-04T20:24:45Z | registry-derived |
-| [AcademySoftwareFoundation/openexr](../records/effects-academysoftwarefoundation-openexr-76904ac6.md) | partial | 2026-09-05T00:45:52Z | registry-derived |
+| [AcademySoftwareFoundation/openexr](../records/effects-academysoftwarefoundation-openexr-76904ac6.md) | partial | 2026-09-06T17:00:58Z | registry-derived |
 | [AcademySoftwareFoundation/OpenPBR](../records/effects-academysoftwarefoundation-openpbr-358a3a7c.md) | partial | 2026-04-22T11:26:32Z | registry-derived |
 | [AcademySoftwareFoundation/OpenShadingLanguage](../records/effects-academysoftwarefoundation-openshadinglanguage-cb82500e.md) | partial | 2026-09-04T19:01:22Z | registry-derived |
 | [ALH477/ai-faust-dsp-effects](../records/effects-alh477-ai-faust-dsp-effects-6881f2de.md) | partial | 2026-03-03T19:38:36Z | registry-derived |
@@ -670,10 +670,10 @@ Records: `779`
 | [fand/vfx-js](../records/effects-fand-vfx-js-267d1f85.md) | partial | 2026-08-11T22:45:13Z | registry-derived |
 | [fearofcode/bateman](../records/effects-fearofcode-bateman-03c24113.md) | partial | 2014-05-12T03:19:06Z | registry-derived |
 | [FlexMonkey/ParticleCam](../records/effects-flexmonkey-particlecam-751034c0.md) | partial | 2019-02-15T15:49:32Z | registry-derived |
-| [fuddlesworth/PlasmaZones](../records/effects-fuddlesworth-plasmazones-25db8a0f.md) | partial | 2026-09-06T05:09:17Z | registry-derived |
+| [fuddlesworth/PlasmaZones](../records/effects-fuddlesworth-plasmazones-25db8a0f.md) | partial | 2026-09-06T20:15:53Z | registry-derived |
 | [GabrielSCabrera/nBody](../records/effects-gabrielscabrera-nbody-387acb4c.md) | partial | 2024-03-31T14:11:02Z | registry-derived |
 | [GarrettGunnell/Iterated-Function-Systems](../records/effects-garrettgunnell-iterated-function-systems-ae1c6e05.md) | partial | 2024-11-30T14:42:06Z | registry-derived |
-| [ggarra13/mrv2](../records/effects-ggarra13-mrv2-5b1bc07b.md) | partial | 2026-09-06T01:59:49Z | registry-derived |
+| [ggarra13/mrv2](../records/effects-ggarra13-mrv2-5b1bc07b.md) | partial | 2026-09-06T20:11:55Z | registry-derived |
 | [glotzerlab/hoomd-blue](../records/effects-glotzerlab-hoomd-blue-5217e991.md) | partial | 2026-09-02T10:33:09Z | registry-derived |
 | [glotzerlab/hoomd-examples](../records/effects-glotzerlab-hoomd-examples-8b82445a.md) | partial | 2026-08-31T13:19:32Z | registry-derived |
 | [henriquelalves/SimpleGodotCRTShader](../records/effects-henriquelalves-simplegodotcrtshader-0feadcb8.md) | partial | 2024-09-02T21:57:23Z | registry-derived |
@@ -712,7 +712,7 @@ Records: `779`
 | [MysteryPancake/Houdini-Fun](../records/effects-mysterypancake-houdini-fun-2e70635d.md) | partial | 2026-09-05T07:45:26Z | registry-derived |
 | [nanndoj/react-native-particles](../records/effects-nanndoj-react-native-particles-f96caf6b.md) | partial | 2023-01-25T20:46:04Z | registry-derived |
 | [nolangz/3D-Chladni](../records/effects-nolangz-3d-chladni-45d7a880.md) | partial | 2026-07-18T11:40:22Z | registry-derived |
-| [ntsc-rs/ntsc-rs](../records/effects-ntsc-rs-ntsc-rs-7ace46da.md) | partial | 2026-09-05T21:08:22Z | registry-derived |
+| [ntsc-rs/ntsc-rs](../records/effects-ntsc-rs-ntsc-rs-7ace46da.md) | partial | 2026-09-06T18:14:58Z | registry-derived |
 | [numberwolf/FFmpeg-PlusPlus](../records/effects-numberwolf-ffmpeg-plusplus-3bc7c46d.md) | partial | 2026-03-11T05:58:57Z | registry-derived |
 | [OYsun/AE-Element](../records/effects-oysun-ae-element-e496f20a.md) | partial | 2019-03-28T08:23:57Z | registry-derived |
 | [pixijs-userland/particle-emitter](../records/effects-pixijs-userland-particle-emitter-b76be455.md) | partial | 2026-01-09T04:44:16Z | registry-derived |

@@ -14,7 +14,7 @@ Records: `1458`
 [Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (130)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (175)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (893)](../by-category/database-datastore.md) · [Datetime (231)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (102)](../by-category/dependency-manager.md) · [Documentation (104)](../by-category/documentation.md)
-[Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (456)](../by-category/ffi-bindings.md) · [Filesystem Os (1590)](../by-category/filesystem-os.md) · [Formatter (646)](../by-category/formatter.md)
+[Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (456)](../by-category/ffi-bindings.md) · [Filesystem Os (1592)](../by-category/filesystem-os.md) · [Formatter (646)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (356)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1460)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (269)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
 [Language Server (29)](../by-category/language-server.md) · [Language Specification (1435)](../by-category/language-specification.md) · [Library (5656)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
@@ -831,7 +831,7 @@ Records: `1458`
 | [hsexif](../records/haskell-hsexif-9ebcb7b1.md) | 0.6.1.10 | 2023-05-13T11:31:46Z | registry-derived |
 | [HsHTSLib](../records/haskell-hshtslib-cf41c678.md) | 1.9.2.2 | 2021-09-30T05:30:01Z | registry-derived |
 | [hsimport](../records/haskell-hsimport-6145754e.md) | 0.11.0 | 2019-09-15T08:44:09Z | registry-derived |
-| [hsinstall](../records/haskell-hsinstall-b4fd04ed.md) | 3.1 | 2026-09-05T22:14:32Z | registry-derived |
+| [hsinstall](../records/haskell-hsinstall-b4fd04ed.md) | 3.2 | 2026-09-06T20:04:48Z | registry-derived |
 | [hslua](../records/haskell-hslua-85b0c836.md) | 2.5.0 | 2026-01-08T15:33:47Z | registry-derived |
 | [hslua-aeson](../records/haskell-hslua-aeson-2f5c7dc5.md) | 2.3.2 | 2026-01-08T14:50:50Z | registry-derived |
 | [hspec](../records/haskell-hspec-e27e4b9f.md) | 2.11.17 | 2026-03-04T18:01:40Z | registry-derived |

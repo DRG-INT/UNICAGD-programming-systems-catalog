@@ -1,6 +1,6 @@
 # Filesystem Os
 
-Records: `1590`
+Records: `1592`
 
 ## Navigation
 
@@ -14,7 +14,7 @@ Records: `1590`
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (175)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (893)](database-datastore.md) · [Datetime (231)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (104)](documentation.md)
-[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (456)](ffi-bindings.md) · **[Filesystem Os (1590)](filesystem-os.md)** · [Formatter (646)](formatter.md)
+[Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (456)](ffi-bindings.md) · **[Filesystem Os (1592)](filesystem-os.md)** · [Formatter (646)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1460)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (269)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (29)](language-server.md) · [Language Specification (1435)](language-specification.md) · [Library (5656)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -397,7 +397,9 @@ Records: `1590`
 | ibdsim2 | 2.3.3 | 2026-08-04 20:00:10 UTC | [open](../records/r-ibdsim2-315bef3b.md) |
 | inferencer | 0.2.0 | 2026-08-04 06:50:02 UTC | [open](../records/r-inferencer-3ab0fbbc.md) |
 | jiebaRS | 0.3.0 | 2026-08-26 11:40:02 UTC | [open](../records/r-jiebars-c83af6de.md) |
+| knitr | 1.52 | 2026-09-06 19:10:02 UTC | [open](../records/r-knitr-697ca8de.md) |
 | lavinteract | 0.5.3 | 2026-08-21 05:42:24 UTC | [open](../records/r-lavinteract-b13e459b.md) |
+| mboost | 2.9-14 | 2026-09-06 19:00:02 UTC | [open](../records/r-mboost-b0990d76.md) |
 | metrosp | 1.2.1 | 2026-09-03 08:00:02 UTC | [open](../records/r-metrosp-4df42b80.md) |
 | MosaiClusteR | 0.1.1 | 2026-08-21 15:00:14 UTC | [open](../records/r-mosaicluster-ce1436ef.md) |
 | msprog | 1.0.1 | 2026-09-04 15:40:02 UTC | [open](../records/r-msprog-76c7293c.md) |
@@ -1043,7 +1045,7 @@ Records: `1590`
 | getoffmyhack/waveSDR | partial | 2026-08-01T17:26:02Z | [open](../records/effects-getoffmyhack-wavesdr-29b3c175.md) |
 | ghaerr/agg-2.6 | partial | 2023-09-13T00:27:54Z | [open](../records/effects-ghaerr-agg-2-6-d129da6e.md) |
 | gnuradio/gnuradio | partial | 2026-08-27T23:02:01Z | [open](../records/effects-gnuradio-gnuradio-792f9652.md) |
-| grizzlypeak3d/DJV | partial | 2026-09-06T00:01:25Z | [open](../records/effects-grizzlypeak3d-djv-a31a9ac6.md) |
+| grizzlypeak3d/DJV | partial | 2026-09-06T19:54:35Z | [open](../records/effects-grizzlypeak3d-djv-a31a9ac6.md) |
 | HEnquist/camilladsp | partial | 2026-09-03T12:33:15Z | [open](../records/effects-henquist-camilladsp-d941192e.md) |
 | hexianWeb/lego-stylized-nature | partial | 2026-07-08T07:37:58Z | [open](../records/effects-hexianweb-lego-stylized-nature-cb083959.md) |
 | hifiberry/hifiberry-os | partial | 2026-09-02T15:35:04Z | [open](../records/effects-hifiberry-hifiberry-os-23434356.md) |
@@ -1123,7 +1125,7 @@ Records: `1590`
 | oxysoft/RetroSuite3D | partial | 2019-01-25T16:25:09Z | [open](../records/effects-oxysoft-retrosuite3d-c8a9b262.md) |
 | perfah/Rustland | partial | 2020-03-15T19:50:21Z | [open](../records/effects-perfah-rustland-18426ed4.md) |
 | piellardj/post-treatment-gpu | unknown | github_latest_release_missing | [open](../records/effects-piellardj-post-treatment-gpu-28d6f1e8.md) |
-| pmndrs/postprocessing | partial | 2026-09-04T16:36:09Z | [open](../records/effects-pmndrs-postprocessing-6cffe31f.md) |
+| pmndrs/postprocessing | partial | 2026-09-06T13:12:28Z | [open](../records/effects-pmndrs-postprocessing-6cffe31f.md) |
 | PossiblyAxolotl/pdParticles | partial | 2025-08-13T22:09:34Z | [open](../records/effects-possiblyaxolotl-pdparticles-1874c068.md) |
 | project-repo/cagebreak | partial | 2026-06-13T13:53:43Z | [open](../records/effects-project-repo-cagebreak-368328f0.md) |
 | protyposis/Spectaculum | partial | 2024-02-21T09:28:30Z | [open](../records/effects-protyposis-spectaculum-fcac9d0d.md) |
@@ -1258,7 +1260,7 @@ Records: `1590`
 | aslost/pixtale | partial | 2026-09-01T14:07:49Z | [open](../records/photography-aslost-pixtale-df702412.md) |
 | Awalz/SwiftyCam | partial | 2022-02-04T10:24:45Z | [open](../records/photography-awalz-swiftycam-8b6b12a3.md) |
 | awxkee/avif.swift | partial | 2026-04-29T10:30:31Z | [open](../records/photography-awxkee-avif-swift-72b07b3d.md) |
-| Bitpainter75/FerrumPix | partial | 2026-09-06T10:30:40Z | [open](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) |
+| Bitpainter75/FerrumPix | partial | 2026-09-06T17:17:38Z | [open](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) |
 | carina-studio/PixelViewer | partial | 2026-09-04T13:29:58Z | [open](../records/photography-carina-studio-pixelviewer-70d11532.md) |
 | carlospuenteg/File-Injector | partial | 2022-11-18T00:20:21Z | [open](../records/photography-carlospuenteg-file-injector-2533177f.md) |
 | carlospuenteg/Photomosaic-Creator | unknown | github_search_does_not_include_release_date | [open](../records/photography-carlospuenteg-photomosaic-creator-b57e7ad4.md) |
@@ -1290,7 +1292,7 @@ Records: `1590`
 | niklasr22/BrightIntosh | partial | 2026-09-04T17:20:10Z | [open](../records/photography-niklasr22-brightintosh-a739a56f.md) |
 | open-product-data/digital-cameras | unknown | github_search_does_not_include_release_date | [open](../records/photography-open-product-data-digital-cameras-6d723530.md) |
 | photoprism/photoprism | partial | 2026-09-06T11:10:13Z | [open](../records/photography-photoprism-photoprism-49783c79.md) |
-| PicPeak/picpeak | partial | 2026-09-05T22:57:13Z | [open](../records/photography-picpeak-picpeak-d6957174.md) |
+| PicPeak/picpeak | partial | 2026-09-06T19:45:29Z | [open](../records/photography-picpeak-picpeak-d6957174.md) |
 | pmndrs/postprocessing | partial | 2026-09-06T13:12:28Z | [open](../records/photography-pmndrs-postprocessing-70a67349.md) |
 | Po-Hsun-Su/pytorch-ssim | partial | 2024-02-22T09:28:51Z | [open](../records/photography-po-hsun-su-pytorch-ssim-c77f7b01.md) |
 | pop-os/wallpapers | partial | 2025-06-24T16:00:43Z | [open](../records/photography-pop-os-wallpapers-b9bd093b.md) |
@@ -1310,7 +1312,7 @@ Records: `1590`
 | wsl2ls/iOS_Tips | partial | 2022-08-28T19:02:32Z | [open](../records/photography-wsl2ls-ios-tips-4b0e1ffa.md) |
 | Yummypets/YPImagePicker | partial | 2026-07-28T15:57:49Z | [open](../records/photography-yummypets-ypimagepicker-25854b52.md) |
 | zapdos-labs/unblink | partial | 2026-03-09T09:42:25Z | [open](../records/photography-zapdos-labs-unblink-0845b1a9.md) |
-| zidage/AlcedoStudio | partial | 2026-09-06T03:50:41Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
+| zidage/AlcedoStudio | partial | 2026-09-06T20:04:47Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
 
 ## Microscopy
 

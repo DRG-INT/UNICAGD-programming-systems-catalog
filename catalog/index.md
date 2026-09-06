@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-06T19:18:25+00:00`
+Generated: `2026-09-06T20:22:51+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -12,7 +12,7 @@ Generated: `2026-09-06T19:18:25+00:00`
 [Concurrency Parallelism (89)](by-category/concurrency-parallelism.md) · [Configuration (130)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (175)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (893)](by-category/database-datastore.md) · [Datetime (231)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (102)](by-category/dependency-manager.md) · [Documentation (104)](by-category/documentation.md)
-[Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (456)](by-category/ffi-bindings.md) · [Filesystem Os (1590)](by-category/filesystem-os.md) · [Formatter (646)](by-category/formatter.md)
+[Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (456)](by-category/ffi-bindings.md) · [Filesystem Os (1592)](by-category/filesystem-os.md) · [Formatter (646)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (356)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1460)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (269)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
 [Language Server (29)](by-category/language-server.md) · [Language Specification (1435)](by-category/language-specification.md) · [Library (5656)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
@@ -37,7 +37,7 @@ Generated: `2026-09-06T19:18:25+00:00`
 | Node.js/JavaScript | 2408 | 2331 | [Node.js/JavaScript](by-language/node-js-javascript.md) |
 | Node.js/TypeScript | 388 | 348 | [Node.js/TypeScript](by-language/node-js-typescript.md) |
 | Lua family | 1937 | 0 | [Lua family](by-language/lua-family.md) |
-| R | 1693 | 1693 | [R](by-language/r.md) |
+| R | 1695 | 1695 | [R](by-language/r.md) |
 | Haskell | 1458 | 1447 | [Haskell](by-language/haskell.md) |
 | Matlab | 287 | 0 | [Matlab](by-language/matlab.md) |
 | Octave | 141 | 140 | [Octave](by-language/octave.md) |
@@ -118,7 +118,7 @@ Generated: `2026-09-06T19:18:25+00:00`
 | Documentation | 104 | [documentation](by-category/documentation.md) |
 | Embedded Hardware | 59 | [embedded_hardware](by-category/embedded-hardware.md) |
 | Ffi Bindings | 456 | [ffi_bindings](by-category/ffi-bindings.md) |
-| Filesystem Os | 1590 | [filesystem_os](by-category/filesystem-os.md) |
+| Filesystem Os | 1592 | [filesystem_os](by-category/filesystem-os.md) |
 | Formatter | 646 | [formatter](by-category/formatter.md) |
 | Framework | 63 | [framework](by-category/framework.md) |
 | Fuzzer | 57 | [fuzzer](by-category/fuzzer.md) |
@@ -174,7 +174,7 @@ Generated: `2026-09-06T19:18:25+00:00`
 | Node.js/JavaScript | 2331 | 77 |
 | Node.js/TypeScript | 348 | 40 |
 | Lua family | 0 | 1937 |
-| R | 1693 | 0 |
+| R | 1695 | 0 |
 | Haskell | 1447 | 11 |
 | Matlab | 0 | 287 |
 | Octave | 140 | 1 |

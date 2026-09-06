@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-06T19:18:25+00:00`
+Generated: `2026-09-06T20:22:51+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -12,7 +12,7 @@ Generated: `2026-09-06T19:18:25+00:00`
 [Concurrency Parallelism (89)](by-category/concurrency-parallelism.md) · [Configuration (130)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (175)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (893)](by-category/database-datastore.md) · [Datetime (231)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (102)](by-category/dependency-manager.md) · [Documentation (104)](by-category/documentation.md)
-[Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (456)](by-category/ffi-bindings.md) · [Filesystem Os (1590)](by-category/filesystem-os.md) · [Formatter (646)](by-category/formatter.md)
+[Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (456)](by-category/ffi-bindings.md) · [Filesystem Os (1592)](by-category/filesystem-os.md) · [Formatter (646)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (356)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1460)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (269)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
 [Language Server (29)](by-category/language-server.md) · [Language Specification (1435)](by-category/language-specification.md) · [Library (5656)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
@@ -28,20 +28,26 @@ Generated: `2026-09-06T19:18:25+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10170 |
+| Known stable release | 10172 |
 | Unknown stable release | 17256 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| hsinstall | Haskell | Library | 3.2 | 2026-09-06T20:04:48Z | [open](records/haskell-hsinstall-b4fd04ed.md) |
+| pgpm | Node.js/JavaScript | Package Manager | 5.30.4 | 2026-09-06T19:46:44.337Z | [open](records/node-js-javascript-pgpm-8b466b42.md) |
+| @pgpmjs/export | Node.js/JavaScript | Database Datastore | 1.20.11 | 2026-09-06T19:46:42.835Z | [open](records/node-js-javascript-pgpmjs-export-abf7ded3.md) |
+| @constructive-io/graphql-server | Node.js/JavaScript | Web Framework | 5.24.0 | 2026-09-06T19:46:39.891Z | [open](records/node-js-javascript-constructive-io-graphql-server-5edba745.md) |
+| @nuxt/nitro-server-nightly | Node.js/JavaScript | Web Framework | 4.6.0-29812037.2bf350ef | 2026-09-06T19:18:58.136Z | [open](records/node-js-javascript-nuxt-nitro-server-nightly-4efe1726.md) |
+| fancy-regex | Rust | Parser Lexer Ast | 0.19.1 | 2026-09-06T18:37:47.095219Z | [open](records/rust-fancy-regex-2a559670.md) |
+| playwright-bdd | Node.js/JavaScript | Testing Framework | 9.2.1 | 2026-09-06T18:31:45.617Z | [open](records/node-js-javascript-playwright-bdd-070c811a.md) |
 | rstest | Rust | Testing Framework | 0.27.0 | 2026-09-06T18:15:52.967458Z | [open](records/rust-rstest-3f34bb9a.md) |
 | rstest_macros | Rust | Testing Framework | 0.27.0 | 2026-09-06T18:15:40.465723Z | [open](records/rust-rstest-macros-f2c455ec.md) |
 | @lightdash/cli | Node.js/JavaScript | Cli | 2.134.2 | 2026-09-06T18:13:59.931Z | [open](records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | ktx-font | Haskell | Library | 0.2.0.1 | 2026-09-06T18:04:17Z | [open](records/haskell-ktx-font-8c048a63.md) |
 | yamlstar | Haskell | Serialization | 0.1.20.0 | 2026-09-06T18:03:59Z | [open](records/haskell-yamlstar-bc72bee8.md) |
 | mini | Haskell | Library | 2.0.1.0 | 2026-09-06T17:59:38Z | [open](records/haskell-mini-8b13af00.md) |
-| @nuxt/nitro-server-nightly | Node.js/JavaScript | Web Framework | 4.6.0-29811950.cfa17226 | 2026-09-06T17:50:51.656Z | [open](records/node-js-javascript-nuxt-nitro-server-nightly-4efe1726.md) |
 | Diff | Haskell | Library | 2.0.1 | 2026-09-06T17:03:29Z | [open](records/haskell-diff-226c8910.md) |
 | ephemeral-pg | Haskell | Library | 0.3.0.0 | 2026-09-06T17:01:28Z | [open](records/haskell-ephemeral-pg-bde54662.md) |
 | @wdio/tauri-service | Node.js/JavaScript | Testing Framework | 1.4.0 | 2026-09-06T16:38:42.632Z | [open](records/node-js-javascript-wdio-tauri-service-cfa3308c.md) |
@@ -80,6 +86,8 @@ Generated: `2026-09-06T19:18:25+00:00`
 | zstd | Haskell | Compression | 0.1.4.0 | 2026-09-06T03:09:59Z | [open](records/haskell-zstd-01fb5311.md) |
 | crypton | Haskell | Cryptography | 1.1.5 | 2026-09-06T02:20:25Z | [open](records/haskell-crypton-7cba2161.md) |
 | pin_input_text_field | Dart | Dependency Manager | 4.5.3 | 2026-09-06T02:13:00.125941Z | [open](records/dart-pin-input-text-field-b2436d80.md) |
+| knitr | R | Filesystem Os | 1.52 | 2026-09-06 19:10:02 UTC | [open](records/r-knitr-697ca8de.md) |
+| mboost | R | Filesystem Os | 2.9-14 | 2026-09-06 19:00:02 UTC | [open](records/r-mboost-b0990d76.md) |
 | ssutil | R | Library | 1.1.0 | 2026-09-06 17:40:02 UTC | [open](records/r-ssutil-e9aa52d7.md) |
 | SDPDmod | R | Library | 0.0.8 | 2026-09-06 17:20:02 UTC | [open](records/r-sdpdmod-930bfd17.md) |
 | SVEMnet | R | Parser Lexer Ast | 3.6.0 | 2026-09-06 16:40:02 UTC | [open](records/r-svemnet-ae1ee860.md) |
@@ -102,7 +110,6 @@ Generated: `2026-09-06T19:18:25+00:00`
 | npi | R | Package Manager | 0.3.1 | 2026-09-06 04:00:02 UTC | [open](records/r-npi-e0e894ec.md) |
 | betaselectr | R | Library | 0.2.4 | 2026-09-06 02:20:02 UTC | [open](records/r-betaselectr-7331a032.md) |
 | jsonschema | Rust | Serialization | 0.54.0 | 2026-09-05T23:35:59.858944Z | [open](records/rust-jsonschema-64fecdca.md) |
-| hsinstall | Haskell | Library | 3.1 | 2026-09-05T22:14:32Z | [open](records/haskell-hsinstall-b4fd04ed.md) |
 | node-opcua-server | Node.js/JavaScript | Web Framework | 2.181.1 | 2026-09-05T19:53:33.793Z | [open](records/node-js-javascript-node-opcua-server-32472434.md) |
 | node-opcua-address-space-for-conformance-testing | Node.js/JavaScript | Testing Framework | 2.181.1 | 2026-09-05T19:52:59.864Z | [open](records/node-js-javascript-node-opcua-address-space-for-conformance-testing-e25f7a6d.md) |
 | yuku-parser | Node.js/TypeScript | Type Checker | 0.9.4 | 2026-09-05T19:10:09.074Z | [open](records/node-js-typescript-yuku-parser-d16e0e7c.md) |
@@ -126,9 +133,6 @@ Generated: `2026-09-06T19:18:25+00:00`
 | @ottocode/database | Node.js/JavaScript | Database Datastore | 0.1.413 | 2026-09-05T13:43:32.581Z | [open](records/node-js-javascript-ottocode-database-e1edbc5d.md) |
 | system-testing | Node.js/JavaScript | Testing Framework | 1.0.136 | 2026-09-05T13:18:05.282Z | [open](records/node-js-javascript-system-testing-fb3acaec.md) |
 | @remotion/studio-server | Node.js/JavaScript | Web Framework | 4.0.521 | 2026-09-05T13:16:57.745Z | [open](records/node-js-javascript-remotion-studio-server-ed620dc3.md) |
-| pgpm | Node.js/JavaScript | Package Manager | 5.30.3 | 2026-09-05T13:00:58.902Z | [open](records/node-js-javascript-pgpm-8b466b42.md) |
-| @pgpmjs/export | Node.js/JavaScript | Database Datastore | 1.20.10 | 2026-09-05T13:00:57.366Z | [open](records/node-js-javascript-pgpmjs-export-abf7ded3.md) |
-| @constructive-io/graphql-server | Node.js/JavaScript | Web Framework | 5.23.0 | 2026-09-05T13:00:54.620Z | [open](records/node-js-javascript-constructive-io-graphql-server-5edba745.md) |
 | reg-cli | Node.js/JavaScript | Testing Framework | 0.19.0-rc2 | 2026-09-05T12:23:02.140Z | [open](records/node-js-javascript-reg-cli-7dcec4f2.md) |
 | pest_derive | Rust | Library | 2.9.1 | 2026-09-05T12:15:00.810433Z | [open](records/rust-pest-derive-d019fac2.md) |
 | pest_generator | Rust | Library | 2.9.1 | 2026-09-05T12:14:28.314693Z | [open](records/rust-pest-generator-ef593a90.md) |
@@ -281,10 +285,6 @@ Generated: `2026-09-06T19:18:25+00:00`
 | @cubejs-backend/vertica-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.34 | 2026-09-04T11:56:59.519Z | [open](records/node-js-javascript-cubejs-backend-vertica-driver-55bdb4b8.md) |
 | @cubejs-backend/postgres-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.34 | 2026-09-04T11:56:54.891Z | [open](records/node-js-javascript-cubejs-backend-postgres-driver-10c33dff.md) |
 | @cubejs-backend/duckdb-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.34 | 2026-09-04T11:56:48.961Z | [open](records/node-js-javascript-cubejs-backend-duckdb-driver-01487aa6.md) |
-| @cubejs-backend/testing-shared | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.34 | 2026-09-04T11:56:40.972Z | [open](records/node-js-javascript-cubejs-backend-testing-shared-ac633cbb.md) |
-| @cubejs-backend/ksql-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.34 | 2026-09-04T11:56:37.898Z | [open](records/node-js-javascript-cubejs-backend-ksql-driver-8e496938.md) |
-| @cubejs-backend/druid-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.34 | 2026-09-04T11:56:37.125Z | [open](records/node-js-javascript-cubejs-backend-druid-driver-4b43d84c.md) |
-| @cubejs-backend/databricks-jdbc-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.34 | 2026-09-04T11:56:36.969Z | [open](records/node-js-javascript-cubejs-backend-databricks-jdbc-driver-75fcf91d.md) |
 
 ## Unknown Reasons
 

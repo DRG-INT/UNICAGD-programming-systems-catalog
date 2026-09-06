@@ -1,6 +1,6 @@
 # R
 
-Records: `1693`
+Records: `1695`
 
 ## Navigation
 
@@ -14,7 +14,7 @@ Records: `1693`
 [Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (130)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (175)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (893)](../by-category/database-datastore.md) · [Datetime (231)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (102)](../by-category/dependency-manager.md) · [Documentation (104)](../by-category/documentation.md)
-[Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (456)](../by-category/ffi-bindings.md) · [Filesystem Os (1590)](../by-category/filesystem-os.md) · [Formatter (646)](../by-category/formatter.md)
+[Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (456)](../by-category/ffi-bindings.md) · [Filesystem Os (1592)](../by-category/filesystem-os.md) · [Formatter (646)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (356)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1460)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (269)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
 [Language Server (29)](../by-category/language-server.md) · [Language Specification (1435)](../by-category/language-specification.md) · [Library (5656)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
@@ -370,7 +370,9 @@ Records: `1693`
 | [ibdsim2](../records/r-ibdsim2-315bef3b.md) | 2.3.3 | 2026-08-04 20:00:10 UTC | registry-derived |
 | [inferencer](../records/r-inferencer-3ab0fbbc.md) | 0.2.0 | 2026-08-04 06:50:02 UTC | registry-derived |
 | [jiebaRS](../records/r-jiebars-c83af6de.md) | 0.3.0 | 2026-08-26 11:40:02 UTC | registry-derived |
+| [knitr](../records/r-knitr-697ca8de.md) | 1.52 | 2026-09-06 19:10:02 UTC | registry-derived |
 | [lavinteract](../records/r-lavinteract-b13e459b.md) | 0.5.3 | 2026-08-21 05:42:24 UTC | registry-derived |
+| [mboost](../records/r-mboost-b0990d76.md) | 2.9-14 | 2026-09-06 19:00:02 UTC | registry-derived |
 | [metrosp](../records/r-metrosp-4df42b80.md) | 1.2.1 | 2026-09-03 08:00:02 UTC | registry-derived |
 | [MosaiClusteR](../records/r-mosaicluster-ce1436ef.md) | 0.1.1 | 2026-08-21 15:00:14 UTC | registry-derived |
 | [msprog](../records/r-msprog-76c7293c.md) | 1.0.1 | 2026-09-04 15:40:02 UTC | registry-derived |

@@ -10,7 +10,7 @@
 [Concurrency Parallelism (89)](by-category/concurrency-parallelism.md) · [Configuration (130)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (175)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (893)](by-category/database-datastore.md) · [Datetime (231)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (102)](by-category/dependency-manager.md) · [Documentation (104)](by-category/documentation.md)
-[Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (456)](by-category/ffi-bindings.md) · [Filesystem Os (1590)](by-category/filesystem-os.md) · [Formatter (646)](by-category/formatter.md)
+[Embedded Hardware (59)](by-category/embedded-hardware.md) · [Ffi Bindings (456)](by-category/ffi-bindings.md) · [Filesystem Os (1592)](by-category/filesystem-os.md) · [Formatter (646)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (356)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1460)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (269)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
 [Language Server (29)](by-category/language-server.md) · [Language Specification (1435)](by-category/language-specification.md) · [Library (5656)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
@@ -1354,6 +1354,7 @@
 | `cran_packages_by_date-51e32bd744a471` | pbapply | [open](records/r-pbapply-449da90d.md) |
 | `cran_packages_by_date-51f4d0cf53ddcb` | lazybar | [open](records/r-lazybar-4034e840.md) |
 | `cran_packages_by_date-522a087aa083ba` | bayesQRsurvey | [open](records/r-bayesqrsurvey-7ab4fbbb.md) |
+| `cran_packages_by_date-526ddc6205ba8b` | mboost | [open](records/r-mboost-b0990d76.md) |
 | `cran_packages_by_date-5276e448b1b953` | s2 | [open](records/r-s2-51c95df6.md) |
 | `cran_packages_by_date-5278bbf999c28e` | ggtime | [open](records/r-ggtime-2dd99a2e.md) |
 | `cran_packages_by_date-529926e668dc3a` | svines | [open](records/r-svines-33b4b959.md) |
@@ -1398,6 +1399,7 @@
 | `cran_packages_by_date-57ef99fc5590ba` | lares | [open](records/r-lares-e80448e9.md) |
 | `cran_packages_by_date-58081418aca680` | MDaRes | [open](records/r-mdares-6e27e679.md) |
 | `cran_packages_by_date-581130243621e1` | PubMedWordcloud | [open](records/r-pubmedwordcloud-f9e464c1.md) |
+| `cran_packages_by_date-5812b8efb0916b` | knitr | [open](records/r-knitr-697ca8de.md) |
 | `cran_packages_by_date-587e6c5599f69b` | LLMR.shiny | [open](records/r-llmr-shiny-3e791ab3.md) |
 | `cran_packages_by_date-588c40d8d5a9c3` | spOccupancy | [open](records/r-spoccupancy-0f8184bb.md) |
 | `cran_packages_by_date-58bc1584b5fb04` | Rtwalk | [open](records/r-rtwalk-5afdf426.md) |
