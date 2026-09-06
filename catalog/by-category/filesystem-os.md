@@ -8,19 +8,19 @@ Records: `1584`
 
 ## Category Index
 
-[Api Abi Checker (218)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Api Abi Checker (220)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
 [Benchmarking (198)](benchmarking.md) · [Build System (989)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (117)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
-[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (129)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (230)](datetime.md)
+[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (175)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (230)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (455)](ffi-bindings.md) · **[Filesystem Os (1584)](filesystem-os.md)** · [Formatter (645)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1454)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (269)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5633)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5636)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1137)](parser-lexer-ast.md) · [Precommit Ci Quality (302)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1138)](parser-lexer-ast.md) · [Precommit Ci Quality (303)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (605)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
@@ -568,7 +568,7 @@ Records: `1584`
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-08-30T15:02:19Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-06T10:39:57Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-06T12:09:40Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -1127,7 +1127,7 @@ Records: `1584`
 | protyposis/Spectaculum | partial | 2024-02-21T09:28:30Z | [open](../records/effects-protyposis-spectaculum-fcac9d0d.md) |
 | QianMo/X-PostProcessing-Library | partial | 2023-07-14T17:42:11Z | [open](../records/effects-qianmo-x-postprocessing-library-3834f7d5.md) |
 | radoslawregula/reverb-algorithms | partial | 2020-02-09T11:12:27Z | [open](../records/effects-radoslawregula-reverb-algorithms-0f4a1d2f.md) |
-| ralgar/vkShade | partial | 2026-09-06T03:44:58Z | [open](../records/effects-ralgar-vkshade-027f2833.md) |
+| ralgar/vkShade | partial | 2026-09-06T05:48:49Z | [open](../records/effects-ralgar-vkshade-027f2833.md) |
 | rcalixte/awesome-wayland | partial | 2026-08-30T19:00:18Z | [open](../records/effects-rcalixte-awesome-wayland-4cc39bd2.md) |
 | robclouth/noise-canvas | partial | 2026-08-25T09:29:49Z | [open](../records/effects-robclouth-noise-canvas-171ca6d8.md) |
 | rockbite/talos | partial | 2026-08-18T11:17:42Z | [open](../records/effects-rockbite-talos-07105463.md) |
@@ -1185,7 +1185,7 @@ Records: `1584`
 | DropSnorz/OwlPlug | partial | 2026-09-03T21:41:09Z | [open](../records/audio-dropsnorz-owlplug-ab9f531b.md) |
 | fedden/RenderMan | partial | 2021-12-02T21:11:26Z | [open](../records/audio-fedden-renderman-b1df24f8.md) |
 | gnuradio/gnuradio | partial | 2026-08-27T23:02:01Z | [open](../records/audio-gnuradio-gnuradio-f6f01d2f.md) |
-| HEnquist/camilladsp | partial | 2026-09-05T21:48:38Z | [open](../records/audio-henquist-camilladsp-382264e4.md) |
+| HEnquist/camilladsp | partial | 2026-09-06T07:32:25Z | [open](../records/audio-henquist-camilladsp-382264e4.md) |
 | hifiberry/hifiberry-os | partial | 2026-09-05T08:24:01Z | [open](../records/audio-hifiberry-hifiberry-os-5ddcb398.md) |
 | hollance/lost-and-found-piano | partial | 2026-07-12T14:06:30Z | [open](../records/audio-hollance-lost-and-found-piano-757e2e12.md) |
 | jameshball/osci-render | partial | 2026-09-02T20:27:14Z | [open](../records/audio-jameshball-osci-render-c76ba818.md) |
@@ -1256,7 +1256,7 @@ Records: `1584`
 | aslost/pixtale | partial | 2026-09-01T14:07:49Z | [open](../records/photography-aslost-pixtale-df702412.md) |
 | Awalz/SwiftyCam | partial | 2022-02-04T10:24:45Z | [open](../records/photography-awalz-swiftycam-8b6b12a3.md) |
 | awxkee/avif.swift | partial | 2026-04-29T10:30:31Z | [open](../records/photography-awxkee-avif-swift-72b07b3d.md) |
-| Bitpainter75/FerrumPix | partial | 2026-09-05T23:48:14Z | [open](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) |
+| Bitpainter75/FerrumPix | partial | 2026-09-06T10:30:40Z | [open](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) |
 | carina-studio/PixelViewer | partial | 2026-09-04T13:29:58Z | [open](../records/photography-carina-studio-pixelviewer-70d11532.md) |
 | carlospuenteg/File-Injector | partial | 2022-11-18T00:20:21Z | [open](../records/photography-carlospuenteg-file-injector-2533177f.md) |
 | carlospuenteg/Photomosaic-Creator | unknown | github_search_does_not_include_release_date | [open](../records/photography-carlospuenteg-photomosaic-creator-b57e7ad4.md) |
@@ -1287,7 +1287,7 @@ Records: `1584`
 | Neko3000/Monotone | partial | 2022-09-25T08:34:38Z | [open](../records/photography-neko3000-monotone-6bff49ae.md) |
 | niklasr22/BrightIntosh | partial | 2026-09-04T17:20:10Z | [open](../records/photography-niklasr22-brightintosh-a739a56f.md) |
 | open-product-data/digital-cameras | unknown | github_search_does_not_include_release_date | [open](../records/photography-open-product-data-digital-cameras-6d723530.md) |
-| photoprism/photoprism | partial | 2026-09-05T18:01:37Z | [open](../records/photography-photoprism-photoprism-49783c79.md) |
+| photoprism/photoprism | partial | 2026-09-06T11:10:13Z | [open](../records/photography-photoprism-photoprism-49783c79.md) |
 | PicPeak/picpeak | partial | 2026-09-05T22:57:13Z | [open](../records/photography-picpeak-picpeak-d6957174.md) |
 | pmndrs/postprocessing | partial | 2026-09-04T16:36:09Z | [open](../records/photography-pmndrs-postprocessing-70a67349.md) |
 | Po-Hsun-Su/pytorch-ssim | partial | 2024-02-22T09:28:51Z | [open](../records/photography-po-hsun-su-pytorch-ssim-c77f7b01.md) |

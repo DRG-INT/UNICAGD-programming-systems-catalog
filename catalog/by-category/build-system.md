@@ -8,19 +8,19 @@ Records: `989`
 
 ## Category Index
 
-[Api Abi Checker (218)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Api Abi Checker (220)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
 [Benchmarking (198)](benchmarking.md) · **[Build System (989)](build-system.md)** · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (117)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
-[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (129)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (230)](datetime.md)
+[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (175)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (230)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (455)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (645)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1454)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (269)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5633)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5636)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1137)](parser-lexer-ast.md) · [Precommit Ci Quality (302)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1138)](parser-lexer-ast.md) · [Precommit Ci Quality (303)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (605)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
@@ -649,7 +649,7 @@ Records: `989`
 | bazelbuild/rules_closure | partial | 2026-04-03T21:28:30Z | [open](../records/starlark-bazelbuild-rules-closure-5adb8287.md) |
 | bazelbuild/rules_java | partial | 2026-09-05T07:23:51Z | [open](../records/starlark-bazelbuild-rules-java-690a4936.md) |
 | bazelbuild/rules_k8s | partial | 2023-05-12T13:44:37Z | [open](../records/starlark-bazelbuild-rules-k8s-80683477.md) |
-| bazelbuild/rules_swift | partial | 2026-09-06T07:05:53Z | [open](../records/starlark-bazelbuild-rules-swift-3968ab89.md) |
+| bazelbuild/rules_swift | partial | 2026-09-06T12:15:29Z | [open](../records/starlark-bazelbuild-rules-swift-3968ab89.md) |
 | bazelbuild/rules_typescript | partial | 2020-10-23T14:44:49Z | [open](../records/starlark-bazelbuild-rules-typescript-5c12b5d3.md) |
 | cgrindel/rules_swift_package_manager | partial | 2026-09-05T14:39:47Z | [open](../records/starlark-cgrindel-rules-swift-package-manager-e9bd76cb.md) |
 | dropbox/dbx_build_tools | partial | 2023-08-16T17:42:36Z | [open](../records/starlark-dropbox-dbx-build-tools-f48dff7c.md) |
@@ -948,14 +948,14 @@ Records: `989`
 | HaveAGitGat/Tdarr | partial | 2026-08-05T07:37:45Z | [open](../records/video-haveagitgat-tdarr-91bd4936.md) |
 | kewlbear/FFmpeg-iOS-build-script | partial | 2024-06-18T06:18:06Z | [open](../records/video-kewlbear-ffmpeg-ios-build-script-7aee7f99.md) |
 | langhuihui/monibuca | partial | 2026-09-04T09:20:13Z | [open](../records/video-langhuihui-monibuca-da4238a2.md) |
-| livekit/agents | partial | 2026-09-06T01:52:49Z | [open](../records/video-livekit-agents-1122d840.md) |
+| livekit/agents | partial | 2026-09-06T11:09:32Z | [open](../records/video-livekit-agents-1122d840.md) |
 | nova-video-player/aos-AVP | partial | 2026-09-05T17:10:06Z | [open](../records/video-nova-video-player-aos-avp-927babe3.md) |
 | OlafenwaMoses/ImageAI | partial | 2024-08-03T09:45:20Z | [open](../records/video-olafenwamoses-imageai-614f65e4.md) |
 | opencodewin/MediaEditor | partial | 2024-12-04T10:46:14Z | [open](../records/video-opencodewin-mediaeditor-d98a3d1a.md) |
 | pion/turn | partial | 2026-09-03T16:26:04Z | [open](../records/video-pion-turn-e6218c3c.md) |
 | pipeless-ai/pipeless | partial | 2024-05-08T10:13:19Z | [open](../records/video-pipeless-ai-pipeless-5f6c8d4f.md) |
 | pmh1314520/WebRPA | partial | 2026-09-01T10:44:42Z | [open](../records/video-pmh1314520-webrpa-25abd5b1.md) |
-| remotion-dev/remotion | partial | 2026-09-05T14:08:08Z | [open](../records/video-remotion-dev-remotion-ab42498d.md) |
+| remotion-dev/remotion | partial | 2026-09-06T11:42:51Z | [open](../records/video-remotion-dev-remotion-ab42498d.md) |
 | TheNickOfTime/handbrake-web | partial | 2026-03-27T02:31:22Z | [open](../records/video-thenickoftime-handbrake-web-5a475b6c.md) |
 | VideoFlint/Cabbage | partial | 2023-11-08T00:02:29Z | [open](../records/video-videoflint-cabbage-bf78fd50.md) |
 

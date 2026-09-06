@@ -8,19 +8,19 @@ Records: `468`
 
 ## Category Index
 
-[Api Abi Checker (218)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
+[Api Abi Checker (220)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
 [Benchmarking (198)](../by-category/benchmarking.md) · [Build System (989)](../by-category/build-system.md) · [Cli (563)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (117)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (24)](../by-category/compiler-diagnostics.md) · [Compression (51)](../by-category/compression.md)
-[Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (129)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (174)](../by-category/cryptography.md) · [Data Science (38)](../by-category/data-science.md) · [Database Datastore (892)](../by-category/database-datastore.md) · [Datetime (230)](../by-category/datetime.md)
+[Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (130)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
+[Cryptography (175)](../by-category/cryptography.md) · [Data Science (38)](../by-category/data-science.md) · [Database Datastore (892)](../by-category/database-datastore.md) · [Datetime (230)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (102)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
 [Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (455)](../by-category/ffi-bindings.md) · [Filesystem Os (1584)](../by-category/filesystem-os.md) · [Formatter (645)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (355)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1454)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (436)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (269)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5633)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5636)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (520)](../by-category/logging-observability.md) · [Machine Learning (788)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1035)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1137)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (302)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1138)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (303)](../by-category/precommit-ci-quality.md)
 [Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (15)](../by-category/sanitizer.md)
 [Security Sast (336)](../by-category/security-sast.md) · [Serialization (395)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (605)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (606)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)
@@ -65,14 +65,14 @@ Records: `468`
 | [HaveAGitGat/Tdarr](../records/video-haveagitgat-tdarr-91bd4936.md) | partial | 2026-08-05T07:37:45Z | registry-derived |
 | [kewlbear/FFmpeg-iOS-build-script](../records/video-kewlbear-ffmpeg-ios-build-script-7aee7f99.md) | partial | 2024-06-18T06:18:06Z | registry-derived |
 | [langhuihui/monibuca](../records/video-langhuihui-monibuca-da4238a2.md) | partial | 2026-09-04T09:20:13Z | registry-derived |
-| [livekit/agents](../records/video-livekit-agents-1122d840.md) | partial | 2026-09-06T01:52:49Z | registry-derived |
+| [livekit/agents](../records/video-livekit-agents-1122d840.md) | partial | 2026-09-06T11:09:32Z | registry-derived |
 | [nova-video-player/aos-AVP](../records/video-nova-video-player-aos-avp-927babe3.md) | partial | 2026-09-05T17:10:06Z | registry-derived |
 | [OlafenwaMoses/ImageAI](../records/video-olafenwamoses-imageai-614f65e4.md) | partial | 2024-08-03T09:45:20Z | registry-derived |
 | [opencodewin/MediaEditor](../records/video-opencodewin-mediaeditor-d98a3d1a.md) | partial | 2024-12-04T10:46:14Z | registry-derived |
 | [pion/turn](../records/video-pion-turn-e6218c3c.md) | partial | 2026-09-03T16:26:04Z | registry-derived |
 | [pipeless-ai/pipeless](../records/video-pipeless-ai-pipeless-5f6c8d4f.md) | partial | 2024-05-08T10:13:19Z | registry-derived |
 | [pmh1314520/WebRPA](../records/video-pmh1314520-webrpa-25abd5b1.md) | partial | 2026-09-01T10:44:42Z | registry-derived |
-| [remotion-dev/remotion](../records/video-remotion-dev-remotion-ab42498d.md) | partial | 2026-09-05T14:08:08Z | registry-derived |
+| [remotion-dev/remotion](../records/video-remotion-dev-remotion-ab42498d.md) | partial | 2026-09-06T11:42:51Z | registry-derived |
 | [TheNickOfTime/handbrake-web](../records/video-thenickoftime-handbrake-web-5a475b6c.md) | partial | 2026-03-27T02:31:22Z | registry-derived |
 | [VideoFlint/Cabbage](../records/video-videoflint-cabbage-bf78fd50.md) | partial | 2023-11-08T00:02:29Z | registry-derived |
 
@@ -206,7 +206,7 @@ Records: `468`
 | --- | --- | --- | --- |
 | [0voice/audio_video_streaming](../records/video-0voice-audio-video-streaming-bf7a47cf.md) | partial | 2024-05-20T12:07:00Z | registry-derived |
 | [26hzhang/OptimizedImageEnhance](../records/video-26hzhang-optimizedimageenhance-6fceaaba.md) | partial | 2019-05-15T05:53:26Z | registry-derived |
-| [4gray/iptvnator](../records/video-4gray-iptvnator-5303edee.md) | partial | 2026-09-05T22:56:12Z | registry-derived |
+| [4gray/iptvnator](../records/video-4gray-iptvnator-5303edee.md) | partial | 2026-09-06T12:03:48Z | registry-derived |
 | [aandrew-me/ytDownloader](../records/video-aandrew-me-ytdownloader-cd56d660.md) | partial | 2026-09-02T18:29:51Z | registry-derived |
 | [AaronFeng753/Waifu2x-Extension-GUI](../records/video-aaronfeng753-waifu2x-extension-gui-26771eef.md) | partial | 2026-09-05T06:55:06Z | registry-derived |
 | [abhiTronix/vidgear](../records/video-abhitronix-vidgear-c204bb6d.md) | partial | 2026-05-18T07:11:58Z | registry-derived |
@@ -217,7 +217,7 @@ Records: `468`
 | [Archmage83/tvapk](../records/video-archmage83-tvapk-f1570f1b.md) | partial | 2026-08-12T01:43:48Z | registry-derived |
 | [ArcReel/ArcReel](../records/video-arcreel-arcreel-4fb0cbf7.md) | partial | 2026-09-05T09:05:14Z | registry-derived |
 | [argorar/WebMConverter](../records/video-argorar-webmconverter-f692b134.md) | partial | 2026-08-30T01:44:43Z | registry-derived |
-| [bacalhau-project/bacalhau](../records/video-bacalhau-project-bacalhau-f12bfb54.md) | partial | 2026-09-05T18:31:12Z | registry-derived |
+| [bacalhau-project/bacalhau](../records/video-bacalhau-project-bacalhau-f12bfb54.md) | partial | 2026-09-06T07:19:06Z | registry-derived |
 | [baresip/baresip](../records/video-baresip-baresip-c8033746.md) | partial | 2026-09-02T12:23:36Z | registry-derived |
 | [bennyhuo/Kotlin-Tutorials](../records/video-bennyhuo-kotlin-tutorials-d23521e7.md) | partial | 2023-11-03T08:45:12Z | registry-derived |
 | [bigbluebutton/bigbluebutton](../records/video-bigbluebutton-bigbluebutton-9d135955.md) | partial | 2026-09-04T19:37:41Z | registry-derived |
@@ -243,7 +243,7 @@ Records: `468`
 | [Dash-Industry-Forum/dash.js](../records/video-dash-industry-forum-dash-js-abec16bd.md) | partial | 2026-09-01T17:52:36Z | registry-derived |
 | [ddssingsong/webrtc_android](../records/video-ddssingsong-webrtc-android-5840a70d.md) | partial | 2025-01-09T05:55:34Z | registry-derived |
 | [deepmedia/Transcoder](../records/video-deepmedia-transcoder-eeb28236.md) | partial | 2024-11-05T03:24:32Z | registry-derived |
-| [deniscerri/ytdlnis](../records/video-deniscerri-ytdlnis-cd5c7c26.md) | partial | 2026-09-05T19:14:57Z | registry-derived |
+| [deniscerri/ytdlnis](../records/video-deniscerri-ytdlnis-cd5c7c26.md) | partial | 2026-09-06T12:17:58Z | registry-derived |
 | [dfaker/WebmGenerator](../records/video-dfaker-webmgenerator-c392529a.md) | partial | 2024-08-06T13:56:44Z | registry-derived |
 | [dinoosauro/ffmpeg-web](../records/video-dinoosauro-ffmpeg-web-9a2074f8.md) | partial | 2025-09-02T12:22:38Z | registry-derived |
 | [DistroAV/DistroAV](../records/video-distroav-distroav-8b67871a.md) | partial | 2026-08-23T14:09:10Z | registry-derived |
@@ -269,7 +269,7 @@ Records: `468`
 | [haasn/libplacebo](../records/video-haasn-libplacebo-801cca80.md) | partial | 2026-09-03T19:13:12Z | registry-derived |
 | [harry0703/MoneyPrinterTurbo](../records/video-harry0703-moneyprinterturbo-b29c8cda.md) | partial | 2026-09-04T08:30:00Z | registry-derived |
 | [HeiSir2014/M3U8-Downloader](../records/video-heisir2014-m3u8-downloader-23d9af39.md) | partial | 2025-03-19T15:28:29Z | registry-derived |
-| [heygen-com/hyperframes](../records/video-heygen-com-hyperframes-39e19bfa.md) | partial | 2026-09-06T04:18:15Z | registry-derived |
+| [heygen-com/hyperframes](../records/video-heygen-com-hyperframes-39e19bfa.md) | partial | 2026-09-06T10:25:31Z | registry-derived |
 | [HUANGCHIHHUNGLeo/claude-real-video](../records/video-huangchihhungleo-claude-real-video-3b18d05b.md) | partial | 2026-08-31T09:21:45Z | registry-derived |
 | [Hunlongyu/ZY-Player](../records/video-hunlongyu-zy-player-c74fadea.md) | partial | 2023-02-09T06:33:07Z | registry-derived |
 | [hybridgroup/gocv](../records/video-hybridgroup-gocv-daa4c904.md) | partial | 2026-05-28T08:16:03Z | registry-derived |
@@ -296,7 +296,7 @@ Records: `468`
 | [kunkundi/minirtc](../records/video-kunkundi-minirtc-8361058d.md) | partial | 2026-09-02T17:54:32Z | registry-derived |
 | [kuzand/Computer-Vision-Video-Lectures](../records/video-kuzand-computer-vision-video-lectures-43294b93.md) | partial | 2021-05-15T10:49:30Z | registry-derived |
 | [lagmoellertim/unsilence](../records/video-lagmoellertim-unsilence-d47dc940.md) | partial | 2023-03-28T04:57:13Z | registry-derived |
-| [Lake1059/FFmpegFreeUI](../records/video-lake1059-ffmpegfreeui-881ebe0f.md) | partial | 2026-09-05T16:15:16Z | registry-derived |
+| [Lake1059/FFmpegFreeUI](../records/video-lake1059-ffmpegfreeui-881ebe0f.md) | partial | 2026-09-06T12:07:30Z | registry-derived |
 | [Laverna/laverna](../records/video-laverna-laverna-22c712d2.md) | partial | 2021-05-30T22:18:41Z | registry-derived |
 | [leandromoreira/digital_video_introduction](../records/video-leandromoreira-digital-video-introduction-2ec5ca3b.md) | partial | 2026-09-02T21:43:42Z | registry-derived |
 | [leandromoreira/ffmpeg-libav-tutorial](../records/video-leandromoreira-ffmpeg-libav-tutorial-e71d8bef.md) | partial | 2026-06-18T14:18:13Z | registry-derived |
@@ -321,7 +321,7 @@ Records: `468`
 | [miru-project/miru-app](../records/video-miru-project-miru-app-f4628505.md) | partial | 2025-12-05T14:04:55Z | registry-derived |
 | [mltframework/mlt](../records/video-mltframework-mlt-5c98791c.md) | partial | 2026-09-05T23:54:18Z | registry-derived |
 | [mpc-hc/mpc-hc](../records/video-mpc-hc-mpc-hc-f58c3ebd.md) | partial | 2020-04-24T11:04:40Z | registry-derived |
-| [mpv-player/mpv](../records/video-mpv-player-mpv-9d355e25.md) | partial | 2026-09-05T23:27:27Z | registry-derived |
+| [mpv-player/mpv](../records/video-mpv-player-mpv-9d355e25.md) | partial | 2026-09-06T10:22:43Z | registry-derived |
 | [mpvnet-player/mpv.net](../records/video-mpvnet-player-mpv-net-f7891972.md) | partial | 2026-02-09T13:12:05Z | registry-derived |
 | [muaz-khan/RecordRTC](../records/video-muaz-khan-recordrtc-4bde1e7a.md) | partial | 2024-05-13T00:39:07Z | registry-derived |
 | [muaz-khan/RTCMultiConnection](../records/video-muaz-khan-rtcmulticonnection-a12fafe4.md) | partial | 2022-10-06T15:25:02Z | registry-derived |
@@ -341,7 +341,7 @@ Records: `468`
 | [numz/ComfyUI-SeedVR2_VideoUpscaler](../records/video-numz-comfyui-seedvr2-videoupscaler-5fe4601b.md) | partial | 2025-12-24T08:52:32Z | registry-derived |
 | [nyanmisaka/ffmpeg-rockchip](../records/video-nyanmisaka-ffmpeg-rockchip-bcfd437a.md) | partial | 2026-08-10T08:58:55Z | registry-derived |
 | [octimot/StoryToolkitAI](../records/video-octimot-storytoolkitai-45c088c7.md) | partial | 2026-07-28T06:37:10Z | registry-derived |
-| [open-ani/animeko](../records/video-open-ani-animeko-232bc173.md) | partial | 2026-09-06T04:20:13Z | registry-derived |
+| [open-ani/animeko](../records/video-open-ani-animeko-232bc173.md) | partial | 2026-09-06T11:50:31Z | registry-derived |
 | [opencast/opencast](../records/video-opencast-opencast-f369afbf.md) | partial | 2026-09-04T05:12:09Z | registry-derived |
 | [openframeworks/openFrameworks](../records/video-openframeworks-openframeworks-3f1cb743.md) | partial | 2026-08-31T15:16:59Z | registry-derived |
 | [openlibrecommunity/olcrtc](../records/video-openlibrecommunity-olcrtc-37d08706.md) | partial | 2026-09-01T22:01:02Z | registry-derived |
@@ -567,7 +567,7 @@ Records: `468`
 | [memvid/memvid](../records/video-memvid-memvid-bb0d9def.md) | partial | 2026-07-14T14:39:07Z | registry-derived |
 | [pathwaycom/pathway](../records/video-pathwaycom-pathway-a50dba92.md) | partial | 2026-09-04T13:04:04Z | registry-derived |
 | [rushindrasinha/youtube-shorts-pipeline](../records/video-rushindrasinha-youtube-shorts-pipeline-6bc17552.md) | partial | 2026-06-09T23:55:00Z | registry-derived |
-| [snapotter-hq/SnapOtter](../records/video-snapotter-hq-snapotter-7f75c7aa.md) | partial | 2026-09-05T15:41:04Z | registry-derived |
+| [snapotter-hq/SnapOtter](../records/video-snapotter-hq-snapotter-7f75c7aa.md) | partial | 2026-09-06T09:44:30Z | registry-derived |
 | [streamlink/streamlink](../records/video-streamlink-streamlink-ff62fe99.md) | partial | 2026-09-03T21:24:55Z | registry-derived |
 | [TeamNewPipe/NewPipe](../records/video-teamnewpipe-newpipe-c1ab8a41.md) | partial | 2026-08-31T12:57:33Z | registry-derived |
 | [towhee-io/towhee](../records/video-towhee-io-towhee-12a64678.md) | partial | 2024-10-18T00:01:12Z | registry-derived |
@@ -658,7 +658,7 @@ Records: `468`
 | [cropsly/ffmpeg-android-java](../records/video-cropsly-ffmpeg-android-java-b9341efc.md) | partial | 2021-07-31T10:27:20Z | registry-derived |
 | [datarhei/restreamer](../records/video-datarhei-restreamer-ebfeeaad.md) | partial | 2026-05-22T06:57:59Z | registry-derived |
 | [doubleZ0108/Digital-Media-Technology-PKU](../records/video-doublez0108-digital-media-technology-pku-8ed0714e.md) | partial | 2022-02-04T14:32:32Z | registry-derived |
-| [FreeTubeApp/FreeTube](../records/video-freetubeapp-freetube-f7bd248f.md) | partial | 2026-09-05T20:51:37Z | registry-derived |
+| [FreeTubeApp/FreeTube](../records/video-freetubeapp-freetube-f7bd248f.md) | partial | 2026-09-06T08:51:30Z | registry-derived |
 | [getopenscreen/openscreen](../records/video-getopenscreen-openscreen-37ac0137.md) | partial | 2026-09-05T09:19:01Z | registry-derived |
 | [Hao0321/video-autopilot-kit](../records/video-hao0321-video-autopilot-kit-125cdf3e.md) | partial | 2026-08-27T15:00:28Z | registry-derived |
 | [Hubs-Foundation/hubs](../records/video-hubs-foundation-hubs-e3d5e722.md) | partial | 2026-08-23T08:58:42Z | registry-derived |

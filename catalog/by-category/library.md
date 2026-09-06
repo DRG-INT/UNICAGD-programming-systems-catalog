@@ -1,6 +1,6 @@
 # Library
 
-Records: `5633`
+Records: `5636`
 
 ## Navigation
 
@@ -8,19 +8,19 @@ Records: `5633`
 
 ## Category Index
 
-[Api Abi Checker (218)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Api Abi Checker (220)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
 [Benchmarking (198)](benchmarking.md) · [Build System (989)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (117)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
-[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (129)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (230)](datetime.md)
+[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (175)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (230)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (455)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (645)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1454)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (269)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · **[Library (5633)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · **[Library (5636)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1137)](parser-lexer-ast.md) · [Precommit Ci Quality (302)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1138)](parser-lexer-ast.md) · [Precommit Ci Quality (303)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (605)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
@@ -3090,7 +3090,7 @@ Records: `5633`
 | antiope-sqs | 7.5.3 | 2020-10-22T11:56:15Z | [open](../records/haskell-antiope-sqs-1c2fe3a2.md) |
 | approximate | 0.3.5 | 2021-11-16T12:20:30Z | [open](../records/haskell-approximate-e841d553.md) |
 | arbtt | 0.12.0.3 | 2023-09-13T09:17:30Z | [open](../records/haskell-arbtt-99243143.md) |
-| arch-hs | 0.14.1 | 2026-06-25T20:36:05Z | [open](../records/haskell-arch-hs-aea67c7e.md) |
+| arch-hs | 0.15 | 2026-09-06T11:53:39Z | [open](../records/haskell-arch-hs-aea67c7e.md) |
 | archlinux | 1.3 | 2011-06-27T07:37:06Z | [open](../records/haskell-archlinux-b3826fbf.md) |
 | arithmoi | 0.13.4.0 | 2026-06-07T09:04:59Z | [open](../records/haskell-arithmoi-283c96dc.md) |
 | array | 0.5.8.0 | 2024-09-08T07:13:10Z | [open](../records/haskell-array-a882ed0a.md) |
@@ -3262,6 +3262,7 @@ Records: `5633`
 | digest | 0.0.2.1 | 2024-02-10T14:26:08Z | [open](../records/haskell-digest-e9e3ac37.md) |
 | digestive-functors | 0.8.4.2 | 2020-05-09T11:28:22Z | [open](../records/haskell-digestive-functors-3d7941b4.md) |
 | dimensional | 1.6.2 | 2026-01-01T18:04:42Z | [open](../records/haskell-dimensional-a93be405.md) |
+| diohsc | 0.1.17 | 2026-09-06T10:41:15Z | [open](../records/haskell-diohsc-65da82f6.md) |
 | discord-haskell | 1.19.0 | 2026-07-06T21:00:35Z | [open](../records/haskell-discord-haskell-19dfcfb7.md) |
 | distributed-process | 0.7.8 | 2025-02-05T01:53:43Z | [open](../records/haskell-distributed-process-1762df0a.md) |
 | distributed-process-p2p | 0.1.6.0 | 2026-07-02T15:52:23Z | [open](../records/haskell-distributed-process-p2p-0ede5648.md) |
@@ -3507,6 +3508,7 @@ Records: `5633`
 | hspec-meta | 2.11.17 | 2026-03-04T18:01:38Z | [open](../records/haskell-hspec-meta-c320ba84.md) |
 | hstatistics | 0.3.1 | 2020-08-06T03:28:21Z | [open](../records/haskell-hstatistics-add5c465.md) |
 | hsx | 0.10.5 | 2013-09-05T19:59:03Z | [open](../records/haskell-hsx-b7ee46e1.md) |
+| htalkat | 0.1.2.7 | 2026-09-06T10:41:24Z | [open](../records/haskell-htalkat-763c1531.md) |
 | HTF | 0.15.0.2 | 2024-05-03T04:09:35Z | [open](../records/haskell-htf-40696d39.md) |
 | htsn-import | 0.2.4 | 2015-03-10T11:15:42Z | [open](../records/haskell-htsn-import-9bc83b9a.md) |
 | HUnit | 1.6.2.0 | 2021-01-19T18:27:38Z | [open](../records/haskell-hunit-fee37d98.md) |
@@ -3530,6 +3532,7 @@ Records: `5633`
 | inline-r | 1.0.2 | 2025-07-11T12:32:55Z | [open](../records/haskell-inline-r-edc94016.md) |
 | interval-algebra | 2.2.0 | 2023-05-26T12:21:22Z | [open](../records/haskell-interval-algebra-1be2be58.md) |
 | intervals | 0.9.3 | 2024-12-04T12:40:51Z | [open](../records/haskell-intervals-ea17ba87.md) |
+| intricacy | 0.9.1.1 | 2026-09-06T10:36:04Z | [open](../records/haskell-intricacy-65280410.md) |
 | intro | 0.9.0.0 | 2020-08-28T12:01:20Z | [open](../records/haskell-intro-188e16cd.md) |
 | invariant | 0.6.5 | 2026-01-10T16:23:23Z | [open](../records/haskell-invariant-fc130899.md) |
 | io-classes | 1.11.0.0 | 2026-08-21T13:18:40Z | [open](../records/haskell-io-classes-39c4927a.md) |
@@ -4000,8 +4003,8 @@ Records: `5633`
 | yesod-form | 1.7.11 | 2026-07-29T16:00:00Z | [open](../records/haskell-yesod-form-9c06a755.md) |
 | yesod-markdown | 0.12.6.14 | 2024-05-08T15:15:31Z | [open](../records/haskell-yesod-markdown-8c3c7de7.md) |
 | yesod-persistent | 1.6.0.9 | 2026-06-16T20:33:49Z | [open](../records/haskell-yesod-persistent-425557b9.md) |
-| yesod-platform | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yesod-platform-cc0166b2.md) |
-| yesod-static | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yesod-static-f6ffdea6.md) |
+| yesod-platform | 1.2.13.3 | 2014-08-25T13:53:51Z | [open](../records/haskell-yesod-platform-cc0166b2.md) |
+| yesod-static | 1.6.1.3 | 2026-06-16T20:33:50Z | [open](../records/haskell-yesod-static-f6ffdea6.md) |
 | yi | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yi-3b78b64a.md) |
 | Z-Data | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-data-ad2a6ebb.md) |
 | Z-IO | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-io-e37841a7.md) |
@@ -4249,7 +4252,7 @@ Records: `5633`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-05T12:07:57Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-06T12:09:40Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -4856,7 +4859,7 @@ Records: `5633`
 | fand/vfx-js | partial | 2026-08-11T22:45:13Z | [open](../records/effects-fand-vfx-js-267d1f85.md) |
 | fearofcode/bateman | partial | 2014-05-12T03:19:06Z | [open](../records/effects-fearofcode-bateman-03c24113.md) |
 | FlexMonkey/ParticleCam | partial | 2019-02-15T15:49:32Z | [open](../records/effects-flexmonkey-particlecam-751034c0.md) |
-| fuddlesworth/PlasmaZones | partial | 2026-09-06T00:50:03Z | [open](../records/effects-fuddlesworth-plasmazones-25db8a0f.md) |
+| fuddlesworth/PlasmaZones | partial | 2026-09-06T05:09:17Z | [open](../records/effects-fuddlesworth-plasmazones-25db8a0f.md) |
 | GabrielSCabrera/nBody | partial | 2024-03-31T14:11:02Z | [open](../records/effects-gabrielscabrera-nbody-387acb4c.md) |
 | GarrettGunnell/Iterated-Function-Systems | partial | 2024-11-30T14:42:06Z | [open](../records/effects-garrettgunnell-iterated-function-systems-ae1c6e05.md) |
 | ggarra13/mrv2 | partial | 2026-09-06T01:59:49Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |

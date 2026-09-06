@@ -8,19 +8,19 @@ Records: `1606`
 
 ## Category Index
 
-[Api Abi Checker (218)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Api Abi Checker (220)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
 [Benchmarking (198)](benchmarking.md) · [Build System (989)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (117)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
-[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (129)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (230)](datetime.md)
+[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (175)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (230)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (455)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (645)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1454)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (269)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5633)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5636)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1137)](parser-lexer-ast.md) · [Precommit Ci Quality (302)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1138)](parser-lexer-ast.md) · [Precommit Ci Quality (303)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (605)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
@@ -1341,7 +1341,7 @@ Records: `1606`
 | maheshr-hub/ayanamsha | partial | 2026-05-26T05:10:14Z | [open](../records/space-maps-maheshr-hub-ayanamsha-18861b1b.md) |
 | MESAHub/mesa | partial | 2026-09-04T05:23:44Z | [open](../records/space-maps-mesahub-mesa-0abd6bf7.md) |
 | Raevn/com.pahub.content.plugin.store.map | partial | 2014-12-12T12:24:45Z | [open](../records/space-maps-raevn-com-pahub-content-plugin-store-map-5946b4b8.md) |
-| rhannequin/astronoby | partial | 2026-09-04T21:01:00Z | [open](../records/space-maps-rhannequin-astronoby-ced172a0.md) |
+| rhannequin/astronoby | partial | 2026-09-05T19:53:51Z | [open](../records/space-maps-rhannequin-astronoby-ced172a0.md) |
 | Rohit-singh-github/Cosmic-resume | partial | 2026-08-12T22:41:00Z | [open](../records/space-maps-rohit-singh-github-cosmic-resume-55310cad.md) |
 | sametcn99/my-stars-atlas | partial | 2026-08-15T00:06:02Z | [open](../records/space-maps-sametcn99-my-stars-atlas-26dfd7e9.md) |
 | segevl/dynamic_scheduler | partial | 2026-08-24T10:46:19Z | [open](../records/space-maps-segevl-dynamic-scheduler-4c37b302.md) |
@@ -1429,7 +1429,7 @@ Records: `1606`
 | cropsly/ffmpeg-android-java | partial | 2021-07-31T10:27:20Z | [open](../records/video-cropsly-ffmpeg-android-java-b9341efc.md) |
 | datarhei/restreamer | partial | 2026-05-22T06:57:59Z | [open](../records/video-datarhei-restreamer-ebfeeaad.md) |
 | doubleZ0108/Digital-Media-Technology-PKU | partial | 2022-02-04T14:32:32Z | [open](../records/video-doublez0108-digital-media-technology-pku-8ed0714e.md) |
-| FreeTubeApp/FreeTube | partial | 2026-09-05T20:51:37Z | [open](../records/video-freetubeapp-freetube-f7bd248f.md) |
+| FreeTubeApp/FreeTube | partial | 2026-09-06T08:51:30Z | [open](../records/video-freetubeapp-freetube-f7bd248f.md) |
 | getopenscreen/openscreen | partial | 2026-09-05T09:19:01Z | [open](../records/video-getopenscreen-openscreen-37ac0137.md) |
 | Hao0321/video-autopilot-kit | partial | 2026-08-27T15:00:28Z | [open](../records/video-hao0321-video-autopilot-kit-125cdf3e.md) |
 | Hubs-Foundation/hubs | partial | 2026-08-23T08:58:42Z | [open](../records/video-hubs-foundation-hubs-e3d5e722.md) |
@@ -1460,7 +1460,7 @@ Records: `1606`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Afilmory/afilmory | partial | 2026-09-02T16:37:03Z | [open](../records/photography-afilmory-afilmory-bc0398b6.md) |
+| Afilmory/afilmory | partial | 2026-09-06T09:48:23Z | [open](../records/photography-afilmory-afilmory-bc0398b6.md) |
 | baidut/BIMEF | partial | 2019-03-16T15:23:45Z | [open](../records/photography-baidut-bimef-5aec88db.md) |
 | CanHub/Android-Image-Cropper | partial | 2026-04-28T07:09:28Z | [open](../records/photography-canhub-android-image-cropper-809e8be6.md) |
 | dougdonohoe/ddphotos | partial | 2026-09-02T01:37:34Z | [open](../records/photography-dougdonohoe-ddphotos-39c5aac3.md) |

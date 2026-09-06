@@ -1,0 +1,103 @@
+# mmzk-env
+
+## Navigation
+
+[Catalog index](../index.md) · [Language: Haskell](../by-language/haskell.md) · [Category: Configuration](../by-category/configuration.md) · [Release watch](../release-watch.md) · [Apache/MIT license index](../license-index.md)
+
+<!-- robots.txt: compliant -->
+<!-- canonical: https://hackage.haskell.org/package/mmzk-env -->
+<!-- crawl-delay: 10 -->
+
+## Identity
+
+| Field | Value |
+| --- | --- |
+| Language branch | Haskell |
+| Category | Configuration |
+| Source type | registry_expansion |
+| Verification | registry-derived |
+| Canonical URL | [https://hackage.haskell.org/package/mmzk-env](https://hackage.haskell.org/package/mmzk-env) |
+| Source record ids | hackage_recent-6d113377a71df1 |
+
+## System Engineer Summary
+
+Hackage package recently uploaded by MMZK1526.
+
+## Operational Role
+
+For a systems engineer, mmzk-env belongs in the Haskell inventory as part of ecosystem capability
+mapping, dependency review, release awareness, and operational fit assessment.
+
+## Release Intelligence
+
+| Channel | Status | Version | Date | Source | Reason |
+| --- | --- | --- | --- | --- | --- |
+| stable | known | 0.6.0.0 | 2026-09-06T12:01:56Z | [https://hackage.haskell.org/packages/recent](https://hackage.haskell.org/packages/recent) |  |
+| preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
+
+## License And Use Alert
+
+| Field | Value |
+| --- | --- |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+
+## Engineering Notes
+
+- Treat category as `configuration` unless a later verified source gives a better classification.
+- Keep provenance attached when merging duplicate identities; source evidence is not disposable.
+- Latest stable metadata was observed from `https://hackage.haskell.org/packages/recent` at `2026-09-06T12:23:09+00:00`.
+- Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
+
+## Provenance
+
+<details>
+<summary><strong>Provenance Details</strong> (click to expand)</summary>
+
+| Kind | Status | Date | Detail |
+| --- | --- | --- | --- |
+| hackage_recent_uploads | registry-derived | 2026-09-06 | `{"kind": "hackage_recent_uploads", "retrieved": "2026-09-06", "status": "registry-derived"}` |
+
+</details>
+
+## Evidence
+
+<details open>
+<summary><strong>Evidence Records</strong> (click to collapse)</summary>
+
+Evidence records merged into this identity: `1`.
+
+- `hackage_recent-6d113377a71df1` from `hackage_recent` as `registry_expansion`
+
+</details>
+
+## Related Records
+
+| Name | Category | Page |
+| --- | --- | --- |
+| amazonka-config | Configuration | [open](haskell-amazonka-config-9bed5e72.md) |
+| configurator-pg | Configuration | [open](haskell-configurator-pg-3fb556ca.md) |
+| dotenv | Configuration | [open](haskell-dotenv-163ffcfd.md) |
+| genvalidity-hspec | Configuration | [open](haskell-genvalidity-hspec-98a8848c.md) |
+| opt-env-conf | Configuration | [open](haskell-opt-env-conf-c300fb32.md) |
+
+## Category Index
+
+[Api Abi Checker (220)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
+[Benchmarking (198)](../by-category/benchmarking.md) · [Build System (989)](../by-category/build-system.md) · [Cli (563)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (117)](../by-category/community-reference.md) · [Compiler (175)](../by-category/compiler.md) · [Compiler Diagnostics (24)](../by-category/compiler-diagnostics.md) · [Compression (51)](../by-category/compression.md)
+[Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · **[Configuration (130)](../by-category/configuration.md)** · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
+[Cryptography (175)](../by-category/cryptography.md) · [Data Science (38)](../by-category/data-science.md) · [Database Datastore (892)](../by-category/database-datastore.md) · [Datetime (230)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (102)](../by-category/dependency-manager.md) · [Documentation (103)](../by-category/documentation.md)
+[Embedded Hardware (59)](../by-category/embedded-hardware.md) · [Ffi Bindings (455)](../by-category/ffi-bindings.md) · [Filesystem Os (1584)](../by-category/filesystem-os.md) · [Formatter (645)](../by-category/formatter.md)
+[Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (355)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1454)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (436)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (269)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1432)](../by-category/language-specification.md) · [Library (5636)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (520)](../by-category/logging-observability.md) · [Machine Learning (788)](../by-category/machine-learning.md)
+[Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1035)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1138)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (303)](../by-category/precommit-ci-quality.md)
+[Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (15)](../by-category/sanitizer.md)
+[Security Sast (336)](../by-category/security-sast.md) · [Serialization (395)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (605)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (606)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1606)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (552)](../by-category/visualization-gui.md) · [Web Framework (476)](../by-category/web-framework.md)

@@ -1,6 +1,6 @@
 # Precommit Ci Quality
 
-Records: `302`
+Records: `303`
 
 ## Navigation
 
@@ -8,19 +8,19 @@ Records: `302`
 
 ## Category Index
 
-[Api Abi Checker (218)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Api Abi Checker (220)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
 [Benchmarking (198)](benchmarking.md) · [Build System (989)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (117)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
-[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (129)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (230)](datetime.md)
+[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (175)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (230)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (455)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (645)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1454)](ide-editor-integration.md)
 [Image Audio Dsp (436)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (269)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5633)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5636)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1137)](parser-lexer-ast.md) · **[Precommit Ci Quality (302)](precommit-ci-quality.md)**
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1138)](parser-lexer-ast.md) · **[Precommit Ci Quality (303)](precommit-ci-quality.md)**
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (605)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
@@ -204,6 +204,7 @@ Records: `302`
 | reproducible | 3.2.1 | 2026-08-25 22:40:02 UTC | [open](../records/r-reproducible-b5d3cb8f.md) |
 | rjd3qr | 0.4.2 | 2026-08-07 15:40:02 UTC | [open](../records/r-rjd3qr-cde462be.md) |
 | rmoriebricklayer | 0.3.7 | 2026-08-05 06:40:02 UTC | [open](../records/r-rmoriebricklayer-b4c96417.md) |
+| Rmpfr | 1.1-3 | 2026-09-06 11:40:08 UTC | [open](../records/r-rmpfr-c1712963.md) |
 | rstantools | 2.7.1 | 2026-08-29 15:20:07 UTC | [open](../records/r-rstantools-9906cc46.md) |
 | rxode2 | 5.1.6 | 2026-08-04 23:00:02 UTC | [open](../records/r-rxode2-4699fd91.md) |
 | salmonMSE | 3.0.0 | 2026-08-20 10:00:02 UTC | [open](../records/r-salmonmse-8060cab1.md) |
@@ -391,7 +392,7 @@ Records: `302`
 | besscroft/PicImpact | partial | 2026-07-03T13:33:00Z | [open](../records/photography-besscroft-picimpact-0dc1368b.md) |
 | boltgolt/howdy | partial | 2025-07-29T10:07:27Z | [open](../records/photography-boltgolt-howdy-772dcbb3.md) |
 | deric/DaVinciResolve-metadata | partial | 2025-10-13T08:04:47Z | [open](../records/photography-deric-davinciresolve-metadata-8a13e074.md) |
-| marcinz606/NegPy | partial | 2026-09-05T18:53:28Z | [open](../records/photography-marcinz606-negpy-13e4113f.md) |
+| marcinz606/NegPy | partial | 2026-09-06T10:43:10Z | [open](../records/photography-marcinz606-negpy-13e4113f.md) |
 | ramokz/phantom-camera | partial | 2026-09-01T20:36:49Z | [open](../records/photography-ramokz-phantom-camera-07b158cf.md) |
 | showmewebcam/showmewebcam | partial | 2024-08-14T16:42:44Z | [open](../records/photography-showmewebcam-showmewebcam-cd9dcd31.md) |
 | SpecialKO/SpecialK | partial | 2026-08-31T22:39:56Z | [open](../records/photography-specialko-specialk-d14b8655.md) |

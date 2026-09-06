@@ -8,19 +8,19 @@ Records: `436`
 
 ## Category Index
 
-[Api Abi Checker (218)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Api Abi Checker (220)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
 [Benchmarking (198)](benchmarking.md) · [Build System (989)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (117)](community-reference.md) · [Compiler (175)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
-[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (129)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (174)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (230)](datetime.md)
+[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (175)](cryptography.md) · [Data Science (38)](data-science.md) · [Database Datastore (892)](database-datastore.md) · [Datetime (230)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (103)](documentation.md)
 [Embedded Hardware (59)](embedded-hardware.md) · [Ffi Bindings (455)](ffi-bindings.md) · [Filesystem Os (1584)](filesystem-os.md) · [Formatter (645)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (355)](game-engine-game-dev.md) · [Ide Editor Integration (1454)](ide-editor-integration.md)
 **[Image Audio Dsp (436)](image-audio-dsp.md)** · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (269)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5633)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1432)](language-specification.md) · [Library (5636)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (520)](logging-observability.md) · [Machine Learning (788)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1035)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1137)](parser-lexer-ast.md) · [Precommit Ci Quality (302)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1138)](parser-lexer-ast.md) · [Precommit Ci Quality (303)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (15)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (395)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (605)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (606)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
@@ -356,7 +356,7 @@ Records: `436`
 | ModernFlyouts-Community/ModernFlyouts | partial | 2024-11-17T02:39:02Z | [open](../records/audio-modernflyouts-community-modernflyouts-61772da5.md) |
 | Moekotori/ECHO | partial | 2026-09-05T22:47:36Z | [open](../records/audio-moekotori-echo-a5eae6e0.md) |
 | morkt/GARbro | partial | 2024-07-08T19:36:58Z | [open](../records/audio-morkt-garbro-79127cac.md) |
-| mpv-player/mpv | partial | 2026-09-05T23:27:27Z | [open](../records/audio-mpv-player-mpv-42e3d95c.md) |
+| mpv-player/mpv | partial | 2026-09-06T10:22:43Z | [open](../records/audio-mpv-player-mpv-42e3d95c.md) |
 | mumble-voip/mumble | partial | 2026-09-05T09:20:58Z | [open](../records/audio-mumble-voip-mumble-d83c7a49.md) |
 | novoic/surfboard | partial | 2022-03-04T23:04:03Z | [open](../records/audio-novoic-surfboard-0947802a.md) |
 | npisanti/ofxPDSP | partial | 2024-08-09T02:07:03Z | [open](../records/audio-npisanti-ofxpdsp-71b17c19.md) |
@@ -388,7 +388,7 @@ Records: `436`
 | spotify/basic-pitch | partial | 2025-11-13T14:40:46Z | [open](../records/audio-spotify-basic-pitch-05b329a5.md) |
 | spotify/pedalboard | partial | 2026-09-04T21:22:46Z | [open](../records/audio-spotify-pedalboard-2950d53f.md) |
 | ssabug/fxseq | partial | 2023-10-28T00:28:31Z | [open](../records/audio-ssabug-fxseq-872becec.md) |
-| strawberrymusicplayer/strawberry | partial | 2026-09-06T03:43:22Z | [open](../records/audio-strawberrymusicplayer-strawberry-65e2b7e4.md) |
+| strawberrymusicplayer/strawberry | partial | 2026-09-06T08:27:04Z | [open](../records/audio-strawberrymusicplayer-strawberry-65e2b7e4.md) |
 | styx-emulator/styx-emulator | partial | 2026-08-13T20:47:32Z | [open](../records/audio-styx-emulator-styx-emulator-e035860e.md) |
 | suda/wireless-microphone | partial | 2023-03-02T21:23:41Z | [open](../records/audio-suda-wireless-microphone-ab136d62.md) |
 | SuperKogito/spafe | partial | 2025-03-20T16:16:12Z | [open](../records/audio-superkogito-spafe-354360b4.md) |
@@ -445,7 +445,7 @@ Records: `436`
 | dlemstra/Magick.NET | partial | 2026-09-04T09:44:42Z | [open](../records/photography-dlemstra-magick-net-d1b88e65.md) |
 | esafirm/android-image-picker | partial | 2024-07-24T01:49:10Z | [open](../records/photography-esafirm-android-image-picker-894942a1.md) |
 | esimov/triangle | partial | 2024-10-24T06:51:49Z | [open](../records/photography-esimov-triangle-6d1c633f.md) |
-| eszdman/PhotonCamera | partial | 2026-09-02T21:16:24Z | [open](../records/photography-eszdman-photoncamera-7ae407a8.md) |
+| eszdman/PhotonCamera | partial | 2026-09-06T08:33:42Z | [open](../records/photography-eszdman-photoncamera-7ae407a8.md) |
 | exif-heic-js/exif-heic-js | partial | 2025-07-03T14:31:17Z | [open](../records/photography-exif-heic-js-exif-heic-js-3a6db78a.md) |
 | Exiv2/exiv2 | partial | 2026-09-04T14:06:40Z | [open](../records/photography-exiv2-exiv2-ece25806.md) |
 | fengyuanchen/cropperjs | partial | 2026-09-04T13:27:05Z | [open](../records/photography-fengyuanchen-cropperjs-c586e3af.md) |
