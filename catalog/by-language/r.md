@@ -1,6 +1,6 @@
 # R
 
-Records: `1703`
+Records: `1704`
 
 ## Navigation
 
@@ -17,7 +17,7 @@ Records: `1703`
 [Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (457)](../by-category/ffi-bindings.md) · [Filesystem Os (1606)](../by-category/filesystem-os.md) · [Formatter (647)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (356)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1462)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (273)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1437)](../by-category/language-specification.md) · [Library (5691)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1437)](../by-category/language-specification.md) · [Library (5692)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (528)](../by-category/logging-observability.md) · [Machine Learning (793)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1037)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1190)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (308)](../by-category/precommit-ci-quality.md)
@@ -855,6 +855,7 @@ Records: `1703`
 | [klassR](../records/r-klassr-28fd0f6f.md) | 1.0.7 | 2026-08-21 12:00:02 UTC | registry-derived |
 | [kpp2019](../records/r-kpp2019-840b1a87.md) | 0.0.1 | 2026-08-20 14:10:09 UTC | registry-derived |
 | [ks](../records/r-ks-4dbea772.md) | 1.15.3 | 2026-08-04 13:30:02 UTC | registry-derived |
+| [kstIO](../records/r-kstio-6edcb41d.md) | 0.6-0 | 2026-09-07 03:50:02 UTC | registry-derived |
 | [kstMatrix](../records/r-kstmatrix-b1aac5cc.md) | 3.0-0 | 2026-09-01 16:10:02 UTC | registry-derived |
 | [L0ggm](../records/r-l0ggm-774dff6a.md) | 0.1.2 | 2026-08-26 18:10:02 UTC | registry-derived |
 | [labelled](../records/r-labelled-b07b2d3f.md) | 2.16.1 | 2026-08-20 14:30:07 UTC | registry-derived |
@@ -1452,7 +1453,7 @@ Records: `1703`
 | [mlr3forecast](../records/r-mlr3forecast-518a6d55.md) | 0.2.0 | 2026-08-24 10:10:08 UTC | registry-derived |
 | [modelbased](../records/r-modelbased-b0f2246b.md) | 0.17.0 | 2026-08-28 11:00:02 UTC | registry-derived |
 | [nat.nblast](../records/r-nat-nblast-46ad6118.md) | 1.6.10 | 2026-08-25 06:30:02 UTC | registry-derived |
-| [neuralnetwork](../records/r-neuralnetwork-f10a4fe0.md) | 0.1.0 | 2026-06-20 14:10:08 UTC | registry-derived |
+| [neuralnetwork](../records/r-neuralnetwork-f10a4fe0.md) | 0.1.1 | 2026-09-07 03:20:02 UTC | registry-derived |
 | [NPLStoolbox](../records/r-nplstoolbox-cbcaf59a.md) | 1.1.1 | 2026-08-21 06:30:09 UTC | registry-derived |
 | [nuggets](../records/r-nuggets-916932e6.md) | 2.2.3 | 2026-08-20 13:10:03 UTC | registry-derived |
 | [orbweaver](../records/r-orbweaver-0f2a3778.md) | 0.18.3 | 2026-09-02 23:30:02 UTC | registry-derived |

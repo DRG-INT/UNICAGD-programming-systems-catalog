@@ -1,6 +1,6 @@
 # Library
 
-Records: `5691`
+Records: `5692`
 
 ## Navigation
 
@@ -17,7 +17,7 @@ Records: `5691`
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1606)](filesystem-os.md) · [Formatter (647)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1437)](language-specification.md) · **[Library (5691)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1437)](language-specification.md) · **[Library (5692)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (528)](logging-observability.md) · [Machine Learning (793)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1037)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1190)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
@@ -2721,6 +2721,7 @@ Records: `5691`
 | klassR | 1.0.7 | 2026-08-21 12:00:02 UTC | [open](../records/r-klassr-28fd0f6f.md) |
 | kpp2019 | 0.0.1 | 2026-08-20 14:10:09 UTC | [open](../records/r-kpp2019-840b1a87.md) |
 | ks | 1.15.3 | 2026-08-04 13:30:02 UTC | [open](../records/r-ks-4dbea772.md) |
+| kstIO | 0.6-0 | 2026-09-07 03:50:02 UTC | [open](../records/r-kstio-6edcb41d.md) |
 | kstMatrix | 3.0-0 | 2026-09-01 16:10:02 UTC | [open](../records/r-kstmatrix-b1aac5cc.md) |
 | L0ggm | 0.1.2 | 2026-08-26 18:10:02 UTC | [open](../records/r-l0ggm-774dff6a.md) |
 | labelled | 2.16.1 | 2026-08-20 14:30:07 UTC | [open](../records/r-labelled-b07b2d3f.md) |
@@ -4208,7 +4209,7 @@ Records: `5691`
 | shimmer_animation | 2.2.2+1 | 2025-11-29T10:20:37.341048Z | [open](../records/dart-shimmer-animation-abb9b77d.md) |
 | showcaseview | 5.1.0 | 2026-06-17T12:20:38.152717Z | [open](../records/dart-showcaseview-0f397506.md) |
 | siri_wave | 2.3.1 | 2026-02-24T17:37:51.391877Z | [open](../records/dart-siri-wave-cbc2e05c.md) |
-| smooth_sheets | 1.1.2 | 2026-08-25T00:30:55.340463Z | [open](../records/dart-smooth-sheets-c675e8a6.md) |
+| smooth_sheets | 1.2.0 | 2026-09-07T04:37:22.285892Z | [open](../records/dart-smooth-sheets-c675e8a6.md) |
 | soft_edge_blur | 0.1.3 | 2024-09-28T15:22:06.400166Z | [open](../records/dart-soft-edge-blur-87c56283.md) |
 | sprung | 3.0.1 | 2022-07-27T13:31:26.056844Z | [open](../records/dart-sprung-e8d88d04.md) |
 | step_progress_indicator | 1.0.2 | 2022-01-02T16:21:17.342596Z | [open](../records/dart-step-progress-indicator-6570906c.md) |
@@ -4262,7 +4263,7 @@ Records: `5691`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-07T04:12:50Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-07T04:45:08Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4743,7 +4744,7 @@ Records: `5691`
 | jonnyhyman/PyBurn | partial | 2017-09-26T21:09:32Z | [open](../records/space-engines-jonnyhyman-pyburn-6c49c451.md) |
 | kyleniemeyer/gas-dynamics-notes | partial | 2026-07-29T22:00:09Z | [open](../records/space-engines-kyleniemeyer-gas-dynamics-notes-88f66440.md) |
 | kyleniemeyer/rocket-propulsion | partial | 2026-07-29T17:41:03Z | [open](../records/space-engines-kyleniemeyer-rocket-propulsion-880f0ccd.md) |
-| LoicViennois/KSP-DeltaV-Planner | partial | 2026-09-05T07:43:37Z | [open](../records/space-engines-loicviennois-ksp-deltav-planner-2a9f4275.md) |
+| LoicViennois/KSP-DeltaV-Planner | partial | 2026-09-06T13:16:47Z | [open](../records/space-engines-loicviennois-ksp-deltav-planner-2a9f4275.md) |
 | nmisyats/KSP-MGA-Planner | partial | 2026-06-08T16:41:24Z | [open](../records/space-engines-nmisyats-ksp-mga-planner-5c02c9bb.md) |
 | podgorskiy/KeplerOrbits | partial | 2023-04-02T23:28:28Z | [open](../records/space-engines-podgorskiy-keplerorbits-bce5842d.md) |
 | RocketPy-Team/RocketPy | partial | 2026-08-24T20:24:28Z | [open](../records/space-engines-rocketpy-team-rocketpy-dc6ba7fb.md) |
@@ -5518,7 +5519,7 @@ Records: `5691`
 | las-nish/NASM-Assembly-Collection | partial | 2022-03-29T03:18:01Z | [open](../records/assembly-las-nish-nasm-assembly-collection-a42cbaf3.md) |
 | ldlaur/ares | partial | 2026-07-08T19:32:26Z | [open](../records/assembly-ldlaur-ares-cf2f6d60.md) |
 | mattdibi/redox-keyboard | partial | 2026-05-26T18:15:22Z | [open](../records/assembly-mattdibi-redox-keyboard-e1f3e991.md) |
-| MattPD/cpplinks | partial | 2026-09-06T03:15:03Z | [open](../records/assembly-mattpd-cpplinks-29eb7bcc.md) |
+| MattPD/cpplinks | partial | 2026-09-07T04:59:35Z | [open](../records/assembly-mattpd-cpplinks-29eb7bcc.md) |
 | meribold/btry | partial | 2026-08-02T18:34:33Z | [open](../records/assembly-meribold-btry-acc80abb.md) |
 | mmcloughlin/avo | partial | 2026-09-01T05:34:18Z | [open](../records/assembly-mmcloughlin-avo-46167d30.md) |
 | mohitmishra786/amILearningEnough | partial | 2026-03-26T16:42:23Z | [open](../records/assembly-mohitmishra786-amilearningenough-299c3826.md) |

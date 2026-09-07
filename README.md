@@ -1,6 +1,6 @@
 # UNICAGD Programming Systems Discovery Catalog
 
-Generated: `2026-09-07T04:22:33+00:00`
+Generated: `2026-09-07T05:23:02+00:00`
 
 This repository is a Markdown explorer for a systems-engineering programming corpus. It preserves the master JSON seed, expands it with registry-derived ecosystem records, and tracks release metadata without guessing unknown dates.
 
@@ -23,7 +23,7 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 [Embedded Hardware (60)](catalog/by-category/embedded-hardware.md) · [Ffi Bindings (457)](catalog/by-category/ffi-bindings.md) · [Filesystem Os (1606)](catalog/by-category/filesystem-os.md) · [Formatter (647)](catalog/by-category/formatter.md)
 [Framework (63)](catalog/by-category/framework.md) · [Fuzzer (57)](catalog/by-category/fuzzer.md) · [Game Engine Game Dev (356)](catalog/by-category/game-engine-game-dev.md) · [Ide Editor Integration (1462)](catalog/by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](catalog/by-category/image-audio-dsp.md) · [Interop Bindings (62)](catalog/by-category/interop-bindings.md) · [Interpreter Runtime (273)](catalog/by-category/interpreter-runtime.md) · [Jit Vm (64)](catalog/by-category/jit-vm.md)
-[Language Server (29)](catalog/by-category/language-server.md) · [Language Specification (1437)](catalog/by-category/language-specification.md) · [Library (5691)](catalog/by-category/library.md) · [Lint Plugin (1)](catalog/by-category/lint-plugin.md)
+[Language Server (29)](catalog/by-category/language-server.md) · [Language Specification (1437)](catalog/by-category/language-specification.md) · [Library (5692)](catalog/by-category/library.md) · [Lint Plugin (1)](catalog/by-category/lint-plugin.md)
 [Lint Rule Pack (48)](catalog/by-category/lint-rule-pack.md) · [Linter (348)](catalog/by-category/linter.md) · [Logging Observability (528)](catalog/by-category/logging-observability.md) · [Machine Learning (793)](catalog/by-category/machine-learning.md)
 [Math Numeric Scientific (88)](catalog/by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](catalog/by-category/memory-analyzer.md) · [Message Broker (40)](catalog/by-category/message-broker.md) · [Networking Http (1037)](catalog/by-category/networking-http.md)
 [Other (14)](catalog/by-category/other.md) · [Package Manager (442)](catalog/by-category/package-manager.md) · [Parser Lexer Ast (1190)](catalog/by-category/parser-lexer-ast.md) · [Precommit Ci Quality (308)](catalog/by-category/precommit-ci-quality.md)
@@ -37,12 +37,12 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 | Metric | Count |
 | --- | ---: |
 | Source records | 968 |
-| Canonical identity pages | 27521 |
+| Canonical identity pages | 27522 |
 | Expansion records added | 8605 |
 | Release checks attempted | 1200 |
-| Known stable release fields | 10197 |
+| Known stable release fields | 10198 |
 | Unknown stable release fields | 17324 |
-| Fetch errors recorded | 1000 |
+| Fetch errors recorded | 1002 |
 | Target identity count | 24000 |
 
 ## Language Scope

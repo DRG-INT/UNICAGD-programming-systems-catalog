@@ -17,7 +17,7 @@ Records: `528`
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1606)](filesystem-os.md) · [Formatter (647)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1437)](language-specification.md) · [Library (5691)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1437)](language-specification.md) · [Library (5692)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · **[Logging Observability (528)](logging-observability.md)** · [Machine Learning (793)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1037)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1190)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
@@ -439,7 +439,7 @@ Records: `528`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ermersonmoura/LOGAN-Hypersonic-Vehicle-Model | partial | 2026-08-30T22:21:41Z | [open](../records/space-engines-ermersonmoura-logan-hypersonic-vehicle-model-4f60a80f.md) |
+| ermersonmoura/LOGAN-Hypersonic-Vehicle-Model | partial | 2026-09-06T15:33:01Z | [open](../records/space-engines-ermersonmoura-logan-hypersonic-vehicle-model-4f60a80f.md) |
 
 ## Space Maps
 
