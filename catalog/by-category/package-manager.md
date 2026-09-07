@@ -375,7 +375,7 @@ Records: `442`
 | appliedapp/rusty_lights | partial | 2026-05-04T20:20:12Z | [open](../records/effects-appliedapp-rusty-lights-c67cc805.md) |
 | Audio4Linux/JDSP4Linux | partial | 2026-08-29T16:29:46Z | [open](../records/effects-audio4linux-jdsp4linux-e90e4af9.md) |
 | beinteractive/LWRPAmbientOcclusion | partial | 2019-10-04T22:49:34Z | [open](../records/effects-beinteractive-lwrpambientocclusion-7b85e0e3.md) |
-| CialloKing/ba-click-fx | partial | 2026-09-05T21:17:11Z | [open](../records/effects-cialloking-ba-click-fx-b842180a.md) |
+| CialloKing/ba-click-fx | partial | 2026-09-06T21:23:29Z | [open](../records/effects-cialloking-ba-click-fx-b842180a.md) |
 | CyberAgentGameEntertainment/NovaShader | partial | 2026-09-03T12:51:05Z | [open](../records/effects-cyberagentgameentertainment-novashader-cfdfe2cf.md) |
 | demonixis/SSGI-URP | partial | 2020-03-11T06:40:26Z | [open](../records/effects-demonixis-ssgi-urp-4db7e7d8.md) |
 | GarrettGunnell/Post-Processing | partial | 2024-06-30T11:16:48Z | [open](../records/effects-garrettgunnell-post-processing-2bb2ca4a.md) |
@@ -400,7 +400,7 @@ Records: `442`
 | attenlabs/saa-sdk | partial | 2026-07-15T20:52:27Z | [open](../records/audio-attenlabs-saa-sdk-feb070cb.md) |
 | Audio4Linux/JDSP4Linux | partial | 2026-08-29T16:29:46Z | [open](../records/audio-audio4linux-jdsp4linux-effd41ab.md) |
 | collidingScopes/arpeggiator | unknown | github_latest_release_missing | [open](../records/audio-collidingscopes-arpeggiator-f2da818f.md) |
-| modelscope/FunASR | partial | 2026-09-06T17:56:33Z | [open](../records/audio-modelscope-funasr-8e089427.md) |
+| modelscope/FunASR | partial | 2026-09-06T22:56:47Z | [open](../records/audio-modelscope-funasr-8e089427.md) |
 | open-audio-stack/open-audio-stack-registry | partial | 2026-09-02T03:58:47Z | [open](../records/audio-open-audio-stack-open-audio-stack-registry-6bcfb8c0.md) |
 
 ## Video

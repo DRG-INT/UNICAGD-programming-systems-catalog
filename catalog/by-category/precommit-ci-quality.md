@@ -368,7 +368,7 @@ Records: `307`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | danboo/godot-RigidBodyParticles2D | partial | 2019-11-17T07:49:52Z | [open](../records/effects-danboo-godot-rigidbodyparticles2d-e51fc9a1.md) |
-| Greenysmac/awesome-davinci-resolve | partial | 2026-05-20T01:43:28Z | [open](../records/effects-greenysmac-awesome-davinci-resolve-af32b542.md) |
+| Greenysmac/awesome-davinci-resolve | partial | 2026-09-07T00:53:29Z | [open](../records/effects-greenysmac-awesome-davinci-resolve-af32b542.md) |
 | keijiro/KvantSpray | partial | 2017-02-10T14:14:54Z | [open](../records/effects-keijiro-kvantspray-5aa04f63.md) |
 | keijiro/SkeletalGeometricEffects | partial | 2019-02-06T10:00:29Z | [open](../records/effects-keijiro-skeletalgeometriceffects-41a913ff.md) |
 

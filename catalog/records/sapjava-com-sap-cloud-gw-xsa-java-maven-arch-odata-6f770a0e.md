@@ -58,7 +58,7 @@ assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| maven_central_search | registry-derived | 2026-09-06 | `{"kind": "maven_central_search", "query": "sap odata java", "retrieved": "2026-09-06", "status": "registry-derived"}` |
+| maven_central_search | registry-derived | 2026-09-07 | `{"kind": "maven_central_search", "query": "sap odata java", "retrieved": "2026-09-07", "status": "registry-derived"}` |
 
 </details>
 
