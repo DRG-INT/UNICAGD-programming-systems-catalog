@@ -1,6 +1,6 @@
 # Library
 
-Records: `5707`
+Records: `5713`
 
 ## Navigation
 
@@ -11,18 +11,18 @@ Records: `5707`
 [Api Abi Checker (221)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
 [Benchmarking (200)](benchmarking.md) · [Build System (993)](build-system.md) · [Cli (565)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (52)](compression.md)
-[Concurrency Parallelism (91)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Concurrency Parallelism (92)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (176)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (894)](database-datastore.md) · [Datetime (233)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (106)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1609)](filesystem-os.md) · [Formatter (648)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1610)](filesystem-os.md) · [Formatter (648)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1463)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1439)](language-specification.md) · **[Library (5707)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (30)](language-server.md) · [Language Specification (1440)](language-specification.md) · **[Library (5713)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (529)](logging-observability.md) · [Machine Learning (794)](machine-learning.md)
-[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1039)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1192)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
+[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1040)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1193)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (618)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (620)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (607)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
 [Undefined Behavior Analyzer (1618)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (557)](visualization-gui.md) · [Web Framework (477)](web-framework.md)
 
@@ -2547,6 +2547,7 @@ Records: `5707`
 | ccwr | 0.0.2 | 2026-09-03 12:00:16 UTC | [open](../records/r-ccwr-427b2bbd.md) |
 | CDMConnector | 2.7.0 | 2026-08-27 05:10:51 UTC | [open](../records/r-cdmconnector-84a814d3.md) |
 | CDSS | 1.0-0 | 2026-09-07 08:20:02 UTC | [open](../records/r-cdss-8356f605.md) |
+| cellGeometry | 0.6.4 | 2026-09-07 17:10:02 UTC | [open](../records/r-cellgeometry-af538b65.md) |
 | checkhelper | 1.0.1 | 2026-08-19 19:10:02 UTC | [open](../records/r-checkhelper-8b7440a8.md) |
 | chessResults | 2026.08.27 | 2026-08-28 07:01:26 UTC | [open](../records/r-chessresults-944d7b5e.md) |
 | childfree | 0.0.6 | 2026-08-21 05:44:45 UTC | [open](../records/r-childfree-6749c0c1.md) |
@@ -2731,6 +2732,7 @@ Records: `5707`
 | laGP | 1.5-10 | 2026-08-25 21:40:08 UTC | [open](../records/r-lagp-c5a2c2e9.md) |
 | lapop | 2.2 | 2026-09-05 16:00:03 UTC | [open](../records/r-lapop-2f3004d2.md) |
 | lasars | 0.1.1 | 2026-08-27 10:10:02 UTC | [open](../records/r-lasars-393f6654.md) |
+| latentFactoR | 0.0.9 | 2026-09-07 17:50:09 UTC | [open](../records/r-latentfactor-e750c49e.md) |
 | lattice | 0.23-1 | 2026-08-12 14:43:29 UTC | [open](../records/r-lattice-a35f5756.md) |
 | lava | 1.9.3 | 2026-08-20 09:20:18 UTC | [open](../records/r-lava-bd3f9778.md) |
 | lehdr | 1.2.0 | 2026-08-22 18:30:12 UTC | [open](../records/r-lehdr-8b8bf78b.md) |
@@ -2840,6 +2842,7 @@ Records: `5707`
 | pcatR | 1.0.1 | 2026-09-03 11:40:02 UTC | [open](../records/r-pcatr-ae7e7793.md) |
 | PCMRS | 0.1-6 | 2026-09-07 15:50:07 UTC | [open](../records/r-pcmrs-ba1e8e07.md) |
 | pdftools | 3.9.1 | 2026-09-01 10:20:02 UTC | [open](../records/r-pdftools-edd0e31f.md) |
+| persistence | 1.0.1 | 2026-09-07 16:30:02 UTC | [open](../records/r-persistence-0e70cf0a.md) |
 | persuasio | 0.1.0 | 2026-08-05 17:30:08 UTC | [open](../records/r-persuasio-de611642.md) |
 | pHMC | 0.1.0 | 2026-08-21 12:40:09 UTC | [open](../records/r-phmc-399fe1e4.md) |
 | phonics | 1.4.0 | 2026-08-23 11:20:08 UTC | [open](../records/r-phonics-4c3448f6.md) |
@@ -2865,6 +2868,7 @@ Records: `5707`
 | random | 0.2.7 | 2026-08-30 05:10:12 UTC | [open](../records/r-random-f1dfb428.md) |
 | randomForestRHF | 2.0.3 | 2026-09-01 14:10:02 UTC | [open](../records/r-randomforestrhf-7d8737c4.md) |
 | randomizr | 2.0.1 | 2026-08-27 05:10:15 UTC | [open](../records/r-randomizr-afc0b4b1.md) |
+| RandomWalker | 1.1.0 | 2026-09-07 17:40:08 UTC | [open](../records/r-randomwalker-ccf00407.md) |
 | rankingQ | 0.2.0 | 2026-08-21 13:50:14 UTC | [open](../records/r-rankingq-dcabb7ee.md) |
 | rapsimng | 0.6.0 | 2026-08-24 06:30:02 UTC | [open](../records/r-rapsimng-69090842.md) |
 | ratingtables | 0.2.2 | 2026-09-05 23:10:02 UTC | [open](../records/r-ratingtables-5c5cd2b3.md) |
@@ -3039,6 +3043,7 @@ Records: `5707`
 | xxdi | 1.26.8 | 2026-08-22 15:20:02 UTC | [open](../records/r-xxdi-2a68478e.md) |
 | yrnd | 0.1.6 | 2026-08-28 21:20:02 UTC | [open](../records/r-yrnd-9551d6ee.md) |
 | zarr | 0.5.0 | 2026-08-30 05:10:02 UTC | [open](../records/r-zarr-e90e14d2.md) |
+| ZeroOneDists | 1.0.1 | 2026-09-07 16:30:08 UTC | [open](../records/r-zeroonedists-1b0f7df7.md) |
 
 ## Haskell
 
@@ -3642,7 +3647,7 @@ Records: `5707`
 | microlens-platform | 0.4.4.2 | 2025-09-22T02:11:04Z | [open](../records/haskell-microlens-platform-d84a762f.md) |
 | microlens-th | 0.4.3.18 | 2025-09-22T02:11:06Z | [open](../records/haskell-microlens-th-dd935abc.md) |
 | midi | 0.2.2.6 | 2026-06-03T10:52:01Z | [open](../records/haskell-midi-0107fcf7.md) |
-| mini | 2.0.1.0 | 2026-09-06T17:59:38Z | [open](../records/haskell-mini-8b13af00.md) |
+| mini | 2.1.0.0 | 2026-09-07T18:07:57Z | [open](../records/haskell-mini-8b13af00.md) |
 | minio-hs | 1.7.0 | 2023-05-22T20:19:31Z | [open](../records/haskell-minio-hs-ee34dd94.md) |
 | miso | 1.13.0.0 | 2026-08-30T22:19:35Z | [open](../records/haskell-miso-6e93c710.md) |
 | MissingH | 1.6.0.3 | 2026-01-07T08:02:37Z | [open](../records/haskell-missingh-e7599c81.md) |
@@ -3727,6 +3732,7 @@ Records: `5707`
 | pointed | 5.0.5 | 2024-10-26T20:15:29Z | [open](../records/haskell-pointed-3abb5af0.md) |
 | pointedlist | 0.6.1 | 2014-04-26T18:26:59Z | [open](../records/haskell-pointedlist-c1fa5e8a.md) |
 | pointfree | 1.1.1.12 | 2024-04-25T18:18:03Z | [open](../records/haskell-pointfree-5fb93e41.md) |
+| polyparse | 1.13.1 | 2025-09-14T15:39:43Z | [open](../records/haskell-polyparse-6a89a9de.md) |
 | polysemy | 1.9.2.0 | 2024-06-03T19:01:17Z | [open](../records/haskell-polysemy-509acb27.md) |
 | polysemy-conc | 0.15.0.0 | 2026-04-29T11:50:17Z | [open](../records/haskell-polysemy-conc-7bbd3a8c.md) |
 | pontarius-xmpp | 0.5.7.2 | 2025-02-08T00:11:06Z | [open](../records/haskell-pontarius-xmpp-5a5fc4ed.md) |
@@ -4276,7 +4282,7 @@ Records: `5707`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-07T17:18:22Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-07T18:19:11Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4290,7 +4296,7 @@ Records: `5707`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-07T16:47:13Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-07T18:04:22Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -4899,7 +4905,7 @@ Records: `5707`
 | fand/vfx-js | partial | 2026-08-11T22:45:13Z | [open](../records/effects-fand-vfx-js-267d1f85.md) |
 | fearofcode/bateman | partial | 2014-05-12T03:19:06Z | [open](../records/effects-fearofcode-bateman-03c24113.md) |
 | FlexMonkey/ParticleCam | partial | 2019-02-15T15:49:32Z | [open](../records/effects-flexmonkey-particlecam-751034c0.md) |
-| fuddlesworth/PlasmaZones | partial | 2026-09-07T17:09:23Z | [open](../records/effects-fuddlesworth-plasmazones-25db8a0f.md) |
+| fuddlesworth/PlasmaZones | partial | 2026-09-07T18:06:22Z | [open](../records/effects-fuddlesworth-plasmazones-25db8a0f.md) |
 | GabrielSCabrera/nBody | partial | 2024-03-31T14:11:02Z | [open](../records/effects-gabrielscabrera-nbody-387acb4c.md) |
 | GarrettGunnell/Iterated-Function-Systems | partial | 2024-11-30T14:42:06Z | [open](../records/effects-garrettgunnell-iterated-function-systems-ae1c6e05.md) |
 | ggarra13/mrv2 | partial | 2026-09-06T21:49:23Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |
@@ -5080,7 +5086,7 @@ Records: `5707`
 | cdcseacave/TinyEXIF | partial | 2026-08-23T08:51:46Z | [open](../records/photography-cdcseacave-tinyexif-dfc5e6f5.md) |
 | CJT2325/CameraView | partial | 2019-06-18T13:42:24Z | [open](../records/photography-cjt2325-cameraview-689639ed.md) |
 | colorjs/color-space | partial | 2026-08-21T14:16:27Z | [open](../records/photography-colorjs-color-space-61c0254c.md) |
-| commons-app/apps-android-commons | partial | 2026-09-07T12:02:24Z | [open](../records/photography-commons-app-apps-android-commons-ce212c3e.md) |
+| commons-app/apps-android-commons | partial | 2026-09-07T13:51:48Z | [open](../records/photography-commons-app-apps-android-commons-ce212c3e.md) |
 | crazycodeboy/TakePhoto | partial | 2019-08-26T09:42:27Z | [open](../records/photography-crazycodeboy-takephoto-a3e04a78.md) |
 | dearDreamWeb/camera-watermark | partial | 2026-04-20T14:12:10Z | [open](../records/photography-deardreamweb-camera-watermark-f0af2ad8.md) |
 | dorukkumkumoglu/optocamzero | partial | 2026-08-16T08:16:43Z | [open](../records/photography-dorukkumkumoglu-optocamzero-b51f52d8.md) |
