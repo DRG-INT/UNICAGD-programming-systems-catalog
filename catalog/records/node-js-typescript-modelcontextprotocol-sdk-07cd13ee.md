@@ -40,7 +40,7 @@ part of interface contracts, migration safety, editor feedback, and large-codeba
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT |
+| Evidence | ISC License; https://api.github.com/licenses/isc; MIT License; https://api.github.com/licenses/mit; Other; {"key": "", "name": "", "url": ""} |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

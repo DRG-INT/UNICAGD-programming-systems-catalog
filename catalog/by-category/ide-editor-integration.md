@@ -1517,7 +1517,7 @@ Records: `1463`
 | oded8bit/Assembly-Lib | partial | 2018-03-19T16:54:22Z | [open](../records/assembly-oded8bit-assembly-lib-a552ed5a.md) |
 | robalb/x86-64-playground | partial | 2026-01-18T19:17:26Z | [open](../records/assembly-robalb-x86-64-playground-c440c3c0.md) |
 | sehugg/8bitworkshop | partial | 2026-09-07T08:04:49Z | [open](../records/assembly-sehugg-8bitworkshop-62e01cd8.md) |
-| Specy/asm-editor | partial | 2026-09-07T12:49:11Z | [open](../records/assembly-specy-asm-editor-c3b9e30b.md) |
+| Specy/asm-editor | partial | 2026-09-07T20:11:29Z | [open](../records/assembly-specy-asm-editor-c3b9e30b.md) |
 | ThomasJaeger/VisualMASM | partial | 2018-01-26T12:10:31Z | [open](../records/assembly-thomasjaeger-visualmasm-c78674ab.md) |
 
 ## Pattern language

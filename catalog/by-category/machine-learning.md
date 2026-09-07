@@ -496,11 +496,11 @@ Records: `795`
 | langchain-ai/langchain | partial | 2026-09-07T21:19:50Z | [open](../records/aim-s-langchain-ai-langchain-8b6774eb.md) |
 | linshenkx/prompt-optimizer | partial | 2026-08-26T08:07:53Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
 | lyogavin/airllm | partial | 2026-09-07T06:28:22Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
-| Mintplex-Labs/anything-llm | partial | 2026-09-07T22:16:57Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | partial | 2026-09-07T22:16:59Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| Mintplex-Labs/anything-llm | partial | 2026-09-07T23:14:44Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
+| NousResearch/hermes-agent | partial | 2026-09-07T23:07:30Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
 | onyx-dot-app/onyx | partial | 2026-09-07T13:37:03Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-07T18:46:53Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
-| openai/openai-agents-python | partial | 2026-09-07T22:17:31Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
+| openai/openai-agents-python | partial | 2026-09-07T23:08:14Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
 | OpenHands/OpenHands | partial | 2026-09-07T09:25:27Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
 | PyTorch | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-pytorch-ce083d68.md) |
 | rasbt/LLMs-from-scratch | partial | 2026-09-01T13:49:43Z | [open](../records/aim-s-rasbt-llms-from-scratch-2200f8f4.md) |
@@ -508,10 +508,10 @@ Records: `795`
 | ScrapeGraphAI/Scrapegraph-ai | partial | 2026-09-07T13:49:52Z | [open](../records/aim-s-scrapegraphai-scrapegraph-ai-8c5361dd.md) |
 | shareAI-lab/learn-claude-code | partial | 2026-08-26T16:38:22Z | [open](../records/aim-s-shareai-lab-learn-claude-code-eae6efc3.md) |
 | SillyTavern/SillyTavern | partial | 2026-09-07T21:09:17Z | [open](../records/aim-s-sillytavern-sillytavern-869f2cb0.md) |
-| TauricResearch/TradingAgents | partial | 2026-09-07T21:52:30Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
+| TauricResearch/TradingAgents | partial | 2026-09-07T22:51:54Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | partial | 2026-09-07T22:09:16Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| unslothai/unsloth | partial | 2026-09-07T23:10:28Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
 | VectifyAI/PageIndex | partial | 2026-09-07T19:10:07Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
 | virgiliojr94/book-to-skill | partial | 2026-09-06T21:24:33Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 

@@ -302,7 +302,7 @@ Records: `336`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| affaan-m/ECC | partial | 2026-09-07T22:09:47Z | [open](../records/aim-s-affaan-m-ecc-7e36794e.md) |
+| affaan-m/ECC | partial | 2026-09-07T22:36:32Z | [open](../records/aim-s-affaan-m-ecc-7e36794e.md) |
 
 ## Doctrines
 

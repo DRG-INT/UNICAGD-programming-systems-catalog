@@ -41,7 +41,7 @@ assessment.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT; MIT License; https://api.github.com/licenses/mit; https://www.nuget.org/packages/Microsoft.Kiota.Serialization.Json/2.0.0/license |
+| Evidence | MIT License; https://api.github.com/licenses/mit; MIT; https://www.nuget.org/packages/Microsoft.Kiota.Serialization.Json/2.0.0/license |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

@@ -40,7 +40,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | Mozilla Public License 2.0; https://api.github.com/licenses/mpl-2.0 |
+| Evidence | GPL (>= 2) |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

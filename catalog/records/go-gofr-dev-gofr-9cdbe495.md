@@ -40,9 +40,9 @@ migrations, performance, and operational recovery.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Apache-2.0 |
-| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
-| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
+| Detected family | Mixed license review |
+| Evidence | Boost Software License 1.0; https://api.github.com/licenses/bsl-1.0; Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 

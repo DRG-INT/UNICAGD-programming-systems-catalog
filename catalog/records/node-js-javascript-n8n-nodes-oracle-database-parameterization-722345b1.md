@@ -42,7 +42,7 @@ inventory as part of operator onboarding, API understanding, and upgrade review.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit |
+| Evidence | MIT |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

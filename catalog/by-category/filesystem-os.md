@@ -576,7 +576,7 @@ Records: `1611`
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-08-30T15:02:19Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-07T22:18:50Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-07T23:16:34Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -1617,7 +1617,7 @@ Records: `1611`
 | IlanVinograd/OS_32Bit | partial | 2025-01-18T11:17:35Z | [open](../records/assembly-ilanvinograd-os-32bit-c56640cb.md) |
 | leoncinardo/MascOS | partial | 2026-04-26T16:15:37Z | [open](../records/assembly-leoncinardo-mascos-e4ea93aa.md) |
 | maniekx86/stillalive-os | partial | 2025-09-16T11:55:24Z | [open](../records/assembly-maniekx86-stillalive-os-3b900496.md) |
-| moby/moby | partial | 2026-09-04T17:30:56Z | [open](../records/assembly-moby-moby-727c8e59.md) |
+| moby/moby | partial | 2026-09-07T13:39:58Z | [open](../records/assembly-moby-moby-727c8e59.md) |
 | OpenRakis/Spice86 | partial | 2026-09-05T19:48:21Z | [open](../records/assembly-openrakis-spice86-2cdaf101.md) |
 | owent/libcopp | partial | 2026-01-20T11:34:32Z | [open](../records/assembly-owent-libcopp-45c438d7.md) |
 | rwfpl/rewolf-wow64ext | partial | 2023-01-17T20:00:42Z | [open](../records/assembly-rwfpl-rewolf-wow64ext-24fabb9b.md) |
@@ -1627,7 +1627,7 @@ Records: `1611`
 | TravorLZH/TravorOS | partial | 2018-08-07T09:05:42Z | [open](../records/assembly-travorlzh-travoros-9961f938.md) |
 | wichtounet/thor-os | partial | 2024-11-19T10:12:06Z | [open](../records/assembly-wichtounet-thor-os-cf1384c0.md) |
 | WindowsNT/asm | partial | 2025-05-10T09:55:30Z | [open](../records/assembly-windowsnt-asm-00dbedd0.md) |
-| XXIIVV/oscean | partial | 2026-09-06T23:18:38Z | [open](../records/assembly-xxiivv-oscean-5e954d22.md) |
+| XXIIVV/oscean | partial | 2026-09-07T19:01:05Z | [open](../records/assembly-xxiivv-oscean-5e954d22.md) |
 | yhs0602/Android-Disassembler | partial | 2026-03-22T07:00:35Z | [open](../records/assembly-yhs0602-android-disassembler-1d409abc.md) |
 
 ## Pattern language
