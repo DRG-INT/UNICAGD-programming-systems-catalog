@@ -32,7 +32,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 1.2.1.6 | 2012-12-07T00:08:12Z | [https://hackage.haskell.org/package/zoom-cache](https://hackage.haskell.org/package/zoom-cache) |  |
+| stable | unknown |  |  | unknown | hackage_top_downloads_page_does_not_include_release_date |
 | preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 - Treat category as `library` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://hackage.haskell.org/package/zoom-cache` at `2026-09-07T08:27:40+00:00`.
+- Stable release is unknown because `hackage_top_downloads_page_does_not_include_release_date`.
 - Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
 
 ## Provenance

@@ -40,7 +40,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | Creative Commons Attribution Share Alike 4.0 International; https://api.github.com/licenses/cc-by-sa-4.0; Other |
+| Evidence | Other |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
@@ -57,7 +57,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-03 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:audio-plugin stars:>20", "retrieved": "2026-09-03", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-07 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:audio-plugin stars:>20", "retrieved": "2026-09-07", "status": "forge-cli-derived"}` |
 
 </details>
 

@@ -40,7 +40,7 @@ behavior, deployment packaging, embedding, upgrade cadence, and compatibility va
 | Field | Value |
 | --- | --- |
 | Detected family | Mixed license review |
-| Evidence | GPL-2; BSD 2-Clause "Simplified" License; https://api.github.com/licenses/bsd-2-clause |
+| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0; {"key": "", "name": "", "url": ""}; BSD 2-Clause "Simplified" License; https://api.github.com/licenses/bsd-2-clause |
 | Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes

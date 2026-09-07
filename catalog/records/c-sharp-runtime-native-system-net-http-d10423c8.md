@@ -40,9 +40,9 @@ runtime behavior, deployment packaging, embedding, upgrade cadence, and compatib
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | Other; http://go.microsoft.com/fwlink/?LinkId=329770 |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | MIT |
+| Evidence | MIT License; https://api.github.com/licenses/mit; http://go.microsoft.com/fwlink/?LinkId=329770 |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 

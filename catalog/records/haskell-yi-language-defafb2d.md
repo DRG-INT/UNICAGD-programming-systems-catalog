@@ -32,8 +32,8 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 0.19.2 | 2024-10-25T11:56:36Z | [https://hackage.haskell.org/package/yi-language](https://hackage.haskell.org/package/yi-language) |  |
-| candidate | partial | 0.19.1 |  | [https://hackage.haskell.org/package/yi-language](https://hackage.haskell.org/package/yi-language) | hackage_candidate_date_missing |
+| stable | unknown |  |  | unknown | hackage_top_downloads_page_does_not_include_release_date |
+| preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
@@ -47,8 +47,8 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 - Treat category as `language_specification` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://hackage.haskell.org/package/yi-language` at `2026-09-07T08:27:40+00:00`.
-- Preview/nightly metadata is unknown because `hackage_candidate_date_missing`.
+- Stable release is unknown because `hackage_top_downloads_page_does_not_include_release_date`.
+- Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
 
 ## Provenance
 

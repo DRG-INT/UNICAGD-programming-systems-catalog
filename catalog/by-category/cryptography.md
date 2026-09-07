@@ -218,7 +218,7 @@ Records: `176`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ente/ente | partial | 2026-09-07T08:20:08Z | [open](../records/go-ente-ente-f02441bb.md) |
+| ente/ente | partial | 2026-09-07T08:27:39Z | [open](../records/go-ente-ente-f02441bb.md) |
 
 ## Transmission Protocols
 

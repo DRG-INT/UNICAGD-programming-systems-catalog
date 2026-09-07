@@ -173,7 +173,7 @@ Records: `354`
 | [eduayme/RescueApp](../records/radars-eduayme-rescueapp-8a5fc109.md) | partial | 2026-04-14T01:20:23Z | registry-derived |
 | [Field-Robotics-Japan/UnitySensors](../records/radars-field-robotics-japan-unitysensors-5d4db334.md) | partial | 2026-05-05T06:03:19Z | registry-derived |
 | [geospace-code/georinex](../records/radars-geospace-code-georinex-2503e6c8.md) | partial | 2026-05-27T13:28:15Z | registry-derived |
-| [graphieros/vue-data-ui](../records/radars-graphieros-vue-data-ui-37b47478.md) | partial | 2026-09-06T08:14:16Z | registry-derived |
+| [graphieros/vue-data-ui](../records/radars-graphieros-vue-data-ui-37b47478.md) | partial | 2026-09-07T08:54:10Z | registry-derived |
 | [GREAT-WHU/GREAT-PVT](../records/radars-great-whu-great-pvt-c867732f.md) | partial | 2026-08-12T08:49:30Z | registry-derived |
 | [johntruckenbrodt/pyroSAR](../records/radars-johntruckenbrodt-pyrosar-83ed39f7.md) | partial | 2026-09-03T12:48:24Z | registry-derived |
 | [KonstantinosF/Flood-Detection---Satellite-Images](../records/radars-konstantinosf-flood-detection-satellite-images-a2d32a13.md) | partial | 2022-09-26T11:23:18Z | registry-derived |

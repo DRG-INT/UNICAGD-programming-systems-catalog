@@ -141,7 +141,7 @@ Records: `481`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [adplug/adplug](../records/audio-adplug-adplug-e2680a2a.md) | partial | 2026-07-22T18:14:03Z | registry-derived |
+| [adplug/adplug](../records/audio-adplug-adplug-e2680a2a.md) | partial | 2026-09-05T18:45:02Z | registry-derived |
 | [ARM-software/CMSIS-DSP](../records/audio-arm-software-cmsis-dsp-5aab5965.md) | partial | 2026-08-14T10:34:58Z | registry-derived |
 | [reales/retromulator](../records/audio-reales-retromulator-fdf0cc26.md) | partial | 2026-07-24T07:24:46Z | registry-derived |
 | [zueblin/Polaron](../records/audio-zueblin-polaron-4f0534e8.md) | partial | 2020-09-05T12:28:45Z | registry-derived |
@@ -167,26 +167,26 @@ Records: `481`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [akunull/piloslib](../records/audio-akunull-piloslib-6084501c.md) | unknown | github_latest_release_missing | registry-derived |
-| [atsushieno/uapmd](../records/audio-atsushieno-uapmd-592e19c7.md) | partial | 2026-09-05T05:18:50Z | registry-derived |
+| [atsushieno/uapmd](../records/audio-atsushieno-uapmd-592e19c7.md) | partial | 2026-09-06T18:10:19Z | registry-derived |
 | [AudioKit/AudioKitSynthOne](../records/audio-audiokit-audiokitsynthone-f3e02e66.md) | partial | 2022-03-14T16:12:43Z | registry-derived |
 | [bartolsthoorn/NVDSP](../records/audio-bartolsthoorn-nvdsp-0a2b1682.md) | partial | 2017-06-05T09:19:32Z | registry-derived |
 | [calf-studio-gear/calf](../records/audio-calf-studio-gear-calf-089316e7.md) | partial | 2026-07-31T15:17:16Z | registry-derived |
 | [ceva-ip/DPDFNet](../records/audio-ceva-ip-dpdfnet-64adc0ae.md) | partial | 2026-07-22T07:48:24Z | registry-derived |
-| [christofmuc/KnobKraft-orm](../records/audio-christofmuc-knobkraft-orm-c5ee3da6.md) | partial | 2026-09-03T12:15:07Z | registry-derived |
-| [Conceptual-Machines/magda-core](../records/audio-conceptual-machines-magda-core-daf4c398.md) | partial | 2026-09-04T22:07:23Z | registry-derived |
+| [christofmuc/KnobKraft-orm](../records/audio-christofmuc-knobkraft-orm-c5ee3da6.md) | partial | 2026-09-07T09:06:50Z | registry-derived |
+| [Conceptual-Machines/magda-core](../records/audio-conceptual-machines-magda-core-daf4c398.md) | partial | 2026-09-07T08:58:08Z | registry-derived |
 | [ddiakopoulos/MoogLadders](../records/audio-ddiakopoulos-moogladders-03832924.md) | partial | 2026-06-13T18:35:36Z | registry-derived |
-| [DropSnorz/OwlPlug](../records/audio-dropsnorz-owlplug-ab9f531b.md) | partial | 2026-09-03T21:41:09Z | registry-derived |
+| [DropSnorz/OwlPlug](../records/audio-dropsnorz-owlplug-ab9f531b.md) | partial | 2026-09-07T06:24:41Z | registry-derived |
 | [fedden/RenderMan](../records/audio-fedden-renderman-b1df24f8.md) | partial | 2021-12-02T21:11:26Z | registry-derived |
 | [gnuradio/gnuradio](../records/audio-gnuradio-gnuradio-f6f01d2f.md) | partial | 2026-08-27T23:02:01Z | registry-derived |
 | [HEnquist/camilladsp](../records/audio-henquist-camilladsp-382264e4.md) | partial | 2026-09-06T07:32:25Z | registry-derived |
 | [hifiberry/hifiberry-os](../records/audio-hifiberry-hifiberry-os-5ddcb398.md) | partial | 2026-09-05T08:24:01Z | registry-derived |
 | [hollance/lost-and-found-piano](../records/audio-hollance-lost-and-found-piano-757e2e12.md) | partial | 2026-07-12T14:06:30Z | registry-derived |
-| [jameshball/osci-render](../records/audio-jameshball-osci-render-c76ba818.md) | partial | 2026-09-02T20:27:14Z | registry-derived |
+| [jameshball/osci-render](../records/audio-jameshball-osci-render-c76ba818.md) | partial | 2026-09-07T06:40:09Z | registry-derived |
 | [jatinchowdhury18/ChowPhaser](../records/audio-jatinchowdhury18-chowphaser-48d2d1a6.md) | partial | 2022-02-23T08:14:59Z | registry-derived |
 | [josephernest/SamplerBox](../records/audio-josephernest-samplerbox-c23f8c2d.md) | partial | 2024-05-09T19:18:19Z | registry-derived |
 | [joshwcomeau/key-and-pad](../records/audio-joshwcomeau-key-and-pad-da5bc43a.md) | partial | 2022-12-12T07:44:58Z | registry-derived |
 | [juce-framework/JUCE](../records/audio-juce-framework-juce-7765dd0c.md) | partial | 2026-09-04T10:53:09Z | registry-derived |
-| [kushview/element](../records/audio-kushview-element-3d0d8878.md) | partial | 2026-08-27T13:13:29Z | registry-derived |
+| [kushview/element](../records/audio-kushview-element-3d0d8878.md) | partial | 2026-09-06T23:04:50Z | registry-derived |
 | [martinber/noaa-apt](../records/audio-martinber-noaa-apt-c11a6202.md) | partial | 2024-02-10T15:41:50Z | registry-derived |
 | [microsoft/torchscale](../records/audio-microsoft-torchscale-35290025.md) | partial | 2024-04-11T13:58:57Z | registry-derived |
 | [microsoft/UniSpeech](../records/audio-microsoft-unispeech-787685ec.md) | partial | 2024-04-05T13:14:48Z | registry-derived |
@@ -205,8 +205,8 @@ Records: `481`
 | [theanam/webaudio-oscilloscope](../records/audio-theanam-webaudio-oscilloscope-9e127858.md) | partial | 2022-12-11T10:25:31Z | registry-derived |
 | [vgorloff/VST3NetSend](../records/audio-vgorloff-vst3netsend-cad2ee75.md) | partial | 2021-11-24T19:19:46Z | registry-derived |
 | [xiangyuecn/Recorder](../records/audio-xiangyuecn-recorder-3cd39183.md) | partial | 2026-07-30T11:12:03Z | registry-derived |
-| [yonie/WetDelay](../records/audio-yonie-wetdelay-3872aefc.md) | partial | 2026-08-30T10:28:14Z | registry-derived |
-| [yonie/WetReverb](../records/audio-yonie-wetreverb-f71af34f.md) | partial | 2026-08-30T10:32:46Z | registry-derived |
+| [yonie/WetDelay](../records/audio-yonie-wetdelay-3872aefc.md) | partial | 2026-09-06T09:15:53Z | registry-derived |
+| [yonie/WetReverb](../records/audio-yonie-wetreverb-f71af34f.md) | partial | 2026-09-06T09:15:55Z | registry-derived |
 | [zycv/awesome-keyword-spotting](../records/audio-zycv-awesome-keyword-spotting-eca34ce7.md) | partial | 2022-05-23T15:58:11Z | registry-derived |
 
 ### Formatter
@@ -321,7 +321,7 @@ Records: `481`
 | [GullDSP/Circulate-VST](../records/audio-gulldsp-circulate-vst-58e43839.md) | partial | 2026-06-29T00:30:46Z | registry-derived |
 | [hollance/synth-plugin-book](../records/audio-hollance-synth-plugin-book-e6e2ebe2.md) | partial | 2024-06-22T16:06:23Z | registry-derived |
 | [hollance/synth-recipes](../records/audio-hollance-synth-recipes-dbad6169.md) | partial | 2023-07-22T17:14:14Z | registry-derived |
-| [hqrrr/PerceptoMap](../records/audio-hqrrr-perceptomap-9176716f.md) | partial | 2026-09-04T08:44:48Z | registry-derived |
+| [hqrrr/PerceptoMap](../records/audio-hqrrr-perceptomap-9176716f.md) | partial | 2026-09-07T09:12:51Z | registry-derived |
 | [hukenovs/dsp-theory](../records/audio-hukenovs-dsp-theory-fa2c75ff.md) | partial | 2026-04-21T18:12:35Z | registry-derived |
 | [iampawan/Flute-Music-Player](../records/audio-iampawan-flute-music-player-08b19a30.md) | partial | 2020-12-30T15:43:12Z | registry-derived |
 | [increpare/bfxr2](../records/audio-increpare-bfxr2-16674ccc.md) | partial | 2026-07-26T09:59:55Z | registry-derived |
@@ -364,7 +364,7 @@ Records: `481`
 | [psambit9791/jdsp](../records/audio-psambit9791-jdsp-3551bb45.md) | partial | 2026-06-16T01:00:10Z | registry-derived |
 | [r9y9/pysptk](../records/audio-r9y9-pysptk-bef7db25.md) | partial | 2024-07-16T11:33:16Z | registry-derived |
 | [r9y9/SPTK](../records/audio-r9y9-sptk-f464315b.md) | partial | 2022-06-05T14:07:16Z | registry-derived |
-| [raphaelsalaja/audio](../records/audio-raphaelsalaja-audio-f9f17e42.md) | partial | 2026-04-26T19:06:36Z | registry-derived |
+| [raphaelsalaja/audio](../records/audio-raphaelsalaja-audio-f9f17e42.md) | partial | 2026-09-05T23:19:50Z | registry-derived |
 | [RCJacH/RCSiner](../records/audio-rcjach-rcsiner-507d465d.md) | partial | 2025-08-29T21:28:13Z | registry-derived |
 | [readbeyond/aeneas](../records/audio-readbeyond-aeneas-05f471e1.md) | partial | 2026-07-25T10:22:31Z | registry-derived |
 | [rom1v/sndcpy](../records/audio-rom1v-sndcpy-b4d75ce7.md) | partial | 2026-07-15T12:00:54Z | registry-derived |
@@ -383,7 +383,7 @@ Records: `481`
 | [styx-emulator/styx-emulator](../records/audio-styx-emulator-styx-emulator-e035860e.md) | partial | 2026-08-13T20:47:32Z | registry-derived |
 | [suda/wireless-microphone](../records/audio-suda-wireless-microphone-ab136d62.md) | partial | 2023-03-02T21:23:41Z | registry-derived |
 | [SuperKogito/spafe](../records/audio-superkogito-spafe-354360b4.md) | partial | 2025-03-20T16:16:12Z | registry-derived |
-| [surge-synthesizer/surge](../records/audio-surge-synthesizer-surge-87b5aeea.md) | partial | 2026-09-03T14:51:30Z | registry-derived |
+| [surge-synthesizer/surge](../records/audio-surge-synthesizer-surge-87b5aeea.md) | partial | 2026-09-05T09:17:39Z | registry-derived |
 | [swasun/VQ-VAE-Speech](../records/audio-swasun-vq-vae-speech-68327a4e.md) | partial | 2019-08-13T08:18:37Z | registry-derived |
 | [SynthstromAudible/DelugeFirmware](../records/audio-synthstromaudible-delugefirmware-4c834ea8.md) | partial | 2026-09-07T02:04:18Z | registry-derived |
 | [thesofproject/sof](../records/audio-thesofproject-sof-05fedbf2.md) | partial | 2026-09-04T12:32:59Z | registry-derived |
@@ -419,13 +419,13 @@ Records: `481`
 | [atosystem/SpeechCLIP](../records/audio-atosystem-speechclip-84c2e9eb.md) | partial | 2022-11-25T01:12:24Z | registry-derived |
 | [chaosprint/glicol](../records/audio-chaosprint-glicol-c74a5bb7.md) | partial | 2025-04-06T14:42:57Z | registry-derived |
 | [DigitalPhonetics/IMS-Toucan](../records/audio-digitalphonetics-ims-toucan-96508b32.md) | partial | 2026-01-25T14:45:14Z | registry-derived |
-| [FluidSynth/fluidsynth](../records/audio-fluidsynth-fluidsynth-59e20ded.md) | partial | 2026-08-30T17:10:14Z | registry-derived |
+| [FluidSynth/fluidsynth](../records/audio-fluidsynth-fluidsynth-59e20ded.md) | partial | 2026-09-03T18:27:33Z | registry-derived |
 | [ga642381/SpeechPrompt](../records/audio-ga642381-speechprompt-37e497e1.md) | partial | 2025-04-10T06:13:59Z | registry-derived |
 | [grame-cncm/faust](../records/audio-grame-cncm-faust-d30f3de0.md) | partial | 2026-09-05T19:16:44Z | registry-derived |
 | [JiaoXianjun/BTLE](../records/audio-jiaoxianjun-btle-5c3bac18.md) | partial | 2026-06-08T19:24:34Z | registry-derived |
 | [kehanlu/DeSTA2](../records/audio-kehanlu-desta2-5232fec4.md) | partial | 2025-07-15T15:10:35Z | registry-derived |
 | [Lhx94As/Awesome-Spoken-Language-Identification](../records/audio-lhx94as-awesome-spoken-language-identification-08b180ab.md) | partial | 2024-04-22T02:36:06Z | registry-derived |
-| [maximecb/noisecraft](../records/audio-maximecb-noisecraft-da2cb83b.md) | partial | 2023-09-30T13:19:44Z | registry-derived |
+| [maximecb/noisecraft](../records/audio-maximecb-noisecraft-da2cb83b.md) | partial | 2026-09-06T14:42:55Z | registry-derived |
 | [mikeroyal/NLP-Guide](../records/audio-mikeroyal-nlp-guide-a451c2ca.md) | partial | 2024-01-04T22:26:02Z | registry-derived |
 | [soul-lang/SOUL](../records/audio-soul-lang-soul-4e26515a.md) | partial | 2022-07-21T06:44:06Z | registry-derived |
 | [supercollider/supercollider](../records/audio-supercollider-supercollider-aa734855.md) | partial | 2026-09-06T12:40:03Z | registry-derived |
@@ -459,13 +459,13 @@ Records: `481`
 | [michaelkolesidis/javascript-software-synthesizer](../records/audio-michaelkolesidis-javascript-software-synthesizer-eb9005f1.md) | 2.0.3 | 2023-07-02T21:18:04Z | registry-derived |
 | [NickWilkinson37/voxseg](../records/audio-nickwilkinson37-voxseg-e6b61853.md) | partial | 2022-09-07T03:24:39Z | registry-derived |
 | [nicolas-van/sonant-x](../records/audio-nicolas-van-sonant-x-77ab0696.md) | partial | 2025-06-18T05:44:39Z | registry-derived |
-| [petersalomonsen/javascriptmusic](../records/audio-petersalomonsen-javascriptmusic-27b85ba1.md) | partial | 2026-09-02T22:53:18Z | registry-derived |
+| [petersalomonsen/javascriptmusic](../records/audio-petersalomonsen-javascriptmusic-27b85ba1.md) | partial | 2026-09-06T04:48:42Z | registry-derived |
 | [r9y9/ttslearn](../records/audio-r9y9-ttslearn-56ff08d5.md) | partial | 2023-03-07T11:55:52Z | registry-derived |
 | [r9y9/wavenet_vocoder](../records/audio-r9y9-wavenet-vocoder-1f648aea.md) | partial | 2023-07-29T04:47:53Z | registry-derived |
 | [Ryuk17/SpeechAlgorithms](../records/audio-ryuk17-speechalgorithms-d103fbd7.md) | partial | 2026-01-25T09:43:34Z | registry-derived |
 | [schellingb/TinySoundFont](../records/audio-schellingb-tinysoundfont-3bc15017.md) | partial | 2026-07-19T05:23:36Z | registry-derived |
 | [schollz/miti](../records/audio-schollz-miti-7eaf2444.md) | partial | 2020-10-14T21:48:49Z | registry-derived |
-| [shorepine/tulipcc](../records/audio-shorepine-tulipcc-d302bec3.md) | partial | 2026-08-31T19:19:23Z | registry-derived |
+| [shorepine/tulipcc](../records/audio-shorepine-tulipcc-d302bec3.md) | partial | 2026-09-06T17:34:27Z | registry-derived |
 | [sinshu/meltysynth](../records/audio-sinshu-meltysynth-68e9ad82.md) | partial | 2026-03-15T11:09:14Z | registry-derived |
 | [sinshu/rustysynth](../records/audio-sinshu-rustysynth-f78a46e4.md) | partial | 2026-05-17T05:05:28Z | registry-derived |
 | [sonic-pi-net/sonic-pi](../records/audio-sonic-pi-net-sonic-pi-91c19c5c.md) | partial | 2026-08-12T16:51:53Z | registry-derived |
@@ -530,7 +530,7 @@ Records: `481`
 | [Sharad24/Neural-Voice-Cloning-with-Few-Samples](../records/audio-sharad24-neural-voice-cloning-with-few-samples-781d1118.md) | partial | 2021-02-23T10:11:25Z | registry-derived |
 | [snakers4/silero-vad](../records/audio-snakers4-silero-vad-5552d692.md) | partial | 2026-08-24T06:47:25Z | registry-derived |
 | [speechbrain/speechbrain](../records/audio-speechbrain-speechbrain-b2f2f03a.md) | partial | 2026-08-27T13:48:19Z | registry-derived |
-| [surikov/webaudiofont](../records/audio-surikov-webaudiofont-0d5c1d6f.md) | partial | 2026-03-26T22:58:45Z | registry-derived |
+| [surikov/webaudiofont](../records/audio-surikov-webaudiofont-0d5c1d6f.md) | partial | 2026-09-04T13:16:57Z | registry-derived |
 | [zya/granular](../records/audio-zya-granular-4578072c.md) | partial | 2021-08-16T13:36:16Z | registry-derived |
 
 ### Memory Analyzer
@@ -589,7 +589,7 @@ Records: `481`
 | [kfrlib/kfr](../records/audio-kfrlib-kfr-16ccf88e.md) | partial | 2026-08-19T17:28:01Z | registry-derived |
 | [lars76/swift-f0](../records/audio-lars76-swift-f0-15f21555.md) | partial | 2025-09-02T19:30:29Z | registry-derived |
 | [lucianoiam/castello](../records/audio-lucianoiam-castello-ed99de92.md) | partial | 2024-07-08T09:35:55Z | registry-derived |
-| [m1ckc3s/procedural-sounds](../records/audio-m1ckc3s-procedural-sounds-dbbd8e64.md) | unknown | github_latest_release_missing | registry-derived |
+| [m1ckc3s/procedural-sounds](../records/audio-m1ckc3s-procedural-sounds-dbbd8e64.md) | partial | 2026-08-18T05:05:08Z | registry-derived |
 | [marton78/pffft](../records/audio-marton78-pffft-c4ec5a52.md) | partial | 2026-09-03T11:44:51Z | registry-derived |
 | [peastman/ChorusExMachina](../records/audio-peastman-chorusexmachina-3e17f778.md) | partial | 2026-04-05T22:14:43Z | registry-derived |
 | [peastman/sso](../records/audio-peastman-sso-158443d0.md) | partial | 2026-08-22T15:33:58Z | registry-derived |
@@ -700,7 +700,7 @@ Records: `481`
 | [rsadsb/adsb_deku](../records/audio-rsadsb-adsb-deku-8c9a3700.md) | partial | 2026-01-04T16:18:33Z | registry-derived |
 | [sp-nitech/SPTK](../records/audio-sp-nitech-sptk-7cf4cfee.md) | partial | 2026-08-25T13:37:51Z | registry-derived |
 | [unchihugo/FluentFlyout](../records/audio-unchihugo-fluentflyout-e2e81b2d.md) | partial | 2026-09-07T00:48:37Z | registry-derived |
-| [zynthian/zynthian-ui](../records/audio-zynthian-zynthian-ui-308e1a33.md) | partial | 2026-09-03T14:13:35Z | registry-derived |
+| [zynthian/zynthian-ui](../records/audio-zynthian-zynthian-ui-308e1a33.md) | partial | 2026-09-06T20:31:32Z | registry-derived |
 
 ### Web Framework
 

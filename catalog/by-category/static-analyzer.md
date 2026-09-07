@@ -381,14 +381,14 @@ Records: `614`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| career-ops-hq/career-ops | partial | 2026-09-07T04:52:32Z | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
+| career-ops-hq/career-ops | partial | 2026-09-07T09:10:18Z | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
 | codeberg.org/momar/simple-scan-server | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-codeberg-org-momar-simple-scan-server-8e5010e0.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| paperless-ngx/paperless-ngx | partial | 2026-09-07T06:37:54Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
+| paperless-ngx/paperless-ngx | partial | 2026-09-07T08:27:58Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
 | ZhuLinsen/daily_stock_analysis | partial | 2026-09-06T12:34:16Z | [open](../records/aim-s-zhulinsen-daily-stock-analysis-509bb8f4.md) |
 
 ## Computer Graphics Software
@@ -599,7 +599,7 @@ Records: `614`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| gwastro/pycbc | partial | 2026-09-06T17:14:26Z | [open](../records/telescopes-gwastro-pycbc-b93b6565.md) |
+| gwastro/pycbc | partial | 2026-09-07T08:59:30Z | [open](../records/telescopes-gwastro-pycbc-b93b6565.md) |
 | Hrishikesh332/Astronomy_Analysis | partial | 2023-01-07T15:50:46Z | [open](../records/telescopes-hrishikesh332-astronomy-analysis-714231c8.md) |
 | iraf-community/iraf | partial | 2026-09-05T17:06:22Z | [open](../records/telescopes-iraf-community-iraf-5c34feb3.md) |
 | lightkurve/lightkurve | partial | 2026-08-25T19:58:28Z | [open](../records/telescopes-lightkurve-lightkurve-47762682.md) |

@@ -601,7 +601,7 @@ Records: `556`
 | rsadsb/adsb_deku | partial | 2026-01-04T16:18:33Z | [open](../records/audio-rsadsb-adsb-deku-8c9a3700.md) |
 | sp-nitech/SPTK | partial | 2026-08-25T13:37:51Z | [open](../records/audio-sp-nitech-sptk-7cf4cfee.md) |
 | unchihugo/FluentFlyout | partial | 2026-09-07T00:48:37Z | [open](../records/audio-unchihugo-fluentflyout-e2e81b2d.md) |
-| zynthian/zynthian-ui | partial | 2026-09-03T14:13:35Z | [open](../records/audio-zynthian-zynthian-ui-308e1a33.md) |
+| zynthian/zynthian-ui | partial | 2026-09-06T20:31:32Z | [open](../records/audio-zynthian-zynthian-ui-308e1a33.md) |
 
 ## Video
 

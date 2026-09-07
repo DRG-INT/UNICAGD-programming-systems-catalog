@@ -33,23 +33,23 @@ tooling, code generation, static analysis, and source transformation.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | unknown |  |  | unknown | github_latest_release_missing |
-| preview/nightly | unknown |  |  | unknown | github_prerelease_missing |
+| stable | partial |  | 2026-08-18T05:05:08Z | gh search repos topic:synthesizer stars:>50 | gh_search_reports_activity_not_release_version |
+| preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT + file LICENSE; MIT License; https://api.github.com/licenses/mit |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 
 - Treat category as `parser_lexer_ast` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Stable release is unknown because `github_latest_release_missing`.
-- Preview/nightly metadata is unknown because `github_prerelease_missing`.
+- Stable release is unknown because `gh_search_reports_activity_not_release_version`.
+- Preview/nightly metadata is unknown because `gh_search_has_no_standard_nightly_channel`.
 
 ## Provenance
 
@@ -58,7 +58,7 @@ tooling, code generation, static analysis, and source transformation.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-01 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:synthesizer stars:>50", "retrieved": "2026-09-01", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-07 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:synthesizer stars:>50", "retrieved": "2026-09-07", "status": "forge-cli-derived"}` |
 
 </details>
 

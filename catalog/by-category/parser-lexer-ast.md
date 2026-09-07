@@ -646,9 +646,9 @@ Records: `1191`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AstrBotDevs/AstrBot | partial | 2026-09-07T07:13:56Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
-| HKUDS/LightRAG | partial | 2026-09-07T08:23:50Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
-| labring/FastGPT | partial | 2026-09-07T05:11:47Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
+| AstrBotDevs/AstrBot | partial | 2026-09-07T09:14:32Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
+| HKUDS/LightRAG | partial | 2026-09-07T08:40:50Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
+| labring/FastGPT | partial | 2026-09-07T09:09:39Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Computer Graphics Software
 
@@ -1024,7 +1024,7 @@ Records: `1191`
 | kfrlib/kfr | partial | 2026-08-19T17:28:01Z | [open](../records/audio-kfrlib-kfr-16ccf88e.md) |
 | lars76/swift-f0 | partial | 2025-09-02T19:30:29Z | [open](../records/audio-lars76-swift-f0-15f21555.md) |
 | lucianoiam/castello | partial | 2024-07-08T09:35:55Z | [open](../records/audio-lucianoiam-castello-ed99de92.md) |
-| m1ckc3s/procedural-sounds | unknown | github_latest_release_missing | [open](../records/audio-m1ckc3s-procedural-sounds-dbbd8e64.md) |
+| m1ckc3s/procedural-sounds | partial | 2026-08-18T05:05:08Z | [open](../records/audio-m1ckc3s-procedural-sounds-dbbd8e64.md) |
 | marton78/pffft | partial | 2026-09-03T11:44:51Z | [open](../records/audio-marton78-pffft-c4ec5a52.md) |
 | peastman/ChorusExMachina | partial | 2026-04-05T22:14:43Z | [open](../records/audio-peastman-chorusexmachina-3e17f778.md) |
 | peastman/sso | partial | 2026-08-22T15:33:58Z | [open](../records/audio-peastman-sso-158443d0.md) |
@@ -1148,7 +1148,7 @@ Records: `1191`
 | jasonsturges/lunarphase-js | partial | 2024-03-01T22:53:58Z | [open](../records/telescopes-jasonsturges-lunarphase-js-0e590da6.md) |
 | jbrazio/ardufocus-ascom | partial | 2021-02-21T11:08:23Z | [open](../records/telescopes-jbrazio-ardufocus-ascom-dca68881.md) |
 | jeff-regier/Celeste.jl | partial | 2021-09-18T08:20:37Z | [open](../records/telescopes-jeff-regier-celeste-jl-80fff8a5.md) |
-| jobovy/galpy | partial | 2026-09-07T06:30:15Z | [open](../records/telescopes-jobovy-galpy-b2e4e9ec.md) |
+| jobovy/galpy | partial | 2026-09-07T06:33:28Z | [open](../records/telescopes-jobovy-galpy-b2e4e9ec.md) |
 | JuliaAstro/AstroImages.jl | partial | 2026-07-30T16:20:41Z | [open](../records/telescopes-juliaastro-astroimages-jl-2c56131c.md) |
 | jyotisham/jyotisha | partial | 2026-09-05T17:09:50Z | [open](../records/telescopes-jyotisham-jyotisha-8a86df5e.md) |
 | kylecorry31/Trail-Sense | partial | 2026-09-06T19:34:39Z | [open](../records/telescopes-kylecorry31-trail-sense-8d97a469.md) |
@@ -1205,7 +1205,7 @@ Records: `1191`
 | sshh12/astro-app | partial | 2024-11-03T18:50:26Z | [open](../records/telescopes-sshh12-astro-app-9e112594.md) |
 | Starlink/starlink | partial | 2026-08-12T00:17:22Z | [open](../records/telescopes-starlink-starlink-a17e4ea1.md) |
 | StefanoTesla/TeslaBoard | partial | 2026-08-28T10:07:31Z | [open](../records/telescopes-stefanotesla-teslaboard-f09975c6.md) |
-| Stellarium/stellarium | partial | 2026-09-06T13:58:40Z | [open](../records/telescopes-stellarium-stellarium-a274d765.md) |
+| Stellarium/stellarium | partial | 2026-09-07T08:05:04Z | [open](../records/telescopes-stellarium-stellarium-a274d765.md) |
 | steveberardi/starplot | partial | 2026-09-01T13:14:47Z | [open](../records/telescopes-steveberardi-starplot-6a1c13aa.md) |
 | StingraySoftware/stingray | partial | 2026-06-02T08:10:03Z | [open](../records/telescopes-stingraysoftware-stingray-6e54158b.md) |
 | sunpy/sunpy | partial | 2026-09-03T11:45:18Z | [open](../records/telescopes-sunpy-sunpy-52ba6b6e.md) |

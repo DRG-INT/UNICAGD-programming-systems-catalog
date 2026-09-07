@@ -4035,14 +4035,14 @@ Records: `5697`
 | yesod-persistent | 1.6.0.9 | 2026-06-16T20:33:49Z | [open](../records/haskell-yesod-persistent-425557b9.md) |
 | yesod-platform | 1.2.13.3 | 2014-08-25T13:53:51Z | [open](../records/haskell-yesod-platform-cc0166b2.md) |
 | yesod-static | 1.6.1.3 | 2026-06-16T20:33:50Z | [open](../records/haskell-yesod-static-f6ffdea6.md) |
-| yi | 0.19.3 | 2024-11-01T13:06:18Z | [open](../records/haskell-yi-3b78b64a.md) |
+| yi | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yi-3b78b64a.md) |
 | Z-Data | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-data-ad2a6ebb.md) |
-| Z-IO | 2.0.0.0 | 2022-11-26T03:59:17Z | [open](../records/haskell-z-io-e37841a7.md) |
-| zeolite-lang | 0.24.1.0 | 2024-01-08T01:25:04Z | [open](../records/haskell-zeolite-lang-121149cb.md) |
+| Z-IO | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-io-e37841a7.md) |
+| zeolite-lang | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeolite-lang-121149cb.md) |
 | zeromq4-haskell | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
-| zlib | 0.7.1.1 | 2025-09-06T12:21:07Z | [open](../records/haskell-zlib-2a0db053.md) |
-| zoom-cache | 1.2.1.6 | 2012-12-07T00:08:12Z | [open](../records/haskell-zoom-cache-f1ef611e.md) |
-| zoovisitor | 0.2.7.0 | 2024-05-24T09:11:31Z | [open](../records/haskell-zoovisitor-25533034.md) |
+| zlib | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zlib-2a0db053.md) |
+| zoom-cache | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoom-cache-f1ef611e.md) |
+| zoovisitor | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoovisitor-25533034.md) |
 
 ## Octave
 
@@ -4268,7 +4268,7 @@ Records: `5697`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-07T04:45:08Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-07T08:33:28Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4989,13 +4989,13 @@ Records: `5697`
 | michaelkolesidis/javascript-software-synthesizer | 2.0.3 | 2023-07-02T21:18:04Z | [open](../records/audio-michaelkolesidis-javascript-software-synthesizer-eb9005f1.md) |
 | NickWilkinson37/voxseg | partial | 2022-09-07T03:24:39Z | [open](../records/audio-nickwilkinson37-voxseg-e6b61853.md) |
 | nicolas-van/sonant-x | partial | 2025-06-18T05:44:39Z | [open](../records/audio-nicolas-van-sonant-x-77ab0696.md) |
-| petersalomonsen/javascriptmusic | partial | 2026-09-02T22:53:18Z | [open](../records/audio-petersalomonsen-javascriptmusic-27b85ba1.md) |
+| petersalomonsen/javascriptmusic | partial | 2026-09-06T04:48:42Z | [open](../records/audio-petersalomonsen-javascriptmusic-27b85ba1.md) |
 | r9y9/ttslearn | partial | 2023-03-07T11:55:52Z | [open](../records/audio-r9y9-ttslearn-56ff08d5.md) |
 | r9y9/wavenet_vocoder | partial | 2023-07-29T04:47:53Z | [open](../records/audio-r9y9-wavenet-vocoder-1f648aea.md) |
 | Ryuk17/SpeechAlgorithms | partial | 2026-01-25T09:43:34Z | [open](../records/audio-ryuk17-speechalgorithms-d103fbd7.md) |
 | schellingb/TinySoundFont | partial | 2026-07-19T05:23:36Z | [open](../records/audio-schellingb-tinysoundfont-3bc15017.md) |
 | schollz/miti | partial | 2020-10-14T21:48:49Z | [open](../records/audio-schollz-miti-7eaf2444.md) |
-| shorepine/tulipcc | partial | 2026-08-31T19:19:23Z | [open](../records/audio-shorepine-tulipcc-d302bec3.md) |
+| shorepine/tulipcc | partial | 2026-09-06T17:34:27Z | [open](../records/audio-shorepine-tulipcc-d302bec3.md) |
 | sinshu/meltysynth | partial | 2026-03-15T11:09:14Z | [open](../records/audio-sinshu-meltysynth-68e9ad82.md) |
 | sinshu/rustysynth | partial | 2026-05-17T05:05:28Z | [open](../records/audio-sinshu-rustysynth-f78a46e4.md) |
 | sonic-pi-net/sonic-pi | partial | 2026-08-12T16:51:53Z | [open](../records/audio-sonic-pi-net-sonic-pi-91c19c5c.md) |

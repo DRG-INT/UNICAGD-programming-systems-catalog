@@ -21,8 +21,8 @@
 
 ## System Engineer Summary
 
-A modern photography portfolio website built with Next.js 16, featuring interactive maps, photo
-management, and a comprehensive dashboard.
+A modern photography portfolio website built with Next.js 16 featuring interactive maps photo
+management and a comprehensive dashboard.
 
 ## Operational Role
 

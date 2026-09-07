@@ -1431,7 +1431,7 @@ Records: `1618`
 | cropsly/ffmpeg-android-java | partial | 2021-07-31T10:27:20Z | [open](../records/video-cropsly-ffmpeg-android-java-b9341efc.md) |
 | datarhei/restreamer | partial | 2026-05-22T06:57:59Z | [open](../records/video-datarhei-restreamer-ebfeeaad.md) |
 | doubleZ0108/Digital-Media-Technology-PKU | partial | 2022-02-04T14:32:32Z | [open](../records/video-doublez0108-digital-media-technology-pku-8ed0714e.md) |
-| FreeTubeApp/FreeTube | partial | 2026-09-06T16:51:36Z | [open](../records/video-freetubeapp-freetube-f7bd248f.md) |
+| FreeTubeApp/FreeTube | partial | 2026-09-07T08:51:40Z | [open](../records/video-freetubeapp-freetube-f7bd248f.md) |
 | getopenscreen/openscreen | partial | 2026-09-05T09:19:01Z | [open](../records/video-getopenscreen-openscreen-37ac0137.md) |
 | Hao0321/video-autopilot-kit | partial | 2026-08-27T15:00:28Z | [open](../records/video-hao0321-video-autopilot-kit-125cdf3e.md) |
 | Hubs-Foundation/hubs | partial | 2026-08-23T08:58:42Z | [open](../records/video-hubs-foundation-hubs-e3d5e722.md) |
@@ -1476,7 +1476,7 @@ Records: `1618`
 | mangeshghodke/DreamPlayer | partial | 2026-09-02T06:23:58Z | [open](../records/photography-mangeshghodke-dreamplayer-c6fbb5e1.md) |
 | moul-co/moul | partial | 2024-01-09T09:14:39Z | [open](../records/photography-moul-co-moul-2cca2d07.md) |
 | mv-lab/nilut | partial | 2024-01-29T10:38:23Z | [open](../records/photography-mv-lab-nilut-866ec3fa.md) |
-| ncoevoet/facet | partial | 2026-09-02T23:48:37Z | [open](../records/photography-ncoevoet-facet-9042db71.md) |
+| ncoevoet/facet | partial | 2026-09-07T08:30:13Z | [open](../records/photography-ncoevoet-facet-9042db71.md) |
 | outdoorbits/little-backup-box | partial | 2026-09-01T18:51:22Z | [open](../records/photography-outdoorbits-little-backup-box-04af0fc7.md) |
 | patrikhuber/eos | partial | 2025-05-01T19:53:55Z | [open](../records/photography-patrikhuber-eos-d36cd5f5.md) |
 | peerpx/peerpx | unknown | github_search_does_not_include_release_date | [open](../records/photography-peerpx-peerpx-8179ea23.md) |
@@ -1546,7 +1546,7 @@ Records: `1618`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| alanbjohnston/CubeSatSim | partial | 2026-09-07T04:01:00Z | [open](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) |
+| alanbjohnston/CubeSatSim | partial | 2026-09-07T09:11:53Z | [open](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) |
 | cjcliffe/CubicSDR | partial | 2026-09-02T02:19:48Z | [open](../records/satcom-satellites-cjcliffe-cubicsdr-45606659.md) |
 | f4exb/sdrangel | partial | 2026-09-06T21:22:43Z | [open](../records/satcom-satellites-f4exb-sdrangel-2094320b.md) |
 | jvde-github/AIS-catcher | partial | 2026-09-06T22:14:18Z | [open](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) |

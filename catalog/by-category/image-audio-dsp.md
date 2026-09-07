@@ -330,7 +330,7 @@ Records: `438`
 | GullDSP/Circulate-VST | partial | 2026-06-29T00:30:46Z | [open](../records/audio-gulldsp-circulate-vst-58e43839.md) |
 | hollance/synth-plugin-book | partial | 2024-06-22T16:06:23Z | [open](../records/audio-hollance-synth-plugin-book-e6e2ebe2.md) |
 | hollance/synth-recipes | partial | 2023-07-22T17:14:14Z | [open](../records/audio-hollance-synth-recipes-dbad6169.md) |
-| hqrrr/PerceptoMap | partial | 2026-09-04T08:44:48Z | [open](../records/audio-hqrrr-perceptomap-9176716f.md) |
+| hqrrr/PerceptoMap | partial | 2026-09-07T09:12:51Z | [open](../records/audio-hqrrr-perceptomap-9176716f.md) |
 | hukenovs/dsp-theory | partial | 2026-04-21T18:12:35Z | [open](../records/audio-hukenovs-dsp-theory-fa2c75ff.md) |
 | iampawan/Flute-Music-Player | partial | 2020-12-30T15:43:12Z | [open](../records/audio-iampawan-flute-music-player-08b19a30.md) |
 | increpare/bfxr2 | partial | 2026-07-26T09:59:55Z | [open](../records/audio-increpare-bfxr2-16674ccc.md) |
@@ -373,7 +373,7 @@ Records: `438`
 | psambit9791/jdsp | partial | 2026-06-16T01:00:10Z | [open](../records/audio-psambit9791-jdsp-3551bb45.md) |
 | r9y9/pysptk | partial | 2024-07-16T11:33:16Z | [open](../records/audio-r9y9-pysptk-bef7db25.md) |
 | r9y9/SPTK | partial | 2022-06-05T14:07:16Z | [open](../records/audio-r9y9-sptk-f464315b.md) |
-| raphaelsalaja/audio | partial | 2026-04-26T19:06:36Z | [open](../records/audio-raphaelsalaja-audio-f9f17e42.md) |
+| raphaelsalaja/audio | partial | 2026-09-05T23:19:50Z | [open](../records/audio-raphaelsalaja-audio-f9f17e42.md) |
 | RCJacH/RCSiner | partial | 2025-08-29T21:28:13Z | [open](../records/audio-rcjach-rcsiner-507d465d.md) |
 | readbeyond/aeneas | partial | 2026-07-25T10:22:31Z | [open](../records/audio-readbeyond-aeneas-05f471e1.md) |
 | rom1v/sndcpy | partial | 2026-07-15T12:00:54Z | [open](../records/audio-rom1v-sndcpy-b4d75ce7.md) |
@@ -392,7 +392,7 @@ Records: `438`
 | styx-emulator/styx-emulator | partial | 2026-08-13T20:47:32Z | [open](../records/audio-styx-emulator-styx-emulator-e035860e.md) |
 | suda/wireless-microphone | partial | 2023-03-02T21:23:41Z | [open](../records/audio-suda-wireless-microphone-ab136d62.md) |
 | SuperKogito/spafe | partial | 2025-03-20T16:16:12Z | [open](../records/audio-superkogito-spafe-354360b4.md) |
-| surge-synthesizer/surge | partial | 2026-09-03T14:51:30Z | [open](../records/audio-surge-synthesizer-surge-87b5aeea.md) |
+| surge-synthesizer/surge | partial | 2026-09-05T09:17:39Z | [open](../records/audio-surge-synthesizer-surge-87b5aeea.md) |
 | swasun/VQ-VAE-Speech | partial | 2019-08-13T08:18:37Z | [open](../records/audio-swasun-vq-vae-speech-68327a4e.md) |
 | SynthstromAudible/DelugeFirmware | partial | 2026-09-07T02:04:18Z | [open](../records/audio-synthstromaudible-delugefirmware-4c834ea8.md) |
 | thesofproject/sof | partial | 2026-09-04T12:32:59Z | [open](../records/audio-thesofproject-sof-05fedbf2.md) |

@@ -220,7 +220,7 @@ Records: `325`
 | [bellingcat/sar-interference-tracker](../records/satcom-satellites-bellingcat-sar-interference-tracker-812a2aa7.md) | partial | 2022-02-23T13:57:03Z | registry-derived |
 | [cbassa/stvid](../records/satcom-satellites-cbassa-stvid-b0821bf9.md) | partial | 2026-06-14T12:26:58Z | registry-derived |
 | [CScorza/GEOINTInvestigation](../records/satcom-satellites-cscorza-geointinvestigation-97ccfead.md) | partial | 2025-08-08T09:23:42Z | registry-derived |
-| [dividebysandwich/sdroxide](../records/satcom-satellites-dividebysandwich-sdroxide-b0d1a434.md) | partial | 2026-09-06T10:44:21Z | registry-derived |
+| [dividebysandwich/sdroxide](../records/satcom-satellites-dividebysandwich-sdroxide-b0d1a434.md) | partial | 2026-09-07T09:04:20Z | registry-derived |
 | [JonaNorman/HDRSample](../records/satcom-satellites-jonanorman-hdrsample-b3b07c40.md) | partial | 2024-08-01T09:01:08Z | registry-derived |
 | [jx9527/FHSS-Hopping-Estimation](../records/satcom-satellites-jx9527-fhss-hopping-estimation-df3390c6.md) | partial | 2022-06-27T02:51:40Z | registry-derived |
 | [MarcinWachowiak/gr-aoa](../records/satcom-satellites-marcinwachowiak-gr-aoa-f666d650.md) | partial | 2022-03-19T19:25:05Z | registry-derived |
@@ -513,7 +513,7 @@ Records: `325`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [alanbjohnston/CubeSatSim](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) | partial | 2026-09-07T04:01:00Z | registry-derived |
+| [alanbjohnston/CubeSatSim](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) | partial | 2026-09-07T09:11:53Z | registry-derived |
 | [cjcliffe/CubicSDR](../records/satcom-satellites-cjcliffe-cubicsdr-45606659.md) | partial | 2026-09-02T02:19:48Z | registry-derived |
 | [f4exb/sdrangel](../records/satcom-satellites-f4exb-sdrangel-2094320b.md) | partial | 2026-09-06T21:22:43Z | registry-derived |
 | [jvde-github/AIS-catcher](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) | partial | 2026-09-06T22:14:18Z | registry-derived |
