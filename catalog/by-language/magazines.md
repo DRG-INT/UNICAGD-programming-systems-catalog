@@ -9,22 +9,22 @@ Records: `310`
 ## Category Index
 
 [Api Abi Checker (221)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
-[Benchmarking (200)](../by-category/benchmarking.md) · [Build System (992)](../by-category/build-system.md) · [Cli (563)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (200)](../by-category/benchmarking.md) · [Build System (992)](../by-category/build-system.md) · [Cli (565)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (24)](../by-category/compiler-diagnostics.md) · [Compression (51)](../by-category/compression.md)
-[Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (130)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
+[Concurrency Parallelism (90)](../by-category/concurrency-parallelism.md) · [Configuration (130)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (176)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (893)](../by-category/database-datastore.md) · [Datetime (233)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (102)](../by-category/dependency-manager.md) · [Documentation (106)](../by-category/documentation.md)
 [Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (457)](../by-category/ffi-bindings.md) · [Filesystem Os (1606)](../by-category/filesystem-os.md) · [Formatter (648)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (356)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1462)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (273)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1437)](../by-category/language-specification.md) · [Library (5693)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (528)](../by-category/logging-observability.md) · [Machine Learning (793)](../by-category/machine-learning.md)
-[Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1037)](../by-category/networking-http.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1439)](../by-category/language-specification.md) · [Library (5697)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (529)](../by-category/logging-observability.md) · [Machine Learning (794)](../by-category/machine-learning.md)
+[Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1038)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1191)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (308)](../by-category/precommit-ci-quality.md)
 [Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
-[Security Sast (336)](../by-category/security-sast.md) · [Serialization (397)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (613)](../by-category/static-analyzer.md)
+[Security Sast (336)](../by-category/security-sast.md) · [Serialization (397)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (614)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (607)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1617)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (556)](../by-category/visualization-gui.md) · [Web Framework (477)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1618)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (556)](../by-category/visualization-gui.md) · [Web Framework (477)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -61,10 +61,10 @@ Records: `310`
 | [GrapesJS/mjml](../records/magazines-grapesjs-mjml-98e8c883.md) | partial | 2026-06-15T18:48:10Z | registry-derived |
 | [joergi/MagPiDownloader](../records/magazines-joergi-magpidownloader-f5caa517.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [laminmcamara/build-magazine](../records/magazines-laminmcamara-build-magazine-20001ace.md) | partial | 2025-08-03T05:44:17Z | registry-derived |
-| [Mahesh-Landge/Play-Store-App-Review-Analysis-Capstone-Project-1-Mahesh-Landge](../records/magazines-mahesh-landge-play-store-app-review-analysis-capstone-project-1-mahesh-landge-a9b39ae5.md) | unknown | github_latest_release_missing | registry-derived |
-| [MediaExpres/magazin-paine](../records/magazines-mediaexpres-magazin-paine-f0d1c4b5.md) | unknown | github_latest_release_missing | registry-derived |
-| [MGlarman/ameRevisedv4](../records/magazines-mglarman-amerevisedv4-4b483fe0.md) | unknown | github_latest_release_missing | registry-derived |
-| [namilaR/OPEN-SOURCE-SOA-BASED-MIDDLEWARE-FRAMEWORK-FOR-CLASSIFIED-BASED-WEB-DEVELOPMENT](../records/magazines-namilar-open-source-soa-based-middleware-framework-for-classified-based-web-development-852462b4.md) | unknown | github_latest_release_missing | registry-derived |
+| [Mahesh-Landge/Play-Store-App-Review-Analysis-Capstone-Project-1-Mahesh-Landge](../records/magazines-mahesh-landge-play-store-app-review-analysis-capstone-project-1-mahesh-landge-a9b39ae5.md) | partial | 2022-09-30T14:25:23Z | registry-derived |
+| [MediaExpres/magazin-paine](../records/magazines-mediaexpres-magazin-paine-f0d1c4b5.md) | partial | 2022-11-22T12:26:34Z | registry-derived |
+| [MGlarman/ameRevisedv4](../records/magazines-mglarman-amerevisedv4-4b483fe0.md) | partial | 2025-08-25T17:34:14Z | registry-derived |
+| [namilaR/OPEN-SOURCE-SOA-BASED-MIDDLEWARE-FRAMEWORK-FOR-CLASSIFIED-BASED-WEB-DEVELOPMENT](../records/magazines-namilar-open-source-soa-based-middleware-framework-for-classified-based-web-development-852462b4.md) | partial | 2017-07-02T11:57:59Z | registry-derived |
 | [sgermosen/xReader](../records/magazines-sgermosen-xreader-5a8bf3da.md) | partial | 2022-12-08T09:46:38Z | registry-derived |
 | [skerkour/markdown-ninja](../records/magazines-skerkour-markdown-ninja-d48946d3.md) | partial | 2026-07-09T16:21:37Z | registry-derived |
 | [TangSY/dailydawn](../records/magazines-tangsy-dailydawn-1123cfbc.md) | partial | 2026-09-02T03:44:32Z | registry-derived |
@@ -101,7 +101,7 @@ Records: `310`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [OS2World/DEV-SAMPLES-C-PM-edctl1](../records/magazines-os2world-dev-samples-c-pm-edctl1-621e7007.md) | 1.01 | 2023-06-11T01:51:04Z | registry-derived |
+| [OS2World/DEV-SAMPLES-C-PM-edctl1](../records/magazines-os2world-dev-samples-c-pm-edctl1-621e7007.md) | partial | 2023-06-11T01:52:02Z | registry-derived |
 | [shining1984/PL-Compiler-Resource](../records/magazines-shining1984-pl-compiler-resource-a032e151.md) | partial | 2025-11-12T09:10:50Z | registry-derived |
 
 ### Cryptography
@@ -167,19 +167,19 @@ Records: `310`
 | [journiv/journiv-app](../records/magazines-journiv-journiv-app-b0d9c829.md) | partial | 2026-09-06T21:34:25Z | registry-derived |
 | [openjournals/joss](../records/magazines-openjournals-joss-1c4447c8.md) | partial | 2026-08-31T13:39:45Z | registry-derived |
 | [OS2World/DEV-SAMPLES-C-ColorWheel](../records/magazines-os2world-dev-samples-c-colorwheel-50ebb784.md) | partial | 2016-02-21T13:23:48Z | registry-derived |
-| [OS2World/DEV-SAMPLES-C-PM-ctrldes](../records/magazines-os2world-dev-samples-c-pm-ctrldes-cc4b602b.md) | 1.01 | 2023-05-22T21:49:53Z | registry-derived |
+| [OS2World/DEV-SAMPLES-C-PM-ctrldes](../records/magazines-os2world-dev-samples-c-pm-ctrldes-cc4b602b.md) | partial | 2023-05-23T20:21:17Z | registry-derived |
 | [OS2World/DEV-SAMPLES-C-PM-custct](../records/magazines-os2world-dev-samples-c-pm-custct-515356c6.md) | partial | 2023-05-20T22:29:33Z | registry-derived |
 | [OS2World/DEV-SAMPLES-C-PM-ListBox2](../records/magazines-os2world-dev-samples-c-pm-listbox2-8f2eaf5b.md) | partial | 2026-07-28T02:55:13Z | registry-derived |
-| [OS2World/DEV-SAMPLES-C-PM-mclb](../records/magazines-os2world-dev-samples-c-pm-mclb-3e986314.md) | unknown | github_latest_release_missing | registry-derived |
-| [OS2World/DEV-SAMPLES-C-prnt3](../records/magazines-os2world-dev-samples-c-prnt3-d671bbc2.md) | unknown | github_latest_release_missing | registry-derived |
+| [OS2World/DEV-SAMPLES-C-PM-mclb](../records/magazines-os2world-dev-samples-c-pm-mclb-3e986314.md) | partial | 2023-06-12T19:19:58Z | registry-derived |
+| [OS2World/DEV-SAMPLES-C-prnt3](../records/magazines-os2world-dev-samples-c-prnt3-d671bbc2.md) | partial | 2014-10-13T17:35:48Z | registry-derived |
 | [OS2World/DEV-SAMPLES-CPP-PM-CTLCPP](../records/magazines-os2world-dev-samples-cpp-pm-ctlcpp-e109fadd.md) | partial | 2016-02-21T13:38:35Z | registry-derived |
 | [OS2World/DEV-SAMPLES-EDM2-Vol2_Issue7](../records/magazines-os2world-dev-samples-edm2-vol2-issue7-d4b757d9.md) | partial | 2020-02-16T12:49:00Z | registry-derived |
 | [OS2World/DEV-SAMPLES-OS-2_Developer_Magazine](../records/magazines-os2world-dev-samples-os-2-developer-magazine-2ca39e24.md) | partial | 2019-04-03T01:44:38Z | registry-derived |
 | [OS2World/DEV-SAMPLES-PC_Magazine](../records/magazines-os2world-dev-samples-pc-magazine-c1e0c450.md) | partial | 2019-04-02T02:22:29Z | registry-derived |
-| [OS2World/DEV-SAMPLES-PSD-Install](../records/magazines-os2world-dev-samples-psd-install-17655c4c.md) | unknown | github_latest_release_missing | registry-derived |
-| [OS2World/DEV-SAMPLES-SOM-Name_Lookup_SOM](../records/magazines-os2world-dev-samples-som-name-lookup-som-34eabd13.md) | unknown | github_latest_release_missing | registry-derived |
-| [OS2World/DEV-SAMPLES-SOM-Students](../records/magazines-os2world-dev-samples-som-students-ec413d96.md) | unknown | github_latest_release_missing | registry-derived |
-| [OS2World/DRV-HRTIMER](../records/magazines-os2world-drv-hrtimer-58f3acac.md) | 1.1 | 2023-08-31T00:53:56Z | registry-derived |
+| [OS2World/DEV-SAMPLES-PSD-Install](../records/magazines-os2world-dev-samples-psd-install-17655c4c.md) | partial | 2018-08-12T02:59:20Z | registry-derived |
+| [OS2World/DEV-SAMPLES-SOM-Name_Lookup_SOM](../records/magazines-os2world-dev-samples-som-name-lookup-som-34eabd13.md) | partial | 2023-05-24T23:29:03Z | registry-derived |
+| [OS2World/DEV-SAMPLES-SOM-Students](../records/magazines-os2world-dev-samples-som-students-ec413d96.md) | partial | 2023-05-24T23:30:21Z | registry-derived |
+| [OS2World/DRV-HRTIMER](../records/magazines-os2world-drv-hrtimer-58f3acac.md) | partial | 2023-08-31T00:53:56Z | registry-derived |
 | [oskardudycz/ArchitectureWeekly](../records/magazines-oskardudycz-architectureweekly-33cb66f1.md) | partial | 2024-07-08T10:51:19Z | registry-derived |
 | [rust-osdev/homepage](../records/magazines-rust-osdev-homepage-c79e05e0.md) | partial | 2026-09-01T02:45:15Z | registry-derived |
 | [songtianlun/diarum](../records/magazines-songtianlun-diarum-6ce1bdf0.md) | partial | 2026-08-04T05:10:54Z | registry-derived |
@@ -212,7 +212,7 @@ Records: `310`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [2KAbhishek/tdo.nvim](../records/magazines-2kabhishek-tdo-nvim-8ea68e09.md) | partial | 2025-11-20T06:13:22Z | registry-derived |
-| [anvayeem-spec/personal_portfolio](../records/magazines-anvayeem-spec-personal-portfolio-c313c07f.md) | unknown | github_latest_release_missing | registry-derived |
+| [anvayeem-spec/personal_portfolio](../records/magazines-anvayeem-spec-personal-portfolio-c313c07f.md) | partial | 2026-08-07T14:35:04Z | registry-derived |
 | [appml/neutrinote](../records/magazines-appml-neutrinote-0348cb9f.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [ATOSHI-ORG/atoshi-docs](../records/magazines-atoshi-org-atoshi-docs-f8974b72.md) | partial | 2026-07-21T18:08:03Z | registry-derived |
 | [aviaryan/VSCodeNotebook](../records/magazines-aviaryan-vscodenotebook-49fbf0bb.md) | partial | 2023-08-16T09:54:44Z | registry-derived |
@@ -224,12 +224,12 @@ Records: `310`
 | [jakobkhansen/journal.nvim](../records/magazines-jakobkhansen-journal-nvim-41856539.md) | partial | 2026-05-12T15:50:42Z | registry-derived |
 | [jessa-clark/dignified-winers](../records/magazines-jessa-clark-dignified-winers-10548068.md) | partial | 2021-07-28T16:05:38Z | registry-derived |
 | [lervag/wiki.vim](../records/magazines-lervag-wiki-vim-2ff43f08.md) | partial | 2026-08-29T08:43:02Z | registry-derived |
-| [Manna-Network/bitcoin_ad_agency](../records/magazines-manna-network-bitcoin-ad-agency-f8bbb11d.md) | unknown | github_latest_release_missing | registry-derived |
+| [Manna-Network/bitcoin_ad_agency](../records/magazines-manna-network-bitcoin-ad-agency-f8bbb11d.md) | partial | 2019-02-26T00:44:51Z | registry-derived |
 | [mmarquezs/libgen-python-api](../records/magazines-mmarquezs-libgen-python-api-47da50e4.md) | partial | 2022-05-18T15:15:49Z | registry-derived |
 | [Notifuse/notifuse](../records/magazines-notifuse-notifuse-f68915ee.md) | partial | 2026-09-01T07:41:45Z | registry-derived |
 | [pajoma/vscode-journal](../records/magazines-pajoma-vscode-journal-fd5206d8.md) | partial | 2026-08-20T20:30:19Z | registry-derived |
 | [TryGhost/Editorial](../records/magazines-tryghost-editorial-947481f0.md) | partial | 2026-09-06T22:46:40Z | registry-derived |
-| [uzih05/journal](../records/magazines-uzih05-journal-00e04855.md) | unknown | github_latest_release_missing | registry-derived |
+| [uzih05/journal](../records/magazines-uzih05-journal-00e04855.md) | partial | 2026-02-09T09:03:55Z | registry-derived |
 
 ### Image Audio Dsp
 
@@ -253,12 +253,12 @@ Records: `310`
 | [bermufine/dcmp](../records/magazines-bermufine-dcmp-7dbdeb3d.md) | partial | 2022-03-10T03:00:15Z | registry-derived |
 | [haskellweekly/haskellweekly](../records/magazines-haskellweekly-haskellweekly-2d16522a.md) | partial | 2026-08-27T11:26:08Z | registry-derived |
 | [haskellweekly/haskellweekly.github.io](../records/magazines-haskellweekly-haskellweekly-github-io-889fd571.md) | partial | 2019-10-16T02:20:59Z | registry-derived |
-| [ikoanti/LLMs.txt-News-Blog-AI-Inspector](../records/magazines-ikoanti-llms-txt-news-blog-ai-inspector-a0fb994d.md) | unknown | github_latest_release_missing | registry-derived |
+| [ikoanti/LLMs.txt-News-Blog-AI-Inspector](../records/magazines-ikoanti-llms-txt-news-blog-ai-inspector-a0fb994d.md) | partial | 2026-06-23T06:06:09Z | registry-derived |
 | [iwasakishuto/Translation-Gummy](../records/magazines-iwasakishuto-translation-gummy-b98e5037.md) | partial | 2023-04-24T15:46:05Z | registry-derived |
 | [northword/zotero-format-metadata](../records/magazines-northword-zotero-format-metadata-96843849.md) | partial | 2026-09-01T12:07:46Z | registry-derived |
-| [ousmanabakar/Responsive-Web-Design-freecodecamp](../records/magazines-ousmanabakar-responsive-web-design-freecodecamp-719d13d8.md) | unknown | github_latest_release_missing | registry-derived |
+| [ousmanabakar/Responsive-Web-Design-freecodecamp](../records/magazines-ousmanabakar-responsive-web-design-freecodecamp-719d13d8.md) | partial | 2022-07-19T14:04:15Z | registry-derived |
 | [shining1984/PL-Compiler-Resource](../records/magazines-shining1984-pl-compiler-resource-0aa8b0f1.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [Yashikar/iostraininginstituteinchennai](../records/magazines-yashikar-iostraininginstituteinchennai-83d6cb28.md) | unknown | github_latest_release_missing | registry-derived |
+| [Yashikar/iostraininginstituteinchennai](../records/magazines-yashikar-iostraininginstituteinchennai-83d6cb28.md) | partial | 2015-11-21T05:59:56Z | registry-derived |
 
 ### Library
 
@@ -336,7 +336,7 @@ Records: `310`
 | [ElliotKillick/rss2newsletter](../records/magazines-elliotkillick-rss2newsletter-2594c02c.md) | partial | 2024-08-17T08:14:27Z | registry-derived |
 | [fcakyon/phd-skills](../records/magazines-fcakyon-phd-skills-152d55ed.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [imsoumya18/upsc_bot](../records/magazines-imsoumya18-upsc-bot-45ae1b79.md) | partial | 2024-03-07T03:20:59Z | registry-derived |
-| [kotlin-digest/weekly](../records/magazines-kotlin-digest-weekly-a20aa634.md) | partial | 2026-09-02T10:17:15Z | registry-derived |
+| [kotlin-digest/weekly](../records/magazines-kotlin-digest-weekly-a20aa634.md) | partial | 2026-09-06T09:59:27Z | registry-derived |
 | [kujian/frontendDaily](../records/magazines-kujian-frontenddaily-cd11d2ae.md) | partial | 2026-08-11T13:28:03Z | registry-derived |
 | [mindori/linkpress](../records/magazines-mindori-linkpress-ed13907c.md) | partial | 2026-02-01T17:56:40Z | registry-derived |
 | [OutreachStud-io/studio](../records/magazines-outreachstud-io-studio-9a231d39.md) | partial | 2026-08-28T22:59:22Z | registry-derived |
@@ -430,13 +430,13 @@ Records: `310`
 | [hackerschoice/THC-Archive](../records/magazines-hackerschoice-thc-archive-f9e52549.md) | partial | 2025-09-03T08:06:42Z | registry-derived |
 | [Lifailon/lazyjournal](../records/magazines-lifailon-lazyjournal-53d3b383.md) | partial | 2026-08-01T19:29:15Z | registry-derived |
 | [Phrack](../records/magazines-phrack-efe3e386.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
-| [pomirleanu/PHP-5-Zend-study-guide-2ndEd](../records/magazines-pomirleanu-php-5-zend-study-guide-2nded-068fd5f2.md) | unknown | github_latest_release_missing | registry-derived |
+| [pomirleanu/PHP-5-Zend-study-guide-2ndEd](../records/magazines-pomirleanu-php-5-zend-study-guide-2nded-068fd5f2.md) | partial | 2014-07-10T06:07:41Z | registry-derived |
 
 ### Static Analyzer
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [emanemad-dev/ux-review-website](../records/magazines-emanemad-dev-ux-review-website-030b8c54.md) | unknown | github_latest_release_missing | registry-derived |
+| [emanemad-dev/ux-review-website](../records/magazines-emanemad-dev-ux-review-website-030b8c54.md) | partial | 2026-01-05T11:07:47Z | registry-derived |
 | [Lifailon/lazyjournal](../records/magazines-lifailon-lazyjournal-28d8daea.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [massimoaria/bibliometrix](../records/magazines-massimoaria-bibliometrix-de0b9efa.md) | partial | 2026-08-31T14:57:19Z | registry-derived |
 | [TalEliyahu/awesome-security-newsletters](../records/magazines-taleliyahu-awesome-security-newsletters-16430f65.md) | partial | 2026-07-26T07:35:03Z | registry-derived |
@@ -466,7 +466,7 @@ Records: `310`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [Abdo-Hussien/Magazine-System](../records/magazines-abdo-hussien-magazine-system-99fd7e1b.md) | partial | 2025-06-29T15:48:21Z | registry-derived |
-| [api-evangelist/vox-media](../records/magazines-api-evangelist-vox-media-808b1be2.md) | unknown | github_latest_release_missing | registry-derived |
+| [api-evangelist/vox-media](../records/magazines-api-evangelist-vox-media-808b1be2.md) | partial | 2026-09-04T20:24:39Z | registry-derived |
 | [ayushi7rawat/Ultimate-Python-Resource-Hub](../records/magazines-ayushi7rawat-ultimate-python-resource-hub-7be0a988.md) | partial | 2022-12-13T11:16:50Z | registry-derived |
 | [bahdotsh/blogr](../records/magazines-bahdotsh-blogr-a26c09e7.md) | partial | 2026-06-08T09:11:47Z | registry-derived |
 | [bindthegap/bindthegap.github.io](../records/magazines-bindthegap-bindthegap-github-io-fd1d4194.md) | partial | 2021-01-11T13:58:50Z | registry-derived |
@@ -476,7 +476,7 @@ Records: `310`
 | [FRNT-dev/FRNT](../records/magazines-frnt-dev-frnt-b937225f.md) | partial | 2022-04-21T15:15:58Z | registry-derived |
 | [hehonghui/the-hot-tech-blogs](../records/magazines-hehonghui-the-hot-tech-blogs-1f95e24f.md) | partial | 2021-03-27T10:32:10Z | registry-derived |
 | [i365dev/LetterDrop](../records/magazines-i365dev-letterdrop-b7eb2ba6.md) | partial | 2026-02-05T10:46:45Z | registry-derived |
-| [icodemag/icodemag.github.io](../records/magazines-icodemag-icodemag-github-io-2b554d80.md) | unknown | github_latest_release_missing | registry-derived |
+| [icodemag/icodemag.github.io](../records/magazines-icodemag-icodemag-github-io-2b554d80.md) | partial | 2018-11-28T01:41:14Z | registry-derived |
 | [imsoumya18/upsc_bot](../records/magazines-imsoumya18-upsc-bot-d97637c5.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [jabbalaci/Linux-Voice-issues](../records/magazines-jabbalaci-linux-voice-issues-a36759b2.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [JacobEvelyn/friends](../records/magazines-jacobevelyn-friends-2a09eafd.md) | unknown | github_search_does_not_include_release_date | registry-derived |
@@ -489,14 +489,14 @@ Records: `310`
 | [ningoink/open-source-magazine](../records/magazines-ningoink-open-source-magazine-9862f636.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [openjournals/joss](../records/magazines-openjournals-joss-843100bc.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [openlibhums/janeway](../records/magazines-openlibhums-janeway-b53e06a3.md) | partial | 2026-09-06T11:02:05Z | registry-derived |
-| [petterh/range-slider](../records/magazines-petterh-range-slider-f875d29f.md) | unknown | github_latest_release_missing | registry-derived |
+| [petterh/range-slider](../records/magazines-petterh-range-slider-f875d29f.md) | partial | 2016-02-01T16:19:29Z | registry-derived |
 | [rubin55/gdm-examples](../records/magazines-rubin55-gdm-examples-a96bfaf6.md) | partial | 2018-11-10T20:28:04Z | registry-derived |
 | [rust-gamedev/rust-gamedev.github.io](../records/magazines-rust-gamedev-rust-gamedev-github-io-a7f949a1.md) | partial | 2025-08-28T14:43:46Z | registry-derived |
 | [saadmk11/django-newsfeed](../records/magazines-saadmk11-django-newsfeed-0b109e3a.md) | partial | 2024-11-18T08:09:01Z | registry-derived |
 | [Sandglaz/maktoub](../records/magazines-sandglaz-maktoub-4bc281dd.md) | partial | 2023-01-19T11:17:45Z | registry-derived |
 | [SrirangaDigital/gipa](../records/magazines-srirangadigital-gipa-be5566ac.md) | partial | 2024-06-06T09:31:07Z | registry-derived |
 | [stefanbc/Asgar](../records/magazines-stefanbc-asgar-0b7791d7.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [stlin256/OpenHomepage-V2](../records/magazines-stlin256-openhomepage-v2-7462e2f1.md) | partial | 2026-09-02T13:17:45Z | registry-derived |
+| [stlin256/OpenHomepage-V2](../records/magazines-stlin256-openhomepage-v2-7462e2f1.md) | partial | 2026-09-07T05:00:08Z | registry-derived |
 | [superleeyom/my-feed-OPML](../records/magazines-superleeyom-my-feed-opml-7829b043.md) | partial | 2023-05-24T01:44:56Z | registry-derived |
 | [SwiftWeekly/swiftweekly.github.io](../records/magazines-swiftweekly-swiftweekly-github-io-8f5db8c4.md) | partial | 2023-03-26T17:24:38Z | registry-derived |
 | [TryGhost/Alto](../records/magazines-tryghost-alto-4eb3cc9f.md) | unknown | github_search_does_not_include_release_date | registry-derived |

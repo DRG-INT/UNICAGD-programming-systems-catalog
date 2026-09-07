@@ -1,6 +1,6 @@
 # Undefined Behavior Analyzer
 
-Records: `1617`
+Records: `1618`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `1617`
 ## Category Index
 
 [Api Abi Checker (221)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (200)](benchmarking.md) · [Build System (992)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (200)](benchmarking.md) · [Build System (992)](build-system.md) · [Cli (565)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
-[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Concurrency Parallelism (90)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (176)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (893)](database-datastore.md) · [Datetime (233)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (106)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1606)](filesystem-os.md) · [Formatter (648)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1437)](language-specification.md) · [Library (5693)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (528)](logging-observability.md) · [Machine Learning (793)](machine-learning.md)
-[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1037)](networking-http.md)
+[Language Server (29)](language-server.md) · [Language Specification (1439)](language-specification.md) · [Library (5697)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (529)](logging-observability.md) · [Machine Learning (794)](machine-learning.md)
+[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1038)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1191)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (613)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (614)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (607)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-**[Undefined Behavior Analyzer (1617)](undefined-behavior-analyzer.md)** · [Utility Library (104)](utility-library.md) · [Visualization Gui (556)](visualization-gui.md) · [Web Framework (477)](web-framework.md)
+**[Undefined Behavior Analyzer (1618)](undefined-behavior-analyzer.md)** · [Utility Library (104)](utility-library.md) · [Visualization Gui (556)](visualization-gui.md) · [Web Framework (477)](web-framework.md)
 
 ## C++23
 
@@ -322,6 +322,7 @@ Records: `1617`
 | ghclass | 0.4.2 | 2026-08-31 16:20:09 UTC | [open](../records/r-ghclass-95dfc7e2.md) |
 | GLHD | 1.1-1 | 2026-08-09 08:10:19 UTC | [open](../records/r-glhd-7b95ebc1.md) |
 | gtregression | 1.1.0 | 2026-08-21 07:30:02 UTC | [open](../records/r-gtregression-df58d522.md) |
+| healthbR | 0.4.0 | 2026-09-07 06:40:25 UTC | [open](../records/r-healthbr-e7712a0b.md) |
 | inferstat | 0.1.1 | 2026-08-04 09:40:14 UTC | [open](../records/r-inferstat-8a10c87c.md) |
 | IVDML | 1.0.2 | 2026-09-04 12:00:31 UTC | [open](../records/r-ivdml-adb8ec84.md) |
 | LugsailGR | 0.1.0 | 2026-08-05 07:40:09 UTC | [open](../records/r-lugsailgr-72958e54.md) |
@@ -1163,7 +1164,7 @@ Records: `1617`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bytedance/deer-flow | partial | 2026-09-07T07:18:58Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
+| bytedance/deer-flow | partial | 2026-09-07T07:27:00Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
 | sansan0/TrendRadar | partial | 2026-09-03T12:34:00Z | [open](../records/aim-s-sansan0-trendradar-72e65ee1.md) |
 | TencentCloud/TencentDB-Agent-Memory | partial | 2026-09-03T02:31:45Z | [open](../records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
 
@@ -1269,7 +1270,7 @@ Records: `1617`
 | ubuwaits/beautiful-web-type | partial | 2026-08-08T06:48:37Z | [open](../records/assets-ubuwaits-beautiful-web-type-2b29254d.md) |
 | Venomalia/HDcube | partial | 2023-08-05T18:54:36Z | [open](../records/assets-venomalia-hdcube-92c9f583.md) |
 | wangyoucao577/go-release-action | partial | 2026-01-02T06:59:52Z | [open](../records/assets-wangyoucao577-go-release-action-9d67f6de.md) |
-| wdas/ptex | partial | 2026-06-18T18:50:48Z | [open](../records/assets-wdas-ptex-2ed43489.md) |
+| wdas/ptex | partial | 2026-09-04T18:21:55Z | [open](../records/assets-wdas-ptex-2ed43489.md) |
 
 ## Maps
 
@@ -1292,12 +1293,12 @@ Records: `1617`
 | JOSM/josm | partial | 2026-08-29T11:20:34Z | [open](../records/maps-josm-josm-420b210b.md) |
 | koopjs/koop | unknown | github_search_does_not_include_release_date | [open](../records/maps-koopjs-koop-6b3ab614.md) |
 | maplibre/demotiles | partial | 2026-08-21T17:15:02Z | [open](../records/maps-maplibre-demotiles-72972139.md) |
-| MapServer/MapServer | partial | 2026-09-04T19:26:08Z | [open](../records/maps-mapserver-mapserver-100bdea0.md) |
+| MapServer/MapServer | partial | 2026-09-06T18:04:41Z | [open](../records/maps-mapserver-mapserver-100bdea0.md) |
 | munterfi/hereR | partial | 2025-02-23T15:29:33Z | [open](../records/maps-munterfi-herer-7bc6ec20.md) |
 | nvkelso/natural-earth-vector | partial | 2024-04-22T12:24:13Z | [open](../records/maps-nvkelso-natural-earth-vector-941f7e82.md) |
-| opendatacube/datacube-core | partial | 2026-09-02T14:19:09Z | [open](../records/maps-opendatacube-datacube-core-7c11f2b9.md) |
+| opendatacube/datacube-core | partial | 2026-09-05T08:18:24Z | [open](../records/maps-opendatacube-datacube-core-7c11f2b9.md) |
 | pubnub/eon | partial | 2022-12-06T09:15:05Z | [open](../records/maps-pubnub-eon-beb5f743.md) |
-| rspatial/terra | partial | 2026-09-05T09:36:10Z | [open](../records/maps-rspatial-terra-dbc784d1.md) |
+| rspatial/terra | partial | 2026-09-07T07:35:31Z | [open](../records/maps-rspatial-terra-dbc784d1.md) |
 | SimonBrazell/privacy-redirect | partial | 2023-09-05T18:05:25Z | [open](../records/maps-simonbrazell-privacy-redirect-1c6619a0.md) |
 | t-rex-tileserver/t-rex | partial | 2024-09-24T14:17:05Z | [open](../records/maps-t-rex-tileserver-t-rex-530f84b0.md) |
 | uber/h3 | partial | 2026-09-03T02:35:04Z | [open](../records/maps-uber-h3-909abfb5.md) |
@@ -1342,7 +1343,7 @@ Records: `1617`
 | maheshr-hub/ayanamsha | partial | 2026-05-26T05:10:14Z | [open](../records/space-maps-maheshr-hub-ayanamsha-18861b1b.md) |
 | MESAHub/mesa | partial | 2026-09-04T05:23:44Z | [open](../records/space-maps-mesahub-mesa-0abd6bf7.md) |
 | Raevn/com.pahub.content.plugin.store.map | partial | 2014-12-12T12:24:45Z | [open](../records/space-maps-raevn-com-pahub-content-plugin-store-map-5946b4b8.md) |
-| rhannequin/astronoby | partial | 2026-09-07T01:42:52Z | [open](../records/space-maps-rhannequin-astronoby-ced172a0.md) |
+| rhannequin/astronoby | partial | 2026-09-07T08:16:57Z | [open](../records/space-maps-rhannequin-astronoby-ced172a0.md) |
 | Rohit-singh-github/Cosmic-resume | partial | 2026-08-12T22:41:00Z | [open](../records/space-maps-rohit-singh-github-cosmic-resume-55310cad.md) |
 | sametcn99/my-stars-atlas | partial | 2026-08-15T00:06:02Z | [open](../records/space-maps-sametcn99-my-stars-atlas-26dfd7e9.md) |
 | segevl/dynamic_scheduler | partial | 2026-08-24T10:46:19Z | [open](../records/space-maps-segevl-dynamic-scheduler-4c37b302.md) |
@@ -1352,7 +1353,7 @@ Records: `1617`
 | Tihkal96/CAIROforAERMOD | partial | 2025-03-17T22:14:28Z | [open](../records/space-maps-tihkal96-cairoforaermod-eb03266f.md) |
 | TingYeahh/caption_eval | partial | 2020-11-25T02:28:24Z | [open](../records/space-maps-tingyeahh-caption-eval-4aaa1edd.md) |
 | traines-source/time-space-train-planner | partial | 2026-08-02T20:07:46Z | [open](../records/space-maps-traines-source-time-space-train-planner-509d395b.md) |
-| ys-ll/uniterm | partial | 2026-09-07T05:00:50Z | [open](../records/space-maps-ys-ll-uniterm-72dda292.md) |
+| ys-ll/uniterm | partial | 2026-09-07T07:36:31Z | [open](../records/space-maps-ys-ll-uniterm-72dda292.md) |
 | zz85/space-radar | partial | 2026-05-28T03:01:07Z | [open](../records/space-maps-zz85-space-radar-21258574.md) |
 
 ## Effects
@@ -1637,7 +1638,7 @@ Records: `1617`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Abdo-Hussien/Magazine-System | partial | 2025-06-29T15:48:21Z | [open](../records/magazines-abdo-hussien-magazine-system-99fd7e1b.md) |
-| api-evangelist/vox-media | unknown | github_latest_release_missing | [open](../records/magazines-api-evangelist-vox-media-808b1be2.md) |
+| api-evangelist/vox-media | partial | 2026-09-04T20:24:39Z | [open](../records/magazines-api-evangelist-vox-media-808b1be2.md) |
 | ayushi7rawat/Ultimate-Python-Resource-Hub | partial | 2022-12-13T11:16:50Z | [open](../records/magazines-ayushi7rawat-ultimate-python-resource-hub-7be0a988.md) |
 | bahdotsh/blogr | partial | 2026-06-08T09:11:47Z | [open](../records/magazines-bahdotsh-blogr-a26c09e7.md) |
 | bindthegap/bindthegap.github.io | partial | 2021-01-11T13:58:50Z | [open](../records/magazines-bindthegap-bindthegap-github-io-fd1d4194.md) |
@@ -1647,7 +1648,7 @@ Records: `1617`
 | FRNT-dev/FRNT | partial | 2022-04-21T15:15:58Z | [open](../records/magazines-frnt-dev-frnt-b937225f.md) |
 | hehonghui/the-hot-tech-blogs | partial | 2021-03-27T10:32:10Z | [open](../records/magazines-hehonghui-the-hot-tech-blogs-1f95e24f.md) |
 | i365dev/LetterDrop | partial | 2026-02-05T10:46:45Z | [open](../records/magazines-i365dev-letterdrop-b7eb2ba6.md) |
-| icodemag/icodemag.github.io | unknown | github_latest_release_missing | [open](../records/magazines-icodemag-icodemag-github-io-2b554d80.md) |
+| icodemag/icodemag.github.io | partial | 2018-11-28T01:41:14Z | [open](../records/magazines-icodemag-icodemag-github-io-2b554d80.md) |
 | imsoumya18/upsc_bot | unknown | github_search_does_not_include_release_date | [open](../records/magazines-imsoumya18-upsc-bot-d97637c5.md) |
 | jabbalaci/Linux-Voice-issues | unknown | github_search_does_not_include_release_date | [open](../records/magazines-jabbalaci-linux-voice-issues-a36759b2.md) |
 | JacobEvelyn/friends | unknown | github_search_does_not_include_release_date | [open](../records/magazines-jacobevelyn-friends-2a09eafd.md) |
@@ -1660,14 +1661,14 @@ Records: `1617`
 | ningoink/open-source-magazine | unknown | github_search_does_not_include_release_date | [open](../records/magazines-ningoink-open-source-magazine-9862f636.md) |
 | openjournals/joss | unknown | github_search_does_not_include_release_date | [open](../records/magazines-openjournals-joss-843100bc.md) |
 | openlibhums/janeway | partial | 2026-09-06T11:02:05Z | [open](../records/magazines-openlibhums-janeway-b53e06a3.md) |
-| petterh/range-slider | unknown | github_latest_release_missing | [open](../records/magazines-petterh-range-slider-f875d29f.md) |
+| petterh/range-slider | partial | 2016-02-01T16:19:29Z | [open](../records/magazines-petterh-range-slider-f875d29f.md) |
 | rubin55/gdm-examples | partial | 2018-11-10T20:28:04Z | [open](../records/magazines-rubin55-gdm-examples-a96bfaf6.md) |
 | rust-gamedev/rust-gamedev.github.io | partial | 2025-08-28T14:43:46Z | [open](../records/magazines-rust-gamedev-rust-gamedev-github-io-a7f949a1.md) |
 | saadmk11/django-newsfeed | partial | 2024-11-18T08:09:01Z | [open](../records/magazines-saadmk11-django-newsfeed-0b109e3a.md) |
 | Sandglaz/maktoub | partial | 2023-01-19T11:17:45Z | [open](../records/magazines-sandglaz-maktoub-4bc281dd.md) |
 | SrirangaDigital/gipa | partial | 2024-06-06T09:31:07Z | [open](../records/magazines-srirangadigital-gipa-be5566ac.md) |
 | stefanbc/Asgar | unknown | github_search_does_not_include_release_date | [open](../records/magazines-stefanbc-asgar-0b7791d7.md) |
-| stlin256/OpenHomepage-V2 | partial | 2026-09-02T13:17:45Z | [open](../records/magazines-stlin256-openhomepage-v2-7462e2f1.md) |
+| stlin256/OpenHomepage-V2 | partial | 2026-09-07T05:00:08Z | [open](../records/magazines-stlin256-openhomepage-v2-7462e2f1.md) |
 | superleeyom/my-feed-OPML | partial | 2023-05-24T01:44:56Z | [open](../records/magazines-superleeyom-my-feed-opml-7829b043.md) |
 | SwiftWeekly/swiftweekly.github.io | partial | 2023-03-26T17:24:38Z | [open](../records/magazines-swiftweekly-swiftweekly-github-io-8f5db8c4.md) |
 | TryGhost/Alto | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-alto-4eb3cc9f.md) |
@@ -1805,7 +1806,7 @@ Records: `1617`
 | cstore_fdw | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-cstore-fdw-4259f19e.md) |
 | cube-js/cube | partial | 2026-09-03T02:20:07Z | [open](../records/databases-cube-js-cube-373699e3.md) |
 | cubefs/cubefs | partial | 2026-09-02T07:27:08Z | [open](../records/databases-cubefs-cubefs-2e8325bf.md) |
-| debezium/debezium | partial | 2026-09-04T10:47:43Z | [open](../records/databases-debezium-debezium-a3d23ff7.md) |
+| debezium/debezium | partial | 2026-09-07T07:08:47Z | [open](../records/databases-debezium-debezium-a3d23ff7.md) |
 | dicedb/dicedb | partial | 2026-04-23T01:00:36Z | [open](../records/databases-dicedb-dicedb-ba1cb8a6.md) |
 | digoal/blog | partial | 2026-09-03T06:34:30Z | [open](../records/databases-digoal-blog-7cde1486.md) |
 | dolthub/dolt | partial | 2026-09-06T10:35:47Z | [open](../records/databases-dolthub-dolt-702548e2.md) |
@@ -1849,7 +1850,7 @@ Records: `1617`
 | Gitea: ryan-winkler/ryanwinkler | partial | 2026-08-21T10:30:44Z | [open](../records/repository-workplaces-gitea-ryan-winkler-ryanwinkler-c5f906a1.md) |
 | Gitea: we8tguivdbsd/21eyay8qeyciubaya | partial | 2026-06-20T21:36:03Z | [open](../records/repository-workplaces-gitea-we8tguivdbsd-21eyay8qeyciubaya-47fe49cc.md) |
 | Gitea: zaccesss/.profile | partial | 2026-09-06T22:02:48Z | [open](../records/repository-workplaces-gitea-zaccesss-profile-898ffe18.md) |
-| gitlab-com/gl-infra/k8s-workloads/gitlab-com | partial | 2026-09-07T05:41:17.970Z | [open](../records/repository-workplaces-gitlab-com-gl-infra-k8s-workloads-gitlab-com-13cc554b.md) |
+| gitlab-com/gl-infra/k8s-workloads/gitlab-com | partial | 2026-09-07T08:12:48.063Z | [open](../records/repository-workplaces-gitlab-com-gl-infra-k8s-workloads-gitlab-com-13cc554b.md) |
 | gitlab-data/data-image | partial | 2026-08-21T11:24:30.282Z | [open](../records/repository-workplaces-gitlab-data-data-image-0af0c35c.md) |
 | gitlab-examples/kubernetes-deploy | partial | 2026-01-07T14:56:28.754Z | [open](../records/repository-workplaces-gitlab-examples-kubernetes-deploy-9a43e04a.md) |
 | gitlab-examples/ruby-autodeploy | partial | 2026-01-07T14:56:29.516Z | [open](../records/repository-workplaces-gitlab-examples-ruby-autodeploy-0ea70988.md) |

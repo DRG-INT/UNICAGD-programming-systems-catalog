@@ -9,22 +9,22 @@ Records: `477`
 ## Category Index
 
 [Api Abi Checker (221)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (200)](benchmarking.md) · [Build System (992)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (200)](benchmarking.md) · [Build System (992)](build-system.md) · [Cli (565)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
-[Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Concurrency Parallelism (90)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (176)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (893)](database-datastore.md) · [Datetime (233)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (106)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1606)](filesystem-os.md) · [Formatter (648)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1437)](language-specification.md) · [Library (5693)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (528)](logging-observability.md) · [Machine Learning (793)](machine-learning.md)
-[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1037)](networking-http.md)
+[Language Server (29)](language-server.md) · [Language Specification (1439)](language-specification.md) · [Library (5697)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (529)](logging-observability.md) · [Machine Learning (794)](machine-learning.md)
+[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1038)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1191)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (613)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (614)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (607)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1617)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (556)](visualization-gui.md) · **[Web Framework (477)](web-framework.md)**
+[Undefined Behavior Analyzer (1618)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (556)](visualization-gui.md) · **[Web Framework (477)](web-framework.md)**
 
 ## C++23
 
@@ -154,8 +154,8 @@ Records: `477`
 | --- | --- | --- | --- |
 | @11ty/eleventy-dev-server | 2.0.8 | 2025-03-19T17:12:20.716Z | [open](../records/node-js-javascript-11ty-eleventy-dev-server-0ff6d30a.md) |
 | @accounter/server | 0.1.0 | 2026-06-24T16:57:18.613Z | [open](../records/node-js-javascript-accounter-server-29485588.md) |
-| @allurereport/plugin-server-reload | 3.16.0 | 2026-08-25T14:25:42.457Z | [open](../records/node-js-javascript-allurereport-plugin-server-reload-1962a71d.md) |
-| @allurereport/static-server | 3.16.0 | 2026-08-25T14:25:52.656Z | [open](../records/node-js-javascript-allurereport-static-server-f7666757.md) |
+| @allurereport/plugin-server-reload | 3.16.1 | 2026-09-07T08:15:41.226Z | [open](../records/node-js-javascript-allurereport-plugin-server-reload-1962a71d.md) |
+| @allurereport/static-server | 3.16.1 | 2026-09-07T08:15:51.233Z | [open](../records/node-js-javascript-allurereport-static-server-f7666757.md) |
 | @amplitude/experiment-node-server | 1.13.6 | 2026-05-08T03:59:36.082Z | [open](../records/node-js-javascript-amplitude-experiment-node-server-fbcf3912.md) |
 | @apify/actors-mcp-server | 0.15.4 | 2026-09-02T14:46:40.806Z | [open](../records/node-js-javascript-apify-actors-mcp-server-ac83acb1.md) |
 | @apollo/server | 5.5.1 | 2026-05-05T16:05:58.885Z | [open](../records/node-js-javascript-apollo-server-46e17e33.md) |
@@ -202,7 +202,7 @@ Records: `477`
 | @newrelic/apollo-server-plugin | 8.0.0 | 2025-07-22T20:03:48.217Z | [open](../records/node-js-javascript-newrelic-apollo-server-plugin-34e68ee7.md) |
 | @nexus2520/bitbucket-mcp-server | 3.0.0 | 2026-07-09T10:23:31.348Z | [open](../records/node-js-javascript-nexus2520-bitbucket-mcp-server-c0a72fb2.md) |
 | @nuxt/nitro-server | 4.5.2 | 2026-08-05T16:17:56.963Z | [open](../records/node-js-javascript-nuxt-nitro-server-1fc1585d.md) |
-| @nuxt/nitro-server-nightly | 4.6.0-29812184.803a5038 | 2026-09-06T21:44:58.251Z | [open](../records/node-js-javascript-nuxt-nitro-server-nightly-4efe1726.md) |
+| @nuxt/nitro-server-nightly | 4.6.0-29812804.e29b3dd9 | 2026-09-07T08:05:15.158Z | [open](../records/node-js-javascript-nuxt-nitro-server-nightly-4efe1726.md) |
 | @opencode-ai/server | 0.0.0-reserved.0 | 2026-07-01T22:05:01.103Z | [open](../records/node-js-javascript-opencode-ai-server-870e8c36.md) |
 | @openfeature/core | 1.12.0 | 2026-07-28T18:53:49.315Z | [open](../records/node-js-javascript-openfeature-core-e3b3a0d0.md) |
 | @osohq/dev-server | 0.0.1-alpha.24 | 2026-07-17T14:34:26.307Z | [open](../records/node-js-javascript-osohq-dev-server-08c8f1e4.md) |
@@ -274,7 +274,7 @@ Records: `477`
 | five-server | 0.5.0 | 2026-05-12T10:40:19.391Z | [open](../records/node-js-javascript-five-server-f752688a.md) |
 | grunt-contrib-connect | 5.0.1 | 2024-10-10T12:15:17.948Z | [open](../records/node-js-javascript-grunt-contrib-connect-096e0682.md) |
 | hexo-server | 3.0.0 | 2022-01-03T05:07:25.018Z | [open](../records/node-js-javascript-hexo-server-999441df.md) |
-| hostinger-api-mcp | 1.53.0 | 2026-09-02T07:30:39.938Z | [open](../records/node-js-javascript-hostinger-api-mcp-72a83612.md) |
+| hostinger-api-mcp | 1.57.1 | 2026-09-07T07:39:50.294Z | [open](../records/node-js-javascript-hostinger-api-mcp-72a83612.md) |
 | is-ci | 4.1.0 | 2024-12-08T08:23:15.565Z | [open](../records/node-js-javascript-is-ci-0a428e2e.md) |
 | Koa | unknown | not_checked | [open](../records/node-js-javascript-koa-46377f86.md) |
 | livereload | 0.10.3 | 2025-08-14T00:59:25.811Z | [open](../records/node-js-javascript-livereload-1a5bba84.md) |
@@ -643,7 +643,7 @@ Records: `477`
 | dbgate/dbgate | partial | 2026-09-02T13:16:29Z | [open](../records/databases-dbgate-dbgate-67fc8232.md) |
 | doableware/djongo | partial | 2026-09-01T12:40:36Z | [open](../records/databases-doableware-djongo-55b89aa7.md) |
 | dotnetcore/FreeSql | partial | 2026-07-31T17:52:16Z | [open](../records/databases-dotnetcore-freesql-be272c12.md) |
-| googleapis/mcp-toolbox | partial | 2026-09-05T20:12:48Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
+| googleapis/mcp-toolbox | partial | 2026-09-07T08:19:38Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
 | lionheart/django-pyodbc | partial | 2023-01-29T16:42:06Z | [open](../records/databases-lionheart-django-pyodbc-c6078181.md) |
 | neondatabase/neon | partial | 2026-08-31T11:03:14Z | [open](../records/databases-neondatabase-neon-3c375148.md) |
 | parse-community/parse-server | partial | 2026-09-03T00:13:59Z | [open](../records/databases-parse-community-parse-server-9d5b6dd7.md) |
