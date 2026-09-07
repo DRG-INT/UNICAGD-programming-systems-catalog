@@ -10,19 +10,19 @@ Records: `1618`
 
 [Api Abi Checker (221)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
 [Benchmarking (200)](benchmarking.md) · [Build System (993)](build-system.md) · [Cli (565)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
+[Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (52)](compression.md)
 [Concurrency Parallelism (91)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (176)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (893)](database-datastore.md) · [Datetime (233)](datetime.md)
+[Cryptography (176)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (894)](database-datastore.md) · [Datetime (233)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (106)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1609)](filesystem-os.md) · [Formatter (648)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1439)](language-specification.md) · [Library (5704)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (30)](language-server.md) · [Language Specification (1439)](language-specification.md) · [Library (5707)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (529)](logging-observability.md) · [Machine Learning (794)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1039)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1192)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (616)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (618)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (607)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
 **[Undefined Behavior Analyzer (1618)](undefined-behavior-analyzer.md)** · [Utility Library (104)](utility-library.md) · [Visualization Gui (557)](visualization-gui.md) · [Web Framework (477)](web-framework.md)
 
@@ -127,28 +127,28 @@ Records: `1618`
 | @arethetypeswrong/cli | 0.18.5 | 2026-07-09T22:24:30.256Z | [open](../records/node-js-javascript-arethetypeswrong-cli-ef4de260.md) |
 | @backstage/cli-module-github | 0.1.4 | 2026-07-14T11:53:11.891Z | [open](../records/node-js-javascript-backstage-cli-module-github-929a0021.md) |
 | @camunda/task-testing | 6.0.1 | 2026-08-20T10:00:32.916Z | [open](../records/node-js-javascript-camunda-task-testing-da18aa2b.md) |
-| @cubejs-backend/athena-driver | 1.7.34 | 2026-09-04T12:01:12.081Z | [open](../records/node-js-javascript-cubejs-backend-athena-driver-6bacd80a.md) |
-| @cubejs-backend/bigquery-driver | 1.7.33 | 2026-09-03T09:05:13.485Z | [open](../records/node-js-javascript-cubejs-backend-bigquery-driver-5b2b13fc.md) |
-| @cubejs-backend/clickhouse-driver | 1.7.34 | 2026-09-04T12:01:19.186Z | [open](../records/node-js-javascript-cubejs-backend-clickhouse-driver-4d0c7732.md) |
-| @cubejs-backend/databricks-jdbc-driver | 1.7.34 | 2026-09-04T11:56:36.969Z | [open](../records/node-js-javascript-cubejs-backend-databricks-jdbc-driver-75fcf91d.md) |
-| @cubejs-backend/druid-driver | 1.7.34 | 2026-09-04T11:56:37.125Z | [open](../records/node-js-javascript-cubejs-backend-druid-driver-4b43d84c.md) |
-| @cubejs-backend/duckdb-driver | 1.7.34 | 2026-09-04T11:56:48.961Z | [open](../records/node-js-javascript-cubejs-backend-duckdb-driver-01487aa6.md) |
+| @cubejs-backend/athena-driver | 1.7.35 | 2026-09-07T15:16:40.681Z | [open](../records/node-js-javascript-cubejs-backend-athena-driver-6bacd80a.md) |
+| @cubejs-backend/bigquery-driver | 1.7.35 | 2026-09-07T15:17:41.872Z | [open](../records/node-js-javascript-cubejs-backend-bigquery-driver-5b2b13fc.md) |
+| @cubejs-backend/clickhouse-driver | 1.7.35 | 2026-09-07T15:15:59.065Z | [open](../records/node-js-javascript-cubejs-backend-clickhouse-driver-4d0c7732.md) |
+| @cubejs-backend/databricks-jdbc-driver | 1.7.35 | 2026-09-07T15:14:55.671Z | [open](../records/node-js-javascript-cubejs-backend-databricks-jdbc-driver-75fcf91d.md) |
+| @cubejs-backend/druid-driver | 1.7.35 | 2026-09-07T15:14:55.791Z | [open](../records/node-js-javascript-cubejs-backend-druid-driver-4b43d84c.md) |
+| @cubejs-backend/duckdb-driver | 1.7.35 | 2026-09-07T15:15:06.934Z | [open](../records/node-js-javascript-cubejs-backend-duckdb-driver-01487aa6.md) |
 | @cubejs-backend/hive-driver | 1.7.34 | 2026-09-04T11:56:15.526Z | [open](../records/node-js-javascript-cubejs-backend-hive-driver-465861fe.md) |
-| @cubejs-backend/jdbc-driver | 1.7.34 | 2026-09-04T11:57:51.456Z | [open](../records/node-js-javascript-cubejs-backend-jdbc-driver-04d976e1.md) |
+| @cubejs-backend/jdbc-driver | 1.7.35 | 2026-09-07T15:15:30.907Z | [open](../records/node-js-javascript-cubejs-backend-jdbc-driver-04d976e1.md) |
 | @cubejs-backend/ksql-driver | 1.7.34 | 2026-09-04T11:56:37.898Z | [open](../records/node-js-javascript-cubejs-backend-ksql-driver-8e496938.md) |
-| @cubejs-backend/materialize-driver | 1.7.34 | 2026-09-04T11:57:20.098Z | [open](../records/node-js-javascript-cubejs-backend-materialize-driver-bd47599a.md) |
+| @cubejs-backend/materialize-driver | 1.7.35 | 2026-09-07T15:15:18.976Z | [open](../records/node-js-javascript-cubejs-backend-materialize-driver-bd47599a.md) |
 | @cubejs-backend/mssql-driver | 1.7.34 | 2026-09-04T12:04:05.396Z | [open](../records/node-js-javascript-cubejs-backend-mssql-driver-74d7c0f0.md) |
-| @cubejs-backend/mysql-driver | 1.7.34 | 2026-09-04T11:59:00.754Z | [open](../records/node-js-javascript-cubejs-backend-mysql-driver-bf05660d.md) |
-| @cubejs-backend/oracle-driver | 1.7.34 | 2026-09-04T11:56:19.471Z | [open](../records/node-js-javascript-cubejs-backend-oracle-driver-67860979.md) |
+| @cubejs-backend/mysql-driver | 1.7.35 | 2026-09-07T15:16:03.025Z | [open](../records/node-js-javascript-cubejs-backend-mysql-driver-bf05660d.md) |
+| @cubejs-backend/oracle-driver | 1.7.35 | 2026-09-07T15:14:39.330Z | [open](../records/node-js-javascript-cubejs-backend-oracle-driver-67860979.md) |
 | @cubejs-backend/pinot-driver | 1.7.32 | 2026-09-01T18:09:17.499Z | [open](../records/node-js-javascript-cubejs-backend-pinot-driver-7a93e106.md) |
-| @cubejs-backend/postgres-driver | 1.7.34 | 2026-09-04T11:56:54.891Z | [open](../records/node-js-javascript-cubejs-backend-postgres-driver-10c33dff.md) |
-| @cubejs-backend/prestodb-driver | 1.7.34 | 2026-09-04T11:56:20.044Z | [open](../records/node-js-javascript-cubejs-backend-prestodb-driver-e59afba0.md) |
-| @cubejs-backend/redshift-driver | 1.7.34 | 2026-09-04T12:01:57.509Z | [open](../records/node-js-javascript-cubejs-backend-redshift-driver-5cb17bc0.md) |
-| @cubejs-backend/server | 1.7.34 | 2026-09-04T11:57:03.352Z | [open](../records/node-js-javascript-cubejs-backend-server-9616a19e.md) |
-| @cubejs-backend/snowflake-driver | 1.7.34 | 2026-09-04T11:57:57.783Z | [open](../records/node-js-javascript-cubejs-backend-snowflake-driver-8161f651.md) |
-| @cubejs-backend/sqlite-driver | 1.7.34 | 2026-09-04T11:59:32.580Z | [open](../records/node-js-javascript-cubejs-backend-sqlite-driver-1689cd48.md) |
-| @cubejs-backend/testing-shared | 1.7.34 | 2026-09-04T11:56:40.972Z | [open](../records/node-js-javascript-cubejs-backend-testing-shared-ac633cbb.md) |
-| @cubejs-backend/vertica-driver | 1.7.34 | 2026-09-04T11:56:59.519Z | [open](../records/node-js-javascript-cubejs-backend-vertica-driver-55bdb4b8.md) |
+| @cubejs-backend/postgres-driver | 1.7.35 | 2026-09-07T15:15:08.675Z | [open](../records/node-js-javascript-cubejs-backend-postgres-driver-10c33dff.md) |
+| @cubejs-backend/prestodb-driver | 1.7.35 | 2026-09-07T15:14:39.541Z | [open](../records/node-js-javascript-cubejs-backend-prestodb-driver-e59afba0.md) |
+| @cubejs-backend/redshift-driver | 1.7.35 | 2026-09-07T15:16:10.206Z | [open](../records/node-js-javascript-cubejs-backend-redshift-driver-5cb17bc0.md) |
+| @cubejs-backend/server | 1.7.35 | 2026-09-07T15:15:10.929Z | [open](../records/node-js-javascript-cubejs-backend-server-9616a19e.md) |
+| @cubejs-backend/snowflake-driver | 1.7.35 | 2026-09-07T15:15:59.295Z | [open](../records/node-js-javascript-cubejs-backend-snowflake-driver-8161f651.md) |
+| @cubejs-backend/sqlite-driver | 1.7.35 | 2026-09-07T15:15:59.412Z | [open](../records/node-js-javascript-cubejs-backend-sqlite-driver-1689cd48.md) |
+| @cubejs-backend/testing-shared | 1.7.35 | 2026-09-07T15:14:59.623Z | [open](../records/node-js-javascript-cubejs-backend-testing-shared-ac633cbb.md) |
+| @cubejs-backend/vertica-driver | 1.7.35 | 2026-09-07T15:15:10.676Z | [open](../records/node-js-javascript-cubejs-backend-vertica-driver-55bdb4b8.md) |
 | @feature-hub/server-request | 3.9.0 | 2026-07-01T12:35:23.733Z | [open](../records/node-js-javascript-feature-hub-server-request-69cc8dc3.md) |
 | @github/copilot-linux-x64 | 1.0.83 | 2026-09-04T15:43:28.366Z | [open](../records/node-js-javascript-github-copilot-linux-x64-e1103f2c.md) |
 | @hapi/subtext | 8.1.3 | 2026-05-06T10:24:45.862Z | [open](../records/node-js-javascript-hapi-subtext-e2e3527c.md) |
@@ -1849,7 +1849,7 @@ Records: `1618`
 | Gitea: quxiaorui/action-send-mail | partial | 2024-02-26T12:43:08Z | [open](../records/repository-workplaces-gitea-quxiaorui-action-send-mail-a8703907.md) |
 | Gitea: ryan-winkler/ryanwinkler | partial | 2026-08-21T10:30:44Z | [open](../records/repository-workplaces-gitea-ryan-winkler-ryanwinkler-c5f906a1.md) |
 | Gitea: we8tguivdbsd/21eyay8qeyciubaya | partial | 2026-06-20T21:36:03Z | [open](../records/repository-workplaces-gitea-we8tguivdbsd-21eyay8qeyciubaya-47fe49cc.md) |
-| Gitea: zaccesss/.profile | partial | 2026-09-07T10:06:37Z | [open](../records/repository-workplaces-gitea-zaccesss-profile-898ffe18.md) |
+| Gitea: zaccesss/.profile | partial | 2026-09-07T15:54:36Z | [open](../records/repository-workplaces-gitea-zaccesss-profile-898ffe18.md) |
 | gitlab-com/gl-infra/k8s-workloads/gitlab-com | partial | 2026-09-07T14:06:04.844Z | [open](../records/repository-workplaces-gitlab-com-gl-infra-k8s-workloads-gitlab-com-13cc554b.md) |
 | gitlab-data/data-image | partial | 2026-08-21T11:24:30.282Z | [open](../records/repository-workplaces-gitlab-data-data-image-0af0c35c.md) |
 | gitlab-examples/kubernetes-deploy | partial | 2026-01-07T14:56:28.754Z | [open](../records/repository-workplaces-gitlab-examples-kubernetes-deploy-9a43e04a.md) |
@@ -1862,7 +1862,7 @@ Records: `1618`
 | glitchtip/glitchtip-helm-chart | partial | 2026-08-01T00:27:07.881Z | [open](../records/repository-workplaces-glitchtip-glitchtip-helm-chart-8da5da49.md) |
 | just.insane/kubernetes | partial | 2019-12-24T04:31:25.427Z | [open](../records/repository-workplaces-just-insane-kubernetes-b3dc8533.md) |
 | k3s_hetzner/k3s_hetzner | partial | 2024-05-18T14:38:11.918Z | [open](../records/repository-workplaces-k3s-hetzner-k3s-hetzner-d2927843.md) |
-| kargo-ci/kubernetes-sigs-kubespray | partial | 2026-09-07T13:57:14.142Z | [open](../records/repository-workplaces-kargo-ci-kubernetes-sigs-kubespray-bd6a5638.md) |
+| kargo-ci/kubernetes-sigs-kubespray | partial | 2026-09-07T15:21:32.728Z | [open](../records/repository-workplaces-kargo-ci-kubernetes-sigs-kubespray-bd6a5638.md) |
 | ksxack/administrator-kubernetes-junior | partial | 2025-03-09T20:49:07.418Z | [open](../records/repository-workplaces-ksxack-administrator-kubernetes-junior-6dbf6036.md) |
 | lavitto/typo3-form-to-database | partial | 2026-01-28T10:30:57.005Z | [open](../records/repository-workplaces-lavitto-typo3-form-to-database-83392b7e.md) |
 | learndevopseasy/troubleshoot/kubernetes-apps | partial | 2024-12-18T10:50:49.219Z | [open](../records/repository-workplaces-learndevopseasy-troubleshoot-kubernetes-apps-43ef407e.md) |
@@ -1882,4 +1882,4 @@ Records: `1618`
 | xavki/tutorials-kubernetes-v2 | partial | 2026-06-21T11:05:47.441Z | [open](../records/repository-workplaces-xavki-tutorials-kubernetes-v2-f5262aef.md) |
 | xavki/tutorials-terraform | partial | 2026-06-21T11:06:39.325Z | [open](../records/repository-workplaces-xavki-tutorials-terraform-293992cc.md) |
 | xavki/vagrant-stacks-library | partial | 2026-06-21T11:06:12.528Z | [open](../records/repository-workplaces-xavki-vagrant-stacks-library-9b9d6de1.md) |
-| yaook/operator | partial | 2026-09-07T13:16:50.254Z | [open](../records/repository-workplaces-yaook-operator-aa452dcd.md) |
+| yaook/operator | partial | 2026-09-07T15:42:57.012Z | [open](../records/repository-workplaces-yaook-operator-aa452dcd.md) |

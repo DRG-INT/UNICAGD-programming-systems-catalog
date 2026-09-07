@@ -10,19 +10,19 @@ Records: `2183`
 
 [Api Abi Checker (221)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
 [Benchmarking (200)](../by-category/benchmarking.md) · [Build System (993)](../by-category/build-system.md) · [Cli (565)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (118)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (24)](../by-category/compiler-diagnostics.md) · [Compression (51)](../by-category/compression.md)
+[Community Reference (118)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (24)](../by-category/compiler-diagnostics.md) · [Compression (52)](../by-category/compression.md)
 [Concurrency Parallelism (91)](../by-category/concurrency-parallelism.md) · [Configuration (130)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (176)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (893)](../by-category/database-datastore.md) · [Datetime (233)](../by-category/datetime.md)
+[Cryptography (176)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (894)](../by-category/database-datastore.md) · [Datetime (233)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (102)](../by-category/dependency-manager.md) · [Documentation (106)](../by-category/documentation.md)
 [Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (457)](../by-category/ffi-bindings.md) · [Filesystem Os (1609)](../by-category/filesystem-os.md) · [Formatter (648)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (356)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1462)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (273)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1439)](../by-category/language-specification.md) · [Library (5704)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (30)](../by-category/language-server.md) · [Language Specification (1439)](../by-category/language-specification.md) · [Library (5707)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (529)](../by-category/logging-observability.md) · [Machine Learning (794)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1039)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1192)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (308)](../by-category/precommit-ci-quality.md)
 [Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
-[Security Sast (336)](../by-category/security-sast.md) · [Serialization (397)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (616)](../by-category/static-analyzer.md)
+[Security Sast (336)](../by-category/security-sast.md) · [Serialization (397)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (618)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (607)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1618)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (557)](../by-category/visualization-gui.md) · [Web Framework (477)](../by-category/web-framework.md)
 
@@ -94,7 +94,7 @@ Records: `2183`
 | --- | --- | --- | --- |
 | [actix-service](../records/rust-actix-service-c35b1c38.md) | 2.0.3 | 2025-03-09T17:57:51.688174Z | registry-derived |
 | [async-channel](../records/rust-async-channel-56d40cbc.md) | 2.5.0 | 2025-07-06T07:06:07.101546Z | registry-derived |
-| [async-compression](../records/rust-async-compression-1943c86c.md) | 0.4.44 | 2026-09-02T16:05:28.674815Z | registry-derived |
+| [async-compression](../records/rust-async-compression-1943c86c.md) | 0.4.45 | 2026-09-07T15:34:51.535043Z | registry-derived |
 | [async-executor](../records/rust-async-executor-bf2249ed.md) | 1.14.0 | 2026-02-15T16:45:48.706047Z | registry-derived |
 | [async-fs](../records/rust-async-fs-73af5d3e.md) | 2.2.0 | 2025-09-14T14:07:03.987502Z | registry-derived |
 | [async-global-executor](../records/rust-async-global-executor-51b07d47.md) | 3.1.0 | 2025-02-26T14:26:42.950567Z | registry-derived |
@@ -340,7 +340,7 @@ Records: `2183`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [compression-codecs](../records/rust-compression-codecs-b842972a.md) | 0.4.39 | 2026-09-02T16:05:24.693770Z | registry-derived |
+| [compression-codecs](../records/rust-compression-codecs-b842972a.md) | 0.4.40 | 2026-09-07T15:34:47.354441Z | registry-derived |
 | [compression-core](../records/rust-compression-core-ef3f311e.md) | 0.4.33 | 2026-09-02T16:05:19.162370Z | registry-derived |
 | [deflate](../records/rust-deflate-11068d3f.md) | 1.0.0 | 2021-11-10T17:02:27.957683Z | crates_io |
 | [gzip-header](../records/rust-gzip-header-55bb5bd8.md) | 1.1.0 | 2026-04-15T23:11:04.580804Z | crates_io |
@@ -1460,7 +1460,7 @@ Records: `2183`
 | [indoc](../records/rust-indoc-7ac5c9ea.md) | 2.0.7 | 2025-10-21T18:19:56.335839Z | registry-derived |
 | [infer](../records/rust-infer-f645b8e4.md) | 0.22.0 | 2026-07-15T15:05:03.081761Z | registry-derived |
 | [inventory](../records/rust-inventory-c3b188e3.md) | 0.3.24 | 2026-03-30T23:14:21.008253Z | registry-derived |
-| [io-uring](../records/rust-io-uring-758dc30c.md) | 0.7.14 | 2026-08-11T14:53:10.620594Z | registry-derived |
+| [io-uring](../records/rust-io-uring-758dc30c.md) | 0.7.15 | 2026-09-07T15:48:45.032143Z | registry-derived |
 | [iovec](../records/rust-iovec-3dcc0812.md) | 0.1.4 | 2019-10-09T18:09:56.560010Z | registry-derived |
 | [iri-string](../records/rust-iri-string-ed545e3a.md) | 0.7.14 | 2026-07-26T20:45:29.877603Z | registry-derived |
 | [is-macro](../records/rust-is-macro-f45b8851.md) | 0.3.8 | 2026-08-22T01:09:19.112135Z | crates_io |
