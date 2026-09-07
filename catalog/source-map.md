@@ -10,7 +10,7 @@
 [Concurrency Parallelism (90)](by-category/concurrency-parallelism.md) · [Configuration (130)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (176)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (893)](by-category/database-datastore.md) · [Datetime (233)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (102)](by-category/dependency-manager.md) · [Documentation (106)](by-category/documentation.md)
-[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (457)](by-category/ffi-bindings.md) · [Filesystem Os (1607)](by-category/filesystem-os.md) · [Formatter (648)](by-category/formatter.md)
+[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (457)](by-category/ffi-bindings.md) · [Filesystem Os (1608)](by-category/filesystem-os.md) · [Formatter (648)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (356)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1462)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (273)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
 [Language Server (29)](by-category/language-server.md) · [Language Specification (1439)](by-category/language-specification.md) · [Library (5700)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
@@ -12138,6 +12138,7 @@
 | `github_search_photography-c76aca95df0b82` | AlenVelocity/wa-sticker-formatter | [open](records/photography-alenvelocity-wa-sticker-formatter-09b95bf0.md) |
 | `github_search_photography-c8791c10fd0269` | alibaba/CicadaPlayer | [open](records/photography-alibaba-cicadaplayer-4017a4a7.md) |
 | `github_search_photography-c8ac09a66f32ff` | Codectory/AutoActions | [open](records/photography-codectory-autoactions-e74cd863.md) |
+| `github_search_photography-c8ba9bdca4a5af` | ZSDM-HDR/Zero-Shot-Diffusion-HDR | [open](records/photography-zsdm-hdr-zero-shot-diffusion-hdr-0216b999.md) |
 | `github_search_photography-c8d75afb75dd89` | imgproxy/imgproxy | [open](records/photography-imgproxy-imgproxy-fffb72aa.md) |
 | `github_search_photography-c953e7f45300d2` | LeoHsiao1/pyexiv2 | [open](records/photography-leohsiao1-pyexiv2-0ec0724a.md) |
 | `github_search_photography-c9b359b43c5967` | unsplash/unsplash_rb | [open](records/photography-unsplash-unsplash-rb-e722a9ae.md) |

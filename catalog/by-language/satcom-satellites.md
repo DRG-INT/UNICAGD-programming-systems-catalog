@@ -14,7 +14,7 @@ Records: `325`
 [Concurrency Parallelism (90)](../by-category/concurrency-parallelism.md) · [Configuration (130)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (176)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (893)](../by-category/database-datastore.md) · [Datetime (233)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (102)](../by-category/dependency-manager.md) · [Documentation (106)](../by-category/documentation.md)
-[Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (457)](../by-category/ffi-bindings.md) · [Filesystem Os (1607)](../by-category/filesystem-os.md) · [Formatter (648)](../by-category/formatter.md)
+[Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (457)](../by-category/ffi-bindings.md) · [Filesystem Os (1608)](../by-category/filesystem-os.md) · [Formatter (648)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (356)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1462)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (273)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
 [Language Server (29)](../by-category/language-server.md) · [Language Specification (1439)](../by-category/language-specification.md) · [Library (5700)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
@@ -220,7 +220,7 @@ Records: `325`
 | [bellingcat/sar-interference-tracker](../records/satcom-satellites-bellingcat-sar-interference-tracker-812a2aa7.md) | partial | 2022-02-23T13:57:03Z | registry-derived |
 | [cbassa/stvid](../records/satcom-satellites-cbassa-stvid-b0821bf9.md) | partial | 2026-06-14T12:26:58Z | registry-derived |
 | [CScorza/GEOINTInvestigation](../records/satcom-satellites-cscorza-geointinvestigation-97ccfead.md) | partial | 2025-08-08T09:23:42Z | registry-derived |
-| [dividebysandwich/sdroxide](../records/satcom-satellites-dividebysandwich-sdroxide-b0d1a434.md) | partial | 2026-09-07T09:04:20Z | registry-derived |
+| [dividebysandwich/sdroxide](../records/satcom-satellites-dividebysandwich-sdroxide-b0d1a434.md) | partial | 2026-09-07T09:25:36Z | registry-derived |
 | [JonaNorman/HDRSample](../records/satcom-satellites-jonanorman-hdrsample-b3b07c40.md) | partial | 2024-08-01T09:01:08Z | registry-derived |
 | [jx9527/FHSS-Hopping-Estimation](../records/satcom-satellites-jx9527-fhss-hopping-estimation-df3390c6.md) | partial | 2022-06-27T02:51:40Z | registry-derived |
 | [MarcinWachowiak/gr-aoa](../records/satcom-satellites-marcinwachowiak-gr-aoa-f666d650.md) | partial | 2022-03-19T19:25:05Z | registry-derived |

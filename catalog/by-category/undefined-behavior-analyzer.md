@@ -14,7 +14,7 @@ Records: `1618`
 [Concurrency Parallelism (90)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (176)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (893)](database-datastore.md) · [Datetime (233)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (106)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1607)](filesystem-os.md) · [Formatter (648)](formatter.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1608)](filesystem-os.md) · [Formatter (648)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (29)](language-server.md) · [Language Specification (1439)](language-specification.md) · [Library (5700)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -1164,7 +1164,7 @@ Records: `1618`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bytedance/deer-flow | partial | 2026-09-07T07:27:00Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
+| bytedance/deer-flow | partial | 2026-09-07T10:43:01Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
 | sansan0/TrendRadar | partial | 2026-09-03T12:34:00Z | [open](../records/aim-s-sansan0-trendradar-72e65ee1.md) |
 | TencentCloud/TencentDB-Agent-Memory | partial | 2026-09-03T02:31:45Z | [open](../records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
 
@@ -1469,11 +1469,11 @@ Records: `1618`
 | exiftool-rb/exiftool.rb | partial | 2026-06-22T16:52:35Z | [open](../records/photography-exiftool-rb-exiftool-rb-a5ae98ad.md) |
 | facebookincubator/spectrum | partial | 2024-04-04T18:56:52Z | [open](../records/photography-facebookincubator-spectrum-ca421e69.md) |
 | fengyuanchen/cropper | partial | 2020-07-21T10:46:15Z | [open](../records/photography-fengyuanchen-cropper-ed549363.md) |
-| FengZeng/soia | partial | 2026-08-29T11:04:37Z | [open](../records/photography-fengzeng-soia-b00aca79.md) |
+| FengZeng/soia | partial | 2026-09-05T05:21:20Z | [open](../records/photography-fengzeng-soia-b00aca79.md) |
 | GimelStudio/Gimel-Studio | unknown | github_search_does_not_include_release_date | [open](../records/photography-gimelstudio-gimel-studio-ee7b3558.md) |
 | haskell-github-trust/Juicy.Pixels | partial | 2026-01-15T19:36:53Z | [open](../records/photography-haskell-github-trust-juicy-pixels-a60ed54e.md) |
 | iftodebogdan/GITechDemo | partial | 2026-02-20T18:32:40Z | [open](../records/photography-iftodebogdan-gitechdemo-e261038b.md) |
-| mangeshghodke/DreamPlayer | partial | 2026-09-02T06:23:58Z | [open](../records/photography-mangeshghodke-dreamplayer-c6fbb5e1.md) |
+| mangeshghodke/DreamPlayer | partial | 2026-09-07T11:13:27Z | [open](../records/photography-mangeshghodke-dreamplayer-c6fbb5e1.md) |
 | moul-co/moul | partial | 2024-01-09T09:14:39Z | [open](../records/photography-moul-co-moul-2cca2d07.md) |
 | mv-lab/nilut | partial | 2024-01-29T10:38:23Z | [open](../records/photography-mv-lab-nilut-866ec3fa.md) |
 | ncoevoet/facet | partial | 2026-09-07T08:30:13Z | [open](../records/photography-ncoevoet-facet-9042db71.md) |
@@ -1492,7 +1492,7 @@ Records: `1618`
 | wang-bin/fvp | partial | 2026-08-27T02:44:40Z | [open](../records/photography-wang-bin-fvp-ce06fab9.md) |
 | waschinski/photo-stream | unknown | github_search_does_not_include_release_date | [open](../records/photography-waschinski-photo-stream-50ae7f11.md) |
 | waynezhang/foto | partial | 2026-08-25T04:34:34Z | [open](../records/photography-waynezhang-foto-20b11b55.md) |
-| ZHINFINITY/Mpv-infinity | partial | 2026-09-04T19:03:03Z | [open](../records/photography-zhinfinity-mpv-infinity-50ba490d.md) |
+| ZHINFINITY/Mpv-infinity | partial | 2026-09-07T10:45:40Z | [open](../records/photography-zhinfinity-mpv-infinity-50ba490d.md) |
 
 ## Microscopy
 
@@ -1568,7 +1568,7 @@ Records: `1618`
 | 720kb/radiobox.css | partial | 2017-11-10T14:52:56Z | [open](../records/electromagnetoscopes-720kb-radiobox-css-3e1ebc91.md) |
 | cjcliffe/CubicSDR | partial | 2026-09-02T02:19:48Z | [open](../records/electromagnetoscopes-cjcliffe-cubicsdr-4d39607b.md) |
 | dabana/TEM_dash | partial | 2018-09-25T11:40:19Z | [open](../records/electromagnetoscopes-dabana-tem-dash-d58d5144.md) |
-| f4exb/sdrangel | partial | 2026-09-07T02:46:04Z | [open](../records/electromagnetoscopes-f4exb-sdrangel-2939271b.md) |
+| f4exb/sdrangel | partial | 2026-09-07T08:04:31Z | [open](../records/electromagnetoscopes-f4exb-sdrangel-2939271b.md) |
 | GeoBrain-Project/GeoBrain | partial | 2026-08-20T08:37:35Z | [open](../records/electromagnetoscopes-geobrain-project-geobrain-aeb85431.md) |
 | greatscottgadgets/ubertooth | partial | 2026-03-19T15:58:24Z | [open](../records/electromagnetoscopes-greatscottgadgets-ubertooth-28bac228.md) |
 | jvde-github/AIS-catcher | partial | 2026-09-06T22:14:18Z | [open](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) |

@@ -14,7 +14,7 @@ Records: `1462`
 [Concurrency Parallelism (90)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (176)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (893)](database-datastore.md) · [Datetime (233)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (106)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1607)](filesystem-os.md) · [Formatter (648)](formatter.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1608)](filesystem-os.md) · [Formatter (648)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · **[Ide Editor Integration (1462)](ide-editor-integration.md)**
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (29)](language-server.md) · [Language Specification (1439)](language-specification.md) · [Library (5700)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -684,11 +684,11 @@ Records: `1462`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-07T02:09:02Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-07T10:17:57Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-07T10:59:48Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-05T16:04:02Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-07T08:03:15Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-07T09:14:30Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
-| mudler/LocalAI | partial | 2026-09-07T08:06:31Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
+| mudler/LocalAI | partial | 2026-09-07T10:56:55Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-07T08:58:37Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
 
@@ -1297,7 +1297,7 @@ Records: `1462`
 | yuehaowang/bilarf | partial | 2024-09-14T21:43:30Z | [open](../records/photography-yuehaowang-bilarf-ff8bd822.md) |
 | zhongjhATC/AlbumCameraRecorder | partial | 2026-09-03T07:53:45Z | [open](../records/photography-zhongjhatc-albumcamerarecorder-a6d618e8.md) |
 | zidage/AlcedoStudio | unknown | github_search_does_not_include_release_date | [open](../records/photography-zidage-alcedostudio-0233770d.md) |
-| zmz125000/LocalViewer | partial | 2026-09-04T11:29:00Z | [open](../records/photography-zmz125000-localviewer-1d07cc54.md) |
+| zmz125000/LocalViewer | partial | 2026-09-07T11:09:36Z | [open](../records/photography-zmz125000-localviewer-1d07cc54.md) |
 
 ## Microscopy
 
@@ -1402,7 +1402,7 @@ Records: `1462`
 | bellingcat/sar-interference-tracker | partial | 2022-02-23T13:57:03Z | [open](../records/satcom-satellites-bellingcat-sar-interference-tracker-812a2aa7.md) |
 | cbassa/stvid | partial | 2026-06-14T12:26:58Z | [open](../records/satcom-satellites-cbassa-stvid-b0821bf9.md) |
 | CScorza/GEOINTInvestigation | partial | 2025-08-08T09:23:42Z | [open](../records/satcom-satellites-cscorza-geointinvestigation-97ccfead.md) |
-| dividebysandwich/sdroxide | partial | 2026-09-07T09:04:20Z | [open](../records/satcom-satellites-dividebysandwich-sdroxide-b0d1a434.md) |
+| dividebysandwich/sdroxide | partial | 2026-09-07T09:25:36Z | [open](../records/satcom-satellites-dividebysandwich-sdroxide-b0d1a434.md) |
 | JonaNorman/HDRSample | partial | 2024-08-01T09:01:08Z | [open](../records/satcom-satellites-jonanorman-hdrsample-b3b07c40.md) |
 | jx9527/FHSS-Hopping-Estimation | partial | 2022-06-27T02:51:40Z | [open](../records/satcom-satellites-jx9527-fhss-hopping-estimation-df3390c6.md) |
 | MarcinWachowiak/gr-aoa | partial | 2022-03-19T19:25:05Z | [open](../records/satcom-satellites-marcinwachowiak-gr-aoa-f666d650.md) |
@@ -1420,7 +1420,7 @@ Records: `1462`
 | HoBeZwe/SphericalScattering.jl | partial | 2025-04-25T22:38:09Z | [open](../records/electromagnetoscopes-hobezwe-sphericalscattering-jl-ba9079c6.md) |
 | JonaNorman/HDRSample | partial | 2024-08-01T09:01:08Z | [open](../records/electromagnetoscopes-jonanorman-hdrsample-ac827086.md) |
 | NGSolve/ngsolve | partial | 2026-09-04T22:45:51Z | [open](../records/electromagnetoscopes-ngsolve-ngsolve-f54b35ee.md) |
-| wenzhixin/bootstrap-table | partial | 2026-09-05T00:00:41Z | [open](../records/electromagnetoscopes-wenzhixin-bootstrap-table-50c48a32.md) |
+| wenzhixin/bootstrap-table | partial | 2026-09-07T07:46:13Z | [open](../records/electromagnetoscopes-wenzhixin-bootstrap-table-50c48a32.md) |
 | wiedehopf/tar1090 | partial | 2026-09-05T19:20:39Z | [open](../records/electromagnetoscopes-wiedehopf-tar1090-c8688d5c.md) |
 
 ## Radio Garden Speciality

@@ -1,6 +1,6 @@
 # Filesystem Os
 
-Records: `1607`
+Records: `1608`
 
 ## Navigation
 
@@ -14,7 +14,7 @@ Records: `1607`
 [Concurrency Parallelism (90)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (176)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (893)](database-datastore.md) · [Datetime (233)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (106)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · **[Filesystem Os (1607)](filesystem-os.md)** · [Formatter (648)](formatter.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · **[Filesystem Os (1608)](filesystem-os.md)** · [Formatter (648)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (29)](language-server.md) · [Language Specification (1439)](language-specification.md) · [Library (5700)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -574,7 +574,7 @@ Records: `1607`
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-08-30T15:02:19Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-07T10:12:38Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-07T11:16:53Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -1256,7 +1256,7 @@ Records: `1607`
 | aiff22/PyNET | partial | 2025-08-23T13:20:25Z | [open](../records/photography-aiff22-pynet-0fb4cb17.md) |
 | aiff22/PyNET-Bokeh | unknown | github_search_does_not_include_release_date | [open](../records/photography-aiff22-pynet-bokeh-519da98d.md) |
 | aiff22/PyNET-PyTorch | partial | 2025-08-23T12:56:55Z | [open](../records/photography-aiff22-pynet-pytorch-8da331a9.md) |
-| AlkaidLab/foundation-sunshine | partial | 2026-09-04T14:59:29Z | [open](../records/photography-alkaidlab-foundation-sunshine-96ec5220.md) |
+| AlkaidLab/foundation-sunshine | partial | 2026-09-07T11:19:36Z | [open](../records/photography-alkaidlab-foundation-sunshine-96ec5220.md) |
 | Apparence-io/CamerAwesome | partial | 2026-04-08T20:22:58Z | [open](../records/photography-apparence-io-camerawesome-6dfa91a5.md) |
 | ashesbloom/LocalLens | partial | 2026-08-22T13:22:23Z | [open](../records/photography-ashesbloom-locallens-fde40cf9.md) |
 | aslost/pixtale | partial | 2026-09-01T14:07:49Z | [open](../records/photography-aslost-pixtale-df702412.md) |
@@ -1291,7 +1291,7 @@ Records: `1607`
 | litten/zing-gallery | partial | 2018-01-25T09:53:32Z | [open](../records/photography-litten-zing-gallery-8687fd0d.md) |
 | mauriciojost/olympus-photosync | unknown | github_search_does_not_include_release_date | [open](../records/photography-mauriciojost-olympus-photosync-e4bdd7fc.md) |
 | Neko3000/Monotone | partial | 2022-09-25T08:34:38Z | [open](../records/photography-neko3000-monotone-6bff49ae.md) |
-| niklasr22/BrightIntosh | partial | 2026-09-04T17:20:10Z | [open](../records/photography-niklasr22-brightintosh-a739a56f.md) |
+| niklasr22/BrightIntosh | partial | 2026-09-05T16:22:09Z | [open](../records/photography-niklasr22-brightintosh-a739a56f.md) |
 | open-product-data/digital-cameras | unknown | github_search_does_not_include_release_date | [open](../records/photography-open-product-data-digital-cameras-6d723530.md) |
 | photoprism/photoprism | partial | 2026-09-06T11:10:13Z | [open](../records/photography-photoprism-photoprism-49783c79.md) |
 | PicPeak/picpeak | partial | 2026-09-07T09:53:03Z | [open](../records/photography-picpeak-picpeak-d6957174.md) |
@@ -1310,11 +1310,12 @@ Records: `1607`
 | TimOliver/TOCropViewController | partial | 2026-07-28T15:53:56Z | [open](../records/photography-timoliver-tocropviewcontroller-646242a6.md) |
 | TomoyukiAota/photo-location-map | partial | 2026-09-06T14:29:13Z | [open](../records/photography-tomoyukiaota-photo-location-map-d4ff41d5.md) |
 | waschinski/photo-stream | partial | 2026-06-23T20:05:48Z | [open](../records/photography-waschinski-photo-stream-ff2deddb.md) |
-| wkjarosz/hdrview | partial | 2026-09-04T18:34:45Z | [open](../records/photography-wkjarosz-hdrview-37a29874.md) |
+| wkjarosz/hdrview | partial | 2026-09-04T19:42:29Z | [open](../records/photography-wkjarosz-hdrview-37a29874.md) |
 | wsl2ls/iOS_Tips | partial | 2022-08-28T19:02:32Z | [open](../records/photography-wsl2ls-ios-tips-4b0e1ffa.md) |
 | Yummypets/YPImagePicker | partial | 2026-07-28T15:57:49Z | [open](../records/photography-yummypets-ypimagepicker-25854b52.md) |
 | zapdos-labs/unblink | partial | 2026-03-09T09:42:25Z | [open](../records/photography-zapdos-labs-unblink-0845b1a9.md) |
 | zidage/AlcedoStudio | partial | 2026-09-07T03:33:18Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
+| ZSDM-HDR/Zero-Shot-Diffusion-HDR | partial | 2025-08-25T07:36:28Z | [open](../records/photography-zsdm-hdr-zero-shot-diffusion-hdr-0216b999.md) |
 
 ## Microscopy
 
@@ -1379,7 +1380,7 @@ Records: `1607`
 | rapidsai/cucim | partial | 2026-09-07T02:58:48Z | [open](../records/microscopy-rapidsai-cucim-6fd9f972.md) |
 | royerlab/cytoself | partial | 2025-08-05T18:46:40Z | [open](../records/microscopy-royerlab-cytoself-b2dff824.md) |
 | rwb27/openflexure_microscope | partial | 2019-04-30T15:12:38Z | [open](../records/microscopy-rwb27-openflexure-microscope-9f4f36b7.md) |
-| scalableminds/webknossos | partial | 2026-09-07T10:10:14Z | [open](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) |
+| scalableminds/webknossos | partial | 2026-09-07T11:09:20Z | [open](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) |
 | seung-lab/cloud-volume | partial | 2026-09-03T21:08:26Z | [open](../records/microscopy-seung-lab-cloud-volume-388cc8e9.md) |
 | tferr/Scripts | partial | 2022-06-03T11:23:48Z | [open](../records/microscopy-tferr-scripts-25277503.md) |
 | TheDeanLab/navigate | partial | 2026-09-04T15:20:12Z | [open](../records/microscopy-thedeanlab-navigate-dc14fa5a.md) |

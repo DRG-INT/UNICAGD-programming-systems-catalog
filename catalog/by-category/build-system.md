@@ -14,7 +14,7 @@ Records: `993`
 [Concurrency Parallelism (90)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (176)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (893)](database-datastore.md) · [Datetime (233)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (106)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1607)](filesystem-os.md) · [Formatter (648)](formatter.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1608)](filesystem-os.md) · [Formatter (648)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (29)](language-server.md) · [Language Specification (1439)](language-specification.md) · [Library (5700)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -642,9 +642,9 @@ Records: `993`
 | bazel-contrib/rules_cuda | partial | 2026-09-04T04:36:11Z | [open](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) |
 | bazel-contrib/rules_dotnet | partial | 2026-09-02T11:40:11Z | [open](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) |
 | bazel-contrib/rules_go | partial | 2026-09-04T21:21:49Z | [open](../records/starlark-bazel-contrib-rules-go-4b6a62de.md) |
-| bazel-contrib/rules_img | partial | 2026-09-03T20:00:18Z | [open](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) |
+| bazel-contrib/rules_img | partial | 2026-09-07T11:19:40Z | [open](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) |
 | bazel-contrib/rules_kotlin | partial | 2026-09-03T20:32:15Z | [open](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) |
-| bazel-contrib/rules_scala | partial | 2026-09-07T09:25:59Z | [open](../records/starlark-bazel-contrib-rules-scala-d92d7813.md) |
+| bazel-contrib/rules_scala | partial | 2026-09-07T10:52:51Z | [open](../records/starlark-bazel-contrib-rules-scala-d92d7813.md) |
 | bazelbuild/bazel-skylib | partial | 2026-09-01T20:37:47Z | [open](../records/starlark-bazelbuild-bazel-skylib-6abae8f4.md) |
 | bazelbuild/rules_cc | partial | 2026-09-03T22:41:14Z | [open](../records/starlark-bazelbuild-rules-cc-39327329.md) |
 | bazelbuild/rules_closure | partial | 2026-04-03T21:28:30Z | [open](../records/starlark-bazelbuild-rules-closure-5adb8287.md) |
@@ -682,19 +682,19 @@ Records: `993`
 | --- | --- | --- | --- |
 | agentscope-ai/agentscope | partial | 2026-09-07T04:47:17Z | [open](../records/aim-s-agentscope-ai-agentscope-52a2aaa7.md) |
 | browser-use/browser-use | partial | 2026-09-05T17:28:29Z | [open](../records/aim-s-browser-use-browser-use-3a4135d4.md) |
-| ComposioHQ/composio | partial | 2026-09-07T06:36:10Z | [open](../records/aim-s-composiohq-composio-aca55143.md) |
+| ComposioHQ/composio | partial | 2026-09-07T10:56:15Z | [open](../records/aim-s-composiohq-composio-aca55143.md) |
 | CopilotKit/CopilotKit | partial | 2026-09-07T03:33:18Z | [open](../records/aim-s-copilotkit-copilotkit-a4294d79.md) |
-| deepset-ai/haystack | partial | 2026-09-07T10:21:16Z | [open](../records/aim-s-deepset-ai-haystack-9a3ef275.md) |
+| deepset-ai/haystack | partial | 2026-09-07T10:48:16Z | [open](../records/aim-s-deepset-ai-haystack-9a3ef275.md) |
 | DietrichGebert/ponytail | partial | 2026-09-04T12:35:29Z | [open](../records/aim-s-dietrichgebert-ponytail-2aa63d65.md) |
 | khoj-ai/khoj | partial | 2026-08-02T01:55:40Z | [open](../records/aim-s-khoj-ai-khoj-7c0ba8b7.md) |
 | langchain-ai/langgraph | partial | 2026-09-06T00:55:48Z | [open](../records/aim-s-langchain-ai-langgraph-3d7f01d8.md) |
-| langgenius/dify | partial | 2026-09-07T10:12:32Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
-| rohitg00/ai-engineering-from-scratch | partial | 2026-09-07T10:18:51Z | [open](../records/aim-s-rohitg00-ai-engineering-from-scratch-ac445b06.md) |
-| Significant-Gravitas/AutoGPT | partial | 2026-09-07T10:18:56Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
+| langgenius/dify | partial | 2026-09-07T11:20:51Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
+| rohitg00/ai-engineering-from-scratch | partial | 2026-09-07T11:00:34Z | [open](../records/aim-s-rohitg00-ai-engineering-from-scratch-ac445b06.md) |
+| Significant-Gravitas/AutoGPT | partial | 2026-09-07T11:18:29Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
 | tinyhumansai/openhuman | partial | 2026-09-04T04:53:43Z | [open](../records/aim-s-tinyhumansai-openhuman-314d98d9.md) |
 | tirth8205/code-review-graph | partial | 2026-08-27T10:35:01Z | [open](../records/aim-s-tirth8205-code-review-graph-ebee7525.md) |
-| vercel/ai | partial | 2026-09-07T09:06:48Z | [open](../records/aim-s-vercel-ai-ae0b1907.md) |
-| Zackriya-Solutions/meetily | partial | 2026-09-07T08:14:08Z | [open](../records/aim-s-zackriya-solutions-meetily-959563c6.md) |
+| vercel/ai | partial | 2026-09-07T11:08:51Z | [open](../records/aim-s-vercel-ai-ae0b1907.md) |
+| Zackriya-Solutions/meetily | partial | 2026-09-07T11:15:04Z | [open](../records/aim-s-zackriya-solutions-meetily-959563c6.md) |
 
 ## Computer Graphics Software
 
@@ -964,7 +964,7 @@ Records: `993`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Chinna95P/mpv-anime-build | partial | 2026-09-02T12:54:07Z | [open](../records/photography-chinna95p-mpv-anime-build-c3f4be6f.md) |
+| Chinna95P/mpv-anime-build | partial | 2026-09-06T10:14:22Z | [open](../records/photography-chinna95p-mpv-anime-build-c3f4be6f.md) |
 | luoxue03/mpv-lazy-2026-custom | partial | 2026-08-21T14:18:51Z | [open](../records/photography-luoxue03-mpv-lazy-2026-custom-78859b64.md) |
 | natario1/CameraView | partial | 2024-09-03T20:56:02Z | [open](../records/photography-natario1-cameraview-d63ed58c.md) |
 | nuno-faria/tiler | partial | 2023-10-31T13:55:47Z | [open](../records/photography-nuno-faria-tiler-7b94422f.md) |
@@ -978,7 +978,7 @@ Records: `993`
 | labsyspharm/minerva-story | partial | 2024-05-08T18:52:37Z | [open](../records/microscopy-labsyspharm-minerva-story-6e0a209a.md) |
 | lemonspurple/DIY-Scanning-Tunneling-Microscope | partial | 2026-06-08T18:08:44Z | [open](../records/microscopy-lemonspurple-diy-scanning-tunneling-microscope-5995151b.md) |
 | royerlab/napari-mcp | partial | 2026-03-25T18:05:52Z | [open](../records/microscopy-royerlab-napari-mcp-5804742f.md) |
-| saeyslab/harpy | partial | 2026-09-07T09:34:44Z | [open](../records/microscopy-saeyslab-harpy-13fb4e50.md) |
+| saeyslab/harpy | partial | 2026-09-07T10:32:28Z | [open](../records/microscopy-saeyslab-harpy-13fb4e50.md) |
 
 ## Telescopes
 

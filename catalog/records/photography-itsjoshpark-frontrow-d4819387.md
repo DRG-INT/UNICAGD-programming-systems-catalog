@@ -40,7 +40,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | {"key": "", "name": "", "url": ""}; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
@@ -57,7 +57,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-02 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:hdr stars:>20", "retrieved": "2026-09-02", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-07 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:hdr stars:>20", "retrieved": "2026-09-07", "status": "forge-cli-derived"}` |
 
 </details>
 
@@ -93,7 +93,7 @@ Evidence records merged into this identity: `1`.
 [Concurrency Parallelism (90)](../by-category/concurrency-parallelism.md) · [Configuration (130)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (176)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (893)](../by-category/database-datastore.md) · [Datetime (233)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (102)](../by-category/dependency-manager.md) · [Documentation (106)](../by-category/documentation.md)
-[Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (457)](../by-category/ffi-bindings.md) · [Filesystem Os (1607)](../by-category/filesystem-os.md) · [Formatter (648)](../by-category/formatter.md)
+[Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (457)](../by-category/ffi-bindings.md) · [Filesystem Os (1608)](../by-category/filesystem-os.md) · [Formatter (648)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (356)](../by-category/game-engine-game-dev.md) · **[Ide Editor Integration (1462)](../by-category/ide-editor-integration.md)**
 [Image Audio Dsp (438)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (273)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
 [Language Server (29)](../by-category/language-server.md) · [Language Specification (1439)](../by-category/language-specification.md) · [Library (5700)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
