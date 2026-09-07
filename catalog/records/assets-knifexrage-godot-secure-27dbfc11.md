@@ -43,7 +43,7 @@ graph control, artifact reproducibility, cross-platform build policy, and CI int
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | ISC License; https://api.github.com/licenses/isc; MIT License; https://api.github.com/licenses/mit; Other |
+| Evidence | Other; MIT License; https://api.github.com/licenses/mit |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

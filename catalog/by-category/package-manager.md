@@ -452,7 +452,7 @@ Records: `442`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | lgrcia/prose | partial | 2025-07-10T00:31:54Z | [open](../records/telescopes-lgrcia-prose-f417f514.md) |
-| spacetelescope/jwst | partial | 2026-09-03T17:52:41Z | [open](../records/telescopes-spacetelescope-jwst-e1b99f64.md) |
+| spacetelescope/jwst | partial | 2026-09-07T19:11:00Z | [open](../records/telescopes-spacetelescope-jwst-e1b99f64.md) |
 
 ## Radars
 
@@ -465,7 +465,7 @@ Records: `442`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AzuraCast/AzuraCast | partial | 2026-09-05T20:08:27Z | [open](../records/electromagnetoscopes-azuracast-azuracast-24484a93.md) |
+| AzuraCast/AzuraCast | partial | 2026-09-07T11:44:59Z | [open](../records/electromagnetoscopes-azuracast-azuracast-24484a93.md) |
 
 ## Repertoare Catalogs
 

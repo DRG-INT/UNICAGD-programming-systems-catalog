@@ -40,7 +40,7 @@ artifact reproducibility, cross-platform build policy, and CI integration.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; Other |
+| Evidence | GPL-3 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

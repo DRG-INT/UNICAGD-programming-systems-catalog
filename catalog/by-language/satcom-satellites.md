@@ -142,7 +142,7 @@ Records: `325`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ainfosec/FISSURE](../records/satcom-satellites-ainfosec-fissure-2be895d2.md) | partial | 2026-09-05T15:41:17Z | registry-derived |
+| [ainfosec/FISSURE](../records/satcom-satellites-ainfosec-fissure-2be895d2.md) | partial | 2026-09-07T17:44:48Z | registry-derived |
 | [AlexandreRouma/SDRPlusPlus](../records/satcom-satellites-alexandrerouma-sdrplusplus-e02064ad.md) | partial | 2026-07-05T00:37:31Z | registry-derived |
 | [antonjan/gnuradio-grc-examples](../records/satcom-satellites-antonjan-gnuradio-grc-examples-db27850c.md) | partial | 2022-09-02T07:17:09Z | registry-derived |
 | [aweeri/TLEscope](../records/satcom-satellites-aweeri-tlescope-9706f874.md) | partial | 2026-09-01T16:22:42Z | registry-derived |
@@ -305,7 +305,7 @@ Records: `325`
 | [csdvb/dvbs2_tx](../records/satcom-satellites-csdvb-dvbs2-tx-c714b8f5.md) | partial | 2018-06-14T20:47:16Z | registry-derived |
 | [csete/gpredict](../records/satcom-satellites-csete-gpredict-00041760.md) | partial | 2026-08-16T15:12:21Z | registry-derived |
 | [DahnJ/EO-jobs](../records/satcom-satellites-dahnj-eo-jobs-976e2c28.md) | partial | 2026-06-15T01:11:51Z | registry-derived |
-| [daniestevez/gr-satellites](../records/satcom-satellites-daniestevez-gr-satellites-e33d9ffc.md) | partial | 2026-08-20T06:26:31Z | registry-derived |
+| [daniestevez/gr-satellites](../records/satcom-satellites-daniestevez-gr-satellites-e33d9ffc.md) | partial | 2026-09-07T18:21:33Z | registry-derived |
 | [dariol83/drorbiteex](../records/satcom-satellites-dariol83-drorbiteex-4650c774.md) | partial | 2024-07-14T15:06:16Z | registry-derived |
 | [dernasherbrezon/jradio](../records/satcom-satellites-dernasherbrezon-jradio-5b3316f1.md) | partial | 2026-08-08T16:41:43Z | registry-derived |
 | [dimitriblock/gr-cheatsheet](../records/satcom-satellites-dimitriblock-gr-cheatsheet-302c9310.md) | partial | 2018-04-23T15:29:47Z | registry-derived |
@@ -376,9 +376,9 @@ Records: `325`
 | [analogdevicesinc/gr-iio](../records/satcom-satellites-analogdevicesinc-gr-iio-e7f28c5e.md) | partial | 2023-06-30T09:08:01Z | registry-derived |
 | [analogdevicesinc/plutosdr-fw](../records/satcom-satellites-analogdevicesinc-plutosdr-fw-a29d6db0.md) | partial | 2026-08-13T21:21:29Z | registry-derived |
 | [ANG13T/SatIntel](../records/satcom-satellites-ang13t-satintel-b65eedb1.md) | partial | 2024-03-15T16:29:23Z | registry-derived |
-| [mendhak/gpslogger](../records/satcom-satellites-mendhak-gpslogger-84bde361.md) | partial | 2026-08-31T07:06:11Z | registry-derived |
+| [mendhak/gpslogger](../records/satcom-satellites-mendhak-gpslogger-84bde361.md) | partial | 2026-09-07T17:56:55Z | registry-derived |
 | [sam210723/COMS-1](../records/satcom-satellites-sam210723-coms-1-fe0ec3b6.md) | partial | 2019-08-03T07:17:39Z | registry-derived |
-| [sgoudelis/ground-station](../records/satcom-satellites-sgoudelis-ground-station-5494598a.md) | partial | 2026-09-06T17:39:57Z | registry-derived |
+| [sgoudelis/ground-station](../records/satcom-satellites-sgoudelis-ground-station-5494598a.md) | partial | 2026-09-07T11:37:34Z | registry-derived |
 
 ### Machine Learning
 
@@ -519,10 +519,10 @@ Records: `325`
 | [jvde-github/AIS-catcher](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) | partial | 2026-09-06T22:14:18Z | registry-derived |
 | [kismetwireless/kismet](../records/satcom-satellites-kismetwireless-kismet-f1e1e53d.md) | partial | 2026-09-01T15:36:57Z | registry-derived |
 | [KubOS-Preservation-Group/ccsds-spacepacket](../records/satcom-satellites-kubos-preservation-group-ccsds-spacepacket-4cff5034.md) | partial | 2022-06-13T23:22:58Z | registry-derived |
-| [libcsp/libcsp](../records/satcom-satellites-libcsp-libcsp-abe29c50.md) | partial | 2026-09-04T06:58:55Z | registry-derived |
+| [libcsp/libcsp](../records/satcom-satellites-libcsp-libcsp-abe29c50.md) | partial | 2026-09-07T12:25:21Z | registry-derived |
 | [Mejiro-McQueen/Bifrost](../records/satcom-satellites-mejiro-mcqueen-bifrost-545d8ca0.md) | partial | 2023-10-18T00:26:27Z | registry-derived |
 | [opensatellite/KS-1Q](../records/satcom-satellites-opensatellite-ks-1q-6171a46e.md) | partial | 2022-06-21T17:25:16Z | registry-derived |
-| [raceintospace/raceintospace](../records/satcom-satellites-raceintospace-raceintospace-aabc64c6.md) | partial | 2026-09-06T23:49:15Z | registry-derived |
+| [raceintospace/raceintospace](../records/satcom-satellites-raceintospace-raceintospace-aabc64c6.md) | partial | 2026-09-07T15:58:05Z | registry-derived |
 | [RedhawkSDR/redhawk](../records/satcom-satellites-redhawksdr-redhawk-579f9599.md) | partial | 2023-05-12T19:01:24Z | registry-derived |
 | [sam210723/orbcomm-rx](../records/satcom-satellites-sam210723-orbcomm-rx-ccf42f9d.md) | partial | 2019-12-23T06:01:41Z | registry-derived |
 | [thebaldgeek/thebaldgeek.github.io](../records/satcom-satellites-thebaldgeek-thebaldgeek-github-io-2494b7a4.md) | partial | 2025-10-25T19:14:36Z | registry-derived |

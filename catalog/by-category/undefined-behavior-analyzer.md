@@ -1552,10 +1552,10 @@ Records: `1618`
 | jvde-github/AIS-catcher | partial | 2026-09-06T22:14:18Z | [open](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) |
 | kismetwireless/kismet | partial | 2026-09-01T15:36:57Z | [open](../records/satcom-satellites-kismetwireless-kismet-f1e1e53d.md) |
 | KubOS-Preservation-Group/ccsds-spacepacket | partial | 2022-06-13T23:22:58Z | [open](../records/satcom-satellites-kubos-preservation-group-ccsds-spacepacket-4cff5034.md) |
-| libcsp/libcsp | partial | 2026-09-04T06:58:55Z | [open](../records/satcom-satellites-libcsp-libcsp-abe29c50.md) |
+| libcsp/libcsp | partial | 2026-09-07T12:25:21Z | [open](../records/satcom-satellites-libcsp-libcsp-abe29c50.md) |
 | Mejiro-McQueen/Bifrost | partial | 2023-10-18T00:26:27Z | [open](../records/satcom-satellites-mejiro-mcqueen-bifrost-545d8ca0.md) |
 | opensatellite/KS-1Q | partial | 2022-06-21T17:25:16Z | [open](../records/satcom-satellites-opensatellite-ks-1q-6171a46e.md) |
-| raceintospace/raceintospace | partial | 2026-09-06T23:49:15Z | [open](../records/satcom-satellites-raceintospace-raceintospace-aabc64c6.md) |
+| raceintospace/raceintospace | partial | 2026-09-07T15:58:05Z | [open](../records/satcom-satellites-raceintospace-raceintospace-aabc64c6.md) |
 | RedhawkSDR/redhawk | partial | 2023-05-12T19:01:24Z | [open](../records/satcom-satellites-redhawksdr-redhawk-579f9599.md) |
 | sam210723/orbcomm-rx | partial | 2019-12-23T06:01:41Z | [open](../records/satcom-satellites-sam210723-orbcomm-rx-ccf42f9d.md) |
 | thebaldgeek/thebaldgeek.github.io | partial | 2025-10-25T19:14:36Z | [open](../records/satcom-satellites-thebaldgeek-thebaldgeek-github-io-2494b7a4.md) |
@@ -1573,7 +1573,7 @@ Records: `1618`
 | greatscottgadgets/ubertooth | partial | 2026-03-19T15:58:24Z | [open](../records/electromagnetoscopes-greatscottgadgets-ubertooth-28bac228.md) |
 | jvde-github/AIS-catcher | partial | 2026-09-06T22:14:18Z | [open](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) |
 | kismetwireless/kismet | partial | 2026-09-01T15:36:57Z | [open](../records/electromagnetoscopes-kismetwireless-kismet-abff54d8.md) |
-| LargeModGames/spotatui | partial | 2026-09-06T17:45:01Z | [open](../records/electromagnetoscopes-largemodgames-spotatui-27906be2.md) |
+| LargeModGames/spotatui | partial | 2026-09-07T19:17:21Z | [open](../records/electromagnetoscopes-largemodgames-spotatui-27906be2.md) |
 | Moosync/Moosync-electron | partial | 2025-03-06T13:43:37Z | [open](../records/electromagnetoscopes-moosync-moosync-electron-6b29db05.md) |
 | RedhawkSDR/redhawk | partial | 2023-05-12T19:01:24Z | [open](../records/electromagnetoscopes-redhawksdr-redhawk-394b8fa1.md) |
 | Thom-x/docker-fr24feed-piaware-dump1090 | partial | 2026-08-03T18:05:22Z | [open](../records/electromagnetoscopes-thom-x-docker-fr24feed-piaware-dump1090-77ea9789.md) |
@@ -1586,7 +1586,7 @@ Records: `1618`
 | DanillaY/CatBotNightly | partial | 2024-08-06T03:59:18Z | [open](../records/radio-garden-speciality-danillay-catbotnightly-3158d388.md) |
 | itsmartashub/GardenPort | partial | 2026-06-01T14:58:27Z | [open](../records/radio-garden-speciality-itsmartashub-gardenport-8ff72db5.md) |
 | Klubuntu/radio-garden-dc | partial | 2024-09-05T06:57:41Z | [open](../records/radio-garden-speciality-klubuntu-radio-garden-dc-6d33ff28.md) |
-| LuisAlbertoMunozUbando/MySelectiveRadioGarden | partial | 2026-09-07T05:24:26Z | [open](../records/radio-garden-speciality-luisalbertomunozubando-myselectiveradiogarden-5a3fdefb.md) |
+| LuisAlbertoMunozUbando/MySelectiveRadioGarden | partial | 2026-09-07T13:27:33Z | [open](../records/radio-garden-speciality-luisalbertomunozubando-myselectiveradiogarden-5a3fdefb.md) |
 | matt08-prog/radio_garden.github.io | partial | 2021-03-19T05:55:44Z | [open](../records/radio-garden-speciality-matt08-prog-radio-garden-github-io-e188c438.md) |
 | mcnairstudios/mediahub-plugins | partial | 2026-05-07T18:52:30Z | [open](../records/radio-garden-speciality-mcnairstudios-mediahub-plugins-98230c1d.md) |
 | ovosimpatico/radio.garden-to-m3u | partial | 2025-07-27T01:58:49Z | [open](../records/radio-garden-speciality-ovosimpatico-radio-garden-to-m3u-4207cfcd.md) |

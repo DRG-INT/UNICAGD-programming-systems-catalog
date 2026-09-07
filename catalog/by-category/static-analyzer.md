@@ -595,7 +595,7 @@ Records: `620`
 | imjoy-team/imagej.js | partial | 2025-08-21T21:49:20Z | [open](../records/microscopy-imjoy-team-imagej-js-ab4ae7b8.md) |
 | jherkenhoff/STM | partial | 2021-08-02T15:53:42Z | [open](../records/microscopy-jherkenhoff-stm-3928a3ac.md) |
 | NIGMS/Biomedical-Imaging-Analysis-using-AI-ML-Approaches | partial | 2025-06-06T18:46:02Z | [open](../records/microscopy-nigms-biomedical-imaging-analysis-using-ai-ml-approaches-8ffdae01.md) |
-| NL-BioImaging/biomero | partial | 2026-09-07T12:44:05Z | [open](../records/microscopy-nl-bioimaging-biomero-e59c8222.md) |
+| NL-BioImaging/biomero | partial | 2026-09-07T17:45:17Z | [open](../records/microscopy-nl-bioimaging-biomero-e59c8222.md) |
 | ome/EMBO-Practical-Course-2023 | partial | 2023-09-10T15:36:11Z | [open](../records/microscopy-ome-embo-practical-course-2023-0359e30c.md) |
 | pycroscopy/pycroscopy | partial | 2025-09-12T16:21:57Z | [open](../records/microscopy-pycroscopy-pycroscopy-e22f9142.md) |
 | qupath/qupath | partial | 2026-09-01T12:37:23Z | [open](../records/microscopy-qupath-qupath-319e8bd2.md) |
@@ -605,7 +605,7 @@ Records: `620`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| gwastro/pycbc | partial | 2026-09-07T08:59:30Z | [open](../records/telescopes-gwastro-pycbc-b93b6565.md) |
+| gwastro/pycbc | partial | 2026-09-07T15:06:56Z | [open](../records/telescopes-gwastro-pycbc-b93b6565.md) |
 | Hrishikesh332/Astronomy_Analysis | partial | 2023-01-07T15:50:46Z | [open](../records/telescopes-hrishikesh332-astronomy-analysis-714231c8.md) |
 | iraf-community/iraf | partial | 2026-09-05T17:06:22Z | [open](../records/telescopes-iraf-community-iraf-5c34feb3.md) |
 | lightkurve/lightkurve | partial | 2026-08-25T19:58:28Z | [open](../records/telescopes-lightkurve-lightkurve-47762682.md) |

@@ -356,7 +356,7 @@ Records: `529`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 2noise/ChatTTS | partial | 2026-04-10T16:33:48Z | [open](../records/aim-s-2noise-chattts-5e993170.md) |
-| langfuse/langfuse | partial | 2026-09-07T18:24:29Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
+| langfuse/langfuse | partial | 2026-09-07T19:01:18Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
 | microsoft/semantic-kernel | partial | 2026-09-07T17:31:52Z | [open](../records/aim-s-microsoft-semantic-kernel-ef95bef0.md) |
 | MLflow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-mlflow-1732aa2b.md) |
 | OpenTelemetry Semantic Conventions For GenAI | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-opentelemetry-semantic-conventions-for-genai-e834f611.md) |
@@ -579,7 +579,7 @@ Records: `529`
 | holmos-mikroskop/holmos | partial | 2019-11-18T21:28:13Z | [open](../records/microscopy-holmos-mikroskop-holmos-086d35a4.md) |
 | ijpb/MorphoLibJ | partial | 2026-07-30T11:07:03Z | [open](../records/microscopy-ijpb-morpholibj-fb1a146e.md) |
 | kevinjohncutler/omnipose | partial | 2026-09-03T07:59:22Z | [open](../records/microscopy-kevinjohncutler-omnipose-48a8957e.md) |
-| TissueImageAnalytics/tiatoolbox | partial | 2026-09-07T09:14:24Z | [open](../records/microscopy-tissueimageanalytics-tiatoolbox-a18863d3.md) |
+| TissueImageAnalytics/tiatoolbox | partial | 2026-09-07T18:38:03Z | [open](../records/microscopy-tissueimageanalytics-tiatoolbox-a18863d3.md) |
 | UU-cellbiology/ZstackDepthColorCode | partial | 2025-11-06T19:19:23Z | [open](../records/microscopy-uu-cellbiology-zstackdepthcolorcode-2dae5fc0.md) |
 
 ## Radars
@@ -596,9 +596,9 @@ Records: `529`
 | analogdevicesinc/gr-iio | partial | 2023-06-30T09:08:01Z | [open](../records/satcom-satellites-analogdevicesinc-gr-iio-e7f28c5e.md) |
 | analogdevicesinc/plutosdr-fw | partial | 2026-08-13T21:21:29Z | [open](../records/satcom-satellites-analogdevicesinc-plutosdr-fw-a29d6db0.md) |
 | ANG13T/SatIntel | partial | 2024-03-15T16:29:23Z | [open](../records/satcom-satellites-ang13t-satintel-b65eedb1.md) |
-| mendhak/gpslogger | partial | 2026-08-31T07:06:11Z | [open](../records/satcom-satellites-mendhak-gpslogger-84bde361.md) |
+| mendhak/gpslogger | partial | 2026-09-07T17:56:55Z | [open](../records/satcom-satellites-mendhak-gpslogger-84bde361.md) |
 | sam210723/COMS-1 | partial | 2019-08-03T07:17:39Z | [open](../records/satcom-satellites-sam210723-coms-1-fe0ec3b6.md) |
-| sgoudelis/ground-station | partial | 2026-09-06T17:39:57Z | [open](../records/satcom-satellites-sgoudelis-ground-station-5494598a.md) |
+| sgoudelis/ground-station | partial | 2026-09-07T11:37:34Z | [open](../records/satcom-satellites-sgoudelis-ground-station-5494598a.md) |
 
 ## Electromagnetoscopes
 
@@ -606,7 +606,7 @@ Records: `529`
 | --- | --- | --- | --- |
 | analogcode/Swift-Radio-Pro | partial | 2026-07-05T16:45:42Z | [open](../records/electromagnetoscopes-analogcode-swift-radio-pro-46d0d487.md) |
 | analogdevicesinc/plutosdr-fw | partial | 2026-08-13T21:21:29Z | [open](../records/electromagnetoscopes-analogdevicesinc-plutosdr-fw-c02de597.md) |
-| sgoudelis/ground-station | partial | 2026-09-06T17:39:57Z | [open](../records/electromagnetoscopes-sgoudelis-ground-station-36e5d6db.md) |
+| sgoudelis/ground-station | partial | 2026-09-07T11:37:34Z | [open](../records/electromagnetoscopes-sgoudelis-ground-station-36e5d6db.md) |
 
 ## Radio Garden Speciality
 

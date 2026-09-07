@@ -597,7 +597,7 @@ Records: `457`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ElmerCSC/elmerfem | partial | 2026-09-07T10:39:36Z | [open](../records/electromagnetoscopes-elmercsc-elmerfem-2ad5920f.md) |
+| ElmerCSC/elmerfem | partial | 2026-09-07T13:52:12Z | [open](../records/electromagnetoscopes-elmercsc-elmerfem-2ad5920f.md) |
 
 ## Radio Garden Speciality
 

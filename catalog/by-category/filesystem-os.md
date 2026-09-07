@@ -575,7 +575,7 @@ Records: `1610`
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-08-30T15:02:19Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-07T16:39:40Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-07T19:13:18Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -1335,25 +1335,25 @@ Records: `1610`
 | axondeepseg/axondeepseg | partial | 2026-09-03T16:15:43Z | [open](../records/microscopy-axondeepseg-axondeepseg-0c2875c8.md) |
 | bioio-devs/bioio | partial | 2026-08-23T00:03:14Z | [open](../records/microscopy-bioio-devs-bioio-ca180c94.md) |
 | Biomedical-Imaging-Group/DeconvolutionLab2 | partial | 2019-03-09T16:40:03Z | [open](../records/microscopy-biomedical-imaging-group-deconvolutionlab2-5bd46987.md) |
-| brainglobe/brainglobe-atlasapi | partial | 2026-09-06T19:33:49Z | [open](../records/microscopy-brainglobe-brainglobe-atlasapi-1ee7f7d0.md) |
+| brainglobe/brainglobe-atlasapi | partial | 2026-09-07T16:18:22Z | [open](../records/microscopy-brainglobe-brainglobe-atlasapi-1ee7f7d0.md) |
 | brainglobe/brainreg | partial | 2026-09-02T13:19:22Z | [open](../records/microscopy-brainglobe-brainreg-71a0b5b3.md) |
 | brainglobe/cellfinder | partial | 2026-09-07T13:08:30Z | [open](../records/microscopy-brainglobe-cellfinder-159009dc.md) |
 | chiahao3/ptyrad | partial | 2026-08-07T02:53:15Z | [open](../records/microscopy-chiahao3-ptyrad-cbe12e50.md) |
-| computational-cell-analytics/micro-sam | partial | 2026-09-07T06:46:49Z | [open](../records/microscopy-computational-cell-analytics-micro-sam-82fdbfce.md) |
+| computational-cell-analytics/micro-sam | partial | 2026-09-07T16:26:30Z | [open](../records/microscopy-computational-cell-analytics-micro-sam-82fdbfce.md) |
 | computational-imaging/ThreeDeconv.jl | partial | 2022-02-09T16:34:42Z | [open](../records/microscopy-computational-imaging-threedeconv-jl-df595b65.md) |
 | cytomining/cytominer | partial | 2024-05-08T14:11:57Z | [open](../records/microscopy-cytomining-cytominer-c603fed1.md) |
 | cytomining/pycytominer | partial | 2026-09-04T16:07:02Z | [open](../records/microscopy-cytomining-pycytominer-f61cb1dc.md) |
 | dancsalo/TensorFlow-MIL | partial | 2020-08-24T19:46:19Z | [open](../records/microscopy-dancsalo-tensorflow-mil-823d26d9.md) |
 | david-hoffman/pyotf | partial | 2024-04-08T20:58:26Z | [open](../records/microscopy-david-hoffman-pyotf-f47c74b0.md) |
-| deepinv/deepinv | partial | 2026-09-07T12:02:16Z | [open](../records/microscopy-deepinv-deepinv-59141df0.md) |
-| delmic/odemis | partial | 2026-09-03T14:26:23Z | [open](../records/microscopy-delmic-odemis-64e6d3c9.md) |
+| deepinv/deepinv | partial | 2026-09-07T18:16:37Z | [open](../records/microscopy-deepinv-deepinv-59141df0.md) |
+| delmic/odemis | partial | 2026-09-07T15:17:50Z | [open](../records/microscopy-delmic-odemis-64e6d3c9.md) |
 | fairscope/PlanktoScope | partial | 2026-09-07T10:19:06Z | [open](../records/microscopy-fairscope-planktoscope-9189e5a9.md) |
 | google-research/sofima | partial | 2026-08-06T15:10:50Z | [open](../records/microscopy-google-research-sofima-72568ecb.md) |
 | gtatters/ThermImageJ | partial | 2026-06-27T21:06:25Z | [open](../records/microscopy-gtatters-thermimagej-e96d3524.md) |
 | GuillaumeMougeot/biom3d | partial | 2026-03-30T07:54:44Z | [open](../records/microscopy-guillaumemougeot-biom3d-7ae5f94d.md) |
 | Gurdon-Super-Res-Lab/Microscope-Control | partial | 2026-01-20T09:52:18Z | [open](../records/microscopy-gurdon-super-res-lab-microscope-control-fd0301f5.md) |
 | hahnec/rf-ulm | partial | 2024-09-05T08:57:56Z | [open](../records/microscopy-hahnec-rf-ulm-3db20243.md) |
-| hexane360/phaser | partial | 2026-09-05T09:06:20Z | [open](../records/microscopy-hexane360-phaser-69753666.md) |
+| hexane360/phaser | partial | 2026-09-07T18:57:44Z | [open](../records/microscopy-hexane360-phaser-69753666.md) |
 | hpgem/nanomesh | partial | 2024-06-17T12:45:05Z | [open](../records/microscopy-hpgem-nanomesh-5b10b2c1.md) |
 | HuanglabPurdue/NCS | partial | 2020-01-15T20:22:29Z | [open](../records/microscopy-huanglabpurdue-ncs-92a2d50f.md) |
 | ImSwitch/ImSwitch | partial | 2026-07-10T15:00:31Z | [open](../records/microscopy-imswitch-imswitch-c78f5160.md) |
@@ -1374,15 +1374,15 @@ Records: `1610`
 | openUC2/UC2-GIT | partial | 2026-08-09T17:25:59Z | [open](../records/microscopy-openuc2-uc2-git-beb1ac35.md) |
 | pvjosue/WaveBlocks | partial | 2022-11-22T17:07:44Z | [open](../records/microscopy-pvjosue-waveblocks-851e08dd.md) |
 | pycroscopy/atomai | partial | 2025-06-24T07:57:00Z | [open](../records/microscopy-pycroscopy-atomai-0ba7ef19.md) |
-| pymmcore-plus/napari-micromanager | partial | 2026-08-03T16:26:33Z | [open](../records/microscopy-pymmcore-plus-napari-micromanager-ee37e322.md) |
-| pymmcore-plus/pymmcore-plus | partial | 2026-08-03T16:28:29Z | [open](../records/microscopy-pymmcore-plus-pymmcore-plus-c09b4755.md) |
+| pymmcore-plus/napari-micromanager | partial | 2026-09-07T16:26:34Z | [open](../records/microscopy-pymmcore-plus-napari-micromanager-ee37e322.md) |
+| pymmcore-plus/pymmcore-plus | partial | 2026-09-07T16:29:28Z | [open](../records/microscopy-pymmcore-plus-pymmcore-plus-c09b4755.md) |
 | pymontecarlo/pymontecarlo | partial | 2022-01-16T17:02:44Z | [open](../records/microscopy-pymontecarlo-pymontecarlo-376c3fcd.md) |
 | PytorchConnectomics/pytorch_connectomics | partial | 2026-09-04T04:59:41Z | [open](../records/microscopy-pytorchconnectomics-pytorch-connectomics-6aa6d39f.md) |
 | raacampbell/openstage | partial | 2021-04-17T17:24:46Z | [open](../records/microscopy-raacampbell-openstage-800e84a5.md) |
 | rapidsai/cucim | partial | 2026-09-07T02:58:48Z | [open](../records/microscopy-rapidsai-cucim-6fd9f972.md) |
 | royerlab/cytoself | partial | 2025-08-05T18:46:40Z | [open](../records/microscopy-royerlab-cytoself-b2dff824.md) |
 | rwb27/openflexure_microscope | partial | 2019-04-30T15:12:38Z | [open](../records/microscopy-rwb27-openflexure-microscope-9f4f36b7.md) |
-| scalableminds/webknossos | partial | 2026-09-07T12:59:44Z | [open](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) |
+| scalableminds/webknossos | partial | 2026-09-07T18:59:47Z | [open](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) |
 | seung-lab/cloud-volume | partial | 2026-09-03T21:08:26Z | [open](../records/microscopy-seung-lab-cloud-volume-388cc8e9.md) |
 | tferr/Scripts | partial | 2022-06-03T11:23:48Z | [open](../records/microscopy-tferr-scripts-25277503.md) |
 | TheDeanLab/navigate | partial | 2026-09-04T15:20:12Z | [open](../records/microscopy-thedeanlab-navigate-dc14fa5a.md) |
@@ -1421,7 +1421,7 @@ Records: `1610`
 | eduayme/RescueApp | partial | 2026-04-14T01:20:23Z | [open](../records/radars-eduayme-rescueapp-8a5fc109.md) |
 | Field-Robotics-Japan/UnitySensors | partial | 2026-05-05T06:03:19Z | [open](../records/radars-field-robotics-japan-unitysensors-5d4db334.md) |
 | geospace-code/georinex | partial | 2026-05-27T13:28:15Z | [open](../records/radars-geospace-code-georinex-2503e6c8.md) |
-| graphieros/vue-data-ui | partial | 2026-09-07T08:54:10Z | [open](../records/radars-graphieros-vue-data-ui-37b47478.md) |
+| graphieros/vue-data-ui | partial | 2026-09-07T14:22:08Z | [open](../records/radars-graphieros-vue-data-ui-37b47478.md) |
 | GREAT-WHU/GREAT-PVT | partial | 2026-08-12T08:49:30Z | [open](../records/radars-great-whu-great-pvt-c867732f.md) |
 | johntruckenbrodt/pyroSAR | partial | 2026-09-03T12:48:24Z | [open](../records/radars-johntruckenbrodt-pyrosar-83ed39f7.md) |
 | KonstantinosF/Flood-Detection---Satellite-Images | partial | 2022-09-26T11:23:18Z | [open](../records/radars-konstantinosf-flood-detection-satellite-images-a2d32a13.md) |
@@ -1449,7 +1449,7 @@ Records: `1610`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ainfosec/FISSURE | partial | 2026-09-05T15:41:17Z | [open](../records/satcom-satellites-ainfosec-fissure-2be895d2.md) |
+| ainfosec/FISSURE | partial | 2026-09-07T17:44:48Z | [open](../records/satcom-satellites-ainfosec-fissure-2be895d2.md) |
 | AlexandreRouma/SDRPlusPlus | partial | 2026-07-05T00:37:31Z | [open](../records/satcom-satellites-alexandrerouma-sdrplusplus-e02064ad.md) |
 | antonjan/gnuradio-grc-examples | partial | 2022-09-02T07:17:09Z | [open](../records/satcom-satellites-antonjan-gnuradio-grc-examples-db27850c.md) |
 | aweeri/TLEscope | partial | 2026-09-01T16:22:42Z | [open](../records/satcom-satellites-aweeri-tlescope-9706f874.md) |
@@ -1493,7 +1493,7 @@ Records: `1610`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ainfosec/FISSURE | partial | 2026-09-05T15:41:17Z | [open](../records/electromagnetoscopes-ainfosec-fissure-685993bb.md) |
+| ainfosec/FISSURE | partial | 2026-09-07T17:44:48Z | [open](../records/electromagnetoscopes-ainfosec-fissure-685993bb.md) |
 | AlexandreRouma/SDRPlusPlus | partial | 2026-07-05T00:37:31Z | [open](../records/electromagnetoscopes-alexandrerouma-sdrplusplus-df221116.md) |
 | alexysong/tdyno | partial | 2022-04-19T15:06:28Z | [open](../records/electromagnetoscopes-alexysong-tdyno-3d0cc073.md) |
 | ApplikeySolutions/PandoraPlayer | partial | 2022-12-06T09:28:12Z | [open](../records/electromagnetoscopes-applikeysolutions-pandoraplayer-2a041af3.md) |

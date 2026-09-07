@@ -344,7 +344,7 @@ Records: `233`
 | ibaiGorordo/AWR1843-Read-Data-Python-MMWAVE-SDK-3- | partial | 2022-01-19T14:01:53Z | [open](../records/radars-ibaigorordo-awr1843-read-data-python-mmwave-sdk-3-62fb498c.md) |
 | InSARdev/S1orbits | partial | 2026-09-05T22:04:19Z | [open](../records/radars-insardev-s1orbits-58fd1e55.md) |
 | insarlab/MintPy | partial | 2026-09-01T08:55:46Z | [open](../records/radars-insarlab-mintpy-762351b7.md) |
-| isce-framework/sweets | partial | 2026-08-31T19:10:08Z | [open](../records/radars-isce-framework-sweets-db6cf485.md) |
+| isce-framework/sweets | partial | 2026-09-07T19:03:52Z | [open](../records/radars-isce-framework-sweets-db6cf485.md) |
 | leggedrobotics/graph_msf | partial | 2023-07-04T15:33:32Z | [open](../records/radars-leggedrobotics-graph-msf-bd37606b.md) |
 | mrzamaniiii/Time-Domain-Back-Projection-Method | partial | 2026-04-10T08:24:37Z | [open](../records/radars-mrzamaniiii-time-domain-back-projection-method-df06b65d.md) |
 | Tkwer/RadarStream | partial | 2026-09-03T18:03:30Z | [open](../records/radars-tkwer-radarstream-6d38b9c9.md) |

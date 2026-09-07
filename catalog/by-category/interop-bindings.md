@@ -159,7 +159,7 @@ Records: `62`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| isce-framework/snaphu-py | partial | 2026-08-31T19:09:22Z | [open](../records/radars-isce-framework-snaphu-py-9df19c3a.md) |
+| isce-framework/snaphu-py | partial | 2026-09-07T19:03:29Z | [open](../records/radars-isce-framework-snaphu-py-9df19c3a.md) |
 | vacationtracker/generic-webhook-to-eventbridge | partial | 2023-06-01T17:43:23Z | [open](../records/radars-vacationtracker-generic-webhook-to-eventbridge-a8b08cb6.md) |
 
 ## Electromagnetoscopes
