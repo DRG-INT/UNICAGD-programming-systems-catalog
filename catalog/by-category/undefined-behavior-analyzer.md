@@ -20,7 +20,7 @@ Records: `1618`
 [Language Server (30)](language-server.md) · [Language Specification (1440)](language-specification.md) · [Library (5716)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (794)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1040)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1194)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1194)](parser-lexer-ast.md) · [Precommit Ci Quality (309)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (621)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (607)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
@@ -1431,7 +1431,7 @@ Records: `1618`
 | cropsly/ffmpeg-android-java | partial | 2021-07-31T10:27:20Z | [open](../records/video-cropsly-ffmpeg-android-java-b9341efc.md) |
 | datarhei/restreamer | partial | 2026-05-22T06:57:59Z | [open](../records/video-datarhei-restreamer-ebfeeaad.md) |
 | doubleZ0108/Digital-Media-Technology-PKU | partial | 2022-02-04T14:32:32Z | [open](../records/video-doublez0108-digital-media-technology-pku-8ed0714e.md) |
-| FreeTubeApp/FreeTube | partial | 2026-09-07T19:51:33Z | [open](../records/video-freetubeapp-freetube-f7bd248f.md) |
+| FreeTubeApp/FreeTube | partial | 2026-09-07T20:50:28Z | [open](../records/video-freetubeapp-freetube-f7bd248f.md) |
 | getopenscreen/openscreen | partial | 2026-09-05T09:19:01Z | [open](../records/video-getopenscreen-openscreen-37ac0137.md) |
 | Hao0321/video-autopilot-kit | partial | 2026-08-27T15:00:28Z | [open](../records/video-hao0321-video-autopilot-kit-125cdf3e.md) |
 | Hubs-Foundation/hubs | partial | 2026-08-23T08:58:42Z | [open](../records/video-hubs-foundation-hubs-e3d5e722.md) |
@@ -1442,7 +1442,7 @@ Records: `1618`
 | mediago-dev/mediago | partial | 2026-09-05T04:08:23Z | [open](../records/video-mediago-dev-mediago-0cd9405a.md) |
 | modelscope/FunClip | partial | 2026-09-01T06:36:58Z | [open](../records/video-modelscope-funclip-7124bb3f.md) |
 | MrS0m30n3/youtube-dl-gui | partial | 2022-12-06T17:12:44Z | [open](../records/video-mrs0m30n3-youtube-dl-gui-b78c733b.md) |
-| namidaco/namida | partial | 2026-09-06T02:55:46Z | [open](../records/video-namidaco-namida-7a28ae53.md) |
+| namidaco/namida | partial | 2026-09-07T20:57:43Z | [open](../records/video-namidaco-namida-7a28ae53.md) |
 | OpenShot/libopenshot | partial | 2026-09-05T20:10:14Z | [open](../records/video-openshot-libopenshot-313927ae.md) |
 | OvenMediaLabs/OvenMediaEngine | partial | 2026-09-05T04:53:25Z | [open](../records/video-ovenmedialabs-ovenmediaengine-48a1af34.md) |
 | patrikhuber/4dface | partial | 2018-12-10T15:49:06Z | [open](../records/video-patrikhuber-4dface-650983e0.md) |
@@ -1799,7 +1799,7 @@ Records: `1618`
 | --- | --- | --- | --- |
 | aerospike-community/aerospike-client-ruby | partial | 2026-06-22T21:15:26Z | [open](../records/databases-aerospike-community-aerospike-client-ruby-04491640.md) |
 | apache/incubator-pegasus | partial | 2026-06-16T08:03:52Z | [open](../records/databases-apache-incubator-pegasus-7ce631b5.md) |
-| apache/kyuubi | partial | 2026-09-04T06:06:08Z | [open](../records/databases-apache-kyuubi-29762e0a.md) |
+| apache/kyuubi | partial | 2026-09-07T08:04:54Z | [open](../records/databases-apache-kyuubi-29762e0a.md) |
 | CaviraOSS/LongMemory | partial | 2026-08-31T16:18:42Z | [open](../records/databases-caviraoss-longmemory-7c32bdd6.md) |
 | christopherkarani/Wax | partial | 2026-09-02T00:18:30Z | [open](../records/databases-christopherkarani-wax-06442a2f.md) |
 | CodingDocs/awesome-java | partial | 2026-03-10T08:34:42Z | [open](../records/databases-codingdocs-awesome-java-f7da703d.md) |
@@ -1827,7 +1827,7 @@ Records: `1618`
 | uber-go/dosa | partial | 2023-07-05T20:59:33Z | [open](../records/databases-uber-go-dosa-06a859e4.md) |
 | uber/marmaray | partial | 2023-03-19T23:03:14Z | [open](../records/databases-uber-marmaray-1e6dacff.md) |
 | warp-tech/warpgate | partial | 2026-09-02T22:23:22Z | [open](../records/databases-warp-tech-warpgate-2221afcb.md) |
-| WenjieDu/TSDB | partial | 2026-08-06T08:00:15Z | [open](../records/databases-wenjiedu-tsdb-d91c6ab6.md) |
+| WenjieDu/TSDB | partial | 2026-09-03T10:00:33Z | [open](../records/databases-wenjiedu-tsdb-d91c6ab6.md) |
 | Wisser/Jailer | partial | 2026-09-03T11:39:56Z | [open](../records/databases-wisser-jailer-b572d87a.md) |
 | ygvn/IPv6-Subnet-Calculator-Tool-CSharp | partial | 2025-01-21T12:39:01Z | [open](../records/databases-ygvn-ipv6-subnet-calculator-tool-csharp-45fd6ecb.md) |
 

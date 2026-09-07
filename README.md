@@ -1,6 +1,6 @@
 # UNICAGD Programming Systems Discovery Catalog
 
-Generated: `2026-09-07T20:23:43+00:00`
+Generated: `2026-09-07T21:21:58+00:00`
 
 This repository is a Markdown explorer for a systems-engineering programming corpus. It preserves the master JSON seed, expands it with registry-derived ecosystem records, and tracks release metadata without guessing unknown dates.
 
@@ -26,7 +26,7 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 [Language Server (30)](catalog/by-category/language-server.md) · [Language Specification (1440)](catalog/by-category/language-specification.md) · [Library (5716)](catalog/by-category/library.md) · [Lint Plugin (1)](catalog/by-category/lint-plugin.md)
 [Lint Rule Pack (49)](catalog/by-category/lint-rule-pack.md) · [Linter (348)](catalog/by-category/linter.md) · [Logging Observability (530)](catalog/by-category/logging-observability.md) · [Machine Learning (794)](catalog/by-category/machine-learning.md)
 [Math Numeric Scientific (88)](catalog/by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](catalog/by-category/memory-analyzer.md) · [Message Broker (40)](catalog/by-category/message-broker.md) · [Networking Http (1040)](catalog/by-category/networking-http.md)
-[Other (14)](catalog/by-category/other.md) · [Package Manager (442)](catalog/by-category/package-manager.md) · [Parser Lexer Ast (1194)](catalog/by-category/parser-lexer-ast.md) · [Precommit Ci Quality (308)](catalog/by-category/precommit-ci-quality.md)
+[Other (14)](catalog/by-category/other.md) · [Package Manager (442)](catalog/by-category/package-manager.md) · [Parser Lexer Ast (1194)](catalog/by-category/parser-lexer-ast.md) · [Precommit Ci Quality (309)](catalog/by-category/precommit-ci-quality.md)
 [Profiler (87)](catalog/by-category/profiler.md) · [Project Scaffolding (133)](catalog/by-category/project-scaffolding.md) · [Registry Repository (133)](catalog/by-category/registry-repository.md) · [Sanitizer (16)](catalog/by-category/sanitizer.md)
 [Security Sast (336)](catalog/by-category/security-sast.md) · [Serialization (397)](catalog/by-category/serialization.md) · [Standard Library (25)](catalog/by-category/standard-library.md) · [Static Analyzer (621)](catalog/by-category/static-analyzer.md)
 [Templating (2)](catalog/by-category/templating.md) · [Testing Framework (607)](catalog/by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](catalog/by-category/tutorial-book-styleguide.md) · [Type Checker (313)](catalog/by-category/type-checker.md)
@@ -37,12 +37,12 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 | Metric | Count |
 | --- | ---: |
 | Source records | 968 |
-| Canonical identity pages | 27587 |
+| Canonical identity pages | 27588 |
 | Expansion records added | 8605 |
 | Release checks attempted | 1200 |
 | Known stable release fields | 10248 |
-| Unknown stable release fields | 17339 |
-| Fetch errors recorded | 1004 |
+| Unknown stable release fields | 17340 |
+| Fetch errors recorded | 998 |
 | Target identity count | 24000 |
 
 ## Language Scope

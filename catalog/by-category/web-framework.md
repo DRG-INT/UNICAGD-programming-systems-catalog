@@ -20,7 +20,7 @@ Records: `477`
 [Language Server (30)](language-server.md) · [Language Specification (1440)](language-specification.md) · [Library (5716)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (794)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1040)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1194)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1194)](parser-lexer-ast.md) · [Precommit Ci Quality (309)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (621)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (607)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
@@ -637,7 +637,7 @@ Records: `477`
 | altairbow/django-db-connection-pool | partial | 2025-05-05T03:44:39Z | [open](../records/databases-altairbow-django-db-connection-pool-7cfa1326.md) |
 | apache/doris-mcp-server | partial | 2026-09-01T21:47:24Z | [open](../records/databases-apache-doris-mcp-server-111c3250.md) |
 | apecloud/myduckserver | partial | 2026-09-07T07:22:18Z | [open](../records/databases-apecloud-myduckserver-58eb334b.md) |
-| aws-solutions-library-samples/data-lakes-on-aws | partial | 2025-10-01T07:06:23Z | [open](../records/databases-aws-solutions-library-samples-data-lakes-on-aws-a6898912.md) |
+| aws-solutions-library-samples/data-lakes-on-aws | partial | 2026-09-04T16:16:53Z | [open](../records/databases-aws-solutions-library-samples-data-lakes-on-aws-a6898912.md) |
 | boilingdata/boilstream | partial | 2026-07-03T11:38:01Z | [open](../records/databases-boilingdata-boilstream-8489b4c0.md) |
 | coollabsio/coolify | partial | 2026-09-03T06:21:27Z | [open](../records/databases-coollabsio-coolify-1bdaf4b8.md) |
 | dbgate/dbgate | partial | 2026-09-02T13:16:29Z | [open](../records/databases-dbgate-dbgate-67fc8232.md) |
@@ -646,14 +646,14 @@ Records: `477`
 | googleapis/mcp-toolbox | partial | 2026-09-07T08:19:38Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
 | lionheart/django-pyodbc | partial | 2023-01-29T16:42:06Z | [open](../records/databases-lionheart-django-pyodbc-c6078181.md) |
 | neondatabase/neon | partial | 2026-08-31T11:03:14Z | [open](../records/databases-neondatabase-neon-3c375148.md) |
-| parse-community/parse-server | partial | 2026-09-03T00:13:59Z | [open](../records/databases-parse-community-parse-server-9d5b6dd7.md) |
+| parse-community/parse-server | partial | 2026-09-06T05:29:47Z | [open](../records/databases-parse-community-parse-server-9d5b6dd7.md) |
 | pentaho/mondrian | partial | 2026-09-07T02:03:29Z | [open](../records/databases-pentaho-mondrian-2ee4c8b7.md) |
 | pgrwl | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pgrwl-c69e3b71.md) |
 | repmgr | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-repmgr-a7902124.md) |
 | rpbouman/huey | partial | 2026-08-23T20:03:47Z | [open](../records/databases-rpbouman-huey-d6a66223.md) |
-| scality/cloudserver | partial | 2026-09-02T20:46:26Z | [open](../records/databases-scality-cloudserver-0f3f3768.md) |
+| scality/cloudserver | partial | 2026-09-07T20:17:31Z | [open](../records/databases-scality-cloudserver-0f3f3768.md) |
 | SeekStorm/SeekStorm | partial | 2026-08-23T07:57:20Z | [open](../records/databases-seekstorm-seekstorm-a592c97e.md) |
-| versity/versitygw | partial | 2026-09-02T21:37:05Z | [open](../records/databases-versity-versitygw-b1f49ebe.md) |
+| versity/versitygw | partial | 2026-09-07T21:06:10Z | [open](../records/databases-versity-versitygw-b1f49ebe.md) |
 
 ## Repository Workplaces
 

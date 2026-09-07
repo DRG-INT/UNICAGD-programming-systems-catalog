@@ -20,7 +20,7 @@ Records: `894`
 [Language Server (30)](language-server.md) · [Language Specification (1440)](language-specification.md) · [Library (5716)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (794)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1040)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1194)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1194)](parser-lexer-ast.md) · [Precommit Ci Quality (309)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (621)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (607)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
@@ -866,7 +866,7 @@ Records: `894`
 | h2database/h2database | partial | 2026-08-31T16:56:29Z | [open](../records/databases-h2database-h2database-efc01145.md) |
 | Hasura | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-hasura-dca2450a.md) |
 | HelixDB/helix-db | partial | 2026-09-02T09:59:49Z | [open](../records/databases-helixdb-helix-db-97ccc5dd.md) |
-| hello245m/free-stockdb | partial | 2026-08-27T15:11:37Z | [open](../records/databases-hello245m-free-stockdb-4b014a28.md) |
+| hello245m/free-stockdb | partial | 2026-09-06T09:13:49Z | [open](../records/databases-hello245m-free-stockdb-4b014a28.md) |
 | hhyo/Archery | partial | 2026-09-02T07:51:05Z | [open](../records/databases-hhyo-archery-888ab9d4.md) |
 | Hibernate ORM | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-hibernate-orm-261d02b0.md) |
 | hibernate/hibernate-orm | partial | 2026-09-04T00:19:05Z | [open](../records/databases-hibernate-hibernate-orm-fc00d398.md) |
@@ -886,7 +886,7 @@ Records: `894`
 | JKHeadley/rest-hapi | partial | 2023-03-26T17:51:24Z | [open](../records/databases-jkheadley-rest-hapi-11c0a4c0.md) |
 | jOOQ/jOOQ | partial | 2026-09-04T07:45:11Z | [open](../records/databases-jooq-jooq-5d0aabf0.md) |
 | judasn/Linux-Tutorial | partial | 2022-06-11T07:40:03Z | [open](../records/databases-judasn-linux-tutorial-c6cc6957.md) |
-| juicedata/juicefs | partial | 2026-09-02T11:57:36Z | [open](../records/databases-juicedata-juicefs-8c02a9a4.md) |
+| juicedata/juicefs | partial | 2026-09-07T09:20:22Z | [open](../records/databases-juicedata-juicefs-8c02a9a4.md) |
 | jupyter-xeus/xeus-sql | partial | 2026-03-16T14:56:21Z | [open](../records/databases-jupyter-xeus-xeus-sql-561f1402.md) |
 | kantord/SeaGOAT | partial | 2026-08-28T22:45:50Z | [open](../records/databases-kantord-seagoat-e1571aa9.md) |
 | KeyDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-keydb-a55e36fb.md) |
@@ -943,7 +943,7 @@ Records: `894`
 | neural-maze/ava-whatsapp-agent-course | partial | 2025-10-20T19:12:20Z | [open](../records/databases-neural-maze-ava-whatsapp-agent-course-16548b94.md) |
 | NGT-labs/NGT | partial | 2026-09-01T02:04:32Z | [open](../records/databases-ngt-labs-ngt-a5cc3d67.md) |
 | NirDiamant/RAG_Techniques | partial | 2026-08-29T08:59:28Z | [open](../records/databases-nirdiamant-rag-techniques-836fe306.md) |
-| nitrite/nitrite-java | partial | 2026-08-31T19:32:00Z | [open](../records/databases-nitrite-nitrite-java-5d05a2a7.md) |
+| nitrite/nitrite-java | partial | 2026-09-07T16:43:31Z | [open](../records/databases-nitrite-nitrite-java-5d05a2a7.md) |
 | oceanbase/oceanbase | partial | 2026-09-05T01:00:33Z | [open](../records/databases-oceanbase-oceanbase-8d26f652.md) |
 | ODBC | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-odbc-00ecc2f5.md) |
 | OmniPITR | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-omnipitr-bc5ebaae.md) |
@@ -1014,7 +1014,7 @@ Records: `894`
 | sqlmapproject/sqlmap | partial | 2026-09-04T07:47:40Z | [open](../records/databases-sqlmapproject-sqlmap-11b3c1ea.md) |
 | stoneatom/stonedb | partial | 2026-06-23T09:11:04Z | [open](../records/databases-stoneatom-stonedb-45269310.md) |
 | Supabase | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-supabase-a37de8ab.md) |
-| supabase/storage | partial | 2026-09-02T22:59:53Z | [open](../records/databases-supabase-storage-c36b8bcb.md) |
+| supabase/storage | partial | 2026-09-07T16:25:59Z | [open](../records/databases-supabase-storage-c36b8bcb.md) |
 | surrealdb/surrealdb | partial | 2026-09-04T15:45:01Z | [open](../records/databases-surrealdb-surrealdb-9ffe9792.md) |
 | symisc/unqlite | partial | 2026-05-01T16:49:20Z | [open](../records/databases-symisc-unqlite-1ec3a767.md) |
 | teableio/teable | partial | 2026-09-07T08:13:08Z | [open](../records/databases-teableio-teable-de9860e1.md) |
