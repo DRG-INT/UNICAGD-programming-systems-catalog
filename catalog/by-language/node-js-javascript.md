@@ -14,13 +14,13 @@ Records: `2408`
 [Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (130)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (176)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (893)](../by-category/database-datastore.md) · [Datetime (233)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (102)](../by-category/dependency-manager.md) · [Documentation (106)](../by-category/documentation.md)
-[Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (457)](../by-category/ffi-bindings.md) · [Filesystem Os (1606)](../by-category/filesystem-os.md) · [Formatter (647)](../by-category/formatter.md)
+[Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (457)](../by-category/ffi-bindings.md) · [Filesystem Os (1606)](../by-category/filesystem-os.md) · [Formatter (648)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (356)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1462)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (273)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1437)](../by-category/language-specification.md) · [Library (5692)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (528)](../by-category/logging-observability.md) · [Machine Learning (793)](../by-category/machine-learning.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1437)](../by-category/language-specification.md) · [Library (5693)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (528)](../by-category/logging-observability.md) · [Machine Learning (793)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1037)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1190)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (308)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1191)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (308)](../by-category/precommit-ci-quality.md)
 [Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (336)](../by-category/security-sast.md) · [Serialization (397)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (613)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (607)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)
@@ -615,7 +615,7 @@ Records: `2408`
 | [@js-soft/docdb-access-abstractions](../records/node-js-javascript-js-soft-docdb-access-abstractions-609120b9.md) | 1.4.3 | 2026-07-14T04:38:37.371Z | registry-derived |
 | [@langchain/pinecone](../records/node-js-javascript-langchain-pinecone-dd6c7dda.md) | 1.0.3 | 2026-05-18T23:45:57.640Z | registry-derived |
 | [@langchain/qdrant](../records/node-js-javascript-langchain-qdrant-7d109ca3.md) | 1.0.3 | 2026-05-18T23:45:57.621Z | registry-derived |
-| [@maxminddatabase/geolite2](../records/node-js-javascript-maxminddatabase-geolite2-f679c34e.md) | 1.0.299 | 2026-09-05T16:05:33.259Z | registry-derived |
+| [@maxminddatabase/geolite2](../records/node-js-javascript-maxminddatabase-geolite2-f679c34e.md) | 1.0.300 | 2026-09-06T16:05:31.282Z | registry-derived |
 | [@molecule/api-database](../records/node-js-javascript-molecule-api-database-979879ec.md) | 1.0.1 | 2026-08-04T02:40:01.172Z | registry-derived |
 | [@mongodb-js/compass-database](../records/node-js-javascript-mongodb-js-compass-database-9655011a.md) | 3.19.1 | 2023-11-08T12:54:49.882Z | registry-derived |
 | [@neo4j/introspector](../records/node-js-javascript-neo4j-introspector-6e9626fd.md) | 5.0.1 | 2025-10-31T12:54:15.805Z | registry-derived |
@@ -2383,7 +2383,7 @@ Records: `2408`
 | [simple-is](../records/node-js-javascript-simple-is-855ba6e7.md) | 0.2.0 | 2013-04-21T10:46:51.962Z | registry-derived |
 | [solidity-coverage](../records/node-js-javascript-solidity-coverage-cc68c521.md) | 0.8.17 | 2025-12-11T04:58:23.497Z | registry-derived |
 | [start-server-and-test](../records/node-js-javascript-start-server-and-test-e5a1c78e.md) | 3.0.12 | 2026-08-01T10:38:13.536Z | registry-derived |
-| [storybook-addon-vis](../records/node-js-javascript-storybook-addon-vis-c1befa36.md) | 4.2.7 | 2026-09-02T06:16:59.980Z | registry-derived |
+| [storybook-addon-vis](../records/node-js-javascript-storybook-addon-vis-c1befa36.md) | 4.2.8 | 2026-09-07T05:29:48.018Z | registry-derived |
 | [supertest](../records/node-js-javascript-supertest-54da63ec.md) | 7.2.2 | 2026-01-06T09:26:26.119Z | registry-derived |
 | [system-testing](../records/node-js-javascript-system-testing-fb3acaec.md) | 1.0.136 | 2026-09-05T13:18:05.282Z | registry-derived |
 | [testcafe](../records/node-js-javascript-testcafe-15e8e7ec.md) | 3.7.6 | 2026-07-07T10:59:13.356Z | registry-derived |
@@ -2398,7 +2398,7 @@ Records: `2408`
 | [twig-testing-library](../records/node-js-javascript-twig-testing-library-e67a53c6.md) | 1.2.0 | 2021-07-01T10:17:13.788Z | registry-derived |
 | [typeorm-seeding](../records/node-js-javascript-typeorm-seeding-f4bd376c.md) | 1.6.1 | 2020-04-18T08:20:24.669Z | registry-derived |
 | [Vitest](../records/node-js-javascript-vitest-607c3650.md) | 5.0.0 | 2026-09-03T12:24:30.312Z | catalog_seed |
-| [vitest-plugin-vis](../records/node-js-javascript-vitest-plugin-vis-a9cafa30.md) | 5.1.4 | 2026-09-02T06:16:55.395Z | registry-derived |
+| [vitest-plugin-vis](../records/node-js-javascript-vitest-plugin-vis-a9cafa30.md) | 5.1.5 | 2026-09-07T05:29:43.593Z | registry-derived |
 | [weapon-regex](../records/node-js-javascript-weapon-regex-83a675c2.md) | 2.0.5 | 2026-09-04T20:26:58.204Z | registry-derived |
 | [ws](../records/node-js-javascript-ws-ae579d60.md) | 8.21.3 | 2026-08-07T14:10:25.816Z | registry-derived |
 | [zuul](../records/node-js-javascript-zuul-f1122392.md) | 3.12.0 | 2018-05-31T20:11:21.447Z | registry-derived |

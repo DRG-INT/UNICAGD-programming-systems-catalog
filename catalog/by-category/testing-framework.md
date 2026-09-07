@@ -14,13 +14,13 @@ Records: `607`
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (176)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (893)](database-datastore.md) · [Datetime (233)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (106)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1606)](filesystem-os.md) · [Formatter (647)](formatter.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1606)](filesystem-os.md) · [Formatter (648)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1437)](language-specification.md) · [Library (5692)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (528)](logging-observability.md) · [Machine Learning (793)](machine-learning.md)
+[Language Server (29)](language-server.md) · [Language Specification (1437)](language-specification.md) · [Library (5693)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (528)](logging-observability.md) · [Machine Learning (793)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1037)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1190)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1191)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (613)](static-analyzer.md)
 [Templating (2)](templating.md) · **[Testing Framework (607)](testing-framework.md)** · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
@@ -356,7 +356,7 @@ Records: `607`
 | simple-is | 0.2.0 | 2013-04-21T10:46:51.962Z | [open](../records/node-js-javascript-simple-is-855ba6e7.md) |
 | solidity-coverage | 0.8.17 | 2025-12-11T04:58:23.497Z | [open](../records/node-js-javascript-solidity-coverage-cc68c521.md) |
 | start-server-and-test | 3.0.12 | 2026-08-01T10:38:13.536Z | [open](../records/node-js-javascript-start-server-and-test-e5a1c78e.md) |
-| storybook-addon-vis | 4.2.7 | 2026-09-02T06:16:59.980Z | [open](../records/node-js-javascript-storybook-addon-vis-c1befa36.md) |
+| storybook-addon-vis | 4.2.8 | 2026-09-07T05:29:48.018Z | [open](../records/node-js-javascript-storybook-addon-vis-c1befa36.md) |
 | supertest | 7.2.2 | 2026-01-06T09:26:26.119Z | [open](../records/node-js-javascript-supertest-54da63ec.md) |
 | system-testing | 1.0.136 | 2026-09-05T13:18:05.282Z | [open](../records/node-js-javascript-system-testing-fb3acaec.md) |
 | testcafe | 3.7.6 | 2026-07-07T10:59:13.356Z | [open](../records/node-js-javascript-testcafe-15e8e7ec.md) |
@@ -371,7 +371,7 @@ Records: `607`
 | twig-testing-library | 1.2.0 | 2021-07-01T10:17:13.788Z | [open](../records/node-js-javascript-twig-testing-library-e67a53c6.md) |
 | typeorm-seeding | 1.6.1 | 2020-04-18T08:20:24.669Z | [open](../records/node-js-javascript-typeorm-seeding-f4bd376c.md) |
 | Vitest | 5.0.0 | 2026-09-03T12:24:30.312Z | [open](../records/node-js-javascript-vitest-607c3650.md) |
-| vitest-plugin-vis | 5.1.4 | 2026-09-02T06:16:55.395Z | [open](../records/node-js-javascript-vitest-plugin-vis-a9cafa30.md) |
+| vitest-plugin-vis | 5.1.5 | 2026-09-07T05:29:43.593Z | [open](../records/node-js-javascript-vitest-plugin-vis-a9cafa30.md) |
 | weapon-regex | 2.0.5 | 2026-09-04T20:26:58.204Z | [open](../records/node-js-javascript-weapon-regex-83a675c2.md) |
 | ws | 8.21.3 | 2026-08-07T14:10:25.816Z | [open](../records/node-js-javascript-ws-ae579d60.md) |
 | zuul | 3.12.0 | 2018-05-31T20:11:21.447Z | [open](../records/node-js-javascript-zuul-f1122392.md) |
