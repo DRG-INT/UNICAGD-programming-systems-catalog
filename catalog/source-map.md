@@ -13,7 +13,7 @@
 [Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (457)](by-category/ffi-bindings.md) · [Filesystem Os (1609)](by-category/filesystem-os.md) · [Formatter (648)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (356)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1462)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (273)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (29)](by-category/language-server.md) · [Language Specification (1439)](by-category/language-specification.md) · [Library (5702)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (29)](by-category/language-server.md) · [Language Specification (1439)](by-category/language-specification.md) · [Library (5704)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (529)](by-category/logging-observability.md) · [Machine Learning (794)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1039)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1192)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (308)](by-category/precommit-ci-quality.md)
@@ -16921,6 +16921,7 @@
 | `hackage_recent-7b9b3700445a16` | kb-text-layout | [open](records/haskell-kb-text-layout-134bb424.md) |
 | `hackage_recent-7ca8ee413152ad` | clash-prelude | [open](records/haskell-clash-prelude-3e80017c.md) |
 | `hackage_recent-7e6eeb91445d92` | aihc-parser | [open](records/haskell-aihc-parser-d88ae54b.md) |
+| `hackage_recent-82bc8074a430e2` | hylolib | [open](records/haskell-hylolib-4239adb4.md) |
 | `hackage_recent-85b70f81457859` | tricorder-mcp | [open](records/haskell-tricorder-mcp-95664038.md) |
 | `hackage_recent-8f02f0b40516b7` | ephemeral-pg | [open](records/haskell-ephemeral-pg-bde54662.md) |
 | `hackage_recent-8f6b763e7985db` | mini | [open](records/haskell-mini-8b13af00.md) |
@@ -26954,6 +26955,7 @@
 | `pub_dev-cf18352d8b3f15` | process_run | [open](records/dart-process-run-9a6122b1.md) |
 | `pub_dev-cf517115e7abaf` | syncfusion_flutter_sliders | [open](records/dart-syncfusion-flutter-sliders-f5899f4c.md) |
 | `pub_dev-cf932aa29a65ed` | animated_size_and_fade | [open](records/dart-animated-size-and-fade-15eb5f44.md) |
+| `pub_dev-cfd51ed3b74678` | listen | [open](records/dart-listen-306a2c08.md) |
 | `pub_dev-cff4b061473b46` | keyboard_dismisser | [open](records/dart-keyboard-dismisser-fef62632.md) |
 | `pub_dev-d02b56907849cb` | extended_masked_text | [open](records/dart-extended-masked-text-6f73ae07.md) |
 | `pub_dev-d06a6f87e1586e` | super_sliver_list | [open](records/dart-super-sliver-list-c69de4d6.md) |

@@ -17,7 +17,7 @@ Records: `477`
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1609)](filesystem-os.md) · [Formatter (648)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1439)](language-specification.md) · [Library (5702)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1439)](language-specification.md) · [Library (5704)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (529)](logging-observability.md) · [Machine Learning (794)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1039)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1192)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
@@ -202,7 +202,7 @@ Records: `477`
 | @newrelic/apollo-server-plugin | 8.0.0 | 2025-07-22T20:03:48.217Z | [open](../records/node-js-javascript-newrelic-apollo-server-plugin-34e68ee7.md) |
 | @nexus2520/bitbucket-mcp-server | 3.0.0 | 2026-07-09T10:23:31.348Z | [open](../records/node-js-javascript-nexus2520-bitbucket-mcp-server-c0a72fb2.md) |
 | @nuxt/nitro-server | 4.5.2 | 2026-08-05T16:17:56.963Z | [open](../records/node-js-javascript-nuxt-nitro-server-1fc1585d.md) |
-| @nuxt/nitro-server-nightly | 4.6.0-29813020.47fd2070 | 2026-09-07T11:40:46.701Z | [open](../records/node-js-javascript-nuxt-nitro-server-nightly-4efe1726.md) |
+| @nuxt/nitro-server-nightly | 4.6.0-29813110.5c8fe35d | 2026-09-07T13:13:16.066Z | [open](../records/node-js-javascript-nuxt-nitro-server-nightly-4efe1726.md) |
 | @opencode-ai/server | 0.0.0-reserved.0 | 2026-07-01T22:05:01.103Z | [open](../records/node-js-javascript-opencode-ai-server-870e8c36.md) |
 | @openfeature/core | 1.12.0 | 2026-07-28T18:53:49.315Z | [open](../records/node-js-javascript-openfeature-core-e3b3a0d0.md) |
 | @osohq/dev-server | 0.0.1-alpha.24 | 2026-07-17T14:34:26.307Z | [open](../records/node-js-javascript-osohq-dev-server-08c8f1e4.md) |

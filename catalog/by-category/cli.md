@@ -17,7 +17,7 @@ Records: `565`
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1609)](filesystem-os.md) · [Formatter (648)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1439)](language-specification.md) · [Library (5702)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1439)](language-specification.md) · [Library (5704)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (529)](logging-observability.md) · [Machine Learning (794)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1039)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1192)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
@@ -271,9 +271,9 @@ Records: `565`
 | @bike4mind/cli | 0.20.2 | 2026-08-28T04:45:32.190Z | [open](../records/node-js-javascript-bike4mind-cli-7e11a36a.md) |
 | @bomb.sh/tab | 0.0.22 | 2026-08-04T09:15:08.536Z | [open](../records/node-js-javascript-bomb-sh-tab-f325bd04.md) |
 | @botpress/cli | 7.1.3 | 2026-08-28T17:52:58.562Z | [open](../records/node-js-javascript-botpress-cli-669f749d.md) |
-| @bugsnag/cli | 3.10.5 | 2026-08-21T13:26:56.815Z | [open](../records/node-js-javascript-bugsnag-cli-4642b53f.md) |
+| @bugsnag/cli | 3.10.6 | 2026-09-07T12:26:02.157Z | [open](../records/node-js-javascript-bugsnag-cli-4642b53f.md) |
 | @bundle-stats/cli-utils | 4.22.3 | 2026-08-22T13:33:37.123Z | [open](../records/node-js-javascript-bundle-stats-cli-utils-b36786d1.md) |
-| @catladder/cli | 5.1.1 | 2026-08-31T12:26:03.922Z | [open](../records/node-js-javascript-catladder-cli-876a5bd9.md) |
+| @catladder/cli | 5.1.2 | 2026-09-07T14:00:09.092Z | [open](../records/node-js-javascript-catladder-cli-876a5bd9.md) |
 | @cdktf/cli-core | 0.21.0 | 2025-06-04T16:46:13.273Z | [open](../records/node-js-javascript-cdktf-cli-core-e7414abb.md) |
 | @clerk/cli-darwin-arm64 | 3.3.0 | 2026-09-01T19:27:56.813Z | [open](../records/node-js-javascript-clerk-cli-darwin-arm64-eb3bac3f.md) |
 | @clerk/cli-linux-x64 | 3.3.0 | 2026-09-01T19:28:07.866Z | [open](../records/node-js-javascript-clerk-cli-linux-x64-f0155a2f.md) |
@@ -307,7 +307,7 @@ Records: `565`
 | @ionic/cli-framework-output | 2.2.8 | 2023-12-19T22:38:35.365Z | [open](../records/node-js-javascript-ionic-cli-framework-output-8324bb8a.md) |
 | @ionic/cli-framework-prompts | 2.1.13 | 2023-12-19T22:38:35.436Z | [open](../records/node-js-javascript-ionic-cli-framework-prompts-5599c31f.md) |
 | @knocklabs/cli | 1.2.3 | 2026-08-13T15:12:15.170Z | [open](../records/node-js-javascript-knocklabs-cli-62154908.md) |
-| @lightdash/cli | 2.136.3 | 2026-09-07T11:19:32.459Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
+| @lightdash/cli | 2.137.0 | 2026-09-07T14:10:42.143Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | @lingui/cli | 6.6.0 | 2026-07-24T13:52:53.439Z | [open](../records/node-js-javascript-lingui-cli-343f33ec.md) |
 | @maizzle/cli | 2.0.0 | 2024-12-16T17:59:24.900Z | [open](../records/node-js-javascript-maizzle-cli-a7a13457.md) |
 | @marp-team/marp-cli | 4.5.0 | 2026-07-17T23:07:09.399Z | [open](../records/node-js-javascript-marp-team-marp-cli-b69e1548.md) |
@@ -325,7 +325,7 @@ Records: `565`
 | @percy/cli-app | 1.32.8 | 2026-09-03T11:40:04.097Z | [open](../records/node-js-javascript-percy-cli-app-a835afe7.md) |
 | @playwright/cli | 0.1.19 | 2026-09-01T16:19:56.878Z | [open](../records/node-js-javascript-playwright-cli-e8cfd942.md) |
 | @prisma/cli-engine | 0.3.0 | 2026-08-26T07:13:21.842Z | [open](../records/node-js-javascript-prisma-cli-engine-db893fc5.md) |
-| @quasar/cli | 5.0.7 | 2026-08-17T16:34:53.792Z | [open](../records/node-js-javascript-quasar-cli-8cd07ece.md) |
+| @quasar/cli | 5.0.8 | 2026-09-07T12:30:27.512Z | [open](../records/node-js-javascript-quasar-cli-8cd07ece.md) |
 | @react-grab/cli | 0.2.0 | 2026-08-16T09:34:57.422Z | [open](../records/node-js-javascript-react-grab-cli-eefa1f4d.md) |
 | @react-native-community/cli | 20.2.0 | 2026-06-25T15:07:53.255Z | [open](../records/node-js-javascript-react-native-community-cli-6fa03e7d.md) |
 | @react-native/community-cli-plugin | 0.87.1 | 2026-08-26T12:56:28.576Z | [open](../records/node-js-javascript-react-native-community-cli-plugin-1ae28880.md) |
@@ -357,7 +357,7 @@ Records: `565`
 | @theia/cli | 1.75.0 | 2026-08-27T13:52:30.824Z | [open](../records/node-js-javascript-theia-cli-056bda35.md) |
 | @tolgee/cli | 2.20.0 | 2026-06-25T14:50:49.892Z | [open](../records/node-js-javascript-tolgee-cli-d1f3c98e.md) |
 | @transifex/cli | 8.0.3 | 2026-09-01T08:45:43.666Z | [open](../records/node-js-javascript-transifex-cli-ffc9f4e9.md) |
-| @ui5/cli | 4.0.65 | 2026-09-04T13:41:20.768Z | [open](../records/node-js-javascript-ui5-cli-dfaea84c.md) |
+| @ui5/cli | 4.0.66 | 2026-09-07T13:21:29.176Z | [open](../records/node-js-javascript-ui5-cli-dfaea84c.md) |
 | @ui5/logger | 4.0.2 | 2025-09-11T13:14:39.975Z | [open](../records/node-js-javascript-ui5-logger-9bf39db4.md) |
 | @ui5/project | 4.0.17 | 2026-06-15T13:18:37.259Z | [open](../records/node-js-javascript-ui5-project-4c9f4023.md) |
 | @unlighthouse/cli | 0.18.0 | 2026-06-29T03:12:38.954Z | [open](../records/node-js-javascript-unlighthouse-cli-da417c2f.md) |
@@ -531,7 +531,7 @@ Records: `565`
 | esengine/DeepSeek-Reasonix | partial | 2026-09-07T13:05:44Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-07T13:21:28Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-07T13:59:58Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 

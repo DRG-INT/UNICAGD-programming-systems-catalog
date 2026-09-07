@@ -1,6 +1,6 @@
 # Library
 
-Records: `5702`
+Records: `5704`
 
 ## Navigation
 
@@ -17,7 +17,7 @@ Records: `5702`
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1609)](filesystem-os.md) · [Formatter (648)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1439)](language-specification.md) · **[Library (5702)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1439)](language-specification.md) · **[Library (5704)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (529)](logging-observability.md) · [Machine Learning (794)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1039)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1192)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
@@ -3546,6 +3546,7 @@ Records: `5702`
 | hw-prim | 0.6.3.2 | 2022-10-30T02:42:20Z | [open](../records/haskell-hw-prim-469f0960.md) |
 | hw-rankselect | 0.13.4.1 | 2022-03-23T12:02:05Z | [open](../records/haskell-hw-rankselect-d19f5422.md) |
 | hxt | 9.3.1.22 | 2021-03-21T10:37:45Z | [open](../records/haskell-hxt-e93aea08.md) |
+| hylolib | 1.5.6 | 2026-09-07T12:40:03Z | [open](../records/haskell-hylolib-4239adb4.md) |
 | hyphenation | 0.8.3 | 2025-03-03T11:23:42Z | [open](../records/haskell-hyphenation-f3f532ac.md) |
 | idris | 1.3.4 | 2021-10-22T22:58:30Z | [open](../records/haskell-idris-47fb0b3c.md) |
 | ihaskell | 0.13.0.0 | 2025-11-15T12:58:18Z | [open](../records/haskell-ihaskell-b5eca6d8.md) |
@@ -4186,6 +4187,7 @@ Records: `5702`
 | intl_phone_field | 3.2.0 | 2023-06-24T13:23:03.533691Z | [open](../records/dart-intl-phone-field-14775ebe.md) |
 | jni | 1.0.3 | 2026-07-30T07:49:04.428207Z | [open](../records/dart-jni-50ab8000.md) |
 | latlong2 | 0.10.1 | 2026-04-27T05:39:31.254017Z | [open](../records/dart-latlong2-55982d8d.md) |
+| listen | 1.0.1 | 2026-07-31T22:54:06.127879Z | [open](../records/dart-listen-306a2c08.md) |
 | loading_animations | 2.2.0 | 2021-03-09T18:16:45.595868Z | [open](../records/dart-loading-animations-ffc0560d.md) |
 | lottie | 3.5.1 | 2026-07-08T12:11:39.640218Z | [open](../records/dart-lottie-c1813caa.md) |
 | markdown_widget | 2.3.2+8 | 2025-04-26T06:15:39.942882Z | [open](../records/dart-markdown-widget-8de7bc84.md) |
@@ -4246,7 +4248,7 @@ Records: `5702`
 | code.linenisgreat.com/madder/go | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-code-linenisgreat-com-madder-go-69f64a7e.md) |
 | codeberg.org/go-hep/hep.git | v0.27.0 | 2026-08-30T10:55:18.161122Z | [open](../records/go-codeberg-org-go-hep-hep-git-29878e71.md) |
 | codeberg.org/rimu/pyfedi | v1.6.9 | 2026-08-30T16:29:43.672078Z | [open](../records/go-codeberg-org-rimu-pyfedi-53519dff.md) |
-| CycloneDX/cyclonedx-gomod | partial | 2026-09-04T09:52:27Z | [open](../records/go-cyclonedx-cyclonedx-gomod-24572c1d.md) |
+| CycloneDX/cyclonedx-gomod | partial | 2026-09-07T10:42:32Z | [open](../records/go-cyclonedx-cyclonedx-gomod-24572c1d.md) |
 | darius-khll/golang-developer-roadmap | partial | 2023-02-13T08:08:20Z | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
 | gbrlsnchs/jwt | partial | 2026-02-20T19:55:17Z | [open](../records/go-gbrlsnchs-jwt-9cb26411.md) |
 | gethugothemes/hugo-modules | partial | 2026-07-01T05:48:56Z | [open](../records/go-gethugothemes-hugo-modules-1f48ce7f.md) |
@@ -4271,7 +4273,7 @@ Records: `5702`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-07T12:24:19Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-07T13:57:42Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |

@@ -17,7 +17,7 @@ Records: `1462`
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1609)](filesystem-os.md) · [Formatter (648)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · **[Ide Editor Integration (1462)](ide-editor-integration.md)**
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1439)](language-specification.md) · [Library (5702)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1439)](language-specification.md) · [Library (5704)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (529)](logging-observability.md) · [Machine Learning (794)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1039)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1192)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
@@ -191,12 +191,12 @@ Records: `1462`
 | @launchdarkly/openfeature-node-server | 2.0.0 | 2026-09-03T17:59:15.784Z | [open](../records/node-js-javascript-launchdarkly-openfeature-node-server-febef595.md) |
 | @launchdarkly/vercel-server-sdk | 1.3.55 | 2026-08-18T19:55:41.397Z | [open](../records/node-js-javascript-launchdarkly-vercel-server-sdk-18e8bdb3.md) |
 | @lit-labs/ssr-dom-shim | 1.6.0 | 2026-05-14T03:55:57.027Z | [open](../records/node-js-javascript-lit-labs-ssr-dom-shim-dbd88335.md) |
-| @lvce-editor/server | 0.113.19 | 2026-09-07T12:16:37.852Z | [open](../records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
+| @lvce-editor/server | 0.113.21 | 2026-09-07T14:05:46.844Z | [open](../records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
 | @mixmark-io/domino | 2.2.0 | 2024-04-06T21:31:29.908Z | [open](../records/node-js-javascript-mixmark-io-domino-4b01c450.md) |
 | @molecule/api-database-sqlite | 1.0.3 | 2026-08-15T04:44:36.606Z | [open](../records/node-js-javascript-molecule-api-database-sqlite-91bd91b1.md) |
 | @nexrender/database-redis | 1.60.10 | 2025-01-24T12:30:12.941Z | [open](../records/node-js-javascript-nexrender-database-redis-d7ab502c.md) |
 | @portone/server-sdk | 0.19.0 | 2026-01-22T05:17:09.220Z | [open](../records/node-js-javascript-portone-server-sdk-1c059404.md) |
-| @prosopo/database | 4.0.27 | 2026-09-02T22:41:57.409Z | [open](../records/node-js-javascript-prosopo-database-9a77dbd4.md) |
+| @prosopo/database | 4.0.28 | 2026-09-07T13:17:39.351Z | [open](../records/node-js-javascript-prosopo-database-9a77dbd4.md) |
 | @react-native-firebase/database | 26.4.0 | 2026-09-05T01:49:21.021Z | [open](../records/node-js-javascript-react-native-firebase-database-0450b342.md) |
 | @sap/logging | 9.2.2 | 2026-08-12T10:43:50.446Z | [open](../records/node-js-javascript-sap-logging-c02ac4fa.md) |
 | @stigg/node-server-sdk | 5.0.0 | 2026-09-02T09:45:14.164Z | [open](../records/node-js-javascript-stigg-node-server-sdk-50fbbd0a.md) |
@@ -1516,7 +1516,7 @@ Records: `1462`
 | oded8bit/Assembly-Lib | partial | 2018-03-19T16:54:22Z | [open](../records/assembly-oded8bit-assembly-lib-a552ed5a.md) |
 | robalb/x86-64-playground | partial | 2026-01-18T19:17:26Z | [open](../records/assembly-robalb-x86-64-playground-c440c3c0.md) |
 | sehugg/8bitworkshop | partial | 2026-09-07T08:04:49Z | [open](../records/assembly-sehugg-8bitworkshop-62e01cd8.md) |
-| Specy/asm-editor | partial | 2026-09-07T07:18:18Z | [open](../records/assembly-specy-asm-editor-c3b9e30b.md) |
+| Specy/asm-editor | partial | 2026-09-07T12:49:11Z | [open](../records/assembly-specy-asm-editor-c3b9e30b.md) |
 | ThomasJaeger/VisualMASM | partial | 2018-01-26T12:10:31Z | [open](../records/assembly-thomasjaeger-visualmasm-c78674ab.md) |
 
 ## Pattern language

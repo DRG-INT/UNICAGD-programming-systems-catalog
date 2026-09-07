@@ -1,6 +1,6 @@
 # Dart
 
-Records: `763`
+Records: `764`
 
 ## Navigation
 
@@ -17,7 +17,7 @@ Records: `763`
 [Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (457)](../by-category/ffi-bindings.md) · [Filesystem Os (1609)](../by-category/filesystem-os.md) · [Formatter (648)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (356)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1462)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (273)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1439)](../by-category/language-specification.md) · [Library (5702)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1439)](../by-category/language-specification.md) · [Library (5704)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (529)](../by-category/logging-observability.md) · [Machine Learning (794)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1039)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1192)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (308)](../by-category/precommit-ci-quality.md)
@@ -304,14 +304,14 @@ Records: `763`
 | [firebase_messaging](../records/dart-firebase-messaging-eb0d3a3d.md) | 16.6.0 | 2026-08-24T13:41:52.500498Z | registry-derived |
 | [fluentui_system_icons](../records/dart-fluentui-system-icons-f520bb45.md) | 1.1.273 | 2025-01-31T19:35:58.322881Z | registry-derived |
 | [flutter_background_geolocation](../records/dart-flutter-background-geolocation-688e364d.md) | 5.7.0 | 2026-09-04T15:37:35.482183Z | registry-derived |
-| [flutter_gemma](../records/dart-flutter-gemma-9a6dbd9b.md) | 1.7.1 | 2026-09-05T16:32:12.608128Z | registry-derived |
+| [flutter_gemma](../records/dart-flutter-gemma-9a6dbd9b.md) | 1.7.2 | 2026-09-06T06:54:53.445318Z | registry-derived |
 | [flutter_keyboard_visibility](../records/dart-flutter-keyboard-visibility-b5ffcede.md) | 7.0.1 | 2026-08-24T02:25:21.264837Z | registry-derived |
 | [flutter_keychain](../records/dart-flutter-keychain-1114ea7d.md) | 3.0.1 | 2026-03-30T12:03:12.684383Z | registry-derived |
 | [flutter_local_notifications](../records/dart-flutter-local-notifications-2c4ccd3c.md) | 22.3.0 | 2026-08-08T08:48:50.612325Z | registry-derived |
 | [flutter_tilt](../records/dart-flutter-tilt-aed1989b.md) | 4.1.0 | 2026-07-29T13:24:38.863077Z | registry-derived |
 | [flutter_tts](../records/dart-flutter-tts-c525b76d.md) | 4.2.5 | 2026-01-05T17:54:55.367504Z | registry-derived |
 | [flutter_udid](../records/dart-flutter-udid-80c330fc.md) | 4.1.6 | 2026-07-14T09:56:51.543948Z | registry-derived |
-| [flutter_webrtc](../records/dart-flutter-webrtc-afeba3f1.md) | 1.6.1 | 2026-09-01T06:50:58.044646Z | registry-derived |
+| [flutter_webrtc](../records/dart-flutter-webrtc-afeba3f1.md) | 1.6.2 | 2026-09-07T13:41:07.809282Z | registry-derived |
 | [fresh](../records/dart-fresh-033ad62f.md) | 0.6.1 | 2026-02-26T19:22:14.357553Z | registry-derived |
 | [google_maps_flutter](../records/dart-google-maps-flutter-7474cf08.md) | 2.18.0 | 2026-07-23T15:22:15.302126Z | registry-derived |
 | [health](../records/dart-health-09eb0719.md) | 13.3.2 | 2026-08-14T13:04:10.425286Z | registry-derived |
@@ -659,6 +659,7 @@ Records: `763`
 | [intl_phone_field](../records/dart-intl-phone-field-14775ebe.md) | 3.2.0 | 2023-06-24T13:23:03.533691Z | registry-derived |
 | [jni](../records/dart-jni-50ab8000.md) | 1.0.3 | 2026-07-30T07:49:04.428207Z | registry-derived |
 | [latlong2](../records/dart-latlong2-55982d8d.md) | 0.10.1 | 2026-04-27T05:39:31.254017Z | registry-derived |
+| [listen](../records/dart-listen-306a2c08.md) | 1.0.1 | 2026-07-31T22:54:06.127879Z | registry-derived |
 | [loading_animations](../records/dart-loading-animations-ffc0560d.md) | 2.2.0 | 2021-03-09T18:16:45.595868Z | registry-derived |
 | [lottie](../records/dart-lottie-c1813caa.md) | 3.5.1 | 2026-07-08T12:11:39.640218Z | registry-derived |
 | [markdown_widget](../records/dart-markdown-widget-8de7bc84.md) | 2.3.2+8 | 2025-04-26T06:15:39.942882Z | registry-derived |

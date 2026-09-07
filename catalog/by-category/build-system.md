@@ -17,7 +17,7 @@ Records: `993`
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1609)](filesystem-os.md) · [Formatter (648)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1439)](language-specification.md) · [Library (5702)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1439)](language-specification.md) · [Library (5704)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (529)](logging-observability.md) · [Machine Learning (794)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1039)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1192)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
@@ -167,7 +167,7 @@ Records: `993`
 | @angular-builders/custom-webpack | 22.0.1 | 2026-06-23T10:08:22.343Z | [open](../records/node-js-javascript-angular-builders-custom-webpack-69d8fc3f.md) |
 | @angular-devkit/architect | 0.2201.6 | 2026-08-26T07:50:37.994Z | [open](../records/node-js-javascript-angular-devkit-architect-d0ac1a3f.md) |
 | @angular-devkit/build-ng-packagr | 0.1002.0 | 2020-10-22T21:00:15.806Z | [open](../records/node-js-javascript-angular-devkit-build-ng-packagr-e9f6c4bb.md) |
-| @angular-eslint/builder | 22.3.0 | 2026-09-07T07:22:56.985Z | [open](../records/node-js-javascript-angular-eslint-builder-871e2113.md) |
+| @angular-eslint/builder | 22.4.0 | 2026-09-07T13:55:14.829Z | [open](../records/node-js-javascript-angular-eslint-builder-871e2113.md) |
 | @angular/build | 22.1.6 | 2026-08-26T07:51:22.312Z | [open](../records/node-js-javascript-angular-build-0312e2da.md) |
 | @apm-js-collab/code-transformer | 0.18.1 | 2026-07-23T13:25:14.173Z | [open](../records/node-js-javascript-apm-js-collab-code-transformer-e1e4861a.md) |
 | @astrojs/starlight | 0.41.10 | 2026-08-28T14:21:34.787Z | [open](../records/node-js-javascript-astrojs-starlight-87ff856b.md) |
@@ -644,7 +644,7 @@ Records: `993`
 | bazel-contrib/rules_go | partial | 2026-09-04T21:21:49Z | [open](../records/starlark-bazel-contrib-rules-go-4b6a62de.md) |
 | bazel-contrib/rules_img | partial | 2026-09-07T12:45:15Z | [open](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) |
 | bazel-contrib/rules_kotlin | partial | 2026-09-03T20:32:15Z | [open](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) |
-| bazel-contrib/rules_scala | partial | 2026-09-07T10:52:51Z | [open](../records/starlark-bazel-contrib-rules-scala-d92d7813.md) |
+| bazel-contrib/rules_scala | partial | 2026-09-07T14:13:46Z | [open](../records/starlark-bazel-contrib-rules-scala-d92d7813.md) |
 | bazelbuild/bazel-skylib | partial | 2026-09-01T20:37:47Z | [open](../records/starlark-bazelbuild-bazel-skylib-6abae8f4.md) |
 | bazelbuild/rules_cc | partial | 2026-09-03T22:41:14Z | [open](../records/starlark-bazelbuild-rules-cc-39327329.md) |
 | bazelbuild/rules_closure | partial | 2026-04-03T21:28:30Z | [open](../records/starlark-bazelbuild-rules-closure-5adb8287.md) |
@@ -652,7 +652,7 @@ Records: `993`
 | bazelbuild/rules_k8s | partial | 2023-05-12T13:44:37Z | [open](../records/starlark-bazelbuild-rules-k8s-80683477.md) |
 | bazelbuild/rules_swift | partial | 2026-09-06T12:35:01Z | [open](../records/starlark-bazelbuild-rules-swift-3968ab89.md) |
 | bazelbuild/rules_typescript | partial | 2020-10-23T14:44:49Z | [open](../records/starlark-bazelbuild-rules-typescript-5c12b5d3.md) |
-| cgrindel/rules_swift_package_manager | partial | 2026-09-06T19:44:24Z | [open](../records/starlark-cgrindel-rules-swift-package-manager-e9bd76cb.md) |
+| cgrindel/rules_swift_package_manager | partial | 2026-09-07T14:08:02Z | [open](../records/starlark-cgrindel-rules-swift-package-manager-e9bd76cb.md) |
 | dropbox/dbx_build_tools | partial | 2023-08-16T17:42:36Z | [open](../records/starlark-dropbox-dbx-build-tools-f48dff7c.md) |
 | facebookincubator/reindeer | partial | 2026-09-05T05:36:52Z | [open](../records/starlark-facebookincubator-reindeer-e957d783.md) |
 | jin/awesome-bazel | partial | 2024-11-13T07:46:30Z | [open](../records/starlark-jin-awesome-bazel-fd38a6d9.md) |
@@ -682,19 +682,19 @@ Records: `993`
 | --- | --- | --- | --- |
 | agentscope-ai/agentscope | partial | 2026-09-07T13:10:30Z | [open](../records/aim-s-agentscope-ai-agentscope-52a2aaa7.md) |
 | browser-use/browser-use | partial | 2026-09-05T17:28:29Z | [open](../records/aim-s-browser-use-browser-use-3a4135d4.md) |
-| ComposioHQ/composio | partial | 2026-09-07T13:17:04Z | [open](../records/aim-s-composiohq-composio-aca55143.md) |
+| ComposioHQ/composio | partial | 2026-09-07T14:02:21Z | [open](../records/aim-s-composiohq-composio-aca55143.md) |
 | CopilotKit/CopilotKit | partial | 2026-09-07T03:33:18Z | [open](../records/aim-s-copilotkit-copilotkit-a4294d79.md) |
-| deepset-ai/haystack | partial | 2026-09-07T13:18:05Z | [open](../records/aim-s-deepset-ai-haystack-9a3ef275.md) |
+| deepset-ai/haystack | partial | 2026-09-07T13:31:05Z | [open](../records/aim-s-deepset-ai-haystack-9a3ef275.md) |
 | DietrichGebert/ponytail | partial | 2026-09-04T12:35:29Z | [open](../records/aim-s-dietrichgebert-ponytail-2aa63d65.md) |
 | khoj-ai/khoj | partial | 2026-08-02T01:55:40Z | [open](../records/aim-s-khoj-ai-khoj-7c0ba8b7.md) |
 | langchain-ai/langgraph | partial | 2026-09-06T00:55:48Z | [open](../records/aim-s-langchain-ai-langgraph-3d7f01d8.md) |
-| langgenius/dify | partial | 2026-09-07T13:04:52Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
+| langgenius/dify | partial | 2026-09-07T14:15:22Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
 | rohitg00/ai-engineering-from-scratch | partial | 2026-09-07T11:42:35Z | [open](../records/aim-s-rohitg00-ai-engineering-from-scratch-ac445b06.md) |
-| Significant-Gravitas/AutoGPT | partial | 2026-09-07T13:13:52Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
+| Significant-Gravitas/AutoGPT | partial | 2026-09-07T14:21:49Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
 | tinyhumansai/openhuman | partial | 2026-09-04T04:53:43Z | [open](../records/aim-s-tinyhumansai-openhuman-314d98d9.md) |
 | tirth8205/code-review-graph | partial | 2026-08-27T10:35:01Z | [open](../records/aim-s-tirth8205-code-review-graph-ebee7525.md) |
-| vercel/ai | partial | 2026-09-07T12:53:47Z | [open](../records/aim-s-vercel-ai-ae0b1907.md) |
-| Zackriya-Solutions/meetily | partial | 2026-09-07T13:11:50Z | [open](../records/aim-s-zackriya-solutions-meetily-959563c6.md) |
+| vercel/ai | partial | 2026-09-07T14:04:21Z | [open](../records/aim-s-vercel-ai-ae0b1907.md) |
+| Zackriya-Solutions/meetily | partial | 2026-09-07T13:43:54Z | [open](../records/aim-s-zackriya-solutions-meetily-959563c6.md) |
 
 ## Computer Graphics Software
 

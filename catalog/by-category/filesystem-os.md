@@ -17,7 +17,7 @@ Records: `1609`
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · **[Filesystem Os (1609)](filesystem-os.md)** · [Formatter (648)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1439)](language-specification.md) · [Library (5702)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1439)](language-specification.md) · [Library (5704)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (529)](logging-observability.md) · [Machine Learning (794)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1039)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1192)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
@@ -509,14 +509,14 @@ Records: `1609`
 | firebase_messaging | 16.6.0 | 2026-08-24T13:41:52.500498Z | [open](../records/dart-firebase-messaging-eb0d3a3d.md) |
 | fluentui_system_icons | 1.1.273 | 2025-01-31T19:35:58.322881Z | [open](../records/dart-fluentui-system-icons-f520bb45.md) |
 | flutter_background_geolocation | 5.7.0 | 2026-09-04T15:37:35.482183Z | [open](../records/dart-flutter-background-geolocation-688e364d.md) |
-| flutter_gemma | 1.7.1 | 2026-09-05T16:32:12.608128Z | [open](../records/dart-flutter-gemma-9a6dbd9b.md) |
+| flutter_gemma | 1.7.2 | 2026-09-06T06:54:53.445318Z | [open](../records/dart-flutter-gemma-9a6dbd9b.md) |
 | flutter_keyboard_visibility | 7.0.1 | 2026-08-24T02:25:21.264837Z | [open](../records/dart-flutter-keyboard-visibility-b5ffcede.md) |
 | flutter_keychain | 3.0.1 | 2026-03-30T12:03:12.684383Z | [open](../records/dart-flutter-keychain-1114ea7d.md) |
 | flutter_local_notifications | 22.3.0 | 2026-08-08T08:48:50.612325Z | [open](../records/dart-flutter-local-notifications-2c4ccd3c.md) |
 | flutter_tilt | 4.1.0 | 2026-07-29T13:24:38.863077Z | [open](../records/dart-flutter-tilt-aed1989b.md) |
 | flutter_tts | 4.2.5 | 2026-01-05T17:54:55.367504Z | [open](../records/dart-flutter-tts-c525b76d.md) |
 | flutter_udid | 4.1.6 | 2026-07-14T09:56:51.543948Z | [open](../records/dart-flutter-udid-80c330fc.md) |
-| flutter_webrtc | 1.6.1 | 2026-09-01T06:50:58.044646Z | [open](../records/dart-flutter-webrtc-afeba3f1.md) |
+| flutter_webrtc | 1.6.2 | 2026-09-07T13:41:07.809282Z | [open](../records/dart-flutter-webrtc-afeba3f1.md) |
 | fresh | 0.6.1 | 2026-02-26T19:22:14.357553Z | [open](../records/dart-fresh-033ad62f.md) |
 | google_maps_flutter | 2.18.0 | 2026-07-23T15:22:15.302126Z | [open](../records/dart-google-maps-flutter-7474cf08.md) |
 | health | 13.3.2 | 2026-08-14T13:04:10.425286Z | [open](../records/dart-health-09eb0719.md) |
@@ -574,7 +574,7 @@ Records: `1609`
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-08-30T15:02:19Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-07T13:12:45Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-07T14:16:13Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 

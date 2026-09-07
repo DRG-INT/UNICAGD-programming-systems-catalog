@@ -1,6 +1,6 @@
 # Haskell
 
-Records: `1478`
+Records: `1479`
 
 ## Navigation
 
@@ -17,7 +17,7 @@ Records: `1478`
 [Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (457)](../by-category/ffi-bindings.md) · [Filesystem Os (1609)](../by-category/filesystem-os.md) · [Formatter (648)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (356)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1462)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (273)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (29)](../by-category/language-server.md) · [Language Specification (1439)](../by-category/language-specification.md) · [Library (5702)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (29)](../by-category/language-server.md) · [Language Specification (1439)](../by-category/language-specification.md) · [Library (5704)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (529)](../by-category/logging-observability.md) · [Machine Learning (794)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1039)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1192)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (308)](../by-category/precommit-ci-quality.md)
@@ -863,6 +863,7 @@ Records: `1478`
 | [hw-prim](../records/haskell-hw-prim-469f0960.md) | 0.6.3.2 | 2022-10-30T02:42:20Z | registry-derived |
 | [hw-rankselect](../records/haskell-hw-rankselect-d19f5422.md) | 0.13.4.1 | 2022-03-23T12:02:05Z | registry-derived |
 | [hxt](../records/haskell-hxt-e93aea08.md) | 9.3.1.22 | 2021-03-21T10:37:45Z | registry-derived |
+| [hylolib](../records/haskell-hylolib-4239adb4.md) | 1.5.6 | 2026-09-07T12:40:03Z | registry-derived |
 | [hyphenation](../records/haskell-hyphenation-f3f532ac.md) | 0.8.3 | 2025-03-03T11:23:42Z | registry-derived |
 | [idris](../records/haskell-idris-47fb0b3c.md) | 1.3.4 | 2021-10-22T22:58:30Z | registry-derived |
 | [ihaskell](../records/haskell-ihaskell-b5eca6d8.md) | 0.13.0.0 | 2025-11-15T12:58:18Z | registry-derived |

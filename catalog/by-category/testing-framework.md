@@ -17,7 +17,7 @@ Records: `607`
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1609)](filesystem-os.md) · [Formatter (648)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1439)](language-specification.md) · [Library (5702)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1439)](language-specification.md) · [Library (5704)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (529)](logging-observability.md) · [Machine Learning (794)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1039)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1192)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
@@ -199,7 +199,7 @@ Records: `607`
 | @open-wc/testing | 5.0.0 | 2026-07-13T14:04:51.726Z | [open](../records/node-js-javascript-open-wc-testing-fb31caab.md) |
 | @open-wc/testing-helpers | 3.0.1 | 2024-04-23T15:31:03.343Z | [open](../records/node-js-javascript-open-wc-testing-helpers-c5380725.md) |
 | @open-wc/testing-karma | 4.0.9 | 2020-10-11T20:09:20.345Z | [open](../records/node-js-javascript-open-wc-testing-karma-46b98496.md) |
-| @opra/testing | 1.29.8 | 2026-08-27T15:19:38.526Z | [open](../records/node-js-javascript-opra-testing-a0ec9557.md) |
+| @opra/testing | 1.29.10 | 2026-09-07T14:18:39.101Z | [open](../records/node-js-javascript-opra-testing-a0ec9557.md) |
 | @percy/appium-app | 2.1.0 | 2025-04-22T12:40:46.092Z | [open](../records/node-js-javascript-percy-appium-app-cbe82335.md) |
 | @percy/cypress | 3.1.9 | 2026-07-13T12:56:39.908Z | [open](../records/node-js-javascript-percy-cypress-f70f3e03.md) |
 | @percy/playwright | 1.1.2 | 2026-08-06T10:43:46.572Z | [open](../records/node-js-javascript-percy-playwright-732244e2.md) |
@@ -228,7 +228,7 @@ Records: `607`
 | @stryker-mutator/api | 10.0.0 | 2026-08-14T16:51:10.145Z | [open](../records/node-js-javascript-stryker-mutator-api-9d1e2dd0.md) |
 | @stryker-mutator/core | 10.0.0 | 2026-08-14T16:51:22.686Z | [open](../records/node-js-javascript-stryker-mutator-core-931b4171.md) |
 | @stryker-mutator/util | 10.0.0 | 2026-08-14T16:50:09.663Z | [open](../records/node-js-javascript-stryker-mutator-util-0d4f0b82.md) |
-| @taiga-ui/testing | 5.22.0 | 2026-08-31T16:01:43.699Z | [open](../records/node-js-javascript-taiga-ui-testing-aedbf495.md) |
+| @taiga-ui/testing | 5.23.0 | 2026-09-07T12:43:42.150Z | [open](../records/node-js-javascript-taiga-ui-testing-aedbf495.md) |
 | @tellescope/testing | 1.256.14 | 2026-09-03T21:24:22.630Z | [open](../records/node-js-javascript-tellescope-testing-59848a2c.md) |
 | @testing-library/angular | 19.4.2 | 2026-08-07T14:48:19.466Z | [open](../records/node-js-javascript-testing-library-angular-00401ff1.md) |
 | @testing-library/cypress | 10.1.3 | 2026-04-29T16:38:28.373Z | [open](../records/node-js-javascript-testing-library-cypress-7b6684d4.md) |
