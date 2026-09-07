@@ -41,9 +41,9 @@ artifact reproducibility, cross-platform build policy, and CI integration.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | unknown |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Mixed license review |
+| Evidence | MIT + file LICENSE; GNU Lesser General Public License v2.1; https://api.github.com/licenses/lgpl-2.1; Boost Software License 1.0; https://api.github.com/licenses/bsl-1.0 |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 

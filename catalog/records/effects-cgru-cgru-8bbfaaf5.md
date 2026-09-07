@@ -42,7 +42,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | GNU Lesser General Public License v3.0; https://api.github.com/licenses/lgpl-3.0 |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; Other |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

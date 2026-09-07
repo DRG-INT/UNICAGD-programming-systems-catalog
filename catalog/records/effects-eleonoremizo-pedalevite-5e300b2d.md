@@ -39,9 +39,9 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT; Do What The F*ck You Want To Public License; https://api.github.com/licenses/wtfpl |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Mixed license review |
+| Evidence | MIT; Mozilla Public License 2.0; https://api.github.com/licenses/mpl-2.0; Do What The F*ck You Want To Public License; https://api.github.com/licenses/wtfpl |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 

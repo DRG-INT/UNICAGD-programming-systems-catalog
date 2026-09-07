@@ -40,7 +40,7 @@ pipelines, numerical runtime constraints, and data/deployment interfaces.
 | Field | Value |
 | --- | --- |
 | Detected family | Mixed license review |
-| Evidence | BSD 2-Clause "Simplified" License; https://api.github.com/licenses/bsd-2-clause; MIT License; https://api.github.com/licenses/mit |
+| Evidence | GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0; MIT License; https://api.github.com/licenses/mit |
 | Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes

@@ -42,7 +42,7 @@ style consistency, and automation-friendly editing.
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | unknown |
+| Evidence | Artistic License 2.0; https://api.github.com/licenses/artistic-2.0 |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes

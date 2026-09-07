@@ -630,7 +630,7 @@ Records: `653`
 | [jarogumulec/perseidy](../records/space-maps-jarogumulec-perseidy-606b759b.md) | partial | 2026-08-12T07:13:34Z | registry-derived |
 | [jasonsturges/lunarphase-js](../records/space-maps-jasonsturges-lunarphase-js-e8551ded.md) | partial | 2024-03-01T22:53:58Z | registry-derived |
 | [jeff-regier/Celeste.jl](../records/space-maps-jeff-regier-celeste-jl-2c4a4fe5.md) | partial | 2021-09-18T08:20:37Z | registry-derived |
-| [jobovy/galpy](../records/space-maps-jobovy-galpy-3ddf61a7.md) | partial | 2026-09-07T01:11:29Z | registry-derived |
+| [jobovy/galpy](../records/space-maps-jobovy-galpy-3ddf61a7.md) | partial | 2026-09-07T03:06:04Z | registry-derived |
 | [JuliaAstro/SPICE.jl](../records/space-maps-juliaastro-spice-jl-78081df8.md) | partial | 2026-06-24T14:09:40Z | registry-derived |
 | [jyotisham/jyotisha](../records/space-maps-jyotisham-jyotisha-889f81ce.md) | partial | 2026-09-05T17:09:50Z | registry-derived |
 | [kaitlyndlee/AstroWebMaps](../records/space-maps-kaitlyndlee-astrowebmaps-1c6718c8.md) | partial | 2019-10-11T17:52:05Z | registry-derived |
@@ -665,7 +665,7 @@ Records: `653`
 | [pprat2004/NASA-SPACE-APP-PROJECT-2025-](../records/space-maps-pprat2004-nasa-space-app-project-2025-6e5a8eaf.md) | partial | 2025-10-05T14:25:05Z | registry-derived |
 | [prappleizer/planetary-system-generator](../records/space-maps-prappleizer-planetary-system-generator-7a31d2bd.md) | partial | 2022-09-06T01:56:51Z | registry-derived |
 | [Prothom7/Stella](../records/space-maps-prothom7-stella-e8d27a42.md) | partial | 2026-05-06T08:12:16Z | registry-derived |
-| [PyAutoLabs/PyAutoLens](../records/space-maps-pyautolabs-pyautolens-72f61a3c.md) | partial | 2026-09-07T00:04:32Z | registry-derived |
+| [PyAutoLabs/PyAutoLens](../records/space-maps-pyautolabs-pyautolens-72f61a3c.md) | partial | 2026-09-07T02:22:24Z | registry-derived |
 | [qsecofr76/VesperEye](../records/space-maps-qsecofr76-vespereye-5b938ee0.md) | partial | 2026-06-14T09:11:06Z | registry-derived |
 | [quatrope/astroalign](../records/space-maps-quatrope-astroalign-f4b1a188.md) | partial | 2025-09-24T18:22:23Z | registry-derived |
 | [rafabelokurows/staRmaps](../records/space-maps-rafabelokurows-starmaps-fceb7d6a.md) | partial | 2023-02-03T21:15:02Z | registry-derived |
@@ -846,7 +846,7 @@ Records: `653`
 | [maheshr-hub/ayanamsha](../records/space-maps-maheshr-hub-ayanamsha-18861b1b.md) | partial | 2026-05-26T05:10:14Z | registry-derived |
 | [MESAHub/mesa](../records/space-maps-mesahub-mesa-0abd6bf7.md) | partial | 2026-09-04T05:23:44Z | registry-derived |
 | [Raevn/com.pahub.content.plugin.store.map](../records/space-maps-raevn-com-pahub-content-plugin-store-map-5946b4b8.md) | partial | 2014-12-12T12:24:45Z | registry-derived |
-| [rhannequin/astronoby](../records/space-maps-rhannequin-astronoby-ced172a0.md) | partial | 2026-09-05T19:53:51Z | registry-derived |
+| [rhannequin/astronoby](../records/space-maps-rhannequin-astronoby-ced172a0.md) | partial | 2026-09-07T01:42:52Z | registry-derived |
 | [Rohit-singh-github/Cosmic-resume](../records/space-maps-rohit-singh-github-cosmic-resume-55310cad.md) | partial | 2026-08-12T22:41:00Z | registry-derived |
 | [sametcn99/my-stars-atlas](../records/space-maps-sametcn99-my-stars-atlas-26dfd7e9.md) | partial | 2026-08-15T00:06:02Z | registry-derived |
 | [segevl/dynamic_scheduler](../records/space-maps-segevl-dynamic-scheduler-4c37b302.md) | partial | 2026-08-24T10:46:19Z | registry-derived |
@@ -877,7 +877,7 @@ Records: `653`
 | [despoisj/LatentSpaceVisualization](../records/space-maps-despoisj-latentspacevisualization-2f2ac115.md) | partial | 2021-07-26T19:43:51Z | registry-derived |
 | [dnemec/SPICE-Libraries](../records/space-maps-dnemec-spice-libraries-14b85037.md) | partial | 2018-08-03T00:49:47Z | registry-derived |
 | [drifter1/circuitsim](../records/space-maps-drifter1-circuitsim-ffe82388.md) | partial | 2026-03-14T13:30:19Z | registry-derived |
-| [eelab-dev/EEcircuit](../records/space-maps-eelab-dev-eecircuit-3d239729.md) | partial | 2026-09-07T00:43:28Z | registry-derived |
+| [eelab-dev/EEcircuit](../records/space-maps-eelab-dev-eecircuit-3d239729.md) | partial | 2026-09-07T01:49:17Z | registry-derived |
 | [ESA Sky](../records/space-maps-esa-sky-507149dd.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [facebookresearch/MultiModalExplorer](../records/space-maps-facebookresearch-multimodalexplorer-41476dd9.md) | partial | 2024-05-16T10:32:56Z | registry-derived |
 | [Farhad8797/solar-system-threejs](../records/space-maps-farhad8797-solar-system-threejs-fb3c2e47.md) | partial | 2026-08-12T13:38:07Z | registry-derived |

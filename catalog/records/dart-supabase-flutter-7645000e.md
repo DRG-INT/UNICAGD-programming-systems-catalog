@@ -58,7 +58,7 @@ control, artifact reproducibility, cross-platform build policy, and CI integrati
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| pub_dev_completion_and_package_api | registry-derived | 2026-09-06 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-06", "status": "registry-derived"}` |
+| pub_dev_completion_and_package_api | registry-derived | 2026-09-07 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-07", "status": "registry-derived"}` |
 
 </details>
 

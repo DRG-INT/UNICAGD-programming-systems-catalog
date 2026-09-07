@@ -39,9 +39,9 @@ diagnostics behavior, target support, ABI expectations, and build reproducibilit
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0; Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | MIT |
+| Evidence | MIT License; https://api.github.com/licenses/mit; Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0 |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 

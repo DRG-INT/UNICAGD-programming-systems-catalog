@@ -40,7 +40,7 @@ parser hardening, and unsafe edge-case discovery.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | LGPL-3 |
+| Evidence | GPL-3 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

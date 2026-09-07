@@ -39,9 +39,9 @@ cross-compilation, driver behavior, and field upgrades.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | MIT; GNU Lesser General Public License v2.1; https://api.github.com/licenses/lgpl-2.1 |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | Backup plan required |
+| Evidence | GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0; GNU Lesser General Public License v2.1; https://api.github.com/licenses/lgpl-2.1 |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 
