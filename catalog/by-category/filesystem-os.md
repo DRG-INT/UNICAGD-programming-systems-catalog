@@ -1,6 +1,6 @@
 # Filesystem Os
 
-Records: `1606`
+Records: `1607`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `1606`
 ## Category Index
 
 [Api Abi Checker (221)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (200)](benchmarking.md) · [Build System (992)](build-system.md) · [Cli (565)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (200)](benchmarking.md) · [Build System (993)](build-system.md) · [Cli (565)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
 [Concurrency Parallelism (90)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (176)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (893)](database-datastore.md) · [Datetime (233)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (106)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · **[Filesystem Os (1606)](filesystem-os.md)** · [Formatter (648)](formatter.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · **[Filesystem Os (1607)](filesystem-os.md)** · [Formatter (648)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1439)](language-specification.md) · [Library (5697)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1439)](language-specification.md) · [Library (5700)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (529)](logging-observability.md) · [Machine Learning (794)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1038)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1191)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1192)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (614)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (615)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (607)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1618)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (556)](visualization-gui.md) · [Web Framework (477)](web-framework.md)
+[Undefined Behavior Analyzer (1618)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (557)](visualization-gui.md) · [Web Framework (477)](web-framework.md)
 
 ## C++23
 
@@ -395,6 +395,7 @@ Records: `1606`
 | healthiar | 0.2.5 | 2026-08-21 12:30:02 UTC | [open](../records/r-healthiar-08b8fbd7.md) |
 | hexify | 0.8.2 | 2026-08-22 16:00:03 UTC | [open](../records/r-hexify-18b38cb3.md) |
 | ibdsim2 | 2.3.3 | 2026-08-04 20:00:10 UTC | [open](../records/r-ibdsim2-315bef3b.md) |
+| icio | partial | 2026-09-07 | [open](../records/r-icio-af349992.md) |
 | inferencer | 0.2.0 | 2026-08-04 06:50:02 UTC | [open](../records/r-inferencer-3ab0fbbc.md) |
 | jiebaRS | 0.3.0 | 2026-08-26 11:40:02 UTC | [open](../records/r-jiebars-c83af6de.md) |
 | knitr | 1.52 | 2026-09-06 19:10:02 UTC | [open](../records/r-knitr-697ca8de.md) |
@@ -573,7 +574,7 @@ Records: `1606`
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-08-30T15:02:19Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-07T09:20:42Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-07T10:12:38Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -1191,13 +1192,13 @@ Records: `1606`
 | fedden/RenderMan | partial | 2021-12-02T21:11:26Z | [open](../records/audio-fedden-renderman-b1df24f8.md) |
 | gnuradio/gnuradio | partial | 2026-08-27T23:02:01Z | [open](../records/audio-gnuradio-gnuradio-f6f01d2f.md) |
 | HEnquist/camilladsp | partial | 2026-09-06T07:32:25Z | [open](../records/audio-henquist-camilladsp-382264e4.md) |
-| hifiberry/hifiberry-os | partial | 2026-09-05T08:24:01Z | [open](../records/audio-hifiberry-hifiberry-os-5ddcb398.md) |
+| hifiberry/hifiberry-os | partial | 2026-09-07T09:31:32Z | [open](../records/audio-hifiberry-hifiberry-os-5ddcb398.md) |
 | hollance/lost-and-found-piano | partial | 2026-07-12T14:06:30Z | [open](../records/audio-hollance-lost-and-found-piano-757e2e12.md) |
 | jameshball/osci-render | partial | 2026-09-07T06:40:09Z | [open](../records/audio-jameshball-osci-render-c76ba818.md) |
 | jatinchowdhury18/ChowPhaser | partial | 2022-02-23T08:14:59Z | [open](../records/audio-jatinchowdhury18-chowphaser-48d2d1a6.md) |
 | josephernest/SamplerBox | partial | 2024-05-09T19:18:19Z | [open](../records/audio-josephernest-samplerbox-c23f8c2d.md) |
 | joshwcomeau/key-and-pad | partial | 2022-12-12T07:44:58Z | [open](../records/audio-joshwcomeau-key-and-pad-da5bc43a.md) |
-| juce-framework/JUCE | partial | 2026-09-04T10:53:09Z | [open](../records/audio-juce-framework-juce-7765dd0c.md) |
+| juce-framework/JUCE | partial | 2026-09-07T08:11:02Z | [open](../records/audio-juce-framework-juce-7765dd0c.md) |
 | kushview/element | partial | 2026-09-06T23:04:50Z | [open](../records/audio-kushview-element-3d0d8878.md) |
 | martinber/noaa-apt | partial | 2024-02-10T15:41:50Z | [open](../records/audio-martinber-noaa-apt-c11a6202.md) |
 | microsoft/torchscale | partial | 2024-04-11T13:58:57Z | [open](../records/audio-microsoft-torchscale-35290025.md) |
@@ -1293,7 +1294,7 @@ Records: `1606`
 | niklasr22/BrightIntosh | partial | 2026-09-04T17:20:10Z | [open](../records/photography-niklasr22-brightintosh-a739a56f.md) |
 | open-product-data/digital-cameras | unknown | github_search_does_not_include_release_date | [open](../records/photography-open-product-data-digital-cameras-6d723530.md) |
 | photoprism/photoprism | partial | 2026-09-06T11:10:13Z | [open](../records/photography-photoprism-photoprism-49783c79.md) |
-| PicPeak/picpeak | partial | 2026-09-07T09:22:04Z | [open](../records/photography-picpeak-picpeak-d6957174.md) |
+| PicPeak/picpeak | partial | 2026-09-07T09:53:03Z | [open](../records/photography-picpeak-picpeak-d6957174.md) |
 | pmndrs/postprocessing | partial | 2026-09-06T13:12:28Z | [open](../records/photography-pmndrs-postprocessing-70a67349.md) |
 | Po-Hsun-Su/pytorch-ssim | partial | 2024-02-22T09:28:51Z | [open](../records/photography-po-hsun-su-pytorch-ssim-c77f7b01.md) |
 | pop-os/wallpapers | partial | 2025-06-24T16:00:43Z | [open](../records/photography-pop-os-wallpapers-b9bd093b.md) |
@@ -1343,7 +1344,7 @@ Records: `1606`
 | david-hoffman/pyotf | partial | 2024-04-08T20:58:26Z | [open](../records/microscopy-david-hoffman-pyotf-f47c74b0.md) |
 | deepinv/deepinv | partial | 2026-09-07T08:00:33Z | [open](../records/microscopy-deepinv-deepinv-59141df0.md) |
 | delmic/odemis | partial | 2026-09-03T14:26:23Z | [open](../records/microscopy-delmic-odemis-64e6d3c9.md) |
-| fairscope/PlanktoScope | partial | 2026-09-04T19:13:04Z | [open](../records/microscopy-fairscope-planktoscope-9189e5a9.md) |
+| fairscope/PlanktoScope | partial | 2026-09-07T10:19:06Z | [open](../records/microscopy-fairscope-planktoscope-9189e5a9.md) |
 | google-research/sofima | partial | 2026-08-06T15:10:50Z | [open](../records/microscopy-google-research-sofima-72568ecb.md) |
 | gtatters/ThermImageJ | partial | 2026-06-27T21:06:25Z | [open](../records/microscopy-gtatters-thermimagej-e96d3524.md) |
 | GuillaumeMougeot/biom3d | partial | 2026-03-30T07:54:44Z | [open](../records/microscopy-guillaumemougeot-biom3d-7ae5f94d.md) |
@@ -1378,7 +1379,7 @@ Records: `1606`
 | rapidsai/cucim | partial | 2026-09-07T02:58:48Z | [open](../records/microscopy-rapidsai-cucim-6fd9f972.md) |
 | royerlab/cytoself | partial | 2025-08-05T18:46:40Z | [open](../records/microscopy-royerlab-cytoself-b2dff824.md) |
 | rwb27/openflexure_microscope | partial | 2019-04-30T15:12:38Z | [open](../records/microscopy-rwb27-openflexure-microscope-9f4f36b7.md) |
-| scalableminds/webknossos | partial | 2026-09-07T08:22:51Z | [open](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) |
+| scalableminds/webknossos | partial | 2026-09-07T10:10:14Z | [open](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) |
 | seung-lab/cloud-volume | partial | 2026-09-03T21:08:26Z | [open](../records/microscopy-seung-lab-cloud-volume-388cc8e9.md) |
 | tferr/Scripts | partial | 2022-06-03T11:23:48Z | [open](../records/microscopy-tferr-scripts-25277503.md) |
 | TheDeanLab/navigate | partial | 2026-09-04T15:20:12Z | [open](../records/microscopy-thedeanlab-navigate-dc14fa5a.md) |

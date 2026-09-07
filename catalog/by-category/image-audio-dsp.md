@@ -9,22 +9,22 @@ Records: `438`
 ## Category Index
 
 [Api Abi Checker (221)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (200)](benchmarking.md) · [Build System (992)](build-system.md) · [Cli (565)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (200)](benchmarking.md) · [Build System (993)](build-system.md) · [Cli (565)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
 [Concurrency Parallelism (90)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (176)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (893)](database-datastore.md) · [Datetime (233)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (106)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1606)](filesystem-os.md) · [Formatter (648)](formatter.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1607)](filesystem-os.md) · [Formatter (648)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
 **[Image Audio Dsp (438)](image-audio-dsp.md)** · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1439)](language-specification.md) · [Library (5697)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1439)](language-specification.md) · [Library (5700)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (529)](logging-observability.md) · [Machine Learning (794)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1038)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1191)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1192)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (614)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (615)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (607)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1618)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (556)](visualization-gui.md) · [Web Framework (477)](web-framework.md)
+[Undefined Behavior Analyzer (1618)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (557)](visualization-gui.md) · [Web Framework (477)](web-framework.md)
 
 ## C++23
 
@@ -344,7 +344,7 @@ Records: `438`
 | JUCE | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-juce-3f2891c9.md) |
 | JuliaDSP/DSP.jl | partial | 2026-08-25T10:58:30Z | [open](../records/audio-juliadsp-dsp-jl-4e524896.md) |
 | katspaugh/wavesurfer.js | partial | 2026-09-03T18:48:16Z | [open](../records/audio-katspaugh-wavesurfer-js-cff13805.md) |
-| koel/koel | partial | 2026-09-03T01:14:32Z | [open](../records/audio-koel-koel-f2457c0c.md) |
+| koel/koel | partial | 2026-09-07T10:04:39Z | [open](../records/audio-koel-koel-f2457c0c.md) |
 | libsndfile | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-libsndfile-6065db3d.md) |
 | mackron/miniaudio | partial | 2026-08-19T22:07:12Z | [open](../records/audio-mackron-miniaudio-78110754.md) |
 | mahmoud/awesome-python-applications | partial | 2026-07-11T16:46:22Z | [open](../records/audio-mahmoud-awesome-python-applications-7548e8bd.md) |
@@ -352,7 +352,7 @@ Records: `438`
 | michaelwillis/dragonfly-reverb | partial | 2026-05-21T15:59:51Z | [open](../records/audio-michaelwillis-dragonfly-reverb-7aa868bf.md) |
 | midas-research/audino | partial | 2026-02-03T14:08:58Z | [open](../records/audio-midas-research-audino-bfd86e43.md) |
 | miek/inspectrum | partial | 2025-12-06T15:44:29Z | [open](../records/audio-miek-inspectrum-a2b95ec1.md) |
-| mixxxdj/mixxx | partial | 2026-09-06T23:50:33Z | [open](../records/audio-mixxxdj-mixxx-c62cc22f.md) |
+| mixxxdj/mixxx | partial | 2026-09-07T09:20:19Z | [open](../records/audio-mixxxdj-mixxx-c62cc22f.md) |
 | ModernFlyouts-Community/ModernFlyouts | partial | 2024-11-17T02:39:02Z | [open](../records/audio-modernflyouts-community-modernflyouts-61772da5.md) |
 | Moekotori/ECHO | partial | 2026-09-05T22:47:36Z | [open](../records/audio-moekotori-echo-a5eae6e0.md) |
 | morkt/GARbro | partial | 2024-07-08T19:36:58Z | [open](../records/audio-morkt-garbro-79127cac.md) |
