@@ -7,18 +7,18 @@
 [Api Abi Checker (221)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (136)](by-category/async-runtime.md)
 [Benchmarking (200)](by-category/benchmarking.md) · [Build System (993)](by-category/build-system.md) · [Cli (565)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (24)](by-category/compiler-diagnostics.md) · [Compression (51)](by-category/compression.md)
-[Concurrency Parallelism (90)](by-category/concurrency-parallelism.md) · [Configuration (130)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
+[Concurrency Parallelism (91)](by-category/concurrency-parallelism.md) · [Configuration (130)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (176)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (893)](by-category/database-datastore.md) · [Datetime (233)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (102)](by-category/dependency-manager.md) · [Documentation (106)](by-category/documentation.md)
-[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (457)](by-category/ffi-bindings.md) · [Filesystem Os (1608)](by-category/filesystem-os.md) · [Formatter (648)](by-category/formatter.md)
+[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (457)](by-category/ffi-bindings.md) · [Filesystem Os (1609)](by-category/filesystem-os.md) · [Formatter (648)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (356)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1462)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (273)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (29)](by-category/language-server.md) · [Language Specification (1439)](by-category/language-specification.md) · [Library (5700)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (29)](by-category/language-server.md) · [Language Specification (1439)](by-category/language-specification.md) · [Library (5702)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (529)](by-category/logging-observability.md) · [Machine Learning (794)](by-category/machine-learning.md)
-[Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1038)](by-category/networking-http.md)
+[Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1039)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1192)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (308)](by-category/precommit-ci-quality.md)
 [Profiler (87)](by-category/profiler.md) · [Project Scaffolding (133)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
-[Security Sast (336)](by-category/security-sast.md) · [Serialization (397)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (615)](by-category/static-analyzer.md)
+[Security Sast (336)](by-category/security-sast.md) · [Serialization (397)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (616)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (607)](by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](by-category/tutorial-book-styleguide.md) · [Type Checker (313)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1618)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (557)](by-category/visualization-gui.md) · [Web Framework (477)](by-category/web-framework.md)
 
@@ -898,6 +898,7 @@
 | `cran_packages_by_date-0ce7060e6e2bb3` | StanHeaders | [open](records/r-stanheaders-057c3682.md) |
 | `cran_packages_by_date-0cee466d060817` | mFilter | [open](records/r-mfilter-c4e756e7.md) |
 | `cran_packages_by_date-0d0b4396e02517` | directlabels | [open](records/r-directlabels-65e4fde1.md) |
+| `cran_packages_by_date-0db0a454257ca0` | CompositionalZADR | [open](records/r-compositionalzadr-bb891663.md) |
 | `cran_packages_by_date-0db9a9d74d5a71` | rice | [open](records/r-rice-92478c24.md) |
 | `cran_packages_by_date-0dc20ca16c3b0c` | Rmpfr | [open](records/r-rmpfr-c1712963.md) |
 | `cran_packages_by_date-0dcc7f30f75ba0` | MedZIsc | [open](records/r-medzisc-7f972898.md) |
@@ -1203,6 +1204,7 @@
 | `cran_packages_by_date-3a17d4f491d980` | metabodeconplus | [open](records/r-metabodeconplus-fa0d99c0.md) |
 | `cran_packages_by_date-3a2d21e4c0de50` | MultiStepSSAD | [open](records/r-multistepssad-295f08e5.md) |
 | `cran_packages_by_date-3a3dbde8aba39e` | uwot | [open](records/r-uwot-3c319a43.md) |
+| `cran_packages_by_date-3a6769c0d5cfe2` | RcppTrust | [open](records/r-rcpptrust-1cd73d11.md) |
 | `cran_packages_by_date-3ab9fa34bfd7e8` | yrnd | [open](records/r-yrnd-9551d6ee.md) |
 | `cran_packages_by_date-3adfd1b7361556` | LugsailGR | [open](records/r-lugsailgr-72958e54.md) |
 | `cran_packages_by_date-3ae4c8987f7bd8` | CVXR | [open](records/r-cvxr-462b1bfb.md) |
@@ -10533,6 +10535,7 @@
 | `github_search_maps-158703d6dceb10` | mbloch/mapshaper | [open](records/maps-mbloch-mapshaper-c692c7a0.md) |
 | `github_search_maps-1613518ee4698f` | enix/kube-image-keeper | [open](records/maps-enix-kube-image-keeper-4bf7a4cc.md) |
 | `github_search_maps-16baea0ee70f80` | openmessaging/openmessaging-java | [open](records/maps-openmessaging-openmessaging-java-12fdcd31.md) |
+| `github_search_maps-16c7d5deb96492` | mmoaay/Findme | [open](records/maps-mmoaay-findme-0cf28910.md) |
 | `github_search_maps-16ea89c0f957de` | jeremiehuchet/nominatim-java-api | [open](records/maps-jeremiehuchet-nominatim-java-api-b25ea78f.md) |
 | `github_search_maps-170fe810655343` | noncomputable/AgentMaps | [open](records/maps-noncomputable-agentmaps-d9a25ae5.md) |
 | `github_search_maps-1710a4f1e95b2d` | simonepri/geo-maps | [open](records/maps-simonepri-geo-maps-7c7a1f09.md) |
@@ -10721,6 +10724,7 @@
 | `github_search_maps-65156769b0c608` | kontrollanten/algolia-places-react | [open](records/maps-kontrollanten-algolia-places-react-0eaf3017.md) |
 | `github_search_maps-654694dac79d92` | Loyalsoldier/clash-rules | [open](records/maps-loyalsoldier-clash-rules-35bed208.md) |
 | `github_search_maps-65c993c086b0c6` | ngageoint/hootenanny | [open](records/maps-ngageoint-hootenanny-ef5b4528.md) |
+| `github_search_maps-6625fe7933c062` | matrix-org/pinecone | [open](records/maps-matrix-org-pinecone-5210c639.md) |
 | `github_search_maps-666902f785d52e` | yunwei37/ZJU-CS-GIS-ClassNotes | [open](records/maps-yunwei37-zju-cs-gis-classnotes-d5fd26cb.md) |
 | `github_search_maps-6669cb1dc20d54` | paulmach/orb | [open](records/maps-paulmach-orb-d7fd1fed.md) |
 | `github_search_maps-66870f600dd38c` | ianho7/maptoposter-online | [open](records/maps-ianho7-maptoposter-online-9da00742.md) |
@@ -11049,6 +11053,7 @@
 | `github_search_maps-f72cd85acfd646` | mapbox/mapbox-java | [open](records/maps-mapbox-mapbox-java-84dd661d.md) |
 | `github_search_maps-f85642d1b758c6` | darkmoonight/Rain | [open](records/maps-darkmoonight-rain-cd8bf6ae.md) |
 | `github_search_maps-f884495321d234` | tatethurston/nextjs-routes | [open](records/maps-tatethurston-nextjs-routes-af0bb3ff.md) |
+| `github_search_maps-f91493e90d0d8a` | alexedwards/flow | [open](records/maps-alexedwards-flow-ade589df.md) |
 | `github_search_maps-f961651e77edff` | mousebird-consulting-inc/WhirlyGlobe | [open](records/maps-mousebird-consulting-inc-whirlyglobe-e32e1856.md) |
 | `github_search_maps-f985be1da10a8c` | maplibre/demotiles | [open](records/maps-maplibre-demotiles-72972139.md) |
 | `github_search_maps-f9edef6fe9db2a` | reearth/navara | [open](records/maps-reearth-navara-4c6413a9.md) |
@@ -11070,6 +11075,7 @@
 | `github_search_maps-fdecc6d90f3819` | GeoNode/geonode | [open](records/maps-geonode-geonode-d052a389.md) |
 | `github_search_maps-fe90037f5e9716` | maplibre/martin | [open](records/maps-maplibre-martin-cbc4e95e.md) |
 | `github_search_maps-fe998da3f354f6` | bugra9/gdal3.js | [open](records/maps-bugra9-gdal3-js-e7b39271.md) |
+| `github_search_maps-ffbf9fe9e644b5` | ivaylokenov/AspNet.Mvc.TypedRouting | [open](records/maps-ivaylokenov-aspnet-mvc-typedrouting-edc6294c.md) |
 | `github_search_matlab-0106cef26ad2c1` | caiotavares/spectrum-sensing | [open](records/matlab-caiotavares-spectrum-sensing-56be35eb.md) |
 | `github_search_matlab-0544b3eda09c67` | CodeByPinar/Earthquake_Prediction_Analysis_Project | [open](records/matlab-codebypinar-earthquake-prediction-analysis-project-c9d8a598.md) |
 | `github_search_matlab-062d35e972cb3b` | SPIRIT-org/SPIRIT | [open](records/matlab-spirit-org-spirit-85199c7a.md) |
