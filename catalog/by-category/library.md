@@ -9,22 +9,22 @@ Records: `5716`
 ## Category Index
 
 [Api Abi Checker (221)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (200)](benchmarking.md) · [Build System (993)](build-system.md) · [Cli (565)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (200)](benchmarking.md) · [Build System (993)](build-system.md) · [Cli (566)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (52)](compression.md)
 [Concurrency Parallelism (92)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (176)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (894)](database-datastore.md) · [Datetime (233)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (106)](documentation.md)
+[Cryptography (176)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (895)](database-datastore.md) · [Datetime (234)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (107)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1611)](filesystem-os.md) · [Formatter (648)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1463)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1440)](language-specification.md) · **[Library (5716)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (794)](machine-learning.md)
+[Language Server (30)](language-server.md) · [Language Specification (1441)](language-specification.md) · **[Library (5716)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (795)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1040)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1194)](parser-lexer-ast.md) · [Precommit Ci Quality (309)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (621)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (622)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (607)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1618)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (558)](visualization-gui.md) · [Web Framework (477)](web-framework.md)
+[Undefined Behavior Analyzer (1618)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (559)](visualization-gui.md) · [Web Framework (477)](web-framework.md)
 
 ## C99
 
@@ -4285,7 +4285,7 @@ Records: `5716`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-07T21:16:50Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-07T22:18:03Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -5559,7 +5559,7 @@ Records: `5716`
 | takenobu-hs/cpu-assembly-examples | partial | 2024-05-19T06:55:01Z | [open](../records/assembly-takenobu-hs-cpu-assembly-examples-b5867112.md) |
 | Thraetaona/EXACT | partial | 2024-06-13T18:59:42Z | [open](../records/assembly-thraetaona-exact-bb36746a.md) |
 | vonsim/vonsim | partial | 2026-05-29T02:08:00Z | [open](../records/assembly-vonsim-vonsim-6a8ef78f.md) |
-| vvaltchev/tilck | partial | 2026-09-07T21:07:58Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
+| vvaltchev/tilck | partial | 2026-09-07T21:38:23Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
 | xtnded/codextended | partial | 2026-05-07T10:43:51Z | [open](../records/assembly-xtnded-codextended-97cbc636.md) |
 | yds12/x64-roadmap | partial | 2020-07-16T15:54:20Z | [open](../records/assembly-yds12-x64-roadmap-3b9663e2.md) |
 | yrp604/rappel | partial | 2024-03-07T04:45:15Z | [open](../records/assembly-yrp604-rappel-4bf787bb.md) |
@@ -5619,7 +5619,7 @@ Records: `5716`
 | Kotlin/kotlin-wasm-examples | partial | 2026-01-14T11:54:22Z | [open](../records/webassembly-kotlin-kotlin-wasm-examples-24c10135.md) |
 | LingDong-/wasm-fun | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-lingdong-wasm-fun-c02d519e.md) |
 | mbebenita/WasmExplorer | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-mbebenita-wasmexplorer-39663e88.md) |
-| meshery/meshery | partial | 2026-09-07T07:43:48Z | [open](../records/webassembly-meshery-meshery-19a90056.md) |
+| meshery/meshery | partial | 2026-09-07T18:46:02Z | [open](../records/webassembly-meshery-meshery-19a90056.md) |
 | rstropek/rust-samples | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-rstropek-rust-samples-7a66305a.md) |
 | saghul/wasi-lab | partial | 2021-06-08T05:48:26Z | [open](../records/webassembly-saghul-wasi-lab-3d93b574.md) |
 | SECCON/SECCON2017_online_CTF | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-seccon-seccon2017-online-ctf-82207acc.md) |
@@ -5660,7 +5660,7 @@ Records: `5716`
 | beroca/sap-cap-products-service-java | partial | 2024-02-15T23:23:42Z | [open](../records/sapjava-beroca-sap-cap-products-service-java-811bea3d.md) |
 | boudhayan-dev/spring-hana-cloud-foundry | partial | 2019-07-22T13:58:28Z | [open](../records/sapjava-boudhayan-dev-spring-hana-cloud-foundry-d0e303cd.md) |
 | cap-java/cds-feature-console | partial | 2026-09-05T06:02:20Z | [open](../records/sapjava-cap-java-cds-feature-console-4f369a7c.md) |
-| cap-java/cds-feature-notifications | partial | 2026-08-31T15:35:05Z | [open](../records/sapjava-cap-java-cds-feature-notifications-3924ae76.md) |
+| cap-java/cds-feature-notifications | partial | 2026-09-07T15:35:34Z | [open](../records/sapjava-cap-java-cds-feature-notifications-3924ae76.md) |
 | com.sap.cds:cds-adapter-hcql | 3.10.1 | 2025-05-16T11:26:31+00:00 | [open](../records/sapjava-com-sap-cds-cds-adapter-hcql-52ecb8ff.md) |
 | com.sap.cds:cds-adapter-messaging | 1.17.0 | 2021-07-14T08:05:55+00:00 | [open](../records/sapjava-com-sap-cds-cds-adapter-messaging-2a5c1d9e.md) |
 | com.sap.cds:cds-adapter-odata-v2 | 3.10.1 | 2025-05-16T11:26:39+00:00 | [open](../records/sapjava-com-sap-cds-cds-adapter-odata-v2-87fe69ec.md) |

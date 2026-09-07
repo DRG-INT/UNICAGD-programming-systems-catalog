@@ -9,22 +9,22 @@ Records: `442`
 ## Category Index
 
 [Api Abi Checker (221)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (200)](benchmarking.md) · [Build System (993)](build-system.md) · [Cli (565)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (200)](benchmarking.md) · [Build System (993)](build-system.md) · [Cli (566)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (52)](compression.md)
 [Concurrency Parallelism (92)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (176)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (894)](database-datastore.md) · [Datetime (233)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (106)](documentation.md)
+[Cryptography (176)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (895)](database-datastore.md) · [Datetime (234)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (107)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1611)](filesystem-os.md) · [Formatter (648)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1463)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1440)](language-specification.md) · [Library (5716)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (794)](machine-learning.md)
+[Language Server (30)](language-server.md) · [Language Specification (1441)](language-specification.md) · [Library (5716)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (795)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1040)](networking-http.md)
 [Other (14)](other.md) · **[Package Manager (442)](package-manager.md)** · [Parser Lexer Ast (1194)](parser-lexer-ast.md) · [Precommit Ci Quality (309)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (621)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (622)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (607)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1618)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (558)](visualization-gui.md) · [Web Framework (477)](web-framework.md)
+[Undefined Behavior Analyzer (1618)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (559)](visualization-gui.md) · [Web Framework (477)](web-framework.md)
 
 ## C99
 
@@ -478,7 +478,7 @@ Records: `442`
 | DanielHaggstrom/Genomics | partial | 2026-04-06T15:34:32Z | [open](../records/repertoare-catalogs-danielhaggstrom-genomics-9d0627e3.md) |
 | giorkala/pgs_calculation_workflow | partial | 2026-03-19T19:37:13Z | [open](../records/repertoare-catalogs-giorkala-pgs-calculation-workflow-d8e45882.md) |
 | iamtechnoana/product-matching-system | partial | 2026-04-02T17:35:43Z | [open](../records/repertoare-catalogs-iamtechnoana-product-matching-system-3b78cbd2.md) |
-| nirholas/lyra-registry | partial | 2026-08-19T22:14:10Z | [open](../records/repertoare-catalogs-nirholas-lyra-registry-0fb2fc51.md) |
+| nirholas/lyra-registry | partial | 2026-09-07T06:19:12Z | [open](../records/repertoare-catalogs-nirholas-lyra-registry-0fb2fc51.md) |
 | PGScatalog/pgsc_calc | partial | 2026-06-03T11:48:46Z | [open](../records/repertoare-catalogs-pgscatalog-pgsc-calc-0cbf3293.md) |
 
 ## Catalogs
@@ -488,8 +488,8 @@ Records: `442`
 | 0x6d69636b/windows_hardening | partial | 2026-08-31T17:08:57Z | [open](../records/catalogs-0x6d69636b-windows-hardening-800b6709.md) |
 | 89luca89/lilipod | partial | 2026-02-13T14:56:47Z | [open](../records/catalogs-89luca89-lilipod-04b83b9a.md) |
 | Aetherinox/pause-windows-updates | partial | 2025-10-27T17:52:56Z | [open](../records/catalogs-aetherinox-pause-windows-updates-950b61a1.md) |
-| agentclientprotocol/registry | partial | 2026-09-07T01:55:22Z | [open](../records/catalogs-agentclientprotocol-registry-7431edbd.md) |
-| agentic-community/mcp-gateway-registry | partial | 2026-09-01T16:44:39Z | [open](../records/catalogs-agentic-community-mcp-gateway-registry-642bbde2.md) |
+| agentclientprotocol/registry | partial | 2026-09-07T21:54:41Z | [open](../records/catalogs-agentclientprotocol-registry-7431edbd.md) |
+| agentic-community/mcp-gateway-registry | partial | 2026-09-07T21:09:40Z | [open](../records/catalogs-agentic-community-mcp-gateway-registry-642bbde2.md) |
 | agentregistry-dev/agentregistry | partial | 2026-09-03T18:21:37Z | [open](../records/catalogs-agentregistry-dev-agentregistry-33204e4a.md) |
 | ancel1x/Ancels-Performance-Batch | partial | 2026-04-03T17:54:00Z | [open](../records/catalogs-ancel1x-ancels-performance-batch-c6cc4451.md) |
 | andrey-pohilko/registry-cli | partial | 2025-08-21T07:46:50Z | [open](../records/catalogs-andrey-pohilko-registry-cli-f5eec2cd.md) |
@@ -499,11 +499,11 @@ Records: `442`
 | carvel-dev/imgpkg | partial | 2026-09-03T12:29:51Z | [open](../records/catalogs-carvel-dev-imgpkg-3458fef2.md) |
 | cjee21/Check-UEFISecureBootVariables | partial | 2026-09-02T09:04:25Z | [open](../records/catalogs-cjee21-check-uefisecurebootvariables-8ec8a26c.md) |
 | cloudflare/serverless-registry | partial | 2026-08-17T16:59:41Z | [open](../records/catalogs-cloudflare-serverless-registry-7e15c0d4.md) |
-| cmintey/wishlist | partial | 2026-09-06T22:24:28Z | [open](../records/catalogs-cmintey-wishlist-8f5a4a92.md) |
-| cnpm/cnpmcore | partial | 2026-09-06T15:15:07Z | [open](../records/catalogs-cnpm-cnpmcore-7672c148.md) |
+| cmintey/wishlist | partial | 2026-09-07T21:17:15Z | [open](../records/catalogs-cmintey-wishlist-8f5a4a92.md) |
+| cnpm/cnpmcore | partial | 2026-09-07T20:34:31Z | [open](../records/catalogs-cnpm-cnpmcore-7672c148.md) |
 | cnpm/cnpmjs.org | partial | 2024-06-01T19:41:29Z | [open](../records/catalogs-cnpm-cnpmjs-org-47ae554f.md) |
 | containrrr/watchtower | partial | 2025-12-17T14:44:11Z | [open](../records/catalogs-containrrr-watchtower-abb7042e.md) |
-| cr0hn/dockerscan | partial | 2026-09-06T11:31:26Z | [open](../records/catalogs-cr0hn-dockerscan-25f3fe5a.md) |
+| cr0hn/dockerscan | partial | 2026-09-07T13:19:27Z | [open](../records/catalogs-cr0hn-dockerscan-25f3fe5a.md) |
 | Cr4sh/WindowsRegistryRootkit | partial | 2017-10-08T09:36:19Z | [open](../records/catalogs-cr4sh-windowsregistryrootkit-8797a043.md) |
 | craftship/codebox-npm | partial | 2019-04-14T04:02:40Z | [open](../records/catalogs-craftship-codebox-npm-2d2ff848.md) |
 | crazy-max/diun | partial | 2026-09-03T23:19:11Z | [open](../records/catalogs-crazy-max-diun-ead1ab16.md) |
@@ -511,20 +511,20 @@ Records: `442`
 | distribution/distribution | partial | 2026-09-02T08:15:56Z | [open](../records/catalogs-distribution-distribution-7b2980f6.md) |
 | docker/hub-tool | partial | 2026-03-16T18:08:27Z | [open](../records/catalogs-docker-hub-tool-aaeda6df.md) |
 | docker/login-action | partial | 2026-09-03T12:23:52Z | [open](../records/catalogs-docker-login-action-6e2ca553.md) |
-| dragonflyoss/dragonfly | partial | 2026-09-04T03:05:56Z | [open](../records/catalogs-dragonflyoss-dragonfly-6d367c61.md) |
+| dragonflyoss/dragonfly | partial | 2026-09-07T15:54:10Z | [open](../records/catalogs-dragonflyoss-dragonfly-6d367c61.md) |
 | dragonflyoss/dragonfly-archived | partial | 2023-02-27T11:07:29Z | [open](../records/catalogs-dragonflyoss-dragonfly-archived-f9b97716.md) |
 | dromara/disjob | partial | 2026-08-08T10:16:42Z | [open](../records/catalogs-dromara-disjob-0416b69e.md) |
-| eclipse-openvsx/openvsx | partial | 2026-09-06T20:44:24Z | [open](../records/catalogs-eclipse-openvsx-openvsx-af690d57.md) |
-| EclipseFdn/open-vsx.org | partial | 2026-09-03T16:08:35Z | [open](../records/catalogs-eclipsefdn-open-vsx-org-155087b7.md) |
+| eclipse-openvsx/openvsx | partial | 2026-09-07T21:15:08Z | [open](../records/catalogs-eclipse-openvsx-openvsx-af690d57.md) |
+| EclipseFdn/open-vsx.org | partial | 2026-09-07T20:33:53Z | [open](../records/catalogs-eclipsefdn-open-vsx-org-155087b7.md) |
 | elixir-horde/horde | partial | 2026-07-31T15:48:34Z | [open](../records/catalogs-elixir-horde-horde-18124598.md) |
 | eon01/DockerCheatSheet | partial | 2026-02-19T11:33:06Z | [open](../records/catalogs-eon01-dockercheatsheet-4be1df5d.md) |
 | Evalle/DCA | partial | 2026-04-26T19:17:39Z | [open](../records/catalogs-evalle-dca-424f4b2e.md) |
 | evilrabbit/lifeline | partial | 2026-07-31T16:42:28Z | [open](../records/catalogs-evilrabbit-lifeline-945bdfff.md) |
 | Fleex255/PolicyPlus | partial | 2025-12-27T20:44:47Z | [open](../records/catalogs-fleex255-policyplus-b34a9b34.md) |
-| Foulest/RepairKit | partial | 2026-08-28T06:53:47Z | [open](../records/catalogs-foulest-repairkit-96da04d2.md) |
+| Foulest/RepairKit | partial | 2026-09-07T18:54:36Z | [open](../records/catalogs-foulest-repairkit-96da04d2.md) |
 | GiovanniDicanio/WinReg | partial | 2026-08-21T18:01:01Z | [open](../records/catalogs-giovannidicanio-winreg-b855affc.md) |
 | git-pkgs/proxy | partial | 2026-09-04T15:34:02Z | [open](../records/catalogs-git-pkgs-proxy-d3c42acb.md) |
-| goharbor/harbor | partial | 2026-09-06T02:23:41Z | [open](../records/catalogs-goharbor-harbor-ec2d9450.md) |
+| goharbor/harbor | partial | 2026-09-07T21:44:26Z | [open](../records/catalogs-goharbor-harbor-ec2d9450.md) |
 | google/go-containerregistry | partial | 2026-09-04T00:17:00Z | [open](../records/catalogs-google-go-containerregistry-38c3c5cd.md) |
 | harrisonwang/wharf | partial | 2026-05-07T01:09:05Z | [open](../records/catalogs-harrisonwang-wharf-662407ae.md) |
 | hellzerg/optimizerNXT | partial | 2026-01-22T17:07:40Z | [open](../records/catalogs-hellzerg-optimizernxt-1c59a09c.md) |
@@ -553,34 +553,34 @@ Records: `442`
 | npm/registry | partial | 2024-06-02T19:19:54Z | [open](../records/catalogs-npm-registry-4330171b.md) |
 | Observal/Observal | partial | 2026-09-05T17:33:40Z | [open](../records/catalogs-observal-observal-b4833836.md) |
 | open-services/open-registry | partial | 2022-05-26T22:36:15Z | [open](../records/catalogs-open-services-open-registry-c7dd1e7f.md) |
-| openupm/openupm | partial | 2026-09-07T02:26:13Z | [open](../records/catalogs-openupm-openupm-b86041d5.md) |
+| openupm/openupm | partial | 2026-09-07T18:10:50Z | [open](../records/catalogs-openupm-openupm-b86041d5.md) |
 | oras-project/oras | partial | 2026-09-07T01:57:03Z | [open](../records/catalogs-oras-project-oras-63269fb9.md) |
-| oras-project/oras-go | partial | 2026-09-04T20:23:48Z | [open](../records/catalogs-oras-project-oras-go-5d7d0c28.md) |
+| oras-project/oras-go | partial | 2026-09-07T20:34:25Z | [open](../records/catalogs-oras-project-oras-go-5d7d0c28.md) |
 | outsideris/citizen | partial | 2024-10-12T20:14:31Z | [open](../records/catalogs-outsideris-citizen-8805d3c4.md) |
 | packistry/packistry | partial | 2026-08-12T19:19:09Z | [open](../records/catalogs-packistry-packistry-e15ec62a.md) |
 | psviderski/unregistry | partial | 2026-07-14T02:56:03Z | [open](../records/catalogs-psviderski-unregistry-3f86a01d.md) |
 | pypi/warehouse | partial | 2026-09-04T12:53:16Z | [open](../records/catalogs-pypi-warehouse-5a5ebfce.md) |
 | Railly/tinte | partial | 2026-08-08T01:10:38Z | [open](../records/catalogs-railly-tinte-4b7c9203.md) |
-| react-native-community/directory | partial | 2026-09-04T06:08:47Z | [open](../records/catalogs-react-native-community-directory-369a61a1.md) |
+| react-native-community/directory | partial | 2026-09-07T21:06:44Z | [open](../records/catalogs-react-native-community-directory-369a61a1.md) |
 | regclient/regclient | partial | 2026-09-02T14:58:43Z | [open](../records/catalogs-regclient-regclient-e0f0e503.md) |
 | replicatedhq/ttl.sh | partial | 2026-08-19T06:06:52Z | [open](../records/catalogs-replicatedhq-ttl-sh-9a1263b3.md) |
 | riferrei/srclient | partial | 2025-10-30T23:49:01Z | [open](../records/catalogs-riferrei-srclient-a30143ad.md) |
-| rtvkiz/minimal | partial | 2026-09-07T02:25:36Z | [open](../records/catalogs-rtvkiz-minimal-8b1ffe5f.md) |
+| rtvkiz/minimal | partial | 2026-09-07T22:18:16Z | [open](../records/catalogs-rtvkiz-minimal-8b1ffe5f.md) |
 | salasaurusrex/context_menu | partial | 2024-09-14T17:11:04Z | [open](../records/catalogs-salasaurusrex-context-menu-31bf20dd.md) |
 | SatyamVyas04/sensory-ui | partial | 2026-07-31T17:24:47Z | [open](../records/catalogs-satyamvyas04-sensory-ui-ee86cab1.md) |
 | scarf-sh/gateway | partial | 2026-06-13T16:09:48Z | [open](../records/catalogs-scarf-sh-gateway-74aad772.md) |
 | scipag/HardeningKitty | partial | 2026-07-21T05:09:20Z | [open](../records/catalogs-scipag-hardeningkitty-5261368c.md) |
-| semantic-release/npm | partial | 2026-09-07T00:31:09Z | [open](../records/catalogs-semantic-release-npm-aa5de2b3.md) |
+| semantic-release/npm | partial | 2026-09-07T11:26:07Z | [open](../records/catalogs-semantic-release-npm-aa5de2b3.md) |
 | senthilrch/kube-fledged | partial | 2026-07-17T10:52:16Z | [open](../records/catalogs-senthilrch-kube-fledged-c04c9aae.md) |
 | SiL3NC3/PortableRegistrator | partial | 2024-03-20T10:14:05Z | [open](../records/catalogs-sil3nc3-portableregistrator-bc6abed7.md) |
-| skilld-dev/skilld | partial | 2026-09-04T04:08:32Z | [open](../records/catalogs-skilld-dev-skilld-f86e137d.md) |
+| skilld-dev/skilld | partial | 2026-09-07T04:26:10Z | [open](../records/catalogs-skilld-dev-skilld-f86e137d.md) |
 | sky22333/hubproxy | partial | 2026-08-02T13:47:26Z | [open](../records/catalogs-sky22333-hubproxy-37c3d79d.md) |
-| spegel-org/spegel | partial | 2026-09-04T07:14:34Z | [open](../records/catalogs-spegel-org-spegel-05ead580.md) |
-| superdesigndev/treg | partial | 2026-09-07T03:06:10Z | [open](../records/catalogs-superdesigndev-treg-2bceb567.md) |
+| spegel-org/spegel | partial | 2026-09-07T11:55:17Z | [open](../records/catalogs-spegel-org-spegel-05ead580.md) |
+| superdesigndev/treg | partial | 2026-09-07T20:11:57Z | [open](../records/catalogs-superdesigndev-treg-2bceb567.md) |
 | tektoncd/catalog | partial | 2026-07-03T10:04:40Z | [open](../records/catalogs-tektoncd-catalog-3a3ca6b3.md) |
 | terralist/terralist | partial | 2026-09-05T09:04:50Z | [open](../records/catalogs-terralist-terralist-ed589b1f.md) |
 | Trow-Registry/trow | partial | 2026-09-01T07:08:25Z | [open](../records/catalogs-trow-registry-trow-1a7e3ee6.md) |
-| verdaccio/verdaccio | partial | 2026-09-06T20:15:30Z | [open](../records/catalogs-verdaccio-verdaccio-7a4506f2.md) |
+| verdaccio/verdaccio | partial | 2026-09-07T15:21:13Z | [open](../records/catalogs-verdaccio-verdaccio-7a4506f2.md) |
 | VikasSukhija/Downloads | partial | 2025-02-16T19:44:35Z | [open](../records/catalogs-vikassukhija-downloads-c1fb5d74.md) |
 | vltpkg/vsr | partial | 2026-08-25T19:35:52Z | [open](../records/catalogs-vltpkg-vsr-5a37f965.md) |
 | wasm-bindgen/wasm-pack | partial | 2026-08-12T18:56:24Z | [open](../records/catalogs-wasm-bindgen-wasm-pack-4dcc019c.md) |

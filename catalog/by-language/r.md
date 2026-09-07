@@ -1,6 +1,6 @@
 # R
 
-Records: `1746`
+Records: `1750`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `1746`
 ## Category Index
 
 [Api Abi Checker (221)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
-[Benchmarking (200)](../by-category/benchmarking.md) · [Build System (993)](../by-category/build-system.md) · [Cli (565)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (200)](../by-category/benchmarking.md) · [Build System (993)](../by-category/build-system.md) · [Cli (566)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (24)](../by-category/compiler-diagnostics.md) · [Compression (52)](../by-category/compression.md)
 [Concurrency Parallelism (92)](../by-category/concurrency-parallelism.md) · [Configuration (130)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (176)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (894)](../by-category/database-datastore.md) · [Datetime (233)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (102)](../by-category/dependency-manager.md) · [Documentation (106)](../by-category/documentation.md)
+[Cryptography (176)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (895)](../by-category/database-datastore.md) · [Datetime (234)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (102)](../by-category/dependency-manager.md) · [Documentation (107)](../by-category/documentation.md)
 [Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (457)](../by-category/ffi-bindings.md) · [Filesystem Os (1611)](../by-category/filesystem-os.md) · [Formatter (648)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (356)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1463)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (273)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (30)](../by-category/language-server.md) · [Language Specification (1440)](../by-category/language-specification.md) · [Library (5716)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (530)](../by-category/logging-observability.md) · [Machine Learning (794)](../by-category/machine-learning.md)
+[Language Server (30)](../by-category/language-server.md) · [Language Specification (1441)](../by-category/language-specification.md) · [Library (5716)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (530)](../by-category/logging-observability.md) · [Machine Learning (795)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1040)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1194)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (309)](../by-category/precommit-ci-quality.md)
 [Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
-[Security Sast (336)](../by-category/security-sast.md) · [Serialization (397)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (621)](../by-category/static-analyzer.md)
+[Security Sast (336)](../by-category/security-sast.md) · [Serialization (397)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (622)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (607)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1618)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (558)](../by-category/visualization-gui.md) · [Web Framework (477)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1618)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (559)](../by-category/visualization-gui.md) · [Web Framework (477)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -257,6 +257,7 @@ Records: `1746`
 | [roadDB](../records/r-roaddb-4a349658.md) | 0.2.0 | 2026-08-25 11:00:07 UTC | registry-derived |
 | [RODBC](../records/r-rodbc-797c6b51.md) | 1.3-26.2 | 2026-08-11 19:54:08 | registry-derived |
 | [RSQLite.toolkit](../records/r-rsqlite-toolkit-c2082ddc.md) | 0.1.5 | 2026-09-03 09:40:02 UTC | registry-derived |
+| [SHARK4R](../records/r-shark4r-7f570567.md) | 1.2.1 | 2026-09-07 20:40:02 UTC | registry-derived |
 
 ### Datetime
 
@@ -275,6 +276,7 @@ Records: `1746`
 | [mFilter](../records/r-mfilter-c4e756e7.md) | 0.1-8 | 2026-09-06 15:10:02 UTC | registry-derived |
 | [mixtime](../records/r-mixtime-a2ca6fa3.md) | 0.3.0 | 2026-08-24 05:30:02 UTC | registry-derived |
 | [modMStates](../records/r-modmstates-916b1f0c.md) | 0.0.1 | 2026-09-03 11:50:13 UTC | registry-derived |
+| [naive](../records/r-naive-5509a636.md) | 2.0.0 | 2026-09-07 20:50:02 UTC | registry-derived |
 | [reviser](../records/r-reviser-80bdb9d4.md) | 0.3.0 | 2026-09-02 08:30:02 UTC | registry-derived |
 | [rpanelauto](../records/r-rpanelauto-fde62c71.md) | 1.0.0 | 2026-08-05 07:10:02 UTC | registry-derived |
 | [safestats](../records/r-safestats-d5adc1d6.md) | 0.8.8 | 2026-09-05 23:00:02 UTC | registry-derived |
@@ -1780,6 +1782,7 @@ Records: `1746`
 | [RIFanalysis](../records/r-rifanalysis-8f1ffcb3.md) | 0.9.2 | 2026-08-20 08:12:11 UTC | registry-derived |
 | [rjd3xjars](../records/r-rjd3xjars-1b26591f.md) | 0.1.2 | 2026-08-20 22:50:02 UTC | registry-derived |
 | [RobustLPA](../records/r-robustlpa-67ed512d.md) | 1.0.0 | 2026-08-20 23:02:26 UTC | registry-derived |
+| [RSP](../records/r-rsp-cb96d1fe.md) | 1.0.0 | 2026-09-07 21:20:02 UTC | registry-derived |
 | [rtpcr](../records/r-rtpcr-9ae72338.md) | 2.1.9 | 2026-08-21 07:00:02 UTC | registry-derived |
 | [rwavelet](../records/r-rwavelet-92b10cd9.md) | 0.4.2 | 2026-08-28 17:10:02 UTC | registry-derived |
 | [scanr](../records/r-scanr-79510d20.md) | 0.1.1 | 2026-08-21 08:10:02 UTC | registry-derived |
@@ -1927,7 +1930,7 @@ Records: `1746`
 | [inferstat](../records/r-inferstat-8a10c87c.md) | 0.1.1 | 2026-08-04 09:40:14 UTC | registry-derived |
 | [IVDML](../records/r-ivdml-adb8ec84.md) | 1.0.2 | 2026-09-04 12:00:31 UTC | registry-derived |
 | [LugsailGR](../records/r-lugsailgr-72958e54.md) | 0.1.0 | 2026-08-05 07:40:09 UTC | registry-derived |
-| [omophub](../records/r-omophub-417d37f4.md) | 1.9.0 | 2026-08-19 18:20:02 UTC | registry-derived |
+| [omophub](../records/r-omophub-417d37f4.md) | 1.9.1 | 2026-09-07 21:50:02 UTC | registry-derived |
 | [policytree](../records/r-policytree-989effd3.md) | 1.2.5 | 2026-08-04 10:30:29 UTC | registry-derived |
 | [PubMatrixR](../records/r-pubmatrixr-7a077552.md) | 1.0.1 | 2026-08-21 05:46:09 UTC | registry-derived |
 | [PubMedWordcloud](../records/r-pubmedwordcloud-f9e464c1.md) | 0.3.7 | 2026-08-23 14:50:02 UTC | registry-derived |
@@ -2003,6 +2006,7 @@ Records: `1746`
 | [HistData](../records/r-histdata-acb2d974.md) | 1.1.0 | 2026-08-30 05:10:56 UTC | registry-derived |
 | [huito](../records/r-huito-a585f96e.md) | 0.2.7 | 2026-08-21 05:42:43 UTC | registry-derived |
 | [ICEHmeasures](../records/r-icehmeasures-aac423b9.md) | 2.1.0 | 2026-08-21 20:40:09 UTC | registry-derived |
+| [isoexplorer](../records/r-isoexplorer-25897391.md) | 0.5.0 | 2026-09-07 20:30:02 UTC | registry-derived |
 | [IsoplotRgui](../records/r-isoplotrgui-958053ef.md) | 7.0 | 2026-08-21 21:50:38 UTC | registry-derived |
 | [jellyfisher](../records/r-jellyfisher-1a627722.md) | 1.1.2 | 2026-08-21 08:50:02 UTC | registry-derived |
 | [locuszoomr](../records/r-locuszoomr-e66f66fb.md) | 1.0.0 | 2026-09-03 06:50:03 UTC | registry-derived |
