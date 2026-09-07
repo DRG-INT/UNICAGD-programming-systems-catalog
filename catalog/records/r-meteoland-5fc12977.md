@@ -40,7 +40,7 @@ auditability, tracing, and incident response.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0; GNU Lesser General Public License v2.1; https://api.github.com/licenses/lgpl-2.1 |
+| Evidence | GPL (>= 2) |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

@@ -40,7 +40,7 @@ state persistence, migrations, performance, and operational recovery.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT No Attribution; https://api.github.com/licenses/mit-0 |
+| Evidence | MIT |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
