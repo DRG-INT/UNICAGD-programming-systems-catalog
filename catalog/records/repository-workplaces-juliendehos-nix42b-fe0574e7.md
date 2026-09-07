@@ -57,7 +57,7 @@ dependency acquisition, lockfile policy, provenance control, and supply-chain mo
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitlab_projects_api | forge-api-derived | 2026-09-06 | `{"kind": "gitlab_projects_api", "query": "package manager", "retrieved": "2026-09-06", "status": "forge-api-derived"}` |
+| gitlab_projects_api | forge-api-derived | 2026-09-07 | `{"kind": "gitlab_projects_api", "query": "package manager", "retrieved": "2026-09-07", "status": "forge-api-derived"}` |
 
 </details>
 

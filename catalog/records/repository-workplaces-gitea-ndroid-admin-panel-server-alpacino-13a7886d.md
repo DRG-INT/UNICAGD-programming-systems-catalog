@@ -33,16 +33,16 @@ deployment surface.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2024-07-27T11:32:16Z | [https://gitea.com/api/v1/repos/search?q=ci&limit=50](https://gitea.com/api/v1/repos/search?q=ci&limit=50) | gitea_search_api_reports_activity_not_release_version |
+| stable | partial |  | 2024-07-27T11:32:16Z | [https://gitea.com/api/v1/repos/search?q=server&limit=50](https://gitea.com/api/v1/repos/search?q=server&limit=50) | gitea_search_api_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gitea_search_api_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -58,7 +58,7 @@ deployment surface.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-06 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "ci", "retrieved": "2026-09-06", "status": "forge-api-derived"}` |
+| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-07 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "server", "retrieved": "2026-09-07", "status": "forge-api-derived"}` |
 
 </details>
 

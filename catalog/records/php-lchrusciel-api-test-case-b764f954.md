@@ -39,9 +39,9 @@ unit/integration validation, regression protection, and release confidence.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | unknown |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Mixed license review |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ unit/integration validation, regression protection, and release confidence.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| packagist_search_and_p2_api | registry-derived | 2026-09-06 | `{"kind": "packagist_search_and_p2_api", "query": "json", "retrieved": "2026-09-06", "status": "registry-derived"}` |
+| packagist_search_and_p2_api | registry-derived | 2026-09-07 | `{"kind": "packagist_search_and_p2_api", "query": "json", "retrieved": "2026-09-07", "status": "registry-derived"}` |
 
 </details>
 

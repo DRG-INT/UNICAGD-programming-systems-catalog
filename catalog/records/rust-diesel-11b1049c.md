@@ -40,7 +40,7 @@ artifact reproducibility, cross-platform build policy, and CI integration.
 | Field | Value |
 | --- | --- |
 | Detected family | Mixed license review |
-| Evidence | BSD 2-Clause "Simplified" License; https://api.github.com/licenses/bsd-2-clause |
+| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0; GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0 |
 | Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes

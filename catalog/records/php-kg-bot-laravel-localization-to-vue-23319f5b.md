@@ -40,9 +40,9 @@ build graph control, artifact reproducibility, cross-platform build policy, and 
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -58,7 +58,7 @@ build graph control, artifact reproducibility, cross-platform build policy, and 
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| packagist_search_and_p2_api | registry-derived | 2026-09-06 | `{"kind": "packagist_search_and_p2_api", "query": "json", "retrieved": "2026-09-06", "status": "registry-derived"}` |
+| packagist_search_and_p2_api | registry-derived | 2026-09-07 | `{"kind": "packagist_search_and_p2_api", "query": "json", "retrieved": "2026-09-07", "status": "registry-derived"}` |
 
 </details>
 

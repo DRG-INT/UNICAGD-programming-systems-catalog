@@ -39,9 +39,9 @@ artifact reproducibility, cross-platform build policy, and CI integration.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Other permissive |
-| Evidence | ISC License; https://api.github.com/licenses/isc |
-| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
+| Detected family | Apache-2.0 |
+| Evidence | Apache-2.0; https://www.nuget.org/packages/Cake.Json/11.0.0/license |
+| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes
 

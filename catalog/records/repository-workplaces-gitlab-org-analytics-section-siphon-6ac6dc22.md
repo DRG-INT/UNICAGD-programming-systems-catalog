@@ -33,7 +33,7 @@ inventory as part of state persistence, migrations, performance, and operational
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-04T09:59:22.214Z | [https://gitlab.com/api/v4/projects?search=database&order_by=star_count&sort=desc&simple=true&per_page=100](https://gitlab.com/api/v4/projects?search=database&order_by=star_count&sort=desc&simple=true&per_page=100) | gitlab_projects_api_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-07T04:31:19.189Z | [https://gitlab.com/api/v4/projects?search=database&order_by=star_count&sort=desc&simple=true&per_page=100](https://gitlab.com/api/v4/projects?search=database&order_by=star_count&sort=desc&simple=true&per_page=100) | gitlab_projects_api_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gitlab_projects_api_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -58,7 +58,7 @@ inventory as part of state persistence, migrations, performance, and operational
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitlab_projects_api | forge-api-derived | 2026-09-06 | `{"kind": "gitlab_projects_api", "query": "database", "retrieved": "2026-09-06", "status": "forge-api-derived"}` |
+| gitlab_projects_api | forge-api-derived | 2026-09-07 | `{"kind": "gitlab_projects_api", "query": "database", "retrieved": "2026-09-07", "status": "forge-api-derived"}` |
 
 </details>
 

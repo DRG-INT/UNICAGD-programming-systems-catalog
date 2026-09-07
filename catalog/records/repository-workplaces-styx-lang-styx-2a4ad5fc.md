@@ -33,7 +33,7 @@ reproducibility.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-06T02:28:39.072Z | [https://gitlab.com/api/v4/projects?search=compiler&order_by=star_count&sort=desc&simple=true&per_page=100](https://gitlab.com/api/v4/projects?search=compiler&order_by=star_count&sort=desc&simple=true&per_page=100) | gitlab_projects_api_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-06T20:35:55.417Z | [https://gitlab.com/api/v4/projects?search=compiler&order_by=star_count&sort=desc&simple=true&per_page=100](https://gitlab.com/api/v4/projects?search=compiler&order_by=star_count&sort=desc&simple=true&per_page=100) | gitlab_projects_api_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gitlab_projects_api_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -58,7 +58,7 @@ reproducibility.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitlab_projects_api | forge-api-derived | 2026-09-06 | `{"kind": "gitlab_projects_api", "query": "compiler", "retrieved": "2026-09-06", "status": "forge-api-derived"}` |
+| gitlab_projects_api | forge-api-derived | 2026-09-07 | `{"kind": "gitlab_projects_api", "query": "compiler", "retrieved": "2026-09-07", "status": "forge-api-derived"}` |
 
 </details>
 

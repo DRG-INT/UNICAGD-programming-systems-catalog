@@ -40,7 +40,7 @@ model pipelines, numerical runtime constraints, and data/deployment interfaces.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0 |
+| Evidence | Creative Commons Attribution 4.0 International; https://api.github.com/licenses/cc-by-4.0; GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

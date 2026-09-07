@@ -40,7 +40,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 | Field | Value |
 | --- | --- |
 | Detected family | Mixed license review |
-| Evidence | {"key": "", "name": "", "url": ""}; BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause; BSD 2-Clause "Simplified" License; https://api.github.com/licenses/bsd-2-clause |
+| Evidence | MIT License; https://api.github.com/licenses/mit; BSD 2-Clause "Simplified" License; https://api.github.com/licenses/bsd-2-clause |
 | Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes

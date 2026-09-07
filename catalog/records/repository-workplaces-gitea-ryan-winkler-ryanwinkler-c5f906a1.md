@@ -41,9 +41,9 @@ operational fit assessment.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | Other |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Apache-2.0 |
+| Evidence | {"key": "", "name": "", "url": ""}; Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
+| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes
 
@@ -59,7 +59,7 @@ operational fit assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-02 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "documentation", "retrieved": "2026-09-02", "status": "forge-api-derived"}` |
+| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-07 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "documentation", "retrieved": "2026-09-07", "status": "forge-api-derived"}` |
 
 </details>
 

@@ -40,9 +40,9 @@ low-noise code review, style consistency, and automation-friendly editing.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | unknown |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | MIT |
+| Evidence | MIT + file LICENSE |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 
@@ -58,7 +58,7 @@ low-noise code review, style consistency, and automation-friendly editing.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| packagist_search_and_p2_api | registry-derived | 2026-09-06 | `{"kind": "packagist_search_and_p2_api", "query": "mysql", "retrieved": "2026-09-06", "status": "registry-derived"}` |
+| packagist_search_and_p2_api | registry-derived | 2026-09-07 | `{"kind": "packagist_search_and_p2_api", "query": "mysql", "retrieved": "2026-09-07", "status": "registry-derived"}` |
 
 </details>
 

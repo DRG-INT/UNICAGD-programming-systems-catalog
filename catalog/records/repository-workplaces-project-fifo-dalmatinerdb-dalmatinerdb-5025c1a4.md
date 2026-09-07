@@ -40,7 +40,7 @@ inventory as part of language tooling, code generation, static analysis, and sou
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | {"key": "", "name": "", "url": ""} |
+| Evidence | unknown |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
@@ -57,7 +57,7 @@ inventory as part of language tooling, code generation, static analysis, and sou
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitlab_projects_api | forge-api-derived | 2026-09-06 | `{"kind": "gitlab_projects_api", "query": "database", "retrieved": "2026-09-06", "status": "forge-api-derived"}` |
+| gitlab_projects_api | forge-api-derived | 2026-09-07 | `{"kind": "gitlab_projects_api", "query": "database", "retrieved": "2026-09-07", "status": "forge-api-derived"}` |
 
 </details>
 

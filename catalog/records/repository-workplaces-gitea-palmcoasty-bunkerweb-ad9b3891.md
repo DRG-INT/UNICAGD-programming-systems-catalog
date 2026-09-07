@@ -41,9 +41,9 @@ assessment.
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause; MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -59,7 +59,7 @@ assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-06 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "devops", "retrieved": "2026-09-06", "status": "forge-api-derived"}` |
+| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-07 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "devops", "retrieved": "2026-09-07", "status": "forge-api-derived"}` |
 
 </details>
 

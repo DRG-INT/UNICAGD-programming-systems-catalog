@@ -58,7 +58,7 @@ tooling, code generation, static analysis, and source transformation.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| packagist_search_and_p2_api | registry-derived | 2026-09-06 | `{"kind": "packagist_search_and_p2_api", "query": "json", "retrieved": "2026-09-06", "status": "registry-derived"}` |
+| packagist_search_and_p2_api | registry-derived | 2026-09-07 | `{"kind": "packagist_search_and_p2_api", "query": "json", "retrieved": "2026-09-07", "status": "registry-derived"}` |
 
 </details>
 

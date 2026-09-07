@@ -316,13 +316,13 @@ Records: `176`
 | Gitea: matoka/etaCompiler | partial | 2026-06-25T03:01:55Z | [open](../records/repository-workplaces-gitea-matoka-etacompiler-7a21e0c6.md) |
 | Gitea: pablaofficeal/PGT-compilers | partial | 2026-05-11T17:54:54Z | [open](../records/repository-workplaces-gitea-pablaofficeal-pgt-compilers-8084127d.md) |
 | Gitea: Poera/arm-none-eabi-gcc-action | partial | 2024-11-07T04:11:07Z | [open](../records/repository-workplaces-gitea-poera-arm-none-eabi-gcc-action-a30d50ca.md) |
-| Gitea: shastriii/compiler-lab | partial | 2026-08-31T04:44:02Z | [open](../records/repository-workplaces-gitea-shastriii-compiler-lab-f0e50492.md) |
+| Gitea: shastriii/compiler-lab | partial | 2026-09-07T04:07:11Z | [open](../records/repository-workplaces-gitea-shastriii-compiler-lab-f0e50492.md) |
 | Gitea: vercel/next.js | partial | 2026-02-18T13:46:43Z | [open](../records/repository-workplaces-gitea-vercel-next-js-d9788e8f.md) |
 | Gitea: victor-infosec/Hikari-LLVM15 | partial | 2023-06-25T03:01:20Z | [open](../records/repository-workplaces-gitea-victor-infosec-hikari-llvm15-2319fd6c.md) |
 | Gitea: yueyue5201314/jadx | partial | 2024-01-29T18:14:09Z | [open](../records/repository-workplaces-gitea-yueyue5201314-jadx-4298d1a3.md) |
 | lock3/clang | partial | 2020-07-10T21:06:33.530Z | [open](../records/repository-workplaces-lock3-clang-c4e5749d.md) |
 | piyush-kurur/compilers | partial | 2026-04-06T08:37:15.222Z | [open](../records/repository-workplaces-piyush-kurur-compilers-f7578472.md) |
 | Rich-Harris/buble | partial | 2023-03-27T15:48:56.639Z | [open](../records/repository-workplaces-rich-harris-buble-a19a38f7.md) |
-| styx-lang/styx | partial | 2026-09-06T02:28:39.072Z | [open](../records/repository-workplaces-styx-lang-styx-2a4ad5fc.md) |
+| styx-lang/styx | partial | 2026-09-06T20:35:55.417Z | [open](../records/repository-workplaces-styx-lang-styx-2a4ad5fc.md) |
 | weinholt/loko | partial | 2026-07-17T07:40:51.089Z | [open](../records/repository-workplaces-weinholt-loko-35847122.md) |
 | znixian/luajit-decompiler | partial | 2022-12-25T19:35:29.899Z | [open](../records/repository-workplaces-znixian-luajit-decompiler-0609facc.md) |
