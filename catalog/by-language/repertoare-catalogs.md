@@ -8,7 +8,7 @@ Records: `189`
 
 ## Category Index
 
-[Api Abi Checker (220)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
+[Api Abi Checker (221)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
 [Benchmarking (200)](../by-category/benchmarking.md) · [Build System (992)](../by-category/build-system.md) · [Cli (563)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (24)](../by-category/compiler-diagnostics.md) · [Compression (51)](../by-category/compression.md)
 [Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (130)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
@@ -20,7 +20,7 @@ Records: `189`
 [Language Server (29)](../by-category/language-server.md) · [Language Specification (1437)](../by-category/language-specification.md) · [Library (5691)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (528)](../by-category/logging-observability.md) · [Machine Learning (793)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1037)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1189)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (307)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1190)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (308)](../by-category/precommit-ci-quality.md)
 [Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (336)](../by-category/security-sast.md) · [Serialization (397)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (613)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (607)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)
@@ -160,7 +160,7 @@ Records: `189`
 | --- | --- | --- | --- |
 | [abhiramAjay/Self-Healing-Repertoire-Engine](../records/repertoare-catalogs-abhiramajay-self-healing-repertoire-engine-afff2269.md) | partial | 2026-02-05T07:43:18Z | registry-derived |
 | [gastroph/Rock-Band-DLC---Leaderboards-App-for-Android](../records/repertoare-catalogs-gastroph-rock-band-dlc-leaderboards-app-for-android-35abaa1b.md) | partial | 2010-04-16T20:13:37Z | registry-derived |
-| [heylabs-co/dev-tools-portal](../records/repertoare-catalogs-heylabs-co-dev-tools-portal-7c271bc4.md) | partial | 2026-09-06T20:23:30Z | registry-derived |
+| [heylabs-co/dev-tools-portal](../records/repertoare-catalogs-heylabs-co-dev-tools-portal-7c271bc4.md) | partial | 2026-09-07T02:06:21Z | registry-derived |
 | [jasondentler/wild-catalog](../records/repertoare-catalogs-jasondentler-wild-catalog-f314f00b.md) | partial | 2026-07-05T03:54:55Z | registry-derived |
 | [pesnik/flask-repertoire](../records/repertoare-catalogs-pesnik-flask-repertoire-569c53ed.md) | partial | 2025-03-13T21:08:48Z | registry-derived |
 | [pesnik/gin-repertoire](../records/repertoare-catalogs-pesnik-gin-repertoire-59474943.md) | partial | 2025-03-13T23:17:07Z | registry-derived |
@@ -221,7 +221,7 @@ Records: `189`
 | [adityacodes30/catalog-scoring-ondc](../records/repertoare-catalogs-adityacodes30-catalog-scoring-ondc-eed2618c.md) | partial | 2024-06-23T17:33:29Z | registry-derived |
 | [AdityaLad2004/Catalog-Score](../records/repertoare-catalogs-adityalad2004-catalog-score-1c228719.md) | partial | 2024-02-10T18:28:30Z | registry-derived |
 | [alphaparkinc/genpark-catalog-enrichment-skill](../records/repertoare-catalogs-alphaparkinc-genpark-catalog-enrichment-skill-9442da58.md) | partial | 2026-07-10T05:51:52Z | registry-derived |
-| [Arnon-hs/open-source](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) | partial | 2026-09-07T00:15:14Z | registry-derived |
+| [Arnon-hs/open-source](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) | partial | 2026-09-07T02:56:15Z | registry-derived |
 | [CHagarty/scorecard-catalogue](../records/repertoare-catalogs-chagarty-scorecard-catalogue-ac87b7bd.md) | partial | 2025-07-11T00:33:16Z | registry-derived |
 | [Chistera-Scoring/services-catalog](../records/repertoare-catalogs-chistera-scoring-services-catalog-59fbb312.md) | partial | 2023-11-27T10:50:20Z | registry-derived |
 | [Eswaraiahsapram/scorecard-catalog](../records/repertoare-catalogs-eswaraiahsapram-scorecard-catalog-92541430.md) | partial | 2025-09-02T05:54:30Z | registry-derived |
@@ -292,7 +292,7 @@ Records: `189`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [forbiddenlink/trace](../records/repertoare-catalogs-forbiddenlink-trace-81d4917b.md) | partial | 2026-09-06T12:16:48Z | registry-derived |
+| [forbiddenlink/trace](../records/repertoare-catalogs-forbiddenlink-trace-81d4917b.md) | partial | 2026-09-07T00:41:20Z | registry-derived |
 
 ### Project Scaffolding
 

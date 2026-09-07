@@ -33,7 +33,7 @@ assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 5.20.0 | 2025-06-20T16:21:42+00:00 | [https://search.maven.org/solrsearch/select?q=g%3A%22com.sap.cloud.sdk%22&rows=100&wt=json](https://search.maven.org/solrsearch/select?q=g%3A%22com.sap.cloud.sdk%22&rows=100&wt=json) |  |
+| stable | known | 5.20.0 | 2025-06-20T16:21:42+00:00 | [https://search.maven.org/solrsearch/select?q=sap%20cloud%20sdk&rows=100&wt=json](https://search.maven.org/solrsearch/select?q=sap%20cloud%20sdk&rows=100&wt=json) |  |
 | preview/nightly | unknown |  |  | unknown | maven_central_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -48,7 +48,7 @@ assessment.
 
 - Treat category as `library` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://search.maven.org/solrsearch/select?q=g%3A%22com.sap.cloud.sdk%22&rows=100&wt=json` at `2026-09-06T23:17:27+00:00`.
+- Latest stable metadata was observed from `https://search.maven.org/solrsearch/select?q=sap%20cloud%20sdk&rows=100&wt=json` at `2026-09-07T03:22:15+00:00`.
 - Preview/nightly metadata is unknown because `maven_central_search_has_no_standard_nightly_channel`.
 
 ## Provenance
@@ -58,7 +58,7 @@ assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| maven_central_search | registry-derived | 2026-09-07 | `{"kind": "maven_central_search", "query": "g:\"com.sap.cloud.sdk\"", "retrieved": "2026-09-07", "status": "registry-derived"}` |
+| maven_central_search | registry-derived | 2026-09-07 | `{"kind": "maven_central_search", "query": "sap cloud sdk", "retrieved": "2026-09-07", "status": "registry-derived"}` |
 
 </details>
 
@@ -88,7 +88,7 @@ Evidence records merged into this identity: `1`.
 
 ## Category Index
 
-[Api Abi Checker (220)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
+[Api Abi Checker (221)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
 [Benchmarking (200)](../by-category/benchmarking.md) · [Build System (992)](../by-category/build-system.md) · [Cli (563)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (24)](../by-category/compiler-diagnostics.md) · [Compression (51)](../by-category/compression.md)
 [Concurrency Parallelism (89)](../by-category/concurrency-parallelism.md) · [Configuration (130)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
@@ -100,7 +100,7 @@ Evidence records merged into this identity: `1`.
 [Language Server (29)](../by-category/language-server.md) · [Language Specification (1437)](../by-category/language-specification.md) · **[Library (5691)](../by-category/library.md)** · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (528)](../by-category/logging-observability.md) · [Machine Learning (793)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1037)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1189)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (307)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1190)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (308)](../by-category/precommit-ci-quality.md)
 [Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (336)](../by-category/security-sast.md) · [Serialization (397)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (613)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (607)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)

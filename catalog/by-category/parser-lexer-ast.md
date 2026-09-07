@@ -1,6 +1,6 @@
 # Parser Lexer Ast
 
-Records: `1189`
+Records: `1190`
 
 ## Navigation
 
@@ -8,7 +8,7 @@ Records: `1189`
 
 ## Category Index
 
-[Api Abi Checker (220)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Api Abi Checker (221)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
 [Benchmarking (200)](benchmarking.md) · [Build System (992)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
@@ -20,7 +20,7 @@ Records: `1189`
 [Language Server (29)](language-server.md) · [Language Specification (1437)](language-specification.md) · [Library (5691)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (528)](logging-observability.md) · [Machine Learning (793)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1037)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · **[Parser Lexer Ast (1189)](parser-lexer-ast.md)** · [Precommit Ci Quality (307)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · **[Parser Lexer Ast (1190)](parser-lexer-ast.md)** · [Precommit Ci Quality (308)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (613)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (607)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
@@ -490,6 +490,7 @@ Records: `1189`
 | mlr3forecast | 0.2.0 | 2026-08-24 10:10:08 UTC | [open](../records/r-mlr3forecast-518a6d55.md) |
 | modelbased | 0.17.0 | 2026-08-28 11:00:02 UTC | [open](../records/r-modelbased-b0f2246b.md) |
 | nat.nblast | 1.6.10 | 2026-08-25 06:30:02 UTC | [open](../records/r-nat-nblast-46ad6118.md) |
+| neuralnetwork | 0.1.0 | 2026-06-20 14:10:08 UTC | [open](../records/r-neuralnetwork-f10a4fe0.md) |
 | NPLStoolbox | 1.1.1 | 2026-08-21 06:30:09 UTC | [open](../records/r-nplstoolbox-cbcaf59a.md) |
 | nuggets | 2.2.3 | 2026-08-20 13:10:03 UTC | [open](../records/r-nuggets-916932e6.md) |
 | orbweaver | 0.18.3 | 2026-09-02 23:30:02 UTC | [open](../records/r-orbweaver-0f2a3778.md) |
@@ -644,9 +645,9 @@ Records: `1189`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AstrBotDevs/AstrBot | partial | 2026-09-07T02:04:04Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
+| AstrBotDevs/AstrBot | partial | 2026-09-07T02:25:13Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
 | HKUDS/LightRAG | partial | 2026-09-07T02:00:18Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
-| labring/FastGPT | partial | 2026-09-07T01:48:41Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
+| labring/FastGPT | partial | 2026-09-07T02:54:42Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Computer Graphics Software
 
@@ -1269,8 +1270,8 @@ Records: `1189`
 | bastibl/gr-ieee802-15-4 | partial | 2023-07-28T12:51:17Z | [open](../records/electromagnetoscopes-bastibl-gr-ieee802-15-4-c85d5cfe.md) |
 | flexcompute/tidy3d | partial | 2026-08-07T07:32:11Z | [open](../records/electromagnetoscopes-flexcompute-tidy3d-516cdf02.md) |
 | Gjacquenot/Puma-EM | partial | 2020-09-12T13:09:29Z | [open](../records/electromagnetoscopes-gjacquenot-puma-em-3a6a3761.md) |
-| libretime/libretime | partial | 2026-09-06T00:45:13Z | [open](../records/electromagnetoscopes-libretime-libretime-c0c8255f.md) |
-| meshtastic/Meshtastic-Android | partial | 2026-09-06T20:13:01Z | [open](../records/electromagnetoscopes-meshtastic-meshtastic-android-24c81b27.md) |
+| libretime/libretime | partial | 2026-09-07T00:51:29Z | [open](../records/electromagnetoscopes-libretime-libretime-c0c8255f.md) |
+| meshtastic/Meshtastic-Android | partial | 2026-09-07T01:26:28Z | [open](../records/electromagnetoscopes-meshtastic-meshtastic-android-24c81b27.md) |
 | ocastilloreyes/petgem | partial | 2026-07-30T08:00:28Z | [open](../records/electromagnetoscopes-ocastilloreyes-petgem-68add85c.md) |
 | pagermon/pagermon | partial | 2026-08-04T22:51:57Z | [open](../records/electromagnetoscopes-pagermon-pagermon-283e38a1.md) |
 | psyb0t/piraterf | partial | 2026-08-01T19:49:42Z | [open](../records/electromagnetoscopes-psyb0t-piraterf-c88452c0.md) |

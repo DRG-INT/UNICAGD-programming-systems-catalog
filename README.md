@@ -1,6 +1,6 @@
 # UNICAGD Programming Systems Discovery Catalog
 
-Generated: `2026-09-07T02:24:11+00:00`
+Generated: `2026-09-07T03:24:38+00:00`
 
 This repository is a Markdown explorer for a systems-engineering programming corpus. It preserves the master JSON seed, expands it with registry-derived ecosystem records, and tracks release metadata without guessing unknown dates.
 
@@ -14,7 +14,7 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 
 ## Category Index
 
-[Api Abi Checker (220)](catalog/by-category/api-abi-checker.md) · [Api Doc Generator (12)](catalog/by-category/api-doc-generator.md) · [Assertion Mocking (46)](catalog/by-category/assertion-mocking.md) · [Async Runtime (136)](catalog/by-category/async-runtime.md)
+[Api Abi Checker (221)](catalog/by-category/api-abi-checker.md) · [Api Doc Generator (12)](catalog/by-category/api-doc-generator.md) · [Assertion Mocking (46)](catalog/by-category/assertion-mocking.md) · [Async Runtime (136)](catalog/by-category/async-runtime.md)
 [Benchmarking (200)](catalog/by-category/benchmarking.md) · [Build System (992)](catalog/by-category/build-system.md) · [Cli (563)](catalog/by-category/cli.md) · [Codegen Codemod Refactoring (23)](catalog/by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](catalog/by-category/community-reference.md) · [Compiler (176)](catalog/by-category/compiler.md) · [Compiler Diagnostics (24)](catalog/by-category/compiler-diagnostics.md) · [Compression (51)](catalog/by-category/compression.md)
 [Concurrency Parallelism (89)](catalog/by-category/concurrency-parallelism.md) · [Configuration (130)](catalog/by-category/configuration.md) · [Container Deployment (10)](catalog/by-category/container-deployment.md) · [Coverage (14)](catalog/by-category/coverage.md)
@@ -26,7 +26,7 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 [Language Server (29)](catalog/by-category/language-server.md) · [Language Specification (1437)](catalog/by-category/language-specification.md) · [Library (5691)](catalog/by-category/library.md) · [Lint Plugin (1)](catalog/by-category/lint-plugin.md)
 [Lint Rule Pack (48)](catalog/by-category/lint-rule-pack.md) · [Linter (348)](catalog/by-category/linter.md) · [Logging Observability (528)](catalog/by-category/logging-observability.md) · [Machine Learning (793)](catalog/by-category/machine-learning.md)
 [Math Numeric Scientific (88)](catalog/by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](catalog/by-category/memory-analyzer.md) · [Message Broker (40)](catalog/by-category/message-broker.md) · [Networking Http (1037)](catalog/by-category/networking-http.md)
-[Other (14)](catalog/by-category/other.md) · [Package Manager (442)](catalog/by-category/package-manager.md) · [Parser Lexer Ast (1189)](catalog/by-category/parser-lexer-ast.md) · [Precommit Ci Quality (307)](catalog/by-category/precommit-ci-quality.md)
+[Other (14)](catalog/by-category/other.md) · [Package Manager (442)](catalog/by-category/package-manager.md) · [Parser Lexer Ast (1190)](catalog/by-category/parser-lexer-ast.md) · [Precommit Ci Quality (308)](catalog/by-category/precommit-ci-quality.md)
 [Profiler (87)](catalog/by-category/profiler.md) · [Project Scaffolding (133)](catalog/by-category/project-scaffolding.md) · [Registry Repository (133)](catalog/by-category/registry-repository.md) · [Sanitizer (16)](catalog/by-category/sanitizer.md)
 [Security Sast (336)](catalog/by-category/security-sast.md) · [Serialization (397)](catalog/by-category/serialization.md) · [Standard Library (25)](catalog/by-category/standard-library.md) · [Static Analyzer (613)](catalog/by-category/static-analyzer.md)
 [Templating (2)](catalog/by-category/templating.md) · [Testing Framework (607)](catalog/by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](catalog/by-category/tutorial-book-styleguide.md) · [Type Checker (313)](catalog/by-category/type-checker.md)
@@ -37,12 +37,12 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 | Metric | Count |
 | --- | ---: |
 | Source records | 968 |
-| Canonical identity pages | 27518 |
+| Canonical identity pages | 27521 |
 | Expansion records added | 8605 |
 | Release checks attempted | 1200 |
-| Known stable release fields | 10194 |
+| Known stable release fields | 10197 |
 | Unknown stable release fields | 17324 |
-| Fetch errors recorded | 1001 |
+| Fetch errors recorded | 1010 |
 | Target identity count | 24000 |
 
 ## Language Scope

@@ -1,12 +1,12 @@
 # Catalog Index
 
-Generated: `2026-09-07T02:24:11+00:00`
+Generated: `2026-09-07T03:24:38+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
 ## Category Index
 
-[Api Abi Checker (220)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (136)](by-category/async-runtime.md)
+[Api Abi Checker (221)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (136)](by-category/async-runtime.md)
 [Benchmarking (200)](by-category/benchmarking.md) · [Build System (992)](by-category/build-system.md) · [Cli (563)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (24)](by-category/compiler-diagnostics.md) · [Compression (51)](by-category/compression.md)
 [Concurrency Parallelism (89)](by-category/concurrency-parallelism.md) · [Configuration (130)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
@@ -18,7 +18,7 @@ Generated: `2026-09-07T02:24:11+00:00`
 [Language Server (29)](by-category/language-server.md) · [Language Specification (1437)](by-category/language-specification.md) · [Library (5691)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (528)](by-category/logging-observability.md) · [Machine Learning (793)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1037)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1189)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (307)](by-category/precommit-ci-quality.md)
+[Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1190)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (308)](by-category/precommit-ci-quality.md)
 [Profiler (87)](by-category/profiler.md) · [Project Scaffolding (133)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (336)](by-category/security-sast.md) · [Serialization (397)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (613)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (607)](by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](by-category/tutorial-book-styleguide.md) · [Type Checker (313)](by-category/type-checker.md)
@@ -37,7 +37,7 @@ Generated: `2026-09-07T02:24:11+00:00`
 | Node.js/JavaScript | 2408 | 2331 | [Node.js/JavaScript](by-language/node-js-javascript.md) |
 | Node.js/TypeScript | 388 | 348 | [Node.js/TypeScript](by-language/node-js-typescript.md) |
 | Lua family | 1937 | 0 | [Lua family](by-language/lua-family.md) |
-| R | 1700 | 1700 | [R](by-language/r.md) |
+| R | 1703 | 1703 | [R](by-language/r.md) |
 | Haskell | 1476 | 1464 | [Haskell](by-language/haskell.md) |
 | Matlab | 287 | 0 | [Matlab](by-language/matlab.md) |
 | Octave | 141 | 140 | [Octave](by-language/octave.md) |
@@ -92,7 +92,7 @@ Generated: `2026-09-07T02:24:11+00:00`
 
 | Category | Records | Page |
 | --- | ---: | --- |
-| Api Abi Checker | 220 | [api_abi_checker](by-category/api-abi-checker.md) |
+| Api Abi Checker | 221 | [api_abi_checker](by-category/api-abi-checker.md) |
 | Api Doc Generator | 12 | [api_doc_generator](by-category/api-doc-generator.md) |
 | Assertion Mocking | 46 | [assertion_mocking](by-category/assertion-mocking.md) |
 | Async Runtime | 136 | [async_runtime](by-category/async-runtime.md) |
@@ -142,8 +142,8 @@ Generated: `2026-09-07T02:24:11+00:00`
 | Networking Http | 1037 | [networking_http](by-category/networking-http.md) |
 | Other | 14 | [other](by-category/other.md) |
 | Package Manager | 442 | [package_manager](by-category/package-manager.md) |
-| Parser Lexer Ast | 1189 | [parser_lexer_ast](by-category/parser-lexer-ast.md) |
-| Precommit Ci Quality | 307 | [precommit_ci_quality](by-category/precommit-ci-quality.md) |
+| Parser Lexer Ast | 1190 | [parser_lexer_ast](by-category/parser-lexer-ast.md) |
+| Precommit Ci Quality | 308 | [precommit_ci_quality](by-category/precommit-ci-quality.md) |
 | Profiler | 87 | [profiler](by-category/profiler.md) |
 | Project Scaffolding | 133 | [project_scaffolding](by-category/project-scaffolding.md) |
 | Registry Repository | 133 | [registry_repository](by-category/registry-repository.md) |
@@ -174,7 +174,7 @@ Generated: `2026-09-07T02:24:11+00:00`
 | Node.js/JavaScript | 2331 | 77 |
 | Node.js/TypeScript | 348 | 40 |
 | Lua family | 0 | 1937 |
-| R | 1700 | 0 |
+| R | 1703 | 0 |
 | Haskell | 1464 | 12 |
 | Matlab | 0 | 287 |
 | Octave | 140 | 1 |

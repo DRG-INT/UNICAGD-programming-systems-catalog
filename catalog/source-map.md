@@ -4,7 +4,7 @@
 
 ## Category Index
 
-[Api Abi Checker (220)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (136)](by-category/async-runtime.md)
+[Api Abi Checker (221)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (136)](by-category/async-runtime.md)
 [Benchmarking (200)](by-category/benchmarking.md) · [Build System (992)](by-category/build-system.md) · [Cli (563)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (24)](by-category/compiler-diagnostics.md) · [Compression (51)](by-category/compression.md)
 [Concurrency Parallelism (89)](by-category/concurrency-parallelism.md) · [Configuration (130)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
@@ -16,7 +16,7 @@
 [Language Server (29)](by-category/language-server.md) · [Language Specification (1437)](by-category/language-specification.md) · [Library (5691)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (528)](by-category/logging-observability.md) · [Machine Learning (793)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1037)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1189)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (307)](by-category/precommit-ci-quality.md)
+[Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1190)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (308)](by-category/precommit-ci-quality.md)
 [Profiler (87)](by-category/profiler.md) · [Project Scaffolding (133)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (336)](by-category/security-sast.md) · [Serialization (397)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (613)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (607)](by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](by-category/tutorial-book-styleguide.md) · [Type Checker (313)](by-category/type-checker.md)
@@ -1273,6 +1273,7 @@
 | `cran_packages_by_date-45508a1e3fa5de` | deli | [open](records/r-deli-81ac1128.md) |
 | `cran_packages_by_date-455619c9ed0b2a` | BEND | [open](records/r-bend-ba243bff.md) |
 | `cran_packages_by_date-45b754cfcef8fd` | mcstatsim | [open](records/r-mcstatsim-df86e980.md) |
+| `cran_packages_by_date-45c4217429ffbd` | reproresearchR | [open](records/r-reproresearchr-bda0f5a4.md) |
 | `cran_packages_by_date-45daa965ce1280` | PaddleOCR | [open](records/r-paddleocr-91310701.md) |
 | `cran_packages_by_date-45ed5426ce6c87` | DPQ | [open](records/r-dpq-8fc89753.md) |
 | `cran_packages_by_date-461e60751bcac2` | PowerXgammaRF | [open](records/r-powerxgammarf-5bd9852f.md) |
@@ -1287,6 +1288,7 @@
 | `cran_packages_by_date-4787f978c5a2c4` | tmap.sources | [open](records/r-tmap-sources-5ff9fad8.md) |
 | `cran_packages_by_date-47ad04abe71f6d` | gss | [open](records/r-gss-171e2c52.md) |
 | `cran_packages_by_date-480a2244f5c98d` | dtametaTMB | [open](records/r-dtametatmb-28df18e4.md) |
+| `cran_packages_by_date-481b9e8ee043ae` | RelDists | [open](records/r-reldists-29ab375f.md) |
 | `cran_packages_by_date-483dba051527a2` | dyadMLM | [open](records/r-dyadmlm-a0536dff.md) |
 | `cran_packages_by_date-486c258c472d75` | RobinCar2 | [open](records/r-robincar2-5ab46259.md) |
 | `cran_packages_by_date-48976a5bbbd568` | postlink | [open](records/r-postlink-29a9d411.md) |
@@ -1574,6 +1576,7 @@
 | `cran_packages_by_date-724bea9c0acd23` | MultiEFM | [open](records/r-multiefm-da27113b.md) |
 | `cran_packages_by_date-724edbc64467b3` | wcde | [open](records/r-wcde-84649836.md) |
 | `cran_packages_by_date-72558a79a1034e` | pcatR | [open](records/r-pcatr-ae7e7793.md) |
+| `cran_packages_by_date-72b2b581f8f53e` | neuralnetwork | [open](records/r-neuralnetwork-f10a4fe0.md) |
 | `cran_packages_by_date-72c6c6c7c78d1a` | pkgmd | [open](records/r-pkgmd-82f9b690.md) |
 | `cran_packages_by_date-72cf174200580e` | oddsapiR | [open](records/r-oddsapir-1c537a9f.md) |
 | `cran_packages_by_date-72fcebe641f078` | coursekata | [open](records/r-coursekata-356923c4.md) |

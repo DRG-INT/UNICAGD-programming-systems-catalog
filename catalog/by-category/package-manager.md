@@ -8,7 +8,7 @@ Records: `442`
 
 ## Category Index
 
-[Api Abi Checker (220)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Api Abi Checker (221)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
 [Benchmarking (200)](benchmarking.md) · [Build System (992)](build-system.md) · [Cli (563)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (51)](compression.md)
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
@@ -20,7 +20,7 @@ Records: `442`
 [Language Server (29)](language-server.md) · [Language Specification (1437)](language-specification.md) · [Library (5691)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (528)](logging-observability.md) · [Machine Learning (793)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1037)](networking-http.md)
-[Other (14)](other.md) · **[Package Manager (442)](package-manager.md)** · [Parser Lexer Ast (1189)](parser-lexer-ast.md) · [Precommit Ci Quality (307)](precommit-ci-quality.md)
+[Other (14)](other.md) · **[Package Manager (442)](package-manager.md)** · [Parser Lexer Ast (1190)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (613)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (607)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
@@ -488,7 +488,7 @@ Records: `442`
 | 0x6d69636b/windows_hardening | partial | 2026-08-31T17:08:57Z | [open](../records/catalogs-0x6d69636b-windows-hardening-800b6709.md) |
 | 89luca89/lilipod | partial | 2026-02-13T14:56:47Z | [open](../records/catalogs-89luca89-lilipod-04b83b9a.md) |
 | Aetherinox/pause-windows-updates | partial | 2025-10-27T17:52:56Z | [open](../records/catalogs-aetherinox-pause-windows-updates-950b61a1.md) |
-| agentclientprotocol/registry | partial | 2026-09-06T11:30:45Z | [open](../records/catalogs-agentclientprotocol-registry-7431edbd.md) |
+| agentclientprotocol/registry | partial | 2026-09-07T01:55:22Z | [open](../records/catalogs-agentclientprotocol-registry-7431edbd.md) |
 | agentic-community/mcp-gateway-registry | partial | 2026-09-01T16:44:39Z | [open](../records/catalogs-agentic-community-mcp-gateway-registry-642bbde2.md) |
 | agentregistry-dev/agentregistry | partial | 2026-09-03T18:21:37Z | [open](../records/catalogs-agentregistry-dev-agentregistry-33204e4a.md) |
 | ancel1x/Ancels-Performance-Batch | partial | 2026-04-03T17:54:00Z | [open](../records/catalogs-ancel1x-ancels-performance-batch-c6cc4451.md) |
@@ -553,8 +553,8 @@ Records: `442`
 | npm/registry | partial | 2024-06-02T19:19:54Z | [open](../records/catalogs-npm-registry-4330171b.md) |
 | Observal/Observal | partial | 2026-09-05T17:33:40Z | [open](../records/catalogs-observal-observal-b4833836.md) |
 | open-services/open-registry | partial | 2022-05-26T22:36:15Z | [open](../records/catalogs-open-services-open-registry-c7dd1e7f.md) |
-| openupm/openupm | partial | 2026-09-07T00:18:04Z | [open](../records/catalogs-openupm-openupm-b86041d5.md) |
-| oras-project/oras | partial | 2026-09-07T00:11:08Z | [open](../records/catalogs-oras-project-oras-63269fb9.md) |
+| openupm/openupm | partial | 2026-09-07T02:26:13Z | [open](../records/catalogs-openupm-openupm-b86041d5.md) |
+| oras-project/oras | partial | 2026-09-07T01:57:03Z | [open](../records/catalogs-oras-project-oras-63269fb9.md) |
 | oras-project/oras-go | partial | 2026-09-04T20:23:48Z | [open](../records/catalogs-oras-project-oras-go-5d7d0c28.md) |
 | outsideris/citizen | partial | 2024-10-12T20:14:31Z | [open](../records/catalogs-outsideris-citizen-8805d3c4.md) |
 | packistry/packistry | partial | 2026-08-12T19:19:09Z | [open](../records/catalogs-packistry-packistry-e15ec62a.md) |
@@ -565,7 +565,7 @@ Records: `442`
 | regclient/regclient | partial | 2026-09-02T14:58:43Z | [open](../records/catalogs-regclient-regclient-e0f0e503.md) |
 | replicatedhq/ttl.sh | partial | 2026-08-19T06:06:52Z | [open](../records/catalogs-replicatedhq-ttl-sh-9a1263b3.md) |
 | riferrei/srclient | partial | 2025-10-30T23:49:01Z | [open](../records/catalogs-riferrei-srclient-a30143ad.md) |
-| rtvkiz/minimal | partial | 2026-09-06T21:54:58Z | [open](../records/catalogs-rtvkiz-minimal-8b1ffe5f.md) |
+| rtvkiz/minimal | partial | 2026-09-07T02:25:36Z | [open](../records/catalogs-rtvkiz-minimal-8b1ffe5f.md) |
 | salasaurusrex/context_menu | partial | 2024-09-14T17:11:04Z | [open](../records/catalogs-salasaurusrex-context-menu-31bf20dd.md) |
 | SatyamVyas04/sensory-ui | partial | 2026-07-31T17:24:47Z | [open](../records/catalogs-satyamvyas04-sensory-ui-ee86cab1.md) |
 | scarf-sh/gateway | partial | 2026-06-13T16:09:48Z | [open](../records/catalogs-scarf-sh-gateway-74aad772.md) |
@@ -576,7 +576,7 @@ Records: `442`
 | skilld-dev/skilld | partial | 2026-09-04T04:08:32Z | [open](../records/catalogs-skilld-dev-skilld-f86e137d.md) |
 | sky22333/hubproxy | partial | 2026-08-02T13:47:26Z | [open](../records/catalogs-sky22333-hubproxy-37c3d79d.md) |
 | spegel-org/spegel | partial | 2026-09-04T07:14:34Z | [open](../records/catalogs-spegel-org-spegel-05ead580.md) |
-| superdesigndev/treg | partial | 2026-09-07T00:26:17Z | [open](../records/catalogs-superdesigndev-treg-2bceb567.md) |
+| superdesigndev/treg | partial | 2026-09-07T03:06:10Z | [open](../records/catalogs-superdesigndev-treg-2bceb567.md) |
 | tektoncd/catalog | partial | 2026-07-03T10:04:40Z | [open](../records/catalogs-tektoncd-catalog-3a3ca6b3.md) |
 | terralist/terralist | partial | 2026-09-05T09:04:50Z | [open](../records/catalogs-terralist-terralist-ed589b1f.md) |
 | Trow-Registry/trow | partial | 2026-09-01T07:08:25Z | [open](../records/catalogs-trow-registry-trow-1a7e3ee6.md) |
@@ -586,7 +586,7 @@ Records: `442`
 | wasm-bindgen/wasm-pack | partial | 2026-08-12T18:56:24Z | [open](../records/catalogs-wasm-bindgen-wasm-pack-4dcc019c.md) |
 | WereDev/Wu10Man | partial | 2023-12-05T23:30:01Z | [open](../records/catalogs-weredev-wu10man-57b7d4b9.md) |
 | wtklbm/crm | partial | 2025-08-14T11:13:19Z | [open](../records/catalogs-wtklbm-crm-10d581b7.md) |
-| zoicware/ZOICWARE | partial | 2026-09-07T00:10:33Z | [open](../records/catalogs-zoicware-zoicware-ccb8949a.md) |
+| zoicware/ZOICWARE | partial | 2026-09-07T03:19:50Z | [open](../records/catalogs-zoicware-zoicware-ccb8949a.md) |
 
 ## Magazines
 
