@@ -14,17 +14,17 @@ Records: `477`
 [Concurrency Parallelism (92)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (176)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (894)](database-datastore.md) · [Datetime (233)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (106)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1610)](filesystem-os.md) · [Formatter (648)](formatter.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1611)](filesystem-os.md) · [Formatter (648)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1463)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1440)](language-specification.md) · [Library (5713)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (529)](logging-observability.md) · [Machine Learning (794)](machine-learning.md)
+[Language Server (30)](language-server.md) · [Language Specification (1440)](language-specification.md) · [Library (5716)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (794)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1040)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1193)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1194)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (620)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (621)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (607)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1618)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (557)](visualization-gui.md) · **[Web Framework (477)](web-framework.md)**
+[Undefined Behavior Analyzer (1618)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (558)](visualization-gui.md) · **[Web Framework (477)](web-framework.md)**
 
 ## C++23
 
@@ -164,7 +164,7 @@ Records: `477`
 | @apple/app-store-server-library | 3.1.0 | 2026-05-06T01:14:11.509Z | [open](../records/node-js-javascript-apple-app-store-server-library-95022302.md) |
 | @budibase/server | 3.38.1 | 2026-05-12T06:32:35.805Z | [open](../records/node-js-javascript-budibase-server-b96430d3.md) |
 | @callstack/repack-dev-server | 5.3.0 | 2026-08-05T09:11:36.073Z | [open](../records/node-js-javascript-callstack-repack-dev-server-631ff63b.md) |
-| @capgo/cli | 8.47.0 | 2026-09-03T15:02:51.134Z | [open](../records/node-js-javascript-capgo-cli-8e98e39d.md) |
+| @capgo/cli | 8.47.1 | 2026-09-07T19:07:16.863Z | [open](../records/node-js-javascript-capgo-cli-8e98e39d.md) |
 | @cloudflare/mcp-server-cloudflare | 0.2.0 | 2025-03-14T10:41:19.350Z | [open](../records/node-js-javascript-cloudflare-mcp-server-cloudflare-3b1ce558.md) |
 | @constructive-io/graphql-server | 5.24.0 | 2026-09-06T19:46:39.891Z | [open](../records/node-js-javascript-constructive-io-graphql-server-5edba745.md) |
 | @contentful/mcp-server | 1.19.0 | 2026-09-01T20:20:27.760Z | [open](../records/node-js-javascript-contentful-mcp-server-f8c3e0db.md) |
@@ -202,7 +202,7 @@ Records: `477`
 | @newrelic/apollo-server-plugin | 8.0.0 | 2025-07-22T20:03:48.217Z | [open](../records/node-js-javascript-newrelic-apollo-server-plugin-34e68ee7.md) |
 | @nexus2520/bitbucket-mcp-server | 3.0.0 | 2026-07-09T10:23:31.348Z | [open](../records/node-js-javascript-nexus2520-bitbucket-mcp-server-c0a72fb2.md) |
 | @nuxt/nitro-server | 4.5.2 | 2026-08-05T16:17:56.963Z | [open](../records/node-js-javascript-nuxt-nitro-server-1fc1585d.md) |
-| @nuxt/nitro-server-nightly | 4.6.0-29813339.135d813b | 2026-09-07T17:01:13.458Z | [open](../records/node-js-javascript-nuxt-nitro-server-nightly-4efe1726.md) |
+| @nuxt/nitro-server-nightly | 4.6.0-29813531.c4aab5df | 2026-09-07T20:11:56.581Z | [open](../records/node-js-javascript-nuxt-nitro-server-nightly-4efe1726.md) |
 | @opencode-ai/server | 0.0.0-reserved.0 | 2026-07-01T22:05:01.103Z | [open](../records/node-js-javascript-opencode-ai-server-870e8c36.md) |
 | @openfeature/core | 1.12.0 | 2026-07-28T18:53:49.315Z | [open](../records/node-js-javascript-openfeature-core-e3b3a0d0.md) |
 | @osohq/dev-server | 0.0.1-alpha.24 | 2026-07-17T14:34:26.307Z | [open](../records/node-js-javascript-osohq-dev-server-08c8f1e4.md) |
@@ -255,7 +255,7 @@ Records: `477`
 | @vue/cli-overlay | 5.0.9 | 2025-08-21T10:57:02.315Z | [open](../records/node-js-javascript-vue-cli-overlay-760829af.md) |
 | @vue/cli-plugin-router | 5.0.9 | 2025-08-21T10:57:04.121Z | [open](../records/node-js-javascript-vue-cli-plugin-router-561b8d91.md) |
 | @vue/server-renderer | 3.5.42 | 2026-08-27T05:48:31.009Z | [open](../records/node-js-javascript-vue-server-renderer-b47ab9e0.md) |
-| @wdio/appium-service | 9.31.6 | 2026-09-06T12:49:47.686Z | [open](../records/node-js-javascript-wdio-appium-service-4e12b589.md) |
+| @wdio/appium-service | 9.31.7 | 2026-09-07T20:08:40.677Z | [open](../records/node-js-javascript-wdio-appium-service-4e12b589.md) |
 | @web/dev-server | 1.0.0 | 2026-07-07T14:15:07.342Z | [open](../records/node-js-javascript-web-dev-server-0c8adf21.md) |
 | @web/dev-server-core | 1.0.1 | 2026-07-27T16:01:05.955Z | [open](../records/node-js-javascript-web-dev-server-core-729504e6.md) |
 | @web/dev-server-rollup | 1.0.0 | 2026-07-07T14:15:07.390Z | [open](../records/node-js-javascript-web-dev-server-rollup-f584d070.md) |
@@ -299,7 +299,7 @@ Records: `477`
 | server-cli-only | 0.3.2 | 2024-04-30T11:09:03.373Z | [open](../records/node-js-javascript-server-cli-only-17eb2673.md) |
 | server-destroy | 1.0.1 | 2015-05-20T07:16:41.655Z | [open](../records/node-js-javascript-server-destroy-b5d1e648.md) |
 | server-only | 0.0.1 | 2022-09-03T01:07:26.139Z | [open](../records/node-js-javascript-server-only-0b56fef6.md) |
-| srvx | 1.0.3 | 2026-09-03T22:49:51.529Z | [open](../records/node-js-javascript-srvx-1c963d3b.md) |
+| srvx | 1.0.4 | 2026-09-07T18:39:22.827Z | [open](../records/node-js-javascript-srvx-1c963d3b.md) |
 | superstatic | 11.0.0 | 2026-07-08T19:13:39.538Z | [open](../records/node-js-javascript-superstatic-fc374538.md) |
 | tiny-lr | 2.0.0 | 2020-10-09T18:15:31.366Z | [open](../records/node-js-javascript-tiny-lr-9c549260.md) |
 | tiny-worker | 2.3.0 | 2019-09-20T17:30:30.678Z | [open](../records/node-js-javascript-tiny-worker-6925212f.md) |

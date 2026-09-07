@@ -14,17 +14,17 @@ Records: `607`
 [Concurrency Parallelism (92)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (176)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (894)](database-datastore.md) · [Datetime (233)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (106)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1610)](filesystem-os.md) · [Formatter (648)](formatter.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1611)](filesystem-os.md) · [Formatter (648)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1463)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1440)](language-specification.md) · [Library (5713)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (529)](logging-observability.md) · [Machine Learning (794)](machine-learning.md)
+[Language Server (30)](language-server.md) · [Language Specification (1440)](language-specification.md) · [Library (5716)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (794)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1040)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1193)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1194)](parser-lexer-ast.md) · [Precommit Ci Quality (308)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (620)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (621)](static-analyzer.md)
 [Templating (2)](templating.md) · **[Testing Framework (607)](testing-framework.md)** · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1618)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (557)](visualization-gui.md) · [Web Framework (477)](web-framework.md)
+[Undefined Behavior Analyzer (1618)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (558)](visualization-gui.md) · [Web Framework (477)](web-framework.md)
 
 ## C99
 
@@ -220,7 +220,7 @@ Records: `607`
 | @smithers-orchestrator/testing | 0.32.0 | 2026-08-01T05:00:36.872Z | [open](../records/node-js-javascript-smithers-orchestrator-testing-7a34dd66.md) |
 | @smthrs/testing | 0.35.0 | 2026-08-17T20:35:48.555Z | [open](../records/node-js-javascript-smthrs-testing-35159f03.md) |
 | @solidjs/testing-library | 0.8.10 | 2024-09-25T13:24:08.486Z | [open](../records/node-js-javascript-solidjs-testing-library-4973b45e.md) |
-| @stacksjs/testing | 0.74.28 | 2026-09-07T04:52:04.828Z | [open](../records/node-js-javascript-stacksjs-testing-57469937.md) |
+| @stacksjs/testing | 0.74.29 | 2026-09-07T18:25:12.114Z | [open](../records/node-js-javascript-stacksjs-testing-57469937.md) |
 | @storm-software/testing-tools | 1.119.287 | 2026-09-06T05:19:32.185Z | [open](../records/node-js-javascript-storm-software-testing-tools-3111101a.md) |
 | @storybook/addon-vitest | 10.6.0 | 2026-09-02T13:59:28.767Z | [open](../records/node-js-javascript-storybook-addon-vitest-61ff1281.md) |
 | @storybook/cli | 10.6.0 | 2026-09-02T14:01:45.695Z | [open](../records/node-js-javascript-storybook-cli-04f8ce22.md) |
@@ -252,8 +252,8 @@ Records: `607`
 | @vizzly-testing/cli | 0.35.2 | 2026-06-20T16:47:57.212Z | [open](../records/node-js-javascript-vizzly-testing-cli-e4348fc2.md) |
 | @vue/cli-plugin-unit-jest | 5.0.9 | 2025-08-21T10:57:04.686Z | [open](../records/node-js-javascript-vue-cli-plugin-unit-jest-00f301fd.md) |
 | @vue/test-utils | 2.5.0 | 2026-08-27T13:56:57.235Z | [open](../records/node-js-javascript-vue-test-utils-aa8d0a01.md) |
-| @wdio/cucumber-framework | 9.31.6 | 2026-09-06T12:47:29.985Z | [open](../records/node-js-javascript-wdio-cucumber-framework-3fd5daaf.md) |
-| @wdio/mocha-framework | 9.31.6 | 2026-09-06T12:47:30.494Z | [open](../records/node-js-javascript-wdio-mocha-framework-8a114d96.md) |
+| @wdio/cucumber-framework | 9.31.7 | 2026-09-07T20:06:23.289Z | [open](../records/node-js-javascript-wdio-cucumber-framework-3fd5daaf.md) |
+| @wdio/mocha-framework | 9.31.7 | 2026-09-07T20:06:23.116Z | [open](../records/node-js-javascript-wdio-mocha-framework-8a114d96.md) |
 | @wdio/tauri-service | 1.4.0 | 2026-09-06T16:38:42.632Z | [open](../records/node-js-javascript-wdio-tauri-service-cfa3308c.md) |
 | @wdio/visual-service | 10.1.0 | 2026-07-11T06:11:57.135Z | [open](../records/node-js-javascript-wdio-visual-service-0c53ea2f.md) |
 | @wdio/xvfb | 9.31.2 | 2026-08-21T01:44:54.191Z | [open](../records/node-js-javascript-wdio-xvfb-e9e46e8a.md) |
@@ -361,7 +361,7 @@ Records: `607`
 | system-testing | 1.0.136 | 2026-09-05T13:18:05.282Z | [open](../records/node-js-javascript-system-testing-fb3acaec.md) |
 | testcafe | 3.7.6 | 2026-07-07T10:59:13.356Z | [open](../records/node-js-javascript-testcafe-15e8e7ec.md) |
 | testcheck | 1.0.0-rc.2 | 2017-04-26T20:42:10.658Z | [open](../records/node-js-javascript-testcheck-84f3e46e.md) |
-| testem | 3.20.2 | 2026-08-26T21:29:49.240Z | [open](../records/node-js-javascript-testem-adf12a00.md) |
+| testem | 3.21.0 | 2026-09-07T19:44:42.568Z | [open](../records/node-js-javascript-testem-adf12a00.md) |
 | testing | 3.1.0 | 2023-08-17T17:54:28.105Z | [open](../records/node-js-javascript-testing-3ac55664.md) |
 | testing-library-selector | 0.3.1 | 2023-10-10T08:40:46.255Z | [open](../records/node-js-javascript-testing-library-selector-38bf20ea.md) |
 | testing-library-table-queries | 0.5.0 | 2025-05-18T17:38:00.578Z | [open](../records/node-js-javascript-testing-library-table-queries-da107543.md) |

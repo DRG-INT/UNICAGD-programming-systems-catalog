@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-07T19:19:59+00:00`
+Generated: `2026-09-07T20:23:43+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -12,30 +12,47 @@ Generated: `2026-09-07T19:19:59+00:00`
 [Concurrency Parallelism (92)](by-category/concurrency-parallelism.md) · [Configuration (130)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (176)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (894)](by-category/database-datastore.md) · [Datetime (233)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (102)](by-category/dependency-manager.md) · [Documentation (106)](by-category/documentation.md)
-[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (457)](by-category/ffi-bindings.md) · [Filesystem Os (1610)](by-category/filesystem-os.md) · [Formatter (648)](by-category/formatter.md)
+[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (457)](by-category/ffi-bindings.md) · [Filesystem Os (1611)](by-category/filesystem-os.md) · [Formatter (648)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (356)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1463)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (273)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (30)](by-category/language-server.md) · [Language Specification (1440)](by-category/language-specification.md) · [Library (5713)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (529)](by-category/logging-observability.md) · [Machine Learning (794)](by-category/machine-learning.md)
+[Language Server (30)](by-category/language-server.md) · [Language Specification (1440)](by-category/language-specification.md) · [Library (5716)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (530)](by-category/logging-observability.md) · [Machine Learning (794)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1040)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1193)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (308)](by-category/precommit-ci-quality.md)
+[Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1194)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (308)](by-category/precommit-ci-quality.md)
 [Profiler (87)](by-category/profiler.md) · [Project Scaffolding (133)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
-[Security Sast (336)](by-category/security-sast.md) · [Serialization (397)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (620)](by-category/static-analyzer.md)
+[Security Sast (336)](by-category/security-sast.md) · [Serialization (397)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (621)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (607)](by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](by-category/tutorial-book-styleguide.md) · [Type Checker (313)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1618)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (557)](by-category/visualization-gui.md) · [Web Framework (477)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1618)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (558)](by-category/visualization-gui.md) · [Web Framework (477)](by-category/web-framework.md)
 
 ## Coverage
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10240 |
+| Known stable release | 10248 |
 | Unknown stable release | 17339 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| dtmc | Haskell | Library | 0.2.0.0 | 2026-09-07T20:16:38Z | [open](records/haskell-dtmc-cfd2fdd2.md) |
+| @lightdash/cli | Node.js/JavaScript | Cli | 2.148.0 | 2026-09-07T20:16:14.480Z | [open](records/node-js-javascript-lightdash-cli-ba24b859.md) |
+| @nuxt/nitro-server-nightly | Node.js/JavaScript | Web Framework | 4.6.0-29813531.c4aab5df | 2026-09-07T20:11:56.581Z | [open](records/node-js-javascript-nuxt-nitro-server-nightly-4efe1726.md) |
+| @wdio/appium-service | Node.js/JavaScript | Web Framework | 9.31.7 | 2026-09-07T20:08:40.677Z | [open](records/node-js-javascript-wdio-appium-service-4e12b589.md) |
+| @wdio/cucumber-framework | Node.js/JavaScript | Testing Framework | 9.31.7 | 2026-09-07T20:06:23.289Z | [open](records/node-js-javascript-wdio-cucumber-framework-3fd5daaf.md) |
+| @wdio/mocha-framework | Node.js/JavaScript | Testing Framework | 9.31.7 | 2026-09-07T20:06:23.116Z | [open](records/node-js-javascript-wdio-mocha-framework-8a114d96.md) |
+| @prosopo/database | Node.js/JavaScript | Ide Editor Integration | 4.0.29 | 2026-09-07T20:03:24.913Z | [open](records/node-js-javascript-prosopo-database-9a77dbd4.md) |
+| testem | Node.js/JavaScript | Testing Framework | 3.21.0 | 2026-09-07T19:44:42.568Z | [open](records/node-js-javascript-testem-adf12a00.md) |
+| @angular-eslint/builder | Node.js/JavaScript | Build System | 22.5.0 | 2026-09-07T19:40:53.663Z | [open](records/node-js-javascript-angular-eslint-builder-871e2113.md) |
+| keid-ui-dearimgui | Haskell | Visualization Gui | 0.1.5.0 | 2026-09-07T19:13:42Z | [open](records/haskell-keid-ui-dearimgui-db02e01b.md) |
+| @capgo/cli | Node.js/JavaScript | Web Framework | 8.47.1 | 2026-09-07T19:07:16.863Z | [open](records/node-js-javascript-capgo-cli-8e98e39d.md) |
+| srvx | Node.js/JavaScript | Web Framework | 1.0.4 | 2026-09-07T18:39:22.827Z | [open](records/node-js-javascript-srvx-1c963d3b.md) |
+| @stacksjs/database | Node.js/JavaScript | Database Datastore | 0.74.29 | 2026-09-07T18:28:35.499Z | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
+| dart_mappable | Dart | Serialization | 4.10.0 | 2026-09-07T18:27:34.185167Z | [open](records/dart-dart-mappable-7baa0923.md) |
+| @stacksjs/testing | Node.js/JavaScript | Testing Framework | 0.74.29 | 2026-09-07T18:25:12.114Z | [open](records/node-js-javascript-stacksjs-testing-57469937.md) |
+| windmill-cli | Node.js/JavaScript | Cli | 1.805.0 | 2026-09-07T18:23:36.837Z | [open](records/node-js-javascript-windmill-cli-71546be7.md) |
 | @typescript-eslint/parser | Node.js/TypeScript | Linter | 8.70.0 | 2026-09-07T18:18:47.345Z | [open](records/node-js-typescript-typescript-eslint-parser-19093623.md) |
+| @stacksjs/http | Node.js/JavaScript | Networking Http | 0.74.29 | 2026-09-07T18:18:11.719Z | [open](records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
 | typescript-eslint | Node.js/TypeScript | Linter | 8.70.0 | 2026-09-07T18:18:09.654Z | [open](records/node-js-typescript-typescript-eslint-c8a43944.md) |
 | @typescript-eslint/type-utils | Node.js/TypeScript | Linter | 8.70.0 | 2026-09-07T18:17:52.231Z | [open](records/node-js-typescript-typescript-eslint-type-utils-08cc431d.md) |
 | @typescript-eslint/eslint-plugin | Node.js/TypeScript | Linter | 8.70.0 | 2026-09-07T18:17:13.609Z | [open](records/node-js-typescript-typescript-eslint-eslint-plugin-ca0a1205.md) |
@@ -45,12 +62,10 @@ Generated: `2026-09-07T19:19:59+00:00`
 | @typescript-eslint/typescript-estree | Node.js/TypeScript | Linter | 8.70.0 | 2026-09-07T18:16:21.911Z | [open](records/node-js-typescript-typescript-eslint-typescript-estree-fb811420.md) |
 | @typescript-eslint/visitor-keys | Node.js/TypeScript | Linter | 8.70.0 | 2026-09-07T18:16:15.600Z | [open](records/node-js-typescript-typescript-eslint-visitor-keys-6cfd9c00.md) |
 | @typescript-eslint/types | Node.js/TypeScript | Linter | 8.70.0 | 2026-09-07T18:16:10.111Z | [open](records/node-js-typescript-typescript-eslint-types-3c8390f0.md) |
-| @lightdash/cli | Node.js/JavaScript | Cli | 2.146.1 | 2026-09-07T18:15:09.737Z | [open](records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | mini | Haskell | Library | 2.1.0.0 | 2026-09-07T18:07:57Z | [open](records/haskell-mini-8b13af00.md) |
 | flutter_lucide | Dart | Ide Editor Integration | 1.42.0 | 2026-09-07T18:06:23.203567Z | [open](records/dart-flutter-lucide-ac11e8f7.md) |
 | @inquirer/testing | Node.js/JavaScript | Testing Framework | 3.3.13 | 2026-09-07T17:56:43.708Z | [open](records/node-js-javascript-inquirer-testing-6655503f.md) |
 | background_downloader | Dart | Message Broker | 9.6.0 | 2026-09-07T17:08:24.276053Z | [open](records/dart-background-downloader-c2530439.md) |
-| @nuxt/nitro-server-nightly | Node.js/JavaScript | Web Framework | 4.6.0-29813339.135d813b | 2026-09-07T17:01:13.458Z | [open](records/node-js-javascript-nuxt-nitro-server-nightly-4efe1726.md) |
 | @supabase/cli-linux-x64 | Node.js/JavaScript | Cli | 2.117.0 | 2026-09-07T16:50:52.480Z | [open](records/node-js-javascript-supabase-cli-linux-x64-04164519.md) |
 | supabase | Node.js/JavaScript | Cli | 2.117.0 | 2026-09-07T16:47:41.935Z | [open](records/node-js-javascript-supabase-83be2a37.md) |
 | @supabase/cli-linux-x64-musl | Node.js/JavaScript | Cli | 2.117.0 | 2026-09-07T16:46:40.128Z | [open](records/node-js-javascript-supabase-cli-linux-x64-musl-49b40394.md) |
@@ -88,11 +103,9 @@ Generated: `2026-09-07T19:19:59+00:00`
 | @types/node | Node.js/TypeScript | Type Checker | 26.5.0 | 2026-09-07T14:07:47.948Z | [open](records/node-js-typescript-types-node-45f57646.md) |
 | @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.113.21 | 2026-09-07T14:05:46.844Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
 | @catladder/cli | Node.js/JavaScript | Cli | 5.1.2 | 2026-09-07T14:00:09.092Z | [open](records/node-js-javascript-catladder-cli-876a5bd9.md) |
-| @angular-eslint/builder | Node.js/JavaScript | Build System | 22.4.0 | 2026-09-07T13:55:14.829Z | [open](records/node-js-javascript-angular-eslint-builder-871e2113.md) |
 | flutter_webrtc | Dart | Filesystem Os | 1.6.2 | 2026-09-07T13:41:07.809282Z | [open](records/dart-flutter-webrtc-afeba3f1.md) |
 | @ui5/cli | Node.js/JavaScript | Cli | 4.0.66 | 2026-09-07T13:21:29.176Z | [open](records/node-js-javascript-ui5-cli-dfaea84c.md) |
 | @prosopo/types-database | Node.js/JavaScript | Database Datastore | 5.4.1 | 2026-09-07T13:17:50.143Z | [open](records/node-js-javascript-prosopo-types-database-4163c4a1.md) |
-| @prosopo/database | Node.js/JavaScript | Ide Editor Integration | 4.0.28 | 2026-09-07T13:17:39.351Z | [open](records/node-js-javascript-prosopo-database-9a77dbd4.md) |
 | @cap-js/hana | Node.js/JavaScript | Database Datastore | 3.1.0 | 2026-09-07T13:08:40.877Z | [open](records/node-js-javascript-cap-js-hana-7a64b585.md) |
 | @cap-js/postgres | Node.js/JavaScript | Database Datastore | 3.1.0 | 2026-09-07T13:08:36.621Z | [open](records/node-js-javascript-cap-js-postgres-649c229f.md) |
 | @cap-js/sqlite | Node.js/JavaScript | Database Datastore | 3.1.0 | 2026-09-07T13:08:31.813Z | [open](records/node-js-javascript-cap-js-sqlite-e799c5a7.md) |
@@ -136,14 +149,18 @@ Generated: `2026-09-07T19:19:59+00:00`
 | @github/copilot-language-server-darwin-arm64 | Node.js/JavaScript | Language Specification | 1.542.0 | 2026-09-07T06:30:24.601Z | [open](records/node-js-javascript-github-copilot-language-server-darwin-arm64-20bcc86b.md) |
 | storybook-addon-vis | Node.js/JavaScript | Testing Framework | 4.2.8 | 2026-09-07T05:29:48.018Z | [open](records/node-js-javascript-storybook-addon-vis-c1befa36.md) |
 | vitest-plugin-vis | Node.js/JavaScript | Testing Framework | 5.1.5 | 2026-09-07T05:29:43.593Z | [open](records/node-js-javascript-vitest-plugin-vis-a9cafa30.md) |
-| @stacksjs/testing | Node.js/JavaScript | Testing Framework | 0.74.28 | 2026-09-07T04:52:04.828Z | [open](records/node-js-javascript-stacksjs-testing-57469937.md) |
-| @stacksjs/database | Node.js/JavaScript | Database Datastore | 0.74.28 | 2026-09-07T04:51:19.305Z | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
-| @stacksjs/http | Node.js/JavaScript | Networking Http | 0.74.28 | 2026-09-07T04:45:09.029Z | [open](records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
 | smooth_sheets | Dart | Library | 1.2.0 | 2026-09-07T04:37:22.285892Z | [open](records/dart-smooth-sheets-c675e8a6.md) |
 | app_badge_plus | Dart | Filesystem Os | 1.3.5 | 2026-09-07T04:00:56.928703Z | [open](records/dart-app-badge-plus-a51749d2.md) |
 | lucide_icons_flutter | Dart | Ide Editor Integration | 3.1.19 | 2026-09-07T03:42:10.915150Z | [open](records/dart-lucide-icons-flutter-351b5f67.md) |
 | reg-cli | Node.js/JavaScript | Testing Framework | 0.19.0-rc3 | 2026-09-07T01:38:20.667Z | [open](records/node-js-javascript-reg-cli-7dcec4f2.md) |
 | flutter_foreground_task | Dart | Library | 11.0.3 | 2026-09-07T00:30:23.171199Z | [open](records/dart-flutter-foreground-task-0774b21a.md) |
+| Opportunistic | R | Parser Lexer Ast | 1.2.1 | 2026-09-07 19:50:02 UTC | [open](records/r-opportunistic-941e7fa9.md) |
+| BAwiR | R | Static Analyzer | 1.5.4 | 2026-09-07 18:50:02 UTC | [open](records/r-bawir-8eab7e7b.md) |
+| BiostatsUHNplus | R | Filesystem Os | 1.0.5 | 2026-09-07 18:30:26 UTC | [open](records/r-biostatsuhnplus-1879ff59.md) |
+| dawnn | R | Networking Http | 2.2.0 | 2026-09-07 18:30:20 UTC | [open](records/r-dawnn-03efc84b.md) |
+| opencis | R | Logging Observability | 0.1.2 | 2026-09-07 18:30:14 UTC | [open](records/r-opencis-57145d52.md) |
+| rsurvstat | R | Library | 0.1.5 | 2026-09-07 18:30:08 UTC | [open](records/r-rsurvstat-cc12ad97.md) |
+| saeproj.multilevel | R | Library | 0.1.1 | 2026-09-07 18:30:02 UTC | [open](records/r-saeproj-multilevel-92a012c6.md) |
 | SLGP | R | Logging Observability | 1.1.1 | 2026-09-07 18:20:02 UTC | [open](records/r-slgp-66ec205d.md) |
 | multilevelmediation | R | Static Analyzer | 0.5.0 | 2026-09-07 18:00:02 UTC | [open](records/r-multilevelmediation-97b5a49c.md) |
 | latentFactoR | R | Library | 0.0.9 | 2026-09-07 17:50:09 UTC | [open](records/r-latentfactor-e750c49e.md) |
@@ -214,9 +231,6 @@ Generated: `2026-09-07T19:19:59+00:00`
 | PenroseKiteDart | Haskell | Filesystem Os | 1.10.1 | 2026-09-06T15:03:47Z | [open](records/haskell-penrosekitedart-fee1bf50.md) |
 | ppad-aead | Haskell | Library | 0.3.6 | 2026-09-06T14:47:43Z | [open](records/haskell-ppad-aead-dc2d6455.md) |
 | ppad-chacha | Haskell | Library | 0.3.0 | 2026-09-06T13:41:37Z | [open](records/haskell-ppad-chacha-cbc8dffb.md) |
-| @wdio/appium-service | Node.js/JavaScript | Web Framework | 9.31.6 | 2026-09-06T12:49:47.686Z | [open](records/node-js-javascript-wdio-appium-service-4e12b589.md) |
-| @wdio/mocha-framework | Node.js/JavaScript | Testing Framework | 9.31.6 | 2026-09-06T12:47:30.494Z | [open](records/node-js-javascript-wdio-mocha-framework-8a114d96.md) |
-| @wdio/cucumber-framework | Node.js/JavaScript | Testing Framework | 9.31.6 | 2026-09-06T12:47:29.985Z | [open](records/node-js-javascript-wdio-cucumber-framework-3fd5daaf.md) |
 | baseball-database | Node.js/JavaScript | Database Datastore | 1.2.4 | 2026-09-06T12:05:08.125Z | [open](records/node-js-javascript-baseball-database-e38f2b26.md) |
 | mmzk-env | Haskell | Configuration | 0.6.0.0 | 2026-09-06T12:01:56Z | [open](records/haskell-mmzk-env-78c01d27.md) |
 | arch-hs | Haskell | Library | 0.15 | 2026-09-06T11:53:39Z | [open](records/haskell-arch-hs-aea67c7e.md) |
@@ -271,20 +285,6 @@ Generated: `2026-09-07T19:19:59+00:00`
 | npi | R | Package Manager | 0.3.1 | 2026-09-06 04:00:02 UTC | [open](records/r-npi-e0e894ec.md) |
 | betaselectr | R | Library | 0.2.4 | 2026-09-06 02:20:02 UTC | [open](records/r-betaselectr-7331a032.md) |
 | node-opcua-server | Node.js/JavaScript | Web Framework | 2.181.1 | 2026-09-05T19:53:33.793Z | [open](records/node-js-javascript-node-opcua-server-32472434.md) |
-| node-opcua-address-space-for-conformance-testing | Node.js/JavaScript | Testing Framework | 2.181.1 | 2026-09-05T19:52:59.864Z | [open](records/node-js-javascript-node-opcua-address-space-for-conformance-testing-e25f7a6d.md) |
-| yuku-parser | Node.js/TypeScript | Type Checker | 0.9.4 | 2026-09-05T19:10:09.074Z | [open](records/node-js-typescript-yuku-parser-d16e0e7c.md) |
-| redis | Rust | Database Datastore | 1.7.0 | 2026-09-05T18:24:47.428882Z | [open](records/rust-redis-e8689f11.md) |
-| ideas | Haskell | Ide Editor Integration | 1.9.1 | 2026-09-05T18:13:40Z | [open](records/haskell-ideas-bf8cd393.md) |
-| crossbeam | Rust | Filesystem Os | 0.8.5 | 2026-09-05T17:47:37.499898Z | [open](records/rust-crossbeam-d674677e.md) |
-| crossbeam-channel | Rust | Filesystem Os | 0.5.17 | 2026-09-05T17:47:21.507092Z | [open](records/rust-crossbeam-channel-c2b52a92.md) |
-| crossbeam-deque | Rust | Filesystem Os | 0.8.8 | 2026-09-05T17:47:08.254122Z | [open](records/rust-crossbeam-deque-5d3c8d71.md) |
-| crossbeam-epoch | Rust | Filesystem Os | 0.9.21 | 2026-09-05T17:46:49.471801Z | [open](records/rust-crossbeam-epoch-b0e6b898.md) |
-| crossbeam-queue | Rust | Message Broker | 0.3.14 | 2026-09-05T17:46:34.288577Z | [open](records/rust-crossbeam-queue-6ce25da7.md) |
-| crossbeam-utils | Rust | Filesystem Os | 0.8.23 | 2026-09-05T17:46:14.665751Z | [open](records/rust-crossbeam-utils-30ad0372.md) |
-| dirs | Rust | Language Specification | 7.0.0 | 2026-09-05T17:32:15.811659Z | [open](records/rust-dirs-0725b651.md) |
-| bindgen | Rust | Ffi Bindings | 0.73.1 | 2026-09-05T17:25:52.826923Z | [open](records/rust-bindgen-355a5568.md) |
-| logger | Dart | Logging Observability | 2.8.0 | 2026-09-05T17:20:29.963495Z | [open](records/dart-logger-1d289d0f.md) |
-| testing-conventions | Node.js/TypeScript | Type Checker | 0.0.119 | 2026-09-05T15:41:24.383Z | [open](records/node-js-typescript-testing-conventions-a7bae5cf.md) |
 
 ## Unknown Reasons
 

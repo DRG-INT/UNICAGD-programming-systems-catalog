@@ -10,17 +10,17 @@
 [Concurrency Parallelism (92)](by-category/concurrency-parallelism.md) · [Configuration (130)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (176)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (894)](by-category/database-datastore.md) · [Datetime (233)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (102)](by-category/dependency-manager.md) · [Documentation (106)](by-category/documentation.md)
-[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (457)](by-category/ffi-bindings.md) · [Filesystem Os (1610)](by-category/filesystem-os.md) · [Formatter (648)](by-category/formatter.md)
+[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (457)](by-category/ffi-bindings.md) · [Filesystem Os (1611)](by-category/filesystem-os.md) · [Formatter (648)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (356)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1463)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (273)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (30)](by-category/language-server.md) · [Language Specification (1440)](by-category/language-specification.md) · [Library (5713)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (529)](by-category/logging-observability.md) · [Machine Learning (794)](by-category/machine-learning.md)
+[Language Server (30)](by-category/language-server.md) · [Language Specification (1440)](by-category/language-specification.md) · [Library (5716)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (530)](by-category/logging-observability.md) · [Machine Learning (794)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1040)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1193)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (308)](by-category/precommit-ci-quality.md)
+[Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1194)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (308)](by-category/precommit-ci-quality.md)
 [Profiler (87)](by-category/profiler.md) · [Project Scaffolding (133)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
-[Security Sast (336)](by-category/security-sast.md) · [Serialization (397)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (620)](by-category/static-analyzer.md)
+[Security Sast (336)](by-category/security-sast.md) · [Serialization (397)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (621)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (607)](by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](by-category/tutorial-book-styleguide.md) · [Type Checker (313)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1618)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (557)](by-category/visualization-gui.md) · [Web Framework (477)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1618)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (558)](by-category/visualization-gui.md) · [Web Framework (477)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -1065,6 +1065,7 @@
 | `cran_packages_by_date-25db34a4c6d28a` | PRISMA2020 | [open](records/r-prisma2020-99359283.md) |
 | `cran_packages_by_date-25dc9a5189bc4c` | PRA | [open](records/r-pra-3b950abe.md) |
 | `cran_packages_by_date-25e4768c50e6cd` | term | [open](records/r-term-92f157dc.md) |
+| `cran_packages_by_date-26104562d84fce` | BiostatsUHNplus | [open](records/r-biostatsuhnplus-1879ff59.md) |
 | `cran_packages_by_date-261486fdd68bf1` | sfa | [open](records/r-sfa-1e69fae8.md) |
 | `cran_packages_by_date-2627d09c07313f` | AsyPeer | [open](records/r-asypeer-c6321edf.md) |
 | `cran_packages_by_date-265989c5edebc7` | eiIT | [open](records/r-eiit-fe794b8d.md) |
@@ -1076,6 +1077,7 @@
 | `cran_packages_by_date-26b430b4a7e37e` | nat.nblast | [open](records/r-nat-nblast-46ad6118.md) |
 | `cran_packages_by_date-26c1c80f79475b` | sims | [open](records/r-sims-43649431.md) |
 | `cran_packages_by_date-26ddaa6138d7d4` | phonics | [open](records/r-phonics-4c3448f6.md) |
+| `cran_packages_by_date-26ed7750298766` | saeproj.multilevel | [open](records/r-saeproj-multilevel-92a012c6.md) |
 | `cran_packages_by_date-27089f9602ee2b` | wikiprofiler | [open](records/r-wikiprofiler-c478bc70.md) |
 | `cran_packages_by_date-273df106ce8bb6` | evoFE | [open](records/r-evofe-21bb898e.md) |
 | `cran_packages_by_date-282de0117b0c48` | rankingQ | [open](records/r-rankingq-dcabb7ee.md) |
@@ -1123,6 +1125,7 @@
 | `cran_packages_by_date-2ec4d51120e3da` | eulerr | [open](records/r-eulerr-c769d78e.md) |
 | `cran_packages_by_date-2ee570a2b89bb4` | TreeMineR | [open](records/r-treeminer-601ea7a0.md) |
 | `cran_packages_by_date-2f11eac671a08d` | envnames | [open](records/r-envnames-bb1ac672.md) |
+| `cran_packages_by_date-2f317e27575306` | opencis | [open](records/r-opencis-57145d52.md) |
 | `cran_packages_by_date-2f333d7b9d2a48` | distributions3 | [open](records/r-distributions3-51b5a036.md) |
 | `cran_packages_by_date-2f3a87a2ace6eb` | stringfish | [open](records/r-stringfish-d0711b33.md) |
 | `cran_packages_by_date-2f52f0d260e25b` | dsdp | [open](records/r-dsdp-3362b407.md) |
@@ -1177,6 +1180,7 @@
 | `cran_packages_by_date-35e031f56a51f5` | linf | [open](records/r-linf-fb151a95.md) |
 | `cran_packages_by_date-3611e433da2f3a` | weightflow | [open](records/r-weightflow-33ea0642.md) |
 | `cran_packages_by_date-3616c0fb1129d6` | eigencore | [open](records/r-eigencore-f3582b39.md) |
+| `cran_packages_by_date-3630412077a63d` | rsurvstat | [open](records/r-rsurvstat-cc12ad97.md) |
 | `cran_packages_by_date-363d9188edf0f4` | rstantools | [open](records/r-rstantools-9906cc46.md) |
 | `cran_packages_by_date-366f4f822305fd` | mx.crypto | [open](records/r-mx-crypto-b14a1d72.md) |
 | `cran_packages_by_date-3674a1f0d812bb` | Deriv | [open](records/r-deriv-4aef35c3.md) |
@@ -1682,6 +1686,7 @@
 | `cran_packages_by_date-7e2aaae13addb6` | mwana | [open](records/r-mwana-39842d32.md) |
 | `cran_packages_by_date-7e75b949c0b5c6` | immundata | [open](records/r-immundata-d9bb0b0d.md) |
 | `cran_packages_by_date-7eca25f0755fb6` | K4Siswa | [open](records/r-k4siswa-e3d668ea.md) |
+| `cran_packages_by_date-7ecf2502a344fe` | BAwiR | [open](records/r-bawir-8eab7e7b.md) |
 | `cran_packages_by_date-7edf11736ddc43` | imuGAP | [open](records/r-imugap-ee3c6f14.md) |
 | `cran_packages_by_date-7f0ca909877cdb` | ClassifyITS | [open](records/r-classifyits-9d0d3143.md) |
 | `cran_packages_by_date-7f21e8ec80854e` | deltabreedquery | [open](records/r-deltabreedquery-613651ce.md) |
@@ -1689,6 +1694,7 @@
 | `cran_packages_by_date-7f73a39984502c` | trend | [open](records/r-trend-26b91420.md) |
 | `cran_packages_by_date-7f8029e8737a1e` | iop | [open](records/r-iop-424a648e.md) |
 | `cran_packages_by_date-7fb1771bcc63b3` | filearray | [open](records/r-filearray-5c03636a.md) |
+| `cran_packages_by_date-7fbfefa57daa97` | Opportunistic | [open](records/r-opportunistic-941e7fa9.md) |
 | `cran_packages_by_date-7fecefa9ba0849` | tanner | [open](records/r-tanner-99dfc021.md) |
 | `cran_packages_by_date-7fef30be0aefc8` | ggthemes | [open](records/r-ggthemes-d19d474f.md) |
 | `cran_packages_by_date-80518942fd13ed` | heims | [open](records/r-heims-9499322e.md) |
@@ -16919,6 +16925,7 @@
 | `hackage_recent-36f4a9a68d187b` | ktx-font | [open](records/haskell-ktx-font-8c048a63.md) |
 | `hackage_recent-37353658c3dd2d` | hsinstall | [open](records/haskell-hsinstall-b4fd04ed.md) |
 | `hackage_recent-3b809eae641976` | htalkat | [open](records/haskell-htalkat-763c1531.md) |
+| `hackage_recent-3dac3a6b541303` | dtmc | [open](records/haskell-dtmc-cfd2fdd2.md) |
 | `hackage_recent-3df5a920067541` | keid-render-basic | [open](records/haskell-keid-render-basic-d12c2edc.md) |
 | `hackage_recent-4307de4136b7d8` | clash-lib-hedgehog | [open](records/haskell-clash-lib-hedgehog-09e86036.md) |
 | `hackage_recent-431c8c491f22e0` | clash-lib | [open](records/haskell-clash-lib-284f93bb.md) |
@@ -16941,6 +16948,7 @@
 | `hackage_recent-7b9b3700445a16` | kb-text-layout | [open](records/haskell-kb-text-layout-134bb424.md) |
 | `hackage_recent-7ca8ee413152ad` | clash-prelude | [open](records/haskell-clash-prelude-3e80017c.md) |
 | `hackage_recent-7e6eeb91445d92` | aihc-parser | [open](records/haskell-aihc-parser-d88ae54b.md) |
+| `hackage_recent-7fb296138f6590` | keid-ui-dearimgui | [open](records/haskell-keid-ui-dearimgui-db02e01b.md) |
 | `hackage_recent-82bc8074a430e2` | hylolib | [open](records/haskell-hylolib-4239adb4.md) |
 | `hackage_recent-85b70f81457859` | tricorder-mcp | [open](records/haskell-tricorder-mcp-95664038.md) |
 | `hackage_recent-8f02f0b40516b7` | ephemeral-pg | [open](records/haskell-ephemeral-pg-bde54662.md) |
