@@ -18,7 +18,7 @@ Records: `442`
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (29)](language-server.md) · [Language Specification (1437)](language-specification.md) · [Library (5691)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (528)](logging-observability.md) · [Machine Learning (792)](machine-learning.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (528)](logging-observability.md) · [Machine Learning (793)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1037)](networking-http.md)
 [Other (14)](other.md) · **[Package Manager (442)](package-manager.md)** · [Parser Lexer Ast (1189)](parser-lexer-ast.md) · [Precommit Ci Quality (307)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -359,7 +359,7 @@ Records: `442`
 | AndrewAnnex/asap_stereo | partial | 2026-07-23T21:49:02Z | [open](../records/space-maps-andrewannex-asap-stereo-37cce249.md) |
 | athob/py-ananke | partial | 2026-08-10T23:30:51Z | [open](../records/space-maps-athob-py-ananke-ac3b22bc.md) |
 | bysiber/cleardisk | partial | 2026-09-03T08:45:20Z | [open](../records/space-maps-bysiber-cleardisk-83f43fa2.md) |
-| cybatron0/the-kardashev | partial | 2026-08-14T12:00:51Z | [open](../records/space-maps-cybatron0-the-kardashev-90ca95ea.md) |
+| cybatron0/the-kardashev | partial | 2026-09-06T05:47:08Z | [open](../records/space-maps-cybatron0-the-kardashev-90ca95ea.md) |
 | daddykev/stardust-distro | partial | 2025-09-03T23:13:59Z | [open](../records/space-maps-daddykev-stardust-distro-1e09e701.md) |
 | daddykev/stardust-dsp | partial | 2025-09-03T18:15:54Z | [open](../records/space-maps-daddykev-stardust-dsp-ad11bf31.md) |
 | NeelPatra/Micro-Cap-12-Archive | partial | 2026-01-11T06:50:17Z | [open](../records/space-maps-neelpatra-micro-cap-12-archive-cb3664f9.md) |

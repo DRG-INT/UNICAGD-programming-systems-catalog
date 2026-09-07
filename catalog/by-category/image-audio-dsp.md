@@ -18,7 +18,7 @@ Records: `438`
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
 **[Image Audio Dsp (438)](image-audio-dsp.md)** · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (29)](language-server.md) · [Language Specification (1437)](language-specification.md) · [Library (5691)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (528)](logging-observability.md) · [Machine Learning (792)](machine-learning.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (528)](logging-observability.md) · [Machine Learning (793)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1037)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1189)](parser-lexer-ast.md) · [Precommit Ci Quality (307)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -366,7 +366,7 @@ Records: `438`
 | OxygenCobalt/Auxio | partial | 2026-08-30T15:18:59Z | [open](../records/audio-oxygencobalt-auxio-c078449a.md) |
 | pavel-demin/red-pitaya-notes | partial | 2026-08-29T19:11:52Z | [open](../records/audio-pavel-demin-red-pitaya-notes-e5be73d9.md) |
 | philburk/jsyn | partial | 2025-09-04T17:43:20Z | [open](../records/audio-philburk-jsyn-78aebd02.md) |
-| pion/webrtc | partial | 2026-09-06T21:58:29Z | [open](../records/audio-pion-webrtc-aa742b2d.md) |
+| pion/webrtc | partial | 2026-09-07T02:08:23Z | [open](../records/audio-pion-webrtc-aa742b2d.md) |
 | PipeWire | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-pipewire-00d8ecfd.md) |
 | PortAudio | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-portaudio-40a7f336.md) |
 | prayash/audio-dsp | partial | 2019-09-25T02:10:56Z | [open](../records/audio-prayash-audio-dsp-bf2ee321.md) |
@@ -394,7 +394,7 @@ Records: `438`
 | SuperKogito/spafe | partial | 2025-03-20T16:16:12Z | [open](../records/audio-superkogito-spafe-354360b4.md) |
 | surge-synthesizer/surge | partial | 2026-09-03T14:51:30Z | [open](../records/audio-surge-synthesizer-surge-87b5aeea.md) |
 | swasun/VQ-VAE-Speech | partial | 2019-08-13T08:18:37Z | [open](../records/audio-swasun-vq-vae-speech-68327a4e.md) |
-| SynthstromAudible/DelugeFirmware | partial | 2026-09-06T23:56:19Z | [open](../records/audio-synthstromaudible-delugefirmware-4c834ea8.md) |
+| SynthstromAudible/DelugeFirmware | partial | 2026-09-07T02:04:18Z | [open](../records/audio-synthstromaudible-delugefirmware-4c834ea8.md) |
 | thesofproject/sof | partial | 2026-09-04T12:32:59Z | [open](../records/audio-thesofproject-sof-05fedbf2.md) |
 | tiagolr/ripplerx | partial | 2026-08-13T12:36:29Z | [open](../records/audio-tiagolr-ripplerx-36b38906.md) |
 | unevens/Curvessor | partial | 2026-05-27T04:30:13Z | [open](../records/audio-unevens-curvessor-1be4a246.md) |

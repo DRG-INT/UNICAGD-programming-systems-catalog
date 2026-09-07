@@ -18,7 +18,7 @@ Records: `2408`
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (356)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1462)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (273)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
 [Language Server (29)](../by-category/language-server.md) · [Language Specification (1437)](../by-category/language-specification.md) · [Library (5691)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (528)](../by-category/logging-observability.md) · [Machine Learning (792)](../by-category/machine-learning.md)
+[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (528)](../by-category/logging-observability.md) · [Machine Learning (793)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1037)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1189)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (307)](../by-category/precommit-ci-quality.md)
 [Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
@@ -2377,7 +2377,7 @@ Records: `2408`
 | [react-test-renderer](../records/node-js-javascript-react-test-renderer-47974c24.md) | 19.2.8 | 2026-07-21T15:42:09.248Z | registry-derived |
 | [redux-mock-store](../records/node-js-javascript-redux-mock-store-df1c30d3.md) | 1.5.5 | 2024-10-21T11:57:48.526Z | registry-derived |
 | [redux-saga-testing](../records/node-js-javascript-redux-saga-testing-ef2e9f57.md) | 2.0.2 | 2022-02-12T12:00:06.780Z | registry-derived |
-| [reg-cli](../records/node-js-javascript-reg-cli-7dcec4f2.md) | 0.19.0-rc2 | 2026-09-05T12:23:02.140Z | registry-derived |
+| [reg-cli](../records/node-js-javascript-reg-cli-7dcec4f2.md) | 0.19.0-rc3 | 2026-09-07T01:38:20.667Z | registry-derived |
 | [relay-test-utils](../records/node-js-javascript-relay-test-utils-4eaeabd8.md) | 21.0.1 | 2026-05-27T16:56:48.458Z | registry-derived |
 | [rxjs-marbles](../records/node-js-javascript-rxjs-marbles-fc95f407.md) | 7.0.1 | 2021-07-13T11:30:36.270Z | registry-derived |
 | [simple-is](../records/node-js-javascript-simple-is-855ba6e7.md) | 0.2.0 | 2013-04-21T10:46:51.962Z | registry-derived |

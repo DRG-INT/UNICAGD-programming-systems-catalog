@@ -18,7 +18,7 @@ Records: `647`
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (29)](language-server.md) · [Language Specification (1437)](language-specification.md) · [Library (5691)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (528)](logging-observability.md) · [Machine Learning (792)](machine-learning.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (528)](logging-observability.md) · [Machine Learning (793)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1037)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1189)](parser-lexer-ast.md) · [Precommit Ci Quality (307)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -538,7 +538,7 @@ Records: `647`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-07T00:53:45Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-07T02:11:35Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-06T16:08:20Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -760,7 +760,7 @@ Records: `647`
 | catrujilla/pyDHM | partial | 2025-09-16T21:49:38Z | [open](../records/microscopy-catrujilla-pydhm-45508b54.md) |
 | cgohlke/roifile | partial | 2026-07-30T01:48:11Z | [open](../records/microscopy-cgohlke-roifile-2f114ba6.md) |
 | Euro-BioImaging/BatchConvert | partial | 2025-03-14T10:23:22Z | [open](../records/microscopy-euro-bioimaging-batchconvert-38646f25.md) |
-| fideus-labs/ngff-zarr | partial | 2026-09-05T23:06:27Z | [open](../records/microscopy-fideus-labs-ngff-zarr-384efdbf.md) |
+| fideus-labs/ngff-zarr | partial | 2026-09-06T17:15:02Z | [open](../records/microscopy-fideus-labs-ngff-zarr-384efdbf.md) |
 | imaging-formats/ome-types | partial | 2026-04-02T01:45:48Z | [open](../records/microscopy-imaging-formats-ome-types-d7936d3b.md) |
 | pymmcore-plus/ome-writers | partial | 2026-07-01T11:25:58Z | [open](../records/microscopy-pymmcore-plus-ome-writers-2a308f87.md) |
 
@@ -900,7 +900,7 @@ Records: `647`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| alasca.cloud/tarook/tarook | partial | 2026-09-04T12:02:43.388Z | [open](../records/repository-workplaces-alasca-cloud-tarook-tarook-a7045027.md) |
+| alasca.cloud/tarook/tarook | partial | 2026-09-07T01:08:18.300Z | [open](../records/repository-workplaces-alasca-cloud-tarook-tarook-a7045027.md) |
 | CircuitSwan/hacker-con-birds-of-a-feather | partial | 2026-05-30T16:12:06.527Z | [open](../records/repository-workplaces-circuitswan-hacker-con-birds-of-a-feather-c3c74363.md) |
 | Gitea: deathrashed/Icons | partial | 2026-01-25T12:18:00Z | [open](../records/repository-workplaces-gitea-deathrashed-icons-f8903c51.md) |
 | gitlab-org/cves | partial | 2026-09-04T18:03:00.818Z | [open](../records/repository-workplaces-gitlab-org-cves-82f80fbe.md) |

@@ -18,7 +18,7 @@ Records: `1462`
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · **[Ide Editor Integration (1462)](ide-editor-integration.md)**
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (29)](language-server.md) · [Language Specification (1437)](language-specification.md) · [Library (5691)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (528)](logging-observability.md) · [Machine Learning (792)](machine-learning.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (528)](logging-observability.md) · [Machine Learning (793)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1037)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1189)](parser-lexer-ast.md) · [Precommit Ci Quality (307)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -683,7 +683,7 @@ Records: `1462`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AlexsJones/llmfit | partial | 2026-09-07T00:55:08Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
+| AlexsJones/llmfit | partial | 2026-09-07T02:09:02Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
 | can1357/oh-my-pi | partial | 2026-09-07T00:49:41Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-05T16:04:02Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-05T14:38:26Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
@@ -1079,7 +1079,7 @@ Records: `1462`
 | haasn/libplacebo | partial | 2026-09-03T19:13:12Z | [open](../records/video-haasn-libplacebo-801cca80.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-04T08:30:00Z | [open](../records/video-harry0703-moneyprinterturbo-b29c8cda.md) |
 | HeiSir2014/M3U8-Downloader | partial | 2025-03-19T15:28:29Z | [open](../records/video-heisir2014-m3u8-downloader-23d9af39.md) |
-| heygen-com/hyperframes | partial | 2026-09-07T01:19:13Z | [open](../records/video-heygen-com-hyperframes-39e19bfa.md) |
+| heygen-com/hyperframes | partial | 2026-09-07T02:12:37Z | [open](../records/video-heygen-com-hyperframes-39e19bfa.md) |
 | HUANGCHIHHUNGLeo/claude-real-video | partial | 2026-08-31T09:21:45Z | [open](../records/video-huangchihhungleo-claude-real-video-3b18d05b.md) |
 | Hunlongyu/ZY-Player | partial | 2023-02-09T06:33:07Z | [open](../records/video-hunlongyu-zy-player-c74fadea.md) |
 | hybridgroup/gocv | partial | 2026-05-28T08:16:03Z | [open](../records/video-hybridgroup-gocv-daa4c904.md) |
@@ -1106,7 +1106,7 @@ Records: `1462`
 | kunkundi/minirtc | partial | 2026-09-02T17:54:32Z | [open](../records/video-kunkundi-minirtc-8361058d.md) |
 | kuzand/Computer-Vision-Video-Lectures | partial | 2021-05-15T10:49:30Z | [open](../records/video-kuzand-computer-vision-video-lectures-43294b93.md) |
 | lagmoellertim/unsilence | partial | 2023-03-28T04:57:13Z | [open](../records/video-lagmoellertim-unsilence-d47dc940.md) |
-| Lake1059/FFmpegFreeUI | partial | 2026-09-06T14:41:30Z | [open](../records/video-lake1059-ffmpegfreeui-881ebe0f.md) |
+| Lake1059/FFmpegFreeUI | partial | 2026-09-07T01:41:38Z | [open](../records/video-lake1059-ffmpegfreeui-881ebe0f.md) |
 | Laverna/laverna | partial | 2021-05-30T22:18:41Z | [open](../records/video-laverna-laverna-22c712d2.md) |
 | leandromoreira/digital_video_introduction | partial | 2026-09-02T21:43:42Z | [open](../records/video-leandromoreira-digital-video-introduction-2ec5ca3b.md) |
 | leandromoreira/ffmpeg-libav-tutorial | partial | 2026-06-18T14:18:13Z | [open](../records/video-leandromoreira-ffmpeg-libav-tutorial-e71d8bef.md) |
@@ -1162,7 +1162,7 @@ Records: `1462`
 | owncast/owncast | partial | 2026-09-05T17:14:03Z | [open](../records/video-owncast-owncast-b3a35889.md) |
 | ozmartian/vidcutter | partial | 2025-04-24T10:12:36Z | [open](../records/video-ozmartian-vidcutter-1ee0d3b1.md) |
 | paulpacifico/shutter-encoder | partial | 2026-09-02T08:49:17Z | [open](../records/video-paulpacifico-shutter-encoder-30ff5e80.md) |
-| pion/webrtc | partial | 2026-09-06T21:58:29Z | [open](../records/video-pion-webrtc-db831169.md) |
+| pion/webrtc | partial | 2026-09-07T02:08:23Z | [open](../records/video-pion-webrtc-db831169.md) |
 | pouyaardehkhani/VCC | partial | 2026-02-24T21:02:02Z | [open](../records/video-pouyaardehkhani-vcc-e4bf4f37.md) |
 | prouast/heartbeat | partial | 2026-03-02T04:39:18Z | [open](../records/video-prouast-heartbeat-a2923779.md) |
 | qTox/qTox | partial | 2025-02-16T14:21:41Z | [open](../records/video-qtox-qtox-a43b9736.md) |
@@ -1212,7 +1212,7 @@ Records: `1462`
 | yulunzhang/video-enhancement | partial | 2020-12-22T19:54:01Z | [open](../records/video-yulunzhang-video-enhancement-cbcba9ea.md) |
 | Yummypets/YPImagePicker | partial | 2026-07-28T15:57:49Z | [open](../records/video-yummypets-ypimagepicker-35ecffe5.md) |
 | yzfly/douyin-mcp-server | partial | 2026-07-02T07:21:26Z | [open](../records/video-yzfly-douyin-mcp-server-dba7fa62.md) |
-| zhouxiaoka/autoclip | partial | 2026-09-06T18:41:39Z | [open](../records/video-zhouxiaoka-autoclip-2744e349.md) |
+| zhouxiaoka/autoclip | partial | 2026-09-07T01:45:25Z | [open](../records/video-zhouxiaoka-autoclip-2744e349.md) |
 | zhw2590582/ArtPlayer | partial | 2026-08-31T09:01:42Z | [open](../records/video-zhw2590582-artplayer-d1200d15.md) |
 | ZoneMinder/zoneminder | partial | 2026-09-06T22:15:03Z | [open](../records/video-zoneminder-zoneminder-cc978238.md) |
 | Zulko/moviepy | partial | 2026-08-26T06:17:08Z | [open](../records/video-zulko-moviepy-acb13e7f.md) |

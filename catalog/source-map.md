@@ -14,7 +14,7 @@
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (356)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1462)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (273)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
 [Language Server (29)](by-category/language-server.md) · [Language Specification (1437)](by-category/language-specification.md) · [Library (5691)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (528)](by-category/logging-observability.md) · [Machine Learning (792)](by-category/machine-learning.md)
+[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (528)](by-category/logging-observability.md) · [Machine Learning (793)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1037)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1189)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (307)](by-category/precommit-ci-quality.md)
 [Profiler (87)](by-category/profiler.md) · [Project Scaffolding (133)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
@@ -13846,6 +13846,7 @@
 | `github_search_space_maps-4799652a98d28e` | sherpa/sherpa | [open](records/space-maps-sherpa-sherpa-9f2278ff.md) |
 | `github_search_space_maps-47b3fa1e99275f` | skypyproject/skypy | [open](records/space-maps-skypyproject-skypy-17100f66.md) |
 | `github_search_space_maps-47fa79cea64429` | JouleCai/geospacelab | [open](records/space-maps-joulecai-geospacelab-4066a81a.md) |
+| `github_search_space_maps-4873df2b56d433` | RonTheRentalCop/Dirtlets | [open](records/space-maps-rontherentalcop-dirtlets-a42969ea.md) |
 | `github_search_space_maps-48e5e5df26f16e` | MarkWieczorek/ctplanet | [open](records/space-maps-markwieczorek-ctplanet-5a02ee6d.md) |
 | `github_search_space_maps-4912b27c0f1833` | smirik/mercury | [open](records/space-maps-smirik-mercury-5941480a.md) |
 | `github_search_space_maps-4959bca214bcc4` | mattarvon/doom-planet | [open](records/space-maps-mattarvon-doom-planet-ea97d63c.md) |

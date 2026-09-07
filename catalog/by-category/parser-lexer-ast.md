@@ -18,7 +18,7 @@ Records: `1189`
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (29)](language-server.md) · [Language Specification (1437)](language-specification.md) · [Library (5691)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (528)](logging-observability.md) · [Machine Learning (792)](machine-learning.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (528)](logging-observability.md) · [Machine Learning (793)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1037)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · **[Parser Lexer Ast (1189)](parser-lexer-ast.md)** · [Precommit Ci Quality (307)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -613,7 +613,7 @@ Records: `1189`
 | go.gary.cool/diecast | v1.17.35 | 2026-08-30T14:10:05.638889Z | [open](../records/go-go-gary-cool-diecast-e5dd52c7.md) |
 | gogf/gf | partial | 2026-09-04T03:14:29Z | [open](../records/go-gogf-gf-cf9bbe8f.md) |
 | gomods/athens | partial | 2026-09-06T15:54:48Z | [open](../records/go-gomods-athens-5ff0b837.md) |
-| GopeedLab/gopeed | partial | 2026-09-07T00:24:22Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
+| GopeedLab/gopeed | partial | 2026-09-07T01:24:07Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
 | gravitational/teleport | partial | 2026-09-03T09:44:53Z | [open](../records/go-gravitational-teleport-6a32fe26.md) |
 | HyNetworks/hysteria | partial | 2026-09-06T19:05:37Z | [open](../records/go-hynetworks-hysteria-6f37132d.md) |
 | kovidgoyal/kitty | partial | 2026-09-06T21:27:34Z | [open](../records/go-kovidgoyal-kitty-9cff0795.md) |
@@ -644,9 +644,9 @@ Records: `1189`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AstrBotDevs/AstrBot | partial | 2026-09-07T00:38:05Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
-| HKUDS/LightRAG | partial | 2026-09-06T22:37:14Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
-| labring/FastGPT | partial | 2026-09-06T18:30:38Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
+| AstrBotDevs/AstrBot | partial | 2026-09-07T02:04:04Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
+| HKUDS/LightRAG | partial | 2026-09-07T02:00:18Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
+| labring/FastGPT | partial | 2026-09-07T01:48:41Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Computer Graphics Software
 

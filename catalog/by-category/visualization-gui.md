@@ -18,7 +18,7 @@ Records: `556`
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (29)](language-server.md) · [Language Specification (1437)](language-specification.md) · [Library (5691)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (528)](logging-observability.md) · [Machine Learning (792)](machine-learning.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (528)](logging-observability.md) · [Machine Learning (793)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1037)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1189)](parser-lexer-ast.md) · [Precommit Ci Quality (307)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -521,7 +521,7 @@ Records: `556`
 | jeffreymorganio/d3-space-filler-explorer | partial | 2020-08-14T18:14:55Z | [open](../records/space-maps-jeffreymorganio-d3-space-filler-explorer-f28a7443.md) |
 | JohnEdChristensen/WebbCompare | partial | 2024-03-01T22:17:38Z | [open](../records/space-maps-johnedchristensen-webbcompare-b5185f13.md) |
 | jrenaud90/TidalPy | partial | 2026-09-02T21:59:51Z | [open](../records/space-maps-jrenaud90-tidalpy-0ffb4285.md) |
-| KDE/filelight | partial | 2026-09-04T00:07:58Z | [open](../records/space-maps-kde-filelight-548ef1de.md) |
+| KDE/filelight | partial | 2026-09-06T02:30:31Z | [open](../records/space-maps-kde-filelight-548ef1de.md) |
 | kevincon/utilityknife | partial | 2023-05-02T03:56:38Z | [open](../records/space-maps-kevincon-utilityknife-0060e5b5.md) |
 | kitanokitsune/gEDA-WIN | partial | 2018-07-31T13:51:54Z | [open](../records/space-maps-kitanokitsune-geda-win-cc03a86d.md) |
 | Machines-of-Disruption/latent-tools | partial | 2026-01-14T11:40:17Z | [open](../records/space-maps-machines-of-disruption-latent-tools-db46bfde.md) |
@@ -531,7 +531,7 @@ Records: `556`
 | NASA WorldWind | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-maps-nasa-worldwind-a55955ab.md) |
 | nasa/mission-viz | partial | 2022-05-16T12:43:36Z | [open](../records/space-maps-nasa-mission-viz-b5c49a99.md) |
 | plamere/SpotifyPopcorn | partial | 2014-06-11T06:36:59Z | [open](../records/space-maps-plamere-spotifypopcorn-a6d66b03.md) |
-| polyaxon/haupt | partial | 2026-09-04T11:47:32Z | [open](../records/space-maps-polyaxon-haupt-4be0ae10.md) |
+| polyaxon/haupt | partial | 2026-09-05T10:03:39Z | [open](../records/space-maps-polyaxon-haupt-4be0ae10.md) |
 | PyLCARS/PySpiceExamples | partial | 2018-05-08T06:24:55Z | [open](../records/space-maps-pylcars-pyspiceexamples-51fcedc2.md) |
 | PyLCARS/Python-and-SPICE-Book | partial | 2021-01-28T07:51:03Z | [open](../records/space-maps-pylcars-python-and-spice-book-8f806ac6.md) |
 | PySpice-org/PySpice | partial | 2026-09-03T21:17:17Z | [open](../records/space-maps-pyspice-org-pyspice-c1dbd4c9.md) |
@@ -593,7 +593,7 @@ Records: `556`
 | dwhinham/mt32-pi | partial | 2025-02-04T22:46:21Z | [open](../records/audio-dwhinham-mt32-pi-7a87163b.md) |
 | jatinchowdhury18/Bad-Circuit-Modelling | partial | 2020-12-08T20:46:46Z | [open](../records/audio-jatinchowdhury18-bad-circuit-modelling-c65762b2.md) |
 | jatinchowdhury18/KlonCentaur | partial | 2021-09-30T04:26:33Z | [open](../records/audio-jatinchowdhury18-kloncentaur-2ceba457.md) |
-| Lake1059/FFmpegFreeUI | partial | 2026-09-06T14:41:30Z | [open](../records/audio-lake1059-ffmpegfreeui-be2fb128.md) |
+| Lake1059/FFmpegFreeUI | partial | 2026-09-07T01:41:38Z | [open](../records/audio-lake1059-ffmpegfreeui-be2fb128.md) |
 | monomadic/dd-core | partial | 2019-01-14T07:21:52Z | [open](../records/audio-monomadic-dd-core-a1124514.md) |
 | pierreguillot/Camomile | partial | 2024-02-26T10:06:47Z | [open](../records/audio-pierreguillot-camomile-eeeac032.md) |
 | pschatzmann/arduino-audio-tools | partial | 2026-09-06T16:05:32Z | [open](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) |

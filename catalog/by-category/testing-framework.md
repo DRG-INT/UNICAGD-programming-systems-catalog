@@ -18,7 +18,7 @@ Records: `607`
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (29)](language-server.md) · [Language Specification (1437)](language-specification.md) · [Library (5691)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (528)](logging-observability.md) · [Machine Learning (792)](machine-learning.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (528)](logging-observability.md) · [Machine Learning (793)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1037)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1189)](parser-lexer-ast.md) · [Precommit Ci Quality (307)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -350,7 +350,7 @@ Records: `607`
 | react-test-renderer | 19.2.8 | 2026-07-21T15:42:09.248Z | [open](../records/node-js-javascript-react-test-renderer-47974c24.md) |
 | redux-mock-store | 1.5.5 | 2024-10-21T11:57:48.526Z | [open](../records/node-js-javascript-redux-mock-store-df1c30d3.md) |
 | redux-saga-testing | 2.0.2 | 2022-02-12T12:00:06.780Z | [open](../records/node-js-javascript-redux-saga-testing-ef2e9f57.md) |
-| reg-cli | 0.19.0-rc2 | 2026-09-05T12:23:02.140Z | [open](../records/node-js-javascript-reg-cli-7dcec4f2.md) |
+| reg-cli | 0.19.0-rc3 | 2026-09-07T01:38:20.667Z | [open](../records/node-js-javascript-reg-cli-7dcec4f2.md) |
 | relay-test-utils | 21.0.1 | 2026-05-27T16:56:48.458Z | [open](../records/node-js-javascript-relay-test-utils-4eaeabd8.md) |
 | rxjs-marbles | 7.0.1 | 2021-07-13T11:30:36.270Z | [open](../records/node-js-javascript-rxjs-marbles-fc95f407.md) |
 | simple-is | 0.2.0 | 2013-04-21T10:46:51.962Z | [open](../records/node-js-javascript-simple-is-855ba6e7.md) |

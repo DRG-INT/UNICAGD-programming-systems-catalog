@@ -18,7 +18,7 @@ Records: `1606`
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (29)](language-server.md) · [Language Specification (1437)](language-specification.md) · [Library (5691)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (528)](logging-observability.md) · [Machine Learning (792)](machine-learning.md)
+[Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (528)](logging-observability.md) · [Machine Learning (793)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1037)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1189)](parser-lexer-ast.md) · [Precommit Ci Quality (307)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -573,7 +573,7 @@ Records: `1606`
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-08-30T15:02:19Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-07T01:04:36Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-07T02:05:44Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -1132,7 +1132,7 @@ Records: `1606`
 | protyposis/Spectaculum | partial | 2024-02-21T09:28:30Z | [open](../records/effects-protyposis-spectaculum-fcac9d0d.md) |
 | QianMo/X-PostProcessing-Library | partial | 2023-07-14T17:42:11Z | [open](../records/effects-qianmo-x-postprocessing-library-3834f7d5.md) |
 | radoslawregula/reverb-algorithms | partial | 2020-02-09T11:12:27Z | [open](../records/effects-radoslawregula-reverb-algorithms-0f4a1d2f.md) |
-| ralgar/vkShade | partial | 2026-09-06T23:00:40Z | [open](../records/effects-ralgar-vkshade-027f2833.md) |
+| ralgar/vkShade | partial | 2026-09-07T01:51:13Z | [open](../records/effects-ralgar-vkshade-027f2833.md) |
 | rcalixte/awesome-wayland | partial | 2026-08-30T19:00:18Z | [open](../records/effects-rcalixte-awesome-wayland-4cc39bd2.md) |
 | robclouth/noise-canvas | partial | 2026-08-25T09:29:49Z | [open](../records/effects-robclouth-noise-canvas-171ca6d8.md) |
 | rockbite/talos | partial | 2026-08-18T11:17:42Z | [open](../records/effects-rockbite-talos-07105463.md) |
@@ -1313,7 +1313,7 @@ Records: `1606`
 | wsl2ls/iOS_Tips | partial | 2022-08-28T19:02:32Z | [open](../records/photography-wsl2ls-ios-tips-4b0e1ffa.md) |
 | Yummypets/YPImagePicker | partial | 2026-07-28T15:57:49Z | [open](../records/photography-yummypets-ypimagepicker-25854b52.md) |
 | zapdos-labs/unblink | partial | 2026-03-09T09:42:25Z | [open](../records/photography-zapdos-labs-unblink-0845b1a9.md) |
-| zidage/AlcedoStudio | partial | 2026-09-07T01:14:16Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
+| zidage/AlcedoStudio | partial | 2026-09-07T01:26:15Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
 
 ## Microscopy
 
@@ -1331,17 +1331,17 @@ Records: `1606`
 | axondeepseg/axondeepseg | partial | 2026-09-03T16:15:43Z | [open](../records/microscopy-axondeepseg-axondeepseg-0c2875c8.md) |
 | bioio-devs/bioio | partial | 2026-08-23T00:03:14Z | [open](../records/microscopy-bioio-devs-bioio-ca180c94.md) |
 | Biomedical-Imaging-Group/DeconvolutionLab2 | partial | 2019-03-09T16:40:03Z | [open](../records/microscopy-biomedical-imaging-group-deconvolutionlab2-5bd46987.md) |
-| brainglobe/brainglobe-atlasapi | partial | 2026-09-04T18:54:35Z | [open](../records/microscopy-brainglobe-brainglobe-atlasapi-1ee7f7d0.md) |
+| brainglobe/brainglobe-atlasapi | partial | 2026-09-06T19:33:49Z | [open](../records/microscopy-brainglobe-brainglobe-atlasapi-1ee7f7d0.md) |
 | brainglobe/brainreg | partial | 2026-09-02T13:19:22Z | [open](../records/microscopy-brainglobe-brainreg-71a0b5b3.md) |
 | brainglobe/cellfinder | partial | 2026-08-22T06:31:08Z | [open](../records/microscopy-brainglobe-cellfinder-159009dc.md) |
 | chiahao3/ptyrad | partial | 2026-08-07T02:53:15Z | [open](../records/microscopy-chiahao3-ptyrad-cbe12e50.md) |
-| computational-cell-analytics/micro-sam | partial | 2026-09-06T13:37:23Z | [open](../records/microscopy-computational-cell-analytics-micro-sam-82fdbfce.md) |
+| computational-cell-analytics/micro-sam | partial | 2026-09-06T23:08:40Z | [open](../records/microscopy-computational-cell-analytics-micro-sam-82fdbfce.md) |
 | computational-imaging/ThreeDeconv.jl | partial | 2022-02-09T16:34:42Z | [open](../records/microscopy-computational-imaging-threedeconv-jl-df595b65.md) |
 | cytomining/cytominer | partial | 2024-05-08T14:11:57Z | [open](../records/microscopy-cytomining-cytominer-c603fed1.md) |
 | cytomining/pycytominer | partial | 2026-09-04T16:07:02Z | [open](../records/microscopy-cytomining-pycytominer-f61cb1dc.md) |
 | dancsalo/TensorFlow-MIL | partial | 2020-08-24T19:46:19Z | [open](../records/microscopy-dancsalo-tensorflow-mil-823d26d9.md) |
 | david-hoffman/pyotf | partial | 2024-04-08T20:58:26Z | [open](../records/microscopy-david-hoffman-pyotf-f47c74b0.md) |
-| deepinv/deepinv | partial | 2026-09-06T14:07:27Z | [open](../records/microscopy-deepinv-deepinv-59141df0.md) |
+| deepinv/deepinv | partial | 2026-09-06T17:55:03Z | [open](../records/microscopy-deepinv-deepinv-59141df0.md) |
 | delmic/odemis | partial | 2026-09-03T14:26:23Z | [open](../records/microscopy-delmic-odemis-64e6d3c9.md) |
 | fairscope/PlanktoScope | partial | 2026-09-04T19:13:04Z | [open](../records/microscopy-fairscope-planktoscope-9189e5a9.md) |
 | google-research/sofima | partial | 2026-08-06T15:10:50Z | [open](../records/microscopy-google-research-sofima-72568ecb.md) |
@@ -1375,7 +1375,7 @@ Records: `1606`
 | pymontecarlo/pymontecarlo | partial | 2022-01-16T17:02:44Z | [open](../records/microscopy-pymontecarlo-pymontecarlo-376c3fcd.md) |
 | PytorchConnectomics/pytorch_connectomics | partial | 2026-09-04T04:59:41Z | [open](../records/microscopy-pytorchconnectomics-pytorch-connectomics-6aa6d39f.md) |
 | raacampbell/openstage | partial | 2021-04-17T17:24:46Z | [open](../records/microscopy-raacampbell-openstage-800e84a5.md) |
-| rapidsai/cucim | partial | 2026-09-03T16:07:50Z | [open](../records/microscopy-rapidsai-cucim-6fd9f972.md) |
+| rapidsai/cucim | partial | 2026-09-07T02:00:44Z | [open](../records/microscopy-rapidsai-cucim-6fd9f972.md) |
 | royerlab/cytoself | partial | 2025-08-05T18:46:40Z | [open](../records/microscopy-royerlab-cytoself-b2dff824.md) |
 | rwb27/openflexure_microscope | partial | 2019-04-30T15:12:38Z | [open](../records/microscopy-rwb27-openflexure-microscope-9f4f36b7.md) |
 | scalableminds/webknossos | partial | 2026-09-04T19:00:11Z | [open](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) |

@@ -18,7 +18,7 @@ Records: `308`
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (356)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1462)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (273)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
 [Language Server (29)](../by-category/language-server.md) · [Language Specification (1437)](../by-category/language-specification.md) · [Library (5691)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (528)](../by-category/logging-observability.md) · [Machine Learning (792)](../by-category/machine-learning.md)
+[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (528)](../by-category/logging-observability.md) · [Machine Learning (793)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1037)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1189)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (307)](../by-category/precommit-ci-quality.md)
 [Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
@@ -303,7 +303,7 @@ Records: `308`
 | [pret/pokeyellow](../records/assembly-pret-pokeyellow-f91bcc26.md) | partial | 2026-09-02T15:25:06Z | registry-derived |
 | [PrincetonUniversity/openpiton](../records/assembly-princetonuniversity-openpiton-eceb776d.md) | partial | 2026-02-25T17:35:46Z | registry-derived |
 | [RandalLinden/DOOM-FX](../records/assembly-randallinden-doom-fx-76b45172.md) | partial | 2022-06-19T18:26:02Z | registry-derived |
-| [Rangi42/polishedcrystal](../records/assembly-rangi42-polishedcrystal-55bf1d37.md) | partial | 2026-09-06T21:23:09Z | registry-derived |
+| [Rangi42/polishedcrystal](../records/assembly-rangi42-polishedcrystal-55bf1d37.md) | partial | 2026-09-07T02:08:47Z | registry-derived |
 | [repnz/snax86](../records/assembly-repnz-snax86-f1eddbbc.md) | partial | 2018-10-18T01:53:44Z | registry-derived |
 | [ReturnInfinity/BareMetal](../records/assembly-returninfinity-baremetal-0b151ed8.md) | partial | 2026-06-12T19:06:32Z | registry-derived |
 | [ReturnInfinity/BareMetal-OS-legacy](../records/assembly-returninfinity-baremetal-os-legacy-09317d7c.md) | partial | 2017-11-20T15:29:43Z | registry-derived |

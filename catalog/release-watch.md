@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-07T01:20:26+00:00`
+Generated: `2026-09-07T02:24:11+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -16,7 +16,7 @@ Generated: `2026-09-07T01:20:26+00:00`
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (356)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1462)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (273)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
 [Language Server (29)](by-category/language-server.md) · [Language Specification (1437)](by-category/language-specification.md) · [Library (5691)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (528)](by-category/logging-observability.md) · [Machine Learning (792)](by-category/machine-learning.md)
+[Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (528)](by-category/logging-observability.md) · [Machine Learning (793)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1037)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1189)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (307)](by-category/precommit-ci-quality.md)
 [Profiler (87)](by-category/profiler.md) · [Project Scaffolding (133)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
@@ -29,12 +29,13 @@ Generated: `2026-09-07T01:20:26+00:00`
 | State | Count |
 | --- | ---: |
 | Known stable release | 10194 |
-| Unknown stable release | 17323 |
+| Unknown stable release | 17324 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| reg-cli | Node.js/JavaScript | Testing Framework | 0.19.0-rc3 | 2026-09-07T01:38:20.667Z | [open](records/node-js-javascript-reg-cli-7dcec4f2.md) |
 | flutter_foreground_task | Dart | Library | 11.0.3 | 2026-09-07T00:30:23.171199Z | [open](records/dart-flutter-foreground-task-0774b21a.md) |
 | hhp | Haskell | Library | 1.0.5 | 2026-09-06T22:13:38Z | [open](records/haskell-hhp-f30f7714.md) |
 | @nuxt/nitro-server-nightly | Node.js/JavaScript | Web Framework | 4.6.0-29812184.803a5038 | 2026-09-06T21:44:58.251Z | [open](records/node-js-javascript-nuxt-nitro-server-nightly-4efe1726.md) |
@@ -147,7 +148,6 @@ Generated: `2026-09-07T01:20:26+00:00`
 | @ottocode/database | Node.js/JavaScript | Database Datastore | 0.1.413 | 2026-09-05T13:43:32.581Z | [open](records/node-js-javascript-ottocode-database-e1edbc5d.md) |
 | system-testing | Node.js/JavaScript | Testing Framework | 1.0.136 | 2026-09-05T13:18:05.282Z | [open](records/node-js-javascript-system-testing-fb3acaec.md) |
 | @remotion/studio-server | Node.js/JavaScript | Web Framework | 4.0.521 | 2026-09-05T13:16:57.745Z | [open](records/node-js-javascript-remotion-studio-server-ed620dc3.md) |
-| reg-cli | Node.js/JavaScript | Testing Framework | 0.19.0-rc2 | 2026-09-05T12:23:02.140Z | [open](records/node-js-javascript-reg-cli-7dcec4f2.md) |
 | pest_derive | Rust | Library | 2.9.1 | 2026-09-05T12:15:00.810433Z | [open](records/rust-pest-derive-d019fac2.md) |
 | pest_generator | Rust | Library | 2.9.1 | 2026-09-05T12:14:28.314693Z | [open](records/rust-pest-generator-ef593a90.md) |
 | pest_meta | Rust | Language Specification | 2.9.1 | 2026-09-05T12:13:28.189357Z | [open](records/rust-pest-meta-e75f5ce6.md) |
@@ -290,7 +290,7 @@ Generated: `2026-09-07T01:20:26+00:00`
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 9687 |
+| gh_search_reports_activity_not_release_version | 9688 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |

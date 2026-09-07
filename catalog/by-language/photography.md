@@ -18,7 +18,7 @@ Records: `596`
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (356)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1462)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (273)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
 [Language Server (29)](../by-category/language-server.md) · [Language Specification (1437)](../by-category/language-specification.md) · [Library (5691)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (528)](../by-category/logging-observability.md) · [Machine Learning (792)](../by-category/machine-learning.md)
+[Lint Rule Pack (48)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (528)](../by-category/logging-observability.md) · [Machine Learning (793)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1037)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1189)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (307)](../by-category/precommit-ci-quality.md)
 [Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
@@ -79,7 +79,7 @@ Records: `596`
 | [rawnly/splash-cli](../records/photography-rawnly-splash-cli-1dd2a2b8.md) | partial | 2026-05-23T21:42:43Z | registry-derived |
 | [TheZoraiz/ascii-image-converter](../records/photography-thezoraiz-ascii-image-converter-b3f9e40a.md) | partial | 2024-04-14T19:34:21Z | registry-derived |
 | [wszqkzqk/live-photo-conv](../records/photography-wszqkzqk-live-photo-conv-27ae8acd.md) | partial | 2026-09-04T08:38:55Z | registry-derived |
-| [yurijmikhalevich/rclip](../records/photography-yurijmikhalevich-rclip-b2be5c3a.md) | partial | 2026-09-07T01:17:08Z | registry-derived |
+| [yurijmikhalevich/rclip](../records/photography-yurijmikhalevich-rclip-b2be5c3a.md) | partial | 2026-09-07T02:21:55Z | registry-derived |
 
 ### Community Reference
 
@@ -235,7 +235,7 @@ Records: `596`
 | [wsl2ls/iOS_Tips](../records/photography-wsl2ls-ios-tips-4b0e1ffa.md) | partial | 2022-08-28T19:02:32Z | registry-derived |
 | [Yummypets/YPImagePicker](../records/photography-yummypets-ypimagepicker-25854b52.md) | partial | 2026-07-28T15:57:49Z | registry-derived |
 | [zapdos-labs/unblink](../records/photography-zapdos-labs-unblink-0845b1a9.md) | partial | 2026-03-09T09:42:25Z | registry-derived |
-| [zidage/AlcedoStudio](../records/photography-zidage-alcedostudio-7b939307.md) | partial | 2026-09-07T01:14:16Z | registry-derived |
+| [zidage/AlcedoStudio](../records/photography-zidage-alcedostudio-7b939307.md) | partial | 2026-09-07T01:26:15Z | registry-derived |
 
 ### Formatter
 
