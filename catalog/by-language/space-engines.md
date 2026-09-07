@@ -32,7 +32,7 @@ Records: `157`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ansys/pystk](../records/space-engines-ansys-pystk-98082b8f.md) | partial | 2026-09-07T05:59:45Z | registry-derived |
+| [ansys/pystk](../records/space-engines-ansys-pystk-98082b8f.md) | partial | 2026-09-07T15:24:30Z | registry-derived |
 
 ### Benchmarking
 
@@ -188,7 +188,7 @@ Records: `157`
 | [jonnyhyman/PyBurn](../records/space-engines-jonnyhyman-pyburn-6c49c451.md) | partial | 2017-09-26T21:09:32Z | registry-derived |
 | [kyleniemeyer/gas-dynamics-notes](../records/space-engines-kyleniemeyer-gas-dynamics-notes-88f66440.md) | partial | 2026-07-29T22:00:09Z | registry-derived |
 | [kyleniemeyer/rocket-propulsion](../records/space-engines-kyleniemeyer-rocket-propulsion-880f0ccd.md) | partial | 2026-07-29T17:41:03Z | registry-derived |
-| [LoicViennois/KSP-DeltaV-Planner](../records/space-engines-loicviennois-ksp-deltav-planner-2a9f4275.md) | partial | 2026-09-06T13:16:47Z | registry-derived |
+| [LoicViennois/KSP-DeltaV-Planner](../records/space-engines-loicviennois-ksp-deltav-planner-2a9f4275.md) | partial | 2026-09-07T16:52:27Z | registry-derived |
 | [nmisyats/KSP-MGA-Planner](../records/space-engines-nmisyats-ksp-mga-planner-5c02c9bb.md) | partial | 2026-06-08T16:41:24Z | registry-derived |
 | [podgorskiy/KeplerOrbits](../records/space-engines-podgorskiy-keplerorbits-bce5842d.md) | partial | 2023-04-02T23:28:28Z | registry-derived |
 | [RocketPy-Team/RocketPy](../records/space-engines-rocketpy-team-rocketpy-dc6ba7fb.md) | partial | 2026-08-24T20:24:28Z | registry-derived |
@@ -228,7 +228,7 @@ Records: `157`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [CS-SI/Orekit](../records/space-engines-cs-si-orekit-d91fca95.md) | partial | 2026-09-07T05:07:34Z | registry-derived |
+| [CS-SI/Orekit](../records/space-engines-cs-si-orekit-d91fca95.md) | partial | 2026-09-07T15:45:22Z | registry-derived |
 
 ### Package Manager
 
@@ -242,8 +242,8 @@ Records: `157`
 | --- | --- | --- | --- |
 | [Arrowstar/ksptot](../records/space-engines-arrowstar-ksptot-0193b8c4.md) | partial | 2026-08-31T15:11:17Z | registry-derived |
 | [astrobook/astrobook](../records/space-engines-astrobook-astrobook-4e0cfd1d.md) | partial | 2021-02-19T07:33:04Z | registry-derived |
-| [Astroshaper/AsteroidThermoPhysicalModels.jl](../records/space-engines-astroshaper-asteroidthermophysicalmodels-jl-eb43557a.md) | partial | 2026-09-07T08:47:23Z | registry-derived |
-| [AVSLab/basilisk](../records/space-engines-avslab-basilisk-a5a20349.md) | partial | 2026-09-07T11:07:55Z | registry-derived |
+| [Astroshaper/AsteroidThermoPhysicalModels.jl](../records/space-engines-astroshaper-asteroidthermophysicalmodels-jl-eb43557a.md) | partial | 2026-09-07T15:01:15Z | registry-derived |
+| [AVSLab/basilisk](../records/space-engines-avslab-basilisk-a5a20349.md) | partial | 2026-09-07T15:33:40Z | registry-derived |
 | [bluescarni/piranha](../records/space-engines-bluescarni-piranha-892e8cb6.md) | partial | 2022-07-06T14:41:33Z | registry-derived |
 | [ChristopherRabotin/smd](../records/space-engines-christopherrabotin-smd-2ab7a76e.md) | partial | 2018-01-18T01:07:09Z | registry-derived |
 | [cisprague/Astro.IQ](../records/space-engines-cisprague-astro-iq-88ee2214.md) | partial | 2022-06-26T08:19:19Z | registry-derived |
@@ -253,7 +253,7 @@ Records: `157`
 | [duncaneddy/brahe](../records/space-engines-duncaneddy-brahe-7ee764e2.md) | partial | 2026-09-07T09:56:11Z | registry-derived |
 | [esa/dSGP4](../records/space-engines-esa-dsgp4-8c05d97f.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [esa/pykep](../records/space-engines-esa-pykep-de004d6c.md) | partial | 2026-07-07T09:10:12Z | registry-derived |
-| [GalacticDynamics/galax](../records/space-engines-galacticdynamics-galax-d1c9094c.md) | partial | 2026-09-01T21:55:24Z | registry-derived |
+| [GalacticDynamics/galax](../records/space-engines-galacticdynamics-galax-d1c9094c.md) | partial | 2026-09-07T15:50:22Z | registry-derived |
 | [gberrante/map_3d](../records/space-engines-gberrante-map-3d-291724c2.md) | partial | 2026-09-04T06:50:37Z | registry-derived |
 | [gunvirranu/perturb](../records/space-engines-gunvirranu-perturb-e116c98e.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [helgee/Astrodynamics.jl](../records/space-engines-helgee-astrodynamics-jl-8635d55e.md) | partial | 2024-02-26T11:44:11Z | registry-derived |

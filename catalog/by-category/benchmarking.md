@@ -142,7 +142,7 @@ Records: `200`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| milvus-io/milvus | partial | 2026-09-07T12:27:30Z | [open](../records/aim-s-milvus-io-milvus-54ee327d.md) |
+| milvus-io/milvus | partial | 2026-09-07T17:15:32Z | [open](../records/aim-s-milvus-io-milvus-54ee327d.md) |
 
 ## Computer Graphics Software
 
@@ -347,7 +347,7 @@ Records: `200`
 | --- | --- | --- | --- |
 | jnk0le/cortexm-AES | partial | 2026-06-03T21:28:25Z | [open](../records/assembly-jnk0le-cortexm-aes-78225991.md) |
 | PaddlePaddle/FlyCV | partial | 2023-06-02T02:43:47Z | [open](../records/assembly-paddlepaddle-flycv-f974ea6f.md) |
-| RRZE-HPC/likwid | partial | 2026-08-19T14:16:28Z | [open](../records/assembly-rrze-hpc-likwid-da26554d.md) |
+| RRZE-HPC/likwid | partial | 2026-09-07T16:40:10Z | [open](../records/assembly-rrze-hpc-likwid-da26554d.md) |
 
 ## Pattern language
 
@@ -398,7 +398,7 @@ Records: `200`
 | akopytov/sysbench | partial | 2025-03-09T16:27:25Z | [open](../records/databases-akopytov-sysbench-030eed13.md) |
 | AnghelLeonard/Hibernate-SpringBoot | partial | 2026-03-25T11:30:34Z | [open](../records/databases-anghelleonard-hibernate-springboot-ad555e27.md) |
 | brettwooldridge/HikariCP | partial | 2026-06-14T21:05:22Z | [open](../records/databases-brettwooldridge-hikaricp-4189650c.md) |
-| ClickHouse/ClickBench | partial | 2026-09-04T05:42:56Z | [open](../records/databases-clickhouse-clickbench-3cbfaabf.md) |
+| ClickHouse/ClickBench | partial | 2026-09-07T14:06:16Z | [open](../records/databases-clickhouse-clickbench-3cbfaabf.md) |
 | cnosdb/cnosdb | partial | 2025-09-26T07:27:53Z | [open](../records/databases-cnosdb-cnosdb-5480514a.md) |
 | dgraph-io/dgraph | partial | 2026-09-04T18:54:58Z | [open](../records/databases-dgraph-io-dgraph-d8a0cd12.md) |
 | dromara/easy-query | partial | 2026-08-27T09:21:23Z | [open](../records/databases-dromara-easy-query-b3c029c2.md) |

@@ -682,7 +682,7 @@ Records: `457`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| duckdb/duckdb-rs | partial | 2026-09-02T16:21:34Z | [open](../records/databases-duckdb-duckdb-rs-3bc8e1ae.md) |
+| duckdb/duckdb-rs | partial | 2026-09-07T14:59:49Z | [open](../records/databases-duckdb-duckdb-rs-3bc8e1ae.md) |
 | electric-sql/pglite | partial | 2026-08-26T18:35:11Z | [open](../records/databases-electric-sql-pglite-aaa8e71d.md) |
 | geldata/gel-python | partial | 2025-11-06T02:05:16Z | [open](../records/databases-geldata-gel-python-70c815ca.md) |
 | Koka/odbc-rs | partial | 2024-08-07T20:26:24Z | [open](../records/databases-koka-odbc-rs-22556c1f.md) |
@@ -691,7 +691,7 @@ Records: `457`
 | mongodb/node-mongodb-native | partial | 2026-09-01T13:45:46Z | [open](../records/databases-mongodb-node-mongodb-native-de777c0a.md) |
 | oracle/docker-images | partial | 2026-08-31T15:37:38Z | [open](../records/databases-oracle-docker-images-69ec5f43.md) |
 | parthsarthi03/raptor | partial | 2024-09-03T08:34:31Z | [open](../records/databases-parthsarthi03-raptor-aabfb858.md) |
-| pixelsdb/pixels | partial | 2026-09-03T06:01:06Z | [open](../records/databases-pixelsdb-pixels-36b88ea6.md) |
+| pixelsdb/pixels | partial | 2026-09-07T10:38:10Z | [open](../records/databases-pixelsdb-pixels-36b88ea6.md) |
 | SOCI/soci | partial | 2026-09-03T00:14:49Z | [open](../records/databases-soci-soci-d7c36c2b.md) |
 | sqlitebrowser/sqlitebrowser | partial | 2026-09-04T00:31:51Z | [open](../records/databases-sqlitebrowser-sqlitebrowser-30722f99.md) |
 | trinodb/trino | partial | 2026-09-07T08:26:36Z | [open](../records/databases-trinodb-trino-b6fa58b4.md) |

@@ -774,8 +774,8 @@ Records: `894`
 | Apache Superset | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-apache-superset-bf8e2bfc.md) |
 | apache/cassandra-gocql-driver | partial | 2026-07-28T10:40:38Z | [open](../records/databases-apache-cassandra-gocql-driver-13378c84.md) |
 | apache/cassandra-nodejs-driver | partial | 2026-08-19T17:50:48Z | [open](../records/databases-apache-cassandra-nodejs-driver-80b85a13.md) |
-| apache/datafusion | partial | 2026-09-04T04:09:53Z | [open](../records/databases-apache-datafusion-4e892e01.md) |
-| apache/doris | partial | 2026-09-07T06:20:16Z | [open](../records/databases-apache-doris-48052ae4.md) |
+| apache/datafusion | partial | 2026-09-07T17:11:50Z | [open](../records/databases-apache-datafusion-4e892e01.md) |
+| apache/doris | partial | 2026-09-07T14:41:42Z | [open](../records/databases-apache-doris-48052ae4.md) |
 | apache/iotdb | partial | 2026-09-01T14:20:30Z | [open](../records/databases-apache-iotdb-b6bf919e.md) |
 | apache/lucene | partial | 2026-09-01T14:45:06Z | [open](../records/databases-apache-lucene-85981dbd.md) |
 | apache/lucene-solr | partial | 2026-05-15T22:15:22Z | [open](../records/databases-apache-lucene-solr-fb225570.md) |
@@ -790,7 +790,7 @@ Records: `894`
 | baidu/tera | partial | 2024-06-05T12:31:05Z | [open](../records/databases-baidu-tera-d6493d61.md) |
 | baomidou/mybatis-plus | partial | 2026-08-03T06:30:48Z | [open](../records/databases-baomidou-mybatis-plus-ec3d66b0.md) |
 | Barman | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-barman-6455bec6.md) |
-| Basekick-Labs/arc | partial | 2026-09-04T03:34:09Z | [open](../records/databases-basekick-labs-arc-8d733223.md) |
+| Basekick-Labs/arc | partial | 2026-09-07T01:05:54Z | [open](../records/databases-basekick-labs-arc-8d733223.md) |
 | BemiHQ/BemiDB | partial | 2026-01-07T18:55:38Z | [open](../records/databases-bemihq-bemidb-44ac1af8.md) |
 | Berkeley DB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-berkeley-db-0e2bb933.md) |
 | Bigtable | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-bigtable-3d1796d9.md) |
@@ -814,7 +814,7 @@ Records: `894`
 | Cosmos DB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-cosmos-db-7ffbb419.md) |
 | couchbase/couchbase-lite-ios | partial | 2026-08-26T22:41:52Z | [open](../records/databases-couchbase-couchbase-lite-ios-6c0953f5.md) |
 | Count | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-count-4fee7662.md) |
-| crate/crate | partial | 2026-09-03T20:21:25Z | [open](../records/databases-crate-crate-20858887.md) |
+| crate/crate | partial | 2026-09-07T10:11:05Z | [open](../records/databases-crate-crate-20858887.md) |
 | Databasus | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-databasus-407b9343.md) |
 | databasus/databasus | partial | 2026-08-31T20:55:44Z | [open](../records/databases-databasus-databasus-921e4121.md) |
 | databendlabs/databend | partial | 2026-09-02T10:08:10Z | [open](../records/databases-databendlabs-databend-be0cfdcc.md) |
@@ -836,7 +836,7 @@ Records: `894`
 | dragonflydb/dragonfly | partial | 2026-09-07T08:11:47Z | [open](../records/databases-dragonflydb-dragonfly-fdf6559c.md) |
 | drizzle-team/drizzle-orm | partial | 2026-09-01T23:17:48Z | [open](../records/databases-drizzle-team-drizzle-orm-70f57054.md) |
 | DuckDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-duckdb-88d17aa9.md) |
-| duckdb/duckdb | partial | 2026-09-07T08:20:27Z | [open](../records/databases-duckdb-duckdb-654530e3.md) |
+| duckdb/duckdb | partial | 2026-09-07T17:10:10Z | [open](../records/databases-duckdb-duckdb-654530e3.md) |
 | dunwu/db-tutorial | partial | 2024-10-08T23:22:25Z | [open](../records/databases-dunwu-db-tutorial-30877982.md) |
 | DynamoDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-dynamodb-acb4fb75.md) |
 | ekzhang/inline-sql | partial | 2024-02-17T00:50:09Z | [open](../records/databases-ekzhang-inline-sql-ee200d25.md) |
@@ -924,7 +924,7 @@ Records: `894`
 | Mintplex-Labs/vector-admin | partial | 2025-04-15T20:40:32Z | [open](../records/databases-mintplex-labs-vector-admin-90dbe9c3.md) |
 | MongoDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-mongodb-c5c57340.md) |
 | mongodb/mongo | partial | 2026-09-07T07:57:40Z | [open](../records/databases-mongodb-mongo-277cd77e.md) |
-| mongodb/mongo-cxx-driver | partial | 2026-09-03T18:53:04Z | [open](../records/databases-mongodb-mongo-cxx-driver-457d57a9.md) |
+| mongodb/mongo-cxx-driver | partial | 2026-09-04T12:49:11Z | [open](../records/databases-mongodb-mongo-cxx-driver-457d57a9.md) |
 | mouredev/hello-sql | partial | 2025-03-31T17:05:09Z | [open](../records/databases-mouredev-hello-sql-0b090060.md) |
 | msiemens/tinydb | partial | 2026-08-10T18:34:35Z | [open](../records/databases-msiemens-tinydb-137ac34b.md) |
 | MySQL | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-mysql-42cb893b.md) |
@@ -932,7 +932,7 @@ Records: `894`
 | namidb/namidb | partial | 2026-08-31T10:09:45Z | [open](../records/databases-namidb-namidb-fb55fbd1.md) |
 | Neo4j | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-neo4j-7f075077.md) |
 | neo4j/neo4j | partial | 2026-08-24T16:47:42Z | [open](../records/databases-neo4j-neo4j-1651d75a.md) |
-| neo4j/neo4j-dotnet-driver | partial | 2026-09-03T15:54:26Z | [open](../records/databases-neo4j-neo4j-dotnet-driver-17b0523b.md) |
+| neo4j/neo4j-dotnet-driver | partial | 2026-09-07T11:09:41Z | [open](../records/databases-neo4j-neo4j-dotnet-driver-17b0523b.md) |
 | neo4j/neo4j-go-driver | partial | 2026-07-09T09:00:01Z | [open](../records/databases-neo4j-neo4j-go-driver-8a74d04c.md) |
 | neo4j/neo4j-python-driver | partial | 2026-09-04T07:41:20Z | [open](../records/databases-neo4j-neo4j-python-driver-99f0ef58.md) |
 | Neon | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-neon-79b7afe1.md) |
@@ -944,7 +944,7 @@ Records: `894`
 | NGT-labs/NGT | partial | 2026-09-01T02:04:32Z | [open](../records/databases-ngt-labs-ngt-a5cc3d67.md) |
 | NirDiamant/RAG_Techniques | partial | 2026-08-29T08:59:28Z | [open](../records/databases-nirdiamant-rag-techniques-836fe306.md) |
 | nitrite/nitrite-java | partial | 2026-08-31T19:32:00Z | [open](../records/databases-nitrite-nitrite-java-5d05a2a7.md) |
-| oceanbase/oceanbase | partial | 2026-09-04T01:01:05Z | [open](../records/databases-oceanbase-oceanbase-8d26f652.md) |
+| oceanbase/oceanbase | partial | 2026-09-05T01:00:33Z | [open](../records/databases-oceanbase-oceanbase-8d26f652.md) |
 | ODBC | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-odbc-00ecc2f5.md) |
 | OmniPITR | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-omnipitr-bc5ebaae.md) |
 | Ontos-AI/knowhere | partial | 2026-09-02T04:44:41Z | [open](../records/databases-ontos-ai-knowhere-fbe4c98b.md) |
@@ -952,7 +952,7 @@ Records: `894`
 | OrientDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-orientdb-e982c06d.md) |
 | oxnr/awesome-bigdata | partial | 2026-07-31T12:51:12Z | [open](../records/databases-oxnr-awesome-bigdata-a2984bc7.md) |
 | p6spy/p6spy | partial | 2022-02-21T16:46:12Z | [open](../records/databases-p6spy-p6spy-2c3d2ab8.md) |
-| paradedb/paradedb | partial | 2026-09-04T06:22:23Z | [open](../records/databases-paradedb-paradedb-f07ab96f.md) |
+| paradedb/paradedb | partial | 2026-09-07T08:55:38Z | [open](../records/databases-paradedb-paradedb-f07ab96f.md) |
 | paradedb/pg_analytics | partial | 2025-03-19T19:27:38Z | [open](../records/databases-paradedb-pg-analytics-ff29ad8d.md) |
 | pg-backups-to-s3 | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pg-backups-to-s3-b4127439.md) |
 | pg_auto_failover | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pg-auto-failover-b89050b0.md) |
@@ -1002,7 +1002,7 @@ Records: `894`
 | SeaQL/sea-orm | partial | 2026-08-25T05:39:54Z | [open](../records/databases-seaql-sea-orm-dfb42d06.md) |
 | Sequel-Ace/Sequel-Ace | partial | 2026-09-03T06:04:36Z | [open](../records/databases-sequel-ace-sequel-ace-204510b1.md) |
 | sequelpro/sequelpro | partial | 2023-02-25T08:11:30Z | [open](../records/databases-sequelpro-sequelpro-433a9d9f.md) |
-| serenedb/serenedb | partial | 2026-09-04T06:15:16Z | [open](../records/databases-serenedb-serenedb-f826e3f9.md) |
+| serenedb/serenedb | partial | 2026-09-07T16:41:44Z | [open](../records/databases-serenedb-serenedb-f826e3f9.md) |
 | SkywalkerDarren/chatWeb | partial | 2026-05-25T16:56:25Z | [open](../records/databases-skywalkerdarren-chatweb-13dcdc64.md) |
 | softace/sqliteodbc | partial | 2024-03-08T11:54:04Z | [open](../records/databases-softace-sqliteodbc-4afb4159.md) |
 | Solr | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-solr-fd4071dc.md) |

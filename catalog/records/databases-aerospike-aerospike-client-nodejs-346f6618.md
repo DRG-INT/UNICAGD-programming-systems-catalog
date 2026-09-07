@@ -32,7 +32,7 @@ of service communication, clients/servers, protocol handling, and edge integrati
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-03T21:18:30Z | gh search repos topic:database-driver stars:>50 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-04T20:19:31Z | gh search repos topic:database-driver stars:>50 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -40,7 +40,7 @@ of service communication, clients/servers, protocol handling, and edge integrati
 | Field | Value |
 | --- | --- |
 | Detected family | Apache-2.0 |
-| Evidence | Other; Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
+| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
 | Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes
@@ -57,7 +57,7 @@ of service communication, clients/servers, protocol handling, and edge integrati
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-04 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:database-driver stars:>50", "retrieved": "2026-09-04", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-07 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:database-driver stars:>50", "retrieved": "2026-09-07", "status": "forge-cli-derived"}` |
 
 </details>
 

@@ -636,7 +636,7 @@ Records: `477`
 | 4ra1n/mysql-fake-server | partial | 2023-09-18T15:13:23Z | [open](../records/databases-4ra1n-mysql-fake-server-c9a98cb5.md) |
 | altairbow/django-db-connection-pool | partial | 2025-05-05T03:44:39Z | [open](../records/databases-altairbow-django-db-connection-pool-7cfa1326.md) |
 | apache/doris-mcp-server | partial | 2026-09-01T21:47:24Z | [open](../records/databases-apache-doris-mcp-server-111c3250.md) |
-| apecloud/myduckserver | partial | 2026-08-28T05:16:03Z | [open](../records/databases-apecloud-myduckserver-58eb334b.md) |
+| apecloud/myduckserver | partial | 2026-09-07T07:22:18Z | [open](../records/databases-apecloud-myduckserver-58eb334b.md) |
 | aws-solutions-library-samples/data-lakes-on-aws | partial | 2025-10-01T07:06:23Z | [open](../records/databases-aws-solutions-library-samples-data-lakes-on-aws-a6898912.md) |
 | boilingdata/boilstream | partial | 2026-07-03T11:38:01Z | [open](../records/databases-boilingdata-boilstream-8489b4c0.md) |
 | coollabsio/coolify | partial | 2026-09-03T06:21:27Z | [open](../records/databases-coollabsio-coolify-1bdaf4b8.md) |
@@ -647,7 +647,7 @@ Records: `477`
 | lionheart/django-pyodbc | partial | 2023-01-29T16:42:06Z | [open](../records/databases-lionheart-django-pyodbc-c6078181.md) |
 | neondatabase/neon | partial | 2026-08-31T11:03:14Z | [open](../records/databases-neondatabase-neon-3c375148.md) |
 | parse-community/parse-server | partial | 2026-09-03T00:13:59Z | [open](../records/databases-parse-community-parse-server-9d5b6dd7.md) |
-| pentaho/mondrian | partial | 2026-09-04T02:04:30Z | [open](../records/databases-pentaho-mondrian-2ee4c8b7.md) |
+| pentaho/mondrian | partial | 2026-09-07T02:03:29Z | [open](../records/databases-pentaho-mondrian-2ee4c8b7.md) |
 | pgrwl | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pgrwl-c69e3b71.md) |
 | repmgr | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-repmgr-a7902124.md) |
 | rpbouman/huey | partial | 2026-08-23T20:03:47Z | [open](../records/databases-rpbouman-huey-d6a66223.md) |

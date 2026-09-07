@@ -143,7 +143,7 @@ Records: `40`
 | --- | --- | --- | --- |
 | confluentinc/examples | partial | 2026-08-25T06:05:37Z | [open](../records/databases-confluentinc-examples-3b680d5c.md) |
 | kaiwaehner/hivemq-mqtt-tensorflow-kafka-realtime-iot-machine-learning-training-inference | partial | 2020-11-05T10:13:40Z | [open](../records/databases-kaiwaehner-hivemq-mqtt-tensorflow-kafka-realtime-iot-machine-learning-training-inference-56011b79.md) |
-| thingsboard/thingsboard-gateway | partial | 2026-09-03T10:07:53Z | [open](../records/databases-thingsboard-thingsboard-gateway-aa05e06b.md) |
+| thingsboard/thingsboard-gateway | partial | 2026-09-07T10:38:10Z | [open](../records/databases-thingsboard-thingsboard-gateway-aa05e06b.md) |
 
 ## Repository Workplaces
 

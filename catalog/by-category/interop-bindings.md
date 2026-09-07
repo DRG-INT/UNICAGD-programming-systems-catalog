@@ -185,5 +185,5 @@ Records: `62`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | mkleehammer/pyodbc | partial | 2026-06-06T22:06:03Z | [open](../records/databases-mkleehammer-pyodbc-1babb273.md) |
-| nanodbc/nanodbc | partial | 2026-09-04T05:36:02Z | [open](../records/databases-nanodbc-nanodbc-97a75e2a.md) |
+| nanodbc/nanodbc | partial | 2026-09-04T15:35:42Z | [open](../records/databases-nanodbc-nanodbc-97a75e2a.md) |
 | tomekw/hikari-cp | partial | 2026-06-16T15:20:38Z | [open](../records/databases-tomekw-hikari-cp-2e63717e.md) |

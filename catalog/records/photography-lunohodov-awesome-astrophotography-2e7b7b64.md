@@ -40,7 +40,7 @@ part of language tooling, code generation, static analysis, and source transform
 | Field | Value |
 | --- | --- |
 | Detected family | Other permissive |
-| Evidence | Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0 |
+| Evidence | CERN Open Hardware Licence Version 2 - Weakly Reciprocal; https://api.github.com/licenses/cern-ohl-w-2.0; {"key": "", "name": "", "url": ""}; Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0 |
 | Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes

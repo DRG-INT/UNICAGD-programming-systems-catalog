@@ -83,7 +83,7 @@ Records: `30`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| 3equalspi/Basilisk-flu-dyn-sim | partial | 2026-09-07T15:37:17Z | [open](../records/basilisk-3equalspi-basilisk-flu-dyn-sim-22764383.md) |
+| 3equalspi/Basilisk-flu-dyn-sim | partial | 2026-09-07T16:53:21Z | [open](../records/basilisk-3equalspi-basilisk-flu-dyn-sim-22764383.md) |
 
 ## Physics Engines
 

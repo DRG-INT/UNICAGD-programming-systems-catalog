@@ -904,7 +904,7 @@ Records: `1039`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| CS-SI/Orekit | partial | 2026-09-07T05:07:34Z | [open](../records/space-engines-cs-si-orekit-d91fca95.md) |
+| CS-SI/Orekit | partial | 2026-09-07T15:45:22Z | [open](../records/space-engines-cs-si-orekit-d91fca95.md) |
 
 ## Space Shuttles
 
@@ -959,7 +959,7 @@ Records: `1039`
 | apohl79/audiogridder | partial | 2024-07-31T08:38:20Z | [open](../records/audio-apohl79-audiogridder-b399a5d3.md) |
 | cvqluu/TDNN | partial | 2019-11-21T10:07:55Z | [open](../records/audio-cvqluu-tdnn-fb6a7ffe.md) |
 | drethage/speech-denoising-wavenet | partial | 2023-07-06T21:12:03Z | [open](../records/audio-drethage-speech-denoising-wavenet-dd81add3.md) |
-| FFmpeg/FFmpeg | partial | 2026-09-07T04:38:57Z | [open](../records/audio-ffmpeg-ffmpeg-e29098d1.md) |
+| FFmpeg/FFmpeg | partial | 2026-09-07T15:53:36Z | [open](../records/audio-ffmpeg-ffmpeg-e29098d1.md) |
 | hannesbraun/airwindows-lv2 | partial | 2025-11-27T12:32:25Z | [open](../records/audio-hannesbraun-airwindows-lv2-77a8604e.md) |
 | huckiyang/QuantumSpeech-QCNN | partial | 2023-01-22T16:06:05Z | [open](../records/audio-huckiyang-quantumspeech-qcnn-75d646b8.md) |
 | jtkim-kaist/Speech-enhancement | partial | 2019-06-14T14:15:05Z | [open](../records/audio-jtkim-kaist-speech-enhancement-2afa11e8.md) |
@@ -1263,8 +1263,8 @@ Records: `1039`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| aerospike/aerospike-client-nodejs | partial | 2026-09-03T21:18:30Z | [open](../records/databases-aerospike-aerospike-client-nodejs-346f6618.md) |
-| aerospike/aerospike-client-rust | partial | 2026-09-04T08:23:47Z | [open](../records/databases-aerospike-aerospike-client-rust-0981e978.md) |
+| aerospike/aerospike-client-nodejs | partial | 2026-09-04T20:19:31Z | [open](../records/databases-aerospike-aerospike-client-nodejs-346f6618.md) |
+| aerospike/aerospike-client-rust | partial | 2026-09-07T08:39:47Z | [open](../records/databases-aerospike-aerospike-client-rust-0981e978.md) |
 | awslabs/mountpoint-s3 | partial | 2026-09-02T11:16:31Z | [open](../records/databases-awslabs-mountpoint-s3-3f10c09d.md) |
 | Beekeeper Studio | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-beekeeper-studio-8debdaa3.md) |
 | beekeeper-studio/beekeeper-studio | partial | 2026-09-06T14:20:27Z | [open](../records/databases-beekeeper-studio-beekeeper-studio-a999ac61.md) |
@@ -1273,7 +1273,7 @@ Records: `1039`
 | crate/crate-python | partial | 2026-09-02T13:45:59Z | [open](../records/databases-crate-crate-python-62348f26.md) |
 | DataRow | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-datarow-011db1d2.md) |
 | dbeaver/dbeaver | partial | 2026-09-07T07:59:21Z | [open](../records/databases-dbeaver-dbeaver-fdc61e8a.md) |
-| dbkangaroo/kangaroo | partial | 2026-07-31T06:42:25Z | [open](../records/databases-dbkangaroo-kangaroo-cb5596c5.md) |
+| dbkangaroo/kangaroo | partial | 2026-09-05T08:10:39Z | [open](../records/databases-dbkangaroo-kangaroo-cb5596c5.md) |
 | DbVisualizer | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-dbvisualizer-dbc48ffe.md) |
 | deuxfleurs-org/garage | partial | 2026-08-28T00:25:53Z | [open](../records/databases-deuxfleurs-org-garage-0a48bdf5.md) |
 | geldata/gel-elixir | partial | 2026-02-20T22:42:45Z | [open](../records/databases-geldata-gel-elixir-a46bd8bb.md) |
@@ -1288,7 +1288,7 @@ Records: `1039`
 | pingcap/autoflow | partial | 2026-04-27T13:55:14Z | [open](../records/databases-pingcap-autoflow-1944f5ea.md) |
 | PyMySQL/PyMySQL | partial | 2026-08-18T09:00:54Z | [open](../records/databases-pymysql-pymysql-5d492d34.md) |
 | qdrant/qdrant-client | partial | 2026-09-02T10:20:12Z | [open](../records/databases-qdrant-qdrant-client-c2e262b3.md) |
-| Query-farm/httpserver | partial | 2026-08-30T16:13:16Z | [open](../records/databases-query-farm-httpserver-36ffb344.md) |
+| Query-farm/httpserver | partial | 2026-09-04T20:19:43Z | [open](../records/databases-query-farm-httpserver-36ffb344.md) |
 | SAP/go-hdb | partial | 2026-09-02T14:10:27Z | [open](../records/databases-sap-go-hdb-a1c93dee.md) |
 | SheetJS/sheetjs | partial | 2024-04-18T08:06:46Z | [open](../records/databases-sheetjs-sheetjs-8657dc9b.md) |
 | svenvc/P3 | partial | 2025-11-29T19:22:10Z | [open](../records/databases-svenvc-p3-2c71a4dc.md) |

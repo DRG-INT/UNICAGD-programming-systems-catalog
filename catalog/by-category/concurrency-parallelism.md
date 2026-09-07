@@ -246,8 +246,8 @@ Records: `91`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| apache/cloudberry | partial | 2026-09-03T16:59:03Z | [open](../records/databases-apache-cloudberry-5e9a8481.md) |
+| apache/cloudberry | partial | 2026-09-07T02:13:56Z | [open](../records/databases-apache-cloudberry-5e9a8481.md) |
 | dingodb/dingo | partial | 2026-07-10T11:13:29Z | [open](../records/databases-dingodb-dingo-78d057f3.md) |
 | pg\_probackup | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pg-probackup-e70f04d4.md) |
-| Pometry/Raphtory | partial | 2026-09-04T05:47:20Z | [open](../records/databases-pometry-raphtory-3352e434.md) |
+| Pometry/Raphtory | partial | 2026-09-07T16:46:51Z | [open](../records/databases-pometry-raphtory-3352e434.md) |
 | sogou/workflow | partial | 2026-08-10T10:20:51Z | [open](../records/databases-sogou-workflow-93ca580b.md) |

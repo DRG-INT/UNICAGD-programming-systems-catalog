@@ -75,7 +75,7 @@ Records: `37`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [3equalspi/Basilisk-flu-dyn-sim](../records/basilisk-3equalspi-basilisk-flu-dyn-sim-22764383.md) | partial | 2026-09-07T15:37:17Z | registry-derived |
+| [3equalspi/Basilisk-flu-dyn-sim](../records/basilisk-3equalspi-basilisk-flu-dyn-sim-22764383.md) | partial | 2026-09-07T16:53:21Z | registry-derived |
 
 ### Language Specification
 

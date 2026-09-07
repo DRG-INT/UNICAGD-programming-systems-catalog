@@ -409,7 +409,7 @@ Records: `1618`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bluenviron/mediamtx | partial | 2026-09-07T06:22:09Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
+| bluenviron/mediamtx | partial | 2026-09-07T17:03:18Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
 | dariubs/GoBooks | partial | 2026-07-13T16:08:02Z | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
 | eryajf/learning-weekly | partial | 2026-08-27T15:27:30Z | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
 | github.com/01org/isa-l | v2.22.0+incompatible | 2026-08-30T14:09:32.299469Z | [open](../records/go-github-com-01org-isa-l-8ef09eb2.md) |
@@ -1361,7 +1361,7 @@ Records: `1618`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | alexirae/unreal-audio-dsp-collection-UE5 | partial | 2026-06-27T21:05:39Z | [open](../records/effects-alexirae-unreal-audio-dsp-collection-ue5-a5ff9e29.md) |
-| aws-deadline/deadline-cloud | partial | 2026-09-07T06:44:28Z | [open](../records/effects-aws-deadline-deadline-cloud-9cbaa801.md) |
+| aws-deadline/deadline-cloud | partial | 2026-09-07T14:20:37Z | [open](../records/effects-aws-deadline-deadline-cloud-9cbaa801.md) |
 | benjojo/dubstep-data | partial | 2018-05-21T18:07:11Z | [open](../records/effects-benjojo-dubstep-data-f40ca662.md) |
 | BillyDM/awesome-audio-dsp | partial | 2026-08-20T03:10:10Z | [open](../records/effects-billydm-awesome-audio-dsp-a5cff982.md) |
 | braedonsaunders/openstudio | partial | 2026-05-13T23:00:35Z | [open](../records/effects-braedonsaunders-openstudio-43bdd073.md) |
@@ -1431,7 +1431,7 @@ Records: `1618`
 | cropsly/ffmpeg-android-java | partial | 2021-07-31T10:27:20Z | [open](../records/video-cropsly-ffmpeg-android-java-b9341efc.md) |
 | datarhei/restreamer | partial | 2026-05-22T06:57:59Z | [open](../records/video-datarhei-restreamer-ebfeeaad.md) |
 | doubleZ0108/Digital-Media-Technology-PKU | partial | 2022-02-04T14:32:32Z | [open](../records/video-doublez0108-digital-media-technology-pku-8ed0714e.md) |
-| FreeTubeApp/FreeTube | partial | 2026-09-07T11:51:36Z | [open](../records/video-freetubeapp-freetube-f7bd248f.md) |
+| FreeTubeApp/FreeTube | partial | 2026-09-07T16:51:38Z | [open](../records/video-freetubeapp-freetube-f7bd248f.md) |
 | getopenscreen/openscreen | partial | 2026-09-05T09:19:01Z | [open](../records/video-getopenscreen-openscreen-37ac0137.md) |
 | Hao0321/video-autopilot-kit | partial | 2026-08-27T15:00:28Z | [open](../records/video-hao0321-video-autopilot-kit-125cdf3e.md) |
 | Hubs-Foundation/hubs | partial | 2026-08-23T08:58:42Z | [open](../records/video-hubs-foundation-hubs-e3d5e722.md) |
@@ -1821,8 +1821,8 @@ Records: `1618`
 | mongodb/mongo-ruby-driver | partial | 2026-08-19T07:17:12Z | [open](../records/databases-mongodb-mongo-ruby-driver-094f2530.md) |
 | orneryd/NornicDB | partial | 2026-09-02T01:17:20Z | [open](../records/databases-orneryd-nornicdb-5e8fdc92.md) |
 | rom-rb/rom | partial | 2026-01-15T10:52:00Z | [open](../records/databases-rom-rb-rom-e8be5cad.md) |
-| spiculedata/saiku | partial | 2026-08-31T14:49:59Z | [open](../records/databases-spiculedata-saiku-3e036390.md) |
-| StarRocks/starrocks | partial | 2026-09-05T16:28:55Z | [open](../records/databases-starrocks-starrocks-fa80e1a7.md) |
+| spiculedata/saiku | partial | 2026-09-07T16:30:34Z | [open](../records/databases-spiculedata-saiku-3e036390.md) |
+| StarRocks/starrocks | partial | 2026-09-07T13:04:28Z | [open](../records/databases-starrocks-starrocks-fa80e1a7.md) |
 | Stolon | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-stolon-807bae3f.md) |
 | uber-go/dosa | partial | 2023-07-05T20:59:33Z | [open](../records/databases-uber-go-dosa-06a859e4.md) |
 | uber/marmaray | partial | 2023-03-19T23:03:14Z | [open](../records/databases-uber-marmaray-1e6dacff.md) |

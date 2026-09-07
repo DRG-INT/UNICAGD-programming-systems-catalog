@@ -574,7 +574,7 @@ Records: `1609`
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-08-30T15:02:19Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-07T15:49:09Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-07T16:39:40Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -953,7 +953,7 @@ Records: `1609`
 | AmirhosseinHonardoust/Handwritten-Digit-GAN | partial | 2026-09-01T12:31:43Z | [open](../records/space-maps-amirhosseinhonardoust-handwritten-digit-gan-bcfbcf65.md) |
 | arturania/cspice | partial | 2022-05-10T22:48:14Z | [open](../records/space-maps-arturania-cspice-0baa86fe.md) |
 | ayushsi42/geo-sim | partial | 2026-03-10T18:05:51Z | [open](../records/space-maps-ayushsi42-geo-sim-918033d0.md) |
-| cosmoscout/cosmoscout-vr | partial | 2026-09-07T08:53:42Z | [open](../records/space-maps-cosmoscout-cosmoscout-vr-4e8ff6a8.md) |
+| cosmoscout/cosmoscout-vr | partial | 2026-09-07T12:34:46Z | [open](../records/space-maps-cosmoscout-cosmoscout-vr-4e8ff6a8.md) |
 | daoneil/spacemission | partial | 2022-08-01T01:32:37Z | [open](../records/space-maps-daoneil-spacemission-af0bad68.md) |
 | demul/extrinsic2pyramid | partial | 2025-02-17T06:43:36Z | [open](../records/space-maps-demul-extrinsic2pyramid-3922b529.md) |
 | dixieflatline76/Spice | partial | 2026-08-18T20:25:46Z | [open](../records/space-maps-dixieflatline76-spice-800b944f.md) |
@@ -1192,7 +1192,7 @@ Records: `1609`
 | DropSnorz/OwlPlug | partial | 2026-09-07T06:24:41Z | [open](../records/audio-dropsnorz-owlplug-ab9f531b.md) |
 | fedden/RenderMan | partial | 2021-12-02T21:11:26Z | [open](../records/audio-fedden-renderman-b1df24f8.md) |
 | gnuradio/gnuradio | partial | 2026-08-27T23:02:01Z | [open](../records/audio-gnuradio-gnuradio-f6f01d2f.md) |
-| HEnquist/camilladsp | partial | 2026-09-07T13:12:10Z | [open](../records/audio-henquist-camilladsp-382264e4.md) |
+| HEnquist/camilladsp | partial | 2026-09-07T14:50:04Z | [open](../records/audio-henquist-camilladsp-382264e4.md) |
 | hifiberry/hifiberry-os | partial | 2026-09-07T13:19:11Z | [open](../records/audio-hifiberry-hifiberry-os-5ddcb398.md) |
 | hollance/lost-and-found-piano | partial | 2026-07-12T14:06:30Z | [open](../records/audio-hollance-lost-and-found-piano-757e2e12.md) |
 | jameshball/osci-render | partial | 2026-09-07T06:40:09Z | [open](../records/audio-jameshball-osci-render-c76ba818.md) |

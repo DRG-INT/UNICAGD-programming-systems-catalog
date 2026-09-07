@@ -40,7 +40,7 @@ middleware policy, service structure, and deployment surface.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0 |
+| Evidence | GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0; SIL Open Font License 1.1; https://api.github.com/licenses/ofl-1.1 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
