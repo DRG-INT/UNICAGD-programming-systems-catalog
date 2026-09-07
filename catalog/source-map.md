@@ -10,17 +10,17 @@
 [Concurrency Parallelism (89)](by-category/concurrency-parallelism.md) · [Configuration (130)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (176)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (893)](by-category/database-datastore.md) · [Datetime (233)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (102)](by-category/dependency-manager.md) · [Documentation (106)](by-category/documentation.md)
-[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (457)](by-category/ffi-bindings.md) · [Filesystem Os (1605)](by-category/filesystem-os.md) · [Formatter (647)](by-category/formatter.md)
+[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (457)](by-category/ffi-bindings.md) · [Filesystem Os (1606)](by-category/filesystem-os.md) · [Formatter (647)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (356)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1462)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (273)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (29)](by-category/language-server.md) · [Language Specification (1437)](by-category/language-specification.md) · [Library (5679)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (29)](by-category/language-server.md) · [Language Specification (1437)](by-category/language-specification.md) · [Library (5691)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (48)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (528)](by-category/logging-observability.md) · [Machine Learning (792)](by-category/machine-learning.md)
-[Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1036)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1187)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (307)](by-category/precommit-ci-quality.md)
+[Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1037)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1189)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (307)](by-category/precommit-ci-quality.md)
 [Profiler (87)](by-category/profiler.md) · [Project Scaffolding (133)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
-[Security Sast (336)](by-category/security-sast.md) · [Serialization (396)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (612)](by-category/static-analyzer.md)
+[Security Sast (336)](by-category/security-sast.md) · [Serialization (397)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (613)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (607)](by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](by-category/tutorial-book-styleguide.md) · [Type Checker (313)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1616)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (555)](by-category/visualization-gui.md) · [Web Framework (477)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1617)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (556)](by-category/visualization-gui.md) · [Web Framework (477)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -1581,6 +1581,7 @@
 | `cran_packages_by_date-73325f32c61222` | datom | [open](records/r-datom-465d8abc.md) |
 | `cran_packages_by_date-733e90ceb28141` | snowflakeauth | [open](records/r-snowflakeauth-230b41c6.md) |
 | `cran_packages_by_date-7381418890421d` | glmMisrep | [open](records/r-glmmisrep-f90c45e8.md) |
+| `cran_packages_by_date-73afb2336e9393` | LCPA | [open](records/r-lcpa-88170389.md) |
 | `cran_packages_by_date-73dbc5074ffe09` | assessor | [open](records/r-assessor-ecb140d1.md) |
 | `cran_packages_by_date-74318d78fe462a` | nanonext | [open](records/r-nanonext-239f70fd.md) |
 | `cran_packages_by_date-75bf3474e73709` | CHNOSZ | [open](records/r-chnosz-4fa0342e.md) |
@@ -1947,6 +1948,7 @@
 | `cran_packages_by_date-a7b5cf5d7a4b73` | ggquiver | [open](records/r-ggquiver-ccf7e4a5.md) |
 | `cran_packages_by_date-a7fe2506639d2b` | adbcdrivermanager | [open](records/r-adbcdrivermanager-43c75ca4.md) |
 | `cran_packages_by_date-a825891e6e23bd` | logtree | [open](records/r-logtree-c8fc4dc5.md) |
+| `cran_packages_by_date-a86d7a692ff048` | DiscreteDists | [open](records/r-discretedists-5d7f74f4.md) |
 | `cran_packages_by_date-a88b68bccca801` | kpp2019 | [open](records/r-kpp2019-840b1a87.md) |
 | `cran_packages_by_date-a8b2b8f1eff08d` | finlex | [open](records/r-finlex-1c0ce3f7.md) |
 | `cran_packages_by_date-a8fe84ce8ba295` | dwg2geo | [open](records/r-dwg2geo-7dafc3d4.md) |
@@ -2209,6 +2211,7 @@
 | `cran_packages_by_date-d3a4f6e4e681c0` | educabR | [open](records/r-educabr-585a5bf1.md) |
 | `cran_packages_by_date-d3b22c2f38d1a5` | betaselectr | [open](records/r-betaselectr-7331a032.md) |
 | `cran_packages_by_date-d3c21f3b96fba5` | statsExpressions | [open](records/r-statsexpressions-77ded36b.md) |
+| `cran_packages_by_date-d422dd73b5111f` | tbea | [open](records/r-tbea-b26e9eca.md) |
 | `cran_packages_by_date-d447e26b5c1083` | badp | [open](records/r-badp-d37d1be2.md) |
 | `cran_packages_by_date-d45775d8326e20` | AdMit | [open](records/r-admit-c8c00ab6.md) |
 | `cran_packages_by_date-d481a9e19ebd81` | fastrda | [open](records/r-fastrda-db5c6305.md) |
@@ -2387,6 +2390,7 @@
 | `cran_packages_by_date-eec7ebf1cbd447` | ggmultiglyph | [open](records/r-ggmultiglyph-56c26c70.md) |
 | `cran_packages_by_date-eec85624481c8d` | ggtext | [open](records/r-ggtext-20be84ab.md) |
 | `cran_packages_by_date-eecbd19b07c81e` | lapop | [open](records/r-lapop-2f3004d2.md) |
+| `cran_packages_by_date-eefe429541eb22` | GDILM.SEIRS | [open](records/r-gdilm-seirs-f71deae9.md) |
 | `cran_packages_by_date-ef026438a35d0c` | EmpiricalDynamics | [open](records/r-empiricaldynamics-7b4496a1.md) |
 | `cran_packages_by_date-ef37f92e934b08` | rollama | [open](records/r-rollama-28c14d6c.md) |
 | `cran_packages_by_date-ef8f7311eef0e8` | healthiar | [open](records/r-healthiar-08b8fbd7.md) |
@@ -16938,6 +16942,7 @@
 | `hackage_top_downloads-04b531f6fa5832` | heaps | [open](records/haskell-heaps-494566cb.md) |
 | `hackage_top_downloads-04c2bebbefcde7` | simplest-sqlite | [open](records/haskell-simplest-sqlite-4c1b1f92.md) |
 | `hackage_top_downloads-04fde8f1a9c839` | bindings-common | [open](records/haskell-bindings-common-020780e3.md) |
+| `hackage_top_downloads-052b6f87a83aef` | hw-prelude | [open](records/haskell-hw-prelude-d3282c91.md) |
 | `hackage_top_downloads-052cd88f5a2905` | concurrent-output | [open](records/haskell-concurrent-output-ce38685e.md) |
 | `hackage_top_downloads-054f81f08558ab` | amazonka-opsworks | [open](records/haskell-amazonka-opsworks-f326fe35.md) |
 | `hackage_top_downloads-056bc14a3ca471` | distributed-process-p2p | [open](records/haskell-distributed-process-p2p-0ede5648.md) |
@@ -17191,6 +17196,7 @@
 | `hackage_top_downloads-328bdc6203e4e8` | quic | [open](records/haskell-quic-b2fb69cc.md) |
 | `hackage_top_downloads-32f33c397c77f5` | keys | [open](records/haskell-keys-ca030f7a.md) |
 | `hackage_top_downloads-331cec4b54f788` | transformers | [open](records/haskell-transformers-17647c94.md) |
+| `hackage_top_downloads-335581e9ddfdcf` | cubicbezier | [open](records/haskell-cubicbezier-4c62aad6.md) |
 | `hackage_top_downloads-336d6ef322743b` | text | [open](records/haskell-text-b37b3512.md) |
 | `hackage_top_downloads-336de302472153` | sdl2 | [open](records/haskell-sdl2-595d37f1.md) |
 | `hackage_top_downloads-339b01cfff99fc` | reflex-ghci | [open](records/haskell-reflex-ghci-43250d49.md) |
@@ -17322,6 +17328,7 @@
 | `hackage_top_downloads-4d7ea406a2d248` | streams | [open](records/haskell-streams-de69ce60.md) |
 | `hackage_top_downloads-4d8192e6bcb755` | cmark | [open](records/haskell-cmark-855c14b2.md) |
 | `hackage_top_downloads-4d8501adec812c` | ersatz | [open](records/haskell-ersatz-5b90e79f.md) |
+| `hackage_top_downloads-4d9b3ab2e493d4` | force-layout | [open](records/haskell-force-layout-8a269c86.md) |
 | `hackage_top_downloads-4ddbe4c546a591` | tzdata | [open](records/haskell-tzdata-f696ebce.md) |
 | `hackage_top_downloads-4dfd6d13f06e95` | mustache | [open](records/haskell-mustache-9c06459a.md) |
 | `hackage_top_downloads-4e44cafd17cb2e` | happstack-yui | [open](records/haskell-happstack-yui-fa51e7df.md) |
@@ -17359,6 +17366,7 @@
 | `hackage_top_downloads-53f66a394c3aa0` | leancheck | [open](records/haskell-leancheck-91bf74c9.md) |
 | `hackage_top_downloads-540f2671f5f80b` | contravariant | [open](records/haskell-contravariant-b085ff85.md) |
 | `hackage_top_downloads-54131f0c49b2a1` | hlint | [open](records/haskell-hlint-b4c36adf.md) |
+| `hackage_top_downloads-54818b7671fae4` | tasty-bench | [open](records/haskell-tasty-bench-6894948c.md) |
 | `hackage_top_downloads-55007b76fcd08b` | rank2classes | [open](records/haskell-rank2classes-0be55493.md) |
 | `hackage_top_downloads-5518ff18a3ba9d` | cprng-aes | [open](records/haskell-cprng-aes-172f6cb2.md) |
 | `hackage_top_downloads-5528f0904a9b3a` | clckwrks | [open](records/haskell-clckwrks-6203ac81.md) |
@@ -17410,6 +17418,7 @@
 | `hackage_top_downloads-5f305aa1533cd1` | darcs-beta | [open](records/haskell-darcs-beta-4feb502c.md) |
 | `hackage_top_downloads-5f3c789d26daac` | amazonka-glacier | [open](records/haskell-amazonka-glacier-bf5e9739.md) |
 | `hackage_top_downloads-5f628dfdd1b05c` | eventloop | [open](records/haskell-eventloop-7c422f28.md) |
+| `hackage_top_downloads-5fa424fc9fdb82` | om-plugin-imports | [open](records/haskell-om-plugin-imports-67812e4f.md) |
 | `hackage_top_downloads-5fa605307f4f29` | futhark | [open](records/haskell-futhark-b843b095.md) |
 | `hackage_top_downloads-5fee5bc1badd8d` | Win32 | [open](records/haskell-win32-bd1767d3.md) |
 | `hackage_top_downloads-604a03f7a07a8f` | StateVar | [open](records/haskell-statevar-7ccb14ef.md) |
@@ -17460,6 +17469,7 @@
 | `hackage_top_downloads-685010a7a36495` | rest-gen | [open](records/haskell-rest-gen-2d1c5271.md) |
 | `hackage_top_downloads-68529f1222305d` | amazonka-kinesis | [open](records/haskell-amazonka-kinesis-98f59eea.md) |
 | `hackage_top_downloads-688aa3710858e5` | stack | [open](records/haskell-stack-e51612f3.md) |
+| `hackage_top_downloads-688b8e74c8d84a` | nonlinear-optimization | [open](records/haskell-nonlinear-optimization-79c30236.md) |
 | `hackage_top_downloads-68af58213ce205` | amazonka-iam | [open](records/haskell-amazonka-iam-e8cef354.md) |
 | `hackage_top_downloads-697a624eeda537` | simple-sendfile | [open](records/haskell-simple-sendfile-d65ae27d.md) |
 | `hackage_top_downloads-69b0d48a76273c` | vector-sized | [open](records/haskell-vector-sized-57bc6fe6.md) |
@@ -17593,6 +17603,7 @@
 | `hackage_top_downloads-8184c03eb08037` | json-spec-elm-servant | [open](records/haskell-json-spec-elm-servant-ca1087b4.md) |
 | `hackage_top_downloads-82083b693a1724` | opaleye | [open](records/haskell-opaleye-393f9340.md) |
 | `hackage_top_downloads-821637837b7168` | patat | [open](records/haskell-patat-6113d654.md) |
+| `hackage_top_downloads-825de978552da0` | tasty-quickcheck | [open](records/haskell-tasty-quickcheck-e659fd2a.md) |
 | `hackage_top_downloads-826db0f963d92f` | amazonka-importexport | [open](records/haskell-amazonka-importexport-41502bf7.md) |
 | `hackage_top_downloads-834d0ef6fee56a` | fast-logger | [open](records/haskell-fast-logger-01a4c6d1.md) |
 | `hackage_top_downloads-8372fca5bd7d07` | language-dickinson | [open](records/haskell-language-dickinson-c9be602f.md) |
@@ -17662,12 +17673,14 @@
 | `hackage_top_downloads-8de61cc02661aa` | vty | [open](records/haskell-vty-bdfe902e.md) |
 | `hackage_top_downloads-8dfefb1e32de83` | flow | [open](records/haskell-flow-94d8370f.md) |
 | `hackage_top_downloads-8e23a246faf52e` | fuzzytime | [open](records/haskell-fuzzytime-891215e2.md) |
+| `hackage_top_downloads-8e33692344a904` | lzma-conduit | [open](records/haskell-lzma-conduit-93a48278.md) |
 | `hackage_top_downloads-8e377661e91f2f` | comonads-fd | [open](records/haskell-comonads-fd-a5aeaa4e.md) |
 | `hackage_top_downloads-8e4be87d9a4b31` | stm-chans | [open](records/haskell-stm-chans-f62ef089.md) |
 | `hackage_top_downloads-8f01ba2036f725` | cipher-aes128 | [open](records/haskell-cipher-aes128-b2a919d0.md) |
 | `hackage_top_downloads-8f20ff6cce515f` | idris | [open](records/haskell-idris-47fb0b3c.md) |
 | `hackage_top_downloads-8f4844d9d361d1` | espial | [open](records/haskell-espial-cb4d1603.md) |
 | `hackage_top_downloads-8fa41fdd260b23` | cachix-api | [open](records/haskell-cachix-api-422fb824.md) |
+| `hackage_top_downloads-8fcc62be2059fa` | ircbot | [open](records/haskell-ircbot-c65716ba.md) |
 | `hackage_top_downloads-8fd4be705da6c6` | wai-handler-devel | [open](records/haskell-wai-handler-devel-ce6044d9.md) |
 | `hackage_top_downloads-8fe8039f4e3746` | hourglass | [open](records/haskell-hourglass-ed0a22e4.md) |
 | `hackage_top_downloads-9052529a7ed756` | text-zipper | [open](records/haskell-text-zipper-6676f63d.md) |
@@ -17903,6 +17916,7 @@
 | `hackage_top_downloads-ba09408d33272c` | transformers-base | [open](records/haskell-transformers-base-6e502f88.md) |
 | `hackage_top_downloads-ba3cc6a75a9b37` | stm-conduit | [open](records/haskell-stm-conduit-78ea6d3b.md) |
 | `hackage_top_downloads-baaa60b2290eb8` | transient-universe | [open](records/haskell-transient-universe-a8372c5c.md) |
+| `hackage_top_downloads-bacea61170a531` | apply-refact | [open](records/haskell-apply-refact-aeed2f78.md) |
 | `hackage_top_downloads-baf1e57dc406f5` | shellmate | [open](records/haskell-shellmate-f3e133dc.md) |
 | `hackage_top_downloads-bb47148faf16ba` | OneTuple | [open](records/haskell-onetuple-91e34ca7.md) |
 | `hackage_top_downloads-bc1d5e2cc19aa8` | persistent-template | [open](records/haskell-persistent-template-b0d3fdfa.md) |
@@ -17994,6 +18008,7 @@
 | `hackage_top_downloads-c9f53f6ba3cde3` | ekg | [open](records/haskell-ekg-fcd7c279.md) |
 | `hackage_top_downloads-ca3250d8bb65cc` | candid | [open](records/haskell-candid-b5ef5c1b.md) |
 | `hackage_top_downloads-ca98f93b8d10d9` | taffybar | [open](records/haskell-taffybar-a815d4bc.md) |
+| `hackage_top_downloads-cacc737f0924f2` | perf | [open](records/haskell-perf-e76d1ad0.md) |
 | `hackage_top_downloads-cb055713ceafa5` | DSH | [open](records/haskell-dsh-1fca6e37.md) |
 | `hackage_top_downloads-cb3d563e3a1582` | tar-conduit | [open](records/haskell-tar-conduit-bb615e63.md) |
 | `hackage_top_downloads-cbc663b7bd9cb1` | Agda | [open](records/haskell-agda-2052f829.md) |
@@ -18025,6 +18040,7 @@
 | `hackage_top_downloads-d08897b4b10ca9` | ghc-events | [open](records/haskell-ghc-events-41d220a8.md) |
 | `hackage_top_downloads-d0a14eefc0445b` | gio | [open](records/haskell-gio-5d968dcc.md) |
 | `hackage_top_downloads-d0a871d8c0ca5b` | http-reverse-proxy | [open](records/haskell-http-reverse-proxy-de9c60e2.md) |
+| `hackage_top_downloads-d0b7451aa33859` | morley-prelude | [open](records/haskell-morley-prelude-b1a71166.md) |
 | `hackage_top_downloads-d15aa0ca76063d` | snap-core | [open](records/haskell-snap-core-866c653a.md) |
 | `hackage_top_downloads-d15d0af35401f7` | containers | [open](records/haskell-containers-50dfba8c.md) |
 | `hackage_top_downloads-d18aac0d46e9b0` | llvm-hs | [open](records/haskell-llvm-hs-29f904c8.md) |
@@ -18091,6 +18107,7 @@
 | `hackage_top_downloads-daaa12ee4a039e` | oeis | [open](records/haskell-oeis-6573c6d5.md) |
 | `hackage_top_downloads-db40d7adad5b14` | ratel-wai | [open](records/haskell-ratel-wai-deb230ff.md) |
 | `hackage_top_downloads-db6400548951d5` | hadolint | [open](records/haskell-hadolint-e6160c0f.md) |
+| `hackage_top_downloads-db88fb5d2759f5` | geojson | [open](records/haskell-geojson-5c5d094c.md) |
 | `hackage_top_downloads-db94dc9f0a8eef` | sets | [open](records/haskell-sets-7d90dd02.md) |
 | `hackage_top_downloads-db952cf9e36bac` | regex-tdfa | [open](records/haskell-regex-tdfa-a1d87326.md) |
 | `hackage_top_downloads-dbcd40e7fda251` | generic-random | [open](records/haskell-generic-random-42bbeed6.md) |
@@ -18114,6 +18131,7 @@
 | `hackage_top_downloads-e0f08b69a660b1` | system-filepath | [open](records/haskell-system-filepath-b2348d3a.md) |
 | `hackage_top_downloads-e12032ee663662` | hw-rankselect | [open](records/haskell-hw-rankselect-d19f5422.md) |
 | `hackage_top_downloads-e1cd3a44c2788e` | toodles | [open](records/haskell-toodles-638111ca.md) |
+| `hackage_top_downloads-e1f8db0ee8cdd3` | Blammo | [open](records/haskell-blammo-0c11a6ba.md) |
 | `hackage_top_downloads-e21c18f5004d6e` | amazonka-autoscaling | [open](records/haskell-amazonka-autoscaling-8ee47bc5.md) |
 | `hackage_top_downloads-e22e81ea84f1c4` | amazonka-route53 | [open](records/haskell-amazonka-route53-4d3d56d6.md) |
 | `hackage_top_downloads-e24394fbdc22ca` | cabal-bounds | [open](records/haskell-cabal-bounds-92141946.md) |
@@ -18209,6 +18227,7 @@
 | `hackage_top_downloads-f045cea013fc52` | hsc3 | [open](records/haskell-hsc3-e86ea7a3.md) |
 | `hackage_top_downloads-f050a22d629e2a` | prednote | [open](records/haskell-prednote-3691ee83.md) |
 | `hackage_top_downloads-f08d91766bff13` | transient | [open](records/haskell-transient-c89f21cb.md) |
+| `hackage_top_downloads-f08ec8601c3deb` | digit | [open](records/haskell-digit-66b2b81f.md) |
 | `hackage_top_downloads-f0b9918b8500c0` | tasty | [open](records/haskell-tasty-10a6caaf.md) |
 | `hackage_top_downloads-f0bc998d45c1b6` | yamlscript | [open](records/haskell-yamlscript-f3f0625d.md) |
 | `hackage_top_downloads-f0c930f5cfde8f` | rss-conduit | [open](records/haskell-rss-conduit-88a39cec.md) |
@@ -18233,6 +18252,7 @@
 | `hackage_top_downloads-f43f235be8c54b` | versions | [open](records/haskell-versions-231b8779.md) |
 | `hackage_top_downloads-f441b374bd26e1` | conduit-extra | [open](records/haskell-conduit-extra-ce6121c0.md) |
 | `hackage_top_downloads-f48f78f04f6c1a` | enumerator | [open](records/haskell-enumerator-ce661620.md) |
+| `hackage_top_downloads-f4e80f7d8360f2` | polysemy-http | [open](records/haskell-polysemy-http-cfec816f.md) |
 | `hackage_top_downloads-f51715b0262074` | amazonka-storagegateway | [open](records/haskell-amazonka-storagegateway-dcb2c175.md) |
 | `hackage_top_downloads-f54d0c023e5627` | double-conversion | [open](records/haskell-double-conversion-f4c44962.md) |
 | `hackage_top_downloads-f5541160ca1173` | tmp-postgres | [open](records/haskell-tmp-postgres-a3d9fc1b.md) |

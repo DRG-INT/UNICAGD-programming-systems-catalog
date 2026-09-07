@@ -1,6 +1,6 @@
 # Undefined Behavior Analyzer
 
-Records: `1616`
+Records: `1617`
 
 ## Navigation
 
@@ -14,17 +14,17 @@ Records: `1616`
 [Concurrency Parallelism (89)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (176)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (893)](database-datastore.md) · [Datetime (233)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (106)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1605)](filesystem-os.md) · [Formatter (647)](formatter.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1606)](filesystem-os.md) · [Formatter (647)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1462)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (29)](language-server.md) · [Language Specification (1437)](language-specification.md) · [Library (5679)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (29)](language-server.md) · [Language Specification (1437)](language-specification.md) · [Library (5691)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (48)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (528)](logging-observability.md) · [Machine Learning (792)](machine-learning.md)
-[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1036)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1187)](parser-lexer-ast.md) · [Precommit Ci Quality (307)](precommit-ci-quality.md)
+[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1037)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1189)](parser-lexer-ast.md) · [Precommit Ci Quality (307)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (396)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (612)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (613)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (607)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-**[Undefined Behavior Analyzer (1616)](undefined-behavior-analyzer.md)** · [Utility Library (104)](utility-library.md) · [Visualization Gui (555)](visualization-gui.md) · [Web Framework (477)](web-framework.md)
+**[Undefined Behavior Analyzer (1617)](undefined-behavior-analyzer.md)** · [Utility Library (104)](utility-library.md) · [Visualization Gui (556)](visualization-gui.md) · [Web Framework (477)](web-framework.md)
 
 ## C++23
 
@@ -350,6 +350,7 @@ Records: `1616`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | crypto-pubkey | 0.2.8 | 2015-01-16T19:14:25Z | [open](../records/haskell-crypto-pubkey-dd8079af.md) |
+| cubicbezier | 0.6.0.7 | 2023-07-10T17:40:41Z | [open](../records/haskell-cubicbezier-4c62aad6.md) |
 | double-conversion | 2.0.5.0 | 2024-02-11T15:24:21Z | [open](../records/haskell-double-conversion-f4c44962.md) |
 | github | 0.30.0.2 | 2026-03-12T18:53:11Z | [open](../records/haskell-github-ab2b361e.md) |
 | github-backup | 1.20200721 | 2020-07-22T03:29:35Z | [open](../records/haskell-github-backup-781e11f0.md) |
@@ -1148,7 +1149,7 @@ Records: `1616`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | cruise-automation/isopod | partial | 2023-11-17T05:24:18Z | [open](../records/starlark-cruise-automation-isopod-0fd20340.md) |
-| openrundev/openrun | partial | 2026-09-06T20:46:55Z | [open](../records/starlark-openrundev-openrun-0f48908b.md) |
+| openrundev/openrun | partial | 2026-09-06T23:57:01Z | [open](../records/starlark-openrundev-openrun-0f48908b.md) |
 | tidbyt/community | partial | 2026-08-28T05:00:24Z | [open](../records/starlark-tidbyt-community-62c4caad.md) |
 
 ## Basilisk
@@ -1532,7 +1533,7 @@ Records: `1616`
 | GeoscienceAustralia/ginan | partial | 2026-08-24T01:32:17Z | [open](../records/radars-geoscienceaustralia-ginan-02776f5a.md) |
 | jldz9/InSARHub | partial | 2026-09-02T20:59:47Z | [open](../records/radars-jldz9-insarhub-fdef62b9.md) |
 | olliestephenson/dpm-rnn-public | partial | 2021-07-30T20:55:47Z | [open](../records/radars-olliestephenson-dpm-rnn-public-af4e7b49.md) |
-| opendatacube/datacube-core | partial | 2026-09-02T14:19:09Z | [open](../records/radars-opendatacube-datacube-core-d382000b.md) |
+| opendatacube/datacube-core | partial | 2026-09-05T08:18:24Z | [open](../records/radars-opendatacube-datacube-core-d382000b.md) |
 | orfeotoolbox/OTB | partial | 2026-09-03T13:06:34Z | [open](../records/radars-orfeotoolbox-otb-5833013c.md) |
 | sargraph/sargraph.github.io | partial | 2023-04-08T23:50:36Z | [open](../records/radars-sargraph-sargraph-github-io-db66a524.md) |
 | semuconsulting/PyGPSClient | partial | 2026-09-03T11:13:57Z | [open](../records/radars-semuconsulting-pygpsclient-03a614eb.md) |
@@ -1544,7 +1545,7 @@ Records: `1616`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| alanbjohnston/CubeSatSim | partial | 2026-09-06T15:07:19Z | [open](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) |
+| alanbjohnston/CubeSatSim | partial | 2026-09-07T00:13:16Z | [open](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) |
 | cjcliffe/CubicSDR | partial | 2026-09-02T02:19:48Z | [open](../records/satcom-satellites-cjcliffe-cubicsdr-45606659.md) |
 | f4exb/sdrangel | partial | 2026-09-06T21:22:43Z | [open](../records/satcom-satellites-f4exb-sdrangel-2094320b.md) |
 | jvde-github/AIS-catcher | partial | 2026-09-06T22:14:18Z | [open](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) |
@@ -1553,7 +1554,7 @@ Records: `1616`
 | libcsp/libcsp | partial | 2026-09-04T06:58:55Z | [open](../records/satcom-satellites-libcsp-libcsp-abe29c50.md) |
 | Mejiro-McQueen/Bifrost | partial | 2023-10-18T00:26:27Z | [open](../records/satcom-satellites-mejiro-mcqueen-bifrost-545d8ca0.md) |
 | opensatellite/KS-1Q | partial | 2022-06-21T17:25:16Z | [open](../records/satcom-satellites-opensatellite-ks-1q-6171a46e.md) |
-| raceintospace/raceintospace | partial | 2026-09-06T15:47:58Z | [open](../records/satcom-satellites-raceintospace-raceintospace-aabc64c6.md) |
+| raceintospace/raceintospace | partial | 2026-09-06T23:49:15Z | [open](../records/satcom-satellites-raceintospace-raceintospace-aabc64c6.md) |
 | RedhawkSDR/redhawk | partial | 2023-05-12T19:01:24Z | [open](../records/satcom-satellites-redhawksdr-redhawk-579f9599.md) |
 | sam210723/orbcomm-rx | partial | 2019-12-23T06:01:41Z | [open](../records/satcom-satellites-sam210723-orbcomm-rx-ccf42f9d.md) |
 | thebaldgeek/thebaldgeek.github.io | partial | 2025-10-25T19:14:36Z | [open](../records/satcom-satellites-thebaldgeek-thebaldgeek-github-io-2494b7a4.md) |
@@ -1678,7 +1679,7 @@ Records: `1616`
 | TryGhost/Editorial | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-editorial-24923224.md) |
 | TryGhost/London | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-london-a1950ab3.md) |
 | TryGhost/Massively | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-massively-019faf67.md) |
-| TryGhost/Ruby | partial | 2026-09-06T19:04:36Z | [open](../records/magazines-tryghost-ruby-e22f8483.md) |
+| TryGhost/Ruby | partial | 2026-09-06T23:03:26Z | [open](../records/magazines-tryghost-ruby-e22f8483.md) |
 | TryGhost/Source | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-source-b70e1161.md) |
 | TryGhost/Wave | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-wave-7da5b2a4.md) |
 | WantongC/journal-adapt-writing-skill | partial | 2026-05-15T03:18:22Z | [open](../records/magazines-wantongc-journal-adapt-writing-skill-cbbecfea.md) |
@@ -1855,7 +1856,7 @@ Records: `1616`
 | gitlab-org/caproni | partial | 2026-09-05T19:48:58.068Z | [open](../records/repository-workplaces-gitlab-org-caproni-40271619.md) |
 | gitlab-org/charts/gitlab-agent | partial | 2026-08-27T06:20:07.801Z | [open](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) |
 | gitlab-org/ci-cd/gitlab-runner-pod-cleanup | partial | 2026-05-15T07:38:19.652Z | [open](../records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) |
-| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-05T19:17:20.588Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
+| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-07T00:12:59.187Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
 | gitlab-org/kubernetes-gitlab-demo | partial | 2026-01-07T10:09:42.404Z | [open](../records/repository-workplaces-gitlab-org-kubernetes-gitlab-demo-d867dc50.md) |
 | glitchtip/glitchtip-helm-chart | partial | 2026-08-01T00:27:07.881Z | [open](../records/repository-workplaces-glitchtip-glitchtip-helm-chart-8da5da49.md) |
 | just.insane/kubernetes | partial | 2019-12-24T04:31:25.427Z | [open](../records/repository-workplaces-just-insane-kubernetes-b3dc8533.md) |
