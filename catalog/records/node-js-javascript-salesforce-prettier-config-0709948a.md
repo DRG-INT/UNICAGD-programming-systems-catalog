@@ -40,7 +40,7 @@ part of low-noise code review, style consistency, and automation-friendly editin
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | {"key": "", "name": "", "url": ""} |
+| Evidence | European Union Public License 1.2; https://api.github.com/licenses/eupl-1.2 |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes

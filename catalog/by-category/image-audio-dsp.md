@@ -244,14 +244,14 @@ Records: `438`
 | michaelwillis/dragonfly-reverb | partial | 2026-05-21T15:59:51Z | [open](../records/effects-michaelwillis-dragonfly-reverb-f1ff9059.md) |
 | miek/inspectrum | partial | 2025-12-06T15:44:29Z | [open](../records/effects-miek-inspectrum-030347ba.md) |
 | modlfo/vult-webaudio | partial | 2017-08-05T08:58:06Z | [open](../records/effects-modlfo-vult-webaudio-fea76423.md) |
-| Moekotori/ECHO | partial | 2026-08-20T00:46:12Z | [open](../records/effects-moekotori-echo-670d1049.md) |
+| Moekotori/ECHO | partial | 2026-09-05T22:47:36Z | [open](../records/effects-moekotori-echo-670d1049.md) |
 | MrBlueXav/Dekrispator_H747 | partial | 2026-02-01T11:38:25Z | [open](../records/effects-mrbluexav-dekrispator-h747-82b89ad6.md) |
 | mrzahaki/sudio | partial | 2026-08-19T23:09:58Z | [open](../records/effects-mrzahaki-sudio-af7972b0.md) |
 | NickCulbertson/Custom-DSP-AudioKit | partial | 2024-10-03T13:55:37Z | [open](../records/effects-nickculbertson-custom-dsp-audiokit-4d381c5e.md) |
 | npisanti/ofxPDSP | partial | 2024-08-09T02:07:03Z | [open](../records/effects-npisanti-ofxpdsp-51683253.md) |
 | olilarkin/awesome-musicdsp | partial | 2026-05-30T16:10:00Z | [open](../records/effects-olilarkin-awesome-musicdsp-c372f59b.md) |
 | OpenShot/libopenshot-audio | partial | 2026-08-31T02:37:41Z | [open](../records/effects-openshot-libopenshot-audio-b3a4cc5e.md) |
-| orottier/web-audio-api-rs | partial | 2026-08-15T12:02:49Z | [open](../records/effects-orottier-web-audio-api-rs-689b486f.md) |
+| orottier/web-audio-api-rs | partial | 2026-09-05T08:15:22Z | [open](../records/effects-orottier-web-audio-api-rs-689b486f.md) |
 | pavel-demin/red-pitaya-notes | partial | 2026-08-29T19:11:52Z | [open](../records/effects-pavel-demin-red-pitaya-notes-97f5a036.md) |
 | PieterPenninckx/rsynth | partial | 2023-10-28T12:27:05Z | [open](../records/effects-pieterpenninckx-rsynth-d66f9d98.md) |
 | playduck/dsp-playground | partial | 2023-09-24T06:32:12Z | [open](../records/effects-playduck-dsp-playground-f8102f04.md) |
@@ -272,8 +272,8 @@ Records: `438`
 | SuomiKP31/JUCE_VST3_Mixer | partial | 2025-03-17T22:48:38Z | [open](../records/effects-suomikp31-juce-vst3-mixer-7284b1f7.md) |
 | SuperKogito/pydiogment | partial | 2023-07-06T21:48:22Z | [open](../records/effects-superkogito-pydiogment-ee1478f0.md) |
 | SuperKogito/spafe | partial | 2025-03-20T16:16:12Z | [open](../records/effects-superkogito-spafe-ee3f7bf4.md) |
-| SynthstromAudible/DelugeFirmware | partial | 2026-09-04T01:01:52Z | [open](../records/effects-synthstromaudible-delugefirmware-0ce74020.md) |
-| thesofproject/sof | partial | 2026-09-03T14:03:28Z | [open](../records/effects-thesofproject-sof-2250f8c2.md) |
+| SynthstromAudible/DelugeFirmware | partial | 2026-09-07T02:04:18Z | [open](../records/effects-synthstromaudible-delugefirmware-0ce74020.md) |
+| thesofproject/sof | partial | 2026-09-07T13:16:24Z | [open](../records/effects-thesofproject-sof-2250f8c2.md) |
 | tholman/image-nodes | partial | 2017-11-23T05:02:10Z | [open](../records/effects-tholman-image-nodes-87dfe942.md) |
 | tiagolr/ripplerx | partial | 2026-08-13T12:36:29Z | [open](../records/effects-tiagolr-ripplerx-f333e2b5.md) |
 | xdsopl/robot36 | partial | 2025-11-11T10:06:19Z | [open](../records/effects-xdsopl-robot36-6c1d230b.md) |
@@ -352,7 +352,7 @@ Records: `438`
 | michaelwillis/dragonfly-reverb | partial | 2026-05-21T15:59:51Z | [open](../records/audio-michaelwillis-dragonfly-reverb-7aa868bf.md) |
 | midas-research/audino | partial | 2026-02-03T14:08:58Z | [open](../records/audio-midas-research-audino-bfd86e43.md) |
 | miek/inspectrum | partial | 2025-12-06T15:44:29Z | [open](../records/audio-miek-inspectrum-a2b95ec1.md) |
-| mixxxdj/mixxx | partial | 2026-09-07T09:20:19Z | [open](../records/audio-mixxxdj-mixxx-c62cc22f.md) |
+| mixxxdj/mixxx | partial | 2026-09-07T13:13:55Z | [open](../records/audio-mixxxdj-mixxx-c62cc22f.md) |
 | ModernFlyouts-Community/ModernFlyouts | partial | 2024-11-17T02:39:02Z | [open](../records/audio-modernflyouts-community-modernflyouts-61772da5.md) |
 | Moekotori/ECHO | partial | 2026-09-05T22:47:36Z | [open](../records/audio-moekotori-echo-a5eae6e0.md) |
 | morkt/GARbro | partial | 2024-07-08T19:36:58Z | [open](../records/audio-morkt-garbro-79127cac.md) |
@@ -395,7 +395,7 @@ Records: `438`
 | surge-synthesizer/surge | partial | 2026-09-05T09:17:39Z | [open](../records/audio-surge-synthesizer-surge-87b5aeea.md) |
 | swasun/VQ-VAE-Speech | partial | 2019-08-13T08:18:37Z | [open](../records/audio-swasun-vq-vae-speech-68327a4e.md) |
 | SynthstromAudible/DelugeFirmware | partial | 2026-09-07T02:04:18Z | [open](../records/audio-synthstromaudible-delugefirmware-4c834ea8.md) |
-| thesofproject/sof | partial | 2026-09-04T12:32:59Z | [open](../records/audio-thesofproject-sof-05fedbf2.md) |
+| thesofproject/sof | partial | 2026-09-07T13:16:24Z | [open](../records/audio-thesofproject-sof-05fedbf2.md) |
 | tiagolr/ripplerx | partial | 2026-08-13T12:36:29Z | [open](../records/audio-tiagolr-ripplerx-36b38906.md) |
 | unevens/Curvessor | partial | 2026-05-27T04:30:13Z | [open](../records/audio-unevens-curvessor-1be4a246.md) |
 | unevens/Overdraw | partial | 2026-05-27T04:30:14Z | [open](../records/audio-unevens-overdraw-ee5e80f4.md) |

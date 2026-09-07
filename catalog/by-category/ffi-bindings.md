@@ -402,7 +402,7 @@ Records: `457`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | hiyouga/LlamaFactory | partial | 2026-09-04T08:15:24Z | [open](../records/aim-s-hiyouga-llamafactory-ad4fa468.md) |
-| iOfficeAI/AionUi | partial | 2026-09-07T05:20:47Z | [open](../records/aim-s-iofficeai-aionui-ae4168e1.md) |
+| iOfficeAI/AionUi | partial | 2026-09-07T13:05:47Z | [open](../records/aim-s-iofficeai-aionui-ae4168e1.md) |
 
 ## Computer Graphics Software
 
@@ -520,7 +520,7 @@ Records: `457`
 | NVIDIA/CleanUNet | partial | 2023-10-11T12:13:16Z | [open](../records/audio-nvidia-cleanunet-4f0d4cbc.md) |
 | rishikksh20/SoundStorm-pytorch | partial | 2023-08-08T11:38:22Z | [open](../records/audio-rishikksh20-soundstorm-pytorch-1c8a7ca2.md) |
 | ShawnPi233/HQ-SVC | partial | 2026-06-17T17:55:10Z | [open](../records/audio-shawnpi233-hq-svc-5552f326.md) |
-| zrythm/zrythm | partial | 2026-09-07T09:07:03Z | [open](../records/audio-zrythm-zrythm-a35eb862.md) |
+| zrythm/zrythm | partial | 2026-09-07T12:52:57Z | [open](../records/audio-zrythm-zrythm-a35eb862.md) |
 
 ## Video
 

@@ -32,7 +32,7 @@ selection, diagnostics behavior, target support, ABI expectations, and build rep
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-04T05:08:54Z | gh search repos topic:dsp stars:>100 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-06T10:49:06Z | gh search repos topic:dsp stars:>100 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -40,7 +40,7 @@ selection, diagnostics behavior, target support, ABI expectations, and build rep
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | {"key": "", "name": "", "url": ""}; Other |
+| Evidence | Other |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
@@ -57,7 +57,7 @@ selection, diagnostics behavior, target support, ABI expectations, and build rep
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-04 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:dsp stars:>100", "retrieved": "2026-09-04", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-07 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:dsp stars:>100", "retrieved": "2026-09-07", "status": "forge-cli-derived"}` |
 
 </details>
 

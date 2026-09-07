@@ -32,7 +32,7 @@ tooling, code generation, static analysis, and source transformation.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-07T11:07:55Z | gh search repos basilisk astrodynamics | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-07T12:32:04Z | gh search repos basilisk astrodynamics | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -40,7 +40,7 @@ tooling, code generation, static analysis, and source transformation.
 | Field | Value |
 | --- | --- |
 | Detected family | Other permissive |
-| Evidence | Creative Commons Attribution 4.0 International; https://api.github.com/licenses/cc-by-4.0; ISC License; https://api.github.com/licenses/isc |
+| Evidence | ISC License; https://api.github.com/licenses/isc |
 | Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes

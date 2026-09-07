@@ -41,7 +41,7 @@ persistence, interoperability, and compatibility boundaries.
 | Field | Value |
 | --- | --- |
 | Detected family | Mixed license review |
-| Evidence | MIT License; https://api.github.com/licenses/mit; GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0; Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
+| Evidence | MIT License; https://api.github.com/licenses/mit; Mozilla Public License 2.0; https://api.github.com/licenses/mpl-2.0; PostgreSQL; https://www.nuget.org/packages/Npgsql.Json.NET/10.0.3/license |
 | Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes

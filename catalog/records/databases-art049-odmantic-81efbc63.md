@@ -39,9 +39,9 @@ scheduling, I/O throughput, cancellation, and latency management.
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit; ISC License; https://api.github.com/licenses/isc |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Other permissive |
+| Evidence | {"key": "", "name": "", "url": ""}; ISC License; https://api.github.com/licenses/isc |
+| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes
 

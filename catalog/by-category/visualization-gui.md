@@ -553,7 +553,7 @@ Records: `557`
 | --- | --- | --- | --- |
 | 4lex4nder/ReshadeEffectShaderToggler-FFXIV_UIONLY | partial | 2023-11-12T11:33:47Z | [open](../records/effects-4lex4nder-reshadeeffectshadertoggler-ffxiv-uionly-c42d3c10.md) |
 | ACEsuit/ACE.jl | partial | 2024-12-17T23:48:29Z | [open](../records/effects-acesuit-ace-jl-b77f833a.md) |
-| alienware377/RootlessViPER4Android | partial | 2026-08-31T21:39:11Z | [open](../records/effects-alienware377-rootlessviper4android-477a4505.md) |
+| alienware377/RootlessViPER4Android | partial | 2026-09-06T18:47:21Z | [open](../records/effects-alienware377-rootlessviper4android-477a4505.md) |
 | applibot-inc/sync2022-ui-sample-techbot | partial | 2023-02-19T13:54:15Z | [open](../records/effects-applibot-inc-sync2022-ui-sample-techbot-e7dbaeac.md) |
 | Blender Compositor | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-blender-compositor-20ae76f1.md) |
 | Cinder | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-cinder-520874a6.md) |
@@ -570,7 +570,7 @@ Records: `557`
 | Natron | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-natron-37c82791.md) |
 | NumberOneBot/dsssp | partial | 2026-08-12T22:46:18Z | [open](../records/effects-numberonebot-dsssp-f459bfd0.md) |
 | PixiJS Filters | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-pixijs-filters-2c7b5506.md) |
-| pschatzmann/arduino-audio-tools | partial | 2026-09-04T06:40:16Z | [open](../records/effects-pschatzmann-arduino-audio-tools-8c3c4f05.md) |
+| pschatzmann/arduino-audio-tools | partial | 2026-09-06T16:05:32Z | [open](../records/effects-pschatzmann-arduino-audio-tools-8c3c4f05.md) |
 | PyDevices/audioif | partial | 2026-09-07T03:29:00Z | [open](../records/effects-pydevices-audioif-0d02c96c.md) |
 | rsadsb/adsb_deku | partial | 2026-01-04T16:18:33Z | [open](../records/effects-rsadsb-adsb-deku-ce700c3e.md) |
 | Shadertoy | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-shadertoy-7ba0fe72.md) |
