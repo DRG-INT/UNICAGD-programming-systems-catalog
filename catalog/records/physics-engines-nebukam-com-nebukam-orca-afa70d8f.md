@@ -40,7 +40,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | GPL-3; Other |
+| Evidence | GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0; {"key": "", "name": "", "url": ""}; Other |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

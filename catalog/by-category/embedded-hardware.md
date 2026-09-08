@@ -102,7 +102,7 @@ Records: `60`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | adplug/adplug | partial | 2026-09-05T18:45:02Z | [open](../records/audio-adplug-adplug-e2680a2a.md) |
-| ARM-software/CMSIS-DSP | partial | 2026-08-14T10:34:58Z | [open](../records/audio-arm-software-cmsis-dsp-5aab5965.md) |
+| ARM-software/CMSIS-DSP | partial | 2026-09-08T08:42:27Z | [open](../records/audio-arm-software-cmsis-dsp-5aab5965.md) |
 | reales/retromulator | partial | 2026-07-24T07:24:46Z | [open](../records/audio-reales-retromulator-fdf0cc26.md) |
 | zueblin/Polaron | partial | 2020-09-05T12:28:45Z | [open](../records/audio-zueblin-polaron-4f0534e8.md) |
 
