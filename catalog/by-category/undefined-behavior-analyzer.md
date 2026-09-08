@@ -15,7 +15,7 @@ Records: `1627`
 [Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (969)](database-datastore.md) · [Datetime (234)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (104)](dependency-manager.md) · [Documentation (109)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (464)](ffi-bindings.md) · [Filesystem Os (1614)](filesystem-os.md) · [Formatter (651)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1474)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1475)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (275)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (30)](language-server.md) · [Language Specification (1450)](language-specification.md) · [Library (5760)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (802)](machine-learning.md)
@@ -1164,7 +1164,7 @@ Records: `1627`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bytedance/deer-flow | partial | 2026-09-08T12:13:21Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
+| bytedance/deer-flow | partial | 2026-09-08T14:53:44Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
 | sansan0/TrendRadar | partial | 2026-09-03T12:34:00Z | [open](../records/aim-s-sansan0-trendradar-72e65ee1.md) |
 | TencentCloud/TencentDB-Agent-Memory | partial | 2026-09-03T02:31:45Z | [open](../records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
 
@@ -1431,7 +1431,7 @@ Records: `1627`
 | cropsly/ffmpeg-android-java | partial | 2021-07-31T10:27:20Z | [open](../records/video-cropsly-ffmpeg-android-java-b9341efc.md) |
 | datarhei/restreamer | partial | 2026-05-22T06:57:59Z | [open](../records/video-datarhei-restreamer-ebfeeaad.md) |
 | doubleZ0108/Digital-Media-Technology-PKU | partial | 2022-02-04T14:32:32Z | [open](../records/video-doublez0108-digital-media-technology-pku-8ed0714e.md) |
-| FreeTubeApp/FreeTube | partial | 2026-09-08T09:51:40Z | [open](../records/video-freetubeapp-freetube-f7bd248f.md) |
+| FreeTubeApp/FreeTube | partial | 2026-09-08T11:51:40Z | [open](../records/video-freetubeapp-freetube-f7bd248f.md) |
 | getopenscreen/openscreen | partial | 2026-09-05T09:19:01Z | [open](../records/video-getopenscreen-openscreen-37ac0137.md) |
 | Hao0321/video-autopilot-kit | partial | 2026-08-27T15:00:28Z | [open](../records/video-hao0321-video-autopilot-kit-125cdf3e.md) |
 | Hubs-Foundation/hubs | partial | 2026-08-23T08:58:42Z | [open](../records/video-hubs-foundation-hubs-e3d5e722.md) |
@@ -1462,7 +1462,7 @@ Records: `1627`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Afilmory/afilmory | partial | 2026-09-08T09:17:38Z | [open](../records/photography-afilmory-afilmory-bc0398b6.md) |
+| Afilmory/afilmory | partial | 2026-09-08T13:19:10Z | [open](../records/photography-afilmory-afilmory-bc0398b6.md) |
 | baidut/BIMEF | partial | 2019-03-16T15:23:45Z | [open](../records/photography-baidut-bimef-5aec88db.md) |
 | CanHub/Android-Image-Cropper | partial | 2026-04-28T07:09:28Z | [open](../records/photography-canhub-android-image-cropper-809e8be6.md) |
 | dougdonohoe/ddphotos | partial | 2026-09-02T01:37:34Z | [open](../records/photography-dougdonohoe-ddphotos-39c5aac3.md) |
@@ -1476,7 +1476,7 @@ Records: `1627`
 | mangeshghodke/DreamPlayer | partial | 2026-09-07T11:13:27Z | [open](../records/photography-mangeshghodke-dreamplayer-c6fbb5e1.md) |
 | moul-co/moul | partial | 2024-01-09T09:14:39Z | [open](../records/photography-moul-co-moul-2cca2d07.md) |
 | mv-lab/nilut | partial | 2024-01-29T10:38:23Z | [open](../records/photography-mv-lab-nilut-866ec3fa.md) |
-| ncoevoet/facet | partial | 2026-09-08T10:10:45Z | [open](../records/photography-ncoevoet-facet-9042db71.md) |
+| ncoevoet/facet | partial | 2026-09-08T14:47:32Z | [open](../records/photography-ncoevoet-facet-9042db71.md) |
 | outdoorbits/little-backup-box | partial | 2026-09-01T18:51:22Z | [open](../records/photography-outdoorbits-little-backup-box-04af0fc7.md) |
 | patrikhuber/eos | partial | 2025-05-01T19:53:55Z | [open](../records/photography-patrikhuber-eos-d36cd5f5.md) |
 | peerpx/peerpx | unknown | github_search_does_not_include_release_date | [open](../records/photography-peerpx-peerpx-8179ea23.md) |

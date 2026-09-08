@@ -15,7 +15,7 @@ Records: `60`
 [Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (969)](database-datastore.md) · [Datetime (234)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (104)](dependency-manager.md) · [Documentation (109)](documentation.md)
 **[Embedded Hardware (60)](embedded-hardware.md)** · [Ffi Bindings (464)](ffi-bindings.md) · [Filesystem Os (1614)](filesystem-os.md) · [Formatter (651)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1474)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1475)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (275)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (30)](language-server.md) · [Language Specification (1450)](language-specification.md) · [Library (5760)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (802)](machine-learning.md)
@@ -102,7 +102,7 @@ Records: `60`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | adplug/adplug | partial | 2026-09-05T18:45:02Z | [open](../records/audio-adplug-adplug-e2680a2a.md) |
-| ARM-software/CMSIS-DSP | partial | 2026-09-08T11:11:48Z | [open](../records/audio-arm-software-cmsis-dsp-5aab5965.md) |
+| ARM-software/CMSIS-DSP | partial | 2026-09-08T11:59:24Z | [open](../records/audio-arm-software-cmsis-dsp-5aab5965.md) |
 | reales/retromulator | partial | 2026-07-24T07:24:46Z | [open](../records/audio-reales-retromulator-fdf0cc26.md) |
 | zueblin/Polaron | partial | 2020-09-05T12:28:45Z | [open](../records/audio-zueblin-polaron-4f0534e8.md) |
 

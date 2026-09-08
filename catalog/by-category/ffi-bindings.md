@@ -15,7 +15,7 @@ Records: `464`
 [Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (969)](database-datastore.md) · [Datetime (234)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (104)](dependency-manager.md) · [Documentation (109)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · **[Ffi Bindings (464)](ffi-bindings.md)** · [Filesystem Os (1614)](filesystem-os.md) · [Formatter (651)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1474)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1475)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (275)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (30)](language-server.md) · [Language Specification (1450)](language-specification.md) · [Library (5760)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (802)](machine-learning.md)
@@ -514,7 +514,7 @@ Records: `464`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | bmcfee/resampy | partial | 2024-09-30T15:36:46Z | [open](../records/audio-bmcfee-resampy-b1b68a4d.md) |
-| dotnet/Silk.NET | partial | 2026-09-06T18:43:29Z | [open](../records/audio-dotnet-silk-net-d83f3a2e.md) |
+| dotnet/Silk.NET | partial | 2026-09-08T12:23:31Z | [open](../records/audio-dotnet-silk-net-d83f3a2e.md) |
 | gopher-atz/4klang | partial | 2025-10-05T01:39:22Z | [open](../records/audio-gopher-atz-4klang-e6dac937.md) |
 | gopher-atz/64klang | partial | 2026-07-20T21:12:21Z | [open](../records/audio-gopher-atz-64klang-9d53cc3c.md) |
 | haoxiangsnr/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement | partial | 2020-09-05T00:50:59Z | [open](../records/audio-haoxiangsnr-a-convolutional-recurrent-neural-network-for-real-time-speech-enhancement-0b300d82.md) |

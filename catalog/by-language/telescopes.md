@@ -15,7 +15,7 @@ Records: `271`
 [Cryptography (177)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (969)](../by-category/database-datastore.md) · [Datetime (234)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (104)](../by-category/dependency-manager.md) · [Documentation (109)](../by-category/documentation.md)
 [Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (464)](../by-category/ffi-bindings.md) · [Filesystem Os (1614)](../by-category/filesystem-os.md) · [Formatter (651)](../by-category/formatter.md)
-[Framework (63)](../by-category/framework.md) · [Fuzzer (58)](../by-category/fuzzer.md) · [Game Engine Game Dev (358)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1474)](../by-category/ide-editor-integration.md)
+[Framework (63)](../by-category/framework.md) · [Fuzzer (58)](../by-category/fuzzer.md) · [Game Engine Game Dev (358)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1475)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (275)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
 [Language Server (30)](../by-category/language-server.md) · [Language Specification (1450)](../by-category/language-specification.md) · [Library (5760)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (531)](../by-category/logging-observability.md) · [Machine Learning (802)](../by-category/machine-learning.md)
@@ -33,7 +33,7 @@ Records: `271`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [avarakin/AstroPiMaker4](../records/telescopes-avarakin-astropimaker4-f79e5cbf.md) | partial | 2023-05-07T02:00:10Z | registry-derived |
-| [OpenSpace/OpenSpace](../records/telescopes-openspace-openspace-9cf8076b.md) | partial | 2026-09-07T15:34:43Z | registry-derived |
+| [OpenSpace/OpenSpace](../records/telescopes-openspace-openspace-9cf8076b.md) | partial | 2026-09-08T13:18:21Z | registry-derived |
 | [p7ayfu77/astro-csbdeep](../records/telescopes-p7ayfu77-astro-csbdeep-eff55526.md) | partial | 2024-09-28T21:28:25Z | registry-derived |
 | [Shatur/neovim-cmake](../records/telescopes-shatur-neovim-cmake-ad8d2155.md) | partial | 2022-09-10T14:58:46Z | registry-derived |
 
@@ -185,9 +185,9 @@ Records: `271`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ad-si/Woxi](../records/telescopes-ad-si-woxi-8a8c02e7.md) | partial | 2026-09-08T09:19:11Z | registry-derived |
+| [ad-si/Woxi](../records/telescopes-ad-si-woxi-8a8c02e7.md) | partial | 2026-09-08T15:18:14Z | registry-derived |
 | [Avimitin/nvim](../records/telescopes-avimitin-nvim-96de9a1e.md) | partial | 2026-07-28T05:10:02Z | registry-derived |
-| [gnudatalanguage/gdl](../records/telescopes-gnudatalanguage-gdl-37cda6a5.md) | partial | 2026-09-04T08:39:06Z | registry-derived |
+| [gnudatalanguage/gdl](../records/telescopes-gnudatalanguage-gdl-37cda6a5.md) | partial | 2026-09-08T13:47:24Z | registry-derived |
 | [indigo-astronomy/indigo](../records/telescopes-indigo-astronomy-indigo-31817c1e.md) | partial | 2026-09-06T16:10:59Z | registry-derived |
 | [RononDex/FitsLibrary](../records/telescopes-ronondex-fitslibrary-5bc342d5.md) | partial | 2025-01-19T09:34:51Z | registry-derived |
 | [rOpenGov/regions](../records/telescopes-ropengov-regions-f411571c.md) | partial | 2022-09-24T12:53:07Z | registry-derived |
@@ -259,7 +259,7 @@ Records: `271`
 | [cosmonium/cosmonium](../records/telescopes-cosmonium-cosmonium-96f84ede.md) | partial | 2026-09-02T21:20:06Z | registry-derived |
 | [danieljprice/phantom](../records/telescopes-danieljprice-phantom-c1fb3c56.md) | partial | 2026-09-03T08:40:07Z | registry-derived |
 | [DaveStrickland/AstroPhotography](../records/telescopes-davestrickland-astrophotography-b80c443a.md) | partial | 2026-09-05T00:51:22Z | registry-derived |
-| [DeepskyLog/DeepskyLog](../records/telescopes-deepskylog-deepskylog-0556deb4.md) | partial | 2026-06-01T13:02:28Z | registry-derived |
+| [DeepskyLog/DeepskyLog](../records/telescopes-deepskylog-deepskylog-0556deb4.md) | partial | 2026-09-08T12:42:14Z | registry-derived |
 | [DeepSkyWorkflows/DeepSkyWorkflowScripts](../records/telescopes-deepskyworkflows-deepskyworkflowscripts-4a9161f2.md) | partial | 2022-09-09T18:21:35Z | registry-derived |
 | [dEskoG/rDUINOScope](../records/telescopes-deskog-rduinoscope-ced0d735.md) | partial | 2020-06-23T12:05:59Z | registry-derived |
 | [deufrai/als](../records/telescopes-deufrai-als-5c30d710.md) | partial | 2026-09-06T04:16:29Z | registry-derived |
@@ -291,7 +291,7 @@ Records: `271`
 | [jasonsturges/lunarphase-js](../records/telescopes-jasonsturges-lunarphase-js-0e590da6.md) | partial | 2024-03-01T22:53:58Z | registry-derived |
 | [jbrazio/ardufocus-ascom](../records/telescopes-jbrazio-ardufocus-ascom-dca68881.md) | partial | 2021-02-21T11:08:23Z | registry-derived |
 | [jeff-regier/Celeste.jl](../records/telescopes-jeff-regier-celeste-jl-80fff8a5.md) | partial | 2021-09-18T08:20:37Z | registry-derived |
-| [jobovy/galpy](../records/telescopes-jobovy-galpy-b2e4e9ec.md) | partial | 2026-09-08T06:16:45Z | registry-derived |
+| [jobovy/galpy](../records/telescopes-jobovy-galpy-b2e4e9ec.md) | partial | 2026-09-08T14:45:37Z | registry-derived |
 | [JuliaAstro/AstroImages.jl](../records/telescopes-juliaastro-astroimages-jl-2c56131c.md) | partial | 2026-07-30T16:20:41Z | registry-derived |
 | [jyotisham/jyotisha](../records/telescopes-jyotisham-jyotisha-8a86df5e.md) | partial | 2026-09-05T17:09:50Z | registry-derived |
 | [kylecorry31/Trail-Sense](../records/telescopes-kylecorry31-trail-sense-8d97a469.md) | partial | 2026-09-07T23:51:47Z | registry-derived |
@@ -322,7 +322,7 @@ Records: `271`
 | [OpenAstroTech/OpenAstroTracker](../records/telescopes-openastrotech-openastrotracker-3176cfcc.md) | partial | 2025-02-21T15:40:41Z | registry-derived |
 | [OpenAstroTech/OpenAstroTracker-Firmware](../records/telescopes-openastrotech-openastrotracker-firmware-a667a5b4.md) | partial | 2026-09-01T21:56:22Z | registry-derived |
 | [Photosounder/Voyager-Image-Decoder](../records/telescopes-photosounder-voyager-image-decoder-cf8e7042.md) | partial | 2020-09-13T11:30:16Z | registry-derived |
-| [PlasmaPy/PlasmaPy](../records/telescopes-plasmapy-plasmapy-dcb9bd68.md) | partial | 2026-09-08T03:13:12Z | registry-derived |
+| [PlasmaPy/PlasmaPy](../records/telescopes-plasmapy-plasmapy-dcb9bd68.md) | partial | 2026-09-08T13:09:49Z | registry-derived |
 | [pludov/mobindi](../records/telescopes-pludov-mobindi-2dcfeccf.md) | partial | 2026-06-13T21:45:03Z | registry-derived |
 | [polatory/polatory](../records/telescopes-polatory-polatory-50968260.md) | partial | 2026-09-03T17:12:57Z | registry-derived |
 | [ppp-one/astra](../records/telescopes-ppp-one-astra-58695d7f.md) | partial | 2026-09-02T12:10:18Z | registry-derived |
@@ -399,7 +399,7 @@ Records: `271`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [astropy/astropy](../records/telescopes-astropy-astropy-5c7c1273.md) | partial | 2026-09-08T02:29:39Z | registry-derived |
+| [astropy/astropy](../records/telescopes-astropy-astropy-5c7c1273.md) | partial | 2026-09-08T14:56:43Z | registry-derived |
 
 ### Static Analyzer
 
@@ -442,7 +442,7 @@ Records: `271`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [m4opt/m4opt](../records/telescopes-m4opt-m4opt-6b7434b6.md) | partial | 2026-09-08T00:59:18Z | registry-derived |
+| [m4opt/m4opt](../records/telescopes-m4opt-m4opt-6b7434b6.md) | partial | 2026-09-08T14:59:53Z | registry-derived |
 
 ### Visualization Gui
 

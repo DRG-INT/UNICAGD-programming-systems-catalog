@@ -15,7 +15,7 @@ Records: `1053`
 [Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (969)](database-datastore.md) · [Datetime (234)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (104)](dependency-manager.md) · [Documentation (109)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (464)](ffi-bindings.md) · [Filesystem Os (1614)](filesystem-os.md) · [Formatter (651)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1474)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1475)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (275)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (30)](language-server.md) · [Language Specification (1450)](language-specification.md) · [Library (5760)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (802)](machine-learning.md)
@@ -798,7 +798,7 @@ Records: `1053`
 | --- | --- | --- | --- |
 | Model Context Protocol | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-model-context-protocol-9e0d563f.md) |
 | OpenAI API | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-openai-api-2f1d86e4.md) |
-| OtterMind/Chat2DB | partial | 2026-09-08T09:26:07Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
+| OtterMind/Chat2DB | partial | 2026-09-08T15:15:22Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
 
 ## APIs
 
@@ -963,7 +963,7 @@ Records: `1053`
 | apohl79/audiogridder | partial | 2024-07-31T08:38:20Z | [open](../records/audio-apohl79-audiogridder-b399a5d3.md) |
 | cvqluu/TDNN | partial | 2019-11-21T10:07:55Z | [open](../records/audio-cvqluu-tdnn-fb6a7ffe.md) |
 | drethage/speech-denoising-wavenet | partial | 2023-07-06T21:12:03Z | [open](../records/audio-drethage-speech-denoising-wavenet-dd81add3.md) |
-| FFmpeg/FFmpeg | partial | 2026-09-08T05:01:06Z | [open](../records/audio-ffmpeg-ffmpeg-e29098d1.md) |
+| FFmpeg/FFmpeg | partial | 2026-09-08T12:03:34Z | [open](../records/audio-ffmpeg-ffmpeg-e29098d1.md) |
 | hannesbraun/airwindows-lv2 | partial | 2025-11-27T12:32:25Z | [open](../records/audio-hannesbraun-airwindows-lv2-77a8604e.md) |
 | huckiyang/QuantumSpeech-QCNN | partial | 2023-01-22T16:06:05Z | [open](../records/audio-huckiyang-quantumspeech-qcnn-75d646b8.md) |
 | jtkim-kaist/Speech-enhancement | partial | 2019-06-14T14:15:05Z | [open](../records/audio-jtkim-kaist-speech-enhancement-2afa11e8.md) |

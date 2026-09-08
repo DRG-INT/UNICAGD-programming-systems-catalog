@@ -15,7 +15,7 @@ Records: `314`
 [Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (969)](database-datastore.md) · [Datetime (234)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (104)](dependency-manager.md) · [Documentation (109)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (464)](ffi-bindings.md) · [Filesystem Os (1614)](filesystem-os.md) · [Formatter (651)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1474)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1475)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (275)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (30)](language-server.md) · [Language Specification (1450)](language-specification.md) · [Library (5760)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (802)](machine-learning.md)
@@ -313,7 +313,7 @@ Records: `314`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-08T14:24:27Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | partial | 2026-09-08T15:21:27Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Computer Graphics Software
 
@@ -399,7 +399,7 @@ Records: `314`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | seehiong/noteflow | partial | 2026-07-11T04:13:06Z | [open](../records/audio-seehiong-noteflow-25a87e06.md) |
-| Vanilagy/mediabunny | partial | 2026-09-04T21:02:10Z | [open](../records/audio-vanilagy-mediabunny-c14130e8.md) |
+| Vanilagy/mediabunny | partial | 2026-09-08T15:20:17Z | [open](../records/audio-vanilagy-mediabunny-c14130e8.md) |
 
 ## Video
 
@@ -407,7 +407,7 @@ Records: `314`
 | --- | --- | --- | --- |
 | etro-js/etro | partial | 2026-09-03T00:29:36Z | [open](../records/video-etro-js-etro-fc650c8f.md) |
 | peer-calls/peer-calls | partial | 2025-10-28T22:46:52Z | [open](../records/video-peer-calls-peer-calls-18074c54.md) |
-| Vanilagy/mediabunny | partial | 2026-09-04T21:02:10Z | [open](../records/video-vanilagy-mediabunny-f2242c0c.md) |
+| Vanilagy/mediabunny | partial | 2026-09-08T15:20:17Z | [open](../records/video-vanilagy-mediabunny-f2242c0c.md) |
 
 ## Photography
 

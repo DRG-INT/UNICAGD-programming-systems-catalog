@@ -15,7 +15,7 @@ Records: `443`
 [Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (969)](database-datastore.md) · [Datetime (234)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (104)](dependency-manager.md) · [Documentation (109)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (464)](ffi-bindings.md) · [Filesystem Os (1614)](filesystem-os.md) · [Formatter (651)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1474)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1475)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (275)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (30)](language-server.md) · [Language Specification (1450)](language-specification.md) · [Library (5760)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (802)](machine-learning.md)
@@ -390,7 +390,7 @@ Records: `443`
 | PrismPipeline/QuiltiX | partial | 2025-07-03T17:45:40Z | [open](../records/effects-prismpipeline-quiltix-bb50e556.md) |
 | sinnwrig/URP-Fog-Volumes | partial | 2026-01-23T02:03:17Z | [open](../records/effects-sinnwrig-urp-fog-volumes-845ab6cc.md) |
 | thevoidky/custom-post-process-on-urp | unknown | github_latest_release_missing | [open](../records/effects-thevoidky-custom-post-process-on-urp-f0e94f32.md) |
-| udinmoInc/WindEffects | partial | 2026-09-03T06:57:39Z | [open](../records/effects-udinmoinc-windeffects-66eeb79d.md) |
+| udinmoInc/WindEffects | partial | 2026-09-08T14:59:14Z | [open](../records/effects-udinmoinc-windeffects-66eeb79d.md) |
 
 ## Audio
 
@@ -440,7 +440,7 @@ Records: `443`
 | --- | --- | --- | --- |
 | AntonotnaWang/3DCellSeg | partial | 2023-04-10T20:56:26Z | [open](../records/microscopy-antonotnawang-3dcellseg-f26edf96.md) |
 | ciccalab/SIMPLI | partial | 2025-09-23T11:08:18Z | [open](../records/microscopy-ciccalab-simpli-f44ea336.md) |
-| DeepTrackAI/DeepTrack2 | partial | 2026-09-08T09:39:18Z | [open](../records/microscopy-deeptrackai-deeptrack2-c4bed0ae.md) |
+| DeepTrackAI/DeepTrack2 | partial | 2026-09-08T14:44:03Z | [open](../records/microscopy-deeptrackai-deeptrack2-c4bed0ae.md) |
 | hallvaaw/awesome-biological-image-analysis | partial | 2026-09-01T08:44:58Z | [open](../records/microscopy-hallvaaw-awesome-biological-image-analysis-b00b91fa.md) |
 | lachlanchen/OpenHI | partial | 2026-04-27T01:39:28Z | [open](../records/microscopy-lachlanchen-openhi-6563c12a.md) |
 | nf-core/mcmicro | partial | 2026-09-01T12:58:34Z | [open](../records/microscopy-nf-core-mcmicro-5fb60926.md) |

@@ -15,7 +15,7 @@ Records: `531`
 [Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (969)](database-datastore.md) · [Datetime (234)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (104)](dependency-manager.md) · [Documentation (109)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (464)](ffi-bindings.md) · [Filesystem Os (1614)](filesystem-os.md) · [Formatter (651)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1474)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1475)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (275)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (30)](language-server.md) · [Language Specification (1450)](language-specification.md) · [Library (5760)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · **[Logging Observability (531)](logging-observability.md)** · [Machine Learning (802)](machine-learning.md)
@@ -350,14 +350,14 @@ Records: `531`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| influxdata/telegraf | partial | 2026-09-08T14:04:10Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
+| influxdata/telegraf | partial | 2026-09-08T15:09:05Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 2noise/ChatTTS | partial | 2026-04-10T16:33:48Z | [open](../records/aim-s-2noise-chattts-5e993170.md) |
-| langfuse/langfuse | partial | 2026-09-08T14:19:51Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
+| langfuse/langfuse | partial | 2026-09-08T15:20:24Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
 | microsoft/semantic-kernel | partial | 2026-09-07T22:32:52Z | [open](../records/aim-s-microsoft-semantic-kernel-ef95bef0.md) |
 | MLflow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-mlflow-1732aa2b.md) |
 | OpenTelemetry Semantic Conventions For GenAI | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-opentelemetry-semantic-conventions-for-genai-e834f611.md) |
@@ -566,7 +566,7 @@ Records: `531`
 | amd/mini-isp | partial | 2026-09-01T17:19:59Z | [open](../records/photography-amd-mini-isp-b6f8adc0.md) |
 | doom40k/photography-blog | unknown | github_search_does_not_include_release_date | [open](../records/photography-doom40k-photography-blog-347adc8b.md) |
 | fakeyanss/Hexo-Album | unknown | github_search_does_not_include_release_date | [open](../records/photography-fakeyanss-hexo-album-ca3a05d2.md) |
-| sambecker/exif-photo-blog | partial | 2026-09-08T04:46:47Z | [open](../records/photography-sambecker-exif-photo-blog-fea309fc.md) |
+| sambecker/exif-photo-blog | partial | 2026-09-08T14:56:15Z | [open](../records/photography-sambecker-exif-photo-blog-fea309fc.md) |
 
 ## Microscopy
 
@@ -580,7 +580,7 @@ Records: `531`
 | holmos-mikroskop/holmos | partial | 2019-11-18T21:28:13Z | [open](../records/microscopy-holmos-mikroskop-holmos-086d35a4.md) |
 | ijpb/MorphoLibJ | partial | 2026-07-30T11:07:03Z | [open](../records/microscopy-ijpb-morpholibj-fb1a146e.md) |
 | kevinjohncutler/omnipose | partial | 2026-09-03T07:59:22Z | [open](../records/microscopy-kevinjohncutler-omnipose-48a8957e.md) |
-| TissueImageAnalytics/tiatoolbox | partial | 2026-09-08T10:40:40Z | [open](../records/microscopy-tissueimageanalytics-tiatoolbox-a18863d3.md) |
+| TissueImageAnalytics/tiatoolbox | partial | 2026-09-08T15:15:48Z | [open](../records/microscopy-tissueimageanalytics-tiatoolbox-a18863d3.md) |
 | UU-cellbiology/ZstackDepthColorCode | partial | 2025-11-06T19:19:23Z | [open](../records/microscopy-uu-cellbiology-zstackdepthcolorcode-2dae5fc0.md) |
 
 ## Radars

@@ -1,6 +1,6 @@
 # Effects
 
-Records: `780`
+Records: `781`
 
 ## Navigation
 
@@ -15,7 +15,7 @@ Records: `780`
 [Cryptography (177)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (969)](../by-category/database-datastore.md) · [Datetime (234)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (104)](../by-category/dependency-manager.md) · [Documentation (109)](../by-category/documentation.md)
 [Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (464)](../by-category/ffi-bindings.md) · [Filesystem Os (1614)](../by-category/filesystem-os.md) · [Formatter (651)](../by-category/formatter.md)
-[Framework (63)](../by-category/framework.md) · [Fuzzer (58)](../by-category/fuzzer.md) · [Game Engine Game Dev (358)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1474)](../by-category/ide-editor-integration.md)
+[Framework (63)](../by-category/framework.md) · [Fuzzer (58)](../by-category/fuzzer.md) · [Game Engine Game Dev (358)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1475)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (275)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
 [Language Server (30)](../by-category/language-server.md) · [Language Specification (1450)](../by-category/language-specification.md) · [Library (5760)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (531)](../by-category/logging-observability.md) · [Machine Learning (802)](../by-category/machine-learning.md)
@@ -65,11 +65,11 @@ Records: `780`
 | [MintoTsukino/MintoShaderSuite](../records/effects-mintotsukino-mintoshadersuite-ef86ca31.md) | 1.0 | 2025-10-23T21:18:21Z | registry-derived |
 | [noisefactorllc/noisemaker](../records/effects-noisefactorllc-noisemaker-3b4d1858.md) | partial | 2026-09-08T03:20:45Z | registry-derived |
 | [overmindstudios/BlenderUpdater](../records/effects-overmindstudios-blenderupdater-a3b9c905.md) | partial | 2026-06-02T17:35:22Z | registry-derived |
-| [patrickjquinn/Marathon-Shell](../records/effects-patrickjquinn-marathon-shell-271a70fd.md) | partial | 2026-09-03T22:33:23Z | registry-derived |
-| [phkaeser/wlmaker](../records/effects-phkaeser-wlmaker-bba50595.md) | partial | 2026-08-29T17:50:14Z | registry-derived |
+| [patrickjquinn/Marathon-Shell](../records/effects-patrickjquinn-marathon-shell-271a70fd.md) | partial | 2026-09-08T09:34:13Z | registry-derived |
+| [phkaeser/wlmaker](../records/effects-phkaeser-wlmaker-bba50595.md) | partial | 2026-09-06T20:00:46Z | registry-derived |
 | [sean-hayeskxw9521/auxide-dsp-v020-library](../records/effects-sean-hayeskxw9521-auxide-dsp-v020-library-08fdecae.md) | partial | 2026-09-01T13:26:03Z | registry-derived |
 | [sophiapoirier/destroyfx](../records/effects-sophiapoirier-destroyfx-cb3a67d5.md) | partial | 2026-09-01T21:08:34Z | registry-derived |
-| [starling-build/starling](../records/effects-starling-build-starling-11beaa07.md) | partial | 2026-09-04T04:32:26Z | registry-derived |
+| [starling-build/starling](../records/effects-starling-build-starling-11beaa07.md) | partial | 2026-09-07T06:26:06Z | registry-derived |
 | [thehugh100/dsp-playground](../records/effects-thehugh100-dsp-playground-d3933aff.md) | partial | 2026-07-13T17:20:32Z | registry-derived |
 | [UnityTechnologies/ATerribleKingdom](../records/effects-unitytechnologies-aterriblekingdom-540a631e.md) | partial | 2020-10-04T07:30:56Z | registry-derived |
 | [v2space-labs/shader-for-interfaces](../records/effects-v2space-labs-shader-for-interfaces-1e1f4b65.md) | partial | 2026-09-01T13:54:48Z | registry-derived |
@@ -81,7 +81,7 @@ Records: `780`
 | --- | --- | --- | --- |
 | [c8r/lab-cli](../records/effects-c8r-lab-cli-d2cc5cac.md) | partial | 2018-02-18T17:42:26Z | registry-derived |
 | [CanYuzbey/Cpp-Audio-Bitcrusher](../records/effects-canyuzbey-cpp-audio-bitcrusher-d7defebc.md) | partial | 2026-01-25T15:51:00Z | registry-derived |
-| [denialwm/denial](../records/effects-denialwm-denial-38ee513d.md) | partial | 2026-08-31T21:15:38Z | registry-derived |
+| [denialwm/denial](../records/effects-denialwm-denial-38ee513d.md) | partial | 2026-09-07T19:55:10Z | registry-derived |
 | [EemilAhonen/leikkaus](../records/effects-eemilahonen-leikkaus-f2b2b34e.md) | partial | 2024-03-04T22:16:25Z | registry-derived |
 | [ha7ilm/csdr](../records/effects-ha7ilm-csdr-5d56336a.md) | partial | 2024-02-06T12:13:28Z | registry-derived |
 | [jmstajim/Particlized](../records/effects-jmstajim-particlized-6bb3d995.md) | partial | 2025-09-18T20:30:44Z | registry-derived |
@@ -116,7 +116,7 @@ Records: `780`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [blazejkustra/react-native-effects](../records/effects-blazejkustra-react-native-effects-f28ddf4f.md) | partial | 2026-09-02T19:34:12Z | registry-derived |
+| [blazejkustra/react-native-effects](../records/effects-blazejkustra-react-native-effects-f28ddf4f.md) | partial | 2026-09-05T18:10:45Z | registry-derived |
 | [junidy/parallel-dsp](../records/effects-junidy-parallel-dsp-31b8efad.md) | partial | 2024-04-16T14:54:35Z | registry-derived |
 
 ### Configuration
@@ -201,7 +201,7 @@ Records: `780`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [1ay1/neowall](../records/effects-1ay1-neowall-29ce32e8.md) | partial | 2026-08-11T00:33:47Z | registry-derived |
+| [1ay1/neowall](../records/effects-1ay1-neowall-29ce32e8.md) | partial | 2026-09-05T17:08:01Z | registry-derived |
 | [AdultLink/HoloShield](../records/effects-adultlink-holoshield-acc1efda.md) | partial | 2018-12-07T12:27:11Z | registry-derived |
 | [AhmedAmrNabil/arena-rush](../records/effects-ahmedamrnabil-arena-rush-d1327c86.md) | partial | 2026-08-28T00:29:03Z | registry-derived |
 | [ahopness/GodotRetro](../records/effects-ahopness-godotretro-b094835b.md) | partial | 2026-07-07T13:55:04Z | registry-derived |
@@ -229,8 +229,8 @@ Records: `780`
 | [c8r/gen](../records/effects-c8r-gen-36b8737b.md) | partial | 2018-04-01T20:10:19Z | registry-derived |
 | [c8r/lab](../records/effects-c8r-lab-db3d29d3.md) | partial | 2018-06-26T22:56:31Z | registry-derived |
 | [c8r/x0](../records/effects-c8r-x0-40ed9160.md) | partial | 2019-11-06T18:22:27Z | registry-derived |
-| [cage-kiosk/cage](../records/effects-cage-kiosk-cage-38b27c00.md) | partial | 2026-08-18T08:01:02Z | registry-derived |
-| [canonical/mir](../records/effects-canonical-mir-4ddd8316.md) | partial | 2026-09-04T07:13:16Z | registry-derived |
+| [cage-kiosk/cage](../records/effects-cage-kiosk-cage-38b27c00.md) | partial | 2026-09-08T13:28:29Z | registry-derived |
+| [canonical/mir](../records/effects-canonical-mir-4ddd8316.md) | partial | 2026-09-08T15:00:57Z | registry-derived |
 | [cansik/processing-postfx](../records/effects-cansik-processing-postfx-3d2f44fc.md) | partial | 2021-09-10T01:41:58Z | registry-derived |
 | [chaosbuffalolabs/ParticlePanda](../records/effects-chaosbuffalolabs-particlepanda-30e8b818.md) | partial | 2018-05-10T17:49:22Z | registry-derived |
 | [coryleach/UnityPostProcessing](../records/effects-coryleach-unitypostprocessing-0847dfd6.md) | 1.0.0 | 2019-09-23T05:38:00Z | registry-derived |
@@ -271,7 +271,7 @@ Records: `780`
 | [hifiberry/hifiberry-os](../records/effects-hifiberry-hifiberry-os-23434356.md) | partial | 2026-09-07T13:19:11Z | registry-derived |
 | [hmans/composer-suite](../records/effects-hmans-composer-suite-79097285.md) | partial | 2026-02-27T15:45:58Z | registry-derived |
 | [hughsk/voxel-colorist](../records/effects-hughsk-voxel-colorist-4f0cd027.md) | unknown | github_latest_release_missing | registry-derived |
-| [hyprwm/Hyprland](../records/effects-hyprwm-hyprland-ab213774.md) | partial | 2026-09-03T20:25:59Z | registry-derived |
+| [hyprwm/Hyprland](../records/effects-hyprwm-hyprland-ab213774.md) | partial | 2026-09-07T10:38:00Z | registry-derived |
 | [ianmartinez/laikawm](../records/effects-ianmartinez-laikawm-c3e8d5aa.md) | partial | 2020-10-01T14:34:19Z | registry-derived |
 | [iBicha/ImageEffectGraph](../records/effects-ibicha-imageeffectgraph-726f4f7e.md) | partial | 2021-04-06T21:10:05Z | registry-derived |
 | [icanzilb/UIEffectDesignerView](../records/effects-icanzilb-uieffectdesignerview-53a5eac9.md) | partial | 2013-03-31T13:13:33Z | registry-derived |
@@ -300,7 +300,7 @@ Records: `780`
 | [keshto/tinywl_plus](../records/effects-keshto-tinywl-plus-81645720.md) | partial | 2023-04-10T09:53:42Z | registry-derived |
 | [kevinraymond/fosfora](../records/effects-kevinraymond-fosfora-abca78d3.md) | partial | 2026-08-25T18:06:30Z | registry-derived |
 | [klange/toaru-nih](../records/effects-klange-toaru-nih-87098692.md) | partial | 2018-10-06T12:11:01Z | registry-derived |
-| [klange/toaruos](../records/effects-klange-toaruos-177b4062.md) | partial | 2026-09-03T02:46:39Z | registry-derived |
+| [klange/toaruos](../records/effects-klange-toaruos-177b4062.md) | partial | 2026-09-07T21:55:35Z | registry-derived |
 | [KonradIT/gopro-linux](../records/effects-konradit-gopro-linux-8d431adf.md) | partial | 2024-08-11T16:30:35Z | registry-derived |
 | [KorinDev/Godot-Post-Process-Plugin](../records/effects-korindev-godot-post-process-plugin-7b4fccc0.md) | partial | 2025-06-05T07:56:05Z | registry-derived |
 | [kylebueche/compositor](../records/effects-kylebueche-compositor-53bcb2a4.md) | partial | 2026-02-02T08:34:18Z | registry-derived |
@@ -310,9 +310,9 @@ Records: `780`
 | [LordAlbior/UE4-Watercolor](../records/effects-lordalbior-ue4-watercolor-20e0b210.md) | partial | 2019-02-04T14:50:29Z | registry-derived |
 | [lotos-linux/hypr-dock](../records/effects-lotos-linux-hypr-dock-30a70bd7.md) | partial | 2026-03-14T22:51:39Z | registry-derived |
 | [luisnquin/battery-notifier](../records/effects-luisnquin-battery-notifier-63a8347b.md) | partial | 2026-06-13T04:07:29Z | registry-derived |
-| [malbiruk/driftwm](../records/effects-malbiruk-driftwm-7fb2ce7f.md) | partial | 2026-08-26T09:43:51Z | registry-derived |
+| [malbiruk/driftwm](../records/effects-malbiruk-driftwm-7fb2ce7f.md) | partial | 2026-09-06T14:53:57Z | registry-derived |
 | [Malidos/Stylized-Water-Shader](../records/effects-malidos-stylized-water-shader-b701423a.md) | partial | 2024-12-11T15:47:23Z | registry-derived |
-| [mangowm/mango](../records/effects-mangowm-mango-e98f7439.md) | partial | 2026-09-04T03:10:48Z | registry-derived |
+| [mangowm/mango](../records/effects-mangowm-mango-e98f7439.md) | partial | 2026-09-08T15:04:49Z | registry-derived |
 | [MarieLynneBlock/RealTimeAudioSignalProcessing-Faust](../records/effects-marielynneblock-realtimeaudiosignalprocessing-faust-184135f0.md) | partial | 2019-06-05T19:15:07Z | registry-derived |
 | [marinho/godot-visual-effects](../records/effects-marinho-godot-visual-effects-9a6af611.md) | partial | 2024-01-01T12:51:46Z | registry-derived |
 | [martinber/noaa-apt](../records/effects-martinber-noaa-apt-cd098cc9.md) | partial | 2024-02-10T15:41:50Z | registry-derived |
@@ -352,7 +352,7 @@ Records: `780`
 | [QianMo/X-PostProcessing-Library](../records/effects-qianmo-x-postprocessing-library-3834f7d5.md) | partial | 2023-07-14T17:42:11Z | registry-derived |
 | [radoslawregula/reverb-algorithms](../records/effects-radoslawregula-reverb-algorithms-0f4a1d2f.md) | partial | 2020-02-09T11:12:27Z | registry-derived |
 | [ralgar/vkShade](../records/effects-ralgar-vkshade-027f2833.md) | partial | 2026-09-08T04:24:50Z | registry-derived |
-| [rcalixte/awesome-wayland](../records/effects-rcalixte-awesome-wayland-4cc39bd2.md) | partial | 2026-08-30T19:00:18Z | registry-derived |
+| [rcalixte/awesome-wayland](../records/effects-rcalixte-awesome-wayland-4cc39bd2.md) | partial | 2026-09-05T17:56:05Z | registry-derived |
 | [robclouth/noise-canvas](../records/effects-robclouth-noise-canvas-171ca6d8.md) | partial | 2026-08-25T09:29:49Z | registry-derived |
 | [rockbite/talos](../records/effects-rockbite-talos-07105463.md) | partial | 2026-08-18T11:17:42Z | registry-derived |
 | [ruofeidu/MyShadertoy](../records/effects-ruofeidu-myshadertoy-a20635d7.md) | partial | 2017-11-13T21:25:28Z | registry-derived |
@@ -383,7 +383,7 @@ Records: `780`
 | [WillyBilly06/BDK-AUDIO-APP](../records/effects-willybilly06-bdk-audio-app-13262d72.md) | partial | 2026-06-08T09:56:37Z | registry-derived |
 | [witherst/MayaNodeInterface](../records/effects-witherst-mayanodeinterface-da0e0468.md) | partial | 2015-08-27T16:34:34Z | registry-derived |
 | [wizgrav/aframe-effects](../records/effects-wizgrav-aframe-effects-51b6f98f.md) | partial | 2020-08-23T23:36:32Z | registry-derived |
-| [wlrfx/swayfx](../records/effects-wlrfx-swayfx-44f294c1.md) | partial | 2026-08-31T08:08:15Z | registry-derived |
+| [wlrfx/swayfx](../records/effects-wlrfx-swayfx-44f294c1.md) | partial | 2026-09-07T22:17:23Z | registry-derived |
 | [Wokarol/PostProcessing-CustomEffects](../records/effects-wokarol-postprocessing-customeffects-d426029f.md) | unknown | github_latest_release_missing | registry-derived |
 | [wolf96/shader_for_unity](../records/effects-wolf96-shader-for-unity-ab3c90c1.md) | partial | 2015-08-07T01:16:56Z | registry-derived |
 | [XanderXu/RealityShaderExtension](../records/effects-xanderxu-realityshaderextension-4a05b6bb.md) | partial | 2026-01-15T09:43:04Z | registry-derived |
@@ -482,7 +482,8 @@ Records: `780`
 | [GlaireDaggers/RetroTVFX](../records/effects-glairedaggers-retrotvfx-5a5de5e3.md) | partial | 2022-05-21T08:55:16Z | registry-derived |
 | [IdeaSpaceVR/aframe-particle-system-component](../records/effects-ideaspacevr-aframe-particle-system-component-80cdc49c.md) | partial | 2023-03-13T17:54:41Z | registry-derived |
 | [ideoforms/signalflow](../records/effects-ideoforms-signalflow-fb90f2e9.md) | partial | 2026-05-04T21:05:19Z | registry-derived |
-| [iluaii/fwm](../records/effects-iluaii-fwm-02aec8aa.md) | partial | 2026-09-04T05:58:26Z | registry-derived |
+| [iluaii/fwm](../records/effects-iluaii-fwm-02aec8aa.md) | partial | 2026-09-07T17:38:11Z | registry-derived |
+| [Imirushik/sunbreak-downhill-3D-game](../records/effects-imirushik-sunbreak-downhill-3d-game-ce710ca8.md) | partial | 2026-09-05T17:28:02Z | registry-derived |
 | [jacksoswag/Spectra](../records/effects-jacksoswag-spectra-220288fc.md) | partial | 2026-08-12T16:32:19Z | registry-derived |
 | [jarl-opensource/drakkar-vfx](../records/effects-jarl-opensource-drakkar-vfx-7324f00c.md) | partial | 2025-07-10T00:21:11Z | registry-derived |
 | [jedypod/open-display-transform](../records/effects-jedypod-open-display-transform-f9d8c30c.md) | partial | 2026-02-09T21:40:50Z | registry-derived |
@@ -607,7 +608,7 @@ Records: `780`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [Dujltqzv/Some-Many-Books](../records/effects-dujltqzv-some-many-books-a48e40be.md) | partial | 2026-06-18T05:36:05Z | registry-derived |
-| [FletchMcKee/liquid](../records/effects-fletchmckee-liquid-7d69f5f2.md) | partial | 2026-09-02T02:20:18Z | registry-derived |
+| [FletchMcKee/liquid](../records/effects-fletchmckee-liquid-7d69f5f2.md) | partial | 2026-09-08T05:54:42Z | registry-derived |
 | [FutureSDR/FutureSDR](../records/effects-futuresdr-futuresdr-6047f36b.md) | partial | 2026-08-07T12:09:08Z | registry-derived |
 | [krazykira/VidEffects](../records/effects-krazykira-videffects-16e07ed0.md) | partial | 2021-12-29T19:24:04Z | registry-derived |
 | [MasayukiSuda/ExoPlayerFilter](../records/effects-masayukisuda-exoplayerfilter-37832e26.md) | partial | 2023-04-06T14:11:06Z | registry-derived |
@@ -735,7 +736,7 @@ Records: `780`
 | [supermedium/aframe-particleplayer-component](../records/effects-supermedium-aframe-particleplayer-component-30b4b7ff.md) | partial | 2024-01-22T19:47:50Z | registry-derived |
 | [tapeQz/Shine](../records/effects-tapeqz-shine-1178023f.md) | partial | 2026-06-09T15:02:52Z | registry-derived |
 | [Teragam/JFXShader](../records/effects-teragam-jfxshader-5c03bb3c.md) | partial | 2026-03-22T17:44:20Z | registry-derived |
-| [TheSalts/Text_Effects](../records/effects-thesalts-text-effects-565e3f1f.md) | partial | 2026-06-06T01:22:29Z | registry-derived |
+| [TheSalts/Text_Effects](../records/effects-thesalts-text-effects-565e3f1f.md) | partial | 2026-09-08T05:09:06Z | registry-derived |
 | [tom-mohr/particle-life-app](../records/effects-tom-mohr-particle-life-app-f8f211cd.md) | partial | 2025-12-13T19:37:02Z | registry-derived |
 | [uzkbwza/BurstParticles2D](../records/effects-uzkbwza-burstparticles2d-c1a8a7f4.md) | partial | 2024-06-17T23:58:25Z | registry-derived |
 | [yiliansource/party-js](../records/effects-yiliansource-party-js-532e4ff4.md) | partial | 2025-09-08T15:23:15Z | registry-derived |
@@ -787,7 +788,7 @@ Records: `780`
 | [rern/rAudio](../records/effects-rern-raudio-0853e696.md) | partial | 2026-09-07T12:38:22Z | registry-derived |
 | [rumlenordstroem/audio-effects](../records/effects-rumlenordstroem-audio-effects-637861a4.md) | partial | 2023-05-20T13:22:42Z | registry-derived |
 | [vfxai/vfx-datasets](../records/effects-vfxai-vfx-datasets-59e85e2e.md) | partial | 2018-08-20T03:59:12Z | registry-derived |
-| [ybouane/liquidglass](../records/effects-ybouane-liquidglass-a6dc3202.md) | partial | 2026-04-10T15:50:17Z | registry-derived |
+| [ybouane/liquidglass](../records/effects-ybouane-liquidglass-a6dc3202.md) | partial | 2026-09-06T19:24:34Z | registry-derived |
 
 ### Math Numeric Scientific
 
@@ -837,7 +838,7 @@ Records: `780`
 | [PrismPipeline/QuiltiX](../records/effects-prismpipeline-quiltix-bb50e556.md) | partial | 2025-07-03T17:45:40Z | registry-derived |
 | [sinnwrig/URP-Fog-Volumes](../records/effects-sinnwrig-urp-fog-volumes-845ab6cc.md) | partial | 2026-01-23T02:03:17Z | registry-derived |
 | [thevoidky/custom-post-process-on-urp](../records/effects-thevoidky-custom-post-process-on-urp-f0e94f32.md) | unknown | github_latest_release_missing | registry-derived |
-| [udinmoInc/WindEffects](../records/effects-udinmoinc-windeffects-66eeb79d.md) | partial | 2026-09-03T06:57:39Z | registry-derived |
+| [udinmoInc/WindEffects](../records/effects-udinmoinc-windeffects-66eeb79d.md) | partial | 2026-09-08T14:59:14Z | registry-derived |
 
 ### Parser Lexer Ast
 
@@ -931,7 +932,7 @@ Records: `780`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [canonical/wlcs](../records/effects-canonical-wlcs-0e2f6e21.md) | partial | 2026-08-30T23:52:14Z | registry-derived |
+| [canonical/wlcs](../records/effects-canonical-wlcs-0e2f6e21.md) | partial | 2026-09-04T15:33:16Z | registry-derived |
 | [greatest-ape/OctaSine](../records/effects-greatest-ape-octasine-7fa71b9c.md) | partial | 2024-07-03T10:59:21Z | registry-derived |
 | [keijiro/NNAOTest](../records/effects-keijiro-nnaotest-9909441c.md) | partial | 2017-08-10T10:54:24Z | registry-derived |
 | [keijiro/VfxGraphTestbed](../records/effects-keijiro-vfxgraphtestbed-63ba4cd6.md) | partial | 2021-02-19T08:29:08Z | registry-derived |

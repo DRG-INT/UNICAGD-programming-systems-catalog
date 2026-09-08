@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-08T14:26:03+00:00`
+Generated: `2026-09-08T15:25:39+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -13,7 +13,7 @@ Generated: `2026-09-08T14:26:03+00:00`
 [Cryptography (177)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (969)](by-category/database-datastore.md) · [Datetime (234)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (104)](by-category/dependency-manager.md) · [Documentation (109)](by-category/documentation.md)
 [Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (464)](by-category/ffi-bindings.md) · [Filesystem Os (1614)](by-category/filesystem-os.md) · [Formatter (651)](by-category/formatter.md)
-[Framework (63)](by-category/framework.md) · [Fuzzer (58)](by-category/fuzzer.md) · [Game Engine Game Dev (358)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1474)](by-category/ide-editor-integration.md)
+[Framework (63)](by-category/framework.md) · [Fuzzer (58)](by-category/fuzzer.md) · [Game Engine Game Dev (358)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1475)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (275)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
 [Language Server (30)](by-category/language-server.md) · [Language Specification (1450)](by-category/language-specification.md) · [Library (5760)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (531)](by-category/logging-observability.md) · [Machine Learning (802)](by-category/machine-learning.md)
@@ -63,7 +63,7 @@ Generated: `2026-09-08T14:26:03+00:00`
 | Space Engines | 158 | 0 | [Space Engines](by-language/space-engines.md) |
 | Space Shuttles | 80 | 0 | [Space Shuttles](by-language/space-shuttles.md) |
 | Space Maps | 653 | 0 | [Space Maps](by-language/space-maps.md) |
-| Effects | 780 | 8 | [Effects](by-language/effects.md) |
+| Effects | 781 | 8 | [Effects](by-language/effects.md) |
 | Audio | 481 | 6 | [Audio](by-language/audio.md) |
 | Video | 468 | 0 | [Video](by-language/video.md) |
 | Photography | 599 | 0 | [Photography](by-language/photography.md) |
@@ -123,7 +123,7 @@ Generated: `2026-09-08T14:26:03+00:00`
 | Framework | 63 | [framework](by-category/framework.md) |
 | Fuzzer | 58 | [fuzzer](by-category/fuzzer.md) |
 | Game Engine Game Dev | 358 | [game_engine_game_dev](by-category/game-engine-game-dev.md) |
-| Ide Editor Integration | 1474 | [ide_editor_integration](by-category/ide-editor-integration.md) |
+| Ide Editor Integration | 1475 | [ide_editor_integration](by-category/ide-editor-integration.md) |
 | Image Audio Dsp | 438 | [image_audio_dsp](by-category/image-audio-dsp.md) |
 | Interop Bindings | 62 | [interop_bindings](by-category/interop-bindings.md) |
 | Interpreter Runtime | 275 | [interpreter_runtime](by-category/interpreter-runtime.md) |
@@ -200,7 +200,7 @@ Generated: `2026-09-08T14:26:03+00:00`
 | Space Engines | 0 | 158 |
 | Space Shuttles | 0 | 80 |
 | Space Maps | 0 | 653 |
-| Effects | 8 | 772 |
+| Effects | 8 | 773 |
 | Audio | 6 | 475 |
 | Video | 0 | 468 |
 | Photography | 0 | 599 |

@@ -15,7 +15,7 @@ Records: `358`
 [Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (969)](database-datastore.md) · [Datetime (234)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (104)](dependency-manager.md) · [Documentation (109)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (464)](ffi-bindings.md) · [Filesystem Os (1614)](filesystem-os.md) · [Formatter (651)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · **[Game Engine Game Dev (358)](game-engine-game-dev.md)** · [Ide Editor Integration (1474)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · **[Game Engine Game Dev (358)](game-engine-game-dev.md)** · [Ide Editor Integration (1475)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (275)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (30)](language-server.md) · [Language Specification (1450)](language-specification.md) · [Library (5760)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (802)](machine-learning.md)
@@ -435,7 +435,7 @@ Records: `358`
 | --- | --- | --- | --- |
 | bitfieldaudio/OTTO | partial | 2023-01-23T08:31:10Z | [open](../records/audio-bitfieldaudio-otto-3f40ed1a.md) |
 | jarikomppa/soloud | partial | 2024-08-13T04:10:58Z | [open](../records/audio-jarikomppa-soloud-63f03ea3.md) |
-| turanszkij/WickedEngine | partial | 2026-08-31T15:27:47Z | [open](../records/audio-turanszkij-wickedengine-5bc83ed9.md) |
+| turanszkij/WickedEngine | partial | 2026-09-08T13:05:55Z | [open](../records/audio-turanszkij-wickedengine-5bc83ed9.md) |
 
 ## Video
 
@@ -505,7 +505,7 @@ Records: `358`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | cottsay/arm_asm_emu | partial | 2022-02-07T00:51:12Z | [open](../records/assembly-cottsay-arm-asm-emu-d1df6727.md) |
-| decompme/decomp.me | partial | 2026-09-08T10:57:36Z | [open](../records/assembly-decompme-decomp-me-72e4eec1.md) |
+| decompme/decomp.me | partial | 2026-09-08T14:39:25Z | [open](../records/assembly-decompme-decomp-me-72e4eec1.md) |
 | dethrace-labs/dethrace | partial | 2026-09-07T08:49:07Z | [open](../records/assembly-dethrace-labs-dethrace-0d609365.md) |
 | io12/BootMine | partial | 2021-01-21T04:53:31Z | [open](../records/assembly-io12-bootmine-85e26922.md) |
 | tgrysztar/fasmg | partial | 2026-07-19T09:21:17Z | [open](../records/assembly-tgrysztar-fasmg-1281abcb.md) |

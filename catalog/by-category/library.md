@@ -15,7 +15,7 @@ Records: `5760`
 [Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (969)](database-datastore.md) · [Datetime (234)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (104)](dependency-manager.md) · [Documentation (109)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (464)](ffi-bindings.md) · [Filesystem Os (1614)](filesystem-os.md) · [Formatter (651)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1474)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1475)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (275)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (30)](language-server.md) · [Language Specification (1450)](language-specification.md) · **[Library (5760)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (802)](machine-learning.md)
@@ -4321,7 +4321,7 @@ Records: `5760`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-08T14:21:02Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-08T14:51:45Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | unknown | not_a_go_module_path | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4335,7 +4335,7 @@ Records: `5760`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-08T12:14:13Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-08T15:10:35Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -5009,7 +5009,7 @@ Records: `5760`
 | supermedium/aframe-particleplayer-component | partial | 2024-01-22T19:47:50Z | [open](../records/effects-supermedium-aframe-particleplayer-component-30b4b7ff.md) |
 | tapeQz/Shine | partial | 2026-06-09T15:02:52Z | [open](../records/effects-tapeqz-shine-1178023f.md) |
 | Teragam/JFXShader | partial | 2026-03-22T17:44:20Z | [open](../records/effects-teragam-jfxshader-5c03bb3c.md) |
-| TheSalts/Text_Effects | partial | 2026-06-06T01:22:29Z | [open](../records/effects-thesalts-text-effects-565e3f1f.md) |
+| TheSalts/Text_Effects | partial | 2026-09-08T05:09:06Z | [open](../records/effects-thesalts-text-effects-565e3f1f.md) |
 | tom-mohr/particle-life-app | partial | 2025-12-13T19:37:02Z | [open](../records/effects-tom-mohr-particle-life-app-f8f211cd.md) |
 | uzkbwza/BurstParticles2D | partial | 2024-06-17T23:58:25Z | [open](../records/effects-uzkbwza-burstparticles2d-c1a8a7f4.md) |
 | yiliansource/party-js | partial | 2025-09-08T15:23:15Z | [open](../records/effects-yiliansource-party-js-532e4ff4.md) |
@@ -5148,7 +5148,7 @@ Records: `5760`
 | HuTianQi/SmartOpenCV | partial | 2020-04-28T12:34:36Z | [open](../records/photography-hutianqi-smartopencv-fb7be8c7.md) |
 | iuroc/bilidown | partial | 2026-08-07T15:26:14Z | [open](../records/photography-iuroc-bilidown-e402296a.md) |
 | jeonghyeon-net/exif-frame | partial | 2026-05-06T17:15:29Z | [open](../records/photography-jeonghyeon-net-exif-frame-0eb5693e.md) |
-| JurajNyiri/HomeAssistant-Tapo-Control | partial | 2026-09-03T22:04:15Z | [open](../records/photography-jurajnyiri-homeassistant-tapo-control-998b0d7e.md) |
+| JurajNyiri/HomeAssistant-Tapo-Control | partial | 2026-09-08T12:10:21Z | [open](../records/photography-jurajnyiri-homeassistant-tapo-control-998b0d7e.md) |
 | kamadak/exif-rs | partial | 2025-10-21T14:42:29Z | [open](../records/photography-kamadak-exif-rs-eafd841f.md) |
 | kxvn-lx/Kontax-Cam | partial | 2021-05-20T03:41:28Z | [open](../records/photography-kxvn-lx-kontax-cam-04e1f89a.md) |
 | libexif/libexif | partial | 2026-08-19T18:08:37Z | [open](../records/photography-libexif-libexif-bbf47a88.md) |

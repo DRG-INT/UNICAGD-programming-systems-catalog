@@ -15,7 +15,7 @@ Records: `570`
 [Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (969)](database-datastore.md) · [Datetime (234)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (104)](dependency-manager.md) · [Documentation (109)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (464)](ffi-bindings.md) · [Filesystem Os (1614)](filesystem-os.md) · [Formatter (651)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1474)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1475)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (275)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (30)](language-server.md) · [Language Specification (1450)](language-specification.md) · [Library (5760)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (802)](machine-learning.md)
@@ -531,10 +531,10 @@ Records: `570`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-08T13:37:01Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-08T14:55:27Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-08T14:21:58Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-08T15:21:48Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 
@@ -597,7 +597,7 @@ Records: `570`
 | --- | --- | --- | --- |
 | c8r/lab-cli | partial | 2018-02-18T17:42:26Z | [open](../records/effects-c8r-lab-cli-d2cc5cac.md) |
 | CanYuzbey/Cpp-Audio-Bitcrusher | partial | 2026-01-25T15:51:00Z | [open](../records/effects-canyuzbey-cpp-audio-bitcrusher-d7defebc.md) |
-| denialwm/denial | partial | 2026-08-31T21:15:38Z | [open](../records/effects-denialwm-denial-38ee513d.md) |
+| denialwm/denial | partial | 2026-09-07T19:55:10Z | [open](../records/effects-denialwm-denial-38ee513d.md) |
 | EemilAhonen/leikkaus | partial | 2024-03-04T22:16:25Z | [open](../records/effects-eemilahonen-leikkaus-f2b2b34e.md) |
 | ha7ilm/csdr | partial | 2024-02-06T12:13:28Z | [open](../records/effects-ha7ilm-csdr-5d56336a.md) |
 | jmstajim/Particlized | partial | 2025-09-18T20:30:44Z | [open](../records/effects-jmstajim-particlized-6bb3d995.md) |

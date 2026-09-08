@@ -15,7 +15,7 @@ Records: `561`
 [Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (969)](database-datastore.md) · [Datetime (234)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (104)](dependency-manager.md) · [Documentation (109)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (464)](ffi-bindings.md) · [Filesystem Os (1614)](filesystem-os.md) · [Formatter (651)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1474)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1475)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (275)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (30)](language-server.md) · [Language Specification (1450)](language-specification.md) · [Library (5760)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (802)](machine-learning.md)
@@ -597,14 +597,14 @@ Records: `561`
 | dwhinham/mt32-pi | partial | 2025-02-04T22:46:21Z | [open](../records/audio-dwhinham-mt32-pi-7a87163b.md) |
 | jatinchowdhury18/Bad-Circuit-Modelling | partial | 2020-12-08T20:46:46Z | [open](../records/audio-jatinchowdhury18-bad-circuit-modelling-c65762b2.md) |
 | jatinchowdhury18/KlonCentaur | partial | 2021-09-30T04:26:33Z | [open](../records/audio-jatinchowdhury18-kloncentaur-2ceba457.md) |
-| Lake1059/FFmpegFreeUI | partial | 2026-09-07T01:41:38Z | [open](../records/audio-lake1059-ffmpegfreeui-be2fb128.md) |
+| Lake1059/FFmpegFreeUI | partial | 2026-09-08T14:33:47Z | [open](../records/audio-lake1059-ffmpegfreeui-be2fb128.md) |
 | monomadic/dd-core | partial | 2019-01-14T07:21:52Z | [open](../records/audio-monomadic-dd-core-a1124514.md) |
 | pierreguillot/Camomile | partial | 2024-02-26T10:06:47Z | [open](../records/audio-pierreguillot-camomile-eeeac032.md) |
 | pschatzmann/arduino-audio-tools | partial | 2026-09-06T16:05:32Z | [open](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) |
 | QVbDev/quantumVerb | partial | 2018-04-11T17:24:17Z | [open](../records/audio-qvbdev-quantumverb-59e9d065.md) |
 | rsadsb/adsb_deku | partial | 2026-01-04T16:18:33Z | [open](../records/audio-rsadsb-adsb-deku-8c9a3700.md) |
 | sp-nitech/SPTK | partial | 2026-08-25T13:37:51Z | [open](../records/audio-sp-nitech-sptk-7cf4cfee.md) |
-| unchihugo/FluentFlyout | partial | 2026-09-07T20:18:54Z | [open](../records/audio-unchihugo-fluentflyout-e2e81b2d.md) |
+| unchihugo/FluentFlyout | partial | 2026-09-08T15:23:58Z | [open](../records/audio-unchihugo-fluentflyout-e2e81b2d.md) |
 | zynthian/zynthian-ui | partial | 2026-09-06T20:31:32Z | [open](../records/audio-zynthian-zynthian-ui-308e1a33.md) |
 
 ## Video
@@ -645,7 +645,7 @@ Records: `561`
 | DylanMuir/ReadImageJROI | partial | 2019-12-13T09:00:35Z | [open](../records/microscopy-dylanmuir-readimagejroi-cdcd6e99.md) |
 | hms-dbmi/viv | partial | 2026-09-01T08:19:28Z | [open](../records/microscopy-hms-dbmi-viv-ad3c5c92.md) |
 | napari | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/microscopy-napari-24961023.md) |
-| scenerygraphics/sciview | partial | 2026-07-24T08:43:53Z | [open](../records/microscopy-scenerygraphics-sciview-c324a0d7.md) |
+| scenerygraphics/sciview | partial | 2026-09-08T13:50:11Z | [open](../records/microscopy-scenerygraphics-sciview-c324a0d7.md) |
 
 ## Telescopes
 

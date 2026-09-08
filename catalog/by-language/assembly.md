@@ -15,7 +15,7 @@ Records: `308`
 [Cryptography (177)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (969)](../by-category/database-datastore.md) · [Datetime (234)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (104)](../by-category/dependency-manager.md) · [Documentation (109)](../by-category/documentation.md)
 [Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (464)](../by-category/ffi-bindings.md) · [Filesystem Os (1614)](../by-category/filesystem-os.md) · [Formatter (651)](../by-category/formatter.md)
-[Framework (63)](../by-category/framework.md) · [Fuzzer (58)](../by-category/fuzzer.md) · [Game Engine Game Dev (358)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1474)](../by-category/ide-editor-integration.md)
+[Framework (63)](../by-category/framework.md) · [Fuzzer (58)](../by-category/fuzzer.md) · [Game Engine Game Dev (358)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1475)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (275)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
 [Language Server (30)](../by-category/language-server.md) · [Language Specification (1450)](../by-category/language-specification.md) · [Library (5760)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (531)](../by-category/logging-observability.md) · [Machine Learning (802)](../by-category/machine-learning.md)
@@ -70,13 +70,13 @@ Records: `308`
 | [emproof-com/nyxstone](../records/assembly-emproof-com-nyxstone-2e6c50f8.md) | partial | 2026-06-05T16:43:08Z | registry-derived |
 | [Fedjmike/mini-c](../records/assembly-fedjmike-mini-c-295a2fc0.md) | partial | 2022-04-15T08:24:14Z | registry-derived |
 | [HexHive/retrowrite](../records/assembly-hexhive-retrowrite-c7fefa2b.md) | partial | 2025-04-26T16:48:55Z | registry-derived |
-| [illegalstudio/elephc](../records/assembly-illegalstudio-elephc-5fbaada8.md) | partial | 2026-09-08T13:16:20Z | registry-derived |
+| [illegalstudio/elephc](../records/assembly-illegalstudio-elephc-5fbaada8.md) | partial | 2026-09-08T15:23:05Z | registry-derived |
 | [joexbayer/RetrOS-32](../records/assembly-joexbayer-retros-32-b6c205a2.md) | partial | 2026-02-22T16:07:58Z | registry-derived |
 | [JustasMasiulis/inline_syscall](../records/assembly-justasmasiulis-inline-syscall-0c8a798a.md) | partial | 2024-06-21T00:26:33Z | registry-derived |
 | [Mati365/ts-c-compiler](../records/assembly-mati365-ts-c-compiler-bc7fb5c3.md) | partial | 2026-08-11T06:13:10Z | registry-derived |
 | [pacak/cargo-show-asm](../records/assembly-pacak-cargo-show-asm-9459d0cc.md) | partial | 2026-08-31T18:32:36Z | registry-derived |
 | [ujjwal-kr/system-programming-roadmap](../records/assembly-ujjwal-kr-system-programming-roadmap-128f664f.md) | partial | 2026-08-29T03:34:53Z | registry-derived |
-| [vygr/ChrysaLisp](../records/assembly-vygr-chrysalisp-0e234f7b.md) | partial | 2026-09-08T11:05:15Z | registry-derived |
+| [vygr/ChrysaLisp](../records/assembly-vygr-chrysalisp-0e234f7b.md) | partial | 2026-09-08T15:05:24Z | registry-derived |
 | [wargio/r2dec-js](../records/assembly-wargio-r2dec-js-b98d3015.md) | partial | 2026-08-16T18:36:14Z | registry-derived |
 | [wgtdkp/wgtcc](../records/assembly-wgtdkp-wgtcc-991c7fcc.md) | partial | 2021-01-31T07:55:46Z | registry-derived |
 
@@ -183,7 +183,7 @@ Records: `308`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [cottsay/arm_asm_emu](../records/assembly-cottsay-arm-asm-emu-d1df6727.md) | partial | 2022-02-07T00:51:12Z | registry-derived |
-| [decompme/decomp.me](../records/assembly-decompme-decomp-me-72e4eec1.md) | partial | 2026-09-08T10:57:36Z | registry-derived |
+| [decompme/decomp.me](../records/assembly-decompme-decomp-me-72e4eec1.md) | partial | 2026-09-08T14:39:25Z | registry-derived |
 | [dethrace-labs/dethrace](../records/assembly-dethrace-labs-dethrace-0d609365.md) | partial | 2026-09-07T08:49:07Z | registry-derived |
 | [io12/BootMine](../records/assembly-io12-bootmine-85e26922.md) | partial | 2021-01-21T04:53:31Z | registry-derived |
 | [tgrysztar/fasmg](../records/assembly-tgrysztar-fasmg-1281abcb.md) | partial | 2026-07-19T09:21:17Z | registry-derived |
@@ -325,7 +325,7 @@ Records: `308`
 | [Unity-Technologies/com.unity.webrtc](../records/assembly-unity-technologies-com-unity-webrtc-4e7b1f20.md) | partial | 2026-08-18T02:46:47Z | registry-derived |
 | [videolan/dav1d](../records/assembly-videolan-dav1d-9dfd565a.md) | partial | 2026-09-03T15:17:14Z | registry-derived |
 | [videolan/x265](../records/assembly-videolan-x265-a7ebef11.md) | partial | 2023-09-11T18:48:51Z | registry-derived |
-| [virtualagc/virtualagc](../records/assembly-virtualagc-virtualagc-45e1ca87.md) | partial | 2026-09-07T14:50:47Z | registry-derived |
+| [virtualagc/virtualagc](../records/assembly-virtualagc-virtualagc-45e1ca87.md) | partial | 2026-09-08T14:51:38Z | registry-derived |
 | [VitorVilela7/wide-snes](../records/assembly-vitorvilela7-wide-snes-d07bc41e.md) | partial | 2023-07-03T20:54:27Z | registry-derived |
 | [vxunderground/MalwareSourceCode](../records/assembly-vxunderground-malwaresourcecode-7c22542f.md) | partial | 2026-05-30T07:11:00Z | registry-derived |
 | [xiph/rav1e](../records/assembly-xiph-rav1e-5183562e.md) | partial | 2026-09-07T22:30:12Z | registry-derived |

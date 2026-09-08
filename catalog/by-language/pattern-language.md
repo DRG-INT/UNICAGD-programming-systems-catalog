@@ -15,7 +15,7 @@ Records: `146`
 [Cryptography (177)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (969)](../by-category/database-datastore.md) · [Datetime (234)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (104)](../by-category/dependency-manager.md) · [Documentation (109)](../by-category/documentation.md)
 [Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (464)](../by-category/ffi-bindings.md) · [Filesystem Os (1614)](../by-category/filesystem-os.md) · [Formatter (651)](../by-category/formatter.md)
-[Framework (63)](../by-category/framework.md) · [Fuzzer (58)](../by-category/fuzzer.md) · [Game Engine Game Dev (358)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1474)](../by-category/ide-editor-integration.md)
+[Framework (63)](../by-category/framework.md) · [Fuzzer (58)](../by-category/fuzzer.md) · [Game Engine Game Dev (358)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1475)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (275)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
 [Language Server (30)](../by-category/language-server.md) · [Language Specification (1450)](../by-category/language-specification.md) · [Library (5760)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (531)](../by-category/logging-observability.md) · [Machine Learning (802)](../by-category/machine-learning.md)
@@ -154,7 +154,7 @@ Records: `146`
 | [mehdihadeli/awesome-software-architecture](../records/pattern-language-mehdihadeli-awesome-software-architecture-caec9f49.md) | partial | 2026-09-06T21:22:08Z | registry-derived |
 | [Microservice-API-Patterns/LakesideMutual](../records/pattern-language-microservice-api-patterns-lakesidemutual-c3f0fcf1.md) | partial | 2025-10-13T18:11:28Z | registry-derived |
 | [NoDivide/astrum](../records/pattern-language-nodivide-astrum-81381787.md) | partial | 2022-05-13T22:45:05Z | registry-derived |
-| [spring-projects/spring-integration](../records/pattern-language-spring-projects-spring-integration-fd457078.md) | partial | 2026-09-08T14:23:53Z | registry-derived |
+| [spring-projects/spring-integration](../records/pattern-language-spring-projects-spring-integration-fd457078.md) | partial | 2026-09-08T15:18:08Z | registry-derived |
 | [vaquarkhan/microservices-recipes-a-free-gitbook](../records/pattern-language-vaquarkhan-microservices-recipes-a-free-gitbook-fe8fd71a.md) | partial | 2026-09-08T07:07:48Z | registry-derived |
 
 ### Language Specification
