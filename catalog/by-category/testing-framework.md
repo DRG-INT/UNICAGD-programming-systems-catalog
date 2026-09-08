@@ -1,6 +1,6 @@
 # Testing Framework
 
-Records: `607`
+Records: `608`
 
 ## Navigation
 
@@ -8,22 +8,22 @@ Records: `607`
 
 ## Category Index
 
-[Api Abi Checker (221)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (200)](benchmarking.md) · [Build System (994)](build-system.md) · [Cli (567)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (52)](compression.md)
+[Api Abi Checker (222)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
+[Benchmarking (200)](benchmarking.md) · [Build System (995)](build-system.md) · [Cli (567)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
 [Concurrency Parallelism (93)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (897)](database-datastore.md) · [Datetime (234)](datetime.md)
+[Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (899)](database-datastore.md) · [Datetime (234)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (103)](dependency-manager.md) · [Documentation (107)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1611)](filesystem-os.md) · [Formatter (648)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1465)](ide-editor-integration.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1612)](filesystem-os.md) · [Formatter (648)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (357)](game-engine-game-dev.md) · [Ide Editor Integration (1465)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1441)](language-specification.md) · [Library (5735)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (30)](language-server.md) · [Language Specification (1441)](language-specification.md) · [Library (5740)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (796)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1042)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1195)](parser-lexer-ast.md) · [Precommit Ci Quality (309)](precommit-ci-quality.md)
-[Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (624)](static-analyzer.md)
-[Templating (2)](templating.md) · **[Testing Framework (607)](testing-framework.md)** · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
+[Profiler (87)](profiler.md) · [Project Scaffolding (134)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (627)](static-analyzer.md)
+[Templating (2)](templating.md) · **[Testing Framework (608)](testing-framework.md)** · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
 [Undefined Behavior Analyzer (1619)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (560)](visualization-gui.md) · [Web Framework (478)](web-framework.md)
 
 ## C99
@@ -249,7 +249,7 @@ Records: `607`
 | @vaadin/testing-helpers | 2.0.0 | 2025-05-22T07:11:46.251Z | [open](../records/node-js-javascript-vaadin-testing-helpers-76f9cb35.md) |
 | @vendure/testing | 3.7.3 | 2026-09-02T07:54:17.358Z | [open](../records/node-js-javascript-vendure-testing-113ecb30.md) |
 | @vibe/testkit | 4.0.0 | 2026-03-18T11:21:17.135Z | [open](../records/node-js-javascript-vibe-testkit-1606f963.md) |
-| @vizzly-testing/cli | 0.35.2 | 2026-06-20T16:47:57.212Z | [open](../records/node-js-javascript-vizzly-testing-cli-e4348fc2.md) |
+| @vizzly-testing/cli | 0.36.0 | 2026-09-08T06:22:32.088Z | [open](../records/node-js-javascript-vizzly-testing-cli-e4348fc2.md) |
 | @vue/cli-plugin-unit-jest | 5.0.9 | 2025-08-21T10:57:04.686Z | [open](../records/node-js-javascript-vue-cli-plugin-unit-jest-00f301fd.md) |
 | @vue/test-utils | 2.5.0 | 2026-08-27T13:56:57.235Z | [open](../records/node-js-javascript-vue-test-utils-aa8d0a01.md) |
 | @wdio/cucumber-framework | 9.31.7 | 2026-09-07T20:06:23.289Z | [open](../records/node-js-javascript-wdio-cucumber-framework-3fd5daaf.md) |
@@ -494,6 +494,7 @@ Records: `607`
 | distributed-process-tests | 0.5.2 | 2025-02-05T01:57:07Z | [open](../records/haskell-distributed-process-tests-fb4ba8e2.md) |
 | doctest | 0.25.0 | 2026-05-03T17:07:23Z | [open](../records/haskell-doctest-30d37480.md) |
 | hls-test-utils | 2.15.0.0 | 2026-09-04T10:41:58Z | [open](../records/haskell-hls-test-utils-92298e45.md) |
+| keiro-test-support | 0.16.0.0 | 2026-09-08T05:23:44Z | [open](../records/haskell-keiro-test-support-e5766eee.md) |
 | polysemy-test | 0.11.0.1 | 2026-04-27T14:41:34Z | [open](../records/haskell-polysemy-test-c2be84ef.md) |
 | shelltestrunner | 1.11 | 2025-11-18T08:57:22Z | [open](../records/haskell-shelltestrunner-fa7b5020.md) |
 | streaming-bytestring | 0.3.4 | 2025-02-11T09:33:05Z | [open](../records/haskell-streaming-bytestring-78cfcae5.md) |
