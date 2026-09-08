@@ -17,14 +17,14 @@ Records: `1195`
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1611)](filesystem-os.md) · [Formatter (648)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1464)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1441)](language-specification.md) · [Library (5731)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (30)](language-server.md) · [Language Specification (1441)](language-specification.md) · [Library (5732)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (796)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1041)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · **[Parser Lexer Ast (1195)](parser-lexer-ast.md)** · [Precommit Ci Quality (309)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (623)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (607)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1618)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (560)](visualization-gui.md) · [Web Framework (478)](web-framework.md)
+[Undefined Behavior Analyzer (1619)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (560)](visualization-gui.md) · [Web Framework (478)](web-framework.md)
 
 ## C99
 
@@ -650,7 +650,7 @@ Records: `1195`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AstrBotDevs/AstrBot | partial | 2026-09-07T16:39:27Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
+| AstrBotDevs/AstrBot | partial | 2026-09-08T01:06:46Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
 | HKUDS/LightRAG | partial | 2026-09-07T19:47:45Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
 | labring/FastGPT | partial | 2026-09-07T12:09:57Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
@@ -1318,7 +1318,7 @@ Records: `1195`
 | --- | --- | --- | --- |
 | 2KAbhishek/tdo | partial | 2026-09-03T17:12:57Z | [open](../records/magazines-2kabhishek-tdo-3992095c.md) |
 | ajaymnk/open-electronics | partial | 2024-12-22T18:40:08Z | [open](../records/magazines-ajaymnk-open-electronics-d823069e.md) |
-| collective/icalendar | partial | 2026-09-06T12:33:13Z | [open](../records/magazines-collective-icalendar-8d6e8512.md) |
+| collective/icalendar | partial | 2026-09-08T00:43:52Z | [open](../records/magazines-collective-icalendar-8d6e8512.md) |
 | FiltersHeroes/PolishAnnoyanceFilters | partial | 2026-09-02T10:25:34Z | [open](../records/magazines-filtersheroes-polishannoyancefilters-7c5a5ef3.md) |
 | Ha0Tang/HandGestureRecognition | partial | 2021-07-25T07:22:18Z | [open](../records/magazines-ha0tang-handgesturerecognition-16d2c54b.md) |
 | mat-nolen/tldr-radio | partial | 2026-08-29T22:50:47Z | [open](../records/magazines-mat-nolen-tldr-radio-65ac5e2c.md) |
@@ -1384,7 +1384,7 @@ Records: `1195`
 | esimov/pigo | partial | 2025-05-03T15:07:42Z | [open](../records/webassembly-esimov-pigo-47c4c3e9.md) |
 | satabin/swam | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-satabin-swam-0cad2eae.md) |
 | unum-cloud/USearch | partial | 2026-08-31T22:47:21Z | [open](../records/webassembly-unum-cloud-usearch-c7ae11cc.md) |
-| wasmerio/wasmer | partial | 2026-09-07T07:29:58Z | [open](../records/webassembly-wasmerio-wasmer-6c9ffa90.md) |
+| wasmerio/wasmer | partial | 2026-09-08T01:15:59Z | [open](../records/webassembly-wasmerio-wasmer-6c9ffa90.md) |
 
 ## SAPJava
 

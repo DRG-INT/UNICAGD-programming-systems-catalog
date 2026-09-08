@@ -1,6 +1,6 @@
 # Radio Garden Speciality
 
-Records: `125`
+Records: `127`
 
 ## Navigation
 
@@ -17,14 +17,14 @@ Records: `125`
 [Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (457)](../by-category/ffi-bindings.md) · [Filesystem Os (1611)](../by-category/filesystem-os.md) · [Formatter (648)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (356)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1464)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (273)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (30)](../by-category/language-server.md) · [Language Specification (1441)](../by-category/language-specification.md) · [Library (5731)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (30)](../by-category/language-server.md) · [Language Specification (1441)](../by-category/language-specification.md) · [Library (5732)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (530)](../by-category/logging-observability.md) · [Machine Learning (796)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1041)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1195)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (309)](../by-category/precommit-ci-quality.md)
 [Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (336)](../by-category/security-sast.md) · [Serialization (400)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (623)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (607)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1618)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (560)](../by-category/visualization-gui.md) · [Web Framework (478)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1619)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (560)](../by-category/visualization-gui.md) · [Web Framework (478)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -155,6 +155,7 @@ Records: `125`
 | --- | --- | --- | --- |
 | [abrahammg/radio_garden_extractor](../records/radio-garden-speciality-abrahammg-radio-garden-extractor-1a7c7fcf.md) | partial | 2023-05-18T10:31:55Z | registry-derived |
 | [akashshrestha21/Radio-Garden](../records/radio-garden-speciality-akashshrestha21-radio-garden-59ee183e.md) | partial | 2017-12-02T00:54:23Z | registry-derived |
+| [anandhx/Kerala-Radio](../records/radio-garden-speciality-anandhx-kerala-radio-321f726d.md) | partial | 2024-01-14T13:31:57Z | registry-derived |
 | [Anvesh-Vishwakarma/Radio.garden](../records/radio-garden-speciality-anvesh-vishwakarma-radio-garden-297cf677.md) | partial | 2026-07-11T13:42:55Z | registry-derived |
 | [anxzxz/radiogarden](../records/radio-garden-speciality-anxzxz-radiogarden-50474431.md) | partial | 2026-01-24T16:48:01Z | registry-derived |
 | [billyx86/radio-garden-clone](../records/radio-garden-speciality-billyx86-radio-garden-clone-95c13869.md) | partial | 2026-08-27T03:05:40Z | registry-derived |
@@ -273,6 +274,7 @@ Records: `125`
 | [ovosimpatico/radio.garden-to-m3u](../records/radio-garden-speciality-ovosimpatico-radio-garden-to-m3u-4207cfcd.md) | partial | 2025-07-27T01:58:49Z | registry-derived |
 | [PsychedelicSoulSoundLtd/Block-Music-Radio](../records/radio-garden-speciality-psychedelicsoulsoundltd-block-music-radio-445398d9.md) | partial | 2022-02-16T16:53:33Z | registry-derived |
 | [sam95-fr-hub/GDCC](../records/radio-garden-speciality-sam95-fr-hub-gdcc-614a8229.md) | partial | 2026-07-31T16:19:32Z | registry-derived |
+| [sam95-fr-hub/GTRC](../records/radio-garden-speciality-sam95-fr-hub-gtrc-2232a95e.md) | partial | 2026-09-03T14:26:10Z | registry-derived |
 
 ### Visualization Gui
 

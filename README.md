@@ -1,6 +1,6 @@
 # UNICAGD Programming Systems Discovery Catalog
 
-Generated: `2026-09-08T00:35:00+00:00`
+Generated: `2026-09-08T01:21:57+00:00`
 
 This repository is a Markdown explorer for a systems-engineering programming corpus. It preserves the master JSON seed, expands it with registry-derived ecosystem records, and tracks release metadata without guessing unknown dates.
 
@@ -23,26 +23,26 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 [Embedded Hardware (60)](catalog/by-category/embedded-hardware.md) · [Ffi Bindings (457)](catalog/by-category/ffi-bindings.md) · [Filesystem Os (1611)](catalog/by-category/filesystem-os.md) · [Formatter (648)](catalog/by-category/formatter.md)
 [Framework (63)](catalog/by-category/framework.md) · [Fuzzer (57)](catalog/by-category/fuzzer.md) · [Game Engine Game Dev (356)](catalog/by-category/game-engine-game-dev.md) · [Ide Editor Integration (1464)](catalog/by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](catalog/by-category/image-audio-dsp.md) · [Interop Bindings (62)](catalog/by-category/interop-bindings.md) · [Interpreter Runtime (273)](catalog/by-category/interpreter-runtime.md) · [Jit Vm (64)](catalog/by-category/jit-vm.md)
-[Language Server (30)](catalog/by-category/language-server.md) · [Language Specification (1441)](catalog/by-category/language-specification.md) · [Library (5731)](catalog/by-category/library.md) · [Lint Plugin (1)](catalog/by-category/lint-plugin.md)
+[Language Server (30)](catalog/by-category/language-server.md) · [Language Specification (1441)](catalog/by-category/language-specification.md) · [Library (5732)](catalog/by-category/library.md) · [Lint Plugin (1)](catalog/by-category/lint-plugin.md)
 [Lint Rule Pack (49)](catalog/by-category/lint-rule-pack.md) · [Linter (348)](catalog/by-category/linter.md) · [Logging Observability (530)](catalog/by-category/logging-observability.md) · [Machine Learning (796)](catalog/by-category/machine-learning.md)
 [Math Numeric Scientific (88)](catalog/by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](catalog/by-category/memory-analyzer.md) · [Message Broker (40)](catalog/by-category/message-broker.md) · [Networking Http (1041)](catalog/by-category/networking-http.md)
 [Other (14)](catalog/by-category/other.md) · [Package Manager (442)](catalog/by-category/package-manager.md) · [Parser Lexer Ast (1195)](catalog/by-category/parser-lexer-ast.md) · [Precommit Ci Quality (309)](catalog/by-category/precommit-ci-quality.md)
 [Profiler (87)](catalog/by-category/profiler.md) · [Project Scaffolding (133)](catalog/by-category/project-scaffolding.md) · [Registry Repository (133)](catalog/by-category/registry-repository.md) · [Sanitizer (16)](catalog/by-category/sanitizer.md)
 [Security Sast (336)](catalog/by-category/security-sast.md) · [Serialization (400)](catalog/by-category/serialization.md) · [Standard Library (25)](catalog/by-category/standard-library.md) · [Static Analyzer (623)](catalog/by-category/static-analyzer.md)
 [Templating (2)](catalog/by-category/templating.md) · [Testing Framework (607)](catalog/by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](catalog/by-category/tutorial-book-styleguide.md) · [Type Checker (313)](catalog/by-category/type-checker.md)
-[Undefined Behavior Analyzer (1618)](catalog/by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](catalog/by-category/utility-library.md) · [Visualization Gui (560)](catalog/by-category/visualization-gui.md) · [Web Framework (478)](catalog/by-category/web-framework.md)
+[Undefined Behavior Analyzer (1619)](catalog/by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](catalog/by-category/utility-library.md) · [Visualization Gui (560)](catalog/by-category/visualization-gui.md) · [Web Framework (478)](catalog/by-category/web-framework.md)
 
 ## Corpus Shape
 
 | Metric | Count |
 | --- | ---: |
 | Source records | 968 |
-| Canonical identity pages | 27627 |
+| Canonical identity pages | 27629 |
 | Expansion records added | 8605 |
 | Release checks attempted | 1200 |
 | Known stable release fields | 10285 |
-| Unknown stable release fields | 17342 |
-| Fetch errors recorded | 999 |
+| Unknown stable release fields | 17344 |
+| Fetch errors recorded | 1019 |
 | Target identity count | 24000 |
 
 ## Language Scope

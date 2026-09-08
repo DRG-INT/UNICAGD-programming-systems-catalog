@@ -17,14 +17,14 @@ Records: `311`
 [Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (457)](../by-category/ffi-bindings.md) · [Filesystem Os (1611)](../by-category/filesystem-os.md) · [Formatter (648)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (356)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1464)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (273)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (30)](../by-category/language-server.md) · [Language Specification (1441)](../by-category/language-specification.md) · [Library (5731)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (30)](../by-category/language-server.md) · [Language Specification (1441)](../by-category/language-specification.md) · [Library (5732)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (530)](../by-category/logging-observability.md) · [Machine Learning (796)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1041)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1195)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (309)](../by-category/precommit-ci-quality.md)
 [Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (336)](../by-category/security-sast.md) · [Serialization (400)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (623)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (607)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1618)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (560)](../by-category/visualization-gui.md) · [Web Framework (478)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1619)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (560)](../by-category/visualization-gui.md) · [Web Framework (478)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -119,7 +119,7 @@ Records: `311`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [GeneBO98/tradetally](../records/magazines-genebo98-tradetally-aee8dd9b.md) | partial | 2026-09-07T14:54:19Z | registry-derived |
+| [GeneBO98/tradetally](../records/magazines-genebo98-tradetally-aee8dd9b.md) | partial | 2026-09-08T01:04:21Z | registry-derived |
 
 ### Database Datastore
 
@@ -380,7 +380,7 @@ Records: `311`
 | --- | --- | --- | --- |
 | [2KAbhishek/tdo](../records/magazines-2kabhishek-tdo-3992095c.md) | partial | 2026-09-03T17:12:57Z | registry-derived |
 | [ajaymnk/open-electronics](../records/magazines-ajaymnk-open-electronics-d823069e.md) | partial | 2024-12-22T18:40:08Z | registry-derived |
-| [collective/icalendar](../records/magazines-collective-icalendar-8d6e8512.md) | partial | 2026-09-06T12:33:13Z | registry-derived |
+| [collective/icalendar](../records/magazines-collective-icalendar-8d6e8512.md) | partial | 2026-09-08T00:43:52Z | registry-derived |
 | [FiltersHeroes/PolishAnnoyanceFilters](../records/magazines-filtersheroes-polishannoyancefilters-7c5a5ef3.md) | partial | 2026-09-02T10:25:34Z | registry-derived |
 | [Ha0Tang/HandGestureRecognition](../records/magazines-ha0tang-handgesturerecognition-16d2c54b.md) | partial | 2021-07-25T07:22:18Z | registry-derived |
 | [mat-nolen/tldr-radio](../records/magazines-mat-nolen-tldr-radio-65ac5e2c.md) | partial | 2026-08-29T22:50:47Z | registry-derived |

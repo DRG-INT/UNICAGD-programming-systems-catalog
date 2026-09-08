@@ -17,14 +17,14 @@ Records: `308`
 [Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (457)](../by-category/ffi-bindings.md) · [Filesystem Os (1611)](../by-category/filesystem-os.md) · [Formatter (648)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (356)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1464)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (273)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (30)](../by-category/language-server.md) · [Language Specification (1441)](../by-category/language-specification.md) · [Library (5731)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (30)](../by-category/language-server.md) · [Language Specification (1441)](../by-category/language-specification.md) · [Library (5732)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (530)](../by-category/logging-observability.md) · [Machine Learning (796)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1041)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1195)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (309)](../by-category/precommit-ci-quality.md)
 [Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (133)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (336)](../by-category/security-sast.md) · [Serialization (400)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (623)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (607)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1618)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (560)](../by-category/visualization-gui.md) · [Web Framework (478)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1619)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (560)](../by-category/visualization-gui.md) · [Web Framework (478)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -309,7 +309,7 @@ Records: `308`
 | [ReturnInfinity/BareMetal-OS-legacy](../records/assembly-returninfinity-baremetal-os-legacy-09317d7c.md) | partial | 2017-11-20T15:29:43Z | registry-derived |
 | [RibShark/OmniDrive](../records/assembly-ribshark-omnidrive-32257d20.md) | partial | 2026-07-18T06:48:57Z | registry-derived |
 | [riscv-software-src/riscv-tests](../records/assembly-riscv-software-src-riscv-tests-77e7e3cb.md) | partial | 2026-08-14T22:09:19Z | registry-derived |
-| [riscv/riscv-arch-test](../records/assembly-riscv-riscv-arch-test-0b5f8870.md) | partial | 2026-09-07T20:00:40Z | registry-derived |
+| [riscv/riscv-arch-test](../records/assembly-riscv-riscv-arch-test-0b5f8870.md) | partial | 2026-09-08T00:42:22Z | registry-derived |
 | [riscvarchive/riscv-v-spec](../records/assembly-riscvarchive-riscv-v-spec-60c48d12.md) | partial | 2024-03-17T15:04:35Z | registry-derived |
 | [ROCm/MIOpen](../records/assembly-rocm-miopen-1181b14a.md) | partial | 2026-09-04T23:45:38Z | registry-derived |
 | [sam-astro/Astro8-Computer](../records/assembly-sam-astro-astro8-computer-d279451b.md) | partial | 2026-08-27T17:50:17Z | registry-derived |
@@ -379,7 +379,7 @@ Records: `308`
 | [takenobu-hs/cpu-assembly-examples](../records/assembly-takenobu-hs-cpu-assembly-examples-b5867112.md) | partial | 2024-05-19T06:55:01Z | registry-derived |
 | [Thraetaona/EXACT](../records/assembly-thraetaona-exact-bb36746a.md) | partial | 2024-06-13T18:59:42Z | registry-derived |
 | [vonsim/vonsim](../records/assembly-vonsim-vonsim-6a8ef78f.md) | partial | 2026-05-29T02:08:00Z | registry-derived |
-| [vvaltchev/tilck](../records/assembly-vvaltchev-tilck-455a611e.md) | partial | 2026-09-07T23:26:14Z | registry-derived |
+| [vvaltchev/tilck](../records/assembly-vvaltchev-tilck-455a611e.md) | partial | 2026-09-08T00:55:39Z | registry-derived |
 | [xtnded/codextended](../records/assembly-xtnded-codextended-97cbc636.md) | partial | 2026-05-07T10:43:51Z | registry-derived |
 | [yds12/x64-roadmap](../records/assembly-yds12-x64-roadmap-3b9663e2.md) | partial | 2020-07-16T15:54:20Z | registry-derived |
 | [yrp604/rappel](../records/assembly-yrp604-rappel-4bf787bb.md) | partial | 2024-03-07T04:45:15Z | registry-derived |
