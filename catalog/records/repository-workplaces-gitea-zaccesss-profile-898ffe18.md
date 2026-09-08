@@ -36,7 +36,7 @@ assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-08T14:36:03Z | [https://gitea.com/api/v1/repos/search?q=ci&limit=50](https://gitea.com/api/v1/repos/search?q=ci&limit=50) | gitea_search_api_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-08T17:07:55Z | [https://gitea.com/api/v1/repos/search?q=ci&limit=50](https://gitea.com/api/v1/repos/search?q=ci&limit=50) | gitea_search_api_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gitea_search_api_has_no_standard_nightly_channel |
 
 ## License And Use Alert

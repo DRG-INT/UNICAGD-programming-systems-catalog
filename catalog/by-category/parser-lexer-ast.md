@@ -642,7 +642,7 @@ Records: `1208`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 0xIonRod/learning-basilisk | partial | 2023-06-28T06:42:25Z | [open](../records/basilisk-0xionrod-learning-basilisk-3b9428f3.md) |
-| AVSLab/basilisk | partial | 2026-09-08T18:22:01Z | [open](../records/basilisk-avslab-basilisk-3f9dd832.md) |
+| AVSLab/basilisk | partial | 2026-09-08T19:09:20Z | [open](../records/basilisk-avslab-basilisk-3f9dd832.md) |
 | CarterBalow/avs-lab-work | partial | 2026-09-02T17:52:11Z | [open](../records/basilisk-carterbalow-avs-lab-work-c0f5c66b.md) |
 | DISCOWER/bsk-msgs | partial | 2026-07-02T20:47:18Z | [open](../records/basilisk-discower-bsk-msgs-80974f96.md) |
 | DISCOWER/bsk-ros2-bridge | partial | 2026-08-25T16:24:45Z | [open](../records/basilisk-discower-bsk-ros2-bridge-ff7c49fa.md) |
@@ -1430,7 +1430,7 @@ Records: `1208`
 | arnaudroger/SimpleFlatMapper | partial | 2025-09-21T07:23:46Z | [open](../records/databases-arnaudroger-simpleflatmapper-bed9a08c.md) |
 | BDR | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-bdr-d3b5137a.md) |
 | calcom/cal.diy | partial | 2026-09-07T20:35:46Z | [open](../records/databases-calcom-cal-diy-2a9d1d15.md) |
-| chroma-core/chroma | partial | 2026-09-08T16:59:22Z | [open](../records/databases-chroma-core-chroma-4683632f.md) |
+| chroma-core/chroma | partial | 2026-09-08T18:18:07Z | [open](../records/databases-chroma-core-chroma-4683632f.md) |
 | danny-avila/rag_api | partial | 2026-08-15T17:09:36Z | [open](../records/databases-danny-avila-rag-api-13cf38f8.md) |
 | datalevin/datalevin | partial | 2026-09-08T04:21:25Z | [open](../records/databases-datalevin-datalevin-fd00132f.md) |
 | dbcli/litecli | partial | 2026-06-18T20:25:31Z | [open](../records/databases-dbcli-litecli-e20f675e.md) |
@@ -1445,7 +1445,7 @@ Records: `1208`
 | featureform/featureform | partial | 2025-07-03T19:09:35Z | [open](../records/databases-featureform-featureform-0152ab5b.md) |
 | graphile/crystal | partial | 2026-09-07T13:11:00Z | [open](../records/databases-graphile-crystal-b10ffa7b.md) |
 | infiniflow/infinity | partial | 2026-09-04T13:39:40Z | [open](../records/databases-infiniflow-infinity-5b05e9a6.md) |
-| influxdata/influxdb | partial | 2026-09-04T17:11:28Z | [open](../records/databases-influxdata-influxdb-1fb47735.md) |
+| influxdata/influxdb | partial | 2026-09-08T18:58:05Z | [open](../records/databases-influxdata-influxdb-1fb47735.md) |
 | isar/hive | partial | 2024-06-28T11:57:48Z | [open](../records/databases-isar-hive-c92a6c20.md) |
 | LMDB | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-lmdb-475d4578.md) |
 | Loki-Astari/ThorsAnvil | partial | 2026-08-08T06:23:44Z | [open](../records/databases-loki-astari-thorsanvil-e1c56717.md) |
@@ -1459,7 +1459,7 @@ Records: `1208`
 | OpenAtomFoundation/pikiwidb | partial | 2026-09-04T01:58:25Z | [open](../records/databases-openatomfoundation-pikiwidb-007b1f05.md) |
 | orientechnologies/orientdb | partial | 2026-09-07T12:38:01Z | [open](../records/databases-orientechnologies-orientdb-583f5aed.md) |
 | pilgr/Paper | partial | 2023-01-06T22:00:05Z | [open](../records/databases-pilgr-paper-4bec3683.md) |
-| pingcap/tidb | partial | 2026-09-08T17:19:22Z | [open](../records/databases-pingcap-tidb-56d438be.md) |
+| pingcap/tidb | partial | 2026-09-08T19:18:22Z | [open](../records/databases-pingcap-tidb-56d438be.md) |
 | rgcsekaraa/brows3 | partial | 2026-08-12T11:48:25Z | [open](../records/databases-rgcsekaraa-brows3-6d622d3b.md) |
 | san089/Udacity-Data-Engineering-Projects | partial | 2022-08-26T00:09:15Z | [open](../records/databases-san089-udacity-data-engineering-projects-6731f6dc.md) |
 | scylladb/scylladb | partial | 2026-09-08T17:01:13Z | [open](../records/databases-scylladb-scylladb-5677bf8d.md) |

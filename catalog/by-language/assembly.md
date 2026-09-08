@@ -76,7 +76,7 @@ Records: `308`
 | [Mati365/ts-c-compiler](../records/assembly-mati365-ts-c-compiler-bc7fb5c3.md) | partial | 2026-08-11T06:13:10Z | registry-derived |
 | [pacak/cargo-show-asm](../records/assembly-pacak-cargo-show-asm-9459d0cc.md) | partial | 2026-08-31T18:32:36Z | registry-derived |
 | [ujjwal-kr/system-programming-roadmap](../records/assembly-ujjwal-kr-system-programming-roadmap-128f664f.md) | partial | 2026-08-29T03:34:53Z | registry-derived |
-| [vygr/ChrysaLisp](../records/assembly-vygr-chrysalisp-0e234f7b.md) | partial | 2026-09-08T17:59:52Z | registry-derived |
+| [vygr/ChrysaLisp](../records/assembly-vygr-chrysalisp-0e234f7b.md) | partial | 2026-09-08T18:57:55Z | registry-derived |
 | [wargio/r2dec-js](../records/assembly-wargio-r2dec-js-b98d3015.md) | partial | 2026-08-16T18:36:14Z | registry-derived |
 | [wgtdkp/wgtcc](../records/assembly-wgtdkp-wgtcc-991c7fcc.md) | partial | 2021-01-31T07:55:46Z | registry-derived |
 
@@ -232,7 +232,7 @@ Records: `308`
 | [bitdump/BLHeli](../records/assembly-bitdump-blheli-5d346476.md) | partial | 2025-08-21T07:30:10Z | registry-derived |
 | [blackbird71SR/Hello-World](../records/assembly-blackbird71sr-hello-world-2fa43546.md) | partial | 2024-03-02T10:40:36Z | registry-derived |
 | [BLAKE3-team/BLAKE3](../records/assembly-blake3-team-blake3-cc15f4ed.md) | partial | 2026-08-31T15:13:59Z | registry-derived |
-| [bluewaysw/pcgeos](../records/assembly-bluewaysw-pcgeos-aee787b1.md) | partial | 2026-09-01T20:25:53Z | registry-derived |
+| [bluewaysw/pcgeos](../records/assembly-bluewaysw-pcgeos-aee787b1.md) | partial | 2026-09-08T18:26:57Z | registry-derived |
 | [briansmith/ring](../records/assembly-briansmith-ring-3a265118.md) | partial | 2026-07-23T18:48:09Z | registry-derived |
 | [bytecode77/pe-union](../records/assembly-bytecode77-pe-union-295ee237.md) | partial | 2025-06-28T10:36:18Z | registry-derived |
 | [cch123/asm-cli](../records/assembly-cch123-asm-cli-b6f3f924.md) | partial | 2019-01-20T08:58:33Z | registry-derived |

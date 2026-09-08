@@ -135,7 +135,7 @@ Records: `349`
 | [getsentry/sentry-cocoa](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) | partial | 2026-09-08T14:13:12Z | registry-derived |
 | [madsmtm/objc2](../records/cocoa-madsmtm-objc2-ab58a215.md) | partial | 2026-09-05T20:24:40Z | registry-derived |
 | [ryanmcgrath/cacao](../records/cocoa-ryanmcgrath-cacao-ce707601.md) | partial | 2025-02-03T08:16:22Z | registry-derived |
-| [wordpress-mobile/WordPress-iOS](../records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) | partial | 2026-09-08T03:51:05Z | registry-derived |
+| [wordpress-mobile/WordPress-iOS](../records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) | partial | 2026-09-08T17:58:47Z | registry-derived |
 
 ### Filesystem Os
 
@@ -151,7 +151,7 @@ Records: `349`
 | [Countly](../records/cocoa-countly-2297ca5c.md) | 26.1.0 | 2026-02-18 14:12:24 UTC | registry-derived |
 | [Danie1s/Tiercel](../records/cocoa-danie1s-tiercel-5ed21306.md) | partial | 2026-08-24T16:54:29Z | registry-derived |
 | [DarielChen/iOSTips](../records/cocoa-darielchen-iostips-e6e9e701.md) | partial | 2020-10-19T07:14:11Z | registry-derived |
-| [dkhamsing/open-source-ios-apps](../records/cocoa-dkhamsing-open-source-ios-apps-3bad4ab1.md) | partial | 2026-09-08T13:24:46Z | registry-derived |
+| [dkhamsing/open-source-ios-apps](../records/cocoa-dkhamsing-open-source-ios-apps-3bad4ab1.md) | partial | 2026-09-08T14:37:51Z | registry-derived |
 | [DrawKit/DrawKit](../records/cocoa-drawkit-drawkit-72c338f1.md) | partial | 2023-03-13T12:23:46Z | registry-derived |
 | [dusty-commits/Closures](../records/cocoa-dusty-commits-closures-519b25c5.md) | partial | 2021-04-29T15:34:36Z | registry-derived |
 | [FluidGroup/NextGrowingTextView](../records/cocoa-fluidgroup-nextgrowingtextview-19805040.md) | partial | 2026-08-21T18:15:48Z | registry-derived |
@@ -235,7 +235,7 @@ Records: `349`
 | [Sentry](../records/cocoa-sentry-5755fd31.md) | 8.58.4 | 2026-07-14 16:24:57 UTC | registry-derived |
 | [SwiftyOAuth](../records/cocoa-swiftyoauth-e67a0934.md) | v0.3 | 2016-05-26T16:17:39Z | registry-derived |
 | [textmate/textmate](../records/cocoa-textmate-textmate-91b26640.md) | partial | 2024-05-18T11:00:21Z | registry-derived |
-| [wordpress-mobile/AztecEditor-iOS](../records/cocoa-wordpress-mobile-azteceditor-ios-ce242705.md) | partial | 2026-09-08T14:12:48Z | registry-derived |
+| [wordpress-mobile/AztecEditor-iOS](../records/cocoa-wordpress-mobile-azteceditor-ios-ce242705.md) | partial | 2026-09-08T14:45:20Z | registry-derived |
 | [yahoo/AppDevKit](../records/cocoa-yahoo-appdevkit-086034f0.md) | partial | 2024-12-13T10:04:16Z | registry-derived |
 | [Yalantis/Pull-to-Refresh.Rentals-iOS](../records/cocoa-yalantis-pull-to-refresh-rentals-ios-c4b7308d.md) | partial | 2018-06-16T09:20:03Z | registry-derived |
 | [Yalantis/Side-Menu.iOS](../records/cocoa-yalantis-side-menu-ios-60a08b2a.md) | partial | 2020-04-13T06:45:38Z | registry-derived |
@@ -296,7 +296,7 @@ Records: `349`
 | [Flipboard/FLAnimatedImage](../records/cocoa-flipboard-flanimatedimage-90bc1366.md) | partial | 2024-03-21T10:45:04Z | registry-derived |
 | [forkingdog/UITableView-FDTemplateLayoutCell](../records/cocoa-forkingdog-uitableview-fdtemplatelayoutcell-6b678344.md) | partial | 2022-03-07T10:01:30Z | registry-derived |
 | [git-up/GitUp](../records/cocoa-git-up-gitup-23c60c2c.md) | partial | 2026-07-27T00:05:17Z | registry-derived |
-| [gnachman/iTerm2](../records/cocoa-gnachman-iterm2-9538d898.md) | partial | 2026-09-08T00:00:35Z | registry-derived |
+| [gnachman/iTerm2](../records/cocoa-gnachman-iterm2-9538d898.md) | partial | 2026-09-08T18:21:38Z | registry-derived |
 | [griddynamics-archive/MMDrawerController](../records/cocoa-griddynamics-archive-mmdrawercontroller-e3f9497c.md) | partial | 2023-01-09T00:03:46Z | registry-derived |
 | [Grouper/FlatUIKit](../records/cocoa-grouper-flatuikit-59352f43.md) | partial | 2016-09-29T04:08:55Z | registry-derived |
 | [gsdios/SDCycleScrollView](../records/cocoa-gsdios-sdcyclescrollview-c51a97c6.md) | partial | 2023-04-21T10:20:47Z | registry-derived |
@@ -334,7 +334,7 @@ Records: `349`
 | [mwaterfall/MWPhotoBrowser](../records/cocoa-mwaterfall-mwphotobrowser-b9b1cbd9.md) | partial | 2024-06-27T12:38:19Z | registry-derived |
 | [newmarcel/KeepingYouAwake](../records/cocoa-newmarcel-keepingyouawake-64ecaad8.md) | partial | 2026-08-15T11:38:08Z | registry-derived |
 | [nicklockwood/iCarousel](../records/cocoa-nicklockwood-icarousel-4e5bb6d2.md) | partial | 2024-06-27T05:43:24Z | registry-derived |
-| [noah-nuebling/mac-mouse-fix](../records/cocoa-noah-nuebling-mac-mouse-fix-29ebd47b.md) | partial | 2026-09-07T15:37:30Z | registry-derived |
+| [noah-nuebling/mac-mouse-fix](../records/cocoa-noah-nuebling-mac-mouse-fix-29ebd47b.md) | partial | 2026-09-08T16:14:34Z | registry-derived |
 | [noodlewerk/NWPusher](../records/cocoa-noodlewerk-nwpusher-3f230ebd.md) | partial | 2021-03-30T07:00:58Z | registry-derived |
 | [nst/iOS-Runtime-Headers](../records/cocoa-nst-ios-runtime-headers-c5f4b32c.md) | partial | 2022-05-17T07:06:03Z | registry-derived |
 | [objective-see/LuLu](../records/cocoa-objective-see-lulu-3b9c439d.md) | partial | 2026-08-05T16:19:32Z | registry-derived |

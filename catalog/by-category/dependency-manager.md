@@ -133,7 +133,7 @@ Records: `104`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| rtk-ai/rtk | partial | 2026-09-08T11:42:08Z | [open](../records/aim-s-rtk-ai-rtk-ba550a2c.md) |
+| rtk-ai/rtk | partial | 2026-09-08T19:11:30Z | [open](../records/aim-s-rtk-ai-rtk-ba550a2c.md) |
 
 ## nix
 

@@ -40,9 +40,9 @@ persistence, migrations, performance, and operational recovery.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | Other |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Mixed license review |
+| Evidence | GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0; MIT License; https://api.github.com/licenses/mit; Apache License 2.0; https://api.github.com/licenses/apache-2.0; Other |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 

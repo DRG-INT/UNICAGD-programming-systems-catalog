@@ -1150,7 +1150,7 @@ Records: `1627`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | cruise-automation/isopod | partial | 2023-11-17T05:24:18Z | [open](../records/starlark-cruise-automation-isopod-0fd20340.md) |
-| openrundev/openrun | partial | 2026-09-07T22:05:32Z | [open](../records/starlark-openrundev-openrun-0f48908b.md) |
+| openrundev/openrun | partial | 2026-09-08T19:18:00Z | [open](../records/starlark-openrundev-openrun-0f48908b.md) |
 | tidbyt/community | partial | 2026-08-28T05:00:24Z | [open](../records/starlark-tidbyt-community-62c4caad.md) |
 
 ## Basilisk
@@ -1809,10 +1809,10 @@ Records: `1627`
 | cstore_fdw | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-cstore-fdw-4259f19e.md) |
 | cube-js/cube | partial | 2026-09-08T11:12:01Z | [open](../records/databases-cube-js-cube-373699e3.md) |
 | cubefs/cubefs | partial | 2026-09-08T09:24:36Z | [open](../records/databases-cubefs-cubefs-2e8325bf.md) |
-| debezium/debezium | partial | 2026-09-08T15:46:08Z | [open](../records/databases-debezium-debezium-a3d23ff7.md) |
+| debezium/debezium | partial | 2026-09-08T17:37:56Z | [open](../records/databases-debezium-debezium-a3d23ff7.md) |
 | dicedb/dicedb | partial | 2026-04-23T01:00:36Z | [open](../records/databases-dicedb-dicedb-ba1cb8a6.md) |
 | digoal/blog | partial | 2026-09-08T01:33:38Z | [open](../records/databases-digoal-blog-7cde1486.md) |
-| dolthub/dolt | partial | 2026-09-08T16:09:51Z | [open](../records/databases-dolthub-dolt-702548e2.md) |
+| dolthub/dolt | partial | 2026-09-08T18:54:06Z | [open](../records/databases-dolthub-dolt-702548e2.md) |
 | douban/gobeansdb | partial | 2026-08-21T03:02:19Z | [open](../records/databases-douban-gobeansdb-1832191f.md) |
 | dubinc/dub | partial | 2026-09-08T07:02:37Z | [open](../records/databases-dubinc-dub-fde61fc2.md) |
 | gigapi/gigapi | partial | 2025-10-20T12:01:02Z | [open](../records/databases-gigapi-gigapi-bafb6f73.md) |
@@ -1829,7 +1829,7 @@ Records: `1627`
 | simonw/datasette | partial | 2026-09-02T21:28:42Z | [open](../records/databases-simonw-datasette-1ddbef0c.md) |
 | skyzh/vector-db-from-scratch | partial | 2026-09-06T03:20:48Z | [open](../records/databases-skyzh-vector-db-from-scratch-51c5f22e.md) |
 | spiculedata/saiku | partial | 2026-09-08T12:27:24Z | [open](../records/databases-spiculedata-saiku-3e036390.md) |
-| StarRocks/starrocks | partial | 2026-09-08T17:20:51Z | [open](../records/databases-starrocks-starrocks-fa80e1a7.md) |
+| StarRocks/starrocks | partial | 2026-09-08T17:38:27Z | [open](../records/databases-starrocks-starrocks-fa80e1a7.md) |
 | Stolon | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-stolon-807bae3f.md) |
 | timveil/hive-jdbc-uber-jar | partial | 2024-09-28T13:44:51Z | [open](../records/databases-timveil-hive-jdbc-uber-jar-3a65567d.md) |
 | uber-go/dosa | partial | 2023-07-05T20:59:33Z | [open](../records/databases-uber-go-dosa-06a859e4.md) |
@@ -1858,12 +1858,12 @@ Records: `1627`
 | Gitea: quxiaorui/action-send-mail | partial | 2024-02-26T12:43:08Z | [open](../records/repository-workplaces-gitea-quxiaorui-action-send-mail-a8703907.md) |
 | Gitea: ryan-winkler/ryanwinkler | partial | 2026-08-21T10:30:44Z | [open](../records/repository-workplaces-gitea-ryan-winkler-ryanwinkler-c5f906a1.md) |
 | Gitea: we8tguivdbsd/21eyay8qeyciubaya | partial | 2026-06-20T21:36:03Z | [open](../records/repository-workplaces-gitea-we8tguivdbsd-21eyay8qeyciubaya-47fe49cc.md) |
-| Gitea: zaccesss/.profile | partial | 2026-09-08T14:36:03Z | [open](../records/repository-workplaces-gitea-zaccesss-profile-898ffe18.md) |
+| Gitea: zaccesss/.profile | partial | 2026-09-08T17:07:55Z | [open](../records/repository-workplaces-gitea-zaccesss-profile-898ffe18.md) |
 | gitlab-com/gl-infra/k8s-workloads/gitlab-com | partial | 2026-09-08T17:59:25.063Z | [open](../records/repository-workplaces-gitlab-com-gl-infra-k8s-workloads-gitlab-com-13cc554b.md) |
 | gitlab-data/data-image | partial | 2026-08-21T11:24:30.282Z | [open](../records/repository-workplaces-gitlab-data-data-image-0af0c35c.md) |
 | gitlab-examples/kubernetes-deploy | partial | 2026-01-07T14:56:28.754Z | [open](../records/repository-workplaces-gitlab-examples-kubernetes-deploy-9a43e04a.md) |
 | gitlab-examples/ruby-autodeploy | partial | 2026-01-07T14:56:29.516Z | [open](../records/repository-workplaces-gitlab-examples-ruby-autodeploy-0ea70988.md) |
-| gitlab-org/caproni | partial | 2026-09-08T15:26:18.595Z | [open](../records/repository-workplaces-gitlab-org-caproni-40271619.md) |
+| gitlab-org/caproni | partial | 2026-09-08T16:27:40.789Z | [open](../records/repository-workplaces-gitlab-org-caproni-40271619.md) |
 | gitlab-org/charts/gitlab-agent | partial | 2026-09-08T08:47:13.913Z | [open](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) |
 | gitlab-org/ci-cd/gitlab-runner-pod-cleanup | partial | 2026-05-15T07:38:19.652Z | [open](../records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) |
 | gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-08T17:44:40.646Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |

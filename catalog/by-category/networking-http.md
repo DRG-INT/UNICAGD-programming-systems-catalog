@@ -1271,13 +1271,13 @@ Records: `1053`
 | aerospike/aerospike-client-rust | partial | 2026-09-07T08:39:47Z | [open](../records/databases-aerospike-aerospike-client-rust-0981e978.md) |
 | awslabs/mountpoint-s3 | partial | 2026-09-08T08:28:18Z | [open](../records/databases-awslabs-mountpoint-s3-3f10c09d.md) |
 | Beekeeper Studio | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-beekeeper-studio-8debdaa3.md) |
-| beekeeper-studio/beekeeper-studio | partial | 2026-09-08T15:47:09Z | [open](../records/databases-beekeeper-studio-beekeeper-studio-a999ac61.md) |
+| beekeeper-studio/beekeeper-studio | partial | 2026-09-08T18:38:23Z | [open](../records/databases-beekeeper-studio-beekeeper-studio-a999ac61.md) |
 | brianc/node-postgres | partial | 2026-09-02T00:26:05Z | [open](../records/databases-brianc-node-postgres-6210b4d9.md) |
 | Chartbrew | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-chartbrew-b6cf395d.md) |
 | ClickHouse/clickhouse-java | partial | 2026-09-06T22:02:03Z | [open](../records/databases-clickhouse-clickhouse-java-55cf8dd6.md) |
 | crate/crate-python | partial | 2026-09-08T11:03:19Z | [open](../records/databases-crate-crate-python-62348f26.md) |
 | DataRow | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-datarow-011db1d2.md) |
-| dbeaver/dbeaver | partial | 2026-09-08T17:15:19Z | [open](../records/databases-dbeaver-dbeaver-fdc61e8a.md) |
+| dbeaver/dbeaver | partial | 2026-09-08T19:19:56Z | [open](../records/databases-dbeaver-dbeaver-fdc61e8a.md) |
 | dbkangaroo/kangaroo | partial | 2026-09-05T08:10:39Z | [open](../records/databases-dbkangaroo-kangaroo-cb5596c5.md) |
 | DbVisualizer | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-dbvisualizer-dbc48ffe.md) |
 | deuxfleurs-org/garage | partial | 2026-09-08T08:45:07Z | [open](../records/databases-deuxfleurs-org-garage-0a48bdf5.md) |
@@ -1304,7 +1304,7 @@ Records: `1053`
 | sosedoff/pgweb | partial | 2026-07-26T22:30:33Z | [open](../records/databases-sosedoff-pgweb-64d0c3b3.md) |
 | sourcenetwork/defradb | partial | 2026-09-07T09:30:49Z | [open](../records/databases-sourcenetwork-defradb-6d319ed1.md) |
 | svenvc/P3 | partial | 2025-11-29T19:22:10Z | [open](../records/databases-svenvc-p3-2c71a4dc.md) |
-| t8y2/dbx | partial | 2026-09-08T17:20:40Z | [open](../records/databases-t8y2-dbx-97368a4a.md) |
+| t8y2/dbx | partial | 2026-09-08T18:04:58Z | [open](../records/databases-t8y2-dbx-97368a4a.md) |
 | TableProApp/TablePro | partial | 2026-09-08T11:54:47Z | [open](../records/databases-tableproapp-tablepro-d427a820.md) |
 | vogler75/automation-gateway | partial | 2026-04-07T11:56:50Z | [open](../records/databases-vogler75-automation-gateway-85135ca2.md) |
 | YoEight/eventstore | partial | 2021-12-22T00:35:49Z | [open](../records/databases-yoeight-eventstore-299fec75.md) |

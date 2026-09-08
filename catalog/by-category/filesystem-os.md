@@ -578,7 +578,7 @@ Records: `1616`
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-08-30T15:02:19Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-08T18:21:40Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-08T19:09:49Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -598,9 +598,9 @@ Records: `1616`
 | --- | --- | --- | --- |
 | f/prompts.chat | partial | 2026-09-06T03:17:52Z | [open](../records/aim-s-f-prompts-chat-0bb76e45.md) |
 | Fosowl/agenticSeek | partial | 2026-09-07T07:54:16Z | [open](../records/aim-s-fosowl-agenticseek-3f73fd5c.md) |
-| microsoft/graphrag | partial | 2026-09-07T07:35:53Z | [open](../records/aim-s-microsoft-graphrag-16e521eb.md) |
+| microsoft/graphrag | partial | 2026-09-08T18:54:12Z | [open](../records/aim-s-microsoft-graphrag-16e521eb.md) |
 | NirDiamant/RAG_Techniques | partial | 2026-09-04T23:35:08Z | [open](../records/aim-s-nirdiamant-rag-techniques-681ed394.md) |
-| ollama/ollama | partial | 2026-09-08T17:55:25Z | [open](../records/aim-s-ollama-ollama-8b858f45.md) |
+| ollama/ollama | partial | 2026-09-08T19:03:22Z | [open](../records/aim-s-ollama-ollama-8b858f45.md) |
 
 ## Computer Graphics Software
 
@@ -1776,7 +1776,7 @@ Records: `1616`
 | Countly | 26.1.0 | 2026-02-18 14:12:24 UTC | [open](../records/cocoa-countly-2297ca5c.md) |
 | Danie1s/Tiercel | partial | 2026-08-24T16:54:29Z | [open](../records/cocoa-danie1s-tiercel-5ed21306.md) |
 | DarielChen/iOSTips | partial | 2020-10-19T07:14:11Z | [open](../records/cocoa-darielchen-iostips-e6e9e701.md) |
-| dkhamsing/open-source-ios-apps | partial | 2026-09-08T13:24:46Z | [open](../records/cocoa-dkhamsing-open-source-ios-apps-3bad4ab1.md) |
+| dkhamsing/open-source-ios-apps | partial | 2026-09-08T14:37:51Z | [open](../records/cocoa-dkhamsing-open-source-ios-apps-3bad4ab1.md) |
 | DrawKit/DrawKit | partial | 2023-03-13T12:23:46Z | [open](../records/cocoa-drawkit-drawkit-72c338f1.md) |
 | dusty-commits/Closures | partial | 2021-04-29T15:34:36Z | [open](../records/cocoa-dusty-commits-closures-519b25c5.md) |
 | FluidGroup/NextGrowingTextView | partial | 2026-08-21T18:15:48Z | [open](../records/cocoa-fluidgroup-nextgrowingtextview-19805040.md) |

@@ -687,7 +687,7 @@ Records: `1475`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-07T12:44:29Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-08T17:39:17Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-08T18:42:10Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-05T16:04:02Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-08T09:09:34Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-08T18:12:26Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
@@ -1533,7 +1533,7 @@ Records: `1475`
 | mehdihadeli/awesome-software-architecture | partial | 2026-09-06T21:22:08Z | [open](../records/pattern-language-mehdihadeli-awesome-software-architecture-caec9f49.md) |
 | Microservice-API-Patterns/LakesideMutual | partial | 2025-10-13T18:11:28Z | [open](../records/pattern-language-microservice-api-patterns-lakesidemutual-c3f0fcf1.md) |
 | NoDivide/astrum | partial | 2022-05-13T22:45:05Z | [open](../records/pattern-language-nodivide-astrum-81381787.md) |
-| spring-projects/spring-integration | partial | 2026-09-08T18:10:48Z | [open](../records/pattern-language-spring-projects-spring-integration-fd457078.md) |
+| spring-projects/spring-integration | partial | 2026-09-08T18:54:19Z | [open](../records/pattern-language-spring-projects-spring-integration-fd457078.md) |
 | vaquarkhan/microservices-recipes-a-free-gitbook | partial | 2026-09-08T07:07:48Z | [open](../records/pattern-language-vaquarkhan-microservices-recipes-a-free-gitbook-fe8fd71a.md) |
 
 ## PHP
@@ -1675,7 +1675,7 @@ Records: `1475`
 | Sentry | 8.58.4 | 2026-07-14 16:24:57 UTC | [open](../records/cocoa-sentry-5755fd31.md) |
 | SwiftyOAuth | v0.3 | 2016-05-26T16:17:39Z | [open](../records/cocoa-swiftyoauth-e67a0934.md) |
 | textmate/textmate | partial | 2024-05-18T11:00:21Z | [open](../records/cocoa-textmate-textmate-91b26640.md) |
-| wordpress-mobile/AztecEditor-iOS | partial | 2026-09-08T14:12:48Z | [open](../records/cocoa-wordpress-mobile-azteceditor-ios-ce242705.md) |
+| wordpress-mobile/AztecEditor-iOS | partial | 2026-09-08T14:45:20Z | [open](../records/cocoa-wordpress-mobile-azteceditor-ios-ce242705.md) |
 | yahoo/AppDevKit | partial | 2024-12-13T10:04:16Z | [open](../records/cocoa-yahoo-appdevkit-086034f0.md) |
 | Yalantis/Pull-to-Refresh.Rentals-iOS | partial | 2018-06-16T09:20:03Z | [open](../records/cocoa-yalantis-pull-to-refresh-rentals-ios-c4b7308d.md) |
 | Yalantis/Side-Menu.iOS | partial | 2020-04-13T06:45:38Z | [open](../records/cocoa-yalantis-side-menu-ios-60a08b2a.md) |
