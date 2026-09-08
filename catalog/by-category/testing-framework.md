@@ -1,6 +1,6 @@
 # Testing Framework
 
-Records: `619`
+Records: `620`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `619`
 ## Category Index
 
 [Api Abi Checker (224)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (999)](build-system.md) · [Cli (570)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (999)](build-system.md) · [Cli (571)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
 [Concurrency Parallelism (93)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (969)](database-datastore.md) · [Datetime (235)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (104)](dependency-manager.md) · [Documentation (109)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (464)](ffi-bindings.md) · [Filesystem Os (1616)](filesystem-os.md) · [Formatter (652)](formatter.md)
+[Cryptography (178)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (971)](database-datastore.md) · [Datetime (235)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (464)](ffi-bindings.md) · [Filesystem Os (1618)](filesystem-os.md) · [Formatter (652)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1475)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (275)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1450)](language-specification.md) · [Library (5763)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (30)](language-server.md) · [Language Specification (1450)](language-specification.md) · [Library (5774)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (810)](machine-learning.md)
 [Math Numeric Scientific (89)](math-numeric-scientific.md) · [Memory Analyzer (98)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1053)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1208)](parser-lexer-ast.md) · [Precommit Ci Quality (310)](precommit-ci-quality.md)
-[Profiler (90)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Profiler (92)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (632)](static-analyzer.md)
-[Templating (2)](templating.md) · **[Testing Framework (619)](testing-framework.md)** · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (314)](type-checker.md)
-[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (488)](web-framework.md)
+[Templating (2)](templating.md) · **[Testing Framework (620)](testing-framework.md)** · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (489)](web-framework.md)
 
 ## C99
 
@@ -296,7 +296,7 @@ Records: `619`
 | fast-check | 4.9.0 | 2026-07-08T21:33:03.026Z | [open](../records/node-js-javascript-fast-check-359bc465.md) |
 | firebase-functions-test | 3.5.0 | 2026-05-08T21:21:33.788Z | [open](../records/node-js-javascript-firebase-functions-test-9cef0aad.md) |
 | fresh | 0.5.2 | 2017-09-14T05:03:12.205Z | [open](../records/node-js-javascript-fresh-e4b0551f.md) |
-| graphile-test | 5.14.5 | 2026-09-04T16:42:00.875Z | [open](../records/node-js-javascript-graphile-test-4fc9d5fb.md) |
+| graphile-test | 5.14.6 | 2026-09-08T19:01:06.355Z | [open](../records/node-js-javascript-graphile-test-4fc9d5fb.md) |
 | ink-testing-library | 4.0.0 | 2024-05-22T10:51:25.909Z | [open](../records/node-js-javascript-ink-testing-library-ff83aa69.md) |
 | is | 3.3.2 | 2025-07-19T19:13:33.146Z | [open](../records/node-js-javascript-is-8ceadfd5.md) |
 | is-lite | 2.0.0 | 2025-11-23T01:22:42.906Z | [open](../records/node-js-javascript-is-lite-b5a2333b.md) |
@@ -498,6 +498,7 @@ Records: `619`
 | cabal-doctest | 1.0.12 | 2025-11-19T15:45:27Z | [open](../records/haskell-cabal-doctest-3d16d0b9.md) |
 | distributed-process-tests | 0.5.2 | 2025-02-05T01:57:07Z | [open](../records/haskell-distributed-process-tests-fb4ba8e2.md) |
 | doctest | 0.25.0 | 2026-05-03T17:07:23Z | [open](../records/haskell-doctest-30d37480.md) |
+| erebos-tester | 0.3.6 | 2026-09-08T19:24:55Z | [open](../records/haskell-erebos-tester-78ab693a.md) |
 | hls-test-utils | 2.15.0.0 | 2026-09-04T10:41:58Z | [open](../records/haskell-hls-test-utils-92298e45.md) |
 | keiro-test-support | 0.16.0.0 | 2026-09-08T05:23:44Z | [open](../records/haskell-keiro-test-support-e5766eee.md) |
 | polysemy-test | 0.11.0.1 | 2026-04-27T14:41:34Z | [open](../records/haskell-polysemy-test-c2be84ef.md) |
@@ -842,7 +843,7 @@ Records: `619`
 | invertase/react-native-firebase | partial | 2026-09-08T14:42:46Z | [open](../records/databases-invertase-react-native-firebase-bdf40bbb.md) |
 | long2ice/asyncmy | partial | 2026-08-16T04:11:12Z | [open](../records/databases-long2ice-asyncmy-537bc784.md) |
 | marsupilami79/zeoslib | partial | 2026-09-01T05:51:54Z | [open](../records/databases-marsupilami79-zeoslib-f93693d1.md) |
-| netdata/netdata | partial | 2026-09-08T17:15:25Z | [open](../records/databases-netdata-netdata-c3fa5bcb.md) |
+| netdata/netdata | partial | 2026-09-08T19:24:12Z | [open](../records/databases-netdata-netdata-c3fa5bcb.md) |
 | porsager/postgres | partial | 2026-09-02T08:02:08Z | [open](../records/databases-porsager-postgres-fbaff732.md) |
 | vladmihalcea/db-util | partial | 2023-01-11T18:54:22Z | [open](../records/databases-vladmihalcea-db-util-1a17f88b.md) |
 | weavejester/ragtime | partial | 2025-09-23T14:39:42Z | [open](../records/databases-weavejester-ragtime-b149a386.md) |

@@ -1,6 +1,6 @@
 # Database Datastore
 
-Records: `969`
+Records: `971`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `969`
 ## Category Index
 
 [Api Abi Checker (224)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (999)](build-system.md) · [Cli (570)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (999)](build-system.md) · [Cli (571)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
 [Concurrency Parallelism (93)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · **[Database Datastore (969)](database-datastore.md)** · [Datetime (235)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (104)](dependency-manager.md) · [Documentation (109)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (464)](ffi-bindings.md) · [Filesystem Os (1616)](filesystem-os.md) · [Formatter (652)](formatter.md)
+[Cryptography (178)](cryptography.md) · [Data Science (39)](data-science.md) · **[Database Datastore (971)](database-datastore.md)** · [Datetime (235)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (464)](ffi-bindings.md) · [Filesystem Os (1618)](filesystem-os.md) · [Formatter (652)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1475)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (275)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1450)](language-specification.md) · [Library (5763)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (30)](language-server.md) · [Language Specification (1450)](language-specification.md) · [Library (5774)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (810)](machine-learning.md)
 [Math Numeric Scientific (89)](math-numeric-scientific.md) · [Memory Analyzer (98)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1053)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1208)](parser-lexer-ast.md) · [Precommit Ci Quality (310)](precommit-ci-quality.md)
-[Profiler (90)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Profiler (92)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (632)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (619)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (314)](type-checker.md)
-[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (488)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (620)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (489)](web-framework.md)
 
 ## C99
 
@@ -172,10 +172,10 @@ Records: `969`
 | @paulcbetts/mime-db | 1.22.4 | 2016-04-12T17:19:26.295Z | [open](../records/node-js-javascript-paulcbetts-mime-db-019b03f1.md) |
 | @payloadcms/drizzle | 3.88.0 | 2026-08-11T20:55:18.595Z | [open](../records/node-js-javascript-payloadcms-drizzle-2f19cf5b.md) |
 | @pgpm/database-jobs | 0.44.0 | 2026-08-31T23:45:57.679Z | [open](../records/node-js-javascript-pgpm-database-jobs-3a4fc2ff.md) |
-| @pgpmjs/export | 1.20.11 | 2026-09-06T19:46:42.835Z | [open](../records/node-js-javascript-pgpmjs-export-abf7ded3.md) |
+| @pgpmjs/export | 1.20.12 | 2026-09-08T19:01:15.665Z | [open](../records/node-js-javascript-pgpmjs-export-abf7ded3.md) |
 | @planetscale/database | 1.20.1 | 2026-03-25T21:22:50.213Z | [open](../records/node-js-javascript-planetscale-database-65a792c6.md) |
 | @prisma/adapter-planetscale | 7.10.0 | 2026-08-25T12:38:29.518Z | [open](../records/node-js-javascript-prisma-adapter-planetscale-fec84c62.md) |
-| @prosopo/types-database | 5.5.0 | 2026-09-08T11:43:16.895Z | [open](../records/node-js-javascript-prosopo-types-database-4163c4a1.md) |
+| @prosopo/types-database | 5.5.1 | 2026-09-08T19:34:17.639Z | [open](../records/node-js-javascript-prosopo-types-database-4163c4a1.md) |
 | @reachu/database | 1.0.244 | 2026-08-31T22:45:11.538Z | [open](../records/node-js-javascript-reachu-database-71fc6337.md) |
 | @readest/turso-database-wasm | 0.6.0-pre.6 | 2026-03-23T18:20:31.603Z | [open](../records/node-js-javascript-readest-turso-database-wasm-479ed79f.md) |
 | @remix-run/data-table-mysql | 0.5.1 | 2026-08-31T18:57:10.691Z | [open](../records/node-js-javascript-remix-run-data-table-mysql-c95cb540.md) |
@@ -361,6 +361,8 @@ Records: `969`
 | postgresql-typed | 0.6.2.7 | 2026-08-21T00:09:35Z | [open](../records/haskell-postgresql-typed-982c3f5e.md) |
 | postgrest | 9.0.1 | 2022-07-12T05:16:57Z | [open](../records/haskell-postgrest-fcce3cf8.md) |
 | redis-glob | 0.1.0.12 | 2026-09-03T13:20:31Z | [open](../records/haskell-redis-glob-c0be12d6.md) |
+| shikumi-cache-postgres | 0.1.3.0 | 2026-09-08T19:34:49Z | [open](../records/haskell-shikumi-cache-postgres-f027038d.md) |
+| shikumi-cache-redis | 0.1.3.0 | 2026-09-08T19:34:44Z | [open](../records/haskell-shikumi-cache-redis-720ddb75.md) |
 | simplest-sqlite | 0.1.1.1 | 2026-03-17T01:14:39Z | [open](../records/haskell-simplest-sqlite-4c1b1f92.md) |
 | sqlite-simple | 0.4.19.0 | 2024-01-23T06:06:00Z | [open](../records/haskell-sqlite-simple-7933d0f4.md) |
 | tmp-postgres | 1.34.1.0 | 2019-12-29T07:20:55Z | [open](../records/haskell-tmp-postgres-a3d9fc1b.md) |
@@ -821,7 +823,7 @@ Records: `969`
 | citrusvanilla/tinyflux | partial | 2026-01-27T17:23:15Z | [open](../records/databases-citrusvanilla-tinyflux-4a861312.md) |
 | citusdata/citus | partial | 2026-09-08T16:26:40Z | [open](../records/databases-citusdata-citus-5748489c.md) |
 | ClickHouse | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-clickhouse-6cbe9924.md) |
-| clockworklabs/SpacetimeDB | partial | 2026-09-08T19:15:39Z | [open](../records/databases-clockworklabs-spacetimedb-dd3f9779.md) |
+| clockworklabs/SpacetimeDB | partial | 2026-09-08T20:21:52Z | [open](../records/databases-clockworklabs-spacetimedb-dd3f9779.md) |
 | Cloudflare D1 | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-cloudflare-d1-137ce548.md) |
 | Cloudflare R2 | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-cloudflare-r2-ad4ae9ea.md) |
 | CockroachDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-cockroachdb-edd34bb8.md) |
@@ -850,7 +852,7 @@ Records: `969`
 | Diesel | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-diesel-8466d034.md) |
 | dieselpoint/norm | partial | 2026-02-27T18:08:09Z | [open](../records/databases-dieselpoint-norm-d5dbd93a.md) |
 | dimitri/pgloader | partial | 2026-07-24T14:35:08Z | [open](../records/databases-dimitri-pgloader-b06e2e41.md) |
-| directus/directus | partial | 2026-09-08T18:34:23Z | [open](../records/databases-directus-directus-1a9841eb.md) |
+| directus/directus | partial | 2026-09-08T19:55:12Z | [open](../records/databases-directus-directus-1a9841eb.md) |
 | discourse/discourse | partial | 2026-09-08T12:25:41Z | [open](../records/databases-discourse-discourse-7bfa29f8.md) |
 | distributedio/titan | partial | 2023-10-21T05:34:32Z | [open](../records/databases-distributedio-titan-2725f29d.md) |
 | doctrine/dbal | partial | 2026-09-07T06:38:33Z | [open](../records/databases-doctrine-dbal-55d5a11f.md) |
@@ -858,7 +860,7 @@ Records: `969`
 | Dokploy/dokploy | partial | 2026-09-08T09:17:47Z | [open](../records/databases-dokploy-dokploy-05537e16.md) |
 | Dolibarr/dolibarr | partial | 2026-09-08T12:22:34Z | [open](../records/databases-dolibarr-dolibarr-10b5d5de.md) |
 | domaframework/doma | partial | 2026-09-07T20:06:02Z | [open](../records/databases-domaframework-doma-188a30ea.md) |
-| dotnet/efcore | partial | 2026-09-08T17:50:44Z | [open](../records/databases-dotnet-efcore-f57314d7.md) |
+| dotnet/efcore | partial | 2026-09-08T19:47:11Z | [open](../records/databases-dotnet-efcore-f57314d7.md) |
 | dragonflydb/dragonfly | partial | 2026-09-08T15:45:32Z | [open](../records/databases-dragonflydb-dragonfly-fdf6559c.md) |
 | drizzle-team/drizzle-orm | partial | 2026-09-08T09:37:41Z | [open](../records/databases-drizzle-team-drizzle-orm-70f57054.md) |
 | DuckDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-duckdb-88d17aa9.md) |
@@ -960,7 +962,7 @@ Records: `969`
 | Meilisearch | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-meilisearch-bf7b237f.md) |
 | mergestat/mergestat-lite | partial | 2026-09-05T05:26:30Z | [open](../records/databases-mergestat-mergestat-lite-67a00eb8.md) |
 | Metabase | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-metabase-545e8fa8.md) |
-| metabase/metabase | partial | 2026-09-08T19:19:05Z | [open](../records/databases-metabase-metabase-3a69762d.md) |
+| metabase/metabase | partial | 2026-09-08T20:22:30Z | [open](../records/databases-metabase-metabase-3a69762d.md) |
 | mevdschee/php-crud-api | partial | 2026-08-28T19:03:50Z | [open](../records/databases-mevdschee-php-crud-api-f8b4da35.md) |
 | Milvus | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-milvus-66248b43.md) |
 | milvus-io/pymilvus | partial | 2026-09-08T06:47:22Z | [open](../records/databases-milvus-io-pymilvus-f6a8adf0.md) |
@@ -969,7 +971,7 @@ Records: `969`
 | Mintplex-Labs/anything-llm | partial | 2026-09-08T02:56:50Z | [open](../records/databases-mintplex-labs-anything-llm-1f2ed9ad.md) |
 | Mintplex-Labs/vector-admin | partial | 2025-04-15T20:40:32Z | [open](../records/databases-mintplex-labs-vector-admin-90dbe9c3.md) |
 | MongoDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-mongodb-c5c57340.md) |
-| mongodb/mongo | partial | 2026-09-08T19:19:49Z | [open](../records/databases-mongodb-mongo-277cd77e.md) |
+| mongodb/mongo | partial | 2026-09-08T20:23:10Z | [open](../records/databases-mongodb-mongo-277cd77e.md) |
 | mongodb/mongo-cxx-driver | partial | 2026-09-04T12:49:11Z | [open](../records/databases-mongodb-mongo-cxx-driver-457d57a9.md) |
 | mouredev/hello-sql | partial | 2025-03-31T17:05:09Z | [open](../records/databases-mouredev-hello-sql-0b090060.md) |
 | msiemens/tinydb | partial | 2026-08-10T18:34:35Z | [open](../records/databases-msiemens-tinydb-137ac34b.md) |
@@ -1172,7 +1174,7 @@ Records: `969`
 | Gitea: ziying/database | partial | 2026-06-03T05:06:54Z | [open](../records/repository-workplaces-gitea-ziying-database-e5dcf680.md) |
 | gitlab-org/advisories-community | partial | 2026-09-07T14:31:49.392Z | [open](../records/repository-workplaces-gitlab-org-advisories-community-621603ca.md) |
 | gitlab-org/analytics-section/siphon | partial | 2026-09-08T13:35:01.304Z | [open](../records/repository-workplaces-gitlab-org-analytics-section-siphon-6ac6dc22.md) |
-| kara.moe/karaokebase | partial | 2026-09-08T14:44:49.310Z | [open](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) |
+| kara.moe/karaokebase | partial | 2026-09-08T19:50:13.988Z | [open](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) |
 | postgres-ai/custom-images | partial | 2026-08-31T12:45:54.446Z | [open](../records/repository-workplaces-postgres-ai-custom-images-45d426ed.md) |
 | ProfaneDB/ProfaneDB | partial | 2021-08-10T13:32:11.702Z | [open](../records/repository-workplaces-profanedb-profanedb-135545c0.md) |
 | radiobrowser/radio-database | partial | 2026-09-08T15:19:25.787Z | [open](../records/repository-workplaces-radiobrowser-radio-database-bfa28291.md) |

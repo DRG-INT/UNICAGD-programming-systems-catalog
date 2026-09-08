@@ -1,6 +1,6 @@
 # Cli
 
-Records: `570`
+Records: `571`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `570`
 ## Category Index
 
 [Api Abi Checker (224)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (999)](build-system.md) · **[Cli (570)](cli.md)** · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (999)](build-system.md) · **[Cli (571)](cli.md)** · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
 [Concurrency Parallelism (93)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (969)](database-datastore.md) · [Datetime (235)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (104)](dependency-manager.md) · [Documentation (109)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (464)](ffi-bindings.md) · [Filesystem Os (1616)](filesystem-os.md) · [Formatter (652)](formatter.md)
+[Cryptography (178)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (971)](database-datastore.md) · [Datetime (235)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (464)](ffi-bindings.md) · [Filesystem Os (1618)](filesystem-os.md) · [Formatter (652)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1475)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (275)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1450)](language-specification.md) · [Library (5763)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (30)](language-server.md) · [Language Specification (1450)](language-specification.md) · [Library (5774)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (810)](machine-learning.md)
 [Math Numeric Scientific (89)](math-numeric-scientific.md) · [Memory Analyzer (98)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1053)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1208)](parser-lexer-ast.md) · [Precommit Ci Quality (310)](precommit-ci-quality.md)
-[Profiler (90)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Profiler (92)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (632)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (619)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (314)](type-checker.md)
-[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (488)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (620)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (489)](web-framework.md)
 
 ## C++23
 
@@ -286,14 +286,14 @@ Records: `570`
 | @depot/cli | 0.0.1-cli.2.102.7 | 2026-08-24T09:25:54.823Z | [open](../records/node-js-javascript-depot-cli-a6c8806a.md) |
 | @devcontainers/cli | 0.89.0 | 2026-08-31T07:50:41.687Z | [open](../records/node-js-javascript-devcontainers-cli-6df3ec6d.md) |
 | @devcycle/cli | 6.3.2 | 2026-04-28T19:32:47.623Z | [open](../records/node-js-javascript-devcycle-cli-ece13be6.md) |
-| @devvit/cli | 0.14.2 | 2026-08-31T20:04:21.751Z | [open](../records/node-js-javascript-devvit-cli-be160bd1.md) |
+| @devvit/cli | 0.14.3 | 2026-09-08T19:03:13.422Z | [open](../records/node-js-javascript-devvit-cli-be160bd1.md) |
 | @env0/cli | 1.0.25 | 2026-04-20T08:58:03.712Z | [open](../records/node-js-javascript-env0-cli-f8ec1602.md) |
 | @expo/cli | 57.0.23 | 2026-09-08T13:48:15.261Z | [open](../records/node-js-javascript-expo-cli-22f34048.md) |
 | @expo/image-utils | 0.11.5 | 2026-08-24T07:53:15.617Z | [open](../records/node-js-javascript-expo-image-utils-6fd48f78.md) |
 | @fallow-cli/linux-x64-gnu | 3.23.0 | 2026-09-07T11:50:14.156Z | [open](../records/node-js-javascript-fallow-cli-linux-x64-gnu-c24edc1b.md) |
 | @fallow-cli/linux-x64-musl | 3.23.0 | 2026-09-07T11:48:24.916Z | [open](../records/node-js-javascript-fallow-cli-linux-x64-musl-ad0f87bf.md) |
 | @farmfe/cli | 1.0.5 | 2025-06-22T04:53:28.320Z | [open](../records/node-js-javascript-farmfe-cli-0b309d0f.md) |
-| @fragment-dev/cli | 2026.9.8-4 | 2026-09-08T18:15:40.959Z | [open](../records/node-js-javascript-fragment-dev-cli-b4d175cf.md) |
+| @fragment-dev/cli | 2026.9.8-7 | 2026-09-08T20:00:56.173Z | [open](../records/node-js-javascript-fragment-dev-cli-b4d175cf.md) |
 | @gltf-transform/cli | 4.5.0 | 2026-09-01T00:43:18.551Z | [open](../records/node-js-javascript-gltf-transform-cli-56392446.md) |
 | @google/gemini-cli | 0.58.0 | 2026-09-01T20:50:39.295Z | [open](../records/node-js-javascript-google-gemini-cli-c3ee3b5d.md) |
 | @google/gemini-cli-core | 0.58.0 | 2026-09-01T20:50:54.396Z | [open](../records/node-js-javascript-google-gemini-cli-core-7db4739b.md) |
@@ -308,7 +308,7 @@ Records: `570`
 | @ionic/cli-framework-output | 2.2.8 | 2023-12-19T22:38:35.365Z | [open](../records/node-js-javascript-ionic-cli-framework-output-8324bb8a.md) |
 | @ionic/cli-framework-prompts | 2.1.13 | 2023-12-19T22:38:35.436Z | [open](../records/node-js-javascript-ionic-cli-framework-prompts-5599c31f.md) |
 | @knocklabs/cli | 1.2.3 | 2026-08-13T15:12:15.170Z | [open](../records/node-js-javascript-knocklabs-cli-62154908.md) |
-| @lightdash/cli | 2.165.0 | 2026-09-08T18:10:01.348Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
+| @lightdash/cli | 2.167.0 | 2026-09-08T19:57:00.720Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | @lingui/cli | 6.6.0 | 2026-07-24T13:52:53.439Z | [open](../records/node-js-javascript-lingui-cli-343f33ec.md) |
 | @maizzle/cli | 2.0.0 | 2024-12-16T17:59:24.900Z | [open](../records/node-js-javascript-maizzle-cli-a7a13457.md) |
 | @marp-team/marp-cli | 4.5.0 | 2026-07-17T23:07:09.399Z | [open](../records/node-js-javascript-marp-team-marp-cli-b69e1548.md) |
@@ -424,6 +424,7 @@ Records: `570`
 | parse-help | 2.0.0 | 2021-04-08T14:32:08.026Z | [open](../records/node-js-javascript-parse-help-19e44bfd.md) |
 | plasmo | 0.90.5 | 2025-05-17T20:08:16.519Z | [open](../records/node-js-javascript-plasmo-4a007950.md) |
 | postcss-cli | 12.0.0 | 2026-09-04T19:37:55.077Z | [open](../records/node-js-javascript-postcss-cli-f6b818f9.md) |
+| pug-cli | 1.0.0-alpha6 | 2016-06-01T23:57:27.315Z | [open](../records/node-js-javascript-pug-cli-eaeac977.md) |
 | react-native-cli | 2.0.1 | 2016-12-16T14:28:05.895Z | [open](../records/node-js-javascript-react-native-cli-d8041a38.md) |
 | remark-cli | 12.0.1 | 2024-04-30T12:31:19.950Z | [open](../records/node-js-javascript-remark-cli-42e41c55.md) |
 | restore-cursor | 5.1.0 | 2024-07-26T13:56:42.169Z | [open](../records/node-js-javascript-restore-cursor-a8393b93.md) |
@@ -523,7 +524,7 @@ Records: `570`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| golang-migrate/migrate | partial | 2026-09-08T19:13:33Z | [open](../records/go-golang-migrate-migrate-c00bf5c0.md) |
+| golang-migrate/migrate | partial | 2026-09-08T20:04:02Z | [open](../records/go-golang-migrate-migrate-c00bf5c0.md) |
 | JanDeDobbeleer/oh-my-posh | partial | 2026-09-08T18:15:16Z | [open](../records/go-jandedobbeleer-oh-my-posh-0e751a91.md) |
 | yorukot/superfile | partial | 2026-09-07T18:09:48Z | [open](../records/go-yorukot-superfile-1e2c0bb7.md) |
 
@@ -531,10 +532,10 @@ Records: `570`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-08T18:37:31Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-08T19:31:00Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-08T19:17:41Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-08T20:21:41Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 
@@ -574,8 +575,8 @@ Records: `570`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | earthaccess-dev/earthaccess | unknown | github_search_does_not_include_release_date | [open](../records/maps-earthaccess-dev-earthaccess-69c17717.md) |
-| kraina-ai/quackosm | partial | 2026-09-01T12:02:42Z | [open](../records/maps-kraina-ai-quackosm-235b8910.md) |
-| organicmaps/organicmaps | partial | 2026-09-08T10:40:23Z | [open](../records/maps-organicmaps-organicmaps-2fbbb788.md) |
+| kraina-ai/quackosm | partial | 2026-09-07T22:01:28Z | [open](../records/maps-kraina-ai-quackosm-235b8910.md) |
+| organicmaps/organicmaps | partial | 2026-09-08T20:10:57Z | [open](../records/maps-organicmaps-organicmaps-2fbbb788.md) |
 | Toblerity/Fiona | unknown | github_search_does_not_include_release_date | [open](../records/maps-toblerity-fiona-f99f05a8.md) |
 
 ## Space Maps
@@ -761,9 +762,9 @@ Records: `570`
 | --- | --- | --- | --- |
 | achristmascarl/rainfrog | partial | 2026-08-25T01:39:44Z | [open](../records/databases-achristmascarl-rainfrog-b671adea.md) |
 | chdb-io/chdb | partial | 2026-09-08T09:00:14Z | [open](../records/databases-chdb-io-chdb-51490fbb.md) |
-| ClickHouse/ClickHouse | partial | 2026-09-08T19:19:56Z | [open](../records/databases-clickhouse-clickhouse-9258f880.md) |
+| ClickHouse/ClickHouse | partial | 2026-09-08T20:23:15Z | [open](../records/databases-clickhouse-clickhouse-9258f880.md) |
 | ClickHouse/clickhouse-odbc | partial | 2026-08-18T15:43:22Z | [open](../records/databases-clickhouse-clickhouse-odbc-7cfc6ac3.md) |
-| golang-migrate/migrate | partial | 2026-09-08T19:13:33Z | [open](../records/databases-golang-migrate-migrate-1713bacf.md) |
+| golang-migrate/migrate | partial | 2026-09-08T20:04:02Z | [open](../records/databases-golang-migrate-migrate-1713bacf.md) |
 | housepower/ClickHouse-Native-JDBC | partial | 2025-06-22T09:22:59Z | [open](../records/databases-housepower-clickhouse-native-jdbc-8cec0869.md) |
 | nauu/clickhousebook | partial | 2020-06-15T06:25:08Z | [open](../records/databases-nauu-clickhousebook-52bba460.md) |
 | saulpw/visidata | partial | 2026-08-28T00:09:56Z | [open](../records/databases-saulpw-visidata-d21b4529.md) |

@@ -1,6 +1,6 @@
 # Web Framework
 
-Records: `488`
+Records: `489`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `488`
 ## Category Index
 
 [Api Abi Checker (224)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (999)](build-system.md) · [Cli (570)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (999)](build-system.md) · [Cli (571)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
 [Concurrency Parallelism (93)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (969)](database-datastore.md) · [Datetime (235)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (104)](dependency-manager.md) · [Documentation (109)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (464)](ffi-bindings.md) · [Filesystem Os (1616)](filesystem-os.md) · [Formatter (652)](formatter.md)
+[Cryptography (178)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (971)](database-datastore.md) · [Datetime (235)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (464)](ffi-bindings.md) · [Filesystem Os (1618)](filesystem-os.md) · [Formatter (652)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1475)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (275)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1450)](language-specification.md) · [Library (5763)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (30)](language-server.md) · [Language Specification (1450)](language-specification.md) · [Library (5774)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (810)](machine-learning.md)
 [Math Numeric Scientific (89)](math-numeric-scientific.md) · [Memory Analyzer (98)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1053)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1208)](parser-lexer-ast.md) · [Precommit Ci Quality (310)](precommit-ci-quality.md)
-[Profiler (90)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Profiler (92)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (632)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (619)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (314)](type-checker.md)
-[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · **[Web Framework (488)](web-framework.md)**
+[Templating (2)](templating.md) · [Testing Framework (620)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · **[Web Framework (489)](web-framework.md)**
 
 ## C++23
 
@@ -166,7 +166,7 @@ Records: `488`
 | @callstack/repack-dev-server | 5.3.0 | 2026-08-05T09:11:36.073Z | [open](../records/node-js-javascript-callstack-repack-dev-server-631ff63b.md) |
 | @capgo/cli | 8.48.2 | 2026-09-08T12:14:13.290Z | [open](../records/node-js-javascript-capgo-cli-8e98e39d.md) |
 | @cloudflare/mcp-server-cloudflare | 0.2.0 | 2025-03-14T10:41:19.350Z | [open](../records/node-js-javascript-cloudflare-mcp-server-cloudflare-3b1ce558.md) |
-| @constructive-io/graphql-server | 5.24.0 | 2026-09-06T19:46:39.891Z | [open](../records/node-js-javascript-constructive-io-graphql-server-5edba745.md) |
+| @constructive-io/graphql-server | 5.25.0 | 2026-09-08T19:01:13.345Z | [open](../records/node-js-javascript-constructive-io-graphql-server-5edba745.md) |
 | @contentful/mcp-server | 1.19.0 | 2026-09-01T20:20:27.760Z | [open](../records/node-js-javascript-contentful-mcp-server-f8c3e0db.md) |
 | @currents/mcp | 2.4.2 | 2026-08-16T09:54:54.234Z | [open](../records/node-js-javascript-currents-mcp-da022c62.md) |
 | @data-elements/database | 0.3.6 | 2026-08-22T04:54:10.956Z | [open](../records/node-js-javascript-data-elements-database-84055e3f.md) |
@@ -208,7 +208,7 @@ Records: `488`
 | @osohq/dev-server | 0.0.1-alpha.24 | 2026-07-17T14:34:26.307Z | [open](../records/node-js-javascript-osohq-dev-server-08c8f1e4.md) |
 | @paperclipai/mcp-server | 2026.831.1 | 2026-09-02T04:45:33.153Z | [open](../records/node-js-javascript-paperclipai-mcp-server-6008c169.md) |
 | @percy/cli-exec | 1.32.9 | 2026-09-08T08:32:25.867Z | [open](../records/node-js-javascript-percy-cli-exec-36de9cf7.md) |
-| @pgpmjs/server-utils | 3.27.4 | 2026-09-04T16:41:49.651Z | [open](../records/node-js-javascript-pgpmjs-server-utils-fab8bc0e.md) |
+| @pgpmjs/server-utils | 3.27.5 | 2026-09-08T19:00:53.395Z | [open](../records/node-js-javascript-pgpmjs-server-utils-fab8bc0e.md) |
 | @pollyjs/node-server | 6.0.6 | 2023-07-20T16:37:35.198Z | [open](../records/node-js-javascript-pollyjs-node-server-5c241e82.md) |
 | @pondwader/socks5-server | 1.0.10 | 2024-06-29T10:33:38.995Z | [open](../records/node-js-javascript-pondwader-socks5-server-711c6d2c.md) |
 | @promster/server | 16.0.0 | 2026-08-30T17:52:36.398Z | [open](../records/node-js-javascript-promster-server-55eaed1b.md) |
@@ -265,7 +265,7 @@ Records: `488`
 | apollo-server-module-graphiql | 1.4.0 | 2018-07-13T18:46:58.732Z | [open](../records/node-js-javascript-apollo-server-module-graphiql-868b59df.md) |
 | appium-uiautomator2-server | 10.6.4 | 2026-09-05T03:34:08.018Z | [open](../records/node-js-javascript-appium-uiautomator2-server-156ed7d4.md) |
 | chrome-devtools-mcp | 1.9.0 | 2026-09-08T09:53:29.850Z | [open](../records/node-js-javascript-chrome-devtools-mcp-3aba1a23.md) |
-| code-server | 4.135.0 | 2026-08-27T18:15:15.893Z | [open](../records/node-js-javascript-code-server-cf26133a.md) |
+| code-server | 4.136.2 | 2026-09-08T20:00:36.438Z | [open](../records/node-js-javascript-code-server-cf26133a.md) |
 | decap-server | 3.11.1 | 2026-09-08T09:24:10.108Z | [open](../records/node-js-javascript-decap-server-cbdda5d6.md) |
 | es-dev-server | 2.1.0 | 2021-01-18T21:36:54.178Z | [open](../records/node-js-javascript-es-dev-server-02f41bcc.md) |
 | expo-server | 57.0.3 | 2026-08-14T14:22:51.084Z | [open](../records/node-js-javascript-expo-server-ef9c49be.md) |
@@ -358,6 +358,7 @@ Records: `488`
 | --- | --- | --- | --- |
 | csound-expression | 5.4.4.1 | 2024-06-16T17:12:05Z | [open](../records/haskell-csound-expression-668aa49e.md) |
 | csound-expression-typed | 0.2.9.0 | 2024-06-16T16:31:15Z | [open](../records/haskell-csound-expression-typed-b0cbea91.md) |
+| futhark-server | 1.5.0.0 | 2026-09-08T20:04:13Z | [open](../records/haskell-futhark-server-1468e986.md) |
 | happstack-server | 7.9.3 | 2025-09-04T15:38:46Z | [open](../records/haskell-happstack-server-a56a8811.md) |
 | happstack-server-tls | 7.2.1.7 | 2025-09-09T01:33:07Z | [open](../records/haskell-happstack-server-tls-e1140e67.md) |
 | launchdarkly-server-sdk | 4.6.0 | 2026-05-28T19:28:18Z | [open](../records/haskell-launchdarkly-server-sdk-183eca01.md) |
@@ -649,7 +650,7 @@ Records: `488`
 | dotnetcore/FreeSql | partial | 2026-07-31T17:52:16Z | [open](../records/databases-dotnetcore-freesql-be272c12.md) |
 | DotNetNext/SqlSugar | partial | 2026-09-08T05:58:01Z | [open](../records/databases-dotnetnext-sqlsugar-a1157e31.md) |
 | frectonz/sql-studio | partial | 2026-08-26T14:32:48Z | [open](../records/databases-frectonz-sql-studio-0812f2ca.md) |
-| googleapis/mcp-toolbox | partial | 2026-09-08T19:13:33Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
+| googleapis/mcp-toolbox | partial | 2026-09-08T20:21:46Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
 | jeesun/oauthserver | partial | 2022-12-14T20:38:57Z | [open](../records/databases-jeesun-oauthserver-614193dd.md) |
 | LinuxForHealth/FHIR | partial | 2024-04-18T14:50:56Z | [open](../records/databases-linuxforhealth-fhir-ee64ade5.md) |
 | lionheart/django-pyodbc | partial | 2023-01-29T16:42:06Z | [open](../records/databases-lionheart-django-pyodbc-c6078181.md) |
