@@ -5249,7 +5249,7 @@ Records: `5742`
 | ngageoint/sarpy_apps | partial | 2025-08-19T15:16:27Z | [open](../records/radars-ngageoint-sarpy-apps-53476eab.md) |
 | Nouuu/Albion-Online-OpenRadar | partial | 2026-09-04T17:05:37Z | [open](../records/radars-nouuu-albion-online-openradar-04ea3acd.md) |
 | ntnu-arl/lidar_degeneracy_datasets | partial | 2026-02-03T12:49:37Z | [open](../records/radars-ntnu-arl-lidar-degeneracy-datasets-f90e3fc8.md) |
-| odhondt/eo_tools | partial | 2026-08-28T22:53:21Z | [open](../records/radars-odhondt-eo-tools-bf024141.md) |
+| odhondt/eo_tools | partial | 2026-09-08T10:11:18Z | [open](../records/radars-odhondt-eo-tools-bf024141.md) |
 | open-flight/openflight | partial | 2026-09-06T12:13:19Z | [open](../records/radars-open-flight-openflight-76c154cb.md) |
 | opencpn-radar-pi/radar_pi | partial | 2026-08-04T01:35:42Z | [open](../records/radars-opencpn-radar-pi-radar-pi-bfe54946.md) |
 | openradar/xradar | partial | 2026-09-01T10:30:01Z | [open](../records/radars-openradar-xradar-fcfe7f38.md) |

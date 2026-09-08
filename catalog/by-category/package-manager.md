@@ -440,7 +440,7 @@ Records: `442`
 | --- | --- | --- | --- |
 | AntonotnaWang/3DCellSeg | partial | 2023-04-10T20:56:26Z | [open](../records/microscopy-antonotnawang-3dcellseg-f26edf96.md) |
 | ciccalab/SIMPLI | partial | 2025-09-23T11:08:18Z | [open](../records/microscopy-ciccalab-simpli-f44ea336.md) |
-| DeepTrackAI/DeepTrack2 | partial | 2026-08-23T21:52:12Z | [open](../records/microscopy-deeptrackai-deeptrack2-c4bed0ae.md) |
+| DeepTrackAI/DeepTrack2 | partial | 2026-09-08T09:39:18Z | [open](../records/microscopy-deeptrackai-deeptrack2-c4bed0ae.md) |
 | hallvaaw/awesome-biological-image-analysis | partial | 2026-09-01T08:44:58Z | [open](../records/microscopy-hallvaaw-awesome-biological-image-analysis-b00b91fa.md) |
 | lachlanchen/OpenHI | partial | 2026-04-27T01:39:28Z | [open](../records/microscopy-lachlanchen-openhi-6563c12a.md) |
 | nf-core/mcmicro | partial | 2026-09-01T12:58:34Z | [open](../records/microscopy-nf-core-mcmicro-5fb60926.md) |

@@ -315,7 +315,7 @@ Records: `438`
 | ffmpegwasm/ffmpeg.wasm | partial | 2026-02-01T08:35:30Z | [open](../records/audio-ffmpegwasm-ffmpeg-wasm-9b9d7a50.md) |
 | fgnt/pb_bss | partial | 2025-05-19T09:09:42Z | [open](../records/audio-fgnt-pb-bss-f15b9a38.md) |
 | File-New-Project/EarTrumpet | partial | 2026-09-06T00:45:52Z | [open](../records/audio-file-new-project-eartrumpet-cd979706.md) |
-| floe-audio/Floe | partial | 2026-09-01T14:57:54Z | [open](../records/audio-floe-audio-floe-493f97d2.md) |
+| floe-audio/Floe | partial | 2026-09-08T09:16:35Z | [open](../records/audio-floe-audio-floe-493f97d2.md) |
 | FredAntonCorvest/Common-AudioUnit-V3 | partial | 2017-05-17T20:31:15Z | [open](../records/audio-fredantoncorvest-common-audiounit-v3-3fe8d640.md) |
 | FredAntonCorvest/CreatingCustomAudioEffects-Universal | partial | 2022-01-23T19:08:38Z | [open](../records/audio-fredantoncorvest-creatingcustomaudioeffects-universal-dd850458.md) |
 | freeman-jiang/beatsync | partial | 2026-06-12T18:53:27Z | [open](../records/audio-freeman-jiang-beatsync-bdcabddc.md) |
@@ -325,12 +325,12 @@ Records: `438`
 | gemengtju/Tutorial_Speech_Signal_Processing | partial | 2020-07-20T11:33:47Z | [open](../records/audio-gemengtju-tutorial-speech-signal-processing-e00ad743.md) |
 | glissando-daw/glissando-daw | partial | 2023-01-20T23:12:06Z | [open](../records/audio-glissando-daw-glissando-daw-86ff83f9.md) |
 | goldfire/howler.js | partial | 2025-11-23T23:49:01Z | [open](../records/audio-goldfire-howler-js-a9571685.md) |
-| grame-cncm/faustlibraries | partial | 2026-09-04T06:36:11Z | [open](../records/audio-grame-cncm-faustlibraries-8668a7b0.md) |
+| grame-cncm/faustlibraries | partial | 2026-09-07T16:46:10Z | [open](../records/audio-grame-cncm-faustlibraries-8668a7b0.md) |
 | GStreamer | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-gstreamer-de3f1993.md) |
 | GullDSP/Circulate-VST | partial | 2026-06-29T00:30:46Z | [open](../records/audio-gulldsp-circulate-vst-58e43839.md) |
 | hollance/synth-plugin-book | partial | 2024-06-22T16:06:23Z | [open](../records/audio-hollance-synth-plugin-book-e6e2ebe2.md) |
 | hollance/synth-recipes | partial | 2023-07-22T17:14:14Z | [open](../records/audio-hollance-synth-recipes-dbad6169.md) |
-| hqrrr/PerceptoMap | partial | 2026-09-07T09:12:51Z | [open](../records/audio-hqrrr-perceptomap-9176716f.md) |
+| hqrrr/PerceptoMap | partial | 2026-09-08T08:46:43Z | [open](../records/audio-hqrrr-perceptomap-9176716f.md) |
 | hukenovs/dsp-theory | partial | 2026-04-21T18:12:35Z | [open](../records/audio-hukenovs-dsp-theory-fa2c75ff.md) |
 | iampawan/Flute-Music-Player | partial | 2020-12-30T15:43:12Z | [open](../records/audio-iampawan-flute-music-player-08b19a30.md) |
 | increpare/bfxr2 | partial | 2026-07-26T09:59:55Z | [open](../records/audio-increpare-bfxr2-16674ccc.md) |

@@ -40,7 +40,7 @@ generation, static analysis, and source transformation.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | Boost Software License 1.0; https://api.github.com/licenses/bsl-1.0 |
+| Evidence | LGPL-3 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

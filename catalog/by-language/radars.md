@@ -345,7 +345,7 @@ Records: `354`
 | [ngageoint/sarpy_apps](../records/radars-ngageoint-sarpy-apps-53476eab.md) | partial | 2025-08-19T15:16:27Z | registry-derived |
 | [Nouuu/Albion-Online-OpenRadar](../records/radars-nouuu-albion-online-openradar-04ea3acd.md) | partial | 2026-09-04T17:05:37Z | registry-derived |
 | [ntnu-arl/lidar_degeneracy_datasets](../records/radars-ntnu-arl-lidar-degeneracy-datasets-f90e3fc8.md) | partial | 2026-02-03T12:49:37Z | registry-derived |
-| [odhondt/eo_tools](../records/radars-odhondt-eo-tools-bf024141.md) | partial | 2026-08-28T22:53:21Z | registry-derived |
+| [odhondt/eo_tools](../records/radars-odhondt-eo-tools-bf024141.md) | partial | 2026-09-08T10:11:18Z | registry-derived |
 | [open-flight/openflight](../records/radars-open-flight-openflight-76c154cb.md) | partial | 2026-09-06T12:13:19Z | registry-derived |
 | [opencpn-radar-pi/radar_pi](../records/radars-opencpn-radar-pi-radar-pi-bfe54946.md) | partial | 2026-08-04T01:35:42Z | registry-derived |
 | [openradar/xradar](../records/radars-openradar-xradar-fcfe7f38.md) | partial | 2026-09-01T10:30:01Z | registry-derived |

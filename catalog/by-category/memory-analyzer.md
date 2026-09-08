@@ -133,7 +133,7 @@ Records: `96`
 | mem0ai/mem0 | partial | 2026-09-08T09:44:41Z | [open](../records/aim-s-mem0ai-mem0-1e2f6f8a.md) |
 | MemPalace/mempalace | partial | 2026-09-08T03:39:58Z | [open](../records/aim-s-mempalace-mempalace-24dc978a.md) |
 | tinyhumansai/openhuman | partial | 2026-09-08T09:44:08Z | [open](../records/aim-s-tinyhumansai-openhuman-c683371f.md) |
-| vllm-project/vllm | partial | 2026-09-08T09:48:00Z | [open](../records/aim-s-vllm-project-vllm-5af67423.md) |
+| vllm-project/vllm | partial | 2026-09-08T11:06:46Z | [open](../records/aim-s-vllm-project-vllm-5af67423.md) |
 | zhayujie/CowAgent | partial | 2026-09-08T10:19:16Z | [open](../records/aim-s-zhayujie-cowagent-fa45ff55.md) |
 
 ## Game Engines

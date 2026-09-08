@@ -142,7 +142,7 @@ Records: `481`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [adplug/adplug](../records/audio-adplug-adplug-e2680a2a.md) | partial | 2026-09-05T18:45:02Z | registry-derived |
-| [ARM-software/CMSIS-DSP](../records/audio-arm-software-cmsis-dsp-5aab5965.md) | partial | 2026-09-08T09:50:16Z | registry-derived |
+| [ARM-software/CMSIS-DSP](../records/audio-arm-software-cmsis-dsp-5aab5965.md) | partial | 2026-09-08T11:11:48Z | registry-derived |
 | [reales/retromulator](../records/audio-reales-retromulator-fdf0cc26.md) | partial | 2026-07-24T07:24:46Z | registry-derived |
 | [zueblin/Polaron](../records/audio-zueblin-polaron-4f0534e8.md) | partial | 2020-09-05T12:28:45Z | registry-derived |
 
@@ -173,15 +173,15 @@ Records: `481`
 | [calf-studio-gear/calf](../records/audio-calf-studio-gear-calf-089316e7.md) | partial | 2026-07-31T15:17:16Z | registry-derived |
 | [ceva-ip/DPDFNet](../records/audio-ceva-ip-dpdfnet-64adc0ae.md) | partial | 2026-07-22T07:48:24Z | registry-derived |
 | [christofmuc/KnobKraft-orm](../records/audio-christofmuc-knobkraft-orm-c5ee3da6.md) | partial | 2026-09-07T09:06:50Z | registry-derived |
-| [Conceptual-Machines/magda-core](../records/audio-conceptual-machines-magda-core-daf4c398.md) | partial | 2026-09-07T08:58:08Z | registry-derived |
+| [Conceptual-Machines/magda-core](../records/audio-conceptual-machines-magda-core-daf4c398.md) | partial | 2026-09-08T11:17:08Z | registry-derived |
 | [ddiakopoulos/MoogLadders](../records/audio-ddiakopoulos-moogladders-03832924.md) | partial | 2026-06-13T18:35:36Z | registry-derived |
-| [DropSnorz/OwlPlug](../records/audio-dropsnorz-owlplug-ab9f531b.md) | partial | 2026-09-07T06:24:41Z | registry-derived |
+| [DropSnorz/OwlPlug](../records/audio-dropsnorz-owlplug-ab9f531b.md) | partial | 2026-09-07T21:10:05Z | registry-derived |
 | [fedden/RenderMan](../records/audio-fedden-renderman-b1df24f8.md) | partial | 2021-12-02T21:11:26Z | registry-derived |
 | [gnuradio/gnuradio](../records/audio-gnuradio-gnuradio-f6f01d2f.md) | partial | 2026-08-27T23:02:01Z | registry-derived |
 | [HEnquist/camilladsp](../records/audio-henquist-camilladsp-382264e4.md) | partial | 2026-09-07T14:50:04Z | registry-derived |
 | [hifiberry/hifiberry-os](../records/audio-hifiberry-hifiberry-os-5ddcb398.md) | partial | 2026-09-07T13:19:11Z | registry-derived |
 | [hollance/lost-and-found-piano](../records/audio-hollance-lost-and-found-piano-757e2e12.md) | partial | 2026-07-12T14:06:30Z | registry-derived |
-| [jameshball/osci-render](../records/audio-jameshball-osci-render-c76ba818.md) | partial | 2026-09-07T06:40:09Z | registry-derived |
+| [jameshball/osci-render](../records/audio-jameshball-osci-render-c76ba818.md) | partial | 2026-09-07T20:25:08Z | registry-derived |
 | [jatinchowdhury18/ChowPhaser](../records/audio-jatinchowdhury18-chowphaser-48d2d1a6.md) | partial | 2022-02-23T08:14:59Z | registry-derived |
 | [josephernest/SamplerBox](../records/audio-josephernest-samplerbox-c23f8c2d.md) | partial | 2024-05-09T19:18:19Z | registry-derived |
 | [joshwcomeau/key-and-pad](../records/audio-joshwcomeau-key-and-pad-da5bc43a.md) | partial | 2022-12-12T07:44:58Z | registry-derived |
@@ -306,7 +306,7 @@ Records: `481`
 | [ffmpegwasm/ffmpeg.wasm](../records/audio-ffmpegwasm-ffmpeg-wasm-9b9d7a50.md) | partial | 2026-02-01T08:35:30Z | registry-derived |
 | [fgnt/pb_bss](../records/audio-fgnt-pb-bss-f15b9a38.md) | partial | 2025-05-19T09:09:42Z | registry-derived |
 | [File-New-Project/EarTrumpet](../records/audio-file-new-project-eartrumpet-cd979706.md) | partial | 2026-09-06T00:45:52Z | registry-derived |
-| [floe-audio/Floe](../records/audio-floe-audio-floe-493f97d2.md) | partial | 2026-09-01T14:57:54Z | registry-derived |
+| [floe-audio/Floe](../records/audio-floe-audio-floe-493f97d2.md) | partial | 2026-09-08T09:16:35Z | registry-derived |
 | [FredAntonCorvest/Common-AudioUnit-V3](../records/audio-fredantoncorvest-common-audiounit-v3-3fe8d640.md) | partial | 2017-05-17T20:31:15Z | registry-derived |
 | [FredAntonCorvest/CreatingCustomAudioEffects-Universal](../records/audio-fredantoncorvest-creatingcustomaudioeffects-universal-dd850458.md) | partial | 2022-01-23T19:08:38Z | registry-derived |
 | [freeman-jiang/beatsync](../records/audio-freeman-jiang-beatsync-bdcabddc.md) | partial | 2026-06-12T18:53:27Z | registry-derived |
@@ -316,12 +316,12 @@ Records: `481`
 | [gemengtju/Tutorial_Speech_Signal_Processing](../records/audio-gemengtju-tutorial-speech-signal-processing-e00ad743.md) | partial | 2020-07-20T11:33:47Z | registry-derived |
 | [glissando-daw/glissando-daw](../records/audio-glissando-daw-glissando-daw-86ff83f9.md) | partial | 2023-01-20T23:12:06Z | registry-derived |
 | [goldfire/howler.js](../records/audio-goldfire-howler-js-a9571685.md) | partial | 2025-11-23T23:49:01Z | registry-derived |
-| [grame-cncm/faustlibraries](../records/audio-grame-cncm-faustlibraries-8668a7b0.md) | partial | 2026-09-04T06:36:11Z | registry-derived |
+| [grame-cncm/faustlibraries](../records/audio-grame-cncm-faustlibraries-8668a7b0.md) | partial | 2026-09-07T16:46:10Z | registry-derived |
 | [GStreamer](../records/audio-gstreamer-de3f1993.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [GullDSP/Circulate-VST](../records/audio-gulldsp-circulate-vst-58e43839.md) | partial | 2026-06-29T00:30:46Z | registry-derived |
 | [hollance/synth-plugin-book](../records/audio-hollance-synth-plugin-book-e6e2ebe2.md) | partial | 2024-06-22T16:06:23Z | registry-derived |
 | [hollance/synth-recipes](../records/audio-hollance-synth-recipes-dbad6169.md) | partial | 2023-07-22T17:14:14Z | registry-derived |
-| [hqrrr/PerceptoMap](../records/audio-hqrrr-perceptomap-9176716f.md) | partial | 2026-09-07T09:12:51Z | registry-derived |
+| [hqrrr/PerceptoMap](../records/audio-hqrrr-perceptomap-9176716f.md) | partial | 2026-09-08T08:46:43Z | registry-derived |
 | [hukenovs/dsp-theory](../records/audio-hukenovs-dsp-theory-fa2c75ff.md) | partial | 2026-04-21T18:12:35Z | registry-derived |
 | [iampawan/Flute-Music-Player](../records/audio-iampawan-flute-music-player-08b19a30.md) | partial | 2020-12-30T15:43:12Z | registry-derived |
 | [increpare/bfxr2](../records/audio-increpare-bfxr2-16674ccc.md) | partial | 2026-07-26T09:59:55Z | registry-derived |

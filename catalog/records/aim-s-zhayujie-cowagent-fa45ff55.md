@@ -22,8 +22,8 @@
 ## System Engineer Summary
 
 Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves
-with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install.
-(formerly chatgpt-on-wechat)
+with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-
+line install. (formerly chatgpt-on-wechat)
 
 ## Operational Role
 
