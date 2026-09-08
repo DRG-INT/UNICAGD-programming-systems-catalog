@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-08T04:23:01+00:00`
+Generated: `2026-09-08T05:23:41+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -11,11 +11,11 @@ Generated: `2026-09-08T04:23:01+00:00`
 [Community Reference (118)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (24)](by-category/compiler-diagnostics.md) · [Compression (52)](by-category/compression.md)
 [Concurrency Parallelism (93)](by-category/concurrency-parallelism.md) · [Configuration (132)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (177)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (897)](by-category/database-datastore.md) · [Datetime (234)](by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (102)](by-category/dependency-manager.md) · [Documentation (107)](by-category/documentation.md)
+[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (103)](by-category/dependency-manager.md) · [Documentation (107)](by-category/documentation.md)
 [Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (457)](by-category/ffi-bindings.md) · [Filesystem Os (1611)](by-category/filesystem-os.md) · [Formatter (648)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (356)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1465)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (273)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (30)](by-category/language-server.md) · [Language Specification (1441)](by-category/language-specification.md) · [Library (5732)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (30)](by-category/language-server.md) · [Language Specification (1441)](by-category/language-specification.md) · [Library (5735)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (530)](by-category/logging-observability.md) · [Machine Learning (796)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1042)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1195)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (309)](by-category/precommit-ci-quality.md)
@@ -38,7 +38,7 @@ Generated: `2026-09-08T04:23:01+00:00`
 | Node.js/TypeScript | 388 | 348 | [Node.js/TypeScript](by-language/node-js-typescript.md) |
 | Lua family | 1937 | 0 | [Lua family](by-language/lua-family.md) |
 | R | 1752 | 1752 | [R](by-language/r.md) |
-| Haskell | 1510 | 1498 | [Haskell](by-language/haskell.md) |
+| Haskell | 1513 | 1501 | [Haskell](by-language/haskell.md) |
 | Matlab | 287 | 0 | [Matlab](by-language/matlab.md) |
 | Octave | 141 | 140 | [Octave](by-language/octave.md) |
 | C-Sharp | 150 | 150 | [C-Sharp](by-language/c-sharp.md) |
@@ -61,7 +61,7 @@ Generated: `2026-09-08T04:23:01+00:00`
 | Assets | 418 | 0 | [Assets](by-language/assets.md) |
 | Maps | 604 | 0 | [Maps](by-language/maps.md) |
 | Space Engines | 157 | 0 | [Space Engines](by-language/space-engines.md) |
-| Space Shuttles | 79 | 0 | [Space Shuttles](by-language/space-shuttles.md) |
+| Space Shuttles | 80 | 0 | [Space Shuttles](by-language/space-shuttles.md) |
 | Space Maps | 653 | 0 | [Space Maps](by-language/space-maps.md) |
 | Effects | 780 | 8 | [Effects](by-language/effects.md) |
 | Audio | 481 | 6 | [Audio](by-language/audio.md) |
@@ -114,7 +114,7 @@ Generated: `2026-09-08T04:23:01+00:00`
 | Datetime | 234 | [datetime](by-category/datetime.md) |
 | Dead Code Dependency Analysis | 5 | [dead_code_dependency_analysis](by-category/dead-code-dependency-analysis.md) |
 | Debugger | 44 | [debugger](by-category/debugger.md) |
-| Dependency Manager | 102 | [dependency_manager](by-category/dependency-manager.md) |
+| Dependency Manager | 103 | [dependency_manager](by-category/dependency-manager.md) |
 | Documentation | 107 | [documentation](by-category/documentation.md) |
 | Embedded Hardware | 60 | [embedded_hardware](by-category/embedded-hardware.md) |
 | Ffi Bindings | 457 | [ffi_bindings](by-category/ffi-bindings.md) |
@@ -130,7 +130,7 @@ Generated: `2026-09-08T04:23:01+00:00`
 | Jit Vm | 64 | [jit_vm](by-category/jit-vm.md) |
 | Language Server | 30 | [language_server](by-category/language-server.md) |
 | Language Specification | 1441 | [language_specification](by-category/language-specification.md) |
-| Library | 5732 | [library](by-category/library.md) |
+| Library | 5735 | [library](by-category/library.md) |
 | Lint Plugin | 1 | [lint_plugin](by-category/lint-plugin.md) |
 | Lint Rule Pack | 49 | [lint_rule_pack](by-category/lint-rule-pack.md) |
 | Linter | 348 | [linter](by-category/linter.md) |
@@ -175,7 +175,7 @@ Generated: `2026-09-08T04:23:01+00:00`
 | Node.js/TypeScript | 348 | 40 |
 | Lua family | 0 | 1937 |
 | R | 1752 | 0 |
-| Haskell | 1498 | 12 |
+| Haskell | 1501 | 12 |
 | Matlab | 0 | 287 |
 | Octave | 140 | 1 |
 | C-Sharp | 150 | 0 |
@@ -198,7 +198,7 @@ Generated: `2026-09-08T04:23:01+00:00`
 | Assets | 0 | 418 |
 | Maps | 0 | 604 |
 | Space Engines | 0 | 157 |
-| Space Shuttles | 0 | 79 |
+| Space Shuttles | 0 | 80 |
 | Space Maps | 0 | 653 |
 | Effects | 8 | 772 |
 | Audio | 6 | 475 |

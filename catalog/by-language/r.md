@@ -13,11 +13,11 @@ Records: `1752`
 [Community Reference (118)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (24)](../by-category/compiler-diagnostics.md) · [Compression (52)](../by-category/compression.md)
 [Concurrency Parallelism (93)](../by-category/concurrency-parallelism.md) · [Configuration (132)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (177)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (897)](../by-category/database-datastore.md) · [Datetime (234)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (102)](../by-category/dependency-manager.md) · [Documentation (107)](../by-category/documentation.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (103)](../by-category/dependency-manager.md) · [Documentation (107)](../by-category/documentation.md)
 [Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (457)](../by-category/ffi-bindings.md) · [Filesystem Os (1611)](../by-category/filesystem-os.md) · [Formatter (648)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (356)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1465)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (273)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (30)](../by-category/language-server.md) · [Language Specification (1441)](../by-category/language-specification.md) · [Library (5732)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (30)](../by-category/language-server.md) · [Language Specification (1441)](../by-category/language-specification.md) · [Library (5735)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (530)](../by-category/logging-observability.md) · [Machine Learning (796)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1042)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1195)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (309)](../by-category/precommit-ci-quality.md)
@@ -224,7 +224,7 @@ Records: `1752`
 | [openfhe.R](../records/r-openfhe-r-3744e327.md) | 1.5.1.1 | 2026-08-23 15:50:15 UTC | registry-derived |
 | [RcppFarmHash](../records/r-rcppfarmhash-9f38b81a.md) | 0.0.4 | 2026-09-06 12:20:02 UTC | registry-derived |
 | [safer](../records/r-safer-2f54e742.md) | 0.2.3 | 2026-08-29 15:20:02 UTC | registry-derived |
-| [SSLfmm](../records/r-sslfmm-522a5740.md) | 0.2.0 | 2026-08-20 12:02:04 UTC | registry-derived |
+| [SSLfmm](../records/r-sslfmm-522a5740.md) | 0.2.1 | 2026-09-08 03:40:02 UTC | registry-derived |
 
 ### Data Science
 
@@ -1577,7 +1577,7 @@ Records: `1752`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [BKT](../records/r-bkt-97415a9e.md) | 0.1.2 | 2026-09-05 16:20:19 UTC | registry-derived |
-| [datom](../records/r-datom-465d8abc.md) | 0.1.1 | 2026-09-01 11:40:15 UTC | registry-derived |
+| [datom](../records/r-datom-465d8abc.md) | 0.1.2 | 2026-09-08 04:30:02 UTC | registry-derived |
 | [ErrorTracer](../records/r-errortracer-430fdc33.md) | 1.3.1 | 2026-08-19 20:50:02 UTC | registry-derived |
 | [geoprofiler](../records/r-geoprofiler-76565464.md) | 0.0.4 | 2026-08-28 20:40:02 UTC | registry-derived |
 | [Tplyr](../records/r-tplyr-6ac49fbf.md) | 1.4.1 | 2026-08-24 18:40:41 UTC | registry-derived |

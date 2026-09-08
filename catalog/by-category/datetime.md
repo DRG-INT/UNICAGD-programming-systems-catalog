@@ -13,11 +13,11 @@ Records: `234`
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (52)](compression.md)
 [Concurrency Parallelism (93)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (897)](database-datastore.md) · **[Datetime (234)](datetime.md)**
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (107)](documentation.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (103)](dependency-manager.md) · [Documentation (107)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1611)](filesystem-os.md) · [Formatter (648)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1465)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1441)](language-specification.md) · [Library (5732)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (30)](language-server.md) · [Language Specification (1441)](language-specification.md) · [Library (5735)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (796)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1042)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1195)](parser-lexer-ast.md) · [Precommit Ci Quality (309)](precommit-ci-quality.md)
@@ -166,7 +166,7 @@ Records: `234`
 | simple_animations | 5.3.0 | 2026-05-23T17:20:30.895501Z | [open](../records/dart-simple-animations-d7ac0aeb.md) |
 | smart_auth | 3.2.0 | 2025-01-01T13:02:12.823403Z | [open](../records/dart-smart-auth-74338502.md) |
 | stop_watch_timer | 3.2.2 | 2025-04-16T00:53:33.047504Z | [open](../records/dart-stop-watch-timer-ab4a5380.md) |
-| syncfusion_flutter_datepicker | 34.2.6 | 2026-09-01T15:27:56.717062Z | [open](../records/dart-syncfusion-flutter-datepicker-f07357eb.md) |
+| syncfusion_flutter_datepicker | 34.2.7 | 2026-09-08T05:03:55.808966Z | [open](../records/dart-syncfusion-flutter-datepicker-f07357eb.md) |
 | time | 2.1.6 | 2025-12-07T08:02:47.174095Z | [open](../records/dart-time-5710b74e.md) |
 
 ## Go

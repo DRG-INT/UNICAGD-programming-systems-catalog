@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-08T04:23:01+00:00`
+Generated: `2026-09-08T05:23:41+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -11,11 +11,11 @@ Generated: `2026-09-08T04:23:01+00:00`
 [Community Reference (118)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (24)](by-category/compiler-diagnostics.md) · [Compression (52)](by-category/compression.md)
 [Concurrency Parallelism (93)](by-category/concurrency-parallelism.md) · [Configuration (132)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (177)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (897)](by-category/database-datastore.md) · [Datetime (234)](by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (102)](by-category/dependency-manager.md) · [Documentation (107)](by-category/documentation.md)
+[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (103)](by-category/dependency-manager.md) · [Documentation (107)](by-category/documentation.md)
 [Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (457)](by-category/ffi-bindings.md) · [Filesystem Os (1611)](by-category/filesystem-os.md) · [Formatter (648)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (356)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1465)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (273)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (30)](by-category/language-server.md) · [Language Specification (1441)](by-category/language-specification.md) · [Library (5732)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (30)](by-category/language-server.md) · [Language Specification (1441)](by-category/language-specification.md) · [Library (5735)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (530)](by-category/logging-observability.md) · [Machine Learning (796)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1042)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1195)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (309)](by-category/precommit-ci-quality.md)
@@ -28,15 +28,30 @@ Generated: `2026-09-08T04:23:01+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10289 |
-| Unknown stable release | 17345 |
+| Known stable release | 10292 |
+| Unknown stable release | 17346 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| keiro-migrations | Haskell | Library | 0.16.0.0 | 2026-09-08T05:18:54Z | [open](records/haskell-keiro-migrations-15a8f748.md) |
+| @umijs/server | Node.js/JavaScript | Web Framework | 4.7.15 | 2026-09-08T05:18:31.544Z | [open](records/node-js-javascript-umijs-server-39ec9954.md) |
+| keiro-pgmq | Haskell | Library | 0.16.0.0 | 2026-09-08T05:17:14Z | [open](records/haskell-keiro-pgmq-268c8f76.md) |
+| keiro | Haskell | Library | 0.16.0.0 | 2026-09-08T05:15:05Z | [open](records/haskell-keiro-7f4e674b.md) |
+| keiro-core | Haskell | Library | 0.16.0.0 | 2026-09-08T05:11:44Z | [open](records/haskell-keiro-core-42128f63.md) |
+| syncfusion_flutter_signaturepad | Dart | Image Audio Dsp | 34.2.7 | 2026-09-08T05:10:10.010785Z | [open](records/dart-syncfusion-flutter-signaturepad-49407b36.md) |
+| syncfusion_flutter_datagrid | Dart | Library | 34.2.7 | 2026-09-08T05:09:41.397393Z | [open](records/dart-syncfusion-flutter-datagrid-9d656fc2.md) |
+| @sap-ux/fiori-mcp-server | Node.js/JavaScript | Web Framework | 1.12.3 | 2026-09-08T05:09:06.076Z | [open](records/node-js-javascript-sap-ux-fiori-mcp-server-8a2a94b2.md) |
+| syncfusion_flutter_pdf | Dart | Filesystem Os | 34.2.7 | 2026-09-08T05:08:56.668552Z | [open](records/dart-syncfusion-flutter-pdf-cb009e7a.md) |
+| syncfusion_flutter_sliders | Dart | Ide Editor Integration | 34.2.7 | 2026-09-08T05:08:10.270984Z | [open](records/dart-syncfusion-flutter-sliders-f5899f4c.md) |
+| syncfusion_flutter_calendar | Dart | Ide Editor Integration | 34.2.7 | 2026-09-08T05:06:50.392885Z | [open](records/dart-syncfusion-flutter-calendar-66492223.md) |
+| syncfusion_flutter_datepicker | Dart | Datetime | 34.2.7 | 2026-09-08T05:03:55.808966Z | [open](records/dart-syncfusion-flutter-datepicker-f07357eb.md) |
+| syncfusion_flutter_gauges | Dart | Ide Editor Integration | 34.2.7 | 2026-09-08T05:03:39.573198Z | [open](records/dart-syncfusion-flutter-gauges-b33b7a95.md) |
 | trybuild | Rust | Compiler | 1.0.121 | 2026-09-08T01:08:27.868066Z | [open](records/rust-trybuild-d6eb5144.md) |
 | ffigen | Dart | Compiler | 22.0.0 | 2026-09-08T00:21:22.816889Z | [open](records/dart-ffigen-8dcba7ed.md) |
+| datom | R | Profiler | 0.1.2 | 2026-09-08 04:30:02 UTC | [open](records/r-datom-465d8abc.md) |
+| SSLfmm | R | Cryptography | 0.2.1 | 2026-09-08 03:40:02 UTC | [open](records/r-sslfmm-522a5740.md) |
 | glmmEP | R | Static Analyzer | 1.0-4 | 2026-09-08 02:50:02 UTC | [open](records/r-glmmep-cccc90e0.md) |
 | bpAcc | R | Ide Editor Integration | 0.0-3 | 2026-09-08 02:40:02 UTC | [open](records/r-bpacc-8fc81132.md) |
 | @fragment-dev/cli | Node.js/JavaScript | Cli | 2026.9.7-6 | 2026-09-07T23:50:18.558Z | [open](records/node-js-javascript-fragment-dev-cli-b4d175cf.md) |
@@ -270,27 +285,12 @@ Generated: `2026-09-08T04:23:01+00:00`
 | fuyu-gpio | Haskell | Library | 0.1.0.0 | 2026-09-06T06:18:19Z | [open](records/haskell-fuyu-gpio-5e0b1b37.md) |
 | fuyu-gpio-direct | Haskell | Library | 0.2.0.0 | 2026-09-06T06:01:30Z | [open](records/haskell-fuyu-gpio-direct-75719919.md) |
 | ipnet | Rust | Language Specification | 2.12.2 | 2026-09-06T05:45:08.121491Z | [open](records/rust-ipnet-d1bb1c57.md) |
-| @storm-software/testing-tools | Node.js/JavaScript | Testing Framework | 1.119.287 | 2026-09-06T05:19:32.185Z | [open](records/node-js-javascript-storm-software-testing-tools-3111101a.md) |
-| zstd | Haskell | Compression | 0.1.4.0 | 2026-09-06T03:09:59Z | [open](records/haskell-zstd-01fb5311.md) |
-| crypton | Haskell | Cryptography | 1.1.5 | 2026-09-06T02:20:25Z | [open](records/haskell-crypton-7cba2161.md) |
-| pin_input_text_field | Dart | Dependency Manager | 4.5.3 | 2026-09-06T02:13:00.125941Z | [open](records/dart-pin-input-text-field-b2436d80.md) |
-| DiscreteDists | R | Library | 1.1.3 | 2026-09-06 23:30:02 UTC | [open](records/r-discretedists-5d7f74f4.md) |
-| tbea | R | Filesystem Os | 1.8.0 | 2026-09-06 23:10:02 UTC | [open](records/r-tbea-b26e9eca.md) |
-| GDILM.SEIRS | R | Library | 0.0.7 | 2026-09-06 22:50:19 UTC | [open](records/r-gdilm-seirs-f71deae9.md) |
-| LCPA | R | Static Analyzer | 1.0.4 | 2026-09-06 22:50:10 UTC | [open](records/r-lcpa-88170389.md) |
-| ggResidpanel | R | Compiler Diagnostics | 0.4.1 | 2026-09-06 22:50:03 UTC | [open](records/r-ggresidpanel-6d20fe4a.md) |
-| FitVerse | R | Static Analyzer | 1.0-2 | 2026-09-06 22:40:14 UTC | [open](records/r-fitverse-f682c108.md) |
-| circumplex | R | Static Analyzer | 2.0.1 | 2026-09-06 22:40:02 UTC | [open](records/r-circumplex-e80741d7.md) |
-| rpql | R | Library | 0.8.4 | 2026-09-06 22:10:02 UTC | [open](records/r-rpql-6f8cea76.md) |
-| knitr | R | Filesystem Os | 1.52 | 2026-09-06 19:10:02 UTC | [open](records/r-knitr-697ca8de.md) |
-| mboost | R | Filesystem Os | 2.9-14 | 2026-09-06 19:00:02 UTC | [open](records/r-mboost-b0990d76.md) |
-| ssutil | R | Library | 1.1.0 | 2026-09-06 17:40:02 UTC | [open](records/r-ssutil-e9aa52d7.md) |
 
 ## Unknown Reasons
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 9730 |
+| gh_search_reports_activity_not_release_version | 9731 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
