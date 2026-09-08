@@ -1,6 +1,6 @@
 # Radars
 
-Records: `354`
+Records: `355`
 
 ## Navigation
 
@@ -21,7 +21,7 @@ Records: `354`
 [Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (531)](../by-category/logging-observability.md) · [Machine Learning (810)](../by-category/machine-learning.md)
 [Math Numeric Scientific (89)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (98)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1053)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (443)](../by-category/package-manager.md) · [Parser Lexer Ast (1208)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (310)](../by-category/precommit-ci-quality.md)
-[Profiler (92)](../by-category/profiler.md) · [Project Scaffolding (138)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
+[Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (138)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (337)](../by-category/security-sast.md) · [Serialization (400)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (632)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (620)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (68)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1627)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (561)](../by-category/visualization-gui.md) · [Web Framework (489)](../by-category/web-framework.md)
@@ -346,7 +346,7 @@ Records: `354`
 | [Nouuu/Albion-Online-OpenRadar](../records/radars-nouuu-albion-online-openradar-04ea3acd.md) | partial | 2026-09-04T17:05:37Z | registry-derived |
 | [ntnu-arl/lidar_degeneracy_datasets](../records/radars-ntnu-arl-lidar-degeneracy-datasets-f90e3fc8.md) | partial | 2026-02-03T12:49:37Z | registry-derived |
 | [odhondt/eo_tools](../records/radars-odhondt-eo-tools-bf024141.md) | partial | 2026-09-08T10:11:18Z | registry-derived |
-| [open-flight/openflight](../records/radars-open-flight-openflight-76c154cb.md) | partial | 2026-09-06T12:13:19Z | registry-derived |
+| [open-flight/openflight](../records/radars-open-flight-openflight-76c154cb.md) | partial | 2026-09-08T18:36:17Z | registry-derived |
 | [opencpn-radar-pi/radar_pi](../records/radars-opencpn-radar-pi-radar-pi-bfe54946.md) | partial | 2026-08-04T01:35:42Z | registry-derived |
 | [openradar/xradar](../records/radars-openradar-xradar-fcfe7f38.md) | partial | 2026-09-01T10:30:01Z | registry-derived |
 | [PatrickTUM/SEN12MS-CR-TS](../records/radars-patricktum-sen12ms-cr-ts-b82b98a6.md) | partial | 2024-01-23T17:51:20Z | registry-derived |
@@ -471,10 +471,16 @@ Records: `354`
 | --- | --- | --- | --- |
 | [MinZHANG-WHU/Change-Detection-Review](../records/radars-minzhang-whu-change-detection-review-1444b84e.md) | partial | 2021-07-30T13:43:15Z | registry-derived |
 | [radar-science/isce-proc](../records/radars-radar-science-isce-proc-39d96381.md) | partial | 2024-04-23T08:43:54Z | registry-derived |
-| [radarlabs/react-native-radar](../records/radars-radarlabs-react-native-radar-909ee8db.md) | partial | 2026-09-04T16:21:45Z | registry-derived |
+| [radarlabs/react-native-radar](../records/radars-radarlabs-react-native-radar-909ee8db.md) | partial | 2026-09-08T19:42:49Z | registry-derived |
 | [scottstanie/sentineleof](../records/radars-scottstanie-sentineleof-585147b5.md) | partial | 2026-06-25T13:47:59Z | registry-derived |
 | [Theta-Limited/OpenAthena-Legacy-Python](../records/radars-theta-limited-openathena-legacy-python-c450ef91.md) | partial | 2024-08-29T03:21:03Z | registry-derived |
 | [weisongwen/UrbanNavDataset](../records/radars-weisongwen-urbannavdataset-24a778d2.md) | partial | 2021-11-21T08:28:20Z | registry-derived |
+
+### Profiler
+
+| Name | Release | Date | Source |
+| --- | --- | --- | --- |
+| [Zeloksa/Cardputer-ADV-CSI-Radar](../records/radars-zeloksa-cardputer-adv-csi-radar-18311978.md) | partial | 2026-05-27T17:12:50Z | registry-derived |
 
 ### Security Sast
 

@@ -1,6 +1,6 @@
 # UNICAGD Programming Systems Discovery Catalog
 
-Generated: `2026-09-08T20:24:16+00:00`
+Generated: `2026-09-08T21:20:28+00:00`
 
 This repository is a Markdown explorer for a systems-engineering programming corpus. It preserves the master JSON seed, expands it with registry-derived ecosystem records, and tracks release metadata without guessing unknown dates.
 
@@ -27,7 +27,7 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 [Lint Rule Pack (49)](catalog/by-category/lint-rule-pack.md) · [Linter (348)](catalog/by-category/linter.md) · [Logging Observability (531)](catalog/by-category/logging-observability.md) · [Machine Learning (810)](catalog/by-category/machine-learning.md)
 [Math Numeric Scientific (89)](catalog/by-category/math-numeric-scientific.md) · [Memory Analyzer (98)](catalog/by-category/memory-analyzer.md) · [Message Broker (40)](catalog/by-category/message-broker.md) · [Networking Http (1053)](catalog/by-category/networking-http.md)
 [Other (14)](catalog/by-category/other.md) · [Package Manager (443)](catalog/by-category/package-manager.md) · [Parser Lexer Ast (1208)](catalog/by-category/parser-lexer-ast.md) · [Precommit Ci Quality (310)](catalog/by-category/precommit-ci-quality.md)
-[Profiler (92)](catalog/by-category/profiler.md) · [Project Scaffolding (138)](catalog/by-category/project-scaffolding.md) · [Registry Repository (133)](catalog/by-category/registry-repository.md) · [Sanitizer (16)](catalog/by-category/sanitizer.md)
+[Profiler (93)](catalog/by-category/profiler.md) · [Project Scaffolding (138)](catalog/by-category/project-scaffolding.md) · [Registry Repository (133)](catalog/by-category/registry-repository.md) · [Sanitizer (16)](catalog/by-category/sanitizer.md)
 [Security Sast (337)](catalog/by-category/security-sast.md) · [Serialization (400)](catalog/by-category/serialization.md) · [Standard Library (25)](catalog/by-category/standard-library.md) · [Static Analyzer (632)](catalog/by-category/static-analyzer.md)
 [Templating (2)](catalog/by-category/templating.md) · [Testing Framework (620)](catalog/by-category/testing-framework.md) · [Tutorial Book Styleguide (68)](catalog/by-category/tutorial-book-styleguide.md) · [Type Checker (315)](catalog/by-category/type-checker.md)
 [Undefined Behavior Analyzer (1627)](catalog/by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](catalog/by-category/utility-library.md) · [Visualization Gui (561)](catalog/by-category/visualization-gui.md) · [Web Framework (489)](catalog/by-category/web-framework.md)
@@ -37,12 +37,12 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 | Metric | Count |
 | --- | ---: |
 | Source records | 968 |
-| Canonical identity pages | 27916 |
+| Canonical identity pages | 27917 |
 | Expansion records added | 8605 |
 | Release checks attempted | 1200 |
 | Known stable release fields | 10395 |
-| Unknown stable release fields | 17521 |
-| Fetch errors recorded | 983 |
+| Unknown stable release fields | 17522 |
+| Fetch errors recorded | 1003 |
 | Target identity count | 24000 |
 
 ## Language Scope
