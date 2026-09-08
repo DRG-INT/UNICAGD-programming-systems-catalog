@@ -14,13 +14,13 @@ Records: `478`
 [Concurrency Parallelism (93)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (901)](database-datastore.md) · [Datetime (234)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (103)](dependency-manager.md) · [Documentation (107)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1613)](filesystem-os.md) · [Formatter (648)](formatter.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1613)](filesystem-os.md) · [Formatter (649)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (357)](game-engine-game-dev.md) · [Ide Editor Integration (1465)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1441)](language-specification.md) · [Library (5740)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (30)](language-server.md) · [Language Specification (1442)](language-specification.md) · [Library (5742)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (797)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1042)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1196)](parser-lexer-ast.md) · [Precommit Ci Quality (309)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1197)](parser-lexer-ast.md) · [Precommit Ci Quality (309)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (134)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (629)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (610)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
@@ -207,7 +207,7 @@ Records: `478`
 | @openfeature/core | 1.12.0 | 2026-07-28T18:53:49.315Z | [open](../records/node-js-javascript-openfeature-core-e3b3a0d0.md) |
 | @osohq/dev-server | 0.0.1-alpha.24 | 2026-07-17T14:34:26.307Z | [open](../records/node-js-javascript-osohq-dev-server-08c8f1e4.md) |
 | @paperclipai/mcp-server | 2026.831.1 | 2026-09-02T04:45:33.153Z | [open](../records/node-js-javascript-paperclipai-mcp-server-6008c169.md) |
-| @percy/cli-exec | 1.32.8 | 2026-09-03T11:41:18.523Z | [open](../records/node-js-javascript-percy-cli-exec-36de9cf7.md) |
+| @percy/cli-exec | 1.32.9 | 2026-09-08T08:32:25.867Z | [open](../records/node-js-javascript-percy-cli-exec-36de9cf7.md) |
 | @pgpmjs/server-utils | 3.27.4 | 2026-09-04T16:41:49.651Z | [open](../records/node-js-javascript-pgpmjs-server-utils-fab8bc0e.md) |
 | @pollyjs/node-server | 6.0.6 | 2023-07-20T16:37:35.198Z | [open](../records/node-js-javascript-pollyjs-node-server-5c241e82.md) |
 | @pondwader/socks5-server | 1.0.10 | 2024-06-29T10:33:38.995Z | [open](../records/node-js-javascript-pondwader-socks5-server-711c6d2c.md) |
@@ -264,7 +264,7 @@ Records: `478`
 | @zenstackhq/server | 3.9.3 | 2026-08-31T13:33:45.418Z | [open](../records/node-js-javascript-zenstackhq-server-99bce111.md) |
 | apollo-server-module-graphiql | 1.4.0 | 2018-07-13T18:46:58.732Z | [open](../records/node-js-javascript-apollo-server-module-graphiql-868b59df.md) |
 | appium-uiautomator2-server | 10.6.4 | 2026-09-05T03:34:08.018Z | [open](../records/node-js-javascript-appium-uiautomator2-server-156ed7d4.md) |
-| chrome-devtools-mcp | 1.8.0 | 2026-08-25T11:44:22.188Z | [open](../records/node-js-javascript-chrome-devtools-mcp-3aba1a23.md) |
+| chrome-devtools-mcp | 1.9.0 | 2026-09-08T09:53:29.850Z | [open](../records/node-js-javascript-chrome-devtools-mcp-3aba1a23.md) |
 | code-server | 4.135.0 | 2026-08-27T18:15:15.893Z | [open](../records/node-js-javascript-code-server-cf26133a.md) |
 | decap-server | 3.11.0 | 2026-08-31T13:05:34.120Z | [open](../records/node-js-javascript-decap-server-cbdda5d6.md) |
 | es-dev-server | 2.1.0 | 2021-01-18T21:36:54.178Z | [open](../records/node-js-javascript-es-dev-server-02f41bcc.md) |
@@ -462,7 +462,7 @@ Records: `478`
 | developmentseed/timvt | partial | 2026-04-01T23:26:10Z | [open](../records/maps-developmentseed-timvt-45af3e5c.md) |
 | devork/grava | partial | 2021-08-26T14:29:33Z | [open](../records/maps-devork-grava-4d37461a.md) |
 | encodeous/nylon | partial | 2026-09-05T16:43:07Z | [open](../records/maps-encodeous-nylon-c6f9f346.md) |
-| freerouting/freerouting | partial | 2026-09-07T12:10:39Z | [open](../records/maps-freerouting-freerouting-1dba680a.md) |
+| freerouting/freerouting | partial | 2026-09-08T07:12:16Z | [open](../records/maps-freerouting-freerouting-1dba680a.md) |
 | frzi/swiftui-router | partial | 2024-10-09T12:16:33Z | [open](../records/maps-frzi-swiftui-router-367cfeed.md) |
 | go-spatial/tegola | partial | 2026-09-02T15:06:10Z | [open](../records/maps-go-spatial-tegola-0b6db6ab.md) |
 | graphhopper/graphhopper | partial | 2026-09-08T07:53:00Z | [open](../records/maps-graphhopper-graphhopper-cfd324a4.md) |
@@ -644,7 +644,7 @@ Records: `478`
 | dbgate/dbgate | partial | 2026-09-02T13:16:29Z | [open](../records/databases-dbgate-dbgate-67fc8232.md) |
 | doableware/djongo | partial | 2026-09-01T12:40:36Z | [open](../records/databases-doableware-djongo-55b89aa7.md) |
 | dotnetcore/FreeSql | partial | 2026-07-31T17:52:16Z | [open](../records/databases-dotnetcore-freesql-be272c12.md) |
-| googleapis/mcp-toolbox | partial | 2026-09-08T08:15:38Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
+| googleapis/mcp-toolbox | partial | 2026-09-08T09:05:34Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
 | lionheart/django-pyodbc | partial | 2023-01-29T16:42:06Z | [open](../records/databases-lionheart-django-pyodbc-c6078181.md) |
 | neondatabase/neon | partial | 2026-08-31T11:03:14Z | [open](../records/databases-neondatabase-neon-3c375148.md) |
 | parse-community/parse-server | partial | 2026-09-06T05:29:47Z | [open](../records/databases-parse-community-parse-server-9d5b6dd7.md) |

@@ -14,13 +14,13 @@ Records: `49`
 [Concurrency Parallelism (93)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (901)](database-datastore.md) · [Datetime (234)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (103)](dependency-manager.md) · [Documentation (107)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1613)](filesystem-os.md) · [Formatter (648)](formatter.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1613)](filesystem-os.md) · [Formatter (649)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (357)](game-engine-game-dev.md) · [Ide Editor Integration (1465)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1441)](language-specification.md) · [Library (5740)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (30)](language-server.md) · [Language Specification (1442)](language-specification.md) · [Library (5742)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 **[Lint Rule Pack (49)](lint-rule-pack.md)** · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (797)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1042)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1196)](parser-lexer-ast.md) · [Precommit Ci Quality (309)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1197)](parser-lexer-ast.md) · [Precommit Ci Quality (309)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (134)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (629)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (610)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
@@ -112,11 +112,11 @@ Records: `49`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Chocolate4U/Iran-v2ray-rules | partial | 2026-09-07T09:41:07Z | [open](../records/maps-chocolate4u-iran-v2ray-rules-4196e336.md) |
-| Loyalsoldier/clash-rules | partial | 2026-09-07T00:13:46Z | [open](../records/maps-loyalsoldier-clash-rules-35bed208.md) |
+| Chocolate4U/Iran-v2ray-rules | partial | 2026-09-08T09:04:29Z | [open](../records/maps-chocolate4u-iran-v2ray-rules-4196e336.md) |
+| Loyalsoldier/clash-rules | partial | 2026-09-08T00:37:04Z | [open](../records/maps-loyalsoldier-clash-rules-35bed208.md) |
 | Loyalsoldier/geoip | partial | 2026-09-07T10:39:23Z | [open](../records/maps-loyalsoldier-geoip-2bef8369.md) |
-| Loyalsoldier/surge-rules | partial | 2026-09-07T00:07:55Z | [open](../records/maps-loyalsoldier-surge-rules-7d51c30a.md) |
-| Loyalsoldier/v2ray-rules-dat | partial | 2026-09-06T23:24:57Z | [open](../records/maps-loyalsoldier-v2ray-rules-dat-36af9fdf.md) |
+| Loyalsoldier/surge-rules | partial | 2026-09-08T00:34:30Z | [open](../records/maps-loyalsoldier-surge-rules-7d51c30a.md) |
+| Loyalsoldier/v2ray-rules-dat | partial | 2026-09-07T23:55:04Z | [open](../records/maps-loyalsoldier-v2ray-rules-dat-36af9fdf.md) |
 
 ## Space Maps
 

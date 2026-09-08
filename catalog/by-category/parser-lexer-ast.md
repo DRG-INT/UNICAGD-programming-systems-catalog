@@ -1,6 +1,6 @@
 # Parser Lexer Ast
 
-Records: `1196`
+Records: `1197`
 
 ## Navigation
 
@@ -14,13 +14,13 @@ Records: `1196`
 [Concurrency Parallelism (93)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (901)](database-datastore.md) · [Datetime (234)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (103)](dependency-manager.md) · [Documentation (107)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1613)](filesystem-os.md) · [Formatter (648)](formatter.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1613)](filesystem-os.md) · [Formatter (649)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (357)](game-engine-game-dev.md) · [Ide Editor Integration (1465)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1441)](language-specification.md) · [Library (5740)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (30)](language-server.md) · [Language Specification (1442)](language-specification.md) · [Library (5742)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (797)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1042)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · **[Parser Lexer Ast (1196)](parser-lexer-ast.md)** · [Precommit Ci Quality (309)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · **[Parser Lexer Ast (1197)](parser-lexer-ast.md)** · [Precommit Ci Quality (309)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (134)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (629)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (610)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
@@ -326,7 +326,8 @@ Records: `1196`
 | @faststore/cli | 4.7.0 | 2026-08-31T21:22:09.303Z | [open](../records/node-js-javascript-faststore-cli-98f71262.md) |
 | @middy/http-json-body-parser | 7.9.2 | 2026-08-27T23:05:28.964Z | [open](../records/node-js-javascript-middy-http-json-body-parser-654d90bf.md) |
 | @nestjs/cli | 12.0.0 | 2026-08-27T09:43:36.809Z | [open](../records/node-js-javascript-nestjs-cli-f43d760a.md) |
-| @percy/cli-command | 1.32.8 | 2026-09-03T11:40:01.719Z | [open](../records/node-js-javascript-percy-cli-command-d44d97d1.md) |
+| @percy/cli-command | 1.32.9 | 2026-09-08T08:30:47.588Z | [open](../records/node-js-javascript-percy-cli-command-d44d97d1.md) |
+| @server-sent-stream/parser | 1.0.4 | 2023-12-12T11:53:02.744Z | [open](../records/node-js-javascript-server-sent-stream-parser-85d9143f.md) |
 | Acorn | unknown | not_checked | [open](../records/node-js-javascript-acorn-d5ae4d95.md) |
 | arg | 5.0.2 | 2022-06-05T18:20:09.200Z | [open](../records/node-js-javascript-arg-78683a08.md) |
 | argparse | 3.0.1 | 2026-08-25T16:13:28.620Z | [open](../records/node-js-javascript-argparse-50e588b4.md) |
@@ -651,9 +652,9 @@ Records: `1196`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AstrBotDevs/AstrBot | partial | 2026-09-08T07:56:29Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
-| HKUDS/LightRAG | partial | 2026-09-08T09:10:40Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
-| labring/FastGPT | partial | 2026-09-08T07:38:05Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
+| AstrBotDevs/AstrBot | partial | 2026-09-08T09:54:34Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
+| HKUDS/LightRAG | partial | 2026-09-08T10:22:27Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
+| labring/FastGPT | partial | 2026-09-08T10:10:37Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Computer Graphics Software
 
@@ -768,7 +769,7 @@ Records: `1196`
 | maplibre/flutter-maplibre-gl | partial | 2026-09-04T07:25:06Z | [open](../records/maps-maplibre-flutter-maplibre-gl-8bd7f64b.md) |
 | maplibre/martin | partial | 2026-09-05T10:12:07Z | [open](../records/maps-maplibre-martin-cbc4e95e.md) |
 | matplotlib/basemap | partial | 2026-05-04T11:17:03Z | [open](../records/maps-matplotlib-basemap-6bf2476d.md) |
-| metosin/reitit | partial | 2026-09-01T04:58:49Z | [open](../records/maps-metosin-reitit-3a6bffb1.md) |
+| metosin/reitit | partial | 2026-09-08T05:39:13Z | [open](../records/maps-metosin-reitit-3a6bffb1.md) |
 | mkeller3/FastVector | partial | 2022-07-08T21:06:36Z | [open](../records/maps-mkeller3-fastvector-40abd912.md) |
 | ni5arga/sightline | partial | 2026-05-10T18:55:02Z | [open](../records/maps-ni5arga-sightline-3459bcb1.md) |
 | openinframap/openinframap | partial | 2026-09-07T09:28:44Z | [open](../records/maps-openinframap-openinframap-46f4bfa9.md) |
@@ -944,7 +945,7 @@ Records: `1196`
 | pprat2004/NASA-SPACE-APP-PROJECT-2025- | partial | 2025-10-05T14:25:05Z | [open](../records/space-maps-pprat2004-nasa-space-app-project-2025-6e5a8eaf.md) |
 | prappleizer/planetary-system-generator | partial | 2022-09-06T01:56:51Z | [open](../records/space-maps-prappleizer-planetary-system-generator-7a31d2bd.md) |
 | Prothom7/Stella | partial | 2026-05-06T08:12:16Z | [open](../records/space-maps-prothom7-stella-e8d27a42.md) |
-| PyAutoLabs/PyAutoLens | partial | 2026-09-07T02:22:24Z | [open](../records/space-maps-pyautolabs-pyautolens-72f61a3c.md) |
+| PyAutoLabs/PyAutoLens | partial | 2026-09-08T08:32:35Z | [open](../records/space-maps-pyautolabs-pyautolens-72f61a3c.md) |
 | qsecofr76/VesperEye | partial | 2026-06-14T09:11:06Z | [open](../records/space-maps-qsecofr76-vespereye-5b938ee0.md) |
 | quatrope/astroalign | partial | 2025-09-24T18:22:23Z | [open](../records/space-maps-quatrope-astroalign-f4b1a188.md) |
 | rafabelokurows/staRmaps | partial | 2023-02-03T21:15:02Z | [open](../records/space-maps-rafabelokurows-starmaps-fceb7d6a.md) |
@@ -1441,17 +1442,17 @@ Records: `1196`
 | Loki-Astari/ThorsAnvil | partial | 2026-08-08T06:23:44Z | [open](../records/databases-loki-astari-thorsanvil-e1c56717.md) |
 | macrozheng/mall-learning | partial | 2024-09-15T01:05:39Z | [open](../records/databases-macrozheng-mall-learning-d72360b9.md) |
 | MagicStack/asyncpg | partial | 2026-02-27T20:48:41Z | [open](../records/databases-magicstack-asyncpg-aa6bb99b.md) |
-| meilisearch/meilisearch | partial | 2026-09-07T16:09:11Z | [open](../records/databases-meilisearch-meilisearch-ed455824.md) |
+| meilisearch/meilisearch | partial | 2026-09-08T08:56:22Z | [open](../records/databases-meilisearch-meilisearch-ed455824.md) |
 | MyCATApache/Mycat2 | partial | 2023-08-15T09:17:05Z | [open](../records/databases-mycatapache-mycat2-7558f130.md) |
 | objectbox/objectbox-dart | partial | 2026-08-31T12:03:33Z | [open](../records/databases-objectbox-objectbox-dart-50b3b5f5.md) |
 | objectbox/objectbox-go | partial | 2025-03-12T13:34:35Z | [open](../records/databases-objectbox-objectbox-go-7fb091f2.md) |
 | OpenAtomFoundation/pikiwidb | partial | 2026-09-01T07:44:54Z | [open](../records/databases-openatomfoundation-pikiwidb-007b1f05.md) |
 | orientechnologies/orientdb | partial | 2026-09-01T13:48:01Z | [open](../records/databases-orientechnologies-orientdb-583f5aed.md) |
 | pilgr/Paper | partial | 2023-01-06T22:00:05Z | [open](../records/databases-pilgr-paper-4bec3683.md) |
-| pingcap/tidb | partial | 2026-09-08T07:39:28Z | [open](../records/databases-pingcap-tidb-56d438be.md) |
+| pingcap/tidb | partial | 2026-09-08T10:24:16Z | [open](../records/databases-pingcap-tidb-56d438be.md) |
 | rgcsekaraa/brows3 | partial | 2026-08-12T11:48:25Z | [open](../records/databases-rgcsekaraa-brows3-6d622d3b.md) |
 | san089/Udacity-Data-Engineering-Projects | partial | 2022-08-26T00:09:15Z | [open](../records/databases-san089-udacity-data-engineering-projects-6731f6dc.md) |
-| scylladb/scylladb | partial | 2026-09-08T07:34:36Z | [open](../records/databases-scylladb-scylladb-5677bf8d.md) |
+| scylladb/scylladb | partial | 2026-09-08T10:25:21Z | [open](../records/databases-scylladb-scylladb-5677bf8d.md) |
 | Slony-I | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-slony-i-cc9dd3b4.md) |
 | Spock | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-spock-80573fc1.md) |
 | StarTrail-org/LEANN | partial | 2026-08-30T02:40:10Z | [open](../records/databases-startrail-org-leann-a6b16bc8.md) |

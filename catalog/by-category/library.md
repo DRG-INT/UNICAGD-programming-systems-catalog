@@ -1,6 +1,6 @@
 # Library
 
-Records: `5740`
+Records: `5742`
 
 ## Navigation
 
@@ -14,13 +14,13 @@ Records: `5740`
 [Concurrency Parallelism (93)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (901)](database-datastore.md) · [Datetime (234)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (103)](dependency-manager.md) · [Documentation (107)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1613)](filesystem-os.md) · [Formatter (648)](formatter.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1613)](filesystem-os.md) · [Formatter (649)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (357)](game-engine-game-dev.md) · [Ide Editor Integration (1465)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1441)](language-specification.md) · **[Library (5740)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (30)](language-server.md) · [Language Specification (1442)](language-specification.md) · **[Library (5742)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (797)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1042)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1196)](parser-lexer-ast.md) · [Precommit Ci Quality (309)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1197)](parser-lexer-ast.md) · [Precommit Ci Quality (309)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (134)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (629)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (610)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
@@ -2635,6 +2635,7 @@ Records: `5740`
 | flexstanr | 0.2.0 | 2026-08-25 21:30:02 UTC | [open](../records/r-flexstanr-6f2d2b03.md) |
 | flexsynth | 0.2.1 | 2026-09-02 12:00:02 UTC | [open](../records/r-flexsynth-370c1a4a.md) |
 | fpc | 2.2-15 | 2026-08-19 16:00:02 UTC | [open](../records/r-fpc-8fc84fbe.md) |
+| fplyr | 2.0.0 | 2026-09-08 09:30:10 UTC | [open](../records/r-fplyr-2ee91e27.md) |
 | FPScausal | 0.1.1 | 2026-08-23 10:20:02 UTC | [open](../records/r-fpscausal-cb9c5b17.md) |
 | fracreg | 1.1.0 | 2026-08-20 13:00:02 UTC | [open](../records/r-fracreg-cbf7ff53.md) |
 | freegroup | 1.2-1-1 | 2026-08-21 21:50:02 UTC | [open](../records/r-freegroup-5fae418a.md) |
@@ -2787,6 +2788,7 @@ Records: `5740`
 | moderndive | 0.8.0 | 2026-08-04 22:50:08 UTC | [open](../records/r-moderndive-51f4cbaa.md) |
 | ModToppLeone | 0.1.0 | 2026-08-09 08:40:18 UTC | [open](../records/r-modtoppleone-0ad7b6bc.md) |
 | morphErr | 1.0.0 | 2026-08-30 09:10:13 UTC | [open](../records/r-morpherr-9f9dffcd.md) |
+| mpshock | 0.1.1 | 2026-09-08 09:30:02 UTC | [open](../records/r-mpshock-f8ed457b.md) |
 | mritc | 0.6.2 | 2026-08-20 05:50:02 UTC | [open](../records/r-mritc-e66b502d.md) |
 | mstudentd | 1.1.5 | 2026-08-25 15:00:02 UTC | [open](../records/r-mstudentd-7596aedf.md) |
 | MTLRF | 1.0.0 | 2026-08-21 13:10:42 UTC | [open](../records/r-mtlrf-b754c7fe.md) |
@@ -3491,7 +3493,7 @@ Records: `5740`
 | hdf5 | 1.8.16 | 2026-09-02T12:54:01Z | [open](../records/haskell-hdf5-eab0aa96.md) |
 | hedgehog | 1.7 | 2025-09-22T20:47:44Z | [open](../records/haskell-hedgehog-db580c82.md) |
 | hedgehog-extras | 0.10.1.0 | 2025-11-03T22:08:12Z | [open](../records/haskell-hedgehog-extras-7e1ebde0.md) |
-| hedis | 0.16.3 | 2026-08-19T20:06:10Z | [open](../records/haskell-hedis-b16f8ca9.md) |
+| hedis | 0.16.4 | 2026-09-08T08:55:43Z | [open](../records/haskell-hedis-b16f8ca9.md) |
 | hedn | 0.3.0.4 | 2021-11-13T13:27:12Z | [open](../records/haskell-hedn-e3890cc6.md) |
 | heist | 1.1.1.2 | 2023-10-22T23:19:27Z | [open](../records/haskell-heist-32943eaf.md) |
 | heterocephalus | 1.0.5.7 | 2022-07-12T17:11:47Z | [open](../records/haskell-heterocephalus-41e462f4.md) |
@@ -3743,7 +3745,7 @@ Records: `5740`
 | persistent | 2.18.1.0 | 2026-01-14T23:05:56Z | [open](../records/haskell-persistent-9b1724c4.md) |
 | persistent-mongoDB | 2.13.1.0 | 2024-09-13T15:11:56Z | [open](../records/haskell-persistent-mongodb-24599212.md) |
 | pgdl | 10.10 | 2018-01-15T17:33:34Z | [open](../records/haskell-pgdl-6b04d821.md) |
-| phino | 0.0.115 | 2026-09-04T11:31:34Z | [open](../records/haskell-phino-0ffa79f2.md) |
+| phino | 0.0.116 | 2026-09-08T08:45:57Z | [open](../records/haskell-phino-0ffa79f2.md) |
 | pinboard | 0.10.3.0 | 2022-05-07T23:32:56Z | [open](../records/haskell-pinboard-08e346f1.md) |
 | pinch | 0.5.2.0 | 2024-07-09T02:44:30Z | [open](../records/haskell-pinch-801ed692.md) |
 | plugins | 1.6.2.1 | 2022-03-27T15:40:09Z | [open](../records/haskell-plugins-1103fc5c.md) |
@@ -4033,7 +4035,7 @@ Records: `5740`
 | web-routes-th | 0.22.8.3 | 2025-09-05T15:48:18Z | [open](../records/haskell-web-routes-th-c58d3520.md) |
 | web-routing | 0.6.2 | 2015-04-02T13:50:40Z | [open](../records/haskell-web-routing-32db4d61.md) |
 | web3 | 1.1.0.0 | 2026-02-09T07:07:45Z | [open](../records/haskell-web3-27813d3c.md) |
-| webauthn | 0.11.0.0 | 2025-06-05T16:58:01Z | [open](../records/haskell-webauthn-dc58a13b.md) |
+| webauthn | 0.12.0.0 | 2026-09-08T09:21:19Z | [open](../records/haskell-webauthn-dc58a13b.md) |
 | webdriver | 0.15.0.0 | 2026-06-03T00:17:00Z | [open](../records/haskell-webdriver-495a468a.md) |
 | webkit | 0.14.2.1 | 2016-10-30T01:15:20Z | [open](../records/haskell-webkit-c33c83bf.md) |
 | weigh | 0.0.18 | 2024-11-01T15:57:20Z | [open](../records/haskell-weigh-7e021f10.md) |
@@ -4727,7 +4729,7 @@ Records: `5740`
 | mapbox/mapbox-gl-js | partial | 2026-09-08T07:24:19Z | [open](../records/maps-mapbox-mapbox-gl-js-a55c74cd.md) |
 | mapbox/mapbox-gl-native-android | partial | 2023-08-21T13:46:32Z | [open](../records/maps-mapbox-mapbox-gl-native-android-470f3419.md) |
 | mapbox/vector-tile-base | partial | 2026-06-29T15:24:36Z | [open](../records/maps-mapbox-vector-tile-base-57a453db.md) |
-| maplibre/maplibre-gl-geocoder | partial | 2026-09-02T19:57:47Z | [open](../records/maps-maplibre-maplibre-gl-geocoder-938c4f88.md) |
+| maplibre/maplibre-gl-geocoder | partial | 2026-09-07T16:43:32Z | [open](../records/maps-maplibre-maplibre-gl-geocoder-938c4f88.md) |
 | mapsforge/mapsforge | partial | 2026-08-23T07:11:05Z | [open](../records/maps-mapsforge-mapsforge-764ffa31.md) |
 | maptalks/maptalks.js | partial | 2026-08-25T02:36:16Z | [open](../records/maps-maptalks-maptalks-js-2641e64a.md) |
 | maptalks/maptalks.three | partial | 2026-06-02T03:01:03Z | [open](../records/maps-maptalks-maptalks-three-7e000fe0.md) |
@@ -4737,7 +4739,7 @@ Records: `5740`
 | mmoaay/Findme | partial | 2017-12-12T08:58:13Z | [open](../records/maps-mmoaay-findme-0cf28910.md) |
 | motis-project/motis | partial | 2026-09-05T10:13:24Z | [open](../records/maps-motis-project-motis-8ff172f1.md) |
 | mousebird-consulting-inc/WhirlyGlobe | partial | 2026-07-31T00:23:58Z | [open](../records/maps-mousebird-consulting-inc-whirlyglobe-3130b66b.md) |
-| nuxt-modules/i18n | partial | 2026-09-06T02:55:11Z | [open](../records/maps-nuxt-modules-i18n-79eea90d.md) |
+| nuxt-modules/i18n | partial | 2026-09-07T20:32:41Z | [open](../records/maps-nuxt-modules-i18n-79eea90d.md) |
 | olutter/map | partial | 2026-08-16T14:48:12Z | [open](../records/maps-olutter-map-b3100e59.md) |
 | opengisch/QField | partial | 2026-09-08T07:15:14Z | [open](../records/maps-opengisch-qfield-f04d9b83.md) |
 | openlayers/openlayers | partial | 2026-09-08T07:17:51Z | [open](../records/maps-openlayers-openlayers-6d483e33.md) |

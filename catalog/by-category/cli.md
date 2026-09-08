@@ -14,13 +14,13 @@ Records: `568`
 [Concurrency Parallelism (93)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (901)](database-datastore.md) · [Datetime (234)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (103)](dependency-manager.md) · [Documentation (107)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1613)](filesystem-os.md) · [Formatter (648)](formatter.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1613)](filesystem-os.md) · [Formatter (649)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (357)](game-engine-game-dev.md) · [Ide Editor Integration (1465)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1441)](language-specification.md) · [Library (5740)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (30)](language-server.md) · [Language Specification (1442)](language-specification.md) · [Library (5742)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (797)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1042)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1196)](parser-lexer-ast.md) · [Precommit Ci Quality (309)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1197)](parser-lexer-ast.md) · [Precommit Ci Quality (309)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (134)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (629)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (610)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
@@ -248,7 +248,7 @@ Records: `568`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | @accio-ai/cli | 0.1.56 | 2026-09-02T10:04:23.544Z | [open](../records/node-js-javascript-accio-ai-cli-98437ac9.md) |
-| @alwaysmeticulous/cli | 2.337.0 | 2026-09-07T09:41:38.052Z | [open](../records/node-js-javascript-alwaysmeticulous-cli-4c42a276.md) |
+| @alwaysmeticulous/cli | 2.337.1 | 2026-09-08T09:50:30.105Z | [open](../records/node-js-javascript-alwaysmeticulous-cli-4c42a276.md) |
 | @amplitude/ampli | 1.36.6 | 2026-07-10T19:21:05.428Z | [open](../records/node-js-javascript-amplitude-ampli-69d1d68a.md) |
 | @angular-devkit/schematics-cli | 22.1.7 | 2026-09-02T21:05:20.325Z | [open](../records/node-js-javascript-angular-devkit-schematics-cli-932336ca.md) |
 | @angular/cli | 22.1.7 | 2026-09-02T21:04:29.637Z | [open](../records/node-js-javascript-angular-cli-8e368136.md) |
@@ -308,7 +308,7 @@ Records: `568`
 | @ionic/cli-framework-output | 2.2.8 | 2023-12-19T22:38:35.365Z | [open](../records/node-js-javascript-ionic-cli-framework-output-8324bb8a.md) |
 | @ionic/cli-framework-prompts | 2.1.13 | 2023-12-19T22:38:35.436Z | [open](../records/node-js-javascript-ionic-cli-framework-prompts-5599c31f.md) |
 | @knocklabs/cli | 1.2.3 | 2026-08-13T15:12:15.170Z | [open](../records/node-js-javascript-knocklabs-cli-62154908.md) |
-| @lightdash/cli | 2.151.1 | 2026-09-08T07:17:21.014Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
+| @lightdash/cli | 2.155.0 | 2026-09-08T10:09:49.422Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | @lingui/cli | 6.6.0 | 2026-07-24T13:52:53.439Z | [open](../records/node-js-javascript-lingui-cli-343f33ec.md) |
 | @maizzle/cli | 2.0.0 | 2024-12-16T17:59:24.900Z | [open](../records/node-js-javascript-maizzle-cli-a7a13457.md) |
 | @marp-team/marp-cli | 4.5.0 | 2026-07-17T23:07:09.399Z | [open](../records/node-js-javascript-marp-team-marp-cli-b69e1548.md) |
@@ -323,7 +323,7 @@ Records: `568`
 | @nuxt/cli | 3.37.0 | 2026-07-14T10:47:22.645Z | [open](../records/node-js-javascript-nuxt-cli-f015cf50.md) |
 | @openapi-codegen/cli | 3.1.0 | 2025-02-20T10:09:40.664Z | [open](../records/node-js-javascript-openapi-codegen-cli-d161549d.md) |
 | @pact-foundation/pact-cli | 18.1.1 | 2026-06-30T12:36:40.763Z | [open](../records/node-js-javascript-pact-foundation-pact-cli-9a91dd36.md) |
-| @percy/cli-app | 1.32.8 | 2026-09-03T11:40:04.097Z | [open](../records/node-js-javascript-percy-cli-app-a835afe7.md) |
+| @percy/cli-app | 1.32.9 | 2026-09-08T08:30:50.105Z | [open](../records/node-js-javascript-percy-cli-app-a835afe7.md) |
 | @playwright/cli | 0.1.19 | 2026-09-01T16:19:56.878Z | [open](../records/node-js-javascript-playwright-cli-e8cfd942.md) |
 | @prisma/cli-engine | 0.3.0 | 2026-08-26T07:13:21.842Z | [open](../records/node-js-javascript-prisma-cli-engine-db893fc5.md) |
 | @quasar/cli | 5.0.8 | 2026-09-07T12:30:27.512Z | [open](../records/node-js-javascript-quasar-cli-8cd07ece.md) |
@@ -332,7 +332,7 @@ Records: `568`
 | @react-native/community-cli-plugin | 0.87.1 | 2026-08-26T12:56:28.576Z | [open](../records/node-js-javascript-react-native-community-cli-plugin-1ae28880.md) |
 | @redocly/cli-otel | 0.3.6 | 2026-08-26T17:01:17.930Z | [open](../records/node-js-javascript-redocly-cli-otel-1a9a1737.md) |
 | @reflag/cli | 1.0.4 | 2025-10-29T11:05:21.020Z | [open](../records/node-js-javascript-reflag-cli-d57e61f7.md) |
-| @rspack/cli | 2.2.2 | 2026-09-01T11:45:15.831Z | [open](../records/node-js-javascript-rspack-cli-8e6b6307.md) |
+| @rspack/cli | 2.2.3 | 2026-09-08T08:45:31.242Z | [open](../records/node-js-javascript-rspack-cli-8e6b6307.md) |
 | @salesforce/cli | 2.150.6 | 2026-08-26T02:48:00.491Z | [open](../records/node-js-javascript-salesforce-cli-b9219aa7.md) |
 | @sanity/cli | 8.9.1 | 2026-09-03T14:32:53.771Z | [open](../records/node-js-javascript-sanity-cli-257446f0.md) |
 | @sanity/cli-core | 3.6.1 | 2026-09-03T08:46:26.024Z | [open](../records/node-js-javascript-sanity-cli-core-cef78bf4.md) |
@@ -531,10 +531,10 @@ Records: `568`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-08T09:09:58Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-08T10:23:37Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-08T09:20:45Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-08T10:21:53Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 
@@ -575,7 +575,7 @@ Records: `568`
 | --- | --- | --- | --- |
 | earthaccess-dev/earthaccess | unknown | github_search_does_not_include_release_date | [open](../records/maps-earthaccess-dev-earthaccess-69c17717.md) |
 | kraina-ai/quackosm | partial | 2026-09-01T12:02:42Z | [open](../records/maps-kraina-ai-quackosm-235b8910.md) |
-| organicmaps/organicmaps | partial | 2026-09-08T06:26:39Z | [open](../records/maps-organicmaps-organicmaps-2fbbb788.md) |
+| organicmaps/organicmaps | partial | 2026-09-08T10:15:51Z | [open](../records/maps-organicmaps-organicmaps-2fbbb788.md) |
 | Toblerity/Fiona | unknown | github_search_does_not_include_release_date | [open](../records/maps-toblerity-fiona-f99f05a8.md) |
 
 ## Space Maps
@@ -760,7 +760,7 @@ Records: `568`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | chdb-io/chdb | partial | 2026-09-04T02:47:17Z | [open](../records/databases-chdb-io-chdb-51490fbb.md) |
-| ClickHouse/ClickHouse | partial | 2026-09-08T08:21:15Z | [open](../records/databases-clickhouse-clickhouse-9258f880.md) |
+| ClickHouse/ClickHouse | partial | 2026-09-08T10:23:59Z | [open](../records/databases-clickhouse-clickhouse-9258f880.md) |
 | ClickHouse/clickhouse-odbc | partial | 2026-08-18T15:43:22Z | [open](../records/databases-clickhouse-clickhouse-odbc-7cfc6ac3.md) |
 | golang-migrate/migrate | partial | 2026-09-07T21:00:54Z | [open](../records/databases-golang-migrate-migrate-1713bacf.md) |
 | housepower/ClickHouse-Native-JDBC | partial | 2025-06-22T09:22:59Z | [open](../records/databases-housepower-clickhouse-native-jdbc-8cec0869.md) |
