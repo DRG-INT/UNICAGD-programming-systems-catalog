@@ -1,6 +1,6 @@
 # Database Datastore
 
-Records: `896`
+Records: `897`
 
 ## Navigation
 
@@ -11,15 +11,15 @@ Records: `896`
 [Api Abi Checker (221)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
 [Benchmarking (200)](benchmarking.md) · [Build System (994)](build-system.md) · [Cli (567)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (52)](compression.md)
-[Concurrency Parallelism (93)](concurrency-parallelism.md) · [Configuration (131)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · **[Database Datastore (896)](database-datastore.md)** · [Datetime (234)](datetime.md)
+[Concurrency Parallelism (93)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · **[Database Datastore (897)](database-datastore.md)** · [Datetime (234)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (107)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1611)](filesystem-os.md) · [Formatter (648)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1464)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (30)](language-server.md) · [Language Specification (1441)](language-specification.md) · [Library (5732)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (796)](machine-learning.md)
-[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1041)](networking-http.md)
+[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1042)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1195)](parser-lexer-ast.md) · [Precommit Ci Quality (309)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (336)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (623)](static-analyzer.md)
@@ -140,6 +140,7 @@ Records: `896`
 | @dxos/echo-db | 0.8.3 | 2025-07-03T16:32:13.957Z | [open](../records/node-js-javascript-dxos-echo-db-7e6e2d88.md) |
 | @dxos/echo-schema | 0.8.3 | 2025-07-03T16:30:27.305Z | [open](../records/node-js-javascript-dxos-echo-schema-33a61d15.md) |
 | @expo/websql | 1.0.1 | 2018-05-19T01:14:40.093Z | [open](../records/node-js-javascript-expo-websql-5fe2c4d1.md) |
+| @ez4/local-database | 0.52.0 | 2026-09-02T00:40:46.671Z | [open](../records/node-js-javascript-ez4-local-database-72ab0fcd.md) |
 | @feathersjs/adapter-commons | 5.0.49 | 2026-08-14T01:55:41.325Z | [open](../records/node-js-javascript-feathersjs-adapter-commons-7a45c587.md) |
 | @firebase/database | 1.1.5 | 2026-08-19T20:22:19.028Z | [open](../records/node-js-javascript-firebase-database-9026faf8.md) |
 | @firebase/database-compat | 2.1.7 | 2026-08-19T20:19:23.862Z | [open](../records/node-js-javascript-firebase-database-compat-b3021f32.md) |
