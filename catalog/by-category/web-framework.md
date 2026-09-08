@@ -1,6 +1,6 @@
 # Web Framework
 
-Records: `477`
+Records: `478`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `477`
 ## Category Index
 
 [Api Abi Checker (221)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (200)](benchmarking.md) · [Build System (993)](build-system.md) · [Cli (566)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (200)](benchmarking.md) · [Build System (994)](build-system.md) · [Cli (567)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (52)](compression.md)
-[Concurrency Parallelism (92)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (176)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (895)](database-datastore.md) · [Datetime (234)](datetime.md)
+[Concurrency Parallelism (93)](concurrency-parallelism.md) · [Configuration (131)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (896)](database-datastore.md) · [Datetime (234)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (107)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1611)](filesystem-os.md) · [Formatter (648)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1463)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1464)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1441)](language-specification.md) · [Library (5716)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (795)](machine-learning.md)
-[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1040)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1194)](parser-lexer-ast.md) · [Precommit Ci Quality (309)](precommit-ci-quality.md)
+[Language Server (30)](language-server.md) · [Language Specification (1441)](language-specification.md) · [Library (5731)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (796)](machine-learning.md)
+[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1041)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1195)](parser-lexer-ast.md) · [Precommit Ci Quality (309)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (397)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (622)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (623)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (607)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1618)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (559)](visualization-gui.md) · **[Web Framework (477)](web-framework.md)**
+[Undefined Behavior Analyzer (1618)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (560)](visualization-gui.md) · **[Web Framework (478)](web-framework.md)**
 
 ## C++23
 
@@ -202,7 +202,7 @@ Records: `477`
 | @newrelic/apollo-server-plugin | 8.0.0 | 2025-07-22T20:03:48.217Z | [open](../records/node-js-javascript-newrelic-apollo-server-plugin-34e68ee7.md) |
 | @nexus2520/bitbucket-mcp-server | 3.0.0 | 2026-07-09T10:23:31.348Z | [open](../records/node-js-javascript-nexus2520-bitbucket-mcp-server-c0a72fb2.md) |
 | @nuxt/nitro-server | 4.5.2 | 2026-08-05T16:17:56.963Z | [open](../records/node-js-javascript-nuxt-nitro-server-1fc1585d.md) |
-| @nuxt/nitro-server-nightly | 4.6.0-29813651.259058cf | 2026-09-07T22:12:24.550Z | [open](../records/node-js-javascript-nuxt-nitro-server-nightly-4efe1726.md) |
+| @nuxt/nitro-server-nightly | 4.6.0-29813676.d47aedb6 | 2026-09-07T22:38:13.053Z | [open](../records/node-js-javascript-nuxt-nitro-server-nightly-4efe1726.md) |
 | @opencode-ai/server | 0.0.0-reserved.0 | 2026-07-01T22:05:01.103Z | [open](../records/node-js-javascript-opencode-ai-server-870e8c36.md) |
 | @openfeature/core | 1.12.0 | 2026-07-28T18:53:49.315Z | [open](../records/node-js-javascript-openfeature-core-e3b3a0d0.md) |
 | @osohq/dev-server | 0.0.1-alpha.24 | 2026-07-17T14:34:26.307Z | [open](../records/node-js-javascript-osohq-dev-server-08c8f1e4.md) |
@@ -217,7 +217,7 @@ Records: `477`
 | @react-pdf/renderer | 4.9.0 | 2026-08-27T22:59:33.090Z | [open](../records/node-js-javascript-react-pdf-renderer-c07702a0.md) |
 | @react-router/express | 8.3.1 | 2026-08-28T14:44:43.286Z | [open](../records/node-js-javascript-react-router-express-7f5f4395.md) |
 | @react-router/serve | 8.3.1 | 2026-08-28T14:44:47.025Z | [open](../records/node-js-javascript-react-router-serve-fcd29568.md) |
-| @rebasepro/server | 0.17.3 | 2026-08-31T13:20:11.463Z | [open](../records/node-js-javascript-rebasepro-server-25d1c74a.md) |
+| @rebasepro/server | 0.19.1 | 2026-09-07T20:28:56.608Z | [open](../records/node-js-javascript-rebasepro-server-25d1c74a.md) |
 | @remotion/studio-server | 4.0.522 | 2026-09-07T09:36:16.641Z | [open](../records/node-js-javascript-remotion-studio-server-ed620dc3.md) |
 | @restatedev/restate-server | 1.7.9 | 2026-09-04T21:08:28.114Z | [open](../records/node-js-javascript-restatedev-restate-server-4072d5bd.md) |
 | @rspack/dev-server | 2.2.1 | 2026-08-22T05:54:21.220Z | [open](../records/node-js-javascript-rspack-dev-server-8f7edde9.md) |
@@ -247,6 +247,7 @@ Records: `477`
 | @umijs/server | 4.7.14 | 2026-09-04T08:50:53.063Z | [open](../records/node-js-javascript-umijs-server-39ec9954.md) |
 | @unlighthouse/server | 0.18.0 | 2026-06-29T03:12:35.459Z | [open](../records/node-js-javascript-unlighthouse-server-42feedd7.md) |
 | @upstash/context7-mcp | 4.0.5 | 2026-09-04T10:13:57.326Z | [open](../records/node-js-javascript-upstash-context7-mcp-f62fb753.md) |
+| @use-voltra/android-server | 2.2.0 | 2026-08-03T13:16:02.753Z | [open](../records/node-js-javascript-use-voltra-android-server-11b8e2fa.md) |
 | @use-voltra/ios-server | 2.2.0 | 2026-08-03T13:16:07.085Z | [open](../records/node-js-javascript-use-voltra-ios-server-52aaeb6b.md) |
 | @use-voltra/server | 2.2.0 | 2026-08-03T13:15:46.999Z | [open](../records/node-js-javascript-use-voltra-server-0e9559b5.md) |
 | @vercel/cosmosdb-server | 1.0.1 | 2026-03-09T18:28:03.744Z | [open](../records/node-js-javascript-vercel-cosmosdb-server-a0184bac.md) |
@@ -490,7 +491,7 @@ Records: `477`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | agentstation/starmap | partial | 2026-09-01T18:39:39Z | [open](../records/space-maps-agentstation-starmap-8fdcd317.md) |
-| Cognitohazard/ltspice-mcp | partial | 2026-09-01T03:27:30Z | [open](../records/space-maps-cognitohazard-ltspice-mcp-ccd6f8ba.md) |
+| Cognitohazard/ltspice-mcp | partial | 2026-09-07T06:30:10Z | [open](../records/space-maps-cognitohazard-ltspice-mcp-ccd6f8ba.md) |
 | peteanderson80/coco-caption | partial | 2023-02-02T12:41:12Z | [open](../records/space-maps-peteanderson80-coco-caption-9e729876.md) |
 
 ## Effects

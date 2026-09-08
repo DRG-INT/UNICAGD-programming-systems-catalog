@@ -1,6 +1,6 @@
 # Serialization
 
-Records: `397`
+Records: `400`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `397`
 ## Category Index
 
 [Api Abi Checker (221)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (200)](benchmarking.md) · [Build System (993)](build-system.md) · [Cli (566)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (200)](benchmarking.md) · [Build System (994)](build-system.md) · [Cli (567)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (24)](compiler-diagnostics.md) · [Compression (52)](compression.md)
-[Concurrency Parallelism (92)](concurrency-parallelism.md) · [Configuration (130)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (176)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (895)](database-datastore.md) · [Datetime (234)](datetime.md)
+[Concurrency Parallelism (93)](concurrency-parallelism.md) · [Configuration (131)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (896)](database-datastore.md) · [Datetime (234)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (102)](dependency-manager.md) · [Documentation (107)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1611)](filesystem-os.md) · [Formatter (648)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1463)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (356)](game-engine-game-dev.md) · [Ide Editor Integration (1464)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1441)](language-specification.md) · [Library (5716)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (795)](machine-learning.md)
-[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1040)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1194)](parser-lexer-ast.md) · [Precommit Ci Quality (309)](precommit-ci-quality.md)
+[Language Server (30)](language-server.md) · [Language Specification (1441)](language-specification.md) · [Library (5731)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (796)](machine-learning.md)
+[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1041)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1195)](parser-lexer-ast.md) · [Precommit Ci Quality (309)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (133)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · **[Serialization (397)](serialization.md)** · [Standard Library (25)](standard-library.md) · [Static Analyzer (622)](static-analyzer.md)
+[Security Sast (336)](security-sast.md) · **[Serialization (400)](serialization.md)** · [Standard Library (25)](standard-library.md) · [Static Analyzer (623)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (607)](testing-framework.md) · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1618)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (559)](visualization-gui.md) · [Web Framework (477)](web-framework.md)
+[Undefined Behavior Analyzer (1618)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (560)](visualization-gui.md) · [Web Framework (478)](web-framework.md)
 
 ## C99
 
@@ -260,6 +260,7 @@ Records: `397`
 | hjsonschema | 1.10.0 | 2020-05-01T19:57:40Z | [open](../records/haskell-hjsonschema-585b7220.md) |
 | htoml-megaparsec | 2.1.0.5 | 2023-10-24T21:54:51Z | [open](../records/haskell-htoml-megaparsec-9c00d85a.md) |
 | hw-json | 1.3.3.1 | 2025-07-24T13:01:51Z | [open](../records/haskell-hw-json-d9e81d55.md) |
+| json | 0.11 | 2023-07-17T15:50:24Z | [open](../records/haskell-json-a5e3f7df.md) |
 | json-autotype | 3.1.2 | 2020-04-19T19:25:32Z | [open](../records/haskell-json-autotype-bc180b5d.md) |
 | json-feed | 2.0.0.19 | 2026-05-22T13:38:44Z | [open](../records/haskell-json-feed-b77272e1.md) |
 | json-spec | 1.4.0.0 | 2026-07-23T03:55:38Z | [open](../records/haskell-json-spec-15ffc1f1.md) |
@@ -268,8 +269,10 @@ Records: `397`
 | json-stream | 0.4.6.1 | 2026-05-31T21:26:07Z | [open](../records/haskell-json-stream-9730fe11.md) |
 | jsonrpc-conduit | 0.4.1 | 2024-02-19T21:37:42Z | [open](../records/haskell-jsonrpc-conduit-e1073549.md) |
 | RefSerialize | 0.4.0 | 2017-02-06T23:42:14Z | [open](../records/haskell-refserialize-62669b0f.md) |
+| tomland | 1.3.3.3 | 2024-06-07T13:15:00Z | [open](../records/haskell-tomland-5b998b9e.md) |
 | xml-conduit | 1.10.1.0 | 2025-11-25T20:24:41Z | [open](../records/haskell-xml-conduit-8a482c6e.md) |
 | xml-enumerator | 0.4.4.1 | 2012-01-02T19:08:45Z | [open](../records/haskell-xml-enumerator-3cb21216.md) |
+| xml-hamlet | 0.5.0.3 | 2025-11-27T21:02:18Z | [open](../records/haskell-xml-hamlet-7a273d7b.md) |
 | xmlhtml | 0.2.5.4 | 2023-02-13T07:40:41Z | [open](../records/haskell-xmlhtml-cd0f4219.md) |
 | yaml | 0.11.11.2 | 2023-07-01T18:43:54Z | [open](../records/haskell-yaml-4295e288.md) |
 | yamlscript | 0.2.32.0 | 2026-08-25T14:30:47Z | [open](../records/haskell-yamlscript-f3f0625d.md) |
