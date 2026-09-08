@@ -8,15 +8,15 @@
 [Benchmarking (202)](by-category/benchmarking.md) · [Build System (999)](by-category/build-system.md) · [Cli (570)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (25)](by-category/compiler-diagnostics.md) · [Compression (52)](by-category/compression.md)
 [Concurrency Parallelism (93)](by-category/concurrency-parallelism.md) · [Configuration (132)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (177)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (969)](by-category/database-datastore.md) · [Datetime (234)](by-category/datetime.md)
+[Cryptography (177)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (969)](by-category/database-datastore.md) · [Datetime (235)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (104)](by-category/dependency-manager.md) · [Documentation (109)](by-category/documentation.md)
-[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (464)](by-category/ffi-bindings.md) · [Filesystem Os (1615)](by-category/filesystem-os.md) · [Formatter (652)](by-category/formatter.md)
+[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (464)](by-category/ffi-bindings.md) · [Filesystem Os (1616)](by-category/filesystem-os.md) · [Formatter (652)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (58)](by-category/fuzzer.md) · [Game Engine Game Dev (358)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1475)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (275)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (30)](by-category/language-server.md) · [Language Specification (1450)](by-category/language-specification.md) · [Library (5760)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (531)](by-category/logging-observability.md) · [Machine Learning (808)](by-category/machine-learning.md)
+[Language Server (30)](by-category/language-server.md) · [Language Specification (1450)](by-category/language-specification.md) · [Library (5763)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (531)](by-category/logging-observability.md) · [Machine Learning (810)](by-category/machine-learning.md)
 [Math Numeric Scientific (89)](by-category/math-numeric-scientific.md) · [Memory Analyzer (98)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1053)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (443)](by-category/package-manager.md) · [Parser Lexer Ast (1207)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (310)](by-category/precommit-ci-quality.md)
+[Other (14)](by-category/other.md) · [Package Manager (443)](by-category/package-manager.md) · [Parser Lexer Ast (1208)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (310)](by-category/precommit-ci-quality.md)
 [Profiler (90)](by-category/profiler.md) · [Project Scaffolding (138)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (337)](by-category/security-sast.md) · [Serialization (400)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (632)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (619)](by-category/testing-framework.md) · [Tutorial Book Styleguide (68)](by-category/tutorial-book-styleguide.md) · [Type Checker (314)](by-category/type-checker.md)
@@ -881,6 +881,7 @@
 | `cran_packages_by_date-09a16232285b90` | exactGMH | [open](records/r-exactgmh-bf67ee38.md) |
 | `cran_packages_by_date-09acddf9f258b8` | vrpr | [open](records/r-vrpr-f4151c93.md) |
 | `cran_packages_by_date-09d25c8dd723d9` | earth | [open](records/r-earth-b151e3ae.md) |
+| `cran_packages_by_date-0a10fcd62ab2e0` | vecmatch | [open](records/r-vecmatch-e31acdf3.md) |
 | `cran_packages_by_date-0a600a8bd00af2` | FINN | [open](records/r-finn-32543182.md) |
 | `cran_packages_by_date-0a71d6e93f3321` | glcdp | [open](records/r-glcdp-348db18b.md) |
 | `cran_packages_by_date-0ac3b0a1844e36` | nmfkc | [open](records/r-nmfkc-03f45a99.md) |
@@ -1064,6 +1065,7 @@
 | `cran_packages_by_date-2462db44dd6eb2` | HVS | [open](records/r-hvs-28200727.md) |
 | `cran_packages_by_date-2470147a68bf20` | BorderEffect | [open](records/r-bordereffect-6ad90bd6.md) |
 | `cran_packages_by_date-2472b12e793163` | edgemodelr | [open](records/r-edgemodelr-090006e4.md) |
+| `cran_packages_by_date-24a64c9eb58bea` | NMsim | [open](records/r-nmsim-206e9e01.md) |
 | `cran_packages_by_date-24ade7f074ac52` | cofad | [open](records/r-cofad-1e4308ad.md) |
 | `cran_packages_by_date-24bafb96f69fd5` | arcgisutils | [open](records/r-arcgisutils-9c834bfb.md) |
 | `cran_packages_by_date-24c24ca0f66b77` | ggalttext | [open](records/r-ggalttext-f7b926ad.md) |
@@ -1169,6 +1171,7 @@
 | `cran_packages_by_date-3290819c29d0e9` | actibase | [open](records/r-actibase-dde45b17.md) |
 | `cran_packages_by_date-33352f039e9710` | CausalQueries | [open](records/r-causalqueries-0904fbed.md) |
 | `cran_packages_by_date-33367bab8e1097` | mispitools | [open](records/r-mispitools-ac1dc544.md) |
+| `cran_packages_by_date-3387332a678cd8` | vprint | [open](records/r-vprint-67ae89ef.md) |
 | `cran_packages_by_date-338b018129700d` | CopernicusDataspace | [open](records/r-copernicusdataspace-edb589c1.md) |
 | `cran_packages_by_date-339c1345bd858e` | diceR | [open](records/r-dicer-f2856510.md) |
 | `cran_packages_by_date-33b8b52e9c4ddf` | biofetchR | [open](records/r-biofetchr-b5414aaa.md) |
@@ -1360,6 +1363,7 @@
 | `cran_packages_by_date-4da473dbae1401` | ggtaichi | [open](records/r-ggtaichi-c4ea8b76.md) |
 | `cran_packages_by_date-4db7373b326210` | distspec | [open](records/r-distspec-7a6e82bf.md) |
 | `cran_packages_by_date-4dd9911ceaf9d7` | CLRtools | [open](records/r-clrtools-e3048f4b.md) |
+| `cran_packages_by_date-4de674b10e2bbd` | SimInf | [open](records/r-siminf-88c4d5db.md) |
 | `cran_packages_by_date-4dfd5fff6a7c40` | spatpersist | [open](records/r-spatpersist-35569337.md) |
 | `cran_packages_by_date-4e33aaadc5f469` | cgmguru | [open](records/r-cgmguru-f2b94796.md) |
 | `cran_packages_by_date-4e5bd7bffe7b95` | crandep | [open](records/r-crandep-6374b415.md) |
@@ -1466,6 +1470,7 @@
 | `cran_packages_by_date-5bc6b4d1a6a091` | IssueTrackeR | [open](records/r-issuetracker-9cf3dee2.md) |
 | `cran_packages_by_date-5c085ffa80e08d` | wordorientation | [open](records/r-wordorientation-c5224f0f.md) |
 | `cran_packages_by_date-5c31f32178e363` | apisensr | [open](records/r-apisensr-84600f94.md) |
+| `cran_packages_by_date-5c54d4aa437c3e` | xts | [open](records/r-xts-40b21d9f.md) |
 | `cran_packages_by_date-5c5c177b4f4aac` | NMdata | [open](records/r-nmdata-85e313b9.md) |
 | `cran_packages_by_date-5c64cd8e5fa53b` | dRiftDM | [open](records/r-driftdm-377b26fd.md) |
 | `cran_packages_by_date-5c6e2de7271694` | migraph | [open](records/r-migraph-96f59b3d.md) |
@@ -1880,6 +1885,7 @@
 | `cran_packages_by_date-94e33440b6f5d1` | bigrquerystorage | [open](records/r-bigrquerystorage-55805a4e.md) |
 | `cran_packages_by_date-94f84fa772d274` | civic.icarm | [open](records/r-civic-icarm-837b2191.md) |
 | `cran_packages_by_date-94fbf221fa236c` | modEvA | [open](records/r-modeva-4b088972.md) |
+| `cran_packages_by_date-951681d129acf1` | rquery | [open](records/r-rquery-c00c58b0.md) |
 | `cran_packages_by_date-953576575fdc15` | random | [open](records/r-random-f1dfb428.md) |
 | `cran_packages_by_date-9536d56ba019d0` | FESta | [open](records/r-festa-8945089e.md) |
 | `cran_packages_by_date-95d7accd6aff8a` | altmeta | [open](records/r-altmeta-365af1ef.md) |
@@ -2074,6 +2080,7 @@
 | `cran_packages_by_date-b11808f26d6166` | phenology | [open](records/r-phenology-0dac6e83.md) |
 | `cran_packages_by_date-b143252c05ad78` | libcmaesr | [open](records/r-libcmaesr-bf1f8c41.md) |
 | `cran_packages_by_date-b17bc61a9ab498` | Qindex.data | [open](records/r-qindex-data-9963844a.md) |
+| `cran_packages_by_date-b1e7cddd4c2a07` | NHSRdatasets | [open](records/r-nhsrdatasets-cac98494.md) |
 | `cran_packages_by_date-b1f16a10adb138` | casebase | [open](records/r-casebase-aea74542.md) |
 | `cran_packages_by_date-b27715bde7f791` | bayesplot | [open](records/r-bayesplot-dfac9320.md) |
 | `cran_packages_by_date-b2e466747d7e86` | cincinnatiOpenData | [open](records/r-cincinnatiopendata-7d923261.md) |
@@ -17149,6 +17156,7 @@
 | `hackage_recent-08efc48cf33993` | baikai | [open](records/haskell-baikai-a604f283.md) |
 | `hackage_recent-093cf7e166c197` | phino | [open](records/haskell-phino-0ffa79f2.md) |
 | `hackage_recent-0c786b314b6410` | grapesy | [open](records/haskell-grapesy-9ecbf2e2.md) |
+| `hackage_recent-1197835ee1801b` | sectile | [open](records/haskell-sectile-00259ea8.md) |
 | `hackage_recent-14671beb3f27e3` | keiro-migrations | [open](records/haskell-keiro-migrations-15a8f748.md) |
 | `hackage_recent-15fcfdbd7752f4` | bugsnag | [open](records/haskell-bugsnag-279ae229.md) |
 | `hackage_recent-1764fed6d2bbbd` | zstd | [open](records/haskell-zstd-01fb5311.md) |

@@ -12,15 +12,15 @@ Records: `389`
 [Benchmarking (202)](../by-category/benchmarking.md) · [Build System (999)](../by-category/build-system.md) · [Cli (570)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (52)](../by-category/compression.md)
 [Concurrency Parallelism (93)](../by-category/concurrency-parallelism.md) · [Configuration (132)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (177)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (969)](../by-category/database-datastore.md) · [Datetime (234)](../by-category/datetime.md)
+[Cryptography (177)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (969)](../by-category/database-datastore.md) · [Datetime (235)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (104)](../by-category/dependency-manager.md) · [Documentation (109)](../by-category/documentation.md)
-[Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (464)](../by-category/ffi-bindings.md) · [Filesystem Os (1615)](../by-category/filesystem-os.md) · [Formatter (652)](../by-category/formatter.md)
+[Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (464)](../by-category/ffi-bindings.md) · [Filesystem Os (1616)](../by-category/filesystem-os.md) · [Formatter (652)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (58)](../by-category/fuzzer.md) · [Game Engine Game Dev (358)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1475)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (275)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (30)](../by-category/language-server.md) · [Language Specification (1450)](../by-category/language-specification.md) · [Library (5760)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (531)](../by-category/logging-observability.md) · [Machine Learning (808)](../by-category/machine-learning.md)
+[Language Server (30)](../by-category/language-server.md) · [Language Specification (1450)](../by-category/language-specification.md) · [Library (5763)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (531)](../by-category/logging-observability.md) · [Machine Learning (810)](../by-category/machine-learning.md)
 [Math Numeric Scientific (89)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (98)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1053)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (443)](../by-category/package-manager.md) · [Parser Lexer Ast (1207)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (310)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (443)](../by-category/package-manager.md) · [Parser Lexer Ast (1208)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (310)](../by-category/precommit-ci-quality.md)
 [Profiler (90)](../by-category/profiler.md) · [Project Scaffolding (138)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (337)](../by-category/security-sast.md) · [Serialization (400)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (632)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (619)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (68)](../by-category/tutorial-book-styleguide.md) · [Type Checker (314)](../by-category/type-checker.md)
@@ -292,11 +292,11 @@ Records: `389`
 | [@apollo/utils.withrequired](../records/node-js-typescript-apollo-utils-withrequired-3d97187a.md) | 3.0.0 | 2023-04-17T22:53:30.094Z | registry-derived |
 | [@ava/typescript](../records/node-js-typescript-ava-typescript-10335da0.md) | 7.0.0 | 2026-04-16T19:49:10.507Z | registry-derived |
 | [@aws-lambda-powertools/logger](../records/node-js-typescript-aws-lambda-powertools-logger-8438a23a.md) | 2.35.0 | 2026-08-18T10:27:23.835Z | npm_registry |
-| [@aws/durable-execution-sdk-js-testing](../records/node-js-typescript-aws-durable-execution-sdk-js-testing-31e8c795.md) | 1.1.3 | 2026-07-06T21:09:01.508Z | registry-derived |
+| [@aws/durable-execution-sdk-js-testing](../records/node-js-typescript-aws-durable-execution-sdk-js-testing-31e8c795.md) | 1.1.4 | 2026-09-08T17:41:13.865Z | registry-derived |
 | [@babel/plugin-syntax-typescript](../records/node-js-typescript-babel-plugin-syntax-typescript-f6dbb30b.md) | 8.0.3 | 2026-06-27T08:04:32.972Z | registry-derived |
 | [@babel/plugin-transform-typescript](../records/node-js-typescript-babel-plugin-transform-typescript-349f6b2b.md) | 8.0.1 | 2026-06-17T09:45:23.105Z | registry-derived |
 | [@babel/preset-typescript](../records/node-js-typescript-babel-preset-typescript-bae2a595.md) | 8.0.1 | 2026-06-17T09:45:25.966Z | registry-derived |
-| [@better-auth/core](../records/node-js-typescript-better-auth-core-fa635d03.md) | 1.7.2 | 2026-08-26T19:13:25.334Z | registry-derived |
+| [@better-auth/core](../records/node-js-typescript-better-auth-core-fa635d03.md) | 1.7.3 | 2026-09-06T03:03:26.293Z | registry-derived |
 | [@betterer/typescript](../records/node-js-typescript-betterer-typescript-35e88ce6.md) | 6.0.0-alpha.1 | 2024-12-01T11:00:45.495Z | registry-derived |
 | [@clipboard-health/testing-core](../records/node-js-typescript-clipboard-health-testing-core-646613ba.md) | 2.12.3 | 2026-09-02T02:21:01.349Z | registry-derived |
 | [@cloudflare/workers-types](../records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) | 5.20260908.1 | 2026-09-08T01:18:42.184Z | registry-derived |

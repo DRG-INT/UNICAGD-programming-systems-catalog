@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-08T17:22:30+00:00`
+Generated: `2026-09-08T18:27:55+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -10,15 +10,15 @@ Generated: `2026-09-08T17:22:30+00:00`
 [Benchmarking (202)](by-category/benchmarking.md) · [Build System (999)](by-category/build-system.md) · [Cli (570)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (25)](by-category/compiler-diagnostics.md) · [Compression (52)](by-category/compression.md)
 [Concurrency Parallelism (93)](by-category/concurrency-parallelism.md) · [Configuration (132)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (177)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (969)](by-category/database-datastore.md) · [Datetime (234)](by-category/datetime.md)
+[Cryptography (177)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (969)](by-category/database-datastore.md) · [Datetime (235)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (104)](by-category/dependency-manager.md) · [Documentation (109)](by-category/documentation.md)
-[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (464)](by-category/ffi-bindings.md) · [Filesystem Os (1615)](by-category/filesystem-os.md) · [Formatter (652)](by-category/formatter.md)
+[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (464)](by-category/ffi-bindings.md) · [Filesystem Os (1616)](by-category/filesystem-os.md) · [Formatter (652)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (58)](by-category/fuzzer.md) · [Game Engine Game Dev (358)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1475)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (275)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (30)](by-category/language-server.md) · [Language Specification (1450)](by-category/language-specification.md) · [Library (5760)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (531)](by-category/logging-observability.md) · [Machine Learning (808)](by-category/machine-learning.md)
+[Language Server (30)](by-category/language-server.md) · [Language Specification (1450)](by-category/language-specification.md) · [Library (5763)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (531)](by-category/logging-observability.md) · [Machine Learning (810)](by-category/machine-learning.md)
 [Math Numeric Scientific (89)](by-category/math-numeric-scientific.md) · [Memory Analyzer (98)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1053)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (443)](by-category/package-manager.md) · [Parser Lexer Ast (1207)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (310)](by-category/precommit-ci-quality.md)
+[Other (14)](by-category/other.md) · [Package Manager (443)](by-category/package-manager.md) · [Parser Lexer Ast (1208)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (310)](by-category/precommit-ci-quality.md)
 [Profiler (90)](by-category/profiler.md) · [Project Scaffolding (138)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (337)](by-category/security-sast.md) · [Serialization (400)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (632)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (619)](by-category/testing-framework.md) · [Tutorial Book Styleguide (68)](by-category/tutorial-book-styleguide.md) · [Type Checker (314)](by-category/type-checker.md)
@@ -37,8 +37,8 @@ Generated: `2026-09-08T17:22:30+00:00`
 | Node.js/JavaScript | 2424 | 2347 | [Node.js/JavaScript](by-language/node-js-javascript.md) |
 | Node.js/TypeScript | 389 | 349 | [Node.js/TypeScript](by-language/node-js-typescript.md) |
 | Lua family | 1937 | 0 | [Lua family](by-language/lua-family.md) |
-| R | 1808 | 1808 | [R](by-language/r.md) |
-| Haskell | 1524 | 1512 | [Haskell](by-language/haskell.md) |
+| R | 1815 | 1815 | [R](by-language/r.md) |
+| Haskell | 1525 | 1513 | [Haskell](by-language/haskell.md) |
 | Matlab | 287 | 0 | [Matlab](by-language/matlab.md) |
 | Octave | 141 | 140 | [Octave](by-language/octave.md) |
 | C-Sharp | 150 | 150 | [C-Sharp](by-language/c-sharp.md) |
@@ -111,14 +111,14 @@ Generated: `2026-09-08T17:22:30+00:00`
 | Cryptography | 177 | [cryptography](by-category/cryptography.md) |
 | Data Science | 39 | [data_science](by-category/data-science.md) |
 | Database Datastore | 969 | [database_datastore](by-category/database-datastore.md) |
-| Datetime | 234 | [datetime](by-category/datetime.md) |
+| Datetime | 235 | [datetime](by-category/datetime.md) |
 | Dead Code Dependency Analysis | 5 | [dead_code_dependency_analysis](by-category/dead-code-dependency-analysis.md) |
 | Debugger | 44 | [debugger](by-category/debugger.md) |
 | Dependency Manager | 104 | [dependency_manager](by-category/dependency-manager.md) |
 | Documentation | 109 | [documentation](by-category/documentation.md) |
 | Embedded Hardware | 60 | [embedded_hardware](by-category/embedded-hardware.md) |
 | Ffi Bindings | 464 | [ffi_bindings](by-category/ffi-bindings.md) |
-| Filesystem Os | 1615 | [filesystem_os](by-category/filesystem-os.md) |
+| Filesystem Os | 1616 | [filesystem_os](by-category/filesystem-os.md) |
 | Formatter | 652 | [formatter](by-category/formatter.md) |
 | Framework | 63 | [framework](by-category/framework.md) |
 | Fuzzer | 58 | [fuzzer](by-category/fuzzer.md) |
@@ -130,19 +130,19 @@ Generated: `2026-09-08T17:22:30+00:00`
 | Jit Vm | 64 | [jit_vm](by-category/jit-vm.md) |
 | Language Server | 30 | [language_server](by-category/language-server.md) |
 | Language Specification | 1450 | [language_specification](by-category/language-specification.md) |
-| Library | 5760 | [library](by-category/library.md) |
+| Library | 5763 | [library](by-category/library.md) |
 | Lint Plugin | 1 | [lint_plugin](by-category/lint-plugin.md) |
 | Lint Rule Pack | 49 | [lint_rule_pack](by-category/lint-rule-pack.md) |
 | Linter | 348 | [linter](by-category/linter.md) |
 | Logging Observability | 531 | [logging_observability](by-category/logging-observability.md) |
-| Machine Learning | 808 | [machine_learning](by-category/machine-learning.md) |
+| Machine Learning | 810 | [machine_learning](by-category/machine-learning.md) |
 | Math Numeric Scientific | 89 | [math_numeric_scientific](by-category/math-numeric-scientific.md) |
 | Memory Analyzer | 98 | [memory_analyzer](by-category/memory-analyzer.md) |
 | Message Broker | 40 | [message_broker](by-category/message-broker.md) |
 | Networking Http | 1053 | [networking_http](by-category/networking-http.md) |
 | Other | 14 | [other](by-category/other.md) |
 | Package Manager | 443 | [package_manager](by-category/package-manager.md) |
-| Parser Lexer Ast | 1207 | [parser_lexer_ast](by-category/parser-lexer-ast.md) |
+| Parser Lexer Ast | 1208 | [parser_lexer_ast](by-category/parser-lexer-ast.md) |
 | Precommit Ci Quality | 310 | [precommit_ci_quality](by-category/precommit-ci-quality.md) |
 | Profiler | 90 | [profiler](by-category/profiler.md) |
 | Project Scaffolding | 138 | [project_scaffolding](by-category/project-scaffolding.md) |
@@ -174,8 +174,8 @@ Generated: `2026-09-08T17:22:30+00:00`
 | Node.js/JavaScript | 2347 | 77 |
 | Node.js/TypeScript | 349 | 40 |
 | Lua family | 0 | 1937 |
-| R | 1808 | 0 |
-| Haskell | 1512 | 12 |
+| R | 1815 | 0 |
+| Haskell | 1513 | 12 |
 | Matlab | 0 | 287 |
 | Octave | 140 | 1 |
 | C-Sharp | 150 | 0 |

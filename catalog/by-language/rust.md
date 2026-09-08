@@ -12,15 +12,15 @@ Records: `2183`
 [Benchmarking (202)](../by-category/benchmarking.md) · [Build System (999)](../by-category/build-system.md) · [Cli (570)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (52)](../by-category/compression.md)
 [Concurrency Parallelism (93)](../by-category/concurrency-parallelism.md) · [Configuration (132)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (177)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (969)](../by-category/database-datastore.md) · [Datetime (234)](../by-category/datetime.md)
+[Cryptography (177)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (969)](../by-category/database-datastore.md) · [Datetime (235)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (104)](../by-category/dependency-manager.md) · [Documentation (109)](../by-category/documentation.md)
-[Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (464)](../by-category/ffi-bindings.md) · [Filesystem Os (1615)](../by-category/filesystem-os.md) · [Formatter (652)](../by-category/formatter.md)
+[Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (464)](../by-category/ffi-bindings.md) · [Filesystem Os (1616)](../by-category/filesystem-os.md) · [Formatter (652)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (58)](../by-category/fuzzer.md) · [Game Engine Game Dev (358)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1475)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (275)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (30)](../by-category/language-server.md) · [Language Specification (1450)](../by-category/language-specification.md) · [Library (5760)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (531)](../by-category/logging-observability.md) · [Machine Learning (808)](../by-category/machine-learning.md)
+[Language Server (30)](../by-category/language-server.md) · [Language Specification (1450)](../by-category/language-specification.md) · [Library (5763)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (531)](../by-category/logging-observability.md) · [Machine Learning (810)](../by-category/machine-learning.md)
 [Math Numeric Scientific (89)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (98)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1053)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (443)](../by-category/package-manager.md) · [Parser Lexer Ast (1207)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (310)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (443)](../by-category/package-manager.md) · [Parser Lexer Ast (1208)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (310)](../by-category/precommit-ci-quality.md)
 [Profiler (90)](../by-category/profiler.md) · [Project Scaffolding (138)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (337)](../by-category/security-sast.md) · [Serialization (400)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (632)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (619)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (68)](../by-category/tutorial-book-styleguide.md) · [Type Checker (314)](../by-category/type-checker.md)
@@ -1079,7 +1079,7 @@ Records: `2183`
 | [gix-worktree](../records/rust-gix-worktree-f167829f.md) | 0.56.0 | 2026-08-22T19:03:06.005629Z | crates_io |
 | [gix-worktree-state](../records/rust-gix-worktree-state-4b0d1b99.md) | 0.34.1 | 2026-08-24T13:58:19.268992Z | crates_io |
 | [glutin](../records/rust-glutin-eb29fcc7.md) | 0.32.3 | 2025-04-30T11:33:39.726207Z | crates_io |
-| [hybrid-array](../records/rust-hybrid-array-a6f248d9.md) | 0.4.14 | 2026-07-30T16:40:03.901575Z | registry-derived |
+| [hybrid-array](../records/rust-hybrid-array-a6f248d9.md) | 0.4.15 | 2026-09-08T18:21:39.618460Z | registry-derived |
 | [icu_provider](../records/rust-icu-provider-b6f8a44c.md) | 2.3.1 | 2026-08-20T23:25:32.095205Z | registry-derived |
 | [icu_provider_macros](../records/rust-icu-provider-macros-b89ec961.md) | 1.5.0 | 2024-11-23T02:04:22.406783Z | registry-derived |
 | [imgref](../records/rust-imgref-307281ba.md) | 1.12.3 | 2026-08-26T16:59:29.900111Z | crates_io |
@@ -2173,7 +2173,7 @@ Records: `2183`
 | [yaml-rust](../records/rust-yaml-rust-5b349485.md) | 0.4.5 | 2021-01-03T19:58:30.295058Z | registry-derived |
 | [yaml-rust2](../records/rust-yaml-rust2-fae38726.md) | 0.12.0 | 2026-08-18T08:40:23.618098Z | registry-derived |
 | [yamux](../records/rust-yamux-67fc6d70.md) | 0.14.0 | 2026-06-20T14:16:47.283089Z | crates_io |
-| [zune-jpeg](../records/rust-zune-jpeg-14463748.md) | 0.5.15 | 2026-08-07T17:23:25.424486Z | registry-derived |
+| [zune-jpeg](../records/rust-zune-jpeg-14463748.md) | 0.5.15 | 2026-09-08T16:56:45.297862Z | registry-derived |
 
 ### Precommit Ci Quality
 
