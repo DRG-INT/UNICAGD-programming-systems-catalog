@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-08T02:23:40+00:00`
+Generated: `2026-09-08T03:24:54+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -13,14 +13,14 @@ Generated: `2026-09-08T02:23:40+00:00`
 [Cryptography (177)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (897)](by-category/database-datastore.md) · [Datetime (234)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (102)](by-category/dependency-manager.md) · [Documentation (107)](by-category/documentation.md)
 [Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (457)](by-category/ffi-bindings.md) · [Filesystem Os (1611)](by-category/filesystem-os.md) · [Formatter (648)](by-category/formatter.md)
-[Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (356)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1464)](by-category/ide-editor-integration.md)
+[Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (356)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1465)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (273)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
 [Language Server (30)](by-category/language-server.md) · [Language Specification (1441)](by-category/language-specification.md) · [Library (5732)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (530)](by-category/logging-observability.md) · [Machine Learning (796)](by-category/machine-learning.md)
 [Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1042)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1195)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (309)](by-category/precommit-ci-quality.md)
 [Profiler (87)](by-category/profiler.md) · [Project Scaffolding (133)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
-[Security Sast (336)](by-category/security-sast.md) · [Serialization (400)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (623)](by-category/static-analyzer.md)
+[Security Sast (336)](by-category/security-sast.md) · [Serialization (400)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (624)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (607)](by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](by-category/tutorial-book-styleguide.md) · [Type Checker (313)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1619)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (560)](by-category/visualization-gui.md) · [Web Framework (478)](by-category/web-framework.md)
 
@@ -28,7 +28,7 @@ Generated: `2026-09-08T02:23:40+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10287 |
+| Known stable release | 10289 |
 | Unknown stable release | 17345 |
 
 ## Newest Known Stable Metadata
@@ -37,6 +37,8 @@ Generated: `2026-09-08T02:23:40+00:00`
 | --- | --- | --- | --- | --- | --- |
 | trybuild | Rust | Compiler | 1.0.121 | 2026-09-08T01:08:27.868066Z | [open](records/rust-trybuild-d6eb5144.md) |
 | ffigen | Dart | Compiler | 22.0.0 | 2026-09-08T00:21:22.816889Z | [open](records/dart-ffigen-8dcba7ed.md) |
+| glmmEP | R | Static Analyzer | 1.0-4 | 2026-09-08 02:50:02 UTC | [open](records/r-glmmep-cccc90e0.md) |
+| bpAcc | R | Ide Editor Integration | 0.0-3 | 2026-09-08 02:40:02 UTC | [open](records/r-bpacc-8fc81132.md) |
 | @fragment-dev/cli | Node.js/JavaScript | Cli | 2026.9.7-6 | 2026-09-07T23:50:18.558Z | [open](records/node-js-javascript-fragment-dev-cli-b4d175cf.md) |
 | @lightdash/cli | Node.js/JavaScript | Cli | 2.150.0 | 2026-09-07T23:45:29.371Z | [open](records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.113.23 | 2026-09-07T23:20:12.053Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
@@ -283,8 +285,6 @@ Generated: `2026-09-08T02:23:40+00:00`
 | knitr | R | Filesystem Os | 1.52 | 2026-09-06 19:10:02 UTC | [open](records/r-knitr-697ca8de.md) |
 | mboost | R | Filesystem Os | 2.9-14 | 2026-09-06 19:00:02 UTC | [open](records/r-mboost-b0990d76.md) |
 | ssutil | R | Library | 1.1.0 | 2026-09-06 17:40:02 UTC | [open](records/r-ssutil-e9aa52d7.md) |
-| SDPDmod | R | Library | 0.0.8 | 2026-09-06 17:20:02 UTC | [open](records/r-sdpdmod-930bfd17.md) |
-| SVEMnet | R | Parser Lexer Ast | 3.6.0 | 2026-09-06 16:40:02 UTC | [open](records/r-svemnet-ae1ee860.md) |
 
 ## Unknown Reasons
 
