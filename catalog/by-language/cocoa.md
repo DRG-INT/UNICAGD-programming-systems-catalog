@@ -9,21 +9,21 @@ Records: `349`
 ## Category Index
 
 [Api Abi Checker (222)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (136)](../by-category/async-runtime.md)
-[Benchmarking (200)](../by-category/benchmarking.md) · [Build System (995)](../by-category/build-system.md) · [Cli (567)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (200)](../by-category/benchmarking.md) · [Build System (995)](../by-category/build-system.md) · [Cli (568)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (52)](../by-category/compression.md)
 [Concurrency Parallelism (93)](../by-category/concurrency-parallelism.md) · [Configuration (132)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (177)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (899)](../by-category/database-datastore.md) · [Datetime (234)](../by-category/datetime.md)
+[Cryptography (177)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (901)](../by-category/database-datastore.md) · [Datetime (234)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (103)](../by-category/dependency-manager.md) · [Documentation (107)](../by-category/documentation.md)
-[Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (457)](../by-category/ffi-bindings.md) · [Filesystem Os (1612)](../by-category/filesystem-os.md) · [Formatter (648)](../by-category/formatter.md)
+[Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (457)](../by-category/ffi-bindings.md) · [Filesystem Os (1613)](../by-category/filesystem-os.md) · [Formatter (648)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (57)](../by-category/fuzzer.md) · [Game Engine Game Dev (357)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1465)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (273)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
 [Language Server (30)](../by-category/language-server.md) · [Language Specification (1441)](../by-category/language-specification.md) · [Library (5740)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (530)](../by-category/logging-observability.md) · [Machine Learning (796)](../by-category/machine-learning.md)
+[Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (530)](../by-category/logging-observability.md) · [Machine Learning (797)](../by-category/machine-learning.md)
 [Math Numeric Scientific (88)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1042)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1195)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (309)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (442)](../by-category/package-manager.md) · [Parser Lexer Ast (1196)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (309)](../by-category/precommit-ci-quality.md)
 [Profiler (87)](../by-category/profiler.md) · [Project Scaffolding (134)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
-[Security Sast (336)](../by-category/security-sast.md) · [Serialization (400)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (627)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (608)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (67)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)
+[Security Sast (336)](../by-category/security-sast.md) · [Serialization (400)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (629)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (610)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (68)](../by-category/tutorial-book-styleguide.md) · [Type Checker (313)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1619)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (560)](../by-category/visualization-gui.md) · [Web Framework (478)](../by-category/web-framework.md)
 
 ## Categories
@@ -282,7 +282,7 @@ Records: `349`
 | [CoderMJLee/MJRefresh](../records/cocoa-codermjlee-mjrefresh-e29defdf.md) | partial | 2025-11-11T04:44:40Z | registry-derived |
 | [CodeTips/BaiduNetdiskPlugin-macOS](../records/cocoa-codetips-baidunetdiskplugin-macos-0aae58e0.md) | partial | 2020-10-17T13:18:17Z | registry-derived |
 | [DanTheMan827/ios-app-signer](../records/cocoa-dantheman827-ios-app-signer-937ba434.md) | partial | 2025-09-01T00:42:47Z | registry-derived |
-| [darlinghq/darling](../records/cocoa-darlinghq-darling-9b55f88b.md) | partial | 2026-08-30T23:42:36Z | registry-derived |
+| [darlinghq/darling](../records/cocoa-darlinghq-darling-9b55f88b.md) | partial | 2026-09-06T18:24:21Z | registry-derived |
 | [draveness/analyze](../records/cocoa-draveness-analyze-6668f62d.md) | partial | 2021-11-14T19:00:39Z | registry-derived |
 | [dzenbot/DZNEmptyDataSet](../records/cocoa-dzenbot-dznemptydataset-f1b09f50.md) | partial | 2022-07-06T08:08:53Z | registry-derived |
 | [eczarny/spectacle](../records/cocoa-eczarny-spectacle-0492e732.md) | partial | 2022-01-15T17:32:42Z | registry-derived |
@@ -296,7 +296,7 @@ Records: `349`
 | [Flipboard/FLAnimatedImage](../records/cocoa-flipboard-flanimatedimage-90bc1366.md) | partial | 2024-03-21T10:45:04Z | registry-derived |
 | [forkingdog/UITableView-FDTemplateLayoutCell](../records/cocoa-forkingdog-uitableview-fdtemplatelayoutcell-6b678344.md) | partial | 2022-03-07T10:01:30Z | registry-derived |
 | [git-up/GitUp](../records/cocoa-git-up-gitup-23c60c2c.md) | partial | 2026-07-27T00:05:17Z | registry-derived |
-| [gnachman/iTerm2](../records/cocoa-gnachman-iterm2-9538d898.md) | partial | 2026-09-05T11:40:15Z | registry-derived |
+| [gnachman/iTerm2](../records/cocoa-gnachman-iterm2-9538d898.md) | partial | 2026-09-08T00:00:35Z | registry-derived |
 | [griddynamics-archive/MMDrawerController](../records/cocoa-griddynamics-archive-mmdrawercontroller-e3f9497c.md) | partial | 2023-01-09T00:03:46Z | registry-derived |
 | [Grouper/FlatUIKit](../records/cocoa-grouper-flatuikit-59352f43.md) | partial | 2016-09-29T04:08:55Z | registry-derived |
 | [gsdios/SDCycleScrollView](../records/cocoa-gsdios-sdcyclescrollview-c51a97c6.md) | partial | 2023-04-21T10:20:47Z | registry-derived |
@@ -307,7 +307,7 @@ Records: `349`
 | [IFTTT/JazzHands](../records/cocoa-ifttt-jazzhands-0b68b0d3.md) | partial | 2024-07-30T13:01:27Z | registry-derived |
 | [Instagram/IGListKit](../records/cocoa-instagram-iglistkit-5a8b8899.md) | partial | 2026-08-19T23:51:03Z | registry-derived |
 | [ivpusic/react-native-image-crop-picker](../records/cocoa-ivpusic-react-native-image-crop-picker-5706e267.md) | partial | 2026-01-21T23:31:48Z | registry-derived |
-| [JackJiang2011/MobileIMSDK](../records/cocoa-jackjiang2011-mobileimsdk-21e38af1.md) | partial | 2026-09-03T03:39:57Z | registry-derived |
+| [JackJiang2011/MobileIMSDK](../records/cocoa-jackjiang2011-mobileimsdk-21e38af1.md) | partial | 2026-09-07T02:53:49Z | registry-derived |
 | [jdg/MBProgressHUD](../records/cocoa-jdg-mbprogresshud-e13b5233.md) | partial | 2024-08-14T01:48:59Z | registry-derived |
 | [jessesquires/JSQMessagesViewController](../records/cocoa-jessesquires-jsqmessagesviewcontroller-0b0cd6da.md) | partial | 2018-12-12T10:45:39Z | registry-derived |
 | [jigish/slate](../records/cocoa-jigish-slate-c8b67798.md) | partial | 2022-06-23T09:17:42Z | registry-derived |
@@ -320,9 +320,9 @@ Records: `349`
 | [kanyun-inc/YTKNetwork](../records/cocoa-kanyun-inc-ytknetwork-0c91459e.md) | partial | 2021-04-22T09:05:44Z | registry-derived |
 | [Kapeli/Dash-iOS](../records/cocoa-kapeli-dash-ios-15c43f53.md) | partial | 2021-03-28T15:29:00Z | registry-derived |
 | [kevinzhow/PNChart](../records/cocoa-kevinzhow-pnchart-54cc5076.md) | partial | 2018-07-02T12:43:03Z | registry-derived |
-| [keycastr/keycastr](../records/cocoa-keycastr-keycastr-f4c776a3.md) | partial | 2026-08-27T01:45:26Z | registry-derived |
+| [keycastr/keycastr](../records/cocoa-keycastr-keycastr-f4c776a3.md) | partial | 2026-09-07T01:54:48Z | registry-derived |
 | [kif-framework/KIF](../records/cocoa-kif-framework-kif-983fdaec.md) | partial | 2026-08-13T19:07:32Z | registry-derived |
-| [MacPass/MacPass](../records/cocoa-macpass-macpass-b594f725.md) | partial | 2026-09-03T09:56:02Z | registry-derived |
+| [MacPass/MacPass](../records/cocoa-macpass-macpass-b594f725.md) | partial | 2026-09-04T12:34:27Z | registry-derived |
 | [maderix/ANE](../records/cocoa-maderix-ane-b1a3f117.md) | partial | 2026-03-10T10:21:05Z | registry-derived |
 | [magicalpanda/MagicalRecord](../records/cocoa-magicalpanda-magicalrecord-9ce38694.md) | partial | 2021-04-27T16:21:19Z | registry-derived |
 | [mamaral/Onboard](../records/cocoa-mamaral-onboard-216067d1.md) | partial | 2025-01-01T20:58:29Z | registry-derived |
@@ -334,7 +334,7 @@ Records: `349`
 | [mwaterfall/MWPhotoBrowser](../records/cocoa-mwaterfall-mwphotobrowser-b9b1cbd9.md) | partial | 2024-06-27T12:38:19Z | registry-derived |
 | [newmarcel/KeepingYouAwake](../records/cocoa-newmarcel-keepingyouawake-64ecaad8.md) | partial | 2026-08-15T11:38:08Z | registry-derived |
 | [nicklockwood/iCarousel](../records/cocoa-nicklockwood-icarousel-4e5bb6d2.md) | partial | 2024-06-27T05:43:24Z | registry-derived |
-| [noah-nuebling/mac-mouse-fix](../records/cocoa-noah-nuebling-mac-mouse-fix-29ebd47b.md) | partial | 2026-09-03T15:23:18Z | registry-derived |
+| [noah-nuebling/mac-mouse-fix](../records/cocoa-noah-nuebling-mac-mouse-fix-29ebd47b.md) | partial | 2026-09-07T15:37:30Z | registry-derived |
 | [noodlewerk/NWPusher](../records/cocoa-noodlewerk-nwpusher-3f230ebd.md) | partial | 2021-03-30T07:00:58Z | registry-derived |
 | [nst/iOS-Runtime-Headers](../records/cocoa-nst-ios-runtime-headers-c5f4b32c.md) | partial | 2022-05-17T07:06:03Z | registry-derived |
 | [objective-see/LuLu](../records/cocoa-objective-see-lulu-3b9c439d.md) | partial | 2026-08-05T16:19:32Z | registry-derived |
@@ -349,12 +349,12 @@ Records: `349`
 | [robbiehanson/CocoaAsyncSocket](../records/cocoa-robbiehanson-cocoaasyncsocket-0e321e74.md) | partial | 2026-08-30T00:44:15Z | registry-derived |
 | [romaonthego/RESideMenu](../records/cocoa-romaonthego-residemenu-f9a6dd3c.md) | partial | 2017-12-05T17:29:00Z | registry-derived |
 | [SDWebImage/SDWebImage](../records/cocoa-sdwebimage-sdwebimage-5e8d08bc.md) | partial | 2026-04-15T03:36:16Z | registry-derived |
-| [Sequel-Ace/Sequel-Ace](../records/cocoa-sequel-ace-sequel-ace-37545a87.md) | partial | 2026-09-03T17:25:19Z | registry-derived |
+| [Sequel-Ace/Sequel-Ace](../records/cocoa-sequel-ace-sequel-ace-37545a87.md) | partial | 2026-09-07T11:58:11Z | registry-derived |
 | [sequelpro/sequelpro](../records/cocoa-sequelpro-sequelpro-3ee4a6ac.md) | partial | 2023-02-25T08:11:30Z | registry-derived |
 | [shadowsocks/shadowsocks-iOS](../records/cocoa-shadowsocks-shadowsocks-ios-4396d460.md) | partial | 2022-05-17T06:55:42Z | registry-derived |
 | [slackhq/SlackTextViewController](../records/cocoa-slackhq-slacktextviewcontroller-f22ebae7.md) | partial | 2018-10-29T18:56:03Z | registry-derived |
 | [SnapKit/Masonry](../records/cocoa-snapkit-masonry-0fcd35d3.md) | partial | 2023-04-13T18:23:56Z | registry-derived |
-| [sparkle-project/Sparkle](../records/cocoa-sparkle-project-sparkle-113ca5f5.md) | partial | 2026-08-29T04:16:31Z | registry-derived |
+| [sparkle-project/Sparkle](../records/cocoa-sparkle-project-sparkle-113ca5f5.md) | partial | 2026-09-07T19:59:54Z | registry-derived |
 | [steipete/Aspects](../records/cocoa-steipete-aspects-881b863d.md) | partial | 2025-11-25T13:09:18Z | registry-derived |
 | [sveinbjornt/Sloth](../records/cocoa-sveinbjornt-sloth-f4d1b7d5.md) | partial | 2026-08-30T10:31:22Z | registry-derived |
 | [SVProgressHUD/SVProgressHUD](../records/cocoa-svprogresshud-svprogresshud-528242cc.md) | partial | 2026-02-27T17:42:19Z | registry-derived |

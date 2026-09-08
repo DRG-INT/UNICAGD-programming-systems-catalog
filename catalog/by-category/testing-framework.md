@@ -1,6 +1,6 @@
 # Testing Framework
 
-Records: `608`
+Records: `610`
 
 ## Navigation
 
@@ -9,21 +9,21 @@ Records: `608`
 ## Category Index
 
 [Api Abi Checker (222)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (200)](benchmarking.md) · [Build System (995)](build-system.md) · [Cli (567)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (200)](benchmarking.md) · [Build System (995)](build-system.md) · [Cli (568)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
 [Concurrency Parallelism (93)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (899)](database-datastore.md) · [Datetime (234)](datetime.md)
+[Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (901)](database-datastore.md) · [Datetime (234)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (103)](dependency-manager.md) · [Documentation (107)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1612)](filesystem-os.md) · [Formatter (648)](formatter.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1613)](filesystem-os.md) · [Formatter (648)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (357)](game-engine-game-dev.md) · [Ide Editor Integration (1465)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (30)](language-server.md) · [Language Specification (1441)](language-specification.md) · [Library (5740)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (796)](machine-learning.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (797)](machine-learning.md)
 [Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1042)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1195)](parser-lexer-ast.md) · [Precommit Ci Quality (309)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1196)](parser-lexer-ast.md) · [Precommit Ci Quality (309)](precommit-ci-quality.md)
 [Profiler (87)](profiler.md) · [Project Scaffolding (134)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (627)](static-analyzer.md)
-[Templating (2)](templating.md) · **[Testing Framework (608)](testing-framework.md)** · [Tutorial Book Styleguide (67)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
+[Security Sast (336)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (629)](static-analyzer.md)
+[Templating (2)](templating.md) · **[Testing Framework (610)](testing-framework.md)** · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
 [Undefined Behavior Analyzer (1619)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (560)](visualization-gui.md) · [Web Framework (478)](web-framework.md)
 
 ## C99
@@ -195,7 +195,7 @@ Records: `608`
 | @node-oauth/oauth2-server | 5.3.0 | 2026-04-15T05:45:58.243Z | [open](../records/node-js-javascript-node-oauth-oauth2-server-9e045210.md) |
 | @noma.to/qwik-testing-library | 1.6.0 | 2026-04-12T12:49:16.681Z | [open](../records/node-js-javascript-noma-to-qwik-testing-library-18e65cdf.md) |
 | @nomicfoundation/hardhat-chai-matchers | 3.0.0 | 2026-02-26T15:51:25.450Z | [open](../records/node-js-javascript-nomicfoundation-hardhat-chai-matchers-b44b57e3.md) |
-| @octanejs/testing-library | 0.1.48 | 2026-09-01T14:40:21.400Z | [open](../records/node-js-javascript-octanejs-testing-library-4634f05b.md) |
+| @octanejs/testing-library | 0.1.51 | 2026-09-06T23:56:14.647Z | [open](../records/node-js-javascript-octanejs-testing-library-4634f05b.md) |
 | @open-wc/testing | 5.0.0 | 2026-07-13T14:04:51.726Z | [open](../records/node-js-javascript-open-wc-testing-fb31caab.md) |
 | @open-wc/testing-helpers | 3.0.1 | 2024-04-23T15:31:03.343Z | [open](../records/node-js-javascript-open-wc-testing-helpers-c5380725.md) |
 | @open-wc/testing-karma | 4.0.9 | 2020-10-11T20:09:20.345Z | [open](../records/node-js-javascript-open-wc-testing-karma-46b98496.md) |
@@ -447,6 +447,7 @@ Records: `608`
 | GFisher | 0.2.1 | 2026-08-24 18:30:20 UTC | [open](../records/r-gfisher-1b52db05.md) |
 | gofLorenz | 0.1.0 | 2026-08-09 08:20:02 UTC | [open](../records/r-goflorenz-b5c594da.md) |
 | gofPHCS | 0.1.0 | 2026-08-04 14:00:02 UTC | [open](../records/r-gofphcs-cf013f64.md) |
+| groupTesting | 1.3.1 | 2026-09-08 07:00:02 UTC | [open](../records/r-grouptesting-dc25c1ad.md) |
 | gtDesign | 0.1.1 | 2026-09-02 07:10:16 UTC | [open](../records/r-gtdesign-4e0ecad7.md) |
 | HausdorffGoF | 0.3.1 | 2026-08-24 09:20:20 UTC | [open](../records/r-hausdorffgof-96abce86.md) |
 | heplots | 1.8.4 | 2026-08-23 16:20:02 UTC | [open](../records/r-heplots-473326f2.md) |
@@ -474,6 +475,7 @@ Records: `608`
 | steinsampling | 0.1.2 | 2026-09-07 16:50:02 UTC | [open](../records/r-steinsampling-3d9775d1.md) |
 | strucchange | 1.6-0 | 2026-08-04 10:30:02 UTC | [open](../records/r-strucchange-310533f6.md) |
 | TCpRepDesigns | 0.0.2 | 2026-08-20 11:52:04 UTC | [open](../records/r-tcprepdesigns-acaa75b6.md) |
+| TestDesign | 1.7.1 | 2026-09-08 07:10:03 UTC | [open](../records/r-testdesign-04aa29ed.md) |
 | testflow | 1.0.0 | 2026-08-22 00:50:02 UTC | [open](../records/r-testflow-5fadd576.md) |
 | testit | 1.1.2 | 2026-09-04 05:10:09 UTC | [open](../records/r-testit-e0e233bb.md) |
 | TH | 1.0.0 | 2026-08-06 13:50:20 UTC | [open](../records/r-th-6c0bb6f6.md) |
@@ -609,7 +611,7 @@ Records: `608`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | SerhiiStets/skylab | partial | 2024-02-11T16:25:15Z | [open](../records/space-engines-serhiistets-skylab-92c5740a.md) |
-| TheSpaceDevs/spaceflightnewsapi | partial | 2026-08-25T06:09:05Z | [open](../records/space-engines-thespacedevs-spaceflightnewsapi-044e3573.md) |
+| TheSpaceDevs/spaceflightnewsapi | partial | 2026-09-08T06:04:47Z | [open](../records/space-engines-thespacedevs-spaceflightnewsapi-044e3573.md) |
 
 ## Space Maps
 
@@ -833,10 +835,10 @@ Records: `608`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | datopian/r2-bucket-uploader | partial | 2025-04-19T05:32:39Z | [open](../records/databases-datopian-r2-bucket-uploader-a0c1456a.md) |
-| invertase/react-native-firebase | partial | 2026-09-05T04:37:17Z | [open](../records/databases-invertase-react-native-firebase-bdf40bbb.md) |
+| invertase/react-native-firebase | partial | 2026-09-08T03:43:24Z | [open](../records/databases-invertase-react-native-firebase-bdf40bbb.md) |
 | long2ice/asyncmy | partial | 2026-08-16T04:11:12Z | [open](../records/databases-long2ice-asyncmy-537bc784.md) |
 | marsupilami79/zeoslib | partial | 2026-09-01T05:51:54Z | [open](../records/databases-marsupilami79-zeoslib-f93693d1.md) |
-| netdata/netdata | partial | 2026-09-07T08:22:56Z | [open](../records/databases-netdata-netdata-c3fa5bcb.md) |
+| netdata/netdata | partial | 2026-09-08T07:31:10Z | [open](../records/databases-netdata-netdata-c3fa5bcb.md) |
 | weavejester/ragtime | partial | 2025-09-23T14:39:42Z | [open](../records/databases-weavejester-ragtime-b149a386.md) |
 
 ## Repository Workplaces
