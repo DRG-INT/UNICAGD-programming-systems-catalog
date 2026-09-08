@@ -1,6 +1,6 @@
 # Networking Http
 
-Records: `1052`
+Records: `1053`
 
 ## Navigation
 
@@ -8,22 +8,22 @@ Records: `1052`
 
 ## Category Index
 
-[Api Abi Checker (222)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Api Abi Checker (224)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (202)](benchmarking.md) · [Build System (999)](build-system.md) · [Cli (570)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
 [Concurrency Parallelism (93)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (969)](database-datastore.md) · [Datetime (234)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (104)](dependency-manager.md) · [Documentation (109)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (462)](ffi-bindings.md) · [Filesystem Os (1614)](filesystem-os.md) · [Formatter (651)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1473)](ide-editor-integration.md)
-[Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (274)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1448)](language-specification.md) · [Library (5750)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (799)](machine-learning.md)
-[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (98)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1052)](networking-http.md)**
-[Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1205)](parser-lexer-ast.md) · [Precommit Ci Quality (310)](precommit-ci-quality.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (464)](ffi-bindings.md) · [Filesystem Os (1614)](filesystem-os.md) · [Formatter (651)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1474)](ide-editor-integration.md)
+[Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (275)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
+[Language Server (30)](language-server.md) · [Language Specification (1450)](language-specification.md) · [Library (5760)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (802)](machine-learning.md)
+[Math Numeric Scientific (89)](math-numeric-scientific.md) · [Memory Analyzer (98)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1053)](networking-http.md)**
+[Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1207)](parser-lexer-ast.md) · [Precommit Ci Quality (310)](precommit-ci-quality.md)
 [Profiler (89)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (631)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (617)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (314)](type-checker.md)
+[Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (632)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (618)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (314)](type-checker.md)
 [Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (488)](web-framework.md)
 
 ## C99
@@ -606,6 +606,7 @@ Records: `1052`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| AIGENIE | 2.1.2 | 2026-09-08 13:50:09 UTC | [open](../records/r-aigenie-ec28de5c.md) |
 | bbk | 0.13.0 | 2026-08-28 13:30:16 UTC | [open](../records/r-bbk-04eaa929.md) |
 | BBNI | 0.2.2 | 2026-08-19 19:20:12 UTC | [open](../records/r-bbni-df3b78d7.md) |
 | biohttp | 0.1.2 | 2026-09-03 11:50:41 UTC | [open](../records/r-biohttp-77935237.md) |
@@ -733,7 +734,7 @@ Records: `1052`
 | --- | --- | --- | --- |
 | blur | 4.0.2 | 2025-04-06T20:37:10.612759Z | [open](../records/dart-blur-5bf1c763.md) |
 | cached_network_image | 4.0.0 | 2026-08-28T13:04:59.680229Z | [open](../records/dart-cached-network-image-69772a62.md) |
-| cached_network_image_ce | 4.11.0 | 2026-09-08T12:08:49.769141Z | [open](../records/dart-cached-network-image-ce-8b00ba24.md) |
+| cached_network_image_ce | 4.11.1 | 2026-09-08T14:01:57.316025Z | [open](../records/dart-cached-network-image-ce-8b00ba24.md) |
 | chopper | 8.7.0 | 2026-07-15T17:05:31.557410Z | [open](../records/dart-chopper-2b118141.md) |
 | connectivity_plus | 7.3.1 | 2026-07-23T21:33:03.771147Z | [open](../records/dart-connectivity-plus-b6bb009b.md) |
 | cookie_jar | 4.0.9 | 2026-02-27T15:36:18.001514Z | [open](../records/dart-cookie-jar-15d415a7.md) |
@@ -1252,15 +1253,15 @@ Records: `1052`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AFNetworking | 4.0.1 | 2020-04-20 02:25:51 UTC | [open](../records/cocoa-afnetworking-c33f66f5.md) |
-| Alamofire/Alamofire | unknown | not_a_cocoapods_name | [open](../records/cocoa-alamofire-alamofire-e2b01e1d.md) |
-| ChangbaDevs/KTVHTTPCache | unknown | not_a_cocoapods_name | [open](../records/cocoa-changbadevs-ktvhttpcache-542d5edc.md) |
-| ChiliLabs/CHIPageControl | unknown | not_a_cocoapods_name | [open](../records/cocoa-chililabs-chipagecontrol-cbd520fb.md) |
-| dustturtle/RealReachability | unknown | not_a_cocoapods_name | [open](../records/cocoa-dustturtle-realreachability-89a5cfc6.md) |
-| emqx/CocoaMQTT | unknown | not_a_cocoapods_name | [open](../records/cocoa-emqx-cocoamqtt-ef5d936b.md) |
-| jkpang/PPNetworkHelper | unknown | not_a_cocoapods_name | [open](../records/cocoa-jkpang-ppnetworkhelper-8c57f6f7.md) |
-| neilalexander/seaglass | unknown | not_a_cocoapods_name | [open](../records/cocoa-neilalexander-seaglass-fe29ac21.md) |
-| strongbox-password-safe/Strongbox | unknown | not_a_cocoapods_name | [open](../records/cocoa-strongbox-password-safe-strongbox-2b9fd84c.md) |
-| thecatalinstan/Criollo | unknown | not_a_cocoapods_name | [open](../records/cocoa-thecatalinstan-criollo-2759b788.md) |
+| Alamofire/Alamofire | partial | 2026-09-08T07:35:25Z | [open](../records/cocoa-alamofire-alamofire-e2b01e1d.md) |
+| ChangbaDevs/KTVHTTPCache | partial | 2025-09-04T06:54:40Z | [open](../records/cocoa-changbadevs-ktvhttpcache-542d5edc.md) |
+| ChiliLabs/CHIPageControl | partial | 2023-05-22T02:43:41Z | [open](../records/cocoa-chililabs-chipagecontrol-cbd520fb.md) |
+| dustturtle/RealReachability | partial | 2026-04-29T06:58:35Z | [open](../records/cocoa-dustturtle-realreachability-89a5cfc6.md) |
+| emqx/CocoaMQTT | partial | 2026-09-08T07:01:58Z | [open](../records/cocoa-emqx-cocoamqtt-ef5d936b.md) |
+| jkpang/PPNetworkHelper | partial | 2018-12-14T03:53:44Z | [open](../records/cocoa-jkpang-ppnetworkhelper-8c57f6f7.md) |
+| neilalexander/seaglass | partial | 2021-09-20T13:46:51Z | [open](../records/cocoa-neilalexander-seaglass-fe29ac21.md) |
+| strongbox-password-safe/Strongbox | partial | 2026-07-17T14:03:41Z | [open](../records/cocoa-strongbox-password-safe-strongbox-2b9fd84c.md) |
+| thecatalinstan/Criollo | partial | 2022-09-20T21:52:51Z | [open](../records/cocoa-thecatalinstan-criollo-2759b788.md) |
 
 ## Databases
 
@@ -1276,7 +1277,7 @@ Records: `1052`
 | ClickHouse/clickhouse-java | partial | 2026-09-06T22:02:03Z | [open](../records/databases-clickhouse-clickhouse-java-55cf8dd6.md) |
 | crate/crate-python | partial | 2026-09-08T11:03:19Z | [open](../records/databases-crate-crate-python-62348f26.md) |
 | DataRow | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-datarow-011db1d2.md) |
-| dbeaver/dbeaver | partial | 2026-09-08T12:47:12Z | [open](../records/databases-dbeaver-dbeaver-fdc61e8a.md) |
+| dbeaver/dbeaver | partial | 2026-09-08T13:47:59Z | [open](../records/databases-dbeaver-dbeaver-fdc61e8a.md) |
 | dbkangaroo/kangaroo | partial | 2026-09-05T08:10:39Z | [open](../records/databases-dbkangaroo-kangaroo-cb5596c5.md) |
 | DbVisualizer | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-dbvisualizer-dbc48ffe.md) |
 | deuxfleurs-org/garage | partial | 2026-09-08T08:45:07Z | [open](../records/databases-deuxfleurs-org-garage-0a48bdf5.md) |
@@ -1303,7 +1304,7 @@ Records: `1052`
 | sosedoff/pgweb | partial | 2026-07-26T22:30:33Z | [open](../records/databases-sosedoff-pgweb-64d0c3b3.md) |
 | sourcenetwork/defradb | partial | 2026-09-07T09:30:49Z | [open](../records/databases-sourcenetwork-defradb-6d319ed1.md) |
 | svenvc/P3 | partial | 2025-11-29T19:22:10Z | [open](../records/databases-svenvc-p3-2c71a4dc.md) |
-| t8y2/dbx | partial | 2026-09-08T13:12:16Z | [open](../records/databases-t8y2-dbx-97368a4a.md) |
+| t8y2/dbx | partial | 2026-09-08T14:05:17Z | [open](../records/databases-t8y2-dbx-97368a4a.md) |
 | TableProApp/TablePro | partial | 2026-09-08T11:54:47Z | [open](../records/databases-tableproapp-tablepro-d427a820.md) |
 | vogler75/automation-gateway | partial | 2026-04-07T11:56:50Z | [open](../records/databases-vogler75-automation-gateway-85135ca2.md) |
 | YoEight/eventstore | partial | 2021-12-22T00:35:49Z | [open](../records/databases-yoeight-eventstore-299fec75.md) |
@@ -1312,7 +1313,7 @@ Records: `1052`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| dalibo/pg_migrate | partial | 2026-09-07T07:39:29.237Z | [open](../records/repository-workplaces-dalibo-pg-migrate-f66a654f.md) |
+| dalibo/pg_migrate | partial | 2026-09-08T13:57:09.266Z | [open](../records/repository-workplaces-dalibo-pg-migrate-f66a654f.md) |
 | Gitea: AaronFiore/btcpayserver-docker | partial | 2026-08-27T21:27:13Z | [open](../records/repository-workplaces-gitea-aaronfiore-btcpayserver-docker-65536044.md) |
 | Gitea: ks2515/codecrafters-http-server-go | partial | 2024-06-28T05:27:11Z | [open](../records/repository-workplaces-gitea-ks2515-codecrafters-http-server-go-a645fafb.md) |
 | Gitea: Opsdff/RiviLib | partial | 2026-07-10T13:49:56Z | [open](../records/repository-workplaces-gitea-opsdff-rivilib-b63af9b3.md) |

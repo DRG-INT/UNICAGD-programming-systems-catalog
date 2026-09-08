@@ -1,6 +1,6 @@
 # Library
 
-Records: `5750`
+Records: `5760`
 
 ## Navigation
 
@@ -8,22 +8,22 @@ Records: `5750`
 
 ## Category Index
 
-[Api Abi Checker (222)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Api Abi Checker (224)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (202)](benchmarking.md) · [Build System (999)](build-system.md) · [Cli (570)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
 [Concurrency Parallelism (93)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (969)](database-datastore.md) · [Datetime (234)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (104)](dependency-manager.md) · [Documentation (109)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (462)](ffi-bindings.md) · [Filesystem Os (1614)](filesystem-os.md) · [Formatter (651)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1473)](ide-editor-integration.md)
-[Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (274)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1448)](language-specification.md) · **[Library (5750)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (799)](machine-learning.md)
-[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (98)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1052)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1205)](parser-lexer-ast.md) · [Precommit Ci Quality (310)](precommit-ci-quality.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (464)](ffi-bindings.md) · [Filesystem Os (1614)](filesystem-os.md) · [Formatter (651)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1474)](ide-editor-integration.md)
+[Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (275)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
+[Language Server (30)](language-server.md) · [Language Specification (1450)](language-specification.md) · **[Library (5760)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (802)](machine-learning.md)
+[Math Numeric Scientific (89)](math-numeric-scientific.md) · [Memory Analyzer (98)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1053)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1207)](parser-lexer-ast.md) · [Precommit Ci Quality (310)](precommit-ci-quality.md)
 [Profiler (89)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (631)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (617)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (314)](type-checker.md)
+[Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (632)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (618)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (314)](type-checker.md)
 [Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (488)](web-framework.md)
 
 ## C99
@@ -2503,6 +2503,7 @@ Records: `5750`
 | BayesRTMB | 0.3.0 | 2026-08-20 12:12:04 UTC | [open](../records/r-bayesrtmb-b0ab0317.md) |
 | bayess | 1.7 | 2026-08-28 09:50:37 UTC | [open](../records/r-bayess-abc3a694.md) |
 | BBEST | 0.1-9 | 2026-09-04 11:10:02 UTC | [open](../records/r-bbest-3f7f8b5f.md) |
+| bbqr | 0.1.0 | 2026-09-08 13:00:13 UTC | [open](../records/r-bbqr-79c915f9.md) |
 | bbssr | 2.0.0 | 2026-08-20 11:02:11 UTC | [open](../records/r-bbssr-e12a9809.md) |
 | BCodifSIS | 0.3.2 | 2026-08-06 13:00:08 UTC | [open](../records/r-bcodifsis-88334453.md) |
 | BEND | 2.1.2 | 2026-08-25 16:30:02 UTC | [open](../records/r-bend-ba243bff.md) |
@@ -2535,6 +2536,7 @@ Records: `5750`
 | bsvars | 4.0 | 2026-08-22 16:00:17 UTC | [open](../records/r-bsvars-55783e85.md) |
 | bsvarSIGNs | 3.0 | 2026-08-21 08:20:32 UTC | [open](../records/r-bsvarsigns-04311d8e.md) |
 | bunsen | 0.1.1 | 2026-09-03 14:30:16 UTC | [open](../records/r-bunsen-1a088813.md) |
+| BuSuCo | 0.2.0 | 2026-09-08 13:40:29 UTC | [open](../records/r-busuco-5c59a432.md) |
 | bvarnet | 1.0.2 | 2026-08-31 20:20:02 UTC | [open](../records/r-bvarnet-dfb34c1c.md) |
 | bvpSolve | 1.4.4.2 | 2026-08-20 16:52:10 UTC | [open](../records/r-bvpsolve-36c8cd44.md) |
 | campsis | 1.9.0 | 2026-08-05 07:50:02 UTC | [open](../records/r-campsis-75d309aa.md) |
@@ -2552,7 +2554,9 @@ Records: `5750`
 | checkhelper | 1.0.1 | 2026-08-19 19:10:02 UTC | [open](../records/r-checkhelper-8b7440a8.md) |
 | chessResults | 2026.08.27 | 2026-08-28 07:01:26 UTC | [open](../records/r-chessresults-944d7b5e.md) |
 | childfree | 0.0.6 | 2026-08-21 05:44:45 UTC | [open](../records/r-childfree-6749c0c1.md) |
+| chilemapas | 0.4.1 | 2026-09-08 13:30:23 UTC | [open](../records/r-chilemapas-68a52b78.md) |
 | chk | 0.11.0 | 2026-09-03 05:20:50 UTC | [open](../records/r-chk-bbe2f7a6.md) |
+| chms | 7.1 | 2026-09-08 13:30:15 UTC | [open](../records/r-chms-3f909c72.md) |
 | choicer | 0.2.1 | 2026-09-04 21:20:02 UTC | [open](../records/r-choicer-c393b6ba.md) |
 | clarabel | 0.11.3 | 2026-08-23 04:40:08 UTC | [open](../records/r-clarabel-23795240.md) |
 | CLDedgelister | 1.0.3 | 2026-08-20 02:10:02 UTC | [open](../records/r-cldedgelister-12643d0d.md) |
@@ -2606,6 +2610,7 @@ Records: `5750`
 | DiscreteDists | 1.1.3 | 2026-09-06 23:30:02 UTC | [open](../records/r-discretedists-5d7f74f4.md) |
 | dlmtree | 1.2.0 | 2026-08-04 22:20:02 UTC | [open](../records/r-dlmtree-0ea1ab26.md) |
 | dodgr | 0.5.0 | 2026-09-03 13:50:09 UTC | [open](../records/r-dodgr-6efced31.md) |
+| DPrivStats | 0.1.0 | 2026-09-08 13:30:29 UTC | [open](../records/r-dprivstats-16ca3862.md) |
 | DRLAP2 | 0.1.1 | 2026-08-25 15:10:16 UTC | [open](../records/r-drlap2-7e3e5a32.md) |
 | DropCens | 0.1.0 | 2026-08-09 08:00:17 UTC | [open](../records/r-dropcens-2c26588a.md) |
 | DrugUtilisation | 1.3.1 | 2026-08-21 21:50:50 UTC | [open](../records/r-drugutilisation-4f591066.md) |
@@ -2821,6 +2826,7 @@ Records: `5750`
 | normref | 0.1.2 | 2026-08-27 08:10:02 UTC | [open](../records/r-normref-452be04f.md) |
 | npwbs | 0.5.0 | 2026-08-04 08:50:07 UTC | [open](../records/r-npwbs-b2bcdf7a.md) |
 | nwaa | 0.1.4 | 2026-08-20 14:40:02 UTC | [open](../records/r-nwaa-61b53c4d.md) |
+| octawave | 0.1.0 | 2026-09-08 13:40:13 UTC | [open](../records/r-octawave-5c619f2d.md) |
 | ofhsyn | 0.1.3 | 2026-08-26 21:10:02 UTC | [open](../records/r-ofhsyn-52ef6e90.md) |
 | omopgenerics | 1.4.2 | 2026-09-08 05:20:13 UTC | [open](../records/r-omopgenerics-1b61e091.md) |
 | OmopSketch | 1.1.1 | 2026-08-27 11:10:02 UTC | [open](../records/r-omopsketch-b6fdfd3a.md) |
@@ -2860,10 +2866,12 @@ Records: `5750`
 | PowerXgammaRF | 1.0.0 | 2026-08-21 13:20:24 UTC | [open](../records/r-powerxgammarf-5bd9852f.md) |
 | pre | 1.1.0 | 2026-08-31 22:10:06 UTC | [open](../records/r-pre-14669e77.md) |
 | predHCS | 0.1.0 | 2026-08-05 09:20:09 UTC | [open](../records/r-predhcs-11f5cded.md) |
+| pressfreedom | 0.2.0 | 2026-09-08 13:40:02 UTC | [open](../records/r-pressfreedom-f7f37c03.md) |
 | pROC | 1.19.1 | 2026-08-27 10:00:02 UTC | [open](../records/r-proc-67a5d446.md) |
 | prodest | 1.0.2 | 2026-09-01 15:20:02 UTC | [open](../records/r-prodest-62c52393.md) |
 | ProgVine | 0.1.0 | 2026-08-09 08:10:10 UTC | [open](../records/r-progvine-0713ddb4.md) |
 | proporz | 1.5.3 | 2026-08-28 07:00:45 UTC | [open](../records/r-proporz-a997bb11.md) |
+| PseudoVoigtMixt | 0.1.0 | 2026-09-08 13:20:15 UTC | [open](../records/r-pseudovoigtmixt-ffe7600e.md) |
 | PTLENKies | 0.1.0 | 2026-09-03 11:50:47 UTC | [open](../records/r-ptlenkies-95124d4c.md) |
 | Qapprox | 0.2.1 | 2026-08-24 18:30:15 UTC | [open](../records/r-qapprox-7a9b75e7.md) |
 | qcluster | 3.0.0 | 2026-09-02 10:30:02 UTC | [open](../records/r-qcluster-30e54184.md) |
@@ -2960,6 +2968,7 @@ Records: `5750`
 | soilVAE | 0.1.10 | 2026-08-22 17:50:02 UTC | [open](../records/r-soilvae-55b34e7a.md) |
 | sondage | 0.9.1 | 2026-08-04 23:20:02 UTC | [open](../records/r-sondage-e582e1f3.md) |
 | sov | 2.0.0 | 2026-08-21 05:40:36 UTC | [open](../records/r-sov-a35583b7.md) |
+| spatcovar | 0.1.0 | 2026-09-08 13:30:02 UTC | [open](../records/r-spatcovar-96747442.md) |
 | spatemR | 1.4.0 | 2026-09-07 15:50:02 UTC | [open](../records/r-spatemr-5503252a.md) |
 | spatialrisk | 0.8.2 | 2026-09-01 12:40:02 UTC | [open](../records/r-spatialrisk-4fdef109.md) |
 | spCF | 0.2.1 | 2026-08-28 17:40:02 UTC | [open](../records/r-spcf-0ee968e4.md) |
@@ -4312,7 +4321,7 @@ Records: `5750`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-08T13:22:38Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-08T14:21:02Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | unknown | not_a_go_module_path | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -5799,11 +5808,12 @@ Records: `5750`
 | MartinPankraz/az-private-linky | partial | 2023-10-11T06:13:36Z | [open](../records/sapjava-martinpankraz-az-private-linky-4591f1e2.md) |
 | NguyenMinhChien20020369/SAP_CAP_JAVA | partial | 2026-06-22T09:20:33Z | [open](../records/sapjava-nguyenminhchien20020369-sap-cap-java-8e8ec4e1.md) |
 | NguyenMinhChien20020369/SAP_CAP_JAVA_SF | partial | 2026-07-08T06:51:03Z | [open](../records/sapjava-nguyenminhchien20020369-sap-cap-java-sf-e06e1b2b.md) |
+| NguyenMinhChien20020369/SAP_CAP_JAVA_TRANTXT | partial | 2026-09-08T09:29:55Z | [open](../records/sapjava-nguyenminhchien20020369-sap-cap-java-trantxt-96f7be2b.md) |
 | Rameshkwins/SAP_HANA_Java_Connect | partial | 2017-09-21T21:32:06Z | [open](../records/sapjava-rameshkwins-sap-hana-java-connect-255b3dc4.md) |
 | rbettison/JavaOdataCAP | partial | 2024-02-15T16:29:25Z | [open](../records/sapjava-rbettison-javaodatacap-4deed594.md) |
 | rcgtechrepo/sap_cap_java | partial | 2025-01-05T12:59:20Z | [open](../records/sapjava-rcgtechrepo-sap-cap-java-56e882c4.md) |
 | SAP-archive/hana-shared-ledger-examples | partial | 2025-03-07T13:38:38Z | [open](../records/sapjava-sap-archive-hana-shared-ledger-examples-33688859.md) |
-| SAP-samples/cloud-cap-samples-java | partial | 2026-09-04T11:43:56Z | [open](../records/sapjava-sap-samples-cloud-cap-samples-java-14329741.md) |
+| SAP-samples/cloud-cap-samples-java | partial | 2026-09-08T08:37:50Z | [open](../records/sapjava-sap-samples-cloud-cap-samples-java-14329741.md) |
 | Showkath/cloud-cap-samples-java | partial | 2020-09-20T12:52:49Z | [open](../records/sapjava-showkath-cloud-cap-samples-java-2f0f532c.md) |
 | sillym/java-sdk-project | partial | 2020-06-01T06:32:16Z | [open](../records/sapjava-sillym-java-sdk-project-0f2e5b6d.md) |
 | vanajapulivarthi/SAP-CAP-JAVA | partial | 2026-06-17T05:54:47Z | [open](../records/sapjava-vanajapulivarthi-sap-cap-java-c92f4b8e.md) |
@@ -5843,26 +5853,26 @@ Records: `5750`
 | Alamofire | 5.12.0 | 2026-07-27 19:22:32 UTC | [open](../records/cocoa-alamofire-71d81a2b.md) |
 | Appz | v2.0.0 | 2016-09-21T19:45:20Z | [open](../records/cocoa-appz-7ff129e8.md) |
 | ARKit-CoreLocation | 1.2.1 | 2019-08-23T15:10:47Z | [open](../records/cocoa-arkit-corelocation-9ac024d1.md) |
-| bojan/xcode-one-dark | unknown | not_a_cocoapods_name | [open](../records/cocoa-bojan-xcode-one-dark-f58fdf57.md) |
+| bojan/xcode-one-dark | partial | 2019-04-02T13:49:11Z | [open](../records/cocoa-bojan-xcode-one-dark-f58fdf57.md) |
 | CocoaLumberjack | 3.9.1 | 2026-04-16 06:33:41 UTC | [open](../records/cocoa-cocoalumberjack-ffcca241.md) |
-| D-32/SegmentedProgressBar | unknown | not_a_cocoapods_name | [open](../records/cocoa-d-32-segmentedprogressbar-02534ce8.md) |
+| D-32/SegmentedProgressBar | partial | 2019-07-02T15:49:03Z | [open](../records/cocoa-d-32-segmentedprogressbar-02534ce8.md) |
 | DeepLinkKit | 1.5.1 | 2019-09-09T15:35:06Z | [open](../records/cocoa-deeplinkkit-eeec6b1d.md) |
-| dogo/SCLAlertView | unknown | not_a_cocoapods_name | [open](../records/cocoa-dogo-sclalertview-73109317.md) |
-| Ekhoo/Device | unknown | not_a_cocoapods_name | [open](../records/cocoa-ekhoo-device-e4ad8111.md) |
+| dogo/SCLAlertView | partial | 2026-07-27T13:07:06Z | [open](../records/cocoa-dogo-sclalertview-73109317.md) |
+| Ekhoo/Device | partial | 2026-04-22T04:58:59Z | [open](../records/cocoa-ekhoo-device-e4ad8111.md) |
 | Firebase | 12.18.0 | 2026-08-19 17:01:34 UTC | [open](../records/cocoa-firebase-b4c158d4.md) |
 | FMDB | 2.7.12 | 2024-07-03 19:18:47 UTC | [open](../records/cocoa-fmdb-4823178b.md) |
 | Free App Store Optimization Tool | unknown | not_a_cocoapods_name | [open](../records/cocoa-free-app-store-optimization-tool-c92f5a1d.md) |
 | IGListKit | 5.2.0 | 2026-02-17 11:15:47 UTC | [open](../records/cocoa-iglistkit-b7065ccb.md) |
-| jogendra/LoadingShimmer | unknown | not_a_cocoapods_name | [open](../records/cocoa-jogendra-loadingshimmer-48a2e51d.md) |
-| JohnEstropia/CoreStore | unknown | not_a_cocoapods_name | [open](../records/cocoa-johnestropia-corestore-3f796dad.md) |
+| jogendra/LoadingShimmer | partial | 2022-10-22T13:31:11Z | [open](../records/cocoa-jogendra-loadingshimmer-48a2e51d.md) |
+| JohnEstropia/CoreStore | partial | 2026-07-29T04:56:44Z | [open](../records/cocoa-johnestropia-corestore-3f796dad.md) |
 | Kingfisher | 8.12.0 | 2026-08-25 15:23:12 UTC | [open](../records/cocoa-kingfisher-e162ef48.md) |
 | Masonry | 1.1.0 | 2017-09-20 06:43:57 UTC | [open](../records/cocoa-masonry-af358449.md) |
 | MBProgressHUD | 1.2.0 | 2020-01-13 21:47:56 UTC | [open](../records/cocoa-mbprogresshud-5484e66b.md) |
-| mikekazakov/nimble-commander | unknown | not_a_cocoapods_name | [open](../records/cocoa-mikekazakov-nimble-commander-c6ee07c4.md) |
+| mikekazakov/nimble-commander | partial | 2026-08-10T23:14:57Z | [open](../records/cocoa-mikekazakov-nimble-commander-c6ee07c4.md) |
 | Nimble | 14.0.0 | 2025-11-29 07:18:15 UTC | [open](../records/cocoa-nimble-997c1836.md) |
-| NSHipster/articles | unknown | not_a_cocoapods_name | [open](../records/cocoa-nshipster-articles-eba6d53b.md) |
-| NSHipster/nshipster.com | unknown | not_a_cocoapods_name | [open](../records/cocoa-nshipster-nshipster-com-646cd4e3.md) |
-| nvzqz/RandomKit | unknown | not_a_cocoapods_name | [open](../records/cocoa-nvzqz-randomkit-8b7ffe4d.md) |
+| NSHipster/articles | partial | 2025-12-31T16:08:28Z | [open](../records/cocoa-nshipster-articles-eba6d53b.md) |
+| NSHipster/nshipster.com | partial | 2025-12-31T16:15:18Z | [open](../records/cocoa-nshipster-nshipster-com-646cd4e3.md) |
+| nvzqz/RandomKit | partial | 2022-06-09T18:49:03Z | [open](../records/cocoa-nvzqz-randomkit-8b7ffe4d.md) |
 | PromiseKit | 8.2.0 | 2025-01-16 22:06:42 UTC | [open](../records/cocoa-promisekit-99de80e1.md) |
 | RealmSwift | 20.0.4 | 2026-02-23 03:34:43 UTC | [open](../records/cocoa-realmswift-07fdd3ee.md) |
 | RxSwift | 6.9.0 | 2025-02-17 15:53:39 UTC | [open](../records/cocoa-rxswift-fb14da93.md) |
@@ -5872,14 +5882,14 @@ Records: `5750`
 | Starscream | 4.0.8 | 2024-03-07 19:03:52 UTC | [open](../records/cocoa-starscream-ba43e9ad.md) |
 | SwiftCurrent | 5.1.12 | 2022-11-29T03:20:32Z | [open](../records/cocoa-swiftcurrent-0e333f76.md) |
 | Swinject | 2.9.1 | 2024-06-07 19:25:57 UTC | [open](../records/cocoa-swinject-fcabced8.md) |
-| tekknolagi/full-beans | unknown | not_a_cocoapods_name | [open](../records/cocoa-tekknolagi-full-beans-50290d98.md) |
+| tekknolagi/full-beans | partial | 2024-10-28T15:41:38Z | [open](../records/cocoa-tekknolagi-full-beans-50290d98.md) |
 | Texture | 3.2.0 | 2024-05-21 20:29:00 UTC | [open](../records/cocoa-texture-9f295680.md) |
 | URLNavigator | 2.5.1 | 2023-07-09T17:59:52Z | [open](../records/cocoa-urlnavigator-19664147.md) |
-| WWDCNotes/Content | unknown | not_a_cocoapods_name | [open](../records/cocoa-wwdcnotes-content-972758f9.md) |
-| xmartlabs/XLActionController | unknown | not_a_cocoapods_name | [open](../records/cocoa-xmartlabs-xlactioncontroller-2d6e0746.md) |
-| Yalantis/DisplaySwitcher | unknown | not_a_cocoapods_name | [open](../records/cocoa-yalantis-displayswitcher-c2cf8998.md) |
-| Yalantis/Segmentio | unknown | not_a_cocoapods_name | [open](../records/cocoa-yalantis-segmentio-93a201b2.md) |
-| ytakzk/Fusuma | unknown | not_a_cocoapods_name | [open](../records/cocoa-ytakzk-fusuma-ad587f2f.md) |
+| WWDCNotes/Content | partial | 2024-06-24T08:25:05Z | [open](../records/cocoa-wwdcnotes-content-972758f9.md) |
+| xmartlabs/XLActionController | partial | 2023-03-17T21:29:18Z | [open](../records/cocoa-xmartlabs-xlactioncontroller-2d6e0746.md) |
+| Yalantis/DisplaySwitcher | partial | 2021-07-15T14:13:46Z | [open](../records/cocoa-yalantis-displayswitcher-c2cf8998.md) |
+| Yalantis/Segmentio | partial | 2024-08-12T05:33:14Z | [open](../records/cocoa-yalantis-segmentio-93a201b2.md) |
+| ytakzk/Fusuma | partial | 2019-10-14T22:46:06Z | [open](../records/cocoa-ytakzk-fusuma-ad587f2f.md) |
 
 ## Databases
 
