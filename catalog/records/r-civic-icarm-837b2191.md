@@ -40,7 +40,7 @@ runtime constraints, and data/deployment interfaces.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | European Union Public License 1.2; https://api.github.com/licenses/eupl-1.2; MIT License; https://api.github.com/licenses/mit |
+| Evidence | MIT + file LICENSE |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

@@ -219,7 +219,7 @@ Records: `177`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ente/ente | partial | 2026-09-08T16:04:16Z | [open](../records/go-ente-ente-f02441bb.md) |
+| ente/ente | partial | 2026-09-08T17:09:48Z | [open](../records/go-ente-ente-f02441bb.md) |
 
 ## Transmission Protocols
 

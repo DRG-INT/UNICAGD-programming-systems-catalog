@@ -40,7 +40,7 @@ formats, persistence, interoperability, and compatibility boundaries.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT; https://www.nuget.org/packages/Newtonsoft.Json.Bson/1.0.3/license |
+| Evidence | {"key": "", "name": "", "url": ""}; MIT; https://www.nuget.org/packages/Newtonsoft.Json.Bson/1.0.3/license |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

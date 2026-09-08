@@ -40,7 +40,7 @@ persistence, interoperability, and compatibility boundaries.
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | https://www.nuget.org/packages/JsonPatch.Net/5.0.3/license |
+| Evidence | Other; {"key": "", "name": "", "url": ""}; https://www.nuget.org/packages/JsonPatch.Net/5.0.3/license |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes

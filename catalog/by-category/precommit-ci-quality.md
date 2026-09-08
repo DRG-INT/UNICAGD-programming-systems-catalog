@@ -513,7 +513,7 @@ Records: `310`
 | Gitea: JaffarNasir/188BET--Discover-the-Exciting-World-of-Casino-188BET | partial | 2025-11-23T07:54:13Z | [open](../records/repository-workplaces-gitea-jaffarnasir-188bet-discover-the-exciting-world-of-casino-188bet-7fdea9a1.md) |
 | Gitea: KartikSharma2442/Artificial | partial | 2025-05-28T04:03:23Z | [open](../records/repository-workplaces-gitea-kartiksharma2442-artificial-dec5f16f.md) |
 | Gitea: ksaleem/bh-piscine | partial | 2023-09-03T10:22:11Z | [open](../records/repository-workplaces-gitea-ksaleem-bh-piscine-f22b43f5.md) |
-| Gitea: marifcelik/acikkuran-extension | partial | 2026-09-08T05:04:24Z | [open](../records/repository-workplaces-gitea-marifcelik-acikkuran-extension-819cf26f.md) |
+| Gitea: marifcelik/acikkuran-extension | partial | 2026-09-08T14:55:58Z | [open](../records/repository-workplaces-gitea-marifcelik-acikkuran-extension-819cf26f.md) |
 | Gitea: mo3az/-piscine-go | partial | 2025-04-15T22:47:43Z | [open](../records/repository-workplaces-gitea-mo3az-piscine-go-38535a48.md) |
 | Gitea: mspricing/bcpricing | partial | 2025-09-04T07:23:18Z | [open](../records/repository-workplaces-gitea-mspricing-bcpricing-88b14f8e.md) |
 | Gitea: otiozee/ascii-art | partial | 2026-04-27T21:08:35Z | [open](../records/repository-workplaces-gitea-otiozee-ascii-art-ce13f575.md) |
