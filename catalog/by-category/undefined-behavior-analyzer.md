@@ -1164,7 +1164,7 @@ Records: `1619`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bytedance/deer-flow | partial | 2026-09-08T02:50:03Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
+| bytedance/deer-flow | partial | 2026-09-08T06:51:57Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
 | sansan0/TrendRadar | partial | 2026-09-03T12:34:00Z | [open](../records/aim-s-sansan0-trendradar-72e65ee1.md) |
 | TencentCloud/TencentDB-Agent-Memory | partial | 2026-09-03T02:31:45Z | [open](../records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
 
@@ -1573,7 +1573,7 @@ Records: `1619`
 | greatscottgadgets/ubertooth | partial | 2026-03-19T15:58:24Z | [open](../records/electromagnetoscopes-greatscottgadgets-ubertooth-28bac228.md) |
 | jvde-github/AIS-catcher | partial | 2026-09-06T22:14:18Z | [open](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) |
 | kismetwireless/kismet | partial | 2026-09-01T15:36:57Z | [open](../records/electromagnetoscopes-kismetwireless-kismet-abff54d8.md) |
-| LargeModGames/spotatui | partial | 2026-09-07T19:46:45Z | [open](../records/electromagnetoscopes-largemodgames-spotatui-27906be2.md) |
+| LargeModGames/spotatui | partial | 2026-09-08T07:14:56Z | [open](../records/electromagnetoscopes-largemodgames-spotatui-27906be2.md) |
 | Moosync/Moosync-electron | partial | 2025-03-06T13:43:37Z | [open](../records/electromagnetoscopes-moosync-moosync-electron-6b29db05.md) |
 | RedhawkSDR/redhawk | partial | 2023-05-12T19:01:24Z | [open](../records/electromagnetoscopes-redhawksdr-redhawk-394b8fa1.md) |
 | Thom-x/docker-fr24feed-piaware-dump1090 | partial | 2026-08-03T18:05:22Z | [open](../records/electromagnetoscopes-thom-x-docker-fr24feed-piaware-dump1090-77ea9789.md) |
@@ -1623,7 +1623,7 @@ Records: `1619`
 | datahub-project/datahub | partial | 2026-09-05T20:20:54Z | [open](../records/catalogs-datahub-project-datahub-245b610a.md) |
 | erikdarlingdata/DarlingData | partial | 2026-09-04T21:16:14Z | [open](../records/catalogs-erikdarlingdata-darlingdata-be996c85.md) |
 | FeatureBaseDB/featurebase | partial | 2024-02-21T23:20:41Z | [open](../records/catalogs-featurebasedb-featurebase-1eac6a36.md) |
-| imsai-sh/awesome-deepseek-harness-plugins | partial | 2026-09-08T04:19:41Z | [open](../records/catalogs-imsai-sh-awesome-deepseek-harness-plugins-06b83072.md) |
+| imsai-sh/awesome-deepseek-harness-plugins | partial | 2026-09-08T04:23:34Z | [open](../records/catalogs-imsai-sh-awesome-deepseek-harness-plugins-06b83072.md) |
 | italia/.github | partial | 2026-08-31T09:31:30Z | [open](../records/catalogs-italia-github-0b346e57.md) |
 | leenkcool/Blue-Whale-Harness | partial | 2026-09-04T03:49:36Z | [open](../records/catalogs-leenkcool-blue-whale-harness-b2691c97.md) |
 | llnl/llnl.github.io | partial | 2026-09-07T17:26:26Z | [open](../records/catalogs-llnl-llnl-github-io-afb77a91.md) |
@@ -1681,7 +1681,7 @@ Records: `1619`
 | TryGhost/Editorial | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-editorial-24923224.md) |
 | TryGhost/London | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-london-a1950ab3.md) |
 | TryGhost/Massively | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-massively-019faf67.md) |
-| TryGhost/Ruby | partial | 2026-09-07T19:49:40Z | [open](../records/magazines-tryghost-ruby-e22f8483.md) |
+| TryGhost/Ruby | partial | 2026-09-08T02:38:30Z | [open](../records/magazines-tryghost-ruby-e22f8483.md) |
 | TryGhost/Source | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-source-b70e1161.md) |
 | TryGhost/Wave | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-wave-7da5b2a4.md) |
 | WantongC/journal-adapt-writing-skill | partial | 2026-05-15T03:18:22Z | [open](../records/magazines-wantongc-journal-adapt-writing-skill-cbbecfea.md) |

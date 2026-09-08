@@ -249,7 +249,7 @@ Records: `107`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| TryGhost/Ease | partial | 2026-09-07T19:49:59Z | [open](../records/magazines-tryghost-ease-4f961538.md) |
+| TryGhost/Ease | partial | 2026-09-08T02:38:26Z | [open](../records/magazines-tryghost-ease-4f961538.md) |
 
 ## PHP
 

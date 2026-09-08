@@ -183,7 +183,7 @@ Records: `308`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [cottsay/arm_asm_emu](../records/assembly-cottsay-arm-asm-emu-d1df6727.md) | partial | 2022-02-07T00:51:12Z | registry-derived |
-| [decompme/decomp.me](../records/assembly-decompme-decomp-me-72e4eec1.md) | partial | 2026-09-07T16:40:54Z | registry-derived |
+| [decompme/decomp.me](../records/assembly-decompme-decomp-me-72e4eec1.md) | partial | 2026-09-08T07:11:03Z | registry-derived |
 | [dethrace-labs/dethrace](../records/assembly-dethrace-labs-dethrace-0d609365.md) | partial | 2026-09-07T08:49:07Z | registry-derived |
 | [io12/BootMine](../records/assembly-io12-bootmine-85e26922.md) | partial | 2021-01-21T04:53:31Z | registry-derived |
 | [tgrysztar/fasmg](../records/assembly-tgrysztar-fasmg-1281abcb.md) | partial | 2026-07-19T09:21:17Z | registry-derived |
@@ -316,7 +316,7 @@ Records: `308`
 | [SheerSt/pokewilds](../records/assembly-sheerst-pokewilds-24e08e0a.md) | partial | 2026-08-16T18:48:53Z | registry-derived |
 | [Shikha-code36/assembly-ARM-tutorial](../records/assembly-shikha-code36-assembly-arm-tutorial-fd735a29.md) | partial | 2024-06-18T12:18:46Z | registry-derived |
 | [sim-/tgy](../records/assembly-sim-tgy-fbe11e77.md) | partial | 2023-08-25T13:31:32Z | registry-derived |
-| [SpinalHDL/VexRiscv](../records/assembly-spinalhdl-vexriscv-32462403.md) | partial | 2026-08-31T15:50:35Z | registry-derived |
+| [SpinalHDL/VexRiscv](../records/assembly-spinalhdl-vexriscv-32462403.md) | partial | 2026-09-08T07:09:22Z | registry-derived |
 | [tenderlove/asmrepl](../records/assembly-tenderlove-asmrepl-662f4b96.md) | partial | 2025-02-09T20:33:51Z | registry-derived |
 | [tgrysztar/fasm](../records/assembly-tgrysztar-fasm-9d9633d5.md) | partial | 2026-02-24T12:17:59Z | registry-derived |
 | [tsoding/pinpog](../records/assembly-tsoding-pinpog-a14e3af2.md) | partial | 2021-08-27T17:59:43Z | registry-derived |

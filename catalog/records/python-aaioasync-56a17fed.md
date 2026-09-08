@@ -39,9 +39,9 @@ I/O throughput, cancellation, and latency management.
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | Other; MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Backup plan required |
+| Evidence | GPL (>= 3) |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 

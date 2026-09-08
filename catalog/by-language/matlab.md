@@ -181,7 +181,7 @@ Records: `287`
 | [MarineBioAcousticsRC/Triton](../records/matlab-marinebioacousticsrc-triton-24e50bbb.md) | partial | 2026-09-01T19:24:53Z | registry-derived |
 | [martin-danelljan/ECO](../records/matlab-martin-danelljan-eco-f7ff0b42.md) | partial | 2019-10-24T11:11:11Z | registry-derived |
 | [MartinHahner/FoggySynscapes](../records/matlab-martinhahner-foggysynscapes-42c8d9f2.md) | partial | 2022-02-09T18:57:20Z | registry-derived |
-| [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](../records/matlab-mathfoundationrl-book-mathematical-foundation-of-reinforcement-learning-34855485.md) | partial | 2026-08-10T06:39:05Z | registry-derived |
+| [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](../records/matlab-mathfoundationrl-book-mathematical-foundation-of-reinforcement-learning-34855485.md) | partial | 2026-09-08T06:41:29Z | registry-derived |
 | [mathworks/awesome-matlab-students](../records/matlab-mathworks-awesome-matlab-students-5d111c82.md) | partial | 2026-08-25T12:30:23Z | registry-derived |
 | [mathworks/Simscape-Battery-Electric-Vehicle-Model](../records/matlab-mathworks-simscape-battery-electric-vehicle-model-25267591.md) | partial | 2026-08-20T14:42:27Z | registry-derived |
 | [matlab-deep-learning/llms-with-matlab](../records/matlab-matlab-deep-learning-llms-with-matlab-206936ca.md) | partial | 2026-06-15T10:30:40Z | registry-derived |
@@ -201,7 +201,7 @@ Records: `287`
 | [mohammadrezwankhan/matlab-simulink-energy-lab](../records/matlab-mohammadrezwankhan-matlab-simulink-energy-lab-1613dbf1.md) | partial | 2026-09-07T05:45:54Z | registry-derived |
 | [moranzcw/AndrewNg-Machine-Learning-NOTES](../records/matlab-moranzcw-andrewng-machine-learning-notes-4a3f9206.md) | partial | 2018-12-11T16:22:09Z | registry-derived |
 | [morriswmz/doa-tools](../records/matlab-morriswmz-doa-tools-1d8c8495.md) | partial | 2018-11-07T20:47:45Z | registry-derived |
-| [mtex-toolbox/mtex](../records/matlab-mtex-toolbox-mtex-c19e6fb8.md) | partial | 2026-09-08T06:24:10Z | registry-derived |
+| [mtex-toolbox/mtex](../records/matlab-mtex-toolbox-mtex-c19e6fb8.md) | partial | 2026-09-08T06:37:10Z | registry-derived |
 | [nanahou/Awesome-Speech-Enhancement](../records/matlab-nanahou-awesome-speech-enhancement-bba57755.md) | partial | 2020-12-01T10:20:50Z | registry-derived |
 | [NerdsWithAttitudes/WarpFactory](../records/matlab-nerdswithattitudes-warpfactory-c9f05d2d.md) | partial | 2024-05-24T08:27:17Z | registry-derived |
 | [NeuroJSON/jsonlab](../records/matlab-neurojson-jsonlab-36111c60.md) | partial | 2026-08-30T17:11:32Z | registry-derived |

@@ -139,7 +139,7 @@ Records: `311`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [TryGhost/Ease](../records/magazines-tryghost-ease-4f961538.md) | partial | 2026-09-07T19:49:59Z | registry-derived |
+| [TryGhost/Ease](../records/magazines-tryghost-ease-4f961538.md) | partial | 2026-09-08T02:38:26Z | registry-derived |
 
 ### Ffi Bindings
 
@@ -185,16 +185,16 @@ Records: `311`
 | [songtianlun/diarum](../records/magazines-songtianlun-diarum-6ce1bdf0.md) | partial | 2026-08-04T05:10:54Z | registry-derived |
 | [spatie/Mailcoach](../records/magazines-spatie-mailcoach-b99f99d2.md) | partial | 2026-03-09T09:27:14Z | registry-derived |
 | [stefanbc/Asgar](../records/magazines-stefanbc-asgar-eb9aacac.md) | partial | 2023-09-05T02:36:38Z | registry-derived |
-| [TryGhost/Alto](../records/magazines-tryghost-alto-462e85dc.md) | partial | 2026-09-07T19:49:47Z | registry-derived |
-| [TryGhost/Casper](../records/magazines-tryghost-casper-68eed8fe.md) | partial | 2026-09-07T20:03:14Z | registry-derived |
-| [TryGhost/Dawn](../records/magazines-tryghost-dawn-93a1bcb3.md) | partial | 2026-09-07T19:50:06Z | registry-derived |
-| [TryGhost/Dope](../records/magazines-tryghost-dope-8382f7e5.md) | partial | 2026-09-07T19:49:51Z | registry-derived |
-| [TryGhost/Edge](../records/magazines-tryghost-edge-c0002ec9.md) | partial | 2026-09-07T19:49:42Z | registry-derived |
+| [TryGhost/Alto](../records/magazines-tryghost-alto-462e85dc.md) | partial | 2026-09-08T02:38:22Z | registry-derived |
+| [TryGhost/Casper](../records/magazines-tryghost-casper-68eed8fe.md) | partial | 2026-09-08T02:44:07Z | registry-derived |
+| [TryGhost/Dawn](../records/magazines-tryghost-dawn-93a1bcb3.md) | partial | 2026-09-08T02:38:28Z | registry-derived |
+| [TryGhost/Dope](../records/magazines-tryghost-dope-8382f7e5.md) | partial | 2026-09-08T02:38:24Z | registry-derived |
+| [TryGhost/Edge](../records/magazines-tryghost-edge-c0002ec9.md) | partial | 2026-09-08T02:38:31Z | registry-derived |
 | [TryGhost/Edition](../records/magazines-tryghost-edition-30f487ea.md) | partial | 2026-09-01T15:21:37Z | registry-derived |
 | [TryGhost/Journal](../records/magazines-tryghost-journal-0be492cf.md) | partial | 2026-09-01T15:22:39Z | registry-derived |
-| [TryGhost/London](../records/magazines-tryghost-london-63cc3483.md) | partial | 2026-09-07T19:50:10Z | registry-derived |
+| [TryGhost/London](../records/magazines-tryghost-london-63cc3483.md) | partial | 2026-09-08T02:38:25Z | registry-derived |
 | [TryGhost/Massively](../records/magazines-tryghost-massively-26c36497.md) | partial | 2026-09-07T19:54:15Z | registry-derived |
-| [TryGhost/Source](../records/magazines-tryghost-source-8e1152fe.md) | partial | 2026-09-07T19:40:26Z | registry-derived |
+| [TryGhost/Source](../records/magazines-tryghost-source-8e1152fe.md) | partial | 2026-09-08T02:58:38Z | registry-derived |
 | [TryGhost/Themes](../records/magazines-tryghost-themes-8b8724da.md) | partial | 2026-09-01T15:18:30Z | registry-derived |
 | [unkn0w/disposable-email-domain-list](../records/magazines-unkn0w-disposable-email-domain-list-54a50054.md) | partial | 2026-07-27T07:07:18Z | registry-derived |
 
@@ -386,7 +386,7 @@ Records: `311`
 | [mat-nolen/tldr-radio](../records/magazines-mat-nolen-tldr-radio-65ac5e2c.md) | partial | 2026-08-29T22:50:47Z | registry-derived |
 | [mnayef95/Android-Weekly](../records/magazines-mnayef95-android-weekly-9281b694.md) | partial | 2019-12-14T19:55:51Z | registry-derived |
 | [pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks](../records/magazines-pramit-marattha-fullstack-projects-frontend-with-react-and-backend-with-various-stacks-326b7cda.md) | partial | 2025-03-13T07:40:37Z | registry-derived |
-| [TryGhost/Wave](../records/magazines-tryghost-wave-6393e812.md) | partial | 2026-09-07T19:49:50Z | registry-derived |
+| [TryGhost/Wave](../records/magazines-tryghost-wave-6393e812.md) | partial | 2026-09-08T02:38:40Z | registry-derived |
 
 ### Precommit Ci Quality
 
@@ -439,7 +439,7 @@ Records: `311`
 | --- | --- | --- | --- |
 | [emanemad-dev/ux-review-website](../records/magazines-emanemad-dev-ux-review-website-030b8c54.md) | partial | 2026-01-05T11:07:47Z | registry-derived |
 | [Lifailon/lazyjournal](../records/magazines-lifailon-lazyjournal-28d8daea.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [massimoaria/bibliometrix](../records/magazines-massimoaria-bibliometrix-de0b9efa.md) | partial | 2026-09-07T10:16:04Z | registry-derived |
+| [massimoaria/bibliometrix](../records/magazines-massimoaria-bibliometrix-de0b9efa.md) | partial | 2026-09-08T07:23:46Z | registry-derived |
 | [TalEliyahu/awesome-security-newsletters](../records/magazines-taleliyahu-awesome-security-newsletters-16430f65.md) | partial | 2026-07-26T07:35:03Z | registry-derived |
 
 ### Testing Framework
@@ -509,7 +509,7 @@ Records: `311`
 | [TryGhost/Editorial](../records/magazines-tryghost-editorial-24923224.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [TryGhost/London](../records/magazines-tryghost-london-a1950ab3.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [TryGhost/Massively](../records/magazines-tryghost-massively-019faf67.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [TryGhost/Ruby](../records/magazines-tryghost-ruby-e22f8483.md) | partial | 2026-09-07T19:49:40Z | registry-derived |
+| [TryGhost/Ruby](../records/magazines-tryghost-ruby-e22f8483.md) | partial | 2026-09-08T02:38:30Z | registry-derived |
 | [TryGhost/Source](../records/magazines-tryghost-source-b70e1161.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [TryGhost/Wave](../records/magazines-tryghost-wave-7da5b2a4.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [WantongC/journal-adapt-writing-skill](../records/magazines-wantongc-journal-adapt-writing-skill-cbbecfea.md) | partial | 2026-05-15T03:18:22Z | registry-derived |

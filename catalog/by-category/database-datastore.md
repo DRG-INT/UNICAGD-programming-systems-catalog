@@ -387,7 +387,7 @@ Records: `899`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| gofr-dev/gofr | partial | 2026-09-08T06:20:25Z | [open](../records/go-gofr-dev-gofr-9cdbe495.md) |
+| gofr-dev/gofr | partial | 2026-09-08T06:52:30Z | [open](../records/go-gofr-dev-gofr-9cdbe495.md) |
 
 ## "aim's"
 
@@ -501,7 +501,7 @@ Records: `899`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ens-lgil/PGS_Catalog_deprecated | partial | 2025-11-18T16:51:23Z | [open](../records/repertoare-catalogs-ens-lgil-pgs-catalog-deprecated-88d51e98.md) |
-| Federico-Aguirre/Veterinaria_Laravel | partial | 2026-09-05T09:53:01Z | [open](../records/repertoare-catalogs-federico-aguirre-veterinaria-laravel-0ef91b6e.md) |
+| Federico-Aguirre/Veterinaria_Laravel | partial | 2026-09-08T04:58:25Z | [open](../records/repertoare-catalogs-federico-aguirre-veterinaria-laravel-0ef91b6e.md) |
 | hwasun-zip/Catalog-Triage | partial | 2026-08-31T15:03:01Z | [open](../records/repertoare-catalogs-hwasun-zip-catalog-triage-f9629850.md) |
 | PGScatalog/PGS_Catalog | partial | 2026-09-03T15:07:53Z | [open](../records/repertoare-catalogs-pgscatalog-pgs-catalog-ee188ec5.md) |
 

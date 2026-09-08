@@ -39,9 +39,9 @@ unit/integration validation, regression protection, and release confidence.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | GNU Lesser General Public License v2.1; https://api.github.com/licenses/lgpl-2.1; GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0; GNU Lesser General Public License v3.0; https://api.github.com/licenses/lgpl-3.0; {"key": "", "name": "", "url": ""} |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | MIT |
+| Evidence | MIT |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 

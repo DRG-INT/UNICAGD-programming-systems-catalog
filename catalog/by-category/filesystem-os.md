@@ -576,7 +576,7 @@ Records: `1612`
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-08-30T15:02:19Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-08T06:22:47Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-08T07:03:03Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -1587,16 +1587,16 @@ Records: `1612`
 | songtianlun/diarum | partial | 2026-08-04T05:10:54Z | [open](../records/magazines-songtianlun-diarum-6ce1bdf0.md) |
 | spatie/Mailcoach | partial | 2026-03-09T09:27:14Z | [open](../records/magazines-spatie-mailcoach-b99f99d2.md) |
 | stefanbc/Asgar | partial | 2023-09-05T02:36:38Z | [open](../records/magazines-stefanbc-asgar-eb9aacac.md) |
-| TryGhost/Alto | partial | 2026-09-07T19:49:47Z | [open](../records/magazines-tryghost-alto-462e85dc.md) |
-| TryGhost/Casper | partial | 2026-09-07T20:03:14Z | [open](../records/magazines-tryghost-casper-68eed8fe.md) |
-| TryGhost/Dawn | partial | 2026-09-07T19:50:06Z | [open](../records/magazines-tryghost-dawn-93a1bcb3.md) |
-| TryGhost/Dope | partial | 2026-09-07T19:49:51Z | [open](../records/magazines-tryghost-dope-8382f7e5.md) |
-| TryGhost/Edge | partial | 2026-09-07T19:49:42Z | [open](../records/magazines-tryghost-edge-c0002ec9.md) |
+| TryGhost/Alto | partial | 2026-09-08T02:38:22Z | [open](../records/magazines-tryghost-alto-462e85dc.md) |
+| TryGhost/Casper | partial | 2026-09-08T02:44:07Z | [open](../records/magazines-tryghost-casper-68eed8fe.md) |
+| TryGhost/Dawn | partial | 2026-09-08T02:38:28Z | [open](../records/magazines-tryghost-dawn-93a1bcb3.md) |
+| TryGhost/Dope | partial | 2026-09-08T02:38:24Z | [open](../records/magazines-tryghost-dope-8382f7e5.md) |
+| TryGhost/Edge | partial | 2026-09-08T02:38:31Z | [open](../records/magazines-tryghost-edge-c0002ec9.md) |
 | TryGhost/Edition | partial | 2026-09-01T15:21:37Z | [open](../records/magazines-tryghost-edition-30f487ea.md) |
 | TryGhost/Journal | partial | 2026-09-01T15:22:39Z | [open](../records/magazines-tryghost-journal-0be492cf.md) |
-| TryGhost/London | partial | 2026-09-07T19:50:10Z | [open](../records/magazines-tryghost-london-63cc3483.md) |
+| TryGhost/London | partial | 2026-09-08T02:38:25Z | [open](../records/magazines-tryghost-london-63cc3483.md) |
 | TryGhost/Massively | partial | 2026-09-07T19:54:15Z | [open](../records/magazines-tryghost-massively-26c36497.md) |
-| TryGhost/Source | partial | 2026-09-07T19:40:26Z | [open](../records/magazines-tryghost-source-8e1152fe.md) |
+| TryGhost/Source | partial | 2026-09-08T02:58:38Z | [open](../records/magazines-tryghost-source-8e1152fe.md) |
 | TryGhost/Themes | partial | 2026-09-01T15:18:30Z | [open](../records/magazines-tryghost-themes-8b8724da.md) |
 | unkn0w/disposable-email-domain-list | partial | 2026-07-27T07:07:18Z | [open](../records/magazines-unkn0w-disposable-email-domain-list-54a50054.md) |
 
