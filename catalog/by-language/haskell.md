@@ -1,6 +1,6 @@
 # Haskell
 
-Records: `1517`
+Records: `1524`
 
 ## Navigation
 
@@ -14,16 +14,16 @@ Records: `1517`
 [Concurrency Parallelism (93)](../by-category/concurrency-parallelism.md) · [Configuration (132)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (177)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (969)](../by-category/database-datastore.md) · [Datetime (234)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (104)](../by-category/dependency-manager.md) · [Documentation (109)](../by-category/documentation.md)
-[Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (464)](../by-category/ffi-bindings.md) · [Filesystem Os (1614)](../by-category/filesystem-os.md) · [Formatter (651)](../by-category/formatter.md)
+[Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (464)](../by-category/ffi-bindings.md) · [Filesystem Os (1615)](../by-category/filesystem-os.md) · [Formatter (652)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (58)](../by-category/fuzzer.md) · [Game Engine Game Dev (358)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1475)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (438)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (275)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
 [Language Server (30)](../by-category/language-server.md) · [Language Specification (1450)](../by-category/language-specification.md) · [Library (5760)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (531)](../by-category/logging-observability.md) · [Machine Learning (802)](../by-category/machine-learning.md)
+[Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (531)](../by-category/logging-observability.md) · [Machine Learning (808)](../by-category/machine-learning.md)
 [Math Numeric Scientific (89)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (98)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1053)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (443)](../by-category/package-manager.md) · [Parser Lexer Ast (1207)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (310)](../by-category/precommit-ci-quality.md)
-[Profiler (89)](../by-category/profiler.md) · [Project Scaffolding (138)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
+[Profiler (90)](../by-category/profiler.md) · [Project Scaffolding (138)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (337)](../by-category/security-sast.md) · [Serialization (400)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (632)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (618)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (68)](../by-category/tutorial-book-styleguide.md) · [Type Checker (314)](../by-category/type-checker.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (619)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (68)](../by-category/tutorial-book-styleguide.md) · [Type Checker (314)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1627)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (561)](../by-category/visualization-gui.md) · [Web Framework (488)](../by-category/web-framework.md)
 
 ## Categories
@@ -1431,6 +1431,12 @@ Records: `1517`
 | [amazonka-cloudsearch-domains](../records/haskell-amazonka-cloudsearch-domains-4f967faa.md) | 2.0 | 2023-07-27T21:07:26Z | registry-derived |
 | [amazonka-ml](../records/haskell-amazonka-ml-78adde35.md) | 2.0 | 2023-07-27T21:42:01Z | registry-derived |
 | [amazonka-route53-domains](../records/haskell-amazonka-route53-domains-dd60cddc.md) | 2.0 | 2023-07-27T21:45:24Z | registry-derived |
+| [baikai](../records/haskell-baikai-a604f283.md) | 0.7.0.0 | 2026-09-08T14:44:10Z | registry-derived |
+| [baikai-agent](../records/haskell-baikai-agent-51cdfaa3.md) | 0.2.0.1 | 2026-09-08T14:58:50Z | registry-derived |
+| [baikai-claude](../records/haskell-baikai-claude-dd79deaa.md) | 0.7.0.0 | 2026-09-08T14:48:35Z | registry-derived |
+| [baikai-effectful](../records/haskell-baikai-effectful-04fc05ec.md) | 0.4.0.1 | 2026-09-08T14:52:21Z | registry-derived |
+| [baikai-kit](../records/haskell-baikai-kit-b16f77ab.md) | 0.2.0.1 | 2026-09-08T14:57:17Z | registry-derived |
+| [baikai-openai](../records/haskell-baikai-openai-647568ad.md) | 0.7.0.0 | 2026-09-08T14:51:07Z | registry-derived |
 | [blaze-html](../records/haskell-blaze-html-7da048da.md) | 0.9.2.0 | 2024-03-06T08:07:25Z | registry-derived |
 | [bugsnag-wai](../records/haskell-bugsnag-wai-3c1467be.md) | 1.0.0.4 | 2026-09-04T16:18:11Z | registry-derived |
 | [cairo](../records/haskell-cairo-061b9b85.md) | 0.13.12.0 | 2025-03-20T08:43:33Z | registry-derived |
@@ -1619,6 +1625,7 @@ Records: `1517`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [baikai-trace-otel](../records/haskell-baikai-trace-otel-4ce358b8.md) | 0.4.0.1 | 2026-09-08T14:51:47Z | registry-derived |
 | [tracing](../records/haskell-tracing-ffb111c3.md) | 0.0.7.4 | 2024-01-20T18:17:36Z | registry-derived |
 
 ### Project Scaffolding

@@ -14,16 +14,16 @@ Records: `464`
 [Concurrency Parallelism (93)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (969)](database-datastore.md) · [Datetime (234)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (104)](dependency-manager.md) · [Documentation (109)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · **[Ffi Bindings (464)](ffi-bindings.md)** · [Filesystem Os (1614)](filesystem-os.md) · [Formatter (651)](formatter.md)
+[Embedded Hardware (60)](embedded-hardware.md) · **[Ffi Bindings (464)](ffi-bindings.md)** · [Filesystem Os (1615)](filesystem-os.md) · [Formatter (652)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1475)](ide-editor-integration.md)
 [Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (275)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (30)](language-server.md) · [Language Specification (1450)](language-specification.md) · [Library (5760)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (802)](machine-learning.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (808)](machine-learning.md)
 [Math Numeric Scientific (89)](math-numeric-scientific.md) · [Memory Analyzer (98)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1053)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1207)](parser-lexer-ast.md) · [Precommit Ci Quality (310)](precommit-ci-quality.md)
-[Profiler (89)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Profiler (90)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (632)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (618)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (314)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (619)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (314)](type-checker.md)
 [Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (488)](web-framework.md)
 
 ## C++23
@@ -238,10 +238,10 @@ Records: `464`
 | @percy/cli-upload | 1.32.9 | 2026-09-08T08:32:58.100Z | [open](../records/node-js-javascript-percy-cli-upload-866db688.md) |
 | @typespec/http | 1.15.0 | 2026-08-11T21:36:36.867Z | [open](../records/node-js-javascript-typespec-http-a3ff49d1.md) |
 | @upstash/qstash-cli | 2.37.18 | 2026-05-04T13:11:10.498Z | [open](../records/node-js-javascript-upstash-qstash-cli-ac11fa1b.md) |
-| @wecom/cli | 1.2.0 | 2026-08-25T11:09:57.783Z | [open](../records/node-js-javascript-wecom-cli-68523308.md) |
+| @wecom/cli | 1.2.1 | 2026-09-08T14:28:35.401Z | [open](../records/node-js-javascript-wecom-cli-68523308.md) |
 | foundationdb | 2.0.1 | 2023-04-18T03:07:14.961Z | [open](../records/node-js-javascript-foundationdb-6ff6ce74.md) |
 | react-server-dom-webpack | 19.2.8 | 2026-07-21T15:41:46.975Z | [open](../records/node-js-javascript-react-server-dom-webpack-0488aaab.md) |
-| resend-cli | 2.18.0 | 2026-09-01T20:06:47.456Z | [open](../records/node-js-javascript-resend-cli-6d949c1a.md) |
+| resend-cli | 2.19.1 | 2026-09-08T12:42:08.434Z | [open](../records/node-js-javascript-resend-cli-6d949c1a.md) |
 | tdl | 8.1.0 | 2026-03-10T20:26:46.308Z | [open](../records/node-js-javascript-tdl-e51f0d0f.md) |
 
 ## Lua family
@@ -385,7 +385,7 @@ Records: `464`
 | ffi | 2.2.0 | 2026-02-11T14:08:51.217392Z | [open](../records/dart-ffi-db803997.md) |
 | ffmpeg_kit_flutter_new | 4.6.2 | 2026-07-30T13:23:19.770535Z | [open](../records/dart-ffmpeg-kit-flutter-new-e600e8b3.md) |
 | flutter_rust_bridge | 2.13.0 | 2026-08-23T07:45:13.440929Z | [open](../records/dart-flutter-rust-bridge-2c8c964c.md) |
-| fwfh_webview | 0.15.7 | 2026-04-06T03:22:52.659918Z | [open](../records/dart-fwfh-webview-d3af7d13.md) |
+| fwfh_webview | 0.15.8 | 2026-09-08T16:19:30.937795Z | [open](../records/dart-fwfh-webview-d3af7d13.md) |
 | in_app_update | 5.0.0 | 2026-07-04T05:14:11.242560Z | [open](../records/dart-in-app-update-0266d7cc.md) |
 | isolate_manager | 6.3.2 | 2026-04-12T05:48:35.930541Z | [open](../records/dart-isolate-manager-0f2d39a3.md) |
 | material_ui | 1.1.1 | 2026-09-02T16:22:09.095351Z | [open](../records/dart-material-ui-3ba68105.md) |
