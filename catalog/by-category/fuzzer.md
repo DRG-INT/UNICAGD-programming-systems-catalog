@@ -24,7 +24,7 @@ Records: `58`
 [Profiler (89)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (631)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (617)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (314)](type-checker.md)
-[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (487)](web-framework.md)
+[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (488)](web-framework.md)
 
 ## C99
 
@@ -116,7 +116,7 @@ Records: `58`
 | Leaflet/Leaflet.VectorGrid | partial | 2025-01-09T18:01:02Z | [open](../records/maps-leaflet-leaflet-vectorgrid-fc95009b.md) |
 | NICEXAI/leaflet_zh | partial | 2023-11-14T14:08:47Z | [open](../records/maps-nicexai-leaflet-zh-ce87f8c8.md) |
 | opengeos/Awesome-GEE | unknown | github_search_does_not_include_release_date | [open](../records/maps-opengeos-awesome-gee-588f3052.md) |
-| python-visualization/folium | partial | 2026-09-04T16:55:00Z | [open](../records/maps-python-visualization-folium-ce762251.md) |
+| python-visualization/folium | partial | 2026-09-07T18:15:08Z | [open](../records/maps-python-visualization-folium-ce762251.md) |
 | r-spatial/mapview | unknown | github_search_does_not_include_release_date | [open](../records/maps-r-spatial-mapview-430d7bbc.md) |
 | rstudio/leaflet | partial | 2025-10-08T20:50:29Z | [open](../records/maps-rstudio-leaflet-de5ff58a.md) |
 | stefanocudini/leaflet-geojson-selector | partial | 2023-08-11T10:14:24Z | [open](../records/maps-stefanocudini-leaflet-geojson-selector-4e7b0158.md) |

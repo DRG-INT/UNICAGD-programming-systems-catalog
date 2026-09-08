@@ -24,7 +24,7 @@ Records: `5750`
 [Profiler (89)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (631)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (617)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (314)](type-checker.md)
-[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (487)](web-framework.md)
+[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (488)](web-framework.md)
 
 ## C99
 
@@ -3747,7 +3747,7 @@ Records: `5750`
 | persistent | 2.18.1.0 | 2026-01-14T23:05:56Z | [open](../records/haskell-persistent-9b1724c4.md) |
 | persistent-mongoDB | 2.13.1.0 | 2024-09-13T15:11:56Z | [open](../records/haskell-persistent-mongodb-24599212.md) |
 | pgdl | 10.10 | 2018-01-15T17:33:34Z | [open](../records/haskell-pgdl-6b04d821.md) |
-| phino | 0.0.116 | 2026-09-08T08:45:57Z | [open](../records/haskell-phino-0ffa79f2.md) |
+| phino | 0.0.117 | 2026-09-08T11:45:33Z | [open](../records/haskell-phino-0ffa79f2.md) |
 | pinboard | 0.10.3.0 | 2022-05-07T23:32:56Z | [open](../records/haskell-pinboard-08e346f1.md) |
 | pinch | 0.5.2.0 | 2024-07-09T02:44:30Z | [open](../records/haskell-pinch-801ed692.md) |
 | plugins | 1.6.2.1 | 2022-03-27T15:40:09Z | [open](../records/haskell-plugins-1103fc5c.md) |
@@ -4078,7 +4078,7 @@ Records: `5750`
 | yesod-persistent | 1.6.0.9 | 2026-06-16T20:33:49Z | [open](../records/haskell-yesod-persistent-425557b9.md) |
 | yesod-platform | 1.2.13.3 | 2014-08-25T13:53:51Z | [open](../records/haskell-yesod-platform-cc0166b2.md) |
 | yesod-static | 1.6.1.3 | 2026-06-16T20:33:50Z | [open](../records/haskell-yesod-static-f6ffdea6.md) |
-| yi | 0.19.3 | 2024-11-01T13:06:18Z | [open](../records/haskell-yi-3b78b64a.md) |
+| yi | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yi-3b78b64a.md) |
 | Z-Data | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-data-ad2a6ebb.md) |
 | Z-IO | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-io-e37841a7.md) |
 | zeolite-lang | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeolite-lang-121149cb.md) |
@@ -4288,7 +4288,7 @@ Records: `5750`
 | codeberg.org/go-hep/hep.git | v0.27.0 | 2026-08-30T10:55:18.161122Z | [open](../records/go-codeberg-org-go-hep-hep-git-29878e71.md) |
 | codeberg.org/rimu/pyfedi | v1.6.9 | 2026-08-30T16:29:43.672078Z | [open](../records/go-codeberg-org-rimu-pyfedi-53519dff.md) |
 | CycloneDX/cyclonedx-gomod | unknown | not_a_go_module_path | [open](../records/go-cyclonedx-cyclonedx-gomod-24572c1d.md) |
-| darius-khll/golang-developer-roadmap | unknown | not_a_go_module_path | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
+| darius-khll/golang-developer-roadmap | partial | 2023-02-13T08:08:20Z | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
 | gbrlsnchs/jwt | unknown | not_a_go_module_path | [open](../records/go-gbrlsnchs-jwt-9cb26411.md) |
 | gethugothemes/hugo-modules | unknown | not_a_go_module_path | [open](../records/go-gethugothemes-hugo-modules-1f48ce7f.md) |
 | git.scuroneko.dev/ScuroNeko/Laniakea | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-git-scuroneko-dev-scuroneko-laniakea-6c4ff9e7.md) |
@@ -4303,7 +4303,7 @@ Records: `5750`
 | gitlab.com/sequoia-pgp/sequoia-gpg-agent | v0.3.1 | 2026-08-30T15:31:10.349155Z | [open](../records/go-gitlab-com-sequoia-pgp-sequoia-gpg-agent-5b376c5c.md) |
 | gitlab.com/sequoia-pgp/sequoia.git | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gitlab-com-sequoia-pgp-sequoia-git-723cf535.md) |
 | gitlab.com/umbrellazone/smartacme | v1.0.9 | 2026-08-30T10:07:20.216337Z | [open](../records/go-gitlab-com-umbrellazone-smartacme-de305f20.md) |
-| go-ffmt/ffmt | unknown | not_a_go_module_path | [open](../records/go-go-ffmt-ffmt-70684860.md) |
+| go-ffmt/ffmt | partial | 2021-11-19T15:22:56Z | [open](../records/go-go-ffmt-ffmt-70684860.md) |
 | go.cozymore.dev/krkstops | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-go-cozymore-dev-krkstops-34ccbe5a.md) |
 | go.gary.cool/go-stockutil | v1.8.53 | 2026-08-30T16:30:21.724665Z | [open](../records/go-go-gary-cool-go-stockutil-dd0c06ad.md) |
 | go.lumeweb.com/portal-plugin-billing | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-go-lumeweb-com-portal-plugin-billing-4d35205b.md) |
@@ -4312,8 +4312,8 @@ Records: `5750`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | unknown | not_a_go_module_path | [open](../records/go-infisical-infisical-a6ff8f22.md) |
-| mustafaturan/bus | unknown | not_a_go_module_path | [open](../records/go-mustafaturan-bus-d868b092.md) |
+| Infisical/infisical | partial | 2026-09-08T13:22:38Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | unknown | not_a_go_module_path | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
 | Narasimha1997/ratelimiter | unknown | not_a_go_module_path | [open](../records/go-narasimha1997-ratelimiter-5630e795.md) |
@@ -4325,8 +4325,8 @@ Records: `5750`
 | rsc.io/cmd/gofixerr | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-rsc-io-cmd-gofixerr-73d47a44.md) |
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
-| sun8911879/shadowsocksR | unknown | not_a_go_module_path | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | unknown | not_a_go_module_path | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
+| temporalio/temporal | partial | 2026-09-08T12:14:13Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -4708,7 +4708,7 @@ Records: `5750`
 | florent37/RxGps | partial | 2018-12-05T16:36:01Z | [open](../records/maps-florent37-rxgps-5cb02be4.md) |
 | FoggedLens/deflock | partial | 2026-08-23T03:46:46Z | [open](../records/maps-foggedlens-deflock-8c65a555.md) |
 | fridays/next-routes | partial | 2024-08-06T05:50:49Z | [open](../records/maps-fridays-next-routes-7133c5a3.md) |
-| GenericMappingTools/pygmt | partial | 2026-09-05T02:48:30Z | [open](../records/maps-genericmappingtools-pygmt-d99a13fe.md) |
+| GenericMappingTools/pygmt | partial | 2026-09-08T11:24:00Z | [open](../records/maps-genericmappingtools-pygmt-d99a13fe.md) |
 | geolonia/normalize-japanese-addresses | partial | 2026-08-24T14:12:45Z | [open](../records/maps-geolonia-normalize-japanese-addresses-4c5a4168.md) |
 | geopy/geopy | partial | 2026-07-12T19:49:44Z | [open](../records/maps-geopy-geopy-3c79db47.md) |
 | georust/geocoding | partial | 2026-05-16T12:30:18Z | [open](../records/maps-georust-geocoding-e4389b67.md) |
@@ -4728,7 +4728,7 @@ Records: `5750`
 | luka1199/geo-heatmap | partial | 2024-08-17T16:08:23Z | [open](../records/maps-luka1199-geo-heatmap-7b04caf6.md) |
 | lukepighetti/fluro | partial | 2023-03-22T17:54:12Z | [open](../records/maps-lukepighetti-fluro-c809970d.md) |
 | luxiaoxun/MapDownloader | unknown | github_search_does_not_include_release_date | [open](../records/maps-luxiaoxun-mapdownloader-0e853bb6.md) |
-| mapbox/mapbox-gl-js | partial | 2026-09-08T07:24:19Z | [open](../records/maps-mapbox-mapbox-gl-js-a55c74cd.md) |
+| mapbox/mapbox-gl-js | partial | 2026-09-08T11:58:11Z | [open](../records/maps-mapbox-mapbox-gl-js-a55c74cd.md) |
 | mapbox/mapbox-gl-native-android | partial | 2023-08-21T13:46:32Z | [open](../records/maps-mapbox-mapbox-gl-native-android-470f3419.md) |
 | mapbox/vector-tile-base | partial | 2026-06-29T15:24:36Z | [open](../records/maps-mapbox-vector-tile-base-57a453db.md) |
 | maplibre/maplibre-gl-geocoder | partial | 2026-09-07T16:43:32Z | [open](../records/maps-maplibre-maplibre-gl-geocoder-938c4f88.md) |
@@ -4769,7 +4769,7 @@ Records: `5750`
 | Toblerity/Fiona | partial | 2025-02-20T23:53:44Z | [open](../records/maps-toblerity-fiona-9a13b596.md) |
 | tomayac/local-reverse-geocoder | partial | 2026-06-14T16:06:15Z | [open](../records/maps-tomayac-local-reverse-geocoder-63b2ed9a.md) |
 | TradeMe/MapMe | partial | 2022-03-30T20:42:56Z | [open](../records/maps-trademe-mapme-ac2b1874.md) |
-| tschoffelen/react-native-map-link | partial | 2026-09-03T13:44:36Z | [open](../records/maps-tschoffelen-react-native-map-link-bdb13e21.md) |
+| tschoffelen/react-native-map-link | partial | 2026-09-07T06:49:10Z | [open](../records/maps-tschoffelen-react-native-map-link-bdb13e21.md) |
 | tudelft3d/3dfier | partial | 2026-05-06T15:26:57Z | [open](../records/maps-tudelft3d-3dfier-6391024c.md) |
 | umap-project/umap | partial | 2026-09-01T15:24:52Z | [open](../records/maps-umap-project-umap-78ce8545.md) |
 | v2fly/geoip | partial | 2026-09-05T03:29:34Z | [open](../records/maps-v2fly-geoip-426d00c9.md) |

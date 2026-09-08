@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-08T12:30:12+00:00`
+Generated: `2026-09-08T13:26:43+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -22,14 +22,14 @@ Generated: `2026-09-08T12:30:12+00:00`
 [Profiler (89)](by-category/profiler.md) · [Project Scaffolding (138)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (337)](by-category/security-sast.md) · [Serialization (400)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (631)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (617)](by-category/testing-framework.md) · [Tutorial Book Styleguide (68)](by-category/tutorial-book-styleguide.md) · [Type Checker (314)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1627)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (561)](by-category/visualization-gui.md) · [Web Framework (487)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1627)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (561)](by-category/visualization-gui.md) · [Web Framework (488)](by-category/web-framework.md)
 
 ## Coverage
 
 | State | Count |
 | --- | ---: |
 | Known stable release | 10330 |
-| Unknown stable release | 17516 |
+| Unknown stable release | 17517 |
 
 ## Newest Known Stable Metadata
 
@@ -40,10 +40,12 @@ Generated: `2026-09-08T12:30:12+00:00`
 | cached_network_image_ce | Dart | Networking Http | 4.11.0 | 2026-09-08T12:08:49.769141Z | [open](records/dart-cached-network-image-ce-8b00ba24.md) |
 | @graphql-hive/cli | Node.js/JavaScript | Cli | 0.63.1 | 2026-09-08T12:03:57.128Z | [open](records/node-js-javascript-graphql-hive-cli-d8cf3b01.md) |
 | node-opcua-server | Node.js/JavaScript | Web Framework | 2.182.0 | 2026-09-08T11:55:34.672Z | [open](records/node-js-javascript-node-opcua-server-32472434.md) |
+| phino | Haskell | Library | 0.0.117 | 2026-09-08T11:45:33Z | [open](records/haskell-phino-0ffa79f2.md) |
 | node-opcua-address-space-for-conformance-testing | Node.js/JavaScript | Testing Framework | 2.182.0 | 2026-09-08T11:45:01.612Z | [open](records/node-js-javascript-node-opcua-address-space-for-conformance-testing-e25f7a6d.md) |
 | @prosopo/types-database | Node.js/JavaScript | Database Datastore | 5.5.0 | 2026-09-08T11:43:16.895Z | [open](records/node-js-javascript-prosopo-types-database-4163c4a1.md) |
 | @prosopo/database | Node.js/JavaScript | Ide Editor Integration | 4.0.30 | 2026-09-08T11:43:03.423Z | [open](records/node-js-javascript-prosopo-database-9a77dbd4.md) |
 | @coana-tech/cli | Node.js/JavaScript | Cli | 15.10.39 | 2026-09-08T11:42:38.377Z | [open](records/node-js-javascript-coana-tech-cli-ce9cbfe4.md) |
+| mcp-server | Haskell | Web Framework | 0.2.0.2 | 2026-09-08T11:04:50Z | [open](records/haskell-mcp-server-4051b88c.md) |
 | typed-rest-client | Node.js/TypeScript | Type Checker | 3.1.1 | 2026-09-08T10:42:04.063Z | [open](records/node-js-typescript-typed-rest-client-f0090a5f.md) |
 | @genesislcap/foundation-testing | Node.js/JavaScript | Testing Framework | 15.24.0 | 2026-09-08T10:25:46.899Z | [open](records/node-js-javascript-genesislcap-foundation-testing-9da0f708.md) |
 | system-testing | Node.js/JavaScript | Testing Framework | 1.0.137 | 2026-09-08T10:21:39.253Z | [open](records/node-js-javascript-system-testing-fb3acaec.md) |
@@ -56,7 +58,6 @@ Generated: `2026-09-08T12:30:12+00:00`
 | hedis | Haskell | Library | 0.16.4 | 2026-09-08T08:55:43Z | [open](records/haskell-hedis-b16f8ca9.md) |
 | @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.113.24 | 2026-09-08T08:48:23.584Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
 | liquid_glass_widgets | Dart | Filesystem Os | 1.4.1 | 2026-09-08T08:47:02.709543Z | [open](records/dart-liquid-glass-widgets-8954060d.md) |
-| phino | Haskell | Library | 0.0.116 | 2026-09-08T08:45:57Z | [open](records/haskell-phino-0ffa79f2.md) |
 | @rspack/cli | Node.js/JavaScript | Cli | 2.2.3 | 2026-09-08T08:45:31.242Z | [open](records/node-js-javascript-rspack-cli-8e6b6307.md) |
 | @percy/cli-upload | Node.js/JavaScript | Ffi Bindings | 1.32.9 | 2026-09-08T08:32:58.100Z | [open](records/node-js-javascript-percy-cli-upload-866db688.md) |
 | @percy/cli-exec | Node.js/JavaScript | Web Framework | 1.32.9 | 2026-09-08T08:32:25.867Z | [open](records/node-js-javascript-percy-cli-exec-36de9cf7.md) |
@@ -284,33 +285,31 @@ Generated: `2026-09-08T12:30:12+00:00`
 | icio | R | Filesystem Os | 1.0.0 | 2026-09-07 10:20:02 UTC | [open](records/r-icio-af349992.md) |
 | bvars | R | Parser Lexer Ast | 1.1 | 2026-09-07 09:00:07 UTC | [open](records/r-bvars-8dd6f774.md) |
 | lambdaTS | R | Static Analyzer | 2.0.0 | 2026-09-07 09:00:02 UTC | [open](records/r-lambdats-3f39bc10.md) |
-| evalHTE | R | Library | 0.2.0 | 2026-09-07 08:30:02 UTC | [open](records/r-evalhte-ae43f06b.md) |
 
 ## Unknown Reasons
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 9175 |
+| gh_search_reports_activity_not_release_version | 9608 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
 | packagist_package_metadata_missing | 615 |
-| github_latest_release_missing | 479 |
 | github_search_does_not_include_release_date | 447 |
 | go_module_index_event_is_preview_or_pseudoversion | 414 |
 | curated_language_route_requires_source_specific_release_lookup | 400 |
+| github_latest_release_missing | 308 |
 | gitea_search_api_reports_activity_not_release_version | 271 |
-| not_a_cocoapods_name | 248 |
 | awesome_list_does_not_include_release_date | 237 |
-| not_a_go_module_path | 211 |
 | gitlab_projects_api_reports_activity_not_release_version | 196 |
+| not_a_cocoapods_name | 165 |
 | curated_database_record_requires_source_specific_release_lookup | 87 |
 | official_workplace_route_requires_source_specific_release_lookup | 59 |
-| hackage_top_downloads_page_does_not_include_release_date | 11 |
+| not_a_go_module_path | 33 |
+| hackage_top_downloads_page_does_not_include_release_date | 12 |
 | release_date_missing | 5 |
 | cocoapods_metadata_missing | 5 |
 | source_returned_no_release | 2 |
-| go_proxy_latest_missing | 1 |
 
 ## Preview And Nightly Signals
 

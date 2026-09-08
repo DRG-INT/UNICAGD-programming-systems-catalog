@@ -24,7 +24,7 @@ Records: `314`
 [Profiler (89)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (631)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (617)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · **[Type Checker (314)](type-checker.md)**
-[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (487)](web-framework.md)
+[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (488)](web-framework.md)
 
 ## Python
 
@@ -313,7 +313,7 @@ Records: `314`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-08T12:28:04Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | partial | 2026-09-08T13:22:26Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Computer Graphics Software
 
@@ -365,7 +365,7 @@ Records: `314`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | amcharts/amcharts4 | partial | 2026-03-23T14:16:07Z | [open](../records/maps-amcharts-amcharts4-76de220f.md) |
-| f5/unovis | partial | 2026-09-04T19:09:21Z | [open](../records/maps-f5-unovis-6e8a6849.md) |
+| f5/unovis | partial | 2026-09-08T06:10:38Z | [open](../records/maps-f5-unovis-6e8a6849.md) |
 | maptiler/maptiler-geocoding-control | partial | 2026-07-29T11:57:08Z | [open](../records/maps-maptiler-maptiler-geocoding-control-e23c4ebb.md) |
 | openglobus/openglobus | partial | 2026-09-07T15:07:24Z | [open](../records/maps-openglobus-openglobus-566e8f9b.md) |
 | reearth/reearth-visualizer | unknown | github_search_does_not_include_release_date | [open](../records/maps-reearth-reearth-visualizer-6966a648.md) |
@@ -499,7 +499,7 @@ Records: `314`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | mikro-orm/mikro-orm | partial | 2026-09-08T11:30:19Z | [open](../records/databases-mikro-orm-mikro-orm-988d6c85.md) |
-| prisma/orm | partial | 2026-09-08T09:53:59Z | [open](../records/databases-prisma-orm-d7875b44.md) |
+| prisma/orm | partial | 2026-09-08T13:19:07Z | [open](../records/databases-prisma-orm-d7875b44.md) |
 | rehacktive/caffeine | partial | 2022-11-30T16:19:55Z | [open](../records/databases-rehacktive-caffeine-7ba154b8.md) |
 | sequelize/sequelize | partial | 2026-09-08T11:49:40Z | [open](../records/databases-sequelize-sequelize-980d8352.md) |
 | strapi/strapi | partial | 2026-09-08T11:41:18Z | [open](../records/databases-strapi-strapi-16f55c01.md) |

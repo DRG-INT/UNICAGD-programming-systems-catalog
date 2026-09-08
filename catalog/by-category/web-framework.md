@@ -1,6 +1,6 @@
 # Web Framework
 
-Records: `487`
+Records: `488`
 
 ## Navigation
 
@@ -24,7 +24,7 @@ Records: `487`
 [Profiler (89)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (631)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (617)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (314)](type-checker.md)
-[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · **[Web Framework (487)](web-framework.md)**
+[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · **[Web Framework (488)](web-framework.md)**
 
 ## C++23
 
@@ -361,6 +361,7 @@ Records: `487`
 | happstack-server | 7.9.3 | 2025-09-04T15:38:46Z | [open](../records/haskell-happstack-server-a56a8811.md) |
 | happstack-server-tls | 7.2.1.7 | 2025-09-09T01:33:07Z | [open](../records/haskell-happstack-server-tls-e1140e67.md) |
 | launchdarkly-server-sdk | 4.6.0 | 2026-05-28T19:28:18Z | [open](../records/haskell-launchdarkly-server-sdk-183eca01.md) |
+| mcp-server | 0.2.0.2 | 2026-09-08T11:04:50Z | [open](../records/haskell-mcp-server-4051b88c.md) |
 | pty-mcp-server | 0.2.2.0 | 2026-07-13T09:12:34Z | [open](../records/haskell-pty-mcp-server-559470ce.md) |
 | servant-server | 0.20.3.0 | 2025-06-04T10:14:31Z | [open](../records/haskell-servant-server-533c5bca.md) |
 | serverless-haskell | 0.12.6 | 2021-04-06T05:33:01Z | [open](../records/haskell-serverless-haskell-eedcd034.md) |
@@ -396,7 +397,7 @@ Records: `487`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | JGLTechnologies/gin-rate-limit | unknown | not_a_go_module_path | [open](../records/go-jgltechnologies-gin-rate-limit-c93a4f16.md) |
-| openfaas/faas | unknown | not_a_go_module_path | [open](../records/go-openfaas-faas-7fddd6b7.md) |
+| openfaas/faas | partial | 2026-07-02T09:09:13Z | [open](../records/go-openfaas-faas-7fddd6b7.md) |
 
 ## Computer Graphics Software
 
@@ -466,7 +467,7 @@ Records: `487`
 | freerouting/freerouting | partial | 2026-09-08T07:12:16Z | [open](../records/maps-freerouting-freerouting-1dba680a.md) |
 | frzi/swiftui-router | partial | 2024-10-09T12:16:33Z | [open](../records/maps-frzi-swiftui-router-367cfeed.md) |
 | go-spatial/tegola | partial | 2026-09-02T15:06:10Z | [open](../records/maps-go-spatial-tegola-0b6db6ab.md) |
-| graphhopper/graphhopper | partial | 2026-09-08T07:53:00Z | [open](../records/maps-graphhopper-graphhopper-cfd324a4.md) |
+| graphhopper/graphhopper | partial | 2026-09-08T12:07:49Z | [open](../records/maps-graphhopper-graphhopper-cfd324a4.md) |
 | henrythasler/cloud-tileserver | partial | 2026-04-08T23:04:36Z | [open](../records/maps-henrythasler-cloud-tileserver-fc8f7868.md) |
 | kartotherian/kartotherian | partial | 2021-08-11T04:00:27Z | [open](../records/maps-kartotherian-kartotherian-b54778f4.md) |
 | katanemo/plano | partial | 2026-08-19T19:29:08Z | [open](../records/maps-katanemo-plano-886a078b.md) |

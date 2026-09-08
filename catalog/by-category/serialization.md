@@ -24,7 +24,7 @@ Records: `400`
 [Profiler (89)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · **[Serialization (400)](serialization.md)** · [Standard Library (25)](standard-library.md) · [Static Analyzer (631)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (617)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (314)](type-checker.md)
-[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (487)](web-framework.md)
+[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (488)](web-framework.md)
 
 ## C99
 
@@ -362,7 +362,7 @@ Records: `400`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| chai2010/advanced-go-programming-book | unknown | not_a_go_module_path | [open](../records/go-chai2010-advanced-go-programming-book-44a19e49.md) |
+| chai2010/advanced-go-programming-book | partial | 2025-10-07T01:08:59Z | [open](../records/go-chai2010-advanced-go-programming-book-44a19e49.md) |
 
 ## Starlark
 
@@ -375,7 +375,7 @@ Records: `400`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| headroomlabs-ai/headroom | partial | 2026-09-07T20:31:18Z | [open](../records/aim-s-headroomlabs-ai-headroom-d7859a86.md) |
+| headroomlabs-ai/headroom | partial | 2026-09-08T13:08:37Z | [open](../records/aim-s-headroomlabs-ai-headroom-d7859a86.md) |
 | ONNX | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-onnx-a7e4f39c.md) |
 
 ## APIs

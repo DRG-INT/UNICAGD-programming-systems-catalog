@@ -17,11 +17,11 @@
 | Source type | registry_expansion |
 | Verification | registry-derived |
 | Canonical URL | [https://hackage.haskell.org/package/clash-prelude](https://hackage.haskell.org/package/clash-prelude) |
-| Source record ids | hackage_recent-7ca8ee413152ad |
+| Source record ids | hackage_top_downloads-7ca8ee413152ad |
 
 ## System Engineer Summary
 
-Hackage package recently uploaded by QBayLogic.
+Hackage package with 96 recent downloads in the Hackage top-downloads listing.
 
 ## Operational Role
 
@@ -32,8 +32,8 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 1.10.2 | 2026-09-07T09:27:12Z | [https://hackage.haskell.org/packages/recent](https://hackage.haskell.org/packages/recent) |  |
-| preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
+| stable | known | 1.10.2 | 2026-09-07T09:27:12Z | [https://hackage.haskell.org/package/clash-prelude](https://hackage.haskell.org/package/clash-prelude) |  |
+| candidate | partial | 0.99.1 |  | [https://hackage.haskell.org/package/clash-prelude](https://hackage.haskell.org/package/clash-prelude) | hackage_candidate_date_missing |
 
 ## License And Use Alert
 
@@ -47,8 +47,8 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 - Treat category as `library` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://hackage.haskell.org/packages/recent` at `2026-09-07T10:20:50+00:00`.
-- Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
+- Latest stable metadata was observed from `https://hackage.haskell.org/package/clash-prelude` at `2026-09-08T13:26:16+00:00`.
+- Preview/nightly metadata is unknown because `hackage_candidate_date_missing`.
 
 ## Provenance
 
@@ -57,7 +57,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| hackage_recent_uploads | registry-derived | 2026-09-08 | `{"kind": "hackage_recent_uploads", "retrieved": "2026-09-08", "status": "registry-derived"}` |
+| hackage_top_downloads | registry-derived | 2026-09-08 | `{"kind": "hackage_top_downloads", "retrieved": "2026-09-08", "status": "registry-derived"}` |
 
 </details>
 
@@ -68,7 +68,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 Evidence records merged into this identity: `1`.
 
-- `hackage_recent-7ca8ee413152ad` from `hackage_recent` as `registry_expansion`
+- `hackage_top_downloads-7ca8ee413152ad` from `hackage_top_downloads` as `registry_expansion`
 
 </details>
 
@@ -103,4 +103,4 @@ Evidence records merged into this identity: `1`.
 [Profiler (89)](../by-category/profiler.md) · [Project Scaffolding (138)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (337)](../by-category/security-sast.md) · [Serialization (400)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (631)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (617)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (68)](../by-category/tutorial-book-styleguide.md) · [Type Checker (314)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1627)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (561)](../by-category/visualization-gui.md) · [Web Framework (487)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1627)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (561)](../by-category/visualization-gui.md) · [Web Framework (488)](../by-category/web-framework.md)

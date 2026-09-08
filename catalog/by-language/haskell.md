@@ -1,6 +1,6 @@
 # Haskell
 
-Records: `1516`
+Records: `1517`
 
 ## Navigation
 
@@ -24,7 +24,7 @@ Records: `1516`
 [Profiler (89)](../by-category/profiler.md) · [Project Scaffolding (138)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (337)](../by-category/security-sast.md) · [Serialization (400)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (631)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (617)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (68)](../by-category/tutorial-book-styleguide.md) · [Type Checker (314)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1627)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (561)](../by-category/visualization-gui.md) · [Web Framework (487)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1627)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (561)](../by-category/visualization-gui.md) · [Web Framework (488)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -1053,7 +1053,7 @@ Records: `1516`
 | [persistent](../records/haskell-persistent-9b1724c4.md) | 2.18.1.0 | 2026-01-14T23:05:56Z | registry-derived |
 | [persistent-mongoDB](../records/haskell-persistent-mongodb-24599212.md) | 2.13.1.0 | 2024-09-13T15:11:56Z | registry-derived |
 | [pgdl](../records/haskell-pgdl-6b04d821.md) | 10.10 | 2018-01-15T17:33:34Z | registry-derived |
-| [phino](../records/haskell-phino-0ffa79f2.md) | 0.0.116 | 2026-09-08T08:45:57Z | registry-derived |
+| [phino](../records/haskell-phino-0ffa79f2.md) | 0.0.117 | 2026-09-08T11:45:33Z | registry-derived |
 | [pinboard](../records/haskell-pinboard-08e346f1.md) | 0.10.3.0 | 2022-05-07T23:32:56Z | registry-derived |
 | [pinch](../records/haskell-pinch-801ed692.md) | 0.5.2.0 | 2024-07-09T02:44:30Z | registry-derived |
 | [plugins](../records/haskell-plugins-1103fc5c.md) | 1.6.2.1 | 2022-03-27T15:40:09Z | registry-derived |
@@ -1384,7 +1384,7 @@ Records: `1516`
 | [yesod-persistent](../records/haskell-yesod-persistent-425557b9.md) | 1.6.0.9 | 2026-06-16T20:33:49Z | registry-derived |
 | [yesod-platform](../records/haskell-yesod-platform-cc0166b2.md) | 1.2.13.3 | 2014-08-25T13:53:51Z | registry-derived |
 | [yesod-static](../records/haskell-yesod-static-f6ffdea6.md) | 1.6.1.3 | 2026-06-16T20:33:50Z | registry-derived |
-| [yi](../records/haskell-yi-3b78b64a.md) | 0.19.3 | 2024-11-01T13:06:18Z | registry-derived |
+| [yi](../records/haskell-yi-3b78b64a.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 | [Z-Data](../records/haskell-z-data-ad2a6ebb.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 | [Z-IO](../records/haskell-z-io-e37841a7.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 | [zeolite-lang](../records/haskell-zeolite-lang-121149cb.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
@@ -1784,6 +1784,7 @@ Records: `1516`
 | [happstack-server](../records/haskell-happstack-server-a56a8811.md) | 7.9.3 | 2025-09-04T15:38:46Z | registry-derived |
 | [happstack-server-tls](../records/haskell-happstack-server-tls-e1140e67.md) | 7.2.1.7 | 2025-09-09T01:33:07Z | registry-derived |
 | [launchdarkly-server-sdk](../records/haskell-launchdarkly-server-sdk-183eca01.md) | 4.6.0 | 2026-05-28T19:28:18Z | registry-derived |
+| [mcp-server](../records/haskell-mcp-server-4051b88c.md) | 0.2.0.2 | 2026-09-08T11:04:50Z | registry-derived |
 | [pty-mcp-server](../records/haskell-pty-mcp-server-559470ce.md) | 0.2.2.0 | 2026-07-13T09:12:34Z | registry-derived |
 | [servant-server](../records/haskell-servant-server-533c5bca.md) | 0.20.3.0 | 2025-06-04T10:14:31Z | registry-derived |
 | [serverless-haskell](../records/haskell-serverless-haskell-eedcd034.md) | 0.12.6 | 2021-04-06T05:33:01Z | registry-derived |

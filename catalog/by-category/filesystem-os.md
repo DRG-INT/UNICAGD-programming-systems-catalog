@@ -24,7 +24,7 @@ Records: `1614`
 [Profiler (89)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (631)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (617)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (314)](type-checker.md)
-[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (487)](web-framework.md)
+[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (488)](web-framework.md)
 
 ## C++23
 
@@ -570,19 +570,19 @@ Records: `1614`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | filippo.io/mostly-harmless/dockerdns | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-filippo-io-mostly-harmless-dockerdns-75b5c5a5.md) |
-| fyne-io/fyne | unknown | not_a_go_module_path | [open](../records/go-fyne-io-fyne-de36c7ca.md) |
-| ginuerzh/gost | unknown | not_a_go_module_path | [open](../records/go-ginuerzh-gost-9e6fc76a.md) |
-| go-kratos/kratos | unknown | not_a_go_module_path | [open](../records/go-go-kratos-kratos-75d15f10.md) |
+| fyne-io/fyne | partial | 2026-09-08T09:34:14Z | [open](../records/go-fyne-io-fyne-de36c7ca.md) |
+| ginuerzh/gost | partial | 2026-08-30T10:02:45Z | [open](../records/go-ginuerzh-gost-9e6fc76a.md) |
+| go-kratos/kratos | partial | 2026-08-19T05:14:19Z | [open](../records/go-go-kratos-kratos-75d15f10.md) |
 | gosom/scrapemate | unknown | not_a_go_module_path | [open](../records/go-gosom-scrapemate-536afe4d.md) |
-| koss-null/FuncFrog | unknown | not_a_go_module_path | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
-| m1k1o/neko | unknown | not_a_go_module_path | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | unknown | not_a_go_module_path | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
+| m1k1o/neko | partial | 2026-08-30T15:02:19Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
+| mattermost/mattermost | partial | 2026-09-08T13:22:56Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ethpandaops/ethereum-package | partial | 2026-09-08T12:25:27Z | [open](../records/starlark-ethpandaops-ethereum-package-9da742d9.md) |
+| ethpandaops/ethereum-package | partial | 2026-09-08T13:08:56Z | [open](../records/starlark-ethpandaops-ethereum-package-9da742d9.md) |
 
 ## Basilisk
 
@@ -808,7 +808,7 @@ Records: `1614`
 | 52inc/Pulley | partial | 2024-12-03T22:49:50Z | [open](../records/maps-52inc-pulley-a5b376ec.md) |
 | ajnisbet/opentopodata | unknown | github_search_does_not_include_release_date | [open](../records/maps-ajnisbet-opentopodata-c059790e.md) |
 | alexbosworth/balanceofsatoshis | partial | 2026-09-02T16:56:37Z | [open](../records/maps-alexbosworth-balanceofsatoshis-9b5e0bba.md) |
-| apache/calcite | partial | 2026-09-08T07:34:29Z | [open](../records/maps-apache-calcite-64e8faa1.md) |
+| apache/calcite | partial | 2026-09-08T12:08:49Z | [open](../records/maps-apache-calcite-64e8faa1.md) |
 | apache/ofbiz | partial | 2020-04-27T06:10:43Z | [open](../records/maps-apache-ofbiz-0fe319f9.md) |
 | apache/sedona | partial | 2026-09-07T16:35:08Z | [open](../records/maps-apache-sedona-820c9e53.md) |
 | artembobkin/ImmersiveMap | partial | 2026-09-04T08:18:05Z | [open](../records/maps-artembobkin-immersivemap-7806dbe3.md) |
@@ -816,11 +816,11 @@ Records: `1614`
 | atlasdatatech/tiler | partial | 2024-06-02T05:15:30Z | [open](../records/maps-atlasdatatech-tiler-6dc4bb32.md) |
 | BigBodyCobain/Shadowbroker | unknown | github_search_does_not_include_release_date | [open](../records/maps-bigbodycobain-shadowbroker-535b05ca.md) |
 | bilawalsidhu/gods-eye-view | partial | 2026-09-05T08:30:57Z | [open](../records/maps-bilawalsidhu-gods-eye-view-dabd39de.md) |
-| CesiumGS/cesium | partial | 2026-09-04T21:52:44Z | [open](../records/maps-cesiumgs-cesium-0b127eb9.md) |
+| CesiumGS/cesium | partial | 2026-09-08T09:56:54Z | [open](../records/maps-cesiumgs-cesium-0b127eb9.md) |
 | CesiumGS/cesium-unreal | partial | 2026-09-02T15:59:11Z | [open](../records/maps-cesiumgs-cesium-unreal-403e1d28.md) |
 | cgohlke/geospatial-wheels | partial | 2026-08-20T01:20:34Z | [open](../records/maps-cgohlke-geospatial-wheels-6908f900.md) |
 | chrieke/awesome-geospatial-companies | partial | 2026-07-09T02:14:59Z | [open](../records/maps-chrieke-awesome-geospatial-companies-c415111d.md) |
-| databendlabs/databend | partial | 2026-09-08T08:21:24Z | [open](../records/maps-databendlabs-databend-b7f1b4ac.md) |
+| databendlabs/databend | partial | 2026-09-08T12:53:38Z | [open](../records/maps-databendlabs-databend-b7f1b4ac.md) |
 | deepVector/geospatial-machine-learning | partial | 2018-06-21T20:04:07Z | [open](../records/maps-deepvector-geospatial-machine-learning-e4503c88.md) |
 | dhconnelly/rtreego | partial | 2024-12-20T06:54:41Z | [open](../records/maps-dhconnelly-rtreego-d1b2c3e4.md) |
 | e-sensing/sits | partial | 2026-08-31T09:55:57Z | [open](../records/maps-e-sensing-sits-4d30513a.md) |
@@ -828,10 +828,10 @@ Records: `1614`
 | eurostat/eurostat-map | partial | 2026-08-25T14:15:04Z | [open](../records/maps-eurostat-eurostat-map-3607c2dc.md) |
 | fatiando/verde | partial | 2026-08-04T17:47:38Z | [open](../records/maps-fatiando-verde-bc8675d9.md) |
 | fenwii/OpenHarmony | partial | 2025-07-01T13:08:55Z | [open](../records/maps-fenwii-openharmony-29b44e36.md) |
-| Freika/dawarich | partial | 2026-09-05T09:45:59Z | [open](../records/maps-freika-dawarich-ee63e709.md) |
+| Freika/dawarich | partial | 2026-09-07T23:29:51Z | [open](../records/maps-freika-dawarich-ee63e709.md) |
 | gboeing/osmnx-examples | partial | 2026-09-02T17:20:53Z | [open](../records/maps-gboeing-osmnx-examples-59da9b79.md) |
 | gee-community/geetools | partial | 2026-09-02T09:07:50Z | [open](../records/maps-gee-community-geetools-c599b5c8.md) |
-| GenericMappingTools/gmt | partial | 2026-09-08T03:33:51Z | [open](../records/maps-genericmappingtools-gmt-8b1cff73.md) |
+| GenericMappingTools/gmt | partial | 2026-09-08T12:37:06Z | [open](../records/maps-genericmappingtools-gmt-8b1cff73.md) |
 | geocompx/geocompr | partial | 2026-07-30T08:33:15Z | [open](../records/maps-geocompx-geocompr-56cd97d0.md) |
 | GeoNode/geonode | partial | 2026-09-08T06:55:42Z | [open](../records/maps-geonode-geonode-194e67ae.md) |
 | geopandas/geopandas | partial | 2026-09-07T07:43:37Z | [open](../records/maps-geopandas-geopandas-8e718954.md) |
@@ -843,7 +843,7 @@ Records: `1614`
 | giswqs/earthengine-py-notebooks | partial | 2021-03-16T15:05:05Z | [open](../records/maps-giswqs-earthengine-py-notebooks-ddfabcd8.md) |
 | giswqs/geog-312 | unknown | github_search_does_not_include_release_date | [open](../records/maps-giswqs-geog-312-52015923.md) |
 | giswqs/intro-gispro | partial | 2026-08-16T19:53:05Z | [open](../records/maps-giswqs-intro-gispro-2e41cded.md) |
-| googlemaps/android-maps-compose | partial | 2026-09-04T23:07:52Z | [open](../records/maps-googlemaps-android-maps-compose-aa796bdb.md) |
+| googlemaps/android-maps-compose | partial | 2026-09-08T10:23:32Z | [open](../records/maps-googlemaps-android-maps-compose-aa796bdb.md) |
 | headwaymaps/headway | partial | 2026-09-06T14:52:50Z | [open](../records/maps-headwaymaps-headway-f1c2ebfc.md) |
 | HoshinoSuzumi/chronoframe | partial | 2026-09-08T00:14:58Z | [open](../records/maps-hoshinosuzumi-chronoframe-59aaa2ce.md) |
 | hotosm/osm-analytics | partial | 2024-04-23T12:12:29Z | [open](../records/maps-hotosm-osm-analytics-ff5f1c75.md) |
@@ -865,8 +865,8 @@ Records: `1614`
 | mapbox/mapbox-gl-native | partial | 2023-07-27T10:31:03Z | [open](../records/maps-mapbox-mapbox-gl-native-ff80e742.md) |
 | mapbox/MapboxGeocoder.swift | partial | 2022-09-16T19:41:09Z | [open](../records/maps-mapbox-mapboxgeocoder-swift-8e8212bc.md) |
 | maplibre/maplibre-compose | partial | 2026-09-04T07:40:09Z | [open](../records/maps-maplibre-maplibre-compose-3f41b1db.md) |
-| maplibre/maplibre-native | partial | 2026-09-05T00:42:15Z | [open](../records/maps-maplibre-maplibre-native-f9033b94.md) |
-| Mapsui/Mapsui | partial | 2026-09-08T07:42:16Z | [open](../records/maps-mapsui-mapsui-d3cbf954.md) |
+| maplibre/maplibre-native | partial | 2026-09-08T12:59:44Z | [open](../records/maps-maplibre-maplibre-native-f9033b94.md) |
+| Mapsui/Mapsui | partial | 2026-09-08T09:02:04Z | [open](../records/maps-mapsui-mapsui-d3cbf954.md) |
 | maptiler/qgis-maptiler-plugin | partial | 2026-08-11T10:56:34Z | [open](../records/maps-maptiler-qgis-maptiler-plugin-142df605.md) |
 | marceloprates/prettymaps | partial | 2026-07-30T16:29:42Z | [open](../records/maps-marceloprates-prettymaps-e0130cc1.md) |
 | matrix-org/pinecone | partial | 2025-03-04T15:56:00Z | [open](../records/maps-matrix-org-pinecone-5210c639.md) |
@@ -886,7 +886,7 @@ Records: `1614`
 | opengeos/streamlit-geospatial | partial | 2026-05-25T20:32:50Z | [open](../records/maps-opengeos-streamlit-geospatial-4c1a29ad.md) |
 | opengisch/QField | unknown | github_search_does_not_include_release_date | [open](../records/maps-opengisch-qfield-9105aa16.md) |
 | originalankur/maptoposter | partial | 2026-08-06T07:57:04Z | [open](../records/maps-originalankur-maptoposter-a6308e00.md) |
-| OSGeo/grass | partial | 2026-09-07T23:26:00Z | [open](../records/maps-osgeo-grass-36e87adb.md) |
+| OSGeo/grass | partial | 2026-09-08T13:02:58Z | [open](../records/maps-osgeo-grass-36e87adb.md) |
 | osm-search/Nominatim | partial | 2026-09-08T08:30:52Z | [open](../records/maps-osm-search-nominatim-1378bce3.md) |
 | osmcode/osmium-tool | partial | 2026-09-02T20:40:43Z | [open](../records/maps-osmcode-osmium-tool-c7a1c3f9.md) |
 | osmlab/awesome-openstreetmap | partial | 2026-02-23T22:06:05Z | [open](../records/maps-osmlab-awesome-openstreetmap-129e4352.md) |
@@ -904,8 +904,8 @@ Records: `1614`
 | randyzwitch/streamlit-folium | partial | 2026-09-01T22:11:35Z | [open](../records/maps-randyzwitch-streamlit-folium-fb03280d.md) |
 | react-native-maps/react-native-maps | partial | 2026-09-06T20:49:44Z | [open](../records/maps-react-native-maps-react-native-maps-aca06963.md) |
 | ropensci/osmdata | partial | 2026-09-01T12:00:08Z | [open](../records/maps-ropensci-osmdata-731b87a2.md) |
-| sacridini/Awesome-Geospatial | partial | 2026-09-03T09:03:19Z | [open](../records/maps-sacridini-awesome-geospatial-f07fd742.md) |
-| samapriya/awesome-gee-community-datasets | partial | 2026-09-05T07:18:25Z | [open](../records/maps-samapriya-awesome-gee-community-datasets-3c684094.md) |
+| sacridini/Awesome-Geospatial | partial | 2026-09-08T09:10:20Z | [open](../records/maps-sacridini-awesome-geospatial-f07fd742.md) |
+| samapriya/awesome-gee-community-datasets | partial | 2026-09-08T02:03:19Z | [open](../records/maps-samapriya-awesome-gee-community-datasets-3c684094.md) |
 | sethoscope/heatmap | partial | 2026-06-20T01:58:04Z | [open](../records/maps-sethoscope-heatmap-7bb1b329.md) |
 | stepankuzmin/tilelive-postgis | partial | 2026-09-03T23:48:42Z | [open](../records/maps-stepankuzmin-tilelive-postgis-326f9d25.md) |
 | Stratio/cassandra-lucene-index | partial | 2020-05-27T11:21:14Z | [open](../records/maps-stratio-cassandra-lucene-index-681d0861.md) |
@@ -913,7 +913,7 @@ Records: `1614`
 | The-Osint-Toolbox/Geolocation-OSINT | partial | 2026-05-24T06:52:19Z | [open](../records/maps-the-osint-toolbox-geolocation-osint-50da3900.md) |
 | tidwall/tile38 | partial | 2026-09-02T08:15:39Z | [open](../records/maps-tidwall-tile38-18e4fb35.md) |
 | torchgeo/terratorch | partial | 2026-08-31T13:02:45Z | [open](../records/maps-torchgeo-terratorch-7f26ee3e.md) |
-| torchgeo/torchgeo | partial | 2026-09-06T17:59:58Z | [open](../records/maps-torchgeo-torchgeo-6274ceee.md) |
+| torchgeo/torchgeo | partial | 2026-09-08T08:55:25Z | [open](../records/maps-torchgeo-torchgeo-6274ceee.md) |
 | tordanik/OSM2World | partial | 2026-08-26T13:08:51Z | [open](../records/maps-tordanik-osm2world-02ec29bb.md) |
 | yousifamanuel/terraink | partial | 2026-08-17T21:00:45Z | [open](../records/maps-yousifamanuel-terraink-33b659b4.md) |
 
@@ -1779,7 +1779,7 @@ Records: `1614`
 | dusty-commits/Closures | unknown | not_a_cocoapods_name | [open](../records/cocoa-dusty-commits-closures-519b25c5.md) |
 | FluidGroup/NextGrowingTextView | unknown | not_a_cocoapods_name | [open](../records/cocoa-fluidgroup-nextgrowingtextview-19805040.md) |
 | freshOS/Stevia | unknown | not_a_cocoapods_name | [open](../records/cocoa-freshos-stevia-f781058c.md) |
-| guoyingtao/Mantis | unknown | not_a_cocoapods_name | [open](../records/cocoa-guoyingtao-mantis-145f6603.md) |
+| guoyingtao/Mantis | partial | 2026-07-11T23:04:15Z | [open](../records/cocoa-guoyingtao-mantis-145f6603.md) |
 | Heimdallr.swift | 4.0.0 | 2024-01-04T09:06:03Z | [open](../records/cocoa-heimdallr-swift-1def73fc.md) |
 | iOS-Viper-Architecture | unknown | cocoapods_metadata_missing | [open](../records/cocoa-ios-viper-architecture-eb2ddbcf.md) |
 | ivanvorobei/awesome-ios | unknown | not_a_cocoapods_name | [open](../records/cocoa-ivanvorobei-awesome-ios-b2601cf1.md) |
@@ -1792,7 +1792,7 @@ Records: `1614`
 | KrauseFx/TSMessages | unknown | not_a_cocoapods_name | [open](../records/cocoa-krausefx-tsmessages-76430fc4.md) |
 | krevis/MIDIApps | unknown | not_a_cocoapods_name | [open](../records/cocoa-krevis-midiapps-99b0ceac.md) |
 | Linker | 1.0.0 | 2018-02-16 13:10:21 UTC | [open](../records/cocoa-linker-4fdf9997.md) |
-| LouisCAD/Splitties | unknown | not_a_cocoapods_name | [open](../records/cocoa-louiscad-splitties-2b7fd459.md) |
+| LouisCAD/Splitties | partial | 2024-05-29T22:10:21Z | [open](../records/cocoa-louiscad-splitties-2b7fd459.md) |
 | lovoo/NSFWDetector | partial | 2024-08-29T13:35:18Z | [open](../records/cocoa-lovoo-nsfwdetector-c23e9e45.md) |
 | lukakerr/NSWindowStyles | unknown | not_a_cocoapods_name | [open](../records/cocoa-lukakerr-nswindowstyles-1fe4dfe0.md) |
 | marcosgriselli/SwipeableTabBarController | unknown | not_a_cocoapods_name | [open](../records/cocoa-marcosgriselli-swipeabletabbarcontroller-78b50143.md) |
@@ -1825,7 +1825,7 @@ Records: `1614`
 | vanshg/MacAssistant | unknown | not_a_cocoapods_name | [open](../records/cocoa-vanshg-macassistant-547bed40.md) |
 | WAAppRouting | 0.0.5 | 2015-11-13T01:24:41Z | [open](../records/cocoa-waapprouting-28d367e4.md) |
 | WenchaoD/FSCalendar | unknown | not_a_cocoapods_name | [open](../records/cocoa-wenchaod-fscalendar-a94a6797.md) |
-| wmcmahan/react-native-calendar-events | unknown | not_a_cocoapods_name | [open](../records/cocoa-wmcmahan-react-native-calendar-events-387e0782.md) |
+| wmcmahan/react-native-calendar-events | partial | 2026-01-05T21:09:47Z | [open](../records/cocoa-wmcmahan-react-native-calendar-events-387e0782.md) |
 | wxWidgets/wxWidgets | unknown | not_a_cocoapods_name | [open](../records/cocoa-wxwidgets-wxwidgets-d7c0778b.md) |
 | xmartlabs/XLPagerTabStrip | unknown | not_a_cocoapods_name | [open](../records/cocoa-xmartlabs-xlpagertabstrip-9d461d1f.md) |
 | Yalantis/FoldingTabBar.iOS | unknown | not_a_cocoapods_name | [open](../records/cocoa-yalantis-foldingtabbar-ios-6790d432.md) |

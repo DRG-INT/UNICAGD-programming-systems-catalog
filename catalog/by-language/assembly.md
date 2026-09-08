@@ -24,7 +24,7 @@ Records: `308`
 [Profiler (89)](../by-category/profiler.md) · [Project Scaffolding (138)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (337)](../by-category/security-sast.md) · [Serialization (400)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (631)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (617)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (68)](../by-category/tutorial-book-styleguide.md) · [Type Checker (314)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1627)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (561)](../by-category/visualization-gui.md) · [Web Framework (487)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1627)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (561)](../by-category/visualization-gui.md) · [Web Framework (488)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -70,7 +70,7 @@ Records: `308`
 | [emproof-com/nyxstone](../records/assembly-emproof-com-nyxstone-2e6c50f8.md) | partial | 2026-06-05T16:43:08Z | registry-derived |
 | [Fedjmike/mini-c](../records/assembly-fedjmike-mini-c-295a2fc0.md) | partial | 2022-04-15T08:24:14Z | registry-derived |
 | [HexHive/retrowrite](../records/assembly-hexhive-retrowrite-c7fefa2b.md) | partial | 2025-04-26T16:48:55Z | registry-derived |
-| [illegalstudio/elephc](../records/assembly-illegalstudio-elephc-5fbaada8.md) | partial | 2026-09-08T12:26:49Z | registry-derived |
+| [illegalstudio/elephc](../records/assembly-illegalstudio-elephc-5fbaada8.md) | partial | 2026-09-08T13:16:20Z | registry-derived |
 | [joexbayer/RetrOS-32](../records/assembly-joexbayer-retros-32-b6c205a2.md) | partial | 2026-02-22T16:07:58Z | registry-derived |
 | [JustasMasiulis/inline_syscall](../records/assembly-justasmasiulis-inline-syscall-0c8a798a.md) | partial | 2024-06-21T00:26:33Z | registry-derived |
 | [Mati365/ts-c-compiler](../records/assembly-mati365-ts-c-compiler-bc7fb5c3.md) | partial | 2026-08-11T06:13:10Z | registry-derived |
@@ -84,7 +84,7 @@ Records: `308`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [mytechnotalent/Hacking-Windows](../records/assembly-mytechnotalent-hacking-windows-8a5a66d0.md) | partial | 2026-09-06T13:08:25Z | registry-derived |
+| [mytechnotalent/Hacking-Windows](../records/assembly-mytechnotalent-hacking-windows-8a5a66d0.md) | partial | 2026-09-08T12:44:50Z | registry-derived |
 | [reworkd/AgentGPT](../records/assembly-reworkd-agentgpt-75e0a085.md) | partial | 2025-04-29T01:19:32Z | registry-derived |
 
 ### Cryptography
@@ -280,7 +280,7 @@ Records: `308`
 | [mirrorer/libbpg](../records/assembly-mirrorer-libbpg-745138b3.md) | partial | 2022-01-30T03:10:24Z | registry-derived |
 | [mschwartz/assembly-tutorial](../records/assembly-mschwartz-assembly-tutorial-860de2bf.md) | partial | 2026-05-03T23:34:30Z | registry-derived |
 | [mtuomi/SecondReality](../records/assembly-mtuomi-secondreality-5c489f57.md) | partial | 2022-06-27T15:45:39Z | registry-derived |
-| [mytechnotalent/Reverse-Engineering](../records/assembly-mytechnotalent-reverse-engineering-73d01425.md) | partial | 2026-09-06T13:08:10Z | registry-derived |
+| [mytechnotalent/Reverse-Engineering](../records/assembly-mytechnotalent-reverse-engineering-73d01425.md) | partial | 2026-09-08T12:44:34Z | registry-derived |
 | [nanochess/bootOS](../records/assembly-nanochess-bootos-3579b41b.md) | partial | 2026-08-01T04:58:00Z | registry-derived |
 | [nemasu/asmttpd](../records/assembly-nemasu-asmttpd-9a612693.md) | partial | 2025-03-01T14:36:22Z | registry-derived |
 | [netwide-assembler/nasm](../records/assembly-netwide-assembler-nasm-7b1656d3.md) | partial | 2026-08-19T23:47:10Z | registry-derived |
@@ -289,7 +289,7 @@ Records: `308`
 | [nornagon/jonesforth](../records/assembly-nornagon-jonesforth-691f782b.md) | partial | 2023-04-04T16:56:38Z | registry-derived |
 | [obdev/v-usb](../records/assembly-obdev-v-usb-977cf25b.md) | partial | 2026-08-26T14:47:54Z | registry-derived |
 | [openhwgroup/core-v-verif](../records/assembly-openhwgroup-core-v-verif-9b6682d3.md) | partial | 2026-08-13T11:46:24Z | registry-derived |
-| [openhwgroup/cva6](../records/assembly-openhwgroup-cva6-c0f79b44.md) | partial | 2026-09-08T11:28:20Z | registry-derived |
+| [openhwgroup/cva6](../records/assembly-openhwgroup-cva6-c0f79b44.md) | partial | 2026-09-08T12:48:41Z | registry-derived |
 | [oriansj/stage0](../records/assembly-oriansj-stage0-6791bc52.md) | partial | 2026-06-17T03:03:21Z | registry-derived |
 | [Overv/MineAssemble](../records/assembly-overv-mineassemble-4e2e626b.md) | partial | 2023-09-11T09:31:31Z | registry-derived |
 | [PDP-10/its](../records/assembly-pdp-10-its-cfa6e89a.md) | partial | 2026-08-19T16:37:56Z | registry-derived |

@@ -20,7 +20,7 @@
 [Profiler (89)](by-category/profiler.md) · [Project Scaffolding (138)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (337)](by-category/security-sast.md) · [Serialization (400)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (631)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (617)](by-category/testing-framework.md) · [Tutorial Book Styleguide (68)](by-category/tutorial-book-styleguide.md) · [Type Checker (314)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1627)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (561)](by-category/visualization-gui.md) · [Web Framework (487)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1627)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (561)](by-category/visualization-gui.md) · [Web Framework (488)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -17142,6 +17142,7 @@
 | `hackage_recent-3dac3a6b541303` | dtmc | [open](records/haskell-dtmc-cfd2fdd2.md) |
 | `hackage_recent-4307de4136b7d8` | clash-lib-hedgehog | [open](records/haskell-clash-lib-hedgehog-09e86036.md) |
 | `hackage_recent-431c8c491f22e0` | clash-lib | [open](records/haskell-clash-lib-284f93bb.md) |
+| `hackage_recent-47efd10c48c5f2` | mcp-server | [open](records/haskell-mcp-server-4051b88c.md) |
 | `hackage_recent-4991588be3e093` | data-rfc5280 | [open](records/haskell-data-rfc5280-fa027eaf.md) |
 | `hackage_recent-4c746b3da5448e` | freckle-otel | [open](records/haskell-freckle-otel-14553b97.md) |
 | `hackage_recent-560e75fc58d6d8` | vcs-ignore | [open](records/haskell-vcs-ignore-b594cffb.md) |
@@ -17160,7 +17161,6 @@
 | `hackage_recent-792e7e5061c2b3` | exchangealgebra | [open](records/haskell-exchangealgebra-c5300b87.md) |
 | `hackage_recent-7b9b3700445a16` | kb-text-layout | [open](records/haskell-kb-text-layout-134bb424.md) |
 | `hackage_recent-7c1b39c2dd590e` | keiro-core | [open](records/haskell-keiro-core-42128f63.md) |
-| `hackage_recent-7ca8ee413152ad` | clash-prelude | [open](records/haskell-clash-prelude-3e80017c.md) |
 | `hackage_recent-7e6eeb91445d92` | aihc-parser | [open](records/haskell-aihc-parser-d88ae54b.md) |
 | `hackage_recent-7fb296138f6590` | keid-ui-dearimgui | [open](records/haskell-keid-ui-dearimgui-db02e01b.md) |
 | `hackage_recent-82bc8074a430e2` | hylolib | [open](records/haskell-hylolib-4239adb4.md) |
@@ -17876,6 +17876,7 @@
 | `hackage_top_downloads-7c20c029334528` | yesod-test | [open](records/haskell-yesod-test-b573e9e5.md) |
 | `hackage_top_downloads-7c2594d2a4e4d2` | ghc-mod | [open](records/haskell-ghc-mod-d3b235eb.md) |
 | `hackage_top_downloads-7c8a8993047bee` | tasty-rerun | [open](records/haskell-tasty-rerun-ca2da5f3.md) |
+| `hackage_top_downloads-7ca8ee413152ad` | clash-prelude | [open](records/haskell-clash-prelude-3e80017c.md) |
 | `hackage_top_downloads-7d517415040948` | gtk | [open](records/haskell-gtk-4e1c9a38.md) |
 | `hackage_top_downloads-7d53e87e19f978` | amazonka-cloudsearch-domains | [open](records/haskell-amazonka-cloudsearch-domains-4f967faa.md) |
 | `hackage_top_downloads-7d8f66237e2342` | reflex-vty | [open](records/haskell-reflex-vty-4c5538f0.md) |
