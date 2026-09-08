@@ -496,7 +496,7 @@ Records: `356`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| asciimoo/hister | partial | 2026-09-06T18:54:42Z | [open](../records/catalogs-asciimoo-hister-7dbd60c9.md) |
+| asciimoo/hister | partial | 2026-09-07T17:14:54Z | [open](../records/catalogs-asciimoo-hister-7dbd60c9.md) |
 | gamedilong/awesome-cn | partial | 2020-01-23T06:56:32Z | [open](../records/catalogs-gamedilong-awesome-cn-95ab928b.md) |
 
 ## Assembly

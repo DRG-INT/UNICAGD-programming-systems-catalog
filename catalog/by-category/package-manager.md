@@ -489,7 +489,7 @@ Records: `442`
 | 89luca89/lilipod | partial | 2026-02-13T14:56:47Z | [open](../records/catalogs-89luca89-lilipod-04b83b9a.md) |
 | Aetherinox/pause-windows-updates | partial | 2025-10-27T17:52:56Z | [open](../records/catalogs-aetherinox-pause-windows-updates-950b61a1.md) |
 | agentclientprotocol/registry | partial | 2026-09-08T02:05:52Z | [open](../records/catalogs-agentclientprotocol-registry-7431edbd.md) |
-| agentic-community/mcp-gateway-registry | partial | 2026-09-08T01:53:24Z | [open](../records/catalogs-agentic-community-mcp-gateway-registry-642bbde2.md) |
+| agentic-community/mcp-gateway-registry | partial | 2026-09-08T03:16:10Z | [open](../records/catalogs-agentic-community-mcp-gateway-registry-642bbde2.md) |
 | agentregistry-dev/agentregistry | partial | 2026-09-03T18:21:37Z | [open](../records/catalogs-agentregistry-dev-agentregistry-33204e4a.md) |
 | ancel1x/Ancels-Performance-Batch | partial | 2026-04-03T17:54:00Z | [open](../records/catalogs-ancel1x-ancels-performance-batch-c6cc4451.md) |
 | andrey-pohilko/registry-cli | partial | 2025-08-21T07:46:50Z | [open](../records/catalogs-andrey-pohilko-registry-cli-f5eec2cd.md) |
@@ -499,8 +499,8 @@ Records: `442`
 | carvel-dev/imgpkg | partial | 2026-09-03T12:29:51Z | [open](../records/catalogs-carvel-dev-imgpkg-3458fef2.md) |
 | cjee21/Check-UEFISecureBootVariables | partial | 2026-09-02T09:04:25Z | [open](../records/catalogs-cjee21-check-uefisecurebootvariables-8ec8a26c.md) |
 | cloudflare/serverless-registry | partial | 2026-08-17T16:59:41Z | [open](../records/catalogs-cloudflare-serverless-registry-7e15c0d4.md) |
-| cmintey/wishlist | partial | 2026-09-07T21:17:15Z | [open](../records/catalogs-cmintey-wishlist-8f5a4a92.md) |
-| cnpm/cnpmcore | partial | 2026-09-07T20:34:31Z | [open](../records/catalogs-cnpm-cnpmcore-7672c148.md) |
+| cmintey/wishlist | partial | 2026-09-08T02:52:00Z | [open](../records/catalogs-cmintey-wishlist-8f5a4a92.md) |
+| cnpm/cnpmcore | partial | 2026-09-08T03:31:39Z | [open](../records/catalogs-cnpm-cnpmcore-7672c148.md) |
 | cnpm/cnpmjs.org | partial | 2024-06-01T19:41:29Z | [open](../records/catalogs-cnpm-cnpmjs-org-47ae554f.md) |
 | containrrr/watchtower | partial | 2025-12-17T14:44:11Z | [open](../records/catalogs-containrrr-watchtower-abb7042e.md) |
 | cr0hn/dockerscan | partial | 2026-09-07T13:19:27Z | [open](../records/catalogs-cr0hn-dockerscan-25f3fe5a.md) |
@@ -511,7 +511,7 @@ Records: `442`
 | distribution/distribution | partial | 2026-09-02T08:15:56Z | [open](../records/catalogs-distribution-distribution-7b2980f6.md) |
 | docker/hub-tool | partial | 2026-03-16T18:08:27Z | [open](../records/catalogs-docker-hub-tool-aaeda6df.md) |
 | docker/login-action | partial | 2026-09-03T12:23:52Z | [open](../records/catalogs-docker-login-action-6e2ca553.md) |
-| dragonflyoss/dragonfly | partial | 2026-09-07T15:54:10Z | [open](../records/catalogs-dragonflyoss-dragonfly-6d367c61.md) |
+| dragonflyoss/dragonfly | partial | 2026-09-08T03:06:04Z | [open](../records/catalogs-dragonflyoss-dragonfly-6d367c61.md) |
 | dragonflyoss/dragonfly-archived | partial | 2023-02-27T11:07:29Z | [open](../records/catalogs-dragonflyoss-dragonfly-archived-f9b97716.md) |
 | dromara/disjob | partial | 2026-08-08T10:16:42Z | [open](../records/catalogs-dromara-disjob-0416b69e.md) |
 | eclipse-openvsx/openvsx | partial | 2026-09-07T21:15:08Z | [open](../records/catalogs-eclipse-openvsx-openvsx-af690d57.md) |
@@ -551,10 +551,10 @@ Records: `442`
 | npm/marky-markdown | partial | 2024-02-26T20:40:35Z | [open](../records/catalogs-npm-marky-markdown-aa364aec.md) |
 | npm/npm-expansions | partial | 2024-06-12T17:40:20Z | [open](../records/catalogs-npm-npm-expansions-c56dd26b.md) |
 | npm/registry | partial | 2024-06-02T19:19:54Z | [open](../records/catalogs-npm-registry-4330171b.md) |
-| Observal/Observal | partial | 2026-09-07T23:11:21Z | [open](../records/catalogs-observal-observal-b4833836.md) |
+| Observal/Observal | partial | 2026-09-08T02:49:22Z | [open](../records/catalogs-observal-observal-b4833836.md) |
 | open-services/open-registry | partial | 2022-05-26T22:36:15Z | [open](../records/catalogs-open-services-open-registry-c7dd1e7f.md) |
 | openupm/openupm | partial | 2026-09-08T00:02:48Z | [open](../records/catalogs-openupm-openupm-b86041d5.md) |
-| oras-project/oras | partial | 2026-09-07T01:57:03Z | [open](../records/catalogs-oras-project-oras-63269fb9.md) |
+| oras-project/oras | partial | 2026-09-08T03:43:05Z | [open](../records/catalogs-oras-project-oras-63269fb9.md) |
 | oras-project/oras-go | partial | 2026-09-07T20:34:25Z | [open](../records/catalogs-oras-project-oras-go-5d7d0c28.md) |
 | outsideris/citizen | partial | 2024-10-12T20:14:31Z | [open](../records/catalogs-outsideris-citizen-8805d3c4.md) |
 | packistry/packistry | partial | 2026-08-12T19:19:09Z | [open](../records/catalogs-packistry-packistry-e15ec62a.md) |
@@ -573,10 +573,10 @@ Records: `442`
 | semantic-release/npm | partial | 2026-09-07T11:26:07Z | [open](../records/catalogs-semantic-release-npm-aa5de2b3.md) |
 | senthilrch/kube-fledged | partial | 2026-07-17T10:52:16Z | [open](../records/catalogs-senthilrch-kube-fledged-c04c9aae.md) |
 | SiL3NC3/PortableRegistrator | partial | 2024-03-20T10:14:05Z | [open](../records/catalogs-sil3nc3-portableregistrator-bc6abed7.md) |
-| skilld-dev/skilld | partial | 2026-09-07T04:26:10Z | [open](../records/catalogs-skilld-dev-skilld-f86e137d.md) |
+| skilld-dev/skilld | partial | 2026-09-08T04:22:22Z | [open](../records/catalogs-skilld-dev-skilld-f86e137d.md) |
 | sky22333/hubproxy | partial | 2026-08-02T13:47:26Z | [open](../records/catalogs-sky22333-hubproxy-37c3d79d.md) |
 | spegel-org/spegel | partial | 2026-09-07T11:55:17Z | [open](../records/catalogs-spegel-org-spegel-05ead580.md) |
-| superdesigndev/treg | partial | 2026-09-08T00:44:49Z | [open](../records/catalogs-superdesigndev-treg-2bceb567.md) |
+| superdesigndev/treg | partial | 2026-09-08T04:21:57Z | [open](../records/catalogs-superdesigndev-treg-2bceb567.md) |
 | tektoncd/catalog | partial | 2026-07-03T10:04:40Z | [open](../records/catalogs-tektoncd-catalog-3a3ca6b3.md) |
 | terralist/terralist | partial | 2026-09-05T09:04:50Z | [open](../records/catalogs-terralist-terralist-ed589b1f.md) |
 | Trow-Registry/trow | partial | 2026-09-01T07:08:25Z | [open](../records/catalogs-trow-registry-trow-1a7e3ee6.md) |

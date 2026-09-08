@@ -1537,7 +1537,7 @@ Records: `1619`
 | opendatacube/datacube-core | partial | 2026-09-05T08:18:24Z | [open](../records/radars-opendatacube-datacube-core-d382000b.md) |
 | orfeotoolbox/OTB | partial | 2026-09-03T13:06:34Z | [open](../records/radars-orfeotoolbox-otb-5833013c.md) |
 | sargraph/sargraph.github.io | partial | 2023-04-08T23:50:36Z | [open](../records/radars-sargraph-sargraph-github-io-db66a524.md) |
-| semuconsulting/PyGPSClient | partial | 2026-09-03T11:13:57Z | [open](../records/radars-semuconsulting-pygpsclient-03a614eb.md) |
+| semuconsulting/PyGPSClient | partial | 2026-09-07T10:44:12Z | [open](../records/radars-semuconsulting-pygpsclient-03a614eb.md) |
 | sentinel-hub/custom-scripts | partial | 2026-08-13T12:47:30Z | [open](../records/radars-sentinel-hub-custom-scripts-c35486ea.md) |
 | ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing | partial | 2024-06-06T01:15:00Z | [open](../records/radars-vitae-transformer-vitae-transformer-remote-sensing-1fe2df3f.md) |
 | webandras/gee_s1_sar_wetlands | partial | 2020-05-26T23:32:54Z | [open](../records/radars-webandras-gee-s1-sar-wetlands-46abf8d9.md) |
@@ -1555,7 +1555,7 @@ Records: `1619`
 | libcsp/libcsp | partial | 2026-09-07T12:25:21Z | [open](../records/satcom-satellites-libcsp-libcsp-abe29c50.md) |
 | Mejiro-McQueen/Bifrost | partial | 2023-10-18T00:26:27Z | [open](../records/satcom-satellites-mejiro-mcqueen-bifrost-545d8ca0.md) |
 | opensatellite/KS-1Q | partial | 2022-06-21T17:25:16Z | [open](../records/satcom-satellites-opensatellite-ks-1q-6171a46e.md) |
-| raceintospace/raceintospace | partial | 2026-09-07T15:58:05Z | [open](../records/satcom-satellites-raceintospace-raceintospace-aabc64c6.md) |
+| raceintospace/raceintospace | partial | 2026-09-08T03:03:49Z | [open](../records/satcom-satellites-raceintospace-raceintospace-aabc64c6.md) |
 | RedhawkSDR/redhawk | partial | 2023-05-12T19:01:24Z | [open](../records/satcom-satellites-redhawksdr-redhawk-579f9599.md) |
 | sam210723/orbcomm-rx | partial | 2019-12-23T06:01:41Z | [open](../records/satcom-satellites-sam210723-orbcomm-rx-ccf42f9d.md) |
 | thebaldgeek/thebaldgeek.github.io | partial | 2025-10-25T19:14:36Z | [open](../records/satcom-satellites-thebaldgeek-thebaldgeek-github-io-2494b7a4.md) |
@@ -1623,7 +1623,7 @@ Records: `1619`
 | datahub-project/datahub | partial | 2026-09-05T20:20:54Z | [open](../records/catalogs-datahub-project-datahub-245b610a.md) |
 | erikdarlingdata/DarlingData | partial | 2026-09-04T21:16:14Z | [open](../records/catalogs-erikdarlingdata-darlingdata-be996c85.md) |
 | FeatureBaseDB/featurebase | partial | 2024-02-21T23:20:41Z | [open](../records/catalogs-featurebasedb-featurebase-1eac6a36.md) |
-| imsai-sh/awesome-deepseek-harness-plugins | partial | 2026-09-07T16:34:10Z | [open](../records/catalogs-imsai-sh-awesome-deepseek-harness-plugins-06b83072.md) |
+| imsai-sh/awesome-deepseek-harness-plugins | partial | 2026-09-08T04:19:41Z | [open](../records/catalogs-imsai-sh-awesome-deepseek-harness-plugins-06b83072.md) |
 | italia/.github | partial | 2026-08-31T09:31:30Z | [open](../records/catalogs-italia-github-0b346e57.md) |
 | leenkcool/Blue-Whale-Harness | partial | 2026-09-04T03:49:36Z | [open](../records/catalogs-leenkcool-blue-whale-harness-b2691c97.md) |
 | llnl/llnl.github.io | partial | 2026-09-07T17:26:26Z | [open](../records/catalogs-llnl-llnl-github-io-afb77a91.md) |

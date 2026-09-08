@@ -41,7 +41,7 @@ request routing, middleware policy, service structure, and deployment surface.
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | European Union Public License 1.2; https://api.github.com/licenses/eupl-1.2 |
+| Evidence | unknown |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes

@@ -34,16 +34,16 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2024-01-23T17:51:20Z | gh search repos topic:radar stars:>20 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2024-01-23T17:51:20Z | gh search repos topic:sar stars:>20 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit; {"key": "", "name": "", "url": ""} |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Unknown license |
+| Evidence | {"key": "", "name": "", "url": ""} |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -59,7 +59,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-07 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:radar stars:>20", "retrieved": "2026-09-07", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-08 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:sar stars:>20", "retrieved": "2026-09-08", "status": "forge-cli-derived"}` |
 
 </details>
 

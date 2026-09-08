@@ -622,7 +622,7 @@ Records: `1195`
 | GopeedLab/gopeed | partial | 2026-09-07T09:56:30Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
 | gravitational/teleport | partial | 2026-09-07T10:23:21Z | [open](../records/go-gravitational-teleport-6a32fe26.md) |
 | HyNetworks/hysteria | partial | 2026-09-06T19:05:37Z | [open](../records/go-hynetworks-hysteria-6f37132d.md) |
-| kovidgoyal/kitty | partial | 2026-09-07T21:27:54Z | [open](../records/go-kovidgoyal-kitty-9cff0795.md) |
+| kovidgoyal/kitty | partial | 2026-09-08T04:06:08Z | [open](../records/go-kovidgoyal-kitty-9cff0795.md) |
 | praetorian-inc/nerva | partial | 2026-09-08T00:42:45Z | [open](../records/go-praetorian-inc-nerva-a2849190.md) |
 | zincsearch/zincsearch | partial | 2026-06-09T05:30:16Z | [open](../records/go-zincsearch-zincsearch-189bf366.md) |
 
@@ -650,9 +650,9 @@ Records: `1195`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AstrBotDevs/AstrBot | partial | 2026-09-08T03:09:04Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
-| HKUDS/LightRAG | partial | 2026-09-08T03:22:22Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
-| labring/FastGPT | partial | 2026-09-08T03:21:28Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
+| AstrBotDevs/AstrBot | partial | 2026-09-08T03:31:26Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
+| HKUDS/LightRAG | partial | 2026-09-08T04:03:20Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
+| labring/FastGPT | partial | 2026-09-08T03:34:10Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Computer Graphics Software
 

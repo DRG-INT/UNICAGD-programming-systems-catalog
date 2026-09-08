@@ -747,7 +747,7 @@ Records: `624`
 | tabahi/Mel-Spectrum-Analyzer | partial | 2025-09-08T03:41:05Z | [open](../records/electromagnetoscopes-tabahi-mel-spectrum-analyzer-a1d84357.md) |
 | tabahi/WebSpeechAnalyzer | partial | 2025-09-08T03:48:39Z | [open](../records/electromagnetoscopes-tabahi-webspeechanalyzer-57a2cd43.md) |
 | tektronix/RSA_API | partial | 2020-12-08T07:35:24Z | [open](../records/electromagnetoscopes-tektronix-rsa-api-3914ecbd.md) |
-| tlecomte/friture | partial | 2026-09-01T04:24:15Z | [open](../records/electromagnetoscopes-tlecomte-friture-49f41869.md) |
+| tlecomte/friture | partial | 2026-09-08T04:13:57Z | [open](../records/electromagnetoscopes-tlecomte-friture-49f41869.md) |
 | trustytrojan/libavz | partial | 2026-07-20T02:48:07Z | [open](../records/electromagnetoscopes-trustytrojan-libavz-52a58525.md) |
 | ttrftech/NanoVNA | partial | 2020-11-11T21:02:22Z | [open](../records/electromagnetoscopes-ttrftech-nanovna-4dca7773.md) |
 | tyfkda/nesemu | partial | 2026-09-03T21:48:54Z | [open](../records/electromagnetoscopes-tyfkda-nesemu-92680f0b.md) |

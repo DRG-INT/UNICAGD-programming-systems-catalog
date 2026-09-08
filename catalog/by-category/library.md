@@ -5217,7 +5217,7 @@ Records: `5732`
 | ethanhuang13/ladybug | partial | 2019-12-26T07:04:26Z | [open](../records/radars-ethanhuang13-ladybug-9ff29291.md) |
 | feedback-assistant/reports | partial | 2025-11-07T04:38:18Z | [open](../records/radars-feedback-assistant-reports-4bc463b2.md) |
 | fudanxu/SAR-Colorization | partial | 2018-04-23T10:29:38Z | [open](../records/radars-fudanxu-sar-colorization-ab744559.md) |
-| gnss-sdr/gnss-sdr | partial | 2026-09-05T17:01:00Z | [open](../records/radars-gnss-sdr-gnss-sdr-fb2437ad.md) |
+| gnss-sdr/gnss-sdr | partial | 2026-09-07T19:39:36Z | [open](../records/radars-gnss-sdr-gnss-sdr-fb2437ad.md) |
 | HamzaGhazouani/HGRippleRadarView | partial | 2019-10-13T20:27:29Z | [open](../records/radars-hamzaghazouani-hgrippleradarview-02e426a9.md) |
 | hi-paris/deepdespeckling | partial | 2025-07-25T10:03:26Z | [open](../records/radars-hi-paris-deepdespeckling-121ce4f7.md) |
 | hunterlew/mstar_deeplearning_project | partial | 2018-03-14T03:09:57Z | [open](../records/radars-hunterlew-mstar-deeplearning-project-f2f00b72.md) |
@@ -5376,7 +5376,7 @@ Records: `5732`
 | EdgeTX/edgetx | partial | 2026-09-07T23:40:01Z | [open](../records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) |
 | eldraco/Salamandra | partial | 2021-01-11T15:40:06Z | [open](../records/electromagnetoscopes-eldraco-salamandra-ba7bbc86.md) |
 | fancompute/ceviche | partial | 2023-07-06T21:35:53Z | [open](../records/electromagnetoscopes-fancompute-ceviche-da009145.md) |
-| fanmingming/live | partial | 2026-09-07T22:23:20Z | [open](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
+| fanmingming/live | partial | 2026-09-08T02:33:47Z | [open](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
 | FennisRobert/EMerge | partial | 2026-08-31T16:18:14Z | [open](../records/electromagnetoscopes-fennisrobert-emerge-a03ffe6e.md) |
 | fooyin/fooyin | partial | 2026-09-08T01:06:45Z | [open](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) |
 | git-artes/gr-tempest | partial | 2025-02-10T16:57:09Z | [open](../records/electromagnetoscopes-git-artes-gr-tempest-b9f52116.md) |

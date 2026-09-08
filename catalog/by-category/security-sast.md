@@ -411,7 +411,7 @@ Records: `336`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | GoogleCloudPlatform/bigquery-data-lineage | partial | 2024-06-03T01:17:51Z | [open](../records/catalogs-googlecloudplatform-bigquery-data-lineage-32b670fd.md) |
-| lakekeeper/lakekeeper | partial | 2026-09-07T20:54:46Z | [open](../records/catalogs-lakekeeper-lakekeeper-47299c16.md) |
+| lakekeeper/lakekeeper | partial | 2026-09-08T03:12:58Z | [open](../records/catalogs-lakekeeper-lakekeeper-47299c16.md) |
 | OpenSSF Scorecard | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-openssf-scorecard-808ecb37.md) |
 
 ## Magazines

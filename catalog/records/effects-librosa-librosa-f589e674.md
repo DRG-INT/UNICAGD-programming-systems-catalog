@@ -39,9 +39,9 @@ discovery, security review, undefined-state detection, and regression prevention
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | WTFPL; {"key": "", "name": "", "url": ""}; MIT License; https://api.github.com/licenses/mit; ISC License; https://api.github.com/licenses/isc |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Backup plan required |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 

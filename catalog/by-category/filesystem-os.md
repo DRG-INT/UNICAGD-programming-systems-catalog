@@ -576,7 +576,7 @@ Records: `1611`
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-08-30T15:02:19Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-08T03:18:39Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-08T04:17:55Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -1426,7 +1426,7 @@ Records: `1611`
 | GREAT-WHU/GREAT-PVT | partial | 2026-08-12T08:49:30Z | [open](../records/radars-great-whu-great-pvt-c867732f.md) |
 | johntruckenbrodt/pyroSAR | partial | 2026-09-03T12:48:24Z | [open](../records/radars-johntruckenbrodt-pyrosar-83ed39f7.md) |
 | KonstantinosF/Flood-Detection---Satellite-Images | partial | 2022-09-26T11:23:18Z | [open](../records/radars-konstantinosf-flood-detection-satellite-images-a2d32a13.md) |
-| manankharwar/fusioncore | partial | 2026-09-04T21:33:13Z | [open](../records/radars-manankharwar-fusioncore-f8110512.md) |
+| manankharwar/fusioncore | partial | 2026-09-08T00:22:58Z | [open](../records/radars-manankharwar-fusioncore-f8110512.md) |
 | martibosch/detectree | partial | 2026-08-31T22:32:24Z | [open](../records/radars-martibosch-detectree-bb8afefd.md) |
 | MathieuRita/SAR_denoising | partial | 2022-06-22T01:48:31Z | [open](../records/radars-mathieurita-sar-denoising-5b417749.md) |
 | microsoft/farmvibes-ai | partial | 2026-08-27T00:14:55Z | [open](../records/radars-microsoft-farmvibes-ai-15e332ef.md) |
@@ -1442,7 +1442,7 @@ Records: `1611`
 | rsasaki0109/kalman_filter_localization_ros2 | partial | 2026-08-07T23:19:36Z | [open](../records/radars-rsasaki0109-kalman-filter-localization-ros2-5b753d68.md) |
 | sacridini/Awesome-Geospatial | partial | 2026-09-03T09:03:19Z | [open](../records/radars-sacridini-awesome-geospatial-1adf4d45.md) |
 | scottyhq/dinosar | partial | 2024-05-14T20:16:06Z | [open](../records/radars-scottyhq-dinosar-de57e4f1.md) |
-| sertit/eoreader | partial | 2026-08-03T19:02:39Z | [open](../records/radars-sertit-eoreader-14dc547c.md) |
+| sertit/eoreader | partial | 2026-09-07T17:01:41Z | [open](../records/radars-sertit-eoreader-14dc547c.md) |
 | tier4/nebula | partial | 2026-08-02T00:21:19Z | [open](../records/radars-tier4-nebula-3760d802.md) |
 | torchgeo/torchgeo | partial | 2026-09-06T17:59:58Z | [open](../records/radars-torchgeo-torchgeo-60e49b15.md) |
 

@@ -32,16 +32,16 @@ low-noise code review, style consistency, and automation-friendly editing.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-01-21T20:13:20Z | gh search repos topic:synthetic-aperture-radar stars:>10 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-01-21T20:13:20Z | gh search repos topic:sar stars:>20 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | Apache-2.0 |
-| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
-| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
+| Detected family | MIT |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ low-noise code review, style consistency, and automation-friendly editing.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-07 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:synthetic-aperture-radar stars:>10", "retrieved": "2026-09-07", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-08 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:sar stars:>20", "retrieved": "2026-09-08", "status": "forge-cli-derived"}` |
 
 </details>
 

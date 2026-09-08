@@ -277,7 +277,7 @@ Records: `325`
 | [GeoTIFF/georaster](../records/satcom-satellites-geotiff-georaster-f7f81e47.md) | partial | 2023-08-08T12:48:49Z | registry-derived |
 | [gnuradio/greps](../records/satcom-satellites-gnuradio-greps-71108381.md) | partial | 2023-01-14T18:48:29Z | registry-derived |
 | [JiaoXianjun/BTLE](../records/satcom-satellites-jiaoxianjun-btle-a4649a5e.md) | partial | 2026-06-08T19:24:34Z | registry-derived |
-| [JuliaSpace/SatelliteToolbox.jl](../records/satcom-satellites-juliaspace-satellitetoolbox-jl-2f61cb76.md) | partial | 2026-09-06T03:39:38Z | registry-derived |
+| [JuliaSpace/SatelliteToolbox.jl](../records/satcom-satellites-juliaspace-satellitetoolbox-jl-2f61cb76.md) | partial | 2026-09-08T03:43:58Z | registry-derived |
 | [lasp/space_packet_parser](../records/satcom-satellites-lasp-space-packet-parser-c1755c7c.md) | partial | 2026-09-05T13:17:02Z | registry-derived |
 | [ManishSahu53/Vector-Map-Generation-from-Aerial-Imagery-using-Deep-Learning-GeoSpatial-UNET](../records/satcom-satellites-manishsahu53-vector-map-generation-from-aerial-imagery-using-deep-learning-geospatial-unet-9fa0bbd0.md) | partial | 2022-02-03T07:21:21Z | registry-derived |
 | [nasa/pyDownlinkParser](../records/satcom-satellites-nasa-pydownlinkparser-5f67c8da.md) | partial | 2026-06-01T21:37:49Z | registry-derived |
@@ -522,7 +522,7 @@ Records: `325`
 | [libcsp/libcsp](../records/satcom-satellites-libcsp-libcsp-abe29c50.md) | partial | 2026-09-07T12:25:21Z | registry-derived |
 | [Mejiro-McQueen/Bifrost](../records/satcom-satellites-mejiro-mcqueen-bifrost-545d8ca0.md) | partial | 2023-10-18T00:26:27Z | registry-derived |
 | [opensatellite/KS-1Q](../records/satcom-satellites-opensatellite-ks-1q-6171a46e.md) | partial | 2022-06-21T17:25:16Z | registry-derived |
-| [raceintospace/raceintospace](../records/satcom-satellites-raceintospace-raceintospace-aabc64c6.md) | partial | 2026-09-07T15:58:05Z | registry-derived |
+| [raceintospace/raceintospace](../records/satcom-satellites-raceintospace-raceintospace-aabc64c6.md) | partial | 2026-09-08T03:03:49Z | registry-derived |
 | [RedhawkSDR/redhawk](../records/satcom-satellites-redhawksdr-redhawk-579f9599.md) | partial | 2023-05-12T19:01:24Z | registry-derived |
 | [sam210723/orbcomm-rx](../records/satcom-satellites-sam210723-orbcomm-rx-ccf42f9d.md) | partial | 2019-12-23T06:01:41Z | registry-derived |
 | [thebaldgeek/thebaldgeek.github.io](../records/satcom-satellites-thebaldgeek-thebaldgeek-github-io-2494b7a4.md) | partial | 2025-10-25T19:14:36Z | registry-derived |

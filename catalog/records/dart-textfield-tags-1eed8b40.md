@@ -39,9 +39,9 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | unknown |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Apache-2.0 |
+| Evidence | MIT License; https://api.github.com/licenses/mit; Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
+| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| pub_dev_completion_and_package_api | registry-derived | 2026-09-07 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-07", "status": "registry-derived"}` |
+| pub_dev_completion_and_package_api | registry-derived | 2026-09-08 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-08", "status": "registry-derived"}` |
 
 </details>
 

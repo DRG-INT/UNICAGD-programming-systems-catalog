@@ -39,9 +39,9 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit; Other; BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Other permissive |
+| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause |
+| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-05 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:gnss stars:>20", "retrieved": "2026-09-05", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-08 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:gnss stars:>20", "retrieved": "2026-09-08", "status": "forge-cli-derived"}` |
 
 </details>
 

@@ -39,7 +39,7 @@ Records: `278`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [google/ceviche-challenges](../records/electromagnetoscopes-google-ceviche-challenges-32054f63.md) | partial | 2024-01-20T18:04:58Z | registry-derived |
-| [luigifcruz/CyberEther](../records/electromagnetoscopes-luigifcruz-cyberether-9a732794.md) | partial | 2026-09-07T06:01:09Z | registry-derived |
+| [luigifcruz/CyberEther](../records/electromagnetoscopes-luigifcruz-cyberether-9a732794.md) | partial | 2026-09-08T04:12:11Z | registry-derived |
 
 ### Build System
 
@@ -241,7 +241,7 @@ Records: `278`
 | [EdgeTX/edgetx](../records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) | partial | 2026-09-07T23:40:01Z | registry-derived |
 | [eldraco/Salamandra](../records/electromagnetoscopes-eldraco-salamandra-ba7bbc86.md) | partial | 2021-01-11T15:40:06Z | registry-derived |
 | [fancompute/ceviche](../records/electromagnetoscopes-fancompute-ceviche-da009145.md) | partial | 2023-07-06T21:35:53Z | registry-derived |
-| [fanmingming/live](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) | partial | 2026-09-07T22:23:20Z | registry-derived |
+| [fanmingming/live](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) | partial | 2026-09-08T02:33:47Z | registry-derived |
 | [FennisRobert/EMerge](../records/electromagnetoscopes-fennisrobert-emerge-a03ffe6e.md) | partial | 2026-08-31T16:18:14Z | registry-derived |
 | [fooyin/fooyin](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) | partial | 2026-09-08T01:06:45Z | registry-derived |
 | [git-artes/gr-tempest](../records/electromagnetoscopes-git-artes-gr-tempest-b9f52116.md) | partial | 2025-02-10T16:57:09Z | registry-derived |
@@ -448,7 +448,7 @@ Records: `278`
 | [tabahi/Mel-Spectrum-Analyzer](../records/electromagnetoscopes-tabahi-mel-spectrum-analyzer-a1d84357.md) | partial | 2025-09-08T03:41:05Z | registry-derived |
 | [tabahi/WebSpeechAnalyzer](../records/electromagnetoscopes-tabahi-webspeechanalyzer-57a2cd43.md) | partial | 2025-09-08T03:48:39Z | registry-derived |
 | [tektronix/RSA_API](../records/electromagnetoscopes-tektronix-rsa-api-3914ecbd.md) | partial | 2020-12-08T07:35:24Z | registry-derived |
-| [tlecomte/friture](../records/electromagnetoscopes-tlecomte-friture-49f41869.md) | partial | 2026-09-01T04:24:15Z | registry-derived |
+| [tlecomte/friture](../records/electromagnetoscopes-tlecomte-friture-49f41869.md) | partial | 2026-09-08T04:13:57Z | registry-derived |
 | [trustytrojan/libavz](../records/electromagnetoscopes-trustytrojan-libavz-52a58525.md) | partial | 2026-07-20T02:48:07Z | registry-derived |
 | [ttrftech/NanoVNA](../records/electromagnetoscopes-ttrftech-nanovna-4dca7773.md) | partial | 2020-11-11T21:02:22Z | registry-derived |
 | [tyfkda/nesemu](../records/electromagnetoscopes-tyfkda-nesemu-92680f0b.md) | partial | 2026-09-03T21:48:54Z | registry-derived |

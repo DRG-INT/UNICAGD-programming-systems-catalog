@@ -40,7 +40,7 @@ communication, clients/servers, protocol handling, and edge integration.
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | unknown |
+| Evidence | {"key": "", "name": "", "url": ""} |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
@@ -57,7 +57,7 @@ communication, clients/servers, protocol handling, and edge integration.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| pub_dev_completion_and_package_api | registry-derived | 2026-09-07 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-07", "status": "registry-derived"}` |
+| pub_dev_completion_and_package_api | registry-derived | 2026-09-08 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-08", "status": "registry-derived"}` |
 
 </details>
 

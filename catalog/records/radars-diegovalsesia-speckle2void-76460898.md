@@ -32,7 +32,7 @@ service communication, clients/servers, protocol handling, and edge integration.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2023-03-24T22:19:08Z | gh search repos topic:synthetic-aperture-radar stars:>10 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2023-03-24T22:19:08Z | gh search repos topic:sar stars:>20 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -57,7 +57,7 @@ service communication, clients/servers, protocol handling, and edge integration.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-07 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:synthetic-aperture-radar stars:>10", "retrieved": "2026-09-07", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-08 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:sar stars:>20", "retrieved": "2026-09-08", "status": "forge-cli-derived"}` |
 
 </details>
 

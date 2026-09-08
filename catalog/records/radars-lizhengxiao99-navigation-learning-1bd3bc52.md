@@ -40,9 +40,9 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Field | Value |
 | --- | --- |
-| Detected family | Other permissive |
-| Evidence | The Unlicense; https://api.github.com/licenses/unlicense; {"key": "", "name": "", "url": ""} |
-| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
+| Detected family | Unknown license |
+| Evidence | {"key": "", "name": "", "url": ""} |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -58,7 +58,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-05 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:gnss stars:>20", "retrieved": "2026-09-05", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-08 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:gnss stars:>20", "retrieved": "2026-09-08", "status": "forge-cli-derived"}` |
 
 </details>
 

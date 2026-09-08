@@ -58,7 +58,7 @@ constraints, cross-compilation, driver behavior, and field upgrades.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-05 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:gnss stars:>20", "retrieved": "2026-09-05", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-08 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:gnss stars:>20", "retrieved": "2026-09-08", "status": "forge-cli-derived"}` |
 
 </details>
 
