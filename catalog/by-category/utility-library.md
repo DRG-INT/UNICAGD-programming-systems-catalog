@@ -224,7 +224,7 @@ Records: `104`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| m4opt/m4opt | partial | 2026-09-08T20:45:11Z | [open](../records/telescopes-m4opt-m4opt-6b7434b6.md) |
+| m4opt/m4opt | partial | 2026-09-08T21:51:38Z | [open](../records/telescopes-m4opt-m4opt-6b7434b6.md) |
 
 ## Radars
 

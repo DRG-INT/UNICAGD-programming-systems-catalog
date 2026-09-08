@@ -3157,7 +3157,7 @@ Records: `5774`
 | b9 | 3.2.3 | 2022-03-28T09:05:11Z | [open](../records/haskell-b9-2c2399d5.md) |
 | backprop | 0.2.7.2 | 2025-06-05T04:02:20Z | [open](../records/haskell-backprop-adf0f71d.md) |
 | barbies | 2.1.1.0 | 2024-01-13T13:46:09Z | [open](../records/haskell-barbies-982365a4.md) |
-| base | unknown | hackage_package_page_missing | [open](../records/haskell-base-3ec0d4ef.md) |
+| base | 4.22.0.0 | 2025-12-19T11:52:34Z | [open](../records/haskell-base-3ec0d4ef.md) |
 | base-compat | 0.15.0 | 2026-01-11T03:01:40Z | [open](../records/haskell-base-compat-218362df.md) |
 | base-compat-batteries | 0.15.0 | 2026-01-11T03:01:50Z | [open](../records/haskell-base-compat-batteries-6b1ffde2.md) |
 | base-orphans | 0.9.4 | 2026-01-10T15:53:26Z | [open](../records/haskell-base-orphans-9cdac570.md) |
@@ -3414,7 +3414,7 @@ Records: `5774`
 | ghc-exactprint | 1.14.1.0 | 2026-08-06T22:12:31Z | [open](../records/haskell-ghc-exactprint-fecd74ca.md) |
 | ghc-lib | 9.14.1.20251220 | 2025-12-20T18:41:41Z | [open](../records/haskell-ghc-lib-dd1fe600.md) |
 | ghc-mod | 5.8.0.0 | 2017-06-11T12:59:05Z | [open](../records/haskell-ghc-mod-d3b235eb.md) |
-| ghc-prim | unknown | hackage_package_page_missing | [open](../records/haskell-ghc-prim-ca8234b1.md) |
+| ghc-prim | 0.13.0 | 2024-12-16T09:29:37Z | [open](../records/haskell-ghc-prim-ca8234b1.md) |
 | ghc-prof | 1.4.1.14 | 2025-06-16T08:53:50Z | [open](../records/haskell-ghc-prof-4bb84f7f.md) |
 | ghc-typelits-extra | 0.5.4 | 2026-05-13T14:10:16Z | [open](../records/haskell-ghc-typelits-extra-3116633d.md) |
 | ghc-typelits-knownnat | 0.8.4 | 2026-05-13T13:19:35Z | [open](../records/haskell-ghc-typelits-knownnat-5af32812.md) |
@@ -3960,7 +3960,7 @@ Records: `5774`
 | SVGFonts | 1.8.2 | 2026-08-16T00:46:12Z | [open](../records/haskell-svgfonts-6969776c.md) |
 | swagger2 | 2.9.1 | 2026-07-23T19:27:30Z | [open](../records/haskell-swagger2-f895728a.md) |
 | swish | 0.10.11.0 | 2026-01-08T11:37:21Z | [open](../records/haskell-swish-d9c11381.md) |
-| syb | unknown | hackage_package_page_missing | [open](../records/haskell-syb-fa0311dd.md) |
+| syb | 0.7.4 | 2026-03-07T17:18:44Z | [open](../records/haskell-syb-fa0311dd.md) |
 | syb-with-class | 0.6.1.14 | 2022-04-20T19:21:15Z | [open](../records/haskell-syb-with-class-f21f0b9f.md) |
 | syntactic | 3.8.5 | 2026-03-21T12:34:23Z | [open](../records/haskell-syntactic-b5d8e11b.md) |
 | synthesizer-core | 0.9.0.1 | 2026-07-09T14:51:24Z | [open](../records/haskell-synthesizer-core-892f4041.md) |
@@ -4334,7 +4334,7 @@ Records: `5774`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-08T22:14:25Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-08T23:11:35Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4348,7 +4348,7 @@ Records: `5774`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-08T22:19:58Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-08T23:12:12Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -5246,7 +5246,7 @@ Records: `5774`
 | denkywu/Simulation-of-SAR-Imaging-Algorithm | partial | 2020-09-03T03:54:58Z | [open](../records/radars-denkywu-simulation-of-sar-imaging-algorithm-e7abd64c.md) |
 | dpaulat/supercell-wx | partial | 2026-09-01T22:58:49Z | [open](../records/radars-dpaulat-supercell-wx-216e49cf.md) |
 | dz0ny/meshcore-sar | partial | 2026-09-04T14:59:38Z | [open](../records/radars-dz0ny-meshcore-sar-633f07d9.md) |
-| earthobservations/wetterdienst | partial | 2026-09-06T19:38:51Z | [open](../records/radars-earthobservations-wetterdienst-4494a41f.md) |
+| earthobservations/wetterdienst | partial | 2026-09-08T22:38:40Z | [open](../records/radars-earthobservations-wetterdienst-4494a41f.md) |
 | Erensu/ignav | partial | 2021-12-07T02:09:44Z | [open](../records/radars-erensu-ignav-9cdb787e.md) |
 | erikliland/pyMHT | partial | 2023-09-19T11:10:15Z | [open](../records/radars-erikliland-pymht-6bcd5586.md) |
 | ethanhuang13/ladybug | partial | 2019-12-26T07:04:26Z | [open](../records/radars-ethanhuang13-ladybug-9ff29291.md) |
@@ -5408,10 +5408,10 @@ Records: `5774`
 | daniestevez/gr-satellites | partial | 2026-09-07T18:21:33Z | [open](../records/electromagnetoscopes-daniestevez-gr-satellites-11887e4d.md) |
 | dong-hao/EM3DVP | partial | 2025-10-07T04:10:05Z | [open](../records/electromagnetoscopes-dong-hao-em3dvp-587a6c63.md) |
 | dslotter/HamPi | partial | 2024-04-17T07:14:11Z | [open](../records/electromagnetoscopes-dslotter-hampi-80a99ee9.md) |
-| EdgeTX/edgetx | partial | 2026-09-08T08:08:27Z | [open](../records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) |
+| EdgeTX/edgetx | partial | 2026-09-08T21:28:40Z | [open](../records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) |
 | eldraco/Salamandra | partial | 2021-01-11T15:40:06Z | [open](../records/electromagnetoscopes-eldraco-salamandra-ba7bbc86.md) |
 | fancompute/ceviche | partial | 2023-07-06T21:35:53Z | [open](../records/electromagnetoscopes-fancompute-ceviche-da009145.md) |
-| fanmingming/live | partial | 2026-09-08T18:31:32Z | [open](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
+| fanmingming/live | partial | 2026-09-08T22:23:48Z | [open](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
 | FennisRobert/EMerge | partial | 2026-08-31T16:18:14Z | [open](../records/electromagnetoscopes-fennisrobert-emerge-a03ffe6e.md) |
 | fooyin/fooyin | partial | 2026-09-08T12:18:27Z | [open](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) |
 | git-artes/gr-tempest | partial | 2025-02-10T16:57:09Z | [open](../records/electromagnetoscopes-git-artes-gr-tempest-b9f52116.md) |
@@ -5423,7 +5423,7 @@ Records: `5774`
 | jleinonen/pytmatrix | partial | 2023-05-10T13:36:52Z | [open](../records/electromagnetoscopes-jleinonen-pytmatrix-c0930873.md) |
 | JuliaPhysics/ThinFilmsTools.jl | partial | 2025-12-02T00:15:55Z | [open](../records/electromagnetoscopes-juliaphysics-thinfilmstools-jl-592046ba.md) |
 | junguler/m3u-radio-music-playlists | partial | 2026-09-05T07:57:14Z | [open](../records/electromagnetoscopes-junguler-m3u-radio-music-playlists-309a3992.md) |
-| Kopuz-org/kopuz | partial | 2026-09-08T15:27:22Z | [open](../records/electromagnetoscopes-kopuz-org-kopuz-a5fa7420.md) |
+| Kopuz-org/kopuz | partial | 2026-09-08T23:18:33Z | [open](../records/electromagnetoscopes-kopuz-org-kopuz-a5fa7420.md) |
 | markqvist/RNode_Firmware | partial | 2026-04-24T10:26:45Z | [open](../records/electromagnetoscopes-markqvist-rnode-firmware-6437b772.md) |
 | mgp25/OpenLTE | partial | 2021-02-21T19:34:29Z | [open](../records/electromagnetoscopes-mgp25-openlte-fd84bffb.md) |
 | muccc/gr-iridium | partial | 2026-07-02T09:26:47Z | [open](../records/electromagnetoscopes-muccc-gr-iridium-826df89e.md) |
@@ -5438,7 +5438,7 @@ Records: `5774`
 | segler-alex/RadioDroid | partial | 2024-06-26T20:46:45Z | [open](../records/electromagnetoscopes-segler-alex-radiodroid-e99cfdba.md) |
 | simonp0420/TicraUtilities.jl | partial | 2026-06-22T22:24:26Z | [open](../records/electromagnetoscopes-simonp0420-ticrautilities-jl-0671de6b.md) |
 | simpeg-research/heagy-2018-fracture-physprops | partial | 2019-07-06T23:36:52Z | [open](../records/electromagnetoscopes-simpeg-research-heagy-2018-fracture-physprops-3c8b196c.md) |
-| simpeg/simpeg | partial | 2026-09-08T20:56:45Z | [open](../records/electromagnetoscopes-simpeg-simpeg-90f40ef7.md) |
+| simpeg/simpeg | partial | 2026-09-08T23:16:16Z | [open](../records/electromagnetoscopes-simpeg-simpeg-90f40ef7.md) |
 | sp94/Peacock.jl | partial | 2025-05-19T22:22:31Z | [open](../records/electromagnetoscopes-sp94-peacock-jl-810df4ac.md) |
 | TLeconte/acarsdec | partial | 2025-07-31T10:36:21Z | [open](../records/electromagnetoscopes-tleconte-acarsdec-cdab05ad.md) |
 | TrunkRecorder/trunk-recorder | partial | 2026-09-01T12:59:38Z | [open](../records/electromagnetoscopes-trunkrecorder-trunk-recorder-9795e5f3.md) |

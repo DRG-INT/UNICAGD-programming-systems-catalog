@@ -453,7 +453,7 @@ Records: `1540`
 | [b9](../records/haskell-b9-2c2399d5.md) | 3.2.3 | 2022-03-28T09:05:11Z | registry-derived |
 | [backprop](../records/haskell-backprop-adf0f71d.md) | 0.2.7.2 | 2025-06-05T04:02:20Z | registry-derived |
 | [barbies](../records/haskell-barbies-982365a4.md) | 2.1.1.0 | 2024-01-13T13:46:09Z | registry-derived |
-| [base](../records/haskell-base-3ec0d4ef.md) | unknown | hackage_package_page_missing | registry-derived |
+| [base](../records/haskell-base-3ec0d4ef.md) | 4.22.0.0 | 2025-12-19T11:52:34Z | registry-derived |
 | [base-compat](../records/haskell-base-compat-218362df.md) | 0.15.0 | 2026-01-11T03:01:40Z | registry-derived |
 | [base-compat-batteries](../records/haskell-base-compat-batteries-6b1ffde2.md) | 0.15.0 | 2026-01-11T03:01:50Z | registry-derived |
 | [base-orphans](../records/haskell-base-orphans-9cdac570.md) | 0.9.4 | 2026-01-10T15:53:26Z | registry-derived |
@@ -710,7 +710,7 @@ Records: `1540`
 | [ghc-exactprint](../records/haskell-ghc-exactprint-fecd74ca.md) | 1.14.1.0 | 2026-08-06T22:12:31Z | registry-derived |
 | [ghc-lib](../records/haskell-ghc-lib-dd1fe600.md) | 9.14.1.20251220 | 2025-12-20T18:41:41Z | registry-derived |
 | [ghc-mod](../records/haskell-ghc-mod-d3b235eb.md) | 5.8.0.0 | 2017-06-11T12:59:05Z | registry-derived |
-| [ghc-prim](../records/haskell-ghc-prim-ca8234b1.md) | unknown | hackage_package_page_missing | registry-derived |
+| [ghc-prim](../records/haskell-ghc-prim-ca8234b1.md) | 0.13.0 | 2024-12-16T09:29:37Z | registry-derived |
 | [ghc-prof](../records/haskell-ghc-prof-4bb84f7f.md) | 1.4.1.14 | 2025-06-16T08:53:50Z | registry-derived |
 | [ghc-typelits-extra](../records/haskell-ghc-typelits-extra-3116633d.md) | 0.5.4 | 2026-05-13T14:10:16Z | registry-derived |
 | [ghc-typelits-knownnat](../records/haskell-ghc-typelits-knownnat-5af32812.md) | 0.8.4 | 2026-05-13T13:19:35Z | registry-derived |
@@ -1256,7 +1256,7 @@ Records: `1540`
 | [SVGFonts](../records/haskell-svgfonts-6969776c.md) | 1.8.2 | 2026-08-16T00:46:12Z | registry-derived |
 | [swagger2](../records/haskell-swagger2-f895728a.md) | 2.9.1 | 2026-07-23T19:27:30Z | registry-derived |
 | [swish](../records/haskell-swish-d9c11381.md) | 0.10.11.0 | 2026-01-08T11:37:21Z | registry-derived |
-| [syb](../records/haskell-syb-fa0311dd.md) | unknown | hackage_package_page_missing | registry-derived |
+| [syb](../records/haskell-syb-fa0311dd.md) | 0.7.4 | 2026-03-07T17:18:44Z | registry-derived |
 | [syb-with-class](../records/haskell-syb-with-class-f21f0b9f.md) | 0.6.1.14 | 2022-04-20T19:21:15Z | registry-derived |
 | [syntactic](../records/haskell-syntactic-b5d8e11b.md) | 3.8.5 | 2026-03-21T12:34:23Z | registry-derived |
 | [synthesizer-core](../records/haskell-synthesizer-core-892f4041.md) | 0.9.0.1 | 2026-07-09T14:51:24Z | registry-derived |

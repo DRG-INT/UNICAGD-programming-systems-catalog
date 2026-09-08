@@ -405,7 +405,7 @@ Records: `632`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| paperless-ngx/paperless-ngx | partial | 2026-09-08T19:32:40Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
+| paperless-ngx/paperless-ngx | partial | 2026-09-08T23:01:12Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
 | ZhuLinsen/daily_stock_analysis | partial | 2026-09-06T12:34:16Z | [open](../records/aim-s-zhulinsen-daily-stock-analysis-509bb8f4.md) |
 
 ## Computer Graphics Software
@@ -569,7 +569,7 @@ Records: `632`
 | bluescan/tacentview | partial | 2026-08-10T08:53:43Z | [open](../records/photography-bluescan-tacentview-36115ac1.md) |
 | dlazaro66/QRCodeReaderView | partial | 2021-06-21T04:55:28Z | [open](../records/photography-dlazaro66-qrcodereaderview-9c349462.md) |
 | gee-community/geemap | partial | 2026-09-04T17:39:42Z | [open](../records/photography-gee-community-geemap-8f40e707.md) |
-| GrapheneOS/Camera | partial | 2026-09-01T20:43:08Z | [open](../records/photography-grapheneos-camera-e6336699.md) |
+| GrapheneOS/Camera | partial | 2026-09-08T22:04:43Z | [open](../records/photography-grapheneos-camera-e6336699.md) |
 | Haris87/photosint | partial | 2021-07-15T15:24:38Z | [open](../records/photography-haris87-photosint-5032ef4a.md) |
 | hyperoslo/BarcodeScanner | partial | 2024-07-29T16:11:57Z | [open](../records/photography-hyperoslo-barcodescanner-b1f848d8.md) |
 | jackw01/scanlight | partial | 2026-08-20T06:04:39Z | [open](../records/photography-jackw01-scanlight-ebc00536.md) |

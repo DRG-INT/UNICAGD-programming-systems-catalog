@@ -317,7 +317,7 @@ Records: `355`
 | [denkywu/Simulation-of-SAR-Imaging-Algorithm](../records/radars-denkywu-simulation-of-sar-imaging-algorithm-e7abd64c.md) | partial | 2020-09-03T03:54:58Z | registry-derived |
 | [dpaulat/supercell-wx](../records/radars-dpaulat-supercell-wx-216e49cf.md) | partial | 2026-09-01T22:58:49Z | registry-derived |
 | [dz0ny/meshcore-sar](../records/radars-dz0ny-meshcore-sar-633f07d9.md) | partial | 2026-09-04T14:59:38Z | registry-derived |
-| [earthobservations/wetterdienst](../records/radars-earthobservations-wetterdienst-4494a41f.md) | partial | 2026-09-06T19:38:51Z | registry-derived |
+| [earthobservations/wetterdienst](../records/radars-earthobservations-wetterdienst-4494a41f.md) | partial | 2026-09-08T22:38:40Z | registry-derived |
 | [Erensu/ignav](../records/radars-erensu-ignav-9cdb787e.md) | partial | 2021-12-07T02:09:44Z | registry-derived |
 | [erikliland/pyMHT](../records/radars-erikliland-pymht-6bcd5586.md) | partial | 2023-09-19T11:10:15Z | registry-derived |
 | [ethanhuang13/ladybug](../records/radars-ethanhuang13-ladybug-9ff29291.md) | partial | 2019-12-26T07:04:26Z | registry-derived |
@@ -471,7 +471,7 @@ Records: `355`
 | --- | --- | --- | --- |
 | [MinZHANG-WHU/Change-Detection-Review](../records/radars-minzhang-whu-change-detection-review-1444b84e.md) | partial | 2021-07-30T13:43:15Z | registry-derived |
 | [radar-science/isce-proc](../records/radars-radar-science-isce-proc-39d96381.md) | partial | 2024-04-23T08:43:54Z | registry-derived |
-| [radarlabs/react-native-radar](../records/radars-radarlabs-react-native-radar-909ee8db.md) | partial | 2026-09-08T19:42:49Z | registry-derived |
+| [radarlabs/react-native-radar](../records/radars-radarlabs-react-native-radar-909ee8db.md) | partial | 2026-09-08T21:43:23Z | registry-derived |
 | [scottstanie/sentineleof](../records/radars-scottstanie-sentineleof-585147b5.md) | partial | 2026-06-25T13:47:59Z | registry-derived |
 | [Theta-Limited/OpenAthena-Legacy-Python](../records/radars-theta-limited-openathena-legacy-python-c450ef91.md) | partial | 2024-08-29T03:21:03Z | registry-derived |
 | [weisongwen/UrbanNavDataset](../records/radars-weisongwen-urbannavdataset-24a778d2.md) | partial | 2021-11-21T08:28:20Z | registry-derived |

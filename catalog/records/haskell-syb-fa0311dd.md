@@ -32,8 +32,8 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | unknown |  |  | unknown | hackage_package_page_missing |
-| preview/nightly | unknown |  |  | unknown | hackage_package_page_missing |
+| stable | known | 0.7.4 | 2026-03-07T17:18:44Z | [https://hackage.haskell.org/package/syb](https://hackage.haskell.org/package/syb) |  |
+| candidate | partial | 0.7.1 |  | [https://hackage.haskell.org/package/syb](https://hackage.haskell.org/package/syb) | hackage_candidate_date_missing |
 
 ## License And Use Alert
 
@@ -47,8 +47,8 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 - Treat category as `library` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Stable release is unknown because `hackage_package_page_missing`.
-- Preview/nightly metadata is unknown because `hackage_package_page_missing`.
+- Latest stable metadata was observed from `https://hackage.haskell.org/package/syb` at `2026-09-08T23:20:41+00:00`.
+- Preview/nightly metadata is unknown because `hackage_candidate_date_missing`.
 
 ## Provenance
 

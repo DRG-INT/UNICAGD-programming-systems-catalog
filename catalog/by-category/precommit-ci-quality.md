@@ -411,7 +411,7 @@ Records: `310`
 | --- | --- | --- | --- |
 | MinZHANG-WHU/Change-Detection-Review | partial | 2021-07-30T13:43:15Z | [open](../records/radars-minzhang-whu-change-detection-review-1444b84e.md) |
 | radar-science/isce-proc | partial | 2024-04-23T08:43:54Z | [open](../records/radars-radar-science-isce-proc-39d96381.md) |
-| radarlabs/react-native-radar | partial | 2026-09-08T19:42:49Z | [open](../records/radars-radarlabs-react-native-radar-909ee8db.md) |
+| radarlabs/react-native-radar | partial | 2026-09-08T21:43:23Z | [open](../records/radars-radarlabs-react-native-radar-909ee8db.md) |
 | scottstanie/sentineleof | partial | 2026-06-25T13:47:59Z | [open](../records/radars-scottstanie-sentineleof-585147b5.md) |
 | Theta-Limited/OpenAthena-Legacy-Python | partial | 2024-08-29T03:21:03Z | [open](../records/radars-theta-limited-openathena-legacy-python-c450ef91.md) |
 | weisongwen/UrbanNavDataset | partial | 2021-11-21T08:28:20Z | [open](../records/radars-weisongwen-urbannavdataset-24a778d2.md) |

@@ -86,7 +86,7 @@ Records: `25`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| astropy/astropy | partial | 2026-09-08T20:28:03Z | [open](../records/telescopes-astropy-astropy-5c7c1273.md) |
+| astropy/astropy | partial | 2026-09-08T22:08:22Z | [open](../records/telescopes-astropy-astropy-5c7c1273.md) |
 
 ## SatCom Satellites
 

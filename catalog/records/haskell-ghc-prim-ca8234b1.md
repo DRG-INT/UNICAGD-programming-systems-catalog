@@ -32,8 +32,8 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | unknown |  |  | unknown | hackage_package_page_missing |
-| preview/nightly | unknown |  |  | unknown | hackage_package_page_missing |
+| stable | known | 0.13.0 | 2024-12-16T09:29:37Z | [https://hackage.haskell.org/package/ghc-prim](https://hackage.haskell.org/package/ghc-prim) |  |
+| candidate | partial | 0.3.1.0 |  | [https://hackage.haskell.org/package/ghc-prim](https://hackage.haskell.org/package/ghc-prim) | hackage_candidate_date_missing |
 
 ## License And Use Alert
 
@@ -47,8 +47,8 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 - Treat category as `library` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Stable release is unknown because `hackage_package_page_missing`.
-- Preview/nightly metadata is unknown because `hackage_package_page_missing`.
+- Latest stable metadata was observed from `https://hackage.haskell.org/package/ghc-prim` at `2026-09-08T23:20:41+00:00`.
+- Preview/nightly metadata is unknown because `hackage_candidate_date_missing`.
 
 ## Provenance
 

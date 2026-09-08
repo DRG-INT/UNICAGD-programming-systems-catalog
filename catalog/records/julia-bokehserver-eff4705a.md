@@ -39,9 +39,9 @@ middleware policy, service structure, and deployment surface.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | LGPL-3.0-only; https://www.nuget.org/packages/Volo.Abp.Json.Abstractions/10.6.0/license |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
