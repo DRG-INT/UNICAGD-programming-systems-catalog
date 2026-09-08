@@ -4,23 +4,23 @@
 
 ## Category Index
 
-[Api Abi Checker (222)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (136)](by-category/async-runtime.md)
-[Benchmarking (200)](by-category/benchmarking.md) · [Build System (995)](by-category/build-system.md) · [Cli (568)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Api Abi Checker (222)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
+[Benchmarking (202)](by-category/benchmarking.md) · [Build System (999)](by-category/build-system.md) · [Cli (570)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (25)](by-category/compiler-diagnostics.md) · [Compression (52)](by-category/compression.md)
 [Concurrency Parallelism (93)](by-category/concurrency-parallelism.md) · [Configuration (132)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (177)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (901)](by-category/database-datastore.md) · [Datetime (234)](by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (103)](by-category/dependency-manager.md) · [Documentation (107)](by-category/documentation.md)
-[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (457)](by-category/ffi-bindings.md) · [Filesystem Os (1613)](by-category/filesystem-os.md) · [Formatter (649)](by-category/formatter.md)
-[Framework (63)](by-category/framework.md) · [Fuzzer (57)](by-category/fuzzer.md) · [Game Engine Game Dev (357)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1465)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (438)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (273)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (30)](by-category/language-server.md) · [Language Specification (1442)](by-category/language-specification.md) · [Library (5742)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (530)](by-category/logging-observability.md) · [Machine Learning (797)](by-category/machine-learning.md)
-[Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (96)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1042)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (442)](by-category/package-manager.md) · [Parser Lexer Ast (1197)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (309)](by-category/precommit-ci-quality.md)
-[Profiler (87)](by-category/profiler.md) · [Project Scaffolding (134)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
-[Security Sast (336)](by-category/security-sast.md) · [Serialization (400)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (629)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (610)](by-category/testing-framework.md) · [Tutorial Book Styleguide (68)](by-category/tutorial-book-styleguide.md) · [Type Checker (313)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1619)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (560)](by-category/visualization-gui.md) · [Web Framework (478)](by-category/web-framework.md)
+[Cryptography (177)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (969)](by-category/database-datastore.md) · [Datetime (234)](by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (104)](by-category/dependency-manager.md) · [Documentation (109)](by-category/documentation.md)
+[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (462)](by-category/ffi-bindings.md) · [Filesystem Os (1614)](by-category/filesystem-os.md) · [Formatter (651)](by-category/formatter.md)
+[Framework (63)](by-category/framework.md) · [Fuzzer (58)](by-category/fuzzer.md) · [Game Engine Game Dev (358)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1473)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (438)](by-category/image-audio-dsp.md) · [Interop Bindings (62)](by-category/interop-bindings.md) · [Interpreter Runtime (274)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
+[Language Server (30)](by-category/language-server.md) · [Language Specification (1448)](by-category/language-specification.md) · [Library (5750)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (531)](by-category/logging-observability.md) · [Machine Learning (799)](by-category/machine-learning.md)
+[Math Numeric Scientific (88)](by-category/math-numeric-scientific.md) · [Memory Analyzer (98)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1052)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (443)](by-category/package-manager.md) · [Parser Lexer Ast (1205)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (310)](by-category/precommit-ci-quality.md)
+[Profiler (89)](by-category/profiler.md) · [Project Scaffolding (138)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
+[Security Sast (337)](by-category/security-sast.md) · [Serialization (400)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (631)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (617)](by-category/testing-framework.md) · [Tutorial Book Styleguide (68)](by-category/tutorial-book-styleguide.md) · [Type Checker (314)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (1627)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (561)](by-category/visualization-gui.md) · [Web Framework (487)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -899,6 +899,7 @@
 | `cran_packages_by_date-0ccae0957e3728` | opdisDownsampling | [open](records/r-opdisdownsampling-17ba0e83.md) |
 | `cran_packages_by_date-0ce7060e6e2bb3` | StanHeaders | [open](records/r-stanheaders-057c3682.md) |
 | `cran_packages_by_date-0cee466d060817` | mFilter | [open](records/r-mfilter-c4e756e7.md) |
+| `cran_packages_by_date-0d03059b44525a` | ClusterR | [open](records/r-clusterr-575d85cc.md) |
 | `cran_packages_by_date-0d0b4396e02517` | directlabels | [open](records/r-directlabels-65e4fde1.md) |
 | `cran_packages_by_date-0db0a454257ca0` | CompositionalZADR | [open](records/r-compositionalzadr-bb891663.md) |
 | `cran_packages_by_date-0db9a9d74d5a71` | rice | [open](records/r-rice-92478c24.md) |
@@ -978,6 +979,7 @@
 | `cran_packages_by_date-18930658429c55` | nethist | [open](records/r-nethist-8de2de7b.md) |
 | `cran_packages_by_date-1899918975ef81` | bvpSolve | [open](records/r-bvpsolve-36c8cd44.md) |
 | `cran_packages_by_date-189cc43a43aa54` | CarletonStats | [open](records/r-carletonstats-3f2e16bd.md) |
+| `cran_packages_by_date-18cdc2186cc386` | a5R | [open](records/r-a5r-97cfae72.md) |
 | `cran_packages_by_date-18e5d12f3795d2` | BayesSplineUR | [open](records/r-bayessplineur-7190359d.md) |
 | `cran_packages_by_date-18f444d856c111` | hexify | [open](records/r-hexify-18b38cb3.md) |
 | `cran_packages_by_date-1924137cf8c2c3` | xmpdf | [open](records/r-xmpdf-9b9f2b98.md) |
@@ -1542,6 +1544,7 @@
 | `cran_packages_by_date-68a2b24e47af6b` | competitiontoolbox | [open](records/r-competitiontoolbox-319a586f.md) |
 | `cran_packages_by_date-68ac49c0d17567` | PoultryEconR | [open](records/r-poultryeconr-377e37fa.md) |
 | `cran_packages_by_date-68b619ffa763fd` | rosm | [open](records/r-rosm-aca9db20.md) |
+| `cran_packages_by_date-68bb8408db0a8e` | multvardiv | [open](records/r-multvardiv-44a5b80f.md) |
 | `cran_packages_by_date-68c6c9f54fafaf` | RBesT | [open](records/r-rbest-a2e726ea.md) |
 | `cran_packages_by_date-68ee76481fae8d` | tvGarchKF | [open](records/r-tvgarchkf-74a751a5.md) |
 | `cran_packages_by_date-6905416c217075` | bayesGARCH | [open](records/r-bayesgarch-de92d9c4.md) |
@@ -2238,6 +2241,7 @@
 | `cran_packages_by_date-cfa76a77d2a6f6` | hcruR | [open](records/r-hcrur-39d3eda3.md) |
 | `cran_packages_by_date-cfe2ecc92b484a` | modMStates | [open](records/r-modmstates-916b1f0c.md) |
 | `cran_packages_by_date-d068fc18fa416e` | urbstatdata | [open](records/r-urbstatdata-de4dc874.md) |
+| `cran_packages_by_date-d0796fa35637f9` | GPCMlasso | [open](records/r-gpcmlasso-ea7f8d0e.md) |
 | `cran_packages_by_date-d07d6323c6b9a6` | sportsR | [open](records/r-sportsr-078e5fcc.md) |
 | `cran_packages_by_date-d088094849788c` | routing | [open](records/r-routing-2f4a5f07.md) |
 | `cran_packages_by_date-d09da408768837` | envar | [open](records/r-envar-b96db934.md) |
@@ -2257,6 +2261,7 @@
 | `cran_packages_by_date-d23e83ac33b9ba` | gpciLindleyApprox | [open](records/r-gpcilindleyapprox-075589e7.md) |
 | `cran_packages_by_date-d2459d82b1b473` | TrialSimulator | [open](records/r-trialsimulator-683f48f5.md) |
 | `cran_packages_by_date-d267d292589285` | causalgenerics | [open](records/r-causalgenerics-b56cd57d.md) |
+| `cran_packages_by_date-d2875d5749e5bb` | catfda | [open](records/r-catfda-48ce7503.md) |
 | `cran_packages_by_date-d2896c98385315` | ctOpenData | [open](records/r-ctopendata-a2888619.md) |
 | `cran_packages_by_date-d2aae173f40e90` | marp | [open](records/r-marp-443a786e.md) |
 | `cran_packages_by_date-d2ade3c1022056` | mellio | [open](records/r-mellio-cc9fd6ad.md) |
@@ -5340,6 +5345,7 @@
 | `gitea_repositories_api-563c28bf002e05` | Gitea: eq/CursorLanguageIndicator | [open](records/repository-workplaces-gitea-eq-cursorlanguageindicator-3fe5fdec.md) |
 | `gitea_repositories_api-571d149c0aa232` | Gitea: Gala_Group/GalaRuntime | [open](records/repository-workplaces-gitea-gala-group-galaruntime-c30c90ab.md) |
 | `gitea_repositories_api-57af9d3e4452e1` | Gitea: dhruv_patel/express | [open](records/repository-workplaces-gitea-dhruv-patel-express-37b47e60.md) |
+| `gitea_repositories_api-586cf7a8ca8230` | Gitea: marifcelik/acikkuran-extension | [open](records/repository-workplaces-gitea-marifcelik-acikkuran-extension-819cf26f.md) |
 | `gitea_repositories_api-5955831f042ea6` | Gitea: APYieldFarmer/devops | [open](records/repository-workplaces-gitea-apyieldfarmer-devops-0041de3d.md) |
 | `gitea_repositories_api-5a6ab174086f25` | Gitea: ElliotRedmond/Achieve-Cisco-300-730-Certification-Success--Your-Strategic-Partner-with-CertsBoard | [open](records/repository-workplaces-gitea-elliotredmond-achieve-cisco-300-730-certification-success-your-strategic-partner-with-certsboard-45c77640.md) |
 | `gitea_repositories_api-5abad1c4e6779c` | Gitea: ML-Programs/ml-programming-language | [open](records/repository-workplaces-gitea-ml-programs-ml-programming-language-36acdbba.md) |
@@ -7508,20 +7514,29 @@
 | `github_search_computer_graphics_software-f8ed196317fe1c` | BachiLi/redner | [open](records/computer-graphics-software-bachili-redner-bed67daa.md) |
 | `github_search_computer_graphics_software-fcd8793cf6a9f6` | YuliangXiu/ECON | [open](records/computer-graphics-software-yuliangxiu-econ-e7d21cbb.md) |
 | `github_search_databases-003abb8734d316` | flyway/flyway | [open](records/databases-flyway-flyway-3bcdbca5.md) |
+| `github_search_databases-011a59a9f8db3a` | saulpw/visidata | [open](records/databases-saulpw-visidata-d21b4529.md) |
 | `github_search_databases-0128a6b2a879ab` | hibernate/hibernate-orm | [open](records/databases-hibernate-hibernate-orm-fc00d398.md) |
 | `github_search_databases-016a893ae34b3f` | seancorfield/next-jdbc | [open](records/databases-seancorfield-next-jdbc-f28adceb.md) |
 | `github_search_databases-01c99004055410` | gluesql/gluesql | [open](records/databases-gluesql-gluesql-13df10e7.md) |
 | `github_search_databases-0267d220ad4a9b` | isar/hive | [open](records/databases-isar-hive-c92a6c20.md) |
+| `github_search_databases-02b16279a067b0` | dbcli/litecli | [open](records/databases-dbcli-litecli-e20f675e.md) |
 | `github_search_databases-02da7dfc2aa1f3` | cube2222/octosql | [open](records/databases-cube2222-octosql-cab58556.md) |
+| `github_search_databases-0373ca5b61b6b3` | xataio/pgroll | [open](records/databases-xataio-pgroll-4b570742.md) |
+| `github_search_databases-03e6a8b737f08c` | brianc/node-postgres | [open](records/databases-brianc-node-postgres-6210b4d9.md) |
 | `github_search_databases-0432405fdc48e7` | bytedance/bitsail | [open](records/databases-bytedance-bitsail-ee54726e.md) |
+| `github_search_databases-04ab7b70d8e42c` | cloudnative-pg/cloudnative-pg | [open](records/databases-cloudnative-pg-cloudnative-pg-5b60613f.md) |
 | `github_search_databases-05330da12d5c42` | Lulzx/zs3 | [open](records/databases-lulzx-zs3-f630b3a4.md) |
 | `github_search_databases-06872098e873e3` | YoEight/eventstore | [open](records/databases-yoeight-eventstore-299fec75.md) |
 | `github_search_databases-06ae1aad79e87f` | epsilla-cloud/vectordb | [open](records/databases-epsilla-cloud-vectordb-e5e95855.md) |
 | `github_search_databases-06c8157146877f` | scratchdata/scratchdata | [open](records/databases-scratchdata-scratchdata-7f09b0b9.md) |
 | `github_search_databases-06e44de193b477` | databendlabs/databend | [open](records/databases-databendlabs-databend-b025738c.md) |
+| `github_search_databases-076b4083287756` | mongodb/mongo-c-driver | [open](records/databases-mongodb-mongo-c-driver-7a4619eb.md) |
 | `github_search_databases-07f06c99dcc5df` | SeaQL/sea-orm | [open](records/databases-seaql-sea-orm-dfb42d06.md) |
+| `github_search_databases-07f1edae0f139a` | dimitri/pgloader | [open](records/databases-dimitri-pgloader-b06e2e41.md) |
 | `github_search_databases-0871bca7e74763` | jdbc-observations/datasource-proxy | [open](records/databases-jdbc-observations-datasource-proxy-2bf56772.md) |
+| `github_search_databases-0916896b7e0ea3` | canonical/dqlite | [open](records/databases-canonical-dqlite-d71c166b.md) |
 | `github_search_databases-094243699d34ca` | logv/sybil | [open](records/databases-logv-sybil-16702d87.md) |
+| `github_search_databases-0976ba8f72f370` | porsager/postgres | [open](records/databases-porsager-postgres-fbaff732.md) |
 | `github_search_databases-09f28ed8cb38e0` | psqlpy-python/psqlpy | [open](records/databases-psqlpy-python-psqlpy-1df2d26b.md) |
 | `github_search_databases-0a3119062e7854` | h2database/h2database | [open](records/databases-h2database-h2database-efc01145.md) |
 | `github_search_databases-0a9cf8e4bc1f66` | baztian/jaydebeapi | [open](records/databases-baztian-jaydebeapi-dc2ab2ed.md) |
@@ -7535,6 +7550,7 @@
 | `github_search_databases-0e1fa7270e897b` | objectbox/objectbox-go | [open](records/databases-objectbox-objectbox-go-7fb091f2.md) |
 | `github_search_databases-0e43a02dbf8a71` | rpbouman/huey | [open](records/databases-rpbouman-huey-d6a66223.md) |
 | `github_search_databases-100ada96664170` | xerj-org/xerj | [open](records/databases-xerj-org-xerj-9c547839.md) |
+| `github_search_databases-10dce4a0dfc1e3` | deeplethe/utopia | [open](records/databases-deeplethe-utopia-1a8ac8d3.md) |
 | `github_search_databases-12a14beaf3e051` | apache/zeppelin | [open](records/databases-apache-zeppelin-896076cb.md) |
 | `github_search_databases-12bd7e49ea6707` | Tencent/Tendis | [open](records/databases-tencent-tendis-df49c9ba.md) |
 | `github_search_databases-12c7cad3f5e5b0` | electric-sql/pglite | [open](records/databases-electric-sql-pglite-aaa8e71d.md) |
@@ -7556,18 +7572,24 @@
 | `github_search_databases-168fb05a1474ed` | finos/TimeBase-CE | [open](records/databases-finos-timebase-ce-0fc518bd.md) |
 | `github_search_databases-173f2525a41a05` | CodisLabs/codis | [open](records/databases-codislabs-codis-2fbfa490.md) |
 | `github_search_databases-177934703e8cfa` | opentracing-contrib/java-spring-cloud | [open](records/databases-opentracing-contrib-java-spring-cloud-7790ec99.md) |
+| `github_search_databases-18079f476404b3` | supabase/realtime | [open](records/databases-supabase-realtime-b14fcb32.md) |
 | `github_search_databases-188e6aec3ca0b2` | babyfish-ct/jimmer | [open](records/databases-babyfish-ct-jimmer-9ee1c78e.md) |
 | `github_search_databases-18c4f5b246bde4` | cube-js/cube | [open](records/databases-cube-js-cube-373699e3.md) |
 | `github_search_databases-18dde63bffc726` | thulab/tsfile | [open](records/databases-thulab-tsfile-977bb312.md) |
+| `github_search_databases-194fb3f809dbc3` | only-cliches/Nano-SQL | [open](records/databases-only-cliches-nano-sql-2e385bb5.md) |
 | `github_search_databases-19a08c46cc504b` | SOCI/soci | [open](records/databases-soci-soci-d7c36c2b.md) |
 | `github_search_databases-19ffd80f55d7b4` | mining/mining | [open](records/databases-mining-mining-66e95360.md) |
 | `github_search_databases-1a1b9465512a7d` | mongodb/mongo-ruby-driver | [open](records/databases-mongodb-mongo-ruby-driver-094f2530.md) |
 | `github_search_databases-1a4efc41b1df8b` | TuiQiao/CBoard | [open](records/databases-tuiqiao-cboard-4ade1901.md) |
 | `github_search_databases-1b33d222e23eb6` | KuiBaDB/KuiBaDB | [open](records/databases-kuibadb-kuibadb-547f05c4.md) |
+| `github_search_databases-1b774e82cd0d08` | bytebase/dbhub | [open](records/databases-bytebase-dbhub-ead21c0d.md) |
 | `github_search_databases-1b8dc038c93938` | skyzh/write-you-a-vector-db | [open](records/databases-skyzh-write-you-a-vector-db-16d5344e.md) |
 | `github_search_databases-1c0c4de98a54fb` | sequelpro/sequelpro | [open](records/databases-sequelpro-sequelpro-433a9d9f.md) |
 | `github_search_databases-1c5add106f4653` | CodeAbra/iai-personal-memory-engine | [open](records/databases-codeabra-iai-personal-memory-engine-13773b4e.md) |
+| `github_search_databases-1cdc999770e3e3` | makeplane/plane | [open](records/databases-makeplane-plane-b0283e4b.md) |
 | `github_search_databases-1da966eacb7c3a` | long2ice/asyncmy | [open](records/databases-long2ice-asyncmy-537bc784.md) |
+| `github_search_databases-1e2aca30ec8043` | wasp-lang/open-saas | [open](records/databases-wasp-lang-open-saas-7ae427a8.md) |
+| `github_search_databases-1e5449fe35038e` | skyzh/vector-db-from-scratch | [open](records/databases-skyzh-vector-db-from-scratch-51c5f22e.md) |
 | `github_search_databases-1ef5a25b95c8fe` | Query-farm/httpserver | [open](records/databases-query-farm-httpserver-36ffb344.md) |
 | `github_search_databases-1efa2f0b7eae04` | plastic-labs/honcho | [open](records/databases-plastic-labs-honcho-ddaa1a7f.md) |
 | `github_search_databases-1f31582e78b0c4` | oramasearch/orama | [open](records/databases-oramasearch-orama-c7b7d315.md) |
@@ -7589,28 +7611,41 @@
 | `github_search_databases-24e51e7803c774` | apache/linkis | [open](records/databases-apache-linkis-70a1f4b2.md) |
 | `github_search_databases-250aea00bfd54c` | zio/zio-quill | [open](records/databases-zio-zio-quill-ba2c736d.md) |
 | `github_search_databases-2589eeac6bf194` | openGemini/openGemini | [open](records/databases-opengemini-opengemini-b406e906.md) |
+| `github_search_databases-259e2584b5a1a1` | komapper/komapper | [open](records/databases-komapper-komapper-bddd0ea9.md) |
 | `github_search_databases-263462cf39e9ac` | aerospike/aerospike-client-nodejs | [open](records/databases-aerospike-aerospike-client-nodejs-346f6618.md) |
+| `github_search_databases-26636b64c1001b` | discourse/discourse | [open](records/databases-discourse-discourse-7bfa29f8.md) |
 | `github_search_databases-267db768c532f5` | alibaba/zvec | [open](records/databases-alibaba-zvec-99659847.md) |
+| `github_search_databases-26b0898a12e07c` | apache/spark-docker | [open](records/databases-apache-spark-docker-ed7ea3e6.md) |
 | `github_search_databases-26ba53f889f151` | parseablehq/parseable | [open](records/databases-parseablehq-parseable-944a7af5.md) |
 | `github_search_databases-26d1f2d37c102b` | dotnet/efcore | [open](records/databases-dotnet-efcore-f57314d7.md) |
 | `github_search_databases-26e8d0a1f03c9b` | aerospike-community/aerospike-client-ruby | [open](records/databases-aerospike-community-aerospike-client-ruby-04491640.md) |
 | `github_search_databases-276f28ede4653c` | Mintplex-Labs/vector-admin | [open](records/databases-mintplex-labs-vector-admin-90dbe9c3.md) |
 | `github_search_databases-2862508aa97874` | pathwaycom/llm-app | [open](records/databases-pathwaycom-llm-app-200fc9af.md) |
+| `github_search_databases-28842a19fab821` | vogler75/automation-gateway | [open](records/databases-vogler75-automation-gateway-85135ca2.md) |
+| `github_search_databases-28d36a15a7b6ec` | sourcenetwork/defradb | [open](records/databases-sourcenetwork-defradb-6d319ed1.md) |
 | `github_search_databases-291998b4f384a0` | doableware/djongo | [open](records/databases-doableware-djongo-55b89aa7.md) |
+| `github_search_databases-297e4ecf47df2b` | apache/flink-connector-jdbc | [open](records/databases-apache-flink-connector-jdbc-5ab1a981.md) |
 | `github_search_databases-2a719c93d20d04` | AnghelLeonard/Hibernate-SpringBoot | [open](records/databases-anghelleonard-hibernate-springboot-ad555e27.md) |
 | `github_search_databases-2aa92b0a571fa6` | apache/amoro | [open](records/databases-apache-amoro-d2a3a509.md) |
 | `github_search_databases-2aaf4afa69e1c6` | metriql/metriql | [open](records/databases-metriql-metriql-66121bff.md) |
+| `github_search_databases-2abc057064de71` | cstack/db_tutorial | [open](records/databases-cstack-db-tutorial-5fe821d6.md) |
 | `github_search_databases-2b6a898d0e0daf` | go-sql-driver/mysql | [open](records/databases-go-sql-driver-mysql-f2d64d6f.md) |
 | `github_search_databases-2b7c350f845f06` | neo4j/neo4j-python-driver | [open](records/databases-neo4j-neo4j-python-driver-99f0ef58.md) |
 | `github_search_databases-2c5a4540442bae` | Koka/odbc-rs | [open](records/databases-koka-odbc-rs-22556c1f.md) |
 | `github_search_databases-2c98c8b718b2cd` | danny-avila/rag_api | [open](records/databases-danny-avila-rag-api-13cf38f8.md) |
+| `github_search_databases-2ce4529257e47a` | calcom/cal.diy | [open](records/databases-calcom-cal-diy-2a9d1d15.md) |
 | `github_search_databases-2ce5c6ddb6347f` | hello245m/free-stockdb | [open](records/databases-hello245m-free-stockdb-4b014a28.md) |
+| `github_search_databases-2d681840c371de` | ponyorm/pony | [open](records/databases-ponyorm-pony-7bd1ee6c.md) |
+| `github_search_databases-2eefa5052cad2c` | mabel-dev/opteryx | [open](records/databases-mabel-dev-opteryx-2e638eaa.md) |
+| `github_search_databases-2f193aa3478250` | playframework/anorm | [open](records/databases-playframework-anorm-feb01c23.md) |
 | `github_search_databases-2f483266c07037` | typicode/lowdb | [open](records/databases-typicode-lowdb-305affaa.md) |
+| `github_search_databases-2f964dfcfe3747` | apache/flink-cdc | [open](records/databases-apache-flink-cdc-404f27d7.md) |
 | `github_search_databases-3061a2a2e30349` | apache/spark | [open](records/databases-apache-spark-8676d6b2.md) |
 | `github_search_databases-30c3d752cda078` | dgllghr/stanchion | [open](records/databases-dgllghr-stanchion-f1dfbc51.md) |
 | `github_search_databases-30ca9f991bed8f` | dragonflydb/dragonfly | [open](records/databases-dragonflydb-dragonfly-fdf6559c.md) |
 | `github_search_databases-30ccae38aab6ba` | mysqljs/mysql | [open](records/databases-mysqljs-mysql-4caafa94.md) |
 | `github_search_databases-3123e99571b6da` | lancedb/lancedb | [open](records/databases-lancedb-lancedb-e66822c2.md) |
+| `github_search_databases-3139a2e22b49af` | xo/dbtpl | [open](records/databases-xo-dbtpl-4a8added.md) |
 | `github_search_databases-31b926934270fd` | aws-solutions-library-samples/data-lakes-on-aws | [open](records/databases-aws-solutions-library-samples-data-lakes-on-aws-a6898912.md) |
 | `github_search_databases-31ed541dd2253e` | gyoogle/tech-interview-for-developer | [open](records/databases-gyoogle-tech-interview-for-developer-dc2a8dbb.md) |
 | `github_search_databases-32397eb369b3e1` | warp-tech/warpgate | [open](records/databases-warp-tech-warpgate-2221afcb.md) |
@@ -7619,17 +7654,23 @@
 | `github_search_databases-33063a1ca5b05e` | scality/Zenko | [open](records/databases-scality-zenko-248037a0.md) |
 | `github_search_databases-33a4ee85e15c97` | pingcap/tidb | [open](records/databases-pingcap-tidb-56d438be.md) |
 | `github_search_databases-33a85e15e137c3` | HelixDB/helix-db | [open](records/databases-helixdb-helix-db-97ccc5dd.md) |
+| `github_search_databases-3440a253b13cab` | AsjadIqbal/InventoryManagementSystem | [open](records/databases-asjadiqbal-inventorymanagementsystem-58395d51.md) |
+| `github_search_databases-345daf2a8f4cc6` | plausible/analytics | [open](records/databases-plausible-analytics-6794b97c.md) |
+| `github_search_databases-34a093c7179baf` | opentracing-contrib/java-specialagent | [open](records/databases-opentracing-contrib-java-specialagent-3908d3dc.md) |
 | `github_search_databases-34c538d77df19c` | IceFireDB/IceFireDB | [open](records/databases-icefiredb-icefiredb-27424ec8.md) |
 | `github_search_databases-34e673ebd90443` | valeriansaliou/sonic | [open](records/databases-valeriansaliou-sonic-919a601d.md) |
 | `github_search_databases-35999a993c54ed` | HouzuoGuo/tiedot | [open](records/databases-houzuoguo-tiedot-a106fef2.md) |
 | `github_search_databases-36ba5782b1ab88` | apache/solr | [open](records/databases-apache-solr-a1b48587.md) |
 | `github_search_databases-36d372b538e900` | Open-Source-Legal/OpenContracts | [open](records/databases-open-source-legal-opencontracts-4d09da5d.md) |
+| `github_search_databases-37257e5759077d` | papermark/papermark | [open](records/databases-papermark-papermark-47af8f05.md) |
 | `github_search_databases-374d7cc7aec129` | databasus/databasus | [open](records/databases-databasus-databasus-921e4121.md) |
 | `github_search_databases-379f4a5b7a74b2` | surrealdb/surrealdb | [open](records/databases-surrealdb-surrealdb-9ffe9792.md) |
 | `github_search_databases-380c5f9865913e` | vearch/vearch | [open](records/databases-vearch-vearch-5476b49d.md) |
 | `github_search_databases-3849443f3eeae4` | grafana/grafana | [open](records/databases-grafana-grafana-e48fd20c.md) |
+| `github_search_databases-38fcce0898ce89` | HTTP-RPC/Kilo | [open](records/databases-http-rpc-kilo-1640999c.md) |
 | `github_search_databases-391f505ba963f8` | freakmaxi/kertish-dos | [open](records/databases-freakmaxi-kertish-dos-06018bc3.md) |
 | `github_search_databases-39590bd011c66d` | eosphoros-ai/DB-GPT | [open](records/databases-eosphoros-ai-db-gpt-f51d8c14.md) |
+| `github_search_databases-3a4cbee2ec1570` | FerretDB/FerretDB | [open](records/databases-ferretdb-ferretdb-6529f887.md) |
 | `github_search_databases-3a6c8fab00902c` | distributedio/titan | [open](records/databases-distributedio-titan-2725f29d.md) |
 | `github_search_databases-3a82ab4b977dd7` | kaiwaehner/hivemq-mqtt-tensorflow-kafka-realtime-iot-machine-learning-training-inference | [open](records/databases-kaiwaehner-hivemq-mqtt-tensorflow-kafka-realtime-iot-machine-learning-training-inference-56011b79.md) |
 | `github_search_databases-3ab207b507c752` | xo/usql | [open](records/databases-xo-usql-8bb1650f.md) |
@@ -7646,12 +7687,16 @@
 | `github_search_databases-3d7063f39b79f2` | SouravRoy-ETL/slothdb | [open](records/databases-souravroy-etl-slothdb-80e14269.md) |
 | `github_search_databases-3dc0ee8f904031` | OtterMind/Chat2DB | [open](records/databases-ottermind-chat2db-a37fa72f.md) |
 | `github_search_databases-3dc796077936c0` | rom-rb/rom | [open](records/databases-rom-rb-rom-e8be5cad.md) |
+| `github_search_databases-3dea5f57ef2c29` | firebolt-db/firebolt-core | [open](records/databases-firebolt-db-firebolt-core-79afc996.md) |
 | `github_search_databases-3e6e0484fd6be8` | Noooste/garage-ui | [open](records/databases-noooste-garage-ui-453db6ad.md) |
+| `github_search_databases-3ee8c0fe2be2e5` | bwajtr/java-persistence-frameworks-comparison | [open](records/databases-bwajtr-java-persistence-frameworks-comparison-74170125.md) |
 | `github_search_databases-3f185453f94ffb` | topling/toplingdb | [open](records/databases-topling-toplingdb-dad1d1dc.md) |
 | `github_search_databases-3fb10788ddc3cd` | langchain4j/langchain4j | [open](records/databases-langchain4j-langchain4j-478395e2.md) |
+| `github_search_databases-3fc9e0fccee5de` | awslabs/aws-mysql-jdbc | [open](records/databases-awslabs-aws-mysql-jdbc-1d6033b1.md) |
 | `github_search_databases-4009a98046fbe5` | NygenAnalytics/scarf | [open](records/databases-nygenanalytics-scarf-8496d3f8.md) |
 | `github_search_databases-40294c65502184` | spiculedata/saiku | [open](records/databases-spiculedata-saiku-3e036390.md) |
 | `github_search_databases-40b25988b1dafc` | linkedin/school-of-sre | [open](records/databases-linkedin-school-of-sre-373f9d76.md) |
+| `github_search_databases-412b107428912d` | bolt/bolt | [open](records/databases-bolt-bolt-34a36599.md) |
 | `github_search_databases-41b125e461d2bf` | san089/goodreads_etl_pipeline | [open](records/databases-san089-goodreads-etl-pipeline-e775850d.md) |
 | `github_search_databases-41d71be3fa5deb` | scylladb/scylladb | [open](records/databases-scylladb-scylladb-5677bf8d.md) |
 | `github_search_databases-424a278ce706da` | coollabsio/coolify | [open](records/databases-coollabsio-coolify-1bdaf4b8.md) |
@@ -7660,22 +7705,32 @@
 | `github_search_databases-4271aa1751a309` | akumuli/Akumuli | [open](records/databases-akumuli-akumuli-8025ea92.md) |
 | `github_search_databases-428577520fbd9e` | metabase/metabase | [open](records/databases-metabase-metabase-3a69762d.md) |
 | `github_search_databases-42ce05d19bb17a` | geldata/gel-js | [open](records/databases-geldata-gel-js-59c36290.md) |
+| `github_search_databases-42d918329d22ff` | amitshekhariitbhu/Android-Debug-Database | [open](records/databases-amitshekhariitbhu-android-debug-database-ce716009.md) |
+| `github_search_databases-437203bf0448bc` | encode/databases | [open](records/databases-encode-databases-f91c5a81.md) |
 | `github_search_databases-4380ed35e13889` | memvid/memvid | [open](records/databases-memvid-memvid-85e03b2f.md) |
 | `github_search_databases-43d76249653d05` | apache/datafusion | [open](records/databases-apache-datafusion-4e892e01.md) |
 | `github_search_databases-43fab5058a849c` | uber/marmaray | [open](records/databases-uber-marmaray-1e6dacff.md) |
 | `github_search_databases-444069cd3eb285` | Loki-Astari/ThorsAnvil | [open](records/databases-loki-astari-thorsanvil-e1c56717.md) |
 | `github_search_databases-44746c6232104d` | gitsocial-org/gitsocial | [open](records/databases-gitsocial-org-gitsocial-1a791a5d.md) |
 | `github_search_databases-45606711d94502` | dgraph-io/badger | [open](records/databases-dgraph-io-badger-fed32884.md) |
+| `github_search_databases-45c201d3bb05e3` | JoeanAmier/XHS-Downloader | [open](records/databases-joeanamier-xhs-downloader-83e85d93.md) |
+| `github_search_databases-45e7151e6da20d` | HDFGroup/hdf5 | [open](records/databases-hdfgroup-hdf5-b4780cb8.md) |
 | `github_search_databases-4607cd65438620` | blue-yonder/turbodbc | [open](records/databases-blue-yonder-turbodbc-e971a9c5.md) |
 | `github_search_databases-4647c5fe588bb8` | pubkey/rxdb | [open](records/databases-pubkey-rxdb-d6f509c0.md) |
+| `github_search_databases-46b1d0f175a651` | theangryangel/logstash-output-jdbc | [open](records/databases-theangryangel-logstash-output-jdbc-96042fd0.md) |
 | `github_search_databases-4702e98056875f` | memgraph/memgraph | [open](records/databases-memgraph-memgraph-19c28ec0.md) |
+| `github_search_databases-47843afb14ae9a` | naver/spring-jdbc-plus | [open](records/databases-naver-spring-jdbc-plus-544a90e7.md) |
 | `github_search_databases-47ef931bee1b16` | BemiHQ/BemiDB | [open](records/databases-bemihq-bemidb-44ac1af8.md) |
+| `github_search_databases-47f0bbf50e3ce9` | llm-tools/embedJs | [open](records/databases-llm-tools-embedjs-b41ef350.md) |
 | `github_search_databases-4884c209cd6ce9` | Mithril-mine/libmdbx | [open](records/databases-mithril-mine-libmdbx-ec7af8f0.md) |
 | `github_search_databases-488d1ab796855d` | kuzudb/kuzu | [open](records/databases-kuzudb-kuzu-1b78fc97.md) |
+| `github_search_databases-48ab70a3889d18` | TabularisDB/tabularis | [open](records/databases-tabularisdb-tabularis-3c1fcb7e.md) |
 | `github_search_databases-48cc3a69f49d47` | grandnode/grandnode2 | [open](records/databases-grandnode-grandnode2-f27a8b8d.md) |
 | `github_search_databases-48d01fa4b113e9` | ebean-orm/ebean | [open](records/databases-ebean-orm-ebean-f16dcb8d.md) |
 | `github_search_databases-493177aa6dab87` | tobymao/sqlglot | [open](records/databases-tobymao-sqlglot-016a1d6a.md) |
 | `github_search_databases-49474c56509708` | DataLinkDC/dinky | [open](records/databases-datalinkdc-dinky-b423b791.md) |
+| `github_search_databases-494db08bf38b4a` | ubicloud/ubicloud | [open](records/databases-ubicloud-ubicloud-7e3cd300.md) |
+| `github_search_databases-4964ec531a70e1` | thedotmack/claude-mem | [open](records/databases-thedotmack-claude-mem-3839dcc6.md) |
 | `github_search_databases-4a0bc9e5ebc65f` | pilgr/Paper | [open](records/databases-pilgr-paper-4bec3683.md) |
 | `github_search_databases-4a10e992a605a0` | yongman/tidis | [open](records/databases-yongman-tidis-294d7dc0.md) |
 | `github_search_databases-4a121cea92f8fd` | kantord/SeaGOAT | [open](records/databases-kantord-seagoat-e1571aa9.md) |
@@ -7691,32 +7746,43 @@
 | `github_search_databases-4cbfec15a0ede7` | ekzhang/inline-sql | [open](records/databases-ekzhang-inline-sql-ee200d25.md) |
 | `github_search_databases-4dd20374ce9b23` | dbkangaroo/kangaroo | [open](records/databases-dbkangaroo-kangaroo-cb5596c5.md) |
 | `github_search_databases-4e337f8a19f305` | cubefs/cubefs | [open](records/databases-cubefs-cubefs-2e8325bf.md) |
+| `github_search_databases-4e76c29f20ce22` | ufoss-org/kotysa | [open](records/databases-ufoss-org-kotysa-d1aee466.md) |
 | `github_search_databases-4eb7507b018a27` | JuliaDatabases/ODBC.jl | [open](records/databases-juliadatabases-odbc-jl-84bdf61c.md) |
 | `github_search_databases-4ef7efe4ced9f2` | diesel-rs/diesel | [open](records/databases-diesel-rs-diesel-a59a8892.md) |
 | `github_search_databases-4f10394ccd2cfa` | apache/drill | [open](records/databases-apache-drill-5e3bde8a.md) |
 | `github_search_databases-4f3e7251834051` | mechatroner/RBQL | [open](records/databases-mechatroner-rbql-6c89ce0a.md) |
+| `github_search_databases-4f51b73ea49256` | achristmascarl/rainfrog | [open](records/databases-achristmascarl-rainfrog-b671adea.md) |
 | `github_search_databases-504cdf968f7807` | Softmotions/ejdb | [open](records/databases-softmotions-ejdb-70c4b6fe.md) |
 | `github_search_databases-5065e520314b54` | neural-maze/ava-whatsapp-agent-course | [open](records/databases-neural-maze-ava-whatsapp-agent-course-16548b94.md) |
 | `github_search_databases-506832df99ef13` | dbgate/dbgate | [open](records/databases-dbgate-dbgate-67fc8232.md) |
 | `github_search_databases-5095f25a8d1d57` | shzlw/poli | [open](records/databases-shzlw-poli-beee279d.md) |
+| `github_search_databases-50acac3138431f` | LauJensen/clojureql | [open](records/databases-laujensen-clojureql-76471c0c.md) |
 | `github_search_databases-510f111ecbcc5b` | timescale/timescaledb | [open](records/databases-timescale-timescaledb-a9f2409b.md) |
 | `github_search_databases-5112b38a224b07` | FirebirdSQL/firebird-odbc-driver | [open](records/databases-firebirdsql-firebird-odbc-driver-ecdf8052.md) |
 | `github_search_databases-51738f7c120963` | X1r0z/JNDIMap | [open](records/databases-x1r0z-jndimap-51139cd4.md) |
+| `github_search_databases-51b4712354c809` | nalgeon/redka | [open](records/databases-nalgeon-redka-997b58de.md) |
 | `github_search_databases-51bf06418f4809` | pressly/goose | [open](records/databases-pressly-goose-aa83d750.md) |
 | `github_search_databases-52023836e0711c` | cookieY/Yearning | [open](records/databases-cookiey-yearning-30a7b49e.md) |
 | `github_search_databases-5204e0b58e3ca2` | VectifyAI/PageIndex | [open](records/databases-vectifyai-pageindex-856593c6.md) |
+| `github_search_databases-524a56883e6bf4` | MaterializeInc/materialize | [open](records/databases-materializeinc-materialize-83d58b57.md) |
 | `github_search_databases-526dfd851f1050` | Licoy/watchdog-framework | [open](records/databases-licoy-watchdog-framework-ce3e4dd7.md) |
 | `github_search_databases-52cdcec7559a20` | jdbi/jdbi | [open](records/databases-jdbi-jdbi-3cc6bc95.md) |
 | `github_search_databases-52e29f7f6a6610` | specmatic/specmatic | [open](records/databases-specmatic-specmatic-995f3f36.md) |
+| `github_search_databases-532183a7b10462` | dieselpoint/norm | [open](records/databases-dieselpoint-norm-d5dbd93a.md) |
+| `github_search_databases-535d4f914100da` | webhooksite/webhook.site | [open](records/databases-webhooksite-webhook-site-72a383fc.md) |
 | `github_search_databases-545a4c7b1dd4ba` | Stratio/sparta | [open](records/databases-stratio-sparta-086179db.md) |
+| `github_search_databases-547013600b800f` | livestorejs/livestore | [open](records/databases-livestorejs-livestore-d5c5b0b8.md) |
+| `github_search_databases-55244457090055` | pgalko/BambooAI | [open](records/databases-pgalko-bambooai-a8383ba2.md) |
 | `github_search_databases-5540e1e55c6f3c` | MagicStack/asyncpg | [open](records/databases-magicstack-asyncpg-aa6bb99b.md) |
 | `github_search_databases-5549db1e2e3a3b` | gogs/gogs | [open](records/databases-gogs-gogs-f9556bd6.md) |
 | `github_search_databases-554c373ceae7b5` | JKHeadley/rest-hapi | [open](records/databases-jkheadley-rest-hapi-11c0a4c0.md) |
+| `github_search_databases-5637cc16ba5579` | Adarsh9616/Electricity_Billing_System | [open](records/databases-adarsh9616-electricity-billing-system-1402a818.md) |
 | `github_search_databases-56e66f4ce2eec1` | znone/qtl | [open](records/databases-znone-qtl-4a168333.md) |
 | `github_search_databases-570b4322855e3a` | knex/knex | [open](records/databases-knex-knex-a41a9917.md) |
 | `github_search_databases-570b9d72fa65b6` | nestjs/typeorm | [open](records/databases-nestjs-typeorm-3312e1e4.md) |
 | `github_search_databases-578e79736916fb` | orientechnologies/orientdb | [open](records/databases-orientechnologies-orientdb-583f5aed.md) |
 | `github_search_databases-57d146b763ae20` | kangkaisen/olap-performance | [open](records/databases-kangkaisen-olap-performance-93dc589e.md) |
+| `github_search_databases-57ec3a95a0851f` | twentyhq/twenty | [open](records/databases-twentyhq-twenty-d5d0607f.md) |
 | `github_search_databases-5906cbcd2dd7c5` | Teradata/kylo | [open](records/databases-teradata-kylo-b03a4cc2.md) |
 | `github_search_databases-59ae8e0e51df1e` | lioensky/VCPToolBox | [open](records/databases-lioensky-vcptoolbox-7835fe3a.md) |
 | `github_search_databases-5a92575d7bff16` | akopytov/sysbench | [open](records/databases-akopytov-sysbench-030eed13.md) |
@@ -7727,6 +7793,7 @@
 | `github_search_databases-5bd08c810457ff` | mkleehammer/pyodbc | [open](records/databases-mkleehammer-pyodbc-1babb273.md) |
 | `github_search_databases-5bf03bf382a440` | neo4j/neo4j-go-driver | [open](records/databases-neo4j-neo4j-go-driver-8a74d04c.md) |
 | `github_search_databases-5c30d3b23641a2` | equinor/tagreader-python | [open](records/databases-equinor-tagreader-python-3fca5a77.md) |
+| `github_search_databases-5cb969de6c0ae9` | Dailin521/codex-provider-sync | [open](records/databases-dailin521-codex-provider-sync-805d5bca.md) |
 | `github_search_databases-5cf1b09d8766ce` | duckdb/duckdb-rs | [open](records/databases-duckdb-duckdb-rs-3bc8e1ae.md) |
 | `github_search_databases-5d09ebe61013e1` | dgraph-io/dgraph | [open](records/databases-dgraph-io-dgraph-d8a0cd12.md) |
 | `github_search_databases-5d0a6e92998331` | volcengine/MineContext | [open](records/databases-volcengine-minecontext-175b292e.md) |
@@ -7734,46 +7801,62 @@
 | `github_search_databases-5e835793d419cf` | dzharii/awesome-elasticsearch | [open](records/databases-dzharii-awesome-elasticsearch-81171c8b.md) |
 | `github_search_databases-5eea95ea213802` | codingo/NoSQLMap | [open](records/databases-codingo-nosqlmap-92ab6758.md) |
 | `github_search_databases-5f0420bb944d11` | The-Vibe-Company/quivr | [open](records/databases-the-vibe-company-quivr-58a307c7.md) |
+| `github_search_databases-600d43cc9a1a2c` | go-jet/jet | [open](records/databases-go-jet-jet-ca5652ca.md) |
 | `github_search_databases-60307d02b7acab` | dolphindb/DolphinDBPlugin | [open](records/databases-dolphindb-dolphindbplugin-117a11bd.md) |
 | `github_search_databases-6110aa6d454161` | Netflix/dynomite | [open](records/databases-netflix-dynomite-bbdaecf5.md) |
 | `github_search_databases-613e2f134edb33` | PyMySQL/PyMySQL | [open](records/databases-pymysql-pymysql-5d492d34.md) |
+| `github_search_databases-617fe2b3b8c83e` | pingcap/awesome-database-learning | [open](records/databases-pingcap-awesome-database-learning-7b5c8ac6.md) |
+| `github_search_databases-61f3060b67362b` | SleekDB/SleekDB | [open](records/databases-sleekdb-sleekdb-44bd7f0e.md) |
+| `github_search_databases-623820a1013c1d` | JoeanAmier/TikTokDownloader | [open](records/databases-joeanamier-tiktokdownloader-f92c9371.md) |
 | `github_search_databases-62fde72bdc85cb` | run-llama/llama_index | [open](records/databases-run-llama-llama-index-1ae4495a.md) |
+| `github_search_databases-63055e1d01b9c8` | pawelsalawa/letos | [open](records/databases-pawelsalawa-letos-3a5b74d0.md) |
 | `github_search_databases-634c8606766eb6` | zfile-dev/zfile | [open](records/databases-zfile-dev-zfile-2a4a37ee.md) |
 | `github_search_databases-63f3ecda5238d5` | duckdb/duckdb-wasm | [open](records/databases-duckdb-duckdb-wasm-c56947ec.md) |
 | `github_search_databases-63fe4f0caa36fc` | vesoft-inc/nebula | [open](records/databases-vesoft-inc-nebula-ddaede03.md) |
 | `github_search_databases-6481a23384330a` | geldata/gel | [open](records/databases-geldata-gel-a5e3c51e.md) |
+| `github_search_databases-64ddf303ae17ab` | fogleman/Craft | [open](records/databases-fogleman-craft-25b9e164.md) |
 | `github_search_databases-652c31985908ac` | simbafl/DataWarehouse | [open](records/databases-simbafl-datawarehouse-0309c315.md) |
+| `github_search_databases-65366df1f4bd18` | sosedoff/pgweb | [open](records/databases-sosedoff-pgweb-64d0c3b3.md) |
 | `github_search_databases-65b19e038b36d2` | svenvc/P3 | [open](records/databases-svenvc-p3-2c71a4dc.md) |
 | `github_search_databases-668a2d75c1e52f` | aerospike/aerospike-client-rust | [open](records/databases-aerospike-aerospike-client-rust-0981e978.md) |
 | `github_search_databases-670f61e2fb2344` | baidu/tera | [open](records/databases-baidu-tera-d6493d61.md) |
 | `github_search_databases-673df22a2b33db` | Barre/ZeroFS | [open](records/databases-barre-zerofs-c52f3abe.md) |
 | `github_search_databases-6740dc331f90a1` | supabase/storage | [open](records/databases-supabase-storage-c36b8bcb.md) |
 | `github_search_databases-67679c1247e672` | Canner/vulcan-sql | [open](records/databases-canner-vulcan-sql-633fe596.md) |
+| `github_search_databases-67bfa0cd552939` | documenso/documenso | [open](records/databases-documenso-documenso-192ee2e7.md) |
+| `github_search_databases-67f6e95064d13c` | simonw/datasette | [open](records/databases-simonw-datasette-1ddbef0c.md) |
 | `github_search_databases-68096669e725f7` | Wisser/Jailer | [open](records/databases-wisser-jailer-b572d87a.md) |
 | `github_search_databases-680f7747e5a09a` | dbcli/mycli | [open](records/databases-dbcli-mycli-1357562c.md) |
 | `github_search_databases-68350608c46225` | zilliztech/VectorDBBench | [open](records/databases-zilliztech-vectordbbench-67fe0d9f.md) |
+| `github_search_databases-684e2c0248c47e` | LinuxForHealth/FHIR | [open](records/databases-linuxforhealth-fhir-ee64ade5.md) |
 | `github_search_databases-69849e2d725a97` | collabH/bigdata-growth | [open](records/databases-collabh-bigdata-growth-88dbeb0f.md) |
 | `github_search_databases-6990c83e63759c` | prisma/prisma1 | [open](records/databases-prisma-prisma1-3cff6fc2.md) |
+| `github_search_databases-69e30c71653b4a` | DotNetNext/SqlSugar | [open](records/databases-dotnetnext-sqlsugar-a1157e31.md) |
 | `github_search_databases-6a007c39d55878` | realm/realm-swift | [open](records/databases-realm-realm-swift-da686512.md) |
 | `github_search_databases-6a1a22fa4f6a37` | NirDiamant/RAG_Techniques | [open](records/databases-nirdiamant-rag-techniques-836fe306.md) |
 | `github_search_databases-6a8369f5aff7e2` | drizzle-team/drizzle-orm | [open](records/databases-drizzle-team-drizzle-orm-70f57054.md) |
 | `github_search_databases-6ab2bae0df60dc` | PoloDB/PoloDB | [open](records/databases-polodb-polodb-e3557cfb.md) |
 | `github_search_databases-6ab826985a4956` | aio-libs/aioodbc | [open](records/databases-aio-libs-aioodbc-8b3e0b93.md) |
 | `github_search_databases-6b1811228d817a` | duckdb/duckdb | [open](records/databases-duckdb-duckdb-654530e3.md) |
+| `github_search_databases-6b2090c2bc4be2` | apache/spark-website | [open](records/databases-apache-spark-website-4546f531.md) |
 | `github_search_databases-6c298c308b3be1` | skaiworldwide-oss/agensgraph | [open](records/databases-skaiworldwide-oss-agensgraph-e4229279.md) |
 | `github_search_databases-6c2c35f6fa7395` | activeviam/atoti-notebooks | [open](records/databases-activeviam-atoti-notebooks-394712cb.md) |
 | `github_search_databases-6cae61838d1ce1` | cnosdb/cnosdb | [open](records/databases-cnosdb-cnosdb-5480514a.md) |
+| `github_search_databases-6ce1d397033a6c` | jeecgboot/MiniDao | [open](records/databases-jeecgboot-minidao-d7827e74.md) |
 | `github_search_databases-6ce5b0f899c43c` | supervc-stack/VectorChord | [open](records/databases-supervc-stack-vectorchord-d893b8c0.md) |
 | `github_search_databases-6cf8be11b0c2d0` | dynamodb-toolbox/dynamodb-toolbox | [open](records/databases-dynamodb-toolbox-dynamodb-toolbox-ae559802.md) |
 | `github_search_databases-6d3adad19d6996` | qdrant/qdrant | [open](records/databases-qdrant-qdrant-461c624b.md) |
 | `github_search_databases-6da69aba5d7187` | apache/datafusion-ballista | [open](records/databases-apache-datafusion-ballista-0541951e.md) |
 | `github_search_databases-6ded3253adf6b7` | dubinc/dub | [open](records/databases-dubinc-dub-fde61fc2.md) |
 | `github_search_databases-6e53c675dcc1bf` | altairbow/django-db-connection-pool | [open](records/databases-altairbow-django-db-connection-pool-7cfa1326.md) |
+| `github_search_databases-6eb69d4fb95d8b` | InsForge/InsForge | [open](records/databases-insforge-insforge-e3aaf1f0.md) |
 | `github_search_databases-6ff91b6477d88f` | schemacrawler/SchemaCrawler | [open](records/databases-schemacrawler-schemacrawler-9a9c89e5.md) |
 | `github_search_databases-7011f049242dfa` | boltdb/bolt | [open](records/databases-boltdb-bolt-1e1b16b8.md) |
 | `github_search_databases-701aa1f44ecae9` | radondb/radon | [open](records/databases-radondb-radon-6bb841bf.md) |
+| `github_search_databases-704d78496b3309` | ostafen/clover | [open](records/databases-ostafen-clover-2c48c6ed.md) |
 | `github_search_databases-70e0ce105eba55` | PostgREST/postgrest | [open](records/databases-postgrest-postgrest-a1bcbeac.md) |
 | `github_search_databases-70e14464ccc5b2` | giancarloerra/SocratiCode | [open](records/databases-giancarloerra-socraticode-bcc8ee56.md) |
+| `github_search_databases-71393b0ee9ae70` | k1LoW/tbls | [open](records/databases-k1low-tbls-c687317f.md) |
 | `github_search_databases-71c0617b9db1c9` | LeCoupa/awesome-cheatsheets | [open](records/databases-lecoupa-awesome-cheatsheets-7dac10f2.md) |
 | `github_search_databases-71f5aede7c0359` | dexie/Dexie.js | [open](records/databases-dexie-dexie-js-fd147e26.md) |
 | `github_search_databases-726c56e38474ef` | WenjieDu/TSDB | [open](records/databases-wenjiedu-tsdb-d91c6ab6.md) |
@@ -7781,16 +7864,22 @@
 | `github_search_databases-72ff92f79eda0e` | verygoodplugins/automem | [open](records/databases-verygoodplugins-automem-d7b17179.md) |
 | `github_search_databases-7327e7a4fd5c6f` | oracle/docker-images | [open](records/databases-oracle-docker-images-69ec5f43.md) |
 | `github_search_databases-738e2efa96af95` | prisma/orm | [open](records/databases-prisma-orm-d7875b44.md) |
+| `github_search_databases-73b5eed150623c` | NodeBB/NodeBB | [open](records/databases-nodebb-nodebb-19c32886.md) |
 | `github_search_databases-745174a9e9c06d` | neo4j/neo4j | [open](records/databases-neo4j-neo4j-1651d75a.md) |
+| `github_search_databases-74a4f0e11cb9e6` | borisdj/EFCore.BulkExtensions | [open](records/databases-borisdj-efcore-bulkextensions-221ede9a.md) |
+| `github_search_databases-7516744bd58f4d` | usememos/memos | [open](records/databases-usememos-memos-2e3fd386.md) |
 | `github_search_databases-752cf81683ce60` | etcd-io/etcd | [open](records/databases-etcd-io-etcd-25594f23.md) |
 | `github_search_databases-75ac936be8e9f6` | rqlite/rqlite | [open](records/databases-rqlite-rqlite-61a88f3e.md) |
 | `github_search_databases-76587224d91601` | Whoopsunix/JavaRce | [open](records/databases-whoopsunix-javarce-7faca6e0.md) |
+| `github_search_databases-7660084132b76b` | apache/wayang | [open](records/databases-apache-wayang-ca9006a3.md) |
 | `github_search_databases-76cbe87a02f5f7` | weavejester/ragtime | [open](records/databases-weavejester-ragtime-b149a386.md) |
 | `github_search_databases-76ec4d93b27010` | geek-fun/dockit | [open](records/databases-geek-fun-dockit-c1accc8d.md) |
 | `github_search_databases-77a0daa650fba8` | namidb/namidb | [open](records/databases-namidb-namidb-fb55fbd1.md) |
+| `github_search_databases-78519a930c9c20` | nalgeon/sqlean | [open](records/databases-nalgeon-sqlean-5df3cbd9.md) |
 | `github_search_databases-79ac034d2ef0b4` | ravendb/ravendb | [open](records/databases-ravendb-ravendb-ca22686a.md) |
 | `github_search_databases-7a9b6b352be3ee` | apache/lucene-solr | [open](records/databases-apache-lucene-solr-fb225570.md) |
 | `github_search_databases-7b3832fd8bf30d` | encoredev/encore | [open](records/databases-encoredev-encore-b1a45646.md) |
+| `github_search_databases-7b72d73026dad2` | builderz-labs/mission-control | [open](records/databases-builderz-labs-mission-control-fff15440.md) |
 | `github_search_databases-7b7428b61a1824` | nitrite/nitrite-java | [open](records/databases-nitrite-nitrite-java-5d05a2a7.md) |
 | `github_search_databases-7ba1b4850d938f` | aminueza/terraform-provider-minio | [open](records/databases-aminueza-terraform-provider-minio-a2f5a8be.md) |
 | `github_search_databases-7ba79c2d9cf1ed` | meilisearch/meilisearch | [open](records/databases-meilisearch-meilisearch-ed455824.md) |
@@ -7798,9 +7887,13 @@
 | `github_search_databases-7c228b36c9a8c4` | arnaudroger/SimpleFlatMapper | [open](records/databases-arnaudroger-simpleflatmapper-bed9a08c.md) |
 | `github_search_databases-7c30e54364a301` | orneryd/NornicDB | [open](records/databases-orneryd-nornicdb-5e8fdc92.md) |
 | `github_search_databases-7d42a6e951ccfc` | NeumTry/NeumAI | [open](records/databases-neumtry-neumai-6142b9fb.md) |
+| `github_search_databases-7d5af4477f254c` | vlcn-io/cr-sqlite | [open](records/databases-vlcn-io-cr-sqlite-548c9b6c.md) |
 | `github_search_databases-7d7cfe48608619` | directus/directus | [open](records/databases-directus-directus-1a9841eb.md) |
+| `github_search_databases-7daa2296318408` | graphile/crystal | [open](records/databases-graphile-crystal-b10ffa7b.md) |
 | `github_search_databases-7dd9d983321c3f` | macrozheng/mall-learning | [open](records/databases-macrozheng-mall-learning-d72360b9.md) |
+| `github_search_databases-7e287e21832d4b` | maybe-finance/maybe | [open](records/databases-maybe-finance-maybe-3b7832a7.md) |
 | `github_search_databases-7e3e7257309498` | spring-petclinic/spring-petclinic-rest | [open](records/databases-spring-petclinic-spring-petclinic-rest-f513982a.md) |
+| `github_search_databases-7f6816c4477c73` | turbot/steampipe | [open](records/databases-turbot-steampipe-8fdf53f2.md) |
 | `github_search_databases-7fbc4936986079` | minio/dsync | [open](records/databases-minio-dsync-d5937e8e.md) |
 | `github_search_databases-805c511f53ee86` | 4ra1n/mysql-fake-server | [open](records/databases-4ra1n-mysql-fake-server-c9a98cb5.md) |
 | `github_search_databases-809c6d7bfbf522` | jOOQ/jOOQ | [open](records/databases-jooq-jooq-5d0aabf0.md) |
@@ -7809,15 +7902,19 @@
 | `github_search_databases-82314ac36d3224` | tidwall/summitdb | [open](records/databases-tidwall-summitdb-13457d91.md) |
 | `github_search_databases-827af065e495a8` | ClaudioDrews/memory-os | [open](records/databases-claudiodrews-memory-os-37ef1a47.md) |
 | `github_search_databases-82ae3207e33e0d` | facebook/rocksdb | [open](records/databases-facebook-rocksdb-a5b51900.md) |
+| `github_search_databases-82f055993aa0c0` | marcosbarbero/spring-boot2-oauth2-jwt | [open](records/databases-marcosbarbero-spring-boot2-oauth2-jwt-545e1f79.md) |
 | `github_search_databases-82f6029217c3e4` | apache/pouchdb | [open](records/databases-apache-pouchdb-13275ac3.md) |
 | `github_search_databases-8387a6ef550db7` | judasn/Linux-Tutorial | [open](records/databases-judasn-linux-tutorial-c6cc6957.md) |
 | `github_search_databases-8414a3e027eae4` | aarondl/sqlboiler | [open](records/databases-aarondl-sqlboiler-02990502.md) |
 | `github_search_databases-844b79a4b39add` | pentaho/mondrian | [open](records/databases-pentaho-mondrian-2ee4c8b7.md) |
+| `github_search_databases-845f838bde09cd` | patroni/patroni | [open](records/databases-patroni-patroni-5638a23a.md) |
 | `github_search_databases-84872d56d322d3` | zycgit/hasor | [open](records/databases-zycgit-hasor-03670d93.md) |
 | `github_search_databases-84a436d5f5f3a2` | MariaDB/server | [open](records/databases-mariadb-server-574f45f3.md) |
+| `github_search_databases-84a5d40f500ba4` | suninformation/ymate-platform-v2 | [open](records/databases-suninformation-ymate-platform-v2-2a0f15f5.md) |
 | `github_search_databases-84c465713ba3df` | postgresml/postgresml | [open](records/databases-postgresml-postgresml-be8a439a.md) |
 | `github_search_databases-84d45b1b853ac6` | noobaa/noobaa-operator | [open](records/databases-noobaa-noobaa-operator-45b0f920.md) |
 | `github_search_databases-8517dca1db01e3` | mongodb/mongo-cxx-driver | [open](records/databases-mongodb-mongo-cxx-driver-457d57a9.md) |
+| `github_search_databases-85a74bbaf01a52` | windmill-labs/windmill | [open](records/databases-windmill-labs-windmill-9aeebfb2.md) |
 | `github_search_databases-8641f048d55792` | MyCATApache/Mycat2 | [open](records/databases-mycatapache-mycat2-7558f130.md) |
 | `github_search_databases-86771cb9bdd8e5` | weaviate/weaviate | [open](records/databases-weaviate-weaviate-956b3133.md) |
 | `github_search_databases-877cccc84a6da2` | bxcodec/go-clean-arch | [open](records/databases-bxcodec-go-clean-arch-3bdb1ed8.md) |
@@ -7828,11 +7925,16 @@
 | `github_search_databases-8959a663754788` | yinqiwen/ardb | [open](records/databases-yinqiwen-ardb-30a573ca.md) |
 | `github_search_databases-89ea3d3fc8efcf` | duckdb/duckdb-r | [open](records/databases-duckdb-duckdb-r-6dc81616.md) |
 | `github_search_databases-8b89843f59cda8` | dingodb/dingo | [open](records/databases-dingodb-dingo-78d057f3.md) |
+| `github_search_databases-8cb222a3fa6f18` | nocodb/nocodb | [open](records/databases-nocodb-nocodb-4fc74d77.md) |
+| `github_search_databases-8cecaae9654f0b` | harelba/q | [open](records/databases-harelba-q-2f23fb6c.md) |
+| `github_search_databases-8d4e7e94b30297` | go-xorm/xorm | [open](records/databases-go-xorm-xorm-28a3d567.md) |
 | `github_search_databases-8dde1b9f780f96` | spatie/laravel-schemaless-attributes | [open](records/databases-spatie-laravel-schemaless-attributes-b47e28be.md) |
 | `github_search_databases-8e066a279ed6b9` | milvus-io/pymilvus | [open](records/databases-milvus-io-pymilvus-f6a8adf0.md) |
 | `github_search_databases-8e4f67ae81c6cf` | x-ream/sqli | [open](records/databases-x-ream-sqli-bd8b199c.md) |
 | `github_search_databases-8ea77d137fd572` | strapi/strapi | [open](records/databases-strapi-strapi-16f55c01.md) |
 | `github_search_databases-8eda9f08a2d947` | ClickHouse/ClickHouse | [open](records/databases-clickhouse-clickhouse-9258f880.md) |
+| `github_search_databases-8ef239d400cdbe` | mevdschee/php-crud-api | [open](records/databases-mevdschee-php-crud-api-f8b4da35.md) |
+| `github_search_databases-8f3d1b515f5e02` | neo4j/neo4j-jdbc | [open](records/databases-neo4j-neo4j-jdbc-bb89a9b2.md) |
 | `github_search_databases-8f9c950e9b2a7a` | baomidou/mybatis-plus | [open](records/databases-baomidou-mybatis-plus-ec3d66b0.md) |
 | `github_search_databases-8fdedf98dac203` | debezium/debezium | [open](records/databases-debezium-debezium-a3d23ff7.md) |
 | `github_search_databases-9067a57703ba14` | realm/realm-java | [open](records/databases-realm-realm-java-af8bcf7b.md) |
@@ -7848,6 +7950,8 @@
 | `github_search_databases-94f90015f8f249` | philippgille/chromem-go | [open](records/databases-philippgille-chromem-go-fd3fa6e9.md) |
 | `github_search_databases-95281be0ae614a` | weaviate/recipes | [open](records/databases-weaviate-recipes-113b16c1.md) |
 | `github_search_databases-959ffdcf31d167` | Intrect-io/OpenSwarm | [open](records/databases-intrect-io-openswarm-59b98056.md) |
+| `github_search_databases-95dbef6df737cd` | microsoft/azuredatastudio | [open](records/databases-microsoft-azuredatastudio-3d2d90f6.md) |
+| `github_search_databases-9645bcc8c50592` | liyupi/ai-code-helper | [open](records/databases-liyupi-ai-code-helper-5bbf3afc.md) |
 | `github_search_databases-965203639f4fb9` | postgres-haskell/postgres-wire | [open](records/databases-postgres-haskell-postgres-wire-fb3eb66b.md) |
 | `github_search_databases-9681796475be3a` | apache/lucene | [open](records/databases-apache-lucene-85981dbd.md) |
 | `github_search_databases-969f8337d768fb` | durner/AnyBlob | [open](records/databases-durner-anyblob-c22692e6.md) |
@@ -7857,6 +7961,7 @@
 | `github_search_databases-97fa8a8c4e425c` | vespa-engine/vespa | [open](records/databases-vespa-engine-vespa-f6a2d921.md) |
 | `github_search_databases-980e5126b56f3d` | peremartra/Large-Language-Model-Notebooks-Course | [open](records/databases-peremartra-large-language-model-notebooks-course-ce2e9d7b.md) |
 | `github_search_databases-981d26f09986f3` | xerial/sqlite-jdbc | [open](records/databases-xerial-sqlite-jdbc-0e9f9048.md) |
+| `github_search_databases-9864a7922d1fe6` | HeidiSQL/HeidiSQL | [open](records/databases-heidisql-heidisql-4a1c094d.md) |
 | `github_search_databases-987ba59e48be6b` | doobidoo/mcp-memory-service | [open](records/databases-doobidoo-mcp-memory-service-1f3af65d.md) |
 | `github_search_databases-9959ae373e3f5c` | CaviraOSS/LongMemory | [open](records/databases-caviraoss-longmemory-7c32bdd6.md) |
 | `github_search_databases-9987ef22c0832f` | JetBrains/xodus | [open](records/databases-jetbrains-xodus-04be983b.md) |
@@ -7865,21 +7970,32 @@
 | `github_search_databases-9a83063c1900e9` | YunaiV/yudao-cloud | [open](records/databases-yunaiv-yudao-cloud-0d899449.md) |
 | `github_search_databases-9ab24c3a0061c4` | sql-js/sql.js | [open](records/databases-sql-js-sql-js-ab84d5fd.md) |
 | `github_search_databases-9ab9a6817d29ec` | mikro-orm/mikro-orm | [open](records/databases-mikro-orm-mikro-orm-988d6c85.md) |
+| `github_search_databases-9b356ee1b64abc` | coleifer/sqlite-web | [open](records/databases-coleifer-sqlite-web-559da57e.md) |
+| `github_search_databases-9b70af7ecf802d` | tursodatabase/agentfs | [open](records/databases-tursodatabase-agentfs-6fde2cd8.md) |
 | `github_search_databases-9b88278d77e5b0` | Basekick-Labs/arc | [open](records/databases-basekick-labs-arc-8d733223.md) |
 | `github_search_databases-9bc2282240d386` | DeanRoddey/CIDLib | [open](records/databases-deanroddey-cidlib-5c2bd133.md) |
+| `github_search_databases-9bce24f300594e` | animir/node-rate-limiter-flexible | [open](records/databases-animir-node-rate-limiter-flexible-a9ed5db6.md) |
 | `github_search_databases-9bfcfc0456e22e` | shunfei/indexr | [open](records/databases-shunfei-indexr-0f058165.md) |
 | `github_search_databases-9c8ce46958c5fb` | XiaoMi/soar | [open](records/databases-xiaomi-soar-8a9507ae.md) |
+| `github_search_databases-9d51dbd97db793` | snowflakedb/snowflake-jdbc | [open](records/databases-snowflakedb-snowflake-jdbc-81de35a1.md) |
+| `github_search_databases-9d89fa964970f2` | linq2db/linq2db | [open](records/databases-linq2db-linq2db-7aa962a2.md) |
+| `github_search_databases-9d955f458bc11c` | meme-search/meme-search | [open](records/databases-meme-search-meme-search-0448a67f.md) |
+| `github_search_databases-9e283a5a8e0a5f` | elie222/inbox-zero | [open](records/databases-elie222-inbox-zero-0c21fd63.md) |
 | `github_search_databases-9f0d5c187ce45b` | housepower/ClickHouse-Native-JDBC | [open](records/databases-housepower-clickhouse-native-jdbc-8cec0869.md) |
 | `github_search_databases-a0866d5cd16a99` | san089/Udacity-Data-Engineering-Projects | [open](records/databases-san089-udacity-data-engineering-projects-6731f6dc.md) |
 | `github_search_databases-a0b7dc6fef3080` | ArcadeData/arcadedb | [open](records/databases-arcadedata-arcadedb-23b789da.md) |
 | `github_search_databases-a13164d6b53587` | YunaiV/ruoyi-vue-pro | [open](records/databases-yunaiv-ruoyi-vue-pro-c0c9c631.md) |
+| `github_search_databases-a16d2fd2c5c8e6` | isaac-mcfadyen/d1-jdbc-driver | [open](records/databases-isaac-mcfadyen-d1-jdbc-driver-64e8443d.md) |
 | `github_search_databases-a184091d98993f` | NVIDIA/aistore | [open](records/databases-nvidia-aistore-c8de1037.md) |
 | `github_search_databases-a198ff849372ba` | Canner/wren-engine | [open](records/databases-canner-wren-engine-c4ceefe2.md) |
 | `github_search_databases-a1c5d9a8c6571c` | uroni/hs5 | [open](records/databases-uroni-hs5-f52001ae.md) |
 | `github_search_databases-a20a214ae27ba1` | alanchn31/Data-Engineering-Projects | [open](records/databases-alanchn31-data-engineering-projects-ec5e441e.md) |
+| `github_search_databases-a25a0bb7862479` | flike/kingshard | [open](records/databases-flike-kingshard-ba5b30d6.md) |
 | `github_search_databases-a2942fa6cbf71d` | authorizerdev/authorizer | [open](records/databases-authorizerdev-authorizer-2f7b65c9.md) |
 | `github_search_databases-a36ae79a38a5a1` | zilliztech/attu | [open](records/databases-zilliztech-attu-4bfbaaae.md) |
+| `github_search_databases-a3c4733ff04ef1` | groue/GRDB.swift | [open](records/databases-groue-grdb-swift-f7a16ae4.md) |
 | `github_search_databases-a439dea0b1884c` | cuebook/cuelake | [open](records/databases-cuebook-cuelake-b8200fda.md) |
+| `github_search_databases-a490ef3c3228bf` | yugabyte/yugabyte-db | [open](records/databases-yugabyte-yugabyte-db-d6efb9da.md) |
 | `github_search_databases-a4f1dc844f759a` | taosdata/TDengine | [open](records/databases-taosdata-tdengine-57f74fd3.md) |
 | `github_search_databases-a5066b82b7ea47` | apache/iotdb | [open](records/databases-apache-iotdb-b6bf919e.md) |
 | `github_search_databases-a5106f0b261fdf` | frugalos/frugalos | [open](records/databases-frugalos-frugalos-accf26da.md) |
@@ -7900,19 +8016,28 @@
 | `github_search_databases-aa4cdde0e2dbba` | macrozheng/mall-swarm | [open](records/databases-macrozheng-mall-swarm-d688b51a.md) |
 | `github_search_databases-aa6105cf57cf2f` | sogou/workflow | [open](records/databases-sogou-workflow-93ca580b.md) |
 | `github_search_databases-ab02469f0cdaa3` | StarRocks/starrocks | [open](records/databases-starrocks-starrocks-fa80e1a7.md) |
+| `github_search_databases-ab50f486013560` | Tencent/APIJSON | [open](records/databases-tencent-apijson-2d845d8e.md) |
 | `github_search_databases-abc378e45720f1` | citusdata/citus | [open](records/databases-citusdata-citus-5748489c.md) |
 | `github_search_databases-ac2c8f01f5e01f` | topoteretes/cognee | [open](records/databases-topoteretes-cognee-d13897a6.md) |
 | `github_search_databases-ac8f1e275900f9` | terminusdb/terminusdb | [open](records/databases-terminusdb-terminusdb-a8652993.md) |
 | `github_search_databases-adb1601d0d50ed` | chartdb/chartdb | [open](records/databases-chartdb-chartdb-227bd0d2.md) |
+| `github_search_databases-add97ad18c0912` | bookshelf/bookshelf | [open](records/databases-bookshelf-bookshelf-2132594f.md) |
 | `github_search_databases-adf7d0ad8b9707` | featureform/featureform | [open](records/databases-featureform-featureform-0152ab5b.md) |
 | `github_search_databases-ae3c11583778f4` | typelevel/doobie | [open](records/databases-typelevel-doobie-8033225a.md) |
+| `github_search_databases-afba2f6157c659` | Canner/WrenAI | [open](records/databases-canner-wrenai-40c4c978.md) |
 | `github_search_databases-afd78d800b5019` | parthsarthi03/raptor | [open](records/databases-parthsarthi03-raptor-aabfb858.md) |
+| `github_search_databases-b047466a11513f` | rusqlite/rusqlite | [open](records/databases-rusqlite-rusqlite-c1458fce.md) |
 | `github_search_databases-b06678c245692b` | confluentinc/examples | [open](records/databases-confluentinc-examples-3b680d5c.md) |
+| `github_search_databases-b09757b0569cd9` | benawad/dogehouse | [open](records/databases-benawad-dogehouse-d48f730a.md) |
 | `github_search_databases-b0ca40fadde5b6` | golang-design/tgstore | [open](records/databases-golang-design-tgstore-e2af52f4.md) |
 | `github_search_databases-b0ffff206671fc` | t8y2/dbx | [open](records/databases-t8y2-dbx-97368a4a.md) |
+| `github_search_databases-b10ea3ba05b4f3` | Ontos-AI/knowhere | [open](records/databases-ontos-ai-knowhere-6bb8c219.md) |
+| `github_search_databases-b1169a98075265` | superfly/litefs | [open](records/databases-superfly-litefs-923ba509.md) |
 | `github_search_databases-b139068c41bf35` | Seagate/cortx | [open](records/databases-seagate-cortx-6b044b79.md) |
+| `github_search_databases-b1ddcbb2c718fe` | infobip/infobip-spring-data-querydsl | [open](records/databases-infobip-infobip-spring-data-querydsl-01140cbb.md) |
 | `github_search_databases-b1e4116438f88d` | guang19/framework-learning | [open](records/databases-guang19-framework-learning-16651c7a.md) |
 | `github_search_databases-b265016bbb807c` | 0voice/interview_internal_reference | [open](records/databases-0voice-interview-internal-reference-f3eddea9.md) |
+| `github_search_databases-b30986d1c3a373` | DeusData/codebase-memory-mcp | [open](records/databases-deusdata-codebase-memory-mcp-15aca608.md) |
 | `github_search_databases-b41d89b5af0786` | forthespada/CS-Books | [open](records/databases-forthespada-cs-books-d0b6b9dd.md) |
 | `github_search_databases-b43187c27408c8` | influxdb-rs/influxdb-rust | [open](records/databases-influxdb-rs-influxdb-rust-13102dc6.md) |
 | `github_search_databases-b453bedbb7117a` | uber-go/dosa | [open](records/databases-uber-go-dosa-06a859e4.md) |
@@ -7926,16 +8051,25 @@
 | `github_search_databases-b5edcdfdf72e82` | datajoint/datajoint-python | [open](records/databases-datajoint-datajoint-python-fe901d32.md) |
 | `github_search_databases-b5fe9a6408d7b1` | NoKV-Lab/NoKV | [open](records/databases-nokv-lab-nokv-978f4506.md) |
 | `github_search_databases-b7c53e8fd74d78` | grandnode/grandnode | [open](records/databases-grandnode-grandnode-bb4d9898.md) |
+| `github_search_databases-b8ebdbe84b2ec9` | WGDashboard/WGDashboard | [open](records/databases-wgdashboard-wgdashboard-becf354c.md) |
+| `github_search_databases-b904b9fea37659` | stoyan-stoyanov/llmflows | [open](records/databases-stoyan-stoyanov-llmflows-ab94dc7c.md) |
+| `github_search_databases-b98f3eeaea0e20` | ty4z2008/Qix | [open](records/databases-ty4z2008-qix-50ded90a.md) |
 | `github_search_databases-ba3570033bb63c` | bytebase/bytebase | [open](records/databases-bytebase-bytebase-96236567.md) |
 | `github_search_databases-ba3ca55315c609` | gaarason/database-all | [open](records/databases-gaarason-database-all-d3d852e3.md) |
 | `github_search_databases-ba43fd69bc6fdb` | ClickHouse/clickhouse-java | [open](records/databases-clickhouse-clickhouse-java-55cf8dd6.md) |
 | `github_search_databases-bac4a2ab297483` | dromara/easy-query | [open](records/databases-dromara-easy-query-b3c029c2.md) |
+| `github_search_databases-badd7c5956e2c1` | gizmodata/gizmosql | [open](records/databases-gizmodata-gizmosql-5fb47832.md) |
 | `github_search_databases-bae78ed88b4131` | upper/db | [open](records/databases-upper-db-2a4c803a.md) |
+| `github_search_databases-bb0176a7ff1478` | miniflux/v2 | [open](records/databases-miniflux-v2-b1de0e9c.md) |
 | `github_search_databases-bc0287a90d54e7` | PrithivirajDamodaran/FlashRank | [open](records/databases-prithivirajdamodaran-flashrank-be447af3.md) |
+| `github_search_databases-bc577937961b52` | vladmihalcea/db-util | [open](records/databases-vladmihalcea-db-util-1a17f88b.md) |
+| `github_search_databases-bc5d886dacbfce` | tortoise/tortoise-orm | [open](records/databases-tortoise-tortoise-orm-fa2022e3.md) |
+| `github_search_databases-bc97929cb4dac4` | asg017/sqlite-vec | [open](records/databases-asg017-sqlite-vec-a5b9bdb7.md) |
 | `github_search_databases-bccfa519a25b3f` | dolthub/dolt | [open](records/databases-dolthub-dolt-702548e2.md) |
 | `github_search_databases-bced9ff6a81ca6` | jaygajera17/E-commerce-project-springBoot | [open](records/databases-jaygajera17-e-commerce-project-springboot-10bf555d.md) |
 | `github_search_databases-bcf91ed051c6c0` | tursodatabase/turso | [open](records/databases-tursodatabase-turso-bd117065.md) |
 | `github_search_databases-bd5a3d7d0230ea` | clockworklabs/SpacetimeDB | [open](records/databases-clockworklabs-spacetimedb-dd3f9779.md) |
+| `github_search_databases-bed61a00c2e6c3` | sqlchat/sqlchat | [open](records/databases-sqlchat-sqlchat-113bc49b.md) |
 | `github_search_databases-bf0bc09fc4692e` | stoneatom/stonedb | [open](records/databases-stoneatom-stonedb-45269310.md) |
 | `github_search_databases-bf819248551b50` | cockroachdb/cockroach | [open](records/databases-cockroachdb-cockroach-dfc5f249.md) |
 | `github_search_databases-bfea8bd504a326` | zilliztech/claude-context | [open](records/databases-zilliztech-claude-context-88bc01d9.md) |
@@ -7944,6 +8078,7 @@
 | `github_search_databases-c1156d0d45059d` | jiangwenyuan/nuster | [open](records/databases-jiangwenyuan-nuster-17a1b344.md) |
 | `github_search_databases-c13ebae15e6425` | pinecone-io/examples | [open](records/databases-pinecone-io-examples-cbf4eb97.md) |
 | `github_search_databases-c227ad86604b4d` | Vonng/ddia | [open](records/databases-vonng-ddia-08c2e7f3.md) |
+| `github_search_databases-c2688513ad0d03` | Snouzy/workout-cool | [open](records/databases-snouzy-workout-cool-003448e6.md) |
 | `github_search_databases-c27a01093683ab` | skytable/skytable | [open](records/databases-skytable-skytable-522468ff.md) |
 | `github_search_databases-c2872512f3a4e5` | vectorengine/vectorsql | [open](records/databases-vectorengine-vectorsql-c029f35d.md) |
 | `github_search_databases-c28940d75ddff0` | kossakovsky/selfhost-ai | [open](records/databases-kossakovsky-selfhost-ai-b4f9a555.md) |
@@ -7951,10 +8086,12 @@
 | `github_search_databases-c326ac7fa18c36` | pacman82/odbc2parquet | [open](records/databases-pacman82-odbc2parquet-98e72b2f.md) |
 | `github_search_databases-c3b43a208649e7` | tomekw/hikari-cp | [open](records/databases-tomekw-hikari-cp-2e63717e.md) |
 | `github_search_databases-c5351f69459145` | sqlitebrowser/sqlitebrowser | [open](records/databases-sqlitebrowser-sqlitebrowser-30722f99.md) |
+| `github_search_databases-c6a4cd5986470b` | donnemartin/dev-setup | [open](records/databases-donnemartin-dev-setup-b0548ea3.md) |
 | `github_search_databases-c6bd587ca32422` | apache/kyuubi | [open](records/databases-apache-kyuubi-29762e0a.md) |
 | `github_search_databases-c7a9fb343d5538` | dicedb/dicedb | [open](records/databases-dicedb-dicedb-ba1cb8a6.md) |
 | `github_search_databases-c7e5d731baf00d` | art049/odmantic | [open](records/databases-art049-odmantic-81efbc63.md) |
 | `github_search_databases-c8648ad5048739` | lealone-plugins/QinSQL | [open](records/databases-lealone-plugins-qinsql-4fbdbb2c.md) |
+| `github_search_databases-c96582868e65dd` | soumyadip007/E-Medical-System-Web-Project-Using-Spring-Boot-Security-JPA-Rest-Thymeleaf-HQL | [open](records/databases-soumyadip007-e-medical-system-web-project-using-spring-boot-security-jpa-rest-thymeleaf-hql-d7409ecf.md) |
 | `github_search_databases-cab8d5084b91e9` | matomo-org/matomo | [open](records/databases-matomo-org-matomo-801b0e3d.md) |
 | `github_search_databases-cac62aa130f08e` | strapdata/elassandra | [open](records/databases-strapdata-elassandra-2ff59de9.md) |
 | `github_search_databases-cae436ec9b80c2` | rgcsekaraa/brows3 | [open](records/databases-rgcsekaraa-brows3-6d622d3b.md) |
@@ -7964,23 +8101,32 @@
 | `github_search_databases-cc300b465a4687` | itwanger/toBeBetterJavaer | [open](records/databases-itwanger-tobebetterjavaer-be3c87d7.md) |
 | `github_search_databases-cc31678649875a` | SkywalkerDarren/chatWeb | [open](records/databases-skywalkerdarren-chatweb-13dcdc64.md) |
 | `github_search_databases-cc462381d08451` | vapor/fluent | [open](records/databases-vapor-fluent-198357ea.md) |
+| `github_search_databases-cc722c6e2b718a` | zio/zio-protoquill | [open](records/databases-zio-zio-protoquill-4215be35.md) |
 | `github_search_databases-ccd25d269ec1d9` | citrusvanilla/tinyflux | [open](records/databases-citrusvanilla-tinyflux-4a861312.md) |
+| `github_search_databases-ccf43c173691a6` | fastapi/full-stack-fastapi-template | [open](records/databases-fastapi-full-stack-fastapi-template-ee26fae0.md) |
 | `github_search_databases-cd56219238813b` | Snailclimb/JavaGuide | [open](records/databases-snailclimb-javaguide-e7b49521.md) |
 | `github_search_databases-cd9aa6c1a4e5c5` | msiemens/tinydb | [open](records/databases-msiemens-tinydb-137ac34b.md) |
 | `github_search_databases-cdb6219d3746a3` | pchunduri6/rag-demystified | [open](records/databases-pchunduri6-rag-demystified-4f769fe6.md) |
+| `github_search_databases-ceafe5639f56ec` | j256/ormlite-jdbc | [open](records/databases-j256-ormlite-jdbc-ddc1b5b2.md) |
+| `github_search_databases-cf24b203fb313f` | paypal/gimel | [open](records/databases-paypal-gimel-dac7e5cd.md) |
 | `github_search_databases-cf3da536b37814` | rustfs/rustfs | [open](records/databases-rustfs-rustfs-ac58a257.md) |
 | `github_search_databases-cf94276d6e6b5e` | RediSearch/RediSearch | [open](records/databases-redisearch-redisearch-a6984a5f.md) |
 | `github_search_databases-cfbebc1259b3d6` | github/gh-ost | [open](records/databases-github-gh-ost-04608a64.md) |
+| `github_search_databases-d04b109c02f21e` | fast-sql/FastSQL | [open](records/databases-fast-sql-fastsql-3887013b.md) |
 | `github_search_databases-d1ba0532744186` | arangodb/arangodb | [open](records/databases-arangodb-arangodb-c8c240b5.md) |
 | `github_search_databases-d263fda6cb8865` | apache/doris | [open](records/databases-apache-doris-48052ae4.md) |
+| `github_search_databases-d264330ec96782` | coleifer/peewee | [open](records/databases-coleifer-peewee-9932d819.md) |
 | `github_search_databases-d288cdd7a88ded` | GreptimeTeam/greptimedb | [open](records/databases-greptimeteam-greptimedb-0f875ab8.md) |
 | `github_search_databases-d29f7de370601b` | jklingsporn/vertx-jooq | [open](records/databases-jklingsporn-vertx-jooq-46b3e423.md) |
 | `github_search_databases-d2f5a36c03c2d4` | IBM/jupyterlab-s3-browser | [open](records/databases-ibm-jupyterlab-s3-browser-4091fb01.md) |
 | `github_search_databases-d3b6fc1a69f2b7` | dbcli/pgcli | [open](records/databases-dbcli-pgcli-df04d56c.md) |
+| `github_search_databases-d3c1632d97d0cb` | noodle-run/noodle | [open](records/databases-noodle-run-noodle-e7620669.md) |
 | `github_search_databases-d48ed7b461f424` | endee-io/endee | [open](records/databases-endee-io-endee-1dce9830.md) |
+| `github_search_databases-d4cfc3d0510b26` | Impetus/kundera | [open](records/databases-impetus-kundera-f33f29b4.md) |
 | `github_search_databases-d4d20c47578ba8` | Pometry/Raphtory | [open](records/databases-pometry-raphtory-3352e434.md) |
 | `github_search_databases-d5ada230a7c6ce` | CoderLeixiaoshuai/java-eight-part | [open](records/databases-coderleixiaoshuai-java-eight-part-dc6407d7.md) |
 | `github_search_databases-d68781c3e33e01` | domaframework/doma | [open](records/databases-domaframework-doma-188a30ea.md) |
+| `github_search_databases-d6aa46a8f772b4` | elastic/mcp-server-elasticsearch | [open](records/databases-elastic-mcp-server-elasticsearch-90105b14.md) |
 | `github_search_databases-d7769148aee51b` | Yin-Hongwei/music-website | [open](records/databases-yin-hongwei-music-website-637432ab.md) |
 | `github_search_databases-d8320fc71f3d14` | symisc/unqlite | [open](records/databases-symisc-unqlite-1ec3a767.md) |
 | `github_search_databases-d87bea568bc138` | treeverse/lakeFS | [open](records/databases-treeverse-lakefs-f069dae0.md) |
@@ -7990,8 +8136,11 @@
 | `github_search_databases-dafdc74080fdc1` | valkey-io/valkey | [open](records/databases-valkey-io-valkey-076b87d0.md) |
 | `github_search_databases-db0ea4d72757e9` | nakabonne/tstorage | [open](records/databases-nakabonne-tstorage-e454c9f0.md) |
 | `github_search_databases-db120c85c7a85c` | zilliztech/deep-searcher | [open](records/databases-zilliztech-deep-searcher-901b7398.md) |
+| `github_search_databases-db7baf525b779b` | samuelclay/NewsBlur | [open](records/databases-samuelclay-newsblur-94b97b4e.md) |
+| `github_search_databases-db7efc9ed8eb0b` | frectonz/sql-studio | [open](records/databases-frectonz-sql-studio-0812f2ca.md) |
 | `github_search_databases-dbf7c63cdc1d4b` | nauu/clickhousebook | [open](records/databases-nauu-clickhousebook-52bba460.md) |
 | `github_search_databases-dd021004791f2c` | rupurt/odbc-scanner-duckdb-extension | [open](records/databases-rupurt-odbc-scanner-duckdb-extension-71eefae9.md) |
+| `github_search_databases-dd0d3a5123691c` | outerbase/studio | [open](records/databases-outerbase-studio-5d199295.md) |
 | `github_search_databases-dd559dfedeea88` | deuxfleurs-org/garage | [open](records/databases-deuxfleurs-org-garage-0a48bdf5.md) |
 | `github_search_databases-dd72b356437c97` | digoal/blog | [open](records/databases-digoal-blog-7cde1486.md) |
 | `github_search_databases-dd7491905f6520` | griddb/griddb | [open](records/databases-griddb-griddb-b48b6432.md) |
@@ -8001,25 +8150,37 @@
 | `github_search_databases-df70430da19ca4` | r-dbi/odbc | [open](records/databases-r-dbi-odbc-5581dcde.md) |
 | `github_search_databases-df75046b407511` | netrusov/ZabbixDBA | [open](records/databases-netrusov-zabbixdba-28ea349f.md) |
 | `github_search_databases-dfb130acbb1291` | jupyter-xeus/xeus-sql | [open](records/databases-jupyter-xeus-xeus-sql-561f1402.md) |
+| `github_search_databases-dfbb4ccd0491e9` | Bessouat40/RAGLight | [open](records/databases-bessouat40-raglight-8ffd38ed.md) |
+| `github_search_databases-dfdec990274ef1` | MaxFreedomPollard/Compartment | [open](records/databases-maxfreedompollard-compartment-660e32c1.md) |
 | `github_search_databases-e0da42cd687235` | marsupilami79/zeoslib | [open](records/databases-marsupilami79-zeoslib-f93693d1.md) |
+| `github_search_databases-e12c6960023aca` | dtm-labs/dtm | [open](records/databases-dtm-labs-dtm-670d5a62.md) |
+| `github_search_databases-e152edfc6d30e3` | jina-ai/vectordb | [open](records/databases-jina-ai-vectordb-71c82405.md) |
 | `github_search_databases-e183b9e9ae6353` | davidmoten/rxjava2-jdbc | [open](records/databases-davidmoten-rxjava2-jdbc-7f82410a.md) |
 | `github_search_databases-e1918c53aae8c3` | spring-projects/spring-data-relational | [open](records/databases-spring-projects-spring-data-relational-4dc71488.md) |
 | `github_search_databases-e1fe32ebf13599` | gavlyukovskiy/spring-boot-data-source-decorator | [open](records/databases-gavlyukovskiy-spring-boot-data-source-decorator-1e09a225.md) |
 | `github_search_databases-e2be7ff9c1d2bc` | activeloopai/deeplake | [open](records/databases-activeloopai-deeplake-8b22558d.md) |
 | `github_search_databases-e31e1533ea407c` | Azure/usql | [open](records/databases-azure-usql-17aa51e9.md) |
 | `github_search_databases-e366cf16f7fc10` | Just-Moh-it/Mockoops | [open](records/databases-just-moh-it-mockoops-8a05ff8f.md) |
+| `github_search_databases-e38c138267dd16` | mattn/go-sqlite3 | [open](records/databases-mattn-go-sqlite3-4694d79e.md) |
 | `github_search_databases-e392945e56f0ba` | OpenAtomFoundation/pikiwidb | [open](records/databases-openatomfoundation-pikiwidb-007b1f05.md) |
+| `github_search_databases-e3958cfc0d335f` | TableProApp/TablePro | [open](records/databases-tableproapp-tablepro-d427a820.md) |
 | `github_search_databases-e45e75a56546f0` | EMCECS/ECS-CommunityEdition | [open](records/databases-emcecs-ecs-communityedition-bb7df53f.md) |
 | `github_search_databases-e4bf61da77f200` | paradedb/pg_analytics | [open](records/databases-paradedb-pg-analytics-ff29ad8d.md) |
+| `github_search_databases-e4f0ea86abbcac` | drawdb-io/drawdb | [open](records/databases-drawdb-io-drawdb-5d664554.md) |
 | `github_search_databases-e50252ff292eca` | helyim/helyim | [open](records/databases-helyim-helyim-ea9b0c61.md) |
 | `github_search_databases-e52eabb456df4f` | kagkarlsson/db-scheduler | [open](records/databases-kagkarlsson-db-scheduler-284f153e.md) |
+| `github_search_databases-e55ab54813bde7` | FuzzyGrim/Yamtrack | [open](records/databases-fuzzygrim-yamtrack-fe5f94fb.md) |
 | `github_search_databases-e5888177abdbbf` | AobingJava/JavaFamily | [open](records/databases-aobingjava-javafamily-abe93408.md) |
 | `github_search_databases-e5be0a54c9706c` | airbytehq/airbyte | [open](records/databases-airbytehq-airbyte-c3bd56b6.md) |
+| `github_search_databases-e61565024097db` | nraiden/cofounder | [open](records/databases-nraiden-cofounder-6327561e.md) |
 | `github_search_databases-e629c722f3db70` | ByConity/ByConity | [open](records/databases-byconity-byconity-c80e34b8.md) |
 | `github_search_databases-e6f1c9118ae022` | cooperl22/laravel-db2 | [open](records/databases-cooperl22-laravel-db2-7e6a4b52.md) |
+| `github_search_databases-e71208de11fac1` | mergestat/mergestat-lite | [open](records/databases-mergestat-mergestat-lite-67a00eb8.md) |
+| `github_search_databases-e75a69eb8a6dcb` | tatut/specql | [open](records/databases-tatut-specql-c2efa1a7.md) |
 | `github_search_databases-e77f773b1dbb49` | couchbase/couchbase-lite-ios | [open](records/databases-couchbase-couchbase-lite-ios-6c0953f5.md) |
 | `github_search_databases-e79eaa280ea2d9` | dunwu/db-tutorial | [open](records/databases-dunwu-db-tutorial-30877982.md) |
 | `github_search_databases-e7a62e44d50fbb` | mdbtools/mdbtools | [open](records/databases-mdbtools-mdbtools-ad4c57b6.md) |
+| `github_search_databases-e7a9567b3eef7e` | kostafey/ejc-sql | [open](records/databases-kostafey-ejc-sql-c8c72200.md) |
 | `github_search_databases-e7ffdfe4734b38` | geldata/gel-python | [open](records/databases-geldata-gel-python-70c815ca.md) |
 | `github_search_databases-e82e8b7af406a4` | TPC-Council/HammerDB | [open](records/databases-tpc-council-hammerdb-c5ba1436.md) |
 | `github_search_databases-e8517cfc3c9a9c` | achtungsoftware/alarik | [open](records/databases-achtungsoftware-alarik-1fd71dd7.md) |
@@ -8029,6 +8190,7 @@
 | `github_search_databases-ea3cdf1a2cdf41` | CodingDocs/awesome-java | [open](records/databases-codingdocs-awesome-java-f7da703d.md) |
 | `github_search_databases-ea43e520eedd47` | awslabs/mountpoint-s3 | [open](records/databases-awslabs-mountpoint-s3-3f10c09d.md) |
 | `github_search_databases-ea4e50a952f83b` | transact-rs/sqlx | [open](records/databases-transact-rs-sqlx-1d6f9b53.md) |
+| `github_search_databases-eac728ff6aa29d` | timveil/hive-jdbc-uber-jar | [open](records/databases-timveil-hive-jdbc-uber-jar-3a65567d.md) |
 | `github_search_databases-eae111b402103c` | abhay-ramesh/pushduck | [open](records/databases-abhay-ramesh-pushduck-a045aead.md) |
 | `github_search_databases-eb02e58c4e7101` | beekeeper-studio/beekeeper-studio | [open](records/databases-beekeeper-studio-beekeeper-studio-a999ac61.md) |
 | `github_search_databases-eb11216c1a0c3a` | ClickHouse/ClickBench | [open](records/databases-clickhouse-clickbench-3cbfaabf.md) |
@@ -8042,19 +8204,26 @@
 | `github_search_databases-edd18f39dcd1d3` | googleapis/mcp-toolbox | [open](records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
 | `github_search_databases-ee656a4dad4b57` | twitter/finagle | [open](records/databases-twitter-finagle-f47280d0.md) |
 | `github_search_databases-ee7af8a15e11c2` | ebogdum/callfs | [open](records/databases-ebogdum-callfs-c43437b9.md) |
+| `github_search_databases-ef1768c09723ec` | colanode/colanode | [open](records/databases-colanode-colanode-9f0d7dc3.md) |
 | `github_search_databases-ef7a04c9ede5ff` | neuron-core/neuron-ai | [open](records/databases-neuron-core-neuron-ai-5499172a.md) |
 | `github_search_databases-f05dd34609c83a` | torodb/stampede | [open](records/databases-torodb-stampede-a9676e19.md) |
 | `github_search_databases-f0bb295bbd0f33` | apache/zookeeper | [open](records/databases-apache-zookeeper-3f9970e6.md) |
+| `github_search_databases-f0e4aca4ef29db` | stephencelis/SQLite.swift | [open](records/databases-stephencelis-sqlite-swift-bbd3d88a.md) |
 | `github_search_databases-f0ef1d3a4de08e` | manticoresoftware/manticoresearch | [open](records/databases-manticoresoftware-manticoresearch-bdec8759.md) |
 | `github_search_databases-f0f09d20840c9f` | alash3al/redix | [open](records/databases-alash3al-redix-0b1086db.md) |
 | `github_search_databases-f0f84ac9530e71` | impossibl/pgjdbc-ng | [open](records/databases-impossibl-pgjdbc-ng-63791c56.md) |
+| `github_search_databases-f14f144da06702` | jeesun/oauthserver | [open](records/databases-jeesun-oauthserver-614193dd.md) |
 | `github_search_databases-f161eff18e305c` | ibis-project/ibis | [open](records/databases-ibis-project-ibis-5585ff7c.md) |
 | `github_search_databases-f16d331b79086f` | liyupi/yu-ai-agent | [open](records/databases-liyupi-yu-ai-agent-5d53c5e5.md) |
+| `github_search_databases-f2a8fe9dda68c3` | risingwavelabs/risingwave | [open](records/databases-risingwavelabs-risingwave-fc224eaa.md) |
 | `github_search_databases-f2ae3710c28693` | zuoyebang/bitalostored | [open](records/databases-zuoyebang-bitalostored-c95c33a2.md) |
 | `github_search_databases-f395aaf6482bce` | dhamaniasad/awesome-postgres | [open](records/databases-dhamaniasad-awesome-postgres-fe1c0890.md) |
+| `github_search_databases-f39bb7f9d3d30b` | Maxteabag/sqlit | [open](records/databases-maxteabag-sqlit-20f35e8c.md) |
+| `github_search_databases-f39dc6150ad13a` | benbjohnson/litestream | [open](records/databases-benbjohnson-litestream-d7da8b84.md) |
 | `github_search_databases-f3a1bba8c91ec4` | gitsocial-org/gitsocial | [open](records/databases-gitsocial-org-gitsocial-480c5b72.md) |
 | `github_search_databases-f41342c0346c8c` | StarlightSearch/EmbedAnything | [open](records/databases-starlightsearch-embedanything-c6c25210.md) |
 | `github_search_databases-f43d6e8b9922fc` | mosuka/phalanx | [open](records/databases-mosuka-phalanx-0c5d2079.md) |
+| `github_search_databases-f4f718f3176366` | qala-io/java-course | [open](records/databases-qala-io-java-course-54153d86.md) |
 | `github_search_databases-f5452770a3637c` | thingsboard/thingsboard-gateway | [open](records/databases-thingsboard-thingsboard-gateway-aa05e06b.md) |
 | `github_search_databases-f591701e6326f9` | ianmcook/implyr | [open](records/databases-ianmcook-implyr-ee4f59c4.md) |
 | `github_search_databases-f69ebc06745900` | hollischuang/toBeTopJavaer | [open](records/databases-hollischuang-tobetopjavaer-5643e8c0.md) |
@@ -8068,6 +8237,7 @@
 | `github_search_databases-f8121cd67b8004` | HariSekhon/DevOps-Bash-tools | [open](records/databases-harisekhon-devops-bash-tools-bd29d37f.md) |
 | `github_search_databases-f8efe94d01c324` | apecloud/myduckserver | [open](records/databases-apecloud-myduckserver-58eb334b.md) |
 | `github_search_databases-f8fadb0b10bdfc` | Asabeneh/30-Days-Of-Python | [open](records/databases-asabeneh-30-days-of-python-d36bd185.md) |
+| `github_search_databases-f9190f87709ba8` | WiseLibs/better-sqlite3 | [open](records/databases-wiselibs-better-sqlite3-542212cd.md) |
 | `github_search_databases-f9269a76b2b3a0` | vrana/adminer | [open](records/databases-vrana-adminer-61729166.md) |
 | `github_search_databases-f95c65158b2555` | anthonybudd/S4 | [open](records/databases-anthonybudd-s4-cbdae55c.md) |
 | `github_search_databases-f9adcfce4e81c4` | doctrine/dbal | [open](records/databases-doctrine-dbal-55d5a11f.md) |
@@ -8079,6 +8249,8 @@
 | `github_search_databases-fa8d2555a21739` | NirDiamant/Agent_Memory_Techniques | [open](records/databases-nirdiamant-agent-memory-techniques-b838c024.md) |
 | `github_search_databases-fb012a21b996d3` | apache/cassandra-gocql-driver | [open](records/databases-apache-cassandra-gocql-driver-13378c84.md) |
 | `github_search_databases-fb3b43af69813a` | apache/cloudberry | [open](records/databases-apache-cloudberry-5e9a8481.md) |
+| `github_search_databases-fb3d3dae6627ea` | catfan/Medoo | [open](records/databases-catfan-medoo-6f0bf005.md) |
+| `github_search_databases-fb3d932907624d` | uptrace/bun | [open](records/databases-uptrace-bun-d7ce71ee.md) |
 | `github_search_databases-fcb7a905d5dc7b` | souvikmajumder26/Multi-Agent-Medical-Assistant | [open](records/databases-souvikmajumder26-multi-agent-medical-assistant-5689059d.md) |
 | `github_search_databases-fccfb04039b226` | get-convex/convex-backend | [open](records/databases-get-convex-convex-backend-114706b7.md) |
 | `github_search_databases-fcf065f3dd984a` | tursodatabase/libsql | [open](records/databases-tursodatabase-libsql-7be947ec.md) |
@@ -23861,6 +24033,7 @@
 | `npm_registry-5d358c8d148f23` | @netlify/functions-utils | [open](records/node-js-javascript-netlify-functions-utils-8bd712e4.md) |
 | `npm_registry-5d3a7fffa1b90d` | elegant-spinner | [open](records/node-js-javascript-elegant-spinner-3fa34214.md) |
 | `npm_registry-5d4c0e90401eb3` | alive-server | [open](records/node-js-javascript-alive-server-096c66be.md) |
+| `npm_registry-5d629f8b4102d2` | @types/yauzl | [open](records/node-js-typescript-types-yauzl-42f1c613.md) |
 | `npm_registry-5d6eb2fb202eae` | oclif | [open](records/node-js-javascript-oclif-1e846831.md) |
 | `npm_registry-5dbad7d8d40ce9` | @digital8/security-registers-backend-ts-sdk | [open](records/node-js-javascript-digital8-security-registers-backend-ts-sdk-633039f3.md) |
 | `npm_registry-5dbd51f9e68913` | @dodobrands/frontlogger | [open](records/node-js-javascript-dodobrands-frontlogger-ab1b835f.md) |
@@ -24987,6 +25160,7 @@
 | `npm_registry-c69b24909c0c39` | @hapi/boom | [open](records/node-js-javascript-hapi-boom-34f8a4e2.md) |
 | `npm_registry-c6aa6032d3036f` | remark-cli | [open](records/node-js-javascript-remark-cli-42e41c55.md) |
 | `npm_registry-c6c13083308c7f` | prettier-plugin-tailwindcss | [open](records/node-js-javascript-prettier-plugin-tailwindcss-5a91055b.md) |
+| `npm_registry-c6d55be19a2dee` | @dazl/testing | [open](records/node-js-javascript-dazl-testing-a3786534.md) |
 | `npm_registry-c6e4bb35b60eac` | eslint-plugin-diff | [open](records/node-js-javascript-eslint-plugin-diff-4a036589.md) |
 | `npm_registry-c70669156f84f7` | @launchdarkly/openfeature-js-server-common | [open](records/node-js-javascript-launchdarkly-openfeature-js-server-common-d3184ea6.md) |
 | `npm_registry-c71361e35f9dca` | eslint-plugin-typescript-enum | [open](records/node-js-typescript-eslint-plugin-typescript-enum-cbae47ec.md) |
@@ -25459,6 +25633,7 @@
 | `npm_registry-f7c4ac9fd78a59` | @logtail/browser | [open](records/node-js-javascript-logtail-browser-7c05d370.md) |
 | `npm_registry-f7e2505d95013f` | sirv-cli | [open](records/node-js-javascript-sirv-cli-9894321a.md) |
 | `npm_registry-f7ebf07e81a4a5` | @discord/intl-message-database-linux-x64-gnu | [open](records/node-js-javascript-discord-intl-message-database-linux-x64-gnu-2eb201f1.md) |
+| `npm_registry-f810e0fb288ffe` | vite-plugin-fake-server | [open](records/node-js-javascript-vite-plugin-fake-server-19c103bb.md) |
 | `npm_registry-f8205218d88cfc` | solium-plugin-security | [open](records/node-js-javascript-solium-plugin-security-74919c7e.md) |
 | `npm_registry-f83604a9a594f9` | @types/hast | [open](records/node-js-typescript-types-hast-6bca9da8.md) |
 | `npm_registry-f89382061ddded` | @typescript/typescript-sunos-x64 | [open](records/node-js-typescript-typescript-typescript-sunos-x64-187e522b.md) |

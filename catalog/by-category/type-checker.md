@@ -1,6 +1,6 @@
 # Type Checker
 
-Records: `313`
+Records: `314`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `313`
 
 ## Category Index
 
-[Api Abi Checker (222)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (200)](benchmarking.md) · [Build System (995)](build-system.md) · [Cli (568)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (222)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (999)](build-system.md) · [Cli (570)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
 [Concurrency Parallelism (93)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (901)](database-datastore.md) · [Datetime (234)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (103)](dependency-manager.md) · [Documentation (107)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1613)](filesystem-os.md) · [Formatter (649)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (357)](game-engine-game-dev.md) · [Ide Editor Integration (1465)](ide-editor-integration.md)
-[Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1442)](language-specification.md) · [Library (5742)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (797)](machine-learning.md)
-[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1042)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1197)](parser-lexer-ast.md) · [Precommit Ci Quality (309)](precommit-ci-quality.md)
-[Profiler (87)](profiler.md) · [Project Scaffolding (134)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (629)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (610)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · **[Type Checker (313)](type-checker.md)**
-[Undefined Behavior Analyzer (1619)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (560)](visualization-gui.md) · [Web Framework (478)](web-framework.md)
+[Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (969)](database-datastore.md) · [Datetime (234)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (104)](dependency-manager.md) · [Documentation (109)](documentation.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (462)](ffi-bindings.md) · [Filesystem Os (1614)](filesystem-os.md) · [Formatter (651)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1473)](ide-editor-integration.md)
+[Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (274)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
+[Language Server (30)](language-server.md) · [Language Specification (1448)](language-specification.md) · [Library (5750)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (799)](machine-learning.md)
+[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (98)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1052)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1205)](parser-lexer-ast.md) · [Precommit Ci Quality (310)](precommit-ci-quality.md)
+[Profiler (89)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (631)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (617)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · **[Type Checker (314)](type-checker.md)**
+[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (487)](web-framework.md)
 
 ## Python
 
@@ -174,6 +174,7 @@ Records: `313`
 | @types/unist | 3.0.3 | 2024-08-15T02:19:16.553Z | [open](../records/node-js-typescript-types-unist-81182905.md) |
 | @types/ws | 8.18.1 | 2025-04-01T02:59:54.693Z | [open](../records/node-js-typescript-types-ws-60eaf93e.md) |
 | @types/yargs | 17.0.35 | 2025-11-14T18:04:34.717Z | [open](../records/node-js-typescript-types-yargs-a57a2ee7.md) |
+| @types/yauzl | 3.4.0 | 2026-06-13T17:37:45.293Z | [open](../records/node-js-typescript-types-yauzl-42f1c613.md) |
 | @typescript/vfs | 1.6.4 | 2026-02-18T04:54:27.158Z | [open](../records/node-js-typescript-typescript-vfs-4c81cc97.md) |
 | @vue/cli-plugin-typescript | 5.0.9 | 2025-08-21T10:57:04.477Z | [open](../records/node-js-typescript-vue-cli-plugin-typescript-87976269.md) |
 | abitype | 1.3.0 | 2026-07-16T18:33:29.616Z | [open](../records/node-js-typescript-abitype-36896554.md) |
@@ -244,7 +245,7 @@ Records: `313`
 | ts-pnp | 1.2.0 | 2020-03-26T17:46:02.172Z | [open](../records/node-js-typescript-ts-pnp-2b5ce55c.md) |
 | type-fest | 5.9.0 | 2026-08-30T23:58:44.656Z | [open](../records/node-js-typescript-type-fest-05e5048b.md) |
 | type-testing | 0.2.0 | 2023-10-30T19:38:39.979Z | [open](../records/node-js-typescript-type-testing-4fa65126.md) |
-| typed-rest-client | 3.1.0 | 2026-08-13T13:22:28.201Z | [open](../records/node-js-typescript-typed-rest-client-f0090a5f.md) |
+| typed-rest-client | 3.1.1 | 2026-09-08T10:42:04.063Z | [open](../records/node-js-typescript-typed-rest-client-f0090a5f.md) |
 | typedoc | 0.28.20 | 2026-07-05T22:54:07.305Z | [open](../records/node-js-typescript-typedoc-e6a8fad4.md) |
 | typescript-cacheable | 3.0.3 | 2022-04-04T01:48:52.953Z | [open](../records/node-js-typescript-typescript-cacheable-74b82053.md) |
 | typescript-collections | 1.3.3 | 2019-11-04T12:55:33.130Z | [open](../records/node-js-typescript-typescript-collections-736f064a.md) |
@@ -312,7 +313,7 @@ Records: `313`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-08T11:17:24Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | partial | 2026-09-08T12:28:04Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Computer Graphics Software
 
@@ -497,9 +498,9 @@ Records: `313`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mikro-orm/mikro-orm | partial | 2026-09-03T07:14:15Z | [open](../records/databases-mikro-orm-mikro-orm-988d6c85.md) |
+| mikro-orm/mikro-orm | partial | 2026-09-08T11:30:19Z | [open](../records/databases-mikro-orm-mikro-orm-988d6c85.md) |
 | prisma/orm | partial | 2026-09-08T09:53:59Z | [open](../records/databases-prisma-orm-d7875b44.md) |
 | rehacktive/caffeine | partial | 2022-11-30T16:19:55Z | [open](../records/databases-rehacktive-caffeine-7ba154b8.md) |
-| sequelize/sequelize | partial | 2026-09-02T20:57:59Z | [open](../records/databases-sequelize-sequelize-980d8352.md) |
-| strapi/strapi | partial | 2026-09-03T07:08:20Z | [open](../records/databases-strapi-strapi-16f55c01.md) |
+| sequelize/sequelize | partial | 2026-09-08T11:49:40Z | [open](../records/databases-sequelize-sequelize-980d8352.md) |
+| strapi/strapi | partial | 2026-09-08T11:41:18Z | [open](../records/databases-strapi-strapi-16f55c01.md) |
 | typeorm/typeorm | partial | 2026-09-03T06:45:45Z | [open](../records/databases-typeorm-typeorm-5d6b5459.md) |

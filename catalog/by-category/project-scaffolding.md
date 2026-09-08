@@ -1,6 +1,6 @@
 # Project Scaffolding
 
-Records: `134`
+Records: `138`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `134`
 
 ## Category Index
 
-[Api Abi Checker (222)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (200)](benchmarking.md) · [Build System (995)](build-system.md) · [Cli (568)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (222)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (999)](build-system.md) · [Cli (570)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
 [Concurrency Parallelism (93)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (901)](database-datastore.md) · [Datetime (234)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (103)](dependency-manager.md) · [Documentation (107)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1613)](filesystem-os.md) · [Formatter (649)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (357)](game-engine-game-dev.md) · [Ide Editor Integration (1465)](ide-editor-integration.md)
-[Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1442)](language-specification.md) · [Library (5742)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (797)](machine-learning.md)
-[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1042)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1197)](parser-lexer-ast.md) · [Precommit Ci Quality (309)](precommit-ci-quality.md)
-[Profiler (87)](profiler.md) · **[Project Scaffolding (134)](project-scaffolding.md)** · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (629)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (610)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1619)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (560)](visualization-gui.md) · [Web Framework (478)](web-framework.md)
+[Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (969)](database-datastore.md) · [Datetime (234)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (104)](dependency-manager.md) · [Documentation (109)](documentation.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (462)](ffi-bindings.md) · [Filesystem Os (1614)](filesystem-os.md) · [Formatter (651)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1473)](ide-editor-integration.md)
+[Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (274)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
+[Language Server (30)](language-server.md) · [Language Specification (1448)](language-specification.md) · [Library (5750)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (799)](machine-learning.md)
+[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (98)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1052)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1205)](parser-lexer-ast.md) · [Precommit Ci Quality (310)](precommit-ci-quality.md)
+[Profiler (89)](profiler.md) · **[Project Scaffolding (138)](project-scaffolding.md)** · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (631)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (617)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (314)](type-checker.md)
+[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (487)](web-framework.md)
 
 ## C++23
 
@@ -146,8 +146,8 @@ Records: `134`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| codoworks/go-boilerplate | partial | 2025-07-05T09:03:39Z | [open](../records/go-codoworks-go-boilerplate-64f37da7.md) |
-| confetti-framework/confetti | partial | 2025-02-22T22:15:34Z | [open](../records/go-confetti-framework-confetti-741312c7.md) |
+| codoworks/go-boilerplate | unknown | not_a_go_module_path | [open](../records/go-codoworks-go-boilerplate-64f37da7.md) |
+| confetti-framework/confetti | unknown | not_a_go_module_path | [open](../records/go-confetti-framework-confetti-741312c7.md) |
 | github.com/continew-org/continew-starter | v2.7.2+incompatible | 2026-08-30T14:10:06.10492Z | [open](../records/go-github-com-continew-org-continew-starter-7691250b.md) |
 | github.com/micronaut-projects/micronaut-starter | v4.3.2+incompatible | 2026-08-30T16:32:52.068049Z | [open](../records/go-github-com-micronaut-projects-micronaut-starter-0b6baca4.md) |
 | github.com/unonao/kaggle-template | v2.0.2+incompatible | 2026-08-30T14:07:56.203318Z | [open](../records/go-github-com-unonao-kaggle-template-5bc94715.md) |
@@ -307,13 +307,17 @@ Records: `134`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Brightify/Cuckoo | partial | 2026-09-05T14:49:01Z | [open](../records/cocoa-brightify-cuckoo-e63a8184.md) |
+| Brightify/Cuckoo | unknown | not_a_cocoapods_name | [open](../records/cocoa-brightify-cuckoo-e63a8184.md) |
 
 ## Databases
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| bwajtr/java-persistence-frameworks-comparison | partial | 2022-12-30T07:07:44Z | [open](../records/databases-bwajtr-java-persistence-frameworks-comparison-74170125.md) |
+| fastapi/full-stack-fastapi-template | partial | 2026-09-03T10:29:07Z | [open](../records/databases-fastapi-full-stack-fastapi-template-ee26fae0.md) |
 | Patroni | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-patroni-581c2ddc.md) |
+| patroni/patroni | partial | 2026-09-08T07:11:11Z | [open](../records/databases-patroni-patroni-5638a23a.md) |
+| wasp-lang/open-saas | partial | 2026-08-06T11:28:44Z | [open](../records/databases-wasp-lang-open-saas-7ae427a8.md) |
 
 ## Repository Workplaces
 

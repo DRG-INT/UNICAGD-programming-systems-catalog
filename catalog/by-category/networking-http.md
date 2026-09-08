@@ -1,6 +1,6 @@
 # Networking Http
 
-Records: `1042`
+Records: `1052`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `1042`
 
 ## Category Index
 
-[Api Abi Checker (222)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (136)](async-runtime.md)
-[Benchmarking (200)](benchmarking.md) · [Build System (995)](build-system.md) · [Cli (568)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (222)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (999)](build-system.md) · [Cli (570)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
 [Concurrency Parallelism (93)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (901)](database-datastore.md) · [Datetime (234)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (103)](dependency-manager.md) · [Documentation (107)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (457)](ffi-bindings.md) · [Filesystem Os (1613)](filesystem-os.md) · [Formatter (649)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (57)](fuzzer.md) · [Game Engine Game Dev (357)](game-engine-game-dev.md) · [Ide Editor Integration (1465)](ide-editor-integration.md)
-[Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (273)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1442)](language-specification.md) · [Library (5742)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (530)](logging-observability.md) · [Machine Learning (797)](machine-learning.md)
-[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (96)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1042)](networking-http.md)**
-[Other (14)](other.md) · [Package Manager (442)](package-manager.md) · [Parser Lexer Ast (1197)](parser-lexer-ast.md) · [Precommit Ci Quality (309)](precommit-ci-quality.md)
-[Profiler (87)](profiler.md) · [Project Scaffolding (134)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (336)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (629)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (610)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (313)](type-checker.md)
-[Undefined Behavior Analyzer (1619)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (560)](visualization-gui.md) · [Web Framework (478)](web-framework.md)
+[Cryptography (177)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (969)](database-datastore.md) · [Datetime (234)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (104)](dependency-manager.md) · [Documentation (109)](documentation.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (462)](ffi-bindings.md) · [Filesystem Os (1614)](filesystem-os.md) · [Formatter (651)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1473)](ide-editor-integration.md)
+[Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (274)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
+[Language Server (30)](language-server.md) · [Language Specification (1448)](language-specification.md) · [Library (5750)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (799)](machine-learning.md)
+[Math Numeric Scientific (88)](math-numeric-scientific.md) · [Memory Analyzer (98)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1052)](networking-http.md)**
+[Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1205)](parser-lexer-ast.md) · [Precommit Ci Quality (310)](precommit-ci-quality.md)
+[Profiler (89)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (631)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (617)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (314)](type-checker.md)
+[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (487)](web-framework.md)
 
 ## C99
 
@@ -733,7 +733,7 @@ Records: `1042`
 | --- | --- | --- | --- |
 | blur | 4.0.2 | 2025-04-06T20:37:10.612759Z | [open](../records/dart-blur-5bf1c763.md) |
 | cached_network_image | 4.0.0 | 2026-08-28T13:04:59.680229Z | [open](../records/dart-cached-network-image-69772a62.md) |
-| cached_network_image_ce | 4.10.1 | 2026-08-26T07:26:40.863967Z | [open](../records/dart-cached-network-image-ce-8b00ba24.md) |
+| cached_network_image_ce | 4.11.0 | 2026-09-08T12:08:49.769141Z | [open](../records/dart-cached-network-image-ce-8b00ba24.md) |
 | chopper | 8.7.0 | 2026-07-15T17:05:31.557410Z | [open](../records/dart-chopper-2b118141.md) |
 | connectivity_plus | 7.3.1 | 2026-07-23T21:33:03.771147Z | [open](../records/dart-connectivity-plus-b6bb009b.md) |
 | cookie_jar | 4.0.9 | 2026-02-27T15:36:18.001514Z | [open](../records/dart-cookie-jar-15d415a7.md) |
@@ -773,14 +773,14 @@ Records: `1042`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ChimeraCoder/anaconda | partial | 2024-01-28T15:07:20Z | [open](../records/go-chimeracoder-anaconda-6a61e747.md) |
-| g3n/engine | partial | 2026-08-01T16:23:05Z | [open](../records/go-g3n-engine-0b367039.md) |
-| go-resty/resty | partial | 2026-09-07T01:30:26Z | [open](../records/go-go-resty-resty-9cfada1b.md) |
-| redis/go-redis | partial | 2026-09-08T10:34:17Z | [open](../records/go-redis-go-redis-fe715a04.md) |
-| spicetify/cli | partial | 2026-09-06T16:15:27Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
-| teler-sh/teler-waf | partial | 2025-03-18T01:40:27Z | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
-| xiaolincoder/CS-Base | partial | 2024-11-27T06:32:13Z | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
-| yincongcyincong/mcp-client-go | partial | 2025-09-09T09:54:40Z | [open](../records/go-yincongcyincong-mcp-client-go-551e8f66.md) |
+| ChimeraCoder/anaconda | unknown | not_a_go_module_path | [open](../records/go-chimeracoder-anaconda-6a61e747.md) |
+| g3n/engine | unknown | not_a_go_module_path | [open](../records/go-g3n-engine-0b367039.md) |
+| go-resty/resty | unknown | not_a_go_module_path | [open](../records/go-go-resty-resty-9cfada1b.md) |
+| redis/go-redis | unknown | not_a_go_module_path | [open](../records/go-redis-go-redis-fe715a04.md) |
+| spicetify/cli | unknown | not_a_go_module_path | [open](../records/go-spicetify-cli-b8e26c00.md) |
+| teler-sh/teler-waf | unknown | not_a_go_module_path | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
+| xiaolincoder/CS-Base | unknown | not_a_go_module_path | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
+| yincongcyincong/mcp-client-go | unknown | not_a_go_module_path | [open](../records/go-yincongcyincong-mcp-client-go-551e8f66.md) |
 
 ## Basilisk
 
@@ -1109,7 +1109,7 @@ Records: `1042`
 | --- | --- | --- | --- |
 | ashvardanian/less_slow.cpp | partial | 2026-07-27T01:01:01Z | [open](../records/assembly-ashvardanian-less-slow-cpp-50768d6c.md) |
 | minio/highwayhash | partial | 2026-03-21T05:38:40Z | [open](../records/assembly-minio-highwayhash-5634a2cc.md) |
-| nyxos-dev/nyx-os | partial | 2026-09-07T23:15:32Z | [open](../records/assembly-nyxos-dev-nyx-os-a701d2ff.md) |
+| nyxos-dev/nyx-os | partial | 2026-09-08T09:19:43Z | [open](../records/assembly-nyxos-dev-nyx-os-a701d2ff.md) |
 | OpenMachine-ai/tinyfive | partial | 2023-11-01T23:04:08Z | [open](../records/assembly-openmachine-ai-tinyfive-d7147317.md) |
 | OWASP/ZSC | partial | 2024-03-14T22:19:20Z | [open](../records/assembly-owasp-zsc-566fd5f9.md) |
 
@@ -1252,15 +1252,15 @@ Records: `1042`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AFNetworking | 4.0.1 | 2020-04-20 02:25:51 UTC | [open](../records/cocoa-afnetworking-c33f66f5.md) |
-| Alamofire/Alamofire | partial | 2026-09-07T20:38:48Z | [open](../records/cocoa-alamofire-alamofire-e2b01e1d.md) |
-| ChangbaDevs/KTVHTTPCache | partial | 2025-09-04T06:54:40Z | [open](../records/cocoa-changbadevs-ktvhttpcache-542d5edc.md) |
-| ChiliLabs/CHIPageControl | partial | 2023-05-22T02:43:41Z | [open](../records/cocoa-chililabs-chipagecontrol-cbd520fb.md) |
-| dustturtle/RealReachability | partial | 2026-04-29T06:58:35Z | [open](../records/cocoa-dustturtle-realreachability-89a5cfc6.md) |
-| emqx/CocoaMQTT | partial | 2026-07-31T12:13:27Z | [open](../records/cocoa-emqx-cocoamqtt-ef5d936b.md) |
-| jkpang/PPNetworkHelper | partial | 2018-12-14T03:53:44Z | [open](../records/cocoa-jkpang-ppnetworkhelper-8c57f6f7.md) |
-| neilalexander/seaglass | partial | 2021-09-20T13:46:51Z | [open](../records/cocoa-neilalexander-seaglass-fe29ac21.md) |
-| strongbox-password-safe/Strongbox | partial | 2026-07-17T14:03:41Z | [open](../records/cocoa-strongbox-password-safe-strongbox-2b9fd84c.md) |
-| thecatalinstan/Criollo | partial | 2022-09-20T21:52:51Z | [open](../records/cocoa-thecatalinstan-criollo-2759b788.md) |
+| Alamofire/Alamofire | unknown | not_a_cocoapods_name | [open](../records/cocoa-alamofire-alamofire-e2b01e1d.md) |
+| ChangbaDevs/KTVHTTPCache | unknown | not_a_cocoapods_name | [open](../records/cocoa-changbadevs-ktvhttpcache-542d5edc.md) |
+| ChiliLabs/CHIPageControl | unknown | not_a_cocoapods_name | [open](../records/cocoa-chililabs-chipagecontrol-cbd520fb.md) |
+| dustturtle/RealReachability | unknown | not_a_cocoapods_name | [open](../records/cocoa-dustturtle-realreachability-89a5cfc6.md) |
+| emqx/CocoaMQTT | unknown | not_a_cocoapods_name | [open](../records/cocoa-emqx-cocoamqtt-ef5d936b.md) |
+| jkpang/PPNetworkHelper | unknown | not_a_cocoapods_name | [open](../records/cocoa-jkpang-ppnetworkhelper-8c57f6f7.md) |
+| neilalexander/seaglass | unknown | not_a_cocoapods_name | [open](../records/cocoa-neilalexander-seaglass-fe29ac21.md) |
+| strongbox-password-safe/Strongbox | unknown | not_a_cocoapods_name | [open](../records/cocoa-strongbox-password-safe-strongbox-2b9fd84c.md) |
+| thecatalinstan/Criollo | unknown | not_a_cocoapods_name | [open](../records/cocoa-thecatalinstan-criollo-2759b788.md) |
 
 ## Databases
 
@@ -1268,34 +1268,44 @@ Records: `1042`
 | --- | --- | --- | --- |
 | aerospike/aerospike-client-nodejs | partial | 2026-09-04T20:19:31Z | [open](../records/databases-aerospike-aerospike-client-nodejs-346f6618.md) |
 | aerospike/aerospike-client-rust | partial | 2026-09-07T08:39:47Z | [open](../records/databases-aerospike-aerospike-client-rust-0981e978.md) |
-| awslabs/mountpoint-s3 | partial | 2026-09-07T20:56:47Z | [open](../records/databases-awslabs-mountpoint-s3-3f10c09d.md) |
+| awslabs/mountpoint-s3 | partial | 2026-09-08T08:28:18Z | [open](../records/databases-awslabs-mountpoint-s3-3f10c09d.md) |
 | Beekeeper Studio | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-beekeeper-studio-8debdaa3.md) |
 | beekeeper-studio/beekeeper-studio | partial | 2026-09-08T07:59:31Z | [open](../records/databases-beekeeper-studio-beekeeper-studio-a999ac61.md) |
+| brianc/node-postgres | partial | 2026-09-02T00:26:05Z | [open](../records/databases-brianc-node-postgres-6210b4d9.md) |
 | Chartbrew | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-chartbrew-b6cf395d.md) |
-| ClickHouse/clickhouse-java | partial | 2026-09-03T22:45:33Z | [open](../records/databases-clickhouse-clickhouse-java-55cf8dd6.md) |
-| crate/crate-python | partial | 2026-09-02T13:45:59Z | [open](../records/databases-crate-crate-python-62348f26.md) |
+| ClickHouse/clickhouse-java | partial | 2026-09-06T22:02:03Z | [open](../records/databases-clickhouse-clickhouse-java-55cf8dd6.md) |
+| crate/crate-python | partial | 2026-09-08T11:03:19Z | [open](../records/databases-crate-crate-python-62348f26.md) |
 | DataRow | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-datarow-011db1d2.md) |
-| dbeaver/dbeaver | partial | 2026-09-08T10:25:16Z | [open](../records/databases-dbeaver-dbeaver-fdc61e8a.md) |
+| dbeaver/dbeaver | partial | 2026-09-08T11:48:29Z | [open](../records/databases-dbeaver-dbeaver-fdc61e8a.md) |
 | dbkangaroo/kangaroo | partial | 2026-09-05T08:10:39Z | [open](../records/databases-dbkangaroo-kangaroo-cb5596c5.md) |
 | DbVisualizer | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-dbvisualizer-dbc48ffe.md) |
-| deuxfleurs-org/garage | partial | 2026-09-07T19:05:26Z | [open](../records/databases-deuxfleurs-org-garage-0a48bdf5.md) |
+| deuxfleurs-org/garage | partial | 2026-09-08T08:45:07Z | [open](../records/databases-deuxfleurs-org-garage-0a48bdf5.md) |
 | geldata/gel-elixir | partial | 2026-02-20T22:42:45Z | [open](../records/databases-geldata-gel-elixir-a46bd8bb.md) |
+| go-xorm/xorm | partial | 2020-04-03T01:12:12Z | [open](../records/databases-go-xorm-xorm-28a3d567.md) |
+| HeidiSQL/HeidiSQL | partial | 2026-08-27T17:26:07Z | [open](../records/databases-heidisql-heidisql-4a1c094d.md) |
+| HTTP-RPC/Kilo | partial | 2026-09-06T21:05:32Z | [open](../records/databases-http-rpc-kilo-1640999c.md) |
 | influxdb-rs/influxdb-rust | partial | 2026-03-02T05:09:46Z | [open](../records/databases-influxdb-rs-influxdb-rust-13102dc6.md) |
 | logv/sybil | partial | 2024-08-24T18:45:31Z | [open](../records/databases-logv-sybil-16702d87.md) |
-| machbase/neo-server | partial | 2026-09-07T06:29:07Z | [open](../records/databases-machbase-neo-server-81e24baf.md) |
+| machbase/neo-server | partial | 2026-09-08T08:59:44Z | [open](../records/databases-machbase-neo-server-81e24baf.md) |
+| marcosbarbero/spring-boot2-oauth2-jwt | partial | 2021-04-26T18:50:20Z | [open](../records/databases-marcosbarbero-spring-boot2-oauth2-jwt-545e1f79.md) |
 | metriql/metriql | partial | 2023-03-29T22:11:05Z | [open](../records/databases-metriql-metriql-66121bff.md) |
 | mysqljs/mysql | partial | 2024-06-25T12:03:39Z | [open](../records/databases-mysqljs-mysql-4caafa94.md) |
 | nosqlclient/nosqlclient | partial | 2023-08-15T07:45:24Z | [open](../records/databases-nosqlclient-nosqlclient-090af045.md) |
+| only-cliches/Nano-SQL | partial | 2026-02-17T11:36:12Z | [open](../records/databases-only-cliches-nano-sql-2e385bb5.md) |
 | OtterMind/Chat2DB | partial | 2026-09-08T09:26:07Z | [open](../records/databases-ottermind-chat2db-a37fa72f.md) |
 | PgManage | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pgmanage-18fd185f.md) |
 | pingcap/autoflow | partial | 2026-04-27T13:55:14Z | [open](../records/databases-pingcap-autoflow-1944f5ea.md) |
-| PyMySQL/PyMySQL | partial | 2026-08-18T09:00:54Z | [open](../records/databases-pymysql-pymysql-5d492d34.md) |
-| qdrant/qdrant-client | partial | 2026-09-02T10:20:12Z | [open](../records/databases-qdrant-qdrant-client-c2e262b3.md) |
+| PyMySQL/PyMySQL | partial | 2026-09-07T08:30:34Z | [open](../records/databases-pymysql-pymysql-5d492d34.md) |
+| qdrant/qdrant-client | partial | 2026-09-08T09:46:54Z | [open](../records/databases-qdrant-qdrant-client-c2e262b3.md) |
 | Query-farm/httpserver | partial | 2026-09-04T20:19:43Z | [open](../records/databases-query-farm-httpserver-36ffb344.md) |
 | SAP/go-hdb | partial | 2026-09-02T14:10:27Z | [open](../records/databases-sap-go-hdb-a1c93dee.md) |
 | SheetJS/sheetjs | partial | 2024-04-18T08:06:46Z | [open](../records/databases-sheetjs-sheetjs-8657dc9b.md) |
+| sosedoff/pgweb | partial | 2026-07-26T22:30:33Z | [open](../records/databases-sosedoff-pgweb-64d0c3b3.md) |
+| sourcenetwork/defradb | partial | 2026-09-07T09:30:49Z | [open](../records/databases-sourcenetwork-defradb-6d319ed1.md) |
 | svenvc/P3 | partial | 2025-11-29T19:22:10Z | [open](../records/databases-svenvc-p3-2c71a4dc.md) |
-| t8y2/dbx | partial | 2026-09-08T09:49:38Z | [open](../records/databases-t8y2-dbx-97368a4a.md) |
+| t8y2/dbx | partial | 2026-09-08T11:42:32Z | [open](../records/databases-t8y2-dbx-97368a4a.md) |
+| TableProApp/TablePro | partial | 2026-09-08T11:54:47Z | [open](../records/databases-tableproapp-tablepro-d427a820.md) |
+| vogler75/automation-gateway | partial | 2026-04-07T11:56:50Z | [open](../records/databases-vogler75-automation-gateway-85135ca2.md) |
 | YoEight/eventstore | partial | 2021-12-22T00:35:49Z | [open](../records/databases-yoeight-eventstore-299fec75.md) |
 
 ## Repository Workplaces
