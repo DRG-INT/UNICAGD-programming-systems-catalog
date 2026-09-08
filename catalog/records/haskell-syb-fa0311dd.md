@@ -32,8 +32,8 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 0.7.4 | 2026-03-07T17:18:44Z | [https://hackage.haskell.org/package/syb](https://hackage.haskell.org/package/syb) |  |
-| candidate | partial | 0.7.1 |  | [https://hackage.haskell.org/package/syb](https://hackage.haskell.org/package/syb) | hackage_candidate_date_missing |
+| stable | unknown |  |  | unknown | hackage_package_page_missing |
+| preview/nightly | unknown |  |  | unknown | hackage_package_page_missing |
 
 ## License And Use Alert
 
@@ -47,8 +47,8 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 - Treat category as `library` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://hackage.haskell.org/package/syb` at `2026-09-01T14:24:32+00:00`.
-- Preview/nightly metadata is unknown because `hackage_candidate_date_missing`.
+- Stable release is unknown because `hackage_package_page_missing`.
+- Preview/nightly metadata is unknown because `hackage_package_page_missing`.
 
 ## Provenance
 
@@ -103,4 +103,4 @@ Evidence records merged into this identity: `1`.
 [Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (138)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (337)](../by-category/security-sast.md) · [Serialization (400)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (632)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (620)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (68)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1627)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (561)](../by-category/visualization-gui.md) · [Web Framework (489)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1627)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (561)](../by-category/visualization-gui.md) · [Web Framework (490)](../by-category/web-framework.md)

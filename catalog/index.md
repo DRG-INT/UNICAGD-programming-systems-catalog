@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-08T21:20:28+00:00`
+Generated: `2026-09-08T22:22:25+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -22,7 +22,7 @@ Generated: `2026-09-08T21:20:28+00:00`
 [Profiler (93)](by-category/profiler.md) · [Project Scaffolding (138)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (337)](by-category/security-sast.md) · [Serialization (400)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (632)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (620)](by-category/testing-framework.md) · [Tutorial Book Styleguide (68)](by-category/tutorial-book-styleguide.md) · [Type Checker (315)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1627)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (561)](by-category/visualization-gui.md) · [Web Framework (489)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1627)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (561)](by-category/visualization-gui.md) · [Web Framework (490)](by-category/web-framework.md)
 
 ## Languages
 
@@ -38,7 +38,7 @@ Generated: `2026-09-08T21:20:28+00:00`
 | Node.js/TypeScript | 391 | 351 | [Node.js/TypeScript](by-language/node-js-typescript.md) |
 | Lua family | 1937 | 0 | [Lua family](by-language/lua-family.md) |
 | R | 1817 | 1817 | [R](by-language/r.md) |
-| Haskell | 1540 | 1529 | [Haskell](by-language/haskell.md) |
+| Haskell | 1540 | 1526 | [Haskell](by-language/haskell.md) |
 | Matlab | 287 | 0 | [Matlab](by-language/matlab.md) |
 | Octave | 141 | 140 | [Octave](by-language/octave.md) |
 | C-Sharp | 150 | 150 | [C-Sharp](by-language/c-sharp.md) |
@@ -86,7 +86,7 @@ Generated: `2026-09-08T21:20:28+00:00`
 | Swift | 370 | 0 | [Swift](by-language/swift.md) |
 | Cocoa | 349 | 69 | [Cocoa](by-language/cocoa.md) |
 | Databases | 893 | 0 | [Databases](by-language/databases.md) |
-| Repository Workplaces | 526 | 0 | [Repository Workplaces](by-language/repository-workplaces.md) |
+| Repository Workplaces | 527 | 0 | [Repository Workplaces](by-language/repository-workplaces.md) |
 
 ## Category Details
 
@@ -159,7 +159,7 @@ Generated: `2026-09-08T21:20:28+00:00`
 | Undefined Behavior Analyzer | 1627 | [undefined_behavior_analyzer](by-category/undefined-behavior-analyzer.md) |
 | Utility Library | 104 | [utility_library](by-category/utility-library.md) |
 | Visualization Gui | 561 | [visualization_gui](by-category/visualization-gui.md) |
-| Web Framework | 489 | [web_framework](by-category/web-framework.md) |
+| Web Framework | 490 | [web_framework](by-category/web-framework.md) |
 
 ## High-Signal Release Coverage
 
@@ -175,7 +175,7 @@ Generated: `2026-09-08T21:20:28+00:00`
 | Node.js/TypeScript | 351 | 40 |
 | Lua family | 0 | 1937 |
 | R | 1817 | 0 |
-| Haskell | 1529 | 11 |
+| Haskell | 1526 | 14 |
 | Matlab | 0 | 287 |
 | Octave | 140 | 1 |
 | C-Sharp | 150 | 0 |
@@ -223,4 +223,4 @@ Generated: `2026-09-08T21:20:28+00:00`
 | Swift | 0 | 370 |
 | Cocoa | 69 | 280 |
 | Databases | 0 | 893 |
-| Repository Workplaces | 0 | 526 |
+| Repository Workplaces | 0 | 527 |

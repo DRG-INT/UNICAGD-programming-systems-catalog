@@ -1,0 +1,107 @@
+# Gitea: is-xtreme-hd-iptv-legal/best-iptv-server
+
+## Navigation
+
+[Catalog index](../index.md) · [Language: Repository Workplaces](../by-language/repository-workplaces.md) · [Category: Web Framework](../by-category/web-framework.md) · [Release watch](../release-watch.md) · [Apache/MIT license index](../license-index.md)
+
+<!-- robots.txt: compliant -->
+<!-- canonical: https://gitea.com/is-xtreme-hd-iptv-legal/best-iptv-server -->
+<!-- crawl-delay: 10 -->
+
+## Identity
+
+| Field | Value |
+| --- | --- |
+| Language branch | Repository Workplaces |
+| Category | Web Framework |
+| Source type | registry_expansion |
+| Verification | registry-derived |
+| Canonical URL | [https://gitea.com/is-xtreme-hd-iptv-legal/best-iptv-server](https://gitea.com/is-xtreme-hd-iptv-legal/best-iptv-server) |
+| Source record ids | gitea_repositories_api-59388cedd07337 |
+
+## System Engineer Summary
+
+Gitea repository discovered from the official Gitea-compatible search API.
+
+## Operational Role
+
+For a systems engineer, Gitea: is-xtreme-hd-iptv-legal/best-iptv-server belongs in the Repository
+Workplaces inventory as part of request routing, middleware policy, service structure, and
+deployment surface.
+
+## Release Intelligence
+
+| Channel | Status | Version | Date | Source | Reason |
+| --- | --- | --- | --- | --- | --- |
+| stable | partial |  | 2026-09-08T11:04:36Z | [https://gitea.com/api/v1/repos/search?q=server&limit=50](https://gitea.com/api/v1/repos/search?q=server&limit=50) | gitea_search_api_reports_activity_not_release_version |
+| preview/nightly | unknown |  |  | unknown | gitea_search_api_has_no_standard_nightly_channel |
+
+## License And Use Alert
+
+| Field | Value |
+| --- | --- |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+
+## Engineering Notes
+
+- Treat category as `web_framework` unless a later verified source gives a better classification.
+- Keep provenance attached when merging duplicate identities; source evidence is not disposable.
+- Stable release is unknown because `gitea_search_api_reports_activity_not_release_version`.
+- Preview/nightly metadata is unknown because `gitea_search_api_has_no_standard_nightly_channel`.
+
+## Provenance
+
+<details>
+<summary><strong>Provenance Details</strong> (click to expand)</summary>
+
+| Kind | Status | Date | Detail |
+| --- | --- | --- | --- |
+| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-08 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "server", "retrieved": "2026-09-08", "status": "forge-api-derived"}` |
+
+</details>
+
+## Evidence
+
+<details open>
+<summary><strong>Evidence Records</strong> (click to collapse)</summary>
+
+Evidence records merged into this identity: `1`.
+
+- `gitea_repositories_api-59388cedd07337` from `gitea_repositories_api` as `registry_expansion`
+
+</details>
+
+## Related Records
+
+| Name | Category | Page |
+| --- | --- | --- |
+| cznic/sqlite | Web Framework | [open](repository-workplaces-cznic-sqlite-e2eb3927.md) |
+| Gitea: 0b1tadmin/1-12-2_server | Web Framework | [open](repository-workplaces-gitea-0b1tadmin-1-12-2-server-e2800008.md) |
+| Gitea: adityapoonia/chaddserver | Web Framework | [open](repository-workplaces-gitea-adityapoonia-chaddserver-08e4e01b.md) |
+| Gitea: AndreyWorker312/chat-server | Web Framework | [open](repository-workplaces-gitea-andreyworker312-chat-server-e85b70ea.md) |
+| Gitea: arvin.zhang/findserver | Web Framework | [open](repository-workplaces-gitea-arvin-zhang-findserver-7ce28e17.md) |
+| Gitea: arvin.zhang/ftpserver | Web Framework | [open](repository-workplaces-gitea-arvin-zhang-ftpserver-63abbca5.md) |
+| Gitea: betartib/apiserver | Web Framework | [open](repository-workplaces-gitea-betartib-apiserver-7fe40dbb.md) |
+| Gitea: Falcon/Falcon.StoredProcedureRunner | Web Framework | [open](repository-workplaces-gitea-falcon-falcon-storedprocedurerunner-aa5c516a.md) |
+
+## Category Index
+
+[Api Abi Checker (224)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
+[Benchmarking (202)](../by-category/benchmarking.md) · [Build System (999)](../by-category/build-system.md) · [Cli (571)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (118)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (52)](../by-category/compression.md)
+[Concurrency Parallelism (93)](../by-category/concurrency-parallelism.md) · [Configuration (132)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
+[Cryptography (178)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (971)](../by-category/database-datastore.md) · [Datetime (235)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (105)](../by-category/dependency-manager.md) · [Documentation (109)](../by-category/documentation.md)
+[Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (464)](../by-category/ffi-bindings.md) · [Filesystem Os (1618)](../by-category/filesystem-os.md) · [Formatter (652)](../by-category/formatter.md)
+[Framework (63)](../by-category/framework.md) · [Fuzzer (58)](../by-category/fuzzer.md) · [Game Engine Game Dev (358)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1475)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (438)](../by-category/image-audio-dsp.md) · [Interop Bindings (62)](../by-category/interop-bindings.md) · [Interpreter Runtime (275)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
+[Language Server (30)](../by-category/language-server.md) · [Language Specification (1450)](../by-category/language-specification.md) · [Library (5774)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (531)](../by-category/logging-observability.md) · [Machine Learning (810)](../by-category/machine-learning.md)
+[Math Numeric Scientific (89)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (98)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1053)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (443)](../by-category/package-manager.md) · [Parser Lexer Ast (1208)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (310)](../by-category/precommit-ci-quality.md)
+[Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (138)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
+[Security Sast (337)](../by-category/security-sast.md) · [Serialization (400)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (632)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (620)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (68)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1627)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (561)](../by-category/visualization-gui.md) · **[Web Framework (490)](../by-category/web-framework.md)**

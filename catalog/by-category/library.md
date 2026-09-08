@@ -24,7 +24,7 @@ Records: `5774`
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (632)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (620)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (489)](web-framework.md)
+[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (490)](web-framework.md)
 
 ## C99
 
@@ -3157,7 +3157,7 @@ Records: `5774`
 | b9 | 3.2.3 | 2022-03-28T09:05:11Z | [open](../records/haskell-b9-2c2399d5.md) |
 | backprop | 0.2.7.2 | 2025-06-05T04:02:20Z | [open](../records/haskell-backprop-adf0f71d.md) |
 | barbies | 2.1.1.0 | 2024-01-13T13:46:09Z | [open](../records/haskell-barbies-982365a4.md) |
-| base | 4.22.0.0 | 2025-12-19T11:52:34Z | [open](../records/haskell-base-3ec0d4ef.md) |
+| base | unknown | hackage_package_page_missing | [open](../records/haskell-base-3ec0d4ef.md) |
 | base-compat | 0.15.0 | 2026-01-11T03:01:40Z | [open](../records/haskell-base-compat-218362df.md) |
 | base-compat-batteries | 0.15.0 | 2026-01-11T03:01:50Z | [open](../records/haskell-base-compat-batteries-6b1ffde2.md) |
 | base-orphans | 0.9.4 | 2026-01-10T15:53:26Z | [open](../records/haskell-base-orphans-9cdac570.md) |
@@ -3269,10 +3269,10 @@ Records: `5774`
 | contravariant | 1.5.6 | 2026-01-10T19:55:00Z | [open](../records/haskell-contravariant-b085ff85.md) |
 | control-monad-exception | 0.11.4 | 2020-07-06T06:53:51Z | [open](../records/haskell-control-monad-exception-0f8f43a3.md) |
 | cookie | 0.5.1 | 2025-03-31T12:31:39Z | [open](../records/haskell-cookie-2a48f6b1.md) |
-| copilot | 4.8 | 2026-07-08T14:01:00Z | [open](../records/haskell-copilot-d7f340e0.md) |
-| copilot-c99 | 4.8 | 2026-07-08T14:00:38Z | [open](../records/haskell-copilot-c99-2dc52a93.md) |
-| copilot-core | 4.8 | 2026-07-08T14:00:32Z | [open](../records/haskell-copilot-core-d0a7ff5a.md) |
-| copilot-libraries | 4.8 | 2026-07-08T14:00:52Z | [open](../records/haskell-copilot-libraries-cdc14724.md) |
+| copilot | 4.8.1 | 2026-09-08T22:20:13Z | [open](../records/haskell-copilot-d7f340e0.md) |
+| copilot-c99 | 4.8.1 | 2026-09-08T22:19:53Z | [open](../records/haskell-copilot-c99-2dc52a93.md) |
+| copilot-core | 4.8.1 | 2026-09-08T22:19:46Z | [open](../records/haskell-copilot-core-d0a7ff5a.md) |
+| copilot-libraries | 4.8.1 | 2026-09-08T22:20:06Z | [open](../records/haskell-copilot-libraries-cdc14724.md) |
 | core-data | 0.3.9.1 | 2023-04-04T06:04:53Z | [open](../records/haskell-core-data-3284e782.md) |
 | core-program | 0.7.0.0 | 2023-10-13T04:33:22Z | [open](../records/haskell-core-program-4a8c3d7c.md) |
 | core-text | 0.3.8.1 | 2023-02-27T10:31:17Z | [open](../records/haskell-core-text-2413b5d5.md) |
@@ -3414,7 +3414,7 @@ Records: `5774`
 | ghc-exactprint | 1.14.1.0 | 2026-08-06T22:12:31Z | [open](../records/haskell-ghc-exactprint-fecd74ca.md) |
 | ghc-lib | 9.14.1.20251220 | 2025-12-20T18:41:41Z | [open](../records/haskell-ghc-lib-dd1fe600.md) |
 | ghc-mod | 5.8.0.0 | 2017-06-11T12:59:05Z | [open](../records/haskell-ghc-mod-d3b235eb.md) |
-| ghc-prim | 0.13.0 | 2024-12-16T09:29:37Z | [open](../records/haskell-ghc-prim-ca8234b1.md) |
+| ghc-prim | unknown | hackage_package_page_missing | [open](../records/haskell-ghc-prim-ca8234b1.md) |
 | ghc-prof | 1.4.1.14 | 2025-06-16T08:53:50Z | [open](../records/haskell-ghc-prof-4bb84f7f.md) |
 | ghc-typelits-extra | 0.5.4 | 2026-05-13T14:10:16Z | [open](../records/haskell-ghc-typelits-extra-3116633d.md) |
 | ghc-typelits-knownnat | 0.8.4 | 2026-05-13T13:19:35Z | [open](../records/haskell-ghc-typelits-knownnat-5af32812.md) |
@@ -3632,9 +3632,9 @@ Records: `5774`
 | keter | 2.3.6 | 2026-05-26T19:31:06Z | [open](../records/haskell-keter-44b12738.md) |
 | keys | 3.12.5 | 2026-01-10T21:06:36Z | [open](../records/haskell-keys-ca030f7a.md) |
 | keystore | 0.9.0.2 | 2023-10-14T04:49:11Z | [open](../records/haskell-keystore-ffa1f3bc.md) |
-| kioku-core | 0.5.2.0 | 2026-09-01T03:56:37Z | [open](../records/haskell-kioku-core-38935c2c.md) |
-| kioku-migrate | 0.5.2.0 | 2026-09-01T04:10:55Z | [open](../records/haskell-kioku-migrate-f80d609d.md) |
-| kioku-migrations | 0.5.2.0 | 2026-09-01T03:55:01Z | [open](../records/haskell-kioku-migrations-2c5f56b2.md) |
+| kioku-core | 0.6.0.0 | 2026-09-08T20:45:27Z | [open](../records/haskell-kioku-core-38935c2c.md) |
+| kioku-migrate | 0.6.0.0 | 2026-09-08T20:45:30Z | [open](../records/haskell-kioku-migrate-f80d609d.md) |
+| kioku-migrations | 0.6.0.0 | 2026-09-08T20:45:24Z | [open](../records/haskell-kioku-migrations-2c5f56b2.md) |
 | koji-tool | 1.3.1 | 2025-12-23T07:06:07Z | [open](../records/haskell-koji-tool-e6480d01.md) |
 | ktx-font | 0.2.0.1 | 2026-09-06T18:04:17Z | [open](../records/haskell-ktx-font-8c048a63.md) |
 | kure | 2.18.6 | 2021-04-04T16:22:24Z | [open](../records/haskell-kure-a02888f7.md) |
@@ -3761,7 +3761,7 @@ Records: `5774`
 | persistent | 2.18.1.0 | 2026-01-14T23:05:56Z | [open](../records/haskell-persistent-9b1724c4.md) |
 | persistent-mongoDB | 2.13.1.0 | 2024-09-13T15:11:56Z | [open](../records/haskell-persistent-mongodb-24599212.md) |
 | pgdl | 10.10 | 2018-01-15T17:33:34Z | [open](../records/haskell-pgdl-6b04d821.md) |
-| phino | 0.0.117 | 2026-09-08T11:45:33Z | [open](../records/haskell-phino-0ffa79f2.md) |
+| phino | 0.0.118 | 2026-09-08T20:42:38Z | [open](../records/haskell-phino-0ffa79f2.md) |
 | pinboard | 0.10.3.0 | 2022-05-07T23:32:56Z | [open](../records/haskell-pinboard-08e346f1.md) |
 | pinch | 0.5.2.0 | 2024-07-09T02:44:30Z | [open](../records/haskell-pinch-801ed692.md) |
 | plugins | 1.6.2.1 | 2022-03-27T15:40:09Z | [open](../records/haskell-plugins-1103fc5c.md) |
@@ -3960,7 +3960,7 @@ Records: `5774`
 | SVGFonts | 1.8.2 | 2026-08-16T00:46:12Z | [open](../records/haskell-svgfonts-6969776c.md) |
 | swagger2 | 2.9.1 | 2026-07-23T19:27:30Z | [open](../records/haskell-swagger2-f895728a.md) |
 | swish | 0.10.11.0 | 2026-01-08T11:37:21Z | [open](../records/haskell-swish-d9c11381.md) |
-| syb | 0.7.4 | 2026-03-07T17:18:44Z | [open](../records/haskell-syb-fa0311dd.md) |
+| syb | unknown | hackage_package_page_missing | [open](../records/haskell-syb-fa0311dd.md) |
 | syb-with-class | 0.6.1.14 | 2022-04-20T19:21:15Z | [open](../records/haskell-syb-with-class-f21f0b9f.md) |
 | syntactic | 3.8.5 | 2026-03-21T12:34:23Z | [open](../records/haskell-syntactic-b5d8e11b.md) |
 | synthesizer-core | 0.9.0.1 | 2026-07-09T14:51:24Z | [open](../records/haskell-synthesizer-core-892f4041.md) |
@@ -4334,7 +4334,7 @@ Records: `5774`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-08T21:03:26Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-08T22:14:25Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4348,7 +4348,7 @@ Records: `5774`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-08T21:16:57Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-08T22:19:58Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 

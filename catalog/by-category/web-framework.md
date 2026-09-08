@@ -1,6 +1,6 @@
 # Web Framework
 
-Records: `489`
+Records: `490`
 
 ## Navigation
 
@@ -24,7 +24,7 @@ Records: `489`
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (632)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (620)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · **[Web Framework (489)](web-framework.md)**
+[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · **[Web Framework (490)](web-framework.md)**
 
 ## C++23
 
@@ -185,7 +185,7 @@ Records: `489`
 | @hono/vite-dev-server | 0.26.1 | 2026-07-11T04:05:00.157Z | [open](../records/node-js-javascript-hono-vite-dev-server-e0c72d5b.md) |
 | @koishijs/plugin-server | 3.2.9 | 2026-02-27T21:00:53.554Z | [open](../records/node-js-javascript-koishijs-plugin-server-9a9e631a.md) |
 | @lancedb/lancedb | 0.38.0 | 2026-08-31T08:31:16.264Z | [open](../records/node-js-javascript-lancedb-lancedb-b1aa28e9.md) |
-| @launchdarkly/js-server-sdk-common | 2.20.1 | 2026-08-18T19:55:04.935Z | [open](../records/node-js-javascript-launchdarkly-js-server-sdk-common-321e695d.md) |
+| @launchdarkly/js-server-sdk-common | 2.21.0 | 2026-09-08T20:29:28.817Z | [open](../records/node-js-javascript-launchdarkly-js-server-sdk-common-321e695d.md) |
 | @launchdarkly/js-server-sdk-common-edge | 2.6.28 | 2026-08-18T19:54:18.515Z | [open](../records/node-js-javascript-launchdarkly-js-server-sdk-common-edge-04bd7216.md) |
 | @liff/server-api | 2.31.0 | 2026-08-31T02:45:10.018Z | [open](../records/node-js-javascript-liff-server-api-7488dbd8.md) |
 | @loadable/server | 5.16.7 | 2025-05-18T01:22:53.335Z | [open](../records/node-js-javascript-loadable-server-04f8fed4.md) |
@@ -232,14 +232,14 @@ Records: `489`
 | @supabase/mcp-server-supabase | 0.12.0 | 2026-09-04T13:33:08.786Z | [open](../records/node-js-javascript-supabase-mcp-server-supabase-7cd0f08b.md) |
 | @tanstack/react-start-rsc | 0.1.49 | 2026-09-06T21:27:37.543Z | [open](../records/node-js-javascript-tanstack-react-start-rsc-cf26d1f1.md) |
 | @toolbox-sdk/server | 1.10.0 | 2026-08-28T22:23:29.204Z | [open](../records/node-js-javascript-toolbox-sdk-server-6410dd9c.md) |
-| @transcend-io/mcp-server-admin | 0.6.10 | 2026-09-03T19:27:15.067Z | [open](../records/node-js-javascript-transcend-io-mcp-server-admin-c732016b.md) |
-| @transcend-io/mcp-server-assessment | 0.5.30 | 2026-09-03T19:28:52.130Z | [open](../records/node-js-javascript-transcend-io-mcp-server-assessment-fa3a076f.md) |
+| @transcend-io/mcp-server-admin | 1.0.0 | 2026-09-08T20:40:44.987Z | [open](../records/node-js-javascript-transcend-io-mcp-server-admin-c732016b.md) |
+| @transcend-io/mcp-server-assessment | 1.0.0 | 2026-09-08T20:43:22.707Z | [open](../records/node-js-javascript-transcend-io-mcp-server-assessment-fa3a076f.md) |
 | @transcend-io/mcp-server-consent | 0.9.6 | 2026-09-03T19:27:15.694Z | [open](../records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) |
 | @transcend-io/mcp-server-discovery | 0.5.30 | 2026-09-03T19:27:15.450Z | [open](../records/node-js-javascript-transcend-io-mcp-server-discovery-87735bfc.md) |
 | @transcend-io/mcp-server-dsr | 0.8.10 | 2026-09-03T19:27:15.159Z | [open](../records/node-js-javascript-transcend-io-mcp-server-dsr-76f6cb8b.md) |
 | @transcend-io/mcp-server-inventory | 0.7.10 | 2026-09-03T19:27:20.713Z | [open](../records/node-js-javascript-transcend-io-mcp-server-inventory-9bc583b1.md) |
 | @transcend-io/mcp-server-preferences | 0.7.2 | 2026-09-03T19:28:16.509Z | [open](../records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
-| @transcend-io/mcp-server-workflows | 0.5.30 | 2026-09-03T19:27:20.967Z | [open](../records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) |
+| @transcend-io/mcp-server-workflows | 1.0.0 | 2026-09-08T20:40:50.701Z | [open](../records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) |
 | @trpc/server | 11.18.0 | 2026-06-17T22:48:25.078Z | [open](../records/node-js-javascript-trpc-server-02b69ad5.md) |
 | @turnkey/sdk-server | 8.4.0 | 2026-09-04T15:40:30.545Z | [open](../records/node-js-javascript-turnkey-sdk-server-330a2b7d.md) |
 | @ui5/mcp-server | 0.2.18 | 2026-08-13T09:15:38.219Z | [open](../records/node-js-javascript-ui5-mcp-server-ed5f5678.md) |
@@ -684,6 +684,7 @@ Records: `489`
 | Gitea: Gangavarapu/BOA-VISA-ConfigServer | partial | 2024-06-14T06:00:34Z | [open](../records/repository-workplaces-gitea-gangavarapu-boa-visa-configserver-08d8af85.md) |
 | Gitea: goftp/ftpd | partial | 2023-05-09T06:36:46Z | [open](../records/repository-workplaces-gitea-goftp-ftpd-baae7a51.md) |
 | Gitea: goftp/server | partial | 2026-04-19T01:50:37Z | [open](../records/repository-workplaces-gitea-goftp-server-7512c7a5.md) |
+| Gitea: is-xtreme-hd-iptv-legal/best-iptv-server | partial | 2026-09-08T11:04:36Z | [open](../records/repository-workplaces-gitea-is-xtreme-hd-iptv-legal-best-iptv-server-3681b962.md) |
 | Gitea: JiXieShi/AutoOpenServer | partial | 2022-01-06T10:27:41Z | [open](../records/repository-workplaces-gitea-jixieshi-autoopenserver-b6d1b860.md) |
 | Gitea: kmpm/edit-server | partial | 2023-11-22T14:40:03Z | [open](../records/repository-workplaces-gitea-kmpm-edit-server-3083a1fa.md) |
 | Gitea: LivelyXuan/AOCserver | partial | 2026-05-10T08:27:00Z | [open](../records/repository-workplaces-gitea-livelyxuan-aocserver-f99e0d43.md) |

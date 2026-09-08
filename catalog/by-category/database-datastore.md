@@ -24,7 +24,7 @@ Records: `971`
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (632)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (620)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (489)](web-framework.md)
+[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (490)](web-framework.md)
 
 ## C99
 
@@ -187,7 +187,7 @@ Records: `971`
 | @sap/hana-database-explorer | 1.39.0 | 2026-06-25T14:42:46.669Z | [open](../records/node-js-javascript-sap-hana-database-explorer-afd40f71.md) |
 | @sap/hana-project-explorer | 1.38.0 | 2026-06-26T09:58:53.379Z | [open](../records/node-js-javascript-sap-hana-project-explorer-0180f7e1.md) |
 | @solumjs/database | 0.3.5 | 2026-08-27T08:28:33.613Z | [open](../records/node-js-javascript-solumjs-database-6399521b.md) |
-| @stacksjs/database | 0.74.29 | 2026-09-07T18:28:35.499Z | [open](../records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
+| @stacksjs/database | 0.74.31 | 2026-09-08T20:37:42.880Z | [open](../records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
 | @strapi/database | 5.52.3 | 2026-09-02T14:35:58.213Z | [open](../records/node-js-javascript-strapi-database-c0f9aa77.md) |
 | @supabase/realtime-js | 2.116.0 | 2026-09-07T16:30:14.946Z | [open](../records/node-js-javascript-supabase-realtime-js-a426c046.md) |
 | @synor/database-postgresql | 0.5.2 | 2021-03-05T07:14:43.605Z | [open](../records/node-js-javascript-synor-database-postgresql-694d4795.md) |
@@ -211,7 +211,7 @@ Records: `971`
 | classic-level | 3.0.0 | 2025-04-20T14:05:25.028Z | [open](../records/node-js-javascript-classic-level-f798fa64.md) |
 | codeceptjs-dbhelper | 1.2.2 | 2021-09-17T16:40:39.263Z | [open](../records/node-js-javascript-codeceptjs-dbhelper-2297da0e.md) |
 | cordova-plugin-dbcopy | 2.1.2 | 2018-11-15T14:26:44.984Z | [open](../records/node-js-javascript-cordova-plugin-dbcopy-42d5f1ec.md) |
-| dare | 0.101.1 | 2026-06-16T22:17:52.237Z | [open](../records/node-js-javascript-dare-b740d2f4.md) |
+| dare | 2.0.0 | 2026-09-08T20:48:43.256Z | [open](../records/node-js-javascript-dare-b740d2f4.md) |
 | database-cleaner | 1.3.0 | 2018-11-20T13:41:30.962Z | [open](../records/node-js-javascript-database-cleaner-099b24dc.md) |
 | database-js | 3.0.11 | 2021-06-05T15:22:03.169Z | [open](../records/node-js-javascript-database-js-df48cf98.md) |
 | database-js-common | 1.0.1 | 2018-10-23T19:27:36.967Z | [open](../records/node-js-javascript-database-js-common-bcacc2b7.md) |
@@ -391,7 +391,7 @@ Records: `971`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| gofr-dev/gofr | partial | 2026-09-08T11:52:36Z | [open](../records/go-gofr-dev-gofr-9cdbe495.md) |
+| gofr-dev/gofr | partial | 2026-09-08T21:52:41Z | [open](../records/go-gofr-dev-gofr-9cdbe495.md) |
 
 ## "aim's"
 
@@ -1174,7 +1174,7 @@ Records: `971`
 | Gitea: ziying/database | partial | 2026-06-03T05:06:54Z | [open](../records/repository-workplaces-gitea-ziying-database-e5dcf680.md) |
 | gitlab-org/advisories-community | partial | 2026-09-07T14:31:49.392Z | [open](../records/repository-workplaces-gitlab-org-advisories-community-621603ca.md) |
 | gitlab-org/analytics-section/siphon | partial | 2026-09-08T13:35:01.304Z | [open](../records/repository-workplaces-gitlab-org-analytics-section-siphon-6ac6dc22.md) |
-| kara.moe/karaokebase | partial | 2026-09-08T19:50:13.988Z | [open](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) |
+| kara.moe/karaokebase | partial | 2026-09-08T20:54:50.254Z | [open](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) |
 | postgres-ai/custom-images | partial | 2026-08-31T12:45:54.446Z | [open](../records/repository-workplaces-postgres-ai-custom-images-45d426ed.md) |
 | ProfaneDB/ProfaneDB | partial | 2021-08-10T13:32:11.702Z | [open](../records/repository-workplaces-profanedb-profanedb-135545c0.md) |
 | radiobrowser/radio-database | partial | 2026-09-08T15:19:25.787Z | [open](../records/repository-workplaces-radiobrowser-radio-database-bfa28291.md) |

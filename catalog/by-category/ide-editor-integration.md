@@ -24,7 +24,7 @@ Records: `1475`
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (632)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (620)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (489)](web-framework.md)
+[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (490)](web-framework.md)
 
 ## C++23
 
@@ -184,12 +184,12 @@ Records: `1475`
 | @harperfast/integration-testing | 0.7.1 | 2026-07-27T17:21:53.047Z | [open](../records/node-js-javascript-harperfast-integration-testing-74df7215.md) |
 | @innet/server | 2.0.1 | 2026-07-04T09:31:32.788Z | [open](../records/node-js-javascript-innet-server-6ee871cf.md) |
 | @jenkins-cd/logging | 0.0.6 | 2017-01-19T12:43:57.757Z | [open](../records/node-js-javascript-jenkins-cd-logging-8ea2f7b6.md) |
-| @launchdarkly/node-server-sdk | 9.13.1 | 2026-08-18T19:55:32.194Z | [open](../records/node-js-javascript-launchdarkly-node-server-sdk-ee82236b.md) |
+| @launchdarkly/node-server-sdk | 9.13.2 | 2026-09-08T20:27:34.338Z | [open](../records/node-js-javascript-launchdarkly-node-server-sdk-ee82236b.md) |
 | @launchdarkly/node-server-sdk-dynamodb | 6.2.37 | 2026-08-18T19:56:38.441Z | [open](../records/node-js-javascript-launchdarkly-node-server-sdk-dynamodb-3fac3645.md) |
-| @launchdarkly/node-server-sdk-redis | 4.2.36 | 2026-08-18T19:56:59.738Z | [open](../records/node-js-javascript-launchdarkly-node-server-sdk-redis-9016e0e8.md) |
+| @launchdarkly/node-server-sdk-redis | 4.2.37 | 2026-09-08T20:32:40.019Z | [open](../records/node-js-javascript-launchdarkly-node-server-sdk-redis-9016e0e8.md) |
 | @launchdarkly/openfeature-js-server-common | 2.0.0 | 2026-09-03T17:57:57.937Z | [open](../records/node-js-javascript-launchdarkly-openfeature-js-server-common-d3184ea6.md) |
-| @launchdarkly/openfeature-node-server | 2.0.0 | 2026-09-03T17:59:15.784Z | [open](../records/node-js-javascript-launchdarkly-openfeature-node-server-febef595.md) |
-| @launchdarkly/vercel-server-sdk | 1.3.55 | 2026-08-18T19:55:41.397Z | [open](../records/node-js-javascript-launchdarkly-vercel-server-sdk-18e8bdb3.md) |
+| @launchdarkly/openfeature-node-server | 2.0.1 | 2026-09-08T20:28:29.704Z | [open](../records/node-js-javascript-launchdarkly-openfeature-node-server-febef595.md) |
+| @launchdarkly/vercel-server-sdk | 1.3.56 | 2026-09-08T20:27:34.584Z | [open](../records/node-js-javascript-launchdarkly-vercel-server-sdk-18e8bdb3.md) |
 | @lit-labs/ssr-dom-shim | 1.6.0 | 2026-05-14T03:55:57.027Z | [open](../records/node-js-javascript-lit-labs-ssr-dom-shim-dbd88335.md) |
 | @lvce-editor/server | 0.114.2 | 2026-09-08T17:54:37.509Z | [open](../records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
 | @mixmark-io/domino | 2.2.0 | 2024-04-06T21:31:29.908Z | [open](../records/node-js-javascript-mixmark-io-domino-4b01c450.md) |
@@ -690,8 +690,8 @@ Records: `1475`
 | can1357/oh-my-pi | partial | 2026-09-08T18:42:10Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-05T16:04:02Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-08T09:09:34Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-08T21:07:49Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
-| mudler/LocalAI | partial | 2026-09-08T21:13:20Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-08T22:02:40Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| mudler/LocalAI | partial | 2026-09-08T22:05:09Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-08T16:35:00Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
 

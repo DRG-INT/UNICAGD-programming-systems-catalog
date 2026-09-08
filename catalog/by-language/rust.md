@@ -24,7 +24,7 @@ Records: `2183`
 [Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (138)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (337)](../by-category/security-sast.md) · [Serialization (400)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (632)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (620)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (68)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1627)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (561)](../by-category/visualization-gui.md) · [Web Framework (489)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1627)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (561)](../by-category/visualization-gui.md) · [Web Framework (490)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -237,7 +237,7 @@ Records: `2183`
 | [vergen](../records/rust-vergen-8d0fe53b.md) | 10.0.3 | 2026-08-24T16:17:36.406962Z | crates_io |
 | [winapi-build](../records/rust-winapi-build-bc198fcb.md) | 0.1.1 | 2015-12-16T00:01:49.263868Z | crates_io |
 | [xtask](../records/rust-xtask-ae1995a1.md) | unknown | not_checked | unverified_seed |
-| [zerocopy](../records/rust-zerocopy-3f1065c9.md) | 0.8.56 | 2026-08-06T11:23:48.879946Z | registry-derived |
+| [zerocopy](../records/rust-zerocopy-3f1065c9.md) | 0.8.57 | 2026-09-08T21:40:04.359293Z | registry-derived |
 
 ### Cli
 
@@ -1902,7 +1902,7 @@ Records: `2183`
 | [webbrowser](../records/rust-webbrowser-777145a6.md) | 1.2.4 | 2026-08-05T03:28:17.562974Z | crates_io |
 | [wit-bindgen-rust-macro](../records/rust-wit-bindgen-rust-macro-cca55f9a.md) | 0.61.1 | 2026-08-25T15:28:18.101083Z | registry-derived |
 | [ws2_32-sys](../records/rust-ws2-32-sys-47006ac3.md) | 0.2.1 | 2015-12-16T00:01:49.263868Z | crates_io |
-| [zerocopy-derive](../records/rust-zerocopy-derive-1c802855.md) | 0.8.56 | 2026-08-06T11:23:42.731160Z | registry-derived |
+| [zerocopy-derive](../records/rust-zerocopy-derive-1c802855.md) | 0.8.57 | 2026-09-08T21:38:57.303657Z | registry-derived |
 | [zerofrom](../records/rust-zerofrom-3a28c5ea.md) | 0.1.8 | 2026-05-12T09:08:18.380489Z | registry-derived |
 
 ### Math Numeric Scientific
@@ -2006,7 +2006,7 @@ Records: `2183`
 | [pnet_sys](../records/rust-pnet-sys-9ff4c3c2.md) | 0.35.0 | 2024-05-30T17:52:05.415208Z | crates_io |
 | [prometheus-client](../records/rust-prometheus-client-7b962e35.md) | 0.25.0 | 2026-06-15T06:46:37.940995Z | crates_io |
 | [prometheus-client-derive-encode](../records/rust-prometheus-client-derive-encode-c152e554.md) | 0.5.0 | 2025-08-15T12:23:26.594573Z | crates_io |
-| [reqwest](../records/rust-reqwest-bfbc7c8f.md) | 0.13.4 | 2026-05-25T17:12:48.317444Z | catalog_seed |
+| [reqwest](../records/rust-reqwest-bfbc7c8f.md) | 0.13.5 | 2026-09-08T20:55:26.479356Z | catalog_seed |
 | [reqwest-middleware](../records/rust-reqwest-middleware-5087771a.md) | 0.5.2 | 2026-05-19T15:11:50.613768Z | registry-derived |
 | [rtnetlink](../records/rust-rtnetlink-68c12b50.md) | 0.23.0 | 2026-08-18T09:11:44.507732Z | crates_io |
 | [sentry](../records/rust-sentry-c24af97e.md) | 0.49.2 | 2026-08-26T14:42:50.483766Z | crates_io |

@@ -24,7 +24,7 @@ Records: `2425`
 [Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (138)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (337)](../by-category/security-sast.md) · [Serialization (400)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (632)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (620)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (68)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1627)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (561)](../by-category/visualization-gui.md) · [Web Framework (489)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1627)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (561)](../by-category/visualization-gui.md) · [Web Framework (490)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -385,10 +385,10 @@ Records: `2425`
 | [@fallow-cli/linux-x64-gnu](../records/node-js-javascript-fallow-cli-linux-x64-gnu-c24edc1b.md) | 3.23.0 | 2026-09-07T11:50:14.156Z | registry-derived |
 | [@fallow-cli/linux-x64-musl](../records/node-js-javascript-fallow-cli-linux-x64-musl-ad0f87bf.md) | 3.23.0 | 2026-09-07T11:48:24.916Z | registry-derived |
 | [@farmfe/cli](../records/node-js-javascript-farmfe-cli-0b309d0f.md) | 1.0.5 | 2025-06-22T04:53:28.320Z | registry-derived |
-| [@fragment-dev/cli](../records/node-js-javascript-fragment-dev-cli-b4d175cf.md) | 2026.9.8-7 | 2026-09-08T20:00:56.173Z | registry-derived |
+| [@fragment-dev/cli](../records/node-js-javascript-fragment-dev-cli-b4d175cf.md) | 2026.9.8-11 | 2026-09-08T22:02:29.956Z | registry-derived |
 | [@gltf-transform/cli](../records/node-js-javascript-gltf-transform-cli-56392446.md) | 4.5.0 | 2026-09-01T00:43:18.551Z | registry-derived |
-| [@google/gemini-cli](../records/node-js-javascript-google-gemini-cli-c3ee3b5d.md) | 0.58.0 | 2026-09-01T20:50:39.295Z | registry-derived |
-| [@google/gemini-cli-core](../records/node-js-javascript-google-gemini-cli-core-7db4739b.md) | 0.58.0 | 2026-09-01T20:50:54.396Z | registry-derived |
+| [@google/gemini-cli](../records/node-js-javascript-google-gemini-cli-c3ee3b5d.md) | 0.59.0 | 2026-09-08T21:19:17.301Z | registry-derived |
+| [@google/gemini-cli-core](../records/node-js-javascript-google-gemini-cli-core-7db4739b.md) | 0.59.0 | 2026-09-08T21:13:36.100Z | registry-derived |
 | [@googleworkspace/cli](../records/node-js-javascript-googleworkspace-cli-61e43374.md) | 0.22.5 | 2026-03-31T18:53:36.509Z | registry-derived |
 | [@gql.tada/cli-utils](../records/node-js-javascript-gql-tada-cli-utils-5273b9c0.md) | 1.9.3 | 2026-07-25T14:36:46.564Z | registry-derived |
 | [@graphql-hive/cli](../records/node-js-javascript-graphql-hive-cli-d8cf3b01.md) | 0.63.1 | 2026-09-08T12:03:57.128Z | registry-derived |
@@ -399,8 +399,8 @@ Records: `2425`
 | [@ionic/cli-framework](../records/node-js-javascript-ionic-cli-framework-f85b9b0b.md) | 6.0.1 | 2023-12-19T22:38:46.385Z | registry-derived |
 | [@ionic/cli-framework-output](../records/node-js-javascript-ionic-cli-framework-output-8324bb8a.md) | 2.2.8 | 2023-12-19T22:38:35.365Z | registry-derived |
 | [@ionic/cli-framework-prompts](../records/node-js-javascript-ionic-cli-framework-prompts-5599c31f.md) | 2.1.13 | 2023-12-19T22:38:35.436Z | registry-derived |
-| [@knocklabs/cli](../records/node-js-javascript-knocklabs-cli-62154908.md) | 1.2.3 | 2026-08-13T15:12:15.170Z | registry-derived |
-| [@lightdash/cli](../records/node-js-javascript-lightdash-cli-ba24b859.md) | 2.167.0 | 2026-09-08T19:57:00.720Z | registry-derived |
+| [@knocklabs/cli](../records/node-js-javascript-knocklabs-cli-62154908.md) | 1.3.0 | 2026-09-08T20:53:10.588Z | registry-derived |
+| [@lightdash/cli](../records/node-js-javascript-lightdash-cli-ba24b859.md) | 2.167.1 | 2026-09-08T21:11:14.476Z | registry-derived |
 | [@lingui/cli](../records/node-js-javascript-lingui-cli-343f33ec.md) | 6.6.0 | 2026-07-24T13:52:53.439Z | registry-derived |
 | [@maizzle/cli](../records/node-js-javascript-maizzle-cli-a7a13457.md) | 2.0.0 | 2024-12-16T17:59:24.900Z | registry-derived |
 | [@marp-team/marp-cli](../records/node-js-javascript-marp-team-marp-cli-b69e1548.md) | 4.5.0 | 2026-07-17T23:07:09.399Z | registry-derived |
@@ -655,7 +655,7 @@ Records: `2425`
 | [@sap/hana-database-explorer](../records/node-js-javascript-sap-hana-database-explorer-afd40f71.md) | 1.39.0 | 2026-06-25T14:42:46.669Z | registry-derived |
 | [@sap/hana-project-explorer](../records/node-js-javascript-sap-hana-project-explorer-0180f7e1.md) | 1.38.0 | 2026-06-26T09:58:53.379Z | registry-derived |
 | [@solumjs/database](../records/node-js-javascript-solumjs-database-6399521b.md) | 0.3.5 | 2026-08-27T08:28:33.613Z | registry-derived |
-| [@stacksjs/database](../records/node-js-javascript-stacksjs-database-6ccea6c0.md) | 0.74.29 | 2026-09-07T18:28:35.499Z | registry-derived |
+| [@stacksjs/database](../records/node-js-javascript-stacksjs-database-6ccea6c0.md) | 0.74.31 | 2026-09-08T20:37:42.880Z | registry-derived |
 | [@strapi/database](../records/node-js-javascript-strapi-database-c0f9aa77.md) | 5.52.3 | 2026-09-02T14:35:58.213Z | registry-derived |
 | [@supabase/realtime-js](../records/node-js-javascript-supabase-realtime-js-a426c046.md) | 2.116.0 | 2026-09-07T16:30:14.946Z | registry-derived |
 | [@synor/database-postgresql](../records/node-js-javascript-synor-database-postgresql-694d4795.md) | 0.5.2 | 2021-03-05T07:14:43.605Z | registry-derived |
@@ -679,7 +679,7 @@ Records: `2425`
 | [classic-level](../records/node-js-javascript-classic-level-f798fa64.md) | 3.0.0 | 2025-04-20T14:05:25.028Z | registry-derived |
 | [codeceptjs-dbhelper](../records/node-js-javascript-codeceptjs-dbhelper-2297da0e.md) | 1.2.2 | 2021-09-17T16:40:39.263Z | registry-derived |
 | [cordova-plugin-dbcopy](../records/node-js-javascript-cordova-plugin-dbcopy-42d5f1ec.md) | 2.1.2 | 2018-11-15T14:26:44.984Z | registry-derived |
-| [dare](../records/node-js-javascript-dare-b740d2f4.md) | 0.101.1 | 2026-06-16T22:17:52.237Z | registry-derived |
+| [dare](../records/node-js-javascript-dare-b740d2f4.md) | 2.0.0 | 2026-09-08T20:48:43.256Z | registry-derived |
 | [database-cleaner](../records/node-js-javascript-database-cleaner-099b24dc.md) | 1.3.0 | 2018-11-20T13:41:30.962Z | registry-derived |
 | [database-js](../records/node-js-javascript-database-js-df48cf98.md) | 3.0.11 | 2021-06-05T15:22:03.169Z | registry-derived |
 | [database-js-common](../records/node-js-javascript-database-js-common-bcacc2b7.md) | 1.0.1 | 2018-10-23T19:27:36.967Z | registry-derived |
@@ -1032,12 +1032,12 @@ Records: `2425`
 | [@harperfast/integration-testing](../records/node-js-javascript-harperfast-integration-testing-74df7215.md) | 0.7.1 | 2026-07-27T17:21:53.047Z | registry-derived |
 | [@innet/server](../records/node-js-javascript-innet-server-6ee871cf.md) | 2.0.1 | 2026-07-04T09:31:32.788Z | registry-derived |
 | [@jenkins-cd/logging](../records/node-js-javascript-jenkins-cd-logging-8ea2f7b6.md) | 0.0.6 | 2017-01-19T12:43:57.757Z | npm_registry |
-| [@launchdarkly/node-server-sdk](../records/node-js-javascript-launchdarkly-node-server-sdk-ee82236b.md) | 9.13.1 | 2026-08-18T19:55:32.194Z | registry-derived |
+| [@launchdarkly/node-server-sdk](../records/node-js-javascript-launchdarkly-node-server-sdk-ee82236b.md) | 9.13.2 | 2026-09-08T20:27:34.338Z | registry-derived |
 | [@launchdarkly/node-server-sdk-dynamodb](../records/node-js-javascript-launchdarkly-node-server-sdk-dynamodb-3fac3645.md) | 6.2.37 | 2026-08-18T19:56:38.441Z | registry-derived |
-| [@launchdarkly/node-server-sdk-redis](../records/node-js-javascript-launchdarkly-node-server-sdk-redis-9016e0e8.md) | 4.2.36 | 2026-08-18T19:56:59.738Z | registry-derived |
+| [@launchdarkly/node-server-sdk-redis](../records/node-js-javascript-launchdarkly-node-server-sdk-redis-9016e0e8.md) | 4.2.37 | 2026-09-08T20:32:40.019Z | registry-derived |
 | [@launchdarkly/openfeature-js-server-common](../records/node-js-javascript-launchdarkly-openfeature-js-server-common-d3184ea6.md) | 2.0.0 | 2026-09-03T17:57:57.937Z | registry-derived |
-| [@launchdarkly/openfeature-node-server](../records/node-js-javascript-launchdarkly-openfeature-node-server-febef595.md) | 2.0.0 | 2026-09-03T17:59:15.784Z | registry-derived |
-| [@launchdarkly/vercel-server-sdk](../records/node-js-javascript-launchdarkly-vercel-server-sdk-18e8bdb3.md) | 1.3.55 | 2026-08-18T19:55:41.397Z | registry-derived |
+| [@launchdarkly/openfeature-node-server](../records/node-js-javascript-launchdarkly-openfeature-node-server-febef595.md) | 2.0.1 | 2026-09-08T20:28:29.704Z | registry-derived |
+| [@launchdarkly/vercel-server-sdk](../records/node-js-javascript-launchdarkly-vercel-server-sdk-18e8bdb3.md) | 1.3.56 | 2026-09-08T20:27:34.584Z | registry-derived |
 | [@lit-labs/ssr-dom-shim](../records/node-js-javascript-lit-labs-ssr-dom-shim-dbd88335.md) | 1.6.0 | 2026-05-14T03:55:57.027Z | registry-derived |
 | [@lvce-editor/server](../records/node-js-javascript-lvce-editor-server-2144b1dd.md) | 0.114.2 | 2026-09-08T17:54:37.509Z | registry-derived |
 | [@mixmark-io/domino](../records/node-js-javascript-mixmark-io-domino-4b01c450.md) | 2.2.0 | 2024-04-06T21:31:29.908Z | registry-derived |
@@ -1112,7 +1112,7 @@ Records: `2425`
 | [@eslint/markdown](../records/node-js-javascript-eslint-markdown-397a0750.md) | 8.0.3 | 2026-07-01T13:28:44.339Z | npm_registry |
 | [@github/copilot-language-server-darwin-arm64](../records/node-js-javascript-github-copilot-language-server-darwin-arm64-20bcc86b.md) | 1.543.0 | 2026-09-08T18:01:15.990Z | registry-derived |
 | [@github/copilot-language-server-linux-x64](../records/node-js-javascript-github-copilot-language-server-linux-x64-02307b0b.md) | 1.543.0 | 2026-09-08T18:02:14.190Z | registry-derived |
-| [@github/copilot-language-server-win32-x64](../records/node-js-javascript-github-copilot-language-server-win32-x64-bfb04d01.md) | 1.541.0 | 2026-09-04T22:43:59.468Z | registry-derived |
+| [@github/copilot-language-server-win32-x64](../records/node-js-javascript-github-copilot-language-server-win32-x64-bfb04d01.md) | 1.543.0 | 2026-09-08T18:09:07.328Z | registry-derived |
 | [@ksmithut/prettier-standard](../records/node-js-javascript-ksmithut-prettier-standard-6a3869d4.md) | 0.2.0 | 2023-10-17T02:41:25.662Z | npm_registry |
 | [@locker/shared](../records/node-js-javascript-locker-shared-c4a9bfa0.md) | 0.27.9 | 2026-08-31T20:02:13.460Z | npm_registry |
 | [@nezam.ai/runtime-js-database](../records/node-js-javascript-nezam-ai-runtime-js-database-4e22a0f7.md) | 0.1.5 | 2026-08-16T08:38:50.876Z | registry-derived |
@@ -1661,7 +1661,7 @@ Records: `2425`
 | [@replit/database](../records/node-js-javascript-replit-database-0043e0f4.md) | 3.0.1 | 2024-04-15T20:42:25.524Z | registry-derived |
 | [@sap-cloud-sdk/http-client](../records/node-js-javascript-sap-cloud-sdk-http-client-39685909.md) | 4.9.1 | 2026-08-25T09:53:33.332Z | registry-derived |
 | [@solana/rpc-transport-http](../records/node-js-javascript-solana-rpc-transport-http-9bf28267.md) | 8.2.0 | 2026-08-29T12:47:35.422Z | registry-derived |
-| [@stacksjs/http](../records/node-js-javascript-stacksjs-http-63b8b8cd.md) | 0.74.29 | 2026-09-07T18:18:11.719Z | registry-derived |
+| [@stacksjs/http](../records/node-js-javascript-stacksjs-http-63b8b8cd.md) | 0.74.31 | 2026-09-08T20:30:09.484Z | registry-derived |
 | [@szmarczak/http-timer](../records/node-js-javascript-szmarczak-http-timer-6c6c6722.md) | 5.0.1 | 2021-08-20T23:26:11.251Z | registry-derived |
 | [@taquito/http-utils](../records/node-js-javascript-taquito-http-utils-f75d23ea.md) | 25.0.0 | 2026-06-29T16:13:55.600Z | registry-derived |
 | [@tmcp/transport-http](../records/node-js-javascript-tmcp-transport-http-2f7c157d.md) | 0.9.0 | 2026-08-14T12:55:32.461Z | registry-derived |
@@ -2262,7 +2262,7 @@ Records: `2425`
 | [@smithers-orchestrator/testing](../records/node-js-javascript-smithers-orchestrator-testing-7a34dd66.md) | 0.32.0 | 2026-08-01T05:00:36.872Z | registry-derived |
 | [@smthrs/testing](../records/node-js-javascript-smthrs-testing-35159f03.md) | 0.35.0 | 2026-08-17T20:35:48.555Z | registry-derived |
 | [@solidjs/testing-library](../records/node-js-javascript-solidjs-testing-library-4973b45e.md) | 0.8.10 | 2024-09-25T13:24:08.486Z | registry-derived |
-| [@stacksjs/testing](../records/node-js-javascript-stacksjs-testing-57469937.md) | 0.74.29 | 2026-09-07T18:25:12.114Z | registry-derived |
+| [@stacksjs/testing](../records/node-js-javascript-stacksjs-testing-57469937.md) | 0.74.31 | 2026-09-08T20:36:41.580Z | registry-derived |
 | [@storm-software/testing-tools](../records/node-js-javascript-storm-software-testing-tools-3111101a.md) | 1.119.287 | 2026-09-06T05:19:32.185Z | registry-derived |
 | [@storybook/addon-vitest](../records/node-js-javascript-storybook-addon-vitest-61ff1281.md) | 10.6.0 | 2026-09-02T13:59:28.767Z | registry-derived |
 | [@storybook/cli](../records/node-js-javascript-storybook-cli-04f8ce22.md) | 10.6.0 | 2026-09-02T14:01:45.695Z | registry-derived |
@@ -2370,7 +2370,7 @@ Records: `2425`
 | [neon-testing](../records/node-js-javascript-neon-testing-03fdcc58.md) | 3.0.1 | 2026-08-14T19:19:26.164Z | registry-derived |
 | [ngx-translate-testing](../records/node-js-javascript-ngx-translate-testing-45664b62.md) | 7.0.0 | 2023-06-10T12:32:20.605Z | registry-derived |
 | [node-mocks-http](../records/node-js-javascript-node-mocks-http-5a34d793.md) | 1.18.1 | 2026-07-16T21:25:09.103Z | registry-derived |
-| [node-opcua-address-space-for-conformance-testing](../records/node-js-javascript-node-opcua-address-space-for-conformance-testing-e25f7a6d.md) | 2.182.0 | 2026-09-08T11:45:01.612Z | registry-derived |
+| [node-opcua-address-space-for-conformance-testing](../records/node-js-javascript-node-opcua-address-space-for-conformance-testing-e25f7a6d.md) | 2.182.2 | 2026-09-08T21:31:44.574Z | registry-derived |
 | [oauth2-mock-server](../records/node-js-javascript-oauth2-mock-server-20f3c489.md) | 9.1.0 | 2026-06-30T09:59:08.498Z | registry-derived |
 | [oauth2-server](../records/node-js-javascript-oauth2-server-6670efea.md) | 3.1.1 | 2020-07-14T18:27:11.508Z | registry-derived |
 | [ospec](../records/node-js-javascript-ospec-f0172c41.md) | 4.2.1 | 2024-09-02T16:24:31.235Z | registry-derived |
@@ -2526,7 +2526,7 @@ Records: `2425`
 | [@hono/vite-dev-server](../records/node-js-javascript-hono-vite-dev-server-e0c72d5b.md) | 0.26.1 | 2026-07-11T04:05:00.157Z | registry-derived |
 | [@koishijs/plugin-server](../records/node-js-javascript-koishijs-plugin-server-9a9e631a.md) | 3.2.9 | 2026-02-27T21:00:53.554Z | registry-derived |
 | [@lancedb/lancedb](../records/node-js-javascript-lancedb-lancedb-b1aa28e9.md) | 0.38.0 | 2026-08-31T08:31:16.264Z | registry-derived |
-| [@launchdarkly/js-server-sdk-common](../records/node-js-javascript-launchdarkly-js-server-sdk-common-321e695d.md) | 2.20.1 | 2026-08-18T19:55:04.935Z | registry-derived |
+| [@launchdarkly/js-server-sdk-common](../records/node-js-javascript-launchdarkly-js-server-sdk-common-321e695d.md) | 2.21.0 | 2026-09-08T20:29:28.817Z | registry-derived |
 | [@launchdarkly/js-server-sdk-common-edge](../records/node-js-javascript-launchdarkly-js-server-sdk-common-edge-04bd7216.md) | 2.6.28 | 2026-08-18T19:54:18.515Z | registry-derived |
 | [@liff/server-api](../records/node-js-javascript-liff-server-api-7488dbd8.md) | 2.31.0 | 2026-08-31T02:45:10.018Z | registry-derived |
 | [@loadable/server](../records/node-js-javascript-loadable-server-04f8fed4.md) | 5.16.7 | 2025-05-18T01:22:53.335Z | registry-derived |
@@ -2573,14 +2573,14 @@ Records: `2425`
 | [@supabase/mcp-server-supabase](../records/node-js-javascript-supabase-mcp-server-supabase-7cd0f08b.md) | 0.12.0 | 2026-09-04T13:33:08.786Z | registry-derived |
 | [@tanstack/react-start-rsc](../records/node-js-javascript-tanstack-react-start-rsc-cf26d1f1.md) | 0.1.49 | 2026-09-06T21:27:37.543Z | registry-derived |
 | [@toolbox-sdk/server](../records/node-js-javascript-toolbox-sdk-server-6410dd9c.md) | 1.10.0 | 2026-08-28T22:23:29.204Z | registry-derived |
-| [@transcend-io/mcp-server-admin](../records/node-js-javascript-transcend-io-mcp-server-admin-c732016b.md) | 0.6.10 | 2026-09-03T19:27:15.067Z | registry-derived |
-| [@transcend-io/mcp-server-assessment](../records/node-js-javascript-transcend-io-mcp-server-assessment-fa3a076f.md) | 0.5.30 | 2026-09-03T19:28:52.130Z | registry-derived |
+| [@transcend-io/mcp-server-admin](../records/node-js-javascript-transcend-io-mcp-server-admin-c732016b.md) | 1.0.0 | 2026-09-08T20:40:44.987Z | registry-derived |
+| [@transcend-io/mcp-server-assessment](../records/node-js-javascript-transcend-io-mcp-server-assessment-fa3a076f.md) | 1.0.0 | 2026-09-08T20:43:22.707Z | registry-derived |
 | [@transcend-io/mcp-server-consent](../records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) | 0.9.6 | 2026-09-03T19:27:15.694Z | registry-derived |
 | [@transcend-io/mcp-server-discovery](../records/node-js-javascript-transcend-io-mcp-server-discovery-87735bfc.md) | 0.5.30 | 2026-09-03T19:27:15.450Z | registry-derived |
 | [@transcend-io/mcp-server-dsr](../records/node-js-javascript-transcend-io-mcp-server-dsr-76f6cb8b.md) | 0.8.10 | 2026-09-03T19:27:15.159Z | registry-derived |
 | [@transcend-io/mcp-server-inventory](../records/node-js-javascript-transcend-io-mcp-server-inventory-9bc583b1.md) | 0.7.10 | 2026-09-03T19:27:20.713Z | registry-derived |
 | [@transcend-io/mcp-server-preferences](../records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) | 0.7.2 | 2026-09-03T19:28:16.509Z | registry-derived |
-| [@transcend-io/mcp-server-workflows](../records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) | 0.5.30 | 2026-09-03T19:27:20.967Z | registry-derived |
+| [@transcend-io/mcp-server-workflows](../records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) | 1.0.0 | 2026-09-08T20:40:50.701Z | registry-derived |
 | [@trpc/server](../records/node-js-javascript-trpc-server-02b69ad5.md) | 11.18.0 | 2026-06-17T22:48:25.078Z | registry-derived |
 | [@turnkey/sdk-server](../records/node-js-javascript-turnkey-sdk-server-330a2b7d.md) | 8.4.0 | 2026-09-04T15:40:30.545Z | registry-derived |
 | [@ui5/mcp-server](../records/node-js-javascript-ui5-mcp-server-ed5f5678.md) | 0.2.18 | 2026-08-13T09:15:38.219Z | registry-derived |

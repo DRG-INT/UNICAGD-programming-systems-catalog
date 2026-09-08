@@ -24,7 +24,7 @@ Records: `391`
 [Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (138)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (337)](../by-category/security-sast.md) · [Serialization (400)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (632)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (620)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (68)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1627)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (561)](../by-category/visualization-gui.md) · [Web Framework (489)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1627)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (561)](../by-category/visualization-gui.md) · [Web Framework (490)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -453,7 +453,7 @@ Records: `391`
 | [md5-typescript](../records/node-js-typescript-md5-typescript-3633f93c.md) | 1.0.5 | 2018-03-03T21:58:24.332Z | registry-derived |
 | [micromark-util-types](../records/node-js-typescript-micromark-util-types-8da1b855.md) | 2.0.2 | 2025-02-27T13:55:27.982Z | registry-derived |
 | [nexus-rpc](../records/node-js-typescript-nexus-rpc-8f3a0a84.md) | 0.0.3 | 2026-08-21T16:35:16.060Z | registry-derived |
-| [openai](../records/node-js-typescript-openai-c47e8332.md) | 7.9.0 | 2026-09-02T01:39:46.214Z | registry-derived |
+| [openai](../records/node-js-typescript-openai-c47e8332.md) | 7.10.0 | 2026-09-03T19:56:42.360Z | registry-derived |
 | [openapi-typescript](../records/node-js-typescript-openapi-typescript-ae833e82.md) | 7.13.0 | 2026-02-11T16:02:25.378Z | registry-derived |
 | [openapi-typescript-fetch](../records/node-js-typescript-openapi-typescript-fetch-82e29fd9.md) | 2.2.1 | 2025-06-26T02:27:27.256Z | registry-derived |
 | [openapi-typescript-helpers](../records/node-js-typescript-openapi-typescript-helpers-2b830c8e.md) | 0.1.0 | 2026-02-11T16:02:17.105Z | registry-derived |

@@ -24,7 +24,7 @@ Records: `315`
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (632)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (620)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · **[Type Checker (315)](type-checker.md)**
-[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (489)](web-framework.md)
+[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (490)](web-framework.md)
 
 ## Python
 
@@ -214,7 +214,7 @@ Records: `315`
 | md5-typescript | 1.0.5 | 2018-03-03T21:58:24.332Z | [open](../records/node-js-typescript-md5-typescript-3633f93c.md) |
 | micromark-util-types | 2.0.2 | 2025-02-27T13:55:27.982Z | [open](../records/node-js-typescript-micromark-util-types-8da1b855.md) |
 | nexus-rpc | 0.0.3 | 2026-08-21T16:35:16.060Z | [open](../records/node-js-typescript-nexus-rpc-8f3a0a84.md) |
-| openai | 7.9.0 | 2026-09-02T01:39:46.214Z | [open](../records/node-js-typescript-openai-c47e8332.md) |
+| openai | 7.10.0 | 2026-09-03T19:56:42.360Z | [open](../records/node-js-typescript-openai-c47e8332.md) |
 | openapi-typescript | 7.13.0 | 2026-02-11T16:02:25.378Z | [open](../records/node-js-typescript-openapi-typescript-ae833e82.md) |
 | openapi-typescript-fetch | 2.2.1 | 2025-06-26T02:27:27.256Z | [open](../records/node-js-typescript-openapi-typescript-fetch-82e29fd9.md) |
 | openapi-typescript-helpers | 0.1.0 | 2026-02-11T16:02:17.105Z | [open](../records/node-js-typescript-openapi-typescript-helpers-2b830c8e.md) |
@@ -314,7 +314,7 @@ Records: `315`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-08T21:18:37Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | partial | 2026-09-08T22:19:32Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Computer Graphics Software
 

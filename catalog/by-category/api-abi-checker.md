@@ -24,7 +24,7 @@ Records: `224`
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (632)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (620)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (489)](web-framework.md)
+[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (490)](web-framework.md)
 
 ## C99
 
@@ -186,7 +186,7 @@ Records: `224`
 | hls-plugin-api | 2.15.0.0 | 2026-09-04T10:38:10Z | [open](../records/haskell-hls-plugin-api-d1d79e30.md) |
 | hspec-api | 2.11.17 | 2026-03-04T18:02:10Z | [open](../records/haskell-hspec-api-3cd9511e.md) |
 | keel-abi | 0.1.1.0 | 2026-09-03T12:55:26Z | [open](../records/haskell-keel-abi-d416a882.md) |
-| kioku-api | 0.5.2.0 | 2026-09-01T03:54:32Z | [open](../records/haskell-kioku-api-ebf3c8b4.md) |
+| kioku-api | 0.6.0.0 | 2026-09-08T20:45:22Z | [open](../records/haskell-kioku-api-ebf3c8b4.md) |
 | telegram-api | 0.7.2.0 | 2018-01-22T04:42:45Z | [open](../records/haskell-telegram-api-b35e4b3f.md) |
 
 ## Dart

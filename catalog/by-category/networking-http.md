@@ -24,7 +24,7 @@ Records: `1053`
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (632)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (620)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (489)](web-framework.md)
+[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (490)](web-framework.md)
 
 ## C99
 
@@ -121,7 +121,7 @@ Records: `1053`
 | pnet_sys | 0.35.0 | 2024-05-30T17:52:05.415208Z | [open](../records/rust-pnet-sys-9ff4c3c2.md) |
 | prometheus-client | 0.25.0 | 2026-06-15T06:46:37.940995Z | [open](../records/rust-prometheus-client-7b962e35.md) |
 | prometheus-client-derive-encode | 0.5.0 | 2025-08-15T12:23:26.594573Z | [open](../records/rust-prometheus-client-derive-encode-c152e554.md) |
-| reqwest | 0.13.4 | 2026-05-25T17:12:48.317444Z | [open](../records/rust-reqwest-bfbc7c8f.md) |
+| reqwest | 0.13.5 | 2026-09-08T20:55:26.479356Z | [open](../records/rust-reqwest-bfbc7c8f.md) |
 | reqwest-middleware | 0.5.2 | 2026-05-19T15:11:50.613768Z | [open](../records/rust-reqwest-middleware-5087771a.md) |
 | rtnetlink | 0.23.0 | 2026-08-18T09:11:44.507732Z | [open](../records/rust-rtnetlink-68c12b50.md) |
 | sentry | 0.49.2 | 2026-08-26T14:42:50.483766Z | [open](../records/rust-sentry-c24af97e.md) |
@@ -332,7 +332,7 @@ Records: `1053`
 | @replit/database | 3.0.1 | 2024-04-15T20:42:25.524Z | [open](../records/node-js-javascript-replit-database-0043e0f4.md) |
 | @sap-cloud-sdk/http-client | 4.9.1 | 2026-08-25T09:53:33.332Z | [open](../records/node-js-javascript-sap-cloud-sdk-http-client-39685909.md) |
 | @solana/rpc-transport-http | 8.2.0 | 2026-08-29T12:47:35.422Z | [open](../records/node-js-javascript-solana-rpc-transport-http-9bf28267.md) |
-| @stacksjs/http | 0.74.29 | 2026-09-07T18:18:11.719Z | [open](../records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
+| @stacksjs/http | 0.74.31 | 2026-09-08T20:30:09.484Z | [open](../records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
 | @szmarczak/http-timer | 5.0.1 | 2021-08-20T23:26:11.251Z | [open](../records/node-js-javascript-szmarczak-http-timer-6c6c6722.md) |
 | @taquito/http-utils | 25.0.0 | 2026-06-29T16:13:55.600Z | [open](../records/node-js-javascript-taquito-http-utils-f75d23ea.md) |
 | @tmcp/transport-http | 0.9.0 | 2026-08-14T12:55:32.461Z | [open](../records/node-js-javascript-tmcp-transport-http-2f7c157d.md) |

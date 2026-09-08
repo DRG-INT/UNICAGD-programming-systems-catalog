@@ -34,7 +34,7 @@ clients/servers, protocol handling, and edge integration.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 0.13.4 | 2026-05-25T17:12:48.317444Z | [https://crates.io/api/v1/crates?page=2&per_page=100&sort=downloads](https://crates.io/api/v1/crates?page=2&per_page=100&sort=downloads) |  |
+| stable | known | 0.13.5 | 2026-09-08T20:55:26.479356Z | [https://crates.io/api/v1/crates?page=2&per_page=100&sort=downloads](https://crates.io/api/v1/crates?page=2&per_page=100&sort=downloads) |  |
 | preview/nightly | unknown |  |  | unknown | not_checked |
 
 ## License And Use Alert
@@ -49,7 +49,7 @@ clients/servers, protocol handling, and edge integration.
 
 - Treat category as `networking_http` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://crates.io/api/v1/crates?page=2&per_page=100&sort=downloads` at `2026-09-01T07:19:26+00:00`.
+- Latest stable metadata was observed from `https://crates.io/api/v1/crates?page=2&per_page=100&sort=downloads` at `2026-09-08T22:19:09+00:00`.
 - Preview/nightly metadata is unknown because `not_checked`.
 
 ## Provenance
@@ -107,4 +107,4 @@ Evidence records merged into this identity: `2`.
 [Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (138)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (337)](../by-category/security-sast.md) · [Serialization (400)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (632)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (620)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (68)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1627)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (561)](../by-category/visualization-gui.md) · [Web Framework (489)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1627)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (561)](../by-category/visualization-gui.md) · [Web Framework (490)](../by-category/web-framework.md)

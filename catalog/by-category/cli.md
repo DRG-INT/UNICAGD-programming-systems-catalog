@@ -24,7 +24,7 @@ Records: `571`
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (632)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (620)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (489)](web-framework.md)
+[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (490)](web-framework.md)
 
 ## C++23
 
@@ -293,10 +293,10 @@ Records: `571`
 | @fallow-cli/linux-x64-gnu | 3.23.0 | 2026-09-07T11:50:14.156Z | [open](../records/node-js-javascript-fallow-cli-linux-x64-gnu-c24edc1b.md) |
 | @fallow-cli/linux-x64-musl | 3.23.0 | 2026-09-07T11:48:24.916Z | [open](../records/node-js-javascript-fallow-cli-linux-x64-musl-ad0f87bf.md) |
 | @farmfe/cli | 1.0.5 | 2025-06-22T04:53:28.320Z | [open](../records/node-js-javascript-farmfe-cli-0b309d0f.md) |
-| @fragment-dev/cli | 2026.9.8-7 | 2026-09-08T20:00:56.173Z | [open](../records/node-js-javascript-fragment-dev-cli-b4d175cf.md) |
+| @fragment-dev/cli | 2026.9.8-11 | 2026-09-08T22:02:29.956Z | [open](../records/node-js-javascript-fragment-dev-cli-b4d175cf.md) |
 | @gltf-transform/cli | 4.5.0 | 2026-09-01T00:43:18.551Z | [open](../records/node-js-javascript-gltf-transform-cli-56392446.md) |
-| @google/gemini-cli | 0.58.0 | 2026-09-01T20:50:39.295Z | [open](../records/node-js-javascript-google-gemini-cli-c3ee3b5d.md) |
-| @google/gemini-cli-core | 0.58.0 | 2026-09-01T20:50:54.396Z | [open](../records/node-js-javascript-google-gemini-cli-core-7db4739b.md) |
+| @google/gemini-cli | 0.59.0 | 2026-09-08T21:19:17.301Z | [open](../records/node-js-javascript-google-gemini-cli-c3ee3b5d.md) |
+| @google/gemini-cli-core | 0.59.0 | 2026-09-08T21:13:36.100Z | [open](../records/node-js-javascript-google-gemini-cli-core-7db4739b.md) |
 | @googleworkspace/cli | 0.22.5 | 2026-03-31T18:53:36.509Z | [open](../records/node-js-javascript-googleworkspace-cli-61e43374.md) |
 | @gql.tada/cli-utils | 1.9.3 | 2026-07-25T14:36:46.564Z | [open](../records/node-js-javascript-gql-tada-cli-utils-5273b9c0.md) |
 | @graphql-hive/cli | 0.63.1 | 2026-09-08T12:03:57.128Z | [open](../records/node-js-javascript-graphql-hive-cli-d8cf3b01.md) |
@@ -307,8 +307,8 @@ Records: `571`
 | @ionic/cli-framework | 6.0.1 | 2023-12-19T22:38:46.385Z | [open](../records/node-js-javascript-ionic-cli-framework-f85b9b0b.md) |
 | @ionic/cli-framework-output | 2.2.8 | 2023-12-19T22:38:35.365Z | [open](../records/node-js-javascript-ionic-cli-framework-output-8324bb8a.md) |
 | @ionic/cli-framework-prompts | 2.1.13 | 2023-12-19T22:38:35.436Z | [open](../records/node-js-javascript-ionic-cli-framework-prompts-5599c31f.md) |
-| @knocklabs/cli | 1.2.3 | 2026-08-13T15:12:15.170Z | [open](../records/node-js-javascript-knocklabs-cli-62154908.md) |
-| @lightdash/cli | 2.167.0 | 2026-09-08T19:57:00.720Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
+| @knocklabs/cli | 1.3.0 | 2026-09-08T20:53:10.588Z | [open](../records/node-js-javascript-knocklabs-cli-62154908.md) |
+| @lightdash/cli | 2.167.1 | 2026-09-08T21:11:14.476Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | @lingui/cli | 6.6.0 | 2026-07-24T13:52:53.439Z | [open](../records/node-js-javascript-lingui-cli-343f33ec.md) |
 | @maizzle/cli | 2.0.0 | 2024-12-16T17:59:24.900Z | [open](../records/node-js-javascript-maizzle-cli-a7a13457.md) |
 | @marp-team/marp-cli | 4.5.0 | 2026-07-17T23:07:09.399Z | [open](../records/node-js-javascript-marp-team-marp-cli-b69e1548.md) |
@@ -491,7 +491,7 @@ Records: `571`
 | ansi-terminal | 1.1.5 | 2025-12-26T15:19:31Z | [open](../records/haskell-ansi-terminal-2e957796.md) |
 | ansi-terminal-game | 1.9.4.0 | 2026-05-27T12:57:31Z | [open](../records/haskell-ansi-terminal-game-a0833edf.md) |
 | commander-cli | 0.11.0.0 | 2023-01-17T16:51:29Z | [open](../records/haskell-commander-cli-d49d9b59.md) |
-| kioku-cli | 0.5.2.0 | 2026-09-01T04:09:03Z | [open](../records/haskell-kioku-cli-1c907a92.md) |
+| kioku-cli | 0.6.0.0 | 2026-09-08T20:45:30Z | [open](../records/haskell-kioku-cli-1c907a92.md) |
 | pandoc-cli | 3.11 | 2026-08-29T00:44:05Z | [open](../records/haskell-pandoc-cli-85f047c4.md) |
 | prettyprinter-ansi-terminal | 1.1.4 | 2026-04-28T13:43:04Z | [open](../records/haskell-prettyprinter-ansi-terminal-f8e428da.md) |
 | shell-monad | 0.6.10 | 2022-03-07T18:23:26Z | [open](../records/haskell-shell-monad-d9f70614.md) |
@@ -524,7 +524,7 @@ Records: `571`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| golang-migrate/migrate | partial | 2026-09-08T20:04:02Z | [open](../records/go-golang-migrate-migrate-c00bf5c0.md) |
+| golang-migrate/migrate | partial | 2026-09-08T22:08:13Z | [open](../records/go-golang-migrate-migrate-c00bf5c0.md) |
 | JanDeDobbeleer/oh-my-posh | partial | 2026-09-08T18:15:16Z | [open](../records/go-jandedobbeleer-oh-my-posh-0e751a91.md) |
 | yorukot/superfile | partial | 2026-09-07T18:09:48Z | [open](../records/go-yorukot-superfile-1e2c0bb7.md) |
 
@@ -532,10 +532,10 @@ Records: `571`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-08T20:33:21Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-08T22:12:11Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-08T21:09:36Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-08T22:12:57Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 
