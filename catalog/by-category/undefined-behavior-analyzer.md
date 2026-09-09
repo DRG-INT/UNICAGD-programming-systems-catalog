@@ -1,6 +1,6 @@
 # Undefined Behavior Analyzer
 
-Records: `1628`
+Records: `1629`
 
 ## Navigation
 
@@ -14,17 +14,17 @@ Records: `1628`
 [Concurrency Parallelism (94)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (179)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (237)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (465)](ffi-bindings.md) · [Filesystem Os (1618)](filesystem-os.md) · [Formatter (652)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1477)](ide-editor-integration.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (465)](ffi-bindings.md) · [Filesystem Os (1619)](filesystem-os.md) · [Formatter (652)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (359)](game-engine-game-dev.md) · [Ide Editor Integration (1477)](ide-editor-integration.md)
 [Image Audio Dsp (439)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1451)](language-specification.md) · [Library (5834)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5836)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (532)](logging-observability.md) · [Machine Learning (813)](machine-learning.md)
 [Math Numeric Scientific (89)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1057)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1208)](parser-lexer-ast.md) · [Precommit Ci Quality (310)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (634)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (621)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-**[Undefined Behavior Analyzer (1628)](undefined-behavior-analyzer.md)** · [Utility Library (104)](utility-library.md) · [Visualization Gui (563)](visualization-gui.md) · [Web Framework (492)](web-framework.md)
+**[Undefined Behavior Analyzer (1629)](undefined-behavior-analyzer.md)** · [Utility Library (104)](utility-library.md) · [Visualization Gui (563)](visualization-gui.md) · [Web Framework (492)](web-framework.md)
 
 ## C++23
 
@@ -410,9 +410,9 @@ Records: `1628`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bluenviron/mediamtx | partial | 2026-09-09T05:04:28Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
-| dariubs/GoBooks | partial | 2026-07-13T16:08:02Z | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
-| eryajf/learning-weekly | partial | 2026-08-27T15:27:30Z | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
+| bluenviron/mediamtx | unknown | not_a_go_module_path | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
+| dariubs/GoBooks | unknown | not_a_go_module_path | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
+| eryajf/learning-weekly | unknown | not_a_go_module_path | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
 | github.com/01org/isa-l | v2.22.0+incompatible | 2026-08-30T14:09:32.299469Z | [open](../records/go-github-com-01org-isa-l-8ef09eb2.md) |
 | github.com/1panel-dev/1Panel/agent | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-1panel-dev-1panel-agent-8df4b3a6.md) |
 | github.com/2rumaki-playground/game-001-dungeon-cards | v0.103.0 | 2026-08-30T16:30:21.794494Z | [open](../records/go-github-com-2rumaki-playground-game-001-dungeon-cards-97fa2334.md) |
@@ -1165,7 +1165,7 @@ Records: `1628`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bytedance/deer-flow | partial | 2026-09-09T03:32:07Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
+| bytedance/deer-flow | partial | 2026-09-09T06:56:31Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
 | sansan0/TrendRadar | partial | 2026-09-03T12:34:00Z | [open](../records/aim-s-sansan0-trendradar-72e65ee1.md) |
 | TencentCloud/TencentDB-Agent-Memory | partial | 2026-09-03T02:31:45Z | [open](../records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
 
@@ -1242,6 +1242,7 @@ Records: `1628`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ambroisemaupate/webfont-generator | partial | 2021-04-22T18:49:15Z | [open](../records/font-briefcase-ambroisemaupate-webfont-generator-cc50b8ed.md) |
+| bearcove/fontcull | partial | 2026-06-18T11:23:11Z | [open](../records/font-briefcase-bearcove-fontcull-c7a78ec4.md) |
 | githubnext/monaspace | partial | 2026-03-27T23:10:14Z | [open](../records/font-briefcase-githubnext-monaspace-a8c7b718.md) |
 | johnkil/Android-RobotoTextView | partial | 2017-07-26T11:32:54Z | [open](../records/font-briefcase-johnkil-android-robototextview-991c311a.md) |
 | KonghaYao/cn-font-split | partial | 2026-06-12T13:45:21Z | [open](../records/font-briefcase-konghayao-cn-font-split-4b1774ab.md) |
@@ -1297,7 +1298,7 @@ Records: `1628`
 | MapServer/MapServer | partial | 2026-09-06T18:04:41Z | [open](../records/maps-mapserver-mapserver-100bdea0.md) |
 | munterfi/hereR | partial | 2025-02-23T15:29:33Z | [open](../records/maps-munterfi-herer-7bc6ec20.md) |
 | nvkelso/natural-earth-vector | partial | 2024-04-22T12:24:13Z | [open](../records/maps-nvkelso-natural-earth-vector-941f7e82.md) |
-| opendatacube/datacube-core | partial | 2026-09-09T00:35:03Z | [open](../records/maps-opendatacube-datacube-core-7c11f2b9.md) |
+| opendatacube/datacube-core | partial | 2026-09-09T07:08:23Z | [open](../records/maps-opendatacube-datacube-core-7c11f2b9.md) |
 | pubnub/eon | partial | 2022-12-06T09:15:05Z | [open](../records/maps-pubnub-eon-beb5f743.md) |
 | rspatial/terra | partial | 2026-09-08T17:47:17Z | [open](../records/maps-rspatial-terra-dbc784d1.md) |
 | SimonBrazell/privacy-redirect | partial | 2023-09-05T18:05:25Z | [open](../records/maps-simonbrazell-privacy-redirect-1c6619a0.md) |

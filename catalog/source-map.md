@@ -10,17 +10,17 @@
 [Concurrency Parallelism (94)](by-category/concurrency-parallelism.md) · [Configuration (132)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (179)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (973)](by-category/database-datastore.md) · [Datetime (237)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (105)](by-category/dependency-manager.md) · [Documentation (109)](by-category/documentation.md)
-[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (465)](by-category/ffi-bindings.md) · [Filesystem Os (1618)](by-category/filesystem-os.md) · [Formatter (652)](by-category/formatter.md)
-[Framework (63)](by-category/framework.md) · [Fuzzer (58)](by-category/fuzzer.md) · [Game Engine Game Dev (358)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1477)](by-category/ide-editor-integration.md)
+[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (465)](by-category/ffi-bindings.md) · [Filesystem Os (1619)](by-category/filesystem-os.md) · [Formatter (652)](by-category/formatter.md)
+[Framework (63)](by-category/framework.md) · [Fuzzer (58)](by-category/fuzzer.md) · [Game Engine Game Dev (359)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1477)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (439)](by-category/image-audio-dsp.md) · [Interop Bindings (63)](by-category/interop-bindings.md) · [Interpreter Runtime (276)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1451)](by-category/language-specification.md) · [Library (5834)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1452)](by-category/language-specification.md) · [Library (5836)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (532)](by-category/logging-observability.md) · [Machine Learning (813)](by-category/machine-learning.md)
 [Math Numeric Scientific (89)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1057)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (443)](by-category/package-manager.md) · [Parser Lexer Ast (1208)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (310)](by-category/precommit-ci-quality.md)
 [Profiler (93)](by-category/profiler.md) · [Project Scaffolding (138)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (337)](by-category/security-sast.md) · [Serialization (400)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (634)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (621)](by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](by-category/tutorial-book-styleguide.md) · [Type Checker (315)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1628)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (563)](by-category/visualization-gui.md) · [Web Framework (492)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1629)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (563)](by-category/visualization-gui.md) · [Web Framework (492)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -9593,6 +9593,7 @@
 | `github_search_font_briefcase-4c8dcf2b00d743` | cyrealtype/Lora-Cyrillic | [open](records/font-briefcase-cyrealtype-lora-cyrillic-6e3e3ca5.md) |
 | `github_search_font_briefcase-4c92bc7d6c0be9` | paprikka/433 | [open](records/font-briefcase-paprikka-433-da2a9760.md) |
 | `github_search_font_briefcase-4f2207d286cf86` | FlutterGen/flutter_gen | [open](records/font-briefcase-fluttergen-flutter-gen-f75e7386.md) |
+| `github_search_font_briefcase-5050999435d49d` | johncf/ttf2web | [open](records/font-briefcase-johncf-ttf2web-5704aa00.md) |
 | `github_search_font_briefcase-5290c76b488347` | DrXie/OSFCC | [open](records/font-briefcase-drxie-osfcc-4233daf2.md) |
 | `github_search_font_briefcase-53e1394ca1d6ca` | justfont/open-huninn-font | [open](records/font-briefcase-justfont-open-huninn-font-d0750c6d.md) |
 | `github_search_font_briefcase-53ea96df6db422` | M5ez/M5ez | [open](records/font-briefcase-m5ez-m5ez-cbabb89d.md) |
@@ -9626,12 +9627,15 @@
 | `github_search_font_briefcase-6f26398a52af0b` | Jolg42/awesome-typography | [open](records/font-briefcase-jolg42-awesome-typography-1255dfe7.md) |
 | `github_search_font_briefcase-70a4a3a60372ff` | eigilnikolajsen/commit-mono | [open](records/font-briefcase-eigilnikolajsen-commit-mono-b2244e11.md) |
 | `github_search_font_briefcase-712497eb3f92d1` | ms-studio/karmilla | [open](records/font-briefcase-ms-studio-karmilla-090c0b77.md) |
+| `github_search_font_briefcase-72591c8206e866` | bearcove/fontcull | [open](records/font-briefcase-bearcove-fontcull-c7a78ec4.md) |
 | `github_search_font_briefcase-7294de7a82d151` | steinbergmedia/bravura | [open](records/font-briefcase-steinbergmedia-bravura-dece6eea.md) |
 | `github_search_font_briefcase-733805e02e803c` | adobe-fonts/source-serif | [open](records/font-briefcase-adobe-fonts-source-serif-816acf27.md) |
 | `github_search_font_briefcase-784ccf6ea378da` | KonghaYao/chinese-free-web-font-storage | [open](records/font-briefcase-konghayao-chinese-free-web-font-storage-7df90ad6.md) |
+| `github_search_font_briefcase-7aea81d12d8d94` | sgmonda/sergamon | [open](records/font-briefcase-sgmonda-sergamon-dfa8eee2.md) |
 | `github_search_font_briefcase-7d7b17cd286419` | somefreefonts/techna-sans | [open](records/font-briefcase-somefreefonts-techna-sans-69e3191a.md) |
 | `github_search_font_briefcase-7f5c605e8d60c1` | be5invis/Sarasa-Gothic | [open](records/font-briefcase-be5invis-sarasa-gothic-70e61d36.md) |
 | `github_search_font_briefcase-80a5f66c9efafc` | be5invis/Iosevka | [open](records/font-briefcase-be5invis-iosevka-acb7b148.md) |
+| `github_search_font_briefcase-80f991260ce623` | akngs/noto-kr-vf-distilled | [open](records/font-briefcase-akngs-noto-kr-vf-distilled-51bf251b.md) |
 | `github_search_font_briefcase-812fb4eb7c9396` | FontManager/font-manager | [open](records/font-briefcase-fontmanager-font-manager-c450551a.md) |
 | `github_search_font_briefcase-816c2e0e2012eb` | jsamr/react-native-font-demo | [open](records/font-briefcase-jsamr-react-native-font-demo-109a75ab.md) |
 | `github_search_font_briefcase-826720dc9eab75` | orioncactus/pretendard | [open](records/font-briefcase-orioncactus-pretendard-51195f25.md) |
@@ -13169,6 +13173,7 @@
 | `github_search_radio_garden_speciality-c6e0e853007ce4` | Broccolifm/BroccoliFm | [open](records/radio-garden-speciality-broccolifm-broccolifm-93eab489.md) |
 | `github_search_radio_garden_speciality-cbda3c2f492674` | prafulbusa/Radio-Garden-Client | [open](records/radio-garden-speciality-prafulbusa-radio-garden-client-287c720b.md) |
 | `github_search_radio_garden_speciality-ce343e67c7a558` | sam95-fr-hub/GTRC | [open](records/radio-garden-speciality-sam95-fr-hub-gtrc-2232a95e.md) |
+| `github_search_radio_garden_speciality-cf7c3e4112c20a` | DocDamage/world-radio-game | [open](records/radio-garden-speciality-docdamage-world-radio-game-592e3a02.md) |
 | `github_search_radio_garden_speciality-d2e4da91a9fb5a` | MichaelAdane/geo-politics-war-map- | [open](records/radio-garden-speciality-michaeladane-geo-politics-war-map-a99a7e42.md) |
 | `github_search_radio_garden_speciality-d5c56a38370416` | antoninadert/Radio-Garden-Client | [open](records/radio-garden-speciality-antoninadert-radio-garden-client-0f10e734.md) |
 | `github_search_radio_garden_speciality-d612c4f7875309` | Oliver-animations/radiogarden | [open](records/radio-garden-speciality-oliver-animations-radiogarden-cfbddf8c.md) |
@@ -14777,6 +14782,7 @@
 | `github_search_swift-0c75048f7c29da` | jaywcjlove/awesome-mac | [open](records/swift-jaywcjlove-awesome-mac-78b4937e.md) |
 | `github_search_swift-0d6d43aed8ddf7` | Swinject/Swinject | [open](records/swift-swinject-swinject-2f463f5f.md) |
 | `github_search_swift-0d91ecc2943eaa` | swiftlang/swift | [open](records/swift-swiftlang-swift-af9d2442.md) |
+| `github_search_swift-0e7f5571ead3ba` | supertone-oss-archive/supertonic | [open](records/swift-supertone-oss-archive-supertonic-6970c727.md) |
 | `github_search_swift-0ed30df31e818c` | ronitsingh10/FineTune | [open](records/swift-ronitsingh10-finetune-b5e98cce.md) |
 | `github_search_swift-0f958af5bee658` | OpenEmu/OpenEmu | [open](records/swift-openemu-openemu-287a89a2.md) |
 | `github_search_swift-1092af09e1a4e1` | StreamUI/StreamUI.swift | [open](records/swift-streamui-streamui-swift-1e00b473.md) |

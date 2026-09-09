@@ -1,6 +1,6 @@
 # Library
 
-Records: `5834`
+Records: `5836`
 
 ## Navigation
 
@@ -14,17 +14,17 @@ Records: `5834`
 [Concurrency Parallelism (94)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (179)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (237)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (465)](ffi-bindings.md) · [Filesystem Os (1618)](filesystem-os.md) · [Formatter (652)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1477)](ide-editor-integration.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (465)](ffi-bindings.md) · [Filesystem Os (1619)](filesystem-os.md) · [Formatter (652)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (359)](game-engine-game-dev.md) · [Ide Editor Integration (1477)](ide-editor-integration.md)
 [Image Audio Dsp (439)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1451)](language-specification.md) · **[Library (5834)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · **[Library (5836)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (532)](logging-observability.md) · [Machine Learning (813)](machine-learning.md)
 [Math Numeric Scientific (89)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1057)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1208)](parser-lexer-ast.md) · [Precommit Ci Quality (310)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (634)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (621)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1628)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (563)](visualization-gui.md) · [Web Framework (492)](web-framework.md)
+[Undefined Behavior Analyzer (1629)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (563)](visualization-gui.md) · [Web Framework (492)](web-framework.md)
 
 ## C99
 
@@ -4162,12 +4162,12 @@ Records: `5834`
 | yi | 0.19.3 | 2024-11-01T13:06:18Z | [open](../records/haskell-yi-3b78b64a.md) |
 | yst | 0.7.2 | 2023-02-04T19:31:44Z | [open](../records/haskell-yst-e5c97f24.md) |
 | Z-Data | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-data-ad2a6ebb.md) |
-| Z-IO | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-io-e37841a7.md) |
-| zeolite-lang | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeolite-lang-121149cb.md) |
+| Z-IO | 2.0.0.0 | 2022-11-26T03:59:17Z | [open](../records/haskell-z-io-e37841a7.md) |
+| zeolite-lang | 0.24.1.0 | 2024-01-08T01:25:04Z | [open](../records/haskell-zeolite-lang-121149cb.md) |
 | zeromq4-haskell | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
-| zlib | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zlib-2a0db053.md) |
-| zoom-cache | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoom-cache-f1ef611e.md) |
-| zoovisitor | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoovisitor-25533034.md) |
+| zlib | 0.7.1.1 | 2025-09-06T12:21:07Z | [open](../records/haskell-zlib-2a0db053.md) |
+| zoom-cache | 1.2.1.6 | 2012-12-07T00:08:12Z | [open](../records/haskell-zoom-cache-f1ef611e.md) |
+| zoovisitor | 0.2.7.0 | 2024-05-24T09:11:31Z | [open](../records/haskell-zoovisitor-25533034.md) |
 
 ## Octave
 
@@ -4370,7 +4370,7 @@ Records: `5834`
 | codeberg.org/go-hep/hep.git | v0.27.0 | 2026-08-30T10:55:18.161122Z | [open](../records/go-codeberg-org-go-hep-hep-git-29878e71.md) |
 | codeberg.org/rimu/pyfedi | v1.6.9 | 2026-08-30T16:29:43.672078Z | [open](../records/go-codeberg-org-rimu-pyfedi-53519dff.md) |
 | CycloneDX/cyclonedx-gomod | partial | 2026-09-08T09:55:35Z | [open](../records/go-cyclonedx-cyclonedx-gomod-24572c1d.md) |
-| darius-khll/golang-developer-roadmap | partial | 2023-02-13T08:08:20Z | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
+| darius-khll/golang-developer-roadmap | unknown | not_a_go_module_path | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
 | gbrlsnchs/jwt | partial | 2026-02-20T19:55:17Z | [open](../records/go-gbrlsnchs-jwt-9cb26411.md) |
 | gethugothemes/hugo-modules | partial | 2026-07-01T05:48:56Z | [open](../records/go-gethugothemes-hugo-modules-1f48ce7f.md) |
 | git.scuroneko.dev/ScuroNeko/Laniakea | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-git-scuroneko-dev-scuroneko-laniakea-6c4ff9e7.md) |
@@ -4587,6 +4587,7 @@ Records: `5834`
 | --- | --- | --- | --- |
 | 0dist/fontview | partial | 2024-12-08T08:44:04Z | [open](../records/font-briefcase-0dist-fontview-fb53702c.md) |
 | abrudz/APL386 | partial | 2025-03-11T15:02:26Z | [open](../records/font-briefcase-abrudz-apl386-d2beaf2f.md) |
+| akngs/noto-kr-vf-distilled | partial | 2022-09-17T11:30:27Z | [open](../records/font-briefcase-akngs-noto-kr-vf-distilled-51bf251b.md) |
 | aliftype/amiri | partial | 2026-04-25T22:27:42Z | [open](../records/font-briefcase-aliftype-amiri-2659b81e.md) |
 | atelier-anchor/smiley-sans | partial | 2024-12-10T17:36:25Z | [open](../records/font-briefcase-atelier-anchor-smiley-sans-3ec5c5c2.md) |
 | basementstudio/basement-grotesque | partial | 2023-03-06T08:52:27Z | [open](../records/font-briefcase-basementstudio-basement-grotesque-7a34b601.md) |
@@ -4625,6 +4626,7 @@ Records: `5834`
 | ilikerobots/polyicon | partial | 2022-12-06T03:03:00Z | [open](../records/font-briefcase-ilikerobots-polyicon-c90f638b.md) |
 | ivodolenc/aspekta | partial | 2025-05-09T11:00:55Z | [open](../records/font-briefcase-ivodolenc-aspekta-914a7883.md) |
 | jaywcjlove/svgtofont | partial | 2026-06-30T15:00:36Z | [open](../records/font-briefcase-jaywcjlove-svgtofont-fef8a786.md) |
+| johncf/ttf2web | partial | 2018-01-30T09:42:03Z | [open](../records/font-briefcase-johncf-ttf2web-5704aa00.md) |
 | johnkil/Print | partial | 2018-02-28T06:13:42Z | [open](../records/font-briefcase-johnkil-print-63ab56e0.md) |
 | jonathonf/solbera-dnd-fonts | partial | 2023-02-27T08:51:48Z | [open](../records/font-briefcase-jonathonf-solbera-dnd-fonts-a3808189.md) |
 | jsamr/react-native-font-demo | partial | 2025-12-09T16:09:03Z | [open](../records/font-briefcase-jsamr-react-native-font-demo-109a75ab.md) |
@@ -4704,7 +4706,7 @@ Records: `5834`
 | Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project | partial | 2026-08-05T12:41:45Z | [open](../records/assets-fitzgerald-porthmouth-koenigsegg-plangothic-project-5165c4c3.md) |
 | FontManager/font-manager | partial | 2025-09-24T15:51:58Z | [open](../records/assets-fontmanager-font-manager-b4a35494.md) |
 | fonttools/fonttools | partial | 2026-09-04T21:30:58Z | [open](../records/assets-fonttools-fonttools-a4b5432b.md) |
-| frappe/erpnext | partial | 2026-09-09T05:17:43Z | [open](../records/assets-frappe-erpnext-d9e1ae16.md) |
+| frappe/erpnext | partial | 2026-09-09T07:21:06Z | [open](../records/assets-frappe-erpnext-d9e1ae16.md) |
 | Gaafar/dev-fonts | partial | 2023-01-06T03:07:36Z | [open](../records/assets-gaafar-dev-fonts-6d11b6eb.md) |
 | googlefonts/gftools | partial | 2026-09-01T11:33:41Z | [open](../records/assets-googlefonts-gftools-a07fff0e.md) |
 | hiqdev/asset-packagist | partial | 2026-09-01T12:10:46Z | [open](../records/assets-hiqdev-asset-packagist-ef04a544.md) |
@@ -4720,7 +4722,7 @@ Records: `5834`
 | levinzonr/godot-asset-placer | partial | 2026-08-25T20:19:53Z | [open](../records/assets-levinzonr-godot-asset-placer-8d39dc8a.md) |
 | lmueller27/Fusion360PatternsAndTextures | partial | 2024-09-10T13:50:22Z | [open](../records/assets-lmueller27-fusion360patternsandtextures-781b8065.md) |
 | lzhbrian/Clothes-3D | partial | 2020-04-16T16:04:57Z | [open](../records/assets-lzhbrian-clothes-3d-4979afed.md) |
-| marcelscruz/dev-resources | partial | 2026-09-08T14:43:25Z | [open](../records/assets-marcelscruz-dev-resources-f1007139.md) |
+| marcelscruz/dev-resources | partial | 2026-09-09T07:10:15Z | [open](../records/assets-marcelscruz-dev-resources-f1007139.md) |
 | maria-rcks/dinorip | partial | 2026-06-28T19:46:38Z | [open](../records/assets-maria-rcks-dinorip-3322f81b.md) |
 | MassEffectModder/MassEffectModder | partial | 2026-04-02T20:46:15Z | [open](../records/assets-masseffectmodder-masseffectmodder-f546ad41.md) |
 | maxartz15/TextureCombiner | partial | 2021-01-24T16:32:48Z | [open](../records/assets-maxartz15-texturecombiner-33f459d2.md) |
@@ -4878,7 +4880,7 @@ Records: `5834`
 | jonnyhyman/PyBurn | partial | 2017-09-26T21:09:32Z | [open](../records/space-engines-jonnyhyman-pyburn-6c49c451.md) |
 | kyleniemeyer/gas-dynamics-notes | partial | 2026-07-29T22:00:09Z | [open](../records/space-engines-kyleniemeyer-gas-dynamics-notes-88f66440.md) |
 | kyleniemeyer/rocket-propulsion | partial | 2026-07-29T17:41:03Z | [open](../records/space-engines-kyleniemeyer-rocket-propulsion-880f0ccd.md) |
-| LoicViennois/KSP-DeltaV-Planner | partial | 2026-09-08T19:06:10Z | [open](../records/space-engines-loicviennois-ksp-deltav-planner-2a9f4275.md) |
+| LoicViennois/KSP-DeltaV-Planner | partial | 2026-09-09T06:56:35Z | [open](../records/space-engines-loicviennois-ksp-deltav-planner-2a9f4275.md) |
 | nmisyats/KSP-MGA-Planner | partial | 2026-06-08T16:41:24Z | [open](../records/space-engines-nmisyats-ksp-mga-planner-5c02c9bb.md) |
 | podgorskiy/KeplerOrbits | partial | 2023-04-02T23:28:28Z | [open](../records/space-engines-podgorskiy-keplerorbits-bce5842d.md) |
 | RocketPy-Team/RocketPy | partial | 2026-09-09T02:09:47Z | [open](../records/space-engines-rocketpy-team-rocketpy-dc6ba7fb.md) |
@@ -5689,7 +5691,7 @@ Records: `5834`
 | evoiz/Agentic-Design-Patterns | partial | 2026-07-24T14:23:04Z | [open](../records/pattern-language-evoiz-agentic-design-patterns-01a7bf2b.md) |
 | fadeevab/design-patterns-rust | partial | 2025-01-01T17:16:57Z | [open](../records/pattern-language-fadeevab-design-patterns-rust-d33499f2.md) |
 | fbeline/design-patterns-JS | partial | 2023-02-10T16:43:18Z | [open](../records/pattern-language-fbeline-design-patterns-js-6a6af94b.md) |
-| felangel/bloc | partial | 2026-09-03T00:30:06Z | [open](../records/pattern-language-felangel-bloc-2de5d68d.md) |
+| felangel/bloc | partial | 2026-09-09T07:13:20Z | [open](../records/pattern-language-felangel-bloc-2de5d68d.md) |
 | FengJungle/DesignPattern | partial | 2024-04-17T07:27:17Z | [open](../records/pattern-language-fengjungle-designpattern-555629f0.md) |
 | Habrador/Unity-Programming-Patterns | partial | 2026-04-28T12:37:06Z | [open](../records/pattern-language-habrador-unity-programming-patterns-b7ded15d.md) |
 | iluwatar/java-design-patterns | partial | 2026-08-31T22:43:02Z | [open](../records/pattern-language-iluwatar-java-design-patterns-92e5a814.md) |
