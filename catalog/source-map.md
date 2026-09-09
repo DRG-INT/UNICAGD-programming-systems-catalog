@@ -5,13 +5,13 @@
 ## Category Index
 
 [Api Abi Checker (224)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (202)](by-category/benchmarking.md) · [Build System (1000)](by-category/build-system.md) · [Cli (571)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (202)](by-category/benchmarking.md) · [Build System (1001)](by-category/build-system.md) · [Cli (571)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (25)](by-category/compiler-diagnostics.md) · [Compression (52)](by-category/compression.md)
 [Concurrency Parallelism (94)](by-category/concurrency-parallelism.md) · [Configuration (132)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (178)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (972)](by-category/database-datastore.md) · [Datetime (235)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (105)](by-category/dependency-manager.md) · [Documentation (109)](by-category/documentation.md)
 [Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (465)](by-category/ffi-bindings.md) · [Filesystem Os (1618)](by-category/filesystem-os.md) · [Formatter (652)](by-category/formatter.md)
-[Framework (63)](by-category/framework.md) · [Fuzzer (58)](by-category/fuzzer.md) · [Game Engine Game Dev (358)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1476)](by-category/ide-editor-integration.md)
+[Framework (63)](by-category/framework.md) · [Fuzzer (58)](by-category/fuzzer.md) · [Game Engine Game Dev (358)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1477)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (439)](by-category/image-audio-dsp.md) · [Interop Bindings (63)](by-category/interop-bindings.md) · [Interpreter Runtime (276)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1451)](by-category/language-specification.md) · [Library (5834)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (531)](by-category/logging-observability.md) · [Machine Learning (812)](by-category/machine-learning.md)
@@ -15521,6 +15521,7 @@
 | `github_search_video-65de4a8315bb89` | fooyin/fooyin | [open](records/video-fooyin-fooyin-aa6f44a9.md) |
 | `github_search_video-67224e9e826052` | ZLMediaKit/ZLMediaKit | [open](records/video-zlmediakit-zlmediakit-dde5a2f0.md) |
 | `github_search_video-6733a111b5af92` | opencast/opencast | [open](records/video-opencast-opencast-f369afbf.md) |
+| `github_search_video-676cd6fe1f05e0` | OpenVidu/openvidu | [open](records/video-openvidu-openvidu-5a62f827.md) |
 | `github_search_video-682dfe8bcc31d5` | neuralchen/SimSwap | [open](records/video-neuralchen-simswap-c6785b90.md) |
 | `github_search_video-69608347203b98` | gyroflow/gyroflow | [open](records/video-gyroflow-gyroflow-537bab23.md) |
 | `github_search_video-6a633a2ffc7621` | kuzand/Computer-Vision-Video-Lectures | [open](records/video-kuzand-computer-vision-video-lectures-43294b93.md) |
@@ -15720,6 +15721,7 @@
 | `github_search_video-cff3da8bacc078` | webtorrent/webtorrent | [open](records/video-webtorrent-webtorrent-c03e85c8.md) |
 | `github_search_video-d1518ff8841c2b` | google-ai-edge/mediapipe | [open](records/video-google-ai-edge-mediapipe-a0c51472.md) |
 | `github_search_video-d18d7522e6ce08` | muaz-khan/RecordRTC | [open](records/video-muaz-khan-recordrtc-4bde1e7a.md) |
+| `github_search_video-d2593589b33475` | hclivess/videer | [open](records/video-hclivess-videer-728d8699.md) |
 | `github_search_video-d2f172509ea944` | leandromoreira/ffmpeg-libav-tutorial | [open](records/video-leandromoreira-ffmpeg-libav-tutorial-e71d8bef.md) |
 | `github_search_video-d36e5ef2b225cc` | mpv-player/mpv | [open](records/video-mpv-player-mpv-28149d67.md) |
 | `github_search_video-d3ef939b0258eb` | prouast/heartbeat | [open](records/video-prouast-heartbeat-a2923779.md) |
