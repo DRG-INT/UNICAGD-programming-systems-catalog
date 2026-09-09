@@ -1,6 +1,6 @@
 # Web Framework
 
-Records: `492`
+Records: `493`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `492`
 ## Category Index
 
 [Api Abi Checker (230)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1003)](build-system.md) · [Cli (578)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1003)](build-system.md) · [Cli (580)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (120)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (135)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (241)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (467)](ffi-bindings.md) · [Filesystem Os (1623)](filesystem-os.md) · [Formatter (654)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (360)](game-engine-game-dev.md) · [Ide Editor Integration (1480)](ide-editor-integration.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (467)](ffi-bindings.md) · [Filesystem Os (1624)](filesystem-os.md) · [Formatter (654)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (360)](game-engine-game-dev.md) · [Ide Editor Integration (1481)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5869)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (534)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
-[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1062)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1214)](parser-lexer-ast.md) · [Precommit Ci Quality (312)](precommit-ci-quality.md)
-[Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (639)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (623)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1633)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (564)](visualization-gui.md) · **[Web Framework (492)](web-framework.md)**
+[Language Server (31)](language-server.md) · [Language Specification (1454)](language-specification.md) · [Library (5878)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (535)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
+[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1065)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1214)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
+[Profiler (93)](profiler.md) · [Project Scaffolding (139)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (641)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (625)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1633)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (564)](visualization-gui.md) · **[Web Framework (493)](web-framework.md)**
 
 ## C++23
 
@@ -164,7 +164,7 @@ Records: `492`
 | @apple/app-store-server-library | 3.1.0 | 2026-05-06T01:14:11.509Z | [open](../records/node-js-javascript-apple-app-store-server-library-95022302.md) |
 | @budibase/server | 3.38.1 | 2026-05-12T06:32:35.805Z | [open](../records/node-js-javascript-budibase-server-b96430d3.md) |
 | @callstack/repack-dev-server | 5.3.0 | 2026-08-05T09:11:36.073Z | [open](../records/node-js-javascript-callstack-repack-dev-server-631ff63b.md) |
-| @capgo/cli | 8.50.2 | 2026-09-09T13:22:51.220Z | [open](../records/node-js-javascript-capgo-cli-8e98e39d.md) |
+| @capgo/cli | 8.50.3 | 2026-09-09T14:20:55.097Z | [open](../records/node-js-javascript-capgo-cli-8e98e39d.md) |
 | @cloudflare/mcp-server-cloudflare | 0.2.0 | 2025-03-14T10:41:19.350Z | [open](../records/node-js-javascript-cloudflare-mcp-server-cloudflare-3b1ce558.md) |
 | @constructive-io/graphql-server | 5.25.1 | 2026-09-08T23:04:35.503Z | [open](../records/node-js-javascript-constructive-io-graphql-server-5edba745.md) |
 | @contentful/mcp-server | 1.19.0 | 2026-09-01T20:20:27.760Z | [open](../records/node-js-javascript-contentful-mcp-server-f8c3e0db.md) |
@@ -183,6 +183,7 @@ Records: `492`
 | @heroku/mcp-server | 1.2.7 | 2026-09-03T19:09:35.226Z | [open](../records/node-js-javascript-heroku-mcp-server-1d60d18d.md) |
 | @hono/trpc-server | 0.4.2 | 2026-01-12T15:04:52.719Z | [open](../records/node-js-javascript-hono-trpc-server-989842b6.md) |
 | @hono/vite-dev-server | 0.26.1 | 2026-07-11T04:05:00.157Z | [open](../records/node-js-javascript-hono-vite-dev-server-e0c72d5b.md) |
+| @iobroker/mcp-server | 1.0.3 | 2026-09-03T16:58:14.574Z | [open](../records/node-js-javascript-iobroker-mcp-server-43a9f8db.md) |
 | @koishijs/plugin-server | 3.2.9 | 2026-02-27T21:00:53.554Z | [open](../records/node-js-javascript-koishijs-plugin-server-9a9e631a.md) |
 | @lancedb/lancedb | 0.38.0 | 2026-08-31T08:31:16.264Z | [open](../records/node-js-javascript-lancedb-lancedb-b1aa28e9.md) |
 | @launchdarkly/js-server-sdk-common | 2.21.0 | 2026-09-08T20:29:28.817Z | [open](../records/node-js-javascript-launchdarkly-js-server-sdk-common-321e695d.md) |
@@ -225,7 +226,7 @@ Records: `492`
 | @sap-ux/fiori-mcp-server | 1.12.3 | 2026-09-08T05:09:06.076Z | [open](../records/node-js-javascript-sap-ux-fiori-mcp-server-8a2a94b2.md) |
 | @sentry-internal/server-utils | 10.57.0 | 2026-06-09T09:44:28.459Z | [open](../records/node-js-javascript-sentry-internal-server-utils-a01f24ba.md) |
 | @sentry/mcp-server | 0.39.0 | 2026-08-27T06:47:36.921Z | [open](../records/node-js-javascript-sentry-mcp-server-ebb9c879.md) |
-| @sentry/server-utils | 10.73.0 | 2026-08-31T16:56:48.429Z | [open](../records/node-js-javascript-sentry-server-utils-6969bfc8.md) |
+| @sentry/server-utils | 10.74.0 | 2026-09-09T15:56:11.854Z | [open](../records/node-js-javascript-sentry-server-utils-6969bfc8.md) |
 | @serverless/cli | 1.6.0 | 2022-01-07T12:12:58.999Z | [open](../records/node-js-javascript-serverless-cli-8421a4ad.md) |
 | @spawnco/server | 0.0.62 | 2026-06-04T23:48:25.052Z | [open](../records/node-js-javascript-spawnco-server-c6c2a2be.md) |
 | @storybook/preset-server-webpack | 10.6.0 | 2026-09-02T13:56:13.621Z | [open](../records/node-js-javascript-storybook-preset-server-webpack-041828bc.md) |
@@ -233,14 +234,14 @@ Records: `492`
 | @supabase/mcp-server-supabase | 0.12.0 | 2026-09-04T13:33:08.786Z | [open](../records/node-js-javascript-supabase-mcp-server-supabase-7cd0f08b.md) |
 | @tanstack/react-start-rsc | 0.1.49 | 2026-09-06T21:27:37.543Z | [open](../records/node-js-javascript-tanstack-react-start-rsc-cf26d1f1.md) |
 | @toolbox-sdk/server | 1.10.0 | 2026-08-28T22:23:29.204Z | [open](../records/node-js-javascript-toolbox-sdk-server-6410dd9c.md) |
-| @transcend-io/mcp-server-admin | 1.0.0 | 2026-09-08T20:40:44.987Z | [open](../records/node-js-javascript-transcend-io-mcp-server-admin-c732016b.md) |
-| @transcend-io/mcp-server-assessment | 1.0.0 | 2026-09-08T20:43:22.707Z | [open](../records/node-js-javascript-transcend-io-mcp-server-assessment-fa3a076f.md) |
+| @transcend-io/mcp-server-admin | 1.0.1 | 2026-09-09T15:51:39.412Z | [open](../records/node-js-javascript-transcend-io-mcp-server-admin-c732016b.md) |
+| @transcend-io/mcp-server-assessment | 2.0.0 | 2026-09-09T15:53:44.843Z | [open](../records/node-js-javascript-transcend-io-mcp-server-assessment-fa3a076f.md) |
 | @transcend-io/mcp-server-consent | 0.9.6 | 2026-09-03T19:27:15.694Z | [open](../records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) |
 | @transcend-io/mcp-server-discovery | 0.5.30 | 2026-09-03T19:27:15.450Z | [open](../records/node-js-javascript-transcend-io-mcp-server-discovery-87735bfc.md) |
-| @transcend-io/mcp-server-dsr | 0.8.10 | 2026-09-03T19:27:15.159Z | [open](../records/node-js-javascript-transcend-io-mcp-server-dsr-76f6cb8b.md) |
-| @transcend-io/mcp-server-inventory | 1.0.0 | 2026-09-08T20:40:44.844Z | [open](../records/node-js-javascript-transcend-io-mcp-server-inventory-9bc583b1.md) |
+| @transcend-io/mcp-server-dsr | 1.0.1 | 2026-09-09T15:51:34.436Z | [open](../records/node-js-javascript-transcend-io-mcp-server-dsr-76f6cb8b.md) |
+| @transcend-io/mcp-server-inventory | 1.0.1 | 2026-09-09T15:51:34.505Z | [open](../records/node-js-javascript-transcend-io-mcp-server-inventory-9bc583b1.md) |
 | @transcend-io/mcp-server-preferences | 0.7.3 | 2026-09-08T20:42:57.384Z | [open](../records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
-| @transcend-io/mcp-server-workflows | 1.0.0 | 2026-09-08T20:40:50.701Z | [open](../records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) |
+| @transcend-io/mcp-server-workflows | 1.0.1 | 2026-09-09T15:51:39.971Z | [open](../records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) |
 | @trpc/server | 11.18.0 | 2026-06-17T22:48:25.078Z | [open](../records/node-js-javascript-trpc-server-02b69ad5.md) |
 | @turnkey/sdk-server | 8.4.0 | 2026-09-04T15:40:30.545Z | [open](../records/node-js-javascript-turnkey-sdk-server-330a2b7d.md) |
 | @ui5/mcp-server | 0.2.19 | 2026-09-09T12:07:47.860Z | [open](../records/node-js-javascript-ui5-mcp-server-ed5f5678.md) |
@@ -566,7 +567,7 @@ Records: `492`
 | --- | --- | --- | --- |
 | emertozd/Compose-Material-3-Expressive-Catalog | partial | 2026-08-25T13:27:09Z | [open](../records/catalogs-emertozd-compose-material-3-expressive-catalog-37be1c96.md) |
 | expressjs/serve-index | partial | 2026-08-05T14:00:57Z | [open](../records/catalogs-expressjs-serve-index-a5f99f53.md) |
-| fabiodalez-dev/Pinakes | partial | 2026-09-09T14:15:11Z | [open](../records/catalogs-fabiodalez-dev-pinakes-55aa7480.md) |
+| fabiodalez-dev/Pinakes | partial | 2026-09-09T15:37:19Z | [open](../records/catalogs-fabiodalez-dev-pinakes-55aa7480.md) |
 | sergiisyrovatchenko/SQLIndexManager | partial | 2026-08-24T17:58:45Z | [open](../records/catalogs-sergiisyrovatchenko-sqlindexmanager-c47bdf29.md) |
 | zyegfryed/django-statici18n | partial | 2026-09-02T17:13:48Z | [open](../records/catalogs-zyegfryed-django-statici18n-7d8a9ed5.md) |
 
@@ -652,7 +653,7 @@ Records: `492`
 | dotnetcore/FreeSql | partial | 2026-07-31T17:52:16Z | [open](../records/databases-dotnetcore-freesql-be272c12.md) |
 | DotNetNext/SqlSugar | partial | 2026-09-08T05:58:01Z | [open](../records/databases-dotnetnext-sqlsugar-a1157e31.md) |
 | frectonz/sql-studio | partial | 2026-08-26T14:32:48Z | [open](../records/databases-frectonz-sql-studio-0812f2ca.md) |
-| googleapis/mcp-toolbox | partial | 2026-09-08T20:21:46Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
+| googleapis/mcp-toolbox | partial | 2026-09-09T16:23:00Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
 | jeesun/oauthserver | partial | 2022-12-14T20:38:57Z | [open](../records/databases-jeesun-oauthserver-614193dd.md) |
 | LinuxForHealth/FHIR | partial | 2024-04-18T14:50:56Z | [open](../records/databases-linuxforhealth-fhir-ee64ade5.md) |
 | lionheart/django-pyodbc | partial | 2023-01-29T16:42:06Z | [open](../records/databases-lionheart-django-pyodbc-c6078181.md) |
