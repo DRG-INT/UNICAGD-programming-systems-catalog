@@ -10,13 +10,13 @@
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (136)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (180)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (974)](by-category/database-datastore.md) · [Datetime (241)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (108)](by-category/dependency-manager.md) · [Documentation (111)](by-category/documentation.md)
-[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (470)](by-category/ffi-bindings.md) · [Filesystem Os (1647)](by-category/filesystem-os.md) · [Formatter (657)](by-category/formatter.md)
+[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (470)](by-category/ffi-bindings.md) · [Filesystem Os (1649)](by-category/filesystem-os.md) · [Formatter (657)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (59)](by-category/fuzzer.md) · [Game Engine Game Dev (361)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1489)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (443)](by-category/image-audio-dsp.md) · [Interop Bindings (63)](by-category/interop-bindings.md) · [Interpreter Runtime (280)](by-category/interpreter-runtime.md) · [Jit Vm (65)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1457)](by-category/language-specification.md) · [Library (5894)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1458)](by-category/language-specification.md) · [Library (5900)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (50)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (537)](by-category/logging-observability.md) · [Machine Learning (824)](by-category/machine-learning.md)
 [Math Numeric Scientific (90)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1071)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (445)](by-category/package-manager.md) · [Parser Lexer Ast (1219)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (313)](by-category/precommit-ci-quality.md)
+[Other (14)](by-category/other.md) · [Package Manager (447)](by-category/package-manager.md) · [Parser Lexer Ast (1220)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (313)](by-category/precommit-ci-quality.md)
 [Profiler (93)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (337)](by-category/security-sast.md) · [Serialization (403)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (643)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (627)](by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](by-category/tutorial-book-styleguide.md) · [Type Checker (315)](by-category/type-checker.md)
@@ -9676,7 +9676,9 @@
 | `github_search_font_briefcase-0a282451b782e6` | justvanrossum/fontgoggles | [open](records/font-briefcase-justvanrossum-fontgoggles-73edb6d3.md) |
 | `github_search_font_briefcase-0ac699a5713643` | blobject/agave | [open](records/font-briefcase-blobject-agave-9f6f658f.md) |
 | `github_search_font_briefcase-0ceff0511ea6e6` | karnyadavdev/FontWizard | [open](records/font-briefcase-karnyadavdev-fontwizard-1020d3e4.md) |
+| `github_search_font_briefcase-0d023e5dad0348` | source-foundry/Woffle | [open](records/font-briefcase-source-foundry-woffle-a717f575.md) |
 | `github_search_font_briefcase-0d6323fe2baaab` | dw5/Metropolis | [open](records/font-briefcase-dw5-metropolis-049d5451.md) |
+| `github_search_font_briefcase-0d8c38bd099381` | daniel-araujo/fontfacegen-webpack-plugin | [open](records/font-briefcase-daniel-araujo-fontfacegen-webpack-plugin-0f015bd4.md) |
 | `github_search_font_briefcase-0e25c3c4fc1005` | floriankarsten/space-grotesk | [open](records/font-briefcase-floriankarsten-space-grotesk-5a1fe2d6.md) |
 | `github_search_font_briefcase-0eef0a917b79ff` | easylogic/fontmoa | [open](records/font-briefcase-easylogic-fontmoa-56792197.md) |
 | `github_search_font_briefcase-0f6b8d046c9d94` | ubuwaits/beautiful-web-type | [open](records/font-briefcase-ubuwaits-beautiful-web-type-1a5178ad.md) |
@@ -9685,6 +9687,7 @@
 | `github_search_font_briefcase-117342c663592f` | web-alchemy/fonttools | [open](records/font-briefcase-web-alchemy-fonttools-ca168b53.md) |
 | `github_search_font_briefcase-13748ce6d6cf0a` | Buernia/Tiejili | [open](records/font-briefcase-buernia-tiejili-288f3a91.md) |
 | `github_search_font_briefcase-1529c53cc79d23` | WCYS-Co/Hauora-Sans | [open](records/font-briefcase-wcys-co-hauora-sans-c484e9cc.md) |
+| `github_search_font_briefcase-15b86271534d4e` | w3c/woff | [open](records/font-briefcase-w3c-woff-419d2114.md) |
 | `github_search_font_briefcase-1721deb60c66fd` | vegaprotocol/alpha-lyrae | [open](records/font-briefcase-vegaprotocol-alpha-lyrae-d7174978.md) |
 | `github_search_font_briefcase-18b2dca8b02cd9` | jeerbl/webfonts-loader | [open](records/font-briefcase-jeerbl-webfonts-loader-b2ca96b0.md) |
 | `github_search_font_briefcase-1af9ac6ad9cb51` | qwerasd205/AnnotationMono | [open](records/font-briefcase-qwerasd205-annotationmono-110bd69b.md) |
@@ -9693,6 +9696,7 @@
 | `github_search_font_briefcase-1e0187359f404f` | SixLabors/Fonts | [open](records/font-briefcase-sixlabors-fonts-14452040.md) |
 | `github_search_font_briefcase-1e0d7dba1f10ef` | darkroomengineering/forma | [open](records/font-briefcase-darkroomengineering-forma-acf37ac1.md) |
 | `github_search_font_briefcase-1e38bcdf434be0` | MFEK/glif | [open](records/font-briefcase-mfek-glif-bef76d5a.md) |
+| `github_search_font_briefcase-1e87f325b3539f` | tmroyal/woff-viewer | [open](records/font-briefcase-tmroyal-woff-viewer-c24c7430.md) |
 | `github_search_font_briefcase-1e9069af29f682` | adobe-fonts/source-code-pro | [open](records/font-briefcase-adobe-fonts-source-code-pro-81ce7afb.md) |
 | `github_search_font_briefcase-1f599250ce2c03` | 0xType/0xProto | [open](records/font-briefcase-0xtype-0xproto-1a2130ab.md) |
 | `github_search_font_briefcase-1fb861e4375941` | uswds/public-sans | [open](records/font-briefcase-uswds-public-sans-b5c08d4f.md) |
@@ -9761,6 +9765,7 @@
 | `github_search_font_briefcase-5fcb7463a2d987` | ctrlcctrlv/some-time-later | [open](records/font-briefcase-ctrlcctrlv-some-time-later-e915329f.md) |
 | `github_search_font_briefcase-60135d4d9388c7` | source-foundry/font-line | [open](records/font-briefcase-source-foundry-font-line-8f19a031.md) |
 | `github_search_font_briefcase-613639b8a0dff4` | rastikerdar/getting-started-with-fontforge | [open](records/font-briefcase-rastikerdar-getting-started-with-fontforge-fff07879.md) |
+| `github_search_font_briefcase-637469ef52c75f` | xenocrat/sfnt2woff | [open](records/font-briefcase-xenocrat-sfnt2woff-dc69db2f.md) |
 | `github_search_font_briefcase-64972b9b01b718` | nicoverbruggen/kobo-font-fix | [open](records/font-briefcase-nicoverbruggen-kobo-font-fix-2c1a2956.md) |
 | `github_search_font_briefcase-659b4992c596a4` | yashlamba/handwrite | [open](records/font-briefcase-yashlamba-handwrite-49376228.md) |
 | `github_search_font_briefcase-6689cc0dcaddc2` | tomchen/font-template | [open](records/font-briefcase-tomchen-font-template-0d06da69.md) |
@@ -9780,6 +9785,7 @@
 | `github_search_font_briefcase-72591c8206e866` | bearcove/fontcull | [open](records/font-briefcase-bearcove-fontcull-c7a78ec4.md) |
 | `github_search_font_briefcase-7294de7a82d151` | steinbergmedia/bravura | [open](records/font-briefcase-steinbergmedia-bravura-dece6eea.md) |
 | `github_search_font_briefcase-733805e02e803c` | adobe-fonts/source-serif | [open](records/font-briefcase-adobe-fonts-source-serif-816acf27.md) |
+| `github_search_font_briefcase-769cbe3fc2c4fd` | kdydesign/fontagon | [open](records/font-briefcase-kdydesign-fontagon-8d22ca93.md) |
 | `github_search_font_briefcase-784ccf6ea378da` | KonghaYao/chinese-free-web-font-storage | [open](records/font-briefcase-konghayao-chinese-free-web-font-storage-7df90ad6.md) |
 | `github_search_font_briefcase-7aea81d12d8d94` | sgmonda/sergamon | [open](records/font-briefcase-sgmonda-sergamon-dfa8eee2.md) |
 | `github_search_font_briefcase-7d7b17cd286419` | somefreefonts/techna-sans | [open](records/font-briefcase-somefreefonts-techna-sans-69e3191a.md) |
@@ -9798,6 +9804,7 @@
 | `github_search_font_briefcase-8cd7bc17167afe` | weirdoonthebus/Kepler-452b | [open](records/font-briefcase-weirdoonthebus-kepler-452b-db22b8e9.md) |
 | `github_search_font_briefcase-8cdfa184146ee8` | weiweihuanghuang/Work-Sans | [open](records/font-briefcase-weiweihuanghuang-work-sans-ba80b362.md) |
 | `github_search_font_briefcase-8d8ac2a2924451` | javierbyte/brutalita | [open](records/font-briefcase-javierbyte-brutalita-dc2ab11c.md) |
+| `github_search_font_briefcase-8e1a3dfa58727c` | LibreService/my_font_converter | [open](records/font-briefcase-libreservice-my-font-converter-9e5f1a6f.md) |
 | `github_search_font_briefcase-8e576653a28740` | lxgw/LxgwWenkaiGB | [open](records/font-briefcase-lxgw-lxgwwenkaigb-88a0bf20.md) |
 | `github_search_font_briefcase-8f11ea2bfad1d3` | andirueckel/undefined-medium | [open](records/font-briefcase-andirueckel-undefined-medium-cda5d042.md) |
 | `github_search_font_briefcase-8f376c82979fbf` | JohnWong/IconFont | [open](records/font-briefcase-johnwong-iconfont-e032663b.md) |
@@ -9832,9 +9839,11 @@
 | `github_search_font_briefcase-ae9cb9a569c982` | Figma-Linux/figma-linux-font-helper | [open](records/font-briefcase-figma-linux-figma-linux-font-helper-27124cce.md) |
 | `github_search_font_briefcase-af7a160589db90` | fabrizioschiavi/pragmatapro | [open](records/font-briefcase-fabrizioschiavi-pragmatapro-baa7fb72.md) |
 | `github_search_font_briefcase-af8fcc4758edc0` | feat-agency/vite-plugin-webfont-dl | [open](records/font-briefcase-feat-agency-vite-plugin-webfont-dl-51c21c63.md) |
+| `github_search_font_briefcase-afffa64e91fd89` | yne/picon | [open](records/font-briefcase-yne-picon-6fcc814b.md) |
 | `github_search_font_briefcase-b1b7c662afa03c` | weiweihuanghuang/Times-New-Bastard | [open](records/font-briefcase-weiweihuanghuang-times-new-bastard-a6a079bd.md) |
 | `github_search_font_briefcase-b47f12fcb6660f` | ahatem/IoskeleyMono | [open](records/font-briefcase-ahatem-ioskeleymono-31384029.md) |
 | `github_search_font_briefcase-b4909ce0253ce8` | abrudz/APL386 | [open](records/font-briefcase-abrudz-apl386-d2beaf2f.md) |
+| `github_search_font_briefcase-b87fa08baac08e` | avanturation/interlude | [open](records/font-briefcase-avanturation-interlude-b50d3420.md) |
 | `github_search_font_briefcase-b9d084b02920b9` | johnkil/Android-RobotoTextView | [open](records/font-briefcase-johnkil-android-robototextview-991c311a.md) |
 | `github_search_font_briefcase-ba23169c3429e0` | rsms/inter | [open](records/font-briefcase-rsms-inter-116ffabd.md) |
 | `github_search_font_briefcase-bb59b7fa30fc7b` | hatsumatsu/Lab-Mono | [open](records/font-briefcase-hatsumatsu-lab-mono-6d17228b.md) |
@@ -9885,9 +9894,11 @@
 | `github_search_font_briefcase-e2f155e3527d51` | TakWolf/fusion-pixel-font | [open](records/font-briefcase-takwolf-fusion-pixel-font-792cc8c5.md) |
 | `github_search_font_briefcase-e5ff2f93ec7c2b` | ctrlcctrlv/TT2020 | [open](records/font-briefcase-ctrlcctrlv-tt2020-8786d3b6.md) |
 | `github_search_font_briefcase-e5ff5f95440cae` | Iosevka-Mayukai/Iosevka-Mayukai | [open](records/font-briefcase-iosevka-mayukai-iosevka-mayukai-cee63666.md) |
+| `github_search_font_briefcase-e6981e5a1cda30` | adobe-fonts/adobe-blank-vf | [open](records/font-briefcase-adobe-fonts-adobe-blank-vf-33dc4d4a.md) |
 | `github_search_font_briefcase-e6c64291961728` | googlefonts/gftools | [open](records/font-briefcase-googlefonts-gftools-094415d2.md) |
 | `github_search_font_briefcase-e77832877a829a` | 0dist/fontview | [open](records/font-briefcase-0dist-fontview-fb53702c.md) |
 | `github_search_font_briefcase-ed41d9cb5eabc5` | rektdeckard/departure-mono | [open](records/font-briefcase-rektdeckard-departure-mono-3d95d196.md) |
+| `github_search_font_briefcase-ed435bbb20d307` | typehaus/metropolis | [open](records/font-briefcase-typehaus-metropolis-b71cc210.md) |
 | `github_search_font_briefcase-ed713455066b29` | sztupy/accentizer | [open](records/font-briefcase-sztupy-accentizer-ef2a8cb1.md) |
 | `github_search_font_briefcase-eddddae4263dd6` | lxgw/LxgwZhenKai | [open](records/font-briefcase-lxgw-lxgwzhenkai-2a48730c.md) |
 | `github_search_font_briefcase-ee6f854bd6e9b8` | aMarCruz/react-native-text-size | [open](records/font-briefcase-amarcruz-react-native-text-size-2c4b2ae8.md) |
@@ -9908,6 +9919,7 @@
 | `github_search_font_briefcase-f8a33a9d9fcc25` | rubjo/victor-mono | [open](records/font-briefcase-rubjo-victor-mono-2ab28caa.md) |
 | `github_search_font_briefcase-f8eeb25380fde9` | hckiang/font-new-heterodox-mono | [open](records/font-briefcase-hckiang-font-new-heterodox-mono-27da0bc9.md) |
 | `github_search_font_briefcase-fbc281b3803d09` | kreativekorp/bitsnpicas | [open](records/font-briefcase-kreativekorp-bitsnpicas-11f0ed77.md) |
+| `github_search_font_briefcase-ff9d209a248751` | ohmybahgosh/FONTS_DOT_COM_RIPPER | [open](records/font-briefcase-ohmybahgosh-fonts-dot-com-ripper-417b355f.md) |
 | `github_search_game_engines-00fd5536e995dc` | agones-dev/agones | [open](records/game-engines-agones-dev-agones-16e87465.md) |
 | `github_search_game_engines-024ecead1878c0` | ramokz/phantom-camera | [open](records/game-engines-ramokz-phantom-camera-2b551fee.md) |
 | `github_search_game_engines-034a3011e8de3d` | SanderMertens/flecs | [open](records/game-engines-sandermertens-flecs-5d50129f.md) |

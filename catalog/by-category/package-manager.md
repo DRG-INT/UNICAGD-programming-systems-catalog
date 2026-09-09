@@ -1,6 +1,6 @@
 # Package Manager
 
-Records: `445`
+Records: `447`
 
 ## Navigation
 
@@ -14,13 +14,13 @@ Records: `445`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (111)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (470)](ffi-bindings.md) · [Filesystem Os (1647)](filesystem-os.md) · [Formatter (657)](formatter.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (470)](ffi-bindings.md) · [Filesystem Os (1649)](filesystem-os.md) · [Formatter (657)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1489)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1457)](language-specification.md) · [Library (5894)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1458)](language-specification.md) · [Library (5900)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (537)](logging-observability.md) · [Machine Learning (824)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1071)](networking-http.md)
-[Other (14)](other.md) · **[Package Manager (445)](package-manager.md)** · [Parser Lexer Ast (1219)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
+[Other (14)](other.md) · **[Package Manager (447)](package-manager.md)** · [Parser Lexer Ast (1220)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
@@ -297,15 +297,17 @@ Records: `445`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| daniel-araujo/fontfacegen-webpack-plugin | partial | 2026-08-23T15:36:34Z | [open](../records/font-briefcase-daniel-araujo-fontfacegen-webpack-plugin-0f015bd4.md) |
 | fontsource/fontsource | partial | 2026-09-06T11:22:44Z | [open](../records/font-briefcase-fontsource-fontsource-b8fc6b63.md) |
 | KyleAMathews/typefaces | partial | 2023-09-09T15:09:22Z | [open](../records/font-briefcase-kyleamathews-typefaces-e4736f4b.md) |
+| typehaus/metropolis | partial | 2022-04-24T06:59:16Z | [open](../records/font-briefcase-typehaus-metropolis-b71cc210.md) |
 
 ## Assets
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AhmadHassan-BTed/EQAI | partial | 2026-07-03T07:34:53Z | [open](../records/assets-ahmadhassan-bted-eqai-ab6e6928.md) |
-| assimp/assimp | partial | 2026-09-08T13:59:55Z | [open](../records/assets-assimp-assimp-d6a268c7.md) |
+| assimp/assimp | partial | 2026-09-09T22:26:21Z | [open](../records/assets-assimp-assimp-d6a268c7.md) |
 | bodrovis/jquery-slick-rails | partial | 2021-12-13T21:22:05Z | [open](../records/assets-bodrovis-jquery-slick-rails-19f66f84.md) |
 | dbackowski/socket.io-rails | partial | 2019-12-10T20:24:07Z | [open](../records/assets-dbackowski-socket-io-rails-b6f71348.md) |
 | envygeeks/jekyll-assets | partial | 2024-02-20T15:08:38Z | [open](../records/assets-envygeeks-jekyll-assets-ba6d3cdb.md) |
@@ -489,9 +491,9 @@ Records: `445`
 | 0x6d69636b/windows_hardening | partial | 2026-08-31T17:08:57Z | [open](../records/catalogs-0x6d69636b-windows-hardening-800b6709.md) |
 | 89luca89/lilipod | partial | 2026-02-13T14:56:47Z | [open](../records/catalogs-89luca89-lilipod-04b83b9a.md) |
 | Aetherinox/pause-windows-updates | partial | 2025-10-27T17:52:56Z | [open](../records/catalogs-aetherinox-pause-windows-updates-950b61a1.md) |
-| agentclientprotocol/registry | partial | 2026-09-09T14:59:48Z | [open](../records/catalogs-agentclientprotocol-registry-7431edbd.md) |
+| agentclientprotocol/registry | partial | 2026-09-09T21:26:28Z | [open](../records/catalogs-agentclientprotocol-registry-7431edbd.md) |
 | agentic-community/mcp-gateway-registry | partial | 2026-09-09T03:35:28Z | [open](../records/catalogs-agentic-community-mcp-gateway-registry-642bbde2.md) |
-| agentregistry-dev/agentregistry | partial | 2026-09-09T00:53:46Z | [open](../records/catalogs-agentregistry-dev-agentregistry-33204e4a.md) |
+| agentregistry-dev/agentregistry | partial | 2026-09-09T22:22:35Z | [open](../records/catalogs-agentregistry-dev-agentregistry-33204e4a.md) |
 | ancel1x/Ancels-Performance-Batch | partial | 2026-04-03T17:54:00Z | [open](../records/catalogs-ancel1x-ancels-performance-batch-c6cc4451.md) |
 | andrey-pohilko/registry-cli | partial | 2025-08-21T07:46:50Z | [open](../records/catalogs-andrey-pohilko-registry-cli-f5eec2cd.md) |
 | Arvanaghi/SessionGopher | partial | 2022-11-22T21:33:23Z | [open](../records/catalogs-arvanaghi-sessiongopher-9db51615.md) |
@@ -500,8 +502,8 @@ Records: `445`
 | carvel-dev/imgpkg | partial | 2026-09-03T12:29:51Z | [open](../records/catalogs-carvel-dev-imgpkg-3458fef2.md) |
 | cjee21/Check-UEFISecureBootVariables | partial | 2026-09-02T09:04:25Z | [open](../records/catalogs-cjee21-check-uefisecurebootvariables-8ec8a26c.md) |
 | cloudflare/serverless-registry | partial | 2026-08-17T16:59:41Z | [open](../records/catalogs-cloudflare-serverless-registry-7e15c0d4.md) |
-| cmintey/wishlist | partial | 2026-09-09T01:53:21Z | [open](../records/catalogs-cmintey-wishlist-8f5a4a92.md) |
-| cnpm/cnpmcore | partial | 2026-09-08T19:07:22Z | [open](../records/catalogs-cnpm-cnpmcore-7672c148.md) |
+| cmintey/wishlist | partial | 2026-09-09T21:47:44Z | [open](../records/catalogs-cmintey-wishlist-8f5a4a92.md) |
+| cnpm/cnpmcore | partial | 2026-09-09T19:10:12Z | [open](../records/catalogs-cnpm-cnpmcore-7672c148.md) |
 | cnpm/cnpmjs.org | partial | 2024-06-01T19:41:29Z | [open](../records/catalogs-cnpm-cnpmjs-org-47ae554f.md) |
 | containrrr/watchtower | partial | 2025-12-17T14:44:11Z | [open](../records/catalogs-containrrr-watchtower-abb7042e.md) |
 | cr0hn/dockerscan | partial | 2026-09-09T12:12:37Z | [open](../records/catalogs-cr0hn-dockerscan-25f3fe5a.md) |
@@ -525,8 +527,8 @@ Records: `445`
 | Foulest/RepairKit | partial | 2026-09-07T18:54:36Z | [open](../records/catalogs-foulest-repairkit-96da04d2.md) |
 | GiovanniDicanio/WinReg | partial | 2026-08-21T18:01:01Z | [open](../records/catalogs-giovannidicanio-winreg-b855affc.md) |
 | git-pkgs/proxy | partial | 2026-09-04T15:34:02Z | [open](../records/catalogs-git-pkgs-proxy-d3c42acb.md) |
-| goharbor/harbor | partial | 2026-09-09T11:56:20Z | [open](../records/catalogs-goharbor-harbor-ec2d9450.md) |
-| google/go-containerregistry | partial | 2026-09-09T02:39:31Z | [open](../records/catalogs-google-go-containerregistry-38c3c5cd.md) |
+| goharbor/harbor | partial | 2026-09-09T20:42:46Z | [open](../records/catalogs-goharbor-harbor-ec2d9450.md) |
+| google/go-containerregistry | partial | 2026-09-09T21:22:59Z | [open](../records/catalogs-google-go-containerregistry-38c3c5cd.md) |
 | harrisonwang/wharf | partial | 2026-05-07T01:09:05Z | [open](../records/catalogs-harrisonwang-wharf-662407ae.md) |
 | hellzerg/optimizerNXT | partial | 2026-01-22T17:07:40Z | [open](../records/catalogs-hellzerg-optimizernxt-1c59a09c.md) |
 | helsing-ai/buffrs | partial | 2026-06-27T06:56:00Z | [open](../records/catalogs-helsing-ai-buffrs-d8b46340.md) |
@@ -554,19 +556,19 @@ Records: `445`
 | npm/registry | partial | 2024-06-02T19:19:54Z | [open](../records/catalogs-npm-registry-4330171b.md) |
 | Observal/Observal | partial | 2026-09-08T11:12:06Z | [open](../records/catalogs-observal-observal-b4833836.md) |
 | open-services/open-registry | partial | 2022-05-26T22:36:15Z | [open](../records/catalogs-open-services-open-registry-c7dd1e7f.md) |
-| openupm/openupm | partial | 2026-09-08T15:33:11Z | [open](../records/catalogs-openupm-openupm-b86041d5.md) |
+| openupm/openupm | partial | 2026-09-09T18:09:07Z | [open](../records/catalogs-openupm-openupm-b86041d5.md) |
 | oras-project/oras | partial | 2026-09-09T14:40:57Z | [open](../records/catalogs-oras-project-oras-63269fb9.md) |
-| oras-project/oras-go | partial | 2026-09-08T21:20:45Z | [open](../records/catalogs-oras-project-oras-go-5d7d0c28.md) |
+| oras-project/oras-go | partial | 2026-09-09T18:13:13Z | [open](../records/catalogs-oras-project-oras-go-5d7d0c28.md) |
 | outsideris/citizen | partial | 2024-10-12T20:14:31Z | [open](../records/catalogs-outsideris-citizen-8805d3c4.md) |
 | packistry/packistry | partial | 2026-08-12T19:19:09Z | [open](../records/catalogs-packistry-packistry-e15ec62a.md) |
 | psviderski/unregistry | partial | 2026-07-14T02:56:03Z | [open](../records/catalogs-psviderski-unregistry-3f86a01d.md) |
 | pypi/warehouse | partial | 2026-09-04T12:53:16Z | [open](../records/catalogs-pypi-warehouse-5a5ebfce.md) |
 | Railly/tinte | partial | 2026-08-08T01:10:38Z | [open](../records/catalogs-railly-tinte-4b7c9203.md) |
 | react-native-community/directory | partial | 2026-09-09T06:31:11Z | [open](../records/catalogs-react-native-community-directory-369a61a1.md) |
-| regclient/regclient | partial | 2026-09-02T14:58:43Z | [open](../records/catalogs-regclient-regclient-e0f0e503.md) |
+| regclient/regclient | partial | 2026-09-09T21:12:36Z | [open](../records/catalogs-regclient-regclient-e0f0e503.md) |
 | replicatedhq/ttl.sh | partial | 2026-09-08T16:18:08Z | [open](../records/catalogs-replicatedhq-ttl-sh-9a1263b3.md) |
 | riferrei/srclient | partial | 2025-10-30T23:49:01Z | [open](../records/catalogs-riferrei-srclient-a30143ad.md) |
-| rtvkiz/minimal | partial | 2026-09-09T13:14:08Z | [open](../records/catalogs-rtvkiz-minimal-8b1ffe5f.md) |
+| rtvkiz/minimal | partial | 2026-09-09T22:17:32Z | [open](../records/catalogs-rtvkiz-minimal-8b1ffe5f.md) |
 | salasaurusrex/context_menu | partial | 2024-09-14T17:11:04Z | [open](../records/catalogs-salasaurusrex-context-menu-31bf20dd.md) |
 | SatyamVyas04/sensory-ui | partial | 2026-07-31T17:24:47Z | [open](../records/catalogs-satyamvyas04-sensory-ui-ee86cab1.md) |
 | scarf-sh/gateway | partial | 2026-06-13T16:09:48Z | [open](../records/catalogs-scarf-sh-gateway-74aad772.md) |
@@ -577,17 +579,17 @@ Records: `445`
 | skilld-dev/skilld | partial | 2026-09-08T04:22:22Z | [open](../records/catalogs-skilld-dev-skilld-f86e137d.md) |
 | sky22333/hubproxy | partial | 2026-08-02T13:47:26Z | [open](../records/catalogs-sky22333-hubproxy-37c3d79d.md) |
 | spegel-org/spegel | partial | 2026-09-08T07:03:06Z | [open](../records/catalogs-spegel-org-spegel-05ead580.md) |
-| superdesigndev/treg | partial | 2026-09-09T14:42:53Z | [open](../records/catalogs-superdesigndev-treg-2bceb567.md) |
+| superdesigndev/treg | partial | 2026-09-09T16:51:41Z | [open](../records/catalogs-superdesigndev-treg-2bceb567.md) |
 | tektoncd/catalog | partial | 2026-07-03T10:04:40Z | [open](../records/catalogs-tektoncd-catalog-3a3ca6b3.md) |
-| terralist/terralist | partial | 2026-09-05T09:04:50Z | [open](../records/catalogs-terralist-terralist-ed589b1f.md) |
+| terralist/terralist | partial | 2026-09-09T17:52:18Z | [open](../records/catalogs-terralist-terralist-ed589b1f.md) |
 | Trow-Registry/trow | partial | 2026-09-01T07:08:25Z | [open](../records/catalogs-trow-registry-trow-1a7e3ee6.md) |
-| verdaccio/verdaccio | partial | 2026-09-07T15:21:13Z | [open](../records/catalogs-verdaccio-verdaccio-7a4506f2.md) |
+| verdaccio/verdaccio | partial | 2026-09-09T21:03:30Z | [open](../records/catalogs-verdaccio-verdaccio-7a4506f2.md) |
 | VikasSukhija/Downloads | partial | 2025-02-16T19:44:35Z | [open](../records/catalogs-vikassukhija-downloads-c1fb5d74.md) |
 | vltpkg/vsr | partial | 2026-08-25T19:35:52Z | [open](../records/catalogs-vltpkg-vsr-5a37f965.md) |
 | wasm-bindgen/wasm-pack | partial | 2026-08-12T18:56:24Z | [open](../records/catalogs-wasm-bindgen-wasm-pack-4dcc019c.md) |
 | WereDev/Wu10Man | partial | 2023-12-05T23:30:01Z | [open](../records/catalogs-weredev-wu10man-57b7d4b9.md) |
 | wtklbm/crm | partial | 2025-08-14T11:13:19Z | [open](../records/catalogs-wtklbm-crm-10d581b7.md) |
-| zoicware/ZOICWARE | partial | 2026-09-07T22:31:12Z | [open](../records/catalogs-zoicware-zoicware-ccb8949a.md) |
+| zoicware/ZOICWARE | partial | 2026-09-09T16:32:41Z | [open](../records/catalogs-zoicware-zoicware-ccb8949a.md) |
 
 ## Magazines
 
