@@ -198,7 +198,7 @@ Records: `287`
 | [Mayankm96/Stereo-Odometry-SOFT](../records/matlab-mayankm96-stereo-odometry-soft-c49a2549.md) | partial | 2018-11-23T17:37:38Z | registry-derived |
 | [MeowLucian/SDR_Matlab_OFDM_802.11a](../records/matlab-meowlucian-sdr-matlab-ofdm-802-11a-5ed3430a.md) | partial | 2018-04-07T01:23:52Z | registry-derived |
 | [mikeroyal/MATLAB-Guide](../records/matlab-mikeroyal-matlab-guide-ce86917d.md) | partial | 2022-04-03T19:04:46Z | registry-derived |
-| [mohammadrezwankhan/matlab-simulink-energy-lab](../records/matlab-mohammadrezwankhan-matlab-simulink-energy-lab-1613dbf1.md) | partial | 2026-09-08T20:18:02Z | registry-derived |
+| [mohammadrezwankhan/matlab-simulink-energy-lab](../records/matlab-mohammadrezwankhan-matlab-simulink-energy-lab-1613dbf1.md) | partial | 2026-09-09T09:20:23Z | registry-derived |
 | [moranzcw/AndrewNg-Machine-Learning-NOTES](../records/matlab-moranzcw-andrewng-machine-learning-notes-4a3f9206.md) | partial | 2018-12-11T16:22:09Z | registry-derived |
 | [morriswmz/doa-tools](../records/matlab-morriswmz-doa-tools-1d8c8495.md) | partial | 2018-11-07T20:47:45Z | registry-derived |
 | [mtex-toolbox/mtex](../records/matlab-mtex-toolbox-mtex-c19e6fb8.md) | partial | 2026-09-09T07:45:56Z | registry-derived |

@@ -183,7 +183,7 @@ Records: `599`
 | [aslost/pixtale](../records/photography-aslost-pixtale-df702412.md) | partial | 2026-09-01T14:07:49Z | registry-derived |
 | [Awalz/SwiftyCam](../records/photography-awalz-swiftycam-8b6b12a3.md) | partial | 2022-02-04T10:24:45Z | registry-derived |
 | [awxkee/avif.swift](../records/photography-awxkee-avif-swift-72b07b3d.md) | partial | 2026-04-29T10:30:31Z | registry-derived |
-| [Bitpainter75/FerrumPix](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) | partial | 2026-09-08T22:31:19Z | registry-derived |
+| [Bitpainter75/FerrumPix](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) | partial | 2026-09-09T09:11:03Z | registry-derived |
 | [carina-studio/PixelViewer](../records/photography-carina-studio-pixelviewer-70d11532.md) | partial | 2026-09-09T04:02:06Z | registry-derived |
 | [carlospuenteg/File-Injector](../records/photography-carlospuenteg-file-injector-2533177f.md) | partial | 2022-11-18T00:20:21Z | registry-derived |
 | [carlospuenteg/Photomosaic-Creator](../records/photography-carlospuenteg-photomosaic-creator-b57e7ad4.md) | unknown | github_search_does_not_include_release_date | registry-derived |
@@ -200,7 +200,7 @@ Records: `599`
 | [GEEKiDoS/bitblt-hdr](../records/photography-geekidos-bitblt-hdr-d6f3d105.md) | partial | 2026-05-14T04:13:50Z | registry-derived |
 | [gergelysanta/PhotoMiner](../records/photography-gergelysanta-photominer-7d3deb74.md) | partial | 2025-02-09T13:08:04Z | registry-derived |
 | [HaishinKit/HaishinKit.swift](../records/photography-haishinkit-haishinkit-swift-ee473b6b.md) | partial | 2026-08-30T12:17:41Z | registry-derived |
-| [hanatos/vkdt](../records/photography-hanatos-vkdt-673c0f96.md) | partial | 2026-08-14T08:13:27Z | registry-derived |
+| [hanatos/vkdt](../records/photography-hanatos-vkdt-673c0f96.md) | partial | 2026-09-09T09:20:08Z | registry-derived |
 | [hulk66/timeline](../records/photography-hulk66-timeline-edac6d56.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [indulgeIn/YBImageBrowser](../records/photography-indulgein-ybimagebrowser-e5a55591.md) | partial | 2023-11-24T10:57:58Z | registry-derived |
 | [jdisho/Papr](../records/photography-jdisho-papr-d97d54b2.md) | partial | 2020-09-17T16:39:35Z | registry-derived |
@@ -335,7 +335,7 @@ Records: `599`
 | [op7418/guizang-yingzao-skill](../records/photography-op7418-guizang-yingzao-skill-4d695bec.md) | partial | 2026-09-03T09:51:13Z | registry-derived |
 | [open-mmlab/mmagic](../records/photography-open-mmlab-mmagic-0ddafded.md) | partial | 2024-08-06T07:19:40Z | registry-derived |
 | [panpf/sketch](../records/photography-panpf-sketch-813812e6.md) | partial | 2026-08-08T08:33:06Z | registry-derived |
-| [PhotoFlare/photoflare](../records/photography-photoflare-photoflare-54d4deb9.md) | partial | 2026-09-09T06:19:39Z | registry-derived |
+| [PhotoFlare/photoflare](../records/photography-photoflare-photoflare-54d4deb9.md) | partial | 2026-09-09T08:01:32Z | registry-derived |
 | [photostructure/exiftool-vendored.js](../records/photography-photostructure-exiftool-vendored-js-7488694d.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [PicPeak/picpeak](../records/photography-picpeak-picpeak-ff45b8ad.md) | partial | 2026-09-08T20:39:56Z | registry-derived |
 | [piemonte/PBJVision](../records/photography-piemonte-pbjvision-040d75d4.md) | partial | 2021-03-03T06:14:45Z | registry-derived |
@@ -656,7 +656,7 @@ Records: `599`
 | [iammatthias/com](../records/photography-iammatthias-com-e27dacc6.md) | partial | 2026-09-03T22:25:49Z | registry-derived |
 | [iib0011/omni-tools](../records/photography-iib0011-omni-tools-25e339f6.md) | partial | 2026-08-17T19:00:25Z | registry-derived |
 | [imgproxy/imgproxy](../records/photography-imgproxy-imgproxy-fffb72aa.md) | partial | 2026-09-03T21:44:22Z | registry-derived |
-| [jim-easterbrook/Photini](../records/photography-jim-easterbrook-photini-e6016870.md) | partial | 2026-09-08T16:19:24Z | registry-derived |
+| [jim-easterbrook/Photini](../records/photography-jim-easterbrook-photini-e6016870.md) | partial | 2026-09-09T07:39:05Z | registry-derived |
 | [kydecker/astro-photo-grid](../records/photography-kydecker-astro-photo-grid-8e515209.md) | partial | 2026-08-11T01:32:56Z | registry-derived |
 | [lunohodov/awesome-astrophotography](../records/photography-lunohodov-awesome-astrophotography-2e7b7b64.md) | partial | 2026-06-11T04:43:54Z | registry-derived |
 | [Naxela/The_Lightmapper](../records/photography-naxela-the-lightmapper-5258d55d.md) | partial | 2026-07-18T22:24:35Z | registry-derived |

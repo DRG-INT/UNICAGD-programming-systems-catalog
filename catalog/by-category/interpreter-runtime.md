@@ -333,7 +333,7 @@ Records: `276`
 | --- | --- | --- | --- |
 | a-r-d/PureJsImage | partial | 2026-09-08T15:26:02Z | [open](../records/microscopy-a-r-d-purejsimage-f9287947.md) |
 | ziatdinovmax/GPim | partial | 2023-11-24T06:29:59Z | [open](../records/microscopy-ziatdinovmax-gpim-a892ca24.md) |
-| ziatdinovmax/SciLink | partial | 2026-09-09T06:26:57Z | [open](../records/microscopy-ziatdinovmax-scilink-c222b07f.md) |
+| ziatdinovmax/SciLink | partial | 2026-09-09T08:41:07Z | [open](../records/microscopy-ziatdinovmax-scilink-c222b07f.md) |
 
 ## Telescopes
 

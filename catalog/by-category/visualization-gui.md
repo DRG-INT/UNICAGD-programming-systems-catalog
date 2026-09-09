@@ -575,7 +575,7 @@ Records: `563`
 | Natron | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-natron-37c82791.md) |
 | NumberOneBot/dsssp | partial | 2026-08-12T22:46:18Z | [open](../records/effects-numberonebot-dsssp-f459bfd0.md) |
 | PixiJS Filters | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-pixijs-filters-2c7b5506.md) |
-| pschatzmann/arduino-audio-tools | partial | 2026-09-06T16:05:32Z | [open](../records/effects-pschatzmann-arduino-audio-tools-8c3c4f05.md) |
+| pschatzmann/arduino-audio-tools | partial | 2026-09-08T21:16:24Z | [open](../records/effects-pschatzmann-arduino-audio-tools-8c3c4f05.md) |
 | PyDevices/audioif | partial | 2026-09-09T06:04:25Z | [open](../records/effects-pydevices-audioif-0d02c96c.md) |
 | rsadsb/adsb_deku | partial | 2026-01-04T16:18:33Z | [open](../records/effects-rsadsb-adsb-deku-ce700c3e.md) |
 | Shadertoy | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/effects-shadertoy-7ba0fe72.md) |

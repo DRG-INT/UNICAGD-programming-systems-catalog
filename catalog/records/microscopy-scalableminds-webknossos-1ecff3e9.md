@@ -32,7 +32,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-09T06:27:55Z | gh search repos topic:microscopy stars:>20 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-09T07:41:46Z | gh search repos topic:microscopy stars:>20 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert

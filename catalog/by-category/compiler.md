@@ -225,7 +225,7 @@ Records: `176`
 | --- | --- | --- | --- |
 | seanwood/gcc-nmf | partial | 2019-04-08T19:05:51Z | [open](../records/audio-seanwood-gcc-nmf-11e855f5.md) |
 | vult-dsp/vult | partial | 2026-09-06T10:49:06Z | [open](../records/audio-vult-dsp-vult-61a05f1e.md) |
-| Wasted-Audio/hvcc | partial | 2026-09-07T23:23:13Z | [open](../records/audio-wasted-audio-hvcc-6c62ec1c.md) |
+| Wasted-Audio/hvcc | partial | 2026-09-09T08:54:20Z | [open](../records/audio-wasted-audio-hvcc-6c62ec1c.md) |
 
 ## Telescopes
 
@@ -250,7 +250,7 @@ Records: `176`
 | emproof-com/nyxstone | partial | 2026-06-05T16:43:08Z | [open](../records/assembly-emproof-com-nyxstone-2e6c50f8.md) |
 | Fedjmike/mini-c | partial | 2022-04-15T08:24:14Z | [open](../records/assembly-fedjmike-mini-c-295a2fc0.md) |
 | HexHive/retrowrite | partial | 2025-04-26T16:48:55Z | [open](../records/assembly-hexhive-retrowrite-c7fefa2b.md) |
-| illegalstudio/elephc | partial | 2026-09-09T08:14:18Z | [open](../records/assembly-illegalstudio-elephc-5fbaada8.md) |
+| illegalstudio/elephc | partial | 2026-09-09T08:59:40Z | [open](../records/assembly-illegalstudio-elephc-5fbaada8.md) |
 | joexbayer/RetrOS-32 | partial | 2026-02-22T16:07:58Z | [open](../records/assembly-joexbayer-retros-32-b6c205a2.md) |
 | JustasMasiulis/inline_syscall | partial | 2024-06-21T00:26:33Z | [open](../records/assembly-justasmasiulis-inline-syscall-0c8a798a.md) |
 | Mati365/ts-c-compiler | partial | 2026-08-11T06:13:10Z | [open](../records/assembly-mati365-ts-c-compiler-bc7fb5c3.md) |

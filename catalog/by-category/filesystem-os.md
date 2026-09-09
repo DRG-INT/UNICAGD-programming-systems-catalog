@@ -579,7 +579,7 @@ Records: `1620`
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-08-30T15:02:19Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-09T08:13:24Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-09T09:12:41Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -1000,7 +1000,7 @@ Records: `1620`
 | aiyaapp/AiyaEffectsIOS | partial | 2021-02-02T01:20:00Z | [open](../records/effects-aiyaapp-aiyaeffectsios-74a3ed57.md) |
 | Alchemist0823/three.quarks | partial | 2026-05-21T01:48:08Z | [open](../records/effects-alchemist0823-three-quarks-ef545dfc.md) |
 | allusive-dev/compfy | partial | 2024-02-22T02:54:38Z | [open](../records/effects-allusive-dev-compfy-a54fd05c.md) |
-| AmplitudeAudio/sdk | partial | 2026-09-05T23:15:05Z | [open](../records/effects-amplitudeaudio-sdk-34ae5fe0.md) |
+| AmplitudeAudio/sdk | partial | 2026-09-08T02:46:29Z | [open](../records/effects-amplitudeaudio-sdk-34ae5fe0.md) |
 | andrepxx/go-dsp-guitar | partial | 2026-09-08T13:39:32Z | [open](../records/effects-andrepxx-go-dsp-guitar-ce4b26a1.md) |
 | Ariakim-Taiyo/GeoFS-Shaders-Repository | partial | 2025-08-08T07:01:04Z | [open](../records/effects-ariakim-taiyo-geofs-shaders-repository-e1d48b19.md) |
 | Arnklit/godot-paint-postprocessing | partial | 2021-03-26T16:56:54Z | [open](../records/effects-arnklit-godot-paint-postprocessing-45e455ab.md) |
@@ -1133,7 +1133,7 @@ Records: `1620`
 | OctoCrane/Re-Shade-Effects | unknown | github_latest_release_missing | [open](../records/effects-octocrane-re-shade-effects-d88e30f6.md) |
 | OmarShehata/webgl-outlines | partial | 2022-12-09T15:57:56Z | [open](../records/effects-omarshehata-webgl-outlines-91f626e3.md) |
 | open-atmos/PyPartMC | partial | 2026-09-01T18:08:39Z | [open](../records/effects-open-atmos-pypartmc-5dde2ebe.md) |
-| open-atmos/PySDM | partial | 2026-09-04T11:53:13Z | [open](../records/effects-open-atmos-pysdm-9411c0d3.md) |
+| open-atmos/PySDM | partial | 2026-09-08T20:09:10Z | [open](../records/effects-open-atmos-pysdm-9411c0d3.md) |
 | oxysoft/RetroSuite3D | partial | 2019-01-25T16:25:09Z | [open](../records/effects-oxysoft-retrosuite3d-c8a9b262.md) |
 | perfah/Rustland | partial | 2020-03-15T19:50:21Z | [open](../records/effects-perfah-rustland-18426ed4.md) |
 | piellardj/post-treatment-gpu | unknown | github_latest_release_missing | [open](../records/effects-piellardj-post-treatment-gpu-28d6f1e8.md) |
@@ -1143,7 +1143,7 @@ Records: `1620`
 | protyposis/Spectaculum | partial | 2024-02-21T09:28:30Z | [open](../records/effects-protyposis-spectaculum-fcac9d0d.md) |
 | QianMo/X-PostProcessing-Library | partial | 2023-07-14T17:42:11Z | [open](../records/effects-qianmo-x-postprocessing-library-3834f7d5.md) |
 | radoslawregula/reverb-algorithms | partial | 2020-02-09T11:12:27Z | [open](../records/effects-radoslawregula-reverb-algorithms-0f4a1d2f.md) |
-| ralgar/vkShade | partial | 2026-09-08T20:26:40Z | [open](../records/effects-ralgar-vkshade-027f2833.md) |
+| ralgar/vkShade | partial | 2026-09-09T00:56:00Z | [open](../records/effects-ralgar-vkshade-027f2833.md) |
 | rcalixte/awesome-wayland | partial | 2026-09-05T17:56:05Z | [open](../records/effects-rcalixte-awesome-wayland-4cc39bd2.md) |
 | robclouth/noise-canvas | partial | 2026-08-25T09:29:49Z | [open](../records/effects-robclouth-noise-canvas-171ca6d8.md) |
 | rockbite/talos | partial | 2026-08-18T11:17:42Z | [open](../records/effects-rockbite-talos-07105463.md) |
@@ -1272,7 +1272,7 @@ Records: `1620`
 | aslost/pixtale | partial | 2026-09-01T14:07:49Z | [open](../records/photography-aslost-pixtale-df702412.md) |
 | Awalz/SwiftyCam | partial | 2022-02-04T10:24:45Z | [open](../records/photography-awalz-swiftycam-8b6b12a3.md) |
 | awxkee/avif.swift | partial | 2026-04-29T10:30:31Z | [open](../records/photography-awxkee-avif-swift-72b07b3d.md) |
-| Bitpainter75/FerrumPix | partial | 2026-09-08T22:31:19Z | [open](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) |
+| Bitpainter75/FerrumPix | partial | 2026-09-09T09:11:03Z | [open](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) |
 | carina-studio/PixelViewer | partial | 2026-09-09T04:02:06Z | [open](../records/photography-carina-studio-pixelviewer-70d11532.md) |
 | carlospuenteg/File-Injector | partial | 2022-11-18T00:20:21Z | [open](../records/photography-carlospuenteg-file-injector-2533177f.md) |
 | carlospuenteg/Photomosaic-Creator | unknown | github_search_does_not_include_release_date | [open](../records/photography-carlospuenteg-photomosaic-creator-b57e7ad4.md) |
@@ -1289,7 +1289,7 @@ Records: `1620`
 | GEEKiDoS/bitblt-hdr | partial | 2026-05-14T04:13:50Z | [open](../records/photography-geekidos-bitblt-hdr-d6f3d105.md) |
 | gergelysanta/PhotoMiner | partial | 2025-02-09T13:08:04Z | [open](../records/photography-gergelysanta-photominer-7d3deb74.md) |
 | HaishinKit/HaishinKit.swift | partial | 2026-08-30T12:17:41Z | [open](../records/photography-haishinkit-haishinkit-swift-ee473b6b.md) |
-| hanatos/vkdt | partial | 2026-08-14T08:13:27Z | [open](../records/photography-hanatos-vkdt-673c0f96.md) |
+| hanatos/vkdt | partial | 2026-09-09T09:20:08Z | [open](../records/photography-hanatos-vkdt-673c0f96.md) |
 | hulk66/timeline | unknown | github_search_does_not_include_release_date | [open](../records/photography-hulk66-timeline-edac6d56.md) |
 | indulgeIn/YBImageBrowser | partial | 2023-11-24T10:57:58Z | [open](../records/photography-indulgein-ybimagebrowser-e5a55591.md) |
 | jdisho/Papr | partial | 2020-09-17T16:39:35Z | [open](../records/photography-jdisho-papr-d97d54b2.md) |
@@ -1355,8 +1355,8 @@ Records: `1620`
 | dancsalo/TensorFlow-MIL | partial | 2020-08-24T19:46:19Z | [open](../records/microscopy-dancsalo-tensorflow-mil-823d26d9.md) |
 | david-hoffman/pyotf | partial | 2024-04-08T20:58:26Z | [open](../records/microscopy-david-hoffman-pyotf-f47c74b0.md) |
 | deepinv/deepinv | partial | 2026-09-08T15:39:51Z | [open](../records/microscopy-deepinv-deepinv-59141df0.md) |
-| delmic/odemis | partial | 2026-09-08T11:11:16Z | [open](../records/microscopy-delmic-odemis-64e6d3c9.md) |
-| fairscope/PlanktoScope | partial | 2026-09-07T10:19:06Z | [open](../records/microscopy-fairscope-planktoscope-9189e5a9.md) |
+| delmic/odemis | partial | 2026-09-09T09:10:34Z | [open](../records/microscopy-delmic-odemis-64e6d3c9.md) |
+| fairscope/PlanktoScope | partial | 2026-09-09T07:19:09Z | [open](../records/microscopy-fairscope-planktoscope-9189e5a9.md) |
 | google-research/sofima | partial | 2026-08-06T15:10:50Z | [open](../records/microscopy-google-research-sofima-72568ecb.md) |
 | gtatters/ThermImageJ | partial | 2026-06-27T21:06:25Z | [open](../records/microscopy-gtatters-thermimagej-e96d3524.md) |
 | GuillaumeMougeot/biom3d | partial | 2026-03-30T07:54:44Z | [open](../records/microscopy-guillaumemougeot-biom3d-7ae5f94d.md) |
@@ -1386,12 +1386,12 @@ Records: `1620`
 | pymmcore-plus/napari-micromanager | partial | 2026-09-07T16:26:34Z | [open](../records/microscopy-pymmcore-plus-napari-micromanager-ee37e322.md) |
 | pymmcore-plus/pymmcore-plus | partial | 2026-09-07T16:29:28Z | [open](../records/microscopy-pymmcore-plus-pymmcore-plus-c09b4755.md) |
 | pymontecarlo/pymontecarlo | partial | 2022-01-16T17:02:44Z | [open](../records/microscopy-pymontecarlo-pymontecarlo-376c3fcd.md) |
-| PytorchConnectomics/pytorch_connectomics | partial | 2026-09-09T06:12:17Z | [open](../records/microscopy-pytorchconnectomics-pytorch-connectomics-6aa6d39f.md) |
+| PytorchConnectomics/pytorch_connectomics | partial | 2026-09-09T06:47:18Z | [open](../records/microscopy-pytorchconnectomics-pytorch-connectomics-6aa6d39f.md) |
 | raacampbell/openstage | partial | 2021-04-17T17:24:46Z | [open](../records/microscopy-raacampbell-openstage-800e84a5.md) |
 | rapidsai/cucim | partial | 2026-09-08T21:01:33Z | [open](../records/microscopy-rapidsai-cucim-6fd9f972.md) |
 | royerlab/cytoself | partial | 2025-08-05T18:46:40Z | [open](../records/microscopy-royerlab-cytoself-b2dff824.md) |
 | rwb27/openflexure_microscope | partial | 2019-04-30T15:12:38Z | [open](../records/microscopy-rwb27-openflexure-microscope-9f4f36b7.md) |
-| scalableminds/webknossos | partial | 2026-09-09T06:27:55Z | [open](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) |
+| scalableminds/webknossos | partial | 2026-09-09T07:41:46Z | [open](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) |
 | seung-lab/cloud-volume | partial | 2026-09-08T16:20:23Z | [open](../records/microscopy-seung-lab-cloud-volume-388cc8e9.md) |
 | tferr/Scripts | partial | 2022-06-03T11:23:48Z | [open](../records/microscopy-tferr-scripts-25277503.md) |
 | TheDeanLab/navigate | partial | 2026-09-08T19:02:04Z | [open](../records/microscopy-thedeanlab-navigate-dc14fa5a.md) |
