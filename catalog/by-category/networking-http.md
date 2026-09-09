@@ -1,6 +1,6 @@
 # Networking Http
 
-Records: `1053`
+Records: `1055`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `1053`
 ## Category Index
 
 [Api Abi Checker (224)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (999)](build-system.md) · [Cli (571)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1000)](build-system.md) · [Cli (571)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
-[Concurrency Parallelism (93)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (178)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (971)](database-datastore.md) · [Datetime (235)](datetime.md)
+[Concurrency Parallelism (94)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (178)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (972)](database-datastore.md) · [Datetime (235)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (464)](ffi-bindings.md) · [Filesystem Os (1618)](filesystem-os.md) · [Formatter (652)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1475)](ide-editor-integration.md)
-[Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (275)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1450)](language-specification.md) · [Library (5774)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (810)](machine-learning.md)
-[Math Numeric Scientific (89)](math-numeric-scientific.md) · [Memory Analyzer (98)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1053)](networking-http.md)**
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (465)](ffi-bindings.md) · [Filesystem Os (1618)](filesystem-os.md) · [Formatter (652)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1476)](ide-editor-integration.md)
+[Image Audio Dsp (439)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1451)](language-specification.md) · [Library (5834)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (812)](machine-learning.md)
+[Math Numeric Scientific (89)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1055)](networking-http.md)**
 [Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1208)](parser-lexer-ast.md) · [Precommit Ci Quality (310)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (632)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (620)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · [Web Framework (490)](web-framework.md)
+[Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (633)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (621)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1628)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (563)](visualization-gui.md) · [Web Framework (491)](web-framework.md)
 
 ## C99
 
@@ -425,7 +425,7 @@ Records: `1053`
 | methods | 1.1.2 | 2016-01-18T02:53:56.364Z | [open](../records/node-js-javascript-methods-3568f6db.md) |
 | mimic-response | 4.0.0 | 2021-08-11T14:32:51.305Z | [open](../records/node-js-javascript-mimic-response-f670bb0c.md) |
 | morgan | 1.12.0 | 2026-08-28T06:33:38.276Z | [open](../records/node-js-javascript-morgan-237acd1a.md) |
-| mssql | 12.7.0 | 2026-07-02T22:42:05.967Z | [open](../records/node-js-javascript-mssql-d9e51b5e.md) |
+| mssql | 12.7.1 | 2026-09-08T22:50:51.884Z | [open](../records/node-js-javascript-mssql-d9e51b5e.md) |
 | needle | 3.5.0 | 2026-03-12T22:24:55.522Z | [open](../records/node-js-javascript-needle-900f8cd1.md) |
 | negotiator | 1.1.0 | 2026-08-20T16:45:05.235Z | [open](../records/node-js-javascript-negotiator-b46d6520.md) |
 | nestjs-http-promise | 4.0.0 | 2025-02-22T12:51:20.248Z | [open](../records/node-js-javascript-nestjs-http-promise-365d3e36.md) |
@@ -680,6 +680,7 @@ Records: `1053`
 | http3 | 0.1.4 | 2026-09-02T04:29:11Z | [open](../records/haskell-http3-d8356eb7.md) |
 | hw-kafka-client | 5.3.0 | 2023-08-05T08:09:41Z | [open](../records/haskell-hw-kafka-client-25f40847.md) |
 | mighttpd2 | 4.0.10 | 2026-03-26T05:01:24Z | [open](../records/haskell-mighttpd2-deba1dfa.md) |
+| morpheus-graphql-client | 0.28.5 | 2026-03-10T17:36:36Z | [open](../records/haskell-morpheus-graphql-client-0ac0d27b.md) |
 | network | 3.2.9.0 | 2026-08-21T04:56:53Z | [open](../records/haskell-network-c064f126.md) |
 | network-conduit | 1.1.0 | 2014-04-02T08:03:05Z | [open](../records/haskell-network-conduit-92c5ade0.md) |
 | network-conduit-tls | 1.4.0.1 | 2024-06-30T05:41:06Z | [open](../records/haskell-network-conduit-tls-ba37fa42.md) |
@@ -691,6 +692,7 @@ Records: `1053`
 | polysemy-http | 0.13.1.0 | 2025-03-16T16:24:55Z | [open](../records/haskell-polysemy-http-cfec816f.md) |
 | postgres-websockets | 0.12.1.2 | 2026-08-04T00:32:26Z | [open](../records/haskell-postgres-websockets-331d0d0b.md) |
 | pusher-http-haskell | 2.1.0.25 | 2026-06-01T00:49:07Z | [open](../records/haskell-pusher-http-haskell-23a5be3d.md) |
+| rethinkdb-client-driver | 0.0.25 | 2017-10-11T17:00:49Z | [open](../records/haskell-rethinkdb-client-driver-f06cde99.md) |
 | servant-client | 0.20.3.0 | 2025-06-04T10:14:40Z | [open](../records/haskell-servant-client-587bf386.md) |
 | socket | 0.8.3.0 | 2020-06-29T07:18:38Z | [open](../records/haskell-socket-f2f311a5.md) |
 | wai-websockets | 3.0.1.2 | 2018-03-19T12:32:07Z | [open](../records/haskell-wai-websockets-3782ed20.md) |
@@ -963,7 +965,7 @@ Records: `1053`
 | apohl79/audiogridder | partial | 2024-07-31T08:38:20Z | [open](../records/audio-apohl79-audiogridder-b399a5d3.md) |
 | cvqluu/TDNN | partial | 2019-11-21T10:07:55Z | [open](../records/audio-cvqluu-tdnn-fb6a7ffe.md) |
 | drethage/speech-denoising-wavenet | partial | 2023-07-06T21:12:03Z | [open](../records/audio-drethage-speech-denoising-wavenet-dd81add3.md) |
-| FFmpeg/FFmpeg | partial | 2026-09-08T20:00:45Z | [open](../records/audio-ffmpeg-ffmpeg-e29098d1.md) |
+| FFmpeg/FFmpeg | partial | 2026-09-09T00:00:07Z | [open](../records/audio-ffmpeg-ffmpeg-e29098d1.md) |
 | hannesbraun/airwindows-lv2 | partial | 2025-11-27T12:32:25Z | [open](../records/audio-hannesbraun-airwindows-lv2-77a8604e.md) |
 | huckiyang/QuantumSpeech-QCNN | partial | 2023-01-22T16:06:05Z | [open](../records/audio-huckiyang-quantumspeech-qcnn-75d646b8.md) |
 | jtkim-kaist/Speech-enhancement | partial | 2019-06-14T14:15:05Z | [open](../records/audio-jtkim-kaist-speech-enhancement-2afa11e8.md) |

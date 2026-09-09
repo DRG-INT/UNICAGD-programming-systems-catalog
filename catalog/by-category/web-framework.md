@@ -1,6 +1,6 @@
 # Web Framework
 
-Records: `490`
+Records: `491`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `490`
 ## Category Index
 
 [Api Abi Checker (224)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (999)](build-system.md) · [Cli (571)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1000)](build-system.md) · [Cli (571)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
-[Concurrency Parallelism (93)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (178)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (971)](database-datastore.md) · [Datetime (235)](datetime.md)
+[Concurrency Parallelism (94)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (178)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (972)](database-datastore.md) · [Datetime (235)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (464)](ffi-bindings.md) · [Filesystem Os (1618)](filesystem-os.md) · [Formatter (652)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1475)](ide-editor-integration.md)
-[Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (275)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1450)](language-specification.md) · [Library (5774)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (810)](machine-learning.md)
-[Math Numeric Scientific (89)](math-numeric-scientific.md) · [Memory Analyzer (98)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1053)](networking-http.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (465)](ffi-bindings.md) · [Filesystem Os (1618)](filesystem-os.md) · [Formatter (652)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1476)](ide-editor-integration.md)
+[Image Audio Dsp (439)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1451)](language-specification.md) · [Library (5834)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (812)](machine-learning.md)
+[Math Numeric Scientific (89)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1055)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1208)](parser-lexer-ast.md) · [Precommit Ci Quality (310)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (632)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (620)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (561)](visualization-gui.md) · **[Web Framework (490)](web-framework.md)**
+[Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (633)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (621)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1628)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (563)](visualization-gui.md) · **[Web Framework (491)](web-framework.md)**
 
 ## C++23
 
@@ -166,7 +166,7 @@ Records: `490`
 | @callstack/repack-dev-server | 5.3.0 | 2026-08-05T09:11:36.073Z | [open](../records/node-js-javascript-callstack-repack-dev-server-631ff63b.md) |
 | @capgo/cli | 8.48.2 | 2026-09-08T12:14:13.290Z | [open](../records/node-js-javascript-capgo-cli-8e98e39d.md) |
 | @cloudflare/mcp-server-cloudflare | 0.2.0 | 2025-03-14T10:41:19.350Z | [open](../records/node-js-javascript-cloudflare-mcp-server-cloudflare-3b1ce558.md) |
-| @constructive-io/graphql-server | 5.25.0 | 2026-09-08T19:01:13.345Z | [open](../records/node-js-javascript-constructive-io-graphql-server-5edba745.md) |
+| @constructive-io/graphql-server | 5.25.1 | 2026-09-08T23:04:35.503Z | [open](../records/node-js-javascript-constructive-io-graphql-server-5edba745.md) |
 | @contentful/mcp-server | 1.19.0 | 2026-09-01T20:20:27.760Z | [open](../records/node-js-javascript-contentful-mcp-server-f8c3e0db.md) |
 | @currents/mcp | 2.4.2 | 2026-08-16T09:54:54.234Z | [open](../records/node-js-javascript-currents-mcp-da022c62.md) |
 | @data-elements/database | 0.3.6 | 2026-08-22T04:54:10.956Z | [open](../records/node-js-javascript-data-elements-database-84055e3f.md) |
@@ -238,7 +238,7 @@ Records: `490`
 | @transcend-io/mcp-server-discovery | 0.5.30 | 2026-09-03T19:27:15.450Z | [open](../records/node-js-javascript-transcend-io-mcp-server-discovery-87735bfc.md) |
 | @transcend-io/mcp-server-dsr | 0.8.10 | 2026-09-03T19:27:15.159Z | [open](../records/node-js-javascript-transcend-io-mcp-server-dsr-76f6cb8b.md) |
 | @transcend-io/mcp-server-inventory | 0.7.10 | 2026-09-03T19:27:20.713Z | [open](../records/node-js-javascript-transcend-io-mcp-server-inventory-9bc583b1.md) |
-| @transcend-io/mcp-server-preferences | 0.7.2 | 2026-09-03T19:28:16.509Z | [open](../records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
+| @transcend-io/mcp-server-preferences | 0.7.3 | 2026-09-08T20:42:57.384Z | [open](../records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
 | @transcend-io/mcp-server-workflows | 1.0.0 | 2026-09-08T20:40:50.701Z | [open](../records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) |
 | @trpc/server | 11.18.0 | 2026-06-17T22:48:25.078Z | [open](../records/node-js-javascript-trpc-server-02b69ad5.md) |
 | @turnkey/sdk-server | 8.4.0 | 2026-09-04T15:40:30.545Z | [open](../records/node-js-javascript-turnkey-sdk-server-330a2b7d.md) |
@@ -364,6 +364,7 @@ Records: `490`
 | launchdarkly-server-sdk | 4.6.0 | 2026-05-28T19:28:18Z | [open](../records/haskell-launchdarkly-server-sdk-183eca01.md) |
 | mcp-server | 0.2.0.2 | 2026-09-08T11:04:50Z | [open](../records/haskell-mcp-server-4051b88c.md) |
 | pty-mcp-server | 0.2.2.0 | 2026-07-13T09:12:34Z | [open](../records/haskell-pty-mcp-server-559470ce.md) |
+| servant-auth-server | 0.4.10.0 | 2026-06-20T10:40:08Z | [open](../records/haskell-servant-auth-server-c68cfa93.md) |
 | servant-server | 0.20.3.0 | 2025-06-04T10:14:31Z | [open](../records/haskell-servant-server-533c5bca.md) |
 | serverless-haskell | 0.12.6 | 2021-04-06T05:33:01Z | [open](../records/haskell-serverless-haskell-eedcd034.md) |
 | snap-server | 1.1.2.1 | 2023-02-13T08:56:43Z | [open](../records/haskell-snap-server-9c6b1935.md) |

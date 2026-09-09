@@ -1,6 +1,6 @@
 # Visualization Gui
 
-Records: `561`
+Records: `563`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `561`
 ## Category Index
 
 [Api Abi Checker (224)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (999)](build-system.md) · [Cli (571)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1000)](build-system.md) · [Cli (571)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
-[Concurrency Parallelism (93)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (178)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (971)](database-datastore.md) · [Datetime (235)](datetime.md)
+[Concurrency Parallelism (94)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (178)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (972)](database-datastore.md) · [Datetime (235)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (464)](ffi-bindings.md) · [Filesystem Os (1618)](filesystem-os.md) · [Formatter (652)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1475)](ide-editor-integration.md)
-[Image Audio Dsp (438)](image-audio-dsp.md) · [Interop Bindings (62)](interop-bindings.md) · [Interpreter Runtime (275)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (30)](language-server.md) · [Language Specification (1450)](language-specification.md) · [Library (5774)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (810)](machine-learning.md)
-[Math Numeric Scientific (89)](math-numeric-scientific.md) · [Memory Analyzer (98)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1053)](networking-http.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (465)](ffi-bindings.md) · [Filesystem Os (1618)](filesystem-os.md) · [Formatter (652)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (358)](game-engine-game-dev.md) · [Ide Editor Integration (1476)](ide-editor-integration.md)
+[Image Audio Dsp (439)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1451)](language-specification.md) · [Library (5834)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (812)](machine-learning.md)
+[Math Numeric Scientific (89)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1055)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1208)](parser-lexer-ast.md) · [Precommit Ci Quality (310)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (632)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (620)](testing-framework.md) · [Tutorial Book Styleguide (68)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1627)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · **[Visualization Gui (561)](visualization-gui.md)** · [Web Framework (490)](web-framework.md)
+[Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (633)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (621)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1628)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · **[Visualization Gui (563)](visualization-gui.md)** · [Web Framework (491)](web-framework.md)
 
 ## C++23
 
@@ -235,6 +235,7 @@ Records: `561`
 | dear-imgui | 2.5.0 | 2026-08-22T13:36:21Z | [open](../records/haskell-dear-imgui-c2d4e66d.md) |
 | dynamic-plot | 0.4.2.0 | 2022-04-17T08:56:14Z | [open](../records/haskell-dynamic-plot-79f52881.md) |
 | equivalence | 0.4.1.1 | 2025-08-27T08:52:40Z | [open](../records/haskell-equivalence-261b8641.md) |
+| FontyFruity | 0.5.3.5 | 2019-10-02T19:10:33Z | [open](../records/haskell-fontyfruity-ffd84ccd.md) |
 | happstack-yui | 7373.5.3 | 2012-10-20T17:19:36Z | [open](../records/haskell-happstack-yui-fa51e7df.md) |
 | hledger-ui | 1.52.3 | 2026-08-27T11:08:30Z | [open](../records/haskell-hledger-ui-8c0b5874.md) |
 | irc-conduit | 0.3.0.6 | 2022-12-31T20:10:34Z | [open](../records/haskell-irc-conduit-cbe64503.md) |
@@ -255,6 +256,7 @@ Records: `561`
 | quickcheck-silent | 0.11.0.16 | 2026-09-08T07:31:19Z | [open](../records/haskell-quickcheck-silent-8faa8f75.md) |
 | quickcheck-state-machine | 0.10.4 | 2026-05-18T17:14:36Z | [open](../records/haskell-quickcheck-state-machine-e9b23daf.md) |
 | rss-conduit | 0.6.0.2 | 2026-02-01T20:26:36Z | [open](../records/haskell-rss-conduit-88a39cec.md) |
+| splot | 0.3.14 | 2015-12-26T02:56:10Z | [open](../records/haskell-splot-c3965ec4.md) |
 | stm-conduit | 4.0.1 | 2018-09-27T10:18:55Z | [open](../records/haskell-stm-conduit-78ea6d3b.md) |
 | tar-conduit | 0.4.1 | 2024-01-06T15:52:15Z | [open](../records/haskell-tar-conduit-bb615e63.md) |
 | threepenny-gui | 0.9.4.2 | 2024-12-25T12:37:38Z | [open](../records/haskell-threepenny-gui-9b2583fe.md) |
@@ -600,11 +602,11 @@ Records: `561`
 | Lake1059/FFmpegFreeUI | partial | 2026-09-08T14:33:47Z | [open](../records/audio-lake1059-ffmpegfreeui-be2fb128.md) |
 | monomadic/dd-core | partial | 2019-01-14T07:21:52Z | [open](../records/audio-monomadic-dd-core-a1124514.md) |
 | pierreguillot/Camomile | partial | 2024-02-26T10:06:47Z | [open](../records/audio-pierreguillot-camomile-eeeac032.md) |
-| pschatzmann/arduino-audio-tools | partial | 2026-09-06T16:05:32Z | [open](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) |
+| pschatzmann/arduino-audio-tools | partial | 2026-09-08T21:16:24Z | [open](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) |
 | QVbDev/quantumVerb | partial | 2018-04-11T17:24:17Z | [open](../records/audio-qvbdev-quantumverb-59e9d065.md) |
 | rsadsb/adsb_deku | partial | 2026-01-04T16:18:33Z | [open](../records/audio-rsadsb-adsb-deku-8c9a3700.md) |
 | sp-nitech/SPTK | partial | 2026-08-25T13:37:51Z | [open](../records/audio-sp-nitech-sptk-7cf4cfee.md) |
-| unchihugo/FluentFlyout | partial | 2026-09-08T19:44:09Z | [open](../records/audio-unchihugo-fluentflyout-e2e81b2d.md) |
+| unchihugo/FluentFlyout | partial | 2026-09-08T23:52:06Z | [open](../records/audio-unchihugo-fluentflyout-e2e81b2d.md) |
 | zynthian/zynthian-ui | partial | 2026-09-06T20:31:32Z | [open](../records/audio-zynthian-zynthian-ui-308e1a33.md) |
 
 ## Video
