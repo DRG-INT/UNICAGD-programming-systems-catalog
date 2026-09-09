@@ -1,6 +1,6 @@
 # Serialization
 
-Records: `400`
+Records: `401`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `400`
 
 ## Category Index
 
-[Api Abi Checker (225)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1001)](build-system.md) · [Cli (572)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (228)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1001)](build-system.md) · [Cli (574)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (179)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (238)](datetime.md)
+[Cryptography (179)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (240)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (465)](ffi-bindings.md) · [Filesystem Os (1620)](filesystem-os.md) · [Formatter (652)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (359)](game-engine-game-dev.md) · [Ide Editor Integration (1477)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (359)](game-engine-game-dev.md) · [Ide Editor Integration (1478)](ide-editor-integration.md)
 [Image Audio Dsp (439)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5841)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5845)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (532)](logging-observability.md) · [Machine Learning (813)](machine-learning.md)
 [Math Numeric Scientific (89)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1058)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1208)](parser-lexer-ast.md) · [Precommit Ci Quality (310)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1210)](parser-lexer-ast.md) · [Precommit Ci Quality (311)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · **[Serialization (400)](serialization.md)** · [Standard Library (25)](standard-library.md) · [Static Analyzer (635)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (621)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1629)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (563)](visualization-gui.md) · [Web Framework (492)](web-framework.md)
+[Security Sast (337)](security-sast.md) · **[Serialization (401)](serialization.md)** · [Standard Library (25)](standard-library.md) · [Static Analyzer (635)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (622)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1630)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (563)](visualization-gui.md) · [Web Framework (492)](web-framework.md)
 
 ## C99
 
@@ -172,7 +172,7 @@ Records: `400`
 | msgpackr | unknown | not_checked | [open](../records/node-js-javascript-msgpackr-97305d61.md) |
 | next-logger | 5.0.2 | 2025-10-08T08:07:39.079Z | [open](../records/node-js-javascript-next-logger-c9e9ac18.md) |
 | node-json-db | 2.6.0 | 2026-03-10T13:22:31.927Z | [open](../records/node-js-javascript-node-json-db-3561199d.md) |
-| oui-data | 2.1.17 | 2026-09-05T08:34:50.836Z | [open](../records/node-js-javascript-oui-data-c721fc74.md) |
+| oui-data | 2.1.18 | 2026-09-09T09:10:41.570Z | [open](../records/node-js-javascript-oui-data-c721fc74.md) |
 | protobuf.js | unknown | not_checked | [open](../records/node-js-javascript-protobuf-js-e25225b4.md) |
 | serverless-logging-config | 1.0.2 | 2024-01-05T19:41:41.282Z | [open](../records/node-js-javascript-serverless-logging-config-d94d1c13.md) |
 | sharedb | 6.0.3 | 2026-09-07T09:41:25.911Z | [open](../records/node-js-javascript-sharedb-65f97f47.md) |
@@ -263,12 +263,13 @@ Records: `400`
 | json | 0.11 | 2023-07-17T15:50:24Z | [open](../records/haskell-json-a5e3f7df.md) |
 | json-autotype | 3.1.2 | 2020-04-19T19:25:32Z | [open](../records/haskell-json-autotype-bc180b5d.md) |
 | json-feed | 2.0.0.19 | 2026-05-22T13:38:44Z | [open](../records/haskell-json-feed-b77272e1.md) |
-| json-spec | 1.4.0.0 | 2026-07-23T03:55:38Z | [open](../records/haskell-json-spec-15ffc1f1.md) |
+| json-spec | 1.4.0.1 | 2026-09-09T10:22:25Z | [open](../records/haskell-json-spec-15ffc1f1.md) |
 | json-spec-elm | 0.6.0.0 | 2026-07-23T04:32:37Z | [open](../records/haskell-json-spec-elm-61c184de.md) |
 | json-spec-elm-servant | 0.6.0.0 | 2026-07-23T05:11:30Z | [open](../records/haskell-json-spec-elm-servant-ca1087b4.md) |
 | json-stream | 0.4.6.1 | 2026-05-31T21:26:07Z | [open](../records/haskell-json-stream-9730fe11.md) |
 | jsonrpc-conduit | 0.4.1 | 2024-02-19T21:37:42Z | [open](../records/haskell-jsonrpc-conduit-e1073549.md) |
 | RefSerialize | 0.4.0 | 2017-02-06T23:42:14Z | [open](../records/haskell-refserialize-62669b0f.md) |
+| scxml-statecharts | 0.1.0.0 | 2026-09-09T09:48:29Z | [open](../records/haskell-scxml-statecharts-a3fa3863.md) |
 | tomland | 1.3.3.3 | 2024-06-07T13:15:00Z | [open](../records/haskell-tomland-5b998b9e.md) |
 | xml-conduit | 1.10.1.0 | 2025-11-25T20:24:41Z | [open](../records/haskell-xml-conduit-8a482c6e.md) |
 | xml-enumerator | 0.4.4.1 | 2012-01-02T19:08:45Z | [open](../records/haskell-xml-enumerator-3cb21216.md) |
@@ -368,7 +369,7 @@ Records: `400`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| protoconf/protoconf | partial | 2026-09-09T07:50:33Z | [open](../records/starlark-protoconf-protoconf-2d2b3184.md) |
+| protoconf/protoconf | partial | 2026-09-09T09:33:49Z | [open](../records/starlark-protoconf-protoconf-2d2b3184.md) |
 | remarshal-project/remarshal | partial | 2026-08-01T07:20:07Z | [open](../records/starlark-remarshal-project-remarshal-9ffddf4f.md) |
 
 ## "aim's"

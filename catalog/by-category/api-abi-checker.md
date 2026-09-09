@@ -1,6 +1,6 @@
 # Api Abi Checker
 
-Records: `225`
+Records: `228`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `225`
 
 ## Category Index
 
-**[Api Abi Checker (225)](api-abi-checker.md)** · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1001)](build-system.md) · [Cli (572)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+**[Api Abi Checker (228)](api-abi-checker.md)** · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1001)](build-system.md) · [Cli (574)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (179)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (238)](datetime.md)
+[Cryptography (179)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (240)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (465)](ffi-bindings.md) · [Filesystem Os (1620)](filesystem-os.md) · [Formatter (652)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (359)](game-engine-game-dev.md) · [Ide Editor Integration (1477)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (359)](game-engine-game-dev.md) · [Ide Editor Integration (1478)](ide-editor-integration.md)
 [Image Audio Dsp (439)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5841)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5845)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (532)](logging-observability.md) · [Machine Learning (813)](machine-learning.md)
 [Math Numeric Scientific (89)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1058)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1208)](parser-lexer-ast.md) · [Precommit Ci Quality (310)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1210)](parser-lexer-ast.md) · [Precommit Ci Quality (311)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (635)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (621)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1629)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (563)](visualization-gui.md) · [Web Framework (492)](web-framework.md)
+[Security Sast (337)](security-sast.md) · [Serialization (401)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (635)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (622)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1630)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (563)](visualization-gui.md) · [Web Framework (492)](web-framework.md)
 
 ## C99
 
@@ -138,6 +138,7 @@ Records: `225`
 | distributions3 | 0.3.0 | 2026-08-20 05:21:11 UTC | [open](../records/r-distributions3-51b5a036.md) |
 | DPQ | 0.6-2 | 2026-09-06 11:00:10 UTC | [open](../records/r-dpq-8fc89753.md) |
 | fitPS | 1.1.4 | 2026-08-27 03:10:02 UTC | [open](../records/r-fitps-82c0b797.md) |
+| georefar | 0.1.0 | 2026-09-09 09:20:02 UTC | [open](../records/r-georefar-0e3552d1.md) |
 | gpciEMprogII | 0.1.0 | 2026-08-08 12:50:02 UTC | [open](../records/r-gpciemprogii-5b1599b7.md) |
 | gpcihybridII | 0.1.0 | 2026-08-21 13:00:36 UTC | [open](../records/r-gpcihybridii-f090a1cb.md) |
 | gpcihybridIIEM | 0.1.0 | 2026-08-21 13:00:31 UTC | [open](../records/r-gpcihybridiiem-68581c0e.md) |
@@ -156,6 +157,7 @@ Records: `225`
 | nysOpenData | 0.1.3 | 2026-08-24 08:30:14 UTC | [open](../records/r-nysopendata-2ba9227b.md) |
 | oddsapiR | 1.0.1 | 2026-08-27 23:20:02 UTC | [open](../records/r-oddsapir-1c537a9f.md) |
 | pxweb | 0.19.2 | 2026-09-06 11:00:02 UTC | [open](../records/r-pxweb-b6548dad.md) |
+| PxWebApiData | 2.0.0 | 2026-09-09 09:40:08 UTC | [open](../records/r-pxwebapidata-7e7a97c2.md) |
 | rbm25 | 2.3.2 | 2026-08-21 17:30:10 UTC | [open](../records/r-rbm25-67595d25.md) |
 | RColetum | 1.1.0 | 2026-08-21 05:46:03 UTC | [open](../records/r-rcoletum-8ab4ea75.md) |
 | RelDists | 1.0.2 | 2026-09-07 02:20:02 UTC | [open](../records/r-reldists-29ab375f.md) |
@@ -164,6 +166,7 @@ Records: `225`
 | rgoogleads | 0.15.0 | 2026-08-25 10:40:02 UTC | [open](../records/r-rgoogleads-4769af00.md) |
 | rPDBapi | 3.0.2 | 2026-08-21 05:40:55 UTC | [open](../records/r-rpdbapi-2a2e7bb4.md) |
 | schwabr | 0.1.5 | 2026-08-21 15:30:02 UTC | [open](../records/r-schwabr-dfab5b7d.md) |
+| scStability | 1.0.4 | 2026-09-09 08:40:03 UTC | [open](../records/r-scstability-85e545f0.md) |
 | SeattleOpenData | 0.1.0 | 2026-08-07 16:40:09 UTC | [open](../records/r-seattleopendata-bf589bc9.md) |
 | secfile | 0.1.1 | 2026-08-08 12:30:02 UTC | [open](../records/r-secfile-9cf55752.md) |
 | sfOpenData | 0.1.2 | 2026-09-08 12:30:11 UTC | [open](../records/r-sfopendata-54f15ccf.md) |

@@ -1,6 +1,6 @@
 # Library
 
-Records: `5841`
+Records: `5845`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `5841`
 
 ## Category Index
 
-[Api Abi Checker (225)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1001)](build-system.md) · [Cli (572)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (228)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1001)](build-system.md) · [Cli (574)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (179)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (238)](datetime.md)
+[Cryptography (179)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (240)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (465)](ffi-bindings.md) · [Filesystem Os (1620)](filesystem-os.md) · [Formatter (652)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (359)](game-engine-game-dev.md) · [Ide Editor Integration (1477)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (359)](game-engine-game-dev.md) · [Ide Editor Integration (1478)](ide-editor-integration.md)
 [Image Audio Dsp (439)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · **[Library (5841)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · **[Library (5845)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (532)](logging-observability.md) · [Machine Learning (813)](machine-learning.md)
 [Math Numeric Scientific (89)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1058)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1208)](parser-lexer-ast.md) · [Precommit Ci Quality (310)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1210)](parser-lexer-ast.md) · [Precommit Ci Quality (311)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (635)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (621)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1629)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (563)](visualization-gui.md) · [Web Framework (492)](web-framework.md)
+[Security Sast (337)](security-sast.md) · [Serialization (401)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (635)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (622)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1630)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (563)](visualization-gui.md) · [Web Framework (492)](web-framework.md)
 
 ## C99
 
@@ -2518,6 +2518,7 @@ Records: `5841`
 | BioCro | 3.4.0 | 2026-08-21 19:10:08 UTC | [open](../records/r-biocro-52abe45a.md) |
 | biofetchR | 0.1.1 | 2026-08-19 19:50:02 UTC | [open](../records/r-biofetchr-b5414aaa.md) |
 | BioMonTools | 1.3.2 | 2026-08-04 22:30:02 UTC | [open](../records/r-biomontools-dd987ec9.md) |
+| birdie | 0.8.0 | 2026-09-09 08:30:18 UTC | [open](../records/r-birdie-0ef84340.md) |
 | bit64 | 4.8.6 | 2026-09-01 09:30:09 UTC | [open](../records/r-bit64-c96b0ec0.md) |
 | BivKLD | 0.1.0 | 2026-09-02 21:30:09 UTC | [open](../records/r-bivkld-f8a06bc5.md) |
 | blockr.session | 0.1.0 | 2026-08-04 14:10:18 UTC | [open](../records/r-blockr-session-1f15a78c.md) |
@@ -2646,6 +2647,7 @@ Records: `5841`
 | fplyr | 2.0.0 | 2026-09-08 09:30:10 UTC | [open](../records/r-fplyr-2ee91e27.md) |
 | FPScausal | 0.1.1 | 2026-08-23 10:20:02 UTC | [open](../records/r-fpscausal-cb9c5b17.md) |
 | fracreg | 1.1.0 | 2026-08-20 13:00:02 UTC | [open](../records/r-fracreg-cbf7ff53.md) |
+| fred | 0.3.1 | 2026-09-09 10:00:07 UTC | [open](../records/r-fred-657ffbea.md) |
 | freegroup | 1.2-1-1 | 2026-08-21 21:50:02 UTC | [open](../records/r-freegroup-5fae418a.md) |
 | frheritage | 0.1.2 | 2026-09-04 10:30:02 UTC | [open](../records/r-frheritage-8d28c42c.md) |
 | fungible | 2.4.8 | 2026-09-04 05:10:35 UTC | [open](../records/r-fungible-717f8691.md) |
@@ -2664,7 +2666,7 @@ Records: `5841`
 | glcdp | 1.0.0 | 2026-08-06 13:00:02 UTC | [open](../records/r-glcdp-348db18b.md) |
 | glmbayes | 0.9.75 | 2026-08-04 19:20:02 UTC | [open](../records/r-glmbayes-0cad0f3c.md) |
 | glmertree | 0.2-7 | 2026-08-21 11:10:10 UTC | [open](../records/r-glmertree-db33ddb0.md) |
-| glmMisrep | 0.1.2 | 2026-08-20 23:00:02 UTC | [open](../records/r-glmmisrep-f90c45e8.md) |
+| glmMisrep | 0.1.3 | 2026-09-09 10:00:02 UTC | [open](../records/r-glmmisrep-f90c45e8.md) |
 | glydraw | 0.9.0 | 2026-08-26 09:30:02 UTC | [open](../records/r-glydraw-99d285eb.md) |
 | glyparse | 0.8.1 | 2026-08-28 14:50:02 UTC | [open](../records/r-glyparse-013f7b36.md) |
 | gmeans | 0.1.0 | 2026-08-05 06:40:08 UTC | [open](../records/r-gmeans-b0aa97e9.md) |
@@ -3010,6 +3012,7 @@ Records: `5841`
 | TFisher | 0.2.1 | 2026-08-25 05:20:54 UTC | [open](../records/r-tfisher-9d22f8de.md) |
 | theoryforge | 0.6.0 | 2026-09-01 08:30:02 UTC | [open](../records/r-theoryforge-6d7e484b.md) |
 | thisutils | 0.5.0 | 2026-08-21 10:40:02 UTC | [open](../records/r-thisutils-1355b873.md) |
+| tidycjk | partial | 2026-09-09 | [open](../records/r-tidycjk-ac894c91.md) |
 | tidyEmoji | 0.3.0 | 2026-08-04 17:50:24 UTC | [open](../records/r-tidyemoji-c99524d1.md) |
 | tidylda | 0.1.0 | 2026-08-28 07:00:09 UTC | [open](../records/r-tidylda-3e7aa8ef.md) |
 | tidySEM | 0.2.12 | 2026-09-08 06:20:02 UTC | [open](../records/r-tidysem-8c88dbd2.md) |
@@ -3693,6 +3696,7 @@ Records: `5841`
 | lhs2tex | 1.26 | 2025-12-30T14:41:54Z | [open](../records/haskell-lhs2tex-f8ebd4ef.md) |
 | libarchive | 3.0.5.0 | 2026-01-21T05:54:19Z | [open](../records/haskell-libarchive-369a0e83.md) |
 | libBF | 0.6.9 | 2026-08-26T20:14:14Z | [open](../records/haskell-libbf-3a9fa897.md) |
+| libheif-hs | 0.1.0.0 | 2026-09-09T10:14:32Z | [open](../records/haskell-libheif-hs-92008b9d.md) |
 | liblawless | 0.26.0 | 2017-10-02T04:31:10Z | [open](../records/haskell-liblawless-d5285232.md) |
 | libmpd | 0.10.0.1 | 2024-06-21T17:22:19Z | [open](../records/haskell-libmpd-f33c999e.md) |
 | lifted-base | 0.2.3.12 | 2018-03-14T20:14:11Z | [open](../records/haskell-lifted-base-a570c940.md) |
@@ -4398,7 +4402,7 @@ Records: `5841`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-09T09:20:33Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-09T10:21:42Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -5386,7 +5390,7 @@ Records: `5841`
 | BitBangingBytes/gr-smart_meters | partial | 2023-09-25T14:44:10Z | [open](../records/satcom-satellites-bitbangingbytes-gr-smart-meters-4a6e02bf.md) |
 | blaylockbk/goes2go | partial | 2026-06-17T05:07:20Z | [open](../records/satcom-satellites-blaylockbk-goes2go-6d604dc4.md) |
 | brian-armstrong/fec | partial | 2026-08-08T05:34:45Z | [open](../records/satcom-satellites-brian-armstrong-fec-b785fbe7.md) |
-| btfz-sdr/gnuradio_demo | partial | 2026-08-28T08:54:09Z | [open](../records/satcom-satellites-btfz-sdr-gnuradio-demo-1b296ec6.md) |
+| btfz-sdr/gnuradio_demo | partial | 2026-09-09T09:22:51Z | [open](../records/satcom-satellites-btfz-sdr-gnuradio-demo-1b296ec6.md) |
 | cariboulabs/cariboulite | partial | 2025-07-24T17:35:47Z | [open](../records/satcom-satellites-cariboulabs-cariboulite-4bcd3490.md) |
 | codyd51/gypsum | partial | 2024-04-15T17:30:55Z | [open](../records/satcom-satellites-codyd51-gypsum-367a7afa.md) |
 | csdvb/dvbs2_tx | partial | 2018-06-14T20:47:16Z | [open](../records/satcom-satellites-csdvb-dvbs2-tx-c714b8f5.md) |
@@ -5477,9 +5481,9 @@ Records: `5841`
 | EdgeTX/edgetx | partial | 2026-09-08T21:28:40Z | [open](../records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) |
 | eldraco/Salamandra | partial | 2021-01-11T15:40:06Z | [open](../records/electromagnetoscopes-eldraco-salamandra-ba7bbc86.md) |
 | fancompute/ceviche | partial | 2023-07-06T21:35:53Z | [open](../records/electromagnetoscopes-fancompute-ceviche-da009145.md) |
-| fanmingming/live | partial | 2026-09-09T02:34:12Z | [open](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
+| fanmingming/live | partial | 2026-09-09T08:32:51Z | [open](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
 | FennisRobert/EMerge | partial | 2026-08-31T16:18:14Z | [open](../records/electromagnetoscopes-fennisrobert-emerge-a03ffe6e.md) |
-| fooyin/fooyin | partial | 2026-09-08T12:18:27Z | [open](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) |
+| fooyin/fooyin | partial | 2026-09-09T07:43:02Z | [open](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) |
 | git-artes/gr-tempest | partial | 2025-02-10T16:57:09Z | [open](../records/electromagnetoscopes-git-artes-gr-tempest-b9f52116.md) |
 | gnss-sdr/gnss-sdr | partial | 2026-09-08T11:37:39Z | [open](../records/electromagnetoscopes-gnss-sdr-gnss-sdr-1128bbcc.md) |
 | gnuradio/volk | partial | 2026-08-25T19:50:57Z | [open](../records/electromagnetoscopes-gnuradio-volk-04fc44e6.md) |
@@ -5489,7 +5493,7 @@ Records: `5841`
 | jleinonen/pytmatrix | partial | 2023-05-10T13:36:52Z | [open](../records/electromagnetoscopes-jleinonen-pytmatrix-c0930873.md) |
 | JuliaPhysics/ThinFilmsTools.jl | partial | 2025-12-02T00:15:55Z | [open](../records/electromagnetoscopes-juliaphysics-thinfilmstools-jl-592046ba.md) |
 | junguler/m3u-radio-music-playlists | partial | 2026-09-05T07:57:14Z | [open](../records/electromagnetoscopes-junguler-m3u-radio-music-playlists-309a3992.md) |
-| Kopuz-org/kopuz | partial | 2026-09-09T00:01:58Z | [open](../records/electromagnetoscopes-kopuz-org-kopuz-a5fa7420.md) |
+| Kopuz-org/kopuz | partial | 2026-09-09T09:52:39Z | [open](../records/electromagnetoscopes-kopuz-org-kopuz-a5fa7420.md) |
 | markqvist/RNode_Firmware | partial | 2026-04-24T10:26:45Z | [open](../records/electromagnetoscopes-markqvist-rnode-firmware-6437b772.md) |
 | mgp25/OpenLTE | partial | 2021-02-21T19:34:29Z | [open](../records/electromagnetoscopes-mgp25-openlte-fd84bffb.md) |
 | muccc/gr-iridium | partial | 2026-07-02T09:26:47Z | [open](../records/electromagnetoscopes-muccc-gr-iridium-826df89e.md) |

@@ -1,6 +1,6 @@
 # Cli
 
-Records: `572`
+Records: `574`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `572`
 
 ## Category Index
 
-[Api Abi Checker (225)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1001)](build-system.md) · **[Cli (572)](cli.md)** · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (228)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1001)](build-system.md) · **[Cli (574)](cli.md)** · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (179)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (238)](datetime.md)
+[Cryptography (179)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (240)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (465)](ffi-bindings.md) · [Filesystem Os (1620)](filesystem-os.md) · [Formatter (652)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (359)](game-engine-game-dev.md) · [Ide Editor Integration (1477)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (359)](game-engine-game-dev.md) · [Ide Editor Integration (1478)](ide-editor-integration.md)
 [Image Audio Dsp (439)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5841)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5845)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (532)](logging-observability.md) · [Machine Learning (813)](machine-learning.md)
 [Math Numeric Scientific (89)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1058)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1208)](parser-lexer-ast.md) · [Precommit Ci Quality (310)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1210)](parser-lexer-ast.md) · [Precommit Ci Quality (311)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (635)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (621)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1629)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (563)](visualization-gui.md) · [Web Framework (492)](web-framework.md)
+[Security Sast (337)](security-sast.md) · [Serialization (401)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (635)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (622)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1630)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (563)](visualization-gui.md) · [Web Framework (492)](web-framework.md)
 
 ## C++23
 
@@ -309,7 +309,7 @@ Records: `572`
 | @ionic/cli-framework-prompts | 2.1.13 | 2023-12-19T22:38:35.436Z | [open](../records/node-js-javascript-ionic-cli-framework-prompts-5599c31f.md) |
 | @jscad/cli | 2.3.8 | 2026-02-22T00:37:56.918Z | [open](../records/node-js-javascript-jscad-cli-3e9c3318.md) |
 | @knocklabs/cli | 1.3.0 | 2026-09-08T20:53:10.588Z | [open](../records/node-js-javascript-knocklabs-cli-62154908.md) |
-| @lightdash/cli | 2.168.0 | 2026-09-09T08:18:55.867Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
+| @lightdash/cli | 2.168.3 | 2026-09-09T10:00:41.223Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | @lingui/cli | 6.6.0 | 2026-07-24T13:52:53.439Z | [open](../records/node-js-javascript-lingui-cli-343f33ec.md) |
 | @maizzle/cli | 2.0.0 | 2024-12-16T17:59:24.900Z | [open](../records/node-js-javascript-maizzle-cli-a7a13457.md) |
 | @marp-team/marp-cli | 4.5.0 | 2026-07-17T23:07:09.399Z | [open](../records/node-js-javascript-marp-team-marp-cli-b69e1548.md) |
@@ -442,7 +442,7 @@ Records: `572`
 | update-notifier | 7.3.1 | 2024-09-09T18:51:04.896Z | [open](../records/node-js-javascript-update-notifier-803d0fd2.md) |
 | vue-cli-plugin-vuetify | 2.5.8 | 2022-09-13T21:49:19.683Z | [open](../records/node-js-javascript-vue-cli-plugin-vuetify-ea56303e.md) |
 | webpack-cli | 7.2.3 | 2026-08-28T10:59:09.124Z | [open](../records/node-js-javascript-webpack-cli-7374b543.md) |
-| windmill-cli | 1.806.0 | 2026-09-08T16:08:27.318Z | [open](../records/node-js-javascript-windmill-cli-71546be7.md) |
+| windmill-cli | 1.807.0 | 2026-09-09T10:08:45.080Z | [open](../records/node-js-javascript-windmill-cli-71546be7.md) |
 | wiredep-cli | 0.1.0 | 2016-03-17T18:00:58.478Z | [open](../records/node-js-javascript-wiredep-cli-af29db92.md) |
 | workbox-cli | 7.4.1 | 2026-05-04T20:21:45.277Z | [open](../records/node-js-javascript-workbox-cli-3404a0aa.md) |
 | yargs | unknown | not_checked | [open](../records/node-js-javascript-yargs-1fb118a7.md) |
@@ -474,12 +474,14 @@ Records: `572`
 | carat | 2.3.0 | 2026-09-08 06:50:02 UTC | [open](../records/r-carat-ffcb6a48.md) |
 | clidatajp | 0.5.3 | 2026-08-26 22:10:02 UTC | [open](../records/r-clidatajp-b33f00ee.md) |
 | climateBR | 0.2.0 | 2026-08-19 13:40:09 UTC | [open](../records/r-climatebr-2a84eb44.md) |
+| climatekit | 0.2.2 | 2026-09-09 08:30:11 UTC | [open](../records/r-climatekit-78ef5abf.md) |
 | climenu | 0.2.0 | 2026-08-31 17:00:28 UTC | [open](../records/r-climenu-9b1e8f47.md) |
 | climniche | 0.3.8 | 2026-08-28 08:40:02 UTC | [open](../records/r-climniche-d00512b9.md) |
 | clipp | 1.2.0 | 2026-09-01 09:50:12 UTC | [open](../records/r-clipp-54988171.md) |
 | esviz | 0.0.4 | 2026-09-04 13:20:02 UTC | [open](../records/r-esviz-0b5f4505.md) |
 | mclink | 1.3.1 | 2026-09-05 15:40:08 UTC | [open](../records/r-mclink-373687ae.md) |
 | RClickhouse | 0.6.12 | 2026-08-26 21:10:25 UTC | [open](../records/r-rclickhouse-447484bd.md) |
+| readnoaa | 0.2.1 | 2026-09-09 09:40:02 UTC | [open](../records/r-readnoaa-ca32e8b7.md) |
 | RobinCar2 | 0.2.4 | 2026-08-22 17:30:02 UTC | [open](../records/r-robincar2-5ab46259.md) |
 | selecta | 0.6.1 | 2026-08-22 18:40:02 UTC | [open](../records/r-selecta-5173bf39.md) |
 | triageR | 0.2.0 | 2026-09-05 02:20:02 UTC | [open](../records/r-triager-d2a87535.md) |
@@ -533,10 +535,10 @@ Records: `572`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-09T09:20:46Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-09T10:12:59Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-09T09:21:38Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-09T10:22:14Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 
@@ -659,7 +661,7 @@ Records: `572`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bjarneo/cliamp | partial | 2026-09-09T00:54:48Z | [open](../records/electromagnetoscopes-bjarneo-cliamp-fe896688.md) |
+| bjarneo/cliamp | partial | 2026-09-09T08:40:57Z | [open](../records/electromagnetoscopes-bjarneo-cliamp-fe896688.md) |
 | geo-tp/ESP32-Bit-Pirate | partial | 2026-09-04T15:21:21Z | [open](../records/electromagnetoscopes-geo-tp-esp32-bit-pirate-08880f73.md) |
 | ha7ilm/csdr | partial | 2024-02-06T12:13:28Z | [open](../records/electromagnetoscopes-ha7ilm-csdr-3ab2ab01.md) |
 

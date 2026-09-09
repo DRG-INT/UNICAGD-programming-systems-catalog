@@ -1,6 +1,6 @@
 # Testing Framework
 
-Records: `621`
+Records: `622`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `621`
 
 ## Category Index
 
-[Api Abi Checker (225)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1001)](build-system.md) · [Cli (572)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (228)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1001)](build-system.md) · [Cli (574)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (179)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (238)](datetime.md)
+[Cryptography (179)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (240)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (465)](ffi-bindings.md) · [Filesystem Os (1620)](filesystem-os.md) · [Formatter (652)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (359)](game-engine-game-dev.md) · [Ide Editor Integration (1477)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (359)](game-engine-game-dev.md) · [Ide Editor Integration (1478)](ide-editor-integration.md)
 [Image Audio Dsp (439)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5841)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5845)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (532)](logging-observability.md) · [Machine Learning (813)](machine-learning.md)
 [Math Numeric Scientific (89)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1058)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1208)](parser-lexer-ast.md) · [Precommit Ci Quality (310)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1210)](parser-lexer-ast.md) · [Precommit Ci Quality (311)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (635)](static-analyzer.md)
-[Templating (2)](templating.md) · **[Testing Framework (621)](testing-framework.md)** · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1629)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (563)](visualization-gui.md) · [Web Framework (492)](web-framework.md)
+[Security Sast (337)](security-sast.md) · [Serialization (401)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (635)](static-analyzer.md)
+[Templating (2)](templating.md) · **[Testing Framework (622)](testing-framework.md)** · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1630)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (563)](visualization-gui.md) · [Web Framework (492)](web-framework.md)
 
 ## C99
 
@@ -168,7 +168,7 @@ Records: `621`
 | @fast-check/jest | 2.2.0 | 2026-03-08T13:49:07.370Z | [open](../records/node-js-javascript-fast-check-jest-ed4afdb6.md) |
 | @fast-check/vitest | 0.4.1 | 2026-04-28T22:22:05.897Z | [open](../records/node-js-javascript-fast-check-vitest-b73d0fd0.md) |
 | @fedify/testing | 2.3.6 | 2026-08-23T15:05:59.804Z | [open](../records/node-js-javascript-fedify-testing-fe851537.md) |
-| @genesislcap/foundation-testing | 15.24.0 | 2026-09-08T10:25:46.899Z | [open](../records/node-js-javascript-genesislcap-foundation-testing-9da0f708.md) |
+| @genesislcap/foundation-testing | 15.24.1 | 2026-09-09T09:26:25.151Z | [open](../records/node-js-javascript-genesislcap-foundation-testing-9da0f708.md) |
 | @golevelup/ts-jest | 3.0.0 | 2026-03-18T20:15:21.180Z | [open](../records/node-js-javascript-golevelup-ts-jest-8e9a6da8.md) |
 | @golevelup/ts-vitest | 4.0.0 | 2026-03-18T20:15:23.670Z | [open](../records/node-js-javascript-golevelup-ts-vitest-366a948f.md) |
 | @graphql-codegen/testing | 5.0.1 | 2026-05-27T13:31:00.554Z | [open](../records/node-js-javascript-graphql-codegen-testing-d069daa5.md) |
@@ -350,6 +350,7 @@ Records: `621`
 | react-select-event | 5.5.1 | 2022-08-06T16:40:12.175Z | [open](../records/node-js-javascript-react-select-event-b5987906.md) |
 | react-test-config | 1.0.0 | 2026-06-25T09:26:42.871Z | [open](../records/node-js-javascript-react-test-config-242388d1.md) |
 | react-test-renderer | 19.2.8 | 2026-07-21T15:42:09.248Z | [open](../records/node-js-javascript-react-test-renderer-47974c24.md) |
+| redis-mock | 0.56.3 | 2020-12-23T19:56:25.928Z | [open](../records/node-js-javascript-redis-mock-fa862e0d.md) |
 | redux-mock-store | 1.5.5 | 2024-10-21T11:57:48.526Z | [open](../records/node-js-javascript-redux-mock-store-df1c30d3.md) |
 | redux-saga-testing | 2.0.2 | 2022-02-12T12:00:06.780Z | [open](../records/node-js-javascript-redux-saga-testing-ef2e9f57.md) |
 | reg-cli | 0.19.0-rc3 | 2026-09-07T01:38:20.667Z | [open](../records/node-js-javascript-reg-cli-7dcec4f2.md) |

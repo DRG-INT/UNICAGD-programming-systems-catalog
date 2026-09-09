@@ -8,23 +8,23 @@ Records: `287`
 
 ## Category Index
 
-[Api Abi Checker (225)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
-[Benchmarking (202)](../by-category/benchmarking.md) · [Build System (1001)](../by-category/build-system.md) · [Cli (572)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Api Abi Checker (228)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
+[Benchmarking (202)](../by-category/benchmarking.md) · [Build System (1001)](../by-category/build-system.md) · [Cli (574)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (52)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (132)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (179)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (973)](../by-category/database-datastore.md) · [Datetime (238)](../by-category/datetime.md)
+[Cryptography (179)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (973)](../by-category/database-datastore.md) · [Datetime (240)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (105)](../by-category/dependency-manager.md) · [Documentation (109)](../by-category/documentation.md)
 [Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (465)](../by-category/ffi-bindings.md) · [Filesystem Os (1620)](../by-category/filesystem-os.md) · [Formatter (652)](../by-category/formatter.md)
-[Framework (63)](../by-category/framework.md) · [Fuzzer (58)](../by-category/fuzzer.md) · [Game Engine Game Dev (359)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1477)](../by-category/ide-editor-integration.md)
+[Framework (63)](../by-category/framework.md) · [Fuzzer (59)](../by-category/fuzzer.md) · [Game Engine Game Dev (359)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1478)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (439)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (276)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1452)](../by-category/language-specification.md) · [Library (5841)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1452)](../by-category/language-specification.md) · [Library (5845)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (532)](../by-category/logging-observability.md) · [Machine Learning (813)](../by-category/machine-learning.md)
 [Math Numeric Scientific (89)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1058)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (443)](../by-category/package-manager.md) · [Parser Lexer Ast (1208)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (310)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (443)](../by-category/package-manager.md) · [Parser Lexer Ast (1210)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (311)](../by-category/precommit-ci-quality.md)
 [Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (138)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
-[Security Sast (337)](../by-category/security-sast.md) · [Serialization (400)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (635)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (621)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1629)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (563)](../by-category/visualization-gui.md) · [Web Framework (492)](../by-category/web-framework.md)
+[Security Sast (337)](../by-category/security-sast.md) · [Serialization (401)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (635)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (622)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1630)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (563)](../by-category/visualization-gui.md) · [Web Framework (492)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -198,7 +198,7 @@ Records: `287`
 | [Mayankm96/Stereo-Odometry-SOFT](../records/matlab-mayankm96-stereo-odometry-soft-c49a2549.md) | partial | 2018-11-23T17:37:38Z | registry-derived |
 | [MeowLucian/SDR_Matlab_OFDM_802.11a](../records/matlab-meowlucian-sdr-matlab-ofdm-802-11a-5ed3430a.md) | partial | 2018-04-07T01:23:52Z | registry-derived |
 | [mikeroyal/MATLAB-Guide](../records/matlab-mikeroyal-matlab-guide-ce86917d.md) | partial | 2022-04-03T19:04:46Z | registry-derived |
-| [mohammadrezwankhan/matlab-simulink-energy-lab](../records/matlab-mohammadrezwankhan-matlab-simulink-energy-lab-1613dbf1.md) | partial | 2026-09-09T09:20:23Z | registry-derived |
+| [mohammadrezwankhan/matlab-simulink-energy-lab](../records/matlab-mohammadrezwankhan-matlab-simulink-energy-lab-1613dbf1.md) | partial | 2026-09-09T10:21:21Z | registry-derived |
 | [moranzcw/AndrewNg-Machine-Learning-NOTES](../records/matlab-moranzcw-andrewng-machine-learning-notes-4a3f9206.md) | partial | 2018-12-11T16:22:09Z | registry-derived |
 | [morriswmz/doa-tools](../records/matlab-morriswmz-doa-tools-1d8c8495.md) | partial | 2018-11-07T20:47:45Z | registry-derived |
 | [mtex-toolbox/mtex](../records/matlab-mtex-toolbox-mtex-c19e6fb8.md) | partial | 2026-09-09T07:45:56Z | registry-derived |
@@ -256,7 +256,7 @@ Records: `287`
 | [Shuai-Xie/genetic-algorithm](../records/matlab-shuai-xie-genetic-algorithm-f7cb8aee.md) | partial | 2017-08-05T18:20:10Z | registry-derived |
 | [smousavi05/Seismic-Features-For-Machine-Learning](../records/matlab-smousavi05-seismic-features-for-machine-learning-b23e397b.md) | partial | 2021-03-03T05:30:39Z | registry-derived |
 | [SPIRIT-org/SPIRIT](../records/matlab-spirit-org-spirit-85199c7a.md) | partial | 2026-08-21T15:55:07Z | registry-derived |
-| [spm/spm](../records/matlab-spm-spm-26c6d9ba.md) | partial | 2026-09-05T06:04:23Z | registry-derived |
+| [spm/spm](../records/matlab-spm-spm-26c6d9ba.md) | partial | 2026-09-09T09:38:30Z | registry-derived |
 | [spm/spm12](../records/matlab-spm-spm12-7cee6644.md) | partial | 2024-02-05T13:43:41Z | registry-derived |
 | [SrirajBehera/Machine-Learning-Andrew-Ng](../records/matlab-srirajbehera-machine-learning-andrew-ng-f3d85a93.md) | partial | 2021-08-13T13:42:45Z | registry-derived |
 | [star2dust/paper-simulation](../records/matlab-star2dust-paper-simulation-9ae3627c.md) | partial | 2022-04-21T09:58:05Z | registry-derived |

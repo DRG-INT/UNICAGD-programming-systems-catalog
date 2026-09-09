@@ -1,6 +1,6 @@
 # Undefined Behavior Analyzer
 
-Records: `1629`
+Records: `1630`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `1629`
 
 ## Category Index
 
-[Api Abi Checker (225)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1001)](build-system.md) · [Cli (572)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (228)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1001)](build-system.md) · [Cli (574)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (179)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (238)](datetime.md)
+[Cryptography (179)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (240)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (465)](ffi-bindings.md) · [Filesystem Os (1620)](filesystem-os.md) · [Formatter (652)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (359)](game-engine-game-dev.md) · [Ide Editor Integration (1477)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (359)](game-engine-game-dev.md) · [Ide Editor Integration (1478)](ide-editor-integration.md)
 [Image Audio Dsp (439)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5841)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5845)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (532)](logging-observability.md) · [Machine Learning (813)](machine-learning.md)
 [Math Numeric Scientific (89)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1058)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1208)](parser-lexer-ast.md) · [Precommit Ci Quality (310)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1210)](parser-lexer-ast.md) · [Precommit Ci Quality (311)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (635)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (621)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-**[Undefined Behavior Analyzer (1629)](undefined-behavior-analyzer.md)** · [Utility Library (104)](utility-library.md) · [Visualization Gui (563)](visualization-gui.md) · [Web Framework (492)](web-framework.md)
+[Security Sast (337)](security-sast.md) · [Serialization (401)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (635)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (622)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+**[Undefined Behavior Analyzer (1630)](undefined-behavior-analyzer.md)** · [Utility Library (104)](utility-library.md) · [Visualization Gui (563)](visualization-gui.md) · [Web Framework (492)](web-framework.md)
 
 ## C++23
 
@@ -308,6 +308,7 @@ Records: `1629`
 | --- | --- | --- | --- |
 | aftables | 2.1.0 | 2026-08-24 08:40:27 UTC | [open](../records/r-aftables-1ddd032d.md) |
 | AnnotationBustR | 2.0 | 2026-08-31 19:00:19 UTC | [open](../records/r-annotationbustr-dbdc0e6c.md) |
+| anticlust | 0.8.16 | 2026-09-09 08:50:02 UTC | [open](../records/r-anticlust-8930bb70.md) |
 | BDPTobitQR | 0.1.0 | 2026-08-06 07:00:08 UTC | [open](../records/r-bdptobitqr-3a57fa72.md) |
 | CoxAalenCR | 0.1.0 | 2026-08-21 15:20:02 UTC | [open](../records/r-coxaalencr-2e2fa22a.md) |
 | ctgimme | 0.1.0 | 2026-08-28 14:30:15 UTC | [open](../records/r-ctgimme-b441ad06.md) |
@@ -1554,7 +1555,7 @@ Records: `1629`
 | jvde-github/AIS-catcher | partial | 2026-09-06T22:14:18Z | [open](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) |
 | kismetwireless/kismet | partial | 2026-09-01T15:36:57Z | [open](../records/satcom-satellites-kismetwireless-kismet-f1e1e53d.md) |
 | KubOS-Preservation-Group/ccsds-spacepacket | partial | 2022-06-13T23:22:58Z | [open](../records/satcom-satellites-kubos-preservation-group-ccsds-spacepacket-4cff5034.md) |
-| libcsp/libcsp | partial | 2026-09-07T12:25:21Z | [open](../records/satcom-satellites-libcsp-libcsp-abe29c50.md) |
+| libcsp/libcsp | partial | 2026-09-09T06:32:56Z | [open](../records/satcom-satellites-libcsp-libcsp-abe29c50.md) |
 | Mejiro-McQueen/Bifrost | partial | 2023-10-18T00:26:27Z | [open](../records/satcom-satellites-mejiro-mcqueen-bifrost-545d8ca0.md) |
 | opensatellite/KS-1Q | partial | 2022-06-21T17:25:16Z | [open](../records/satcom-satellites-opensatellite-ks-1q-6171a46e.md) |
 | raceintospace/raceintospace | partial | 2026-09-08T15:34:37Z | [open](../records/satcom-satellites-raceintospace-raceintospace-aabc64c6.md) |
@@ -1570,7 +1571,7 @@ Records: `1629`
 | 720kb/radiobox.css | partial | 2017-11-10T14:52:56Z | [open](../records/electromagnetoscopes-720kb-radiobox-css-3e1ebc91.md) |
 | cjcliffe/CubicSDR | partial | 2026-09-02T02:19:48Z | [open](../records/electromagnetoscopes-cjcliffe-cubicsdr-4d39607b.md) |
 | dabana/TEM_dash | partial | 2018-09-25T11:40:19Z | [open](../records/electromagnetoscopes-dabana-tem-dash-d58d5144.md) |
-| f4exb/sdrangel | partial | 2026-09-09T04:46:15Z | [open](../records/electromagnetoscopes-f4exb-sdrangel-2939271b.md) |
+| f4exb/sdrangel | partial | 2026-09-09T08:49:31Z | [open](../records/electromagnetoscopes-f4exb-sdrangel-2939271b.md) |
 | GeoBrain-Project/GeoBrain | partial | 2026-08-20T08:37:35Z | [open](../records/electromagnetoscopes-geobrain-project-geobrain-aeb85431.md) |
 | greatscottgadgets/ubertooth | partial | 2026-03-19T15:58:24Z | [open](../records/electromagnetoscopes-greatscottgadgets-ubertooth-28bac228.md) |
 | jvde-github/AIS-catcher | partial | 2026-09-06T22:14:18Z | [open](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) |
@@ -1861,14 +1862,14 @@ Records: `1629`
 | Gitea: ryan-winkler/ryanwinkler | partial | 2026-08-21T10:30:44Z | [open](../records/repository-workplaces-gitea-ryan-winkler-ryanwinkler-c5f906a1.md) |
 | Gitea: we8tguivdbsd/21eyay8qeyciubaya | partial | 2026-06-20T21:36:03Z | [open](../records/repository-workplaces-gitea-we8tguivdbsd-21eyay8qeyciubaya-47fe49cc.md) |
 | Gitea: zaccesss/.profile | partial | 2026-09-08T22:05:45Z | [open](../records/repository-workplaces-gitea-zaccesss-profile-898ffe18.md) |
-| gitlab-com/gl-infra/k8s-workloads/gitlab-com | partial | 2026-09-09T07:27:59.124Z | [open](../records/repository-workplaces-gitlab-com-gl-infra-k8s-workloads-gitlab-com-13cc554b.md) |
+| gitlab-com/gl-infra/k8s-workloads/gitlab-com | partial | 2026-09-09T08:34:46.446Z | [open](../records/repository-workplaces-gitlab-com-gl-infra-k8s-workloads-gitlab-com-13cc554b.md) |
 | gitlab-data/data-image | partial | 2026-08-21T11:24:30.282Z | [open](../records/repository-workplaces-gitlab-data-data-image-0af0c35c.md) |
 | gitlab-examples/kubernetes-deploy | partial | 2026-01-07T14:56:28.754Z | [open](../records/repository-workplaces-gitlab-examples-kubernetes-deploy-9a43e04a.md) |
 | gitlab-examples/ruby-autodeploy | partial | 2026-01-07T14:56:29.516Z | [open](../records/repository-workplaces-gitlab-examples-ruby-autodeploy-0ea70988.md) |
 | gitlab-org/caproni | partial | 2026-09-09T05:02:13.652Z | [open](../records/repository-workplaces-gitlab-org-caproni-40271619.md) |
-| gitlab-org/charts/gitlab-agent | partial | 2026-09-08T08:47:13.913Z | [open](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) |
+| gitlab-org/charts/gitlab-agent | partial | 2026-09-09T08:49:10.879Z | [open](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) |
 | gitlab-org/ci-cd/gitlab-runner-pod-cleanup | partial | 2026-05-15T07:38:19.652Z | [open](../records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) |
-| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-09T07:45:42.992Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
+| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-09T09:21:24.333Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
 | gitlab-org/kubernetes-gitlab-demo | partial | 2026-01-07T10:09:42.404Z | [open](../records/repository-workplaces-gitlab-org-kubernetes-gitlab-demo-d867dc50.md) |
 | glitchtip/glitchtip-helm-chart | partial | 2026-08-01T00:27:07.881Z | [open](../records/repository-workplaces-glitchtip-glitchtip-helm-chart-8da5da49.md) |
 | just.insane/kubernetes | partial | 2019-12-24T04:31:25.427Z | [open](../records/repository-workplaces-just-insane-kubernetes-b3dc8533.md) |
@@ -1881,7 +1882,7 @@ Records: `1629`
 | mt-ag-k8s-training-course/kubernetesexercises | partial | 2026-05-31T18:14:32.353Z | [open](../records/repository-workplaces-mt-ag-k8s-training-course-kubernetesexercises-8c51245a.md) |
 | mts-teta-public/devops-tools | partial | 2022-09-20T14:05:32.817Z | [open](../records/repository-workplaces-mts-teta-public-devops-tools-0ec6239d.md) |
 | nanuchi/bootcamp-kubernetes | partial | 2024-05-08T20:14:25.618Z | [open](../records/repository-workplaces-nanuchi-bootcamp-kubernetes-14dcba8c.md) |
-| ongresinc/stackgres | partial | 2026-09-08T21:02:48.763Z | [open](../records/repository-workplaces-ongresinc-stackgres-219e17d7.md) |
+| ongresinc/stackgres | partial | 2026-09-09T08:53:00.280Z | [open](../records/repository-workplaces-ongresinc-stackgres-219e17d7.md) |
 | postgres-ai/joe | partial | 2026-08-06T01:15:25.024Z | [open](../records/repository-workplaces-postgres-ai-joe-6048f213.md) |
 | purelb/purelb | partial | 2026-05-18T16:37:02.681Z | [open](../records/repository-workplaces-purelb-purelb-96e96f02.md) |
 | rocha.public/cursos/jenkins-em-larga-escala | partial | 2018-04-27T17:12:30.554Z | [open](../records/repository-workplaces-rocha-public-cursos-jenkins-em-larga-escala-11be6109.md) |
@@ -1893,4 +1894,4 @@ Records: `1629`
 | xavki/tutorials-kubernetes-v2 | partial | 2026-06-21T11:05:47.441Z | [open](../records/repository-workplaces-xavki-tutorials-kubernetes-v2-f5262aef.md) |
 | xavki/tutorials-terraform | partial | 2026-06-21T11:06:39.325Z | [open](../records/repository-workplaces-xavki-tutorials-terraform-293992cc.md) |
 | xavki/vagrant-stacks-library | partial | 2026-06-21T11:06:12.528Z | [open](../records/repository-workplaces-xavki-vagrant-stacks-library-9b9d6de1.md) |
-| yaook/operator | partial | 2026-09-09T06:05:56.999Z | [open](../records/repository-workplaces-yaook-operator-aa452dcd.md) |
+| yaook/operator | partial | 2026-09-09T09:34:40.829Z | [open](../records/repository-workplaces-yaook-operator-aa452dcd.md) |

@@ -1,6 +1,6 @@
 # Parser Lexer Ast
 
-Records: `1208`
+Records: `1210`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `1208`
 
 ## Category Index
 
-[Api Abi Checker (225)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1001)](build-system.md) · [Cli (572)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (228)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1001)](build-system.md) · [Cli (574)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (179)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (238)](datetime.md)
+[Cryptography (179)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (240)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (465)](ffi-bindings.md) · [Filesystem Os (1620)](filesystem-os.md) · [Formatter (652)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (58)](fuzzer.md) · [Game Engine Game Dev (359)](game-engine-game-dev.md) · [Ide Editor Integration (1477)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (359)](game-engine-game-dev.md) · [Ide Editor Integration (1478)](ide-editor-integration.md)
 [Image Audio Dsp (439)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5841)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5845)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (532)](logging-observability.md) · [Machine Learning (813)](machine-learning.md)
 [Math Numeric Scientific (89)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1058)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (443)](package-manager.md) · **[Parser Lexer Ast (1208)](parser-lexer-ast.md)** · [Precommit Ci Quality (310)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (443)](package-manager.md) · **[Parser Lexer Ast (1210)](parser-lexer-ast.md)** · [Precommit Ci Quality (311)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (635)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (621)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1629)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (563)](visualization-gui.md) · [Web Framework (492)](web-framework.md)
+[Security Sast (337)](security-sast.md) · [Serialization (401)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (635)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (622)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1630)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (563)](visualization-gui.md) · [Web Framework (492)](web-framework.md)
 
 ## C99
 
@@ -540,6 +540,8 @@ Records: `1208`
 | amazonka-elastictranscoder | 2.0 | 2023-07-27T21:11:48Z | [open](../records/haskell-amazonka-elastictranscoder-43c3d948.md) |
 | bed-and-breakfast | 0.5 | 2018-10-22T10:57:20Z | [open](../records/haskell-bed-and-breakfast-8dc9ef77.md) |
 | cabal-install-parsers | 0.7 | 2026-09-03T21:22:27Z | [open](../records/haskell-cabal-install-parsers-5bbb1ac6.md) |
+| datastar-hs | 1.1.0.2 | 2026-09-09T09:24:43Z | [open](../records/haskell-datastar-hs-04e237be.md) |
+| datastar-hs-zstd | 1.0.0.0 | 2026-09-09T09:25:31Z | [open](../records/haskell-datastar-hs-zstd-f5c720a9.md) |
 | diagrams-rasterific | 1.5 | 2025-03-28T20:34:55Z | [open](../records/haskell-diagrams-rasterific-bc87d3f7.md) |
 | fast-arithmetic | 0.6.7.0 | 2022-01-17T21:07:50Z | [open](../records/haskell-fast-arithmetic-b078148d.md) |
 | fast-logger | 3.2.7 | 2026-08-06T00:55:13Z | [open](../records/haskell-fast-logger-01a4c6d1.md) |
@@ -595,7 +597,7 @@ Records: `1208`
 | confetti | 0.8.0 | 2024-09-28T21:47:44.167789Z | [open](../records/dart-confetti-dc49ae1e.md) |
 | enum_to_string | 2.2.1 | 2025-03-16T05:58:29.652754Z | [open](../records/dart-enum-to-string-d311278a.md) |
 | fast_immutable_collections | 11.2.0 | 2026-04-14T23:58:01.654840Z | [open](../records/dart-fast-immutable-collections-4cd6a34f.md) |
-| flutter_contacts | 2.3.1 | 2026-07-29T15:55:06.577144Z | [open](../records/dart-flutter-contacts-06b4e09a.md) |
+| flutter_contacts | 2.4.1 | 2026-09-09T08:55:26.960530Z | [open](../records/dart-flutter-contacts-06b4e09a.md) |
 | flutter_easyloading | 4.0.2 | 2026-07-30T02:17:48.509538Z | [open](../records/dart-flutter-easyloading-11a37cc7.md) |
 | flutter_localization | 0.4.1 | 2026-06-27T11:24:38.070693Z | [open](../records/dart-flutter-localization-8dc1d50f.md) |
 | freezed | 4.0.1 | 2026-08-29T17:50:43.317002Z | [open](../records/dart-freezed-eb25c993.md) |
@@ -655,9 +657,9 @@ Records: `1208`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AstrBotDevs/AstrBot | partial | 2026-09-09T02:44:07Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
-| HKUDS/LightRAG | partial | 2026-09-09T09:16:01Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
-| labring/FastGPT | partial | 2026-09-09T06:45:10Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
+| AstrBotDevs/AstrBot | partial | 2026-09-09T09:32:02Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
+| HKUDS/LightRAG | partial | 2026-09-09T10:09:39Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
+| labring/FastGPT | partial | 2026-09-09T10:21:17Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Computer Graphics Software
 
@@ -1214,7 +1216,7 @@ Records: `1208`
 | sshh12/astro-app | partial | 2024-11-03T18:50:26Z | [open](../records/telescopes-sshh12-astro-app-9e112594.md) |
 | Starlink/starlink | partial | 2026-08-12T00:17:22Z | [open](../records/telescopes-starlink-starlink-a17e4ea1.md) |
 | StefanoTesla/TeslaBoard | partial | 2026-08-28T10:07:31Z | [open](../records/telescopes-stefanotesla-teslaboard-f09975c6.md) |
-| Stellarium/stellarium | partial | 2026-09-08T23:39:44Z | [open](../records/telescopes-stellarium-stellarium-a274d765.md) |
+| Stellarium/stellarium | partial | 2026-09-09T07:15:49Z | [open](../records/telescopes-stellarium-stellarium-a274d765.md) |
 | steveberardi/starplot | partial | 2026-09-01T13:14:47Z | [open](../records/telescopes-steveberardi-starplot-6a1c13aa.md) |
 | StingraySoftware/stingray | partial | 2026-06-02T08:10:03Z | [open](../records/telescopes-stingraysoftware-stingray-6e54158b.md) |
 | sunpy/sunpy | partial | 2026-09-03T11:45:18Z | [open](../records/telescopes-sunpy-sunpy-52ba6b6e.md) |
@@ -1256,7 +1258,7 @@ Records: `1208`
 | bastibl/gr-ieee802-11 | partial | 2026-05-19T12:38:59Z | [open](../records/satcom-satellites-bastibl-gr-ieee802-11-8666a106.md) |
 | bastibl/gr-ieee802-15-4 | partial | 2023-07-28T12:51:17Z | [open](../records/satcom-satellites-bastibl-gr-ieee802-15-4-71f2cd22.md) |
 | cogeotiff/rio-cogeo | partial | 2026-06-23T20:07:19Z | [open](../records/satcom-satellites-cogeotiff-rio-cogeo-bdd27c44.md) |
-| cogeotiff/rio-tiler | partial | 2026-09-08T17:31:30Z | [open](../records/satcom-satellites-cogeotiff-rio-tiler-3e362ba1.md) |
+| cogeotiff/rio-tiler | partial | 2026-09-09T06:39:21Z | [open](../records/satcom-satellites-cogeotiff-rio-tiler-3e362ba1.md) |
 | dariol83/reatmetric | partial | 2024-09-01T16:38:11Z | [open](../records/satcom-satellites-dariol83-reatmetric-4039b8d4.md) |
 | doersino/aerialbot | partial | 2026-08-02T07:23:23Z | [open](../records/satcom-satellites-doersino-aerialbot-90667c1c.md) |
 | GeoTIFF/geoblaze | partial | 2024-08-05T22:33:30Z | [open](../records/satcom-satellites-geotiff-geoblaze-c25d7b7b.md) |
