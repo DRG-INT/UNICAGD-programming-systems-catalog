@@ -9,7 +9,7 @@ Records: `1477`
 ## Category Index
 
 [Api Abi Checker (224)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1001)](build-system.md) · [Cli (571)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1001)](build-system.md) · [Cli (572)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
 [Concurrency Parallelism (94)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (178)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (972)](database-datastore.md) · [Datetime (235)](datetime.md)
@@ -19,7 +19,7 @@ Records: `1477`
 [Image Audio Dsp (439)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1451)](language-specification.md) · [Library (5834)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (531)](logging-observability.md) · [Machine Learning (812)](machine-learning.md)
-[Math Numeric Scientific (89)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1055)](networking-http.md)
+[Math Numeric Scientific (89)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1056)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1208)](parser-lexer-ast.md) · [Precommit Ci Quality (310)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (400)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (633)](static-analyzer.md)
@@ -213,13 +213,13 @@ Records: `1477`
 | expo-server-sdk | 7.2.0 | 2026-08-24T06:35:13.660Z | [open](../records/node-js-javascript-expo-server-sdk-2135e11d.md) |
 | expo-sqlite | 57.0.2 | 2026-08-26T19:56:48.653Z | [open](../records/node-js-javascript-expo-sqlite-49d6a6b7.md) |
 | flexbiz-server | 15.0.0 | 2026-08-21T10:55:46.759Z | [open](../records/node-js-javascript-flexbiz-server-0ecf4848.md) |
-| livekit-server-sdk | 2.18.0 | 2026-08-18T16:29:37.353Z | [open](../records/node-js-javascript-livekit-server-sdk-36c69b7e.md) |
+| livekit-server-sdk | 2.19.0 | 2026-09-09T01:06:20.153Z | [open](../records/node-js-javascript-livekit-server-sdk-36c69b7e.md) |
 | loglevelnext | 6.0.0 | 2023-10-18T02:49:11.340Z | [open](../records/node-js-javascript-loglevelnext-8db54747.md) |
 | method-override | 3.0.0 | 2018-07-12T03:11:32.841Z | [open](../records/node-js-javascript-method-override-b867e757.md) |
 | mixpanel | 0.24.0 | 2026-09-02T14:43:34.735Z | [open](../records/node-js-javascript-mixpanel-d4d6daf4.md) |
 | mocha-chai-jest-snapshot | 1.1.7 | 2025-08-17T12:31:48.562Z | [open](../records/node-js-javascript-mocha-chai-jest-snapshot-c741c970.md) |
 | p-locate | 7.0.0 | 2026-02-03T07:57:49.916Z | [open](../records/node-js-javascript-p-locate-193a12c0.md) |
-| ra-data-json-server | 5.15.2 | 2026-09-01T12:12:51.438Z | [open](../records/node-js-javascript-ra-data-json-server-08269826.md) |
+| ra-data-json-server | 5.15.3 | 2026-09-04T14:23:02.334Z | [open](../records/node-js-javascript-ra-data-json-server-08269826.md) |
 | sandbox-cli-detector | 0.2.0 | 2026-07-18T14:59:21.605Z | [open](../records/node-js-javascript-sandbox-cli-detector-5b3d5b6c.md) |
 | server-dom-shim | 1.1.0 | 2025-12-25T02:14:03.314Z | [open](../records/node-js-javascript-server-dom-shim-2f11a18e.md) |
 | shadow-dom-testing-library | 1.14.1 | 2026-07-22T00:51:12.522Z | [open](../records/node-js-javascript-shadow-dom-testing-library-0e1eb139.md) |
@@ -492,7 +492,7 @@ Records: `1477`
 | dsdp | 0.1.2 | 2026-08-21 13:00:41 UTC | [open](../records/r-dsdp-3362b407.md) |
 | dyadicMarkov | 0.1.2 | 2026-08-21 08:30:02 UTC | [open](../records/r-dyadicmarkov-1d646a8d.md) |
 | ekioplot | 1.1.0 | 2026-09-08 12:30:30 UTC | [open](../records/r-ekioplot-2ce59050.md) |
-| epibyhand | 0.1.0 | 2026-08-05 10:10:02 UTC | [open](../records/r-epibyhand-22f5d65b.md) |
+| epibyhand | 0.2.0 | 2026-09-09 02:10:02 UTC | [open](../records/r-epibyhand-22f5d65b.md) |
 | epidesc | 0.1.0 | 2026-08-07 22:00:09 UTC | [open](../records/r-epidesc-cd61d8fd.md) |
 | fasttreeid | 1.0.2 | 2026-08-31 19:30:59 UTC | [open](../records/r-fasttreeid-59875749.md) |
 | gpci | 0.1.0 | 2026-08-31 12:30:02 UTC | [open](../records/r-gpci-11704d6f.md) |
@@ -688,12 +688,12 @@ Records: `1477`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-07T12:44:29Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-08T23:32:27Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-09T01:24:05Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-05T16:04:02Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
-| harry0703/MoneyPrinterTurbo | partial | 2026-09-08T09:09:34Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
+| harry0703/MoneyPrinterTurbo | partial | 2026-09-09T01:33:11Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-09T00:27:27Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-08T22:05:09Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
-| upstash/context7 | partial | 2026-09-09T00:38:34Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
+| upstash/context7 | partial | 2026-09-09T02:06:49Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
 
 ## Computer Graphics Software

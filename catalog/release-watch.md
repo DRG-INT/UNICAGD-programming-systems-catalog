@@ -1,13 +1,13 @@
 # Release Watch
 
-Generated: `2026-09-09T01:21:39+00:00`
+Generated: `2026-09-09T02:23:22+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
 ## Category Index
 
 [Api Abi Checker (224)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (202)](by-category/benchmarking.md) · [Build System (1001)](by-category/build-system.md) · [Cli (571)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (202)](by-category/benchmarking.md) · [Build System (1001)](by-category/build-system.md) · [Cli (572)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (25)](by-category/compiler-diagnostics.md) · [Compression (52)](by-category/compression.md)
 [Concurrency Parallelism (94)](by-category/concurrency-parallelism.md) · [Configuration (132)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (178)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (972)](by-category/database-datastore.md) · [Datetime (235)](by-category/datetime.md)
@@ -17,7 +17,7 @@ Generated: `2026-09-09T01:21:39+00:00`
 [Image Audio Dsp (439)](by-category/image-audio-dsp.md) · [Interop Bindings (63)](by-category/interop-bindings.md) · [Interpreter Runtime (276)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1451)](by-category/language-specification.md) · [Library (5834)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (531)](by-category/logging-observability.md) · [Machine Learning (812)](by-category/machine-learning.md)
-[Math Numeric Scientific (89)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1055)](by-category/networking-http.md)
+[Math Numeric Scientific (89)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1056)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (443)](by-category/package-manager.md) · [Parser Lexer Ast (1208)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (310)](by-category/precommit-ci-quality.md)
 [Profiler (93)](by-category/profiler.md) · [Project Scaffolding (138)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (337)](by-category/security-sast.md) · [Serialization (400)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (633)](by-category/static-analyzer.md)
@@ -28,18 +28,22 @@ Generated: `2026-09-09T01:21:39+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10478 |
+| Known stable release | 10480 |
 | Unknown stable release | 17525 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| mint | Node.js/JavaScript | Cli | 4.2.879 | 2026-09-09T01:55:26.011Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
+| mintlify | Node.js/JavaScript | Cli | 4.2.879 | 2026-09-09T01:55:25.720Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
+| @mintlify/cli | Node.js/JavaScript | Cli | 4.0.1482 | 2026-09-09T01:55:22.556Z | [open](records/node-js-javascript-mintlify-cli-64dbc59b.md) |
+| @rushstack/heft-typescript-plugin | Node.js/TypeScript | Type Checker | 1.3.21 | 2026-09-09T01:46:02.796Z | [open](records/node-js-typescript-rushstack-heft-typescript-plugin-5f2052bd.md) |
+| openai | Node.js/TypeScript | Type Checker | 7.12.1 | 2026-09-09T01:28:59.753Z | [open](records/node-js-typescript-openai-c47e8332.md) |
+| livekit-server-sdk | Node.js/JavaScript | Ide Editor Integration | 2.19.0 | 2026-09-09T01:06:20.153Z | [open](records/node-js-javascript-livekit-server-sdk-36c69b7e.md) |
 | @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.114.5 | 2026-09-09T00:17:21.715Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
+| epibyhand | R | Ide Editor Integration | 0.2.0 | 2026-09-09 02:10:02 UTC | [open](records/r-epibyhand-22f5d65b.md) |
 | camera_web | Dart | Formatter | 0.3.5+6 | 2026-09-08T23:48:51.434297Z | [open](records/dart-camera-web-88f0b605.md) |
-| mint | Node.js/JavaScript | Cli | 4.2.877 | 2026-09-08T23:28:34.582Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
-| mintlify | Node.js/JavaScript | Cli | 4.2.877 | 2026-09-08T23:28:34.415Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
-| @mintlify/cli | Node.js/JavaScript | Cli | 4.0.1480 | 2026-09-08T23:28:31.453Z | [open](records/node-js-javascript-mintlify-cli-64dbc59b.md) |
 | @fragment-dev/cli | Node.js/JavaScript | Cli | 2026.9.8-14 | 2026-09-08T23:19:31.350Z | [open](records/node-js-javascript-fragment-dev-cli-b4d175cf.md) |
 | google_maps_flutter_web | Dart | Library | 0.6.3+1 | 2026-09-08T23:17:49.579362Z | [open](records/dart-google-maps-flutter-web-76457aaf.md) |
 | typed-peg | Haskell | Library | 0.2.0.0 | 2026-09-08T23:06:44Z | [open](records/haskell-typed-peg-d0f69182.md) |
@@ -281,10 +285,6 @@ Generated: `2026-09-09T01:21:39+00:00`
 | @nuxt/nitro-server-nightly | Node.js/JavaScript | Web Framework | 4.6.0-29813676.d47aedb6 | 2026-09-07T22:38:13.053Z | [open](records/node-js-javascript-nuxt-nitro-server-nightly-4efe1726.md) |
 | bon | Rust | Build System | 3.10.1 | 2026-09-07T21:19:59.961533Z | [open](records/rust-bon-5c756277.md) |
 | bon-macros | Rust | Filesystem Os | 3.10.1 | 2026-09-07T21:19:55.646272Z | [open](records/rust-bon-macros-d039731a.md) |
-| @cedarjs/testing | Node.js/JavaScript | Testing Framework | 6.0.2 | 2026-09-07T21:13:02.178Z | [open](records/node-js-javascript-cedarjs-testing-06c96172.md) |
-| @cedarjs/api-server | Node.js/JavaScript | Networking Http | 6.0.2 | 2026-09-07T21:12:55.441Z | [open](records/node-js-javascript-cedarjs-api-server-0ec0ed14.md) |
-| @cedarjs/web-server | Node.js/JavaScript | Ide Editor Integration | 6.0.2 | 2026-09-07T21:08:26.947Z | [open](records/node-js-javascript-cedarjs-web-server-bcabe48d.md) |
-| @rebasepro/server | Node.js/JavaScript | Web Framework | 0.19.1 | 2026-09-07T20:28:56.608Z | [open](records/node-js-javascript-rebasepro-server-25d1c74a.md) |
 
 ## Unknown Reasons
 

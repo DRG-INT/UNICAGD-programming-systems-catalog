@@ -5,7 +5,7 @@
 ## Category Index
 
 [Api Abi Checker (224)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (202)](by-category/benchmarking.md) · [Build System (1001)](by-category/build-system.md) · [Cli (571)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (202)](by-category/benchmarking.md) · [Build System (1001)](by-category/build-system.md) · [Cli (572)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (25)](by-category/compiler-diagnostics.md) · [Compression (52)](by-category/compression.md)
 [Concurrency Parallelism (94)](by-category/concurrency-parallelism.md) · [Configuration (132)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (178)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (972)](by-category/database-datastore.md) · [Datetime (235)](by-category/datetime.md)
@@ -15,7 +15,7 @@
 [Image Audio Dsp (439)](by-category/image-audio-dsp.md) · [Interop Bindings (63)](by-category/interop-bindings.md) · [Interpreter Runtime (276)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1451)](by-category/language-specification.md) · [Library (5834)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (531)](by-category/logging-observability.md) · [Machine Learning (812)](by-category/machine-learning.md)
-[Math Numeric Scientific (89)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1055)](by-category/networking-http.md)
+[Math Numeric Scientific (89)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1056)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (443)](by-category/package-manager.md) · [Parser Lexer Ast (1208)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (310)](by-category/precommit-ci-quality.md)
 [Profiler (93)](by-category/profiler.md) · [Project Scaffolding (138)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (337)](by-category/security-sast.md) · [Serialization (400)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (633)](by-category/static-analyzer.md)
@@ -24257,6 +24257,7 @@
 | `npm_registry-64513a399407bd` | axios-logger | [open](records/node-js-javascript-axios-logger-83ca938a.md) |
 | `npm_registry-64590681b6716c` | @tailwindcss/language-server | [open](records/node-js-javascript-tailwindcss-language-server-97ba1480.md) |
 | `npm_registry-646400bdc26a44` | grunt-prettier | [open](records/node-js-javascript-grunt-prettier-10164f57.md) |
+| `npm_registry-64662ac00a9ed5` | @jscad/cli | [open](records/node-js-javascript-jscad-cli-3e9c3318.md) |
 | `npm_registry-64668c4a001cb1` | prettier-plugin-nginx | [open](records/node-js-javascript-prettier-plugin-nginx-95f8d923.md) |
 | `npm_registry-646f6e936f09c1` | @z_ai/mcp-server | [open](records/node-js-javascript-z-ai-mcp-server-777e60ea.md) |
 | `npm_registry-647f7462879250` | @testing-library/vue | [open](records/node-js-javascript-testing-library-vue-c8d765af.md) |
@@ -25346,6 +25347,7 @@
 | `npm_registry-ca375ee9221f5c` | @typescript/native-preview-linux-arm64 | [open](records/node-js-typescript-typescript-native-preview-linux-arm64-c80b39a2.md) |
 | `npm_registry-ca6d7b671b8f20` | @grafana/eslint-config | [open](records/node-js-javascript-grafana-eslint-config-747f65e6.md) |
 | `npm_registry-ca8a2b4da2fa2d` | father-build | [open](records/node-js-javascript-father-build-278250d6.md) |
+| `npm_registry-cae38fd35a7cd9` | https-localhost | [open](records/node-js-javascript-https-localhost-ccd7047b.md) |
 | `npm_registry-caee462e7681eb` | @walletconnect/http-connection | [open](records/node-js-javascript-walletconnect-http-connection-adb0832c.md) |
 | `npm_registry-caf4bf3a8436a5` | isomorphic-timers-promises | [open](records/node-js-javascript-isomorphic-timers-promises-cc52742d.md) |
 | `npm_registry-cb1c84fea86d1c` | prettier-plugin-tailwindcss-canonical-classes | [open](records/node-js-javascript-prettier-plugin-tailwindcss-canonical-classes-d83bff4c.md) |

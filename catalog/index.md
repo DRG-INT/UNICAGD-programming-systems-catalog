@@ -1,13 +1,13 @@
 # Catalog Index
 
-Generated: `2026-09-09T01:21:39+00:00`
+Generated: `2026-09-09T02:23:22+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
 ## Category Index
 
 [Api Abi Checker (224)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (202)](by-category/benchmarking.md) · [Build System (1001)](by-category/build-system.md) · [Cli (571)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (202)](by-category/benchmarking.md) · [Build System (1001)](by-category/build-system.md) · [Cli (572)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (25)](by-category/compiler-diagnostics.md) · [Compression (52)](by-category/compression.md)
 [Concurrency Parallelism (94)](by-category/concurrency-parallelism.md) · [Configuration (132)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (178)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (972)](by-category/database-datastore.md) · [Datetime (235)](by-category/datetime.md)
@@ -17,7 +17,7 @@ Generated: `2026-09-09T01:21:39+00:00`
 [Image Audio Dsp (439)](by-category/image-audio-dsp.md) · [Interop Bindings (63)](by-category/interop-bindings.md) · [Interpreter Runtime (276)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1451)](by-category/language-specification.md) · [Library (5834)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (531)](by-category/logging-observability.md) · [Machine Learning (812)](by-category/machine-learning.md)
-[Math Numeric Scientific (89)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1055)](by-category/networking-http.md)
+[Math Numeric Scientific (89)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1056)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (443)](by-category/package-manager.md) · [Parser Lexer Ast (1208)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (310)](by-category/precommit-ci-quality.md)
 [Profiler (93)](by-category/profiler.md) · [Project Scaffolding (138)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (337)](by-category/security-sast.md) · [Serialization (400)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (633)](by-category/static-analyzer.md)
@@ -34,7 +34,7 @@ Generated: `2026-09-09T01:21:39+00:00`
 | Julia | 2174 | 0 | [Julia](by-language/julia.md) |
 | Rust | 2183 | 2105 | [Rust](by-language/rust.md) |
 | Python | 664 | 516 | [Python](by-language/python.md) |
-| Node.js/JavaScript | 2426 | 2349 | [Node.js/JavaScript](by-language/node-js-javascript.md) |
+| Node.js/JavaScript | 2428 | 2351 | [Node.js/JavaScript](by-language/node-js-javascript.md) |
 | Node.js/TypeScript | 391 | 351 | [Node.js/TypeScript](by-language/node-js-typescript.md) |
 | Lua family | 1937 | 0 | [Lua family](by-language/lua-family.md) |
 | R | 1817 | 1817 | [R](by-language/r.md) |
@@ -98,7 +98,7 @@ Generated: `2026-09-09T01:21:39+00:00`
 | Async Runtime | 139 | [async_runtime](by-category/async-runtime.md) |
 | Benchmarking | 202 | [benchmarking](by-category/benchmarking.md) |
 | Build System | 1001 | [build_system](by-category/build-system.md) |
-| Cli | 571 | [cli](by-category/cli.md) |
+| Cli | 572 | [cli](by-category/cli.md) |
 | Codegen Codemod Refactoring | 23 | [codegen_codemod_refactoring](by-category/codegen-codemod-refactoring.md) |
 | Community Reference | 118 | [community_reference](by-category/community-reference.md) |
 | Compiler | 176 | [compiler](by-category/compiler.md) |
@@ -139,7 +139,7 @@ Generated: `2026-09-09T01:21:39+00:00`
 | Math Numeric Scientific | 89 | [math_numeric_scientific](by-category/math-numeric-scientific.md) |
 | Memory Analyzer | 99 | [memory_analyzer](by-category/memory-analyzer.md) |
 | Message Broker | 40 | [message_broker](by-category/message-broker.md) |
-| Networking Http | 1055 | [networking_http](by-category/networking-http.md) |
+| Networking Http | 1056 | [networking_http](by-category/networking-http.md) |
 | Other | 14 | [other](by-category/other.md) |
 | Package Manager | 443 | [package_manager](by-category/package-manager.md) |
 | Parser Lexer Ast | 1208 | [parser_lexer_ast](by-category/parser-lexer-ast.md) |
@@ -171,7 +171,7 @@ Generated: `2026-09-09T01:21:39+00:00`
 | Julia | 0 | 2174 |
 | Rust | 2105 | 78 |
 | Python | 516 | 148 |
-| Node.js/JavaScript | 2349 | 77 |
+| Node.js/JavaScript | 2351 | 77 |
 | Node.js/TypeScript | 351 | 40 |
 | Lua family | 0 | 1937 |
 | R | 1817 | 0 |
