@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-09T02:23:22+00:00`
+Generated: `2026-09-09T03:24:39+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -10,13 +10,13 @@ Generated: `2026-09-09T02:23:22+00:00`
 [Benchmarking (202)](by-category/benchmarking.md) · [Build System (1001)](by-category/build-system.md) · [Cli (572)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (25)](by-category/compiler-diagnostics.md) · [Compression (52)](by-category/compression.md)
 [Concurrency Parallelism (94)](by-category/concurrency-parallelism.md) · [Configuration (132)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (178)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (972)](by-category/database-datastore.md) · [Datetime (235)](by-category/datetime.md)
+[Cryptography (179)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (972)](by-category/database-datastore.md) · [Datetime (235)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (105)](by-category/dependency-manager.md) · [Documentation (109)](by-category/documentation.md)
 [Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (465)](by-category/ffi-bindings.md) · [Filesystem Os (1618)](by-category/filesystem-os.md) · [Formatter (652)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (58)](by-category/fuzzer.md) · [Game Engine Game Dev (358)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1477)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (439)](by-category/image-audio-dsp.md) · [Interop Bindings (63)](by-category/interop-bindings.md) · [Interpreter Runtime (276)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1451)](by-category/language-specification.md) · [Library (5834)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (531)](by-category/logging-observability.md) · [Machine Learning (812)](by-category/machine-learning.md)
+[Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (531)](by-category/logging-observability.md) · [Machine Learning (813)](by-category/machine-learning.md)
 [Math Numeric Scientific (89)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1056)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (443)](by-category/package-manager.md) · [Parser Lexer Ast (1208)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (310)](by-category/precommit-ci-quality.md)
 [Profiler (93)](by-category/profiler.md) · [Project Scaffolding (138)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
@@ -28,13 +28,14 @@ Generated: `2026-09-09T02:23:22+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10480 |
+| Known stable release | 10482 |
 | Unknown stable release | 17525 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| cryptol | Haskell | Cryptography | 3.6.0 | 2026-09-09T02:42:09Z | [open](records/haskell-cryptol-f32fd08e.md) |
 | mint | Node.js/JavaScript | Cli | 4.2.879 | 2026-09-09T01:55:26.011Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
 | mintlify | Node.js/JavaScript | Cli | 4.2.879 | 2026-09-09T01:55:25.720Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
 | @mintlify/cli | Node.js/JavaScript | Cli | 4.0.1482 | 2026-09-09T01:55:22.556Z | [open](records/node-js-javascript-mintlify-cli-64dbc59b.md) |
@@ -42,6 +43,7 @@ Generated: `2026-09-09T02:23:22+00:00`
 | openai | Node.js/TypeScript | Type Checker | 7.12.1 | 2026-09-09T01:28:59.753Z | [open](records/node-js-typescript-openai-c47e8332.md) |
 | livekit-server-sdk | Node.js/JavaScript | Ide Editor Integration | 2.19.0 | 2026-09-09T01:06:20.153Z | [open](records/node-js-javascript-livekit-server-sdk-36c69b7e.md) |
 | @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.114.5 | 2026-09-09T00:17:21.715Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
+| wcvpmatch | R | Machine Learning | 0.0.2 | 2026-09-09 03:10:02 UTC | [open](records/r-wcvpmatch-62d4d2b2.md) |
 | epibyhand | R | Ide Editor Integration | 0.2.0 | 2026-09-09 02:10:02 UTC | [open](records/r-epibyhand-22f5d65b.md) |
 | camera_web | Dart | Formatter | 0.3.5+6 | 2026-09-08T23:48:51.434297Z | [open](records/dart-camera-web-88f0b605.md) |
 | @fragment-dev/cli | Node.js/JavaScript | Cli | 2026.9.8-14 | 2026-09-08T23:19:31.350Z | [open](records/node-js-javascript-fragment-dev-cli-b4d175cf.md) |
@@ -283,8 +285,6 @@ Generated: `2026-09-09T02:23:22+00:00`
 | serde_with | Rust | Library | 3.23.0 | 2026-09-07T23:03:03.817937Z | [open](records/rust-serde-with-81708f42.md) |
 | serde_with_macros | Rust | Filesystem Os | 3.23.0 | 2026-09-07T23:02:58.516992Z | [open](records/rust-serde-with-macros-2420cb02.md) |
 | @nuxt/nitro-server-nightly | Node.js/JavaScript | Web Framework | 4.6.0-29813676.d47aedb6 | 2026-09-07T22:38:13.053Z | [open](records/node-js-javascript-nuxt-nitro-server-nightly-4efe1726.md) |
-| bon | Rust | Build System | 3.10.1 | 2026-09-07T21:19:59.961533Z | [open](records/rust-bon-5c756277.md) |
-| bon-macros | Rust | Filesystem Os | 3.10.1 | 2026-09-07T21:19:55.646272Z | [open](records/rust-bon-macros-d039731a.md) |
 
 ## Unknown Reasons
 

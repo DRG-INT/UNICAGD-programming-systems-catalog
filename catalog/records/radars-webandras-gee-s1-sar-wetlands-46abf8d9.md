@@ -40,9 +40,9 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Mixed license review |
+| Evidence | GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0; MIT License; https://api.github.com/licenses/mit |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 
@@ -92,13 +92,13 @@ Evidence records merged into this identity: `1`.
 [Benchmarking (202)](../by-category/benchmarking.md) · [Build System (1001)](../by-category/build-system.md) · [Cli (572)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (52)](../by-category/compression.md)
 [Concurrency Parallelism (94)](../by-category/concurrency-parallelism.md) · [Configuration (132)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (178)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (972)](../by-category/database-datastore.md) · [Datetime (235)](../by-category/datetime.md)
+[Cryptography (179)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (972)](../by-category/database-datastore.md) · [Datetime (235)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (105)](../by-category/dependency-manager.md) · [Documentation (109)](../by-category/documentation.md)
 [Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (465)](../by-category/ffi-bindings.md) · [Filesystem Os (1618)](../by-category/filesystem-os.md) · [Formatter (652)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (58)](../by-category/fuzzer.md) · [Game Engine Game Dev (358)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1477)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (439)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (276)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1451)](../by-category/language-specification.md) · [Library (5834)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (531)](../by-category/logging-observability.md) · [Machine Learning (812)](../by-category/machine-learning.md)
+[Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (531)](../by-category/logging-observability.md) · [Machine Learning (813)](../by-category/machine-learning.md)
 [Math Numeric Scientific (89)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1056)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (443)](../by-category/package-manager.md) · [Parser Lexer Ast (1208)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (310)](../by-category/precommit-ci-quality.md)
 [Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (138)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)

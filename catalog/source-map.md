@@ -8,13 +8,13 @@
 [Benchmarking (202)](by-category/benchmarking.md) · [Build System (1001)](by-category/build-system.md) · [Cli (572)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (25)](by-category/compiler-diagnostics.md) · [Compression (52)](by-category/compression.md)
 [Concurrency Parallelism (94)](by-category/concurrency-parallelism.md) · [Configuration (132)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (178)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (972)](by-category/database-datastore.md) · [Datetime (235)](by-category/datetime.md)
+[Cryptography (179)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (972)](by-category/database-datastore.md) · [Datetime (235)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (105)](by-category/dependency-manager.md) · [Documentation (109)](by-category/documentation.md)
 [Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (465)](by-category/ffi-bindings.md) · [Filesystem Os (1618)](by-category/filesystem-os.md) · [Formatter (652)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (58)](by-category/fuzzer.md) · [Game Engine Game Dev (358)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1477)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (439)](by-category/image-audio-dsp.md) · [Interop Bindings (63)](by-category/interop-bindings.md) · [Interpreter Runtime (276)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1451)](by-category/language-specification.md) · [Library (5834)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (531)](by-category/logging-observability.md) · [Machine Learning (812)](by-category/machine-learning.md)
+[Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (531)](by-category/logging-observability.md) · [Machine Learning (813)](by-category/machine-learning.md)
 [Math Numeric Scientific (89)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1056)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (443)](by-category/package-manager.md) · [Parser Lexer Ast (1208)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (310)](by-category/precommit-ci-quality.md)
 [Profiler (93)](by-category/profiler.md) · [Project Scaffolding (138)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
@@ -2573,6 +2573,7 @@
 | `cran_packages_by_date-f8fb2d818b0b97` | SNMA | [open](records/r-snma-f6c6c753.md) |
 | `cran_packages_by_date-f95636332e0e6c` | optree | [open](records/r-optree-901a567f.md) |
 | `cran_packages_by_date-f96a06e620a63a` | actiwalkability | [open](records/r-actiwalkability-88d9dd5c.md) |
+| `cran_packages_by_date-f9a2927a95f7d9` | wcvpmatch | [open](records/r-wcvpmatch-62d4d2b2.md) |
 | `cran_packages_by_date-f9a2ef127f6945` | getaca | [open](records/r-getaca-f9f6085c.md) |
 | `cran_packages_by_date-f9ca5cb5313d42` | flexFitR | [open](records/r-flexfitr-f96616d5.md) |
 | `cran_packages_by_date-f9eb79b428a68d` | mSigPlot | [open](records/r-msigplot-abf3c858.md) |
@@ -17166,7 +17167,6 @@
 | `hackage_recent-02ddd1d9509596` | fuyu-gpio-direct | [open](records/haskell-fuyu-gpio-direct-75719919.md) |
 | `hackage_recent-06875ef13f88c3` | copilot-interpreter | [open](records/haskell-copilot-interpreter-ce6cf1ea.md) |
 | `hackage_recent-08efc48cf33993` | baikai | [open](records/haskell-baikai-a604f283.md) |
-| `hackage_recent-093cf7e166c197` | phino | [open](records/haskell-phino-0ffa79f2.md) |
 | `hackage_recent-0c786b314b6410` | grapesy | [open](records/haskell-grapesy-9ecbf2e2.md) |
 | `hackage_recent-1004c3738efce0` | copilot-verifier | [open](records/haskell-copilot-verifier-14ea6c5e.md) |
 | `hackage_recent-1197835ee1801b` | sectile | [open](records/haskell-sectile-00259ea8.md) |
@@ -17183,6 +17183,7 @@
 | `hackage_recent-1ff7b0c59c3981` | bugsnag-yesod | [open](records/haskell-bugsnag-yesod-b94b89ea.md) |
 | `hackage_recent-207f02f36f7529` | hhp | [open](records/haskell-hhp-f30f7714.md) |
 | `hackage_recent-241a705140c820` | copilot-language | [open](records/haskell-copilot-language-8b8dd8fc.md) |
+| `hackage_recent-28da5347c95bd3` | cryptol | [open](records/haskell-cryptol-f32fd08e.md) |
 | `hackage_recent-2c80f696145345` | kioku-core | [open](records/haskell-kioku-core-38935c2c.md) |
 | `hackage_recent-2df1ee5ebe2744` | shikumi-cache-postgres | [open](records/haskell-shikumi-cache-postgres-f027038d.md) |
 | `hackage_recent-2e5eb175e39bb5` | peg-matching | [open](records/haskell-peg-matching-8b470238.md) |
@@ -17332,6 +17333,7 @@
 | `hackage_top_downloads-08b0299d556775` | Unique | [open](records/haskell-unique-ea505c30.md) |
 | `hackage_top_downloads-08c7458040fc29` | hw-prim | [open](records/haskell-hw-prim-469f0960.md) |
 | `hackage_top_downloads-08e8b635c4a6fa` | base-prelude | [open](records/haskell-base-prelude-683a3f63.md) |
+| `hackage_top_downloads-093cf7e166c197` | phino | [open](records/haskell-phino-0ffa79f2.md) |
 | `hackage_top_downloads-0944a70fa96b1b` | fasta | [open](records/haskell-fasta-01ab7c49.md) |
 | `hackage_top_downloads-0972cfb82a918e` | not-gloss | [open](records/haskell-not-gloss-7665a3d6.md) |
 | `hackage_top_downloads-0997b911467b73` | network-uri | [open](records/haskell-network-uri-ef1bd1e0.md) |
