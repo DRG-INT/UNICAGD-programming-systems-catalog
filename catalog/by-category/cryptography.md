@@ -221,7 +221,7 @@ Records: `179`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ente/ente | partial | 2026-09-09T02:15:10Z | [open](../records/go-ente-ente-f02441bb.md) |
+| ente/ente | partial | 2026-09-09T04:11:18Z | [open](../records/go-ente-ente-f02441bb.md) |
 
 ## Transmission Protocols
 

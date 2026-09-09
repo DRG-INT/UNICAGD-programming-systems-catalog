@@ -468,7 +468,7 @@ Records: `2428`
 | [@webpack-cli/generators](../records/node-js-javascript-webpack-cli-generators-f0799e5d.md) | 3.0.7 | 2023-06-07T18:23:19.435Z | registry-derived |
 | [@wp-playground/cli](../records/node-js-javascript-wp-playground-cli-96d442e6.md) | 3.1.53 | 2026-09-07T09:46:07.737Z | registry-derived |
 | [@zenstackhq/cli](../records/node-js-javascript-zenstackhq-cli-0b6ca1af.md) | 3.9.3 | 2026-08-31T13:33:50.191Z | registry-derived |
-| [agent-browser](../records/node-js-javascript-agent-browser-995918db.md) | 0.36.0 | 2026-09-01T04:39:36.798Z | registry-derived |
+| [agent-browser](../records/node-js-javascript-agent-browser-995918db.md) | 0.37.1 | 2026-09-08T14:50:16.820Z | registry-derived |
 | [babar](../records/node-js-javascript-babar-65661923.md) | 0.2.3 | 2022-09-09T13:25:48.023Z | registry-derived |
 | [byterover-cli](../records/node-js-javascript-byterover-cli-00175d9a.md) | 3.16.1 | 2026-05-27T08:59:35.235Z | registry-derived |
 | [cdktf-cli](../records/node-js-javascript-cdktf-cli-894a9dc9.md) | 0.21.0 | 2025-06-04T16:46:10.094Z | registry-derived |
@@ -1111,9 +1111,9 @@ Records: `2428`
 | [@embroider/macros](../records/node-js-javascript-embroider-macros-29a00721.md) | 1.20.6 | 2026-08-05T18:22:24.239Z | npm_registry |
 | [@eslint/js](../records/node-js-javascript-eslint-js-c83f2528.md) | 10.0.1 | 2026-02-06T22:34:56.290Z | npm_registry |
 | [@eslint/markdown](../records/node-js-javascript-eslint-markdown-397a0750.md) | 8.0.3 | 2026-07-01T13:28:44.339Z | npm_registry |
-| [@github/copilot-language-server-darwin-arm64](../records/node-js-javascript-github-copilot-language-server-darwin-arm64-20bcc86b.md) | 1.543.0 | 2026-09-08T18:01:15.990Z | registry-derived |
-| [@github/copilot-language-server-linux-x64](../records/node-js-javascript-github-copilot-language-server-linux-x64-02307b0b.md) | 1.543.0 | 2026-09-08T18:02:14.190Z | registry-derived |
-| [@github/copilot-language-server-win32-x64](../records/node-js-javascript-github-copilot-language-server-win32-x64-bfb04d01.md) | 1.543.0 | 2026-09-08T18:09:07.328Z | registry-derived |
+| [@github/copilot-language-server-darwin-arm64](../records/node-js-javascript-github-copilot-language-server-darwin-arm64-20bcc86b.md) | 1.544.0 | 2026-09-09T03:42:48.384Z | registry-derived |
+| [@github/copilot-language-server-linux-x64](../records/node-js-javascript-github-copilot-language-server-linux-x64-02307b0b.md) | 1.544.0 | 2026-09-09T03:43:36.793Z | registry-derived |
+| [@github/copilot-language-server-win32-x64](../records/node-js-javascript-github-copilot-language-server-win32-x64-bfb04d01.md) | 1.544.0 | 2026-09-09T03:48:16.949Z | registry-derived |
 | [@ksmithut/prettier-standard](../records/node-js-javascript-ksmithut-prettier-standard-6a3869d4.md) | 0.2.0 | 2023-10-17T02:41:25.662Z | npm_registry |
 | [@locker/shared](../records/node-js-javascript-locker-shared-c4a9bfa0.md) | 0.27.9 | 2026-08-31T20:02:13.460Z | npm_registry |
 | [@nezam.ai/runtime-js-database](../records/node-js-javascript-nezam-ai-runtime-js-database-4e22a0f7.md) | 0.1.5 | 2026-08-16T08:38:50.876Z | registry-derived |

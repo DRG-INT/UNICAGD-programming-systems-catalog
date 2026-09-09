@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-09T03:24:39+00:00`
+Generated: `2026-09-09T04:24:51+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -35,6 +35,9 @@ Generated: `2026-09-09T03:24:39+00:00`
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| @github/copilot-language-server-win32-x64 | Node.js/JavaScript | Language Specification | 1.544.0 | 2026-09-09T03:48:16.949Z | [open](records/node-js-javascript-github-copilot-language-server-win32-x64-bfb04d01.md) |
+| @github/copilot-language-server-linux-x64 | Node.js/JavaScript | Language Specification | 1.544.0 | 2026-09-09T03:43:36.793Z | [open](records/node-js-javascript-github-copilot-language-server-linux-x64-02307b0b.md) |
+| @github/copilot-language-server-darwin-arm64 | Node.js/JavaScript | Language Specification | 1.544.0 | 2026-09-09T03:42:48.384Z | [open](records/node-js-javascript-github-copilot-language-server-darwin-arm64-20bcc86b.md) |
 | cryptol | Haskell | Cryptography | 3.6.0 | 2026-09-09T02:42:09Z | [open](records/haskell-cryptol-f32fd08e.md) |
 | mint | Node.js/JavaScript | Cli | 4.2.879 | 2026-09-09T01:55:26.011Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
 | mintlify | Node.js/JavaScript | Cli | 4.2.879 | 2026-09-09T01:55:25.720Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
@@ -123,9 +126,6 @@ Generated: `2026-09-09T03:24:39+00:00`
 | @aws-sdk/client-database-migration-service | Node.js/JavaScript | Networking Http | 3.1128.0 | 2026-09-08T18:48:06.504Z | [open](records/node-js-javascript-aws-sdk-client-database-migration-service-058f4424.md) |
 | warp-s2n-tls | Haskell | Cryptography | 0.1.1.0 | 2026-09-08T18:39:54Z | [open](records/haskell-warp-s2n-tls-077e8c67.md) |
 | hybrid-array | Rust | Ide Editor Integration | 0.4.15 | 2026-09-08T18:21:39.618460Z | [open](records/rust-hybrid-array-a6f248d9.md) |
-| @github/copilot-language-server-win32-x64 | Node.js/JavaScript | Language Specification | 1.543.0 | 2026-09-08T18:09:07.328Z | [open](records/node-js-javascript-github-copilot-language-server-win32-x64-bfb04d01.md) |
-| @github/copilot-language-server-linux-x64 | Node.js/JavaScript | Language Specification | 1.543.0 | 2026-09-08T18:02:14.190Z | [open](records/node-js-javascript-github-copilot-language-server-linux-x64-02307b0b.md) |
-| @github/copilot-language-server-darwin-arm64 | Node.js/JavaScript | Language Specification | 1.543.0 | 2026-09-08T18:01:15.990Z | [open](records/node-js-javascript-github-copilot-language-server-darwin-arm64-20bcc86b.md) |
 | @aws/durable-execution-sdk-js-testing | Node.js/TypeScript | Type Checker | 1.1.4 | 2026-09-08T17:41:13.865Z | [open](records/node-js-typescript-aws-durable-execution-sdk-js-testing-31e8c795.md) |
 | flutter_widget_from_html | Dart | Ide Editor Integration | 0.17.4 | 2026-09-08T17:34:20.774478Z | [open](records/dart-flutter-widget-from-html-955cd78c.md) |
 | sectile | Haskell | Library | 0.1.0.0 | 2026-09-08T17:29:19Z | [open](records/haskell-sectile-00259ea8.md) |
@@ -146,6 +146,7 @@ Generated: `2026-09-09T03:24:39+00:00`
 | baikai-effectful | Haskell | Machine Learning | 0.4.0.1 | 2026-09-08T14:52:21Z | [open](records/haskell-baikai-effectful-04fc05ec.md) |
 | baikai-trace-otel | Haskell | Profiler | 0.4.0.1 | 2026-09-08T14:51:47Z | [open](records/haskell-baikai-trace-otel-4ce358b8.md) |
 | baikai-openai | Haskell | Machine Learning | 0.7.0.0 | 2026-09-08T14:51:07Z | [open](records/haskell-baikai-openai-647568ad.md) |
+| agent-browser | Node.js/JavaScript | Cli | 0.37.1 | 2026-09-08T14:50:16.820Z | [open](records/node-js-javascript-agent-browser-995918db.md) |
 | baikai-claude | Haskell | Machine Learning | 0.7.0.0 | 2026-09-08T14:48:35Z | [open](records/haskell-baikai-claude-dd79deaa.md) |
 | baikai | Haskell | Machine Learning | 0.7.0.0 | 2026-09-08T14:44:10Z | [open](records/haskell-baikai-a604f283.md) |
 | @wecom/cli | Node.js/JavaScript | Ffi Bindings | 1.2.1 | 2026-09-08T14:28:35.401Z | [open](records/node-js-javascript-wecom-cli-68523308.md) |
@@ -284,7 +285,6 @@ Generated: `2026-09-09T03:24:39+00:00`
 | @neaps/tide-database | Node.js/JavaScript | Undefined Behavior Analyzer | 0.9.20260907 | 2026-09-07T23:07:39.121Z | [open](records/node-js-javascript-neaps-tide-database-72059e90.md) |
 | serde_with | Rust | Library | 3.23.0 | 2026-09-07T23:03:03.817937Z | [open](records/rust-serde-with-81708f42.md) |
 | serde_with_macros | Rust | Filesystem Os | 3.23.0 | 2026-09-07T23:02:58.516992Z | [open](records/rust-serde-with-macros-2420cb02.md) |
-| @nuxt/nitro-server-nightly | Node.js/JavaScript | Web Framework | 4.6.0-29813676.d47aedb6 | 2026-09-07T22:38:13.053Z | [open](records/node-js-javascript-nuxt-nitro-server-nightly-4efe1726.md) |
 
 ## Unknown Reasons
 

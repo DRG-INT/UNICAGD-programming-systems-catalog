@@ -1141,7 +1141,7 @@ Records: `972`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| banana-hackers/store-db | partial | 2026-09-08T11:24:52.400Z | [open](../records/repository-workplaces-banana-hackers-store-db-85eabcc9.md) |
+| banana-hackers/store-db | partial | 2026-09-09T03:43:45.045Z | [open](../records/repository-workplaces-banana-hackers-store-db-85eabcc9.md) |
 | barrel-db/barrel-platform | partial | 2019-08-09T11:30:47.070Z | [open](../records/repository-workplaces-barrel-db-barrel-platform-c0ea9b49.md) |
 | bullbytes/scala-js-example | partial | 2022-07-23T07:17:21.421Z | [open](../records/repository-workplaces-bullbytes-scala-js-example-f737433c.md) |
 | cznic/ql | partial | 2026-09-02T12:20:34.671Z | [open](../records/repository-workplaces-cznic-ql-298bf64a.md) |

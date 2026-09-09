@@ -32,22 +32,22 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 0.36.0 | 2026-09-01T04:39:36.798Z | [https://registry.npmjs.org/-/v1/search?text=cli&size=250&quality=0.35&popularity=0.45&maintenance=0.20](https://registry.npmjs.org/-/v1/search?text=cli&size=250&quality=0.35&popularity=0.45&maintenance=0.20) |  |
+| stable | known | 0.37.1 | 2026-09-08T14:50:16.820Z | [https://registry.npmjs.org/-/v1/search?text=cli&size=250&quality=0.35&popularity=0.45&maintenance=0.20](https://registry.npmjs.org/-/v1/search?text=cli&size=250&quality=0.35&popularity=0.45&maintenance=0.20) |  |
 | preview/nightly | unknown |  |  | unknown | npm_search_does_not_include_dist_tags |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | {"key": "", "name": "", "url": ""} |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Apache-2.0 |
+| Evidence | Apache-2.0 |
+| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes
 
 - Treat category as `cli` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=cli&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-02T04:21:27+00:00`.
+- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=cli&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-09T04:20:41+00:00`.
 - Preview/nightly metadata is unknown because `npm_search_does_not_include_dist_tags`.
 
 ## Provenance
@@ -57,7 +57,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| npm_registry_search | registry-derived | 2026-09-07 | `{"kind": "npm_registry_search", "query": "cli", "retrieved": "2026-09-07", "status": "registry-derived"}` |
+| npm_registry_search | registry-derived | 2026-09-09 | `{"kind": "npm_registry_search", "query": "cli", "retrieved": "2026-09-09", "status": "registry-derived"}` |
 
 </details>
 

@@ -40,7 +40,7 @@ of build graph control, artifact reproducibility, cross-platform build policy, a
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit |
+| Evidence | MIT License; https://api.github.com/licenses/mit; Do What The F*ck You Want To Public License; https://api.github.com/licenses/wtfpl |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

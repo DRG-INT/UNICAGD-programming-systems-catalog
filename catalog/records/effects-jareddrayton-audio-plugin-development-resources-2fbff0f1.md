@@ -40,9 +40,9 @@ operational fit assessment.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Other permissive |
-| Evidence | The Unlicense; https://api.github.com/licenses/unlicense; {"key": "", "name": "", "url": ""} |
-| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
+| Detected family | Mixed license review |
+| Evidence | Other; Mozilla Public License 2.0; https://api.github.com/licenses/mpl-2.0; MIT License; https://api.github.com/licenses/mit; {"key": "", "name": "", "url": ""} |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 

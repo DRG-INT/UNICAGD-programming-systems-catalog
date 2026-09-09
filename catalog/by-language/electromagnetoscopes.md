@@ -39,7 +39,7 @@ Records: `278`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [google/ceviche-challenges](../records/electromagnetoscopes-google-ceviche-challenges-32054f63.md) | partial | 2024-01-20T18:04:58Z | registry-derived |
-| [luigifcruz/CyberEther](../records/electromagnetoscopes-luigifcruz-cyberether-9a732794.md) | partial | 2026-09-09T03:09:43Z | registry-derived |
+| [luigifcruz/CyberEther](../records/electromagnetoscopes-luigifcruz-cyberether-9a732794.md) | partial | 2026-09-09T04:20:23Z | registry-derived |
 
 ### Build System
 

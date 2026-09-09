@@ -130,12 +130,12 @@ Records: `99`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | asgeirtj/system_prompts_leaks | partial | 2026-09-08T17:07:02Z | [open](../records/aim-s-asgeirtj-system-prompts-leaks-c743049d.md) |
-| gitleaks/gitleaks | partial | 2026-08-26T04:17:05Z | [open](../records/aim-s-gitleaks-gitleaks-942f477b.md) |
+| gitleaks/gitleaks | partial | 2026-09-09T04:18:49Z | [open](../records/aim-s-gitleaks-gitleaks-942f477b.md) |
 | mem0ai/mem0 | partial | 2026-09-09T02:48:44Z | [open](../records/aim-s-mem0ai-mem0-1e2f6f8a.md) |
 | MemPalace/mempalace | partial | 2026-09-08T19:49:28Z | [open](../records/aim-s-mempalace-mempalace-24dc978a.md) |
 | tinyhumansai/openhuman | partial | 2026-09-09T00:16:36Z | [open](../records/aim-s-tinyhumansai-openhuman-c683371f.md) |
-| vllm-project/vllm | partial | 2026-09-09T03:16:03Z | [open](../records/aim-s-vllm-project-vllm-5af67423.md) |
-| zhayujie/CowAgent | partial | 2026-09-09T03:09:51Z | [open](../records/aim-s-zhayujie-cowagent-fa45ff55.md) |
+| vllm-project/vllm | partial | 2026-09-09T03:44:30Z | [open](../records/aim-s-vllm-project-vllm-5af67423.md) |
+| zhayujie/CowAgent | partial | 2026-09-09T04:02:00Z | [open](../records/aim-s-zhayujie-cowagent-fa45ff55.md) |
 
 ## Game Engines
 

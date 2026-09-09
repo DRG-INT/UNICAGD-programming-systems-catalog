@@ -113,7 +113,7 @@ Records: `69`
 | [bazelbuild/rules_docker](../records/starlark-bazelbuild-rules-docker-9df12e7c.md) | partial | 2025-12-22T00:24:32Z | registry-derived |
 | [bazelbuild/rules_rust](../records/starlark-bazelbuild-rules-rust-3c62960b.md) | partial | 2026-09-07T14:58:21Z | registry-derived |
 | [cel-expr/cel-spec](../records/starlark-cel-expr-cel-spec-b2658dd8.md) | partial | 2026-08-13T21:27:23Z | registry-derived |
-| [envoyproxy/data-plane-api](../records/starlark-envoyproxy-data-plane-api-7610f6c0.md) | partial | 2026-09-08T21:29:09Z | registry-derived |
+| [envoyproxy/data-plane-api](../records/starlark-envoyproxy-data-plane-api-7610f6c0.md) | partial | 2026-09-09T03:26:41Z | registry-derived |
 | [google/dotprompt](../records/starlark-google-dotprompt-07de9fab.md) | partial | 2026-09-08T23:38:47Z | registry-derived |
 | [google/fully-homomorphic-encryption](../records/starlark-google-fully-homomorphic-encryption-7e96f129.md) | partial | 2026-09-06T04:02:41Z | registry-derived |
 | [googleapis/googleapis](../records/starlark-googleapis-googleapis-b2038836.md) | partial | 2026-09-08T16:09:41Z | registry-derived |
@@ -140,7 +140,7 @@ Records: `69`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [protoconf/protoconf](../records/starlark-protoconf-protoconf-2d2b3184.md) | partial | 2026-09-08T21:13:02Z | registry-derived |
+| [protoconf/protoconf](../records/starlark-protoconf-protoconf-2d2b3184.md) | partial | 2026-09-09T04:03:06Z | registry-derived |
 | [remarshal-project/remarshal](../records/starlark-remarshal-project-remarshal-9ffddf4f.md) | partial | 2026-08-01T07:20:07Z | registry-derived |
 
 ### Undefined Behavior Analyzer

@@ -40,9 +40,9 @@ operational fit assessment.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Apache-2.0 |
-| Evidence | Apache-2.0 |
-| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
+| Detected family | Backup plan required |
+| Evidence | GNU Lesser General Public License v2.1; https://api.github.com/licenses/lgpl-2.1 |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 

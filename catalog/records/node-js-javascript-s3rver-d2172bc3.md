@@ -59,7 +59,7 @@ routing, middleware policy, service structure, and deployment surface.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| npm_registry_search | registry-derived | 2026-09-08 | `{"kind": "npm_registry_search", "query": "server", "retrieved": "2026-09-08", "status": "registry-derived"}` |
+| npm_registry_search | registry-derived | 2026-09-09 | `{"kind": "npm_registry_search", "query": "server", "retrieved": "2026-09-09", "status": "registry-derived"}` |
 
 </details>
 

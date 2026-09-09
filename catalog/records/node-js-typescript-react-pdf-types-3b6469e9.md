@@ -39,9 +39,9 @@ interface contracts, migration safety, editor feedback, and large-codebase maint
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | {"key": "", "name": "", "url": ""} |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | MIT |
+| Evidence | MIT |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ interface contracts, migration safety, editor feedback, and large-codebase maint
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| npm_registry_search | registry-derived | 2026-09-02 | `{"kind": "npm_registry_search", "query": "typescript", "retrieved": "2026-09-02", "status": "registry-derived"}` |
+| npm_registry_search | registry-derived | 2026-09-09 | `{"kind": "npm_registry_search", "query": "typescript", "retrieved": "2026-09-09", "status": "registry-derived"}` |
 
 </details>
 

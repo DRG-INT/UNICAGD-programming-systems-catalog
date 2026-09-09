@@ -39,9 +39,9 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| npm_registry_search | registry-derived | 2026-09-08 | `{"kind": "npm_registry_search", "query": "cli", "retrieved": "2026-09-08", "status": "registry-derived"}` |
+| npm_registry_search | registry-derived | 2026-09-09 | `{"kind": "npm_registry_search", "query": "cli", "retrieved": "2026-09-09", "status": "registry-derived"}` |
 
 </details>
 

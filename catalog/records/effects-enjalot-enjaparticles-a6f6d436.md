@@ -40,7 +40,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | Eclipse Public License 2.0; https://api.github.com/licenses/epl-2.0; Other |
+| Evidence | GPL (>= 2); {"key": "", "name": "", "url": ""} |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

@@ -376,7 +376,7 @@ Records: `572`
 | @webpack-cli/generators | 3.0.7 | 2023-06-07T18:23:19.435Z | [open](../records/node-js-javascript-webpack-cli-generators-f0799e5d.md) |
 | @wp-playground/cli | 3.1.53 | 2026-09-07T09:46:07.737Z | [open](../records/node-js-javascript-wp-playground-cli-96d442e6.md) |
 | @zenstackhq/cli | 3.9.3 | 2026-08-31T13:33:50.191Z | [open](../records/node-js-javascript-zenstackhq-cli-0b6ca1af.md) |
-| agent-browser | 0.36.0 | 2026-09-01T04:39:36.798Z | [open](../records/node-js-javascript-agent-browser-995918db.md) |
+| agent-browser | 0.37.1 | 2026-09-08T14:50:16.820Z | [open](../records/node-js-javascript-agent-browser-995918db.md) |
 | babar | 0.2.3 | 2022-09-09T13:25:48.023Z | [open](../records/node-js-javascript-babar-65661923.md) |
 | byterover-cli | 3.16.1 | 2026-05-27T08:59:35.235Z | [open](../records/node-js-javascript-byterover-cli-00175d9a.md) |
 | cdktf-cli | 0.21.0 | 2025-06-04T16:46:10.094Z | [open](../records/node-js-javascript-cdktf-cli-894a9dc9.md) |
@@ -533,10 +533,10 @@ Records: `572`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-09T01:05:10Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-09T03:57:24Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-09T03:20:36Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-09T04:14:37Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 

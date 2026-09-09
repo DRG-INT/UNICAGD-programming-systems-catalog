@@ -41,7 +41,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 | Field | Value |
 | --- | --- |
 | Detected family | Mixed license review |
-| Evidence | MIT; Mozilla Public License 2.0; https://api.github.com/licenses/mpl-2.0 |
+| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0; Mozilla Public License 2.0; https://api.github.com/licenses/mpl-2.0 |
 | Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes

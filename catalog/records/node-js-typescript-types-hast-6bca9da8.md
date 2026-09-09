@@ -39,9 +39,9 @@ contracts, migration safety, editor feedback, and large-codebase maintainability
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; Other |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | MIT |
+| Evidence | MIT |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ contracts, migration safety, editor feedback, and large-codebase maintainability
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| npm_registry_search | registry-derived | 2026-09-05 | `{"kind": "npm_registry_search", "query": "typescript", "retrieved": "2026-09-05", "status": "registry-derived"}` |
+| npm_registry_search | registry-derived | 2026-09-09 | `{"kind": "npm_registry_search", "query": "typescript", "retrieved": "2026-09-09", "status": "registry-derived"}` |
 
 </details>
 

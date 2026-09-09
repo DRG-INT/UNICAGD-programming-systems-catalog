@@ -33,7 +33,7 @@ awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 1.543.0 | 2026-09-08T18:01:15.990Z | [https://registry.npmjs.org/-/v1/search?text=server&size=250&quality=0.35&popularity=0.45&maintenance=0.20](https://registry.npmjs.org/-/v1/search?text=server&size=250&quality=0.35&popularity=0.45&maintenance=0.20) |  |
+| stable | known | 1.544.0 | 2026-09-09T03:42:48.384Z | [https://registry.npmjs.org/-/v1/search?text=server&size=250&quality=0.35&popularity=0.45&maintenance=0.20](https://registry.npmjs.org/-/v1/search?text=server&size=250&quality=0.35&popularity=0.45&maintenance=0.20) |  |
 | preview/nightly | unknown |  |  | unknown | npm_search_does_not_include_dist_tags |
 
 ## License And Use Alert
@@ -48,7 +48,7 @@ awareness, and operational fit assessment.
 
 - Treat category as `language_specification` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=server&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-08T18:23:38+00:00`.
+- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=server&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-09T04:20:42+00:00`.
 - Preview/nightly metadata is unknown because `npm_search_does_not_include_dist_tags`.
 
 ## Provenance

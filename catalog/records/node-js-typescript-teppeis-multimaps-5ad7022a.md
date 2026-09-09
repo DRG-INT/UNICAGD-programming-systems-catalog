@@ -39,9 +39,9 @@ interface contracts, migration safety, editor feedback, and large-codebase maint
 
 | Field | Value |
 | --- | --- |
-| Detected family | Apache-2.0 |
-| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
-| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
+| Detected family | MIT |
+| Evidence | MIT |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ interface contracts, migration safety, editor feedback, and large-codebase maint
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| npm_registry_search | registry-derived | 2026-09-02 | `{"kind": "npm_registry_search", "query": "typescript", "retrieved": "2026-09-02", "status": "registry-derived"}` |
+| npm_registry_search | registry-derived | 2026-09-09 | `{"kind": "npm_registry_search", "query": "typescript", "retrieved": "2026-09-09", "status": "registry-derived"}` |
 
 </details>
 

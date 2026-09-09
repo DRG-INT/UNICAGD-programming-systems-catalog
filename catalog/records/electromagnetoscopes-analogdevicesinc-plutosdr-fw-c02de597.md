@@ -42,7 +42,7 @@ as part of diagnostics, metrics, auditability, tracing, and incident response.
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | {"key": "", "name": "", "url": ""}; Other |
+| Evidence | Other |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
