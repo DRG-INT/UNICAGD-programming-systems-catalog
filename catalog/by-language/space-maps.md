@@ -527,7 +527,7 @@ Records: `656`
 | --- | --- | --- | --- |
 | [Ching367436/spice-mac](../records/space-maps-ching367436-spice-mac-5719b99e.md) | partial | 2026-08-27T16:25:56Z | registry-derived |
 | [Corsinvest/cv4pve-vdi](../records/space-maps-corsinvest-cv4pve-vdi-bc170682.md) | partial | 2026-07-30T17:05:15Z | registry-derived |
-| [electerm/electerm](../records/space-maps-electerm-electerm-8c5dc479.md) | partial | 2026-09-09T12:16:39Z | registry-derived |
+| [electerm/electerm](../records/space-maps-electerm-electerm-8c5dc479.md) | partial | 2026-09-09T14:04:09Z | registry-derived |
 | [fat/space-tweet](../records/space-maps-fat-space-tweet-f2d19386.md) | partial | 2025-12-23T00:46:18Z | registry-derived |
 | [FreeRDP/Remmina](../records/space-maps-freerdp-remmina-5536d2a1.md) | partial | 2026-02-08T19:09:55Z | registry-derived |
 | [fujiaze/Gaia-DR3-DR3SP-Client-C](../records/space-maps-fujiaze-gaia-dr3-dr3sp-client-c-536e618d.md) | partial | 2026-07-24T09:41:47Z | registry-derived |
@@ -745,7 +745,7 @@ Records: `656`
 | [IBM-Cloud/watson-starter-apps](../records/space-maps-ibm-cloud-watson-starter-apps-8269d634.md) | partial | 2017-01-23T22:13:49Z | registry-derived |
 | [johnpolacek/styled-starter](../records/space-maps-johnpolacek-styled-starter-213f2daf.md) | partial | 2018-09-02T13:46:29Z | registry-derived |
 | [johnpolacek/styled-starter-basic](../records/space-maps-johnpolacek-styled-starter-basic-483af579.md) | partial | 2018-09-01T17:02:27Z | registry-derived |
-| [maximus0411/BorisChernyClaudeMarkdown](../records/space-maps-maximus0411-borischernyclaudemarkdown-88d34dbb.md) | partial | 2026-09-09T11:48:35Z | registry-derived |
+| [maximus0411/BorisChernyClaudeMarkdown](../records/space-maps-maximus0411-borischernyclaudemarkdown-88d34dbb.md) | partial | 2026-09-09T14:01:38Z | registry-derived |
 | [MohirM/game-catalog-starter](../records/space-maps-mohirm-game-catalog-starter-90f2ab48.md) | partial | 2021-05-04T00:21:07Z | registry-derived |
 | [parthmax2/genai-starter-pack](../records/space-maps-parthmax2-genai-starter-pack-2912dc43.md) | partial | 2026-06-20T08:56:38Z | registry-derived |
 | [strapi/strapi-starter-gatsby-catalog](../records/space-maps-strapi-strapi-starter-gatsby-catalog-686dc0a0.md) | partial | 2022-03-28T16:02:17Z | registry-derived |

@@ -32,7 +32,7 @@ persistence, interoperability, and compatibility boundaries.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 1.3.0.1 | 2026-09-09T10:46:44Z | [https://hackage.haskell.org/package/json-spec-openapi](https://hackage.haskell.org/package/json-spec-openapi) |  |
+| stable | known | 1.3.0.1 | 2026-09-09T10:46:44Z | [https://hackage.haskell.org/packages/recent](https://hackage.haskell.org/packages/recent) |  |
 | preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ persistence, interoperability, and compatibility boundaries.
 
 - Treat category as `serialization` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://hackage.haskell.org/package/json-spec-openapi` at `2026-09-09T14:25:28+00:00`.
+- Latest stable metadata was observed from `https://hackage.haskell.org/packages/recent` at `2026-09-09T15:20:15+00:00`.
 - Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
 
 ## Provenance

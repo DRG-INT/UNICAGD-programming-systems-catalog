@@ -104,8 +104,8 @@ Records: `194`
 | [dancsalo/TensorFlow-MIL](../records/microscopy-dancsalo-tensorflow-mil-823d26d9.md) | partial | 2020-08-24T19:46:19Z | registry-derived |
 | [david-hoffman/pyotf](../records/microscopy-david-hoffman-pyotf-f47c74b0.md) | partial | 2024-04-08T20:58:26Z | registry-derived |
 | [deepinv/deepinv](../records/microscopy-deepinv-deepinv-59141df0.md) | partial | 2026-09-09T11:25:31Z | registry-derived |
-| [delmic/odemis](../records/microscopy-delmic-odemis-64e6d3c9.md) | partial | 2026-09-09T09:10:34Z | registry-derived |
-| [fairscope/PlanktoScope](../records/microscopy-fairscope-planktoscope-9189e5a9.md) | partial | 2026-09-09T10:41:36Z | registry-derived |
+| [delmic/odemis](../records/microscopy-delmic-odemis-64e6d3c9.md) | partial | 2026-09-09T14:26:49Z | registry-derived |
+| [fairscope/PlanktoScope](../records/microscopy-fairscope-planktoscope-9189e5a9.md) | partial | 2026-09-09T14:38:16Z | registry-derived |
 | [google-research/sofima](../records/microscopy-google-research-sofima-72568ecb.md) | partial | 2026-08-06T15:10:50Z | registry-derived |
 | [gtatters/ThermImageJ](../records/microscopy-gtatters-thermimagej-e96d3524.md) | partial | 2026-06-27T21:06:25Z | registry-derived |
 | [GuillaumeMougeot/biom3d](../records/microscopy-guillaumemougeot-biom3d-7ae5f94d.md) | partial | 2026-03-30T07:54:44Z | registry-derived |
@@ -140,7 +140,7 @@ Records: `194`
 | [rapidsai/cucim](../records/microscopy-rapidsai-cucim-6fd9f972.md) | partial | 2026-09-09T13:40:35Z | registry-derived |
 | [royerlab/cytoself](../records/microscopy-royerlab-cytoself-b2dff824.md) | partial | 2025-08-05T18:46:40Z | registry-derived |
 | [rwb27/openflexure_microscope](../records/microscopy-rwb27-openflexure-microscope-9f4f36b7.md) | partial | 2019-04-30T15:12:38Z | registry-derived |
-| [scalableminds/webknossos](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) | partial | 2026-09-09T14:23:28Z | registry-derived |
+| [scalableminds/webknossos](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) | partial | 2026-09-09T15:13:33Z | registry-derived |
 | [seung-lab/cloud-volume](../records/microscopy-seung-lab-cloud-volume-388cc8e9.md) | partial | 2026-09-08T16:20:23Z | registry-derived |
 | [tferr/Scripts](../records/microscopy-tferr-scripts-25277503.md) | partial | 2022-06-03T11:23:48Z | registry-derived |
 | [TheDeanLab/navigate](../records/microscopy-thedeanlab-navigate-dc14fa5a.md) | partial | 2026-09-08T19:02:04Z | registry-derived |
@@ -340,7 +340,7 @@ Records: `194`
 | [chanzuckerberg/napari-hub](../records/microscopy-chanzuckerberg-napari-hub-082ae11f.md) | partial | 2026-03-06T00:55:27Z | registry-derived |
 | [czbiohub-sf/iohub](../records/microscopy-czbiohub-sf-iohub-5a760ae0.md) | partial | 2026-09-04T23:43:03Z | registry-derived |
 | [imagingbook/imagingbook-public](../records/microscopy-imagingbook-imagingbook-public-35b63f87.md) | partial | 2026-03-12T18:03:59Z | registry-derived |
-| [JaneliaSciComp/fileglancer](../records/microscopy-janeliascicomp-fileglancer-a4aeb3db.md) | partial | 2026-09-08T23:19:49Z | registry-derived |
+| [JaneliaSciComp/fileglancer](../records/microscopy-janeliascicomp-fileglancer-a4aeb3db.md) | partial | 2026-09-09T14:52:26Z | registry-derived |
 | [mbalatsko/opencv-rolling-ball](../records/microscopy-mbalatsko-opencv-rolling-ball-64eeb75a.md) | partial | 2022-06-21T21:15:02Z | registry-derived |
 | [Mmasoud1/HistoJS](../records/microscopy-mmasoud1-histojs-cfc6aaff.md) | partial | 2024-02-29T14:38:53Z | registry-derived |
 | [MWod/DeepHistReg](../records/microscopy-mwod-deephistreg-fe9489ee.md) | partial | 2025-04-04T15:16:42Z | registry-derived |

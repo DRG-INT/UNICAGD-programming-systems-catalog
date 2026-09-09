@@ -17335,7 +17335,6 @@
 | `hackage_recent-792e7e5061c2b3` | exchangealgebra | [open](records/haskell-exchangealgebra-c5300b87.md) |
 | `hackage_recent-7b9b3700445a16` | kb-text-layout | [open](records/haskell-kb-text-layout-134bb424.md) |
 | `hackage_recent-7c1b39c2dd590e` | keiro-core | [open](records/haskell-keiro-core-42128f63.md) |
-| `hackage_recent-7e20dd4d06b2c8` | copilot-c99 | [open](records/haskell-copilot-c99-2dc52a93.md) |
 | `hackage_recent-7e6eeb91445d92` | aihc-parser | [open](records/haskell-aihc-parser-d88ae54b.md) |
 | `hackage_recent-7fb296138f6590` | keid-ui-dearimgui | [open](records/haskell-keid-ui-dearimgui-db02e01b.md) |
 | `hackage_recent-82bc8074a430e2` | hylolib | [open](records/haskell-hylolib-4239adb4.md) |
@@ -18116,6 +18115,7 @@
 | `hackage_top_downloads-7dc821ec20e062` | mega-sdist | [open](records/haskell-mega-sdist-305a7674.md) |
 | `hackage_top_downloads-7dd95169741642` | tls | [open](records/haskell-tls-b57655e5.md) |
 | `hackage_top_downloads-7de0f48b36aec5` | amazonka-efs | [open](records/haskell-amazonka-efs-f2690b5b.md) |
+| `hackage_top_downloads-7e20dd4d06b2c8` | copilot-c99 | [open](records/haskell-copilot-c99-2dc52a93.md) |
 | `hackage_top_downloads-7e4614451a6d74` | splitmix | [open](records/haskell-splitmix-c850ca5b.md) |
 | `hackage_top_downloads-7e798823e81409` | crypton | [open](records/haskell-crypton-7cba2161.md) |
 | `hackage_top_downloads-7ecdd4f5c4437e` | hsignal | [open](records/haskell-hsignal-f06b1d1e.md) |

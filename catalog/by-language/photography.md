@@ -183,7 +183,7 @@ Records: `599`
 | [aslost/pixtale](../records/photography-aslost-pixtale-df702412.md) | partial | 2026-09-01T14:07:49Z | registry-derived |
 | [Awalz/SwiftyCam](../records/photography-awalz-swiftycam-8b6b12a3.md) | partial | 2022-02-04T10:24:45Z | registry-derived |
 | [awxkee/avif.swift](../records/photography-awxkee-avif-swift-72b07b3d.md) | partial | 2026-04-29T10:30:31Z | registry-derived |
-| [Bitpainter75/FerrumPix](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) | partial | 2026-09-09T14:11:54Z | registry-derived |
+| [Bitpainter75/FerrumPix](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) | partial | 2026-09-09T14:35:46Z | registry-derived |
 | [carina-studio/PixelViewer](../records/photography-carina-studio-pixelviewer-70d11532.md) | partial | 2026-09-09T10:38:07Z | registry-derived |
 | [carlospuenteg/File-Injector](../records/photography-carlospuenteg-file-injector-2533177f.md) | partial | 2022-11-18T00:20:21Z | registry-derived |
 | [carlospuenteg/Photomosaic-Creator](../records/photography-carlospuenteg-photomosaic-creator-b57e7ad4.md) | unknown | github_search_does_not_include_release_date | registry-derived |
@@ -236,7 +236,7 @@ Records: `599`
 | [wsl2ls/iOS_Tips](../records/photography-wsl2ls-ios-tips-4b0e1ffa.md) | partial | 2022-08-28T19:02:32Z | registry-derived |
 | [Yummypets/YPImagePicker](../records/photography-yummypets-ypimagepicker-25854b52.md) | partial | 2026-07-28T15:57:49Z | registry-derived |
 | [zapdos-labs/unblink](../records/photography-zapdos-labs-unblink-0845b1a9.md) | partial | 2026-03-09T09:42:25Z | registry-derived |
-| [zidage/AlcedoStudio](../records/photography-zidage-alcedostudio-7b939307.md) | partial | 2026-09-09T14:07:09Z | registry-derived |
+| [zidage/AlcedoStudio](../records/photography-zidage-alcedostudio-7b939307.md) | partial | 2026-09-09T15:10:30Z | registry-derived |
 | [ZSDM-HDR/Zero-Shot-Diffusion-HDR](../records/photography-zsdm-hdr-zero-shot-diffusion-hdr-0216b999.md) | partial | 2025-08-25T07:36:28Z | registry-derived |
 
 ### Formatter
@@ -409,7 +409,7 @@ Records: `599`
 | [lodev09/react-native-exify](../records/photography-lodev09-react-native-exify-f46e915f.md) | partial | 2026-02-22T17:31:26Z | registry-derived |
 | [lukas-blecher/LaTeX-OCR](../records/photography-lukas-blecher-latex-ocr-2549c102.md) | partial | 2025-01-18T15:23:58Z | registry-derived |
 | [mahmoudnafifi/raw2raw](../records/photography-mahmoudnafifi-raw2raw-81a3c46e.md) | partial | 2023-02-25T23:17:01Z | registry-derived |
-| [mirsadm/motioncam-decoder](../records/photography-mirsadm-motioncam-decoder-4f70e2bd.md) | partial | 2026-08-31T08:43:22Z | registry-derived |
+| [mirsadm/motioncam-decoder](../records/photography-mirsadm-motioncam-decoder-4f70e2bd.md) | partial | 2026-09-09T14:42:07Z | registry-derived |
 | [mooyoul/get-orientation](../records/photography-mooyoul-get-orientation-0b5e753d.md) | partial | 2026-09-02T21:53:30Z | registry-derived |
 | [nfnt/resize](../records/photography-nfnt-resize-09b63d52.md) | partial | 2022-04-02T06:46:33Z | registry-derived |
 | [opencv/opencv](../records/photography-opencv-opencv-3dada853.md) | partial | 2026-09-06T09:05:36Z | registry-derived |

@@ -32,16 +32,16 @@ Records: `287`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [AaronJackson/vrn](../records/matlab-aaronjackson-vrn-36ac2340.md) | unknown | github_latest_release_missing | registry-derived |
-| [acerbilab/bads](../records/matlab-acerbilab-bads-bf0e61b1.md) | unknown | github_latest_release_missing | registry-derived |
-| [acerbilab/vbmc](../records/matlab-acerbilab-vbmc-a3ee0038.md) | unknown | github_latest_release_missing | registry-derived |
-| [adnanmunawar/matlab-rrt-variants](../records/matlab-adnanmunawar-matlab-rrt-variants-21140151.md) | unknown | github_latest_release_missing | registry-derived |
-| [ai-winter/matlab_motion_planning](../records/matlab-ai-winter-matlab-motion-planning-d5486b2c.md) | unknown | github_latest_release_missing | registry-derived |
+| [AaronJackson/vrn](../records/matlab-aaronjackson-vrn-36ac2340.md) | partial | 2022-07-26T00:06:01Z | registry-derived |
+| [acerbilab/bads](../records/matlab-acerbilab-bads-bf0e61b1.md) | partial | 2025-12-05T17:27:15Z | registry-derived |
+| [acerbilab/vbmc](../records/matlab-acerbilab-vbmc-a3ee0038.md) | partial | 2023-05-03T11:17:08Z | registry-derived |
+| [adnanmunawar/matlab-rrt-variants](../records/matlab-adnanmunawar-matlab-rrt-variants-21140151.md) | partial | 2020-03-30T22:33:37Z | registry-derived |
+| [ai-winter/matlab_motion_planning](../records/matlab-ai-winter-matlab-motion-planning-d5486b2c.md) | partial | 2025-04-03T09:05:56Z | registry-derived |
 | [AlanRace/SpectralAnalysis](../records/matlab-alanrace-spectralanalysis-f38df761.md) | partial | 2020-08-25T06:53:03Z | registry-derived |
-| [albanie/convnet-burden](../records/matlab-albanie-convnet-burden-4d5bb07a.md) | unknown | github_latest_release_missing | registry-derived |
-| [alecjacobson/gptoolbox](../records/matlab-alecjacobson-gptoolbox-ad516582.md) | unknown | github_latest_release_missing | registry-derived |
+| [albanie/convnet-burden](../records/matlab-albanie-convnet-burden-4d5bb07a.md) | partial | 2019-01-17T11:15:00Z | registry-derived |
+| [alecjacobson/gptoolbox](../records/matlab-alecjacobson-gptoolbox-ad516582.md) | partial | 2026-09-08T20:05:48Z | registry-derived |
 | [alexanderlerch/ACA-Code](../records/matlab-alexanderlerch-aca-code-8bf7ff2b.md) | partial | 2025-11-25T20:34:03Z | registry-derived |
-| [AlfredXiangWu/face_verification_experiment](../records/matlab-alfredxiangwu-face-verification-experiment-5bc415b2.md) | unknown | github_latest_release_missing | registry-derived |
+| [AlfredXiangWu/face_verification_experiment](../records/matlab-alfredxiangwu-face-verification-experiment-5bc415b2.md) | partial | 2017-02-10T09:19:33Z | registry-derived |
 | [alinionutpopa/dmhs](../records/matlab-alinionutpopa-dmhs-02f06925.md) | partial | 2018-01-12T14:46:54Z | registry-derived |
 | [AlterWL/Battery_SOC_Estimation](../records/matlab-alterwl-battery-soc-estimation-f6de4864.md) | partial | 2024-04-12T05:21:24Z | registry-derived |
 | [altmany/export_fig](../records/matlab-altmany-export-fig-03c1144c.md) | partial | 2026-08-14T10:42:00Z | registry-derived |
@@ -244,7 +244,7 @@ Records: `287`
 | [rodralez/NaveGo](../records/matlab-rodralez-navego-f33ae190.md) | partial | 2024-02-24T15:09:52Z | registry-derived |
 | [RoyiAvital/StackExchangeCodes](../records/matlab-royiavital-stackexchangecodes-57e5c5da.md) | partial | 2026-07-04T11:16:30Z | registry-derived |
 | [rpng/kalibr_allan](../records/matlab-rpng-kalibr-allan-f0b0c05c.md) | partial | 2020-06-21T16:54:04Z | registry-derived |
-| [sccn/eeglab](../records/matlab-sccn-eeglab-a9eb4cad.md) | partial | 2026-09-09T05:19:32Z | registry-derived |
+| [sccn/eeglab](../records/matlab-sccn-eeglab-a9eb4cad.md) | partial | 2026-09-09T14:53:58Z | registry-derived |
 | [schneems/Octave](../records/matlab-schneems-octave-ad3f7bee.md) | partial | 2021-07-02T19:34:38Z | registry-derived |
 | [SciML/SciMLBenchmarks.jl](../records/matlab-sciml-scimlbenchmarks-jl-e7766b64.md) | partial | 2026-09-06T05:59:50Z | registry-derived |
 | [scottclowe/matlab-schemer](../records/matlab-scottclowe-matlab-schemer-3f456174.md) | partial | 2023-12-13T03:58:36Z | registry-derived |

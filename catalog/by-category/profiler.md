@@ -138,7 +138,7 @@ Records: `93`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | k8s.io/kops/tools/otel/traceserver | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-k8s-io-kops-tools-otel-traceserver-e25f5fec.md) |
-| pranshuparmar/witr | unknown | not_a_go_module_path | [open](../records/go-pranshuparmar-witr-b0667e49.md) |
+| pranshuparmar/witr | partial | 2026-08-15T22:55:12Z | [open](../records/go-pranshuparmar-witr-b0667e49.md) |
 
 ## Computer Graphics Software
 

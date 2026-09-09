@@ -779,13 +779,13 @@ Records: `1062`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ChimeraCoder/anaconda | unknown | not_a_go_module_path | [open](../records/go-chimeracoder-anaconda-6a61e747.md) |
-| g3n/engine | unknown | not_a_go_module_path | [open](../records/go-g3n-engine-0b367039.md) |
-| go-resty/resty | unknown | not_a_go_module_path | [open](../records/go-go-resty-resty-9cfada1b.md) |
-| redis/go-redis | unknown | not_a_go_module_path | [open](../records/go-redis-go-redis-fe715a04.md) |
-| spicetify/cli | unknown | not_a_go_module_path | [open](../records/go-spicetify-cli-b8e26c00.md) |
+| ChimeraCoder/anaconda | partial | 2024-01-28T15:07:20Z | [open](../records/go-chimeracoder-anaconda-6a61e747.md) |
+| g3n/engine | partial | 2026-08-01T16:23:05Z | [open](../records/go-g3n-engine-0b367039.md) |
+| go-resty/resty | partial | 2026-09-07T01:30:26Z | [open](../records/go-go-resty-resty-9cfada1b.md) |
+| redis/go-redis | partial | 2026-09-09T13:40:42Z | [open](../records/go-redis-go-redis-fe715a04.md) |
+| spicetify/cli | partial | 2026-09-06T16:15:27Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
 | teler-sh/teler-waf | partial | 2025-03-18T01:40:27Z | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
-| xiaolincoder/CS-Base | unknown | not_a_go_module_path | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
+| xiaolincoder/CS-Base | partial | 2024-11-27T06:32:13Z | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
 | yincongcyincong/mcp-client-go | partial | 2025-09-09T09:54:40Z | [open](../records/go-yincongcyincong-mcp-client-go-551e8f66.md) |
 
 ## Basilisk
@@ -927,7 +927,7 @@ Records: `1062`
 | --- | --- | --- | --- |
 | Ching367436/spice-mac | partial | 2026-08-27T16:25:56Z | [open](../records/space-maps-ching367436-spice-mac-5719b99e.md) |
 | Corsinvest/cv4pve-vdi | partial | 2026-07-30T17:05:15Z | [open](../records/space-maps-corsinvest-cv4pve-vdi-bc170682.md) |
-| electerm/electerm | partial | 2026-09-09T12:16:39Z | [open](../records/space-maps-electerm-electerm-8c5dc479.md) |
+| electerm/electerm | partial | 2026-09-09T14:04:09Z | [open](../records/space-maps-electerm-electerm-8c5dc479.md) |
 | fat/space-tweet | partial | 2025-12-23T00:46:18Z | [open](../records/space-maps-fat-space-tweet-f2d19386.md) |
 | FreeRDP/Remmina | partial | 2026-02-08T19:09:55Z | [open](../records/space-maps-freerdp-remmina-5536d2a1.md) |
 | fujiaze/Gaia-DR3-DR3SP-Client-C | partial | 2026-07-24T09:41:47Z | [open](../records/space-maps-fujiaze-gaia-dr3-dr3sp-client-c-536e618d.md) |
@@ -969,7 +969,7 @@ Records: `1062`
 | apohl79/audiogridder | partial | 2024-07-31T08:38:20Z | [open](../records/audio-apohl79-audiogridder-b399a5d3.md) |
 | cvqluu/TDNN | partial | 2019-11-21T10:07:55Z | [open](../records/audio-cvqluu-tdnn-fb6a7ffe.md) |
 | drethage/speech-denoising-wavenet | partial | 2023-07-06T21:12:03Z | [open](../records/audio-drethage-speech-denoising-wavenet-dd81add3.md) |
-| FFmpeg/FFmpeg | partial | 2026-09-09T09:33:24Z | [open](../records/audio-ffmpeg-ffmpeg-e29098d1.md) |
+| FFmpeg/FFmpeg | partial | 2026-09-09T14:59:03Z | [open](../records/audio-ffmpeg-ffmpeg-e29098d1.md) |
 | hannesbraun/airwindows-lv2 | partial | 2025-11-27T12:32:25Z | [open](../records/audio-hannesbraun-airwindows-lv2-77a8604e.md) |
 | huckiyang/QuantumSpeech-QCNN | partial | 2023-01-22T16:06:05Z | [open](../records/audio-huckiyang-quantumspeech-qcnn-75d646b8.md) |
 | jtkim-kaist/Speech-enhancement | partial | 2019-06-14T14:15:05Z | [open](../records/audio-jtkim-kaist-speech-enhancement-2afa11e8.md) |

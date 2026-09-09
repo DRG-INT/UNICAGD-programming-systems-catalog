@@ -17,11 +17,11 @@
 | Source type | registry_expansion |
 | Verification | registry-derived |
 | Canonical URL | [https://hackage.haskell.org/package/copilot-c99](https://hackage.haskell.org/package/copilot-c99) |
-| Source record ids | hackage_recent-7e20dd4d06b2c8 |
+| Source record ids | hackage_top_downloads-7e20dd4d06b2c8 |
 
 ## System Engineer Summary
 
-Hackage package recently uploaded by IvanPerez.
+Hackage package with 64 recent downloads in the Hackage top-downloads listing.
 
 ## Operational Role
 
@@ -32,7 +32,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 4.8.1 | 2026-09-08T22:19:53Z | [https://hackage.haskell.org/packages/recent](https://hackage.haskell.org/packages/recent) |  |
+| stable | known | 4.8.1 | 2026-09-08T22:19:53Z | [https://hackage.haskell.org/package/copilot-c99](https://hackage.haskell.org/package/copilot-c99) |  |
 | preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 - Treat category as `library` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://hackage.haskell.org/packages/recent` at `2026-09-09T00:31:07+00:00`.
+- Latest stable metadata was observed from `https://hackage.haskell.org/package/copilot-c99` at `2026-09-09T15:23:27+00:00`.
 - Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
 
 ## Provenance
@@ -57,7 +57,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| hackage_recent_uploads | registry-derived | 2026-09-09 | `{"kind": "hackage_recent_uploads", "retrieved": "2026-09-09", "status": "registry-derived"}` |
+| hackage_top_downloads | registry-derived | 2026-09-09 | `{"kind": "hackage_top_downloads", "retrieved": "2026-09-09", "status": "registry-derived"}` |
 
 </details>
 
@@ -68,7 +68,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 Evidence records merged into this identity: `1`.
 
-- `hackage_recent-7e20dd4d06b2c8` from `hackage_recent` as `registry_expansion`
+- `hackage_top_downloads-7e20dd4d06b2c8` from `hackage_top_downloads` as `registry_expansion`
 
 </details>
 

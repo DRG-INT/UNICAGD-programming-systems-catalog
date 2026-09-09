@@ -409,7 +409,7 @@ Records: `444`
 | --- | --- | --- | --- |
 | AzuraCast/AzuraCast | partial | 2026-09-03T04:46:56Z | [open](../records/video-azuracast-azuracast-d01011b2.md) |
 | calesthio/OpenMontage | partial | 2026-08-22T18:22:24Z | [open](../records/video-calesthio-openmontage-675312f7.md) |
-| google-ai-edge/mediapipe | partial | 2026-09-08T20:01:53Z | [open](../records/video-google-ai-edge-mediapipe-a0c51472.md) |
+| google-ai-edge/mediapipe | partial | 2026-09-09T14:24:17Z | [open](../records/video-google-ai-edge-mediapipe-a0c51472.md) |
 | kaltura/platform-install-packages | partial | 2023-03-31T20:11:47Z | [open](../records/video-kaltura-platform-install-packages-da4f9d30.md) |
 | memvid/memvid | partial | 2026-07-14T14:39:07Z | [open](../records/video-memvid-memvid-bb0d9def.md) |
 | pathwaycom/pathway | partial | 2026-09-04T13:04:04Z | [open](../records/video-pathwaycom-pathway-a50dba92.md) |

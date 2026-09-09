@@ -364,7 +364,7 @@ Records: `402`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| chai2010/advanced-go-programming-book | unknown | not_a_go_module_path | [open](../records/go-chai2010-advanced-go-programming-book-44a19e49.md) |
+| chai2010/advanced-go-programming-book | partial | 2025-10-07T01:08:59Z | [open](../records/go-chai2010-advanced-go-programming-book-44a19e49.md) |
 
 ## Starlark
 

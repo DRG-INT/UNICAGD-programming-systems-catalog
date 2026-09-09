@@ -464,7 +464,7 @@ Records: `443`
 | lodev09/react-native-exify | partial | 2026-02-22T17:31:26Z | [open](../records/photography-lodev09-react-native-exify-f46e915f.md) |
 | lukas-blecher/LaTeX-OCR | partial | 2025-01-18T15:23:58Z | [open](../records/photography-lukas-blecher-latex-ocr-2549c102.md) |
 | mahmoudnafifi/raw2raw | partial | 2023-02-25T23:17:01Z | [open](../records/photography-mahmoudnafifi-raw2raw-81a3c46e.md) |
-| mirsadm/motioncam-decoder | partial | 2026-08-31T08:43:22Z | [open](../records/photography-mirsadm-motioncam-decoder-4f70e2bd.md) |
+| mirsadm/motioncam-decoder | partial | 2026-09-09T14:42:07Z | [open](../records/photography-mirsadm-motioncam-decoder-4f70e2bd.md) |
 | mooyoul/get-orientation | partial | 2026-09-02T21:53:30Z | [open](../records/photography-mooyoul-get-orientation-0b5e753d.md) |
 | nfnt/resize | partial | 2022-04-02T06:46:33Z | [open](../records/photography-nfnt-resize-09b63d52.md) |
 | opencv/opencv | partial | 2026-09-06T09:05:36Z | [open](../records/photography-opencv-opencv-3dada853.md) |

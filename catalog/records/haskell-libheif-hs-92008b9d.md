@@ -32,8 +32,8 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 0.1.0.0 | 2026-09-09T10:14:32Z | [https://hackage.haskell.org/package/libheif-hs](https://hackage.haskell.org/package/libheif-hs) |  |
-| candidate | partial | 0.0.1.0 |  | [https://hackage.haskell.org/package/libheif-hs](https://hackage.haskell.org/package/libheif-hs) | hackage_candidate_date_missing |
+| stable | known | 0.1.0.0 | 2026-09-09T10:14:32Z | [https://hackage.haskell.org/packages/recent](https://hackage.haskell.org/packages/recent) |  |
+| preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
@@ -47,8 +47,8 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 - Treat category as `library` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://hackage.haskell.org/package/libheif-hs` at `2026-09-09T14:25:28+00:00`.
-- Preview/nightly metadata is unknown because `hackage_candidate_date_missing`.
+- Latest stable metadata was observed from `https://hackage.haskell.org/packages/recent` at `2026-09-09T15:20:15+00:00`.
+- Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
 
 ## Provenance
 

@@ -41,7 +41,7 @@ unit/integration validation, regression protection, and release confidence.
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | Other |
+| Evidence | European Union Public License 1.2; https://api.github.com/licenses/eupl-1.2; Other |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes

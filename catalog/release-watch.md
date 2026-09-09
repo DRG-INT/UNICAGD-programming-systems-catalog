@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-09T14:25:29+00:00`
+Generated: `2026-09-09T15:23:35+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -28,8 +28,8 @@ Generated: `2026-09-09T14:25:29+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10557 |
-| Unknown stable release | 17572 |
+| Known stable release | 10551 |
+| Unknown stable release | 17578 |
 
 ## Newest Known Stable Metadata
 
@@ -290,7 +290,7 @@ Generated: `2026-09-09T14:25:29+00:00`
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 9749 |
+| gh_search_reports_activity_not_release_version | 9929 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
@@ -300,18 +300,16 @@ Generated: `2026-09-09T14:25:29+00:00`
 | curated_language_route_requires_source_specific_release_lookup | 400 |
 | gitea_search_api_reports_activity_not_release_version | 273 |
 | awesome_list_does_not_include_release_date | 237 |
-| github_latest_release_missing | 216 |
+| github_latest_release_missing | 208 |
 | gitlab_projects_api_reports_activity_not_release_version | 196 |
-| not_a_go_module_path | 171 |
 | curated_database_record_requires_source_specific_release_lookup | 87 |
 | official_workplace_route_requires_source_specific_release_lookup | 59 |
 | not_a_maven_coordinate | 30 |
+| hackage_top_downloads_page_does_not_include_release_date | 11 |
 | not_a_cocoapods_name | 7 |
 | release_date_missing | 5 |
-| hackage_top_downloads_page_does_not_include_release_date | 5 |
 | cocoapods_metadata_missing | 5 |
 | source_returned_no_release | 2 |
-| go_proxy_latest_missing | 1 |
 
 ## Preview And Nightly Signals
 
