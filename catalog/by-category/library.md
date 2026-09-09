@@ -19,8 +19,8 @@ Records: `5864`
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · **[Library (5864)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (533)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
-[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1061)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1210)](parser-lexer-ast.md) · [Precommit Ci Quality (311)](precommit-ci-quality.md)
+[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1062)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1211)](parser-lexer-ast.md) · [Precommit Ci Quality (311)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (637)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (623)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
@@ -4966,7 +4966,7 @@ Records: `5864`
 | ganddd/Sektar-Map-Pack | partial | 2026-06-21T15:54:35Z | [open](../records/space-maps-ganddd-sektar-map-pack-e1a4a78c.md) |
 | gautamsharma/Spice-MI509-Kernel-source | partial | 2015-06-05T09:03:29Z | [open](../records/space-maps-gautamsharma-spice-mi509-kernel-source-4acda170.md) |
 | gb6162166/gb6-definitive | partial | 2026-01-08T12:48:32Z | [open](../records/space-maps-gb6162166-gb6-definitive-81534dac.md) |
-| gnucap/gnucap | partial | 2026-09-03T14:59:50Z | [open](../records/space-maps-gnucap-gnucap-394258fd.md) |
+| gnucap/gnucap | partial | 2026-09-09T10:53:18Z | [open](../records/space-maps-gnucap-gnucap-394258fd.md) |
 | google/sky90fd-pdk | partial | 2023-05-11T00:15:31Z | [open](../records/space-maps-google-sky90fd-pdk-5cbbace5.md) |
 | gr4xity/mein-gott | partial | 2024-06-08T05:58:37Z | [open](../records/space-maps-gr4xity-mein-gott-b135364b.md) |
 | GregoireHENRY/fsk | partial | 2026-03-17T08:14:43Z | [open](../records/space-maps-gregoirehenry-fsk-cb3d2769.md) |
@@ -5014,8 +5014,8 @@ Records: `5864`
 | antoinefournier/XParticle | partial | 2015-01-11T21:29:04Z | [open](../records/effects-antoinefournier-xparticle-83465150.md) |
 | aTool-org/canvas-nest-for-wp | partial | 2019-08-14T12:12:34Z | [open](../records/effects-atool-org-canvas-nest-for-wp-256e5c1c.md) |
 | BoyBaykiller/Newtonian-Particle-Simulator | partial | 2024-12-20T03:42:26Z | [open](../records/effects-boybaykiller-newtonian-particle-simulator-20622350.md) |
-| CGRU/cgru | partial | 2026-09-08T16:24:11Z | [open](../records/effects-cgru-cgru-8bbfaaf5.md) |
-| cgwire/kitsu | partial | 2026-09-07T16:16:41Z | [open](../records/effects-cgwire-kitsu-2e008acc.md) |
+| CGRU/cgru | partial | 2026-09-09T11:22:34Z | [open](../records/effects-cgru-cgru-8bbfaaf5.md) |
+| cgwire/kitsu | partial | 2026-09-09T13:11:46Z | [open](../records/effects-cgwire-kitsu-2e008acc.md) |
 | csdjk/LearnUnityShader | partial | 2025-06-10T02:51:21Z | [open](../records/effects-csdjk-learnunityshader-524b804a.md) |
 | curly-brace/godot_force_shield_shader | partial | 2017-09-23T07:17:03Z | [open](../records/effects-curly-brace-godot-force-shield-shader-79c0ff60.md) |
 | Cyanilux/URP_WatercolourShaders | partial | 2020-10-28T10:41:44Z | [open](../records/effects-cyanilux-urp-watercolourshaders-9a735971.md) |

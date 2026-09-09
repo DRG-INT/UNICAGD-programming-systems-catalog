@@ -19,8 +19,8 @@ Records: `138`
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5864)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (533)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
-[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1061)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1210)](parser-lexer-ast.md) · [Precommit Ci Quality (311)](precommit-ci-quality.md)
+[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1062)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1211)](parser-lexer-ast.md) · [Precommit Ci Quality (311)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · **[Project Scaffolding (138)](project-scaffolding.md)** · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (637)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (623)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
@@ -194,7 +194,7 @@ Records: `138`
 | IBM-Cloud/watson-starter-apps | partial | 2017-01-23T22:13:49Z | [open](../records/space-maps-ibm-cloud-watson-starter-apps-8269d634.md) |
 | johnpolacek/styled-starter | partial | 2018-09-02T13:46:29Z | [open](../records/space-maps-johnpolacek-styled-starter-213f2daf.md) |
 | johnpolacek/styled-starter-basic | partial | 2018-09-01T17:02:27Z | [open](../records/space-maps-johnpolacek-styled-starter-basic-483af579.md) |
-| maximus0411/BorisChernyClaudeMarkdown | partial | 2026-09-07T01:34:22Z | [open](../records/space-maps-maximus0411-borischernyclaudemarkdown-88d34dbb.md) |
+| maximus0411/BorisChernyClaudeMarkdown | partial | 2026-09-09T11:48:35Z | [open](../records/space-maps-maximus0411-borischernyclaudemarkdown-88d34dbb.md) |
 | MohirM/game-catalog-starter | partial | 2021-05-04T00:21:07Z | [open](../records/space-maps-mohirm-game-catalog-starter-90f2ab48.md) |
 | parthmax2/genai-starter-pack | partial | 2026-06-20T08:56:38Z | [open](../records/space-maps-parthmax2-genai-starter-pack-2912dc43.md) |
 | strapi/strapi-starter-gatsby-catalog | partial | 2022-03-28T16:02:17Z | [open](../records/space-maps-strapi-strapi-starter-gatsby-catalog-686dc0a0.md) |

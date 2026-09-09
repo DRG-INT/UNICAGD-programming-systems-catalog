@@ -1,6 +1,6 @@
 # Space Maps
 
-Records: `653`
+Records: `655`
 
 ## Navigation
 
@@ -19,8 +19,8 @@ Records: `653`
 [Image Audio Dsp (443)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (276)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1452)](../by-category/language-specification.md) · [Library (5864)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (533)](../by-category/logging-observability.md) · [Machine Learning (816)](../by-category/machine-learning.md)
-[Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1061)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (444)](../by-category/package-manager.md) · [Parser Lexer Ast (1210)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (311)](../by-category/precommit-ci-quality.md)
+[Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1062)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (444)](../by-category/package-manager.md) · [Parser Lexer Ast (1211)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (311)](../by-category/precommit-ci-quality.md)
 [Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (138)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (337)](../by-category/security-sast.md) · [Serialization (402)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (637)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (623)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
@@ -107,7 +107,7 @@ Records: `653`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [astro-roro/Astro-Coverage-Planner](../records/space-maps-astro-roro-astro-coverage-planner-54f72bba.md) | partial | 2026-09-06T02:18:22Z | registry-derived |
+| [astro-roro/Astro-Coverage-Planner](../records/space-maps-astro-roro-astro-coverage-planner-54f72bba.md) | partial | 2026-09-08T09:47:04Z | registry-derived |
 
 ### Data Science
 
@@ -218,7 +218,7 @@ Records: `653`
 | [JonasSinjan/solo_spicepy](../records/space-maps-jonassinjan-solo-spicepy-b281fcfb.md) | partial | 2023-07-15T19:21:57Z | registry-derived |
 | [MoTahaAboHeiba/E-Commerce-Lakehouse-Using-Databricks](../records/space-maps-motahaaboheiba-e-commerce-lakehouse-using-databricks-dd224fa3.md) | partial | 2026-03-22T17:14:16Z | registry-derived |
 | [nunobrum/PyLTSpice](../records/space-maps-nunobrum-pyltspice-f892529e.md) | partial | 2026-06-20T15:13:48Z | registry-derived |
-| [nyx-space/anise](../records/space-maps-nyx-space-anise-dafc6fd2.md) | partial | 2026-09-04T13:28:18Z | registry-derived |
+| [nyx-space/anise](../records/space-maps-nyx-space-anise-dafc6fd2.md) | partial | 2026-09-09T11:04:10Z | registry-derived |
 | [Team-Blackout/EvilZ.213.BLACKOUT_edition](../records/space-maps-team-blackout-evilz-213-blackout-edition-3d76a541.md) | partial | 2012-11-13T19:53:40Z | registry-derived |
 | [Xyce/XDM](../records/space-maps-xyce-xdm-4fd824bb.md) | partial | 2024-02-15T05:27:51Z | registry-derived |
 | [yashkhandelwal2828/cosmic-atlas](../records/space-maps-yashkhandelwal2828-cosmic-atlas-8073f13d.md) | partial | 2026-08-22T13:37:11Z | registry-derived |
@@ -254,7 +254,7 @@ Records: `653`
 | [Miro28/Vega](../records/space-maps-miro28-vega-676a8f71.md) | partial | 2026-06-25T12:56:08Z | registry-derived |
 | [MuMashhour/NE555-SPICE-Model](../records/space-maps-mumashhour-ne555-spice-model-b48aca64.md) | partial | 2023-03-30T13:55:49Z | registry-derived |
 | [MWATelescope/mwa_hyperdrive](../records/space-maps-mwatelescope-mwa-hyperdrive-ec8debf1.md) | partial | 2026-09-07T13:16:01Z | registry-derived |
-| [nyx-space/nyx](../records/space-maps-nyx-space-nyx-2403bcdd.md) | partial | 2026-09-07T21:54:10Z | registry-derived |
+| [nyx-space/nyx](../records/space-maps-nyx-space-nyx-2403bcdd.md) | partial | 2026-09-09T06:38:54Z | registry-derived |
 | [prinz-ai/Solar-System](../records/space-maps-prinz-ai-solar-system-9d19ec67.md) | partial | 2026-06-10T01:58:11Z | registry-derived |
 | [quildtide/ICARUS-Map-Pack](../records/space-maps-quildtide-icarus-map-pack-4361a94d.md) | partial | 2025-02-06T21:58:53Z | registry-derived |
 | [Radio-Source/RadioSkyMap](../records/space-maps-radio-source-radioskymap-b6524398.md) | partial | 2026-08-31T15:27:13Z | registry-derived |
@@ -265,7 +265,7 @@ Records: `653`
 | [Sanjanacodes123/Open-and-Globular-Clusters](../records/space-maps-sanjanacodes123-open-and-globular-clusters-6d89e68e.md) | partial | 2026-05-20T08:09:38Z | registry-derived |
 | [shirosaidev/diskover-web](../records/space-maps-shirosaidev-diskover-web-a4e39042.md) | partial | 2021-09-19T18:21:07Z | registry-derived |
 | [Starainrt/astro](../records/space-maps-starainrt-astro-d0ab8502.md) | partial | 2026-08-06T04:42:42Z | registry-derived |
-| [sunpy/sunraster](../records/space-maps-sunpy-sunraster-4da3251a.md) | partial | 2026-09-03T13:51:23Z | registry-derived |
+| [sunpy/sunraster](../records/space-maps-sunpy-sunraster-4da3251a.md) | partial | 2026-09-09T11:22:30Z | registry-derived |
 | [TesseractA/Poseideon-s-Trident](../records/space-maps-tesseracta-poseideon-s-trident-ed91c73e.md) | partial | 2017-01-05T22:42:54Z | registry-derived |
 | [ut-astria/AstriaGraph](../records/space-maps-ut-astria-astriagraph-1842285f.md) | partial | 2019-06-18T19:27:20Z | registry-derived |
 | [wangleihitcs/CaptionMetrics](../records/space-maps-wangleihitcs-captionmetrics-bfbcb149.md) | partial | 2019-03-02T14:44:44Z | registry-derived |
@@ -356,7 +356,7 @@ Records: `653`
 | [ganddd/Sektar-Map-Pack](../records/space-maps-ganddd-sektar-map-pack-e1a4a78c.md) | partial | 2026-06-21T15:54:35Z | registry-derived |
 | [gautamsharma/Spice-MI509-Kernel-source](../records/space-maps-gautamsharma-spice-mi509-kernel-source-4acda170.md) | partial | 2015-06-05T09:03:29Z | registry-derived |
 | [gb6162166/gb6-definitive](../records/space-maps-gb6162166-gb6-definitive-81534dac.md) | partial | 2026-01-08T12:48:32Z | registry-derived |
-| [gnucap/gnucap](../records/space-maps-gnucap-gnucap-394258fd.md) | partial | 2026-09-03T14:59:50Z | registry-derived |
+| [gnucap/gnucap](../records/space-maps-gnucap-gnucap-394258fd.md) | partial | 2026-09-09T10:53:18Z | registry-derived |
 | [google/sky90fd-pdk](../records/space-maps-google-sky90fd-pdk-5cbbace5.md) | partial | 2023-05-11T00:15:31Z | registry-derived |
 | [gr4xity/mein-gott](../records/space-maps-gr4xity-mein-gott-b135364b.md) | partial | 2024-06-08T05:58:37Z | registry-derived |
 | [GregoireHENRY/fsk](../records/space-maps-gregoirehenry-fsk-cb3d2769.md) | partial | 2026-03-17T08:14:43Z | registry-derived |
@@ -525,8 +525,9 @@ Records: `653`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [Ching367436/spice-mac](../records/space-maps-ching367436-spice-mac-5719b99e.md) | partial | 2026-08-27T16:25:56Z | registry-derived |
 | [Corsinvest/cv4pve-vdi](../records/space-maps-corsinvest-cv4pve-vdi-bc170682.md) | partial | 2026-07-30T17:05:15Z | registry-derived |
-| [electerm/electerm](../records/space-maps-electerm-electerm-8c5dc479.md) | partial | 2026-09-08T11:05:27Z | registry-derived |
+| [electerm/electerm](../records/space-maps-electerm-electerm-8c5dc479.md) | partial | 2026-09-09T12:16:39Z | registry-derived |
 | [fat/space-tweet](../records/space-maps-fat-space-tweet-f2d19386.md) | partial | 2025-12-23T00:46:18Z | registry-derived |
 | [FreeRDP/Remmina](../records/space-maps-freerdp-remmina-5536d2a1.md) | partial | 2026-02-08T19:09:55Z | registry-derived |
 | [fujiaze/Gaia-DR3-DR3SP-Client-C](../records/space-maps-fujiaze-gaia-dr3-dr3sp-client-c-536e618d.md) | partial | 2026-07-24T09:41:47Z | registry-derived |
@@ -595,6 +596,7 @@ Records: `653`
 | [clmun/Shadow](../records/space-maps-clmun-shadow-0c5d44f8.md) | partial | 2026-04-14T09:23:19Z | registry-derived |
 | [commenthol/astronomia](../records/space-maps-commenthol-astronomia-226c6abd.md) | partial | 2025-08-30T08:12:39Z | registry-derived |
 | [cosmonium/cosmonium](../records/space-maps-cosmonium-cosmonium-df2f2e69.md) | partial | 2026-09-02T21:20:06Z | registry-derived |
+| [crismunoz303/cosmos-observatory](../records/space-maps-crismunoz303-cosmos-observatory-34b24108.md) | partial | 2026-09-08T23:34:00Z | registry-derived |
 | [danieljprice/phantom](../records/space-maps-danieljprice-phantom-726925e7.md) | partial | 2026-09-06T23:09:19Z | registry-derived |
 | [dcunited001/astrology-map](../records/space-maps-dcunited001-astrology-map-1c432d7c.md) | partial | 2023-01-04T08:16:06Z | registry-derived |
 | [dEskoG/rDUINOScope](../records/space-maps-deskog-rduinoscope-01775dc3.md) | partial | 2020-06-23T12:05:59Z | registry-derived |
@@ -689,7 +691,7 @@ Records: `653`
 | [SpiceSharp/SpiceSharpParser](../records/space-maps-spicesharp-spicesharpparser-20f4c337.md) | partial | 2026-08-01T17:44:33Z | registry-derived |
 | [Starlink/starlink](../records/space-maps-starlink-starlink-7f05c3ed.md) | partial | 2026-08-12T00:17:22Z | registry-derived |
 | [Stellarium/stellarium](../records/space-maps-stellarium-stellarium-9881eb0a.md) | partial | 2026-09-08T06:45:16Z | registry-derived |
-| [steveberardi/starplot](../records/space-maps-steveberardi-starplot-f953a72c.md) | partial | 2026-09-08T13:36:21Z | registry-derived |
+| [steveberardi/starplot](../records/space-maps-steveberardi-starplot-f953a72c.md) | partial | 2026-09-09T13:11:10Z | registry-derived |
 | [StingraySoftware/stingray](../records/space-maps-stingraysoftware-stingray-96dfde34.md) | partial | 2026-06-02T08:10:03Z | registry-derived |
 | [sunpy/sunpy](../records/space-maps-sunpy-sunpy-8e44c814.md) | partial | 2026-09-03T11:45:18Z | registry-derived |
 | [tbonnardel/rigel](../records/space-maps-tbonnardel-rigel-9d53d779.md) | partial | 2020-10-06T17:00:48Z | registry-derived |
@@ -742,7 +744,7 @@ Records: `653`
 | [IBM-Cloud/watson-starter-apps](../records/space-maps-ibm-cloud-watson-starter-apps-8269d634.md) | partial | 2017-01-23T22:13:49Z | registry-derived |
 | [johnpolacek/styled-starter](../records/space-maps-johnpolacek-styled-starter-213f2daf.md) | partial | 2018-09-02T13:46:29Z | registry-derived |
 | [johnpolacek/styled-starter-basic](../records/space-maps-johnpolacek-styled-starter-basic-483af579.md) | partial | 2018-09-01T17:02:27Z | registry-derived |
-| [maximus0411/BorisChernyClaudeMarkdown](../records/space-maps-maximus0411-borischernyclaudemarkdown-88d34dbb.md) | partial | 2026-09-07T01:34:22Z | registry-derived |
+| [maximus0411/BorisChernyClaudeMarkdown](../records/space-maps-maximus0411-borischernyclaudemarkdown-88d34dbb.md) | partial | 2026-09-09T11:48:35Z | registry-derived |
 | [MohirM/game-catalog-starter](../records/space-maps-mohirm-game-catalog-starter-90f2ab48.md) | partial | 2021-05-04T00:21:07Z | registry-derived |
 | [parthmax2/genai-starter-pack](../records/space-maps-parthmax2-genai-starter-pack-2912dc43.md) | partial | 2026-06-20T08:56:38Z | registry-derived |
 | [strapi/strapi-starter-gatsby-catalog](../records/space-maps-strapi-strapi-starter-gatsby-catalog-686dc0a0.md) | partial | 2022-03-28T16:02:17Z | registry-derived |
@@ -797,7 +799,7 @@ Records: `653`
 | [prodaft/cradle](../records/space-maps-prodaft-cradle-a11d4858.md) | partial | 2026-05-18T19:30:51Z | registry-derived |
 | [rillian/isee3-spice](../records/space-maps-rillian-isee3-spice-913221bc.md) | partial | 2014-08-13T07:29:06Z | registry-derived |
 | [santhosh-kboffl/inno-hack](../records/space-maps-santhosh-kboffl-inno-hack-9ac47f44.md) | partial | 2026-08-20T15:28:17Z | registry-derived |
-| [sylvesterkaczmarek/lunar-astrodynamics-simulation](../records/space-maps-sylvesterkaczmarek-lunar-astrodynamics-simulation-dfbba156.md) | partial | 2026-08-25T21:01:29Z | registry-derived |
+| [sylvesterkaczmarek/lunar-astrodynamics-simulation](../records/space-maps-sylvesterkaczmarek-lunar-astrodynamics-simulation-dfbba156.md) | partial | 2026-09-08T12:33:26Z | registry-derived |
 | [zhang2023-byte/stella-hvs](../records/space-maps-zhang2023-byte-stella-hvs-abf9c894.md) | partial | 2026-08-30T15:24:23Z | registry-derived |
 
 ### Testing Framework
@@ -856,7 +858,7 @@ Records: `653`
 | [Tihkal96/CAIROforAERMOD](../records/space-maps-tihkal96-cairoforaermod-eb03266f.md) | partial | 2025-03-17T22:14:28Z | registry-derived |
 | [TingYeahh/caption_eval](../records/space-maps-tingyeahh-caption-eval-4aaa1edd.md) | partial | 2020-11-25T02:28:24Z | registry-derived |
 | [traines-source/time-space-train-planner](../records/space-maps-traines-source-time-space-train-planner-509d395b.md) | partial | 2026-08-02T20:07:46Z | registry-derived |
-| [ys-ll/uniterm](../records/space-maps-ys-ll-uniterm-72dda292.md) | partial | 2026-09-08T09:27:11Z | registry-derived |
+| [ys-ll/uniterm](../records/space-maps-ys-ll-uniterm-72dda292.md) | partial | 2026-09-09T10:03:30Z | registry-derived |
 | [zz85/space-radar](../records/space-maps-zz85-space-radar-21258574.md) | partial | 2026-05-28T03:01:07Z | registry-derived |
 
 ### Visualization Gui
@@ -877,7 +879,7 @@ Records: `653`
 | [despoisj/LatentSpaceVisualization](../records/space-maps-despoisj-latentspacevisualization-2f2ac115.md) | partial | 2021-07-26T19:43:51Z | registry-derived |
 | [dnemec/SPICE-Libraries](../records/space-maps-dnemec-spice-libraries-14b85037.md) | partial | 2018-08-03T00:49:47Z | registry-derived |
 | [drifter1/circuitsim](../records/space-maps-drifter1-circuitsim-ffe82388.md) | partial | 2026-03-14T13:30:19Z | registry-derived |
-| [eelab-dev/EEcircuit](../records/space-maps-eelab-dev-eecircuit-3d239729.md) | partial | 2026-09-07T01:49:17Z | registry-derived |
+| [eelab-dev/EEcircuit](../records/space-maps-eelab-dev-eecircuit-3d239729.md) | partial | 2026-09-08T22:04:55Z | registry-derived |
 | [ESA Sky](../records/space-maps-esa-sky-507149dd.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [facebookresearch/MultiModalExplorer](../records/space-maps-facebookresearch-multimodalexplorer-41476dd9.md) | partial | 2024-05-16T10:32:56Z | registry-derived |
 | [Farhad8797/solar-system-threejs](../records/space-maps-farhad8797-solar-system-threejs-fb3c2e47.md) | partial | 2026-08-12T13:38:07Z | registry-derived |
@@ -918,5 +920,5 @@ Records: `653`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [agentstation/starmap](../records/space-maps-agentstation-starmap-8fdcd317.md) | partial | 2026-09-01T18:39:39Z | registry-derived |
-| [Cognitohazard/ltspice-mcp](../records/space-maps-cognitohazard-ltspice-mcp-ccd6f8ba.md) | partial | 2026-09-07T06:30:10Z | registry-derived |
+| [Cognitohazard/ltspice-mcp](../records/space-maps-cognitohazard-ltspice-mcp-ccd6f8ba.md) | partial | 2026-09-09T01:10:02Z | registry-derived |
 | [peteanderson80/coco-caption](../records/space-maps-peteanderson80-coco-caption-9e729876.md) | partial | 2023-02-02T12:41:12Z | registry-derived |

@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-09T12:29:51+00:00`
+Generated: `2026-09-09T13:24:47+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -17,8 +17,8 @@ Generated: `2026-09-09T12:29:51+00:00`
 [Image Audio Dsp (443)](by-category/image-audio-dsp.md) · [Interop Bindings (63)](by-category/interop-bindings.md) · [Interpreter Runtime (276)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1452)](by-category/language-specification.md) · [Library (5864)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (533)](by-category/logging-observability.md) · [Machine Learning (816)](by-category/machine-learning.md)
-[Math Numeric Scientific (90)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1061)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (444)](by-category/package-manager.md) · [Parser Lexer Ast (1210)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (311)](by-category/precommit-ci-quality.md)
+[Math Numeric Scientific (90)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1062)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (444)](by-category/package-manager.md) · [Parser Lexer Ast (1211)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (311)](by-category/precommit-ci-quality.md)
 [Profiler (93)](by-category/profiler.md) · [Project Scaffolding (138)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (337)](by-category/security-sast.md) · [Serialization (402)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (637)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (623)](by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](by-category/tutorial-book-styleguide.md) · [Type Checker (315)](by-category/type-checker.md)
@@ -62,7 +62,7 @@ Generated: `2026-09-09T12:29:51+00:00`
 | Maps | 607 | 0 | [Maps](by-language/maps.md) |
 | Space Engines | 158 | 0 | [Space Engines](by-language/space-engines.md) |
 | Space Shuttles | 80 | 0 | [Space Shuttles](by-language/space-shuttles.md) |
-| Space Maps | 653 | 0 | [Space Maps](by-language/space-maps.md) |
+| Space Maps | 655 | 0 | [Space Maps](by-language/space-maps.md) |
 | Effects | 781 | 8 | [Effects](by-language/effects.md) |
 | Audio | 481 | 6 | [Audio](by-language/audio.md) |
 | Video | 470 | 0 | [Video](by-language/video.md) |
@@ -139,10 +139,10 @@ Generated: `2026-09-09T12:29:51+00:00`
 | Math Numeric Scientific | 90 | [math_numeric_scientific](by-category/math-numeric-scientific.md) |
 | Memory Analyzer | 99 | [memory_analyzer](by-category/memory-analyzer.md) |
 | Message Broker | 40 | [message_broker](by-category/message-broker.md) |
-| Networking Http | 1061 | [networking_http](by-category/networking-http.md) |
+| Networking Http | 1062 | [networking_http](by-category/networking-http.md) |
 | Other | 14 | [other](by-category/other.md) |
 | Package Manager | 444 | [package_manager](by-category/package-manager.md) |
-| Parser Lexer Ast | 1210 | [parser_lexer_ast](by-category/parser-lexer-ast.md) |
+| Parser Lexer Ast | 1211 | [parser_lexer_ast](by-category/parser-lexer-ast.md) |
 | Precommit Ci Quality | 311 | [precommit_ci_quality](by-category/precommit-ci-quality.md) |
 | Profiler | 93 | [profiler](by-category/profiler.md) |
 | Project Scaffolding | 138 | [project_scaffolding](by-category/project-scaffolding.md) |
@@ -199,7 +199,7 @@ Generated: `2026-09-09T12:29:51+00:00`
 | Maps | 0 | 607 |
 | Space Engines | 0 | 158 |
 | Space Shuttles | 0 | 80 |
-| Space Maps | 0 | 653 |
+| Space Maps | 0 | 655 |
 | Effects | 8 | 773 |
 | Audio | 6 | 475 |
 | Video | 0 | 470 |

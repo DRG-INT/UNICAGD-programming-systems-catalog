@@ -15,8 +15,8 @@
 [Image Audio Dsp (443)](by-category/image-audio-dsp.md) · [Interop Bindings (63)](by-category/interop-bindings.md) · [Interpreter Runtime (276)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1452)](by-category/language-specification.md) · [Library (5864)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (533)](by-category/logging-observability.md) · [Machine Learning (816)](by-category/machine-learning.md)
-[Math Numeric Scientific (90)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1061)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (444)](by-category/package-manager.md) · [Parser Lexer Ast (1210)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (311)](by-category/precommit-ci-quality.md)
+[Math Numeric Scientific (90)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1062)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (444)](by-category/package-manager.md) · [Parser Lexer Ast (1211)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (311)](by-category/precommit-ci-quality.md)
 [Profiler (93)](by-category/profiler.md) · [Project Scaffolding (138)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (337)](by-category/security-sast.md) · [Serialization (402)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (637)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (623)](by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](by-category/tutorial-book-styleguide.md) · [Type Checker (315)](by-category/type-checker.md)
@@ -14173,6 +14173,7 @@
 | `github_search_space_maps-2bc72ecb6bab31` | shrey-sudo/Exoplanet-Habitable-Zone-Mapping | [open](records/space-maps-shrey-sudo-exoplanet-habitable-zone-mapping-cdcf21b5.md) |
 | `github_search_space_maps-2beb28fcaa586a` | WeZZard/jlens-qwen36 | [open](records/space-maps-wezzard-jlens-qwen36-56410222.md) |
 | `github_search_space_maps-2c2c1e0c242151` | Iraeis/circe | [open](records/space-maps-iraeis-circe-f13ef4ad.md) |
+| `github_search_space_maps-2c8b19235fe64f` | crismunoz303/cosmos-observatory | [open](records/space-maps-crismunoz303-cosmos-observatory-34b24108.md) |
 | `github_search_space_maps-2d3927a18be5e1` | sadhvikoli/space-rover-agent | [open](records/space-maps-sadhvikoli-space-rover-agent-b904cc66.md) |
 | `github_search_space_maps-2d59175e66c167` | akashlevy/pyxbar | [open](records/space-maps-akashlevy-pyxbar-e80e79bd.md) |
 | `github_search_space_maps-2e6de225c1e09b` | arcsecond-io/standard-stars-catalogues | [open](records/space-maps-arcsecond-io-standard-stars-catalogues-92d84e53.md) |
@@ -14544,6 +14545,7 @@
 | `github_search_space_maps-bfdfe7fa7d7aa4` | MLM2/planetary-flood-sar | [open](records/space-maps-mlm2-planetary-flood-sar-3463c82d.md) |
 | `github_search_space_maps-c01e867162ae68` | mezzoblue/Elevation | [open](records/space-maps-mezzoblue-elevation-343d561c.md) |
 | `github_search_space_maps-c074878c691e4a` | wezelball/radio_planner | [open](records/space-maps-wezelball-radio-planner-1fc993cc.md) |
+| `github_search_space_maps-c1b7d4d750af77` | Ching367436/spice-mac | [open](records/space-maps-ching367436-spice-mac-5719b99e.md) |
 | `github_search_space_maps-c1c970ea04d5a4` | taylorcoffelt/macos-docker | [open](records/space-maps-taylorcoffelt-macos-docker-a9af7764.md) |
 | `github_search_space_maps-c1f156a51fe717` | rhannequin/astronoby | [open](records/space-maps-rhannequin-astronoby-ced172a0.md) |
 | `github_search_space_maps-c2080544402e56` | JustinLove/section_of_foreign_intelligence | [open](records/space-maps-justinlove-section-of-foreign-intelligence-47c06873.md) |
