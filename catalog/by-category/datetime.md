@@ -174,7 +174,7 @@ Records: `235`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| livekit/livekit | partial | 2026-09-08T19:48:04Z | [open](../records/go-livekit-livekit-1b3e6406.md) |
+| livekit/livekit | unknown | not_a_go_module_path | [open](../records/go-livekit-livekit-1b3e6406.md) |
 
 ## Computer Graphics Software
 

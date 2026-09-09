@@ -33,7 +33,7 @@ hot-path discovery, allocation analysis, latency control, and capacity planning.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-08T04:23:20Z | gh search repos score catalog | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-08T19:00:24Z | gh search repos score catalog | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -58,7 +58,7 @@ hot-path discovery, allocation analysis, latency control, and capacity planning.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-08 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "score catalog", "retrieved": "2026-09-08", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-09 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "score catalog", "retrieved": "2026-09-09", "status": "forge-cli-derived"}` |
 
 </details>
 

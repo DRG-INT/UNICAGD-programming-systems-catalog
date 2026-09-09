@@ -399,7 +399,7 @@ Records: `491`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | JGLTechnologies/gin-rate-limit | partial | 2026-08-14T03:34:23Z | [open](../records/go-jgltechnologies-gin-rate-limit-c93a4f16.md) |
-| openfaas/faas | partial | 2026-07-02T09:09:13Z | [open](../records/go-openfaas-faas-7fddd6b7.md) |
+| openfaas/faas | unknown | not_a_go_module_path | [open](../records/go-openfaas-faas-7fddd6b7.md) |
 
 ## Computer Graphics Software
 
@@ -449,7 +449,7 @@ Records: `491`
 | django-webpack/django-webpack-loader | partial | 2026-05-13T14:48:04Z | [open](../records/assets-django-webpack-django-webpack-loader-61d7c881.md) |
 | internet-development/www-server-mono | partial | 2026-08-22T06:50:35Z | [open](../records/assets-internet-development-www-server-mono-b5773f46.md) |
 | jansol/texpresso | partial | 2025-10-27T22:38:49Z | [open](../records/assets-jansol-texpresso-c8f9d0fc.md) |
-| MarSeventh/CloudFlare-ImgBed | partial | 2026-08-31T12:55:06Z | [open](../records/assets-marseventh-cloudflare-imgbed-2006c876.md) |
+| MarSeventh/CloudFlare-ImgBed | partial | 2026-09-09T03:57:33Z | [open](../records/assets-marseventh-cloudflare-imgbed-2006c876.md) |
 | OCSInventory-NG/OCSInventory-Server | partial | 2026-08-25T07:32:32Z | [open](../records/assets-ocsinventory-ng-ocsinventory-server-75ffaffe.md) |
 | rykener/django-manifest-loader | partial | 2022-06-14T19:22:54Z | [open](../records/assets-rykener-django-manifest-loader-feff5b7a.md) |
 
@@ -468,7 +468,7 @@ Records: `491`
 | encodeous/nylon | partial | 2026-09-05T16:43:07Z | [open](../records/maps-encodeous-nylon-c6f9f346.md) |
 | freerouting/freerouting | partial | 2026-09-08T07:12:16Z | [open](../records/maps-freerouting-freerouting-1dba680a.md) |
 | frzi/swiftui-router | partial | 2024-10-09T12:16:33Z | [open](../records/maps-frzi-swiftui-router-367cfeed.md) |
-| go-spatial/tegola | partial | 2026-09-02T15:06:10Z | [open](../records/maps-go-spatial-tegola-0b6db6ab.md) |
+| go-spatial/tegola | partial | 2026-09-08T23:44:12Z | [open](../records/maps-go-spatial-tegola-0b6db6ab.md) |
 | graphhopper/graphhopper | partial | 2026-09-08T12:07:49Z | [open](../records/maps-graphhopper-graphhopper-cfd324a4.md) |
 | henrythasler/cloud-tileserver | partial | 2026-04-08T23:04:36Z | [open](../records/maps-henrythasler-cloud-tileserver-fc8f7868.md) |
 | kartotherian/kartotherian | partial | 2021-08-11T04:00:27Z | [open](../records/maps-kartotherian-kartotherian-b54778f4.md) |
@@ -477,7 +477,7 @@ Records: `491`
 | lovebetterworld/gis-spicy-hot-pot | unknown | github_search_does_not_include_release_date | [open](../records/maps-lovebetterworld-gis-spicy-hot-pot-68f427a8.md) |
 | marc-shade/world-intel-mcp | partial | 2026-09-02T20:53:26Z | [open](../records/maps-marc-shade-world-intel-mcp-fdc04362.md) |
 | neo4j-contrib/spatial | unknown | github_search_does_not_include_release_date | [open](../records/maps-neo4j-contrib-spatial-1f247f57.md) |
-| openwisp/django-rest-framework-gis | partial | 2026-09-02T12:33:40Z | [open](../records/maps-openwisp-django-rest-framework-gis-9e3f8a0e.md) |
+| openwisp/django-rest-framework-gis | partial | 2026-09-08T16:46:34Z | [open](../records/maps-openwisp-django-rest-framework-gis-9e3f8a0e.md) |
 | pedronauck/micro-router | partial | 2022-12-07T09:40:24Z | [open](../records/maps-pedronauck-micro-router-a9e29513.md) |
 | rinigus/osmscout-server | partial | 2026-08-26T19:22:25Z | [open](../records/maps-rinigus-osmscout-server-54cd76d6.md) |
 | router5/router5 | partial | 2023-01-07T05:57:10Z | [open](../records/maps-router5-router5-1528f116.md) |
@@ -615,7 +615,7 @@ Records: `491`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | alchemy-swift/alchemy | partial | 2025-11-07T23:57:58Z | [open](../records/swift-alchemy-swift-alchemy-6ca3c9b1.md) |
-| apple/swift-log | partial | 2026-09-07T12:29:33Z | [open](../records/swift-apple-swift-log-9120ca11.md) |
+| apple/swift-log | partial | 2026-09-08T10:31:12Z | [open](../records/swift-apple-swift-log-9120ca11.md) |
 | apple/swift-metrics | partial | 2026-08-31T09:36:38Z | [open](../records/swift-apple-swift-metrics-38873b0e.md) |
 | ArtSabintsev/Guitar | partial | 2024-06-20T02:03:44Z | [open](../records/swift-artsabintsev-guitar-edf44630.md) |
 | brokenhandsio/swift-webauthn | partial | 2026-07-04T01:31:20Z | [open](../records/swift-brokenhandsio-swift-webauthn-17084b06.md) |

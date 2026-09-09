@@ -307,7 +307,7 @@ Records: `310`
 | georgd/EB-Garamond | partial | 2024-03-16T07:42:41Z | [open](../records/font-briefcase-georgd-eb-garamond-e0650ae9.md) |
 | jaywcjlove/free-font | partial | 2026-08-04T14:44:04Z | [open](../records/font-briefcase-jaywcjlove-free-font-a2b35ded.md) |
 | sahibjotsaggu/San-Francisco-Pro-Fonts | partial | 2023-01-29T07:38:34Z | [open](../records/font-briefcase-sahibjotsaggu-san-francisco-pro-fonts-705401c1.md) |
-| sepandhaghighi/art | partial | 2026-09-03T08:39:43Z | [open](../records/font-briefcase-sepandhaghighi-art-9a092c95.md) |
+| sepandhaghighi/art | partial | 2026-09-07T01:32:30Z | [open](../records/font-briefcase-sepandhaghighi-art-9a092c95.md) |
 | xero/figlet-fonts | partial | 2026-03-30T14:19:33Z | [open](../records/font-briefcase-xero-figlet-fonts-9b000cf7.md) |
 
 ## Assets
@@ -323,7 +323,7 @@ Records: `310`
 | sahibjotsaggu/San-Francisco-Pro-Fonts | partial | 2023-01-29T07:38:34Z | [open](../records/assets-sahibjotsaggu-san-francisco-pro-fonts-f6ecd2be.md) |
 | satelllte/JSPlacementWeb | partial | 2024-02-03T11:52:51Z | [open](../records/assets-satelllte-jsplacementweb-55922817.md) |
 | sepandhaghighi/art | partial | 2026-08-31T01:32:38Z | [open](../records/assets-sepandhaghighi-art-5075f3ee.md) |
-| tschm/pyhrp | partial | 2026-09-01T05:22:57Z | [open](../records/assets-tschm-pyhrp-3c7c1465.md) |
+| tschm/pyhrp | partial | 2026-09-08T05:35:54Z | [open](../records/assets-tschm-pyhrp-3c7c1465.md) |
 | xero/figlet-fonts | partial | 2026-03-30T14:19:33Z | [open](../records/assets-xero-figlet-fonts-4c500777.md) |
 
 ## Maps

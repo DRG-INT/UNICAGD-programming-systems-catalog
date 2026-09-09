@@ -33,7 +33,7 @@ acquisition, lockfile policy, provenance control, and supply-chain monitoring.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-03T22:17:19Z | gh search repos topic:asset-pipeline stars:>50 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-08T13:59:55Z | gh search repos topic:asset-pipeline stars:>50 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -58,7 +58,7 @@ acquisition, lockfile policy, provenance control, and supply-chain monitoring.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-04 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:asset-pipeline stars:>50", "retrieved": "2026-09-04", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-09 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:asset-pipeline stars:>50", "retrieved": "2026-09-09", "status": "forge-cli-derived"}` |
 
 </details>
 

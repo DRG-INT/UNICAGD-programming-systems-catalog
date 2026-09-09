@@ -169,7 +169,7 @@ Records: `138`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| django-cms/django-sekizai | partial | 2026-08-03T18:33:24Z | [open](../records/assets-django-cms-django-sekizai-0360a0be.md) |
+| django-cms/django-sekizai | partial | 2026-09-07T18:58:40Z | [open](../records/assets-django-cms-django-sekizai-0360a0be.md) |
 
 ## Maps
 

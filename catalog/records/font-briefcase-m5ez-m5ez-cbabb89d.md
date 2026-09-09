@@ -39,9 +39,9 @@ control, artifact reproducibility, cross-platform build policy, and CI integrati
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | MIT + file LICENSE; GNU Lesser General Public License v3.0; https://api.github.com/licenses/lgpl-3.0 |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | Backup plan required |
+| Evidence | GNU Lesser General Public License v3.0; https://api.github.com/licenses/lgpl-3.0 |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ control, artifact reproducibility, cross-platform build policy, and CI integrati
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-04 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:fonts stars:>100", "retrieved": "2026-09-04", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-09 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:fonts stars:>100", "retrieved": "2026-09-09", "status": "forge-cli-derived"}` |
 
 </details>
 

@@ -34,16 +34,16 @@ dependency acquisition, lockfile policy, provenance control, and supply-chain mo
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-07T20:33:53Z | gh search repos topic:registry stars:>100 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-08T12:57:31Z | gh search repos topic:registry stars:>100 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | MIT License; https://api.github.com/licenses/mit; Eclipse Public License 2.0; https://api.github.com/licenses/epl-2.0 |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | Backup plan required |
+| Evidence | Eclipse Public License 2.0; https://api.github.com/licenses/epl-2.0 |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 
@@ -59,7 +59,7 @@ dependency acquisition, lockfile policy, provenance control, and supply-chain mo
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-08 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:registry stars:>100", "retrieved": "2026-09-08", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-09 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:registry stars:>100", "retrieved": "2026-09-09", "status": "forge-cli-derived"}` |
 
 </details>
 

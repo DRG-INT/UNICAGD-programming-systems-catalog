@@ -351,7 +351,7 @@ Records: `358`
 | --- | --- | --- | --- |
 | 0xType/0xProto | partial | 2026-03-21T10:01:37Z | [open](../records/font-briefcase-0xtype-0xproto-1a2130ab.md) |
 | darkroomengineering/forma | partial | 2026-06-04T15:17:31Z | [open](../records/font-briefcase-darkroomengineering-forma-acf37ac1.md) |
-| harfbuzz/harfbuzz | partial | 2026-09-04T10:18:08Z | [open](../records/font-briefcase-harfbuzz-harfbuzz-a3b0c0bf.md) |
+| harfbuzz/harfbuzz | partial | 2026-09-08T18:14:04Z | [open](../records/font-briefcase-harfbuzz-harfbuzz-a3b0c0bf.md) |
 
 ## Assets
 

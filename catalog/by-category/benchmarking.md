@@ -132,8 +132,8 @@ Records: `202`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | jeffotoni/quick | partial | 2026-05-08T15:01:00Z | [open](../records/go-jeffotoni-quick-3e9e02ab.md) |
-| kataras/iris | partial | 2026-07-27T09:34:12Z | [open](../records/go-kataras-iris-811820fb.md) |
-| nats-io/nats-server | partial | 2026-09-08T22:57:36Z | [open](../records/go-nats-io-nats-server-a11f8ca6.md) |
+| kataras/iris | unknown | not_a_go_module_path | [open](../records/go-kataras-iris-811820fb.md) |
+| nats-io/nats-server | unknown | not_a_go_module_path | [open](../records/go-nats-io-nats-server-a11f8ca6.md) |
 | nelthaarion/breeze | partial | 2026-09-06T22:05:23Z | [open](../records/go-nelthaarion-breeze-919adbb5.md) |
 | sohaha/zlsgo | partial | 2026-07-20T07:16:38Z | [open](../records/go-sohaha-zlsgo-804fc40e.md) |
 | tigalabs/tigago | partial | 2022-11-12T12:26:48Z | [open](../records/go-tigalabs-tigago-6e360e88.md) |
@@ -142,7 +142,7 @@ Records: `202`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| milvus-io/milvus | partial | 2026-09-09T02:27:28Z | [open](../records/aim-s-milvus-io-milvus-54ee327d.md) |
+| milvus-io/milvus | partial | 2026-09-09T04:39:27Z | [open](../records/aim-s-milvus-io-milvus-54ee327d.md) |
 
 ## Computer Graphics Software
 
@@ -318,7 +318,7 @@ Records: `202`
 | Malfou/Violinfind | partial | 2026-09-02T19:49:02Z | [open](../records/repertoare-catalogs-malfou-violinfind-a6c6d90d.md) |
 | marshallswain/song-book-api | partial | 2017-12-14T17:23:16Z | [open](../records/repertoare-catalogs-marshallswain-song-book-api-9e3ddeb4.md) |
 | marshallswain/song-book-vue | partial | 2017-12-23T23:56:06Z | [open](../records/repertoare-catalogs-marshallswain-song-book-vue-c793b244.md) |
-| mashu/LineageCollapse.jl | partial | 2026-05-19T05:17:07Z | [open](../records/repertoare-catalogs-mashu-lineagecollapse-jl-6b1c71d0.md) |
+| mashu/LineageCollapse.jl | partial | 2026-09-08T10:43:34Z | [open](../records/repertoare-catalogs-mashu-lineagecollapse-jl-6b1c71d0.md) |
 | mattbertorg1/21m-410-vocal-repertoire-and-performance-african-american-composers_7007df1d8dba43548145d1c67a0fb499 | partial | 2021-04-26T17:58:53Z | [open](../records/repertoare-catalogs-mattbertorg1-21m-410-vocal-repertoire-and-performance-african-american-composers-7007df1d8dba43548145d1c67a0fb499-88e6858c.md) |
 | ncreighton/music-practice-instrument-tracker-notion | partial | 2026-05-23T21:38:53Z | [open](../records/repertoare-catalogs-ncreighton-music-practice-instrument-tracker-notion-b6d1b327.md) |
 | ouvroir/perfs | partial | 2022-06-20T22:00:17Z | [open](../records/repertoare-catalogs-ouvroir-perfs-fe7a5eca.md) |
@@ -379,7 +379,7 @@ Records: `202`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| apple/swift-nio | partial | 2026-09-07T12:56:16Z | [open](../records/swift-apple-swift-nio-a7333055.md) |
+| apple/swift-nio | partial | 2026-09-08T15:49:02Z | [open](../records/swift-apple-swift-nio-a7333055.md) |
 | ordo-one/benchmark | partial | 2026-07-24T09:37:23Z | [open](../records/swift-ordo-one-benchmark-1abb4df6.md) |
 | rarestype/swift-json | partial | 2026-08-29T22:33:17Z | [open](../records/swift-rarestype-swift-json-07634c5a.md) |
 

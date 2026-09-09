@@ -33,7 +33,7 @@ validation.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-07T14:41:21Z | gh search repos repertoire catalog | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-08T15:32:33Z | gh search repos repertoire catalog | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -58,7 +58,7 @@ validation.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-08 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "repertoire catalog", "retrieved": "2026-09-08", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-09 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "repertoire catalog", "retrieved": "2026-09-09", "status": "forge-cli-derived"}` |
 
 </details>
 

@@ -399,7 +399,7 @@ Records: `633`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| career-ops-hq/career-ops | partial | 2026-09-09T00:33:39Z | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
+| career-ops-hq/career-ops | unknown | not_a_go_module_path | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
 | codeberg.org/momar/simple-scan-server | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-codeberg-org-momar-simple-scan-server-8e5010e0.md) |
 
 ## "aim's"
@@ -434,7 +434,7 @@ Records: `633`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ArturSepp/QuantInvestStrats | partial | 2026-09-03T22:56:06Z | [open](../records/assets-artursepp-quantinveststrats-a7a51697.md) |
+| ArturSepp/QuantInvestStrats | partial | 2026-09-09T03:25:22Z | [open](../records/assets-artursepp-quantinveststrats-a7a51697.md) |
 | letianzj/QuantResearch | partial | 2023-08-26T12:16:05Z | [open](../records/assets-letianzj-quantresearch-61864c0e.md) |
 | Samukashvili/LUMEN-PS | partial | 2026-08-22T18:47:11Z | [open](../records/assets-samukashvili-lumen-ps-760ce575.md) |
 | ScanMountGoat/image_dds | partial | 2025-09-28T21:42:29Z | [open](../records/assets-scanmountgoat-image-dds-87704c34.md) |
@@ -444,7 +444,7 @@ Records: `633`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| antvis/L7 | partial | 2026-07-30T10:03:41Z | [open](../records/maps-antvis-l7-6780853b.md) |
+| antvis/L7 | partial | 2026-09-08T21:36:22Z | [open](../records/maps-antvis-l7-6780853b.md) |
 | c2g-dev/city2graph | partial | 2026-09-07T05:58:31Z | [open](../records/maps-c2g-dev-city2graph-75122023.md) |
 | CosmiQ/solaris | unknown | github_search_does_not_include_release_date | [open](../records/maps-cosmiq-solaris-c6ba877b.md) |
 | Esri/arcgis-python-api | unknown | github_search_does_not_include_release_date | [open](../records/maps-esri-arcgis-python-api-1e7e8d6c.md) |
@@ -454,7 +454,7 @@ Records: `633`
 | iamtekson/Leaflet-from-basic-to-advance | partial | 2025-02-01T21:37:25Z | [open](../records/maps-iamtekson-leaflet-from-basic-to-advance-889350fe.md) |
 | jblindsay/whitebox-tools | partial | 2026-05-26T15:31:03Z | [open](../records/maps-jblindsay-whitebox-tools-802abb76.md) |
 | joewdavies/awesome-frontend-gis | unknown | github_search_does_not_include_release_date | [open](../records/maps-joewdavies-awesome-frontend-gis-8dda6b78.md) |
-| keplergl/kepler.gl | partial | 2026-09-08T10:41:35Z | [open](../records/maps-keplergl-kepler-gl-672b222c.md) |
+| keplergl/kepler.gl | partial | 2026-09-08T16:59:15Z | [open](../records/maps-keplergl-kepler-gl-672b222c.md) |
 | mesa/mesa | unknown | github_search_does_not_include_release_date | [open](../records/maps-mesa-mesa-446ed582.md) |
 | mszell/geospatialdatascience | unknown | github_search_does_not_include_release_date | [open](../records/maps-mszell-geospatialdatascience-35957080.md) |
 | nejckorasa/instagram-analyzer | partial | 2020-06-05T19:09:36Z | [open](../records/maps-nejckorasa-instagram-analyzer-17d46a85.md) |
@@ -776,7 +776,7 @@ Records: `633`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Agam3108/Catalogue-Scanning-App | partial | 2024-03-23T09:53:13Z | [open](../records/repertoare-catalogs-agam3108-catalogue-scanning-app-ae967b87.md) |
-| glitchwerks/claude-wayfinder | partial | 2026-09-06T05:44:38Z | [open](../records/repertoare-catalogs-glitchwerks-claude-wayfinder-f0e59761.md) |
+| glitchwerks/claude-wayfinder | partial | 2026-09-09T00:55:09Z | [open](../records/repertoare-catalogs-glitchwerks-claude-wayfinder-f0e59761.md) |
 | HusseinBakri/PythonFinancialRepertoire | partial | 2020-02-23T11:17:53Z | [open](../records/repertoare-catalogs-husseinbakri-pythonfinancialrepertoire-47b61516.md) |
 | jayesh265/classifying_songs_based_on_audio_data | partial | 2020-03-17T05:32:14Z | [open](../records/repertoare-catalogs-jayesh265-classifying-songs-based-on-audio-data-c26a05ff.md) |
 | johnvteixido/etherlens | partial | 2026-06-12T21:21:22Z | [open](../records/repertoare-catalogs-johnvteixido-etherlens-c7b3a681.md) |
@@ -799,7 +799,7 @@ Records: `633`
 | --- | --- | --- | --- |
 | emanemad-dev/ux-review-website | partial | 2026-01-05T11:07:47Z | [open](../records/magazines-emanemad-dev-ux-review-website-030b8c54.md) |
 | Lifailon/lazyjournal | unknown | github_search_does_not_include_release_date | [open](../records/magazines-lifailon-lazyjournal-28d8daea.md) |
-| massimoaria/bibliometrix | partial | 2026-09-08T07:23:46Z | [open](../records/magazines-massimoaria-bibliometrix-de0b9efa.md) |
+| massimoaria/bibliometrix | partial | 2026-09-08T07:48:38Z | [open](../records/magazines-massimoaria-bibliometrix-de0b9efa.md) |
 | TalEliyahu/awesome-security-newsletters | partial | 2026-07-26T07:35:03Z | [open](../records/magazines-taleliyahu-awesome-security-newsletters-16430f65.md) |
 
 ## Assembly

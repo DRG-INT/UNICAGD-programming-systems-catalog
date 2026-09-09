@@ -572,13 +572,13 @@ Records: `1618`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | filippo.io/mostly-harmless/dockerdns | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-filippo-io-mostly-harmless-dockerdns-75b5c5a5.md) |
-| fyne-io/fyne | partial | 2026-09-08T09:34:14Z | [open](../records/go-fyne-io-fyne-de36c7ca.md) |
-| ginuerzh/gost | partial | 2026-08-30T10:02:45Z | [open](../records/go-ginuerzh-gost-9e6fc76a.md) |
-| go-kratos/kratos | partial | 2026-08-19T05:14:19Z | [open](../records/go-go-kratos-kratos-75d15f10.md) |
+| fyne-io/fyne | unknown | not_a_go_module_path | [open](../records/go-fyne-io-fyne-de36c7ca.md) |
+| ginuerzh/gost | unknown | not_a_go_module_path | [open](../records/go-ginuerzh-gost-9e6fc76a.md) |
+| go-kratos/kratos | unknown | not_a_go_module_path | [open](../records/go-go-kratos-kratos-75d15f10.md) |
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
-| m1k1o/neko | partial | 2026-08-30T15:02:19Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-09T03:46:41Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| m1k1o/neko | unknown | not_a_go_module_path | [open](../records/go-m1k1o-neko-6519a2a3.md) |
+| mattermost/mattermost | unknown | not_a_go_module_path | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -725,9 +725,9 @@ Records: `1618`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| alexmyczko/fnt | partial | 2026-09-04T01:12:00Z | [open](../records/font-briefcase-alexmyczko-fnt-3f252d33.md) |
+| alexmyczko/fnt | partial | 2026-09-05T01:16:51Z | [open](../records/font-briefcase-alexmyczko-fnt-3f252d33.md) |
 | andirueckel/undefined-medium | partial | 2024-04-30T16:44:00Z | [open](../records/font-briefcase-andirueckel-undefined-medium-cda5d042.md) |
-| be5invis/Iosevka | partial | 2026-09-04T03:39:33Z | [open](../records/font-briefcase-be5invis-iosevka-acb7b148.md) |
+| be5invis/Iosevka | partial | 2026-09-08T04:49:23Z | [open](../records/font-briefcase-be5invis-iosevka-acb7b148.md) |
 | blobject/agave | partial | 2026-06-20T16:03:38Z | [open](../records/font-briefcase-blobject-agave-9f6f658f.md) |
 | clauseggers/Playfair | partial | 2026-03-20T12:25:45Z | [open](../records/font-briefcase-clauseggers-playfair-715593a9.md) |
 | cormullion/juliamono | partial | 2026-07-18T11:18:41Z | [open](../records/font-briefcase-cormullion-juliamono-22f32268.md) |
@@ -739,13 +739,13 @@ Records: `1618`
 | jakemarsh/CostumeKit | partial | 2025-12-31T19:32:53Z | [open](../records/font-briefcase-jakemarsh-costumekit-92a7ea96.md) |
 | jcfieldsdev/font-converter | partial | 2023-12-12T04:22:35Z | [open](../records/font-briefcase-jcfieldsdev-font-converter-369f5b65.md) |
 | jenskutilek/FiraSystemFontReplacement | partial | 2023-05-31T13:52:59Z | [open](../records/font-briefcase-jenskutilek-firasystemfontreplacement-c9386447.md) |
-| justvanrossum/fontgoggles | partial | 2026-08-31T17:07:17Z | [open](../records/font-briefcase-justvanrossum-fontgoggles-73edb6d3.md) |
+| justvanrossum/fontgoggles | partial | 2026-09-07T17:07:17Z | [open](../records/font-briefcase-justvanrossum-fontgoggles-73edb6d3.md) |
 | lxgw/kose-font | partial | 2026-06-29T08:56:20Z | [open](../records/font-briefcase-lxgw-kose-font-032f2bb7.md) |
 | neverpanic/google-font-download | partial | 2020-06-21T20:39:27Z | [open](../records/font-briefcase-neverpanic-google-font-download-39b5f507.md) |
 | oidoid/mem | partial | 2026-08-24T03:15:33Z | [open](../records/font-briefcase-oidoid-mem-9e93f0a4.md) |
 | orioncactus/pretendard | partial | 2026-07-23T07:46:00Z | [open](../records/font-briefcase-orioncactus-pretendard-51195f25.md) |
 | qwerasd205/AnnotationMono | partial | 2026-07-28T05:24:50Z | [open](../records/font-briefcase-qwerasd205-annotationmono-110bd69b.md) |
-| rektdeckard/departure-mono | partial | 2026-08-27T07:31:58Z | [open](../records/font-briefcase-rektdeckard-departure-mono-3d95d196.md) |
+| rektdeckard/departure-mono | partial | 2026-09-09T04:32:28Z | [open](../records/font-briefcase-rektdeckard-departure-mono-3d95d196.md) |
 | rootfont/rootfont | partial | 2026-08-16T20:53:53Z | [open](../records/font-briefcase-rootfont-rootfont-6a516e7e.md) |
 | segecey/SwiftIconFont | partial | 2022-08-05T12:12:28Z | [open](../records/font-briefcase-segecey-swifticonfont-36bf5cbe.md) |
 | simonsmh/notocjk | partial | 2025-08-20T11:46:28Z | [open](../records/font-briefcase-simonsmh-notocjk-65f9685b.md) |
@@ -765,7 +765,7 @@ Records: `1618`
 | cormullion/juliamono | partial | 2026-07-18T11:18:41Z | [open](../records/assets-cormullion-juliamono-bec7c369.md) |
 | creosB/Game-Asset-Auto-Redeemer | partial | 2026-08-29T01:03:16Z | [open](../records/assets-creosb-game-asset-auto-redeemer-74c8f79f.md) |
 | didiatworkz/screenly-ose-monitoring | partial | 2021-12-24T15:06:57Z | [open](../records/assets-didiatworkz-screenly-ose-monitoring-f088cdd0.md) |
-| dolag233/Serpent | partial | 2026-09-04T15:25:41Z | [open](../records/assets-dolag233-serpent-ea2f129d.md) |
+| dolag233/Serpent | partial | 2026-09-07T15:30:00Z | [open](../records/assets-dolag233-serpent-ea2f129d.md) |
 | donnikitos/vite-plugin-php | partial | 2026-07-11T07:21:54Z | [open](../records/assets-donnikitos-vite-plugin-php-5390082f.md) |
 | drinkthestars/shady | partial | 2025-11-18T02:58:28Z | [open](../records/assets-drinkthestars-shady-c710bb26.md) |
 | DrXie/OSFCC | partial | 2020-04-27T13:08:47Z | [open](../records/assets-drxie-osfcc-22529e95.md) |
@@ -773,7 +773,7 @@ Records: `1618`
 | freshOS/AssetChecker | partial | 2021-02-19T20:07:02Z | [open](../records/assets-freshos-assetchecker-f5602918.md) |
 | gdquest-demos/godot-shaders | partial | 2026-05-16T07:48:40Z | [open](../records/assets-gdquest-demos-godot-shaders-b9248320.md) |
 | ggu/3DAssetsToSprite | partial | 2019-05-31T21:32:17Z | [open](../records/assets-ggu-3dassetstosprite-6ed8ad85.md) |
-| Grashjs/cmms | partial | 2026-09-04T16:16:08Z | [open](../records/assets-grashjs-cmms-7ea7d7e3.md) |
+| Grashjs/cmms | partial | 2026-09-08T16:03:42Z | [open](../records/assets-grashjs-cmms-7ea7d7e3.md) |
 | IBAX-io/go-ibax | partial | 2026-03-05T01:23:24Z | [open](../records/assets-ibax-io-go-ibax-680bc3d4.md) |
 | IdreesInc/Monocraft | partial | 2026-05-27T21:49:03Z | [open](../records/assets-idreesinc-monocraft-2e4bbd56.md) |
 | indestructible-type/Jost | partial | 2023-03-12T13:50:38Z | [open](../records/assets-indestructible-type-jost-bad148c7.md) |
@@ -792,7 +792,7 @@ Records: `1618`
 | orioncactus/pretendard | partial | 2026-07-23T07:46:00Z | [open](../records/assets-orioncactus-pretendard-01cef4f9.md) |
 | pcjbird/AssetsExtractor | partial | 2019-04-28T14:08:03Z | [open](../records/assets-pcjbird-assetsextractor-31eb98f9.md) |
 | ppy/osu-resources | partial | 2026-07-10T12:48:31Z | [open](../records/assets-ppy-osu-resources-fbc50ca8.md) |
-| projectdiscovery/awesome-search-queries | partial | 2026-09-02T12:08:15Z | [open](../records/assets-projectdiscovery-awesome-search-queries-b4756398.md) |
+| projectdiscovery/awesome-search-queries | partial | 2026-09-09T00:11:41Z | [open](../records/assets-projectdiscovery-awesome-search-queries-b4756398.md) |
 | qwerasd205/AnnotationMono | partial | 2026-07-28T05:24:50Z | [open](../records/assets-qwerasd205-annotationmono-39d157d9.md) |
 | rektdeckard/departure-mono | partial | 2026-08-27T07:31:58Z | [open](../records/assets-rektdeckard-departure-mono-2cee23db.md) |
 | riccardoscalco/textures | partial | 2023-01-01T20:03:38Z | [open](../records/assets-riccardoscalco-textures-1ed66e06.md) |
@@ -810,9 +810,9 @@ Records: `1618`
 | 52inc/Pulley | partial | 2024-12-03T22:49:50Z | [open](../records/maps-52inc-pulley-a5b376ec.md) |
 | ajnisbet/opentopodata | unknown | github_search_does_not_include_release_date | [open](../records/maps-ajnisbet-opentopodata-c059790e.md) |
 | alexbosworth/balanceofsatoshis | partial | 2026-09-02T16:56:37Z | [open](../records/maps-alexbosworth-balanceofsatoshis-9b5e0bba.md) |
-| apache/calcite | partial | 2026-09-08T12:08:49Z | [open](../records/maps-apache-calcite-64e8faa1.md) |
+| apache/calcite | partial | 2026-09-08T22:34:37Z | [open](../records/maps-apache-calcite-64e8faa1.md) |
 | apache/ofbiz | partial | 2020-04-27T06:10:43Z | [open](../records/maps-apache-ofbiz-0fe319f9.md) |
-| apache/sedona | partial | 2026-09-07T16:35:08Z | [open](../records/maps-apache-sedona-820c9e53.md) |
+| apache/sedona | partial | 2026-09-08T22:17:35Z | [open](../records/maps-apache-sedona-820c9e53.md) |
 | artembobkin/ImmersiveMap | partial | 2026-09-07T14:58:08Z | [open](../records/maps-artembobkin-immersivemap-7806dbe3.md) |
 | arthur-e/Wicket | partial | 2021-09-13T16:04:15Z | [open](../records/maps-arthur-e-wicket-f4681949.md) |
 | atlasdatatech/tiler | partial | 2024-06-02T05:15:30Z | [open](../records/maps-atlasdatatech-tiler-6dc4bb32.md) |
@@ -822,7 +822,7 @@ Records: `1618`
 | CesiumGS/cesium-unreal | partial | 2026-09-02T15:59:11Z | [open](../records/maps-cesiumgs-cesium-unreal-403e1d28.md) |
 | cgohlke/geospatial-wheels | partial | 2026-08-20T01:20:34Z | [open](../records/maps-cgohlke-geospatial-wheels-6908f900.md) |
 | chrieke/awesome-geospatial-companies | partial | 2026-07-09T02:14:59Z | [open](../records/maps-chrieke-awesome-geospatial-companies-c415111d.md) |
-| databendlabs/databend | partial | 2026-09-08T12:53:38Z | [open](../records/maps-databendlabs-databend-b7f1b4ac.md) |
+| databendlabs/databend | partial | 2026-09-09T05:03:26Z | [open](../records/maps-databendlabs-databend-b7f1b4ac.md) |
 | deepVector/geospatial-machine-learning | partial | 2018-06-21T20:04:07Z | [open](../records/maps-deepvector-geospatial-machine-learning-e4503c88.md) |
 | dhconnelly/rtreego | partial | 2024-12-20T06:54:41Z | [open](../records/maps-dhconnelly-rtreego-d1b2c3e4.md) |
 | e-sensing/sits | partial | 2026-08-31T09:55:57Z | [open](../records/maps-e-sensing-sits-4d30513a.md) |
@@ -834,12 +834,12 @@ Records: `1618`
 | gaopengbin/geo-downloader | partial | 2026-09-08T04:13:07Z | [open](../records/maps-gaopengbin-geo-downloader-277ed7aa.md) |
 | gboeing/osmnx-examples | partial | 2026-09-02T17:20:53Z | [open](../records/maps-gboeing-osmnx-examples-59da9b79.md) |
 | gee-community/geetools | partial | 2026-09-02T09:07:50Z | [open](../records/maps-gee-community-geetools-c599b5c8.md) |
-| GenericMappingTools/gmt | partial | 2026-09-08T12:37:06Z | [open](../records/maps-genericmappingtools-gmt-8b1cff73.md) |
+| GenericMappingTools/gmt | partial | 2026-09-09T02:22:40Z | [open](../records/maps-genericmappingtools-gmt-8b1cff73.md) |
 | geocompx/geocompr | partial | 2026-07-30T08:33:15Z | [open](../records/maps-geocompx-geocompr-56cd97d0.md) |
-| GeoNode/geonode | partial | 2026-09-08T06:55:42Z | [open](../records/maps-geonode-geonode-194e67ae.md) |
+| GeoNode/geonode | partial | 2026-09-08T15:10:03Z | [open](../records/maps-geonode-geonode-194e67ae.md) |
 | geopandas/geopandas | partial | 2026-09-07T07:43:37Z | [open](../records/maps-geopandas-geopandas-8e718954.md) |
 | georust/geo | partial | 2026-09-07T09:51:36Z | [open](../records/maps-georust-geo-aa20b54a.md) |
-| geosolutions-it/MapStore2 | partial | 2026-09-08T08:14:35Z | [open](../records/maps-geosolutions-it-mapstore2-5f438a3c.md) |
+| geosolutions-it/MapStore2 | partial | 2026-09-08T15:16:02Z | [open](../records/maps-geosolutions-it-mapstore2-5f438a3c.md) |
 | GeoStat-Framework/GSTools | partial | 2026-08-24T11:34:44Z | [open](../records/maps-geostat-framework-gstools-08dca3ea.md) |
 | GEOSwift/GEOSwift | partial | 2026-09-05T22:27:09Z | [open](../records/maps-geoswift-geoswift-aeb19eb4.md) |
 | gisgraphy/gisgraphy | partial | 2023-12-27T05:25:11Z | [open](../records/maps-gisgraphy-gisgraphy-7b638690.md) |
@@ -847,7 +847,7 @@ Records: `1618`
 | giswqs/geog-312 | unknown | github_search_does_not_include_release_date | [open](../records/maps-giswqs-geog-312-52015923.md) |
 | giswqs/intro-gispro | partial | 2026-08-16T19:53:05Z | [open](../records/maps-giswqs-intro-gispro-2e41cded.md) |
 | googlemaps/android-maps-compose | partial | 2026-09-08T10:23:32Z | [open](../records/maps-googlemaps-android-maps-compose-aa796bdb.md) |
-| headwaymaps/headway | partial | 2026-09-06T14:52:50Z | [open](../records/maps-headwaymaps-headway-f1c2ebfc.md) |
+| headwaymaps/headway | partial | 2026-09-09T05:09:47Z | [open](../records/maps-headwaymaps-headway-f1c2ebfc.md) |
 | HoshinoSuzumi/chronoframe | partial | 2026-09-08T00:14:58Z | [open](../records/maps-hoshinosuzumi-chronoframe-59aaa2ce.md) |
 | hotosm/osm-analytics | partial | 2024-04-23T12:12:29Z | [open](../records/maps-hotosm-osm-analytics-ff5f1c75.md) |
 | hotosm/tasking-manager | partial | 2026-09-08T17:01:32Z | [open](../records/maps-hotosm-tasking-manager-4becfa5d.md) |
@@ -908,7 +908,7 @@ Records: `1618`
 | randyzwitch/streamlit-folium | partial | 2026-09-01T22:11:35Z | [open](../records/maps-randyzwitch-streamlit-folium-fb03280d.md) |
 | react-native-maps/react-native-maps | partial | 2026-09-06T20:49:44Z | [open](../records/maps-react-native-maps-react-native-maps-aca06963.md) |
 | ropensci/osmdata | partial | 2026-09-01T12:00:08Z | [open](../records/maps-ropensci-osmdata-731b87a2.md) |
-| sacridini/Awesome-Geospatial | partial | 2026-09-08T09:10:20Z | [open](../records/maps-sacridini-awesome-geospatial-f07fd742.md) |
+| sacridini/Awesome-Geospatial | partial | 2026-09-08T14:01:22Z | [open](../records/maps-sacridini-awesome-geospatial-f07fd742.md) |
 | samapriya/awesome-gee-community-datasets | partial | 2026-09-08T02:03:19Z | [open](../records/maps-samapriya-awesome-gee-community-datasets-3c684094.md) |
 | sethoscope/heatmap | partial | 2026-06-20T01:58:04Z | [open](../records/maps-sethoscope-heatmap-7bb1b329.md) |
 | stepankuzmin/tilelive-postgis | partial | 2026-09-03T23:48:42Z | [open](../records/maps-stepankuzmin-tilelive-postgis-326f9d25.md) |
@@ -1490,7 +1490,7 @@ Records: `1618`
 | pothosware/SoapySDRPlay2 | partial | 2021-11-21T18:32:54Z | [open](../records/satcom-satellites-pothosware-soapysdrplay2-17485e30.md) |
 | pothosware/SoapySDRPlay3 | partial | 2026-09-04T21:23:55Z | [open](../records/satcom-satellites-pothosware-soapysdrplay3-16bfd183.md) |
 | pothosware/SoapyUHD | partial | 2026-08-06T19:12:39Z | [open](../records/satcom-satellites-pothosware-soapyuhd-e79845ce.md) |
-| spectregrams/spectre | partial | 2026-08-31T21:52:46Z | [open](../records/satcom-satellites-spectregrams-spectre-77b8722d.md) |
+| spectregrams/spectre | partial | 2026-09-08T22:57:08Z | [open](../records/satcom-satellites-spectregrams-spectre-77b8722d.md) |
 | The-Osint-Toolbox/Geolocation-OSINT | partial | 2026-05-24T06:52:19Z | [open](../records/satcom-satellites-the-osint-toolbox-geolocation-osint-51d3da78.md) |
 | tomtaylor/satellite-eyes | partial | 2026-08-12T08:25:32Z | [open](../records/satcom-satellites-tomtaylor-satellite-eyes-502e7da9.md) |
 | up42/up42-py | partial | 2026-08-31T09:09:58Z | [open](../records/satcom-satellites-up42-up42-py-ed525448.md) |
@@ -1572,7 +1572,7 @@ Records: `1618`
 | jendrikseipp/rednotebook | partial | 2026-07-12T20:45:38Z | [open](../records/magazines-jendrikseipp-rednotebook-25e7f065.md) |
 | joergi/MagPiDownloader | partial | 2026-08-03T14:10:04Z | [open](../records/magazines-joergi-magpidownloader-67f8e42e.md) |
 | journiv/journiv-app | partial | 2026-09-07T16:45:19Z | [open](../records/magazines-journiv-journiv-app-b0d9c829.md) |
-| openjournals/joss | partial | 2026-08-31T13:39:45Z | [open](../records/magazines-openjournals-joss-1c4447c8.md) |
+| openjournals/joss | partial | 2026-09-08T10:41:14Z | [open](../records/magazines-openjournals-joss-1c4447c8.md) |
 | OS2World/DEV-SAMPLES-C-ColorWheel | partial | 2016-02-21T13:23:48Z | [open](../records/magazines-os2world-dev-samples-c-colorwheel-50ebb784.md) |
 | OS2World/DEV-SAMPLES-C-PM-ctrldes | partial | 2023-05-23T20:21:17Z | [open](../records/magazines-os2world-dev-samples-c-pm-ctrldes-cc4b602b.md) |
 | OS2World/DEV-SAMPLES-C-PM-custct | partial | 2023-05-20T22:29:33Z | [open](../records/magazines-os2world-dev-samples-c-pm-custct-515356c6.md) |
@@ -1592,16 +1592,16 @@ Records: `1618`
 | songtianlun/diarum | partial | 2026-08-04T05:10:54Z | [open](../records/magazines-songtianlun-diarum-6ce1bdf0.md) |
 | spatie/Mailcoach | partial | 2026-03-09T09:27:14Z | [open](../records/magazines-spatie-mailcoach-b99f99d2.md) |
 | stefanbc/Asgar | partial | 2023-09-05T02:36:38Z | [open](../records/magazines-stefanbc-asgar-eb9aacac.md) |
-| TryGhost/Alto | partial | 2026-09-08T02:38:22Z | [open](../records/magazines-tryghost-alto-462e85dc.md) |
-| TryGhost/Casper | partial | 2026-09-08T02:44:07Z | [open](../records/magazines-tryghost-casper-68eed8fe.md) |
-| TryGhost/Dawn | partial | 2026-09-08T02:38:28Z | [open](../records/magazines-tryghost-dawn-93a1bcb3.md) |
-| TryGhost/Dope | partial | 2026-09-08T02:38:24Z | [open](../records/magazines-tryghost-dope-8382f7e5.md) |
-| TryGhost/Edge | partial | 2026-09-08T02:38:31Z | [open](../records/magazines-tryghost-edge-c0002ec9.md) |
+| TryGhost/Alto | partial | 2026-09-08T23:37:25Z | [open](../records/magazines-tryghost-alto-462e85dc.md) |
+| TryGhost/Casper | partial | 2026-09-08T23:39:23Z | [open](../records/magazines-tryghost-casper-68eed8fe.md) |
+| TryGhost/Dawn | partial | 2026-09-08T23:36:54Z | [open](../records/magazines-tryghost-dawn-93a1bcb3.md) |
+| TryGhost/Dope | partial | 2026-09-08T23:36:46Z | [open](../records/magazines-tryghost-dope-8382f7e5.md) |
+| TryGhost/Edge | partial | 2026-09-08T23:36:51Z | [open](../records/magazines-tryghost-edge-c0002ec9.md) |
 | TryGhost/Edition | partial | 2026-09-01T15:21:37Z | [open](../records/magazines-tryghost-edition-30f487ea.md) |
 | TryGhost/Journal | partial | 2026-09-01T15:22:39Z | [open](../records/magazines-tryghost-journal-0be492cf.md) |
-| TryGhost/London | partial | 2026-09-08T02:38:25Z | [open](../records/magazines-tryghost-london-63cc3483.md) |
+| TryGhost/London | partial | 2026-09-08T23:36:47Z | [open](../records/magazines-tryghost-london-63cc3483.md) |
 | TryGhost/Massively | partial | 2026-09-07T19:54:15Z | [open](../records/magazines-tryghost-massively-26c36497.md) |
-| TryGhost/Source | partial | 2026-09-08T02:58:38Z | [open](../records/magazines-tryghost-source-8e1152fe.md) |
+| TryGhost/Source | partial | 2026-09-08T23:41:54Z | [open](../records/magazines-tryghost-source-8e1152fe.md) |
 | TryGhost/Themes | partial | 2026-09-01T15:18:30Z | [open](../records/magazines-tryghost-themes-8b8724da.md) |
 | unkn0w/disposable-email-domain-list | partial | 2026-07-27T07:07:18Z | [open](../records/magazines-unkn0w-disposable-email-domain-list-54a50054.md) |
 

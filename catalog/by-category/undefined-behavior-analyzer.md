@@ -410,9 +410,9 @@ Records: `1628`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bluenviron/mediamtx | partial | 2026-09-08T17:03:44Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
-| dariubs/GoBooks | partial | 2026-07-13T16:08:02Z | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
-| eryajf/learning-weekly | partial | 2026-08-27T15:27:30Z | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
+| bluenviron/mediamtx | unknown | not_a_go_module_path | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
+| dariubs/GoBooks | unknown | not_a_go_module_path | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
+| eryajf/learning-weekly | unknown | not_a_go_module_path | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
 | github.com/01org/isa-l | v2.22.0+incompatible | 2026-08-30T14:09:32.299469Z | [open](../records/go-github-com-01org-isa-l-8ef09eb2.md) |
 | github.com/1panel-dev/1Panel/agent | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-1panel-dev-1panel-agent-8df4b3a6.md) |
 | github.com/2rumaki-playground/game-001-dungeon-cards | v0.103.0 | 2026-08-30T16:30:21.794494Z | [open](../records/go-github-com-2rumaki-playground-game-001-dungeon-cards-97fa2334.md) |
@@ -1141,7 +1141,7 @@ Records: `1628`
 | github.laiyagushi.com/nemith/dothome | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-laiyagushi-com-nemith-dothome-32cd483a.md) |
 | github.laiyagushi.com/valkey-io/valkey-go | v1.0.56 | 2026-08-30T15:31:38.453275Z | [open](../records/go-github-laiyagushi-com-valkey-io-valkey-go-b2864d71.md) |
 | jfrog/gocenter | partial | 2021-05-14T11:38:26Z | [open](../records/go-jfrog-gocenter-404e69f1.md) |
-| labring/sealos | partial | 2026-09-08T07:50:19Z | [open](../records/go-labring-sealos-594e5269.md) |
+| labring/sealos | unknown | not_a_go_module_path | [open](../records/go-labring-sealos-594e5269.md) |
 | uber-go/guide | partial | 2026-04-15T15:10:48Z | [open](../records/go-uber-go-guide-c330b782.md) |
 | uber-go/zap | partial | 2026-08-31T18:59:30Z | [open](../records/go-uber-go-zap-07ea12d8.md) |
 | unpoller/unifi | partial | 2026-09-05T16:28:54Z | [open](../records/go-unpoller-unifi-0809cf4a.md) |
@@ -1264,7 +1264,7 @@ Records: `1628`
 | githubnext/monaspace | partial | 2026-03-27T23:10:14Z | [open](../records/assets-githubnext-monaspace-701f8aac.md) |
 | Michaelredaa/Djed | partial | 2023-04-24T21:26:55Z | [open](../records/assets-michaelredaa-djed-42fed982.md) |
 | omeryusufyagci/fast-music-remover | partial | 2025-01-15T19:11:56Z | [open](../records/assets-omeryusufyagci-fast-music-remover-e8de33c8.md) |
-| OpenCSGs/csghub | partial | 2026-09-02T08:33:06Z | [open](../records/assets-opencsgs-csghub-88ed3839.md) |
+| OpenCSGs/csghub | partial | 2026-09-08T01:53:01Z | [open](../records/assets-opencsgs-csghub-88ed3839.md) |
 | opensourcedesign/fonts | partial | 2020-08-31T04:08:37Z | [open](../records/assets-opensourcedesign-fonts-b0aeea5a.md) |
 | PixelRubro/ParallaxerSystemForUnity | partial | 2024-12-30T01:38:33Z | [open](../records/assets-pixelrubro-parallaxersystemforunity-8df9f352.md) |
 | rmrevin/yii2-fontawesome | partial | 2023-07-31T17:36:25Z | [open](../records/assets-rmrevin-yii2-fontawesome-37981861.md) |
@@ -1297,14 +1297,14 @@ Records: `1628`
 | MapServer/MapServer | partial | 2026-09-06T18:04:41Z | [open](../records/maps-mapserver-mapserver-100bdea0.md) |
 | munterfi/hereR | partial | 2025-02-23T15:29:33Z | [open](../records/maps-munterfi-herer-7bc6ec20.md) |
 | nvkelso/natural-earth-vector | partial | 2024-04-22T12:24:13Z | [open](../records/maps-nvkelso-natural-earth-vector-941f7e82.md) |
-| opendatacube/datacube-core | partial | 2026-09-08T07:20:05Z | [open](../records/maps-opendatacube-datacube-core-7c11f2b9.md) |
+| opendatacube/datacube-core | partial | 2026-09-09T00:35:03Z | [open](../records/maps-opendatacube-datacube-core-7c11f2b9.md) |
 | pubnub/eon | partial | 2022-12-06T09:15:05Z | [open](../records/maps-pubnub-eon-beb5f743.md) |
-| rspatial/terra | partial | 2026-09-07T07:35:31Z | [open](../records/maps-rspatial-terra-dbc784d1.md) |
+| rspatial/terra | partial | 2026-09-08T17:47:17Z | [open](../records/maps-rspatial-terra-dbc784d1.md) |
 | SimonBrazell/privacy-redirect | partial | 2023-09-05T18:05:25Z | [open](../records/maps-simonbrazell-privacy-redirect-1c6619a0.md) |
 | t-rex-tileserver/t-rex | partial | 2024-09-24T14:17:05Z | [open](../records/maps-t-rex-tileserver-t-rex-530f84b0.md) |
 | uber/h3 | partial | 2026-09-03T02:35:04Z | [open](../records/maps-uber-h3-909abfb5.md) |
 | uber/h3-js | partial | 2026-08-24T19:35:25Z | [open](../records/maps-uber-h3-js-8f70e2d6.md) |
-| uber/h3-py | partial | 2026-08-24T21:16:38Z | [open](../records/maps-uber-h3-py-113e2f65.md) |
+| uber/h3-py | partial | 2026-09-08T21:33:20Z | [open](../records/maps-uber-h3-py-113e2f65.md) |
 | xeokit/xeokit-bim-viewer | partial | 2026-02-04T13:20:28Z | [open](../records/maps-xeokit-xeokit-bim-viewer-7fecdcf4.md) |
 | xeokit/xeokit-sdk | partial | 2026-09-08T10:26:46Z | [open](../records/maps-xeokit-xeokit-sdk-1ab9f795.md) |
 
@@ -1569,7 +1569,7 @@ Records: `1628`
 | 720kb/radiobox.css | partial | 2017-11-10T14:52:56Z | [open](../records/electromagnetoscopes-720kb-radiobox-css-3e1ebc91.md) |
 | cjcliffe/CubicSDR | partial | 2026-09-02T02:19:48Z | [open](../records/electromagnetoscopes-cjcliffe-cubicsdr-4d39607b.md) |
 | dabana/TEM_dash | partial | 2018-09-25T11:40:19Z | [open](../records/electromagnetoscopes-dabana-tem-dash-d58d5144.md) |
-| f4exb/sdrangel | partial | 2026-09-08T01:05:22Z | [open](../records/electromagnetoscopes-f4exb-sdrangel-2939271b.md) |
+| f4exb/sdrangel | partial | 2026-09-09T04:46:15Z | [open](../records/electromagnetoscopes-f4exb-sdrangel-2939271b.md) |
 | GeoBrain-Project/GeoBrain | partial | 2026-08-20T08:37:35Z | [open](../records/electromagnetoscopes-geobrain-project-geobrain-aeb85431.md) |
 | greatscottgadgets/ubertooth | partial | 2026-03-19T15:58:24Z | [open](../records/electromagnetoscopes-greatscottgadgets-ubertooth-28bac228.md) |
 | jvde-github/AIS-catcher | partial | 2026-09-06T22:14:18Z | [open](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) |
@@ -1624,10 +1624,10 @@ Records: `1628`
 | datahub-project/datahub | partial | 2026-09-05T20:20:54Z | [open](../records/catalogs-datahub-project-datahub-245b610a.md) |
 | erikdarlingdata/DarlingData | partial | 2026-09-04T21:16:14Z | [open](../records/catalogs-erikdarlingdata-darlingdata-be996c85.md) |
 | FeatureBaseDB/featurebase | partial | 2024-02-21T23:20:41Z | [open](../records/catalogs-featurebasedb-featurebase-1eac6a36.md) |
-| imsai-sh/awesome-deepseek-harness-plugins | partial | 2026-09-08T04:23:34Z | [open](../records/catalogs-imsai-sh-awesome-deepseek-harness-plugins-06b83072.md) |
+| imsai-sh/awesome-deepseek-harness-plugins | partial | 2026-09-09T01:53:05Z | [open](../records/catalogs-imsai-sh-awesome-deepseek-harness-plugins-06b83072.md) |
 | italia/.github | partial | 2026-08-31T09:31:30Z | [open](../records/catalogs-italia-github-0b346e57.md) |
 | leenkcool/Blue-Whale-Harness | partial | 2026-09-04T03:49:36Z | [open](../records/catalogs-leenkcool-blue-whale-harness-b2691c97.md) |
-| llnl/llnl.github.io | partial | 2026-09-07T17:26:26Z | [open](../records/catalogs-llnl-llnl-github-io-afb77a91.md) |
+| llnl/llnl.github.io | partial | 2026-09-08T16:33:27Z | [open](../records/catalogs-llnl-llnl-github-io-afb77a91.md) |
 | mbahArip/next-gdrive-index | partial | 2026-01-15T23:56:25Z | [open](../records/catalogs-mbaharip-next-gdrive-index-78a05087.md) |
 | nasa/code-nasa-gov | partial | 2024-09-19T20:00:44Z | [open](../records/catalogs-nasa-code-nasa-gov-bf1d1580.md) |
 | pumpzera/github-achievements-catalog | partial | 2026-04-05T21:51:58Z | [open](../records/catalogs-pumpzera-github-achievements-catalog-4fee72cc.md) |
@@ -1662,7 +1662,7 @@ Records: `1628`
 | NathanGeerinck/laravel-newsletter | partial | 2018-09-26T13:41:42Z | [open](../records/magazines-nathangeerinck-laravel-newsletter-f4022f65.md) |
 | ningoink/open-source-magazine | unknown | github_search_does_not_include_release_date | [open](../records/magazines-ningoink-open-source-magazine-9862f636.md) |
 | openjournals/joss | unknown | github_search_does_not_include_release_date | [open](../records/magazines-openjournals-joss-843100bc.md) |
-| openlibhums/janeway | partial | 2026-09-06T11:02:05Z | [open](../records/magazines-openlibhums-janeway-b53e06a3.md) |
+| openlibhums/janeway | partial | 2026-09-08T10:26:15Z | [open](../records/magazines-openlibhums-janeway-b53e06a3.md) |
 | petterh/range-slider | partial | 2016-02-01T16:19:29Z | [open](../records/magazines-petterh-range-slider-f875d29f.md) |
 | rubin55/gdm-examples | partial | 2018-11-10T20:28:04Z | [open](../records/magazines-rubin55-gdm-examples-a96bfaf6.md) |
 | rust-gamedev/rust-gamedev.github.io | partial | 2025-08-28T14:43:46Z | [open](../records/magazines-rust-gamedev-rust-gamedev-github-io-a7f949a1.md) |
@@ -1682,7 +1682,7 @@ Records: `1628`
 | TryGhost/Editorial | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-editorial-24923224.md) |
 | TryGhost/London | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-london-a1950ab3.md) |
 | TryGhost/Massively | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-massively-019faf67.md) |
-| TryGhost/Ruby | partial | 2026-09-08T02:38:30Z | [open](../records/magazines-tryghost-ruby-e22f8483.md) |
+| TryGhost/Ruby | partial | 2026-09-08T23:36:53Z | [open](../records/magazines-tryghost-ruby-e22f8483.md) |
 | TryGhost/Source | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-source-b70e1161.md) |
 | TryGhost/Wave | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-wave-7da5b2a4.md) |
 | WantongC/journal-adapt-writing-skill | partial | 2026-05-15T03:18:22Z | [open](../records/magazines-wantongc-journal-adapt-writing-skill-cbbecfea.md) |

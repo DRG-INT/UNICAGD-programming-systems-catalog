@@ -75,7 +75,7 @@ Records: `14`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| karnyadavdev/FontWizard | partial | 2026-09-04T16:14:12Z | [open](../records/font-briefcase-karnyadavdev-fontwizard-1020d3e4.md) |
+| karnyadavdev/FontWizard | partial | 2026-09-06T13:38:28Z | [open](../records/font-briefcase-karnyadavdev-fontwizard-1020d3e4.md) |
 
 ## Maps
 

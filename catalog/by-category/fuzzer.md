@@ -122,7 +122,7 @@ Records: `58`
 | stefanocudini/leaflet-geojson-selector | partial | 2023-08-11T10:14:24Z | [open](../records/maps-stefanocudini-leaflet-geojson-selector-4e7b0158.md) |
 | stefanocudini/leaflet-panel-layers | partial | 2023-08-11T10:14:14Z | [open](../records/maps-stefanocudini-leaflet-panel-layers-1671721d.md) |
 | stefanocudini/leaflet-search | partial | 2024-06-30T08:08:14Z | [open](../records/maps-stefanocudini-leaflet-search-4701fbde.md) |
-| SuperMap/iClient-JavaScript | partial | 2026-08-28T02:47:42Z | [open](../records/maps-supermap-iclient-javascript-599d0b5a.md) |
+| SuperMap/iClient-JavaScript | partial | 2026-09-08T10:37:59Z | [open](../records/maps-supermap-iclient-javascript-599d0b5a.md) |
 | tomickigrzegorz/leaflet-examples | partial | 2026-08-28T16:30:35Z | [open](../records/maps-tomickigrzegorz-leaflet-examples-846ca4d6.md) |
 | Wildhoney/Leaflet.FreeDraw | partial | 2025-05-08T12:03:53Z | [open](../records/maps-wildhoney-leaflet-freedraw-f3c0cfd2.md) |
 

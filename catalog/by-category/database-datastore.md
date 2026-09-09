@@ -392,7 +392,7 @@ Records: `972`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| gofr-dev/gofr | partial | 2026-09-09T01:46:37Z | [open](../records/go-gofr-dev-gofr-9cdbe495.md) |
+| gofr-dev/gofr | unknown | not_a_go_module_path | [open](../records/go-gofr-dev-gofr-9cdbe495.md) |
 
 ## "aim's"
 
@@ -427,7 +427,7 @@ Records: `972`
 | --- | --- | --- | --- |
 | AWS S3 | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/assets-aws-s3-71b62ee1.md) |
 | Cloudflare R2 | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/assets-cloudflare-r2-5b3731f1.md) |
-| stackql/stackql | partial | 2026-09-02T08:28:01Z | [open](../records/assets-stackql-stackql-a79374b7.md) |
+| stackql/stackql | partial | 2026-09-09T01:22:00Z | [open](../records/assets-stackql-stackql-a79374b7.md) |
 
 ## Maps
 
@@ -437,8 +437,8 @@ Records: `972`
 | mevdschee/php-crud-api | partial | 2026-08-28T19:03:50Z | [open](../records/maps-mevdschee-php-crud-api-00034805.md) |
 | osm2pgsql-dev/osm2pgsql | partial | 2026-07-24T16:09:16Z | [open](../records/maps-osm2pgsql-dev-osm2pgsql-14071fed.md) |
 | PostGIS | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/maps-postgis-05acffcb.md) |
-| postgis/postgis | partial | 2026-09-08T07:39:35Z | [open](../records/maps-postgis-postgis-d54a38ad.md) |
-| RediSearch/RediSearch | partial | 2026-09-08T13:16:37Z | [open](../records/maps-redisearch-redisearch-ce79bff1.md) |
+| postgis/postgis | partial | 2026-09-09T04:39:51Z | [open](../records/maps-postgis-postgis-d54a38ad.md) |
+| RediSearch/RediSearch | partial | 2026-09-09T04:13:52Z | [open](../records/maps-redisearch-redisearch-ce79bff1.md) |
 | thanglequoc/vietnamese-provinces-database | partial | 2026-08-31T16:46:02Z | [open](../records/maps-thanglequoc-vietnamese-provinces-database-b10d0772.md) |
 | yunwei37/ZJU-CS-GIS-ClassNotes | unknown | github_search_does_not_include_release_date | [open](../records/maps-yunwei37-zju-cs-gis-classnotes-4f0c1b38.md) |
 

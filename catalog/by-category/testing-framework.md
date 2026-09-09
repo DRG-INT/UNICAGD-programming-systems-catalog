@@ -547,7 +547,7 @@ Records: `621`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | CorentinGS/chess | partial | 2026-08-17T09:40:38Z | [open](../records/go-corentings-chess-b4035143.md) |
-| Ebazhanov/linkedin-skill-assessments-quizzes | partial | 2026-08-29T17:24:40Z | [open](../records/go-ebazhanov-linkedin-skill-assessments-quizzes-05557abd.md) |
+| Ebazhanov/linkedin-skill-assessments-quizzes | unknown | not_a_go_module_path | [open](../records/go-ebazhanov-linkedin-skill-assessments-quizzes-05557abd.md) |
 | gitee.com/mirrors_testem/testem | v3.10.1+incompatible | 2026-08-30T10:08:47.58159Z | [open](../records/go-gitee-com-mirrors-testem-testem-1b4facf3.md) |
 | quii/learn-go-with-tests | partial | 2026-08-26T12:41:47Z | [open](../records/go-quii-learn-go-with-tests-f9d484c4.md) |
 | vxcontrol/pentagi | partial | 2026-09-01T20:28:29Z | [open](../records/go-vxcontrol-pentagi-a8d06839.md) |
@@ -600,7 +600,7 @@ Records: `621`
 | braver/programmingfonts | partial | 2026-08-30T17:46:59Z | [open](../records/assets-braver-programmingfonts-fb0cf6c0.md) |
 | fortitudo-tech/fortitudo.tech | partial | 2026-08-20T07:58:46Z | [open](../records/assets-fortitudo-tech-fortitudo-tech-d827e5a7.md) |
 | marcologous/Open-Sauce-Fonts | partial | 2026-05-11T21:22:36Z | [open](../records/assets-marcologous-open-sauce-fonts-5e251995.md) |
-| VanekPetr/investment-funnel | partial | 2026-09-01T02:14:40Z | [open](../records/assets-vanekpetr-investment-funnel-c0d50ba2.md) |
+| VanekPetr/investment-funnel | partial | 2026-09-08T03:11:53Z | [open](../records/assets-vanekpetr-investment-funnel-c0d50ba2.md) |
 
 ## Maps
 
@@ -616,7 +616,7 @@ Records: `621`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | SerhiiStets/skylab | partial | 2024-02-11T16:25:15Z | [open](../records/space-engines-serhiistets-skylab-92c5740a.md) |
-| TheSpaceDevs/spaceflightnewsapi | partial | 2026-09-08T06:04:47Z | [open](../records/space-engines-thespacedevs-spaceflightnewsapi-044e3573.md) |
+| TheSpaceDevs/spaceflightnewsapi | partial | 2026-09-09T03:37:55Z | [open](../records/space-engines-thespacedevs-spaceflightnewsapi-044e3573.md) |
 
 ## Space Maps
 

@@ -39,9 +39,9 @@ of defect discovery, security review, undefined-state detection, and regression 
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | Eclipse Public License 2.0; https://api.github.com/licenses/epl-2.0; Other; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | MIT |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 

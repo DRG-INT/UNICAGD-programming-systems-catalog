@@ -362,13 +362,13 @@ Records: `400`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| chai2010/advanced-go-programming-book | partial | 2025-10-07T01:08:59Z | [open](../records/go-chai2010-advanced-go-programming-book-44a19e49.md) |
+| chai2010/advanced-go-programming-book | unknown | not_a_go_module_path | [open](../records/go-chai2010-advanced-go-programming-book-44a19e49.md) |
 
 ## Starlark
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| protoconf/protoconf | partial | 2026-09-09T04:03:06Z | [open](../records/starlark-protoconf-protoconf-2d2b3184.md) |
+| protoconf/protoconf | partial | 2026-09-09T05:11:50Z | [open](../records/starlark-protoconf-protoconf-2d2b3184.md) |
 | remarshal-project/remarshal | partial | 2026-08-01T07:20:07Z | [open](../records/starlark-remarshal-project-remarshal-9ffddf4f.md) |
 
 ## "aim's"
@@ -438,7 +438,7 @@ Records: `400`
 | tudelft3d/3dfier | unknown | github_search_does_not_include_release_date | [open](../records/maps-tudelft3d-3dfier-91cab6cf.md) |
 | twpayne/go-geom | unknown | github_search_does_not_include_release_date | [open](../records/maps-twpayne-go-geom-2497b8a5.md) |
 | tyrasd/osmtogeojson | partial | 2026-04-23T02:49:39Z | [open](../records/maps-tyrasd-osmtogeojson-b32dfbd2.md) |
-| zcreativelabs/react-simple-maps | partial | 2026-09-05T12:50:45Z | [open](../records/maps-zcreativelabs-react-simple-maps-3ed50e9b.md) |
+| zcreativelabs/react-simple-maps | partial | 2026-09-08T18:54:23Z | [open](../records/maps-zcreativelabs-react-simple-maps-3ed50e9b.md) |
 
 ## Space Engines
 
@@ -517,7 +517,7 @@ Records: `400`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| kydlikebtc/awesome-grokbot | partial | 2026-09-08T00:12:18Z | [open](../records/catalogs-kydlikebtc-awesome-grokbot-8e8ccae7.md) |
+| kydlikebtc/awesome-grokbot | partial | 2026-09-09T01:48:49Z | [open](../records/catalogs-kydlikebtc-awesome-grokbot-8e8ccae7.md) |
 
 ## Assembly
 

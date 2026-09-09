@@ -176,7 +176,7 @@ Records: `325`
 | [pothosware/SoapySDRPlay2](../records/satcom-satellites-pothosware-soapysdrplay2-17485e30.md) | partial | 2021-11-21T18:32:54Z | registry-derived |
 | [pothosware/SoapySDRPlay3](../records/satcom-satellites-pothosware-soapysdrplay3-16bfd183.md) | partial | 2026-09-04T21:23:55Z | registry-derived |
 | [pothosware/SoapyUHD](../records/satcom-satellites-pothosware-soapyuhd-e79845ce.md) | partial | 2026-08-06T19:12:39Z | registry-derived |
-| [spectregrams/spectre](../records/satcom-satellites-spectregrams-spectre-77b8722d.md) | partial | 2026-08-31T21:52:46Z | registry-derived |
+| [spectregrams/spectre](../records/satcom-satellites-spectregrams-spectre-77b8722d.md) | partial | 2026-09-08T22:57:08Z | registry-derived |
 | [The-Osint-Toolbox/Geolocation-OSINT](../records/satcom-satellites-the-osint-toolbox-geolocation-osint-51d3da78.md) | partial | 2026-05-24T06:52:19Z | registry-derived |
 | [tomtaylor/satellite-eyes](../records/satcom-satellites-tomtaylor-satellite-eyes-502e7da9.md) | partial | 2026-08-12T08:25:32Z | registry-derived |
 | [up42/up42-py](../records/satcom-satellites-up42-up42-py-ed525448.md) | partial | 2026-08-31T09:09:58Z | registry-derived |

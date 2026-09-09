@@ -32,7 +32,7 @@ tooling, code generation, static analysis, and source transformation.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-08T19:27:18Z | gh search repos topic:astrodynamics stars:>20 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-08T21:59:42Z | gh search repos topic:astrodynamics stars:>20 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -57,7 +57,7 @@ tooling, code generation, static analysis, and source transformation.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-08 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:astrodynamics stars:>20", "retrieved": "2026-09-08", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-09 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:astrodynamics stars:>20", "retrieved": "2026-09-09", "status": "forge-cli-derived"}` |
 
 </details>
 

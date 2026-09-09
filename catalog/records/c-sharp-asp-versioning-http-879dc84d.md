@@ -40,7 +40,7 @@ communication, clients/servers, protocol handling, and edge integration.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT; https://www.nuget.org/packages/Asp.Versioning.Http/10.2.3/license |
+| Evidence | Other; MIT; https://www.nuget.org/packages/Asp.Versioning.Http/10.2.3/license |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

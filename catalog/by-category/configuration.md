@@ -181,7 +181,7 @@ Records: `132`
 | adobe-fonts/source-sans | partial | 2025-10-28T14:26:26Z | [open](../records/font-briefcase-adobe-fonts-source-sans-48ad90f9.md) |
 | ahatem/IoskeleyMono | partial | 2026-09-01T17:30:01Z | [open](../records/font-briefcase-ahatem-ioskeleymono-31384029.md) |
 | Fontconfig | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/font-briefcase-fontconfig-146d7b8b.md) |
-| nuxt/fonts | partial | 2026-09-04T14:37:27Z | [open](../records/font-briefcase-nuxt-fonts-5b0f0fdd.md) |
+| nuxt/fonts | partial | 2026-09-08T23:28:11Z | [open](../records/font-briefcase-nuxt-fonts-5b0f0fdd.md) |
 | owl4ce/dotfiles | partial | 2022-09-29T22:43:46Z | [open](../records/font-briefcase-owl4ce-dotfiles-2e03ef38.md) |
 | unawarepatien/Installed-Fonts-Backup-Tools | partial | 2026-08-28T00:20:58Z | [open](../records/font-briefcase-unawarepatien-installed-fonts-backup-tools-c7184f6d.md) |
 

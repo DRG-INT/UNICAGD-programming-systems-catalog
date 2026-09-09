@@ -154,7 +154,7 @@ Records: `109`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| agit8or1/clientst0r | partial | 2026-09-04T12:47:11Z | [open](../records/assets-agit8or1-clientst0r-68b602b6.md) |
+| agit8or1/clientst0r | partial | 2026-09-07T13:48:33Z | [open](../records/assets-agit8or1-clientst0r-68b602b6.md) |
 | Godot Import Process | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/assets-godot-import-process-02dc268a.md) |
 | varchashva/LetsMapYourNetwork | partial | 2022-01-06T22:33:41Z | [open](../records/assets-varchashva-letsmapyournetwork-17553d39.md) |
 
@@ -162,7 +162,7 @@ Records: `109`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Esri/arcgis-python-api | partial | 2026-08-06T20:34:15Z | [open](../records/maps-esri-arcgis-python-api-81b2ba91.md) |
+| Esri/arcgis-python-api | partial | 2026-09-08T22:12:31Z | [open](../records/maps-esri-arcgis-python-api-81b2ba91.md) |
 | OSM Wiki Map Features | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/maps-osm-wiki-map-features-2e7d7417.md) |
 | shortbread-tiles/shortbread-docs | partial | 2026-09-02T20:17:37Z | [open](../records/maps-shortbread-tiles-shortbread-docs-0c976170.md) |
 
@@ -249,7 +249,7 @@ Records: `109`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| TryGhost/Ease | partial | 2026-09-08T02:38:26Z | [open](../records/magazines-tryghost-ease-4f961538.md) |
+| TryGhost/Ease | partial | 2026-09-08T23:36:56Z | [open](../records/magazines-tryghost-ease-4f961538.md) |
 
 ## PHP
 

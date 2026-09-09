@@ -226,16 +226,16 @@ Records: `224`
 | --- | --- | --- | --- |
 | aminabedi68/Estedad | partial | 2026-07-19T12:53:04Z | [open](../records/font-briefcase-aminabedi68-estedad-f0193b1c.md) |
 | fabiocaccamo/python-fontbro | partial | 2026-09-02T10:13:22Z | [open](../records/font-briefcase-fabiocaccamo-python-fontbro-05032120.md) |
-| FlutterGen/flutter_gen | partial | 2026-08-29T22:07:26Z | [open](../records/font-briefcase-fluttergen-flutter-gen-f75e7386.md) |
+| FlutterGen/flutter_gen | partial | 2026-09-09T00:25:54Z | [open](../records/font-briefcase-fluttergen-flutter-gen-f75e7386.md) |
 | MohamadDarvishi/Arad | partial | 2026-08-14T14:09:07Z | [open](../records/font-briefcase-mohamaddarvishi-arad-7f427b75.md) |
 
 ## Assets
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| FlutterGen/flutter_gen | partial | 2026-08-29T22:07:26Z | [open](../records/assets-fluttergen-flutter-gen-9d76f93b.md) |
+| FlutterGen/flutter_gen | partial | 2026-09-09T00:25:54Z | [open](../records/assets-fluttergen-flutter-gen-9d76f93b.md) |
 | grokability/jamf2snipe | partial | 2026-04-21T15:04:06Z | [open](../records/assets-grokability-jamf2snipe-ecf4667c.md) |
-| grokability/snipe-it | partial | 2026-09-02T21:16:37Z | [open](../records/assets-grokability-snipe-it-46ebe61f.md) |
+| grokability/snipe-it | partial | 2026-09-08T19:52:33Z | [open](../records/assets-grokability-snipe-it-46ebe61f.md) |
 | locus84/Locus-Bundle-System | partial | 2024-04-01T07:25:14Z | [open](../records/assets-locus84-locus-bundle-system-464ddf27.md) |
 | WowDevTools/Everlook | partial | 2026-04-14T01:12:36Z | [open](../records/assets-wowdevtools-everlook-935bf60a.md) |
 
@@ -246,7 +246,7 @@ Records: `224`
 | bennylope/pygeocodio | partial | 2025-06-18T14:43:06Z | [open](../records/maps-bennylope-pygeocodio-39b32fe5.md) |
 | chadly/Geocoding.net | partial | 2024-10-11T13:12:11Z | [open](../records/maps-chadly-geocoding-net-2489129f.md) |
 | codingsince1985/geo-golang | partial | 2026-04-23T01:00:38Z | [open](../records/maps-codingsince1985-geo-golang-c71d4405.md) |
-| earthaccess-dev/earthaccess | partial | 2026-09-05T17:57:03Z | [open](../records/maps-earthaccess-dev-earthaccess-9eaebdbc.md) |
+| earthaccess-dev/earthaccess | partial | 2026-09-08T19:14:11Z | [open](../records/maps-earthaccess-dev-earthaccess-9eaebdbc.md) |
 | Esri/awesome-arcgis-developers | partial | 2026-04-14T09:15:02Z | [open](../records/maps-esri-awesome-arcgis-developers-30fc62ac.md) |
 | GIScience/openrouteservice | partial | 2026-09-08T15:54:45Z | [open](../records/maps-giscience-openrouteservice-a7ed6de4.md) |
 | googlemaps/js-samples | partial | 2026-06-24T07:10:12Z | [open](../records/maps-googlemaps-js-samples-069a80da.md) |
@@ -268,7 +268,7 @@ Records: `224`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ansys/pystk | partial | 2026-09-08T17:54:56Z | [open](../records/space-engines-ansys-pystk-98082b8f.md) |
+| ansys/pystk | partial | 2026-09-09T04:03:47Z | [open](../records/space-engines-ansys-pystk-98082b8f.md) |
 
 ## Space Shuttles
 

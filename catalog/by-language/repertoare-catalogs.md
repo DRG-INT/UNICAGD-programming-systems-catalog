@@ -49,7 +49,7 @@ Records: `189`
 | [Malfou/Violinfind](../records/repertoare-catalogs-malfou-violinfind-a6c6d90d.md) | partial | 2026-09-02T19:49:02Z | registry-derived |
 | [marshallswain/song-book-api](../records/repertoare-catalogs-marshallswain-song-book-api-9e3ddeb4.md) | partial | 2017-12-14T17:23:16Z | registry-derived |
 | [marshallswain/song-book-vue](../records/repertoare-catalogs-marshallswain-song-book-vue-c793b244.md) | partial | 2017-12-23T23:56:06Z | registry-derived |
-| [mashu/LineageCollapse.jl](../records/repertoare-catalogs-mashu-lineagecollapse-jl-6b1c71d0.md) | partial | 2026-05-19T05:17:07Z | registry-derived |
+| [mashu/LineageCollapse.jl](../records/repertoare-catalogs-mashu-lineagecollapse-jl-6b1c71d0.md) | partial | 2026-09-08T10:43:34Z | registry-derived |
 | [mattbertorg1/21m-410-vocal-repertoire-and-performance-african-american-composers_7007df1d8dba43548145d1c67a0fb499](../records/repertoare-catalogs-mattbertorg1-21m-410-vocal-repertoire-and-performance-african-american-composers-7007df1d8dba43548145d1c67a0fb499-88e6858c.md) | partial | 2021-04-26T17:58:53Z | registry-derived |
 | [ncreighton/music-practice-instrument-tracker-notion](../records/repertoare-catalogs-ncreighton-music-practice-instrument-tracker-notion-b6d1b327.md) | partial | 2026-05-23T21:38:53Z | registry-derived |
 | [ouvroir/perfs](../records/repertoare-catalogs-ouvroir-perfs-fe7a5eca.md) | partial | 2022-06-20T22:00:17Z | registry-derived |
@@ -160,7 +160,7 @@ Records: `189`
 | --- | --- | --- | --- |
 | [abhiramAjay/Self-Healing-Repertoire-Engine](../records/repertoare-catalogs-abhiramajay-self-healing-repertoire-engine-afff2269.md) | partial | 2026-02-05T07:43:18Z | registry-derived |
 | [gastroph/Rock-Band-DLC---Leaderboards-App-for-Android](../records/repertoare-catalogs-gastroph-rock-band-dlc-leaderboards-app-for-android-35abaa1b.md) | partial | 2010-04-16T20:13:37Z | registry-derived |
-| [heylabs-co/dev-tools-portal](../records/repertoare-catalogs-heylabs-co-dev-tools-portal-7c271bc4.md) | partial | 2026-09-08T02:14:13Z | registry-derived |
+| [heylabs-co/dev-tools-portal](../records/repertoare-catalogs-heylabs-co-dev-tools-portal-7c271bc4.md) | partial | 2026-09-09T02:24:24Z | registry-derived |
 | [jasondentler/wild-catalog](../records/repertoare-catalogs-jasondentler-wild-catalog-f314f00b.md) | partial | 2026-07-05T03:54:55Z | registry-derived |
 | [pesnik/flask-repertoire](../records/repertoare-catalogs-pesnik-flask-repertoire-569c53ed.md) | partial | 2025-03-13T21:08:48Z | registry-derived |
 | [pesnik/gin-repertoire](../records/repertoare-catalogs-pesnik-gin-repertoire-59474943.md) | partial | 2025-03-13T23:17:07Z | registry-derived |
@@ -178,7 +178,7 @@ Records: `189`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [Infinitegameworks/Paper2DPlus](../records/repertoare-catalogs-infinitegameworks-paper2dplus-7db476b1.md) | partial | 2026-09-04T19:49:41Z | registry-derived |
-| [korux-ai/korux-repertoire](../records/repertoare-catalogs-korux-ai-korux-repertoire-0bd1045a.md) | partial | 2026-09-07T14:41:21Z | registry-derived |
+| [korux-ai/korux-repertoire](../records/repertoare-catalogs-korux-ai-korux-repertoire-0bd1045a.md) | partial | 2026-09-08T15:32:33Z | registry-derived |
 | [thiagocorreanet/mestre-yoda](../records/repertoare-catalogs-thiagocorreanet-mestre-yoda-6b0b2efd.md) | partial | 2026-08-15T21:15:19Z | registry-derived |
 
 ### Jit Vm
@@ -221,7 +221,7 @@ Records: `189`
 | [adityacodes30/catalog-scoring-ondc](../records/repertoare-catalogs-adityacodes30-catalog-scoring-ondc-eed2618c.md) | partial | 2024-06-23T17:33:29Z | registry-derived |
 | [AdityaLad2004/Catalog-Score](../records/repertoare-catalogs-adityalad2004-catalog-score-1c228719.md) | partial | 2024-02-10T18:28:30Z | registry-derived |
 | [alphaparkinc/genpark-catalog-enrichment-skill](../records/repertoare-catalogs-alphaparkinc-genpark-catalog-enrichment-skill-9442da58.md) | partial | 2026-07-10T05:51:52Z | registry-derived |
-| [Arnon-hs/open-source](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) | partial | 2026-09-08T07:14:38Z | registry-derived |
+| [Arnon-hs/open-source](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) | partial | 2026-09-09T05:18:53Z | registry-derived |
 | [CHagarty/scorecard-catalogue](../records/repertoare-catalogs-chagarty-scorecard-catalogue-ac87b7bd.md) | partial | 2025-07-11T00:33:16Z | registry-derived |
 | [Chistera-Scoring/services-catalog](../records/repertoare-catalogs-chistera-scoring-services-catalog-59fbb312.md) | partial | 2023-11-27T10:50:20Z | registry-derived |
 | [Eswaraiahsapram/scorecard-catalog](../records/repertoare-catalogs-eswaraiahsapram-scorecard-catalog-92541430.md) | partial | 2025-09-02T05:54:30Z | registry-derived |
@@ -292,7 +292,7 @@ Records: `189`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [forbiddenlink/trace](../records/repertoare-catalogs-forbiddenlink-trace-81d4917b.md) | partial | 2026-09-08T04:23:20Z | registry-derived |
+| [forbiddenlink/trace](../records/repertoare-catalogs-forbiddenlink-trace-81d4917b.md) | partial | 2026-09-08T19:00:24Z | registry-derived |
 
 ### Project Scaffolding
 
@@ -340,7 +340,7 @@ Records: `189`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [Agam3108/Catalogue-Scanning-App](../records/repertoare-catalogs-agam3108-catalogue-scanning-app-ae967b87.md) | partial | 2024-03-23T09:53:13Z | registry-derived |
-| [glitchwerks/claude-wayfinder](../records/repertoare-catalogs-glitchwerks-claude-wayfinder-f0e59761.md) | partial | 2026-09-06T05:44:38Z | registry-derived |
+| [glitchwerks/claude-wayfinder](../records/repertoare-catalogs-glitchwerks-claude-wayfinder-f0e59761.md) | partial | 2026-09-09T00:55:09Z | registry-derived |
 | [HusseinBakri/PythonFinancialRepertoire](../records/repertoare-catalogs-husseinbakri-pythonfinancialrepertoire-47b61516.md) | partial | 2020-02-23T11:17:53Z | registry-derived |
 | [jayesh265/classifying_songs_based_on_audio_data](../records/repertoare-catalogs-jayesh265-classifying-songs-based-on-audio-data-c26a05ff.md) | partial | 2020-03-17T05:32:14Z | registry-derived |
 | [johnvteixido/etherlens](../records/repertoare-catalogs-johnvteixido-etherlens-c7b3a681.md) | partial | 2026-06-12T21:21:22Z | registry-derived |

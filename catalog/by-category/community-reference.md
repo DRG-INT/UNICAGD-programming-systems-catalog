@@ -171,9 +171,9 @@ Records: `118`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | brabadu/awesome-fonts | partial | 2026-07-26T05:01:07Z | [open](../records/font-briefcase-brabadu-awesome-fonts-6c975d56.md) |
-| itgalaxy/webfont | partial | 2026-09-04T00:36:17Z | [open](../records/font-briefcase-itgalaxy-webfont-b458029c.md) |
+| itgalaxy/webfont | partial | 2026-09-07T03:03:32Z | [open](../records/font-briefcase-itgalaxy-webfont-b458029c.md) |
 | Jolg42/awesome-typography | partial | 2026-05-28T20:27:55Z | [open](../records/font-briefcase-jolg42-awesome-typography-1255dfe7.md) |
-| ryanoasis/nerd-fonts | partial | 2026-09-03T23:42:55Z | [open](../records/font-briefcase-ryanoasis-nerd-fonts-bbefc139.md) |
+| ryanoasis/nerd-fonts | partial | 2026-09-05T16:32:47Z | [open](../records/font-briefcase-ryanoasis-nerd-fonts-bbefc139.md) |
 
 ## Assets
 

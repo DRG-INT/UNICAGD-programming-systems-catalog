@@ -777,9 +777,9 @@ Records: `1056`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ChimeraCoder/anaconda | partial | 2024-01-28T15:07:20Z | [open](../records/go-chimeracoder-anaconda-6a61e747.md) |
-| g3n/engine | partial | 2026-08-01T16:23:05Z | [open](../records/go-g3n-engine-0b367039.md) |
-| go-resty/resty | partial | 2026-09-07T01:30:26Z | [open](../records/go-go-resty-resty-9cfada1b.md) |
+| ChimeraCoder/anaconda | unknown | not_a_go_module_path | [open](../records/go-chimeracoder-anaconda-6a61e747.md) |
+| g3n/engine | unknown | not_a_go_module_path | [open](../records/go-g3n-engine-0b367039.md) |
+| go-resty/resty | unknown | not_a_go_module_path | [open](../records/go-go-resty-resty-9cfada1b.md) |
 | redis/go-redis | partial | 2026-09-08T16:26:55Z | [open](../records/go-redis-go-redis-fe715a04.md) |
 | spicetify/cli | partial | 2026-09-06T16:15:27Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
 | teler-sh/teler-waf | partial | 2025-03-18T01:40:27Z | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
@@ -801,7 +801,7 @@ Records: `1056`
 | --- | --- | --- | --- |
 | Model Context Protocol | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-model-context-protocol-9e0d563f.md) |
 | OpenAI API | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-openai-api-2f1d86e4.md) |
-| OtterMind/Chat2DB | partial | 2026-09-09T03:43:28Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
+| OtterMind/Chat2DB | partial | 2026-09-09T04:50:10Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
 
 ## APIs
 
@@ -885,7 +885,7 @@ Records: `1056`
 | aitrados/aitrados-api | partial | 2026-01-30T04:57:02Z | [open](../records/assets-aitrados-aitrados-api-5d44cc6c.md) |
 | freeCodeCamp/assets | partial | 2020-02-20T09:37:41Z | [open](../records/assets-freecodecamp-assets-7ebe91ce.md) |
 | jz5/FORM-UDPGothic | partial | 2025-05-27T02:58:00Z | [open](../records/assets-jz5-form-udpgothic-dd95d908.md) |
-| netalertx/NetAlertX | partial | 2026-09-04T14:19:56Z | [open](../records/assets-netalertx-netalertx-6a9014bd.md) |
+| netalertx/NetAlertX | partial | 2026-09-08T22:08:36Z | [open](../records/assets-netalertx-netalertx-6a9014bd.md) |
 
 ## Maps
 

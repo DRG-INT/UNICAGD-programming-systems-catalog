@@ -4163,11 +4163,11 @@ Records: `5834`
 | yst | 0.7.2 | 2023-02-04T19:31:44Z | [open](../records/haskell-yst-e5c97f24.md) |
 | Z-Data | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-data-ad2a6ebb.md) |
 | Z-IO | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-io-e37841a7.md) |
-| zeolite-lang | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeolite-lang-121149cb.md) |
+| zeolite-lang | 0.24.1.0 | 2024-01-08T01:25:04Z | [open](../records/haskell-zeolite-lang-121149cb.md) |
 | zeromq4-haskell | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
-| zlib | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zlib-2a0db053.md) |
-| zoom-cache | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoom-cache-f1ef611e.md) |
-| zoovisitor | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoovisitor-25533034.md) |
+| zlib | 0.7.1.1 | 2025-09-06T12:21:07Z | [open](../records/haskell-zlib-2a0db053.md) |
+| zoom-cache | 1.2.1.6 | 2012-12-07T00:08:12Z | [open](../records/haskell-zoom-cache-f1ef611e.md) |
+| zoovisitor | 0.2.7.0 | 2024-05-24T09:11:31Z | [open](../records/haskell-zoovisitor-25533034.md) |
 
 ## Octave
 
@@ -4370,7 +4370,7 @@ Records: `5834`
 | codeberg.org/go-hep/hep.git | v0.27.0 | 2026-08-30T10:55:18.161122Z | [open](../records/go-codeberg-org-go-hep-hep-git-29878e71.md) |
 | codeberg.org/rimu/pyfedi | v1.6.9 | 2026-08-30T16:29:43.672078Z | [open](../records/go-codeberg-org-rimu-pyfedi-53519dff.md) |
 | CycloneDX/cyclonedx-gomod | partial | 2026-09-08T09:55:35Z | [open](../records/go-cyclonedx-cyclonedx-gomod-24572c1d.md) |
-| darius-khll/golang-developer-roadmap | partial | 2023-02-13T08:08:20Z | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
+| darius-khll/golang-developer-roadmap | unknown | not_a_go_module_path | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
 | gbrlsnchs/jwt | partial | 2026-02-20T19:55:17Z | [open](../records/go-gbrlsnchs-jwt-9cb26411.md) |
 | gethugothemes/hugo-modules | partial | 2026-07-01T05:48:56Z | [open](../records/go-gethugothemes-hugo-modules-1f48ce7f.md) |
 | git.scuroneko.dev/ScuroNeko/Laniakea | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-git-scuroneko-dev-scuroneko-laniakea-6c4ff9e7.md) |
@@ -4394,8 +4394,8 @@ Records: `5834`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-09T03:03:42Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
-| mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
+| Infisical/infisical | unknown | not_a_go_module_path | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| mustafaturan/bus | unknown | not_a_go_module_path | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
 | Narasimha1997/ratelimiter | partial | 2022-10-31T12:07:17Z | [open](../records/go-narasimha1997-ratelimiter-5630e795.md) |
@@ -4594,7 +4594,7 @@ Records: `5834`
 | beizhedenglong/weird-fonts | partial | 2019-05-22T13:30:26Z | [open](../records/font-briefcase-beizhedenglong-weird-fonts-57f42639.md) |
 | Buernia/Tiejili | partial | 2023-01-31T18:42:56Z | [open](../records/font-briefcase-buernia-tiejili-288f3a91.md) |
 | Buernia/Zhudou-Sans | partial | 2023-04-09T04:11:43Z | [open](../records/font-briefcase-buernia-zhudou-sans-50684820.md) |
-| calcom/sans | partial | 2026-09-04T08:40:20Z | [open](../records/font-briefcase-calcom-sans-1421e664.md) |
+| calcom/sans | partial | 2026-09-08T19:42:44Z | [open](../records/font-briefcase-calcom-sans-1421e664.md) |
 | Chenyu-otf/chenyuluoyan_thin | partial | 2025-02-28T15:06:02Z | [open](../records/font-briefcase-chenyu-otf-chenyuluoyan-thin-6aa77745.md) |
 | chiron-fonts/chiron-sung-hk | partial | 2026-02-15T09:30:30Z | [open](../records/font-briefcase-chiron-fonts-chiron-sung-hk-8c8e7331.md) |
 | chrissimpkins/codeface | partial | 2020-09-19T17:07:57Z | [open](../records/font-briefcase-chrissimpkins-codeface-8746bc77.md) |
@@ -4606,17 +4606,17 @@ Records: `5834`
 | djrrb/Bungee | partial | 2026-02-01T15:17:57Z | [open](../records/font-briefcase-djrrb-bungee-5e20a7c2.md) |
 | dy/wavefont | partial | 2026-09-03T00:14:24Z | [open](../records/font-briefcase-dy-wavefont-14e01cd7.md) |
 | eigilnikolajsen/commit-mono | partial | 2025-09-24T12:10:17Z | [open](../records/font-briefcase-eigilnikolajsen-commit-mono-b2244e11.md) |
-| expo/google-fonts | partial | 2026-09-04T15:18:01Z | [open](../records/font-briefcase-expo-google-fonts-5303266a.md) |
+| expo/google-fonts | partial | 2026-09-06T08:23:04Z | [open](../records/font-briefcase-expo-google-fonts-5303266a.md) |
 | femmebot/google-type | partial | 2026-06-02T21:25:13Z | [open](../records/font-briefcase-femmebot-google-type-3cac29e2.md) |
 | Figma-Linux/figma-linux-font-helper | partial | 2024-03-06T14:28:49Z | [open](../records/font-briefcase-figma-linux-figma-linux-font-helper-27124cce.md) |
 | Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project | partial | 2026-08-05T12:41:45Z | [open](../records/font-briefcase-fitzgerald-porthmouth-koenigsegg-plangothic-project-502833e0.md) |
 | floriankarsten/space-grotesk | partial | 2023-03-12T21:23:44Z | [open](../records/font-briefcase-floriankarsten-space-grotesk-5a1fe2d6.md) |
 | FontManager/font-manager | partial | 2025-09-24T15:51:58Z | [open](../records/font-briefcase-fontmanager-font-manager-c450551a.md) |
-| fonttools/fonttools | partial | 2026-09-02T13:54:23Z | [open](../records/font-briefcase-fonttools-fonttools-d2c7a573.md) |
+| fonttools/fonttools | partial | 2026-09-08T15:54:20Z | [open](../records/font-briefcase-fonttools-fonttools-d2c7a573.md) |
 | fontwr/fontwr | partial | 2020-10-30T09:21:26Z | [open](../records/font-briefcase-fontwr-fontwr-85b28f4b.md) |
 | funbox/beatrix | partial | 2023-07-19T02:40:51Z | [open](../records/font-briefcase-funbox-beatrix-c56c8bc4.md) |
 | Gaafar/dev-fonts | partial | 2023-01-06T03:07:36Z | [open](../records/font-briefcase-gaafar-dev-fonts-f0a8c10d.md) |
-| googlefonts/gftools | partial | 2026-09-04T15:04:13Z | [open](../records/font-briefcase-googlefonts-gftools-094415d2.md) |
+| googlefonts/gftools | partial | 2026-09-07T18:27:00Z | [open](../records/font-briefcase-googlefonts-gftools-094415d2.md) |
 | Happyesss/assignme | partial | 2025-07-02T21:07:56Z | [open](../records/font-briefcase-happyesss-assignme-58c3230f.md) |
 | hckiang/font-new-heterodox-mono | partial | 2024-01-12T13:33:18Z | [open](../records/font-briefcase-hckiang-font-new-heterodox-mono-27da0bc9.md) |
 | hypernewbie/VEFontCache | partial | 2026-05-28T07:42:18Z | [open](../records/font-briefcase-hypernewbie-vefontcache-305bec56.md) |
@@ -4642,7 +4642,7 @@ Records: `5834`
 | nicoverbruggen/kobo-font-fix | partial | 2026-07-16T19:16:58Z | [open](../records/font-briefcase-nicoverbruggen-kobo-font-fix-2c1a2956.md) |
 | noirblancrouge/Formera | partial | 2025-02-14T21:13:42Z | [open](../records/font-briefcase-noirblancrouge-formera-7d19b65e.md) |
 | noirblancrouge/YoungSerif | partial | 2026-05-19T12:03:20Z | [open](../records/font-briefcase-noirblancrouge-youngserif-015c3a48.md) |
-| nuxt-modules/google-fonts | partial | 2026-09-03T23:38:17Z | [open](../records/font-briefcase-nuxt-modules-google-fonts-44d6d736.md) |
+| nuxt-modules/google-fonts | partial | 2026-09-07T20:19:21Z | [open](../records/font-briefcase-nuxt-modules-google-fonts-44d6d736.md) |
 | ollimeier/font-tools-page | partial | 2026-02-21T14:32:21Z | [open](../records/font-briefcase-ollimeier-font-tools-page-f6a26bf1.md) |
 | paprikka/433 | partial | 2025-07-24T18:05:37Z | [open](../records/font-briefcase-paprikka-433-da2a9760.md) |
 | Partyb0ssishere/cef-fonts-cjk | partial | 2026-02-16T12:10:14Z | [open](../records/font-briefcase-partyb0ssishere-cef-fonts-cjk-474c5d7c.md) |
@@ -4664,8 +4664,8 @@ Records: `5834`
 | SyrianTurk/SyrianSegoe | partial | 2026-06-10T18:32:46Z | [open](../records/font-briefcase-syrianturk-syriansegoe-b1dcd551.md) |
 | system-fonts/modern-font-stacks | partial | 2026-03-10T21:21:49Z | [open](../records/font-briefcase-system-fonts-modern-font-stacks-8131abcb.md) |
 | takushun-wu/WenJinMincho | partial | 2026-08-21T05:37:59Z | [open](../records/font-briefcase-takushun-wu-wenjinmincho-e7aa351c.md) |
-| TakWolf/ark-pixel-font | partial | 2026-09-02T12:02:50Z | [open](../records/font-briefcase-takwolf-ark-pixel-font-366f363d.md) |
-| TakWolf/fusion-pixel-font | partial | 2026-09-02T12:03:37Z | [open](../records/font-briefcase-takwolf-fusion-pixel-font-792cc8c5.md) |
+| TakWolf/ark-pixel-font | partial | 2026-09-08T18:32:08Z | [open](../records/font-briefcase-takwolf-ark-pixel-font-366f363d.md) |
+| TakWolf/fusion-pixel-font | partial | 2026-09-08T18:33:09Z | [open](../records/font-briefcase-takwolf-fusion-pixel-font-792cc8c5.md) |
 | tam5/util-font-patcher | partial | 2024-12-04T00:35:48Z | [open](../records/font-briefcase-tam5-util-font-patcher-af4460a5.md) |
 | thedemons/merge_color_emoji_font | partial | 2022-02-01T11:19:33Z | [open](../records/font-briefcase-thedemons-merge-color-emoji-font-8382491f.md) |
 | thi-ng/font | partial | 2026-05-29T15:11:16Z | [open](../records/font-briefcase-thi-ng-font-e81e8165.md) |
@@ -4694,9 +4694,9 @@ Records: `5834`
 | Chenyu-otf/chenyuluoyan_thin | partial | 2025-02-28T15:06:02Z | [open](../records/assets-chenyu-otf-chenyuluoyan-thin-17cf141a.md) |
 | chrissimpkins/codeface | partial | 2020-09-19T17:07:57Z | [open](../records/assets-chrissimpkins-codeface-3d2581d5.md) |
 | coollabsio/fonts | partial | 2026-01-16T18:37:01Z | [open](../records/assets-coollabsio-fonts-296495e3.md) |
-| DataGerry/DataGerry | partial | 2026-09-04T12:14:52Z | [open](../records/assets-datagerry-datagerry-dd6aa820.md) |
+| DataGerry/DataGerry | partial | 2026-09-08T12:36:38Z | [open](../records/assets-datagerry-datagerry-dd6aa820.md) |
 | Draneria/Metallics-by-Draneria_Krita-Brushes | partial | 2025-04-13T11:54:36Z | [open](../records/assets-draneria-metallics-by-draneria-krita-brushes-e6965ee3.md) |
-| edmozley/freeitsm | partial | 2026-09-04T14:14:54Z | [open](../records/assets-edmozley-freeitsm-6938af39.md) |
+| edmozley/freeitsm | partial | 2026-09-08T21:58:41Z | [open](../records/assets-edmozley-freeitsm-6938af39.md) |
 | EliteQuant/EliteQuant | partial | 2024-06-15T16:17:39Z | [open](../records/assets-elitequant-elitequant-ccb04f35.md) |
 | ErfanMo77/gltf-research-scenes | partial | 2026-08-31T21:53:42Z | [open](../records/assets-erfanmo77-gltf-research-scenes-9419053a.md) |
 | expo/google-fonts | partial | 2026-08-26T16:18:22Z | [open](../records/assets-expo-google-fonts-27084e7a.md) |
@@ -4704,7 +4704,7 @@ Records: `5834`
 | Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project | partial | 2026-08-05T12:41:45Z | [open](../records/assets-fitzgerald-porthmouth-koenigsegg-plangothic-project-5165c4c3.md) |
 | FontManager/font-manager | partial | 2025-09-24T15:51:58Z | [open](../records/assets-fontmanager-font-manager-b4a35494.md) |
 | fonttools/fonttools | partial | 2026-09-04T21:30:58Z | [open](../records/assets-fonttools-fonttools-a4b5432b.md) |
-| frappe/erpnext | partial | 2026-09-04T14:39:17Z | [open](../records/assets-frappe-erpnext-d9e1ae16.md) |
+| frappe/erpnext | partial | 2026-09-09T05:17:43Z | [open](../records/assets-frappe-erpnext-d9e1ae16.md) |
 | Gaafar/dev-fonts | partial | 2023-01-06T03:07:36Z | [open](../records/assets-gaafar-dev-fonts-6d11b6eb.md) |
 | googlefonts/gftools | partial | 2026-09-01T11:33:41Z | [open](../records/assets-googlefonts-gftools-a07fff0e.md) |
 | hiqdev/asset-packagist | partial | 2026-09-01T12:10:46Z | [open](../records/assets-hiqdev-asset-packagist-ef04a544.md) |
@@ -4720,13 +4720,13 @@ Records: `5834`
 | levinzonr/godot-asset-placer | partial | 2026-08-25T20:19:53Z | [open](../records/assets-levinzonr-godot-asset-placer-8d39dc8a.md) |
 | lmueller27/Fusion360PatternsAndTextures | partial | 2024-09-10T13:50:22Z | [open](../records/assets-lmueller27-fusion360patternsandtextures-781b8065.md) |
 | lzhbrian/Clothes-3D | partial | 2020-04-16T16:04:57Z | [open](../records/assets-lzhbrian-clothes-3d-4979afed.md) |
-| marcelscruz/dev-resources | partial | 2026-09-04T17:07:03Z | [open](../records/assets-marcelscruz-dev-resources-f1007139.md) |
+| marcelscruz/dev-resources | partial | 2026-09-08T14:43:25Z | [open](../records/assets-marcelscruz-dev-resources-f1007139.md) |
 | maria-rcks/dinorip | partial | 2026-06-28T19:46:38Z | [open](../records/assets-maria-rcks-dinorip-3322f81b.md) |
 | MassEffectModder/MassEffectModder | partial | 2026-04-02T20:46:15Z | [open](../records/assets-masseffectmodder-masseffectmodder-f546ad41.md) |
 | maxartz15/TextureCombiner | partial | 2021-01-24T16:32:48Z | [open](../records/assets-maxartz15-texturecombiner-33f459d2.md) |
 | mngshm/rxfetch | partial | 2025-07-25T14:39:44Z | [open](../records/assets-mngshm-rxfetch-4c26ed0b.md) |
 | morgan3d/quadplay | partial | 2026-08-09T17:28:17Z | [open](../records/assets-morgan3d-quadplay-717f54c6.md) |
-| myssal/Reverse-1999-CN-Asset | partial | 2026-08-15T03:41:50Z | [open](../records/assets-myssal-reverse-1999-cn-asset-e867fc60.md) |
+| myssal/Reverse-1999-CN-Asset | partial | 2026-09-05T12:03:22Z | [open](../records/assets-myssal-reverse-1999-cn-asset-e867fc60.md) |
 | nbyiansec/sskit | partial | 2026-08-04T02:59:33Z | [open](../records/assets-nbyiansec-sskit-5a2ec66f.md) |
 | nenjack/pixi-stats | partial | 2026-03-26T07:08:54Z | [open](../records/assets-nenjack-pixi-stats-38b50f1c.md) |
 | NextLevel/NextLevelSessionExporter | partial | 2026-08-07T18:44:11Z | [open](../records/assets-nextlevel-nextlevelsessionexporter-78e508f7.md) |
@@ -4780,7 +4780,7 @@ Records: `5834`
 | bitlap/geocoding | partial | 2025-07-23T16:20:19Z | [open](../records/maps-bitlap-geocoding-44bdf0ae.md) |
 | bizz84/nested-navigation-demo-flutter | partial | 2023-01-11T17:32:58Z | [open](../records/maps-bizz84-nested-navigation-demo-flutter-a397d085.md) |
 | bmwcarit/barefoot | partial | 2023-04-14T17:11:38Z | [open](../records/maps-bmwcarit-barefoot-66146078.md) |
-| CesiumGS/cesium | partial | 2026-09-04T21:52:44Z | [open](../records/maps-cesiumgs-cesium-03600c9a.md) |
+| CesiumGS/cesium | partial | 2026-09-08T22:47:08Z | [open](../records/maps-cesiumgs-cesium-03600c9a.md) |
 | codezero-be/laravel-localized-routes | partial | 2024-03-17T22:44:54Z | [open](../records/maps-codezero-be-laravel-localized-routes-62cd131a.md) |
 | danielemoraschi/maplace.js | partial | 2020-05-25T22:54:13Z | [open](../records/maps-danielemoraschi-maplace-js-5adb914c.md) |
 | der-stefan/OpenTopoMap | partial | 2026-01-29T22:24:26Z | [open](../records/maps-der-stefan-opentopomap-d1828225.md) |
@@ -4810,7 +4810,7 @@ Records: `5834`
 | luka1199/geo-heatmap | partial | 2024-08-17T16:08:23Z | [open](../records/maps-luka1199-geo-heatmap-7b04caf6.md) |
 | lukepighetti/fluro | partial | 2023-03-22T17:54:12Z | [open](../records/maps-lukepighetti-fluro-c809970d.md) |
 | luxiaoxun/MapDownloader | unknown | github_search_does_not_include_release_date | [open](../records/maps-luxiaoxun-mapdownloader-0e853bb6.md) |
-| mapbox/mapbox-gl-js | partial | 2026-09-08T11:58:11Z | [open](../records/maps-mapbox-mapbox-gl-js-a55c74cd.md) |
+| mapbox/mapbox-gl-js | partial | 2026-09-08T14:51:54Z | [open](../records/maps-mapbox-mapbox-gl-js-a55c74cd.md) |
 | mapbox/mapbox-gl-native-android | partial | 2023-08-21T13:46:32Z | [open](../records/maps-mapbox-mapbox-gl-native-android-470f3419.md) |
 | mapbox/vector-tile-base | partial | 2026-06-29T15:24:36Z | [open](../records/maps-mapbox-vector-tile-base-57a453db.md) |
 | maplibre/maplibre-gl-geocoder | partial | 2026-09-07T16:43:32Z | [open](../records/maps-maplibre-maplibre-gl-geocoder-938c4f88.md) |
@@ -4825,7 +4825,7 @@ Records: `5834`
 | mousebird-consulting-inc/WhirlyGlobe | partial | 2026-07-31T00:23:58Z | [open](../records/maps-mousebird-consulting-inc-whirlyglobe-3130b66b.md) |
 | nuxt-modules/i18n | partial | 2026-09-07T20:32:41Z | [open](../records/maps-nuxt-modules-i18n-79eea90d.md) |
 | olutter/map | partial | 2026-08-16T14:48:12Z | [open](../records/maps-olutter-map-b3100e59.md) |
-| opengisch/QField | partial | 2026-09-08T07:15:14Z | [open](../records/maps-opengisch-qfield-f04d9b83.md) |
+| opengisch/QField | partial | 2026-09-09T04:32:28Z | [open](../records/maps-opengisch-qfield-f04d9b83.md) |
 | openlayers/openlayers | partial | 2026-09-08T07:17:51Z | [open](../records/maps-openlayers-openlayers-6d483e33.md) |
 | openmaptiles/openmaptiles | partial | 2026-07-29T12:19:41Z | [open](../records/maps-openmaptiles-openmaptiles-8add1ab5.md) |
 | openstreetmap/merkaartor | partial | 2026-06-19T20:27:06Z | [open](../records/maps-openstreetmap-merkaartor-0547b0b6.md) |
@@ -4853,7 +4853,7 @@ Records: `5834`
 | tomayac/local-reverse-geocoder | partial | 2026-06-14T16:06:15Z | [open](../records/maps-tomayac-local-reverse-geocoder-63b2ed9a.md) |
 | TradeMe/MapMe | partial | 2022-03-30T20:42:56Z | [open](../records/maps-trademe-mapme-ac2b1874.md) |
 | tschoffelen/react-native-map-link | partial | 2026-09-07T06:49:10Z | [open](../records/maps-tschoffelen-react-native-map-link-bdb13e21.md) |
-| tudelft3d/3dfier | partial | 2026-05-06T15:26:57Z | [open](../records/maps-tudelft3d-3dfier-6391024c.md) |
+| tudelft3d/3dfier | partial | 2026-09-08T16:35:23Z | [open](../records/maps-tudelft3d-3dfier-6391024c.md) |
 | umap-project/umap | partial | 2026-09-08T20:01:39Z | [open](../records/maps-umap-project-umap-78ce8545.md) |
 | v2fly/geoip | partial | 2026-09-05T03:29:34Z | [open](../records/maps-v2fly-geoip-426d00c9.md) |
 | wellyshen/use-places-autocomplete | partial | 2025-04-02T14:39:17Z | [open](../records/maps-wellyshen-use-places-autocomplete-1234eb65.md) |
@@ -4881,9 +4881,9 @@ Records: `5834`
 | LoicViennois/KSP-DeltaV-Planner | partial | 2026-09-08T19:06:10Z | [open](../records/space-engines-loicviennois-ksp-deltav-planner-2a9f4275.md) |
 | nmisyats/KSP-MGA-Planner | partial | 2026-06-08T16:41:24Z | [open](../records/space-engines-nmisyats-ksp-mga-planner-5c02c9bb.md) |
 | podgorskiy/KeplerOrbits | partial | 2023-04-02T23:28:28Z | [open](../records/space-engines-podgorskiy-keplerorbits-bce5842d.md) |
-| RocketPy-Team/RocketPy | partial | 2026-08-24T20:24:28Z | [open](../records/space-engines-rocketpy-team-rocketpy-dc6ba7fb.md) |
+| RocketPy-Team/RocketPy | partial | 2026-09-09T02:09:47Z | [open](../records/space-engines-rocketpy-team-rocketpy-dc6ba7fb.md) |
 | usuaero/PyProp | partial | 2021-06-21T16:46:34Z | [open](../records/space-engines-usuaero-pyprop-cf41d1df.md) |
-| wedesoft/sfsim | partial | 2026-09-07T23:53:38Z | [open](../records/space-engines-wedesoft-sfsim-99e126c8.md) |
+| wedesoft/sfsim | partial | 2026-09-08T22:12:21Z | [open](../records/space-engines-wedesoft-sfsim-99e126c8.md) |
 
 ## Space Shuttles
 
@@ -5523,7 +5523,7 @@ Records: `5834`
 | anandhx/Kerala-Radio | partial | 2024-01-14T13:31:57Z | [open](../records/radio-garden-speciality-anandhx-kerala-radio-321f726d.md) |
 | Anvesh-Vishwakarma/Radio.garden | partial | 2026-07-11T13:42:55Z | [open](../records/radio-garden-speciality-anvesh-vishwakarma-radio-garden-297cf677.md) |
 | anxzxz/radiogarden | partial | 2026-01-24T16:48:01Z | [open](../records/radio-garden-speciality-anxzxz-radiogarden-50474431.md) |
-| billyx86/radio-garden-clone | partial | 2026-09-09T01:32:06Z | [open](../records/radio-garden-speciality-billyx86-radio-garden-clone-95c13869.md) |
+| billyx86/radio-garden-clone | partial | 2026-09-09T04:35:29Z | [open](../records/radio-garden-speciality-billyx86-radio-garden-clone-95c13869.md) |
 | Broccolifm/BroccoliFm | partial | 2025-11-03T08:19:04Z | [open](../records/radio-garden-speciality-broccolifm-broccolifm-93eab489.md) |
 | Dayanna-Parson/Radio-Garden-Accesible | partial | 2026-09-06T15:21:23Z | [open](../records/radio-garden-speciality-dayanna-parson-radio-garden-accesible-0c2fb16d.md) |
 | doni7brandao/jardim | partial | 2018-09-25T18:21:45Z | [open](../records/radio-garden-speciality-doni7brandao-jardim-dd16238d.md) |
@@ -5593,7 +5593,7 @@ Records: `5834`
 | garrrikkotua/morningly | partial | 2023-07-26T10:37:40Z | [open](../records/magazines-garrrikkotua-morningly-39d4abf3.md) |
 | gillkyle/sol-journal | partial | 2024-07-24T19:25:37Z | [open](../records/magazines-gillkyle-sol-journal-6ee29f50.md) |
 | GitJournal/GitJournal | partial | 2026-05-26T13:49:39Z | [open](../records/magazines-gitjournal-gitjournal-ce79e461.md) |
-| jrnl-org/jrnl | partial | 2026-09-04T00:33:28Z | [open](../records/magazines-jrnl-org-jrnl-0d464a95.md) |
+| jrnl-org/jrnl | partial | 2026-09-08T21:38:07Z | [open](../records/magazines-jrnl-org-jrnl-0d464a95.md) |
 | kotlin-magazine/kotlin-magazine | partial | 2024-05-22T17:41:30Z | [open](../records/magazines-kotlin-magazine-kotlin-magazine-07c7909d.md) |
 | lcomplete/TechShare | partial | 2026-04-02T16:58:06Z | [open](../records/magazines-lcomplete-techshare-7971ab4d.md) |
 | lelong37/msdn-spa-primer | partial | 2018-03-02T08:19:32Z | [open](../records/magazines-lelong37-msdn-spa-primer-c79ae5bd.md) |

@@ -32,7 +32,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | unknown |  |  | unknown | hackage_top_downloads_page_does_not_include_release_date |
+| stable | known | 2.2.2 | 2026-06-14T13:24:17Z | [https://hackage.haskell.org/package/zip](https://hackage.haskell.org/package/zip) |  |
 | preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 - Treat category as `compression` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Stable release is unknown because `hackage_top_downloads_page_does_not_include_release_date`.
+- Latest stable metadata was observed from `https://hackage.haskell.org/package/zip` at `2026-09-09T05:22:41+00:00`.
 - Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
 
 ## Provenance

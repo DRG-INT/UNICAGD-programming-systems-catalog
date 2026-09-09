@@ -189,7 +189,7 @@ Records: `276`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| asdf-vm/asdf | partial | 2026-09-03T13:48:57Z | [open](../records/go-asdf-vm-asdf-7c8e1c48.md) |
+| asdf-vm/asdf | unknown | not_a_go_module_path | [open](../records/go-asdf-vm-asdf-7c8e1c48.md) |
 | github.com/btc-vision/btc-runtime | v1.10.6 | 2026-08-30T12:53:01.50741Z | [open](../records/go-github-com-btc-vision-btc-runtime-5ca52916.md) |
 | github.com/btc-vision/op-vm | v0.3.8 | 2026-08-30T16:32:47.097658Z | [open](../records/go-github-com-btc-vision-op-vm-0f62577b.md) |
 | github.com/esotericsoftware/spine-runtimes | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-esotericsoftware-spine-runtimes-c9525803.md) |
@@ -221,7 +221,7 @@ Records: `276`
 | --- | --- | --- | --- |
 | llama.cpp | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-llama-cpp-9828c514.md) |
 | ONNX Runtime | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-onnx-runtime-98d3a1c6.md) |
-| ray-project/ray | partial | 2026-09-09T03:52:43Z | [open](../records/aim-s-ray-project-ray-95a80ced.md) |
+| ray-project/ray | partial | 2026-09-09T04:48:16Z | [open](../records/aim-s-ray-project-ray-95a80ced.md) |
 | vLLM | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-vllm-0a7ec6b2.md) |
 
 ## Engines
@@ -265,7 +265,7 @@ Records: `276`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Relintai/texture_packer | partial | 2023-05-28T05:14:13Z | [open](../records/assets-relintai-texture-packer-35690114.md) |
-| SOF3/include-flate | partial | 2026-08-27T05:12:39Z | [open](../records/assets-sof3-include-flate-7e9f140c.md) |
+| SOF3/include-flate | partial | 2026-09-08T05:12:22Z | [open](../records/assets-sof3-include-flate-7e9f140c.md) |
 | vypdev/stringcare-android | partial | 2026-03-19T23:07:41Z | [open](../records/assets-vypdev-stringcare-android-addbb923.md) |
 
 ## Maps
@@ -376,7 +376,7 @@ Records: `276`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Infinitegameworks/Paper2DPlus | partial | 2026-09-04T19:49:41Z | [open](../records/repertoare-catalogs-infinitegameworks-paper2dplus-7db476b1.md) |
-| korux-ai/korux-repertoire | partial | 2026-09-07T14:41:21Z | [open](../records/repertoare-catalogs-korux-ai-korux-repertoire-0bd1045a.md) |
+| korux-ai/korux-repertoire | partial | 2026-09-08T15:32:33Z | [open](../records/repertoare-catalogs-korux-ai-korux-repertoire-0bd1045a.md) |
 | thiagocorreanet/mestre-yoda | partial | 2026-08-15T21:15:19Z | [open](../records/repertoare-catalogs-thiagocorreanet-mestre-yoda-6b0b2efd.md) |
 
 ## Magazines

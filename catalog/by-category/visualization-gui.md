@@ -303,10 +303,10 @@ Records: `563`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| inancgumus/learngo | partial | 2025-06-24T23:03:52Z | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
+| inancgumus/learngo | unknown | not_a_go_module_path | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
 | kungfusheep/glyph | partial | 2026-08-28T16:49:36Z | [open](../records/go-kungfusheep-glyph-15af0f04.md) |
 | modernc.org/quickjs | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-modernc-org-quickjs-953c15ce.md) |
-| piquette/finance-go | partial | 2023-08-07T03:39:03Z | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
+| piquette/finance-go | unknown | not_a_go_module_path | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
 
 ## Starlark
 
@@ -446,7 +446,7 @@ Records: `563`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| adobe/asset-share-commons | partial | 2026-08-27T12:53:18Z | [open](../records/assets-adobe-asset-share-commons-3e73fd7b.md) |
+| adobe/asset-share-commons | partial | 2026-09-08T19:37:56Z | [open](../records/assets-adobe-asset-share-commons-3e73fd7b.md) |
 | boytchev/texture-generator | partial | 2025-04-28T20:39:08Z | [open](../records/assets-boytchev-texture-generator-6e229ec9.md) |
 | czyzby/gdx-skins | partial | 2022-08-22T06:24:01Z | [open](../records/assets-czyzby-gdx-skins-ff760b10.md) |
 | FreeType | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/assets-freetype-5b5024ee.md) |
@@ -455,8 +455,8 @@ Records: `563`
 | mopsicus/uis | partial | 2026-06-04T08:08:04Z | [open](../records/assets-mopsicus-uis-65c71459.md) |
 | quiple/galmuri | partial | 2026-08-22T05:48:41Z | [open](../records/assets-quiple-galmuri-cb71a160.md) |
 | RandomTBush/RTB-QuickBMS-Scripts | partial | 2026-03-20T00:58:42Z | [open](../records/assets-randomtbush-rtb-quickbms-scripts-397e82c6.md) |
-| Shelf-nu/shelf.nu | partial | 2026-09-04T12:00:09Z | [open](../records/assets-shelf-nu-shelf-nu-2414163a.md) |
-| skfolio/skfolio | partial | 2026-09-03T22:43:52Z | [open](../records/assets-skfolio-skfolio-6087932e.md) |
+| Shelf-nu/shelf.nu | partial | 2026-09-08T13:38:40Z | [open](../records/assets-shelf-nu-shelf-nu-2414163a.md) |
+| skfolio/skfolio | partial | 2026-09-08T11:13:18Z | [open](../records/assets-skfolio-skfolio-6087932e.md) |
 | TexturePacker | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/assets-texturepacker-1148bb30.md) |
 
 ## Maps
@@ -478,7 +478,7 @@ Records: `563`
 | SciTools/cartopy | partial | 2026-09-04T14:38:29Z | [open](../records/maps-scitools-cartopy-9d7a828c.md) |
 | tentone/geo-three | partial | 2026-04-05T09:36:24Z | [open](../records/maps-tentone-geo-three-c2f6b656.md) |
 | Viglino/ol-ext | partial | 2026-07-08T01:30:43Z | [open](../records/maps-viglino-ol-ext-ecc4dbc2.md) |
-| visgl/deck.gl | partial | 2026-09-07T16:54:58Z | [open](../records/maps-visgl-deck-gl-53e12f71.md) |
+| visgl/deck.gl | partial | 2026-09-09T03:47:05Z | [open](../records/maps-visgl-deck-gl-53e12f71.md) |
 | w3reality/three-geo | partial | 2025-02-25T08:20:32Z | [open](../records/maps-w3reality-three-geo-19abad00.md) |
 
 ## Space Engines
@@ -488,7 +488,7 @@ Records: `563`
 | arasgungore/rocket-flight-simulator | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-arasgungore-rocket-flight-simulator-edf8af6f.md) |
 | davidcalhoun/tle.js | partial | 2026-07-21T22:01:04Z | [open](../records/space-engines-davidcalhoun-tle-js-9c1d96d7.md) |
 | ep2lab/dimagno | partial | 2024-10-21T08:59:37Z | [open](../records/space-engines-ep2lab-dimagno-ff2efe6b.md) |
-| jrenaud90/TidalPy | partial | 2026-09-02T21:59:51Z | [open](../records/space-engines-jrenaud90-tidalpy-baa55395.md) |
+| jrenaud90/TidalPy | partial | 2026-09-09T04:04:54Z | [open](../records/space-engines-jrenaud90-tidalpy-baa55395.md) |
 
 ## Space Shuttles
 
@@ -715,7 +715,7 @@ Records: `563`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| brandonp2412/Quitter | partial | 2026-09-07T21:01:16Z | [open](../records/magazines-brandonp2412-quitter-639e86aa.md) |
+| brandonp2412/Quitter | partial | 2026-09-08T10:11:36Z | [open](../records/magazines-brandonp2412-quitter-639e86aa.md) |
 | krrishd/write | partial | 2018-03-12T19:56:25Z | [open](../records/magazines-krrishd-write-37bef373.md) |
 
 ## Assembly

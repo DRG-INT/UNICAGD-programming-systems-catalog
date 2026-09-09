@@ -41,7 +41,7 @@ operational fit assessment.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | Mozilla Public License 2.0; https://api.github.com/licenses/mpl-2.0 |
+| Evidence | GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; {"key": "", "name": "", "url": ""} |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

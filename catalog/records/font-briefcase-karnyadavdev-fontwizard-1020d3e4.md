@@ -21,8 +21,8 @@
 
 ## System Engineer Summary
 
-Customize Windows 11 & 10 system font with 100% system coverage across UWP, Win32, WinUI 3,
-Electron, etc all kinds of apps and Safely Restore with one click
+Native Windows App to Customize Windows 11 & 10 system font with 100% system coverage including UWP,
+Win32, WinUI 3, Electron, all kinds of apps and system components
 
 ## Operational Role
 
@@ -33,16 +33,16 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-04T16:14:12Z | gh search repos topic:fonttools stars:>10 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-06T13:38:28Z | gh search repos topic:fonttools stars:>10 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | GPL (>= 2); MIT License; https://api.github.com/licenses/mit |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | MIT |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 
@@ -58,7 +58,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-04 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:fonttools stars:>10", "retrieved": "2026-09-04", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-09 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:fonttools stars:>10", "retrieved": "2026-09-09", "status": "forge-cli-derived"}` |
 
 </details>
 
