@@ -393,7 +393,7 @@ Records: `973`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| gofr-dev/gofr | partial | 2026-09-09T09:20:11Z | [open](../records/go-gofr-dev-gofr-9cdbe495.md) |
+| gofr-dev/gofr | partial | 2026-09-09T10:34:47Z | [open](../records/go-gofr-dev-gofr-9cdbe495.md) |
 
 ## "aim's"
 
@@ -838,11 +838,11 @@ Records: `973`
 | Cosmos DB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-cosmos-db-7ffbb419.md) |
 | couchbase/couchbase-lite-ios | partial | 2026-09-02T21:44:23Z | [open](../records/databases-couchbase-couchbase-lite-ios-6c0953f5.md) |
 | Count | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-count-4fee7662.md) |
-| crate/crate | partial | 2026-09-08T12:00:20Z | [open](../records/databases-crate-crate-20858887.md) |
+| crate/crate | partial | 2026-09-09T11:03:21Z | [open](../records/databases-crate-crate-20858887.md) |
 | cstack/db_tutorial | partial | 2024-03-04T14:18:06Z | [open](../records/databases-cstack-db-tutorial-5fe821d6.md) |
 | Databasus | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-databasus-407b9343.md) |
 | databasus/databasus | partial | 2026-09-06T19:16:37Z | [open](../records/databases-databasus-databasus-921e4121.md) |
-| databendlabs/databend | partial | 2026-09-02T10:08:10Z | [open](../records/databases-databendlabs-databend-be0cfdcc.md) |
+| databendlabs/databend | partial | 2026-09-09T11:03:14Z | [open](../records/databases-databendlabs-databend-be0cfdcc.md) |
 | Datazenit | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-datazenit-394c3b2d.md) |
 | DBeaver | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-dbeaver-3ea00044.md) |
 | Debezium | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-debezium-a616bcbf.md) |
@@ -899,7 +899,7 @@ Records: `973`
 | h2database/h2database | partial | 2026-09-04T18:53:02Z | [open](../records/databases-h2database-h2database-efc01145.md) |
 | harelba/q | partial | 2026-02-06T23:25:37Z | [open](../records/databases-harelba-q-2f23fb6c.md) |
 | Hasura | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-hasura-dca2450a.md) |
-| HelixDB/helix-db | partial | 2026-09-08T10:23:27Z | [open](../records/databases-helixdb-helix-db-97ccc5dd.md) |
+| HelixDB/helix-db | partial | 2026-09-09T10:48:31Z | [open](../records/databases-helixdb-helix-db-97ccc5dd.md) |
 | hello245m/free-stockdb | partial | 2026-09-08T03:25:17Z | [open](../records/databases-hello245m-free-stockdb-4b014a28.md) |
 | hhyo/Archery | partial | 2026-09-04T08:46:36Z | [open](../records/databases-hhyo-archery-888ab9d4.md) |
 | Hibernate ORM | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-hibernate-orm-261d02b0.md) |
@@ -911,7 +911,7 @@ Records: `973`
 | ibis-project/ibis | partial | 2026-09-08T00:36:24Z | [open](../records/databases-ibis-project-ibis-5585ff7c.md) |
 | IceFireDB/IceFireDB | partial | 2026-09-07T11:42:49Z | [open](../records/databases-icefiredb-icefiredb-27424ec8.md) |
 | impossibl/pgjdbc-ng | partial | 2024-06-21T05:24:50Z | [open](../records/databases-impossibl-pgjdbc-ng-63791c56.md) |
-| infinispan/infinispan | partial | 2026-09-08T11:38:58Z | [open](../records/databases-infinispan-infinispan-d1cf9b60.md) |
+| infinispan/infinispan | partial | 2026-09-09T10:02:27Z | [open](../records/databases-infinispan-infinispan-d1cf9b60.md) |
 | InfluxDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-influxdb-db18cf2c.md) |
 | InsForge/InsForge | partial | 2026-09-08T04:18:33Z | [open](../records/databases-insforge-insforge-e3aaf1f0.md) |
 | itwanger/toBeBetterJavaer | partial | 2026-09-08T06:12:44Z | [open](../records/databases-itwanger-tobebetterjavaer-be3c87d7.md) |
@@ -933,7 +933,7 @@ Records: `973`
 | KuiBaDB/KuiBaDB | partial | 2021-12-11T08:23:53Z | [open](../records/databases-kuibadb-kuibadb-547f05c4.md) |
 | kuzudb/kuzu | partial | 2025-10-10T15:34:00Z | [open](../records/databases-kuzudb-kuzu-1b78fc97.md) |
 | LanceDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-lancedb-7a268bda.md) |
-| lancedb/lancedb | partial | 2026-09-08T12:14:48Z | [open](../records/databases-lancedb-lancedb-e66822c2.md) |
+| lancedb/lancedb | partial | 2026-09-09T07:33:05Z | [open](../records/databases-lancedb-lancedb-e66822c2.md) |
 | lancedb/vectordb-recipes | partial | 2026-04-24T11:29:16Z | [open](../records/databases-lancedb-vectordb-recipes-00a1ab16.md) |
 | LauJensen/clojureql | partial | 2018-02-12T21:35:02Z | [open](../records/databases-laujensen-clojureql-76471c0c.md) |
 | lealone-plugins/QinSQL | partial | 2023-11-09T16:32:14Z | [open](../records/databases-lealone-plugins-qinsql-4fbdbb2c.md) |
@@ -941,7 +941,7 @@ Records: `973`
 | libpq | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-libpq-471a5bc2.md) |
 | LibreOffice Base | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-libreoffice-base-032956f3.md) |
 | linkedin/school-of-sre | partial | 2025-12-25T12:44:23Z | [open](../records/databases-linkedin-school-of-sre-373f9d76.md) |
-| lioensky/VCPToolBox | partial | 2026-09-05T09:47:20Z | [open](../records/databases-lioensky-vcptoolbox-7835fe3a.md) |
+| lioensky/VCPToolBox | partial | 2026-09-09T08:00:51Z | [open](../records/databases-lioensky-vcptoolbox-7835fe3a.md) |
 | Liquibase | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-liquibase-64f6983e.md) |
 | litedb-org/LiteDB | partial | 2026-08-21T08:45:54Z | [open](../records/databases-litedb-org-litedb-ee5cca46.md) |
 | livestorejs/livestore | partial | 2026-09-06T21:22:38Z | [open](../records/databases-livestorejs-livestore-d5c5b0b8.md) |
@@ -970,7 +970,7 @@ Records: `973`
 | milvus-io/pymilvus | partial | 2026-09-08T06:47:22Z | [open](../records/databases-milvus-io-pymilvus-f6a8adf0.md) |
 | miniflux/v2 | partial | 2026-09-02T22:32:31Z | [open](../records/databases-miniflux-v2-b1de0e9c.md) |
 | MinIO | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-minio-f5c4390e.md) |
-| Mintplex-Labs/anything-llm | partial | 2026-09-08T02:56:50Z | [open](../records/databases-mintplex-labs-anything-llm-1f2ed9ad.md) |
+| Mintplex-Labs/anything-llm | partial | 2026-09-09T04:11:34Z | [open](../records/databases-mintplex-labs-anything-llm-1f2ed9ad.md) |
 | Mintplex-Labs/vector-admin | partial | 2025-04-15T20:40:32Z | [open](../records/databases-mintplex-labs-vector-admin-90dbe9c3.md) |
 | MongoDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-mongodb-c5c57340.md) |
 | mongodb/mongo | partial | 2026-09-08T20:23:10Z | [open](../records/databases-mongodb-mongo-277cd77e.md) |
@@ -999,17 +999,17 @@ Records: `973`
 | nocodb/nocodb | partial | 2026-09-08T11:44:22Z | [open](../records/databases-nocodb-nocodb-4fc74d77.md) |
 | NodeBB/NodeBB | partial | 2026-09-08T00:46:56Z | [open](../records/databases-nodebb-nodebb-19c32886.md) |
 | noodle-run/noodle | partial | 2024-10-17T02:31:07Z | [open](../records/databases-noodle-run-noodle-e7620669.md) |
-| oceanbase/oceanbase | partial | 2026-09-08T01:01:10Z | [open](../records/databases-oceanbase-oceanbase-8d26f652.md) |
+| oceanbase/oceanbase | partial | 2026-09-09T01:00:45Z | [open](../records/databases-oceanbase-oceanbase-8d26f652.md) |
 | ODBC | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-odbc-00ecc2f5.md) |
 | OmniPITR | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-omnipitr-bc5ebaae.md) |
-| Ontos-AI/knowhere | partial | 2026-09-02T04:44:41Z | [open](../records/databases-ontos-ai-knowhere-fbe4c98b.md) |
+| Ontos-AI/knowhere | partial | 2026-09-09T08:28:01Z | [open](../records/databases-ontos-ai-knowhere-fbe4c98b.md) |
 | OpenSearch | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-opensearch-58bbf200.md) |
 | OrientDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-orientdb-e982c06d.md) |
 | ostafen/clover | partial | 2025-09-09T06:13:01Z | [open](../records/databases-ostafen-clover-2c48c6ed.md) |
 | outerbase/studio | partial | 2026-03-25T23:41:33Z | [open](../records/databases-outerbase-studio-5d199295.md) |
 | oxnr/awesome-bigdata | partial | 2026-07-31T12:51:12Z | [open](../records/databases-oxnr-awesome-bigdata-a2984bc7.md) |
 | p6spy/p6spy | partial | 2022-02-21T16:46:12Z | [open](../records/databases-p6spy-p6spy-2c3d2ab8.md) |
-| paradedb/paradedb | partial | 2026-09-08T05:31:30Z | [open](../records/databases-paradedb-paradedb-f07ab96f.md) |
+| paradedb/paradedb | partial | 2026-09-09T04:13:43Z | [open](../records/databases-paradedb-paradedb-f07ab96f.md) |
 | paradedb/pg_analytics | partial | 2025-03-19T19:27:38Z | [open](../records/databases-paradedb-pg-analytics-ff29ad8d.md) |
 | pawelsalawa/letos | partial | 2026-08-24T18:18:03Z | [open](../records/databases-pawelsalawa-letos-3a5b74d0.md) |
 | paypal/gimel | partial | 2025-07-10T08:52:55Z | [open](../records/databases-paypal-gimel-dac7e5cd.md) |
@@ -1028,7 +1028,7 @@ Records: `973`
 | pinecone-io/examples | partial | 2026-09-04T21:19:12Z | [open](../records/databases-pinecone-io-examples-cbf4eb97.md) |
 | pingcap/awesome-database-learning | partial | 2024-08-29T02:14:04Z | [open](../records/databases-pingcap-awesome-database-learning-7b5c8ac6.md) |
 | pitrery | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pitrery-13f324c6.md) |
-| pixeltable/pixeltable | partial | 2026-09-08T00:25:36Z | [open](../records/databases-pixeltable-pixeltable-ad627e6f.md) |
+| pixeltable/pixeltable | partial | 2026-09-09T06:09:12Z | [open](../records/databases-pixeltable-pixeltable-ad627e6f.md) |
 | PlanetScale | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-planetscale-d8051113.md) |
 | plausible/analytics | partial | 2026-09-08T11:51:54Z | [open](../records/databases-plausible-analytics-6794b97c.md) |
 | playframework/anorm | partial | 2026-09-07T15:57:48Z | [open](../records/databases-playframework-anorm-feb01c23.md) |
@@ -1051,7 +1051,7 @@ Records: `973`
 | realm/realm-java | partial | 2025-09-15T18:19:00Z | [open](../records/databases-realm-realm-java-af8bcf7b.md) |
 | realm/realm-swift | partial | 2026-06-14T23:57:29Z | [open](../records/databases-realm-realm-swift-da686512.md) |
 | Redis | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-redis-6d90b4b1.md) |
-| RediSearch/RediSearch | partial | 2026-09-08T12:26:48Z | [open](../records/databases-redisearch-redisearch-a6984a5f.md) |
+| RediSearch/RediSearch | partial | 2026-09-09T10:55:46Z | [open](../records/databases-redisearch-redisearch-a6984a5f.md) |
 | RedisGraph/RedisGraph | partial | 2025-07-21T11:58:04Z | [open](../records/databases-redisgraph-redisgraph-60d02d69.md) |
 | reorproject/reor | partial | 2025-05-13T21:28:59Z | [open](../records/databases-reorproject-reor-6601e7a1.md) |
 | requery/requery | partial | 2026-02-09T08:58:28Z | [open](../records/databases-requery-requery-85762cf6.md) |
@@ -1059,7 +1059,7 @@ Records: `973`
 | risingwavelabs/risingwave | partial | 2026-09-08T12:14:43Z | [open](../records/databases-risingwavelabs-risingwave-fc224eaa.md) |
 | RocksDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-rocksdb-a15d9be7.md) |
 | rqlite/rqlite | partial | 2026-09-07T15:24:25Z | [open](../records/databases-rqlite-rqlite-61a88f3e.md) |
-| run-llama/llama_index | partial | 2026-09-05T04:39:33Z | [open](../records/databases-run-llama-llama-index-1ae4495a.md) |
+| run-llama/llama_index | partial | 2026-09-08T23:38:22Z | [open](../records/databases-run-llama-llama-index-1ae4495a.md) |
 | samuelclay/NewsBlur | partial | 2026-09-03T06:01:27Z | [open](../records/databases-samuelclay-newsblur-94b97b4e.md) |
 | schemacrawler/SchemaCrawler | partial | 2026-09-09T01:43:42Z | [open](../records/databases-schemacrawler-schemacrawler-9a9c89e5.md) |
 | ScyllaDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-scylladb-305a7332.md) |
@@ -1109,10 +1109,10 @@ Records: `973`
 | valkey-io/valkey | partial | 2026-09-08T14:56:04Z | [open](../records/databases-valkey-io-valkey-076b87d0.md) |
 | vanna-ai/vanna | partial | 2026-02-02T14:14:20Z | [open](../records/databases-vanna-ai-vanna-93ed50c7.md) |
 | vapor/fluent | partial | 2026-08-25T09:44:33Z | [open](../records/databases-vapor-fluent-198357ea.md) |
-| vasu-devs/JustHireMe | partial | 2026-09-01T07:14:03Z | [open](../records/databases-vasu-devs-justhireme-b00ae36b.md) |
+| vasu-devs/JustHireMe | partial | 2026-09-09T10:07:39Z | [open](../records/databases-vasu-devs-justhireme-b00ae36b.md) |
 | vearch/vearch | partial | 2026-07-27T05:29:53Z | [open](../records/databases-vearch-vearch-5476b49d.md) |
-| VectifyAI/PageIndex | partial | 2026-09-08T11:12:38Z | [open](../records/databases-vectifyai-pageindex-856593c6.md) |
-| vespa-engine/vespa | partial | 2026-09-08T12:11:09Z | [open](../records/databases-vespa-engine-vespa-f6a2d921.md) |
+| VectifyAI/PageIndex | partial | 2026-09-09T10:59:49Z | [open](../records/databases-vectifyai-pageindex-856593c6.md) |
+| vespa-engine/vespa | partial | 2026-09-09T11:09:35Z | [open](../records/databases-vespa-engine-vespa-f6a2d921.md) |
 | vitessio/vitess | partial | 2026-09-08T12:06:24Z | [open](../records/databases-vitessio-vitess-24eef604.md) |
 | vlcn-io/cr-sqlite | partial | 2026-08-10T10:55:49Z | [open](../records/databases-vlcn-io-cr-sqlite-548c9b6c.md) |
 | volcengine/MineContext | partial | 2026-05-07T13:23:05Z | [open](../records/databases-volcengine-minecontext-175b292e.md) |
@@ -1121,7 +1121,7 @@ Records: `973`
 | wal-e | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-wal-e-470e7aed.md) |
 | Weaviate | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-weaviate-919e9163.md) |
 | weaviate/recipes | partial | 2026-08-27T18:00:42Z | [open](../records/databases-weaviate-recipes-113b16c1.md) |
-| weaviate/weaviate | partial | 2026-09-08T12:15:56Z | [open](../records/databases-weaviate-weaviate-956b3133.md) |
+| weaviate/weaviate | partial | 2026-09-09T11:14:27Z | [open](../records/databases-weaviate-weaviate-956b3133.md) |
 | WGDashboard/WGDashboard | partial | 2026-09-07T20:34:53Z | [open](../records/databases-wgdashboard-wgdashboard-becf354c.md) |
 | xataio/pgroll | partial | 2026-09-08T08:40:31Z | [open](../records/databases-xataio-pgroll-4b570742.md) |
 | xerial/sqlite-jdbc | partial | 2026-09-08T02:43:40Z | [open](../records/databases-xerial-sqlite-jdbc-0e9f9048.md) |
@@ -1175,7 +1175,7 @@ Records: `973`
 | Gitea: yeyuanjie/gorm-oracle | partial | 2023-10-17T03:10:13Z | [open](../records/repository-workplaces-gitea-yeyuanjie-gorm-oracle-4b6b7053.md) |
 | Gitea: ziying/database | partial | 2026-06-03T05:06:54Z | [open](../records/repository-workplaces-gitea-ziying-database-e5dcf680.md) |
 | gitlab-org/advisories-community | partial | 2026-09-07T14:31:49.392Z | [open](../records/repository-workplaces-gitlab-org-advisories-community-621603ca.md) |
-| gitlab-org/analytics-section/siphon | partial | 2026-09-09T08:05:24.109Z | [open](../records/repository-workplaces-gitlab-org-analytics-section-siphon-6ac6dc22.md) |
+| gitlab-org/analytics-section/siphon | partial | 2026-09-09T09:12:59.952Z | [open](../records/repository-workplaces-gitlab-org-analytics-section-siphon-6ac6dc22.md) |
 | kara.moe/karaokebase | partial | 2026-09-09T01:02:42.502Z | [open](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) |
 | postgres-ai/custom-images | partial | 2026-08-31T12:45:54.446Z | [open](../records/repository-workplaces-postgres-ai-custom-images-45d426ed.md) |
 | ProfaneDB/ProfaneDB | partial | 2021-08-10T13:32:11.702Z | [open](../records/repository-workplaces-profanedb-profanedb-135545c0.md) |

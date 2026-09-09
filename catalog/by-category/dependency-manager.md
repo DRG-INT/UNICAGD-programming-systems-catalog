@@ -128,7 +128,7 @@ Records: `105`
 | chaindead/modup | partial | 2025-08-22T10:13:38Z | [open](../records/go-chaindead-modup-f7ee1de4.md) |
 | github.com/spinnaker/spinnaker-dependencies | v1.25.1 | 2026-08-30T11:57:41.284194Z | [open](../records/go-github-com-spinnaker-spinnaker-dependencies-7dc73de9.md) |
 | psampaz/go-mod-outdated | partial | 2023-02-19T20:22:43Z | [open](../records/go-psampaz-go-mod-outdated-c4ff2713.md) |
-| ryancurrah/gomodguard | partial | 2026-08-20T11:05:46Z | [open](../records/go-ryancurrah-gomodguard-40ec0b46.md) |
+| ryancurrah/gomodguard | partial | 2026-09-09T10:02:29Z | [open](../records/go-ryancurrah-gomodguard-40ec0b46.md) |
 
 ## "aim's"
 
@@ -292,7 +292,7 @@ Records: `105`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| giancarloerra/SocratiCode | partial | 2026-09-07T13:17:15Z | [open](../records/databases-giancarloerra-socraticode-bcc8ee56.md) |
+| giancarloerra/SocratiCode | partial | 2026-09-09T09:07:55Z | [open](../records/databases-giancarloerra-socraticode-bcc8ee56.md) |
 | Lulzx/zs3 | partial | 2026-08-24T18:24:16Z | [open](../records/databases-lulzx-zs3-f630b3a4.md) |
 | philippgille/chromem-go | partial | 2026-09-06T16:36:35Z | [open](../records/databases-philippgille-chromem-go-fd3fa6e9.md) |
 | SleekDB/SleekDB | partial | 2026-05-26T21:18:56Z | [open](../records/databases-sleekdb-sleekdb-44bd7f0e.md) |

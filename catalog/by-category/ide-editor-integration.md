@@ -689,7 +689,7 @@ Records: `1478`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-07T12:44:29Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-09T10:02:24Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-09T11:14:19Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-05T16:04:02Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-09T01:33:11Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-09T09:11:17Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
@@ -1710,7 +1710,7 @@ Records: `1478`
 | kangkaisen/olap-performance | partial | 2025-12-16T13:12:26Z | [open](../records/databases-kangkaisen-olap-performance-93dc589e.md) |
 | kostafey/ejc-sql | partial | 2026-09-06T21:47:28Z | [open](../records/databases-kostafey-ejc-sql-c8c72200.md) |
 | linq2db/linq2db | partial | 2026-09-08T11:37:42Z | [open](../records/databases-linq2db-linq2db-7aa962a2.md) |
-| MariaDB/server | partial | 2026-09-08T10:29:45Z | [open](../records/databases-mariadb-server-574f45f3.md) |
+| MariaDB/server | partial | 2026-09-09T11:06:10Z | [open](../records/databases-mariadb-server-574f45f3.md) |
 | mosuka/phalanx | partial | 2023-03-02T06:06:28Z | [open](../records/databases-mosuka-phalanx-0c5d2079.md) |
 | nraiden/cofounder | partial | 2024-11-08T20:47:03Z | [open](../records/databases-nraiden-cofounder-6327561e.md) |
 | Numeracy | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-numeracy-204806a1.md) |

@@ -491,7 +491,7 @@ Records: `276`
 | builderz-labs/mission-control | partial | 2026-09-07T00:27:51Z | [open](../records/databases-builderz-labs-mission-control-fff15440.md) |
 | guang19/framework-learning | partial | 2022-09-08T01:20:10Z | [open](../records/databases-guang19-framework-learning-16651c7a.md) |
 | jdbi/jdbi | partial | 2026-09-09T05:55:17Z | [open](../records/databases-jdbi-jdbi-3cc6bc95.md) |
-| langchain4j/langchain4j | partial | 2026-09-08T10:35:22Z | [open](../records/databases-langchain4j-langchain4j-478395e2.md) |
+| langchain4j/langchain4j | partial | 2026-09-09T10:24:50Z | [open](../records/databases-langchain4j-langchain4j-478395e2.md) |
 | objectbox/objectbox-java | partial | 2026-08-03T10:42:55Z | [open](../records/databases-objectbox-objectbox-java-aa127825.md) |
 | pubkey/rxdb | partial | 2026-09-08T19:37:19Z | [open](../records/databases-pubkey-rxdb-d6f509c0.md) |
 

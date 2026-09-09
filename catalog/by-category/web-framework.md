@@ -664,7 +664,7 @@ Records: `492`
 | repmgr | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-repmgr-a7902124.md) |
 | rpbouman/huey | partial | 2026-08-23T20:03:47Z | [open](../records/databases-rpbouman-huey-d6a66223.md) |
 | scality/cloudserver | partial | 2026-09-08T11:47:38Z | [open](../records/databases-scality-cloudserver-0f3f3768.md) |
-| SeekStorm/SeekStorm | partial | 2026-09-08T10:18:31Z | [open](../records/databases-seekstorm-seekstorm-a592c97e.md) |
+| SeekStorm/SeekStorm | partial | 2026-09-09T07:33:11Z | [open](../records/databases-seekstorm-seekstorm-a592c97e.md) |
 | TabularisDB/tabularis | partial | 2026-09-04T07:56:50Z | [open](../records/databases-tabularisdb-tabularis-3c1fcb7e.md) |
 | versity/versitygw | partial | 2026-09-08T01:48:09Z | [open](../records/databases-versity-versitygw-b1f49ebe.md) |
 | xo/dbtpl | partial | 2026-09-08T01:42:41Z | [open](../records/databases-xo-dbtpl-4a8added.md) |

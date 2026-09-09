@@ -627,7 +627,7 @@ Records: `401`
 | Apache Avro | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-apache-avro-547a0b9e.md) |
 | Apache ORC | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-apache-orc-a9582620.md) |
 | Apache Parquet | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-apache-parquet-4e0e3d4f.md) |
-| ArcadeData/arcadedb | partial | 2026-09-08T11:45:18Z | [open](../records/databases-arcadedata-arcadedb-23b789da.md) |
+| ArcadeData/arcadedb | partial | 2026-09-09T10:37:22Z | [open](../records/databases-arcadedata-arcadedb-23b789da.md) |
 | CSV | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-csv-8eb9b7a8.md) |
 | JSON Lines | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-json-lines-b2bf7401.md) |
 | SouravRoy-ETL/slothdb | partial | 2026-06-03T08:55:27Z | [open](../records/databases-souravroy-etl-slothdb-80e14269.md) |

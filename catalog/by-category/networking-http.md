@@ -803,7 +803,7 @@ Records: `1058`
 | --- | --- | --- | --- |
 | Model Context Protocol | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-model-context-protocol-9e0d563f.md) |
 | OpenAI API | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-openai-api-2f1d86e4.md) |
-| OtterMind/Chat2DB | partial | 2026-09-09T09:58:10Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
+| OtterMind/Chat2DB | partial | 2026-09-09T10:51:02Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
 
 ## APIs
 
@@ -1302,7 +1302,7 @@ Records: `1058`
 | PgManage | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pgmanage-18fd185f.md) |
 | pingcap/autoflow | partial | 2026-04-27T13:55:14Z | [open](../records/databases-pingcap-autoflow-1944f5ea.md) |
 | PyMySQL/PyMySQL | partial | 2026-09-07T08:30:34Z | [open](../records/databases-pymysql-pymysql-5d492d34.md) |
-| qdrant/qdrant-client | partial | 2026-09-08T09:46:54Z | [open](../records/databases-qdrant-qdrant-client-c2e262b3.md) |
+| qdrant/qdrant-client | partial | 2026-09-09T10:04:48Z | [open](../records/databases-qdrant-qdrant-client-c2e262b3.md) |
 | Query-farm/httpserver | partial | 2026-09-04T20:19:43Z | [open](../records/databases-query-farm-httpserver-36ffb344.md) |
 | SAP/go-hdb | partial | 2026-09-02T14:10:27Z | [open](../records/databases-sap-go-hdb-a1c93dee.md) |
 | SheetJS/sheetjs | partial | 2024-04-18T08:06:46Z | [open](../records/databases-sheetjs-sheetjs-8657dc9b.md) |
