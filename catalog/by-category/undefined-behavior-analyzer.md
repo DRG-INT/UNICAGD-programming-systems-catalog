@@ -8,8 +8,8 @@ Records: `1644`
 
 ## Category Index
 
-[Api Abi Checker (230)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1024)](build-system.md) · [Cli (583)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (231)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1024)](build-system.md) · [Cli (584)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (122)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
@@ -17,14 +17,14 @@ Records: `1644`
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (470)](ffi-bindings.md) · [Filesystem Os (1647)](filesystem-os.md) · [Formatter (657)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1489)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1457)](language-specification.md) · [Library (5893)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1457)](language-specification.md) · [Library (5894)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (537)](logging-observability.md) · [Machine Learning (824)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1071)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1219)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-**[Undefined Behavior Analyzer (1644)](undefined-behavior-analyzer.md)** · [Utility Library (104)](utility-library.md) · [Visualization Gui (596)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
+**[Undefined Behavior Analyzer (1644)](undefined-behavior-analyzer.md)** · [Utility Library (104)](utility-library.md) · [Visualization Gui (597)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
 
 ## C++23
 
@@ -1290,7 +1290,7 @@ Records: `1644`
 | dtpstat/dtp-stat-archive | partial | 2025-07-13T10:29:14Z | [open](../records/maps-dtpstat-dtp-stat-archive-9e471ed5.md) |
 | enix/kube-image-keeper | partial | 2026-09-07T16:40:23Z | [open](../records/maps-enix-kube-image-keeper-4bf7a4cc.md) |
 | FlorianBruniaux/starmapper | partial | 2026-09-01T13:03:36Z | [open](../records/maps-florianbruniaux-starmapper-f54a32ac.md) |
-| geomoose/gm3 | partial | 2026-09-07T13:55:43Z | [open](../records/maps-geomoose-gm3-f1e69386.md) |
+| geomoose/gm3 | partial | 2026-09-09T12:14:20Z | [open](../records/maps-geomoose-gm3-f1e69386.md) |
 | graphhopper/map-matching | partial | 2020-12-02T07:52:10Z | [open](../records/maps-graphhopper-map-matching-f46cc2bd.md) |
 | jakubvalenta/geoshare | partial | 2026-09-02T18:25:31Z | [open](../records/maps-jakubvalenta-geoshare-9f208e9f.md) |
 | jcubic/wayne | partial | 2026-08-03T16:49:44Z | [open](../records/maps-jcubic-wayne-706674a0.md) |
@@ -1829,7 +1829,7 @@ Records: `1644`
 | debezium/debezium | partial | 2026-09-09T20:10:50Z | [open](../records/databases-debezium-debezium-a3d23ff7.md) |
 | dicedb/dicedb | partial | 2026-04-23T01:00:36Z | [open](../records/databases-dicedb-dicedb-ba1cb8a6.md) |
 | digoal/blog | partial | 2026-09-08T01:33:38Z | [open](../records/databases-digoal-blog-7cde1486.md) |
-| dolthub/dolt | partial | 2026-09-09T20:41:34Z | [open](../records/databases-dolthub-dolt-702548e2.md) |
+| dolthub/dolt | partial | 2026-09-09T22:07:23Z | [open](../records/databases-dolthub-dolt-702548e2.md) |
 | douban/gobeansdb | partial | 2026-08-21T03:02:19Z | [open](../records/databases-douban-gobeansdb-1832191f.md) |
 | dubinc/dub | partial | 2026-09-08T07:02:37Z | [open](../records/databases-dubinc-dub-fde61fc2.md) |
 | gigapi/gigapi | partial | 2025-10-20T12:01:02Z | [open](../records/databases-gigapi-gigapi-bafb6f73.md) |
@@ -1846,7 +1846,7 @@ Records: `1644`
 | simonw/datasette | partial | 2026-09-02T21:28:42Z | [open](../records/databases-simonw-datasette-1ddbef0c.md) |
 | skyzh/vector-db-from-scratch | partial | 2026-09-06T03:20:48Z | [open](../records/databases-skyzh-vector-db-from-scratch-51c5f22e.md) |
 | spiculedata/saiku | partial | 2026-09-08T12:27:24Z | [open](../records/databases-spiculedata-saiku-3e036390.md) |
-| StarRocks/starrocks | partial | 2026-09-08T17:38:27Z | [open](../records/databases-starrocks-starrocks-fa80e1a7.md) |
+| StarRocks/starrocks | partial | 2026-09-09T16:41:35Z | [open](../records/databases-starrocks-starrocks-fa80e1a7.md) |
 | Stolon | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-stolon-807bae3f.md) |
 | timveil/hive-jdbc-uber-jar | partial | 2024-09-28T13:44:51Z | [open](../records/databases-timveil-hive-jdbc-uber-jar-3a65567d.md) |
 | uber-go/dosa | partial | 2023-07-05T20:59:33Z | [open](../records/databases-uber-go-dosa-06a859e4.md) |
@@ -1883,7 +1883,7 @@ Records: `1644`
 | gitlab-org/caproni | partial | 2026-09-09T14:20:40.391Z | [open](../records/repository-workplaces-gitlab-org-caproni-40271619.md) |
 | gitlab-org/charts/gitlab-agent | partial | 2026-09-09T08:49:10.879Z | [open](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) |
 | gitlab-org/ci-cd/gitlab-runner-pod-cleanup | partial | 2026-05-15T07:38:19.652Z | [open](../records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) |
-| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-09T16:28:23.219Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
+| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-09T20:47:43.072Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
 | gitlab-org/kubernetes-gitlab-demo | partial | 2026-01-07T10:09:42.404Z | [open](../records/repository-workplaces-gitlab-org-kubernetes-gitlab-demo-d867dc50.md) |
 | glitchtip/glitchtip-helm-chart | partial | 2026-08-01T00:27:07.881Z | [open](../records/repository-workplaces-glitchtip-glitchtip-helm-chart-8da5da49.md) |
 | just.insane/kubernetes | partial | 2019-12-24T04:31:25.427Z | [open](../records/repository-workplaces-just-insane-kubernetes-b3dc8533.md) |

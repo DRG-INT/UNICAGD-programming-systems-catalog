@@ -8,8 +8,8 @@ Records: `443`
 
 ## Category Index
 
-[Api Abi Checker (230)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1024)](build-system.md) · [Cli (583)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (231)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1024)](build-system.md) · [Cli (584)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (122)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
@@ -17,14 +17,14 @@ Records: `443`
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (470)](ffi-bindings.md) · [Filesystem Os (1647)](filesystem-os.md) · [Formatter (657)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1489)](ide-editor-integration.md)
 **[Image Audio Dsp (443)](image-audio-dsp.md)** · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1457)](language-specification.md) · [Library (5893)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1457)](language-specification.md) · [Library (5894)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (537)](logging-observability.md) · [Machine Learning (824)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1071)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1219)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1644)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (596)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
+[Undefined Behavior Analyzer (1644)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (597)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
 
 ## C++23
 
@@ -185,7 +185,7 @@ Records: `443`
 | --- | --- | --- | --- |
 | flopp/go-staticmaps | partial | 2026-09-02T04:43:30Z | [open](../records/maps-flopp-go-staticmaps-8d384bfe.md) |
 | kscottz/PythonFromSpace | unknown | github_search_does_not_include_release_date | [open](../records/maps-kscottz-pythonfromspace-1ee0124e.md) |
-| nasa-gibs/worldview | partial | 2026-09-04T19:54:33Z | [open](../records/maps-nasa-gibs-worldview-895a3baa.md) |
+| nasa-gibs/worldview | partial | 2026-09-09T21:11:44Z | [open](../records/maps-nasa-gibs-worldview-895a3baa.md) |
 | plant99/felicette | partial | 2022-03-12T00:43:06Z | [open](../records/maps-plant99-felicette-bd213c8f.md) |
 | TomSchimansky/TkinterMapView | partial | 2026-06-28T12:22:26Z | [open](../records/maps-tomschimansky-tkintermapview-b6ce4dd7.md) |
 | tumic0/QtPBFImagePlugin | partial | 2025-10-27T05:08:04Z | [open](../records/maps-tumic0-qtpbfimageplugin-aae45eb2.md) |
@@ -353,7 +353,7 @@ Records: `443`
 | michaelwillis/dragonfly-reverb | partial | 2026-05-21T15:59:51Z | [open](../records/audio-michaelwillis-dragonfly-reverb-7aa868bf.md) |
 | midas-research/audino | partial | 2026-02-03T14:08:58Z | [open](../records/audio-midas-research-audino-bfd86e43.md) |
 | miek/inspectrum | partial | 2025-12-06T15:44:29Z | [open](../records/audio-miek-inspectrum-a2b95ec1.md) |
-| mixxxdj/mixxx | partial | 2026-09-09T08:12:57Z | [open](../records/audio-mixxxdj-mixxx-c62cc22f.md) |
+| mixxxdj/mixxx | partial | 2026-09-09T20:06:32Z | [open](../records/audio-mixxxdj-mixxx-c62cc22f.md) |
 | ModernFlyouts-Community/ModernFlyouts | partial | 2024-11-17T02:39:02Z | [open](../records/audio-modernflyouts-community-modernflyouts-61772da5.md) |
 | Moekotori/ECHO | partial | 2026-09-05T22:47:36Z | [open](../records/audio-moekotori-echo-a5eae6e0.md) |
 | morkt/GARbro | partial | 2024-07-08T19:36:58Z | [open](../records/audio-morkt-garbro-79127cac.md) |
@@ -387,9 +387,9 @@ Records: `443`
 | sonic-pi-net/sonic-pi | partial | 2026-08-12T16:51:53Z | [open](../records/audio-sonic-pi-net-sonic-pi-276f12ef.md) |
 | SoX | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-sox-26fadc03.md) |
 | spotify/basic-pitch | partial | 2025-11-13T14:40:46Z | [open](../records/audio-spotify-basic-pitch-05b329a5.md) |
-| spotify/pedalboard | partial | 2026-09-04T21:22:46Z | [open](../records/audio-spotify-pedalboard-2950d53f.md) |
+| spotify/pedalboard | partial | 2026-09-09T22:06:36Z | [open](../records/audio-spotify-pedalboard-2950d53f.md) |
 | ssabug/fxseq | partial | 2023-10-28T00:28:31Z | [open](../records/audio-ssabug-fxseq-872becec.md) |
-| strawberrymusicplayer/strawberry | partial | 2026-09-08T19:23:25Z | [open](../records/audio-strawberrymusicplayer-strawberry-65e2b7e4.md) |
+| strawberrymusicplayer/strawberry | partial | 2026-09-09T19:10:16Z | [open](../records/audio-strawberrymusicplayer-strawberry-65e2b7e4.md) |
 | styx-emulator/styx-emulator | partial | 2026-08-13T20:47:32Z | [open](../records/audio-styx-emulator-styx-emulator-e035860e.md) |
 | suda/wireless-microphone | partial | 2023-03-02T21:23:41Z | [open](../records/audio-suda-wireless-microphone-ab136d62.md) |
 | SuperKogito/spafe | partial | 2025-03-20T16:16:12Z | [open](../records/audio-superkogito-spafe-354360b4.md) |

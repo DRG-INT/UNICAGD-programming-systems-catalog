@@ -8,8 +8,8 @@ Records: `1489`
 
 ## Category Index
 
-[Api Abi Checker (230)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1024)](build-system.md) · [Cli (583)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (231)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1024)](build-system.md) · [Cli (584)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (122)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
@@ -17,14 +17,14 @@ Records: `1489`
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (470)](ffi-bindings.md) · [Filesystem Os (1647)](filesystem-os.md) · [Formatter (657)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · **[Ide Editor Integration (1489)](ide-editor-integration.md)**
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1457)](language-specification.md) · [Library (5893)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1457)](language-specification.md) · [Library (5894)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (537)](logging-observability.md) · [Machine Learning (824)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1071)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1219)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1644)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (596)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
+[Undefined Behavior Analyzer (1644)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (597)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
 
 ## C++23
 
@@ -696,7 +696,7 @@ Records: `1489`
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-09T01:33:11Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-09T21:08:05Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-09T21:05:39Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
-| upstash/context7 | partial | 2026-09-09T16:20:29Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
+| upstash/context7 | partial | 2026-09-09T21:33:35Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
 
 ## Computer Graphics Software
@@ -842,8 +842,8 @@ Records: `1489`
 | ipverse/as-ip-blocks | partial | 2026-09-07T02:04:14Z | [open](../records/maps-ipverse-as-ip-blocks-7d14346a.md) |
 | josxha/flutter-maplibre | partial | 2026-09-01T14:55:54Z | [open](../records/maps-josxha-flutter-maplibre-eacc25b1.md) |
 | kelvins/geocoder | partial | 2023-11-12T13:08:12Z | [open](../records/maps-kelvins-geocoder-a12d380b.md) |
-| maplibre/navara | partial | 2026-09-08T03:17:56Z | [open](../records/maps-maplibre-navara-6a7a0c36.md) |
-| maptiler/tileserver-gl | partial | 2026-09-08T12:00:46Z | [open](../records/maps-maptiler-tileserver-gl-e4c1c6d3.md) |
+| maplibre/navara | partial | 2026-09-09T02:52:10Z | [open](../records/maps-maplibre-navara-6a7a0c36.md) |
+| maptiler/tileserver-gl | partial | 2026-09-09T04:06:08Z | [open](../records/maps-maptiler-tileserver-gl-e4c1c6d3.md) |
 | mesa/mesa | partial | 2026-09-08T08:20:39Z | [open](../records/maps-mesa-mesa-17eaaf0c.md) |
 | mikeroyal/Photogrammetry-Guide | partial | 2025-06-27T02:10:14Z | [open](../records/maps-mikeroyal-photogrammetry-guide-6865d45a.md) |
 | nextcloud/maps | partial | 2026-09-06T01:55:04Z | [open](../records/maps-nextcloud-maps-88692299.md) |

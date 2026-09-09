@@ -1,6 +1,6 @@
 # Visualization Gui
 
-Records: `596`
+Records: `597`
 
 ## Navigation
 
@@ -8,8 +8,8 @@ Records: `596`
 
 ## Category Index
 
-[Api Abi Checker (230)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1024)](build-system.md) · [Cli (583)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (231)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1024)](build-system.md) · [Cli (584)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (122)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
@@ -17,14 +17,14 @@ Records: `596`
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (470)](ffi-bindings.md) · [Filesystem Os (1647)](filesystem-os.md) · [Formatter (657)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1489)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1457)](language-specification.md) · [Library (5893)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1457)](language-specification.md) · [Library (5894)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (537)](logging-observability.md) · [Machine Learning (824)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1071)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1219)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1644)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · **[Visualization Gui (596)](visualization-gui.md)** · [Web Framework (494)](web-framework.md)
+[Undefined Behavior Analyzer (1644)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · **[Visualization Gui (597)](visualization-gui.md)** · [Web Framework (494)](web-framework.md)
 
 ## C++23
 
@@ -189,6 +189,7 @@ Records: `596`
 | isoexplorer | 0.5.0 | 2026-09-07 20:30:02 UTC | [open](../records/r-isoexplorer-25897391.md) |
 | IsoplotRgui | 7.0 | 2026-08-21 21:50:38 UTC | [open](../records/r-isoplotrgui-958053ef.md) |
 | jellyfisher | 1.1.2 | 2026-08-21 08:50:02 UTC | [open](../records/r-jellyfisher-1a627722.md) |
+| ldsep | 2.1.7 | 2026-09-09 20:40:02 UTC | [open](../records/r-ldsep-cb507e27.md) |
 | locuszoomr | 1.0.0 | 2026-09-03 06:50:03 UTC | [open](../records/r-locuszoomr-e66f66fb.md) |
 | LRErdd | 0.1.0 | 2026-08-06 10:20:08 UTC | [open](../records/r-lrerdd-ec29b4b7.md) |
 | moveEZ | 1.3.0 | 2026-08-26 21:20:02 UTC | [open](../records/r-moveez-051173a5.md) |
@@ -212,7 +213,7 @@ Records: `596`
 | shapviz | 0.10.4 | 2026-08-31 15:10:02 UTC | [open](../records/r-shapviz-d4cf00e1.md) |
 | shinychat | 0.5.0 | 2026-09-09 18:50:02 UTC | [open](../records/r-shinychat-9f43e05f.md) |
 | shinygenui | 0.1.0 | 2026-09-09 16:40:02 UTC | [open](../records/r-shinygenui-3bedacc4.md) |
-| shinyglass | 0.2.0 | 2026-08-21 05:40:42 UTC | [open](../records/r-shinyglass-ac8dcf7d.md) |
+| shinyglass | 0.3.0 | 2026-09-09 21:00:02 UTC | [open](../records/r-shinyglass-ac8dcf7d.md) |
 | SimpleUpset | 0.1.6 | 2026-09-01 15:50:02 UTC | [open](../records/r-simpleupset-c56c376c.md) |
 | socviz | 2.0.0 | 2026-08-21 12:40:02 UTC | [open](../records/r-socviz-38c1d0b7.md) |
 | tidyterra | 1.3.0 | 2026-08-24 08:30:02 UTC | [open](../records/r-tidyterra-a4faa86f.md) |
