@@ -8,21 +8,21 @@ Records: `492`
 
 ## Category Index
 
-[Api Abi Checker (229)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1003)](build-system.md) · [Cli (575)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (230)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1003)](build-system.md) · [Cli (578)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (120)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
-[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (134)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (179)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (241)](datetime.md)
+[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (135)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (241)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (466)](ffi-bindings.md) · [Filesystem Os (1623)](filesystem-os.md) · [Formatter (654)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (359)](game-engine-game-dev.md) · [Ide Editor Integration (1479)](ide-editor-integration.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (467)](ffi-bindings.md) · [Filesystem Os (1623)](filesystem-os.md) · [Formatter (654)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (360)](game-engine-game-dev.md) · [Ide Editor Integration (1480)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5864)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (533)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5869)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (534)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1062)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1211)](parser-lexer-ast.md) · [Precommit Ci Quality (311)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1214)](parser-lexer-ast.md) · [Precommit Ci Quality (312)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (637)](static-analyzer.md)
+[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (639)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (623)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
 [Undefined Behavior Analyzer (1633)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (564)](visualization-gui.md) · **[Web Framework (492)](web-framework.md)**
 
@@ -154,8 +154,8 @@ Records: `492`
 | --- | --- | --- | --- |
 | @11ty/eleventy-dev-server | 2.0.8 | 2025-03-19T17:12:20.716Z | [open](../records/node-js-javascript-11ty-eleventy-dev-server-0ff6d30a.md) |
 | @accounter/server | 0.1.0 | 2026-06-24T16:57:18.613Z | [open](../records/node-js-javascript-accounter-server-29485588.md) |
-| @allurereport/plugin-server-reload | 3.16.1 | 2026-09-07T08:15:41.226Z | [open](../records/node-js-javascript-allurereport-plugin-server-reload-1962a71d.md) |
-| @allurereport/static-server | 3.16.1 | 2026-09-07T08:15:51.233Z | [open](../records/node-js-javascript-allurereport-static-server-f7666757.md) |
+| @allurereport/plugin-server-reload | 3.17.0 | 2026-09-09T12:42:46.354Z | [open](../records/node-js-javascript-allurereport-plugin-server-reload-1962a71d.md) |
+| @allurereport/static-server | 3.17.0 | 2026-09-09T12:42:57.069Z | [open](../records/node-js-javascript-allurereport-static-server-f7666757.md) |
 | @amplitude/experiment-node-server | 1.13.6 | 2026-05-08T03:59:36.082Z | [open](../records/node-js-javascript-amplitude-experiment-node-server-fbcf3912.md) |
 | @apify/actors-mcp-server | 0.15.5 | 2026-09-09T07:38:51.282Z | [open](../records/node-js-javascript-apify-actors-mcp-server-ac83acb1.md) |
 | @apollo/server | 5.5.1 | 2026-05-05T16:05:58.885Z | [open](../records/node-js-javascript-apollo-server-46e17e33.md) |
@@ -164,7 +164,7 @@ Records: `492`
 | @apple/app-store-server-library | 3.1.0 | 2026-05-06T01:14:11.509Z | [open](../records/node-js-javascript-apple-app-store-server-library-95022302.md) |
 | @budibase/server | 3.38.1 | 2026-05-12T06:32:35.805Z | [open](../records/node-js-javascript-budibase-server-b96430d3.md) |
 | @callstack/repack-dev-server | 5.3.0 | 2026-08-05T09:11:36.073Z | [open](../records/node-js-javascript-callstack-repack-dev-server-631ff63b.md) |
-| @capgo/cli | 8.50.0 | 2026-09-09T12:19:46.001Z | [open](../records/node-js-javascript-capgo-cli-8e98e39d.md) |
+| @capgo/cli | 8.50.2 | 2026-09-09T13:22:51.220Z | [open](../records/node-js-javascript-capgo-cli-8e98e39d.md) |
 | @cloudflare/mcp-server-cloudflare | 0.2.0 | 2025-03-14T10:41:19.350Z | [open](../records/node-js-javascript-cloudflare-mcp-server-cloudflare-3b1ce558.md) |
 | @constructive-io/graphql-server | 5.25.1 | 2026-09-08T23:04:35.503Z | [open](../records/node-js-javascript-constructive-io-graphql-server-5edba745.md) |
 | @contentful/mcp-server | 1.19.0 | 2026-09-01T20:20:27.760Z | [open](../records/node-js-javascript-contentful-mcp-server-f8c3e0db.md) |
@@ -238,7 +238,7 @@ Records: `492`
 | @transcend-io/mcp-server-consent | 0.9.6 | 2026-09-03T19:27:15.694Z | [open](../records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) |
 | @transcend-io/mcp-server-discovery | 0.5.30 | 2026-09-03T19:27:15.450Z | [open](../records/node-js-javascript-transcend-io-mcp-server-discovery-87735bfc.md) |
 | @transcend-io/mcp-server-dsr | 0.8.10 | 2026-09-03T19:27:15.159Z | [open](../records/node-js-javascript-transcend-io-mcp-server-dsr-76f6cb8b.md) |
-| @transcend-io/mcp-server-inventory | 0.7.10 | 2026-09-03T19:27:20.713Z | [open](../records/node-js-javascript-transcend-io-mcp-server-inventory-9bc583b1.md) |
+| @transcend-io/mcp-server-inventory | 1.0.0 | 2026-09-08T20:40:44.844Z | [open](../records/node-js-javascript-transcend-io-mcp-server-inventory-9bc583b1.md) |
 | @transcend-io/mcp-server-preferences | 0.7.3 | 2026-09-08T20:42:57.384Z | [open](../records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
 | @transcend-io/mcp-server-workflows | 1.0.0 | 2026-09-08T20:40:50.701Z | [open](../records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) |
 | @trpc/server | 11.18.0 | 2026-06-17T22:48:25.078Z | [open](../records/node-js-javascript-trpc-server-02b69ad5.md) |
@@ -247,7 +247,7 @@ Records: `492`
 | @ui5/server | 4.0.16 | 2026-09-03T12:48:08.508Z | [open](../records/node-js-javascript-ui5-server-bf90217b.md) |
 | @umijs/server | 4.7.16 | 2026-09-09T07:02:30.161Z | [open](../records/node-js-javascript-umijs-server-39ec9954.md) |
 | @unlighthouse/server | 0.18.0 | 2026-06-29T03:12:35.459Z | [open](../records/node-js-javascript-unlighthouse-server-42feedd7.md) |
-| @upstash/context7-mcp | 4.0.6 | 2026-09-08T16:37:25.029Z | [open](../records/node-js-javascript-upstash-context7-mcp-f62fb753.md) |
+| @upstash/context7-mcp | 4.0.7 | 2026-09-09T14:03:21.539Z | [open](../records/node-js-javascript-upstash-context7-mcp-f62fb753.md) |
 | @use-voltra/android-server | 2.2.0 | 2026-08-03T13:16:02.753Z | [open](../records/node-js-javascript-use-voltra-android-server-11b8e2fa.md) |
 | @use-voltra/ios-server | 2.2.0 | 2026-08-03T13:16:07.085Z | [open](../records/node-js-javascript-use-voltra-ios-server-52aaeb6b.md) |
 | @use-voltra/server | 2.2.0 | 2026-08-03T13:15:46.999Z | [open](../records/node-js-javascript-use-voltra-server-0e9559b5.md) |
@@ -276,7 +276,7 @@ Records: `492`
 | five-server | 0.5.0 | 2026-05-12T10:40:19.391Z | [open](../records/node-js-javascript-five-server-f752688a.md) |
 | grunt-contrib-connect | 5.0.1 | 2024-10-10T12:15:17.948Z | [open](../records/node-js-javascript-grunt-contrib-connect-096e0682.md) |
 | hexo-server | 3.0.0 | 2022-01-03T05:07:25.018Z | [open](../records/node-js-javascript-hexo-server-999441df.md) |
-| hostinger-api-mcp | 1.57.3 | 2026-09-09T11:04:15.997Z | [open](../records/node-js-javascript-hostinger-api-mcp-72a83612.md) |
+| hostinger-api-mcp | 1.58.0 | 2026-09-09T13:24:18.769Z | [open](../records/node-js-javascript-hostinger-api-mcp-72a83612.md) |
 | is-ci | 4.1.0 | 2024-12-08T08:23:15.565Z | [open](../records/node-js-javascript-is-ci-0a428e2e.md) |
 | Koa | unknown | not_checked | [open](../records/node-js-javascript-koa-46377f86.md) |
 | livereload | 0.10.3 | 2025-08-14T00:59:25.811Z | [open](../records/node-js-javascript-livereload-1a5bba84.md) |
@@ -400,7 +400,7 @@ Records: `492`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | JGLTechnologies/gin-rate-limit | partial | 2026-08-14T03:34:23Z | [open](../records/go-jgltechnologies-gin-rate-limit-c93a4f16.md) |
-| openfaas/faas | partial | 2026-07-02T09:09:13Z | [open](../records/go-openfaas-faas-7fddd6b7.md) |
+| openfaas/faas | unknown | not_a_go_module_path | [open](../records/go-openfaas-faas-7fddd6b7.md) |
 
 ## Computer Graphics Software
 
@@ -566,7 +566,7 @@ Records: `492`
 | --- | --- | --- | --- |
 | emertozd/Compose-Material-3-Expressive-Catalog | partial | 2026-08-25T13:27:09Z | [open](../records/catalogs-emertozd-compose-material-3-expressive-catalog-37be1c96.md) |
 | expressjs/serve-index | partial | 2026-08-05T14:00:57Z | [open](../records/catalogs-expressjs-serve-index-a5f99f53.md) |
-| fabiodalez-dev/Pinakes | partial | 2026-09-09T10:56:44Z | [open](../records/catalogs-fabiodalez-dev-pinakes-55aa7480.md) |
+| fabiodalez-dev/Pinakes | partial | 2026-09-09T14:15:11Z | [open](../records/catalogs-fabiodalez-dev-pinakes-55aa7480.md) |
 | sergiisyrovatchenko/SQLIndexManager | partial | 2026-08-24T17:58:45Z | [open](../records/catalogs-sergiisyrovatchenko-sqlindexmanager-c47bdf29.md) |
 | zyegfryed/django-statici18n | partial | 2026-09-02T17:13:48Z | [open](../records/catalogs-zyegfryed-django-statici18n-7d8a9ed5.md) |
 
@@ -575,7 +575,7 @@ Records: `492`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | arneb/django-campaign | partial | 2023-11-05T07:55:01Z | [open](../records/magazines-arneb-django-campaign-acca3d0d.md) |
-| benji6/moodtracker | partial | 2026-09-01T12:23:53Z | [open](../records/magazines-benji6-moodtracker-844d4a49.md) |
+| benji6/moodtracker | partial | 2026-09-09T13:03:04Z | [open](../records/magazines-benji6-moodtracker-844d4a49.md) |
 | DenserMeerkat/June | partial | 2026-09-06T17:24:29Z | [open](../records/magazines-densermeerkat-june-9f006367.md) |
 | russmiles/life-preserver-introductory-article-developer-magazine | partial | 2013-10-16T14:30:28Z | [open](../records/magazines-russmiles-life-preserver-introductory-article-developer-magazine-18492317.md) |
 | sergeyyarkov/digital-store | unknown | github_search_does_not_include_release_date | [open](../records/magazines-sergeyyarkov-digital-store-9dc6b702.md) |
@@ -609,7 +609,7 @@ Records: `492`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| SAP/gigya-java-sdk | partial | 2026-06-14T12:14:03Z | [open](../records/sapjava-sap-gigya-java-sdk-09b7f8db.md) |
+| SAP/gigya-java-sdk | unknown | not_a_maven_coordinate | [open](../records/sapjava-sap-gigya-java-sdk-09b7f8db.md) |
 
 ## Swift
 

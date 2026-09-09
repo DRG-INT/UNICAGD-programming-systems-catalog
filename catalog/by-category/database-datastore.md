@@ -8,21 +8,21 @@ Records: `973`
 
 ## Category Index
 
-[Api Abi Checker (229)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1003)](build-system.md) · [Cli (575)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (230)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1003)](build-system.md) · [Cli (578)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (120)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
-[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (134)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (179)](cryptography.md) · [Data Science (39)](data-science.md) · **[Database Datastore (973)](database-datastore.md)** · [Datetime (241)](datetime.md)
+[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (135)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · **[Database Datastore (973)](database-datastore.md)** · [Datetime (241)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (466)](ffi-bindings.md) · [Filesystem Os (1623)](filesystem-os.md) · [Formatter (654)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (359)](game-engine-game-dev.md) · [Ide Editor Integration (1479)](ide-editor-integration.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (467)](ffi-bindings.md) · [Filesystem Os (1623)](filesystem-os.md) · [Formatter (654)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (360)](game-engine-game-dev.md) · [Ide Editor Integration (1480)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5864)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (533)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5869)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (534)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1062)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1211)](parser-lexer-ast.md) · [Precommit Ci Quality (311)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1214)](parser-lexer-ast.md) · [Precommit Ci Quality (312)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (637)](static-analyzer.md)
+[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (639)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (623)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
 [Undefined Behavior Analyzer (1633)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (564)](visualization-gui.md) · [Web Framework (492)](web-framework.md)
 
@@ -149,7 +149,7 @@ Records: `973`
 | @firebase/database-types | 1.0.22 | 2026-08-19T20:19:20.004Z | [open](../records/node-js-javascript-firebase-database-types-6818da5b.md) |
 | @ghostery/trackerdb | 1.0.945 | 2026-09-01T14:40:53.880Z | [open](../records/node-js-javascript-ghostery-trackerdb-5dd64d2a.md) |
 | @hapi/mimos | 7.0.1 | 2023-02-11T20:23:34.032Z | [open](../records/node-js-javascript-hapi-mimos-8b77d1f5.md) |
-| @hocuspocus/extension-database | 4.6.0 | 2026-08-10T08:48:44.277Z | [open](../records/node-js-javascript-hocuspocus-extension-database-6db8eacb.md) |
+| @hocuspocus/extension-database | 4.7.0 | 2026-09-09T13:01:25.484Z | [open](../records/node-js-javascript-hocuspocus-extension-database-6db8eacb.md) |
 | @ip-location-db/geolite2-city | 2.3.2026061719 | 2026-06-17T19:55:40.473Z | [open](../records/node-js-javascript-ip-location-db-geolite2-city-4d763e20.md) |
 | @ip-location-db/geolite2-country-mmdb | 2.3.2026061719 | 2026-06-17T20:00:39.140Z | [open](../records/node-js-javascript-ip-location-db-geolite2-country-mmdb-57d5b1da.md) |
 | @js-soft/docdb-access-abstractions | 1.4.3 | 2026-07-14T04:38:37.371Z | [open](../records/node-js-javascript-js-soft-docdb-access-abstractions-609120b9.md) |
@@ -189,7 +189,7 @@ Records: `973`
 | @sap/hana-project-explorer | 1.38.0 | 2026-06-26T09:58:53.379Z | [open](../records/node-js-javascript-sap-hana-project-explorer-0180f7e1.md) |
 | @solumjs/database | 0.3.5 | 2026-08-27T08:28:33.613Z | [open](../records/node-js-javascript-solumjs-database-6399521b.md) |
 | @stacksjs/database | 0.74.32 | 2026-09-09T05:22:01.660Z | [open](../records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
-| @strapi/database | 5.52.3 | 2026-09-02T14:35:58.213Z | [open](../records/node-js-javascript-strapi-database-c0f9aa77.md) |
+| @strapi/database | 5.53.0 | 2026-09-09T12:48:59.414Z | [open](../records/node-js-javascript-strapi-database-c0f9aa77.md) |
 | @supabase/realtime-js | 2.116.0 | 2026-09-07T16:30:14.946Z | [open](../records/node-js-javascript-supabase-realtime-js-a426c046.md) |
 | @synor/database-postgresql | 0.5.2 | 2021-03-05T07:14:43.605Z | [open](../records/node-js-javascript-synor-database-postgresql-694d4795.md) |
 | @tachybase/plugin-database-clean | 1.6.53 | 2026-09-09T06:19:20.753Z | [open](../records/node-js-javascript-tachybase-plugin-database-clean-7f837f2b.md) |
@@ -393,7 +393,7 @@ Records: `973`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| gofr-dev/gofr | partial | 2026-09-09T11:53:19Z | [open](../records/go-gofr-dev-gofr-9cdbe495.md) |
+| gofr-dev/gofr | unknown | not_a_go_module_path | [open](../records/go-gofr-dev-gofr-9cdbe495.md) |
 
 ## "aim's"
 

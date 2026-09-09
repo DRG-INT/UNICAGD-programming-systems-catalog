@@ -1,6 +1,6 @@
 # Precommit Ci Quality
 
-Records: `311`
+Records: `312`
 
 ## Navigation
 
@@ -8,21 +8,21 @@ Records: `311`
 
 ## Category Index
 
-[Api Abi Checker (229)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1003)](build-system.md) · [Cli (575)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (230)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1003)](build-system.md) · [Cli (578)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (120)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
-[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (134)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (179)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (241)](datetime.md)
+[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (135)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (241)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (466)](ffi-bindings.md) · [Filesystem Os (1623)](filesystem-os.md) · [Formatter (654)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (359)](game-engine-game-dev.md) · [Ide Editor Integration (1479)](ide-editor-integration.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (467)](ffi-bindings.md) · [Filesystem Os (1623)](filesystem-os.md) · [Formatter (654)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (360)](game-engine-game-dev.md) · [Ide Editor Integration (1480)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5864)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (533)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5869)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (534)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1062)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1211)](parser-lexer-ast.md) · **[Precommit Ci Quality (311)](precommit-ci-quality.md)**
+[Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1214)](parser-lexer-ast.md) · **[Precommit Ci Quality (312)](precommit-ci-quality.md)**
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (637)](static-analyzer.md)
+[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (639)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (623)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
 [Undefined Behavior Analyzer (1633)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (564)](visualization-gui.md) · [Web Framework (492)](web-framework.md)
 
@@ -179,12 +179,13 @@ Records: `311`
 | bGMYC4 | 4.1.6 | 2026-09-04 20:30:02 UTC | [open](../records/r-bgmyc4-6f8e15c3.md) |
 | biomes | 0.9.4 | 2026-08-31 13:40:02 UTC | [open](../records/r-biomes-8b0e7317.md) |
 | CauMedi | 0.1.1 | 2026-08-04 13:50:12 UTC | [open](../records/r-caumedi-362f0bde.md) |
+| ciftiTools | 0.21.1 | 2026-09-09 13:30:02 UTC | [open](../records/r-ciftitools-f8459309.md) |
 | CVXR | 1.9.2 | 2026-08-24 05:21:00 UTC | [open](../records/r-cvxr-462b1bfb.md) |
 | decimal | 0.1.0 | 2026-08-24 12:40:09 UTC | [open](../records/r-decimal-6cb5cc69.md) |
 | essential8 | 0.1.0 | 2026-09-03 11:20:09 UTC | [open](../records/r-essential8-dca4bda2.md) |
 | fable.bayesRecon | 0.2.0 | 2026-08-21 08:20:26 UTC | [open](../records/r-fable-bayesrecon-5e5c557b.md) |
 | fcl | 0.1.5 | 2026-08-22 19:30:02 UTC | [open](../records/r-fcl-0ea3193e.md) |
-| hBayesDM | 2.0.0 | 2026-09-01 12:30:12 UTC | [open](../records/r-hbayesdm-6b8d4019.md) |
+| hBayesDM | 2.0.1 | 2026-09-09 13:10:02 UTC | [open](../records/r-hbayesdm-6b8d4019.md) |
 | implicitMeasures | 1.0.0 | 2026-08-21 08:20:08 UTC | [open](../records/r-implicitmeasures-021e6566.md) |
 | insurancerating | 0.8.2 | 2026-09-01 11:50:02 UTC | [open](../records/r-insurancerating-fcf34652.md) |
 | inti | 0.7.4 | 2026-09-06 05:20:02 UTC | [open](../records/r-inti-d99c2491.md) |
@@ -263,7 +264,7 @@ Records: `311`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | codeberg.org/socialhome/socialhome | v0.13.0 | 2026-08-30T15:31:22.105365Z | [open](../records/go-codeberg-org-socialhome-socialhome-ce21e69a.md) |
-| tmrts/go-patterns | partial | 2024-05-14T01:07:28Z | [open](../records/go-tmrts-go-patterns-62512270.md) |
+| tmrts/go-patterns | unknown | not_a_go_module_path | [open](../records/go-tmrts-go-patterns-62512270.md) |
 
 ## nix
 

@@ -8,21 +8,21 @@ Records: `1633`
 
 ## Category Index
 
-[Api Abi Checker (229)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1003)](build-system.md) · [Cli (575)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (230)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1003)](build-system.md) · [Cli (578)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (120)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
-[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (134)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (179)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (241)](datetime.md)
+[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (135)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (241)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (466)](ffi-bindings.md) · [Filesystem Os (1623)](filesystem-os.md) · [Formatter (654)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (359)](game-engine-game-dev.md) · [Ide Editor Integration (1479)](ide-editor-integration.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (467)](ffi-bindings.md) · [Filesystem Os (1623)](filesystem-os.md) · [Formatter (654)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (360)](game-engine-game-dev.md) · [Ide Editor Integration (1480)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5864)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (533)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5869)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (534)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1062)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1211)](parser-lexer-ast.md) · [Precommit Ci Quality (311)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1214)](parser-lexer-ast.md) · [Precommit Ci Quality (312)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (637)](static-analyzer.md)
+[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (639)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (623)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
 **[Undefined Behavior Analyzer (1633)](undefined-behavior-analyzer.md)** · [Utility Library (104)](utility-library.md) · [Visualization Gui (564)](visualization-gui.md) · [Web Framework (492)](web-framework.md)
 
@@ -135,7 +135,7 @@ Records: `1633`
 | @cubejs-backend/duckdb-driver | 1.7.36 | 2026-09-09T11:45:19.865Z | [open](../records/node-js-javascript-cubejs-backend-duckdb-driver-01487aa6.md) |
 | @cubejs-backend/hive-driver | 1.7.35 | 2026-09-07T15:14:35.168Z | [open](../records/node-js-javascript-cubejs-backend-hive-driver-465861fe.md) |
 | @cubejs-backend/jdbc-driver | 1.7.36 | 2026-09-09T11:45:43.900Z | [open](../records/node-js-javascript-cubejs-backend-jdbc-driver-04d976e1.md) |
-| @cubejs-backend/ksql-driver | 1.7.34 | 2026-09-04T11:56:37.898Z | [open](../records/node-js-javascript-cubejs-backend-ksql-driver-8e496938.md) |
+| @cubejs-backend/ksql-driver | 1.7.36 | 2026-09-09T11:45:08.729Z | [open](../records/node-js-javascript-cubejs-backend-ksql-driver-8e496938.md) |
 | @cubejs-backend/materialize-driver | 1.7.36 | 2026-09-09T11:45:27.795Z | [open](../records/node-js-javascript-cubejs-backend-materialize-driver-bd47599a.md) |
 | @cubejs-backend/mssql-driver | 1.7.34 | 2026-09-04T12:04:05.396Z | [open](../records/node-js-javascript-cubejs-backend-mssql-driver-74d7c0f0.md) |
 | @cubejs-backend/mysql-driver | 1.7.36 | 2026-09-09T11:49:30.036Z | [open](../records/node-js-javascript-cubejs-backend-mysql-driver-bf05660d.md) |
@@ -411,9 +411,9 @@ Records: `1633`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bluenviron/mediamtx | partial | 2026-09-09T05:04:28Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
-| dariubs/GoBooks | partial | 2026-07-13T16:08:02Z | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
-| eryajf/learning-weekly | partial | 2026-08-27T15:27:30Z | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
+| bluenviron/mediamtx | unknown | not_a_go_module_path | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
+| dariubs/GoBooks | unknown | not_a_go_module_path | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
+| eryajf/learning-weekly | unknown | not_a_go_module_path | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
 | github.com/01org/isa-l | v2.22.0+incompatible | 2026-08-30T14:09:32.299469Z | [open](../records/go-github-com-01org-isa-l-8ef09eb2.md) |
 | github.com/1panel-dev/1Panel/agent | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-1panel-dev-1panel-agent-8df4b3a6.md) |
 | github.com/2rumaki-playground/game-001-dungeon-cards | v0.103.0 | 2026-08-30T16:30:21.794494Z | [open](../records/go-github-com-2rumaki-playground-game-001-dungeon-cards-97fa2334.md) |
@@ -1142,9 +1142,9 @@ Records: `1633`
 | github.laiyagushi.com/nemith/dothome | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-laiyagushi-com-nemith-dothome-32cd483a.md) |
 | github.laiyagushi.com/valkey-io/valkey-go | v1.0.56 | 2026-08-30T15:31:38.453275Z | [open](../records/go-github-laiyagushi-com-valkey-io-valkey-go-b2864d71.md) |
 | jfrog/gocenter | partial | 2021-05-14T11:38:26Z | [open](../records/go-jfrog-gocenter-404e69f1.md) |
-| labring/sealos | partial | 2026-09-09T08:10:42Z | [open](../records/go-labring-sealos-594e5269.md) |
-| uber-go/guide | partial | 2026-04-15T15:10:48Z | [open](../records/go-uber-go-guide-c330b782.md) |
-| uber-go/zap | partial | 2026-08-31T18:59:30Z | [open](../records/go-uber-go-zap-07ea12d8.md) |
+| labring/sealos | unknown | not_a_go_module_path | [open](../records/go-labring-sealos-594e5269.md) |
+| uber-go/guide | unknown | not_a_go_module_path | [open](../records/go-uber-go-guide-c330b782.md) |
+| uber-go/zap | unknown | not_a_go_module_path | [open](../records/go-uber-go-zap-07ea12d8.md) |
 | unpoller/unifi | partial | 2026-09-05T16:28:54Z | [open](../records/go-unpoller-unifi-0809cf4a.md) |
 
 ## Starlark
@@ -1468,7 +1468,7 @@ Records: `1633`
 | Afilmory/afilmory | partial | 2026-09-08T13:19:10Z | [open](../records/photography-afilmory-afilmory-bc0398b6.md) |
 | baidut/BIMEF | partial | 2019-03-16T15:23:45Z | [open](../records/photography-baidut-bimef-5aec88db.md) |
 | CanHub/Android-Image-Cropper | partial | 2026-04-28T07:09:28Z | [open](../records/photography-canhub-android-image-cropper-809e8be6.md) |
-| dougdonohoe/ddphotos | partial | 2026-09-09T12:59:28Z | [open](../records/photography-dougdonohoe-ddphotos-39c5aac3.md) |
+| dougdonohoe/ddphotos | partial | 2026-09-09T13:31:27Z | [open](../records/photography-dougdonohoe-ddphotos-39c5aac3.md) |
 | exiftool-rb/exiftool.rb | partial | 2026-06-22T16:52:35Z | [open](../records/photography-exiftool-rb-exiftool-rb-a5ae98ad.md) |
 | facebookincubator/spectrum | partial | 2024-04-04T18:56:52Z | [open](../records/photography-facebookincubator-spectrum-ca421e69.md) |
 | fengyuanchen/cropper | partial | 2020-07-21T10:46:15Z | [open](../records/photography-fengyuanchen-cropper-ed549363.md) |
@@ -1629,9 +1629,9 @@ Records: `1633`
 | datahub-project/datahub | partial | 2026-09-05T20:20:54Z | [open](../records/catalogs-datahub-project-datahub-245b610a.md) |
 | erikdarlingdata/DarlingData | partial | 2026-09-04T21:16:14Z | [open](../records/catalogs-erikdarlingdata-darlingdata-be996c85.md) |
 | FeatureBaseDB/featurebase | partial | 2024-02-21T23:20:41Z | [open](../records/catalogs-featurebasedb-featurebase-1eac6a36.md) |
-| imsai-sh/awesome-deepseek-harness-plugins | partial | 2026-09-09T11:23:27Z | [open](../records/catalogs-imsai-sh-awesome-deepseek-harness-plugins-06b83072.md) |
+| imsai-sh/awesome-deepseek-harness-plugins | partial | 2026-09-09T14:18:13Z | [open](../records/catalogs-imsai-sh-awesome-deepseek-harness-plugins-06b83072.md) |
 | italia/.github | partial | 2026-08-31T09:31:30Z | [open](../records/catalogs-italia-github-0b346e57.md) |
-| leenkcool/Blue-Whale-Harness | partial | 2026-09-04T03:49:36Z | [open](../records/catalogs-leenkcool-blue-whale-harness-b2691c97.md) |
+| leenkcool/Blue-Whale-Harness | partial | 2026-09-09T14:18:57Z | [open](../records/catalogs-leenkcool-blue-whale-harness-b2691c97.md) |
 | llnl/llnl.github.io | partial | 2026-09-08T16:33:27Z | [open](../records/catalogs-llnl-llnl-github-io-afb77a91.md) |
 | mbahArip/next-gdrive-index | partial | 2026-01-15T23:56:25Z | [open](../records/catalogs-mbaharip-next-gdrive-index-78a05087.md) |
 | nasa/code-nasa-gov | partial | 2024-09-19T20:00:44Z | [open](../records/catalogs-nasa-code-nasa-gov-bf1d1580.md) |
@@ -1763,7 +1763,7 @@ Records: `1633`
 | com.sap.cds:cds-feature-event-hub | 4.0.1 | 2025-05-20T10:50:10+00:00 | [open](../records/sapjava-com-sap-cds-cds-feature-event-hub-68d1b4fe.md) |
 | com.sap.cds:cds-feature-event-hub-root | 4.0.1 | 2025-05-20T10:50:10+00:00 | [open](../records/sapjava-com-sap-cds-cds-feature-event-hub-root-6b04d8be.md) |
 | h-issue/odata-draft-conflict-with-aggregation | partial | 2024-04-22T10:57:08Z | [open](../records/sapjava-h-issue-odata-draft-conflict-with-aggregation-0099c2d6.md) |
-| SAP/cf-cli-java-plugin | partial | 2026-09-07T12:42:11Z | [open](../records/sapjava-sap-cf-cli-java-plugin-eac1051f.md) |
+| SAP/cf-cli-java-plugin | unknown | not_a_maven_coordinate | [open](../records/sapjava-sap-cf-cli-java-plugin-eac1051f.md) |
 | sorimdevs-tech/cap-sflight-migrated-java17-20260127-080309 | partial | 2026-01-27T08:03:10Z | [open](../records/sapjava-sorimdevs-tech-cap-sflight-migrated-java17-20260127-080309-9463e525.md) |
 | sorimdevs-tech/cap-sflight-migrated-java17-20260127-082407 | partial | 2026-01-27T08:24:09Z | [open](../records/sapjava-sorimdevs-tech-cap-sflight-migrated-java17-20260127-082407-6e4d8ee5.md) |
 | sorimdevs-tech/cap-sflight-migrated-java21-20260130-095443 | partial | 2026-01-30T09:54:44Z | [open](../records/sapjava-sorimdevs-tech-cap-sflight-migrated-java21-20260130-095443-6e76fa26.md) |
@@ -1865,14 +1865,14 @@ Records: `1633`
 | Gitea: ryan-winkler/ryanwinkler | partial | 2026-08-21T10:30:44Z | [open](../records/repository-workplaces-gitea-ryan-winkler-ryanwinkler-c5f906a1.md) |
 | Gitea: we8tguivdbsd/21eyay8qeyciubaya | partial | 2026-06-20T21:36:03Z | [open](../records/repository-workplaces-gitea-we8tguivdbsd-21eyay8qeyciubaya-47fe49cc.md) |
 | Gitea: zaccesss/.profile | partial | 2026-09-09T10:05:06Z | [open](../records/repository-workplaces-gitea-zaccesss-profile-898ffe18.md) |
-| gitlab-com/gl-infra/k8s-workloads/gitlab-com | partial | 2026-09-09T10:26:46.858Z | [open](../records/repository-workplaces-gitlab-com-gl-infra-k8s-workloads-gitlab-com-13cc554b.md) |
+| gitlab-com/gl-infra/k8s-workloads/gitlab-com | partial | 2026-09-09T12:47:31.405Z | [open](../records/repository-workplaces-gitlab-com-gl-infra-k8s-workloads-gitlab-com-13cc554b.md) |
 | gitlab-data/data-image | partial | 2026-08-21T11:24:30.282Z | [open](../records/repository-workplaces-gitlab-data-data-image-0af0c35c.md) |
 | gitlab-examples/kubernetes-deploy | partial | 2026-01-07T14:56:28.754Z | [open](../records/repository-workplaces-gitlab-examples-kubernetes-deploy-9a43e04a.md) |
 | gitlab-examples/ruby-autodeploy | partial | 2026-01-07T14:56:29.516Z | [open](../records/repository-workplaces-gitlab-examples-ruby-autodeploy-0ea70988.md) |
 | gitlab-org/caproni | partial | 2026-09-09T09:16:29.875Z | [open](../records/repository-workplaces-gitlab-org-caproni-40271619.md) |
 | gitlab-org/charts/gitlab-agent | partial | 2026-09-09T08:49:10.879Z | [open](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) |
 | gitlab-org/ci-cd/gitlab-runner-pod-cleanup | partial | 2026-05-15T07:38:19.652Z | [open](../records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) |
-| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-09T11:06:29.618Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
+| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-09T13:47:53.763Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
 | gitlab-org/kubernetes-gitlab-demo | partial | 2026-01-07T10:09:42.404Z | [open](../records/repository-workplaces-gitlab-org-kubernetes-gitlab-demo-d867dc50.md) |
 | glitchtip/glitchtip-helm-chart | partial | 2026-08-01T00:27:07.881Z | [open](../records/repository-workplaces-glitchtip-glitchtip-helm-chart-8da5da49.md) |
 | just.insane/kubernetes | partial | 2019-12-24T04:31:25.427Z | [open](../records/repository-workplaces-just-insane-kubernetes-b3dc8533.md) |
@@ -1897,4 +1897,4 @@ Records: `1633`
 | xavki/tutorials-kubernetes-v2 | partial | 2026-06-21T11:05:47.441Z | [open](../records/repository-workplaces-xavki-tutorials-kubernetes-v2-f5262aef.md) |
 | xavki/tutorials-terraform | partial | 2026-06-21T11:06:39.325Z | [open](../records/repository-workplaces-xavki-tutorials-terraform-293992cc.md) |
 | xavki/vagrant-stacks-library | partial | 2026-06-21T11:06:12.528Z | [open](../records/repository-workplaces-xavki-vagrant-stacks-library-9b9d6de1.md) |
-| yaook/operator | partial | 2026-09-09T11:47:34.069Z | [open](../records/repository-workplaces-yaook-operator-aa452dcd.md) |
+| yaook/operator | partial | 2026-09-09T13:31:38.694Z | [open](../records/repository-workplaces-yaook-operator-aa452dcd.md) |

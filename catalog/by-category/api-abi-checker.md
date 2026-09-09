@@ -1,6 +1,6 @@
 # Api Abi Checker
 
-Records: `229`
+Records: `230`
 
 ## Navigation
 
@@ -8,21 +8,21 @@ Records: `229`
 
 ## Category Index
 
-**[Api Abi Checker (229)](api-abi-checker.md)** · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1003)](build-system.md) · [Cli (575)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+**[Api Abi Checker (230)](api-abi-checker.md)** · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1003)](build-system.md) · [Cli (578)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (120)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
-[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (134)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (179)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (241)](datetime.md)
+[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (135)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (241)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (466)](ffi-bindings.md) · [Filesystem Os (1623)](filesystem-os.md) · [Formatter (654)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (359)](game-engine-game-dev.md) · [Ide Editor Integration (1479)](ide-editor-integration.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (467)](ffi-bindings.md) · [Filesystem Os (1623)](filesystem-os.md) · [Formatter (654)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (360)](game-engine-game-dev.md) · [Ide Editor Integration (1480)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5864)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (533)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5869)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (534)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1062)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1211)](parser-lexer-ast.md) · [Precommit Ci Quality (311)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1214)](parser-lexer-ast.md) · [Precommit Ci Quality (312)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (637)](static-analyzer.md)
+[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (639)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (623)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
 [Undefined Behavior Analyzer (1633)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (564)](visualization-gui.md) · [Web Framework (492)](web-framework.md)
 
@@ -160,6 +160,7 @@ Records: `229`
 | PxWebApiData | 2.0.0 | 2026-09-09 09:40:08 UTC | [open](../records/r-pxwebapidata-7e7a97c2.md) |
 | rbm25 | 2.3.2 | 2026-08-21 17:30:10 UTC | [open](../records/r-rbm25-67595d25.md) |
 | RColetum | 1.1.0 | 2026-08-21 05:46:03 UTC | [open](../records/r-rcoletum-8ab4ea75.md) |
+| RcppXts | 0.0.7 | 2026-09-09 12:30:17 UTC | [open](../records/r-rcppxts-075908ab.md) |
 | RelDists | 1.0.2 | 2026-09-07 02:20:02 UTC | [open](../records/r-reldists-29ab375f.md) |
 | resultcheck | 0.3.0 | 2026-09-02 11:10:08 UTC | [open](../records/r-resultcheck-86b0a956.md) |
 | rfacebookstat | 2.16.1 | 2026-08-25 11:10:02 UTC | [open](../records/r-rfacebookstat-858e33cb.md) |
@@ -390,8 +391,8 @@ Records: `229`
 | com.sap.cloud:neo-javaee7-wp-api | 1.202.2 | 2025-06-11T13:48:34+00:00 | [open](../records/sapjava-com-sap-cloud-neo-javaee7-wp-api-7a6c1c62.md) |
 | DHariharanD/sap-cap-external-services-trial | partial | 2026-06-16T14:15:50Z | [open](../records/sapjava-dhariharand-sap-cap-external-services-trial-e4846fa0.md) |
 | habibasherif/projects-service | partial | 2024-03-04T07:15:09Z | [open](../records/sapjava-habibasherif-projects-service-e86db8dc.md) |
-| ivancasas96/SpringBootApp-CloudFoundry | partial | 2024-03-24T14:06:42Z | [open](../records/sapjava-ivancasas96-springbootapp-cloudfoundry-90e33380.md) |
-| marvin-w/ccv2-kotlin-sdk | partial | 2020-07-12T19:08:08Z | [open](../records/sapjava-marvin-w-ccv2-kotlin-sdk-14d24439.md) |
+| ivancasas96/SpringBootApp-CloudFoundry | unknown | not_a_maven_coordinate | [open](../records/sapjava-ivancasas96-springbootapp-cloudfoundry-90e33380.md) |
+| marvin-w/ccv2-kotlin-sdk | unknown | not_a_maven_coordinate | [open](../records/sapjava-marvin-w-ccv2-kotlin-sdk-14d24439.md) |
 | rupam999/SAP-CAP-Java-Sample-Survey-API | partial | 2024-08-28T01:15:54Z | [open](../records/sapjava-rupam999-sap-cap-java-sample-survey-api-3b6ac5d6.md) |
 
 ## Cocoa
