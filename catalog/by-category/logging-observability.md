@@ -1,6 +1,6 @@
 # Logging Observability
 
-Records: `535`
+Records: `536`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `535`
 ## Category Index
 
 [Api Abi Checker (230)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1005)](build-system.md) · [Cli (582)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (121)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1018)](build-system.md) · [Cli (582)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (122)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (135)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (106)](dependency-manager.md) · [Documentation (110)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (468)](ffi-bindings.md) · [Filesystem Os (1625)](filesystem-os.md) · [Formatter (654)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1481)](ide-editor-integration.md)
-[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1454)](language-specification.md) · [Library (5884)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · **[Logging Observability (535)](logging-observability.md)** · [Machine Learning (816)](machine-learning.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (106)](dependency-manager.md) · [Documentation (111)](documentation.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (469)](ffi-bindings.md) · [Filesystem Os (1629)](filesystem-os.md) · [Formatter (655)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1485)](ide-editor-integration.md)
+[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (277)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1456)](language-specification.md) · [Library (5890)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · **[Logging Observability (536)](logging-observability.md)** · [Machine Learning (818)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1066)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1214)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
-[Profiler (93)](profiler.md) · [Project Scaffolding (139)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (642)](static-analyzer.md)
+[Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1215)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
+[Profiler (93)](profiler.md) · [Project Scaffolding (141)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (642)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1633)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (566)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
+[Undefined Behavior Analyzer (1634)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (572)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
 
 ## C99
 
@@ -360,7 +360,7 @@ Records: `535`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 2noise/ChatTTS | partial | 2026-04-10T16:33:48Z | [open](../records/aim-s-2noise-chattts-5e993170.md) |
-| langfuse/langfuse | partial | 2026-09-09T18:25:32Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
+| langfuse/langfuse | partial | 2026-09-09T19:14:28Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
 | microsoft/semantic-kernel | partial | 2026-09-09T06:03:59Z | [open](../records/aim-s-microsoft-semantic-kernel-ef95bef0.md) |
 | MLflow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-mlflow-1732aa2b.md) |
 | OpenTelemetry Semantic Conventions For GenAI | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-opentelemetry-semantic-conventions-for-genai-e834f611.md) |
@@ -404,6 +404,7 @@ Records: `535`
 | edent/SuperTinyIcons | partial | 2026-05-18T06:50:14Z | [open](../records/icons-and-logos-edent-supertinyicons-cfc386d5.md) |
 | frinyvonnick/gitmoji-changelog | partial | 2024-05-23T14:53:21Z | [open](../records/icons-and-logos-frinyvonnick-gitmoji-changelog-3c54e45b.md) |
 | lukas-w/font-logos | partial | 2026-07-20T16:02:02Z | [open](../records/icons-and-logos-lukas-w-font-logos-0a7c0b48.md) |
+| magicpatterns/catalog | partial | 2024-05-03T20:23:35Z | [open](../records/icons-and-logos-magicpatterns-catalog-62876da5.md) |
 | pheralb/svgl | partial | 2026-09-04T09:41:02Z | [open](../records/icons-and-logos-pheralb-svgl-afe7acb0.md) |
 | vorillaz/devicons | partial | 2026-05-10T21:43:36Z | [open](../records/icons-and-logos-vorillaz-devicons-65e30795.md) |
 | xandemon/developer-icons | partial | 2026-08-08T12:33:35Z | [open](../records/icons-and-logos-xandemon-developer-icons-43879739.md) |
@@ -415,7 +416,7 @@ Records: `535`
 | easylogic/fontmoa | partial | 2023-01-25T00:48:10Z | [open](../records/font-briefcase-easylogic-fontmoa-56792197.md) |
 | JunaidQadirB/font-os | partial | 2020-05-25T22:50:47Z | [open](../records/font-briefcase-junaidqadirb-font-os-06c12a89.md) |
 | source-foundry/font-line | partial | 2023-05-11T00:57:14Z | [open](../records/font-briefcase-source-foundry-font-line-8f19a031.md) |
-| unjs/fontaine | partial | 2026-09-08T18:30:54Z | [open](../records/font-briefcase-unjs-fontaine-7b355784.md) |
+| unjs/fontaine | partial | 2026-09-09T15:03:20Z | [open](../records/font-briefcase-unjs-fontaine-7b355784.md) |
 | vorillaz/devicons | partial | 2026-05-10T21:43:36Z | [open](../records/font-briefcase-vorillaz-devicons-0d4fa77a.md) |
 
 ## Assets
@@ -628,7 +629,7 @@ Records: `535`
 | adityacodes30/catalog-scoring-ondc | partial | 2024-06-23T17:33:29Z | [open](../records/repertoare-catalogs-adityacodes30-catalog-scoring-ondc-eed2618c.md) |
 | AdityaLad2004/Catalog-Score | partial | 2024-02-10T18:28:30Z | [open](../records/repertoare-catalogs-adityalad2004-catalog-score-1c228719.md) |
 | alphaparkinc/genpark-catalog-enrichment-skill | partial | 2026-07-10T05:51:52Z | [open](../records/repertoare-catalogs-alphaparkinc-genpark-catalog-enrichment-skill-9442da58.md) |
-| Arnon-hs/open-source | partial | 2026-09-09T16:06:05Z | [open](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) |
+| Arnon-hs/open-source | partial | 2026-09-09T19:19:14Z | [open](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) |
 | CHagarty/scorecard-catalogue | partial | 2025-07-11T00:33:16Z | [open](../records/repertoare-catalogs-chagarty-scorecard-catalogue-ac87b7bd.md) |
 | Chistera-Scoring/services-catalog | partial | 2023-11-27T10:50:20Z | [open](../records/repertoare-catalogs-chistera-scoring-services-catalog-59fbb312.md) |
 | Eswaraiahsapram/scorecard-catalog | partial | 2025-09-02T05:54:30Z | [open](../records/repertoare-catalogs-eswaraiahsapram-scorecard-catalog-92541430.md) |

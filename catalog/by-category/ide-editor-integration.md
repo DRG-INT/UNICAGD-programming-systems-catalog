@@ -1,6 +1,6 @@
 # Ide Editor Integration
 
-Records: `1481`
+Records: `1485`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `1481`
 ## Category Index
 
 [Api Abi Checker (230)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1005)](build-system.md) · [Cli (582)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (121)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1018)](build-system.md) · [Cli (582)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (122)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (135)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (106)](dependency-manager.md) · [Documentation (110)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (468)](ffi-bindings.md) · [Filesystem Os (1625)](filesystem-os.md) · [Formatter (654)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · **[Ide Editor Integration (1481)](ide-editor-integration.md)**
-[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1454)](language-specification.md) · [Library (5884)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (535)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (106)](dependency-manager.md) · [Documentation (111)](documentation.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (469)](ffi-bindings.md) · [Filesystem Os (1629)](filesystem-os.md) · [Formatter (655)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · **[Ide Editor Integration (1485)](ide-editor-integration.md)**
+[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (277)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1456)](language-specification.md) · [Library (5890)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (536)](logging-observability.md) · [Machine Learning (818)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1066)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1214)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
-[Profiler (93)](profiler.md) · [Project Scaffolding (139)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (642)](static-analyzer.md)
+[Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1215)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
+[Profiler (93)](profiler.md) · [Project Scaffolding (141)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (642)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1633)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (566)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
+[Undefined Behavior Analyzer (1634)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (572)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
 
 ## C++23
 
@@ -682,16 +682,16 @@ Records: `1481`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AdguardTeam/AdGuardHome | partial | 2026-09-07T03:26:21Z | [open](../records/go-adguardteam-adguardhome-7d76b56d.md) |
+| AdguardTeam/AdGuardHome | unknown | not_a_go_module_path | [open](../records/go-adguardteam-adguardhome-7d76b56d.md) |
 | cloudreve/cloudreve | partial | 2026-09-04T08:39:31Z | [open](../records/go-cloudreve-cloudreve-85a07260.md) |
-| gorilla/websocket | partial | 2025-03-19T13:29:08Z | [open](../records/go-gorilla-websocket-b72dd879.md) |
+| gorilla/websocket | unknown | not_a_go_module_path | [open](../records/go-gorilla-websocket-b72dd879.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-07T12:44:29Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-09T18:23:06Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-09T18:47:34Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-05T16:04:02Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-09T01:33:11Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-09T18:12:29Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
@@ -771,19 +771,23 @@ Records: `1481`
 | Abdelrhman-AK/WinPaletter | partial | 2026-08-26T21:17:43Z | [open](../records/icons-and-logos-abdelrhman-ak-winpaletter-deec1c3b.md) |
 | amitmerchant1990/electron-markdownify | partial | 2026-01-12T11:12:10Z | [open](../records/icons-and-logos-amitmerchant1990-electron-markdownify-78c3b894.md) |
 | bergside/awesome-design-skills | partial | 2026-06-28T10:05:22Z | [open](../records/icons-and-logos-bergside-awesome-design-skills-1172f515.md) |
+| bitjaru/styleseed | partial | 2026-09-09T01:41:40Z | [open](../records/icons-and-logos-bitjaru-styleseed-3a1c17bb.md) |
 | burhanrashid52/PhotoEditor | partial | 2026-06-09T06:24:16Z | [open](../records/icons-and-logos-burhanrashid52-photoeditor-7ea96ffb.md) |
 | carloscuesta/gitmoji | partial | 2026-08-31T10:17:40Z | [open](../records/icons-and-logos-carloscuesta-gitmoji-4d11f7db.md) |
 | dhanishgajjar/vscode-icons | partial | 2023-09-25T01:22:12Z | [open](../records/icons-and-logos-dhanishgajjar-vscode-icons-87e27ce3.md) |
 | erikthedeveloper/code-review-emoji-guide | partial | 2022-04-18T17:24:14Z | [open](../records/icons-and-logos-erikthedeveloper-code-review-emoji-guide-1757086c.md) |
-| grommet/grommet | partial | 2026-09-02T20:22:33Z | [open](../records/icons-and-logos-grommet-grommet-449c9abf.md) |
+| grommet/grommet | partial | 2026-09-09T18:59:27Z | [open](../records/icons-and-logos-grommet-grommet-449c9abf.md) |
+| hendurhance/ui-ux | partial | 2026-08-14T00:18:35Z | [open](../records/icons-and-logos-hendurhance-ui-ux-127977c6.md) |
 | hunghg255/reactjs-tiptap-editor | partial | 2026-08-15T23:29:40Z | [open](../records/icons-and-logos-hunghg255-reactjs-tiptap-editor-f3e43edb.md) |
 | juliettef/IconFontCppHeaders | partial | 2026-06-05T09:06:02Z | [open](../records/icons-and-logos-juliettef-iconfontcppheaders-8f33aea4.md) |
 | lucide-icons/lucide | partial | 2026-09-04T15:42:04Z | [open](../records/icons-and-logos-lucide-icons-lucide-d5375c95.md) |
 | maoschanz/emoji-selector-for-gnome | partial | 2023-09-01T13:48:56Z | [open](../records/icons-and-logos-maoschanz-emoji-selector-for-gnome-f3647b28.md) |
 | neutraltone/awesome-stock-resources | partial | 2026-02-11T22:01:53Z | [open](../records/icons-and-logos-neutraltone-awesome-stock-resources-80ddf47e.md) |
 | nvim-tree/nvim-web-devicons | partial | 2026-08-30T23:11:57Z | [open](../records/icons-and-logos-nvim-tree-nvim-web-devicons-6083b38a.md) |
+| rohitg00/awesome-claude-design | partial | 2026-04-23T13:37:55Z | [open](../records/icons-and-logos-rohitg00-awesome-claude-design-c8feb316.md) |
 | ryanoasis/vim-devicons | partial | 2024-05-09T13:57:14Z | [open](../records/icons-and-logos-ryanoasis-vim-devicons-45d95ff5.md) |
 | slashsbin/styleguide-git-commit-message | partial | 2025-07-29T07:10:31Z | [open](../records/icons-and-logos-slashsbin-styleguide-git-commit-message-0dd277ae.md) |
+| Trendyol/baklava | partial | 2026-08-31T11:59:29Z | [open](../records/icons-and-logos-trendyol-baklava-d44d7b34.md) |
 | vue-styleguidist/vue-styleguidist | partial | 2026-07-31T09:52:27Z | [open](../records/icons-and-logos-vue-styleguidist-vue-styleguidist-817efb1f.md) |
 
 ## Font Briefcase
@@ -822,13 +826,13 @@ Records: `1481`
 | tejaswigowda/ffmpeg-webCLI | partial | 2026-09-03T01:41:12Z | [open](../records/assets-tejaswigowda-ffmpeg-webcli-e2d7593b.md) |
 | Trenavix/SM64Paint | partial | 2020-09-30T02:14:11Z | [open](../records/assets-trenavix-sm64paint-e611d812.md) |
 | trickest/insiders | partial | 2023-09-25T15:20:03Z | [open](../records/assets-trickest-insiders-50e57fb3.md) |
-| vulture-s/arkiv | partial | 2026-09-08T09:20:38Z | [open](../records/assets-vulture-s-arkiv-be252330.md) |
+| vulture-s/arkiv | partial | 2026-09-09T16:47:30Z | [open](../records/assets-vulture-s-arkiv-be252330.md) |
 
 ## Maps
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| apache/ofbiz-framework | partial | 2026-09-09T06:01:19Z | [open](../records/maps-apache-ofbiz-framework-6d8fd7d2.md) |
+| apache/ofbiz-framework | partial | 2026-09-09T18:26:06Z | [open](../records/maps-apache-ofbiz-framework-6d8fd7d2.md) |
 | bryceco/GoMap | partial | 2026-09-06T20:59:29Z | [open](../records/maps-bryceco-gomap-1140769c.md) |
 | dimartarmizi/map-to-poster | partial | 2026-06-06T16:19:07Z | [open](../records/maps-dimartarmizi-map-to-poster-da1cffb2.md) |
 | eli-labz/Third-Eye | partial | 2026-06-13T06:29:56Z | [open](../records/maps-eli-labz-third-eye-89c57d06.md) |
@@ -843,7 +847,7 @@ Records: `1481`
 | mesa/mesa | partial | 2026-09-08T08:20:39Z | [open](../records/maps-mesa-mesa-17eaaf0c.md) |
 | mikeroyal/Photogrammetry-Guide | partial | 2025-06-27T02:10:14Z | [open](../records/maps-mikeroyal-photogrammetry-guide-6865d45a.md) |
 | nextcloud/maps | partial | 2026-09-06T01:55:04Z | [open](../records/maps-nextcloud-maps-88692299.md) |
-| opengeos/GeoLibre | partial | 2026-09-09T01:46:12Z | [open](../records/maps-opengeos-geolibre-d27e2918.md) |
+| opengeos/GeoLibre | partial | 2026-09-09T17:19:25Z | [open](../records/maps-opengeos-geolibre-d27e2918.md) |
 | openstreetmap/iD | partial | 2026-09-08T11:23:58Z | [open](../records/maps-openstreetmap-id-28300897.md) |
 | placemark/placemark | partial | 2026-09-07T00:44:07Z | [open](../records/maps-placemark-placemark-23f6cbdc.md) |
 | pnorman/openstreetmap-cartographic | partial | 2021-01-24T05:46:22Z | [open](../records/maps-pnorman-openstreetmap-cartographic-7fcc81f2.md) |
@@ -1360,7 +1364,7 @@ Records: `1481`
 | mrcjkb/telescope-manix | partial | 2026-09-06T00:27:41Z | [open](../records/telescopes-mrcjkb-telescope-manix-74de5637.md) |
 | mrjones2014/dash.nvim | partial | 2022-08-30T00:29:47Z | [open](../records/telescopes-mrjones2014-dash-nvim-c0435f14.md) |
 | mrjones2014/tldr.nvim | partial | 2024-01-02T13:18:05Z | [open](../records/telescopes-mrjones2014-tldr-nvim-207a9aa6.md) |
-| MWATelescope/mwa_hyperdrive | partial | 2026-09-06T16:09:08Z | [open](../records/telescopes-mwatelescope-mwa-hyperdrive-c5f9ac6f.md) |
+| MWATelescope/mwa_hyperdrive | partial | 2026-09-07T13:16:01Z | [open](../records/telescopes-mwatelescope-mwa-hyperdrive-c5f9ac6f.md) |
 | natecraddock/telescope-zf-native.nvim | partial | 2024-09-15T14:04:41Z | [open](../records/telescopes-natecraddock-telescope-zf-native-nvim-b5f7ffd2.md) |
 | nvim-telescope/telescope-fzf-native.nvim | partial | 2026-05-06T14:30:36Z | [open](../records/telescopes-nvim-telescope-telescope-fzf-native-nvim-4183d483.md) |
 | octarect/telescope-menu.nvim | partial | 2025-08-29T19:10:35Z | [open](../records/telescopes-octarect-telescope-menu-nvim-fca0ddf6.md) |
@@ -1376,7 +1380,7 @@ Records: `1481`
 | ryanmsnyder/toggleterm-manager.nvim | partial | 2023-12-03T16:36:54Z | [open](../records/telescopes-ryanmsnyder-toggleterm-manager-nvim-18379843.md) |
 | Shatur/neovim-session-manager | partial | 2026-01-26T08:29:30Z | [open](../records/telescopes-shatur-neovim-session-manager-c85f7378.md) |
 | shivamashtikar/tmuxjump.vim | partial | 2022-05-28T11:12:55Z | [open](../records/telescopes-shivamashtikar-tmuxjump-vim-6d96d0e3.md) |
-| sidereal-io/sidereal | partial | 2026-08-31T04:17:21Z | [open](../records/telescopes-sidereal-io-sidereal-a812056c.md) |
+| sidereal-io/sidereal | partial | 2026-09-07T04:15:42Z | [open](../records/telescopes-sidereal-io-sidereal-a812056c.md) |
 | Snikimonkd/telescope-git-conflicts.nvim | partial | 2024-01-14T11:59:28Z | [open](../records/telescopes-snikimonkd-telescope-git-conflicts-nvim-698ea0ce.md) |
 | softinio/scaladex.nvim | partial | 2025-06-08T19:30:45Z | [open](../records/telescopes-softinio-scaladex-nvim-76db7af3.md) |
 | Starainrt/astro | partial | 2026-08-06T04:42:42Z | [open](../records/telescopes-starainrt-astro-d4884d0b.md) |
@@ -1412,7 +1416,7 @@ Records: `1481`
 | bellingcat/sar-interference-tracker | partial | 2022-02-23T13:57:03Z | [open](../records/satcom-satellites-bellingcat-sar-interference-tracker-812a2aa7.md) |
 | cbassa/stvid | partial | 2026-06-14T12:26:58Z | [open](../records/satcom-satellites-cbassa-stvid-b0821bf9.md) |
 | CScorza/GEOINTInvestigation | partial | 2025-08-08T09:23:42Z | [open](../records/satcom-satellites-cscorza-geointinvestigation-97ccfead.md) |
-| dividebysandwich/sdroxide | partial | 2026-09-09T09:45:04Z | [open](../records/satcom-satellites-dividebysandwich-sdroxide-b0d1a434.md) |
+| dividebysandwich/sdroxide | partial | 2026-09-09T17:38:24Z | [open](../records/satcom-satellites-dividebysandwich-sdroxide-b0d1a434.md) |
 | JonaNorman/HDRSample | partial | 2024-08-01T09:01:08Z | [open](../records/satcom-satellites-jonanorman-hdrsample-b3b07c40.md) |
 | jx9527/FHSS-Hopping-Estimation | partial | 2022-06-27T02:51:40Z | [open](../records/satcom-satellites-jx9527-fhss-hopping-estimation-df3390c6.md) |
 | MarcinWachowiak/gr-aoa | partial | 2022-03-19T19:25:05Z | [open](../records/satcom-satellites-marcinwachowiak-gr-aoa-f666d650.md) |
@@ -1425,7 +1429,7 @@ Records: `1481`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| 777arc/PySDR | partial | 2026-09-08T19:31:51Z | [open](../records/electromagnetoscopes-777arc-pysdr-75b8d003.md) |
+| 777arc/PySDR | partial | 2026-09-09T18:06:49Z | [open](../records/electromagnetoscopes-777arc-pysdr-75b8d003.md) |
 | AresValley/Artemis | partial | 2026-07-22T21:31:27Z | [open](../records/electromagnetoscopes-aresvalley-artemis-b7d5042b.md) |
 | HoBeZwe/SphericalScattering.jl | partial | 2025-04-25T22:38:09Z | [open](../records/electromagnetoscopes-hobezwe-sphericalscattering-jl-ba9079c6.md) |
 | JonaNorman/HDRSample | partial | 2024-08-01T09:01:08Z | [open](../records/electromagnetoscopes-jonanorman-hdrsample-ac827086.md) |

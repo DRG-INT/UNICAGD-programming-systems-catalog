@@ -9,22 +9,22 @@ Records: `642`
 ## Category Index
 
 [Api Abi Checker (230)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1005)](build-system.md) · [Cli (582)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (121)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1018)](build-system.md) · [Cli (582)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (122)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (135)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (106)](dependency-manager.md) · [Documentation (110)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (468)](ffi-bindings.md) · [Filesystem Os (1625)](filesystem-os.md) · [Formatter (654)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1481)](ide-editor-integration.md)
-[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1454)](language-specification.md) · [Library (5884)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (535)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (106)](dependency-manager.md) · [Documentation (111)](documentation.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (469)](ffi-bindings.md) · [Filesystem Os (1629)](filesystem-os.md) · [Formatter (655)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1485)](ide-editor-integration.md)
+[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (277)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1456)](language-specification.md) · [Library (5890)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (536)](logging-observability.md) · [Machine Learning (818)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1066)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1214)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
-[Profiler (93)](profiler.md) · [Project Scaffolding (139)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · **[Static Analyzer (642)](static-analyzer.md)**
+[Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1215)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
+[Profiler (93)](profiler.md) · [Project Scaffolding (141)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · **[Static Analyzer (642)](static-analyzer.md)**
 [Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1633)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (566)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
+[Undefined Behavior Analyzer (1634)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (572)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
 
 ## C99
 
@@ -408,14 +408,14 @@ Records: `642`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| career-ops-hq/career-ops | partial | 2026-09-09T05:33:03Z | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
+| career-ops-hq/career-ops | unknown | not_a_go_module_path | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
 | codeberg.org/momar/simple-scan-server | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-codeberg-org-momar-simple-scan-server-8e5010e0.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| paperless-ngx/paperless-ngx | partial | 2026-09-09T18:07:38Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
+| paperless-ngx/paperless-ngx | partial | 2026-09-09T18:33:42Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
 | ZhuLinsen/daily_stock_analysis | partial | 2026-09-06T12:34:16Z | [open](../records/aim-s-zhulinsen-daily-stock-analysis-509bb8f4.md) |
 
 ## Computer Graphics Software
@@ -443,7 +443,7 @@ Records: `642`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ArturSepp/QuantInvestStrats | partial | 2026-09-09T03:25:22Z | [open](../records/assets-artursepp-quantinveststrats-a7a51697.md) |
+| ArturSepp/QuantInvestStrats | partial | 2026-09-09T16:12:38Z | [open](../records/assets-artursepp-quantinveststrats-a7a51697.md) |
 | letianzj/QuantResearch | partial | 2023-08-26T12:16:05Z | [open](../records/assets-letianzj-quantresearch-61864c0e.md) |
 | Samukashvili/LUMEN-PS | partial | 2026-08-22T18:47:11Z | [open](../records/assets-samukashvili-lumen-ps-760ce575.md) |
 | ScanMountGoat/image_dds | partial | 2025-09-28T21:42:29Z | [open](../records/assets-scanmountgoat-image-dds-87704c34.md) |
@@ -458,7 +458,7 @@ Records: `642`
 | CosmiQ/solaris | unknown | github_search_does_not_include_release_date | [open](../records/maps-cosmiq-solaris-c6ba877b.md) |
 | Esri/arcgis-python-api | unknown | github_search_does_not_include_release_date | [open](../records/maps-esri-arcgis-python-api-1e7e8d6c.md) |
 | gboeing/osmnx | unknown | github_search_does_not_include_release_date | [open](../records/maps-gboeing-osmnx-e39532fb.md) |
-| gee-community/geemap | partial | 2026-09-04T17:39:42Z | [open](../records/maps-gee-community-geemap-3a2ab7d7.md) |
+| gee-community/geemap | partial | 2026-09-09T13:04:03Z | [open](../records/maps-gee-community-geemap-3a2ab7d7.md) |
 | GeoRetina/chat2geo | unknown | github_search_does_not_include_release_date | [open](../records/maps-georetina-chat2geo-de4bfd06.md) |
 | iamtekson/Leaflet-from-basic-to-advance | partial | 2025-02-01T21:37:25Z | [open](../records/maps-iamtekson-leaflet-from-basic-to-advance-889350fe.md) |
 | jblindsay/whitebox-tools | partial | 2026-05-26T15:31:03Z | [open](../records/maps-jblindsay-whitebox-tools-802abb76.md) |
@@ -628,7 +628,7 @@ Records: `642`
 | --- | --- | --- | --- |
 | gwastro/pycbc | partial | 2026-09-07T15:06:56Z | [open](../records/telescopes-gwastro-pycbc-b93b6565.md) |
 | Hrishikesh332/Astronomy_Analysis | partial | 2023-01-07T15:50:46Z | [open](../records/telescopes-hrishikesh332-astronomy-analysis-714231c8.md) |
-| iraf-community/iraf | partial | 2026-09-05T17:06:22Z | [open](../records/telescopes-iraf-community-iraf-5c34feb3.md) |
+| iraf-community/iraf | partial | 2026-09-09T09:25:58Z | [open](../records/telescopes-iraf-community-iraf-5c34feb3.md) |
 | lightkurve/lightkurve | partial | 2026-08-25T19:58:28Z | [open](../records/telescopes-lightkurve-lightkurve-47762682.md) |
 | mengchaoheng/PINDI | partial | 2026-07-27T02:56:23Z | [open](../records/telescopes-mengchaoheng-pindi-082f8769.md) |
 | RononDex/Astrobot | partial | 2026-09-03T19:57:34Z | [open](../records/telescopes-ronondex-astrobot-cb92f0ee.md) |

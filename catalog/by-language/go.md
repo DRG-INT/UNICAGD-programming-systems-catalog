@@ -9,22 +9,22 @@ Records: `1052`
 ## Category Index
 
 [Api Abi Checker (230)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
-[Benchmarking (202)](../by-category/benchmarking.md) · [Build System (1005)](../by-category/build-system.md) · [Cli (582)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (121)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (53)](../by-category/compression.md)
+[Benchmarking (202)](../by-category/benchmarking.md) · [Build System (1018)](../by-category/build-system.md) · [Cli (582)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (122)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (53)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (135)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (180)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (974)](../by-category/database-datastore.md) · [Datetime (241)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (106)](../by-category/dependency-manager.md) · [Documentation (110)](../by-category/documentation.md)
-[Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (468)](../by-category/ffi-bindings.md) · [Filesystem Os (1625)](../by-category/filesystem-os.md) · [Formatter (654)](../by-category/formatter.md)
-[Framework (63)](../by-category/framework.md) · [Fuzzer (59)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1481)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (443)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (276)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1454)](../by-category/language-specification.md) · [Library (5884)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (535)](../by-category/logging-observability.md) · [Machine Learning (816)](../by-category/machine-learning.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (106)](../by-category/dependency-manager.md) · [Documentation (111)](../by-category/documentation.md)
+[Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (469)](../by-category/ffi-bindings.md) · [Filesystem Os (1629)](../by-category/filesystem-os.md) · [Formatter (655)](../by-category/formatter.md)
+[Framework (63)](../by-category/framework.md) · [Fuzzer (59)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1485)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (443)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (277)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1456)](../by-category/language-specification.md) · [Library (5890)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (536)](../by-category/logging-observability.md) · [Machine Learning (818)](../by-category/machine-learning.md)
 [Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1066)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (445)](../by-category/package-manager.md) · [Parser Lexer Ast (1214)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (313)](../by-category/precommit-ci-quality.md)
-[Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (139)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
-[Security Sast (337)](../by-category/security-sast.md) · [Serialization (402)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (642)](../by-category/static-analyzer.md)
+[Other (14)](../by-category/other.md) · [Package Manager (445)](../by-category/package-manager.md) · [Parser Lexer Ast (1215)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (313)](../by-category/precommit-ci-quality.md)
+[Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (141)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
+[Security Sast (337)](../by-category/security-sast.md) · [Serialization (403)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (642)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (627)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1633)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (566)](../by-category/visualization-gui.md) · [Web Framework (493)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1634)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (572)](../by-category/visualization-gui.md) · [Web Framework (493)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -62,18 +62,18 @@ Records: `1052`
 | [github.com/espressif/esp32-arduino-lib-builder](../records/go-github-com-espressif-esp32-arduino-lib-builder-2032e2a7.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/Gumyr/build123d](../records/go-github-com-gumyr-build123d-042e26d3.md) | v0.3.0 | 2026-08-30T10:07:18.967525Z | registry-derived |
 | [github.com/osbuild/image-builder](../records/go-github-com-osbuild-image-builder-77f333e8.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [go-chi/chi](../records/go-go-chi-chi-fa341546.md) | partial | 2026-09-08T16:04:08Z | registry-derived |
+| [go-chi/chi](../records/go-go-chi-chi-fa341546.md) | unknown | not_a_go_module_path | registry-derived |
 | [go.ytsaurus.tech/library/go/core/buildinfo](../records/go-go-ytsaurus-tech-library-go-core-buildinfo-4bb9b494.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [gorilla/mux](../records/go-gorilla-mux-27a938a4.md) | partial | 2024-08-15T03:10:55Z | registry-derived |
+| [gorilla/mux](../records/go-gorilla-mux-27a938a4.md) | unknown | not_a_go_module_path | registry-derived |
 | [mmonterroca/docxgo](../records/go-mmonterroca-docxgo-56eccfba.md) | partial | 2026-08-26T23:05:23Z | registry-derived |
 
 ### Cli
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [golang-migrate/migrate](../records/go-golang-migrate-migrate-c00bf5c0.md) | partial | 2026-09-09T05:06:21Z | registry-derived |
+| [golang-migrate/migrate](../records/go-golang-migrate-migrate-c00bf5c0.md) | unknown | not_a_go_module_path | registry-derived |
 | [JanDeDobbeleer/oh-my-posh](../records/go-jandedobbeleer-oh-my-posh-0e751a91.md) | partial | 2026-09-09T00:07:22Z | registry-derived |
-| [yorukot/superfile](../records/go-yorukot-superfile-1e2c0bb7.md) | partial | 2026-09-07T18:09:48Z | registry-derived |
+| [yorukot/superfile](../records/go-yorukot-superfile-1e2c0bb7.md) | partial | 2026-09-09T19:02:03Z | registry-derived |
 
 ### Community Reference
 
@@ -97,13 +97,13 @@ Records: `1052`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ente/ente](../records/go-ente-ente-f02441bb.md) | partial | 2026-09-09T17:11:20Z | registry-derived |
+| [ente/ente](../records/go-ente-ente-f02441bb.md) | unknown | not_a_go_module_path | registry-derived |
 
 ### Database Datastore
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [gofr-dev/gofr](../records/go-gofr-dev-gofr-9cdbe495.md) | partial | 2026-09-09T11:53:19Z | registry-derived |
+| [gofr-dev/gofr](../records/go-gofr-dev-gofr-9cdbe495.md) | unknown | not_a_go_module_path | registry-derived |
 
 ### Datetime
 
@@ -131,13 +131,13 @@ Records: `1052`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [filippo.io/mostly-harmless/dockerdns](../records/go-filippo-io-mostly-harmless-dockerdns-75b5c5a5.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [fyne-io/fyne](../records/go-fyne-io-fyne-de36c7ca.md) | partial | 2026-09-08T09:34:14Z | registry-derived |
-| [ginuerzh/gost](../records/go-ginuerzh-gost-9e6fc76a.md) | partial | 2026-08-30T10:02:45Z | registry-derived |
-| [go-kratos/kratos](../records/go-go-kratos-kratos-75d15f10.md) | partial | 2026-08-19T05:14:19Z | registry-derived |
+| [fyne-io/fyne](../records/go-fyne-io-fyne-de36c7ca.md) | unknown | not_a_go_module_path | registry-derived |
+| [ginuerzh/gost](../records/go-ginuerzh-gost-9e6fc76a.md) | unknown | not_a_go_module_path | registry-derived |
+| [go-kratos/kratos](../records/go-go-kratos-kratos-75d15f10.md) | unknown | not_a_go_module_path | registry-derived |
 | [gosom/scrapemate](../records/go-gosom-scrapemate-536afe4d.md) | partial | 2026-07-21T13:50:02Z | registry-derived |
 | [koss-null/FuncFrog](../records/go-koss-null-funcfrog-bf807e0c.md) | partial | 2025-10-25T18:37:25Z | registry-derived |
 | [m1k1o/neko](../records/go-m1k1o-neko-6519a2a3.md) | partial | 2026-08-30T15:02:19Z | registry-derived |
-| [mattermost/mattermost](../records/go-mattermost-mattermost-f0d9650a.md) | partial | 2026-09-09T18:20:06Z | registry-derived |
+| [mattermost/mattermost](../records/go-mattermost-mattermost-f0d9650a.md) | partial | 2026-09-09T18:58:28Z | registry-derived |
 
 ### Formatter
 
@@ -147,14 +147,14 @@ Records: `1052`
 | [github.com/Domingor/go-blackbox](../records/go-github-com-domingor-go-blackbox-635c7b8d.md) | v1.86.0 | 2026-08-30T16:31:35.009665Z | registry-derived |
 | [github.com/gilescope/rustfmt](../records/go-github-com-gilescope-rustfmt-3181c821.md) | v1.4.29 | 2026-08-30T12:55:09.408881Z | registry-derived |
 | [github.com/sarathfrancis90/sql-formatter](../records/go-github-com-sarathfrancis90-sql-formatter-27542140.md) | v15.6.1+incompatible | 2026-08-30T14:10:24.556377Z | registry-derived |
-| [gookit/goutil](../records/go-gookit-goutil-3f400e93.md) | partial | 2026-09-08T14:52:43Z | registry-derived |
+| [gookit/goutil](../records/go-gookit-goutil-3f400e93.md) | unknown | not_a_go_module_path | registry-derived |
 
 ### Framework
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [dobyte/due](../records/go-dobyte-due-642c6a6f.md) | partial | 2026-09-09T13:56:10Z | registry-derived |
-| [gocolly/colly](../records/go-gocolly-colly-fa679a27.md) | partial | 2026-09-02T13:21:46Z | registry-derived |
+| [gocolly/colly](../records/go-gocolly-colly-fa679a27.md) | unknown | not_a_go_module_path | registry-derived |
 | [micro/go-micro](../records/go-micro-go-micro-af542d9e.md) | partial | 2026-09-06T10:02:57Z | registry-derived |
 | [Mindinventory/Golang-Project-Structure](../records/go-mindinventory-golang-project-structure-c6e24a0b.md) | partial | 2023-04-25T07:04:11Z | registry-derived |
 
@@ -162,15 +162,15 @@ Records: `1052`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [AdguardTeam/AdGuardHome](../records/go-adguardteam-adguardhome-7d76b56d.md) | partial | 2026-09-07T03:26:21Z | registry-derived |
+| [AdguardTeam/AdGuardHome](../records/go-adguardteam-adguardhome-7d76b56d.md) | unknown | not_a_go_module_path | registry-derived |
 | [cloudreve/cloudreve](../records/go-cloudreve-cloudreve-85a07260.md) | partial | 2026-09-04T08:39:31Z | registry-derived |
-| [gorilla/websocket](../records/go-gorilla-websocket-b72dd879.md) | partial | 2025-03-19T13:29:08Z | registry-derived |
+| [gorilla/websocket](../records/go-gorilla-websocket-b72dd879.md) | unknown | not_a_go_module_path | registry-derived |
 
 ### Interpreter Runtime
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [asdf-vm/asdf](../records/go-asdf-vm-asdf-7c8e1c48.md) | partial | 2026-09-03T13:48:57Z | registry-derived |
+| [asdf-vm/asdf](../records/go-asdf-vm-asdf-7c8e1c48.md) | unknown | not_a_go_module_path | registry-derived |
 | [github.com/btc-vision/btc-runtime](../records/go-github-com-btc-vision-btc-runtime-5ca52916.md) | v1.10.6 | 2026-08-30T12:53:01.50741Z | registry-derived |
 | [github.com/btc-vision/op-vm](../records/go-github-com-btc-vision-op-vm-0f62577b.md) | v0.3.8 | 2026-08-30T16:32:47.097658Z | registry-derived |
 | [github.com/esotericsoftware/spine-runtimes](../records/go-github-com-esotericsoftware-spine-runtimes-c9525803.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
@@ -186,70 +186,70 @@ Records: `1052`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [1Panel-dev/1Panel](../records/go-1panel-dev-1panel-effa2b43.md) | partial | 2026-09-09T10:39:10Z | registry-derived |
-| [abiosoft/colima](../records/go-abiosoft-colima-0ac0ec4e.md) | partial | 2026-08-31T17:22:35Z | registry-derived |
-| [AlistGo/alist](../records/go-alistgo-alist-0be2effe.md) | partial | 2026-09-03T07:15:00Z | registry-derived |
-| [antlr/antlr4](../records/go-antlr-antlr4-1390b066.md) | partial | 2026-02-16T21:29:09Z | registry-derived |
-| [aquasecurity/trivy](../records/go-aquasecurity-trivy-a759b66b.md) | partial | 2026-09-09T08:23:47Z | registry-derived |
-| [astaxie/build-web-application-with-golang](../records/go-astaxie-build-web-application-with-golang-30f88db6.md) | partial | 2024-05-12T00:47:46Z | registry-derived |
-| [authelia/authelia](../records/go-authelia-authelia-bd98b68d.md) | partial | 2026-09-09T13:12:08Z | registry-derived |
-| [avelino/awesome-go](../records/go-avelino-awesome-go-512e7dd9.md) | partial | 2026-09-09T16:52:59Z | registry-derived |
-| [beego/beego](../records/go-beego-beego-e98bc924.md) | partial | 2026-09-02T05:21:06Z | registry-derived |
-| [binwiederhier/ntfy](../records/go-binwiederhier-ntfy-973f5ef2.md) | partial | 2026-09-08T21:42:49Z | registry-derived |
-| [caddyserver/caddy](../records/go-caddyserver-caddy-982b9e5e.md) | partial | 2026-09-09T14:48:08Z | registry-derived |
-| [charmbracelet/bubbletea](../records/go-charmbracelet-bubbletea-3f1ce734.md) | partial | 2026-09-01T17:42:30Z | registry-derived |
-| [chubin/wttr.in](../records/go-chubin-wttr-in-592006b2.md) | partial | 2026-09-07T20:12:34Z | registry-derived |
-| [cli/cli](../records/go-cli-cli-c1781281.md) | partial | 2026-09-09T18:14:41Z | registry-derived |
-| [cloudreve/cloudreve](../records/go-cloudreve-cloudreve-f6662424.md) | partial | 2026-09-04T08:39:31Z | registry-derived |
-| [cockroachdb/cockroach](../records/go-cockroachdb-cockroach-555b82ac.md) | partial | 2026-09-08T22:57:43Z | registry-derived |
-| [d2lang/d2](../records/go-d2lang-d2-ed192df1.md) | partial | 2026-09-09T05:48:24Z | registry-derived |
-| [danielmiessler/Fabric](../records/go-danielmiessler-fabric-e388968f.md) | partial | 2026-09-07T19:17:46Z | registry-derived |
-| [derailed/k9s](../records/go-derailed-k9s-e40d54ee.md) | partial | 2026-09-09T05:34:07Z | registry-derived |
-| [docker/compose](../records/go-docker-compose-cdd7478b.md) | partial | 2026-09-09T15:51:55Z | registry-derived |
-| [doocs/leetcode](../records/go-doocs-leetcode-2d4ea4e3.md) | partial | 2026-09-09T06:08:12Z | registry-derived |
-| [ehang-io/nps](../records/go-ehang-io-nps-346fc0a0.md) | partial | 2024-05-30T03:51:08Z | registry-derived |
-| [esengine/DeepSeek-Reasonix](../records/go-esengine-deepseek-reasonix-efdb9688.md) | partial | 2026-09-09T16:27:50Z | registry-derived |
-| [etcd-io/etcd](../records/go-etcd-io-etcd-7f59ae57.md) | partial | 2026-09-09T16:27:02Z | registry-derived |
-| [ethereum/go-ethereum](../records/go-ethereum-go-ethereum-805e21c2.md) | partial | 2026-09-09T10:10:46Z | registry-derived |
-| [evanw/esbuild](../records/go-evanw-esbuild-1272b34b.md) | partial | 2026-08-09T17:20:12Z | registry-derived |
-| [fatedier/frp](../records/go-fatedier-frp-1b8e4f28.md) | partial | 2026-09-09T17:28:29Z | registry-derived |
-| [filebrowser/filebrowser](../records/go-filebrowser-filebrowser-64f3a6d2.md) | partial | 2026-07-31T10:06:58Z | registry-derived |
-| [FiloSottile/mkcert](../records/go-filosottile-mkcert-a7f4c714.md) | partial | 2024-08-13T13:37:46Z | registry-derived |
+| [1Panel-dev/1Panel](../records/go-1panel-dev-1panel-effa2b43.md) | unknown | not_a_go_module_path | registry-derived |
+| [abiosoft/colima](../records/go-abiosoft-colima-0ac0ec4e.md) | unknown | not_a_go_module_path | registry-derived |
+| [AlistGo/alist](../records/go-alistgo-alist-0be2effe.md) | unknown | not_a_go_module_path | registry-derived |
+| [antlr/antlr4](../records/go-antlr-antlr4-1390b066.md) | unknown | not_a_go_module_path | registry-derived |
+| [aquasecurity/trivy](../records/go-aquasecurity-trivy-a759b66b.md) | unknown | not_a_go_module_path | registry-derived |
+| [astaxie/build-web-application-with-golang](../records/go-astaxie-build-web-application-with-golang-30f88db6.md) | unknown | not_a_go_module_path | registry-derived |
+| [authelia/authelia](../records/go-authelia-authelia-bd98b68d.md) | unknown | not_a_go_module_path | registry-derived |
+| [avelino/awesome-go](../records/go-avelino-awesome-go-512e7dd9.md) | unknown | not_a_go_module_path | registry-derived |
+| [beego/beego](../records/go-beego-beego-e98bc924.md) | unknown | not_a_go_module_path | registry-derived |
+| [binwiederhier/ntfy](../records/go-binwiederhier-ntfy-973f5ef2.md) | unknown | not_a_go_module_path | registry-derived |
+| [caddyserver/caddy](../records/go-caddyserver-caddy-982b9e5e.md) | unknown | not_a_go_module_path | registry-derived |
+| [charmbracelet/bubbletea](../records/go-charmbracelet-bubbletea-3f1ce734.md) | unknown | not_a_go_module_path | registry-derived |
+| [chubin/wttr.in](../records/go-chubin-wttr-in-592006b2.md) | unknown | go_proxy_latest_missing | registry-derived |
+| [cli/cli](../records/go-cli-cli-c1781281.md) | unknown | not_a_go_module_path | registry-derived |
+| [cloudreve/cloudreve](../records/go-cloudreve-cloudreve-f6662424.md) | unknown | not_a_go_module_path | registry-derived |
+| [cockroachdb/cockroach](../records/go-cockroachdb-cockroach-555b82ac.md) | unknown | not_a_go_module_path | registry-derived |
+| [d2lang/d2](../records/go-d2lang-d2-ed192df1.md) | unknown | not_a_go_module_path | registry-derived |
+| [danielmiessler/Fabric](../records/go-danielmiessler-fabric-e388968f.md) | unknown | not_a_go_module_path | registry-derived |
+| [derailed/k9s](../records/go-derailed-k9s-e40d54ee.md) | unknown | not_a_go_module_path | registry-derived |
+| [docker/compose](../records/go-docker-compose-cdd7478b.md) | unknown | not_a_go_module_path | registry-derived |
+| [doocs/leetcode](../records/go-doocs-leetcode-2d4ea4e3.md) | unknown | not_a_go_module_path | registry-derived |
+| [ehang-io/nps](../records/go-ehang-io-nps-346fc0a0.md) | unknown | not_a_go_module_path | registry-derived |
+| [esengine/DeepSeek-Reasonix](../records/go-esengine-deepseek-reasonix-efdb9688.md) | unknown | not_a_go_module_path | registry-derived |
+| [etcd-io/etcd](../records/go-etcd-io-etcd-7f59ae57.md) | unknown | not_a_go_module_path | registry-derived |
+| [ethereum/go-ethereum](../records/go-ethereum-go-ethereum-805e21c2.md) | unknown | not_a_go_module_path | registry-derived |
+| [evanw/esbuild](../records/go-evanw-esbuild-1272b34b.md) | unknown | not_a_go_module_path | registry-derived |
+| [fatedier/frp](../records/go-fatedier-frp-1b8e4f28.md) | unknown | not_a_go_module_path | registry-derived |
+| [filebrowser/filebrowser](../records/go-filebrowser-filebrowser-64f3a6d2.md) | unknown | not_a_go_module_path | registry-derived |
+| [FiloSottile/mkcert](../records/go-filosottile-mkcert-a7f4c714.md) | unknown | not_a_go_module_path | registry-derived |
 | [fyne-io/fyne](../records/go-fyne-io-fyne-a2443031.md) | partial | 2026-09-08T09:34:14Z | registry-derived |
-| [gin-gonic/gin](../records/go-gin-gonic-gin-3dbeb4bb.md) | partial | 2026-08-15T05:44:19Z | registry-derived |
-| [github/github-mcp-server](../records/go-github-github-mcp-server-23d9b9fa.md) | partial | 2026-09-08T18:59:05Z | registry-derived |
-| [gitleaks/gitleaks](../records/go-gitleaks-gitleaks-d8047052.md) | partial | 2026-09-09T04:18:49Z | registry-derived |
-| [glanceapp/glance](../records/go-glanceapp-glance-c761949a.md) | partial | 2026-09-05T12:22:32Z | registry-derived |
-| [go-delve/delve](../records/go-go-delve-delve-92f06a69.md) | partial | 2026-09-09T15:49:05Z | registry-derived |
-| [go-gitea/gitea](../records/go-go-gitea-gitea-16871751.md) | partial | 2026-09-09T17:58:28Z | registry-derived |
-| [go-gorm/gorm](../records/go-go-gorm-gorm-7ca42177.md) | partial | 2026-06-25T07:21:11Z | registry-derived |
-| [go-kit/kit](../records/go-go-kit-kit-a994b76c.md) | partial | 2024-07-19T01:40:06Z | registry-derived |
-| [gofiber/fiber](../records/go-gofiber-fiber-4a40c103.md) | partial | 2026-09-09T15:07:11Z | registry-derived |
-| [gogs/gogs](../records/go-gogs-gogs-c169645d.md) | partial | 2026-09-06T18:32:59Z | registry-derived |
-| [goharbor/harbor](../records/go-goharbor-harbor-20ad6a98.md) | partial | 2026-09-09T11:56:20Z | registry-derived |
-| [gohugoio/hugo](../records/go-gohugoio-hugo-f422f841.md) | partial | 2026-09-09T15:10:46Z | registry-derived |
-| [golang-standards/project-layout](../records/go-golang-standards-project-layout-cd4d5fd4.md) | partial | 2026-04-28T17:18:05Z | registry-derived |
-| [golang/go](../records/go-golang-go-eddbf466.md) | partial | 2026-09-09T15:29:56Z | registry-derived |
-| [grafana/k6](../records/go-grafana-k6-ed133f82.md) | partial | 2026-09-09T18:03:32Z | registry-derived |
-| [grafana/loki](../records/go-grafana-loki-2fc58cde.md) | partial | 2026-09-09T18:20:16Z | registry-derived |
-| [grpc/grpc-go](../records/go-grpc-grpc-go-4b231603.md) | partial | 2026-09-09T08:37:03Z | registry-derived |
-| [halfrost/LeetCode-Go](../records/go-halfrost-leetcode-go-09ca25e1.md) | partial | 2026-09-07T14:05:04Z | registry-derived |
-| [harness/harness](../records/go-harness-harness-fe931205.md) | partial | 2026-09-09T16:50:36Z | registry-derived |
-| [hashicorp/consul](../records/go-hashicorp-consul-eaeec57d.md) | partial | 2026-09-09T17:52:38Z | registry-derived |
-| [hashicorp/terraform](../records/go-hashicorp-terraform-d56d30dc.md) | partial | 2026-09-09T18:11:51Z | registry-derived |
-| [hashicorp/vault](../records/go-hashicorp-vault-dff1aa81.md) | partial | 2026-09-09T18:09:07Z | registry-derived |
-| [helm/helm](../records/go-helm-helm-21c5a8ef.md) | partial | 2026-09-09T00:49:24Z | registry-derived |
-| [iawia002/lux](../records/go-iawia002-lux-752d8d70.md) | partial | 2026-03-29T18:18:56Z | registry-derived |
-| [IceWhaleTech/CasaOS](../records/go-icewhaletech-casaos-65ab04a5.md) | partial | 2025-08-06T08:54:04Z | registry-derived |
-| [infiniflow/ragflow](../records/go-infiniflow-ragflow-8c9d422d.md) | partial | 2026-09-09T15:58:36Z | registry-derived |
-| [istio/istio](../records/go-istio-istio-09ede0b7.md) | partial | 2026-09-09T18:18:24Z | registry-derived |
+| [gin-gonic/gin](../records/go-gin-gonic-gin-3dbeb4bb.md) | unknown | not_a_go_module_path | registry-derived |
+| [github/github-mcp-server](../records/go-github-github-mcp-server-23d9b9fa.md) | unknown | not_a_go_module_path | registry-derived |
+| [gitleaks/gitleaks](../records/go-gitleaks-gitleaks-d8047052.md) | unknown | not_a_go_module_path | registry-derived |
+| [glanceapp/glance](../records/go-glanceapp-glance-c761949a.md) | unknown | not_a_go_module_path | registry-derived |
+| [go-delve/delve](../records/go-go-delve-delve-92f06a69.md) | unknown | not_a_go_module_path | registry-derived |
+| [go-gitea/gitea](../records/go-go-gitea-gitea-16871751.md) | unknown | not_a_go_module_path | registry-derived |
+| [go-gorm/gorm](../records/go-go-gorm-gorm-7ca42177.md) | unknown | not_a_go_module_path | registry-derived |
+| [go-kit/kit](../records/go-go-kit-kit-a994b76c.md) | unknown | not_a_go_module_path | registry-derived |
+| [gofiber/fiber](../records/go-gofiber-fiber-4a40c103.md) | unknown | not_a_go_module_path | registry-derived |
+| [gogs/gogs](../records/go-gogs-gogs-c169645d.md) | unknown | not_a_go_module_path | registry-derived |
+| [goharbor/harbor](../records/go-goharbor-harbor-20ad6a98.md) | unknown | not_a_go_module_path | registry-derived |
+| [gohugoio/hugo](../records/go-gohugoio-hugo-f422f841.md) | unknown | not_a_go_module_path | registry-derived |
+| [golang-standards/project-layout](../records/go-golang-standards-project-layout-cd4d5fd4.md) | unknown | not_a_go_module_path | registry-derived |
+| [golang/go](../records/go-golang-go-eddbf466.md) | unknown | not_a_go_module_path | registry-derived |
+| [grafana/k6](../records/go-grafana-k6-ed133f82.md) | unknown | not_a_go_module_path | registry-derived |
+| [grafana/loki](../records/go-grafana-loki-2fc58cde.md) | unknown | not_a_go_module_path | registry-derived |
+| [grpc/grpc-go](../records/go-grpc-grpc-go-4b231603.md) | unknown | not_a_go_module_path | registry-derived |
+| [halfrost/LeetCode-Go](../records/go-halfrost-leetcode-go-09ca25e1.md) | unknown | not_a_go_module_path | registry-derived |
+| [harness/harness](../records/go-harness-harness-fe931205.md) | unknown | not_a_go_module_path | registry-derived |
+| [hashicorp/consul](../records/go-hashicorp-consul-eaeec57d.md) | unknown | not_a_go_module_path | registry-derived |
+| [hashicorp/terraform](../records/go-hashicorp-terraform-d56d30dc.md) | unknown | not_a_go_module_path | registry-derived |
+| [hashicorp/vault](../records/go-hashicorp-vault-dff1aa81.md) | unknown | not_a_go_module_path | registry-derived |
+| [helm/helm](../records/go-helm-helm-21c5a8ef.md) | unknown | not_a_go_module_path | registry-derived |
+| [iawia002/lux](../records/go-iawia002-lux-752d8d70.md) | unknown | not_a_go_module_path | registry-derived |
+| [IceWhaleTech/CasaOS](../records/go-icewhaletech-casaos-65ab04a5.md) | unknown | not_a_go_module_path | registry-derived |
+| [infiniflow/ragflow](../records/go-infiniflow-ragflow-8c9d422d.md) | unknown | not_a_go_module_path | registry-derived |
+| [istio/istio](../records/go-istio-istio-09ede0b7.md) | partial | 2026-09-09T19:09:38Z | registry-derived |
 | [jesseduffield/lazydocker](../records/go-jesseduffield-lazydocker-c10d50fa.md) | partial | 2026-04-19T02:51:06Z | registry-derived |
 | [jesseduffield/lazygit](../records/go-jesseduffield-lazygit-76669d5d.md) | partial | 2026-09-09T07:30:30Z | registry-derived |
 | [juanfont/headscale](../records/go-juanfont-headscale-8da9ae07.md) | partial | 2026-09-09T17:01:43Z | registry-derived |
 | [JuliusBrussee/caveman](../records/go-juliusbrussee-caveman-4aae12bd.md) | partial | 2026-09-09T07:22:27Z | registry-derived |
 | [junegunn/fzf](../records/go-junegunn-fzf-b96385b5.md) | partial | 2026-09-09T00:20:03Z | registry-derived |
-| [k3s-io/k3s](../records/go-k3s-io-k3s-db2488b2.md) | partial | 2026-09-09T15:36:01Z | registry-derived |
-| [kubernetes/kubernetes](../records/go-kubernetes-kubernetes-6b4c958b.md) | partial | 2026-09-09T18:18:38Z | registry-derived |
+| [k3s-io/k3s](../records/go-k3s-io-k3s-db2488b2.md) | partial | 2026-09-09T18:37:22Z | registry-derived |
+| [kubernetes/kubernetes](../records/go-kubernetes-kubernetes-6b4c958b.md) | partial | 2026-09-09T19:12:32Z | registry-derived |
 | [kubernetes/minikube](../records/go-kubernetes-minikube-284bb65c.md) | partial | 2026-09-09T18:23:13Z | registry-derived |
 | [labstack/echo](../records/go-labstack-echo-87caf04e.md) | partial | 2026-09-09T06:47:03Z | registry-derived |
 | [MHSanaei/3x-ui](../records/go-mhsanaei-3x-ui-0505b860.md) | partial | 2026-09-09T07:43:19Z | registry-derived |
@@ -263,15 +263,15 @@ Records: `1052`
 | [nektos/act](../records/go-nektos-act-ba8341d5.md) | partial | 2026-08-09T22:50:11Z | registry-derived |
 | [netbirdio/netbird](../records/go-netbirdio-netbird-358bb59e.md) | partial | 2026-09-09T17:44:01Z | registry-derived |
 | [netdata/netdata](../records/go-netdata-netdata-170b9886.md) | partial | 2026-09-09T18:00:51Z | registry-derived |
-| [ollama/ollama](../records/go-ollama-ollama-37c1cc0e.md) | partial | 2026-09-09T17:21:30Z | registry-derived |
+| [ollama/ollama](../records/go-ollama-ollama-37c1cc0e.md) | partial | 2026-09-09T18:45:01Z | registry-derived |
 | [opentofu/opentofu](../records/go-opentofu-opentofu-186b8c42.md) | partial | 2026-09-08T11:50:29Z | registry-derived |
 | [photoprism/photoprism](../records/go-photoprism-photoprism-47249a2f.md) | partial | 2026-09-08T00:33:26Z | registry-derived |
-| [pingcap/tidb](../records/go-pingcap-tidb-cf9a579a.md) | partial | 2026-09-09T18:16:19Z | registry-derived |
+| [pingcap/tidb](../records/go-pingcap-tidb-cf9a579a.md) | partial | 2026-09-09T19:13:12Z | registry-derived |
 | [pocketbase/pocketbase](../records/go-pocketbase-pocketbase-129b5588.md) | partial | 2026-09-07T16:58:38Z | registry-derived |
-| [podman-container-tools/podman](../records/go-podman-container-tools-podman-b8d59e44.md) | partial | 2026-09-09T16:50:53Z | registry-derived |
+| [podman-container-tools/podman](../records/go-podman-container-tools-podman-b8d59e44.md) | partial | 2026-09-09T18:58:19Z | registry-derived |
 | [projectdiscovery/nuclei](../records/go-projectdiscovery-nuclei-166bc26c.md) | partial | 2026-09-09T16:04:42Z | registry-derived |
 | [prometheus/prometheus](../records/go-prometheus-prometheus-c7ed4827.md) | partial | 2026-09-09T15:46:25Z | registry-derived |
-| [pulumi/pulumi](../records/go-pulumi-pulumi-f407ce4b.md) | partial | 2026-09-09T18:18:56Z | registry-derived |
+| [pulumi/pulumi](../records/go-pulumi-pulumi-f407ce4b.md) | partial | 2026-09-09T18:48:25Z | registry-derived |
 | [QuantumNous/new-api](../records/go-quantumnous-new-api-3008cbdb.md) | partial | 2026-09-09T11:20:57Z | registry-derived |
 | [rclone/rclone](../records/go-rclone-rclone-8d41b979.md) | partial | 2026-09-09T09:38:25Z | registry-derived |
 | [restic/restic](../records/go-restic-restic-de039132.md) | partial | 2026-09-01T01:43:58Z | registry-derived |
@@ -285,7 +285,7 @@ Records: `1052`
 | [spf13/viper](../records/go-spf13-viper-421b7638.md) | partial | 2026-01-12T21:42:47Z | registry-derived |
 | [stretchr/testify](../records/go-stretchr-testify-5f335906.md) | partial | 2026-09-02T05:37:01Z | registry-derived |
 | [syncthing/syncthing](../records/go-syncthing-syncthing-42b40326.md) | partial | 2026-09-08T07:22:07Z | registry-derived |
-| [tailscale/tailscale](../records/go-tailscale-tailscale-cb71aaf5.md) | partial | 2026-09-09T17:46:10Z | registry-derived |
+| [tailscale/tailscale](../records/go-tailscale-tailscale-cb71aaf5.md) | partial | 2026-09-09T19:06:04Z | registry-derived |
 | [temoto/robotstxt](../records/go-temoto-robotstxt-78d1ab0b.md) | partial | 2026-05-25T08:52:49Z | registry-derived |
 | [traefik/traefik](../records/go-traefik-traefik-33cdec7d.md) | partial | 2026-09-09T12:24:08Z | registry-derived |
 | [unknwon/the-way-to-go_ZH_CN](../records/go-unknwon-the-way-to-go-zh-cn-6332f5f1.md) | partial | 2024-08-14T07:04:25Z | registry-derived |
@@ -309,7 +309,7 @@ Records: `1052`
 | [codeberg.org/go-hep/hep.git](../records/go-codeberg-org-go-hep-hep-git-29878e71.md) | v0.27.0 | 2026-08-30T10:55:18.161122Z | registry-derived |
 | [codeberg.org/rimu/pyfedi](../records/go-codeberg-org-rimu-pyfedi-53519dff.md) | v1.6.9 | 2026-08-30T16:29:43.672078Z | registry-derived |
 | [CycloneDX/cyclonedx-gomod](../records/go-cyclonedx-cyclonedx-gomod-24572c1d.md) | partial | 2026-09-09T09:52:27Z | registry-derived |
-| [darius-khll/golang-developer-roadmap](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) | partial | 2023-02-13T08:08:20Z | registry-derived |
+| [darius-khll/golang-developer-roadmap](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) | unknown | not_a_go_module_path | registry-derived |
 | [gbrlsnchs/jwt](../records/go-gbrlsnchs-jwt-9cb26411.md) | partial | 2026-02-20T19:55:17Z | registry-derived |
 | [gethugothemes/hugo-modules](../records/go-gethugothemes-hugo-modules-1f48ce7f.md) | partial | 2026-07-01T05:48:56Z | registry-derived |
 | [git.scuroneko.dev/ScuroNeko/Laniakea](../records/go-git-scuroneko-dev-scuroneko-laniakea-6c4ff9e7.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
@@ -324,7 +324,7 @@ Records: `1052`
 | [gitlab.com/sequoia-pgp/sequoia-gpg-agent](../records/go-gitlab-com-sequoia-pgp-sequoia-gpg-agent-5b376c5c.md) | v0.3.1 | 2026-08-30T15:31:10.349155Z | registry-derived |
 | [gitlab.com/sequoia-pgp/sequoia.git](../records/go-gitlab-com-sequoia-pgp-sequoia-git-723cf535.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [gitlab.com/umbrellazone/smartacme](../records/go-gitlab-com-umbrellazone-smartacme-de305f20.md) | v1.0.9 | 2026-08-30T10:07:20.216337Z | registry-derived |
-| [go-ffmt/ffmt](../records/go-go-ffmt-ffmt-70684860.md) | partial | 2021-11-19T15:22:56Z | registry-derived |
+| [go-ffmt/ffmt](../records/go-go-ffmt-ffmt-70684860.md) | unknown | not_a_go_module_path | registry-derived |
 | [go.cozymore.dev/krkstops](../records/go-go-cozymore-dev-krkstops-34ccbe5a.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [go.gary.cool/go-stockutil](../records/go-go-gary-cool-go-stockutil-dd0c06ad.md) | v1.8.53 | 2026-08-30T16:30:21.724665Z | registry-derived |
 | [go.lumeweb.com/portal-plugin-billing](../records/go-go-lumeweb-com-portal-plugin-billing-4d35205b.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
@@ -333,7 +333,7 @@ Records: `1052`
 | [goa.design/goa/v3](../records/go-goa-design-goa-v3-26efe1e9.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [golang.org/x/sys](../records/go-golang-org-x-sys-cd462dbb.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [gvisor.dev/gvisor](../records/go-gvisor-dev-gvisor-300121e6.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [Infisical/infisical](../records/go-infisical-infisical-a6ff8f22.md) | partial | 2026-09-09T18:23:39Z | registry-derived |
+| [Infisical/infisical](../records/go-infisical-infisical-a6ff8f22.md) | partial | 2026-09-09T19:14:21Z | registry-derived |
 | [mustafaturan/bus](../records/go-mustafaturan-bus-d868b092.md) | partial | 2023-05-14T03:59:03Z | registry-derived |
 | [mvdan.cc/sh/moreinterp](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [Narasimha1997/fake-sms](../records/go-narasimha1997-fake-sms-a5b0fe59.md) | partial | 2023-08-01T15:34:41Z | registry-derived |
@@ -347,7 +347,7 @@ Records: `1052`
 | [sigs.k8s.io/Controller-Tools](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) | v0.4.1 | 2026-08-30T16:32:46.540929Z | registry-derived |
 | [sigs.k8s.io/kueue/site](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [sun8911879/shadowsocksR](../records/go-sun8911879-shadowsocksr-c58cbeba.md) | partial | 2020-09-21T03:12:18Z | registry-derived |
-| [temporalio/temporal](../records/go-temporalio-temporal-9fe4a125.md) | partial | 2026-09-09T18:10:48Z | registry-derived |
+| [temporalio/temporal](../records/go-temporalio-temporal-9fe4a125.md) | partial | 2026-09-09T19:16:05Z | registry-derived |
 
 ### Lint Rule Pack
 
@@ -368,7 +368,7 @@ Records: `1052`
 | [github.com/terraform-linters/tflint-ruleset-aws/tools/release](../records/go-github-com-terraform-linters-tflint-ruleset-aws-tools-release-64e4e03b.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/Typescript-eslint/typescript-eslint](../records/go-github-com-typescript-eslint-typescript-eslint-2cac61a4.md) | v4.31.2+incompatible | 2026-08-30T15:29:43.379649Z | registry-derived |
 | [github.com/z-shell/zsh-lint](../records/go-github-com-z-shell-zsh-lint-ddf99579.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
-| [golangci/golangci-lint](../records/go-golangci-golangci-lint-4b8a8820.md) | partial | 2026-09-09T12:52:01Z | registry-derived |
+| [golangci/golangci-lint](../records/go-golangci-golangci-lint-4b8a8820.md) | unknown | not_a_go_module_path | registry-derived |
 
 ### Logging Observability
 
@@ -382,7 +382,7 @@ Records: `1052`
 | --- | --- | --- | --- |
 | [bitbucket.org/itotcca/tx-rails](../records/go-bitbucket-org-itotcca-tx-rails-34e72343.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [bufanyun/hotgo](../records/go-bufanyun-hotgo-bf57dfd4.md) | partial | 2026-05-09T10:54:17Z | registry-derived |
-| [flipped-aurora/gin-vue-admin](../records/go-flipped-aurora-gin-vue-admin-734f09c8.md) | partial | 2026-09-09T07:24:05Z | registry-derived |
+| [flipped-aurora/gin-vue-admin](../records/go-flipped-aurora-gin-vue-admin-734f09c8.md) | unknown | not_a_go_module_path | registry-derived |
 | [ggwhite/go-masker](../records/go-ggwhite-go-masker-2ecaacf4.md) | partial | 2026-07-07T14:47:27Z | registry-derived |
 | [gitee.com/open-mmlab/mmcv](../records/go-gitee-com-open-mmlab-mmcv-9c44c07f.md) | v1.4.7 | 2026-08-30T16:32:50.707415Z | registry-derived |
 | [gitee.com/wailsapp/wails/v3](../records/go-gitee-com-wailsapp-wails-v3-3c5b4a42.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
@@ -397,15 +397,15 @@ Records: `1052`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [emirpasic/gods](../records/go-emirpasic-gods-83b03cfe.md) | partial | 2025-03-12T00:01:29Z | registry-derived |
+| [emirpasic/gods](../records/go-emirpasic-gods-83b03cfe.md) | unknown | not_a_go_module_path | registry-derived |
 
 ### Networking Http
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ChimeraCoder/anaconda](../records/go-chimeracoder-anaconda-6a61e747.md) | partial | 2024-01-28T15:07:20Z | registry-derived |
-| [g3n/engine](../records/go-g3n-engine-0b367039.md) | partial | 2026-08-01T16:23:05Z | registry-derived |
-| [go-resty/resty](../records/go-go-resty-resty-9cfada1b.md) | partial | 2026-09-07T01:30:26Z | registry-derived |
+| [ChimeraCoder/anaconda](../records/go-chimeracoder-anaconda-6a61e747.md) | unknown | not_a_go_module_path | registry-derived |
+| [g3n/engine](../records/go-g3n-engine-0b367039.md) | unknown | not_a_go_module_path | registry-derived |
+| [go-resty/resty](../records/go-go-resty-resty-9cfada1b.md) | unknown | not_a_go_module_path | registry-derived |
 | [redis/go-redis](../records/go-redis-go-redis-fe715a04.md) | partial | 2026-09-09T13:40:42Z | registry-derived |
 | [spicetify/cli](../records/go-spicetify-cli-b8e26c00.md) | partial | 2026-09-06T16:15:27Z | registry-derived |
 | [teler-sh/teler-waf](../records/go-teler-sh-teler-waf-ad277b8c.md) | partial | 2025-03-18T01:40:27Z | registry-derived |
@@ -439,11 +439,11 @@ Records: `1052`
 | [go.gary.cool/diecast](../records/go-go-gary-cool-diecast-e5dd52c7.md) | v1.17.35 | 2026-08-30T14:10:05.638889Z | registry-derived |
 | [gogf/gf](../records/go-gogf-gf-cf9bbe8f.md) | partial | 2026-09-04T03:14:29Z | registry-derived |
 | [gomods/athens](../records/go-gomods-athens-5ff0b837.md) | partial | 2026-09-09T01:30:44Z | registry-derived |
-| [GopeedLab/gopeed](../records/go-gopeedlab-gopeed-1855093c.md) | partial | 2026-09-09T16:31:27Z | registry-derived |
-| [gravitational/teleport](../records/go-gravitational-teleport-6a32fe26.md) | partial | 2026-09-09T16:07:12Z | registry-derived |
-| [HyNetworks/hysteria](../records/go-hynetworks-hysteria-6f37132d.md) | partial | 2026-09-06T19:05:37Z | registry-derived |
+| [GopeedLab/gopeed](../records/go-gopeedlab-gopeed-1855093c.md) | unknown | not_a_go_module_path | registry-derived |
+| [gravitational/teleport](../records/go-gravitational-teleport-6a32fe26.md) | unknown | not_a_go_module_path | registry-derived |
+| [HyNetworks/hysteria](../records/go-hynetworks-hysteria-6f37132d.md) | unknown | not_a_go_module_path | registry-derived |
 | [kovidgoyal/kitty](../records/go-kovidgoyal-kitty-9cff0795.md) | partial | 2026-09-09T15:46:24Z | registry-derived |
-| [praetorian-inc/nerva](../records/go-praetorian-inc-nerva-a2849190.md) | partial | 2026-09-08T00:42:45Z | registry-derived |
+| [praetorian-inc/nerva](../records/go-praetorian-inc-nerva-a2849190.md) | partial | 2026-09-09T18:38:10Z | registry-derived |
 | [zincsearch/zincsearch](../records/go-zincsearch-zincsearch-189bf366.md) | partial | 2026-06-09T05:30:16Z | registry-derived |
 
 ### Precommit Ci Quality
@@ -490,13 +490,13 @@ Records: `1052`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [chai2010/advanced-go-programming-book](../records/go-chai2010-advanced-go-programming-book-44a19e49.md) | partial | 2025-10-07T01:08:59Z | registry-derived |
+| [chai2010/advanced-go-programming-book](../records/go-chai2010-advanced-go-programming-book-44a19e49.md) | unknown | not_a_go_module_path | registry-derived |
 
 ### Static Analyzer
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [career-ops-hq/career-ops](../records/go-career-ops-hq-career-ops-89690772.md) | partial | 2026-09-09T05:33:03Z | registry-derived |
+| [career-ops-hq/career-ops](../records/go-career-ops-hq-career-ops-89690772.md) | unknown | not_a_go_module_path | registry-derived |
 | [codeberg.org/momar/simple-scan-server](../records/go-codeberg-org-momar-simple-scan-server-8e5010e0.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 
 ### Testing Framework
@@ -504,7 +504,7 @@ Records: `1052`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [CorentinGS/chess](../records/go-corentings-chess-b4035143.md) | partial | 2026-08-17T09:40:38Z | registry-derived |
-| [Ebazhanov/linkedin-skill-assessments-quizzes](../records/go-ebazhanov-linkedin-skill-assessments-quizzes-05557abd.md) | partial | 2026-08-29T17:24:40Z | registry-derived |
+| [Ebazhanov/linkedin-skill-assessments-quizzes](../records/go-ebazhanov-linkedin-skill-assessments-quizzes-05557abd.md) | unknown | not_a_go_module_path | registry-derived |
 | [gitee.com/mirrors_testem/testem](../records/go-gitee-com-mirrors-testem-testem-1b4facf3.md) | v3.10.1+incompatible | 2026-08-30T10:08:47.58159Z | registry-derived |
 | [quii/learn-go-with-tests](../records/go-quii-learn-go-with-tests-f9d484c4.md) | partial | 2026-08-26T12:41:47Z | registry-derived |
 | [vxcontrol/pentagi](../records/go-vxcontrol-pentagi-a8d06839.md) | partial | 2026-09-01T20:28:29Z | registry-derived |
@@ -513,9 +513,9 @@ Records: `1052`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [bluenviron/mediamtx](../records/go-bluenviron-mediamtx-aebc3b64.md) | partial | 2026-09-09T05:04:28Z | registry-derived |
-| [dariubs/GoBooks](../records/go-dariubs-gobooks-0b7963ea.md) | partial | 2026-07-13T16:08:02Z | registry-derived |
-| [eryajf/learning-weekly](../records/go-eryajf-learning-weekly-a4ad8741.md) | partial | 2026-08-27T15:27:30Z | registry-derived |
+| [bluenviron/mediamtx](../records/go-bluenviron-mediamtx-aebc3b64.md) | unknown | not_a_go_module_path | registry-derived |
+| [dariubs/GoBooks](../records/go-dariubs-gobooks-0b7963ea.md) | unknown | not_a_go_module_path | registry-derived |
+| [eryajf/learning-weekly](../records/go-eryajf-learning-weekly-a4ad8741.md) | unknown | not_a_go_module_path | registry-derived |
 | [github.com/01org/isa-l](../records/go-github-com-01org-isa-l-8ef09eb2.md) | v2.22.0+incompatible | 2026-08-30T14:09:32.299469Z | registry-derived |
 | [github.com/1panel-dev/1Panel/agent](../records/go-github-com-1panel-dev-1panel-agent-8df4b3a6.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [github.com/2rumaki-playground/game-001-dungeon-cards](../records/go-github-com-2rumaki-playground-game-001-dungeon-cards-97fa2334.md) | v0.103.0 | 2026-08-30T16:30:21.794494Z | registry-derived |
@@ -1253,7 +1253,7 @@ Records: `1052`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [inancgumus/learngo](../records/go-inancgumus-learngo-aa01cb96.md) | partial | 2025-06-24T23:03:52Z | registry-derived |
+| [inancgumus/learngo](../records/go-inancgumus-learngo-aa01cb96.md) | unknown | not_a_go_module_path | registry-derived |
 | [kungfusheep/glyph](../records/go-kungfusheep-glyph-15af0f04.md) | partial | 2026-08-28T16:49:36Z | registry-derived |
 | [modernc.org/quickjs](../records/go-modernc-org-quickjs-953c15ce.md) | unknown | go_module_index_event_is_preview_or_pseudoversion | registry-derived |
 | [piquette/finance-go](../records/go-piquette-finance-go-e7f50ebc.md) | partial | 2023-08-07T03:39:03Z | registry-derived |

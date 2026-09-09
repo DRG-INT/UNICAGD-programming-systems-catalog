@@ -1,6 +1,6 @@
 # Undefined Behavior Analyzer
 
-Records: `1633`
+Records: `1634`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `1633`
 ## Category Index
 
 [Api Abi Checker (230)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1005)](build-system.md) · [Cli (582)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (121)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1018)](build-system.md) · [Cli (582)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (122)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (135)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (106)](dependency-manager.md) · [Documentation (110)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (468)](ffi-bindings.md) · [Filesystem Os (1625)](filesystem-os.md) · [Formatter (654)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1481)](ide-editor-integration.md)
-[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1454)](language-specification.md) · [Library (5884)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (535)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (106)](dependency-manager.md) · [Documentation (111)](documentation.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (469)](ffi-bindings.md) · [Filesystem Os (1629)](filesystem-os.md) · [Formatter (655)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1485)](ide-editor-integration.md)
+[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (277)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1456)](language-specification.md) · [Library (5890)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (536)](logging-observability.md) · [Machine Learning (818)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1066)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1214)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
-[Profiler (93)](profiler.md) · [Project Scaffolding (139)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (642)](static-analyzer.md)
+[Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1215)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
+[Profiler (93)](profiler.md) · [Project Scaffolding (141)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (642)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-**[Undefined Behavior Analyzer (1633)](undefined-behavior-analyzer.md)** · [Utility Library (104)](utility-library.md) · [Visualization Gui (566)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
+**[Undefined Behavior Analyzer (1634)](undefined-behavior-analyzer.md)** · [Utility Library (104)](utility-library.md) · [Visualization Gui (572)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
 
 ## C++23
 
@@ -411,9 +411,9 @@ Records: `1633`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bluenviron/mediamtx | partial | 2026-09-09T05:04:28Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
-| dariubs/GoBooks | partial | 2026-07-13T16:08:02Z | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
-| eryajf/learning-weekly | partial | 2026-08-27T15:27:30Z | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
+| bluenviron/mediamtx | unknown | not_a_go_module_path | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
+| dariubs/GoBooks | unknown | not_a_go_module_path | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
+| eryajf/learning-weekly | unknown | not_a_go_module_path | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
 | github.com/01org/isa-l | v2.22.0+incompatible | 2026-08-30T14:09:32.299469Z | [open](../records/go-github-com-01org-isa-l-8ef09eb2.md) |
 | github.com/1panel-dev/1Panel/agent | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-1panel-dev-1panel-agent-8df4b3a6.md) |
 | github.com/2rumaki-playground/game-001-dungeon-cards | v0.103.0 | 2026-08-30T16:30:21.794494Z | [open](../records/go-github-com-2rumaki-playground-game-001-dungeon-cards-97fa2334.md) |
@@ -1226,12 +1226,13 @@ Records: `1633`
 | athityakumar/colorls | partial | 2026-07-27T11:41:05Z | [open](../records/icons-and-logos-athityakumar-colorls-f3e06ef6.md) |
 | bootstrap-vue/bootstrap-vue | partial | 2026-04-02T09:36:34Z | [open](../records/icons-and-logos-bootstrap-vue-bootstrap-vue-f4f43483.md) |
 | ccforward/rubik | partial | 2018-03-05T07:05:26Z | [open](../records/icons-and-logos-ccforward-rubik-12fb7f5d.md) |
+| codewithMUHILAN/Lightswind-UI-Library | partial | 2026-07-24T07:25:42Z | [open](../records/icons-and-logos-codewithmuhilan-lightswind-ui-library-4a37e872.md) |
 | github/gemoji | partial | 2025-11-24T05:09:16Z | [open](../records/icons-and-logos-github-gemoji-51179120.md) |
 | jeffreytse/jekyll-spaceship | partial | 2024-07-03T19:54:34Z | [open](../records/icons-and-logos-jeffreytse-jekyll-spaceship-b4d82d56.md) |
 | muan/mojibar | partial | 2023-01-25T05:33:39Z | [open](../records/icons-and-logos-muan-mojibar-30358614.md) |
-| primer/css | partial | 2026-09-03T16:01:58Z | [open](../records/icons-and-logos-primer-css-784ae164.md) |
+| primer/css | partial | 2026-09-09T18:31:36Z | [open](../records/icons-and-logos-primer-css-784ae164.md) |
 | primer/octicons | partial | 2026-09-04T16:20:43Z | [open](../records/icons-and-logos-primer-octicons-9ca40141.md) |
-| primer/react | partial | 2026-09-03T16:00:56Z | [open](../records/icons-and-logos-primer-react-63b0b7cc.md) |
+| primer/react | partial | 2026-09-09T19:10:38Z | [open](../records/icons-and-logos-primer-react-63b0b7cc.md) |
 | rickstaa/github-emoji-picker | partial | 2026-08-11T14:36:22Z | [open](../records/icons-and-logos-rickstaa-github-emoji-picker-f84142f9.md) |
 | simplelineicons/simplelineicons.github.io | partial | 2022-01-20T12:39:01Z | [open](../records/icons-and-logos-simplelineicons-simplelineicons-github-io-f89e24aa.md) |
 | tandpfun/skill-icons | partial | 2026-02-27T03:42:02Z | [open](../records/icons-and-logos-tandpfun-skill-icons-f2d47a09.md) |
@@ -1249,7 +1250,7 @@ Records: `1633`
 | KonghaYao/cn-font-split | partial | 2026-06-12T13:45:21Z | [open](../records/font-briefcase-konghayao-cn-font-split-4b1774ab.md) |
 | opensourcedesign/fonts | partial | 2020-08-31T04:08:37Z | [open](../records/font-briefcase-opensourcedesign-fonts-afd14247.md) |
 | rubjo/victor-mono | partial | 2026-07-18T15:41:27Z | [open](../records/font-briefcase-rubjo-victor-mono-2ab28caa.md) |
-| subframe7536/maple-font | partial | 2026-09-03T23:22:35Z | [open](../records/font-briefcase-subframe7536-maple-font-a9616e1f.md) |
+| subframe7536/maple-font | partial | 2026-09-09T13:54:49Z | [open](../records/font-briefcase-subframe7536-maple-font-a9616e1f.md) |
 | sztupy/accentizer | partial | 2023-04-14T20:01:44Z | [open](../records/font-briefcase-sztupy-accentizer-ef2a8cb1.md) |
 | ubuwaits/beautiful-web-type | partial | 2026-08-08T06:48:37Z | [open](../records/font-briefcase-ubuwaits-beautiful-web-type-1a5178ad.md) |
 | uswds/public-sans | partial | 2026-07-06T21:21:44Z | [open](../records/font-briefcase-uswds-public-sans-b5c08d4f.md) |
@@ -1521,7 +1522,7 @@ Records: `1633`
 | Jubstaaa/hono-telescope | partial | 2026-09-02T22:21:25Z | [open](../records/telescopes-jubstaaa-hono-telescope-327995c1.md) |
 | MESAHub/mesa | partial | 2026-09-04T05:23:44Z | [open](../records/telescopes-mesahub-mesa-9ce8b36f.md) |
 | nvim-telescope/telescope-github.nvim | partial | 2026-01-20T05:13:22Z | [open](../records/telescopes-nvim-telescope-telescope-github-nvim-5e97e37e.md) |
-| rhannequin/astronoby | partial | 2026-09-05T19:53:51Z | [open](../records/telescopes-rhannequin-astronoby-9da7aa1c.md) |
+| rhannequin/astronoby | partial | 2026-09-08T01:42:40Z | [open](../records/telescopes-rhannequin-astronoby-9da7aa1c.md) |
 | rlch/github-notifications.nvim | partial | 2023-06-15T02:27:51Z | [open](../records/telescopes-rlch-github-notifications-nvim-185a6c78.md) |
 | spacetelescope/PyFITS | partial | 2017-12-18T20:17:59Z | [open](../records/telescopes-spacetelescope-pyfits-d1bbebf9.md) |
 
@@ -1552,7 +1553,7 @@ Records: `1633`
 | alanbjohnston/CubeSatSim | partial | 2026-09-07T09:11:53Z | [open](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) |
 | cjcliffe/CubicSDR | partial | 2026-09-02T02:19:48Z | [open](../records/satcom-satellites-cjcliffe-cubicsdr-45606659.md) |
 | f4exb/sdrangel | partial | 2026-09-06T21:22:43Z | [open](../records/satcom-satellites-f4exb-sdrangel-2094320b.md) |
-| jvde-github/AIS-catcher | partial | 2026-09-06T22:14:18Z | [open](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) |
+| jvde-github/AIS-catcher | partial | 2026-09-09T17:55:23Z | [open](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) |
 | kismetwireless/kismet | partial | 2026-09-01T15:36:57Z | [open](../records/satcom-satellites-kismetwireless-kismet-f1e1e53d.md) |
 | KubOS-Preservation-Group/ccsds-spacepacket | partial | 2022-06-13T23:22:58Z | [open](../records/satcom-satellites-kubos-preservation-group-ccsds-spacepacket-4cff5034.md) |
 | libcsp/libcsp | partial | 2026-09-09T06:32:56Z | [open](../records/satcom-satellites-libcsp-libcsp-abe29c50.md) |
@@ -1572,10 +1573,10 @@ Records: `1633`
 | azlux/botamusique | partial | 2024-06-28T08:53:14Z | [open](../records/electromagnetoscopes-azlux-botamusique-8fc6bb3f.md) |
 | cjcliffe/CubicSDR | partial | 2026-09-02T02:19:48Z | [open](../records/electromagnetoscopes-cjcliffe-cubicsdr-4d39607b.md) |
 | dabana/TEM_dash | partial | 2018-09-25T11:40:19Z | [open](../records/electromagnetoscopes-dabana-tem-dash-d58d5144.md) |
-| f4exb/sdrangel | partial | 2026-09-09T08:49:31Z | [open](../records/electromagnetoscopes-f4exb-sdrangel-2939271b.md) |
+| f4exb/sdrangel | partial | 2026-09-09T10:55:53Z | [open](../records/electromagnetoscopes-f4exb-sdrangel-2939271b.md) |
 | GeoBrain-Project/GeoBrain | partial | 2026-08-20T08:37:35Z | [open](../records/electromagnetoscopes-geobrain-project-geobrain-aeb85431.md) |
 | greatscottgadgets/ubertooth | partial | 2026-03-19T15:58:24Z | [open](../records/electromagnetoscopes-greatscottgadgets-ubertooth-28bac228.md) |
-| jvde-github/AIS-catcher | partial | 2026-09-06T22:14:18Z | [open](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) |
+| jvde-github/AIS-catcher | partial | 2026-09-09T17:55:23Z | [open](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) |
 | kismetwireless/kismet | partial | 2026-09-01T15:36:57Z | [open](../records/electromagnetoscopes-kismetwireless-kismet-abff54d8.md) |
 | LargeModGames/spotatui | partial | 2026-09-08T08:37:38Z | [open](../records/electromagnetoscopes-largemodgames-spotatui-27906be2.md) |
 | Moosync/Moosync-electron | partial | 2025-03-06T13:43:37Z | [open](../records/electromagnetoscopes-moosync-moosync-electron-6b29db05.md) |

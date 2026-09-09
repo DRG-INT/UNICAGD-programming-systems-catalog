@@ -9,22 +9,22 @@ Records: `271`
 ## Category Index
 
 [Api Abi Checker (230)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
-[Benchmarking (202)](../by-category/benchmarking.md) · [Build System (1005)](../by-category/build-system.md) · [Cli (582)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (121)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (53)](../by-category/compression.md)
+[Benchmarking (202)](../by-category/benchmarking.md) · [Build System (1018)](../by-category/build-system.md) · [Cli (582)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (122)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (53)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (135)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (180)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (974)](../by-category/database-datastore.md) · [Datetime (241)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (106)](../by-category/dependency-manager.md) · [Documentation (110)](../by-category/documentation.md)
-[Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (468)](../by-category/ffi-bindings.md) · [Filesystem Os (1625)](../by-category/filesystem-os.md) · [Formatter (654)](../by-category/formatter.md)
-[Framework (63)](../by-category/framework.md) · [Fuzzer (59)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1481)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (443)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (276)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1454)](../by-category/language-specification.md) · [Library (5884)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (535)](../by-category/logging-observability.md) · [Machine Learning (816)](../by-category/machine-learning.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (106)](../by-category/dependency-manager.md) · [Documentation (111)](../by-category/documentation.md)
+[Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (469)](../by-category/ffi-bindings.md) · [Filesystem Os (1629)](../by-category/filesystem-os.md) · [Formatter (655)](../by-category/formatter.md)
+[Framework (63)](../by-category/framework.md) · [Fuzzer (59)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1485)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (443)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (277)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1456)](../by-category/language-specification.md) · [Library (5890)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (536)](../by-category/logging-observability.md) · [Machine Learning (818)](../by-category/machine-learning.md)
 [Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1066)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (445)](../by-category/package-manager.md) · [Parser Lexer Ast (1214)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (313)](../by-category/precommit-ci-quality.md)
-[Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (139)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
-[Security Sast (337)](../by-category/security-sast.md) · [Serialization (402)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (642)](../by-category/static-analyzer.md)
+[Other (14)](../by-category/other.md) · [Package Manager (445)](../by-category/package-manager.md) · [Parser Lexer Ast (1215)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (313)](../by-category/precommit-ci-quality.md)
+[Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (141)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
+[Security Sast (337)](../by-category/security-sast.md) · [Serialization (403)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (642)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (627)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1633)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (566)](../by-category/visualization-gui.md) · [Web Framework (493)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1634)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (572)](../by-category/visualization-gui.md) · [Web Framework (493)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -130,7 +130,7 @@ Records: `271`
 | [mrcjkb/telescope-manix](../records/telescopes-mrcjkb-telescope-manix-74de5637.md) | partial | 2026-09-06T00:27:41Z | registry-derived |
 | [mrjones2014/dash.nvim](../records/telescopes-mrjones2014-dash-nvim-c0435f14.md) | partial | 2022-08-30T00:29:47Z | registry-derived |
 | [mrjones2014/tldr.nvim](../records/telescopes-mrjones2014-tldr-nvim-207a9aa6.md) | partial | 2024-01-02T13:18:05Z | registry-derived |
-| [MWATelescope/mwa_hyperdrive](../records/telescopes-mwatelescope-mwa-hyperdrive-c5f9ac6f.md) | partial | 2026-09-06T16:09:08Z | registry-derived |
+| [MWATelescope/mwa_hyperdrive](../records/telescopes-mwatelescope-mwa-hyperdrive-c5f9ac6f.md) | partial | 2026-09-07T13:16:01Z | registry-derived |
 | [natecraddock/telescope-zf-native.nvim](../records/telescopes-natecraddock-telescope-zf-native-nvim-b5f7ffd2.md) | partial | 2024-09-15T14:04:41Z | registry-derived |
 | [nvim-telescope/telescope-fzf-native.nvim](../records/telescopes-nvim-telescope-telescope-fzf-native-nvim-4183d483.md) | partial | 2026-05-06T14:30:36Z | registry-derived |
 | [octarect/telescope-menu.nvim](../records/telescopes-octarect-telescope-menu-nvim-fca0ddf6.md) | partial | 2025-08-29T19:10:35Z | registry-derived |
@@ -146,7 +146,7 @@ Records: `271`
 | [ryanmsnyder/toggleterm-manager.nvim](../records/telescopes-ryanmsnyder-toggleterm-manager-nvim-18379843.md) | partial | 2023-12-03T16:36:54Z | registry-derived |
 | [Shatur/neovim-session-manager](../records/telescopes-shatur-neovim-session-manager-c85f7378.md) | partial | 2026-01-26T08:29:30Z | registry-derived |
 | [shivamashtikar/tmuxjump.vim](../records/telescopes-shivamashtikar-tmuxjump-vim-6d96d0e3.md) | partial | 2022-05-28T11:12:55Z | registry-derived |
-| [sidereal-io/sidereal](../records/telescopes-sidereal-io-sidereal-a812056c.md) | partial | 2026-08-31T04:17:21Z | registry-derived |
+| [sidereal-io/sidereal](../records/telescopes-sidereal-io-sidereal-a812056c.md) | partial | 2026-09-07T04:15:42Z | registry-derived |
 | [Snikimonkd/telescope-git-conflicts.nvim](../records/telescopes-snikimonkd-telescope-git-conflicts-nvim-698ea0ce.md) | partial | 2024-01-14T11:59:28Z | registry-derived |
 | [softinio/scaladex.nvim](../records/telescopes-softinio-scaladex-nvim-76db7af3.md) | partial | 2025-06-08T19:30:45Z | registry-derived |
 | [Starainrt/astro](../records/telescopes-starainrt-astro-d4884d0b.md) | partial | 2026-08-06T04:42:42Z | registry-derived |
@@ -188,7 +188,7 @@ Records: `271`
 | [ad-si/Woxi](../records/telescopes-ad-si-woxi-8a8c02e7.md) | partial | 2026-09-09T15:07:54Z | registry-derived |
 | [Avimitin/nvim](../records/telescopes-avimitin-nvim-96de9a1e.md) | partial | 2026-07-28T05:10:02Z | registry-derived |
 | [gnudatalanguage/gdl](../records/telescopes-gnudatalanguage-gdl-37cda6a5.md) | partial | 2026-09-08T13:47:24Z | registry-derived |
-| [indigo-astronomy/indigo](../records/telescopes-indigo-astronomy-indigo-31817c1e.md) | partial | 2026-09-06T16:10:59Z | registry-derived |
+| [indigo-astronomy/indigo](../records/telescopes-indigo-astronomy-indigo-31817c1e.md) | partial | 2026-09-09T18:43:09Z | registry-derived |
 | [RononDex/FitsLibrary](../records/telescopes-ronondex-fitslibrary-5bc342d5.md) | partial | 2025-01-19T09:34:51Z | registry-derived |
 | [rOpenGov/regions](../records/telescopes-ropengov-regions-f411571c.md) | partial | 2022-09-24T12:53:07Z | registry-derived |
 
@@ -223,7 +223,7 @@ Records: `271`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [lgrcia/prose](../records/telescopes-lgrcia-prose-f417f514.md) | partial | 2025-07-10T00:31:54Z | registry-derived |
-| [spacetelescope/jwst](../records/telescopes-spacetelescope-jwst-e1b99f64.md) | partial | 2026-09-09T13:58:51Z | registry-derived |
+| [spacetelescope/jwst](../records/telescopes-spacetelescope-jwst-e1b99f64.md) | partial | 2026-09-09T19:16:04Z | registry-derived |
 
 ### Parser Lexer Ast
 
@@ -231,10 +231,10 @@ Records: `271`
 | --- | --- | --- | --- |
 | [0xCoto/Virgo](../records/telescopes-0xcoto-virgo-8f75760a.md) | partial | 2023-07-23T20:21:30Z | registry-derived |
 | [aaronwmorris/indi-allsky](../records/telescopes-aaronwmorris-indi-allsky-aa5014e3.md) | partial | 2026-09-07T23:10:24Z | registry-derived |
-| [adrn/gala](../records/telescopes-adrn-gala-6a3e8fbd.md) | partial | 2026-09-02T16:39:52Z | registry-derived |
+| [adrn/gala](../records/telescopes-adrn-gala-6a3e8fbd.md) | partial | 2026-09-08T12:47:47Z | registry-derived |
 | [AllskyTeam/allsky](../records/telescopes-allskyteam-allsky-a37843a6.md) | partial | 2026-08-31T20:50:25Z | registry-derived |
 | [amusecode/amuse](../records/telescopes-amusecode-amuse-e9459e7a.md) | partial | 2026-07-15T15:48:16Z | registry-derived |
-| [art-den/astra_lite](../records/telescopes-art-den-astra-lite-8f947ea9.md) | partial | 2026-09-09T03:40:50Z | registry-derived |
+| [art-den/astra_lite](../records/telescopes-art-den-astra-lite-8f947ea9.md) | partial | 2026-09-09T18:33:50Z | registry-derived |
 | [astrolabsoftware/spark-fits](../records/telescopes-astrolabsoftware-spark-fits-2f90fa6e.md) | partial | 2023-04-12T06:06:50Z | registry-derived |
 | [astropy-learn/astropy-tutorials](../records/telescopes-astropy-learn-astropy-tutorials-c1f9e6d9.md) | partial | 2026-09-07T16:51:31Z | registry-derived |
 | [astropy/astroquery](../records/telescopes-astropy-astroquery-218a1107.md) | partial | 2026-09-04T03:39:09Z | registry-derived |
@@ -249,7 +249,7 @@ Records: `271`
 | [cds-astro/ipyaladin](../records/telescopes-cds-astro-ipyaladin-faac0217.md) | partial | 2026-09-02T11:48:28Z | registry-derived |
 | [ceeK/Solar](../records/telescopes-ceek-solar-b80514c1.md) | partial | 2026-08-31T23:46:36Z | registry-derived |
 | [celestiamobile/AndroidCelestia](../records/telescopes-celestiamobile-androidcelestia-d3b34758.md) | partial | 2026-09-04T04:25:56Z | registry-derived |
-| [CelestiaProject/Celestia](../records/telescopes-celestiaproject-celestia-52936308.md) | partial | 2026-09-09T18:19:18Z | registry-derived |
+| [CelestiaProject/Celestia](../records/telescopes-celestiaproject-celestia-52936308.md) | partial | 2026-09-09T18:42:26Z | registry-derived |
 | [chvvkumar/GalactiLog](../records/telescopes-chvvkumar-galactilog-7e04fb86.md) | partial | 2026-09-03T04:33:26Z | registry-derived |
 | [chvvkumar/simpleCloudDetect](../records/telescopes-chvvkumar-simpleclouddetect-adc81530.md) | partial | 2026-06-22T08:30:39Z | registry-derived |
 | [clmun/Shadow](../records/telescopes-clmun-shadow-447150b2.md) | partial | 2026-04-14T09:23:19Z | registry-derived |
@@ -257,7 +257,7 @@ Records: `271`
 | [code2k13/starrem2k13](../records/telescopes-code2k13-starrem2k13-f90d7b2c.md) | partial | 2025-06-16T01:22:20Z | registry-derived |
 | [commenthol/astronomia](../records/telescopes-commenthol-astronomia-fdf7f501.md) | partial | 2025-08-30T08:12:39Z | registry-derived |
 | [cosmonium/cosmonium](../records/telescopes-cosmonium-cosmonium-96f84ede.md) | partial | 2026-09-08T21:33:10Z | registry-derived |
-| [danieljprice/phantom](../records/telescopes-danieljprice-phantom-c1fb3c56.md) | partial | 2026-09-03T08:40:07Z | registry-derived |
+| [danieljprice/phantom](../records/telescopes-danieljprice-phantom-c1fb3c56.md) | partial | 2026-09-06T23:09:19Z | registry-derived |
 | [DaveStrickland/AstroPhotography](../records/telescopes-davestrickland-astrophotography-b80c443a.md) | partial | 2026-09-05T00:51:22Z | registry-derived |
 | [DeepskyLog/DeepskyLog](../records/telescopes-deepskylog-deepskylog-0556deb4.md) | partial | 2026-09-08T12:42:14Z | registry-derived |
 | [DeepSkyWorkflows/DeepSkyWorkflowScripts](../records/telescopes-deepskyworkflows-deepskyworkflowscripts-4a9161f2.md) | partial | 2022-09-09T18:21:35Z | registry-derived |
@@ -285,31 +285,31 @@ Records: `271`
 | [gwastro/PyCBC-Tutorials](../records/telescopes-gwastro-pycbc-tutorials-a79b24b2.md) | partial | 2026-09-04T10:15:35Z | registry-derived |
 | [henrysky/astroNN](../records/telescopes-henrysky-astronn-f3bb662d.md) | partial | 2026-07-21T15:23:30Z | registry-derived |
 | [hyqzz/Solar-Wanderer](../records/telescopes-hyqzz-solar-wanderer-ebebad0b.md) | partial | 2026-08-23T16:05:32Z | registry-derived |
-| [isbeorn/nina](../records/telescopes-isbeorn-nina-4637757e.md) | partial | 2026-09-03T15:12:52Z | registry-derived |
+| [isbeorn/nina](../records/telescopes-isbeorn-nina-4637757e.md) | partial | 2026-09-09T13:56:04Z | registry-derived |
 | [ivoyager/planetarium](../records/telescopes-ivoyager-planetarium-6c870afb.md) | partial | 2026-09-04T20:54:35Z | registry-derived |
 | [jagi/meteor-astronomy](../records/telescopes-jagi-meteor-astronomy-415c00fc.md) | partial | 2023-08-24T08:22:39Z | registry-derived |
 | [jasonsturges/lunarphase-js](../records/telescopes-jasonsturges-lunarphase-js-0e590da6.md) | partial | 2024-03-01T22:53:58Z | registry-derived |
 | [jbrazio/ardufocus-ascom](../records/telescopes-jbrazio-ardufocus-ascom-dca68881.md) | partial | 2021-02-21T11:08:23Z | registry-derived |
 | [jeff-regier/Celeste.jl](../records/telescopes-jeff-regier-celeste-jl-80fff8a5.md) | partial | 2021-09-18T08:20:37Z | registry-derived |
-| [jobovy/galpy](../records/telescopes-jobovy-galpy-b2e4e9ec.md) | partial | 2026-09-09T18:26:35Z | registry-derived |
+| [jobovy/galpy](../records/telescopes-jobovy-galpy-b2e4e9ec.md) | partial | 2026-09-09T18:49:04Z | registry-derived |
 | [JuliaAstro/AstroImages.jl](../records/telescopes-juliaastro-astroimages-jl-2c56131c.md) | partial | 2026-07-30T16:20:41Z | registry-derived |
-| [jyotisham/jyotisha](../records/telescopes-jyotisham-jyotisha-8a86df5e.md) | partial | 2026-09-05T17:09:50Z | registry-derived |
-| [kylecorry31/Trail-Sense](../records/telescopes-kylecorry31-trail-sense-8d97a469.md) | partial | 2026-09-09T00:54:30Z | registry-derived |
+| [jyotisham/jyotisha](../records/telescopes-jyotisham-jyotisha-8a86df5e.md) | partial | 2026-09-09T17:30:05Z | registry-derived |
+| [kylecorry31/Trail-Sense](../records/telescopes-kylecorry31-trail-sense-8d97a469.md) | partial | 2026-09-09T19:06:17Z | registry-derived |
 | [larrylart/Unimap](../records/telescopes-larrylart-unimap-07a1fd44.md) | partial | 2019-02-18T20:46:00Z | registry-derived |
-| [lenstronomy/lenstronomy](../records/telescopes-lenstronomy-lenstronomy-33b11625.md) | partial | 2026-08-31T01:11:49Z | registry-derived |
+| [lenstronomy/lenstronomy](../records/telescopes-lenstronomy-lenstronomy-33b11625.md) | partial | 2026-09-07T00:13:35Z | registry-derived |
 | [lgrcia/twirl](../records/telescopes-lgrcia-twirl-2b14ac34.md) | partial | 2026-07-21T07:23:08Z | registry-derived |
 | [lunohodov/awesome-astrophotography](../records/telescopes-lunohodov-awesome-astrophotography-770389b7.md) | partial | 2026-06-11T04:43:54Z | registry-derived |
 | [mattiaverga/OpenNGC](../records/telescopes-mattiaverga-openngc-cf98889b.md) | partial | 2026-08-23T16:14:28Z | registry-derived |
 | [mawinkler/astroweather](../records/telescopes-mawinkler-astroweather-47e9e97d.md) | partial | 2026-05-30T04:32:24Z | registry-derived |
 | [mawinkler/uptonight](../records/telescopes-mawinkler-uptonight-837cb976.md) | partial | 2026-08-09T09:21:44Z | registry-derived |
-| [mbeher2200/DarkHours](../records/telescopes-mbeher2200-darkhours-86ce9265.md) | partial | 2026-09-05T13:23:53Z | registry-derived |
+| [mbeher2200/DarkHours](../records/telescopes-mbeher2200-darkhours-86ce9265.md) | partial | 2026-09-07T11:36:27Z | registry-derived |
 | [michelegz/astro-web-indexer](../records/telescopes-michelegz-astro-web-indexer-3a733ac6.md) | partial | 2026-03-23T15:27:12Z | registry-derived |
 | [minaskar/pocomc](../records/telescopes-minaskar-pocomc-de6d518b.md) | partial | 2025-09-11T22:37:30Z | registry-derived |
 | [mlnoga/nightlight](../records/telescopes-mlnoga-nightlight-efb6d1ef.md) | partial | 2024-01-20T22:43:44Z | registry-derived |
 | [mperrin/poppy](../records/telescopes-mperrin-poppy-fb792cf8.md) | partial | 2026-08-20T13:45:22Z | registry-derived |
-| [mrantonSG/nova_DSO_tracker](../records/telescopes-mrantonsg-nova-dso-tracker-437046eb.md) | partial | 2026-09-04T14:58:21Z | registry-derived |
+| [mrantonSG/nova_DSO_tracker](../records/telescopes-mrantonsg-nova-dso-tracker-437046eb.md) | partial | 2026-09-09T18:28:30Z | registry-derived |
 | [N3RDIUM/astropi](../records/telescopes-n3rdium-astropi-a4c92c26.md) | partial | 2026-04-28T13:04:32Z | registry-derived |
-| [nasa-gcn/gcn.nasa.gov](../records/telescopes-nasa-gcn-gcn-nasa-gov-9e018d07.md) | partial | 2026-09-04T14:54:26Z | registry-derived |
+| [nasa-gcn/gcn.nasa.gov](../records/telescopes-nasa-gcn-gcn-nasa-gov-9e018d07.md) | partial | 2026-09-09T11:32:40Z | registry-derived |
 | [nasa/apod-api](../records/telescopes-nasa-apod-api-d5408ab7.md) | partial | 2026-09-09T15:01:03Z | registry-derived |
 | [nathan-osman/go-sunrise](../records/telescopes-nathan-osman-go-sunrise-a080d2b8.md) | partial | 2024-04-23T10:07:48Z | registry-derived |
 | [nekitmm/starnet](../records/telescopes-nekitmm-starnet-50130f9b.md) | partial | 2022-09-12T22:34:37Z | registry-derived |
@@ -320,28 +320,28 @@ Records: `271`
 | [OpenAstroTech/OATFWGUI](../records/telescopes-openastrotech-oatfwgui-6a7860e7.md) | partial | 2026-03-01T23:07:57Z | registry-derived |
 | [OpenAstroTech/OpenAstroFirmware](../records/telescopes-openastrotech-openastrofirmware-43510204.md) | partial | 2025-10-12T20:10:42Z | registry-derived |
 | [OpenAstroTech/OpenAstroTracker](../records/telescopes-openastrotech-openastrotracker-3176cfcc.md) | partial | 2025-02-21T15:40:41Z | registry-derived |
-| [OpenAstroTech/OpenAstroTracker-Firmware](../records/telescopes-openastrotech-openastrotracker-firmware-a667a5b4.md) | partial | 2026-09-01T21:56:22Z | registry-derived |
+| [OpenAstroTech/OpenAstroTracker-Firmware](../records/telescopes-openastrotech-openastrotracker-firmware-a667a5b4.md) | partial | 2026-09-09T07:29:33Z | registry-derived |
 | [Photosounder/Voyager-Image-Decoder](../records/telescopes-photosounder-voyager-image-decoder-cf8e7042.md) | partial | 2020-09-13T11:30:16Z | registry-derived |
 | [PlasmaPy/PlasmaPy](../records/telescopes-plasmapy-plasmapy-dcb9bd68.md) | partial | 2026-09-08T13:09:49Z | registry-derived |
 | [pludov/mobindi](../records/telescopes-pludov-mobindi-2dcfeccf.md) | partial | 2026-06-13T21:45:03Z | registry-derived |
 | [polatory/polatory](../records/telescopes-polatory-polatory-50968260.md) | partial | 2026-09-03T17:12:57Z | registry-derived |
 | [ppp-one/astra](../records/telescopes-ppp-one-astra-58695d7f.md) | partial | 2026-09-09T11:30:56Z | registry-derived |
-| [PyAutoLabs/PyAutoLens](../records/telescopes-pyautolabs-pyautolens-7eba1af6.md) | partial | 2026-09-05T14:24:10Z | registry-derived |
+| [PyAutoLabs/PyAutoLens](../records/telescopes-pyautolabs-pyautolens-7eba1af6.md) | partial | 2026-09-08T18:19:47Z | registry-derived |
 | [quatrope/astroalign](../records/telescopes-quatrope-astroalign-6c654556.md) | partial | 2025-09-24T18:22:23Z | registry-derived |
 | [rhnvrm/galaxy-image-classifier-tensorflow](../records/telescopes-rhnvrm-galaxy-image-classifier-tensorflow-27b731bb.md) | partial | 2017-10-25T19:26:30Z | registry-derived |
 | [Ripwords/starnetGUI](../records/telescopes-ripwords-starnetgui-ce6b5b02.md) | partial | 2022-09-16T03:24:42Z | registry-derived |
 | [rkaczorek/astroberry-server](../records/telescopes-rkaczorek-astroberry-server-f5249e84.md) | partial | 2026-02-11T12:01:25Z | registry-derived |
 | [sajmons/CollimationCircles](../records/telescopes-sajmons-collimationcircles-0a06e719.md) | partial | 2026-07-16T22:14:33Z | registry-derived |
 | [sanderblue/solar-system-threejs](../records/telescopes-sanderblue-solar-system-threejs-9534bfd9.md) | partial | 2022-12-07T17:32:03Z | registry-derived |
-| [SAOImageDS9/SAOImageDS9](../records/telescopes-saoimageds9-saoimageds9-48c35f03.md) | partial | 2026-09-06T15:36:33Z | registry-derived |
+| [SAOImageDS9/SAOImageDS9](../records/telescopes-saoimageds9-saoimageds9-48c35f03.md) | partial | 2026-09-08T17:43:06Z | registry-derived |
 | [saurvs/astro-rust](../records/telescopes-saurvs-astro-rust-3d0d6b1c.md) | partial | 2019-10-20T01:17:04Z | registry-derived |
 | [Scdouglas1999/Fujicom](../records/telescopes-scdouglas1999-fujicom-9175fe24.md) | partial | 2026-08-31T23:36:12Z | registry-derived |
 | [scottstirling/pi2llm](../records/telescopes-scottstirling-pi2llm-576ad030.md) | partial | 2026-06-26T22:35:42Z | registry-derived |
 | [sczesla/PyAstronomy](../records/telescopes-sczesla-pyastronomy-16e94100.md) | partial | 2026-06-27T22:26:51Z | registry-derived |
-| [sherpa/sherpa](../records/telescopes-sherpa-sherpa-53f87797.md) | partial | 2026-08-31T10:48:37Z | registry-derived |
+| [sherpa/sherpa](../records/telescopes-sherpa-sherpa-53f87797.md) | partial | 2026-09-09T12:51:23Z | registry-derived |
 | [Sigmyne/SuperNOVAS](../records/telescopes-sigmyne-supernovas-c1bcbf75.md) | partial | 2026-09-04T09:37:15Z | registry-derived |
 | [simonvoelcker/astrotools](../records/telescopes-simonvoelcker-astrotools-00019eec.md) | partial | 2023-05-01T21:39:45Z | registry-derived |
-| [skyportal/skyportal](../records/telescopes-skyportal-skyportal-ec9ec91c.md) | partial | 2026-09-05T21:17:29Z | registry-derived |
+| [skyportal/skyportal](../records/telescopes-skyportal-skyportal-ec9ec91c.md) | partial | 2026-09-09T17:24:29Z | registry-derived |
 | [skypyproject/skypy](../records/telescopes-skypyproject-skypy-fd952866.md) | partial | 2026-06-22T19:20:21Z | registry-derived |
 | [spacetelescope/poppy](../records/telescopes-spacetelescope-poppy-8fcb0fc5.md) | partial | 2026-08-26T14:23:04Z | registry-derived |
 | [spacetelescope/webbpsf](../records/telescopes-spacetelescope-webbpsf-1b082c9b.md) | partial | 2025-12-02T16:51:26Z | registry-derived |
@@ -349,7 +349,7 @@ Records: `271`
 | [Starlink/starlink](../records/telescopes-starlink-starlink-a17e4ea1.md) | partial | 2026-08-12T00:17:22Z | registry-derived |
 | [StefanoTesla/TeslaBoard](../records/telescopes-stefanotesla-teslaboard-f09975c6.md) | partial | 2026-08-28T10:07:31Z | registry-derived |
 | [Stellarium/stellarium](../records/telescopes-stellarium-stellarium-a274d765.md) | partial | 2026-09-09T07:15:49Z | registry-derived |
-| [steveberardi/starplot](../records/telescopes-steveberardi-starplot-6a1c13aa.md) | partial | 2026-09-01T13:14:47Z | registry-derived |
+| [steveberardi/starplot](../records/telescopes-steveberardi-starplot-6a1c13aa.md) | partial | 2026-09-09T13:29:47Z | registry-derived |
 | [StingraySoftware/stingray](../records/telescopes-stingraysoftware-stingray-6e54158b.md) | partial | 2026-06-02T08:10:03Z | registry-derived |
 | [sunpy/sunpy](../records/telescopes-sunpy-sunpy-52ba6b6e.md) | partial | 2026-09-09T11:30:24Z | registry-derived |
 | [sylvainvillet/astro-catalog](../records/telescopes-sylvainvillet-astro-catalog-89b96d70.md) | partial | 2025-10-23T06:22:37Z | registry-derived |
@@ -361,7 +361,7 @@ Records: `271`
 | [vedika-io/xalen-ephemeris](../records/telescopes-vedika-io-xalen-ephemeris-c0e77623.md) | partial | 2026-07-02T21:33:33Z | registry-derived |
 | [venturachrisdev/Cygnus-Astro](../records/telescopes-venturachrisdev-cygnus-astro-c5c62294.md) | partial | 2026-07-22T15:42:20Z | registry-derived |
 | [wkasteleijn/luckystackworker](../records/telescopes-wkasteleijn-luckystackworker-37d676e4.md) | partial | 2026-05-21T20:34:59Z | registry-derived |
-| [yt-project/yt](../records/telescopes-yt-project-yt-9a71f88e.md) | partial | 2026-09-09T15:58:17Z | registry-derived |
+| [yt-project/yt](../records/telescopes-yt-project-yt-9a71f88e.md) | partial | 2026-09-09T19:02:20Z | registry-derived |
 | [Yu-Yang-Li/StarWhisper](../records/telescopes-yu-yang-li-starwhisper-3056022a.md) | partial | 2026-08-19T10:58:11Z | registry-derived |
 | [yymao/adstex](../records/telescopes-yymao-adstex-f69fc621.md) | partial | 2025-05-12T14:36:55Z | registry-derived |
 
@@ -399,7 +399,7 @@ Records: `271`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [astropy/astropy](../records/telescopes-astropy-astropy-5c7c1273.md) | partial | 2026-09-09T18:07:37Z | registry-derived |
+| [astropy/astropy](../records/telescopes-astropy-astropy-5c7c1273.md) | partial | 2026-09-09T18:29:57Z | registry-derived |
 
 ### Static Analyzer
 
@@ -407,7 +407,7 @@ Records: `271`
 | --- | --- | --- | --- |
 | [gwastro/pycbc](../records/telescopes-gwastro-pycbc-b93b6565.md) | partial | 2026-09-07T15:06:56Z | registry-derived |
 | [Hrishikesh332/Astronomy_Analysis](../records/telescopes-hrishikesh332-astronomy-analysis-714231c8.md) | partial | 2023-01-07T15:50:46Z | registry-derived |
-| [iraf-community/iraf](../records/telescopes-iraf-community-iraf-5c34feb3.md) | partial | 2026-09-05T17:06:22Z | registry-derived |
+| [iraf-community/iraf](../records/telescopes-iraf-community-iraf-5c34feb3.md) | partial | 2026-09-09T09:25:58Z | registry-derived |
 | [lightkurve/lightkurve](../records/telescopes-lightkurve-lightkurve-47762682.md) | partial | 2026-08-25T19:58:28Z | registry-derived |
 | [mengchaoheng/PINDI](../records/telescopes-mengchaoheng-pindi-082f8769.md) | partial | 2026-07-27T02:56:23Z | registry-derived |
 | [RononDex/Astrobot](../records/telescopes-ronondex-astrobot-cb92f0ee.md) | partial | 2026-09-03T19:57:34Z | registry-derived |
@@ -434,7 +434,7 @@ Records: `271`
 | [Jubstaaa/hono-telescope](../records/telescopes-jubstaaa-hono-telescope-327995c1.md) | partial | 2026-09-02T22:21:25Z | registry-derived |
 | [MESAHub/mesa](../records/telescopes-mesahub-mesa-9ce8b36f.md) | partial | 2026-09-04T05:23:44Z | registry-derived |
 | [nvim-telescope/telescope-github.nvim](../records/telescopes-nvim-telescope-telescope-github-nvim-5e97e37e.md) | partial | 2026-01-20T05:13:22Z | registry-derived |
-| [rhannequin/astronoby](../records/telescopes-rhannequin-astronoby-9da7aa1c.md) | partial | 2026-09-05T19:53:51Z | registry-derived |
+| [rhannequin/astronoby](../records/telescopes-rhannequin-astronoby-9da7aa1c.md) | partial | 2026-09-08T01:42:40Z | registry-derived |
 | [rlch/github-notifications.nvim](../records/telescopes-rlch-github-notifications-nvim-185a6c78.md) | partial | 2023-06-15T02:27:51Z | registry-derived |
 | [spacetelescope/PyFITS](../records/telescopes-spacetelescope-pyfits-d1bbebf9.md) | partial | 2017-12-18T20:17:59Z | registry-derived |
 
