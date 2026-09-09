@@ -5,22 +5,22 @@
 ## Category Index
 
 [Api Abi Checker (230)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (202)](by-category/benchmarking.md) · [Build System (1003)](by-category/build-system.md) · [Cli (580)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
-[Community Reference (120)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (25)](by-category/compiler-diagnostics.md) · [Compression (52)](by-category/compression.md)
+[Benchmarking (202)](by-category/benchmarking.md) · [Build System (1005)](by-category/build-system.md) · [Cli (582)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Community Reference (121)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (25)](by-category/compiler-diagnostics.md) · [Compression (53)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (135)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (180)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (973)](by-category/database-datastore.md) · [Datetime (241)](by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (105)](by-category/dependency-manager.md) · [Documentation (109)](by-category/documentation.md)
-[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (467)](by-category/ffi-bindings.md) · [Filesystem Os (1624)](by-category/filesystem-os.md) · [Formatter (654)](by-category/formatter.md)
-[Framework (63)](by-category/framework.md) · [Fuzzer (59)](by-category/fuzzer.md) · [Game Engine Game Dev (360)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1481)](by-category/ide-editor-integration.md)
+[Cryptography (180)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (974)](by-category/database-datastore.md) · [Datetime (241)](by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (106)](by-category/dependency-manager.md) · [Documentation (110)](by-category/documentation.md)
+[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (468)](by-category/ffi-bindings.md) · [Filesystem Os (1625)](by-category/filesystem-os.md) · [Formatter (654)](by-category/formatter.md)
+[Framework (63)](by-category/framework.md) · [Fuzzer (59)](by-category/fuzzer.md) · [Game Engine Game Dev (361)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1481)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (443)](by-category/image-audio-dsp.md) · [Interop Bindings (63)](by-category/interop-bindings.md) · [Interpreter Runtime (276)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1454)](by-category/language-specification.md) · [Library (5879)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1454)](by-category/language-specification.md) · [Library (5884)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (535)](by-category/logging-observability.md) · [Machine Learning (816)](by-category/machine-learning.md)
-[Math Numeric Scientific (90)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1065)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (444)](by-category/package-manager.md) · [Parser Lexer Ast (1214)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (313)](by-category/precommit-ci-quality.md)
+[Math Numeric Scientific (90)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1066)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (445)](by-category/package-manager.md) · [Parser Lexer Ast (1214)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (313)](by-category/precommit-ci-quality.md)
 [Profiler (93)](by-category/profiler.md) · [Project Scaffolding (139)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
-[Security Sast (337)](by-category/security-sast.md) · [Serialization (402)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (641)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (625)](by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](by-category/tutorial-book-styleguide.md) · [Type Checker (315)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1633)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (564)](by-category/visualization-gui.md) · [Web Framework (493)](by-category/web-framework.md)
+[Security Sast (337)](by-category/security-sast.md) · [Serialization (402)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (642)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (627)](by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](by-category/tutorial-book-styleguide.md) · [Type Checker (315)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (1633)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (566)](by-category/visualization-gui.md) · [Web Framework (493)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -869,6 +869,7 @@
 | `cran_packages_by_date-07d12d4d957b3e` | metaselection | [open](records/r-metaselection-253eae2d.md) |
 | `cran_packages_by_date-07e14944c131e3` | RProtoBuf | [open](records/r-rprotobuf-4170b44d.md) |
 | `cran_packages_by_date-0806010085be26` | varequal | [open](records/r-varequal-d7d3c74a.md) |
+| `cran_packages_by_date-080c4d1a7870cd` | shinygenui | [open](records/r-shinygenui-3bedacc4.md) |
 | `cran_packages_by_date-0815cb80a49bf7` | MDPtoolbox | [open](records/r-mdptoolbox-919f1f57.md) |
 | `cran_packages_by_date-0836421d62a0a0` | MatrixEQTL | [open](records/r-matrixeqtl-33a324a1.md) |
 | `cran_packages_by_date-0875c9abccc071` | freegroup | [open](records/r-freegroup-5fae418a.md) |
@@ -943,6 +944,7 @@
 | `cran_packages_by_date-12f0294438e05c` | SeuratExplorer | [open](records/r-seuratexplorer-6311b262.md) |
 | `cran_packages_by_date-130bcd609eaa5c` | mitools | [open](records/r-mitools-b0bd6208.md) |
 | `cran_packages_by_date-131430054c1ce9` | cansim | [open](records/r-cansim-9b8d09cf.md) |
+| `cran_packages_by_date-1357b5d306eae9` | datacaged | [open](records/r-datacaged-0983a23e.md) |
 | `cran_packages_by_date-13746b437b379f` | GammaFrailtySPC | [open](records/r-gammafrailtyspc-8c770bfb.md) |
 | `cran_packages_by_date-1381a30b11f7a4` | awdb | [open](records/r-awdb-7e4076b0.md) |
 | `cran_packages_by_date-13c984b5417c8e` | persuasio | [open](records/r-persuasio-de611642.md) |
@@ -955,6 +957,7 @@
 | `cran_packages_by_date-14537db5b6bd57` | outliertree | [open](records/r-outliertree-3f6d02b5.md) |
 | `cran_packages_by_date-14650df237bcae` | colocboost | [open](records/r-colocboost-b30d1244.md) |
 | `cran_packages_by_date-147cccf88c0471` | bmem | [open](records/r-bmem-155466de.md) |
+| `cran_packages_by_date-148b013f167d21` | simtrial | [open](records/r-simtrial-c9685e82.md) |
 | `cran_packages_by_date-149a92b8913f6e` | outcomerate | [open](records/r-outcomerate-4e117fb0.md) |
 | `cran_packages_by_date-14a57c068653e5` | myTAI | [open](records/r-mytai-349e357a.md) |
 | `cran_packages_by_date-14acf26d8877fb` | dsROCrate | [open](records/r-dsrocrate-67d49654.md) |
@@ -1017,6 +1020,7 @@
 | `cran_packages_by_date-1ba34e2fd46681` | ggstratify | [open](records/r-ggstratify-d2738714.md) |
 | `cran_packages_by_date-1be856ca8f1c26` | SQLFormatteR | [open](records/r-sqlformatter-2292ec67.md) |
 | `cran_packages_by_date-1bf24dd49cf929` | vntrs | [open](records/r-vntrs-92ffc68a.md) |
+| `cran_packages_by_date-1bfe17fcec9ddf` | NLIN | [open](records/r-nlin-ed4410bc.md) |
 | `cran_packages_by_date-1c5cd431e0c475` | dgraphs | [open](records/r-dgraphs-81082d45.md) |
 | `cran_packages_by_date-1c62af882158a4` | metalite.sl | [open](records/r-metalite-sl-3637a08a.md) |
 | `cran_packages_by_date-1d04046593c38a` | uroscores | [open](records/r-uroscores-90eb0d77.md) |
@@ -1356,6 +1360,7 @@
 | `cran_packages_by_date-492d1c44dfa76e` | oddsapiio | [open](records/r-oddsapiio-686aab5d.md) |
 | `cran_packages_by_date-4999de5325ad93` | TPEA | [open](records/r-tpea-ed7a3e77.md) |
 | `cran_packages_by_date-49a8e6b6e5adfb` | underdisp | [open](records/r-underdisp-8acbbf10.md) |
+| `cran_packages_by_date-49aa9055c127fc` | BOLDNODE | [open](records/r-boldnode-7f2a24e5.md) |
 | `cran_packages_by_date-49ee5f0762a881` | mcptools | [open](records/r-mcptools-e66aa325.md) |
 | `cran_packages_by_date-4a0b364fd6458f` | shapviz | [open](records/r-shapviz-d4cf00e1.md) |
 | `cran_packages_by_date-4a46273c9e9162` | shiftR | [open](records/r-shiftr-e102e904.md) |
@@ -1909,6 +1914,7 @@
 | `cran_packages_by_date-919fdd38dd5e2b` | bruno | [open](records/r-bruno-1aca8836.md) |
 | `cran_packages_by_date-91c31597e54e55` | tikatuwq | [open](records/r-tikatuwq-3449ba3d.md) |
 | `cran_packages_by_date-91d723ce14eb2e` | biopalette | [open](records/r-biopalette-b123d8b5.md) |
+| `cran_packages_by_date-91dcbbc83647ae` | winning | [open](records/r-winning-f3036bb3.md) |
 | `cran_packages_by_date-9219b9008dc113` | scROSHI | [open](records/r-scroshi-05d7c938.md) |
 | `cran_packages_by_date-92b972af32ddac` | depictr | [open](records/r-depictr-4b19a4b8.md) |
 | `cran_packages_by_date-92c491933531d5` | actiread | [open](records/r-actiread-2ef203db.md) |
@@ -2218,6 +2224,7 @@
 | `cran_packages_by_date-be901cf4384a2b` | acro | [open](records/r-acro-20137739.md) |
 | `cran_packages_by_date-beaa320f6d25b1` | CDMConnector | [open](records/r-cdmconnector-84a814d3.md) |
 | `cran_packages_by_date-befda52d835682` | compIndexBuilder | [open](records/r-compindexbuilder-dd8a292d.md) |
+| `cran_packages_by_date-bf116be6817a77` | rvisual | [open](records/r-rvisual-911d8ce5.md) |
 | `cran_packages_by_date-bf18defa0d0eab` | openNCAI | [open](records/r-openncai-a8096b4e.md) |
 | `cran_packages_by_date-bf79ad66c19026` | rewind | [open](records/r-rewind-56515e87.md) |
 | `cran_packages_by_date-bf81f1b9dbee57` | csranks | [open](records/r-csranks-d89e3d2e.md) |
@@ -2398,6 +2405,7 @@
 | `cran_packages_by_date-d77dc99ad54a12` | nlmixr2plot | [open](records/r-nlmixr2plot-9d257025.md) |
 | `cran_packages_by_date-d7deede3991b52` | MazamaRollUtils | [open](records/r-mazamarollutils-30bfe534.md) |
 | `cran_packages_by_date-d7e7ca0f28332a` | AddiVortes | [open](records/r-addivortes-3d7d418d.md) |
+| `cran_packages_by_date-d7ebfc9c5486a6` | bodycompref | [open](records/r-bodycompref-81b04a86.md) |
 | `cran_packages_by_date-d81111c5f1812f` | pharmr | [open](records/r-pharmr-6d27372d.md) |
 | `cran_packages_by_date-d83af8c208ec32` | ForeCA | [open](records/r-foreca-3a912f7c.md) |
 | `cran_packages_by_date-d84268625dff99` | SMM | [open](records/r-smm-4f37397b.md) |
@@ -2620,6 +2628,7 @@
 | `cran_packages_by_date-f44d0739ec43c2` | ic.infer | [open](records/r-ic-infer-85eea075.md) |
 | `cran_packages_by_date-f4569e8456e053` | rKraken | [open](records/r-rkraken-901a4ba1.md) |
 | `cran_packages_by_date-f45babf811d554` | TBRDist | [open](records/r-tbrdist-107223ec.md) |
+| `cran_packages_by_date-f4ab82065a6c64` | HDElliptical | [open](records/r-hdelliptical-39878582.md) |
 | `cran_packages_by_date-f4adb2c4c9ae00` | CDSS | [open](records/r-cdss-8356f605.md) |
 | `cran_packages_by_date-f4da9164a93878` | mRpostman | [open](records/r-mrpostman-e02be924.md) |
 | `cran_packages_by_date-f4e903eb3102a0` | nimbleMacros | [open](records/r-nimblemacros-731a53b0.md) |
@@ -7654,6 +7663,7 @@
 | `github_search_databases-07f06c99dcc5df` | SeaQL/sea-orm | [open](records/databases-seaql-sea-orm-dfb42d06.md) |
 | `github_search_databases-07f1edae0f139a` | dimitri/pgloader | [open](records/databases-dimitri-pgloader-b06e2e41.md) |
 | `github_search_databases-0871bca7e74763` | jdbc-observations/datasource-proxy | [open](records/databases-jdbc-observations-datasource-proxy-2bf56772.md) |
+| `github_search_databases-08bf603bdf2fc2` | rootSunc/CNEquity | [open](records/databases-rootsunc-cnequity-120d106c.md) |
 | `github_search_databases-0916896b7e0ea3` | canonical/dqlite | [open](records/databases-canonical-dqlite-d71c166b.md) |
 | `github_search_databases-094243699d34ca` | logv/sybil | [open](records/databases-logv-sybil-16702d87.md) |
 | `github_search_databases-0976ba8f72f370` | porsager/postgres | [open](records/databases-porsager-postgres-fbaff732.md) |
@@ -7707,6 +7717,7 @@
 | `github_search_databases-1c0c4de98a54fb` | sequelpro/sequelpro | [open](records/databases-sequelpro-sequelpro-433a9d9f.md) |
 | `github_search_databases-1c5add106f4653` | CodeAbra/iai-personal-memory-engine | [open](records/databases-codeabra-iai-personal-memory-engine-13773b4e.md) |
 | `github_search_databases-1cdc999770e3e3` | makeplane/plane | [open](records/databases-makeplane-plane-b0283e4b.md) |
+| `github_search_databases-1d289291cbf294` | Azure/AzureDataLake | [open](records/databases-azure-azuredatalake-03fa006c.md) |
 | `github_search_databases-1da966eacb7c3a` | long2ice/asyncmy | [open](records/databases-long2ice-asyncmy-537bc784.md) |
 | `github_search_databases-1e2aca30ec8043` | wasp-lang/open-saas | [open](records/databases-wasp-lang-open-saas-7ae427a8.md) |
 | `github_search_databases-1e5449fe35038e` | skyzh/vector-db-from-scratch | [open](records/databases-skyzh-vector-db-from-scratch-51c5f22e.md) |
@@ -7897,6 +7908,7 @@
 | `github_search_databases-5549db1e2e3a3b` | gogs/gogs | [open](records/databases-gogs-gogs-f9556bd6.md) |
 | `github_search_databases-554c373ceae7b5` | JKHeadley/rest-hapi | [open](records/databases-jkheadley-rest-hapi-11c0a4c0.md) |
 | `github_search_databases-5637cc16ba5579` | Adarsh9616/Electricity_Billing_System | [open](records/databases-adarsh9616-electricity-billing-system-1402a818.md) |
+| `github_search_databases-56da1528231755` | MatsMoll/aligned | [open](records/databases-matsmoll-aligned-29d80f09.md) |
 | `github_search_databases-56e66f4ce2eec1` | znone/qtl | [open](records/databases-znone-qtl-4a168333.md) |
 | `github_search_databases-570b4322855e3a` | knex/knex | [open](records/databases-knex-knex-a41a9917.md) |
 | `github_search_databases-570b9d72fa65b6` | nestjs/typeorm | [open](records/databases-nestjs-typeorm-3312e1e4.md) |
@@ -7921,6 +7933,7 @@
 | `github_search_databases-5e835793d419cf` | dzharii/awesome-elasticsearch | [open](records/databases-dzharii-awesome-elasticsearch-81171c8b.md) |
 | `github_search_databases-5eea95ea213802` | codingo/NoSQLMap | [open](records/databases-codingo-nosqlmap-92ab6758.md) |
 | `github_search_databases-5f0420bb944d11` | The-Vibe-Company/quivr | [open](records/databases-the-vibe-company-quivr-58a307c7.md) |
+| `github_search_databases-5fbe24c81fec41` | abyo-software/s4 | [open](records/databases-abyo-software-s4-d718bab3.md) |
 | `github_search_databases-600d43cc9a1a2c` | go-jet/jet | [open](records/databases-go-jet-jet-ca5652ca.md) |
 | `github_search_databases-60307d02b7acab` | dolphindb/DolphinDBPlugin | [open](records/databases-dolphindb-dolphindbplugin-117a11bd.md) |
 | `github_search_databases-6110aa6d454161` | Netflix/dynomite | [open](records/databases-netflix-dynomite-bbdaecf5.md) |
@@ -7970,15 +7983,18 @@
 | `github_search_databases-6ded3253adf6b7` | dubinc/dub | [open](records/databases-dubinc-dub-fde61fc2.md) |
 | `github_search_databases-6e53c675dcc1bf` | altairbow/django-db-connection-pool | [open](records/databases-altairbow-django-db-connection-pool-7cfa1326.md) |
 | `github_search_databases-6eb69d4fb95d8b` | InsForge/InsForge | [open](records/databases-insforge-insforge-e3aaf1f0.md) |
+| `github_search_databases-6f991ca2266980` | dominikhei/Local-Data-LakeHouse | [open](records/databases-dominikhei-local-data-lakehouse-4f8f71d9.md) |
 | `github_search_databases-6ff91b6477d88f` | schemacrawler/SchemaCrawler | [open](records/databases-schemacrawler-schemacrawler-9a9c89e5.md) |
 | `github_search_databases-7011f049242dfa` | boltdb/bolt | [open](records/databases-boltdb-bolt-1e1b16b8.md) |
 | `github_search_databases-701aa1f44ecae9` | radondb/radon | [open](records/databases-radondb-radon-6bb841bf.md) |
+| `github_search_databases-702603d3364195` | hyparam/icebird | [open](records/databases-hyparam-icebird-b87f30a3.md) |
 | `github_search_databases-704d78496b3309` | ostafen/clover | [open](records/databases-ostafen-clover-2c48c6ed.md) |
 | `github_search_databases-70e0ce105eba55` | PostgREST/postgrest | [open](records/databases-postgrest-postgrest-a1bcbeac.md) |
 | `github_search_databases-70e14464ccc5b2` | giancarloerra/SocratiCode | [open](records/databases-giancarloerra-socraticode-bcc8ee56.md) |
 | `github_search_databases-71393b0ee9ae70` | k1LoW/tbls | [open](records/databases-k1low-tbls-c687317f.md) |
 | `github_search_databases-71c0617b9db1c9` | LeCoupa/awesome-cheatsheets | [open](records/databases-lecoupa-awesome-cheatsheets-7dac10f2.md) |
 | `github_search_databases-71f5aede7c0359` | dexie/Dexie.js | [open](records/databases-dexie-dexie-js-fd147e26.md) |
+| `github_search_databases-72264ce49dca7a` | LearningJournal/Spark-Streaming-In-Python | [open](records/databases-learningjournal-spark-streaming-in-python-99009449.md) |
 | `github_search_databases-726c56e38474ef` | WenjieDu/TSDB | [open](records/databases-wenjiedu-tsdb-d91c6ab6.md) |
 | `github_search_databases-72972c81e79395` | dbeaver/dbeaver | [open](records/databases-dbeaver-dbeaver-fdc61e8a.md) |
 | `github_search_databases-72ff92f79eda0e` | verygoodplugins/automem | [open](records/databases-verygoodplugins-automem-d7b17179.md) |
@@ -8019,6 +8035,7 @@
 | `github_search_databases-809c6d7bfbf522` | jOOQ/jOOQ | [open](records/databases-jooq-jooq-5d0aabf0.md) |
 | `github_search_databases-81452c8493c070` | jbmusso/awesome-graph | [open](records/databases-jbmusso-awesome-graph-501411fa.md) |
 | `github_search_databases-81dfd67fc592e6` | golang-migrate/migrate | [open](records/databases-golang-migrate-migrate-1713bacf.md) |
+| `github_search_databases-81e4f8974dcef8` | Jayvardhan-Reddy/Azure-Certification-DP-200 | [open](records/databases-jayvardhan-reddy-azure-certification-dp-200-bc190a86.md) |
 | `github_search_databases-82314ac36d3224` | tidwall/summitdb | [open](records/databases-tidwall-summitdb-13457d91.md) |
 | `github_search_databases-827af065e495a8` | ClaudioDrews/memory-os | [open](records/databases-claudiodrews-memory-os-37ef1a47.md) |
 | `github_search_databases-82ae3207e33e0d` | facebook/rocksdb | [open](records/databases-facebook-rocksdb-a5b51900.md) |
@@ -8044,7 +8061,9 @@
 | `github_search_databases-894c1e3071aafc` | vasu-devs/JustHireMe | [open](records/databases-vasu-devs-justhireme-b00ae36b.md) |
 | `github_search_databases-8959a663754788` | yinqiwen/ardb | [open](records/databases-yinqiwen-ardb-30a573ca.md) |
 | `github_search_databases-89ea3d3fc8efcf` | duckdb/duckdb-r | [open](records/databases-duckdb-duckdb-r-6dc81616.md) |
+| `github_search_databases-8b4c768d2a6706` | aws-samples/aws-dbs-refarch-datalake | [open](records/databases-aws-samples-aws-dbs-refarch-datalake-330a8350.md) |
 | `github_search_databases-8b89843f59cda8` | dingodb/dingo | [open](records/databases-dingodb-dingo-78d057f3.md) |
+| `github_search_databases-8be6305e99a328` | datamindedbe/lighthouse | [open](records/databases-datamindedbe-lighthouse-189318ac.md) |
 | `github_search_databases-8cb222a3fa6f18` | nocodb/nocodb | [open](records/databases-nocodb-nocodb-4fc74d77.md) |
 | `github_search_databases-8cecaae9654f0b` | harelba/q | [open](records/databases-harelba-q-2f23fb6c.md) |
 | `github_search_databases-8d4e7e94b30297` | go-xorm/xorm | [open](records/databases-go-xorm-xorm-28a3d567.md) |
@@ -8249,10 +8268,12 @@
 | `github_search_databases-d68781c3e33e01` | domaframework/doma | [open](records/databases-domaframework-doma-188a30ea.md) |
 | `github_search_databases-d6aa46a8f772b4` | elastic/mcp-server-elasticsearch | [open](records/databases-elastic-mcp-server-elasticsearch-90105b14.md) |
 | `github_search_databases-d7769148aee51b` | Yin-Hongwei/music-website | [open](records/databases-yin-hongwei-music-website-637432ab.md) |
+| `github_search_databases-d80abad8e77248` | smart-data-lake/smart-data-lake | [open](records/databases-smart-data-lake-smart-data-lake-267a759d.md) |
 | `github_search_databases-d8320fc71f3d14` | symisc/unqlite | [open](records/databases-symisc-unqlite-1ec3a767.md) |
 | `github_search_databases-d87bea568bc138` | treeverse/lakeFS | [open](records/databases-treeverse-lakefs-f069dae0.md) |
 | `github_search_databases-d8a3c4786456b1` | chroma-core/chroma | [open](records/databases-chroma-core-chroma-4683632f.md) |
 | `github_search_databases-d99f7cffed34d3` | crate/crate-python | [open](records/databases-crate-crate-python-62348f26.md) |
+| `github_search_databases-d9db592b23189e` | nodestream-proj/nodestream | [open](records/databases-nodestream-proj-nodestream-aceab8fe.md) |
 | `github_search_databases-dad1ac7dc6ac38` | gristlabs/grist-core | [open](records/databases-gristlabs-grist-core-d8e14d49.md) |
 | `github_search_databases-dafdc74080fdc1` | valkey-io/valkey | [open](records/databases-valkey-io-valkey-076b87d0.md) |
 | `github_search_databases-db0ea4d72757e9` | nakabonne/tstorage | [open](records/databases-nakabonne-tstorage-e454c9f0.md) |
@@ -8289,6 +8310,7 @@
 | `github_search_databases-e4bf61da77f200` | paradedb/pg_analytics | [open](records/databases-paradedb-pg-analytics-ff29ad8d.md) |
 | `github_search_databases-e4f0ea86abbcac` | drawdb-io/drawdb | [open](records/databases-drawdb-io-drawdb-5d664554.md) |
 | `github_search_databases-e50252ff292eca` | helyim/helyim | [open](records/databases-helyim-helyim-ea9b0c61.md) |
+| `github_search_databases-e515c1f2721dfd` | samber/awesome-olap | [open](records/databases-samber-awesome-olap-284e3c76.md) |
 | `github_search_databases-e52eabb456df4f` | kagkarlsson/db-scheduler | [open](records/databases-kagkarlsson-db-scheduler-284f153e.md) |
 | `github_search_databases-e55ab54813bde7` | FuzzyGrim/Yamtrack | [open](records/databases-fuzzygrim-yamtrack-fe5f94fb.md) |
 | `github_search_databases-e5888177abdbbf` | AobingJava/JavaFamily | [open](records/databases-aobingjava-javafamily-abe93408.md) |
@@ -8336,6 +8358,7 @@
 | `github_search_databases-f14f144da06702` | jeesun/oauthserver | [open](records/databases-jeesun-oauthserver-614193dd.md) |
 | `github_search_databases-f161eff18e305c` | ibis-project/ibis | [open](records/databases-ibis-project-ibis-5585ff7c.md) |
 | `github_search_databases-f16d331b79086f` | liyupi/yu-ai-agent | [open](records/databases-liyupi-yu-ai-agent-5d53c5e5.md) |
+| `github_search_databases-f188640db1ff38` | fortiql/data-forge | [open](records/databases-fortiql-data-forge-e3a319e7.md) |
 | `github_search_databases-f2a8fe9dda68c3` | risingwavelabs/risingwave | [open](records/databases-risingwavelabs-risingwave-fc224eaa.md) |
 | `github_search_databases-f2ae3710c28693` | zuoyebang/bitalostored | [open](records/databases-zuoyebang-bitalostored-c95c33a2.md) |
 | `github_search_databases-f395aaf6482bce` | dhamaniasad/awesome-postgres | [open](records/databases-dhamaniasad-awesome-postgres-fe1c0890.md) |
@@ -8376,6 +8399,7 @@
 | `github_search_databases-fccfb04039b226` | get-convex/convex-backend | [open](records/databases-get-convex-convex-backend-114706b7.md) |
 | `github_search_databases-fcf065f3dd984a` | tursodatabase/libsql | [open](records/databases-tursodatabase-libsql-7be947ec.md) |
 | `github_search_databases-fcf6bfcc3fd07f` | vitessio/vitess | [open](records/databases-vitessio-vitess-24eef604.md) |
+| `github_search_databases-fda5669c167e3c` | LearningJournal/SparkProgrammingInScala | [open](records/databases-learningjournal-sparkprogramminginscala-9a3b4a74.md) |
 | `github_search_databases-fe4892587dc9cb` | phpmyadmin/phpmyadmin | [open](records/databases-phpmyadmin-phpmyadmin-64b531ab.md) |
 | `github_search_databases-fe9d154425aad7` | huihut/interview | [open](records/databases-huihut-interview-1cd5b39c.md) |
 | `github_search_databases-fea8aa7feaa6d8` | versity/versitygw | [open](records/databases-versity-versitygw-b1f49ebe.md) |

@@ -9,22 +9,22 @@ Records: `599`
 ## Category Index
 
 [Api Abi Checker (230)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
-[Benchmarking (202)](../by-category/benchmarking.md) · [Build System (1003)](../by-category/build-system.md) · [Cli (580)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (120)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (52)](../by-category/compression.md)
+[Benchmarking (202)](../by-category/benchmarking.md) · [Build System (1005)](../by-category/build-system.md) · [Cli (582)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (121)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (53)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (135)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (180)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (973)](../by-category/database-datastore.md) · [Datetime (241)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (105)](../by-category/dependency-manager.md) · [Documentation (109)](../by-category/documentation.md)
-[Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (467)](../by-category/ffi-bindings.md) · [Filesystem Os (1624)](../by-category/filesystem-os.md) · [Formatter (654)](../by-category/formatter.md)
-[Framework (63)](../by-category/framework.md) · [Fuzzer (59)](../by-category/fuzzer.md) · [Game Engine Game Dev (360)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1481)](../by-category/ide-editor-integration.md)
+[Cryptography (180)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (974)](../by-category/database-datastore.md) · [Datetime (241)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (106)](../by-category/dependency-manager.md) · [Documentation (110)](../by-category/documentation.md)
+[Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (468)](../by-category/ffi-bindings.md) · [Filesystem Os (1625)](../by-category/filesystem-os.md) · [Formatter (654)](../by-category/formatter.md)
+[Framework (63)](../by-category/framework.md) · [Fuzzer (59)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1481)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (443)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (276)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1454)](../by-category/language-specification.md) · [Library (5879)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1454)](../by-category/language-specification.md) · [Library (5884)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (535)](../by-category/logging-observability.md) · [Machine Learning (816)](../by-category/machine-learning.md)
-[Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1065)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (444)](../by-category/package-manager.md) · [Parser Lexer Ast (1214)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (313)](../by-category/precommit-ci-quality.md)
+[Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1066)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (445)](../by-category/package-manager.md) · [Parser Lexer Ast (1214)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (313)](../by-category/precommit-ci-quality.md)
 [Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (139)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
-[Security Sast (337)](../by-category/security-sast.md) · [Serialization (402)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (641)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (625)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1633)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (564)](../by-category/visualization-gui.md) · [Web Framework (493)](../by-category/web-framework.md)
+[Security Sast (337)](../by-category/security-sast.md) · [Serialization (402)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (642)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (627)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1633)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (566)](../by-category/visualization-gui.md) · [Web Framework (493)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -183,7 +183,7 @@ Records: `599`
 | [aslost/pixtale](../records/photography-aslost-pixtale-df702412.md) | partial | 2026-09-01T14:07:49Z | registry-derived |
 | [Awalz/SwiftyCam](../records/photography-awalz-swiftycam-8b6b12a3.md) | partial | 2022-02-04T10:24:45Z | registry-derived |
 | [awxkee/avif.swift](../records/photography-awxkee-avif-swift-72b07b3d.md) | partial | 2026-04-29T10:30:31Z | registry-derived |
-| [Bitpainter75/FerrumPix](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) | partial | 2026-09-09T14:35:46Z | registry-derived |
+| [Bitpainter75/FerrumPix](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) | partial | 2026-09-09T16:51:58Z | registry-derived |
 | [carina-studio/PixelViewer](../records/photography-carina-studio-pixelviewer-70d11532.md) | partial | 2026-09-09T10:38:07Z | registry-derived |
 | [carlospuenteg/File-Injector](../records/photography-carlospuenteg-file-injector-2533177f.md) | partial | 2022-11-18T00:20:21Z | registry-derived |
 | [carlospuenteg/Photomosaic-Creator](../records/photography-carlospuenteg-photomosaic-creator-b57e7ad4.md) | unknown | github_search_does_not_include_release_date | registry-derived |
@@ -296,7 +296,7 @@ Records: `599`
 | [copicseal/copicseal](../records/photography-copicseal-copicseal-b0bf1efa.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [coreprocess/linux-unattended-installation](../records/photography-coreprocess-linux-unattended-installation-f53db419.md) | partial | 2023-02-01T02:36:50Z | registry-derived |
 | [CyberTimon/RapidRAW](../records/photography-cybertimon-rapidraw-037bcba7.md) | partial | 2026-09-06T12:17:03Z | registry-derived |
-| [dividebysandwich/LightningView](../records/photography-dividebysandwich-lightningview-edad5607.md) | partial | 2026-09-05T12:43:55Z | registry-derived |
+| [dividebysandwich/LightningView](../records/photography-dividebysandwich-lightningview-edad5607.md) | partial | 2026-09-09T16:54:11Z | registry-derived |
 | [dmarnerides/hdr-expandnet](../records/photography-dmarnerides-hdr-expandnet-7a4e2be3.md) | partial | 2021-03-02T09:15:13Z | registry-derived |
 | [drewnoakes/metadata-extractor](../records/photography-drewnoakes-metadata-extractor-0d5413a2.md) | partial | 2026-07-28T04:25:06Z | registry-derived |
 | [drewnoakes/metadata-extractor-dotnet](../records/photography-drewnoakes-metadata-extractor-dotnet-c3fb164c.md) | partial | 2026-07-15T22:01:56Z | registry-derived |
@@ -673,7 +673,7 @@ Records: `599`
 | [besscroft/PicImpact](../records/photography-besscroft-picimpact-0dc1368b.md) | partial | 2026-07-03T13:33:00Z | registry-derived |
 | [boltgolt/howdy](../records/photography-boltgolt-howdy-772dcbb3.md) | partial | 2025-07-29T10:07:27Z | registry-derived |
 | [deric/DaVinciResolve-metadata](../records/photography-deric-davinciresolve-metadata-8a13e074.md) | partial | 2025-10-13T08:04:47Z | registry-derived |
-| [marcinz606/NegPy](../records/photography-marcinz606-negpy-13e4113f.md) | partial | 2026-09-08T16:48:16Z | registry-derived |
+| [marcinz606/NegPy](../records/photography-marcinz606-negpy-13e4113f.md) | partial | 2026-09-09T16:55:17Z | registry-derived |
 | [ramokz/phantom-camera](../records/photography-ramokz-phantom-camera-07b158cf.md) | partial | 2026-09-07T17:15:42Z | registry-derived |
 | [showmewebcam/showmewebcam](../records/photography-showmewebcam-showmewebcam-cd9dcd31.md) | partial | 2024-08-14T16:42:44Z | registry-derived |
 | [SpecialKO/SpecialK](../records/photography-specialko-specialk-d14b8655.md) | partial | 2026-09-09T00:32:10Z | registry-derived |

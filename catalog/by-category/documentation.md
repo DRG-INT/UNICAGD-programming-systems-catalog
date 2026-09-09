@@ -1,6 +1,6 @@
 # Documentation
 
-Records: `109`
+Records: `110`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `109`
 ## Category Index
 
 [Api Abi Checker (230)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1003)](build-system.md) · [Cli (580)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (120)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1005)](build-system.md) · [Cli (582)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (121)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (135)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · **[Documentation (109)](documentation.md)**
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (467)](ffi-bindings.md) · [Filesystem Os (1624)](filesystem-os.md) · [Formatter (654)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (360)](game-engine-game-dev.md) · [Ide Editor Integration (1481)](ide-editor-integration.md)
+[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (106)](dependency-manager.md) · **[Documentation (110)](documentation.md)**
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (468)](ffi-bindings.md) · [Filesystem Os (1625)](filesystem-os.md) · [Formatter (654)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1481)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1454)](language-specification.md) · [Library (5879)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1454)](language-specification.md) · [Library (5884)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (535)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
-[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1065)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1214)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
+[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1066)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1214)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (139)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (641)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (625)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1633)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (564)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
+[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (642)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1633)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (566)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
 
 ## Julia
 
@@ -57,7 +57,7 @@ Records: `109`
 | @mastra/mcp-docs-server | 1.2.24 | 2026-09-09T05:53:08.286Z | [open](../records/node-js-javascript-mastra-mcp-docs-server-d4b69d85.md) |
 | @sentry/cli | 3.7.0 | 2026-08-28T09:12:05.900Z | [open](../records/node-js-javascript-sentry-cli-0da5e1b2.md) |
 | @techdocs/cli | 1.10.8 | 2026-08-29T10:32:41.681Z | [open](../records/node-js-javascript-techdocs-cli-d77e4e4e.md) |
-| @transcend-io/mcp-server-docs | 0.4.3 | 2026-09-09T15:51:35.033Z | [open](../records/node-js-javascript-transcend-io-mcp-server-docs-b48cc154.md) |
+| @transcend-io/mcp-server-docs | 0.4.4 | 2026-09-09T17:29:42.364Z | [open](../records/node-js-javascript-transcend-io-mcp-server-docs-b48cc154.md) |
 | bump-cli | 2.10.1 | 2026-06-16T09:14:03.425Z | [open](../records/node-js-javascript-bump-cli-cdf340ec.md) |
 | Docusaurus | unknown | not_checked | [open](../records/node-js-javascript-docusaurus-8885f7b4.md) |
 | JSDoc | unknown | not_checked | [open](../records/node-js-javascript-jsdoc-c5678423.md) |
@@ -289,6 +289,7 @@ Records: `109`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| Azure/AzureDataLake | partial | 2023-03-16T22:17:51Z | [open](../records/databases-azure-azuredatalake-03fa006c.md) |
 | LibreOffice Writer tables | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-libreoffice-writer-tables-99c2c13d.md) |
 | papermark/papermark | partial | 2026-08-28T15:58:25Z | [open](../records/databases-papermark-papermark-47af8f05.md) |
 | Tencent/APIJSON | partial | 2026-09-01T16:28:45Z | [open](../records/databases-tencent-apijson-2d845d8e.md) |

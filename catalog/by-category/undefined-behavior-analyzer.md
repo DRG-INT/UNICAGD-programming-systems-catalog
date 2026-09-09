@@ -9,22 +9,22 @@ Records: `1633`
 ## Category Index
 
 [Api Abi Checker (230)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1003)](build-system.md) · [Cli (580)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (120)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1005)](build-system.md) · [Cli (582)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (121)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (135)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (467)](ffi-bindings.md) · [Filesystem Os (1624)](filesystem-os.md) · [Formatter (654)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (360)](game-engine-game-dev.md) · [Ide Editor Integration (1481)](ide-editor-integration.md)
+[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (106)](dependency-manager.md) · [Documentation (110)](documentation.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (468)](ffi-bindings.md) · [Filesystem Os (1625)](filesystem-os.md) · [Formatter (654)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1481)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1454)](language-specification.md) · [Library (5879)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1454)](language-specification.md) · [Library (5884)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (535)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
-[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1065)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1214)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
+[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1066)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1214)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (139)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (641)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (625)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-**[Undefined Behavior Analyzer (1633)](undefined-behavior-analyzer.md)** · [Utility Library (104)](utility-library.md) · [Visualization Gui (564)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
+[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (642)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+**[Undefined Behavior Analyzer (1633)](undefined-behavior-analyzer.md)** · [Utility Library (104)](utility-library.md) · [Visualization Gui (566)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
 
 ## C++23
 
@@ -1504,7 +1504,7 @@ Records: `1633`
 | chanzuckerberg/napari-hub | partial | 2026-03-06T00:55:27Z | [open](../records/microscopy-chanzuckerberg-napari-hub-082ae11f.md) |
 | czbiohub-sf/iohub | partial | 2026-09-04T23:43:03Z | [open](../records/microscopy-czbiohub-sf-iohub-5a760ae0.md) |
 | imagingbook/imagingbook-public | partial | 2026-03-12T18:03:59Z | [open](../records/microscopy-imagingbook-imagingbook-public-35b63f87.md) |
-| JaneliaSciComp/fileglancer | partial | 2026-09-09T14:52:26Z | [open](../records/microscopy-janeliascicomp-fileglancer-a4aeb3db.md) |
+| JaneliaSciComp/fileglancer | partial | 2026-09-09T15:49:13Z | [open](../records/microscopy-janeliascicomp-fileglancer-a4aeb3db.md) |
 | mbalatsko/opencv-rolling-ball | partial | 2022-06-21T21:15:02Z | [open](../records/microscopy-mbalatsko-opencv-rolling-ball-64eeb75a.md) |
 | Mmasoud1/HistoJS | partial | 2024-02-29T14:38:53Z | [open](../records/microscopy-mmasoud1-histojs-cfc6aaff.md) |
 | MWod/DeepHistReg | partial | 2025-04-04T15:16:42Z | [open](../records/microscopy-mwod-deephistreg-fe9489ee.md) |
@@ -1529,7 +1529,7 @@ Records: `1633`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Abhinandan-Kushwaha/react-native-gifted-charts | partial | 2026-08-10T13:33:24Z | [open](../records/radars-abhinandan-kushwaha-react-native-gifted-charts-cbd803da.md) |
+| Abhinandan-Kushwaha/react-native-gifted-charts | partial | 2026-09-09T12:32:46Z | [open](../records/radars-abhinandan-kushwaha-react-native-gifted-charts-cbd803da.md) |
 | br1sk/brisk | partial | 2022-07-22T17:31:33Z | [open](../records/radars-br1sk-brisk-7db4230b.md) |
 | coderonion/awesome-object-detection-datasets | partial | 2025-01-07T16:07:01Z | [open](../records/radars-coderonion-awesome-object-detection-datasets-38be97eb.md) |
 | dan11003/CFEAR_Radarodometry_code_public | partial | 2024-10-17T19:30:06Z | [open](../records/radars-dan11003-cfear-radarodometry-code-public-11fea8df.md) |
@@ -1872,7 +1872,7 @@ Records: `1633`
 | gitlab-org/caproni | partial | 2026-09-09T14:20:40.391Z | [open](../records/repository-workplaces-gitlab-org-caproni-40271619.md) |
 | gitlab-org/charts/gitlab-agent | partial | 2026-09-09T08:49:10.879Z | [open](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) |
 | gitlab-org/ci-cd/gitlab-runner-pod-cleanup | partial | 2026-05-15T07:38:19.652Z | [open](../records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) |
-| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-09T14:51:23.263Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
+| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-09T16:28:23.219Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
 | gitlab-org/kubernetes-gitlab-demo | partial | 2026-01-07T10:09:42.404Z | [open](../records/repository-workplaces-gitlab-org-kubernetes-gitlab-demo-d867dc50.md) |
 | glitchtip/glitchtip-helm-chart | partial | 2026-08-01T00:27:07.881Z | [open](../records/repository-workplaces-glitchtip-glitchtip-helm-chart-8da5da49.md) |
 | just.insane/kubernetes | partial | 2019-12-24T04:31:25.427Z | [open](../records/repository-workplaces-just-insane-kubernetes-b3dc8533.md) |
@@ -1885,7 +1885,7 @@ Records: `1633`
 | mt-ag-k8s-training-course/kubernetesexercises | partial | 2026-05-31T18:14:32.353Z | [open](../records/repository-workplaces-mt-ag-k8s-training-course-kubernetesexercises-8c51245a.md) |
 | mts-teta-public/devops-tools | partial | 2022-09-20T14:05:32.817Z | [open](../records/repository-workplaces-mts-teta-public-devops-tools-0ec6239d.md) |
 | nanuchi/bootcamp-kubernetes | partial | 2024-05-08T20:14:25.618Z | [open](../records/repository-workplaces-nanuchi-bootcamp-kubernetes-14dcba8c.md) |
-| ongresinc/stackgres | partial | 2026-09-09T11:28:54.134Z | [open](../records/repository-workplaces-ongresinc-stackgres-219e17d7.md) |
+| ongresinc/stackgres | partial | 2026-09-09T17:07:46.050Z | [open](../records/repository-workplaces-ongresinc-stackgres-219e17d7.md) |
 | postgres-ai/joe | partial | 2026-08-06T01:15:25.024Z | [open](../records/repository-workplaces-postgres-ai-joe-6048f213.md) |
 | purelb/purelb | partial | 2026-05-18T16:37:02.681Z | [open](../records/repository-workplaces-purelb-purelb-96e96f02.md) |
 | rocha.public/cursos/jenkins-em-larga-escala | partial | 2018-04-27T17:12:30.554Z | [open](../records/repository-workplaces-rocha-public-cursos-jenkins-em-larga-escala-11be6109.md) |

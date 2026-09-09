@@ -1,6 +1,6 @@
 # Visualization Gui
 
-Records: `564`
+Records: `566`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `564`
 ## Category Index
 
 [Api Abi Checker (230)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1003)](build-system.md) · [Cli (580)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (120)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1005)](build-system.md) · [Cli (582)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (121)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (135)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (467)](ffi-bindings.md) · [Filesystem Os (1624)](filesystem-os.md) · [Formatter (654)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (360)](game-engine-game-dev.md) · [Ide Editor Integration (1481)](ide-editor-integration.md)
+[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (106)](dependency-manager.md) · [Documentation (110)](documentation.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (468)](ffi-bindings.md) · [Filesystem Os (1625)](filesystem-os.md) · [Formatter (654)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1481)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1454)](language-specification.md) · [Library (5879)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1454)](language-specification.md) · [Library (5884)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (535)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
-[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1065)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1214)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
+[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1066)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1214)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (139)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (641)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (625)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1633)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · **[Visualization Gui (564)](visualization-gui.md)** · [Web Framework (493)](web-framework.md)
+[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (642)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1633)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · **[Visualization Gui (566)](visualization-gui.md)** · [Web Framework (493)](web-framework.md)
 
 ## C++23
 
@@ -210,6 +210,7 @@ Records: `564`
 | scip | 1.10.0-4 | 2026-08-30 14:10:10 UTC | [open](../records/r-scip-092f2513.md) |
 | see | 0.14.2 | 2026-09-01 12:30:02 UTC | [open](../records/r-see-a2b3e480.md) |
 | shapviz | 0.10.4 | 2026-08-31 15:10:02 UTC | [open](../records/r-shapviz-d4cf00e1.md) |
+| shinygenui | 0.1.0 | 2026-09-09 16:40:02 UTC | [open](../records/r-shinygenui-3bedacc4.md) |
 | shinyglass | 0.2.0 | 2026-08-21 05:40:42 UTC | [open](../records/r-shinyglass-ac8dcf7d.md) |
 | SimpleUpset | 0.1.6 | 2026-09-01 15:50:02 UTC | [open](../records/r-simpleupset-c56c376c.md) |
 | socviz | 2.0.0 | 2026-08-21 12:40:02 UTC | [open](../records/r-socviz-38c1d0b7.md) |
@@ -603,7 +604,7 @@ Records: `564`
 | Lake1059/FFmpegFreeUI | partial | 2026-09-08T14:33:47Z | [open](../records/audio-lake1059-ffmpegfreeui-be2fb128.md) |
 | monomadic/dd-core | partial | 2019-01-14T07:21:52Z | [open](../records/audio-monomadic-dd-core-a1124514.md) |
 | pierreguillot/Camomile | partial | 2024-02-26T10:06:47Z | [open](../records/audio-pierreguillot-camomile-eeeac032.md) |
-| pschatzmann/arduino-audio-tools | partial | 2026-09-09T14:48:39Z | [open](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) |
+| pschatzmann/arduino-audio-tools | partial | 2026-09-09T16:07:43Z | [open](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) |
 | QVbDev/quantumVerb | partial | 2018-04-11T17:24:17Z | [open](../records/audio-qvbdev-quantumverb-59e9d065.md) |
 | rsadsb/adsb_deku | partial | 2026-01-04T16:18:33Z | [open](../records/audio-rsadsb-adsb-deku-8c9a3700.md) |
 | sp-nitech/SPTK | partial | 2026-08-25T13:37:51Z | [open](../records/audio-sp-nitech-sptk-7cf4cfee.md) |
@@ -670,7 +671,7 @@ Records: `564`
 | CScorza/Tool-VATINT | partial | 2025-08-08T09:26:33Z | [open](../records/radars-cscorza-tool-vatint-9756d098.md) |
 | juliojsb/sarviewer | partial | 2019-06-03T16:42:23Z | [open](../records/radars-juliojsb-sarviewer-f8f5c5ee.md) |
 | n0bel/PiClock | partial | 2026-08-28T00:26:22Z | [open](../records/radars-n0bel-piclock-1539715f.md) |
-| radarsimx/radarsimpy | partial | 2026-09-08T01:56:12Z | [open](../records/radars-radarsimx-radarsimpy-024e5c6c.md) |
+| radarsimx/radarsimpy | partial | 2026-09-09T12:41:05Z | [open](../records/radars-radarsimx-radarsimpy-024e5c6c.md) |
 | Stefal/rtkbase | partial | 2026-05-07T15:39:40Z | [open](../records/radars-stefal-rtkbase-1f60caca.md) |
 
 ## SatCom Satellites
@@ -798,6 +799,7 @@ Records: `564`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| rootSunc/CNEquity | partial | 2026-09-05T21:32:54Z | [open](../records/databases-rootsunc-cnequity-120d106c.md) |
 | slatedb/slatedb | partial | 2026-09-08T16:00:31Z | [open](../records/databases-slatedb-slatedb-840e5749.md) |
 | TuiQiao/CBoard | partial | 2025-12-06T02:29:12Z | [open](../records/databases-tuiqiao-cboard-4ade1901.md) |
 | zio/zio-protoquill | partial | 2026-09-05T01:57:43Z | [open](../records/databases-zio-zio-protoquill-4215be35.md) |

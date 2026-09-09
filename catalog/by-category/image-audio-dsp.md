@@ -9,22 +9,22 @@ Records: `443`
 ## Category Index
 
 [Api Abi Checker (230)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1003)](build-system.md) · [Cli (580)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (120)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1005)](build-system.md) · [Cli (582)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (121)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (135)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (467)](ffi-bindings.md) · [Filesystem Os (1624)](filesystem-os.md) · [Formatter (654)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (360)](game-engine-game-dev.md) · [Ide Editor Integration (1481)](ide-editor-integration.md)
+[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (106)](dependency-manager.md) · [Documentation (110)](documentation.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (468)](ffi-bindings.md) · [Filesystem Os (1625)](filesystem-os.md) · [Formatter (654)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1481)](ide-editor-integration.md)
 **[Image Audio Dsp (443)](image-audio-dsp.md)** · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1454)](language-specification.md) · [Library (5879)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1454)](language-specification.md) · [Library (5884)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (535)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
-[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1065)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1214)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
+[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1066)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1214)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (139)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (641)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (625)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1633)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (564)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
+[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (642)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1633)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (566)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
 
 ## C++23
 
@@ -215,7 +215,7 @@ Records: `443`
 | chenwj1989/pafx | partial | 2026-06-09T09:49:35Z | [open](../records/effects-chenwj1989-pafx-ac1e16fc.md) |
 | cutterbl/SoundTouchJS | partial | 2026-08-03T17:39:09Z | [open](../records/effects-cutterbl-soundtouchjs-471a5022.md) |
 | cycfi/hz_audio_to_midi | partial | 2024-10-12T07:14:24Z | [open](../records/effects-cycfi-hz-audio-to-midi-a8cbfec4.md) |
-| cycfi/q | partial | 2026-09-08T09:08:21Z | [open](../records/effects-cycfi-q-adb0f6f9.md) |
+| cycfi/q | partial | 2026-09-09T10:19:06Z | [open](../records/effects-cycfi-q-adb0f6f9.md) |
 | danielraffel/pulp-classic-effects | partial | 2026-07-27T01:54:17Z | [open](../records/effects-danielraffel-pulp-classic-effects-7b197f0e.md) |
 | DiffAPF/torchcomp | partial | 2026-02-10T13:08:21Z | [open](../records/effects-diffapf-torchcomp-c6e61558.md) |
 | digitaldanny/AudioEffectsGlove | partial | 2021-05-21T02:02:26Z | [open](../records/effects-digitaldanny-audioeffectsglove-48108d52.md) |
@@ -345,7 +345,7 @@ Records: `443`
 | JUCE | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-juce-3f2891c9.md) |
 | JuliaDSP/DSP.jl | partial | 2026-08-25T10:58:30Z | [open](../records/audio-juliadsp-dsp-jl-4e524896.md) |
 | katspaugh/wavesurfer.js | partial | 2026-09-03T18:48:16Z | [open](../records/audio-katspaugh-wavesurfer-js-cff13805.md) |
-| koel/koel | partial | 2026-09-09T11:26:35Z | [open](../records/audio-koel-koel-f2457c0c.md) |
+| koel/koel | partial | 2026-09-09T15:45:32Z | [open](../records/audio-koel-koel-f2457c0c.md) |
 | libsndfile | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-libsndfile-6065db3d.md) |
 | mackron/miniaudio | partial | 2026-08-19T22:07:12Z | [open](../records/audio-mackron-miniaudio-78110754.md) |
 | mahmoud/awesome-python-applications | partial | 2026-07-11T16:46:22Z | [open](../records/audio-mahmoud-awesome-python-applications-7548e8bd.md) |
@@ -358,7 +358,7 @@ Records: `443`
 | Moekotori/ECHO | partial | 2026-09-05T22:47:36Z | [open](../records/audio-moekotori-echo-a5eae6e0.md) |
 | morkt/GARbro | partial | 2024-07-08T19:36:58Z | [open](../records/audio-morkt-garbro-79127cac.md) |
 | mpv-player/mpv | partial | 2026-09-08T03:32:28Z | [open](../records/audio-mpv-player-mpv-42e3d95c.md) |
-| mumble-voip/mumble | partial | 2026-09-08T15:54:58Z | [open](../records/audio-mumble-voip-mumble-d83c7a49.md) |
+| mumble-voip/mumble | partial | 2026-09-09T16:50:02Z | [open](../records/audio-mumble-voip-mumble-d83c7a49.md) |
 | novoic/surfboard | partial | 2022-03-04T23:04:03Z | [open](../records/audio-novoic-surfboard-0947802a.md) |
 | npisanti/ofxPDSP | partial | 2024-08-09T02:07:03Z | [open](../records/audio-npisanti-ofxpdsp-71b17c19.md) |
 | olilarkin/awesome-musicdsp | partial | 2026-05-30T16:10:00Z | [open](../records/audio-olilarkin-awesome-musicdsp-8a7e6eae.md) |

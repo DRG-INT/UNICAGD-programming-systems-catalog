@@ -1,6 +1,6 @@
 # Database Datastore
 
-Records: `973`
+Records: `974`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `973`
 ## Category Index
 
 [Api Abi Checker (230)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1003)](build-system.md) · [Cli (580)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (120)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1005)](build-system.md) · [Cli (582)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (121)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (135)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · **[Database Datastore (973)](database-datastore.md)** · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (467)](ffi-bindings.md) · [Filesystem Os (1624)](filesystem-os.md) · [Formatter (654)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (360)](game-engine-game-dev.md) · [Ide Editor Integration (1481)](ide-editor-integration.md)
+[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · **[Database Datastore (974)](database-datastore.md)** · [Datetime (241)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (106)](dependency-manager.md) · [Documentation (110)](documentation.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (468)](ffi-bindings.md) · [Filesystem Os (1625)](filesystem-os.md) · [Formatter (654)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1481)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1454)](language-specification.md) · [Library (5879)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1454)](language-specification.md) · [Library (5884)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (535)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
-[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1065)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1214)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
+[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1066)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1214)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (139)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (641)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (625)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1633)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (564)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
+[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (642)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1633)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (566)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
 
 ## C99
 
@@ -192,7 +192,7 @@ Records: `973`
 | @strapi/database | 5.53.0 | 2026-09-09T12:48:59.414Z | [open](../records/node-js-javascript-strapi-database-c0f9aa77.md) |
 | @supabase/realtime-js | 2.116.0 | 2026-09-07T16:30:14.946Z | [open](../records/node-js-javascript-supabase-realtime-js-a426c046.md) |
 | @synor/database-postgresql | 0.5.2 | 2021-03-05T07:14:43.605Z | [open](../records/node-js-javascript-synor-database-postgresql-694d4795.md) |
-| @tachybase/plugin-database-clean | 1.6.53 | 2026-09-09T06:19:20.753Z | [open](../records/node-js-javascript-tachybase-plugin-database-clean-7f837f2b.md) |
+| @tachybase/plugin-database-clean | 1.6.54 | 2026-09-09T16:50:43.290Z | [open](../records/node-js-javascript-tachybase-plugin-database-clean-7f837f2b.md) |
 | @take-out/database | 0.7.15 | 2026-08-26T23:25:54.666Z | [open](../records/node-js-javascript-take-out-database-a2d9407a.md) |
 | @tezos-dappetizer/database | 2.17.0 | 2024-06-20T02:44:42.244Z | [open](../records/node-js-javascript-tezos-dappetizer-database-7b188470.md) |
 | @toeverything/y-indexeddb | 0.10.0-canary.9 | 2023-11-01T14:05:58.152Z | [open](../records/node-js-javascript-toeverything-y-indexeddb-11bf957b.md) |
@@ -468,7 +468,7 @@ Records: `973`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| metabrainz/picard | partial | 2026-09-09T15:13:43Z | [open](../records/audio-metabrainz-picard-de814b29.md) |
+| metabrainz/picard | partial | 2026-09-09T18:22:57Z | [open](../records/audio-metabrainz-picard-de814b29.md) |
 
 ## Video
 
@@ -1060,6 +1060,7 @@ Records: `973`
 | RocksDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-rocksdb-a15d9be7.md) |
 | rqlite/rqlite | partial | 2026-09-09T11:59:11Z | [open](../records/databases-rqlite-rqlite-61a88f3e.md) |
 | run-llama/llama_index | partial | 2026-09-08T23:38:22Z | [open](../records/databases-run-llama-llama-index-1ae4495a.md) |
+| samber/awesome-olap | partial | 2026-09-03T18:44:49Z | [open](../records/databases-samber-awesome-olap-284e3c76.md) |
 | samuelclay/NewsBlur | partial | 2026-09-03T06:01:27Z | [open](../records/databases-samuelclay-newsblur-94b97b4e.md) |
 | schemacrawler/SchemaCrawler | partial | 2026-09-09T01:43:42Z | [open](../records/databases-schemacrawler-schemacrawler-9a9c89e5.md) |
 | ScyllaDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-scylladb-305a7332.md) |
@@ -1081,7 +1082,7 @@ Records: `973`
 | stoneatom/stonedb | partial | 2026-06-23T09:11:04Z | [open](../records/databases-stoneatom-stonedb-45269310.md) |
 | stoyan-stoyanov/llmflows | partial | 2025-02-20T16:53:45Z | [open](../records/databases-stoyan-stoyanov-llmflows-ab94dc7c.md) |
 | Supabase | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-supabase-a37de8ab.md) |
-| supabase/storage | partial | 2026-09-09T16:45:49Z | [open](../records/databases-supabase-storage-c36b8bcb.md) |
+| supabase/storage | partial | 2026-09-09T18:00:46Z | [open](../records/databases-supabase-storage-c36b8bcb.md) |
 | superfly/litefs | partial | 2026-05-11T18:46:40Z | [open](../records/databases-superfly-litefs-923ba509.md) |
 | surrealdb/surrealdb | partial | 2026-09-07T09:08:38Z | [open](../records/databases-surrealdb-surrealdb-9ffe9792.md) |
 | symisc/unqlite | partial | 2026-09-05T07:32:26Z | [open](../records/databases-symisc-unqlite-1ec3a767.md) |
@@ -1176,7 +1177,7 @@ Records: `973`
 | Gitea: ziying/database | partial | 2026-06-03T05:06:54Z | [open](../records/repository-workplaces-gitea-ziying-database-e5dcf680.md) |
 | gitlab-org/advisories-community | partial | 2026-09-09T14:36:16.065Z | [open](../records/repository-workplaces-gitlab-org-advisories-community-621603ca.md) |
 | gitlab-org/analytics-section/siphon | partial | 2026-09-09T13:34:42.041Z | [open](../records/repository-workplaces-gitlab-org-analytics-section-siphon-6ac6dc22.md) |
-| kara.moe/karaokebase | partial | 2026-09-09T15:29:37.610Z | [open](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) |
+| kara.moe/karaokebase | partial | 2026-09-09T17:39:15.028Z | [open](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) |
 | postgres-ai/custom-images | partial | 2026-08-31T12:45:54.446Z | [open](../records/repository-workplaces-postgres-ai-custom-images-45d426ed.md) |
 | ProfaneDB/ProfaneDB | partial | 2021-08-10T13:32:11.702Z | [open](../records/repository-workplaces-profanedb-profanedb-135545c0.md) |
 | radiobrowser/radio-database | partial | 2026-09-08T15:19:25.787Z | [open](../records/repository-workplaces-radiobrowser-radio-database-bfa28291.md) |
