@@ -1,6 +1,6 @@
 # Visualization Gui
 
-Records: `573`
+Records: `596`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `573`
 ## Category Index
 
 [Api Abi Checker (230)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1018)](build-system.md) · [Cli (582)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1024)](build-system.md) · [Cli (583)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (122)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
-[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (135)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (106)](dependency-manager.md) · [Documentation (111)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (469)](ffi-bindings.md) · [Filesystem Os (1629)](filesystem-os.md) · [Formatter (655)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1485)](ide-editor-integration.md)
-[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (277)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1456)](language-specification.md) · [Library (5893)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (536)](logging-observability.md) · [Machine Learning (818)](machine-learning.md)
-[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1066)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1215)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
-[Profiler (93)](profiler.md) · [Project Scaffolding (141)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (111)](documentation.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (470)](ffi-bindings.md) · [Filesystem Os (1647)](filesystem-os.md) · [Formatter (657)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1489)](ide-editor-integration.md)
+[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1457)](language-specification.md) · [Library (5893)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (537)](logging-observability.md) · [Machine Learning (824)](machine-learning.md)
+[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1071)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1219)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
+[Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1634)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · **[Visualization Gui (573)](visualization-gui.md)** · [Web Framework (493)](web-framework.md)
+[Undefined Behavior Analyzer (1644)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · **[Visualization Gui (596)](visualization-gui.md)** · [Web Framework (494)](web-framework.md)
 
 ## C++23
 
@@ -534,7 +534,7 @@ Records: `573`
 | inbalpaz/CLANS | partial | 2024-12-05T14:27:09Z | [open](../records/space-maps-inbalpaz-clans-88d3b06d.md) |
 | jeffreymorganio/d3-space-filler-explorer | partial | 2020-08-14T18:14:55Z | [open](../records/space-maps-jeffreymorganio-d3-space-filler-explorer-f28a7443.md) |
 | JohnEdChristensen/WebbCompare | partial | 2024-03-01T22:17:38Z | [open](../records/space-maps-johnedchristensen-webbcompare-b5185f13.md) |
-| jrenaud90/TidalPy | partial | 2026-09-02T21:59:51Z | [open](../records/space-maps-jrenaud90-tidalpy-0ffb4285.md) |
+| jrenaud90/TidalPy | partial | 2026-09-09T14:09:26Z | [open](../records/space-maps-jrenaud90-tidalpy-0ffb4285.md) |
 | KDE/filelight | partial | 2026-09-06T02:30:31Z | [open](../records/space-maps-kde-filelight-548ef1de.md) |
 | kevincon/utilityknife | partial | 2023-05-02T03:56:38Z | [open](../records/space-maps-kevincon-utilityknife-0060e5b5.md) |
 | kitanokitsune/gEDA-WIN | partial | 2018-07-31T13:51:54Z | [open](../records/space-maps-kitanokitsune-geda-win-cc03a86d.md) |
@@ -757,9 +757,9 @@ Records: `573`
 | --- | --- | --- | --- |
 | 17Anurag/Inventory-Management-System | partial | 2026-07-07T05:38:25Z | [open](../records/sapjava-17anurag-inventory-management-system-7e8f8760.md) |
 | aryan-asint3/asset-management-ui5-cap-java | partial | 2026-07-23T18:47:35Z | [open](../records/sapjava-aryan-asint3-asset-management-ui5-cap-java-2aeb5684.md) |
-| Azure-Samples/app-service-javascript-sap-cap-quickstart | partial | 2025-03-31T15:48:12Z | [open](../records/sapjava-azure-samples-app-service-javascript-sap-cap-quickstart-ed07b42b.md) |
-| Azure-Samples/app-service-javascript-sap-cloud-sdk-quickstart | unknown | not_a_maven_coordinate | [open](../records/sapjava-azure-samples-app-service-javascript-sap-cloud-sdk-quickstart-a47547d2.md) |
-| Azure-Samples/functions-javascript-sap-cloud-sdk-quickstart | unknown | not_a_maven_coordinate | [open](../records/sapjava-azure-samples-functions-javascript-sap-cloud-sdk-quickstart-7c7403ca.md) |
+| Azure-Samples/app-service-javascript-sap-cap-quickstart | partial | 2026-09-09T14:33:42Z | [open](../records/sapjava-azure-samples-app-service-javascript-sap-cap-quickstart-ed07b42b.md) |
+| Azure-Samples/app-service-javascript-sap-cloud-sdk-quickstart | partial | 2026-09-07T08:26:00Z | [open](../records/sapjava-azure-samples-app-service-javascript-sap-cloud-sdk-quickstart-a47547d2.md) |
+| Azure-Samples/functions-javascript-sap-cloud-sdk-quickstart | partial | 2026-03-27T07:46:01Z | [open](../records/sapjava-azure-samples-functions-javascript-sap-cloud-sdk-quickstart-7c7403ca.md) |
 | cap-java/cds-feature-advanced-event-mesh | partial | 2026-08-27T15:04:53Z | [open](../records/sapjava-cap-java-cds-feature-advanced-event-mesh-9f67184d.md) |
 | com.sap.cds:cds-feature-message-queuing | 3.10.1 | 2025-05-16T11:26:32+00:00 | [open](../records/sapjava-com-sap-cds-cds-feature-message-queuing-cf687023.md) |
 | learnin/sap-cap-example | partial | 2021-05-25T15:42:51Z | [open](../records/sapjava-learnin-sap-cap-example-1ed9f2fe.md) |
@@ -769,21 +769,44 @@ Records: `573`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| aheze/Popovers | partial | 2025-02-19T05:57:34Z | [open](../records/swift-aheze-popovers-2d58237a.md) |
+| alin23/Lunar | partial | 2026-07-14T14:28:31Z | [open](../records/swift-alin23-lunar-a7569222.md) |
+| AppPear/ChartView | partial | 2026-03-02T08:41:42Z | [open](../records/swift-apppear-chartview-2edf1090.md) |
 | chris-swift-dev/AdvancedList | partial | 2022-06-06T19:13:46Z | [open](../records/swift-chris-swift-dev-advancedlist-cb3a259f.md) |
+| CombineCommunity/rxswift-to-combine-cheatsheet | partial | 2026-01-20T21:01:10Z | [open](../records/swift-combinecommunity-rxswift-to-combine-cheatsheet-f838fd01.md) |
 | daprice/Variablur | partial | 2025-11-21T20:12:47Z | [open](../records/swift-daprice-variablur-d07bc4f2.md) |
+| EmergeTools/Pow | partial | 2026-04-13T04:12:15Z | [open](../records/swift-emergetools-pow-7350bd32.md) |
 | hackiftekhar/IQKeyboardManager | unknown | github_search_does_not_include_release_date | [open](../records/swift-hackiftekhar-iqkeyboardmanager-270f7036.md) |
+| iPlug2/iPlug2 | partial | 2026-08-19T20:14:26Z | [open](../records/swift-iplug2-iplug2-0fdb4d87.md) |
+| ivanvorobei/SwiftUI | partial | 2023-12-07T14:10:03Z | [open](../records/swift-ivanvorobei-swiftui-f5c23a1b.md) |
+| jasonjmcghee/rem | partial | 2024-05-30T04:28:09Z | [open](../records/swift-jasonjmcghee-rem-75c0a744.md) |
+| jordansinger/SwiftUI-Kit | partial | 2023-11-10T11:25:31Z | [open](../records/swift-jordansinger-swiftui-kit-7ffc2af6.md) |
+| Kruszoneq/macUSB | partial | 2026-08-28T20:43:42Z | [open](../records/swift-kruszoneq-macusb-fc28d388.md) |
+| krzysztofzablocki/Inject | partial | 2026-04-29T11:15:40Z | [open](../records/swift-krzysztofzablocki-inject-db309581.md) |
+| Lessica/TrollFools | partial | 2026-04-23T14:49:42Z | [open](../records/swift-lessica-trollfools-a05a2dd4.md) |
 | lexrus/LTMorphingLabel | unknown | github_search_does_not_include_release_date | [open](../records/swift-lexrus-ltmorphinglabel-4dc8c4ca.md) |
 | Mijick/NavigationView | partial | 2025-05-14T15:36:54Z | [open](../records/swift-mijick-navigationview-fc610d99.md) |
+| mikelikesdesign/SwiftUI-experiments | partial | 2026-09-09T13:58:37Z | [open](../records/swift-mikelikesdesign-swiftui-experiments-087cbd2c.md) |
 | MochiDiffusion/MochiDiffusion | partial | 2026-09-06T00:12:22Z | [open](../records/swift-mochidiffusion-mochidiffusion-1b1509bf.md) |
 | moritzsternemann/SwipyCell | partial | 2023-08-30T17:36:41Z | [open](../records/swift-moritzsternemann-swipycell-ad3c37ba.md) |
 | nachonavarro/Pages | partial | 2025-12-30T17:33:37Z | [open](../records/swift-nachonavarro-pages-d3acd69d.md) |
+| oblador/hush | partial | 2026-07-26T21:10:57Z | [open](../records/swift-oblador-hush-5ff6945d.md) |
+| paololeonardi/WaterfallGrid | partial | 2024-07-26T00:09:26Z | [open](../records/swift-paololeonardi-waterfallgrid-6a97503d.md) |
+| rechsteiner/Parchment | partial | 2024-09-29T15:40:59Z | [open](../records/swift-rechsteiner-parchment-553fc5ef.md) |
 | ReduxUI | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-reduxui-d30c2ddb.md) |
+| SDWebImage/SDWebImageSwiftUI | partial | 2026-02-25T06:43:20Z | [open](../records/swift-sdwebimage-sdwebimageswiftui-64e6fecd.md) |
 | SimplexArchitecture | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-simplexarchitecture-1ef672dd.md) |
+| sindresorhus/Actions | partial | 2025-02-17T19:55:28Z | [open](../records/swift-sindresorhus-actions-f4ac4f5b.md) |
 | spacenation/swiftui-charts | partial | 2021-11-27T04:37:47Z | [open](../records/swift-spacenation-swiftui-charts-664f689a.md) |
 | spacenation/swiftui-grid | partial | 2020-12-27T00:25:28Z | [open](../records/swift-spacenation-swiftui-grid-d74c0efb.md) |
 | spacenation/swiftui-shapes | partial | 2024-08-01T06:53:07Z | [open](../records/swift-spacenation-swiftui-shapes-17983445.md) |
+| SvenTiigi/WhatsNewKit | partial | 2024-10-10T10:54:11Z | [open](../records/swift-sventiigi-whatsnewkit-3dea6c02.md) |
 | SwiftKickMobile/SwiftMessages | partial | 2026-01-26T02:59:00Z | [open](../records/swift-swiftkickmobile-swiftmessages-450ce325.md) |
+| SwiftWebUI/SwiftWebUI | partial | 2024-03-02T16:11:08Z | [open](../records/swift-swiftwebui-swiftwebui-2d397522.md) |
+| thaw-app/Thaw | partial | 2026-09-09T14:08:24Z | [open](../records/swift-thaw-app-thaw-f275b649.md) |
 | VakhoKontridze/VComponents | partial | 2026-08-31T10:24:57Z | [open](../records/swift-vakhokontridze-vcomponents-baf9987a.md) |
+| WillieWangWei/SwiftUI-Tutorials | partial | 2020-02-10T03:43:35Z | [open](../records/swift-williewangwei-swiftui-tutorials-5960373b.md) |
+| yannickl/DynamicColor | partial | 2023-11-30T13:02:01Z | [open](../records/swift-yannickl-dynamiccolor-11df482b.md) |
 
 ## Cocoa
 

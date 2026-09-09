@@ -1,6 +1,6 @@
 # Web Framework
 
-Records: `493`
+Records: `494`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `493`
 ## Category Index
 
 [Api Abi Checker (230)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1018)](build-system.md) · [Cli (582)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1024)](build-system.md) · [Cli (583)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (122)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
-[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (135)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (106)](dependency-manager.md) · [Documentation (111)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (469)](ffi-bindings.md) · [Filesystem Os (1629)](filesystem-os.md) · [Formatter (655)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1485)](ide-editor-integration.md)
-[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (277)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1456)](language-specification.md) · [Library (5893)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (536)](logging-observability.md) · [Machine Learning (818)](machine-learning.md)
-[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1066)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1215)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
-[Profiler (93)](profiler.md) · [Project Scaffolding (141)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (111)](documentation.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (470)](ffi-bindings.md) · [Filesystem Os (1647)](filesystem-os.md) · [Formatter (657)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1489)](ide-editor-integration.md)
+[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1457)](language-specification.md) · [Library (5893)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (537)](logging-observability.md) · [Machine Learning (824)](machine-learning.md)
+[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1071)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1219)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
+[Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1634)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (573)](visualization-gui.md) · **[Web Framework (493)](web-framework.md)**
+[Undefined Behavior Analyzer (1644)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (596)](visualization-gui.md) · **[Web Framework (494)](web-framework.md)**
 
 ## C++23
 
@@ -479,7 +479,7 @@ Records: `493`
 | lovebetterworld/gis-spicy-hot-pot | unknown | github_search_does_not_include_release_date | [open](../records/maps-lovebetterworld-gis-spicy-hot-pot-68f427a8.md) |
 | marc-shade/world-intel-mcp | partial | 2026-09-02T20:53:26Z | [open](../records/maps-marc-shade-world-intel-mcp-fdc04362.md) |
 | neo4j-contrib/spatial | unknown | github_search_does_not_include_release_date | [open](../records/maps-neo4j-contrib-spatial-1f247f57.md) |
-| openwisp/django-rest-framework-gis | partial | 2026-09-08T16:46:34Z | [open](../records/maps-openwisp-django-rest-framework-gis-9e3f8a0e.md) |
+| openwisp/django-rest-framework-gis | partial | 2026-09-09T21:12:25Z | [open](../records/maps-openwisp-django-rest-framework-gis-9e3f8a0e.md) |
 | pedronauck/micro-router | partial | 2022-12-07T09:40:24Z | [open](../records/maps-pedronauck-micro-router-a9e29513.md) |
 | rinigus/osmscout-server | partial | 2026-08-26T19:22:25Z | [open](../records/maps-rinigus-osmscout-server-54cd76d6.md) |
 | router5/router5 | partial | 2023-01-07T05:57:10Z | [open](../records/maps-router5-router5-1528f116.md) |
@@ -610,13 +610,14 @@ Records: `493`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| SAP/gigya-java-sdk | unknown | not_a_maven_coordinate | [open](../records/sapjava-sap-gigya-java-sdk-09b7f8db.md) |
+| SAP/gigya-java-sdk | partial | 2026-06-14T12:14:03Z | [open](../records/sapjava-sap-gigya-java-sdk-09b7f8db.md) |
 
 ## Swift
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | alchemy-swift/alchemy | partial | 2025-11-07T23:57:58Z | [open](../records/swift-alchemy-swift-alchemy-6ca3c9b1.md) |
+| amosgyamfi/open-swiftui-animations | partial | 2026-08-14T21:11:39Z | [open](../records/swift-amosgyamfi-open-swiftui-animations-eb9f4547.md) |
 | apple/swift-log | partial | 2026-09-08T10:31:12Z | [open](../records/swift-apple-swift-log-9120ca11.md) |
 | apple/swift-metrics | partial | 2026-08-31T09:36:38Z | [open](../records/swift-apple-swift-metrics-38873b0e.md) |
 | ArtSabintsev/Guitar | partial | 2024-06-20T02:03:44Z | [open](../records/swift-artsabintsev-guitar-edf44630.md) |
@@ -653,7 +654,7 @@ Records: `493`
 | dotnetcore/FreeSql | partial | 2026-07-31T17:52:16Z | [open](../records/databases-dotnetcore-freesql-be272c12.md) |
 | DotNetNext/SqlSugar | partial | 2026-09-08T05:58:01Z | [open](../records/databases-dotnetnext-sqlsugar-a1157e31.md) |
 | frectonz/sql-studio | partial | 2026-08-26T14:32:48Z | [open](../records/databases-frectonz-sql-studio-0812f2ca.md) |
-| googleapis/mcp-toolbox | partial | 2026-09-09T16:23:00Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
+| googleapis/mcp-toolbox | partial | 2026-09-09T20:57:23Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
 | jeesun/oauthserver | partial | 2022-12-14T20:38:57Z | [open](../records/databases-jeesun-oauthserver-614193dd.md) |
 | LinuxForHealth/FHIR | partial | 2024-04-18T14:50:56Z | [open](../records/databases-linuxforhealth-fhir-ee64ade5.md) |
 | lionheart/django-pyodbc | partial | 2023-01-29T16:42:06Z | [open](../records/databases-lionheart-django-pyodbc-c6078181.md) |

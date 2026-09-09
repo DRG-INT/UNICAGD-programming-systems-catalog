@@ -1,6 +1,6 @@
 # Undefined Behavior Analyzer
 
-Records: `1634`
+Records: `1644`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `1634`
 ## Category Index
 
 [Api Abi Checker (230)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1018)](build-system.md) · [Cli (582)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1024)](build-system.md) · [Cli (583)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (122)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
-[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (135)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (106)](dependency-manager.md) · [Documentation (111)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (469)](ffi-bindings.md) · [Filesystem Os (1629)](filesystem-os.md) · [Formatter (655)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1485)](ide-editor-integration.md)
-[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (277)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1456)](language-specification.md) · [Library (5893)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (536)](logging-observability.md) · [Machine Learning (818)](machine-learning.md)
-[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1066)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1215)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
-[Profiler (93)](profiler.md) · [Project Scaffolding (141)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (111)](documentation.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (470)](ffi-bindings.md) · [Filesystem Os (1647)](filesystem-os.md) · [Formatter (657)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1489)](ide-editor-integration.md)
+[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1457)](language-specification.md) · [Library (5893)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (537)](logging-observability.md) · [Machine Learning (824)](machine-learning.md)
+[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1071)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1219)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
+[Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-**[Undefined Behavior Analyzer (1634)](undefined-behavior-analyzer.md)** · [Utility Library (104)](utility-library.md) · [Visualization Gui (573)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
+**[Undefined Behavior Analyzer (1644)](undefined-behavior-analyzer.md)** · [Utility Library (104)](utility-library.md) · [Visualization Gui (596)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
 
 ## C++23
 
@@ -1764,7 +1764,7 @@ Records: `1634`
 | com.sap.cds:cds-feature-event-hub | 4.0.1 | 2025-05-20T10:50:10+00:00 | [open](../records/sapjava-com-sap-cds-cds-feature-event-hub-68d1b4fe.md) |
 | com.sap.cds:cds-feature-event-hub-root | 4.0.1 | 2025-05-20T10:50:10+00:00 | [open](../records/sapjava-com-sap-cds-cds-feature-event-hub-root-6b04d8be.md) |
 | h-issue/odata-draft-conflict-with-aggregation | partial | 2024-04-22T10:57:08Z | [open](../records/sapjava-h-issue-odata-draft-conflict-with-aggregation-0099c2d6.md) |
-| SAP/cf-cli-java-plugin | unknown | not_a_maven_coordinate | [open](../records/sapjava-sap-cf-cli-java-plugin-eac1051f.md) |
+| SAP/cf-cli-java-plugin | partial | 2026-09-07T12:42:11Z | [open](../records/sapjava-sap-cf-cli-java-plugin-eac1051f.md) |
 | sorimdevs-tech/cap-sflight-migrated-java17-20260127-080309 | partial | 2026-01-27T08:03:10Z | [open](../records/sapjava-sorimdevs-tech-cap-sflight-migrated-java17-20260127-080309-9463e525.md) |
 | sorimdevs-tech/cap-sflight-migrated-java17-20260127-082407 | partial | 2026-01-27T08:24:09Z | [open](../records/sapjava-sorimdevs-tech-cap-sflight-migrated-java17-20260127-082407-6e4d8ee5.md) |
 | sorimdevs-tech/cap-sflight-migrated-java21-20260130-095443 | partial | 2026-01-30T09:54:44Z | [open](../records/sapjava-sorimdevs-tech-cap-sflight-migrated-java21-20260130-095443-6e76fa26.md) |
@@ -1777,15 +1777,25 @@ Records: `1634`
 | --- | --- | --- | --- |
 | Alamofire/Alamofire | unknown | github_search_does_not_include_release_date | [open](../records/swift-alamofire-alamofire-ca59baf0.md) |
 | AppHouseKitchen/AlDente-Battery_Care_and_Monitoring | unknown | github_search_does_not_include_release_date | [open](../records/swift-apphousekitchen-aldente-battery-care-and-monitoring-e11a4577.md) |
+| DamascenoRafael/reminders-menubar | partial | 2026-09-08T22:11:19Z | [open](../records/swift-damascenorafael-reminders-menubar-76dda433.md) |
 | darrylmorley/whatcable | unknown | github_search_does_not_include_release_date | [open](../records/swift-darrylmorley-whatcable-e1568d44.md) |
-| Dimillian/IceCubesApp | unknown | github_search_does_not_include_release_date | [open](../records/swift-dimillian-icecubesapp-9d130079.md) |
+| Dimillian/IceCubesApp | partial | 2026-09-07T11:23:59Z | [open](../records/swift-dimillian-icecubesapp-9d130079.md) |
 | exelban/stats | unknown | github_search_does_not_include_release_date | [open](../records/swift-exelban-stats-026d69ce.md) |
+| github/CopilotForXcode | partial | 2026-09-06T09:04:31Z | [open](../records/swift-github-copilotforxcode-5a509192.md) |
+| gonzalezreal/swift-markdown-ui | partial | 2025-12-28T07:33:47Z | [open](../records/swift-gonzalezreal-swift-markdown-ui-639197c9.md) |
 | intitni/CopilotForXcode | unknown | github_search_does_not_include_release_date | [open](../records/swift-intitni-copilotforxcode-fa2e145c.md) |
 | jordanbaird/Ice | unknown | github_search_does_not_include_release_date | [open](../records/swift-jordanbaird-ice-8cede194.md) |
 | Juanpe/About-SwiftUI | partial | 2022-10-28T15:59:18Z | [open](../records/swift-juanpe-about-swiftui-285586b3.md) |
+| KartikLabhshetwar/better-shot | partial | 2026-09-09T20:57:24Z | [open](../records/swift-kartiklabhshetwar-better-shot-e3b138c9.md) |
+| kitlangton/Hex | partial | 2026-08-27T03:47:11Z | [open](../records/swift-kitlangton-hex-ef85bd6e.md) |
 | kodecocodes/swift-algorithm-club | unknown | github_search_does_not_include_release_date | [open](../records/swift-kodecocodes-swift-algorithm-club-8609bf0f.md) |
+| ming1016/SwiftPamphletApp | partial | 2025-08-16T09:03:34Z | [open](../records/swift-ming1016-swiftpamphletapp-ac91c0b6.md) |
 | MonitorControl/MonitorControl | unknown | github_search_does_not_include_release_date | [open](../records/swift-monitorcontrol-monitorcontrol-40207617.md) |
+| productdevbook/port-killer | partial | 2026-07-24T21:10:20Z | [open](../records/swift-productdevbook-port-killer-ed6f58cf.md) |
+| RevenueCat/purchases-ios | partial | 2026-09-09T20:54:53Z | [open](../records/swift-revenuecat-purchases-ios-5a082a4e.md) |
 | ronitsingh10/FineTune | unknown | github_search_does_not_include_release_date | [open](../records/swift-ronitsingh10-finetune-b5e98cce.md) |
+| Shubham0812/SwiftUI-Animations | partial | 2026-08-11T15:20:15Z | [open](../records/swift-shubham0812-swiftui-animations-15f0eb77.md) |
+| sozercan/kaset | partial | 2026-09-09T18:15:12Z | [open](../records/swift-sozercan-kaset-2e0420b8.md) |
 | thaw-app/Thaw | unknown | github_search_does_not_include_release_date | [open](../records/swift-thaw-app-thaw-8268f6e7.md) |
 
 ## Cocoa
@@ -1816,10 +1826,10 @@ Records: `1634`
 | cstore_fdw | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-cstore-fdw-4259f19e.md) |
 | cube-js/cube | partial | 2026-09-08T11:12:01Z | [open](../records/databases-cube-js-cube-373699e3.md) |
 | cubefs/cubefs | partial | 2026-09-08T09:24:36Z | [open](../records/databases-cubefs-cubefs-2e8325bf.md) |
-| debezium/debezium | partial | 2026-09-09T13:47:28Z | [open](../records/databases-debezium-debezium-a3d23ff7.md) |
+| debezium/debezium | partial | 2026-09-09T20:10:50Z | [open](../records/databases-debezium-debezium-a3d23ff7.md) |
 | dicedb/dicedb | partial | 2026-04-23T01:00:36Z | [open](../records/databases-dicedb-dicedb-ba1cb8a6.md) |
 | digoal/blog | partial | 2026-09-08T01:33:38Z | [open](../records/databases-digoal-blog-7cde1486.md) |
-| dolthub/dolt | partial | 2026-09-09T16:20:55Z | [open](../records/databases-dolthub-dolt-702548e2.md) |
+| dolthub/dolt | partial | 2026-09-09T20:41:34Z | [open](../records/databases-dolthub-dolt-702548e2.md) |
 | douban/gobeansdb | partial | 2026-08-21T03:02:19Z | [open](../records/databases-douban-gobeansdb-1832191f.md) |
 | dubinc/dub | partial | 2026-09-08T07:02:37Z | [open](../records/databases-dubinc-dub-fde61fc2.md) |
 | gigapi/gigapi | partial | 2025-10-20T12:01:02Z | [open](../records/databases-gigapi-gigapi-bafb6f73.md) |

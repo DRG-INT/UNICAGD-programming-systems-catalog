@@ -9,22 +9,22 @@ Records: `5893`
 ## Category Index
 
 [Api Abi Checker (230)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1018)](build-system.md) · [Cli (582)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1024)](build-system.md) · [Cli (583)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (122)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
-[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (135)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (106)](dependency-manager.md) · [Documentation (111)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (469)](ffi-bindings.md) · [Filesystem Os (1629)](filesystem-os.md) · [Formatter (655)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1485)](ide-editor-integration.md)
-[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (277)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1456)](language-specification.md) · **[Library (5893)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (536)](logging-observability.md) · [Machine Learning (818)](machine-learning.md)
-[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1066)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1215)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
-[Profiler (93)](profiler.md) · [Project Scaffolding (141)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (111)](documentation.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (470)](ffi-bindings.md) · [Filesystem Os (1647)](filesystem-os.md) · [Formatter (657)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1489)](ide-editor-integration.md)
+[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1457)](language-specification.md) · **[Library (5893)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (537)](logging-observability.md) · [Machine Learning (824)](machine-learning.md)
+[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1071)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1219)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
+[Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1634)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (573)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
+[Undefined Behavior Analyzer (1644)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (596)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
 
 ## C99
 
@@ -4196,14 +4196,14 @@ Records: `5893`
 | yesod-platform | 1.2.13.3 | 2014-08-25T13:53:51Z | [open](../records/haskell-yesod-platform-cc0166b2.md) |
 | yesod-static | 1.6.1.3 | 2026-06-16T20:33:50Z | [open](../records/haskell-yesod-static-f6ffdea6.md) |
 | yi | 0.19.3 | 2024-11-01T13:06:18Z | [open](../records/haskell-yi-3b78b64a.md) |
-| yst | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yst-e5c97f24.md) |
-| Z-Data | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-data-ad2a6ebb.md) |
-| Z-IO | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-io-e37841a7.md) |
-| zeolite-lang | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeolite-lang-121149cb.md) |
-| zeromq4-haskell | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
-| zlib | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zlib-2a0db053.md) |
-| zoom-cache | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoom-cache-f1ef611e.md) |
-| zoovisitor | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoovisitor-25533034.md) |
+| yst | 0.7.2 | 2023-02-04T19:31:44Z | [open](../records/haskell-yst-e5c97f24.md) |
+| Z-Data | 2.0.1.0 | 2024-06-28T09:55:36Z | [open](../records/haskell-z-data-ad2a6ebb.md) |
+| Z-IO | 2.0.0.0 | 2022-11-26T03:59:17Z | [open](../records/haskell-z-io-e37841a7.md) |
+| zeolite-lang | 0.24.1.0 | 2024-01-08T01:25:04Z | [open](../records/haskell-zeolite-lang-121149cb.md) |
+| zeromq4-haskell | 0.8.0 | 2019-03-03T15:15:33Z | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
+| zlib | 0.7.1.1 | 2025-09-06T12:21:07Z | [open](../records/haskell-zlib-2a0db053.md) |
+| zoom-cache | 1.2.1.6 | 2012-12-07T00:08:12Z | [open](../records/haskell-zoom-cache-f1ef611e.md) |
+| zoovisitor | 0.2.7.0 | 2024-05-24T09:11:31Z | [open](../records/haskell-zoovisitor-25533034.md) |
 
 ## Octave
 
@@ -4430,7 +4430,7 @@ Records: `5893`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-09T20:11:25Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-09T20:56:30Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4742,14 +4742,14 @@ Records: `5893`
 | edmozley/freeitsm | partial | 2026-09-08T21:58:41Z | [open](../records/assets-edmozley-freeitsm-6938af39.md) |
 | EliteQuant/EliteQuant | partial | 2024-06-15T16:17:39Z | [open](../records/assets-elitequant-elitequant-ccb04f35.md) |
 | ErfanMo77/gltf-research-scenes | partial | 2026-08-31T21:53:42Z | [open](../records/assets-erfanmo77-gltf-research-scenes-9419053a.md) |
-| expo/google-fonts | partial | 2026-08-26T16:18:22Z | [open](../records/assets-expo-google-fonts-27084e7a.md) |
+| expo/google-fonts | partial | 2026-09-09T15:17:10Z | [open](../records/assets-expo-google-fonts-27084e7a.md) |
 | Figma-Linux/figma-linux-font-helper | partial | 2024-03-06T14:28:49Z | [open](../records/assets-figma-linux-figma-linux-font-helper-926a2b9d.md) |
 | Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project | partial | 2026-08-05T12:41:45Z | [open](../records/assets-fitzgerald-porthmouth-koenigsegg-plangothic-project-5165c4c3.md) |
 | FontManager/font-manager | partial | 2025-09-24T15:51:58Z | [open](../records/assets-fontmanager-font-manager-b4a35494.md) |
-| fonttools/fonttools | partial | 2026-09-04T21:30:58Z | [open](../records/assets-fonttools-fonttools-a4b5432b.md) |
+| fonttools/fonttools | partial | 2026-09-09T17:49:08Z | [open](../records/assets-fonttools-fonttools-a4b5432b.md) |
 | frappe/erpnext | partial | 2026-09-09T14:50:45Z | [open](../records/assets-frappe-erpnext-d9e1ae16.md) |
 | Gaafar/dev-fonts | partial | 2023-01-06T03:07:36Z | [open](../records/assets-gaafar-dev-fonts-6d11b6eb.md) |
-| googlefonts/gftools | partial | 2026-09-01T11:33:41Z | [open](../records/assets-googlefonts-gftools-a07fff0e.md) |
+| googlefonts/gftools | partial | 2026-09-09T13:42:49Z | [open](../records/assets-googlefonts-gftools-a07fff0e.md) |
 | hiqdev/asset-packagist | partial | 2026-09-01T12:10:46Z | [open](../records/assets-hiqdev-asset-packagist-ef04a544.md) |
 | hypernewbie/VEFontCache | partial | 2026-05-28T07:42:18Z | [open](../records/assets-hypernewbie-vefontcache-ea3c2eca.md) |
 | IdreesInc/Miracode | partial | 2025-08-05T21:13:43Z | [open](../records/assets-idreesinc-miracode-ce50fdc0.md) |
@@ -4775,7 +4775,7 @@ Records: `5893`
 | NextLevel/NextLevelSessionExporter | partial | 2026-08-07T18:44:11Z | [open](../records/assets-nextlevel-nextlevelsessionexporter-78e508f7.md) |
 | NiklasEi/bevy_asset_loader | partial | 2026-07-19T06:46:20Z | [open](../records/assets-niklasei-bevy-asset-loader-a1543a25.md) |
 | noirblancrouge/YoungSerif | partial | 2026-05-19T12:03:20Z | [open](../records/assets-noirblancrouge-youngserif-1744f7ac.md) |
-| nuxt-modules/google-fonts | partial | 2026-09-01T03:41:48Z | [open](../records/assets-nuxt-modules-google-fonts-ff39da19.md) |
+| nuxt-modules/google-fonts | partial | 2026-09-09T13:04:15Z | [open](../records/assets-nuxt-modules-google-fonts-ff39da19.md) |
 | OCSInventory-NG/OCSInventory-ocsreports | partial | 2026-08-25T07:57:08Z | [open](../records/assets-ocsinventory-ng-ocsinventory-ocsreports-d328f3d5.md) |
 | Pakz001/MonkeyXExamples | partial | 2023-02-20T10:24:42Z | [open](../records/assets-pakz001-monkeyxexamples-e31480db.md) |
 | Partyb0ssishere/cef-fonts-cjk | partial | 2026-02-16T12:10:14Z | [open](../records/assets-partyb0ssishere-cef-fonts-cjk-1bdae5fe.md) |
@@ -4798,8 +4798,8 @@ Records: `5893`
 | symfony/assetic-bundle | partial | 2022-11-07T16:20:58Z | [open](../records/assets-symfony-assetic-bundle-4dada5ec.md) |
 | system-fonts/modern-font-stacks | partial | 2026-03-10T21:21:49Z | [open](../records/assets-system-fonts-modern-font-stacks-431ff0c6.md) |
 | takushun-wu/WenJinMincho | partial | 2026-08-21T05:37:59Z | [open](../records/assets-takushun-wu-wenjinmincho-84d3befd.md) |
-| TakWolf/ark-pixel-font | partial | 2026-09-02T12:02:50Z | [open](../records/assets-takwolf-ark-pixel-font-22f9b9cc.md) |
-| TakWolf/fusion-pixel-font | partial | 2026-09-01T11:40:17Z | [open](../records/assets-takwolf-fusion-pixel-font-02635494.md) |
+| TakWolf/ark-pixel-font | partial | 2026-09-08T18:32:08Z | [open](../records/assets-takwolf-ark-pixel-font-22f9b9cc.md) |
+| TakWolf/fusion-pixel-font | partial | 2026-09-08T18:33:09Z | [open](../records/assets-takwolf-fusion-pixel-font-02635494.md) |
 | WallSoGB/Patapon3Textures | partial | 2024-03-02T17:49:40Z | [open](../records/assets-wallsogb-patapon3textures-30ad5cad.md) |
 | wanteddev/wanted-sans | partial | 2024-05-27T12:07:41Z | [open](../records/assets-wanteddev-wanted-sans-d20700fb.md) |
 | weiweihuanghuang/Work-Sans | partial | 2024-04-10T14:05:11Z | [open](../records/assets-weiweihuanghuang-work-sans-9e5609e3.md) |
@@ -4823,7 +4823,7 @@ Records: `5893`
 | bitlap/geocoding | partial | 2025-07-23T16:20:19Z | [open](../records/maps-bitlap-geocoding-44bdf0ae.md) |
 | bizz84/nested-navigation-demo-flutter | partial | 2023-01-11T17:32:58Z | [open](../records/maps-bizz84-nested-navigation-demo-flutter-a397d085.md) |
 | bmwcarit/barefoot | partial | 2023-04-14T17:11:38Z | [open](../records/maps-bmwcarit-barefoot-66146078.md) |
-| CesiumGS/cesium | partial | 2026-09-09T17:21:26Z | [open](../records/maps-cesiumgs-cesium-03600c9a.md) |
+| CesiumGS/cesium | partial | 2026-09-09T20:46:09Z | [open](../records/maps-cesiumgs-cesium-03600c9a.md) |
 | codezero-be/laravel-localized-routes | partial | 2024-03-17T22:44:54Z | [open](../records/maps-codezero-be-laravel-localized-routes-62cd131a.md) |
 | danielemoraschi/maplace.js | partial | 2020-05-25T22:54:13Z | [open](../records/maps-danielemoraschi-maplace-js-5adb914c.md) |
 | der-stefan/OpenTopoMap | partial | 2026-01-29T22:24:26Z | [open](../records/maps-der-stefan-opentopomap-d1828225.md) |
@@ -4868,7 +4868,7 @@ Records: `5893`
 | mousebird-consulting-inc/WhirlyGlobe | partial | 2026-07-31T00:23:58Z | [open](../records/maps-mousebird-consulting-inc-whirlyglobe-3130b66b.md) |
 | nuxt-modules/i18n | partial | 2026-09-07T20:32:41Z | [open](../records/maps-nuxt-modules-i18n-79eea90d.md) |
 | olutter/map | partial | 2026-08-16T14:48:12Z | [open](../records/maps-olutter-map-b3100e59.md) |
-| opengisch/QField | partial | 2026-09-09T11:32:38Z | [open](../records/maps-opengisch-qfield-f04d9b83.md) |
+| opengisch/QField | partial | 2026-09-09T19:45:22Z | [open](../records/maps-opengisch-qfield-f04d9b83.md) |
 | openlayers/openlayers | partial | 2026-09-09T15:59:03Z | [open](../records/maps-openlayers-openlayers-6d483e33.md) |
 | openmaptiles/openmaptiles | partial | 2026-07-29T12:19:41Z | [open](../records/maps-openmaptiles-openmaptiles-8add1ab5.md) |
 | openstreetmap/merkaartor | partial | 2026-06-19T20:27:06Z | [open](../records/maps-openstreetmap-merkaartor-0547b0b6.md) |
@@ -5064,7 +5064,7 @@ Records: `5893`
 | fuddlesworth/PlasmaZones | partial | 2026-09-09T15:14:11Z | [open](../records/effects-fuddlesworth-plasmazones-25db8a0f.md) |
 | GabrielSCabrera/nBody | partial | 2024-03-31T14:11:02Z | [open](../records/effects-gabrielscabrera-nbody-387acb4c.md) |
 | GarrettGunnell/Iterated-Function-Systems | partial | 2024-11-30T14:42:06Z | [open](../records/effects-garrettgunnell-iterated-function-systems-ae1c6e05.md) |
-| ggarra13/mrv2 | partial | 2026-09-06T21:49:23Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |
+| ggarra13/mrv2 | partial | 2026-09-09T21:17:14Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |
 | glotzerlab/hoomd-blue | partial | 2026-09-02T10:33:09Z | [open](../records/effects-glotzerlab-hoomd-blue-5217e991.md) |
 | glotzerlab/hoomd-examples | partial | 2026-08-31T13:19:32Z | [open](../records/effects-glotzerlab-hoomd-examples-8b82445a.md) |
 | henriquelalves/SimpleGodotCRTShader | partial | 2024-09-02T21:57:23Z | [open](../records/effects-henriquelalves-simplegodotcrtshader-0feadcb8.md) |
@@ -5785,7 +5785,7 @@ Records: `5893`
 | Kotlin/kotlin-wasm-examples | partial | 2026-01-14T11:54:22Z | [open](../records/webassembly-kotlin-kotlin-wasm-examples-24c10135.md) |
 | LingDong-/wasm-fun | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-lingdong-wasm-fun-c02d519e.md) |
 | mbebenita/WasmExplorer | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-mbebenita-wasmexplorer-39663e88.md) |
-| meshery/meshery | partial | 2026-09-09T16:15:13Z | [open](../records/webassembly-meshery-meshery-19a90056.md) |
+| meshery/meshery | partial | 2026-09-09T20:06:19Z | [open](../records/webassembly-meshery-meshery-19a90056.md) |
 | rstropek/rust-samples | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-rstropek-rust-samples-7a66305a.md) |
 | saghul/wasi-lab | partial | 2021-06-08T05:48:26Z | [open](../records/webassembly-saghul-wasi-lab-3d93b574.md) |
 | SECCON/SECCON2017_online_CTF | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-seccon-seccon2017-online-ctf-82207acc.md) |
@@ -5923,18 +5923,18 @@ Records: `5893`
 | com.sap.cloud:neo-javaee7-wp-maven-plugin | 1.202.2 | 2025-06-11T13:48:34+00:00 | [open](../records/sapjava-com-sap-cloud-neo-javaee7-wp-maven-plugin-95816c31.md) |
 | com.sap.cloud:neo-javaee7-wp-sdk | 1.202.2 | 2025-06-11T13:48:33+00:00 | [open](../records/sapjava-com-sap-cloud-neo-javaee7-wp-sdk-a7723f83.md) |
 | dhorions/hanacloud-messenger-bot | partial | 2016-07-31T11:16:44Z | [open](../records/sapjava-dhorions-hanacloud-messenger-bot-f4eceabf.md) |
-| diego-izurieta/address-manager | unknown | not_a_maven_coordinate | [open](../records/sapjava-diego-izurieta-address-manager-3c30118e.md) |
+| diego-izurieta/address-manager | partial | 2021-03-31T21:21:50Z | [open](../records/sapjava-diego-izurieta-address-manager-3c30118e.md) |
 | EDISONGIRAL/SAP | partial | 2016-09-09T01:23:27Z | [open](../records/sapjava-edisongiral-sap-0a7ac231.md) |
 | fercasloz/sap_cap_java_btp | partial | 2026-01-08T15:09:52Z | [open](../records/sapjava-fercasloz-sap-cap-java-btp-2d3fcc7a.md) |
 | goranschwarz/DbxTune | partial | 2026-09-04T14:11:57Z | [open](../records/sapjava-goranschwarz-dbxtune-836827b4.md) |
-| gregorwolf/sap-cloud-sdk-java | unknown | not_a_maven_coordinate | [open](../records/sapjava-gregorwolf-sap-cloud-sdk-java-f9365671.md) |
-| gregorwolf/sap-cloud-sdk-rfc | unknown | not_a_maven_coordinate | [open](../records/sapjava-gregorwolf-sap-cloud-sdk-rfc-4bcdf9e3.md) |
+| gregorwolf/sap-cloud-sdk-java | partial | 2021-02-12T09:02:48Z | [open](../records/sapjava-gregorwolf-sap-cloud-sdk-java-f9365671.md) |
+| gregorwolf/sap-cloud-sdk-rfc | partial | 2024-04-02T20:26:31Z | [open](../records/sapjava-gregorwolf-sap-cloud-sdk-rfc-4bcdf9e3.md) |
 | gyotro/SAP_CAP_Java_POC | partial | 2026-06-22T06:53:29Z | [open](../records/sapjava-gyotro-sap-cap-java-poc-02d05a37.md) |
 | Huancx/SAPBTP-CAP | partial | 2025-05-06T09:12:48Z | [open](../records/sapjava-huancx-sapbtp-cap-954e2ce0.md) |
 | IBM-Cloud/sap-netweaver-java-hana | partial | 2024-12-12T09:45:20Z | [open](../records/sapjava-ibm-cloud-sap-netweaver-java-hana-a17bf1c6.md) |
 | jplim/sap-cloud-cap-java | partial | 2021-01-19T02:47:55Z | [open](../records/sapjava-jplim-sap-cloud-cap-java-6f6d2232.md) |
 | kshanth/db-routing-cap-samples-java | partial | 2022-10-31T07:02:15Z | [open](../records/sapjava-kshanth-db-routing-cap-samples-java-a19ed20a.md) |
-| MartinPankraz/az-private-linky | unknown | not_a_maven_coordinate | [open](../records/sapjava-martinpankraz-az-private-linky-4591f1e2.md) |
+| MartinPankraz/az-private-linky | partial | 2023-10-11T06:13:36Z | [open](../records/sapjava-martinpankraz-az-private-linky-4591f1e2.md) |
 | NguyenMinhChien20020369/SAP_CAP_JAVA | partial | 2026-06-22T09:20:33Z | [open](../records/sapjava-nguyenminhchien20020369-sap-cap-java-8e8ec4e1.md) |
 | NguyenMinhChien20020369/SAP_CAP_JAVA_SF | partial | 2026-07-08T06:51:03Z | [open](../records/sapjava-nguyenminhchien20020369-sap-cap-java-sf-e06e1b2b.md) |
 | NguyenMinhChien20020369/SAP_CAP_JAVA_TRANTXT | partial | 2026-09-08T09:29:55Z | [open](../records/sapjava-nguyenminhchien20020369-sap-cap-java-trantxt-96f7be2b.md) |
@@ -5942,9 +5942,9 @@ Records: `5893`
 | rbettison/JavaOdataCAP | partial | 2024-02-15T16:29:25Z | [open](../records/sapjava-rbettison-javaodatacap-4deed594.md) |
 | rcgtechrepo/sap_cap_java | partial | 2025-01-05T12:59:20Z | [open](../records/sapjava-rcgtechrepo-sap-cap-java-56e882c4.md) |
 | SAP-archive/hana-shared-ledger-examples | partial | 2025-03-07T13:38:38Z | [open](../records/sapjava-sap-archive-hana-shared-ledger-examples-33688859.md) |
-| SAP-samples/cloud-cap-samples-java | unknown | not_a_maven_coordinate | [open](../records/sapjava-sap-samples-cloud-cap-samples-java-14329741.md) |
+| SAP-samples/cloud-cap-samples-java | partial | 2026-09-08T08:37:50Z | [open](../records/sapjava-sap-samples-cloud-cap-samples-java-14329741.md) |
 | Showkath/cloud-cap-samples-java | partial | 2020-09-20T12:52:49Z | [open](../records/sapjava-showkath-cloud-cap-samples-java-2f0f532c.md) |
-| sillym/java-sdk-project | unknown | not_a_maven_coordinate | [open](../records/sapjava-sillym-java-sdk-project-0f2e5b6d.md) |
+| sillym/java-sdk-project | partial | 2020-06-01T06:32:16Z | [open](../records/sapjava-sillym-java-sdk-project-0f2e5b6d.md) |
 | vanajapulivarthi/SAP-CAP-JAVA | partial | 2026-06-17T05:54:47Z | [open](../records/sapjava-vanajapulivarthi-sap-cap-java-c92f4b8e.md) |
 
 ## Swift

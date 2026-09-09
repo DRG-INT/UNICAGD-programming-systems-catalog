@@ -1,6 +1,6 @@
 # Logging Observability
 
-Records: `536`
+Records: `537`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `536`
 ## Category Index
 
 [Api Abi Checker (230)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1018)](build-system.md) · [Cli (582)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1024)](build-system.md) · [Cli (583)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (122)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
-[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (135)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (106)](dependency-manager.md) · [Documentation (111)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (469)](ffi-bindings.md) · [Filesystem Os (1629)](filesystem-os.md) · [Formatter (655)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1485)](ide-editor-integration.md)
-[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (277)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1456)](language-specification.md) · [Library (5893)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · **[Logging Observability (536)](logging-observability.md)** · [Machine Learning (818)](machine-learning.md)
-[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1066)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1215)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
-[Profiler (93)](profiler.md) · [Project Scaffolding (141)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (111)](documentation.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (470)](ffi-bindings.md) · [Filesystem Os (1647)](filesystem-os.md) · [Formatter (657)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1489)](ide-editor-integration.md)
+[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1457)](language-specification.md) · [Library (5893)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (348)](linter.md) · **[Logging Observability (537)](logging-observability.md)** · [Machine Learning (824)](machine-learning.md)
+[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1071)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1219)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
+[Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1634)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (573)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
+[Undefined Behavior Analyzer (1644)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (596)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
 
 ## C99
 
@@ -360,7 +360,7 @@ Records: `536`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 2noise/ChatTTS | partial | 2026-04-10T16:33:48Z | [open](../records/aim-s-2noise-chattts-5e993170.md) |
-| langfuse/langfuse | partial | 2026-09-09T20:05:44Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
+| langfuse/langfuse | partial | 2026-09-09T21:11:03Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
 | microsoft/semantic-kernel | partial | 2026-09-09T06:03:59Z | [open](../records/aim-s-microsoft-semantic-kernel-ef95bef0.md) |
 | MLflow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-mlflow-1732aa2b.md) |
 | OpenTelemetry Semantic Conventions For GenAI | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-opentelemetry-semantic-conventions-for-genai-e834f611.md) |
@@ -425,7 +425,7 @@ Records: `536`
 | --- | --- | --- | --- |
 | raphaelhanneken/iconizer | partial | 2023-05-23T19:05:30Z | [open](../records/assets-raphaelhanneken-iconizer-867b9d26.md) |
 | TMHSDigital/Free-Game-Dev-Assets | partial | 2026-09-06T15:48:08Z | [open](../records/assets-tmhsdigital-free-game-dev-assets-e139ddb6.md) |
-| unjs/fontaine | partial | 2026-09-01T03:58:50Z | [open](../records/assets-unjs-fontaine-adf8d9fd.md) |
+| unjs/fontaine | partial | 2026-09-09T15:03:20Z | [open](../records/assets-unjs-fontaine-adf8d9fd.md) |
 | vorillaz/devicons | partial | 2026-05-10T21:43:36Z | [open](../records/assets-vorillaz-devicons-ab704e06.md) |
 
 ## Maps
@@ -740,7 +740,7 @@ Records: `536`
 | com.sap.cloud.yaas.service-sdk:service-sdk-logging-filters | 4.17.1 | 2017-10-26T05:29:50+00:00 | [open](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-logging-filters-cf3a376b.md) |
 | logalitech/cap-skills | partial | 2026-08-15T09:07:37Z | [open](../records/sapjava-logalitech-cap-skills-4147e508.md) |
 | SAP/cf-java-logging-support | partial | 2026-09-08T14:33:37Z | [open](../records/sapjava-sap-cf-java-logging-support-6f89dbd9.md) |
-| SAP/cloud-metricswatcher | unknown | not_a_maven_coordinate | [open](../records/sapjava-sap-cloud-metricswatcher-128bcc69.md) |
+| SAP/cloud-metricswatcher | partial | 2026-05-27T14:12:12Z | [open](../records/sapjava-sap-cloud-metricswatcher-128bcc69.md) |
 | sapanablog/Medical-ERP-CAP | partial | 2026-07-12T14:42:34Z | [open](../records/sapjava-sapanablog-medical-erp-cap-2360a888.md) |
 | soyuztechnologies/EY_SAP_BTP_NODEJAVA_Nov2022 | partial | 2023-02-04T14:56:07Z | [open](../records/sapjava-soyuztechnologies-ey-sap-btp-nodejava-nov2022-6f1e6957.md) |
 
@@ -748,6 +748,7 @@ Records: `536`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| momenbasel/PureMac | partial | 2026-09-09T04:48:02Z | [open](../records/swift-momenbasel-puremac-3b37aa0d.md) |
 | sindresorhus/LaunchAtLogin-Legacy | partial | 2024-06-25T00:03:49Z | [open](../records/swift-sindresorhus-launchatlogin-legacy-90e57007.md) |
 | sindresorhus/LaunchAtLogin-Modern | partial | 2024-01-11T20:35:45Z | [open](../records/swift-sindresorhus-launchatlogin-modern-7ab8cabe.md) |
 | steipete/CodexBar | unknown | github_search_does_not_include_release_date | [open](../records/swift-steipete-codexbar-4079e9b0.md) |

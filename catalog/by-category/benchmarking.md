@@ -9,22 +9,22 @@ Records: `202`
 ## Category Index
 
 [Api Abi Checker (230)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-**[Benchmarking (202)](benchmarking.md)** · [Build System (1018)](build-system.md) · [Cli (582)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+**[Benchmarking (202)](benchmarking.md)** · [Build System (1024)](build-system.md) · [Cli (583)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (122)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
-[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (135)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (106)](dependency-manager.md) · [Documentation (111)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (469)](ffi-bindings.md) · [Filesystem Os (1629)](filesystem-os.md) · [Formatter (655)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1485)](ide-editor-integration.md)
-[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (277)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1456)](language-specification.md) · [Library (5893)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (536)](logging-observability.md) · [Machine Learning (818)](machine-learning.md)
-[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1066)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1215)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
-[Profiler (93)](profiler.md) · [Project Scaffolding (141)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (111)](documentation.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (470)](ffi-bindings.md) · [Filesystem Os (1647)](filesystem-os.md) · [Formatter (657)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1489)](ide-editor-integration.md)
+[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1457)](language-specification.md) · [Library (5893)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (537)](logging-observability.md) · [Machine Learning (824)](machine-learning.md)
+[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1071)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1219)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
+[Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1634)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (573)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
+[Undefined Behavior Analyzer (1644)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (596)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
 
 ## C++23
 
@@ -133,7 +133,7 @@ Records: `202`
 | --- | --- | --- | --- |
 | jeffotoni/quick | partial | 2026-05-08T15:01:00Z | [open](../records/go-jeffotoni-quick-3e9e02ab.md) |
 | kataras/iris | partial | 2026-07-27T09:34:12Z | [open](../records/go-kataras-iris-811820fb.md) |
-| nats-io/nats-server | partial | 2026-09-09T15:03:24Z | [open](../records/go-nats-io-nats-server-a11f8ca6.md) |
+| nats-io/nats-server | partial | 2026-09-09T20:37:23Z | [open](../records/go-nats-io-nats-server-a11f8ca6.md) |
 | nelthaarion/breeze | partial | 2026-09-06T22:05:23Z | [open](../records/go-nelthaarion-breeze-919adbb5.md) |
 | sohaha/zlsgo | partial | 2026-07-20T07:16:38Z | [open](../records/go-sohaha-zlsgo-804fc40e.md) |
 | tigalabs/tigago | partial | 2022-11-12T12:26:48Z | [open](../records/go-tigalabs-tigago-6e360e88.md) |
@@ -193,7 +193,7 @@ Records: `202`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | d3ward/toolz | partial | 2025-01-18T09:55:32Z | [open](../records/assets-d3ward-toolz-1f9ecb7c.md) |
-| feat-agency/vite-plugin-webfont-dl | partial | 2026-08-13T06:54:54Z | [open](../records/assets-feat-agency-vite-plugin-webfont-dl-c573e2b6.md) |
+| feat-agency/vite-plugin-webfont-dl | partial | 2026-09-03T01:29:53Z | [open](../records/assets-feat-agency-vite-plugin-webfont-dl-c573e2b6.md) |
 
 ## Maps
 
@@ -220,7 +220,7 @@ Records: `202`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | juliensimon/starlink-viz | partial | 2026-06-11T08:11:50Z | [open](../records/space-maps-juliensimon-starlink-viz-9a56fe81.md) |
-| magic-sph/magic | partial | 2026-08-16T00:30:00Z | [open](../records/space-maps-magic-sph-magic-96d689fa.md) |
+| magic-sph/magic | partial | 2026-09-09T08:32:06Z | [open](../records/space-maps-magic-sph-magic-96d689fa.md) |
 
 ## Effects
 
@@ -373,7 +373,7 @@ Records: `202`
 | --- | --- | --- | --- |
 | bytecodealliance/sightglass | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-bytecodealliance-sightglass-82ee681e.md) |
 | How to get a performance boost using WebAssembly (2017) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-how-to-get-a-performance-boost-using-webassembly-2017-65666a86.md) |
-| OGRECave/ogre | partial | 2026-09-08T20:33:10Z | [open](../records/webassembly-ogrecave-ogre-e3987e47.md) |
+| OGRECave/ogre | partial | 2026-09-09T16:33:37Z | [open](../records/webassembly-ogrecave-ogre-e3987e47.md) |
 
 ## Swift
 
@@ -413,7 +413,7 @@ Records: `202`
 | Mithril-mine/libmdbx | partial | 2026-09-08T05:45:55Z | [open](../records/databases-mithril-mine-libmdbx-ec7af8f0.md) |
 | openGemini/openGemini | partial | 2026-09-09T02:09:55Z | [open](../records/databases-opengemini-opengemini-b406e906.md) |
 | qdrant/qdrant | partial | 2026-09-09T11:13:27Z | [open](../records/databases-qdrant-qdrant-461c624b.md) |
-| questdb/questdb | partial | 2026-09-09T16:41:56Z | [open](../records/databases-questdb-questdb-cb22f378.md) |
+| questdb/questdb | partial | 2026-09-09T20:47:31Z | [open](../records/databases-questdb-questdb-cb22f378.md) |
 | quick-perf/quickperf | partial | 2026-05-06T14:46:13Z | [open](../records/databases-quick-perf-quickperf-2926abba.md) |
 | rustfs/rustfs | partial | 2026-09-09T17:25:19Z | [open](../records/databases-rustfs-rustfs-ac58a257.md) |
 | taosdata/TDengine | partial | 2026-09-09T11:50:17Z | [open](../records/databases-taosdata-tdengine-57f74fd3.md) |

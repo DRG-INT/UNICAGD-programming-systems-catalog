@@ -5,22 +5,22 @@
 ## Category Index
 
 [Api Abi Checker (230)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (202)](by-category/benchmarking.md) · [Build System (1018)](by-category/build-system.md) · [Cli (582)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (202)](by-category/benchmarking.md) · [Build System (1024)](by-category/build-system.md) · [Cli (583)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (122)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (25)](by-category/compiler-diagnostics.md) · [Compression (53)](by-category/compression.md)
-[Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (135)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
+[Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (136)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (180)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (974)](by-category/database-datastore.md) · [Datetime (241)](by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (106)](by-category/dependency-manager.md) · [Documentation (111)](by-category/documentation.md)
-[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (469)](by-category/ffi-bindings.md) · [Filesystem Os (1629)](by-category/filesystem-os.md) · [Formatter (655)](by-category/formatter.md)
-[Framework (63)](by-category/framework.md) · [Fuzzer (59)](by-category/fuzzer.md) · [Game Engine Game Dev (361)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1485)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (443)](by-category/image-audio-dsp.md) · [Interop Bindings (63)](by-category/interop-bindings.md) · [Interpreter Runtime (277)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1456)](by-category/language-specification.md) · [Library (5893)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (536)](by-category/logging-observability.md) · [Machine Learning (818)](by-category/machine-learning.md)
-[Math Numeric Scientific (90)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1066)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (445)](by-category/package-manager.md) · [Parser Lexer Ast (1215)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (313)](by-category/precommit-ci-quality.md)
-[Profiler (93)](by-category/profiler.md) · [Project Scaffolding (141)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
+[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (108)](by-category/dependency-manager.md) · [Documentation (111)](by-category/documentation.md)
+[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (470)](by-category/ffi-bindings.md) · [Filesystem Os (1647)](by-category/filesystem-os.md) · [Formatter (657)](by-category/formatter.md)
+[Framework (63)](by-category/framework.md) · [Fuzzer (59)](by-category/fuzzer.md) · [Game Engine Game Dev (361)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1489)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (443)](by-category/image-audio-dsp.md) · [Interop Bindings (63)](by-category/interop-bindings.md) · [Interpreter Runtime (280)](by-category/interpreter-runtime.md) · [Jit Vm (65)](by-category/jit-vm.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1457)](by-category/language-specification.md) · [Library (5893)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (50)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (537)](by-category/logging-observability.md) · [Machine Learning (824)](by-category/machine-learning.md)
+[Math Numeric Scientific (90)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1071)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (445)](by-category/package-manager.md) · [Parser Lexer Ast (1219)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (313)](by-category/precommit-ci-quality.md)
+[Profiler (93)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (337)](by-category/security-sast.md) · [Serialization (403)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (643)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (627)](by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](by-category/tutorial-book-styleguide.md) · [Type Checker (315)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1634)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (573)](by-category/visualization-gui.md) · [Web Framework (493)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1644)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (596)](by-category/visualization-gui.md) · [Web Framework (494)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -14964,18 +14964,22 @@
 | `github_search_swift-00f82626ebcebc` | kean/Pulse | [open](records/swift-kean-pulse-8d6e61db.md) |
 | `github_search_swift-013ea12034fa90` | manaflow-ai/cmux | [open](records/swift-manaflow-ai-cmux-97abd3fc.md) |
 | `github_search_swift-03638ab32ff11d` | MastodonKit/MastodonKit | [open](records/swift-mastodonkit-mastodonkit-916ae82f.md) |
+| `github_search_swift-05047fabb0432a` | siteline/swiftui-introspect | [open](records/swift-siteline-swiftui-introspect-fa39df83.md) |
 | `github_search_swift-053d856d1b05c1` | iina/iina | [open](records/swift-iina-iina-fa66094c.md) |
 | `github_search_swift-0550ef020d9009` | sunnyyoung/WeChatTweak | [open](records/swift-sunnyyoung-wechattweak-2fdd3d87.md) |
 | `github_search_swift-0573df8ec814a3` | SwifterSwift/SwifterSwift | [open](records/swift-swifterswift-swifterswift-e97f40b8.md) |
 | `github_search_swift-05a0fc871935f8` | Lakr233/vphone-cli | [open](records/swift-lakr233-vphone-cli-e35c2eae.md) |
 | `github_search_swift-05e3fde13b407f` | p0deje/Maccy | [open](records/swift-p0deje-maccy-a0af33c6.md) |
 | `github_search_swift-065b05760f5739` | AppHouseKitchen/AlDente-Battery_Care_and_Monitoring | [open](records/swift-apphousekitchen-aldente-battery-care-and-monitoring-e11a4577.md) |
+| `github_search_swift-075f1aa4adbe89` | gonzalezreal/swift-markdown-ui | [open](records/swift-gonzalezreal-swift-markdown-ui-639197c9.md) |
 | `github_search_swift-075f7925f555ab` | daprice/iOS-Tactile-Slider | [open](records/swift-daprice-ios-tactile-slider-619cec50.md) |
 | `github_search_swift-078ea89c6979c6` | Dimillian/IceCubesApp | [open](records/swift-dimillian-icecubesapp-9d130079.md) |
 | `github_search_swift-09a0a3439ba6af` | apple/swift-log | [open](records/swift-apple-swift-log-9120ca11.md) |
+| `github_search_swift-0ad4160143e8a3` | Lessica/TrollFools | [open](records/swift-lessica-trollfools-a05a2dd4.md) |
 | `github_search_swift-0b51ad8fb6ee59` | AppHouseKitchen/AlDente-Battery_Care_and_Monitoring | [open](records/swift-apphousekitchen-aldente-battery-care-and-monitoring-af6d47ab.md) |
 | `github_search_swift-0b6eab6770424f` | ChartsOrg/Charts | [open](records/swift-chartsorg-charts-0664a9e9.md) |
 | `github_search_swift-0b828fa8a0d2e8` | exelban/stats | [open](records/swift-exelban-stats-903c8254.md) |
+| `github_search_swift-0c45f1db15afe5` | CodeEditApp/CodeEdit | [open](records/swift-codeeditapp-codeedit-88d3a878.md) |
 | `github_search_swift-0c6e8dc61f7f71` | shadowsocks/ShadowsocksX-NG | [open](records/swift-shadowsocks-shadowsocksx-ng-03970332.md) |
 | `github_search_swift-0c75048f7c29da` | jaywcjlove/awesome-mac | [open](records/swift-jaywcjlove-awesome-mac-78b4937e.md) |
 | `github_search_swift-0d6d43aed8ddf7` | Swinject/Swinject | [open](records/swift-swinject-swinject-2f463f5f.md) |
@@ -14985,6 +14989,7 @@
 | `github_search_swift-0f958af5bee658` | OpenEmu/OpenEmu | [open](records/swift-openemu-openemu-287a89a2.md) |
 | `github_search_swift-1092af09e1a4e1` | StreamUI/StreamUI.swift | [open](records/swift-streamui-streamui-swift-1e00b473.md) |
 | `github_search_swift-10cc5b01bccbdd` | c-villain/SwipeActions | [open](records/swift-c-villain-swipeactions-c44ea5a0.md) |
+| `github_search_swift-10da41e3a572d9` | buresdv/Cork | [open](records/swift-buresdv-cork-06e0ad86.md) |
 | `github_search_swift-10e4d07c466ec7` | MAJKFL/Welcome-Sheet | [open](records/swift-majkfl-welcome-sheet-bd2a05cc.md) |
 | `github_search_swift-115ff6aca1e134` | maxgoedjen/secretive | [open](records/swift-maxgoedjen-secretive-1285aac6.md) |
 | `github_search_swift-1214525cf501ff` | Mijick/Timer | [open](records/swift-mijick-timer-321f7ea0.md) |
@@ -14992,6 +14997,7 @@
 | `github_search_swift-1223bd77df12dc` | soapyigu/Swift-30-Projects | [open](records/swift-soapyigu-swift-30-projects-c53d5056.md) |
 | `github_search_swift-123c5a0680be5b` | jordanbaird/Ice | [open](records/swift-jordanbaird-ice-8cede194.md) |
 | `github_search_swift-12a445ad5e2ff5` | linearmouse/linearmouse | [open](records/swift-linearmouse-linearmouse-5ad2b1d0.md) |
+| `github_search_swift-12eca3c4472d2a` | SimpleBoilerplates/SwiftUI-Cheat-Sheet | [open](records/swift-simpleboilerplates-swiftui-cheat-sheet-9ea34200.md) |
 | `github_search_swift-1340d380ef19d2` | ZhgChgLi/ZMarkupParser | [open](records/swift-zhgchgli-zmarkupparser-c212d4d4.md) |
 | `github_search_swift-136a1c55bd34f3` | ArtSabintsev/Guitar | [open](records/swift-artsabintsev-guitar-edf44630.md) |
 | `github_search_swift-1517089b3ecb80` | choefele/swift-lambda-app | [open](records/swift-choefele-swift-lambda-app-887314ca.md) |
@@ -15005,10 +15011,14 @@
 | `github_search_swift-17edbb72b0080d` | Juanpe/SkeletonView | [open](records/swift-juanpe-skeletonview-17a24b5c.md) |
 | `github_search_swift-1892611d330ef8` | dwarvesf/hidden | [open](records/swift-dwarvesf-hidden-f5516832.md) |
 | `github_search_swift-18d49b9c7ae2c7` | SvenTiigi/WhatsNewKit | [open](records/swift-sventiigi-whatsnewkit-842fe485.md) |
+| `github_search_swift-198ce632ef44ae` | ming1016/SwiftPamphletApp | [open](records/swift-ming1016-swiftpamphletapp-ac91c0b6.md) |
 | `github_search_swift-19cdc2a83277a7` | rxhanson/Rectangle | [open](records/swift-rxhanson-rectangle-cedb03b4.md) |
 | `github_search_swift-1a35d50f5db442` | rxhanson/Rectangle | [open](records/swift-rxhanson-rectangle-8818d60b.md) |
+| `github_search_swift-1a9c4cadd7d7e3` | LiquidPlayer/LiquidCore | [open](records/swift-liquidplayer-liquidcore-79da97f0.md) |
 | `github_search_swift-1d6bd284f1a226` | sindresorhus/macos-wallpaper | [open](records/swift-sindresorhus-macos-wallpaper-3179fd42.md) |
 | `github_search_swift-1dcf07b33b973a` | patchthecode/JTAppleCalendar | [open](records/swift-patchthecode-jtapplecalendar-61af67e8.md) |
+| `github_search_swift-1e579b5333042b` | Blackjacx/WWDC | [open](records/swift-blackjacx-wwdc-b115e9db.md) |
+| `github_search_swift-1e6e65c4d4bb67` | StikDebug/StikDebug | [open](records/swift-stikdebug-stikdebug-7cb9183a.md) |
 | `github_search_swift-1f29a05fed94d5` | Mijick/NavigationView | [open](records/swift-mijick-navigationview-fc610d99.md) |
 | `github_search_swift-1fe310d0736849` | chris-swift-dev/AdvancedList | [open](records/swift-chris-swift-dev-advancedlist-cb3a259f.md) |
 | `github_search_swift-1feb07ee37c24a` | JohnCoates/Aerial | [open](records/swift-johncoates-aerial-0c1a1e38.md) |
@@ -15034,6 +15044,9 @@
 | `github_search_swift-2d76d4784371c1` | mac-cain13/R.swift | [open](records/swift-mac-cain13-r-swift-327db026.md) |
 | `github_search_swift-2e0bad51800fb0` | toptal/gitignore.io | [open](records/swift-toptal-gitignore-io-74cde1a6.md) |
 | `github_search_swift-2e6ac8ff604982` | Ramotion/animated-tab-bar | [open](records/swift-ramotion-animated-tab-bar-eb35cb05.md) |
+| `github_search_swift-2e82e90abba839` | sergdort/ModernCleanArchitectureSwiftUI | [open](records/swift-sergdort-moderncleanarchitectureswiftui-6d51d137.md) |
+| `github_search_swift-2ecfb56ccc7742` | maziyarpanahi/openmed | [open](records/swift-maziyarpanahi-openmed-4666ab59.md) |
+| `github_search_swift-2f1c5de5380751` | hmlongco/Factory | [open](records/swift-hmlongco-factory-45f10e8c.md) |
 | `github_search_swift-3039c221816ab8` | palmier-io/palmier-pro | [open](records/swift-palmier-io-palmier-pro-3a539873.md) |
 | `github_search_swift-30ee62007b62d4` | glushchenko/fsnotes | [open](records/swift-glushchenko-fsnotes-0cb5321f.md) |
 | `github_search_swift-312b6a27290921` | ReactiveX/RxSwift | [open](records/swift-reactivex-rxswift-cb25896d.md) |
@@ -15057,15 +15070,22 @@
 | `github_search_swift-407e5d1a07f3fe` | Clipy/Clipy | [open](records/swift-clipy-clipy-22576c18.md) |
 | `github_search_swift-40c51aeee04f5e` | Ramotion/animated-tab-bar | [open](records/swift-ramotion-animated-tab-bar-e7d5c534.md) |
 | `github_search_swift-40dafeaceaaed9` | SwiftGen/SwiftGen | [open](records/swift-swiftgen-swiftgen-7cc10ec0.md) |
+| `github_search_swift-40fc1a14a85c3d` | AppPear/ChartView | [open](records/swift-apppear-chartview-2edf1090.md) |
 | `github_search_swift-411622c7baeea7` | palmier-io/palmier-pro | [open](records/swift-palmier-io-palmier-pro-21c70c7f.md) |
 | `github_search_swift-416c0e33fda472` | osaurus-ai/osaurus | [open](records/swift-osaurus-ai-osaurus-5748ca92.md) |
+| `github_search_swift-41e0375ad8040e` | eleev/ios-learning-materials | [open](records/swift-eleev-ios-learning-materials-eb9b4f46.md) |
+| `github_search_swift-4208d97daa8823` | algolia/instantsearch-ios | [open](records/swift-algolia-instantsearch-ios-6743b8b7.md) |
 | `github_search_swift-4218b6a4ec8dbf` | Caldis/Mos | [open](records/swift-caldis-mos-36177327.md) |
 | `github_search_swift-429cef21e9becf` | Sjj1024/PakePlus-iOS | [open](records/swift-sjj1024-pakeplus-ios-409d4afd.md) |
 | `github_search_swift-42ab1e1db61397` | permissionlesstech/bitchat | [open](records/swift-permissionlesstech-bitchat-1323762a.md) |
 | `github_search_swift-4324210b7d4e46` | newlinedotco/FlappySwift | [open](records/swift-newlinedotco-flappyswift-4860e4e2.md) |
+| `github_search_swift-43f20e80be223f` | twostraws/ControlRoom | [open](records/swift-twostraws-controlroom-f882864d.md) |
+| `github_search_swift-44abdb14c1bc88` | Dimillian/RedditOS | [open](records/swift-dimillian-redditos-725a3cef.md) |
+| `github_search_swift-45e6ba807c07a3` | sparrowcode/AlertKit | [open](records/swift-sparrowcode-alertkit-0f5379bc.md) |
 | `github_search_swift-4678e3458da5f7` | Carthage/Carthage | [open](records/swift-carthage-carthage-30cdc1f9.md) |
 | `github_search_swift-4697445544777d` | ordo-one/benchmark | [open](records/swift-ordo-one-benchmark-1abb4df6.md) |
 | `github_search_swift-48b9a5864fda8c` | kodecocodes/swift-algorithm-club | [open](records/swift-kodecocodes-swift-algorithm-club-e9dbf72c.md) |
+| `github_search_swift-4925eb910122b7` | github/CopilotForXcode | [open](records/swift-github-copilotforxcode-5a509192.md) |
 | `github_search_swift-4991168d5a6241` | xmartlabs/Eureka | [open](records/swift-xmartlabs-eureka-8c5efc8b.md) |
 | `github_search_swift-4aaf28b6288e06` | ashleymills/Reachability.swift | [open](records/swift-ashleymills-reachability-swift-2be6635a.md) |
 | `github_search_swift-4abfd29125a608` | dkhamsing/open-source-ios-apps | [open](records/swift-dkhamsing-open-source-ios-apps-108f495a.md) |
@@ -15077,37 +15097,53 @@
 | `github_search_swift-5179fcd44c72b0` | spacenation/swiftui-grid | [open](records/swift-spacenation-swiftui-grid-d74c0efb.md) |
 | `github_search_swift-517c4c32c487a7` | JerryZLiu/Dayflow | [open](records/swift-jerryzliu-dayflow-93341cb6.md) |
 | `github_search_swift-51c9a8cec26ba1` | Quick/Quick | [open](records/swift-quick-quick-8f2cd6d5.md) |
+| `github_search_swift-535dae93c0287b` | elai950/AlertToast | [open](records/swift-elai950-alerttoast-d63e24bd.md) |
 | `github_search_swift-544b047f1a462f` | Ji4n1ng/OpenInTerminal | [open](records/swift-ji4n1ng-openinterminal-ec16926b.md) |
 | `github_search_swift-561c83893adf9b` | pointfreeco/swift-composable-architecture | [open](records/swift-pointfreeco-swift-composable-architecture-5360e791.md) |
 | `github_search_swift-5671d0f7b56968` | kodecocodes/swift-algorithm-club | [open](records/swift-kodecocodes-swift-algorithm-club-8609bf0f.md) |
 | `github_search_swift-56a0f2779999aa` | Finb/Bark | [open](records/swift-finb-bark-47359efd.md) |
 | `github_search_swift-57b0268923d76d` | XcodesOrg/XcodesApp | [open](records/swift-xcodesorg-xcodesapp-30834dbe.md) |
 | `github_search_swift-58065d78d8ccb6` | utmapp/UTM | [open](records/swift-utmapp-utm-a248b985.md) |
+| `github_search_swift-583a9ac30465bf` | rechsteiner/Parchment | [open](records/swift-rechsteiner-parchment-553fc5ef.md) |
+| `github_search_swift-589a5f49d793a3` | jacklandrin/OnlySwitch | [open](records/swift-jacklandrin-onlyswitch-96d7867e.md) |
 | `github_search_swift-58e8be45b07639` | Juanpe/About-SwiftUI | [open](records/swift-juanpe-about-swiftui-285586b3.md) |
 | `github_search_swift-5967baf760eb1e` | permissionlesstech/bitchat | [open](records/swift-permissionlesstech-bitchat-9ab8cee7.md) |
 | `github_search_swift-5b54cfcb0453a2` | TheBoredTeam/boring.notch | [open](records/swift-theboredteam-boring-notch-97c99eb2.md) |
 | `github_search_swift-5b6c687607e877` | thaw-app/Thaw | [open](records/swift-thaw-app-thaw-8268f6e7.md) |
+| `github_search_swift-5b7fa3dc7a4285` | CombineCommunity/rxswift-to-combine-cheatsheet | [open](records/swift-combinecommunity-rxswift-to-combine-cheatsheet-f838fd01.md) |
+| `github_search_swift-5c63d07aad1353` | 666OS/ClashMac | [open](records/swift-666os-clashmac-43953d43.md) |
 | `github_search_swift-5c6d4d73223d5b` | Ramotion/folding-cell | [open](records/swift-ramotion-folding-cell-544464cb.md) |
 | `github_search_swift-5c75fc8b2d21b4` | dwarvesf/hidden | [open](records/swift-dwarvesf-hidden-7bea80af.md) |
 | `github_search_swift-5ca610f638ce14` | xmartlabs/XLPagerTabStrip | [open](records/swift-xmartlabs-xlpagertabstrip-558ae87b.md) |
 | `github_search_swift-5e11843e156ab7` | tristanhimmelman/ObjectMapper | [open](records/swift-tristanhimmelman-objectmapper-b2be793a.md) |
 | `github_search_swift-5e1be88ea17bb8` | stephencelis/SQLite.swift | [open](records/swift-stephencelis-sqlite-swift-38539634.md) |
+| `github_search_swift-5e4193addb4980` | productdevbook/port-killer | [open](records/swift-productdevbook-port-killer-ed6f58cf.md) |
 | `github_search_swift-5e871878d08578` | Ranchero-Software/NetNewsWire | [open](records/swift-ranchero-software-netnewswire-c617c7bf.md) |
+| `github_search_swift-5f0d411f804af5` | CaliCastle/PopMenu | [open](records/swift-calicastle-popmenu-4f2fac11.md) |
+| `github_search_swift-5fa53bce265329` | mikelikesdesign/SwiftUI-experiments | [open](records/swift-mikelikesdesign-swiftui-experiments-087cbd2c.md) |
 | `github_search_swift-6100df95cf955a` | SwiftyJSON/SwiftyJSON | [open](records/swift-swiftyjson-swiftyjson-7752246a.md) |
 | `github_search_swift-619d88fbff0cf6` | ReSwift/ReSwift | [open](records/swift-reswift-reswift-732fe5d0.md) |
 | `github_search_swift-61b0be8f426ff6` | signalapp/Signal-iOS | [open](records/swift-signalapp-signal-ios-12189a30.md) |
+| `github_search_swift-628869b833b728` | sindresorhus/Actions | [open](records/swift-sindresorhus-actions-f4ac4f5b.md) |
 | `github_search_swift-63b76f8f724396` | SwiftUIX/SwiftUIX | [open](records/swift-swiftuix-swiftuix-7730751d.md) |
 | `github_search_swift-63dd460a912089` | PlayCover/PlayCover | [open](records/swift-playcover-playcover-d12336c9.md) |
 | `github_search_swift-63e655a866a882` | GottaGetSwifty/CodableWrappers | [open](records/swift-gottagetswifty-codablewrappers-2321bbf2.md) |
+| `github_search_swift-640e4096c423f3` | amosgyamfi/open-swiftui-animations | [open](records/swift-amosgyamfi-open-swiftui-animations-eb9f4547.md) |
 | `github_search_swift-641e6ba8dc6796` | coteditor/CotEditor | [open](records/swift-coteditor-coteditor-be4bdb2d.md) |
 | `github_search_swift-65f49427672774` | JohnCoates/Aerial | [open](records/swift-johncoates-aerial-d1d85df4.md) |
 | `github_search_swift-6680529fe57864` | supertone-inc/supertonic | [open](records/swift-supertone-inc-supertonic-2a29d827.md) |
+| `github_search_swift-68f974fa88a23a` | guoyingtao/Mantis | [open](records/swift-guoyingtao-mantis-1246fa4d.md) |
 | `github_search_swift-6910d1c38bfb4f` | kishikawakatsumi/KeychainAccess | [open](records/swift-kishikawakatsumi-keychainaccess-2b061829.md) |
 | `github_search_swift-692b5e28d0bdc4` | lukepistrol/SFSymbolsMacro | [open](records/swift-lukepistrol-sfsymbolsmacro-4ff6160a.md) |
 | `github_search_swift-69c1754e3b69d8` | milanvarady/Applite | [open](records/swift-milanvarady-applite-96b822cc.md) |
+| `github_search_swift-6a3f02f3310477` | iziz/libPhoneNumber-iOS | [open](records/swift-iziz-libphonenumber-ios-5988fef5.md) |
+| `github_search_swift-6aafef1fb16689` | simibac/ConfettiSwiftUI | [open](records/swift-simibac-confettiswiftui-c16e3fe7.md) |
+| `github_search_swift-6b18955254234b` | thaw-app/Thaw | [open](records/swift-thaw-app-thaw-f275b649.md) |
 | `github_search_swift-6b29e3e3d83cb3` | apple/container | [open](records/swift-apple-container-b2fffadc.md) |
 | `github_search_swift-6c04491e633a96` | MengTo/Spring | [open](records/swift-mengto-spring-c642114a.md) |
 | `github_search_swift-6c530d38791552` | toptal/gitignore.io | [open](records/swift-toptal-gitignore-io-af3ffa2e.md) |
+| `github_search_swift-6d33115977419c` | jasonjmcghee/rem | [open](records/swift-jasonjmcghee-rem-75c0a744.md) |
+| `github_search_swift-6de44a263df11b` | EmergeTools/Pow | [open](records/swift-emergetools-pow-7350bd32.md) |
 | `github_search_swift-6e4d1c152da2cb` | hackiftekhar/IQKeyboardManager | [open](records/swift-hackiftekhar-iqkeyboardmanager-18116034.md) |
 | `github_search_swift-6faf320628a91a` | brokenhandsio/swift-webauthn | [open](records/swift-brokenhandsio-swift-webauthn-17084b06.md) |
 | `github_search_swift-6fe22a3c3d849d` | ronitsingh10/FineTune | [open](records/swift-ronitsingh10-finetune-1c7fcd89.md) |
@@ -15124,24 +15160,36 @@
 | `github_search_swift-72602537da139b` | WenchaoD/FSPagerView | [open](records/swift-wenchaod-fspagerview-40bff089.md) |
 | `github_search_swift-72c17aab2ebe18` | NativeScript/NativeScript | [open](records/swift-nativescript-nativescript-2f4e3a6a.md) |
 | `github_search_swift-72e13f54413cdb` | ReactiveX/RxSwift | [open](records/swift-reactivex-rxswift-c67a8309.md) |
+| `github_search_swift-7352497e155692` | SwiftWebUI/SwiftWebUI | [open](records/swift-swiftwebui-swiftwebui-2d397522.md) |
 | `github_search_swift-739a826afaae0e` | ochococo/Design-Patterns-In-Swift | [open](records/swift-ochococo-design-patterns-in-swift-43f28d47.md) |
 | `github_search_swift-73d4a137b027d4` | apple/containerization | [open](records/swift-apple-containerization-f439a10d.md) |
 | `github_search_swift-750bf029d4c0b3` | iina/iina | [open](records/swift-iina-iina-6c424098.md) |
+| `github_search_swift-75d854021bc26a` | LouisCAD/Splitties | [open](records/swift-louiscad-splitties-4dc9c723.md) |
 | `github_search_swift-76a643493dd079` | Finb/Bark | [open](records/swift-finb-bark-6712859a.md) |
 | `github_search_swift-76e800402d1ee5` | maxgoedjen/secretive | [open](records/swift-maxgoedjen-secretive-c206b7a6.md) |
 | `github_search_swift-779b3b93ff27ab` | blinksh/blink | [open](records/swift-blinksh-blink-4f28c56f.md) |
 | `github_search_swift-7891c0640d519d` | PerfectlySoft/Perfect | [open](records/swift-perfectlysoft-perfect-0628deb7.md) |
 | `github_search_swift-7a137105fac4ec` | airbnb/lottie-ios | [open](records/swift-airbnb-lottie-ios-ea069736.md) |
+| `github_search_swift-7b642f14df1b04` | pointfreeco/isowords | [open](records/swift-pointfreeco-isowords-7a06c61a.md) |
+| `github_search_swift-7bc25a2ab57bc4` | nalexn/ViewInspector | [open](records/swift-nalexn-viewinspector-05764252.md) |
+| `github_search_swift-7c0de27adb6387` | leetcode-mafia/cheetah | [open](records/swift-leetcode-mafia-cheetah-6af72d7d.md) |
 | `github_search_swift-7eed3559508525` | jordanbaird/Ice | [open](records/swift-jordanbaird-ice-cbd56144.md) |
 | `github_search_swift-7f9ea2ec756738` | alchemy-swift/alchemy | [open](records/swift-alchemy-swift-alchemy-6ca3c9b1.md) |
 | `github_search_swift-7ff33ef62173b3` | vorssaintapp/vorssaint-utils | [open](records/swift-vorssaintapp-vorssaint-utils-2cb8bbc0.md) |
+| `github_search_swift-8038ba29fca43b` | alexdrone/Render | [open](records/swift-alexdrone-render-56b9d7a1.md) |
 | `github_search_swift-80a203f8e4d67a` | seemoo-lab/openhaystack | [open](records/swift-seemoo-lab-openhaystack-1e661f46.md) |
 | `github_search_swift-810d97ee0b6bfa` | KrishKrosh/TrackWeight | [open](records/swift-krishkrosh-trackweight-dd829cdd.md) |
+| `github_search_swift-8254d035c6d43e` | jordansinger/SwiftUI-Kit | [open](records/swift-jordansinger-swiftui-kit-7ffc2af6.md) |
 | `github_search_swift-82ccf1a3fb5f0c` | malcommac/SwiftDate | [open](records/swift-malcommac-swiftdate-adcb1ba9.md) |
 | `github_search_swift-8303cc96b9b9a4` | yonaskolb/XcodeGen | [open](records/swift-yonaskolb-xcodegen-903968b3.md) |
+| `github_search_swift-830b58b2680195` | jordanbaird/Ice | [open](records/swift-jordanbaird-ice-93d7b333.md) |
 | `github_search_swift-84ff16f08efd1f` | thaw-app/Thaw | [open](records/swift-thaw-app-thaw-925be275.md) |
+| `github_search_swift-8531623bb10425` | SvenTiigi/WhatsNewKit | [open](records/swift-sventiigi-whatsnewkit-3dea6c02.md) |
 | `github_search_swift-85a94ec4694ef6` | vapor/vapor | [open](records/swift-vapor-vapor-45f6fc70.md) |
+| `github_search_swift-8715a2794ac515` | mazzzystar/Queryable | [open](records/swift-mazzzystar-queryable-52c87dc0.md) |
 | `github_search_swift-879f1f3d94b1f6` | Stengo/DeskPad | [open](records/swift-stengo-deskpad-dc88db22.md) |
+| `github_search_swift-87c83994d3cc01` | TokamakUI/Tokamak | [open](records/swift-tokamakui-tokamak-99a6036e.md) |
+| `github_search_swift-88beffba735022` | duongductrong/Snapzy | [open](records/swift-duongductrong-snapzy-056cb4ab.md) |
 | `github_search_swift-8a02a1a3afe74c` | Ramotion/folding-cell | [open](records/swift-ramotion-folding-cell-87d9f622.md) |
 | `github_search_swift-8b161ba95012e9` | Sjj1024/PakePlus-iOS | [open](records/swift-sjj1024-pakeplus-ios-084bb884.md) |
 | `github_search_swift-8b8c401bc53db5` | swift-server/async-http-client | [open](records/swift-swift-server-async-http-client-45f1da28.md) |
@@ -15157,40 +15205,61 @@
 | `github_search_swift-9181f15a6875b1` | mxcl/PromiseKit | [open](records/swift-mxcl-promisekit-231b3051.md) |
 | `github_search_swift-91993aff77400c` | MengTo/Spring | [open](records/swift-mengto-spring-21bd886d.md) |
 | `github_search_swift-924f1d36482bc8` | spacenation/swiftui-shapes | [open](records/swift-spacenation-swiftui-shapes-17983445.md) |
+| `github_search_swift-9266801f2d25bf` | wmcmahan/react-native-calendar-events | [open](records/swift-wmcmahan-react-native-calendar-events-bea1c5da.md) |
 | `github_search_swift-92c1bcb48332fb` | krzyzanowskim/CryptoSwift | [open](records/swift-krzyzanowskim-cryptoswift-c5d8c7eb.md) |
+| `github_search_swift-9374a45e96bee4` | yannickl/DynamicColor | [open](records/swift-yannickl-dynamiccolor-11df482b.md) |
 | `github_search_swift-942255c8f5d0a7` | kean/Nuke | [open](records/swift-kean-nuke-151681ba.md) |
 | `github_search_swift-954bbce076abb6` | altstoreio/AltStore | [open](records/swift-altstoreio-altstore-27603fa2.md) |
 | `github_search_swift-9582fa5a538947` | CodeEditApp/CodeEdit | [open](records/swift-codeeditapp-codeedit-ff3ae319.md) |
 | `github_search_swift-965991cbd29b4c` | Moya/Moya | [open](records/swift-moya-moya-feb40e46.md) |
+| `github_search_swift-96615003288555` | oblador/hush | [open](records/swift-oblador-hush-5ff6945d.md) |
+| `github_search_swift-96db22763e542a` | EhPanda-Team/EhPanda | [open](records/swift-ehpanda-team-ehpanda-f35a0864.md) |
 | `github_search_swift-974235b82e633b` | Alamofire/Alamofire | [open](records/swift-alamofire-alamofire-33377646.md) |
 | `github_search_swift-97c07e83f6f59a` | steipete/CodexBar | [open](records/swift-steipete-codexbar-4079e9b0.md) |
+| `github_search_swift-996ad3dcbb7d72` | RevenueCat/purchases-ios | [open](records/swift-revenuecat-purchases-ios-5a082a4e.md) |
 | `github_search_swift-997eeb245ab5be` | mrkai77/DynamicNotchKit | [open](records/swift-mrkai77-dynamicnotchkit-f58d2310.md) |
 | `github_search_swift-99b94a11429518` | Kitura/Kitura | [open](records/swift-kitura-kitura-b9df34b7.md) |
+| `github_search_swift-99dc9298c1f2d6` | mrkai77/Loop | [open](records/swift-mrkai77-loop-fb0cb297.md) |
 | `github_search_swift-9a749901673557` | altstoreio/AltStore | [open](records/swift-altstoreio-altstore-169e84d3.md) |
+| `github_search_swift-9bd363b63f3c87` | krzysztofzablocki/Inject | [open](records/swift-krzysztofzablocki-inject-db309581.md) |
+| `github_search_swift-9be3ff02150e36` | momenbasel/PureMac | [open](records/swift-momenbasel-puremac-3b37aa0d.md) |
 | `github_search_swift-9cf3f53daa0ecf` | darrylmorley/whatcable | [open](records/swift-darrylmorley-whatcable-c87c8750.md) |
+| `github_search_swift-9d157bb482668d` | 0xCUB3/wBlock | [open](records/swift-0xcub3-wblock-9610d9bd.md) |
 | `github_search_swift-9e6758e68cefaf` | ninjaprox/NVActivityIndicatorView | [open](records/swift-ninjaprox-nvactivityindicatorview-50c765a4.md) |
 | `github_search_swift-9f4a2e9b8b1e05` | PlayCover/PlayCover | [open](records/swift-playcover-playcover-4af5366e.md) |
 | `github_search_swift-a0cd5b467fd1b8` | CosmicMind/Material | [open](records/swift-cosmicmind-material-cd01b365.md) |
 | `github_search_swift-a1ac53ef71d92c` | darrylmorley/whatcable | [open](records/swift-darrylmorley-whatcable-e1568d44.md) |
 | `github_search_swift-a3d33e400b0a47` | hackiftekhar/IQKeyboardManager | [open](records/swift-hackiftekhar-iqkeyboardmanager-270f7036.md) |
+| `github_search_swift-a489b6b3d2dfd4` | exyte/PopupView | [open](records/swift-exyte-popupview-c87db42d.md) |
 | `github_search_swift-a4feafb01791a8` | SwiftGen/SwiftGen | [open](records/swift-swiftgen-swiftgen-b6a9b03e.md) |
 | `github_search_swift-a5b518f21f16d4` | choefele/AlexaSkillsKit | [open](records/swift-choefele-alexaskillskit-239f89f5.md) |
+| `github_search_swift-a5e178e70dd0b7` | KartikLabhshetwar/better-shot | [open](records/swift-kartiklabhshetwar-better-shot-e3b138c9.md) |
 | `github_search_swift-a5f0bd845079fd` | Whisky-App/Whisky | [open](records/swift-whisky-app-whisky-ec3aa391.md) |
 | `github_search_swift-a7719a557864c6` | onevcat/Kingfisher | [open](records/swift-onevcat-kingfisher-fc937cbe.md) |
 | `github_search_swift-a7f87d9e26ff48` | SnapKit/SnapKit | [open](records/swift-snapkit-snapkit-842184a7.md) |
 | `github_search_swift-a834c8c5569eb0` | mozilla-mobile/firefox-ios | [open](records/swift-mozilla-mobile-firefox-ios-39d1ea03.md) |
+| `github_search_swift-a871f62468afc2` | SwiftcordApp/Swiftcord | [open](records/swift-swiftcordapp-swiftcord-66b78add.md) |
 | `github_search_swift-a96774429dcda4` | moritzsternemann/SwipyCell | [open](records/swift-moritzsternemann-swipycell-ad3c37ba.md) |
 | `github_search_swift-a981a0006a8094` | guillermomuntaner/Burritos | [open](records/swift-guillermomuntaner-burritos-87cfd576.md) |
 | `github_search_swift-a9b6490691c316` | SwiftKickMobile/SwiftMessages | [open](records/swift-swiftkickmobile-swiftmessages-2192f7cd.md) |
 | `github_search_swift-aa306ab94e371a` | sindresorhus/Regex | [open](records/swift-sindresorhus-regex-523dd181.md) |
+| `github_search_swift-aa7ec2d755309d` | ronitsingh10/FineTune | [open](records/swift-ronitsingh10-finetune-aac5acaa.md) |
 | `github_search_swift-abc08372d72b4d` | 2FastLabs/agent-squad | [open](records/swift-2fastlabs-agent-squad-f20b0f0c.md) |
+| `github_search_swift-ade4a14603867f` | sozercan/kaset | [open](records/swift-sozercan-kaset-2e0420b8.md) |
 | `github_search_swift-aee7d5874ff87d` | alienator88/Pearcleaner | [open](records/swift-alienator88-pearcleaner-bea02e76.md) |
+| `github_search_swift-af5cb3b2b15b04` | jtrivedi/Wave | [open](records/swift-jtrivedi-wave-b8bbf0d7.md) |
 | `github_search_swift-af760d537ec7be` | olucurious/Awesome-ARKit | [open](records/swift-olucurious-awesome-arkit-10b43276.md) |
+| `github_search_swift-af89c153ed1996` | iPlug2/iPlug2 | [open](records/swift-iplug2-iplug2-0fdb4d87.md) |
+| `github_search_swift-afcf8cc7e0e29f` | Jinxiansen/SwiftUI | [open](records/swift-jinxiansen-swiftui-f9df2368.md) |
+| `github_search_swift-b03ad2c6bf57a1` | aheze/Popovers | [open](records/swift-aheze-popovers-2d58237a.md) |
 | `github_search_swift-b0980cc0c8ce57` | nikitabobko/AeroSpace | [open](records/swift-nikitabobko-aerospace-c0101588.md) |
+| `github_search_swift-b0f373d85e8dae` | yattee/yattee | [open](records/swift-yattee-yattee-6dc02215.md) |
 | `github_search_swift-b1152c0970585e` | ochococo/Design-Patterns-In-Swift | [open](records/swift-ochococo-design-patterns-in-swift-3f09d09a.md) |
 | `github_search_swift-b16acb8bfe0fc0` | utmapp/UTM | [open](records/swift-utmapp-utm-cd8eae5c.md) |
 | `github_search_swift-b1733ec8e670ca` | jakeheis/Shout | [open](records/swift-jakeheis-shout-67672dd3.md) |
+| `github_search_swift-b284cc0bdfcc05` | WillieWangWei/SwiftUI-Tutorials | [open](records/swift-williewangwei-swiftui-tutorials-5960373b.md) |
 | `github_search_swift-b2e5a69d2d6b47` | gao-sun/eul | [open](records/swift-gao-sun-eul-73d27248.md) |
+| `github_search_swift-b358415af4bb16` | johnbean393/Sidekick | [open](records/swift-johnbean393-sidekick-0969b325.md) |
 | `github_search_swift-b4981b798160f0` | nachonavarro/Pages | [open](records/swift-nachonavarro-pages-d3acd69d.md) |
 | `github_search_swift-b551c1d664aceb` | sanzaru/SimpleToast | [open](records/swift-sanzaru-simpletoast-1145da94.md) |
 | `github_search_swift-b5b919294ba594` | onevcat/Kingfisher | [open](records/swift-onevcat-kingfisher-c721fc80.md) |
@@ -15200,14 +15269,18 @@
 | `github_search_swift-b729d7dd6921ff` | ianyh/Amethyst | [open](records/swift-ianyh-amethyst-73e82312.md) |
 | `github_search_swift-b9806001ff9ee8` | SnapKit/SnapKit | [open](records/swift-snapkit-snapkit-4ec7288d.md) |
 | `github_search_swift-b98e1b9da9ee12` | p0deje/Maccy | [open](records/swift-p0deje-maccy-e88b50ea.md) |
+| `github_search_swift-b9dbef1fb73c00` | Shubham0812/SwiftUI-Animations | [open](records/swift-shubham0812-swiftui-animations-15f0eb77.md) |
 | `github_search_swift-ba87389a6d4438` | huri000/SwiftEntryKit | [open](records/swift-huri000-swiftentrykit-74ba9318.md) |
 | `github_search_swift-baf5a3ceab4d35` | Lakr233/vphone-cli | [open](records/swift-lakr233-vphone-cli-8827d54c.md) |
 | `github_search_swift-bb692f94c3c894` | altic-dev/FluidVoice | [open](records/swift-altic-dev-fluidvoice-f4158d5b.md) |
 | `github_search_swift-bc3e532e83eafc` | Caldis/Mos | [open](records/swift-caldis-mos-9c22eedd.md) |
 | `github_search_swift-bcd83644e093f5` | MochiDiffusion/MochiDiffusion | [open](records/swift-mochidiffusion-mochidiffusion-1b1509bf.md) |
 | `github_search_swift-bd34fcc2ced9cf` | insidegui/WWDC | [open](records/swift-insidegui-wwdc-3785aec6.md) |
+| `github_search_swift-bde23b846fca4b` | SDWebImage/SDWebImageSwiftUI | [open](records/swift-sdwebimage-sdwebimageswiftui-64e6fecd.md) |
 | `github_search_swift-be2b25b29c3aa2` | sindresorhus/CircularProgress | [open](records/swift-sindresorhus-circularprogress-767a5c68.md) |
 | `github_search_swift-be87a64d300632` | exelban/stats | [open](records/swift-exelban-stats-026d69ce.md) |
+| `github_search_swift-bed376cc6d80ae` | thebaselab/codeapp | [open](records/swift-thebaselab-codeapp-dfde45d4.md) |
+| `github_search_swift-bf7d79675a7e66` | sindresorhus/Plash | [open](records/swift-sindresorhus-plash-2e9ff511.md) |
 | `github_search_swift-bfc15d5cb68337` | sindresorhus/macos-trash | [open](records/swift-sindresorhus-macos-trash-13c785c6.md) |
 | `github_search_swift-c05920c6b70a3f` | lucasbrown/swiftui-visual-effects | [open](records/swift-lucasbrown-swiftui-visual-effects-ebfcc1d4.md) |
 | `github_search_swift-c2e25a5e7bd552` | sindresorhus/Defaults | [open](records/swift-sindresorhus-defaults-8ef3f6cc.md) |
@@ -15217,6 +15290,7 @@
 | `github_search_swift-c5204e5cbae2bc` | ninjaprox/NVActivityIndicatorView | [open](records/swift-ninjaprox-nvactivityindicatorview-44bb39ff.md) |
 | `github_search_swift-c57e2c6c124d92` | Alamofire/Alamofire | [open](records/swift-alamofire-alamofire-ca59baf0.md) |
 | `github_search_swift-c7fe6f4d7f9f56` | realm/SwiftLint | [open](records/swift-realm-swiftlint-518b83d8.md) |
+| `github_search_swift-c8fb1c670e4c6f` | relatedcode/ProgressHUD | [open](records/swift-relatedcode-progresshud-c0be97de.md) |
 | `github_search_swift-c970398d1bf0e6` | AudioKit/AudioKit | [open](records/swift-audiokit-audiokit-f0ff74d0.md) |
 | `github_search_swift-cc261e03153531` | qvacua/vimr | [open](records/swift-qvacua-vimr-a0b04e72.md) |
 | `github_search_swift-cc9659029df834` | manaflow-ai/cmux | [open](records/swift-manaflow-ai-cmux-394b6166.md) |
@@ -15238,21 +15312,29 @@
 | `github_search_swift-d66e778b5b6717` | vorssaintapp/vorssaint-utils | [open](records/swift-vorssaintapp-vorssaint-utils-6c9bd080.md) |
 | `github_search_swift-d6be1fa2c754d1` | shadowsocks/ShadowsocksX-NG | [open](records/swift-shadowsocks-shadowsocksx-ng-4ddf75c0.md) |
 | `github_search_swift-d765b9dd1d7aef` | sindresorhus/LaunchAtLogin-Modern | [open](records/swift-sindresorhus-launchatlogin-modern-7ab8cabe.md) |
+| `github_search_swift-d7775de3d033b2` | TableProApp/TablePro | [open](records/swift-tableproapp-tablepro-17860c9d.md) |
 | `github_search_swift-d7826aa02d2b21` | ReactiveCocoa/ReactiveCocoa | [open](records/swift-reactivecocoa-reactivecocoa-baece3c9.md) |
 | `github_search_swift-d94ca702b1e8db` | seemoo-lab/openhaystack | [open](records/swift-seemoo-lab-openhaystack-945517b3.md) |
 | `github_search_swift-daae766047c46d` | Quick/Quick | [open](records/swift-quick-quick-5bc75537.md) |
+| `github_search_swift-dc22f604016e0e` | kitlangton/Hex | [open](records/swift-kitlangton-hex-ef85bd6e.md) |
+| `github_search_swift-dd67ae78ad0f94` | jellyfin/Swiftfin | [open](records/swift-jellyfin-swiftfin-e178584d.md) |
 | `github_search_swift-dd6f42d2c34b27` | TheBoredTeam/boring.notch | [open](records/swift-theboredteam-boring-notch-f077f529.md) |
+| `github_search_swift-ddaa5d44338b7f` | alin23/Lunar | [open](records/swift-alin23-lunar-a7569222.md) |
 | `github_search_swift-de360769a5dc5e` | lwouis/alt-tab-macos | [open](records/swift-lwouis-alt-tab-macos-156d4a80.md) |
+| `github_search_swift-de74630cd0defb` | kudoleh/iOS-Clean-Architecture-MVVM | [open](records/swift-kudoleh-ios-clean-architecture-mvvm-c369613f.md) |
 | `github_search_swift-def2fc506d2476` | SwifterSwift/SwifterSwift | [open](records/swift-swifterswift-swifterswift-6473bf68.md) |
 | `github_search_swift-df165e0f107cd0` | Mijick/Popups | [open](records/swift-mijick-popups-69766df9.md) |
 | `github_search_swift-df454d346bbec0` | vsouza/awesome-ios | [open](records/swift-vsouza-awesome-ios-2f790b50.md) |
 | `github_search_swift-e124cbbf386d79` | Carthage/Carthage | [open](records/swift-carthage-carthage-a3ac39dd.md) |
 | `github_search_swift-e12ed12da760b0` | SwiftyJSON/SwiftyJSON | [open](records/swift-swiftyjson-swiftyjson-659e2569.md) |
+| `github_search_swift-e27f365bf274ad` | joreilly/PeopleInSpace | [open](records/swift-joreilly-peopleinspace-32675233.md) |
 | `github_search_swift-e297b676e9383e` | intitni/CopilotForXcode | [open](records/swift-intitni-copilotforxcode-fa2e145c.md) |
 | `github_search_swift-e45780c3f2eb46` | daltoniam/Starscream | [open](records/swift-daltoniam-starscream-9636cfb7.md) |
 | `github_search_swift-e59d5421f58abe` | sunnyyoung/WeChatTweak | [open](records/swift-sunnyyoung-wechattweak-3fbdc99c.md) |
+| `github_search_swift-e5a4f1bf879ecd` | Kruszoneq/macUSB | [open](records/swift-kruszoneq-macusb-fc28d388.md) |
 | `github_search_swift-e5b77d7a403444` | TelegramMessenger/Telegram-iOS | [open](records/swift-telegrammessenger-telegram-ios-f4bcfba9.md) |
 | `github_search_swift-e5c160bbe1e82d` | mrkai77/Loop | [open](records/swift-mrkai77-loop-00f0d1de.md) |
+| `github_search_swift-e5edcad6a0c652` | ParthJadhav/app-store-screenshots | [open](records/swift-parthjadhav-app-store-screenshots-7d9e3ab6.md) |
 | `github_search_swift-e65488ecaf06f1` | mrkai77/Loop | [open](records/swift-mrkai77-loop-0f2fe32c.md) |
 | `github_search_swift-e8a71e8147cbde` | CosmicMind/Material | [open](records/swift-cosmicmind-material-db65888a.md) |
 | `github_search_swift-e8b81478fb3e2a` | KrishKrosh/TrackWeight | [open](records/swift-krishkrosh-trackweight-930126cc.md) |
@@ -15261,16 +15343,26 @@
 | `github_search_swift-e94a2450bf372c` | krispuckett/SwiftUIShaders | [open](records/swift-krispuckett-swiftuishaders-6b476fd5.md) |
 | `github_search_swift-eb9ee89ae65770` | SwiftKickMobile/SwiftMessages | [open](records/swift-swiftkickmobile-swiftmessages-450ce325.md) |
 | `github_search_swift-ec235ec630b32b` | MonitorControl/MonitorControl | [open](records/swift-monitorcontrol-monitorcontrol-40207617.md) |
+| `github_search_swift-ec5c561cdc4e6c` | signerlabs/ShipSwift | [open](records/swift-signerlabs-shipswift-0d911a3f.md) |
+| `github_search_swift-ecfad4aedde08c` | ivanvorobei/SwiftUI | [open](records/swift-ivanvorobei-swiftui-f5c23a1b.md) |
 | `github_search_swift-ecff355cc2c2ab` | ChenYilong/CYLTabBarController | [open](records/swift-chenyilong-cyltabbarcontroller-38eee854.md) |
+| `github_search_swift-ed6f7aceaa519a` | amirdew/CollectionViewPagingLayout | [open](records/swift-amirdew-collectionviewpaginglayout-a21ca0ec.md) |
 | `github_search_swift-ed898d21dd5172` | insidegui/WWDC | [open](records/swift-insidegui-wwdc-577016c9.md) |
 | `github_search_swift-ed8f496f3efeb2` | lwouis/alt-tab-macos | [open](records/swift-lwouis-alt-tab-macos-ffbd7980.md) |
 | `github_search_swift-edf27ed2f0631c` | mas-cli/mas | [open](records/swift-mas-cli-mas-b7913336.md) |
 | `github_search_swift-ef61bf73613de1` | TelegramMessenger/Telegram-iOS | [open](records/swift-telegrammessenger-telegram-ios-919c5962.md) |
 | `github_search_swift-f11272b093a562` | apple/swift-system-metrics | [open](records/swift-apple-swift-system-metrics-823d84b7.md) |
 | `github_search_swift-f14c2ea39cae25` | ChenYilong/iOSInterviewQuestions | [open](records/swift-chenyilong-iosinterviewquestions-1b086e68.md) |
+| `github_search_swift-f1b44a4f23dfc9` | wordpress-mobile/AztecEditor-iOS | [open](records/swift-wordpress-mobile-azteceditor-ios-fa3f18d7.md) |
 | `github_search_swift-f2be2315aac7f3` | Mijick/Camera | [open](records/swift-mijick-camera-ba7e7b8b.md) |
+| `github_search_swift-f34fa1887d6b0c` | lovoo/NSFWDetector | [open](records/swift-lovoo-nsfwdetector-40a208a0.md) |
 | `github_search_swift-f463f2cbaa90bd` | tisfeng/Easydict | [open](records/swift-tisfeng-easydict-1f84a530.md) |
+| `github_search_swift-f73782eddaf357` | superhighfives/pika | [open](records/swift-superhighfives-pika-8f5e8eb2.md) |
+| `github_search_swift-f7608c9f312ec3` | paololeonardi/WaterfallGrid | [open](records/swift-paololeonardi-waterfallgrid-6a97503d.md) |
 | `github_search_swift-f9400f287b7345` | IBAnimatable/IBAnimatable | [open](records/swift-ibanimatable-ibanimatable-d1d4f6a1.md) |
+| `github_search_swift-fa1e38e8e72354` | DamascenoRafael/reminders-menubar | [open](records/swift-damascenorafael-reminders-menubar-76dda433.md) |
+| `github_search_swift-fa815d0d14ead6` | bernaferrari/FigmaToCode | [open](records/swift-bernaferrari-figmatocode-a0226585.md) |
+| `github_search_swift-faee0b6f2c2b5b` | nalexn/clean-architecture-swiftui | [open](records/swift-nalexn-clean-architecture-swiftui-d6e80c19.md) |
 | `github_search_swift-fb135b2a8b255b` | ReactiveCocoa/ReactiveCocoa | [open](records/swift-reactivecocoa-reactivecocoa-7e0cb5dc.md) |
 | `github_search_swift-fb18eb0b68a93b` | realm/SwiftLint | [open](records/swift-realm-swiftlint-344e4c9c.md) |
 | `github_search_swift-fb95260bc3bea5` | LiveContainer/LiveContainer | [open](records/swift-livecontainer-livecontainer-df088e07.md) |
